@@ -72,4 +72,4 @@ Evidence-quality symbols (GRADE): 4444 = High; 444B = Moderate; 44BB = Low; 4BBB
 ## Contradictions / Open Questions
 
 - No clinically significant conflicts with existing wiki content. Spigelman staging of duodenal polyposis is **not** addressed in this 2015 guideline (the prior ASGE FAP-specific guideline covers FAP duodenal surveillance); FAP-specific Spigelman staging should be sourced from the FAP guideline, not this document.
-- Guideline is from a 1980–2013 literature search; later ASGE/ESGE papillectomy guidance may supersede technical details if ingested.
+- Guideline is from a 1980–2013 literature search; later ASGE/ESGE papillectomy guidance may supersede technical details.

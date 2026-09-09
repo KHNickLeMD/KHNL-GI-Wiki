@@ -49,7 +49,7 @@ Other presentations: **biliary ischemia** (secondary sclerosing cholangitis, bil
 
 ### Establishing the Diagnosis
 
-> **Decision gap — criteria not in an ingested source.** The ingested sources do not state the clinical diagnostic criteria for HHT itself (the Curaçao criteria). [[acg-2020-hepatic-mesenteric-circulation]] addresses only the **hepatic/GI management** of already-diagnosed HHT. Do not infer the criteria from this page — an HHT-specific source is needed.
+> [[acg-2020-hepatic-mesenteric-circulation]] addresses only the **hepatic/GI management** of already-diagnosed HHT and does not state the clinical diagnostic criteria for HHT itself (the Curaçao criteria); take those from an HHT-specific guideline.
 
 Routes into the diagnosis that *are* sourced here:
 
@@ -58,7 +58,7 @@ Routes into the diagnosis that *are* sourced here:
 
 ### Severity Assessment
 
-- Severity is defined **functionally, not by a score** — management keys off whether LVMs are *symptomatic* vs asymptomatic, and off failure of standard medical therapy. No graded severity classification for HHT liver disease appears in the ingested sources
+- Severity is defined **functionally, not by a score** — management keys off whether LVMs are *symptomatic* vs asymptomatic, and off failure of standard medical therapy. No graded severity classification for HHT liver disease is given in the guideline
 - Natural history anchors: symptomatic LVMs occur **only in adults**, mean age **~48 y** at presentation (youngest reported 21 y); **8%–14%** of patients with definite HHT + LVM are symptomatic at HHT diagnosis; **~3.5% per year** of asymptomatic patients develop overt symptoms; 5% died over a median 44 months' follow-up (median age at death 75 y)
 - Except for portal hypertension, presentations occur **predominantly in women**. Pregnancy with HHT + LVM can trigger severe heart failure and/or biliary ischemia ("hepatic disintegration syndrome")
 
@@ -71,7 +71,7 @@ Routes into the diagnosis that *are* sourced here:
 - **[[focal-nodular-hyperplasia|Focal nodular hyperplasia]]** — more common in HHT (prevalence **2.9%** vs **0.3%** in the general population). There are **no reports of [[hepatocellular-carcinoma\|HCC]]** arising in a liver with LVMs
 - Other vascular disorders of the hepatic circulation covered by the same guideline: [[budd-chiari-syndrome]], [[portal-vein-thrombosis]], [[mesenteric-artery-aneurysm]]
 
-> **Gap:** the ingested sources do not provide a formal differential diagnosis for HHT; the entries above are the adjacent/mimicking entities those sources address, not a sourced DDx list.
+> The guideline does not provide a formal differential diagnosis for HHT; the entries above are the adjacent/mimicking entities it addresses.
 
 ## Diagnostics
 
@@ -150,7 +150,7 @@ flowchart TD
 - Bleeding-related **anemia can precipitate or worsen** the hepatic presentations (especially HOHF) — correcting it is part of standard LVM therapy
 - **[[tips|TIPS]] does not ameliorate bleeding from GI arteriovenous malformations** ([[acg-2020-hepatic-mesenteric-circulation]])
 
-> **Gap:** the ingested sources give **no endoscopic or pharmacologic management algorithm specific to HHT-related GI bleeding** (no HHT-specific bevacizumab, thalidomide, or APC recommendation). An HHT-specific or GI-bleeding-in-HHT source is needed.
+> The guideline gives **no endoscopic or pharmacologic management algorithm specific to HHT-related GI bleeding** (no HHT-specific bevacizumab, thalidomide, or APC recommendation); see an HHT-specific guideline.
 
 ---
 

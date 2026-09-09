@@ -64,5 +64,5 @@ Supporting data points:
 
 ## Contradictions / Open Questions
 - Esophageal cancer risk magnitude differs by source: this CPU cites HR 4.6 (5-fold) from a 2024 VA cohort; the [[achalasia]] page (ACG 2020) cites ~28x HR for squamous cell carcinoma. Both retained; different cohorts/endpoints. Neither society routinely endorses cancer-specific surveillance.
-- Many statements are explicitly unsettled by the CPU (optimal myotomy length, value of routine post-POEM esophagram, standardized same-day discharge criteria, surveillance intervals) — flagged as open questions, not recommendations.
-- **Figure gap:** Figure 1 (flow chart of POEM's role in evaluation/management of esophageal motility disorders) and Figure 3 (anterior vs posterior tunnel endoscopic images) could not be captured (pymupdf not installed). Content of Figure 1 is otherwise represented textually via BPA 1–3. Figure 2 (HRM/FLIP subtype images) duplicates existing achalasia-page figures.
+- Many statements are explicitly unsettled by the CPU (optimal myotomy length, value of routine post-POEM esophagram, standardized same-day discharge criteria, surveillance intervals) — stated as open questions, not recommendations.
+- **Figures:** Figure 1 (flow chart of POEM's role in evaluation/management of esophageal motility disorders) and Figure 3 (anterior vs posterior tunnel endoscopic images) are not reproduced here; Figure 1's content is represented textually via BPA 1–3, and Figure 2 (HRM/FLIP subtype images) duplicates the achalasia-page figures.

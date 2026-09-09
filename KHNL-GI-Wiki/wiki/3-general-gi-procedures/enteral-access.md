@@ -86,7 +86,7 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 
 ### Route Selection Table
 
-⚠ **Figure gap.** [[aga-2025-endoscopic-enteral-access]] Figure 1 ("Enteral access locations and end points within the GI tract") maps every route in this table onto the anatomy and should be embedded here per the Style Guide. It is a raster figure — `pdftotext` cannot recover it and no figure-capture tool is available in this environment (`pdfimages`/`pdftoppm` not permitted; PyMuPDF not installed). Capture it; do not redraw it.
+[[aga-2025-endoscopic-enteral-access]] Figure 1 ("Enteral access locations and end points within the GI tract") maps every route in this table onto the anatomy; see the original for the diagram.
 
 | Scenario | Preferred route |
 |---|---|

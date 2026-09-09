@@ -59,5 +59,5 @@ CVS is diagnosed clinically by **Rome IV criteria** and unfolds in **4 phases** 
 - Neuromodulator prophylaxis (TCAs first-line) overlaps the neuromodulator framing used elsewhere in the DGBI cluster.
 
 ## Contradictions / Open Questions
-- Diagnostic criteria are **Rome IV**; the wiki now also holds `[[rome-v-2026-dgbi]]` (Rome V, 2026). This CPU predates Rome V — where Rome V revises CVS criteria, the newer consensus governs; flagged for reconciliation when Rome V CVS criteria are ingested.
+- Diagnostic criteria are **Rome IV**; see also `[[rome-v-2026-dgbi]]` (Rome V, 2026). This CPU predates Rome V — where Rome V revises CVS criteria, the newer consensus governs.
 - All CVS pharmacotherapy rests on case series / expert opinion (no RCTs) — evidence quality is low by design.

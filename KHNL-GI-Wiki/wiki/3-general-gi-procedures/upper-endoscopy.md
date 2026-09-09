@@ -103,7 +103,7 @@ Document all of: esophagus, GEJ (antegrade), gastric cardia/fundus (retroflexed)
 | Peptic esophageal stricture dilation | Recommend PPI (if no allergy/contraindication) | >98% |
 | BE with dysplasia or IMC undergoing [[endoscopic-eradication-therapy\|EET]] | Complete IM eradication within 18 months | >75% |
 
-> ⚠ **Decision gap — LA grade.** Two rows above turn on the LA grade (document it; repeat EGD if **C/D**), so the grade cannot currently be assigned from this wiki. **Corrected 2026-09-03 — this is a *tooling* block, not a corpus block.** The criteria are in an ingested source: [[acg-2025-egd-quality|ACG/ASGE 2025]] prints them as **Figure 2, "Los Angeles classification scheme for erosive esophagitis"**, and [[aga-2024-upper-endoscopy-quality|AGA 2024]] prints them inside **Figure 2, "Endoscopic classification systems for selected upper gastrointestinal pathology."** Both are raster figures, so `pdftotext` cannot recover the mucosal-break text and no figure-capture tool is currently available in this environment (`pdfimages`/`pdftoppm` not permitted; PyMuPDF not installed). **Close it by capturing the figure**, not by transcribing from memory. Tracked on [[reflux-testing]].
+> The LA grade A–D criteria the two rows above turn on are printed only as figures ([[acg-2025-egd-quality|ACG/ASGE 2025]] Figure 2, "Los Angeles classification scheme for erosive esophagitis"; [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2); the LA-grade entry lives on [[reflux-testing]].
 
 ---
 
@@ -186,14 +186,14 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 | Finding | Classification System | Criteria live on |
 |---|---|---|
-| Erosive esophagitis | Los Angeles (LA) classification | [[reflux-testing]] — ⚠ **criteria not yet transcribed**; they exist as a figure in two ingested sources but need figure capture (see the LA note above). Clinical significance on [[gerd]] |
+| Erosive esophagitis | Los Angeles (LA) classification | [[reflux-testing]] — criteria are printed as figures in [[acg-2025-egd-quality\|ACG/ASGE 2025]] and [[aga-2024-upper-endoscopy-quality\|AGA 2024]] (Figure 2 in each). Clinical significance on [[gerd]] |
 | [[barretts-esophagus\|Barrett's esophagus]] | Prague C&M criteria | [[barretts-esophagus]] |
 | Bleeding [[peptic-ulcer-disease\|peptic ulcers]] | Forrest classification | [[upper-gi-bleeding]] — class definitions (FIa spurting → FIII clean based) and class-specific rebleeding rates are on that page, from [[acg-2025-egd-quality]] QI 13 |
 | Superficial neoplastic lesions | Paris classification | [[polypectomy]] |
-| Gastroesophageal flap valve | Hill grade classification | [[reflux-testing]] — ⚠ **criteria not yet transcribed**; grades I–IV are depicted in [[aga-2024-upper-endoscopy-quality\|AGA 2024]] Figure 2, a raster figure needing capture (same tooling block as LA above) |
+| Gastroesophageal flap valve | Hill grade classification | [[reflux-testing]] — grades I–IV are depicted in [[aga-2024-upper-endoscopy-quality\|AGA 2024]] Figure 2 |
 | [[eosinophilic-esophagitis\|Eosinophilic esophagitis]] | EREFS; I-SEE (emerging standard for disease activity) | [[eosinophilic-esophagitis]] |
 
-- ⚠ **Scope note:** the 29 indicators on this page ([[acg-2025-egd-quality|ACG/ASGE 2025]] Table 1, QI 1–29) are the **EGD-specific** set. [[acg-2025-egd-quality|ACG/ASGE 2025]] explicitly places the indicators **common to all endoscopy** — informed consent, [[anticoagulation-gi-bleeding|antithrombotic management]], team pause/time-out, sedation monitoring, discharge criteria — in a **separate document** that is not yet ingested. Treat this list as complete for EGD only.
+- ⚠ **Scope note:** the 29 indicators on this page ([[acg-2025-egd-quality|ACG/ASGE 2025]] Table 1, QI 1–29) are the **EGD-specific** set. [[acg-2025-egd-quality|ACG/ASGE 2025]] explicitly places the indicators **common to all endoscopy** — informed consent, [[anticoagulation-gi-bleeding|antithrombotic management]], team pause/time-out, sedation monitoring, discharge criteria — in a **separate document**. Treat this list as complete for EGD only.
 
 *Report the class, not a free-text description — each system's criteria are held on its home page (linked) rather than duplicated here.*
 

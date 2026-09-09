@@ -27,7 +27,7 @@ Spectrum of lymphoid proliferations arising under immunosuppression after solid-
 - **Requires a high index of suspicion** — consider in LT recipients (especially high-risk individuals) presenting with **undiagnosed fever, unexplained lymphadenopathy, or cytopenias** ([[aasld-2012-liver-transplant-long-term]] Rec 58, *grade 1, level A*). The presentation is frequently **nonspecific or absent altogether**; when symptoms do appear they are vague — **fevers, night sweats, weight loss** ([[aasld-ast-2025-liver-transplant-non-graft-complications]]).
 - **Organs involved** — beyond nodes and marrow, disturbances of the **GI tract, lungs, spleen, and CNS**. Imaging may show **bulky lymphadenopathy**.
 - **Histopathological diagnosis is required, and EBV viremia is NOT diagnostic** — detection of EBV by nucleic acid testing supports suspicion but cannot establish the diagnosis; biopsy of involved tissue is mandatory ([[aasld-2012-liver-transplant-long-term]] Rec 59, *grade 1, level A*).
-- **Timing — the two ingested sources frame it differently, and both windows matter:**
+- **Timing — the two AASLD guidelines frame it differently, and both windows matter:**
   - **Months 3–6 post-LT** is the period of maximal immunosuppression, when opportunistic pathogens (CMV, EBV, fungi) predominate ([[aasld-2012-liver-transplant-long-term]]).
   - **Most cases occur in the first 3 years after LT, but patients may present many years later** ([[aasld-ast-2025-liver-transplant-non-graft-complications]] — newer, so this is the operative statement). *A late presentation does not argue against PTLD.*
 - **Risk factors** — primary EBV infection, CMV donor–recipient mismatch or CMV disease, and augmented immunosuppression (especially anti-lymphocyte antibodies). **Patients who are EBV-negative at the time of LT are at the highest risk** ([[aasld-ast-2025-liver-transplant-non-graft-complications]]). It is uncertain whether the etiology of the underlying liver disease influences PTLD development.
@@ -39,8 +39,8 @@ Spectrum of lymphoid proliferations arising under immunosuppression after solid-
 ### Classification / Typing
 
 - **EBV-associated vs EBV-negative** — the association with EBV is variable in adult LT recipients; **later-onset PTLD is less likely to be EBV-associated**.
-- **Monomorphic vs non-monomorphic** is the only histologic split the ingested sources use, and it carries both the prognosis and the treatment decision (chemotherapy for monomorphic disease).
-- ⚠ **Decision gap — the full histologic subclassification and staging are not on this page.** Neither ingested source ([[aasld-2012-liver-transplant-long-term]], [[aasld-ast-2025-liver-transplant-non-graft-complications]]) gives the criteria that define the WHO PTLD categories (early lesions / polymorphic / monomorphic / classic Hodgkin-like) or a staging system — only the *name* "monomorphic". A hematology/oncology PTLD source would be needed; do not infer the categories from this page.
+- **Monomorphic vs non-monomorphic** is the only histologic split the AASLD guidelines use, and it carries both the prognosis and the treatment decision (chemotherapy for monomorphic disease).
+- ⚠ **The full histologic subclassification and staging are not on this page.** Neither AASLD guideline ([[aasld-2012-liver-transplant-long-term]], [[aasld-ast-2025-liver-transplant-non-graft-complications]]) gives the criteria that define the WHO PTLD categories (early lesions / polymorphic / monomorphic / classic Hodgkin-like) or a staging system — only the *name* "monomorphic". Those are in the hematology/oncology PTLD literature (WHO classification).
 
 ## Differential Diagnosis
 

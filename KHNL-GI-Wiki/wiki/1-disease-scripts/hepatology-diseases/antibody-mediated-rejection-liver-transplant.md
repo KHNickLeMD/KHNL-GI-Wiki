@@ -33,7 +33,7 @@ Rejection of a [[liver-transplantation|liver allograft]] mediated by **donor-spe
 - **DSA titre — what counts as "elevated":** preformed DSA of potential clinical significance was **tentatively defined as MFI ≥5,000** at the 2015 Banff Conference. ⚠ The positivity cutoff **varies by laboratory** and the optimal range is undetermined — the reason Rec 55 declines routine pre-transplant DSA testing (see [[#Diagnostics]]). Interpret an MFI only against the reporting lab's own threshold.
 - **Acute AMR** — graded clinically by depth of unexplained graft dysfunction, thrombocytopenia, and hypocomplementemia; the guideline provides no numeric scale.
 - **Chronic AMR** — occurs in **<10%** of liver transplant recipients; most episodes are **mixed chronic AMR + TCMR**, which is why the features are hard to characterize. Endpoint is graft fibrosis and graft loss.
-- *Gap: no Banff AMR grading (h-score, C4d 0–3, Rejection Activity Index) is in any ingested source — a Banff Working Group consensus paper would be needed. [[liver-transplantation]] carries the same gap for the TCMR Rejection Activity Index.*
+- *The Banff AMR grading (h-score, C4d 0–3, Rejection Activity Index) is not given by the guideline; see the Banff Working Group consensus. [[liver-transplantation]] likewise does not carry the TCMR Rejection Activity Index.*
 
 ### Classification / Typing
 
@@ -47,7 +47,7 @@ Histologic signature features ([[aasld-ast-2025-liver-transplant-graft-complicat
 | Other | Unexplained graft dysfunction, thrombocytopenia, hypocomplementemia, circulating immune complexes, vasculitis on biopsy | Frequently coexists with TCMR (see [[#Severity Assessment]]) |
 
 - **Chronic AMR score** — histologic findings + presence of DSA + exclusion of other etiologies; associated with graft loss, **AUC 0.70–0.81**.
-  - *Gap: [[aasld-ast-2025-liver-transplant-graft-complications]] names the score and its AUC but gives no component list, point values, or cut-off — the original chronic-AMR score derivation paper is not ingested. Do not score from this page.*
+  - *[[aasld-ast-2025-liver-transplant-graft-complications]] names the score and its AUC but gives no component list, point values, or cut-off; the score cannot be computed from this page — see the original chronic-AMR score derivation paper.*
 
 ## Differential Diagnosis
 

@@ -84,7 +84,7 @@ Note the two signs differ: **>70%** for ineffective, **≥50%** for failed.
 - Address underlying [[gerd|GERD]]; IEM frequently co-exists with reflux
 - Pre-[[antireflux-surgery|anti-reflux surgery]] caution: HRM assesses peristaltic reserve before ARS ([[acg-2020-esophageal-physiologic-testing]]) — full pre- and post-ARS manometric framework on [[hrm-antireflux-surgery]]
 
-*No IEM-specific pharmacotherapy is supported by an ingested source (prokinetics lack IEM evidence) — awaiting a dedicated source.*
+*No IEM-specific pharmacotherapy is supported by the guidelines (prokinetics lack IEM evidence).*
 
 ---
 

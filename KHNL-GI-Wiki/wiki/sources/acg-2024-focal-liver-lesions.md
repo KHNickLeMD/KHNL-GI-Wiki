@@ -117,7 +117,7 @@ Hepatocellular adenoma (HCA) carries the highest management stakes: it has four 
 ## Relevance to Wiki
 
 - Creates new disease-script pages: [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatic-cysts]]
-- Concept pages needed: [[li-rads]] (stub), [[hcc-surveillance]] (stub)
+- Concept pages: [[li-rads]], [[hcc-surveillance]]
 - First focal liver lesion content in HPB disease-scripts
 
 ## Contradictions / Open Questions

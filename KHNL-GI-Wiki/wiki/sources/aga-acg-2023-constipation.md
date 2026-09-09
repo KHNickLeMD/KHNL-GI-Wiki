@@ -73,7 +73,7 @@ Monthly cost comparisons were explicitly incorporated into recommendations as a 
 
 - Creates [[chronic-idiopathic-constipation]] disease script
 - Complements [[defecation-disorders]] for the functional/physiologic constipation differential
-- Cross-references: [[prucalopride]], [[linaclotide]], [[plecanatide]] medication stubs
+- Cross-references: [[prucalopride]], [[linaclotide]], [[plecanatide]] medication pages
 
 ## Contradictions / Open Questions
 

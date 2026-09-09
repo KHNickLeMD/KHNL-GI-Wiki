@@ -86,8 +86,8 @@ Historically avoided on the assumption that right-sided stenting is too technica
 
 ## Palliative Stenting
 
-- European guidelines (2020) recommend SEMS as the **preferred option for left-sided MCO in non-resectable patients** — known to the wiki only secondhand, through the ingested sources; **ESGE 2020 itself is not ingested** and no page should assert it as a guideline claim.
-- **SEMS vs diverting colostomy is genuinely unresolved in the ingested corpus**, and BPA 12 accordingly declines to pick one:
+- European guidelines (ESGE 2020) recommend SEMS as the **preferred option for left-sided MCO in non-resectable patients** — cited here only as reported by the US sources, not from the ESGE document itself.
+- **SEMS vs diverting colostomy is genuinely unresolved**, and BPA 12 accordingly declines to pick one:
   - SEMS allowed **earlier oral intake and shorter hospital stay**, but with a **trend favouring colostomy** for overall survival and time to readmission.
   - **2013 meta-analysis** (13 studies, 837 patients): SEMS had **lower clinical success** and **no difference in overall mortality**.
   - **2015 meta-analysis**: **no difference in clinical success**, but SEMS had **significantly fewer early adverse events, less need for a stoma, and improved overall survival** — at the cost of **higher perforation risk and more late adverse events**.

@@ -18,7 +18,7 @@ sources: [baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertens
 - [[#Diagnostics]]
   - [[#Diagnostic scoring system]]
   - [[#Adjunct workup]]
-  - [[#Gaps]]
+  - [[#Limits of the source]]
 - [[#Therapeutics]]
 - [[#See Also]]
 - [[#Sources]]
@@ -79,7 +79,7 @@ PSVD/NCPF is defined **histologically + clinically**, not by a stage. Baveno VII
 
 ### Diagnostic scoring system
 
-**Diagnosis rests on a score (8.42, Figure 4)** that combines clinical portal-hypertension features, histology, and concomitant conditions. Two gates apply regardless of the score: **cirrhosis must be ruled out on an adequate biopsy**, and **no exclusion criteria may be present** (Supplementary Table S2 of the source — not extracted; see [[#Gaps]]).
+**Diagnosis rests on a score (8.42, Figure 4)** that combines clinical portal-hypertension features, histology, and concomitant conditions. Two gates apply regardless of the score: **cirrhosis must be ruled out on an adequate biopsy**, and **no exclusion criteria may be present** (Supplementary Table S2 of the source; see [[#Limits of the source]]).
 
 | Component | Type | Score |
 |---|---|---|
@@ -105,10 +105,10 @@ PSVD/NCPF is defined **histologically + clinically**, not by a stage. Baveno VII
 - **Contrast-enhanced cross-sectional imaging at diagnosis** (8.49) — evaluate the anatomy and patency of the portal venous system, spontaneous portosystemic collaterals, **hepatic veno-venous communications**, and nodules. (Baveno VII 9.25 named CT specifically; VIII broadens to contrast-enhanced cross-sectional imaging and adds veno-venous communications and nodules to what is being looked for.)
 - **HVPG** is typically <10 mmHg and **underestimates** the true portal pressure because of the pre-sinusoidal component. Where a pre-sinusoidal cause is suspected, [[interventional-eus-vascular|EUS-guided portosystemic pressure gradient]] measures portal pressure directly rather than through the wedged proxy.
 
-### Gaps
+### Limits of the source
 
-- **The lower band of the diagnostic score has no recoverable label.** Figure 4's total-score axis prints tick marks at 0–1, 2, 3–4 and 5+, but only ≥5 ("definite") and 3–4 ("possible") carry legible text in the extracted PDF; what a score of ≤2 is called could not be recovered. PyMuPDF was unavailable at ingest, so the figure could not be captured as an image.
-- **The exclusion criteria are in Supplementary Table S2**, and the associated-conditions list in Supplementary Table S3, neither of which is in the ingested file. The **EASL Clinical Practice Guidelines on Vascular Liver Diseases**, cited by statement 8.3 for the full aetiological workup, is **not ingested**.
+- **The lower band of the diagnostic score is unlabeled here.** Figure 4's total-score axis prints tick marks at 0–1, 2, 3–4 and 5+, but only ≥5 ("definite") and 3–4 ("possible") are legible; consult the source figure for what a score of ≤2 is called.
+- **The exclusion criteria are in Supplementary Table S2**, and the associated-conditions list in Supplementary Table S3; the **EASL Clinical Practice Guidelines on Vascular Liver Diseases**, cited by statement 8.3, carry the full aetiological workup.
 
 ---
 

@@ -135,7 +135,7 @@ The guideline emphasizes equity and access, noting that patients with ALD, Afric
 - Updates [[acute-liver-failure]] — urgent referral recommendations
 - Updates [[alcohol-associated-liver-disease]] — ALD-specific transplant evaluation (early referral, no fixed abstinence requirement, MAT acceptance)
 - Updates [[portal-vein-thrombosis]] — Yerdel grade IV PVT as relative contraindication to isolated LT
-- Touches [[hepatopulmonary-syndrome-portopulmonary-hypertension]] — stub needed
+- Touches [[hepatopulmonary-syndrome-portopulmonary-hypertension]]
 - Touches [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]] — transplant indications confirmed
 
 ## Contradictions / Open Questions

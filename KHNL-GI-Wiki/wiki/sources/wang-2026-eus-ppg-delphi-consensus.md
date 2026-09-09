@@ -23,7 +23,7 @@ A steering committee of 8 experts (6 advanced endoscopists, 2 hepatologists) dra
 
 **54 statements** were initially proposed; 46 (85%) reached consensus in round 1 (Table 1), 8 did not (Table 2) — of which 2 coagulation statements were merged into 1, and 7 revised statements passed on round 2. **In total, 53 statements reached consensus after 2 rounds.** Key headline conclusions: (1) indications for EUS-PPG include all indications for HVPG and it may be *preferred* for suspected presinusoidal portal hypertension or when another endoscopic indication (e.g. variceal screening, liver biopsy) is present ("one-stop-shop"); (2) EUS-PPG is safe and well tolerated (aggregate adverse events <1%, most common = post-procedural pain); (3) it should be performed under monitored anesthesia care (MAC) or general anesthesia; (4) meticulous technical detail is required for accuracy.
 
-Correlation data cited: EUS-PPG vs HVPG ICC 0.82 (Martinez-Moreno); ENCOUNTER trial (Vanderschueren) r=0.74 overall, r=0.85 portal vein, r=0.72 hepatic vein, and r=0.91 vs direct transjugular portal pressure in post-TIPS patients. The largest multicenter series (Kolb, n=385) reported **no bleeding adverse events** despite no platelet/INR exclusion criteria, including in 226 (58.7%) who had same-session EUS liver biopsy. ENCOUNTER also observed that **propofol-based general anesthesia substantially and clinically depresses HVPG** vs no sedation — flagged as a key confounder needing study.
+Correlation data cited: EUS-PPG vs HVPG ICC 0.82 (Martinez-Moreno); ENCOUNTER trial (Vanderschueren) r=0.74 overall, r=0.85 portal vein, r=0.72 hepatic vein, and r=0.91 vs direct transjugular portal pressure in post-TIPS patients. The largest multicenter series (Kolb, n=385) reported **no bleeding adverse events** despite no platelet/INR exclusion criteria, including in 226 (58.7%) who had same-session EUS liver biopsy. ENCOUNTER also observed that **propofol-based general anesthesia substantially and clinically depresses HVPG** vs no sedation — the authors call this a key confounder needing study.
 
 ## Key Findings / Claims
 
@@ -112,7 +112,6 @@ Correlation data cited: EUS-PPG vs HVPG ICC 0.82 (Martinez-Moreno); ENCOUNTER tr
 - **`[[portal-hypertension]]`** (exists) — should gain: EUS-PPG as an emerging direct portal-pressure measurement, preferred over HVPG for suspected **presinusoidal / noncirrhotic** portal hypertension (Statement 3, 95%) and MASH (where wedged pressure underestimates portal pressure); "one-stop-shop" combination with variceal screening EGD + EUS liver biopsy (Statements 4, 8, 10). Cross-link to HVPG/CSPH thresholds already on the page.
 - **`[[endoscopic-ultrasound]]`** (exists) — add EUS-PPG to the therapeutic/diagnostic EUS applications and link to the technique page.
 - **`[[tips]]`** (exists) — minor: post-TIPS direct transjugular portal pressure correlated best with EUS-PPG (r=0.91); EUS-PPG may be a future tool for pre/post-shunt hemodynamic assessment (future-research Statement 51).
-- **`raw/GI Guidelines/Other/`** routing — this is an AGA-Institute-published international consensus; filed under Other (multi-society/other guidelines), consistent with the raw folder.
 
 ## Contradictions / Open Questions
 

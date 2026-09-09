@@ -135,7 +135,7 @@ Also never de-prescribe **hypersecretory states** (Zollinger-Ellison syndrome).
 
 > ⚠ **The source contradicts itself on the age cutoff.** The synthesized criteria above use **>60 years**; the ACG 2009 NSAID row of the source's own Table 2 uses **>65 years**. Both appear in [[aga-2022-ppi-deprescribing]]; neither is reconciled.
 >
-> ⚠ The source states plainly that **"precisely which patients are at sufficiently increased risk … remains uncertain"** and that published guidance statements differ (ACG 2009, ACP 2010/2019, ACCF/ACG/AHA 2010, ESC/EACTS 2017, ACCP 2018, ACC 2020). Its Table 2 is a **display of disagreement**, not a consensus. None of those six documents is separately ingested.
+> ⚠ The source states plainly that **"precisely which patients are at sufficiently increased risk … remains uncertain"** and that published guidance statements differ (ACG 2009, ACP 2010/2019, ACCF/ACG/AHA 2010, ESC/EACTS 2017, ACCP 2018, ACC 2020). Its Table 2 is a **display of disagreement**, not a consensus.
 
 ### Step down the dose first (BPA 3)
 
@@ -164,7 +164,7 @@ Warn every patient stopping long-term PPI that they may develop **transient uppe
 - 🚩 **Severe persistent symptoms lasting >2 months** after discontinuation suggest a continuing indication, or a **non–acid-mediated** cause.
 - An RCT found that persons **without abnormal esophageal acid exposure (acid exposure time >4.0%)** on [[ambulatory-reflux-monitoring|ambulatory pH testing]] in the first **7 days** after withdrawal are much more likely **not** to need PPI re-initiation — though feasibility before every attempt is unclear.
 
-> ⚠ **Contradiction — resolved in favour of the newer source.** [[acg-2021-gerd]] states that rebound acid hypersecretion is demonstrated in healthy controls but that "strong evidence for increased symptoms after abrupt withdrawal is lacking." [[aga-2022-ppi-deprescribing]] (2022, same tier, newer) treats RAHS as a real cause of post-withdrawal symptoms warranting an explicit patient warning, citing a **double-blinded RCT (Reimer et al.)** in which PPI withdrawal after an 8-week course produced a **higher incidence of upper GI symptoms** than continuing. The wiki asserts the AGA position; the ACG wording is recorded here.
+> ⚠ **Contradiction — resolved in favour of the newer source.** [[acg-2021-gerd]] states that rebound acid hypersecretion is demonstrated in healthy controls but that "strong evidence for increased symptoms after abrupt withdrawal is lacking." [[aga-2022-ppi-deprescribing]] (2022, same tier, newer) treats RAHS as a real cause of post-withdrawal symptoms warranting an explicit patient warning, citing a **double-blinded RCT (Reimer et al.)** in which PPI withdrawal after an 8-week course produced a **higher incidence of upper GI symptoms** than continuing. This page follows the AGA position; the ACG wording is recorded here.
 
 ### Other options
 - **On-demand / intermittent** PPI for heartburn control in **NERD** (non-erosive reflux disease) — Conditional/Low ([[acg-2021-gerd]]); symptom-free days equivalent to continuous therapy, both superior to placebo. On-demand is **not** adequate for erosive esophagitis.

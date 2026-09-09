@@ -69,7 +69,6 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endo
 
 - **Failed ERCP in native anatomy:** EUS-guided biliary drainage is suggested **over PTBD** — but the **rendezvous** technique is preferred over EUS-CDS/EUS-HGS in *suspected benign* disease, and **PTBD is preferred** when the patient is **hemodynamically unstable, cannot tolerate general anesthesia, or has suspected malignancy as the cause of obstruction** (or EUS-BD expertise is unavailable). Drainage-route detail lives on [[biliary-stricture]]. ([[asge-2024-therapeutic-eus-biliary]])
 - **Sphincterotomy energy delivery — PEP risk is primarily *technique*-related, not energy-setting-related** ([[aga-2026-electrosurgery]] BPA 12). Keep wire–tissue contact small and the wire **unburied, applied to the surface with minimal tension**, for high current density and minimal collateral thermal injury. Waveform choice (pure cut vs blended), settings by manufacturer, and the underlying physics are on **[[electrosurgery#ERCP Sphincterotomy]]**.
-- *Stub — EST vs. EPBD, biliary vs. pancreatic sphincterotomy, stent types in detail.*
 
 ---
 
@@ -124,7 +123,7 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endo
 
 ## Quality Metrics
 
-Benchmarks stated in the ingested sources ([[asge-2015-ercp-benign-biliary]]):
+Benchmarks stated in [[asge-2015-ercp-benign-biliary]]:
 
 | Metric | Target |
 |---|---|
@@ -133,7 +132,7 @@ Benchmarks stated in the ingested sources ([[asge-2015-ercp-benign-biliary]]):
 | Overall adverse-event rate (sphincterotomy + stone extraction, expert hands) | **~5%** |
 | Mortality (expert hands) | **<1%** |
 
-- ⚠ **Gap:** no **native-papilla cannulation-rate** benchmark, appropriate-indication rate, or PEP-rate target exists in any source cited on this page. Adding the ASGE/ACG *Quality Indicators for ERCP* document would close it — do not supply these numbers from memory.
+- The **native-papilla cannulation-rate** benchmark, appropriate-indication rate, and PEP-rate target are set in the ASGE/ACG *Quality Indicators for ERCP* document, not in the sources cited on this page.
 
 ---
 

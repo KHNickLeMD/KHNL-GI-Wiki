@@ -12,6 +12,7 @@ updated: 2026-09-04
 
 ## Overview
 
+- [[needed-sources]] — Download list: every paper, guideline, label, figure, or table that would close a named gap on a page but is not in `raw/`, grouped by type with the waiting page(s). Add the file, ingest, delete the row.
 - [[overview]] — Pointer page: defers to `README.md` as the single source of truth for wiki-level documentation (scope, structure, therapeutic landscape, key frameworks, evidence sources)
 
 ---
@@ -811,15 +812,8 @@ Topics with no page yet. The lint cron creates **1–2 per pass** from the top o
 - **Misnamed:** `ACG/ACG 2018 Management of Irritable Bowel Syndrome.pdf` is actually Lacy BE et al., *Am J Gastroenterol* 2021;116:17–44. There is no 2018 ACG IBS monograph in `raw/`.
 - The two `Aloysius 2026 DDW` `.png` files in `raw/GI Other Studies/` are the abstract and baseline table of one study, both covered by [[aloysius-2026-ercp-timing-septic-shock-cholangitis]].
 
-### Needs a source (do not write from general knowledge)
-- **Solitary rectal ulcer syndrome — resolved 2026-09-06, no page needed.** The ingested corpus ([[acg-2021-anorectal-disorders]], [[asge-2014-constipation]]) supports only what already lives at [[rectal-prolapse#Solitary Rectal Ulcer Syndrome]] — biofeedback first, ventral mesh rectopexy when refractory (especially at the lead point of an internal intussusception), 78% ulcer healing across 2 studies / 75 patients. A separate page would duplicate it, so the five references across the wiki now **anchor to that section** instead of aliasing to `[[rectal-prolapse]]` as a whole. A dedicated page needs a colorectal-surgery/pelvic-floor guideline that is not in `raw/`.
-- **IANS 2024 anal cancer screening consensus** (Stier et al., *Int J Cancer* 2024;154:1694-1702, doi:10.1002/ijc.34850) — ⚠ `raw/GI Guidelines/Other/IANS 2024 Anal Cancer Screening Consensus.pdf` is **not a PDF**: it is a saved Cloudflare bot-challenge page from Wiley (6 KB of HTML, zero clinical content). The download failed upstream and needs re-fetching. [[anal-cancer-screening]] currently carries the IANS criteria **second-hand through [[asccp-2024-anal-cancer-screening]]**; the primary would add the full recommendation set, HRA practice standards, and management after a biopsy-proven anal HSIL.
-- EASL CPG on Vascular Liver Diseases (cited by Baveno VIII 8.3 for the full VLD aetiological workup); Baveno VIII Supplementary Tables S1–S4 (frailty/sarcopenia tools, PSVD/NCPF exclusion criteria, associated conditions, PVT risk factors) — online-only, not in the ingested PDF.
-- Pyogenic/amebic liver abscess; hepatitis A; hepatitis E; small bowel obstruction; chronic intestinal pseudo-obstruction; Zenker's diverticulum; Dieulafoy lesion; Mallory-Weiss; caustic/pill esophagitis; Zollinger-Ellison; gallbladder polyps; choledochal cysts; acalculous cholecystitis; alpha-1 antitrypsin deficiency; ischemic/congestive hepatopathy; CMV colitis; Whipple disease; anorectal abscess/fistula (non-IBD); pruritus ani; aortoenteric fistula; Cameron lesions; Schatzki ring; GI GVHD; all of `6-anatomy/` (**note: `wiki/6-anatomy/` does not exist on disk** — the schema defines it but no page has ever been created there).
-- **Removed from this list 2026-09-04, three corrections:**
-  - **Checkpoint-inhibitor colitis** — no longer a gap. [[immune-checkpoint-inhibitor-colitis]] was written this pass from [[aga-2021-ici-colitis-hepatitis]].
-  - **Autoimmune pancreatitis** and **short bowel syndrome / intestinal failure** — these were never "needs a source." Both PDFs are sitting in `raw/GI Guidelines/AGA/`; they belong in *Blocked on ingest* above, where they now are.
-  - **STEC/HUS** — moved to *Fillable now* (#29): [[idsa-2017-infectious-diarrhea]] Recs 6/8/21/23/26/35/60 and [[acg-2016-acute-diarrhea]] fully support it, including the hard do-not-give-antibiotics rule. It is named in plain text on five infection pages.
+### Needs a source
+Topics and missing pieces that no file in `raw/` covers live on **[[needed-sources]]** — Nick's download list. Never write them from general knowledge.
 
 ---
 

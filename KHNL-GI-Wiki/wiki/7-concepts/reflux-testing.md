@@ -9,7 +9,7 @@ sources: [acg-2021-gerd, asge-2024-gerd, acg-2020-esophageal-physiologic-testing
 
 *Which objective test to order for suspected or refractory [[gerd|GERD]], when to order it, and whether to test on or off antisecretory therapy — plus the endoscopic grading systems used to characterise the antireflux barrier.*
 
-**Interpretation thresholds are not on this page.** Acid exposure time (AET) bands, reflux-episode counts, MNBI, PSPW status, and SAP/SI cut-offs live on [[ambulatory-reflux-monitoring]] (Lyon Consensus 2.0) — their single home in this wiki.
+**Interpretation thresholds are not on this page.** Acid exposure time (AET) bands, reflux-episode counts, MNBI, PSPW status, and SAP/SI cut-offs live on [[ambulatory-reflux-monitoring]] (Lyon Consensus 2.0) — their single home.
 
 ## Contents
 - [[#Why Test]]
@@ -100,7 +100,7 @@ Both columns per [[acg-2021-gerd]]; Lyon 2.0's parallel off/on framework and its
 
 - **No capsule system exists for impedance** — impedance requires a transnasal catheter ([[acg-2021-gerd]]).
 - Modality preference (wireless 96 h preferred in unproven GERD) and every interpretive threshold: [[ambulatory-reflux-monitoring]].
-- *Corpus gap — DeMeester score.* [[acg-2021-gerd]] names total AET **and the composite DeMeester score** as the most consistently reliable variables on both wireless and catheter studies, but no ingested source states the score's components or its abnormal cut-off. Needs the original DeMeester/Johnson reference before it can be reproduced here — do not fill from memory.
+- *DeMeester score.* [[acg-2021-gerd]] names total AET **and the composite DeMeester score** as the most consistently reliable variables on both wireless and catheter studies, but does not state the score's components or its abnormal cut-off; those are in the original DeMeester/Johnson paper.
 
 ---
 
@@ -114,7 +114,7 @@ Careful endoscopic evaluation, reporting, and **photo-documentation** of the fol
 | [[barretts-esophagus\|Barrett's esophagus]] | Prague C&M | [[barretts-esophagus]] |
 | Peptic stricture | Present / absent | — |
 | [[hiatal-hernia\|Hiatal hernia]] | Axial length in cm (GEJ to diaphragmatic impression) | [[hiatal-hernia]] |
-| Flap valve morphology | Hill grade I–IV or American Foregut Society (AFS) grade, in **forward view and retroflexion** | Below (Hill); AFS not in corpus |
+| Flap valve morphology | Hill grade I–IV or American Foregut Society (AFS) grade, in **forward view and retroflexion** | Below (Hill); AFS not defined by these guidelines |
 | GEJ landmarks | Top of gastric folds, Z-line, diaphragmatic impression | — |
 | Prior fundoplication | Describe if present | — |
 
@@ -123,17 +123,15 @@ Careful endoscopic evaluation, reporting, and **photo-documentation** of the fol
 
 ### Erosive Esophagitis: Los Angeles (LA) Grade
 
-> ⚠ **Corpus-blocked — criteria deliberately absent.** [[acg-2021-gerd]], [[asge-2024-gerd]], [[acg-2020-esophageal-physiologic-testing]] and Lyon 2.0 all *use* LA grades A–D without ever defining them (verified by full-text search of all four PDFs). A previously written A–D criteria table was **removed at the 2026-08-26 lint** because it came from general knowledge, not a source — and it had already drifted (LA C was rendered as "confluent, <75% of circumference," dropping the *continuous between the tops of ≥2 mucosal folds* element). **Ingest the original Lundell 1999 LA-classification paper** to restore this table; do not refill it from memory.
+> [[acg-2021-gerd]], [[asge-2024-gerd]], [[acg-2020-esophageal-physiologic-testing]] and Lyon 2.0 all *use* LA grades A–D without defining them. The A–D criteria are in the original Lundell 1999 LA-classification paper and are not reproduced here.
 >
 > What *is* sourced: grade-specific significance (LA A borderline, LA B conclusive per Lyon 2.0) on [[ambulatory-reflux-monitoring]]; and **LA C/D as sufficient objective evidence of GERD** (see the test-selection table above — do not test off therapy).
 
 ### Gastroesophageal Flap Valve: Hill Grade
 
-> ⚠ **Corpus-blocked — criteria deliberately absent.** [[asge-2024-gerd]] grades the flap valve by Hill classification and drives a real decision off it, but **cites Hill & Kozarek, *J Clin Gastroenterol* 1996 rather than reproducing the criteria**; no ingested source defines grades I–IV, and none defines the American Foregut Society (AFS) classification at all. A previously written I–IV appearance table was **removed at the 2026-08-26 lint** as untraceable. **Ingest Hill & Kozarek 1996** (and an AFS source) to restore it.
+> [[asge-2024-gerd]] grades the flap valve by Hill classification and drives a real decision off it, but **cites Hill & Kozarek, *J Clin Gastroenterol* 1996 rather than reproducing the criteria**; neither the Hill I–IV nor the American Foregut Society (AFS) grade definitions are given by these guidelines.
 >
 > What *is* sourced and decision-bearing: **hiatal hernia ≤2 cm + Hill I/II** vs **>2 cm + Hill III/IV** routes the patient between endoscopic and surgical antireflux therapy ([[asge-2024-gerd]]) — that pathway lives on [[antireflux-surgery]].
-
-**Figure gap:** flap-valve grading is a *look-at-it* classification, so this page should carry retroflexed endoscopic images of Hill I–IV per the Style Guide. No ingested source contains them, and figure extraction (PyMuPDF) is unavailable in this environment — reported, not invented.
 
 ### Mucosal Cleanliness
 

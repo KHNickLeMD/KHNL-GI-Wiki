@@ -45,7 +45,7 @@ This page is the **single home for the hemostatic devices themselves** — mecha
 | APC in [[radiation-proctopathy\|radiation proctopathy]], GAVE, and non-bleeding indications | [[argon-plasma-coagulation]] |
 | Electrosurgical current modes and generator principles | [[electrosurgery]] |
 
-⚠ **Scope limit — no dedicated hemostasis guideline exists in the corpus.** Everything below is assembled from bleeding-management guidelines and one device-focused clinical practice update. Where a parameter is absent it is flagged rather than supplied.
+**Scope.** Everything below is assembled from bleeding-management guidelines and one device-focused clinical practice update; there is no dedicated hemostasis guideline.
 
 ---
 
@@ -77,7 +77,7 @@ This page is the **single home for the hemostatic devices themselves** — mecha
 - **This is a temporizing measure only**, used to improve visualization so definitive therapy can be targeted.
 - ⚠ **Epinephrine monotherapy must be avoided** — high rebleeding risk. If epinephrine is used, a **second hemostatic modality must follow** ([[acg-2021-ugib]], [[aga-2020-nvugib-endoscopic-therapies]]).
 - **But dual therapy is not itself superior:** epinephrine plus another therapy has **no advantage over properly applied thermal or mechanical monotherapy** ([[aga-2020-nvugib-endoscopic-therapies]]). The rule is *never alone*, not *always add it*.
-- No volume, injection-site count, or maximum dose is stated in any ingested source — **decision gap, flagged not filled.**
+- No injection volume, site count, or maximum dose is stated in these guidelines.
 
 ### Absolute Ethanol
 
@@ -150,7 +150,7 @@ This page is the **single home for the hemostatic devices themselves** — mecha
 ### Over-the-Scope Clips
 
 - **Two devices with different designs and deployment mechanisms: OTSC (Ovesco) and Padlock clip (Steris).**
-- ⚠ **No comparative evidence at all:** there have been **no head-to-head comparisons of the two clips**, and **no head-to-head trials of over-the-scope clips against through-the-scope clips or thermal therapy** ([[aga-2020-nvugib-endoscopic-therapies]]). The wiki should not imply a preference between devices.
+- ⚠ **No comparative evidence at all:** there have been **no head-to-head comparisons of the two clips**, and **no head-to-head trials of over-the-scope clips against through-the-scope clips or thermal therapy** ([[aga-2020-nvugib-endoscopic-therapies]]). No preference between devices is established.
 - **Established indication — recurrent bleeding.** An RCT showed OTSC more effective than standard therapy in **recurrent** peptic ulcer bleeding; [[acg-2021-ugib]] reserves OTSC for recurrent ulcer bleeding after previous successful endoscopic hemostasis, reporting **further bleeding 15.2% vs 57.6%**.
 - **Consider as first-line (BPA 5 setting):** large, fibrotic ulcer beds with a **large visible vessel** not amenable to through-the-scope clip fixation, or where **thermal therapy is predicted to be ineffective**.
 - **Rescue:** small case series support OTSC as an effective rescue modality when conventional hemostasis fails.
@@ -195,7 +195,7 @@ This page is the **single home for the hemostatic devices themselves** — mecha
 
 **Safety.** A study in **variceal** bleeding demonstrated clinical effectiveness without adverse events; adverse events occurring in powder studies were judged unlikely to be attributable to the sprayed powder.
 
-⚠ **Open question flagged by the source itself:** 2 pilot RCTs and a non-controlled registry suggest a **potential role for TC-325 as monotherapy** in upper GI bleeding, which the CPU says *"[raises] the need for an appropriately powered clinical trial."* BPA 7 (rescue-only) remains the operative advice until then.
+⚠ **Open question raised by the source itself:** 2 pilot RCTs and a non-controlled registry suggest a **potential role for TC-325 as monotherapy** in upper GI bleeding, which the CPU says *"[raises] the need for an appropriately powered clinical trial."* BPA 7 (rescue-only) remains the operative advice until then.
 
 ---
 

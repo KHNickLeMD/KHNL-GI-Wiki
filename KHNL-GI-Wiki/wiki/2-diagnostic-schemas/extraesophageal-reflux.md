@@ -57,7 +57,7 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 
 **Threshold gap — proximal reflux.** pH-impedance can count proximal reflux episodes, but there is **no well-established threshold** defining clinically relevant "pathologic" proximal reflux, so proximal event counts cannot be used as a diagnostic cutoff (AGA 2023).
 
-> ⚠ **Decision gap — LA grade. This is a *figure-capture* block, not a corpus block (corrected 2026-09-07).** The EGD row above (and the "conclusive GERD evidence" logic behind it) turns on the **Los Angeles grade A–D mucosal-break criteria**. The GERD-side sources do use the grades without printing them, but the criteria **are in an ingested source**: [[acg-2025-egd-quality|ACG/ASGE 2025]] prints them as **Figure 2, "Los Angeles classification scheme for erosive esophagitis"**, and [[aga-2024-upper-endoscopy-quality|AGA 2024]] prints them inside its **Figure 2**. Both are raster figures, so `pdftotext` cannot recover the mucosal-break text and no figure-capture tool is available in this environment. **Close it by capturing the figure onto [[reflux-testing]]** (the single home for the LA-grade entry) — not by transcribing from memory, and not by ingesting Lundell 1999. Same correction on [[upper-endoscopy]].
+> The **Los Angeles grade A–D mucosal-break criteria** that the EGD row (and the "conclusive GERD evidence" logic behind it) turns on are used but not printed by the GERD sources; they are printed only as figures ([[acg-2025-egd-quality|ACG/ASGE 2025]] Figure 2, "Los Angeles classification scheme for erosive esophagitis"; [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2). The LA-grade entry lives on [[reflux-testing]].
 
 ## Red Flags / Alarm Features
 
@@ -65,7 +65,7 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 - **Any laryngeal complaint** → laryngoscopy is required to exclude non-reflux laryngopharyngeal pathology including neoplasia — see [[laryngopharyngeal-symptoms]].
 - **Symptoms refractory to therapy** → revisit the non-reflux differential above; reflux is not the driver in 50–60% of EER presentations, and further PPI trials are low-yield (BPA 6).
 
-> **Gap flag:** no ingested source specifies a *duration* or *age/smoking* threshold that makes hoarseness an urgent-laryngoscopy indication. An ENT/head-and-neck hoarseness guideline would be needed to state one — do not infer it.
+> No source here specifies a *duration* or *age/smoking* threshold that makes hoarseness an urgent-laryngoscopy indication; that belongs to the ENT/head-and-neck hoarseness guidelines.
 
 ## Treatment Framework
 

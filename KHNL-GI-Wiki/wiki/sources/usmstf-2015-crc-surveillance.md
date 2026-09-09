@@ -126,7 +126,7 @@ A "high-quality" colonoscopy is defined throughout as: complete to cecum/anastom
 
 ## Relevance to Wiki
 
-- **[[colorectal-cancer]]** — adds complete post-resection surveillance section (currently stub)
+- **[[colorectal-cancer]]** — adds complete post-resection surveillance section
 - **[[colonoscopy]]** — adds post-CRC resection surveillance table and CTC/fecal test guidance
 - **[[lynch-syndrome]]** — confirms that Lynch-specific surveillance intervals override this guideline
 - **[[serrated-polyposis-syndrome]]** — confirms more frequent colonoscopy intervals needed post-CRC resection

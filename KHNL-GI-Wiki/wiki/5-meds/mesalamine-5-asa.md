@@ -12,7 +12,7 @@ sources: [acg-2025-uc, acg-2025-crohns, acg-2019-uc, acg-2018-crohns, aga-2024-u
 Two further decisions the class turns on, both of which are numbers rather than principles: **which route** (which follows disease extent, not severity), and **which dose** — because the induction dose and the maintenance dose differ, and because *the approved maintenance dose of at least one US formulation is below the effective induction dose*.
 
 ## Contents
-- [[#Agents in the Ingested Corpus]]
+- [[#Agents]]
 - [[#Ulcerative Colitis — Dosing by Extent]]
   - [[#The route rule]]
   - [[#Induction and maintenance doses]]
@@ -25,7 +25,7 @@ Two further decisions the class turns on, both of which are numbers rather than 
 - [[#Crohn's Disease — the Class Is Recommended Against]]
 - [[#Efficacy Data Behind the Grades]]
 - [[#Mesalamine vs Sulfasalazine]]
-- [[#Other GI Uses in the Corpus]]
+- [[#Other GI Uses]]
 - [[#Adverse Effects, Pregnancy, and Monitoring]]
 - [[#What Changed Between Guideline Versions]]
 - [[#Gaps]]
@@ -34,7 +34,7 @@ Two further decisions the class turns on, both of which are numbers rather than 
 
 ---
 
-## Agents in the Ingested Corpus
+## Agents
 
 | Agent | Route(s) named | Where it is positioned |
 |---|---|---|
@@ -42,7 +42,7 @@ Two further decisions the class turns on, both of which are numbers rather than 
 | **Sulfasalazine** | Oral | UC maintenance (superior to mesalamine in one meta-analysis, but poorly tolerated); the **only** 5-ASA with any CD role — *symptomatic mild colonic CD only* |
 | **Olsalazine** | Oral | Named only inside the UC maintenance meta-analysis; no separate recommendation |
 
-- **Balsalazide is not named in any ingested source** — no dose or positioning can be stated for it.
+- **Balsalazide** is not covered by the guidelines cited here; no dose or positioning is given for it.
 - **Agent choice does not predict relapse.** In the 11-trial UC maintenance meta-analysis, *the type of 5-ASA agent was not found to predict rates of relapse* ([[acg-2025-uc]]).
 
 ---
@@ -201,7 +201,7 @@ A genuine trade-off, and the guideline states both halves:
 
 ---
 
-## Other GI Uses in the Corpus
+## Other GI Uses
 
 | Condition | Position | Source |
 |---|---|---|
@@ -216,7 +216,7 @@ A genuine trade-off, and the guideline states both halves:
 
 ## Adverse Effects, Pregnancy, and Monitoring
 
-**Adverse effects named in the ingested corpus** — this is the complete list; nothing else may be inferred:
+**Adverse effects named by the guidelines:**
 
 | Effect | Detail | Source |
 |---|---|---|
@@ -229,7 +229,7 @@ A genuine trade-off, and the guideline states both halves:
 - **Sulfasalazine — with folic acid 1 mg twice daily**, from **3 months preconception through pregnancy** (neural tube defects).
 - Most IBD medications, including these, are compatible with **breastfeeding**.
 
-**Monitoring:** the response check is the only interval the corpus gives — **reassess response to induction within 8 weeks** ([[acg-2025-uc]] KC 19). See *Gaps* for what is not stated.
+**Monitoring:** the response check is the only interval the guidelines give — **reassess response to induction within 8 weeks** ([[acg-2025-uc]] KC 19). See *Gaps* for what is not stated.
 
 ---
 
@@ -254,12 +254,12 @@ Readers carry the old numbers in their heads, so the deltas matter:
 
 ## Gaps
 
-- *No ingested source gives a **laboratory monitoring schedule** for 5-ASA — no renal function/creatinine interval, no CBC interval, and **interstitial nephritis is never named** in the corpus. Do not state one from memory.*
-- *No ingested source names **balsalazide**, gives a **pediatric** dose, or gives a **renal/hepatic dose adjustment**.*
-- *No ingested source gives a **duration** for maintenance 5-ASA, or a rule for **when it may be stopped**.*
-- *No ingested source states a **5-ASA dose for cuffitis or refractory pouchitis** — [[aga-2024-pouchitis]] names the drug but not the dose, and explicitly records "no recommendation" for mesalamine in chronic antibiotic-refractory pouchitis.*
+- *The guidelines give no **laboratory monitoring schedule** for 5-ASA — no renal function/creatinine interval, no CBC interval — and do not mention interstitial nephritis.*
+- *None of the guidelines names **balsalazide**, gives a **pediatric** dose, or gives a **renal/hepatic dose adjustment**.*
+- *The guidelines give no **duration** for maintenance 5-ASA, or a rule for **when it may be stopped**.*
+- *No guideline states a **5-ASA dose for cuffitis or refractory pouchitis** — [[aga-2024-pouchitis]] names the drug but not the dose, and explicitly records "no recommendation" for mesalamine in chronic antibiotic-refractory pouchitis.*
 - *CRC chemoprevention is **explicitly unresolved** ([[aga-2021-ibd-colorectal-dysplasia]]) and the [[primary-sclerosing-cholangitis\|PSC]] statement ([[acg-2015-psc]], 2015) is ungraded and older — neither supports prescribing 5-ASA for chemoprevention.*
-- *No ingested source addresses 5-ASA in **[[segmental-colitis-associated-with-diverticulosis\|SCAD]]**, where the management gap is already flagged on that page.*
+- *No guideline addresses 5-ASA in **[[segmental-colitis-associated-with-diverticulosis\|SCAD]]**; see that page for the limits of its management evidence.*
 - *No **individual agent pages** exist — mesalamine, sulfasalazine, and olsalazine are covered only at class level here.*
 
 ---

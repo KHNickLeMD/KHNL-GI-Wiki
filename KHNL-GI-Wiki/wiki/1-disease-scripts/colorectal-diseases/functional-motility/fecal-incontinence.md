@@ -31,7 +31,7 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, rome-v-20
 **Fecal incontinence (FI)** = involuntary loss of solid or liquid feces (including staining of underwear); the broader term **anal incontinence** includes involuntary flatus.
 
 - **Diagnostic threshold changed in [[rome-v-2026-dgbi|Rome V]] (2026):** FI ([[disorders-of-gut-brain-interaction|DGBI]] category **F1**) now requires **"two or more episodes of uncontrolled passage of fecal material"**, replacing Rome IV's qualitative **"recurrent uncontrolled passage"** — the stated purpose is to give the diagnosis an explicit **threshold frequency**. [[rome-v-2026-dgbi]]
-  - ⚠ The **time window** over which the ≥2 episodes must occur is not stated in the ingested Rome V source and is deliberately not supplied here.
+  - Rome V does not state the **time window** over which the ≥2 episodes must occur.
 - **Rome V also added anorectal sensory dysfunction disorders (F4)** alongside FI: **F4b rectal hypersensitivity** presents with **increased urge to defecate** and prolonged/frequent toilet times, and **F4a rectal hyposensitivity** with a blunted urge — both are diagnosed by **rectal sensitivity testing** and treated with **balloon sensory training**, so an abnormal rectal sensation on ARM is a treatable finding, not an incidental one. Overview and the criteria gap: [[defecation-disorders]]. [[rome-v-2026-dgbi]]
 
 **Prevalence:** 2.2–25% community; ~9% age-adjusted in US. **Significantly underreported** — physicians must actively ask, particularly in patients with predisposing conditions.
@@ -56,13 +56,13 @@ Severity is graded from **symptom burden** (type, frequency, and amount of leaka
 
 **Factors predicting worse outcomes:** older age, diarrhea-predominant bowel habits, rectal urgency, more severe FI, multiple comorbidities.
 
-> **Gap:** named FI severity instruments (Cleveland Clinic/Wexner score, Fecal Incontinence Severity Index) are **not defined in any ingested source** — their items and point values are therefore deliberately absent. Ingesting the original score papers would close this.
+> The guidelines name the FI severity instruments (Cleveland Clinic/Wexner score, Fecal Incontinence Severity Index) without printing their items or point values; score from the original instruments.
 
 ---
 
 ## Differential Diagnosis
 
-*Workup of the bowel-habit driver — overflow FI from impaction, and the constipation-associated FI treated with fiber: see [[chronic-constipation]]. No anorectal-symptom schema exists yet in the wiki, so the FI-specific stepwise evaluation is under [[#Diagnostics]] below.*
+*Workup of the bowel-habit driver — overflow FI from impaction, and the constipation-associated FI treated with fiber: see [[chronic-constipation]]. The FI-specific stepwise evaluation is under [[#Diagnostics]] below.*
 
 | Cause | Key Features |
 |-------|-------------|
@@ -109,7 +109,7 @@ Severity is graded from **symptom burden** (type, frequency, and amount of leaka
 - **Clonidine** — read the evidence before using it: in women with FI, clonidine **did not improve continence in all comers** and only **tended** to improve it in women **with diarrhea**
 - Cochrane (13 RCTs, 473 participants; 7 tested loperamide, diphenoxylate + atropine, or codeine): symptoms better than placebo in **4 trials** — improved/restored continence, reduced urgency, more formed stools, fewer pads. In 2 of those 4, **more patients reported adverse effects** (constipation, abdominal pain, diarrhea, headache, nausea)
 
-> **Dose gap — flagged, not filled.** [[acg-2021-anorectal-disorders]] names these agents **without any dose, interval, or duration**, and [[asge-2010-anorectal-disorders]] does not mention them at all. A previously stated "loperamide 2–4 mg up to QID" was unsourced and has been removed. (The loperamide dosing on [[enterotoxigenic-e-coli]] is ACG 2016's **traveler's-diarrhea** regimen and does not transfer to FI.)
+> [[acg-2021-anorectal-disorders]] names these agents **without any dose, interval, or duration**, and [[asge-2010-anorectal-disorders]] does not mention them at all. (The loperamide dosing on [[enterotoxigenic-e-coli]] is ACG 2016's **traveler's-diarrhea** regimen and does not transfer to FI.)
 
 **Dietary counseling:**
 

@@ -44,7 +44,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (Table 4):
 - **Systemic hypertension**: promoted by TAC — and by cyclosporine; the sources do not rank them
 - **Class effects shared with cyclosporine**: neurotoxicity, electrolyte disorders, anemia
 
-> **Corpus gap.** The ingested guidelines list TAC's adverse effects only as the class list above. Specific neurologic manifestations (tremor, PRES, peripheral neuropathy), alopecia, and a TAC-vs-cyclosporine hyperlipidemia/hypertension ranking were removed 2026-08-26 as unsourced — AASLD 2012 attributes **hyperlipidemia to sirolimus**, not to either CNI. FDA labeling would be needed to restore the neurotoxicity detail.
+> The AASLD guidelines list TAC's adverse effects only as the class list above; specific neurologic manifestations (tremor, PRES, peripheral neuropathy), alopecia, and a TAC-vs-cyclosporine hyperlipidemia/hypertension ranking are in the FDA label, not the guidelines. AASLD 2012 attributes **hyperlipidemia to sirolimus**, not to either CNI.
 
 *Which CNI owns which adverse effect lives on [[calcineurin-inhibitors]].*
 

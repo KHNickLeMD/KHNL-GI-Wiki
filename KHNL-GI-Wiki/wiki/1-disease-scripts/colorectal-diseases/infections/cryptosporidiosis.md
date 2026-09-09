@@ -21,7 +21,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, acg-2020-ibs]
 
 - **Immunocompetent** — self-limited, ~1–2 weeks.
 - **Immunocompromised** (esp. low CD4) — severe, [[chronic-diarrhea|chronic]], high-volume, potentially biliary (AIDS cholangiopathy); severity tracks the degree of immunosuppression.
-  > *CD4 threshold gap — flagged, not filled.* No ingested source gives a CD4 cutoff that defines severe/chronic cryptosporidiosis; the CD4-stratified opportunistic-infection differential is corpus-blocked (see the note on [[hiv-aids-related-diarrhea]]). The only CD4 number in the corpus is the **<100 cells/mm³** biopsy-yield threshold on that page, which is about endoscopic yield, not cryptosporidiosis severity. A primary HIV opportunistic-infection guideline (CDC/NIH/IDSA OI) would be needed.
+  > The cited guidelines give no CD4 cutoff that defines severe/chronic cryptosporidiosis; the **<100 cells/mm³** figure on [[hiv-aids-related-diarrhea]] is a biopsy-yield threshold, not a severity cutoff. See the CDC/NIH/IDSA HIV opportunistic-infection guideline for CD4-stratified guidance.
 
 ---
 
@@ -47,7 +47,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, acg-2020-ibs]
 
 - **[[nitazoxanide]]** is the named agent for cryptosporidiosis in immunocompetent hosts. [[acg-2016-acute-diarrhea]], [[idsa-2017-infectious-diarrhea]]
   - **In HIV infection, nitazoxanide only in combination with effective cART** — with effective cART the agent is not applicable, since immune reconstitution itself drives microbiologic and clinical response. [[idsa-2017-infectious-diarrhea]]
-  - **Dose gap:** neither ingested source states a nitazoxanide dose or duration. The commonly cited "500 mg BID × 3 days" is **not in the corpus** and has been removed rather than asserted — a CDC/IDSA parasitic-disease treatment table would be needed.
+  - Neither guideline states a nitazoxanide dose or duration; take these from the CDC/IDSA parasitic-disease treatment tables.
 - **Immunocompromised:** restore immunity — **antiretroviral therapy / immune reconstitution** is the key intervention; nitazoxanide has limited efficacy in advanced immunosuppression.
 - **Supportive:** aggressive rehydration for high-volume losses.
 - **Public health / prevention:** chlorine-resistant oocysts → water treatment needs **filtration, UV, or ozone**; exclude from recreational water while symptomatic.

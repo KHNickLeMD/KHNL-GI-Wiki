@@ -118,7 +118,7 @@ CD histology is graded by **Marsh**, or by the more recent **simplified Corazza*
 | Marsh II | Lymphocytic duodenosis **+ crypt hyperplasia, without atrophy** | Same GFD consideration as Marsh I — symptomatic + elevated CD antibodies (especially EMA) |
 | Marsh III | Villous atrophy | Villous atrophy in the appropriate serologic context is what definitively confirms the diagnosis |
 
-> ⚠ **Decision gap (corpus-blocked — do not fill from memory):** the grade-by-grade criteria — **Marsh IIIA / IIIB / IIIC** (partial vs subtotal vs total villous atrophy) and the **Corazza grades A / B1 / B2** — are **not printed in the ingested [[acg-2022-celiac]] text**; the guideline puts them in its *Supplementary Table 1* (`links.lww.com/AJG/C755`), which is not in `raw/`. A previous version of this page asserted both sets of definitions; they have been removed as unsourced. Needed: that supplement, or Marsh MN *Gastroenterology* 1992 / Corazza GR *Clin Gastroenterol Hepatol* 2007.
+> The grade-by-grade criteria — **Marsh IIIA / IIIB / IIIC** (partial vs subtotal vs total villous atrophy) and the **Corazza grades A / B1 / B2** — are not printed in the [[acg-2022-celiac]] text; the guideline puts them in its *Supplementary Table 1* (`links.lww.com/AJG/C755`). The primary descriptions are Marsh MN *Gastroenterology* 1992 and Corazza GR *Clin Gastroenterol Hepatol* 2007.
 
 Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of treated CD patients with otherwise normal villous architecture; oat consumption is the only associated factor identified.
 
@@ -217,7 +217,7 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
   - Patient already on GFD before evaluation (negative HLA rules out CD; positive HLA justifies gluten challenge)
   - Family members being evaluated for risk stratification
 
-> **Decision gap:** [[acg-2022-celiac]] endorses offering a **gluten challenge** in an HLA-compatible patient already on a GFD but does **not** state the gluten dose (g/day) or the duration before re-biopsy. Those numbers are deliberately absent rather than supplied from memory — a dedicated gluten-challenge protocol source would be needed.
+> [[acg-2022-celiac]] endorses offering a **gluten challenge** in an HLA-compatible patient already on a GFD but does **not** state the gluten dose (g/day) or the duration before re-biopsy.
 
 ### Monitoring Labs at Diagnosis
 
@@ -392,7 +392,7 @@ Assess malnutrition by nonvolitional weight loss, low BMI, loss of muscle mass/s
 - **Cladribine in RCD2 — read the harms:** in 17 patients, 58% histologic improvement and 35% decrease in aberrant IELs, but **41% were diagnosed with EATL and died**. A later series of 32 patients: **5-year survival 63% among responders, EATL risk 16%**.
 - **Surgery is rarely needed** — reserved for acute abdomen from perforation, or RCD2 with localised ulcerative jejunitis causing obstruction or recurrent GI bleeding.
 
-⚠ **Decision gap — steroid dose and taper for RCD are not rigorously established.** [[aga-2022-refractory-celiac|AGA 2022]] states outright that "initial doses and taper recommendations for steroids have not been examined rigorously"; the doses above come from the cited case series in its Table 1, not trial data. **No taper schedule exists anywhere in the corpus** — do not supply one from memory. Whether steroids reduce lymphoma risk in RCD2 likewise **remains uncertain**, and there are **no FDA-approved therapies** for RCD.
+⚠ **Steroid dose and taper for RCD are not rigorously established.** [[aga-2022-refractory-celiac|AGA 2022]] states outright that "initial doses and taper recommendations for steroids have not been examined rigorously"; the doses above come from the cited case series in its Table 1, not trial data, and the guideline gives no taper schedule. Whether steroids reduce lymphoma risk in RCD2 likewise **remains uncertain**, and there are **no FDA-approved therapies** for RCD.
 
 #### Follow-up (BPA 9–10)
 

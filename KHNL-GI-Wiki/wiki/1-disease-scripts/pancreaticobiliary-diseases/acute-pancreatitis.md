@@ -82,7 +82,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 | Simple clinical terms | **Shock: systolic BP <90 mm Hg**; **pulmonary insufficiency: PaO₂ <60 mm Hg**; **renal failure: creatinine >2 mg/dL after rehydration**; and/or **GI bleeding >500 mL/24 h** |
 | Modified Marshall score | **≥2 in any of the 3 accepted organ systems** (respiratory, renal, cardiovascular) |
 
-- ⚠ **Decision gap — the modified Marshall per-domain point cut-points are not in any ingested source.** ACG 2024 names the score but does not reproduce its scoring table. The simple clinical criteria above can be used instead. Adding the point table would require ingesting the original Atlanta 2012 revision (Banks) / Marshall paper — do not infer the thresholds.
+- ACG 2024 names the modified Marshall score but does not reproduce its per-domain point cut-points (they are in the Atlanta 2012 revision, Banks et al.); use the simple clinical criteria above.
 
 **Morphologic classification:** necrotizing AP (usually synonymous with moderately severe/severe) vs interstitial/edematous AP (usually mild). **Pancreatic necrosis** = diffuse or focal nonviable pancreatic parenchyma **>3 cm in size or >30% of the pancreas**.
 
@@ -97,7 +97,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 **How well prediction works — the caveat that governs use:** scoring systems and imaging alone are **not accurate** at determining who will develop moderately severe/severe AP (Key concept 7). At best **~50%** of cases predicted moderately severe/severe turn out to be so; prediction of **mild** AP is highly reliable (only ~3% progress), so the systems are chiefly useful to identify the mild patient for earlier discharge. Ranson, Imrie, and APACHE typically need 48 hours to become accurate, by which time the patient's condition is obvious regardless. **BISAP** (which includes BUN and SIRS) has been consistently shown to be superior, **but may be no more accurate than simply monitoring BUN and the development of SIRS**.
 
-- ⚠ **Decision gap — the BISAP component list and point values are not in any ingested source.** ACG 2024 names BISAP but does not enumerate its criteria. (Unsourced BISAP criteria were removed from this page 2026-08-14.) Use the Table 4 risk factors and the SIRS/BUN pair above; adding BISAP would require ingesting the original Wu 2008 BISAP paper.
+- ACG 2024 names BISAP but does not enumerate its components or point values (Wu 2008); use the Table 4 risk factors and the SIRS/BUN pair above.
 - In patients with **mild** disease, remain vigilant for severe disease and organ failure during the **initial 48 hours** (Key concept 8). Patients with organ failure and/or SIRS should preferably be admitted to a **monitored bed** (Key concept 6).
 
 ---
@@ -144,7 +144,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 - **Severity is assigned by the Revised Atlanta Classification (organ failure)** — see [[#Severity Assessment]] above. ACG 2024 explicitly cautions that **scoring systems and imaging alone are not accurate** in predicting which patients will develop moderately severe/severe AP, and grades severity by persistent organ failure (Marshall score), *not* by a CT index [[acg-2024-acute-pancreatitis]].
 - **CT Severity Index (CTSI) = Balthazar grade + necrosis score** — a radiologic index correlating necrosis/peripancreatic collections with complications.
-  - ⚠ **No CTSI numeric severity cutoff is sourced.** The [[acg-2024-acute-pancreatitis]] guideline text (re-read from the raw PDF) defines severity by the Revised Atlanta Classification and assigns **no CTSI threshold** — so the previously flagged "≥7 vs ≥8" conflict cannot be adjudicated from ACG 2024, which states no CTSI cutoff at all (the source page reflects this). Restoring CTSI point values/threshold would require ingesting a dedicated radiology source (e.g., Balthazar/Bollen).
+  - ACG 2024 defines severity by the Revised Atlanta Classification and gives **no CTSI numeric threshold**; CTSI point values and cut-offs are in the radiology literature (Balthazar/Bollen).
 - **CECT provides >90% sensitivity and specificity for the diagnosis of AP** — but **routine early/at-admission CT is unwarranted** and should be reserved for an unclear diagnosis or failure to improve clinically **within the first 48–72 hours** (Key concept 1).
 
 **MRI / MRCP** ([[acg-2024-acute-pancreatitis]]):
@@ -197,7 +197,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 ### 2. Pain Management
 
-⚠ **Gap — no ingested source covers analgesia in AP.** [[acg-2024-acute-pancreatitis]] makes no recommendation on analgesic choice, dose, or route, and neither do the other sources backing this page. Unsourced agent-level guidance (opioid choice, ketorolac, epidural, meperidine) was removed 2026-08-14 rather than asserted. A dedicated analgesia source would be needed.
+⚠ **Analgesia is not covered.** [[acg-2024-acute-pancreatitis]] makes no recommendation on analgesic choice, dose, or route, and neither do the other sources backing this page.
 
 ### 3. Nutrition
 

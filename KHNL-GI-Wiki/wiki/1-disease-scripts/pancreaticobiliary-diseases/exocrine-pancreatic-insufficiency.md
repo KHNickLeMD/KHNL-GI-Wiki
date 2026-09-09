@@ -64,7 +64,7 @@ Failure of the pancreas to deliver a threshold level of digestive enzymes to the
 - Under controlled conditions FE-1 **distinguishes normal, moderate, and severe EPI**.
 - **Key limitation: FE-1 is insensitive to mild EPI** — a normal value does not exclude early disease in a high-risk patient.
 - **Repeat an indeterminate result**, especially with known pancreatic disease and a high probability of EPI.
-- ⚠ *Unit provenance:* the ingested [[aga-2023-epi]] PDF **text-extracts as "mg/g"** at every FE-1 threshold, but the file contains **zero `μ` characters anywhere** — the Symbol-font `μ` maps to `m` on extraction (the same class of glyph loss documented for TG18's comparison operators on [[acute-cholangitis]]). The printed unit is **µg/g**; do not "correct" these thresholds to mg/g against a text dump.
+- *Unit:* the FE-1 thresholds in [[aga-2023-epi]] are in **µg/g**.
 
 ### Classification / Typing
 

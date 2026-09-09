@@ -127,7 +127,7 @@ Describe every duodenal polyp by **(BPA 3):**
 | III | 7–8 | 6–12 mo | 2.4 |
 | IV | 9–12 | Surgical consult, 6–12 mo | 36 |
 
-- ⚠ **Contradiction on the record — the intervals differ from the ones on [[familial-adenomatous-polyposis]].** That page carries [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 9, which sets **stage II at every 1–3 y** and **stage IV at every 3–6 months + surgical evaluation**; AGA 2025 above sets stage II at 2–3 y and stage IV at 6–12 months with surgical consult. Same guideline tier, and **AGA 2025 is the newer publication**, so it governs. The gap is widest at **stage IV (3–6 mo vs 6–12 mo)**; **no ingested source adjudicates the difference**, so it is recorded rather than resolved.
+- ⚠ **Contradiction on the record — the intervals differ from the ones on [[familial-adenomatous-polyposis]].** That page carries [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 9, which sets **stage II at every 1–3 y** and **stage IV at every 3–6 months + surgical evaluation**; AGA 2025 above sets stage II at 2–3 y and stage IV at 6–12 months with surgical consult. Same guideline tier, and **AGA 2025 is the newer publication**, so it governs. The gap is widest at **stage IV (3–6 mo vs 6–12 mo)**; **neither guideline adjudicates the difference**, so it is recorded rather than resolved.
 - Stage IV disease, **HGD**, and **lesion size ≥10 mm** are risk factors for duodenal cancer (~4% of FAP patients overall).
 
 ---

@@ -73,7 +73,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 - Each of the 5 features is graded **by severity in the worst-appearing area** of the esophagus; the grading scheme yields a total score of **0–9**. Score EREFS in every suspected and established EoE case ([[acg-2025-eoe]])
 - Normal endoscopy does NOT exclude EoE
 
-*Gap (tooling-blocked, not corpus-blocked): the per-feature point ranges — how many points each of E/R/E/F/S can score — exist **only inside Figure 2 ("EREFS with example scoring") on PDF page 7 of [[acg-2025-eoe]]**; the guideline text gives the 0–9 total and the worst-area rule but never the per-feature scale. Capturing the figure needs a PDF render/crop step that is unavailable in this environment (pymupdf absent, pdftoppm not permitted). Until `raw/assets/eoe-2025-erefs-scoring-07.png` is produced, the numeric score cannot be computed from this page alone.*
+*The per-feature point ranges (how many points each of E/R/E/F/S can score) are shown only in Figure 2 ("EREFS with example scoring") of [[acg-2025-eoe]]; the guideline text gives the 0–9 total and the worst-area rule but not the per-feature scale, so refer to that figure to score.*
 
 ### Severity Assessment
 
@@ -83,7 +83,7 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 - **Report other histologic features** alongside the count — basal zone hyperplasia, dilated intercellular spaces, lamina propria fibrosis — which can indicate ongoing activity despite a low eosinophil count.
 - **I-SEE (Index of Severity in EoE):** ACG 2025 advises providers **could consider** using I-SEE to assess baseline severity; it is developed but still undergoing validation, and its role in matching severity to treatment/monitoring is an explicit knowledge gap.
 
-*Gap: the I-SEE components and point values are not reproduced in [[acg-2025-eoe]] (cited to a separate 2022 paper, not ingested) — the score cannot be computed from this page. Needed source: Dellon ES, Khoury P, Muir AB, et al. A clinical severity index for EoE.*
+*The I-SEE components and point values are not reproduced in [[acg-2025-eoe]]; see the original index paper (Dellon ES, Khoury P, Muir AB, et al. A clinical severity index for EoE, 2022) to score.*
 
 **Fibrostenotic phenotype:** rings + strictures; transmural inflammation + fibrosis; requires dilation in addition to medical therapy. Endoscopy badly underestimates stricture severity — esophagram (and [[flip-panometry|EndoFLIP]]) are more accurate; the sensitivity data are under Adjunct: Esophageal Dilation.
 

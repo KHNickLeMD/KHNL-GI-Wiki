@@ -73,7 +73,7 @@ sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-p
 - Limitations: the **dysphagia component dominates** the total, and post-treatment bolus retention is somewhat discordant with the ES. ([[acg-2020-achalasia]], [[asge-2020-achalasia]])
 - How to use it for failure assessment is under [[#Post-Therapy Monitoring and Retreatment]].
 
-> **Decision gap (corpus-blocked):** the **per-item anchors** — what earns 0 vs 1 vs 2 vs 3 for each of dysphagia, regurgitation, chest pain (symptom frequency) and weight loss (kg) — are **not printed in any ingested source**; ACG 2020 and ASGE 2020 both describe the score's structure only. The score therefore cannot be *computed* from this page. Needed: Eckardt VF, Aignherr C, Bernhard G. Predictors of outcome in patients with achalasia treated by pneumatic dilation. *Gastroenterology* 1992.
+> The Eckardt **per-item anchors** — what earns 0 vs 1 vs 2 vs 3 for each of dysphagia, regurgitation, chest pain (symptom frequency) and weight loss (kg) — are not printed in ACG 2020 or ASGE 2020, which describe the score's structure only, so the score cannot be *computed* from this page. The anchors are in Eckardt VF, Aignherr C, Bernhard G. Predictors of outcome in patients with achalasia treated by pneumatic dilation. *Gastroenterology* 1992.
 
 ### Classification / Typing (Chicago Classification — clinically essential)
 
@@ -88,7 +88,7 @@ All subtypes share **impaired EGJ relaxation**; distinguished by esophageal body
 | **Type III** | 5% (least common) | **Premature/spastic contractions** (CCv4.0: **≥20% of swallows**, *no* evidence of normal peristalsis) ± panesophageal pressurization | Worst with LES-only therapy — LHM **71%** vs POEM **93%** (OR 3.50, 1.39–8.77; P=0.007) | POEM preferred; tailored long myotomy |
 
 - Subtype success rates for types I/II/III (81% / 92% / 71%) come from **one meta-analysis of 1,575 patients, all LHM** ([[acg-2020-achalasia]]) — they are not head-to-head vs PD.
-- The only ingested **PD**-specific type III figure is a separate 18-patient subgroup of the European achalasia trial: **LHM 86% vs PD 40%, P=0.12 — not statistically significant** (underpowered). Do not quote 40% against the 71% above; they are different studies.
+- The only **PD**-specific type III figure is a separate 18-patient subgroup of the European achalasia trial: **LHM 86% vs PD 40%, P=0.12 — not statistically significant** (underpowered). Do not quote 40% against the 71% above; they are different studies.
 
 ![[achalasia-2020-chicago-subtypes-05.png|700x183]]
 *Figure 2 — High-resolution manometry of achalasia phenotypes. Type I (left): aperistalsis without esophageal pressurization. Type II (middle): aperistalsis with panesophageal pressurization. Type III (right): premature/spastic contractions. ([[acg-2020-achalasia]])*

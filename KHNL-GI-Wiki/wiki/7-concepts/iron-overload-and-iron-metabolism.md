@@ -57,7 +57,7 @@ Mechanisms of iron handling and the laboratory thresholds used to detect overloa
 | **Hepatic iron concentration (HIC)** | direct measurement on [[liver-biopsy\|liver biopsy]], µmol/g dry weight | **>71 µmol/g** distinguishes homozygous HH from heterozygotes/secondary overload |
 | **Hepatic iron index (HII)** | HIC ÷ age in years | **≥1.9** distinguishes homozygotes from heterozygotes and secondary overload |
 
-> ⚠ **Decision gap — "low platelet count" has no number.** [[acg-2019-hereditary-hemochromatosis]] prints the SF >1,000 ng/mL + elevated aminotransferase + low platelet count triad without defining either the aminotransferase or the platelet cut-off, so the triad cannot be applied quantitatively. Closing it requires the primary study the guideline cites (its reference 112); **do not supply a threshold from memory.** The **SF 1,000 ng/mL** line is the one that is fully specified.
+> ⚠ **"Low platelet count" has no number.** [[acg-2019-hereditary-hemochromatosis]] prints the SF >1,000 ng/mL + elevated aminotransferase + low platelet count triad without defining either the aminotransferase or the platelet cut-off (those are in the primary study it cites as reference 112), so the triad cannot be applied quantitatively from this page. The **SF 1,000 ng/mL** line is the one that is fully specified.
 
 ## See Also
 

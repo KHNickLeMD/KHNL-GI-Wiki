@@ -55,7 +55,7 @@ On multivariate analysis, **urgent ERCP** (OR 2.16) and **biliary sphincterotomy
 - **[[ercp]]** — adds a timing nuance to the cholangitis indication: within the 48-h window, **urgent (<24 h) confers no mortality/organ-failure benefit over early (24–48 h) and doubles post-ERCP adverse events** in mild-to-moderate disease; sphincterotomy on an oedematous papilla in an incompletely resuscitated patient drives bleeding risk. Reinforces the post-ERCP bleeding section.
 - **[[choledocholithiasis]]** — refines "cholangitis → urgent drainage": for mild-to-moderate cholangitis, drainage within 24–48 h after resuscitation is as good and safer than <24 h; urgent (<24 h) drainage is still warranted for **severe** cholangitis (excluded from this trial).
 - **[[asge-2021-cholangitis]]** — corroborates "ERCP within 48 h" but **refines the sub-24 h push**: no benefit to going faster than 24–48 h in non-severe disease.
-- Flags a **decision/coverage gap**: the wiki has no dedicated **acute cholangitis** disease script (TG18 diagnostic/severity criteria are not fully ingested); content lives across choledocholithiasis, jaundice, and ercp.
+- There is no dedicated **acute cholangitis** disease page (TG18 diagnostic/severity criteria are only partly covered); content lives across choledocholithiasis, jaundice, and ercp.
 
 ---
 

@@ -26,7 +26,7 @@ Tier-1 AGA Clinical Practice Update covering the endoscopic treatment of **non-v
 
 The update covers the full arc: pre-endoscopic triage and resuscitation (including the three risk scores in Table 1), timing tiers for endoscopy, technique for conventional thermal therapy and hemoclips, then the three newer and more expensive tools — **monopolar hemostatic forceps (MHF)**, **over-the-scope clips (OTSC)**, and **sprayed hemostatic powder (TC-325 / Hemospray)** — each with its specific niche and its specific way of failing. It closes with hemostasis in advanced-endoscopy settings (EMR, ESD, sphincterotomy) and the transcatheter arterial embolization (TAE)-versus-surgery decision in refractory bleeding.
 
-Two contributions make this source disproportionately useful to the wiki. First, **Table 1 prints the components and point values of the Glasgow-Blatchford, Rockall and AIMS-65 scores side by side** — the Rockall and AIMS-65 components were previously absent from the entire ingested corpus and were flagged on [[upper-gi-bleeding]] as decision gaps. Second, it supplies the **operative electrosurgical and device parameters** (heater probe joules per pulse and total, bipolar wattage, contact duration, soft-coagulation settings, powder spray distance and burst length) that a proceduralist needs and that a modality-selection guideline does not print.
+Two contributions make this source disproportionately useful. First, **Table 1 prints the components and point values of the Glasgow-Blatchford, Rockall and AIMS-65 scores side by side** — the Rockall and AIMS-65 components used on [[upper-gi-bleeding]] come from here. Second, it supplies the **operative electrosurgical and device parameters** (heater probe joules per pulse and total, bipolar wattage, contact duration, soft-coagulation settings, powder spray distance and burst length) that a proceduralist needs and that a modality-selection guideline does not print.
 
 ---
 
@@ -81,7 +81,7 @@ Two contributions make this source disproportionately useful to the wiki. First,
 
 > **Table 1 footnote (verbatim):** "These risk assessment scores cannot precisely identify individual high-risk patients who will die from gastrointestinal bleeding if they do not receive an intervention, but may have a clinical role in identifying patients who are at very low risk for mortality and may be amenable to outpatient medical care/endoscopy."
 
-⚠ **What Table 1 does and does not give.** It prints each score's **component list and the point values available per component**, plus the score-level thresholds. It does **not** print the cutpoints that map a given age, blood pressure or comorbidity to a specific point value within the Rockall score — so a full Rockall score still cannot be computed from the ingested corpus. AIMS-65 *can* be computed in full: all five components carry an explicit threshold and are worth 0 or 1.
+⚠ **What Table 1 does and does not give.** It prints each score's **component list and the point values available per component**, plus the score-level thresholds. It does **not** print the cutpoints that map a given age, blood pressure or comorbidity to a specific point value within the Rockall score — so a full Rockall score cannot be computed from this page. AIMS-65 *can* be computed in full: all five components carry an explicit threshold and are worth 0 or 1.
 
 ### Initial management, before the scope
 
@@ -180,7 +180,7 @@ Both are decision algorithms and therefore fall under the Style Guide's figure-c
 ## Relevance to Wiki
 
 - **[[endoscopic-hemostasis]]** — created from this source together with [[acg-2021-ugib]] and [[acg-2023-lgib]]. This CPU is the primary source for device technique: generator settings, contact duration, catheter sizes, deployment distance, and each device's failure mode.
-- **[[upper-gi-bleeding]]** — **closes two flagged decision gaps**: the **Rockall** component list with point values, and the **AIMS-65** components, thresholds and score-specific inpatient mortality (previously recorded as absent from the entire corpus). Also adds the emergent/urgent/elective **12 h / 24 h / >24 h** timing tiers, the prokinetic and octreotide/antibiotic stances, and the OTSC and hemostatic-powder niches.
+- **[[upper-gi-bleeding]]** — supplies the **Rockall** component list with point values, and the **AIMS-65** components, thresholds and score-specific inpatient mortality. Also adds the emergent/urgent/elective **12 h / 24 h / >24 h** timing tiers, the prokinetic and octreotide/antibiotic stances, and the OTSC and hemostatic-powder niches.
 - **[[peptic-ulcer-disease]]** — MHF-vs-hemoclip RCT for Forrest Ia/Ib/IIa (98% vs 80% initial hemostasis).
 - **[[argon-plasma-coagulation]]** — records that APC conducted through already-placed hemostatic clips is an **unstudied** improvisation.
 - **[[polypectomy]]** / **[[endoscopic-submucosal-dissection]]** — intraprocedural bleeding is treated preferentially with hemostatic forceps rather than clips during EMR/ESD, because clips obstruct the resection.
@@ -191,10 +191,10 @@ Both are decision algorithms and therefore fall under the Style Guide's figure-c
 
 - **Transfusion threshold conflicts with [[acg-2021-ugib|ACG 2021]], which governs.** This CPU states a target of **"generally 9 g/dL in patients with significant cardiovascular disease and 7 g/dL for all others."** [[acg-2021-ugib|ACG 2021]] is a **later** tier-1 source and explicitly recommends **7 g/dL**, **8 g/dL** for pre-existing cardiovascular disease, and states **not** to transfuse to a target of 9 g/dL — a restrictive strategy reduces further bleeding and mortality. **Per source priority (same tier, newer publication date wins), ACG 2021 is what [[upper-gi-bleeding]] asserts.** Recorded here because the 9 g/dL figure is in circulation.
 - **Dual therapy.** This CPU says epinephrine + a second modality has **no advantage** over properly applied thermal or mechanical monotherapy; [[upper-gi-bleeding]] describes dual therapy as standard practice for active bleeding. These are reconcilable (epinephrine improves visibility, and the ACG rule is that epinephrine must never be *alone*), but the CPU's claim that it adds nothing over correctly applied monotherapy is the sharper statement and is recorded as such.
-- **Hemostatic powder as monotherapy is unresolved.** The CPU's own BPA 7 says rescue-only, yet it cites **2 pilot RCTs and a non-controlled registry** suggesting a potential role for TC-325 monotherapy, and calls explicitly for "an appropriately powered clinical trial." Open question, flagged by the source itself.
-- **OTSC device choice is unevidenced.** No head-to-head data between OTSC and Padlock, and none against through-the-scope clips or thermal therapy. The wiki should not imply a preference.
-- **Rockall remains incompletely specified.** Table 1 gives Rockall's components and the point values available per component but **not the criteria that assign a given patient to a given point value**. The full score still cannot be computed from the ingested corpus; the primary Rockall paper is not in `raw/`. **Do not infer the cutpoints.**
-- **Cost data are absent.** MHF and OTSC are described as "relatively costly" without figures; the only price point in the corpus is the ~$2,500 TC-325 list price in [[acg-2021-ugib]].
+- **Hemostatic powder as monotherapy is unresolved.** The CPU's own BPA 7 says rescue-only, yet it cites **2 pilot RCTs and a non-controlled registry** suggesting a potential role for TC-325 monotherapy, and calls explicitly for "an appropriately powered clinical trial." The source itself leaves this open.
+- **OTSC device choice is unevidenced.** No head-to-head data between OTSC and Padlock, and none against through-the-scope clips or thermal therapy. No preference can be stated.
+- **Rockall remains incompletely specified.** Table 1 gives Rockall's components and the point values available per component but **not the criteria that assign a given patient to a given point value**. The full score cannot be computed from this page; the cutpoints are in the primary Rockall paper.
+- **Cost data are absent.** MHF and OTSC are described as "relatively costly" without figures; the only price point available is the ~$2,500 TC-325 list price in [[acg-2021-ugib]].
 
 ---
 

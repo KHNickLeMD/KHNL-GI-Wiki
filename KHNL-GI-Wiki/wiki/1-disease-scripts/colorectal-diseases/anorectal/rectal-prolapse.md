@@ -98,7 +98,7 @@ Added caution — worse outcomes reported in: psychiatric disorders; chronic pai
 - **Surgery (e.g. laparoscopic ventral mesh rectopexy) may be considered when biofeedback and behavioral interventions are not effective** — especially when the ulcer sits at **the lead point of an internal rectal intussusception**. [[acg-2021-anorectal-disorders]]
 - Across 2 studies (75 patients), **the ulcer healed in 78% of cases**. [[acg-2021-anorectal-disorders]]
 
-> **Corpus gap:** no ingested source grades prolapse severity (e.g. by length of prolapsed segment) or covers non-operative/conservative management. A dedicated colorectal-surgery or pelvic-floor guideline would be needed to add those.
+> None of the sources here grades prolapse severity (e.g. by length of prolapsed segment) or covers non-operative/conservative management; those belong to the colorectal-surgery and pelvic-floor guidelines.
 
 ## See Also
 

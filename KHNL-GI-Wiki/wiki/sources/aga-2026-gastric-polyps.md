@@ -56,4 +56,4 @@ Histologic subtypes: **fundic gland polyps (FGPs)**, **gastric hyperplastic poly
 - [[gastric-adenocarcinoma]], [[upper-endoscopy]] — malignant potential and high-quality detection.
 
 ## Contradictions / Open Questions
-- No direct contradiction with existing pages; this is the first dedicated gastric-polyp framework in the wiki and aligns with [[aga-2020-gastric-intestinal-metaplasia]] and [[acg-2025-gastric-premalignant]] on field-risk surveillance.
+- No direct contradiction with existing pages; this is the first dedicated gastric-polyp framework and aligns with [[aga-2020-gastric-intestinal-metaplasia]] and [[acg-2025-gastric-premalignant]] on field-risk surveillance.

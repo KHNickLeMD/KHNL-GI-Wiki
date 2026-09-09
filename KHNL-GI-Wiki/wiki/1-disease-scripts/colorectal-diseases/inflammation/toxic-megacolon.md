@@ -31,7 +31,7 @@ Toxic megacolon = **colonic dilation + systemic toxicity** in a patient with sev
 - **Systemic toxicity** — the same signs that define severe/fulminant colitis (see Severity Assessment): tachycardia, fever, anemia, elevated inflammatory markers; in fulminant CDI, hypotension/shock or ileus.
 - **Physical exam:** abdominal distension, tenderness, rebound, guarding, tympany, ileus.
 
-> **Decision gap flagged:** neither ingested source (ACG 2025 UC, ACG 2021 C. difficile) states a formal consensus/Jalan diagnostic criteria set for toxic megacolon (e.g. colonic dilation ≥6 cm *plus* a defined number of systemic toxicity criteria). The **> 5.5 cm transverse-colon** figure above is presented by ACG UC as a poor-outcome predictor in severe colitis, not as an explicit toxic-megacolon cut-point. The classic ≥6 cm threshold is **not** in an ingested source and is deliberately not supplied here — flag for a dedicated source.
+> Neither guideline (ACG 2025 UC, ACG 2021 C. difficile) states a formal consensus/Jalan diagnostic criteria set for toxic megacolon (e.g. colonic dilation ≥6 cm *plus* a defined number of systemic toxicity criteria). The **> 5.5 cm transverse-colon** figure above is presented by ACG UC as a poor-outcome predictor in severe colitis, not as an explicit toxic-megacolon cut-point; the classic ≥6 cm threshold comes from the Jalan criteria, not from either guideline.
 
 ### Severity Assessment
 
@@ -65,7 +65,7 @@ Toxic megacolon sits at the severe end of two underlying-disease severity framew
 
 *Workup of the presenting acute severe/bloody diarrheal illness: see [[acute-diarrhea]]. No diagnostic schema is specific to colonic dilation with toxicity — the rest of the workup follows the underlying colitis.*
 
-Underlying etiologies of toxic megacolon named in ingested sources:
+Underlying etiologies of toxic megacolon named in the guidelines:
 - Acute severe [[ulcerative-colitis]] / [[inflammatory-bowel-disease|IBD]] flare
 - [[crohns-disease|Crohn's]] colitis
 - Fulminant [[clostridioides-difficile|C. difficile]] infection

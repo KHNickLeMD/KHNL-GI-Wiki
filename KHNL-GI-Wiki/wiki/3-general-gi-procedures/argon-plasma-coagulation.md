@@ -119,7 +119,7 @@ Non-contact thermal ablation: monopolar current delivered to tissue through a je
 | Same | APC ± epinephrine vs epinephrine + second modality, 3 RCTs | No significant difference — further bleeding RR 0.82 (0.21–3.19); mortality RR 0.85 (0.30–2.44) ([[acg-2021-ugib]]) |
 | Barrett's after EMR | Ablation of residual segment (PDT/APC) vs no ablation | Metachronous neoplasia **16.5% vs 29.9%** (P = .0014) ([[asge-2018-barretts-eet]]) |
 
-Unresolved: no ingested source reports a trial of APC vs sham or of treating only actively bleeding angioectasias vs all visible lesions, so rebleeding is used as a surrogate for effectiveness and outcomes in small-bowel disease have been "disappointing" ([[acg-2015-small-bowel-bleeding]]).
+Unresolved: no trial of APC vs sham or of treating only actively bleeding angioectasias vs all visible lesions, so rebleeding is used as a surrogate for effectiveness and outcomes in small-bowel disease have been "disappointing" ([[acg-2015-small-bowel-bleeding]]).
 
 ---
 

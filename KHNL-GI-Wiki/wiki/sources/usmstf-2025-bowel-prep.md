@@ -132,7 +132,7 @@ Separately, the guideline reproduces ASA's definition of patients who are **not*
 ## Relevance to Wiki
 
 - Updates: [[colonoscopy]] — bowel prep section, quality metric target (>90% adequate prep), GLP-1 handling
-- Supersedes the 2014 USMSTF recommendations ([[acg-2014-bowel-cleansing]]) and predates none of the ingested prep sources ([[asge-2015-bowel-preparation]])
+- Supersedes the 2014 USMSTF recommendations ([[acg-2014-bowel-cleansing]]) and is newer than the other prep guideline cited here ([[asge-2015-bowel-preparation]])
 
 ## Contradictions / Open Questions
 

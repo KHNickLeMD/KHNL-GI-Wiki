@@ -70,12 +70,12 @@ sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmst
 
 All surveillance recommendations assume high-quality examination. [[usmstf-2020-followup-colonoscopy]]
 
-- **ADR:** ≥30% men, ≥20% women; colonoscopist-level benchmark [[usmstf-2020-followup-colonoscopy]]. ⚠ **Denominator qualifier is not stated by this source.** [[usmstf-2015-crc-surveillance]] and [[usmstf-2021-crc-screening-age]] instead give an **overall ADR >25% (≥25%) in average-risk screening colonoscopies**. The two figures are not reconciled in any ingested source — apply the one whose population matches the exam you are auditing, and note which document you are using.
+- **ADR:** ≥30% men, ≥20% women; colonoscopist-level benchmark [[usmstf-2020-followup-colonoscopy]]. ⚠ **Denominator qualifier is not stated by this source.** [[usmstf-2015-crc-surveillance]] and [[usmstf-2021-crc-screening-age]] instead give an **overall ADR >25% (≥25%) in average-risk screening colonoscopies**. The two figures are not reconciled by either document — apply the one whose population matches the exam you are auditing, and note which document you are using.
 - **Cecal intubation:** ≥95%; photo document appendiceal orifice, IC valve, or terminal ileum
 - **Adequate bowel prep:** able to visualize polyps >5mm; **target >90%** at endoscopist and unit level [[usmstf-2025-bowel-prep]]. Segment-level adequacy cutoff: see [[#Preparation Quality Scales]].
 - **Post-polypectomy bleeding rate:** **≤1 per 100 colonoscopies** — see [[#Complications]].
 - **Complete polypectomy:** all visually detected polypoid tissue removed. ⚠ No numeric target rate is given in any source cited on this page.
-- ⚠ **No withdrawal-time indicator** (the conventional ≥6 min in normal-exam colonoscopies) appears in any source cited here — closing this needs the ASGE/ACG *Quality Indicators for Colonoscopy* document ingested. Do not supply it from memory.
+- **No withdrawal-time indicator** (the conventional ≥6 min in normal-exam colonoscopies) appears in the sources cited here; it is in the ASGE/ACG *Quality Indicators for Colonoscopy* document.
 - Document polyp size ≥10mm with comparison to open snare/forceps of known size
 
 ### Artificial Intelligence (CADe / CADx)
@@ -234,7 +234,7 @@ Grade prep **after** all washing/suctioning is complete ([[asge-2015-bowel-prepa
 
 > Applies to patients after curative-intent resection of colon or rectal cancer (TNM stages I–III). Does NOT apply to [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], or other hereditary CRC syndromes — those require their own syndrome-specific intervals.
 
-A "high-quality" colonoscopy in this context requires: **cecum or anastomosis reached, adequate bowel preparation, and meticulous examination by an appropriately trained operator meeting adenoma-detection benchmarks — i.e. conventional ADR >25% in average-risk screening colonoscopies** ([[usmstf-2015-crc-surveillance]]; [[usmstf-2021-crc-screening-age]] likewise uses "a colonoscopist with a ≥25% overall adenoma detection rate"). All surveillance intervals assume high-quality examinations. ⚠ This **>25% overall** figure and the **sex-specific 30%/20%** thresholds in [[#Quality Metrics]] come from different documents and are not reconciled by any ingested source.
+A "high-quality" colonoscopy in this context requires: **cecum or anastomosis reached, adequate bowel preparation, and meticulous examination by an appropriately trained operator meeting adenoma-detection benchmarks — i.e. conventional ADR >25% in average-risk screening colonoscopies** ([[usmstf-2015-crc-surveillance]]; [[usmstf-2021-crc-screening-age]] likewise uses "a colonoscopist with a ≥25% overall adenoma detection rate"). All surveillance intervals assume high-quality examinations. ⚠ This **>25% overall** figure and the **sex-specific 30%/20%** thresholds in [[#Quality Metrics]] come from different documents and are not reconciled by either.
 
 ### Perioperative Clearing
 

@@ -84,7 +84,7 @@ Protocol standardization includes supine and upright swallow series, multiple ra
 
 - Core reference for [[chicago-classification-v4]] (concept page)
 - Informs [[achalasia]] — type classification, IRP thresholds, diagnostic criteria
-- Informs [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]] stubs
+- Informs [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]]
 - Informs [[flip-panometry]] and [[high-resolution-manometry]] concept pages
 - Key cross-reference for GERD evaluation (HRM before anti-reflux surgery)
 

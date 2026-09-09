@@ -152,7 +152,7 @@ flowchart TD
 > - **Timing-of-endoscopy table:** *"Disk batteries and cylindrical batteries that are in the stomach of patients without signs of GI injury may be observed for as long as 48 hours. Batteries remaining in the stomach longer than 48 hours should be removed."* → **any** battery, remove at 48 h.
 > - **Disk-battery narrative:** batteries past the esophagus *"need not be retrieved unless the patient has signs of injury to the GI tract. A large-diameter battery (>20 mm in diameter) remaining in the stomach longer than 48 hours … should be removed."* → only **>20 mm**, or any battery with signs of injury.
 >
-> **They agree on:** remove any battery with signs of GI injury; remove any battery **>20 mm** still gastric at 48 h. **They differ only on the asymptomatic <20 mm battery at 48 h.** No ingested source resolves it. Verified against the raw PDF 2026-09-03. This page follows the **more conservative table rule** (retrieve at 48 h) — note the narrative permits observation, so document the reasoning if you elect to observe.
+> **They agree on:** remove any battery with signs of GI injury; remove any battery **>20 mm** still gastric at 48 h. **They differ only on the asymptomatic <20 mm battery at 48 h.** The guideline does not resolve it. This page follows the **more conservative table rule** (retrieve at 48 h) — note the narrative permits observation, so document the reasoning if you elect to observe.
 
 ### Step 5 — Object-Class Management
 

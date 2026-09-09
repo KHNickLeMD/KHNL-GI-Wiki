@@ -51,7 +51,7 @@ Purine-antimetabolite **immunomodulators** used in [[inflammatory-bowel-disease|
 - Both dose ranges are from [[acg-2025-crohns]] Rec 8 and 9. **The 6-MP lower bound is stated inconsistently within that guideline** (0.75 in the recommendation, 1.0 in the text) — noted rather than silently resolved.
 - Pediatric CD data: 6-MP **1.5 mg/kg/day** with the first corticosteroid course was effective; the equivalent early-azathioprine strategy in adults did **not** show a benefit in time in clinical remission ([[acg-2025-crohns]]).
 
-> **Gap — no ingested source gives thiopurine metabolite (6-TGN / 6-MMP) target ranges, allopurinol co-prescribing, or dose-escalation rules.** [[acg-2025-crohns]] and [[acg-2025-uc]] discuss therapeutic drug monitoring only for **anti-TNF** trough levels. Do not fill from memory; a thiopurine-metabolite source would be needed.
+> **Thiopurine metabolite (6-TGN / 6-MMP) target ranges, allopurinol co-prescribing, and dose-escalation rules are not given by the IBD guidelines** — [[acg-2025-crohns]] and [[acg-2025-uc]] discuss therapeutic drug monitoring only for **anti-TNF** trough levels.
 
 ---
 
@@ -73,7 +73,7 @@ Purine-antimetabolite **immunomodulators** used in [[inflammatory-bowel-disease|
 - **Skin surveillance:** annual NMSC screening on 6-MP or azathioprine, and yearly total-body skin exam **continued even after thiopurine cessation** in anyone with any history of thiopurine use — schedule and vaccination context on [[ibd-preventive-care]].
 - Thiopurines (especially combined with anti-TNF) **blunt vaccine immunogenicity**; live vaccines and the IBD vaccination schedule are on [[ibd-preventive-care]].
 
-> **Gap — no laboratory monitoring interval in the ingested corpus.** [[acg-2025-crohns]] states that white blood cell counts and liver chemistries "should be routinely monitored" **for methotrexate** and gives no CBC/LFT frequency for thiopurines; [[acg-2025-uc]] Rec 15 says only that monitoring for drug-related complications "is important." No ingested guideline prints a thiopurine monitoring schedule — flagged, not invented.
+> **No laboratory monitoring interval is given.** [[acg-2025-crohns]] states that white blood cell counts and liver chemistries "should be routinely monitored" **for methotrexate** and gives no CBC/LFT frequency for thiopurines; [[acg-2025-uc]] Rec 15 says only that monitoring for drug-related complications "is important." Neither guideline prints a thiopurine monitoring schedule.
 
 ---
 

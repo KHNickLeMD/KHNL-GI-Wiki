@@ -26,7 +26,7 @@ The critical change is that obeticholic acid (OCA / Ocaliva) is now **contraindi
 
 The fibrates statement (Statement 9) was rewritten to carry its own decompensation caveat: fibrates remain an off-label option for inadequate ursodeoxycholic acid (UDCA) responders, but are **discouraged in patients with decompensated liver disease**. In 2018 that caveat lived in the shared Statement 10; in 2021 the two drugs are separated, with fibrates *discouraged* in decompensation and OCA *contraindicated* in advanced cirrhosis.
 
-⚠ **Scope note — this document contains no data.** It is a two-page notice: bibliographic block, the FDA warning, the two revised statements, and references. Any pathophysiology, dosing, monitoring interval, or UDCA-response criterion for PBC must come from [[aasld-2018-pbc]] or another ingested source, not from this one.
+⚠ **Scope note — this document contains no data.** It is a two-page notice: bibliographic block, the FDA warning, the two revised statements, and references. Any pathophysiology, dosing, monitoring interval, or UDCA-response criterion for PBC must come from [[aasld-2018-pbc]], not from this one.
 
 ---
 
@@ -51,7 +51,7 @@ The contraindication is conditional on this definition, so it is the decision. *
 
 - **"Current or prior"** is load-bearing: a single resolved decompensating event still counts. A patient who is compensated today but had encephalopathy in the past meets the definition.
 - **Cirrhosis without any of the above** (i.e. compensated, no portal hypertension) is **not** a contraindication — but the guidance still directs "careful monitoring of any patient with cirrhosis, even if not advanced, receiving OCA."
-- ⚠ **Decision gap — not fillable from this source.** The guidance defines neither a **platelet threshold** for "persistent thrombocytopenia" nor an INR/coagulopathy cutoff, and specifies **no monitoring test or interval** for the "careful monitoring" it recommends. This two-page update contains no such numbers; do not supply them from memory.
+- The guidance defines neither a **platelet threshold** for "persistent thrombocytopenia" nor an INR/coagulopathy cutoff, and specifies **no monitoring test or interval** for the "careful monitoring" it recommends.
 
 ---
 
@@ -78,7 +78,7 @@ The contraindication is conditional on this definition, so it is the decision. *
 
 - OCA is **contraindicated** in advanced cirrhosis as defined by current-or-prior decompensation or portal hypertension — a broader trigger than the 2018 guidance's "Child-Pugh-Turcotte B or C" language.
 - Careful monitoring is recommended for **any** cirrhotic patient on OCA, "even if not advanced."
-- Fibrates remain off-label alternatives after inadequate UDCA response, but are **discouraged** in decompensated liver disease. *(This update names no specific fibrate, no dose, and no "inadequate response" criterion — see the gap note below.)*
+- Fibrates remain off-label alternatives after inadequate UDCA response, but are **discouraged** in decompensated liver disease. *(This update names no specific fibrate, no dose, and no "inadequate response" criterion — see Contradictions / Open Questions below.)*
 - All other 2018 guidance statements remain unchanged.
 
 ---
@@ -92,7 +92,7 @@ The contraindication is conditional on this definition, so it is the decision. *
 ## Contradictions / Open Questions
 
 - **Not a contradiction but a widening:** the shift from Child-Pugh B/C to "current or prior decompensation or portal hypertension" is practically more inclusive — a patient with compensated cirrhosis but persistent thrombocytopenia (a marker of portal hypertension) or a single prior encephalopathy episode now has "advanced cirrhosis" for the purpose of the OCA contraindication, despite possibly scoring Child-Pugh A.
-- **Undefined thresholds (source-limited):** "persistent thrombocytopenia" carries no platelet cutoff and "coagulopathy" no INR cutoff in this document. [[aasld-2018-pbc]] does print platelet numbers — **<140,000/mm³** (and, in one cited study, **<200,000/mm³**) — but only as triggers for **variceal-screening endoscopy**, not as a definition of the portal hypertension that makes cirrhosis "advanced" for the OCA contraindication. **Do not borrow the variceal-screening number for this purpose**; closing the gap properly needs a source that operationalizes portal-hypertensive thrombocytopenia, and no number should be supplied from memory.
+- **Undefined thresholds (source-limited):** "persistent thrombocytopenia" carries no platelet cutoff and "coagulopathy" no INR cutoff in this document. [[aasld-2018-pbc]] does print platelet numbers — **<140,000/mm³** (and, in one cited study, **<200,000/mm³**) — but only as triggers for **variceal-screening endoscopy**, not as a definition of the portal hypertension that makes cirrhosis "advanced" for the OCA contraindication. **Do not borrow the variceal-screening number for this purpose.**
 - **"Inadequate response to UDCA" is not defined here.** Statement 9 conditions fibrate use on it without giving the biochemical criteria (which alkaline-phosphatase/bilirubin cutoff, at what time point). Those live in the 2018 guidance, not this update.
 - **No specific fibrate, dose, or duration** is named; the statement is class-level and off-label.
 - The long-term cardiovascular and renal safety of fibrates in PBC is not addressed by this update.

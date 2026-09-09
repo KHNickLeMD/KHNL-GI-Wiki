@@ -184,7 +184,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ### Treatment Goals
 
-- Clinical remission (CDAI <150; symptom-free — i.e. no increased stool frequency or abdominal pain). **CDAI is a clinical-trial instrument, not a practice tool** ([[acg-2025-crohns]]): at the bedside grade activity by symptoms (abdominal pain, stool frequency) **plus** elevated biomarkers or activity on endoscopy/imaging. CDAI does **not** correlate with SES-CD, CRP, fecal calprotectin, or lactoferrin — do not treat symptoms alone (KC 9). *(The CDAI's 8 component variables and their weightings are not printed in any ingested source — flagged, not filled; the original Best 1976 index would be needed.)*
+- Clinical remission (CDAI <150; symptom-free — i.e. no increased stool frequency or abdominal pain). **CDAI is a clinical-trial instrument, not a practice tool** ([[acg-2025-crohns]]): at the bedside grade activity by symptoms (abdominal pain, stool frequency) **plus** elevated biomarkers or activity on endoscopy/imaging. CDAI does **not** correlate with SES-CD, CRP, fecal calprotectin, or lactoferrin — do not treat symptoms alone (KC 9). *(The CDAI's 8 component variables and their weightings are not printed in the guideline; they are in the original Best 1976 index.)*
 - Endoscopic remission (no ulceration; SES-CD ≤2)
 - Steroid-free maintenance
 - Prevention of complications (stricture, fistula, surgery)
@@ -288,7 +288,7 @@ No single pathognomonic test. Diagnosis = integration of:
 ### Anti-Integrin: Vedolizumab (Strong Recommendation)
 
 - **Mechanism:** α4β7 blockade → gut-selective; no PML risk (unlike natalizumab)
-- **Induction:** 300 mg IV at **wk 0 and wk 2** ([[acg-2025-crohns|ACG 2025]] Rec 16 — "2 intravenous induction doses"; GEMINI 2) → **Maintenance:** 300 mg IV q8wk OR 108 mg SQ q2wk. ⚠ Corrected 2026-09-04: this line previously read "wk 0, 2, 6" — **no ingested source states a week-6 vedolizumab induction dose for IBD** (that pattern is infliximab's). See [[vedolizumab]].
+- **Induction:** 300 mg IV at **wk 0 and wk 2** ([[acg-2025-crohns|ACG 2025]] Rec 16 — "2 intravenous induction doses"; GEMINI 2) → **Maintenance:** 300 mg IV q8wk OR 108 mg SQ q2wk. ⚠ There is **no week-6 vedolizumab induction dose for IBD** in the guideline (the wk 0/2/6 pattern is infliximab's). See [[vedolizumab]].
 - Slower onset in CD (vs anti-TNF); anti-TNF–naive respond faster
 - Monotherapy preferred (no benefit from adding immunomodulators — UNIFI/VARSITY extrapolation)
 - Favorable safety profile: no increased infection, no PML

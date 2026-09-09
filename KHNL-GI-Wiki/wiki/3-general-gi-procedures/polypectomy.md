@@ -111,7 +111,7 @@ Single home for LST submucosal-invasion risk — the two USMSTF 2020 documents d
 
 - **Cold snare polypectomy (CSP):** standard of care for diminutive (≤5 mm) and small (6–9 mm) lesions (Strong; **high**-quality per Table 1 of [[usmstf-2020-endoscopic-removal]], **moderate**-quality where the same sentence appears in that document's body text — an unresolved internal discrepancy, verified in both printings)
 - **Cold forceps: NOT recommended for diminutive (≤5 mm) lesions** — 9–61% incomplete resection (Strong; moderate-quality)
-- Hot biopsy forceps: NOT recommended for polypectomy of diminutive (≤5 mm) and small (6–9 mm) lesions — incomplete resection, inadequate histopathologic specimens, complications (Strong; moderate-quality). *⚠ The graded statement is scoped to diminutive and small lesions (≤9 mm) — no ingested source states a graded recommendation against hot biopsy forceps at larger sizes.*
+- Hot biopsy forceps: NOT recommended for polypectomy of diminutive (≤5 mm) and small (6–9 mm) lesions — incomplete resection, inadequate histopathologic specimens, complications (Strong; moderate-quality). *The graded statement is scoped to diminutive and small lesions (≤9 mm); the guideline gives no graded recommendation against hot biopsy forceps at larger sizes.*
 - **Cold-forceps exception — the size cutoff differs between guidelines:**
   - **≤2 mm**, only when CSP is technically difficult and single-bite resection is anticipated, using jumbo/large-capacity forceps ([[usmstf-2020-endoscopic-removal]], [[asge-2020-endoscopic-removal]])
   - **1–3 mm** when CSP is technically difficult ([[aga-2024-tailored-polypectomy]] BPA 2 — newer; see the tailored-technique table below). Newer tier-1 source, so 1–3 mm is what this page follows.
@@ -343,7 +343,7 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 
 - **Why competency is measured separately from detection:** polypectomy competency varies widely between colonoscopists — a prospective observational study of 13 high-volume screening colonoscopists at a US academic center found **overall competency rates of 30%–90%**, and those scores **did not correlate with [[colonoscopy|adenoma detection rate or withdrawal time]]**. Detection skills and resection skills are separate.
 - Adverse events to measure and report: **bleeding, perforation, hospital admissions, and the number of benign colorectal lesions referred for surgical management.** Resection method should be documented in the procedure report.
-- ⚠ The guideline does not enumerate the individual scored items within DOPyS or CSPAT in the ingested text (it points to its Appendix 4, which is not in the ingested file) — the tools' item lists are a gap, not stated here.
+- The guideline body does not enumerate the individual scored items within DOPyS or CSPAT; they are in its Appendix 4.
 
 ---
 

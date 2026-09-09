@@ -37,7 +37,7 @@ The central treatment decision follows depth of invasion and adverse histology, 
 |---|---|---|---|
 | **Tis** (HGD) | Malignant cells confined to the epithelium by the basement membrane | **0%** | [[endoscopic-eradication-therapy\|EET]] |
 | **T1a** (intramucosal carcinoma, IMC) | Invades **lamina propria or muscularis mucosae** | **~0%–2%** | EET **preferred over esophagectomy** (strong rec) |
-| **T1b sm1** | **Superficial** submucosa — upper third, **<500 µm** | Low (not quantified in the ingested sources) | EET only if **all four** low-risk features hold (below) |
+| **T1b sm1** | **Superficial** submucosa — upper third, **<500 µm** | Low (not quantified in the guidelines) | EET only if **all four** low-risk features hold (below) |
 | **T1b sm2–3** | **Mid-to-deep** submucosa, **>500 µm** | **≥20%** (20%–30%) | Esophagectomy generally preferred |
 
 - **Adverse histology overrides depth.** Independent of sm level, **poorly differentiated** cancer or **lymphovascular invasion** carries the same ≥20% LN-metastasis risk and makes esophagectomy the treatment of choice ([[asge-2018-barretts-eet]]). The µm/sm depth thresholds themselves come from [[acg-2022-barretts|ACG 2022]], not from ASGE 2018.

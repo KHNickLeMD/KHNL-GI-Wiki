@@ -76,9 +76,9 @@ The implementation considerations carry much of the operative detail: the ~3-yea
 
 ## Contradictions / Open Questions
 
-- **NDBE interval vs [[acg-2022-barretts]]**: AGA 2025 sets a q3y default extendable to q5y for short segments; ACG 2022 frames intervals inversely by segment length. AGA 2025 is newer and is what the wiki asserts.
+- **NDBE interval vs [[acg-2022-barretts]]**: AGA 2025 sets a q3y default extendable to q5y for short segments; ACG 2022 frames intervals inversely by segment length. [[barretts-esophagus]] follows AGA 2025 (newer).
 - **Post-CEIM LGD surveillance vs ACG 2022**: [[aga-2024-barretts-eet]] reverts to NDBE intervals after years 1 and 3; ACG 2022 says every 2 years.
-- **WATS-3D**: AGA declares a knowledge gap; [[asge-2019-barretts-screening-surveillance]] is the lone ingested source endorsing it.
+- **WATS-3D**: AGA declares a knowledge gap; [[asge-2019-barretts-screening-surveillance]] is the lone guideline endorsing it.
 - **Rec 2's population is narrow and easy to misread** — it is *columnar-lined esophagus **<1 cm with** intestinal metaplasia*, i.e. an ultra-short-segment exclusion. It is **not** a statement about columnar-lined esophagus lacking intestinal metaplasia.
 - No recommendation on any tissue biomarker means risk stratification beyond segment length and dysplasia grade remains unguided.
 

@@ -163,7 +163,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 > **What changed:** [[asge-2020-fap|ASGE 2020]] prints a **modified** Spigelman system in which the dysplasia row is re-scored to the current 2-tier dysplasia classification — **LGD = 1 point, HGD = 3 points, no 2-point tier** — replacing ACG 2015's mild/moderate/severe. Since contemporary pathology reports LGD/HGD, use the ASGE mapping (newer source, same tier). Number, size, histology and the stage cut-points (0 = 0; I = 1–4; II = 5–6; III = 7–8; IV = 9–12) are identical in both.
 
-> ⚠ **Fidelity flag — the polyp-number row has a gap as published.** Both guidelines print number as **`<4` / `5–20` / `>20`**, so **exactly 4 polyps falls between the 1-point and 2-point bands**. Reproduced as printed; the missing band is **not** supplied from outside the corpus. (The size row reads `0–4` / `5–10` / `>10` mm, which is continuous.)
+> ⚠ **The polyp-number row has a gap as published.** Both guidelines print number as **`<4` / `5–20` / `>20`**, so **exactly 4 polyps falls between the 1-point and 2-point bands**. Reproduced as printed. (The size row reads `0–4` / `5–10` / `>10` mm, which is continuous.)
 
 - **Why 0–I can be stretched to 5 years:** in the same 10-year follow-up, **stage 0 and I patients rarely progressed and *never* developed invasive cancer** — that, not a change in cut-points, is what justifies the longer ASGE interval. [[asge-2020-fap]]
 

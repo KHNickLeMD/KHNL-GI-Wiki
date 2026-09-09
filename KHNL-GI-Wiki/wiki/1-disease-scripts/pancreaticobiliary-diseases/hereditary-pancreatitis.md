@@ -66,7 +66,7 @@ Pathogenic genes implicated in hereditary/genetic pancreatitis ([[acg-2020-chron
 - **Genetic testing** — minimum panel PRSS1, SPINK1, CFTR, CTRC (above). Genetic counselor referral preferred; nongeneticist clinicians can order the minimum panel ([[acg-2020-chronic-pancreatitis]]).
 - **Cancer risk quantification:** hereditary pancreatitis carries a **53-fold relative risk** of pancreatic ductal adenocarcinoma ([[acg-2015-hereditary-gi-cancer]]) — second only to [[peutz-jeghers-syndrome|Peutz-Jeghers]] among hereditary conditions. *The full cross-syndrome relative-risk table — [[peutz-jeghers-syndrome|PJS]], HP, [[fammm-syndrome|FAMMM]], [[lynch-syndrome|Lynch]], [[familial-adenomatous-polyposis|FAP]], [[brca-pathogenic-variants|BRCA2]], ATM — lives on [[pancreatic-cancer-screening]]; do not reproduce it here.*
 - Imaging, EUS (Rosemont criteria), and pancreatic function testing follow the general [[chronic-pancreatitis]] pathway — not HP-specific; the Rosemont parenchymal/ductal feature list lives there.
-- ⚠ **No absolute/lifetime pancreatic-cancer risk percentage for hereditary pancreatitis exists in any ingested source** — only the 53-fold RR above.
+- ⚠ **None of the guidelines gives an absolute/lifetime pancreatic-cancer risk percentage for hereditary pancreatitis** — only the 53-fold RR above.
 
 ## Therapeutics
 
@@ -81,7 +81,7 @@ Pathogenic genes implicated in hereditary/genetic pancreatitis ([[acg-2020-chron
 
 | Source | Position |
 |---|---|
-| [[asge-2022-pancreatic-cancer-screening\|ASGE 2022]] (guideline, newest) | Screen AD hereditary pancreatitis annually from **age 40** — *the wiki's position (newest guideline)* |
+| [[asge-2022-pancreatic-cancer-screening\|ASGE 2022]] (guideline, newest) | Screen AD hereditary pancreatitis annually from **age 40** — *this page follows ASGE 2022 (newest guideline)* |
 | [[acg-2015-hereditary-gi-cancer\|ACG 2015]] (guideline, older) | Lists HP as a risk criterion but places it in the generic bucket: EUS ± MRI/MRCP from **age 50** (or 10 yr before earliest family cancer); surveillance **at experienced centers under research conditions** (Conditional/Very Low) |
 | [[acg-2020-chronic-pancreatitis\|ACG 2020]] (guideline) | **No evidence supports routine pancreatic malignancy screening in CP** (Key Concept 5) — its own text flags that this differs from groups recommending surveillance in hereditary pancreatitis |
 
@@ -89,7 +89,7 @@ Per source priority (guidelines tier; newer publication date wins), **ASGE 2022'
 
 ### Disease Management
 
-No HP-specific management exists in the ingested sources — manage as [[chronic-pancreatitis]]:
+The guidelines give no HP-specific management — manage as [[chronic-pancreatitis]]:
 
 - **Alcohol and smoking cessation** (both Strong / Very Low) — smoking is separately synergistic with CTRC.
 - **Pain:** stepwise ladder (non-opioid → antioxidants → neuromodulators → celiac plexus block → endoscopic decompression → surgical drainage → opiates last). **PERT does not improve pain.**

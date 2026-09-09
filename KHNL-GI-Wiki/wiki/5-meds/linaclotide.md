@@ -37,7 +37,7 @@ Guanylate cyclase-C (GC-C) agonist; intestinal secretagogue — ↑cyclic GMP �
 - **Contraindicated** in known or suspected **mechanical GI obstruction**.
 - No clear outcome differences in patients >65 y in trials (sample too small for formal analysis).
 
-> **Gap — pediatric contraindication not in the ingested corpus.** Neither [[acg-2020-ibs]] nor [[aga-acg-2023-constipation]] addresses use in children (the CIC guideline explicitly does not apply to pediatric populations). A previously stated contraindication in children <6 y was unsourced and has been removed; FDA labeling would be needed to state it.
+> Neither [[acg-2020-ibs]] nor [[aga-acg-2023-constipation]] addresses use in children (the CIC guideline explicitly does not apply to pediatric populations); the pediatric contraindication is on the FDA label.
 
 ## Place in Therapy
 

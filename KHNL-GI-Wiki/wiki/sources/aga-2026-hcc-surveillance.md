@@ -44,7 +44,7 @@ Emerging blood-based biomarkers (e.g., **GALAD**) and radiologic biomarkers are 
 - CT/MRI not for routine surveillance (radiation/contrast, cost, availability), though MRI may be cost-effective in select high-incidence groups.
 
 ## Relevance to Wiki
-- [[hcc-surveillance]] — primary source; expands this stub into a full framework (modalities, interval, at-risk populations, biomarkers, risk scores, harms).
+- [[hcc-surveillance]] — primary source; expands the page into a full framework (modalities, interval, at-risk populations, biomarkers, risk scores, harms).
 - [[hepatocellular-carcinoma]] — corroborates surveillance criteria and AFP role; adds GALAD/biomarker and PAGE-B/REAL-B caveats.
 - [[chronic-hepatitis-b]], [[nafld-masld|MASLD]], [[alcohol-associated-liver-disease]], [[li-rads]] — etiology-specific risk and prevention.
 

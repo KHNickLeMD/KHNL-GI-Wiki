@@ -317,8 +317,8 @@ The post-transplant recipient requires lifelong structured monitoring for allogr
 - **Protocol liver biopsy is NOT recommended** in the routine management of stable adult LT recipients ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 34, Strong, Level 4) — supersedes older practice of protocol biopsies at 1 and 5 years
 - Use before minimization of immunosuppression is appropriate (Rec 34)
 - **Banff criteria**: standard for grading rejection (Rejection Activity Index = sum of three components — portal inflammation, bile duct damage, venous endotheliitis); Banff 2022 criteria incorporate AMR features
-  - *Gap: no ingested source prints the **0–3 point scale for each RAI component** or the RAI band cut-offs, yet the treatment split below turns on **RAI <4** ([[#Graft Rejection Management]]). A Banff Working Group consensus paper would be needed — read the RAI off the pathology report; do not score from this page. [[antibody-mediated-rejection-liver-transplant]] carries the same gap for AMR grading.*
-- **Fibrosis staging**: critical for recurrent disease assessment (Ishak or METAVIR). *Gap: neither staging system's stage definitions are in an ingested source.*
+  - *The **0–3 point scale for each RAI component** and the RAI band cut-offs are not given in the AASLD guidance (they are in the Banff Working Group consensus), yet the treatment split below turns on **RAI <4** ([[#Graft Rejection Management]]) — read the RAI off the pathology report. [[antibody-mediated-rejection-liver-transplant]] has the same limitation for AMR grading.*
+- **Fibrosis staging**: critical for recurrent disease assessment (Ishak or METAVIR). *Stage definitions for Ishak and METAVIR are not given in the transplant guidelines.*
 
 ### Transient Elastography
 
@@ -463,7 +463,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 
 **T-Cell–Mediated Rejection (TCMR)** (Recs 37–39):
 
-- **Mild TCMR** (early or late, Banff **rejection activity index <4** — component point values are not in any ingested source, see [[#Liver Biopsy]]): augment existing IS; change cyclosporine to tacrolimus if applicable (Rec 37, Strong, Level 3)
+- **Mild TCMR** (early or late, Banff **rejection activity index <4** — component point values are not given in the guideline, see [[#Liver Biopsy]]): augment existing IS; change cyclosporine to tacrolimus if applicable (Rec 37, Strong, Level 3)
 - **Moderate/severe TCMR**: high-dose IV corticosteroids (methylprednisolone 500–1000 mg IV daily × 1–3 days) + augment existing IS (change CSA to TAC if applicable; add antimetabolite or mTOR inhibitor) (Rec 38, Strong, Level 3); 60–90% of acute TCMR respond to pulse steroids; prophylactic anti-infective therapy concurrent with high-dose corticosteroids
 - Steroid taper post-pulse: prednisone 40–80 mg daily, decreasing by 10–20 mg decrements until tapered off (center-variable)
 - **Refractory TCMR**: second course of corticosteroids or lymphocyte-depleting therapy (Rec 39, Strong, Level 4)

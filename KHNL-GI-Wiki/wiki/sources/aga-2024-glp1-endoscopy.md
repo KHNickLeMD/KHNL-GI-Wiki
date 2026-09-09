@@ -51,5 +51,5 @@ Evidence is limited: case reports and small studies show increased gastric resid
 - Cross-linked from [[upper-endoscopy]] and [[colonoscopy]] (pre-procedure preparation) and [[semaglutide]] (periprocedural management of a GLP-1 RA).
 
 ## Contradictions / Open Questions
-- **AGA vs ASA:** ASA consensus advises routinely holding GLP-1 RAs periprocedurally; AGA argues the evidence does not support routine cessation and favors an individualized, symptom-driven approach with standard fasting ± a pre-procedure liquid diet. Both are expert opinion; the wiki asserts the AGA position while surfacing the ASA guidance.
+- **AGA vs ASA:** ASA consensus advises routinely holding GLP-1 RAs periprocedurally; AGA argues the evidence does not support routine cessation and favors an individualized, symptom-driven approach with standard fasting ± a pre-procedure liquid diet. Both are expert opinion; [[endoscopy-sedation]] follows the AGA position while noting the ASA guidance.
 - No evidence defines whether/how long holding a GLP-1 RA restores gastric motility; role of gastric ultrasound in routine practice unproven.

@@ -38,7 +38,7 @@ The adult presenting with **infrequent and/or unsatisfactory defecation** — ho
     4. Insufficient improvement of another sign or symptom of CC on current treatment
   - This matters because RC is what triggers the whole downstream arm — repeat transit on a maximal laxative regimen, defecography, off-label agents, and the surgical conversation below
 
-> **Gap — the itemised Rome criteria are not in an ingested source.** The Rome V document in `raw/` is the process/overview paper: it prints the **taxonomy** and the **changes** from Rome IV, but not the numbered symptom items and their ≥25%-of-defecations thresholds. The symptom list currently carried on [[chronic-idiopathic-constipation]] is not traceable to an ingested file. The full *Rome V Criteria* volume (or the Rome V bowel-disorders chapter) would be needed before those items can be asserted here.
+> The Rome V process/overview paper prints the **taxonomy** and the **changes** from Rome IV, but not the numbered symptom items and their ≥25%-of-defecations thresholds; those are in the full *Rome V Criteria* volume (bowel-disorders chapter). The symptom list on [[chronic-idiopathic-constipation]] should be verified against it.
 
 ### What counts as abnormal
 
@@ -49,7 +49,7 @@ Most patients hold misconceptions about normal bowel habit, so the normal range 
 | Stool frequency | **~95%** of individuals fall between **3 bowel movements/day and 3 bowel movements/week** |
 | Stool consistency | **90%** have an average **Bristol 3–5 (men)** and **Bristol 2–6 (women)** |
 
-> ⚠ **Decision gap — the Bristol Stool Form Scale itself is corpus-blocked.** The consistency row above (and the Bristol <3 entry criterion used by [[aga-2026-refractory-constipation]]) can only be applied if you can map a stool to a Bristol type, and **no ingested source defines the 7 types** — the corpus uses the scale without printing it (same block flagged on [[chronic-diarrhea]], where "Bristol 6–7" anchors the definition of diarrhea). Ingest the primary Bristol/Lewis-Heaton scale paper to close it; do not reconstruct the types from memory.
+> The guidelines use the Bristol Stool Form Scale without printing the 7 types; the consistency row above (and the Bristol <3 entry criterion used by [[aga-2026-refractory-constipation]]) requires the scale itself, which is in the primary Lewis–Heaton paper. The same applies on [[chronic-diarrhea]], where "Bristol 6–7" anchors the definition of diarrhea.
 
 ### The three physiologic subtypes
 

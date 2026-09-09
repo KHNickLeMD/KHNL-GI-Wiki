@@ -79,15 +79,15 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 
 ## Recommendations
 
-⚠ **Source-fidelity correction (2026-09-08).** This page previously carried a 26-row grade table. An audit against both raw printings (*Gastroenterology* 2020;158:1095 and *GIE* 2020;91:486) found **17 of its 26 rows misstated the strength or evidence quality**, and **4 attached a GRADE rating to text the document never graded at all** (the NICE 3 / Kudo Vn management algorithm, the non-lifting sign, the colorectal ESD indications, and "endoscopy is first-line for benign lesions" — all four are narrative body text or an ungraded section preamble).
+⚠ **Correction.** An earlier 26-row grade table on this page misstated the strength or evidence quality in 17 rows and attached a GRADE rating to text the document never graded at all (the NICE 3 / Kudo Vn management algorithm, the non-lifting sign, the colorectal ESD indications, and "endoscopy is first-line for benign lesions" — all narrative body text or an ungraded section preamble), as checked against both printings (*Gastroenterology* 2020;158:1095 and *GIE* 2020;91:486).
 
-The table has been removed rather than re-typed here, because duplicating it invited the two pages to drift apart — which is exactly what happened: this page still asserted a fabricated *"Weak; low-quality"* grade for colorectal ESD after that same fabrication had already been corrected on [[asge-2020-endoscopic-removal]].
+The table has been removed rather than re-typed here so that the two pages cannot drift apart.
 
 **The document's 43 graded statements now live in one place, verbatim, with their true GRADE ratings: [[asge-2020-endoscopic-removal]] → *Statements of Best Practice (Table 1)*.** Its ungraded narrative content is filed there under *Narrative Content (Not Graded)*.
 
 Two facts to carry when citing this document anywhere:
 
-- **It has no numbered recommendations.** Guidance is 43 unnumbered bullets under 6 named "Statements". Any "Rec N" citation to this source is a wiki-side invention.
+- **It has no numbered recommendations.** Guidance is 43 unnumbered bullets under 6 named "Statements". Any "Rec N" citation to this source is spurious.
 - **Strength is "Strong" or "Conditional"**, never "weak"; quality is very low / low / moderate / high. Per the document's Table 3, *"recommend"* = strong and *"suggest"* = conditional.
 
 ## Relevance to Wiki

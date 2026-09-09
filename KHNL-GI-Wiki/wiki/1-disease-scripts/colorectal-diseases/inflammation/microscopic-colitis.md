@@ -7,7 +7,7 @@ updated: 2026-09-04
 sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2020-ibs, acg-2022-celiac]
 ---
 
-> **Partial page — no dedicated microscopic-colitis guideline is ingested.** The ingested sources cover **who to scope, how the diagnosis is made endoscopically, and where it sits in the differential**. They do **not** cover therapy — [[asge-2010-diarrhea]] explicitly predates current microscopic-colitis therapy guidance, so **no therapy (including first-line budesonide, dosing, or drug/smoking associations) is stated here**, and the defining histologic thresholds for the two subtypes are likewise unsourced. An ACG/AGA microscopic-colitis guideline would be needed to close these.
+> **Partial page.** The sources cited here cover **who to scope, how the diagnosis is made endoscopically, and where it sits in the differential**. They do **not** cover therapy — [[asge-2010-diarrhea]] explicitly predates current microscopic-colitis therapy guidance, so **no therapy (including first-line budesonide, dosing, or drug/smoking associations) is stated here**, and the defining histologic thresholds for the two subtypes are not given either; consult a dedicated ACG/AGA microscopic-colitis guideline for both.
 
 ## Contents
 - [[#Assessment]]
@@ -68,7 +68,7 @@ The common indication "colonoscopy to rule out microscopic colitis" in suspected
 
 ## Therapeutics
 
-- **Not covered by any ingested source** — see the note at the top of this page. [[asge-2010-diarrhea]] is an endoscopy-role document and predates current microscopic-colitis therapy guidance.
+- **Not covered by the sources cited here** — see the note at the top of this page. [[asge-2010-diarrhea]] is an endoscopy-role document and predates current microscopic-colitis therapy guidance.
 
 ## See Also
 

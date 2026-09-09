@@ -67,7 +67,7 @@ Cumulative good-to-excellent symptom relief, average follow-up **1.6 years** (ra
 | 4.0 cm | **90%** |
 
 - Across all series, good-to-excellent relief after PD ranges **50%–93%**.
-- Pooled clinical success (**Eckardt score ≤3** — the score's four components, bands, and the corpus-blocked per-item anchors live on [[achalasia]]) is **83% (95% CI 79–85%)** across 52 uncontrolled studies / 4,166 patients at 3–6 months, with mean LES pressure falling **34.5 → 20.8 mm Hg** ([[asge-2020-achalasia]]).
+- Pooled clinical success (**Eckardt score ≤3** — the score's four components and bands live on [[achalasia]]) is **83% (95% CI 79–85%)** across 52 uncontrolled studies / 4,166 patients at 3–6 months, with mean LES pressure falling **34.5 → 20.8 mm Hg** ([[asge-2020-achalasia]]).
 - **Serial PD is equivalent to [[heller-myotomy|LHM]] at 5 years** ([[acg-2020-achalasia]], Strong/High).
 - ⚠ **Newer guidance:** [[sages-2024-poem|SAGES 2024]] conditionally suggests **POEM over PD**, superseding the 2020 framing of PD as the preferred non-surgical option. Counsel on post-POEM reflux when choosing.
 

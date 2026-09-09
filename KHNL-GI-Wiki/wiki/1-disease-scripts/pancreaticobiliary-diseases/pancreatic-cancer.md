@@ -65,8 +65,8 @@ TNM staging of pancreatic adenocarcinoma (AJCC 7th ed., as reproduced in [[asge-
 | IV | Any T | Any N | M1 |
 
 - **The single arterial criterion that defines an unresectable primary in this system is celiac-axis or SMA involvement (T4).**
-- **Gap — borderline-resectable criteria are not in an ingested source.** The degree-of-contact definitions that separate *resectable* from *borderline-resectable* from *locally advanced* (e.g. ≤180° vs >180° tumor–vessel contact with SMA/celiac axis/common hepatic artery, and SMV–portal vein contact with or without reconstructable involvement) are **not** stated in any guideline currently in `raw/`. The NCCN Pancreatic Adenocarcinoma guideline would be needed; do not infer them from this table. See also the venous-invasion caveat: CT stages resectability by detecting tumor extension, liver metastases, and **invasion of vascular structures**, but ASGE 2016 gives no numeric contact thresholds.
-- **Version caveat:** the table above is AJCC **7th** edition. Whether and how the 8th edition changed pancreatic T definitions is not documented in any ingested source.
+- **Borderline-resectable criteria are not given here.** The degree-of-contact definitions that separate *resectable* from *borderline-resectable* from *locally advanced* (e.g. ≤180° vs >180° tumor–vessel contact with SMA/celiac axis/common hepatic artery, and SMV–portal vein contact with or without reconstructable involvement) are not stated in ASGE 2016; take them from the NCCN Pancreatic Adenocarcinoma guideline. See also the venous-invasion caveat: CT stages resectability by detecting tumor extension, liver metastases, and **invasion of vascular structures**, but ASGE 2016 gives no numeric contact thresholds.
+- **Version caveat:** the table above is AJCC **7th** edition. Whether and how the 8th edition changed pancreatic T definitions is not covered here.
 
 ### Risk Stratification / Genetic Susceptibility
 
@@ -156,7 +156,7 @@ flowchart TD
 ### Surgery and Systemic Therapy
 
 - **Surgical resection** (Whipple/pancreaticoduodenectomy, distal pancreatectomy) is the only curative option, reserved for resectable/borderline-resectable disease — making early/screen-detected diagnosis the principal lever on survival (60% of screen-detected cancers were resectable/borderline-resectable vs ~20% of symptom-detected).
-- **Chemotherapy** — FOLFIRINOX and gemcitabine-based regimens (neoadjuvant, adjuvant, palliative). Homologous-recombination-deficient (BRCA1/2, PALB2) tumors are sensitive to platinum-based regimens and PARP inhibitors (e.g. maintenance **olaparib** in germline BRCA-mutated metastatic disease). *Doses and cycle intervals are not given in any ingested source.*
+- **Chemotherapy** — FOLFIRINOX and gemcitabine-based regimens (neoadjuvant, adjuvant, palliative). Homologous-recombination-deficient (BRCA1/2, PALB2) tumors are sensitive to platinum-based regimens and PARP inhibitors (e.g. maintenance **olaparib** in germline BRCA-mutated metastatic disease). *Doses and cycle intervals are not covered here.*
 
 ### Endoscopic Palliation
 

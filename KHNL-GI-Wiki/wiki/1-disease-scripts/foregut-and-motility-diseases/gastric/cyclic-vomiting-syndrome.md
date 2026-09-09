@@ -36,7 +36,7 @@ Chronic [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction
 
 Diagnosis is **clinical** — consider CVS in any adult with episodic bouts of repetitive vomiting. ~15% have episodes lasting >7 days; **abdominal pain is present in most episodes and does not exclude CVS**.
 
-> **Rome V has moved on, but its numbers are not in the corpus.** [[rome-v-2026-dgbi|Rome V]] (2026 — newer than the 2024 CPU) keeps CVS as an adult nausea-and-vomiting disorder at **B2b** and splits [[cannabinoid-hyperemesis-syndrome|CHS]] out as a separate adult entity at **B2c**, and states that for both "timing of symptoms and intervals was specified based on **more recent cohort studies**." The ingested Rome V file is the introduction/process article only and **does not print the B2b criteria**, so the **Rome IV thresholds above — carried by [[aga-2024-cvs]] — are what the wiki can source**. Whether the episode-duration, count, or well-interval numbers changed in Rome V is unknown; the Rome V gastroduodenal chapter would be needed to close this.
+> **Rome V has moved on, but its criteria are not printed here.** [[rome-v-2026-dgbi|Rome V]] (2026 — newer than the 2024 CPU) keeps CVS as an adult nausea-and-vomiting disorder at **B2b** and splits [[cannabinoid-hyperemesis-syndrome|CHS]] out as a separate adult entity at **B2c**, and states that for both "timing of symptoms and intervals was specified based on **more recent cohort studies**." The Rome V overview article **does not print the B2b criteria**, so the **Rome IV thresholds above — carried by [[aga-2024-cvs]] — are what this page uses**. Whether the episode-duration, count, or well-interval numbers changed in Rome V is stated only in the Rome V gastroduodenal chapter.
 
 ### Severity Assessment
 

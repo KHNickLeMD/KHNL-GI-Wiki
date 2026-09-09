@@ -152,7 +152,7 @@ Practical point: DIAIH may be indistinguishable from idiopathic AIH; drug exposu
 
 ## Relevance to Wiki
 
-- **Primary:** Expands [[autoimmune-hepatitis]] from stub to full ADDT page
+- **Primary:** Primary source for the full [[autoimmune-hepatitis]] page
 - Informs overlap syndrome content in [[primary-biliary-cholangitis]] and [[primary-sclerosing-cholangitis]]
 - Drug-induced AIH section reinforces [[drug-induced-liver-injury]] DILI subtypes
 - Post-LT AIH management adds to [[liver-transplantation]] post-transplant section

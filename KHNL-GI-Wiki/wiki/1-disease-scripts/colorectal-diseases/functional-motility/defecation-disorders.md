@@ -44,7 +44,7 @@ sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-d
 - **New in Rome V — anorectal sensory dysfunction disorders (F4)**, a separate category from F3 that can produce the same complaints:
   - **F4a rectal hyposensitivity** — blunted rectal sensation → **decreased urge to defecate, straining, and digital maneuvers to evacuate**. Overlaps clinically with dyssynergia; **rectal sensitivity testing separates them**, and treatment is **balloon sensory training** rather than (or alongside) coordination [[biofeedback-therapy|biofeedback]].
   - **F4b rectal hypersensitivity** — **increased urge to defecate** with prolonged or frequent toilet times.
-  - ⚠ **Gap:** the ingested Rome V source announces F4 and its rationale but does **not** print the full diagnostic criteria or the rectal-volume thresholds that define hypo-/hypersensitivity. Those are deliberately not supplied here; the Rome V anorectal chapter would be needed.
+  - ⚠ The Rome V source announces F4 and its rationale but does **not** print the full diagnostic criteria or the rectal-volume thresholds that define hypo-/hypersensitivity; those are in the Rome V anorectal chapter.
 
 **Clinical features (Rome IV-compatible):** excessive straining during ≥25% of defecations, sense of anorectal blockage during ≥25% of defecations, use of digital or manual maneuvers during ≥25% of defecations, sense of incomplete evacuation.
 
@@ -113,7 +113,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 - **A negative rectoanal gradient is likewise common in healthy people** — so the gradient that Rome V leans on cannot be used as a stand-alone rule-in. The same caveat applies to the other manometric features of DD: decreased rectal pressure, high anal pressure during evacuation, and high anal resting pressure.
 - **Position matters:** seated manometry may discriminate healthy people from DD patients better than left-lateral manometry, though confirmatory studies are awaited.
 
-> **Decision gap (corpus-blocked):** the widely used **Rao dyssynergia types I–IV** (the four rectal-pressure/anal-pressure permutation patterns) are **not defined in [[acg-2021-anorectal-disorders]] or any other ingested source** — the guideline characterizes dyssynergia only as impaired relaxation/paradoxical contraction and/or inadequate propulsive force. The type definitions are deliberately not supplied here; the original Rao classification paper would be needed. Do not fill from memory.
+> The widely used **Rao dyssynergia types I–IV** (the four rectal-pressure/anal-pressure permutation patterns) are **not defined in [[acg-2021-anorectal-disorders]]** — the guideline characterizes dyssynergia only as impaired relaxation/paradoxical contraction and/or inadequate propulsive force. The type definitions are in the original Rao classification paper.
 
 **Defecography (barium or MRI) — for structural evaluation:**
 

@@ -94,7 +94,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 | 3 | **Complete PV *and* splenic vein occlusion** |
 | 4 | **Complete PV occlusion with SMV extension** |
 
-- ⚠ [[aasld-2021-vascular-pvt]] Table 6 prints the four categories **without numbering them I–IV**; the numbering above is the order in which the source lists them. [[aasld-ast-2025-liver-transplant-candidate-evaluation]] glosses **grade IV as "complete splanchnic vein thrombosis,"** which matches the most extensive category. If the exact grade boundaries matter for a listing decision, the primary source (Yerdel 2000, *Transplantation* 69:1873) is **not ingested** — do not reconstruct them from memory.
+- ⚠ [[aasld-2021-vascular-pvt]] Table 6 prints the four categories **without numbering them I–IV**; the numbering above is the order in which the source lists them. [[aasld-ast-2025-liver-transplant-candidate-evaluation]] glosses **grade IV as "complete splanchnic vein thrombosis,"** which matches the most extensive category. If the exact grade boundaries matter for a listing decision, take them from the primary source (Yerdel 2000, *Transplantation* 69:1873).
 - The same table notes Yerdel's limitation: derived **only in patients presenting for LT**, so it correlates with post-transplant survival rather than natural history.
 
 **Clinical subtypes** (drive the treatment pathway under [[#Therapeutics]]):
@@ -145,7 +145,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 - Bone marrow biopsy if JAK2 negative but MPN suspected
 - **Baveno VII detail** (8.2–8.5) [[baveno-vii-2022-portal-hypertension]]: finding one risk factor does **not** stop the workup — combinations are common (A.1). If JAK2 V617F is negative, pursue somatic **calreticulin (CALR)** and **JAK2 exon 12** mutations and next-generation sequencing (A.1). In any adult with primary splanchnic vein thrombosis and **no MPN driver mutation**, discuss **bone marrow biopsy with haematology irrespective of blood counts** (B.2) — particularly when no major thrombosis risk factor is present. After abdominal surgery or pancreatitis, weigh bone-marrow/liver biopsy individually given low yield (C.2)
 - **If the liver is dysmorphic or liver tests persistently abnormal:** [[liver-biopsy|liver biopsy]] **and** [[hepatic-venous-pressure-gradient|HVPG]] to rule out cirrhosis or [[porto-sinusoidal-vascular-disorder|PSVD]] (Baveno VII 8.34); [[liver-stiffness-measurement|LSM]] may help exclude cirrhosis but no cut-off can yet be proposed
-- **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 9.4–9.5 restructures this:** investigate **cirrhosis/cACLD** with a comprehensive workup **including LSM**, reserving liver biopsy and HVPG for inconclusive cases or when **PSVD/NCPF is suspected**. The aetiological workup should classify each risk factor as **permanent or reversible**, and each permanent one as **major (thrombophilia, myeloproliferative neoplasm) or non-major** — because that classification, not the workup itself, determines long-term anticoagulation (see [[#Noncirrhotic Acute PVT/MVT — Anticoagulation]]). The full risk-factor list is in the source's Supplementary Table S4, **which is not in the ingested file**
+- **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 9.4–9.5 restructures this:** investigate **cirrhosis/cACLD** with a comprehensive workup **including LSM**, reserving liver biopsy and HVPG for inconclusive cases or when **PSVD/NCPF is suspected**. The aetiological workup should classify each risk factor as **permanent or reversible**, and each permanent one as **major (thrombophilia, myeloproliferative neoplasm) or non-major** — because that classification, not the workup itself, determines long-term anticoagulation (see [[#Noncirrhotic Acute PVT/MVT — Anticoagulation]]). The full risk-factor list is in the source's Supplementary Table S4 (not reproduced here)
 
 **Local/secondary causes:**
 
@@ -207,7 +207,7 @@ flowchart TD
 
 > ⚠ **Two Baveno VII rules are gone.** (1) VII 8.39/8.45 recommended long-term AC for a permanent prothrombotic state and said it "should also be considered" without one — no dose distinction. Baveno VIII splits permanent risk factors into **major vs non-major** and prescribes **lower-dose DOAC** rather than full-dose for the non-major/unprovoked group. (2) VII 8.40's **D-dimer <500 ng/mL at 1 month after discontinuation** as a marker of low recurrence risk has been **dropped** and moved to the research agenda (RA9.4) — do not present it as current guidance.
 >
-> ⚠ **"Lower dose" is not quantified in the statement.** The only figure in the document is in the research agenda (RA9.3), which asks about DOACs "other than **rivaroxaban 15 mg/day**" — implying that is the studied lower dose, but Baveno VIII does not prescribe it. **Decision gap:** dose the lower-intensity DOAC from the primary trial literature, not from this page.
+> ⚠ **"Lower dose" is not quantified in the statement.** The only figure in the document is in the research agenda (RA9.3), which asks about DOACs "other than **rivaroxaban 15 mg/day**" — implying that is the studied lower dose, but Baveno VIII does not prescribe it. Dose the lower-intensity DOAC from the primary trial literature.
 
 *Surveillance and complications:*
 

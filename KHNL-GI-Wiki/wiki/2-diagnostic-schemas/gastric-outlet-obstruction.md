@@ -26,15 +26,15 @@ sources: [jeurnink-2010-sustent-goo, kastelijn-2023-enduro-protocol, asge-2010-p
 
 ## Definition / Scope
 
-- **Mechanical obstruction of gastric outflow.** Anatomically the ingested trials bound it as obstruction extending from the **distal one third of the stomach to the distal duodenum** ([[jeurnink-2010-sustent-goo|SUSTENT]]) — equivalently, **pyloric region to the third part of the duodenum** ([[kastelijn-2023-enduro-protocol|ENDURO]]).
+- **Mechanical obstruction of gastric outflow.** Anatomically the two trials bound it as obstruction extending from the **distal one third of the stomach to the distal duodenum** ([[jeurnink-2010-sustent-goo|SUSTENT]]) — equivalently, **pyloric region to the third part of the duodenum** ([[kastelijn-2023-enduro-protocol|ENDURO]]).
 - **Symptoms scale with severity:** early satiety → nausea → vomiting → complete inability to tolerate oral intake.
 - **Why it must be treated, not observed:** poor clinical condition from vomiting, dehydration, and malnutrition develops quickly. The aim of palliation in malignant GOO is to maintain oral intake and stabilize quality of life.
-- **How often it complicates pancreatic cancer — the two ingested sources differ slightly:** [[jeurnink-2010-sustent-goo|SUSTENT]] states **10–20%** of patients with pancreatic cancer develop obstructive symptoms during the disease course; [[kastelijn-2023-enduro-protocol|ENDURO]] states **15–20%** will develop GOO. Same tier, and the newer figure sits inside the older range — treat the answer as "roughly one in six".
+- **How often it complicates pancreatic cancer — the two sources differ slightly:** [[jeurnink-2010-sustent-goo|SUSTENT]] states **10–20%** of patients with pancreatic cancer develop obstructive symptoms during the disease course; [[kastelijn-2023-enduro-protocol|ENDURO]] states **15–20%** will develop GOO. Same tier, and the newer figure sits inside the older range — treat the answer as "roughly one in six".
 - **Scope note:** this page is the home of the **GOOSS score** and the **malignant-GOO treatment-selection rule**. Benign (peptic) GOO dilation outcomes live on [[peptic-ulcer-disease]]; feeding-route selection lives on [[enteral-access]].
 
 ### GOOSS — Gastric Outlet Obstruction Scoring System
 
-The standardized food-intake instrument used to define eligibility, measure response, and time the decision to escalate. **Both ingested trials enrol only GOOSS 0–1 and define treatment success as reaching GOOSS ≥2.**
+The standardized food-intake instrument used to define eligibility, measure response, and time the decision to escalate. **Both trials enrol only GOOSS 0–1 and define treatment success as reaching GOOSS ≥2.**
 
 | Score | Oral intake |
 |---|---|
@@ -50,7 +50,7 @@ The standardized food-intake instrument used to define eligibility, measure resp
 
 *This page is itself the workup schema; the entries below are the causes to distinguish.*
 
-**Malignant** — the dominant cause in the ingested corpus:
+**Malignant** — the dominant cause in both trials:
 
 | Cause | Note |
 |---|---|
@@ -158,7 +158,7 @@ flowchart TD
 
 **Biliary access is part of the stent decision.** A duodenal stent deployed **across the ampulla of Vater can foreclose [[ercp|ERCP]] access to the bile duct**. Of 4 SUSTENT stent-arm patients who later developed CBD obstruction, only 1 could be managed endoscopically; 2 required percutaneous drainage. **Consider placing a CBD stent up front** if biliary obstruction is anticipated — see [[biliary-stricture]].
 
-**[[endoscopic-ultrasound|EUS]]-guided gastroenterostomy (EUS-GE) — position in this corpus.** A **20-mm lumen-apposing metal stent (LAMS)** placed endoscopically between the stomach and a jejunal loop distal to the obstruction, proposed as combining the speed of stenting with the durability of surgery. **The ingested corpus contains no outcome data comparing EUS-GE with surgery or with enteral stenting.** [[kastelijn-2023-enduro-protocol|ENDURO]] is the randomized trial designed to answer exactly this question and is a **protocol reporting no results**. Until its results paper is ingested, this page states EUS-GE technique only and asserts nothing about its comparative efficacy or safety. Known hazard: EUS-GE is **technically demanding**, and **LAMS misdeployment can cause jejunal perforation and peritonitis**.
+**[[endoscopic-ultrasound|EUS]]-guided gastroenterostomy (EUS-GE).** A **20-mm lumen-apposing metal stent (LAMS)** placed endoscopically between the stomach and a jejunal loop distal to the obstruction, proposed as combining the speed of stenting with the durability of surgery. **Neither source reports outcome data comparing EUS-GE with surgery or with enteral stenting.** [[kastelijn-2023-enduro-protocol|ENDURO]] is the randomized trial designed to answer exactly this question and is a **protocol reporting no results**; this page therefore describes EUS-GE technique only, not its comparative efficacy or safety. Known hazard: EUS-GE is **technically demanding**, and **LAMS misdeployment can cause jejunal perforation and peritonitis**.
 
 ### Procedural specifications
 

@@ -71,9 +71,9 @@ Phase 3 entry ([[aga-2022-ibs-c]]) — the population the conditional recommenda
 
 ## Contraindications
 
-> **Gap — no contraindication for plecanatide is stated anywhere in the ingested corpus.** [[aga-acg-2023-constipation]] prints a mechanical-GI-obstruction contraindication for **[[linaclotide]] only**; neither it nor [[aga-2022-ibs-c]] nor [[acg-2020-ibs]] states one for plecanatide. **Do not extrapolate linaclotide's contraindication onto this page** — FDA labeling would need to be ingested first.
+> **The guidelines state no contraindication for plecanatide.** [[aga-acg-2023-constipation]] prints a mechanical-GI-obstruction contraindication for **[[linaclotide]] only**; neither it nor [[aga-2022-ibs-c]] nor [[acg-2020-ibs]] states one for plecanatide. Do not extrapolate linaclotide's contraindication; consult the FDA label.
 
-> **Gap — pediatric use not in the ingested corpus.** None of the ingested sources addresses use in children ([[aga-acg-2023-constipation]] explicitly excludes pediatric populations). A previously stated contraindication in children <6 y was unsourced and has been removed.
+> **Pediatric use is not addressed** by these guidelines ([[aga-acg-2023-constipation]] explicitly excludes pediatric populations); consult the FDA label.
 
 ## Place in Therapy
 

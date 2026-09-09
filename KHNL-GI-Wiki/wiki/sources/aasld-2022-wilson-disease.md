@@ -286,7 +286,7 @@ Footnotes from the source:
 - **All WD scoring systems require prospective validation, periodic review, and possible revision**; NWI is unreliable at the 10–11 breakpoint and in some pediatric cohorts. The Leipzig D-penicillamine-challenge criterion is acknowledged as insufficiently stringent.
 - **Newborn screening** — WD is suitable for it, but no testing strategy has been established.
 - **Dietary copper restriction has little evidence base** — "few evidence-based data support a copper-restricted diet," and WD cannot be treated by diet alone.
-- **Figures not yet captured on this page.** Figure 2 (diagnostic algorithm for unexplained liver disease, panels A/B by KF-ring status), Figure 3 (algorithm for neurological presentation), Figure 4 (family-screening algorithm), and Figure 5 (matching treatment to disease phase) are decision figures in the PDF. Their content is partly transcribed above, but the images are not embedded — figure extraction tooling (PyMuPDF) is not installed in this environment.
+- **Decision figures in the guideline, not reproduced here:** Figure 2 (diagnostic algorithm for unexplained liver disease, panels A/B by KF-ring status), Figure 3 (algorithm for neurological presentation), Figure 4 (family-screening algorithm), and Figure 5 (matching treatment to disease phase). Their content is partly transcribed above.
 
 ## See Also
 

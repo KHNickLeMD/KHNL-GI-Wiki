@@ -38,10 +38,10 @@ Diagnosis rests on histology with WHO grading (Ki-67 index and mitotic count, pl
 
 ## Relevance to Wiki
 
-- Creates the wiki's first dedicated neuroendocrine entity: [[gastroenteropancreatic-neuroendocrine-tumors]] (disease script).
+- Primary source for [[gastroenteropancreatic-neuroendocrine-tumors]] (disease script).
 - Connects to [[gastric-premalignant-conditions]] and [[atrophic-gastritis]] (type 1 gastric NETs arise on autoimmune atrophic gastritis), [[pancreatic-cancer]] and [[pancreatic-cysts]] (PanNET differential), [[endoscopic-ultrasound]] and [[upper-endoscopy]] (staging/resection), and [[somatostatin-analogs]] (medical therapy).
 
 ## Contradictions / Open Questions
 
-- Algorithm-based guideline (category 2A consensus), not a GRADE systematic review — strength-of-evidence labels differ from ACG/AGA society guidelines elsewhere in the wiki.
+- Algorithm-based guideline (category 2A consensus), not a GRADE systematic review — strength-of-evidence labels differ from those of ACG/AGA society guidelines.
 - Optimal timing of SSTR-PET after SSA dosing, and of SSA dosing around PRRT cycles, remains uncertain; v1.2026 relaxes the prior strict 4-week SSA washout before PRRT.

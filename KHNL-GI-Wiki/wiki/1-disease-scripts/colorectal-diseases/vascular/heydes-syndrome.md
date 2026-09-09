@@ -33,7 +33,7 @@ sources: [acg-2015-small-bowel-bleeding]
 - **Left ventricular assist device (LVAD) patients are likewise at risk** for angioectasia and recurrent bleeding, again secondary to an acquired von Willebrand deficiency syndrome.
 - Pilot studies: **decreased vWF levels predict recurrent bleeding** from small bowel angioectasia.
 
-> **Gap:** the guideline does not describe the shear-stress → HMW-multimer-cleavage cascade; a hematology source would be needed to state the mechanism in more detail. Do not fill from memory.
+> The guideline does not describe the shear-stress → HMW-multimer-cleavage cascade in more detail; see a hematology reference for the mechanism.
 
 ## Differential Diagnosis
 
@@ -47,7 +47,7 @@ sources: [acg-2015-small-bowel-bleeding]
 
 - Bleeding source localized by the standard small bowel bleeding algorithm; see [[small-bowel-bleeding]] for the sequence and diagnostic yields.
 
-> **Gap:** [[acg-2015-small-bowel-bleeding]] does not specify a vWF/multimer assay threshold or an echocardiographic severity cutoff for making the diagnosis. A cardiology or hematology source would be needed to close this.
+> [[acg-2015-small-bowel-bleeding]] does not specify a vWF/multimer assay threshold or an echocardiographic severity cutoff for making the diagnosis.
 
 ## Therapeutics
 

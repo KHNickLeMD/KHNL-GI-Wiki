@@ -25,7 +25,7 @@ sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-
 
 - Gallstones in the **common bile duct (CBD)** — most common cause of **obstructive jaundice** in adults.
 - Precipitant of **[[acute-cholangitis|acute cholangitis]]** and gallstone [[acute-pancreatitis|pancreatitis]].
-- Suspect cholangitis on **any one** of fever, chills, abdominal pain, [[jaundice]], nausea, vomiting, or disturbance of consciousness → grade it, then drain. Diagnostic and TG18 severity criteria: [[acute-cholangitis]]. *("Charcot's triad" is not defined in any ingested source and is deliberately not asserted here — see the provenance flag on [[acute-cholangitis]].)*
+- Suspect cholangitis on **any one** of fever, chills, abdominal pain, [[jaundice]], nausea, vomiting, or disturbance of consciousness → grade it, then drain. Diagnostic and TG18 severity criteria: [[acute-cholangitis]]. *("Charcot's triad" is not defined in the guidelines and is not used here — see [[acute-cholangitis]].)*
 
 ### Establishing the Diagnosis
 - Clinical + biochemical (cholestatic [[abnormal-liver-chemistries|liver chemistries]], ↑total bilirubin) + imaging.
@@ -45,7 +45,7 @@ sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-
 - Bilirubin >4 mg/dL *alone* or a dilated duct *alone* is only **intermediate** risk — it's the **combination** that is high-risk (the combined criterion raised specificity from 74% to 94% and PPV from 64% to 85% in validation).
 - **What changed from ASGE 2010** (readers carry the old version): 2010 counted **total bilirubin 1.8–4.0 mg/dL *plus* duct dilation**, *or* **total bilirubin >4 mg/dL alone**, as high-risk; 2019 requires **both** bilirubin >4 mg/dL **and** duct dilation. The 2010 criteria sent 20–30% of patients to diagnostic ERCP. ([[asge-2019-choledocholithiasis]])
 - **Gallstone [[acute-pancreatitis|pancreatitis]] was removed** as an **intermediate**-risk criterion in the 2019 revision — the panel cited a lack of correlation with persistent CBD stones. (It was an intermediate-risk criterion in 2010.)
-  - ⚠ *Provenance note:* the guideline's own sentence is internally contradictory as printed — "**The exception was** that gallstone pancreatitis **did** correlate with increased risk of choledocholithiasis in these series" — after stating that the very strong/strong predictors *were* associated with increased odds. Read with its "the exception was" framing and with the panel's action (dropping the criterion), the intended sense is **did *not* correlate**; a "not" appears to be missing in the published text. Verified against the raw PDF 2026-09-01. No ingested source resolves it explicitly.
+  - ⚠ *Provenance note:* the guideline's own sentence is internally contradictory as printed — "**The exception was** that gallstone pancreatitis **did** correlate with increased risk of choledocholithiasis in these series" — after stating that the very strong/strong predictors *were* associated with increased odds. Read with its "the exception was" framing and with the panel's action (dropping the criterion), the intended sense is **did *not* correlate**; a "not" appears to be missing in the published text.
 - **EUS and MRCP have comparable high accuracy** for detecting CBD stones — choose by local availability/expertise. ([[asge-2019-choledocholithiasis]])
 
 ## Differential Diagnosis

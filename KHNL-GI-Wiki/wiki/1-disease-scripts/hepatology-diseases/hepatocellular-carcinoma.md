@@ -80,7 +80,7 @@ HCC is the most common primary liver cancer (75–86% of all primary liver cance
 
 *Note: Adjuvant/neoadjuvant systemic therapy after resection or ablation is NOT recommended — see Therapeutics below.*
 
-*Gaps in this section: stage allocation turns on **ECOG performance status** (PS 0 vs 1–2 vs 3–4) and response assessment on **mRECIST / RECIST 1.1**, but no ingested source prints the ECOG grade definitions or the mRECIST response categories. The Oken 1982 ECOG paper and the mRECIST/RECIST criteria papers are not ingested — do not reconstruct either from memory.*
+*Stage allocation turns on **ECOG performance status** (PS 0 vs 1–2 vs 3–4) and response assessment on **mRECIST / RECIST 1.1**; the ECOG grade definitions (Oken 1982) and the mRECIST/RECIST response categories are not printed in [[aasld-2023-hcc]] and are not reproduced here.*
 
 ---
 
@@ -129,7 +129,7 @@ HCC is the most common primary liver cancer (75–86% of all primary liver cance
 5. **AFP ≥20 ng/mL (even without lesion on US)** → Diagnostic contrast-enhanced multiphasic MRI or CT
 6. **Rising AFP on 2 consecutive tests or doubling** → Diagnostic multiphasic MRI or CT
 
-- *Gap: the whole recall pathway turns on the **US (LI-RADS) visualization score A/B/C**, but no ingested source prints the criteria that assign a study to A, B, or C — the ACR LI-RADS US algorithm document is not ingested. Take the score from the radiology report; do not assign it from this page. ([[hcc-surveillance]] and [[li-rads]] carry the same gap.)*
+- *The recall pathway turns on the **US (LI-RADS) visualization score A/B/C**; the criteria assigning A, B, or C are in the ACR LI-RADS US algorithm, not [[aasld-2023-hcc]] — take the score from the radiology report. (See also [[hcc-surveillance]] and [[li-rads]].)*
 
 If no lesion found but AFP significantly elevated without explanation: alternative CT/MRI modality ± chest/pelvic CT. If still negative, consider PET CT. *(Figure 5 footnote 4 — no clear threshold is established for "significantly elevated"; **AFP ≥200 ng/mL or ≥400 ng/mL** may be considered significant depending on clinical context.)*
 
@@ -190,7 +190,7 @@ flowchart TD
 - Data support surgical resection in select multinodular HCC beyond [[#Liver Transplantation for HCC|Milan criteria]] at high-volume centers (meta-analysis of 18 studies: HR 0.56, 95% CI 0.35–0.90 vs. TACE in BCLC B)
 - Multifocal HCC and resection with PVTT: controversial; supported by Asian data for selected patients (Vp1/Vp2 segmental thrombus); perform only at high-volume centers with MDT discussion
   - **Vp nomenclature (extent of portal vein tumor thrombus)** — the resection/TACE/TARE decisions above and below all turn on it. [[aasld-2023-hcc]] labels **Vp1 = subsegmental** and **Vp2 = segmental** portal branch involvement (where meaningful long-term survival after resection has been reported), and **Vp4 = main portal vein** — the "large-vessel / main PVTT" that makes both TACE and TARE unsuitable
-  - *Gap: [[aasld-2023-hcc]] never defines **Vp3**, and the original Liver Cancer Study Group of Japan classification is not ingested — take the Vp level from the radiology/MDT report; do not reconstruct the full scale from memory.*
+  - *[[aasld-2023-hcc]] does not define **Vp3** (Liver Cancer Study Group of Japan classification) — take the Vp level from the radiology/MDT report.*
 
 **Minimally invasive surgery (GS 30, Level 3, Weak):** Laparoscopic/robotic hepatectomy may enhance recovery in selected patients; permits surgery in patients with mild portal hypertension for minor liver resection; major hepatectomy via MIS only at high-volume, experienced centers.
 
@@ -398,7 +398,7 @@ Post-LT patients: NEVER use ICI-based therapy (graft loss/death risk); use soraf
 
 - **RETREAT 0** = **no viable tumor on explant *and* no microvascular invasion *and* AFP <20 ng/mL** → **<3%** 5-year recurrence
 - **RETREAT ≥5** → **75%** 5-year recurrence
-- *Gap: [[aasld-2023-hcc]] names the components and both anchor bands but does not print the **point values** assigned to each variable, so intermediate RETREAT scores (1–4) cannot be computed from this page. The Mehta 2017 derivation paper is not ingested — do not reconstruct the weights from memory.*
+- *[[aasld-2023-hcc]] names the components and both anchor bands but not the **point values** per variable, so intermediate RETREAT scores (1–4) cannot be computed from this page; the weights are in the Mehta 2017 derivation paper.*
 - Other post-LT recurrence scores named by AASLD but not reproduced: **post-MORAL** and the **UCLA prognostic nomogram** (both incorporate tumor differentiation).
 
 ---

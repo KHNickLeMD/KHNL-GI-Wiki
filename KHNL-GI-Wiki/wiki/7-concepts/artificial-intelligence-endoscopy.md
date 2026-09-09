@@ -32,7 +32,7 @@ Framework for AI computer-vision tools in GI endoscopy, focused on [[colonoscopy
 - **Computer-aided quality assessment:** measures/improves withdrawal technique and mucosal exposure (fold examination, withdrawal speed, coverage).
 - Contemporary tools = deep-learning **convolutional neural networks** on live video (earlier detectors were still-image, hand-engineered features). Trained on large expert-labeled image/video sets; generalize well to unseen video. [[aga-2023-ai-colon-polyp]], [[aga-2025-cade-colonoscopy]]
 - Several CADe platforms have FDA marketing approval as medical devices.
-- ⚠ Figure gap: [[aga-2023-ai-colon-polyp]] Figure 1 (CADe alert box on a sessile and a flat polyp) and Figure 2 (CADx histology-prediction display) not embedded — PyMuPDF unavailable for figure capture in this environment.
+- [[aga-2023-ai-colon-polyp]] Figure 1 (CADe alert box on a sessile and a flat polyp) and Figure 2 (CADx histology-prediction display) show what the displays look like; they are not reproduced here.
 
 ## CADe — Computer-Aided Detection
 
@@ -97,7 +97,7 @@ Population: adults undergoing [[colonoscopy]] for screening, surveillance, or po
 - Mori modeling: use of AI raised the proportion requiring intensive [[colonoscopy-surveillance|surveillance]] by ~**35% (US)** and ~**20% (Europe)** — absolute increases 2.9% and 1.3%. [[aga-2023-ai-colon-polyp]]
 - Areia Markov microsimulation (favorable direction): CRC-incidence reduction vs no screening **44.2% without AI → 48.9% with AI** (4.8% incremental); discounted cost per screened person **$3400 → $3343** (−$57); at US population scale ~**7194 CRC cases and 2089 deaths prevented/yr** and ~**$290 million/yr saved** — all contingent on real-world ADR gains materializing. [[aga-2023-ai-colon-polyp]]
 - ⚠ Contradiction to hold in mind: the 2023 cost-effectiveness projection assumes the trial-level ADR gain persists in practice; the 2025 pooled nonrandomized data suggest it may not. AGA 2025 **did not incorporate cost into its model** and did not weigh resource use in the recommendation.
-- **Equity/feasibility:** CADe is **not reimbursed separately**, is purchased by flat fee or subscription, and is available only to systems with the resources/infrastructure — a recommendation *for* CADe could worsen access inequity globally. Environmental impact and data-set representativeness (racial/ethnic bias in model derivation) also flagged.
+- **Equity/feasibility:** CADe is **not reimbursed separately**, is purchased by flat fee or subscription, and is available only to systems with the resources/infrastructure — a recommendation *for* CADe could worsen access inequity globally. Environmental impact and data-set representativeness (racial/ethnic bias in model derivation) are also raised.
 
 ## CADx — Computer-Aided Diagnosis
 

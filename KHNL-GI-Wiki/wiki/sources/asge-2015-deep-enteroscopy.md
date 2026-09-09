@@ -41,4 +41,4 @@ Depth of intubation with DBE: 240–360 cm past ligament of Treitz (antegrade) a
 - Supports [[small-bowel-bleeding]] and [[capsule-endoscopy]] algorithm (VCE-first, DE for positive findings).
 
 ## Contradictions / Open Questions
-- Older (2015) source; obscure GI bleeding (OGIB) terminology has since been refined to small-bowel bleeding by newer ASGE/ACG documents already ingested. No conflicts — technique data is complementary.
+- Older (2015) source; obscure GI bleeding (OGIB) terminology has since been refined to small-bowel bleeding by newer ASGE/ACG documents. No conflicts — technique data is complementary.

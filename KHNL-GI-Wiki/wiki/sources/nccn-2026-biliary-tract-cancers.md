@@ -16,7 +16,7 @@ sources: []
 - **DOI:** none (NCCN web publication)
 - **Type:** Guideline (algorithm-based; NCCN categories of evidence — all recommendations category 2A unless otherwise indicated)
 
-> **Note on content & licensing.** NCCN content is copyrighted and its End-User License Agreement explicitly prohibits redistribution and use of the content with AI tools. This source page therefore **summarizes and cites** the guideline rather than reproducing its proprietary algorithm pages verbatim. The wiki entity pages built from it are written in original language with NCCN cited as the source. Consult the original NCCN algorithm pages (GALL-1 … GALL-6, INTRA-1 …, EXTRA-1 …, and Principles BIL-A … BIL-E) for the authoritative, citable pathways.
+> **Note on content & licensing.** NCCN content is copyrighted and its End-User License Agreement explicitly prohibits redistribution and use of the content with AI tools. This source page therefore **summarizes and cites** the guideline rather than reproducing its proprietary algorithm pages verbatim. The disease pages built from it are written in original language with NCCN cited as the source. Consult the original NCCN algorithm pages (GALL-1 … GALL-6, INTRA-1 …, EXTRA-1 …, and Principles BIL-A … BIL-E) for the authoritative, citable pathways.
 
 ---
 
@@ -39,7 +39,7 @@ The defining feature of biliary tract cancer management in this guideline is **m
 ## Relevance to Wiki
 
 - Updates [[cholangiocarcinoma]] (disease script) — adds the NCCN molecular-biomarker framework (FGFR2, IDH1, HER2, BRAF, NTRK, RET, NRG1, MSI-H/dMMR, TMB-H; RNA-based MGPT preferred), the gem/cis + checkpoint-inhibitor first-line backbone, adjuvant capecitabine (BILCAP), and the iCCA liver-transplant-exception pathway. **Additive only** — the page's ASGE-based tissue-acquisition content stays primary for the diagnostic-stricture workup; NCCN layers in oncologic staging and systemic therapy.
-- Creates a stub for [[gallbladder-cancer]] (currently part of the biliary differential but without its own page).
+- Primary source for [[gallbladder-cancer]].
 - Touches [[biliary-stricture]] (presentation/DDx), [[liver-transplantation]] (iCCA and perihilar transplant), [[ercp]]/[[endoscopic-ultrasound]] (tissue acquisition), [[primary-sclerosing-cholangitis]] (CCA risk), and [[hepatocellular-carcinoma]] (mixed HCC-iCCA, iCCA differential).
 
 ## Contradictions / Open Questions

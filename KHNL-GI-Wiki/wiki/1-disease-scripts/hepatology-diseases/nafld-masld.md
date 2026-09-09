@@ -173,7 +173,7 @@ See [[noninvasive-liver-disease-assessment]] for the cross-disease NILDA framewo
 **Liver biopsy:**
 
 - Definitive for diagnosis and staging. The two most commonly used systems in steatotic liver disease are **Brunt** (4 grades, 0–3; 5 stages, 0–4) and the **NASH CRN NAFLD Activity Score (NAS)**. Both grade **steatosis by the percentage of steatotic hepatocytes**: normal **<5%** · mild **5%–33%** · moderate **34%–66%** · severe **>66%** [[aasld-2024-nilda-blood]]
-  - *Gap: the NAS **component point values** (steatosis/lobular inflammation/ballooning sub-scores summing to 0–8) are not reproduced in any ingested source — [[aasld-2023-nafld]] uses the "NAS ≥4" trial-entry threshold without printing the components. Do not reconstruct them from memory.*
+  - [[aasld-2023-nafld]] uses the "NAS ≥4" trial-entry threshold without printing the NAS **component point values** (steatosis/lobular inflammation/ballooning sub-scores summing to 0–8); score from the original NASH CRN instrument (Kleiner 2005).
 - Not routinely required for pharmacotherapy candidacy in most patients
 - **When to biopsy anyway** — reserve it for NITs that are **indeterminate or discordant**, NITs that **conflict** with other clinical/laboratory/radiologic findings, or **suspected alternative etiology**. Applying the sequential NIT pair instead of a single test (see [[noninvasive-liver-disease-assessment]]) cut biopsy need from 33% → 19%. [[aga-2023-nafld-noninvasive-biomarkers]]
 - If biopsy performed within prior 6–12 months without substantial interval weight change, disease stage can be used to inform pharmacotherapy decisions; obtaining a baseline NIT before initiating therapy remains beneficial for longitudinal monitoring [[aasld-2025-semaglutide-mash]]

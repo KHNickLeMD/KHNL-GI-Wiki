@@ -128,7 +128,7 @@ US 5-year GC survival is a dismal 32% (<25% diagnosed early); contrast Japan/Sou
 - **Intervals "not well defined"** is a recurring caveat: screening intervals when index EGD is normal but risk factors present (BPA 8); surveillance <3y for multiple risk factors / extensive severe GIM (BPA 9); post-resection surveillance (BPA 12); type I carcinoid surveillance (BPA 13) — all stated as not well defined.
 - **AI tools** for early gastric neoplasia detection: promising but data too preliminary for routine use (BPA 6).
 - **Biennial EGD** (South Korea/Japan population strategy) is being re-evaluated in the context of declining H pylori prevalence; a risk-stratified approach is now favored over uniform biennial screening.
-- **Convergence vs prior AGA 2020 GIM stance** on surveillance (see Relevance) — the wiki's GIM/GPMC pages should note this CPU moves AGA toward endorsing risk-stratified surveillance.
+- **Convergence vs prior AGA 2020 GIM stance** on surveillance (see Relevance) — this CPU moves AGA toward endorsing risk-stratified surveillance of GIM/GPMC.
 
 ## See Also
 

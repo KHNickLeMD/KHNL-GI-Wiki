@@ -152,7 +152,7 @@ LS is classified by the causative gene. Share of LS families and the identifying
 - **3-question CRC risk assessment tool** — a quick initial screen for busy practice; "yes" to all 3 identified 95% of germline-mutation carriers (cumulative sensitivity 77%).
 - Caveat: **specificity of both MSI and IHC falls with increasing age** because somatic MLH1 hypermethylation becomes more prevalent — above age 70, reflex BRAF testing on MLH1 loss is what separates sporadic from germline.
 
-> **Gap:** no ingested source prints the PREMM1,2,6 regression coefficients / point weights, so the score cannot be hand-calculated from this page — use the online calculator. The Kastrinos 2011 model paper would be needed.
+> The PREMM1,2,6 regression coefficients / point weights are not printed in the guideline (they are in the Kastrinos 2011 model paper), so the score cannot be hand-calculated from this page — use the online calculator.
 
 ---
 

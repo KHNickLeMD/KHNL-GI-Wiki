@@ -42,7 +42,7 @@ sources: []
 - **Type:** guideline — USMSTF consensus statement / clinical practice guideline, **GRADE**-rated
 - **Evidence base:** PubMed search 2000–2018 with back searches. The authors state that the rarity of these syndromes and the **absence of controlled prospective trials** leave *all* interventional recommendations at **"low quality of evidence" at best**.
 
-**Recommendation format — read this before citing a "BPA number".** This document is **not** an AGA Clinical Practice Update and contains **no "Best Practice Advice" statements**. It issues **14 GRADE-rated Question/Recommendation pairs**, collected in the source's **Table 1 ("Questions and Recommendations of Best Practice")** and repeated as boxed statements in the body. **The source does not number them.** The labels **R1–R14** below are **wiki-assigned, in source reading order**, purely so wiki pages can cross-reference a specific statement — they are not the guideline's own numbering and must never be presented as such.
+**Recommendation format — read this before citing a "BPA number".** This document is **not** an AGA Clinical Practice Update and contains **no "Best Practice Advice" statements**. It issues **14 GRADE-rated Question/Recommendation pairs**, collected in the source's **Table 1 ("Questions and Recommendations of Best Practice")** and repeated as boxed statements in the body. **The source does not number them.** The labels **R1–R14** below are assigned here **in source reading order**, purely so other pages can cross-reference a specific statement — they are not the guideline's own numbering.
 
 ---
 
@@ -60,7 +60,7 @@ The statement also declines to recommend in two places, which matters as much as
 
 ## Recommendations
 
-All 14 statements below are reproduced **verbatim** from the source's Table 1, with the GRADE strength and evidence quality exactly as printed. R*n* labels are wiki-assigned (see *Bibliographic Info*).
+All 14 statements below are reproduced **verbatim** from the source's Table 1, with the GRADE strength and evidence quality exactly as printed. R*n* labels are assigned here, not by the source (see *Bibliographic Info*).
 
 ### Cross-Syndrome
 
@@ -169,7 +169,7 @@ Reproduced from the source (p. 2072). Cells are **age of initiation — interval
 - <sup>e</sup> Based on clinical judgment, early initiation age may be considered, such as 10 years younger than the earliest age of onset in the family.
 - <sup>f</sup> ACG 2015 Guidelines recommend transvaginal ultrasound as part of surveillance beginning at age 25 years.
 
-> **Provenance note (why this table is here).** The **NCCN 2020** and **ESPGHAN 2019** columns are **comparison columns printed inside this USMSTF document** — the task force is *reporting* what those other bodies advise, alongside its own. Neither the NCCN hereditary-syndrome guideline nor the ESPGHAN guideline is itself ingested in `raw/`. Any wiki page reproducing an NCCN or ESPGHAN number must therefore cite **[[aga-2022-hamartomatous-polyposis]]** as reporting it, and must not be read as a citation to NCCN or ESPGHAN directly.
+> **Provenance note (why this table is here).** The **NCCN 2020** and **ESPGHAN 2019** columns are **comparison columns printed inside this USMSTF document** — the task force is *reporting* what those other bodies advise, alongside its own. Any NCCN or ESPGHAN number taken from this table is cited to **[[aga-2022-hamartomatous-polyposis]]** as reporting it, not to NCCN or ESPGHAN directly.
 
 ---
 
@@ -300,10 +300,10 @@ Wiki pages built on or citing this source:
 
 - **PHTS colonoscopy — the guideline names its own disagreement.** [[acg-2015-hereditary-gi-cancer|ACG 2015]] recommends starting at **age 15**; this statement starts at **35** with intervals ≤5 y, stating "Recent evidence suggesting later onset of significant colon cancer risk informed our recommendations." Same tier, newer publication → the 2022 position governs [[cowden-syndrome]]. Note it is a **later start with a longer maximum interval**, i.e. the older ACG schedule is the more intensive of the two.
 - **PJS pancreatic surveillance start age — three positions.** CAPS consortium **q1–2 y from 40**; NCCN **30–35** (as reported in this document); USMSTF **annual from 35**. [[asge-2022-pancreatic-cancer-screening|ASGE 2022]] agrees on 35 but adds the qualifier this statement omits — *or 10 years earlier than the youngest affected relative*.
-- **R14 vs the body text disagree on the early-start trigger.** Table 1/R14 says start "**10 years younger than age of any relative with colorectal cancer**"; the narrative says start 10 years before the earliest known family colon cancer **only "if a close relative has had colon cancer before age 40 years."** The graded statement (R14) has no age-40 gate. Wiki pages should carry both.
+- **R14 vs the body text disagree on the early-start trigger.** Table 1/R14 says start "**10 years younger than age of any relative with colorectal cancer**"; the narrative says start 10 years before the earliest known family colon cancer **only "if a close relative has had colon cancer before age 40 years."** The graded statement (R14) has no age-40 gate; both versions are given on the syndrome pages.
 - **The USMSTF declines to recommend on fasting glucose / HbA1c** with PJS pancreatic surveillance, pending definitive data — a non-recommendation, and must not be rendered as a recommendation either for or against.
-- **The clinical diagnostic criteria for Cowden's syndrome are a corpus gap.** This statement points to the NCCN website and reproduces nothing. **No NCCN hereditary-syndrome guideline is ingested in `raw/`** (`raw/GI Guidelines/NCCN/` holds only the 2026 organ-cancer guidelines). The weighted major/minor criteria cannot be sourced from the wiki's corpus and must not be supplied from memory.
-- **Table 4's NCCN 2020 and ESPGHAN 2019 columns are second-hand.** They are this document reporting other bodies' schedules; the primary guidelines are not ingested. Cite them to this source, never to NCCN/ESPGHAN.
+- **The clinical diagnostic criteria for Cowden's syndrome are not reproduced.** This statement points to the NCCN website; the weighted major/minor criteria are in the NCCN Genetic/Familial High-Risk Assessment guideline, not here.
+- **Table 4's NCCN 2020 and ESPGHAN 2019 columns are second-hand.** They are this document reporting other bodies' schedules; cite them to this source, not to NCCN/ESPGHAN.
 - **Table 4 header typo:** the USMSTF column is labelled "USMSTF 2020" in the published table; the document is the 2022 statement.
 - **General-population denominators differ from ACG 2015.** Table 3 uses SEER 1975–2017 (colorectal 4.3%, breast 12.9%, pancreas 1.7%, lung 6.3%); [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 7 uses 4.8%, 12.4%, 1.5%, 6.9%. The *syndrome* risks agree; only the baselines differ.
 - **JPS gastric cancer risk with *BMPR1A* is unknown** — surveillance is done at *SMAD4* intervals as a precaution, explicitly "pending new evidence."

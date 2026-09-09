@@ -7,7 +7,7 @@ updated: 2026-09-07
 sources: [acg-2025-uc, acg-2025-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, acg-2025-ibd-preventive-care, aga-2024-ibd-malignancy, aga-2026-inpatient-ibd]
 ---
 
-Oral small-molecule inhibitors of the **Janus kinase (JAK)–STAT pathway**, used as advanced therapy in [[inflammatory-bowel-disease|IBD]]. Three agents appear in the ingested corpus: **tofacitinib** (pan-JAK, [[ulcerative-colitis|UC]] only), **upadacitinib** (JAK-1 selective, UC **and** [[crohns-disease|CD]]), and **filgotinib** (JAK-1 selective, UC, **Europe only — not available in the United States**). Upadacitinib carries the **highest evidence grade of any UC induction therapy except infliximab** (Strong / High), yet the class is the only one in IBD whose use is *regulatorily gated*: the US FDA label reserves all JAK inhibitors for patients who have failed or cannot tolerate a TNF antagonist. That gate comes from **ORAL Surveillance** — a rheumatoid-arthritis trial — and the criteria that define who it actually targets are the operative content of this page.
+Oral small-molecule inhibitors of the **Janus kinase (JAK)–STAT pathway**, used as advanced therapy in [[inflammatory-bowel-disease|IBD]]. Three agents are covered by the IBD guidelines: **tofacitinib** (pan-JAK, [[ulcerative-colitis|UC]] only), **upadacitinib** (JAK-1 selective, UC **and** [[crohns-disease|CD]]), and **filgotinib** (JAK-1 selective, UC, **Europe only — not available in the United States**). Upadacitinib carries the **highest evidence grade of any UC induction therapy except infliximab** (Strong / High), yet the class is the only one in IBD whose use is *regulatorily gated*: the US FDA label reserves all JAK inhibitors for patients who have failed or cannot tolerate a TNF antagonist. That gate comes from **ORAL Surveillance** — a rheumatoid-arthritis trial — and the criteria that define who it actually targets are the operative content of this page.
 
 ## Contents
 - [[#Class Structure and Mechanism]]
@@ -242,7 +242,7 @@ Everything restricting this class traces to one trial in **rheumatoid arthritis*
 
 ### The subanalysis that narrows the gate
 
-**Stratified by age and smoking status, patients *younger than 65 years who had never smoked cigarettes* had NO increased risk of MACE, malignancy, myocardial infarction, or death on tofacitinib relative to TNF inhibitors** ([[acg-2025-crohns]]). This is the single most useful line in the corpus for an individual risk conversation: the signal in ORAL Surveillance is concentrated in the **older and/or ever-smoking** patient.
+**Stratified by age and smoking status, patients *younger than 65 years who had never smoked cigarettes* had NO increased risk of MACE, malignancy, myocardial infarction, or death on tofacitinib relative to TNF inhibitors** ([[acg-2025-crohns]]). This is the single most useful line for an individual risk conversation: the signal in ORAL Surveillance is concentrated in the **older and/or ever-smoking** patient.
 
 **Generalizability caveats ACG itself raises** ([[acg-2025-crohns]], [[acg-2025-uc]]):
 - The population was **RA on methotrexate**, more than half also on systemic corticosteroids — not IBD monotherapy.
@@ -290,7 +290,7 @@ Everything restricting this class traces to one trial in **rheumatoid arthritis*
 - **High doses combined with corticosteroids, or immediately after infliximab, in ASUC** — over-immunosuppression and opportunistic infection ([[acg-2025-uc]]).
 - **Ileal-predominant CD** — no significant efficacy signal for upadacitinib vs placebo in ileal disease in the phase 3 program ([[aga-2025-crohns-pharm]]).
 - **Higher infection risk generally** — prefer [[vedolizumab]] or an [[il-23-and-il-12-23-inhibitors|IL-23]] strategy ([[acg-2025-uc]] Key concept 46).
-- *No ingested source states an absolute contraindication for this class.*
+- *None of the IBD guidelines states an absolute contraindication for this class.*
 
 ---
 
@@ -306,12 +306,12 @@ Everything restricting this class traces to one trial in **rheumatoid arthritis*
 
 ## Gaps
 
-- *No ingested source gives a **CBC or LFT monitoring interval** specific to JAK inhibitors — [[aga-2025-crohns-pharm]] attaches CBC/LFT to **immunomodulators** and **lipids** to JAK inhibitors. Do not transfer one to the other.*
-- *No ingested source gives a **numeric lipid threshold** at which to act, a **statin rule**, or a repeat-lipid **interval** — only "document before, repeat after."*
-- *No ingested source gives a **dose-escalation or re-induction protocol for secondary loss of response** on a JAK inhibitor, nor a **primary-nonresponse assessment interval** beyond the generic 6–12 weeks.*
-- *No ingested source states a **washout or sequencing interval** when switching from or to a JAK inhibitor, nor any data on **combining** a small molecule with a biologic (explicitly "no data" — [[aga-2024-ibd-malignancy]]).*
-- *No ingested source addresses this class in **[[pouchitis]]** beyond a 2-cohort tofacitinib series (n = 13) and extrapolation from UC guidelines, nor in **postoperative CD recurrence prophylaxis**, **paediatric IBD**, or **renal/hepatic dose adjustment**.*
-- *No **ASUC dose** for either agent is stated by any ingested guideline — every reported regimen (tofacitinib 10 mg TID, upadacitinib 30 mg BID) is explicitly off-label.*
+- *The IBD guidelines give no **CBC or LFT monitoring interval** specific to JAK inhibitors — [[aga-2025-crohns-pharm]] attaches CBC/LFT to **immunomodulators** and **lipids** to JAK inhibitors. Do not transfer one to the other.*
+- *The IBD guidelines give no **numeric lipid threshold** at which to act, a **statin rule**, or a repeat-lipid **interval** — only "document before, repeat after."*
+- *The IBD guidelines give no **dose-escalation or re-induction protocol for secondary loss of response** on a JAK inhibitor, nor a **primary-nonresponse assessment interval** beyond the generic 6–12 weeks.*
+- *The IBD guidelines state no **washout or sequencing interval** when switching from or to a JAK inhibitor, nor any data on **combining** a small molecule with a biologic (explicitly "no data" — [[aga-2024-ibd-malignancy]]).*
+- *The guidelines do not address this class in **[[pouchitis]]** beyond a 2-cohort tofacitinib series (n = 13) and extrapolation from UC guidelines, nor in **postoperative CD recurrence prophylaxis**, **paediatric IBD**, or **renal/hepatic dose adjustment**.*
+- *No **ASUC dose** for either agent is stated by any IBD guideline — every reported regimen (tofacitinib 10 mg TID, upadacitinib 30 mg BID) is explicitly off-label.*
 - *No **individual agent pages** exist — tofacitinib, upadacitinib, and filgotinib are covered only at class level here.*
 
 ---

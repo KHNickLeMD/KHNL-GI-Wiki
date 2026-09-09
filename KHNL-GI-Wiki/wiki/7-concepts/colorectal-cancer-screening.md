@@ -193,7 +193,7 @@ What [[acg-2021-crc-screening]] itself recommends (the fuller metric set lives o
 - ⚠ **Dropping the dose does not rescue the bleeding risk** — *"the risk did not change substantially when aspirin dose was 100 mg daily or less."* ASCEND (n = 15,480): **100 mg daily raised any major bleeding, RR 1.29 (1.09–1.52)** over 7 years. Quantifies the penalty carried on [[peptic-ulcer-disease]] and [[upper-gi-bleeding]].
 - **The latency is the decision.** CRC incidence: **no difference at 0–12 y** (RR 0.99; 0.85–1.15, n = 69,535) but a **40% reduction at 10–19 y** (RR 0.60; 0.47–0.76, n = 47,464). CRC mortality: **33% lower 20-year cumulative mortality** (RR 0.67; 0.52–0.86) — protection present **only at 10–20 y** (HR 0.51; 0.35–0.74), **not before** (HR 0.79; 0.49–1.26). A patient who will not live through the latency window gets the bleeding risk without the benefit.
 - **BPA 2 ("should consider"):** in individuals **with a history of CRC**, consider aspirin to prevent recurrent colorectal neoplasia — see [[colorectal-cancer]].
-- ⚠ **No chemopreventive dose is stated.** BPA 1 says "low-dose" without a milligram figure; the incidence effect "does not seem to differ by dose"; adenoma recurrence fell at **81–160 mg/d** but **not at ≥300 mg/d**; the post-CRC trial used **325 mg**. **Do not supply a dose.**
+- ⚠ **No chemopreventive dose is stated.** BPA 1 says "low-dose" without a milligram figure; the incidence effect "does not seem to differ by dose"; adenoma recurrence fell at **81–160 mg/d** but **not at ≥300 mg/d**; the post-CRC trial used **325 mg**.
 - ⚠ **Where ACG and AGA differ:** ACG bounds the eligible group at ages **50–69**; AGA sets only an **upper** bound (<70) paired with a **≥10-year life-expectancy** requirement. Both are 2021 tier-1 and agree on the CVD-risk and bleeding criteria; the practical difference is the lower age limit.
 
 ### The five "should not use" agents
@@ -214,7 +214,7 @@ What [[acg-2021-crc-screening]] itself recommends (the fuller metric set lives o
 - **BPA 5:** in individuals with **CRC and type 2 diabetes**, **may consider** metformin to reduce mortality — 17 observational studies (n = 269,417): cancer-specific survival **HR 0.75 (0.59–0.94)**, overall survival **HR 0.69 (0.61–0.77)**. ⚠ The CPU itself cautions these are *"susceptible to confounding by diabetes severity and time-related biases."*
 - The only randomized signal in **nondiabetic** patients is small: 2016 Japanese RCT (n = 151, prior adenoma/polyp), **metformin 250 mg vs placebo × 1 year → 40% lower adenoma recurrence** (RR 0.60; 0.39–0.92); **11% mild adverse events, none serious.** Hence "may," and hence the restriction to patients who already have an independent indication.
 
-> **Open question, not an ingested-guideline claim.** The USPSTF's 2022 statement against aspirin for primary CVD prevention in most adults ≥60 postdates [[acg-2021-crc-screening]] and would cut against the ≥10%-10-y-CVD-risk premise of Rec 17. That USPSTF statement is **not in `raw/`**; it is flagged here (and on the source page) as an open question, not asserted as guidance.
+> **Open question.** The USPSTF's 2022 statement against aspirin for primary CVD prevention in most adults ≥60 postdates [[acg-2021-crc-screening]] and would cut against the ≥10%-10-y-CVD-risk premise of Rec 17; it is noted here as an open question, not as guidance.
 
 > **Also time-limited:** the Australian **D-Health Trial** (>21,000 randomized to 5 years of cholecalciferol) was pending at AGA 2021 publication ("not expected until at least 2025") and would bear on BPA 6.
 
@@ -231,7 +231,7 @@ What [[acg-2021-crc-screening]] itself recommends (the fuller metric set lives o
 | Aspirin chemoprevention | **Suggest** low-dose aspirin, ages 50–69, ≥10% 10-y CVD risk, not bleeding-prone, willing ×≥10 y — Conditional / Low (Rec 17); **never as a substitute for screening** — Strong / Low (Rec 18) | Not addressed |
 | Septin-9 | **Suggest against** — Conditional / Very low (Rec 6) | Not addressed |
 
-> **Corpus gap.** The American Cancer Society 2018 guideline and the USPSTF CRC-screening statement are **not ingested**; only what [[acg-2021-crc-screening]] reports about them is stated on this page (ACS 2018 = a *qualified* recommendation to start at 45; USPSTF = individualize 76–85, do not screen ≥86). Ingest those documents before asserting their grades directly.
+> The American Cancer Society 2018 guideline and the USPSTF CRC-screening statement are stated here only as [[acg-2021-crc-screening]] reports them (ACS 2018 = a *qualified* recommendation to start at 45; USPSTF = individualize 76–85, do not screen ≥86); consult those documents directly for their grades.
 
 ---
 

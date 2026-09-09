@@ -92,7 +92,6 @@ Different polyp types **coexist** in 2%–3% of patients (FGP is the most common
 - **"Light-blue crest" sign** — moderate reliability (κ 0.49) but **87% specific** for GIM. **Variable vascular density** is the best feature for H. pylori-related gastritis (accuracy 70%).
 - **Vessel-plus-surface classification** for early gastric cancer: irregular microvascular and/or microsurface pattern **plus a demarcation line**. Magnifying BLI vs NBI — demarcation line sensitivity 96.1% vs 98.1%; irregular microvessels 95.1% vs 96.2%; irregular microsurface seen in 97.1% (BLI) vs 78.8% (NBI).
 - **Kimura–Takemoto** (atrophy) and **EGGIM** (GIM) classifications exist but are not routinely applied in the US; interobserver reliability is moderate and experience-dependent. Until IEE skills are widespread, **meticulous inspection plus random and targeted biopsies per established protocols remain essential**. AI-assisted IEE is emerging ([[artificial-intelligence-endoscopy]]).
-- ⚠ **Figure gap:** the source's Figure 1 (representative HD-WLE/IEE + histology images of each polyp type) has **not** been captured — figure extraction tooling (PyMuPDF/`pdftoppm`) is unavailable in this environment. Endoscopic-appearance images are required by the Style Guide for a look-and-diagnose entity; flagged for a pass with working tooling.
 
 ## Therapeutics
 

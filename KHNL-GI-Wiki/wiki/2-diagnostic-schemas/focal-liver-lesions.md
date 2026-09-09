@@ -91,7 +91,7 @@ sources: [acg-2024-focal-liver-lesions]
 - **Interval growth ≥20%** (extrapolated from RECIST) during adenoma surveillance → consider resection or definitive treatment.
 - **Adenoma ≥5 cm, growth, or exophytic location** — the established risk factors for rupture; hemorrhage occurs in up to 15% and malignant transformation in up to 5% of adenomas overall.
 - **Male sex with a hepatocellular adenoma** — 10× the malignant-transformation risk of women.
-- **Suspected AFP role:** if malignant transformation is suspected, check AFP, but it has **low sensitivity** and **[[acg-2024-focal-liver-lesions|ACG 2024]] states no diagnostic cutoff** — a normal AFP does not exclude transformation. *(Gap: no numeric AFP threshold exists in any ingested source for this indication.)*
+- **Suspected AFP role:** if malignant transformation is suspected, check AFP, but it has **low sensitivity** and **[[acg-2024-focal-liver-lesions|ACG 2024]] states no diagnostic cutoff** — a normal AFP does not exclude transformation. *(No guideline gives a numeric AFP threshold for this indication.)*
 - **Cyst with septations, mural nodularity, calcification, heterogeneity, or daughter cysts** → not a simple cyst; cross-sectional imaging required *(Rec 13)*.
 
 ---

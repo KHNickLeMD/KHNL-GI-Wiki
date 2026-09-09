@@ -18,7 +18,7 @@ sources: []
 - **DOI:** [10.1002/jhbp.509](https://doi.org/10.1002/jhbp.509)
 - **Type:** guideline (international consensus clinical practice guideline; third revision of TG07/TG13)
 
-> ⚠ **Ingested version:** the file in `raw/` is the peer-reviewed **accepted manuscript** (Edinburgh Research Explorer deposit), not the typeset version of record. **Tables 1–5 and Figures 1–4 are not included in it** — see *Contradictions / Open Questions*.
+> ⚠ **Version note:** this summary is drawn from the peer-reviewed **accepted manuscript** (Edinburgh Research Explorer deposit), not the typeset version of record. **Tables 1–5 and Figures 1–4 are not included in it** — see *Contradictions / Open Questions*.
 
 ---
 
@@ -48,7 +48,7 @@ The grading criteria — the decision input the whole flowchart turns on:
 
 *Grade II is a "2-of-5" rule: one criterion alone does not make cholangitis moderate. Grade III is a "any-1" rule.*
 
-⚠ Two thresholds in this table are transcribed from the accepted manuscript's running text, since Table 3 itself is absent from the ingested file — see *Contradictions / Open Questions* before relying on the **albumin** and **platelet** cutoffs.
+⚠ Two thresholds in this table are transcribed from the accepted manuscript's running text, since Table 3 itself is absent from the accepted manuscript — see *Contradictions / Open Questions* before relying on the **albumin** and **platelet** cutoffs.
 
 ### Initial response to suspected acute biliary infection
 
@@ -104,17 +104,17 @@ The grading criteria — the decision input the whole flowchart turns on:
 - **[[acute-cholangitis]]** — created from this source; TG18 is the **home page** for the severity grading criteria, the initial-response sequence, and the grade-driven management flowchart.
 - **[[choledocholithiasis]]** — the dominant etiology; TG18 supplies the severity grading that the drainage-timing recommendations there are conditioned on, and the single-stage EST + choledocholithotomy option.
 - **[[ercp]]** — grade-specific drainage timing and the endoscopic-over-percutaneous route.
-- **[[acute-cholecystitis]]** — shares the TG18 initial-response pathway (diagnosis, initial treatment, general-status evaluation); its own flowchart and severity criteria are in a separate TG18 article **not yet ingested**.
+- **[[acute-cholecystitis]]** — shares the TG18 initial-response pathway (diagnosis, initial treatment, general-status evaluation); its own flowchart and severity criteria are in a separate TG18 article (Yokoe et al.).
 - **[[aloysius-2026-ercp-timing-septic-shock-cholangitis]]** and **[[jagtap-2026-urgent-vs-early-ercp-cholangitis]]** — both stratify by Tokyo grade; this source supplies the grading definitions those studies presuppose.
 
 ---
 
 ## Contradictions / Open Questions
 
-- **Tables and figures are missing from the ingested file.** The `raw/` copy is the accepted manuscript; **Table 1** (TG13/18 diagnostic criteria for acute cholangitis), **Table 2** (diagnostic criteria for acute cholecystitis), **Table 3** (severity assessment criteria for cholangitis), **Table 4** (severity criteria for cholecystitis), **Table 5** (transfer criteria), and **Figures 1–2** (initial-response and cholangitis-management flowcharts) are not present. The severity criteria above are transcribed from the article's **running text**, which states them in full; the **diagnostic criteria (Table 1) are not recoverable** from this file at all. Ingesting the published version of record, or the companion TG18 paper on *Diagnostic criteria and severity grading of acute cholangitis* (Kiriyama et al., reference [4–6]), would close this.
+- **Tables and figures are missing from the accepted manuscript.** In that version, **Table 1** (TG13/18 diagnostic criteria for acute cholangitis), **Table 2** (diagnostic criteria for acute cholecystitis), **Table 3** (severity assessment criteria for cholangitis), **Table 4** (severity criteria for cholecystitis), **Table 5** (transfer criteria), and **Figures 1–2** (initial-response and cholangitis-management flowcharts) are not present. The severity criteria above are transcribed from the article's **running text**, which states them in full; the **diagnostic criteria (Table 1) are not given** in that text at all. See the published version of record, or the companion TG18 paper on *Diagnostic criteria and severity grading of acute cholangitis* (Kiriyama et al., reference [4–6]).
 - **Two thresholds are internally ambiguous in the accepted manuscript's text and should be verified against the published Table 3 before use:**
-  - **Albumin** — printed as "albumin <(lower limit of normal value × 0.73 g/dL)". The parenthesis placement and the trailing "3" are inconsistent with a multiplier; recorded here as **< (lower limit of normal × 0.7) g/dL**, flagged as uncertain.
-  - **Platelet count** — printed as "platelet count <10⁴/μL", i.e. <10,000/μL, which is markedly lower than the threshold usually applied for a coagulation-dysfunction criterion. Recorded verbatim, flagged as likely a typesetting loss (e.g. of a "10×" prefix). **Do not restate this cutoff as settled** until the published table is ingested.
-- **Timing of drainage in moderate cholangitis — TG18 vs the 2026 RCT.** TG18's supporting data favour drainage **within 24 h** for moderate cholangitis (mortality 1.7% vs 3.4%), based on observational multicenter data. [[jagtap-2026-urgent-vs-early-ercp-cholangitis]] (RCT, 2026) found **no** mortality or organ-failure advantage for <24 h over 24–48 h in mild-to-moderate cholangitis and roughly **double** the post-ERCP adverse events. Per the wiki's source-priority rule, the guideline tier outranks the RCT tier — but TG18 is **2018** and its own evidence for this point is observational and Level D, while [[asge-2021-cholangitis]] is the **newer guideline** and sets the operative window at **within 48 h**. The wiki follows ASGE 2021 (newer, same tier) with the Jagtap refinement; TG18's 24-h observational signal is recorded here as the contrary evidence.
+  - **Albumin** — printed as "albumin <(lower limit of normal value × 0.73 g/dL)". The parenthesis placement and the trailing "3" are inconsistent with a multiplier; recorded here as **< (lower limit of normal × 0.7) g/dL**, uncertain.
+  - **Platelet count** — printed as "platelet count <10⁴/μL", i.e. <10,000/μL, which is markedly lower than the threshold usually applied for a coagulation-dysfunction criterion. Recorded verbatim; likely a typesetting loss (e.g. of a "10×" prefix). **Treat this cutoff as unsettled** and verify against the published table.
+- **Timing of drainage in moderate cholangitis — TG18 vs the 2026 RCT.** TG18's supporting data favour drainage **within 24 h** for moderate cholangitis (mortality 1.7% vs 3.4%), based on observational multicenter data. [[jagtap-2026-urgent-vs-early-ercp-cholangitis]] (RCT, 2026) found **no** mortality or organ-failure advantage for <24 h over 24–48 h in mild-to-moderate cholangitis and roughly **double** the post-ERCP adverse events. TG18 is **2018** and its own evidence for this point is observational and Level D, while [[asge-2021-cholangitis]] is the **newer guideline** and sets the operative window at **within 48 h**. This page follows ASGE 2021 (newer, same tier) with the Jagtap refinement; TG18's 24-h observational signal is recorded here as the contrary evidence.
 - **Single-stage vs two-stage stone clearance.** TG18 amends the flowchart to allow single-stage EST + choledocholithotomy in moderate cholangitis on pragmatic grounds while simultaneously reporting an RCT in which single-stage caused significantly more post-ERCP complications (17.1% vs 0%). The guideline itself flags this as insufficient evidence requiring caution — an internal tension the reader should carry.
 - **rTM (recombinant human soluble thrombomodulin)** is a Level D, future-research recommendation resting on two small case series with no mortality benefit; it is not available in many practice settings. Recorded, not promoted to the entity page's main therapeutic sequence.

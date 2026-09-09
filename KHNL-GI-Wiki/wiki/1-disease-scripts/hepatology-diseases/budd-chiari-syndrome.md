@@ -37,7 +37,7 @@ Budd-Chiari syndrome (BCS) is defined by obstruction of hepatic venous outflow, 
 - Absent or reversed hepatic venous flow on Doppler
 - Characteristic "comma-shaped" or enlarged caudate lobe on cross-sectional imaging
 
-**Underlying etiology.** How often a prothrombotic disorder is found differs slightly between the two ingested guidelines: **~75%** of patients ([[aasld-2021-vascular-pvt]], 2021) vs **at least 1 thrombotic disorder in 79%–84%** ([[acg-2020-hepatic-mesenteric-circulation]], 2020). **Two or more** coexist in **≥35%** (AASLD) / **25%–46%** (ACG), and **no risk factor is found in 15%–30%** (AASLD).
+**Underlying etiology.** How often a prothrombotic disorder is found differs slightly between the two guidelines: **~75%** of patients ([[aasld-2021-vascular-pvt]], 2021) vs **at least 1 thrombotic disorder in 79%–84%** ([[acg-2020-hepatic-mesenteric-circulation]], 2020). **Two or more** coexist in **≥35%** (AASLD) / **25%–46%** (ACG), and **no risk factor is found in 15%–30%** (AASLD).
 
 Prevalences below are the HVT/BCS column of [[aasld-2021-vascular-pvt]] **Table 7** (patients *without* cirrhosis):
 
@@ -63,11 +63,11 @@ Prevalences below are the HVT/BCS column of [[aasld-2021-vascular-pvt]] **Table 
 
 > ⚠ **This resolves a standing contradiction on this page, against Baveno VII.** [[baveno-vii-2022-portal-hypertension|Baveno VII]] 8.24–8.25 endorsed the **BCS-TIPS prognostic index**, with a **score >7** as a trigger to consider **liver transplantation before [[tips|TIPS]] placement**. [[acg-2020-hepatic-mesenteric-circulation]] KC 26 said the opposite — that "prognostic scoring systems are not helpful in guiding choice of therapy," noting the **Rotterdam score** is validated for *intervention-free* but not *transplant-free* survival and "should not be used to dictate treatment in individual patients." **Baveno VIII now agrees with ACG.** The BCS-TIPS index >7 rule is **withdrawn as a management trigger**; transplant is instead considered for **uncontrolled clinical manifestations despite the stepwise approach** and for BCS presenting as acute liver failure.
 >
-> **Decision gap — component point values.** No ingested source prints the component variables or point values of the **BCS-TIPS prognostic index** or the **Rotterdam score**, so neither can be computed from this wiki. This gap now matters less, since Baveno VIII restricts both to research use. Do not reconstruct them from memory.
+> Neither guideline prints the component variables or point values of the **BCS-TIPS prognostic index** or the **Rotterdam score**, so neither can be computed from this page; this matters less now that Baveno VIII restricts both to research use.
 
 Key predictors of poor outcome: [[hepatic-encephalopathy|hepatic encephalopathy]], [[ascites]] refractory to medical therapy, liver failure (coagulopathy, jaundice, INR >1.5), failure to respond to anticoagulation + angioplasty within weeks.
 
-**HCC risk** — elevated, and occurs **without cirrhosis**, but the ingested estimates differ by population and design:
+**HCC risk** — elevated, and occurs **without cirrhosis**, but the estimates differ by population and design:
 
 | Estimate | Source |
 |---|---|

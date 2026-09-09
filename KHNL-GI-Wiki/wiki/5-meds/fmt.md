@@ -70,7 +70,7 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 
 - **Conventional FMT:** no dose, volume, or route is specified — the guideline states there is **insufficient evidence to recommend a specific route**.
 - **FDA-approved products:** AGA gives **no dosing at all** and directs the reader to the **manufacturer's package insert** for fecal microbiota spores live-brpk and fecal microbiota live-jslm. The only quantitative statement in the guideline is descriptive: per its package insert, each **150-mL dose of fecal microbiota live-jslm contains 1×10⁸–5×10¹⁰ CFU/mL**, a microbial content **less than that in 1 g of stool**, whereas all published conventional-FMT studies used far greater dosing.
-- **Gap:** dosing for either product must come from the package insert, which is not an ingested source. Do not infer a dose from this page.
+- Dosing for either product is not given in the guideline; take it from the package insert.
 
 ## Place in Therapy
 

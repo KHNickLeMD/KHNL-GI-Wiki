@@ -173,7 +173,7 @@ Severity classification and management (Table 6, ACG 2015) — the moderate/seve
 - Supportive care as above plus **antimicrobial therapy** *(Strong, very low)* — the guideline says **"broad-spectrum"** and deliberately specifies **no agent, combination, or duration**; no randomized human trial stratified by severity exists
 - Surgical consultation (Table 6)
 
-> **Decision gap (source-blocked):** [[acg-2015-colon-ischemia]] gives no antibiotic regimen, dose, or duration for CI, and states a properly designed RCT of antibiotics stratified by severity is unlikely ever to be performed. Do not infer a regimen — an intra-abdominal-infection guideline (e.g. IDSA/SIS) would be needed.
+> [[acg-2015-colon-ischemia]] gives no antibiotic regimen, dose, or duration for CI, and states a properly designed RCT of antibiotics stratified by severity is unlikely ever to be performed; take the regimen from an intra-abdominal-infection guideline (e.g. IDSA/SIS).
 
 **Severe CI / Surgical Indications** [[acg-2015-colon-ischemia]]:
 Surgery is required (Strong, Moderate evidence) when:

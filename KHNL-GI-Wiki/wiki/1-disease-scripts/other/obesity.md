@@ -34,7 +34,7 @@ sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 
 ## Differential Diagnosis
 
-*No dedicated diagnostic schema — obesity is a clinical/anthropometric diagnosis (BMI), not an undifferentiated syndrome, and the ingested sources ([[aga-2022-obesity-pharm]], [[aga-2021-intragastric-balloons]]) address management rather than secondary-cause workup. Consider contributors (endocrine disease, medication-induced weight gain) per general internal medicine before attributing weight gain to primary obesity — no ingested source supplies that workup.*
+*No dedicated diagnostic schema — obesity is a clinical/anthropometric diagnosis (BMI), not an undifferentiated syndrome, and the GI guidelines ([[aga-2022-obesity-pharm]], [[aga-2021-intragastric-balloons]]) address management rather than secondary-cause workup. Consider contributors (endocrine disease, medication-induced weight gain) per general internal medicine before attributing weight gain to primary obesity; the GI guidelines do not cover that workup.*
 
 ---
 

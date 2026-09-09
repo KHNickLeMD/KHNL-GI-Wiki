@@ -121,7 +121,7 @@ Key structural innovation: the framework now stratifies patients into **unproven
 
 ## Relevance to Wiki
 
-This is the primary authoritative reference for GERD diagnosis standards in the wiki. Key pages that should cite this source:
+This is the primary authoritative reference for GERD diagnosis standards. Key pages that cite this source:
 
 - `[[ambulatory-reflux-monitoring]]` — directly built from this source; covers all thresholds and test selection logic
 - GERD disease script — diagnostic criteria section

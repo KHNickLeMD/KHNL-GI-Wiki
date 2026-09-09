@@ -281,7 +281,7 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 
 - Acute severe AIH (AS-AIH) without ALF: **IV corticosteroids** (prednisone/prednisolone 0.5–1 mg/kg/day or 60 mg/day total)
 - SURFASA score (INR + bilirubin **within 3 days of initiating corticosteroids**; derived in 128 patients with acute severe AIH **without** ALF) predicts non-response — 88% specificity, 84% sensitivity for LT or death → refer non-responders for LT [[acg-2023-alf]]
-  - *Gap: [[acg-2023-alf]] gives the score's two inputs and its performance but **no formula and no cut-off value**, so SURFASA cannot be computed or applied from this page. The De Martin 2021 derivation paper (J Hepatol 74:1325) is not ingested.*
+  - *[[acg-2023-alf]] gives the score's two inputs and its performance but **no formula and no cut-off value**, so SURFASA cannot be computed or applied from this page. The formula is in the De Martin 2021 derivation paper (J Hepatol 74:1325).*
 - AIH that has progressed to frank ALF: **early LT evaluation** (up to 48% ultimately require LT even with corticosteroids)
 - Vigilant infection surveillance with steroid use
 
@@ -315,7 +315,7 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 
 **Listing priority:** UNOS Status 1A (highest priority) — [[acg-2023-alf]] recommends Status 1A listing for ALF meeting criteria (Strong, moderate).
 
-- *Decision gap (corpus-blocked): the **operative UNOS Status 1A criteria** — the ICU/ventilator/RRT/INR components and the ≤7-day life-expectancy and ≤8-week HE-onset windows — are **not stated in any ingested source**. [[acg-2023-alf]] and [[aasld-ast-2025-liver-transplant-candidate-evaluation]] both name Status 1A without printing its criteria; the OPTN/UNOS Policy 9 allocation policy would be needed.*
+- *The **operative UNOS Status 1A criteria** — the ICU/ventilator/RRT/INR components and the ≤7-day life-expectancy and ≤8-week HE-onset windows — are not stated in [[acg-2023-alf]] or [[aasld-ast-2025-liver-transplant-candidate-evaluation]], which name Status 1A without printing its criteria; they are in OPTN/UNOS Policy 9.*
 
 **Criteria for listing:** Meet KCC or MELD >25, or other evidence of poor spontaneous prognosis; individualized multidisciplinary transplant team decision
 

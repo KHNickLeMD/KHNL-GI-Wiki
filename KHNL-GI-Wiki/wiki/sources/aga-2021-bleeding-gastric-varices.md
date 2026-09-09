@@ -125,7 +125,7 @@ Notably, the update **rejects primary prophylaxis**: endoscopic classification s
 - **Figure 1** — recommended endoscopic classification (cardiofundal / lesser curve / distal GV), mapped against Sarin GOV1, GOV2, IGV1, IGV2.
 - **Figure 2** — Saad-Caldwell vascular classification: afferent inflow and efferent portosystemic shunt variants (LGV, SGV, SV, PV, MV, GRS → LRV → IVC).
 - **Figure 3** — recommended multidisciplinary algorithm for bleeding GV, keyed on endoscopic location and presence of a GRS.
-- **Supplementary Figure 1** — procedural details of ECI (online-only, not in the ingested PDF).
+- **Supplementary Figure 1** — procedural details of ECI (online-only).
 
 ## Relevance to Wiki
 - [[variceal-upper-gi-bleeding]] — supplies the gastric-varices half of the page: location-based classification, the ECI-vs-band-ligation split between cardiofundal and lesser curve GV, the imaging-then-multidisciplinary-decision pathway, and the BRTO/TIPS selection rule keyed on the gastrorenal shunt.
@@ -138,12 +138,12 @@ Notably, the update **rejects primary prophylaxis**: endoscopic classification s
 - Supports a future `gastric-varices` entity page and a `balloon-occluded-retrograde-transvenous-obliteration` (BRTO) procedure page under `4-advanced-gi-procedures/hepatobiliary-procedures/`.
 
 ## Contradictions / Open Questions
-- **Timing of endoscopy.** This update says "within 12 h of presentation (as soon as possible)" for suspected portal hypertensive bleeding. Confirm against [[baveno-viii-2026-portal-hypertension]] and [[aasld-2023-portal-hypertension]] before the number is asserted as the wiki's standing recommendation — as a 2021 tier-1 expert review it is **outranked by the newer consensus documents** under the source-priority rule.
+- **Timing of endoscopy.** This update says "within 12 h of presentation (as soon as possible)" for suspected portal hypertensive bleeding. Confirm against [[baveno-viii-2026-portal-hypertension]] and [[aasld-2023-portal-hypertension]] — as a 2021 expert review it is **superseded by the newer consensus documents** where they differ.
 - **Primary prophylaxis of GV.** BPA 1 forbids using endoscopic classification to guide it and states no form of primary prophylaxis is supported. Baveno VII/VIII and AASLD carry their own positions on NSBB in patients with gastric varices; where they differ, the newer document wins the page and this 2021 statement is recorded as what the AGA advised in 2021.
-- **Sarin vs the location-based scheme.** The update proposes replacing Sarin with cardiofundal/lesser curve/distal, but acknowledges "most gastroenterologists use the Sarin classification" and that the outcome literature is not stratified by GV type at all. Both nomenclatures should appear on the wiki, mapped to each other, rather than one silently replacing the other.
+- **Sarin vs the location-based scheme.** The update proposes replacing Sarin with cardiofundal/lesser curve/distal, but acknowledges "most gastroenterologists use the Sarin classification" and that the outcome literature is not stratified by GV type at all. Both nomenclatures remain in use and should be read as mapped to each other rather than one replacing the other.
 - **EUS-guided coil/glue** is explicitly *not yet* recommended for routine use here (2021). Check against [[aga-2023-interventional-eus-vascular]], which is newer and may have moved.
 - **Evidence quality is uniformly low.** Every statement is Best Practice Advice from expert opinion; there is no GRADE rating anywhere in the document, and the authors state that strong evidence-based recommendations are not currently possible.
-- Not captured: **Supplementary Figure 1** (ECI procedural detail) is online-only and absent from the ingested PDF, so the update's step-by-step injection technique is not on the wiki.
+- **Supplementary Figure 1** (ECI step-by-step injection technique) is online-only and not summarized here.
 
 ---
 

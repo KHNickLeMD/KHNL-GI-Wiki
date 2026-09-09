@@ -26,7 +26,7 @@ sources: [chicago-v4-2021-esophageal-dysmotility, acg-2020-esophageal-physiologi
 
 ## Overview
 
-Chicago Classification v4.0 (CC v4.0) is the international consensus framework for interpreting [[high-resolution-manometry|high-resolution manometry (HRM)]] and classifying esophageal motility disorders. It is the successor to CC v3.0 and was published in 2021 ([[chicago-v4-2021-esophageal-dysmotility|Yadlapati et al., *Neurogastroenterol Motil*]]). All HRM diagnoses in the wiki use CC v4.0 nomenclature.
+Chicago Classification v4.0 (CC v4.0) is the international consensus framework for interpreting [[high-resolution-manometry|high-resolution manometry (HRM)]] and classifying esophageal motility disorders. It is the successor to CC v3.0 and was published in 2021 ([[chicago-v4-2021-esophageal-dysmotility|Yadlapati et al., *Neurogastroenterol Motil*]]). All HRM diagnoses on these pages use CC v4.0 nomenclature.
 
 Key advances over v3.0:
 

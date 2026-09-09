@@ -54,7 +54,7 @@ Cholangiocarcinoma (CCA) is an adenocarcinoma arising from the biliary epitheliu
 
 - **Bismuth-Corlette** — four types by extent of *biliary* involvement (criteria live on [[biliary-stricture]]). It **omits vascular encasement, nodal involvement, distant metastases, and liver atrophy**, and — like AJCC staging — is **not useful for predicting resectability or survival**. Use it to describe ductal extent, not to decide operability.
 - **Blumgart** — preoperative system that **does** predict resectability, likelihood of metastatic disease, and survival. Classifies hilar CCA into three stages (T1–T3) by (1) location and extent of bile duct involvement, (2) presence/absence of portal venous invasion, and (3) hepatic lobar atrophy. Increasing T stage correlates with lower R0 rate, more distant metastatic disease, and lower median survival.
-  - *Gap:* the actual T1/T2/T3 cut-points of the Blumgart system are **not reproduced in any ingested source** (NCCN cites Jarnagin 2001 and Matsuo 2012). Those primary papers would be needed — do not infer the strata.
+  - Blumgart T1/T2/T3 cut-points are not given in the NCCN text (it cites Jarnagin 2001 and Matsuo 2012).
 
 ### Staging (AJCC 8th ed., 2017)
 

@@ -26,7 +26,7 @@ Laparoscopic Heller myotomy (LHM) is the surgical anterior myotomy of the lower 
 
 - **Preoperative workup is the achalasia workup** — [[upper-endoscopy|upper endoscopy]] to exclude pseudoachalasia, [[high-resolution-manometry|HRM]] for subtyping, timed barium esophagram (TBE) for baseline emptying. It has one home: [[achalasia]] (and [[poem]] for the myotomy-specific pre-procedure checklist).
 - **Subtype drives the choice**, and subtypes are defined only on HRM by the [[chicago-classification-v4|Chicago Classification v4.0]] — see that page for the criteria.
-- **Response is measured by the Eckardt score** (clinical success = ES ≤3 in most trials cited below); the score's structure, bands, and the corpus-blocked per-item anchors live on [[achalasia]].
+- **Response is measured by the Eckardt score** (clinical success = ES ≤3 in most trials cited below); the score's structure and bands are on [[achalasia]].
 - ⚠ **Do not declare failure on symptoms or HRM alone** — TBE is the recommended first-line test to define treatment failure (*Strong, Very low*, [[acg-2020-achalasia]]).
 
 ## Technique

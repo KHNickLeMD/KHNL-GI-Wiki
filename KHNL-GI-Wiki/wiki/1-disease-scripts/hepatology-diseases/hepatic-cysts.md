@@ -165,7 +165,7 @@ No score. Three questions drive every decision ([[acg-2024-focal-liver-lesions]]
 - GFR **<20 mL/min**
 - Previous kidney transplant
 - Moderate-to-severe protein-calorie malnutrition documented by a registered dietitian (**GLIM** phenotypic criteria, **ASPEN** criteria, **NFPE**, or **SGA-C** score)
-  - ⚠ **None of these four instruments is defined in any ingested source** — see the gap note on [[nutrition-in-liver-disease]]. This MELD-exception criterion therefore cannot be scored from the wiki; the dietitian's own instrument governs
+  - The guideline does not define these four instruments (see [[nutrition-in-liver-disease]]); the dietitian's own instrument governs
 - Severe sarcopenia by skeletal muscle index — **SMI cut-points (and the frailty/sarcopenia tools generally) live on [[nutrition-in-liver-disease]]**; not restated here
 
 *Patients on dialysis, with GFR <20 mL/min, or requiring a kidney transplant should undergo **simultaneous liver–kidney transplant**.*
@@ -227,7 +227,7 @@ No score. Three questions drive every decision ([[acg-2024-focal-liver-lesions]]
 - Start before the procedure and **continue 1–6 months afterward**; **cyclical regimens are no longer recommended**
 - **Monitor white cell count and liver tests** — albendazole causes hepatic dysfunction and agranulocytosis
 - **Medical therapy alone is not recommended** unless percutaneous aspiration or surgery is contraindicated — **>40% of cysts remain active or reactivate after 2 years** of monotherapy (KC 51b)
-- ⚠ *Gap: [[acg-2024-focal-liver-lesions]] gives the indication, the duration (1–6 months after the procedure) and the monitoring, but **no albendazole dose** — it states only that "the exact duration of medical treatment before and after surgical or percutaneous therapy varies according to experts." The WHO-IWGE ladder above is therefore actionable as to **which** treatment, not **how much**. Do not supply the mg/kg from memory.*
+- ⚠ *[[acg-2024-focal-liver-lesions]] gives the indication, the duration (1–6 months after the procedure) and the monitoring, but **no albendazole dose** — it states only that "the exact duration of medical treatment before and after surgical or percutaneous therapy varies according to experts." The WHO-IWGE ladder above is therefore actionable as to **which** treatment, not **how much**; take the mg/kg dose from the package insert.*
 
 **Procedural therapy** — for **large cysts (>5 cm)**, cysts likely to rupture, non-responders to medical therapy, or contraindications to medical therapy (liver or bone-marrow disorders):
 

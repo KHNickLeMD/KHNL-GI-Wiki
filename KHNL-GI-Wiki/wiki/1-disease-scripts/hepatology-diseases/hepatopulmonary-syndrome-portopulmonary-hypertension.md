@@ -30,7 +30,7 @@ Two pulmonary **vascular** complications of liver disease and [[portal-hypertens
 | Class | — | Pulmonary arterial hypertension, WHO **group 1** |
 | Criteria | **Both** required: (1) microbubbles in the left heart **≥3 cardiac cycles** after right-heart microbubbles, following **10 mL** agitated saline injected in a peripheral arm vein on bubble echocardiography; **and** (2) alveolar–arterial gradient **>15 mm Hg** (**>20 mm Hg** if age >64) | Screen by TTE, **confirm by right heart catheterization (RHC)** — elevated mean pulmonary artery pressure (mPAP) with increased pulmonary vascular resistance (PVR) |
 
-> ⚠ **Gap — POPH hemodynamic definition not in an ingested source.** [[aasld-ast-2025-liver-transplant-candidate-evaluation]] requires RHC to confirm "elevated mPAP and increased PVR" but never states the diagnostic mPAP / PVR / wedge-pressure cutoffs; only the *candidacy* thresholds below are given. The ILTS practice guideline on HPS and POPH (Krowka 2016, *Transplantation* 100:1440–52 — cited by AASLD but not ingested) would close this. Do not infer the numbers.
+> ⚠ **POPH hemodynamic definition.** [[aasld-ast-2025-liver-transplant-candidate-evaluation]] requires RHC to confirm "elevated mPAP and increased PVR" but never states the diagnostic mPAP / PVR / wedge-pressure cutoffs; only the *candidacy* thresholds below are given. The diagnostic cutoffs are in the ILTS practice guideline on HPS and POPH (Krowka 2016, *Transplantation* 100:1440–52), which AASLD cites.
 
 ### Severity Assessment
 
@@ -96,7 +96,7 @@ Pulmonary disease in the LT candidate falls into three groups; HPS/POPH are grou
 - **≥50%** of POPH patients have resolution after LT, and long-term post-LT survival is excellent in medical-therapy responders — the basis for the standard MELD exception.
 - Intraoperative extracorporeal support to bridge higher-risk POPH patients is of increasing interest but has **not** shown long-term survival benefit (too few supported patients reaching LT).
 
-> ⚠ **Gap — POPH drug therapy not sourced.** [[aasld-ast-2025-liver-transplant-candidate-evaluation]] refers only to "multiple new targeted medications" and never names the PAH drug classes or agents. A previously listed set of classes (endothelin receptor antagonists, PDE-5 inhibitors, prostacyclin analogues) was **not supported by any ingested source and has been removed**. A PAH/ILTS guideline would be needed.
+> ⚠ **POPH drug therapy.** [[aasld-ast-2025-liver-transplant-candidate-evaluation]] refers only to "multiple new targeted medications" and never names the PAH drug classes or agents; take agent selection from a PAH/ILTS guideline.
 
 **Where HPS/POPH changes a decision *other than* LT candidacy**
 

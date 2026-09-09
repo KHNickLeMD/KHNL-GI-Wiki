@@ -121,7 +121,7 @@ The core selection advice: offer G-POEM to adults with refractory gastroparesis 
 
 ## Contradictions / Open Questions
 
-- **Durability vs earlier pooled estimates:** [[acg-2022-gastroparesis]] cites pooled open-label clinical improvement of 88.2% (n=276), whereas this CPU emphasizes more modest durable success — 1-year pooled **61%**, 4–5-year sustained **50%** (both flagged on [[gastroparesis]]). Not a formal contradiction (different endpoints/time horizons), but expectations should be set with the 50%–60% durable figure.
+- **Durability vs earlier pooled estimates:** [[acg-2022-gastroparesis]] cites pooled open-label clinical improvement of 88.2% (n=276), whereas this CPU emphasizes more modest durable success — 1-year pooled **61%**, 4–5-year sustained **50%** (both noted on [[gastroparesis]]). Not a formal contradiction (different endpoints/time horizons), but expectations should be set with the 50%–60% durable figure.
 - **Double myotomy:** superior at 6 months in a single study only — not yet routine.
 - No validated predictor from response to prior botulinum toxin/stenting; FLIP-based selection promising but unproven.
 - No numbered BPA statements or evidence grades (Commentary format) — advice reflects expert experience + literature review.

@@ -107,7 +107,7 @@ Treatment is dominated by therapeutic phlebotomy — removing approximately 500 
 - Touches [[hepatocellular-carcinoma]] (HCC surveillance criteria same as other cirrhosis causes; continued post-iron depletion)
 - Touches [[alcohol-associated-liver-disease]] (alcohol as cofactor in HH iron overload; AUD screening recommended before treating HH secondary iron overload)
 - Touches [[drug-induced-liver-injury]] (secondary iron overload differential; NAFLD-associated hyperferritinemia)
-- Creates concept stub: [[iron-overload-and-iron-metabolism]]
+- Creates concept page: [[iron-overload-and-iron-metabolism]]
 
 ---
 

@@ -54,7 +54,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 | First choice (alt) | Ciprofloxacin or ceftriaxone | IDSA Table 6 first-choice alternatives [[idsa-2017-infectious-diarrhea]] |
 | Alternative | TMP-SMX or ampicillin | **Only if susceptible** [[idsa-2017-infectious-diarrhea]] |
 
-> **Dose gap — flagged, not filled.** Only azithromycin and the fluoroquinolones are dosed in the corpus ([[acg-2016-acute-diarrhea]] Table 4 traveler's-diarrhea regimens). [[idsa-2017-infectious-diarrhea]] Table 6 names **ceftriaxone, TMP-SMX, and ampicillin with no dose column**, so no dose, route, or duration is asserted for those three here. An IDSA/CDC enteric-pathogen treatment table would be needed to close this.
+> Only azithromycin and the fluoroquinolones are dosed by the guidelines ([[acg-2016-acute-diarrhea]] Table 4 traveler's-diarrhea regimens). [[idsa-2017-infectious-diarrhea]] Table 6 names **ceftriaxone, TMP-SMX, and ampicillin with no dose column**, so no dose, route, or duration is given for those three here; use an IDSA/CDC enteric-pathogen treatment table.
 
 - **Duration — the decision rule** [[acg-2016-acute-diarrhea]]:
   - For most antibiotics, **single-dose or up to 3 days** is usually sufficient to resolve symptoms.

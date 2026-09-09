@@ -74,7 +74,7 @@ sources: [uspg-2025-disconnected-pancreatic-duct, aga-2020-cpu-pancreatic-necros
 
 ### Severity Assessment
 
-- **No graded severity score or stage exists for DPD** in any ingested source — ⚠ flagged gap, not filled. Burden is carried by the consequences below.
+- **The guideline gives no graded severity score or stage for DPD.** Burden is carried by the consequences below.
 - **DPD is one of only two significant risk factors for poor clinical outcomes** in this population — the other being **necrotizing pancreatitis** itself (large cohort studies, irrespective of treatment modality).
 - **Associated with** ICU admission, organ failure, infected necrosis, pancreatic intervention, and prolonged length of stay.
 - **Long-term sequelae:** recurrent fluid collections, recurrent pancreatitis, chronic pancreatitis, **high rates of endocrine insufficiency**, persistent pancreatic fistulas, and need for pancreatic surgery. New diabetes is reported in a significant percentage of DPDS patients **even without resection** ([[aga-2020-cpu-pancreatic-necrosis]]). See also [[exocrine-pancreatic-insufficiency]].
@@ -188,7 +188,7 @@ flowchart TD
 - Where LAMS are removed but a double-pigtail stent **cannot** be placed (cavity too small/decompressed, or technical reasons) → **higher rate of recurrent fluid collections.**
 - **Migration:** recurrent collections after transmural stent placement all occurred with migration **<6 months** after placement; patients with migration **after 6 months were asymptomatic** (Rana et al.). In another series **17 of 36 (47%)** migrated spontaneously, yet recurrence occurred in only one. Periodic follow-up to confirm stent position is therefore needed to interpret long-term outcomes.
 - **Complications are infrequent but can be significant:** **8%** had **colon perforation, 5 to 33 months** after placement; small bowel obstruction from migration also reported. Overall, indefinite indwelling double-pigtail transgastric stents **appear safe** in DPD.
-- ⚠ **Explicitly unknown — do not fill in:** the ideal **number** (beyond "at least 2"), **size**, and **length** of stents; **whether/when to remove** them; the impact of migration on recurrence; and whether recurrent collections are symptomatic enough to warrant therapy. Gradual atrophy of the disconnected segment may eventually diminish enzyme secretion and obviate long-term drainage.
+- ⚠ **Explicitly unknown per the guideline:** the ideal **number** (beyond "at least 2"), **size**, and **length** of stents; **whether/when to remove** them; the impact of migration on recurrence; and whether recurrent collections are symptomatic enough to warrant therapy. Gradual atrophy of the disconnected segment may eventually diminish enzyme secretion and obviate long-term drainage.
 
 ### Surgery
 

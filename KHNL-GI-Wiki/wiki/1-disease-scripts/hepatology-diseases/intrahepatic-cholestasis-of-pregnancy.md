@@ -67,8 +67,8 @@ Most common pregnancy-specific liver disease; frequency **0.3–0.5%**. Onset in
 - **Oral ursodeoxycholic acid (UDCA) 10–15 mg/kg/day** (total daily dose, divided) — first-line. ([[aga-2024-pregnancy-gi-liver]] BPA 10; [[acg-2016-liver-disease-pregnancy|ACG 2016]] — *strong recommendation, moderate level of evidence*)
 - Improves pruritus and lowers serum bile acids and ALT; meta-analysis found decreased adverse outcomes including **preterm birth and stillbirth**.
 - UDCA is **more effective than cholestyramine or dexamethasone** for controlling pruritus; it increases bile salt export pump expression and placental bile transporters. ([[acg-2016-liver-disease-pregnancy]])
-- Additional pruritus control: **cholestyramine** and **rifampicin** — [[aga-2024-pregnancy-gi-liver]] names them without doses; dosing for both is on [[primary-biliary-cholangitis]] (non-pregnant cholestatic pruritus), and neither ingested source states a pregnancy-specific dose. ([[aga-2024-pregnancy-gi-liver]])
-- **Dexamethasone** may be used to promote fetal lung maturity before delivery, given the higher rate of prematurity in ICP. ([[acg-2016-liver-disease-pregnancy]]) — *neither ingested source gives a dose or a gestational-age window for it.*
+- Additional pruritus control: **cholestyramine** and **rifampicin** — [[aga-2024-pregnancy-gi-liver]] names them without doses; dosing for both is on [[primary-biliary-cholangitis]] (non-pregnant cholestatic pruritus), and neither guideline states a pregnancy-specific dose. ([[aga-2024-pregnancy-gi-liver]])
+- **Dexamethasone** may be used to promote fetal lung maturity before delivery, given the higher rate of prematurity in ICP. ([[acg-2016-liver-disease-pregnancy]]) — *neither guideline gives a dose or a gestational-age window for it.*
 
 ### Delivery Timing (by total bile acids)
 
@@ -80,7 +80,7 @@ Delivery is advised based on **total serum bile acid levels** ([[aga-2024-pregna
 | **40–99 μmol/L** | **36 or 39 weeks** (if diagnosed later) |
 | **<40 μmol/L** | Delivery at **term** reasonable; individualize |
 
-> ⚠ **The source's own bands overlap.** [[aga-2024-pregnancy-gi-liver]] writes the middle band as "**<100 μmol/L** → deliver at 36 or 39 wk" and separately "deliver at term for **<40 μmol/L**" — so a patient at 30 μmol/L literally satisfies both. The middle row is rendered here as **40–99 μmol/L** to make the ladder usable; that boundary is the wiki's reading, not the source's wording. The source also gives **no rule for choosing between 36 and 39 weeks** within that band.
+> ⚠ **The source's own bands overlap.** [[aga-2024-pregnancy-gi-liver]] writes the middle band as "**<100 μmol/L** → deliver at 36 or 39 wk" and separately "deliver at term for **<40 μmol/L**" — so a patient at 30 μmol/L literally satisfies both. The middle row is rendered here as **40–99 μmol/L** to make the ladder usable; that boundary is this page's reading, not the source's wording. The source also gives **no rule for choosing between 36 and 39 weeks** within that band.
 
 > ⚠ **Superseded recommendation:** [[acg-2016-liver-disease-pregnancy|ACG 2016]] recommended **early delivery at 37 weeks for all ICP** (*strong recommendation, very low level of evidence*), without bile-acid stratification. The bile-acid–stratified timing above (AGA 2024) is newer and is what this page asserts — but readers carrying the flat 37-week rule should know it changed.
 

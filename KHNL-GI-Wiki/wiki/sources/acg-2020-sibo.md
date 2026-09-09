@@ -195,7 +195,7 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 
 - Creates: [[small-intestinal-bacterial-overgrowth]] (new disease script, small-bowel subfolder)
 - Cross-links: [[irritable-bowel-syndrome]], [[celiac-disease]], [[chronic-pancreatitis]], [[disorders-of-gut-brain-interaction]]
-- Creates stub: [[rifaximin]] (med), [[intestinal-methanogen-overgrowth]] (concept), [[small-bowel-motility]] (concept)
+- Creates: [[rifaximin]] (med), [[intestinal-methanogen-overgrowth]] (concept), [[small-bowel-motility]] (concept)
 - Updates: [[irritable-bowel-syndrome]] — SIBO present in up to 78% by meta-analysis; rifaximin-IBS mechanism (microbiome dysbiosis/SIBO subset)
 - Updates: [[chronic-pancreatitis]] — pancreatic insufficiency is a recognized SIBO risk factor
 

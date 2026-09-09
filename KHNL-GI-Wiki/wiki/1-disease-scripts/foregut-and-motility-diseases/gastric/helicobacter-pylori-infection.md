@@ -121,7 +121,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab, aga-2021
 | Stool/fecal antigen test (SAT/FAT) | *not stated* | *not stated* | Same standing as UBT for diagnosis and test of cure; same 2-week PPI hold [[acg-2024-hp-treatment]] |
 | Serology (IgG) | *not stated* | *not stated* | Cannot distinguish active from past infection; **not** for post-treatment confirmation. **Not recommended in low-prevalence populations** absent a high pre-test probability (e.g. peptic ulcer) [[acg-2024-hp-treatment]] |
 
-> ⚠ **Sourcing gap — no test-performance figures are asserted on this page, deliberately.** UBT and SAT previously carried sensitivity/specificity ranges (88–95%/95–100% and ~94%/~97%) cited to [[acg-2017-hp-guidelines]]. **That PDF is not in `raw/`** — confirmed 2026-09-03 by hashing every non-lecture file in the corpus — and [[acg-2024-hp-treatment]] states it "elected not to review standard testing modalities (e.g., fecal antigen testing, breath testing, and serology)." The numbers were therefore unverifiable and have been removed rather than carried forward. The same gap covers **serology**, the **biopsy-based tests**, and the monoclonal-vs-polyclonal SAT distinction. An ACG/AGA H. pylori **diagnosis** guideline would close it.
+> ⚠ **No test-performance figures (sensitivity/specificity) are given on this page.** [[acg-2024-hp-treatment]] "elected not to review standard testing modalities (e.g., fecal antigen testing, breath testing, and serology)," so UBT, SAT, serology, biopsy-based tests, and the monoclonal-vs-polyclonal SAT distinction are not characterized here; see the ACG 2017 H. pylori guideline or a dedicated diagnosis guideline.
 
 ### Invasive Tests (Endoscopy-Based)
 

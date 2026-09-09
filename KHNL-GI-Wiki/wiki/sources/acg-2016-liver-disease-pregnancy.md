@@ -185,7 +185,7 @@ The guideline covers perinatal transmission prevention for chronic HBV (antivira
 - **Updates:** [[acute-liver-failure]] — AFLP as cause of ALF in pregnancy; cross-link
 - **Updates:** [[abnormal-liver-chemistries]] — physiologic changes in pregnancy modifying lab interpretation
 - **Updates:** [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatocellular-adenoma]] — pregnancy management
-- **Creates stubs:** [[hepatitis-c-in-pregnancy]], [[liver-disease-in-pregnancy|intrahepatic cholestasis of pregnancy]] subsumed under main entity page
+- **Also informs:** [[hepatitis-c-in-pregnancy]]; [[liver-disease-in-pregnancy|intrahepatic cholestasis of pregnancy]] is covered on the main entity page
 
 ---
 

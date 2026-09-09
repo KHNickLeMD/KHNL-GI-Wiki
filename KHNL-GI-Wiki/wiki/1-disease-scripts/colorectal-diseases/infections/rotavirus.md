@@ -111,7 +111,7 @@ Exposure/host features that raise the pretest probability of rotavirus. [[idsa-2
 | Monovalent (Rotarix, GSK) | Live, attenuated, oral | **2 doses** |
 
 - Phase 3 efficacy: **74%–87%** against any rotavirus infection; **85%–98%** against severe gastroenteritis — the basis for the ACIP universal-infant recommendation (2006/2008). Post-licensure surveillance shows fewer outpatient visits and hospitalizations in vaccinated infants (direct protection) **and** in unvaccinated/age-ineligible children and adults (community protection). [[idsa-2017-infectious-diarrhea]]
-  > *Gap: [[idsa-2017-infectious-diarrhea]] conditions the recommendation on "no known contraindication" but does not enumerate the contraindications, nor the dose ages/upper age limit. The ACIP rotavirus vaccine statement (MMWR) would be needed to put them on-page.*
+  > *[[idsa-2017-infectious-diarrhea]] conditions the recommendation on "no known contraindication" but does not enumerate the contraindications or the dose ages/upper age limit; those are in the ACIP rotavirus vaccine statement (MMWR).*
 - Symptomatic people should avoid swimming, water-related activities, and sexual contact, with meticulous hand hygiene *(strong, low)*. [[idsa-2017-infectious-diarrhea]] (Rec 56)
 
 ---

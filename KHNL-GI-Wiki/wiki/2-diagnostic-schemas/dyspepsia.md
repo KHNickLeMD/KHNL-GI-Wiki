@@ -35,7 +35,7 @@ Subtype-guided therapy is **not recommended** — no evidence that PDS vs. EPS p
 
 **Which threshold to apply — research vs clinic.** Rome V pairs its research criteria with **Rome Clinical Criteria** for practice: the qualitative symptom features are unchanged and the symptoms must be **bothersome** (interfere with daily life or prompt care-seeking), but the frequency requirement is **lower** than the research threshold and the 6-month duration is replaced by a suggested **8-week** minimum. This is intended to capture the ~25% of the population with subdiagnostic-but-morbid GI symptoms [[rome-v-2026-dgbi]].
 
-> **Gap — the itemised Rome V B1/B1a/B1b symptom items are not in an ingested source.** The Rome V document in `raw/` is the process/overview paper: it prints the taxonomy above and the Clinical-Criteria framework, but not the numbered symptom items or their frequency thresholds for functional dyspepsia. The full *Rome V Criteria* volume (or its gastroduodenal chapter) would be needed. Do not supply them from memory. (Same gap flagged on [[chronic-constipation]].)
+> The Rome V overview article prints the taxonomy above and the Clinical-Criteria framework, but not the numbered B1/B1a/B1b symptom items or their frequency thresholds for functional dyspepsia; those are in the full *Rome V Criteria* volume (gastroduodenal chapter). The same applies on [[chronic-constipation]].
 
 ---
 

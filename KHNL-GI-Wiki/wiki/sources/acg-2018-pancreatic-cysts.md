@@ -85,7 +85,7 @@ Evidence grade key: "Strong" = evidence clearly shows benefit outweighs risk; "C
 
 \* Figure 2 footnote: *"Surveillance should preferably be performed with same imaging modality in attempt to capture consistency in size measurements."*
 
-*(Reconstructed from the figure's text nodes. Figure 2 draws a single shared "increase in cyst size" branch for the <1 cm and 1–2 cm columns, which is why both rows carry the same escalation; the >3 cm column has no growth branch of its own. The figure image itself is not yet captured to `raw/assets/` — PyMuPDF is unavailable in this environment.)*
+*(Transcribed from Figure 2. The figure draws a single shared "increase in cyst size" branch for the <1 cm and 1–2 cm columns, which is why both rows carry the same escalation; the >3 cm column has no growth branch of its own. The figure image itself is not reproduced here.)*
 
 ⚠ **Comparator inconsistency inside the source — do not silently normalize it.** The same growth threshold is printed three ways: Table 3 says **">3 mm/year"**, Recommendation 10 says **"(of >3 mm/year)"**, and the Figure 2 footnote and body text say **"≥3 mm/year"**. Likewise cyst size: Table 3 says **"Size >3 cm"** while Recommendation 11(b) and the body say **"≥3 cm"**. The distinction is immaterial at most measured values but the page reproduces each as printed.
 

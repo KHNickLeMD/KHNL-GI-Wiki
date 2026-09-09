@@ -9,10 +9,10 @@ sources: []
 
 # ACG Clinical Guideline: Treatment of *Helicobacter pylori* Infection
 
-> ⚠ **The PDF of this guideline is not in `raw/`.** Verified 2026-09-03 by hashing every non-lecture file in `raw/`: the only *H. pylori* document in the corpus is **ACG 2024** (`raw/GI Guidelines/ACG/ACG 2024 Treatment of Helicobacter pylori Infection.pdf` → [[acg-2024-hp-treatment]]). The bibliographic record above is verified and correct, but the content below was **not** extracted from an ingested file and cannot be re-verified against one. Treat this page as a **citation of record**, like [[chang-2024-endoscopic-oncologist]].
+> ⚠ **Citation of record.** The bibliographic record above is verified, but the content below was not transcribed from the full guideline text and has not been verified against it. Treat this page as a citation of record, like [[chang-2024-endoscopic-oncologist]]; the *H. pylori* guideline summarized in full is **ACG 2024** ([[acg-2024-hp-treatment]]).
 >
-> **Practical consequence.** [[acg-2024-hp-treatment]] supersedes this guideline for treatment and is what the wiki asserts. Two categories of claim previously carried here are **not recoverable from the corpus** and have been handled on the entity pages rather than left standing:
-> - **UBT / stool-antigen sensitivity and specificity figures** — ACG 2024 explicitly "elected not to review standard testing modalities (e.g., fecal antigen testing, breath testing, and serology)," so no ingested source supplies these numbers.
+> **Practical consequence.** [[acg-2024-hp-treatment]] supersedes this guideline for treatment. Two categories of claim previously carried here are not stated by ACG 2024 and have been handled on the entity pages rather than left standing:
+> - **UBT / stool-antigen sensitivity and specificity figures** — ACG 2024 explicitly "elected not to review standard testing modalities (e.g., fecal antigen testing, breath testing, and serology)," so ACG 2024 does not supply these numbers.
 > - **The ">15% clarithromycin resistance" threshold** for abandoning empiric clarithromycin triple therapy — absent from ACG 2024, which instead states outright that it is "no longer appropriate to use clarithromycin- or levofloxacin-containing treatment regimens empirically" and reports US clarithromycin resistance at **20–30%**.
 >
 > Claims that *are* independently stated in ACG 2024 (2-week PPI hold before UBT/fecal antigen; serology not recommended without high pretest probability; test of cure ≥4 weeks after therapy; metronidazole **1.5–2 g/d** total daily dose in optimized BQT; BQT ITT eradication **87.4%**) have been re-anchored to that guideline.
@@ -118,8 +118,8 @@ The guideline also endorses **[[test-and-treat]]** as the preferred strategy for
 
 ## Contradictions / Open Questions
 
-- The guideline is from 2017; clarithromycin resistance rates have continued to rise. More recent data (post-2020) may further restrict triple therapy indications — flag when more recent sources are ingested.
-- [[vonoprazan|Vonoprazan]]-based regimens (not available in US in 2017) have since shown superior eradication rates — will require updating when those sources are ingested.
+- The guideline is from 2017; clarithromycin resistance rates have continued to rise. More recent data (post-2020) may further restrict triple therapy indications.
+- [[vonoprazan|Vonoprazan]]-based regimens (not available in US in 2017) have since shown superior eradication rates.
 - Local resistance rates in Hawaii/KHNL patient population may differ from mainland US benchmarks — worth noting when regional data is available.
 
 ## See Also

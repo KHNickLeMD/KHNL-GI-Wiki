@@ -59,7 +59,7 @@ The diagnostic core is a **two-tier [[noninvasive-liver-disease-assessment|nonin
 | Cirrhosis | VCTE | ≥20 kPa | <8 kPa | LSM ≥20 associated with cirrhosis |
 | Cirrhosis | MRE | ≥5 kPa | <3 kPa | ~95% specificity; predicts decompensation |
 
-> ⚠ **Unit as printed vs unit used.** This guideline's own table prints the CAP cutoff as **"≥ 288 dB/min"**. That is a typesetting error in the source: the newer ingested [[aasld-2025-semaglutide-mash|AASLD 2025 semaglutide guidance]] labels the same parameter **CAP (dB/m)**. The wiki uses **dB/m** on the strength of that in-corpus disagreement, not from outside knowledge; the value (288) is unchanged.
+> ⚠ **Unit as printed vs unit used.** This guideline's own table prints the CAP cutoff as **"≥ 288 dB/min"**. That is a typesetting error in the source: the newer [[aasld-2025-semaglutide-mash|AASLD 2025 semaglutide guidance]] labels the same parameter **CAP (dB/m)**. This page uses **dB/m**; the value (288) is unchanged.
 
 ## Guidance Statements (verbatim)
 
@@ -106,7 +106,7 @@ The diagnostic core is a **two-tier [[noninvasive-liver-disease-assessment|nonin
 - **[[nafld-masld]]** — primary entity page; this is now the cornerstone primary source (replaces reliance on derivative 2025 sources). Supplies: full two-tier FIB-4 → VCTE/MRE/ELF pathway with exact cut-points (Table 5); at-risk NASH definition; statin safety (GS 1–2); alcohol cofactor + ≥F2 abstinence (GS 6–7); weight-loss dose-response; bariatric criteria; pioglitazone/vitamin E/semaglutide positioning (GS 23–28); ALT/MRI-PDFF surrogate markers (GS 29).
 - **[[abnormal-liver-chemistries]]** — true normal ALT 29–33♂/19–25♀; ALT >30 abnormal.
 - **[[semaglutide]]**, **[[hepatocellular-carcinoma]]** (NASH cirrhosis HCC/varices surveillance, GS 13), **[[portal-hypertension]]** (varices surveillance), **[[alcohol-associated-liver-disease]]** / MetALD overlap.
-- Concept stub candidate: **noninvasive-liver-fibrosis-assessment** (NILDA) — links to [[aasld-2024-nilda-blood]].
+- Noninvasive liver fibrosis assessment (NILDA) — see [[aasld-2024-nilda-blood]].
 
 ## Contradictions / Open Questions
 

@@ -61,7 +61,7 @@ Symptom onset ≥6 months prior to diagnosis.
 
 *FBDSI = Functional Bowel Disorder Severity Index; IBS-SSS = IBS Symptom Severity Scale. ([[rome-v-2026-dgbi]])*
 
-> **Decision gap:** [[rome-v-2026-dgbi|Rome V]] names FBDSI and IBS-SSS as the validated severity instruments and gives the cut-points above, but **does not print their component items or point weights** — so neither score can be computed from this page. Assign the stratum from the clinical profile in the table; the original Drossman (FBDSI) and Francis (IBS-SSS) instrument papers would be needed to add the scoring. Do not reconstruct them from memory.
+> [[rome-v-2026-dgbi|Rome V]] gives the FBDSI / IBS-SSS severity cut-points but not their item weights; assign the stratum from the clinical profile in the table.
 
 - Impact on QoL, work, and food avoidance more clinically meaningful than RCT global response metrics
 
@@ -78,7 +78,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 
 >50% of patients change predominant subtype over 1 year — re-classify periodically.
 
-> **Decision gap (corpus-blocked):** subtyping runs entirely on the Bristol Stool Form Scale, but **no ingested source prints the 7 Bristol types** — the corpus uses the scale without defining it. The gap and what would close it are documented on [[chronic-constipation]]; do not reconstruct the types from memory.
+> Subtyping runs entirely on the Bristol Stool Form Scale; the 7 Bristol types are not reproduced here or on [[chronic-constipation]].
 
 ---
 

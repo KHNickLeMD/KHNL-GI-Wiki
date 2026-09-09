@@ -170,7 +170,7 @@ The periendoscopic framework applies to patients undergoing **scheduled, electiv
 - Previous thromboembolism **during a prior temporary interruption of a VKA**.
 - Certain surgery types — cardiac valve replacement, carotid endarterectomy, major vascular surgery.
 
-> **Decision gap — the score components are not in the ingested source.** ACG/CAG 2022 stratifies on **CHADS2** and **CHA2DS2-VASc** bands but never prints either score's items or point values, so the band cannot be computed from this page or from the guideline. Closing it needs the original score derivations (Gage 2001 for CHADS2; Lip 2010 / *Chest* 2010 for CHA2DS2-VASc), neither of which is in `raw/`. Do not fill from memory.
+> ACG/CAG 2022 stratifies on **CHADS2** and **CHA2DS2-VASc** bands but never prints either score's items or point values; compute the score from the original derivations (Gage 2001 for CHADS2; Lip 2010 / *Chest* 2010 for CHA2DS2-VASc).
 
 ### Low Thrombotic Risk Patients
 

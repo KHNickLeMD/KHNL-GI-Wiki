@@ -57,7 +57,7 @@ Both preferred over serology ([[acg-2017-hp-guidelines]], Strong / Moderate):
 1. **Urea breath test (UBT)** — sensitivity 88–95%, specificity 95–100%
 2. **Stool antigen test (SAT)** — sensitivity ~94%, specificity ~97%
 
-> ⚠ **These operating characteristics are not currently traceable to an ingested source.** The ACG 2017 H. pylori PDF is **not in `raw/`**, and [[acg-2024-hp-treatment|ACG 2024]] explicitly "elected not to review standard testing modalities (e.g., fecal antigen testing, breath testing, and serology)" — so it supplies no sens/spec figures either (same caveat carried on [[acg-2017-hp-guidelines]]). Retained pending re-ingestion of the ACG 2017 guideline; **do not restate them from memory elsewhere.**
+> ⚠ **Verify these operating characteristics against the ACG 2017 guideline before quoting them.** [[acg-2024-hp-treatment|ACG 2024]] "elected not to review standard testing modalities (e.g., fecal antigen testing, breath testing, and serology)" and gives no sensitivity/specificity figures.
 
 **Avoid serology** — cannot distinguish active from past infection; low specificity, and it is **never** appropriate for post-treatment testing (antibody levels stay detectable for months to years after successful eradication).
 

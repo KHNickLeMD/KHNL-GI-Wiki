@@ -197,7 +197,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 - **Read the ordering carefully — it is not monotonic.** FIb (oozing) carries a *lower* post-hemostasis rebleeding rate than FIIa (nonbleeding visible vessel); active spurting (FIa) is significantly higher than oozing. Grouping "spurting + oozing" as one active-bleeding category, as older trials did, hides this ([[acg-2025-egd-quality]]).
 - **Actionable split:** FIa / FIb / FIIa → endoscopic hemostatic therapy (QI 14, Strong/1A, target >90%). FIIc / FIII → no endoscopic therapy. FIIb → irrigate vigorously to expose the underlying stigma; if the clot resists, no recommendation could be reached (see above).
 - **Definition caveat:** "the definition of oozing may vary widely among endoscopists"; some trials require continuous bleeding over 5 minutes of observation to call it active oozing ([[acg-2021-ugib]]).
-- ⚠ **Image gap — tooling, not corpus (corrected 2026-09-03).** [[acg-2025-egd-quality|ACG/ASGE 2025]] prints no Forrest figure, but [[aga-2024-upper-endoscopy-quality|AGA 2024]] does: its **Figure 2, "Endoscopic classification systems for selected upper gastrointestinal pathology,"** depicts the Forrest classes alongside LA, Prague, Paris, Hill, and EREFS. Per the Style Guide's endoscopic-appearance rule this page should embed the Forrest panel — blocked only because no figure-capture tool is available in this environment (`pdfimages`/`pdftoppm` not permitted; PyMuPDF not installed). Capture it; do not draw or source it from outside the wiki.
+- [[aga-2024-upper-endoscopy-quality|AGA 2024]] **Figure 2, "Endoscopic classification systems for selected upper gastrointestinal pathology,"** depicts the Forrest classes alongside LA, Prague, Paris, Hill, and EREFS; [[acg-2025-egd-quality|ACG/ASGE 2025]] prints no Forrest figure.
 - **Adherent clot:** high-dose PPI alone is a reasonable option when the clot resists irrigation.
 
 ### Step 6: Choice of Endoscopic Hemostatic Therapy (Ulcer Bleeding)
@@ -289,7 +289,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 | Stigmata of recent hemorrhage and/or presence of blood on endoscopy | 0, 2 |
 
 - **Requires endoscopic evaluation to determine the full score** — it is *not* a pre-endoscopic triage tool, unlike GBS and AIMS65. Predicts risk of additional bleeding and death in hospitalized patients.
-- ⚠ **Partial decision gap — still not computable.** The corpus now gives the component list and the point values *available* per component, but **not the cutpoints that assign a given age, blood pressure or comorbidity to a specific point value**. A full Rockall score therefore still cannot be calculated from ingested sources; the primary Rockall paper is not in `raw/`. **Do not infer the cutpoints.** *(Remaining corpus blocks: GAHS/ABIC, CTSI, Curaçao. **Corrected 2026-08-31:** Tokyo TG18 is **not** corpus-blocked — it is ingested ([[tg18-2018-cholangitis-flowchart]]) with the Grade I/II/III criteria on [[acute-cholangitis]]. **Corrected 2026-09-03:** LA grade is a **figure-capture** block, not a corpus block — the criteria are printed as figures in [[acg-2025-egd-quality]] and [[aga-2024-upper-endoscopy-quality]]. See [[upper-endoscopy]].)*
+- ⚠ **Not fully computable from this page.** The guidelines give the component list and the point values *available* per component, but **not the cutpoints that assign a given age, blood pressure or comorbidity to a specific point value** — those are in the primary Rockall paper. *(The same limitation applies to GAHS/ABIC, CTSI, and Curaçao. Tokyo TG18 Grade I/II/III criteria are on [[acute-cholangitis]]; LA grade criteria are printed as figures in [[acg-2025-egd-quality]] and [[aga-2024-upper-endoscopy-quality]] — see [[upper-endoscopy]].)*
 
 ### AIMS65 Score
 
@@ -304,7 +304,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 | **S** | Systolic BP | **<100 mm Hg** | 0, 1 |
 | **65** | Age | **>65 years** | 0, 1 |
 
-ᵇ ⚠ **Unit reproduced verbatim, and it is internally inconsistent.** [[aga-2020-nvugib-endoscopic-therapies]] Table 1 prints *"Albumin (<3 mg/dL)"* exactly as shown (verified by extraction). Serum albumin is reported in **g/dL**, so a <3 mg/dL cutoff is not a value any lab returns — this is a unit error in the published table, not in the transcription. **Do not apply the threshold literally, and do not silently rewrite it**: the AIMS65 derivation paper is not in `raw/`, so the corpus cannot confirm the intended unit. Ingesting Saltzman et al. 2011 would close it.
+ᵇ ⚠ **Unit reproduced verbatim, and it is internally inconsistent.** [[aga-2020-nvugib-endoscopic-therapies]] Table 1 prints *"Albumin (<3 mg/dL)"* exactly as shown. Serum albumin is reported in **g/dL**, so a <3 mg/dL cutoff is not a value any lab returns — this is a unit error in the published table. **Do not apply the threshold literally**; confirm the intended unit against the AIMS65 derivation paper (Saltzman et al. 2011).
 
 - **Inpatient mortality by score:** 0 → **0.3%**, 1 → **3.2%**, 2 → **5.3%**, 3 → **10.3%**, 4 → **16.5%**, 5 → **24.5%**.
 - **Can be calculated pre-endoscopy** and is easy to calculate, but is **less sensitive than Glasgow-Blatchford and Rockall** ([[aga-2020-nvugib-endoscopic-therapies]]).

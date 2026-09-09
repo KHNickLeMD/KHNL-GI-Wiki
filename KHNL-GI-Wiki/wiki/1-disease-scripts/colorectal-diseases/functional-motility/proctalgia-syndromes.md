@@ -42,7 +42,7 @@ sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi]
 
 ## Differential Diagnosis
 
-*Workup of the pelvic-floor limb — the ARM/BET evaluation that decides biofeedback eligibility in levator ani syndrome — is on [[defecation-disorders]]. No diagnostic schema for anorectal pain itself exists yet in the wiki; that workup is history + DRE, with the escalation steps under [[#Diagnostics]] below.*
+*Workup of the pelvic-floor limb — the ARM/BET evaluation that decides biofeedback eligibility in levator ani syndrome — is on [[defecation-disorders]]. There is no dedicated diagnostic schema for anorectal pain itself; that workup is history + DRE, with the escalation steps under [[#Diagnostics]] below.*
 
 | Condition | Key Features |
 |-----------|-------------|

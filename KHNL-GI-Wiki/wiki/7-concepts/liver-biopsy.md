@@ -62,7 +62,7 @@ The AASLD 2009 paper predates routine EUS-guided liver biopsy and does not addre
 | Diagnostically adequate EUS-guided liver biopsy (indicator 8) | **≥85%** | 1B — Strong / Moderate |
 | Clinically significant bleeding after EUS liver biopsy (indicator 19) | **<5%** | 1C¹ — Strong / Low |
 
-> **Corpus gap.** No ingested source states the *technique* of EUS-LB (needle gauge/type, number of passes, which lobe(s), portal-tract yield) or compares it head-to-head with the percutaneous or transvenous routes. Claims to that effect were removed at the 2026-08-30 lint as untraceable to a source. A dedicated EUS-guided liver biopsy guideline or the ASGE technology review would be needed.
+> The guidelines cited here do not state the *technique* of EUS-LB (needle gauge/type, number of passes, which lobe(s), portal-tract yield) or compare it head-to-head with the percutaneous or transvenous routes; see the ASGE technology review on EUS-guided liver biopsy for those.
 
 ## Pre-Procedure Coagulation Assessment
 A central message: **conventional coagulation tests poorly predict post-biopsy bleeding.** There is **no PT-INR or platelet count cutoff** at/above which adverse bleeding can be reliably predicted (Rec 18, Class I/C). Standard US practice often withholds percutaneous biopsy at **PT-INR >1.5**, but the evidence base is weak, and the PT-INR is derived from coumadin-treated reference ranges that don't apply to the rebalanced hemostasis of liver disease (see [[cirrhosis-hemostasis]]).

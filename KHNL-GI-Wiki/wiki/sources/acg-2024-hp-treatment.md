@@ -104,7 +104,7 @@ Susceptibility-guided therapy is strongly advocated before using clarithromycin-
 
 - Major update to [[helicobacter-pylori-infection]] disease-script (replaces 2017-based treatment section)
 - Updates [[bismuth-quadruple-therapy]] concept page (now Strong recommendation)
-- New concept pages needed: [[vonoprazan]] (stub), [[vonoprazan|pcab]] (stub)
+- Related concept pages: [[vonoprazan]], [[vonoprazan|pcab]]
 - Supersedes [[acg-2017-hp-guidelines]] for treatment recommendations
 
 ## Contradictions / Open Questions

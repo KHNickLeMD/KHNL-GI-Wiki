@@ -20,7 +20,7 @@ sources: [aga-2023-acute-hepatic-porphyria]
 ## Dosing
 
 - **Route/interval:** subcutaneous, **monthly**.
-  > **Gap — mg/kg dose not in the ingested corpus.** [[aga-2023-acute-hepatic-porphyria]] specifies only "monthly subcutaneous givosiran" and never states a weight-based dose (contrast [[hemin]], where the CPU gives 3–4 mg/kg/d). FDA labeling or the ENVISION phase 3 trial report would be needed.
+  > [[aga-2023-acute-hepatic-porphyria]] specifies only "monthly subcutaneous givosiran" and never states a weight-based dose (contrast [[hemin]], where the CPU gives 3–4 mg/kg/d); take the mg/kg dose from FDA labeling or the ENVISION phase 3 trial report.
 
 ## Cautions
 

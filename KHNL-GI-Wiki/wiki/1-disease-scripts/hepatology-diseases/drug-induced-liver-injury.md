@@ -48,7 +48,7 @@ Corollary: if drug-induced hepatocellular injury causes [[jaundice]], **~1 in 10
 
 **Outcome benchmarks** ([[acg-2021-dili]]): outcomes of idiosyncratic DILI are relatively favorable — only ~10% reach the ALF threshold (coagulopathy + encephalopathy) and <20% develop chronic liver injury. Once DILI causes ALF the prognosis is poor: **40% require liver transplant, 42% die**; advanced coma grade and high MELD predict poor outcome. In the US ALF Study Group, 11% of ALF cases were adjudicated as DILI, with 3-week transplant-free survival of only 27%.
 
-> ⚠ **Decision gap — no formal DILI severity grading scale is in an ingested source.** The DILIN 1–5 severity grades are referenced widely in practice but neither [[acg-2021-dili]] nor [[aasld-2022-dili]] reproduces the grade definitions. (An earlier version of this page carried unsourced grade definitions; they were removed 2026-08-14.) The **original DILIN severity-scale paper** would be needed to add them.
+> ⚠ **No formal DILI severity grading scale is reproduced here.** The DILIN 1–5 severity grades are referenced widely in practice, but neither [[acg-2021-dili]] nor [[aasld-2022-dili]] prints the grade definitions; they are in the original DILIN severity-scale paper.
 
 ### Classification / Typing
 
@@ -188,7 +188,7 @@ CTCAE grade criteria (ALT / bilirubin cutoffs) and the grade-directed hold/stero
 - **AASLD guidance statement 57:** **annual liver elastography** is recommended to monitor hepatotoxicity of drugs like methotrexate that cause *silent fibrosis* — explicitly **not** generalizable to most other DILI-causing drugs.
 - 2021 ACR guidance restricts methotrexate in suspected [[nafld-masld|NAFLD]] to those with **normal liver tests and no advanced fibrosis (stage 3–4)** on noninvasive testing.
 - Liver biopsy otherwise reserved for abnormal elastography or persistent liver test elevations.
-- ⚠ **Decision gap:** [[acg-2021-dili]] names the **Roenigk Classification System** as the recognized histologic grading system for methotrexate-induced fibrosis/fatty change, but **neither ingested source gives the Roenigk grade criteria.** The original Roenigk paper would be needed.
+- ⚠ [[acg-2021-dili]] names the **Roenigk Classification System** as the recognized histologic grading system for methotrexate-induced fibrosis/fatty change but does not give the grade criteria; they are in the original Roenigk paper.
 
 ### Isoniazid — monitoring ([[aasld-2022-dili]])
 

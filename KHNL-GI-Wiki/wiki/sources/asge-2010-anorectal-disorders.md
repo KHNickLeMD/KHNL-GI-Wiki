@@ -18,7 +18,7 @@ sources: []
 ## Summary
 ASGE position statement on the endoscopic role across four benign anorectal disorders: chronic radiation proctopathy, [[anal-fissure|anal fissure]], internal [[hemorrhoids|hemorrhoids]], and [[fecal-incontinence|fecal incontinence]]. For radiation proctopathy, APC is suggested first-line endoscopic therapy. For hemorrhoids, rubber band ligation (RBL) is the preferred office procedure for bleeding/prolapsing internal hemorrhoids failing conservative care. For fecal incontinence, all patients should have flexible sigmoidoscopy or colonoscopy as indicated by age and risk, with endoanal ultrasound (EAUS) or MRI complementing anorectal manometry when results will change management.
 
-Most of this 2010 guidance is now superseded or corroborated by newer ingested sources — [[acg-2021-anorectal-disorders|ACG 2021 benign anorectal disorders]] (hemorrhoids, fissure, FI) and [[asge-2019-radiation-proctopathy|ASGE 2019 radiation proctopathy]] — which the wiki pages already use as primary references.
+Most of this 2010 guidance is now superseded or corroborated by newer sources — [[acg-2021-anorectal-disorders|ACG 2021 benign anorectal disorders]] (hemorrhoids, fissure, FI) and [[asge-2019-radiation-proctopathy|ASGE 2019 radiation proctopathy]] — which the disease pages use as primary references.
 
 ## Key Findings / Claims
 - Mild radiation proctopathy found incidentally often resolves spontaneously — do not treat absent symptoms/anemia.

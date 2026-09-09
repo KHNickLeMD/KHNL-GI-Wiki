@@ -30,7 +30,7 @@ The two societies gate tegaserod differently — and **ACG's gate is the stricte
 | [[aga-2022-ibs-c\|AGA 2022]] | Women <65 y **without a history of CV ischemic events** (MI, stroke, TIA, or angina) — the FDA limited-reapproval wording; **no risk-factor count** | Conditional, moderate certainty |
 
 - **Two separate gates, both must clear under ACG:** no prior CV ischemic event **and** ≤1 CV risk factor. AGA states only the first; ACG adds the second and makes ≥2 risk factors an outright contraindication (see below).
-- **Cardiovascular risk factors** that define the count ([[aga-2022-ibs-c]]): hypertension, tobacco use, diabetes, hypercholesterolemia, **age ≥55 y**, [[obesity]]. *(ACG defines its own list in Supplemental Table 2, which is not in the ingested corpus; AGA's list is what this page states.)*
+- **Cardiovascular risk factors** that define the count ([[aga-2022-ibs-c]]): hypertension, tobacco use, diabetes, hypercholesterolemia, **age ≥55 y**, [[obesity]]. *(ACG defines its own list in its Supplemental Table 2, not reproduced here; this page states AGA's list.)*
 - **Sequencing matters** — tegaserod is a post-secretagogue option under ACG, not a first-line IBS-C drug.
 - Regulatory history: FDA-approved 2002 (short-term IBS-C in women) and 2004 ([[chronic-idiopathic-constipation|CIC]] in men and women <65); **withdrawn 2007** after a retrospective analysis showed a small excess of CV ischemic events; **re-approved 2019** under the limited indication above.
 

@@ -15,7 +15,7 @@ sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-stricture
 - **Polysomy** is the FISH abnormality that carries the association with carcinoma in the same ~500-patient series ([[acg-2023-biliary-strictures]]).
 - Applied to the same specimen as routine cytology — no additional pass or device is required beyond the standard brushing.
 
-> **Gap — the cytogenetic criteria for calling polysomy are not in an ingested source.** Neither [[acg-2023-biliary-strictures|ACG 2023]] nor [[asge-2023-indeterminate-biliary-strictures|ASGE 2023]] states how many cells or which probe gains define a polysomic result, so "abnormal FISH" cannot be adjudicated from this wiki. The primary FISH validation study would need to be ingested.
+> Neither [[acg-2023-biliary-strictures|ACG 2023]] nor [[asge-2023-indeterminate-biliary-strictures|ASGE 2023]] states how many cells or which probe gains define a polysomic result; the cytogenetic criteria for calling polysomy are in the primary FISH validation studies, not on this page.
 
 ## Test Performance
 

@@ -20,7 +20,7 @@ sources: []
 
 ASGE guideline against reflexive, protocol-driven laboratory testing before endoscopy. Most outcomes data are extrapolated from the surgical/anesthesia literature, where routine preoperative testing rarely alters management: unsuspected chemistry abnormalities appear in only 0.2-1.0% of healthy patients and do not change anesthetic or procedural care. When tests are ordered on the basis of history/exam, up to 30% are abnormal and often change management — arguing for **selective, risk-based testing** rather than universal panels.
 
-The guideline sets the wiki's framework for pre-endoscopy labs: an abnormal PTT does not reliably predict periprocedural bleeding; coagulation studies, chest radiography, ECG, blood type/screen, hemoglobin/hematocrit, urinalysis, and chemistries should be individualized to patient and procedural risk. It is referenced by other ASGE procedural documents (eg, enteral feeding) that state "routine laboratory testing before endoscopy is not indicated."
+The guideline sets the framework for pre-endoscopy labs: an abnormal PTT does not reliably predict periprocedural bleeding; coagulation studies, chest radiography, ECG, blood type/screen, hemoglobin/hematocrit, urinalysis, and chemistries should be individualized to patient and procedural risk. It is referenced by other ASGE procedural documents (eg, enteral feeding) that state "routine laboratory testing before endoscopy is not indicated."
 
 ## Key Findings / Claims
 
@@ -48,4 +48,4 @@ The guideline sets the wiki's framework for pre-endoscopy labs: an abnormal PTT 
 
 ## Contradictions / Open Questions
 
-- No direct conflict with existing wiki content. The selective-testing principle aligns with the ASGE sedation and enteral-feeding documents already ingested.
+- No direct conflict; the selective-testing principle aligns with the ASGE sedation and enteral-feeding documents.

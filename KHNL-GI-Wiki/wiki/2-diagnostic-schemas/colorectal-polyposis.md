@@ -128,7 +128,7 @@ Any **one** of the following makes the clinical diagnosis, as reproduced in [[ac
 - **Any number** of serrated polyps proximal to the sigmoid colon in an individual with a **first-degree relative with serrated polyposis**; **OR**
 - **>20 serrated polyps of any size**, distributed throughout the large intestine
 
-> **Gap:** WHO revised the SPS criteria in 2019 (rectal polyps counted, thresholds changed). No ingested source carries the revision — the criteria above are the pre-2019 version as printed in ACG 2015. Also flagged on [[serrated-polyposis-syndrome]].
+> WHO revised the SPS criteria in 2019 (rectal polyps counted, thresholds changed); the criteria above are the pre-2019 version as printed in ACG 2015 — see [[serrated-polyposis-syndrome]].
 
 ---
 

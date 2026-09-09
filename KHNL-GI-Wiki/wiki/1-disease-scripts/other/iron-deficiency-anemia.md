@@ -29,7 +29,7 @@ sources: [aga-2020-ida, aga-2024-ida-management]
 
 - **Iron deficiency (ID):** the most common nutritional deficiency worldwide. **Iron-deficiency anemia (IDA)** = ID with anemia.
 - **Diagnostic marker — ferritin.** Diagnose ID with a **ferritin cutoff <45 ng/mL (µg/L)** in an anemic patient — AGA 2020 recommends 45 over 15 ng/mL (**Strong recommendation, high certainty**), chosen to maximize sensitivity for iron deficiency at acceptable specificity. [[aga-2020-ida]]
-  - **Caveat (inflammation):** ferritin is an acute-phase reactant. Patients with inflammatory conditions can have ID/IDA despite ferritin **>45 (usually <100) ng/mL**. Confirm in this setting with **transferrin saturation (TSAT), soluble transferrin receptor (sTfR), or reticulocyte hemoglobin equivalent** *(neither ingested AGA source gives a numeric cutoff for these three confirmatory tests)*. [[aga-2024-ida-management]]
+  - **Caveat (inflammation):** ferritin is an acute-phase reactant. Patients with inflammatory conditions can have ID/IDA despite ferritin **>45 (usually <100) ng/mL**. Confirm in this setting with **transferrin saturation (TSAT), soluble transferrin receptor (sTfR), or reticulocyte hemoglobin equivalent** *(neither AGA guideline gives a numeric cutoff for these three confirmatory tests)*. [[aga-2024-ida-management]]
 - After ID is identified, undertake an etiologic work-up: dietary iron intake, menstrual losses (premenopausal women), and a search for GI causes of poor absorption or blood loss (including [[helicobacter-pylori-infection|*H. pylori*]]).
 
 ### Severity Assessment

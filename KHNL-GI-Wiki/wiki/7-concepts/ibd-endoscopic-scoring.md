@@ -100,7 +100,7 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 | **Affected surface** | None | <50% of segment | 50–75% of segment | >75% of segment |
 | **Narrowing** | None | Single, passable by scope | Multiple, passable by scope | Not passable |
 
-> ⚠ **Fidelity flag — Table 2 as published is internally incomplete.** Verbatim: *"Ulcers: 0 if absent, 1 if between 0.1–0.5 cm, 2 if larger than 2 cm"* — only 3 of the 4 levels are printed, the 0.5–2 cm band is absent, and ">2 cm" carries **2 points, not 3**, as published. The **Ulcerated surface** row jumps from "10–20%" (2) to ">30%" (3), leaving 20–30% unassigned. The four variables are stated elsewhere in the same source to be scored **0–3 in the same 5 ileocolonic segments**, so a level is missing as printed. Reproduced as published; the missing bands are **not** supplied from outside sources.
+> ⚠ **Table 2 as published is internally incomplete.** Verbatim: *"Ulcers: 0 if absent, 1 if between 0.1–0.5 cm, 2 if larger than 2 cm"* — only 3 of the 4 levels are printed, the 0.5–2 cm band is absent, and ">2 cm" carries **2 points, not 3**, as published. The **Ulcerated surface** row jumps from "10–20%" (2) to ">30%" (3), leaving 20–30% unassigned. The four variables are stated elsewhere in the same source to be scored **0–3 in the same 5 ileocolonic segments**, so a level is missing as printed. Reproduced as published; the missing bands are not filled in here.
 
 - **Stricture localization rules (novel simplified CD score):** strictures confined to the **ileocecal valve are counted in the ileum score**; **non-intubation of the ileum without stricture** is scored "not assessed"; **every stricture should be scored before endoscopic therapeutic management**.
 - **Reliability (central reading):** intraobserver ICC 0.91 (95% CI 0.87–0.94); interobserver ICC 0.83 (95% CI 0.75–0.89).
@@ -109,7 +109,7 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 
 - Modified Multiplier of the SES-CD — assigns **higher weight to certain features and locations** shown to be less likely to heal after 1 year of biologic therapy; established numerical cutoffs prognostic for 1-year endoscopic and clinical remission.
 - Narula et al: significantly more disease progression with **SES-CD ≥4** than <4; **MM-SES-CD <22.5** was the best threshold for predicting disease progression.
-- ⚠ **Decision gap — the multipliers and severity bands are not in this source.** The Update names the tool and the <22.5 progression threshold but gives **no** per-feature/per-location weights, no total range, and no severity-band cutoffs, so MM-SES-CD cannot be calculated or interpreted from this page. Closing it requires ingesting the MM-SES-CD derivation paper (Narula et al, *J Crohns Colitis* 2022;16:1011–1019) — **do not supply the weights from memory.**
+- The Update names the tool and the <22.5 progression threshold but gives no per-feature/per-location weights, total range, or severity-band cutoffs; for those see the MM-SES-CD derivation paper (Narula et al, *J Crohns Colitis* 2022;16:1011–1019).
 
 ## Modified Rutgeerts Score
 

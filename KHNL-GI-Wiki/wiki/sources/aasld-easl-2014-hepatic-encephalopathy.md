@@ -93,7 +93,7 @@ Treatment strategy centers on a "four-pronged approach" for overt HE: (1) clinic
 
 ## Relevance to Wiki
 
-- Primary entity page: [[hepatic-encephalopathy]] — upgraded from stub to full concept page with all 33 recommendations
+- Primary entity page: [[hepatic-encephalopathy]] — carries all 33 recommendations
 - Supports: [[portal-hypertension]] (HE as decompensation event; TIPS-related HE), [[acute-on-chronic-liver-failure]] (brain failure GS 6–11 in AASLD 2024 ACLF are consistent with this guideline's framework), [[aki-in-cirrhosis]] (hyponatremia + AKI as HE precipitants), [[rifaximin]] (secondary prophylaxis indication), [[liver-transplantation]] (HE as LT indication)
 
 ---

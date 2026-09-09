@@ -146,7 +146,7 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
 - **Preformed DSA of potential clinical significance was tentatively defined as MFI ≥5,000** at the 2015 Banff Conference — but the positivity cutoff varies by laboratory, so the optimal range is undetermined. This is why Rec 55 declines routine pre-transplant testing.
 - HBsAg-negative recipient of an HBcAb-positive graft: transmission risk **up to 75%**, higher if HBsAb- and HBcAb-negative, lower if HBsAb-positive. **No HBIG requirement.** De novo HBV infection → lifelong nucleos(t)ide analogue.
 
-*Note: recommendations 58–69 (chronic hepatitis B/D, recurrent HCV, and recurrent disease management) are also present in the ingested PDF and are summarized in the sections below.*
+*Note: recommendations 58–69 (chronic hepatitis B/D, recurrent HCV, and recurrent disease management) are summarized in the sections below.*
 
 ## Relevance to Wiki
 
@@ -158,7 +158,7 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
 - Updates [[alcohol-associated-liver-disease]] disease script: post-LT recurrence monitoring, pharmacotherapy, re-LT criteria
 - Updates [[nafld-masld]] disease script: MASLD as growing re-LT indication, post-LT recurrence management
 - Updates [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]]: post-LT recurrence recommendations
-- Creates new concept stub: [[antibody-mediated-rejection-liver-transplant]]
+- Concept page: [[antibody-mediated-rejection-liver-transplant]]
 
 ## Contradictions / Open Questions
 

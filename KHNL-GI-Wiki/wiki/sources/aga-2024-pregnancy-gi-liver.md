@@ -142,4 +142,4 @@ Hepatobiliary: **ERCP** for urgent indications (choledocholithiasis, cholangitis
 - **HBV antiviral start timing:** this CPU says start tenofovir "beginning in the third trimester" for HBV DNA >200,000 IU/mL; [[aasld-idsa-2025-chb-treatment]] specifies **gestational week 28**. No true conflict (week 28 ≈ early 3rd trimester); the higher-priority/newer AASLD 2025 week-28 figure is what [[chronic-hepatitis-b]] asserts.
 - **HCV DAA in pregnancy:** case-by-case per IDSA/AASLD here aligns with [[aasld-idsa-2023-hcv]]; interferon/ribavirin remain contraindicated.
 - **ICP delivery timing:** AGA 2024 relays SMFM/EASL thresholds (≥100 vs <100 μmol/L); the 2016 ACG page phrased delivery simply as "~37 weeks." AGA 2024 (newer) bile-acid-stratified timing supersedes on [[liver-disease-in-pregnancy]] and [[intrahepatic-cholestasis-of-pregnancy]].
-- No figure/algorithm required cropping (pymupdf unavailable); Table 2 (radiation measures) and Table 3 (ICP/HELLP/AFLP) recreated as Markdown.
+- Table 2 (radiation measures) and Table 3 (ICP/HELLP/AFLP) recreated as Markdown.

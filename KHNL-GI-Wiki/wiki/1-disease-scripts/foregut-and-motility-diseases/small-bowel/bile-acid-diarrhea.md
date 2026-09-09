@@ -7,7 +7,7 @@ updated: 2026-09-06
 sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ostomies]
 ---
 
-> **No dedicated bile acid diarrhea guideline has been ingested.** Everything below is what the ingested guidelines say about **bile acid malabsorption (BAM)** — principally the BAM section of [[acg-2020-ibs]]. Numeric test cutoffs (SeHCAT % retention, serum C4, FGF-19) are **not stated in any ingested source** and are deliberately absent rather than supplied from memory (see [[#Diagnostics]]).
+> **This page draws on the bile acid malabsorption (BAM) sections of general GI guidelines** — principally [[acg-2020-ibs]] — rather than a dedicated bile acid diarrhea guideline. Numeric test cutoffs (SeHCAT % retention, serum C4, FGF-19) are not given in those guidelines (see [[#Diagnostics]]).
 
 ## Contents
 - [[#Assessment]]
@@ -34,7 +34,7 @@ sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ost
 
 ### Severity Assessment
 
-- **No severity score, stratum, or grading system for bile acid diarrhea exists in any ingested source** — severity is judged clinically (stool frequency/consistency, volume depletion, and, in ostomates, output volume). No threshold is asserted here because none is sourced.
+- **The guidelines give no severity score, stratum, or grading system for bile acid diarrhea** — severity is judged clinically (stool frequency/consistency, volume depletion, and, in ostomates, output volume).
 
 ### Classification / Typing
 
@@ -46,7 +46,7 @@ sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ost
 | **Altered timing of bile delivery** | **Cholecystectomy** changes the timing of bile delivery to the small intestine — a potentially important cause of worsening IBS symptoms, since IBS carries an increased risk of cholecystectomy (**OR 2.09, 95% CI 1.89–2.31**) |
 | **Idiopathic** | Differential potential for bile acid reabsorption between individuals |
 
-> **Gap:** the commonly used **Type 1 / Type 2 / Type 3** nomenclature for these mechanisms is **not defined in any ingested source** and is therefore not asserted here. A dedicated bile acid diarrhea review/guideline would be needed.
+> The commonly used **Type 1 / Type 2 / Type 3** nomenclature for these mechanisms is not defined in [[acg-2020-ibs]]; see a dedicated bile acid diarrhea review for it.
 
 ## Differential Diagnosis
 
@@ -69,7 +69,7 @@ sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ost
 
 All rows from [[acg-2020-ibs]].
 
-> **Decision gap (cannot be closed from ingested sources):** the operative **numeric cutoffs** — SeHCAT % retention at 7 days, serum C4 (ng/mL), FGF-19 (pg/mL), 48-hour fecal bile acid excretion — are not given in any ingested source. Do not infer them; a dedicated bile acid diarrhea source is required.
+> The operative **numeric cutoffs** — SeHCAT % retention at 7 days, serum C4 (ng/mL), FGF-19 (pg/mL), 48-hour fecal bile acid excretion — are not given in [[acg-2020-ibs]]; take them from the local laboratory's reference ranges or a dedicated bile acid diarrhea source.
 
 ## Therapeutics
 
@@ -81,12 +81,12 @@ All rows from [[acg-2020-ibs]].
 |---|---|---|
 | **Colestipol** | Open-label; dose not stated in the guideline | 15/27 (**55.5%**) responders by study definition; significant improvement in IBS severity scores in IBS-D subjects assessed for BAM by SeHCAT, FGF-19 and C4 |
 | **Colesevelam** | **1,875 mg daily**, open-label, n = 12 | Increased bile acid retrieval from stool; **modest reduction in Bristol Stool Score (P = 0.043)** |
-| **Cholestyramine** | Dose not stated in ingested sources | Named (with colesevelam) as a **bile salt–binding agent** among the drugs used to manage diarrhea in [[fecal-incontinence\|fecal incontinence with diarrhea]] [[acg-2021-anorectal-disorders]] |
+| **Cholestyramine** | Dose not stated in the guidelines | Named (with colesevelam) as a **bile salt–binding agent** among the drugs used to manage diarrhea in [[fecal-incontinence\|fecal incontinence with diarrhea]] [[acg-2021-anorectal-disorders]] |
 
 - **In ostomates:** bile acid diarrhea is treated as one of the reversible causes of chronic high ostomy output — evaluate for it before escalating antimotility/antisecretory therapy (see [[ostomy-management]]). [[aga-2023-ostomies]]
 - **Evidence quality caveat:** the sequestrant data above are **open-label, single-centre, and small**; ACG explicitly calls for methodologically rigorous, adequately powered trials.
 
-> **Gaps:** sequestrant **dosing and titration for bile acid diarrhea itself**, duration of therapy, monitoring (fat-soluble vitamins), and drug-interaction spacing are **not covered by any ingested source**.
+> Sequestrant **dosing and titration for bile acid diarrhea itself**, duration of therapy, monitoring (fat-soluble vitamins), and drug-interaction spacing are not covered by these guidelines.
 
 ## See Also
 

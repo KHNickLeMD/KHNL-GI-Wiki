@@ -33,7 +33,7 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-
 
 **Location:** almost **90% posterior midline**; can also occur in the **anterior midline (19%)**. **Lateral or multiple fissures → suspect a secondary cause** — Crohn's disease, tuberculosis, syphilis, HIV/AIDS, dermatologic conditions (e.g. psoriasis), or [[anal-cancer-screening|anal carcinoma]].
 
-> **Fidelity note (fixed 2026-09-02):** the previously stated "~10% anterior, more common in women" was unsourced — ACG 2021 gives no anterior percentage and no sex association; the **19%** figure comes from [[asge-2010-anorectal-disorders]].
+> ACG 2021 gives no anterior percentage and no sex association; the **19%** figure comes from [[asge-2010-anorectal-disorders]].
 
 ### Severity Assessment
 
@@ -73,7 +73,7 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-
 - **Timing:** temporarily **deferring [[colonoscopy]] until after initial treatment of the fissure** avoids the discomfort of bowel preparation and scoping an acutely painful anal canal. [[asge-2010-anorectal-disorders]]
 - **Assessing sphincter tone before surgery:** ACG 2021 states the determination of whether anal pressures are high "is **usually made by digital examination only**" — the guideline does **not** position [[anorectal-manometry|anorectal manometry]] as a routine fissure test. This matters because low/normal pressure changes the operation (see Therapeutics).
 
-> **Sourcing gap:** no ingested source describes examination under anesthesia, a biopsy rule for the non-healing fissure, or an age threshold for first-presentation colonoscopy in fissure. Prior versions of this page asserted all three; they have been removed as unsourced. A colorectal-surgery guideline (e.g. ASCRS) would be needed to restore them.
+> The cited guidelines do not address examination under anesthesia, a biopsy rule for the non-healing fissure, or an age threshold for first-presentation colonoscopy in fissure; see a colorectal-surgery guideline (e.g. ASCRS) for these.
 
 ---
 
@@ -84,13 +84,13 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-
 - **Almost half of all patients with an acute fissure heal on first-step conservative therapy** — **sitz baths + a fiber supplement such as psyllium**, with or without **topical anesthetics or anti-inflammatory ointments**. Pain and bleeding relief is achieved with virtually no side effects. [[acg-2021-anorectal-disorders]]
 - **If [[chronic-constipation|constipation]] is present:** stool softeners, fiber, fluids, and lubricants (mineral oil, flaxseed oil). [[asge-2010-anorectal-disorders]]
 
-> **Dose gap:** no ingested source gives a sitz-bath frequency, a psyllium dose, or a named topical anesthetic agent/strength. Previously stated regimens ("3–4×/day", "lidocaine 5% ointment", "goal Bristol 3–4") were unsourced and have been removed.
+> The cited guidelines do not give a sitz-bath frequency, a psyllium dose, or a named topical anesthetic agent/strength.
 
 ### Chronic Fissure — Medical Management (First Line)
 
 **Topical calcium channel blocker (first-line; Strong recommendation / low quality, [[acg-2021-anorectal-disorders]] Table 9):** *"We recommend that local application of a calcium channel blocker should be the initial medical treatment of chronic anal fissure."* (Consensus score 27.)
 
-- **Agents and concentrations studied:** **diltiazem 2%**, **nifedipine 0.2–0.3%** ([[asge-2010-anorectal-disorders]]) and **nifedipine 0.5%** ([[acg-2021-anorectal-disorders]]). **No study reports a dose escalation**, and no ingested source gives an application frequency or treatment duration for a CCB.
+- **Agents and concentrations studied:** **diltiazem 2%**, **nifedipine 0.2–0.3%** ([[asge-2010-anorectal-disorders]]) and **nifedipine 0.5%** ([[acg-2021-anorectal-disorders]]). **No study reports a dose escalation**, and neither guideline gives an application frequency or treatment duration for a CCB.
 - **Healing 67–90%**; **long-term healing ~70%**.
 - Side effects: **headache in ~20%**; ~**10% stop treatment** because of it. Headache occurs **less frequently than with topical nitrates**.
 - **Diltiazem 2% is preferred to nitroglycerin** — lower incidence of adverse effects. [[acg-2021-anorectal-disorders]]

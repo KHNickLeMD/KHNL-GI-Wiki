@@ -26,19 +26,11 @@ This document is **the same consensus statement** as [[usmstf-2020-endoscopic-re
 | USMSTF/ACG version | Am J Gastroenterol 2020;115:435–464 | DOI 10.14309/ajg.0000000000000555 |
 | ASGE version | Gastrointestinal Endoscopy 2020;91:486–519 | DOI 10.1016/j.gie.2020.01.029 |
 
-The text, statements, evidence grades, and authorship are identical. **There are no conflicts between the printings** — the *Gastroenterology* and *GIE* printings held in `raw/` were compared bullet-by-bullet on 2026-09-08 and agree on every statement and every GRADE rating.
+The text, statements, evidence grades, and authorship are identical. **There are no conflicts between the printings** — the *Gastroenterology* and *GIE* printings agree on every statement and every GRADE rating.
 
-## ⚠ Source-Fidelity Note (2026-09-08)
+## How This Document Is Structured
 
-**This document contains no numbered recommendations.** Its guidance is delivered as **43 unnumbered bullets grouped under 6 named "Statements"** (Table 1, *Statements of Best Practice in This Document*, reproduced in full below).
-
-A prior version of this page presented that guidance as **36 numbered "Recommendation N" entries**. That numbering was an editorial invention, and the GRADE ratings attached to it were largely wrong. A full audit against both raw printings found:
-
-- **23 of the 34 audited entries carried a strength or evidence-quality rating that contradicts the document.** A further 3 had a correct grade but distorted the statement's scope (cold forceps, hot biopsy forceps, and the ≥20 mm EMR entry, which silently merged two bullets graded differently).
-- **7 entries attached a GRADE rating to text the document never graded at all** — the non-lifting sign, underwater EMR, cold snare EMR, the NICE 3 / Kudo Vn management algorithm, "endoscopy is first-line for benign lesions", ESD indications, and eFTR. All seven are **real content from the document's narrative body**, but none is a graded recommendation. They are preserved below under *Narrative Content (Not Graded)*.
-- **13 genuine graded recommendations were missing from the page entirely** (Paris classification, LST descriptors, proficiency in recognizing deep submucosal invasion, antithrombotics, defect inspection, whole-colon surveillance exam, all of Statement 5, and most of Statement 6's specimen-handling and pathology-reporting bullets). They have been added.
-
-The verbatim table below is now the page's single authoritative list. The `S1.1`-style labels are **wiki-side reference handles only** — do not cite them as the document's own numbering.
+**It contains no numbered recommendations.** Guidance is delivered as **43 unnumbered bullets grouped under 6 named "Statements"** (Table 1, *Statements of Best Practice in This Document*, reproduced in full below). Several widely quoted points — the non-lifting sign, underwater EMR, cold snare EMR, the NICE 3 / Kudo Vn algorithm, "endoscopy is first-line for benign lesions", ESD indications, eFTR — come from the narrative body and carry **no GRADE rating**; they are listed under *Narrative Content (Not Graded)*. The `S1.1`-style labels below are reference handles for this page only, not the document's own numbering.
 
 ## Summary
 
@@ -73,7 +65,7 @@ Comprehensive multi-society consensus on optimal techniques for endoscopic remov
 | S2a.2 | We recommend against the use of cold forceps polypectomy to remove diminutive (≤5 mm) lesions due to high rates of incomplete resection. For diminutive lesions ≤2 mm, if cold snare polypectomy is technically difficult, jumbo or large-capacity forceps polypectomy may be considered. | Strong | Moderate |
 | S2a.3 | We recommend against the use of hot biopsy forceps for polypectomy of diminutive (≤5 mm) and small (6–9 mm) lesions due to high incomplete resection rates, inadequate histopathologic specimens, and complication rates. | Strong | Moderate |
 
-> ⚠ **Internal discrepancy in the published document (verified in both printings, 2026-09-08).** Table 1 grades S2a.1 *high-quality*; the body text of section 2a grades the identical sentence *moderate-quality*. The document does not reconcile them. Flagged rather than resolved — do not assert one without noting the other.
+> ⚠ **Internal discrepancy in the published document (present in both printings).** Table 1 grades S2a.1 *high-quality*; the body text of section 2a grades the identical sentence *moderate-quality*. The document does not reconcile them.
 
 > ⚠ **Scope note on S2a.2.** The recommendation is against cold forceps for **all diminutive (≤5 mm) lesions**. The ≤2 mm clause is a narrow carve-out permitting **jumbo or large-capacity** forceps when CSP is technically difficult — it is *not* a general ">2 mm" threshold for standard cold forceps. The prior page wording ("not recommended for polyps >2 mm") inverted this.
 

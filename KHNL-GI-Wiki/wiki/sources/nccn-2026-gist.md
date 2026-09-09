@@ -16,7 +16,7 @@ sources: []
 - **DOI:** none (NCCN web publication)
 - **Type:** Guideline (algorithm-based; NCCN categories of evidence — all recommendations category 2A unless otherwise indicated)
 
-> **Note on content & licensing.** NCCN content is copyrighted and its End-User License Agreement prohibits redistribution and use of the content with AI tools. This source page therefore **summarizes and cites** the guideline rather than reproducing its proprietary algorithm pages verbatim. The wiki entity pages built from it are written in original language with NCCN cited as the source. Consult the original NCCN algorithm pages (GIST-1 … and Principles) for the authoritative, citable pathways.
+> **Note on content & licensing.** NCCN content is copyrighted and its End-User License Agreement prohibits redistribution and use of the content with AI tools. This source page therefore **summarizes and cites** the guideline rather than reproducing its proprietary algorithm pages verbatim. The entity pages built from it are written in original language with NCCN cited as the source. Consult the original NCCN algorithm pages (GIST-1 … and Principles) for the authoritative, citable pathways.
 
 ## Summary
 
@@ -36,8 +36,8 @@ Management is risk- and resectability-based. Localized, resectable GISTs are tre
 
 ## Relevance to Wiki
 
-- Creates [[gastrointestinal-stromal-tumor]] (new disease script, ADDT) — the wiki's first dedicated GIST page; resolves links from [[gastric-adenocarcinoma]] and [[esophageal-cancer]] differentials.
-- Connects to [[endoscopic-ultrasound]] (subepithelial-lesion evaluation/sampling), [[upper-endoscopy]] (gastric GISTs), and [[gastroenteropancreatic-neuroendocrine-tumors]] (subepithelial differential). Complements the ACG subepithelial-lesions guideline already in the wiki.
+- Creates [[gastrointestinal-stromal-tumor]] (new disease script, ADDT) — the first dedicated GIST page; resolves links from [[gastric-adenocarcinoma]] and [[esophageal-cancer]] differentials.
+- Connects to [[endoscopic-ultrasound]] (subepithelial-lesion evaluation/sampling), [[upper-endoscopy]] (gastric GISTs), and [[gastroenteropancreatic-neuroendocrine-tumors]] (subepithelial differential). Complements the ACG subepithelial-lesions guideline.
 
 ## Contradictions / Open Questions
 

@@ -34,7 +34,7 @@ Three placebo-controlled RCTs (1 phase 2b, 2 phase 3 — T3MPO-1 n = 307 vs 299 
 **Reading the endpoints:**
 
 - **CSBM responder** (primary in phase 2b) = **increase of ≥1 CSBM/week over baseline for ≥6 of the 12 treatment weeks**.
-- **FDA responder endpoint for IBS-C** (primary in both phase 3 trials) — [[aga-2022-ibs-c]] cites this definition but does **not** print its components; the FDA guidance document would be needed to state them. Do not infer.
+- **FDA responder endpoint for IBS-C** (primary in both phase 3 trials) — [[aga-2022-ibs-c]] cites this definition but does **not** print its components; they are in the FDA IBS guidance document.
 
 | Outcome (12 wk unless noted) | Tenapanor | Placebo | Effect |
 |---|---|---|---|
@@ -52,7 +52,7 @@ Three placebo-controlled RCTs (1 phase 2b, 2 phase 3 — T3MPO-1 n = 307 vs 299 
 - **Diarrhea** — most common AE: **14.8%** vs 2.3% placebo; led to **discontinuation in 6.6%** vs 1.0%.
 - Serious adverse events across the 3 trials: 11 tenapanor vs 7 placebo (diarrhea, abdominal pain, nausea, COPD, panic, osteoarthritis, migraine, depression). **Only the diarrhea SAE was judged "possibly related"** to treatment. **No deaths.**
 
-> **Gaps — not in the ingested corpus.** No ingested source states **contraindications, pediatric limits, or renal/hepatic dose adjustments** for tenapanor. FDA labeling would be needed. [[aga-acg-2023-constipation]] **excluded tenapanor** from its review, so there is still no on-label guideline recommendation in [[chronic-idiopathic-constipation|CIC]] — only the off-label refractory-constipation position above, which carries no dose.
+> The guidelines do not state **contraindications, pediatric limits, or renal/hepatic dose adjustments** for tenapanor; see the FDA label. [[aga-acg-2023-constipation]] **excluded tenapanor** from its review, so there is still no on-label guideline recommendation in [[chronic-idiopathic-constipation|CIC]] — only the off-label refractory-constipation position above, which carries no dose.
 
 ## Place in Therapy
 

@@ -7,7 +7,7 @@ updated: 2026-08-27
 sources: [acg-2015-colon-ischemia, acg-2020-hepatic-mesenteric-circulation]
 ---
 
-> **Partial page — coverage gap.** The ingested sources cover **mesenteric *vein* thrombosis (MVT)** ([[acg-2020-hepatic-mesenteric-circulation]]) and the **AMI-vs-colon-ischemia distinction** ([[acg-2015-colon-ischemia]]). Neither is a dedicated AMI guideline: **arterial AMI** (SMA embolism, SMA thrombosis, nonocclusive mesenteric ischemia) has **no ingested source**, so its diagnostic criteria, revascularization approach, and outcomes are deliberately absent rather than supplied from memory.
+> **Partial page.** This page covers **mesenteric *vein* thrombosis (MVT)** ([[acg-2020-hepatic-mesenteric-circulation]]) and the **AMI-vs-colon-ischemia distinction** ([[acg-2015-colon-ischemia]]). Neither is a dedicated AMI guideline: **arterial AMI** (SMA embolism, SMA thrombosis, nonocclusive mesenteric ischemia) — its diagnostic criteria, revascularization approach, and outcomes — is not covered here; consult a dedicated AMI guideline.
 
 ## Contents
 - [[#Assessment]]
@@ -33,16 +33,16 @@ sources: [acg-2015-colon-ischemia, acg-2020-hepatic-mesenteric-circulation]
 
 ### Severity Assessment
 
-- The severity anchor in the ingested sources is the presence of **bowel ischemia / intestinal ischemia**, which converts chronic venous thrombosis from an observation problem into an [[anticoagulation-gi-bleeding|anticoagulation]] indication (see Therapeutics). [[acg-2020-hepatic-mesenteric-circulation]]
+- The severity anchor in both sources is the presence of **bowel ischemia / intestinal ischemia**, which converts chronic venous thrombosis from an observation problem into an [[anticoagulation-gi-bleeding|anticoagulation]] indication (see Therapeutics). [[acg-2020-hepatic-mesenteric-circulation]]
 - **Red flag from the CI guideline:** when the triad of **hypotension, tachycardia, and abdominal pain is present *without* rectal bleeding, surgical evaluation is urgent.** *(Strong, moderate)* [[acg-2015-colon-ischemia]]
 
 ### Classification / Typing
 
-| Subtype | Ingested-source coverage |
+| Subtype | Coverage on this page |
 |---|---|
 | **Mesenteric vein thrombosis (MVT)** — venous AMI | **Covered** — [[acg-2020-hepatic-mesenteric-circulation]] (risk factors, Doppler US, anticoagulation) |
-| **SMA embolism / SMA thrombosis** — arterial occlusive | **Not covered** — no ingested source |
-| **Nonocclusive mesenteric ischemia (NOMI)** | **Not covered** — no ingested source |
+| **SMA embolism / SMA thrombosis** — arterial occlusive | **Not covered** |
+| **Nonocclusive mesenteric ischemia (NOMI)** | **Not covered** |
 
 - **MVT risk factors mirror those of noncirrhotic [[portal-vein-thrombosis|portal vein thrombosis]]:** thrombophilia (factor V Leiden, prothrombin gene mutation, JAK2 mutation/MPN, antiphospholipid syndrome), [[portal-hypertension|portal hypertension]] from any cause, intra-abdominal infection/inflammation, surgery, and local trauma. [[acg-2020-hepatic-mesenteric-circulation]]
 
@@ -81,7 +81,7 @@ sources: [acg-2015-colon-ischemia, acg-2020-hepatic-mesenteric-circulation]
 - **DOAC safety in cirrhosis (especially Child-Pugh B/C) is not established** — most trial data are with LMWH and VKA. [[acg-2020-hepatic-mesenteric-circulation]]
 - Variceal prophylaxis: **NSBBs are the preferred first-line prophylaxis for [[variceal-upper-gi-bleeding|variceal bleeding]]** in patients with **noncirrhotic PVT** receiving anticoagulation. *(Strong, low)* [[acg-2020-hepatic-mesenteric-circulation]]
 
-**Arterial AMI:** revascularization strategy (embolectomy, stenting, thrombolysis), timing, and bowel-resection thresholds are **not addressed by any ingested source** — see the coverage-gap note at the top of this page.
+**Arterial AMI:** revascularization strategy (embolectomy, stenting, thrombolysis), timing, and bowel-resection thresholds are **not covered on this page** — see the note at the top.
 
 ## See Also
 

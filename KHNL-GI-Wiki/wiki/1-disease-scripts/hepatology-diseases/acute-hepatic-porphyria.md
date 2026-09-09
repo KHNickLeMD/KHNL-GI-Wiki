@@ -63,7 +63,7 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 
 ## Differential Diagnosis
 
-*Workup: see [[nausea-and-vomiting]] — the closest schema for the recurrent neurovisceral attack (severe abdominal pain with nausea/vomiting); this wiki has no dedicated recurrent-abdominal-pain schema. The AGA CPU frames AHP as a consideration only **after** an initial workup excludes common causes of recurrent severe abdominal pain.*
+*Workup: see [[nausea-and-vomiting]] — the closest schema for the recurrent neurovisceral attack (severe abdominal pain with nausea/vomiting); there is no dedicated recurrent-abdominal-pain schema. The AGA CPU frames AHP as a consideration only **after** an initial workup excludes common causes of recurrent severe abdominal pain.*
 
 - **Common causes of recurrent/acute abdominal pain** — AHP is suspected when severe pain occurs **without peritoneal signs or cross-sectional imaging abnormalities** and is not ascribable to common etiologies.
 - **Secondary porphyrinurias** — mild, nondiagnostic elevations in urinary porphyrins are frequently misread as AHP and cause **overdiagnosis**; urine porphyrins alone must not be used to screen.

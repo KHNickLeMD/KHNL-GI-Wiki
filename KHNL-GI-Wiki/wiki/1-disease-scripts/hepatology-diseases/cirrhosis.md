@@ -77,19 +77,19 @@ Scores mix liver-disease severity, non-hepatic patient factors, and (for surgery
 
 **MELD** = 1.33 (if female) + [4.56 × logₑ(bilirubin)] + [0.82 × (137−Na)] − [0.24 × (137−Na) × logₑ(bilirubin)] + [9.09 × logₑ(INR)] + [11.14 × logₑ(creatinine)] + [1.85 × (3.5−albumin)] − [1.83 × (3.5−albumin) × logₑ(creatinine)] + 6
 
-> ⚠ **This formula is *not* MELD-Na — read the score name literally.** [[aasld-ast-2025-liver-transplant-candidate-evaluation]] states that since 2013 the MELD score "has undergone several adjustments to account for the excess risk of **hyponatremia, female sex, and malnutrition** on mortality," and calls **MELD-Na "the precursor to the most recent version of MELD"** (MELD 3.0). The formula above carries all three of those adjustments — sodium, a female-sex constant, and albumin — so it is the **most recent iteration (MELD 3.0)**, not MELD-Na. **MELD-Na** comprises bilirubin, INR, creatinine, and sodium only (see the variable table above); it has no albumin or sex term, and its coefficients are not in any ingested source.
+> ⚠ **This formula is *not* MELD-Na — read the score name literally.** [[aasld-ast-2025-liver-transplant-candidate-evaluation]] states that since 2013 the MELD score "has undergone several adjustments to account for the excess risk of **hyponatremia, female sex, and malnutrition** on mortality," and calls **MELD-Na "the precursor to the most recent version of MELD"** (MELD 3.0). The formula above carries all three of those adjustments — sodium, a female-sex constant, and albumin — so it is the **most recent iteration (MELD 3.0)**, not MELD-Na. **MELD-Na** comprises bilirubin, INR, creatinine, and sodium only (see the variable table above); it has no albumin or sex term, and its coefficients are not given by the guidelines cited here.
 
 **ALBI grade** (bilirubin + albumin only; no subjective ascites/encephalopathy): score = [log₁₀ bilirubin (µmol/L) × 0.66] + [albumin (g/L) × −0.085]. **Grade 1 ≤ −2.60; Grade 2 > −2.60 to ≤ −1.39; Grade 3 > −1.39** ([[nccn-2026-hcc]]).
 
-> ⚠ **Decision gap — which MELD, and which of them can actually be computed here.** The variants are **not interchangeable**; they differ by several points around exactly the cutoffs that decide management, so substituting one for another changes the decision.
+> ⚠ **Which MELD — and which of them can be computed from this page.** The variants are **not interchangeable**; they differ by several points around exactly the cutoffs that decide management, so substituting one for another changes the decision.
 >
-> | Variant | Variables | Formula available on this wiki? | Decisions that use it |
+> | Variant | Variables | Formula on this page? | Decisions that use it |
 > |---|---|---|---|
 > | **MELD 3.0** (current allocation score) | Bilirubin, INR, creatinine, sodium, albumin, female sex | **Yes** — above ([[nccn-2026-hcc]]) | LT referral threshold ([[liver-transplantation\|LT]]); [[hepatic-encephalopathy\|HE]] |
 > | **MELD-Na** | Bilirubin, INR, creatinine, sodium | **No** | ALD transplant referral (MELD-Na ≥21, [[alcohol-associated-liver-disease\|ALD]]); [[acg-2025-perioperative-cirrhosis\|ACG]] surgical risk table |
 > | **Original MELD** | Bilirubin, INR, creatinine | **No** | Severe alcohol-associated hepatitis (**original MELD >20**, explicitly *not* MELD-Na — [[alcohol-associated-liver-disease\|ALD]]); [[tips\|TIPS]] selection and futility thresholds |
 >
-> For the two variants with no formula here, use an external calculator or ingest the Kamath 2001 (original MELD) and the MELD-Na derivation papers. **Do not reconstruct the coefficients from memory.**
+> For the two variants with no formula here, use an external calculator (the coefficients are in Kamath 2001 for original MELD and the MELD-Na derivation paper).
 
 **Key severity anchors:**
 

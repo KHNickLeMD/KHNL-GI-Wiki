@@ -73,7 +73,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 - **Objective [[reflux-testing|reflux testing]] generally 6–12 months post-POEM:**
   - **Off-PPI** pH monitoring if presence of [[gerd|GERD]] is in question.
   - **On-PPI** testing if GERD already established or esophagitis **LA grade B or higher** — assesses adequacy of acid suppression.
-  - ⚠ **Decision gap — LA grade is a *figure-capture* block, not a corpus block (corrected 2026-09-07):** the **Los Angeles grade A–D mucosal-break criteria** that this rule turns on **are** in an ingested source — [[acg-2025-egd-quality|ACG/ASGE 2025]] **Figure 2, "Los Angeles classification scheme for erosive esophagitis"** (and [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2) — but both are raster figures no capture tool can currently extract here. Close it by capturing the figure onto [[reflux-testing]] (the LA grade's home page); do not supply from memory and do not ingest Lundell 1999 for it.
+  - The **Los Angeles grade A–D mucosal-break criteria** are shown in [[acg-2025-egd-quality|ACG/ASGE 2025]] **Figure 2, "Los Angeles classification scheme for erosive esophagitis"** (and [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2); see [[reflux-testing]] for the LA grade.
 - Reflux symptoms after POEM may **not** be acid-related (food stasis, acid fermentation, visceral hypersensitivity) — objective testing discriminates.
 - **Management ladder:** confirm PPI adherence (take 30–60 min before meals) → diet/lifestyle + alginates for mild/breakthrough → [[potassium-competitive-acid-blockers|potassium-competitive acid blocker]] (e.g., [[vonoprazan]]) a possible future preferred option for difficult erosive esophagitis → **[[antireflux-surgery|antireflux procedure]]** (endoscopic or surgical fundoplication) in a small subset after confirming GERD, excluding other etiologies, and failing optimization.
 - Reflux esophagitis and abnormal acid exposure **decrease over time** (ongoing LES healing/remodeling) → favor a stepwise approach.
@@ -101,7 +101,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 
 ## Outcomes
 
-*Symptomatic response in achalasia trials is scored with the **Eckardt score** — its structure, and the corpus-blocked per-item anchors, live on [[achalasia]]. Read every "success rate" below against that caveat; [[acg-2020-achalasia|ACG 2020]] also warns against declaring failure on symptom score or HRM alone, and puts TBE first (*Strong; Very low*).*
+*Symptomatic response in achalasia trials is scored with the **Eckardt score** — its structure lives on [[achalasia]]. Read every "success rate" below against that caveat; [[acg-2020-achalasia|ACG 2020]] also warns against declaring failure on symptom score or HRM alone, and puts TBE first (*Strong; Very low*).*
 
 | Indication | Success Rate |
 |---|---|

@@ -168,11 +168,11 @@ Corticosteroids — **open-capsule budesonide** preferentially — are first-lin
 ## Contradictions / Open Questions
 
 - **No contradiction with [[acg-2022-celiac]]** was identified; this CPU extends rather than overrides it, covering the post-diagnosis refractory limb that the ACG guideline treats more briefly. ACG 2022 is the newer *guideline*; within tier 1 it would win any direct conflict, but none arises here.
-- **Steroid dosing for RCD is not rigorously established by any source** — the CPU says so explicitly. The prednisone range (40–60 mg daily, slow taper over several months) and budesonide 3 mg TID come from Table 1's cited case series, not from trial data. **Taper schedules are absent from the corpus.**
+- **Steroid dosing for RCD is not rigorously established by any source** — the CPU says so explicitly. The prednisone range (40–60 mg daily, slow taper over several months) and budesonide 3 mg TID come from Table 1's cited case series, not from trial data. **No taper schedule is given.**
 - Whether steroids reduce lymphoma risk in RCD2 is **unresolved**.
 - The optimal biopsy protocol for **follow-up** and RCD evaluation is explicitly "not well-defined."
 - The classification of RCD2 as a single entity "does not completely reflect the atypical RCD2 variants that are encountered."
-- Figure 1 (diagnostic/management algorithm) is a raster image in the source with no extractable text layer; figure capture is currently blocked in this environment, so the algorithm is represented on the entity page as text derived from the BPAs rather than embedded.
+- Figure 1 (diagnostic/management algorithm) is not reproduced; the algorithm is represented on the entity page as text derived from the BPAs.
 
 ---
 

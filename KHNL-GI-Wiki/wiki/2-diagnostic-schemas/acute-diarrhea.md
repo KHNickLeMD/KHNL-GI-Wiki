@@ -138,7 +138,7 @@ All patients: hydrate with fluids and salt (water, juices, sports drinks, soups,
   - Duration ≥72 h: consider microbiologic assessment
 - Fever ≥101°F: consider microbiologic assessment
 
-> ⚠ **The 100–101°F band is undefined — this is a gap in the source, not in the page.** [[acg-2016-acute-diarrhea|ACG 2016]]'s algorithm branches on *"no or low-grade fever (≤100°F)"* vs *"fever (≥101°F)"* and never says which arm a temperature of 100.1–100.9°F takes. Reproduced as printed; do not invent a cutoff. In practice the safe reading is to treat the intermediate band as febrile (i.e. test) when other severity features are present.
+> ⚠ **The 100–101°F band is undefined in the guideline.** [[acg-2016-acute-diarrhea|ACG 2016]]'s algorithm branches on *"no or low-grade fever (≤100°F)"* vs *"fever (≥101°F)"* and never says which arm a temperature of 100.1–100.9°F takes. In practice the safe reading is to treat the intermediate band as febrile (i.e. test) when other severity features are present.
 >
 > **Unit note:** the ACG thresholds above are in °F. The **≥38.5°C** figure used later for returning travelers comes from [[idsa-2017-infectious-diarrhea|IDSA 2017]] — a *different* guideline and population, and **not** the same cutoff (38.5°C ≈ 101.3°F). Don't cross-apply them.
 
@@ -301,7 +301,7 @@ The following features should prompt microbiologic assessment, consideration of 
 
 **Parasite-Specific Antibiotic Therapy:**
 
-**Agent selection is sourced; doses are not.** ACG 2016 names these agents in prose and IDSA 2017 Table 6 has **no dose column** — so the agent-per-pathogen mapping below is what the corpus supports:
+**Agents only — no doses.** ACG 2016 names these agents in prose and IDSA 2017 Table 6 has **no dose column**, so only the agent-per-pathogen mapping is given:
 
 | Pathogen | Agent(s) |
 |---|---|
@@ -313,7 +313,7 @@ The following features should prompt microbiologic assessment, consideration of 
 | *Enterocytozoon bieneusi* | **Albendazole** or **iodoquinol** [[acg-2016-acute-diarrhea]] |
 | *Dientamoeba fragilis* | **Iodoquinol** [[acg-2016-acute-diarrhea]] |
 
-> **Dose gap — deliberately not filled.** No ingested source states doses or durations for any of these antiparasitic regimens. The previously listed figures (metronidazole 250 mg TID × 5–7 d, tinidazole 2 g single dose, nitazoxanide 500 mg BID × 3 d, TMP-SMX DS BID × 7–10 d, albendazole 400 mg BID) were **not traceable to the corpus** and have been removed. A CDC/IDSA parasitic-disease treatment table would be needed to restore them.
+> Neither guideline states doses or durations for these antiparasitic regimens; take them from the CDC/IDSA parasitic-disease treatment tables.
 
 ### Empiric Antibiotic Decision (IDSA 2017)
 

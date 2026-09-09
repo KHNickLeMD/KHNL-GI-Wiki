@@ -44,12 +44,12 @@ LI-RADS is valid **only** in the at-risk population (Figure 7, [[aasld-2023-hcc]
 
 Four major features drive categorization; size is the fifth axis, because imaging accuracy falls off in lesions <2 cm.
 
-| Major feature | Definition as given by the ingested sources |
+| Major feature | Definition as given by AASLD 2023 / NCCN |
 |---|---|
 | **Arterial phase hyperenhancement (APHE)** | **Nonrim** APHE — required for LR-5. Rim APHE points away from HCC (see LR-M) |
 | **Nonperipheral washout** | Hypoenhancement on portal venous or delayed phase, not peripheral |
 | **Enhancing capsule** | Enhancing rim around the observation on portal venous/delayed phase |
-| **Threshold growth** | Interval size increase vs. prior imaging — *the numeric definition (percentage and interval) is not stated in the text of any ingested source; it lives in the ACR LI-RADS lexicon/Figure 6 image. **Gap — do not quote a number from memory.*** |
+| **Threshold growth** | Interval size increase vs. prior imaging — *the numeric definition (percentage and interval) is not stated in the AASLD or NCCN text; it is in the ACR LI-RADS lexicon.* |
 
 - APHE + washout are the features **most strongly associated** with HCC, with high specificity and PPV in lesions **≥1 cm** ([[aasld-2023-hcc]]).
 - LI-RADS also supplies separate criteria for **major vascular invasion** (→ LR-TIV), because tumor in the vein may not show the parenchymal features ([[nccn-2026-hcc]]).
@@ -105,7 +105,7 @@ Read down the two APHE columns, across to the observation size, then down to the
 
 *Per [[aasld-2023-hcc]] (Figures 6/8; GS 19–22). LR-5 is the point at which HCC is treated as diagnosed — stage-directed therapy lives on [[hepatocellular-carcinoma]].*
 
-> ⚠ **Residual decision gap — LR-1, LR-2, LR-M and LR-TIV still cannot be assigned from this page.** The [[#Assigning a Category — CT/MRI Diagnostic Table|diagnostic table]] above (AASLD 2023 Figure 6) assigns **LR-3, LR-4 and LR-5**, and that gap is now closed. But Figure 6 does not define **LR-1 (definitely benign)** or **LR-2 (probably benign)**, and it does not give the ancillary/targetoid criteria that make an observation **LR-M** or the vascular criteria for **LR-TIV** — [[nccn-2026-hcc]] only notes that LI-RADS "provides imaging criteria to diagnose major vascular invasion" without printing them. **Needed to close it:** the ACR LI-RADS core document (the ancillary-features and LR-M/LR-TIV tables). Do not fill these criteria from memory.
+> ⚠ **LR-1, LR-2, LR-M and LR-TIV cannot be assigned from this page.** The [[#Assigning a Category — CT/MRI Diagnostic Table|diagnostic table]] above (AASLD 2023 Figure 6) assigns **LR-3, LR-4 and LR-5**, but Figure 6 does not define **LR-1 (definitely benign)** or **LR-2 (probably benign)**, and it does not give the ancillary/targetoid criteria that make an observation **LR-M** or the vascular criteria for **LR-TIV** — [[nccn-2026-hcc]] only notes that LI-RADS "provides imaging criteria to diagnose major vascular invasion" without printing them. Those criteria are in the ACR LI-RADS core document (the ancillary-features and LR-M/LR-TIV tables).
 
 - Where biopsy is done: sensitivity **70–93%**, falling to **~60%** in tumors **<2 cm**; a negative biopsy does **not** exclude HCC and should be repeated if findings are inconclusive and the lesion is still not LR-5. Complication risk (seeding, bleeding) **~3%**, lower with coaxial needle technique ([[aasld-2023-hcc]]; see [[liver-biopsy]]).
 

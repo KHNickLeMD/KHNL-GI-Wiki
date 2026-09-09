@@ -67,7 +67,7 @@ Surveillance is targeted to those who **would be candidates for HCC treatment** 
 - **HBsAg loss at unknown timing** — individualize, weighing cirrhosis and family history.
 - **Children/adolescents with HBV/HDV co-infection** — HCC risk is largely unknown; individualize on age, family history, and fibrosis stage (the "all adults" rule does not extend to them).
 - **What changed:** the incidence threshold for initiating surveillance in cirrhosis is now modeled at **~1.0%/y**, *lower* than the traditional **1.5%/y** cutoff readers may still carry.
-- ⚠ **Decision gap — the PAGE-B / REACH-B / REAL-B component variables and point values are not in any ingested source.** The guidances give only the PAGE-B ≥10 threshold. Use an external calculator or ingest the derivation papers — do not reconstruct the scores from memory.
+- The PAGE-B / REACH-B / REAL-B component variables and point values are not given in the guidances, which state only the PAGE-B ≥10 threshold; use an external calculator or the derivation papers.
 
 ## Surveillance Modality
 

@@ -127,13 +127,13 @@ The guideline systematically reviews the diagnostic evaluation of the major spec
 
 - Creates new [[abnormal-liver-chemistries]] diagnostic schema page (the core content of this guideline)
 - Adds context on normal ALT values to [[drug-induced-liver-injury]] (R-value already in wiki, complements with ULN framework)
-- Establishes baseline for [[wilson-disease]] stub (not yet in wiki)
-- Establishes baseline for [[hereditary-hemochromatosis]] stub (not yet in wiki)
-- Establishes baseline for [[primary-biliary-cholangitis]] stub (not yet in wiki — PBC now renamed from primary biliary cirrhosis)
+- Establishes baseline for [[wilson-disease]]
+- Establishes baseline for [[hereditary-hemochromatosis]]
+- Establishes baseline for [[primary-biliary-cholangitis]] (PBC now renamed from primary biliary cirrhosis)
 - Complements existing [[primary-sclerosing-cholangitis]] with alkaline phosphatase context
 - Complements [[autoimmune-hepatitis]] with ANA/ASMA screening context and serology triggers
 - Complements [[alcohol-associated-liver-disease]] with AST:ALT ratio clues
-- Establishes [[nafld-masld]] stub (no dedicated page exists yet)
+- Establishes baseline for [[nafld-masld]]
 - Complements [[drug-induced-liver-injury]] with supplement hepatotoxicity agents, livertox.nih.gov reference
 
 ## Contradictions / Open Questions

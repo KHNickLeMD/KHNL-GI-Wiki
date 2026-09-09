@@ -7,7 +7,7 @@ updated: 2026-09-08
 sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis]
 ---
 
-Monoclonal TNF-α antagonists — **infliximab, adalimumab, certolizumab pegol, golimumab** — the longest-established advanced-therapy class in [[inflammatory-bowel-disease|IBD]], and the drugs behind most of the wiki's combination-therapy, immunogenicity, and pre-biologic-screening rules. **Onset is rapid — as early as the first 2 weeks** of treatment, and response/remission rates are higher when given **within 2 years of disease onset** ([[acg-2025-crohns]]). Also used outside IBD as rescue for glucocorticoid-refractory [[immune-checkpoint-inhibitor-colitis|ICI colitis]].
+Monoclonal TNF-α antagonists — **infliximab, adalimumab, certolizumab pegol, golimumab** — the longest-established advanced-therapy class in [[inflammatory-bowel-disease|IBD]], and the drugs behind most combination-therapy, immunogenicity, and pre-biologic-screening rules. **Onset is rapid — as early as the first 2 weeks** of treatment, and response/remission rates are higher when given **within 2 years of disease onset** ([[acg-2025-crohns]]). Also used outside IBD as rescue for glucocorticoid-refractory [[immune-checkpoint-inhibitor-colitis|ICI colitis]].
 
 ## Contents
 - [[#Agents in the Class]]
@@ -36,7 +36,7 @@ Monoclonal TNF-α antagonists — **infliximab, adalimumab, certolizumab pegol, 
 
 ## Agents in the Class
 
-| Agent | Route(s) | Recommended in ingested guidelines for |
+| Agent | Route(s) | Recommended in guidelines for |
 |---|---|---|
 | **Infliximab** | IV; **SC for maintenance** after IV induction response | [[crohns-disease\|CD]] induction + maintenance, perianal fistulizing CD, [[ulcerative-colitis\|UC]] induction + maintenance, ASUC rescue |
 | **Adalimumab** | SC | CD induction + maintenance, perianal fistulizing CD (conditional), UC induction + maintenance |
@@ -63,12 +63,12 @@ Monoclonal TNF-α antagonists — **infliximab, adalimumab, certolizumab pegol, 
 
 *CD dosing from [[acg-2025-crohns]]; UC dosing from [[acg-2025-uc]].*
 
-> **Sourcing caveats in the table above (2026-09-05 dose audit).** Three cells are **not traceable to an ingested source** and are carried forward pending one — do not treat them as guideline-stated:
-> - **Certolizumab pegol induction (400 mg at weeks 0, 2, 4)** — neither [[acg-2025-crohns]] nor [[aga-2021-crohns-pharm]] states an induction schedule for certolizumab; both discuss the agent only qualitatively. FDA labeling or the PRECiSE trial reports would be needed.
+> **Three cells in the table above are not guideline-stated** — verify against labeling before dosing:
+> - **Certolizumab pegol induction (400 mg at weeks 0, 2, 4)** — neither [[acg-2025-crohns]] nor [[aga-2021-crohns-pharm]] states an induction schedule for certolizumab; both discuss the agent only qualitatively. Confirm against FDA labeling.
 > - **Golimumab maintenance interval (q4wk)** — [[acg-2025-uc]] sources the **100 mg** dose (PURSUIT week-54 data) but never states the every-4-week interval; [[acg-2019-uc]] gives no doses and [[aga-2024-uc-pharm]]'s "200 mg q4w" belongs to guselkumab, not golimumab.
 > - **Adalimumab induction in CD** — the 160 → 80 loading is sourced from the **UC** guideline (ULTRA-2) only; [[acg-2025-crohns]] gives no adalimumab induction regimen. The maintenance figures (40 mg q2wk or weekly) *are* from the CD guideline.
 >
-> Everything else in the table was verified verbatim against the cited guideline, including the infliximab IV/SC rows and the [[vedolizumab|vedolizumab]] 300 mg 0/2/6 schedule below.
+> Everything else in the table matches the cited guideline, including the infliximab IV/SC rows and the [[vedolizumab|vedolizumab]] 300 mg 0/2/6 schedule below.
 
 **Dose optimization is an explicit option, not a last resort:** biologic therapy (anti-TNF, anti-IL-12/23, anti-integrin) **dose optimization may be considered** for inadequate or loss of response to that agent's induction and maintenance ([[acg-2025-crohns]] Key Concept 46).
 
@@ -244,8 +244,6 @@ If not already done before checkpoint-inhibitor therapy: test **hepatitis B (HBs
 | Adalimumab | **>7.5 μg/mL** |
 | Certolizumab pegol | **>20 μg/mL** |
 
-*Extraction note: `pdftotext` drops the `>` and the `μ` glyph from this PDF (it renders as "`.5 mg/mL`"); the values above are restored from context and match the ingested [[acg-2025-crohns]] source page.*
-
 **Three failure patterns — the trough + antibody pair assigns the mechanism, and the mechanism assigns the action** ([[acg-2025-crohns]]):
 
 | Pattern | Trough level | Antidrug antibodies | Interpretation | Action |
@@ -306,8 +304,8 @@ If not already done before checkpoint-inhibitor therapy: test **hepatitis B (HBs
 
 ## Gaps
 
-- *No ingested source in this page's set covers **infusion reactions, injection-site reactions, drug-induced lupus, or paradoxical psoriasis** and their management. A dedicated anti-TNF safety/labeling source would be needed — do not fill from general knowledge.*
-- *No ingested source gives **certolizumab pegol or golimumab regulatory approval status by indication**. The class table above reports only which agents each guideline **recommends** for each disease, which is not the same thing.*
+- *The guidelines cited here do not cover **infusion reactions, injection-site reactions, drug-induced lupus, or paradoxical psoriasis** or their management; consult product labeling.*
+- *The guidelines do not give **certolizumab pegol or golimumab regulatory approval status by indication**. The class table above reports only which agents each guideline **recommends** for each disease, which is not the same thing.*
 - *[[aga-2025-crohns-pharm]] (AGA Living Guideline, 2025) is a **newer same-tier source** on Crohn's drug positioning and has **not** been reconciled into this page, which was built from [[acg-2025-crohns]] and [[aga-2021-crohns-pharm]]. Check it before relying on the CD positioning table — [[aga-2021-crohns-pharm]] predates IL-23 p19 inhibitors and JAK inhibitors entirely.*
 - *Anti-TNF use in **[[pouchitis]]** is not covered here; that page owns it, sourced separately.*
 

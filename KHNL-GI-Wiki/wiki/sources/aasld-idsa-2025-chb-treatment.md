@@ -116,7 +116,7 @@ This guideline is intended as a focused update — the 2018 guidance remains app
 
 - Creates new entity page: [[chronic-hepatitis-b]]
 - Updates concept of HCC surveillance (relevant to [[hepatocellular-carcinoma]] if/when created)
-- Informs HBV medication stubs if ETV, TDF, TAF pages are created
+- Informs HBV medication pages (ETV, TDF, TAF)
 
 ## Contradictions / Open Questions
 

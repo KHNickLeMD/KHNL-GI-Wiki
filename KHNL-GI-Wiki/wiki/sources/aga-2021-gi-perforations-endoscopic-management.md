@@ -138,7 +138,7 @@ The update also names the procedures that carry increased perforation risk (BPA 
 - **Figure 1** — endoscopic vacuum therapy for delayed barrier failure after submucosal tunneling endoscopic resection; 8 panels (A–H) showing serial sponge plugs shrinking a 2-cm esophageal opening to a 7-mm pseudodiverticulum over four endoscopies within 2 weeks.
 - **Figure 2** — duodenal perforation: (A) retroperitoneal air, (B) type 1 lateral wall perforation from the duodenoscope at ERCP, (C) clip closure.
 - **Figure 3** — prevention of delayed duodenal perforation by covering an 18-mm post-ESD defect with Vicryl mesh affixed by TTSCs; 6 panels (A–F).
-- **Supplementary Table 1** (OTSC data for esophageal perforation) is online-only and absent from the ingested PDF.
+- **Supplementary Table 1** (OTSC data for esophageal perforation) is online-only and not reproduced here.
 
 ## Relevance to Wiki
 - Supports a `3-general-gi-procedures/` page on **endoscopic management of perforation** — the size-keyed closure table (BPA 8/9/10/14) and the two absolute surgical indications (BPA 15) are the decision content.
@@ -154,12 +154,11 @@ The update also names the procedures that carry increased perforation risk (BPA 
 - Unblocks *Coverage Gaps → Fillable now* items that touch colonic stenting (perforation rates by stent scenario).
 
 ## Contradictions / Open Questions
-- **Stapfer typing is used but never defined in full.** The update discusses **type 1** and **type 2** duodenal/periampullary perforations in detail but does not print types 3 and 4, nor does it cite Stapfer by name. The complete four-type classification is **not supported by this source** — do not add types 3–4 to the wiki from memory; the primary (Stapfer 2000, *Ann Surg*) is not in `raw/`.
+- **Stapfer typing is used but never defined in full.** The update discusses **type 1** and **type 2** duodenal/periampullary perforations in detail but does not print types 3 and 4, nor does it cite Stapfer by name. The complete four-type classification is in the primary paper (Stapfer 2000, *Ann Surg*), not in this update.
 - **Size thresholds are not identical between organs and are stated as inequalities without a tie-breaker.** Esophagus splits at 2 cm; stomach splits at 2 cm in BPA 9 but the body text gives TTSC <1 cm and OTSC 1–3 cm; the esophageal body text gives OTSC as effective for 1–2 cm. Reproduce the BPA thresholds as the decision rule and the body-text ranges as device performance data — they are not in conflict but they are not interchangeable either.
 - **Evidence quality is low throughout.** Every statement is Best Practice Advice from expert opinion; the authors state that prospective outcome studies on endoscopic therapy of perforations are limited and that the literature is retrospective.
-- **Device availability is US-specific and dated (2021):** "covered duodenal stents are not available in the United States at this time." Flag as time-limited if it reaches a page.
-- **POEM orientation.** This update prefers **posterior** POEM on mucosal-injury grounds. Check against [[aga-2024-poem-advances]] and the achalasia guidelines before the wiki asserts a preferred orientation — the newer document wins under the source-priority rule.
-- Not captured: **Supplementary Table 1** is online-only and absent from the ingested PDF.
+- **Device availability is US-specific and dated (2021):** "covered duodenal stents are not available in the United States at this time." Treat as time-limited.
+- **POEM orientation.** This update prefers **posterior** POEM on mucosal-injury grounds. [[aga-2024-poem-advances]] and the achalasia guidelines are newer and take precedence on orientation.
 
 ---
 

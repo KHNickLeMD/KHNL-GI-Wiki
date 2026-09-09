@@ -78,6 +78,6 @@ CADe was the first target: meta-analytic data show it significantly raises adeno
 
 ## Contradictions / Open Questions
 
-- **Source priority note:** the later **[[aga-2025-cade-colonoscopy]]** AGA *living guideline* (GRADE) makes **no recommendation for or against** routine CADe (very low certainty). This 2023 CPU is an enthusiastic *commentary* summarizing positive early data; where they meet (CADe for detection), the newer 2025 guideline's cautious framing governs the wiki's primary assertion. The 2023 CPU remains the home for the CADx and quality-assessment content the 2025 CADe-only guideline does not cover.
+- **Source priority note:** the later **[[aga-2025-cade-colonoscopy]]** AGA *living guideline* (GRADE) makes **no recommendation for or against** routine CADe (very low certainty). This 2023 CPU is an enthusiastic *commentary* summarizing positive early data; where they meet (CADe for detection), the newer 2025 guideline's cautious framing governs. The 2023 CPU remains the home for the CADx and quality-assessment content the 2025 CADe-only guideline does not cover.
 - CADe ADR benefit is inconsistent across real-world/pragmatic studies (positive RCT meta-analysis vs neutral/negative pragmatic and UK RCT data).
 - Cost-effectiveness hinges on unproven assumptions that ADR gains persist in routine practice.

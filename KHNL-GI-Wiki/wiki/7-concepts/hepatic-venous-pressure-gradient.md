@@ -54,7 +54,7 @@ Baveno VII methodology statements ([[baveno-vii-2022-portal-hypertension]], 1.1�
 
 *Full noninvasive CSPH staging ([[liver-stiffness-measurement|LSM]] "rule of 5", spleen stiffness), and management by stratum, live on [[portal-hypertension]].*
 
-> ⚠ **Gap — the "HVPG ≥12 = variceal bleeding threshold" row was removed (2026-09-02 lint).** Neither ingested source states it. Full-text search of [[baveno-vii-2022-portal-hypertension|Baveno VII]], [[aasld-2023-portal-hypertension|AASLD 2023]] and [[wang-2026-eus-ppg-delphi-consensus|the EUS-PPG consensus]] finds **12 mmHg only as the post-TIPS portal pressure gradient target** (Baveno 1.23; AASLD: NSBB not required after TIPS if the gradient is under 12 mm Hg) — captured under [[#HVPG response to therapy]], not as a bleeding-risk cutoff. **Do not refill from memory.** Restoring it requires ingesting the primary hemodynamic literature (Groszmann/Garcia-Tsao portal-pressure threshold studies).
+> ⚠ **The "HVPG ≥12 mmHg = variceal bleeding threshold" is not stated by the guidelines.** [[baveno-vii-2022-portal-hypertension|Baveno VII]], [[aasld-2023-portal-hypertension|AASLD 2023]] and [[wang-2026-eus-ppg-delphi-consensus|the EUS-PPG consensus]] give **12 mmHg only as the post-TIPS portal pressure gradient target** (Baveno 1.23; AASLD: NSBB not required after TIPS if the gradient is under 12 mm Hg) — see [[#HVPG response to therapy]]. The bleeding-threshold figure comes from the primary hemodynamic literature (Groszmann/Garcia-Tsao portal-pressure threshold studies).
 
 ## HVPG response to therapy
 

@@ -76,11 +76,11 @@ CD has no "extent" scheme equivalent to UC's proctitis/left-sided/extensive. Wha
 - **Location is stable — that is the decision.** *"The location of CD tends to be stable but can occasionally extend"* (Key concept 5); only **6%–14%** change disease location over time. So the location recorded at diagnosis usually remains the location, and re-mapping the whole gut at every flare is not required.
 - **Location predicts progression:** patients with **ileal, ileocolonic, or proximal GI** involvement are significantly **more likely than those with isolated colonic disease** to progress to an intestinal complication (stricture, abscess, fistula, phlegmon) — up to **half** do so within 20 years of diagnosis (Key concept 6). Extensive anatomic involvement and deep ulcerations are additional risk factors.
 
-> ⚠ **Gap — neither cited guideline defines IBD-unclassified / indeterminate colitis.** Full-text search of [[acg-2025-uc]] and [[acg-2025-crohns]] returns **zero hits** for "unclassified", "indeterminate colitis", or "IBD-U". Both describe colon-only inflammation as *"challenging"* to assign and give the clues above, but neither names a category for, or a management pathway after, an unresolved assignment. Filling this would require ingesting a source that defines it (e.g. an ECCO/Montreal-classification reference) — do not supply the definition from memory.
+> **Neither cited guideline defines IBD-unclassified / indeterminate colitis.** [[acg-2025-uc]] and [[acg-2025-crohns]] both describe colon-only inflammation as *"challenging"* to assign and give the clues above, but neither names a category for, or a management pathway after, an unresolved assignment; see the ECCO / Montreal classification for the definition.
 
 ## Classical Teaching Not Asserted by the Cited Guidelines
 
-These appear in textbooks but are **not stated in [[acg-2025-uc]] or [[acg-2025-crohns]]**, so they are recorded here as unsourced rather than in the table above. Ingesting a pathology or general-IBD reference would be needed to state them on the wiki:
+These appear in textbooks but are **not stated in [[acg-2025-uc]] or [[acg-2025-crohns]]**, so they are recorded here as unsourced rather than in the table above; verify against a pathology or general IBD reference:
 
 - **Cobblestoning** as a Crohn's endoscopic/imaging sign
 - **"Lead pipe" colon** (loss of haustra) in chronic UC

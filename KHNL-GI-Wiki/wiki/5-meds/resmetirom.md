@@ -42,7 +42,7 @@ Compensated or decompensated [[cirrhosis]]; uncontrolled active liver disease ([
 - Combination with [[glp-1-receptor-agonists|GLP-1 RAs]] ([[semaglutide]], tirzepatide) not formally studied; relative efficacy unestablished.
 - Lifestyle modification and cardiometabolic risk management remain foundational regardless of resmetirom (see [[nafld-masld]]).
 
-- **Open gap (not a stub):** all AASLD guidance here rests on **52-week** MAESTRO-NASH data; outcome data beyond 12 months were not available when the update was written. Expand when longer-term results are ingested.
+- **Open question:** all AASLD guidance here rests on **52-week** MAESTRO-NASH data; outcome data beyond 12 months were not available when the update was written.
 
 ## See Also
 

@@ -88,7 +88,7 @@ Certainty of evidence was **low** (mortality), **very low** (early rebleed), and
 
 ## Contradictions / Open Questions
 
-- **Guidelines (tier 1) recommend 5–7 days and remain what the wiki asserts** ([[aasld-2021-ascites-sbp-hrs]], [[baveno-vii-2022-portal-hypertension]], [[acg-2021-ugib]]). This meta-analysis is tier 2 and does not overturn them; it documents that the duration is weakly evidenced.
+- **Guidelines (tier 1) recommend 5–7 days and remain the standard** ([[aasld-2021-ascites-sbp-hrs]], [[baveno-vii-2022-portal-hypertension]], [[acg-2021-ugib]]). This meta-analysis is tier 2 and does not overturn them; it documents that the duration is weakly evidenced.
 - The pooled result is easily misread as "prophylaxis may be unnecessary." The infection data argue the opposite: **omitting prophylaxis entirely had a 0.5% probability of noninferiority** for infections (RD 18.8%).
 - Only 2 RCTs (179 patients total) address the question clinicians actually face — 2–3 d vs 5–7 d — so the short-vs-long estimates are imprecise (mortality CrI −11.4 to 4.7).
 - Infection definitions were heterogeneous and mostly unblinded, so the infection benefit of prophylaxis is itself at high risk of bias.

@@ -151,7 +151,7 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 | Tofacitinib | 10 mg bid × 8 wk (extend 8 more wk in wk-8 non-responders → 16 wk; in the US label) | 5 mg bid **or** 10 mg bid — ⚠ guideline says "**prudent to consider 10 mg BID for maintenance in most patients**" (prior anti-TNF failure benefits from 10 mg bid; relapsers after reduction to 5 mg bid are not always recaptured) |
 | Upadacitinib | 45 mg PO daily × 8wk | 15–30 mg PO daily |
 
-> ⚠ **Vedolizumab IV induction — corrected 2026-09-04 (source-fidelity fix).** This row previously read *"300 mg wk 0, 2, 6."* **That schedule is not in this guideline.** The ACG 2025 UC text describes vedolizumab induction only as **300 mg at weeks 0 and 2**, with responders randomised at week 6 to maintenance (GEMINI 1, VISIBLE). The "0, 2, 6" pattern belongs to the **infliximab** row above it and appears to have been carried across. No ingested source states a week-6 vedolizumab induction dose for IBD — the only 0/2/6 vedolizumab schedule in the corpus is in [[aga-2021-ici-colitis-hepatitis]], for **ICI colitis**, not IBD. Do not restore the week-6 dose without a source that prints it. See [[vedolizumab]].
+> ⚠ **Vedolizumab IV induction.** The ACG 2025 UC text describes vedolizumab induction only as **300 mg at weeks 0 and 2**, with responders randomised at week 6 to maintenance (GEMINI 1, VISIBLE); it does not state a week-6 induction dose. The "0, 2, 6" pattern belongs to the **infliximab** row above it. The only 0/2/6 vedolizumab schedule in a guideline is in [[aga-2021-ici-colitis-hepatitis]], for **ICI colitis**, not IBD. See [[vedolizumab]].
 
 ### ASUC Management Summary
 

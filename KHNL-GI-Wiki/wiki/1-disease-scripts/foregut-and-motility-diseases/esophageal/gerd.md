@@ -62,7 +62,7 @@ sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd
 
 Objective severity is assessed endoscopically and with [[reflux-testing|reflux testing]], which is the home page for what each endoscopic descriptor is used for.
 
-> ⚠ **Decision gap — corpus-blocked, do not fill from memory.** Every ingested GERD source (**[[acg-2021-gerd]], [[asge-2024-gerd]], [[acg-2020-esophageal-physiologic-testing]], [[lyon-2024-gerd-diagnosis|Lyon 2.0]]**) *uses* the **Los Angeles A–D** and **Hill I–IV** grades to drive real decisions, but **none of them defines the grades**, and no ingested source defines the **AFS** flap-valve grade at all. Needed: **Lundell 1999** (LA classification) and **Hill & Kozarek, *J Clin Gastroenterol* 1996** (flap valve), plus an AFS source. See the standing note on [[reflux-testing]].
+> ⚠ Every GERD guideline here (**[[acg-2021-gerd]], [[asge-2024-gerd]], [[acg-2020-esophageal-physiologic-testing]], [[lyon-2024-gerd-diagnosis|Lyon 2.0]]**) *uses* the **Los Angeles A–D** and **Hill I–IV** grades to drive real decisions, but **none of them defines the grades**, and none defines the **AFS** flap-valve grade. The definitions are in **Lundell 1999** (LA classification), **Hill & Kozarek, *J Clin Gastroenterol* 1996** (flap valve), and the AFS hiatus-grade white paper. See [[reflux-testing]].
 
 **Endoscopic findings — required documentation elements (strong, very low evidence):**
 
@@ -216,7 +216,7 @@ Recommend for all patients with GERD symptoms:
 **The gate — all three required before any endoscopic antireflux therapy:**
 
 1. **Confirmed (objectively documented) GERD** — not a symptom diagnosis
-2. **Complete endoscopic assessment of the GEJ** — hiatal hernia axial length in cm and Hill grade (grade definitions corpus-blocked — see Severity Assessment)
+2. **Complete endoscopic assessment of the GEJ** — hiatal hernia axial length in cm and Hill grade (grade definitions not given by the guidelines — see Severity Assessment)
 3. **Multidisciplinary review** (especially for cTIF)
 
 **Plus mandatory [[high-resolution-manometry|HRM]] before any antireflux procedure or endoscopic therapy** to rule out [[achalasia]] and absent contractility (Strong/Low, [[acg-2021-gerd]]) — among patients with **refractory** GERD, manometry finds achalasia in **1%–3%**, and **esophageal aperistalsis in roughly 3%** of manometry studies done to evaluate GERD; the aperistalsis group responds poorly to antireflux surgery.

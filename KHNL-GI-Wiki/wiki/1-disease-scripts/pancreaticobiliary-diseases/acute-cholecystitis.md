@@ -25,7 +25,7 @@ sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, 
 - [[#See Also]]
 - [[#Sources]]
 
-*Ingested coverage is strongest on the gallbladder-drainage decision in high-surgical-risk patients ([[aga-2023-eus-gallbladder-drainage]], [[asge-2024-therapeutic-eus-biliary]]); the Tokyo Guidelines material below comes from the ingested TG18 **cholangitis** flowchart paper, which covers acute biliary infection generally but defers the cholecystitis-specific criteria tables to a companion paper — see flags.*
+*Coverage is strongest on the gallbladder-drainage decision in high-surgical-risk patients ([[aga-2023-eus-gallbladder-drainage]], [[asge-2024-therapeutic-eus-biliary]]); the Tokyo Guidelines material below comes from the TG18 **cholangitis** flowchart paper, which covers acute biliary infection generally but defers the cholecystitis-specific criteria tables to a companion paper.*
 
 ## Assessment
 
@@ -37,11 +37,11 @@ sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, 
 - **Blood tests** are drawn for diagnosis *and* grading: WBC, platelets, CRP, albumin; ALP, GGT, AST, ALT, bilirubin; BUN, creatinine, PT/PT-INR; blood gas; **blood culture preferably if high fever is present**.
 - Common condition in the US; imaging (ultrasound/CT) identifies cholecystitis and screens for **gallbladder perforation** — a key branch point in the drainage algorithm below. ([[aga-2023-eus-gallbladder-drainage]])
 
-> ⚠ **Gap — the formal TG13/18 diagnostic criteria for acute cholecystitis (Table 2)** (the A local signs / B systemic signs / C imaging structure) are **not reproduced in the ingested source.** The TG18 flowchart paper in `raw/` covers acute cholangitis and cites Table 2 to a companion paper (Yokoe et al., *TG18 Diagnostic criteria and severity grading of acute cholecystitis*) that is **not ingested**. Ingesting it would fill this section; do not reconstruct the criteria from memory.
+> The formal TG13/18 diagnostic criteria for acute cholecystitis (Table 2: A local signs / B systemic signs / C imaging) are not printed in the TG18 cholangitis flowchart paper, which cites them to a companion paper (Yokoe et al., *TG18 Diagnostic criteria and severity grading of acute cholecystitis*).
 
 ### Severity Assessment
 
-- ⚠ **Gap — TG18 severity grading for cholecystitis (Grade I–III) is likewise not in any ingested source.** The ingested TG18 paper reproduces the severity criteria for **cholangitis** only (those live on [[acute-cholangitis]]) and cites the cholecystitis grades (Table 4) to the same un-ingested Yokoe companion paper. **Do not carry the cholangitis grades across** — the two organs use different criteria.
+- TG18 severity grading for cholecystitis (Grade I–III) is likewise in the Yokoe companion paper (Table 4); the TG18 flowchart paper reproduces the severity criteria for **cholangitis** only (those live on [[acute-cholangitis]]). **Do not carry the cholangitis grades across** — the two organs use different criteria.
 - **General status is graded alongside severity** in both biliary infections, using the **Charlson Comorbidity Index (CCI)** and the **ASA Physical Status classification**. ([[tg18-2018-cholangitis-flowchart]])
 
 ## Differential Diagnosis
@@ -52,7 +52,7 @@ sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, 
 - [[choledocholithiasis|Choledocholithiasis]] — may coexist; a concurrent need for [[ercp|ERCP]] changes the drainage route (below)
 - [[gallbladder-cancer|Gallbladder cancer]] / malignant cystic duct obstruction — tumor occluding the cystic duct takeoff is a specific indication for EUS-guided drainage
 - [[acute-pancreatitis|Acute pancreatitis]] — overlapping upper-abdominal pain; gallstone AP shares the etiology
-- ⚠ Full differential not covered by ingested sources.
+- Differential limited to the entities the cited guidelines address.
 
 ## Diagnostics
 
@@ -70,7 +70,7 @@ sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, 
 
 **Imaging also answers the two drainage questions** ([[aga-2023-eus-gallbladder-drainage]]): is there **free gallbladder perforation** (contraindicates transmural endoscopic drainage), and what is the gallbladder-to-GI-wall distance (**<10 mm required** for safe LAMS deployment)?
 
-- ⚠ Sensitivity/specificity for these imaging signs, and the lab thresholds that enter the TG18 criteria, are **not** given in any ingested source.
+- Sensitivity/specificity for these imaging signs, and the lab thresholds that enter the TG18 criteria, are not given by the cited guidelines.
 
 ## Therapeutics
 
@@ -108,7 +108,7 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 | **ET-GBD** | **Ascites**; **malignant gallbladder infiltration**; **severe coagulopathy**; **refused rescue surgery**; **liver transplant candidates**; not a surgical candidate now but **may be later** |
 
 - ⚠ **Avoid EUS-GBD in a potential [[liver-transplantation\|liver transplant]] candidate** — stated explicitly by ASGE 2024, and net-new versus [[aga-2023-eus-gallbladder-drainage|AGA 2023]]. The cholecystoenteric fistula it creates is the reason.
-- ⚠ **Contradiction — the "may be a surgical candidate later" patient.** [[aga-2023-eus-gallbladder-drainage|AGA 2023]]'s algorithm routes this patient to **ET-GBD** first. ASGE 2024 is **internally inconsistent**: its Rec 5a general concepts list this group under **PT-GBD**, while its own Table 2 lists them under **ET-GBD**. Both guidelines agree the patient should **not** get EUS-GBD; which non-transmural route is used cannot be adjudicated from the ingested sources. **Confirm future surgical candidacy with the surgeon either way.**
+- ⚠ **Contradiction — the "may be a surgical candidate later" patient.** [[aga-2023-eus-gallbladder-drainage|AGA 2023]]'s algorithm routes this patient to **ET-GBD** first. ASGE 2024 is **internally inconsistent**: its Rec 5a general concepts list this group under **PT-GBD**, while its own Table 2 lists them under **ET-GBD**. Both guidelines agree the patient should **not** get EUS-GBD; neither guideline settles which non-transmural route is used. **Confirm future surgical candidacy with the surgeon either way.**
 - ⚠ **Contradiction — the default route.** AGA 2023's figure sends several groups (uncontrolled ascites, ERCP needed anyway, GB >10 mm from the GI wall) to **ET-GBD first**; ASGE 2024 makes **EUS-GBD** the general first choice with ascites/coagulopathy/malignant infiltration as the ET-GBD carve-outs. **ASGE 2024 governs** (newer, same tier, and a GRADE guideline vs a CPU) — but the AGA carve-outs it does not contradict (needs ERCP for coexisting [[choledocholithiasis|CBD stones]] or [[acute-cholangitis|cholangitis]]; GB >10 mm from the enteral wall, which makes LAMS deployment unsafe) still stand as reasons to choose ET-GBD.
 
 ### Choosing the drainage route

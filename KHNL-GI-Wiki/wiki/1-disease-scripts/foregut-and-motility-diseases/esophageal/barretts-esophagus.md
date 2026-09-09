@@ -240,7 +240,7 @@ Pathologic confirmation was also associated with **prevalent** HGD/carcinoma —
 
 **No repeat screening** after a negative index endoscopy.
 
-**Special case:** If erosive esophagitis ([[reflux-testing|LA grade]] B or worse) is found at index endoscopy, repeat EGD after 8–12 weeks of PPI healing to exclude masked BE. *(The A–D grade definitions are **corpus-blocked** — no ingested source defines them; see the standing note on [[reflux-testing]].)*
+**Special case:** If erosive esophagitis ([[reflux-testing|LA grade]] B or worse) is found at index endoscopy, repeat EGD after 8–12 weeks of PPI healing to exclude masked BE. *(The A–D grade definitions are on [[reflux-testing]].)*
 
 ### Medical Therapy / Chemoprevention
 

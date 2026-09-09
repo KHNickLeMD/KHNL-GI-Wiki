@@ -61,7 +61,7 @@ Postinfectious [[irritable-bowel-syndrome|IBS]] (PI-IBS) is a chronic functional
 
 ## Therapeutics
 
-- Manage as [[irritable-bowel-syndrome|IBS]] — neither ingested source gives PI-IBS-specific pharmacotherapy.
+- Manage as [[irritable-bowel-syndrome|IBS]] — neither guideline gives PI-IBS-specific pharmacotherapy.
 - **Prevention:** aggressive treatment of the acute TD episode, since PI-IBS risk tracks with acute-illness severity. [[acg-2016-acute-diarrhea]]
   - Note the counter-consideration: **antibiotic exposure is itself a risk factor** for postinfection IBS, and antibiotic treatment of the acute bacterial/viral infection does **not** prevent IBS. [[acg-2020-ibs]]
 > **Contradiction surfaced:** [[acg-2016-acute-diarrhea]] argues aggressive antimicrobial treatment of TD to lower PI-IBS risk; the newer [[acg-2020-ibs]] states that treating bacterial/viral enteritis does not prevent IBS and that antibiotic exposure is a PI-IBS risk factor. Both are guidelines, so the newer publication date governs the page's stance on antibiotics-for-prevention.

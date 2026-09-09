@@ -35,7 +35,7 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 - **Suspect on any ONE of:** fever, chills, abdominal pain, [[jaundice]], nausea, vomiting, disturbance of consciousness. One symptom is enough to trigger the workup. ([[tg18-2018-cholangitis-flowchart]])
 - **Vital signs are the first step**, to decide whether the situation is urgent: BP, HR, respiratory rate, temperature, urine volume, SpO₂, consciousness level. **If urgent, start treatment immediately — do not wait for the definitive diagnosis.** ([[tg18-2018-cholangitis-flowchart]])
 - **Exam:** consciousness level, palpebral conjunctival icterus, site and severity of tenderness, peritoneal irritation. Murphy's sign points to [[acute-cholecystitis|acute cholecystitis]] instead.
-- ⚠ **"Charcot's triad" is not defined in any ingested source** — full-text search of TG18, [[asge-2021-cholangitis]] and the rest of the biliary corpus returns zero hits for Charcot, Reynolds or Courvoisier. The eponym is deliberately not stated here as sourced content (same finding recorded on [[jaundice]]).
+- "Charcot's triad" (and Reynolds' pentad) is not defined in TG18 or [[asge-2021-cholangitis]], so it is not stated here as guideline content (see also [[jaundice]]).
 
 **TG18 diagnostic criteria — three domains, and the rule that combines them:**
 
@@ -50,7 +50,7 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 - *The combination rule is the decision:* systemic inflammation is mandatory in both, and it is the presence of **both** B **and** C that converts suspected into definite.
 - **Source:** these three domains and the suspected/definite rule are stated in the introduction of [[jagtap-2026-urgent-vs-early-ercp-cholangitis]], which enrolled on them; that trial defined obstructive jaundice as **total bilirubin ≥2.5 mg/dL *and* ALP >1.5× ULN *and* a dilated bile duct on cross-sectional imaging.**
 
-> ⚠ **Residual gap — the individual A-1/A-2/B-1/B-2/C-1/C-2 items and their lab cut-points are still not in the corpus.** The ingested TG18 file is an accepted manuscript that only cross-references its Table 1; the domain structure and combination rule above are recoverable only second-hand (from the RCT that used them). The itemised criteria with thresholds would require ingesting **Kiriyama S. *Diagnostic and severity grading criteria for acute cholangitis in TG18*, J Hepatobiliary Pancreat Sci 2018** (TG18 reference [6]). Do not reconstruct them from memory. See [[tg18-2018-cholangitis-flowchart]] → *Contradictions / Open Questions*.
+> The individual A-1/A-2/B-1/B-2/C-1/C-2 items and their lab cut-points are not printed in the TG18 flowchart article, which cross-references its Table 1; they are in **Kiriyama S. *Diagnostic and severity grading criteria for acute cholangitis in TG18*, J Hepatobiliary Pancreat Sci 2018**. The domain structure and combination rule above are as restated by the RCT that used them. See [[tg18-2018-cholangitis-flowchart]] → *Contradictions / Open Questions*.
 
 ### Severity Assessment
 
@@ -65,7 +65,7 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 - **The rules differ and the difference is the decision:** Grade III needs only **one** organ dysfunction; Grade II needs **two** of the five criteria — a single criterion (age ≥75 alone, bilirubin ≥5 alone) does **not** make cholangitis moderate.
 - **Grade II is defined by its therapeutic implication:** not severe, but **requires early biliary drainage**.
 - **Grade III is sepsis-induced organ damage**, not simply "sick-looking."
-- ⚠ **Four caveats, all from the same cause — the source's Table 3 is missing and these are transcribed from its running text.** (1) **The comparison operators are not recoverable from the ingested file.** In the accepted manuscript the `<`, `>`, `≥` and `μ` glyphs are unmapped and drop out of text extraction: the sentence reads literally *"WBC 12,000 or 4000, temperature 39 ºC, age 75 years, total bilirubin 5 mg/dL"* and *"dopamine 5 g/kg/min … PaO2/FiO2 ratio 300 … PT-INR 1.5 … platelet count 104/L"*. **The only operator that survives verbatim is creatinine ">2.0".** Every other direction shown in the table above is read off the criterion's clinical sense, not off the source text — do not quote them as verbatim TG18 wording. (2) The **WBC** criterion is printed **without units** (not in the ingested file, so not asserted here). (3) The **albumin** cutoff extracts literally as `albumin (lower limit of normal value  0.73 g/dL)` — both the `<` and the `×` are lost, the closing parenthesis lands *after* "g/dL", and a stray "3" trails the multiplier. Read in clinical sense it is **albumin < (lower limit of normal × 0.7) g/dL**, which is what the table above prints, but that reading is inferred from the sentence, not quoted from it. (4) The **platelet** cutoff is printed as **<10⁴/μL** (i.e. <10,000/μL), far below the usual coagulation-dysfunction threshold and likely a typesetting loss. See [[tg18-2018-cholangitis-flowchart]] before relying on any of these.
+- ⚠ **Read the thresholds above with care.** The TG18 flowchart article states them in running text without reproducing its Table 3, and the published text drops most comparison operators (only creatinine ">2.0" is printed with its operator). The directions in the table above follow each criterion's clinical sense rather than verbatim TG18 wording; the **WBC** criterion is printed **without units**; the **albumin** cutoff is read as **< (lower limit of normal × 0.7) g/dL**; and the **platelet** cutoff is printed as **<10⁴/μL** (i.e. <10,000/μL), far below the usual coagulation-dysfunction threshold and likely a typesetting loss. Verify against Kiriyama 2018 (TG18 Table 3) before relying on any of these.
 - **General status** is graded alongside severity, using the **Charlson Comorbidity Index (CCI)** and the **ASA Physical Status classification**.
 
 ---
@@ -110,7 +110,7 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 ### Initial Treatment — All Grades
 
 - **Sufficient IV fluids, antibiotics, and analgesia**, monitoring BP, heart rate, and urine volume. **In shock, start before the definitive diagnosis.** ([[tg18-2018-cholangitis-flowchart]])
-  - ⚠ **Gap — no antimicrobial regimen is in the corpus.** *Drainage and antibiotics are the two pillars of treatment*, but the ingested TG18 flowchart article deliberately defers all agent choice, dose, and duration to a companion paper: **Gomi H. *TG18: Antimicrobial therapy for acute cholangitis and cholecystitis*, J Hepatobiliary Pancreat Sci 2018** (TG18 ref [13]), which is **not ingested**. [[asge-2021-cholangitis]] does not supply one either. Do not write a regimen from memory.
+  - *Drainage and antibiotics are the two pillars of treatment*, but the TG18 flowchart article defers all agent choice, dose, and duration to its companion paper — **Gomi H. *TG18: Antimicrobial therapy for acute cholangitis and cholecystitis*, J Hepatobiliary Pancreat Sci 2018** — and [[asge-2021-cholangitis]] does not give a regimen either.
 - **When acute cholecystitis coexists** (it sometimes does), decide the strategy on the **severity of both diseases plus the patient's general status** — not on the cholangitis grade alone. ([[tg18-2018-cholangitis-flowchart]])
 - **Fast the patient in principle**, so emergency drainage can proceed immediately. *(No high-quality evidence either way.)*
 - **Give analgesia proactively and early.** An RCT of IV morphine vs placebo in ER abdominal pain found **no difference in diagnostic accuracy** — fear of masking physical signs should not delay it.
@@ -119,7 +119,7 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 
 ### Biliary Drainage — Timing
 
-**The wiki follows [[asge-2021-cholangitis]] (2021, newer guideline) for the operative window. Its three recommendations, with their GRADE labels as published:**
+**This page follows [[asge-2021-cholangitis]] (2021, the newer guideline) for the operative window. Its three recommendations, with their GRADE labels as published:**
 
 | # | Recommendation | Strength | Quality |
 |---|---|---|---|

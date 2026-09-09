@@ -11,7 +11,7 @@ A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal 
 
 **Mechanism:** Inhibits bacterial RNA polymerase (beta-subunit). Broad-spectrum antibacterial with activity against aerobic and anaerobic Gram-positive and Gram-negative bacteria. Gut-selective due to minimal systemic bioavailability.
 
-**Dosing in SIBO — the two tier-1 sources give different doses.** [[aga-2020-sibo]] is the later 2020 publication, so its regimen is what the wiki asserts; the ACG dose is stated alongside because it is the one most US prescriptions are written for.
+**Dosing in SIBO — the two tier-1 sources give different doses.** [[aga-2020-sibo]] is the later 2020 publication, so this page follows its regimen; the ACG dose is stated alongside because it is the one most US prescriptions are written for.
 
 | | [[aga-2020-sibo\|AGA 2020 CPU]] (Table 2) | [[acg-2020-sibo\|ACG 2020]] (Table 5) |
 |---|---|---|
@@ -19,7 +19,7 @@ A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal 
 | Duration | **7–10 days** (general antibiotic advice, all agents) | Not specified |
 | Efficacy quoted | ~**70%** eradication (meta-analysis) | **61%–78%** |
 
-- **Duration, now sourced.** [[aga-2020-sibo]]: "a single **7- to 10-day course** improves symptoms for up to several months in **46%–90%** of patients with SIBO and renders breath tests negative in **20%–75%**." This supersedes the previous note that no ingested source stated a duration. A 14-day course remains common practice but is not stated by either society for SIBO.
+- **Duration.** [[aga-2020-sibo]]: "a single **7- to 10-day course** improves symptoms for up to several months in **46%–90%** of patients with SIBO and renders breath tests negative in **20%–75%**." A 14-day course remains common practice but is not stated by either society for SIBO.
 - Trial dosing behind the AGA range: **800 mg/day × 4 weeks** to **1200 mg/day × 7 days** ([[aga-2020-sibo]]); ACG's pooled trials ranged **600–1,600 mg/day** for **5–28 days**.
 - Meta-analysis (32 trials + 1 randomized crossover, n=1,331): overall ITT success **70.8%** (CI 61.4–78.2), adverse reactions **4.6%**. Only 1 of the trials was placebo-controlled.
 - **Coverage:** SIBO is **not an FDA-recognized indication** for rifaximin in the US and "might not be covered by the patient's insurance carrier" ([[aga-2020-sibo]]) — off-label use.
@@ -49,7 +49,7 @@ A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal 
 
 - Pivotal RCT (n=299; cirrhosis with **≥2 OHE episodes in the preceding 6 months**, in remission at entry, **91% on background lactulose**): at 6 months, **58% risk reduction in breakthrough OHE (NNT 4)** and **50% reduction in HE-related hospitalization (NNT 9)**.
 - **Monotherapy vs combination:** rifaximin monotherapy *has* maintained remission and lowered hospitalization vs lactulose monotherapy — but only in **small or retrospective** studies. The preponderance of evidence favors **rifaximin + lactulose** in anyone who tolerates dual therapy, so combination is the default.
-- A **Bristol Stool Scale (BSS) score ≥5** on lactulose signals the need to cut lactulose back or add rifaximin; BSS ≥5 *before* lactulose is even started argues for a non-laxative therapy de novo. *(The 7 Bristol stool types are used but never defined anywhere in the ingested corpus — standing gap documented on [[chronic-constipation]]; do not reconstruct them from memory.)*
+- A **Bristol Stool Scale (BSS) score ≥5** on lactulose signals the need to cut lactulose back or add rifaximin; BSS ≥5 *before* lactulose is even started argues for a non-laxative therapy de novo. *(The guideline uses the Bristol scale without printing the 7 types — see [[chronic-constipation]].)*
 
 **Where rifaximin is *not* indicated** — Baveno VII draws an explicit boundary [[baveno-vii-2022-portal-hypertension]]:
 

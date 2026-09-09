@@ -7,7 +7,7 @@ updated: 2026-09-02
 sources: []
 ---
 
-> **⚠ This source is a STUDY PROTOCOL, not a results paper.** It reports no outcomes. Nothing on any wiki page may cite ENDURO for the efficacy or safety of EUS-guided gastroenterostomy. What it legitimately supplies is trial design, eligibility, standardized procedural technique, and outcome definitions.
+> **⚠ This source is a STUDY PROTOCOL, not a results paper.** It reports no outcomes. ENDURO cannot be cited for the efficacy or safety of EUS-guided gastroenterostomy. What it legitimately supplies is trial design, eligibility, standardized procedural technique, and outcome definitions.
 
 ## Bibliographic Info
 - **Article:** [Kastelijn JB, van de Pavert YL, Besselink MG, Fockens P, Voermans RP, van Wanrooij RLJ, et al., for the Dutch Pancreatic Cancer Group. Endoscopic ultrasonography-guided gastroenterostomy versus surgical gastrojejunostomy for palliation of malignant gastric outlet obstruction (ENDURO): study protocol for a randomized controlled trial. Trials. 2023;24:608.](https://doi.org/10.1186/s13063-023-07522-7)
@@ -25,7 +25,7 @@ Protocol for a **multicentre, open-label, parallel-group randomized controlled t
 
 The rationale as stated in the protocol is that the two established options each fail in a different direction. **Enteral stenting** relieves symptoms fast but carries high reintervention rates, with stent obstruction in **up to 30%** of cases, and is therefore recommended only when estimated survival is **under two months**. **Surgical gastrojejunostomy** has a high success rate and low reintervention rate but significant post-operative morbidity including gastroparesis, and is recommended when estimated survival exceeds **two months** with adequate performance status. EUS-GE — a **lumen-apposing metal stent (LAMS)** placed endoscopically between the stomach and a jejunal loop distal to the obstruction — is proposed as combining the speed of stenting with the durability of surgery. The protocol is candid that EUS-GE is **technically demanding** and that in inexperienced hands **LAMS misdeployment can cause jejunal perforation and peritonitis**.
 
-Its practical value to the wiki is procedural, not comparative: both arms are **protocolized in detail**, giving a sourced description of how each operation is actually done, plus explicit rules for failure, crossover, and post-procedure management.
+Its practical value is procedural, not comparative: both arms are **protocolized in detail**, giving a sourced description of how each operation is actually done, plus explicit rules for failure, crossover, and post-procedure management.
 
 **Trial status as published:** first patient randomized 2022-02-18; **50 patients included as of 2023-04-12**; last patient expected in the first half of 2024. Results were not available in this document.
 
@@ -49,7 +49,7 @@ Its practical value to the wiki is procedural, not comparative: both arms are **
 **Endpoints:**
 - **Primary:** time to tolerate at least **soft solids (GOOSS ≥2)**.
 - **Co-primary:** proportion of patients with **persisting or recurring GOO symptoms requiring a reintervention**.
-- **Secondary:** technical success, clinical success, quality of life, gastroenterostomy dysfunction, reintervention and time to reintervention, adverse events, time to start chemotherapy, length of stay, readmission, weight, survival, costs. *(Precise definitions of technical and clinical success are held in the article's Additional file 3, which is not part of the ingested PDF.)*
+- **Secondary:** technical success, clinical success, quality of life, gastroenterostomy dysfunction, reintervention and time to reintervention, adverse events, time to start chemotherapy, length of stay, readmission, weight, survival, costs. *(Precise definitions of technical and clinical success are in the article's Additional file 3.)*
 - **Sample size:** powered on an assumed median time to GOOSS ≥2 of **3 days after SGJ versus 1 day after EUS-GE** (from a retrospective study) — 21 per arm for 90% power, two-sided alpha 0.05, 6-month follow-up; total inflated to 96 to serve the co-primary endpoint.
 - **Stratified by WHO performance status**, deliberately **not** by centre (would compromise allocation concealment, and some patients transfer for EUS-GE).
 
@@ -83,14 +83,14 @@ Its practical value to the wiki is procedural, not comparative: both arms are **
 
 - Supplies the **procedural detail and post-procedure management rules** on the new [[gastric-outlet-obstruction]] page — EUS-GE and laparoscopic SGJ technique, the 6-week no-re-endoscopy rule, the day-5 feeding-tube trigger, and the definition of persistent versus recurrent obstruction.
 - Corroborates the **2-month prognosis threshold** that [[jeurnink-2010-sustent-goo|SUSTENT]] established, and documents the **up-to-30% stent obstruction rate** that motivates it.
-- Adds lumen-apposing-metal-stent technique context to [[endoscopic-ultrasound]] — LAMS use beyond [[eus-guided-gallbladder-drainage|gallbladder]] and pancreatic-fluid-collection drainage. (There is still no dedicated LAMS page; flagged for triage.)
+- Adds lumen-apposing-metal-stent technique context to [[endoscopic-ultrasound]] — LAMS use beyond [[eus-guided-gallbladder-drainage|gallbladder]] and pancreatic-fluid-collection drainage.
 - Relevant to [[pancreatic-cancer]] — 15–20% of patients with pancreatic adenocarcinoma develop GOO (protocol background).
 
 ---
 
 ## Contradictions / Open Questions
 
-- **The comparative question is open in this corpus.** ENDURO exists precisely because the EUS-GE-versus-surgery question is unanswered, and it reports nothing. **No wiki page may state that EUS-GE is superior, equivalent, or inferior to surgical gastrojejunostomy** — the ingested corpus does not support any of the three. The results publication is the source that would close this gap.
+- **The comparative question is open.** ENDURO exists precisely because the EUS-GE-versus-surgery question is unanswered, and it reports nothing; EUS-GE cannot be called superior, equivalent, or inferior to surgical gastrojejunostomy until the results are published.
 - **The trial's own power assumption is not evidence.** The "3 days SGJ versus 1 day EUS-GE" figure is a planning assumption drawn from a retrospective study, used to size the trial. It must not be quoted as an observed result.
-- **No ingested society guideline covers malignant GOO palliation.** The "<2 months → stent, ≥2 months → surgery" rule reaches the wiki from a tier-2 RCT ([[jeurnink-2010-sustent-goo]]) and this protocol's background restatement of it, **not** from a tier-1 source. An ASGE/ESGE guideline on enteral stenting would upgrade it and should be flagged for ingest.
+- **No society guideline covers malignant GOO palliation.** The "<2 months → stent, ≥2 months → surgery" rule rests on a tier-2 RCT ([[jeurnink-2010-sustent-goo]]) and this protocol's background restatement of it, **not** on a tier-1 source.
 - **Tension with the older trial's comparator:** SUSTENT's surgical arm was 16/18 **open** GJJ, while ENDURO standardizes a **laparoscopic** SGJ. The surgical penalty in time-to-eating and length of stay observed in 2010 likely overstates what a modern laparoscopic bypass costs.

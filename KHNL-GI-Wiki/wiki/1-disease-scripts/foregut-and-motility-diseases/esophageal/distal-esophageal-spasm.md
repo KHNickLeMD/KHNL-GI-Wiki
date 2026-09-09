@@ -69,7 +69,7 @@ Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** crit
 - [[poem|POEM]] is an option for refractory dysphagia-predominant spastic disorders; the ACG achalasia guideline frames POEM as favored for spastic (Type III) disease due to longer myotomy reach ([[acg-2020-achalasia]])
 - **AGA 2024 CPU caveat:** for **nonachalasia** spastic disorders, evidence for POEM is limited — reserve for **case-by-case** use after less invasive options (medical therapy, botulinum toxin, endoscopic dilation) are exhausted, with symptoms correlated to manometry ([[aga-2024-poem-advances|AGA 2024]] BPA 3)
 
-*Medical management specific to DES (smooth-muscle relaxants, neuromodulators) is not covered by an ingested source — awaiting a dedicated spastic-disorders / non-cardiac chest pain source.*
+*Medical management specific to DES (smooth-muscle relaxants, neuromodulators) is not covered by the achalasia guideline and is not addressed on this page.*
 
 ---
 

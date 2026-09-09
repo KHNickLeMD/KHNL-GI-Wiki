@@ -176,7 +176,7 @@ in the **absence of other inherent CRC risk factors**.
 - **Steroid-free of any GRADE rating** — as a CPU expert review, none of the 14 BPAs carries a strength or certainty grade.
 - **Open per the authors:** the role of nontargeted biopsies when using HD scopes; the long-term safety of endoscopic management of large/complex dysplastic lesions; and the optimal surveillance intervals accounting for lifetime inflammatory burden.
 - **Whether mesalamine is independently chemopreventive is unresolved** — relevant to any wiki page that implies it is.
-- Figures 1 and 2 (principles of CRC screening in IBD; dysplasia management and surveillance-interval algorithm) are raster images with no extractable text layer, and figure capture is blocked in this environment. Their decision content is captured as tables above from the body text rather than embedded as images.
+- Figures 1 and 2 (principles of CRC screening in IBD; dysplasia management and surveillance-interval algorithm) are not reproduced as images; their decision content is captured as tables above from the body text.
 
 ---
 

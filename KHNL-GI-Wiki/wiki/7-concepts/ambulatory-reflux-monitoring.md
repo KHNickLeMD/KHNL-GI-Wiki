@@ -73,7 +73,7 @@ The Lyon 2.0 framework has two foundational principles:
 | Biopsy-proven [[barretts-esophagus\|Barrett's oesophagus]] | Conclusive |
 | Peptic stricture | Conclusive |
 
-*⚠ No ingested source defines LA grades A–D — see the corpus-gap note on [[reflux-testing]]. Lyon 2.0 uses the grades without reproducing their criteria.*
+*Lyon 2.0 uses LA grades A–D without reproducing their criteria (see [[reflux-testing]]).*
 
 **Key update:** LA grade B is now conclusive. Its AET on wireless pH monitoring is 8.23% (vs. 9.95% for grade C), and on pH-impedance is 6.0% (vs. 8.7% for grade C). [[proton-pump-inhibitors|PPI]] response rate is 74% for grade B vs. 70% for grade C — comparable to higher grades.
 

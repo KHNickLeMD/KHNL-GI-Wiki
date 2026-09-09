@@ -71,7 +71,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, acg-2020-ibs]
 - [[acg-2016-acute-diarrhea]] independently endorses **metronidazole, tinidazole, or nitazoxanide** for *Giardia*, calling the evidence for antimicrobial treatment of specific parasitic causes **strong**.
 - Treat symptomatic infection; weigh treatment of incidental molecular-panel positives against symptoms and exposure.
 
-> **Dose gap:** no ingested source gives a dose or duration for nitazoxanide, tinidazole, or metronidazole in giardiasis — IDSA 2017 Table 6 has no dose column and ACG 2016 names the agents in prose only. Previously stated regimens ("tinidazole 2 g single dose", "metronidazole 250 mg TID × 5–7 days") were unsourced and have been removed. A CDC/IDSA parasitic-disease treatment table would be needed to restore them.
+> **Dose gap:** neither guideline gives a dose or duration for nitazoxanide, tinidazole, or metronidazole in giardiasis — IDSA 2017 Table 6 has no dose column and ACG 2016 names the agents in prose only; take regimens from a CDC/IDSA parasitic-disease treatment table.
 
 ---
 

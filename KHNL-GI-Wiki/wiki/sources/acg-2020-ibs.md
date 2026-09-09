@@ -90,8 +90,8 @@ First ACG clinical guideline for IBS using GRADE. 25 statements (9 diagnostic, 1
 
 ## Relevance to Wiki
 
-- Expands [[irritable-bowel-syndrome]] from stub to full disease script (Rome IV criteria, subtypes by BSFS, positive diagnostic strategy, full therapeutic ladder)
-- Creates/touches: [[linaclotide]], [[plecanatide]], [[lubiprostone]] (cross-listed in CIC), [[rifaximin]], TCA stub considerations
+- Anchors the [[irritable-bowel-syndrome]] disease script (Rome IV criteria, subtypes by BSFS, positive diagnostic strategy, full therapeutic ladder)
+- Creates/touches: [[linaclotide]], [[plecanatide]], [[lubiprostone]] (cross-listed in CIC), [[rifaximin]], TCA considerations
 - Cross-references: [[disorders-of-gut-brain-interaction]] (Rome IV/V framework), [[celiac-disease]] (serology in IBS-D), [[crohns-disease]] / [[ulcerative-colitis]] (calprotectin to exclude IBD), [[dyspepsia]] (overlap), [[chronic-idiopathic-constipation]] (separates from IBS-C by pain dominance), [[defecation-disorders]] (ARM/BET in refractory IBS-C)
 
 ## Contradictions / Open Questions

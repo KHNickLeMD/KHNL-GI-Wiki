@@ -107,9 +107,7 @@ Key data:
 
 **Specimen handling**: identify **both the esophageal and duodenal mucosa at the ends of the surgical specimen** — gastric cancer after prophylactic gastrectomy has been reported [[acg-2015-hereditary-gi-cancer]].
 
-> **Corpus gap — extent of resection.** [[acg-2015-hereditary-gi-cancer]] recommends "prophylactic gastrectomy after age 20 years" but **does not state total vs partial gastrectomy**, reconstruction, or perioperative management, and no other ingested source covers it. Not asserted here from general knowledge.
->
-> **The source that would close it is named by an ingested guideline.** [[nccn-2026-gastric-cancer|NCCN 2026 Gastric Cancer]] does **not** carry HDGC management itself — it explicitly defers to the separate **NCCN Guidelines for Genetic/Familial High-Risk Assessment: Colorectal, Endometrial, and Gastric**, which is where NCCN puts *Testing Criteria for Hereditary Diffuse Gastric Cancer*, *CDH1 Gastric Cancer Risks*, and *Management of Gastric Cancer Risk in CDH1 Pathogenic Variant Carriers*. Ingesting that document (or an IGCLC HDGC consensus) is what would close this gap. Note also that [[aga-2025-gastric-cancer-screening|AGA 2025 gastric cancer screening]] puts HDGC **out of scope**, so it cannot close it.
+> **Extent of resection.** [[acg-2015-hereditary-gi-cancer]] recommends "prophylactic gastrectomy after age 20 years" but does not state total vs partial gastrectomy, reconstruction, or perioperative management. [[nccn-2026-gastric-cancer|NCCN 2026 Gastric Cancer]] does not carry HDGC management itself — it defers to the separate **NCCN Guidelines for Genetic/Familial High-Risk Assessment: Colorectal, Endometrial, and Gastric** (*Testing Criteria for Hereditary Diffuse Gastric Cancer*, *CDH1 Gastric Cancer Risks*, *Management of Gastric Cancer Risk in CDH1 Pathogenic Variant Carriers*); consult that document or the IGCLC HDGC consensus. [[aga-2025-gastric-cancer-screening|AGA 2025 gastric cancer screening]] puts HDGC out of scope.
 
 **Post-gastrectomy**:
 

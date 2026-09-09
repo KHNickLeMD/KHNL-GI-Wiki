@@ -31,7 +31,7 @@ Glucagon-like peptide-2 (GLP-2) agonists are **intestinotrophic** peptides used 
 - Management should be **co-managed with a registered dietitian**, especially in SBS/intestinal failure. ([[aga-2024-diet-nutrition-ibd]])
 
 ## Dosing & Monitoring
-- **Gap — not in ingested sources.** The ingested AGA clinical practice updates reference GLP-2 agonists only for their *role* in SBS/HOO management; they give **no dosing, monitoring, or adverse-effect detail**. A dedicated SBS / intestinal-failure guideline or the teduglutide (STEPS) trial is needed to add agent-level dosing and safety. Do not fill from memory.
+- **Dosing not covered here.** The AGA clinical practice updates reference GLP-2 agonists only for their *role* in SBS/HOO management and give **no dosing, monitoring, or adverse-effect detail**; take agent-level dosing and safety from a dedicated SBS / intestinal-failure guideline or the teduglutide (STEPS) trial.
 
 ## See Also
 

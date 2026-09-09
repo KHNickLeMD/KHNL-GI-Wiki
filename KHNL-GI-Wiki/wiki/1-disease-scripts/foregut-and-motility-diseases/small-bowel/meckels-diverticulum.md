@@ -28,7 +28,7 @@ A small-bowel diverticulum that may harbor **ectopic gastric mucosa** (reported 
 
 ### Severity Assessment
 
-- **No Meckel-specific severity score exists in any ingested source.** Severity is carried entirely by the bleeding phenotype, which is what sets the pathway on [[small-bowel-bleeding]]: **occult vs overt**, and within overt, **ongoing/massive vs intermittent**.
+- **No Meckel-specific severity score exists in the guidelines.** Severity is carried entirely by the bleeding phenotype, which is what sets the pathway on [[small-bowel-bleeding]]: **occult vs overt**, and within overt, **ongoing/massive vs intermittent**.
 - The operative distinctions the sources do draw: **ongoing overt bleeding with normal VCE + enterography** is what triggers the Meckel scan (Rec 22); **significant ongoing anemia or active bleeding from a reachable lesion** triggers endoscopic therapy (Rec 23); **massive bleeding** triggers surgery with pre-/intraoperative localization (Recs 28–29).
 
 ## Differential Diagnosis
@@ -61,7 +61,7 @@ Other small-bowel bleeding sources to consider — with an age skew toward the y
 - **Localized small-bowel source with significant ongoing anemia or active bleeding** → endoscopic therapy when the lesion is reachable by [[device-assisted-enteroscopy|deep enteroscopy]] (ACG 2015, Rec 23).
 - **Surgical intervention** for massive small-bowel bleeding — **greatly aided by presurgical/intraoperative localization** of the bleeding site (ACG 2015, Recs 28–29); intraoperative enteroscopy should be available to help localize the source.
 
-> *Gap: the ingested small-bowel-bleeding guidelines (ACG 2015, ASGE 2017) address diagnosis and general management but do not detail Meckel-specific surgical technique (diverticulectomy vs. segmental resection). A dedicated source would be needed to expand the Therapeutics section.*
+> *The small-bowel-bleeding guidelines (ACG 2015, ASGE 2017) address diagnosis and general management but do not detail Meckel-specific surgical technique (diverticulectomy vs. segmental resection).*
 
 ## See Also
 

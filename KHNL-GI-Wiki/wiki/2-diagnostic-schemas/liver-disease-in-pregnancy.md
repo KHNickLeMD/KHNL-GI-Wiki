@@ -201,7 +201,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 - Fat-soluble vitamin supplementation if malabsorption
 - Pruritus resolves after delivery; if it persists **>6 weeks postpartum**, evaluate for underlying chronic liver disease ([[aga-2024-pregnancy-gi-liver]])
 
-**Post-delivery:** Pruritus and bile acid abnormalities resolve after delivery. Evaluate for an alternative etiology if cholestasis persists. *(An earlier version of this line read "jaundice resolves in <25% of cases after delivery" — that was a garbled restatement of the prevalence figure above, that **bilirubin is elevated in <25% of patients**; removed 2026-09-03.)*
+**Post-delivery:** Pruritus and bile acid abnormalities resolve after delivery. Evaluate for an alternative etiology if cholestasis persists.
 
 ### Preeclampsia / Eclampsia with Hepatic Involvement
 
@@ -277,7 +277,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 | Coagulopathy (PT or APTT) | PT >14s or APPT >34s |
 | Microvesicular steatosis on liver biopsy | — |
 
-ᵃ **Reproduced exactly as printed in [[acg-2016-liver-disease-pregnancy|ACG 2016]]** (its Swansea table). Note the exponent is off by 10³ against the units every lab reports — a WBC of 11×10⁶/L would be profoundly *low*, not a leucocytosis; the intended criterion is the conventional **>11×10⁹/L (11,000/µL)**. Not silently corrected here because no ingested source prints the corrected form; read the row as "WBC above the normal upper limit."
+ᵃ **Reproduced exactly as printed in [[acg-2016-liver-disease-pregnancy|ACG 2016]]** (its Swansea table). Note the exponent is off by 10³ against the units every lab reports — a WBC of 11×10⁶/L would be profoundly *low*, not a leucocytosis; the intended criterion is the conventional **>11×10⁹/L (11,000/µL)**. Reproduced as printed; read the row as "WBC above the normal upper limit."
 
 Swansea Criteria: 85% PPV, 100% NPV for hepatic microvesicular steatosis (validated in UK cohort of 5.0 cases/100,000 maternities).
 
@@ -351,7 +351,7 @@ See also: [[hepatitis-c-in-pregnancy]]
 - Minimize invasive procedures (amniocentesis, invasive fetal monitoring) in infected mothers (Rec 27)
 - Elective C-section does not reduce HCV vertical transmission (Rec 28)
 
-**Screening:** Screen women with risk factors for HCV with anti-HCV antibody (Rec 26); universal screening not recommended. ⚠ **This is 2016 guidance and is likely superseded** — no post-2016 pregnancy HCV-screening source is ingested, so the wiki cannot state what the current position is. *(A previous parenthetical asserting that "more recent guidelines and CDC recommend universal screening in pregnancy" was removed 2026-09-07: it was unsourced outside information with no citation and no backing document in `raw/`.)* Ingest a current AASLD/IDSA HCV guidance or an ACOG/CDC screening document to close this.
+**Screening:** Screen women with risk factors for HCV with anti-HCV antibody (Rec 26); universal screening not recommended. ⚠ **This is 2016 guidance and is likely superseded** — check current AASLD/IDSA HCV guidance or ACOG/CDC screening recommendations for the present position on universal screening in pregnancy.
 
 **Treatment:** No HCV therapy during pregnancy (Rec 30 — strong, very low evidence); interferon and ribavirin strictly contraindicated; no safety data for [[direct-acting-antivirals|DAAs]] during pregnancy
 

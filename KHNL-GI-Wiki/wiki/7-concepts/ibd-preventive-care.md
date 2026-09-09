@@ -106,7 +106,7 @@ Patients with [[inflammatory-bowel-disease|IBD]] ([[crohns-disease]] and [[ulcer
 
 ### Colorectal Dysplasia
 
-- Not addressed in these preventive-care guidelines. Who and when to survey for [[colorectal-cancer|colitis-associated CRC]] lives on [[ulcerative-colitis]] and [[crohns-disease]]; chromoendoscopy/SCENIC technique on [[colonoscopy]]. ⚠ No ingested source states a numeric repeat interval for IBD dysplasia surveillance — flagged on those pages, not filled. The average-risk grid on [[colonoscopy-surveillance]] explicitly excludes IBD.
+- Not addressed in these preventive-care guidelines. Who and when to survey for [[colorectal-cancer|colitis-associated CRC]] lives on [[ulcerative-colitis]] and [[crohns-disease]]; chromoendoscopy/SCENIC technique on [[colonoscopy]]. These guidelines give no numeric repeat interval for IBD dysplasia surveillance. The average-risk grid on [[colonoscopy-surveillance]] explicitly excludes IBD.
 
 ---
 

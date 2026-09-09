@@ -59,7 +59,7 @@ Nutrition support in the hospitalized patient encompasses the assessment of nutr
 | **3** (severe) — wt loss >5% in 1 mo (>15% in 3 mo); OR BMI <18.5 + impaired general condition; OR intake <25% | **3** (severe) — head injury, bone marrow transplant, ICU patients (APACHE II >10) |
 
 - **+1 point if age ≥70 years.** Total score = nutritional-status points + disease-severity points + age point.
-- **Interpretation (ACG 2016):** score **≤3 = low** nutritional risk (no outcome benefit from nutrition therapy in the validation cohort); score **>3 = high** nutritional risk (benefits from more aggressive nutrition therapy). Score **≥5** flagged the high-risk stratum in the >1,000-patient elective-surgery validation study. [[acg-2016-nutrition-hospitalized]]
+- **Interpretation (ACG 2016):** score **≤3 = low** nutritional risk (no outcome benefit from nutrition therapy in the validation cohort); score **>3 = high** nutritional risk (benefits from more aggressive nutrition therapy). Score **≥5** identified the high-risk stratum in the >1,000-patient elective-surgery validation study. [[acg-2016-nutrition-hospitalized]]
 
 **Biomarkers to avoid as nutrition markers** [[acg-2016-nutrition-hospitalized]]:
 
@@ -140,7 +140,7 @@ Two rules that change the nutrition plan: **PEG is preferred over interventional
 - Routine GRV monitoring NOT recommended; high GRV alone should not trigger EN cessation [[acg-2016-nutrition-hospitalized]]
 - Signs of intolerance: abdominal distension, discomfort, significant emesis
 - **Prokinetic agent** for the patient at high aspiration risk (Rec 23b(i), Conditional, Low) — alongside diverting the feeding level lower in the GI tract (Strong, Moderate–High) and switching to continuous infusion (Conditional, Very Low)
-  - ⚠ **Unverified dosing.** A prior version of this page printed "metoclopramide 10 mg IV q6h or erythromycin 250 mg IV q6h." **Neither agent nor either dose appears in [[acg-2016-nutrition-hospitalized]]**, which says only "use a prokinetic agent." Retained here as a flag, not as guidance — an ingested source giving prokinetic dosing would be needed to state it.
+  - ⚠ **Prokinetic dosing is not given.** [[acg-2016-nutrition-hospitalized]] says only "use a prokinetic agent"; the commonly used regimens (metoclopramide 10 mg IV q6h or erythromycin 250 mg IV q6h) are not sourced to it and are listed here for recognition only.
 
 **Feeding protocols:** Nurse-driven titration algorithms should be implemented to optimize EN delivery rates (Strong, Moderate–High evidence).
 

@@ -65,5 +65,5 @@ At 5 Spanish centers (Sept 2014–June 2018), 226 patients with a pancreatic cys
 
 ## Contradictions / Open Questions
 
-- **Directly contradicts** the standing guideline suggestion (ASGE 2015 [[asge-2015-antibiotic-prophylaxis]]; ESGE 2017) to give routine prophylaxis for EUS-FNA of pancreatic/peripancreatic cysts. Per source priority, the ASGE 2015 *guideline* (tier 1) still governs the wiki's primary assertion over this RCT (tier 2) until a newer guideline incorporates the RCT — but the "suggested" GRADE was low-quality and this RCT is the strongest evidence to date; the contradiction is surfaced on the affected pages.
+- **Directly contradicts** the standing guideline suggestion (ASGE 2015 [[asge-2015-antibiotic-prophylaxis]]; ESGE 2017) to give routine prophylaxis for EUS-FNA of pancreatic/peripancreatic cysts. Per source priority, the ASGE 2015 *guideline* (tier 1) still governs the primary recommendation on the entity pages over this RCT (tier 2) until a newer guideline incorporates the RCT — but the "suggested" GRADE was low-quality and this RCT is the strongest evidence to date; the contradiction is surfaced on the affected pages.
 - Whether prophylaxis remains warranted for duplication/mediastinal cysts, incompletely drained cysts, or immunosuppressed patients is unresolved (excluded or underpowered).

@@ -22,7 +22,7 @@ sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ### Establishing the Diagnosis
 
 - Rare **autosomal dominant** attenuated colonic polyposis, originally described in a large **Ashkenazi Jewish** kindred with multiple colorectal polyps and cancer [[acg-2015-hereditary-gi-cancer]] [[aga-2022-hamartomatous-polyposis]]
-- **No formal diagnostic criteria exist** in either ingested source — HMPS is recognised by its **polyp mix** in a dominantly inherited kindred, and confirmed genetically
+- **No formal diagnostic criteria exist** in either guideline — HMPS is recognised by its **polyp mix** in a dominantly inherited kindred, and confirmed genetically
 - In the original Whitelaw kindred: **13 members developed [[colorectal-cancer|CRC]]** and **23 developed multiple polyps of several histologic types**
 - **Mean age of polyp occurrence: 28 years** in one family; **onset of polyposis in the late 20s** in the largest reported series (4 families, 16 affected members)
 
@@ -46,7 +46,7 @@ sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 
 ### Severity Assessment
 
-> **Decision gap — not answerable from the ingested sources.** Neither [[acg-2015-hereditary-gi-cancer|ACG 2015]] nor [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] gives a lifetime CRC risk figure, a penetrance estimate, or an extraintestinal cancer risk for HMPS: *"There are not enough data to know the optimal surveillance intervals or whether extraintestinal neoplasia is a risk."* A dedicated HMPS/GREM1 series would be needed — do not infer a number.
+> **Not answerable from the guidelines.** Neither [[acg-2015-hereditary-gi-cancer|ACG 2015]] nor [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] gives a lifetime CRC risk figure, a penetrance estimate, or an extraintestinal cancer risk for HMPS: *"There are not enough data to know the optimal surveillance intervals or whether extraintestinal neoplasia is a risk."*
 
 ---
 

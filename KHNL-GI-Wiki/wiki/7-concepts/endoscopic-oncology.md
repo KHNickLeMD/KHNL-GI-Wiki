@@ -32,12 +32,12 @@ Endoscopic oncology overlaps with but is distinct from:
 
 ## Training and Credentialing
 
-What the ingested corpus actually states ([[acg-2025-eus-quality]]):
+What the guideline states ([[acg-2025-eus-quality]]):
 
 - **EUS must be performed or supervised by a fully trained, credentialed endosonographer** — quality indicator 4, target **>98%**.
 - **>50% of accepted EUS indications are now therapeutic**, and the guideline states that **competency should be objectively assessed** rather than assumed from case volume.
 
-> **Corpus gap — no training pathway or case-volume threshold is sourced.** A previous version of this page asserted that endoscopic oncology "requires advanced endoscopy fellowship beyond standard GI training, with specific volume requirements for ESD, EUS-FNA, and complex biliary work." No ingested source states a fellowship requirement or a numeric case volume for any of those; the claim was removed at the 2026-08-30 lint. An ASGE/ACG training-and-credentialing document (or the full Chang 2024 editorial) would be needed.
+> No guideline cited here states a fellowship requirement or a numeric case-volume threshold for ESD, EUS-FNA, or complex biliary work; see ASGE/ACG training-and-credentialing documents for those.
 
 ## See Also
 
@@ -47,6 +47,6 @@ What the ingested corpus actually states ([[acg-2025-eus-quality]]):
 
 ## Sources
 
-1. [[chang-2024-endoscopic-oncologist|The Vital Role of the Endoscopic Oncologist]] *(citation of record only — no full text ingested)*
+1. [[chang-2024-endoscopic-oncologist|The Vital Role of the Endoscopic Oncologist]] *(citation of record only)*
 2. [[asge-2023-esd|ASGE Guideline: ESD for Early Esophageal and Gastric Cancer (2023)]]
 3. [[acg-2025-eus-quality|ACG/ASGE 2025: Quality Indicators for EUS]]

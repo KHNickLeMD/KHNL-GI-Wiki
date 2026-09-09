@@ -113,7 +113,7 @@ The ≥87% sampling target rests on these pooled figures ([[acg-2025-eus-quality
 | Pooled sensitivity / specificity (EUS-guided sampling) | **85% (84–86) / 98% (97–99)**; in a later analysis **86.8% (85.5–87.9) / 95.8% (94.6–96.7)** |
 | EUS detection of pancreatic cancer | sensitivity **93–100%**, specificity **53–100%** |
 | EUS in suspected pancreatic cancer with **indeterminate multidetector CT** (meta-analysis, 206 subjects; mean lesion 2.1 ± 0.12 cm) | sensitivity **85% (69–94)**, specificity **58% (40–74)** — the specificity collapse is why EUS resolves a CT-indeterminate gland only in one direction |
-| EUS-FNA in [[chronic-pancreatitis\|chronic pancreatitis]] | **sensitivity is lower** — stated qualitatively only; ⚠ no number given in any ingested source (elastography is being explored for this setting) |
+| EUS-FNA in [[chronic-pancreatitis\|chronic pancreatitis]] | **sensitivity is lower** — stated qualitatively only; no number given by the source (elastography is being explored for this setting) |
 
 ### Adverse Event Rate Benchmarks
 

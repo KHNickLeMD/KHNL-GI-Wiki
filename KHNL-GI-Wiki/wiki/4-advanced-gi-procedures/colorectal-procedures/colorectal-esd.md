@@ -45,7 +45,7 @@ Most colorectal neoplasms are benign and resectable by piecemeal [[endoscopic-mu
 
 - Uses the full-thickness resection device (FTRD — OTSC clip system with integrated snare); removes all layers of the colon wall → allows complete histologic assessment. **Cap outer diameter 21 mm**, which is what limits how much tissue can be drawn in and imposes the size ceilings below ([[usmstf-2020-endoscopic-removal]], [[asge-2020-endoscopic-removal]]).
 - Suggested indications, verbatim: *"Suggested indications for endoscopic full-thickness resection include lesions **<30 mm**, particularly **non-lifting** or those **involving diverticulum**."* Read this as an option, not an indication.
-  - ⚠ **Source-fidelity correction (2026-09-08):** this sentence is **narrative text** in USMSTF 2020, not a graded recommendation. The document contains **no numbered recommendation about eFTR and no GRADE rating for it** — the previously cited *"Rec 26, Weak; low-quality evidence"* did not exist in either the AJG or the GIE version of the document and has been removed here and on [[asge-2020-endoscopic-removal]].
+  - This sentence is **narrative text** in USMSTF 2020, not a graded recommendation; the document contains **no numbered recommendation about eFTR and no GRADE rating for it**.
 
 **Size ceiling — one lesion type at a time.** The three numbers in circulation are not rivals; they answer different questions:
 

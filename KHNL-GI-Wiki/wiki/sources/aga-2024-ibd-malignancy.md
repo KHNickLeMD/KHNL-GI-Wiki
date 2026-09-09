@@ -92,4 +92,4 @@ For **active cancer**, if IBD activity must be controlled during oncologic treat
 ## Contradictions / Open Questions
 - Melanoma–anti-TNF association is inconsistent (one insurance-claims study ~2×; Danish cohort and a biologics meta-analysis null). Table 1 nonetheless advises stopping anti-TNF if melanoma develops.
 - JAK-inhibitor malignancy signal derives largely from RA (ORAL Surveillance, age >50); direct IBD data do not show an increase — extrapolation uncertain.
-- No wiki page yet for **ICI colitis** as a discrete entity (only `[[immune-checkpoint-inhibitor-hepatitis]]`); this CPU covers ICI colitis only tangentially — a dedicated AGA ICI colitis/hepatitis source would be needed to build it.
+- **ICI colitis** has no page of its own (only [[immune-checkpoint-inhibitor-hepatitis]]); this CPU covers ICI colitis only tangentially.

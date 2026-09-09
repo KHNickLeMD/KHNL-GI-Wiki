@@ -57,8 +57,8 @@ A **chronic, steroid-responsive fibroinflammatory disease of the pancreas** whos
 
 - ICDC classifies the result as **type 1 AIP**, **type 2 AIP (IDCP)**, or **AIP not otherwise specified**.
 - The one component criterion this source prints: **serum IgG4 ≥2× the upper limit of normal (280 mg/dL) = ICDC level 1 evidence** for AIP (see [[#Serum IgG4]]).
-- ⚠ **Decision gap — the ICDC's level 1 / level 2 definitions and its combination rules are not in the ingested source.** [[aga-2019-autoimmune-pancreatitis]] names the five cardinal features and grades only the IgG4 cutoff; it does not state what counts as level 1 vs level 2 for imaging, OOI, histology, or steroid response, nor how the levels combine into *definite* vs *probable* type 1 or type 2. **The ICDC cannot be applied from this page alone.** Closing this requires ingesting **Shimosegawa T, Chari ST, Frulloni L, et al. International consensus diagnostic criteria for autoimmune pancreatitis. Pancreas 2011;40:352–358** — do not infer the strata.
-- ⚠ **Decision gap — the steroid trial is unspecified.** "Response to steroid therapy" is cardinal feature 5, but no ingested source gives the **dose, the trial duration, or the definition of a response** — the parameters that make a diagnostic steroid trial safe in a patient who might have cancer.
+- [[aga-2019-autoimmune-pancreatitis]] names the five cardinal features and grades only the IgG4 cutoff; it does not give the ICDC level 1 / level 2 definitions for imaging, OOI, histology, or steroid response, nor how the levels combine into *definite* vs *probable* type 1 or type 2. For the full ICDC see Shimosegawa T, Chari ST, Frulloni L, et al. *Pancreas* 2011;40:352–358.
+- "Response to steroid therapy" is cardinal feature 5, but the guideline does not specify the steroid-trial **dose, duration, or definition of a response** — the parameters that make a diagnostic steroid trial safe in a patient who might have cancer.
 
 ### IgG4-Related Disease and Other Organ Involvement
 
@@ -75,10 +75,10 @@ AIP belongs to the spectrum of **IgG4-related disorders**. **~50% have other org
 
 ### Severity Assessment
 
-**No severity score or stage exists for AIP or IDCP in the ingested source** — ⚠ flagged, not filled. Disease burden is carried instead by three things:
+**The guideline gives no severity score or stage for AIP or IDCP.** Disease burden is carried instead by three things:
 
 - **Relapse risk** — the dominant long-term problem, and the one feature that is stratified (see [[#Relapse and Maintenance]]): **up to 60% in AIP vs <10% in IDCP**.
-- **Long-term sequelae of persistent inflammation** — **[[exocrine-pancreatic-insufficiency|exocrine insufficiency]] and diabetes**, similar to other causes of chronic pancreatitis. ⚠ No ingested source gives a screening test, interval, or treatment for either in this population.
+- **Long-term sequelae of persistent inflammation** — **[[exocrine-pancreatic-insufficiency|exocrine insufficiency]] and diabetes**, similar to other causes of chronic pancreatitis. The guideline gives no screening test, interval, or treatment for either in this population.
 - **Malignancy risk is *not* elevated** — there is **no clear evidence of an increased risk of pancreatic cancer** in AIP; available data suggest the risk is **similar to other causes of chronic pancreatitis**. (This is about future cancer risk; it does **not** relax the need to exclude a *prevalent* cancer at diagnosis — see below.)
 
 ### Classification / Typing
@@ -105,9 +105,7 @@ The type determines the serology, the histology you must ask the pathologist for
 
 - **The two discriminating histologic findings are the granulocyte epithelial lesion (IDCP only) and obliterative phlebitis (AIP).** The other four histologic features are present in both and do not separate them.
 - ⚠ **Note the internal tension in the source:** the table gives serum IgG4 elevation in **~25% of IDCP**, while its prose states **"an elevated IgG4 is not characteristic of IDCP."** Read together: a minority of IDCP patients have a raised IgG4, but it carries no diagnostic weight for type 2. **There is no reliable serologic marker for IDCP** — type 2 is a tissue diagnosis.
-- ⚠ Beyond the IgG4 cells/HPF cutoff, the ingested source gives **no counts, thresholds, or definitions** for the histologic features (e.g. what constitutes a granulocyte epithelial lesion).
-
-*Extraction note: `pdftotext` silently drops `≥`/`≤`/`×`. The two `≥` values above (IgG4 ≥2× ULN; IgG4 staining ≥10 cells/HPF) were recovered from the PDF's word-box geometry plus the source's own parallel wording, not supplied from memory — the derivation is recorded on [[aga-2019-autoimmune-pancreatitis]]. Read them as "at or above."*
+- Beyond the IgG4 cells/HPF cutoff, the guideline gives **no counts, thresholds, or definitions** for the histologic features (e.g. what constitutes a granulocyte epithelial lesion).
 
 ## Differential Diagnosis
 
@@ -192,7 +190,7 @@ Management of both AIP and IDCP is **primarily medical**, with **close follow-up
 
 - **Response to steroids is ~100% in both AIP and IDCP** — near-universal steroid responsiveness is the defining therapeutic feature of the disease.
 - **Steroids alone treat the jaundice** in the mild, uninfected case — no stent (see below).
-- ⚠ **Decision gap — the entire steroid regimen is missing from the ingested source, and this page will not invent it.** [[aga-2019-autoimmune-pancreatitis]] carries its whole treatment algorithm in **Figure 1**, a raster image with **no text layer**; `pdftotext` returns only its caption, and figure capture is unavailable in this environment (PyMuPDF not installed, image extraction permission-blocked). **No milligram, and no interval, appears anywhere in the article's prose.** Specifically absent:
+- **The steroid regimen is not given on this page.** [[aga-2019-autoimmune-pancreatitis]] carries its treatment algorithm in **Figure 1**, and no milligram or interval appears in the article's prose. Not specified here:
   - corticosteroid **agent, induction dose, and induction duration**
   - the **taper schedule**
   - the **interval at which response is reassessed**, and the **definition of non-response**
@@ -200,14 +198,14 @@ Management of both AIP and IDCP is **primarily medical**, with **close follow-up
   - the **rituximab regimen**
   - the **maintenance duration**, and the relapse branch of the algorithm
 
-  Closing this requires either figure capture from this PDF once tooling/permissions allow, or ingesting **Okazaki K, Chari ST, Frulloni L, et al. International consensus for the treatment of autoimmune pancreatitis. Pancreatology 2017;17:1–6** (this article's ref 3), the underlying treatment consensus.
+  For the regimen, consult Figure 1 of the AGA update or the underlying treatment consensus: Okazaki K, Chari ST, Frulloni L, et al. International consensus for the treatment of autoimmune pancreatitis. *Pancreatology* 2017;17:1–6.
 
 ### Biliary Drainage and Surgery
 
 - **[[ercp|ERCP]] and biliary stenting are *rarely* indicated in the setting of obstructive jaundice.** This is the counterintuitive call and the reason the diagnosis is worth making.
   - The case *for* stenting, which the source acknowledges: it **reduces the risk of [[acute-cholangitis|cholangitis]]** and **facilitates [[brush-cytology|cytologic brushings]]** to distinguish benign from malignant strictures.
   - **The ICDC recommendation nonetheless: treat mild jaundice with no signs of infection with steroid therapy alone.**
-  - **The decision hinges on two qualifiers — *mild* jaundice and *no signs of infection*.** ⚠ The ingested source does **not** define "mild" (no bilirubin threshold) and does not state what to do for non-mild jaundice; that boundary is a gap.
+  - **The decision hinges on two qualifiers — *mild* jaundice and *no signs of infection*.** The guideline does **not** define "mild" (no bilirubin threshold) and does not state what to do for non-mild jaundice.
 - **Surgical interventions are indicated in the setting of suspected malignancy.**
 
 ### Monitoring After Treatment
@@ -215,7 +213,7 @@ Management of both AIP and IDCP is **primarily medical**, with **close follow-up
 - **Do not follow serum IgG4.** After treatment there is **no value** in following serum IgG4 levels to predict relapse or diagnose recurrence.
 - **Do not re-biopsy.** **Histologic re-evaluation is not recommended after treatment.**
 - **Expect imperfect restitution.** Despite the efficacy of corticosteroid therapy, **normal pancreatic morphology and function may not be restored** — resolution of the inflammation makes the **fibro-atrophic component of the disease more prominent**. Persistent abnormal morphology after successful treatment is therefore not, by itself, treatment failure.
-- ⚠ **Decision gap — no surveillance schedule.** The source requires "close follow-up and monitoring for the possibility of underlying malignancy" but specifies **no modality, no interval, and no duration**.
+- **No surveillance schedule is given.** The source requires "close follow-up and monitoring for the possibility of underlying malignancy" but specifies **no modality, no interval, and no duration**.
 
 ### Relapse and Maintenance
 

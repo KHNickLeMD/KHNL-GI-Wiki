@@ -48,7 +48,7 @@ Unlike [[lynch-syndrome]], which is caused by monoallelic MMR mutations and requ
 - History of brain cancer, lymphoma, or leukemia without prior radiation
 - Any child or adult with a hypermutated tumor
 
-> **Decision gap — no formal scoring system in the ingested corpus.** The list above is [[usmstf-2017-bmmrd|USMSTF 2017]] Table 2, which is **unweighted and unscored**. The guideline states that "diagnostic criteria are proposed for the evaluation of a child or young adult cancer patient based on the phenotypic presentation" and **cites** the European consortium *Care for CMMRD* (C4CMMRD) weighted scoring system (Wimmer *et al.*, *J Med Genet* 2014) — but never reproduces it. The point values and the score threshold needed to formally score a patient are therefore **not derivable from this page**; the Wimmer 2014 paper would have to be ingested. Diagnosis in any case **requires confirmation of biallelic deleterious germline MMR mutations**.
+> **No formal scoring system is given here.** The list above is [[usmstf-2017-bmmrd|USMSTF 2017]] Table 2, which is **unweighted and unscored**. The guideline states that "diagnostic criteria are proposed for the evaluation of a child or young adult cancer patient based on the phenotypic presentation" and **cites** the European consortium *Care for CMMRD* (C4CMMRD) weighted scoring system (Wimmer *et al.*, *J Med Genet* 2014) — but never reproduces it. For the point values and score threshold, see the C4CMMRD paper (Wimmer *et al.*, *J Med Genet* 2014). Diagnosis in any case **requires confirmation of biallelic deleterious germline MMR mutations**.
 
 ### Severity Assessment
 
@@ -96,7 +96,7 @@ BMMRD is classified by the causative gene (all autosomal recessive):
 - **MSH6**: also over-represented in BMMRD; later-onset LS in heterozygous parents
 - **MLH1** and **MSH2**: biallelic mutations are *under*-represented in BMMRD relative to their dominance in LS
 
-> **Open question, not an established fact** — [[usmstf-2017-bmmrd|USMSTF 2017]] lists the reason for the PMS2/MSH6 skew as unresolved and poses two candidate explanations: biallelic *MSH2* and *MLH1* mutations may be **embryonic lethal**, *or* the population prevalence of low-penetrance PMS2/MSH6 mutations may simply be much higher than appreciated. No ingested source settles it.
+> **Open question, not an established fact** — [[usmstf-2017-bmmrd|USMSTF 2017]] lists the reason for the PMS2/MSH6 skew as unresolved and poses two candidate explanations: biallelic *MSH2* and *MLH1* mutations may be **embryonic lethal**, *or* the population prevalence of low-penetrance PMS2/MSH6 mutations may simply be much higher than appreciated. The guideline does not settle it.
 
 ---
 

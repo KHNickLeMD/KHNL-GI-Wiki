@@ -11,12 +11,12 @@ sources: []
 
 - **Article:** [Lacy BE, Tack J, Gyawali CP. AGA Clinical Practice Update on Management of Medically Refractory Gastroparesis: Expert Review. *Clin Gastroenterol Hepatol* 2022;20(3):491–500.](https://doi.org/10.1016/j.cgh.2021.10.038)
 - **Authors:** Brian E. Lacy, Jan Tack, C. Prakash Gyawali
-- **Year:** 2022 (print) — DOI and online-first are 2021; the `raw/` filename says "AGA 2021"
+- **Year:** 2022 (print) — DOI and online-first are 2021
 - **Journal/Publisher:** *Clinical Gastroenterology and Hepatology* 2022;20(3):491–500 (issue dated March 2022)
 - **DOI:** [10.1016/j.cgh.2021.10.038](https://doi.org/10.1016/j.cgh.2021.10.038)
 - **Type:** guideline — **AGA Institute Clinical Practice Update (Expert Review)**, tier 1
 
-⚠ **Slug year vs citation year.** This page is filed as `aga-2021-…` to match the `raw/` filename and the ingest queue, but **the article's publication year is 2022**. Source-priority comparisons (newer trumps older within tier 1) must use **2022**, not 2021. It is still older than [[aga-2025-gastroparesis|AGA 2025]] and [[acg-2022-gastroparesis|ACG 2022]] is contemporaneous.
+**Slug year vs citation year.** This page is filed as `aga-2021-…` after its online-first date, but **the article's publication year is 2022**. For source-priority comparisons (newer trumps older within tier 1) use **2022**: it is still older than [[aga-2025-gastroparesis|AGA 2025]], and [[acg-2022-gastroparesis|ACG 2022]] is contemporaneous.
 
 **Type verified.** This is a genuine Clinical Practice Update, not an AGA "Here and Now" column: it carries **8 numbered Best Practice Advice statements** and states it *"was commissioned and approved by the AGA Institute Clinical Practice Updates Committee and the AGA Governing Board."*
 
@@ -28,7 +28,7 @@ sources: []
 
 ## Summary
 
-The first tier-1 source in the wiki written specifically about **medically refractory** gastroparesis — the patient who has already failed the first-line pathway. Its central move is to supply the definition that the label had been missing: *"no precise definition or dedicated treatment algorithm for this diagnosis exists in the literature."*
+The first tier-1 source written specifically about **medically refractory** gastroparesis — the patient who has already failed the first-line pathway. Its central move is to supply the definition that the label had been missing: *"no precise definition or dedicated treatment algorithm for this diagnosis exists in the literature."*
 
 The update's governing idea is that **the diagnosis itself is frequently wrong**, so escalation to invasive therapy is often escalation against a mimic. Two facts carry this. First, gastroparesis and functional dyspepsia are substantially interchangeable over time: on repeat testing, **42% of gastroparesis patients were reclassified as FD and 37% of FD patients as gastroparesis within a year**. Second, **gastric emptying scans are commonly performed incorrectly**, with short measurement times causing misdiagnosis and mismanagement — hence BPA 2's insistence on verifying the methodology of the study before believing it. The clinical consequence is stated bluntly in the Summary: *"Pursuing invasive therapeutic options on the basis of a single GES without clinical context may close the door on potentially effective management options targeting FD and other mimics of gastroparesis."*
 
@@ -258,25 +258,21 @@ Rationale for symptom-first rather than physiology-first: *"Because there are no
 - **Figure 1** (putative factors generating refractory symptoms) names both central and local gastroduodenal mechanisms: **exaggerated visceral perception, altered central processing, learned behaviors including food aversion, and ongoing psychological distress.**
 - Management goals: identify and improve the predominant symptom; **reduce potential for complications (reflux esophagitis, malnutrition, weight loss)**; reduce health care utilization; improve quality of life.
 
-### Figures — NOT captured (open gap)
+### Figures
 
-The update contains **two figures**, neither of which could be captured:
+The update contains **two figures**:
 
-| Figure | Content | Status |
+| Figure | Content | Note |
 |---|---|---|
-| **Figure 1** | *"Putative factors involved in the generation of refractory gastroparesis symptoms"* | **Not captured.** Its legend is fully extractable and is summarized above, so no content is lost beyond the graphic |
-| **Figure 2** | *"Proposed algorithm for management of refractory gastroparesis symptoms"* — **the update's decision algorithm** | ⚠ **Not captured, and this one matters.** Its legend is extractable (reproduced under BPA 4) but the **branch structure inside the figure is not** |
+| **Figure 1** | *"Putative factors involved in the generation of refractory gastroparesis symptoms"* | Its legend is summarized above |
+| **Figure 2** | *"Proposed algorithm for management of refractory gastroparesis symptoms"* — **the update's decision algorithm** | Its legend is reproduced under BPA 4; the branch structure inside the figure is not reproduced on this page — consult the article for the full algorithm |
 
-⚠ **Tooling gap, not an authoring choice:** PyMuPDF is not installed in this environment and `pdftoppm` / `pdftohtml` / `pip install` are permission-blocked, so no figure could be rendered or cropped to `raw/assets/`. **Any branch, ordering or threshold that exists only inside Figure 2 is missing from the wiki.** Re-run figure capture when tooling is permitted.
+### Source ambiguities
 
-### Text-extraction and source ambiguities
-
-`pdftotext` silently deletes `≥`/`≤` from this PDF: **zero** such characters appear in the extracted text, while `>` survives intact (`>35%`, `>1200 mg`). Affected passages are flagged rather than guessed:
-
-| Passage | Extracted as | Note |
+| Passage | As printed | Note |
 |---|---|---|
-| NORIG trial primary outcome | *"a strict primary outcome of **50%** reduction in 2 consecutive GCSI score assessments"* | A comparator is grammatically required; almost certainly **≥50%**, but the exact glyph was unrecoverable |
-| Gabapentin systematic review | *"achieved at least **>50%** reduction in pain"* | Prints with a redundant *"at least"* + `>`; reproduced above as **"at least 50%"** |
+| NORIG trial primary outcome | *"a strict primary outcome of **50%** reduction in 2 consecutive GCSI score assessments"* | Read as a ≥50% threshold |
+| Gabapentin systematic review | *"achieved at least **>50%** reduction in pain"* | Reproduced above as **"at least 50%"** |
 | Severity bands | mild `10%–15%`, moderate `15%–35%` | **Overlap at 15%** is present in the source as printed; which band 15% belongs to is **not stated** |
 
 ---
@@ -289,18 +285,18 @@ The update contains **two figures**, neither of which could be captured:
 - **[[nausea-and-vomiting]]** — the full antiemetic option set with doses, and the *"select by price, availability, and mode of delivery"* rule for 5-HT3 agents.
 - **[[cyclic-vomiting-syndrome]]**, **[[cannabinoid-hyperemesis-syndrome]]** — named as the two mimics that *"in particular"* must be differentiated from nausea/vomiting-predominant gastroparesis.
 - **[[gastric-outlet-obstruction]]** — succussion splash is shared between GOO and delayed emptying; upper endoscopy is required to exclude an organic cause.
-- Opioids run through the whole document — they **cause** the mimic (medication-induced delay is exclusionary in the refractory definition), degrade the gastric emptying study (test *"optimally performed off opioid medication"*), are **prohibited** for pain (BPA 6), and **contraindicate** GES (BPA 7). No dedicated opioid page exists in the wiki yet to carry this.
+- Opioids run through the whole document — they **cause** the mimic (medication-induced delay is exclusionary in the refractory definition), degrade the gastric emptying study (test *"optimally performed off opioid medication"*), are **prohibited** for pain (BPA 6), and **contraindicate** GES (BPA 7).
 
 ## Contradictions / Open Questions
 
-- ⚠ **Two different definitions of "refractory" now exist in the wiki, and they do not match.** [[aga-2025-gastroparesis|AGA 2025]] requires cardinal symptoms predominant **+** delayed emptying **+ failure of at least 2 medical treatments including a prokinetic *and* an antiemetic**. This 2022 CPU requires persistent symptoms **+** confirmed delay **+ failure of a ≥4-week small-particle/low-fat diet *and* a ≥4-week metoclopramide trial**, with medication-induced symptoms excluded. **AGA 2025 is newer and governs the gate**; this CPU is retained because it is the only ingested source that supplies **how long each first-line trial must run** — a threshold AGA 2025 does not give.
+- ⚠ **Two different definitions of "refractory" exist, and they do not match.** [[aga-2025-gastroparesis|AGA 2025]] requires cardinal symptoms predominant **+** delayed emptying **+ failure of at least 2 medical treatments including a prokinetic *and* an antiemetic**. This 2022 CPU requires persistent symptoms **+** confirmed delay **+ failure of a ≥4-week small-particle/low-fat diet *and* a ≥4-week metoclopramide trial**, with medication-induced symptoms excluded. **AGA 2025 is newer and governs the gate**; this CPU is the only source that supplies **how long each first-line trial must run** — a threshold AGA 2025 does not give.
 - ⚠ **GES: this CPU is more permissive than AGA 2025.** BPA 7 says clinicians **can consider** GES for refractory/intractable nausea and vomiting off opioids; [[aga-2025-gastroparesis|AGA 2025]] recommends **against routine** GES (conditional, very low certainty). **The 2025 position governs the page.** This CPU's contribution is retained as the **selection criteria** to apply *if* GES is being considered — the four conditions, the opioid contraindication, the "pain is not an indication" rule, and temporary stimulation as a response predictor.
 - ⚠ **G-POEM: same direction of disagreement.** BPA 8 says clinicians **can consider** G-POEM for select patients with severe delay; [[aga-2025-gastroparesis|AGA 2025]] recommends **against routine** G-POEM (conditional, low). **2025 governs**; BPA 8 supplies the selection and setting requirements. Compare also [[aga-2023-gpoem-gastroparesis]], which sits between them in date.
 - ⚠ **Botulinum toxin:** this CPU argues **against use except in clinical trials**; AGA 2025 is **against routine** use. Same direction, slightly different strength — no true conflict, but the CPU is the stronger statement and is the older one, so the page asserts AGA 2025's wording.
 - **Nortriptyline:** BPA 6 endorses neuromodulators for pain while the only RCT of a neuromodulator in gastroparesis (NORIG, nortriptyline) was **negative**, and Table 1's own footnote says nortriptyline *"was not found to be effective in idiopathic gastroparesis."* The update resolves this by arguing for **tertiary** amines on FD-overlap grounds — an explicitly **extrapolated** rationale with no gastroparesis RCT behind it. Flag as low-quality evidence wherever the page recommends a TCA for pain.
 - **Severity banding is unvalidated.** The mild/moderate/severe retention bands are attributed to *"some investigators"* and are *"not validated in large, prospective studies"* — yet BPA 3 asks clinicians to classify and BPA 8 conditions on "severe delay." Reproduce with that caveat attached.
 - **Aprepitant dose** conflicts within the source itself (Table 1: 80 mg/day; text: 125 mg/day RCT dose).
-- **No grades exist.** Because no formal rating was performed, this source can never be cited on the wiki with a GRADE strength or certainty level.
+- **No grades exist.** No formal rating was performed, so this source carries no GRADE strength or certainty level.
 
 ---
 

@@ -31,7 +31,7 @@ Histologically defined esophageal disorder characterized by a **dense peripapill
 
 ### Severity Assessment
 
-- **No severity score or grading system for LyE exists in any ingested source** — [[aga-2024-esophageal-immunity-infection]] treats LyE as a histologic pattern of uncertain nosologic status, not a graded disease. Severity is judged by symptom burden and by the presence of rings/stricture driving dysphagia.
+- **No severity score or grading system for LyE is given** — [[aga-2024-esophageal-immunity-infection]] treats LyE as a histologic pattern of uncertain nosologic status, not a graded disease. Severity is judged by symptom burden and by the presence of rings/stricture driving dysphagia.
 
 **Epidemiology (for pretest probability):**
 

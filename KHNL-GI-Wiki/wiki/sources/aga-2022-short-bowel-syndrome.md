@@ -90,7 +90,7 @@ The overarching message is that SBS care is multidisciplinary — dietitians, nu
 
 *IM, intramuscular; IV, intravenous; PN, parenteral nutrition; SC, subcutaneous.*
 
-> ⚠ **Text-extraction caveat (\*).** The units marked with an asterisk are transcribed exactly as the PDF text layer renders them, but the micro sign appears to be lost in extraction in this file (the same rows read "mg" where a microgram dose would be expected — vitamin B12, calcitriol, selenium, chromium). **Do not use these four values for dosing without checking the published table.** The remaining rows (IU and mg entries for vitamins A/C/E, folate, iron, zinc, copper) are internally consistent as extracted. No unit has been substituted from outside knowledge.
+> ⚠ **Unit caveat (\*).** The rows marked with an asterisk (vitamin B12, calcitriol, selenium, chromium) read "mg" where a microgram dose would be expected. **Check the published table before using these four values for dosing.**
 
 ### Supplementary Table 1 — Initial nutrition assessment in the patient with SBS
 
@@ -209,8 +209,8 @@ The overarching message is that SBS care is multidisciplinary — dietitians, nu
 
 ## Relevance to Wiki
 
-- **Creates** the disease script [[short-bowel-syndrome]] — first ingested source in the wiki that defines SBS, its residual-length measurement convention, its anatomic classification and prognosis, and its full management pathway.
-- **Fills the dosing/safety gap flagged on [[glp-2-agonists]]** for teduglutide: route (daily subcutaneous injection), malignancy contraindication and the 5-year "recent malignancy" caution, mandatory pre-treatment and periodic [[colonoscopy|colonoscopic]] screening, positioning after diet/conventional therapy optimization, and prescriber-experience requirement. (The source still gives **no mg or mg/kg dose** — see Contradictions/Open Questions.)
+- **Creates** the disease script [[short-bowel-syndrome]] — the first source here that defines SBS, its residual-length measurement convention, its anatomic classification and prognosis, and its full management pathway.
+- **Supplies the dosing/safety detail for teduglutide on [[glp-2-agonists]]**: route (daily subcutaneous injection), malignancy contraindication and the 5-year "recent malignancy" caution, mandatory pre-treatment and periodic [[colonoscopy|colonoscopic]] screening, positioning after diet/conventional therapy optimization, and prescriber-experience requirement. (The source still gives **no mg or mg/kg dose** — see Contradictions/Open Questions.)
 - Adds SBS-specific context to [[ostomy-management]] (high-output end-jejunostomy as the most challenging phenotype; <100 cm residual jejunum net secretors; ORS rather than water; PN electrolyte losses with high ostomy output).
 - Adds an SBS-specific indication and technique caveat to [[enteral-access]] (percutaneous gastrostomy technically difficult in SBS; trial NG feeding first; slow continuous gastric infusion, not bolus or direct small-bowel infusion).
 - Supports [[nutrition-in-ibd]] and [[nutrition-in-hospitalized-patients]] with adult SBS PN weaning probabilities and PN complication prevention.
@@ -222,7 +222,7 @@ The overarching message is that SBS care is multidisciplinary — dietitians, nu
 
 - **No formal evidence grading.** Expert review, not a systematic review; Best Practice Advice items carry no GRADE strength or evidence-quality rating and are presented as titled narrative sections rather than short numbered statements.
 - **Two competing residual-length definitions coexist in the source itself** — 200 cm or less is the "general agreement," with 150 cm or less proposed as possibly more appropriate. The update does not adjudicate.
-- **No teduglutide dose.** Route (daily SC injection) is given; **mg/kg/day dosing, duration, and monitoring schedule are not stated**. The gap on [[glp-2-agonists]] is therefore only partly closed — a dedicated dosing source or the STEPS trial report would be needed. Do not fill from memory.
+- **No teduglutide dose.** Route (daily SC injection) is given; **mg/kg/day dosing, duration, and monitoring schedule are not stated**. Take the dose from the package insert or the STEPS trial report.
 - **No formal severity score or staging system for SBS.** Severity is conveyed through anatomic group, residual jejunal length, ostomy output, and PN dependence — not a validated index.
 - **No explicit differential diagnosis section.** Only the SBS-vs-IF distinction and the two named non-SBS causes of IF (chronic intestinal pseudo-obstruction, refractory intestinal malabsorptive syndromes).
 - **Micronutrient units in Table 1 are unreliable as text-extracted** (see caveat under Table 1). Four rows require verification against the published table before use.

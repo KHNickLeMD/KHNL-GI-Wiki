@@ -88,8 +88,8 @@ Budd-Chiari syndrome management follows a stepwise algorithm: anticoagulation â†
 
 - Creates new disease script: [[portal-vein-thrombosis]]
 - Creates new disease script: [[budd-chiari-syndrome]]
-- Creates stub: [[hereditary-hemorrhagic-telangiectasia]]
-- Creates stub: [[mesenteric-artery-aneurysm]]
+- Creates page: [[hereditary-hemorrhagic-telangiectasia]]
+- Creates page: [[mesenteric-artery-aneurysm]]
 - Creates concept page: [[cirrhosis-hemostasis]]
 - Cross-references: [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[acute-liver-failure]]
 

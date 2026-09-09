@@ -31,4 +31,4 @@ Relevant to GI/hepatology given the rising burden of alcohol-associated liver di
 - Tangential to `[[alcohol-associated-liver-disease]]` (emerging pharmacologic angle on alcohol reduction).
 
 ## Contradictions / Open Questions
-- Small phase 2 sample (n = 48), non–treatment-seeking population, 9-week duration — not practice-changing; off-label. No conflict with existing wiki content (semaglutide's ingested GI indication is MASH per `[[aasld-2025-semaglutide-mash]]`).
+- Small phase 2 sample (n = 48), non–treatment-seeking population, 9-week duration — not practice-changing; off-label. No conflict with other pages (semaglutide's GI indication is MASH per `[[aasld-2025-semaglutide-mash]]`).

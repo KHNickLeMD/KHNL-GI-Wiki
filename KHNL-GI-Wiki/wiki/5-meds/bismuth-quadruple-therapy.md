@@ -64,13 +64,13 @@ Four drugs × 14 days. **Optimized** BQT = appropriately dosed [[proton-pump-inh
 - **No clarithromycin, so no clarithromycin problem** — BQT needs **no pretreatment antimicrobial sensitivity testing**, which ACG 2024 names as its notable advantage over PPI–clarithromycin triple therapy.
 - **Nitroimidazole resistance is partly dose-surmountable.** Metronidazole resistance >40% limits metronidazole-containing regimens but is **partially overcome by higher total daily dose and 14-day duration** ([[acg-2017-hp-guidelines]]) — which is exactly what "optimized" encodes.
 
-> **Corpus gap.** Neither ingested ACG guideline states bismuth's molecular mechanism (membrane disruption, urease/phospholipase inhibition, adherence blockade) or asserts that bismuth has no resistance mechanism. Those claims were removed 2026-08-26 as unsourced.
+> Neither ACG guideline states bismuth's molecular mechanism or asserts that bismuth has no resistance mechanism.
 
 ---
 
 ## Adverse Effects & Adherence
 
-*Per-drug pharmacology sits in ACG 2024's Supplementary Table 2, which is **not** part of the ingested corpus — only what the guideline body states is captured here.*
+*Per-drug pharmacology sits in ACG 2024's Supplementary Table 2; only what the guideline body states is captured here.*
 
 - **Minor adverse events are common but rarely stop treatment.** In a Taiwanese RCT of treatment-naive patients, **>50% reported ≥1 adverse effect** — **dark stool, fatigue, nausea, diarrhea, and dizziness each in >15%** — yet only **~5% discontinued**. European data show similarly low discontinuation. [[acg-2024-hp-treatment]]
 - **Counsel before prescribing.** ACG explicitly advises educating patients on *why* eradication matters and on the most frequent adverse effects, because **adherence is the lever** on this 4-drug, high-pill-burden regimen.
@@ -84,7 +84,7 @@ Four drugs × 14 days. **Optimized** BQT = appropriately dosed [[proton-pump-inh
 - **Tetracycline — relative contraindications** named by ACG 2024: **photosensitivity** and **women of childbearing potential**.
 - **Not** contraindicated by penicillin allergy — that is BQT's defining advantage (see Indications).
 
-> **Corpus gap.** ACG 2024's body text does not give per-component contraindications beyond the above (no statement on renal impairment and bismuth, on metronidazole–alcohol, or on a pediatric age cutoff for tetracycline). Earlier drafts of this page carried those as textbook pharmacology; they were removed 2026-08-26 as untraceable to an ingested source. ACG 2024 Supplementary Table 2 (drug mechanisms, adverse effects, interactions) would close this — it is a separate file not in `raw/`.
+> ACG 2024's body text does not give per-component contraindications beyond the above (no statement on renal impairment and bismuth, on metronidazole–alcohol, or on a pediatric age cutoff for tetracycline); see ACG 2024 Supplementary Table 2 (drug mechanisms, adverse effects, interactions) or the package inserts.
 
 ---
 

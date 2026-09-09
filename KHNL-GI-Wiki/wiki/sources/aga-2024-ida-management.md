@@ -79,5 +79,5 @@ AGA Expert Review CPU on the **management (iron repletion)** of iron deficiency 
 - Wires into [[inflammatory-bowel-disease]]/[[crohns-disease]]/[[ulcerative-colitis]] (IV iron in active IBD), [[cirrhosis]]/[[portal-hypertension]] (PHG), gastric antral vascular ectasia (GAVE — EBL/APC; no dedicated page yet), [[celiac-disease]] (gluten-free diet + iron), [[small-bowel-bleeding]]/[[angioectasia]] (deep enteroscopy + APC/clips), [[obesity]] (post-bariatric IV iron), and IV/oral iron as meds.
 
 ## Contradictions / Open Questions
-- Vitamin C benefit for absorption is stated as best practice (BPA 3) but the CPU notes underlying evidence is **mixed** and needs further study — flagged as low-certainty.
+- Vitamin C benefit for absorption is stated as best practice (BPA 3) but the CPU notes underlying evidence is **mixed** and needs further study — low-certainty.
 - Every-other-day dosing is promising but "needs to be better studied before being implemented."

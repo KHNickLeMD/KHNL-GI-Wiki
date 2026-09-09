@@ -7,15 +7,15 @@ updated: 2026-09-05
 sources: [acg-2016-acute-diarrhea, asge-2010-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
-> **Partial page — one gap remains.** [[idsa-2017-infectious-diarrhea|IDSA 2017]] supplies the **AIDS-specific pathogen panel** and the endoscopy/empiric-therapy rules now on this page (added 2026-08-30 lint). Still **not** available from any ingested source: **CD4-count stratification of the opportunistic-infection differential** and a **pathogen-directed treatment table**, which require a primary HIV opportunistic-infection guideline (CDC/NIH/IDSA OI or BHIVA). **None is in `raw/`**, so that content is intentionally left out rather than sourced from review articles (an earlier CD4-stratified table compiled from reviews was removed). To close it, add a primary HIV/GI opportunistic-infection guideline to `raw/`.
+> This page covers the AIDS-specific pathogen panel and the endoscopy/empiric-therapy rules from [[idsa-2017-infectious-diarrhea|IDSA 2017]]. The CD4-stratified opportunistic-infection differential and pathogen-directed treatment of opportunistic infections are in the primary HIV opportunistic-infection guidelines (CDC/NIH/IDSA OI or BHIVA), not here.
 
 ## Definition / Scope
 
-Diarrhea in the HIV/AIDS host, where the differential widens with falling CD4 count and where endoscopy with biopsy — not stool testing alone — often makes the diagnosis. Scope here is limited to what the three ingested guidelines support.
+Diarrhea in the HIV/AIDS host, where the differential widens with falling CD4 count and where endoscopy with biopsy — not stool testing alone — often makes the diagnosis. Scope here is limited to what the GI infectious-diarrhea guidelines cover.
 
 ## Differential Diagnosis
 
-*Only the organisms named by the ingested sources are listed; the full CD4-stratified opportunistic-infection differential awaits a primary OI guideline (see note above).*
+*Only the organisms named by the GI guidelines are listed; the full CD4-stratified opportunistic-infection differential is in the HIV opportunistic-infection guidelines (see note above).*
 
 **The AIDS + persistent-diarrhea panel** — [[idsa-2017-infectious-diarrhea|IDSA 2017]] Rec 12 (strong/moderate) names the organisms that must be tested for beyond the routine workup:
 
@@ -72,7 +72,7 @@ Diarrhea in the HIV/AIDS host, where the differential widens with falling CD4 co
 
 ## Therapeutics
 
-*Pathogen-directed treatment supported by the ingested sources only ([[acg-2016-acute-diarrhea]]).*
+*Pathogen-directed treatment as given by [[acg-2016-acute-diarrhea]].*
 
 - ***Cryptosporidium*** → **[[nitazoxanide]]**.
 - **Microsporidiosis** → **albendazole** or **iodoquinol**.

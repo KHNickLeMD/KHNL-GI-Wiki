@@ -82,7 +82,7 @@ Infections in cirrhosis increase 10% mortality for every hour's delay in antibio
 
 | Diagnosis | Distinguishing Features |
 |-----------|------------------------|
-| Secondary bacterial peritonitis | Multimicrobial flora; polymicrobial culture; ascitic LDH elevated (no numeric cut-off in an ingested source — see Diagnostics); ascitic glucose **<50 mg/dL**; failure to improve on antibiotics alone; abdominal imaging may show perforation or abscess |
+| Secondary bacterial peritonitis | Multimicrobial flora; polymicrobial culture; ascitic LDH elevated (no numeric cut-off given by AASLD — see Diagnostics); ascitic glucose **<50 mg/dL**; failure to improve on antibiotics alone; abdominal imaging may show perforation or abscess |
 | Spontaneous bacterial empyema (SBE) | Pleural fluid PMN ≥250 in patient with hepatic hydrothorax |
 | Spontaneous bacteremia | Positive blood cultures without elevated ascitic PMN |
 | Visceral perforation / surgical peritonitis | Clinical signs of peritonism; imaging; multimicrobial ascitic culture |
@@ -111,7 +111,7 @@ Infections in cirrhosis increase 10% mortality for every hour's delay in antibio
 **Selective ascitic tests (not routine; obtain if secondary peritonitis suspected):**
 
 - LDH, glucose — if ascitic LDH is elevated **and** ascitic glucose **<50 mg/dL**, strongly consider secondary peritonitis
-  - ⚠ **Decision gap — "LDH elevated" has no number here.** [[aasld-2021-ascites-sbp-hrs]] names ascitic LDH as a secondary-peritonitis test but its Tables 10–12 do not yield an extractable numeric cut-off (the comparator is normally the *serum* LDH upper limit of normal), and the total-protein limb of the Runyon criteria is likewise absent. Apply the glucose limb, which **is** quantified; do **not** supply the LDH or protein cut-offs from memory. Ingesting the primary Runyon secondary-peritonitis paper would close this
+  - ⚠ [[aasld-2021-ascites-sbp-hrs]] names ascitic LDH as a secondary-peritonitis test but gives no numeric cut-off (the comparator is normally the *serum* LDH upper limit of normal), and does not give the total-protein limb of the Runyon criteria. Apply the glucose limb, which **is** quantified; the LDH and protein cut-offs are in the primary Runyon secondary-peritonitis paper
 - Amylase — if pancreatitis suspected
 
 **Microbiology of SBP:**
@@ -147,7 +147,7 @@ Infections in cirrhosis increase 10% mortality for every hour's delay in antibio
   - **Daptomycin** if known VRE or positive VRE surveillance swab
 - If known MDR gram-negative or recent piperacillin/tazobactam exposure: **meropenem** ± glycopeptide
 - Inappropriate initial therapy in septic shock increases mortality by 10-fold
-- *Gap: [[aasld-2021-ascites-sbp-hrs]] (Table 9) names these broad-spectrum agents but gives a dose only for cefotaxime. Dose the rest per institutional/ID guidance — no ingested source supplies them.*
+- *Gap: [[aasld-2021-ascites-sbp-hrs]] (Table 9) names these broad-spectrum agents but gives a dose only for cefotaxime. Dose the rest per institutional/ID guidance.*
 
 **Duration:** 5–7 days total (can be guided by PMN normalization to <250/mm³; mean duration 4.8 days in PMN-guided approach vs. 9.6 days empiric)
 

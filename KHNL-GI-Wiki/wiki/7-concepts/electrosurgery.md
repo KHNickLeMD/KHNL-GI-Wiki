@@ -7,7 +7,7 @@ updated: 2026-09-05
 sources: [aga-2026-electrosurgery]
 ---
 
-Conversion of high-frequency alternating current from an **electrosurgical unit (ESU)** into thermal energy at target tissue. The single home for electrosurgical principles, settings, and safety across the wiki — [[polypectomy]], [[endoscopic-mucosal-resection|EMR]], [[endoscopic-submucosal-dissection|ESD]], [[ercp|sphincterotomy]], and [[argon-plasma-coagulation|APC]] link here rather than restating the physics. Per [[aga-2026-electrosurgery]] (13 Best Practice Advice statements; **no formal evidence grades** — the authors did not perform systematic reviews).
+Conversion of high-frequency alternating current from an **electrosurgical unit (ESU)** into thermal energy at target tissue. The single home for electrosurgical principles, settings, and safety — [[polypectomy]], [[endoscopic-mucosal-resection|EMR]], [[endoscopic-submucosal-dissection|ESD]], [[ercp|sphincterotomy]], and [[argon-plasma-coagulation|APC]] link here rather than restating the physics. Per [[aga-2026-electrosurgery]] (13 Best Practice Advice statements; **no formal evidence grades** — the authors did not perform systematic reviews).
 
 **The one idea that organizes everything below:** tissue effect is driven by **current density**, and the ESU dial is only one of its inputs. Device geometry, operator technique, tissue characteristics, and the gas-vs-fluid environment act through the same pathway — so **changing ESU settings alone may not achieve the desired tissue effect** (BPA 3).
 
@@ -73,7 +73,7 @@ Determined by the **rapidity, amplitude, and depth** of heating:
 - **Crest factor** = peak voltage relative to average voltage. **Higher voltage spikes force current through high impedance → deeper tissue effect.**
 - Every manufacturer names its modes differently, but all named modes are just different duty-cycle/crest-factor combinations. Learn the concepts, then map your suite's mode names onto them (BPA 2).
 
-⚠ **Figure gap:** the CPU's Figure 1 plots the cut↔coagulation continuum against duty cycle, crest factor, and voltage. It is a raster figure and could not be extracted on ingest (no PyMuPDF available) — capture on a future pass.
+The CPU's Figure 1 plots the cut↔coagulation continuum against duty cycle, crest factor, and voltage; see the source document for the figure.
 
 ### Monopolar vs Bipolar
 
@@ -153,7 +153,7 @@ Best practice (BPA 4) — a team process involving endoscopist, room nurse, tech
 - **Position the ESU** in the room for both **visibility and operation**.
 - **Closed-loop communication** among team members **before ESU activation** and during troubleshooting.
 
-⚠ **Figure gap:** the CPU's Figure 2 (endoscopy room layout + the full ESU safety-practice checklist) is a raster figure with no extractable text and could not be captured this pass; the itemized checklist within it is **not** reproduced here rather than invented.
+The CPU's Figure 2 (endoscopy room layout and the full ESU safety-practice checklist) is not reproduced here; see the source document for the itemized checklist.
 
 ### Dispersive Electrode (Return Pad)
 
@@ -172,7 +172,7 @@ Pacemakers and implantable cardioverter-defibrillators may react to ESU signals 
 - **Mandatory preoperative assessment:** the device's **manufacturer**, **model**, **location**, and whether the patient is **device-dependent**.
 - Place the **dispersive pad so current does not flow through or near the device or its leads**.
 - **Preferentially use multipolar electrocautery when feasible.**
-- ⚠ **There is no GI societal consensus** on managing cardiac and non-cardiac implantable devices during electrosurgery; this guidance derives from the HRS/ASA perioperative consensus statement, which is not an ingested source.
+- ⚠ **There is no GI societal consensus** on managing cardiac and non-cardiac implantable devices during electrosurgery; this guidance derives from the HRS/ASA perioperative consensus statement, which is not summarized here.
 
 ---
 

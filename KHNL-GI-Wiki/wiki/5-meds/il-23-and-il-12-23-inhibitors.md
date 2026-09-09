@@ -114,13 +114,13 @@ Monoclonal antibodies against the **interleukin-23 pathway**, used as advanced t
 
 - **SEQUENCE is the basis of ACG CD Rec 19** — "prefer risankizumab over ustekinumab in anti-TNF-experienced moderate-severe CD," graded **Conditional / Low**. Note the mismatch worth carrying: the trial's win was on the **endoscopic** endpoint, while clinical remission was only noninferior, and ACG graded the resulting preference conditional/low despite the head-to-head design.
 - **SEAVUE is why ustekinumab is not a second-line drug.** In the bio-naïve patient it matched adalimumab, which is why ACG positions it alongside anti-TNF rather than behind it.
-- **The preference is exposure-conditional.** Rec 19 applies specifically to **anti-TNF-experienced** patients; no ingested source states a risankizumab-over-ustekinumab preference in the advanced-therapy–naïve patient.
+- **The preference is exposure-conditional.** Rec 19 applies specifically to **anti-TNF-experienced** patients; the guidelines state no risankizumab-over-ustekinumab preference in the advanced-therapy–naïve patient.
 
 ### Perianal Fistulizing CD
 
 - **Ustekinumab: Conditional / Very low** for induction of remission in perianal fistulizing CD ([[acg-2025-crohns]] Rec 28) — the same tier as [[vedolizumab]] (Rec 27) and upadacitinib, and well below infliximab's **Strong / Moderate** (Rec 24).
 - Sequence is unchanged by drug choice: **drain the abscess first, seton before biologic** — exam under anesthesia → seton → biologic, **with infliximab preferred** ([[acg-2025-crohns]]).
-- No ingested source gives a perianal-fistula recommendation for **risankizumab, mirikizumab, or guselkumab**.
+- The guidelines give no perianal-fistula recommendation for **risankizumab, mirikizumab, or guselkumab**.
 
 ---
 
@@ -165,18 +165,18 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 
 - **AGA vs ACG on mirikizumab in UC.** [[aga-2024-uc-pharm]] places mirikizumab in **Rec 2 (Conditional)** with adalimumab and filgotinib, a tier below the Rec 1 group that contains ustekinumab. [[acg-2025-uc]] gives mirikizumab the **same Strong / Moderate** grade as ustekinumab and the other IL-23p19 agents (Recs 26, 40), and states the three IL-23 inhibitors are recommended **equally**. ACG 2025 is the **newer** tier-1 document, so its equal grading is what this page asserts; the AGA tiering is recorded because it is a living guideline and may re-rank as data accrue.
 - **Guselkumab and risankizumab are absent from the AGA 2024 UC guideline entirely** — they are not in Rec 1 or Rec 2. This is a **coverage gap in the older document, not a negative recommendation**; both were approved for UC after it.
-- **ACG grades the SEQUENCE-based preference Conditional / Low despite a head-to-head RCT.** Rec 19 (risankizumab over ustekinumab in anti-TNF-experienced CD) rests on a direct comparison that met its endoscopic endpoint, yet carries a low evidence grade. Reproduced as published; the discrepancy is the guideline's, not the wiki's.
-- **The two generations are not interchangeable in CD after anti-TNF failure**, but **are** treated as interchangeable in UC. Do not generalize Rec 19 from CD to UC — no UC head-to-head data exist in the corpus.
+- **ACG grades the SEQUENCE-based preference Conditional / Low despite a head-to-head RCT.** Rec 19 (risankizumab over ustekinumab in anti-TNF-experienced CD) rests on a direct comparison that met its endoscopic endpoint, yet carries a low evidence grade. Reproduced as published.
+- **The two generations are not interchangeable in CD after anti-TNF failure**, but **are** treated as interchangeable in UC. Do not generalize Rec 19 from CD to UC — the guidelines cite no UC head-to-head data.
 
 ---
 
 ## Gaps
 
-- *No ingested source gives **infusion/injection-reaction rates, pre-treatment TB or HBV screening requirements, immunogenicity / antidrug-antibody rates, or therapeutic drug monitoring targets** for any agent in this class. [[acg-2025-crohns]] prints trough targets for anti-TNF only (IFX >5 μg/mL, ADA >7.5 μg/mL, CZP >20 μg/mL); do not assume they transfer.*
-- *No ingested source gives a **primary-nonresponse assessment interval** for any IL-23 agent — no equivalent of the "week 6 vs week 10" guidance that exists for [[vedolizumab]].*
-- *No ingested source states a **dose-escalation or dose-optimization strategy** for loss of response within this class.*
-- *No **efficacy trial data** (remission rates vs placebo, trial names other than SEQUENCE and SEAVUE) are in the corpus for guselkumab, mirikizumab, or risankizumab — UNIFI, UNITI, LUCENT, GRAVITI, QUASAR, ADVANCE/MOTIVATE and similar are not named in any ingested source. Do not add trial names or numbers from memory.*
-- *No ingested source addresses this class in **acute severe UC**, **postoperative CD recurrence prophylaxis**, **pregnancy**, or **[[pouchitis]]**.*
+- *The guidelines give no **infusion/injection-reaction rates, pre-treatment TB or HBV screening requirements, immunogenicity / antidrug-antibody rates, or therapeutic drug monitoring targets** for any agent in this class. [[acg-2025-crohns]] prints trough targets for anti-TNF only (IFX >5 μg/mL, ADA >7.5 μg/mL, CZP >20 μg/mL); do not assume they transfer.*
+- *The guidelines give no **primary-nonresponse assessment interval** for any IL-23 agent — no equivalent of the "week 6 vs week 10" guidance that exists for [[vedolizumab]].*
+- *The guidelines state no **dose-escalation or dose-optimization strategy** for loss of response within this class.*
+- *Placebo-controlled efficacy data (remission rates, pivotal trial names other than SEQUENCE and SEAVUE) for guselkumab, mirikizumab, and risankizumab are not given on this page.*
+- *The guidelines do not address this class in **acute severe UC**, **postoperative CD recurrence prophylaxis**, **pregnancy**, or **[[pouchitis]]**.*
 - *No **individual agent pages** exist yet — ustekinumab, risankizumab, mirikizumab, and guselkumab are covered only at class level here.*
 
 ---

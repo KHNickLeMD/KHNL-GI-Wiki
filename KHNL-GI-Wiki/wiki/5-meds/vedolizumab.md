@@ -231,13 +231,13 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 
 ---
 
-## Gaps
+## Not covered by the guidelines
 
-- *No ingested source states a **week 0 / 2 / 6** three-dose IV induction schedule **for IBD** — a do-not-restore guard. The raw ACG 2025 UC and CD guidelines describe induction as **300 mg IV at weeks 0 and 2** with response assessed at week 6 (GEMINI 1, VISIBLE, VISIBLE 2), and CD Rec 16 refers to "**2 intravenous induction doses**." The only 0/2/6 vedolizumab schedule in the corpus is for **[[immune-checkpoint-inhibitor-colitis|ICI colitis]]** ([[aga-2021-ici-colitis-hepatitis]]). **Correction already applied (2026-09-04):** the dosing tables on the [[acg-2025-uc]] and [[acg-2025-crohns]] source pages had listed "300 mg wk 0, 2, 6" for IBD induction — carried across from the **infliximab** row above it — and now read **300 mg wk 0, 2**, each with a footnote recording the fix. Do not restore the week-6 dose without a source that prints it.*
-- *No ingested source gives **infusion-reaction rates, pre-treatment screening requirements (TB/HBV), immunogenicity / antidrug-antibody rates, or biosimilar availability** for vedolizumab specifically. These are documented in the wiki only for [[anti-tnf-agents|anti-TNF]]; do not assume they transfer.*
-- *No ingested source gives a **primary-nonresponse assessment interval** for vedolizumab beyond ACG's qualitative "10 weeks in anti-TNF-experienced ≈ 6 weeks in naïve" statement.*
-- *The **VARSITY** trial is cited by name on other wiki pages, but the raw [[acg-2025-uc]] PDF refers to it only as "a head-to-head prospective RCT of vedolizumab compared with adalimumab." The trial name is not established from an ingested source.*
-- *Vedolizumab in **UC efficacy tiering** — [[aga-2024-uc-pharm]] is summarized at recommendation level in the wiki; the per-agent high/intermediate/low efficacy tables were not read from the raw PDF for this page.*
+- *IBD induction is **300 mg IV at weeks 0 and 2**, with response assessed at week 6 (GEMINI 1, VISIBLE, VISIBLE 2; [[acg-2025-uc]], [[acg-2025-crohns]] Rec 16: "2 intravenous induction doses"). A week 0 / 2 / 6 three-dose schedule applies only to **[[immune-checkpoint-inhibitor-colitis|ICI colitis]]** ([[aga-2021-ici-colitis-hepatitis]]).*
+- *The guidelines give no **infusion-reaction rates, pre-treatment screening requirements (TB/HBV), immunogenicity / antidrug-antibody rates, or biosimilar availability** for vedolizumab specifically; those documented for [[anti-tnf-agents|anti-TNF]] do not necessarily transfer.*
+- *No **primary-nonresponse assessment interval** is given beyond ACG's qualitative "10 weeks in anti-TNF-experienced ≈ 6 weeks in naïve" statement.*
+- *[[acg-2025-uc]] describes the head-to-head vedolizumab-vs-adalimumab RCT (VARSITY) without naming it.*
+- *[[aga-2024-uc-pharm]] is summarized here at recommendation level; consult its per-agent high/intermediate/low efficacy tables directly for UC efficacy tiering.*
 
 ---
 

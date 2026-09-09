@@ -88,7 +88,7 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 **Upper GI endoscopy (EGD):**
 
 - Conclusive [[gerd|GERD]] evidence: LA grade B, C, D esophagitis or biopsy-proven [[barretts-esophagus|Barrett's esophagus]]
-  - ⚠ **LA grade criteria — a *figure-capture* block, not a corpus block (corrected 2026-09-07).** The GERD-side sources use grades A–D without printing them, but the criteria **are in an ingested source**: [[acg-2025-egd-quality|ACG/ASGE 2025]] **Figure 2, "Los Angeles classification scheme for erosive esophagitis"**, and [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2. Both are raster figures no figure-capture tool can currently extract here. Close it by capturing the figure onto [[reflux-testing]] (single home for the LA-grade entry) — do not infer the criteria, and do not ingest Lundell 1999 to fix it. Same correction on [[upper-endoscopy]].
+  - The **Los Angeles grade A–D mucosal-break criteria** are shown in [[acg-2025-egd-quality|ACG/ASGE 2025]] **Figure 2, "Los Angeles classification scheme for erosive esophagitis"** (and [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2); see [[reflux-testing]] for the LA grade.
 - Adjunctive evidence: [[hiatal-hernia|hiatal hernia]], disrupted EGJ
 - Up to 47% of LPS patients have erosive findings and/or hiatal hernia on EGD
 - Transnasal esophagoscopy (TNE): acceptable alternative if performed by a provider with specialized esophageal-endoscopy training
@@ -140,7 +140,7 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 - **Failure to respond to anti-reflux therapy is expected, not alarming** (<50% of LPS respond) — it should redirect to the non-reflux differential and to laryngeal hyperresponsiveness/hypervigilance, not to escalating acid suppression.
 - **GI alarm symptoms** (weight loss, bleeding, vomiting, anemia) → see [[extraesophageal-reflux|EER red flags]] for the endoscopy trigger.
 
-> **Gap flag:** the San Diego Consensus gives no *duration* or *age/smoking* threshold that converts hoarseness into an urgent-laryngoscopy indication, and does not enumerate airway red flags (stridor, hemoptysis). An ENT/head-and-neck hoarseness guideline would be needed — do not infer thresholds.
+> The San Diego Consensus gives no *duration* or *age/smoking* threshold that converts hoarseness into an urgent-laryngoscopy indication, and does not enumerate airway red flags (stridor, hemoptysis). Those thresholds are set by the ENT/head-and-neck hoarseness guidelines.
 
 ---
 

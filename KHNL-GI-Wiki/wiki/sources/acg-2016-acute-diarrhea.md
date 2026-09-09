@@ -221,8 +221,8 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 - Creates new diagnostic schema: [[acute-diarrhea]] — primary entity page for this syndrome
 - Updates [[fever-returning-traveler]] — antibiotic therapy for TD, specific empiric azithromycin guidance, STEC avoidance, *Giardia*/*Entamoeba* workup
 - Updates [[irritable-bowel-syndrome]] — postinfectious IBS explicitly recognized as a sequela of TD/acute gastroenteritis
-- Updates [[clostridioides-difficile]] — fluoroquinolone use for TD explicitly flagged as a CDI risk factor; antibiotic self-treatment of TD increases risk
-- Creates stubs: [[norovirus]], [[rotavirus]], [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[postinfectious-ibs]]
+- Updates [[clostridioides-difficile]] — fluoroquinolone use for TD explicitly identified as a CDI risk factor; antibiotic self-treatment of TD increases risk
+- Informs: [[norovirus]], [[rotavirus]], [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[postinfectious-ibs]]
 
 ---
 
@@ -230,7 +230,7 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 
 - This is a 2016 guideline; culture-independent diagnostic panels have since expanded significantly. The BioFire FilmArray GI Panel (22 targets) is now widely available and has become standard of care in many centers — expanding the principle of Recommendation 3.
 - Rifaximin for TD prophylaxis is discussed but not FDA-approved for prophylaxis; this may have evolved.
-- Postinfectious IBS is referenced using Rome III criteria; the wiki uses Rome IV/V (see [[disorders-of-gut-brain-interaction]]).
+- Postinfectious IBS is referenced using Rome III criteria; the DGBI pages here use Rome IV/V (see [[disorders-of-gut-brain-interaction]]).
 - Fluoroquinolone resistance in *Campylobacter* has continued to grow since 2016; azithromycin preference for empiric TD therapy in Southeast Asia/India remains valid but the resistance landscape should be monitored.
 - The guideline does not address *Clostridioides difficile*-associated infections, which are covered by a separate ACG guideline ([[acg-2021-cdiff]]).
 

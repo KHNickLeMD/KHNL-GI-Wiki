@@ -31,7 +31,7 @@ The **intragastric balloon (IGB)** is an [[upper-endoscopy|endoscopically]] plac
 - AGA suggests IGB **with lifestyle modification over lifestyle modification alone** in individuals with [[obesity]] who have **failed a trial of conventional weight-loss strategies** (Rec 1, conditional, moderate certainty).
 - US trials were limited to **BMI 30–40 kg/m²**; international trials sometimes included BMI outside this range.
 - Device choice (fluid- vs gas-filled) should follow **shared decision-making**.
-- ⚠ **Decision gap — flagged, not filled:** [[aga-2021-intragastric-balloons|AGA 2021]] states **no contraindication list and no age criterion** — it only notes that a Brazilian consensus statement (40,000 placements) supplied indications by age/BMI and contraindications. Those criteria are **not reproduced in any ingested source**; do not supply them from memory. Closing this needs the ASMBS/SAGES or Brazilian IGB consensus ingested.
+- [[aga-2021-intragastric-balloons|AGA 2021]] states **no contraindication list and no age criterion** — it only notes that a Brazilian consensus statement (40,000 placements) supplied indications by age/BMI and contraindications; see the ASMBS/SAGES or Brazilian IGB consensus for those criteria.
 - Compared against pharmacotherapy ([[aga-2022-obesity-pharm|AGA 2022 obesity pharmacotherapy]], e.g. [[semaglutide]]) and [[bariatric-surgery]], IGB occupies a middle ground for short-term weight loss and as a possible bridge to surgery.
 
 ## Efficacy

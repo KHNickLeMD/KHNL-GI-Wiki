@@ -16,7 +16,7 @@ sources: []
 - **DOI:** none (NCCN web publication)
 - **Type:** Guideline (algorithm-based; NCCN categories of evidence — all recommendations category 2A unless otherwise indicated)
 
-> **Note on content & licensing.** NCCN content is copyrighted and its End-User License Agreement prohibits redistribution and use of the content with AI tools. This source page therefore **summarizes and cites** the guideline rather than reproducing its proprietary algorithm pages verbatim. The wiki entity pages built from it are written in original language with NCCN cited as the source. Consult the original NCCN algorithm pages (GAST-1 … and Principles GAST-A … GAST-F) for the authoritative, citable pathways.
+> **Note on content & licensing.** NCCN content is copyrighted and its End-User License Agreement prohibits redistribution and use of the content with AI tools. This source page therefore **summarizes and cites** the guideline rather than reproducing its proprietary algorithm pages verbatim. Pages built from it are written in original language with NCCN cited as the source. Consult the original NCCN algorithm pages (GAST-1 … and Principles GAST-A … GAST-F) for the authoritative, citable pathways.
 
 ## Summary
 
@@ -36,10 +36,10 @@ Version 3.2026 reorganizes the systemic-therapy principles around HER2 status, m
 
 ## Relevance to Wiki
 
-- Expands [[gastric-adenocarcinoma]] (disease script) from a stub into a staged ADDT page with the NCCN workup, staging, and treatment framework, plus an original algorithm recreation.
+- Expands [[gastric-adenocarcinoma]] (disease script) into a staged ADDT page with the NCCN workup, staging, and treatment framework, plus an original algorithm recreation.
 - Connects to [[gastric-premalignant-conditions]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]] (precursor lesions/surveillance), [[helicobacter-pylori-infection]] (modifiable risk factor), [[hereditary-diffuse-gastric-cancer]] (CDH1, diffuse-type), [[upper-endoscopy]]/[[endoscopic-ultrasound]] (diagnosis/staging), and [[esophageal-cancer]] (shared EGJ systemic therapy/biomarkers).
 
 ## Contradictions / Open Questions
 
-- Algorithm-based guideline (category 2A by default), not a GRADE systematic review; complements the ACG gastric-premalignant-conditions guideline already in the wiki (which governs precursor-lesion screening/surveillance).
+- Algorithm-based guideline (category 2A by default), not a GRADE systematic review; complements the ACG gastric-premalignant-conditions guideline (which governs precursor-lesion screening/surveillance).
 - Reliability of imaging/endoscopy to confirm pathologic complete response in MSI-H/dMMR tumors is an open question; organ-preservation remains investigational.

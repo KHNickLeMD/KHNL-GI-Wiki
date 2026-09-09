@@ -127,7 +127,7 @@ The group's proposed standard definitions (adoption stated as "essential for fut
 - **Stent migration:** recurrent collections after transmural stent placement all occurred with migration **less than 6 months** after placement; patients with migration **after 6 months were asymptomatic** (Rana et al.). In another series, 17 of 36 (**47%**) migrated spontaneously yet recurrence occurred in only one.
 - **Complications of long-term stenting are infrequent but can be significant:** **8%** of patients had **colon perforation**, ranging **5 to 33 months** after stent placement; small bowel obstruction from migration also reported. Overall, indefinite indwelling double-pigtail transgastric stents **appear safe** in DPD.
 - **Current ESGE guidelines recommend long-term indwelling plastic stents following drainage for DPD.**
-- **Unknowns explicitly flagged:** ideal number, size, and length of stents; timing of removal (if at all); impact of migration on recurrence; whether recurrent collections are symptomatic enough to warrant therapy. Potentially, gradual atrophy of the disconnected portion will diminish enzyme secretion and obviate the need for long-term drainage.
+- **Unknowns the guideline names:** ideal number, size, and length of stents; timing of removal (if at all); impact of migration on recurrence; whether recurrent collections are symptomatic enough to warrant therapy. Potentially, gradual atrophy of the disconnected portion will diminish enzyme secretion and obviate the need for long-term drainage.
 
 ### Q8 (final question) — What is the role of surgical therapy for DPD and DPDS?
 

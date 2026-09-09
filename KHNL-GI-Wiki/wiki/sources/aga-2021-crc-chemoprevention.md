@@ -26,7 +26,7 @@ sources: []
 
 ## Summary
 
-The first tier-1 source in the wiki to address **drug chemoprevention of colorectal neoplasia** as its primary subject. It evaluates the seven agents that have been tested in randomized trials — aspirin, non-aspirin NSAIDs, metformin, calcium, vitamin D, folic acid, and statins — and issues **9 Best Practice Advice statements**, of which only **four are positive**: low-dose aspirin in a narrowly defined average-risk group (BPA 1), aspirin after CRC (BPA 2), and metformin in type 2 diabetes for prevention (BPA 4) and for mortality after CRC (BPA 5). The remaining five are explicit **"should not use"** statements — non-aspirin NSAIDs, calcium, vitamin D, folic acid, and statins.
+A tier-1 source whose primary subject is **drug chemoprevention of colorectal neoplasia**. It evaluates the seven agents that have been tested in randomized trials — aspirin, non-aspirin NSAIDs, metformin, calcium, vitamin D, folic acid, and statins — and issues **9 Best Practice Advice statements**, of which only **four are positive**: low-dose aspirin in a narrowly defined average-risk group (BPA 1), aspirin after CRC (BPA 2), and metformin in type 2 diabetes for prevention (BPA 4) and for mortality after CRC (BPA 5). The remaining five are explicit **"should not use"** statements — non-aspirin NSAIDs, calcium, vitamin D, folic acid, and statins.
 
 The decisive clinical fact is **latency**. Aspirin's benefit on CRC incidence and mortality is **not present in the first decade**: pooled analysis of 4 trials (n = 69,535) found no difference in CRC incidence 0–12 years after starting aspirin (RR 0.99), while 3 of those trials (n = 47,464) showed a **40% reduction 10–19 years after initiation** (RR 0.60). That is why BPA 1 restricts aspirin chemoprevention to patients **under 70 with a life expectancy of at least 10 years** — a patient who will not live through the latency window gets the bleeding risk without the benefit.
 
@@ -139,20 +139,20 @@ All three must hold before starting aspirin for chemoprevention:
 
 ## Relevance to Wiki
 
-- **[[colorectal-cancer-screening]]** — the wiki's chemoprevention content was previously incidental. This source supplies the whole framework: the BPA 1 three-criterion aspirin gate, the 10–19-year latency, and the five explicit do-not-use agents.
+- **[[colorectal-cancer-screening]]** — this source supplies the chemoprevention framework: the BPA 1 three-criterion aspirin gate, the 10–19-year latency, and the five explicit do-not-use agents.
 - **[[colorectal-cancer]]** — BPA 2 (aspirin after CRC to prevent recurrent neoplasia), BPA 5 (metformin in CRC + type 2 diabetes for mortality), BPA 9 (statins do not reduce mortality after CRC), and the PIK3CA-mutant / COX-2-expressing tumor restriction on aspirin's overall-survival benefit.
 - **[[polypectomy]]** / **[[serrated-polyposis-syndrome]]** — the SSL harm signals (calcium RR 2.66; calcium + vitamin D RR 3.82; folic acid and right-sided serrated lesions) are the kind of counterintuitive finding surveillance pages should carry. ⚠ Note the scope exclusion below before applying anything here to a *syndromic* population.
 - **[[peptic-ulcer-disease]]**, **[[upper-gi-bleeding]]** — quantifies the aspirin bleeding penalty (OR 1.59 major GI bleeding) and that it is **not** mitigated by dropping to ≤100 mg daily.
-- **Coverage gap this source now supports:** `5-meds/aspirin` and `5-meds/metformin` — neither page exists, and both are now backed by an ingested tier-1 source (chemoprevention indication only; this CPU carries no other dosing or monitoring content).
+- **Aspirin and metformin** — this CPU covers the chemoprevention indication only; it carries no other dosing or monitoring content.
 
 ## Contradictions / Open Questions
 
-- **Observational benefit vs randomized harm — the recurring pattern.** Calcium, vitamin D and folic acid all look protective in cohort data and fail or cause harm in trials. The CPU resolves this in favor of the trials. Any wiki text citing the observational figures must carry the trial result alongside.
-- **Aspirin dose is genuinely unsettled in this source.** CRC incidence effect *"does not seem to differ by dose"*; adenoma recurrence with prior adenoma benefits at **81–160 mg/d** but **not at ≥300 mg/d**; the trial in patients with prior CRC used **325 mg**. BPA 1 says "low-dose" without printing a milligram figure. **The CPU never states a specific chemopreventive dose — do not supply one.**
+- **Observational benefit vs randomized harm — the recurring pattern.** Calcium, vitamin D and folic acid all look protective in cohort data and fail or cause harm in trials. The CPU resolves this in favor of the trials; read any observational figure alongside the trial result.
+- **Aspirin dose is genuinely unsettled in this source.** CRC incidence effect *"does not seem to differ by dose"*; adenoma recurrence with prior adenoma benefits at **81–160 mg/d** but **not at ≥300 mg/d**; the trial in patients with prior CRC used **325 mg**. BPA 1 says "low-dose" without printing a milligram figure. **The CPU never states a specific chemopreventive dose.**
 - **ASPREE points the other way in the elderly.** Higher CRC mortality with aspirin (HR 1.77) at median 4.7 years without increased incidence. The CPU absorbs this into the age-<70 criterion rather than treating it as a contradiction; recorded here because it is the strongest counter-evidence in the document.
 - **Metformin rests almost entirely on observational data** plus one small nondiabetic RCT (n = 151) — hence "may consider," and hence the restriction to patients with diabetes who have an independent indication.
 - **Scope exclusions leave real gaps.** This source does not cover chemoprevention in [[lynch-syndrome]], [[familial-adenomatous-polyposis]], other hereditary syndromes, or [[inflammatory-bowel-disease|IBD]] — the populations in which chemoprevention is most often actually discussed. Aspirin in Lynch syndrome (CAPP2) is **not in this source**; do not attribute it here.
-- **Age is 2021-vintage.** The D-Health Trial was pending at publication ("not expected until at least 2025"). If a newer CRC-screening or chemoprevention guideline is ingested later, re-check BPA 6 against it.
+- **Age is 2021-vintage.** The D-Health Trial was pending at publication ("not expected until at least 2025"). Re-check BPA 6 against any newer CRC-screening or chemoprevention guideline.
 
 ---
 

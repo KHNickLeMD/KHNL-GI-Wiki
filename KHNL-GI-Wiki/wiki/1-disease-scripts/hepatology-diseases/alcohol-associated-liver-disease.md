@@ -113,7 +113,7 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 - **ABIC** — uncertain threshold for initiating steroids; not verified outside Spain
 - **GAHS** — improves specificity of identifying which MDF ≥32 patients need corticosteroids (reduces NNT); **not validated outside the UK**
 - **Lille** — allows early cessation of corticosteroids, but **decision-making is uncertain with a partial response (Lille 0.46–0.56)** [[aasld-2020-ald]]
-- ⚠ **Decision gap — the point/weighting formulas for ABIC, GAHS, and Lille are not in any ingested source.** [[aasld-2020-ald]] names each score's variables and cutoffs (table above) but does not reproduce the coefficients, and explicitly directs readers to an online calculator (`lillemodel.com`) for the Lille score. None of the three can be *computed* from this page. Use an external calculator, or ingest the original ABIC, GAHS, and Lille derivation papers — do not reconstruct the formulas from memory.
+- [[aasld-2020-ald]] names each score's variables and cutoffs (table above) but does not reproduce the ABIC, GAHS, or Lille coefficients, and directs readers to an online calculator (`lillemodel.com`) for the Lille score. Use a calculator to compute the scores.
 
 **Applying the Lille score** — the one *dynamic* score above; it is computed from paired **day-0 and day-7** values, so it answers "is this patient responding?", not "should steroids be started?" (ACG 2024 **Key concept 27**) [[acg-2024-ald]]:
 
@@ -321,7 +321,7 @@ All ALD patients should receive AUD treatment [[acg-2024-ald]], [[aasld-2020-ald
 - Naltrexone (both short- and long-acting) may be used in **early ALD and compensated cirrhosis**, but must be **avoided in decompensated cirrhosis or liver failure**, and used cautiously in kidney disease. **No data** on acamprosate or naltrexone duration, or on their use in AH
 - **Alcohol withdrawal syndrome:** assess and manage per the **CIWA-Ar** protocol; differentiate from [[hepatic-encephalopathy|hepatic encephalopathy]] — the two can coexist (Key concept 12). For **severe** AWS, benzodiazepines are the treatment of choice but require **cautious use and careful monitoring** given their potential to precipitate or worsen HE (Rec 13, *strong / moderate*)
 
-- ⚠ **Investigational, not guideline-endorsed — [[semaglutide]] for AUD.** A phase-2 double-blind RCT (n=48 non–treatment-seeking adults with AUD, 9 weeks, 0.25→1.0 mg/week) found reduced laboratory alcohol self-administration, **fewer drinks per drinking day** (β −0.41; P=.04) and **lower weekly craving** (β −0.39; P=.01), with no change in drinking days. **Off-label and not practice-changing** — small, short, non–treatment-seeking sample; none of the ingested guidelines lists a [[glp-1-receptor-agonists|GLP-1 RA]] among AUD pharmacotherapy, so it does **not** enter the tables above. [[hendershot-2025-semaglutide-aud]]
+- ⚠ **Investigational, not guideline-endorsed — [[semaglutide]] for AUD.** A phase-2 double-blind RCT (n=48 non–treatment-seeking adults with AUD, 9 weeks, 0.25→1.0 mg/week) found reduced laboratory alcohol self-administration, **fewer drinks per drinking day** (β −0.41; P=.04) and **lower weekly craving** (β −0.39; P=.01), with no change in drinking days. **Off-label and not practice-changing** — small, short, non–treatment-seeking sample; no guideline lists a [[glp-1-receptor-agonists|GLP-1 RA]] among AUD pharmacotherapy, so it does **not** enter the tables above. [[hendershot-2025-semaglutide-aud]]
 - Behavioral therapy: essential component; motivational interviewing (MI) has evidence for changing alcohol behavior; AA/mutual aid societies
 - Integrated AUD treatment alongside medical providers in the liver clinic (not just referral outside) improves abstinence rates
 - Brief intervention: effective in early ALD and hospital-based settings
@@ -420,7 +420,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recommendations for
 
 - Naltrexone: opioid antagonist; reduces craving and alcohol consumption; use with caution if hepatic impairment (LFTs must be monitored)
 - Acamprosate: reduces alcohol cravings; renal dosing; no hepatotoxicity risk
-  - ⚠ *The two ingested sources describe acamprosate's mechanism differently — [[aasld-2020-ald]] calls it an **NMDA antagonist** (table above), [[aasld-ast-2025-liver-transplant-graft-complications]] a **GABA modulator**. Neither reconciles the other; the clinical use is unaffected. (Both sources' original "(NAC)" abbreviation for acamprosate is dropped here — on this page NAC is N-acetylcysteine.)*
+  - ⚠ *The two sources describe acamprosate's mechanism differently — [[aasld-2020-ald]] calls it an **NMDA antagonist** (table above), [[aasld-ast-2025-liver-transplant-graft-complications]] a **GABA modulator**. Neither reconciles the other; the clinical use is unaffected. (Both sources' original "(NAC)" abbreviation for acamprosate is dropped here — on this page NAC is N-acetylcysteine.)*
 - Disulfiram: generally avoided post-LT due to hepatotoxicity risk and compliance issues
 - Pharmacotherapy should be combined with behavioral therapy
 

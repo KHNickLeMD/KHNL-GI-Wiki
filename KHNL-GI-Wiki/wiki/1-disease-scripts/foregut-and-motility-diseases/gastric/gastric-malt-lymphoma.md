@@ -37,7 +37,7 @@ sources: [acg-2024-hp-treatment, asge-2015-gastric-premalignant]
 - **[[endoscopic-ultrasound|EUS]] provides the prognostic information** — it permits accurate assessment of **the degree of infiltration of lymphoma in the gastric wall** and **regional lymph node involvement**. [[asge-2015-gastric-premalignant]]
 - This matters because the eradication-alone strategy below is established for **early-stage / low-grade** disease; depth and nodal status are what separate that group from the rest.
 
-> **Corpus gap:** no ingested source gives a formal staging system for gastric MALT lymphoma (e.g. Lugano, Ann Arbor, or the Paris/TNM staging), nor the criteria defining "early stage," nor management of eradication-refractory or high-grade/transformed disease (radiotherapy, rituximab, chemotherapy). A lymphoma or ESMO marginal-zone guideline would be needed.
+> The GI guidelines do not give a formal staging system for gastric MALT lymphoma (e.g. Lugano, Ann Arbor, or the Paris/TNM staging), nor the criteria defining "early stage," nor management of eradication-refractory or high-grade/transformed disease (radiotherapy, rituximab, chemotherapy); those are in the lymphoma / ESMO marginal-zone guidelines.
 
 ## Differential Diagnosis
 

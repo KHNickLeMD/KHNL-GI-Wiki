@@ -358,7 +358,7 @@ The guideline reflects the pre-direct-acting-antiviral (DAA) era for HCV treatme
 
 - Creates new page: [[liver-transplantation]] — full post-LT management disease script
 - Updates: [[chronic-hepatitis-b]] (HBV post-LT prophylaxis and treatment), [[hepatocellular-carcinoma]] (sirolimus IS, surveillance), [[alcohol-associated-liver-disease]] (post-LT abstinence, counseling), [[primary-sclerosing-cholangitis]] (post-LT recurrence, colonoscopy), [[primary-biliary-cholangitis]] (post-LT recurrence, UDCA), [[autoimmune-hepatitis]] (post-LT long-term corticosteroids), [[acute-liver-failure]] (LT as treatment)
-- Creates stubs: [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]]
+- Related pages: [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]]
 
 ## Contradictions / Open Questions
 

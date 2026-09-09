@@ -49,7 +49,7 @@ Per [[aasld-2012-liver-transplant-long-term]] (Rec 9, **Grade 2, Level C**): *"A
 - Withdrawal only in a **closely monitored, highly selected** group of long-term LT recipients; prefer enrolment in a prospective trial over unmonitored withdrawal.
 - Severity of clinically silent allograft damage correlates **positively** with TCMR-related transcripts, class II DSA, ALT, AST, and liver stiffness, and **negatively** with serum creatinine and [[tacrolimus]] trough levels — which is why ALT, class II DSA, and liver stiffness are the candidate screening tools ([[aasld-ast-2025-liver-transplant-graft-complications]]).
 
-> **Gap — no monitoring protocol is specified.** Neither ingested guideline gives a biopsy interval, an ALT/DSA threshold, or a taper schedule for a withdrawal attempt. Anyone attempting withdrawal outside a trial is operating without a sourced protocol; do not infer one.
+> Neither guideline gives a biopsy interval, an ALT/DSA threshold, or a taper schedule for a withdrawal attempt; anyone attempting withdrawal outside a trial is operating without a guideline protocol.
 
 ## See Also
 

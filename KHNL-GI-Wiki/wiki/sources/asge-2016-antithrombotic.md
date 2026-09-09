@@ -20,7 +20,7 @@ sources: []
 
 ASGE Standards-of-Practice guideline on periprocedural management of anticoagulants and antiplatelet agents (APAs). It frames the decision around four factors: procedure urgency, procedure bleeding risk, the drug's effect on bleeding, and the thromboembolic risk of interrupting therapy. It provides a duration-of-action / reversal reference table for every antithrombotic class, a procedure bleeding-risk dichotomy (high vs low), and a CV-risk × bleeding-risk management matrix (Table 13) for the elective setting, plus separate guidance for urgent/emergent bleeding.
 
-This is an **older tier-1 source**; the newer **[[acg-cag-2022-anticoag-gi-bleeding]]** (2022 ACG/CAG) governs the wiki's periendoscopic and acute-bleeding recommendations where they overlap. ASGE 2016's net-new contribution to the wiki is its **drug-specific duration-of-action / hold-interval / reversal reference table** and specific pre-procedure hold intervals, which were added to **[[anticoagulation-gi-bleeding]]** without overwriting the ACG/CAG framework.
+This is an **older tier-1 source**; the newer **[[acg-cag-2022-anticoag-gi-bleeding]]** (2022 ACG/CAG) governs the periendoscopic and acute-bleeding recommendations where they overlap. ASGE 2016's net-new contribution is its **drug-specific duration-of-action / hold-interval / reversal reference table** and specific pre-procedure hold intervals, which were added to **[[anticoagulation-gi-bleeding]]** without overwriting the ACG/CAG framework.
 
 ## Key Findings / Claims
 
@@ -64,5 +64,5 @@ This is an **older tier-1 source**; the newer **[[acg-cag-2022-anticoag-gi-bleed
 
 ## Contradictions / Open Questions
 
-- **Bridging.** ASGE 2016 suggests bridge therapy for high-thrombotic-risk patients undergoing high-bleeding-risk procedures. The newer **[[acg-cag-2022-anticoag-gi-bleeding]]** (informed by BRIDGE/PERIOP-2) suggests **against** routine bridging except for mechanical heart valves. **Newer ACG/CAG governs the wiki claim**; ASGE 2016's bridging stance is noted here as superseded.
+- **Bridging.** ASGE 2016 suggests bridge therapy for high-thrombotic-risk patients undergoing high-bleeding-risk procedures. The newer **[[acg-cag-2022-anticoag-gi-bleeding]]** (informed by BRIDGE/PERIOP-2) suggests **against** routine bridging except for mechanical heart valves. [[anticoagulation-gi-bleeding]] follows the newer ACG/CAG; ASGE 2016's bridging stance is superseded.
 - **Reversal-agent emphasis.** ASGE 2016 endorses 4F-PCC/FFP more readily for warfarin-related bleeding; ACG/CAG 2022 reserves reversal agents for life-threatening hemorrhage and suggests against routine FFP. Wiki follows ACG/CAG 2022.

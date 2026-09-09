@@ -26,7 +26,7 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 - **Germline testing for CDKN2A is recommended** in the hereditary-pancreatic-cancer testing panel (alongside BRCA1/2, PALB2, ATM). [[acg-2015-hereditary-gi-cancer]]
 - FAMMM is one of the conditions meeting hereditary-pancreatic-cancer risk criteria — a known genetic syndrome carrying pancreatic cancer risk. [[acg-2015-hereditary-gi-cancer]]
 
-> **Gap:** neither ingested source states the clinical (nevus-count / family-history) diagnostic criteria for FAMMM. A dermatology or melanoma-genetics source would be needed to close this.
+> Neither GI guideline states the clinical (nevus-count / family-history) diagnostic criteria for FAMMM; take them from a dermatology or melanoma-genetics source.
 
 ### Severity Assessment
 

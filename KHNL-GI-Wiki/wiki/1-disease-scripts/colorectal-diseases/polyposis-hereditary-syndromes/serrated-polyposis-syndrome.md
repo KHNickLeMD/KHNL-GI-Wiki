@@ -50,7 +50,7 @@ These are the **2010 (4th-edition) WHO** criteria — [[asge-2020-fap|ASGE 2020]
 | First limb polyp type | Serrated | **Hyperplastic** (as written) |
 | FDR-based limb | Present (criterion ii) | Not restated |
 
-> **Remaining gap:** USMSTF 2020 states its thresholds in a table footnote **without attributing them to WHO**, and its first limb specifies *hyperplastic* rather than serrated polyps. The **WHO 2019 (5th-edition)** revision itself is **not in any ingested source** — a current WHO or NCCN polyposis source would be needed to reproduce it verbatim. Both formulations are printed above rather than silently merged; where they conflict the newer USMSTF 2020 thresholds govern (same tier, newer publication).
+> **WHO vs USMSTF wording.** USMSTF 2020 states its thresholds in a table footnote **without attributing them to WHO**, and its first limb specifies *hyperplastic* rather than serrated polyps. The **WHO 2019 (5th-edition)** revision itself is not reproduced here. Both formulations are printed above; where they conflict this page follows the newer USMSTF 2020 thresholds.
 
 **Polyp spectrum**:
 

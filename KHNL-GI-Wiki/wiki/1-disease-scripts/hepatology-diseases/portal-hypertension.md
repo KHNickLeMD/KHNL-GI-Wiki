@@ -78,7 +78,7 @@ Portal hypertension (PH) is defined as a portocaval pressure gradient (portal ve
 
 **HVPG (gold standard):** the **full interpretation ladder (normal / subclinical / CSPH / ≥16 / >20) and the measurement technique live on [[hepatic-venous-pressure-gradient]]** — that page is the single home; the strata are not restated here. The two values that change management on *this* page are **≥10 mm Hg (CSPH → primary prophylaxis)** and **>20 mm Hg measured at the time of bleeding (→ pre-emptive [[tips|TIPS]])**.
 
-> ⚠ **"HVPG ≥12 mm Hg = variceal bleeding threshold" has been removed from this page (2026-09-02).** No ingested source states it. Full-text search of [[aasld-2023-portal-hypertension]] and [[baveno-vii-2022-portal-hypertension]] finds 12 mm Hg **only** as the **post-TIPS portosystemic gradient target** ("NSBB are not required after TIPS placement if portosystemic gradient is reduced to under 12 mm Hg"). Do not refill it from memory — see the same flag on [[hepatic-venous-pressure-gradient]].
+> Neither [[aasld-2023-portal-hypertension]] nor [[baveno-vii-2022-portal-hypertension]] states "HVPG ≥12 mm Hg" as a variceal bleeding threshold; both use 12 mm Hg **only** as the **post-TIPS portosystemic gradient target** ("NSBB are not required after TIPS placement if portosystemic gradient is reduced to under 12 mm Hg"). See [[hepatic-venous-pressure-gradient]].
 
 **EUS-PPG (emerging alternative).** [[interventional-eus-vascular|EUS-guided portosystemic pressure gradient]] directly and sequentially measures **hepatic vein and portal vein pressures** by needle puncture (gradient = mean portal − mean hepatic vein pressure), rather than using wedged pressure as an indirect proxy. Because it measures portal pressure directly, expert consensus favors it **over [[hepatic-venous-pressure-gradient|HVPG]] when a presinusoidal or noncirrhotic cause of PH is suspected** (where wedged pressure underestimates severity) and in MASH; its indications include all HVPG indications, and it enables a same-session "one-stop-shop" with variceal-screening EGD and EUS [[liver-biopsy|liver biopsy]] ([[wang-2026-eus-ppg-delphi-consensus]]). Technique lives on [[interventional-eus-vascular]].
 
@@ -109,7 +109,7 @@ Portal hypertension (PH) is defined as a portocaval pressure gradient (portal ve
 
 - **Rule out** with **LSM ≤15 kPa *and* platelets ≥150 ×10⁹/L** (1.15) — both required.
 - LSM + platelets and their derivatives (the ANTICIPATE models) are the **mainstay**; SSM further improves classification (1.12–1.13).
-- ANTICIPATE, ANTICIPATE-NASH, and NICER are **model outputs, not bedside arithmetic** — their coefficients are not published in any ingested source, so the probability must come from the published calculator.
+- ANTICIPATE, ANTICIPATE-NASH, and NICER are **model outputs, not bedside arithmetic** — their coefficients are not published in the guidelines, so the probability must come from the published calculator.
 
 ![[portal-hypertension-2022-baveno7-cacld-csph-algorithm-05.png|750x330]]
 *Figure 4 — the Baveno VII "rule of 5" ladder for LSM by transient elastography (10-15-20-25 kPa), retained here because the ladder itself is unchanged in Baveno VIII. Read the CSPH rule-in row against the Baveno VIII criteria table above, not against this figure: the SSM and ANTICIPATE thresholds printed in Baveno VII have been revised. ([[baveno-vii-2022-portal-hypertension]])*

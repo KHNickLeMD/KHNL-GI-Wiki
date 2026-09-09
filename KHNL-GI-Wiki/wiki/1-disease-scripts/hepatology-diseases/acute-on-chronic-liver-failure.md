@@ -54,7 +54,7 @@ ACLF is a syndrome in patients with chronic liver disease (CLD) characterized by
 
 - **ACLF-1 / ACLF-2** — intermediate stage: patients *developing* extrahepatic organ failure
 - **ACLF-3** — late stage: **≥3 organ failures**; highest mortality; terlipressin contraindicated
-- *Gap: [[aasld-2024-aclf]] does not restate the EASL-CLIF numeric organ-failure counts separating ACLF-1 from ACLF-2 — the original EASL-CLIF/CANONIC paper is not ingested.*
+- *[[aasld-2024-aclf]] does not restate the EASL-CLIF numeric organ-failure counts separating ACLF-1 from ACLF-2; they are in the original EASL-CLIF/CANONIC paper.*
 
 **Pre-ACLF:** Subgroup of decompensated cirrhosis at higher risk of developing ACLF (higher CRP, WBC, MELD); characterized by progressive increase in severity scores. No individual biomarker predicts ACLF development.
 
@@ -242,7 +242,7 @@ Infection is the most common precipitant of ACLF (~48%). Every hour delay in ant
 | Refeeding syndrome monitoring | K, Mg, PO₄ + ECG monitoring after EN initiation (GS 45) |
 | Glucose target | **140–180 mg/dL** (7.8–10 mmol/L); avoid tight glycemic control (hypoglycemia risk) (GS 46) |
 
-> ⚠ **Scoring NUTRIC needs two scores this wiki does not carry.** [[aasld-2024-aclf]] names NUTRIC without printing it; the point table linked above is complete, but two of its six factors are **APACHE II** and **baseline SOFA**, and neither instrument is in an ingested source. Compute those from the published instruments — **not from memory.** The cirrhosis-specific tools that *are* fully quantified here (Liver Frailty Index, CT skeletal muscle index, KPS) are on [[nutrition-in-liver-disease]], but AASLD does not substitute them for NUTRIC in the ICU.
+> ⚠ **Scoring NUTRIC needs two scores not carried on this site.** [[aasld-2024-aclf]] names NUTRIC without printing it; the point table linked above is complete, but two of its six factors are **APACHE II** and **baseline SOFA** — compute those from the published instruments. The cirrhosis-specific tools that *are* fully quantified here (Liver Frailty Index, CT skeletal muscle index, KPS) are on [[nutrition-in-liver-disease]], but AASLD does not substitute them for NUTRIC in the ICU.
 
 ### Liver Transplantation in ACLF
 
@@ -261,7 +261,7 @@ Infection is the most common precipitant of ACLF (~48%). Every hour delay in ant
 
 - Ventilator support (strongest predictor of suboptimal post-LT outcome)
 - Lactate >9 mmol/L or CLIF-C ACLF >70
-- Severe frailty (**Clinical Frailty Scale ≥7**) + concurrent dialysis or advanced age — ⚠ [[aasld-2024-aclf]] applies the CFS cut-off without printing the scale's levels; grade it with the published CFS instrument, not from memory
+- Severe frailty (**Clinical Frailty Scale ≥7**) + concurrent dialysis or advanced age — ⚠ [[aasld-2024-aclf]] applies the CFS cut-off without printing the scale's levels; grade it with the published CFS instrument
 - FiO₂ ratio <150 mm Hg (severe ARDS equivalent)
 - Active uncontrolled sepsis; fungal infections
 - ACLF progression ≥4 organ failures

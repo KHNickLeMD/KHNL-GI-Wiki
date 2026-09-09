@@ -7,9 +7,9 @@ updated: 2026-09-01
 sources: [asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, acg-2020-esophageal-physiologic-testing, sages-2021-gerd-surgery]
 ---
 
-*Herniation of the stomach through the diaphragmatic hiatus. In the ingested corpus it appears almost entirely as **the anatomic variable that selects an antireflux procedure** — hernia size plus [[reflux-testing|Hill grade]] is the operative decision point in [[gerd|GERD]], and a paraesophageal hernia is a hard exclusion for endoscopic repair.*
+*Herniation of the stomach through the diaphragmatic hiatus. In the GERD guidelines it appears almost entirely as **the anatomic variable that selects an antireflux procedure** — hernia size plus [[reflux-testing|Hill grade]] is the operative decision point in [[gerd|GERD]], and a paraesophageal hernia is a hard exclusion for endoscopic repair.*
 
-> ⚠ **Corpus scope — read before relying on this page.** **No dedicated hiatal/paraesophageal hernia guideline is ingested.** Everything below comes from GERD and antireflux-procedure sources. Consequently this page does **not** cover: the **type I–IV anatomic classification**, epidemiology/natural history, indications for repair of an **asymptomatic paraesophageal hernia**, or management of **incarceration or gastric volvulus**. Ingesting a SAGES guideline on the management of hiatal hernia would close these. Do not fill them from general knowledge.
+> ⚠ **Scope of this page.** No dedicated hiatal/paraesophageal hernia guideline is covered; everything below comes from GERD and antireflux-procedure sources. This page does **not** cover the **type I–IV anatomic classification**, epidemiology/natural history, indications for repair of an **asymptomatic paraesophageal hernia**, or management of **incarceration or gastric volvulus** — see the SAGES hiatal hernia guideline for those.
 
 ## Contents
 - [[#Assessment]]
@@ -37,7 +37,7 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation �
   - **Flap valve morphology** by **Hill grade** (or AFS grade), in **both forward view and retroflexion**
   - The GEJ landmarks it is measured against: top of gastric folds, Z-line, diaphragmatic impression
 - **This documentation is routinely omitted** — in observational data, hiatal hernia was measured in only **51%** of endoscopy reports (esophagitis graded in only 42%) ([[asge-2024-gerd]]). A report without a hernia measurement cannot be used to select an antireflux procedure.
-- **Hill grade I–IV criteria are corpus-blocked** — no ingested source defines them; see [[reflux-testing]] for the flag and the source that would close it. The **AFS grade** is likewise undefined in the corpus.
+- **Hill grade I–IV and AFS grade criteria are not defined in the GERD guidelines** — see [[reflux-testing]].
 
 ### Severity Assessment
 
@@ -75,7 +75,7 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation �
 | **[[high-resolution-manometry\|HRM]]** | Most sensitive detection (94.3% / 91.5%); mandatory before any antireflux procedure to exclude [[achalasia]] and absent contractility (criteria: [[chicago-classification-v4\|Chicago Classification v4.0]]) | [[acg-2020-esophageal-physiologic-testing]], [[acg-2021-gerd]] |
 | **[[ambulatory-reflux-monitoring\|pH monitoring off PPI]]** | Objective GERD confirmation — required before procedural therapy unless LA C/D esophagitis or long-segment Barrett's is present | [[afs-2023-transoral-incisionless-fundoplication]] |
 
-> **Sourcing gap — Cameron lesions.** Erosions at the diaphragmatic hiatus in a hiatal hernia are a recognised cause of occult blood loss and [[iron-deficiency-anemia|iron-deficiency anemia]] (they are listed on [[upper-gi-bleeding]]), but **the term appears in no ingested source** — not in [[asge-2024-gerd]], [[acg-2021-gerd]], [[afs-2023-transoral-incisionless-fundoplication]], [[sages-2021-gerd-surgery]], [[acg-2020-esophageal-physiologic-testing]], nor in the ingested UGIB, small-bowel-bleeding, or iron-deficiency-anemia guidelines. Their appearance, bleeding phenotype, prevalence, and management are therefore **deliberately not asserted here**. Closing this needs a hiatal-hernia guideline or a UGIB/IDA source that covers them.
+> **Cameron lesions.** Erosions at the diaphragmatic hiatus in a hiatal hernia are a recognised cause of occult blood loss and [[iron-deficiency-anemia|iron-deficiency anemia]] (they are listed on [[upper-gi-bleeding]]), but none of the GERD, antireflux-surgery, UGIB, small-bowel-bleeding, or iron-deficiency-anemia guidelines describes their appearance, bleeding phenotype, prevalence, or management, so they are not detailed here.
 
 ---
 

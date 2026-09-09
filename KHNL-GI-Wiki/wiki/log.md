@@ -6,6 +6,20 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-08] lint | Maintainer notes removed from every public page — 315 pages rewritten; gap list moved to needed-sources.md
+
+**Nick's instruction (from the [[irritable-bowel-syndrome]] severity section):** pages must not contain instructions to the wiki agent — *"Do not reconstruct them from memory"*, *"the Drossman and Francis papers would be needed to add the scoring"*, "flagged, not filled", "not in any ingested source", "corpus-blocked", tool talk (`pdftotext`, PyMuPDF, text layer, `raw/` paths), flag dates. That belongs in this log, in decisions, and on non-public pages. Pages may keep a list of resources Nick can download.
+
+**What changed:**
+- **315 pages** across every folder rewritten by an 8-batch parallel sweep (801 flagged lines). Each note became one reader-facing sentence stating what the source does or does not give (*"Rome V gives the cut-points but not the item weights; assign the stratum from the clinical profile in the table."*), or was deleted when it carried nothing clinical. No clinical content added or removed; `updated:` dates deliberately **not** bumped so the staleness queue is undisturbed. Card files untouched (no clinical change).
+- **[[needed-sources]]** created at `wiki/` root — the download list. ~190 rows: score / classification primary papers, guidelines not in `raw/`, product labels, raster figures and supplementary tables inside already-ingested PDFs that still need capture, and the no-page-no-source topic list. `index.md` → *Coverage Gaps* → *Needs a source* now points there instead of holding its own list. Includes the broken IANS 2024 file (6 KB Cloudflare page, not a PDF).
+- **`CLAUDE.md`** → Style Guide → new section *No maintainer notes on pages*: the banned phrasings, the one-sentence reader-facing form, and the rule that the resource named by a gap goes on `needed-sources.md` and the reasoning goes here. LINT → *Fill coverage gaps* updated to route no-source gaps to that page.
+- Section headings renamed where they leaked process: *Agents in the Ingested Corpus* → *Agents*; *Source-Fidelity Note* on [[asge-2020-endoscopic-removal]] → *How This Document Is Structured* (the audit narrative from the 2026-09-08 pass above stays in this log, not on the page).
+
+**Left alone on purpose:** `index.md` *Coverage Gaps* queue tables (Fillable now / Blocked on ingest) — they are the lint work queue defined in `CLAUDE.md`, not page content. If Nick wants those off the public index too, they can move to a `wiki/` root maintenance page the same way.
+
+---
+
 ## [2026-09-08] lint | Seven-batch sweep — a source page had invented 36 numbered recommendations for a guideline that has none, and 23 of its 34 GRADE ratings contradicted the document
 
 **The finding that mattered — a whole grading scheme that was never in the source.**

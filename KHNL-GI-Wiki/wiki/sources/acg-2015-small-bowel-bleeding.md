@@ -171,7 +171,7 @@ Recommendation 18's "slower rates of bleeding (0.1–0.2 ml/min)" sits at the bo
 ## Relevance to Wiki
 
 - **Creates:** [[small-bowel-bleeding]] (new diagnostic schema, `wiki/2-diagnostic-schemas/`)
-- **Creates stubs:** [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[angioectasia]], [[meckels-diverticulum]], [[heydes-syndrome]]
+- **Related pages:** [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[angioectasia]], [[meckels-diverticulum]], [[heydes-syndrome]]
 - **Cross-links to:** [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[subepithelial-lesion]], [[celiac-disease]], [[crohns-disease]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]]
 - Celiac disease: this guideline explicitly states celiac disease is no longer listed as a cause of SBB (it causes IDA through malabsorption, not occult GI hemorrhage).
 

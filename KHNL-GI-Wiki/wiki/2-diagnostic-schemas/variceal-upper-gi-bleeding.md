@@ -45,7 +45,7 @@ In a cirrhotic patient with UGIB, consider:
 1. **Resuscitation**: Large-bore IV access × 2; airway assessment (intubate if GCS altered/aspiration risk before endoscopy). Transfuse pRBCs to target Hgb **~7 g/dL** — restrictive strategy (GS 28). **Baveno VIII 5.4 states the target as a band, 7–8 g/dL**, individualized for cardiovascular disorders, age, haemodynamic status, and ongoing bleeding — the same restrictive principle with an explicit ceiling.
    - **The qualifier is the decision:** ~7 g/dL applies **in the absence of comorbidities (e.g. ischemic coronary disease) or hemodynamic instability that might merit higher targets** — AASLD's own wording. Do not apply 7 g/dL to the unstable or the cardiac patient.
    - **No FFP and no platelet transfusions** based on INR or platelet count targets — INR does not predict hemostatic dysfunction; no evidence of benefit, and evidence of potential **harm** from FFP (GS 29).
-   - ⚠ The restrictive-transfusion RCT underlying this (AASLD refs 166–167) is **not ingested**; only AASLD's guidance statement is sourced here. A page-level attribution to a named trial was removed 2026-08-31 as unverifiable. ([[aasld-2023-portal-hypertension]])
+   - The restrictive-transfusion RCTs underlying this are AASLD refs 166–167; only AASLD's guidance statement is cited here. ([[aasld-2023-portal-hypertension]])
 
 2. **Start vasoactive therapy immediately** (GS 25): do not wait for endoscopy. Initiate as soon as variceal bleeding is *suspected*, before diagnostic/therapeutic endoscopy ([[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 CPU]], BPA 1); **octreotide is the agent of choice in the US** based on its safety profile (BPA 3).
    - **[[somatostatin-analogs|Octreotide]]:** 50 mcg IV bolus → 25–50 mcg/hr infusion × 2–5 days (additional IV boluses may be given for ongoing bleeding — [[aga-2024-vasoactive-albumin-cirrhosis]])
@@ -142,7 +142,7 @@ Bleeding from **GOV2 or IGV1 is a high-risk event** requiring **rapid, structure
 
 - **Ectopic varices:** either endovascular (TIPS or transvenous obliteration) or endoscopic treatment (5.42)
 
-**Temporizing vs definitive at the index endoscopy** ([[aga-2021-bleeding-gastric-varices|AGA 2021]] — ungraded Best Practice Advice; **outranked by Baveno VIII above wherever they speak to the same question**, but it is the only ingested source for the items below):
+**Temporizing vs definitive at the index endoscopy** ([[aga-2021-bleeding-gastric-varices|AGA 2021]] — ungraded Best Practice Advice; **outranked by Baveno VIII above wherever they speak to the same question**, but it is the only source for the items below):
 
 - **Give a promotility agent and use a therapeutic endoscope or advanced suctioning device** — intragastric blood frequently obscures the cardia and fundus. **Classify the esophageal varices as well as the gastric ones** at the index exam: the definitive GV therapies differ in their effect on subsequent EV bleeding risk.
 - **Band ligation** achieves initial hemostasis in **45%–93%** but is inferior to cyanoacrylate for long-term control of cardiofundal GV → a reasonable **temporizing** measure that must be followed by definitive therapy. For **lesser-curve GV it is often the best definitive therapy**, given their similarity to EV.

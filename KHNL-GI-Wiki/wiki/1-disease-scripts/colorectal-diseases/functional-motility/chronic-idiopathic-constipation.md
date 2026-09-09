@@ -50,7 +50,7 @@ sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-con
 2. **Loose stools are rarely present without the use of laxatives.**
 3. **Insufficient criteria for [[irritable-bowel-syndrome|irritable bowel syndrome]].**
 
-> **Version gap:** the ingested corpus carries the **Rome III** criteria list only ([[asge-2014-constipation]]); [[rome-v-2026-dgbi]] supplies the Rome V *nomenclature* change (above) but not the criteria items. The Rome IV/V criteria text itself is not in any ingested source — do not assume the six items or the timing qualifier are unchanged.
+> **Version note:** the criteria list above is **Rome III** ([[asge-2014-constipation]]); [[rome-v-2026-dgbi]] supplies the Rome V *nomenclature* change (above) but not the criteria items. Do not assume the six items or the timing qualifier are unchanged in Rome IV/V — check the Rome V criteria volume.
 
 **Exclusions (not CIC):**
 

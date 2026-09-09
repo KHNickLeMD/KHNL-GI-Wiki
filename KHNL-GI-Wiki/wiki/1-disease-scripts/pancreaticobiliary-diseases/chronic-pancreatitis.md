@@ -201,14 +201,14 @@ Consensus-derived weighted system (Catalano 2009 consensus conference, 32 intern
 | Dilated side branches **≥1 mm** | Ductal | Minor |
 | Hyperechoic MPD margin | Ductal | Minor |
 
-⚠ **Decision gap — the operational definitions behind each feature are not in any ingested source.** APA 2014 names the features and gives only the ductal cutoffs shown above; it does not state how large a hyperechoic focus must be, how many contiguous lobules constitute honeycombing, or what proportion of the duct margin must be echogenic. Adding those would require ingesting the primary Rosemont paper (Catalano MF et al., *Gastrointest Endosc* 2009;69:1251–61) — do not infer them.
+APA 2014 names the features and gives only the ductal cutoffs shown above; it does not state how large a hyperechoic focus must be, how many contiguous lobules constitute honeycombing, or what proportion of the duct margin must be echogenic. Those operational definitions are in the primary Rosemont paper (Catalano MF et al., *Gastrointest Endosc* 2009;69:1251–61).
 
 **Diagnostic categories:**
 
 | Category | Criteria |
 |---|---|
 | **Consistent with CP** | **2 Major A** · **or** 1 Major A **+** Major B · **or** 1 Major A **+ ≥3 minor** |
-| Suggestive / Indeterminate / Normal | ⚠ [[apa-2014-chronic-pancreatitis]] reproduces only the "consistent" combinations and collapses everything else into *"all other combinations of features."* The specific splits are **not in any ingested source** (Catalano 2009 needed) |
+| Suggestive / Indeterminate / Normal | ⚠ [[apa-2014-chronic-pancreatitis]] reproduces only the "consistent" combinations and collapses everything else into *"all other combinations of features."* The specific splits are in the primary Rosemont paper (Catalano 2009) |
 
 **Caveats:**
 
@@ -222,7 +222,7 @@ Consensus-derived weighted system (Catalano 2009 consensus conference, 32 intern
 
 **⚠ Source discrepancy — Rosemont lobularity:**
 
-The [[apa-2014-chronic-pancreatitis|APA 2014 guideline]] text states parenchymal Major A criteria were "(1) hyperechoic foci with shadowing and (2) **well-circumscribed lobularity**." That sentence is **self-contradictory within the same paragraph**, which then assigns lobularity-with-honeycombing to Major B and lobularity-with-non-contiguous-lobules to minor — leaving no lobularity variant available for Major A. The table above therefore omits lobularity from Major A. Adjudicating the discrepancy definitively requires the primary Rosemont paper, which is **not ingested**.
+The [[apa-2014-chronic-pancreatitis|APA 2014 guideline]] text states parenchymal Major A criteria were "(1) hyperechoic foci with shadowing and (2) **well-circumscribed lobularity**." That sentence is **self-contradictory within the same paragraph**, which then assigns lobularity-with-honeycombing to Major B and lobularity-with-non-contiguous-lobules to minor — leaving no lobularity variant available for Major A. The table above therefore omits lobularity from Major A. The primary Rosemont paper (Catalano 2009) is the authority on this point.
 
 ### Pancreatic function tests
 
@@ -281,7 +281,7 @@ Indicated when etiology unclear, family history, early onset, or pediatric/young
 
 ### Endoscopic vs surgical therapy for painful obstructive CP
 
-*The governing source here is [[asge-2024-chronic-pancreatitis-endoscopy|ASGE 2024]] (newest tier-1 guideline; all six recommendations **conditional**). [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022]] agrees on the surgery-vs-endotherapy direction and supplies supporting data, but **is superseded on stent number** — see the flagged contradiction below.*
+*The governing source here is [[asge-2024-chronic-pancreatitis-endoscopy|ASGE 2024]] (newest tier-1 guideline; all six recommendations **conditional**). [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022]] agrees on the surgery-vs-endotherapy direction and supplies supporting data, but **is superseded on stent number** — see the contradiction below.*
 
 **Who gets operated on first (ASGE 2024 Rec 1 — conditional / low-to-moderate):**
 

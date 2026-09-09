@@ -99,18 +99,18 @@ Net effect: reduce the occurrence of reflux **and** restrict the diameter of EGJ
 - [[antireflux-surgery]] — supplies the **post-operative endoscopic assessment** the page lacked entirely: the four-attribute nomenclature, the per-procedure groove-depth table, and the "can you see through the wrap" failure sign for Nissen.
 - [[reflux-testing]] — extends the endoscopic GEJ-assessment section beyond the native valve; also supplies the **insufflation and retroflexed-pull technique** that prevents under-grading, which applies to native-valve assessment too.
 - [[gerd]] — the workup of recurrent GERD after anti-reflux surgery.
-- [[antireflux-surgery|TIF]] and [[antireflux-surgery|magnetic sphincter augmentation (MSA/LINX)]] — procedure-specific expected appearance. Both currently live on [[antireflux-surgery]], which is their single home in the wiki; do not create separate pages without moving that content rather than copying it.
+- [[antireflux-surgery|TIF]] and [[antireflux-surgery|magnetic sphincter augmentation (MSA/LINX)]] — procedure-specific expected appearance; both are covered on [[antireflux-surgery]].
 - [[hiatal-hernia]] — the "hiatal aperture should no longer be visible in retroflexion" criterion.
 
 ## Contradictions / Open Questions
 
-- **This paper does NOT define the AFS hiatus grades I–IV.** It repeatedly *builds on* them, citing a separate **"AFS hiatus grade white paper"** (reference 13), and uses grades in its figure legends — but the grade criteria themselves are not printed here. **The standing corpus block on AFS grading (and on Hill grades I–IV) is therefore NOT closed by this ingest.** The AFS hiatus-grade white paper would need to be ingested separately. Do not infer the grade definitions from the sample notation in the figure legends.
+- **This paper does NOT define the AFS hiatus grades I–IV.** It repeatedly *builds on* them, citing a separate **"AFS hiatus grade white paper"** (reference 13), and uses grades in its figure legends — but the grade criteria themselves are not printed here; see the AFS hiatus-grade white paper for the definitions.
 - **No outcome data.** The Collaborative explicitly states it has established nomenclature, not validated it: it "recognized the need to further understand the degree to which the endoscopic characteristics of the EGJ after anti-reflux surgery correlate with the effective control of pathologic reflux." No accuracy, reproducibility, or predictive-value figures are reported. The proposal is that the endoscopic-orientation scheme "be evaluated."
 - **Descriptions are of the "classic" and typical *immediate* post-operative appearance.** The paper says so directly. Appearance may differ with time (the cTIF lip approximation is attributed in part to **edema**), and variations warranting additional description are acknowledged.
 - **Hill and Collis esophageal-lengthening procedures were explicitly not examined** — the schema does not cover them.
 - **Groove depth is a three-level subjective scale** (shallow / moderate / deep) with no stated anchors, measurement, or interobserver data. The paper's own critique of the Jobe 2004 schema — unblinded evaluators, selected ideal cases — has not been answered for this schema either.
-- **Definition of pathologic reflux used here:** abnormal esophageal acid exposure on pH-metry **or** Los Angeles grade B, C, or D esophagitis on endoscopy. (The LA grade criteria themselves remain corpus-blocked — see [[reflux-testing]].)
-- **Figures are not captured.** Figures 1–9 (including **Figure 9, the assessment algorithm**, and the endoscopic photographs of each valve type) are the visual core of this paper and are not in the wiki — figure-capture tooling is permission-blocked in this environment. The per-procedure table above is a text substitute; the endoscopic example images are what would let a reader actually recognise each valve.
+- **Definition of pathologic reflux used here:** abnormal esophageal acid exposure on pH-metry **or** Los Angeles grade B, C, or D esophagitis on endoscopy. (The LA grade criteria are not defined in this paper — see [[reflux-testing]].)
+- **Figures 1–9** (including **Figure 9, the assessment algorithm**, and the endoscopic photographs of each valve type) are the visual core of this paper and are not reproduced here. The per-procedure table above is a text substitute; consult the original figures to recognise each valve endoscopically.
 
 ## See Also
 

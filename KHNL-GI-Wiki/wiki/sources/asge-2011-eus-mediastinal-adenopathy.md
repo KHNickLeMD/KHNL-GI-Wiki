@@ -41,4 +41,4 @@ ASGE guideline on EUS-guided FNA for evaluating mediastinal lymphadenopathy, chi
 
 ## Contradictions / Open Questions
 
-- Older guideline; nodal-station accessibility and the EUS/EBUS complementarity principle remain standard. No conflict with newer EUS quality/pancreatic-mass documents already ingested (different scope).
+- Older guideline; nodal-station accessibility and the EUS/EBUS complementarity principle remain standard. No conflict with the newer EUS quality/pancreatic-mass guidelines (different scope).

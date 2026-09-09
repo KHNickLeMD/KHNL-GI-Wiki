@@ -116,7 +116,7 @@ The guideline covers: diagnostic evaluation by injury pattern (R-value), causali
 ## Relevance to Wiki
 
 - Creates [[drug-induced-liver-injury]] disease script
-- Cross-references: [[acute-liver-failure]] (NAC, transplant evaluation), [[autoimmune-hepatitis]] (AIH vs DILI distinction), [[immune-checkpoint-inhibitor-hepatitis]] stub
+- Cross-references: [[acute-liver-failure]] (NAC, transplant evaluation), [[autoimmune-hepatitis]] (AIH vs DILI distinction), [[immune-checkpoint-inhibitor-hepatitis]]
 - Informs HDS discussion in clinical context
 - Common culprits in GI practice: azathioprine, methotrexate, anti-TNF agents, 6-MP, thiopurines — cross-reference IBD medication pages
 

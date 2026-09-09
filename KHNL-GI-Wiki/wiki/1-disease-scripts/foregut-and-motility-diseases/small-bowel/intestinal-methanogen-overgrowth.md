@@ -27,7 +27,7 @@ Excess methane-producing organisms in the intestinal tract, distinguished from c
 
 - **Positive methane breath test:** CH₄ **≥10 ppm at any point during the test** on a glucose or lactulose breath test (North American Consensus threshold) **plus** symptoms — a positive test alone is not the diagnosis.
   - **Note the difference from hydrogen:** methane is an **absolute concentration** at any point; hydrogen requires a **rise ≥20 ppm above baseline within 90 minutes**. Do not apply the "rise above baseline" logic to methane.
-  - **Open question flagged by ACG:** "some experts recommend a **rise** of 10 ppm in methane levels, and this requires confirmation" — the absolute ≥10 ppm North American Consensus threshold is what the guideline uses, but it is not settled.
+  - **Open question raised by ACG:** "some experts recommend a **rise** of 10 ppm in methane levels, and this requires confirmation" — the absolute ≥10 ppm North American Consensus threshold is what the guideline uses, but it is not settled.
 - Excess methane on breath testing does **not** indicate SIBO (Key Concept 7) — methanogens are archaea, not bacteria, so the two overgrowths are reported and treated separately.
 
 ### Severity Assessment
@@ -63,7 +63,7 @@ Two studies of antibiotic therapy, both defining positivity as methane **≥3 pp
 
 - Separate placebo-controlled trial of 84 [[irritable-bowel-syndrome|IBS]] patients with IMO: neomycin 500 mg b.i.d. × 10 days reduced methane below 3 ppm in **20%** vs **1%** with placebo.
 - **Caveat on the thresholds:** both neomycin studies used **≥3 ppm** for positivity, *not* the **≥10 ppm** now recommended and used for diagnosis above — efficacy figures are therefore not directly transferable to patients diagnosed by the current cutoff.
-- The IMO [[rifaximin]] dose (**400 mg t.i.d.**) differs from the SIBO dose — see [[small-intestinal-bacterial-overgrowth]]. This page is the wiki's home for the IMO regimens; the SIBO page links here.
+- The IMO [[rifaximin]] dose (**400 mg t.i.d.**) differs from the SIBO dose — see [[small-intestinal-bacterial-overgrowth]]. This page is the home for the IMO regimens; the SIBO page links here.
 - **How strong is the combination evidence?** [[aga-2020-sibo]] corroborates the direction but grades it lower: "**One uncontrolled trial** suggested that the combination of neomycin and rifaximin might be effective." It gives no doses and makes no IMO recommendation — so the doses above remain [[acg-2020-sibo]]'s, resting on a retrospective chart review.
 - Rationale for treating at all: **targeting methanogens may reduce methane production and improve constipation** (Key Concept 10).
 

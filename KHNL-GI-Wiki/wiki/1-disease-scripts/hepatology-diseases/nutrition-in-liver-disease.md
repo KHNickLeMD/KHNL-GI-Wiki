@@ -49,8 +49,8 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 3. Whether fluid overload interferes with the ability to eat
 
 - **High risk** → worse outcomes: reduced survival, worsened liver function, reduced quality of life. **Improvement in the RFH-NPT is associated with improved survival** — so it is a repeatable measure, not a one-off.
-- ⚠ *Decision gap (corpus-blocked): [[aasld-2021-malnutrition-cirrhosis]] names the three domains and the three risk bands but **does not print the scoring algorithm** that maps answers to low/moderate/high. Use the published RFH-NPT instrument itself (Borhofen 2016 / Amodio) — not ingested — to score it.*
-- Also flagged as a screen: the two-item **Hunger Vital Sign** for food insecurity (abnormal if either item is true).
+- [[aasld-2021-malnutrition-cirrhosis]] names the three domains and the three risk bands but does not print the scoring algorithm that maps answers to low/moderate/high; score it with the published RFH-NPT instrument (Borhofen 2016 / Amodio).
+- Also recommended as a screen: the two-item **Hunger Vital Sign** for food insecurity (abnormal if either item is true).
 
 ### Diagnostic Methods
 
@@ -63,10 +63,10 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 | 6-minute walk test, sit-to-stand test | Contractile function; predicts outcomes |
 | Bioelectrical impedance | Improving; validates well against gold-standard body potassium |
 | CT at L3 level | **Most consistent and reproducible** method to quantify muscle mass in cirrhosis; skeletal muscle index (SMI) cut-points below. **Do not order CT solely for muscle mass** (radiation) — quantify when an abdominal CT is obtained for clinical care, or when contractile-function testing is impractical (acutely ill, very young). MRI theoretically equivalent but **not validated** in cirrhosis. No bedside tool has sufficient data to substitute. [[aasld-2021-malnutrition-cirrhosis]] |
-| Subjective global assessment (SGA) | Requires training; "truly subjective" per [[acg-2025-liver-nutrition]]. ⚠ **Criteria corpus-blocked — see note below** |
+| Subjective global assessment (SGA) | Requires training; "truly subjective" per [[acg-2025-liver-nutrition]]. Classes not defined here — see note below |
 | Serum albumin/prealbumin | Unreliable as nutritional markers (synthesized by liver) |
 
-> ⚠ **Decision gap — SGA is named across the wiki but defined nowhere.** [[acg-2025-liver-nutrition]] and [[aasld-2021-malnutrition-cirrhosis]] both use SGA without printing its **A / B / C classes or its history-and-physical domains**, so an "SGA-C" result cannot be produced from any ingested source. This breaks a live decision chain: [[hepatic-cysts]] conditions **MELD-exception eligibility** on an SGA-C score (alongside **GLIM**, **ASPEN**, and **NFPE** criteria, none of which appear in any ingested source either) and links here for the definition. Ingest the primary SGA (Detsky) instrument and the GLIM/ASPEN consensus criteria to close it — **do not reconstruct the classes from memory.**
+> **SGA classes are not defined on this page.** [[acg-2025-liver-nutrition]] and [[aasld-2021-malnutrition-cirrhosis]] both use SGA without printing its **A / B / C classes or its history-and-physical domains**. [[hepatic-cysts]] conditions **MELD-exception eligibility** on an SGA-C score (alongside **GLIM**, **ASPEN**, and **NFPE** criteria, likewise not defined here); use the primary SGA instrument (Detsky) and the GLIM/ASPEN consensus criteria to assign the class.
 >
 > **NRS-2002** is not used by either liver-specific source; its full scoring table lives on [[nutrition-in-hospitalized-patients]] ([[acg-2016-nutrition-hospitalized]] Table 5) — link there rather than restating it.
 

@@ -95,7 +95,7 @@ HRM has **higher sensitivity** than [[upper-endoscopy|endoscopy]] or barium radi
 - The CM row is interpreted with caution by ACG itself: it used CM, and endoscopy — its reference standard — has poor sensitivity for hiatal hernia despite high specificity.
 - Retrospective series of 83 laparoscopic-fundoplication patients: preoperative HRM **false-positive 5% vs endoscopy 32%** (P=0.01); false-negative rates similar (48% vs 45%, NS).
 - **Body position affects detection** — higher detection rate upright or standing than supine.
-- ⚠ **Decision gap — no numeric manometric cut-off.** Neither [[acg-2020-esophageal-physiologic-testing|ACG 2020]] nor [[chicago-classification-v4|CC v4.0]] defines a numeric LES–CD separation threshold for calling a hiatal hernia; CC v4.0 states the separation only as a measured distance feeding the **EGJ morphology subtypes** (see [[chicago-classification-v4]]). Do not quote a "> 2 cm" cut-off — the >2 cm in ACG's text is the *surgical* hernia size in one cited cohort, not a manometric criterion.
+- ⚠ **No numeric manometric cut-off.** Neither [[acg-2020-esophageal-physiologic-testing|ACG 2020]] nor [[chicago-classification-v4|CC v4.0]] defines a numeric LES–CD separation threshold for calling a hiatal hernia; CC v4.0 states the separation only as a measured distance feeding the **EGJ morphology subtypes** (see [[chicago-classification-v4]]). Do not quote a "> 2 cm" cut-off — the >2 cm in ACG's text is the *surgical* hernia size in one cited cohort, not a manometric criterion.
 
 ---
 

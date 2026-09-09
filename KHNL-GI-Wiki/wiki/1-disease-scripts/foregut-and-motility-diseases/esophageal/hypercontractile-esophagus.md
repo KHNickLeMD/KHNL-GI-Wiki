@@ -80,7 +80,7 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classi
 - [[poem|POEM]] considered for refractory dysphagia-predominant disease ([[acg-2020-achalasia]] frames longer myotomy for spastic disease)
 - **AGA 2024 CPU caveat:** for **nonachalasia** spastic disorders, POEM evidence is limited — reserve for **case-by-case** use after less invasive options (medical therapy, botulinum toxin, endoscopic dilation) are exhausted, with symptoms correlated to manometry ([[aga-2024-poem-advances|AGA 2024]] BPA 3)
 
-*Medical management specific to hypercontractile esophagus (smooth-muscle relaxants, neuromodulators) is not covered by an ingested source — awaiting a dedicated source.*
+*Medical management specific to hypercontractile esophagus (smooth-muscle relaxants, neuromodulators) is not covered by the cited guidelines.*
 
 ---
 

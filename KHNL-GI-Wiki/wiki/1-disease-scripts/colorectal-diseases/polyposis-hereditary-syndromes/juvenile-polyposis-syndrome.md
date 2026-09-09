@@ -97,7 +97,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 **[[colonoscopy|Colonoscopy]]** — begin **age 12–15** (earlier if symptomatic, especially rectal bleeding), **every 1–3 years** depending on polyp burden *(ACG 2015 Table 10, conditional/very low; same in [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] R10 — weak, low)*:
 
 - Remove **all** polyps when feasible, or **at minimum all polyps ≥5 mm**
-- Comparators reported in USMSTF 2022 Table 4 (neither primary document ingested): **NCCN 2020** starts later and stretches the interval — **age 15, q2–3 y**; **ESPGHAN 2019** agrees on **12–15** and gives no interval
+- Comparators as reported in USMSTF 2022 Table 4: **NCCN 2020** starts later and stretches the interval — **age 15, q2–3 y**; **ESPGHAN 2019** agrees on **12–15** and gives no interval
 - Colonic polyps: 70% in proximal colon in one study
 
 **[[upper-endoscopy|EGD]]** — same schedule *(R10)*: begin **age 12–15** (earlier if symptomatic), **every 1–3 years**, removing **polyps ≥5 mm**. Stomach surveillance is an explicit recommendation in both guidelines *(R9)*. Genotype modifies who gets scoped in childhood [[aga-2022-hamartomatous-polyposis]]:

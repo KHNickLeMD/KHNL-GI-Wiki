@@ -9,7 +9,7 @@ sources: [asccp-2024-anal-cancer-screening]
 
 Screening defined high-risk populations for **anal high-grade squamous intraepithelial lesion (HSIL)** — the treatable precursor — rather than for anal cancer itself. Directly parallel to cervical cancer prevention: both cancers are HPV-mediated, and both screening programs triage to a magnified examination of the epithelium. Framework here is [[asccp-2024-anal-cancer-screening|ASCCP 2024]], which endorses and reconciles the IANS 2024 consensus and the 2024 NIH/CDC/IDSA guidelines for people with HIV.
 
-⚠ **Second-hand criteria.** The IANS consensus itself is not ingested (the raw file is a failed download). Everything below reaches the wiki through the ASCCP advisory's account of it. See [[asccp-2024-anal-cancer-screening]] → *Contradictions / Open Questions*.
+⚠ **Second-hand criteria.** The IANS 2024 consensus is cited here only as summarized by the ASCCP advisory. See [[asccp-2024-anal-cancer-screening]] → *Contradictions / Open Questions*.
 
 ## Contents
 - [[#Why Screen]]
@@ -103,9 +103,9 @@ ASCCP adds no new criteria; its own recommendation is the implementable floor:
 ## Open Questions
 
 - **Primary hrHPV in people with HIV — the two 2024 guidelines disagree.** IANS accepts primary hrHPV testing as a standalone strategy; the NIH/CDC/IDSA panel explicitly did not recommend it in persons with HIV. Same year, same tier — neither supersedes the other. [[asccp-2024-anal-cancer-screening|ASCCP]] reports both without adjudicating.
-- **Management after HRA is not covered** by the ingested source — what is done with biopsy-proven anal HSIL (ablation, topical therapy, surveillance interval) is absent. The IANS consensus would be needed.
+- **Management after HRA is not covered** by the ASCCP advisory — what is done with biopsy-proven anal HSIL (ablation, topical therapy, surveillance interval) is in the IANS consensus itself.
 - **No evidence grades.** The ASCCP advisory is a narrative endorsement and carries no GRADE labels for its statements.
-- **Screening intervals for Category A are not specified** in the ingested source beyond the repeat-testing windows attached to specific test results.
+- **Screening intervals for Category A are not specified** by the ASCCP advisory beyond the repeat-testing windows attached to specific test results.
 
 ## See Also
 

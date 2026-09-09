@@ -26,7 +26,7 @@ sources: []
 
 ## Summary
 
-The wiki's first tier-1 source on **young adult–onset colorectal cancer** as a distinct management problem. Its six Best Practice Advice statements answer a narrow set of questions: when to scope a young patient, who gets germline testing, when fertility is discussed, and — critically — **what surveillance a young CRC survivor actually needs**.
+The first tier-1 source here on **young adult–onset colorectal cancer** as a distinct management problem. Its six Best Practice Advice statements answer a narrow set of questions: when to scope a young patient, who gets germline testing, when fertility is discussed, and — critically — **what surveillance a young CRC survivor actually needs**.
 
 The single most decision-relevant statement is **BPA 1**, and it is a diagnostic rule, not a screening rule: *diagnostic* evaluation of the colon and rectum is encouraged for **all patients irrespective of age** who present with symptoms that may be consistent with CRC — rectal bleeding, weight loss, change in bowel habit, abdominal pain, iron deficiency anemia. The update states the principle plainly: the signs and symptoms that would prompt a diagnostic colon exam in a person over 50 should prompt a diagnostic colonoscopy in the person under 50. This exists because diagnosis in young patients is delayed **an average of 6 months**, and because **70% of sporadic young adult–onset CRC patients have no family history**, so they are not eligible for high-risk screening and will present symptomatically.
 
@@ -54,11 +54,9 @@ The treatment section is largely a set of things *not* to do. There are **no con
 
 > **BEST PRACTICE ADVICE 6:** Clinicians should offer hereditary CRC syndrome specific screening for CRC and extra-colonic cancers only to young adult–onset CRC patients who have a genetically or clinically diagnosed hereditary CRC syndrome. For patients with sporadic young adult–onset CRC, extra-colonic screening and CRC surveillance intervals are the same as for patients with older adult–onset CRC.
 
-### Figure 1 — management algorithm, NOT captured (open gap)
+### Figure 1 — management algorithm
 
-The CPU carries one decision figure — **Figure 1, *"Management of young adult–onset colorectal cancer patients"*** (page 2419). It is a raster image with **no extractable text layer**, and the figure-capture tooling required by the Style Guide is unavailable in this environment: **PyMuPDF is not installed and `pdftoppm` / `pdftohtml` are permission-blocked**, so the figure could not be rendered or cropped to `raw/assets/`.
-
-⚠ **Consequence:** the management pathway on [[early-onset-colorectal-cancer]] is **reconstructed from the text of BPA 1–6**, not from Figure 1. Any branch, ordering or threshold that appears only inside the figure is therefore **missing from the wiki**. This is the one substantive fidelity gap in this ingest — re-run the figure capture once PyMuPDF or page rendering is permitted, and reconcile the Mermaid pathway against it.
+The CPU carries one decision figure — **Figure 1, *"Management of young adult–onset colorectal cancer patients"*** (page 2419) — which is not reproduced here. The management pathway on [[early-onset-colorectal-cancer]] is built from the text of BPA 1–6; consult Figure 1 in the original for any branch or ordering that appears only in the figure.
 
 ### Epidemiology — the numbers that justify BPA 1
 
@@ -139,9 +137,7 @@ The CPU carries one decision figure — **Figure 1, *"Management of young adult�
 | **[[serrated-polyposis-syndrome\|Serrated polyposis]] — unknown** | — | Colorectal **16–42** | Colonoscopy q**1–3 y** | Consider **colectomy** for CRC or when polyp burden too great for endoscopic control |
 | **PTEN hamartoma tumor syndrome — *PTEN*** | AD | Colorectal 16–20; breast **30–50 (female)**; thyroid 5–10; endometrial 5–20; lung 12; renal 2–8 | Colonoscopy q1–3 y; age **18 y**: annual breast self-exam; age **25 y**: clinical exam q6 mo; age **30 y**: annual mammogram + breast MRI; age 18 y: baseline then annual (thyroid); annual endometrial biopsy (premenopausal) / ultrasound (postmenopausal); annual urinalysis; annual urine cytology + renal ultrasound if family history of renal cancer | Consider **bilateral mastectomy**; **total thyroidectomy** for benign lesions and cancer; consider **prophylactic hysterectomy** once childbearing complete |
 
-ᵃ ⚠ **Two Table 1 cells could not be read reliably from this PDF's text layer and are flagged rather than guessed:** the *MSH6* **stomach** risk prints as a bare `3` where the surrounding cells all carry a qualifier or range, and (ᵇ) the Peutz–Jeghers **colonoscopy interval** extracts as `every 2–_ y` with the character after the en-dash lost. Verify both against the published Table 1 before acting on them. Every other value above extracted cleanly.
-
-**The glyph-drop is confirmed, not assumed** (checked 2026-09-08): `pdftotext` returns **zero** `≥`/`≤` characters across the whole article, while `<` survives everywhere (`<50`, `<30`, `<1`, `<100 polyps`) — including in the *MSH6* row's own next line (`Urinary Tract <1`). Meanwhile the body text yields bare ages in positions that grammatically require an operator (`"most likely to be present in CRC patients 30 years of age"`, `"CRC patients 40 years of age are more likely to have subtypes CMS1"`). So this PDF **does** contain `≥`/`≤` glyphs that extraction silently deletes. **No second extractor was available to recover them** — PyMuPDF is not installed, and `pdftoppm`/`pdftohtml`/`pip install` are permission-blocked. The flagged cells stay flagged.
+ᵃ ᵇ **Two Table 1 cells are uncertain:** the *MSH6* **stomach** risk (ᵃ) may carry a qualifier or range that is not shown, and the Peutz–Jeghers **colonoscopy interval** (ᵇ) has an unreadable upper bound. Verify both against the published Table 1 before acting on them.
 
 ### Treatment (BPA 5) — mostly what *not* to escalate
 
@@ -174,12 +170,12 @@ The CPU carries one decision figure — **Figure 1, *"Management of young adult�
 
 ## Contradictions / Open Questions
 
-- ⚠ **Screening age — this source is superseded.** The CPU presents the 45-vs-50 debate as open (ACS 45 vs USPSTF 50) and takes no position. **[[usmstf-2021-crc-screening-age]] and [[acg-2021-crc-screening]] are newer tier-1 sources and settle it at 45.** Per source priority (within tier 1, newer publication date wins), the wiki asserts 45; this CPU is cited only for what it uniquely adds — the *diagnostic* rule for symptomatic young adults, which is independent of the screening age.
+- ⚠ **Screening age — this source is superseded.** The CPU presents the 45-vs-50 debate as open (ACS 45 vs USPSTF 50) and takes no position. **[[usmstf-2021-crc-screening-age]] and [[acg-2021-crc-screening]] are newer tier-1 sources and settle it at 45.** This page follows 45 (newer); this CPU is cited only for what it uniquely adds — the *diagnostic* rule for symptomatic young adults, which is independent of the screening age.
 - **The CPU's own doubt about screening is worth preserving:** opponents of lowering the age argued that *"the basic biology of young adult–onset CRC may differ and thus not be amenable to the current screening modalities."* That question is not resolved by moving the age to 45.
 - **Universal vs targeted germline testing is presented as a genuine trade-off, not a settled answer** — broader panels find more actionable mutations *and* more VUS. BPA 2 permits either route.
-- **No consensus guidelines exist for sporadic young-onset CRC treatment**, and the source says so directly. Any wiki text implying a young-onset-specific chemotherapy or surgical protocol would be unsupported.
+- **No consensus guidelines exist for sporadic young-onset CRC treatment**, and the source says so directly. No young-onset-specific chemotherapy or surgical protocol exists.
 - **Race/ethnicity data are reported as observed disparities** in the source's own categories, without an explanation of mechanism. Reproduce them as such.
-- **Table 1's surveillance intervals may not match the wiki's syndrome pages**, which are built on ACG/NCCN/USMSTF sources. Where a syndrome page already carries an interval from a **newer** tier-1 source, that page's interval wins and this table is corroborating detail only.
+- **Table 1's surveillance intervals may not match the individual syndrome pages**, which are built on ACG/NCCN/USMSTF sources. Where a syndrome page carries an interval from a **newer** tier-1 source, that page's interval governs and this table is corroborating detail only.
 
 ---
 

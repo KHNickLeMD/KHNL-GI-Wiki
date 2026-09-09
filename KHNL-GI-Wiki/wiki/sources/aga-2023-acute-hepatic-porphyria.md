@@ -59,7 +59,7 @@ The 12 BPA statements carry **no formal ratings** of evidence quality or strengt
 ## Relevance to Wiki
 
 - Creates the disease script [[acute-hepatic-porphyria]] (hepatology-diseases) — the primary page this source builds.
-- Introduces med stubs [[givosiran]] (ALAS1 siRNA) and [[hemin]] (heme therapy) referenced by the disease page.
+- Introduces the med pages [[givosiran]] (ALAS1 siRNA) and [[hemin]] (heme therapy) referenced by the disease page.
 - Connects to [[hepatocellular-carcinoma]] (HCC surveillance from age 50 with 6-monthly ultrasound) and [[liver-transplantation]] (curative, refractory disease).
 
 ## Contradictions / Open Questions

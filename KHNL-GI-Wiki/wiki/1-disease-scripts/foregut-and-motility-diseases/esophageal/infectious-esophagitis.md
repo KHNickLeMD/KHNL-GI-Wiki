@@ -90,7 +90,7 @@ The source's Table 1 links the pertinent history to what to look for — the pra
 | **HSV** | **Acyclovir, valacyclovir, or famciclovir** — up to **10 days (immunocompetent)** or **21 days (immunosuppressed)**. Dose not stated by the source. |
 | **CMV** | **Ganciclovir (or valganciclovir)** — up to **6 weeks** may be needed. Dose not stated by the source. |
 
-> **Decision gap (corpus-blocked — do not fill from memory):** [[aga-2024-esophageal-immunity-infection]] names the drugs and, for the viruses, the treatment *durations*, but gives **no doses for any of the three organisms** and **no duration for fluconazole**. A previous version of this page carried "fluconazole 200–400 mg/day × 14–21 days"; that dose is **not in any ingested source** and has been removed. Closing this needs a dedicated infectious-disease source (e.g. an IDSA candidiasis guideline), which is not in `raw/`.
+> [[aga-2024-esophageal-immunity-infection]] names the drugs and, for the viruses, the treatment *durations*, but gives **no doses for any of the three organisms** and **no duration for fluconazole**; take dosing from an infectious-disease source (e.g. the IDSA candidiasis guideline).
 
 - Refractory symptoms after appropriate therapy → reassess for resistant/refractory infection or a coexisting immune-mediated esophageal disorder. (BPA 3)
 

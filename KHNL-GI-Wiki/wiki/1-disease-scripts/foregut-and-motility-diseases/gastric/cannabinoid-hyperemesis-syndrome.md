@@ -9,7 +9,7 @@ sources: [aga-2024-chs, aga-2024-cvs, rome-v-2026-dgbi]
 
 Chronic [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction]] of cyclic vomiting, nausea, and abdominal pain arising from chronic (years), heavy (daily/near-daily) cannabis use; predominantly male. Rising and underrecognized ([[aga-2024-chs]]). Included in the Rome classification of DGBI since Rome IV (2016).
 
-**Where it sits in the classification — the two ingested sources differ, and the difference is not trivial:**
+**Where it sits in the classification — the two sources differ, and the difference is not trivial:**
 
 | Source | Placement |
 |---|---|
@@ -39,7 +39,7 @@ Suspect in any patient with **chronic nausea/vomiting + cannabis use**. Diagnosi
 2. **Cannabis use pattern:** duration **>1 year** before symptom onset; frequency **>4 times per week** on average.
 3. **Cannabis cessation:** resolution of symptoms after abstinence for **≥6 months**, or ≥ the total duration of 3 typical vomiting cycles in that patient.
 
-> **Gap — Rome V's numbers are not in the corpus.** [[rome-v-2026-dgbi]] states that for CVS and CHS "timing of symptoms and intervals was specified based on more recent cohort studies," but the ingested Rome V file is the introduction/process article only and **does not print the B2c criteria**. The Venkatesan criteria above (carried by [[aga-2024-chs]]) are what the wiki can source. The Rome V gastroduodenal chapter would be needed to know whether the thresholds changed.
+> [[rome-v-2026-dgbi]] states that for CVS and CHS "timing of symptoms and intervals was specified based on more recent cohort studies," but its introduction/process article **does not print the B2c criteria**; the criteria above are the Venkatesan criteria carried by [[aga-2024-chs]]. Whether Rome V changed the thresholds is stated only in the Rome V gastroduodenal chapter.
 
 - **Compulsive hot-water bathing** (long hot baths/showers) relieves symptoms — supportive but **not pathognomonic** (also seen in CVS); reported in ~71% of CHS cases.
 - No confirmatory test.
@@ -47,7 +47,7 @@ Suspect in any patient with **chronic nausea/vomiting + cannabis use**. Diagnosi
 
 ### Severity Assessment
 
-- **No severity score or stratum for CHS exists in any ingested source** — unlike [[cyclic-vomiting-syndrome|CVS]], which has ANMS-CVSA mild vs moderate–severe criteria gating prophylaxis. No CHS threshold is asserted here because none is sourced.
+- **Neither guideline gives a severity score or stratum for CHS** — unlike [[cyclic-vomiting-syndrome|CVS]], which has ANMS-CVSA mild vs moderate–severe criteria gating prophylaxis.
 - The framework the CPU does offer is **phasic, not graded**: the four CVS phases (inter-episodic → prodromal → emetic → recovery) are applied to CHS to time therapy — abortive treatment in the prodrome, supportive care in the emetic phase. The phases and their management live on **[[cyclic-vomiting-syndrome#Phases|cyclic vomiting syndrome]]**.
 
 ### Epidemiology and Use Pattern

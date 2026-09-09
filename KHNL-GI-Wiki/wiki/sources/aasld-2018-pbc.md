@@ -185,7 +185,7 @@ The guidance emphasizes that UDCA does not improve fatigue or pruritus; those re
 
 ## Relevance to Wiki
 
-- Directly expands [[primary-biliary-cholangitis]] disease script from stub to full ADDT page
+- Directly expands the [[primary-biliary-cholangitis]] disease script
 - Adds biochemical response criteria table (Paris I/II, Rotterdam, Toronto, Barcelona, Rochester)
 - Provides OCA dosing protocol and contraindications
 - Adds fibrates as off-label second-line option

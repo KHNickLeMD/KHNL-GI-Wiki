@@ -63,7 +63,7 @@ Severe hematochezia with hemodynamic instability may reflect a **brisk UGIB sour
 - **BUN alone >21 mg/dL** — specificity **93.0%** for an upper source (strongest single variable in that study)
 - Melena on rectal exam (argues against colonic source)
 - **Blood clots in stool argue *against* UGIB** — their **presence** carries LR **0.05** (95% CI 0.01–0.38) for an upper source
-- Nasogastric aspirate is unreliable — **sensitivity only 28%** for an upper source, so a negative aspirate does not exclude UGIB; **routine NG tube placement is NOT recommended** ([[acg-2023-lgib]]). A systematic review found the NG aspirate and BUN:Cr ratio equally poor (negative LR 0.6). *(The guideline also prints "negative predictive value was <1%" for the same cohort — reproduced here as printed, but read with caution: a <1% NPV would mean almost every negative aspirate had an upper source, the opposite of the sentence it sits in. No ingested source resolves it.)*
+- Nasogastric aspirate is unreliable — **sensitivity only 28%** for an upper source, so a negative aspirate does not exclude UGIB; **routine NG tube placement is NOT recommended** ([[acg-2023-lgib]]). A systematic review found the NG aspirate and BUN:Cr ratio equally poor (negative LR 0.6). *(The guideline also prints "negative predictive value was <1%" for the same cohort — reproduced here as printed, but read with caution: a <1% NPV would mean almost every negative aspirate had an upper source, the opposite of the sentence it sits in.)*
 
 If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-endoscopy|EGD]] before [[colonoscopy]]**.
 

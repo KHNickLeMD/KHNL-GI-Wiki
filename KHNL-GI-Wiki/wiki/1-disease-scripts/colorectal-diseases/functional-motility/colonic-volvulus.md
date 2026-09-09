@@ -40,7 +40,7 @@ Mechanical **twisting (torsion) of a redundant colon segment along its mesenteri
 
 - **Uncomplicated sigmoid volvulus** = none of the three above. "In the absence of these aforementioned adverse events," flexible sigmoidoscopic detorsion ± decompression tube is **first-line** *(ASGE Rec 1)*.
 - **Cecal volvulus does not enter this pathway** — surgery is recommended as the **initial** treatment modality with **avoidance of endoscopic intervention**, given the high risk of perforation *(ASGE Rec 3)*.
-- No ingested source grades volvulus severity beyond this complicated/uncomplicated split — there is **no staging system, no degree-of-torsion cutoff, and no colonic-diameter threshold** for volvulus (unlike the cecal-diameter rule in [[acute-colonic-pseudo-obstruction|ACPO]]). Do not import one.
+- The guidelines do not grade volvulus severity beyond this complicated/uncomplicated split — there is **no staging system, no degree-of-torsion cutoff, and no colonic-diameter threshold** for volvulus (unlike the cecal-diameter rule in [[acute-colonic-pseudo-obstruction|ACPO]]).
 
 ### Classification / Typing
 - **Sigmoid volvulus** — most common; adult men >70 yr, African Americans, diabetes/neuropsychiatric disorders, institutionalized/constipated

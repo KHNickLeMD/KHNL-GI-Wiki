@@ -24,7 +24,7 @@ sources: []
 
 ## Summary
 
-The wiki's first tier-1 source devoted to **malignant alimentary tract obstruction (MATO)** as a subject in its own right, rather than as a complication section inside a cancer page. It covers the three anatomic sites where malignant blockage is common — **distal esophagus/gastric cardia, gastric outlet, and colon** — and issues **14 Best Practice Advice statements**.
+The first tier-1 source devoted to **malignant alimentary tract obstruction (MATO)** as a subject in its own right, rather than as a complication section inside a cancer page. It covers the three anatomic sites where malignant blockage is common — **distal esophagus/gastric cardia, gastric outlet, and colon** — and issues **14 Best Practice Advice statements**.
 
 The organizing principle is stated explicitly in the conclusion: there is *"no longer a 'one-size-fits-all' approach."* Every decision is made in a **multidisciplinary setting** (BPA 1) and turns on three inputs — **resectability**, **life expectancy / functional status**, and **local endoscopic and surgical expertise**.
 
@@ -121,7 +121,7 @@ Two negative statements are worth carrying forward: **laser therapy and photodyn
 - **[[colorectal-cancer]]** — bridge-to-surgery stenting, right-sided stenting, and the palliative SEMS-vs-colostomy trade-off with the ECOG modifier.
 - **[[ercp]]** — 85% technical success for biliary drainage by ERCP after an enteral stent has already been placed across the ampulla.
 - **[[endoscopic-ultrasound]]** — EUS-GE technical/clinical success and the absence of an FDA-approved dedicated device.
-- **[[jeurnink-2010-sustent-goo]]** — the wiki already holds the SUSTENT RCT; this CPU is the tier-1 source that converts it into a usable threshold.
+- **[[jeurnink-2010-sustent-goo]]** — the SUSTENT RCT; this CPU is the tier-1 source that converts it into a usable threshold.
 
 ## Contradictions / Open Questions
 
@@ -130,7 +130,7 @@ Two negative statements are worth carrying forward: **laser therapy and photodyn
 - **Colonic-stent perforation and tumor seeding.** The OR-46 seeding figure after perforation is from one small single-center retrospective study and the CPU explicitly lists its limitations. Report it as a signal, never as an established risk estimate.
 - **Gastric partitioning at the time of GJ** — retrospective data show no significant clinical difference, a meta-analysis shows benefit. Unsettled.
 - **EUS-GE is expertise- and device-limited.** No dedicated FDA-approved device as of 2021; the 90%+ success figures come from expert centers. Any wiki text must carry that qualifier.
-- **Age of the source.** This is a 2021 CPU; if a newer society statement on luminal stenting or EUS-GE is ingested, re-check BPA 10 and BPA 13 against it.
+- **Age of the source.** This is a 2021 CPU; a newer society statement on luminal stenting or EUS-GE would supersede BPA 10 and BPA 13.
 
 ---
 

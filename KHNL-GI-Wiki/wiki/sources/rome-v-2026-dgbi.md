@@ -105,7 +105,7 @@ A key clinical innovation is the introduction of Rome Clinical Criteria — a re
 
 ## Relevance to Wiki
 
-- Establishes the foundational conceptual framework for all DGBI pages in the wiki
+- Establishes the foundational conceptual framework for all DGBI pages
 - Creates need for a new concept page: [[disorders-of-gut-brain-interaction]]
 - Will inform creation of individual disease-script pages for: functional dyspepsia, IBS, chronic constipation, functional diarrhea, CAPS, inability to belch syndrome, abdominal migraine, and all anorectal DGBI
 - The Rome Clinical Criteria framework should be referenced in any DGBI diagnostic-schema page
@@ -114,7 +114,7 @@ A key clinical innovation is the introduction of Rome Clinical Criteria — a re
 ## Contradictions / Open Questions
 
 - IBS frequency criterion change (≥3 days/month vs. ≥1 day/week) substantially alters clinical trial enrollment eligibility; studies using Rome IV IBS criteria may not be directly comparable to Rome V populations — this is an active area of methodological debate
-- Rome V recommends against routine cholescintigraphy for gallbladder dysfunction; conflicts with some ACG/AGA procedural guidance that still references ejection fraction testing — flag when gallbladder disorder pages are created
+- Rome V recommends against routine cholescintigraphy for gallbladder dysfunction; conflicts with some ACG/AGA procedural guidance that still references ejection fraction testing
 - Sphincter manometry dropped from SOD criteria due to poor reproducibility; practical implication for [[ercp|ERCP]] referral pathways needs clarification
 - Abdominal migraine in adults (D2) is a new adult diagnosis; evidence base largely extrapolated from pediatric literature — low-quality evidence, expert consensus
 - Inability to belch syndrome (B3c): diagnosis requires impedance manometry with sparkling water provocation; botulinum toxin injection to upper esophageal sphincter is treatment — limited to specialized centers

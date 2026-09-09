@@ -32,7 +32,7 @@ Clinicopathological syndrome resulting from **loss of intestinal length** due to
   - [[#Complications and Their Prevention]]
   - [[#Intestinal Transplantation]]
   - [[#Education and Support]]
-- [[#Gaps in the Ingested Source]]
+- [[#Not Covered by the Guideline]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -150,7 +150,7 @@ The AGA CPU gives no formal differential for SBS itself; what it distinguishes i
 | Copper | Serum copper | Oral: 2 mg elemental copper daily (higher dose may be needed); IV also available |
 | Manganese (patients on home PN) | Serum manganese | None |
 
-> ⚠ **\* Unit uncertainty — verify before dosing.** These four values are transcribed exactly as the source PDF's text layer renders them, but the micro sign appears to be lost on extraction in this file (the rows read "mg" where a microgram dose would be expected). Check the published Table 1 before using vitamin B12, calcitriol, selenium, or chromium doses. No unit has been substituted from outside the source.
+> ⚠ **\* Unit uncertainty — verify before dosing.** These four rows read "mg" where a microgram dose would be expected. Check the published Table 1 of [[aga-2022-short-bowel-syndrome]] before using vitamin B12, calcitriol, selenium, or chromium doses.
 
 ### Metabolic Bone Disease
 
@@ -320,9 +320,9 @@ Surgery may be of value in **3 contexts**: (1) **recruit unused distal bowel**; 
 - SBS is rare enough that nonspecialists often care for these patients without a dedicated team — the **LIFT-ECHO (Learn Intestinal Failure Tele-ECHO) project** provides case-based virtual multidisciplinary education for nonspecialist clinicians, with archived didactic lectures (liftecho.org/web).
 - **Multidisciplinary care is essential:** dietitians, nurses, surgeons, gastroenterologists or internists, and social workers experienced in IF.
 
-## Gaps in the Ingested Source
+## Not Covered by the Guideline
 
-Flagged rather than filled — not present in [[aga-2022-short-bowel-syndrome]], and not to be supplied from outside knowledge:
+[[aga-2022-short-bowel-syndrome]] does not give:
 
 - **No teduglutide dose** (mg or mg/kg), treatment duration, or monitoring schedule — only "daily subcutaneous injection."
 - **No validated severity score or staging system** for SBS.
@@ -332,7 +332,7 @@ Flagged rather than filled — not present in [[aga-2022-short-bowel-syndrome]],
 - **No PN macronutrient prescription targets** (kcal/kg, protein g/kg) — composition is described only qualitatively.
 - **The two residual-length definitions (200 cm vs 150 cm) are not adjudicated.**
 - **Pediatric SBS is out of scope.**
-- **Figures not captured** in this environment: Figure 1 (anatomic classification of SBS), Figures 2–3 (LILT and STEP principles — described in text above), Supplementary Figure 1 (algorithm for management of the SBS patient requiring parenteral support).
+- **Figures not reproduced here:** Figure 1 (anatomic classification of SBS), Figures 2–3 (LILT and STEP principles — described in text above), Supplementary Figure 1 (algorithm for management of the SBS patient requiring parenteral support).
 - **Micronutrient units** — see the unit-uncertainty note under [[#Micronutrient Monitoring and Supplementation]].
 
 ## See Also

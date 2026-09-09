@@ -370,7 +370,7 @@ Best cutoffs for ATN vs other AKI: **365 ng/mL (ELISA)** and **220 µg/g creatin
 - **Long-term albumin infusion** — ANSWER (38% mortality reduction) vs MACHT (no difference) are discrepant; no recommendation for routine use.
 - **Early TIPS in recurrent (not yet refractory) ascites** — 1-year transplant-free survival 93% vs 53% for repeat LVP in one study, but must be replicated in an RCT before it can be recommended.
 - **Vaptans in ascites** (as opposed to hyponatremia), **MDRO diagnostics**, **renal biomarkers**, **liver allocation after vasoconstrictor response**, and **pediatric evidence** are all listed by the panel as open areas (Table 14).
-- **Figures not yet captured on this page.** Figure 2 (diagnostic approach to new-onset ascites), Figure 3 (refractory-ascites treatment algorithm), and Figure 4 (AKI diagnosis/management algorithm) are vector/raster figures in the PDF. Their decision content is transcribed above, but the images themselves are not embedded — figure extraction tooling (PyMuPDF) is not installed in this environment.
+- **Figures not reproduced on this page.** The decision content of Figure 2 (diagnostic approach to new-onset ascites), Figure 3 (refractory-ascites treatment algorithm), and Figure 4 (AKI diagnosis/management algorithm) is transcribed above, but the images themselves are not embedded; consult the original for the algorithms as drawn.
 
 ## See Also
 

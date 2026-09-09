@@ -61,7 +61,7 @@ ACG's conclusion is explicit: *"the performance characteristics of this diagnost
 
 The two results are **not symmetric** — this is the decision the page exists for.
 
-- **Positive brushing → act on it.** For biliary strictures the diagnostic problem is **false negatives (low sensitivity); false-positive samples (low specificity) are uncommon** ([[acg-2023-biliary-strictures]]). A positive cytology is treated as malignant. ⚠ **Gap:** neither ingested guideline reports a **numeric specificity or PPV** for biliary brush cytology — ACG states only that false positives are uncommon, and ASGE 2023 reports no specificity at all. Do not quote a number.
+- **Positive brushing → act on it.** For biliary strictures the diagnostic problem is **false negatives (low sensitivity); false-positive samples (low specificity) are uncommon** ([[acg-2023-biliary-strictures]]). A positive cytology is treated as malignant. Neither guideline reports a **numeric specificity or PPV** for biliary brush cytology — ACG states only that false positives are uncommon, and ASGE 2023 reports no specificity at all.
 - **Negative brushing → excludes nothing.** With a **58%** miss rate against a ~55%–87% pre-test probability of malignancy, a negative brushing leaves the stricture **indeterminate** (defined on [[biliary-stricture]] as a stricture undiagnosed *despite* index ERCP with intraductal sampling) and mandates further sampling — added modalities at the index procedure, then [[cholangioscopy]]/EUS, NGS, or [[confocal-laser-endomicroscopy|pCLE]] on repeat ERCP, with multidisciplinary review after two negative sessions.
 
 ## Brush Cytology Alone Is Not Sufficient

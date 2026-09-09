@@ -113,7 +113,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 | **General well-being** | Very well → **0** · Slightly below par → **1** · Poor → **2** · Very poor → **3** · Terrible → **4** |
 | **Extracolonic features** | **1 point per manifestation** |
 
-> **Threshold gap:** [[acg-2025-uc]] reproduces the SCCAI components but attaches **no remission or severity cut-off** to it — the guideline states cut-offs for defining clinical or endoscopic remission "have not been studied prospectively and are thus not amenable to the GRADE process." Do not supply a cut-point from memory; the Walmsley 1998 derivation paper is not ingested.
+> [[acg-2025-uc]] reproduces the SCCAI components but attaches **no remission or severity cut-off** to it — the guideline states cut-offs for defining clinical or endoscopic remission "have not been studied prospectively and are thus not amenable to the GRADE process." The cut-points are in the Walmsley 1998 derivation paper.
 
 **Endoscopic scoring:**
 
@@ -341,7 +341,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
    | **3–8 bowel movements/day** | **Only together with CRP >45 mg/L** — neither stool count nor CRP alone qualifies |
 
    - For contrast, colectomy occurred in **40%** of *partial* responders and **5%** of *complete* responders.
-   - **Other predictors of steroid failure:** **ESR >75 mm/hr**, **temperature >38 °C**, hypoalbuminemia, and colonic dilation (the latter two integrated with stool frequency in the **Ho index** — *its component point values and colectomy cut-point are not printed in an ingested source; flagged, not filled*). Endoscopic predictors are above (UCEIS, deep ulceration).
+   - **Other predictors of steroid failure:** **ESR >75 mm/hr**, **temperature >38 °C**, hypoalbuminemia, and colonic dilation (the latter two integrated with stool frequency in the **Ho index** — *its component point values and colectomy cut-point are not printed in the guideline*). Endoscopic predictors are above (UCEIS, deep ulceration).
 
    - Adequate response: continue IVCS; transition to oral steroid + advanced therapy
    - **Inadequate response → RESCUE: infliximab OR [[calcineurin-inhibitors|cyclosporine]]**

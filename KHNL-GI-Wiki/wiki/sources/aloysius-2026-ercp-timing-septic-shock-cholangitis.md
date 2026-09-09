@@ -18,7 +18,7 @@ sources: []
 - **DOI:** none assigned (abstract)
 - **Type:** Retrospective propensity-score–matched cohort (TriNetX Global Network)
 
-> ⚠ **Evidence tier — conference abstract, retrospective database.** Methods are described only to abstract length; no peer-reviewed manuscript, no lactate or other physiologic markers, residual confounding acknowledged by the authors. Ranks **below** [[asge-2021-cholangitis]] (guideline) and below [[jagtap-2026-urgent-vs-early-ercp-cholangitis]] (RCT) under the wiki's source-priority rule. Treat as hypothesis-generating.
+> ⚠ **Evidence tier — conference abstract, retrospective database.** Methods are described only to abstract length; no peer-reviewed manuscript, no lactate or other physiologic markers, residual confounding acknowledged by the authors. Ranks **below** [[asge-2021-cholangitis]] (guideline) and below [[jagtap-2026-urgent-vs-early-ercp-cholangitis]] (RCT). Treat as hypothesis-generating.
 
 ---
 
@@ -87,9 +87,9 @@ Who these patients were — the <24 h vs 24–48 h cohorts, all comparisons p>0.
 
 ## Relevance to Wiki
 
-- **[[choledocholithiasis]]** → *Acute Cholangitis — Drainage Timing*: adds the **severe/TG III** arm of the timing question, which [[jagtap-2026-urgent-vs-early-ercp-cholangitis]] explicitly excluded. The wiki's current "severe cholangitis → emergent <24 h" line (from [[asge-2021-cholangitis]]) stands as the recommendation, but this abstract is the first timing data in shock and points the other way.
-- **[[ercp]]** → cholangitis indication: same nuance, flagged as abstract-level evidence.
-- Reinforces the flagged gap: the wiki still has **no dedicated acute cholangitis disease script** and no fully ingested **TG18 severity criteria**; timing content lives on [[choledocholithiasis]] and [[ercp]].
+- **[[choledocholithiasis]]** → *Acute Cholangitis — Drainage Timing*: adds the **severe/TG III** arm of the timing question, which [[jagtap-2026-urgent-vs-early-ercp-cholangitis]] explicitly excluded. The "severe cholangitis → emergent <24 h" recommendation (from [[asge-2021-cholangitis]]) stands, but this abstract is the first timing data in shock and points the other way.
+- **[[ercp]]** → cholangitis indication: same nuance, abstract-level evidence.
+- Acute cholangitis timing content lives on [[choledocholithiasis]] and [[ercp]]; the full **TG18 severity criteria** are not reproduced there.
 
 ---
 

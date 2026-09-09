@@ -54,11 +54,11 @@ Not covered by the AGA guideline; per [[acg-2020-sibo]]:
 - ***E coli* Nissle 1917** — studied in [[ulcerative-colitis|UC]] maintenance (≈ mesalamine).
 - ***L rhamnosus* GG (ATCC 53103)** — among the most-studied strains for pediatric gastroenteritis (no benefit in North America) and NEC prevention.
 
-## Decision Gap — No Dose or Duration in the Ingested Corpus
+## Limits of the Source — No Dose or Duration
 
-> **[[aga-2020-probiotics]] states strains only — no CFU, no product quantity, no treatment duration, for any of its eight indications.** This is deliberate, not an omission on this page: the panel wrote that it "was not able to assess the viability of each formulation reported in the studies, as this information was not routinely available… this is not within the scope of this guideline and therefore we provided the granular data regarding each strain as specified in the published reports." Its limitations section names "the lack of product manufacturing details" as a barrier to comparison.
+> **[[aga-2020-probiotics]] states strains only — no CFU, no product quantity, no treatment duration, for any of its eight indications.** This is deliberate: the panel wrote that it "was not able to assess the viability of each formulation reported in the studies, as this information was not routinely available… this is not within the scope of this guideline and therefore we provided the granular data regarding each strain as specified in the published reports." Its limitations section names "the lack of product manufacturing details" as a barrier to comparison.
 >
-> **Consequence for practice:** the recommendations below identify *which organisms*, not *how much* or *for how long* — so a prescriber must take the dose from the specific product's studied regimen. The AGA technical review (Preidis et al, *Gastroenterology* 2020;159:724–754), which holds the trial-level dosing data, is **not in `raw/`** and would be needed to state doses here. Do not fill from memory.
+> **Consequence for practice:** the recommendations below identify *which organisms*, not *how much* or *for how long* — so a prescriber must take the dose from the specific product's studied regimen. The AGA technical review (Preidis et al, *Gastroenterology* 2020;159:724–754) holds the trial-level dosing data.
 
 ## Practical Notes
 

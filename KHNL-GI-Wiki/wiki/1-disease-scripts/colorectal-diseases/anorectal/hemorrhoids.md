@@ -139,7 +139,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 - **Open vs closed:** the surgeon may leave the incision open or close it with suture — the **closed approach carries decreased risk of postoperative bleeding and faster wound healing** *(AGA 2026)*.
 - **Overall complication rate is low — 1%–2%** *(AGA 2026)*: urinary retention, bleeding, infection, fistula formation, and the rare but morbid **pelvic sepsis**. Counsel on bleeding, recurrence, and pelvic sepsis.
 
-> **Corrected 2026-09-02:** this page previously claimed hemorrhoidectomy "healing 94–98%", "urinary retention (10–20%)", and "2–4 weeks recovery." The **94–98% figure is ACG 2021's healing rate for lateral internal sphincterotomy in chronic [[anal-fissure|anal fissure]]** (see that page), not a hemorrhoidectomy outcome; the other two numbers appear in none of the three ingested sources. All three removed and replaced with the sourced AGA 2026 figures above.
+> The **94–98% "healing" figure sometimes quoted for hemorrhoidectomy is ACG 2021's healing rate for lateral internal sphincterotomy in chronic [[anal-fissure|anal fissure]]** (see that page), not a hemorrhoidectomy outcome; the figures above are AGA 2026's.
 
 **Stapled hemorrhoidopexy (PPH):** higher complication and recurrence rates compared to conventional hemorrhoidectomy — generally avoided per ACG 2021.
 

@@ -154,8 +154,8 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 
 ## Relevance to Wiki
 
-- Expands [[lynch-syndrome]] from stub to full ADDT with cumulative risk tables, gene-specific surveillance timing, surgical options, aspirin data
-- Expands [[familial-adenomatous-polyposis]] from stub to full ADDT with Spigelman duodenal staging, MAP/AFAP distinctions, hepatoblastoma screening, postsurgical surveillance
+- Supplies [[lynch-syndrome]] with a full ADDT: cumulative risk tables, gene-specific surveillance timing, surgical options, aspirin data
+- Supplies [[familial-adenomatous-polyposis]] with a full ADDT: Spigelman duodenal staging, MAP/AFAP distinctions, hepatoblastoma screening, postsurgical surveillance
 - Creates [[peutz-jeghers-syndrome]] (new full page)
 - Creates [[juvenile-polyposis-syndrome]] (new page)
 - Creates [[cowden-syndrome]] (new page)

@@ -9,7 +9,7 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 
 BRCA1 and BRCA2 are tumor-suppressor genes critical to homologous-recombination DNA repair. Germline pathogenic variants define **hereditary breast–ovarian cancer syndrome** — which [[acg-2015-hereditary-gi-cancer|ACG 2015]] (Table 12) also lists among the syndromes conferring [[pancreatic-cancer|pancreatic ductal adenocarcinoma]] risk (**BRCA1 ~2-fold, BRCA2 3- to 9-fold** by registry data). In GI, the decision they drive is whether to enter [[pancreatic-cancer-screening|pancreatic surveillance]] — and, per [[asge-2022-pancreatic-cancer-screening|ASGE 2022]], **family history is no longer required**.
 
-⚠ **Scope:** the ingested corpus covers only the **pancreatic** arm. Breast/ovarian (and any other non-GI) surveillance for BRCA carriers is not addressed by any ingested source — do not infer it from this page.
+⚠ **Scope:** this page covers only the **pancreatic** arm. Breast/ovarian (and any other non-GI) surveillance for BRCA carriers is not addressed by the GI guidelines and is not covered here.
 
 ## Contents
 - [[#Magnitude of Pancreatic Cancer Risk]]
@@ -56,7 +56,7 @@ Every parameter needed to start a carrier on surveillance ([[asge-2022-pancreati
 
 | Source | Position |
 |---|---|
-| **[[asge-2022-pancreatic-cancer-screening\|ASGE 2022]]** (newer — **the wiki's position**) | Screen **all** BRCA1/2 carriers **regardless of family history**. Explicitly listed under "What Is New," noting previous guidelines limited screening to those with a family history |
+| **[[asge-2022-pancreatic-cancer-screening\|ASGE 2022]]** (newer — **the position this page follows**) | Screen **all** BRCA1/2 carriers **regardless of family history**. Explicitly listed under "What Is New," noting previous guidelines limited screening to those with a family history |
 | [[acg-2015-hereditary-gi-cancer\|ACG 2015]] (older) | "Because of a lower relative risk … surveillance should be **limited to mutation carriers with a first- or second-degree relative affected with pancreatic cancer**" (conditional, very low quality) |
 
 ASGE's rationale for dropping the requirement: family-history data in the risk studies were limited and mixed; several studies found **no association** between family history and pancreatic cancer risk in BRCA1/2; and in 71 BRCA-associated pancreatic cancers, a first- or second-degree family history was present in only **33%** — so **~2 in 3 cancers would have been missed** by a family-history-gated strategy. Family history records are also incomplete, inaccurate, or uninformative in small families.

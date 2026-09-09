@@ -57,14 +57,14 @@ ICI hepatotoxicity is an **immune-related adverse event (irAE)** of PD-1/PD-L1 i
 | **3** | >5–20× ULN | >3–10× ULN |
 | **4** | >20× ULN | >10× ULN, **or hepatic decompensation** ([[ascites]], [[hepatic-encephalopathy\|encephalopathy]]) |
 
-> ✅ **Gap closed (2026-09-04).** This table previously stopped at "grade 3 **or higher**" and warned that a patient with ALT >20× ULN fell outside every row, because [[aasld-2022-dili]] writes a bounded 5–20× range under an open-ended label and never defines grade 4. [[aga-2021-ici-colitis-hepatitis]] **BPA 13** supplies the missing boundary verbatim: *"grade 4 hepatitis (AST/ALT >20× ULN or total bilirubin >10× ULN or hepatic decompensation, such as ascites or encephalopathy)."* Grade 5 (death) is still not defined in any ingested source.
+> [[aasld-2022-dili]] writes a bounded 5–20× range under the label "grade 3 or higher" and never defines grade 4; the grade 4 row comes from [[aga-2021-ici-colitis-hepatitis]] **BPA 13**: *"grade 4 hepatitis (AST/ALT >20× ULN or total bilirubin >10× ULN or hepatic decompensation, such as ascites or encephalopathy)."* Neither guideline defines grade 5 (death).
 >
 > ⚠ [[aasld-2022-dili]] additionally admits **"symptomatic liver dysfunction"** into its grade-3-or-higher row; [[aga-2021-ici-colitis-hepatitis]] uses **hepatic decompensation** as a grade-4 qualifier instead. Both are recorded; neither source reconciles them.
 
 - **Fatality is rare — <1% of IMH**, and almost exclusively in patients who are jaundiced. [[aasld-2022-dili]]
 - Hepatocellular [[jaundice]] carries up to **10% mortality** in DILI generally (Hy's law) — see [[drug-induced-liver-injury]]. [[acg-2021-dili]]
 - Monitor for progression to [[acute-liver-failure]] and refer for [[liver-transplantation|transplant]] evaluation when indicated. [[aasld-2022-dili]]
-- *Note: [[acg-2021-dili]] explicitly places ICI treatment algorithms **beyond its scope** and refers readers to ASCO/SITC irAE consensus statements, which are not ingested. Everything below is from [[aasld-2022-dili]].*
+- *Note: [[acg-2021-dili]] explicitly places ICI treatment algorithms **beyond its scope** and refers readers to ASCO/SITC irAE consensus statements. Everything below is from [[aasld-2022-dili]].*
 
 ---
 
@@ -122,8 +122,8 @@ ICI hepatotoxicity is an **immune-related adverse event (irAE)** of PD-1/PD-L1 i
 - Baseline and pre-cycle liver biochemistries are standard of care in patients receiving ICIs (GS 60). Screen [[chronic-hepatitis-b|HBV]]/[[hepatitis-c|HCV]] serology before initiation; treat or give HBV prophylaxis if positive. [[acg-2021-dili]]
 - **Rarely, ICI-related sclerosing cholangitis** presents with a cholestatic pattern — see [[biliary-stricture]]. [[aasld-2022-dili]]
 - Escalate to transplant evaluation if progressing toward [[acute-liver-failure]]. [[aasld-2022-dili]]
-- ✅ *Gaps closed 2026-09-04 by [[aga-2021-ici-colitis-hepatitis]]:* the **steroid non-response interval** (3–5 days, BPA 12), the **taper duration** (planned 4–6 weeks at grade 3), a **role for [[tacrolimus]]** (named as a second-line immunomodulator alongside MMF and azathioprine), and the **agent behind "IV steroids"** — BPA 12/13 specify **methylprednisolone**, which this page previously refused to assume from memory. Grade 4 is now defined (see Severity Assessment).
-- *Gap remaining: no ingested source gives a **dose** for mycophenolate mofetil, azathioprine, or tacrolimus in ICI hepatitis, nor a taper **decrement or endpoint**. An ASCO or SITC irAE guideline would be needed. (Unsourced dosing removed 2026-08-30.)*
+- *[[aga-2021-ici-colitis-hepatitis]] supplies the **steroid non-response interval** (3–5 days, BPA 12), the **taper duration** (planned 4–6 weeks at grade 3), a **role for [[tacrolimus]]** (second-line immunomodulator alongside MMF and azathioprine), and the **agent behind "IV steroids"** (methylprednisolone, BPA 12/13).*
+- *Neither guideline gives a **dose** for mycophenolate mofetil, azathioprine, or tacrolimus in ICI hepatitis, nor a taper **decrement or endpoint**; take these from the ASCO or SITC irAE guidelines.*
 
 ---
 

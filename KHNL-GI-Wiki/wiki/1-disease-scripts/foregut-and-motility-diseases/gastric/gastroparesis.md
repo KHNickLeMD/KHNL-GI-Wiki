@@ -98,7 +98,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, aga-2021-medically-ref
 | Abdominal pain | **0.24** |
 
 - A treatment effect **exceeding** the MID is clinically important; **below** it, the change is trivial — this is how AGA 2025 rated certainty for every drug and device on this page.
-- ⚠ **Decision gap (corpus-blocked — do not fill from memory):** the **individual GCSI/GCSI-DD items** within each subscale, and the averaging rule that produces the composite, are **not printed** in [[acg-2022-gastroparesis|ACG 2022]] or [[aga-2025-gastroparesis|AGA 2025]] — both give only the domains, the 0–4 anchors, and the MIDs. A score reported to you can therefore be *interpreted* from this page, but not *computed*. Needed: Revicki DA, Camilleri M, Kuo B, et al. Evaluating symptom outcomes in gastroparesis clinical trials: validity and responsiveness of the GCSI-DD. *Neurogastroenterol Motil* 2012;24:456–463 (AGA 2025 ref 12 — the source of the MIDs above, not in `raw/`).
+- ⚠ The **individual GCSI/GCSI-DD items** within each subscale, and the averaging rule that produces the composite, are **not printed** in [[acg-2022-gastroparesis|ACG 2022]] or [[aga-2025-gastroparesis|AGA 2025]] — both give only the domains, the 0–4 anchors, and the MIDs. A reported score can therefore be *interpreted* from this page, but not *computed*; the instrument is in Revicki DA, Camilleri M, Kuo B, et al. *Neurogastroenterol Motil* 2012;24:456–463 (AGA 2025 ref 12).
 - **Contradiction surfaced (and how it resolves).** The frequently quoted **"≥1-point GCSI improvement = response"** is *not* a guideline-endorsed MID: in [[acg-2022-gastroparesis|ACG 2022]] it appears only as the responder definition of a single tradipitant RCT (Carlin 2021: >1-point improvement in 46.6% vs 23.5% placebo). AGA 2025 notes a later validation study did propose a 1-point change on the 0–4 scale, but **declined to use it** because nearly all prior trials — including the tradipitant trials — did not use it as a primary endpoint. **Use the 0.58 total-score MID.**
 
 **Severity correlates:**
@@ -107,7 +107,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, aga-2021-medically-ref
 - Among diabetics, the strongest association with delayed GE is early satiety/fullness, not nausea/vomiting
 - Severity is inversely correlated with quality of life; GP carries significant healthcare burden (hospitalizations, economic impact, increased morbidity/mortality)
 
-**Severity by 4-hour scintigraphic retention** — the only numeric banding in the corpus, and the one BPA 8 conditions on ([[aga-2021-medically-refractory-gastroparesis|AGA 2022 refractory CPU]] BPA 3):
+**Severity by 4-hour scintigraphic retention** — the only numeric banding the guidelines give, and the one BPA 8 conditions on ([[aga-2021-medically-refractory-gastroparesis|AGA 2022 refractory CPU]] BPA 3):
 
 | Severity | Gastric retention at 4 hours on scintigraphy |
 |---|---|

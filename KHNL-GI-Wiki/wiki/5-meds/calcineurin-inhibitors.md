@@ -128,7 +128,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] Rec 28:
 | Hirsutism | **Cyclosporine only** |
 | Hyperlipidemia | **Not a CNI effect in these sources — attributed to sirolimus** (see mTOR class effects above) |
 
-> **Corpus gap.** A previous version of this page carried a `+ / ++ / +++` severity grid comparing TAC with cyclosporine across eight effects. No ingested source grades CNI adverse effects that way, and two of its rows contradicted the sources (it put dyslipidemia and hypertension as predominantly cyclosporine). The grid was removed 2026-08-26. A transplant pharmacology reference would be needed to state relative severities.
+> The guidelines do not grade the relative severity of CNI adverse effects between tacrolimus and cyclosporine; for relative severities consult a transplant pharmacology reference.
 
 ## Drug Interactions
 

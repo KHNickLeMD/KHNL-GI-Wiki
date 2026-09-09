@@ -35,7 +35,7 @@ sources: [aga-2024-intestinal-ultrasound]
 - **Bowel wall hyperemia** — color Doppler signal.
 - **More severe disease** — inflammatory mesenteric fat, loss of bowel wall stratification, surrounding lymphadenopathy.
 
-> **Decision gap — no general "abnormal BWT" cutoff in the ingested corpus.** [[aga-2024-intestinal-ultrasound]] names BWT as the primary activity measure but states an absolute millimetre threshold only in two specific contexts (postoperative CD recurrence and UC on [[jak-inhibitors|tofacitinib]], both below); it gives **no cross-cutting normal/abnormal BWT value**, and it notes that although several IUS scoring indices exist, **none is regularly used in clinical practice**. An IUS scoring-index source (e.g. IBUS-SAS / Limberg score) would be needed before this page can state one — do not fill it from memory.
+> **No general "abnormal BWT" cutoff is given.** [[aga-2024-intestinal-ultrasound]] names BWT as the primary activity measure but states an absolute millimetre threshold only in two specific contexts (postoperative CD recurrence and UC on [[jak-inhibitors|tofacitinib]], both below); it gives **no cross-cutting normal/abnormal BWT value**, and it notes that although several IUS scoring indices exist, **none is regularly used in clinical practice**. A cross-cutting cutoff comes from the IUS scoring indices themselves (e.g. IBUS-SAS / Limberg score).
 
 ## IUS vs Other Modalities
 

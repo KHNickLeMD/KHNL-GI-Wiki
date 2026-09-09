@@ -167,15 +167,14 @@ In such patients the PPI **should not** be de-prescribed. Separately, patients w
 
 ## Contradictions / Open Questions
 
-- **Age threshold, within the same document.** The synthesized high-risk criteria use **>60 years**; the ACG 2009 row of Table 2 uses **>65 years**. The source prints both without reconciling them. The wiki should carry both and name the discordance rather than picking one.
+- **Age threshold, within the same document.** The synthesized high-risk criteria use **>60 years**; the ACG 2009 row of Table 2 uses **>65 years**. The source prints both without reconciling them. Both are given here; the discordance is the source's own.
 - **The high-risk definition is explicitly unsettled.** The source states that which patients warrant PPI co-therapy "remains uncertain" and that guidance statements "offer varying recommendations." Table 2 is a display of disagreement (ACG, ACP, ACCF/ACG/AHA, ESC/EACTS, ACCP, ACC), not a consensus.
-- **De-prescribing pushes against PAAE literature.** BPA 10 directly opposes the common practice of stopping PPIs because of observational adverse-event signals. Any wiki content citing PPI-associated adverse events (e.g. the *C. difficile* risk data on [[proton-pump-inhibitors]] from [[aga-2026-cdiff-adults]]) must be read alongside BPA 10 — note that the 2026 C. diff CPU independently reaches the same conclusion (continue if indicated, never dose-reduce), so these are **concordant, not conflicting**.
+- **De-prescribing pushes against PAAE literature.** BPA 10 directly opposes the common practice of stopping PPIs because of observational adverse-event signals. PPI-associated adverse-event data (e.g. the *C. difficile* risk data on [[proton-pump-inhibitors]] from [[aga-2026-cdiff-adults]]) should be read alongside BPA 10 — note that the 2026 C. diff CPU independently reaches the same conclusion (continue if indicated, never dose-reduce), so these are **concordant, not conflicting**.
 - **Taper vs abrupt is underpowered, not settled.** The single trial showed 31% vs 22% — the source explicitly raises the possibility that the 3-week taper was too rapid given a 2–6 month regression timeline.
 - **Ambulatory pH testing to predict success** (acid exposure time >4.0% in the first 7 days post-withdrawal) is described as promising but of unclear feasibility.
 - **Duration of rebound acid hypersecretion is not well characterized.**
 
-## Gaps in this ingest
+## Limits of the source
 
-- The source's **"process map" of the conceptual approach to de-prescribing**, referenced in the Methods, is not reproduced as a labelled figure in the article body; no algorithm figure was available to capture.
-- **PDF glyph loss:** `pdftotext` drops `≥`, `≤`, and `×` from this PDF. Restored from context: long-term **>8 wk** vs acute/short-term **≤8 wk** (the two are defined as complements); ACG 2009 "**≥1** risk factor"; ACC 2020 "**≥2** antithrombotic agents". Noted for traceability.
-- Cited guidance documents in Table 2 (ACG 2009 NSAID, ACP 2010/2019, ACCF/ACG/AHA 2010, ESC/EACTS 2017, ACCP 2018, ACC 2020) are **not themselves ingested** — the wiki carries their gastroprotection populations second-hand through this table only.
+- The source's **"process map" of the conceptual approach to de-prescribing**, referenced in the Methods, is not reproduced as a labelled figure in the article body.
+- Cited guidance documents in Table 2 (ACG 2009 NSAID, ACP 2010/2019, ACCF/ACG/AHA 2010, ESC/EACTS 2017, ACCP 2018, ACC 2020) are summarized second-hand through this table only.

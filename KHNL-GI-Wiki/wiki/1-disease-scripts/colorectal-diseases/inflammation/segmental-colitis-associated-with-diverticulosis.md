@@ -43,8 +43,8 @@ Chronic inflammatory condition affecting colonic segments that bear diverticula,
 
 ## Therapeutics
 
-- The ingested source ([[acg-2026-diverticulitis]]) defines SCAD but does not give a graded treatment algorithm.
-- ⚠ **Decision gap:** management (e.g. [[mesalamine-5-asa|5-ASA]], steroids, observation) and prognosis are not covered by the ingested source. Flag for a dedicated SCAD reference before expanding.
+- [[acg-2026-diverticulitis]] defines SCAD but does not give a graded treatment algorithm.
+- Management (e.g. [[mesalamine-5-asa|5-ASA]], steroids, observation) and prognosis are not covered by that guideline.
 
 ---
 

@@ -114,7 +114,7 @@ Post-operatively, the consensus clarifies that HRM interpretation after fundopli
 - Creates need for a new concept page: [[hrm-antireflux-surgery]] covering pre-ARS and post-ARS HRM interpretation and the Padova Classification
 - Informs [[achalasia]] — highlights that ~3% of patients presenting with GERD-like symptoms and referred for ARS have achalasia; pre-ARS HRM is essential for exclusion
 - Will inform any future GERD disease script or antireflux surgery procedure page
-- The Padova Classification should be the reference algorithm for post-ARS HRM interpretation in the wiki
+- The Padova Classification is the reference algorithm for post-ARS HRM interpretation
 
 ## Contradictions / Open Questions
 

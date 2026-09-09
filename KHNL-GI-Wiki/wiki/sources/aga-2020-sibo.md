@@ -231,7 +231,7 @@ The most consequential clinical reversal is on symptoms. Where ACG's Key Concept
 
 ## Contradictions / Open Questions
 
-**Versus [[acg-2020-sibo]] (both tier-1; AGA is the later 2020 publication — Oct 2020 issue vs ACG's Jan/Feb 2020 — so per source priority the AGA claim is what the wiki asserts, with the disagreement stated):**
+**Versus [[acg-2020-sibo]] (both tier-1; AGA is the later 2020 publication — Oct 2020 issue vs ACG's Jan/Feb 2020 — so the AGA claim is followed, with the disagreement stated):**
 
 | Question | AGA 2020 CPU says | ACG 2020 guideline says |
 |---|---|---|
@@ -258,7 +258,6 @@ Agreements worth noting: both adopt the same clinical definition (the AGA CPU ci
 - No antibiotic regimen has a comparative evidence base; the whole of Table 2 is "regimens that have been used," not regimens shown to work.
 - Retreatment/maintenance strategy (monthly pulses, continuous rotation) is offered without trial support, against an explicit warning about long-term broad-spectrum antibiotic risk (BPA 9).
 
-**Extraction note:** `pdftotext` silently drops `≥` from this PDF (emitted as `0x15`). Two occurrences were recovered and verified in context — the REIMAGINE breath-test criterion (**≥**20 ppm) and the traditional culture definition (**≥**10⁵ CFU/mL). Every other comparator in this source is a literal `>` as printed.
 
 ---
 
