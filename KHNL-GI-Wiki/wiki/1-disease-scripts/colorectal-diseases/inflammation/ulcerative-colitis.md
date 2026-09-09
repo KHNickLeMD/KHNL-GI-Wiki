@@ -183,10 +183,15 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ### Treatment Goals
 
-- Steroid-free clinical remission (resolution of bleeding, urgency, bowel frequency)
+*Target sequence, the operative definition of each target, and drug-by-drug time-to-target intervals: see [[treat-to-target-ibd]].*
+
+- Steroid-free clinical remission (resolution of bleeding, urgency, bowel frequency). Instrument-based definition: **PRO2 rectal bleeding = 0 and stool frequency = 0**, or **partial Mayo <3 with no individual subscore >1** ([[ioibd-2021-stride-ii|STRIDE-II]]); in children **PUCAI <10**.
 - Endoscopic remission (MES 0–1)
+  - STRIDE-II sets the UC endoscopic target more strictly at **MES = 0 or UCEIS ≤1**, noting that healing "is commonly defined as MES ≤1, but complete endoscopic healing (MES 0) is associated with superior disease outcomes." The newer [[acg-2025-uc]] / [[aga-2024-uc-pharm]] target of **MES 0–1** is what this page applies; **MES 0** is the deeper goal.
+- Biochemical target: **CRP below the upper limit of normal and fecal calprotectin to 100–250 μg/g** — pick the lower end (<100 μg/g) when aiming at deep or histological healing, the higher end (<250 μg/g) for MES 0–1.
 - Deep remission (symptomatic + endoscopic) — preferred goal
-- Histologic remission — prognostic value but not required target
+- Histologic remission — **not a treatment target**; use it as an adjunct to endoscopic remission representing a deeper level of healing. It is a high hurdle: only about **one-third** of patients with endoscopic healing in the ACT trials had histologic remission.
+- **Absence of disability and normalized health-related quality of life** are long-term targets in their own right, independent of other markers of inflammation.
 - Prevention of hospitalization, colectomy, dysplasia/[[colorectal-cancer|CRC]]
 
 ---
