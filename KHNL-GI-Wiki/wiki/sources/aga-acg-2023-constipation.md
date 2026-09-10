@@ -3,7 +3,7 @@ title: "AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation
 category: source
 tags: [constipation, cic, laxatives, secretagogues, prokinetics, colorectal]
 created: 2026-05-16
-updated: 2026-05-28
+updated: 2026-09-10
 sources: []
 ---
 
@@ -18,56 +18,73 @@ sources: []
 
 ## Summary
 
-This joint AGA-ACG guideline provides 10 GRADE-based recommendations for pharmacologic management of [[chronic-idiopathic-constipation|chronic idiopathic constipation]] (CIC) in adults. Excluded populations: [[irritable-bowel-syndrome|IBS-C]], opioid-induced constipation, malignancy-related constipation, pregnancy. The systematic review included 28 RCTs. The guideline uses a stepwise approach: OTC agents first (fiber, osmotic laxatives, stimulant laxatives), then prescription secretagogues and prokinetics when OTC agents fail.
+This joint AGA-ACG guideline gives **10 numbered recommendations** (Recommendation 1–10) for pharmacologic management of [[chronic-idiopathic-constipation|chronic idiopathic constipation]] (CIC) in adults, graded with GRADE as **strength of recommendation** (strong = "recommends" / conditional = "suggests") and **certainty of evidence** (high / moderate / low / very low). Excluded populations: [[irritable-bowel-syndrome|IBS-C]], opioid-induced constipation, malignancy, pregnancy, and secondary causes such as hypothyroidism and [[celiac-disease|celiac disease]]. Of 54 full-text studies reviewed, **28 were included in the evidence synthesis**. The approach is stepwise: OTC agents first (fiber, osmotic laxatives, stimulant laxatives), then prescription secretagogues and the prokinetic when OTC agents fail.
 
-Polyethylene glycol and bisacodyl/sodium picosulfate receive the strongest recommendations, supported by moderate-quality evidence. [[linaclotide|Linaclotide]], [[plecanatide]], and [[prucalopride]] are recommended when OTC agents fail, with strong recommendations but only moderate or low evidence quality. [[lubiprostone|Lubiprostone]] is relegated to a conditional recommendation for patients who fail OTC agents, given its high cost and lower evidence certainty.
+Five agents get **strong** recommendations — PEG, bisacodyl/sodium picosulfate, [[linaclotide|linaclotide]], [[plecanatide]], and [[prucalopride]] — and each of those five rests on **moderate** certainty. Five get **conditional** recommendations: fiber (low), magnesium oxide (very low), lactulose (very low), senna (low), and [[lubiprostone|lubiprostone]] (low). Docusate was among the interventions the panel set out to review, but the guideline issues no recommendation on it.
 
-Monthly cost comparisons were explicitly incorporated into recommendations as a pragmatic consideration: OTC agents cost <$50/month while secretagogues and prokinetics range $374–$563/month.
+Cost was an explicit Evidence-to-Decision consideration: every OTC agent is estimated at **<$50/month** (PEG $10–$45), while the secretagogues and prucalopride run **$374–$563/month**.
 
 ## Key Findings / Claims
 
-**Strong recommendations:**
+**Outcome definitions used across the recommendations**
 
-- **PEG (polyethylene glycol):** 17 g daily — Strong/Moderate; more spontaneous bowel movements (SBMs) vs placebo; preferred first-line OTC osmotic laxative
-- **Bisacodyl or sodium picosulfate (SPS):** 5 mg daily — Strong/Moderate; increases ≥3 complete SBMs/week vs placebo
-- **Linaclotide:** 72 mcg or 145 mcg daily — Strong/Moderate; GC-C agonist; increases complete SBMs; first choice among secretagogues
-- **Plecanatide:** 3 mg daily — Strong/Low; GC-C agonist similar mechanism to linaclotide
-- **Prucalopride:** 1–2 mg daily — Strong/Low; selective 5-HT4 agonist; prokinetic; approved for chronic constipation (not IBS-C)
+- **CSBM** = complete spontaneous bowel movement. **Responder** = CSBM/week ≥3 **and** an increase of ≥1 from baseline. Critical outcomes were CSBMs/week, SBMs/week, and diarrhea leading to discontinuation.
+- Studies had to run **≥4 weeks**; single-dose and head-to-head-only comparisons were excluded, so the guideline has **no head-to-head data** between agents.
 
-**Conditional recommendations:**
+**Implementation detail beyond the graded statements**
 
-- **Fiber (psyllium):** Conditional/Low; psyllium superior to other fiber types; start low and titrate
-- **Senna:** 8.6–17.2 mg daily — Conditional/Low; stimulant laxative; inexpensive; long-term use concerns (melanosis coli) but not well substantiated
-- **Magnesium oxide:** 400–500 mg — Conditional/Low; avoid in renal insufficiency; reasonable OTC alternative
-- **Lactulose:** 15 g daily — Conditional/Very Low; bloating limits tolerability; positioned behind PEG
-- **Lubiprostone:** 24 mcg BID — Conditional/Low; chloride channel activator; indicated for OTC failures; cost is significant barrier ($374/month)
+- **Fiber** — soluble fiber traps water and softens stool; insoluble increases bulk. Total daily fiber (diet + supplement) **20–30 g/d**, per Academy of Nutrition and Dietetics **14 g per 1,000 kcal/d**; usually **no benefit above 25–30 g**. Only **psyllium** appeared effective among the supplements evaluated (bran and inulin data very limited and uncertain). Ensure adequate hydration; flatulence is common.
+- **PEG** — 17 g daily, no clear maximum, titrate to symptoms; response durable over **6 months**. A fiber trial may precede or accompany PEG in mild constipation.
+- **Magnesium oxide** — 400–500 mg daily; no clear maximum, though prior studies used **1,000–1,500 mg daily**. Caution in renal insufficiency (hypermagnesemia) and pregnancy. Trials ran 4 weeks.
+- **Lactulose** — 15 g daily; no clear maximum, but hypernatremia and hypokalemia can occur with significant diarrhea. The **only osmotic agent studied in pregnancy**. Dose-dependent bloating and flatulence limit use.
+- **Bisacodyl / sodium picosulfate** — bisacodyl 5 mg daily, **maximum 10 mg orally daily**; recommended for **short-term use or as rescue therapy**, where short-term = **daily use for ≤4 weeks**. Long-term safety and efficacy unknown; prolonged or excessive use can cause diarrhea and electrolyte imbalance.
+- **Senna** — 8.6–17.2 mg daily; no clear maximum, often capped at 4 tablets twice daily. The trial dose is **higher than doses commonly used in practice** — start lower and increase if no response. Long-term safety and efficacy unknown.
+- **Lubiprostone** — chloride-channel-type-2 secretagogue; 24 µg BID, also the maximum. Trials ran **4 weeks**; the label sets no duration limit. Nausea is dose-dependent and lower when taken with food and water. Also approved for IBS-C at 8 µg BID.
+- **Linaclotide** — guanylate cyclase-C agonist; **72–145 µg daily**, maximum **290 µg daily** (the 290 µg dose is the IBS-C dose). Trials ran **12 weeks**.
+- **Plecanatide** — guanylate cyclase-C agonist; 3 mg daily, also the maximum. Trials ran **12 weeks**.
+- **Prucalopride** — 5-HT₄ agonist; 1–2 mg daily, maximum 2 mg daily. Trials ran **4–24 weeks**. Headache, abdominal pain, nausea, and diarrhea may lead to discontinuation.
+- Each prescription agent **may be used as a replacement for or as an adjunct to** OTC agents.
 
-**Monthly cost data (approximate at time of publication):**
+**Estimated monthly cost (US dollars, at publication)**
 
-- Fiber (psyllium): <$10; PEG: ~$25–50; Bisacodyl/SPS: <$20; Senna: <$15; MgOx: <$20; Lactulose: ~$30–50
-- Lubiprostone: ~$374; Linaclotide: ~$523; Plecanatide: ~$526; Prucalopride: ~$563
+| Agent | Estimated monthly cost |
+|---|---|
+| Fiber | <$50 |
+| PEG | $10–$45 |
+| Magnesium oxide | <$50 |
+| Lactulose | <$50 |
+| Bisacodyl / sodium picosulfate | <$50 |
+| Senna | <$50 |
+| [[lubiprostone\|Lubiprostone]] | $374 |
+| [[linaclotide\|Linaclotide]] | $523 |
+| [[plecanatide\|Plecanatide]] | $526 |
+| [[prucalopride\|Prucalopride]] | $563 |
 
-**Excluded from guideline:** IBS-C (covered by separate guidelines), opioid-induced constipation, constipation in pregnancy, constipation from malignancy
+The guideline notes these are probable per-month costs, not cost-effectiveness estimates.
+
+**Excluded from the guideline:** IBS-C (covered by separate AGA and ACG guidelines), opioid-induced constipation, constipation in pregnancy, constipation from malignancy, and constipation secondary to conditions such as hypothyroidism and celiac disease.
 
 ## Recommendations
 
-| Recommendation | Strength | Evidence Quality |
-|---|---|---|
-| **OTC Osmotic Laxatives** | | |
-| Use PEG (polyethylene glycol) 17 g daily as first-line OTC osmotic laxative for CIC | Strong | Moderate |
-| Use magnesium oxide 400-500 mg for CIC (avoid in renal insufficiency) | Conditional | Low |
-| Use lactulose 15 g daily for CIC (positioned behind PEG due to tolerability) | Conditional | Very Low |
-| **OTC Stimulant Laxatives** | | |
-| Use bisacodyl or sodium picosulfate 5 mg daily for CIC | Strong | Moderate |
-| Use senna 8.6-17.2 mg daily for CIC | Conditional | Low |
-| **OTC Fiber** | | |
-| Use psyllium fiber for CIC (psyllium superior to other fiber types; start low and titrate) | Conditional | Low |
-| **Prescription Secretagogues** | | |
-| Use linaclotide 72 mcg or 145 mcg daily when OTC agents fail (first choice among secretagogues) | Strong | Moderate |
-| Use plecanatide 3 mg daily when OTC agents fail | Strong | Low |
-| Use lubiprostone 24 mcg BID when OTC agents fail | Conditional | Low |
-| **Prescription Prokinetics** | | |
-| Use prucalopride 1-2 mg daily when OTC agents fail | Strong | Low |
+Verbatim from Table 1. The guideline numbers its statements 1–10; "recommends" = strong, "suggests" = conditional.
+
+| # | Recommendation | Strength of recommendation | Certainty of evidence |
+|---|---|---|---|
+| **Fiber** | | | |
+| 1 | In adults with CIC, the panel suggests the use of fiber supplementation over management without fiber supplements | Conditional | Low |
+| **Osmotic laxatives** | | | |
+| 2 | In adults with CIC, the panel recommends the use of PEG compared with management without PEG | Strong | Moderate |
+| 3 | In adults with CIC, the panel suggests the use of magnesium oxide over management without magnesium oxide | Conditional | Very low |
+| 4 | In adults with CIC who fail or are intolerant to OTC therapies, the panel suggests the use of lactulose over management without lactulose | Conditional | Very low |
+| **Stimulant laxatives** | | | |
+| 5 | In adults with CIC, the panel recommends the use of bisacodyl or sodium picosulphate short term or as rescue therapy over management without bisacodyl or sodium picosulfate | Strong | Moderate |
+| 6 | In adults with CIC, the panel suggests the use of senna over management without senna | Conditional | Low |
+| **Secretagogues** | | | |
+| 7 | In adults with CIC who do not respond to OTC agents, the panel suggests the use of lubiprostone over management without lubiprostone | Conditional | Low |
+| 8 | In adults with CIC who do not respond to OTC agents, the panel recommends the use of linaclotide over management without linaclotide | Strong | Moderate |
+| 9 | In adults with CIC who do not respond to OTC agents, the panel recommends the use of plecanatide over management without plecanatide | Strong | Moderate |
+| **5-HT₄ agonist** | | | |
+| 10 | In adults with CIC who do not respond to OTC agents, the panel recommends the use of prucalopride over management without prucalopride | Strong | Moderate |
 
 ## Relevance to Wiki
 
@@ -79,8 +96,15 @@ Monthly cost comparisons were explicitly incorporated into recommendations as a 
 
 - Guideline does not address when to pursue anorectal physiology testing (see [[acg-2021-anorectal-disorders]] for defecation disorder evaluation)
 - No head-to-head comparisons between secretagogues; choice among linaclotide/plecanatide/prucalopride based on mechanism preference and patient factors
-- Linaclotide 72 mcg (CIC dose) vs 290 mcg (IBS-C dose): this guideline covers CIC dosing only
+- Linaclotide 72–145 µg (CIC dosing) vs 290 µg (IBS-C dose): this guideline covers CIC dosing only
+- Docusate was listed among the interventions to be reviewed but no recommendation on it appears in the guideline
 
 ## See Also
 
-[[chronic-idiopathic-constipation]], [[defecation-disorders]], [[prucalopride]], [[linaclotide]], [[plecanatide]], [[acg-2021-anorectal-disorders]]
+[[chronic-idiopathic-constipation]], [[defecation-disorders]], [[irritable-bowel-syndrome]], [[prucalopride]], [[linaclotide]], [[plecanatide]], [[lubiprostone]]
+
+---
+
+## Sources
+
+1. [[aga-acg-2023-constipation|AGA-ACG Clinical Practice Guideline: Pharmacological Management of Chronic Idiopathic Constipation (2023)]]

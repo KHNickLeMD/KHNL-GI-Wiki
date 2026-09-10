@@ -3,8 +3,8 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-09-08
-sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd, acg-2020-esophageal-physiologic-testing, afs-2024-ge-valve-after-antireflux-surgery]
+updated: 2026-09-10
+sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd, acg-2020-esophageal-physiologic-testing, afs-2024-ge-valve-after-antireflux-surgery, aga-2022-personalized-gerd, aga-2020-functional-heartburn]
 ---
 
 ## Contents

@@ -3,8 +3,8 @@ title: "Celiac Disease"
 category: disease-script
 tags: [celiac-disease, gluten, malabsorption, small-bowel, ttg, marsh, foregut]
 created: 2026-05-15
-updated: 2026-09-06
-sources: [acg-2022-celiac, aga-2022-refractory-celiac]
+updated: 2026-09-10
+sources: [acg-2022-celiac, aga-2019-celiac-monitoring, aga-2022-refractory-celiac]
 ---
 
 A permanent immune-mediated enteropathy triggered by gluten (proteins in wheat, barley, and rye) in genetically susceptible individuals (HLA-DQ2/DQ8). Affects ~1% of the US population. Characterized by small bowel villous injury, crypt hyperplasia, and intraepithelial lymphocytosis, with a wide spectrum of GI and extra-intestinal manifestations.
@@ -63,6 +63,8 @@ A permanent immune-mediated enteropathy triggered by gluten (proteins in wheat, 
 
 *Table — conditions prompting CD testing, recreated from Table 4. ([[acg-2022-celiac]])*
 
+**Aim for a pretest probability of 5–10%** ([[aga-2019-celiac-monitoring|AGA 2019]]). Population prevalence is ~1%; serology and histology only gain positive predictive value once selection raises the tested population to 5–10%. Malabsorptive symptoms (including failure-to-thrive) raise the accuracy of antibody testing from **98% to 100%**.
+
 Quantified risks in at-risk groups:
 
 - **Family members** — up to **20% in siblings** and **10% in other first-degree relatives** in community-based studies; a large US multicenter study found rates as low as **5%** in both first- and second-degree relatives.
@@ -82,6 +84,11 @@ Quantified risks in at-risk groups:
 - Negative TTG-IgA has high negative predictive value when pretest probability is low-moderate
 - If pretest probability is high, proceed to EGD with biopsy regardless of serology (seronegative CD exists)
 - Testing must be performed on a gluten-containing diet; if already on GFD, HLA testing is the preferred initial step
+- **Do not reduce or avoid gluten before testing** — it lowers the sensitivity of both serology *and* biopsy ([[aga-2019-celiac-monitoring|AGA 2019]], BPA 7)
+- **TTG-IgG is not specific in the absence of IgA deficiency** — use IgG isotypes only when total IgA is low (BPA 3–4)
+- **Diagnosed by biopsy first?** Obtain celiac serology as a confirmatory test **before starting the GFD** (BPA 5)
+- **Strong suspicion but negative biopsies?** Still send TTG-IgA; if positive, repeat biopsies either then or later (BPA 6)
+- **EMA sequencing:** EMA is the second-line confirmatory test (high specificity, labor-intensive, judgment-dependent); DGP assays are reasonably accurate but **inferior to TTG-IgA**
 
 **Upper endoscopy with duodenal biopsy — standard diagnostic approach:**
 
@@ -106,7 +113,8 @@ Biopsy protocol (ACG 2022 — strong recommendation):
 
 - Reserved for **symptomatic** adults unwilling or unable to undergo upper endoscopy (e.g. endoscopy/biopsy poses cardiovascular or bleeding risk), or already on a GFD with a severe symptomatic response to gluten that makes a challenge inadvisable
 - Requires **TTG-IgA >10× ULN**; a confirmatory EMA in a second sample is also advisable in adults
-- **Why biopsy still wins:** a ≥10-fold TTG-IgA elevation has a positive predictive value of only **95%** in adults — given a lifelong GFD, that may be unacceptably low. This is an "after-the-fact" diagnosis of *likely* CD, not a definitive one.
+- [[aga-2019-celiac-monitoring|AGA 2019]] rates the PPV of TTG-IgA **>10× ULN *plus* a positive EMA on a second blood sample** as "virtually 100%", and holds that in adults meeting those criteria EGD with duodenal biopsies may still be done — but for **differential diagnosis**, not to confirm CD
+- **Why biopsy still wins:** a ≥10-fold TTG-IgA elevation *alone* has a positive predictive value of only **95%** in adults — given a lifelong GFD, that may be unacceptably low. This is an "after-the-fact" diagnosis of *likely* CD, not a definitive one.
 
 ### Severity Assessment (Marsh Classification)
 
@@ -261,15 +269,28 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 - Visits at 3, 6, and 12 months after diagnosis; then every 6–12 months
 - Goals: symptom control, GFD adherence reinforcement, preventive care, surveillance for complications and comorbid autoimmune disease
 
-**Serologic monitoring:**
+**Serologic monitoring — schedule and interpretation:**
 
-- TTG-IgA (or DGP-IgG if IgA-deficient) — trend toward normalization confirms adherence
-- Poor correlation between serology normalization and mucosal healing; serologic remission does not confirm histologic healing
-- Positive serology at 12 months → likely ongoing gluten ingestion → reassess diet with expert dietitian
+- **Check TTG-IgA at 6 months and 12 months after diagnosis, then yearly** (or DGP-IgG/TTG-IgG if IgA-deficient) ([[aga-2019-celiac-monitoring|AGA 2019]], BPA 10)
+- Trend toward normalization supports adherence
+- **A negative serology does NOT guarantee the mucosa has healed** — serologic remission does not confirm histologic healing
+- **Persistently positive serology usually means ongoing intestinal damage and gluten exposure** → reassess diet with an expert dietitian
+- An **undetectable** TTG-IgA — reading the detectable levels *below* the upper normal limit rather than just "negative" — may help identify patients who have achieved mucosal healing
+
+Performance of persistently positive TTG-IgA/EMA for detecting **persistent villous atrophy** in patients on a GFD:
+
+| | Adults | Children |
+|---|---|---|
+| Sensitivity | **0.38** | **0.70** |
+| Specificity (on GFD ≥1 year) | **0.80** | **0.87** |
+
+- Bottom line: **follow-up serology is of limited use in adults, better in children.** In children the best-performing marker is EMA, with a **median time to mucosal healing of 2.2 years**.
 
 **Follow-up biopsy:**
 
 - EGD with biopsy indicated when: lack of clinical response or relapse of symptoms despite GFD
+- **Persistent or relapsing symptoms with no other obvious explanation → endoscopic biopsies to determine healing, even if TTG-IgA is negative** ([[aga-2019-celiac-monitoring|AGA 2019]], BPA 11)
+- **If the follow-up biopsy still shows damage equating to at least Marsh 2 → repeat the biopsy after 12 months**
 - Consider repeat biopsy in asymptomatic adults after ~2 years of GFD to assess mucosal healing (conditional recommendation, shared decision-making required)
 - Follow-up biopsy in asymptomatic children not routinely recommended
 - Persistent villous atrophy (no mucosal healing) associated with:

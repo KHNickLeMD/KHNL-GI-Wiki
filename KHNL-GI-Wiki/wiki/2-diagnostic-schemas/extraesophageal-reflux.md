@@ -3,8 +3,8 @@ title: "Extraesophageal Reflux (EER)"
 category: diagnostic-schema
 tags: [gerd, extraesophageal-reflux, eer, lpr, chronic-cough, asthma, laryngitis, dental-erosions, ppi, reflux-testing, foregut]
 created: 2026-07-23
-updated: 2026-09-07
-sources: [aga-2023-extraesophageal-gerd, acg-2021-gerd]
+updated: 2026-09-10
+sources: [aga-2023-extraesophageal-gerd, aga-2018-extraesophageal-gerd, acg-2021-gerd]
 ---
 
 ## Definition / Scope
@@ -34,6 +34,8 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 | Dental erosions | Diet/acidic exposures, bruxism, xerostomia | Dentistry |
 | Sinus / ear disease, post-nasal drip, throat clearing, globus | Rhinosinusitis, allergy, functional/behavioral | ENT, allergy |
 
+**Strength of the attribution is not uniform.** Evidence is strongest for asthma, cough, and hoarseness; the wider set is linked by association only. AGA 2018 groups the full list as **laryngopharyngeal** (chronic throat clearing, globus sensation, throat pain, hoarseness, dysphonia, laryngeal cancer), **respiratory** (cough, pulmonary fibrosis, lung transplant rejection, asthma), and **other** (enamel erosion, otitis, sinusitis, postnasal drip). Because the cause is commonly multifactorial or not esophageal at all, non-GI evaluation by ENT, pulmonary, and/or allergy is essential and often should come **first** (AGA 2018 BPA 2); the gastroenterologist's role is to assess whether a gastroesophageal etiology contributes (BPA 1).
+
 ## Diagnostic Algorithm
 
 1. **Characterize symptoms & screen for typical GERD** (heartburn, regurgitation). The presence or absence of typical symptoms drives the pathway.
@@ -43,6 +45,27 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 5. **Initial objective testing, tailored to presentation** (BPA 7): [[upper-endoscopy|upper endoscopy]] + [[ambulatory-reflux-monitoring|ambulatory reflux monitoring]]. Perform monitoring **off** acid suppression **unless previous objective evidence of GERD (e.g. a positive pH study) already exists**. Strongest confidence in EER comes from pathologic acid exposure **plus** a positive symptom–reflux association for the EER symptom.
 6. **Established GERD not responding to high-dose acid suppression** → **pH-impedance monitoring *on* therapy** to assess ongoing acid vs non-acid reflux as the symptom driver (BPA 8).
 7. **Refractory / considering escalation** → alternative treatments (step below) and, only with objectively-defined GERD, shared decision-making about anti-reflux surgery.
+
+**Choosing off vs on therapy — the operative criteria** (AGA 2018 BPA 6):
+
+| Test **off** therapy | Test **on** therapy |
+|---|---|
+| **Low** probability of baseline reflux — no previously documented or suspected [[gerd\|GERD]] | **High** probability of baseline reflux — previous esophagitis, [[barretts-esophagus\|Barrett's esophagus]], abnormal pH study, or large [[hiatal-hernia\|hiatal hernia]] |
+| Goal: identify moderate-to-severe reflux at baseline; a **normal** study in a PPI non-responder significantly reduces the likelihood reflux is contributing (BPA 7) | Goal: assess reflux control and temporal association with persisting symptoms |
+
+There is **no consensus definition of an abnormal pH-impedance study performed on therapy** — high reflux-event count, low baseline impedance, and positive symptom-association analysis have all been proposed. AGA 2018 also does not quantify "moderate to severe reflux at baseline."
+
+**What changed since 2018.** Readers carrying the older algorithm should note four shifts, all of which the 2023 update governs:
+
+| | AGA 2018 | AGA 2023 (current) |
+|---|---|---|
+| First step when typical GERD symptoms are **absent** | Non-GI (ENT/allergy/pulmonary) evaluation, then empiric PPI if negative | Consider **objective reflux testing before** starting a PPI |
+| Starting PPI dose | **Twice daily** ("aggressive acid suppression") | **Single dose**, titrate up to twice daily |
+| Trial length before calling failure | **6–8 weeks** (text: 1–2 months) | **Up to 12 weeks**; further trials of different PPIs are low-yield |
+| Meaning of a PPI response | Response helps establish the reflux–symptom association | Response **does not confirm GERD** — may act through non–acid-suppression mechanisms |
+| Default monitoring condition | **On** therapy when baseline reflux probability is high | **Off** acid suppression unless prior objective evidence of GERD exists |
+
+AGA 2018 also stratified persistent symptoms by BMI >25 vs <25 as a pretest-probability aid; no outcome data support the cut-point and it does not appear in the 2023 pathway.
 
 ## Key Tests
 
@@ -54,6 +77,21 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 | Laryngoscopy (via ENT) | Mandatory to exclude non-reflux laryngeal pathology in laryngeal EER — see [[laryngopharyngeal-symptoms]] |
 | Empiric PPI trial (as a *test*) | Poor discriminator: meta-analysis in **classic** heartburn/regurgitation gives sensitivity 71–78%, specificity 41–54% vs esophagitis or pH monitoring — performance in EER is expected to be substantially lower still |
 | Salivary pepsin, oropharyngeal (Restech) pH | **Not recommended** — poor concordance with esophageal reflux monitoring and overlapping results between healthy controls and symptomatic patients; currently unlikely to be sufficiently reliable or accurate for EER |
+
+**How badly each test performs** (AGA 2018) — the reason no single test settles causation:
+
+| Test | Performance |
+|---|---|
+| Laryngoscopy | Laryngeal signs in up to **86% of asymptomatic subjects**; poor intra- and interobserver reproducibility; Reflux Finding Score did not predict abnormal reflux |
+| [[upper-endoscopy\|EGD]] | Esophagitis in **40%** of asthma and **20%** of primary extraesophageal symptoms — but also up to **20% of asymptomatic subjects** (silent esophagitis); does not predict antisecretory response |
+| Distal pH monitoring | Abnormal in **30–50%** of suspected LPR and reflux-related asthma, but does **not** predict PPI response; up to **90%** of cough events go unreported with the patient event marker |
+| Pharyngeal / airway pH (incl. Restech) | >**90%** of pharyngeal pH drops between 4 and 5 are swallow-related; pathologic pharyngeal events occur even after total gastrectomy — international consensus: cannot be recommended |
+| pH-impedance | Abnormal in ~**40%** of suspected extraesophageal presentations. In PPI-refractory patients: **30–40%** of symptoms linked to nonacid reflux, ~**10%** to acid reflux, **50–60%** to no reflux at all. Added value over pH alone is limited in laryngeal symptoms/globus |
+| Pharyngeal pH-impedance | Reflux patterns identical to healthy subjects on and off PPI — cannot detect abnormal pharyngeal reflux |
+| Salivary pepsin | Sensitivity **78.6%**, specificity **64.9%** (specificity **98.2%** at a higher pepsin concentration); one-third of controls test positive |
+| Mucosal impedance | Adds ~1 min to endoscopy, 5 s per reading; separates GERD from non-GERD and from [[eosinophilic-esophagitis\|EoE]] without biopsy, but its role in extraesophageal reflux is unresolved |
+
+Barium esophagography has no role here — its utility is limited to [[dysphagia]] and hiatal hernia size/type.
 
 **Threshold gap — proximal reflux.** pH-impedance can count proximal reflux episodes, but there is **no well-established threshold** defining clinically relevant "pathologic" proximal reflux, so proximal event counts cannot be used as a diagnostic cutoff (AGA 2023).
 
@@ -84,4 +122,5 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 ## Sources
 
 1. [[aga-2023-extraesophageal-gerd|AGA Clinical Practice Update on the Diagnosis and Management of Extraesophageal Gastroesophageal Reflux Disease: Expert Review (2023)]]
-2. [[acg-2021-gerd|ACG 2021 Clinical Guideline: Diagnosis and Management of GERD]]
+2. [[aga-2018-extraesophageal-gerd|Extraesophageal Symptoms and Diseases Attributed to GERD: Where is the Pendulum Swinging Now? (AGA Clinical Practice Update, 2018)]]
+3. [[acg-2021-gerd|ACG 2021 Clinical Guideline: Diagnosis and Management of GERD]]
