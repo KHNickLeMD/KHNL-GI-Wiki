@@ -145,6 +145,8 @@ The trigger is **T stage plus margin and cystic duct node status**:
 - **Subsequent line:** FOLFOX (preferred), FOLFIRI, or biomarker-matched targeted therapy.
 - **Molecular profiling** (ideally RNA-based to detect fusions) interrogates HER2 (ERBB2), BRAF V600E, NTRK and RET fusions, KRAS G12C, and tumor-agnostic MSI-H/dMMR and TMB-H. For dMMR/MSI-H tumors or a family history suggestive of [[brca-pathogenic-variants|BRCA1/2 pathogenic variants]], consider germline testing and/or genetic counseling. FGFR2 fusions and IDH1 mutations are characteristic of intrahepatic CCA rather than gallbladder cancer.
 
+---
+
 ## See Also
 
 [[cholangiocarcinoma]], [[biliary-stricture]], [[acute-cholecystitis]], [[primary-sclerosing-cholangitis]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[brca-pathogenic-variants]], [[jaundice]]

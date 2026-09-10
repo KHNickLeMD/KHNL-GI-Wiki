@@ -3,7 +3,7 @@ title: "Rotavirus Gastroenteritis"
 category: disease-script
 tags: [rotavirus, viral-gastroenteritis, diarrhea, infectious-diarrhea, vaccine]
 created: 2026-05-19
-updated: 2026-09-06
+updated: 2026-09-10
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -20,6 +20,8 @@ Rotavirus — with [[norovirus]] and adenovirus — is one of the viral agents t
   - [[#Antibiotics — no role]]
   - [[#Supportive care — the treatment]]
   - [[#Prevention]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

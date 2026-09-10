@@ -91,6 +91,8 @@ Two parallel 3-type schemes — **biliary** (Rome III revision of the Milwaukee 
 - Suspected SOD is a **high-risk indication** for post-ERCP pancreatitis. Give **rectal indomethacin with or without a pancreatic-duct stent** when ERCP is performed in these patients (Moderate/High). ([[asge-2015-ercp-benign-biliary]], [[asge-2015-benign-pancreatic-disease]])
 - SOD's status as a *suboptimal* ERCP indication post-EPISOD is itself a reason the "high-risk" definition for prophylaxis has evolved. ([[asge-2023-post-ercp-pancreatitis]])
 
+---
+
 ## See Also
 
 [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[chronic-pancreatitis]], [[pancreas-divisum]], [[choledocholithiasis]], [[biliary-stricture]], [[jaundice]]
