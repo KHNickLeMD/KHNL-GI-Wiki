@@ -30,29 +30,29 @@ The guidance devotes substantial attention to [[liver-transplantation|liver tran
 
 ### AUD Screening and Biomarkers
 
-**GS-1:** "All patients receiving care in primary care and gastroenterology/hepatology outpatient clinics, emergency departments, and inpatient admissions should be screened routinely for alcohol use using validated questionnaires."
+- "All patients receiving care in primary care and gastroenterology/hepatology outpatient clinics, emergency departments, and inpatient admissions should be screened routinely for alcohol use using validated questionnaires."
 
-**GS-2:** "Brief intervention, pharmacotherapy, and referral to treatment should be offered to patients engaged in hazardous drinking (AUDIT-C ≥4, AUDIT >8, binge drinkers)."
+- "Brief intervention, pharmacotherapy, and referral to treatment should be offered to patients engaged in hazardous drinking (AUDIT-C ≥4, AUDIT >8, binge drinkers)."
 
-**GS-3:** "Alcohol biomarkers can be used to aid in diagnosis and support recovery. Urine and hair ethyl glucuronide, urine ethyl sulfate, and PEth are not affected by liver disease, and therefore are preferable."
+- "Alcohol biomarkers can be used to aid in diagnosis and support recovery. Urine and hair ethyl glucuronide, urine ethyl sulfate, and PEth are not affected by liver disease, and therefore are preferable."
 
 ### ALD Risk and Pathophysiology
 
-**GS-4:** "Patients without liver disease should be educated about safe levels of alcohol use for men (no more than two standard drinks per 24 hours) and women (no more than one standard drink per 24 hours)."
+- "Patients without liver disease should be educated about safe levels of alcohol use for men (no more than two standard drinks per 24 hours) and women (no more than one standard drink per 24 hours)."
 
-**GS-5:** "Patients with ALD or other liver diseases, in particular [[nafld-masld|NAFLD]], NASH, viral hepatitis, and [[hereditary-hemochromatosis|hemochromatosis]], should be counseled that there is no safe level of drinking, and that they should abstain."
+- "Patients with ALD or other liver diseases, in particular [[nafld-masld|NAFLD]], NASH, viral hepatitis, and [[hereditary-hemochromatosis|hemochromatosis]], should be counseled that there is no safe level of drinking, and that they should abstain."
 
 ### AUD Treatment
 
-**GS-6:** "Referral to AUD treatment professionals is recommended for patients with advanced ALD and/or AUD, to ensure access to the full range of AUD treatment options."
+- "Referral to AUD treatment professionals is recommended for patients with advanced ALD and/or AUD, to ensure access to the full range of AUD treatment options."
 
-**GS-7:** "Multidisciplinary, integrated management of ALD and AUD is recommended and improves rates of alcohol abstinence among patients with ALD."
+- "Multidisciplinary, integrated management of ALD and AUD is recommended and improves rates of alcohol abstinence among patients with ALD."
 
-**GS-8:** "Based on limited data, the use of acamprosate or baclofen can be considered for the treatment of AUD in patients with ALD."
+- "Based on limited data, the use of acamprosate or baclofen can be considered for the treatment of AUD in patients with ALD."
 
 ### Diagnosis of AH
 
-**GS-9:** "The diagnosis of AH (definite, probable, possible) should be made using the published consensus criteria (Fig. 2)."
+- "The diagnosis of AH (definite, probable, possible) should be made using the published consensus criteria (Fig. 2)."
 
 *Consensus clinical diagnosis criteria for AH (Fig. 2):*
 
@@ -76,13 +76,13 @@ The guidance devotes substantial attention to [[liver-transplantation|liver tran
 
 ### Assessing Prognosis in AH
 
-**GS-10:** "Lab-based prognostic scores should be used to determine prognosis in AH."
+- "Lab-based prognostic scores should be used to determine prognosis in AH."
 
-**GS-11:** "The MDF (≥32) should be used to assess the need for treatment with corticosteroids or other medical therapies."
+- "The MDF (≥32) should be used to assess the need for treatment with corticosteroids or other medical therapies."
 
-**GS-12:** "A MELD score greater than 20 also should prompt consideration of steroid treatment."
+- "A MELD score greater than 20 also should prompt consideration of steroid treatment."
 
-**GS-13:** "Abstinence from alcohol should be promoted to improve long-term prognosis in AH."
+- "Abstinence from alcohol should be promoted to improve long-term prognosis in AH."
 
 *Lab-based prognostic score characteristics (Table 7):*
 
@@ -96,17 +96,17 @@ The guidance devotes substantial attention to [[liver-transplantation|liver tran
 
 ### Treatment of AH
 
-**GS-14:** "Prednisolone (40 mg/day) given orally should be considered to improve 28-day mortality in patients with severe AH (MDF ≥32) without contraindications to the use of corticosteroids (Fig. 3)."
+- "Prednisolone (40 mg/day) given orally should be considered to improve 28-day mortality in patients with severe AH (MDF ≥32) without contraindications to the use of corticosteroids (Fig. 3)."
 
-**GS-15:** "The addition of intravenous NAC to prednisolone (40 mg/day) may improve the 30-day survival of patients with severe AH."
+- "The addition of intravenous NAC to prednisolone (40 mg/day) may improve the 30-day survival of patients with severe AH."
 
-**GS-16:** "The Lille score should be used to reassess prognosis, identify nonresponders, and guide treatment course after 7 days of corticosteroids."
+- "The Lille score should be used to reassess prognosis, identify nonresponders, and guide treatment course after 7 days of corticosteroids."
 
-**GS-17:** "Patients with AH should have malnutrition addressed and treated, preferably with enteral nutrition."
+- "Patients with AH should have malnutrition addressed and treated, preferably with enteral nutrition."
 
-**GS-18:** "Abstinence is key to long-term survival; methods discussed previously for treatment of AUDs should be used to increase abstinence."
+- "Abstinence is key to long-term survival; methods discussed previously for treatment of AUDs should be used to increase abstinence."
 
-**GS-19:** "Pentoxifylline is no longer recommended in the treatment of AH."
+- "Pentoxifylline is no longer recommended in the treatment of AH."
 
 *Treatment algorithm (Fig. 3) summary:*
 
@@ -120,11 +120,11 @@ The guidance devotes substantial attention to [[liver-transplantation|liver tran
 
 ### Liver Transplantation for ALD
 
-**GS-20:** "Patients with decompensated alcohol-associated cirrhosis, CPT class C or MELD-Na of at least 21 should be referred and considered for liver transplantation."
+- "Patients with decompensated alcohol-associated cirrhosis, CPT class C or MELD-Na of at least 21 should be referred and considered for liver transplantation."
 
-**GS-21:** "Candidate selection for liver transplantation in alcohol-associated cirrhosis should not be based solely on a fixed interval of abstinence."
+- "Candidate selection for liver transplantation in alcohol-associated cirrhosis should not be based solely on a fixed interval of abstinence."
 
-**GS-22:** "Liver transplantation may be considered in carefully selected patients with favorable psychosocial profiles in severe AH not responding to medical therapy."
+- "Liver transplantation may be considered in carefully selected patients with favorable psychosocial profiles in severe AH not responding to medical therapy."
 
 ---
 
