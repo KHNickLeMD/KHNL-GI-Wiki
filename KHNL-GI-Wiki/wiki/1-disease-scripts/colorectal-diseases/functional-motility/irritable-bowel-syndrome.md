@@ -1,10 +1,10 @@
 ---
 title: "Irritable Bowel Syndrome"
 category: disease-script
-tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, rifaximin, linaclotide, plecanatide, tca]
+tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, diet, fiber, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-09-08
-sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d, aga-2020-sibo]
+updated: 2026-09-12
+sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d, aga-2020-sibo, aga-2022-diet-ibs]
 ---
 
 ## Contents

@@ -3,8 +3,8 @@ title: "Primary Sclerosing Cholangitis"
 category: disease-script
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant, dominant-stricture, igg4, udca, mrcp, fish, liver-stiffness]
 created: 2026-05-19
-updated: 2026-09-06
-sources: [acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, baveno-viii-2026-portal-hypertension]
+updated: 2026-09-12
+sources: [acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, aga-2019-psc-cancer-surveillance, baveno-viii-2026-portal-hypertension]
 ---
 
 ## Assessment
@@ -328,4 +328,5 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 1. [[acg-2015-psc|ACG 2015 Clinical Guideline: Primary Sclerosing Cholangitis]]
 2. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
 3. [[aasld-2022-psc|AASLD 2022 Practice Guidance on Primary Sclerosing Cholangitis and Cholangiocarcinoma]]
-4. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+4. [[aga-2019-psc-cancer-surveillance|AGA Clinical Practice Update on Surveillance for Hepatobiliary Cancers in Patients With Primary Sclerosing Cholangitis: Expert Review (2019)]]
+5. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
