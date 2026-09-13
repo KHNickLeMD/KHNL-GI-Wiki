@@ -29,7 +29,7 @@ Villous atrophy on duodenal or jejunal biopsy **with negative celiac serology** 
 
 ## Definition / Scope
 
-| Term | Definition ([[aga-2021-seronegative-enteropathies|AGA 2021]]) |
+| Term | Definition ([[aga-2021-seronegative-enteropathies\|AGA 2021]]) |
 |---|---|
 | **Seronegative enteropathy** | Some degree of villous atrophy **and** negative tTG, DGP, and anti-EMA |
 | **Seronegative celiac disease** | With or without GI signs/symptoms, **villous atrophy + compatible HLA genetics**, **negative** IgA/IgG tTG, IgA/IgG DGP and IgA/IgG EMA, **clinical and histologic response to a gluten-free diet (GFD)**, other etiologies examined |
