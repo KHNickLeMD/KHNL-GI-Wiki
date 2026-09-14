@@ -6,6 +6,33 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-14] lint | Third consecutive cron-provenance failure — six unattended passes ingested 9 tier-1 sources and created 4 pages, wrote zero log entries, and left all 13 absent from the index
+
+**The finding that mattered — the recording failure is now chronic, and it is getting bigger each time.**
+
+The 2026-09-07 entry below flagged unattended-cron provenance as "a standing check" after two passes ran silently. It happened again, at four times the scale. Between 2026-09-09 and 2026-09-14 **six scheduled lint passes** (`6d1550b`, `ca17020`, `9b0abd0`, `3eb0b68`, `e8b4cdf`, `e9e5bfb`, plus two no-op passes `77d9f57`/`5c6c734`) ingested **9 tier-1 AGA/IOIBD sources**, created **4 substantial entity pages**, and rewrote [[aga-acg-2023-constipation]] — **~2,085 inserted lines**. Not one appended to this log. **All 13 new pages had zero entries in `index.md`**, which is the catalog the website renders — so the content existed on disk and was invisible to every reader and to the next pass.
+
+**The work itself audited well.** Spot-checking the new source pages found the discipline the recent fidelity passes were meant to instill: BPAs reproduced verbatim with the source's own numbering, and explicit *"Ungraded — the source attaches no evidence grade or strength to any statement"* notices rather than invented GRADE schemes. [[ioibd-2021-stride-ii]] goes further and warns that its two numeric columns are **mean agreement scores (1–10) and % votes 7–10, not GRADE strength and not certainty of evidence** — exactly the distinction that the fabricated-grades incidents turned on. The failure here is provenance and discoverability, not fidelity.
+
+**Backfilled to the index this pass (13 entries):**
+
+- **AGA sources (8):** [[aga-2022-personalized-gerd]], [[aga-2020-functional-heartburn]], [[aga-2018-extraesophageal-gerd]], [[aga-2022-diet-ibs]], [[aga-2019-celiac-monitoring]], [[aga-2021-seronegative-enteropathies]], [[aga-2017-severe-alcoholic-hepatitis]], [[aga-2019-psc-cancer-surveillance]].
+- **Other sources (1):** [[ioibd-2021-stride-ii]].
+- **Entity pages (4):** [[functional-heartburn]] (esophageal disease script), [[seronegative-villous-atrophy]] (diagnostic schema), [[treat-to-target-ibd]] and [[low-fodmap-diet]] (concepts).
+
+**The orphan the silence produced.** [[aga-2017-severe-alcoholic-hepatitis]] was the wiki's **only orphan** — 180 lines, 0 inbound links. On this wiki that reliably means the content never reached an entity page, and it was true here: the source page links to `[[alcohol-associated-hepatitis]]`, which **did not exist**. That was coverage-gap queue item #21, and the silent 2026-09-12 ingest had quietly unblocked it with a fourth source without anyone noticing. Filled this pass (see below), which closes the orphan and two broken links together.
+
+**Whole-wiki hygiene verified clean:** 578 pages; **0 stubs**, **0 `.DS_Store`**, **0 unescaped alias pipes** in tables, and after this pass **0 orphans**. Broken links were **4 real instances**, not the 1,107 a naive scan reports — an audit regex that does not strip the trailing backslash of an escaped alias pipe (`[[slug\|Alias]]`) reports every correctly-escaped table link as broken. The 4 real ones were `[[alcohol-associated-hepatitis]]` (×1) and `[[corticosteroids-ibd]]` from both [[crohns-disease]] and [[ulcerative-colitis]] (×2); the remainder live in `log.md` example text and are not links.
+
+**Inbox sync:** no new raw files. Every subfolder matches the 2026-09-09 audited baseline exactly (AASLD 35, ACG 61, AFS 2, AGA 175, APA 1, ASGE 50, EASL 2, NCCN 7, Other 19, SAGES 3, USPG 1, Lectures 60, Other Studies 5, RCTs 10 — **431** non-asset files). Nothing to commit from `raw/`. The count-vs-baseline method is still the only one that works; `git status` and `find -newermt` both miss new arrivals.
+
+**For user triage:**
+
+- **The cron needs to write its own log entry and index rows, or this recurs.** Three consecutive occurrences, growing from 2 passes to 6. The durable fix is in the scheduled task's prompt, not in another backfill.
+- The gated lecture/chalk-talk corpus (**60 transcripts**) is untouched and still awaits Nick naming which to ingest.
+
+---
+
 ## [2026-09-08] lint | Maintainer notes removed from every public page — 315 pages rewritten; gap list moved to needed-sources.md
 
 **Nick's instruction (from the [[irritable-bowel-syndrome]] severity section):** pages must not contain instructions to the wiki agent — *"Do not reconstruct them from memory"*, *"the Drossman and Francis papers would be needed to add the scoring"*, "flagged, not filled", "not in any ingested source", "corpus-blocked", tool talk (`pdftotext`, PyMuPDF, text layer, `raw/` paths), flag dates. That belongs in this log, in decisions, and on non-public pages. Pages may keep a list of resources Nick can download.

@@ -3,7 +3,7 @@ title: "AASLD Practice Guidance on Autoimmune Hepatitis (2020)"
 category: source
 tags: [aih, autoimmune-hepatitis, immunosuppression, azathioprine, budesonide, mycophenolate-mofetil, tacrolimus, overlap-syndrome, pbc, psc, pregnancy, liver-transplant]
 created: 2026-05-25
-updated: 2026-05-28
+updated: 2026-09-14
 sources: []
 ---
 

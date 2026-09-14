@@ -4,7 +4,7 @@ category: concept
 tags: [hcc, hepatocellular-carcinoma, surveillance, cirrhosis, hepatitis-b, biomarker, afp, galad]
 created: 2026-06-01
 updated: 2026-09-05
-sources: [aga-2026-hcc-surveillance, aasld-2023-hcc, aasld-idsa-2025-chb-treatment]
+sources: [aga-2026-hcc-surveillance, aasld-2023-hcc, aasld-idsa-2025-chb-treatment, aga-2020-hcc-screening-nafld]
 ---
 
 Framework for hepatocellular carcinoma surveillance — who, how, how often, and emerging tools. **This page is the single home for the surveillance-indication table**; other pages link here rather than reproducing it. For tumor diagnosis/staging/treatment see [[hepatocellular-carcinoma]]; for imaging classification see [[li-rads]]; for the post-abnormal-test recall algorithm see [[hepatocellular-carcinoma]] → *Surveillance Recall Algorithm*.
