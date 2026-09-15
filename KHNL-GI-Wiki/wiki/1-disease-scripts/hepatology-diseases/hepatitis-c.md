@@ -3,8 +3,8 @@ title: "Hepatitis C"
 category: disease-script
 tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, cirrhosis, HCC, SVR, glecaprevir, pibrentasvir, sofosbuvir, velpatasvir, fibrosis, liver, antiviral, screening]
 created: 2026-05-28
-updated: 2026-09-06
-sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1, aga-2025-hbv-reactivation]
+updated: 2026-09-15
+sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1, aga-2025-hbv-reactivation, aga-2019-daa-hcc]
 ---
 
 ## Assessment
@@ -132,6 +132,15 @@ Before initiating:
 - No laboratory monitoring required for other patients (simplified algorithm)
 - In-person, telehealth, or phone visit may be scheduled for support or symptom assessment
 
+### Timing When HCC Is Present or Treated
+
+*Full data and the class-level summary: [[direct-acting-antivirals]] → DAAs and HCC. ([[aga-2019-daa-hcc]])*
+
+- **Before starting DAAs in advanced fibrosis (F3) or cirrhosis:** obtain **surveillance imaging** to exclude prevalent [[hepatocellular-carcinoma|HCC]] — the early reports of post-DAA HCC are attributed largely to cancers already present and missed.
+- **Active HCC eligible for resection or ablation → defer DAA** until HCC treatment is completed. Active HCC also lowers SVR (adjusted OR 0.38, 95% CI 0.29–0.48).
+- **After complete response to HCC therapy → do not withhold DAA**, but defer **4–6 months** to confirm durable response.
+- **Listed for [[liver-transplantation|transplant]] with HCC:** timing individualised on regional wait times, availability of HCV-positive organs, and degree of liver dysfunction.
+
 ### Retreatment
 
 **Sofosbuvir-based regimen failure:**
@@ -187,6 +196,8 @@ For recurrent HCV post liver or kidney transplantation:
 
 **Post-SVR liver improvement:** Cirrhosis regression documented histologically and by decreased liver stiffness in long-term follow-up. However, HCC risk remains elevated (though reduced ~75%) — surveillance indefinite for those who were cirrhotic.
 
+**Why surveillance continues despite cure** ([[aga-2019-daa-hcc]]): SVR cuts incident HCC ~**70%**, but residual absolute risk is **~0.90%/y** overall and **1.8–2.5%/y** with cirrhosis — at or above the **0.8–1.5%/y** threshold that makes surveillance cost-effective. Risk falls only modestly with time (cirrhosis: 2.27%/y in year 1 → 1.73%/y in year 2). Highest risk after SVR is **Child-Turcotte-Pugh class B cirrhosis — 3.6–7.8% in the first year**. Patients with a **prior treated HCC** are surveyed with CT/MRI rather than ultrasound — see [[hcc-surveillance]].
+
 ---
 
 ## See Also
@@ -200,3 +211,4 @@ For recurrent HCV post liver or kidney transplantation:
 1. [[aasld-idsa-2023-hcv|AASLD-IDSA 2023 Hepatitis C Guidance Update]]
 2. [[aasld-idsa-2011-hcv-genotype1|AASLD 2011: Treatment of Genotype 1 Chronic HCV (historical — boceprevir/telaprevir era)]]
 3. [[aga-2025-hbv-reactivation|AGA Clinical Practice Guideline: Prevention and Treatment of HBV Reactivation (2025)]]
+4. [[aga-2019-daa-hcc|AGA Clinical Practice Update on Interaction Between Oral Direct-Acting Antivirals for Chronic Hepatitis C Infection and Hepatocellular Carcinoma: Expert Review (2019)]]

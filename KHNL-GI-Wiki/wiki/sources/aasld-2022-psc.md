@@ -3,7 +3,7 @@ title: "AASLD 2022 Practice Guidance on Primary Sclerosing Cholangitis and Chola
 category: source
 tags: [psc, cholangiocarcinoma, biliary, ibd, liver-transplant, dominant-stricture, igg4, udca, fish, mrcp]
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-09-15
 sources: []
 ---
 
@@ -69,9 +69,10 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 ### Prognostic Models (Table 3)
 
 - **Amsterdam-Oxford 2017:** Variables include age, bilirubin, albumin, AST, ALP, platelets, PSC subtype; endpoint = LT or liver-related death by 15 years; threshold ≥1.58 = higher risk (<https://sorted.co/psc-calculator/>)
-- **UK-PSC 2019:** Similar biochemical variables; short-term (2y) and long-term (10y) death or LT; threshold ≥1.46 = higher risk (<http://www.uk-psc.com>)
-- **PRESTo 2020:** Predicts hepatic decompensation by 5 years; threshold ≥20% = higher risk (rtools.mayo.edu/PRESTO_calculator/)
-- **SCOPE 2020:** Pediatric model; bilirubin, albumin, platelets, GGT, cholangiography subtype; [[portal-hypertension|portal hypertensive]] complications, CCA, LT listing, or death by 5 years (Scopeindex.net)
+- **UK-PSC 2019:** Age, bilirubin, albumin, ALP, platelets, presence of extrahepatic biliary disease, history of variceal hemorrhage; short-term (death or LT by 2y) and long-term (death or LT by 10y); threshold ≥1.46 = higher risk (<http://www.uk-psc.com>)
+- **PREsTo 2020:** Age, bilirubin, albumin, AST, ALP, platelets, hemoglobin, sodium, years since PSC diagnosis; predicts hepatic decompensation (ascites, variceal hemorrhage, encephalopathy) by 5 years; threshold ≥20% = higher risk (rtools.mayo.edu/PRESTO_calculator/)
+- **SCOPE 2020:** Pediatric model; bilirubin, albumin, platelets, GGT, cholangiography subtype; [[portal-hypertension|portal hypertensive]] complications, biliary complications, CCA, LT listing, or death from liver disease by 5 years; threshold 0–5 = lower risk, 6–11 = higher risk (Scopeindex.net)
+- Lower-risk cutoffs were set to identify ~10% or lower risk of transplant or death within 5 years. PREsTo reported no cutoff of its own; the 20% decompensation threshold is an approximation of that same ~10% transplant-or-death risk.
 - ALP persistently <1.5× ULN = better prognosis in adults; GGT <50 U/L = better prognosis in children
 
 ### Fibrosis Staging
@@ -347,4 +348,10 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 
 ## See Also
 
-[[primary-sclerosing-cholangitis]], [[cholangiocarcinoma]], [[liver-transplantation]], [[ercp]], [[ulcerative-colitis]], [[crohns-disease]]
+[[primary-sclerosing-cholangitis]], [[cholangiocarcinoma]], [[liver-transplantation]], [[ercp]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[biliary-stricture]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[colorectal-cancer]], [[hepatocellular-carcinoma]], [[portal-hypertension]], [[colonoscopy]], [[endoscopic-ultrasound]], [[upper-endoscopy]]
+
+---
+
+## Sources
+
+1. [[aasld-2022-psc|AASLD 2022 Practice Guidance on Primary Sclerosing Cholangitis and Cholangiocarcinoma]]

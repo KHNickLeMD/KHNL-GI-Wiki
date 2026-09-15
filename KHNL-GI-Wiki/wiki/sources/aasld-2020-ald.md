@@ -3,7 +3,7 @@ title: "AASLD 2019/2020 Practice Guidance: Diagnosis and Treatment of Alcohol-As
 category: source
 tags: [ald, alcoholic-hepatitis, corticosteroids, prednisolone, lille-score, mdf, meld, nac, liver-transplant, aud, baclofen, acamprosate, pentoxifylline, hpb]
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-09-15
 sources: []
 ---
 
@@ -161,3 +161,15 @@ The guidance devotes substantial attention to [[liver-transplantation|liver tran
 - **GAHS is not validated outside the United Kingdom** — the guidance notes this limitation explicitly.
 - **Day-4 Lille score:** Promising but requires additional validation before replacing day-7 cutoff.
 - **G-CSF and fecal microbiota transplantation:** Small pilot studies only; not recommended for routine use pending larger validation studies outside Asia.
+
+---
+
+## See Also
+
+[[alcohol-associated-liver-disease]], [[alcohol-associated-hepatitis]], [[cirrhosis]], [[liver-transplantation]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[acute-on-chronic-liver-failure]], [[nutrition-in-liver-disease]]
+
+---
+
+## Sources
+
+1. [[aasld-2020-ald|AASLD 2019/2020 Practice Guidance: Diagnosis and Treatment of Alcohol-Associated Liver Diseases]]

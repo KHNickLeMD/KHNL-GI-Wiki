@@ -3,7 +3,7 @@ title: "AASLD 2023 Practice Guidance on Prevention, Diagnosis, and Treatment of 
 category: source
 tags: [hcc, hepatocellular-carcinoma, bclc, surveillance, li-rads, tace, tare, sorafenib, lenvatinib, atezolizumab, bevacizumab, durvalumab, tremelimumab, liver-transplant, milan, downstaging, ablation, resection, adjuvant, systemic-therapy, aasld, hpb]
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-09-15
 sources: []
 ---
 
@@ -178,7 +178,7 @@ Background: IMbrave050 (at original first interim analysis, median f/u 17.4 mont
 
 - **GS 33:** Liver transplantation should be the treatment of choice for transplant-eligible patients with early-stage HCC occurring in the setting of CSPH and/or decompensated cirrhosis (**Level 2, Strong Recommendation**).
   - **GS 33a:** LT should be the treatment of choice for transplant-eligible patients with HCC that recur within Milan criteria after surgical resection (**Level 3, Strong Recommendation**).
-- **GS 34:** AASLD advises use of pre-transplant locoregional bridging therapy for patients being evaluated or listed for LT, if they have adequate hepatic reserve (**Level 3, Strong Recommendation**).
+- **GS 34:** AASLD advises the use of pre-transplant locoregional bridging therapy for patients being evaluated or listed for LT, if they have adequate hepatic reserve, **to reduce the risk of waitlist dropout in the context of anticipated prolonged wait times for transplant** (**Level 3, Strong Recommendation**).
   - **GS 34a:** AASLD does not advise one LRT over another for bridging (**Level 3, Weak Recommendation**).
   - **GS 34b:** AASLD does not recommend routine use of systemic therapy as bridging therapy; however, its use does not preclude LT eligibility (**Level 5, Weak Recommendation**).
   - If patients receive ICIs prior to LT: discontinue at least 3 months prior to LT.
@@ -352,4 +352,11 @@ This source updates [[hepatocellular-carcinoma]] with:
 
 ## See Also
 
-[[aasld-2025-hcc-critical-update]], [[hepatocellular-carcinoma]]
+[[hepatocellular-carcinoma]], [[hcc-surveillance]], [[cirrhosis]], [[liver-transplantation]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[li-rads]], [[upper-endoscopy]]
+
+---
+
+## Sources
+
+1. [[aasld-2023-hcc|AASLD 2023 Practice Guidance on Prevention, Diagnosis, and Treatment of Hepatocellular Carcinoma]]
+2. [[aasld-2025-hcc-critical-update|AASLD 2025 Critical Update: Hepatocellular Carcinoma]]
