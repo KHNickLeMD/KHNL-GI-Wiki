@@ -3,11 +3,11 @@ title: "Confocal Laser Endomicroscopy"
 category: concept
 tags: [confocal-laser-endomicroscopy, cle, pcle, biliary-stricture, cholangiocarcinoma, optical-biopsy]
 created: 2026-06-04
-updated: 2026-08-26
+updated: 2026-09-15
 sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-strictures]
 ---
 
-**Confocal laser endomicroscopy (CLE)** provides real-time microscopic imaging of the duct wall — an "optical biopsy." In the biliary tree it is performed as **probe-based CLE (pCLE)**, with the probe passed through the working channel and introduced into the bile duct during [[ercp|ERCP]] (or via [[cholangioscopy]]), to distinguish inflammatory from malignant [[biliary-stricture|biliary strictures]].
+**Confocal laser endomicroscopy (CLE)** provides real-time microscopic imaging of the duct wall — an "optical biopsy." In the biliary tree it is performed as **probe-based CLE (pCLE)** — a thin confocal laser probe inserted through the working channel of the duodenoscope and introduced into the bile duct during [[ercp|ERCP]] — to distinguish inflammatory from malignant [[biliary-stricture|biliary strictures]] on the basis of 2 validated classification systems.
 
 ## Interpretation — the two validated classifications
 

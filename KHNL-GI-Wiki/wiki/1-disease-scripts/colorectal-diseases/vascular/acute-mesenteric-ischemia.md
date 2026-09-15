@@ -3,11 +3,9 @@ title: "Acute Mesenteric Ischemia"
 category: disease-script
 tags: [acute-mesenteric-ischemia, ami, mesenteric-vein-thrombosis, mvt, small-bowel, vascular-lesion, anticoagulation]
 created: 2026-06-01
-updated: 2026-08-27
+updated: 2026-09-15
 sources: [acg-2015-colon-ischemia, acg-2020-hepatic-mesenteric-circulation]
 ---
-
-> **Partial page.** This page covers **mesenteric *vein* thrombosis (MVT)** ([[acg-2020-hepatic-mesenteric-circulation]]) and the **AMI-vs-colon-ischemia distinction** ([[acg-2015-colon-ischemia]]). Neither is a dedicated AMI guideline: **arterial AMI** (SMA embolism, SMA thrombosis, nonocclusive mesenteric ischemia) — its diagnostic criteria, revascularization approach, and outcomes — is not covered here; consult a dedicated AMI guideline.
 
 ## Contents
 - [[#Assessment]]
