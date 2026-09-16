@@ -3,7 +3,7 @@ title: "Pancreatic Ductal Adenocarcinoma (Pancreatic Cancer)"
 category: disease-script
 tags: [pancreatic-cancer, pdac, oncology, screening, genetics, brca, eus, hpb]
 created: 2026-06-04
-updated: 2026-09-05
+updated: 2026-09-16
 sources: [jeurnink-2010-sustent-goo, kastelijn-2023-enduro-protocol, asge-2022-pancreatic-cancer-screening, asge-2024-solid-pancreatic-masses, asge-2016-solid-pancreatic-neoplasia, acg-2018-pancreatic-cysts, acg-2015-hereditary-gi-cancer]
 ---
 
@@ -65,7 +65,7 @@ TNM staging of pancreatic adenocarcinoma (AJCC 7th ed., as reproduced in [[asge-
 | IV | Any T | Any N | M1 |
 
 - **The single arterial criterion that defines an unresectable primary in this system is celiac-axis or SMA involvement (T4).**
-- **Borderline-resectable criteria are not given here.** The degree-of-contact definitions that separate *resectable* from *borderline-resectable* from *locally advanced* (e.g. ≤180° vs >180° tumor–vessel contact with SMA/celiac axis/common hepatic artery, and SMV–portal vein contact with or without reconstructable involvement) are not stated in ASGE 2016; take them from the NCCN Pancreatic Adenocarcinoma guideline. See also the venous-invasion caveat: CT stages resectability by detecting tumor extension, liver metastases, and **invasion of vascular structures**, but ASGE 2016 gives no numeric contact thresholds.
+- **Borderline-resectable disease is not defined by this system.** ASGE 2016 stages resectability on CT by tumor extension, liver metastases, and **invasion of vascular structures**, but gives no degree-of-contact thresholds — so the split between *resectable*, *borderline-resectable*, and *locally advanced* cannot be made from this page. Use the NCCN Pancreatic Adenocarcinoma guideline for those definitions.
 - **Version caveat:** the table above is AJCC **7th** edition. Whether and how the 8th edition changed pancreatic T definitions is not covered here.
 
 ### Risk Stratification / Genetic Susceptibility

@@ -49,6 +49,7 @@ Surveillance is targeted to those who **would be candidates for HCC treatment** 
 | Population | Annual HCC incidence | Statement |
 |---|---|---|
 | [[hepatitis-c\|HCV]] with **stage 3 fibrosis**, no cirrhosis — including post-SVR advanced fibrosis | <0.2%/y | GS 8, Level 3, Weak — *against* routine surveillance |
+| *(reversed position)* — [[aga-2017-care-after-svr-hcv]] BPA 4 advised twice-yearly imaging ± AFP indefinitely for **stage 3 fibrosis or cirrhosis** post-SVR, extending the cirrhosis rule to F3. The 2026 update withdraws it for F3 without cirrhosis. Follow the 2026 position; the change is the decision. | — | superseded |
 | **Non-cirrhotic [[nafld-masld\|NAFLD/MASLD]]**, including advanced fibrosis without cirrhosis | <0.2%/y (0.008 per 100 person-years in non-cirrhotic NAFLD) | GS 9, Level 3, Weak — *against* routine surveillance |
 | Child-Pugh C cirrhosis **not** eligible for transplant | — | GS 7a, Level 3, Strong — competing risk of liver-related mortality |
 | **Life-limiting comorbidity** — life expectancy **<1–2 years** that cannot be remedied by transplant or other directed therapy | — | GS 7c, Level 5, Strong |

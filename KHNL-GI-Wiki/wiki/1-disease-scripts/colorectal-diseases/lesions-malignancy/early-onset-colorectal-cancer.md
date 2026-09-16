@@ -3,7 +3,7 @@ title: "Early-Onset (Young Adult–Onset) Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, early-onset-crc, young-onset-crc, germline-testing, lynch-syndrome, msi, mmr, fertility-preservation, survivorship]
 created: 2026-09-07
-updated: 2026-09-08
+updated: 2026-09-16
 sources: [aga-2020-young-adult-onset-crc]
 ---
 
@@ -30,7 +30,7 @@ sources: [aga-2020-young-adult-onset-crc]
   - [[#Incidence]]
   - [[#Racial and Ethnic Differences]]
   - [[#Risk Factors]]
-- [[#Text-Extraction Caveats]]
+- [[#Operator Caveats]]
 - [[#See Also]]
 - [[#Sources]]
 

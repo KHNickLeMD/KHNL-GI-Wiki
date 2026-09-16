@@ -3,7 +3,7 @@ title: "Extraesophageal Reflux (EER)"
 category: diagnostic-schema
 tags: [gerd, extraesophageal-reflux, eer, lpr, chronic-cough, asthma, laryngitis, dental-erosions, ppi, reflux-testing, foregut]
 created: 2026-07-23
-updated: 2026-09-10
+updated: 2026-09-16
 sources: [aga-2023-extraesophageal-gerd, aga-2018-extraesophageal-gerd, acg-2021-gerd]
 ---
 
@@ -71,7 +71,7 @@ AGA 2018 also stratified persistent symptoms by BMI >25 vs <25 as a pretest-prob
 
 | Test | Role in EER |
 |---|---|
-| Upper endoscopy (EGD) | Erosive esophagitis (LA grade — ⚠ **criteria not yet transcribed**, see below), [[barretts-esophagus\|Barrett's]], [[hiatal-hernia\|hiatal hernia]]; a conclusive GERD sign supports (not proves) reflux causation |
+| [[upper-endoscopy\|Upper endoscopy (EGD)]] | Erosive esophagitis ([[reflux-testing\|LA grade]]), [[barretts-esophagus\|Barrett's]], [[hiatal-hernia\|hiatal hernia]]; a conclusive GERD sign supports (not proves) reflux causation |
 | Ambulatory reflux monitoring (pH or pH-impedance), **off** PPI | Establish/exclude pathologic reflux when GERD unproven; AET thresholds per [[ambulatory-reflux-monitoring\|Lyon 2.0]] (>6% proven, <4% excludes) |
 | pH-impedance **on** PPI | Established GERD with persistent symptoms — quantify ongoing acid/non-acid reflux (BPA 8) |
 | Laryngoscopy (via ENT) | Mandatory to exclude non-reflux laryngeal pathology in laryngeal EER — see [[laryngopharyngeal-symptoms]] |
@@ -95,7 +95,7 @@ Barium esophagography has no role here — its utility is limited to [[dysphagia
 
 **Threshold gap — proximal reflux.** pH-impedance can count proximal reflux episodes, but there is **no well-established threshold** defining clinically relevant "pathologic" proximal reflux, so proximal event counts cannot be used as a diagnostic cutoff (AGA 2023).
 
-> The **Los Angeles grade A–D mucosal-break criteria** that the EGD row (and the "conclusive GERD evidence" logic behind it) turns on are used but not printed by the GERD sources; they are printed only as figures ([[acg-2025-egd-quality|ACG/ASGE 2025]] Figure 2, "Los Angeles classification scheme for erosive esophagitis"; [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2). The LA-grade entry lives on [[reflux-testing]].
+The GERD guidelines use the **Los Angeles grade A–D mucosal-break criteria** without printing them; they appear only as figures ([[acg-2025-egd-quality|ACG/ASGE 2025]] Figure 2, "Los Angeles classification scheme for erosive esophagitis"; [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2). See [[reflux-testing]] for the LA grade.
 
 ## Red Flags / Alarm Features
 
