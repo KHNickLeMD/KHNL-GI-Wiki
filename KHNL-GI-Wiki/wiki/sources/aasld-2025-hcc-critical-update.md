@@ -3,7 +3,7 @@ title: "AASLD 2025 Critical Update: Practice Guidance on Prevention, Diagnosis, 
 category: source
 tags: [hcc, hepatocellular-carcinoma, adjuvant, neoadjuvant, immunotherapy, atezolizumab, bevacizumab, imbrave050, resection, ablation, aasld]
 created: 2026-05-25
-updated: 2026-05-28
+updated: 2026-09-17
 sources: []
 ---
 
@@ -31,8 +31,10 @@ The update also provides methodological context: the reversal from positive to n
 - The RFS benefit of adjuvant atezolizumab+bevacizumab seen at the first interim analysis of IMbrave050 was **not sustained** at the second interim analysis (HR=0.90, 95% CI: 0.72–1.12).
 - Overall survival remained non-significant and immature at both interim analyses; >80% alive in both arms at 2 years (OS HR=1.26, 95% CI: 0.85–1.87).
 - Subgroup analysis of RFS and OS were consistent across subgroups; no new safety concerns noted.
-- Adjuvant sorafenib (STORM trial) also failed to improve RFS (HR=0.94, 95% CI: 0.78–1.13).
-- Preoperative TACE in patients with large resectable HCC does not improve RFS and may increase risk of interval tumor progression.
+- Median duration of atezolizumab+bevacizumab treatment 11 months; 34.9% of patients had grade 3–4 treatment-related adverse events.
+- Adjuvant sorafenib (STORM trial) also failed to improve RFS vs placebo (HR=0.94, 95% CI: 0.78–1.13).
+- Preoperative TACE in patients with large resectable HCC does not improve RFS and may increase risk of interval tumor progression, precluding surgical resectability.
+- Recurrence is a major complication in 40% of patients at 3 years — the reason RFS has been the accepted adjuvant-trial primary endpoint.
 - [[hepatitis-c|HCV]] eradication with [[direct-acting-antivirals|direct-acting antivirals]] does not increase risk of HCC recurrence and improves survival (confirmed by two large multicenter studies).
 - Current data do **not** support neoadjuvant systemic therapy before surgical resection.
 - Proof-of-principle neoadjuvant data exist (cabozantinib+nivolumab: 80% margin-negative resection, 42% major pathologic response in 15 patients; nivolumab±ipilimumab: 30% major pathologic response in 20 patients), but these are early-phase, single-arm/single-center studies.
@@ -43,15 +45,32 @@ The update also provides methodological context: the reversal from positive to n
 
 ## Recommendations
 
-| Recommendation | Strength | Evidence Quality |
-|---|---|---|
-| **Guidance Statement 32 (Revised)**: AASLD advises against the use of adjuvant and neoadjuvant systemic therapies in patients undergoing liver resection/local ablation. | Strong Recommendation | Level 1 |
-| Current data do not support the use of neoadjuvant systemic therapies in patients with HCC undergoing surgical resection. | (Contextual statement, no explicit grade assigned) | — |
-| Surveillance remains the current standard of care for management after resection/local ablation with the intention of cure. | (Contextual statement, reaffirmed from 2023 guidance) | — |
-| (Neo)adjuvant therapies should be considered only in the context of a clinical trial. | (Contextual conclusion statement) | — |
-| Patients with postsurgical recurrence within Milan Criteria: salvage liver transplantation recommended for eligible patients. | (Contextual management statement) | — |
-| Patients with liver-localized recurrence beyond Milan Criteria: treat with liver-directed therapy, with consideration of liver transplantation in those successfully downstaged. | (Contextual management statement) | — |
-| Patients with vascular invasion, extrahepatic spread, or TACE-unsuitable disease: should be considered for systemic therapy. | (Contextual management statement) | — |
+The update carries **one** guidance statement — the revised Guidance Statement 32. It is the only graded statement in the document; the rest of the update is revised narrative text and the revised Figure 11, neither of which is graded.
+
+> **Guidance statement 32 (Revised).** AASLD advises against the use of adjuvant and neoadjuvant systemic therapies in patients undergoing liver resection/local ablation **(Level 1, Strong Recommendation)**.
+
+Ungraded statements carried in the revised narrative text:
+
+- Current data do not support the use of neoadjuvant systemic therapies in patients with HCC undergoing surgical resection.
+- Surveillance remains the current standard of care for management after resection/local ablation with the intention of cure, even in patients at high risk of recurrence.
+- (Neo)adjuvant therapies should be considered only in the context of a clinical trial.
+- There are currently no FDA-approved (neo)adjuvant therapies for HCC.
+
+### Figure 11 (Revised) — management of recurrence after complete response to resection or local ablation
+
+```mermaid
+flowchart LR
+    A["Surgical resection or<br/>local ablation with<br/>complete response"] --> B["Recurrence<br/>within Milan"]
+    A --> C["Liver-localized<br/>recurrence within<br/>downstaging criteria"]
+    A --> D["Recurrence with<br/>vascular invasion,<br/>extrahepatic spread,<br/>or unsuitable for LRT"]
+    B --> E["Salvage liver<br/>transplantation"]
+    C --> F["Liver-directed<br/>therapy"]
+    D --> G["First-line systemic<br/>therapy"]
+    F -.->|"Downstaged"| E
+    F -.->|"Progression"| G
+```
+
+*Figure 11 (Revised) — management of patients with recurrence after complete response to resection or local ablation. LRT = locoregional therapy. ([[aasld-2025-hcc-critical-update]])*
 
 ## Relevance to Wiki
 

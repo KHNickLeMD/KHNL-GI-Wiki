@@ -3,8 +3,8 @@ title: "Hemostasis in Cirrhosis"
 category: concept
 tags: [cirrhosis, coagulopathy, hemostasis, inr, platelets, ffp, teg, rotem, pvt, anticoagulation]
 created: 2026-05-21
-updated: 2026-09-05
-sources: [acg-2020-hepatic-mesenteric-circulation, aga-2021-cirrhosis-coagulation]
+updated: 2026-09-17
+sources: [acg-2020-hepatic-mesenteric-circulation, aga-2021-cirrhosis-coagulation, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
 ---
 
 ## Overview
@@ -74,6 +74,19 @@ Cirrhotic patients are paradoxically prone to venous thromboembolism [[acg-2020-
 - [[anticoagulation-gi-bleeding|Anticoagulation]] is safe and effective in cirrhosis; does not increase major bleeding rates in most studies
 - See [[portal-vein-thrombosis]] for management
 
+**What "safe" means quantitatively — the bleeding it does and does not cause.** Double-blind randomised data in **Child-Pugh 7–10** cirrhosis (rivaroxaban 10 mg/day vs placebo, 24 months) [[puente-2025-cirroxaban-rivaroxaban-cirrhosis]]:
+
+| Outcome | Rivaroxaban 10 mg/d | Placebo | Effect |
+|---|---|---|---|
+| Non-portal-hypertensive bleeding (any) | 36.6% | 14.3% | **RR 2.56 (95% CI 1.16–5.67)** |
+| Non-PHT **major** bleeding | 6 patients | 4 patients | no significant difference |
+| Fatal bleeding | 0 | 1 | — |
+| Hepatotoxicity | 2 | 4 | RR 0.60 (0.12–3.10) |
+
+- **The excess is minor bleeding, not major bleeding** — the distinction that makes anticoagulation tolerable in this population.
+- **Liver function grades the risk.** At Child-Pugh 7 the arms did not separate (9 events in 6 rivaroxaban patients vs 7 events in 6 placebo patients); at **Child-Pugh ≥8**, 14 events in 9 rivaroxaban patients vs 1 event in 1 placebo patient.
+- **Bleeding tracks drug exposure, benefit does not.** Anti-Xa-estimated rivaroxaban levels were **119 ng/mL (range 62–307)** in patients who bled vs **41 ng/mL (21–85)** in those who did not (AUC 0.823; optimal cut-off **118 ng/mL**), while levels were no different between patients who did and did not reach the efficacy endpoint. Levels correlate weakly with Child-Pugh score (r = 0.342) — a fixed dose produces higher exposure as liver function worsens.
+
 ---
 
 ## See Also
@@ -86,3 +99,4 @@ Cirrhotic patients are paradoxically prone to venous thromboembolism [[acg-2020-
 
 1. [[acg-2020-hepatic-mesenteric-circulation|ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation]]
 2. [[aga-2021-cirrhosis-coagulation|AGA Clinical Practice Guideline: Coagulation Disorders in Cirrhosis (2021)]]
+3. [[puente-2025-cirroxaban-rivaroxaban-cirrhosis|Rivaroxaban to prevent complications of portal hypertension in cirrhosis: The CIRROXABAN study (2025)]]

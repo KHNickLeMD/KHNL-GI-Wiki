@@ -101,7 +101,7 @@ Four scenarios, by what the prior endoscopy showed:
 - [[direct-acting-antivirals]] — what happens after cure; late-relapse rates; DAA not withheld after locoregional HCC therapy.
 - [[hcc-surveillance]] — the post-SVR indication and its fibrosis-stage threshold; the explicit prohibition on intensifying or de-escalating by elastography.
 - [[hepatocellular-carcinoma]] — post-SVR de novo and recurrent HCC risk.
-- [[esophageal-varices]] / [[portal-hypertension]] — the four-scenario post-SVR variceal surveillance schedule; the non-endorsement of Baveno VI criteria post-SVR.
+- [[variceal-upper-gi-bleeding]] / [[portal-hypertension]] — the four-scenario post-SVR variceal surveillance schedule; the non-endorsement of Baveno VI criteria post-SVR.
 - [[cirrhosis]] — cirrhosis regression, and the limits of noninvasive tools in documenting it.
 
 ---

@@ -3,8 +3,8 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-09-07
-sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension]
+updated: 2026-09-17
+sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
 ---
 
 ## Contents
@@ -269,6 +269,10 @@ flowchart TD
 
 - DOACs offer convenience (no INR monitoring); apixaban has the most CTP-B data; rivaroxaban carries a small hepatotoxicity risk. [[anticoagulation-gi-bleeding|Reversal]]: andexanet alfa / idarucizumab / 4-factor PCC.
 
+**Anticoagulation treats PVT — it does not prevent it.** In patients with Child-Pugh 7–10 cirrhosis and **no** thrombosis at entry, 24 months of double-blind rivaroxaban 10 mg/day vs placebo produced **1/41 (2.4%) vs 1/49 (2.0%)** incident PVT — no prophylactic effect, at an event rate far below the ~28% two-year incidence reported in earlier open-label anticoagulation trials [[puente-2025-cirroxaban-rivaroxaban-cirrhosis]]. There is no indication to anticoagulate a cirrhotic patient for PVT prophylaxis.
+
+- That trial saw **no excess major bleeding or hepatotoxicity** at Child-Pugh 7–10, but minor non-portal-hypertensive bleeding was 2.56× more frequent and clustered at **Child-Pugh ≥8** (details on [[cirrhosis-hemostasis]]). It used a **prophylactic 10 mg dose in patients without thrombosis**, so it does not license therapeutic-dose rivaroxaban in decompensated disease — the agent table above governs that choice.
+
 **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] cirrhotic-PVT statements** (newest tier-1 source; where it and AGA 2025 differ in emphasis, both are guideline-tier and Baveno VIII is newer):
 
 *Screening and characterisation*
@@ -361,3 +365,4 @@ Cirrhosis represents [[cirrhosis-hemostasis|rebalanced hemostasis]], not auto-an
 4. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
 5. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]
 6. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+7. [[puente-2025-cirroxaban-rivaroxaban-cirrhosis|Rivaroxaban to prevent complications of portal hypertension in cirrhosis: The CIRROXABAN study (2025)]]

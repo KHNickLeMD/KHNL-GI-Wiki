@@ -3,8 +3,8 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-09-08
-sources: [baveno-viii-2026-portal-hypertension, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis, wang-2026-eus-ppg-delphi-consensus, aga-2021-bleeding-gastric-varices]
+updated: 2026-09-17
+sources: [baveno-viii-2026-portal-hypertension, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis, wang-2026-eus-ppg-delphi-consensus, aga-2021-bleeding-gastric-varices, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
 ---
 
 > **[[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] supersedes [[baveno-vii-2022-portal-hypertension|Baveno VII (2022)]].** Where the two differ, this page states the Baveno VIII position and names what changed. The full old-value → new-value table lives on the source page under *What changed from Baveno VII*.
@@ -264,6 +264,10 @@ flowchart TD
 
 > ⚠ **Do not treat a statin as portal-hypertension therapy.** Baveno VII 4.1–4.2 said statin use "should be **encouraged**" where an approved indication exists, citing a portal-pressure effect (A.1) and a survival benefit (B.1). **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] finds the evidence insufficient to recommend statins — or anticoagulation — to prevent decompensation, in either the compensated (3.22) or the decompensated (4.11) setting.** Both should be **used or maintained only if prescribed for their own approved indications** (LoE 2, strong). Same consortium, newer document: the Baveno VIII position governs this page. The role of statins in preventing decompensation is now an explicit research-agenda item (RA3.14).
 
+- **The anticoagulation trial behind that stance — CIRROXABAN** ([[puente-2025-cirroxaban-rivaroxaban-cirrhosis]]). 90 patients with cirrhosis, CSPH and **Child-Pugh 7–10** randomised double-blind to **rivaroxaban 10 mg/day vs placebo** for up to 24 months. First PHT complication, [[liver-transplantation|transplant]] or death: **26.8% vs 46.9%, HR 0.511 (95% CI 0.248–1.049), p = 0.058** — the **primary endpoint was not met**, in a trial that enrolled 90 of a planned 160 patients.
+  - Significant only in the adjusted model (Child-Pugh score, previous decompensation, concomitant NSBB: **HR 0.418, 0.204–0.858**) and in an exploratory *post hoc* **Child-Pugh B7** subgroup (**HR 0.258, 0.074–0.900**) — hypothesis-generating, not practice-changing.
+  - **Safety:** non-portal-hypertensive bleeding **36.6% vs 14.3% (RR 2.56, 1.16–5.67)**, but **no excess major bleeding** and no hepatotoxicity; [[liver-stiffness-measurement|liver stiffness]] fell on rivaroxaban and rose on placebo (significant at 12 months). Full numbers and the bleeding/drug-level relationship on the source page and on [[cirrhosis-hemostasis]].
+  - Bottom line unchanged: **do not start an anticoagulant to prevent decompensation** — anticoagulate only for an approved indication of its own (thrombosis, atrial fibrillation; see [[portal-vein-thrombosis]]).
 - **Dosing caution persists:** simvastatin ≤20 mg/d in Child-Pugh B/C with close muscle and liver toxicity monitoring (Baveno VII 4.2); Baveno VIII 4.11 restates the **higher risk of statin toxicity in Child-Pugh C**
 - **Aspirin** should not be discouraged where indicated — may reduce HCC, liver-related complications, and death (Baveno VII 4.3; retained in the Baveno VIII still-valid box)
 - **Oral health is new:** periodontal disease is associated with a higher risk of decompensation (3.12) and **regular dental and periodontal care may decrease that risk** (3.23)
@@ -430,3 +434,4 @@ Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP cl
 6. [[aasld-2022-palliative-cirrhosis|AASLD Practice Guidance: Palliative Care and Symptom-Based Management for Decompensated Cirrhosis (2022)]]
 7. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on EUS-guided Portosystemic Pressure Gradient: Best Practices and Future Directions (2026)]]
 8. [[aga-2021-bleeding-gastric-varices|AGA Clinical Practice Update on Management of Bleeding Gastric Varices: Expert Review (2021)]]
+9. [[puente-2025-cirroxaban-rivaroxaban-cirrhosis|Rivaroxaban to prevent complications of portal hypertension in cirrhosis: The CIRROXABAN study (2025)]]
