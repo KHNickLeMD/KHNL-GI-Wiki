@@ -221,7 +221,7 @@ Infection is the most common precipitant of ACLF (~48%). Every hour delay in ant
 
 ### ACLF and Pre-emptive TIPS
 
-> **ACLF does not disqualify a patient from pre-emptive [[tips|TIPS]] after [[variceal-upper-gi-bleeding|acute variceal bleeding]].** [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.33 (LoE 3, strong): in patients who meet the pre-emptive TIPS criteria, **ACLF, overt [[hepatic-encephalopathy|HE]], hyperbilirubinaemia, MELD score, and severe [[alcohol-associated-liver-disease|alcohol-related hepatitis]] should not be considered absolute contraindications.** Baveno VIII adds MELD and severe alcohol-related hepatitis to the shorter Baveno VII list. The criteria themselves (Child-Pugh C 10–13; or Child-Pugh B >7 with active bleeding; or HVPG ≥20 mmHg) are on [[variceal-upper-gi-bleeding]].
+> **ACLF does not disqualify a patient from pre-emptive [[tips|TIPS]] after [[variceal-upper-gi-bleeding|acute variceal bleeding]].** [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.33 (LoE 3, strong): in patients who meet the pre-emptive TIPS criteria, **ACLF, overt [[hepatic-encephalopathy|HE]], hyperbilirubinaemia, MELD score, and severe [[alcohol-associated-liver-disease|alcohol-related hepatitis]] should not be considered absolute contraindications.** Baveno VIII adds MELD and severe alcohol-related hepatitis to the shorter Baveno VII list. The criteria themselves (Child-Pugh C 10–13; or Child-Pugh B >7 with active bleeding; or [[hepatic-venous-pressure-gradient|HVPG]] ≥20 mmHg) are on [[variceal-upper-gi-bleeding]].
 >
 > Baveno VIII 5.37 separately **withdraws the numeric salvage-TIPS futility rule** (previously Child-Pugh ≥14, or MELD >30 with lactate >12 mmol/L) — salvage TIPS is now discussed case-by-case regardless of age, Child-Pugh, and MELD. In a critically ill ACLF patient this removes the score-based exclusion, but not the clinical judgement; note also that MELD is **not** the right prognostic tool in critical illness (GS above — use NACSELD, CLIF-C, or AARC).
 
@@ -281,7 +281,7 @@ Palliative care is essential in ACLF management; frequently underutilized (GS 49
 
 ## See Also
 
-[[acute-liver-failure]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[nutrition-in-liver-disease]], [[rifaximin]], [[proton-pump-inhibitors]], [[abnormal-liver-chemistries]], [[cirrhosis]], [[albumin]], [[cirrhosis-hemostasis]], [[tips]], [[somatostatin-analogs]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[enteral-access]]
+[[acute-liver-failure]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[nutrition-in-liver-disease]], [[rifaximin]], [[proton-pump-inhibitors]], [[abnormal-liver-chemistries]], [[cirrhosis]], [[albumin]], [[cirrhosis-hemostasis]], [[hepatic-venous-pressure-gradient]], [[tips]], [[somatostatin-analogs]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[enteral-access]]
 
 ---
 
