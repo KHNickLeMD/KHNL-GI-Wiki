@@ -3,7 +3,7 @@ title: "Endoscopic Hemostasis"
 category: general-procedure
 tags: [hemostasis, gi-bleeding, ugib, lgib, clips, thermal, hemostatic-powder, over-the-scope-clip, hemostatic-forceps, band-ligation, endoscopy]
 created: 2026-09-06
-updated: 2026-09-08
+updated: 2026-09-18
 sources: [aga-2020-nvugib-endoscopic-therapies, acg-2021-ugib, acg-2023-lgib, acg-2025-egd-quality]
 ---
 
@@ -242,7 +242,7 @@ This page is the **single home for the hemostatic devices themselves** — mecha
 
 **Why the first attempt was suboptimal — the checklist to run before repeating:** ulcer size, location, or fibrosis; **epinephrine-injection monotherapy**; **single use of hemostatic powder for a high-risk lesion**; inadequate coagulation; insufficient tissue grasped by a hemostatic clip ([[aga-2020-nvugib-endoscopic-therapies]]).
 
-**Then: TAE or surgery — case by case (BPA 9).** Weigh the etiology of bleeding (peptic ulcer disease, unknown source, post-surgical), patient factors (hemodynamic instability, coagulopathy, multi-organ failure, surgical history), rebleeding risk, and potential adverse events, alongside **local expertise and resource availability**.
+**Then: TAE or surgery — case by case (BPA 9).** Weigh the etiology of bleeding ([[peptic-ulcer-disease|peptic ulcer disease]], unknown source, post-surgical), patient factors (hemodynamic instability, coagulopathy, multi-organ failure, surgical history), rebleeding risk, and potential adverse events, alongside **local expertise and resource availability**.
 
 - Comparative data ([[acg-2021-ugib]]): **TAE** has fewer complications (OR 0.45) and shorter stay (median 8 vs 16 days) with **no mortality difference**, but **higher further bleeding** (OR 2.44) than surgery.
 - ⚠ **Prophylactic TAE of high-risk ulcers after successful endoscopic therapy is not encouraged** (BPA 10) — concerns include recanalization and subsequent ischemic complications.

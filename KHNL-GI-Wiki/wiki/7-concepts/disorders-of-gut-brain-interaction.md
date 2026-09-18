@@ -3,7 +3,7 @@ title: "Disorders of Gut–Brain Interaction (DGBI)"
 category: concept
 tags: [DGBI, functional-gi, IBS, rome-criteria, biopsychosocial, brain-gut-axis, motility, visceral-hypersensitivity]
 created: 2026-05-15
-updated: 2026-09-05
+updated: 2026-09-18
 sources: [rome-v-2026-dgbi]
 ---
 
@@ -52,7 +52,7 @@ Rome V (2026) classifies **34 adult** and **22 pediatric** DGBI across anatomic 
 
 | Category | Disorders |
 |---|---|
-| **A. Esophageal** | Functional chest pain (A1), Functional heartburn (A2), Reflux hypersensitivity (A3), Globus (A4), Functional [[dysphagia]] (A5) |
+| **A. Esophageal** | Functional chest pain (A1), [[functional-heartburn\|Functional heartburn]] (A2), Reflux hypersensitivity (A3), Globus (A4), Functional [[dysphagia]] (A5) |
 | **B. Gastroduodenal** | Functional [[dyspepsia]] — PDS (B1a), EPS (B1b); [[nausea-and-vomiting\|Nausea/vomiting]]: CNVS (B2a), [[cyclic-vomiting-syndrome\|CVS]] (B2b), [[cannabinoid-hyperemesis-syndrome\|CHS]] (B2c); Belching: supragastric (B3a), gastric (B3b), **inability to belch** (B3c, *new*); [[rumination-syndrome\|Rumination]] (B4) |
 | **C. Bowel** | [[irritable-bowel-syndrome\|IBS]] with subtypes (C1a–d); [[chronic-idiopathic-constipation\|Chronic constipation]] (C2); Functional diarrhea (C3); [[abdominal-bloating-and-distention\|Functional abdominal bloating]] (C4); Unclassified bowel disorders (C5); Opioid-induced constipation (C6) |
 | **D. Centrally mediated GI pain** | CAPS (D1); **Abdominal migraine** (D2, *new adult diagnosis*); Narcotic bowel syndrome (D3) |

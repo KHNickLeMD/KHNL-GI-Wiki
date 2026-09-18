@@ -3,7 +3,7 @@ title: "Endoscopic Management of GI Perforation"
 category: general-procedure
 tags: [perforation, adverse-events, endoscopic-closure, clips, otsc, ttsc, endoscopic-suturing, sems, endoscopic-vacuum-therapy, ercp, esd, emr, poem]
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-18
 sources: [aga-2021-gi-perforations-endoscopic-management]
 ---
 
@@ -82,7 +82,7 @@ Know them before the case, so the consent conversation and team preparation happ
 
 ## Stomach
 
-- **Non-iatrogenic causes:** peptic ulcer disease, caustic ingestion. **High-risk procedures:** EMR and ESD.
+- **Non-iatrogenic causes:** [[peptic-ulcer-disease|peptic ulcer disease]], caustic ingestion. **High-risk procedures:** EMR and ESD.
 - **The proximal gastric wall is thinner than the antrum** — extra caution for proximal resections.
 - **Gastric ESD perforation rate 3.02% (512/16,941)**, of which **98% (506/512) recovered without surgery.** Most EMR/ESD perforations are intraprocedural; **delayed perforation 0.4%–0.7%**.
 - **ESD perforation risk factors:** lesion location (**upper third, middle third, greater curvature**); **lesion size >20 mm**; depth of invasion; **submucosal fibrosis**; endoscopist's prior workload; **procedure length >60–120 min**; octogenarian patients; **piecemeal resection**. Perform lengthy procedures under **general anesthesia**.
@@ -97,7 +97,7 @@ Know them before the case, so the consent conversation and team preparation happ
 **Why the duodenum is the highest-risk site:** thin wall; the anatomic challenge of the C-loop; paradoxical endoscope motion; and **luminal exposure to pancreatic proteolytic enzymes**, which pool in the duodenum and break down exposed muscle at an EMR/ESD base — the mechanism of **delayed** perforation.
 
 - **Iatrogenic causes:** duodenal stricture dilation, EMR (including ampullectomy), ESD, EUS, [[ercp|ERCP]].
-- **ERCP perforation:** overall risk **<1%**, with **mortality 7.8%–9.9%**. Mechanisms: duodenoscope-related trauma, sphincterotomy, intraductal guidewire manipulation. **Risk factors:** older age, longer procedure duration, sphincter of Oddi dysfunction, **non-dilated bile duct**, performance of a sphincterotomy/precut sphincterotomy, access papillotomy, and **altered anatomy** (e.g. Billroth II partial gastrectomy).
+- **ERCP perforation:** overall risk **<1%**, with **mortality 7.8%–9.9%**. Mechanisms: duodenoscope-related trauma, sphincterotomy, intraductal guidewire manipulation. **Risk factors:** older age, longer procedure duration, [[sphincter-of-oddi-dysfunction|sphincter of Oddi dysfunction]], **non-dilated bile duct**, performance of a sphincterotomy/precut sphincterotomy, access papillotomy, and **altered anatomy** (e.g. Billroth II partial gastrectomy).
 - **Surgically altered anatomy tip:** start with a standard **forward-viewing upper endoscope** to identify and mark the entrance of the pancreatobiliary limb before advancing the side-viewing duodenoscope.
 - **Large duodenal polyps** (BPA 12): **EMR only by experienced endoscopists, ESD only by experts** — both require proficiency in resection *and* mucosal-defect closure to manage immediate and delayed perforation.
 

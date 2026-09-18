@@ -122,3 +122,4 @@ Surveillance is targeted to those who **would be candidates for HCC treatment** 
 1. [[aga-2026-hcc-surveillance|AGA Clinical Practice Update on Risk Stratification and Emerging Surveillance Strategies for Hepatocellular Carcinoma: Expert Review (2026)]]
 2. [[aasld-2023-hcc|AASLD 2023 Practice Guidance: Prevention, Diagnosis, and Treatment of Hepatocellular Carcinoma]]
 3. [[aasld-idsa-2025-chb-treatment|AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B]]
+4. [[aga-2020-hcc-screening-nafld|AGA Clinical Practice Update on Screening and Surveillance for Hepatocellular Carcinoma in Patients with Nonalcoholic Fatty Liver Disease: Expert Review (2020)]]

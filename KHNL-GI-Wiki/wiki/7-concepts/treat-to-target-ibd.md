@@ -3,7 +3,7 @@ title: "Treat-to-Target in IBD (STRIDE-II)"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, treat-to-target, stride, endoscopic-healing, calprotectin, crp, pediatric-ibd]
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-09-18
 sources: [ioibd-2021-stride-ii]
 ---
 
@@ -80,7 +80,7 @@ flowchart LR
 
 ### Endoscopic Healing — How to Assess
 
-- **Sigmoidoscopy or colonoscopy.** When not feasible, alternatives **in CD** are **[[capsule-endoscopy|capsule endoscopy]]** or **balloon enteroscopy**. *(agreement 8.3 / 86)*
+- **Sigmoidoscopy or [[colonoscopy]].** When not feasible, alternatives **in CD** are **[[capsule-endoscopy|capsule endoscopy]]** or **balloon enteroscopy**. *(agreement 8.3 / 86)*
 - Score definitions and the full index tables live on [[ibd-endoscopic-scoring]].
 - The supportive text carries a second, slightly different set of definitions that "prevailed" in the systematic review and Delphi group: **endoscopic response = >50% decrease in SES-CD or CDEIS**; **endoscopic remission = SES-CD ≤2 points, or CDEIS <3 and lack of ulcerations** (including aphthous ulcers). The balloted **SES-CD <3 points** is the target stated above.
 - In UC, endoscopic healing "is commonly defined as **MES ≤1**, but complete endoscopic healing (**MES 0**) is associated with superior disease outcomes" — which is why the balloted UC target is MES 0.

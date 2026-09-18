@@ -3,7 +3,7 @@ title: "Acute Lower Gastrointestinal Bleeding (LGIB)"
 category: diagnostic-schema
 tags: [lower-gi-bleeding, lgib, hematochezia, diverticular, colonoscopy, hemorrhage, cta, risk-stratification]
 created: 2026-05-15
-updated: 2026-09-06
+updated: 2026-09-18
 sources: [acg-2023-lgib, asge-2014-lgib, acg-2021-ugib]
 ---
 
@@ -189,7 +189,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 | VKA reversal | **4-factor PCC preferred over FFP** (faster INR reduction, superior hemostasis, less volume overload, lower mortality) |
 | DOAC, significant bleed | Hold DOAC; most resolve with cessation alone |
 | DOAC reversal (life-threatening, not responding to resuscitation) | Idarucizumab for dabigatran; andexanet alfa for apixaban/rivaroxaban (if DOAC taken within 24h) |
-| Endoscopic hemostasis safe at: | INR ≤2.5 |
+| [[endoscopic-hemostasis\|Endoscopic hemostasis]] safe at: | INR ≤2.5 |
 
 #### Antiplatelet Management in Acute Setting
 

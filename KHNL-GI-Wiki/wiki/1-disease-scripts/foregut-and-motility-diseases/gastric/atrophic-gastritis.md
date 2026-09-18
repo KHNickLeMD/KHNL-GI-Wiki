@@ -3,7 +3,7 @@ title: "Atrophic Gastritis"
 category: disease-script
 tags: [atrophic-gastritis, gastric-premalignant-conditions, h-pylori, autoimmune-gastritis, pernicious-anemia, correa-cascade, gastric-cancer, neuroendocrine-tumor]
 created: 2026-05-15
-updated: 2026-09-03
+updated: 2026-09-18
 sources: [aga-2021-atrophic-gastritis, acg-2025-gastric-premalignant]
 ---
 
@@ -80,7 +80,7 @@ AG severity and extent determine gastric cancer risk. Two validated staging syst
 - Magnitude of the gradient (Singapore GCEP cohort, largest published GPMC cohort): early gastric neoplasia **543.8 per 10,000 person-years** with OLGIM III/IV vs **21.5** with OLGIM I
 - Adoption: widespread in Europe and some Asian/Latin American centers; only a limited number of US centers stage routinely
 
-> **The stage-assignment grid (antrum score × corpus score → OLGA/OLGIM stage) is not reproduced here.** It is printed only as a figure — [[acg-2025-gastric-premalignant]] Figure 4 and [[aga-2021-atrophic-gastritis]] Supplementary Figure 1A/B; ACG 2025 Box 1 gives the 0→IV range and risk bands without the grid. A reported stage can be interpreted from this page; assigning one from compartment scores needs the figure.
+[[acg-2025-gastric-premalignant|ACG 2025]] and [[aga-2021-atrophic-gastritis|AGA 2021]] print the OLGA/OLGIM stage-assignment grid (antrum score × corpus score → stage) only as a figure, not as a reproducible table.
 
 **Kimura-Takemoto endoscopic classification** — grades the extent of the **atrophic border** [[aga-2021-atrophic-gastritis]]:
 
