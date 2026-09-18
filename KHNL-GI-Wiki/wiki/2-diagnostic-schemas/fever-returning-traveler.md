@@ -3,29 +3,31 @@ title: "Fever in a Returning Traveler"
 category: diagnostic-schema
 tags: [travel-medicine, fever, tropical-infections, travelers-diarrhea, enteric-fever, viral-hepatitis, parasites]
 created: 2026-05-15
-updated: 2026-09-03
-sources: [idsa-2017-infectious-diarrhea, acg-2016-acute-diarrhea, acg-2016-liver-disease-pregnancy, nejm-2023-fever-returning-traveler]
+updated: 2026-09-18
+sources: [idsa-2017-infectious-diarrhea, acg-2016-acute-diarrhea, acg-2016-liver-disease-pregnancy]
 ---
 
-> ⚠️ **Most of this page is not drawn from a guideline.** The enteric-fever and stool/parasite testing content is from [[idsa-2017-infectious-diarrhea]], the traveler's-diarrhea content from [[acg-2016-acute-diarrhea]], and the hepatitis E–in-pregnancy content from [[acg-2016-liver-disease-pregnancy]]. Items marked **⚠ unsourced** (malaria, dengue, leptospirosis, Katayama fever/schistosomiasis, visceral leishmaniasis, and the incubation-window table) have no guideline behind them on this page — verify against a travel/tropical-medicine reference (e.g. IDSA/ASTMH travel-medicine guidance or the CDC Yellow Book) before acting. The NEJM review named in the sources list is a citation of record only; none of its content is reproduced here.
+## Contents
+- [[#Definition / Scope]]
+- [[#Differential Diagnosis]]
+  - [[#GI-focused differential by presentation]]
+- [[#Diagnostic Algorithm]]
+- [[#Key Tests]]
+- [[#Red Flags / Alarm Features]]
+- [[#See Also]]
+- [[#Sources]]
+
+---
 
 ## Definition / Scope
 
 Fever in a returning traveler encompasses any febrile illness arising within days to weeks (occasionally months) of international travel. GI manifestations are common across many etiologies — diarrhea, nausea, abdominal pain, [[jaundice]] — making this a frequent GI consult scenario. The differential is shaped by destination, incubation period, exposure history, and vaccination status.
 
-This page focuses on GI-relevant diagnoses. Non-GI febrile illnesses (e.g., malaria without GI features, rickettsial disease, arboviruses without hepatitis) are noted but not detailed.
+**Scope limit — read before using this page.** It covers only the GI-relevant causes addressed by the guidelines listed under Sources: enteric fever and infectious diarrhea ([[idsa-2017-infectious-diarrhea]], [[acg-2016-acute-diarrhea]]) and hepatitis in pregnancy ([[acg-2016-liver-disease-pregnancy]]). **Malaria, dengue, leptospirosis, schistosomiasis/Katayama fever, visceral leishmaniasis, and yellow fever are not covered here** — none of these guidelines address them, and neither do the incubation-window rules of thumb. Use a travel/tropical-medicine reference for those, and rule out malaria by the usual route in any febrile traveler from an endemic area.
 
 ## Differential Diagnosis
 
-### High-yield GI causes by incubation period
-
-> **⚠ Unsourced table.** These incubation windows are not from a guideline. Use for triage only — do not use to exclude a diagnosis.
-
-| Incubation | Diagnoses |
-|-----------|-----------|
-| <2 weeks | [[acute-diarrhea\|Traveler's diarrhea]] ([[enterotoxigenic-e-coli\|ETEC]], [[campylobacter-infection\|Campylobacter]], [[salmonella-infection\|Salmonella]], [[shigellosis\|Shigella]]), [[norovirus]], hepatitis A (early), dengue (GI manifestations), typhoid fever (early) |
-| 2–6 weeks | Enteric fever (typhoid/paratyphoid), hepatitis A (full picture), hepatitis E, [[entamoeba-histolytica-infection\|amoebiasis]], [[giardiasis]], leptospirosis (hepatitis) |
-| >6 weeks | Schistosomiasis (acute: Katayama fever), visceral leishmaniasis, [[chronic-hepatitis-b\|chronic hepatitis B]]/E seroconversion, strongyloidiasis |
+*Workup: this page is the schema; for the diarrhea-specific testing threshold see [[acute-diarrhea]], and for the pregnancy hepatitis workup see [[liver-disease-in-pregnancy]].*
 
 ### GI-focused differential by presentation
 
@@ -39,33 +41,22 @@ This page focuses on GI-relevant diagnoses. Non-GI febrile illnesses (e.g., mala
 
 **Fever + jaundice:**
 
-- Viral hepatitis A — ⚠ unsourced (incubation window, self-limited course)
-- Viral hepatitis E — pregnant women presenting with acute hepatitis should be tested with **HEV IgM**; HEV in pregnancy carries increased risk of [[acute-liver-failure|acute liver failure]] with high maternal and infant mortality reported in Southeast Asia ([[acg-2016-liver-disease-pregnancy]])
-- Leptospirosis (Weil's disease: jaundice + AKI + hemorrhage) — ⚠ unsourced
-- Dengue with hepatitis — ⚠ unsourced
-- Malaria with hepatitis (*Plasmodium falciparum*) — ⚠ unsourced
-- Yellow fever — ⚠ unsourced
+- Viral hepatitis E — HEV in pregnancy carries increased risk of [[acute-liver-failure|acute liver failure]], with high maternal and infant mortality reported in Southeast Asia ([[acg-2016-liver-disease-pregnancy]])
 
 **Fever + abdominal pain ± hepatosplenomegaly:**
 
 - **Enteric fever (typhoid/paratyphoid)** — per [[idsa-2017-infectious-diarrhea]]: fever ± headache, lethargy, malaise and abdominal pain, **followed by hepatosplenomegaly and stupor**; the portal of entry is the GI tract but **diarrhea is an uncommon feature**. Consider it in a febrile traveler returning from an endemic area. Incidence is high in parts of South and Southeast Asia, moderate in Central/South America, Africa, Central/East Asia and Oceania; travel was reported in **68%** of US *S.* Typhi and **50%** of *S.* Paratyphi cases (FoodNet 2004–2009).
-- Amoebiasis / amoebic liver abscess: right upper quadrant pain, fever, tender hepatomegaly; diarrhea may be absent — ⚠ unsourced
-- Schistosomiasis (Katayama syndrome): 4–8 weeks post-exposure; fever, urticaria, eosinophilia, hepatosplenomegaly — ⚠ unsourced
-- Visceral leishmaniasis (kala-azar): massive splenomegaly, weight loss, pancytopenia — ⚠ unsourced
+- [[entamoeba-histolytica-infection|Amoebiasis]] — distinguished from morphologically identical non-pathogenic species only by species-specific immunoassay or NAAT ([[idsa-2017-infectious-diarrhea]])
 
 ## Diagnostic Algorithm
 
-1. **Exposure history**: Destination(s), travel duration, freshwater exposure, animal contact, food/water sources, sexual exposures, vector exposure, vaccination status. *(IDSA anchors its differential on exposure — "travel to resource-challenged countries", recent antimicrobials, animal/pet contact — and recommends pre-travel counselling and typhoid vaccination as an adjunct; the vector/freshwater elements here are ⚠ unsourced.)*
-2. **Incubation period**: Date of symptom onset relative to travel — ⚠ unsourced; the table above is not from a guideline
-3. **Symptom characterization**: Diarrhea (bloody vs. watery), jaundice, hepatosplenomegaly, rash, CNS symptoms. IDSA: **dysentery, moderate-to-severe disease, or symptoms >7 days** are what trigger stool diagnostic studies ([[acg-2016-acute-diarrhea]] recommendation 2 — see [[acute-diarrhea]] for the full testing threshold)
-4. **Malaria rule-out first** (even if GI-dominant): thick and thin blood smears or rapid malaria antigen test — ⚠ **unsourced**: clinically standard, but no guideline on this page addresses malaria testing
-5. **Blood cultures when enteric fever or bacteremia is suspected** — IDSA rec 17 (strong, moderate): culture-independent (panel-based multiplex molecular) testing from stool **and blood**, plus culture-dependent testing. Two to three **20-mL** blood cultures are adequate in adults, drawn **before antimicrobials**. Bone marrow, stool, duodenal fluid and urine cultures may add yield (weak, moderate) — bone marrow is particularly valuable if antimicrobials have already been given
-6. **Targeted workup** based on leading diagnosis (see Key Tests)
-7. **Empiric treatment** — IDSA rec 34: people with **clinical features of sepsis** *and* **suspected enteric fever** should be treated empirically with **broad-spectrum** antimicrobials, **after** blood, stool and urine cultures are collected (strong, low). Narrow once susceptibilities return (strong, high). If no isolate is available, tailor the choice to susceptibility patterns from the **setting where the infection was acquired** (weak, low). IDSA specifies a class, not a specific agent.
+1. **Exposure history**: IDSA anchors its differential on exposure — **"travel to resource-challenged countries"**, recent antimicrobial therapy, and animal/pet contact — and recommends pre-travel counselling with typhoid vaccination as an adjunct ([[idsa-2017-infectious-diarrhea]])
+2. **Symptom characterization**: Diarrhea (bloody vs. watery), jaundice, hepatosplenomegaly. IDSA: **dysentery, moderate-to-severe disease, or symptoms >7 days** are what trigger stool diagnostic studies ([[acg-2016-acute-diarrhea]] recommendation 2 — see [[acute-diarrhea]] for the full testing threshold)
+3. **Blood cultures when enteric fever or bacteremia is suspected** — IDSA rec 17 (strong, moderate): culture-independent (panel-based multiplex molecular) testing from stool **and blood**, plus culture-dependent testing. Two to three **20-mL** blood cultures are adequate in adults, drawn **before antimicrobials**. Bone marrow, stool, duodenal fluid and urine cultures may add yield (weak, moderate) — bone marrow is particularly valuable if antimicrobials have already been given
+4. **Targeted workup** based on leading diagnosis (see [[#Key Tests]])
+5. **Empiric treatment** — IDSA rec 34: people with **clinical features of sepsis** *and* **suspected enteric fever** should be treated empirically with **broad-spectrum** antimicrobials, **after** blood, stool and urine cultures are collected (strong, low). Narrow once susceptibilities return (strong, high). If no isolate is available, tailor the choice to susceptibility patterns from the **setting where the infection was acquired** (weak, low). IDSA specifies a class, not a specific agent.
 
 ## Key Tests
-
-Sourced rows cite the guideline. Rows marked **⚠** have no guideline source on this page — the test may be standard practice, but the indication is not guideline-backed here.
 
 | Test | Diagnoses targeted | Source |
 |------|------------------|--------|
@@ -80,12 +71,8 @@ Sourced rows cite the guideline. Rows marked **⚠** have no guideline source on
 | Duodenal aspirate | *Giardia*, *Strongyloides*, *Cystoisospora*, microsporidia — consider in **select** people with recurring diarrhea when stool testing was non-diagnostic (weak, low) | [[idsa-2017-infectious-diarrhea]] |
 | CBC with differential | **Increased eosinophil count** occurs with parasitic infections that have a **tissue phase**. Higher fever suggests bacterial etiology or *E. histolytica*; monocyte predominance suggests an intracellular pathogen such as *Salmonella* | [[idsa-2017-infectious-diarrhea]] |
 | **Hepatitis E IgM** (and hepatitis A IgM, HSV PCR) | Any pregnant woman with acute hepatitis should be tested for HAV, HBV, **HEV** and HSV (strong, very low). HEV IgM establishes the diagnosis and prompts anticipation of progression to acute liver failure / transplant evaluation | [[acg-2016-liver-disease-pregnancy]] |
-| Thick/thin blood smear or malaria RDT | Malaria | **⚠ unsourced** |
-| Abdominal ultrasound | Amoebic liver abscess, hepatosplenomegaly | **⚠ unsourced** |
-| [[abnormal-liver-chemistries\|LFTs]], bilirubin, PT | Hepatitis severity, leptospirosis | **⚠ unsourced** |
-| Dengue NS1 antigen, IgM/IgG | Dengue | **⚠ unsourced** |
-| Schistosoma serology or stool/urine microscopy | Schistosomiasis | **⚠ unsourced** |
-| Leptospira serology (MAT) or PCR | Leptospirosis | **⚠ unsourced** |
+
+Tests for malaria, dengue, leptospirosis, and schistosomiasis are outside the scope of these sources — see a travel/tropical-medicine reference. For interpreting the liver panel in a febrile traveler, see [[abnormal-liver-chemistries]].
 
 ## Red Flags / Alarm Features
 
@@ -93,13 +80,7 @@ Sourced rows cite the guideline. Rows marked **⚠** have no guideline source on
 - **Bloody diarrhea (dysentery), moderate-to-severe disease, or symptoms >7 days** → obtain stool diagnostic studies; higher temperature favours a bacterial etiology or *E. histolytica* ([[acg-2016-acute-diarrhea]], [[idsa-2017-infectious-diarrhea]]). Do **not** give antimicrobials for suspected STEC O157 / Shiga-toxin-2 producers (strong, moderate)
 - **[[liver-disease-in-pregnancy|Pregnancy]] + acute hepatitis** → test HAV/HBV/**HEV**/HSV IgM and start **empiric acyclovir** if HSV hepatitis is suspected (strong, very low). HEV in pregnancy is associated with acute liver failure and **high maternal and infant mortality** reported in Southeast Asia ([[acg-2016-liver-disease-pregnancy]])
   - The guideline gives no HEV mortality percentage (the only mortality figure it gives in this section is **up to 74% for HSV hepatitis**, a different disease).
-- **Malaria not ruled out** in a febrile traveler from an endemic area — ⚠ unsourced
-- **Altered mental status** (cerebral malaria, severe dengue) — ⚠ unsourced
-- **Jaundice + coagulopathy** (leptospirosis/Weil's, yellow fever) — ⚠ unsourced
-- **Right upper quadrant pain + fever without diarrhea** → amoebic liver abscess — ⚠ unsourced
 - **Eosinophilia in a returning traveler** → parasitic infection with a tissue phase ([[idsa-2017-infectious-diarrhea]]). IDSA gives no numeric eosinophil threshold, only "an increased eosinophil count."
-
-> Malaria, dengue, leptospirosis, schistosomiasis/Katayama fever and visceral leishmaniasis are not covered by any guideline on this page; consult a travel/tropical-medicine reference for those.
 
 ## See Also
 
@@ -112,4 +93,3 @@ Sourced rows cite the guideline. Rows marked **⚠** have no guideline source on
 1. [[idsa-2017-infectious-diarrhea|IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea]]
 2. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]
 3. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
-4. [[nejm-2023-fever-returning-traveler|Fever in a Returning Traveler (NEJM 2023)]] — citation of record only; no content from it is reproduced on this page

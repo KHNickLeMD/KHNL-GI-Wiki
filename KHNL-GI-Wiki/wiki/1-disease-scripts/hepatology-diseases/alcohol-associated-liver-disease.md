@@ -3,7 +3,7 @@ title: "Alcohol-Associated Liver Disease"
 category: disease-script
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, mdf, nac, pentoxifylline, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate, baclofen, peth, stopah]
 created: 2026-05-07
-updated: 2026-09-05
+updated: 2026-09-18
 sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis, lee-2018-accelerate-ah, hendershot-2025-semaglutide-aud]
 ---
 
@@ -42,7 +42,7 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 **ALD spectrum** [[acg-2024-ald]], [[aasld-2020-ald]]:
 
 - **Hepatic steatosis** — reversible; develops in 90% with >60g/day alcohol for 2 weeks; usually asymptomatic; reverses with 4–6 weeks abstinence
-- **Alcohol-associated steatohepatitis (ASH) / Alcoholic Hepatitis (AH)** — acute inflammatory injury; 10–35% of heavy drinkers; rapid onset [[jaundice]]; spectrum of severity; histological correlate is ASH
+- **Alcohol-associated steatohepatitis (ASH) / [[alcohol-associated-hepatitis|alcohol-associated hepatitis (AH)]]** — acute inflammatory injury; 10–35% of heavy drinkers; rapid onset [[jaundice]]; spectrum of severity; histological correlate is ASH
 - **Fibrosis** — 40–50% of those with steatohepatitis; 20–40% regress with abstinence
 - **[[cirrhosis|Cirrhosis]] (AC)** — 8–20% of heavy drinkers; may develop without prior recognized AH; 20–40% develop decompensation or [[acute-on-chronic-liver-failure|ACLF]]; 3–10% develop HCC
 - **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]]** — cirrhosis-associated risk; PNPLA3 and TM6SF2 variants increase HCC risk specifically in ALD [[aasld-2020-ald]]
@@ -117,8 +117,8 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 
 **Applying the Lille score** — the one *dynamic* score above; it is computed from paired **day-0 and day-7** values, so it answers "is this patient responding?", not "should steroids be started?" (ACG 2024 **Key concept 27**) [[acg-2024-ald]]:
 
-- **>0.45 = non-responder** → discontinue prednisolone
-- **≤0.45 = responder** → continue prednisolone to 28 days total
+- **≥0.45 = non-responder** → discontinue prednisolone
+- **<0.45 = responder** → continue prednisolone to 28 days total
 - Day-4 Lille is as accurate as day-7 for predicting outcome, and spares 3 days of unnecessary steroid exposure in non-responders
 
 ---
@@ -268,7 +268,7 @@ ALD risk is influenced by genetic variants in lipid metabolism and alcohol oxida
 
 **G-CSF and microbiome-based therapies — unresolved** ([[acg-2024-ald]] **Rec 19**, *conditional, moderate*): *"There are insufficient data to determine the role of granulocyte colony stimulating factor and microbiome-based therapies in the treatment of severe AH."*
 
-**Assess response with the [[#Severity Assessment|Lille score]] at day 4 or 7.** Non-response (>0.45) → stop prednisolone; consider early LT referral or palliative care. **Four or more organ failures + steroid non-response + ineligible for early LT → engage palliative care** (ACG 2024 **Key concept 28**). [[acg-2024-ald]]
+**Assess response with the [[#Severity Assessment|Lille score]] at day 4 or 7.** Non-response (≥0.45) → stop prednisolone; consider early LT referral or palliative care. **Four or more organ failures + steroid non-response + ineligible for early LT → engage palliative care** (ACG 2024 **Key concept 28**). [[acg-2024-ald]]
 
 ### 2. Moderate AH (MELD ≤20)
 
@@ -433,7 +433,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recommendations for
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[liver-biopsy]], [[mri-mrcp]], [[upper-gi-bleeding]], [[rifaximin]], [[hcc-surveillance]], [[nutrition-in-liver-disease]], [[antibiotic-prophylaxis-cirrhosis]], [[enteral-access]], [[semaglutide]], [[glp-1-receptor-agonists]], [[albumin]], [[somatostatin-analogs]], [[liver-stiffness-measurement]], [[cirrhosis]]
+[[alcohol-associated-hepatitis]], [[abnormal-liver-chemistries]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[liver-biopsy]], [[mri-mrcp]], [[upper-gi-bleeding]], [[rifaximin]], [[hcc-surveillance]], [[nutrition-in-liver-disease]], [[antibiotic-prophylaxis-cirrhosis]], [[enteral-access]], [[semaglutide]], [[glp-1-receptor-agonists]], [[albumin]], [[somatostatin-analogs]], [[liver-stiffness-measurement]], [[cirrhosis]]
 
 ---
 

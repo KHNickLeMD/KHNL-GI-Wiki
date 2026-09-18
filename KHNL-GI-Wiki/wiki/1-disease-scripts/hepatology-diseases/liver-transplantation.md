@@ -3,7 +3,7 @@ title: "Liver Transplantation — Post-Transplant Management"
 category: disease-script
 tags: [liver-transplant, liver-transplantation, immunosuppression, tacrolimus, calcineurin-inhibitor, ckd, metabolic-syndrome, rejection, tcmr, pcr, amr, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, ead, hbv, hcv, pbc, psc, autoimmune-hepatitis, hcc, masld, ald, de-novo-malignancy, post-transplant, bone-health, vaccination, cmv, cancer-surveillance, glp-1, bariatric-surgery, aasld]
 created: 2026-05-19
-updated: 2026-09-06
+updated: 2026-09-18
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-non-graft-complications, asge-2023-post-transplant-biliary-strictures]
 ---
 
@@ -593,14 +593,14 @@ Metabolic syndrome, CKD, bone disease, infection prophylaxis, vaccination, de no
 
 **Diet** — the numbers, not just the direction:
 
-- Added sugar **<10%** of total daily calories AND saturated fat **<10%** of total daily calories AND sodium **<2300 mg/day** (Rec 1, Strong, Level 5)
-- No herbal/dietary supplements without transplant-provider review — CNI metabolism interference and [[drug-induced-liver-injury|DILI]] risk; mineral supplements (magnesium, calcium, zinc) are excepted (Rec 2, Strong, Level 4)
-- Avoid foods that interact with immunosuppression, **particularly grapefruit** (Rec 3, Strong, Level 3). Grapefruit, pomegranate, clementines, and black licorice ↑ CNI levels; St. John's Wort ↓ CNI levels
-- Avoid untreated lake/river water and untested well water (Rec 4, Strong, Level 3)
-- Avoid unpasteurized milk products and raw/undercooked eggs and meats — especially pork, poultry, fish, seafood (Rec 5, Strong, Level 3)
+- Limit sugar, saturated fat, and sodium — added sugar **<10%** of total daily calories, saturated fat **<10%** of total daily calories, sodium **<2300 mg/day** (Rec 1, Weak, Level 4)
+- Avoid foods that interact with immunosuppression, **particularly grapefruit and Seville oranges** — potent CYP3A4 inhibitors (Rec 2, Strong, Level 4). Grapefruit, pomegranate, clementines, and black licorice ↑ CNI levels; St. John's Wort ↓ CNI levels
+- Avoid untreated water sources — well water, river, spring (Rec 3, Strong, Level 4)
+- Avoid raw/undercooked meats, unpasteurized cheeses, and unwashed produce (Rec 4, Strong, Level 4)
+- No herbal/dietary supplements without transplant-team review — CNI metabolism interference and [[drug-induced-liver-injury|DILI]] risk; mineral supplements (magnesium, calcium, zinc) are excepted (Rec 5, Strong, Level 4)
 - Optimize protein intake and avoid excessive caloric intake ([[aasld-2012-liver-transplant-long-term]])
 
-**Exercise** (Rec 6, Strong, Level 2): **150–300 min/week** moderate-intensity **OR 75–150 min/week** vigorous-intensity aerobic activity, **plus** muscle-strengthening of all major muscle groups **≥2 days/week**. Weight-loss counselling alone is ineffective for weight loss post-LT but does improve diabetes control.
+**Exercise** (Rec 6, Strong, Level 4): **150–300 min/week** moderate-intensity **OR 75–150 min/week** vigorous-intensity aerobic activity, **plus** muscle-strengthening of all major muscle groups **≥2 days/week**. Weight-loss counselling alone is ineffective for weight loss post-LT but does improve diabetes control.
 
 **Alcohol** (Rec 9, Strong, Level 4): complete avoidance irrespective of the etiology of the original liver disease. Post-LT alcohol use is linked to graft steatosis, steatohepatitis, accelerated progression to cirrhosis, and graft rejection.
 

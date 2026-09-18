@@ -58,7 +58,7 @@ The CPU states the principle plainly: *"The signs and symptoms that prompt healt
 - **Diagnosis is delayed an average of 6 months** vs older patients. Contributors named by the CPU: low patient awareness of alarm symptoms; **low clinical suspicion by health care providers**; inadequate or absent health care access.
 - CRC is *"often clinically silent in its earliest stages"* regardless of age of onset.
 
-> ⚠ **Do not read BPA 1 as a screening statement.** It governs the **symptomatic** young adult. Screening of *asymptomatic* adults under 50 was, at the time of this CPU, not recommended in the US outside known hereditary syndromes — and the 45-vs-50 start age is settled by newer tier-1 sources on [[colorectal-cancer-screening]], not here.
+> ⚠ **Do not read BPA 1 as a screening statement.** It governs the **symptomatic** young adult. Screening of *asymptomatic* adults under 50 was, at the time of this CPU, not recommended in the US outside known hereditary syndromes — and the 45-vs-50 start age is settled by newer guidelines on [[colorectal-cancer-screening]], not here.
 
 ### Severity Assessment
 

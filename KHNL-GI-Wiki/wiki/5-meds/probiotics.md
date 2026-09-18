@@ -33,7 +33,7 @@ The AGA recommends probiotic use **only in the context of a clinical trial** (no
 
 ## C difficile — Not Advised (2026 reversal)
 
-> **Contradiction (surfaced), newer same-tier source wins.** [[aga-2026-cdiff-adults|AGA 2026 CPU on CDI in adults]] (BPA 12) states plainly that **probiotics are not advised to prevent an initial or recurrent [[clostridioides-difficile|C difficile]] infection**, and that they have **not shown benefit** in patients with multiply recurrent disease. This reverses the [[aga-2020-probiotics|AGA 2020]] conditional recommendation FOR named formulations in antibiotic-exposed patients. **What this page asserts: do not use probiotics for CDI prevention.** The 2020 strain list above is retained as history, not as practice.
+> **Contradiction (surfaced), newer same-tier source wins.** [[aga-2026-cdiff-adults|AGA 2026 CPU on CDI in adults]] (BPA 12) states plainly that **probiotics are not advised to prevent an initial or recurrent [[clostridioides-difficile|C difficile]] infection**, and that they have **not shown benefit** in patients with multiply recurrent disease. This reverses the [[aga-2020-probiotics|AGA 2020]] conditional recommendation FOR named formulations in antibiotic-exposed patients. **Do not use probiotics for CDI prevention.** The 2020 strain list above is historical, not current practice.
 >
 > Corroborated by [[aga-2026-cdiff-ibd|AGA 2026 CPU on CDI in IBD]] (BPA 11): no probiotics for primary or secondary CDI prevention in [[inflammatory-bowel-disease|IBD]], and by [[acg-2021-cdiff|ACG 2021]], which recommends against probiotics for both primary (conditional/moderate) and secondary (strong/very low) prevention.
 

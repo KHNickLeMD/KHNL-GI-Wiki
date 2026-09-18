@@ -70,7 +70,7 @@ Nutrition support in the hospitalized patient encompasses the assessment of nutr
 
 - **Indirect calorimetry** is the gold standard (measures VO₂ and VCO₂ to calculate resting energy expenditure)
 - When unavailable: use weight-based equations (25–30 kcal/kg/day for most; adjust for [[obesity]] and critical illness phase)
-- **Protein** (as ACG 2016 states it): **1.2–1.5 g/kg/day** was historically thought sufficient; recent studies suggest the amount needed to *optimize* therapy is higher, **1.5–2.0 g/kg/day**. Needs "may be even higher" in **trauma or large wounds** — ⚠ no number is given for that group. (The **2.0–2.5 g/kg ideal body weight/day** figure belongs to the obese BMI >30 hypocaloric regimen below, **not** to burns/trauma — a prior version of this page misattributed it.)
+- **Protein** (as ACG 2016 states it): **1.2–1.5 g/kg/day** was historically thought sufficient; recent studies suggest the amount needed to *optimize* therapy is higher, **1.5–2.0 g/kg/day**. Needs "may be even higher" in **trauma or large wounds**, but ACG 2016 gives no number for that group. Note the **2.0–2.5 g/kg ideal body weight/day** figure belongs to the obese (BMI >30) hypocaloric regimen below — **not** to burns or trauma.
 
 ---
 

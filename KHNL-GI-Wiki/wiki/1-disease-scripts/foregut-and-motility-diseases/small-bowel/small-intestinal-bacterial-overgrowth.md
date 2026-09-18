@@ -45,7 +45,7 @@ SIBO is a clinical syndrome of GI symptoms caused by the presence of excessive n
 **Clinical presentation:**
 
 - Symptoms traditionally linked to SIBO: **bloating, diarrhea, abdominal pain/discomfort**; steatorrhea in more severe cases ([[aga-2020-sibo]] **BPA 2**). Also flatulence, distension, nausea, cramping.
-- **Which symptom actually points to SIBO — the two societies disagree, and the newer source reverses the older one.** [[aga-2020-sibo]] (Oct 2020): *"Contrary to common belief, **diarrhea and not bloating** has the strongest association with SIBO"*; in IBS, "diarrhea or 'gas,' but not bloating, seem to be the most predictive symptoms." [[acg-2020-sibo]] (Jan/Feb 2020) Key Concept 1: *"The most common symptom of SIBO is **bloating**"* (present in >2/3). Both are tier-1; the AGA CPU is the later 2020 publication, so **use diarrhea as the discriminating symptom** and treat [[abdominal-bloating-and-distention|bloating]] as sensitive but non-discriminating. Note the claims are not strictly identical — ACG describes symptom *frequency*, AGA describes *predictive strength*.
+- **Which symptom actually points to SIBO — the two societies disagree, and the newer source reverses the older one.** [[aga-2020-sibo]] (Oct 2020): *"Contrary to common belief, **diarrhea and not bloating** has the strongest association with SIBO"*; in IBS, "diarrhea or 'gas,' but not bloating, seem to be the most predictive symptoms." [[acg-2020-sibo]] (Jan/Feb 2020) Key Concept 1: *"The most common symptom of SIBO is **bloating**"* (present in >2/3). The AGA CPU is the later 2020 publication, so **use diarrhea as the discriminating symptom** and treat [[abdominal-bloating-and-distention|bloating]] as sensitive but non-discriminating. Note the claims are not strictly identical — ACG describes symptom *frequency*, AGA describes *predictive strength*.
 - **In whom the symptom means most:** the association is strong in patients with a predisposing anatomic/pathologic/pharmacologic cause (stasis or recirculation of colonic contents, impaired resistance to bacteria) — there, SIBO "will lead to diarrhea and can progress to a full-blown malabsorption syndrome." Without an obvious predisposing factor, "symptoms are weakly predictive at best" ([[aga-2020-sibo]]).
 - **In the very elderly:** SIBO is an important cause of otherwise unexplained **diarrhea and weight loss**.
 - IMO pattern: constipation predominant.
@@ -244,7 +244,7 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 
 **Duration — the number ACG does not give.** [[aga-2020-sibo]]: "a single **7- to 10-day course** improves symptoms for up to several months in **46%–90%** of patients with SIBO and renders breath tests negative in **20%–75%**." [[acg-2020-sibo]] specifies no duration.
 
-**Antibiotic regimens — the two societies give different doses for the same drugs.** Both tier-1; the AGA CPU is the later 2020 publication, so its regimen column is what this page asserts, with ACG's stated alongside. Efficacy figures are ACG's; the AGA table reports **no efficacy data and no duration**.
+**Antibiotic regimens — the two societies give different doses for the same drugs.** The AGA CPU is the later (2020) publication, so **dose per its regimen column**, with ACG's stated alongside. Efficacy figures are ACG's; the AGA table reports **no efficacy data and no duration**.
 
 | Antibiotic | [[aga-2020-sibo\|AGA 2020]] regimen | [[acg-2020-sibo\|ACG 2020]] regimen | Efficacy (ACG) |
 |---|---|---|---|
@@ -307,7 +307,7 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 
 - [[aga-2020-sibo]]: "**It is not necessary to repeat diagnostic tests for SIBO after antibiotic therapy should gastrointestinal symptoms respond.**"
 - [[acg-2020-sibo]] Key Concept 15: in subjects with an abnormal breath test, retesting after treatment "may correlate with symptom improvement and may be confirmed by normalization of hydrogen or methane levels."
-- Both tier-1; the AGA CPU is the later 2020 publication, so **symptom response is the endpoint** and confirmatory breath testing is optional, not expected.
+- The AGA CPU is the later 2020 publication, so **symptom response is the endpoint** and confirmatory breath testing is optional, not expected.
 - Follow-up breath testing remains a clinical-trial outcome measure and may still help in **difficult-to-treat or non-responding** cases, where the question is whether overgrowth persists.
 
 ---

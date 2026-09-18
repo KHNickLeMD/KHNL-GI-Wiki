@@ -7,13 +7,11 @@ updated: 2026-09-08
 sources: [aga-2026-inpatient-ibd]
 ---
 
-*Overview concept page — links to the two primary IBD disease scripts. Referenced in [[drug-induced-liver-injury]] (azathioprine/methotrexate DILI context) and other cross-references.*
-
 ## Overview
 
 Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated disorders of the GI tract: [[crohns-disease]] and [[ulcerative-colitis]].
 
-**Distinguishing the two lives in one place — [[uc-vs-crohns-comparison]].** That page carries the guideline-sourced distribution/depth/granuloma/smoking/surgery comparison (ACG 2025 UC and ACG 2025 Crohn's) and flags which classical teachings the guidelines do *not* assert. Do not duplicate it here.
+**Distinguishing the two — see [[uc-vs-crohns-comparison]].** That page carries the guideline-sourced distribution/depth/granuloma/smoking/surgery comparison (ACG 2025 UC and ACG 2025 Crohn's) and flags which classical teachings the guidelines do *not* assert.
 
 ## Where Each Topic Lives
 

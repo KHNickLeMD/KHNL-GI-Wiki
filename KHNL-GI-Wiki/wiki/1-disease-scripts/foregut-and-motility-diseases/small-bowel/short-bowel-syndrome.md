@@ -74,7 +74,7 @@ No validated score exists. Severity is read off **anatomy, output, and PN depend
 
 ### Classification / Typing
 
-Anatomic classification by **presence or absence of residual colon** (Figure 1 of the source; figure not captured — described here in text):
+Anatomic classification by **presence or absence of residual colon**:
 
 | Group | Residual anatomy | Prognostic implication |
 |---|---|---|

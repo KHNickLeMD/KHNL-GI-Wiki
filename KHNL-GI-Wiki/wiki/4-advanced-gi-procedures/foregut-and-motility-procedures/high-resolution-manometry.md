@@ -25,7 +25,7 @@ sources: [acg-2020-esophageal-physiologic-testing, acg-2021-gerd, asge-2024-gerd
 
 High-resolution manometry uses a solid-state catheter with closely spaced pressure sensors to generate esophageal pressure topography (EPT) plots, interpreted using the **[[chicago-classification-v4|Chicago Classification v4.0]]**.
 
-**Standard protocol:** **10 supine test swallows** ([[acg-2020-esophageal-physiologic-testing]]). Provocative maneuvers are added on top of this — their exact specifications are in [[#Provocative Maneuvers]] below (single home; not repeated here). The full Chicago v4.0 acquisition protocol and position-specific requirements live on [[chicago-classification-v4]].
+**Standard protocol:** **10 supine test swallows** ([[acg-2020-esophageal-physiologic-testing]]). Provocative maneuvers are added on top of this — their exact specifications are in [[#Provocative Maneuvers]] below. The full Chicago v4.0 acquisition protocol and position-specific requirements live on [[chicago-classification-v4]].
 
 **IRP thresholds are manufacturer-specific** — using the wrong device threshold misclassifies [[esophagogastric-junction-outflow-obstruction|EGJ outflow obstruction]]. The thresholds, and all Chicago v4.0 diagnostic cutoffs, live on [[chicago-classification-v4]].
 

@@ -95,7 +95,7 @@ sources: [aga-2023-ostomies]
 - WOC (wound ostomy continence) marking assesses the abdomen in multiple positions for a site within the rectus, away from scars, skin folds, bony prominences, and the umbilicus.
 - WOC consultation manages expectations (output, appliances, regular mucus passage from the native rectum); community-based and online ostomy support groups exist.
 
-⚠ **Gaps (not in source):** Nutrition guidance is not addressed as a discrete topic. Medication absorption after ostomy creation (altered oral drug absorption with ileostomy/short bowel) is not covered *(partly addressed by [[aga-2022-short-bowel-syndrome]] BPA 7 — see [[short-bowel-syndrome]])*. Typical daily ileostomy output volumes are not quantified beyond the >1.5 L/d HOO threshold.
+**What the AGA 2023 update does not cover:** nutrition as a discrete topic; altered oral drug absorption after ileostomy or with short bowel (partly addressed by [[aga-2022-short-bowel-syndrome]] BPA 7 — see [[short-bowel-syndrome]]); and typical daily ileostomy output volumes beyond the >1.5 L/d high-output threshold.
 
 ## See Also
 

@@ -50,7 +50,7 @@ sources: [acg-2025-uc, acg-2025-crohns]
 
 - **pANCA is found in up to 70% of patients with UC**; the combination of **negative ASCA + elevated pANCA** has been proposed to help establish a UC diagnosis. [[acg-2025-uc]]
 - **But:** the **pooled sensitivity of antibody testing for UC diagnosis is low, and these markers are not used for establishing or ruling out a diagnosis of UC.** pANCA positivity has been associated with treatment-refractory UC, but the evidence is limited and **there is currently no role for such testing** to determine likelihood of disease evolution or prognosis. [[acg-2025-uc]]
-- **Do not use ANCA/ASCA to separate UC from CD.** *(Prior versions of this page listed ASCA as ~60–70% positive in Crohn's — neither cited guideline states that figure; it has been removed.)*
+- **Do not use ANCA/ASCA to separate UC from CD.** Neither ACG 2025 guideline gives an ASCA positivity rate for Crohn's disease.
 
 ### UC disease extent (the classification that drives therapy)
 
@@ -80,7 +80,7 @@ CD has no "extent" scheme equivalent to UC's proctitis/left-sided/extensive. Wha
 
 ## Classical Teaching Not Asserted by the Cited Guidelines
 
-These appear in textbooks but are **not stated in [[acg-2025-uc]] or [[acg-2025-crohns]]**, so they are recorded here as unsourced rather than in the table above; verify against a pathology or general IBD reference:
+These appear in textbooks but are **not stated in [[acg-2025-uc]] or [[acg-2025-crohns]]** — verify against a pathology or general IBD reference before relying on them:
 
 - **Cobblestoning** as a Crohn's endoscopic/imaging sign
 - **"Lead pipe" colon** (loss of haustra) in chronic UC

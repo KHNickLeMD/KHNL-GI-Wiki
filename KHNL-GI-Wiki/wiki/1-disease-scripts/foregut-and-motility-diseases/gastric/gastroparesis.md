@@ -238,7 +238,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, aga-2021-medically-ref
 
 ### AGA 2025 Recommendations — What Is Actually Suggested
 
-[[aga-2025-gastroparesis|AGA 2025]] is the newest guideline and it is **substantially more restrictive than [[acg-2022-gastroparesis|ACG 2022]]**. Only two treatments are suggested *for*; almost everything else is suggested *against as first-line* or *against routine use*. Where the two guidelines differ, the AGA 2025 position is what this page asserts (newer guideline within the same tier); the ACG 2022 position is noted alongside.
+[[aga-2025-gastroparesis|AGA 2025]] is the newest guideline and it is **substantially more restrictive than [[acg-2022-gastroparesis|ACG 2022]]**. Only two treatments are suggested *for*; almost everything else is suggested *against as first-line* or *against routine use*. Where the two differ, **follow AGA 2025** as the newer guideline; the ACG 2022 position is noted alongside.
 
 | # | AGA 2025 recommendation | Strength | Certainty |
 |---|---|---|---|
@@ -270,7 +270,7 @@ Recommendations 9–12 all condition on *refractory* disease. AGA 2025 defines i
 
 Before labelling a patient refractory: re-confirm the accuracy of the diagnosis, evaluate for coexisting conditions driving the predominant symptom, assess nutritional status, and manage multidisciplinarily (PCP, gastroenterologist, dietitian; endocrinologist in diabetes; interventional endoscopist and foregut surgeon in select cases) [[aga-2025-gastroparesis]].
 
-> ⚠ **Two tier-1 AGA definitions exist and they do not match. AGA 2025 governs the gate; the 2022 CPU supplies the trial durations AGA 2025 omits.**
+> ⚠ **Two AGA definitions exist and they do not match. Use AGA 2025 for the gate; the 2022 CPU supplies the trial durations AGA 2025 omits.**
 
 | | [[aga-2025-gastroparesis\|AGA 2025]] (governs) | [[aga-2021-medically-refractory-gastroparesis\|AGA 2022 refractory CPU]] |
 |---|---|---|

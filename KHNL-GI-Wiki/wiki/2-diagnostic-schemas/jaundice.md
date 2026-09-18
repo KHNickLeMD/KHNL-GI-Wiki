@@ -114,7 +114,7 @@ flowchart TD
 ## Red Flags / Alarm Features
 
 - **[[acute-liver-failure|Acute liver failure]]** — illness <26 weeks in a patient **without** preexisting liver disease, with **any degree** of [[hepatic-encephalopathy|encephalopathy]] **AND** coagulopathy (**INR ≥1.5**) → urgent [[liver-transplantation|transplant]]-center referral ([[acg-2023-alf]]). Exceptions to the "no prior liver disease" rule: [[autoimmune-hepatitis|AIH]], [[budd-chiari-syndrome|Budd-Chiari]], [[wilson-disease|Wilson disease]]
-- **Ascending cholangitis** — Charcot's triad (fever, jaundice, RUQ pain) ± Reynolds' pentad (+ hypotension, confusion) → urgent biliary drainage. **The eponyms are unsourced shorthand (see flag above); the operative rule is the TG18 severity grade — organ dysfunction (any one) = Grade III, two of five criteria = Grade II — which is what sets drainage timing. Criteria on [[acute-cholangitis]].**
+- **Ascending cholangitis** — Charcot's triad (fever, jaundice, RUQ pain) ± Reynolds' pentad (+ hypotension, confusion) → urgent biliary drainage. **The eponyms are classic teaching, not a diagnostic rule; what sets drainage timing is the TG18 severity grade — organ dysfunction (any one) = Grade III, two of five criteria = Grade II. Criteria on [[acute-cholangitis]].**
 - **Painless jaundice with weight loss** — pancreaticobiliary malignancy (Courvoisier's sign: palpable nontender gallbladder)
 - **Marked coagulopathy or rising bilirubin/INR** — severe hepatic dysfunction
 - **Signs of sepsis** in the setting of biliary obstruction

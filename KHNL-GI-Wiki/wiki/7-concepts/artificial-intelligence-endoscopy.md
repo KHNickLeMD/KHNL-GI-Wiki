@@ -32,7 +32,7 @@ Framework for AI computer-vision tools in GI endoscopy, focused on [[colonoscopy
 - **Computer-aided quality assessment:** measures/improves withdrawal technique and mucosal exposure (fold examination, withdrawal speed, coverage).
 - Contemporary tools = deep-learning **convolutional neural networks** on live video (earlier detectors were still-image, hand-engineered features). Trained on large expert-labeled image/video sets; generalize well to unseen video. [[aga-2023-ai-colon-polyp]], [[aga-2025-cade-colonoscopy]]
 - Several CADe platforms have FDA marketing approval as medical devices.
-- [[aga-2023-ai-colon-polyp]] Figure 1 (CADe alert box on a sessile and a flat polyp) and Figure 2 (CADx histology-prediction display) show what the displays look like; they are not reproduced here.
+- What the displays look like on screen: [[aga-2023-ai-colon-polyp]] Figure 1 (CADe alert box on a sessile and a flat polyp) and Figure 2 (CADx histology-prediction display).
 
 ## CADe — Computer-Aided Detection
 

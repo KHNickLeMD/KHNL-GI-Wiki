@@ -22,7 +22,7 @@ sources: [acg-2024-focal-liver-lesions]
 - Approach pivots on **background liver**:
   - **[[cirrhosis|Cirrhosis]] / chronic liver disease** → assume malignant ([[hepatocellular-carcinoma|HCC]]) until proven otherwise; characterize with [[li-rads|LI-RADS]] and follow [[hcc-surveillance|HCC surveillance]]. **This is out of scope for [[acg-2024-focal-liver-lesions|ACG 2024]]**, which states it is "focused predominantly on the diagnosis and management of FLLs in people **without** known liver disease" and defers the at-risk population to the AASLD HCC guidance. LI-RADS criteria therefore live on [[li-rads]], not here.
   - **Non-cirrhotic** → most solid lesions are benign ([[hepatic-hemangioma|hemangioma]], [[hepatocellular-adenoma|adenoma]], [[focal-nodular-hyperplasia|FNH]]); goal is confident non-invasive characterization to avoid biopsy/surgery *(KC 4)*.
-- This page is the **single home for the side-by-side imaging comparison** and for the *route-to-decision*; lesion-specific size thresholds, subtyping, and management live on each disease-script page.
+- This page carries the **side-by-side imaging comparison** and the route to a decision; lesion-specific size thresholds, subtyping, and management are on each disease-script page.
 - **Inadequately characterized or atypical lesions → multidisciplinary liver tumor board** *(KC 2)*.
 
 ---

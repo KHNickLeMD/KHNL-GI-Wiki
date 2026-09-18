@@ -6,6 +6,31 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-18] lint | Fourth consecutive cron-provenance failure — three new raw files arrived, all three were silently ingested, none reached the index or this log
+
+**The finding that mattered — the provenance failure recurred, and this time it hid an inbox delivery.**
+
+Three files arrived in `raw/` since the 2026-09-09 baseline: `GI RCTs/CIRROXABAN study.pdf`, `GI RCTs/cryoprevention for postERCP pancreatitis.pdf`, and `GI Guidelines/Other/Cotton Consensus.pdf` (counts: `Other` 19→20, `GI RCTs` 10→12; **434** non-asset files, new baseline — AASLD 35, ACG 61, AFS 2, AGA 175, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, Other Studies 5, RCTs 12). The 2026-09-17 and 2026-09-18 cron passes (`37ad7c3`, `4097773`) **ingested all three**, wrote three good source pages — and added **zero** rows to `index.md` and **zero** entries here. Backfilled this pass.
+
+**`Cotton Consensus.pdf` is misnamed, and the cron caught it.** The file is Suzuki et al., *JGH Open* 2021;5:1391–1397 — a prospective multicenter cohort, **not** the 1991 Cotton consensus statement, which it cites and tests against. [[suzuki-2021-pep-acute-pancreatitis-criteria]] says so on its own Bibliographic Info line and files itself as tier-2 primary research with *"no recommendations and no graded statements."* Worth recording because the filename would otherwise promote a cohort study to tier 1 — and **no Anki cards may be written from either new RCT/cohort** under the guideline-sourced-cards-only rule.
+
+**Two of the three never reached an entity page.** [[suzuki-2021-pep-acute-pancreatitis-criteria]] and [[azuma-2026-cryoprevention-pep]] link only to each other — zero inbound links from any entity page. On this wiki that reliably means the clinical content stopped at the source page, and it did: [[ercp]] carries PEP incidence (~8% average-risk, ~15% high-risk), the ASGE high-risk criteria and the full prophylaxis table, but **never states how PEP is diagnosed** — conclusion without inputs, on the single most common serious adverse event in GI endoscopy. Both new sources bear directly on that gap (Cotton's 3-of-3 AND vs the AP 2-of-3 OR; the 38.7% shortfall; cryoprevention). [[puente-2025-cirroxaban-rivaroxaban-cirrhosis]] propagated correctly on its own to [[portal-vein-thrombosis]], [[portal-hypertension]] and [[cirrhosis-hemostasis]] — index row only.
+
+**Sources backfilled to the index (3):** [[suzuki-2021-pep-acute-pancreatitis-criteria]], [[azuma-2026-cryoprevention-pep]], [[puente-2025-cirroxaban-rivaroxaban-cirrhosis]].
+
+**Inbox-detection note:** `git status` genuinely cannot help here and the prompt for this pass assumed it could — `raw/`'s content subfolders are git-ignored at `/repo/.gitignore` (only `raw/assets/` is tracked), so a newly synced PDF is never an untracked file and can never be committed. The per-subfolder count-vs-baseline method remains the only one that works.
+
+**Ingest (2 — the per-pass cap):** the three new arrivals were already taken by cron, so both slots went to the AGA backlog in queue order — `AGA 2018 CPU Surgical Risk & Perioperative Management in Cirrhosis` and `AGA 2020 CPU Palliative Care in Cirrhosis`.
+
+**Hygiene verified:** 587 pages, 296 sources on disk (index footer had 564/279 — stale since 2026-09-08). **0** `.DS_Store`, **0** unescaped alias pipes in tables. Orphans and broken links were re-scanned mid-pass and are unreliable in this entry because the parallel batches were still writing — `alcohol-associated-hepatitis` read as a stub and as a complete page minutes apart. Re-scan on the next pass.
+
+**For user triage:**
+
+- **This is the fourth consecutive occurrence, and the first to conceal an inbox delivery.** Three backfills have now been done by hand; the durable fix is in the scheduled task's prompt — it must append its own `log.md` entry and `index.md` rows in the same commit as the ingest — not in a fifth backfill.
+- The gated lecture/chalk-talk corpus (**60 transcripts**) is untouched and still awaits Nick naming which to ingest.
+
+---
+
 ## [2026-09-14] lint | Third consecutive cron-provenance failure — six unattended passes ingested 9 tier-1 sources and created 4 pages, wrote zero log entries, and left all 13 absent from the index
 
 **The finding that mattered — the recording failure is now chronic, and it is getting bigger each time.**

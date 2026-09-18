@@ -34,7 +34,7 @@ sources: [aga-2020-nvugib-endoscopic-therapies, acg-2021-ugib, acg-2023-lgib, ac
 
 ## Scope — What Lives Here and What Lives Elsewhere
 
-This page is the **single home for the hemostatic devices themselves** — mechanism, settings, technique, and how each one fails. It deliberately does **not** repeat the site-specific decision algorithms, which live on their own pages:
+This page covers the **hemostatic devices themselves** — mechanism, settings, technique, and how each one fails. The site-specific decision algorithms are on their own pages:
 
 | Question | Where it is answered |
 |---|---|

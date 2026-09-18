@@ -3,8 +3,8 @@ title: "Upper GI Bleeding"
 category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
-updated: 2026-09-06
-sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2020-nvugib-endoscopic-therapies, tg18-2018-cholangitis-flowchart]
+updated: 2026-09-18
+sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2020-nvugib-endoscopic-therapies]
 ---
 
 ## Contents
@@ -180,7 +180,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 ### Step 5: Endoscopic Evaluation — Ulcer Stigmata
 
-**Source note.** [[acg-2021-ugib|ACG 2021]] does **not** use or define the Forrest classification — it stratifies by *descriptive* stigmata only. The **class definitions and the class-specific rebleeding percentages come from [[acg-2025-egd-quality|ACG/ASGE 2025]]** (QI 13), which requires that every ulcer seen at [[upper-endoscopy|EGD]] be classified by Forrest class in the procedure report (Strong/1A, performance target >98%) precisely because the class dictates the need for endoscopic therapy and the post-intervention PPI dose. This page is the single home for the Forrest table; other pages link here.
+[[acg-2021-ugib|ACG 2021]] does **not** use or define the Forrest classification — it stratifies by *descriptive* stigmata only. The **class definitions and the class-specific rebleeding percentages come from [[acg-2025-egd-quality|ACG/ASGE 2025]]** (QI 13), which requires that every ulcer seen at [[upper-endoscopy|EGD]] be classified by Forrest class in the procedure report (Strong/1A, performance target >98%) precisely because the class dictates the need for endoscopic therapy and the post-intervention PPI dose.
 
 | Forrest class | Stigma (as defined by [[acg-2025-egd-quality]]) | Rebleeding **after** successful endoscopic hemostasis ᵃ | Endoscopic therapy | Supporting ACG 2021 data |
 |---|---|---|---|---|
@@ -289,12 +289,12 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 | Stigmata of recent hemorrhage and/or presence of blood on endoscopy | 0, 2 |
 
 - **Requires endoscopic evaluation to determine the full score** — it is *not* a pre-endoscopic triage tool, unlike GBS and AIMS65. Predicts risk of additional bleeding and death in hospitalized patients.
-- ⚠ **Not fully computable from this page.** The guidelines give the component list and the point values *available* per component, but **not the cutpoints that assign a given age, blood pressure or comorbidity to a specific point value** — those are in the primary Rockall paper. *(The same limitation applies to GAHS/ABIC, CTSI, and Curaçao. Tokyo TG18 Grade I/II/III criteria are on [[acute-cholangitis]]; LA grade criteria are printed as figures in [[acg-2025-egd-quality]] and [[aga-2024-upper-endoscopy-quality]] — see [[upper-endoscopy]].)*
+- ⚠ **Not scoreable from the component list alone.** The guidelines give the components and the point values *available* for each, but **not the cutpoints that assign a given age, blood pressure, or comorbidity to a specific point value** — use the original Rockall scoring table at the bedside.
 
 ### AIMS65 Score
 
 - **Not mentioned anywhere in [[acg-2021-ugib|ACG 2021]]** — no components, no threshold, no endorsement there. (It is referenced comparatively in [[acg-2023-lgib|ACG 2023 LGIB]], where the ABC score is reported as superior to AIMS65 and GBS.)
-- ✅ **Gap closed 2026-09-06** — components, thresholds and mortality bands are printed in [[aga-2020-nvugib-endoscopic-therapies]], Table 1. **All five components score 0 or 1, so the score runs 0–5 and is fully computable.**
+- Components, thresholds, and mortality bands are printed in [[aga-2020-nvugib-endoscopic-therapies]], Table 1. **All five components score 0 or 1, so the score runs 0–5.**
 
 | Letter | Component | Threshold | Points |
 |---|---|---|---|
@@ -384,4 +384,3 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 4. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)]]
 5. [[aga-2024-upper-endoscopy-quality|AGA 2024: Quality Indicators for Upper GI Endoscopy]]
 6. [[aga-2020-nvugib-endoscopic-therapies|AGA 2020 Clinical Practice Update: Endoscopic Therapies for Non-Variceal Upper Gastrointestinal Bleeding]]
-7. [[tg18-2018-cholangitis-flowchart|Tokyo Guidelines 2018: Initial Management of Acute Biliary Infection and Flowchart for Acute Cholangitis]]

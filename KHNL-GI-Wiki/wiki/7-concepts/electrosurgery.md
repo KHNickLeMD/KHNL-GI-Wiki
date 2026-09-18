@@ -153,7 +153,7 @@ Best practice (BPA 4) — a team process involving endoscopist, room nurse, tech
 - **Position the ESU** in the room for both **visibility and operation**.
 - **Closed-loop communication** among team members **before ESU activation** and during troubleshooting.
 
-The CPU's Figure 2 (endoscopy room layout and the full ESU safety-practice checklist) is not reproduced here; see the source document for the itemized checklist.
+The itemized ESU safety-practice checklist and the endoscopy room layout are given in the source's Figure 2.
 
 ### Dispersive Electrode (Return Pad)
 

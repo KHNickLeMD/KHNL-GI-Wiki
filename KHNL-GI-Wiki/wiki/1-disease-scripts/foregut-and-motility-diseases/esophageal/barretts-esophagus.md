@@ -3,7 +3,7 @@ title: "Barrett's Esophagus"
 category: disease-script
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance, foregut]
 created: 2026-05-15
-updated: 2026-09-06
+updated: 2026-09-18
 sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, asge-2023-esd]
 ---
 
@@ -240,7 +240,7 @@ Pathologic confirmation was also associated with **prevalent** HGD/carcinoma —
 
 **No repeat screening** after a negative index endoscopy.
 
-**Special case:** If erosive esophagitis ([[reflux-testing|LA grade]] B or worse) is found at index endoscopy, repeat EGD after 8–12 weeks of PPI healing to exclude masked BE. *(The A–D grade definitions are on [[reflux-testing]].)*
+**Special case:** If erosive esophagitis ([[reflux-testing|LA grade]] B or worse) is found at index endoscopy, repeat EGD after 8–12 weeks of PPI healing to exclude masked BE. The A–D grades are used but not defined by any of the guidelines here; the criteria are in the original Lundell 1999 LA-classification paper.
 
 ### Medical Therapy / Chemoprevention
 

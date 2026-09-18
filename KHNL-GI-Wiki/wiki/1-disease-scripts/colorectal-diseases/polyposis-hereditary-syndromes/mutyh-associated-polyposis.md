@@ -58,7 +58,7 @@ Surveillance mirrors AFAP (start age / interval):
 | Upper GI | **30–35** — concordant in [[acg-2015-hereditary-gi-cancer\|ACG 2015]] Table 10 and [[asge-2020-fap\|ASGE 2020]] Table 6, the latter adding **"or before colectomy"** | baseline, then per duodenal Spigelman stage (as for FAP/AFAP) | [[upper-endoscopy\|EGD]] **with a side-viewing instrument** |
 | Thyroid | — | **annual** | Thyroid ultrasound *(ACG Rec 11; conditional, low)* — applies to FAP, MAP, and attenuated polyposis |
 
-> **Contradiction (surfaced):** [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 10 starts colon surveillance in MAP at **25–30**; [[asge-2020-fap|ASGE 2020]] Table 3 starts it at **18–20**. Same tier → the newer ASGE age is asserted here.
+> **Guidelines differ:** [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 10 starts colon surveillance in MAP at **25–30**; [[asge-2020-fap|ASGE 2020]] Table 3 starts it at **18–20**. **Start at 18–20** per the newer ASGE.
 
 - Genetic testing for suspected adenomatous polyposis should include **both APC and MUTYH** analysis (a negative APC test alone does not exclude polyposis).
 - **Age to test an at-risk relative: 18–20 years** *(ASGE 2020 Rec 2)* — deliberately deferred out of childhood so the individual can make their own informed decision, since MAP's onset and its screening both begin in adulthood (contrast **FAP, tested at 10–12**).

@@ -123,7 +123,7 @@ Careful endoscopic evaluation, reporting, and **photo-documentation** of the fol
 
 ### Erosive Esophagitis: Los Angeles (LA) Grade
 
-> [[acg-2021-gerd]], [[asge-2024-gerd]], [[acg-2020-esophageal-physiologic-testing]] and Lyon 2.0 all *use* LA grades A–D without defining them. The A–D criteria are in the original Lundell 1999 LA-classification paper and are not reproduced here.
+> [[acg-2021-gerd]], [[asge-2024-gerd]], [[acg-2020-esophageal-physiologic-testing]] and Lyon 2.0 all *use* LA grades A–D without defining them. The A–D criteria come from the original Lundell 1999 LA-classification paper.
 >
 > What *is* sourced: grade-specific significance (LA A borderline, LA B conclusive per Lyon 2.0) on [[ambulatory-reflux-monitoring]]; and **LA C/D as sufficient objective evidence of GERD** (see the test-selection table above — do not test off therapy).
 

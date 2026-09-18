@@ -124,12 +124,12 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-
 - **Healing 94–98%** — clearly superior to uncontrolled manual anal dilation, and more efficacious than any topical or injectable treatment.
 - **Technique:** no outcome difference between open and closed sphincterotomy → a **minimal-incision approach is probably preferred**.
 - **Complications** — ACG states only that there is a "**low but real incidence of fecal incontinence**"; it gives no pooled rate. Individual series in Table 10: minor incontinence **4%**, incontinence **16%**, delayed wound healing **4%**, urinary retention **44%** in one series.
-- **Decision point — sphincter tone:** **use LIS with caution when anal pressures are not high.** In that case **anal advancement flap repair or V-Y plasty is recommended instead.** *(This is a pressure-based, not location-based, decision — a prior version of this page wrongly tied flap/V-Y to anterior fissures.)*
+- **Decision point — sphincter tone:** **use LIS with caution when anal pressures are not high.** In that case **anal advancement flap repair or V-Y plasty is recommended instead.** The trigger is the **pressure**, not the fissure's location.
 - **Crohn's disease:** medical management is recommended and **LIS should be used with great caution**. LIS **may be considered in patients with rectal-sparing disease who have good resting and squeeze pressures.** Refractory chronic fissures are treated first with a CCB.
 
 **Controlled pneumatic balloon dilation:** promising in **one small series**; suggests an interested gastroenterologist may treat even medically refractory fissures without surgical consultation — but **surgical referral remains prudent** for most medical failures because LIS is safe and effective.
 
-> **Contradiction across sources (higher-priority/newer wins).** [[asge-2010-anorectal-disorders]] suggests **topical nitrate *or* CCB *or* botulinum toxin** as co-equal first-line nonsurgical therapy (low quality). The newer [[acg-2021-anorectal-disorders]] narrows this: **topical CCB first**, nitrates second, botulinum toxin of uncertain role. The page asserts the ACG 2021 position.
+> **Guidelines differ.** [[asge-2010-anorectal-disorders]] offers **topical nitrate *or* CCB *or* botulinum toxin** as co-equal first-line nonsurgical therapy (low quality). The newer [[acg-2021-anorectal-disorders]] narrows this to **topical CCB first**, nitrates second, botulinum toxin of uncertain role — the sequence given above.
 
 ---
 

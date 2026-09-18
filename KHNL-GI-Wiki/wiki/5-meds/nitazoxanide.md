@@ -35,9 +35,9 @@ Role assignments below are [[idsa-2017-infectious-diarrhea]] Table 6 (Recommende
 
 - **Advanced immunosuppression** ([[hiv-aids-related-diarrhea|advanced HIV/AIDS]]) — limited efficacy as monotherapy for cryptosporidiosis; **immune restoration (effective cART) is the key intervention**, and IDSA lists nitazoxanide for HIV-infected hosts only *in combination with* cART.
 
-## Dosing — Not Given by the Guidelines
+## Dosing
 
-> Neither [[idsa-2017-infectious-diarrhea]] (Table 6 has no dose column) nor [[acg-2016-acute-diarrhea]] (names the agent in prose only) states a nitazoxanide **dose, interval, or duration**. The commonly cited 500 mg BID × 3 days is therefore **not sourced here**; take dosing from the CDC/IDSA parasitic-disease treatment tables.
+> Neither [[idsa-2017-infectious-diarrhea]] (Table 6 has no dose column) nor [[acg-2016-acute-diarrhea]] (names the agent in prose only) states a nitazoxanide **dose, interval, or duration**. Take dosing from the CDC/IDSA parasitic-disease treatment tables.
 
 ## See Also
 

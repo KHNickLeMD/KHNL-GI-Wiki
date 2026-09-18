@@ -109,11 +109,11 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 - Shorten the interval inside 5 years if the patient is symptomatic or polyps are found
 - Table 1's closing note applies generally: where **very-early-onset cancers** occur in the family, start surveillance **10 years earlier than the youngest cancer diagnosis** in that family
 
-> **Contradiction (surfaced, not silently resolved):** [[acg-2015-hereditary-gi-cancer|ACG 2015]] advised colonoscopy **from age 15, every 2 years** (conditional, low). The newer [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] guideline sets **age 35, interval ≤5 years** *(R14)*, and names the disagreement itself — "This recommendation differs from a recent American College of Gastroenterology Guideline, which recommends initiating colonoscopy at age 15 years. Recent evidence suggesting later onset of significant colon cancer risk informed our recommendations." Per source priority (same tier → newer publication wins), the page follows 2022. Note this is a *later* start with a *longer* maximum interval — the older ACG schedule is the more intensive of the two.
+> **Guidelines differ.** [[acg-2015-hereditary-gi-cancer|ACG 2015]] advised colonoscopy **from age 15, every 2 years** (conditional, low). The newer [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] guideline sets **age 35, interval ≤5 years** *(R14)*, and names the disagreement itself — "This recommendation differs from a recent American College of Gastroenterology Guideline, which recommends initiating colonoscopy at age 15 years. Recent evidence suggesting later onset of significant colon cancer risk informed our recommendations." **Follow the 2022 schedule.** Note this is a *later* start with a *longer* maximum interval — the older ACG schedule is the more intensive of the two.
 
 **Surveillance schedule — where the guidelines diverge** (ages in years):
 
-| Examination | [[acg-2015-hereditary-gi-cancer\|ACG 2015]] | NCCN 2020 † | [[aga-2022-hamartomatous-polyposis\|USMSTF 2022]] — asserted here |
+| Examination | [[acg-2015-hereditary-gi-cancer\|ACG 2015]] | NCCN 2020 † | [[aga-2022-hamartomatous-polyposis\|USMSTF 2022]] — *use this* |
 |---|---|---|---|
 | [[colonoscopy\|Colonoscopy]] | **15**, q2 y | **35**, q5 y | **35**, q≤5 y — *graded (R14; weak, low)* |
 | [[upper-endoscopy\|Upper endoscopy]] | **15**, q2–3 y | — | — (no separate recommendation) |

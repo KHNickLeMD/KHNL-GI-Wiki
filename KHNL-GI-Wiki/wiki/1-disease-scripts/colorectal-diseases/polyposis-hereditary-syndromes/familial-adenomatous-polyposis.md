@@ -125,7 +125,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 | After proctocolectomy + IPAA | — | 1 y after surgery | 1–2 y (**6 mo** if advanced adenoma incl. HGD) | Pouch endoscopy |
 | After subtotal colectomy + IRA | — | 6 mo after surgery | 6 mo–1 y | Sigmoidoscopy |
 
-> **Contradiction (surfaced):** the two guidelines disagree on when MAP surveillance starts — ACG 2015 Table 10 says **25–30**, ASGE 2020 Table 3 says **18–20**. Same tier, so the **newer ASGE 2020 (18–20 y)** is what this page asserts.
+> **Guidelines differ** on when MAP surveillance starts — ACG 2015 Table 10 says **25–30**, ASGE 2020 Table 3 says **18–20**. **Start at 18–20** per the newer ASGE 2020.
 
 - If no polyps on the initial sigmoidoscopy, re-screen at **2-year intervals**; a child with rectosigmoid polyps gets a full colonoscopy to grade severity and resect large polyps. In a mutation carrier with a negative initial exam, repeat colonoscopy in the **late teenage years and every 2 years to age 40** [[asge-2020-fap]]
 - Record number, size, and distribution of polyps; biopsy several representative polyps
@@ -141,7 +141,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Standard forward-viewing EGD supplemented with side-viewing instrument; random sampling of fundic gland polyps in stomach
 - Frequency determined by **Spigelman staging** of duodenal polyposis (Table 9):
 
-| Spigelman Stage | Total Points | Interval — [[acg-2015-hereditary-gi-cancer\|ACG 2015]] Table 9 | Interval — [[asge-2020-fap\|ASGE 2020]] Table 6 *(asserted here)* |
+| Spigelman Stage | Total Points | Interval — [[acg-2015-hereditary-gi-cancer\|ACG 2015]] Table 9 | Interval — [[asge-2020-fap\|ASGE 2020]] Table 6 *(use this)* |
 |---|---|---|---|
 | 0 | 0 | Every 4 years | **Every 5 years** (0 and I combined) |
 | I | ACG prints **≤4**; ASGE prints **1–4** | Every 2–3 years | **Every 5 years** (0 and I combined) |
@@ -149,7 +149,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 | III | 7–8 | Every 6–12 months | Every 6–12 months |
 | IV | 9–12 | Every 3–6 months + surgical evaluation | Every 3–6 months + surgical evaluation |
 
-> **Contradiction (surfaced):** the two guidelines disagree on the **low-stage** intervals — ACG 2015 surveils stage 0 at 4 y, I at 2–3 y and II at 1–3 y, whereas [[asge-2020-fap|ASGE 2020]] collapses **0–I into a single 5-year interval** and stretches **II to 3 years**. Stages III and IV are concordant. Same tier → the newer ASGE intervals are what this page asserts; the ACG column is kept because readers carry it. The stage **cut-points** are otherwise the same in both, except that ACG's stage I is written `≤4` (which overlaps stage 0) where ASGE writes `1–4`.
+> **Guidelines differ** on the **low-stage** intervals — ACG 2015 surveils stage 0 at 4 y, I at 2–3 y and II at 1–3 y, whereas [[asge-2020-fap|ASGE 2020]] collapses **0–I into a single 5-year interval** and stretches **II to 3 years**. Stages III and IV are concordant. **Use the newer ASGE intervals**; the ACG column is kept alongside since it is still widely quoted. The stage **cut-points** are otherwise the same in both, except that ACG's stage I is written `≤4` (which overlaps stage 0) where ASGE writes `1–4`.
 
 *Scoring (each of 4 variables scores 1/2/3 points; total 0–12):*
 
@@ -179,12 +179,12 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Random gastric biopsies at each EGD; surgery reserved for high-grade dysplasia or cancer (Strong/VLow)
 - **Upper-GI start ages differ by syndrome — and the two guidelines differ on FAP/AFAP:**
 
-| Syndrome | Start — [[acg-2015-hereditary-gi-cancer\|ACG 2015]] Table 10 | Start — [[asge-2020-fap\|ASGE 2020]] Table 6 *(asserted here)* | Instrument |
+| Syndrome | Start — [[acg-2015-hereditary-gi-cancer\|ACG 2015]] Table 10 | Start — [[asge-2020-fap\|ASGE 2020]] Table 6 *(use this)* | Instrument |
 |---|---|---|---|
 | FAP and attenuated FAP | **25–30 y** | **20–25 y, or before colectomy** | EGD with duodenoscope **or cap-assisted gastroscope** |
 | [[mutyh-associated-polyposis\|MAP]] | **30–35 y** (text: "around age 30") | **30–35 y, or before colectomy** | EGD |
 
-> **Contradiction (surfaced):** ASGE 2020 begins FAP/AFAP upper-GI surveillance **5 years earlier** than ACG 2015, and ties the start to colectomy timing (**"or before colectomy"**) — a qualifier ACG does not give. Same tier → the newer ASGE start age is what this page asserts. The two agree on MAP at 30–35.
+> **Guidelines differ:** ASGE 2020 begins FAP/AFAP upper-GI surveillance **5 years earlier** than ACG 2015, and ties the start to colectomy timing (**"or before colectomy"**) — a qualifier ACG does not give. **Use the newer ASGE start age.** The two agree on MAP at 30–35.
 
 - All three syndromes then follow the same Spigelman intervals — MAP's duodenal cancer risk is similar to AFAP/FAP
 

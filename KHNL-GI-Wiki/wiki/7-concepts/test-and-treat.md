@@ -33,7 +33,7 @@ A management strategy for **uninvestigated [[dyspepsia]]** in which patients are
 - No alarm features (see below)
 - *H. pylori* prevalence in region **>10%**
 
-> ⚠ **Two guidelines, two age cutoffs.** [[acg-2017-hp-guidelines]] states **<55** (Strong/Moderate); the same-year, dyspepsia-specific [[acg-cag-2017-dyspepsia]] **raised the threshold to <60** and is what this page asserts. Use <60. See [[dyspepsia]].
+> ⚠ **Two guidelines, two age cutoffs.** [[acg-2017-hp-guidelines]] states **<55** (Strong/Moderate); the same-year, dyspepsia-specific [[acg-cag-2017-dyspepsia]] **raised the threshold to <60**. Use **<60**. See [[dyspepsia]].
 
 **Alarm features:**
 

@@ -40,7 +40,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 2. **Any number** of juvenile polyps **in parts of the GI tract other than the colon** — note this is *any*, whereas the referral threshold R8 requires **≥2**; OR
 3. **Any number** of juvenile polyps **plus ≥1 first-degree relative with JPS**
 
-- The older [[acg-2015-hereditary-gi-cancer|ACG 2015]] criteria were looser on points 2 and 3 — *any* juvenile polyps elsewhere in the GI tract, and any number of polyps with a family history of *juvenile polyps* (not necessarily diagnosed JPS). The 2022 thresholds above govern this page (same tier → newer wins)
+- The older [[acg-2015-hereditary-gi-cancer|ACG 2015]] criteria were looser on points 2 and 3 — *any* juvenile polyps elsewhere in the GI tract, and any number of polyps with a family history of *juvenile polyps* (not necessarily diagnosed JPS). **Use the 2022 thresholds above** as the newer criteria
 - General referral trigger for *any* hamartomatous polyposis syndrome: **≥2 lifetime hamartomatous polyps**, a family history of hamartomatous polyps, or a hamartomatous-syndrome–associated cancer in a **first- or second-degree relative**; test with a **multigene panel** *(R1; Strong, low)*
 - **Organs to survey** *(R9; Strong, low)*: **colon and stomach**
 

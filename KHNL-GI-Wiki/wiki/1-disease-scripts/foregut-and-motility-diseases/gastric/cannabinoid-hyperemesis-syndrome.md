@@ -16,7 +16,7 @@ Chronic [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction
 | [[aga-2024-chs]] / [[aga-2024-cvs]] (2024 CPUs) | Treated as a **subtype of [[cyclic-vomiting-syndrome\|cyclic vomiting syndrome (CVS)]]** — CHS criteria are defined by reference to CVS-like episodes |
 | [[rome-v-2026-dgbi]] (2026, newer) | A **separate adult entity, B2c**, alongside B2a chronic nausea vomiting syndrome and B2b CVS under "Nausea and vomiting disorders." In the **pediatric** classification it remains nested under CVS (**G3b.i**) |
 
-Rome V is the newer tier-1 source, so **B2c (distinct entity in adults) is what this page asserts**; the CVS-subtype framing survives as the practical clinical relationship — the workup and much of the therapy are shared.
+Rome V is the newer consensus, so in adults **treat CHS as its own entity (B2c)** — the framing used below. The older CVS-subtype view still describes the practical clinical relationship: the workup and much of the therapy are shared.
 
 ## Contents
 - [[#Assessment]]

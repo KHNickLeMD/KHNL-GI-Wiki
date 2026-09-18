@@ -147,7 +147,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 
 - **TCA titration:** start low — **10 mg amitriptyline or 10 mg desipramine** — and titrate gradually upward to the target range above. [[acg-2020-ibs]]
 
-> **Contradiction (surfaced) — antispasmodics.** [[acg-2020-ibs|ACG 2020]] recommends **against** antispasmodics for global IBS symptoms (Conditional/Low); the newer [[aga-2022-ibs-c|AGA 2022]] IBS-C **and** [[aga-2022-ibs-d|IBS-D]] guidelines both **suggest using** them (Conditional/Low). Same tier, so the newer guideline governs: antispasmodics are a reasonable adjunct, with the ACG's negative appraisal noted. The same split applies to **PEG laxatives in IBS-C** (ACG against for global symptoms; AGA 2022 suggests using — Conditional/Low).
+> **Guidelines differ — antispasmodics.** [[acg-2020-ibs|ACG 2020]] recommends **against** antispasmodics for global IBS symptoms (Conditional/Low); the newer [[aga-2022-ibs-c|AGA 2022]] IBS-C **and** [[aga-2022-ibs-d|IBS-D]] guidelines both **suggest using** them (Conditional/Low). Follow the newer guidelines: antispasmodics are a reasonable adjunct, with the ACG's negative appraisal noted. The same split applies to **PEG laxatives in IBS-C** (ACG against for global symptoms; AGA 2022 suggests using — Conditional/Low).
 
 ### IBS-C
 

@@ -160,7 +160,7 @@ flowchart TD
 - ACG's supporting data: 30-day recurrence **13% vs 26.6%** with vancomycin; higher drug cost but similar cost-effectiveness once recurrences are counted. The margin is largest where recurrence risk is highest — older age, prior CDI, concomitant systemic antibiotics. [[acg-2021-cdiff]]
 - **Practical:** QID vancomycin doses may be taken during **waking hours** — patients do not need to wake overnight for exact q6h dosing.
 
-> **Contradiction (surfaced) — metronidazole.** [[acg-2021-cdiff]] permits metronidazole 500 mg TID × 10 days for younger low-comorbidity outpatients in cost-constrained settings. The newer same-tier [[aga-2026-cdiff-adults|AGA 2026 CPU]] states metronidazole **should not be used outside fulminant disease** (higher recurrence; inferior in older, hospitalized, and multimorbid patients). This page asserts the 2026 position; the ACG low-risk carve-out is superseded.
+> **Guidelines differ — metronidazole.** [[acg-2021-cdiff]] permits metronidazole 500 mg TID × 10 days for younger low-comorbidity outpatients in cost-constrained settings. The newer [[aga-2026-cdiff-adults|AGA 2026 CPU]] states metronidazole **should not be used outside fulminant disease** (higher recurrence; inferior in older, hospitalized, and multimorbid patients). **Follow AGA 2026** — the ACG low-risk carve-out is superseded.
 
 **Assessing response — the decision point at day 3–5:** expect at least a **50% reduction in loose/liquid bowel movements per day within 3 days, and no later than 5 days**. If not achieved, look for another explanation (inadequate response, another infection, or a noninfectious cause such as [[irritable-bowel-syndrome|IBS]]) rather than simply extending therapy. [[aga-2026-cdiff-adults]]
 
@@ -295,7 +295,7 @@ Severe (but nonfulminant) CDI that stays refractory — **hospitalized with ongo
 
 **Oral vancomycin prophylaxis (OVP) during systemic antibiotics — reversed:**
 
-> **Contradiction (surfaced).** [[acg-2021-cdiff|ACG 2021]] Rec 18 conditionally recommends OVP 125 mg once daily during subsequent systemic antibiotics, continued until **5 days after** they finish, in a **combination** high-risk group: **(age ≥65 years *or* significant immunocompromise)** *and* **hospitalized for severe CDI within the past 3 months**. The newer same-tier [[aga-2026-cdiff-adults|AGA 2026 CPU]] (BPA 12) advises **against** vancomycin during systemic antibiotics to prevent CDI. This page asserts the 2026 position.
+> **Contradiction (surfaced).** [[acg-2021-cdiff|ACG 2021]] Rec 18 conditionally recommends OVP 125 mg once daily during subsequent systemic antibiotics, continued until **5 days after** they finish, in a **combination** high-risk group: **(age ≥65 years *or* significant immunocompromise)** *and* **hospitalized for severe CDI within the past 3 months**. The newer [[aga-2026-cdiff-adults|AGA 2026 CPU]] (BPA 12) advises **against** vancomycin during systemic antibiotics to prevent CDI. **Follow AGA 2026** — do not give prophylactic vancomycin.
 >
 > **Why AGA reversed it:** the only RCT found **no statistically significant difference** in recurrent CDI with OVP; the 13.5% absolute reduction it observed was in an **underpowered** trial. Prior guideline support rested on conditional, low-quality evidence. The ACG pooled observational data (13 studies, 9,258 patients: future CDI **13.3% with OVP vs 21.9% without**, OR 0.34, 95% CI 0.20–0.59) is exactly the observational signal the RCT failed to confirm.
 >
@@ -371,7 +371,7 @@ Patients become **less contagious once diarrhea resolves** — formed stool spre
 - **No probiotics** for primary or secondary prevention
 - Consider **oral vancomycin prophylaxis** as secondary prevention in those with prior CDI receiving systemic antibiotics
 
-> **Contradiction (surfaced):** [[acg-2021-cdiff]] lists vancomycin 125 mg QID (≥14 days) as IBD first-line, whereas the newer [[aga-2026-cdiff-ibd|AGA 2026 CPU]] prefers **fidaxomicin** for initial CDI in IBD. As the newer same-tier guideline, fidaxomicin-preferred is what this page asserts; the ACG vancomycin pathway remains acceptable when fidaxomicin is unavailable/cost-prohibitive.
+> **Guidelines differ.** [[acg-2021-cdiff]] lists vancomycin 125 mg QID (≥14 days) as IBD first-line, whereas the newer [[aga-2026-cdiff-ibd|AGA 2026 CPU]] prefers **fidaxomicin** for initial CDI in IBD. **Start fidaxomicin** per the newer guideline; the ACG vancomycin pathway remains acceptable when fidaxomicin is unavailable or cost-prohibitive.
 
 **Pregnancy/peripartum/lactation:**
 

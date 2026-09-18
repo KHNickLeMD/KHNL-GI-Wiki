@@ -115,14 +115,14 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 
 ### Thrombosed External Hemorrhoids
 
-**AGA 2026 BPA 9 (newest tier-1 source — leads):** acute thrombosed hemorrhoids are often extremely painful and are **best treated surgically with incision and drainage (I&D)**. Early I&D gives the **most effective and rapid symptom relief** vs conservative measures.
+**AGA 2026 BPA 9 (newest guideline — follow this):** acute thrombosed hemorrhoids are often extremely painful and are **best treated surgically with incision and drainage (I&D)**. Early I&D gives the **most effective and rapid symptom relief** vs conservative measures.
 
 - **Technique:** when I&D is performed, **"de-roof" the cavity** so it does not reform with the incision closing over.
 - **Who/where:** I&D can be performed by a **gastroenterologist in the office, or in the ED** — unlike excision, it does not require the OR.
 - **If excision is chosen instead, it must be complete** — complete excision *and* evacuation of the clot.
 - **Most thrombosed external hemorrhoids resolve without any surgical treatment**; surgery buys early relief, not a different endpoint. Conservative care = stool softening (docusate), sitz baths, pain control.
 
-> ⚠ **Guidelines conflict — procedure and timing window.** Both are tier-1; **AGA 2026 is the newer source and leads the page**, but ACG 2021's recommendation is graded (Strong / low quality) and reads differently:
+> ⚠ **Guidelines conflict — procedure and timing window.** **Follow the newer AGA 2026**, but note ACG 2021's recommendation is graded (Strong / low quality) and reads differently:
 >
 > | | [[aga-2026-hemorrhoids\|AGA 2026]] (BPA 9) | [[acg-2021-anorectal-disorders\|ACG 2021]] (Rec 2, Strong/Low) |
 > |---|---|---|

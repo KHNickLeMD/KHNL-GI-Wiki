@@ -65,7 +65,7 @@ Source Table 1, in full — the terms the rest of the page conditions on.
 - Initial comprehensive assessment **should include a psychologist experienced in chronic visceral pain conditions** — few gastroenterologists have in-depth knowledge of the psychological aspects.
 - **Assess both sensory and affective properties** of the pain — all chronic pain has both, and both drive symptom experience, impact, and outcome.
 - Assess the pre-existing risk factors below **and** the pain-related emotions, thoughts, and behaviors currently driving the response to pain.
-- The diagnostic workup algorithm (source Figure 1A) and levels-of-intervention diagram (Figure 1B) are not reproduced here — see the original.
+- The source gives a diagnostic workup algorithm (Figure 1A) and a levels-of-intervention diagram (Figure 1B).
 
 ### Peripheral Initiators vs Central Maintainers
 
