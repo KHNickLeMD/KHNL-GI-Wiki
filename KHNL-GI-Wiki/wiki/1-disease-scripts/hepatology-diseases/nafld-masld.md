@@ -136,11 +136,47 @@ See [[noninvasive-liver-disease-assessment]] for the cross-disease NILDA framewo
   - **MASH F2–F3 (moderate-to-advanced fibrosis):** Target population for FDA-approved pharmacotherapy ([[resmetirom]], semaglutide)
 - **MASH-related cirrhosis (F4):** End-stage; HCC risk; decompensation events; semaglutide not approved for this stage
 
+#### Lean MASLD (lean NAFLD)
+
+*All content in this subsection and the two lean subsections below from [[aga-2022-lean-nafld]] unless otherwise cited.*
+
+**Definition (BPA 1) — the BMI cut-point is ethnicity-qualified; it is not a single number:**
+
+| Race/ancestry | BMI defining lean |
+|---|---|
+| **Non-Asian race** | **<25 kg/m²** |
+| **Asian race** | **<23 kg/m²** |
+
+- Reference bands behind those cut-points: CDC/WHO normal range **18.5–24.9 kg/m²** · overweight **25–29.9** · grade 1 obesity **30–34.9**. WHO applies a lower cutoff for **Asian ancestry — overweight BMI 23–27.5, obesity >27.5** — recognizing metabolic risk at lower BMI.
+- Term **lean NAFLD** (normal-range BMI, race-based cutoffs) is preferred over *nonobese NAFLD*, though the two are often used interchangeably.
+- ⚠ Supersedes the ≤25 / ≤23 definition in [[aga-2021-lifestyle-modification-nafld]] (both AGA CPUs; 2022 is newer). Divergence is confined to a BMI of exactly 25.0 / 23.0.
+
+**Epidemiology:** **7%–20%** of people with NAFLD are lean (≈**8–10 million US adults**). Global NAFLD/NASH Registry: ~**6.8%** of biopsy-confirmed NASH is lean — older, more often Asian, fewer metabolic-syndrome components, but **similar risk for advanced fibrosis**. NHANES III: **10.8%** of lean individuals had NAFLD (older, more often men).
+
+**Natural history — lean is not a benign phenotype:**
+
+- Cross-sectionally lean patients have **lower** prevalence of advanced fibrosis/cirrhosis than overweight/obese patients.
+- Biopsy-confirmed cohort, median **8.4 y**: lean participants had **higher risk of liver-related death** (they also had higher baseline advanced fibrosis).
+- >**1300** biopsy-confirmed subjects (Europe/Australia): lean NAFLD had **less severe histology**, yet over ~**7.5 y** nearly **5%** had liver-related events despite most maintaining a lean BMI.
+- Swedish population registry, ~**20 y**: lower baseline fibrosis stage but **higher risk of developing severe liver disease** than nonlean NAFLD.
+- → lean NAFLD progresses **independent of weight gain**; risk-stratify everyone for fibrosis (BPA 3).
+
+**Cardiometabolic evaluation (BPA 2):** evaluate and treat **diabetes, dyslipidemia, and hypertension** routinely. Observational data are mixed — some cohorts show *fewer* cardiometabolic risk factors and less atherosclerosis than nonlean NAFLD, others a **similar or higher** prevalence of risk factors/risk scores and **more cardiovascular events**. Lean NAFLD shows altered bile-salt and cholesterol metabolism, and the ***TM6SF2* rs58542926 (T) allele** (protects against diet-associated obesity relative to nonlean NAFLD).
+
+**Screening (BPA 4, 5):**
+
+- **Do NOT screen the lean general population** — NAFLD prevalence among lean individuals is relatively low.
+- **DO screen lean individuals >40 years with T2DM**, then risk-stratify for advanced fibrosis.
+- Consider MASLD **across the BMI range** in anyone with metabolic disease (T2DM, dyslipidemia, hypertension), elevated liver biochemical tests, or incidentally noted steatosis — **the initial diagnostic approach is the same for lean and nonlean patients**.
+- Society divergence noted by the update: EASL/EASD/EASO screen all with obesity or metabolic syndrome; ADA evaluates in T2DM with abnormal liver tests or fatty liver; **AASLD does not endorse NAFLD screening**.
+
 ---
 
 ## Differential Diagnosis
 
 *Workup: see [[abnormal-liver-chemistries]].*
+
+*In a lean patient the secondary-cause differential is wider and is worked through stepwise — see [[#Lean MASLD — excluding secondary causes and staging]].*
 
 - [[alcohol-associated-liver-disease]] — alcohol history; AST:ALT ratio ≥2:1; GGT elevated; can coexist with MASLD; MetALD is the overlapping spectrum
 - [[drug-induced-liver-injury]] — steatohepatitis pattern DILI (amiodarone, tamoxifen, methotrexate, corticosteroids)
