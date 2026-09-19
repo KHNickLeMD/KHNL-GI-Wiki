@@ -780,21 +780,21 @@ Topics with no page yet. The lint cron creates **1–2 per pass** from the top o
 | — | ~~`2020 Young Adult-Onset CRC`~~ | ✅ **ingested 2026-09-07 (01:10 cron)** → [[aga-2020-young-adult-onset-crc]], [[early-onset-colorectal-cancer]]. ⚠ Same failure as the malignant-obstruction row below — the cron ingested it, wrote no `log.md` entry, and struck nothing here, so the 2026-09-08 pass began re-ingesting it before catching the duplication. Backfilled 2026-09-08 |
 | — | ~~`2020 SIBO`~~ | ✅ **ingested 2026-09-08** → [[aga-2020-sibo]]; fed [[small-intestinal-bacterial-overgrowth]], [[rifaximin]], [[irritable-bowel-syndrome]], [[chronic-diarrhea]], [[abdominal-bloating-and-distention]], [[intestinal-methanogen-overgrowth]]. Closed the rifaximin SIBO-duration gap and surfaced **12 AGA-vs-ACG contradictions** |
 | — | ~~`2021 Medically Refractory Gastroparesis`~~ | ✅ **ingested 2026-09-08** → [[aga-2021-medically-refractory-gastroparesis]]. ⚠ **The citation year is 2022** (*Clin Gastroenterol Hepatol* 2022;20:491–500), not 2021 — slug keeps the filename's year, the page flags it, and any source-priority comparison must use **2022** |
-| 7 | `2022 Personalized Approach to GERD` | [[gerd]] phenotyping |
-| 8 | `2020 Functional Heartburn` | [[gerd]] / functional heartburn + reflux hypersensitivity |
-| 9 | `2022 Role of Diet in IBS` | [[irritable-bowel-syndrome]] — low-FODMAP; **was missing from the old table** |
-| 10 | `2018 Extraesophageal Symptoms Attributed to GERD` | [[extraesophageal-reflux]] — ⚠ a **different, older** document than [[aga-2023-extraesophageal-gerd]]; ingest to record what changed |
-| 11 | `2019 Celiac Serology and Histology Monitoring` | [[celiac-disease]] follow-up intervals |
-| 12 | `2021 Seronegative Enteropathies` | seronegative villous atrophy DDx |
-| 13 | `2017 Severe Acute Alcoholic Hepatitis` | unblocks *Fillable now* #21; pairs with [[lee-2018-accelerate-ah]] |
-| 14 | `2019 Hepatobiliary Cancer Surveillance in PSC` | CCA surveillance in [[primary-sclerosing-cholangitis]] |
+| — | ~~`2022 Personalized Approach to GERD`~~ | ✅ **ingested 2026-09-09** → [[aga-2022-personalized-gerd]]; [[gerd]] phenotyping. Struck 2026-09-19 |
+| — | ~~`2020 Functional Heartburn`~~ | ✅ **ingested 2026-09-12 (cron)** → [[aga-2020-functional-heartburn]], [[functional-heartburn]]. Struck 2026-09-19 |
+| — | ~~`2022 Role of Diet in IBS`~~ | ✅ **ingested 2026-09-12 (cron)** → [[aga-2022-diet-ibs]], [[low-fodmap-diet]]. Struck 2026-09-19 |
+| — | ~~`2018 Extraesophageal Symptoms Attributed to GERD`~~ | ✅ **ingested 2026-09-12 (cron)** → [[aga-2018-extraesophageal-gerd]]; the older counterpart to [[aga-2023-extraesophageal-gerd]]. Struck 2026-09-19 |
+| — | ~~`2019 Celiac Serology and Histology Monitoring`~~ | ✅ **ingested 2026-09-12 (cron)** → [[aga-2019-celiac-monitoring]]; [[celiac-disease]] follow-up intervals. Struck 2026-09-19 |
+| — | ~~`2021 Seronegative Enteropathies`~~ | ✅ **ingested 2026-09-12 (cron)** → [[aga-2021-seronegative-enteropathies]], [[seronegative-villous-atrophy]]. Struck 2026-09-19 |
+| — | ~~`2017 Severe Acute Alcoholic Hepatitis`~~ | ✅ **ingested 2026-09-12 (cron)** → [[aga-2017-severe-alcoholic-hepatitis]]; unblocked *Fillable now* #21 → [[alcohol-associated-hepatitis]]. Struck 2026-09-19 |
+| — | ~~`2019 Hepatobiliary Cancer Surveillance in PSC`~~ | ✅ **ingested 2026-09-12 (cron)** → [[aga-2019-psc-cancer-surveillance]]; CCA surveillance in [[primary-sclerosing-cholangitis]]. Struck 2026-09-19 |
 | — | ~~`2020 HCC Screening in NAFLD`~~ | ✅ **ingested 2026-09-14 (cron)** → [[aga-2020-hcc-screening-nafld]]; fed [[nafld-masld]], [[hcc-surveillance]]. ⚠ Same provenance failure as the rows above — the cron ingested it, struck nothing here and wrote no `log.md` entry, in the very same commit that backfilled 13 earlier silent ingests. Backfilled 2026-09-15 |
 | — | ~~`2021 Lifestyle Modification in NAFLD`~~ | ✅ **ingested 2026-09-14 (cron)** → [[aga-2021-lifestyle-modification-nafld]]; fed [[nafld-masld]]. Same unlogged/unindexed failure; backfilled 2026-09-15 |
-| 17 | `2022 NAFLD in Lean Individuals` | lean MASLD |
-| 18 | `2019 Oral DAAs and HCC` | [[direct-acting-antivirals]] / HCC-risk controversy |
-| 19 | `2017 Care After SVR in HCV` | post-SVR follow-up — nothing covers this ([[aasld-idsa-2023-hcv]] is treatment) |
-| 20 | `2018 Surgical Risk & Perioperative Management in Cirrhosis` | ⚠ **was missing from the old table**; distinct from [[acg-2025-perioperative-cirrhosis]] |
-| 21 | `2020 Palliative Care in Cirrhosis` | ⚠ **was missing**; AGA counterpart to [[aasld-2022-palliative-cirrhosis]] |
+| — | ~~`2022 NAFLD in Lean Individuals`~~ | ✅ **ingested 2026-09-15 (cron)** → [[aga-2022-lean-nafld]]; lean MASLD. Unlogged and unindexed by the cron; backfilled 2026-09-19 |
+| — | ~~`2019 Oral DAAs and HCC`~~ | ✅ **ingested 2026-09-15 (cron)** → [[aga-2019-daa-hcc]]; fed [[direct-acting-antivirals]], [[hepatitis-c]]. Unlogged and unindexed by the cron; backfilled 2026-09-19 |
+| — | ~~`2017 Care After SVR in HCV`~~ | ✅ **ingested 2026-09-16 (cron)** → [[aga-2017-care-after-svr-hcv]]; post-SVR follow-up, which [[aasld-idsa-2023-hcv]] does not cover. Unlogged and unindexed by the cron; backfilled 2026-09-19 |
+| — | ~~`2018 Surgical Risk & Perioperative Management in Cirrhosis`~~ | ✅ **ingested 2026-09-19 (cron)** → [[aga-2018-surgical-risk-perioperative-cirrhosis]]; distinct from [[acg-2025-perioperative-cirrhosis]]. Unlogged and unindexed by the cron; backfilled 2026-09-19 |
+| — | ~~`2020 Palliative Care in Cirrhosis`~~ | ✅ **ingested 2026-09-19 (cron)** → [[aga-2020-palliative-care-cirrhosis]], [[palliative-care-in-cirrhosis]]; AGA counterpart to [[aasld-2022-palliative-cirrhosis]]. Unlogged and unindexed by the cron; backfilled 2026-09-19 |
 | 22 | `2020 Bariatric Surgery in Cirrhosis` | [[bariatric-surgery]] in [[cirrhosis]] |
 | 23 | `2016 Low-Grade Dysplasia in Barrett's` | [[barretts-esophagus]] LGD |
 | 24 | `2020 Endoscopic Treatment of Barrett's Dysplasia-Early Cancer` | [[endoscopic-eradication-therapy]] |
