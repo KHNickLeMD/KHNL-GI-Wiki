@@ -1,5 +1,5 @@
 /*
- * KHNL GI Wiki — Social layer, Steps 4–12: signup, verification & login +
+ * Digestpedia — Social layer, Steps 4–12: signup, verification & login +
  * avatar bubble & account menu + bookmarks + reviewed-page tracking +
  * private in-context notes (durable, §4.3) + friends (§4.5) + privacy (§4.6).
  * Plan: ACCOUNTS-SOCIAL-PLAN.md §2 (sessions), §4.1 (auth), §4.2 (avatar

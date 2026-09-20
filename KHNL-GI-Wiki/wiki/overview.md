@@ -7,7 +7,7 @@ updated: 2026-08-29
 sources: []
 ---
 
-# KHNL GI Encyclopedia — Overview
+# Digestpedia — Overview
 
 For the full description of this wiki — scope, structure, therapeutic landscape, key frameworks, and evidence sources — see the **[README](README.md)** at the root of the repository.
 

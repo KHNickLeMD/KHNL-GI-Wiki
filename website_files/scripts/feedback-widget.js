@@ -1,5 +1,5 @@
 /*
- * KHNL GI Wiki — Feedback widget (Step 2)
+ * Digestpedia — Feedback widget (Step 2)
  * Plan: ACCOUNTS-SOCIAL-PLAN.md §4.4 + §4.9
  *
  * Self-contained vanilla-JS drop-in. No framework, no build step, no dependencies

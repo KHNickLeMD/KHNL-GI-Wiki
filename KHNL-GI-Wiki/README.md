@@ -1,4 +1,4 @@
-# KHNL GI Wiki
+# Digestpedia
 
 An AI-assisted clinical reference wiki with resources curated by me, organized in Obsidian, and built by Claude Code.
 

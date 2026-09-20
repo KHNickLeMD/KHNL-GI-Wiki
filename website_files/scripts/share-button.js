@@ -1,5 +1,5 @@
 /*
- * KHNL GI Wiki — per-page Share button
+ * Digestpedia — per-page Share button
  *
  * Self-contained vanilla-JS drop-in (same pattern as feedback-widget.js /
  * social-layer.js): injects its own styles, listens for the router's
@@ -37,7 +37,7 @@
     return {
       x: "https://x.com/intent/post?text=" + t + "&url=" + u,
       linkedin: "https://www.linkedin.com/sharing/share-offsite/?url=" + u,
-      email: "mailto:?subject=" + encodeURIComponent(title + " — KHNL GI Wiki") +
+      email: "mailto:?subject=" + encodeURIComponent(title + " — Digestpedia") +
              "&body=" + encodeURIComponent(title + "\n" + url),
     };
   }
@@ -189,7 +189,7 @@
     if (nativeBtn) {
       nativeBtn.addEventListener("click", function () {
         closeMenu(false);
-        navigator.share({ title: title, text: title + " — KHNL GI Wiki", url: url }).catch(function () {});
+        navigator.share({ title: title, text: title + " — Digestpedia", url: url }).catch(function () {});
       });
     }
     menu.querySelectorAll("a.khnl-share-item").forEach(function (a) {

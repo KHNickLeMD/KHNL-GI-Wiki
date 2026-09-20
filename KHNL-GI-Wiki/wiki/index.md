@@ -4,7 +4,7 @@ category: index
 updated: 2026-09-04
 ---
 
-# KHNL GI Encyclopedia — Master Index
+# Digestpedia — Master Index
 
 > Content-oriented catalog. Updated on every ingest. Read this first when answering queries.
 

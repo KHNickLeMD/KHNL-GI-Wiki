@@ -28,7 +28,7 @@
   // bundle path) just pay one harmless extra download.
   window.__bundleFetch = fetch('website_files/search/wiki-bundle.json').catch(() => null);
 </script>
-<title>KHNL GI Wiki</title>
+<title>Digestpedia</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -1246,7 +1246,7 @@
 <nav id="sidebar">
   <div id="sidebar-header">
     <div id="sidebar-logo">
-      <div id="sidebar-logo-mark" aria-label="KHNL GI Wiki">
+      <div id="sidebar-logo-mark" aria-label="Digestpedia">
         <!-- Full KHNL mark — serif N + flipped stomach "L", "KH" above (per KHNL Logo System) -->
         <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="KHNL">
           <defs>
@@ -1267,7 +1267,7 @@
         </svg>
       </div>
       <div>
-        <div id="sidebar-title">KHNL GI Wiki</div>
+        <div id="sidebar-title">Digestpedia</div>
         <div id="sidebar-subtitle">Gastroenterology &amp; Hepatology</div>
       </div>
     </div>
@@ -2238,7 +2238,7 @@ function showOverview() {
     <div class="home-wrap">
       <div class="home-hero">
         <div class="home-hero-row">
-          <h1>KHNL GI Wiki</h1>
+          <h1>Digestpedia</h1>
           <span class="home-hero-kicker">Compounding reference</span>
         </div>
         <p>A working wiki of gastroenterology &amp; hepatology guidelines and evidence by <a style="white-space:nowrap;">Khanh Hoang Nicholas Le, MD, MS</a><br>Resources curated by me, synced from Obsidian, and organized by Claude.</p>
@@ -2368,7 +2368,7 @@ function showHowToUse()  { _showReadmeView('howto', '🧭 How to Use'); }
 
 const DISCLAIMER_ABOUT =
   '<div class="about-wrap"><div class="about-section" id="about-disclaimer"><h2>Disclaimer</h2>' +
-  '<p>The KHNL GI Wiki is an educational reference for clinicians. It is not medical advice, does not ' +
+  '<p>Digestpedia is an educational reference for clinicians. It is not medical advice, does not ' +
   'create a physician–patient relationship, and may contain errors or lag behind guideline updates. ' +
   'Always verify against the original society guideline and use your own clinical judgment before ' +
   'making patient-care decisions.</p></div></div>';
@@ -2414,7 +2414,7 @@ function _showReadmeView(mode, crumb) {
           ? `<h1 style="font-size:24px;font-weight:700;margin-bottom:8px;letter-spacing:-0.02em;">How to Use</h1>
              <p style="color:var(--text-muted);">Connect your GitHub repository to load the README.</p>`
           : `<h1 style="font-size:24px;font-weight:700;margin-bottom:8px;letter-spacing:-0.02em;">About This Wiki</h1>
-             <p style="color:var(--text-muted);margin-bottom:28px;font-size:14px;">How the KHNL GI Wiki was built and how to navigate it.</p>
+             <p style="color:var(--text-muted);margin-bottom:28px;font-size:14px;">How Digestpedia was built and how to navigate it.</p>
              <div class="about-section"><h2>How It Was Made</h2>
              <p>This wiki was built using <strong>Obsidian</strong> and <strong>Claude AI</strong> — connect your GitHub repo to load the full README.</p></div>`;
         el.innerHTML = `<div class="about-wrap">${fallback}</div>` + (mode === 'about' ? DISCLAIMER_ABOUT : '');

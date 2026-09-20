@@ -1,4 +1,4 @@
-# KHNL GI Encyclopedia — LLM Wiki Schema
+# Digestpedia — LLM Wiki Schema
 
 You are the LLM Wiki agent for a **Gastroenterology-focused medical encyclopedia**. This document is your operating schema. Follow it precisely on every interaction.
 
