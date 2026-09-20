@@ -3,8 +3,8 @@ title: "Barrett's Esophagus"
 category: disease-script
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance, foregut]
 created: 2026-05-15
-updated: 2026-09-18
-sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, asge-2023-esd]
+updated: 2026-09-20
+sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, asge-2023-esd, aga-2020-endoscopic-treatment-barretts-dysplasia, aga-2020-post-endoscopy-esophageal-adenocarcinoma, aga-2016-low-grade-dysplasia-barretts]
 ---
 
 Barrett's esophagus (BE) is a metaplastic condition in which the normal squamous epithelium of the distal esophagus is replaced by specialized columnar epithelium containing intestinal-type goblet cells (intestinal metaplasia, IM). It is the only known precursor to [[esophageal-adenocarcinoma|esophageal adenocarcinoma]] (EAC), a cancer with rapidly increasing incidence over the past four decades. BE arises in the setting of chronic [[gerd|gastroesophageal reflux disease]]; 5–12% of patients with chronic GERD symptoms harbor BE.
@@ -26,6 +26,7 @@ Barrett's esophagus (BE) is a metaplastic condition in which the normal squamous
   - [[#Surveillance Intervals]]
   - [[#Endoscopic Eradication Therapy (EET)]]
   - [[#Post-CEIM Surveillance]]
+  - [[#Post-Endoscopy Esophageal Adenocarcinoma (PEEC) and Examination Quality]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -295,16 +296,35 @@ Pathologic confirmation was also associated with **prevalent** HGD/carcinoma —
    - If IND confirmed: **annual EGD** until the histologic grade changes (AGA 2025)
 4. **Do NOT perform EET for confirmed IND** (AGA 2025)
 
-**Confirmed LGD — Surveillance pathway (alternative to EET):**
+**Confirmed LGD — the four decisions, in order:**
 
-- Same confirmatory EGD within 6 months on high-dose acid suppression to exclude prevalent HGD/EAC
+**1. Is it really LGD?** The diagnosis must be confirmed by an **expert GI pathologist** — defined by [[aga-2016-low-grade-dysplasia-barretts|AGA 2016]] as "a pathologist with a special interest in Barrett's esophagus–related neoplasia who is recognized as an expert in this field by his/her peers" — and by [[aga-2020-endoscopic-treatment-barretts-dysplasia|AGA 2020]] as "an experienced gastrointestinal pathologist," best achieved by confirmation from **1 or more** pathologists with expertise in GI histology. **If the read is downgraded to NDBE, manage as NDBE** (AGA 2016), using NDBE intervals. Community LGD is downgraded in 73–75% of cases; progression differs by roughly an order of magnitude either side of that read (see Severity Assessment).
+
+**2. Confirmatory endoscopy — when.** A repeat high-definition white-light exam (preferably with optical chromoendoscopy) on **maximal/high-dose acid suppression**, to exclude a visible lesion and prevalent HGD/EAC. The three ingested AGA documents give three windows; the newest governs:
+
+| Source | Window after confirmed LGD |
+|---|---|
+| **[[aga-2025-barretts-surveillance\|AGA 2025]] (governing — newest)** | By an expert endoscopist **within 6 months** on high-dose acid suppression |
+| [[aga-2020-endoscopic-treatment-barretts-dysplasia\|AGA 2020 CPU]] | Within **3–6 months**, HD-WLE and preferably optical chromoendoscopy |
+| [[aga-2016-low-grade-dysplasia-barretts\|AGA 2016 CPU]] | **8–12 weeks**, under twice-daily [[proton-pump-inhibitors\|PPI]] |
+
+- Any visible abnormality found — **no matter how subtle** — is resected, not biopsied: endoscopic resection changes the grade of dysplasia in ~30% of patients with early neoplasia and gives better interobserver agreement than biopsy (κ 0.33 vs 0.22) (AGA 2016).
+- **Do not take surveillance biopsies during active erosive esophagitis** ([[reflux-testing|LA]] grade C or D). If biopsies are taken anyway, tell the pathologist; if pathology then suggests LGD, or if no biopsies were taken, repeat the sampling after the anti-reflux regimen has been intensified further (AGA 2016).
+- Dysplasia is not evenly distributed: the **proximal half** of the Barrett's segment is almost twice as likely to show dysplasia as the distal-most quartile (AGA 2016).
+
+**3. EET or surveillance — a documented conversation.** Both are reasonable for **confirmed and persistent** LGD (AGA 2020 Best Practice Advice 2). AGA 2016 requires that for LGD persisting on a second endoscopy despite intensified acid suppression, the **risks and benefits of EET (specifically the adverse events of endoscopic resection and ablation) and of ongoing surveillance are discussed and documented.** Persistent LGD — LGD on 2 consecutive endoscopies — is, alongside expert confirmation, the only factor reproducibly associated with progression (AGA 2016 Table 3); AGA 2020 quantifies it at **7.65%/yr vs 2.32%/yr**. Confirmed LGD should be referred to an endoscopist with BE-neoplasia expertise at a center with high-definition endoscopy that can perform both resection and ablation (AGA 2016).
+
+**4. If surveillance is chosen:**
+
 - Continue high-dose (twice-daily) acid suppression throughout
-- EGD at **6-month intervals for 1 year** (i.e. 6 and 12 months), then **annually**, until the histologic grade changes
-- Sample with random 4-quadrant biopsies **every 1 cm** + targeted sampling/resection of visible lesions
+- EGD at **6-month intervals for 1 year** (i.e. 6 and 12 months), then **annually**, until the histologic grade changes — AGA 2025; AGA 2016 states the same schedule as "every 6 months times 2, then annually unless there is reversion to nondysplastic BE"
+- Sample with random 4-quadrant biopsies **every 1 cm** + targeted sampling/resection of visible lesions (AGA 2016 gives every 1–2 cm, visible lesions biopsied first)
 - If findings revert to NDBE: resume 3-year intervals
 - Rationale for the shorter interval: expert-confirmed LGD progresses to HGD/EAC at **5.7%/yr** per AGA 2025; ACG 2022 puts expert-confirmed LGD at **9.1%/pt-yr** within an overall 1.73–11.8%/yr literature range (see Severity Assessment)
 
-**HGD:** Surveillance alone is NOT an appropriate management strategy; proceed to EET.
+**A practice-level signal, not a patient-level one:** the proportion of a practice's BE patients diagnosed with LGD (the LGD/BE ratio) tracks with outcomes — a ratio **<0.15** was associated with a *higher* rate of progression to EAC than a ratio >0.15 (**0.76%/yr vs 0.32%/yr**), i.e. under-calling LGD lets cancers through. AGA 2016 does not define the right threshold and records only that its experts believe it should be <0.05. It asks expert pathologists to audit and publish their LGD diagnosis rates and their progression differential, with results made available to referring endoscopists.
+
+**HGD:** Surveillance alone is NOT an appropriate management strategy; proceed to EET. The read should be confirmed by an experienced GI pathologist, and **flat HGD should prompt a repeat HD-WLE at 6–8 weeks** to look for a visible lesion, which is then removed by [[endoscopic-mucosal-resection|EMR]] ([[aga-2020-endoscopic-treatment-barretts-dysplasia|AGA 2020]]) — truly flat HGD is uncommon, most HGD patients have a visible lesion, and an ulcerated lesion within HGD raises suspicion for invasive cancer where curative endoscopic therapy is probably not feasible. Flat HGD progresses to EAC at **5–8% per year**.
 
 **Cessation of surveillance:** Consider when patient is no longer fit for EET, has estimated survival <5 years, or cannot tolerate endoscopy or subsequent intervention. Discontinuation should be driven by **age and comorbidity** (AGA 2025); discussion at approximately age 75 is clinically reasonable.
 
@@ -375,6 +395,23 @@ ASGE 2018 (Rec 5, **conditional**) and [[aga-2024-barretts-eet|AGA 2024]] (Rec 4
   - Stricture rate 9–12% (higher with cryoballoon vs RFA)
   - No RCT data comparing cryotherapy vs RFA
 
+**How far to ablate — the anatomic target** ([[aga-2020-endoscopic-treatment-barretts-dysplasia|AGA 2020]] Best Practice Advice 6). Ablation covers more than the visible segment; all three of:
+
+1. All visible esophageal columnar mucosa
+2. **5–10 mm proximal** to the squamocolumnar junction
+3. **5–10 mm distal** to the GEJ, as demarcated by the top of the gastric folds (i.e. the gastric cardia) — with a **focal** device, **circumferentially**
+
+The GEJ/neo-z-line is the hardest area to treat: gastric folds and hiatal-hernia widening reduce mucosal contact for balloon-based RFA, endoscopy is unreliable for judging residual BE there, and it is the commonest site of neoplastic recurrence.
+
+**Ground rules for each ablation session** (AGA 2020):
+
+- Ablate **only** flat BE, without signs of inflammation and in the absence of visible abnormalities. Every session starts with careful HD-WLE (preferably optical chromoendoscopy) inspection to exclude a lesion needing resection instead — failing to recognise an invasive cancer while continuing to ablate is the worst outcome of the treatment phase.
+- Incomplete endoscopic healing → **postpone ablation at least 6 weeks**, verify acid suppression, and **avoid biopsies** (reactive inflammatory change cannot be reliably separated from residual dysplasia, and without endoscopic signs of progression the result will not change the plan).
+- Do **not** take routine biopsies of flat BE before an ablation session — blood inhibits energy transfer to the tissue.
+- Sessions at **2–3 month** intervals; therapy may extend beyond 1 year.
+- **Twice-daily PPI throughout the treatment phase.** Maximising acid suppression before ablation removes the need for a baseline 24-hour pH study, which is reserved for selected cases (poor squamous regeneration after resection, refractory BE, persistent erosive esophagitis).
+- Resection burden: **EMR of >50% of the BE circumference** raises stricture rates — avoid extensive resection of flat BE. Radical (stepwise) EMR vs focal EMR + ablation: stricture **88% vs 14%**.
+
 **Where to perform EET:**
 
 - High-volume centers with ≥10 new HGD/early EAC cases per endoscopist per year (ESGE threshold)
@@ -415,7 +452,36 @@ CEIM defined as: 1–2 surveillance endoscopies with no visible BE and no IM on 
 
 **Do NOT discontinue surveillance after CEIM** (recurrence risk persists with duration of follow-up). ASGE 2018 (Rec 7, **conditional**): surveillance over no surveillance after CE-IM — pooled recurrence: any 7.5, IM 4.8, dysplasia 2.0 per 100 patient-years, most within the first 3 years.
 
-**Treatment of recurrence:** Same EET principles — ER for visible lesions, ablation for flat residual BE. >90% of recurrences are successfully treated endoscopically. Significance of nondysplastic IM recurrence at the GEJ is debated and may not require treatment.
+**Treatment of recurrence:** Same EET principles — ER for visible lesions, ablation for flat residual BE. >90% of recurrences are successfully treated endoscopically. Significance of nondysplastic IM recurrence at the GEJ is debated and may not require treatment. [[aga-2020-endoscopic-treatment-barretts-dysplasia|AGA 2020]] is explicit that **intestinal metaplasia of the gastric cardia alone — without residual columnar epithelium in the tubular esophagus — does not warrant additional ablation**: cardia IM is found in up to 25% of adults without endoscopic BE, and post-ablation it is usually detected on a single occasion and not on further follow-up.
+
+### Post-Endoscopy Esophageal Adenocarcinoma (PEEC) and Examination Quality
+
+Neoplasia found soon after an endoscopy is mostly **prevalent disease that was missed**, not new biology — so it measures the quality of the examination ([[aga-2020-post-endoscopy-esophageal-adenocarcinoma|AGA 2020 PEEC]], modelled on the post-colonoscopy CRC framework).
+
+**Definitions (proposed, not yet consensus):**
+
+| Term | Definition |
+|---|---|
+| **PEEC** | EAC and/or BE-related HGD identified within a finite period — **typically 1 year** — after an index endoscopy |
+| **Interval EAC** | EAC or BE-related HGD diagnosed after a *negative* screening or surveillance endoscopy, **before the date of the next recommended test** |
+
+**Scale:** PEEC incidence **3–13%** in cohort studies and **3–25%** across meta-analyses; **25.3%** of HGD/EAC in surveillance studies is designated missed (<1 year threshold), and **27%** of all HGD/cancer is found in the first surveillance year. In LGD trials, first-year incidence is ~**2.3×** the overall annual progression rate. After CEIM, dysplasia detection carries RR **1.92** in year 1 vs later years, and failure to achieve CEIM carries RR **2.2** for recurrent HGD/EAC (6% vs 3%) — residual IM is better read as a marker of **prevalent dysplasia** than as a predictor of recurrence.
+
+**Three mechanisms:** missed dysplasia/EAC (**the most important**) · incompletely resected or ablated lesions · rapidly progressive cancer (the smallest contributor).
+
+**Why lesions are missed:** only subtle differences separate normal from dysplastic mucosa, and recognising them has a learning curve; the Seattle protocol is often not pursued assiduously and, even performed correctly, samples **<5%** of the BE segment; inspection time is not proportionate to what colonoscopy gets; and dysplasia on histology may not be the only predictor of prevalent cancer (a 4-gene methylation panel showed high marker content in IM without dysplasia). **30%** of NDBE patients undergo endoscopy earlier than guidelines recommend without strict Seattle-protocol adherence.
+
+**Proposed quality indicators** (none yet in value-based care plans; most rest on weak evidence, and NDR is a surrogate whereas PEEC is the outcome that matters):
+
+| Indicator | Definition / threshold |
+|---|---|
+| **NDR** (neoplasia detection rate) | Prevalence of HGD and EAC within BE at the **index screening** endoscopy. Pooled prevalence **7%** (95% CI 4–10%) → proposed threshold **4%** |
+| **DDR** (dysplasia detection rate) | Similar metric; observed prevalence **4–6%**, unchanged over a 5-year registry trend |
+| **Barrett's Inspection Time** | Proportion of routine surveillance exams incorporating **1 minute of visual inspection per cm of circumferential BE** — requires validation before adoption |
+| Surveillance interval in NDBE | No sooner than **3–5 years** |
+| Seattle protocol adherence | Proposed alongside the interval metric |
+
+**Four things that reduce PEEC:** (1) identify and **photo-document** the diaphragmatic hiatus, GEJ and SCJ, use Prague for segment length and Paris for visible lesions, and resect them or refer; (2) use HD-WLE **plus** virtual chromoendoscopy with a validated classification system (BING); (3) spend adequate inspection time with consistent, correct Seattle-protocol sampling — "look more and biopsy appropriately"; (4) build local infrastructure for **continuous monitoring of upper endoscopy quality**. In the short term this rests on well-trained, vigilant endoscopists rather than on new technology.
 
 ---
 
@@ -433,3 +499,6 @@ CEIM defined as: 1–2 surveillance endoscopies with no visible BE and no IM on 
 4. [[asge-2018-barretts-eet|ASGE Guideline: Endoscopic Eradication Therapy for Patients with Barrett's Esophagus-Associated Dysplasia and Intramucosal Cancer (2018)]]
 5. [[asge-2019-barretts-screening-surveillance|ASGE Guideline on Screening and Surveillance of Barrett's Esophagus (2019)]]
 6. [[asge-2023-esd|ASGE Guideline: ESD for Early Esophageal and Gastric Cancer (2023)]]
+7. [[aga-2020-endoscopic-treatment-barretts-dysplasia|AGA Clinical Practice Update on Endoscopic Treatment of Barrett's Esophagus With Dysplasia and/or Early Cancer: Expert Review (2020)]]
+8. [[aga-2020-post-endoscopy-esophageal-adenocarcinoma|AGA Clinical Practice Update on Reducing Rates of Post-Endoscopy Esophageal Adenocarcinoma: Commentary (2020)]]
+9. [[aga-2016-low-grade-dysplasia-barretts|AGA 2016 Clinical Practice Update: Diagnosis and Management of Low-Grade Dysplasia in Barrett's Esophagus (Expert Review)]]

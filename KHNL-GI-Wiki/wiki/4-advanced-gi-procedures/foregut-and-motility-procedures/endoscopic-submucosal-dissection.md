@@ -85,7 +85,7 @@ Meta-analysis (8 observational studies; 821 ESD vs 1306 EMR):
 ## Adverse Events
 - **Bleeding:** no significant difference vs EMR.
 - **Stricture:** no significant difference (9.2% ESD vs 7.4% EMR).
-- **Perforation:** **higher with ESD — 5.7% vs 0.8%** (RR 4.30, 95% CI 1.22–15.12).
+- **[[endoscopic-management-of-perforation|Perforation]]:** **higher with ESD — 5.7% vs 0.8%** (RR 4.30, 95% CI 1.22–15.12).
 - Technically demanding; often available only at tertiary/quaternary referral centers.
 
 ## Surveillance

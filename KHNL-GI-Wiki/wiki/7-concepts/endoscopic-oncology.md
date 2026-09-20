@@ -19,7 +19,7 @@ Endoscopic oncologists perform procedures across the GI tract with oncologic int
 - **Curative resection of superficial neoplasia**: [[endoscopic-submucosal-dissection|Endoscopic submucosal dissection (ESD)]] and endoscopic mucosal resection ([[endoscopic-mucosal-resection|EMR]]) for T1a/T1b lesions in the esophagus, stomach, duodenum, and colon
 - **Biliary and pancreatic interventions**: [[ercp|ERCP]]-based stenting, [[cholangioscopy]] with biopsy, EUS-guided biliary drainage for malignant obstruction
 - **Luminal palliation**: Self-expanding metal stents for malignant esophageal, [[gastric-outlet-obstruction|gastric outlet]], and colonic obstruction; [[enteral-access|enteral access]] for nutritional support
-  - **Distinguish palliation from bridge to surgery.** Colonic SEMS in *resectable* obstruction is a bridge to elective resection, a different decision with its own outcome data — that lives on [[colorectal-cancer]]. The gastric-outlet palliation-vs-surgery rule lives on [[gastric-outlet-obstruction]].
+  - **Distinguish palliation from bridge to surgery.** Colonic [[colonic-stenting|SEMS]] in *resectable* obstruction is a bridge to elective resection, a different decision with its own outcome data — that lives on [[colorectal-cancer]]. The gastric-outlet palliation-vs-surgery rule lives on [[gastric-outlet-obstruction]].
 - **Ablation**: [[radiofrequency-ablation|Radiofrequency ablation (RFA)]] for [[barretts-esophagus|Barrett's esophagus]] and early esophageal neoplasia — the ablation-plus-resection pathway lives on [[endoscopic-eradication-therapy]]; photodynamic therapy (historical)
 
 ## Relationship to Other Subspecialties

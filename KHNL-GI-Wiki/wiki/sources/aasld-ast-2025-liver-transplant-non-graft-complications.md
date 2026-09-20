@@ -33,53 +33,61 @@ CMV disease remains the most clinically significant opportunistic infection; pre
 
 ## All Recommendations (Recs 1–70)
 
-### Wellness and Nutrition (Recs 1–11)
+### Wellness and Nutrition (Statements 1–11)
 
-| Rec | Recommendation | Strength | Level |
+| # | Guideline statement | Strength | Level |
 |---|---|---|---|
-| 1 | Advise LT recipients to limit sugar, saturated fats, and sodium; avoid herbal supplements without discussing with provider | Weak | 4 |
-| 2 | Advise avoidance of grapefruit and Seville oranges (potent CYP3A4 inhibitors; DDI with CNIs) | Strong | 4 |
-| 3 | Advise avoidance of untreated water sources (well water, river, spring) | Strong | 4 |
-| 4 | Advise avoidance of raw/undercooked meats, unpasteurized cheeses, unwashed produce | Strong | 4 |
-| 5 | Advise against herbal/dietary supplements without transplant team review | Strong | 4 |
-| 6 | Encourage 150–300 min/week of moderate aerobic exercise OR 75–150 min/week of vigorous aerobic exercise, plus strength/resistance training ≥2 days/week | Strong | 4 |
-| 7 | Screen nonadherent LT recipients for substance use disorders and depression | Strong | 4 |
-| 8 | Screen LT recipients for food insecurity | Weak | 4 |
-| 9 | Advise complete avoidance of alcohol regardless of original indication for LT | Strong | 4 |
-| 10 | Discuss and address sleep disorders (sleep apnea, insomnia) | Weak | 4 |
-| 11 | Screen annually for depression | Strong | 4 |
+| 1 | Counsel to limit added sugar and saturated fats to **<10% each of total daily calories**, and sodium to **<2300 mg/day** | Strong | 5 |
+| 2 | Should **not** use herbal and dietary supplements without discussing with their transplant providers | Strong | 4 |
+| 3 | Avoid foods known to interact with immunosuppressive therapy, **particularly grapefruit** | Strong | 3 |
+| 4 | Avoid consumption of untreated water from lakes and rivers | Strong | 3 |
+| 5 | Avoid unpasteurized milk products, and raw or undercooked eggs and meats (particularly uncooked pork, poultry, fish, and seafood) | Strong | 3 |
+| 6 | Participate in at least **150–300 min of moderate intensity or 75–150 min of vigorous intensity** aerobic activity per week, plus muscle-strengthening activities of all major muscle groups **at least 2 days a week** | Strong | 2 |
+| 7 | Recipients with **medical nonadherence** (missed appointments, missed laboratory testing, subtherapeutic immunosuppression levels) should be screened for substance use disorder, **anxiety**, and depression | Strong | 3 |
+| 8 | Recipients with medical nonadherence should be screened for **food insecurity, transportation insecurity, and insufficient social support** | Strong | 4 |
+| 9 | Avoid alcohol intake **irrespective of the etiology of liver disease** | Strong | 4 |
+| 10 | Discussion of lifestyle changes to improve sleep, with **at least 7 hours of sleep per night**, may be considered | Weak | 4 |
+| 11 | Annual depression screening **and assessment of alcohol use** | Strong | 3 |
 
-### Bone Health (Recs 12–18)
+*Grapefruit, pomegranate, clementines, and black licorice may increase CNI levels; St John's Wort may reduce them.*
 
-| Rec | Recommendation | Strength | Level |
+### Bone Health (Statements 12–18)
+
+| # | Guideline statement | Strength | Level |
 |---|---|---|---|
-| 12 | DEXA scan at 6 months post-LT | Strong | 4 |
-| 13 | Repeat DEXA every 1–2 years if osteopenia or osteoporosis present | Strong | 4 |
-| 14 | Calcium >1200 mg/day + vitamin D 600 IU/day supplementation | Strong | 4 |
-| 15 | Target 25-OH-D ≥30 ng/mL | Strong | 4 |
-| 16 | Vitamin D3 1000–2000 IU/day if 25-OH-D <30 ng/mL | Strong | 4 |
-| 17 | Initiate pharmacotherapy (bisphosphonate) for T-score ≤−2.5 or FRAX criteria | Strong | 4 |
-| 18 | Physical therapy and fall prevention program for those with osteoporosis or fall risk | Strong | 4 |
+| 12 | Bone density scan once on **stable immunosuppression, typically after 6 months** of transplant | Strong | 2 |
+| 13 | With osteoporosis or osteopenia, serial DEXA **every 1–2 years until findings are stable** | Strong | 3 |
+| 14 | With osteoporosis or osteopenia, maintain daily calcium intake of **>1200 mg/day** (diet plus supplement, if needed) | Strong | 3 |
+| 15 | With osteoporosis, maintain serum 25(OH)D **≥30 ng/mL, preferred range 30–50 ng/mL** | Strong | 3 |
+| 16 | With osteoporosis and 25(OH)D **<30 ng/mL**, give vitamin D3 **1000–2000 IU daily** | Strong | 3 |
+| 17 | Start pharmacologic therapy for (1) osteopenia **plus** a history of fragility fracture of hip or spine (osteoporosis equivalent), (2) **T-score −2.5 or lower**, or (3) **FRAX 10-year probability ≥20% for major osteoporotic fracture or ≥3% for hip fracture**. Appropriate initial agents include **alendronate, denosumab, risedronate, zoledronate** | Strong | 1 |
+| 18 | Recipients meeting criteria for osteoporosis should be referred for **physical therapy to prevent falls** | Strong | 1 |
 
-### Vaccination (Recs 19–22)
+*Table 1 definitions — osteopenia: T-score between −1.0 and −2.5. Osteoporosis: T-score **<−2.5**, or a fragility fracture irrespective of BMD (a fracture from a force similar to a fall from standing height or less that would not occur in healthy bone, excluding skull, face, fingers, and toes). Table 1 also gives calcium 1200 mg/day and vitamin D 600 IU/day as nutrition supplementation, a DXA pre-LT and at least 6 mo post-LT, and IV bisphosphonates, calcitonin, SERMs, estrogen, PTH analogues/RANK-ligand inhibitors, or sclerostin inhibitors as second-line with specialist input.*
 
-| Rec | Recommendation | Strength | Level |
+### Vaccination (Statements 19–22)
+
+| # | Guideline statement | Strength | Level |
 |---|---|---|---|
-| 19 | Follow ACIP/CDC immunization schedules for immunocompromised adults; update pre-LT where possible | Strong | 4 |
-| 20 | No live vaccines post-LT (measles/MMR, varicella, yellow fever, oral typhoid, oral [[rotavirus]], intranasal influenza, LAIV) | Strong | 4 |
-| 21 | Household contacts of LT recipients can receive most live vaccines (MMR, varicella) EXCEPT: vaccinia/smallpox vaccine and oral polio vaccine (OPV) | Strong | 4 |
-| 22 | Obtain travel medicine consultation ≥6–8 weeks before international travel; live vaccines may be indicated in specific high-risk travel but only with specialist review | Weak | 4 |
+| 19 | Discuss vaccinations with providers **in addition to** following ACIP/CDC recommendations for immunocompromised adults | Strong | 1 |
+| 20 | Should **not** receive live virus vaccines | Strong | 1 |
+| 21 | Household contacts should avoid **vaccinia/smallpox and polio vaccine**, but may receive other live attenuated vaccines **when no inactivated alternatives are available** (e.g. measles, mumps, rubella; [[rotavirus]] for infants), with diligent handwashing for **2 weeks** | Strong | 4 |
+| 22 | Consult a **travel medicine specialist** before travelling to regions with higher rates of infection, and be advised on vaccine-preventable illnesses and antimicrobial prophylaxis based on destination-associated risks | Strong | 4 |
 
-### Reproductive Health (Recs 23–28)
+*Vaccination should be deferred for 3–6 months after LT or after treatment of acute allograft rejection because of reduced vaccine response.*
 
-| Rec | Recommendation | Strength | Level |
+### Reproductive Health (Statements 23–28)
+
+| # | Guideline statement | Strength | Level |
 |---|---|---|---|
-| 23 | Discuss contraception and pregnancy planning with all LT recipients of childbearing age | Strong | 4 |
-| 24 | Delay pregnancy for ≥1 year post-LT | Strong | 4 |
-| 25 | Use multidisciplinary approach with maternal-fetal medicine (MFM) for pregnancy management | Strong | 4 |
-| 26 | MPA (mycophenolate mofetil/mycophenolate sodium) is teratogenic: discontinue ≥6 weeks pre-conception in women; ≥90 days in men; require two forms of contraception while on MPA | Strong | 4 |
-| 27 | CNIs ([[tacrolimus]], cyclosporine) are acceptable in pregnancy with frequent drug-level monitoring; dose adjustments likely required due to altered PK in pregnancy | Strong | 4 |
-| 28 | AZA + corticosteroids are acceptable in pregnancy | Strong | 4 |
+| 23 | In recipients of childbearing age, addressing contraception and pregnancy is recommended | Strong | 5 |
+| 24 | Pregnancy should be delayed for **at least one year after transplant and until graft function has been stable for at least six months** | Strong | 3 |
+| 25 | Multidisciplinary approach to pregnancy care involving transplant providers **and maternal-fetal medicine specialists** | Strong | 5 |
+| 26 | MPA (mycophenolate mofetil/mycophenolate sodium) is teratogenic: discontinue ≥6 weeks pre-conception in women; ≥90 days in men; require two forms of contraception while on MPA | — | — |
+| 27 | CNIs ([[tacrolimus]], cyclosporine) are acceptable in pregnancy with frequent drug-level monitoring; dose adjustments likely required due to altered PK in pregnancy | — | — |
+| 28 | AZA + corticosteroids are acceptable in pregnancy | — | — |
+
+*An interval of <12 months from LT to pregnancy, compared with >12 months, carried lower live birth rates (80% vs. 98%) and higher rejection rates (46% vs. 11%).*
 
 ### Infections (Recs 29–35)
 

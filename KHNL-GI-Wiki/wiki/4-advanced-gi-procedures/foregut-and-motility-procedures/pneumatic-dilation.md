@@ -27,7 +27,7 @@ Where PD sits among the three definitive achalasia therapies — and how it comp
 ## Indications and Candidacy
 
 - **Indication:** [[achalasia|achalasia]] in a patient who is a candidate for definitive therapy. PD, [[heller-myotomy|LHM]], and [[poem|POEM]] are **comparably effective for type I and type II**; **type III favors POEM** ([[acg-2020-achalasia]], Strong). **Subtype is assigned only on [[high-resolution-manometry|HRM]] by the [[chicago-classification-v4|Chicago Classification v4.0]]** — the IRP thresholds and type I/II/III criteria live on that page.
-- ⚠ **Hard prerequisite — every patient considered for PD must also be a surgical candidate**, because esophageal perforation requiring operative repair occurs in **1.9% (range 0%–10%)**. Consent must state this explicitly.
+- ⚠ **Hard prerequisite — every patient considered for PD must also be a surgical candidate**, because esophageal [[endoscopic-management-of-perforation|perforation]] requiring operative repair occurs in **1.9% (range 0%–10%)**. Consent must state this explicitly.
 - **Institutional prerequisite:** surgical backup available for perforation. ACG names **operator expertise and institutional surgical backup as the most important determinants** of a safe PD.
 - **Predictors of a favorable response** — use these to decide whether to start with PD at all:
   - Age **>45 years**

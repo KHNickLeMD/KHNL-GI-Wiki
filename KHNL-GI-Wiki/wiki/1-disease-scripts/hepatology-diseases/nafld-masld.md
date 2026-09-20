@@ -3,8 +3,8 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-09-06
-sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, baveno-viii-2026-portal-hypertension, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-non-graft-complications, aga-2023-nafld-noninvasive-biomarkers]
+updated: 2026-09-20
+sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, baveno-viii-2026-portal-hypertension, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-non-graft-complications, aga-2023-nafld-noninvasive-biomarkers, aga-2021-lifestyle-modification-nafld, aga-2022-lean-nafld]
 ---
 
 ## Contents
@@ -138,37 +138,9 @@ See [[noninvasive-liver-disease-assessment]] for the cross-disease NILDA framewo
 
 #### Lean MASLD (lean NAFLD)
 
-*All content in this subsection and the two lean subsections below from [[aga-2022-lean-nafld]] unless otherwise cited.*
-
-**Definition (BPA 1) — the BMI cut-point is ethnicity-qualified; it is not a single number:**
-
-| Race/ancestry | BMI defining lean |
-|---|---|
-| **Non-Asian race** | **<25 kg/m²** |
-| **Asian race** | **<23 kg/m²** |
-
-- Reference bands behind those cut-points: CDC/WHO normal range **18.5–24.9 kg/m²** · overweight **25–29.9** · grade 1 obesity **30–34.9**. WHO applies a lower cutoff for **Asian ancestry — overweight BMI 23–27.5, obesity >27.5** — recognizing metabolic risk at lower BMI.
-- Term **lean NAFLD** (normal-range BMI, race-based cutoffs) is preferred over *nonobese NAFLD*, though the two are often used interchangeably.
-- ⚠ Supersedes the ≤25 / ≤23 definition in [[aga-2021-lifestyle-modification-nafld]] (both AGA CPUs; 2022 is newer). Divergence is confined to a BMI of exactly 25.0 / 23.0.
-
-**Epidemiology:** **7%–20%** of people with NAFLD are lean (≈**8–10 million US adults**). Global NAFLD/NASH Registry: ~**6.8%** of biopsy-confirmed NASH is lean — older, more often Asian, fewer metabolic-syndrome components, but **similar risk for advanced fibrosis**. NHANES III: **10.8%** of lean individuals had NAFLD (older, more often men).
-
-**Natural history — lean is not a benign phenotype:**
-
-- Cross-sectionally lean patients have **lower** prevalence of advanced fibrosis/cirrhosis than overweight/obese patients.
-- Biopsy-confirmed cohort, median **8.4 y**: lean participants had **higher risk of liver-related death** (they also had higher baseline advanced fibrosis).
-- >**1300** biopsy-confirmed subjects (Europe/Australia): lean NAFLD had **less severe histology**, yet over ~**7.5 y** nearly **5%** had liver-related events despite most maintaining a lean BMI.
-- Swedish population registry, ~**20 y**: lower baseline fibrosis stage but **higher risk of developing severe liver disease** than nonlean NAFLD.
-- → lean NAFLD progresses **independent of weight gain**; risk-stratify everyone for fibrosis (BPA 3).
-
-**Cardiometabolic evaluation (BPA 2):** evaluate and treat **diabetes, dyslipidemia, and hypertension** routinely. Observational data are mixed — some cohorts show *fewer* cardiometabolic risk factors and less atherosclerosis than nonlean NAFLD, others a **similar or higher** prevalence of risk factors/risk scores and **more cardiovascular events**. Lean NAFLD shows altered bile-salt and cholesterol metabolism, and the ***TM6SF2* rs58542926 (T) allele** (protects against diet-associated obesity relative to nonlean NAFLD).
-
-**Screening (BPA 4, 5):**
-
-- **Do NOT screen the lean general population** — NAFLD prevalence among lean individuals is relatively low.
-- **DO screen lean individuals >40 years with T2DM**, then risk-stratify for advanced fibrosis.
-- Consider MASLD **across the BMI range** in anyone with metabolic disease (T2DM, dyslipidemia, hypertension), elevated liver biochemical tests, or incidentally noted steatosis — **the initial diagnostic approach is the same for lean and nonlean patients**.
-- Society divergence noted by the update: EASL/EASD/EASO screen all with obesity or metabolic syndrome; ADA evaluates in T2DM with abnormal liver tests or fatty liver; **AASLD does not endorse NAFLD screening**.
+- **[[lean-nafld|Lean NAFLD]]** = NAFLD/MASLD with BMI **<25 kg/m² (non-Asian race)** or **<23 kg/m² (Asian race)**; **7%–20%** of people with NAFLD (≈8–10 million US adults). [[aga-2022-lean-nafld]]
+- It is **not a benign phenotype** — lower fibrosis stage at baseline but a higher risk of developing severe liver disease and of liver-related death than nonlean NAFLD, independent of weight gain.
+- The lean phenotype has its **own secondary-cause differential, its own sequential FIB-4 → ELF/VCTE staging cut-points, a lower 3%–5% weight-loss target, and biopsy-gated vitamin E / pioglitazone rules** — all on [[lean-nafld]].
 
 ---
 
@@ -176,7 +148,7 @@ See [[noninvasive-liver-disease-assessment]] for the cross-disease NILDA framewo
 
 *Workup: see [[abnormal-liver-chemistries]].*
 
-*In a lean patient the secondary-cause differential is wider and is worked through stepwise — see [[#Lean MASLD — excluding secondary causes and staging]].*
+*In a lean patient the secondary-cause differential is wider and is worked through stepwise — see [[lean-nafld]].*
 
 - [[alcohol-associated-liver-disease]] — alcohol history; AST:ALT ratio ≥2:1; GGT elevated; can coexist with MASLD; MetALD is the overlapping spectrum
 - [[drug-induced-liver-injury]] — steatohepatitis pattern DILI (amiodarone, tamoxifen, methotrexate, corticosteroids)
@@ -231,7 +203,7 @@ Lifestyle modification is the cornerstone of MASLD/MASH management regardless of
   - **Meat intakes associated with NAFLD — limit these:** total meat ≥1.1 portions/d (≥7.7/wk) · red meat ≥0.33 portions/d (≥2.3/wk) · processed meat ≥0.10 portions/d (≥0.7/wk).
   - **Fructose:** restrict *commercially produced* fructose (high-fructose corn syrup in sugar-sweetened beverages) — associated with higher fibrosis stage. **Fructose in fruit is not associated with NAFLD; do not restrict fruit.**
   - **Not adequately studied for histologic end points** (individualize, don't prescribe by default): low-carbohydrate/high-protein diets, meal-replacement protocols, intermittent fasting/time-restricted eating, and vitamin supplementation.
-  - **Normal-weight NAFLD** (BMI **≤25 kg/m² non-Asian / ≤23 kg/m² Asian**) — up to 40% of the NAFLD population — gets the same hypocaloric diet at a **lower target of 3%–5% TBW loss**, with similar histologic benefit: 3%–5% loss → NAFLD resolution in 50%; 7%–10% loss → resolution in 70%. Durability of weight loss and the effect of regain in this group are unknown.
+  - **Normal-weight / [[lean-nafld|lean NAFLD]]** gets the same hypocaloric diet at a **lower target of 3%–5% TBW loss** — see [[lean-nafld]] for that target, its trial basis, and the rest of the lean-specific plan.
 - **Exercise** strongly encouraged, benefit independent of weight loss (GS 21); **coffee ≥3 cups/day** associated with less advanced liver disease. [[aasld-2023-nafld]]
   - **Dose:** **150–300 min/wk moderate-intensity** (3–6 METs) **or 75–150 min/wk vigorous-intensity** (>6 METs) aerobic exercise. **Resistance training is complementary, not a replacement** — it lowers steatosis at lower intensity, so it is an option with limited aerobic capacity, but **walking >3 h/wk** is what was associated with fewer cirrhosis-related deaths and less [[hepatocellular-carcinoma|HCC]]. Exercise alone (no diet change) lowers liver fat but gave only a nonsignificant ALT trend. Moderate activity **plus** the Mediterranean diet produced the most weight loss and the greatest fall in visceral adipose tissue and intrahepatic fat. [[aga-2021-lifestyle-modification-nafld]]
 - **Alcohol** is a cofactor for progression — assess regularly (GS 6); patients with ≥F2 fibrosis should **abstain completely** (GS 7). [[aasld-2023-nafld]]
@@ -391,7 +363,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD pos
 
 ## See Also
 
-[[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[semaglutide]], [[glp-1-receptor-agonists]], [[resmetirom]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[cirrhosis]], [[obesity]], [[bariatric-surgery]], [[intragastric-balloon]], [[calcineurin-inhibitors]], [[primary-biliary-cholangitis]], [[drug-induced-liver-injury]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[celiac-disease]], [[hepatitis-c]], [[abnormal-liver-chemistries]], [[hepatic-venous-pressure-gradient]], [[acute-cholecystitis]], [[hcc-surveillance]]
+[[lean-nafld]], [[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[semaglutide]], [[glp-1-receptor-agonists]], [[resmetirom]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[cirrhosis]], [[obesity]], [[bariatric-surgery]], [[intragastric-balloon]], [[calcineurin-inhibitors]], [[primary-biliary-cholangitis]], [[drug-induced-liver-injury]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[celiac-disease]], [[hepatitis-c]], [[abnormal-liver-chemistries]], [[hepatic-venous-pressure-gradient]], [[acute-cholecystitis]], [[hcc-surveillance]]
 
 ---
 
@@ -407,3 +379,5 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD pos
 8. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
 9. [[aga-2023-nafld-noninvasive-biomarkers|AGA Clinical Practice Update on the Role of Noninvasive Biomarkers in the Evaluation and Management of Nonalcoholic Fatty Liver Disease: Expert Review (2023)]]
 10. [[aasld-ast-2025-liver-transplant-non-graft-complications|AASLD/AST Consensus Recommendations on Non-Graft Complications of Liver Transplantation (2025)]]
+11. [[aga-2021-lifestyle-modification-nafld|AGA Clinical Practice Update on Lifestyle Modification Using Diet and Exercise to Achieve Weight Loss in the Management of Nonalcoholic Fatty Liver Disease: Expert Review (2021)]]
+12. [[aga-2022-lean-nafld|AGA Clinical Practice Update: Diagnosis and Management of Nonalcoholic Fatty Liver Disease in Lean Individuals: Expert Review (2022)]]

@@ -149,7 +149,7 @@ EUS imaging alone has only 43–50% diagnostic accuracy for solid nonlipomatous 
 |---|---|---|
 | Standard pinch biopsy | Low | Rarely sufficient for SM/MP lesions |
 | Bite-on-bite (tunnel) biopsy | 30–40% | Deeper specimens through a mucosal defect |
-| Jumbo forceps biopsy | Higher for SM lesions | **Bleeding in 35.7%** (34.9% needed hemostasis); FNA trends higher for MP lesions |
+| Jumbo forceps biopsy | Higher for SM lesions | **Bleeding in 35.7%** (34.9% needed [[endoscopic-hemostasis\|hemostasis]]); FNA trends higher for MP lesions |
 | Unroofing (needle-knife/snare/cap/band) | High | Significantly > forceps; may cause fibrosis complicating later resection |
 | Single-incision needle-knife (SINK) | 93% | 6–12 mm incision then forceps to deeper layers; can yield mitotic counts |
 | EUS-FNA (GIST) | 46–93% | Cannot reliably assess mitotic rate; accuracy plateaus after 4th pass |

@@ -85,7 +85,7 @@ Non-contact thermal ablation: monopolar current delivered to tissue through a je
 - **Sessions:** proctopathy — mean/median 1–3.7 sessions to control bleeding; interval 2–8 weeks, most studies **3–4 weeks** to let injured mucosa heal ([[asge-2019-radiation-proctopathy]]).
 - **Adequate bowel preparation is required** before APC in the colon/rectum ([[asge-2019-radiation-proctopathy]]).
 - **Suction the insufflated argon periodically** — relieves bowel distension and post-procedural pain ([[asge-2019-radiation-proctopathy]]). In the duodenum, a larger-channel therapeutic duodenoscope eases aspiration of insufflated air and argon gas with instruments in the channel ([[asge-2015-ampullary-duodenal-adenomas]]).
-- **Large right-colon angioectasias:** consider **submucosal injection of fluid before APC** to reduce perforation risk ([[acg-2023-lgib]]). Clips combined with APC have also been reported for angioectasia bleeding ([[asge-2014-lgib]]).
+- **Large right-colon angioectasias:** consider **submucosal injection of fluid before APC** to reduce [[endoscopic-management-of-perforation|perforation]] risk ([[acg-2023-lgib]]). Clips combined with APC have also been reported for angioectasia bleeding ([[asge-2014-lgib]]).
 - **Around the pancreatic duct orifice:** place a pancreatic duct stent **before** ablating ([[asge-2015-ampullary-duodenal-adenomas]]).
 
 ---

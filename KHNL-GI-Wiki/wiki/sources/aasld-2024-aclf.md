@@ -3,7 +3,7 @@ title: "AASLD 2024 Practice Guidance on Acute-on-Chronic Liver Failure"
 category: source
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, ICU, critical-illness, organ-failure, NACSELD, EASL-CLIF, terlipressin, HRS, hepatic-encephalopathy, liver-transplantation, palliative-care]
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-09-20
 sources: []
 ---
 
@@ -23,6 +23,8 @@ This AASLD Practice Guidance addresses the diagnosis, evaluation, and management
 Key areas: definition and prognosis (ACLF-specific scores vs. MELD); organ-specific management (brain, cardiovascular, respiratory, kidney, coagulation/infection/nutrition); [[liver-transplantation|liver transplantation]] candidacy in ACLF; palliative care integration.
 
 ## All Guidance Statements (1–51)
+
+*This is a Practice Guidance, not a Guideline: the panel judged that too few RCTs existed to support systematic review, so the 51 statements are numbered but carry **no evidence grade or strength rating**.*
 
 1. We suggest that the presence of all of the following elements are minimum critical components for the definition of ACLF: (1) acute onset with rapid deterioration in clinical condition, (2) the presence of liver failure defined by elevated bilirubin and elevated INR in patients with chronic liver disease with or without cirrhosis, and (3) the presence of at least one extrahepatic (neurologic, circulatory, respiratory, or renal) organ failure.
 
@@ -128,28 +130,52 @@ Key areas: definition and prognosis (ACLF-specific scores vs. MELD); organ-speci
 
 ## Key Findings / Claims
 
-**ACLF definitions comparison:**
+**ACLF definitions compared (Table 1; the three capture different stages of the same condition):**
 
-| Criteria | Stage/Grade | Organ failure definition |
+| Criteria | Stage captured | Organ failure cut-offs |
 |---|---|---|
-| NACSELD | ACLF = ≥2 extrahepatic OFs | Cardiovascular (shock), renal (RRT), respiratory (mechanical vent), brain (HE grade 3–4) |
-| EASL-CLIF | ACLF-1, -2, -3 | Liver (Bi ≥12 + INR ≥1.5/coagulopathy), kidney (Cr ≥2 or RRT), brain (HE 3–4), respiratory (PaO₂/FiO₂ ≤200/SpO₂/FiO₂ ≤214), coagulation (INR ≥2.5), cardiovascular (vasopressors) |
-| APASL | Acute hepatic insult + liver failure (Bi ≥5, INR ≥1.5) + coagulopathy + clinical features ≤4 weeks in previously diagnosed or undiagnosed CLD | Includes non-cirrhotic CLD; high sensitivity, lower specificity for mortality |
+| NACSELD | Advanced/preterminal — ACLF = **≥2 extrahepatic OFs** | Cardiovascular = shock; renal = RRT; respiratory = mechanical ventilation; brain = [[hepatic-encephalopathy\|HE]] Grade 3–4. No liver or coagulation OF |
+| EASL-CLIF | Intermediate — grades **ACLF-1, -2, -3** | Liver = TB **≥12 mg/dL**; kidney = sCr **≥2 mg/dL** or RRT; brain = HE Grade 3–4; respiratory = PaO₂/FiO₂ **≤200** or SpO₂/FiO₂ **≤214**; coagulation = INR **≥2.5**; cardiovascular = use of vasopressors |
+| APASL | Earliest — sensitive but not specific (most such patients are alive at Day 28) | Includes non-cirrhotic chronic liver disease. This document does not reproduce the full APASL definition; it notes only that bilirubin cut-offs of **5–12 mg/dL** and INR **1.5–2.5 or above** have been used across ACLF definitions, and that optimal laboratory cut-offs for hepatic failure remain unclear |
+
+*The guidance's own minimum definition is GS 1 above — acute deterioration + liver failure (elevated bilirubin **and** elevated INR) + **at least one** extrahepatic organ failure.*
 
 **ACLF-specific prognostic scores:**
 
-- NACSELD-ACLF (North America): MELD + OFs (cardiovascular, renal, respiratory, brain); AUC 0.85 for 30-day survival
-- CLIF-C ACLF (European): hepatic + extrahepatic OFs + age + WBC + Bi + Cr + INR; C-index 0.76–0.76 at 28/90/180/360 days
-- AARC (Asia-Pacific): Bi + Cr + INR + lactate + HE grade; good calibration in non-Asian populations
-- MELD-LA (MELD + lactate): outperforms MELD alone; easy bedside tool
+| Score | Components | Performance as reported |
+|---|---|---|
+| NACSELD-ACLF (North America) | Advanced extrahepatic OFs + age + MELD + WBC count + serum albumin, all at hospital admission | 30-day survival AUC **0.80** training / **0.85** validation; vs APASL for 30-day mortality 0.82 vs 0.77 (not significant) |
+| CLIF-C ACLF (Europe) | Hepatic **and** extrahepatic OFs + age + WBC count; calculable on admission and up to Day 7 | C-index **0.76 / 0.73 / 0.72 / 0.71** for 28-day, 90-day, 180-day, 1-year mortality |
+| AARC (Asia-Pacific) | Five variables at hospital/ICU admission: bilirubin, sCr, lactate, INR, HE grade | 28-day mortality AUC 0.80 derivation / 0.78 validation; validated in one non-Asian ICU cohort (AUC 0.754, essentially the same as MELD 0.753) |
+| MELD-LA (MELD + lactate) | MELD + lactate at hospitalization | Better than MELD alone, lactate alone, MELD-Na, or MELD-Na–lactate; lactate added to CLIF-C ACLF outperformed CLIF-C ACLF and MELD at 28/90 days and 1 year |
 
-**Futility threshold:** CLIF-C ACLF >70 or lactate >9 mmol/L at admission or Day 3 → ~90% 90-day mortality; goals-of-care discussion warranted
+**AARC score banding (Table 1) — the one score this document prints in full:**
 
-**Terlipressin contraindication in ACLF-3:** CONFIRM trial showed terlipressin reversed HRS1 but caused respiratory failure at significantly higher rates in ACLF-3 (EASL-CLIF) patients; norepinephrine preferred in shock states (GS 25–26)
+| Variable | 1 point | 2 points | 3 points |
+|---|---|---|---|
+| Total bilirubin (mg/dL) | <15 | 15–25 | >25 |
+| sCr (mg/dL) | <0.7 | 0.7–1.5 | >1.5 |
+| INR | <1.8 | 1.8–2.5 | >2.5 |
+| Lactate (mmol/L) | <1.5 | 1.5–2.5 | >2.5 |
+| HE grade | Grade 0 | Grades 1–2 | Grades 3–4 |
 
-**LT in ACLF:** Select candidates with 3+ organ failures have survived well post-LT; ventilator support is strongest predictor of suboptimal post-LT outcomes. CLIF-C ACLF >70, lactate >9 mmol/L, severe frailty (CFS ≥7), FiO₂ ratio <150 mm Hg, uncontrolled sepsis = likely contraindications (Table 7)
+**Futility threshold:** CLIF-C ACLF **>70** (range 0–100) at admission **or** at Day 3 → approximately **90% 90-day mortality**; de-escalation should then be discussed case-by-case against LT feasibility. Supporting figures: 28-day survival after NACSELD ACLF (≥2 OFs) as low as 3%; with ≥4 organ failures at Days 3–7 after an ACLF-3 diagnosis, 28-day and 90-day mortality were 90% and 100%, and 100% once CLIF-C ACLF >64; CLIF-C ACLF ≥70 at 48 h in the ICU carried 100% 28-day mortality.
 
-**Palliative care:** Early consult reduces readmissions ~50%, saves ~$10,000/patient. LT listing does not preclude palliative care (GS 51). All ACLF ICU patients should receive palliative care consult (Table 8 quality metrics).
+**Terlipressin and respiratory failure in ACLF-3 (GS 25–26):** in the most recent North American HRS1 trial, respiratory failure occurred in **8%** of terlipressin recipients and in **none** of the placebo recipients, and was seen **only** in patients with ACLF-3 by EASL-CLIF criteria; there was also a trend toward more respiratory failure with higher pretreatment albumin volume. This underlies the FDA warning against terlipressin in ACLF-3 with respiratory failure. Norepinephrine is the first drug of choice when AKI is accompanied by shock.
+
+**Terlipressin dosing and response (Table 4):** bolus start **1 mg every 4–6 h**, escalating to a maximum of **12 mg/day** by response, for up to **14 days**; continuous infusion achieves the same efficacy at a lower total daily dose with fewer side effects. Across four RCTs terlipressin + albumin reversed HRS1 in **36–44%**. Predictors of response: baseline bilirubin **≤10 mg/dL**, sCr **≤5 mg/dL**, MAP rise **≥5 mm Hg** on treatment, and lower ACLF grade. Every 1 mg/dL fall in sCr on vasoconstrictor therapy carried a **27% relative** mortality reduction.
+
+**LT in ACLF (Table 7 + Figure 5):** selected candidates with three or more organ failures have done well, but need **early** LT; trajectory over the first 72 h to 1 week matters more than any single score. Ventilator support is a **consistent** predictor of suboptimal post-LT outcomes.
+- Likely **absolute** contraindications: lactate **>9 mmol/L**, severe respiratory failure, increasing vasopressor support, severe ARDS (PaO₂/FiO₂ **<150**), uncontrolled sepsis.
+- Moderate hypoxemia/respiratory failure with PaO₂/FiO₂ **≥150** may still be acceptable for LT — the ≥150 vs <150 split is the decision point.
+- Other factors treated as contraindications: HE requiring ventilatory support **>72 h**, active GI bleed, hemodynamic instability.
+- Associated with worse post-transplant outcomes in ICU cirrhosis cohorts: severe frailty (Clinical Frailty Scale **≥7**), ongoing/uncontrolled sepsis, leukopenia, MDR organisms, persistent fever, **<72 h** of antibiotics, high-dose norepinephrine.
+- Table 7 pre-LT factors: ventilatory status (on ventilator, respiratory failure, ARDS), lactate **>4 mmol/L**, RRT, sepsis/infection with MDRO, fungal or nosocomial infection, longer pre-LT ICU stay, ACLF grade and high MELD, low pre-LT leukocyte count, advanced age, ACLF progression, HCC.
+- Figure 5 branch point: progression to **≥4 organ failures**, and/or **CLIF-C ACLF >64**, rising AARC, or NACSELD ≥2 organ failures → hospice; stabilization/improvement of organ failures with controlled infection and no other contraindication → consider LT.
+
+**AKI staging behind GS 23–25 (Table 3):** GS 24 and GS 25 are conditional on **Stage 2 or greater** HRS-AKI, and there is **no** recommendation for vasoconstrictors at Stage 1 — so the stage must be assigned before the drug decision. AKI = sCr rise **≥0.3 mg/dL (26.4 µmol/L) in <48 h** or **50% increase** from baseline; baseline = a stable sCr within 3 mo, else the closest stable value, else the admission sCr. Full ICA staging and the vasoconstrictor-eligibility rule live on [[aki-in-cirrhosis]]. HRS-AKI additionally requires cirrhosis with [[ascites]], Stage 2 or higher AKI, no response after **2 consecutive days** of diuretic withdrawal plus albumin **1 g/kg/day (max 100 g/day)**, absence of shock, no current or recent nephrotoxic drugs, and no parenchymal kidney disease (proteinuria <500 mg/day, <50 RBC/hpf, normal renal ultrasound).
+
+**Palliative care:** A palliative care consult is associated with ~**50%** lower readmission rates, shorter length of stay, and cost saving of ~**$10,000** per patient with end-stage liver disease; in another study it cut readmissions by two-thirds and doubled hospice discharge. LT listing does not preclude palliative care (GS 51). Table 8 quality metrics: all patients with cirrhosis admitted to the ICU or diagnosed with ACLF should receive a palliative care consult irrespective of transplant listing status; surrogate decision-maker identified within 48 h of admission; goals of care documented for anyone ventilated or in the ICU >48 h; palliative care or hospice offered to non-transplant candidates with HRS-AKI not responding to pharmacotherapy.
 
 ## Relevance to Wiki
 
@@ -160,7 +186,8 @@ Key areas: definition and prognosis (ACLF-specific scores vs. MELD); organ-speci
 
 - No single globally applicable ACLF definition; NACSELD/EASL-CLIF/APASL capture different disease stages
 - Optimal LT selection criteria in ACLF remain undefined; trajectory (stabilization vs. progression) appears more important than a single score cutoff
-- Terlipressin contraindication in ACLF-3 based on CONFIRM trial; norepinephrine preferred in shock but not specifically studied in ACLF
+- Terlipressin is excluded in ACLF-3 on a respiratory-failure signal from a single North American HRS1 trial (8% vs 0%); the document does not name the trial. Norepinephrine is preferred in shock, but the comparative trials were small and at high risk of methodological bias, and none were conducted specifically in ACLF
+- Optimal laboratory cut-offs defining hepatic failure in ACLF remain unclear, and how rapid the "acute" deterioration must be is undefined
 - Rifaximin role as add-on to lactulose in ACLF-specific HE warrants further investigation
 
 ## See Also

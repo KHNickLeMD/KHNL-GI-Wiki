@@ -69,7 +69,7 @@ Villous atrophy on duodenal or jejunal biopsy **with negative celiac serology** 
 | [[crohns-disease\|Crohn's disease]] | Bloody diarrhea, fever, weight loss | Aphthous ulceration, skip lesions, **granulomas** | Elevated ESR, CRP | Immunosuppression, biologic agents |
 | Eosinophilic gastroenteritis | Multiple allergies, atopy | Massive eosinophilic infiltration | Peripheral hypereosinophilia | Dietary therapy, glucocorticoids |
 | [[hiv-aids-related-diarrhea\|HIV enteropathy]] | Presence of opportunistic infections | Decreased CD4⁺ T lymphocytes, increase in CD8⁺ T lymphocytes | HIV antibody test | Antiretroviral therapy |
-| Tuberculosis | Cough, ascites, night sweats | Granulomatous disease | Interferon-gamma release assay, CT, ascitic fluid analysis | Anti-tuberculous therapy |
+| Tuberculosis | Cough, [[ascites\|ascites]], night sweats | Granulomatous disease | Interferon-gamma release assay, CT, ascitic fluid analysis | Anti-tuberculous therapy |
 | Whipple disease | Joint inflammation, hyperpigmentation of sun-exposed skin | **PAS⁺ macrophagic infiltration** of the lamina propria | Positive PCR for *Tropheryma whipplei* | Ceftriaxone or penicillin G, then TMP-SMX, hydroxychloroquine and doxycycline |
 | Radiation enteropathy | History of radiotherapy | Lamina propria fibrosis | — | — |
 | Graft-vs-host disease | Diarrhea, abdominal pain, nausea, vomiting, anorexia; prior bone marrow transplantation | Crypt cell necrosis, loss of epithelium | — | Prednisone or budesonide |

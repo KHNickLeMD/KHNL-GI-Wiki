@@ -3,7 +3,7 @@ title: "AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Li
 category: source
 tags: [hepatic-encephalopathy, HE, cirrhosis, lactulose, rifaximin, MHE, covert-HE, overt-HE, ammonia, TIPS, portosystemic-shunting, liver-transplantation, nutrition, BCAAs]
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-09-20
 sources: []
 ---
 
@@ -47,11 +47,14 @@ Treatment strategy centers on a "four-pronged approach" for overt HE: (1) clinic
 10. An episode of OHE (whether spontaneous or precipitated) should be actively treated — GRADE II-2, A, 1
 11. Secondary prophylaxis after an episode of OHE is recommended — GRADE I, A, 1
 12. Primary prophylaxis for prevention of episodes of OHE is NOT required, except in patients with cirrhosis with a known high risk to develop HE — GRADE II-3, C, 2
-13. Recurrent intractable OHE, together with liver failure, is an indication for LT — GRADE I (no quality/strength subclass given)
-14. Initiation of care for patients with altered consciousness — GRADE II-2, A, 1 (part of four-pronged approach)
-15. Alternative causes of altered mental status should be sought and treated — GRADE II-2, A, 1
-16. Identification of precipitating factors and their correction — GRADE II-2, A, 1
-17. Commencement of empirical HE treatment — GRADE II-2, A, 1
+13. Recurrent intractable OHE, together with liver failure, is an indication for LT — GRADE I (quality and strength not specified)
+
+*Recommendations 14–17 are the four-pronged approach, graded once as a set: "A four-pronged approach to management of HE is recommended (GRADE II-2, A, 1)." The four components carry no individual grades.*
+
+14. Initiation of care for patients with altered consciousness
+15. Alternative causes of altered mental status should be sought and treated
+16. Identification of precipitating factors and their correction
+17. Commencement of empirical HE treatment
 
 **Recommendations 18–29 (Specific Treatment):**
 18. Identify and treat precipitating factors for HE — GRADE II-2, A, 1
@@ -75,19 +78,34 @@ Treatment strategy centers on a "four-pronged approach" for overt HE: (1) clinic
 
 ---
 
+## Classification — the four axes (Recommendation 1)
+
+Every case is described by one component from each axis; the full West Haven/ISHEN severity table and the alternative-cause differential are reproduced on [[hepatic-encephalopathy]].
+
+| Axis | Categories | Operative detail given by the guideline |
+|---|---|---|
+| Underlying disease | Type **A** / **B** / **C** | A = [[acute-liver-failure\|ALF]] (managed under separate ALF guidance, may raise ICP, not covered here); B = portosystemic bypass/shunting without intrinsic hepatocellular disease; C = [[cirrhosis]]. B and C present alike |
+| Severity | Unimpaired → Minimal → Grades 1–4 (West Haven); **Covert** = Minimal + Grade 1, **Overt** = Grades 2–4 | Onset of disorientation or asterixis marks the onset of OHE. Disorientation and asterixis have good inter-rater reliability; Grade 1 does not |
+| Time course | Episodic / **Recurrent** / **Persistent** | Recurrent = bouts recurring at an interval of **6 months or less**. Persistent = behavioral alterations always present, interspersed with relapses of overt HE |
+| Precipitating factors | Nonprecipitated / **Precipitated (specify)** | Episodic OHE, by decreasing frequency: infections, GI bleeding, diuretic overdose, electrolyte disorder, constipation, unidentified. Recurrent OHE: electrolyte disorder, infections, unidentified, constipation, diuretic overdose, GI bleeding |
+
+**Tests named for MHE/CHE (Recommendation 7).** No single test is valid across the spectrum, so use **at least two**, one of which should be widely accepted enough to serve as a comparator — in practice paper-pencil (**PHES**) plus one computerized (**CRT**, **ICT**, **SCAN**, or **Stroop**) or neurophysiological (**CFF** or **EEG**) test. Test only patients without confounders (neuropsychiatric disease, psychoactive medication, current alcohol use); repeat in 6 months if normal. A positive test before stopping HE drug therapy identifies patients at risk of recurrent HE.
+
 ## Key Clinical Data Points
 
-- MHE/CHE prevalence in cirrhosis: 20–80%; predicts OHE development and impairs driving
-- OHE at cirrhosis diagnosis: 10–14% general; 16–21% decompensated; 10–50% post-TIPS
+- MHE/CHE prevalence in cirrhosis: 20–80%; in patients with chronic liver disease the occurrence "seems to be as high as 50%". Predicts OHE development, poor quality of life, and impaired driving
+- OHE at cirrhosis diagnosis: 10–14% general; 16–21% decompensated; 10–50% with [[tips|TIPS]]
+- Risk of a **first** bout of OHE: 5–25% within 5 years of cirrhosis diagnosis, depending on risk factors (MHE/CHE, infection, variceal bleeding, ascites, probably diabetes and hepatitis C)
 - Cumulative OHE in cirrhosis: 30–40% at some point during disease course
-- Recurrence risk after first OHE: 40% at 1 year; 40% within 6 months despite lactulose
-- ~90% of OHE episodes can be treated by correcting precipitants alone
-- Post-TIPS OHE: 10–50% at 1 year (dose-dependent on stent diameter and portal pressure)
-- Serum ammonia: normal value in suspected OHE calls for diagnostic re-evaluation; elevated ammonia alone is insufficient for diagnosis and has no staging/prognostic value
-- Protein restriction: explicitly opposed — chronic restriction worsens sarcopenia and is a negative prognostic indicator; 1.2–1.5 g/kg/day recommended
-- Lactulose dosing: target 2–3 soft/loose stools/day; overuse can paradoxically precipitate HE
-- Rifaximin RCT (NEJM 2010; n=299): rifaximin 550 mg BID reduced overt HE recurrence (HR 0.42) and HE-related hospitalization (HR 0.50) vs. placebo, in background of 91% lactulose use
-- Late-night snack RCT: late-evening snack (200 kcal) improved nitrogen balance and functional liver capacity; exploits overnight anabolic window
+- Recurrence: after one bout, 40% cumulative risk of a recurring bout at 1 year; in patients who already have **recurrent** OHE, 40% cumulative risk of another recurrence within 6 months despite lactulose
+- ~90% of patients can be treated by correcting the precipitating factor alone
+- Post-TIPS OHE: median cumulative 1-year incidence 10–50%, greatly influenced by patient selection. Targeting portal pressure **below 12 mmHg** (rather than a 50% reduction) is associated with more bouts of encephalopathy; shunt diameter reduction can reverse post-TIPS HE
+- Intracerebral hemorrhage risk is at least **5-fold** increased in this population and the symptoms may be indistinguishable — so a brain scan is usually part of the workup of first-time HE
+- Serum ammonia: elevated ammonia alone adds no diagnostic, staging, or prognostic value; a **normal** value in a patient with OHE puts the diagnosis in question. For ammonia-lowering drugs, repeated measurements may help test efficacy. Report venous, arterial, or plasma ammonia against the matching normal range
+- Protein restriction: explicitly opposed — ~75% of HE patients have moderate-to-severe protein-calorie malnutrition; chronic restriction is detrimental and sarcopenia is a negative prognostic indicator. Some restriction may be unavoidable in the first few days of OHE treatment but should not be prolonged
+- Lactulose dosing: start **25 mL of syrup every 1–2 h** until at least two soft or loose bowel movements are produced, then titrate down to maintain **2–3 bowel movements/day**. Larger doses do not remedy a lack of effect; overuse risks aspiration, dehydration, hypernatremia, severe perianal skin irritation, and can itself precipitate HE
+- Rifaximin: superiority over placebo shown in a multinational maintenance-of-remission study in patients with two earlier OHE bouts, on a background of **91% lactulose use**. No solid data support rifaximin alone
+- Nutrition: small meals evenly distributed through the day plus a late-night snack, avoiding fasting; refeeding by moderate hyperalimentation, given orally where possible, by gastric tube if not; thiamine parenterally before glucose if Wernicke's is suspected; correct severe hyponatremia slowly
 
 ---
 
@@ -103,7 +121,8 @@ Treatment strategy centers on a "four-pronged approach" for overt HE: (1) clinic
 - **Protein restriction:** This 2014 guideline endorses 1.2–1.5 g/kg/day; AASLD 2024 ACLF GS 42 endorses 1.2–2.0 g/kg IBW/day in critically ill ACLF. Both oppose protein restriction. Consistent direction, ACLF endpoint is higher.
 - **Rifaximin dosing post-TIPS:** Neither rifaximin nor lactulose prevents post-TIPS HE (Grade III, B, 1). Careful patient selection (prior recurrent HE = relative TIPS contraindication) is the preferred strategy.
 - **Ammonia monitoring in ACLF:** This 2014 guideline: ammonia adds no value in CLD. AASLD 2024 ACLF GS 11: routine ammonia NOT recommended in ACLF. Entirely consistent.
-- **Newer agents (ornithine phenylacetate, GPB):** Guideline notes these as investigational; further data expected. Post-2014 literature has been mixed for ornithine phenylacetate (STOP-AHE trial negative; CARBALIVE trial ongoing as of 2024).
+- **Newer agents:** ornithine phenylacetate had been studied but further clinical reports were awaited at publication. Glyceryl phenylbutyrate was tested in one RCT in patients with ≥2 HE episodes in the prior 6 months on standard therapy, with fewer HE episodes and hospitalizations and longer time to first event; the guideline calls for confirmation before a clinical recommendation.
+- **Lactulose's own evidence base is weak:** a large meta-analysis did not fully support lactulose as a therapeutic agent for OHE, though it excluded the largest trials for technical reasons; most recent lactulose trials were open-label. Lactitol is preferred in some centres. Flumazenil transiently improves mental status without improving recovery or survival. Simple laxatives alone lack the prebiotic effect of the disaccharides. Probiotics could not be recommended as therapeutic options.
 
 ## See Also
 

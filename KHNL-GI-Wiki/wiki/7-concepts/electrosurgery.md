@@ -88,7 +88,7 @@ The CPU's Figure 1 plots the cut↔coagulation continuum against duty cycle, cre
 **Current density is inversely proportional to the surface area of contact.** Practical consequences:
 
 - **Small contact area → high current density → better cutting**, with less heating of surrounding tissue. E.g. a thin **monofilament** snare vs a thick **braided** snare.
-- **Large contact area → low current density → slower heating.** During hemostasis this is desirable: coagulation forceps and larger-diameter cautery probes **coapt the vessel**, cutting blood flow through the target and defeating the **heat-sink effect**, which improves coagulation.
+- **Large contact area → low current density → slower heating.** During [[endoscopic-hemostasis|hemostasis]] this is desirable: coagulation forceps and larger-diameter cautery probes **coapt the vessel**, cutting blood flow through the target and defeating the **heat-sink effect**, which improves coagulation.
 - But heat generated is proportional to power dissipated by the tissue, so **large contact area also means more thermal injury to adjacent tissue**. Even when coagulation is the goal, a small contact area (selectively grasping the vessel and **tenting it away** from other structures) reduces collateral injury.
 
 ### Tissue Resistance Is Not Constant

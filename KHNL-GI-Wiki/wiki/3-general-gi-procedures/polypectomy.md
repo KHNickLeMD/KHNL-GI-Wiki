@@ -147,7 +147,7 @@ Single home for LST submucosal-invasion risk — the two USMSTF 2020 documents d
 
 ### Difficult Locations
 
-- **Right colon:** Higher perforation risk; prefer cold snare when feasible; CO2 insufflation mandatory; clip defects ≥20mm prophylactically
+- **Right colon:** Higher [[endoscopic-management-of-perforation|perforation]] risk; prefer cold snare when feasible; CO2 insufflation mandatory; clip defects ≥20mm prophylactically
 - **Difficult positions (folds, flexures, ileocecal valve):** Consider cap-assisted [[colonoscopy]], position change, water-jet assisted technique; partial resection plus avulsion acceptable if full snare not achievable
 - **Rectal lesions:** [[colorectal-esd|ESD]] more often feasible given straight working channel; consider peri-anal approach for very distal lesions
 

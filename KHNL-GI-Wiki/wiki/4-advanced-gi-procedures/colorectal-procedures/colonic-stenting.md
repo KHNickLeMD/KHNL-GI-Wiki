@@ -40,7 +40,7 @@ Endoscopic placement of a self-expanding metal stent (SEMS) across a **malignant
 ## Contraindications and Cautions
 
 - ⚠ **Performance status can flip the palliative answer toward surgery.** For **ECOG 0 or 1**, palliative *surgery* had improved overall survival compared with SEMS; for **ECOG 2 or 3** there was **no difference** in overall survival ([[aga-2021-malignant-alimentary-tract-obstruction]]).
-- **Bevacizumab** has **not** been associated with higher perforation rates in recent large retrospective studies — with the caveat, stated in the source, that many of those patients received it outside 6 weeks of stent placement.
+- **Bevacizumab** has **not** been associated with higher [[endoscopic-management-of-perforation|perforation]] rates in recent large retrospective studies — with the caveat, stated in the source, that many of those patients received it outside 6 weeks of stent placement.
 - ⚠ **Perforation and tumour seeding.** A single-centre retrospective South Korean study found that patients whose SEMS placement was **complicated by perforation** had an **odds ratio of 46** for subsequently developing metastasis from seeding. The source explicitly limits this: single-centre, retrospective, small, and with a higher perforation rate than prior meta-analyses. Treat it as a signal, not a risk estimate.
 
 ## Bridge to Surgery

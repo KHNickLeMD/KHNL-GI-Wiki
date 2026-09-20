@@ -97,7 +97,7 @@ Predictors of a positive capsule study ([[acg-2015-small-bowel-bleeding]]):
 
 - **No therapeutic capability**; cannot control capsule movement; difficult to localize the lesion precisely.
 - **Fails to identify the major papilla in a majority of cases** → may miss important duodenal lesions from rapid transit through the duodenal loop. Improves to **60%** with a dual-camera capsule, but VCE still misses clinically important duodenal and proximal jejunal lesions and **cannot be relied on alone to exclude bleeding there** — use push enteroscopy instead. In FAP, CE **underestimates duodenal polyps and cannot reliably visualize the ampulla**, so it does **not** replace direct endoscopic evaluation of the duodenum and ampulla. ([[asge-2020-fap]])
-- **Perforation** is the most serious reported complication — **exceedingly rare**.
+- **[[endoscopic-management-of-perforation|Perforation]]** is the most serious reported complication — **exceedingly rare**.
 
 ## Capsule Retention and the Patency Capsule
 

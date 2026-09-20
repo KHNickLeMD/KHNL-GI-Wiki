@@ -263,7 +263,7 @@ A "high-quality" colonoscopy in this context requires: **cecum or anastomosis re
 
 **Weak recommendation, low-quality evidence**
 
-High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); ESD for rectal cancer; locally advanced rectal cancer without neoadjuvant chemoradiation + TME.
+High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); [[endoscopic-submucosal-dissection|ESD]] for rectal cancer; locally advanced rectal cancer without neoadjuvant chemoradiation + TME.
 
 - **Flexible sigmoidoscopy or [[endoscopic-ultrasound|EUS]] every 3–6 months for the first 2–3 years after surgery**, in addition to standard colonoscopic surveillance
 - EUS detects extraluminal recurrence before intraluminal findings; ~10% of rectal recurrences diagnosed by EUS only
