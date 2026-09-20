@@ -132,7 +132,7 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 - **Viral hepatitis** — [[chronic-hepatitis-b|HBV]], HCV, HEV; serology required; HBV reactivation can occur in heavy drinkers
 - **[[autoimmune-hepatitis|Autoimmune hepatitis (AIH)]]** — elevated IgG, autoantibodies; may require biopsy to distinguish from AH
 - **Ischemic hepatitis** — rapid rise in aminotransferases (AST >1000), cardiac/hypotensive history; "shock liver"
-- **Acute biliary obstruction** — CBD stone; jaundice + cholestatic LFTs; ultrasound excludes
+- **Acute biliary obstruction** — [[choledocholithiasis|CBD stone]]; jaundice + cholestatic LFTs; ultrasound excludes
 - **[[wilson-disease|Wilson's disease]]** — in younger patients; Kayser-Fleischer rings, low ceruloplasmin, high urine copper
 - **[[hereditary-hemochromatosis]]** — ALD is a cofactor that markedly worsens HH penetrance; alcohol is far more common than HH as the cause of elevated SF in non-C282Y patients; AUD screening recommended before treating secondary iron overload [[acg-2019-hereditary-hemochromatosis]]
 
@@ -206,7 +206,7 @@ AASLD 2020 GS-1: *"All patients receiving care in primary care and gastroenterol
 
 ### AKI in AH
 
-- AKI is common in severe AH due to hemodynamic consequences of [[portal-hypertension|portal hypertension]] overlapping with systemic inflammatory response syndrome (SIRS) → hepatorenal syndrome (HRS) [[aasld-2020-ald]]
+- AKI is common in severe AH due to hemodynamic consequences of [[portal-hypertension|portal hypertension]] overlapping with systemic inflammatory response syndrome (SIRS) → [[aki-in-cirrhosis|hepatorenal syndrome (HRS)]] [[aasld-2020-ald]]
 - **Serum creatinine >2.5 mg/dL is a relative contraindication to corticosteroids** in most AH clinical trials (insufficient trial data for steroid efficacy with AKI)
 - If AKI resolves, corticosteroid treatment should be reconsidered
 - AKI-avoidance strategies: avoid IV contrast, aminoglycosides, and NSAIDs; use diuretics cautiously; early treatment with [[albumin]] and vasoconstrictors if HRS develops
@@ -242,7 +242,7 @@ ALD risk is influenced by genetic variants in lipid metabolism and alcohol oxida
 
 **Contraindications to prednisolone** [[aasld-2020-ald]]:
 
-- Uncontrolled infections (SBP, pneumonia, cellulitis, UTI) — screen before starting; treat infection first, re-evaluate; infection alone is NOT associated with short-term mortality in responders
+- Uncontrolled infections ([[spontaneous-bacterial-peritonitis|SBP]], pneumonia, cellulitis, UTI) — screen before starting; treat infection first, re-evaluate; infection alone is NOT associated with short-term mortality in responders
 - **AKI with serum creatinine >2.5 mg/dL** (relative; if AKI resolves, reconsider steroids)
 - Uncontrolled [[upper-gi-bleeding|upper GI bleeding]] — control first; GIB alone is NOT an absolute contraindication (prednisolone can be started ~5 days after GIB episode per retrospective data)
 - Concomitant disease: active HBV, HCV, DILI, HCC, [[acute-pancreatitis|acute pancreatitis]], HIV, TB

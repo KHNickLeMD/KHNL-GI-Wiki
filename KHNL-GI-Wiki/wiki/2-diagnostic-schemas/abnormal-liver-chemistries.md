@@ -109,7 +109,7 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 
 **Hepatobiliary:**
 
-- Bile duct obstruction (choledocholithiasis, malignant obstruction, bile duct flukes), bile duct stricture, AIDS cholangiopathy, PBC, PSC, medications/DILI, infiltrative liver diseases (sarcoid, TB, amyloid, metastatic cancer, lymphoma), hepatic abscess, [[hepatocellular-carcinoma|hepatocellular carcinoma]], vanishing bile duct syndrome, ischemic cholangiopathy, alcoholic hepatitis, hepatic allograft rejection, sickle cell liver crisis, sepsis, congestive hepatopathy
+- Bile duct obstruction (choledocholithiasis, malignant obstruction, bile duct flukes), bile duct stricture, AIDS cholangiopathy, PBC, PSC, medications/DILI, infiltrative liver diseases (sarcoid, TB, amyloid, metastatic cancer, lymphoma), hepatic abscess, [[hepatocellular-carcinoma|hepatocellular carcinoma]], vanishing bile duct syndrome, ischemic cholangiopathy, [[alcohol-associated-hepatitis|alcoholic hepatitis]], hepatic allograft rejection, sickle cell liver crisis, sepsis, congestive hepatopathy
 
 **Non-hepatic:**
 

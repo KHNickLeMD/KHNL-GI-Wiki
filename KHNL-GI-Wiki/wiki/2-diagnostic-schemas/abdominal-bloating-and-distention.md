@@ -103,7 +103,7 @@ Order labs/imaging/endoscopy (BPA 6) when present:
 
 - **Supragastric belching / aerophagia** — brain–gut behavioral therapy (CBT, diaphragmatic breathing), speech therapy, central neuromodulators; **not PPI** (nonacidic). Baclofen only for gastric belching due to GERD.
 - **Bloating/distention**:
-  - **Dietary** — low-FODMAP, fructan/gluten avoidance where indicated, with a **GI dietitian** (BPA 9).
+  - **Dietary** — [[low-fodmap-diet|low-FODMAP]], fructan/gluten avoidance where indicated, with a **GI dietitian** (BPA 9).
   - **Pelvic floor disorder present** → **[[biofeedback-therapy|biofeedback]]** (BPA 11); treat coexisting constipation (BPA 13; see [[chronic-idiopathic-constipation]]).
   - **Central neuromodulators** (antidepressants) — reduce visceral hypersensitivity, raise sensation threshold (BPA 12).
   - **Brain–gut behavioral therapies** — hypnotherapy, CBT (BPA 14).

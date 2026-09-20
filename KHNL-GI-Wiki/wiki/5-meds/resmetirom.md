@@ -3,7 +3,7 @@ title: "Resmetirom (Rezdiffra)"
 category: med
 tags: [resmetirom, rezdiffra, thr-beta, masld, mash, nash, fibrosis, pharmacotherapy, hpb, liver]
 created: 2026-05-31
-updated: 2026-08-27
+updated: 2026-09-20
 sources: [aasld-2024-resmetirom, aasld-2023-nafld]
 ---
 
