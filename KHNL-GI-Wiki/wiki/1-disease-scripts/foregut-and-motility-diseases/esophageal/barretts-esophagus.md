@@ -3,8 +3,8 @@ title: "Barrett's Esophagus"
 category: disease-script
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance, foregut]
 created: 2026-05-15
-updated: 2026-09-20
-sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, asge-2023-esd, aga-2020-endoscopic-treatment-barretts-dysplasia, aga-2020-post-endoscopy-esophageal-adenocarcinoma, aga-2016-low-grade-dysplasia-barretts]
+updated: 2026-09-21
+sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, asge-2023-esd, aga-2020-endoscopic-treatment-barretts-dysplasia, aga-2020-post-endoscopy-esophageal-adenocarcinoma, aga-2016-low-grade-dysplasia-barretts, aga-2022-barretts-new-technology, aga-2018-barretts-screening-techniques]
 ---
 
 Barrett's esophagus (BE) is a metaplastic condition in which the normal squamous epithelium of the distal esophagus is replaced by specialized columnar epithelium containing intestinal-type goblet cells (intestinal metaplasia, IM). It is the only known precursor to [[esophageal-adenocarcinoma|esophageal adenocarcinoma]] (EAC), a cancer with rapidly increasing incidence over the past four decades. BE arises in the setting of chronic [[gerd|gastroesophageal reflux disease]]; 5–12% of patients with chronic GERD symptoms harbor BE.
@@ -22,6 +22,7 @@ Barrett's esophagus (BE) is a metaplastic condition in which the normal squamous
   - [[#Adjunct Staging Tests]]
 - [[#Therapeutics]]
   - [[#Screening (Who Should Be Screened)]]
+  - [[#Nonendoscopic Screening (Capsule Sponge + Biomarker)]]
   - [[#Medical Therapy / Chemoprevention]]
   - [[#Surveillance Intervals]]
   - [[#Endoscopic Eradication Therapy (EET)]]
@@ -225,11 +226,14 @@ Pathologic confirmation was also associated with **prevalent** HGD/carcinoma —
   - [[obesity|Obesity]] (central/abdominal)
   - First-degree family history of BE or EAC
 
-**Alternative screening modality (acceptable):**
+**A competing entry rule — GERD as a risk factor, not a prerequisite** ([[aga-2022-barretts-new-technology|AGA 2022 CPU]] Best Practice Advice 1): screening with standard upper endoscopy **may be considered with ≥3 established risk factors** — male sex, non-Hispanic white, age >50 y, smoking history, chronic GERD, obesity, family history of BE or EAC — with **no requirement that one of them be GERD**.
 
-- Swallowable nonendoscopic capsule sponge device (Cytosponge, EsophaCap, EsoCheck) combined with a biomarker (TFF3 or methylated DNA markers)
-- Sensitivity 80–94%, specificity 62–94% across devices (enriched case-control populations)
-- Office-administered, no [[endoscopy-sedation|sedation]] required; appropriate for high-risk patients who decline endoscopy
+- Why the panel moved GERD out of the gate: in prevalent-EAC cohorts, current criteria would **not have identified 54.9%** of US patients (n=663) and **38.9%** of UK patients (n=645); the reason criteria were not met was **lack of symptomatic GERD in 86.5% (US) and 61.4% (UK)**. A second US veterans study found **>50%** of patients with EAC had no frequent GERD symptoms. Up to **90%** of patients with EAC have never carried a BE diagnosis.
+- Where the risk sits: BE prevalence in the GERD population is **3%** (meta-analysis, 49 studies) and rises with each additional risk factor; it is **highest with a family history, at 23.4%**. "Chronic GERD" in these criteria means heartburn or regurgitation **>5 years** or occurring **weekly or more**.
+- The panel states the threshold of 3 is **largely expert opinion** and the optimal number is not yet defined.
+- *Contradiction surfaced:* ACG 2022 (above) keeps chronic GERD as a **prerequisite** and adds ≥3 other factors; the AGA 2022 CPU drops the prerequisite and counts GERD as one of the three. Both are tier-1; the ACG guideline and [[aga-2025-barretts-surveillance|AGA 2025]] govern the page's primary rule, but the GERD-optional criterion is the named AGA alternative and the reason a GERD-negative high-risk patient may still be offered screening.
+
+**Risk-prediction tools** (AGA 2022 BPA 10; may be used in the clinical evaluation for screening, further validation needed): **HUNT** (Nord-Trøndelag Health Study), **M-BERET** (Michigan BE pREdiction Tool), and **Kunzmann** — all outperform GERD symptoms alone for predicting BE. Earlier demographic models discriminate only modestly ([[aga-2018-barretts-screening-techniques|AGA 2018 CPU]]): **AUROC 0.61–0.75**; the Thrift absolute-risk matrix for EAC in men reached **AUROC 0.75 (95% CI 0.66–0.84)**, rising to **0.85 (0.78–0.91)** only once alarm symptoms (dysphagia, unexplained weight loss) were added — by which point patients are past a curative stage. None of these tools carries a published score cut-point in the ingested updates; they select who to evaluate, not who to treat.
 
 **ASGE 2019 at-risk stratification** ([[asge-2019-barretts-screening-surveillance|ASGE 2019]]): evidence is insufficient to confirm that screening reduces mortality, but if screening is performed it should target an at-risk population —
 
@@ -502,3 +506,5 @@ Neoplasia found soon after an endoscopy is mostly **prevalent disease that was m
 7. [[aga-2020-endoscopic-treatment-barretts-dysplasia|AGA Clinical Practice Update on Endoscopic Treatment of Barrett's Esophagus With Dysplasia and/or Early Cancer: Expert Review (2020)]]
 8. [[aga-2020-post-endoscopy-esophageal-adenocarcinoma|AGA Clinical Practice Update on Reducing Rates of Post-Endoscopy Esophageal Adenocarcinoma: Commentary (2020)]]
 9. [[aga-2016-low-grade-dysplasia-barretts|AGA 2016 Clinical Practice Update: Diagnosis and Management of Low-Grade Dysplasia in Barrett's Esophagus (Expert Review)]]
+10. [[aga-2022-barretts-new-technology|AGA Clinical Practice Update on New Technology and Innovation for Surveillance and Screening in Barrett's Esophagus: Expert Review (2022)]]
+11. [[aga-2018-barretts-screening-techniques|AGA Clinical Practice Update: New Screening Techniques in Barrett's Esophagus — Great Ideas or Great Practice? (2018)]]
