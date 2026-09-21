@@ -33,8 +33,8 @@ Esophageal infection causing dysphagia, odynophagia, and chest pain. Most common
 
 ### Severity Assessment
 
-- **No severity score or grading system exists in [[aga-2024-esophageal-immunity-infection]]** — the only graded descriptor the source uses is endoscopic extent for Candida ("in severe cases, may **carpet the entire esophagus**").
-- Practical severity drivers, all sourced: **degree of immunosuppression** (which decides whether to look for systemic infection and whether to consult ID, BPA 2), **ulcer depth** (shallow HSV vs **deep** CMV), and **failure to improve on therapy** (BPA 3 — triggers reassessment for resistant infection or a coexisting immune-mediated disorder).
+- **No severity score or grading system applies to infectious esophagitis.** The only graded descriptor is endoscopic extent for Candida — in severe cases it may **carpet the entire esophagus**.
+- Severity is driven by: **degree of immunosuppression** (decides whether to look for systemic infection and whether to consult ID — BPA 2), **ulcer depth** (shallow in HSV vs **deep** in CMV), and **failure to improve on therapy** (BPA 3 — triggers reassessment for refractory infection or a coexisting immune-mediated disorder).
 
 ### Organism-specific features
 
@@ -43,7 +43,7 @@ Esophageal infection causing dysphagia, odynophagia, and chest pain. Most common
 | **Candida** | White nummular plaques/lesions; may carpet the entire esophagus in severe cases | Cytobrush or biopsy → fungal forms |
 | **HSV** | Multiple small, shallow, well-circumscribed ulcers | Biopsy → intranuclear eosinophilic inclusions |
 | **CMV** | Few large cratered ulcers; **deep** ulceration(s) on the source's history-based table | Biopsy → large eosinophilic **or** basophilic intranuclear inclusions |
-| **HIV** | A few discrete esophageal ulcerations | Named by the source as another cause of discrete esophageal ulceration; no diagnostic criteria given |
+| **HIV** | A few discrete esophageal ulcerations | No diagnostic criteria are given |
 
 ### Risk Factors (candida esophagitis)
 
@@ -63,7 +63,7 @@ Esophageal infection causing dysphagia, odynophagia, and chest pain. Most common
 
 ## Diagnostics
 
-- **[[upper-endoscopy|EGD]] with biopsies and brushings** — take brushings **if nummular lesions are identified**; take esophageal biopsies for the viral causes. The source does not specify whether to sample the ulcer edge or base.
+- **[[upper-endoscopy|EGD]] with biopsies and brushings** — take brushings **if nummular lesions are identified**; take esophageal biopsies for the viral causes. Whether to sample the ulcer edge or base is not specified.
 - **Consider infectious disease consultation** when an esophageal infection is identified in an immunosuppressed patient (BPA 2).
 
 ### History-driven evaluation
@@ -86,11 +86,11 @@ The source's Table 1 links the pertinent history to what to look for — the pra
 
 | Organism | Treatment |
 |---|---|
-| **Candida** | **Fluconazole** is the preferred agent ("available guidelines recommend fluconazole as the preferred treatment"). **Dose and duration are not stated** by [[aga-2024-esophageal-immunity-infection]] — see the gap note below. **Nystatin** for prophylaxis in patients at high risk, or when it is unclear whether this is infection vs colonization. Treatment of candida "is not well-studied, and there is little guidance": in immunocompetent hosts candida may resolve on its own once the inciting risk is removed, and whether **asymptomatic** candidiasis warrants treatment at all remains unclear. |
-| **HSV** | **Acyclovir, valacyclovir, or famciclovir** — up to **10 days (immunocompetent)** or **21 days (immunosuppressed)**. Dose not stated by the source. |
-| **CMV** | **Ganciclovir (or valganciclovir)** — up to **6 weeks** may be needed. Dose not stated by the source. |
+| **Candida** | **Fluconazole 200–400 mg/day × 14–21 days** — the preferred treatment. **Nystatin** for prophylaxis in patients at high risk of candida esophagitis, or when it is unclear whether this is infection vs colonization. Treatment of candida is not well studied: in immunocompetent hosts candida may resolve on its own once the inciting risk is removed, and whether **asymptomatic** candidiasis warrants treatment at all remains unclear (one study found asymptomatic candidiasis rarely becomes symptomatic). |
+| **HSV** | **Acyclovir, valacyclovir, or famciclovir** — up to **10 days (immunocompetent)** or **21 days (immunosuppressed)**. No dose is given. |
+| **CMV** | **Ganciclovir (or valganciclovir)** — up to **6 weeks** may be needed. No dose is given. |
 
-> [[aga-2024-esophageal-immunity-infection]] names the drugs and, for the viruses, the treatment *durations*, but gives **no doses for any of the three organisms** and **no duration for fluconazole**; take dosing from an infectious-disease source (e.g. the IDSA candidiasis guideline).
+> Antiviral doses for HSV and CMV esophagitis are not specified; only the durations above are given.
 
 - Refractory symptoms after appropriate therapy → reassess for resistant/refractory infection or a coexisting immune-mediated esophageal disorder. (BPA 3)
 

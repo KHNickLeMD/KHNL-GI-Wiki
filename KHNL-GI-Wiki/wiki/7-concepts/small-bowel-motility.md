@@ -13,7 +13,7 @@ Small bowel motility is one of several mechanisms that keep the small intestine 
 
 - The small bowel has an **inherent cleansing function** — recurring antegrade peristalsis plus migrating motor complexes, **organized into 3 phases**.
 - **Phase III MMC** is the phase that matters for overgrowth: an **intense phasic and tonic contractile event** that begins in the **stomach or proximal bowel** and sweeps toward the colon, **propelling chyme, secretions, and bacteria** — cleansing the small intestine of debris **during fasting**.
-- ⚠ ACG 2020 does not state an MMC cycle length; no interval is quoted here (would need a primary motility source).
+- ACG 2020 does not state an MMC cycle length.
 
 ## Bioprotective Mechanisms Against SIBO
 

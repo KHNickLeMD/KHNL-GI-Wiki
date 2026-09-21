@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on Endoscopic Treatment of Barrett's Esopha
 category: source
 tags: [barretts-esophagus, dysplasia, esophageal-adenocarcinoma, eet, rfa, emr, esd, ablation, surveillance, foregut]
 created: 2026-09-20
-updated: 2026-09-20
+updated: 2026-09-21
 sources: []
 ---
 
@@ -18,7 +18,7 @@ sources: []
 - **DOI:** [10.1053/j.gastro.2019.09.051](https://doi.org/10.1053/j.gastro.2019.09.051)
 - **Type:** Guideline — AGA Institute **Clinical Practice Update (Expert Review)**, 16 numbered **Best Practice Advice** statements. **Tier 1.**
 
-> **Grading: none.** The update attaches no GRADE rating, no strength-of-recommendation label and no evidence-quality label to any of its 16 Best Practice Advice statements. **Methods, verbatim:** "This article provides practical advice based on the best available published evidence, taking into account recently published systematic reviews and clinical guidelines. This best practice document is not based on a formal systematic review. The best practice advice as presented in this document applies to adult patients with BE and low- (LGD) or high-grade dysplasia (HGD) (confirmed by an expert pathologist) or T1 esophageal cancer." Do not attach strengths or evidence grades to these statements — the source gives none.
+> **Grading: none.** The update attaches no GRADE rating, no strength-of-recommendation label and no evidence-quality label to any of its 16 Best Practice Advice statements. **Methods, verbatim:** "This article provides practical advice based on the best available published evidence, taking into account recently published systematic reviews and clinical guidelines. This best practice document is not based on a formal systematic review. The best practice advice as presented in this document applies to adult patients with BE and low- (LGD) or high-grade dysplasia (HGD) (confirmed by an expert pathologist) or T1 esophageal cancer."
 
 **Scope, verbatim:** "Because of the paucity of evidence supporting BET in nondysplastic BE, current guidelines do not recommend BET in such patients. For this reason, this guidance will concentrate on those with dysplastic BE." Target audience: all gastroenterologists and endoscopists.
 

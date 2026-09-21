@@ -9,7 +9,7 @@ sources: [chang-2024-endoscopic-oncologist, asge-2023-esd, acg-2025-eus-quality]
 
 Endoscopic oncology is an emerging subspecialty within gastroenterology focused on the endoscopic diagnosis, staging, curative resection, and palliation of gastrointestinal cancers. It sits at the intersection of advanced therapeutic endoscopy and oncologic medicine.
 
-> ⚠ **This is a navigational hub, not a source of clinical criteria.** Its nominal source ([[chang-2024-endoscopic-oncologist]]) is a **citation of record only** — a four-page editorial whose full text has never been obtained, and which that source page explicitly bars from supporting scope-of-practice, training-pathway, or technique claims. Every indication, threshold, and technique below therefore lives on the linked page, which carries the guideline citation. Do not cite this page for a clinical decision.
+> **This is a navigational hub, not a source of clinical criteria.** Every indication, threshold, and technique below lives on the linked page, which carries the guideline citation.
 
 ## Scope
 

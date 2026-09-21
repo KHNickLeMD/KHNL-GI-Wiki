@@ -37,7 +37,8 @@ Papers, guidelines, tables, and figures that would close a specific gap on a wik
 | Original Mayo PBC risk model; UK-PBC risk score derivation | coefficients and thresholds | [[primary-biliary-cholangitis]] |
 | SCOPE index derivation paper | verify the 6–11 band | [[primary-sclerosing-cholangitis]] |
 | Original ABIC, GAHS, and Lille derivation papers | point formulas | [[alcohol-associated-liver-disease]] |
-| Original DILIN severity-scale paper; original Roenigk classification paper | DILIN grades 1–5; Roenigk histologic grades (methotrexate) | [[drug-induced-liver-injury]] |
+| Original DILIN severity-scale paper; original Roenigk classification paper | DILIN grades 1–5; Roenigk histologic grades (methotrexate) | [[drug-induced-liver-injury]], [[methotrexate]] |
+| A guideline giving the methotrexate folic acid regimen and the CBC/liver-chemistry monitoring interval (e.g. ACR rheumatoid arthritis guideline; British Society for Rheumatology methotrexate monitoring guidance) | folic acid dose, form, and schedule alongside weekly methotrexate; how often to check WBC and liver chemistries on therapy | [[methotrexate]] |
 | Kleiner 2005 — NASH CRN NAFLD Activity Score | NAS component point values | [[nafld-masld]] |
 | Yerdel 2000, *Transplantation* 69:1873 | PVT grade I–IV boundaries | [[portal-vein-thrombosis]] |
 | BCS-TIPS prognostic index; Rotterdam score derivation | component variables and points | [[budd-chiari-syndrome]] |
