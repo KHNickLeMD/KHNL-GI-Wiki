@@ -11,7 +11,7 @@ import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..', '..', 'KHNL-GI-Wiki')
-const SITE = 'https://digestpedia.com'
+const SITE = 'https://www.digestpedia.com'
 
 // Cards live OUTSIDE the repo, in the Nextcloud folder beside raw/ — they sync to the server and
 // are shared by link, not by git, so releasing cards stays a deliberate act. Keep them out of
