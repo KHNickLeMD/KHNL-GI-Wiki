@@ -19,9 +19,9 @@
 
   // ----------------------------- CONFIG -----------------------------
   var CONFIG = {
-    API_BASE: "https://api.khnicklemd.com",
+    API_BASE: "https://api.digestpedia.com",
     TURNSTILE_SITE_KEY: "0x4AAAAAADsnUhGCQy6CF38J", // public site key (not the secret)
-    APP_VERSION: "step2-2026-06-28",
+    APP_VERSION: "digestpedia-2026-09-21",
   };
   // Optional prefill hook for Step 4 (logged-in autofill). No-op until then.
   var prefilled = { name: "", email: "" };

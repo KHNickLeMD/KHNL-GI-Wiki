@@ -42,9 +42,9 @@
 
   // ----------------------------- CONFIG -----------------------------
   var CONFIG = {
-    API_BASE: "https://api.khnicklemd.com",
+    API_BASE: "https://api.digestpedia.com",
     TURNSTILE_SITE_KEY: "0x4AAAAAADsnUhGCQy6CF38J", // public site key (same widget as feedback)
-    APP_VERSION: "step16-2026-07-04",
+    APP_VERSION: "digestpedia-2026-09-21",
   };
 
   // ======================================================================
