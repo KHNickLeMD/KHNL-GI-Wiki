@@ -3,7 +3,7 @@ title: "Nonselective Beta-Blockers (NSBBs)"
 category: med
 tags: [nsbb, carvedilol, propranolol, nadolol, portal-hypertension, csph, cirrhosis, varices, variceal-bleeding, decompensation, cacld]
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-22
 sources: [aasld-2023-portal-hypertension, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension]
 ---
 

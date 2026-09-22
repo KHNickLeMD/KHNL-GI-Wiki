@@ -3,7 +3,7 @@ title: "Liver Stiffness Measurement (Elastography)"
 category: concept
 tags: [liver-stiffness, elastography, transient-elastography, vcte, fibroscan, spleen-stiffness, cACLD, CSPH, noninvasive, portal-hypertension, fibrosis]
 created: 2026-08-01
-updated: 2026-09-05
+updated: 2026-09-22
 sources: [baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2024-nilda-portal-htn, aasld-2023-portal-hypertension]
 ---
 
@@ -30,7 +30,7 @@ The full **"rule of 5"** algorithm, the three Baveno VIII CSPH rule-in criteria,
 | **>15 kPa** | *Highly suggestive* of cACLD (1.3) |
 | **≤15 kPa + platelets ≥150 ×10⁹/L** | Rules out [[portal-hypertension\|CSPH]] (NPV >90%) (1.15 — **upgraded to LoE 1, strong** from Baveno VII's B.2) |
 | **≥25 kPa** | **Diagnostic of** CSPH — **only** in virus-/alcohol-related or **non-obese (BMI <30 kg/m²) MASLD**-related cACLD (1.16b) |
-| **<10 kPa**, or **<15 kPa with SSM <25 kPa**, in a **recompensated** patient | May rule out CSPH → the non-invasive route to stopping carvedilol/cNSBB (7.19a–b). **LSM >25 kPa** rules CSPH back in (7.19c) |
+| **<10 kPa**, or **<15 kPa with SSM <25 kPa**, in a **recompensated** patient | May rule out CSPH → the non-invasive route to stopping [[nonselective-beta-blockers\|carvedilol/cNSBB]] (7.19a–b). **LSM >25 kPa** rules CSPH back in (7.19c) |
 
 - **Rule of 5 (10-15-20-25 kPa)** denotes progressively higher relative risk of decompensation and liver-related death, independent of aetiology (1.8).
 - **Spleen stiffness (SSM)** now has three separate, non-interchangeable cut-offs — **>55 kPa at 100 Hz** rules CSPH in; **<40 kPa** spares screening endoscopy; **<25 kPa with LSM <15 kPa** rules CSPH out after recompensation. ⚠ **Baveno VII's SSM <21 / >50 kPa pair (viral cACLD only) is superseded** — do not mix the two sets. Table on [[portal-hypertension]].

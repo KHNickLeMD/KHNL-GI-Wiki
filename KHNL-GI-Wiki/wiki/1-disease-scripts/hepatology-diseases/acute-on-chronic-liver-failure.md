@@ -3,7 +3,7 @@ title: "Acute-on-Chronic Liver Failure (ACLF)"
 category: disease-script
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, organ-failure, ICU, NACSELD, EASL-CLIF, terlipressin, HRS, hepatic-encephalopathy, infection, nutrition, liver-transplantation, palliative-care]
 created: 2026-05-28
-updated: 2026-09-06
+updated: 2026-09-22
 sources: [aasld-2024-aclf, baveno-viii-2026-portal-hypertension]
 ---
 
@@ -50,7 +50,7 @@ ACLF is a syndrome in patients with chronic liver disease (CLD) characterized by
 | **EASL-CLIF** (European) | Earlier onset; grades ACLF-1, -2, -3 | Six organ systems, each with its own cut-off (CLIF-C ACLF, Table 1): **liver** total bilirubin ≥12 mg/dL; **kidney** sCr ≥2 mg/dL or RRT; **brain** [[hepatic-encephalopathy\|HE]] grade 3–4; **respiratory** PaO₂/FiO₂ ≤200 or SpO₂/FiO₂ ≤214; **coagulation** INR ≥2.5; **cardiovascular** use of vasopressors |
 | **APASL** (Asia-Pacific) | Early; includes non-cirrhotic CLD | Acute hepatic insult + liver failure (Bi ≥5, INR ≥1.5) + coagulopathy + clinical features ≤4 weeks in previously diagnosed or undiagnosed CLD; high sensitivity, lower specificity |
 
-**EASL-CLIF grade — what the grades mean (drives the terlipressin decision, GS 25):**
+**EASL-CLIF grade — what the grades mean (drives the [[terlipressin]] decision, GS 25):**
 
 - **ACLF-1 / ACLF-2** — intermediate stage: patients *developing* extrahepatic organ failure
 - **ACLF-3** — late stage: **≥3 organ failures**; highest mortality; terlipressin contraindicated
@@ -180,7 +180,7 @@ Critically ill patients with cirrhosis and ACLF require multidisciplinary ICU ca
 - Withdraw diuretics; treat precipitants (infection, GI bleed); volume challenge with **albumin 1 g/kg up to 100 g/day × 48h** (GS 23)
 - If meets HRS-AKI criteria after albumin challenge:
   - **Vasoconstrictors + albumin (20–40 g/day)** for [[aki-in-cirrhosis|ICA-AKI]] Stage 2+ HRS-AKI without contraindications (GS 24) — ICA-AKI stage definitions on [[aki-in-cirrhosis]]
-  - **Terlipressin (0.5–2.0 mg IV q6h or 2 g/24h continuous infusion):** indicated for Stage 2+ [[aki-in-cirrhosis|HRS-AKI]] without ACLF-3 (EASL-CLIF) or major cardiopulmonary/vascular disease (GS 25). Contraindicated in ACLF-3 due to CONFIRM trial respiratory failure signal
+  - **[[terlipressin]] (0.5–2.0 mg IV q6h, or continuous infusion starting at 2 mg/24h):** indicated for Stage 2+ [[aki-in-cirrhosis|HRS-AKI]] without ACLF-3 (EASL-CLIF) or major cardiopulmonary/vascular disease (GS 25). Contraindicated in ACLF-3 due to CONFIRM trial respiratory failure signal. *AASLD 2024 GS 25 prints the infusion dose as "2 g/24h"; every other source gives it in **milligrams** — use 2 mg/24h.*
   - **Norepinephrine:** alternative to terlipressin; preferred in shock (GS 26)
   - Midodrine + [[somatostatin-analogs|octreotide]]: inferior to terlipressin continuous infusion; acceptable in non-ICU setting
 - **RRT:** individualized; recommended for HRS-AKI failing pharmacotherapy in LT candidates as bridge (GS 27); continuous RRT preferred over intermittent in hemodynamically unstable patients; no preemptive benefit
@@ -281,7 +281,7 @@ Palliative care is essential in ACLF management; frequently underutilized (GS 49
 
 ## See Also
 
-[[acute-liver-failure]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[nutrition-in-liver-disease]], [[rifaximin]], [[proton-pump-inhibitors]], [[abnormal-liver-chemistries]], [[cirrhosis]], [[albumin]], [[cirrhosis-hemostasis]], [[hepatic-venous-pressure-gradient]], [[tips]], [[somatostatin-analogs]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[enteral-access]]
+[[acute-liver-failure]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[nutrition-in-liver-disease]], [[rifaximin]], [[proton-pump-inhibitors]], [[abnormal-liver-chemistries]], [[cirrhosis]], [[albumin]], [[cirrhosis-hemostasis]], [[hepatic-venous-pressure-gradient]], [[tips]], [[somatostatin-analogs]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[enteral-access]], [[terlipressin]]
 
 ---
 

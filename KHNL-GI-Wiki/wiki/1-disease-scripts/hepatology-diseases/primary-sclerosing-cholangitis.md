@@ -3,7 +3,7 @@ title: "Primary Sclerosing Cholangitis"
 category: disease-script
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant, dominant-stricture, igg4, udca, mrcp, fish, liver-stiffness]
 created: 2026-05-19
-updated: 2026-09-12
+updated: 2026-09-22
 sources: [acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, aga-2019-psc-cancer-surveillance, baveno-viii-2026-portal-hypertension]
 ---
 
@@ -144,7 +144,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 
 - Same approach as other chronic liver diseases with the exceptions below
 - **Varix-screening thresholds live in [[#Diagnostics]]** (Baveno-VI criteria, GS 17) — 0% false-negative for varices needing treatment; ~30% of [[upper-endoscopy|EGDs]] avoided
-  - ⚠ **The *generic* cACLD screening rule has since moved on.** [[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] frames screening around NSBB eligibility — **no screening EGD if the patient is on an NSBB**, and for the NSBB-ineligible an exemption at **LSM <20 kPa *and* platelets ≥150 ×10⁹/L, *or* SSM <40 kPa** — with a **2-year (aetiology active) / 3-year (aetiology removed)** repeat interval. Full thresholds on [[portal-hypertension]]. Neither guideline reconciles the two for PSC, and the Rule-of-Five LSM cut-offs are noted there as **less reliable in PSC with dominant strictures**; the PSC-specific AASLD numbers above are retained for that reason, but check the Baveno rule before ordering
+  - ⚠ **The *generic* cACLD screening rule has since moved on.** [[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] frames screening around [[nonselective-beta-blockers|NSBB]] eligibility — **no screening EGD if the patient is on an NSBB**, and for the NSBB-ineligible an exemption at **LSM <20 kPa *and* platelets ≥150 ×10⁹/L, *or* SSM <40 kPa** — with a **2-year (aetiology active) / 3-year (aetiology removed)** repeat interval. Full thresholds on [[portal-hypertension]]. Neither guideline reconciles the two for PSC, and the Rule-of-Five LSM cut-offs are noted there as **less reliable in PSC with dominant strictures**; the PSC-specific AASLD numbers above are retained for that reason, but check the Baveno rule before ordering
 - [[porto-sinusoidal-vascular-disorder|Non-cirrhotic portal hypertension]] and infected transjugular intrahepatic portosystemic shunt ([[tips|TIPS]]) may rarely occur in PSC with chronically infected bile ducts
 
 **Vaccination and lifestyle:**

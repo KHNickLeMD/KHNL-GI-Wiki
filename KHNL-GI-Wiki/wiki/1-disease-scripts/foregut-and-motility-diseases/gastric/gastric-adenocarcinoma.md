@@ -3,8 +3,8 @@ title: "Gastric Adenocarcinoma"
 category: disease-script
 tags: [gastric-cancer, gastric-adenocarcinoma, gastric, malignancy, her2, pd-l1, msi-h, dmmr, claudin-18.2, flot, gastrectomy, endoscopic-resection, trastuzumab, zolbetuximab, nccn, oncology]
 created: 2026-06-01
-updated: 2026-09-03
-sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant, asge-2023-esd]
+updated: 2026-09-22
+sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant, asge-2023-esd, aga-2018-esd-united-states]
 ---
 
 ## Contents
@@ -120,6 +120,17 @@ Stage-directed per [[nccn-2026-gastric-cancer]]:
 | **Poorly differentiated** early GAC, **any size** | **Surgical evaluation over endoscopic approaches** |
 
   The **absolute** ESD indication is mucosal (T1a) adenocarcinoma/HGD, **intestinal type, ≤2 cm**; expanded criteria add intestinal-type G1/G2 of any size without ulceration, intestinal-type G1/G2 with submucosal invasion <500 µm, intestinal-type G1/G2 ≤3 cm with ulceration, and diffuse-type G3/G4 ≤2 cm without ulceration. [[asge-2023-esd]]
+
+  **Lymph-node-metastasis risk — the number the indication sets are drawn around** ([[aga-2018-esd-united-states]]):
+
+| Group | LNM risk |
+|---|---|
+| Absolute criteria (meta-analysis, 9798 patients) | **0.2%** |
+| Expanded criteria (same meta-analysis) | **0.7%** |
+| Expanded subgroup — **undifferentiated mucosal** lesions | **2.6%** |
+| Expanded subgroup — **submucosal** lesions | **2.5%** |
+
+  Those two expanded subgroups are significantly higher than the absolute-criteria risk and must be **balanced against the risk of surgical resection**. **Western risk may exceed Asian**: in a US SEER cohort (1577 patients), **well/moderately differentiated T1a** carried LNM **1.7% at <2 cm**, **<4.5% at <4 cm**, and **20% at ≥4 cm**; **low-grade T1b** began at **8.4% for tumors <1 cm** and rose steeply with size. In the US, ESD should be considered **first-line for visible, endoscopically resectable superficial gastric neoplasia**, and is superior to EMR for lesions **larger than 1 cm** (indistinct margins, relative gastric wall thickness, ESD precision). Technique, specimen handling, and pathology requirements are on [[endoscopic-submucosal-dissection]].
 - **Resectable locally advanced:** **perioperative chemotherapy (FLOT preferred)** with **gastrectomy and D2 lymphadenectomy**. Perioperative/neoadjuvant immunotherapy is considered for **MSI-H/dMMR** tumors (multidisciplinary; **dostarlimab** added as a neoadjuvant option). Gastrectomy remains standard even after radiologic/endoscopic complete response to neoadjuvant immunotherapy, outside prospective organ-preservation trials; if non-operative management is pursued for MSI-H/dMMR disease, immunotherapy continues for **at least 1 year**.
 - **Unresectable:** definitive chemoradiation/chemotherapy.
 - **Palliation of malignant [[gastric-outlet-obstruction|gastric outlet obstruction]]:** endoscopically placed **self-expanding metal stent (SEMS)** for patients with poor performance status or nonoperable anatomy. [[asge-2015-gastric-premalignant]]
@@ -163,3 +174,4 @@ flowchart TD
 1. [[nccn-2026-gastric-cancer|NCCN Clinical Practice Guidelines in Oncology: Gastric Cancer (Version 3.2026)]]
 2. [[asge-2015-gastric-premalignant|ASGE Guideline: The Role of Endoscopy in the Management of Premalignant and Malignant Conditions of the Stomach (2015)]]
 3. [[asge-2023-esd|ASGE Guideline: ESD for Early Esophageal and Gastric Cancer (2023)]]
+4. [[aga-2018-esd-united-states|AGA Institute Clinical Practice Update: Endoscopic Submucosal Dissection in the United States]]

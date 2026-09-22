@@ -3,7 +3,7 @@ title: "Budd-Chiari Syndrome"
 category: disease-script
 tags: [budd-chiari, hepatic-vein, thrombosis, portal-hypertension, liver-failure, mpn, jak2, anticoagulation, tips]
 created: 2026-05-21
-updated: 2026-09-05
+updated: 2026-09-22
 sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, baveno-vii-2022-portal-hypertension, aasld-2021-vascular-pvt]
 ---
 
@@ -148,7 +148,7 @@ flowchart TD
 - Anticoagulation should be **indefinite** in most patients given persistent thrombophilia
 - Treat underlying MPN: hydroxyurea (or anagrelide for ET); phlebotomy + aspirin for polycythemia vera; does not replace anticoagulation
 - Antiphospholipid syndrome: indefinite VKA (target INR 2–3); DOACs associated with higher thrombotic recurrence in APLS
-- **Pregnancy and contraception:** the Baveno VIII vascular-liver-disease rules apply — non-oestrogen contraception, oral anticoagulants replaced by therapeutic-dose LMWH once pregnancy is detected, variceal screening in the second trimester, propranolol for prophylaxis, and vaginal delivery preferred if platelets >20 G/L (8.15–8.20). One home: [[porto-sinusoidal-vascular-disorder|PSVD/NCPF → Therapeutics]] and [[liver-disease-in-pregnancy]]
+- **Pregnancy and contraception:** the Baveno VIII vascular-liver-disease rules apply — non-oestrogen contraception, oral anticoagulants replaced by therapeutic-dose LMWH once pregnancy is detected, variceal screening in the second trimester, [[nonselective-beta-blockers|propranolol]] for prophylaxis, and vaginal delivery preferred if platelets >20 G/L (8.15–8.20). One home: [[porto-sinusoidal-vascular-disorder|PSVD/NCPF → Therapeutics]] and [[liver-disease-in-pregnancy]]
 
 **What counts as "improvement" before escalating** ([[baveno-viii-2026-portal-hypertension]] 8.35): a **combination** of — decreasing rate of ascites formation; decreasing serum bilirubin; decreasing serum creatinine; and/or decreasing INR when elevated (or rising factor V on vitamin K antagonists). **Assess it periodically, e.g. at 2-weekly intervals** — Baveno VIII adds the interval, which Baveno VII 8.23 left open, so "no improvement on medical therapy" is now a judgement made on a schedule rather than at an arbitrary point. **Actively assess for venous stenoses suitable for percutaneous recanalisation and treat them accordingly** (8.33).
 

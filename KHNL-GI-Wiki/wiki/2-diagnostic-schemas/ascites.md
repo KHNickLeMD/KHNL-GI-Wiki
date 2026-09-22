@@ -3,7 +3,7 @@ title: "Ascites"
 category: diagnostic-schema
 tags: [ascites, cirrhosis, saag, paracentesis, diuretics, tips]
 created: 2026-05-15
-updated: 2026-09-04
+updated: 2026-09-22
 sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -261,7 +261,7 @@ Two alternatives that [[baveno-vii-2022-portal-hypertension|Baveno VII]] could n
 
 ### Nonselective Beta-Blockers (NSBBs)
 
-- Caution (not absolute contraindication) in RA with: SBP <90 mmHg, Na <130 mEq/L, or creatinine >1.5 mg/dL
+- [[nonselective-beta-blockers|NSBBs]] — caution (not absolute contraindication) in RA with: SBP <90 mmHg, Na <130 mEq/L, or creatinine >1.5 mg/dL
 - May be reintroduced if hemodynamic parameters improve
 
 ### Hepatic Hydrothorax (AGA 2025)
@@ -301,7 +301,7 @@ Two alternatives that [[baveno-vii-2022-portal-hypertension|Baveno VII]] could n
 
 ## See Also
 
-[[cirrhosis]], [[tips]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]], [[noninvasive-liver-disease-assessment]], [[albumin]], [[hepatocellular-carcinoma]], [[variceal-upper-gi-bleeding]]
+[[cirrhosis]], [[tips]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]], [[noninvasive-liver-disease-assessment]], [[albumin]], [[hepatocellular-carcinoma]], [[variceal-upper-gi-bleeding]], [[nonselective-beta-blockers]]
 
 ---
 

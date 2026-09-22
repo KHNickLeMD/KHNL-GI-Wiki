@@ -3,7 +3,7 @@ title: "Liver Disease in Pregnancy"
 category: diagnostic-schema
 tags: [pregnancy, liver-disease, ihcp, intrahepatic-cholestasis, aflp, acute-fatty-liver, hellp, hyperemesis-gravidarum, preeclampsia, eclampsia, hepatitis-b, hepatitis-c, hpb, liver]
 created: 2026-05-19
-updated: 2026-09-05
+updated: 2026-09-22
 sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver]
 ---
 
@@ -396,7 +396,7 @@ See also: [[wilson-disease]]
 - Up to 30% of cirrhotic pregnant women bleed from esophageal varices; risk 50–78% if pre-existing varices
 - [[variceal-upper-gi-bleeding|Variceal bleeding]] mortality per episode: 20–50% maternal mortality, even higher fetal loss risk
 - **Screen for esophageal varices by [[upper-endoscopy|upper endoscopy]] in second trimester** if [[portal-hypertension|portal hypertension]] suspected (Rec 34 — strong, low evidence); most prudent timing after organogenesis complete in first trimester and before greatest bleed risk at delivery
-- **Treat large varices with beta-blockers and/or band ligation** (Rec 35 — conditional, very low evidence)
+- **Treat large varices with [[nonselective-beta-blockers|beta-blockers]] and/or band ligation** (Rec 35 — conditional, very low evidence)
   - Propranolol: pregnancy category C; used for fetal arrhythmias, hypertension — overall safe; risks of IUGR, neonatal bradycardia, hypoglycemia
   - Nadolol: category C but long half-life, low protein-binding — less preferred
   - Band ligation: safe in pregnancy; evidence extrapolated from non-pregnant patients

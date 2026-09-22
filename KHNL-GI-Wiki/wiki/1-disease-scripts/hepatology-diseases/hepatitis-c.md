@@ -3,7 +3,7 @@ title: "Hepatitis C"
 category: disease-script
 tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, cirrhosis, HCC, SVR, glecaprevir, pibrentasvir, sofosbuvir, velpatasvir, fibrosis, liver, antiviral, screening]
 created: 2026-05-28
-updated: 2026-09-15
+updated: 2026-09-22
 sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1, aga-2025-hbv-reactivation, aga-2019-daa-hcc]
 ---
 
@@ -191,7 +191,7 @@ For recurrent HCV post liver or kidney transplantation:
 **After achieving SVR — if cirrhosis:**
 
 - Continue **[[hcc-surveillance|HCC surveillance]]:** ultrasound ± AFP every 6 months (indefinitely)
-- **Variceal surveillance:** per AASLD portal hypertension guidance ([[portal-hypertension]]); NSBB if CSPH present; decompensated patients may recompensate but surveillance continues
+- **Variceal surveillance:** per AASLD portal hypertension guidance ([[portal-hypertension]]); [[nonselective-beta-blockers|NSBB]] if CSPH present; decompensated patients may recompensate but surveillance continues
 - Advise against excess alcohol
 
 **Post-SVR liver improvement:** Cirrhosis regression documented histologically and by decreased liver stiffness in long-term follow-up. However, HCC risk remains elevated (though reduced ~75%) — surveillance indefinite for those who were cirrhotic.

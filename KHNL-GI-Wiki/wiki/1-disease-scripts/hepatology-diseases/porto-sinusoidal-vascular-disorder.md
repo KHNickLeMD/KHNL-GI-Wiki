@@ -3,7 +3,7 @@ title: "Porto-Sinusoidal Vascular Disorder (PSVD) / Non-Cirrhotic Portal Fibrosi
 category: disease-script
 tags: [psvd, ncpf, non-cirrhotic-portal-hypertension, idiopathic-portal-hypertension, nodular-regenerative-hyperplasia, obliterative-portal-venopathy, portal-hypertension, liver-biopsy, spleen-stiffness, varices]
 created: 2026-08-01
-updated: 2026-09-07
+updated: 2026-09-22
 sources: [baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -124,7 +124,7 @@ PSVD/NCPF is defined **histologically + clinically**, not by a stage. Baveno VII
 
 **Portal hypertension complications** — managed according to [[portal-hypertension|cirrhosis/portal-hypertension guidance]], with these vascular-liver-disease caveats (Panel 8 general statements):
 
-- **No evidence favours EVL over NSBB** for primary prophylaxis of variceal bleeding in vascular liver disease (8.8), and **evidence is insufficient to prefer carvedilol over other conventional NSBBs** (8.9) — unlike in cirrhosis, where carvedilol is preferred.
+- **No evidence favours EVL over [[nonselective-beta-blockers|NSBB]]** for primary prophylaxis of variceal bleeding in vascular liver disease (8.8), and **evidence is insufficient to prefer carvedilol over other conventional NSBBs** (8.9) — unlike in cirrhosis, where carvedilol is preferred.
 - **Acute portal-hypertension bleeding and secondary prophylaxis are managed as in cirrhosis** (8.12); **[[tips|TIPS]] should be considered for refractory or recurrent portal-hypertensive bleeding** (8.13).
 - **There is no data supporting pre-emptive TIPS in vascular liver disease** (8.14) — do not extrapolate the cirrhosis p-TIPS criteria here.
 - **Anticoagulation must not be delayed for endoscopic prophylaxis.** When anticoagulation is indicated it should be **started without delay and not postponed pending endoscopic variceal prophylaxis** (8.10). ⚠ **This reverses Baveno VII 8.47**, which directed starting anticoagulation *after* bleeding prophylaxis had been initiated in patients with high-risk varices.

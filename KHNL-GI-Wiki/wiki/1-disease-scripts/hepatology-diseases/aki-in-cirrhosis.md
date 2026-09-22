@@ -3,7 +3,7 @@ title: "AKI in Cirrhosis (including HRS-AKI)"
 category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
-updated: 2026-09-06
+updated: 2026-09-22
 sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-aclf, baveno-viii-2026-portal-hypertension]
 ---
 
@@ -107,7 +107,7 @@ All of the following must be present:
 
 ### Initial Workup
 
-- **History:** nephrotoxin use (NSAIDs, contrast, ACEi/ARB, aminoglycosides), [[portal-hypertension|nonselective beta-blocker]], diuretics, lactulose excess, alcohol use, vomiting, diarrhea, hematemesis, melena, fever/infection symptoms
+- **History:** nephrotoxin use (NSAIDs, contrast, ACEi/ARB, aminoglycosides), [[nonselective-beta-blockers|nonselective beta-blocker]], diuretics, lactulose excess, alcohol use, vomiting, diarrhea, hematemesis, melena, fever/infection symptoms
 - **Exam:** volume status assessment, signs of infection (cellulitis, pneumonia), hepatic and extrahepatic organ failure
 - **Daily SCr** to monitor AKI stage progression
 
@@ -196,7 +196,7 @@ Vasopressin V1 receptor analog; reverses splanchnic vasodilatation.
 - **FDA-approved US schedule (CONFIRM):** 1 mg IV **q6h**, increased to **2 mg q6h on day 4** if response is insufficient (**<30%** decrease in creatinine); continue up to **14 days**; may stop **24 h after creatinine falls below 1.5 mg/dL** [[aga-2024-vasoactive-albumin-cirrhosis]]
 - **Start early — pretreatment creatinine drives failure.** Every 1 mg/dL fall in creatinine on treatment carries a **27% relative reduction in mortality**, so even small reductions are worth pursuing
 
-**Administration (AGA 2024 CPU):** Terlipressin does **not require ICU monitoring** and can be given through a **peripheral IV line** (BPA 11). The FDA label suggests continuous pulse oximetry; the AGA 2024 CPU notes that vital-sign assessment including pulse oximetry **every 2–4 h** can substitute for continuous monitoring. [[aga-2024-vasoactive-albumin-cirrhosis]]
+**Administration (AGA 2024 CPU):** [[terlipressin|Terlipressin]] does **not require ICU monitoring** and can be given through a **peripheral IV line** (BPA 11). The FDA label suggests continuous pulse oximetry; the AGA 2024 CPU notes that vital-sign assessment including pulse oximetry **every 2–4 h** can substitute for continuous monitoring. [[aga-2024-vasoactive-albumin-cirrhosis]]
 
 **Contraindications / cautions:**
 
@@ -293,7 +293,7 @@ Post-LT: patients can be listed for high-priority kidney transplantation alone i
 
 ## See Also
 
-[[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[nutrition-in-liver-disease]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[liver-transplantation]], [[tips]], [[somatostatin-analogs]], [[cirrhosis]], [[albumin]], [[antibiotic-prophylaxis-cirrhosis]], [[hepatic-encephalopathy]]
+[[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[nutrition-in-liver-disease]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[liver-transplantation]], [[tips]], [[somatostatin-analogs]], [[cirrhosis]], [[albumin]], [[antibiotic-prophylaxis-cirrhosis]], [[hepatic-encephalopathy]], [[terlipressin]], [[nonselective-beta-blockers]]
 
 ---
 

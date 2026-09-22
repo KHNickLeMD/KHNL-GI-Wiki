@@ -3,7 +3,7 @@ title: "Somatostatin Analogs"
 category: med
 tags: [somatostatin-analog, octreotide, lanreotide, net, carcinoid, variceal-bleeding, angioectasia]
 created: 2026-06-18
-updated: 2026-09-06
+updated: 2026-09-22
 sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bleeding, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -34,7 +34,7 @@ sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bl
 |---|---|---|
 | **Octreotide** | IV bolus **50 mcg** → infusion **25–50 mcg/hr** (AASLD) / **50 mcg/hr** (AGA); extra IV boluses allowed for ongoing bleeding | 2–5 d |
 | **Somatostatin** | IV bolus **250 mcg** → infusion **250–500 mcg/hr**; extra IV boluses allowed for ongoing bleeding | 2–5 d |
-| Terlipressin (comparator; **not FDA-approved for this indication in North America**) | 2 mg IV q4–6h × first 24–48 h, then 1 mg IV q4–6h | 2–5 d |
+| [[terlipressin\|Terlipressin]] (comparator; **not FDA-approved for this indication in North America**) | 2 mg IV q4–6h × first 24–48 h, then 1 mg IV q4–6h | 2–5 d |
 
 *Doses from [[aasld-2023-portal-hypertension]] Table 5 and [[aga-2024-vasoactive-albumin-cirrhosis]] Table 1.*
 
@@ -91,7 +91,7 @@ Additional effects tied to long-term SSA use in NETs:
 - **Hypoglycemia** in insulinoma (see above).
 
 ## See Also
-[[gastroenteropancreatic-neuroendocrine-tumors]], [[portal-hypertension]], [[cirrhosis]], [[variceal-upper-gi-bleeding]], [[peptic-ulcer-disease]], [[small-bowel-bleeding]], [[angioectasia]], [[upper-endoscopy]], [[exocrine-pancreatic-insufficiency]], [[bile-acid-diarrhea]], [[albumin]], [[endoscopic-hemostasis]]
+[[gastroenteropancreatic-neuroendocrine-tumors]], [[portal-hypertension]], [[cirrhosis]], [[variceal-upper-gi-bleeding]], [[peptic-ulcer-disease]], [[small-bowel-bleeding]], [[angioectasia]], [[upper-endoscopy]], [[exocrine-pancreatic-insufficiency]], [[bile-acid-diarrhea]], [[albumin]], [[endoscopic-hemostasis]], [[terlipressin]]
 
 ---
 

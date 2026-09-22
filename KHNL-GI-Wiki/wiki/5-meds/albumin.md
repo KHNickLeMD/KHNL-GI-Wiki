@@ -3,14 +3,14 @@ title: "Albumin (IV)"
 category: med
 tags: [albumin, cirrhosis, ascites, sbp, hrs]
 created: 2026-07-23
-updated: 2026-09-07
+updated: 2026-09-22
 sources: [aga-2024-vasoactive-albumin-cirrhosis, aasld-2021-ascites-sbp-hrs]
 ---
 
 ## Overview
 
 - IV albumin is a **plasma volume expander** used in [[cirrhosis]] to expand effective arterial blood volume in the vasodilatory–hyperdynamic circulatory state that drives decompensation.
-- Distinct from vasoconstrictors (terlipressin, [[somatostatin-analogs|octreotide]], norepinephrine, midodrine), which lower [[portal-hypertension|portal pressure]] via splanchnic vasoconstriction — albumin works by volume expansion. Adverse effects of the **vasoactive** drugs are tabled on [[somatostatin-analogs]].
+- Distinct from vasoconstrictors ([[terlipressin]], [[somatostatin-analogs|octreotide]], norepinephrine, midodrine), which lower [[portal-hypertension|portal pressure]] via splanchnic vasoconstriction — albumin works by volume expansion. Adverse effects of the **vasoactive** drugs are tabled on [[somatostatin-analogs]].
 - Guidance below is from the **AGA 2024 Clinical Practice Update** (Best Practice Advice, BPA — Expert Review; **no formal evidence/strength ratings**; many statements rest on expert opinion / society guidelines).
 - Core roles: at large-volume paracentesis, in [[spontaneous-bacterial-peritonitis|SBP]], and as the volume expander of choice for [[aki-in-cirrhosis|AKI in cirrhosis]]. **Not** for uncomplicated [[ascites]].
 
@@ -59,7 +59,7 @@ sources: [aga-2024-vasoactive-albumin-cirrhosis, aasld-2021-ascites-sbp-hrs]
 
 ## See Also
 
-[[cirrhosis]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[acute-on-chronic-liver-failure]], [[aki-in-cirrhosis]], [[portal-hypertension]], [[somatostatin-analogs]], [[jaundice]], [[antibiotic-prophylaxis-cirrhosis]]
+[[cirrhosis]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[acute-on-chronic-liver-failure]], [[aki-in-cirrhosis]], [[portal-hypertension]], [[somatostatin-analogs]], [[jaundice]], [[antibiotic-prophylaxis-cirrhosis]], [[terlipressin]]
 
 ---
 

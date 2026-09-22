@@ -3,7 +3,7 @@ title: "ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infect
 category: source
 tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, antibiotic, loperamide, bismuth, prevention, public-health]
 created: 2026-05-19
-updated: 2026-05-28
+updated: 2026-09-22
 sources: []
 ---
 
@@ -142,7 +142,7 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 
 ### Non-antibiotic Treatments
 
-- **Bismuth subsalicylate (BSS):** Reduces stool passage rate; antisecretory properties via salicylate moiety + bismuth's antibacterial and antiviral activity. Recommended dose for acute diarrhea: 30 mL (525 mg liquid) or two 262.5 mg tablets chewed well every 30–60 min, not to exceed 8 doses in 24 h. Will cause black stools and tongue (harmless bismuth sulfide salt).
+- **Bismuth subsalicylate (BSS):** Reduces stools passed by ~40%; antisecretory action from the salicylate moiety + bismuth's antibacterial/antiviral activity. Recommended dose for acute diarrhea: 30 mL (525 mg) of liquid formulation **or** two 263 mg tablets, chewed well, every 30–60 min, not to exceed 8 doses in 24 h. Will cause black stools and tongue (harmless bismuth sulfide salt).
 - **Loperamide:** First-line antimotility agent. Initial dose 4 mg, then 2 mg after each loose stool, not to exceed 8 mg/day. Not used for >48 h in self-treatment. Not given in proven bacterial inflammatory colitis (risk of toxic megacolon, though very rare in properly treated patients). Most valuable as combination therapy with antibiotics for TD.
 - **Adsorbents (kaolin, pectin, charcoal, attapulgite):** Do have an effect on stool form but do not shorten diarrhea duration — not recommended.
 - **Racecadotril:** Enkephalinase inhibitor; antisecretory without gut motility effect; used in pediatric diarrhea; not FDA-approved in the US.
@@ -151,15 +151,15 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 
 | Antibiotic | Dose | Duration |
 |---|---|---|
-| Levofloxacin | 500 mg by mouth | Single dose^a or 3-day course |
+| Levofloxacin | 500 mg by mouth | Single dose^b or 3-day course |
 | Ciprofloxacin | 750 mg by mouth OR 500 mg by mouth | Single dose^b OR 3-day course |
-| Ofloxacin | 400 mg by mouth | Single dose^a or 3-day course |
+| Ofloxacin | 400 mg by mouth | Single dose^b or 3-day course |
 | Azithromycin^c,d | 1,000 mg by mouth OR 500 mg by mouth | Single dose^b OR 3-day course^d |
 | Rifaximin^e | 200 mg by mouth three times daily | 3 days |
 
-^a If symptoms not resolved after 24 h, complete a 3-day course.
-^b Antibiotic regimens may be combined with loperamide, 4 mg first dose, then 2 mg dose after each loose stool, not to exceed 16 mg in a 24-h period.
-^c Use empirically as first line in Southeast Asia and India to cover fluoroquinolone-resistant *Campylobacter* or in other geographical areas if *Campylobacter* or resistant ETEC are suspected.
+^a Antibiotic regimens may be combined with loperamide, 4 mg first dose, then 2 mg after each loose stool, not to exceed 16 mg in a 24-h period.
+^b If symptoms are not resolved after 24 h, complete a 3-day course of antibiotics.
+^c Use empirically as first line in Southeast Asia and India to cover fluoroquinolone-resistant *Campylobacter*, or in other geographical areas if *Campylobacter* or resistant ETEC are suspected.
 ^d Preferred regimen for dysentery or febrile diarrhea.
 ^e Do not use if clinical suspicion for *Campylobacter*, *Salmonella*, *Shigella*, or other causes of invasive diarrhea.
 
@@ -189,32 +189,11 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 
 - **Food/water safety counseling:** Pretravel counseling on avoiding high-risk food/beverages conditionally recommended; evidence for efficacy is mixed (Conditional/very low).
 - **Hand hygiene:** Limited value against most TD pathogens (high-inoculum pathogens like diarrheagenic *E. coli*); useful for norovirus, *Shigella* (low-inoculum pathogens) in cruise ship/institutional/endemic settings.
-- **BSS chemoprophylaxis:** ≥60% protection at 2.1 g/day dose (two tablets four times daily at meals + bedtime); recommended for up to 2 weeks; not for longer trips; contraindicated in aspirin-sensitive individuals, those with IBD or HIV (risk of bismuth encephalopathy from excessive absorption).
+- **BSS chemoprophylaxis:** ≥60% protection at 2.1 g/day — **two tablets four times daily, at meals + bedtime**. Dose *and* interval both matter: 2.1 g and 1.05 g given twice daily gave only 41% and 35% protection. Use for trips up to 2 weeks; not for longer trips. Do not use when salicylates are already being taken. Not for [[inflammatory-bowel-disease|IBD]] or HIV infection — excessive absorption risks bismuth encephalopathy.
 - **Antibiotic chemoprophylaxis:** Rifaximin: pooled relative risk 0.33 (95% CI: 0.24–0.45) = 67% protective efficacy; 22.1% absolute TD attack rate reduction; NNT ≈ 4.5. Fluoroquinolones: 88% pooled protective efficacy. Both have safety/resistance concerns. Recommended only for high-risk short-term travelers.
 - **Probiotics/prebiotics for prevention:** Not recommended (inconsistent efficacy data); evidence base limited to prospective studies in travelers, not community-acquired setting.
 
 ---
-
-## Recommendations
-
-| Recommendation | Strength | Evidence Quality |
-|---|---|---|
-| **Diagnosis** | | |
-| Stool diagnostic studies in dysentery, moderate-to-severe disease, and symptoms lasting >7 days; FDA-approved culture-independent methods recommended as adjunct or replacement for traditional cultures | Strong | Low–Very Low |
-| Antibiotic sensitivity testing for acute diarrheal infection is NOT recommended | Strong | Very Low |
-| **Treatment** | | |
-| Balanced electrolyte oral rehydration for elderly with severe diarrhea or cholera-like watery diarrhea | Strong | Moderate |
-| Bismuth subsalicylate (BSS) to control stool passage rate in mild to moderate illness | Strong | High |
-| In patients receiving antibiotics for traveler's diarrhea, adjunctive loperamide decreases duration and increases cure rate | Strong | Moderate |
-| Empiric antimicrobials NOT recommended for routine community-acquired diarrhea (predominantly viral); reserve for traveler's diarrhea where bacterial pathogen likelihood is high | Strong | High–Very Low |
-| Probiotics/prebiotics are NOT recommended for treatment of acute diarrhea in adults (except post-antibiotic illness) | Strong | Moderate |
-| **Traveler's Diarrhea (TD) — Preferred Regimens** | | |
-| Levofloxacin 500 mg or ciprofloxacin 750 mg single dose, or azithromycin 1,000 mg single dose (preferred for Southeast Asia/India due to FQ-resistant Campylobacter) | Strong | High |
-| Rifaximin 200 mg TID ×3 days for non-invasive TD (do NOT use if Campylobacter/Salmonella/Shigella suspected) | Strong | High |
-| Do NOT treat STEC with antibiotics (risk of HUS) | Summary Statement | — |
-| **Prevention** | | |
-| Bismuth subsalicylate chemoprophylaxis for travelers without contraindications (moderate efficacy, ≥60% protection); antibiotic chemoprophylaxis for high-risk short-term travelers (moderate-to-good efficacy, ~67–88% protective) | Strong | High |
-| Probiotics, prebiotics, and synbiotics for TD prevention are NOT recommended | Conditional | Low |
 
 ## Relevance to Wiki
 

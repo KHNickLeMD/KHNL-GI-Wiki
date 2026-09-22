@@ -3,7 +3,7 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-09-17
+updated: 2026-09-22
 sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
 ---
 
@@ -174,7 +174,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 
 **Variceal prophylaxis** while anticoagulating [[acg-2020-hepatic-mesenteric-circulation]]:
 
-- NSBBs (propranolol, carvedilol) are first-line for variceal bleeding prophylaxis in noncirrhotic PVT patients receiving anticoagulation (Strong, Low evidence)
+- [[nonselective-beta-blockers|NSBBs]] (propranolol, carvedilol) are first-line for variceal bleeding prophylaxis in noncirrhotic PVT patients receiving anticoagulation (Strong, Low evidence)
 - Endoscopic ligation for acute variceal bleeding
 
 **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] — recent (<6 mo) noncirrhotic PVT**

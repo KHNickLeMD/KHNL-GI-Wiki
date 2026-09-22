@@ -3,8 +3,8 @@ title: "Endoscopic Submucosal Dissection (Colorectal)"
 category: advanced-procedure
 tags: [esd, hybrid-esd, endoscopic-resection, en-bloc, colorectal, t1-crc, malignant-polyp, submucosal-invasion, eftr]
 created: 2026-08-11
-updated: 2026-09-08
-sources: [usmstf-2020-endoscopic-removal, aga-2025-endoscopic-resection-crc, asge-2020-endoscopic-removal, aga-2024-full-thickness-resection]
+updated: 2026-09-22
+sources: [usmstf-2020-endoscopic-removal, aga-2025-endoscopic-resection-crc, asge-2020-endoscopic-removal, aga-2024-full-thickness-resection, aga-2018-esd-united-states]
 ---
 
 # Endoscopic Submucosal Dissection (Colorectal)
@@ -33,6 +33,28 @@ Most colorectal neoplasms are benign and resectable by piecemeal [[endoscopic-mu
 - Mucosal lesions with **submucosal fibrosis**
 - **Local residual early carcinoma** after prior endoscopic resection
 - **Non-polypoid dysplasia in [[inflammatory-bowel-disease|IBD]]** (colitis-associated dysplasia)
+
+**Lesion features that predict submucosal invasion — the US suggested-indication list** ([[aga-2018-esd-united-states]], Table 2; derived from Australian Colonic Endoscopic Resection data on lesions ≥20 mm). En-bloc resection is indicated for lesions **at risk for submucosally invasive cancer**:
+
+| Feature | Threshold |
+|---|---|
+| Pit pattern | **Type V [[polypectomy\|Kudo]]** |
+| Depressed component | **Paris 0-IIc** |
+| Complex morphology | **0-Is** or **0-IIa+Is** |
+| Location | **Rectosigmoid** |
+| Non-granular LST (adenoma) | **≥20 mm** |
+| Granular LST (adenoma) | **≥30 mm** |
+| Prior resection | **Residual or recurrent** colorectal adenoma |
+
+*Increasing size is itself an independent predictor.*
+
+**Why en bloc matters here — the numbers:**
+
+- **>43%** of colorectal lesions **≥2 cm** could not be removed en bloc by [[endoscopic-mucosal-resection|EMR]].
+- Piecemeal resection → neoplastic recurrence **10%–20%**, vs **1%–2%** after en-bloc ESD (**odds ratio 8.2**).
+- **The first attempt at endoscopic resection has the highest rate of success** — do not attempt EMR without high confidence that complete resection is achievable.
+- Colorectal mucosa **has no lymphatic drainage**, so dysplasia confined to the mucosa carries **no lymph-node-metastasis risk** and endoscopic resection is the criterion standard. Of colorectal polyps ≥2 cm without features of deep invasion, **9.9%** proved T1 — **two thirds of those confined to superficial submucosa (<1000 µm)** and potentially curable by ESD.
+- High-quality EMR remains the procedure of choice for **noninvasive** colorectal neoplasia in most US settings. ([[aga-2018-esd-united-states]])
 
 **Difficult locations are not a contraindication.** Anorectal lesions near the **dentate line** and lesions at a **flexure behind a fold** have been removed successfully with EMR, ESD, or hybrid methods — refer such patients to an endoscopist proficient in these techniques **before** referring for surgery ([[usmstf-2020-endoscopic-removal]]).
 
@@ -115,3 +137,4 @@ Most colorectal neoplasms are benign and resectable by piecemeal [[endoscopic-mu
 2. [[aga-2025-endoscopic-resection-crc|AGA Clinical Practice Update on Endoscopic Resection for Early Colorectal Cancer: Commentary (2025)]]
 3. [[asge-2020-endoscopic-removal|ASGE 2020: Endoscopic Removal of Colorectal Lesions]]
 4. [[aga-2024-full-thickness-resection|AGA 2024 Clinical Practice Update on Endoscopic Full-Thickness Resection for the Management of Gastrointestinal Subepithelial Lesions]]
+5. [[aga-2018-esd-united-states|AGA Institute Clinical Practice Update: Endoscopic Submucosal Dissection in the United States]]

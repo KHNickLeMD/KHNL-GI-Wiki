@@ -3,7 +3,7 @@ title: "Primary Biliary Cholangitis (PBC)"
 category: disease-script
 tags: [pbc, primary-biliary-cholangitis, cholestatic, ama, alkaline-phosphatase, ursodiol, udca, oca, obeticholic-acid, fibrates, pruritus, overlap, hpb, liver, autoimmune, pregnancy, cirrhosis]
 created: 2026-05-19
-updated: 2026-09-06
+updated: 2026-09-22
 sources: [aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, baveno-viii-2026-portal-hypertension]
 ---
 
@@ -251,7 +251,7 @@ Patients with fibrotic PBC have significantly greater risk of osteopenia/osteopo
 Portal hypertension may develop as a result of biliary cirrhosis or, in the **precirrhotic stage**, in association with [[porto-sinusoidal-vascular-disorder|**nodular regenerative hyperplasia** (NRH)]] — a PBC-specific phenomenon. NRH can cause portal hypertension without significant fibrosis; 6% of non-cirrhotic PBC patients have varices.
 
 - **[[variceal-upper-gi-bleeding|Variceal]] screening:** [[upper-endoscopy|Endoscopic]] screening at time of suspected cirrhosis diagnosis (Guidance Statement 15). Also consider if platelet count **<200,000/mm³** or [[liver-stiffness-measurement|transient elastography]] **≥17 kPa** — note this platelet trigger is *higher* (more inclusive) than the <140,000/mm³ suspected-cirrhosis threshold used for HCC surveillance.
-  - ⚠ **These PBC-specific triggers are [[aasld-2018-pbc]]'s.** The *generic* cACLD rule has since moved on: [[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] restricts screening EGD to patients **ineligible for NSBB**, and spares it entirely on LSM/platelet/SSM criteria — thresholds and the follow-up interval live on [[portal-hypertension]]. Neither document reconciles the two for PBC; the AASLD PBC numbers above are retained because they are the only PBC-specific ones, but check the Baveno rule before ordering.
+  - ⚠ **These PBC-specific triggers are [[aasld-2018-pbc]]'s.** The *generic* cACLD rule has since moved on: [[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] restricts screening EGD to patients **ineligible for [[nonselective-beta-blockers|NSBB]]**, and spares it entirely on LSM/platelet/SSM criteria — thresholds and the follow-up interval live on [[portal-hypertension]]. Neither document reconciles the two for PBC; the AASLD PBC numbers above are retained because they are the only PBC-specific ones, but check the Baveno rule before ordering.
 - **Variceal management:** Follows standard AASLD portal hypertension guidance (NSBB or endoscopic variceal ligation for primary prophylaxis) — see [[portal-hypertension]]
 - **Variceal bleeding in precirrhotic PBC:** Particularly challenging because [[tips|TIPS]] is undesirable when synthetic function is preserved. Distal splenorenal shunts rarely used but have not been associated with accelerated liver failure in PBC.
 

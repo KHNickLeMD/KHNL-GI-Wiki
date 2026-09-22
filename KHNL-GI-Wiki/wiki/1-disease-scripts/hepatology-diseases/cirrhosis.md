@@ -3,7 +3,7 @@ title: "Cirrhosis"
 category: disease-script
 tags: [cirrhosis, liver, hpb, decompensation, compensated, meld, child-pugh, vocal-penn, csph, portal-hypertension, fibrosis, f4, nilda, fib-4, elastography, perioperative, frailty, palliative-care, liver-transplant]
 created: 2026-07-16
-updated: 2026-09-05
+updated: 2026-09-22
 sources: [aasld-2023-portal-hypertension, aasld-2024-nilda-blood, aasld-2024-nilda-portal-htn, acg-2025-perioperative-cirrhosis, aasld-2021-ascites-sbp-hrs, aasld-2021-malnutrition-cirrhosis, aasld-2024-aclf, aga-2021-cirrhosis-coagulation, aasld-2022-palliative-cirrhosis, nccn-2026-hcc, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-ast-2025-liver-transplant-candidate-evaluation]
 ---
 
@@ -150,7 +150,7 @@ flowchart TD
 |---|---|---|
 | **a** | **Removal, control or suppression of the primary aetiology/aetiologies** | Adds "control" alongside removal/suppression |
 | **b** | **Resolution of ascites on imaging off diuretics**, and **no clinical evidence of HE off lactulose / [[rifaximin\|rifaximin]] / LOLA** — unless those drugs are indicated for a non-ascites or non-HE condition | Adds the imaging standard, LOLA, and the "indicated for something else" exemption |
-| **c** | After variceal bleeding: **absence of recurrent variceal bleeding, regardless of ongoing carvedilol/cNSBB therapy** | VII was silent on whether being on an NSBB disqualified; VIII says explicitly that it does not |
+| **c** | After variceal bleeding: **absence of recurrent variceal bleeding, regardless of ongoing [[nonselective-beta-blockers\|carvedilol/cNSBB]] therapy** | VII was silent on whether being on an NSBB disqualified; VIII says explicitly that it does not |
 | **d** | Criteria a–c fulfilled for **>6 consecutive months** | **Halved from ≥12 months** |
 | **e** | Liver function tests improved into the **Child-Turcotte-Pugh A5/A6** range | Replaces VII's unquantified "stable improvement in albumin, INR, bilirubin" |
 
@@ -299,7 +299,7 @@ Malnutrition, sarcopenia, and frailty are **very common and potentially modifiab
 
 ## See Also
 
-[[portal-hypertension]], [[porto-sinusoidal-vascular-disorder]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[variceal-upper-gi-bleeding]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[aki-in-cirrhosis]], [[acute-on-chronic-liver-failure]], [[acute-liver-failure]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[cirrhosis-hemostasis]], [[nutrition-in-liver-disease]], [[liver-transplantation]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[abnormal-liver-chemistries]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[hepatitis-d]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[upper-endoscopy]], [[tips]], [[rifaximin]], [[direct-acting-antivirals]], [[antibiotic-prophylaxis-cirrhosis]], [[focal-liver-lesions]], [[obesity]], [[bariatric-surgery]], [[liver-stiffness-measurement]], [[hepatic-venous-pressure-gradient]], [[eus-guided-gallbladder-drainage]], [[jaundice]], [[drug-induced-liver-injury]], [[enteral-access]]
+[[portal-hypertension]], [[porto-sinusoidal-vascular-disorder]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[variceal-upper-gi-bleeding]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[aki-in-cirrhosis]], [[acute-on-chronic-liver-failure]], [[acute-liver-failure]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[cirrhosis-hemostasis]], [[nutrition-in-liver-disease]], [[liver-transplantation]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[abnormal-liver-chemistries]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[hepatitis-d]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[upper-endoscopy]], [[tips]], [[rifaximin]], [[direct-acting-antivirals]], [[antibiotic-prophylaxis-cirrhosis]], [[focal-liver-lesions]], [[obesity]], [[bariatric-surgery]], [[liver-stiffness-measurement]], [[hepatic-venous-pressure-gradient]], [[eus-guided-gallbladder-drainage]], [[jaundice]], [[drug-induced-liver-injury]], [[enteral-access]], [[nonselective-beta-blockers]]
 
 ---
 

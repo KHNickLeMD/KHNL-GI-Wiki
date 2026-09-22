@@ -6,6 +6,41 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-22] lint | Fifth consecutive cron-provenance failure — but this time the index was kept; two ESD-adjacent CPUs ingested, two orphans closed, and a units error corrected on a live dosing line
+
+**The finding that mattered — a milligram/gram units error was sitting on a wiki dosing line.**
+
+[[aasld-2024-aclf]] Guidance Statement 25 prints the terlipressin continuous-infusion dose as **"2 g/24 h"**. Every other ingested source gives **2 mg/24 h**. `acute-on-chronic-liver-failure.md` had reproduced the source's figure verbatim and uncorrected — a thousand-fold overdose on the page's own HRS-AKI line. Caught while building [[terlipressin]] against the raw AASLD PDFs; corrected on both pages, with the discrepancy stated plainly for the reader rather than silently normalized.
+
+**Provenance: the recording failure recurred, in a narrower form.** Three unattended passes since the 2026-09-18 entry (`c06a293`, `eabe59a`, `7a12dcb`) ingested [[aga-2020-bariatric-surgery-cirrhosis]], [[aga-2016-low-grade-dysplasia-barretts]] and [[aga-2018-esd-united-states]], and created [[nonselective-beta-blockers]] — and wrote **zero** `log.md` entries. Unlike the four prior occurrences they **did** update `index.md`, so nothing was invisible to readers; the gap is the durable record only. Backfilled here.
+
+**The two things the silence still cost.** Both new artifacts landed as **whole-wiki orphans** — [[aga-2018-esd-united-states]] (content never reached [[endoscopic-submucosal-dissection]]) and [[nonselective-beta-blockers]] (created for coverage-gap queue #8, never linked from a single hepatology page, and the queue row never struck). On this wiki a 0-inbound-link page reliably means the clinical content stopped where it was written. Both propagated and closed this pass; **0 orphans and 0 broken links wiki-wide** afterwards.
+
+**Ingest (2 — the per-pass cap), both from the AGA queue in order:**
+
+- [[aga-2021-post-esd-surveillance]] — queue #30. The five criteria for a pathologically curative ESD and the **organ-specific depth thresholds** that decide them (<500 µm esophageal/gastric adenocarcinoma, <1000 µm colorectal, and **no curative depth once the muscularis mucosae is reached in esophageal SCC**); R0 redefined inside a premalignant field; all **five surveillance tables** with per-stratum LN-metastasis risk; Figure 1's Barrett's/EAC pathway rebuilt as Mermaid. Carries an explicit notice that the Update is a Commentary with **no numbered BPA and no GRADE**.
+- [[aga-2022-subepithelial-lesions]] — queue #31. **10 numbered BPA verbatim, ungraded**; the full Table 1 differential (EUS layer × echogenicity × histology/IHC) and Table 2 resection-technique table; GIST metastasis risk by size × site × mitotic index. Closes the gap the 2026-09-06 audit confirmed neither [[asge-2017-subepithelial-lesions]] nor [[aga-2024-full-thickness-resection]] covered.
+
+**Coverage gap filled (1):** [[terlipressin]] — queue #9. Built decision-first: the **four gates** that must all be true before a first dose (HRS-AKI criteria, failed 2-day albumin challenge, precipitants addressed, ICA-AKI Stage 2+), all four dosing regimens side by side with their escalation rules and the 14-day cap, response/futility/stop criteria, the contraindication set, and all three circulating CONFIRM respiratory-failure rates rather than one.
+
+**Stalest-page validation (3):** [[acg-2015-hereditary-gi-cancer]], [[acg-2016-acute-diarrhea]], [[acg-2020-chronic-pancreatitis]] — the oldest `updated:` dates on the wiki (2026-05-28), checked against their raw PDFs for the fabricated-numbering/GRADE failure mode.
+
+**Hygiene:**
+
+- `.lintscan.py` — a scratch scanner an unattended pass had **committed to the repo root**, against the never-write-report-files rule. Run, then deleted.
+- `index.md` footer counts were stale since 2026-09-08 (279 sources / 564 pages). Recounted: **307 sources, 604 pages**.
+- Verified clean wiki-wide: **0** stubs, **0** `.DS_Store`, **0** unescaped alias pipes in tables, **0** orphans, **0** broken links.
+
+**Inbox sync:** **no new arrivals.** Every subfolder matches the 2026-09-18 baseline exactly (AASLD 35, ACG 61, AFS 2, AGA 175, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, Other Studies 5, RCTs 12 = **434**). `git status` cannot detect arrivals here — `raw/`'s content subfolders are git-ignored — so the per-subfolder count-vs-baseline method remains the only one that works.
+
+**For user triage:**
+
+- **Anki cards were not written this pass** and are owed for [[terlipressin]] and the two new guideline sources. All three are tier-1-backed and therefore cardable.
+- **Figure capture remains blocked** in this environment — no PDF rasterizer is permitted, so Figure 1 of the post-ESD Update was rebuilt as Mermaid rather than screenshotted. Any page needing a true endoscopic-appearance image still cannot get one.
+- The gated lecture/chalk-talk corpus (**60 transcripts**) is untouched and still awaits Nick naming which to ingest.
+
+---
+
 ## [2026-09-18] lint | Fourth consecutive cron-provenance failure — three new raw files arrived, all three were silently ingested, none reached the index or this log
 
 **The finding that mattered — the provenance failure recurred, and this time it hid an inbox delivery.**

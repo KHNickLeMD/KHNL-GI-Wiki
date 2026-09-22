@@ -3,7 +3,7 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-09-17
+updated: 2026-09-22
 sources: [baveno-viii-2026-portal-hypertension, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis, wang-2026-eus-ppg-delphi-consensus, aga-2021-bleeding-gastric-varices, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
 ---
 
@@ -73,7 +73,7 @@ Portal hypertension (PH) is defined as a portocaval pressure gradient (portal ve
 | [[baveno-vii-2022-portal-hypertension]] 7.5–7.6 (ascites setting) — **superseded** | **Large varices (≥5 mm)**, **OR** red spot signs, **OR** Child-Pugh C | **Small (<5 mm)** *and* no red signs *and* not Child-Pugh C |
 
 - Increasing CTP class, variceal size, and red wale marks **each independently** raise first-bleed risk — the three criteria are alternatives, not requirements.
-- ⚠ **The Baveno row above no longer drives a decision in the ascites setting.** [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 4.4 prescribes carvedilol/cNSBB for **ascites plus varices of any size**, without the low- vs high-risk split. The size/red-sign/CTP-C definition is retained here because Baveno VIII 3.19 still turns on "**large varices**" (OV and GOV1) for EVL in NSBB-ineligible compensated patients, and because [[aasld-2023-portal-hypertension]] uses it throughout.
+- ⚠ **The Baveno row above no longer drives a decision in the ascites setting.** [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 4.4 prescribes [[nonselective-beta-blockers|carvedilol/cNSBB]] for **ascites plus varices of any size**, without the low- vs high-risk split. The size/red-sign/CTP-C definition is retained here because Baveno VIII 3.19 still turns on "**large varices**" (OV and GOV1) for EVL in NSBB-ineligible compensated patients, and because [[aasld-2023-portal-hypertension]] uses it throughout.
 - If the high-risk varices are **small**, NSBB is the only technically feasible option; if **large**, both NSBB and [[variceal-upper-gi-bleeding|EVL]] are possible ([[aasld-2023-portal-hypertension]]).
 
 **HVPG (gold standard):** the **full interpretation ladder (normal / subclinical / CSPH / ≥16 / >20) and the measurement technique live on [[hepatic-venous-pressure-gradient]]** — that page is the single home; the strata are not restated here. The two values that change management on *this* page are **≥10 mm Hg (CSPH → primary prophylaxis)** and **>20 mm Hg measured at the time of bleeding (→ pre-emptive [[tips|TIPS]])**.
@@ -294,7 +294,7 @@ flowchart TD
 
 **Immediate (before endoscopy):**
 
-1. **Vasoactive therapy** immediately: [[somatostatin-analogs|octreotide]] (50 mcg IV bolus → 25–50 mcg/hr × 2–5 days), somatostatin (250 mcg bolus → 250–500 mcg/hr), or terlipressin if available (GS 25–26)
+1. **Vasoactive therapy** immediately: [[somatostatin-analogs|octreotide]] (50 mcg IV bolus → 25–50 mcg/hr × 2–5 days), somatostatin (250 mcg bolus → 250–500 mcg/hr), or [[terlipressin]] if available (GS 25–26)
 2. **IV [[antibiotic-prophylaxis-cirrhosis|antibiotics]]** immediately: ceftriaxone 1 g IV q24h × 5 days (preferred in Child-Pugh C or high-resistance); de-escalate when bleeding controlled and no active infection (GS 27)
 3. **Restrictive transfusion:** target Hgb ~7 g/dL; avoid overtransfusion (worsens portal pressure) (GS 28)
 4. **No FFP or platelets** based on INR/platelet count targets — no evidence of benefit; FFP may cause harm (GS 29)
@@ -420,7 +420,7 @@ Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP cl
 
 ## See Also
 
-[[cirrhosis]], [[variceal-upper-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[nafld-masld]], [[upper-endoscopy]], [[acute-on-chronic-liver-failure]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[abnormal-liver-chemistries]], [[liver-biopsy]], [[antibiotic-prophylaxis-cirrhosis]], [[proton-pump-inhibitors]], [[somatostatin-analogs]], [[enteral-access]], [[tips]], [[rifaximin]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]], [[obesity]], [[endoscopic-ultrasound]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[direct-acting-antivirals]], [[autoimmune-hepatitis]], [[argon-plasma-coagulation]], [[radiofrequency-ablation]]
+[[cirrhosis]], [[variceal-upper-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[nafld-masld]], [[upper-endoscopy]], [[acute-on-chronic-liver-failure]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[abnormal-liver-chemistries]], [[liver-biopsy]], [[antibiotic-prophylaxis-cirrhosis]], [[proton-pump-inhibitors]], [[somatostatin-analogs]], [[enteral-access]], [[tips]], [[rifaximin]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]], [[obesity]], [[endoscopic-ultrasound]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[direct-acting-antivirals]], [[autoimmune-hepatitis]], [[argon-plasma-coagulation]], [[radiofrequency-ablation]], [[nonselective-beta-blockers]], [[terlipressin]]
 
 ---
 

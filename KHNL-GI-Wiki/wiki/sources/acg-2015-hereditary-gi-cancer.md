@@ -3,7 +3,7 @@ title: "ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal 
 category: source
 tags: [hereditary-cancer, lynch-syndrome, fap, peutz-jeghers, juvenile-polyposis, cowden, serrated-polyposis, hereditary-pancreatic-cancer, hereditary-gastric-cancer, genetic-testing, colorectal-cancer, familial-cancer]
 created: 2026-05-19
-updated: 2026-05-28
+updated: 2026-09-22
 sources: []
 ---
 
@@ -52,7 +52,25 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 - APC and MUTYH germline testing required
 - Annual sigmoidoscopy/colonoscopy from puberty for FAP; colonoscopy from 18–20 for AFAP/MAP (Strong/Moderate)
 - Surgical indications: cancer/suspicion, adenomas >6mm, rapid increase in number, HGD, inability to survey colon (Strong/Low)
-- Duodenal surveillance by EGD with side-viewing instrument starting age 25–30; Spigelman frequency: 0=q4y, I=q2–3y, II=q1–3y, III=q6–12mo, IV=surgical (Strong/VLow)
+- Duodenal surveillance by EGD with side-viewing instrument starting age 25–30 (Rec 10)
+- **Spigelman stage — the criteria that set the interval** (Table 9). Score each of 4 features, then sum:
+
+| Feature | 1 point | 2 points | 3 points |
+|---|---|---|---|
+| Polyp number | <4 | 5–20 | >20 |
+| Polyp size | 0–4 mm | 5–10 mm | >10 mm |
+| Histology | Tubular | Tubulovillous | Villous |
+| Dysplasia | Mild | Moderate | Severe |
+
+| Stage | Total points | Surveillance interval |
+|---|---|---|
+| 0 | 0 | Every 4 years |
+| I | ≤4 | Every 2–3 years |
+| II | 5–6 | Every 1–3 years |
+| III | 7–8 | Every 6–12 months |
+| IV | 9–12 | Surgical evaluation; expert surveillance every 3–6 months; complete mucosectomy or duodenectomy, or Whipple if the duodenal papilla is involved |
+
+- Duodenal cancer risk rises to 36% within 10 years once Spigelman stage IV is reached
 - Spigelman IV risk: 43% by age 60, 50% by age 70; pancreas-sparing duodenectomy preferred if no papilla involvement
 - Gastric fundic gland polyps occur in 23–100% of FAP patients; adenomatous polyps in ~10%; random gastric biopsies should be taken at EGD
 - Annual thyroid US from late teenage years (Conditional/Low)
@@ -126,31 +144,118 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 - Informed consent standards outlined (Table 14): 14 components including implications of positive/negative results, variant of uncertain significance (VUS) risk, genetic discrimination protections (GINA), confidentiality
 - PREMM1,2,6 computational model recommended for LS risk prediction (≥5% threshold for referral)
 
-## Recommendations
+## All Recommendations (Verbatim)
 
-| Recommendation | Strength | Evidence Quality |
-|---|---|---|
-| **Lynch Syndrome** | | |
-| Universal MMR testing (IHC ± MSI) for all newly diagnosed CRCs; BRAF V600E or MLH1 methylation testing when MLH1 is lost | Strong | Moderate |
-| Colonoscopy every 1–2 years from age 20–25 (MLH1/MSH2) or 25–30 (MSH6/PMS2) in confirmed LS carriers | Strong | Moderate |
-| Colectomy with IRA preferred for LS-associated colon cancer | Conditional | Moderate |
-| Annual endometrial biopsy + TVUS from age 30–35; hysterectomy + BSO offered after childbearing | Conditional | Low–Very Low |
-| EGD + gastric biopsy at age 30–35; ongoing q3–5y if family history of gastric/duodenal cancer | Conditional | Very Low |
-| **FAP / AFAP / MAP** | | |
-| Annual sigmoidoscopy/colonoscopy from puberty (FAP); colonoscopy from age 18–20 (AFAP/MAP) | Strong | Moderate |
-| Surgical indications: cancer/suspicion, adenomas >6 mm, rapid increase in number, HGD, inability to survey colon | Strong | Low |
-| Duodenal surveillance by EGD with side-viewing instrument starting age 25–30; Spigelman staging determines frequency | Strong | Very Low |
-| Annual thyroid US from late teenage years | Conditional | Low |
-| **Peutz-Jeghers Syndrome** | | |
-| Colonoscopy + EGD + video capsule endoscopy starting age 8; pancreatic surveillance (MRCP/EUS) starting age 30 q1–2y | Summary Statement | — |
-| **Juvenile Polyposis Syndrome** | | |
-| Colonoscopy + EGD annually from age 12–15; colectomy if polyps uncontrolled | Conditional | Very Low–Low |
-| **Hereditary Diffuse Gastric Cancer (CDH1)** | | |
-| Prophylactic gastrectomy after age 20 (>80% lifetime risk by age 80) | Conditional | Low |
-| **Hereditary Pancreatic Cancer** | | |
-| Pancreatic surveillance with EUS ± MRI/MRCP starting age 50 (or 10 years before earliest family cancer) in high-risk mutation carriers | Conditional | Very Low |
-| **Serrated Polyposis Syndrome** | | |
-| Colonoscopy q1–3y with removal of all polyps >5 mm; colectomy if polyps uncontrolled or cancer develops | Conditional | Low |
+The guideline runs **two parallel classes of statement**, and only one of them is graded:
+
+- **Recommendations** — a single continuous series, **1 through 25**, spanning the whole document (not restarted per syndrome). Each carries a GRADE label in the form *(strong | conditional recommendation, moderate | low | very low quality of evidence)*. Strength is only ever **strong** or **conditional**; **no recommendation in this guideline is graded "high" quality.**
+- **Summary statements** — unnumbered, and **deliberately ungraded**. The guideline states that an objective grading system cannot be applied to prognostic statements or to "motherhood" statements such as the importance of obtaining a family history; these reflect author consensus and expert opinion. Do not read a missing grade as a weak grade.
+
+Two statements carry a **grade conflict within the document itself** — Recommendations 15 and 16 are *conditional* in the summary table but *strong* in the body text. Both are given below.
+
+### Family history assessment (summary statements — ungraded)
+
+- A family history of cancer and premalignant GI conditions that provides sufficient information to develop a preliminary determination of the risk of a familial predisposition to cancer should be obtained for all patients being evaluated in outpatient gastroenterology and endoscopy practices.
+- Essential elements of a family history include presence and type of cancer diagnoses in first- and second-degree relatives, and presence and (ideally) type of polyps in first-degree relatives; age and lineage should be noted for each diagnosis.
+
+### Lynch syndrome
+
+*Summary statements (ungraded):*
+- All newly diagnosed colorectal cancers (CRCs) should be evaluated for mismatch repair deficiency.
+- Analysis may be done by immunohistochemical testing for the *MLH1/MSH2/MSH6/PMS2* proteins and/or testing for microsatellite instability (MSI). Tumors that demonstrate loss of *MLH1* should undergo BRAF testing or analysis for *MLH1* promoter hypermethylation.
+- Individuals who have a personal history of a tumor showing evidence of mismatch repair deficiency (and no demonstrated BRAF mutation or hypermethylation of *MLH1*), a known family mutation associated with LS, or a risk of ≥5% chance of LS based on risk prediction models should undergo genetic evaluation for LS.
+- Genetic testing of patients with suspected LS should include germline mutation genetic testing for the *MLH1*, *MSH2*, *MSH6*, *PMS2*, and/or *EPCAM* genes, or the altered gene(s) indicated by IHC testing.
+
+*Recommendations:*
+
+1. In individuals at risk for or affected with LS, screening for CRC by colonoscopy should be performed at least every 2 years, beginning between ages 20 and 25 years. Annual colonoscopy should be considered in confirmed mutation carriers *(strong recommendation, moderate quality of evidence for screening, and very low quality of evidence for annual surveillance and age of initiation)*.
+2. Colectomy with ileorectal anastomosis (IRA) is the preferred treatment of patients affected with LS with colon cancer or colonic neoplasia not controllable by endoscopy. Segmental colectomy is an option in patients unsuitable for total colectomy if regular postoperative surveillance is conducted *(conditional recommendation, moderate quality of evidence)*.
+3. Hysterectomy and bilateral salpingo-oophorectomy should be offered to women who are known LS mutation carriers and who have finished child bearing, optimally at age 40–45 years *(conditional recommendation, low quality of evidence)*.
+4. Screening for endometrial cancer (EC) and ovarian cancer should be offered to women at risk for or affected with LS by endometrial biopsy and transvaginal ultrasound annually, starting at age 30 to 35 years before undergoing surgery or if surgery is deferred *(conditional recommendation, very low quality of evidence)*.
+5. Screening for gastric and duodenal cancer can be considered in individuals at risk for or affected with LS by baseline esophagogastroduodenoscopy (EGD) with gastric biopsy at age 30–35 years, and treatment of *Helicobacter pylori* infection when found. Data for ongoing regular surveillance are limited, but ongoing surveillance every 3–5 years may be considered if there is a family history of gastric or duodenal cancer *(conditional recommendation, very low quality of evidence)*.
+6. Screening beyond population-based recommendations for cancers of the urinary tract, pancreas, prostate, and breast is not recommended unless there is a family history of the specific cancers *(conditional recommendation, low quality of evidence)*.
+7. Although data suggest that daily aspirin may decrease the risk of colorectal and extracolonic cancer in LS, currently the evidence is not sufficiently robust or mature to make a recommendation for its standard use *(conditional recommendation, moderate quality of evidence)*.
+
+### Adenomatous polyposis syndromes (FAP / AFAP / MAP)
+
+*Summary statements (ungraded):*
+- Individuals who have a personal history of >10 cumulative colorectal adenomas, a family history of one of the adenomatous polyposis syndromes, or a history of adenomas and FAP-type extracolonic manifestations (duodenal/ampullary adenomas, desmoid tumors (abdominal>peripheral), papillary thyroid cancer, congenital hypertrophy of the retinal pigment epithelium, epidermal cysts, osteomas) should undergo assessment for the adenomatous polyposis syndromes.
+- Genetic testing of patients with suspected adenomatous polyposis syndromes should include *APC* and *MUTYH* gene mutation analysis.
+
+*Recommendations:*
+
+8. In individuals at risk for or affected with the classic AP syndromes, screening for CRC by annual colonoscopy or flexible sigmoidoscopy should be performed, beginning at puberty. In families with AFAP or MAP, surveillance should be by colonoscopy *(strong recommendation, moderate quality of evidence)*.
+9. Absolute indications for immediate colorectal surgery in FAP, AFAP, and MAP include: documented or suspected cancer or significant symptoms. Relative indications for surgery include the presence of multiple adenomas >6 mm, a significant increase in adenoma number, the presence of an adenoma with high-grade dysplasia, and inability to adequately survey the colon because of multiple diminutive polyps *(strong recommendation, low quality of evidence)*.
+10. Screening for gastric and proximal small bowel tumors should be done using upper endoscopy including duodenoscopy starting at age 25–30 years. Surveillance should be repeated every 0.5–4 years depending on Spigelman stage of duodenal polyposis: 0=4 years; I=2–3 years, II=1–3 years, III=6–12 months, and IV=surgical evaluation. Examination of the stomach should include random sampling of fundic gland polyps. Low-grade dysplasia is common in fundic gland polyps, and surgery should be reserved for high-grade dysplasia or cancer *(strong recommendation, very low quality of evidence)*.
+11. Annual thyroid screening by ultrasound should be recommended to individuals affected with FAP, MAP, and attenuated polyposis *(conditional recommendation, low quality of evidence)*.
+12. Biannual screening should be offered to affected infants annually until age 7 years with α-fetoprotein and ultrasounds *(conditional recommendation, very low quality of evidence)*.
+13. Postsurgical surveillance should include yearly endoscopy of rectum or ileal pouch, and examination of an ileostomy every 2 years *(strong recommendation, low quality level of evidence)*.
+
+### Peutz-Jeghers syndrome
+
+*Summary statements (ungraded):*
+- Individuals with perioral or buccal pigmentation and/or two or more histologically characteristic GI hamartomatous polyp(s) or a family history of PJS should be evaluated for PJS.
+- Genetic evaluation of a patient with possible PJS should include testing for *STK11* mutations.
+
+*Recommendation:*
+
+14. Surveillance in affected or at-risk PJS patients should include monitoring for colon, stomach, small bowel, pancreas, breast, ovary, uterus, cervix, and testes cancers. Risk for lung cancer is increased, but no specific screening has been recommended. It would seem wise to consider annual chest radiograph or chest CT in smokers *(conditional recommendation, low quality of evidence)*.
+
+### Juvenile polyposis syndrome
+
+*Summary statements (ungraded):*
+- Individuals with five or more juvenile polyps in the colorectum or any juvenile polyps in other parts of the GI tract should undergo evaluation for JPS.
+- Genetic evaluation of a patient with possible JPS should include testing for *SMAD4* and *BMPR1A* mutations.
+
+*Recommendations:*
+
+15. Surveillance of the GI tract in affected or at-risk JPS patients should include screening for colon, stomach, and small bowel cancers *(strong recommendation, very low quality of evidence in the body text; the summary table grades this conditional)*.
+16. Colectomy and IRA or proctocolectomy and IPAA is indicated for polyp-related symptoms, or when the polyps cannot be managed endoscopically *(strong recommendation, low quality of evidence in the body text; the summary table grades this conditional)*.
+17. Cardiovascular examination for and evaluation for hereditary hemorrhagic telangiectasia should be considered for *SMAD4* mutation carriers *(conditional recommendation, very low quality of evidence)*.
+
+### Cowden syndrome (PTEN hamartoma tumor syndrome)
+
+*Summary statements (ungraded):*
+- Individuals with multiple GI hamartomas or ganglioneuromas should be evaluated for CS and related conditions.
+- Genetic evaluation of a patient with possible CS should include testing for *PTEN* mutations.
+
+*Recommendation:*
+
+18. Surveillance in affected or at-risk CS patients should include screening for colon, stomach, small bowel, thyroid, breast, uterine, kidney, and skin (melanoma) cancers *(conditional recommendation, low quality of evidence)*.
+
+### Serrated polyposis syndrome
+
+*Summary statements (ungraded):*
+- Individuals who meet at least one of the following criteria have the clinical diagnosis of SPS: (i) at least 5 serrated polyps proximal to the sigmoid colon with ≥2 of these being >10 mm; (ii) any number of serrated polyps proximal to the sigmoid colon in an individual who has a first-degree relative with serrated polyposis; and (iii) >20 serrated polyps of any size, distributed throughout the large intestine.
+- A clear genetic etiology has not yet been defined for SPS, and therefore genetic testing is currently not routinely recommended for SPS patients; testing for *MUTYH* mutations may be considered for SPS patients with concurrent adenomas and/or a family history of adenomas.
+
+*Recommendations:*
+
+19. Patients with serrated polyposis should undergo colonoscopies every 1–3 years with attempted removal of all polyps >5 mm diameter *(conditional recommendation, low quality of evidence)*.
+20. Indications for surgery for SPS include an inability to control the growth of serrated polyps, or the development of cancer. Colectomy and IRA is a reasonable option given the risks of metachronous neoplasia *(conditional recommendation, low quality of evidence)*.
+21. There is no evidence to support extracolonic cancer surveillance for SPS at this time. Screening recommendations for family members are currently unclear pending further data and should be individualized based on results of baseline evaluations in family members *(conditional recommendation, very low quality of evidence)*.
+
+### Hereditary pancreatic cancer
+
+*Summary statements (ungraded):*
+- Individuals should be considered to be at risk for familial pancreatic adenocarcinoma if they: (i) have a known genetic syndrome associated with pancreatic cancer, including hereditary breast–ovarian cancer syndrome, familial atypical multiple melanoma and mole syndrome (FAMMM), PJS, LS, or other gene mutations associated with an increased risk of pancreatic adenocarcinoma; (ii) have two relatives with pancreatic adenocarcinoma, where one is a FDR; (iii) have three or more relatives with pancreatic cancer; or (iv) have a history of hereditary pancreatitis.
+- Genetic testing of patients with suspected FPC should include analysis of *BRCA1/2*, *CDKN2A*, *PALB2*, and *ATM*. Evaluation for PJS, LS, and hereditary pancreatitis-associated genes should be considered if other component personal and/or family history criteria are met for the syndrome.
+
+*Recommendations:*
+
+22. Surveillance of individuals with a genetic predisposition for pancreatic adenocarcinoma should ideally be performed in experienced centers utilizing a multidisciplinary approach and under research conditions. These individuals should be known mutation carriers from hereditary syndromes associated with increased risk of PC (Peutz–Jeghers, hereditary pancreatitis, FAMMM) or members of FPC kindreds with a PC-affected FDR. Because of a lower relative risk for pancreatic adenocarcinoma development in *BRCA1*, *BRCA2*, *PALB2*, *ATM*, and LS families, surveillance should be limited to mutation carriers with a first- or second-degree relative affected with PC *(conditional recommendation; very low quality of evidence)*.
+23. Surveillance for PC should be with endoscopic ultrasound and/or MRI of the pancreas annually starting at age 50 years, or 10 years younger than the earliest age of PC in the family. Patients with PJS should start surveillance at age 35 years *(conditional recommendation, very low quality of evidence)*.
+24. Because of the increased risk for PC development when compared with a pancreatic cyst in the sporadic setting, cystic lesion(s) of the pancreas detected during surveillance of a hereditary pancreatic cancer-prone family member requires evaluation by centers experienced in the care of these high-risk individuals. Determining when surgery is required for pancreatic lesions is difficult and is best individualized after multidisciplinary assessment *(conditional recommendation, low quality of evidence)*.
+
+### Hereditary diffuse gastric cancer
+
+*Summary statements (ungraded):*
+- Individuals with (i) ≥2 cases of diffuse gastric cancer, with at least one diagnosed at <50 years, (ii) ≥3 cases of documented diffuse cancer in first- or second-degree relatives independent of age of onset; (iii) diffuse gastric cancer diagnosed at <40 years; and (iv) a personal or family history of diffuse gastric cancer and lobular breast cancer with one diagnosed at <50 years should be evaluated for hereditary diffuse gastric cancer.
+- Genetic testing of individuals who fulfill HDGC clinical criteria should include analysis of *CDH1* mutations.
+
+*Recommendation:*
+
+25. Management for patients with HDGC should include (i) prophylactic gastrectomy after age 20 years (>80% risk by age 80 years); (ii) breast cancer surveillance in women beginning at age 35 years with annual mammography and breast MRI and clinical breast examination every 6 months, and (iii) colonoscopy beginning at age 40 years for families that include colon cancer *(conditional recommendation, low quality of evidence)*.
 
 ## Relevance to Wiki
 

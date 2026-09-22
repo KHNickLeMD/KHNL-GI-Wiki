@@ -3,7 +3,7 @@ title: "TIPS (Transjugular Intrahepatic Portosystemic Shunt)"
 category: advanced-procedure
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, hepatic-encephalopathy, pspg, ptfe-stent, rto, brto, interventional-radiology]
 created: 2026-07-16
-updated: 2026-09-08
+updated: 2026-09-22
 sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus, baveno-vii-2022-portal-hypertension, aga-2021-bleeding-gastric-varices]
 ---
 
@@ -58,7 +58,7 @@ sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-asci
   - Encephalopathy, hyperbilirubinemia, and/or [[acute-on-chronic-liver-failure|ACLF]] at time of bleeding had **no impact on survival** in observational data and should **not** contraindicate preemptive TIPS. **Baveno VIII 5.33 adds MELD score and severe [[alcohol-associated-liver-disease|alcohol-related hepatitis]]** to the list of things that are **not absolute contraindications**
   - Figure 3 of Baveno VIII qualifies the candidate profile as **age <75 y, creatinine <3 mg/dL, no heart failure**
   - Caveats: preemptive-TIPS RCTs enrolled mainly [[alcohol-associated-liver-disease|alcohol-associated]] and [[chronic-hepatitis-b|hepatitis B]]–related cirrhosis — generalizability to [[nafld-masld|MASH]]-related cirrhosis undetermined; a 2021 RCT (n=58) found similar 1-year survival vs standard of care, and the updated meta-analysis showed lower 6-week rebleeding but **no significant survival benefit**
-- **Secondary prevention:** TIPS is **second-line** — first-line remains NSBB (propranolol, nadolol, or carvedilol) + endoscopic variceal ligation; TIPS is treatment of choice for rebleeding despite that combination. RCTs consistently show TIPS prevents rebleeding but with **increased HE and no survival difference**
+- **Secondary prevention:** TIPS is **second-line** — first-line remains [[nonselective-beta-blockers|NSBB]] (propranolol, nadolol, or carvedilol) + endoscopic variceal ligation; TIPS is treatment of choice for rebleeding despite that combination. RCTs consistently show TIPS prevents rebleeding but with **increased HE and no survival difference**
 - **No role in primary prevention** — of either esophageal or gastrofundal variceal bleeding
 - **Salvage/rescue:** controls bleeding in 80–100%, but 6-week mortality **27–55%** (deaths from liver failure, infection, renal failure)
 
@@ -272,7 +272,7 @@ Priority research areas named by [[aasld-2024-tips]]: optimal intraprocedural PS
 
 ## See Also
 
-[[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatic-encephalopathy]], [[cirrhosis]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[rifaximin]], [[liver-transplantation]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[acute-on-chronic-liver-failure]], [[acute-liver-failure]], [[aki-in-cirrhosis]], [[cirrhosis-hemostasis]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-cysts]], [[nafld-masld]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[endoscopy-sedation]], [[hepatocellular-carcinoma]], [[albumin]], [[nutrition-in-liver-disease]]
+[[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatic-encephalopathy]], [[cirrhosis]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[rifaximin]], [[liver-transplantation]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[acute-on-chronic-liver-failure]], [[acute-liver-failure]], [[aki-in-cirrhosis]], [[cirrhosis-hemostasis]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-cysts]], [[nafld-masld]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[endoscopy-sedation]], [[hepatocellular-carcinoma]], [[albumin]], [[nutrition-in-liver-disease]], [[nonselective-beta-blockers]]
 
 ---
 

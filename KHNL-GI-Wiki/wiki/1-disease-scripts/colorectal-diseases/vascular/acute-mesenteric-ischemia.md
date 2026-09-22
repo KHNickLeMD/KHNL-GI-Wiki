@@ -3,7 +3,7 @@ title: "Acute Mesenteric Ischemia"
 category: disease-script
 tags: [acute-mesenteric-ischemia, ami, mesenteric-vein-thrombosis, mvt, small-bowel, vascular-lesion, anticoagulation]
 created: 2026-06-01
-updated: 2026-09-15
+updated: 2026-09-22
 sources: [acg-2015-colon-ischemia, acg-2020-hepatic-mesenteric-circulation]
 ---
 
@@ -77,7 +77,7 @@ sources: [acg-2015-colon-ischemia, acg-2020-hepatic-mesenteric-circulation]
 
 - Recanalization with anticoagulation in **noncirrhotic acute PVT**: **40–75%** with LMWH; VKA or DOAC equivalently effective. [[acg-2020-hepatic-mesenteric-circulation]]
 - **DOAC safety in cirrhosis (especially Child-Pugh B/C) is not established** — most trial data are with LMWH and VKA. [[acg-2020-hepatic-mesenteric-circulation]]
-- Variceal prophylaxis: **NSBBs are the preferred first-line prophylaxis for [[variceal-upper-gi-bleeding|variceal bleeding]]** in patients with **noncirrhotic PVT** receiving anticoagulation. *(Strong, low)* [[acg-2020-hepatic-mesenteric-circulation]]
+- Variceal prophylaxis: **[[nonselective-beta-blockers|NSBBs]] are the preferred first-line prophylaxis for [[variceal-upper-gi-bleeding|variceal bleeding]]** in patients with **noncirrhotic PVT** receiving anticoagulation. *(Strong, low)* [[acg-2020-hepatic-mesenteric-circulation]]
 
 **Arterial AMI:** revascularization strategy (embolectomy, stenting, thrombolysis), timing, and bowel-resection thresholds are **not covered on this page** — see the note at the top.
 

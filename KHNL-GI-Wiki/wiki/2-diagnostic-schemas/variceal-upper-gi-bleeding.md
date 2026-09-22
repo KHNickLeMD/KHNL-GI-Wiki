@@ -3,7 +3,7 @@ title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-09-08
+updated: 2026-09-22
 sources: [baveno-viii-2026-portal-hypertension, albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-tips, aga-2021-bleeding-gastric-varices]
 ---
 
@@ -51,9 +51,9 @@ In a cirrhotic patient with UGIB, consider:
    - **[[somatostatin-analogs|Octreotide]]:** 50 mcg IV bolus → 25–50 mcg/hr infusion × 2–5 days (additional IV boluses may be given for ongoing bleeding — [[aga-2024-vasoactive-albumin-cirrhosis]])
      - ⚠ *Guidelines differ on the infusion rate:* [[aasld-2023-portal-hypertension]] Table 5 gives **25–50 mcg/hr**; [[aga-2024-vasoactive-albumin-cirrhosis]] (newer) gives a flat **50 mcg/hr**. The AGA figure sits inside the AASLD range, so either is defensible.
    - **Somatostatin:** 250 mcg IV bolus → 250–500 mcg/hr × 2–5 days
-   - **Terlipressin** (not FDA approved in US for AVH): 2 mg IV q4–6h × 24–48h, then 1 mg q4–6h × 2–5 days
+   - **[[terlipressin|Terlipressin]]** (not FDA approved in US for AVH): 2 mg IV q4–6h × 24–48h, then 1 mg q4–6h × 2–5 days
    - Continue vasoactive therapy if PH bleeding confirmed on endoscopy (GS 26); **stop the drug if endoscopy reveals a non-variceal source**.
-   - **Duration — [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.7–5.8:** continue **2–5 days, *or until a TIPS (if indicated) is placed***. **A shorter course — even 24 hours — can be considered after successful endoscopic haemostasis, *provided NSBB treatment is then initiated*.** The NSBB proviso is the decision: stopping the drip early is only safe if the beta-blocker takes over.
+   - **Duration — [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.7–5.8:** continue **2–5 days, *or until a TIPS (if indicated) is placed***. **A shorter course — even 24 hours — can be considered after successful endoscopic haemostasis, *provided [[nonselective-beta-blockers|NSBB]] treatment is then initiated*.** The NSBB proviso is the decision: stopping the drip early is only safe if the beta-blocker takes over.
      - ⚠ **Changed from Baveno VII 6.5**, which gave a flat 2–5 days with no early-stop option and no TIPS clause. AASLD's "may shorten to 2 days in selected low-risk patients" sits between the two.
 
 3. **Start IV antibiotics immediately** (GS 27): **Ceftriaxone 1 g IV q24h up to 5 days** (preferred; especially in Child-Pugh C or high-resistance settings). Norfloxacin 400 mg PO BID × 7 days (alternative in low-resistance, Child-Pugh A/B). De-escalate once bleeding controlled and no active infection. See [[#Antibiotic Prophylaxis]] for the duration controversy.
@@ -201,7 +201,7 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 
 ## See Also
 
-[[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[tips]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[somatostatin-analogs]], [[nutrition-in-liver-disease]], [[cirrhosis-hemostasis]], [[rifaximin]], [[upper-endoscopy]], [[hepatic-venous-pressure-gradient]], [[acute-on-chronic-liver-failure]], [[portal-vein-thrombosis]], [[endoscopy-sedation]], [[anticoagulation-gi-bleeding]], [[endoscopic-ultrasound]], [[hepatocellular-carcinoma]], [[proton-pump-inhibitors]], [[endoscopic-hemostasis]], [[argon-plasma-coagulation]]
+[[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[tips]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[somatostatin-analogs]], [[nutrition-in-liver-disease]], [[cirrhosis-hemostasis]], [[rifaximin]], [[upper-endoscopy]], [[hepatic-venous-pressure-gradient]], [[acute-on-chronic-liver-failure]], [[portal-vein-thrombosis]], [[endoscopy-sedation]], [[anticoagulation-gi-bleeding]], [[endoscopic-ultrasound]], [[hepatocellular-carcinoma]], [[proton-pump-inhibitors]], [[endoscopic-hemostasis]], [[argon-plasma-coagulation]], [[nonselective-beta-blockers]], [[terlipressin]]
 
 ---
 

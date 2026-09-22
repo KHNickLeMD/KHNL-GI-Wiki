@@ -3,7 +3,7 @@ title: "AGA Institute Clinical Practice Update: Endoscopic Submucosal Dissection
 category: source
 tags: [esd, endoscopic-resection, emr, early-gastric-cancer, barretts-esophagus, escc, colorectal, duodenal, training, pathology, aga, clinical-practice-update]
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-22
 sources: []
 ---
 

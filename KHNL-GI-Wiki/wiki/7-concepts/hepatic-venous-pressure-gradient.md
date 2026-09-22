@@ -3,7 +3,7 @@ title: "Hepatic Venous Pressure Gradient (HVPG)"
 category: concept
 tags: [hvpg, portal-hypertension, cirrhosis, CSPH, wedged-hepatic-vein-pressure, variceal-bleeding, hemodynamics, endo-hepatology]
 created: 2026-08-05
-updated: 2026-09-06
+updated: 2026-09-22
 sources: [baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2023-portal-hypertension, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -50,7 +50,7 @@ Baveno VII methodology statements ([[baveno-vii-2022-portal-hypertension]], 1.1�
 | **≥10** | **Clinically significant portal hypertension (CSPH)** — Baveno VII 1.10, *changed* from >10 to ≥10. **Qualifier: the gold-standard definition is stated for viral- and alcohol-related cirrhosis**; in MASH/PBC/PSVD the gradient can miss CSPH (see [[#Limitations — when HVPG misleads]]). Threshold above which varices, [[ascites]], and decompensation risk rise; predicts decompensation/death after liver resection for [[hepatocellular-carcinoma\|HCC]] (1.18) |
 | ≥16 | Increased **short-term mortality after non-hepatic abdominal surgery** (1.19) |
 | **≥20** | Measured **at the time of acute hemorrhage** → predicts treatment failure in acute variceal bleeding; a criterion for **pre-emptive [[tips\|TIPS]]**. ⚠ **[[baveno-viii-2026-portal-hypertension\|Baveno VIII]] 5.31 changed this from Baveno VII's ">20 mmHg" to "≥20 mmHg"** — the boundary value itself now qualifies |
-| **<10, measured off carvedilol/cNSBB** | **Confirms resolution of CSPH in a recompensated patient** — the trigger to stop the beta-blocker (Baveno VIII 7.16, new). The "off the drug" qualifier is the decision; a gradient measured on an NSBB does not answer the question |
+| **<10, measured off [[nonselective-beta-blockers\|carvedilol/cNSBB]]** | **Confirms resolution of CSPH in a recompensated patient** — the trigger to stop the beta-blocker (Baveno VIII 7.16, new). The "off the drug" qualifier is the decision; a gradient measured on an NSBB does not answer the question |
 
 *Full noninvasive CSPH staging ([[liver-stiffness-measurement|LSM]] "rule of 5", spleen stiffness), and management by stratum, live on [[portal-hypertension]].*
 
