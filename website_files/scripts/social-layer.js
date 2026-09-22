@@ -470,7 +470,7 @@
       '<div class="khnl-sl-overlay" role="dialog" aria-modal="true" aria-label="Sign in">' +
         '<div class="khnl-sl-card">' +
           '<button class="khnl-sl-x" aria-label="Close">&times;</button>' +
-          '<h3>GI Wiki account</h3>' +
+          '<h3>Digestpedia account</h3>' +
           '<p class="khnl-sl-sub">Private notes, bookmarks, reviewed-page tracking &amp; more.</p>' +
           '<div class="khnl-sl-tabs">' +
             '<button type="button" class="khnl-sl-tab" data-tab="login">Sign in</button>' +
@@ -1607,7 +1607,7 @@
   function notesToMarkdown(all) {
     var byPage = {};
     all.forEach(function (r) { (byPage[r.pageSlug] = byPage[r.pageSlug] || []).push(r); });
-    var out = "# My GI Wiki notes\n\nExported " + new Date().toISOString().slice(0, 10) + "\n";
+    var out = "# My Digestpedia notes\n\nExported " + new Date().toISOString().slice(0, 10) + "\n";
     Object.keys(byPage).sort().forEach(function (slug) {
       out += "\n## " + (byPage[slug][0].pageTitle || slug) + " (`" + slug + "`)\n";
       byPage[slug].forEach(function (r) {
