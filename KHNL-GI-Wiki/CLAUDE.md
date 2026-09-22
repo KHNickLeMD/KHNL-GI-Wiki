@@ -416,7 +416,19 @@ Never put them **inside** `raw/`: the lint cron rsyncs `raw/` into the repo clon
 tags: GI::Organs::Colon::ColorectalPolyps GI::Procedures::Interventional
 ```
 
-`GI::Organs::<Organ>::<Topic>` and `GI::Procedures::General|Interventional`, matching the tag names already in his collection (`UC`, `GERD`, `H_Pylori`, `ColorectalCancer`) — **never derive them from the page slug**, the naming is his, not the wiki's. Every card in the file gets them, on top of the automatic `khnl::<section>` and `khnl::<slug>`. A file with no `tags:` line still exports, but the build reports it as a problem.
+`GI::Organs::<Organ>::<Topic>`, `GI::Procedures::General|Interventional` and `GI::Meds::<Class>`, matching the tag names already in his collection (`UC`, `GERD`, `H_Pylori`, `ColorectalCancer`) — **never derive them from the page slug**, the naming is his, not the wiki's. Every card in the file gets them, on top of the automatic `khnl::<section>` and `khnl::<slug>`. A file with no `tags:` line still exports, but the build reports it as a problem.
+
+**The `GI::Meds` branch (Nick, 2026-09-22).** Drug pages were tagged by the disease they treat (`somatostatin-analogs` → `GI::Organs::Pancreas::NET`), which works until a drug treats a disease with no node — the IBD drugs stalled the card queue for two weeks because the tree has `Colon::UC` and nothing for Crohn's or IBD as a whole. `GI::Meds::<Class>` is the escape hatch, a third top-level branch beside Organs and Procedures. These five nodes exist; **do not invent a sixth** — if a drug page fits none of them, write the cards with the closest disease tag and flag the missing class in `log.md` for Nick:
+
+| node | covers |
+|---|---|
+| `GI::Meds::Biologics` | anti-TNF, vedolizumab, ustekinumab, the IL-23s |
+| `GI::Meds::SmallMolecules` | JAK inhibitors, S1P modulators |
+| `GI::Meds::Immunomodulators` | methotrexate, thiopurines |
+| `GI::Meds::Aminosalicylates` | mesalamine and the other 5-ASAs |
+| `GI::Meds::Corticosteroids` | systemic and budesonide-type steroids |
+
+A drug page takes its `GI::Meds::<Class>` tag **and** a disease tag when one fits (`mesalamine-5-asa` → `GI::Meds::Aminosalicylates GI::Organs::Colon::UC`); the meds tag alone is correct when no disease node covers it. Renaming a class later is a `sed` over the `tags:` lines plus a rebuild — Anki replaces a note's tags on update, so nothing is lost.
 
 **New cards arrive suspended (Nick, 2026-08-11).** Anki's TSV import has no suspended column, so the exporter tags instead: any note whose GUID isn't in `<cards>/dist/khnl-gi-wiki.guids` (the previous build's manifest, rewritten every build) gets `khnl::new`. After importing, suspend them in one step — Browse → `tag:khnl::new` → Ctrl+A → Ctrl+J — then unsuspend as you're ready to learn them. The tag disappears at the next build, since Anki replaces a note's tags on update, so the search only ever holds the latest batch. Retired notes never get it. **Don't delete the manifest** — a missing one makes the build tag nothing (rather than tagging the whole deck), so you lose one batch's marks instead of mass-suspending.
 
