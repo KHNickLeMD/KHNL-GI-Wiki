@@ -116,7 +116,7 @@ The graph runs a continuous physics simulation — repulsion forces push nodes a
 
 ## Accounts, Notes & Bookmarks
 
-Create a free account (**Sign in**, top-right) to add a personal study layer on top of the wiki. You'll get a verification email — click the link, then sign in. Your account is represented by a customizable **avatar bubble** (top-right): click it for the account menu, or **Customize bubble…** to pick a color or photo.
+Create a free account (**Sign in**, top-right) to add a personal study layer on top of the wiki. You'll get a verification email — click the link, then sign in. In the sign-in box, **Show** reveals what you're typing in any password field. Too many wrong tries locks the account for about a minute — the box says so when that happens, so wait it out rather than resetting your password. Your account is represented by a customizable **avatar bubble** (top-right): click it for the account menu, or **Customize bubble…** to pick a color or photo.
 
 - **Private notes** — select any text in an article and click **✎ Add note** to pin a private note to that spot (a small ✎ marker appears there; click it to read or edit). Notes are **never lost**: if the wiki text you pinned changes, the note moves to a *"Notes on this page"* tray at the end of the article — and re-anchors automatically if the text returns. **My notes** in the account menu lists everything, with **.md / .json export**.
 - **Bookmarks** — click the ☆ star in a page's header to save it; organize with labels and folders under **Bookmarks** in the account menu.

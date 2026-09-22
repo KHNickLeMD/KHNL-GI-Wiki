@@ -44,7 +44,7 @@
   var CONFIG = {
     API_BASE: "https://api.digestpedia.com",
     TURNSTILE_SITE_KEY: "0x4AAAAAADsnUhGCQy6CF38J", // public site key (same widget as feedback)
-    APP_VERSION: "digestpedia-2026-09-21",
+    APP_VERSION: "digestpedia-2026-09-22",
   };
 
   // ======================================================================
@@ -156,6 +156,9 @@
     ".khnl-sl-row input{width:100%;box-sizing:border-box;padding:8px 9px;border:1px solid #ccc;border-radius:7px;" +
       "font:inherit;background:#fff}" +
     ".khnl-sl-row input:focus{outline:none;border-color:#2f6b3f;box-shadow:0 0 0 2px rgba(47,107,63,.18)}" +
+    ".khnl-sl-pw{position:relative}" +
+    ".khnl-sl-pw input{padding-right:52px}" +
+    ".khnl-sl-reveal{position:absolute;right:6px;top:50%;transform:translateY(-50%);background:none;border:none;padding:2px 5px;color:#2f6b3f;cursor:pointer;font:inherit;font-size:11.5px;font-weight:600}" +
     ".khnl-sl-err{color:#b00020;font-size:11.5px;margin-top:3px;display:none}" +
     ".khnl-sl-row.bad input{border-color:#b00020}" +
     ".khnl-sl-row.bad .khnl-sl-err{display:block}" +
@@ -499,6 +502,43 @@
     if (name === "login") renderLogin(body);
     else if (name === "signup") renderSignup(body);
     else if (name === "forgot") renderForgot(body);
+    addRevealButtons(body);
+  }
+
+  // Show/hide toggle on every password field the tab just rendered — typing a
+  // password blind on a phone keyboard is how most "wrong password" really start.
+  function addRevealButtons(body) {
+    body.querySelectorAll('input[type="password"]').forEach(function (input) {
+      var wrap = document.createElement("div");
+      wrap.className = "khnl-sl-pw";
+      input.parentNode.insertBefore(wrap, input);
+      wrap.appendChild(input);
+      var btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "khnl-sl-reveal";
+      btn.textContent = "Show";
+      btn.setAttribute("aria-label", "Show password");
+      btn.addEventListener("click", function () {
+        var hidden = input.type === "password";
+        input.type = hidden ? "text" : "password";
+        btn.textContent = hidden ? "Hide" : "Show";
+        btn.setAttribute("aria-label", (hidden ? "Hide" : "Show") + " password");
+        input.focus();
+      });
+      wrap.appendChild(btn);
+    });
+  }
+
+  // One place that turns a failed auth call into something a human can act on.
+  function authErrText(err) {
+    if (!err || err.status === undefined) {
+      return "Couldn't reach the server. Check your connection, then try again.";
+    }
+    if (err.status === 429) {
+      return "Too many sign-in attempts — this account is temporarily locked. " +
+             "Wait about a minute, then try again (the password itself may be fine).";
+    }
+    return "Sign-in failed. Check your email/username and password.";
   }
 
   // --- login tab ---
@@ -534,9 +574,7 @@
         closeModal();
       }).catch(function (err) {
         busy(btn, false, "Sign in");
-        formErr.textContent = err && err.status === 429
-          ? "Too many attempts — please wait a minute and try again."
-          : "Sign-in failed. Check your email/username and password.";
+        formErr.textContent = authErrText(err);
         formErr.style.display = "block";
       });
     });
