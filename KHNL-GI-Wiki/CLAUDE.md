@@ -403,10 +403,13 @@ The wiki is large and most lint work is per-page and independent, so a lint pass
 
 ### 4. CARDS (Anki)
 
-**Cards live outside the repo** (moved 2026-08-09), in the Nextcloud tree **beside** `raw/`, so they sync to the server and are shared by link when Nick chooses — never pushed to GitHub on someone else's schedule:
+**Cards live outside the repo** (moved 2026-08-09) and **on the server only** (2026-09-22), in the Nextcloud tree beside `raw/` — never pushed to GitHub on someone else's schedule:
 
-- laptop — `~/Desktop/KHNL Drive/##3Resources/#KHNL GI Wiki/cards/`
-- server — `/mnt/LeStorage/Drive/KHNL/##3Resources/#KHNL GI Wiki/cards/`
+- server — `/mnt/LeStorage/Drive/KHNL/##3Resources/#KHNL GI Wiki/cards/` — the only copy
+
+**There is no laptop copy any more, and one must never be recreated.** There was one until 2026-09-22, and two writers on one file did exactly what you would expect: the laptop's sync stalled on 2026-09-07, then re-uploaded its frozen `dist/khnl-gi-wiki.txt` over the freshly built one every single morning. For two weeks the pass wrote cards correctly — 440 notes grew to 955 on disk — while the file Nick actually downloaded stayed at 440 and he reasonably concluded the deck had stopped growing. The laptop path is now in the Nextcloud client's selective-sync blacklist (`selectivesync` table of `~/Desktop/KHNL Drive/.sync_*.db`). `build-anki.mjs` still lists the old laptop path first in `CARDS_DIRS`; it simply no longer exists, so the lookup falls through to the server path. Do not "restore" it.
+
+Nick reads the deck from Nextcloud (`drive.khnlserver.com`), so the cron reindexes the folder with `occ files:scan` after every build — the pass writes straight to disk, behind Nextcloud's back, and without the rescan the web UI serves the previous build's file.
 
 Never put them **inside** `raw/`: the lint cron rsyncs `raw/` into the repo clone and commits it, which would push every card to GitHub. `KHNL-GI-Wiki/cards/` is in `.gitignore` as a backstop. The exporter (`website_files/scripts/build-anki.mjs`, still in the repo) tries `$CARDS_DIR`, then those two paths, and writes `<cards>/dist/khnl-gi-wiki.txt` — the single file to share for download (stock Cloze, `#guid column`). The `giwiki` container bind-mounts the server cards dir at `/cards` (added 2026-08-10), so the 05:00 cron's card pass drafts 5 pages per night under `# Draft` and rebuilds the deck; it commits and pushes nothing. Block format: `[6-hex id]{source-slug}` opens a note, `>` lines are Back Extra, blank line separates notes. GUID = `sha1(page + id)` — **reword freely, never change an id**, that's what preserves scheduling.
 
