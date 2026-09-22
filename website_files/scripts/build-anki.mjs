@@ -24,7 +24,8 @@ const CARDS_DIRS = [
 const CAPS = { words: 40, bullets: 5, bulletWords: 12 }
 
 // ponytail: acronym fixups only; add entries when a deck name reads wrong
-const ACRONYMS = { gi: 'GI', emr: 'EMR', esd: 'ESD', ercp: 'ERCP', eus: 'EUS', ibd: 'IBD', and: 'and' }
+const ACRONYMS = { and: 'and', non: 'non', vs: 'vs', glp1: 'GLP-1', tg18: 'TG18',
+  aasld: 'AASLD', acg: 'ACG', aga: 'AGA', asge: 'ASGE', ast: 'AST', asccp: 'ASCCP', apa: 'APA', acpo: 'ACPO', aclf: 'ACLF', afs: 'AFS', ald: 'ALD', alf: 'ALF', ai: 'AI', aki: 'AKI', bts: 'BTS', bmmrd: 'BMMRD', cag: 'CAG', cdiff: 'C. diff', chb: 'CHB', chs: 'CHS', cpu: 'CPU', crc: 'CRC', cvs: 'CVS', cd: 'CD', daa: 'DAA', dgbi: 'DGBI', dili: 'DILI', eet: 'EET', egd: 'EGD', egj: 'EGJ', emr: 'EMR', eoe: 'EOE', epi: 'EPI', ercp: 'ERCP', esd: 'ESD', eus: 'EUS', fap: 'FAP', fit: 'FIT', flip: 'FLIP', fmt: 'FMT', fna: 'FNA', ge: 'GE', gerd: 'GERD', gi: 'GI', gist: 'GIST', goo: 'GOO', gpoem: 'GPOEM', hbv: 'HBV', hcc: 'HCC', hcv: 'HCV', heds: 'HEDS', hp: 'H. pylori', hrm: 'HRM', hrs: 'HRS', htn: 'HTN', ibd: 'IBD', ibs: 'IBS', ici: 'ICI', ida: 'IDA', idsa: 'IDSA', ioibd: 'IOIBD', lgib: 'LGIB', lprd: 'LPRD', masld: 'MASLD', mash: 'MASH', nafld: 'NAFLD', nccn: 'NCCN', nejm: 'NEJM', net: 'NET', nilda: 'NILDA', nvugib: 'NVUGIB', pbc: 'PBC', pcab: 'PCAB', pep: 'PEP', poem: 'POEM', ppg: 'PPG', ppi: 'PPI', psc: 'PSC', pud: 'PUD', pvt: 'PVT', sages: 'SAGES', sbp: 'SBP', sibo: 'SIBO', svr: 'SVR', tips: 'TIPS', uc: 'UC', ugib: 'UGIB', usmstf: 'USMSTF', uspg: 'USPG' }
 
 const guidOf = (page, id) => createHash('sha1').update(page + id).digest('hex').slice(0, 16)
 
@@ -49,6 +50,15 @@ const frontmatter = src => {
 const titleCase = (s, keepNum) => (keepNum && /^\d+-/.test(s) ? s.match(/^\d+/)[0] + '. ' : '')
   + s.replace(/^\d+-/, '').split('-')
     .map(w => ACRONYMS[w] ?? w[0].toUpperCase() + w.slice(1)).join(' ')
+
+export // Footer reads as a citation — "AGA 2025 CRC Endoscopic Resection", not a bare "AGA 2025".
+// The topic is already in the slug, so no need to open the source page for it.
+const srcLabel = s => {
+  const parts = s.split('-')
+  const y = parts.findIndex(p => /^\d{4}$/.test(p))
+  const org = (y < 0 ? parts : parts.slice(0, y)).map(o => ACRONYMS[o] ?? titleCase(o)).join('/')
+  return y < 0 ? org : [org, parts[y], ...parts.slice(y + 1).map(w => titleCase(w))].join(' ')
+}
 
 // Strip cloze wrappers, hints, and HTML so length caps measure what you actually read.
 // {{c1::answer::hint}} shows as either the answer or the hint, never both — count the answer.
@@ -137,10 +147,6 @@ function main () {
     if (!pageTags.length) problems.push(`${page}: frontmatter missing 'tags:'`)
     // One source per card, not the page's whole source list — 7 slugs on every card was
     // noise. Which guideline said it is the useful bit, especially where they disagree.
-    const srcLabel = s => {
-      const [org, year] = s.split('-')
-      return /^\d{4}$/.test(year) ? `${org.toUpperCase()} ${year}` : org.toUpperCase()
-    }
     const footerFor = src => `<small><a href="${SITE}/${slug}">${pageFm.title}</a>`
       + ` · <a href="${SITE}/${src}">${srcLabel(src)}</a></small>`
 
@@ -225,6 +231,9 @@ async function test () {
   assert.equal(titleCase('4-advanced-gi-procedures'), 'Advanced GI Procedures')
   assert.equal(titleCase('4-advanced-gi-procedures', true), '4. Advanced GI Procedures')
   assert.equal(titleCase('colorectal-procedures', true), 'Colorectal Procedures')
+  assert.equal(srcLabel('aga-2025-endoscopic-resection-crc'), 'AGA 2025 Endoscopic Resection CRC')
+  assert.equal(srcLabel('aasld-ast-2025-liver-transplant-graft-complications'), 'AASLD/AST 2025 Liver Transplant Graft Complications')
+  assert.equal(srcLabel('aloysius-2026-ercp-timing'), 'Aloysius 2026 ERCP Timing')
   assert.equal(tsv('a\tb\nc'), 'a b<br>c')
   assert.equal(backExtra('note', 'FOOT'), '<hr>note<br>FOOT')
   assert.equal(backExtra('', 'FOOT'), '<hr>FOOT')

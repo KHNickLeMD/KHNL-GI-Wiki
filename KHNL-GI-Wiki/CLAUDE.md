@@ -444,7 +444,7 @@ tags: GI::Organs::Colon::ColorectalPolyps GI::Procedures::Interventional
 
 **Killing a card is an edit, not a delete.** A card that shouldn't exist has already been imported and will quiz forever if its block just disappears. Move the block under `# Retired` with a one-line reason in place of its text, keeping its `[id]` — the export then reaches the existing note, blanks it, and tags it `khnl::retired` for the saved search that sweeps them.
 
-Length caps (≤40 words, ≤5 bullets, ≤12 words/bullet), the one-source-per-card footer, `# Retired` / `# Draft` sections, and cross-page concept ownership are enforced or described in `.claude/PLAN-anki-decks.md`. Run `node website_files/scripts/build-anki.mjs --test` after touching the exporter, and rebuild the deck after touching any card file.
+Length caps (≤40 words, ≤5 bullets, ≤12 words/bullet), the one-source-per-card footer (page title · `ORG YEAR Topic` read off the source slug, e.g. `AGA 2025 Endoscopic Resection CRC` — add to `ACRONYMS` when a new slug word reads wrong), `# Retired` / `# Draft` sections, and cross-page concept ownership are enforced or described in `.claude/PLAN-anki-decks.md`. Run `node website_files/scripts/build-anki.mjs --test` after touching the exporter, and rebuild the deck after touching any card file.
 
 ---
 
