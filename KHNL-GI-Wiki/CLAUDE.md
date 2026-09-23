@@ -444,6 +444,10 @@ A drug page takes its `GI::Meds::<Class>` tag **and** a disease tag when one fit
 
 **When cards get written:** every ingest writes/updates the card file for each page it touched, in the same run. Editing a wiki page's clinical content edits its card file in the same change.
 
+**Card queue order: one page at a time, finished before the next (Nick, 2026-09-23).** This order applies to every card pass that picks its own pages:
+1. **Finish the unfinished page first.** A card file with no `page_updated:` line is a page someone started and did not finish, for example because a pass ran out of credits. Resume it, and do not start any other page until it is done. **Write `page_updated:` as the very last edit to a card file, only once every guideline-backed fact on the page has its card.** That line is the only "done" marker. Never write it early, and never set it on a page that is only partly carded.
+2. **Then pick pages in ingest priority order** (Content Guide → *Source priority*): pages sourced from guidelines, CPUs or consensus statements first, **most recent source publication year first**. RCT and primary-research pages come after those, then older material. Pages sourced only from lectures or chalk talks are never carded. Stale card files (`page_updated` older than the page) join the queue at their page's tier. The *Guideline-sourced cards only* rule still decides what goes on a card; this order only decides which page gets carded next.
+
 **Writing rules** (from the 2026-08-09 review of the polypectomy pilot deck):
 
 1. **The front must be answerable cold.** Every card is seen out of context, months later, interleaved with cards from every other page. Name the organ/entity the fact belongs to — `Lesions ≥10mm — document` is unanswerable; `Colorectal polyps ≥10mm — document` is a question. Deck name and tags do **not** count as context; the reviewer doesn't read them. This does not license leaking the answer (see *No answer leakage*): add the subject, not the answer's category.
