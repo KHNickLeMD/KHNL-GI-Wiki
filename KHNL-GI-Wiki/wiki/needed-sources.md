@@ -96,7 +96,7 @@ Papers, guidelines, tables, and figures that would close a specific gap on a wik
 | Later ASGE/ESGE papillectomy guidance | updated technical detail | [[asge-2015-ampullary-duodenal-adenomas]] |
 | SAGES hiatal hernia guideline | type I–IV, natural history, asymptomatic PEH repair, incarceration / volvulus; Cameron lesions | [[hiatal-hernia]] |
 | ASMBS/IFSO metabolic-surgery indications; ASMBS/SAGES or Brazilian intragastric-balloon consensus | bariatric eligibility criteria; IGB contraindications and age/BMI criteria | [[bariatric-surgery]], [[intragastric-balloon]] |
-| ACG/AGA microscopic colitis guideline | budesonide dosing, associations, histologic thresholds | [[microscopic-colitis]] |
+| A source defining the microscopic-colitis histologic criteria (collagen band thickness in µm; intraepithelial lymphocytes per 100 epithelial cells) | the diagnostic thresholds that separate collagenous from lymphocytic colitis — AGA 2016 is medical management only and states it does not address diagnosis | [[microscopic-colitis]] |
 | ACG/AGA chronic diarrhea guideline | mechanistic classification, osmotic-gap formula and cut-offs, endocrine / bile-acid tests | [[chronic-diarrhea]] |
 | Dedicated bile acid diarrhea guideline / review | type 1/2/3; SeHCAT, C4, FGF-19, fecal bile acid cut-offs; sequestrant titration | [[bile-acid-diarrhea]] |
 | ASCRS anal fissure guideline; colorectal-surgery rectal prolapse guideline | EUA / biopsy rules, sitz-bath, psyllium, topical agents; prolapse grading and conservative care | [[anal-fissure]], [[rectal-prolapse]] |

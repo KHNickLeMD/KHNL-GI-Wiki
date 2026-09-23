@@ -7,8 +7,6 @@ updated: 2026-09-23
 sources: [aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy]
 ---
 
-# Colonoscopy Quality Indicators
-
 Colonoscopy's efficacy varies among endoscopists, and lower-quality colonoscopies are associated with higher interval CRC incidence and mortality. Quality has three components: **effectiveness** (detecting [[colorectal-cancer|CRC]] and its precursors), **safety**, and **value** (avoiding unnecessary costs). [[aga-2021-colonoscopy-quality]]
 
 ## Contents

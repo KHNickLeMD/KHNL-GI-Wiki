@@ -51,7 +51,7 @@ Purine-antimetabolite **immunomodulators** used in [[inflammatory-bowel-disease|
 - Both dose ranges are from [[acg-2025-crohns]] Rec 8 and 9. **The 6-MP lower bound is stated inconsistently within that guideline** (0.75 in the recommendation, 1.0 in the text) — noted rather than silently resolved.
 - Pediatric CD data: 6-MP **1.5 mg/kg/day** with the first corticosteroid course was effective; the equivalent early-azathioprine strategy in adults did **not** show a benefit in time in clinical remission ([[acg-2025-crohns]]).
 
-> **Thiopurine metabolite (6-TGN / 6-MMP) target ranges, allopurinol co-prescribing, and dose-escalation rules are not given by the IBD guidelines** — [[acg-2025-crohns]] and [[acg-2025-uc]] discuss therapeutic drug monitoring only for **anti-TNF** trough levels.
+> **6-TGN target range: 230–450 pmol/8×10⁸ RBCs — monotherapy only**, per [[aga-2017-tdm-ibd]]; see [[therapeutic-drug-monitoring-ibd|therapeutic drug monitoring]] for the full thiopurine arm (pre-treatment TPMT testing and its dose-reduction table). **6-MMP target ranges, allopurinol co-prescribing, and dose-escalation rules are not given by the IBD guidelines** — [[acg-2025-crohns]] and [[acg-2025-uc]] discuss drug monitoring only for **anti-TNF** trough levels.
 
 ---
 

@@ -6,6 +6,48 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-23] lint | Largest inbox delivery since the initial load — 15 AGA/CGH files arrived; two ingested; sixth consecutive cron-provenance failure backfilled
+
+**Inbox sync — 15 new raw files, and they change the shape of the backlog.** 14 into `raw/GI Guidelines/AGA/` (175→189) and 1 into `raw/GI Other Studies/` (5→6); **449** non-asset files, new baseline. Every one verified file-by-file against `wiki/sources/` — **none was already ingested**. The important part is what they are: the remaining AGA backlog was Clinical Practice Updates, which are frequently ungraded and sometimes Commentaries with no statements at all. **Most of this delivery is AGA Institute *Guidelines* — technical review, real GRADE ratings** (2015 Lynch, 2015 pancreatic cysts, 2015 acute diverticulitis, 2016 microscopic colitis, 2017 TDM, 2017 post-resection Crohn's, 2017 acute liver failure, 2017 elastography, 2018 acute pancreatitis, 2019 mild-moderate UC, 2019 functional diarrhea/IBS-D, 2019 opioid-induced constipation, 2012 NAFLD). Queued as rows **N1–N13** ahead of the CPU queue on tier and page impact.
+
+**Nothing to commit from `raw/`.** The pass prompt asked for `git status` to find untracked arrivals; it cannot — `raw/`'s content subfolders are git-ignored, so a synced PDF is never untracked. The count-vs-baseline check found the delivery. One refinement recorded in `index.md`: **all 15 files carried genuine 2026-09-23 mtimes**, so the rsync does not always rewrite them and `ls -lt` is a fast way to *name* arrivals once the count says a folder has some.
+
+**Ingest (2 — the per-pass cap), both from the new delivery:**
+
+- [[aga-2016-microscopic-colitis]] — chosen because [[microscopic-colitis]] carried a **self-declared decision gap on its own front matter**: *"They do not cover therapy… no therapy (including first-line budesonide, dosing, or drug/smoking associations) is stated here."* A page that names its own missing half is the highest-value ingest available. All **9 numbered recommendations** captured verbatim with the document's printed strength + quality (Tables 2 and 3). Therapeutics written from empty: **budesonide 9 mg daily** induction with an 8-week stop point (~⅓ need no maintenance), **6 mg daily × 6 mo** maintenance offered to relapsers only (RR 0.34, 0.19–0.6) with the 3/6 mg alternating × 12 mo alternative and bone-loss caveat, mesalamine 3 g / bismuth salicylate 8–9 tablets TID / prednisolone as not-feasible alternatives, and the three conditional-against agents. Added a Mermaid treatment-sequence flowchart and a `Classification / Typing` section recording that **AGA does not distinguish the subtypes — outcomes did not differ and treatment is identical**, which is itself the clinically useful fact.
+- [[aga-2017-tdm-ibd]] → new concept page [[therapeutic-drug-monitoring-ibd]]. "Therapeutic drug monitoring" was named in plain text on seven pages and defined on none, while being a purely numeric decision. Maintenance troughs **IFX ≥5, ADA ≥7.5, CZP ≥20 µg/mL**; the trough × antidrug-antibody grid that decides optimize vs switch-within-class vs switch-class, rebuilt as a Mermaid flowchart; the three failure mechanisms with their observed frequencies (30% / 51% / 19% of 464); pre-treatment TPMT testing with its dose-reduction table; **6-TGN 230–450 pmol/8×10⁸ RBCs, monotherapy only**.
+
+**The finding that mattered — a live wiki claim was flatly contradicted by the source being ingested.** [[thiopurines]] asserted in a blockquote that *"Thiopurine metabolite (6-TGN / 6-MMP) target ranges… are **not given by the IBD guidelines**,"* reasoning from ACG 2025 CD/UC. AGA 2017 gives the 6-TGN range and a routine pre-treatment TPMT recommendation. Corrected on the page, with the 6-MMP and allopurinol halves of the sentence kept — those remain genuinely unsourced. The general lesson: a "no guideline covers this" assertion is a claim about the whole corpus and silently rots every time the corpus grows.
+
+Two further contradictions were surfaced and recorded on the source page rather than acted on: the anti-TNF thresholds are printed **≥** by AGA 2017 but **>** on three wiki pages (same numbers; ACG 2025 is newer and governs), and AGA 2017 makes an explicit *"No recommendation / knowledge gap"* on proactive TDM, which is directionally consistent with the ACG 2025 meta-analysis the pages already carry. The unnumbered-statement fact is stated on the source page — the document prints 5 boxed statements and numbers none, so none was invented.
+
+**Coverage gap filled (1):** [[lactulose]] — queue #10. Built decision-first around the titration endpoint in bowel movements per day, with oral and enema routes, the nonresponse path, combination with [[rifaximin]], stopping rules, and the over-titration failure mode in which dehydration and electrolyte loss precipitate the very encephalopathy being treated. Drew on **11 ingested sources**, not the two the queue row named.
+
+**Backfill — sixth consecutive cron-provenance failure.** Cron pass `b76ea82` (2026-09-23 01:08) ingested two sources and created a page, and wrote **zero** `log.md` entries and **zero** `index.md` rows:
+
+- [[aga-2021-colonoscopy-quality]] — 15 numbered BPA, ungraded, with the six numeric benchmarks.
+- [[aga-2022-noninvasive-crc-screening]] — a **Commentary**: no statements, no BPA, no grades at all. Correctly labelled as such by the cron.
+- [[colonoscopy-quality-indicators]] — filled *Fillable now* #29 without striking it.
+
+The work itself audits well — both source pages carry explicit "this document grades nothing" notices, which is the discipline the fabricated-GRADE incidents were meant to instill, and the new concept page was **not** orphaned ([[colonoscopy]] links it). The failure is provenance only. All three are now indexed and both queue rows struck.
+
+**Hygiene:**
+
+- **0** stubs, **0** `.DS_Store`, **0** unescaped alias pipes in tables wiki-wide.
+- Removed a stray top-level `# H1` from [[colonoscopy-quality-indicators]] and [[palliative-care-in-cirrhosis]] — the only 2 of 47 concept pages that had one. The renderer builds the right-rail outline from headings, so a page-title H1 nests every real section one level too deep.
+- [[needed-sources]] row for microscopic colitis narrowed: budesonide dosing is now filled, so the row asks only for what is still missing — a source defining collagen band thickness in µm and intraepithelial lymphocytes per 100 epithelial cells. AGA 2016 states it addresses medical management and not diagnosis.
+
+**For user triage:**
+
+- **The stalest-page validation did not run this pass** — the three targets ([[acg-2021-gerd]], [[acg-2022-gastroparesis]], [[acg-2021-anorectal-disorders]], all `updated: 2026-05-28`) are **untouched**, not half-edited. Their checker was stopped mid-run to stay inside the pass budget after the 15-file delivery consumed it. They are the oldest pages on the wiki and should be first on the next pass.
+- **Inline-link densification was partial** — the TDM links were applied where the contradiction forced an edit, but the seven pages naming TDM in plain text have not all been converted, and the cross-links the microscopic-colitis ingest asked for ([[corticosteroids-ibd]] budesonide dosing, [[mesalamine-5-asa]], [[probiotics]], [[chronic-diarrhea]], [[bile-acid-diarrhea]]) are **not yet made**. Both lists are in this pass's agent reports; carry them into the next pass.
+- **Anki cards are owed** for [[microscopic-colitis]], [[therapeutic-drug-monitoring-ibd]] and [[lactulose]]. All three are tier-1-backed and cardable. The `CGH 2025 Review on Microscopic Colitis` that arrived alongside is a **tier-2 narrative review — no cards from it**, though it may supply the histologic thresholds the AGA guideline omits.
+- **This is the sixth consecutive cron pass to ingest without logging or indexing.** Six hand backfills have now been done. The fix belongs in the scheduled task's prompt, not in a seventh.
+- Figure capture remains blocked in this environment; both new algorithms were rebuilt as Mermaid rather than screenshotted.
+- The gated lecture/chalk-talk corpus (**60 transcripts**) is untouched and still awaits Nick naming which to ingest.
+
+---
+
 ## [2026-09-22] lint | Fifth consecutive cron-provenance failure — but this time the index was kept; two ESD-adjacent CPUs ingested, two orphans closed, and a units error corrected on a live dosing line
 
 **The finding that mattered — a milligram/gram units error was sitting on a wiki dosing line.**

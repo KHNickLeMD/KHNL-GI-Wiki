@@ -7,8 +7,6 @@ updated: 2026-09-19
 sources: [aga-2020-palliative-care-cirrhosis, aasld-2022-palliative-cirrhosis]
 ---
 
-# Palliative Care in Cirrhosis
-
 ## Contents
 - [[#What It Is — and What It Is Not]]
 - [[#Who Delivers It]]
