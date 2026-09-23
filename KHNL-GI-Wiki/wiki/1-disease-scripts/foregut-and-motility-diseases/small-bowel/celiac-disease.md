@@ -3,7 +3,7 @@ title: "Celiac Disease"
 category: disease-script
 tags: [celiac-disease, gluten, malabsorption, small-bowel, ttg, marsh, foregut]
 created: 2026-05-15
-updated: 2026-09-10
+updated: 2026-09-23
 sources: [acg-2022-celiac, aga-2019-celiac-monitoring, aga-2022-refractory-celiac]
 ---
 
@@ -447,3 +447,4 @@ Assess malnutrition by nonvolitional weight loss, low BMI, loss of muscle mass/s
 
 1. [[acg-2022-celiac|ACG 2022: Diagnosis and Management of Celiac Disease]]
 2. [[aga-2022-refractory-celiac|AGA Clinical Practice Update on Management of Refractory Celiac Disease: Expert Review]]
+3. [[aga-2019-celiac-monitoring|AGA Clinical Practice Update on Diagnosis and Monitoring of Celiac Disease—Changing Utility of Serology and Histologic Measures: Expert Review]]

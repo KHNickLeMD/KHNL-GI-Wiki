@@ -3,8 +3,8 @@ title: "AGA Clinical Practice Update on Diagnosis and Monitoring of Celiac Disea
 category: source
 tags: [celiac, serology, ttg, marsh, histology, monitoring, mucosal-healing, gluten-challenge, small-bowel, aga, cpu]
 created: 2026-09-10
-updated: 2026-09-10
-sources: []
+updated: 2026-09-23
+sources: [acg-2022-celiac, aga-2022-refractory-celiac]
 ---
 
 ## Bibliographic Info

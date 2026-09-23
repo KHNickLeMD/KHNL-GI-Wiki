@@ -3,8 +3,8 @@ title: "AASLD 2023 Practice Guidance on Prevention, Diagnosis, and Treatment of 
 category: source
 tags: [hcc, hepatocellular-carcinoma, bclc, surveillance, li-rads, tace, tare, sorafenib, lenvatinib, atezolizumab, bevacizumab, durvalumab, tremelimumab, liver-transplant, milan, downstaging, ablation, resection, adjuvant, systemic-therapy, aasld, hpb]
 created: 2026-05-28
-updated: 2026-09-15
-sources: []
+updated: 2026-09-23
+sources: [aasld-2025-hcc-critical-update]
 ---
 
 ## Bibliographic Info

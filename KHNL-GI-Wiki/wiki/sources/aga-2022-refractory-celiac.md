@@ -3,8 +3,8 @@ title: "AGA Clinical Practice Update on Management of Refractory Celiac Disease:
 category: source
 tags: [celiac, refractory-celiac, small-bowel, malabsorption, eatl, lymphoma, aga, cpu]
 created: 2026-09-05
-updated: 2026-09-05
-sources: []
+updated: 2026-09-23
+sources: [acg-2022-celiac]
 ---
 
 ## Bibliographic Info

@@ -3,8 +3,8 @@ title: "Post-endoscopic Retrograde Cholangiopancreatography Pancreatitis Assesse
 category: source
 tags: [ercp, post-ercp-pancreatitis, pep, cotton-criteria, diagnostic-criteria, severity, cohort, pancreas]
 created: 2026-09-18
-updated: 2026-09-18
-sources: []
+updated: 2026-09-23
+sources: [asge-2023-post-ercp-pancreatitis, azuma-2026-cryoprevention-pep]
 ---
 
 # Post-ERCP Pancreatitis Assessed Using Criteria for Acute Pancreatitis (Suzuki 2021)

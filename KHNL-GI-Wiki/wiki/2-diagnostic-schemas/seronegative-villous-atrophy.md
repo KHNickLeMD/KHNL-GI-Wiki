@@ -3,8 +3,8 @@ title: "Seronegative Villous Atrophy"
 category: diagnostic-schema
 tags: [villous-atrophy, seronegative-enteropathy, celiac, small-bowel, malabsorption, hla, budesonide]
 created: 2026-09-12
-updated: 2026-09-12
-sources: [aga-2021-seronegative-enteropathies, aga-2022-refractory-celiac, aga-2019-celiac-monitoring]
+updated: 2026-09-23
+sources: [aga-2021-seronegative-enteropathies, aga-2022-refractory-celiac, aga-2019-celiac-monitoring, acg-2022-celiac]
 ---
 
 Villous atrophy on duodenal or jejunal biopsy **with negative celiac serology** (tTG, DGP, and EMA all negative). A histologic finding, not a diagnosis — it carries a wide differential across immune-mediated, infectious, iatrogenic, and inflammatory causes, and distinct, highly effective therapy exists for many of them. Prognosis is **poor compared with classic [[celiac-disease|celiac disease]]**, so the point of the workup is to name the cause rather than default to a gluten-free diet.

@@ -3,7 +3,7 @@ title: "AASLD-IDSA 2023 Hepatitis C Guidance Update"
 category: source
 tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, glecaprevir, pibrentasvir, sofosbuvir, velpatasvir, screening, treatment, retreatment, transplant, pregnancy, PWID, HIV]
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-09-23
 sources: []
 ---
 
@@ -41,8 +41,9 @@ Key changes from 2020:
 
 **Simplified treatment eligibility criteria:**
 
-- **Eligible for simplified algorithm:** Adults with chronic HCV (including HIV/HCV coinfected), any genotype, treatment-naive, without cirrhosis OR with compensated cirrhosis (Child-Pugh A) as determined by liver stiffness ≤12.5 kPa, FIB-4 ≤3.25, noninvasive serologic test (FibroSure/ELF), liver biopsy, no liver nodularity/splenomegaly on imaging, platelet ≥150,000/mm³
-- **Excluded from simplified algorithm:** Previously received HCV treatment; HBsAg-positive; compensated cirrhosis + eGFR <30; current or prior decompensated cirrhosis (Child-Pugh ≥7); current pregnancy; known or suspected HCC; prior liver transplantation
+- **Eligible for simplified algorithm:** Adults with chronic HCV (including persons living with HIV), any genotype, not previously treated for HCV, **without cirrhosis OR with compensated cirrhosis (Child-Pugh A)**. Cirrhosis is established by **any one** of: liver stiffness **>12.5 kPa** by FibroScan; **FIB-4 >3.25**; a noninvasive serologic test (FibroSure or enhanced liver fibrosis test); liver biopsy; liver nodularity or splenomegaly on imaging; platelet count **<150,000/mm³**
+- **Excluded from simplified algorithm:** previously received HCV treatment; HBsAg-positive; compensated cirrhosis (Child-Pugh A) **with** end-stage renal disease (eGFR <30 mL/min/m²); current or prior decompensated cirrhosis (**Child-Pugh score ≥7**); current pregnancy; known or suspected HCC; prior liver transplantation
+  - Child-Pugh score here is based on presence of ascites, hepatic encephalopathy, total bilirubin >2.0 mg/dL, albumin ≤3.5 g/dL, or INR ≥1.7
 - Minimal monitoring: No pretreatment genotyping; dispense entire treatment course at entry; no scheduled on-treatment visits or labs; remote contact at week 4 (adherence); SVR at week 22 (week 24 completion). MINMON trial (phase 4, n=400): SVR 95% (379/399)
 
 ### Initial Treatment Recommendations — Adults (Table 1)
@@ -57,10 +58,10 @@ Key changes from 2020:
 | Ledipasvir/sofosbuvir | 1 without cirrhosis | Recommended | 8 wk | I, B | Not in HIV coinfected; HCV RNA <6M IU/mL |
 | Elbasvir/grazoprevir | 1b, 4 | Recommended | 12 wk | I, Aᵈ | — |
 | Elbasvir/grazoprevir | 1a | Alternative | 12 wk | I, A | NS5A RAS testing required; if baseline RAS at 28/30/31/93 → use another regimen |
-| SOF/VEL + wt-based RBV | 3 | Alternative | 12 wk | IIa, B | GT3 + comp cirrhosis + NS5a Y93 RAS |
-| SOF/VEL/VOX | 3 | Alternative | 12 wk | IIa, B | GT3 + comp cirrhosis + NS5a Y93 RAS |
+| SOF/VEL + wt-based RBV | 3 | Alternative | 12 wk | IIa, A | GT3 + comp cirrhosis + baseline NS5a Y93 RAS |
+| SOF/VEL/VOX | 3 | Alternative | 12 wk | IIa, B | GT3 + comp cirrhosis + baseline NS5a Y93 RAS |
 
-ᵃ I,B for GT5/6. ᵇ I,B for GT5/6; IIa,B for GT4 + comp cirrhosis. ᶜ IIa,B for GT5/6 and GT4 + comp cirrhosis. ᵈ IIa,B for GT4 + comp cirrhosis.
+ᵃ I,B for persons with compensated cirrhosis. ᵇ I,B for GT5 or 6. ᶜ IIa,B for GT5 or 6, and for GT4 + compensated cirrhosis. ᵈ IIa,B for GT4 + compensated cirrhosis.
 
 **G/P 8 weeks for compensated cirrhosis:** EXPEDITION-8 trial (GT1-6, n=343): SVR12 98% (335/343). No NS5A/NS3/4A resistance association with failure.
 
@@ -72,8 +73,10 @@ Elbasvir/grazoprevir for GT1a changed from Recommended to Alternative due to nee
 |---|---|---|---|---|---|
 | SOF/VEL + wt-based RBV | 1–6 | Recommended | 12 wk | I, Aᵉ | Low initial RBV dose 600 mg for CTP C; increase as tolerated |
 | SOF/VEL | 1–6 | Recommended | 24 wk | I, Aᵉ | For RBV-ineligible patients |
-| LDV/SOF + wt-based RBV | 1, 4, 5, 6 | Recommended | 12 wk | I, F | — |
-| LDV/SOF | 1, 4, 5, 6 | Recommended | 24 wk | I, F | For RBV-ineligible |
+| LDV/SOF + wt-based RBV | 1, 4, 5, 6 | Recommended | 12 wk | I, Aᶠ | Low initial RBV dose 600 mg for CTP C; increase as tolerated |
+| LDV/SOF | 1, 4, 5, 6 | Recommended | 24 wk | I, Aᶠ | For RBV-ineligible patients |
+
+ᵉ Only available data for GT6 are in persons with compensated cirrhosis. ᶠ Only available data for GT5 or 6 are in a small number of persons with compensated cirrhosis.
 
 **NS3/4A protease inhibitors (glecaprevir, grazoprevir, voxilaprevir) are CONTRAINDICATED in decompensated cirrhosis.**
 
@@ -124,7 +127,7 @@ MAGELLAN-3 trial: G/P + SOF + wt-RBV → SVR12 96% (22/23) in heavily DAA-experi
 | SOF/VEL + wt-based RBV | 24 wk | II, Cᵃ |
 | LDV/SOF + wt-based RBV | 24 wk | II, Cᵇ |
 
-ᵃ Only available data for GT5/6 in persons with compensated cirrhosis. ᵇ Only available for GT5/6 in compensated cirrhosis.
+ᵃ Only available data for GT5 or 6 are in persons with compensated cirrhosis. ᵇ Only available data for GT6 are in persons with compensated cirrhosis.
 
 ### Pediatric Treatment (≥3 years, Tables 3–4)
 

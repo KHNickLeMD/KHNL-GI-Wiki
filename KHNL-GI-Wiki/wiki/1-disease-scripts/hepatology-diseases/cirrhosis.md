@@ -81,15 +81,37 @@ Scores mix liver-disease severity, non-hepatic patient factors, and (for surgery
 
 **ALBI grade** (bilirubin + albumin only; no subjective ascites/encephalopathy): score = [log₁₀ bilirubin (µmol/L) × 0.66] + [albumin (g/L) × −0.085]. **Grade 1 ≤ −2.60; Grade 2 > −2.60 to ≤ −1.39; Grade 3 > −1.39** ([[nccn-2026-hcc]]).
 
+**Original MELD — the formula** ([[aga-2018-surgical-risk-perioperative-cirrhosis]]):
+
+**MELD** = 3.78 × logₑ(bilirubin, mg/dL) + 11.2 × logₑ(INR) + 9.57 × logₑ(creatinine, mg/dL) + 6.43
+
+- **Round to the nearest whole number.**
+- Patients on **renal replacement therapy are assigned a creatinine of 4.0 mg/dL**.
+
+**ASA Physical Status Classification** — the ASA term inside the Mayo and VOCAL-Penn scores ([[aga-2018-surgical-risk-perioperative-cirrhosis]]):
+
+| Class | Description |
+|---|---|
+| **1** | Normal healthy patient |
+| **2** | Mild systemic disease |
+| **3** | Severe systemic disease that is **not** life-threatening |
+| **4** | Severe systemic disease that is a **constant threat to life** |
+| **5** | **Moribund**, not expected to survive without the operation |
+| **6** | Brain-dead patient / organ donor |
+
+**Mayo Postoperative Mortality Risk Score** — an online calculator combining **MELD score, ASA class, and age**, with etiology of liver disease, predicting mortality at **7 days, 30 days, 90 days, 1 year, and long term**. Its advantage over MELD alone is the inclusion of age and ASA class ([[aga-2018-surgical-risk-perioperative-cirrhosis]]).
+
+> **MELD-Na in surgical risk.** The 2018 AGA update states that **MELD-Na has not been studied as a predictor of surgical outcomes in cirrhosis**, while [[acg-2025-perioperative-cirrhosis|ACG 2025]] lists MELD-Na among the risk scores in common use (table above). The newer ACG position governs current practice.
+
 > ⚠ **Which MELD — and which of them can be computed from this page.** The variants are **not interchangeable**; they differ by several points around exactly the cutoffs that decide management, so substituting one for another changes the decision.
 >
 > | Variant | Variables | Formula on this page? | Decisions that use it |
 > |---|---|---|---|
 > | **MELD 3.0** (current allocation score) | Bilirubin, INR, creatinine, sodium, albumin, female sex | **Yes** — above ([[nccn-2026-hcc]]) | LT referral threshold ([[liver-transplantation\|LT]]); [[hepatic-encephalopathy\|HE]] |
 > | **MELD-Na** | Bilirubin, INR, creatinine, sodium | **No** | ALD transplant referral (MELD-Na ≥21, [[alcohol-associated-liver-disease\|ALD]]); [[acg-2025-perioperative-cirrhosis\|ACG]] surgical risk table |
-> | **Original MELD** | Bilirubin, INR, creatinine | **No** | Severe alcohol-associated hepatitis (**original MELD >20**, explicitly *not* MELD-Na — [[alcohol-associated-liver-disease\|ALD]]); [[tips\|TIPS]] selection and futility thresholds |
+> | **Original MELD** | Bilirubin, INR, creatinine | **Yes** — above ([[aga-2018-surgical-risk-perioperative-cirrhosis\|AGA 2018]]) | Severe alcohol-associated hepatitis (**original MELD >20**, explicitly *not* MELD-Na — [[alcohol-associated-liver-disease\|ALD]]); [[tips\|TIPS]] selection and futility thresholds |
 >
-> For the two variants with no formula here, use an external calculator (the coefficients are in Kamath 2001 for original MELD and the MELD-Na derivation paper).
+> MELD-Na is the one variant with no formula here; use an external calculator (its coefficients are in the MELD-Na derivation paper).
 
 **Key severity anchors:**
 
@@ -271,7 +293,7 @@ Malnutrition, sarcopenia, and frailty are **very common and potentially modifiab
 - **Rec 2 (strong, moderate quality):** in severe thrombocytopenia (<50,000 K/mm³) undergoing invasive procedures, use **TPO receptor agonists** dosed to baseline platelet count
 - **Rec 3 (conditional, very low quality):** in cirrhosis + CSPH with an alternative [[tips|TIPS]] indication (e.g., refractory ascites), consider **preoperative TIPS**
 - **Rec 4 (conditional, very low quality):** for **major hepatic surgery**, refer to a high-volume liver surgery and/or transplant center when feasible
-- **Cholecystectomy:** laparoscopic approach generally favored in CTP A and B; most **CTP class C** patients have prohibitive risk and may benefit from supportive care and alternative drainage (percutaneous cholecystostomy, [[eus-guided-gallbladder-drainage|endoscopic drainage]], gallbladder aspiration)
+- **Cholecystectomy:** laparoscopic approach generally favored in CTP A and B; most **CTP class C** patients have prohibitive risk and may benefit from supportive care and alternative drainage (percutaneous cholecystostomy, [[eus-guided-gallbladder-drainage|endoscopic drainage]], gallbladder aspiration). The 2018 AGA update took the older, more restrictive line — **avoid elective cholecystectomy in any patient with confirmed cirrhosis**, and refer those who need it to a center experienced in this population; the ACG 2025 position above is what this page follows. **Pitfall:** in cirrhosis with ascites a thickened gallbladder wall usually reflects fibrotic thickening, not acute cholecystitis — diagnose cholecystitis only in the appropriate clinical setting, usually with biliary pain. Percutaneous cholecystostomy is generally not an option in CTP C or refractory ascites [[aga-2018-surgical-risk-perioperative-cirrhosis]]
 - **[[bariatric-surgery|Bariatric surgery]]** can be safely performed in selected patients with well-compensated cirrhosis; **laparoscopic sleeve gastrectomy is the procedure of choice** (Key concept 25; see [[obesity]]). In [[liver-transplantation|LT]] candidates with a bariatric indication, **sleeve gastrectomy before or at the time of transplantation** may be considered based on center expertise — data for bariatric surgery *after* LT are limited (Key concept 26)
 - **Nonhepatic comorbidities require independent assessment** — they affect postoperative mortality in cirrhosis and are not captured by CTP/MELD (Key concept 8); **preoperative frailty assessment** further informs risk (Key concept 13)
 - **Abdominal hernia:** surgical consultation after optimizing ascites control for elective repair may reduce incarceration or spontaneous rupture requiring higher-risk emergent repair

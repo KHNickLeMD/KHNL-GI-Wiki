@@ -3,7 +3,7 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-09-10
+updated: 2026-09-23
 sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd, acg-2020-esophageal-physiologic-testing, afs-2024-ge-valve-after-antireflux-surgery, aga-2022-personalized-gerd, aga-2020-functional-heartburn]
 ---
 
@@ -290,3 +290,5 @@ Recommend for all patients with GERD symptoms:
 6. [[aga-2023-extraesophageal-gerd|AGA Clinical Practice Update on the Diagnosis and Management of Extraesophageal Gastroesophageal Reflux Disease: Expert Review (2023)]]
 7. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]
 8. [[afs-2024-ge-valve-after-antireflux-surgery|American Foregut Society White Paper on the Endoscopic Assessment of the Gastroesophageal Valve After Anti-Reflux Surgery (2024)]]
+9. [[aga-2022-personalized-gerd|AGA Clinical Practice Update on the Personalized Approach to the Evaluation and Management of GERD: Expert Review (2022)]]
+10. [[aga-2020-functional-heartburn|AGA Clinical Practice Update on Functional Heartburn: Expert Review (2020)]]

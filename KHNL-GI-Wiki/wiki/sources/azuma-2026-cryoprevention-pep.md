@@ -3,8 +3,8 @@ title: "Local Postprocedural Cryoprevention Significantly Reduces the Incidence 
 category: source
 tags: [ercp, post-ercp-pancreatitis, pep, cryoprevention, ice-water, rct, prophylaxis, pancreas]
 created: 2026-09-18
-updated: 2026-09-18
-sources: []
+updated: 2026-09-23
+sources: [asge-2023-post-ercp-pancreatitis, suzuki-2021-pep-acute-pancreatitis-criteria]
 ---
 
 # Local Postprocedural Cryoprevention Significantly Reduces the Incidence of Post-ERCP Pancreatitis (EUTOPIA)

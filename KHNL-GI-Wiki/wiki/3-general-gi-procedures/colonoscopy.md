@@ -3,8 +3,8 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
-updated: 2026-09-08
-sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia, aga-2021-gi-perforations-endoscopic-management]
+updated: 2026-09-23
+sources: [aga-2021-colonoscopy-quality, usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia, aga-2021-gi-perforations-endoscopic-management]
 ---
 
 # Colonoscopy
@@ -70,13 +70,18 @@ sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmst
 
 All surveillance recommendations assume high-quality examination. [[usmstf-2020-followup-colonoscopy]]
 
-- **ADR:** ≥30% men, ≥20% women; colonoscopist-level benchmark [[usmstf-2020-followup-colonoscopy]]. ⚠ **Denominator qualifier is not stated by this source.** [[usmstf-2015-crc-surveillance]] and [[usmstf-2021-crc-screening-age]] instead give an **overall ADR >25% (≥25%) in average-risk screening colonoscopies**. The two figures are not reconciled by either document — apply the one whose population matches the exam you are auditing, and note which document you are using.
-- **Cecal intubation:** ≥95%; photo document appendiceal orifice, IC valve, or terminal ileum
+**The full indicator set — goals, aspirational targets, the level each is measured at, the ADR/SDR denominators, and the remediation ladder — lives on [[colonoscopy-quality-indicators]].** Headline benchmarks ([[aga-2021-colonoscopy-quality|AGA 2021]], ungraded): **ADR ≥30%** (aspirational ≥35%), **serrated lesion detection rate ≥7%** (≥10%), **cecal intubation ≥90%** (≥95%), **mean withdrawal time ≥6 min** in normal exams (≥9 min), **bowel prep adequacy ≥90%** (≥95%). ⚠ These differ from the sex-specific **ADR ≥30% men / ≥20% women** ([[usmstf-2020-followup-colonoscopy]]) and the **overall ADR >25%** of [[usmstf-2015-crc-surveillance]] / [[usmstf-2021-crc-screening-age]]; the comparison table naming which applies where is on [[colonoscopy-quality-indicators]].
+
+Procedure-level items that belong to this page:
+
 - **Adequate bowel prep:** able to visualize polyps >5mm; **target >90%** at endoscopist and unit level [[usmstf-2025-bowel-prep]]. Segment-level adequacy cutoff: see [[#Preparation Quality Scales]].
+- **Photodocument the cecal landmarks** — appendiceal orifice and ileocecal valve (or terminal ileum) — in the report. [[aga-2021-colonoscopy-quality]]
+- **Second look of the right colon**, retroflexed or forward view (equally effective): withdraw to the hepatic flexure inspecting and clearing polyps, then reintubate the cecum and re-examine the proximal colon — increases ADR by **5%–20%**. [[aga-2021-colonoscopy-quality]]
+- **High-definition colonoscopes** for screening and surveillance — definite but modest gains in adenoma, serrated polyp, and advanced adenoma detection. [[aga-2021-colonoscopy-quality]]
 - **Post-polypectomy bleeding rate:** **≤1 per 100 colonoscopies** — see [[#Complications]].
 - **Complete polypectomy:** all visually detected polypoid tissue removed. ⚠ No numeric target rate is given in any source cited on this page.
-- **No withdrawal-time indicator** (the conventional ≥6 min in normal-exam colonoscopies) appears in the sources cited here; it is in the ASGE/ACG *Quality Indicators for Colonoscopy* document.
 - Document polyp size ≥10mm with comparison to open snare/forceps of known size
+- **Report contents** — indication, extent of examination, prep quality, findings and interventions, follow-up plan **with its rationale whenever the assigned interval deviates from guidelines** (eg, inadequate prep, incomplete resection); resumption of anticoagulants/antiplatelets; pathology and interval communicated to the patient and primary care provider. Full CO-RADS element list: [[colonoscopy-quality-indicators#Documentation|colonoscopy-quality-indicators]]. [[aga-2021-colonoscopy-quality]]
 
 ### Artificial Intelligence (CADe / CADx)
 
@@ -282,7 +287,7 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 
 ## See Also
 
-[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-surveillance]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[artificial-intelligence-endoscopy]], [[endoscopy-sedation]], [[endoscopic-ultrasound]], [[anticoagulation-gi-bleeding]], [[endoscopic-hemostasis]], [[capsule-endoscopy]], [[iron-deficiency-anemia]], [[endoscopic-management-of-perforation]], [[endoscopic-full-thickness-resection]]
+[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-quality-indicators]], [[colonoscopy-surveillance]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[artificial-intelligence-endoscopy]], [[endoscopy-sedation]], [[endoscopic-ultrasound]], [[anticoagulation-gi-bleeding]], [[endoscopic-hemostasis]], [[capsule-endoscopy]], [[iron-deficiency-anemia]], [[endoscopic-management-of-perforation]], [[endoscopic-full-thickness-resection]]
 
 ---
 
@@ -303,3 +308,4 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 13. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary]]
 14. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
 15. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review (2021)]]
+16. [[aga-2021-colonoscopy-quality|AGA Clinical Practice Update on Strategies to Improve Quality of Screening and Surveillance Colonoscopy: Expert Review (2021)]]

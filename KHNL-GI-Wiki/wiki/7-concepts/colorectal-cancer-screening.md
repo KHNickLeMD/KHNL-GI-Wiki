@@ -1,24 +1,32 @@
 ---
 title: "Colorectal Cancer Screening"
 category: concept
-tags: [crc, colorectal-cancer, screening, colonoscopy, fit, colonoscopy-quality, adenoma, colorectal]
+tags: [crc, colorectal-cancer, screening, colonoscopy, fit, gfobt, multitarget-stool-dna, septin-9, colonoscopy-quality, adenoma, colorectal]
 created: 2026-05-16
-updated: 2026-09-08
-sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-screening-risk-stratification, aga-2025-crc-blood-tests, aga-2021-crc-chemoprevention]
+updated: 2026-09-23
+sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-screening-risk-stratification, aga-2025-crc-blood-tests, aga-2021-crc-chemoprevention, aga-2022-noninvasive-crc-screening, usmstf-2016-fit-screening]
 ---
 
 ## Contents
 - [[#Overview]]
+- [[#Risk Tiers — Who Is Average Risk]]
 - [[#Screening Age Recommendations (ACG 2021)]]
 - [[#Symptomatic Adults Under 50 — a Diagnostic, Not a Screening, Question]]
 - [[#Screening Modalities]]
+  - [[#Endorsement and Interval Matrix]]
   - [[#Preferred Modalities]]
   - [[#Acceptable Alternative Modalities (conditional)]]
   - [[#Not Recommended]]
+- [[#Noninvasive Test Performance — the Numbers Behind the Choice]]
+  - [[#FIT — Positivity Threshold Sets the Performance]]
+  - [[#Multi-Target Stool DNA (MTsDNA, Cologuard)]]
+  - [[#Positive MTsDNA, Negative Colonoscopy]]
+  - [[#Septin 9 and Urine Testing]]
 - [[#Blood-Based CRC Screening (AGA 2025 CPU)]]
   - [[#Validated Tests — Diagnostic Performance]]
   - [[#Effectiveness vs Established Tests (decision-analytic modeling, 4 validated models)]]
   - [[#Positioning and Caveats]]
+- [[#Program Quality Metrics for Noninvasive Screening]]
 - [[#Colonoscopy Quality Indicators]]
 - [[#Family History Risk Stratification]]
 - [[#Chemoprevention of Colorectal Neoplasia]]
@@ -32,6 +40,28 @@ sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-sc
 ## Overview
 
 [[colorectal-cancer|Colorectal cancer]] (CRC) is the second leading cause of cancer death in the US. CRC screening reduces mortality both by detecting cancer at early (curable) stages and by removing precancerous polyps. This page covers screening for average-risk and elevated-family-history-risk adults. For post-[[polypectomy|polypectomy]] surveillance intervals, see [[colonoscopy-surveillance]].
+
+---
+
+## Risk Tiers — Who Is Average Risk
+
+**Average risk = no symptoms and none of the features below.** It is ~75%–80% of the US population and the only group for whom noninvasive testing is an appropriate first choice; above-average risk starts screening younger and is screened preferentially by colonoscopy ([[aga-2022-noninvasive-crc-screening]]).
+
+| Risk category | Lifetime CRC risk | Defining features |
+|---|---|---|
+| **Very high** | >20% | Personal or family history of a hereditary CRC syndrome — adenomatous polyposis syndromes ([[familial-adenomatous-polyposis\|FAP]]), [[lynch-syndrome\|Lynch syndrome]], hamartomatous polyposis syndromes; [[serrated-polyposis-syndrome\|serrated polyposis syndrome]] |
+| **High** | 10%–20% | 1 or more first-degree relative with CRC **younger than 60 y**, or 2 first-degree relatives at any age; personal history of advanced adenoma or advanced serrated polyp; [[inflammatory-bowel-disease\|IBD]] |
+| **Average** | 4% | No symptoms and none of the above |
+
+⚠ **The <60-year family-history cutoff is the older framing.** [[aga-2023-crc-screening-risk-stratification|AGA 2023]] treats **any** first-degree relative with CRC as increased risk (see [[#Family History Risk Stratification]]); the percentage bands above are the part of the 2022 table that the 2023 update does not supply.
+
+**Within the average-risk pool, risk is still graded** — steer noninvasive testing toward the low end and conserve colonoscopy for the high end:
+
+- **Age is the main gradient.** CRC incidence 35.1/100,000 at ages 45–49 → 61.2/100,000 at 50–54. Risk-scoring work suggests **most individuals by age 60** would fall out of the noninvasive-testing group.
+- **Sex:** premenopausal women have lower CRC risk than same-age men of every race and ethnicity, and the age-adjusted difference persists with advancing age.
+- **Race/ethnicity:** Black incidence 43.6 vs White 36.6/100,000; mortality 18.5 vs 13.6/100,000 — by ages 50–54, incidence in Black men and women is significantly higher than in White or Hispanic men and women. Alaska Native and American Indian populations rank second in incidence (42.3/100,000) and mortality (15.1/100,000).
+- **Modifiable:** smoking, alcohol, [[obesity]], waist circumference, physical activity, diet, aspirin/NSAID use. Current smoking, obesity, and low physical activity may mark **younger** individuals who should get colonoscopy rather than a stool test.
+- **Genomic risk scores** (SNP panels ± clinical factors) show only **mild discriminatory value by AUC** for predicting advanced neoplasia. No risk-stratification scheme has yet been shown to reduce CRC incidence or mortality.
 
 ---
 
@@ -54,6 +84,12 @@ The age-45 start was first advanced by the **American Cancer Society (2018)** as
 - Arguments raised **against** lowering the age: diverting resources from **medically underserved** people; excessive financial health care costs; inhibiting proper randomized testing of the recommendation itself; and — the one that survives the move to 45 — that *"the basic biology of young adult–onset CRC may differ and thus not be amenable to the current screening modalities."*
 - **International comparison:** of the only 3 countries with *declining* young adult–onset CRC incidence, 2 endorse starting average-risk screening in the fourth decade — **44 years of age in Italy**, **40 years of age in Austria**.
 
+**What the modelling actually buys** ([[aga-2022-noninvasive-crc-screening]]) — the true reduction in CRC incidence or mortality from screening ages 45–49 remains unknown:
+
+- Screening with **any** recommended strategy from age 45 through 75, per **1000 adults**: **286–337 life-years gained**, **42–61 CRCs avoided**, **24–28 CRC deaths avoided** — better than starting at 50.
+- Starting at 45 rather than 50: **+6.2% life-years gained** but **+17% colonoscopy**, depending on modality chosen.
+- **Hybrid strategy worth knowing:** annual FIT ages **45–49**, then colonoscopy ages **50–70**, modelled as the best balance of lives gained against colonoscopies performed — the practical expression of "use sensitive noninvasive tests in younger screenees and conserve colonoscopy for when risk rises."
+
 ---
 
 ## Symptomatic Adults Under 50 — a Diagnostic, Not a Screening, Question
@@ -69,6 +105,26 @@ The age-45 start was first advanced by the **American Cancer Society (2018)** as
 
 ## Screening Modalities
 
+> **Any positive noninvasive test is an indicator of CRC risk and must be followed by a timely, high-quality [[colonoscopy]] to complete the screening spectrum.** A noninvasive program that does not deliver that colonoscopy has not screened anyone.
+
+### Endorsement and Interval Matrix
+
+Which average-risk options each body endorses, with the interval ([[aga-2022-noninvasive-crc-screening]]). `+` = endorsed; `NR` = not recommended.
+
+| Method | Interval | USPSTF | USMSTF | ACG |
+|---|---|---|---|---|
+| [[colonoscopy\|Colonoscopy]] | every 10 y | + | + | + |
+| High-sensitivity gFOBT | every 1 y | + | No comment | + |
+| FIT | every 1 y | + | + | + |
+| MTsDNA | every 1–3 y | + | + | + |
+| CT colonography | every 5 y | + | + | + |
+| Flexible sigmoidoscopy | every 5–10 y | + | + | + |
+| Capsule colonoscopy ([[capsule-endoscopy]]) | every 5 y | + | + | + |
+| Septin 9 | — | No comment | NR | NR |
+
+- **MTsDNA interval is a genuine society split:** USPSTF backs the 1-year end, ACG and USMSTF the 3-year end. This page asserts **every 3 years** ([[acg-2021-crc-screening]]).
+- **gFOBT** still works — randomized trials show annual or biennial gFOBT reduces CRC mortality — but FIT has supplanted it worldwide on **greater patient adherence, no dietary or medication restrictions, and fewer samples required**. Only *high-sensitivity* gFOBT is endorsed.
+
 ### Preferred Modalities
 
 | Modality | Interval | Strength | Notes |
@@ -80,14 +136,70 @@ The age-45 start was first advanced by the **American Cancer Society (2018)** as
 
 | Modality | Interval | Strength | Notes |
 |----------|----------|---------|-------|
-| Multi-target stool DNA (mtsDNA, Cologuard) | Every 3 years | Conditional | FIT + methylated DNA markers; higher sensitivity but lower specificity than FIT; more false positives → unnecessary colonoscopies |
+| Multi-target stool DNA (mtsDNA, Cologuard) | Every 3 years | Conditional | FIT + methylated DNA markers; higher sensitivity but lower specificity than FIT; more false positives → unnecessary colonoscopies. Numbers in [[#Multi-Target Stool DNA (MTsDNA, Cologuard)]] |
 | Flexible sigmoidoscopy | Every 5–10 years | Conditional | Views only left colon; acceptable where colonoscopy unavailable or patient preference |
 | CT colonography (CTC) | Every 5 years | Conditional | No sedation; bowel prep required; incidental extracolonic findings; polyps >6 mm → colonoscopy |
 | Colon [[capsule-endoscopy\|capsule endoscopy]] | Every 5 years | Conditional | Limited data; not widely available; bowel prep required |
 
 ### Not Recommended
 
-- **Septin-9 blood test:** Conditional recommendation against (ACG 2021) — Very low evidence; insufficient sensitivity/specificity. *Note: this predates the newer cfDNA blood tests below, which are a distinct test class.*
+- **Septin-9 blood test:** Conditional recommendation against (ACG 2021) — Very low evidence; insufficient sensitivity/specificity (figures in [[#Septin 9 and Urine Testing]]). *Note: this predates the newer cfDNA blood tests below, which are a distinct test class.*
+
+---
+
+## Noninvasive Test Performance — the Numbers Behind the Choice
+
+*Source for this whole section: [[aga-2022-noninvasive-crc-screening]], with threshold detail from [[usmstf-2016-fit-screening]].*
+
+### FIT — Positivity Threshold Sets the Performance
+
+FIT measures **human hemoglobin**, so it is unaffected by dietary peroxidase. It is reported either **quantitatively, in µg hemoglobin per g of stool**, or — as FDA-approved — **qualitatively as positive/negative against a threshold value**. The threshold is the decision: lowering it buys sensitivity and costs specificity and colonoscopies.
+
+- **Positivity threshold: ≤20 µg Hb/g feces** (USMSTF), supported by two meta-analyses for detection of CRC and advanced adenoma. This is also the threshold of the commonly available US quantitative tests.
+- ⚠ **FIT has no utility for serrated colorectal lesion detection.** A patient whose risk is serrated-pathway risk is not served by FIT.
+
+Sensitivity and specificity, % (95% CI). *AA = advanced adenoma. The source prints `NR` where a value is not given.*
+
+| Source / cutoff | Sens — CRC | Sens — AA | Spec — CRC | Spec — AA |
+|---|---|---|---|---|
+| **Selby 2019 meta-analysis** | | | | |
+| ≤10 µg/g | 80 (76–83) | 31 (27–35) | 91 (89–93) | NR |
+| >10 to ≤20 µg/g | 69 (63–75) | 21 (18–25) | 94 (93–96) | NR |
+| >20 to ≤30 µg/g | 73 (62–81) | 18 (13–23) | 96 (95–97) | NR |
+| **Imperiale 2019 meta-analysis** | | | | |
+| 10 µg/g | 91 (84–95) | 40 (33–47) | 90 (86–93) | 90 (87–93) |
+| 20 µg/g | 75 (61–86) | 25 (20–31) | 95 (92–96) | 95 (93–96) |
+| **Pivotal trial**, FIT at 20 µg/g | 74 (61–84) | 24 (21–27) | 95 (94–95) | NR |
+
+### Multi-Target Stool DNA (MTsDNA, Cologuard)
+
+- **Composition:** an FIT **+** 2 DNA methylation markers (*BMP3*, *NDRG-4*) **+** assessment of *KRAS* mutations **+** a marker of total human DNA. Positivity comes from a **validated, prespecified logistic regression algorithm**, and the result does **not** tell you which component was positive.
+- **Approved population: average-risk adults aged 45–85 years only.**
+
+| Pivotal trial (FIT at 20 µg/g vs MTsDNA) | MTsDNA | FIT | *P* |
+|---|---|---|---|
+| Sensitivity — CRC | 92.3% | 73.8% | .002 |
+| Sensitivity — AA + sessile serrated polyps ≥10 mm | 42.4% | 23.8% | <.001 |
+| Specificity — CRC | 86.6% | 94.9% | <.001 |
+
+**That trade is the whole choice:** MTsDNA finds ~1 in 5 more cancers and nearly twice the advanced precursors, at the price of roughly 8 percentage points of specificity — i.e. more false positives and more unnecessary colonoscopies.
+
+- **Alaska Native population:** detection of CRC, AA, and sessile serrated polyps >10 mm — **50% MTsDNA vs 31% FIT** (*P* = .01). CRC sensitivity/specificity: MTsDNA **100%/93%**, FIT **75%/96%**.
+- **Black participants:** overall sensitivity/specificity for CRC and AA — MTsDNA **43%/91%** vs FIT **32%/97%**; performance **did not differ between Black and White participants**.
+
+### Positive MTsDNA, Negative Colonoscopy
+
+**Do not go looking up the aerodigestive tract.** Absent symptoms or signs of upper GI pathology, upper GI evaluation is not indicated (USMSTF), and a negative high-quality colonoscopy should not trigger further testing.
+
+- In 1216 of 9166 pivotal-trial participants with a negative (normal or only non-advanced-adenoma) colonoscopy and comprehensive cancer follow-up, at median **5.4 years**: incident aerodigestive cancers in **2.4% of discordant** (negative colonoscopy + positive MTsDNA) vs **1.1% of concordant** results — **no difference in risk ratio**.
+- Versus SEER expectation: concordant group **RR 0.4 (95% CI 0.2–0.6)**; discordant group **RR 0.8 (95% CI 0.3–1.9)** — not significantly greater than expected.
+
+### Septin 9 and Urine Testing
+
+- **Septin 9 (Epi proColon)** — PCR-based qualitative detection of methylation of the *Septin 9* promoter. FDA-approved (**not** Medicare-covered) for average-risk adults **≥50 y who have first been offered other USPSTF-endorsed tests and refused**. Endorsed by **no** CRC screening guideline.
+  - In 7941 asymptomatic average-risk adults >50 y (US and Germany) undergoing screening colonoscopy, on 2 PCR replicates in 53 patients with CRC and 1457 without: **CRC sensitivity 48% (32–64), specificity 91.5% (90–93); advanced-adenoma sensitivity 11.2%** — 11 (7–16) in the table. With a third PCR replicate, sensitivity 63.9% and specificity 88.4%.
+  - Modeling caveat worth knowing: assuming **perfect adherence**, annual Septin 9 produced more QALYs gained and more CRC cases and deaths averted than annual FIT — **but with high rates of colonoscopy**. That is the opposite framing from the triennial-cfDNA modeling below; the assumptions, not the biology, differ.
+- **PolypDx** (metabolomic urine test for adenomas): 867 Canadian patients, validated in 661 Chinese participants. Adenoma sensitivity **89%** (unblinded training) and **83%** (blinded) with specificity **50%** and **51%**; Chinese study sensitivity **83%**, specificity **42.4%**. **Not commercially available.**
 
 ---
 
@@ -123,6 +235,25 @@ The age-45 start was first advanced by the **American Cancer Society (2018)** as
 - **Programmatic requirement:** abnormal blood test → must complete colonoscopy; normal → repeat at appropriate interval. ~50% of patients do not complete colonoscopy within 3–6 months of a positive stool test; whether decliners of screening colonoscopy will complete it after a positive blood test is unknown.
 - **Multicancer detection tests (e.g., Galleri):** sensitivity 51.5%, specificity 99.5% — investigational; mortality benefit unproven; premature for CRC screening. Interval blood tests between colonoscopies also premature.
 - **Bottom line:** blood tests may improve participation but could cause **net harm if substituted** for more effective tests; for patients who decline all other screening, they are an acceptable option.
+
+---
+
+## Program Quality Metrics for Noninvasive Screening
+
+Targets proposed by [[aga-2022-noninvasive-crc-screening]] as "aspirational, but attainable." A noninvasive screening program is only as good as the colonoscopy that follows a positive result — **delays beyond 6 months after a positive FIT are associated with higher risk of advanced adenoma, CRC, and advanced-stage CRC.**
+
+| Metric | Target |
+|---|---|
+| Noninvasive tests **completed** / tests ordered | **≥90% within 1 year** of ordering |
+| Outreach to patients who have not completed testing | trigger at **1 month** after ordering |
+| Outreach to deliver the **test result** | **100% of patients within ≤2 weeks** of the result |
+| Positive test → patient **offered a colonoscopy date** | **≥80% within 3 months**, **100% within 6 months** |
+| Colonoscopies **performed** / colonoscopies recommended | **≥95% within 6 months** of the positive test |
+
+- **Exclusions** from the two completion metrics: too sick to undergo the test or colonoscopy, moved, or uncontactable by phone or mail.
+- **Every** patient with a positive result gets a recommendation for colonoscopy. **Negative** results get told the recall interval *and* how recall will happen (GI practice, primary care, or patient calling).
+- **Patient selection is a quality metric too.** Programs should document and report efforts to obtain an accurate **3-generation family cancer history**, with attention to CRC and advanced adenomas **including age at diagnosis** — high-risk patients belong in colonoscopy, not a stool test.
+- Unmet targets should trigger a root-cause review (patient noncompliance vs program process). Performance should be measured and ideally reported publicly.
 
 ---
 
@@ -237,7 +368,7 @@ What [[acg-2021-crc-screening]] itself recommends (the fuller metric set lives o
 
 ## See Also
 
-[[colonoscopy]], [[colorectal-cancer]], [[lynch-syndrome]], [[polypectomy]], [[colonoscopy-surveillance]], [[familial-adenomatous-polyposis]], [[capsule-endoscopy]], [[serrated-polyposis-syndrome]], [[artificial-intelligence-endoscopy]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[peptic-ulcer-disease]], [[upper-gi-bleeding]]
+[[colonoscopy]], [[colorectal-cancer]], [[early-onset-colorectal-cancer]], [[lynch-syndrome]], [[polypectomy]], [[colonoscopy-surveillance]], [[familial-adenomatous-polyposis]], [[capsule-endoscopy]], [[serrated-polyposis-syndrome]], [[artificial-intelligence-endoscopy]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[obesity]], [[peptic-ulcer-disease]], [[upper-gi-bleeding]]
 
 ---
 
@@ -248,3 +379,5 @@ What [[acg-2021-crc-screening]] itself recommends (the fuller metric set lives o
 3. [[aga-2023-crc-screening-risk-stratification|AGA Clinical Practice Update on Risk Stratification for Colorectal Cancer Screening and Post-Polypectomy Surveillance: Expert Review (2023)]]
 4. [[aga-2025-crc-blood-tests|AGA Clinical Practice Update on Current Role of Blood Tests for Colorectal Cancer Screening: Commentary (2025)]]
 5. [[aga-2021-crc-chemoprevention|AGA Clinical Practice Update on Chemoprevention for Colorectal Neoplasia: Expert Review (2021)]]
+6. [[aga-2022-noninvasive-crc-screening|AGA Clinical Practice Update on Approach to the Use of Noninvasive Colorectal Cancer Screening Options: Commentary (2022)]]
+7. [[usmstf-2016-fit-screening|USMSTF 2016 — Recommendations on Fecal Immunochemical Testing to Screen for Colorectal Neoplasia]]
