@@ -3,7 +3,7 @@ title: "Mesalamine and the 5-Aminosalicylates (5-ASA)"
 category: med
 tags: [5-asa, mesalamine, sulfasalazine, olsalazine, aminosalicylate, ibd, ulcerative-colitis, crohns, proctitis, topical-therapy, oral, rectal]
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-24
 sources: [acg-2025-uc, acg-2025-crohns, acg-2019-uc, acg-2018-crohns, aga-2024-uc-pharm, aga-2021-crohns-pharm, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia, aga-2024-pouchitis, aga-2022-refractory-celiac, acg-2026-diverticulitis]
 ---
 
@@ -266,7 +266,7 @@ Readers carry the old numbers in their heads, so the deltas matter:
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[pouchitis]], [[anti-tnf-agents]], [[jak-inhibitors]], [[vedolizumab]], [[il-23-and-il-12-23-inhibitors]], [[thiopurines]], [[tacrolimus]], [[probiotics]], [[diverticulitis]], [[segmental-colitis-associated-with-diverticulosis]], [[celiac-disease]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy-surveillance]], [[ibd-endoscopic-scoring]], [[ibd-preventive-care]], [[uc-vs-crohns-comparison]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[microscopic-colitis]], [[pouchitis]], [[anti-tnf-agents]], [[jak-inhibitors]], [[vedolizumab]], [[il-23-and-il-12-23-inhibitors]], [[thiopurines]], [[tacrolimus]], [[probiotics]], [[diverticulitis]], [[segmental-colitis-associated-with-diverticulosis]], [[celiac-disease]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy-surveillance]], [[ibd-endoscopic-scoring]], [[ibd-preventive-care]], [[uc-vs-crohns-comparison]]
 
 ---
 

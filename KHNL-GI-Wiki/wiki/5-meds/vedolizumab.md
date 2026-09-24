@@ -3,7 +3,7 @@ title: "Vedolizumab"
 category: med
 tags: [vedolizumab, anti-integrin, alpha4beta7, biologic, ibd, crohns, ulcerative-colitis, pouchitis, immune-checkpoint-inhibitor, gut-selective]
 created: 2026-09-04
-updated: 2026-09-08
+updated: 2026-09-24
 sources: [acg-2025-uc, acg-2025-crohns, acg-2019-uc, acg-2018-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2024-pouchitis, aga-2021-ici-colitis-hepatitis, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -215,7 +215,7 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 | **When a cancer develops** | **No change** to anti-integrin therapy for lymphoma, other hematologic malignancy, melanoma, NMSC, or solid-organ malignancy (limited data) — the drugs of concern are [[thiopurines]] and [[anti-tnf-agents\|anti-TNF]] | [[aga-2024-ibd-malignancy]] Table 1 |
 | **Vaccines** | Vaccine immunogenicity is blunted by anti-TNF (especially with thiopurines/methotrexate), **less so by non-TNF biologics including vedolizumab**. Vaccinate regardless of timing within the treatment cycle | [[acg-2025-ibd-preventive-care]] |
 | **Pregnancy** | **Data limited but no increased risk reported** | [[aga-2024-pregnancy-gi-liver]] |
-| **Therapeutic drug monitoring** | **Insufficient evidence** to recommend measuring serum concentrations | [[acg-2025-uc]] KC 37 |
+| **[[therapeutic-drug-monitoring-ibd\|Therapeutic drug monitoring]]** | **Insufficient evidence** to recommend measuring serum concentrations | [[acg-2025-uc]] KC 37 |
 
 *See [[ibd-preventive-care]] for the full IBD vaccination and cancer-screening schedule, and [[ibd-in-malignancy]] for drug-by-drug management once a malignancy develops.*
 
@@ -243,7 +243,7 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[anti-tnf-agents]], [[thiopurines]], [[calcineurin-inhibitors]], [[tacrolimus]], [[pouchitis]], [[immune-checkpoint-inhibitor-colitis]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[uc-vs-crohns-comparison]], [[toxic-megacolon]], [[ibd-endoscopic-scoring]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[anti-tnf-agents]], [[thiopurines]], [[calcineurin-inhibitors]], [[tacrolimus]], [[pouchitis]], [[immune-checkpoint-inhibitor-colitis]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[uc-vs-crohns-comparison]], [[toxic-megacolon]], [[ibd-endoscopic-scoring]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[therapeutic-drug-monitoring-ibd]]
 
 ---
 

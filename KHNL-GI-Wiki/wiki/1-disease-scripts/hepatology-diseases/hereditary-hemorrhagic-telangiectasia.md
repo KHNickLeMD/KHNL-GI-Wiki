@@ -117,7 +117,7 @@ The liver rules above are **not** the whole surveillance program. [[aga-2022-ham
 |---|---|
 | **HOHF** | Sodium restriction, **diuretics**, **beta-blockers**; correct **anemia** and **atrial fibrillation** (both worsen symptoms by ↓O₂ delivery / ↓cardiac output). Pregnant patients: treat medically and **deliver as expeditiously as possible** |
 | **[[portal-hypertension\|Portal hypertension]]** | Treat the specific complications ([[ascites]], varices, [[variceal-upper-gi-bleeding\|variceal hemorrhage]]) as for [[cirrhosis]]. **[[tips\|TIPS]] does NOT ameliorate bleeding from GI arteriovenous malformations** |
-| **Secondary sclerosing cholangitis** | Ursodeoxycholic acid may be used — **no data support this** |
+| **Secondary sclerosing cholangitis** | [[ursodeoxycholic-acid\|Ursodeoxycholic acid]] may be used — **no data support this** |
 | **Biloma** | No treatment if asymptomatic; analgesics if painful; **urgent antibiotics** if [[acute-cholangitis\|cholangitis]] or infected biloma; drainage if pain/infection not improving |
 | **Mesenteric ischemia** | Smaller, more frequent meals + analgesics |
 

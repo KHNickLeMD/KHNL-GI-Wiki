@@ -248,7 +248,7 @@ Requires **2 of the 3 PBC criteria**, plus — on a background of **interface he
 > ⚠ **The two AASLD guidelines state Paris differently — know which framing you are using.** [[aasld-2018-pbc]], approaching from an established PBC diagnosis, defines Paris as **"two of the following three"** *AIH* criteria, counting **liver biopsy with moderate or severe interface hepatitis as the third criterion** (a: ALT >5× ULN; b: IgG ≥2× ULN **and/or** SMA+; c: moderate/severe interface hepatitis). [[aasld-2020-autoimmune-hepatitis]], approaching from AIH, instead requires **2 of 3 PBC criteria** *plus* **both** AIH criteria, with interface hepatitis a **prerequisite** rather than a countable item. The practical difference: under the PBC framing a patient with interface hepatitis + IgG ≥2× ULN qualifies **without** ALT >5× ULN; under the AIH framing they do not. **This page follows the newer [[aasld-2020-autoimmune-hepatitis]] framing (table above)**; the 2018 PBC wording is recorded here so readers carrying it are not caught out.
 
 - Paris criteria performance: sensitivity 92%, specificity 97% (single-centre) — but the IAIHG notes the AIH–PBC criteria were never independently validated, and the criteria **miss** patients with less pronounced cholestatic labs, who can still improve on conventional AIH immunosuppression
-- Treatment: predniso(lo)ne + AZA directed at the AIH component; see [[primary-biliary-cholangitis]] for the UDCA component
+- Treatment: predniso(lo)ne + AZA directed at the AIH component; see [[primary-biliary-cholangitis]] for the [[ursodeoxycholic-acid|UDCA]] component
 
 **AIH-PSC overlap:** [[aasld-2020-autoimmune-hepatitis]]
 

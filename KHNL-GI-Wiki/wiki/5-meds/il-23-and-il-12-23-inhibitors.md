@@ -3,7 +3,7 @@ title: "IL-23 and IL-12/23 Inhibitors"
 category: med
 tags: [ustekinumab, risankizumab, mirikizumab, guselkumab, il-23, il-12-23, biologic, ibd, crohns, ulcerative-colitis, interleukin-inhibitor]
 created: 2026-09-06
-updated: 2026-09-08
+updated: 2026-09-24
 sources: [acg-2025-uc, acg-2025-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care]
 ---
 
@@ -172,7 +172,7 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 
 ## Gaps
 
-- *The guidelines give no **infusion/injection-reaction rates, pre-treatment TB or HBV screening requirements, immunogenicity / antidrug-antibody rates, or therapeutic drug monitoring targets** for any agent in this class. [[acg-2025-crohns]] prints trough targets for anti-TNF only (IFX >5 μg/mL, ADA >7.5 μg/mL, CZP >20 μg/mL); do not assume they transfer.*
+- *The guidelines give no **infusion/injection-reaction rates, pre-treatment TB or HBV screening requirements, immunogenicity / antidrug-antibody rates, or [[therapeutic-drug-monitoring-ibd|therapeutic drug monitoring]] targets** for any agent in this class. [[acg-2025-crohns]] prints trough targets for anti-TNF only (IFX >5 μg/mL, ADA >7.5 μg/mL, CZP >20 μg/mL); do not assume they transfer.*
 - *The guidelines give no **primary-nonresponse assessment interval** for any IL-23 agent — no equivalent of the "week 6 vs week 10" guidance that exists for [[vedolizumab]].*
 - *The guidelines state no **dose-escalation or dose-optimization strategy** for loss of response within this class.*
 - *Placebo-controlled efficacy data (remission rates, pivotal trial names other than SEQUENCE and SEAVUE) for guselkumab, mirikizumab, and risankizumab are not given on this page.*
@@ -183,7 +183,7 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[ibd-preventive-care]], [[ibd-in-malignancy]], [[uc-vs-crohns-comparison]], [[ibd-endoscopic-scoring]], [[jak-inhibitors]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[ibd-preventive-care]], [[ibd-in-malignancy]], [[uc-vs-crohns-comparison]], [[ibd-endoscopic-scoring]], [[jak-inhibitors]], [[therapeutic-drug-monitoring-ibd]]
 
 ---
 

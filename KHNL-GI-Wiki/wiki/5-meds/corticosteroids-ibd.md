@@ -3,7 +3,7 @@ title: "Corticosteroids in IBD (systemic, budesonide CIR, budesonide MMX)"
 category: med
 tags: [ibd, crohns-disease, ulcerative-colitis, corticosteroids, budesonide, prednisone, methylprednisolone, hydrocortisone, induction, steroid-dependence, autoimmune-hepatitis]
 created: 2026-09-20
-updated: 2026-09-20
+updated: 2026-09-24
 sources: [acg-2025-crohns, acg-2025-uc, acg-2018-crohns, acg-2019-uc, acg-2025-ibd-preventive-care, aasld-2020-autoimmune-hepatitis]
 ---
 
@@ -166,7 +166,7 @@ The same two drugs, a different rule set — and the one place where **budesonid
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[autoimmune-hepatitis]], [[mesalamine-5-asa]], [[thiopurines]], [[anti-tnf-agents]], [[vedolizumab]], [[jak-inhibitors]], [[calcineurin-inhibitors]], [[il-23-and-il-12-23-inhibitors]], [[nutrition-in-ibd]], [[toxic-megacolon]], [[pouchitis]], [[cirrhosis]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[intestinal-ultrasound]]
+[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[microscopic-colitis]], [[autoimmune-hepatitis]], [[mesalamine-5-asa]], [[thiopurines]], [[anti-tnf-agents]], [[vedolizumab]], [[jak-inhibitors]], [[calcineurin-inhibitors]], [[il-23-and-il-12-23-inhibitors]], [[nutrition-in-ibd]], [[toxic-megacolon]], [[pouchitis]], [[cirrhosis]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[intestinal-ultrasound]]
 
 ---
 

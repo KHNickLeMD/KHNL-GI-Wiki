@@ -3,7 +3,7 @@ title: "Anti-TNF Agents (TNF-α Antagonists)"
 category: med
 tags: [anti-tnf, infliximab, adalimumab, certolizumab-pegol, golimumab, biologic, ibd, crohns, ulcerative-colitis, immunogenicity, therapeutic-drug-monitoring, biosimilar, immune-checkpoint-inhibitor]
 created: 2026-09-04
-updated: 2026-09-08
+updated: 2026-09-24
 sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis]
 ---
 
@@ -193,7 +193,7 @@ The **ASUC pathway** (when to escalate, infliximab-vs-cyclosporine choice, bridg
 - **Adjunctive (immunogenicity-suppressing) dosing** differs from disease-controlling dosing: 6-mercaptopurine or azathioprine typically at **reduced doses**, and **methotrexate 12.5–15 mg orally once weekly** ([[acg-2025-crohns]]) — ⚠ **off-label**: this is immunogenicity suppression, not an approved disease-controlling indication, and the dose is below the disease-controlling range. Full thiopurine dosing, pharmacogenomic testing, and monitoring live on [[thiopurines]].
 - **Risk factors for low drug levels and loss of response:** active smoking, increased BMI, and anti-TNF monotherapy — all associated with lower drug levels at week 14 ([[acg-2025-crohns]]).
 - **Earlier initiation of combination therapy** may be protective against immunogenicity, allowing greater treatment persistence — so combination may be preferred in **higher-risk CD without risk factors precluding its use** ([[acg-2025-crohns]]).
-- **When combination is judged higher-risk** (see [[#Safety, Cautions, and Contraindications]]): **optimized infliximab monotherapy with targeted therapeutic drug monitoring** is the alternative, avoiding long-term thiopurine toxicity ([[acg-2025-crohns]]).
+- **When combination is judged higher-risk** (see [[#Safety, Cautions, and Contraindications]]): **optimized infliximab monotherapy with targeted [[therapeutic-drug-monitoring-ibd|therapeutic drug monitoring]]** is the alternative, avoiding long-term thiopurine toxicity ([[acg-2025-crohns]]).
 - **Counter-evidence the guideline itself carries:** in a post hoc analysis, at **similar infliximab serum concentrations**, azathioprine combination was **not** more effective than infliximab monotherapy — suggesting the immunomodulator's main effect is non-specifically raising trough levels. A meta-analysis of RCTs comparing **proactive** TDM with conventional approaches **did not identify a clinical benefit** in anti-TNF-treated patients ([[acg-2025-crohns]]).
 
 ---
@@ -313,7 +313,7 @@ If not already done before checkpoint-inhibitor therapy: test **hepatitis B (HBs
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[thiopurines]], [[calcineurin-inhibitors]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[immune-checkpoint-inhibitor-colitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[toxic-megacolon]], [[pouchitis]], [[chronic-hepatitis-b]], [[uc-vs-crohns-comparison]], [[ibd-endoscopic-scoring]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]]
+[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[thiopurines]], [[calcineurin-inhibitors]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[immune-checkpoint-inhibitor-colitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[toxic-megacolon]], [[pouchitis]], [[chronic-hepatitis-b]], [[uc-vs-crohns-comparison]], [[ibd-endoscopic-scoring]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]]
 
 ---
 

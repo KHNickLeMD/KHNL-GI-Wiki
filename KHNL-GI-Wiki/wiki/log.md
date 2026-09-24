@@ -6,6 +6,40 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-24] lint | The provenance streak breaks — first unattended pass in seven to record itself; two AGA Institute *guidelines* ingested, and an index row that had swallowed the row above it
+
+**Provenance — the six-pass failure streak is over.** The 2026-09-23 cron pass `d56b894` wrote **its own `log.md` entry and its own `index.md` rows**, in the same commit as the ingest. This is the first unattended pass since 2026-09-07 to do so, and the first time in seven passes that no hand backfill was owed. Recorded here because six consecutive entries below flagged the opposite; the schema changes in `2d816f2` (write the log entry header before any other edit) appear to have taken.
+
+**Inbox sync: no new arrivals.** 449 non-asset files, exactly the 2026-09-23 baseline (AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, Other Studies 6, RCTs 12). The pass prompt again asked for `git status` to surface untracked arrivals; it cannot and did not — `raw/`'s content subfolders are git-ignored, so a synced PDF is never untracked and there is never anything there to commit. The count-vs-baseline check is what answers the question.
+
+**Ingest (2 — the per-pass cap), both from the N-queue of 2026-09-23 arrivals, which outranks the older CPU backlog on tier:**
+
+- [[aga-2019-mild-moderate-uc]] (N1) — **13 numbered GRADE recommendations** captured verbatim with their printed strength and quality. The substantive gain for [[ulcerative-colitis]] is not the drug list — the page already had a good one from ACG 2025 — it is the **three decision inputs underneath it**, which were nowhere on the wiki: the AGA mild–moderate severity definition, the extent definitions **with their centimetre qualifiers** (left-sided <50 cm, proctitis <15–20 cm from the anus), and the **oral mesalamine dose bands** (low <2, standard 2–3, high >3 g/d) that every one of the 13 recommendations is written in terms of. Without the bands, "standard-dose" and "high-dose" are unresolvable on the page that uses them. Added the 5-ASA equivalences (6.75 g balsalazide ≈ 2.4 g 5-ASA; 4 g sulfasalazine ≈ 1.6 g) and the topical dosing regimens used in the trials.
+- [[aga-2018-initial-management-acute-pancreatitis]] (N2) — **8 numbered GRADE recommendations**, 4 of them Strong. Scoped to the first 48–72 hours, and explicitly excludes diagnosis and late complications. Fed [[acute-pancreatitis]] four net-new items: the **against-HES** recommendation (MOF OR 3.86, 95% CI 1.24–12.04), the goal-directed perfusion-target list, the **extension of the no-prophylactic-antibiotics position to mild AP** with the post-2002 subgroup analysis that erased the older benefit signal, the PONCHO same-admission cholecystectomy data including the finding that early surgery is **no more technically difficult**, and a new `### 8. Alcohol Intervention` section.
+
+**Two source-fidelity notes worth carrying.** AGA 2019's effect estimates are **relative risk of *failure*, so RR <1 favours the agent** — the inverse of the usual reading; any figure lifted from it must preserve that. AGA 2018's Recommendation 6 is **worded two different ways inside the same document** (Table 3 prints "NG or NJ route", the boxed recommendation prints "nasogastric or nasoenteral"); both are recorded on the source page and the broader body wording is the one applied.
+
+**Where the two new guidelines are *older* than what the wiki already carries, they were not allowed to overwrite.** AGA 2018 makes **no recommendation** between normal saline and Ringer's lactate and **none at all** on fluid rate, volume or duration; [[acg-2024-acute-pancreatitis]] is newer in the same tier and its LR preference and 1.5 mL/kg/hr rate stand. Both positions are on the page, with the AGA abstention marked as a 2018 evidence state rather than a standing disagreement — it explicitly anticipated being superseded here, which is what [[demadaria-2022-waterfall]] then did. Same treatment for NG-vs-NJ (ACG 2024 prefers NG; AGA 2018 says either).
+
+**The finding that mattered — an index row had swallowed the row above it.** `index.md` line 614 ran the [[aga-2016-microscopic-colitis]] description straight into the [[aga-2017-tdm-ibd]] description with no line break, so **the TDM guideline ingested on 2026-09-23 had no `[[link]]` in the index at all** — its row opened mid-sentence with `: Therapeutic Drug Monitoring in IBD`. The page existed, was correctly written, and was unreachable from the catalog the website renders. Split and restored. This is a new failure mode: the previous six were *missing* rows, this one was a *malformed* row, which no count check would catch.
+
+**Coverage gap filled (1):** [[ursodeoxycholic-acid]] — queue #11, built from **11 ingested sources** rather than the two the queue row named. Dosed by indication (PBC 13–15 mg/kg/d, superior to both 5–7 and 23–25; PSC 13–23 *may be considered*; ICP 10–15 divided; recurrent PBC post-transplant 10–15), and carries the hard **do-not-use ≥28 mg/kg/d in PSC** harm signal — trial terminated early for futility, with excess transplant/varices/death and increased colorectal neoplasia in PSC–UC. Second-line escalation with obeticholic acid 5 → 10 mg/d and its advanced-cirrhosis contraindication, plus off-label bezafibrate and fenofibrate.
+
+**One-home-per-fact relocation:** the PBC **biochemical-response criteria table** (Paris I/II, Toronto, Barcelona, Rotterdam, Rochester I/II, Global — all assessed at 12 months) was duplicated verbatim on [[primary-biliary-cholangitis]] and on the new drug page. It now lives on [[ursodeoxycholic-acid]], because the criteria exist to decide whether to escalate off UDCA; the disease script keeps the criteria *names* and a pointer. Flagged for triage below in case Nick wants it the other way round.
+
+**Carried-over linking from 2026-09-23, now complete:**
+
+- **[[therapeutic-drug-monitoring-ibd]]** — the concept page created last pass was linked from **6** pages naming TDM in plain text ([[vedolizumab]], [[anti-tnf-agents]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[ulcerative-colitis]], [[crohns-disease]]), first mention each, plus See Also.
+- **Microscopic-colitis cross-links** — [[chronic-diarrhea]] and [[bile-acid-diarrhea]] were checked and **already linked it correctly**; the three med pages ([[corticosteroids-ibd]], [[mesalamine-5-asa]], [[probiotics]]) got See Also entries only, deliberately: none names microscopic colitis in its body, and writing an inline link would have meant importing indication text that already lives on [[microscopic-colitis]] with its citations.
+- **[[ursodeoxycholic-acid]]** was linked from 7 hepatology pages on creation, so it did not land as an orphan — the failure that hit the last three coverage-gap pages.
+
+**Hygiene:**
+
+- `index.md` footer counts recounted: **313 sources, 614 pages** (were 307/604).
+- **0** stubs, **0** `.DS_Store` wiki-wide.
+
+---
+
 ## [2026-09-23] lint | Largest inbox delivery since the initial load — 15 AGA/CGH files arrived; two ingested; sixth consecutive cron-provenance failure backfilled
 
 **Inbox sync — 15 new raw files, and they change the shape of the backlog.** 14 into `raw/GI Guidelines/AGA/` (175→189) and 1 into `raw/GI Other Studies/` (5→6); **449** non-asset files, new baseline. Every one verified file-by-file against `wiki/sources/` — **none was already ingested**. The important part is what they are: the remaining AGA backlog was Clinical Practice Updates, which are frequently ungraded and sometimes Commentaries with no statements at all. **Most of this delivery is AGA Institute *Guidelines* — technical review, real GRADE ratings** (2015 Lynch, 2015 pancreatic cysts, 2015 acute diverticulitis, 2016 microscopic colitis, 2017 TDM, 2017 post-resection Crohn's, 2017 acute liver failure, 2017 elastography, 2018 acute pancreatitis, 2019 mild-moderate UC, 2019 functional diarrhea/IBS-D, 2019 opioid-induced constipation, 2012 NAFLD). Queued as rows **N1–N13** ahead of the CPU queue on tier and page impact.

@@ -3,7 +3,7 @@ title: "Primary Biliary Cholangitis (PBC)"
 category: disease-script
 tags: [pbc, primary-biliary-cholangitis, cholestatic, ama, alkaline-phosphatase, ursodiol, udca, oca, obeticholic-acid, fibrates, pruritus, overlap, hpb, liver, autoimmune, pregnancy, cirrhosis]
 created: 2026-05-19
-updated: 2026-09-22
+updated: 2026-09-24
 sources: [aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, baveno-viii-2026-portal-hypertension]
 ---
 
@@ -31,7 +31,7 @@ When criteria 1 + 2 are met, biopsy is not required for diagnosis.
 
 **Prognostic models:**
 
-- **GLOBE score** — uses bilirubin, albumin, ALP, platelet count, and age at 1 year of UDCA treatment. Score >0.30 = shorter transplant-free survival than age/sex-matched healthy population. Calculator available at <https://www.globalpbc.com/globe>.
+- **GLOBE score** — uses bilirubin, albumin, ALP, platelet count, and age at 1 year of [[ursodeoxycholic-acid|UDCA]] treatment. Score >0.30 = shorter transplant-free survival than age/sex-matched healthy population. Calculator available at <https://www.globalpbc.com/globe>.
 - **UK-PBC score** — uses ALP, aminotransferases, bilirubin at 12 months + baseline albumin and platelets. Predicts risk of LT or liver-related death at 5, 10, and 15 years.
 - **Mayo risk score** — older model using bilirubin, albumin, prothrombin time, age, edema; can be used without biopsy. **Four decisions on this page are gated on it** ([[upper-endoscopy|EGD]] trigger and interval, HCC surveillance, LT referral).
 - **Bilirubin** is the single best predictor of survival and is a component of all prognostic models.
@@ -47,20 +47,7 @@ When criteria 1 + 2 are met, biopsy is not required for diagnosis.
 
 *Adequate biopsy requires at least 10–15 portal tracts and multiple sections.*
 
-**Biochemical response to UDCA (assessed at 12 months):** Multiple validated criteria exist; any of the following can be used ([[aasld-2018-pbc]], Table 1):
-
-| Criteria | Definition |
-|---|---|
-| Rochester I | ALP ≤2× ULN |
-| Barcelona | ALP reduction ≥40% from baseline or normalization |
-| Paris I | ALP ≤3× ULN; AST ≤2× ULN; total bilirubin ≤1 mg/dL |
-| Rotterdam | Total bilirubin <1× ULN and albumin >1× LLN |
-| Toronto | ALP ≤1.67× ULN |
-| Paris II | ALP ≤1.5× ULN; AST ≤1.5× ULN; total bilirubin ≤1 mg/dL |
-| Rochester II | ALP ≤2× ULN |
-| Global | ALP ≤2× ULN |
-
-*Table 1 labels the last row "Global" — this binary ALP criterion is **not** the continuous GLOBE score above; do not conflate them.*
+**Biochemical response to UDCA (assessed at 12 months):** Multiple validated binary criteria exist (Rochester I/II, Barcelona, Paris I/II, Rotterdam, Toronto, Global); any one can be used. **The cut-points for each are on [[ursodeoxycholic-acid]]** ([[aasld-2018-pbc]], Table 1). Table 1's "Global" row is a binary ALP criterion and is **not** the continuous GLOBE score above; do not conflate them.
 
 Up to 40% of patients will have an inadequate response by one of these criteria and should be evaluated for second-line therapy.
 
@@ -353,7 +340,7 @@ Risk of developing PBC is increased among first-degree relatives, especially fem
 
 ## See Also
 
-[[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[abnormal-liver-chemistries]], [[jaundice]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[tacrolimus]], [[cholangiocarcinoma]], [[nafld-masld]], [[mri-mrcp]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[upper-endoscopy]], [[ascites]], [[obesity]], [[variceal-upper-gi-bleeding]], [[intrahepatic-cholestasis-of-pregnancy]], [[liver-stiffness-measurement]], [[porto-sinusoidal-vascular-disorder]], [[cirrhosis]], [[biliary-stricture]], [[calcineurin-inhibitors]], [[thiopurines]], [[esophageal-dysfunction-systemic-disease]], [[hereditary-hemochromatosis]], [[acute-liver-failure]], [[inflammatory-bowel-disease]], [[tips]], [[hcc-surveillance]]
+[[ursodeoxycholic-acid]], [[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[abnormal-liver-chemistries]], [[jaundice]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[tacrolimus]], [[cholangiocarcinoma]], [[nafld-masld]], [[mri-mrcp]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[upper-endoscopy]], [[ascites]], [[obesity]], [[variceal-upper-gi-bleeding]], [[intrahepatic-cholestasis-of-pregnancy]], [[liver-stiffness-measurement]], [[porto-sinusoidal-vascular-disorder]], [[cirrhosis]], [[biliary-stricture]], [[calcineurin-inhibitors]], [[thiopurines]], [[esophageal-dysfunction-systemic-disease]], [[hereditary-hemochromatosis]], [[acute-liver-failure]], [[inflammatory-bowel-disease]], [[tips]], [[hcc-surveillance]]
 
 ---
 

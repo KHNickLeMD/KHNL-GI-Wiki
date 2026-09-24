@@ -121,7 +121,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 
 **No approved pharmacotherapy for PSC** ([[aasld-2022-psc]] GS 11). All patients should be considered for clinical trials (GS 11).
 
-**Ursodeoxycholic acid (UDCA):**
+**[[ursodeoxycholic-acid|Ursodeoxycholic acid (UDCA)]]:**
 
 - **High-dose UDCA — do not use.** The two guidelines state the cutoff slightly differently and the newer one governs: [[aasld-2022-psc]] says doses **≥28 mg/kg/day** should be avoided; [[acg-2015-psc]] Rec 6 says **">28 mg/kg/day** should not be used" (*strong recommendation, high quality of evidence*). Basis: the 150-patient controlled trial of **28–30 mg/kg/day** vs placebo was terminated early for futility, with post-hoc excess serious adverse events (LT, varices, death) and — in PSC + [[ulcerative-colitis\|UC]] — increased colorectal neoplasia
 - **UDCA 13–23 mg/kg/d:** Can be considered for patients not eligible for or not interested in clinical trials with persistently elevated ALP/GGT (GS 12); observe 6 months before initiating to confirm persistent elevation; continue only if meaningful ALP/GGT reduction or normalization (or symptom improvement) within 12 months of treatment; no data to support lower vs. intermediate dose over the other
@@ -319,7 +319,7 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ercp]], [[liver-transplantation]], [[colonoscopy]], [[colorectal-cancer]], [[portal-hypertension]], [[hcc-surveillance]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[mri-mrcp]], [[brush-cytology]], [[fish]], [[gallbladder-cancer]], [[variceal-upper-gi-bleeding]], [[upper-endoscopy]], [[tips]], [[cirrhosis]], [[acute-cholangitis]], [[acute-pancreatitis]], [[porto-sinusoidal-vascular-disorder]], [[portal-vein-thrombosis]], [[thiopurines]], [[anti-tnf-agents]], [[immune-checkpoint-inhibitor-hepatitis]], [[hereditary-hemorrhagic-telangiectasia]], [[choledocholithiasis]], [[endoscopic-ultrasound]], [[antibiotic-prophylaxis-endoscopy]], [[tacrolimus]], [[jaundice]], [[hepatocellular-carcinoma]], [[ascites]], [[hepatic-encephalopathy]]
+[[ursodeoxycholic-acid]], [[abnormal-liver-chemistries]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ercp]], [[liver-transplantation]], [[colonoscopy]], [[colorectal-cancer]], [[portal-hypertension]], [[hcc-surveillance]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[mri-mrcp]], [[brush-cytology]], [[fish]], [[gallbladder-cancer]], [[variceal-upper-gi-bleeding]], [[upper-endoscopy]], [[tips]], [[cirrhosis]], [[acute-cholangitis]], [[acute-pancreatitis]], [[porto-sinusoidal-vascular-disorder]], [[portal-vein-thrombosis]], [[thiopurines]], [[anti-tnf-agents]], [[immune-checkpoint-inhibitor-hepatitis]], [[hereditary-hemorrhagic-telangiectasia]], [[choledocholithiasis]], [[endoscopic-ultrasound]], [[antibiotic-prophylaxis-endoscopy]], [[tacrolimus]], [[jaundice]], [[hepatocellular-carcinoma]], [[ascites]], [[hepatic-encephalopathy]]
 
 ---
 

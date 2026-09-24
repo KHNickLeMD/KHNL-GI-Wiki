@@ -536,7 +536,7 @@ Metabolic syndrome, CKD, bone disease, infection prophylaxis, vaccination, de no
 - Diagnosis: elevated Alk Phos + AMA positivity + biopsy (granulomatous cholangitis, florid duct lesions)
 - Risk factors for recurrence: male donor, use of [[tacrolimus]] vs. cyclosporine (controversial), HLA mismatch
 - **Routine monitoring for associated autoimmune disease (e.g. thyroid) and bone density** (Rec 83). Monitor liver chemistries and AMA titer annually; liver biopsy if alkaline phosphatase rises significantly
-- **Ursodeoxycholic acid (UDCA)** — may be considered for **histologically proven** recurrence at **10–15 mg/kg/day**; improves liver tests but **no documented graft-survival benefit**. **No prophylactic UDCA** when allograft histology is normal (Rec 84)
+- **[[ursodeoxycholic-acid|Ursodeoxycholic acid (UDCA)]]** — may be considered for **histologically proven** recurrence at **10–15 mg/kg/day**; improves liver tests but **no documented graft-survival benefit**. **No prophylactic UDCA** when allograft histology is normal (Rec 84)
 
 **[[primary-sclerosing-cholangitis|Primary Sclerosing Cholangitis]] (PSC) recurrence** ([[aasld-2012-liver-transplant-long-term]]):
 

@@ -3,8 +3,8 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-09-06
-sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis]
+updated: 2026-09-24
+sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis, aga-2018-initial-management-acute-pancreatitis]
 ---
 
 # Acute Pancreatitis
@@ -192,6 +192,10 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 - **Fluid overload ~tripled** with aggressive: 20.5% vs 6.3% (adj RR 2.85, 95% CI 1.36–5.94, P = 0.004)
 - Trial halted early for safety — primary-evidence basis for favoring moderate, goal-directed resuscitation
 
+**Do not use hydroxyethyl starch (HES)** ([[aga-2018-initial-management-acute-pancreatitis]] Rec 1B — conditional, very low quality): mortality was not improved, and **multiple organ failure was significantly increased** in one trial (OR 3.86; 95% CI 1.24–12.04).
+
+**Perfusion targets for goal-directed therapy** ([[aga-2018-initial-management-acute-pancreatitis]] Rec 1A — conditional, very low quality): heart rate, mean arterial pressure, central venous pressure, urine output, BUN, hematocrit. AGA 2018 could make **no recommendation on the optimal initial rate, volume, or duration** of resuscitation, and **no recommendation between normal saline and Ringer's lactate** — the ACG 2024 rates and LR preference above are newer and govern.
+
 ![[acute-pancreatitis-2024-fluid-resuscitation-algorithm-09.png|700x828]]
 *Figure 1 — Pathophysiology of fluid loss in acute pancreatitis and rationale for moderately aggressive IV hydration to prevent necrotizing progression. ([[acg-2024-acute-pancreatitis]])*
 
@@ -221,6 +225,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 ### 4. Antibiotics
 
 - *"We suggest **against prophylactic antibiotics** in patients with severe AP"* ([[acg-2024-acute-pancreatitis]] Rec 8 — conditional, very low quality). Antibiotics should not be used in **sterile** necrosis (Key concept 15).
+- **This extends to mild disease.** AGA states the same recommendation for predicted severe and necrotizing AP (Rec 2 — conditional, low quality) and then clarifies that **there is also no role for prophylactic antibiotics in milder forms of AP** ([[aga-2018-initial-management-acute-pancreatitis]]). The apparent benefit in the older trials (infected necrosis OR 0.56, 95% CI 0.36–0.86) **disappeared in trials published after 2002** (OR 0.81, 95% CI 0.44–1.49) and among higher-quality studies; the panel weighted the post-2002 results.
 
 **Indicated for infected pancreatic necrosis:**
 
@@ -312,6 +317,14 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 | **Cannot undergo surgery** | ERCP with sphincterotomy (reduces recurrence risk) |
 
 - **Why same-admission:** among 998 patients discharged rather than undergoing early cholecystectomy, **18% were readmitted for recurrent biliary events vs 0%** (P < 0.0001), including **recurrent biliary pancreatitis in 8%**; many had severe disease.
+- **AGA makes this a Strong recommendation on moderate quality evidence** (Rec 7, [[aga-2018-initial-management-acute-pancreatitis]]), from the PONCHO RCT: same-admission cholecystectomy reduced the composite of mortality + gallstone-related complications (OR 0.24; 95% CI 0.09–0.61), readmission for recurrent pancreatitis (OR 0.25; 95% CI 0.07–0.90), and pancreaticobiliary complications (OR 0.24; 95% CI 0.09–0.61).
+- **The "operate later, operate more safely" argument does not hold:** same-admission surgery **did not differ from delayed surgery in conversion from laparoscopic to open, or in surgical difficulty**.
+
+### 8. Alcohol Intervention
+
+- **Brief alcohol intervention during the admission**, in acute alcoholic pancreatitis — *"the AGA recommends brief alcohol intervention during admission"* ([[aga-2018-initial-management-acute-pancreatitis]] Rec 8 — **strong recommendation, moderate quality evidence**). See [[alcohol-associated-liver-disease]].
+- Graded down to moderate for indirectness: the supporting evidence is largely a Cochrane review of brief interventions in primary care (21 RCTs, n = 7286; mean reduction **41 g/week**, 95% CI 57 to 25 g/week), not AP-specific trials.
+- **Extended intervention was not significantly better than brief intervention** — the single AP RCT compared repeated counselling at 6-month intervals for 2 years against one intervention at the index hospitalization, and found only a trend toward fewer total admissions.
 - **[[choledocholithiasis|Choledocholithiasis]]:** in most gallstone AP the CBD stone passes spontaneously. **Routine ERCP is not appropriate** unless there is high suspicion of a persistent CBD stone, manifested by an **elevated bilirubin**. Mild AP with a **normal bilirubin** → laparoscopic cholecystectomy with **intraoperative cholangiography**, with any residual duct stones handled intra- or post-operatively.
 
 **Gallstone pancreatitis in pregnancy** ([[aga-2024-pregnancy-gi-liver]]; full context [[liver-disease-in-pregnancy]]):
@@ -337,3 +350,4 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 6. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022: Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis]]
 7. [[asge-2023-post-ercp-pancreatitis|ASGE Guideline: Post-ERCP Pancreatitis Prevention (2023)]]
 8. [[aga-2020-cpu-pancreatic-necrosis|AGA Clinical Practice Update: Management of Pancreatic Necrosis (2020)]]
+9. [[aga-2018-initial-management-acute-pancreatitis|American Gastroenterological Association Institute Guideline on Initial Management of Acute Pancreatitis (2018)]]

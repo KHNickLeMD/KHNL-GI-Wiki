@@ -3,7 +3,7 @@ title: "Microscopic Colitis"
 category: disease-script
 tags: [colon, chronic-diarrhea, collagenous-colitis, lymphocytic-colitis, watery-diarrhea]
 created: 2026-06-04
-updated: 2026-09-23
+updated: 2026-09-24
 sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2020-ibs, acg-2022-celiac, aga-2016-microscopic-colitis]
 ---
 
@@ -131,7 +131,7 @@ flowchart TD
 
 ## See Also
 
-[[chronic-diarrhea]], [[colonoscopy]], [[upper-endoscopy]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[small-intestinal-bacterial-overgrowth]], [[exocrine-pancreatic-insufficiency]], [[acute-diarrhea]], [[disorders-of-gut-brain-interaction]], [[corticosteroids-ibd]], [[mesalamine-5-asa]], [[probiotics]], [[proton-pump-inhibitors]], [[thiopurines]], [[anti-tnf-agents]], [[loperamide]], [[colorectal-cancer]]
+[[chronic-diarrhea]], [[bile-acid-diarrhea]], [[colonoscopy]], [[upper-endoscopy]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[small-intestinal-bacterial-overgrowth]], [[exocrine-pancreatic-insufficiency]], [[acute-diarrhea]], [[disorders-of-gut-brain-interaction]], [[corticosteroids-ibd]], [[mesalamine-5-asa]], [[probiotics]], [[proton-pump-inhibitors]], [[thiopurines]], [[anti-tnf-agents]], [[loperamide]], [[colorectal-cancer]]
 
 ---
 

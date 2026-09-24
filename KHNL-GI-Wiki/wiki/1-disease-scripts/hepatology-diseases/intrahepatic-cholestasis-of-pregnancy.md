@@ -64,7 +64,7 @@ Most common pregnancy-specific liver disease; frequency **0.3–0.5%**. Onset in
 
 ### Ursodeoxycholic Acid
 
-- **Oral ursodeoxycholic acid (UDCA) 10–15 mg/kg/day** (total daily dose, divided) — first-line. ([[aga-2024-pregnancy-gi-liver]] BPA 10; [[acg-2016-liver-disease-pregnancy|ACG 2016]] — *strong recommendation, moderate level of evidence*)
+- **Oral [[ursodeoxycholic-acid|ursodeoxycholic acid (UDCA)]] 10–15 mg/kg/day** (total daily dose, divided) — first-line. ([[aga-2024-pregnancy-gi-liver]] BPA 10; [[acg-2016-liver-disease-pregnancy|ACG 2016]] — *strong recommendation, moderate level of evidence*)
 - Improves pruritus and lowers serum bile acids and ALT; meta-analysis found decreased adverse outcomes including **preterm birth and stillbirth**.
 - UDCA is **more effective than cholestyramine or dexamethasone** for controlling pruritus; it increases bile salt export pump expression and placental bile transporters. ([[acg-2016-liver-disease-pregnancy]])
 - Additional pruritus control: **cholestyramine** and **rifampicin** — [[aga-2024-pregnancy-gi-liver]] names them without doses; dosing for both is on [[primary-biliary-cholangitis]] (non-pregnant cholestatic pruritus), and neither guideline states a pregnancy-specific dose. ([[aga-2024-pregnancy-gi-liver]])
@@ -93,7 +93,7 @@ Delivery is advised based on **total serum bile acid levels** ([[aga-2024-pregna
 
 ## See Also
 
-[[liver-disease-in-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[choledocholithiasis]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[primary-biliary-cholangitis]], [[drug-induced-liver-injury]], [[abnormal-liver-chemistries]], [[biliary-stricture]]
+[[ursodeoxycholic-acid]], [[liver-disease-in-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[choledocholithiasis]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[primary-biliary-cholangitis]], [[drug-induced-liver-injury]], [[abnormal-liver-chemistries]], [[biliary-stricture]]
 
 ---
 

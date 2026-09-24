@@ -3,7 +3,7 @@ title: "JAK Inhibitors"
 category: med
 tags: [tofacitinib, upadacitinib, filgotinib, jak-inhibitor, janus-kinase, small-molecule, oral, advanced-therapy, ibd, ulcerative-colitis, crohns, boxed-warning]
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-24
 sources: [acg-2025-uc, acg-2025-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, acg-2025-ibd-preventive-care, aga-2024-ibd-malignancy, aga-2026-inpatient-ibd]
 ---
 
@@ -279,7 +279,7 @@ Everything restricting this class traces to one trial in **rheumatoid arthritis*
 | Ongoing | Monitor for **shingles and VTE**, especially on the higher maintenance dose, and adopt preventive strategies | [[aga-2024-uc-pharm]] |
 | Response assessment | Assess any advanced therapy at a **defined time point (6–12 weeks)** for efficacy and safety, then run an ongoing monitoring strategy (clinical response + CRP or fecal calprotectin; periodic structural reassessment) | [[acg-2025-uc]], [[aga-2025-crohns-pharm]] |
 
-- **No serum drug level or antidrug-antibody testing applies.** Therapeutic drug monitoring in IBD is an [[anti-tnf-agents|anti-TNF]] tool — [[acg-2025-crohns]] prints trough targets for anti-TNF only. Small molecules are not immunogenic.
+- **No serum drug level or antidrug-antibody testing applies.** [[therapeutic-drug-monitoring-ibd|Therapeutic drug monitoring]] in IBD is an [[anti-tnf-agents|anti-TNF]] tool — [[acg-2025-crohns]] prints trough targets for anti-TNF only. Small molecules are not immunogenic.
 
 ---
 
@@ -318,7 +318,7 @@ Everything restricting this class traces to one trial in **rheumatoid arthritis*
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[anti-tnf-agents]], [[vedolizumab]], [[il-23-and-il-12-23-inhibitors]], [[thiopurines]], [[calcineurin-inhibitors]], [[ibd-preventive-care]], [[ibd-in-malignancy]], [[ibd-endoscopic-scoring]], [[toxic-megacolon]], [[pouchitis]], [[uc-vs-crohns-comparison]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[anti-tnf-agents]], [[vedolizumab]], [[il-23-and-il-12-23-inhibitors]], [[thiopurines]], [[calcineurin-inhibitors]], [[ibd-preventive-care]], [[ibd-in-malignancy]], [[ibd-endoscopic-scoring]], [[toxic-megacolon]], [[pouchitis]], [[uc-vs-crohns-comparison]], [[therapeutic-drug-monitoring-ibd]]
 
 ---
 

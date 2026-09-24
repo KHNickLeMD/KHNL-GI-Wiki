@@ -3,7 +3,7 @@ title: "Probiotics"
 category: med
 tags: [probiotics, microbiome, dysbiosis, cdiff, ibd, pouchitis, ibs, nec, infectious-diarrhea]
 created: 2026-06-04
-updated: 2026-09-08
+updated: 2026-09-24
 sources: [aga-2020-probiotics, acg-2020-sibo, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, acg-2021-cdiff]
 ---
 
@@ -68,7 +68,7 @@ Not covered by the AGA guideline; per [[acg-2020-sibo]]:
 
 ## See Also
 
-[[clostridioides-difficile]], [[crohns-disease]], [[ulcerative-colitis]], [[irritable-bowel-syndrome]], [[pouchitis]], [[acute-diarrhea]], [[inflammatory-bowel-disease]], [[small-intestinal-bacterial-overgrowth]], [[fmt]], [[abdominal-bloating-and-distention]], [[mesalamine-5-asa]]
+[[clostridioides-difficile]], [[crohns-disease]], [[ulcerative-colitis]], [[microscopic-colitis]], [[irritable-bowel-syndrome]], [[pouchitis]], [[acute-diarrhea]], [[inflammatory-bowel-disease]], [[small-intestinal-bacterial-overgrowth]], [[fmt]], [[abdominal-bloating-and-distention]], [[mesalamine-5-asa]]
 
 ---
 

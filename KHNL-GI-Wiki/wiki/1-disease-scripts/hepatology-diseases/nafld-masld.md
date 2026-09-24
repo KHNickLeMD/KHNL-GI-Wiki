@@ -278,7 +278,7 @@ Oral **thyroid hormone receptor-β (THR-β) agonist**; first FDA-approved pharma
 - **Pioglitazone 30–45 mg (GS 25):** improves NASH ± fibrosis; consider in NASH with T2DM (AEs: weight gain, heart failure, bone loss).
 - **Vitamin E (rrr-α) 800 IU/day (GS 26):** improves NASH in non-diabetics (PIVENS); possible hemorrhagic stroke / prostate cancer concerns.
 - **No antifibrotic benefit demonstrated** for semaglutide, pioglitazone, or vitamin E, and none studied in cirrhosis (GS 27).
-- **Do NOT use** metformin, UDCA, DPP-4 inhibitors, statins (for NASH per se), or silymarin to treat NASH — no meaningful histologic benefit (GS 28).
+- **Do NOT use** metformin, [[ursodeoxycholic-acid|UDCA]], DPP-4 inhibitors, statins (for NASH per se), or silymarin to treat NASH — no meaningful histologic benefit (GS 28).
 - No established pharmacotherapy for simple steatosis (MASL).
 
 #### Bariatric / Metabolic Surgery and Endoscopic Interventions

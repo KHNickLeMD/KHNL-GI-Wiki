@@ -3,8 +3,8 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-09-08
-sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt, aga-2021-ibd-colorectal-dysplasia]
+updated: 2026-09-24
+sources: [acg-2025-uc, aga-2019-mild-moderate-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt, aga-2021-ibd-colorectal-dysplasia]
 ---
 
 Idiopathic chronic inflammatory disorder of the large intestine. Continuous mucosal inflammation starting in rectum and extending proximally. Relapsing-remitting course; goal of therapy is sustained steroid-free endoscopic remission.
@@ -198,6 +198,20 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ### Mild-Moderate Disease
 
+**The three inputs that select the regimen below** ([[aga-2019-mild-moderate-uc]]):
+
+| Input | Definition |
+|---|---|
+| **Severity — mild–moderate** | <4–6 BM/day · mild–moderate rectal bleeding · no constitutional symptoms · low overall inflammatory burden · no features of high inflammatory activity (anchored on Truelove & Witts and the Mayo score) |
+| **Extent — extensive** | Proximal to the **splenic flexure** |
+| **Extent — left-sided** | Proximal to rectum, not past splenic flexure (or **<50 cm from anus**) |
+| **Extent — proctitis** | Rectum only (or **<15–20 cm from anus**) |
+| **Oral mesalamine dose bands** | Low **<2 g/d** · standard **2–3 g/d** · high **>3 g/d** |
+
+- **5-ASA equivalences:** 6.75 g balsalazide ≈ 2.4 g 5-ASA; 4 g sulfasalazine ≈ 1.6 g 5-ASA.
+- AGA grades standard-dose oral 5-ASA for extensive disease **Strong / moderate**, and mesalamine suppositories for proctitis **Strong / moderate**; every other mild–moderate recommendation is Conditional.
+- **Topical beats oral in distal disease:** in proctosigmoiditis or proctitis, mesalamine enemas (or suppositories) are suggested **rather than** oral mesalamine (Conditional, very low), and rectal 5-ASA is preferred over rectal corticosteroids (Conditional, moderate).
+
 **Proctitis (E1):**
 
 1. **Rectal [[mesalamine-5-asa|mesalamine]] 1 g/day suppository** — first-line induction (Strong)
@@ -231,6 +245,13 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - Do NOT use corticosteroids for maintenance (any route)
 - Poor prognostic factors (see Assessment) shift a mildly-to-moderately active patient into the moderate-severe algorithm
 - **Reassess response to induction within 8 weeks** (KC 19); non-response or intolerance to 5-ASA → treat as moderate-severe (KC 24)
+- **Topical dosing used in the trials** ([[aga-2019-mild-moderate-uc]]): mesalamine **enemas 4 g nightly** for induction, 4 g **2–3×/week or 1 week per month** for maintenance; **suppositories 1–1.5 g/d** for induction, **0.5–1 g once daily to 3×/week** for maintenance.
+
+**Where AGA makes no recommendation in mild–moderate UC** ([[aga-2019-mild-moderate-uc]] — all three are explicit *"no recommendation, knowledge gap"* statements, not recommendations against):
+
+- **[[probiotics|Probiotics]]** — 7 RCTs, 585 patients, not more effective than placebo for induction. Should **not** be used instead of therapies known to be effective; the value of adding them to proven therapy is unknown.
+- **Curcumin** — 3 RCTs, 169 patients, doses trialled from 150 mg to 3 g/d; trend only, very low quality.
+- **[[fmt|FMT]]** — recommended **only in the context of a clinical trial** in patients without *C. difficile* infection; considered experimental, with serious adverse events in 9.2% across 50 FMT studies.
 
 ---
 
@@ -307,7 +328,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - Low/undetectable + high antibodies → add immunomodulator or switch
 - Primary nonresponse: switch class, do NOT cycle within anti-TNF
 
-**TDM:** Routine proactive TDM in all stable UC patients: insufficient evidence to recommend; reactive TDM (at loss of response) supported
+**[[therapeutic-drug-monitoring-ibd|TDM]]:** Routine proactive TDM in all stable UC patients: insufficient evidence to recommend; reactive TDM (at loss of response) supported
 
 ---
 
@@ -498,7 +519,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ## See Also
 
-[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[immune-checkpoint-inhibitor-colitis]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[toxic-megacolon]], [[polypectomy]], [[ibd-pain-management]], [[iron-deficiency-anemia]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]]
+[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[immune-checkpoint-inhibitor-colitis]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[toxic-megacolon]], [[polypectomy]], [[ibd-pain-management]], [[iron-deficiency-anemia]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]]
 
 ---
 
@@ -520,3 +541,4 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 14. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review (2024)]]
 15. [[aga-2024-fmt|AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024)]]
 16. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
+17. [[aga-2019-mild-moderate-uc|AGA Clinical Practice Guidelines on the Management of Mild-to-Moderate Ulcerative Colitis (2019)]]
