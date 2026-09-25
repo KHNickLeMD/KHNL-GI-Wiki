@@ -3,8 +3,8 @@ title: "IBD Endoscopic Scoring Indices"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, endoscopy, scoring, mayo-endoscopic-score, uceis, ses-cd, cdeis, rutgeerts-score]
 created: 2026-07-23
-updated: 2026-09-05
-sources: [aga-2024-ibd-endoscopic-scoring]
+updated: 2026-09-25
+sources: [aga-2024-ibd-endoscopic-scoring, aga-2017-crohns-after-surgical-resection]
 ---
 
 Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) and [[crohns-disease]] (CDEIS, SES-CD, modified Rutgeerts), per the AGA 2024 Clinical Practice Update. They provide objectivity and uniformity of mucosal reporting and are advised for assessing prognosis and treatment efficacy.
@@ -127,6 +127,8 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 | Diffuse aphthous ileitis with diffusely inflamed mucosa | **i3** |
 | Diffuse inflammation with large ulcers, nodules, and/or narrowing in the neoterminal ileum | **i4** |
 
+- **Operative threshold:** the postoperative CD guidelines define **endoscopic recurrence as a Rutgeerts score ≥i2** — the endpoint every prophylaxis trial was powered on, and the trigger for escalating therapy ([[aga-2017-crohns-after-surgical-resection]]; management on [[crohns-disease]]).
+  - ⚠ That same guideline cautions the score "has not been validated for use in clinical trials of postoperative prophylaxis," even though it correlates with natural history.
 - **What the score is for:** it **risk-stratifies patients before initiating medical therapy** — postoperative endoscopy lets therapy be tailored to disease behavior, and **selective immunosuppression adjusted for early recurrence on colonoscopy achieves disease control in most patients**.
 - **Prognosis by band:** score **i1 or less** = endoscopic remission → lower recurrence risk (**8.6% clinical recurrence at 8 years** after ileocecal resection). **100% of i4 patients** had symptomatic recurrence **by 4 years**.
 - ⚠ **Anastomosis-technique dependent:** designed for **end-to-end anastomosis** 30 years ago; ulcers in the blind limb of a **side-to-side** anastomosis may be **ischemic** rather than active CD and may not require treatment. A novel adapted score adds anatomic locations (neoterminal ileum, ileal inlet, ileal body — inlet at higher recurrence risk from fecal-stream stasis/bacterial overgrowth) but **awaits prospective validation**.
@@ -162,3 +164,4 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 ## Sources
 
 1. [[aga-2024-ibd-endoscopic-scoring|AGA 2024 Clinical Practice Update on Endoscopic Scoring Systems in Inflammatory Bowel Disease]]
+2. [[aga-2017-crohns-after-surgical-resection|AGA Institute Guideline on the Management of Crohn's Disease After Surgical Resection (2017)]]

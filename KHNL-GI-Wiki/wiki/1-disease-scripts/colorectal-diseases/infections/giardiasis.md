@@ -3,7 +3,7 @@ title: "Giardiasis"
 category: disease-script
 tags: [giardia, parasitic-diarrhea, diarrhea, travelers-diarrhea, malabsorption, metronidazole, tinidazole]
 created: 2026-05-19
-updated: 2026-08-27
+updated: 2026-09-25
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, acg-2020-ibs]
 ---
 
@@ -14,7 +14,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, acg-2020-ibs]
 - *Giardia intestinalis* (aka *G. lamblia* / *G. duodenalis*) — most common intestinal **parasitic** infection in the US; leading parasitic cause of persistent and [[fever-returning-traveler|traveler's]] diarrhea.
 - **Transmission:** contaminated water (lakes, streams, municipal supply), food, person-to-person fecal-oral. Cysts are **chlorine-resistant**.
 - **Clinical hallmark:** prolonged/[[chronic-diarrhea|persistent]] (often 14–30 days) watery-to-semi-formed, **malodorous** diarrhea; [[abdominal-bloating-and-distention|bloating]]; flatulence; may cause **malabsorption** and weight loss.
-- Asymptomatic cyst carriage is common in endemic areas — a positive multiplex GI panel requires clinical correlation before treating.
+- Asymptomatic cyst carriage is common in endemic areas, so a positive multiplex GI panel is not by itself an indication to treat (see Therapeutics).
 - **Most common enteric parasite in the US** — ~20,000 reported cases/year, with rates falling since 2012 (5.8 per 100,000 population). Reportable to the CDC. [[acg-2020-ibs]]
 
 **Who to test — CDC risk factors for *Giardia* infection** [[acg-2020-ibs]] (Table 5). These are the criteria that convert "don't test routinely" into "test":
@@ -69,7 +69,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, acg-2020-ibs]
 | **Alternative** | **Metronidazole** | High frequency of GI side effects; **not FDA-approved** for giardiasis; no commercial pediatric suspension (can be compounded from tablets) |
 
 - [[acg-2016-acute-diarrhea]] independently endorses **metronidazole, tinidazole, or nitazoxanide** for *Giardia*, calling the evidence for antimicrobial treatment of specific parasitic causes **strong**.
-- Treat symptomatic infection; weigh treatment of incidental molecular-panel positives against symptoms and exposure.
+- **Treat symptomatic infection.** For an incidental molecular-panel positive, weigh symptoms and exposure history before treating — detection alone does not establish disease.
 
 > Neither guideline gives a dose or duration for nitazoxanide, tinidazole, or metronidazole in giardiasis — IDSA 2017 Table 6 has no dose column and ACG 2016 names the agents in prose only. Take the regimen from a CDC/IDSA parasitic-disease treatment table.
 

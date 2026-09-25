@@ -6,6 +6,62 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-25] lint | Two AGA Institute guidelines ingested — postoperative Crohn's prophylaxis, the one recurrence topic no ingested source covered, and acute liver failure
+
+**Inbox check:** no new arrivals. All 14 `raw/` subfolder counts match the audited 2026-09-23 baseline exactly (449 non-asset files); `git status` clean and head commit was the last manual pass, so no unstruck cron ingest either.
+
+**Sources created:**
+- `wiki/sources/aga-2017-crohns-after-surgical-resection.md` — AGA Institute Guideline, *Gastroenterology* 2017;152:271–275. All **6 numbered GRADE recommendations** captured verbatim from Table 3 with strength and quality, plus **Table 4** (the two illustrative risk groups) recreated as a native Markdown table.
+- `wiki/sources/aga-2017-acute-liver-failure.md` — AGA Institute Guideline, *Gastroenterology* 2017;152:644–647. All **11 numbered recommendations** captured verbatim from Table 3.
+
+**Pages updated:**
+- `[[crohns-disease]]` — `Postoperative CD Prevention` rebuilt from a single table into a **5-step pathway** (stratify → choose strategy → pick agent → scope → act on recurrence). Frontmatter `sources:` and the `## Sources` list renumbered.
+- `[[acute-liver-failure]]` — MELD 30.5 added as a third named cut-off with a warning that the three are not interchangeable; pooled KCC-vs-MELD accuracy table added; HEV-in-pregnancy, HSV DNA-over-IgM, Wilson/VZV testing positions, quantified biopsy yield, negative empiric-ICP evidence, and the liver-support RCT base all added.
+- `[[ibd-endoscopic-scoring]]` — Rutgeerts **≥i2** recorded as the operative definition of postoperative endoscopic recurrence, with the guideline's own caveat that the score is unvalidated in prophylaxis trials.
+- `[[giardiasis]]`, `[[infectious-esophagitis]]` — stalest-page validation (below).
+
+**Decision gap closed — the postoperative Crohn's risk stratum had its conclusion but not its inputs.** `[[crohns-disease]]` carried a treatment table keyed to **Low** and **High** postoperative risk, but defined only the *high* stratum (parenthetically: "prior resection, penetrating phenotype, smoking, short disease duration") and gave **no recurrence rates at all**. A clinician could not assign a patient to a stratum from the page, which is exactly the failure mode the Content Guide names. AGA 2017 Table 4 supplies both strata's characteristics **with their operative qualifiers** — older than 50 y vs younger than 30 y, nonsmoker vs smoker, **first** surgery for a **short (<10–20 cm) fibrostenotic** segment vs **≥2 prior surgeries for penetrating** disease — and both groups' recurrence rates >18 months without intervention (lower risk 20% clinical / 30% endoscopic; higher risk 50% / 80%).
+
+**Other decision inputs the AGA guideline added to that section:**
+- **Early prophylaxis = started within 8 weeks of surgery**; endoscopy-guided = drug only if the 6–12 month scope shows recurrence. The one head-to-head trial (63 patients) was null for both endpoints, so the equipoise is real and the page now says so.
+- An explicit recommendation **against mesalamine/5-ASAs, budesonide and probiotics** — a negative recommendation the page did not carry.
+- **Nitroimidazoles capped at 3–12 months**, because cumulative dosing causes peripheral neuropathy. The page already had ACG 2025's *dose* (1–2 g/day) but no duration; neither source gives the full regimen alone.
+- The **conditional-vs-strong split** on 6–12 month endoscopic monitoring: **strong** only when the patient is *not* on prophylaxis (endoscopic recurrence reaches 90% within 1 year unprotected). The wiki had collapsed both into one conditional statement.
+- **What to do at asymptomatic endoscopic recurrence** — initiate/optimize anti-TNF and/or thiopurine; thiopurine monotherapy suits **i2**; recurrence on a thiopurine → add an anti-TNF. The page previously said only that "Rutgeerts score guides next steps," which is a conclusion with no input.
+
+**Two formal "No recommendation" statements preserved as such.** AGA 2017 ALF Recommendations **9** (extracorporeal liver support) and **11** (NAC in non-acetaminophen ALF) are phrased with the word "recommends" but are graded **No recommendation / No recommendation** in Table 3. Both the source page and `[[acute-liver-failure]]` say so explicitly, and the index row carries a ⚠ against citing either as graded. This is the exact trap flagged after the 2026-09-08 sweep — a guideline's own wording inviting an upgrade it never made.
+
+**Contradictions surfaced (ACG governs every one — newer within tier 1):**
+- **Routine Wilson-disease testing.** `[[acute-liver-failure]]` lists ceruloplasmin in its all-patients panel ([[acg-2023-alf]]); AGA 2017 Rec 1 suggests **against** testing everyone, on positive-predictive-value grounds. Recorded inline with the operating characteristics (serum copper >200 µg/dL: Sn 75%, Sp 96%). Reconcilable — AGA objects to reflexive universal testing, not to testing on suspicion.
+- **Routine VZV testing in the immunocompetent.** Same shape; AGA Rec 3 suggests against, ACG keeps VZV PCR in the panel.
+- **NAC in non-acetaminophen ALF.** [[acg-2023-alf]] gives it **strong/moderate**; AGA 2017 made **no recommendation**. The two converge on a subgroup — AGA's own post hoc analysis found the benefit in **stage 1–2 HE**, the grade ACG endorses.
+- **Prognostic model.** AGA prefers **MELD over KCC**; ACG accepts **either**. Noted on the page, along with the fact that the corpus now holds **three non-interchangeable MELD cut-offs** (25, 30.5, 32/33) from three analyses.
+
+**Stalest-page validation (2 pages):**
+- `[[giardiasis]]` (was 2026-08-27) — structure, ADDT order, schema pointer, See Also/Sources formats all correct. Fixed a **within-page duplication**: the "a positive panel needs clinical correlation before treating" point was made twice, in Establishing the Diagnosis and again in Therapeutics. Kept one statement per section with a cross-reference rather than a repeat. The nitazoxanide/tinidazole/metronidazole dosing gap is genuine (neither guideline prints a dose) and is already tracked on `needed-sources.md`.
+- `[[infectious-esophagitis]]` (was 2026-08-27) — decision-sufficient and table-forward; `## Contents` anchors verified against headings. Fixed **BPA 2 stated in three places and BPA 3 in three places**. Each now has one home — BPA 2 in Diagnostics, BPA 3 in Therapeutics — with Severity Assessment pointing to them instead of restating. HSV/CMV antiviral dosing gap already tracked on `needed-sources.md`.
+
+**Hygiene fixes:**
+- **Broken table cell** — `wiki/sources/acg-2021-gerd.md` Rec 4 had an unescaped alias pipe (`[[antireflux-surgery|antireflux surgery]]`) inside a Markdown table, which splits the cell in Obsidian. Escaped. This was the **only** occurrence wiki-wide.
+- **Broken link** — `[[cholecystectomy]]` on `aga-2018-initial-management-acute-pancreatitis.md` (introduced by the 2026-09-24 pass) pointed at a page that does not exist. Repointed to `[[acute-cholecystitis]]` / `[[choledocholithiasis]]`, which are the real homes. **Not stubbed**: cholecystectomy is a surgical procedure and no wiki folder covers surgery — creating one would need Nick's go-ahead under the never-create-folders rule.
+- **Link audit** — full-wiki broken-link scan (code spans and image embeds excluded) now returns **zero** broken targets on entity and source pages; the four remaining hits are illustrative `[[x]]`-style examples inside `log.md` prose. Unlinked-mention scan for Rutgeerts, thiopurines, vedolizumab, ustekinumab, mesalamine, nitazoxanide, terlipressin and postinfectious IBS returned only self-references.
+- No `.DS_Store` or other OS artifacts present. No stubs remain anywhere in the wiki.
+
+**Index counts corrected — two errors, one of them two passes old:**
+- The totals line read **313 sources / 47 concepts / 614 pages**; disk holds **315 / 49 / 616**. Every page was correctly listed in its own section — a programmatic check found **0 entity pages missing from the index** — so only the summary line had drifted.
+- ⚠ The ingest-backlog paragraph claimed **22** uningested tier-1 files, counting the CPU remainder as **12** when the table actually held **15** unstruck rows. The true pre-pass figure was **25**. Both numbers are now derived by counting unstruck table rows rather than by hand; after this pass **23** remain (8 new-arrival AGA guidelines, 15 older CPUs), plus 1 tier-2 file.
+
+**Coverage-gap queue: deliberately untouched this pass.** The schema caps gap-filling at 1–2 pages and says to take **1 or none** when the pass is already heavy on ingest. Two full guideline ingests with propagation to three entity pages, plus two stale-page validations, is a heavy pass — so **none** was taken. Next pass resumes at *Fillable now* **#12 `5-meds/hbv-nucleoside-analogs`**.
+
+**Remaining for triage:**
+- **The stale floor is a cohort, not a page.** Both entity pages validated here dated to late August, but the genuinely oldest `updated:` values in the wiki are **~30 source pages still stamped 2026-05-28** — the original load, written before the recommendation-capture rule existed. That cohort is where the 2026-09-08 finding (invented numbering and GRADE schemes) came from, and it deserves a dedicated pass rather than 2 pages at a time behind newer entity pages. **Suggest a pass scoped to validating 2026-05-28 source pages against their raw PDFs.**
+- **Ingest queue, in priority order:** 8 remaining new-arrival AGA **guidelines** (N5–N10, N12, N13 — higher tier than the CPU queue behind them), then 15 older AGA CPUs (items 34–48). N13 (AGA 2012 NAFLD) is explicitly last — superseded by [[aasld-2023-nafld]], of historical value only.
+- **Duplicate source pages**, unresolved since the 2026-09-06 audit: [[acg-2025-bowel-prep]] / [[usmstf-2025-bowel-prep]] share a DOI; [[asge-2020-endoscopic-removal]] / [[usmstf-2020-endoscopic-removal]] are one document co-published twice.
+- **`wiki/6-anatomy/`** is defined by the schema but has never existed on disk; 0 anatomy pages. Needs Nick's go-ahead.
+- **Anki:** no card files were written this pass. Both ingested sources are tier-1 guidelines and so are card-eligible, but the card queue rule takes pages one at a time in its own order — flagging rather than jumping the queue.
+
+---
+
 ## [2026-09-24] lint | The provenance streak breaks — first unattended pass in seven to record itself; two AGA Institute *guidelines* ingested, and an index row that had swallowed the row above it
 
 **Provenance — the six-pass failure streak is over.** The 2026-09-23 cron pass `d56b894` wrote **its own `log.md` entry and its own `index.md` rows**, in the same commit as the ingest. This is the first unattended pass since 2026-09-07 to do so, and the first time in seven passes that no hand backfill was owed. Recorded here because six consecutive entries below flagged the opposite; the schema changes in `2d816f2` (write the log entry header before any other edit) appear to have taken.

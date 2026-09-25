@@ -82,7 +82,7 @@ Verbatim from Table 1 unless noted; section numbering is the guideline's own (ea
 | 1 | We recommend optimization of PPI therapy as the first step in management of refractory GERD. | Strong | Moderate |
 | 2 | We suggest esophageal pH monitoring (Bravo, catheter-based, or combined impedance-pH monitoring) performed OFF PPIs if the diagnosis of GERD has not been established by a previous pH monitoring study or an endoscopy showing long-segment Barrett's esophagus or severe reflux esophagitis (LA grade C or D). | Conditional | Low |
 | 3 | We suggest esophageal impedance-pH monitoring performed ON PPIs for patients with an established diagnosis of GERD whose symptoms have not responded adequately to twice-daily PPI therapy. | Conditional | Low |
-| 4 | For patients who have regurgitation as their primary PPI-refractory symptom and who have had abnormal gastroesophageal reflux documented by objective testing, we suggest consideration of [[antireflux-surgery|antireflux surgery]] or TIF. | Conditional | Low |
+| 4 | For patients who have regurgitation as their primary PPI-refractory symptom and who have had abnormal gastroesophageal reflux documented by objective testing, we suggest consideration of [[antireflux-surgery\|antireflux surgery]] or TIF. | Conditional | Low |
 
 ### Surgical and endoscopic options for GERD
 

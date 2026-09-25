@@ -3,8 +3,8 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-09-24
-sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia]
+updated: 2026-09-25
+sources: [acg-2025-crohns, aga-2017-crohns-after-surgical-resection, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia]
 ---
 
 Idiopathic, transmural, granulomatous inflammatory disorder of the GI tract. Can involve any segment mouth-to-anus; discontinuous, skip lesions. Chronic progressive course with risk of stricture, fistula, abscess, and surgery.
@@ -367,16 +367,57 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ### Postoperative CD Prevention
 
-**Step 1:** Endoscopic assessment of the neoterminal ileum at **6–12 months** post-resection rather than no monitoring *(Conditional/Moderate)*; Rutgeerts score guides next steps — endoscopic recurrence shows up well before clinical recurrence.
+*Applies to the **asymptomatic** patient with an **ileocolonic anastomosis** and **no macroscopic residual disease** after resection. Not applicable to small-bowel anastomoses out of reach of the colonoscope, residual disease after resection, or active clinical symptoms ([[aga-2017-crohns-after-surgical-resection]]).*
+
+**Endpoint:** endoscopic recurrence = **[[ibd-endoscopic-scoring|Rutgeerts score ≥i2]]** at the neoterminal ileum — it precedes clinical and surgical recurrence, and is the surrogate all the prophylaxis trials were powered on.
+
+#### Step 1 — Stratify the risk
+
+No validated score predicts postoperative recurrence. [[aga-2017-crohns-after-surgical-resection]] instead publishes two **illustrative** risk groups with their recurrence rates **>18 months after surgery in the absence of any intervention**:
+
+| Risk group | Typical patient | Clinical recurrence | Endoscopic recurrence |
+|---|---|---|---|
+| **Lower** | Older than **50 y** · nonsmoker · **first** surgery, for a **short segment (<10–20 cm)** of **fibrostenotic** disease · disease duration **>10 y** | **20%** | **30%** |
+| **Higher** | Younger than **30 y** · **smoker** · **≥2 prior surgeries** for **penetrating** disease, ± perianal disease | **50%** | **80%** |
+
+#### Step 2 — Choose the strategy
+
+- **Early pharmacological prophylaxis** (started **within 8 weeks** of surgery) is suggested **over endoscopy-guided treatment** *(Conditional / Very low)* — most post-resection patients carry at least one risk factor.
+- **Endoscopy-guided treatment** (drug started only if the 6–12 month scope shows recurrence) is a reasonable alternative for **lower-risk** patients who weight drug adverse events more heavily than early recurrence. The one head-to-head trial (63 patients, azathioprine) was **null** for both endpoints — clinical RR 0.83 (95% CI 0.46–1.50), endoscopic RR 0.91 (0.59–1.42) — so there is genuine equipoise.
+
+#### Step 3 — Pick the agent
 
 | Postoperative risk | Treatment | Strength |
 |---|---|---|
 | **Low** | Continued **observation** rather than immediate medical therapy | Conditional / Very low |
 | Any, after **small-intestinal resection** | Imidazole antibiotics (metronidazole) **1–2 g/day** | Conditional / Low |
-| **High** (prior resection, penetrating phenotype, smoking, short disease duration) | **Anti-TNF** | **Strong** / Moderate |
-| **High** | **Vedolizumab** | Conditional / Low |
+| **High** (prior resection, penetrating phenotype, smoking, short disease duration) | **[[anti-tnf-agents\|Anti-TNF]]** | **Strong** / Moderate |
+| **High** | **[[vedolizumab]]** | Conditional / Low |
+| Any | **[[anti-tnf-agents\|Anti-TNF]] and/or [[thiopurines]]** over other agents | Conditional / Moderate |
+| Any | **Against** [[mesalamine-5-asa\|mesalamine (or other 5-ASAs)]], **budesonide**, or **[[probiotics]]** | Conditional / Low; very low |
 
+- **Relative risk reductions vs placebo** ([[aga-2017-crohns-after-surgical-resection]]): anti-TNF **49% clinical / 76% endoscopic** at 18 months; thiopurines **65% / 60%**; antibiotics **~50%** for both — but antibiotics are probably inferior to anti-TNF by a large margin and modestly inferior to thiopurines.
+- **Nitroimidazoles are the only antibiotic class adequately studied** in this setting, so metronidazole is the one to use if antibiotics are chosen — and only for **3–12 months**, because cumulative dosing causes **peripheral neuropathy**. Expect recurrence within a couple of years of stopping.
 - Metronidazole is poorly tolerated — **~50% of patients were intolerant** in placebo-controlled trials, so it is not sustainable as a long-term strategy. Combining metronidazole **1 g/day × 3 months** with azathioprine **100–150 mg/day × 12 months** reduced endoscopic recurrence (Rutgeerts i2–4) at 1 year versus metronidazole alone.
+- The main harm of choosing 5-ASA, budesonide or probiotics is **disease recurrence from foregoing more effective therapy**.
+
+#### Step 4 — Scope at 6–12 months
+
+Endoscopic assessment of the neoterminal ileum at **6–12 months** post-resection, rather than no monitoring — and the **strength depends on whether the patient is protected**:
+
+| Patient | Recommendation | Strength |
+|---|---|---|
+| **Receiving** pharmacological prophylaxis | Postoperative endoscopic monitoring at 6–12 mo | Conditional / Moderate |
+| **Not receiving** pharmacological prophylaxis | Postoperative endoscopic monitoring at 6–12 mo | **Strong** / Moderate |
+
+- The unprotected patient gets the strong recommendation because endoscopic recurrence reaches **as high as 90% within 1 year** of surgery with no prophylaxis.
+- How often to scope **after** that first postoperative colonoscopy is not established by any ingested source.
+
+#### Step 5 — Act on asymptomatic endoscopic recurrence
+
+- **Initiate or optimize [[anti-tnf-agents\|anti-TNF]] and/or [[thiopurines|thiopurine]] therapy** rather than continue monitoring alone *(Conditional / Moderate)*.
+- **Thiopurine monotherapy** may suit **less severe** endoscopic recurrence (Rutgeerts **i2**), given slower onset and potentially lower efficacy.
+- Recurrence **while already on a thiopurine** → **step up by adding an anti-TNF**, as monotherapy or combination therapy.
 
 ---
 
@@ -470,16 +511,17 @@ No single pathognomonic test. Diagnosis = integration of:
 ## Sources
 
 1. [[acg-2025-crohns|ACG 2025: Management of Crohn's Disease in Adults]]
-2. [[aga-2025-crohns-pharm|AGA Living Guideline: Pharmacologic Management of Moderate-to-Severe Crohn's Disease (2025)]]
-3. [[aga-2021-crohns-pharm|AGA Clinical Practice Guidelines on the Medical Management of Moderate to Severe Luminal and Perianal Fistulizing Crohn's Disease (2021)]]
-4. [[aga-2023-biomarkers-cd|AGA Clinical Practice Guideline: Role of Biomarkers for the Management of Crohn's Disease (2023)]]
-5. [[acg-2018-crohns|ACG 2018: Management of Crohn's Disease in Adults (historical)]]
-6. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]
-7. [[asge-2015-ibd|ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (2015)]]
-8. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review (2026)]]
-9. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary (2026)]]
-10. [[aga-2024-intestinal-ultrasound|AGA Clinical Practice Update on the Role of Intestinal Ultrasound in Inflammatory Bowel Disease: Commentary (2024)]]
-11. [[aga-2024-diet-nutrition-ibd|AGA Clinical Practice Update on Diet and Nutritional Therapies in Patients With IBD: Expert Review (2024)]]
-12. [[aga-2024-ibd-malignancy|AGA Clinical Practice Update on Management of IBD in Patients With Malignancy: Commentary (2024)]]
-13. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review (2024)]]
-14. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
+2. [[aga-2017-crohns-after-surgical-resection|AGA Institute Guideline on the Management of Crohn's Disease After Surgical Resection (2017)]]
+3. [[aga-2025-crohns-pharm|AGA Living Guideline: Pharmacologic Management of Moderate-to-Severe Crohn's Disease (2025)]]
+4. [[aga-2021-crohns-pharm|AGA Clinical Practice Guidelines on the Medical Management of Moderate to Severe Luminal and Perianal Fistulizing Crohn's Disease (2021)]]
+5. [[aga-2023-biomarkers-cd|AGA Clinical Practice Guideline: Role of Biomarkers for the Management of Crohn's Disease (2023)]]
+6. [[acg-2018-crohns|ACG 2018: Management of Crohn's Disease in Adults (historical)]]
+7. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]
+8. [[asge-2015-ibd|ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (2015)]]
+9. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review (2026)]]
+10. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary (2026)]]
+11. [[aga-2024-intestinal-ultrasound|AGA Clinical Practice Update on the Role of Intestinal Ultrasound in Inflammatory Bowel Disease: Commentary (2024)]]
+12. [[aga-2024-diet-nutrition-ibd|AGA Clinical Practice Update on Diet and Nutritional Therapies in Patients With IBD: Expert Review (2024)]]
+13. [[aga-2024-ibd-malignancy|AGA Clinical Practice Update on Management of IBD in Patients With Malignancy: Commentary (2024)]]
+14. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review (2024)]]
+15. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]

@@ -3,7 +3,7 @@ title: "Infectious Esophagitis"
 category: disease-script
 tags: [esophagus, candida, hsv, cmv, odynophagia, dysphagia, immunocompromise, infectious-esophagitis]
 created: 2026-07-28
-updated: 2026-08-27
+updated: 2026-09-25
 sources: [aga-2024-esophageal-immunity-infection]
 ---
 
@@ -28,13 +28,12 @@ Esophageal infection causing dysphagia, odynophagia, and chest pain. Most common
 
 - Presents with **dysphagia and/or (often severe) odynophagia**; consider in any patient with these symptoms, especially with risk factors.
 - **[[upper-endoscopy|EGD]] with biopsies ± brushings** is the diagnostic test — endoscopic appearance suggests the organism; biopsy/cytology confirms.
-- Identify **immunocompromise** — if an esophageal infection is found, assess whether accompanying signs/symptoms suggest a more systemic infection (consult infectious disease). (BPA 2)
-- **If symptoms do not improve after therapy**, evaluate for refractory infection or an additional underlying esophageal/immunologic disorder. (BPA 3)
+- Establish the patient's **immune status** — it drives both the differential and the depth of the workup.
 
 ### Severity Assessment
 
 - **No severity score or grading system applies to infectious esophagitis.** The only graded descriptor is endoscopic extent for Candida — in severe cases it may **carpet the entire esophagus**.
-- Severity is driven by: **degree of immunosuppression** (decides whether to look for systemic infection and whether to consult ID — BPA 2), **ulcer depth** (shallow in HSV vs **deep** in CMV), and **failure to improve on therapy** (BPA 3 — triggers reassessment for refractory infection or a coexisting immune-mediated disorder).
+- Three things stand in for severity: **degree of immunosuppression**, **ulcer depth** (shallow in HSV vs **deep** in CMV), and **failure to improve on therapy**. The first decides whether to look beyond the esophagus (see Diagnostics); the last triggers reassessment (see Therapeutics).
 
 ### Organism-specific features
 
@@ -64,7 +63,7 @@ Esophageal infection causing dysphagia, odynophagia, and chest pain. Most common
 ## Diagnostics
 
 - **[[upper-endoscopy|EGD]] with biopsies and brushings** — take brushings **if nummular lesions are identified**; take esophageal biopsies for the viral causes. Whether to sample the ulcer edge or base is not specified.
-- **Consider infectious disease consultation** when an esophageal infection is identified in an immunosuppressed patient (BPA 2).
+- When an esophageal infection **is** identified, assess whether the accompanying signs and symptoms point to a **more systemic infection**, and **consult infectious disease** in the immunosuppressed patient. (BPA 2)
 
 ### History-driven evaluation
 
@@ -92,7 +91,7 @@ The source's Table 1 links the pertinent history to what to look for — the pra
 
 > Antiviral doses for HSV and CMV esophagitis are not specified; only the durations above are given.
 
-- Refractory symptoms after appropriate therapy → reassess for resistant/refractory infection or a coexisting immune-mediated esophageal disorder. (BPA 3)
+- **If symptoms do not improve after therapy**, evaluate for a resistant/refractory infection **or** an additional underlying esophageal or immunologic disorder. (BPA 3)
 
 ## See Also
 

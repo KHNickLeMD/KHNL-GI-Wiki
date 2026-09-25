@@ -3,8 +3,8 @@ title: "Acute Liver Failure"
 category: disease-script
 tags: [acute-liver-failure, alf, liver, hepatology, transplant, liver-transplant-referral]
 created: 2026-05-15
-updated: 2026-09-03
-sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2011-alf]
+updated: 2026-09-25
+sources: [acg-2023-alf, aga-2017-acute-liver-failure, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2011-alf]
 ---
 
 ## Assessment
@@ -53,10 +53,21 @@ sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-t
 
 | Cut-off | Where it comes from | Performance |
 |---|---|---|
-| **MELD >25** | Rec 10 (conditional, low quality) — "patients meeting KCC **or** presenting with MELD >25 are at high risk of poor outcomes" | — |
-| **MELD >33 (APAP-induced)** / **MELD >32 (non-APAP)** | Table 11, study-derived thresholds | Sn 74%, Sp 67% |
+| **MELD >25** | [[acg-2023-alf]] Rec 10 (conditional, low quality) — "patients meeting KCC **or** presenting with MELD >25 are at high risk of poor outcomes" | — |
+| **MELD >33 (APAP-induced)** / **MELD >32 (non-APAP)** | [[acg-2023-alf]] Table 11, study-derived thresholds | Sn 74%, Sp 67% |
+| **MELD 30.5 (fixed cut-off)** | [[aga-2017-acute-liver-failure]] Rec 5 (conditional, very low) — higher scores predict the need for LT | see below |
 
-- Meta-analysis (23 studies, 2,153 patients): MELD thresholds across studies were **not standardized, ranging 25–37**. Pooled — KCC Sn 59% vs MELD 74%; KCC Sp 79% vs MELD 67%. KCC is more accurate for APAP-associated ALF, MELD for non-APAP.
+> ⚠ The three MELD cut-offs come from three different analyses and are **not interchangeable**. [[acg-2023-alf]] notes that MELD thresholds across the published studies were **not standardized, ranging 25–37**.
+
+- **Meta-analysis** ([[acg-2023-alf]]; 23 studies, 2,153 patients): pooled KCC Sn 59% vs MELD 74%; KCC Sp 79% vs MELD 67%. KCC is more accurate for APAP-associated ALF, MELD for non-APAP.
+- **Pooled accuracy** ([[aga-2017-acute-liver-failure]]) — the basis for AGA preferring MELD outright:
+
+| Model | Studies / patients | Sensitivity | Specificity | Diagnostic OR |
+|---|---|---|---|---|
+| **KCC** | 8 / 962 (47% died) | 61% (47–76%) | **86%** (64–95%) | 9.58 (95% CI 4.74–19.36) |
+| **MELD** | 6 / 526 (58% died) | **77%** (70–92%) | 72% (56–85%) | 8.79 (95% CI 5.19–14.89) |
+
+- The two guidelines do not agree on a single instrument: **[[acg-2023-alf]] accepts either KCC or MELD**; **[[aga-2017-acute-liver-failure]] suggests MELD *rather than* KCC**, reasoning that MELD "offers the opportunity to optimize specificity without losing significant sensitivity."
 
 **Other criteria:**
 
@@ -64,8 +75,6 @@ sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-t
   - ⚠ *[[acg-2023-alf]] labels these two percentages **sensitivity** in Table 11 but **specificity** in the body text ("shown to have low specificity, 56%… and 50%…"). The source contradicts itself; either way the criteria perform poorly.*
 - **Escudie criteria** (mushroom poisoning only): diarrhea within 8 hr of ingestion OR prothrombin index <10% (~INR >6) at ≥4 days post-ingestion — use before HE develops
 - **Swansea criteria** ([[acute-fatty-liver-of-pregnancy|acute fatty liver of pregnancy]]): **≥6 of 14** clinical/lab findings, in the absence of another cause — the 14 findings and their thresholds live on [[liver-disease-in-pregnancy]]
-
-ACG recommends using **either KCC or MELD** for prognostication (conditional, low quality evidence).
 
 ### Classification / Typing (O'Grady)
 
@@ -112,8 +121,10 @@ ALF must be distinguished from conditions with overlapping presentations:
 **Viral hepatitis panel:**
 
 - HAV IgM, HBsAg, HBcIgM, HBV PCR, [[hepatitis-c|HCV]] PCR
-- HEV PCR (if endemic region or immunocompromised)
+- HEV PCR (if endemic region or immunocompromised) — **also test any pregnant woman with ALF** ([[aga-2017-acute-liver-failure]] Rec 4, conditional/very low). HEV is particularly common in pregnancy and mortality from HEV-associated ALF in pregnant women is **56% (range 33%–71%)** across five Indian studies. **There is no treatment for HEV.**
 - EBV PCR, CMV PCR, HSV PCR, VZV PCR
+  - **HSV:** test and treat ([[aga-2017-acute-liver-failure]] Rec 2). Rare — 1% of 513 adults with ALF had positive HSV serologies — and **HSV DNA outperforms IgM** (in biopsy-confirmed HSV ALF, 2 of 4 had positive IgM but **4 of 4** had positive DNA).
+  - **VZV:** [[aga-2017-acute-liver-failure]] Rec 3 suggests **against** routinely testing every *immunocompetent* patient (only 10 case reports of VZV-attributed ALF exist, 2 in non-immunocompromised hosts). [[acg-2023-alf]] is newer and includes VZV PCR in the initial panel — that is what this page follows; reserve the AGA position for resource-constrained settings.
 
 **Toxicology:**
 
@@ -130,6 +141,7 @@ ALF must be distinguished from conditions with overlapping presentations:
 **Metabolic:**
 
 - Ceruloplasmin ([[wilson-disease|Wilson disease]] screening)
+  - [[aga-2017-acute-liver-failure]] Rec 1 suggests **against** routinely testing *all* ALF patients for Wilson disease: prevalence in ALF is very low, so any test has high negative but **low positive predictive value**, and ceruloplasmin, serum/hepatic copper and 24-h urine copper all carry high false-positive and false-negative rates. **Serum copper >200 µg/dL:** Sn 75%, Sp 96%. Test when clinical suspicion is high — identifying Wilson disease will not change ALF management or outcome, but it changes **post-transplant management and family screening**. [[acg-2023-alf]] is newer and keeps ceruloplasmin in the universal panel, which is what this page follows.
 - Ferritin ([[hereditary-hemochromatosis|hemochromatosis]], Still's disease)
 
 ### Imaging
@@ -157,6 +169,12 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 - Exclude infiltrative disease or malignancy
 - Diagnose AIH (may respond to corticosteroids and spare the patient LT)
 - Assess degree of hepatocellular necrosis when etiology is uncertain
+
+**Yield and risk** ([[aga-2017-acute-liver-failure]] Rec 6, suggests *against* routine use, conditional/very low):
+
+- Biopsy **changed the diagnosis in 18%** across two studies — but neither reported whether the change altered treatment or outcome.
+- **>50% hepatocyte necrosis → 3-fold higher mortality** (four studies). Quality data are not available for using biopsy results to decide on transplantation.
+- Against this sits a risk of **bleeding and death that is not insignificant** in a coagulopathic patient.
 
 > Hepatocellular necrosis on biopsy predicts higher mortality and may guide LT timing in non-APAP ALF.
 
@@ -191,7 +209,9 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
   - Common practice targets serum Na **145–150 mmol/L**, but [[acg-2023-alf]] states it **found no supporting literature** for that target
   - Avoid hyponatremia; when correcting, do not exceed **6–8 mmol/L in 24 h**
   - Therapeutic hypothermia for refractory intracranial hypertension: heterogeneous studies, **no overall survival benefit**
+  - **Do not treat ICP empirically** ([[aga-2017-acute-liver-failure]] Rec 8, conditional/very low). Five RCTs (**410 patients**) each assessed one therapy — moderate hypothermia, hypertonic saline, L-ornithine L-aspartate, IV mannitol, hyperventilation — with **no overall effect on mortality and no statistically significant benefit from any individual therapy**. Treat measured intracranial hypertension; do not start these agents on presumption.
 - ICP monitoring: not routine; may be considered at expert centers in grade 4 HE + transplant candidates
+  - Monitoring itself carries morbidity, and [[aga-2017-acute-liver-failure]] notes the circularity — if the therapy is ineffective, monitoring to guide it is hard to justify
 
 **CRRT for hyperammonemia:**
 
@@ -240,7 +260,8 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 **Non-APAP drug-induced liver injury:**
 
 - Discontinue offending agent immediately
-- **IV NAC** (strong recommendation, moderate quality): improves transplant-free survival in coma grade I–II (52% vs 30%)
+- **IV NAC** (strong recommendation, moderate quality, [[acg-2023-alf]]): improves transplant-free survival in coma grade I–II (52% vs 30%)
+  - ⚠ [[aga-2017-acute-liver-failure]] Rec 11 made **no recommendation** for NAC in non-acetaminophen ALF and confined it to clinical trials — 2 RCTs (228 patients) found **no effect on overall mortality**. The newer [[acg-2023-alf]] position governs this page, and the two converge on the same subgroup: AGA's own post hoc analysis (114 patients) found the mortality benefit **specifically in stage 1–2 hepatic encephalopathy**, which is the grade ACG endorses.
 - Corticosteroids if hypersensitivity features (e.g., eosinophilia, rash) or autoimmune pattern (minocycline, nitrofurantoin)
 - Reference LiverTox.nih.gov for drug-specific hepatotoxicity data
 
@@ -307,7 +328,7 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 
 **Indeterminate/cryptogenic ALF:**
 
-- IV NAC for low-grade encephalopathy (grade I–II)
+- IV NAC for low-grade encephalopathy (grade I–II) — indeterminate cases may be acetaminophen-related
 - Consider liver biopsy (may reveal unrecognized AIH)
 - Early LT evaluation — spontaneous survival is poor
 
@@ -338,6 +359,7 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 
 - HVPE (8–12 L FFP): may improve transplant-free survival; insufficient evidence for routine use recommendation
 - Artificial/bioartificial liver support (MARS, SPAD, Prometheus): not FDA-approved for ALF; insufficient evidence for routine use; may be considered as bridge to transplant or recovery at investigational centers
+- [[aga-2017-acute-liver-failure]] Rec 9 states these systems should be used **only within a clinical trial** — but issues **no graded recommendation** either way. Seven RCTs (415 patients) showed no survival improvement, though the 4 trials from the preceding 20 years (332 patients) showed a marginally significant benefit, and a post hoc analysis found **albumin + bioartificial support combined** reduced mortality (**RR 0.80, 95% CI 0.65–0.98**). Costly, resource-intensive, with significant potential toxicities
 
 ---
 
@@ -350,6 +372,7 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 ## Sources
 
 1. [[acg-2023-alf|ACG 2023: Acute Liver Failure]]
-2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
-3. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
-4. [[aasld-2011-alf|AASLD Position Paper: The Management of Acute Liver Failure — Update 2011]] (historical)
+2. [[aga-2017-acute-liver-failure|AGA Institute Guidelines for the Diagnosis and Management of Acute Liver Failure (2017)]]
+3. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
+4. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
+5. [[aasld-2011-alf|AASLD Position Paper: The Management of Acute Liver Failure — Update 2011]] (historical)

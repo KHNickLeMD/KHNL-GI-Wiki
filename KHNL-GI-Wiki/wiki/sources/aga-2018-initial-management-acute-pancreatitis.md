@@ -113,7 +113,7 @@ The guideline's practical thrust is that three long-held management paradigms ar
 
 - **[[acute-pancreatitis]]** — supplies an AGA-graded initial-management spine for the first 48–72 hours to sit beside [[acg-2024-acute-pancreatitis]]: goal-directed fluid therapy with the explicit named perfusion targets, the against-HES statement, the no-prophylactic-antibiotics statement including its extension to mild disease, early oral feeding within 24 hours with the "clear liquids not required" detail, enteral over parenteral nutrition, and same-admission cholecystectomy.
 - **[[ercp]]** — the against-routine-urgent-ERCP recommendation in biliary pancreatitis without cholangitis, with the cholangitis carve-out stated as a clear indication.
-- **[[cholecystectomy]] / gallstone disease pages** — the PONCHO same-admission data, including the finding that early surgery is no more technically difficult.
+- **[[acute-cholecystitis]] / [[choledocholithiasis]]** — the PONCHO same-admission data, including the finding that early surgery is no more technically difficult. *(There is no standalone `cholecystectomy` page; it is a surgical procedure and none of the wiki's procedure folders covers surgery.)*
 - **[[alcohol-associated-liver-disease]] and alcohol-use pages** — the brief-intervention recommendation and the 41 g/week Cochrane effect size.
 
 ## Contradictions / Open Questions
