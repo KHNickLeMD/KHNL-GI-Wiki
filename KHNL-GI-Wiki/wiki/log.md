@@ -6,6 +6,90 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-25] lint | AGA 2015 pancreatic cysts + AGA 2019 functional diarrhea/IBS-D lab evaluation
+
+**Inbox check:** no new arrivals. 449 non-asset files in `raw/`, every one of the 11 society subfolder counts matching the 2026-09-23 baseline (AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1). `git log --name-only -- wiki/sources/` confirms no unstruck cron ingest since the last manual pass.
+
+**Sources created (2 — the per-pass cap, both from the N-queue of 2026-09-23 arrivals, which outranks the older CPU backlog on tier):**
+
+- `wiki/sources/aga-2015-asymptomatic-neoplastic-pancreatic-cysts.md` — AGA Institute Guideline, *Gastroenterology* 2015;148:819–822. All **10 numbered recommendations** verbatim with strength and quality. Rec 1 carries **no GRADE rating** — the document calls it a "motherhood statement that does not require application of the GRADE system"; **Rec 8 is the only Strong one**; every graded statement is Very low quality.
+- `wiki/sources/aga-2019-lab-evaluation-functional-diarrhea-ibs-d.md` — AGA Institute Guideline, *Gastroenterology* 2019;157:851–854. All **7 numbered recommendations** verbatim from Table 3, plus the four printed **Comment** blocks, which is where the operative thresholds actually live.
+
+**Pages updated:**
+
+- `[[chronic-diarrhea]]` — new `### Which Laboratory Tests to Send — and Which to Skip` decision table; new scope block defining who the lab workup applies to; bile-acid test menu rebuilt with availability; O&P corrected (below).
+- `[[pancreatic-cysts]]` — new `### Where AGA 2015 Differs — and Why This Page Follows ACG` comparison table, the three high-risk features with their effect sizes, and the surveillance-vs-surgery trade-off numbers.
+- `[[irritable-bowel-syndrome]]` — *Giardia* Strong/High added; anti-CdtB/anti-vinculin knowledge-gap verdict added; calprotectin/lactoferrin cut-points pointed at their one home; two fabricated doses corrected (below).
+- `[[acg-2020-ibs]]` — stalest-cohort validation against the raw PDF; substantial corrections (below).
+- `[[hepatic-encephalopathy]]`, `[[cirrhosis]]`, `[[acute-on-chronic-liver-failure]]`, `[[aki-in-cirrhosis]]`, `[[nutrition-in-liver-disease]]`, `[[tips]]`, `[[rifaximin]]`, `[[variceal-upper-gi-bleeding]]` — `[[lactulose]]` de-orphaned (below).
+
+**The finding that mattered — two fabricated drug doses on a clinical reference page.** Stalest-cohort validation of `[[acg-2020-ibs]]` (frontmatter `updated:` had stood at 2026-05-28, the original load, written before the recommendation-capture rule existed) against the raw PDF found content attributed to ACG that the guideline does not contain:
+
+- **"Rifaximin 550 mg TID × 14 days"**, stated twice. The string `550` occurs **zero times in the entire document** — verified directly. Statement 20 is dose-free; the only duration ACG gives is a **2-week course**, with up to 2 retreatment courses. Corrected, and the absence of a dose is now stated plainly for the reader. *(The 550 mg t.i.d. × 14 d regimen does appear on `[[rifaximin]]`, correctly attributed there to [[aga-2022-ibs-d]] — that one is sourced and stays.)*
+- **"Plecanatide 3/6 mg"**. The document says 3 mg and only 3 mg, every time. Corrected on the source page and on `[[irritable-bowel-syndrome]]`, which additionally claimed ACG "states the recommendation as 3 or 6 mg" — it does not use that wording anywhere.
+
+**Three Conditional recommendations had been upgraded to Strong** in the same page's Summary — PEG for IBS-C (Rec 15), antispasmodics (Rec 12) and bile-acid sequestrants (Rec 19) are all **Conditional**; only FMT (Rec 25) is Strong. This is the invented-GRADE failure mode from the 2026-09-08 sweep, still live in the 2026-05-28 cohort.
+
+**Other capture defects fixed on `[[acg-2020-ibs]]`:**
+
+- **Five recommendations were missing entirely** (Recs 5, 7, 8, 9, 10); Rec 7 appeared nowhere on the page. All added verbatim with their grades.
+- **The recommendations table carried no numbers at all** — the document numbers 1–25. Numbers restored where confirmed.
+- **Merged rows split**: Recs 3+4 and 5+6 had each been collapsed into one row, and the merged 5/6 row added "using Rome IV criteria", which is in neither statement.
+- **Rec 2's grade split had been invented as a range.** The document grades it twice — Strong/**Moderate** for calprotectin and CRP, Strong/**Very low** for lactoferrin. "Moderate–Very Low" is not a grade the document issues. The dropped population qualifier ("without alarm features") is restored.
+- **Tegaserod's grade is genuinely contradictory *in the source***: Table 2 prints "Strong/conditional", the in-text box prints "Conditional". Both are now shown rather than silently flattened to Strong.
+- **Dosing and qualifiers restored** from the source: lubiprostone 8 µg BID; alosetron 0.5–1.0 mg BID with the **>6 months chronicity** qualifier; eluxadoline's 75 mg alternative, Child-Pugh C exclusion and full contraindication list (prior pancreatitis, absent gallbladder, alcoholism, >3 drinks/day); tegaserod contraindicated with **more than 1** CV risk factor; imipramine 50–100 mg added to the TCA table with the bundle-branch-block / QT prolongation rule and start-low guidance; the Bristol-based IBS subtyping cut-points with the 2-week off-therapy diary requirement.
+- `title:` corrected — the document's actual title carries no year.
+
+**Decision gap closed — `[[chronic-diarrhea]]` had a lab workup with no laboratory guideline behind it.** The page carried an explicit warning that its only guideline was [[asge-2010-diarrhea]], a *role-of-endoscopy* document, and that its testing thresholds were unverified. AGA 2019 is precisely the missing guideline. Now on the page with operative detail:
+
+- **Fecal calprotectin 50 µg/g** (Sn 0.81, Sp 0.87) *or* **lactoferrin 4.0–7.25 µg/g** (Sn 0.79, Sp 0.93) — either, not both. And the counterintuitive part that makes it a decision: **raising the calprotectin cutoff to 100–164 µg/g markedly cuts sensitivity without meaningfully improving specificity**.
+- **Against ESR or CRP** as an IBD screen — with the one named exception, that CRP is reasonable when a fecal marker is unavailable or uncovered.
+- ***Giardia* antigen or PCR — Strong/High**, the only High-quality rating in the document (>95% Sn and Sp).
+- **Celiac**: IgA-tTG (7–15 AU/mL range, Sn >90%) **plus** a second test for IgA deficiency, and biopsy before committing to a gluten-free diet.
+- **Bile acid diarrhea**: the four assays with their availability status — SeHCAT not available in North America, C4 "not yet available", 48-h fecal bile acids and FGF19 available — and the empiric-binder fallback.
+
+**Source-fidelity correction on `[[chronic-diarrhea]]`:** the algorithm listed routine **ova & parasites** as a step-4 stool study. AGA 2019 Rec 4 suggests **against** it — but *only* in patients with no travel to or recent immigration from a high-risk area. The qualifier is preserved on the page, because without it the recommendation is unsafe.
+
+**The population definition is treated as load-bearing content, not preamble.** AGA 2019's against-testing recommendations are only valid for the immunocompetent adult with watery diarrhea ≥4 weeks and **no** bloody stool, steatorrhea, alarm features, relevant family history or travel. That list is now a section on the page, because applying Rec 4 outside it is the way this guideline gets misused.
+
+**Contradictions surfaced (newer within tier 1 governs in both cases):**
+
+- **Pancreatic cysts — five substantive divergences.** [[acg-2018-pancreatic-cysts]] is newer and governs `[[pancreatic-cysts]]`; AGA 2015 is recorded as the contrasting position in its own table. EUS-FNA trigger (**≥2 features** vs any one); surveillance interval (**q2 years any size** vs size-stratified); stopping (**stop at 5 years** vs insufficient evidence to stop); post-resection without HGD (**against** vs all resected IPMN surveilled); surgery threshold. Both agree on high-volume centres — AGA's only Strong recommendation.
+- **AGA 2015 contradicts itself on dilated MPD.** Its own review found **no statistically significant association** with malignancy, yet it retained the feature as one of three high-risk criteria on the strength of resected-IPMN series. Recorded on both pages with that caveat attached.
+- **ESR/CRP in IBS.** ACG 2020 keeps CRP in the IBS-D panel; AGA 2019 suggests against CRP *as an IBD screen*. ACG is newer and the panel stands; the narrower AGA objection is noted rather than collapsed into a false conflict.
+- **Two formal non-recommendations preserved as such.** AGA 2019 Rec 7 (anti-CdtB / anti-vinculin serology) is graded **"No recommendation / knowledge gap"** — Sp ~90% but Sn only 20–40%. It is marked on both the source page and `[[irritable-bowel-syndrome]]` as neither an endorsement nor a veto. Same trap as the 2026-09-25 ALF pass.
+
+**Orphan fixed — `[[lactulose]]` had zero inbound links from anywhere in the wiki.** The page was created 2026-09-23 and was unreachable except through `index.md`, while lactulose was named in plain text on a dozen pages. Linked on first mention across `[[hepatic-encephalopathy]]` (which has its own `### Lactulose` section), `[[cirrhosis]]`, `[[acute-on-chronic-liver-failure]]`, `[[aki-in-cirrhosis]]`, `[[nutrition-in-liver-disease]]`, `[[tips]]`, `[[rifaximin]]` and `[[variceal-upper-gi-bleeding]]`.
+
+**Two index rows were asserting propagation that never happened.** `index.md` claimed [[aga-2021-post-esd-surveillance]] "fed [[endoscopic-submucosal-dissection]], [[colorectal-esd]]" and [[aga-2022-subepithelial-lesions]] "fed [[subepithelial-lesion]], [[gastrointestinal-stromal-tumor]]". Neither slug appears in any of those four pages' `sources:`, and both source pages have **0 inbound links** — the content never left the source page. Both rows corrected to say so and flagged as open items rather than silently left as false claims. This is a new failure shape: not a missing row, not a malformed row, but a **row that overstates what the ingest accomplished**.
+
+**Hygiene (full-wiki scans, all programmatic):**
+
+- **Broken links: zero.** All 940 unique link targets across 616 pages resolve by basename; no duplicate basenames.
+- **Unescaped alias pipes in tables: zero.**
+- **Frontmatter: clean** — all 613 checked pages carry `title:`, `category:`, `created:`, `updated:`, `sources:`.
+- **See Also format: clean on every entity page** — no banned headings, no bulleted lists, no descriptions, no source slugs.
+- No `.DS_Store` or other OS artifacts. No stubs anywhere in the wiki.
+- `index.md` counts corrected: **317 sources / 618 pages** (were 315/616). Backlog figure recomputed from unstruck table rows: **21** uningested tier-1 files (was 23).
+
+**Inbox: nothing to commit from `raw/`.** The pass prompt asked for `git status` to surface untracked arrivals; it cannot and did not — `raw/`'s content subfolders are git-ignored, so a synced PDF never appears as untracked. The count-vs-baseline check is what answers the question, and it found no delivery.
+
+**Coverage-gap queue: deliberately untouched.** The schema caps gap-filling at 1–2 pages and says take **1 or none** when the pass is already heavy on ingest. Two full guideline ingests, a deep stale-page validation that turned up fabricated doses, and an orphan fix is a heavy pass — so **none**. Next pass resumes at *Fillable now* **#12 `5-meds/hbv-nucleoside-analogs`**.
+
+**Remaining for triage:**
+
+- **The 2026-05-28 source cohort is still the real stale floor — and it is now proven to contain fabrications, not just omissions.** 33 pages remain at that date. One of the two validated this pass had invented drug doses and three upgraded GRADE strengths. **Recommend a pass scoped entirely to validating this cohort against the raw PDFs**, rather than 2 pages at a time behind newer entity pages. `wiki/sources/acg-cag-2017-dyspepsia.md` was also validated and is **clean on all 14 statement numbers and all 14 grades** — the rot is not uniform, which is why it needs checking rather than assuming.
+- **`acg-cag-2017-dyspepsia` decision gaps** (grades are correct, inputs are missing): the guideline's own definition of dyspepsia (predominant epigastric pain **≥1 month**); the **alarm-feature exception** that overrides the no-endoscopy-under-60 rule (weight loss **>20 lb**, rapidly progressive dysphagia, combination of features, family history); **≥4 weeks** before reassessing eradication response; PPI **8 weeks standard once-daily** with no value in doubling; gastric biopsies at a normal EGD if no prior non-invasive testing; **4-h solid-phase gastric-emptying scan** only in FD with predominant severe nausea/vomiting failing empiric therapy. Also two prose errors: the TCA-before-prokinetic order applies **only to FD** (the guideline explicitly states no preference in uninvestigated dyspepsia), and "FDA black box" for metoclopramide is not in the source — it says use **<12 weeks**.
+- **Un-propagated ingests:** [[aga-2021-post-esd-surveillance]] and [[aga-2022-subepithelial-lesions]] need their content pushed to the four entity pages named above.
+- **Figure capture still outstanding** for [[acg-2020-ibs]] (Table 1 Rome IV, Table 6 pelvic-floor exam findings, Table 7 TCA doses, Figure 1 Bristol scale, Figure 2 pelvic floor anatomy) and [[acg-cag-2017-dyspepsia]] (Figures 1–2, the two algorithms) — check whether [[irritable-bowel-syndrome]] and [[dyspepsia]] already own them before duplicating.
+- **Source pages cross-linking sibling source slugs in `## See Also`** — 38 occurrences across 26 pages, **all inside `wiki/sources/`, none on an entity page**. The schema rule is unconditional, but these are superseded-by/companion pointers between source pages. Needs Nick's call before a sweep.
+- **Ingest queue:** 6 remaining new-arrival AGA guidelines (N7–N10, N12, N13), then 15 older AGA CPUs (34–48). N13 (AGA 2012 NAFLD) last — superseded by [[aasld-2023-nafld]].
+- **Duplicate source pages**, unresolved since 2026-09-06: [[acg-2025-bowel-prep]] / [[usmstf-2025-bowel-prep]] share a DOI; [[asge-2020-endoscopic-removal]] / [[usmstf-2020-endoscopic-removal]] are one document co-published twice.
+- **`wiki/6-anatomy/`** is defined by the schema but has never existed on disk. Needs Nick's go-ahead.
+- **Anki:** no card files written this pass. Both new sources are tier-1 and card-eligible, but the card queue takes pages one at a time in its own order — flagged rather than jumped. ⚠ `[[acg-2020-ibs]]`-derived cards, if any exist, should be re-checked against the corrected doses.
+
+---
+
 ## [2026-09-25] lint | Two AGA Institute guidelines ingested — postoperative Crohn's prophylaxis, the one recurrence topic no ingested source covered, and acute liver failure
 
 **Inbox check:** no new arrivals. All 14 `raw/` subfolder counts match the audited 2026-09-23 baseline exactly (449 non-asset files); `git status` clean and head commit was the last manual pass, so no unstruck cron ingest either.

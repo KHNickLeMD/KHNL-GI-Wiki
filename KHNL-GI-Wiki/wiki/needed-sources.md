@@ -191,6 +191,8 @@ Papers, guidelines, tables, and figures that would close a specific gap on a wik
 | USMSTF 2020 polypectomy Appendix 4 | DOPyS and CSPAT item lists | [[polypectomy]] |
 | Kastelijn 2023 ENDURO protocol Additional file 3 | technical / clinical success definitions | [[kastelijn-2023-enduro-protocol]] |
 | AASLD 2021 ascites Table 9 supplements | doses for non-cefotaxime SBP agents | [[spontaneous-bacterial-peritonitis]] |
+| AGA 2019 functional diarrhea / IBS-D — **Figure 1**, the clinical decision support tool for chronic watery diarrhea (>4 weeks). Cited in the article's Summary but absent from the four-page reprint | the guideline's own stepwise testing algorithm | [[chronic-diarrhea]], [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d]] |
+| AGA 2015 pancreatic cysts — the companion **Clinical Decision Tool** (*Gastroenterology* 2015;148:823–824), a separate document from the guideline | AGA's own cyst decision tree | [[pancreatic-cysts]], [[aga-2015-asymptomatic-neoplastic-pancreatic-cysts]] |
 | ECCO definitions paper (steroid dependence / steroid refractoriness) — e.g. ECCO consensus on definitions of IBD treatment outcomes | time-based criteria for steroid dependence (relapse on taper below X mg within Y months; inability to stop within Z months) and steroid refractoriness in CD; ACG 2018/2025 define dependence only as "unable to taper without symptom recrudescence" and give no CD refractoriness definition | [[corticosteroids-ibd]] |
 
 ## Topics with no page and no source

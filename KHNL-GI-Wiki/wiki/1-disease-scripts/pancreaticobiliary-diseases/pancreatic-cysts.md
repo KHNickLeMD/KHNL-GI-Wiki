@@ -3,8 +3,8 @@ title: "Pancreatic Cysts"
 category: disease-script
 tags: [pancreatic-cysts, ipmn, mcn, serous-cystadenoma, pseudocyst, spn, pancreas, eus-fna, mrcp, surveillance, pancreatic-cancer]
 created: 2026-05-19
-updated: 2026-09-08
-sources: [acg-2018-pancreatic-cysts, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, asge-2015-antibiotic-prophylaxis]
+updated: 2026-09-25
+sources: [acg-2018-pancreatic-cysts, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, asge-2015-antibiotic-prophylaxis, aga-2015-asymptomatic-neoplastic-pancreatic-cysts]
 ---
 
 Pancreatic cysts are a heterogeneous group of lesions, most detected incidentally on cross-sectional imaging. They range from non-neoplastic (pseudocysts) to mucinous neoplasms with malignant potential (IPMNs, MCNs) to benign neoplasms (SCAs) to solid-cystic tumors with generally favorable prognosis (SPNs). Management hinges on accurate cyst typing and risk stratification. [[acg-2018-pancreatic-cysts]]
@@ -24,6 +24,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
   - [[#Surveillance Program — Who, What, How Often (Recs 9, 13, 14)]]
   - [[#When to Refer to Multidisciplinary Group and Consider Surgery (Rec 11 — Strong/VLow)]]
   - [[#When to Stop Surveillance (Recs 15 & 16)]]
+  - [[#Where AGA 2015 Differs — and Why This Page Follows ACG]]
   - [[#Post-Surgical Surveillance (Recs 17–20)]]
 - [[#See Also]]
 - [[#Sources]]
@@ -283,7 +284,30 @@ Note: Surgery should be performed at a tertiary referral center by experienced s
 - **Stop when patient is no longer a surgical candidate** (Strong/VLow)
 - **Age >75:** Reasonable to reassess utility of ongoing surveillance (Conditional/VLow)
 - **Age 76–85:** Individualized approach; informed discussion about surgery, personal morbidity/mortality, and risk of cyst progression
-- Currently insufficient evidence to recommend stopping surveillance after 5 years in still-surgically-fit patients (contrast with AGA 2015 recommendation to stop at 5 years of stability)
+- Currently insufficient evidence to recommend stopping surveillance after 5 years in still-surgically-fit patients
+
+### Where AGA 2015 Differs — and Why This Page Follows ACG
+
+[[aga-2015-asymptomatic-neoplastic-pancreatic-cysts|AGA 2015]] is the other major US guideline on this problem and it reaches materially different thresholds. **[[acg-2018-pancreatic-cysts|ACG 2018]] is newer in the same tier and is what this page follows**; AGA is recorded here because a patient managed under it will have been surveilled differently, and because the divergence is the clinical controversy, not a technicality.
+
+| Decision | [[acg-2018-pancreatic-cysts\|ACG 2018]] — this page | [[aga-2015-asymptomatic-neoplastic-pancreatic-cysts\|AGA 2015]] |
+|---|---|---|
+| Trigger for [[endoscopic-ultrasound\|EUS]]-FNA | **Any one** high-risk feature (Rec 11) | **At least 2** of: size ≥3 cm, dilated MPD, solid component (Rec 3, Cond/VLow) |
+| Surveillance interval | Size-stratified, q2 years (<1 cm) → q6 months alternating MRI/EUS (>3 cm) | **1 year, then q2 years — for a cyst of any size** (Rec 2, Cond/VLow) |
+| Stopping | Stop when no longer a surgical candidate; reassess at >75 | **Stop at 5 years** if no change in size or characteristics (Rec 6, Cond/VLow) |
+| Post-resection, no HGD/cancer | All resected IPMN need surveillance (Recs 17–20) | **Against** routine surveillance (Rec 10, Cond/VLow) — but only if no mixed-duct IPMN and no strong family history |
+| Surgery threshold | Multidisciplinary referral on any Rec 11 feature | Solid component **and** dilated MPD, and/or concerning EUS-FNA (Rec 7, Cond/VLow) |
+| High-volume centre for surgery | Yes — mortality ~1–5% vs ~11–15% | Yes — the **only Strong** recommendation in the AGA document (Rec 8) |
+
+**Effect sizes behind the three AGA high-risk features**, from its technical review of *unselected* cysts:
+
+- Size **≥3 cm** — ~**3×** malignancy risk
+- **Solid component** — ~**8×** malignancy risk
+- **Dilated main pancreatic duct** — **no statistically significant association** in AGA's own review; retained as a risk factor only on the strength of resected-IPMN series. Weight it accordingly.
+
+**Read every AGA 2015 number as soft.** All ten recommendations rest on **very low quality** evidence, the panel states the 1-then-2-year interval "is not based on any evidence," and it concedes "it is unclear that the benefits of surveillance outweigh the risks for most patients." AGA also puts a number on the trade-off this page's surveillance program is buying: malignant transformation ~**0.24%/year**, against **2%** postoperative mortality and **30%** major morbidity (**6.6%** postoperative mortality in SEER, i.e. across all US centres), and ~**28%** 5-year survival once invasive cancer is present.
+
+⚠ **AGA 2015 cannot be cited for parts of this page.** Its scope is *asymptomatic* cysts only, and it explicitly excludes **main-duct IPMN without side-branch involvement**, [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumors]], SPN, and cystic degeneration of adenocarcinoma — for those it defers to resection in a fit candidate. It also gives **no cyst-fluid CEA or amylase cutoffs and no cyst-typing criteria**; those come from ACG 2018 alone.
 
 ### Post-Surgical Surveillance (Recs 17–20)
 
@@ -311,3 +335,4 @@ Note: Surgery should be performed at a tertiary referral center by experienced s
 1. [[acg-2018-pancreatic-cysts|ACG 2018: Diagnosis and Management of Pancreatic Cysts]]
 2. [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020: Antibiotic Prophylaxis Is Not Required for EUS-FNA of Pancreatic Cystic Lesions (RCT)]]
 3. [[asge-2015-antibiotic-prophylaxis|ASGE Guideline: Antibiotic Prophylaxis for GI Endoscopy (2015)]]
+4. [[aga-2015-asymptomatic-neoplastic-pancreatic-cysts|AGA Institute Guideline on the Diagnosis and Management of Asymptomatic Neoplastic Pancreatic Cysts (2015)]]

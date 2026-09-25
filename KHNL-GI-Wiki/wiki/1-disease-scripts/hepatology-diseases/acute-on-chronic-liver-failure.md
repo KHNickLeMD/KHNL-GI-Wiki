@@ -129,7 +129,7 @@ Critically ill patients with cirrhosis and ACLF require multidisciplinary ICU ca
 
 - Identify and treat precipitating factors (infection, GI bleed, AKI, constipation, electrolytes, medications) (GS 6)
 - Workup for non-HE causes of AMS: alcohol withdrawal, structural injury, metabolic — especially first episode or treatment non-response (GS 7)
-- **Lactulose** (oral or rectal) or **polyethylene glycol** (if ileus risk); [[rifaximin]] role as add-on in ACLF warrants further study (GS 8)
+- **[[lactulose|Lactulose]]** (oral or rectal) or **polyethylene glycol** (if ileus risk); [[rifaximin]] role as add-on in ACLF warrants further study (GS 8)
 - **Sedation/analgesia:** short-acting agents preferred (propofol, dexmedetomidine); avoid benzodiazepines, gabapentin, opioids when possible (GS 9); dexmedetomidine reduces ventilation duration and benzodiazepine need in alcohol withdrawal
 - **Routine head CT:** not warranted for typical HE presentations; indicated for first episode AMS, seizures, focal neuro signs, or HE not responding to therapy (GS 10)
 - **Routine ammonia:** NOT recommended for diagnosis or monitoring in ACLF (GS 11)

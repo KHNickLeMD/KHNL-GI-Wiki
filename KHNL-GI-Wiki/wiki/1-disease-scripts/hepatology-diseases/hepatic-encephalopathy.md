@@ -194,6 +194,8 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 
 ### Lactulose
 
+*Drug page: [[lactulose]].*
+
 - **First-line for OHE to improve outcomes and prevent recurrence** (ACG 2026, Rec 7, *strong, moderate certainty*; 2014 Rec 19, Grade II-1, B, 1)
 - **First-line outpatient secondary prophylaxis after an initial OHE episode, titrated to 2–3 soft bowel movements daily** (ACG 2026, Rec 10, *strong, high certainty*; 2014 Rec 25, Grade II-1, A, 1)
 - **Acute dosing:** 10–20 g (15–30 mL) **every 2 h** until 2 soft BMs, then reduce to **2–4× daily** to maintain 2–3 BMs/day

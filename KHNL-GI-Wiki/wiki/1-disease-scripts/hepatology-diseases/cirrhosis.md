@@ -171,7 +171,7 @@ flowchart TD
 | # | Criterion | What changed from [[baveno-vii-2022-portal-hypertension\|Baveno VII]] |
 |---|---|---|
 | **a** | **Removal, control or suppression of the primary aetiology/aetiologies** | Adds "control" alongside removal/suppression |
-| **b** | **Resolution of ascites on imaging off diuretics**, and **no clinical evidence of HE off lactulose / [[rifaximin\|rifaximin]] / LOLA** — unless those drugs are indicated for a non-ascites or non-HE condition | Adds the imaging standard, LOLA, and the "indicated for something else" exemption |
+| **b** | **Resolution of ascites on imaging off diuretics**, and **no clinical evidence of HE off [[lactulose]] / [[rifaximin\|rifaximin]] / LOLA** — unless those drugs are indicated for a non-ascites or non-HE condition | Adds the imaging standard, LOLA, and the "indicated for something else" exemption |
 | **c** | After variceal bleeding: **absence of recurrent variceal bleeding, regardless of ongoing [[nonselective-beta-blockers\|carvedilol/cNSBB]] therapy** | VII was silent on whether being on an NSBB disqualified; VIII says explicitly that it does not |
 | **d** | Criteria a–c fulfilled for **>6 consecutive months** | **Halved from ≥12 months** |
 | **e** | Liver function tests improved into the **Child-Turcotte-Pugh A5/A6** range | Replaces VII's unquantified "stable improvement in albumin, INR, bilirubin" |

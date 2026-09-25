@@ -94,7 +94,7 @@ All of the following must be present:
 
 *Workup: see [[ascites]] for the diagnostic-paracentesis/SBP evaluation that precedes the AKI workup in cirrhosis.*
 
-- **Hypovolemic/pre-renal AKI** — diarrhea (lactulose excess), GI bleeding, over-diuresis, large-volume paracentesis without albumin replacement
+- **Hypovolemic/pre-renal AKI** — diarrhea ([[lactulose]] excess), GI bleeding, over-diuresis, large-volume paracentesis without albumin replacement
 - **HRS-AKI** — functional; triggered by [[spontaneous-bacterial-peritonitis|SBP]] (most common precipitant), other infections, GI bleeding, large-volume paracentesis
 - **ATN** — sepsis, nephrotoxin exposure (NSAIDs, aminoglycosides, IV contrast, ACEi/ARB), ischemic injury
 - **Post-renal obstruction** — rare in cirrhosis; consider if bilateral obstruction

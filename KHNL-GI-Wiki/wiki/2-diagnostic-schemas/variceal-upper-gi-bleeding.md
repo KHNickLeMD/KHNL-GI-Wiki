@@ -97,7 +97,7 @@ In a cirrhotic patient with UGIB, consider:
 
 **Baveno VIII additions to the bundle** [[baveno-viii-2026-portal-hypertension]]:
 
-- **Lactulose (oral or enema)** is recommended to prevent **or treat** overt HE by accelerating blood elimination from the gut (5.22)
+- **[[lactulose|Lactulose]] (oral or enema)** is recommended to prevent **or treat** overt HE by accelerating blood elimination from the gut (5.22)
 - **Do not chase the coagulopathy** — the target is portal pressure, not INR. **No routine FFP** (5.23); **no recombinant factor VIIa and no tranexamic acid** (5.25). **Platelet count and fibrinogen do not correlate** with failure to control bleeding or rebleeding and **their transfusion is not routinely recommended** — but **if bleeding is not controlled, platelet transfusion or fibrinogen supplementation may be considered** (5.24). See [[cirrhosis-hemostasis]]
 - **[[anticoagulation-gi-bleeding|Anticoagulants]]** are held temporarily until bleeding is controlled; **timing of re-initiation** is individualised to the strength of the indication (5.26)
 - **Nutrition:** malnutrition worsens AVB outcomes — start oral nutrition as soon as possible (5.12); handle the airway and NG tubes cautiously given **aspiration and pulmonary infection** risk (5.13)

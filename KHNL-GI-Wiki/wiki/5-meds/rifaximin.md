@@ -42,7 +42,7 @@ A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal 
 
 | Setting | ACG 2026 position | Grade |
 |---|---|---|
-| Acute OHE | **Add** rifaximin to lactulose vs lactulose alone (Rec 9) | Conditional, low certainty |
+| Acute OHE | **Add** rifaximin to [[lactulose]] vs lactulose alone (Rec 9) | Conditional, low certainty |
 | Outpatient, prior OHE | Rifaximin to **prevent recurrence** (Rec 12) | Conditional, low certainty |
 | On lactulose maintenance, **recurrent** episodes | **Add** rifaximin (Rec 13) | **Strong, high certainty** |
 | Elective [[tips\|TIPS]] in decompensated [[cirrhosis]], **with or without** prior OHE | Start **14 d before** insertion, continue **≥6 mo** (Rec 22) — see [[#Contradictions]] | **Strong, moderate certainty** |

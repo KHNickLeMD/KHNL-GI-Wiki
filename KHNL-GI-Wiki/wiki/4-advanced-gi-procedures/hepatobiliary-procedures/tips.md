@@ -156,7 +156,7 @@ sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-asci
 - ≥1 episode in **30–50%**; severe, disabling HE in **~8%**
 - Risk factors: previous [[hepatic-encephalopathy|HE]], older age, advanced liver dysfunction, kidney dysfunction ([[aki-in-cirrhosis|renal dysfunction]]), hyponatremia, sarcopenia, and a **post-TIPS low PSPG**
 - 8-mm stents (higher post-TIPS PSPG) → lower HE than 10-mm, with similar efficacy against rebleeding and similar patency
-- **Management:** lactulose + [[rifaximin|rifaximin]] controls the vast majority
+- **Management:** [[lactulose]] + [[rifaximin|rifaximin]] controls the vast majority
 - **Prophylaxis:** [[rifaximin|rifaximin]] **550 mg BID started ≤14 days before elective TIPS and continued 6 months** reduced overt HE in a double-blind multicenter RCT — but 81% of enrolled patients had TIPS for ascites and 86% had alcohol-related cirrhosis, leaving uncertainty about extrapolation to bleeding indications and other etiologies
   - **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 6.16 broadens the indication:** rifaximin **should be considered for HE prophylaxis in *any* candidate for elective TIPS** (LoE 2, strong). Baveno VII 4.9 restricted it to patients **with previous overt HE**
 - **Assess HE history and current HE medications before elective TIPS** (6.14) — but **a history of prior overt HE is not an absolute contraindication**; individualise (6.15)

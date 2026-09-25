@@ -161,7 +161,7 @@ Malnutrition in liver disease is multifactorial:
 
 - **Do NOT restrict dietary protein** in decompensated cirrhosis with HE (Conditional/Very low) — protein restriction worsens sarcopenia without improving HE
 - Vegetable-source protein preferred over animal protein in HE with nutritional supplementation — better tolerated (Conditional/Low)
-- **Branched chain amino acids (BCAAs) + standard of care** (lactulose + [[rifaximin]]): augments efficacy; recommend when available (Strong/Moderate)
+- **Branched chain amino acids (BCAAs) + standard of care** ([[lactulose]] + [[rifaximin]]): augments efficacy; recommend when available (Strong/Moderate)
 
 **Fluid/electrolyte management:**
 

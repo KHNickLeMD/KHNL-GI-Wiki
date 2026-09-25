@@ -109,18 +109,21 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 **Recommended (Strong) in suspected IBS:**
 
 - Celiac serology (TTG-IgA + total IgA) in IBS-D
-- Fecal calprotectin or lactoferrin + CRP in IBS-D
+- Fecal calprotectin or lactoferrin + CRP in IBS-D — cut-points (calprotectin **50 µg/g**, lactoferrin **4.0–7.25 µg/g**) and why not to raise them live on [[chronic-diarrhea]]
+- ***Giardia*** antigen or PCR — Strong/High in chronic diarrhea ([[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA 2019]]); assay performance >95% Sn and Sp
 
 **Recommended against (routine):**
 
 - Stool ova/parasites/pathogens — only if travel, exposure, or Giardia risk factors (Conditional/Low)
+- **ESR or CRP as an *IBD screen*** — [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA 2019]] suggests against (Conditional/Low); use a fecal marker instead. CRP is a reasonable fallback only when calprotectin/lactoferrin is unavailable or uncovered. ⚠ This is narrower than it looks — ACG keeps CRP in the IBS-D panel above, and it is newer within tier 1, so the panel stands; AGA's objection is to CRP *as a substitute for* a fecal marker.
 - [[colonoscopy|Colonoscopy]] if age <45 without alarm features (Conditional/Low)
 - IgE food allergy panels unless reproducible food-specific symptoms (Consensus)
 
 **Selective use:**
 
 - [[anorectal-manometry]] + BET ± defecography in IBS-C/M with pelvic floor signs or refractory constipation
-- Bile acid diarrhea testing (SeHCAT — limited US availability; serum C4 or fecal bile acids)
+- Bile acid diarrhea testing — [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA 2019]] suggests testing (Conditional/Low); the four assays and their availability, plus the empiric-binder fallback, are on [[chronic-diarrhea]]
+- **Serologic tests for IBS itself (anti-CdtB, anti-vinculin) — no recommendation, knowledge gap.** Specificity ~90%, but sensitivity only **20–40%**, so a positive supports [[postinfectious-ibs|post-infectious IBS-D]] and a negative excludes nothing. AGA takes no position for or against ([[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA 2019]] Rec 7) — do not read this as an endorsement or a veto.
 - Breath testing (lactose, fructose, [[small-intestinal-bacterial-overgrowth|SIBO]]) — [[acg-2020-sibo]] suggests glucose or lactulose H₂ breath test in IBS patients (Conditional/Very Low); up to 78% of IBS subjects may have SIBO by breath testing. **[[aga-2020-sibo]] declines to recommend testing in IBS at all** and keeps the association open (**BPA 6**: "Controversy remains concerning the role of SIBO in the pathogenesis of common functional symptoms, such as those regarded as components of IBS"). Its numbers: SIBO **OR 4.9** on breath testing vs matched controls; **up to 33.5% positive by culture vs 8.2%** of controls; and **lactulose breath testing yields more positives than glucose or culture**, which explains much of the prevalence spread. Predictive symptoms in IBS are **diarrhea or "gas," not bloating**; CH₄-positive tests track with **IBS-C** ([[intestinal-methanogen-overgrowth]]).
 - [[rifaximin]] IBS-D efficacy may be partly mediated by SIBO/microbiome dysbiosis — a baseline **positive lactulose breath test predicted 59.7% improvement vs 29.8%** with a negative test ([[aga-2020-sibo]]). But **BPA 8** holds the conclusion open: "the role of SIBO or its eradication in the genesis of this response warrants further confirmation in randomized controlled trials," and breath testing was done in only a small subset of trial subjects.
 
@@ -154,14 +157,14 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 | Agent | Dose | ACG 2020 | AGA 2022 ([[aga-2022-ibs-c]]) |
 |---|---|---|---|
 | **[[linaclotide\|Linaclotide]]** (GC-C agonist) | 290 µg daily | Strong/High | **Strong**/High |
-| **[[plecanatide]]** (GC-C agonist) | **3 mg daily** — the only approved dose | Strong/High (worded "3 or 6 mg") | Conditional/Moderate |
+| **[[plecanatide]]** (GC-C agonist) | **3 mg daily** — the only approved dose | Strong/High | Conditional/Moderate |
 | **[[lubiprostone\|Lubiprostone]]** (Cl⁻ channel activator) | 8 µg BID | Strong/Moderate | Conditional/Moderate |
 | **[[tenapanor\|Tenapanor]]** (NHE3 inhibitor) | **50 mg BID** | not addressed | Conditional/Moderate |
 | **[[tegaserod\|Tegaserod]]** (5-HT4 agonist) | 6 mg BID | Strong (Conditional)/Low | Conditional/Moderate |
 | PEG laxatives | — | Against (global symptoms; helps stool form only) | Suggests using (Conditional/Low) |
 
 - **Tegaserod eligibility (both guidelines):** women **<65** without a history of cardiovascular ischemic events (MI, stroke, TIA, angina) — ACG adds ≤1 CV risk factor and failure of secretagogues.
-- **Plecanatide dose — 3 mg, not 6.** [[acg-2020-ibs|ACG 2020]] states the recommendation as "plecanatide **3 or 6 mg**" (the two doses trialled); the newer [[aga-2022-ibs-c|AGA 2022]] records that **only 3 mg once daily is FDA-approved, for IBS-C *and* CIC** — there is no separate higher IBS-C dose. Newer guideline governs; details on [[plecanatide]].
+- **Plecanatide dose — 3 mg once daily.** Both [[acg-2020-ibs|ACG 2020]] and the newer [[aga-2022-ibs-c|AGA 2022]] give **3 mg** and only 3 mg; it is FDA-approved at that dose for IBS-C *and* CIC. There is no higher IBS-C dose. Details on [[plecanatide]].
 
 ### IBS-D
 
@@ -202,3 +205,4 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 5. [[aga-2022-ibs-d|AGA Clinical Practice Guideline: Pharmacological Management of IBS-D (2022)]]
 6. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]
 7. [[aga-2022-diet-ibs|AGA Clinical Practice Update on the Role of Diet in Irritable Bowel Syndrome: Expert Review (2022)]]
+8. [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA Clinical Practice Guidelines on the Laboratory Evaluation of Functional Diarrhea and Diarrhea-Predominant Irritable Bowel Syndrome in Adults (IBS-D) (2019)]]
