@@ -861,7 +861,7 @@
     font-weight: 500;
   }
 
-  .home-cards { display: grid; grid-template-columns: 1fr 2fr; gap: 18px; margin-bottom: 20px; min-width: 0; }
+  .home-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-bottom: 20px; min-width: 0; }
   .home-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 0; box-shadow: none; display: flex; flex-direction: column; height: 304px; min-width: 0; overflow: hidden; }
   .hc-pagination { display: flex; align-items: center; justify-content: flex-end; gap: 6px; padding: 6px 12px; border-top: 1px solid var(--border-soft); flex-shrink: 0; }
   .hc-pagination .hc-count { margin-right: auto; }
@@ -1684,16 +1684,58 @@ const SUBSECTION_LABELS = {
 
 // Society groupings for sources
 const SOURCE_SOCIETIES = {
-  'AASLD': ['aasld'],
   'ACG': ['acg'],
   'AGA': ['aga'],
+  'AASLD': ['aasld'],
   'ASGE': ['asge'],
   'SAGES': ['sages'],
   'USMSTF': ['usmstf'],
+  'NCCN': ['nccn'],
   'Chicago Classification': ['chicago'],
   'Rome': ['rome'],
   'Lyon Consensus': ['lyon'],
+  'Baveno': ['baveno'],
   'Other': [],
+};
+
+// Short display title for a source: topic only — org, year, doc-type
+// boilerplate ("Clinical Practice Update on…", ": Expert Review") stripped.
+const ORG_NAMES = /^(?:the\s+)?(?:American College of Gastroenterology|American Gastroenterological Association(?: Institute)?|American Association for the Study of Liver Diseases|American Society (?:for|of) Gastrointestinal Endoscopy|U\.?S\.? Multi-Society Task Force(?: on Colorectal Cancer)?)\b[\s:,'’s-]*/i;
+const DOC_TYPE = /^(?:(?:Institute|Rapid|Living|Clinical|Practice|Critical|Focused|Guidelines?|Guidance|Updates?|Position|Paper|Statement|Consensus|Standards?|of|White|Advisory|Recommendations?|Expert|Review|Oncology|in|—)\s*)+(?:(?:on|for|in|of)\s+)?(?:the\s+)?/i;
+function shortSourceTitle(title) {
+  let t = (title || '').trim(), prev;
+  do {
+    prev = t;
+    t = t.replace(/\s*\((?=[^)]*(?:(?:19|20)\d{2}|Guideline|Update|Clinical Practice|Expert Review|Version|v\d))[^)]*\)\s*$/i, '')
+         .replace(/\s*[:—-]\s*(?:Expert Review|Commentary|Communication|Summary and Recommendations)\s*$/i, '')
+         .replace(/^[A-Z]{2,8}(?:\s*\/\s*[A-Z]{2,8})*\b(?![:-])\s*/, '')
+         .replace(ORG_NAMES, '')
+         .replace(/^(?:19|20)\d{2}(?:\/(?:19|20)?\d{2})?\b\s*/, '')
+         .replace(/^[:\-—\s]+/, '');
+  } while (t !== prev);
+  const m = t.match(/^([^:]*):\s*(.+)$/);
+  if (m && m[1].replace(DOC_TYPE, '') === '') t = m[2];
+  const s = t.replace(DOC_TYPE, '');
+  if (s.length > 8) t = s;
+  return t.charAt(0).toUpperCase() + t.slice(1);
+}
+
+// Publication year from the slug (<author>-<year>-<short-title>).
+const sourceYear = (slug) => ((slug || '').match(/\b((?:19|20)\d{2})\b/) || [])[1] || '';
+// Society badge from the slug prefix ("aasld-ast-2025-…" → "AASLD/AST"); '' for author-named slugs.
+const KNOWN_ORGS = new Set(['aasld','acg','aga','asge','sages','usmstf','nccn','idsa','ast','cag','easl','asccp','afs','apa','uspg','ioibd']);
+const sourceOrg = (slug) => {
+  const parts = (slug || '').split(/-(?:19|20)\d{2}\b/)[0].split('-');
+  return parts.every(x => KNOWN_ORGS.has(x)) ? parts.join('/').toUpperCase() : '';
+};
+// Source type from the page's "**Type:**" line: guideline | rct | review | other.
+const sourceType = (page) => {
+  const t = ((page.body || '').match(/^- \*\*Type:\*\*(.*)$/m) || [])[1] || '';
+  if (/^\W*RCT\b/.test(t)) return 'rct';
+  if (/guideline|guidance|consensus|practice update|position|white paper|standards|quality indicator|advisory|statement/i.test(t)) return 'guideline';
+  if (/review|meta-analys/i.test(t)) return 'review';
+  if (/\bRCT\b|randomi[sz]ed/i.test(t)) return 'rct';
+  return 'other';
 };
 
 // ═══════════════════════════════════════════
@@ -2136,43 +2178,6 @@ function showOverview() {
     .sort((a,b)=>(b.updated||b.created||'').localeCompare(a.updated||a.created||''));
   const recentPages = recentFilter(allRecentPages);
 
-  // Detect society/journal prefix for a source title (e.g. "ACG", "AASLD", "AASLD/AST")
-  const orgFromTitle = (t) => {
-    if (!t) return '';
-    const m = t.match(/^([A-Z]{2,8}(?:[\/\s][A-Z]{2,8})?)\b/);
-    return m ? m[1] : '';
-  };
-  const stripOrg = (t, org) => org && t.startsWith(org) ? t.slice(org.length).replace(/^[:\s—-]+/, '').trim() : t;
-
-  // Pull the publication year from a source slug (slug convention is
-  // <author>-<year>-<short-title>, e.g. "aasld-2025-hcc-critical-update").
-  const yearFromSlug = (slug) => {
-    if (!slug) return '';
-    const m = slug.match(/\b((?:19|20)\d{2})\b/);
-    return m ? m[1] : '';
-  };
-  // Clean a source title for display: strip leading org tokens, strip any
-  // embedded year that appears at the start or in trailing parens, so we
-  // don't end up with duplication when we prepend the year ourselves.
-  const cleanSourceTitle = (title) => {
-    if (!title) return '';
-    let t = title.trim();
-    // Iteratively strip leading uppercase org tokens (handles "AASLD",
-    // "AASLD/AST", and "AASLD AST" forms).
-    for (let i = 0; i < 4; i++) {
-      const m = t.match(/^([A-Z]{2,8})(?:\s*\/\s*[A-Z]{2,8})?\b\s*/);
-      if (!m) break;
-      t = t.slice(m[0].length);
-    }
-    // Strip leading year + optional separator
-    t = t.replace(/^(?:19|20)\d{2}\s*[:\-—]?\s*/, '');
-    // Strip trailing "(YYYY)"
-    t = t.replace(/\s*\((?:19|20)\d{2}\)\s*$/, '');
-    // Strip stray leading punctuation
-    t = t.replace(/^[:\-—\s]+/, '');
-    return t.trim();
-  };
-
   const sectionCards = SECTION_ORDER.filter(s=>Object.values(wikiData).some(p=>p.section===s))
     .map(sec => {
       const meta = SECTION_META[sec]||{};
@@ -2208,10 +2213,9 @@ function showOverview() {
 
   const renderSourceItems = (srcs, start) =>
     srcs.slice(start, start + PAGE_SIZE).map(s => {
-      const org = orgFromTitle(s.title);
-      const cleaned = cleanSourceTitle(s.title);
-      const year = yearFromSlug(s.slug);
-      const display = year ? `${year} ${cleaned}` : cleaned;
+      const org = sourceOrg(s.slug);
+      const year = sourceYear(s.slug);
+      const display = [year, shortSourceTitle(s.title)].filter(Boolean).join(' ');
       const ingested = s.created || s.updated || '';
       return `<li data-nav-slug="${s.slug}" style="cursor:pointer;">
         <span style="flex:1;min-width:0;font-size:12.5px;color:var(--accent);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-decoration:underline;text-underline-offset:2px;">${display}</span>
@@ -2678,38 +2682,31 @@ function toggleTOCSub(headerId, bodyId) {
 }
 
 function buildSourcesTOC(pages) {
-  // Identify society by slug prefix
+  // Guidelines split by society (slug prefix); then RCTs, reviews, other.
   const getSociety = (slug) => {
     for (const [society, prefixes] of Object.entries(SOURCE_SOCIETIES)) {
-      if (prefixes.length === 0) continue;
       if (prefixes.some(p => slug.startsWith(p))) return society;
     }
     return 'Other';
   };
-
-  const grouped = {};
-  for (const page of pages) {
-    const soc = getSociety(page.slug);
-    if (!grouped[soc]) grouped[soc] = [];
-    grouped[soc].push(page);
-  }
-
-  // Sort societies in a clinical order
-  const socOrder = ['ACG','AGA','AASLD','ASGE','SAGES','USMSTF','Chicago Classification','Rome','Lyon Consensus','Other'];
-  let html = '';
-  for (const soc of socOrder) {
-    if (!grouped[soc] || grouped[soc].length === 0) continue;
-    const sorted = grouped[soc].sort((a,b)=>a.title.localeCompare(b.title));
-    html += `<div class="toc-section-header">${soc} <span style="font-weight:400;opacity:0.6;">(${sorted.length})</span></div>`;
-    html += '<div class="toc-grid">';
-    for (const page of sorted) {
-      html += `<div class="toc-card" onclick="navigateTo('${page.slug}')">
+  const card = (page) => `<div class="toc-card" onclick="navigateTo('${page.slug}')">
         <div class="toc-card-title">${page.title}</div>
         <div class="toc-card-meta">${page.updated || page.created || ''}</div>
       </div>`;
-    }
-    html += '</div>';
-  }
+  const group = (label, list, header) => list.length ? `<div class="${header}">${label} <span style="font-weight:400;opacity:0.6;">(${list.length})</span></div>
+    <div class="toc-grid">${list.sort((a,b)=>a.title.localeCompare(b.title)).map(card).join('')}</div>` : '';
+
+  const byType = { guideline: [], rct: [], review: [], other: [] };
+  for (const page of pages) byType[sourceType(page)].push(page);
+
+  const bySoc = {};
+  for (const page of byType.guideline) (bySoc[getSociety(page.slug)] ||= []).push(page);
+
+  let html = `<div class="toc-section-header">Guidelines <span style="font-weight:400;opacity:0.6;">(${byType.guideline.length})</span></div>`;
+  for (const soc of Object.keys(SOURCE_SOCIETIES)) html += group(soc, bySoc[soc] || [], 'toc-subsubsection-label');
+  html += group('RCTs', byType.rct, 'toc-section-header');
+  html += group('Reviews', byType.review, 'toc-section-header');
+  html += group('Other', byType.other, 'toc-section-header');
   return html;
 }
 

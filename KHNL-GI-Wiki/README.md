@@ -57,7 +57,7 @@ The result is a compounding, evidence-linked reference that grows with each new 
 
 <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
 <div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">📚 Sources</div>
-<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">One summary page per ingested guideline, RCT, review, or consensus statement. Includes full verbatim GRADE recommendations for guidelines, key findings, and links to all entity pages updated.</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">One summary page per ingested guideline, RCT, review, or consensus statement. Includes full verbatim GRADE recommendations for guidelines, key findings, and links to all entity pages updated. The Sources page groups them by type: guidelines (split by society), RCTs, reviews, and other.</div>
 </div>
 
 <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
