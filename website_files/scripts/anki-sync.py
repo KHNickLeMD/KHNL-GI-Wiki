@@ -48,6 +48,10 @@ def extra_of(back):
     return lines_of(m[1]) if m else None
 
 
+def low(tags):
+    return {t.lower() for t in tags}
+
+
 def same(a, b):
     """Equal as displayed — editor re-escaping and whitespace are not an edit."""
     key = lambda f: [' '.join(html.unescape(l).split()) for l in lines_of(f)]
@@ -174,7 +178,7 @@ def reconcile(col, base, load, cards=CARDS, dry=False, log=print):
             if not same(m['text'], b['text']) or not same(m['extra'], b['extra']):
                 log(f'  {m["file"]} [{m["id"]}]: edited on both sides; keeping the Anki version')
             edits[g] = (text, extra)
-        if 'khnl::unreviewed' in b['tags'] and 'khnl::unreviewed' not in n.tags and m['section'] == 'draft':
+        if 'khnl::unreviewed' in b['tags'] and 'khnl::unreviewed' not in low(n.tags) and m['section'] == 'draft':
             undrafts.append(g)
     if len(deletes) > MAX_DELETE:
         raise Fail(f'{len(deletes)} notes vanished from Anki in one run (cap {MAX_DELETE}); not deleting their cards. '
@@ -226,9 +230,10 @@ def reconcile(col, base, load, cards=CARDS, dry=False, log=print):
                 held.add(g)
             continue
         n, deck = anki[g]
-        own = set(base.get(g, {}).get('tags', []))   # tags we pushed last time; everything else is yours
-        tags = list(m['tags']) + [t for t in n.tags if t not in own and t not in m['tags'] and not t.startswith('khnl::')]
-        if (n['Text'], n['Back Extra'], sorted(n.tags)) != (m['text'], m['extra'], sorted(tags)):
+        # Anki tags are case-insensitive and keep the case first seen in the collection, so compare lowered.
+        ours = low(base.get(g, {}).get('tags', [])) | low(m['tags'])   # everything else is yours
+        tags = list(m['tags']) + [t for t in n.tags if t.lower() not in ours and not t.lower().startswith('khnl::')]
+        if not same(n['Text'], m['text']) or not same(n['Back Extra'], m['extra']) or low(n.tags) != low(tags):
             n['Text'], n['Back Extra'], n.tags = m['text'], m['extra'], tags
             changed.append(n)
         if deck != m['deck'] and not dry:
@@ -367,13 +372,17 @@ def test():
     md = (tmp / 'p.md').read_text()
     assert '[aaaaaa]{s} {{c1::ONE}}\n- new\n> ex' in md and 'bbbbbb' not in md
     assert md.index('cccccc') < md.index('# Draft'), md
-    assert by('gaaaaaa')['Text'] == '{{c1::ONE}}<br>- new'   # canonical form pushed back
+    assert same(by('gaaaaaa')['Text'], '{{c1::ONE}}<br>- new')
     assert 'marked' in by('gaaaaaa').tags               # your own tags survive a push
 
     (tmp / 'p.md').write_text(md_delete(md_edit(md, 'cccccc', ['{{c1::THREE}}'], []), 'aaaaaa'))
     base = reconcile(col, base, load, tmp, log=quiet)
     assert set(anki_side(col)) == {'gcccccc'} and by('gcccccc')['Text'] == '{{c1::THREE}}'
     assert reconcile(col, base, load, tmp, log=quiet) == base   # converged: nothing left to do
+    # Anki's case for a tag and its import escaping are not changes (no update loop)
+    n = by('gcccccc'); n.tags = [t.upper() for t in n.tags]; n['Text'] += '&nbsp;'
+    col.update_note(n); mod = by('gcccccc').mod
+    assert reconcile(col, base, load, tmp, log=quiet) == base and by('gcccccc').mod == mod
     col.close()
     print('ok')
 
