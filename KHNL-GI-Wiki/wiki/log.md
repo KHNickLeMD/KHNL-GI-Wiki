@@ -6,6 +6,14 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-26] lint | AGA 2017 elastography + AGA 2019 opioid-induced constipation; 2026-05-28 source-cohort validation
+
+**Inbox check:** no new arrivals. 449 non-asset files in `raw/`, all 14 subfolder counts matching the 2026-09-23 baseline exactly (AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, Other Studies 6, RCTs 12). `git status -uall -- raw/` returned nothing, as it always will — `raw/`'s content subfolders are git-ignored, so a synced PDF can never appear as untracked. The count-vs-baseline check is the only working detector, and it found no delivery.
+
+*(entry in progress — filled as the pass proceeds)*
+
+---
+
 ## [2026-09-25] lint | AGA 2015 pancreatic cysts + AGA 2019 functional diarrhea/IBS-D lab evaluation
 
 **Inbox check:** no new arrivals. 449 non-asset files in `raw/`, every one of the 11 society subfolder counts matching the 2026-09-23 baseline (AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1). `git log --name-only -- wiki/sources/` confirms no unstruck cron ingest since the last manual pass.

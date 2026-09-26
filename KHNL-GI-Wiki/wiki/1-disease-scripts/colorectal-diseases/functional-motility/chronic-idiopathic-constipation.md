@@ -3,8 +3,8 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-09-06
-sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi]
+updated: 2026-09-26
+sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi, aga-2019-opioid-induced-constipation]
 ---
 
 ## Contents
@@ -34,7 +34,7 @@ sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-con
 
 **Chronic idiopathic constipation (CIC)** = chronic constipation without identifiable structural, metabolic, or pharmacologic cause. Diagnosis is clinical, based on symptom criteria.
 
-- **Nomenclature ([[rome-v-2026-dgbi|Rome V]], 2026):** the word "functional" was dropped — **"functional constipation" is now "chronic constipation"** (bowel-[[disorders-of-gut-brain-interaction|DGBI]] category **C2**); opioid-induced constipation is a separate category (C6). [[rome-v-2026-dgbi]]
+- **Nomenclature ([[rome-v-2026-dgbi|Rome V]], 2026):** the word "functional" was dropped — **"functional constipation" is now "chronic constipation"** (bowel-[[disorders-of-gut-brain-interaction|DGBI]] category **C2**); [[opioid-induced-constipation|opioid-induced constipation]] is a separate category (C6). [[rome-v-2026-dgbi]]
 
 **Symptom criteria for functional constipation** — Rome III, as reproduced in [[asge-2014-constipation]] Table 2. **All three blocks must be satisfied** — the symptom count alone is not the diagnosis.
 
@@ -55,7 +55,7 @@ sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-con
 **Exclusions (not CIC):**
 
 - **IBS-C**: abdominal pain is predominant — Rome IV set the bar at **pain ≥1 day/week for ≥3 months**; **Rome V lowered it to ≥3 days/month in the last 3 months** and re-added "abdominal discomfort" as qualifying, so more patients now sort into IBS-C rather than chronic constipation. [[rome-v-2026-dgbi]]
-- Opioid-induced constipation (OIC)
+- Opioid-induced constipation (OIC) — a separate entity with its own criteria, laxative-refractory threshold, and PAMORA recommendations; OIC patients were **excluded** from the evidence base for the pharmacologic recommendations below [[aga-acg-2023-constipation]]
 - Secondary causes: hypothyroidism, hypercalcemia, diabetes, Parkinson's disease, medications (opioids, anticholinergics, calcium channel blockers, iron, NSAIDs), pregnancy
 
 ### Severity Assessment
@@ -85,7 +85,7 @@ Assess impact on quality of life with the **PAC-QOL** (Patient Assessment of Con
 | Condition | Key Features |
 |-----------|-------------|
 | IBS-C | Abdominal pain is central symptom; [[abdominal-bloating-and-distention\|bloating]]; pain relieved by defecation |
-| Opioid-induced constipation | Clear opioid use; consider methylnaltrexone, naloxegol, or [[lubiprostone]] specifically |
+| [[opioid-induced-constipation\|Opioid-induced constipation]] | New or worsening symptoms on initiating/changing/increasing an opioid. Laxatives first-line; a [[pamoras\|PAMORA]] (naldemedine, naloxegol, methylnaltrexone) only once laxative-refractory. The AGA makes **no recommendation** for [[lubiprostone]] or [[prucalopride]] in OIC [[aga-2019-opioid-induced-constipation]] |
 | Defecation disorder | Outlet symptoms; abnormal ARM + BET; treat with [[biofeedback-therapy\|biofeedback]], not secretagogues |
 | Hypothyroidism | TSH elevated; cold intolerance, fatigue, weight gain |
 | Hypercalcemia | Fatigue, polyuria, confusion; check calcium |
@@ -214,7 +214,7 @@ If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-thera
 ---
 
 ## See Also
-[[chronic-constipation]], [[defecation-disorders]], [[irritable-bowel-syndrome]], [[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[colorectal-cancer]], [[biofeedback-therapy]], [[linaclotide]], [[plecanatide]], [[prucalopride]], [[lubiprostone]], [[anorectal-manometry]], [[acute-colonic-pseudo-obstruction]], [[anal-fissure]], [[hemorrhoids]], [[ostomy-management]]
+[[chronic-constipation]], [[opioid-induced-constipation]], [[pamoras]], [[defecation-disorders]], [[irritable-bowel-syndrome]], [[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[colorectal-cancer]], [[biofeedback-therapy]], [[linaclotide]], [[plecanatide]], [[prucalopride]], [[lubiprostone]], [[anorectal-manometry]], [[acute-colonic-pseudo-obstruction]], [[anal-fissure]], [[hemorrhoids]], [[ostomy-management]]
 
 ---
 
@@ -225,3 +225,4 @@ If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-thera
 3. [[asge-2014-constipation|ASGE 2014: The Role of Endoscopy in the Management of Constipation]]
 4. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review]]
 5. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+6. [[aga-2019-opioid-induced-constipation|American Gastroenterological Association Institute Guideline on the Medical Management of Opioid-Induced Constipation]]

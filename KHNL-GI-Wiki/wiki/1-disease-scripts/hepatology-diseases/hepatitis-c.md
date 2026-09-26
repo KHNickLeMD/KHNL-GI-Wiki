@@ -3,8 +3,8 @@ title: "Hepatitis C"
 category: disease-script
 tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, cirrhosis, HCC, SVR, glecaprevir, pibrentasvir, sofosbuvir, velpatasvir, fibrosis, liver, antiviral, screening]
 created: 2026-05-28
-updated: 2026-09-22
-sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1, aga-2025-hbv-reactivation, aga-2019-daa-hcc]
+updated: 2026-09-26
+sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1, aga-2025-hbv-reactivation, aga-2019-daa-hcc, aga-2017-elastography-liver-fibrosis]
 ---
 
 ## Assessment
@@ -38,6 +38,13 @@ Fibrosis staging before treatment to guide duration, regimen selection, and post
 | [[liver-stiffness-measurement\|VCTE (FibroScan)]] | ≥12.5 kPa = compensated cirrhosis | Aetiology-specific cutoffs; less reliable with [[obesity]]/elevated ALT |
 | [[liver-biopsy\|Liver biopsy]] | METAVIR F0–F4 (stage definitions on [[liver-biopsy]]) | Rarely needed; use for diagnostic uncertainty. Do **not** convert METAVIR stages to another scheme |
 | Child-Pugh score | A/B/C | Decompensated = CTP ≥7 (class B or C); key regimen-selection criterion. Point table on [[cirrhosis]] |
+
+**Which fibrosis test to reach for first** ([[aga-2017-elastography-liver-fibrosis]]):
+
+- **VCTE rather than the nonproprietary serum indices (APRI, FIB-4) to detect cirrhosis — strong recommendation, moderate-quality evidence**; the only strong recommendation in that guideline. VCTE sensitivity 0.89 / specificity 0.91, vs APRI 0.77 / 0.78 and FIB-4 0.87 / 0.91.
+- **VCTE rather than MRE** for detecting cirrhosis in HCV (conditional, very-low quality) — MRE adds little accuracy for true cirrhosis (sens 0.94 vs 0.89) but has **poorer specificity (0.81 vs 0.91)** and more false positives, at higher cost and without point-of-care availability.
+- **12.5 kPa is a conditional, low-quality cutoff** (pooled sens 0.86 / spec 0.91): it misclassifies **<5%** of patients as not having cirrhosis when they do, and **<10%** as having cirrhosis when they do not. Do not use it alone — interpret with the rest of the clinical picture, and **do not send a patient to screening endoscopy on the 12.5 kPa result alone** (that decision has its own threshold, 19.5 kPa, on [[liver-stiffness-measurement]]).
+- **Liver stiffness falls after viral cure**, so repeating elastography post-SVR reduces the number falsely classified as cirrhotic.
 
 **Cirrhosis determination for treatment selection:**
 
@@ -188,6 +195,10 @@ For recurrent HCV post liver or kidney transplantation:
 
 **After achieving SVR — if no cirrhosis:** No follow-up required for non-cirrhotics (unless at ongoing reinfection risk → annual HCV RNA).
 
+- **Post-treatment VCTE <9.5 kPa rules out advanced fibrosis (F3–F4)** in a noncirrhotic patient who achieved SVR, and may support discharge from a dedicated liver clinic — conditional recommendation, **very-low-quality** evidence (pooled sens 0.78 / spec 0.86). [[aga-2017-elastography-liver-fibrosis]]
+  - **Who it misses:** ~1% of low-risk patients (5% advanced-fibrosis prevalence — SVR with no ongoing risk factors) and **~7% of high-risk patients** (30% prevalence — obesity, diabetes, excessive alcohol, HIV or HBV co-infection) are falsely reassured and lose post-treatment follow-up. A patient who places a low value on continued testing and a high value on avoiding HCC risk may reasonably stay in specialty care despite a value <9.5 kPa.
+  - ⚠ **This does not licence de-escalating [[hcc-surveillance|HCC surveillance]].** Surveillance is driven by **pretreatment** fibrosis stage; no liver-stiffness value identifies a post-SVR patient whose HCC risk has fallen far enough to stop it.
+
 **After achieving SVR — if cirrhosis:**
 
 - Continue **[[hcc-surveillance|HCC surveillance]]:** ultrasound ± AFP every 6 months (indefinitely)
@@ -212,3 +223,4 @@ For recurrent HCV post liver or kidney transplantation:
 2. [[aasld-idsa-2011-hcv-genotype1|AASLD 2011: Treatment of Genotype 1 Chronic HCV (historical — boceprevir/telaprevir era)]]
 3. [[aga-2025-hbv-reactivation|AGA Clinical Practice Guideline: Prevention and Treatment of HBV Reactivation (2025)]]
 4. [[aga-2019-daa-hcc|AGA Clinical Practice Update on Interaction Between Oral Direct-Acting Antivirals for Chronic Hepatitis C Infection and Hepatocellular Carcinoma: Expert Review (2019)]]
+5. [[aga-2017-elastography-liver-fibrosis|American Gastroenterological Association Institute Guideline on the Role of Elastography in the Evaluation of Liver Fibrosis (2017)]]

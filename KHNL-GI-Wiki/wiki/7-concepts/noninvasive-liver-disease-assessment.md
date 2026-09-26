@@ -3,8 +3,8 @@ title: "Noninvasive Liver Disease Assessment (NILDA)"
 category: concept
 tags: [nilda, fibrosis, steatosis, fib-4, elf, vcte, swe, mre, mri-pdff, apri, noninvasive, biomarkers, hpb, liver]
 created: 2026-05-31
-updated: 2026-09-05
-sources: [aasld-2024-nilda-blood, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2023-nafld, aasld-2025-semaglutide-mash, aasld-2024-nilda-imaging, aasld-2024-nilda-portal-htn, aga-2023-nafld-noninvasive-biomarkers]
+updated: 2026-09-26
+sources: [aasld-2024-nilda-blood, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2023-nafld, aasld-2025-semaglutide-mash, aasld-2024-nilda-imaging, aasld-2024-nilda-portal-htn, aga-2023-nafld-noninvasive-biomarkers, aga-2017-elastography-liver-fibrosis]
 ---
 
 Noninvasive liver disease assessment (NILDA) is the set of blood-based and imaging-based tools that estimate **hepatic fibrosis** (up to and including [[cirrhosis]]) and **steatosis** without [[liver-biopsy|biopsy]]. AASLD published companion 2024 practice guidelines for blood-based and imaging-based NILDA; the framework now drives screening, risk stratification, pharmacotherapy candidacy, and (with caveats) treatment monitoring in [[nafld-masld]].
@@ -30,6 +30,21 @@ Most blood/imaging NITs have **high negative predictive value (rule-out)** but *
 - **MRE** — most accurate fibrosis NIT (AUROC ~0.93); rule-out <2.55, advanced ≥3.63, cirrhosis ≥5 kPa; superior in central adiposity / narrow rib space.
 - **SWE (2D shear wave elastography)** — rule-in AF **>8.0 kPa**; at cutoffs 3.02–10.6 kPa, sensitivity 89.9%, specificity 91.8%, PPV 88.2%, NPV 93.4%; a 3.36 cutoff for cirrhosis gave sensitivity 100%/specificity 85.6%. [[aga-2023-nafld-noninvasive-biomarkers]]
 - **MRI-PDFF** — most accurate steatosis quantification (≥5%); tracks dynamic change; ≥30% reduction tracks histologic response.
+
+## Elastography vs the serum indices — head to head
+
+The evidence behind preferring imaging elastography over APRI/FIB-4 is etiology-specific, and comes from the AGA's head-to-head comparison for **detecting cirrhosis**. [[aga-2017-elastography-liver-fibrosis]]
+
+| Etiology | VCTE sens / spec | APRI sens / spec | FIB-4 sens / spec | AGA position |
+|---|---|---|---|---|
+| [[hepatitis-c\|Chronic hepatitis C]] | 0.89 / 0.91 | 0.77 / 0.78 | 0.87 / 0.91 | **VCTE over APRI/FIB-4 — strong, moderate quality** |
+| [[chronic-hepatitis-b\|Chronic hepatitis B]] | 0.86 / 0.85 | 0.66 / 0.74 | 0.87 / 0.65 | VCTE over APRI/FIB-4 — conditional, low quality |
+| NAFLD | 0.90 / 0.87 | 0.78 / 0.71 | 0.74 / 0.71 | **No recommendation — knowledge gap** |
+
+- **Read the hepatitis B row carefully:** FIB-4 matched VCTE on *sensitivity* (0.87 vs 0.86) but collapsed on *specificity* (0.65 vs 0.85). VCTE's advantage in HBV is in **excluding** cirrhosis, not in ruling it in.
+- **Why NAFLD got no recommendation in 2017:** the pooled NAFLD estimates were judged subject to unacceptable bias — **obese patients (BMI ≥30 kg/m²) were excluded**, **unsuccessful or inadequate liver-stiffness measurements were excluded** (and these are more common in NAFLD), and studies used **per-protocol rather than intention-to-diagnose** analysis, with significant imprecision for both identifying and excluding cirrhosis. The AASLD cut-points above are the later answer to this gap.
+- **Proprietary serum panels were not reviewed**, but AGA states the available evidence **does not support a significant advantage** of proprietary assays over the nonproprietary APRI and FIB-4.
+- The **etiology-specific kPa cutoffs** that go with these comparisons (12.5 HCV · 11.0 HBV · 12.5 alcoholic liver disease · 9.5 post-SVR · 19.5 varices · 17.0 pre-operative CSPH), together with VCTE validity criteria (≥10 valid shots, IQR/median ≤30%) and the MRE-vs-VCTE verdicts, live on **[[liver-stiffness-measurement]]**.
 
 ## Rule-in cutoffs for advanced fibrosis (F3–4) and diagnostic accuracy
 
@@ -87,7 +102,7 @@ Baveno builds a parallel, portal-hypertension-oriented ladder on the same LSM me
 
 ## See Also
 
-[[nafld-masld]], [[semaglutide]], [[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[hereditary-hemochromatosis]], [[alcohol-associated-liver-disease]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[resmetirom]], [[hcc-surveillance]], [[variceal-upper-gi-bleeding]], [[hepatic-venous-pressure-gradient]], [[ascites]]
+[[nafld-masld]], [[semaglutide]], [[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[hereditary-hemochromatosis]], [[alcohol-associated-liver-disease]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[resmetirom]], [[hcc-surveillance]], [[variceal-upper-gi-bleeding]], [[hepatic-venous-pressure-gradient]], [[ascites]]
 
 ---
 
@@ -101,3 +116,4 @@ Baveno builds a parallel, portal-hypertension-oriented ladder on the same LSM me
 6. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (J Hepatol 2026)]]
 7. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (J Hepatol 2022)]]
 8. [[aga-2023-nafld-noninvasive-biomarkers|AGA Clinical Practice Update on the Role of Noninvasive Biomarkers in the Evaluation and Management of Nonalcoholic Fatty Liver Disease: Expert Review (2023)]]
+9. [[aga-2017-elastography-liver-fibrosis|American Gastroenterological Association Institute Guideline on the Role of Elastography in the Evaluation of Liver Fibrosis (2017)]]

@@ -3,8 +3,8 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-09-20
-sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, baveno-viii-2026-portal-hypertension, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-non-graft-complications, aga-2023-nafld-noninvasive-biomarkers, aga-2021-lifestyle-modification-nafld, aga-2022-lean-nafld]
+updated: 2026-09-26
+sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, baveno-viii-2026-portal-hypertension, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-non-graft-complications, aga-2023-nafld-noninvasive-biomarkers, aga-2021-lifestyle-modification-nafld, aga-2022-lean-nafld, aga-2017-elastography-liver-fibrosis]
 ---
 
 ## Contents
@@ -106,6 +106,17 @@ See [[noninvasive-liver-disease-assessment]] for the cross-disease NILDA framewo
 - **ELF ≥11.3** independently predicts hepatic decompensation and is FDA-approved for prognostication (GS: should prompt cirrhosis screening). ELF had the highest diagnostic odds ratio (≈21.5) for advanced fibrosis among blood tests. [[aasld-2024-nilda-blood]]
 - **Blood NITs rule OUT (high NPV) but do not reliably rule IN (low PPV)** — FIB-4 alone must not select pharmacotherapy candidates in low-prevalence settings. A primary-care FIB-4 → ELF pathway can cut secondary-care referrals ~80%. [[aasld-2024-nilda-blood]]
 - **Confounders of platelet-based scores (FIB-4/APRI/NFS):** falsely *lowered* by splenectomy; falsely *raised* by non-portal-hypertensive thrombocytopenia and active inflammation (high AST/ALT); CKD lowers estimates; NFS distorted by albumin (malnutrition) and postprandial glucose. AASLD **suggests against** blood-based NILDA for serial tracking of fibrosis progression/regression. [[aasld-2024-nilda-blood]]
+
+**MRE or VCTE? In MASLD the answer depends on pretest risk of cirrhosis** — [[aga-2017-elastography-liver-fibrosis]]:
+
+| Pretest risk | Defining features | Est. cirrhosis prevalence | AGA 2017 position |
+|---|---|---|---|
+| **Higher risk** (specialty referral) | advanced age · obesity, particularly central adiposity · diabetes · **ALT >2× upper limit of normal** | ~30% | **Use MRE rather than VCTE** to detect cirrhosis — conditional, low quality |
+| **Lower risk** (primary care) | signs of fatty liver on imaging only, no high-risk features | ≤5% | **No recommendation — knowledge gap** |
+
+- **What MRE buys in the high-risk setting:** essentially **no difference in false negatives**, but **119 in 1000 fewer patients incorrectly classified as having cirrhosis** — patients who would otherwise go on to unnecessary further invasive testing. Head-to-head (2 studies): MRE sensitivity 0.84 / specificity 0.89 vs VCTE 0.83 / 0.72.
+- **Why the low-risk setting gets nothing:** both tests perform poorly there — **2.5× (MRE) to 6× (VCTE) as many false-positive as true-positive results**. Indiscriminate use is likely to cause more harm than benefit when false positives lead to biopsy or to more aggressive management such as bariatric surgery.
+- AGA 2017 also made **no recommendation on VCTE at all** for diagnosing cirrhosis in NAFLD; the bias in the underlying studies that produced that gap is set out on [[noninvasive-liver-disease-assessment]]. The VCTE/MRE/ELF cut-points in the table above are the later AASLD answer and are what the page uses.
 
 > **The drug-candidacy NIT windows are a different set of numbers.** The narrower F2–F3 ranges that select patients for [[semaglutide]] and [[resmetirom]] — and the NIT signs of cirrhosis/[[portal-hypertension|portal hypertension]] that contraindicate both — are stated with the prescribing decision under [[#Pharmacotherapy]] below, not here. [[aasld-2025-semaglutide-mash]] [[aasld-2024-resmetirom]]
 
@@ -381,3 +392,4 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD pos
 10. [[aasld-ast-2025-liver-transplant-non-graft-complications|AASLD/AST Consensus Recommendations on Non-Graft Complications of Liver Transplantation (2025)]]
 11. [[aga-2021-lifestyle-modification-nafld|AGA Clinical Practice Update on Lifestyle Modification Using Diet and Exercise to Achieve Weight Loss in the Management of Nonalcoholic Fatty Liver Disease: Expert Review (2021)]]
 12. [[aga-2022-lean-nafld|AGA Clinical Practice Update: Diagnosis and Management of Nonalcoholic Fatty Liver Disease in Lean Individuals: Expert Review (2022)]]
+13. [[aga-2017-elastography-liver-fibrosis|American Gastroenterological Association Institute Guideline on the Role of Elastography in the Evaluation of Liver Fibrosis (2017)]]

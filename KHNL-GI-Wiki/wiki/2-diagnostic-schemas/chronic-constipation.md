@@ -3,8 +3,8 @@ title: "Chronic Constipation"
 category: diagnostic-schema
 tags: [constipation, colorectal, functional, dgbi, anorectal-manometry, colonic-transit, defecation-disorder]
 created: 2026-08-27
-updated: 2026-09-06
-sources: [aga-2026-refractory-constipation, aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, rome-v-2026-dgbi, acg-2021-crc-screening]
+updated: 2026-09-26
+sources: [aga-2026-refractory-constipation, aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, rome-v-2026-dgbi, acg-2021-crc-screening, aga-2019-opioid-induced-constipation]
 ---
 
 ## Contents
@@ -29,7 +29,7 @@ The adult presenting with **infrequent and/or unsatisfactory defecation** — ho
 
 - **Prevalence:** chronic constipation (CC) affects **8%–12% of the US population**; **3 million patients per year** seek clinical evaluation [[aga-2026-refractory-constipation]]
 - **Nomenclature:** *chronic constipation*, *chronic idiopathic constipation*, and *functional constipation* are **interchangeable terms** [[aga-2026-refractory-constipation]]. [[rome-v-2026-dgbi|Rome V]] (2026) formalised this — "chronic constipation" (bowel-DGBI category **C2**) replaced Rome IV's "functional constipation", dropping the word *functional*
-- **Separate Rome V entities that are not C2:** **C6 opioid-induced constipation**; **F3 dyssynergic defecation** (an anorectal disorder). Rome V **removed the umbrella category "functional defecation disorders"** as too broad — it swept in structural conditions such as [[rectal-prolapse|rectal prolapse]] and perineal descent [[rome-v-2026-dgbi]]
+- **Separate Rome V entities that are not C2:** **C6 [[opioid-induced-constipation|opioid-induced constipation]]**; **F3 dyssynergic defecation** (an anorectal disorder). Rome V **removed the umbrella category "functional defecation disorders"** as too broad — it swept in structural conditions such as [[rectal-prolapse|rectal prolapse]] and perineal descent [[rome-v-2026-dgbi]]
 - **Refractory constipation (RC)** = infrequent and/or unsatisfactory bowel habits, with or without abdominal pain, **despite an adequate trial of lifestyle, dietary, medical, and (when indicated) pelvic floor [[biofeedback-therapy|biofeedback]] therapy**, in an adult who satisfies criteria for CC or constipation-predominant IBS (BPA 1) [[aga-2026-refractory-constipation]]
   - **The label needs one of four operational criteria, not just the narrative above.** International consensus definitions quoted by [[aga-2026-refractory-constipation]] require "infrequent and/or unsatisfactory bowel habits" **plus any one** of:
     1. Inadequate number of bowel movements most of the time, **and complete bowel movements on fewer than 3 days/week**
@@ -70,7 +70,7 @@ Most patients hold misconceptions about normal bowel habit, so the normal range 
 | Alternative | Discriminating feature |
 |---|---|
 | [[irritable-bowel-syndrome\|IBS-C]] | Abdominal pain/discomfort ≥3 days/month, intermittent, related to defecation |
-| Opioid-induced constipation (Rome V **C6**) | Clear temporal link to opioid initiation/escalation |
+| Opioid-induced constipation (Rome V **C6**) | **New or worsening** constipation symptoms **when initiating, changing, or increasing opioid therapy** — criteria and management on [[opioid-induced-constipation]] |
 | [[defecation-disorders\|Defecatory disorder]] | Outlet symptoms; abnormal ARM/BET/imaging |
 | [[colorectal-cancer\|Colorectal cancer]] / benign colonic stricture | Alarm features (below); [[colonoscopy]] indicated |
 | [[colon-ischemia\|Ischaemic]], post-surgical, or [[inflammatory-bowel-disease\|IBD]]-related stricture | Endoscopically dilatable; identified at colonoscopy [[asge-2014-constipation]] |
@@ -83,6 +83,7 @@ Most patients hold misconceptions about normal bowel habit, so the normal range 
 Patients should be **thoroughly evaluated for secondary causes** before being called refractory [[aga-2026-refractory-constipation]]:
 
 - **Medications** — the most common iatrogenic cause. Opioid-induced or opioid-exacerbated constipation; **anticholinergic agents including antipsychotics**; **iron supplements**. In many patients these *exacerbate* pre-existing constipation rather than cause it
+  - **Before treating the constipation, address the opioid** [[aga-2019-opioid-induced-constipation]]: confirm the indication is appropriate, that the patient is in a pain management program, and that the **minimum necessary dose** is being taken. Consider **opioid switching** to an **equianalgesic dose of a less-constipating opioid** — oral/parenteral morphine preparations may constipate more than **transdermal opioids such as fentanyl**, and combination opioid agonist/antagonist agents (e.g. oxycodone + naloxone) carry a lower risk of constipation
 - **Disordered eating**
 - **Comorbid neurological disease** (including autonomic dysfunction — see the off-label pyridostigmine option on [[chronic-idiopathic-constipation]])
 - **Metabolic/organic conditions excluded from the CIC evidence base** — hypothyroidism and [[celiac-disease|celiac disease]] were explicit exclusions when the CIC pharmacologic recommendations were derived, as were opioid-induced constipation and IBS-C [[aga-acg-2023-constipation]]
@@ -173,7 +174,7 @@ Findings identified on defecography: inadequate or excessive widening of the **a
 
 ## See Also
 
-[[chronic-idiopathic-constipation]], [[defecation-disorders]], [[irritable-bowel-syndrome]], [[fecal-incontinence]], [[proctalgia-syndromes]], [[anorectal-manometry]], [[biofeedback-therapy]], [[sacral-nerve-stimulation]], [[colonoscopy]], [[colorectal-cancer]], [[rectal-prolapse]], [[acute-colonic-pseudo-obstruction]], [[disorders-of-gut-brain-interaction]], [[ostomy-management]]
+[[chronic-idiopathic-constipation]], [[opioid-induced-constipation]], [[pamoras]], [[defecation-disorders]], [[irritable-bowel-syndrome]], [[fecal-incontinence]], [[proctalgia-syndromes]], [[anorectal-manometry]], [[biofeedback-therapy]], [[sacral-nerve-stimulation]], [[colonoscopy]], [[colorectal-cancer]], [[rectal-prolapse]], [[acute-colonic-pseudo-obstruction]], [[disorders-of-gut-brain-interaction]], [[ostomy-management]]
 
 ---
 
@@ -185,3 +186,4 @@ Findings identified on defecography: inadequate or excessive widening of the **a
 4. [[asge-2014-constipation|ASGE 2014: The Role of Endoscopy in the Management of Constipation]]
 5. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
 6. [[acg-2021-crc-screening|ACG 2021 Colorectal Cancer Screening Guidelines]]
+7. [[aga-2019-opioid-induced-constipation|American Gastroenterological Association Institute Guideline on the Medical Management of Opioid-Induced Constipation]]
