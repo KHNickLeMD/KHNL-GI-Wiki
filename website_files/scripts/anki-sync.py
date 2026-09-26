@@ -26,7 +26,7 @@ DECK = 'KHNL GI Wiki'
 DATA = Path(os.environ.get('ANKI_SYNC_DIR', Path.home() / 'anki-sync'))
 CARDS = Path(os.environ.get('CARDS_DIR', '/cards'))
 BUILD = Path(__file__).with_name('build-anki.mjs')
-MAX_DELETE = 25   # per side per run; more than this is far likelier a broken sync than a real cleanup
+MAX_DELETE = int(os.environ.get('ANKI_MAX_DELETE', 25))   # per side per run; more than this is far likelier a broken sync than a real cleanup
 
 
 class Fail(Exception):
@@ -178,7 +178,7 @@ def reconcile(col, base, load, cards=CARDS, dry=False, log=print):
             undrafts.append(g)
     if len(deletes) > MAX_DELETE:
         raise Fail(f'{len(deletes)} notes vanished from Anki in one run (cap {MAX_DELETE}); not deleting their cards. '
-                   'If that was really you, rerun with MAX_DELETE raised.')
+                   'If that was really you, rerun once with ANKI_MAX_DELETE=<n>.')
 
     ops = [(g, md_edit, v) for g, v in edits.items()] + [(g, md_undraft, None) for g in undrafts] \
         + [(g, md_delete, None) for g in deletes]
