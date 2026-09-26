@@ -134,6 +134,22 @@ The wiki's community hub — find it in the sidebar just above Feedback, or unde
 - **Leaderboards** — most pages reviewed, most friends, and most colleagues met in person. Logged-in users only; opt out any time under **Privacy → "Appear on Colony leaderboards"**.
 - **Meet up** — met a wiki friend in real life? One of you taps **Show my meet-up code** and the other scans the QR with their phone camera. The code is single-use, lasts 10 minutes, and only works between accepted friends — both of you earn the **Colony Contact** achievement.
 
+## 📱 Add to Your Home Screen
+
+Put the wiki on your phone's home screen so it opens with one tap, like an app.
+
+**iPhone / iPad (Safari)**
+1. Open the wiki in **Safari**
+2. Tap the **Share** button (the square with an up arrow; at the bottom of the screen on iPhone, top-right on iPad)
+3. Scroll down and tap **Add to Home Screen**
+4. Rename it if you like, then tap **Add**
+
+**Android (Chrome)**
+1. Open the wiki in **Chrome**
+2. Tap the **⋮** menu (top-right)
+3. Tap **Add to Home screen** (on some phones it's **Install app**)
+4. Tap **Add**, and confirm again if your phone asks
+
 ## Feedback & Bug Reports
 
 The **?** bubble (bottom-right) works with or without an account: report bugs, ask clinical questions, or suggest corrections. Please don't include patient-identifiable information.
