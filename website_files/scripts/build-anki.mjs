@@ -7,7 +7,7 @@
 // in place, so review scheduling survives a reword.
 import { readFileSync, readdirSync, statSync, existsSync, mkdirSync, writeFileSync } from 'node:fs'
 import { createHash } from 'node:crypto'
-import { join, dirname } from 'node:path'
+import { join, dirname, relative } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..', '..', 'KHNL-GI-Wiki')
@@ -119,6 +119,7 @@ function main () {
     process.exit(1)
   }
   const rows = []
+  const notes = []   // same rows as JSON, plus where each card lives — anki-sync.py reads this
   const problems = []
   const seen = new Set()
   const manifest = join(cardsDir, 'dist', 'khnl-gi-wiki.guids')
@@ -171,7 +172,9 @@ function main () {
       const text = note.section === 'retired'
         ? 'RETIRED — no longer maintained. {{c1::delete me}}'
         : note.text.join('\n')
-      rows.push([guid, deck, tags.join(' '), tsv(text), backExtra(tsv(note.extra.join('\n')), footerFor(note.source))].join('\t'))
+      const extra = backExtra(tsv(note.extra.join('\n')), footerFor(note.source))
+      rows.push([guid, deck, tags.join(' '), tsv(text), extra].join('\t'))
+      notes.push({ guid, file: relative(cardsDir, file), id: note.id, section: note.section, deck, tags, text: tsv(text), extra })
     }
   }
 
@@ -183,6 +186,7 @@ function main () {
     '#columns:guid\tdeck\ttags\tText\tBack Extra', ''
   ].join('\n') + '\n' + rows.join('\n') + '\n')
   writeFileSync(manifest, [...seen].join('\n') + '\n')
+  writeFileSync(join(cardsDir, 'dist', 'khnl-gi-wiki.json'), JSON.stringify(notes))
 
   if (problems.length) {
     process.stderr.write(`\n${problems.length} problem(s):\n` + problems.join('\n') + '\n')
