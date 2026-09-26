@@ -3,8 +3,8 @@ title: "Lynch Syndrome"
 category: disease-script
 tags: [lynch, hnpcc, mmr, msi, hereditary-crc, endometrial-cancer, oncology, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-09-23
-sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd, asge-2022-pancreatic-cancer-screening, nccn-2026-colon-cancer, aga-2020-young-adult-onset-crc]
+updated: 2026-09-26
+sources: [acg-2015-hereditary-gi-cancer, aga-2015-lynch-syndrome, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd, asge-2022-pancreatic-cancer-screening, nccn-2026-colon-cancer, aga-2020-young-adult-onset-crc]
 ---
 
 ## Contents
@@ -32,12 +32,51 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2017
 
 Lynch syndrome (LS), formerly hereditary nonpolyposis [[colorectal-cancer|colorectal cancer]] (HNPCC), is the most common hereditary CRC syndrome. It is an autosomal-dominant condition caused by pathogenic germline variants in the DNA mismatch repair (MMR) genes: **MLH1**, **MSH2**, **MSH6**, **PMS2**, or the MSH2-inactivating **EPCAM** deletion.
 
-**Universal tumor screening** of all newly diagnosed CRCs is recommended [[acg-2015-hereditary-gi-cancer]] [[usmstf-2014-lynch-syndrome]]:
+- Accounts for **2–3%** of all CRC; estimated general-population prevalence **1 in 440** [[aga-2015-lynch-syndrome]] (2–4% and ~1 in 279 per [[usmstf-2014-lynch-syndrome]]; 1–3% per [[acg-2015-hereditary-gi-cancer]]). Frequently underdiagnosed
+- Lifetime cumulative incidence **up to 80% for CRC** and **up to 60% for endometrial cancer**, plus excess stomach, small intestine, pancreas, biliary tract, ovary, urinary tract, and brain cancer [[aga-2015-lynch-syndrome]]. Gene-specific figures under [[#Severity Assessment]]
 
-1. **IHC** for MLH1, MSH2, MSH6, PMS2 protein expression — preferred first test (protein staining is more widely feasible than DNA analysis)
-2. **MSI testing** — sensitivity is **gene-dependent: 80–91%** for MLH1/MSH2 mutations but only **55–77%** for MSH6/PMS2, so a negative MSI result is least reassuring in the low-penetrance genes. MSI-H prevalence in population-based CRC series **7–19%**. (Head-to-head sensitivity/specificity for MSI vs IHC vs the clinical models: table under [[#Relevant Risk Prediction Tools]])
-3. If **MLH1 protein is lost**: proceed to **BRAF V600E** mutation testing OR **MLH1 promoter methylation** analysis — almost no LS tumors carry BRAF mutation; 68% of sporadic MMR-deficient tumors do
-4. Individuals with evidence of MMR deficiency (without BRAF mutation or MLH1 hypermethylation), plus those with a known family mutation or PREMM1,2,6 model score ≥5%, should undergo **germline testing** of MLH1, MSH2, MSH6, PMS2, and/or EPCAM (or the gene indicated by IHC)
+**Universal tumor screening of every newly diagnosed CRC** — *Strong recommendation, moderate quality of evidence* [[aga-2015-lynch-syndrome]]; concordant in [[acg-2015-hereditary-gi-cancer]] and [[usmstf-2014-lynch-syndrome]]:
+
+- **IHC or MSI — either is acceptable.** AGA 2015 makes **no recommendation** between IHC, MSI, or both: sensitivities and specificities are comparable, so the choice follows local expertise and availability. ACG/USMSTF favor **IHC** as the first test — see [[#Tumor Testing]]
+- **Test elderly patients too** — historically excluded for lower yield, but LS does present in the elderly and the result may matter greatly to younger relatives; cost-effectiveness analyses support testing every age [[aga-2015-lynch-syndrome]]
+- A system for **systematic follow-up of every positive result** must be in place before universal testing begins; IHC interpretation requires trained, experienced pathologists [[aga-2015-lynch-syndrome]]
+- **MSI sensitivity is gene-dependent: 80–91%** for MLH1/MSH2 mutations but only **55–77%** for MSH6/PMS2 — a negative MSI result is least reassuring in the low-penetrance genes. MSI-H prevalence in population-based CRC series **7–19%**. (Head-to-head sensitivity/specificity for MSI vs IHC vs the clinical models: table under [[#Relevant Risk Prediction Tools]])
+
+**AGA clinical decision support tool** — two entry points: any new CRC, and a suggestive family history in someone with no personal cancer [[aga-2015-lynch-syndrome]]:
+
+```mermaid
+flowchart TD
+    A["Any new colorectal cancer"] --> B["Tumor testing for MSI or IHC"]
+    B --> C["Normal"]
+    B --> D["IHC abnormal"]
+    B --> E["MSI high"]
+    D --> F["Missing MLH1"]
+    D --> G["Missing PMS2 (and MLH1 present),<br/>MSH2, or MSH6"]
+    F --> H["MLH1 promoter methylation<br/>or BRAF"]
+    H --> I["MLH1 promoter hypermethylated<br/>or BRAF mutation present"]
+    H --> J["BRAF negative or<br/>MLH1 promoter not hypermethylated"]
+    I --> K["Likely sporadic colorectal cancer<br/>Consider other familial cancer syndromes"]
+    J --> L["Germline genetic testing"]
+    G --> L
+    E --> L
+    M["Family history suggestive of Lynch syndrome, but:<br/>no personal history of cancer,<br/>no known family history of Lynch mutation, and<br/>tumor tissue from affected relative not available"] --> N["Predictive model"]
+    N --> O["> 5% probability"]
+    N --> P["≤ 5% probability"]
+    O --> L
+    L --> Q["Positive for Lynch mutation"]
+    L --> R["Negative"]
+    Q --> S["Colonoscopy every 1–2 years<br/>Consider aspirin<br/>Germline genetic testing for 1st-degree relatives"]
+    R --> T["Consider other familial cancer syndromes"]
+    P --> T
+```
+
+**Shortcuts past the predictive model** [[aga-2015-lynch-syndrome]]:
+
+- **First-degree relative carries a known LS mutation** → offer germline testing for **that specific mutation**; no model needed
+- **No known family mutation but tumor tissue from an affected relative is available** → start by testing **that tumor**
+- Patients already at high risk (e.g. meeting the highly specific Amsterdam criteria) may proceed **directly to germline testing** without a risk prediction model
+
+Germline testing of MLH1, MSH2, MSH6, PMS2, and/or EPCAM (or the gene indicated by IHC) is indicated for MMR deficiency without BRAF mutation or MLH1 hypermethylation, a known family mutation, or a predicted mutation probability above the model threshold.
 
 **Clinical criteria (historical)**:
 
@@ -66,7 +105,7 @@ Lynch syndrome (LS), formerly hereditary nonpolyposis [[colorectal-cancer|colore
   1. Do you have a **first-degree relative** (mother, father, brother, sister, child) diagnosed **before age 50** with colon/rectal cancer, **or** cancer of the uterus, ovary, stomach, small intestine, urinary tract (kidney, ureter, bladder), bile ducts, pancreas, or brain?
   2. Have **you** had colon/rectal cancer **or** colon/rectal polyps diagnosed **before age 50**?
   3. Do you have **≥3 relatives** with a history of colon or rectal cancer (parents, siblings, children, grandparents, aunts, uncles, cousins)?
-- **PREMM1,2,6 model**: validated online calculator; ≥5% threshold cost-effective for genetic counseling referral and testing [[usmstf-2014-lynch-syndrome]]
+- **PREMM1,2,6 and MMRpro models** — quantify mutation probability when the criteria above are equivocal or the family history is the only clue; thresholds and head-to-head performance under [[#Relevant Risk Prediction Tools]]
 
 ### Severity Assessment
 
@@ -117,7 +156,11 @@ LS is classified by the causative gene. Share of LS families and the identifying
   - **MSI-low** = **<30%** unstable (significance controversial; sometimes MSH6 germline, more often somatic MSH3 inactivation, which is common and not inherited)
   - **MS-stable** = **no** markers unstable
   - MSI is present in **>90%** of colon cancers in LS and in **12%** of sporadic CRC (somatic MLH1 hypermethylation). Most LS CRCs are MSI-high. MSI and IHC results are highly correlated (performance figures above)
-- **BRAF V600E** and/or **MLH1 promoter methylation**: required when MLH1 is lost to exclude sporadic epigenetic silencing (BRAF mutation essentially rules out LS)
+- **Second-stage testing when MLH1 protein is lost** — BRAF V600E **or** MLH1 promoter methylation, rather than proceeding directly to germline testing *(Conditional recommendation, very low quality of evidence* [[aga-2015-lynch-syndrome]]*)*:
+  - **~75%** of CRCs with absent MLH1 on IHC are **sporadic**, not LS [[aga-2015-lynch-syndrome]]; 68% of sporadic MMR-deficient tumors carry BRAF V600E and almost no LS tumors do [[acg-2015-hereditary-gi-cancer]]
+  - **Either** test positive — BRAF mutation **or** promoter hypermethylation → LS is extremely unlikely; manage as likely sporadic
+  - MLH1 absent **without** BRAF mutation **and without** hypermethylation → proceed to germline testing
+  - Not perfectly specific: BRAF mutation and MLH1 hypermethylation also occur in some LS patients, so the second stage misses LS in **no more than 10% of cases, likely substantially fewer** [[aga-2015-lynch-syndrome]] — the trade accepted to spare the sporadic majority the cost and anxiety of germline testing
 - IHC pattern guides germline gene to test:
   - MLH1/PMS2 co-loss → test MLH1 first (after BRAF/methylation)
   - MSH2/MSH6 co-loss → test MSH2 (including EPCAM deletion analysis)
@@ -148,7 +191,12 @@ LS is classified by the causative gene. Share of LS families and the identifying
 
 - **PREMM1,2,6** (<http://premm.dfci.harvard.edu>) — **inputs: proband sex; personal and/or family history of colorectal, endometrial, or other LS-associated cancers**. Outputs a specific estimate of the probability of an MLH1, MSH2, or MSH6 mutation. Best sensitivity, worst specificity of the three models. **≥5% cutoff** is the cost-effective threshold for proceeding to germline testing.
 - **MMRpredict** — sex, age at CRC diagnosis, tumor location (proximal vs distal), synchronous/metachronous CRC, endometrial cancer in any FDR, age at CRC diagnosis in FDRs. Best specificity.
-- **MMRpro** — personal and family history of colorectal and endometrial cancer, ages at diagnosis, and MMR molecular testing results when available; also projects future cancer risk in presymptomatic carriers.
+- **MMRpro** — personal and family history of colorectal and endometrial cancer, ages at diagnosis, and MMR molecular testing results when available; also projects future cancer risk in presymptomatic carriers. Downloadable software at <http://www4.utsouthwestern.edu/breasthealth/cagene/>.
+- **When to use a model at all** — in a person with a suggestive family history but **no personal history of cancer**, offer a risk prediction model rather than doing nothing, **and** rather than proceeding directly to germline testing *(both Conditional recommendations, very low quality of evidence* [[aga-2015-lynch-syndrome]]*)*. The point is to avoid resource use in low-risk individuals, so the recommendation is itself conditional on the cost of genetic testing.
+  - **PREMM1,2,6 or MMRpro** — the evidence cannot support preferring one over the other
+  - **MMRpredict does not apply here** — it predicts a mutation in a patient with *known* cancer and requires details of that cancer
+  - Evidence graded very low: the models were validated mainly in people **with** a personal cancer history, so applying them to unaffected individuals is indirect
+- **The >5% threshold carries an age qualifier.** The cost-effectiveness analysis behind it modelled **universal application to 25-year-olds**; in middle-aged adults, and as genetic testing gets cheaper, the appropriate threshold is **lower** [[aga-2015-lynch-syndrome]]. Above threshold → offer germline testing for MLH1, MSH2, MSH6, and PMS2.
 - **3-question CRC risk assessment tool** — a quick initial screen for busy practice; "yes" to all 3 identified 95% of germline-mutation carriers (cumulative sensitivity 77%).
 - Caveat: **specificity of both MSI and IHC falls with increasing age** because somatic MLH1 hypermethylation becomes more prevalent — above age 70, reflex BRAF testing on MLH1 loss is what separates sporadic from germline.
 
@@ -166,6 +214,18 @@ LS is classified by the causative gene. Share of LS families and the identifying
 - Age **25–30** may be appropriate start for MSH6/PMS2 carriers given later onset
 - **Annual colonoscopy** should be considered in confirmed mutation carriers
 - Observational cohorts: **62% fewer CRCs** in screened at-risk relatives (Järvinen) and an estimated **72% decrease in death from CRC** in those undergoing surveillance (Dove-Edwin)
+
+[[aga-2015-lynch-syndrome|AGA 2015]] on the same two decisions — *whether* and *how often*:
+
+| Decision | Statement | Strength · quality |
+|---|---|---|
+| Surveillance colonoscopy vs nothing | Recommended in persons with LS | **Strong** · moderate |
+| Interval | Every **1 to 2 years** vs less frequent intervals | Conditional · low |
+
+- **When to start:** age **20–25 years**, **or 5 years before the youngest age of CRC diagnosis in an affected family member — whichever comes first**
+- **Effect size** (technical review meta-analysis): decreased burden of CRC **OR 0.23 (95% CI 0.13–0.41)** and decreased CRC mortality **OR 0.06 (95% CI 0.00–0.93)**
+- Cost-effectiveness modelling: frequent surveillance of gene carriers **added 7 years of life expectancy**, and **cost less than no surveillance**
+- **Why 1–2 years and not gene-tailored:** the best interval is unknown and no study has directly compared intervals, but most CRCs found in LS patients under surveillance are detected on a 1–2 year cycle and usually at a treatable stage. MLH1, MSH2, MSH6, and PMS2 carry different long-term risks, yet **no data directly guide a mutation-specific interval or start age** — which is why the 25–30 start in MSH6/PMS2 above is an option rather than a rule
 - **Why the short interval:** LS patients develop few (usually <10) early-onset adenomas, but the adenoma–carcinoma sequence is accelerated — **polyp-to-cancer dwell time ~35 months vs 10–15 years sporadically**. Precursor lesions are often proximal, sometimes flat, with villous features, high-grade dysplasia, and tumor-infiltrating lymphocytes
 
 **Surgical management of CRC** [[acg-2015-hereditary-gi-cancer]]:
@@ -231,8 +291,13 @@ LS is classified by the causative gene. Share of LS families and the identifying
 - Longer follow-up (mean 55.7 months), intention-to-treat, time to first CRC: HR **0.63** (95% CI 0.35–1.13, P=0.12) — did not reach significance for CRC alone
 - All LS cancers (colorectal, endometrial, ovarian, pancreatic, small bowel, **gallbladder, ureter, stomach, kidney**, and brain), ITT: HR **0.65** (95% CI 0.42–1.00, P=0.05); no excess adverse events vs placebo
 - CAPP3 trial ongoing to establish optimal dose and duration
-- Current recommendation: evidence suggests aspirin may decrease risk, but is not sufficiently robust to recommend standard use (Conditional/Moderate)
-- **Contradiction (surfaced):** [[usmstf-2017-bmmrd|USMSTF 2017]] cites this same trial as showing a **>60% reduction in CRC incidence** among those who took aspirin **for at least 2 years** — a different analysis of CAPP2 than the ITT HR 0.63 above. Neither guideline recommends routine aspirin; see [[bmmrd-syndrome]]
+**Where the guidelines land — three readings of one trial:**
+
+- **[[aga-2015-lynch-syndrome|AGA 2015]] suggests aspirin be offered for cancer prevention in patients with LS** *(Conditional recommendation, low quality of evidence)*. It reads CAPP2 as showing decreased CRC incidence **beyond colonoscopy surveillance alone — incidence rate ratio 0.56 (95% CI 0.32–0.99)** — plus a trend toward fewer other cancers. Downgraded for imprecision; **no mortality data** support long-term aspirin therapy (very low quality for that outcome)
+  - **Harms:** **1% excess GI bleeding** and **<1% excess stroke** vs placebo — neither statistically significant
+  - **Dose and frequency are unknown.** The 600 mg/d tested is a high dose and the risk–benefit balance is uncertain, so individualize by the patient's own risk of adverse events. Cost-effectiveness of aspirin chemoprevention in LS has never been studied
+- **[[acg-2015-hereditary-gi-cancer|ACG 2015]]** concludes from the same trial that aspirin may decrease risk but the evidence **is not sufficiently robust to recommend standard use** *(Conditional/Moderate)* — it reports the intention-to-treat HR 0.63, whose confidence interval crosses 1
+- **[[usmstf-2017-bmmrd|USMSTF 2017]]** cites the same trial as a **>60% reduction in CRC incidence** among those who took aspirin **for at least 2 years**; see [[bmmrd-syndrome]]
 
 **Lifestyle factors**:
 
@@ -251,8 +316,6 @@ LS is classified by the causative gene. Share of LS families and the identifying
 - All genetic testing should occur in the context of pre- and post-test counseling [[usmstf-2014-lynch-syndrome]]
 - Once a pathogenic variant is identified in the proband, all at-risk relatives should be offered mutation-specific testing (Strong, Level III, GRADE Moderate)
 - 14-component informed consent framework includes: GINA protections, VUS implications, psychological impact, data privacy, insurance implications, reproductive options, implications for blood relatives, and right not to know [[usmstf-2014-lynch-syndrome]]
-- LS accounts for **1–3%** of newly diagnosed CRC ([[acg-2015-hereditary-gi-cancer]]; ~3% per [[usmstf-2014-lynch-syndrome]])
-
 ---
 
 ## See Also
@@ -264,8 +327,9 @@ LS is classified by the causative gene. Share of LS families and the identifying
 ## Sources
 
 1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
-2. [[usmstf-2014-lynch-syndrome|Genetic Evaluation and Management of Lynch Syndrome: A Practice Guideline from the American College of Gastroenterology]]
-3. [[usmstf-2017-bmmrd|USMSTF 2017: Recommendations on Surveillance and Management of Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome]]
-4. [[asge-2022-pancreatic-cancer-screening|ASGE Guideline on Screening for Pancreatic Cancer in Individuals with Genetic Susceptibility: Summary and Recommendations (2022)]]
-5. [[nccn-2026-colon-cancer|NCCN Clinical Practice Guidelines in Oncology: Colon Cancer (Version 2.2026)]]
-6. [[aga-2020-young-adult-onset-crc|AGA 2020 Clinical Practice Update: Young Adult–Onset Colorectal Cancer Diagnosis and Management]]
+2. [[aga-2015-lynch-syndrome|American Gastroenterological Association Institute Guideline on the Diagnosis and Management of Lynch Syndrome]]
+3. [[usmstf-2014-lynch-syndrome|Genetic Evaluation and Management of Lynch Syndrome: A Practice Guideline from the American College of Gastroenterology]]
+4. [[usmstf-2017-bmmrd|USMSTF 2017: Recommendations on Surveillance and Management of Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome]]
+5. [[asge-2022-pancreatic-cancer-screening|ASGE Guideline on Screening for Pancreatic Cancer in Individuals with Genetic Susceptibility: Summary and Recommendations (2022)]]
+6. [[nccn-2026-colon-cancer|NCCN Clinical Practice Guidelines in Oncology: Colon Cancer (Version 2.2026)]]
+7. [[aga-2020-young-adult-onset-crc|AGA 2020 Clinical Practice Update: Young Adult–Onset Colorectal Cancer Diagnosis and Management]]

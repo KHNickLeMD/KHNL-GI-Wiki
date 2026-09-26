@@ -6,11 +6,95 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-26] lint | Two AGA 2015 guidelines ingested (Lynch, acute diverticulitis); the 01:10 cron's unrecorded pass backfilled
+
+**Inbox check:** no new arrivals. **449** non-asset files in `raw/`, all 14 subfolder counts matching the 2026-09-23 baseline exactly (AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, Other Studies 6, RCTs 12). `git status -uall -- raw/` returned nothing, as it always will — `raw/`'s content subfolders are git-ignored, so a synced PDF can never surface as untracked. The count-vs-baseline check is the only working detector and it found no delivery.
+
+**First action of this pass: finishing the 01:10 cron entry below**, which had been left at "in progress". See that entry for what the cron actually did.
+
+**Backfilled for the cron (index-side):** `index.md` rows added for `[[aga-2017-elastography-liver-fibrosis]]`, `[[aga-2019-opioid-induced-constipation]]`, `[[opioid-induced-constipation]]` and `[[pamoras]]`; queue rows **N7** and **N8** struck. One capture defect fixed on `[[opioid-induced-constipation]]` — `[[rome-v-2026-dgbi]]` was cited inline and listed in frontmatter `sources:` but missing from `## Sources`.
+
+**Sources created (2 — the per-pass cap):**
+
+- `wiki/sources/aga-2015-lynch-syndrome.md` — AGA Institute Guideline, *Gastroenterology* 2015;149:777–782. All **7 recommendation statements** verbatim — **the document numbers nothing**, so none were numbered — plus the one explicit non-recommendation (no position on IHC vs MSI vs both). 2 Strong/Moderate, 5 conditional.
+- `wiki/sources/aga-2015-acute-diverticulitis.md` — AGA Institute Guideline, *Gastroenterology* 2015;149:1944–1949. All **11 boxed recommendations** verbatim with strength and quality. **The document numbers its 11 Questions, not its recommendations** — captured keyed by question number, and the page says so rather than inventing labels. 10 conditional, 1 strong (mesalamine).
+
+**Pages updated:**
+
+- `[[lynch-syndrome]]` — **three thresholds on the page were missing the qualifier that makes them safe.** The colonoscopy start rule read "ages 20–25"; AGA gives **20–25 y or 5 y before the youngest family CRC diagnosis, whichever comes first**. The page asserted a bare PREMM **≥5%**; that threshold is derived by applying cost-effectiveness to **25-year-olds** and is lower in middle-aged adults. And second-stage *BRAF*/MLH1-methylation testing was treated as definitive; it **misses Lynch in up to 10%** of cases, while **~75% of MLH1-absent tumors are sporadic**. Also added: the surveillance effect size (CRC burden OR 0.23, mortality OR 0.06, +7 y life expectancy, and surveillance costs *less* than no surveillance), aspirin as a positive offer (conditional/low, IRR 0.56) **with its dose and frequency unknown**, and AGA's statement that **no data** support mutation-specific start ages or intervals — which demotes the ACG/USMSTF 25–30 y for MSH6/PMS2 to an option. AGA's Figure 1 decision tool recreated as a Mermaid flowchart, including the no-personal-cancer arm the page had omitted.
+- `[[diverticulitis]]` — the **elective-resection-after-a-first-uncomplicated-episode** decision, which the page had no inputs for because [[acg-2026-diverticulitis]] addresses only *recurrent* disease: suggest against, with the trade-off numbers (~20% 5-y recurrence · <5% future complications or emergency surgery on medical management · ~10% short-term surgical complications, higher >65 y · 25% long-term distention/cramping/altered defecation/incontinence). Also **a normal CT does not exclude colonic neoplasm** with the post-episode colonoscopy yield (CRC 15/1000, advanced adenomas 38/1000), the four factors modifying whether to scope, aspirin separated from nonaspirin NSAIDs, and the fiber qualifier the page lacked (dose unknown; **no study has tested fiber against recurrent diverticulitis**).
+
+**Three discrepancies inside AGA 2015 itself, shown rather than silently resolved:** the aspirin recommendation's evidence quality is printed **very-low in the box and Low in Table 3**; Table 3 includes "**seeds**, nuts, and popcorn" where the boxed text says only "nuts and popcorn"; the box says "history of **acute** diverticulitis" where Table 3 says "history of diverticulitis". Both grades are given on the source page and the quality grade is omitted on the entity page rather than picking one.
+
+**Source priority applied — ACG 2026 keeps `[[diverticulitis]]` on all five overlaps** (newer within tier 1): colonoscopy indication (AGA after *any* episode vs ACG strong only after complicated, conditional after uncomplicated only with alarm symptoms or overdue screening — both agree on the 6–8 week timing), antibiotic selectivity, fiber supplementation as equivalent to diet, aspirin emphasis, and the 5-year recurrence figure (AGA ~20% vs ACG ~60%, different populations — discrepancy surfaced and left unresolved rather than averaged).
+
+**AGA 2015 gives no Hinchey or severity classification and no antibiotic agents, doses or durations** — the page's Hinchey table and antibiotic regimens remain ACG-2026-sourced and were left untouched.
+
+**Source priority applied — AGA 2015 keeps `[[lynch-syndrome]]` on all 7 overlaps with [[usmstf-2014-lynch-syndrome]]** (newer within tier 1), the sharpest being **second-stage testing**: USMSTF rates it Strong on the assumption that *BRAF* mutation and MLH1 hypermethylation are 100% specific for sporadic tumors, where AGA rates it Conditional/very low because meta-analysis shows both also occur in Lynch. Prevalence differs too (AGA 2%–3% of CRC, 1 in 440; USMSTF 2%–4%, ~1 in 279; ACG 1%–3%) — AGA's figures lead, with the range shown. On aspirin, AGA *suggests offering* where ACG 2015 called the evidence insufficient; both are 2015, so ACG's framing is kept alongside rather than deleted. The three published readings of CAPP2 (AGA IRR 0.56 with a CI excluding 1 · ACG ITT HR 0.63 with a CI crossing 1 · USMSTF 2017's ">60% reduction if ≥2 y") are reported side by side as three readings of one trial rather than resolved into one number.
+
+**Hygiene:**
+
+- **Broken links: 0** in content pages. A whole-wiki basename scan returned 19 unresolved `[[...]]` tokens; every one is in this append-only `log.md` or in a format example (`[[slug]]`, `[[page-slug]]`, `[[wiki-links]]`, `[[esophageal-manometry]]`, `[[hrem]]`, `[[barrett-esophagus]]`). No stubs created, per the guard against stubbing from documentation text.
+- **Unescaped alias pipes inside tables: 0.** No `.DS_Store` or other OS artifacts.
+- **Index counts recounted:** 321 sources · 146 disease scripts · 27 schemas · 7 general procedures · 27 advanced procedures · 42 meds · 49 concepts · 1 synthesis = **624 pages**. The footer now states explicitly that the 4 root files are inside the total but outside the category counts — the previous figure (618) was internally consistent but did not say so, which is how it had twice been re-derived wrongly.
+- **Ingest backlog corrected to 17** uningested tier-1 files (was stated as 21): N12 and N13 of the September arrivals, plus CPU queue items 34–48.
+
+**Cards:** 5 cards added to `cards/1-disease-scripts/colorectal-diseases/inflammation/diverticulitis.md` for the AGA 2015 facts (elective resection after a first episode, the <5% medical-management complication rate, a normal CT not excluding neoplasm, the aspirin position, and fiber never having been tested against recurrence). **`page_updated:` deliberately left at 2026-09-08** on both that file and the Lynch card file — neither page is fully carded against today's additions, and the marker is only written when every guideline-backed fact has a card. Both files therefore sit stale and rejoin the card queue at their page's tier.
+
+**Coverage gaps: none filled this pass, by rule** — the pass carried two ingests plus the backfill of two more, which is the "already heavy on ingest → 1 or none" case.
+
+**Remaining for triage:**
+
+- **`[[aga-2021-post-esd-surveillance]]` and `[[aga-2022-subepithelial-lesions]]` still have 0 inbound links from content pages** — flagged 2026-09-25, still unpropagated. Their curative-resection criteria, depth thresholds and surveillance tables have never reached [[endoscopic-submucosal-dissection]], [[colorectal-esd]], [[subepithelial-lesion]] or [[gastrointestinal-stromal-tumor]]. This needs its own pass; it is a re-read of two guidelines, not a link fix.
+- **No home for aspirin chemoprevention.** The CAPP2 content now sits on [[lynch-syndrome]] with nowhere to link; `5-meds/aspirin` or a chemoprevention page would be its one home, and [[aga-2021-crc-chemoprevention]] is already ingested to build it from. Added to the *Fillable now* queue rather than filled this pass.
+- Entities named in text with no page and no link: **Lynch-like syndrome, microsatellite instability / mismatch repair, immunohistochemistry, endometrial cancer**.
+- **Entity-page fabrications inherited from the old USMSTF page, still live on `[[lynch-syndrome]]` — not yet fixed, highest priority for the next pass.** Verify against [[acg-2015-hereditary-gi-cancer]] first in case it carries different figures: **MSH6 CRC risk "22–69% / 10–30%"** (Table 3 gives male 22%, female 10%, combined 18% — there is no 69% or 30%); **colonoscopy "age 25–30 in MSH6/PMS2"** (age 30 MSH6, age **35** PMS2); **MSH6 endometrial "16–71%"** (17–71%); **hysterectomy/BSO "optimally at age 40–45 (Conditional/Low)"** (after childbearing or at age 40, and the strength label is wrong — see below); **gastric surveillance "every 3–5 years"** (every **2–3** years, qualified on individual risk factors, not on family history of gastric or duodenal cancer).
+- **`[[crohns-disease]]` has not been checked for the same propagation** and is the other high-risk page: grep it for fecal calprotectin in **mg/g** (should be µg/g), vedolizumab induction at **"week 0, 2"** (ACG 2025 says week 0 and **6**), adalimumab **"160 → 80"** and certolizumab **"wk 0, 2, 4"** (neither induction regimen is in ACG 2025 at all), budesonide **"8–12 weeks"** (no duration is given), and postoperative vedolizumab graded Conditional/**Low** (it is Moderate).
+
+**Stalest-cohort validation — both pages were substantially wrong, and one had the wrong guideline on its title line.**
+
+**`[[usmstf-2014-lynch-syndrome]]`** — the page's **22-row recommendation table was fabricated**: invented headings, invented splits, and an invented Strong/Conditional strength vocabulary. The document has **13 unnumbered "Guideline" boxes** plus Tables 10 and 12, and its strength words are *strong recommendation · recommendation · offer to patient · consideration* — **"Conditional" appears nowhere in it.** All 13 boxes and both tables now captured verbatim. The title also misattributed the document: it is a **US Multi-Society Task Force consensus statement** (ACG, AGA, ASGE, ASCRS), not "a Practice Guideline from the American College of Gastroenterology".
+
+Numbers corrected toward the document: gastric EGD **every 2–3 y** (was 3–5); colonoscopy start **age 30 MSH6 / age 35 PMS2** (was 25–30 for both); hysterectomy/BSO **after childbearing or at age 40** (was 40–45); Amsterdam II sensitivity **0.22 (0.13–0.67), specificity 0.98** (was "60–70%"); revised Bethesda **0.82 / 0.77** (was "82–95%"); MSH6 endometrial **17–71%** (was 16–71%); Lynch share of CRC **about 3%** (was 2–4%); colonoscopy benefit **62% incidence, 65% and 72% mortality in two named cohorts** (the page had merged these into "62–72% mortality"); CAPP2 **693 randomized to aspirin, 861 in the long-term analysis** (the page's n=727 is the resistant-starch arm). Restored qualifiers: "**or 2–5 years before the youngest CRC diagnosis in the family if diagnosed before age 25**" and Amsterdam II's "**1 of which is a first-degree relative of the other 2**".
+
+Three things the page asserted that **are not in the document at all** — deleted: the **~1 in 279 population carrier rate**; "**>60% of MLH1-deficient CRCs are sporadic**"; and three genetic-counseling recommendations including a "**14-component informed consent framework**" presented with Level and GRADE stamps (counseling is narrative in the document, with no guideline box). The "universal testing identifies ~95% of Lynch cases" claim was misattributed — 95% belongs to the 3-question risk tool. Two missing statements added (**small intestine: routine screening not recommended**; **prostate and breast: not recommended beyond the general population**), along with the fact that these and the pancreas statement carry **no evidence level or GRADE rating**.
+
+**`[[acg-2025-crohns]]`** — all 35 GRADE recommendations were present but **listed twice on the same page** (a bulleted list and a table), and **all 59 Key Concepts from Table 2 were missing**. Now one table plus all 59 concepts. The defects that mattered clinically:
+
+- **Fecal calprotectin ">50–100 mg/g" — a 1000× units error.** The document says **µg/g**. This is the exact failure the Style Guide's "a threshold without its qualifier is worse than none" rule exists for.
+- **Vedolizumab IV induction given as "300 mg week 0, 2"** — VISIBLE 2 and the document say **week 0 and week 6**. Worse, the page carried a ⚠ note asserting that the ACG text itself described only weeks 0 and 2; that was a false statement about the document and was deleted.
+- **Two induction regimens that appear nowhere in ACG 2025** — adalimumab "160 mg → 80 mg → 40 mg" and certolizumab "400 mg wk 0, 2, 4". The document gives maintenance dosing only for both. Removed.
+- **Rec 34 graded Conditional/Low; it is Conditional/Moderate.**
+- **Budesonide "9 mg/day × 8–12 wk"** — no duration is given; the document instead says it is not effective for maintenance beyond 3 months.
+- **Prednisone taper** was "40–60 mg/d, taper 5 mg/wk"; the document holds 40–60 mg/d for **1–2 weeks**, then tapers **5 mg weekly to 20 mg, then 2.5–5.0 mg weekly**, total ≤3 months, and says **>60 mg/d is not recommended**.
+- **Postoperative "high-risk factors" were wrong**: the three greatest are smoking after surgery, penetrating disease, and **≥2 prior surgeries** — the page listed "short disease duration", which is the inverse of a *low*-risk factor. Rec 31's low-risk arm is **observation**; metronidazole 1–2 g/d is a separate recommendation with **no duration**.
+- **Population qualifiers restored** on Recs 4, 6 ("**mildly to moderately active**") and 13 ("naive to **those agents**", not "biologic-naive"). Guselkumab maintenance is **100 mg q8wk or 200 mg q4wk** — two discrete arms, not a "100–200 mg q4–8wk" range. "Deep remission" is not a term the document uses; its fourth category is **surgical remission**.
+
+33 of the 35 grades and every other dose checked — including the TDM troughs, HLA-DQA1\*05 75%, PROFILE, SEQUENCE, LIBERTY, the CRC-surveillance triggers and abscess >2 cm — **verified correct against the document and kept**.
+
+---
+
 ## [2026-09-26] lint | AGA 2017 elastography + AGA 2019 opioid-induced constipation; 2026-05-28 source-cohort validation
 
 **Inbox check:** no new arrivals. 449 non-asset files in `raw/`, all 14 subfolder counts matching the 2026-09-23 baseline exactly (AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, Other Studies 6, RCTs 12). `git status -uall -- raw/` returned nothing, as it always will — `raw/`'s content subfolders are git-ignored, so a synced PDF can never appear as untracked. The count-vs-baseline check is the only working detector, and it found no delivery.
 
-*(entry in progress — filled as the pass proceeds)*
+**Backfilled by the second 2026-09-26 pass (manual).** This entry was left at "in progress" when the 01:10 cron run (`17a08dc`) stopped. The work below is reconstructed from that commit; the pass's own record of it never got written.
+
+**Sources created (2 — both from the N-queue of 2026-09-23 arrivals, rows N7 and N8):**
+
+- `wiki/sources/aga-2017-elastography-liver-fibrosis.md` — AGA Institute Guideline on the role of elastography in the evaluation of liver fibrosis.
+- `wiki/sources/aga-2019-opioid-induced-constipation.md` — AGA Institute Guideline on the medical management of opioid-induced constipation.
+
+**Pages created (2):**
+
+- `[[opioid-induced-constipation]]` — new disease script in `1-disease-scripts/colorectal-diseases/functional-motility/`. Rome IV OIC criteria, the Bowel Function Index with all three items and the **BFI ≥30** escalation cutoff, the "inadequate laxative response" operational definition (moderate/severe symptoms despite ≥1 laxative class for ≥4 days over 2 weeks), the scheduled two-class laxative regimen that must fail before a PAMORA, and all three PAMORA recommendations with their true GRADE splits — naldemedine Strong/High, naloxegol Strong/Moderate, methylnaltrexone **Conditional**/Low. Lubiprostone and prucalopride carry AGA's formal **"no recommendation"** category, preserved as such rather than converted into a recommendation against.
+- `[[pamoras]]` — new drug-class page for the peripherally acting μ-opioid receptor antagonists.
+
+**Pages updated:** `[[liver-stiffness-measurement]]`, `[[noninvasive-liver-disease-assessment]]`, `[[nafld-masld]]`, `[[hepatitis-c]]` (elastography cutoffs by etiology); `[[chronic-constipation]]`, `[[chronic-idiopathic-constipation]]` (OIC split out to its own page and linked).
+
+**Stalest-cohort validation:** `[[acg-2024-acute-pancreatitis]]` (frontmatter `created: 2026-05-07`, the oldest load cohort) rebuilt against the raw guideline — it now carries the document's own **Recommendations (Table 2)** and **Key Concepts (Table 3)** as tables rather than the prose summary it had.
+
+**Provenance failure — index and log both missed, seventh occurrence in the series.** The cron propagated its content correctly this time (all four new pages have inbound links; no orphans), but wrote **no `index.md` rows** for either source page, `[[opioid-induced-constipation]]` or `[[pamoras]]`, struck **neither N7 nor N8** from the ingest queue, and left this entry unfinished. All backfilled by the manual pass below.
 
 ---
 
