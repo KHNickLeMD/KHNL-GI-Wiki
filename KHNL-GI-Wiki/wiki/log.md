@@ -6,6 +6,35 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-27] lint | AGA 2015 upper-GI-biopsy-in-dyspepsia + AGA 2020 BRCA CPU ingested; six parallel batches; the queue's last non-CPU arrival cleared
+
+**Inbox check:** no new arrivals. **449** non-asset files in `raw/`, all 14 subfolder counts matching the 2026-09-23 baseline exactly (AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, Other Studies 6, RCTs 12). Working tree clean; nothing to commit from the inbox sync.
+
+**Ingest slots claimed this pass:** queue row **N12** (`AGA 2015 Upper GI Biopsy in Dyspepsia`) and CPU queue item **34** (`AGA 2020 CPU BRCA1-2 CRC and Pancreatic Screening`). `git log -8 --name-only -- wiki/sources/` confirmed no cron pass had silently taken either. Both rows struck in `index.md`. **N12 was the last of the 14-file 2026-09-23 arrival worth ingesting on its merits** — only N13 (`AGA 2012 NAFLD`, superseded on every overlapping claim by [[aasld-2023-nafld]], flagged for historical value only) remains from that delivery, so the queue now reverts to the AGA CPU back-catalogue.
+
+**Sources created (2 — the per-pass cap):**
+
+- `wiki/sources/aga-2015-upper-gi-biopsy-dyspepsia.md` — AGA Institute Guideline, *Gastroenterology* 2015;149:1082–1087. All **8 statements verbatim** with strength + quality of evidence. **This document numbers its own statements** (Table 3) — worth recording, because most AGA documents in this queue do not, and the standing failure mode is pages inventing numbering. Captured the **5-biopsy updated Sydney System** as a native Markdown table with the positioning distances the figure legend alone does not give (antrum lesser + greater curve **within 2–3 cm of the pylorus**; corpus lesser curve **4 cm proximal to the angularis**; corpus greater curve **8 cm from the cardia**; incisura angularis), plus the one-jar rule.
+- `wiki/sources/aga-2020-brca-crc-pancreatic-screening.md` — AGA Clinical Practice Update, *Gastroenterology* 2020;159:760–764. ⚠ **Commentary format: it issues no numbered Best Practice Advice and assigns no GRADE ratings of its own.** The GRADE 2 / GRADE 3 labels inside it belong to the **CAPS Consortium** consensus it cites, not to the AGA. Recorded explicitly on the source page and in the index row so a later pass does not attribute them to AGA — this is the exact shape of the 2026-09-08 finding (23 of 34 invented grades on `asge-2020-endoscopic-removal`), caught before it could be written rather than after.
+
+**One orphan closed (partially):** `[[aga-2021-post-esd-surveillance]]` — ingested 2026-09-22 with **0 inbound links**, meaning its content never reached any entity page. [[endoscopic-submucosal-dissection]] now carries it: tumor budding added as a curative-resection criterion, the R0-in-a-field-of-dysplasia rule (no minimum margin distance; R0 if the *highest* grade is absent at the margin), the R1-horizontal → re-resect vs R1-vertical → prompt surgery split, and new stricture-prevention and per-site surveillance sections. Slug added to `sources:`.
+
+**⚠ This pass was cut short by budget and left work unfinished — the following is open, not done:**
+
+- **`[[aga-2022-subepithelial-lesions]]` is still a whole-wiki orphan** (0 inbound links). [[subepithelial-lesion]] and [[gastrointestinal-stromal-tumor]] still do not list it. Same defect as the row above; carry it to the next pass.
+- **[[colorectal-esd]] did not receive the post-ESD surveillance content** — only the esophagogastric ESD page did.
+- **Stalest-page validation did not complete.** The three targets — `[[aasld-ast-2025-liver-transplant-non-graft-complications]]`, `[[acg-2015-psc]]`, `[[acg-2016-liver-disease-pregnancy]]` (all `updated: 2026-05-28`) — are **untouched, not half-edited**; their checkers were stopped before writing. They remain the oldest pages on the wiki and should lead the next pass. **31 pages remain at the 2026-05-28 floor**, the cohort proven to contain invented GRADE ratings and fabricated doses.
+- **The un-linked-mention sweep did not run.** No inline links were added this pass outside the ESD page.
+- **Coverage-gap queue untouched** — no *Fillable now* item was taken (correct per the "pass already heavy on ingest → 1 or none" rule, but recording it so the next pass does not assume progress).
+
+**Decision inputs captured, not just conclusions:**
+
+- The dyspepsia-biopsy guideline's scope qualifiers are load-bearing and now travel with every statement: **adults >18 y · dyspepsia as the *sole* indication · no visible mucosal lesions · Rome III definition · no prior *H. pylori* treatment**. Statement 2 explicitly **does not apply when HP status is already known**.
+- The BRCA update's CRC rule is only usable with its threshold logic, so that is on the page: a **2-fold** risk over the general population is the criterion current guidelines use for earlier/more intensive screening; *BRCA1*'s **1.5-fold** is not clearly sufficient; [[lynch-syndrome]] runs **10–17-fold** for scale. Without that, "carriers follow average-risk screening" reads as an arbitrary conclusion.
+- **CAPS and NCCN disagree on PDAC screening eligibility** — CAPS: *BRCA2* with **≥1 affected first-degree relative or ≥2 affected relatives of any degree** (93% consensus, GRADE 2), **no consensus** for *BRCA1*; NCCN: *BRCA1/2* with an affected **first- or second-degree** relative. A carrier can be eligible under one and not the other. Surfaced rather than resolved, per the document.
+
+---
+
 ## [2026-09-26] lint | Two AGA 2015 guidelines ingested (Lynch, acute diverticulitis); the 01:10 cron's unrecorded pass backfilled
 
 **Inbox check:** no new arrivals. **449** non-asset files in `raw/`, all 14 subfolder counts matching the 2026-09-23 baseline exactly (AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, Other Studies 6, RCTs 12). `git status -uall -- raw/` returned nothing, as it always will — `raw/`'s content subfolders are git-ignored, so a synced PDF can never surface as untracked. The count-vs-baseline check is the only working detector and it found no delivery.

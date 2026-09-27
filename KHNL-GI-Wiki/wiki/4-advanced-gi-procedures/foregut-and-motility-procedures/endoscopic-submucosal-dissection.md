@@ -3,8 +3,8 @@ title: "Endoscopic Submucosal Dissection (Esophagogastric)"
 category: advanced-procedure
 tags: [esd, endoscopic-resection, emr, early-gastric-cancer, early-esophageal-cancer, en-bloc, r0-resection, pathology, training, duodenal]
 created: 2026-06-27
-updated: 2026-09-22
-sources: [asge-2023-esd, aga-2026-electrosurgery, aga-2018-esd-united-states]
+updated: 2026-09-27
+sources: [asge-2023-esd, aga-2026-electrosurgery, aga-2018-esd-united-states, aga-2021-post-esd-surveillance]
 ---
 
 # Endoscopic Submucosal Dissection (Esophagogastric)
@@ -16,14 +16,21 @@ En-bloc endoscopic resection of early GI neoplasia using electrosurgical knives 
 - [[#ESD vs EMR vs Surgery — Lesion-Based Selection]]
   - [[#Esophageal Indications — Lesion Features]]
 - [[#Curative (R0) Resection Criteria]]
+  - [[#What Counts as R0 in a Field of Premalignant Mucosa]]
 - [[#Depth of Invasion]]
+  - [[#Deep-Invasion Thresholds That Still Permit Cure]]
 - [[#Gastric ESD Appropriateness Criteria]]
 - [[#Duodenal ESD]]
 - [[#Post-Resection Coagulation and Closure]]
+- [[#Post-ESD Stricture Prevention]]
 - [[#Specimen Handling and Pathology]]
 - [[#Outcomes]]
 - [[#Adverse Events]]
 - [[#Surveillance]]
+  - [[#Surveillance Technique (every site)]]
+  - [[#Esophageal Dysplasia and Squamous Cell Carcinoma]]
+  - [[#Barrett's Dysplasia and Esophageal Adenocarcinoma]]
+  - [[#Gastric Dysplasia and Adenocarcinoma]]
 - [[#Training and Referral Practice]]
 - [[#See Also]]
 - [[#Sources]]
@@ -67,12 +74,23 @@ Size alone does not decide the esophagus. [[aga-2018-esd-united-states]] adds de
 
 ## Curative (R0) Resection Criteria
 Clinical success = **curative resection** requires ALL of the following on histology of the resected specimen:
-1. Lateral **and** deep margins microscopically free of malignant cells (R0)
+1. Circumferential (lateral/horizontal) **and** deep (vertical) margins microscopically free of malignant cells (R0)
 2. Well (G1) or moderate (G2) differentiation
 3. No lymphovascular invasion
-4. No deep invasion beyond the submucosa
+4. **Low-grade (grade 1) or absent tumor budding** ([[aga-2021-post-esd-surveillance]])
+5. No deep invasion — organ-specific depth limits in [[#Deep-Invasion Thresholds That Still Permit Cure]]
 
 Failure of any criterion → not curative → consider surgery / adjuvant therapy.
+
+### What Counts as R0 in a Field of Premalignant Mucosa
+
+Per [[aga-2021-post-esd-surveillance]]:
+
+- **No minimal distance** is required between tumor cells and the resection margin for ESD — unlike surgical R0 resection.
+- Lesion sitting in a field of lesser dysplasia ([[barretts-esophagus|Barrett's]], severe [[atrophic-gastritis]]) → consider the resection **R0 if the highest histologic grade of the target neoplasm is not present at the margins**. Example: a large HGD nodule in BE removed completely, flat LGD present at the specimen margin = R0 for HGD.
+- **R1 horizontal margin** (microscopic) with otherwise low-risk histology → additional endoscopic therapy by ESD or [[endoscopic-mucosal-resection|EMR]] is possible.
+- **R1 deep/vertical margin** after ESD of a malignant neoplasm → **prompt referral for surgery**.
+- Western pathology does not uniformly use the Japanese protocol (2–3 mm serial sectioning, lymphovascular-invasion stains), and there is no uniformly accepted definition of a negative R0 margin — the reason the surveillance intervals below are tighter than Asian protocols require.
 
 **Noncurative findings that surface only on post-ESD pathology** (gastric — each prompts **multidisciplinary review** rather than automatic gastrectomy, given the risks of gastrectomy): positive lateral **or** deep margin; submucosal infiltration **>500 µm**; poorly differentiated or undifferentiated pathology; **ulcerated tumor >3 cm**; lymphovascular invasion. [[asge-2023-esd]]
 
@@ -89,6 +107,16 @@ Failure of any criterion → not curative → consider surgery / adjuvant therap
 | **SM3** | Lower third of submucosa |
 
 Deeper invasion → higher lymph-node metastasis risk → favors surgery.
+
+### Deep-Invasion Thresholds That Still Permit Cure
+
+Depth of submucosal invasion below the muscularis mucosae compatible with a **curative** ESD, by organ ([[aga-2021-post-esd-surveillance]]):
+
+| Cancer type / organ | Curative if submucosal invasion is |
+|---|---|
+| Esophageal and gastric **adenocarcinoma** | **<500 µm** |
+| Colorectal **adenocarcinoma** | **<1000 µm** (colorectal detail on [[colorectal-esd]]) |
+| Esophageal **squamous cell carcinoma** | **No depth is curative once the muscularis mucosae is reached** — m3 (muscularis mucosae) or any submucosal invasion is noncurative, given the increased lymph-node-metastasis risk |
 
 ## Gastric ESD Appropriateness Criteria
 - **Absolute criteria:** mucosal adenocarcinoma (or high-grade dysplasia), **intestinal type**, G1/G2 differentiation, measuring **≤2 cm**, nonulcerated.
