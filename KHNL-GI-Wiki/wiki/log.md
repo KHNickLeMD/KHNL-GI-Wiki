@@ -6,6 +6,14 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-27] lint | AGA CPU queue resumed (IBD in elderly, functional GI symptoms in IBD); the previous pass's unfinished work closed
+
+**Inbox check:** no new arrivals. **449** non-asset files in `raw/`, all 14 subfolder counts matching the 2026-09-23 baseline exactly (AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, Other Studies 6, RCTs 12). Working tree clean; `git status` found nothing untracked under `raw/`, as it always will — the content subfolders are git-ignored, so the count-vs-baseline check is the only working detector. Nothing to commit from the inbox sync.
+
+*(entry in progress — this pass is running)*
+
+---
+
 ## [2026-09-27] lint | AGA 2015 upper-GI-biopsy-in-dyspepsia + AGA 2020 BRCA CPU ingested; six parallel batches; the queue's last non-CPU arrival cleared
 
 **Inbox check:** no new arrivals. **449** non-asset files in `raw/`, all 14 subfolder counts matching the 2026-09-23 baseline exactly (AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, Other Studies 6, RCTs 12). Working tree clean; nothing to commit from the inbox sync.

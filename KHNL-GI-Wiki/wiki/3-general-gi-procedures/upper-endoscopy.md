@@ -3,8 +3,8 @@ title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-09-08
-sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy, asge-2011-foreign-body-ingestion, aga-2021-gi-perforations-endoscopic-management]
+updated: 2026-09-27
+sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy, asge-2011-foreign-body-ingestion, aga-2021-gi-perforations-endoscopic-management, aga-2015-upper-gi-biopsy-dyspepsia]
 ---
 
 # Upper Endoscopy (EGD)
@@ -214,17 +214,36 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 #### Dyspepsia / H. pylori Evaluation
 
-- 5 biopsies: greater and lesser curve of gastric body, incisura, greater and lesser curve of antrum
-- Place in 2 labeled jars: body | antrum/incisura
+**The 5-biopsy updated Sydney System — where the forceps go** ([[aga-2015-upper-gi-biopsy-dyspepsia|AGA 2015]] Figure 1; distances confirmed by [[aga-2024-upper-endoscopy-quality|AGA 2024]]). This is the wiki's home for the site map; other pages link here.
+
+| # | Site | Positioning |
+|---|---|---|
+| A | Antrum, lesser curvature | within **2–3 cm of the pylorus** |
+| B | Antrum, greater curvature | within **2–3 cm of the pylorus** |
+| C | Corpus (body), lesser curvature | **4 cm proximal to the angularis** |
+| D | Corpus (body), greater curvature | middle portion, **8 cm from the cardia** |
+| E | Incisura angularis | one specimen |
+
+- The updated Sydney protocol identified **100% of H. pylori infections** in the single study comparing protocols. A 3-biopsy protocol (greater curve of corpus + antrum + incisura) also identified 100%, but equivalency **could not be established** — only 20 infected patients, acid-suppressive status unspecified. The 5-biopsy set may add yield **in patients on acid suppression**, and pathology processing costs the same either way, so 5 is the suggestion ([[aga-2015-upper-gi-biopsy-dyspepsia|AGA 2015]] Statement 4, Conditional/Moderate).
+- ⚠ **Jars — the two AGA documents differ.** AGA 2015 (Statement 4) puts **all specimens in a single jar** for H. pylori detection, reasoning that experienced GI pathologists can assign anatomic location and multiple jars only add cost. [[aga-2024-upper-endoscopy-quality|AGA 2024]] directs **2 labeled jars (body | antrum/incisura)**. AGA 2024 is the newer document and is what this page follows; one jar is acceptable when the question is purely H. pylori status.
 - Gastric body biopsies are especially important in PPI or [[potassium-competitive-acid-blockers|PCAB]] users (H. pylori migrates proximally)
-- No role for routine esophageal or duodenal biopsies in dyspepsia evaluation
+- **Do not routinely special-stain gastric specimens** ([[aga-2015-upper-gi-biopsy-dyspepsia|AGA 2015]] Statement 5, Conditional/Moderate). With the 5-biopsy protocol most infections are identifiable on **H&E** by an experienced pathologist. Reserve immunohistochemistry or other special stains for the case where **H. pylori is not seen on H&E despite chronic gastritis**, at the pathologist's discretion.
+
+**When dyspepsia alone is the indication and the mucosa looks normal** — [[aga-2015-upper-gi-biopsy-dyspepsia|AGA 2015]], the segment-by-segment answer. *Scope the statements inherit and cannot be applied outside: **adults >18 y**, **dyspepsia as the sole indication**, **no visible mucosal lesions**, dyspepsia by **Rome III criteria** (bothersome postprandial fullness, early satiation, epigastric pain, epigastric burning), and **no prior H. pylori treatment**.*
+
+| Segment | Immunocompetent | Immunocompromised |
+|---|---|---|
+| Esophagus / GE junction | **Do not biopsy** (Statement 1, Strong/Very low) | **Do not biopsy** — same statement, "regardless of immune status" |
+| Gastric body + antrum | **Biopsy for H. pylori — but only if H. pylori status is unknown** (Statement 2, Strong/Moderate) | **Biopsy for H. pylori** if status unknown (Statement 3, Strong/Very low) |
+| Duodenum | **Do not biopsy** for [[celiac-disease\|celiac disease]] absent other signs/symptoms of increased celiac risk (Statement 6, Conditional/Very low) | **Biopsy** for **GVHD** in post-allogeneic transplant patients and for **opportunistic infections** (Statement 7, Conditional/Very low) |
+
+- ⚠ **Statement 2 does not apply once H. pylori status is already known** — the assumed benefit (detect-and-eradicate) is not there, so a known-status patient is not a reason to biopsy normal stomach.
+- **Do not routinely special-stain duodenal specimens** (Statement 8, Conditional/Very low). CD3 immunohistochemistry adds nothing over H&E intraepithelial-lymphocyte counting; reserve it for rare situations such as suspected celiac disease with normal villous architecture.
+- Statement 1 rests on cost and harm, not evidence strength: GE-junction [[gastric-intestinal-metaplasia|intestinal metaplasia]] of the cardia showed **no malignant potential** in an 86-patient cohort, is unreliably reproduced on repeat biopsy, and labels the patient with a cancer risk that can affect insurability and pull them into needless surveillance. The panel carves out populations at high risk for **squamous dysplasia** (it names Iranian and Chinese) as potentially warranting a risk-tailored approach.
 
 #### Gastric Preneoplasia — Updated Sydney System
 
-- ≥5 biopsies:
-  - 2 antrum specimens (within 2–3 cm of pylorus, lesser and greater curvature)
-  - 1 incisura angularis
-  - 2 body specimens (lesser curvature ~4 cm proximal to angle; greater curvature ~8 cm distal to cardia)
+- ≥5 biopsies, at the sites mapped in [[#Dyspepsia / H. pylori Evaluation]]
 - Separate into ≥2 jars (body | antrum/incisura); targeted biopsies in a separate jar
 - Request **histologic subtyping** of gastric intestinal metaplasia (improves prognostic value)
 
@@ -286,3 +305,4 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 3. [[aga-2024-glp1-endoscopy|AGA Rapid Clinical Practice Update on the Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy: Communication (2024)]]
 4. [[asge-2011-foreign-body-ingestion|ASGE Guideline: Management of Ingested Foreign Bodies and Food Impactions (2011)]]
 5. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review (2021)]]
+6. [[aga-2015-upper-gi-biopsy-dyspepsia|AGA Institute Guideline on the Role of Upper Gastrointestinal Biopsy to Evaluate Dyspepsia in the Adult Patient in the Absence of Visible Mucosal Lesions]]

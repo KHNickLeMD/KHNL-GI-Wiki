@@ -1,39 +1,39 @@
 ---
-title: "AASLD/AST Consensus Recommendations on Non-Graft Complications of Liver Transplantation (2025)"
+title: "AASLD AST Practice Guideline on Adult Liver Transplantation: Diagnosis and Post-Transplant Management of Non-Graft-Related Complications (2025)"
 category: source
-tags: [liver-transplant, post-transplant, bone-health, vaccination, cmv, ptld, cancer-surveillance, metabolic-syndrome, cardiovascular, obesity, glp-1, bariatric-surgery, hypertension, dyslipidemia, diabetes, pregnancy, infection]
+tags: [liver-transplant, post-transplant, bone-health, vaccination, cmv, ptld, cancer-surveillance, metabolic-syndrome, cardiovascular, obesity, glp-1, bariatric-surgery, hypertension, dyslipidemia, diabetes, pregnancy, infection, chronic-kidney-disease, hernia]
 created: 2026-05-25
-updated: 2026-05-28
+updated: 2026-09-27
 sources: []
 ---
 
 ## Bibliographic Info
 
-- **Article:** [Sharma P, et al. AASLD AST Practice Guideline on adult liver transplantation: Diagnosis and post-transplant management of non-graft-related complications. *Liver Transpl* 2026.](https://doi.org/10.1097/LVT.0000000000000785)
-- **Authors:** Sharma P, Izzy M, Ghabril M, Serper M, Clark C, Ison MG, Hameed B, Volk ML, Brown RS Jr, Humar A, Martin P
-- **Year:** 2025 (accepted December 3, 2025; published online ahead of print)
-- **Journal/Publisher:** Liver Transplantation, 2026;00:000. DOI: 10.1097/LVT.0000000000000785
+- **Article:** [Sharma P, Izzy M, Ghabril MS, Serper M, Clark VC, Ison MG, Hameed B, Volk M, Brown RS Jr, Humar A, Martin P. AASLD AST Practice Guideline on adult liver transplantation: Diagnosis and post-transplant management of non-graft–related complications. *Liver Transplantation* 2026;00:000–000.](https://doi.org/10.1097/LVT.0000000000000785)
+- **Authors:** Sharma P, Izzy M, Ghabril MS, Serper M, Clark VC, Ison MG, Hameed B, Volk M, Brown RS Jr, Humar A, Martin P
+- **Year:** 2025 (received 2 December 2025; accepted 3 December 2025; AASLD Governing Board approval 16 October 2025; published online ahead of print, *Liver Transplantation* 2026)
+- **Journal/Publisher:** Liver Transplantation (Wolters Kluwer), for AASLD and AST
 - **DOI:** [10.1097/LVT.0000000000000785](https://doi.org/10.1097/LVT.0000000000000785)
-- **Type:** Clinical Practice Consensus Guideline
-- **Grading system:** Oxford Centre for Evidence-Based Medicine (OCEBM) — Strength (Strong/Weak) + Level (1–5)
+- **Type:** Practice guideline (AASLD/AST)
+- **Grading system:** Oxford Centre for Evidence-Based Medicine (OCEBM). Each numbered **guideline statement** carries a **strength** (Strong or Weak) and a **level of evidence (1–5)**. "Strong" = evidence robust and consistent enough to adopt as standard of care; "weak" = evidence weaker or inconsistent, alternative approaches available. Consensus threshold was ≥80% agreement among writing-group members; consensus was achieved on all statements.
 
 ---
 
 ## Summary
 
-This AASLD/AST consensus document provides 70 numbered recommendations addressing non-graft complications in adult [[liver-transplantation|liver transplant]] recipients beyond 90 days post-transplant. It covers wellness/nutrition, bone health, vaccination, reproductive health, infectious complications, oncologic surveillance, metabolic syndrome management, cardiovascular surveillance, and end-of-life care. It complements the companion AASLD/AST 2025 documents on candidate evaluation and graft complications.
+AASLD/AST practice guideline covering prevention, diagnosis, and management of medical and surgical comorbidities **not related to the liver allograft**, in adult [[liver-transplantation|liver transplant]] recipients **beyond the first 90 days after transplant**. Graft-related complications are covered in a separate companion document. Built around 25 PICO questions answered by **87 numbered guideline statements**.
 
-5-year and 10-year patient survival are 82% and 69% respectively (SRTR 2012–2024). Cardiovascular disease and de novo malignancy are now the leading non-graft causes of death in long-term LT survivors, making metabolic comorbidity management and cancer surveillance central to post-LT care.
+Domains: wellness and nutrition, health behaviors, bone health, vaccination, reproductive health, infectious complications (including CMV), oncologic surveillance, metabolic and cardiovascular complications, chronic kidney disease, and surgical considerations (timing of elective surgery, incisional hernia).
 
-The document emphasizes that immunosuppression (corticosteroids, CNIs, mTOR inhibitors) drives many non-graft complications (osteoporosis, PTDM, hypertension, dyslipidemia, obesity, infection susceptibility, malignancy risk). Strategic IS minimization, early introduction of preventive care, and multidisciplinary management (transplant hepatology, cardiology, endocrinology, oncology, infectious disease) are recurring themes.
+SRTR data for patients transplanted 2012–2024 showed 5- and 10-year patient survival of **82% and 69%**, with 11,436 patients having >10 years of functioning graft. Long-term post-LT mortality is driven mainly by complications of immunosuppression, recurrent disease, medical comorbidities, and malignancy.
 
-CMV disease remains the most clinically significant opportunistic infection; pre-emptive monitoring with weekly PCR for 100 days is preferred over universal prophylaxis in lower-risk recipients. D+/R- pairs receive valganciclovir prophylaxis. Cancer risk is overall 2.45-fold elevated in LT recipients (SIR); non-melanoma skin cancer carries the highest absolute risk; non-Hodgkin lymphoma has the highest SIR (~10). GLP-1 receptor agonists and SGLT2 inhibitors are recommended for T2DM with high ASCVD/CKD risk. GLP-1RA approved for obesity post-LT when medical management is needed.
+Much of the evidence base is retrospective cohort data, systematic review, and extrapolation from the general population — reflected in the large number of Level 4–5 statements. Partnership between the transplant center and the primary care physician is a recurring theme.
 
 ---
 
-## All Recommendations (Recs 1–70)
+## Guideline Statements (1–87, verbatim/near-verbatim with OCEBM rating)
 
-### Wellness and Nutrition (Statements 1–11)
+### Wellness after transplantation — nutrition and exercise (Statements 1–6)
 
 | # | Guideline statement | Strength | Level |
 |---|---|---|---|
@@ -42,217 +42,273 @@ CMV disease remains the most clinically significant opportunistic infection; pre
 | 3 | Avoid foods known to interact with immunosuppressive therapy, **particularly grapefruit** | Strong | 3 |
 | 4 | Avoid consumption of untreated water from lakes and rivers | Strong | 3 |
 | 5 | Avoid unpasteurized milk products, and raw or undercooked eggs and meats (particularly uncooked pork, poultry, fish, and seafood) | Strong | 3 |
-| 6 | Participate in at least **150–300 min of moderate intensity or 75–150 min of vigorous intensity** aerobic activity per week, plus muscle-strengthening activities of all major muscle groups **at least 2 days a week** | Strong | 2 |
-| 7 | Recipients with **medical nonadherence** (missed appointments, missed laboratory testing, subtherapeutic immunosuppression levels) should be screened for substance use disorder, **anxiety**, and depression | Strong | 3 |
+| 6 | Participate in at least **150–300 min of moderate intensity or 75–150 min of vigorous intensity** aerobic activity per week, along with muscle-strengthening activities of all major muscle groups **at least 2 days a week** | Strong | 2 |
+
+*Grapefruit, pomegranate, clementines, and black licorice may increase CNI levels; St John's Wort may reduce them. Post-LT obesity (BMI >30 kg/m²) exceeds 40%.*
+
+### Health behaviors (Statements 7–11)
+
+| # | Guideline statement | Strength | Level |
+|---|---|---|---|
+| 7 | Recipients with **medical nonadherence** (missed appointments, missed laboratory testing, subtherapeutic immunosuppression levels) should be screened for substance use disorder, anxiety, and depression | Strong | 3 |
 | 8 | Recipients with medical nonadherence should be screened for **food insecurity, transportation insecurity, and insufficient social support** | Strong | 4 |
 | 9 | Avoid alcohol intake **irrespective of the etiology of liver disease** | Strong | 4 |
 | 10 | Discussion of lifestyle changes to improve sleep, with **at least 7 hours of sleep per night**, may be considered | Weak | 4 |
-| 11 | Annual depression screening **and assessment of alcohol use** | Strong | 3 |
+| 11 | Annual depression screening and assessment of alcohol use | Strong | 3 |
 
-*Grapefruit, pomegranate, clementines, and black licorice may increase CNI levels; St John's Wort may reduce them.*
+*Pooled depression prevalence 24.5% (95% CI 19.5–30.4%) across 5170 LT recipients; alcohol-associated liver disease recipients had 14% higher odds of depression. Depression associated with mortality (OR 1.82), graft loss (OR 2.82), and graft rejection (OR 1.76).*
 
-### Bone Health (Statements 12–18)
+### Bone health after LT (Statements 12–18)
 
 | # | Guideline statement | Strength | Level |
 |---|---|---|---|
 | 12 | Bone density scan once on **stable immunosuppression, typically after 6 months** of transplant | Strong | 2 |
 | 13 | With osteoporosis or osteopenia, serial DEXA **every 1–2 years until findings are stable** | Strong | 3 |
-| 14 | With osteoporosis or osteopenia, maintain daily calcium intake of **>1200 mg/day** (diet plus supplement, if needed) | Strong | 3 |
+| 14 | With osteoporosis or osteopenia, counsel to maintain daily calcium intake of **>1200 mg/day** (including diet plus supplement, if needed) | Strong | 3 |
 | 15 | With osteoporosis, maintain serum 25(OH)D **≥30 ng/mL, preferred range 30–50 ng/mL** | Strong | 3 |
-| 16 | With osteoporosis and 25(OH)D **<30 ng/mL**, give vitamin D3 **1000–2000 IU daily** | Strong | 3 |
-| 17 | Start pharmacologic therapy for (1) osteopenia **plus** a history of fragility fracture of hip or spine (osteoporosis equivalent), (2) **T-score −2.5 or lower**, or (3) **FRAX 10-year probability ≥20% for major osteoporotic fracture or ≥3% for hip fracture**. Appropriate initial agents include **alendronate, denosumab, risedronate, zoledronate** | Strong | 1 |
+| 16 | With osteoporosis and 25(OH)D **<30 ng/mL**, vitamin D3 supplementation at a daily dose of **1000–2000 IU** | Strong | 3 |
+| 17 | Start pharmacologic therapy for (1) osteopenia **and** a history of fragility fracture of hip or spine (osteoporosis equivalent), (2) **T-score −2.5 or lower**, or (3) **FRAX 10-year probability ≥20% for major osteoporotic fracture or ≥3% for hip fracture**. Appropriate initial agents include, but are not limited to, **alendronate, denosumab, risedronate, and zoledronate** | Strong | 1 |
 | 18 | Recipients meeting criteria for osteoporosis should be referred for **physical therapy to prevent falls** | Strong | 1 |
 
-*Table 1 definitions — osteopenia: T-score between −1.0 and −2.5. Osteoporosis: T-score **<−2.5**, or a fragility fracture irrespective of BMD (a fracture from a force similar to a fall from standing height or less that would not occur in healthy bone, excluding skull, face, fingers, and toes). Table 1 also gives calcium 1200 mg/day and vitamin D 600 IU/day as nutrition supplementation, a DXA pre-LT and at least 6 mo post-LT, and IV bisphosphonates, calcitonin, SERMs, estrogen, PTH analogues/RANK-ligand inhibitors, or sclerostin inhibitors as second-line with specialist input.*
+**Table 1 — preventing major osteoporotic fractures**
 
-### Vaccination (Statements 19–22)
+| Strategy | Recommendation | Indication | Monitoring frequency |
+|---|---|---|---|
+| BMD assessment | DXA scan | Pre-LT; at least 6 mo post-LT | Every 1–2 y if baseline osteopenia/osteoporosis; age-appropriate if normal baseline BMD |
+| Vitamin D status | Serum 25(OH)D; target ≥30 ng/mL | All LT recipients | Not established |
+| Nutrition supplementation | Calcium 1200 mg/day; vitamin D 600 IU/day | Osteopenia or osteoporosis | Not established |
+| Lifestyle | Assess prior falls and prior atraumatic fracture; weight-bearing exercise; balance training; correct visual impairment; avoid sedatives/tranquilizers/muscle relaxants; avoid postural hypotension; canes or walkers; avoid house clutter; supportive footwear; avoid alcohol/tobacco | Osteopenia or osteoporosis | Not established |
+| Other causes of bone loss | Thyroid function; free testosterone (males); menopausal status (females) | Osteopenia or osteoporosis | Not established |
+| First-line medical therapy | Oral bisphosphonates + calcium and vitamin D | Osteoporosis; or osteopenia **and** FRAX 10-y probability ≥20% major osteoporotic fracture or ≥3% hip fracture (United States) | BMD via DXA every 1–2 y |
+| Second-line (with specialist) | IV bisphosphonates, calcitonin, SERMs, estrogen hormone therapy, PTH analogues/RANK-ligand inhibitors, sclerostin inhibitors | Intolerance or lack of efficacy of first-line | N/A |
+
+*Table 1 definitions — **osteopenia:** T-score between −1.0 and −2.5. **Osteoporosis:** T-score <−2.5, or history of fragility fracture irrespective of BMD. **Fragility fracture:** sustained from a force similar to a fall from standing position or less that would not have occurred in healthy bone, excluding skull, face, fingers, and toes.*
+
+*Incidence of post-LT osteopenia, osteoporosis, and fractures: 35%, 12%, and 20%; vertebral fracture 11%, hip fracture 0.9%.*
+
+### Vaccinations after LT (Statements 19–22)
 
 | # | Guideline statement | Strength | Level |
 |---|---|---|---|
-| 19 | Discuss vaccinations with providers **in addition to** following ACIP/CDC recommendations for immunocompromised adults | Strong | 1 |
+| 19 | Discuss vaccinations with providers **in addition to** following ACIP/CDC guidance for immunocompromised adults | Strong | 1 |
 | 20 | Should **not** receive live virus vaccines | Strong | 1 |
-| 21 | Household contacts should avoid **vaccinia/smallpox and polio vaccine**, but may receive other live attenuated vaccines **when no inactivated alternatives are available** (e.g. measles, mumps, rubella; [[rotavirus]] for infants), with diligent handwashing for **2 weeks** | Strong | 4 |
-| 22 | Consult a **travel medicine specialist** before travelling to regions with higher rates of infection, and be advised on vaccine-preventable illnesses and antimicrobial prophylaxis based on destination-associated risks | Strong | 4 |
+| 21 | Household contacts should avoid **vaccinia/smallpox and polio vaccine**, but may receive other live attenuated vaccines **when no inactivated alternatives are available**, as with measles, mumps, or rubella, while exercising diligent handwashing for **2 weeks** | Strong | 4 |
+| 22 | Consult a **travel medicine specialist** before traveling to regions with higher rates of infection, and be advised on vaccine-preventable illnesses and antimicrobial prophylaxis based on destination-associated infection risks | Strong | 4 |
 
-*Vaccination should be deferred for 3–6 months after LT or after treatment of acute allograft rejection because of reduced vaccine response.*
+*Vaccination is deferred for 3–6 months after LT or after treatment of acute allograft rejection because of reduced vaccine response. Table 2 gives organism-by-organism schedules (influenza one dose seasonally; pneumococcal per ACIP sequencing rules; recombinant zoster for recipients aged ≥19 who did not receive 2 doses pre-LT; Tdap then booster every 10 y; hepatitis B 3–4 doses with titer check >4 wk post-vaccination and revaccination if anti-HBs <10 IU/L; HPV 3-dose regimen up to age 45; RSV in adults ≥50; Haemophilus influenzae type B, rabies, and Mpox **not routinely recommended**).*
 
-### Reproductive Health (Statements 23–28)
+### Reproductive health (Statements 23–28)
 
 | # | Guideline statement | Strength | Level |
 |---|---|---|---|
 | 23 | In recipients of childbearing age, addressing contraception and pregnancy is recommended | Strong | 5 |
 | 24 | Pregnancy should be delayed for **at least one year after transplant and until graft function has been stable for at least six months** | Strong | 3 |
 | 25 | Multidisciplinary approach to pregnancy care involving transplant providers **and maternal-fetal medicine specialists** | Strong | 5 |
-| 26 | MPA (mycophenolate mofetil/mycophenolate sodium) is teratogenic: discontinue ≥6 weeks pre-conception in women; ≥90 days in men; require two forms of contraception while on MPA | — | — |
-| 27 | CNIs ([[tacrolimus]], cyclosporine) are acceptable in pregnancy with frequent drug-level monitoring; dose adjustments likely required due to altered PK in pregnancy | — | — |
-| 28 | AZA + corticosteroids are acceptable in pregnancy | — | — |
+| 26 | **Mycophenolic acid products are contraindicated in pregnancy** due to the risk of miscarriage and birth defects, and should be discontinued **at least 6 weeks before conception for women and 90 days for men** | Strong | 1 |
+| 27 | **Calcineurin inhibitors may be used during pregnancy**, and trough levels should be monitored along with liver tests to guide dosing; trough levels should be obtained more frequently during pregnancy | Strong | 4 |
+| 28 | **Azathioprine and corticosteroids are acceptable** to be used during pregnancy | Strong | 4 |
 
-*An interval of <12 months from LT to pregnancy, compared with >12 months, carried lower live birth rates (80% vs. 98%) and higher rejection rates (46% vs. 11%).*
+*An interval of <12 months from LT to pregnancy, compared with >12 months, carried lower live birth rates (80% vs. 98%) and higher rejection rates (46% vs. 11%). Suggested CNI trough monitoring in pregnancy is every 2–4 weeks, individualized. mTOR inhibitors are not recommended in pregnancy due to limited safety and outcomes data. Live birth rates in LT recipients 71–85.6%; preterm delivery 27.8–32.1% (vs 10.4% general population).*
 
-### Infections (Recs 29–35)
+### Infectious complications — non-vaccine prevention (Statements 29–32)
 
-| Rec | Recommendation | Strength | Level |
+| # | Guideline statement | Strength | Level |
 |---|---|---|---|
-| 29 | TB prophylaxis with isoniazid (INH) 300 mg + pyridoxine (B6) 50 mg once daily for appropriate duration OR rifampin 300 mg once daily × 4 months, for LTBI or high-risk exposure | Strong | 4 |
-| 30 | PCP prophylaxis with trimethoprim-sulfamethoxazole (TMP-SMX) for ≥6 months post-LT | Strong | 4 |
-| 31 | Antifungal prophylaxis with fluconazole for 2–4 weeks post-LT if ≥2 risk factors (Candida colonization pre-LT, renal replacement therapy, re-transplantation, prolonged OR time, high transfusion volume) | Weak | 4 |
-| 32 | Avoid high-risk animal exposures: reptiles, birds, rodents; ensure appropriate handling if cannot avoid (gloves, handwashing) | Weak | 4 |
-| 33 | Report to transplant center within 24 hours of diagnosis of a reportable communicable disease (e.g. TB, HIV, Hepatitis A, COVID-19, respiratory illness requiring hospitalization) | Strong | 4 |
-| 34 | Avoid direct contact with soil during gardening without gloves and mask (Histoplasma, Cryptococcus, Aspergillus environmental risk) | Weak | 4 |
-| 35 | LT recipients in endemic areas: consider prophylaxis for endemic mycoses (coccidioidomycosis, histoplasmosis) | Weak | 4 |
+| 29 | In **treatment-naïve** recipients with **latent tuberculosis**, therapy with **isoniazid 300 mg once a day plus pyridoxine (vitamin B6) 50 mg once a day** should be instituted **within 6 months post-transplant once graft function is stable**. **If therapy is started pre-transplant, rifampin 300 mg once a day for 4 months** can be used as well | Strong | 1 |
+| 30 | Prophylaxis of *Pneumocystis jirovecii* pneumonia should be continued for **6 months post-transplant** with **trimethoprim-sulfamethoxazole or atovaquone** | Strong | 2 |
+| 31 | Recipients with **two or more** risk factors (renal replacement therapy pre-, peri-, or post-transplant; needing re-operation including anastomotic leakage or repeat laparotomies; re-transplant; receiving transfusion of **≥40 units of cellular products**; or having had a choledochojejunostomy) should receive prophylaxis with **fluconazole for 2–4 weeks** due to increased risk of invasive fungal infections, particularly candidemia | Strong | 2 |
+| 32 | Avoid exposure to **high-risk pets, which include rodents, reptiles, and birds** | Strong | 5 |
 
-### CMV Management (Recs 36–43)
+### Suspected donor-derived infection (Statements 33–35)
 
-| Rec | Recommendation | Strength | Level |
+| # | Guideline statement | Strength | Level |
 |---|---|---|---|
-| 36 | **Pre-emptive CMV monitoring** (weekly CMV PCR × 100 days post-LT) is the **preferred** strategy when consistent monitoring is achievable | Strong | 2 |
-| 37 | When pre-emptive monitoring is not reliably achievable (patient distance, adherence): **universal prophylaxis** with valganciclovir 900 mg once daily for 3–6 months for D+/R- pairs | Strong | 2 |
-| 38 | In D+/R- recipients: valganciclovir 900 mg once daily prophylaxis for 3–6 months (standard duration) | Strong | 2 |
-| 39 | Letermovir (cytomegalovirus UL56 inhibitor): use in LT recipients who develop neutropenia on valganciclovir; does not adequately suppress HHV-6 | Weak | 3 |
-| 40 | If letermovir used (for CMV prevention): add acyclovir, valacyclovir, or famciclovir for VZV/HSV suppression | Weak | 4 |
-| 41 | CMV treatment: valganciclovir 900 mg BID (for non-severe disease without end-organ involvement); IV ganciclovir for severe/end-organ disease | Strong | 2 |
-| 42 | Refractory/resistant CMV: maribavir 400 mg BID (UL97 kinase inhibitor, approved 2021 for refractory CMV in transplant recipients) | Strong | 2 |
-| 43 | Secondary prophylaxis (post-treatment) is NOT recommended routinely after CMV treatment completion | Weak | 3 |
+| 33 | Suspicion of **donor-derived infection must be reported by the Organ Procurement Organization and/or transplant center within 24 hours** to the Organ Procurement and Transplant Network Patient Safety Portal | Strong | 5 |
+| 34 | The transplant team should **secure residual blood samples from donor and recipient(s) and retain all relevant cultures** for further investigation by the Disease Transmission Advisory Committee or the CDC when donor-derived infections are suspected | Strong | 3 |
+| 35 | The transplant team should **review available donor serology and cultures** for all early post-transplant infections, and transplant infectious diseases or infectious diseases specialists should be consulted when a donor-derived infection is suspected | Strong | 3 |
 
-**CMV Timeline (Figure 2):**
+*Unexpected donor-derived infection is rare (0.18% of transplants) but causes graft loss or death in about a third of cases.*
 
-- Donor-derived infections: <4 weeks post-LT
-- Viral infections (CMV, EBV, VZV, HSV): 1–12 months post-LT (peak risk)
-- Community-acquired infections: >6 months post-LT
+### Cytomegalovirus prevention and treatment (Statements 36–43)
 
-### Oncologic Surveillance (Recs 44–52)
-
-| Rec | Recommendation | Strength | Level |
+| # | Guideline statement | Strength | Level |
 |---|---|---|---|
-| 44 | Follow USPSTF age-appropriate cancer screening guidelines (colorectal, breast, cervical, lung, prostate) | Strong | 4 |
-| 45 | Annual skin examination by dermatologist — highest absolute malignancy risk post-LT | Strong | 4 |
-| 46 | Smoking cessation counseling and pharmacotherapy | Strong | 4 |
-| 47 | HPV testing per society guidelines for women ≥21 or sexually active | Strong | 4 |
-| 48 | [[colonoscopy\|Colonoscopy]] every 5 years for average-risk LT recipients (regardless of PSC status) | Strong | 4 |
-| 49 | Colonoscopy annually for LT recipients with [[primary-sclerosing-cholangitis\|PSC]] + [[inflammatory-bowel-disease\|IBD]] (highest colitis-associated neoplasia risk) | Strong | 3 |
-| 50 | Colonoscopy every 5 years for LT recipients with PSC without IBD | Weak | 4 |
-| 51 | Routine mammography and cervical/vaginal screening per USPSTF/ACOG guidelines | Strong | 4 |
-| 52 | Serial EBV PCR monitoring for [[post-transplant-lymphoproliferative-disorder\|PTLD]] is NOT routinely recommended | Weak | 3 |
+| 36 | When **either donor or recipient is CMV seropositive**, pre-emptive monitoring with **weekly CMV PCR for 100 days** should be used for prevention, **if the transplant center can implement the monitoring reliably** | Strong | 1 |
+| 37 | If pre-emptive monitoring **cannot be performed reliably**, start **valganciclovir 900 mg once a day (or renally adjusted) for 3 months (CMV D±/R+) or 6 months (CMV D+/R−)** | Strong | 1 |
+| 38 | **In the absence of HSV and VZV seropositivity**, letermovir can be substituted for valganciclovir if there is **persistent neutropenia** from valganciclovir prophylaxis | Strong | 2 |
+| 39 | **Letermovir does not have any activity for HSV or VZV.** Recipients on letermovir for persistent neutropenia should receive prophylaxis with **acyclovir, valacyclovir, or famciclovir** if seropositive for HSV or VZV | Strong | 2 |
+| 40 | In recipients with **CMV D−/R− status**, or when **pre-emptive monitoring** is being used, oral **acyclovir, valacyclovir, or famciclovir** should be used to prevent HSV and VZV for **at least 3 months** after LT | Strong | 2 |
+| 41 | **Oral valganciclovir 900 mg twice daily** (or renally adjusted) is the preferred treatment of CMV infection, **except when the viral load is ≥100,000 IU/mL**, there is impaired gastrointestinal absorption, or severe infection (especially pneumonia) — in which case **intravenous ganciclovir** is recommended | Strong | 1 |
+| 42 | **Maribavir 400 mg twice daily** is the preferred therapy for refractory or resistant CMV infection **with low viral load (≤20,000 IU)**; **intravenous foscarnet** should be used for refractory disease with **high viral load (>20,000–50,000 IU/mL)**, severe disease, or concern for poor gastrointestinal absorption | Strong | 1 |
+| 43 | On treatment for CMV infection, **CMV viral load should be monitored once a week while on therapy**. Therapy should be continued **until CMV viral load becomes undetectable**, then **weekly monitoring for 4 weeks off therapy**; **secondary prophylaxis is not recommended** | Strong | 1 |
 
-**Cancer SIR data (Figure 3):**
+*With routine prophylaxis, CMV incidence is ~19%. Highest risk is primary infection (D+/R−); intermediate in seropositive recipients (D−/R+ or D+/R+); risk is low (<2%) if both donor and recipient are seronegative (D−/R−). In the randomized trial of 205 D+/R− recipients, pre-emptive therapy vs universal valganciclovir prophylaxis gave CMV disease rates of 9% vs 19% (p=0.04) with no difference in rejection (28% vs 25%), graft loss (2% vs 2%), neutropenia (13% vs 10%), or mortality (15% vs 19%).*
 
-- Overall post-LT cancer risk: 2.45-fold elevated
-- Highest SIR: non-Hodgkin lymphoma (~10× general population)
-- Highest absolute risk: non-melanoma skin cancer
-- See [[post-transplant-lymphoproliferative-disorder]] for PTLD
+**Timeline of common post-transplant infections (Figure 2):** donor-derived viruses and early bacterial/nosocomial infections (anastomotic leaks, *C. difficile*, line infection, wound infection, nosocomial pneumonia) <4 weeks; CMV, EBV, HSV, HHV-6/7, PTLD, VZV, *Listeria*, *Nocardia*, endemic fungi, *Pneumocystis* mainly 1–12 months; community-acquired respiratory viruses, HPV, JC polyomavirus/PML, *Cryptococcus neoformans*, and mycobacteria >12 months.
 
-### Metabolic Syndrome (Recs 53–57)
+### Oncologic complications — de novo cancer screening (Statements 44–51)
 
-| Rec | Recommendation | Strength | Level |
+| # | Guideline statement | Strength | Level |
 |---|---|---|---|
-| 53 | Annual screening for HTN, obesity, DM, and hyperlipidemia | Strong | 4 |
-| 54 | Early steroid withdrawal in patients with metabolic comorbidities (when safe from rejection standpoint) | Strong | 3 |
-| 55 | Switch CSA → TAC for poor glycemic control (TAC has less dyslipidemic effect; CSA has less PTDM risk — paradoxically, both worsen different metabolic parameters; TAC preferred for glycemic control) | Weak | 3 |
-| 56 | Switch TAC → CSA for uncontrolled hypertension resistant to standard antihypertensives | Weak | 3 |
-| 57 | CNI minimization ± antimetabolite (MMF/AZA) addition for persistent hyperlipidemia | Weak | 4 |
+| 44 | Receive **age-appropriate cancer screening according to USPSTF or other organizations** | Strong | 1 |
+| 45 | Undergo **yearly clinical skin exams** for skin cancer screening | Strong | 2 |
+| 46 | Tobacco users should receive **smoking cessation education and related medical intervention** | Strong | 1 |
+| 47 | **Female** recipients aged **≥21 or who are sexually active and have positive HPV testing** may consider annual **pelvic exam, cervical and anal Papanicolaou testing** | Weak | 4 |
+| 48 | Recipients with a history of **tobacco or alcohol-associated liver disease, or HPV infection**, may consider referral to ear, nose, and throat specialists for **head and neck cancer surveillance within the first year of transplant** | Weak | 3 |
+| 49 | Recipients who are otherwise at **average risk** may consider [[colonoscopy\|colonoscopy]] for colorectal cancer surveillance **every 5 years** | Weak | 3 |
+| 50 | Recipients with [[primary-sclerosing-cholangitis\|primary sclerosing cholangitis]] **and** [[inflammatory-bowel-disease\|inflammatory bowel disease]] should undergo **colonoscopy annually with random biopsies** for colorectal cancer screening | Strong | 2 |
+| 51 | Recipients with PSC **but without IBD** should undergo **colonoscopy, with ileal intubation and colon biopsies, every 5 years** to screen for IBD and colorectal cancer | Strong | 3 |
 
-### Diabetes Mellitus (Recs 58–59)
+**Table 3 — cancer screening in LT recipients (ACS/USPSTF-based, supplemented by the ILTS–SETH consensus working group)**
 
-| Rec | Recommendation | Strength | Level |
+| Cancer | Screening guidance | OCEBM level |
+|---|---|---|
+| Skin | All patients: annual full-body skin exam (more frequent if skin cancer history); ACS recommends monthly skin self-exams; limit ultraviolet exposure | 2 |
+| Colorectal | All other patients (age ≥45, ACS and USPSTF): per general population, but may consider colonoscopy every 5 y | 1 |
+| Colorectal | IBD (any age) **without** PSC: annual colonoscopy (not stool-based testing) with random biopsies if meeting surveillance criteria based on extent and duration of IBD | 1 |
+| Colorectal | IBD (any age) **with** PSC: annual colonoscopy (not stool-based testing) with random biopsies | 2 |
+| Colorectal | PSC **without** IBD (any age): colonoscopy (not stool-based testing) every 5 y with biopsies (to assess for IBD) | 3 |
+| Cervical and vulvar (also anal if HPV+) | Female age 21–65 (USPSTF), 25–65 (ACS): per general population, includes pelvic exam, PAP and/or HPV testing | 1 |
+| Cervical/anal | If HPV+ and age ≥21 or sexually active: consider annual pelvic exam, PAP with anal PAP testing | 4 |
+| Breast | Female age ≥40: per general population | 1 |
+| Prostate | Male age 55–70 (USPSTF), age ≥50 with 10-y life expectancy (ACS): per general population; consider annual PSA and DRE with joint decision making | 2 |
+| Lung | Smokers age 50–80 (current or within 15 y and ≥20 pack-years): annual low-dose CT chest | 1 |
+| Lung | All tobacco users should receive smoking cessation education and related medical intervention | 1 |
+| Oropharyngeal | Smokers (current or former), HPV infection, alcohol-associated liver disease: referral to ear, nose, and throat exam within a year of LT | 2 |
+
+*Colonoscopy is preferred over stool-based testing in LT recipients given the limited sensitivity of stool-based testing for advanced adenoma in solid organ transplant recipients.*
+
+### Post-transplant lymphoproliferative disorder (Statement 52)
+
+| # | Guideline statement | Strength | Level |
 |---|---|---|---|
-| 58 | **Metformin** as first-line for post-transplant T2DM without other significant cardiovascular risk factors | Strong | 2 |
-| 59 | **GLP-1 receptor agonist and/or SGLT2 inhibitor** as first-line for post-transplant T2DM with high ASCVD risk, heart failure, stroke, or CKD | Strong | 2 |
+| 52 | Screening for [[post-transplant-lymphoproliferative-disorder\|post-transplant lymphoproliferative disorder]] with **serial Epstein–Barr virus PCR is not supported** | Weak | 3 |
 
-### Hypertension and Dyslipidemia (Recs 60–63)
+*PTLD occurs in ~2% of adult LT recipients, most commonly in the first 3 years. Survival >50% at 10 years; older age and monomorphic type are negative prognostic factors. Patients EBV-negative at the time of LT are at highest risk.*
 
-| Rec | Recommendation | Strength | Level |
+**De novo cancer risk (Figure 3):** overall **2.45-fold** increase in cancer risk compared with the general population. Largest **relative** risk is non-Hodgkin lymphoma; greatest **absolute** risk increase is non-melanoma skin cancer (high baseline population incidence and a large SIR).
+
+### Metabolic syndrome — immunosuppression modification (Statements 53–57)
+
+| # | Guideline statement | Strength | Level |
 |---|---|---|---|
-| 60 | RAS inhibitors (ACEi or ARB) + CCB or beta blockers for hypertension in LT recipients with established CAD or HF | Strong | 3 |
-| 61 | Amlodipine or felodipine as preferred CCB for hypertension without CVD or CKD (note: amlodipine/felodipine are dihydropyridine CCBs with minimal CYP3A4 interaction vs. diltiazem/verapamil which significantly raise CNI levels) | Strong | 3 |
-| 62 | **Hydrophilic statins** (pravastatin — medium intensity; rosuvastatin — high intensity) as first-line for hyperlipidemia; preferred because they are NOT CYP3A4 substrates (avoid atorvastatin/simvastatin/lovastatin which are CYP3A4 substrates with major DDI with CNIs) | Strong | 2 |
-| 63 | Ezetimibe and/or PCSK9 inhibitors for LDL refractory to statins; omega-3 fatty acids ± fibrates for hypertriglyceridemia >135 mg/dL | Weak | 3 |
+| 53 | In **all** recipients, **annual screening for hypertension, obesity, diabetes, and hyperlipidemia** | Strong | 5 |
+| 54 | With metabolic comorbidities, namely diabetes mellitus and hypertension, **early withdrawal of corticosteroids** is recommended while balancing the risk of rejection | Strong | 1 |
+| 55 | With **poor glycemic control** despite aggressive medical management, **conversion from tacrolimus to cyclosporine** may be considered | Weak | 3 |
+| 56 | With **uncontrolled hypertension** despite aggressive medical management, **conversion from cyclosporine to tacrolimus** may be considered | Weak | 3 |
+| 57 | With **hyperlipidemia** despite aggressive medical management, **calcineurin inhibitor minimization with or without the addition of an antimetabolite** may be considered | Weak | 5 |
 
-### Obesity (Recs 64–67)
+*Metabolic syndrome = ≥3 of hypertension, dyslipidemia, obesity, type 2 diabetes. Overall MetS prevalence post-LT exceeds 50%; de novo MetS incidence 24.7% (CI 18–32.9%) over 15 months. Hypertension has the highest post-LT incidence, followed by diabetes. Prevalence (Figure 4): hypertension 53–62%, diabetes 25–40%, dyslipidemia 30–71%, obesity 36–41%, coronary artery disease 5–15%, heart failure 10–24%, arrhythmia 20–35%. Hyperglycemia is more typical with [[tacrolimus]]; hypertension and dyslipidemia are more common with cyclosporine.*
 
-| Rec | Recommendation | Strength | Level |
+### Diabetes mellitus (Statements 58–59)
+
+| # | Guideline statement | Strength | Level |
 |---|---|---|---|
-| 64 | **GLP-1 receptor agonist** for LT recipients unable to achieve adequate weight loss with lifestyle modification | Weak | 3 |
-| 65 | Obesity specialist referral for BMI >30 at 3–6 months post-LT | Weak | 4 |
-| 66 | Bariatric surgery if >15–20% total body weight loss is needed AND medical management has failed | Weak | 3 |
-| 67 | Bariatric surgery only after LT recipient is medically and surgically stable (generally ≥1–2 years post-LT) | Strong | 4 |
+| 58 | With type 2 diabetes mellitus and **no other risk factors for cardiovascular disease**, **metformin** should be the first-line therapy | Strong | 5 |
+| 59 | With type 2 diabetes mellitus, **GLP-1 receptor agonists and/or SGLT2 inhibitors** should be considered as first-line therapy for those at **high risk for atherosclerotic cardiovascular disease, heart failure, stroke, or chronic kidney disease** | Strong | 5 |
 
-### Cardiovascular Surveillance (Recs 68–70)
+*Insulin-based therapies are not discussed and should be practiced as in a non-transplant setting. Metformin is used first-line in patients without these conditions, but not sulfonylureas.*
 
-| Rec | Recommendation | Strength | Level |
+### Hypertension and lipid-lowering therapy (Statements 60–63)
+
+| # | Guideline statement | Strength | Level |
 |---|---|---|---|
-| 68 | Cardiac assessment at every visit for LT recipients with established CVD history | Strong | 4 |
-| 69 | Annual cardiologist evaluation for LT recipients with established CVD | Strong | 4 |
-| 70 | Echocardiography surveillance for recipients with known systolic, diastolic, or valvular heart disease | Strong | 4 |
+| 60 | With a history of **cardiovascular disease and/or chronic kidney disease**, the long-term antihypertensive regimen should include a **renin–angiotensin system inhibitor**, unless contraindicated due to difficult-to-control hyperkalemia | Strong | 5 |
+| 61 | With **no evidence of cardiovascular disease and chronic kidney disease**, use of **amlodipine or felodipine** as first-line antihypertensive therapy is recommended | Strong | 5 |
+| 62 | With hyperlipidemia, **hydrophilic statins** are recommended as first-line therapy in combination with lifestyle modifications. **Ezetimibe and/or PCSK9 inhibitors** can be considered for refractory cases | Strong | 5 |
+| 63 | With **hypertriglyceridemia despite statin use**, addition of **omega-3 with or without fibrates** should be considered | Strong | 5 |
+
+*Hypertension defined as systolic BP ≥140 mm Hg and/or diastolic BP ≥90 mm Hg; goal of antihypertensive therapy is BP ≤130/80 mm Hg. RAS blockers and beta blockers are first-line with concurrent coronary artery disease or heart failure; with prior stroke, RAS blockers, calcium channel blockers, and diuretics are initial options. Hydrophilic statins (**pravastatin** for medium intensity, **rosuvastatin** for high intensity) are preferred because they are **not cytochrome P450 3A4 substrates**, reducing interaction with CNIs. Omega-3 2 g BID is added when triglycerides persist >135 mg/dL despite statin.*
+
+### Post-transplant obesity management (Statements 64–67)
+
+| # | Guideline statement | Strength | Level |
+|---|---|---|---|
+| 64 | With obesity, **unable to lose sufficient weight with diet and exercise**, use of a **GLP-1 receptor agonist** should be considered, in collaboration with providers in primary care, obesity medicine, and/or endocrinology | Strong | 3 |
+| 65 | With obesity (**BMI >30**), referral to obesity specialists should be considered **as early as 3–6 months post-transplant** | Strong | 5 |
+| 66 | **Weight loss surgery** should be considered if medical management is unsuccessful **or if the recipient needs weight loss of >15%–20% of current weight** | Strong | 3 |
+| 67 | Weight loss surgery after LT should be considered **only after the recipient is medically and surgically stable** | Strong | 3 |
+
+*In a retrospective study of 44 predominantly diabetic LT recipients started on GLP-1 RA, weight loss averaged 8% of total body weight by 9 months; adverse event rate 7% (mainly nausea and vomiting); no immunosuppression adjustment was needed. Data on phentermine-topiramate, naltrexone-bupropion, and tirzepatide in LT recipients are lacking. Sleeve gastrectomy has gained popularity over Roux-en-Y gastric bypass (significant weight loss, decreased complications, preserved access to the biliary tree).*
+
+### Cardiovascular surveillance and prevention (Statements 68–73)
+
+| # | Guideline statement | Strength | Level |
+|---|---|---|---|
+| 68 | With a history of **cardiovascular disease**, **cardiac-focused clinical assessment at every visit** at primary care, hepatology, and cardiology clinics | Strong | 5 |
+| 69 | With a history of cardiovascular disease, **annual follow-up with a cardiologist** should be considered | Strong | 5 |
+| 70 | With **systolic dysfunction, diastolic dysfunction, or more than mild valvular disease**, **echocardiographic surveillance** should be considered and individualized based on the patient's risk profile | Weak | 5 |
+| 71 | **Lifestyle modifications** (diet and exercise) and aggressive management of metabolic complications are essential for **primary prevention** of cardiovascular disease | Strong | 5 |
+| 72 | Use of **aspirin or statin** should be guided by the **same cardiovascular risk stratification approach used in the general population** | Strong | 5 |
+| 73 | With **recurrent cardiovascular events**, **minimization of calcineurin inhibitors with introduction of mTOR inhibitors** (eg, everolimus) may be considered | Weak | 3 |
+
+*Valvular disease that is more than mild warrants echocardiographic surveillance every 1–2 years, as in the general population; subclinical cardiac dysfunction has been surveilled every 6 months until resolution; the Cirrhotic Cardiomyopathy Consortium recommends echocardiographic surveillance of recipients with cirrhotic cardiomyopathy for only 2 years post-LT.*
+
+### Chronic kidney disease (Statements 74–82)
+
+| # | Guideline statement | Strength | Level |
+|---|---|---|---|
+| 74 | In liver transplant **and simultaneous liver–kidney** recipients, active CKD surveillance using **serial serum creatinine-based eGFR** should be performed **every 6–12 months in early and moderate CKD (stages 1–3)** and **every 1–3 months in advanced CKD (stages 4–5)** | Strong | 4 |
+| 75 | With CKD, **aggressive management of hypertension, diabetes, obesity, and dyslipidemia** in collaboration with primary care providers, nephrologists, and transplant providers, to prevent progression to stages 4–5 disease | Strong | 5 |
+| 76 | With CKD, **referral to nephrology should be considered at stage 4 disease** | Strong | 5 |
+| 77 | With **peri- or early post-transplant acute kidney injury**, **delayed introduction of calcineurin inhibitors in conjunction with induction immunosuppression** may be considered for renal protection | Weak | 2 |
+| 78 | With CKD **within the first year of transplant**, CNI dosing should be **reduced, typically in combination with an adjunctive non-nephrotoxic immunosuppressive agent (mycophenolate or everolimus)** to improve long-term renal function | Strong | 1 |
+| 79 | With CKD, CNIs should be **minimized but not eliminated within the first year** of liver transplant to prevent deterioration in renal function | Strong | 1 |
+| 80 | With CKD, **use of belatacept for renal protection is not recommended** due to an increased risk of mortality | Strong | 1 |
+| 81 | With CKD, **mycophenolate monotherapy is not recommended** to prevent kidney disease progression because of a strong association with acute cellular rejection | Strong | 2 |
+| 82 | With CKD, CNIs should be **minimized but not stopped beyond 1 year post-transplant** for renal protection | Strong | 3 |
+
+*KDIGO 2024 surveillance intervals cited: annually for stages 1–2, every 6 months for stages 3a/3b, every 1–3 months for stages 4–5; nephrology referral when eGFR <30 mL/min (or earlier, stage 3, if urine findings suggest nephritis). Tacrolimus compared with cyclosporine reduced the risk of stages 4–5 CKD by 66%. Cumulative incidence of stages 4–5 CKD after simultaneous liver–kidney transplant was 10%, 12%, and 16% at 1, 3, and 5 years.*
+
+### Surgical considerations — elective surgery and hernia (Statements 83–87)
+
+| # | Guideline statement | Strength | Level |
+|---|---|---|---|
+| 83 | **Elective surgery should occur at least 3 months after transplant**, when the patient has stable allograft function | Strong | 5 |
+| 84 | For elective surgery, **a transplant professional should be involved in the management of immunosuppression before and after** the surgery | Strong | 5 |
+| 85 | **Use of mTOR inhibitors, nutritional status, and obesity should be optimized before a hernia repair is planned** | Strong | 2 |
+| 86 | **Use of mesh is recommended for ventral repair** because of the large defect. Avoiding tension is key to successful ventral hernia repair and essential to minimize the risk of recurrence | Strong | 2 |
+| 87 | The **method of surgical repair (open vs. minimally invasive) should be based on the surgeon's expertise**. While open and minimally invasive approaches have equivalent outcomes in terms of recurrence, the latter are associated with shorter recovery times, decreased pain, and less early complications | Strong | 2 |
+
+*Immunosuppression is not held for surgery; high-dose steroids should be reduced if possible; given the long half-life, mTOR inhibitors (everolimus or sirolimus) are typically held ~4–6 weeks before elective surgery to facilitate wound healing. Incisional hernia incidence 5–35% within the first 2 years after LT; "Mercedes" incisions carry higher incidence than inverted L-shaped or vertical midline incisions.*
 
 ---
 
 ## Key Findings / Claims
 
-- LT recipients have 2.45-fold overall elevated cancer risk; non-melanoma skin cancer highest absolute risk; non-Hodgkin lymphoma highest SIR (~10)
-- Pre-emptive CMV monitoring (weekly PCR × 100 days) preferred over universal prophylaxis in monitored recipients
-- Maribavir 400 mg BID approved for refractory/resistant CMV (UL97 kinase inhibitor)
-- Letermovir for CMV in neutropenic LT recipients; add VZV/HSV prophylaxis separately if letermovir used
-- Hydrophilic statins (pravastatin, rosuvastatin) preferred — not CYP3A4 substrates; avoid simvastatin/atorvastatin
-- GLP-1RA recommended for obesity (Rec 64) and T2DM with high ASCVD/CKD risk (Rec 59)
-- Metformin first-line for T2DM without high CV risk (Rec 58)
-- SGLT2 inhibitors first-line for T2DM + high ASCVD/HF/stroke/CKD risk (Rec 59)
-- Amlodipine/felodipine preferred CCBs (minimal CYP3A4 effect); avoid diltiazem/verapamil (major CNI DDI)
-- MPA teratogenic — stop ≥6 weeks pre-conception in women; ≥90 days in men
-- CNIs acceptable in pregnancy with monitoring; AZA + corticosteroids acceptable
-- DEXA at 6 months post-LT; target 25-OH-D ≥30 ng/mL
-- Annual depression screening; screen for food insecurity; counsel alcohol avoidance (all etiologies)
-- Exercise: 150–300 min moderate or 75–150 min vigorous weekly + strength training ≥2 days/week
-- Serial EBV PCR for PTLD NOT recommended (Rec 52, Weak, Level 3)
+- 5- and 10-year patient survival after LT: **82% and 69%** (SRTR, transplanted 2012–2024).
+- De novo cancer risk is **2.45-fold** that of the general population; non-Hodgkin lymphoma carries the largest relative risk, non-melanoma skin cancer the largest absolute risk.
+- CMV prevention: **pre-emptive weekly PCR × 100 days** where the center can monitor reliably; otherwise valganciclovir **3 months for D±/R+ and 6 months for D+/R−**.
+- CMV treatment is oral valganciclovir 900 mg BID unless **viral load ≥100,000 IU/mL**, impaired GI absorption, or severe/pneumonic disease → IV ganciclovir.
+- Refractory/resistant CMV splits on viral load: **maribavir ≤20,000 IU**, **foscarnet >20,000–50,000 IU/mL** or severe disease.
+- Secondary CMV prophylaxis after treatment is **not** recommended; weekly viral load monitoring on therapy and for 4 weeks after.
+- Serial EBV PCR screening for PTLD is **not supported** (Weak, Level 3).
+- Immunosuppression switching for metabolic control runs **tacrolimus → cyclosporine for poor glycemic control** and **cyclosporine → tacrolimus for uncontrolled hypertension**.
+- Hydrophilic statins (pravastatin, rosuvastatin) first-line — not CYP3A4 substrates; amlodipine or felodipine are the first-line antihypertensives when there is no CVD or CKD.
+- CNI minimization for CKD is bounded on both sides: minimized **but not eliminated** within year 1, minimized **but not stopped** beyond year 1; belatacept and mycophenolate monotherapy are both explicitly not recommended.
+- Mycophenolic acid is contraindicated in pregnancy — stop **≥6 weeks before conception in women, 90 days in men**; CNIs, azathioprine, and corticosteroids are acceptable.
+- Colonoscopy interval is set by PSC/IBD status: **annual** for PSC+IBD, **every 5 years** for PSC without IBD (with ileal intubation and biopsies) and for average-risk recipients.
+- Bariatric surgery threshold: medical management unsuccessful **or** need for **>15%–20%** total body weight loss, and only once medically and surgically stable.
 
 ---
 
-## Recommendations
-
-| Recommendation | Strength | Evidence Quality |
-|---|---|---|
-| **Wellness / Nutrition** | | |
-| Avoid grapefruit/Seville oranges (CYP3A4 inhibition, CNI DDI); avoid untreated water sources and raw/undercooked meats | Strong | 4 |
-| 150–300 min/week moderate aerobic exercise OR 75–150 min/week vigorous aerobic exercise plus strength training ≥2 days/week | Strong | 4 |
-| Complete alcohol avoidance regardless of original LT indication; annual depression screening | Strong | 4 |
-| **Bone Health** | | |
-| DEXA scan at 6 months post-LT; repeat every 1–2 years if osteopenia/osteoporosis; target 25-OH-D ≥30 ng/mL | Strong | 4 |
-| Bisphosphonate therapy for T-score ≤−2.5 or FRAX criteria | Strong | 4 |
-| **Vaccination** | | |
-| No live vaccines post-LT; follow ACIP/CDC immunocompromised schedules; travel medicine consultation ≥6–8 weeks before international travel | Strong | 4 |
-| **Reproductive Health** | | |
-| Delay pregnancy ≥1 year post-LT; MPA is teratogenic — stop ≥6 weeks pre-conception (women) or ≥90 days (men); CNIs and AZA+steroids acceptable in pregnancy | Strong | 4 |
-| **Infections** | | |
-| PCP prophylaxis (TMP-SMX) ≥6 months post-LT; TB prophylaxis with INH+B6 or rifampin 4 months for LTBI | Strong | 4 |
-| Pre-emptive CMV monitoring (weekly PCR ×100 days) preferred strategy; D+/R− pairs: valganciclovir prophylaxis 3–6 months | Strong | 2 |
-| Refractory/resistant CMV: maribavir 400 mg BID | Strong | 2 |
-| **Oncologic Surveillance** | | |
-| Annual skin examination by dermatologist; colonoscopy every 5 years (average risk); annually for PSC+IBD | Strong | 3–4 |
-| Smoking cessation counseling and pharmacotherapy | Strong | 4 |
-| **Diabetes Mellitus** | | |
-| Metformin first-line for post-transplant T2DM without high CV risk; GLP-1 RA and/or SGLT2 inhibitor first-line for T2DM with high ASCVD/HF/CKD risk | Strong | 2 |
-| **Hypertension / Dyslipidemia** | | |
-| Hydrophilic statins (pravastatin, rosuvastatin) first-line for hyperlipidemia — avoid CYP3A4-substrate statins (simvastatin, atorvastatin) | Strong | 2 |
-| Amlodipine or felodipine as preferred CCBs (minimal CYP3A4 interaction vs. diltiazem/verapamil) | Strong | 3 |
-| **Obesity** | | |
-| GLP-1 receptor agonist for LT recipients unable to achieve adequate weight loss with lifestyle modification | Conditional | 3 |
-| Bariatric surgery only after medical management failure AND ≥1–2 years post-LT stability | Conditional/Strong | 3–4 |
-
 ## Relevance to Wiki
 
-- **Primary:** Adds Part III (non-graft complications) to [[liver-transplantation]] entity page
-- **Medications:** Adds post-LT prescribing context to [[tacrolimus]], [[calcineurin-inhibitors]], [[semaglutide]]
-- **Concepts:** Adds cancer surveillance data to [[post-transplant-lymphoproliferative-disorder]]
-- **Infections:** Supports CMV/PTLD/infection content
+- **Primary:** post-transplant non-graft management section of [[liver-transplantation]] — bone health, vaccination, infection prophylaxis, CMV, cancer surveillance, metabolic/cardiovascular care, CKD, elective surgery and hernia.
+- **Medications:** post-LT prescribing context for [[tacrolimus]], [[calcineurin-inhibitors]], [[semaglutide]].
+- **Concepts/diseases:** cancer surveillance and EBV-PCR stance for [[post-transplant-lymphoproliferative-disorder]]; colonoscopy intervals for [[primary-sclerosing-cholangitis]] and [[inflammatory-bowel-disease]].
 
 ---
 
 ## Contradictions / Open Questions
 
-- Pre-emptive CMV monitoring vs. universal prophylaxis: both are acceptable; D+/R- should receive prophylaxis regardless
-- Rec 52: serial EBV PCR for PTLD not recommended (Weak, Level 3) — some transplant centers continue routine monitoring; this recommendation acknowledges low evidence base
-- Role of SGLT2i post-LT: evidence primarily from non-transplant T2DM populations; no dedicated LT RCTs
-- Bariatric surgery timing (≥1–2 years post-LT) based on expert consensus rather than RCT data
+- Pre-emptive CMV monitoring is preferred only where reliable weekly PCR is achievable; universal valganciclovir prophylaxis is the alternative, with duration set by donor/recipient serostatus rather than a single 3–6 month block.
+- Serial EBV PCR for PTLD is not supported (Weak, Level 3), while some transplant centers continue routine monitoring.
+- SGLT2 inhibitor and GLP-1 receptor agonist evidence post-LT is extrapolated from non-transplant populations; the guideline rates both first-line diabetes statements at Level 5.
+- The two CNI-switching statements point in opposite directions (tacrolimus→cyclosporine for glycemia, cyclosporine→tacrolimus for hypertension) and are both Weak/Level 3; elsewhere the document notes tacrolimus reduced stages 4–5 CKD by 66% versus cyclosporine.
+- There is no high-quality evidence supporting renal protective strategies intraoperatively or beyond 12 months post-LT.
+- The guideline does not cover graft-related complications or candidate evaluation; those are companion documents.
 
 ## See Also
 
-[[post-transplant-lymphoproliferative-disorder]], [[liver-transplantation]], [[tacrolimus]], [[calcineurin-inhibitors]], [[semaglutide]]
+[[liver-transplantation]], [[post-transplant-lymphoproliferative-disorder]], [[primary-sclerosing-cholangitis]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[tacrolimus]], [[calcineurin-inhibitors]], [[semaglutide]]

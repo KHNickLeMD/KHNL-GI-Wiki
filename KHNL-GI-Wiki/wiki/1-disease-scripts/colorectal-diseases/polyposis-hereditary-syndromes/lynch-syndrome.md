@@ -114,11 +114,11 @@ Risk stratification is **gene-specific** (cumulative CRC risks by age 70) [[acg-
 | Gene | Male CRC risk | Female CRC risk | Average age of diagnosis |
 |---|---|---|---|
 | MLH1/MSH2 | 27–74% | 22–61% | 27–60 years |
-| MSH6 | 22–69% | 10–30% | 50–63 years |
-| PMS2 | ~20% | ~15% | 47–66 years |
+| MSH6 | 22–69% | 10–30% (combined M/F 12%) | 50–63 years |
+| PMS2 | 20% | 15% | 47–66 years |
 | Sporadic | 4.8% | 4.8% | 69 years |
 
-MSH6 and PMS2 carriers have later onset and lower penetrance than MLH1/MSH2 carriers. Consideration may be given to starting [[colonoscopy]] at age 25–30 in MSH6/PMS2 carriers.
+MSH6 and PMS2 carriers have later onset and lower penetrance than MLH1/MSH2 carriers — which is why a later [[colonoscopy]] start age is an option in these two genes (start age and the guideline split are under [[#Colorectal Cancer Surveillance and Prevention]]).
 
 ### Classification / Typing
 
@@ -211,7 +211,7 @@ LS is classified by the causative gene. Share of LS families and the identifying
 **Colonoscopy screening** [[acg-2015-hereditary-gi-cancer]]:
 
 - **Rec 1:** in individuals at risk for or affected with LS, colonoscopy **at least every 2 years, beginning between ages 20 and 25** *(Strong recommendation; moderate quality of evidence for screening, very low quality for annual surveillance and for the age of initiation)*
-- Age **25–30** may be appropriate start for MSH6/PMS2 carriers given later onset
+- **Later start in the low-penetrance genes — the two guidelines differ.** ACG 2015 says consideration could be given to starting surveillance at age **25–30 in both MSH6 and PMS2** carriers, unless an early-onset cancer exists in the family; [[usmstf-2014-lynch-syndrome|USMSTF 2014]] (Table 10) splits them — **age 30 in MSH6 families, age 35 in PMS2 families**. ACG 2015 adds that gene-specific alteration of surveillance has not been evaluated in clinical studies
 - **Annual colonoscopy** should be considered in confirmed mutation carriers
 - Observational cohorts: **62% fewer CRCs** in screened at-risk relatives (Järvinen) and an estimated **72% decrease in death from CRC** in those undergoing surveillance (Dove-Edwin)
 
@@ -251,7 +251,7 @@ LS is classified by the causative gene. Share of LS families and the identifying
 - Cumulative endometrial cancer risk: MLH1/MSH2 14–54%; MSH6 16–71%; PMS2 ~15%; average age 48–54
 - Cumulative ovarian cancer risk: 3.4–22%; average age 42–54
 - Annual **endometrial biopsy** + **transvaginal ultrasound** starting age **30–35** (Conditional/VLow)
-- **Hysterectomy and bilateral salpingo-oophorectomy** should be offered to women who have finished childbearing, optimally at age **40–45** years (Conditional/Low)
+- **Hysterectomy and bilateral salpingo-oophorectomy** should be offered to women who are known LS mutation carriers and who have finished childbearing, **optimally at age 40–45 years** (Conditional/Low). [[usmstf-2014-lynch-syndrome|USMSTF 2014]] (Table 12) words the same decision as **"after childbearing or age 40"** (Recommendation; level IV observational; GRADE moderate) — ACG's upper bound of 45 is the newer statement
 - Retrospective data: 0% uterine/ovarian cancer in the surgical group vs. 33% and 5.5% respectively in the nonsurgical group at mean follow-up
 - Endometrial sampling is more sensitive than TVUS alone for detecting premalignant lesions
 

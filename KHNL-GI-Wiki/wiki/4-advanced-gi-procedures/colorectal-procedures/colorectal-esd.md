@@ -3,8 +3,8 @@ title: "Endoscopic Submucosal Dissection (Colorectal)"
 category: advanced-procedure
 tags: [esd, hybrid-esd, endoscopic-resection, en-bloc, colorectal, t1-crc, malignant-polyp, submucosal-invasion, eftr]
 created: 2026-08-11
-updated: 2026-09-22
-sources: [usmstf-2020-endoscopic-removal, aga-2025-endoscopic-resection-crc, asge-2020-endoscopic-removal, aga-2024-full-thickness-resection, aga-2018-esd-united-states]
+updated: 2026-09-27
+sources: [usmstf-2020-endoscopic-removal, aga-2025-endoscopic-resection-crc, asge-2020-endoscopic-removal, aga-2024-full-thickness-resection, aga-2018-esd-united-states, aga-2021-post-esd-surveillance]
 ---
 
 # Endoscopic Submucosal Dissection (Colorectal)
@@ -20,6 +20,12 @@ sources: [usmstf-2020-endoscopic-removal, aga-2025-endoscopic-resection-crc, asg
   - [[#Unified Curative-Resection Criteria (USMSTF / ESGE / JGES) — ALL five required]]
   - [[#Deep SMI — Solitary Risk Reappraised]]
   - [[#Surveillance After Endoscopic Resection of T1 CRC]]
+- [[#Post-ESD Surveillance — Colon and Rectum]]
+  - [[#Colonic Schedule]]
+  - [[#Rectal Schedule]]
+  - [[#Surveillance Technique]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -125,9 +131,57 @@ Most colorectal neoplasms are benign and resectable by piecemeal [[endoscopic-mu
 
 ---
 
+## Post-ESD Surveillance — Colon and Rectum
+
+*Source: [[aga-2021-post-esd-surveillance]] — a Commentary with **no numbered Best Practice Advice statements and no GRADE or evidence-strength ratings**; the authors state the evidence behind most of the advice is generally low and that NCCN and other oncologic guidelines were not constructed with ESD in mind. Schedules apply only where the ESD pathology is **curative**; the five curative criteria, the R0 definition, and the R1 horizontal-vs-deep margin rules are on [[endoscopic-submucosal-dissection]]. Colorectal depth threshold: submucosal invasion **<1000 µm below the muscularis mucosae**. Intervals **do not apply to hereditary syndromes** ([[lynch-syndrome]], hereditary gastric cancer).*
+
+Colorectal schedules are lighter than the piecemeal-EMR schedules because recurrence after piecemeal [[endoscopic-mucosal-resection|EMR]] of lesions >20 mm is high (what drives intensive USMSTF follow-up), whereas en-bloc R0 ESD has a well-documented low recurrence rate. Risk of LN metastasis for neoplasia confined to the colonic mucosa is exceedingly low — lymphatic vessels are generally held to be absent above the level of the colonic muscularis mucosae/submucosa, though that notion has been challenged.
+
+US intervals are deliberately closer than Asian protocols: Western pathology does not uniformly process ESD specimens by the Japanese method (2–3 mm serial sectioning, special stains for lymphovascular invasion), and there is no uniformly accepted definition of a negative margin.
+
+### Colonic Schedule
+
+| Pathology | 1st follow-up colonoscopy | 2nd follow-up | Subsequent | EUS | Radiographic | Est. LN metastasis risk |
+|---|---|---|---|---|---|---|
+| Adenoma with LGD; SSL without dysplasia | 1 y | 3 y after the first surveillance | Revert to USMSTF recommendations | No or NA | No | 0% |
+| TSA; SSL with dysplasia; HGD; carcinoma in situ; intramucosal carcinoma; dysplasia in the setting of [[inflammatory-bowel-disease\|IBD]] | 6–12 mo | 1 y after the first surveillance | 3 y after the second surveillance, then revert to USMSTF (curative resection of IBD-associated dysplasia may require annual colonoscopy) | No or NA | No | 0% |
+| T1, Sm1 colonic adenocarcinoma (<1000 µm submucosal invasion) | 3–6 mo | 6 mo after the first surveillance | 1 y after the second surveillance, then revert to USMSTF | No or NA | No | <1% |
+
+*SSL = sessile serrated lesion (formerly sessile serrated adenoma/polyp); TSA = traditional serrated adenoma.*
+
+- **Size modifies the schedule:** consider closer post-ESD follow-up for histologically lower-risk lesions (adenoma with LGD, SSL without dysplasia) **>50 mm**, akin to the HGD/Tis row — pathologic evaluation of a very large lesion can miss a small focus of invasive cancer.
+- Recurrence or metastasis after endoscopic resection of T1 (Sm) colonic carcinoma occurs **mainly within 3–5 years** (Japanese guideline data).
+- **No data support serum CEA or cross-sectional imaging** after ESD of T1 colonic adenocarcinoma deemed pathologically curative — NCCN does not recommend CT or CEA after surgical resection of stage I colon cancer, so both are discretionary here.
+- Flat right-colon lesions are harder to identify and SSLs may progress faster; in chronic IBD the borders of dysplastic lesions are harder to define and the field effect raises metachronous cancer risk. Visible, clearly delineated dysplastic lesions without signs of invasive cancer remain acceptable for endoscopic resection.
+
+### Rectal Schedule
+
+Surveilled harder than the colon. **29% of colorectal cancers arise in the rectum** (roughly the distal 12 cm of the large intestine; 16–20 cm of endoscope is often needed to reach the rectosigmoid junction in a distended lumen). Anatomy drives the difference: the **upper third** of the rectum is covered by peritoneum anteriorly and laterally, the **middle third** only on the anterior wall, and the **lower third has no peritoneal covering (no serosa)**, which may allow transmural spread.
+
+| Pathology | 1st follow-up (assuming prior colonoscopy) | 2nd follow-up | Subsequent | EUS | Radiographic | Est. LN metastasis risk |
+|---|---|---|---|---|---|---|
+| Adenoma with LGD; SSL without dysplasia | Flexible sigmoidoscopy at 1 y | Colonoscopy 3 y after the first surveillance | Revert to USMSTF recommendations | No | No | 0% |
+| TSA; SSL with dysplasia; adenoma with HGD (incl. carcinoma in situ and intramucosal carcinoma); dysplasia in the setting of IBD | Flexible sigmoidoscopy at 6–12 mo | Colonoscopy 1 y after the first surveillance | Colonoscopy 3 y later, then per USMSTF (IBD-associated dysplasia, particularly with colitis extending proximal to the rectum, may require annual colonoscopy) | No | No | 0% |
+| T1, Sm1 rectal adenocarcinoma (<1000 µm submucosal invasion; size of invasive cancer **<3 cm**, not inclusive of any surrounding LGD or HGD) | Flexible sigmoidoscopy at 3–6 mo | Flexible sigmoidoscopy 3–6 mo after the first surveillance, **plus** colonoscopy at 1 y after ESD — advanced adenoma found → repeat in 1 y; none found → repeat in 3 y, then per USMSTF | Flexible sigmoidoscopy every 6 mo for a total of 5 y from ESD, then per USMSTF | EUS **or** contrasted pelvic MRI every 3–6 mo for 2 y, then every 6 mo to complete 5 y | May consider CT of chest, abdomen and pelvis annually for 3–5 y | 3–6% |
+
+- **Size qualifier on the T1 row:** <1000 µm submucosal invasion but invasive cancer **≥3 cm**, removed by R0 ESD with favorable histopathology → **multidisciplinary tumor board**, for elevated recurrence risk. Closer post-ESD surveillance may likewise be considered for histologically lower-risk lesions >50 mm.
+- **LN metastasis risk for T1 rectal adenocarcinoma is 10%–16%** overall — higher than early-stage colonic adenocarcinoma. Small (**<1–3 cm**) and **differentiated (G1, G2)** T1 rectal cancers carry lower risk; for superficial T1 lesions (<1000 µm) with favorable prognostic features after ESD deemed curative, the crude LN metastasis estimate is **3%–6%**.
+- **Local recurrence:** early T1 rectal cancers **1.1%–6.3%** vs early colon cancers **0%–1.9%**. After en-bloc R0 ESD of rectal neoplasia recurrence is rare (**≤2.5%**) — but when rectal cancer recurs it can be **distant and appear after 3–5 years**.
+- **Surveillance CEA after curative ESD for rectal adenocarcinoma is not recommended by NCCN and should be considered optional.**
+- Comparator schedules written for surgical/local excision rather than ESD: NCCN for T1 NX rectal adenocarcinoma without high-risk features — flexible sigmoidoscopy with concomitant contrasted pelvic MRI or EUS every 3–6 mo for 2 y, then every 6 mo to a total of 5 y; USMSTF 2016 — flexible sigmoidoscopy or EUS every 3–6 mo for the first 2–3 y.
+- AGA 2025 frames surveillance after curative endoscopic resection of low-risk T1 CRC as surveillance colonoscopy alone **within 1 year** ([[#Surveillance After Endoscopic Resection of T1 CRC]]); the post-ESD schedule above starts at **3–6 months** for T1 Sm1 disease.
+
+### Surveillance Technique
+
+- **High-definition endoscopy**, augmented as needed by image-enhancing modalities (dye-based or electronic chromoendoscopy) and, where available, endoscopes capable of optical magnification.
+- **Central and peripheral biopsies of the post-ESD scar** — prudent and reasonable, although no supporting data are available.
+- Inspect the mucosa of the **whole colon and rectum** carefully for metachronous lesions, the dominant late failure mode.
+
+---
+
 ## See Also
 
-[[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[endoscopic-full-thickness-resection]], [[subepithelial-lesion]], [[colonoscopy]], [[colonoscopy-surveillance]], [[colorectal-cancer]], [[inflammatory-bowel-disease]], [[endoscopic-oncology]], [[electrosurgery]]
+[[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[endoscopic-full-thickness-resection]], [[subepithelial-lesion]], [[colonoscopy]], [[colonoscopy-surveillance]], [[colorectal-cancer]], [[inflammatory-bowel-disease]], [[endoscopic-oncology]], [[electrosurgery]], [[lynch-syndrome]]
 
 ---
 
@@ -138,3 +192,4 @@ Most colorectal neoplasms are benign and resectable by piecemeal [[endoscopic-mu
 3. [[asge-2020-endoscopic-removal|ASGE 2020: Endoscopic Removal of Colorectal Lesions]]
 4. [[aga-2024-full-thickness-resection|AGA 2024 Clinical Practice Update on Endoscopic Full-Thickness Resection for the Management of Gastrointestinal Subepithelial Lesions]]
 5. [[aga-2018-esd-united-states|AGA Institute Clinical Practice Update: Endoscopic Submucosal Dissection in the United States]]
+6. [[aga-2021-post-esd-surveillance|AGA Clinical Practice Update on Surveillance After Pathologically Curative Endoscopic Submucosal Dissection of Early Gastrointestinal Neoplasia in the United States: Commentary]]

@@ -3,8 +3,8 @@ title: "Gastrointestinal Stromal Tumor (GIST)"
 category: disease-script
 tags: [gist, gastrointestinal-stromal-tumor, subepithelial-lesion, kit, cd117, dog1, pdgfra, sdh-deficient, imatinib, sunitinib, regorafenib, ripretinib, avapritinib, mesenchymal-tumor, nccn, oncology]
 created: 2026-06-18
-updated: 2026-09-03
-sources: [nccn-2026-gist, acg-2023-subepithelial-lesions, asge-2017-subepithelial-lesions]
+updated: 2026-09-27
+sources: [nccn-2026-gist, acg-2023-subepithelial-lesions, asge-2017-subepithelial-lesions, aga-2022-subepithelial-lesions]
 ---
 
 ## Contents
@@ -81,7 +81,7 @@ Other subepithelial lesions: leiomyoma, schwannoma, [[gastroenteropancreatic-neu
 
 ## Diagnostics
 
-[[endoscopic-ultrasound|EUS]] characterizes the layer of origin (typically muscularis propria) and enables tissue sampling; CT/MRI defines extent and metastases (liver and peritoneum are the usual sites); immunohistochemistry (**KIT/CD117, DOG1**) confirms diagnosis; **mutational analysis (KIT, PDGFRA, and SDH where indicated)** guides therapy.
+[[endoscopic-ultrasound|EUS]] characterizes the layer of origin — the **4th layer (muscularis propria), rarely the 2nd or 3rd** — and enables tissue sampling. GIST is **hypoechoic and indistinguishable from leiomyoma on standard EUS**; **contrast-enhanced EUS and EUS elastography separate them with accuracy >95%** — GIST **hyperenhances**, leiomyoma **hypoenhances** ([[aga-2022-subepithelial-lesions]]). EUS alone predicts malignant potential with only **64% sensitivity / 80% specificity**, and is operator-dependent, so a muscularis propria lesion should be sampled (preferably **FNB**, or FNA) to separate GIST from leiomyoma; **EUS-FNA often cannot provide the mitotic index**. FNA/FNB accuracy scales with target size: **≤2 cm 71%, 2–4 cm 86%, >4–5 cm 95%–100%**. CT/MRI defines extent and metastases (liver and peritoneum are the usual sites); immunohistochemistry (**KIT/CD117, DOG1**) confirms diagnosis; **mutational analysis (KIT, PDGFRA, and SDH where indicated)** guides therapy.
 
 ## Therapeutics
 
@@ -91,6 +91,9 @@ Per [[nccn-2026-gist]]:
   - **<2 cm gastric** — surveillance *or* resection both acceptable (insufficient evidence); surveil if **no** high-risk features (irregular borders, cystic spaces, ulceration, echogenic foci, heterogeneity); if resecting, endoscopic methods are an acceptable alternative to surgery.
   - **>2 cm gastric** — resect.
   - **All nongastric GIST** (esophageal, small-bowel, colorectal) — resect regardless of size.
+  - **Surveillance interval for the ≤2 cm gastric GIST left in place** ([[aga-2022-subepithelial-lesions]]): surveil by **EUS**. The optimal interval for **<2 cm** gastric GIST **without high-risk features has not been established** and standard of care varies by region; **annual surveillance is what is commonly practiced**. Muscularis propria lesions <2 cm that have not yet been given a tissue diagnosis are handled the same way — EUS surveillance.
+  - **Mandatory surgical evaluation** ([[aga-2022-subepithelial-lesions]]): any **small-intestinal** GIST; a **symptomatic** gastric GIST; a gastric GIST with **high-risk EUS features — irregular border, cystic spaces, ulceration, or echogenic foci**.
+  - **Gastric GIST 2–4 cm without high-risk features** may be removed by advanced endoscopic resection rather than surgery, but only as a **multidisciplinary decision**, with a confirmed **low mitotic index (or Ki-67)** and **no metastatic disease on cross-sectional imaging**. Location unfavorable for advanced resection, or expertise unavailable → **surgery is the modality of choice**. Supporting evidence is a case series of 31 upper GI GISTs removed by [[endoscopic-submucosal-dissection|ESD]] with no recurrence or metastasis at 1–2 years ([[aga-2022-subepithelial-lesions]]).
   - Surgical resection is with negative margins (no routine lymphadenectomy); for **very large** GISTs confirm tissue first to permit neoadjuvant imatinib.
 - **Neoadjuvant imatinib:** to downsize marginally resectable tumors or preserve organ function (EGJ, duodenum, rectum); confirm an imatinib-sensitive mutation first (it is acceptable to start while mutational analysis is pending).
 - **Adjuvant imatinib — who, and for how long:**
@@ -134,3 +137,4 @@ flowchart TD
 1. [[nccn-2026-gist|NCCN Clinical Practice Guidelines in Oncology: Gastrointestinal Stromal Tumors (GIST) (Version 1.2026)]]
 2. [[acg-2023-subepithelial-lesions|ACG 2023: Diagnosis and Management of Gastrointestinal Subepithelial Lesions]]
 3. [[asge-2017-subepithelial-lesions|ASGE 2017: The Role of Endoscopy in Subepithelial Lesions of the GI Tract]]
+4. [[aga-2022-subepithelial-lesions|AGA Clinical Practice Update on Management of Subepithelial Lesions Encountered During Routine Endoscopy: Expert Review]]
