@@ -3,8 +3,8 @@ title: "Anti-TNF Agents (TNF-α Antagonists)"
 category: med
 tags: [anti-tnf, infliximab, adalimumab, certolizumab-pegol, golimumab, biologic, ibd, crohns, ulcerative-colitis, immunogenicity, therapeutic-drug-monitoring, biosimilar, immune-checkpoint-inhibitor]
 created: 2026-09-04
-updated: 2026-09-24
-sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis]
+updated: 2026-09-28
+sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis, aga-2018-biologic-biosimilar-switching-ibd]
 ---
 
 Monoclonal TNF-α antagonists — **infliximab, adalimumab, certolizumab pegol, golimumab** — the longest-established advanced-therapy class in [[inflammatory-bowel-disease|IBD]], and the drugs behind most combination-therapy, immunogenicity, and pre-biologic-screening rules. **Onset is rapid — as early as the first 2 weeks** of treatment, and response/remission rates are higher when given **within 2 years of disease onset** ([[acg-2025-crohns]]). Also used outside IBD as rescue for glucocorticoid-refractory [[immune-checkpoint-inhibitor-colitis|ICI colitis]].
@@ -300,6 +300,14 @@ If not already done before checkpoint-inhibitor therapy: test **hepatitis B (HBs
 - [[acg-2025-uc]] states biosimilars (infliximab, adalimumab, ustekinumab) are **equivalent** and switching is acceptable.
 - **Interchangeable** biosimilars can be substituted at the pharmacy level without provider intervention; whether a pharmacist may substitute is determined by **each state's pharmacy board**, not by the FDA interchangeability designation ([[acg-2025-crohns]]).
 
+**⚠ Antidrug antibodies cross-react — do not switch across them.** Anti-originator-infliximab antibodies both **recognize and functionally inhibit CT-P13** to a similar degree (125 IBD patients). A patient with antidrug antibodies to originator infliximab must **not** be switched to the biosimilar, **or vice versa** — expect the same reaction, with risk of immediate hypersensitivity up to anaphylaxis ([[aga-2018-biologic-biosimilar-switching-ibd]]).
+
+- Commercial **therapeutic drug assays perform on the biosimilar as they do on the originator**; an antidrug-antibody result against one product applies to the other. See [[therapeutic-drug-monitoring-ibd]].
+- **New start vs switch are different decisions.** Data support biosimilars for **new starts** of infliximab; transitioning a patient **already in remission** (either direction) is an individualized decision by the IBD provider, with the patient informed and involved ([[aga-2018-biologic-biosimilar-switching-ibd]]).
+- **NOR-SWITCH detail** — 482 patients (155 CD, 93 UC), 52 wk, randomized double-blind noninferiority. Disease worsening **26.2% originator vs 29.6% CT-P13** overall; **CD 21.2% vs 36.5%** (risk difference **−14.3%; 95% CI −29.3 to 0.7**), **UC 9.1% vs 11.9%** (**−2.6%; 95% CI −15.2 to 10.0**). ⚠ The trial was **not powered for the CD and UC subgroups**, and its "disease worsening" endpoint is **not validated**. **SECURE:** infliximab levels 16 wk after switch were noninferior to baseline in both CD and UC.
+- **No primary equivalence study of any biosimilar has been performed in an IBD population** — IBD use rests on extrapolation from rheumatology (PLANETAS in ankylosing spondylitis, PLANETRA in rheumatoid arthritis). All IBD switch evidence is **infliximab CT-P13 only**; adalimumab-biosimilar switching and **multiple or serial switching are unstudied**.
+- **Pregnancy and children:** PK, immunogenicity, efficacy and safety data are limited in children and in pregnant women in stable remission → **avoid nonmedical switching during the antenatal period**.
+
 ---
 
 ## Gaps
@@ -325,3 +333,4 @@ If not already done before checkpoint-inhibitor therapy: test **hepatitis B (HBs
 4. [[aga-2021-crohns-pharm|AGA Clinical Practice Guidelines on the Medical Management of Moderate to Severe Luminal and Perianal Fistulizing Crohn's Disease (2021)]]
 5. [[aga-2024-uc-pharm|AGA Living Guideline: Pharmacologic Management of Moderate-to-Severe Ulcerative Colitis (2024)]]
 6. [[aga-2021-ici-colitis-hepatitis|AGA Clinical Practice Update on Diagnosis and Management of Immune Checkpoint Inhibitor Colitis and Hepatitis: Expert Review]]
+7. [[aga-2018-biologic-biosimilar-switching-ibd|AGA Clinical Practice Update: Switching Between Biologics and Biosimilars in Inflammatory Bowel Disease]]

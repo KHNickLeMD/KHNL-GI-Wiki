@@ -6,11 +6,68 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-28] lint | AGA CPU items 36–37 ingested; item 35 propagated out of orphanhood; two 2026-05-28 source pages validated
+
+**Inbox check:** no new arrivals. **449** non-asset files in `raw/`, all 14 subfolder counts matching the 2026-09-23 baseline exactly (AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, Other Studies 6, RCTs 12). `git status` clean and nothing untracked under `raw/` — as always, since the content subfolders are git-ignored; the count-vs-baseline check is the only working detector. Nothing to commit from the inbox sync.
+
+**Ingest slots claimed this pass (2 — the cap):** CPU queue items **36** and **37**. `git log -8 --name-only -- wiki/sources/` first confirmed no cron pass had taken either. Both rows struck in `index.md`, along with row **35**, whose ingest the previous pass completed but never recorded.
+
+**Sources created (2):**
+
+- `wiki/sources/aga-2018-functional-gi-symptoms-ibd.md` — AGA CPU Expert Review, *Clin Gastroenterol Hepatol* 2019;17:380–390. **14 Best Practice Advice statements verbatim.** This document **numbers its own statements** but **grades none of them** — no GRADE, no strength, no quality label. The hydrogen/methane breath-testing guidance inside it is attributed to **cited North American consensus guidelines**, not issued as AGA advice; recorded as such so a later pass does not re-attribute it. Figure 1 recreated as a Mermaid flowchart; Tables 1 and 2 recreated as native Markdown with all footnotes. The filename year (2018) is the online year — the **print issue is 2019**, which is the year any source-priority comparison must use.
+- `wiki/sources/aga-2018-biologic-biosimilar-switching-ibd.md` — AGA CPU **Commentary**, *Clin Gastroenterol Hepatol* 2019;17:818–823. ⚠ **It numbers nothing and grades nothing** — zero Best Practice Advice statements, zero GRADE ratings; guidance is narrative under 7 headings. The biosimilarity and interchangeability standards in it are **FDA/PHSA/BPCI** standards attributed to those bodies, not AGA positions. Same shape as the 2026-09-08 finding (23 of 34 invented grades on `asge-2020-endoscopic-removal`), caught at ingest. A **published correction** exists (*Clin Gastroenterol Hepatol* 2020;18:758) reassigning the conflict-of-interest disclosure to Rubin; captured on the page. Filename year 2018 = online year; print issue 2019.
+
+**Pages created (1):**
+
+- `wiki/7-concepts/ibd-in-older-adults.md` — the one home for [[aga-2021-ibd-elderly]], which had sat as a **whole-wiki orphan since 2026-09-27**: ingested, but its content never reached any entity page. Routed to `7-concepts/` to match the existing `ibd-in-malignancy` / `ibd-preventive-care` / `ibd-pain-management` pattern, and to keep the age-specific safety data in **one** place rather than duplicated across [[crohns-disease]] and [[ulcerative-colitis]]. Carries both figures (diagnostic algorithm as Mermaid, treatment algorithm as tables) and a drug-by-drug safety table with the absolute risks, not just the directions.
+
+**Decision inputs captured, not just conclusions:**
+
+- **Elderly = ≥60 years**, stated once and used throughout — the threshold every statement on the page is conditional on.
+- Thiopurine risk is on the page as **absolute rates by age band**, not as "increased": NMSC **4.04 vs 0.66 per 1000** (>65 y vs <50 y); lymphoproliferative disorder **5.41 vs 0.37 per 1000 person-years**, against **1.68 vs 0** in nonusers — the nonuser comparison is what makes the number actionable.
+- Tofacitinib's VTE signal keeps all three qualifiers that bound it: **10 mg twice daily**, **cardiovascular risk factors**, **rheumatoid arthritis** population — **0.4 vs 0.07 per 100 patient-years**. Stripped of those, the boxed warning reads as a blanket contraindication.
+- **Combination therapy splits by phenotype and fitness, not by age**: combine with deep ulceration, extensive bowel involvement or penetrating phenotype; monotherapy with significant frailty, comorbidity or infection risk.
+- **Anti-TNF malignancy is comparator-dependent** — OR 3.07 (1.98–4.62) vs *younger* biologic users, but **no excess vs older controls**. Reporting only the first number would misstate the decision.
+- The biosimilar content that reached [[anti-tnf-agents]] leads with the **prohibition**, which the page did not have: antidrug antibodies to originator infliximab **recognize and functionally inhibit CT-P13**, so a patient with ADAs to one product must not be switched to the other — in **either** direction, with risk of anaphylaxis. Also added NOR-SWITCH's **subgroup** numbers with the warning that the trial was **not powered** for CD or UC and that "disease worsening" is **not a validated endpoint** — the page previously carried only the qualitative "not inferior."
+
+**Orphans closed:** [[aga-2021-ibd-elderly]] (flagged this pass) and [[aga-2022-subepithelial-lesions]] (flagged 2026-09-25, half-fixed 2026-09-27) — [[subepithelial-lesion]] now carries it, completing the propagation the previous pass began on [[gastrointestinal-stromal-tumor]].
+
+**Stalest-page validation:** [[lynch-syndrome]]'s five flagged fabrications were worked this pass. **The two 2026-05-28 source pages carried forward from 2026-09-27 — [[acg-2015-psc]] and [[acg-2016-liver-disease-pregnancy]] — were NOT completed and remain untouched at the 2026-05-28 floor.** Their checkers were still running when this pass ended; nothing of theirs was written, so both pages are intact rather than half-edited. They lead the next pass. **29 pages remain at the 2026-05-28 floor.**
+
+**Hygiene — whole-wiki scan:**
+
+- **Unescaped alias pipes inside tables: 0.** **Broken links in content pages: 0** (23 unresolved tokens exist, every one inside this append-only `log.md` or a format example). **OS artifacts: 0.** **Pages missing `## See Also` or `## Sources`, or using a banned heading: 0** across all 303 substantive non-source pages. **Duplicate basenames: 0** across 627 pages — worth recording, since links resolve by basename and a duplicate would silently capture them.
+- **Two maintainer notes were leaking onto source pages and are now removed** — "a decision gap, now closed" on [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d]], and a PyMuPDF/permission-blocked note on [[ioibd-2021-stride-ii]]. Both rewritten as plain statements for the reader.
+- **Index counts were stale by 3 before this pass even started** (321 stated vs 324 actual sources). Recounted and corrected to **326 sources / 50 concepts / 630 pages**. Ingest backlog recounted from unstruck rows: **14** uningested tier-1 files (was 17).
+
+**Coverage gaps: none filled from the queue, by rule** — this pass carried two ingests plus a backfill, which is the "already heavy on ingest → 1 or none" case. The new [[ibd-in-older-adults]] is propagation of an already-ingested source, not a queue item.
+
+**Cards:** none written this pass.
+
+**Remaining for triage:**
+
+- **[[acg-2015-psc]] and [[acg-2016-liver-disease-pregnancy]] — second consecutive pass carrying them.** Both are 2026-05-28 source pages from the cohort proven to contain invented GRADE ratings and fabricated doses. Give them a pass of their own.
+- **[[aga-2018-functional-gi-symptoms-ibd]] is a new orphan.** Its 14 BPA and Figure 1 algorithm have not reached the entity pages. The propagation targets, with content identified: [[inflammatory-bowel-disease]] (Figure 1's one home, BPA 1–4, the "up to 15% fail to mount a CRP response" caveat), [[crohns-disease]] (IBS overlap 46% vs 36%, OR 1.62), [[ulcerative-colitis]] (normal stool frequency in only 29% at 8 wk / 41% at 52 wk despite Mayo endoscopic subscore 0), [[irritable-bowel-syndrome]] (Rome IV cannot be strictly applied in IBD), [[small-intestinal-bacterial-overgrowth]] (breath-test sensitivity/specificity ranges), [[bile-acid-diarrhea]], [[low-fodmap-diet]], [[ibd-pain-management]], [[probiotics]], [[fmt]].
+- **Two other source pages remain orphans:** [[azuma-2026-cryoprevention-pep]] and [[suzuki-2021-pep-acute-pancreatitis-criteria]] (both created 2026-09-18; expected consumers are the post-ERCP pancreatitis and [[ercp]] pages). [[aga-2020-brca-crc-pancreatic-screening]] is also still orphaned — `index.md` claims it fed three pages, and **none of the three links back**.
+- **Calprotectin thresholds collide across four pages** and now a fifth source: [[ulcerative-colitis]] treat-to-target 100–250 µg/g, [[crohns-disease]] diagnostic >50–100 µg/g, [[chronic-diarrhea]] screening 50 µg/g, and AGA 2019's <50 / 50–250 / 200–250 bands. These answer **different questions** — diagnosis vs remission target vs screening — so the qualifier must travel with every number. Needs one reconciling pass.
+- **A `5-meds/biosimilars` page is the missing one home** for the class-level regulatory framework (PHSA biosimilarity vs interchangeability, the extrapolation rule, the approved-product table as a dated 2019 snapshot). Added to the *Fillable now* queue rather than built this pass.
+- **Rome IV vs Rome V terminology mismatch** — AGA 2018 reasons in "FGID"; [[disorders-of-gut-brain-interaction]] follows Rome V, which retires the term. Clinical content stands, vocabulary does not.
+
+---
+
 ## [2026-09-27] lint | AGA CPU queue resumed (IBD in elderly, functional GI symptoms in IBD); the previous pass's unfinished work closed
 
 **Inbox check:** no new arrivals. **449** non-asset files in `raw/`, all 14 subfolder counts matching the 2026-09-23 baseline exactly (AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, Other Studies 6, RCTs 12). Working tree clean; `git status` found nothing untracked under `raw/`, as it always will — the content subfolders are git-ignored, so the count-vs-baseline check is the only working detector. Nothing to commit from the inbox sync.
 
-*(entry in progress — this pass is running)*
+**⚠ Entry closed retroactively by the 2026-09-28 pass — the title above overstates what happened.** Only **one** of the two named CPUs was ingested. `git show d57a8f0 --stat` is the record: `wiki/sources/aga-2021-ibd-elderly.md` created (queue item 35); **`AGA 2018 Functional GI Symptoms in IBD` (item 36) was never touched** — no source page exists for it. The pass also left `aga-2021-ibd-elderly` a whole-wiki orphan with no `index.md` row and row 35 unstruck. See the 2026-09-28 entry above for the propagation and backfill.
+
+**What the pass did complete:**
+
+- `wiki/sources/aga-2021-ibd-elderly.md` — AGA CPU, IBD in the elderly (241 lines).
+- `[[colorectal-esd]]` — received the post-ESD surveillance content it was flagged as missing on 2026-09-27 (+61 lines). **That open item is closed.**
+- `[[aasld-ast-2025-liver-transplant-non-graft-complications]]` — rebuilt (376 lines changed). **Stalest-page target 1 of 3 is done**; `[[acg-2015-psc]]` and `[[acg-2016-liver-disease-pregnancy]]` were not reached and carried forward.
+- `[[gastrointestinal-stromal-tumor]]` (+10) — now cites [[aga-2022-subepithelial-lesions]]. **Half the orphan fix**; [[subepithelial-lesion]] still did not.
+- `[[upper-endoscopy]]` (+38), `[[lynch-syndrome]]` (+10).
 
 ---
 
