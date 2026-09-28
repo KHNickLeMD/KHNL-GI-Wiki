@@ -3,18 +3,20 @@ title: "BRCA1 / BRCA2 Pathogenic Variants"
 category: concept
 tags: [genetics, brca, hereditary-cancer, pancreatic-cancer]
 created: 2026-06-04
-updated: 2026-09-05
-sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
+updated: 2026-09-28
+sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer, aga-2020-brca-crc-pancreatic-screening]
 ---
 
 BRCA1 and BRCA2 are tumor-suppressor genes critical to homologous-recombination DNA repair. Germline pathogenic variants define **hereditary breast–ovarian cancer syndrome** — which [[acg-2015-hereditary-gi-cancer|American College of Gastroenterology (ACG) 2015]] (Table 12) also lists among the syndromes conferring [[pancreatic-cancer|pancreatic ductal adenocarcinoma]] risk (**BRCA1 ~2-fold, BRCA2 3- to 9-fold** by registry data). In gastroenterology (GI), the decision they drive is whether to enter [[pancreatic-cancer-screening|pancreatic surveillance]] — and, per [[asge-2022-pancreatic-cancer-screening|American Society for Gastrointestinal Endoscopy (ASGE) 2022]], **family history is no longer required**.
 
-⚠ **Scope:** this page covers only the **pancreatic** arm. Breast/ovarian (and any other non-GI) surveillance for BRCA carriers is not addressed by the GI guidelines and is not covered here.
+⚠ **Scope:** this page covers the **pancreatic** and **colorectal** arms. Breast/ovarian (and any other non-GI) surveillance for BRCA carriers is not addressed by the GI guidelines and is not covered here.
 
 ## Contents
 - [[#Magnitude of Pancreatic Cancer Risk]]
 - [[#Surveillance Decision]]
 - [[#⚠ Contradiction — Family History Requirement]]
+- [[#Colorectal Cancer Risk]]
+- [[#Colorectal Screening Decision]]
 - [[#Other Points]]
 - [[#See Also]]
 - [[#Sources]]
@@ -57,11 +59,41 @@ Every parameter needed to start a carrier on surveillance ([[asge-2022-pancreati
 | Source | Position |
 |---|---|
 | **[[asge-2022-pancreatic-cancer-screening\|ASGE 2022]]** (newer — **the position this page follows**) | Screen **all** BRCA1/2 carriers **regardless of family history**. Explicitly listed under "What Is New," noting previous guidelines limited screening to those with a family history |
+| [[aga-2020-brca-crc-pancreatic-screening\|AGA 2020]] (older) | Family-history-gated, and it reports the gate as **unsettled between the two consensus bodies it cites**: CAPS reached **93% consensus** on screening BRCA2 carriers with **≥1 affected first-degree relative, or ≥2 affected relatives of any degree** (GRADE 2) and reached **no consensus** for BRCA1 carriers with ≥1 affected first-degree relative (GRADE 3); the National Comprehensive Cancer Network (NCCN) accepts an affected **first- *or* second-degree** relative for either gene. A carrier can therefore be eligible under one and not the other |
 | [[acg-2015-hereditary-gi-cancer\|ACG 2015]] (older) | "Because of a lower relative risk … surveillance should be **limited to mutation carriers with a first- or second-degree relative affected with pancreatic cancer**" (conditional, very low quality) |
 
 ASGE's rationale for dropping the requirement: family-history data in the risk studies were limited and mixed; several studies found **no association** between family history and pancreatic cancer risk in BRCA1/2; and in 71 BRCA-associated pancreatic cancers, a first- or second-degree family history was present in only **33%** — so **~2 in 3 cancers would have been missed** by a family-history-gated strategy. Family history records are also incomplete, inaccurate, or uninformative in small families.
 
 The family-history gate is the **only** point of disagreement. Both guidelines set the same **start age (50, or 10 y before the youngest affected relative)**, the same **annual** interval, and the same modality pair (**EUS or MRI**) — ACG 2015 Rec 23 states "EUS or MRI of the pancreas annually starting at age 50 years, or 10 years younger than the earliest age of PC [pancreatic cancer] in the family," with [[peutz-jeghers-syndrome|Peutz-Jeghers syndrome (PJS)]] starting at 35.
+
+## Colorectal Cancer Risk
+
+*Source: [[aga-2020-brca-crc-pancreatic-screening|American Gastroenterological Association (AGA) 2020]]. This update is **Commentary format — it issues no numbered Best Practice Advice and assigns no Grading of Recommendations Assessment, Development and Evaluation (GRADE) ratings of its own**; the GRADE labels below belong to the Cancer of the Pancreas Screening (CAPS) Consortium consensus it cites.*
+
+**The asymmetry that drives the decision — the two genes diverge, and so do the two organs.**
+
+| | BRCA1 | BRCA2 |
+|---|---|---|
+| AGA 2020 bottom line | **limited** evidence of increased risk, magnitude **very modest** | **no** evidence of increased CRC risk |
+| Meta-analysis (Oh 2018; 14 moderate-quality studies) | **odds ratio (OR) 1.49** (95% CI 1.19–1.85) — increased | **OR 1.10** (95% CI 0.77–1.58) — not increased |
+| All BRCA carriers pooled | **OR 1.24** (95% CI 1.02–1.51) — small but statistically significant | |
+
+- **Case-control studies (5 large studies, Ashkenazi Jewish or Polish founder variants) detected no increased CRC risk** for either gene. The largest (Suchy 2010; 2398 unselected CRC cases, 4570 controls) found prevalence **0.42% in cases vs 0.48% in controls** (OR 0.8, *P* = .8) — but mean age at CRC was significantly younger in BRCA1 carriers, **57.0 vs 64.0 years** (*P* = .05).
+- **Cohort studies are mixed and AGA 2020 says so.** No increased risk among all carriers in a 7015-carrier cohort, but a **4.76-fold** standardized incidence ratio (95% CI 2.21–9.0) in BRCA1 carriers **aged 30–49**. In 11,847 individuals from 699 families, **colon** cancer risk was raised (relative risk [RR] 2.03, 95% CI 1.45–2.85) while **rectal** cancer risk was *reduced* (RR 0.23, 95% CI 0.09–0.59) — reported without explanation.
+- **Prevalence of BRCA1/2 pathogenic variants among CRC patients:** early-onset CRC **1.3%**, high-risk CRC **0.2%**, unselected CRC **1.0%**. Higher than chance would predict, but AGA 2020 states this is **not proof of a causative role**.
+- All reviewed studies **lacked data on CRC screening exposure** and had wide confidence intervals; the young-onset signal rests on a subgroup analysis of a single study.
+
+## Colorectal Screening Decision
+
+**No change to colorectal screening on carrier status alone** ([[aga-2020-brca-crc-pancreatic-screening|AGA 2020]]):
+
+| Carrier presentation | Action |
+|---|---|
+| First-degree relative with CRC **or advanced adenoma** | Offer [[colorectal-cancer-screening\|CRC screening]] at **age 40** — per existing family-history-based recommendations, not because of carrier status |
+| **Symptoms** — the document names **rectal bleeding** and **[[iron-deficiency-anemia\|iron deficiency anemia]]** | **Expedited diagnostic evaluation** |
+| No signs/symptoms **and** no family history of CRC or advanced adenoma | **Average-risk guidelines**, until evidence clarifies whether alternate strategies are warranted |
+
+**The threshold that makes the rule usable:** current guidelines trigger earlier or more intensive screening at a **2-fold** increased risk — the level conferred by one first-degree relative with CRC. The **1.5-fold** risk seen in BRCA1 carriers is not clearly sufficient to cross it. For calibration, CRC risk in [[lynch-syndrome|Lynch syndrome]] is increased **10- to 17-fold** — an order of magnitude above the BRCA signal.
 
 ## Other Points
 
@@ -79,3 +111,4 @@ The family-history gate is the **only** point of disagreement. Both guidelines s
 
 1. [[asge-2022-pancreatic-cancer-screening|ASGE Guideline on Screening for Pancreatic Cancer in Individuals with Genetic Susceptibility: Summary and Recommendations (2022)]]
 2. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
+3. [[aga-2020-brca-crc-pancreatic-screening|AGA Clinical Practice Update on Colorectal and Pancreatic Cancer Risk and Screening in BRCA1 and BRCA2 Carriers: Commentary]]

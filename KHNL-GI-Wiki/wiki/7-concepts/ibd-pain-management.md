@@ -3,7 +3,7 @@ title: "Pain Management in IBD"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, pain, chronic-pain, neuromodulators, opioids, narcotic-bowel-syndrome, brain-gut-behavior-therapy]
 created: 2026-07-23
-updated: 2026-09-05
+updated: 2026-09-28
 sources: [aga-2024-ibd-pain]
 ---
 
@@ -138,7 +138,7 @@ These originate in dedicated brain networks, influence descending brainstem pain
 
 ### Opioids and Cannabis
 
-- **Narcotics not advised for any chronic abdominal pain** — addiction risk, **paradoxical spinal amplification of pain sensitivity**, and narcotic bowel syndrome.
+- **Narcotics not advised for any chronic abdominal pain** — addiction risk, **paradoxical spinal amplification of pain sensitivity**, and [[narcotic-bowel-syndrome|narcotic bowel syndrome]].
 - **Opioid reduction** should proceed **while behavioral support is in place**. Opioid detoxification protocols improve narcotic bowel syndrome and were associated with **lower abdominal pain scores**.
 - Be direct upfront: **work disability and opioids for chronic IBD pain are associated with poorer long-term outcomes and do not reduce suffering**.
 - **N-methyl-D-aspartate (NMDA) antagonists** (e.g. ketamine) reduce hyperalgesia in gut inflammation but not extensively studied in IBD trials.
@@ -173,7 +173,7 @@ These originate in dedicated brain networks, influence descending brainstem pain
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]], [[ibd-preventive-care]], [[nutrition-in-ibd]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]], [[ibd-preventive-care]], [[nutrition-in-ibd]], [[narcotic-bowel-syndrome]]
 
 ---
 

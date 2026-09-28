@@ -6,6 +6,22 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-28] lint | AGA CPU items 39 + 43 ingested; the two carried-forward 2026-05-28 source pages validated; AGA 2018 functional-GI-in-IBD orphan propagated
+
+**Inbox check:** *(in progress — filled at end of pass)*
+
+**Ingest slots claimed this pass (2 — the cap):** *(in progress)*
+
+**Sources created:** *(in progress)*
+
+**Pages updated:** *(in progress)*
+
+**Hygiene fixes:** *(in progress)*
+
+**Remaining for triage:** *(in progress)*
+
+---
+
 ## [2026-09-28] update | Abbreviations spelled out on first use — new Style Guide rule + whole-wiki pass
 
 **Rule added (Nick, 2026-09-28):** `CLAUDE.md` → Style Guide → *Abbreviations — spell out on first use*; lint check *Unexpanded abbreviations* added; stalest-page validation now includes it.
