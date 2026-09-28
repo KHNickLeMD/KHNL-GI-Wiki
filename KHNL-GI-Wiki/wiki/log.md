@@ -10,7 +10,34 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 **Rule added (Nick, 2026-09-28):** `CLAUDE.md` → Style Guide → *Abbreviations — spell out on first use*; lint check *Unexpanded abbreviations* added; stalest-page validation now includes it.
 
-**Pass status:** in progress — 11 of 15 batches (incl. `index.md`) complete; batches 3, 5, 6, 13 (disease scripts / procedures / meds / sources) interrupted by a usage limit and being resumed.
+**Scope:** every wiki page except `log.md` and `needed-sources.md` — 625 pages incl. `index.md` and `overview.md`; 15 parallel batches, one owner per file.
+
+**Result:**
+
+- ~10,000 first-use expansions added (`Full Term (ABBR)`; `ABBR [expansion]` inside verbatim recommendation text; expanded aliases on first-use links such as `[[gerd|gastroesophageal reflux disease (GERD)]]`); ~450 later re-expansions reduced to the abbreviation.
+- Same-abbreviation clashes on one page resolved by writing one meaning out (SBP systolic vs spontaneous bacterial peritonitis; HR heart rate vs hazard ratio; US ultrasound vs United States; AST enzyme vs American Society of Transplantation; PD pancreas divisum vs pancreatic duct).
+- Ambiguous expansions taken from the source's own abbreviation list; named trials/scores/instruments with no source expansion (SCENIC, PAGE-B, GLOBE, GALAD, STOPAH…) left as names.
+- Corrected expansions: `palliative-care-in-cirrhosis` GCD → Goals of Care Designation (AGA 2020); `aasld-2023-nafld` NILDA → noninvasive liver disease assessment.
+
+**Checks (whole diff vs `bce3ce2`):** 0 link-target changes, 0 heading changes (anchors intact), 0 frontmatter changes, 0 doubled expansions, 0 unescaped table alias pipes.
+
+**`updated:` deliberately NOT bumped:** formatting-only pass; bumping 625 dates would flatten the stalest-page rotation and mark every card file stale.
+
+**Remaining for triage (content issues found, not abbreviation-related, not changed):**
+
+- `acg-2021-anorectal-disorders` — STARR labelled "stapled hemorrhoidectomy"; source defines stapled transanal rectal resection.
+- `sages-2021-gerd-surgery` — cites NordICC (a colonoscopy trial) in GERD-surgery context.
+- `usmstf-2020-malignant-colorectal-polyps` — "OR 1.42; 95% CI 8.57–23.4" (point estimate outside CI; likely 14.2).
+- `ostomy-management` — "H2 agonists" (likely antagonists).
+- `aga-2021-ici-colitis-hepatitis` — "PPI/biologic choice" label on an infliximab-vs-vedolizumab bullet.
+- `aga-2021-medically-refractory-gastroparesis` — verbatim quote uses GES for gastric emptying study; source list defines GES as gastric electrical stimulation.
+- `alosetron` — REMS expanded as "Restricted-distribution risk-management program" (existing content).
+- `aasld-2011-alf` — PDF page-header text in Rec 26, truncated Rec 27, garbled µM (Rec 32) and "3435 C".
+- `asge-2013-biliary-neoplasia`, `asge-2015-*`, `asge-2017-subepithelial-lesions`, `asge-2018-sedation`, `asge-2020-fap` — GRADE symbols garbled ("QQQQ", "444B").
+- Banned maintainer notes still on pages: `chronic-idiopathic-constipation`, `high-resolution-manometry`, `endoscopic-ultrasound`, `anti-tnf-agents`, `colorectal-esd`, `colonoscopy`, `sclerosing-mesenteritis`, `disconnected-pancreatic-duct-syndrome`, `acute-lower-gi-bleeding`, `ascites`, `hepatopulmonary-syndrome-portopulmonary-hypertension`, `liver-transplantation`, `aga-2019-autoimmune-pancreatitis`, `aasld-2018-pbc`, `acg-2015-small-bowel-bleeding`, `wang-2026-eus-ppg-delphi-consensus`.
+- Source slugs in See Also: `aasld-2018-pbc`, `aasld-2023-masld-nomenclature`, `aasld-2023-nafld`, `aasld-idsa-2023-hcv`, `aasld-ast-2025-liver-transplant-graft-complications`.
+- Wiki links inside backticks / stale `wiki/disease-scripts/` paths in Relevance sections: `asge-2024-gerd`, `asge-2015-scenic-ibd-dysplasia`, `asge-2020-acpo-volvulus`, `acg-2025-egd-quality`, `acg-2025-gastric-premalignant`, `acg-2022-barretts`, `acg-2022-gastroparesis`, `acg-2025-liver-nutrition`.
+- Inconsistency: immunoglobulin classes (IgA/IgG/IgM) expanded on some pages, treated as protein names on others.
 
 ---
 

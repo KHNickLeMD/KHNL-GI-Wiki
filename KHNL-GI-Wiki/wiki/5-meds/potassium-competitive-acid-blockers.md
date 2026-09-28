@@ -68,7 +68,7 @@ Potassium-competitive acid blockers (P-CABs) are a drug **class** of gastric aci
 | Treatment / prophylaxis of [[peptic-ulcer-disease\|peptic ulcer disease (PUD)]] | Generally **not first-line** (noninferior, not superior, to PPIs; higher cost) | 8 |
 | [[upper-gi-bleeding\|Bleeding gastroduodenal ulcer]], high-risk stigmata | Insufficient evidence for first-line use; rapid potent acid inhibition raises possibility of utility | 9 |
 
-- Noninferior to lansoprazole for gastric/duodenal ulcer healing and for secondary prophylaxis (low-dose aspirin / nonsteroidal anti-inflammatory drugs [NSAIDs]). Potential (scant-evidence) role in Zollinger-Ellison syndrome. Post-hemostasis, oral vonoprazan noninferior to high-dose IV PPI for rebleeding ([[aga-2024-pcab]]).
+- Noninferior to lansoprazole for gastric/duodenal ulcer healing and for secondary prophylaxis (low-dose aspirin / nonsteroidal anti-inflammatory drugs [NSAIDs]). Potential (scant-evidence) role in Zollinger-Ellison syndrome. Post-hemostasis, oral vonoprazan noninferior to high-dose intravenous (IV) PPI for rebleeding ([[aga-2024-pcab]]).
 
 ---
 

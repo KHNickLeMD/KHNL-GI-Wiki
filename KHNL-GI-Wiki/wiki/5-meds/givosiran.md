@@ -14,7 +14,7 @@ sources: [aga-2023-acute-hepatic-porphyria]
 
 - **American Gastroenterological Association (AGA) 2023 Best Practice Advice (BPA) 7:** prophylactic heme therapy **or** givosiran, given in an **outpatient** setting, should be considered in [[acute-hepatic-porphyria|acute hepatic porphyria (AHP)]] with **recurrent attacks (≥4 per year)**. [[aga-2023-acute-hepatic-porphyria]] Expert Review — **no formal evidence rating.**
 - Prescribe **only** for recurrent acute attacks that are **both biochemically and genetically confirmed** (urine ALA/porphobilinogen (PBG)/creatinine plus a pathogenic variant in *HMBS*, *CPOX*, *PPOX*, or *ALAD*).
-- **Alternative for the same indication:** off-label prophylactic IV [[hemin]] — effectiveness at *preventing* attacks is less established, and chronic use brings indwelling-catheter needs, infection, and [[iron-overload-and-iron-metabolism|iron overload]].
+- **Alternative for the same indication:** off-label prophylactic intravenous (IV) [[hemin]] — effectiveness at *preventing* attacks is less established, and chronic use brings indwelling-catheter needs, infection, and [[iron-overload-and-iron-metabolism|iron overload]].
 - **Efficacy:** in a phase 3 randomized, double-blind, placebo-controlled trial (ENVISION) of recurrent-attack AHP, monthly subcutaneous givosiran significantly lowered acute attack rates, correlating with lower urine ALA and PBG; a significant proportion of treated patients were attack-free.
 
 ## Dosing

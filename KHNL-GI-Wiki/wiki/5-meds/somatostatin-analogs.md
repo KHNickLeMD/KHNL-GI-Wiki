@@ -7,7 +7,7 @@ updated: 2026-09-22
 sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bleeding, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
-**Octreotide** (short-acting SC/IV and long-acting **LAR**) and **lanreotide** bind somatostatin receptors (chiefly SSTR2/5), suppressing splanchnic and endocrine secretion and exerting an antiproliferative effect on neuroendocrine cells. Three main GI/hepatology uses: acute variceal bleeding, neuroendocrine tumors, and refractory small-bowel vascular bleeding.
+Somatostatin analogs (SSAs) — **octreotide** (short-acting subcutaneous [SC]/intravenous [IV] and long-acting release [**LAR**]) and **lanreotide** — bind somatostatin receptors (SSTRs; chiefly SSTR2/5), suppressing splanchnic and endocrine secretion and exerting an antiproliferative effect on neuroendocrine cells. Three main gastrointestinal (GI)/hepatology uses: acute variceal bleeding, neuroendocrine tumors, and refractory small-bowel vascular bleeding.
 
 ## Contents
 - [[#Mechanism]]
@@ -22,17 +22,17 @@ sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bl
 ## Mechanism
 - Synthetic somatostatin analogs → agonism at SSTR2/5.
 - **Splanchnic vasoconstriction** → reduced portal inflow and variceal pressure (basis for use in [[variceal-upper-gi-bleeding|acute variceal bleeding]]).
-- **Inhibition of hormone secretion** (serotonin, gastrin, VIP, GH) → symptom control in functioning [[gastroenteropancreatic-neuroendocrine-tumors|NETs]].
+- **Inhibition of hormone secretion** (serotonin, gastrin, vasoactive intestinal peptide [VIP], growth hormone [GH]) → symptom control in functioning [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumors (NETs)]].
 - **Antiproliferative** effect → tumor-growth control in SSTR-positive disease.
 
 ## Indications & Dosing
 
 ### Acute Variceal Bleeding
-**Octreotide is the vasoactive drug of choice for variceal hemorrhage, on its safety profile** ([[aga-2024-vasoactive-albumin-cirrhosis]] BPA 3). In [[portal-hypertension]], start it **as soon as variceal bleeding is suspected or confirmed — preferably before diagnostic/therapeutic [[upper-endoscopy|endoscopy]]** (BPA 1).
+**Octreotide is the vasoactive drug of choice for variceal hemorrhage, on its safety profile** ([[aga-2024-vasoactive-albumin-cirrhosis]] Best Practice Advice [BPA] 3). In [[portal-hypertension]], start it **as soon as variceal bleeding is suspected or confirmed — preferably before diagnostic/therapeutic [[upper-endoscopy|endoscopy]]** (BPA 1).
 
 | Agent | Dosing | Duration |
 |---|---|---|
-| **Octreotide** | IV bolus **50 mcg** → infusion **25–50 mcg/hr** (AASLD) / **50 mcg/hr** (AGA); extra IV boluses allowed for ongoing bleeding | 2–5 d |
+| **Octreotide** | IV bolus **50 mcg** → infusion **25–50 mcg/hr** (American Association for the Study of Liver Diseases [AASLD]) / **50 mcg/hr** (American Gastroenterological Association [AGA]); extra IV boluses allowed for ongoing bleeding | 2–5 d |
 | **Somatostatin** | IV bolus **250 mcg** → infusion **250–500 mcg/hr**; extra IV boluses allowed for ongoing bleeding | 2–5 d |
 | [[terlipressin\|Terlipressin]] (comparator; **not FDA-approved for this indication in North America**) | 2 mg IV q4–6h × first 24–48 h, then 1 mg IV q4–6h | 2–5 d |
 
@@ -41,23 +41,23 @@ sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bl
 **How long to continue** ([[aga-2024-vasoactive-albumin-cirrhosis]] BPA 2):
 - After initial [[endoscopic-hemostasis|endoscopic hemostasis]], **continue 2–5 days** to prevent early rebleeding.
 - **Stop the drug if endoscopy shows a non-variceal upper GI source** — vasoactive drugs are not expected to work in e.g. [[peptic-ulcer-disease|peptic ulcer bleeding]].
-- Shortening to **2 days is reasonable only** in selected patients with **[[cirrhosis|Child-Pugh A or B cirrhosis]]** (CTP point table on that page) and **no active bleeding seen at endoscopy**. Data are insufficient for a firm optimal-duration recommendation.
+- Shortening to **2 days is reasonable only** in selected patients with **[[cirrhosis|Child-Pugh A or B cirrhosis]]** (Child-Turcotte-Pugh [CTP] point table on that page) and **no active bleeding seen at endoscopy**. Data are insufficient for a firm optimal-duration recommendation.
 
 - **Pregnancy:** avoid terlipressin (stimulates uterine contraction) — **somatostatin or octreotide may be used** instead ([[aasld-2023-portal-hypertension]]).
 
 ### GEP-NET — Symptom and Tumor Control
-In GEP-NETs, standard SSA dosing is the same whether the goal is hormonal symptom control or antiproliferative tumor control ([[nccn-2026-net]]):
+In gastroenteropancreatic NETs (GEP-NETs), standard SSA dosing is the same whether the goal is hormonal symptom control or antiproliferative tumor control ([[nccn-2026-net]]):
 
 | Agent / setting | Dose |
 |---|---|
-| **Octreotide acetate LAR** (depot) | **20–30 mg IM every 4 weeks** |
+| **Octreotide acetate LAR** (depot) | **20–30 mg intramuscularly (IM) every 4 weeks** |
 | **Lanreotide** (depot) | **120 mg SC every 4 weeks** |
-| **Short-acting octreotide** — breakthrough / rapid symptom relief | **100–250 mcg SC TID**; can be added to a depot SSA (therapeutic levels are not reached until **10–14 d** after an LAR injection) |
+| **Short-acting octreotide** — breakthrough / rapid symptom relief | **100–250 mcg SC three times daily (TID)**; can be added to a depot SSA (therapeutic levels are not reached until **10–14 d** after an LAR injection) |
 | **Above-label dosing** if progression on standard doses | Octreotide LAR up to **60 mg monthly**, or lanreotide up to **120 mg every 14 days**, in select cases — higher doses have been shown to be safe |
-| Refractory carcinoid-syndrome diarrhea | Add **telotristat 250 mg PO TID** |
+| Refractory carcinoid-syndrome diarrhea | Add **telotristat 250 mg orally (PO) TID** |
 
-- **Antiproliferative use** is for SSTR-positive (SSTR-PET–avid) disease; on clinically significant progression, SSAs are **discontinued for non-functional tumors** but **continued for functional tumors**.
-- **Around PRRT (¹⁷⁷Lu-DOTATATE):** SSAs can be given **4–24 h after** each treatment. The customary 4-week withhold before each cycle rests on theoretical SSTR-binding competition with little supporting evidence; the panel notes it need not be strictly 28 days.
+- **Antiproliferative use** is for SSTR-positive (SSTR positron emission tomography [SSTR-PET]–avid) disease; on clinically significant progression, SSAs are **discontinued for non-functional tumors** but **continued for functional tumors**.
+- **Around peptide receptor radionuclide therapy (PRRT; ¹⁷⁷Lu-DOTATATE):** SSAs can be given **4–24 h after** each treatment. The customary 4-week withhold before each cycle rests on theoretical SSTR-binding competition with little supporting evidence; the panel notes it need not be strictly 28 days.
 - **Carcinoid crisis:** octreotide should be **available** during surgery for patients with carcinoid syndrome who become hemodynamically unstable — **100–500 mcg IV**, optionally followed by infusion **50–300 mcg/hr**. **Prophylactic octreotide is likely ineffective at preventing** intraoperative carcinoid crisis, and giving it must **not delay vasopressors and fluids**.
 - **Insulinoma:** use an SSA **only if SSTR-based imaging is positive**, and then with caution — SSAs may **transiently worsen hypoglycemia**, and in the absence of SSTRs they can worsen it **profoundly**.
 
@@ -69,7 +69,7 @@ For persistent/recurrent [[small-bowel-bleeding]] from [[angioectasia]] when the
 | Depot **octreotide LAR IM monthly** *or* **lanreotide 90 mg monthly** | Refractory bleeding defined as **>5 U blood within 3 months** after conventional treatment; given for a **mean of 12 months (range 6–36)**. Transfusions fell to 2 U (0–14) vs 10 U (6–24) pre-treatment (*P*<0.001); patients with a bleeding episode 20% vs 73% (*P*=0.001). |
 | **Octreotide 100 mcg SC TID × 1 month**, with depot **20 mg monthly × 6 months** started **at 2 weeks** | Retrospective, n=98, mean follow-up 78 months: 40% complete responders, 32% partial, 26% non-responders; transfusion requirements fell. |
 
-- **Poor-response predictors** (multivariate): age >65, male sex, antiplatelet therapy, COPD, chronic renal failure.
+- **Poor-response predictors** (multivariate): age >65, male sex, antiplatelet therapy, chronic obstructive pulmonary disease (COPD), chronic renal failure.
 - A meta-analysis confirms the value of octreotide and its analogs in this setting (whereas hormonal therapy has no role).
 
 ## Adverse Effects & Monitoring

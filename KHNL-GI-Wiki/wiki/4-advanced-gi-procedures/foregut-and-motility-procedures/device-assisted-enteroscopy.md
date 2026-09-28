@@ -20,25 +20,25 @@ sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, asge-20
 
 ## Overview
 
-Device-assisted enteroscopy (DAE), also called deep enteroscopy, encompasses three platform types for deep intubation and therapeutics in the small bowel:
+Device-assisted enteroscopy (DAE), also called deep enteroscopy (DE), encompasses three platform types for deep intubation and therapeutics in the small bowel:
 
-**Double-balloon enteroscopy (DBE):** Introduced 2001 (Yamamoto). Insertion depth and its landmarks: see [[#Route Selection]]. Diagnostic yield 60–80% for suspected SBB; therapeutic success 40–73%. Complication rate: 0.8% diagnostic, up to 4% with therapeutics; [[acute-pancreatitis|pancreatitis]] most common (~0.3%). Total-enteroscopy rate: see [[#Route Selection]].
+**Double-balloon enteroscopy (DBE):** Introduced 2001 (Yamamoto). Insertion depth and its landmarks: see [[#Route Selection]]. Diagnostic yield 60–80% for suspected small-bowel bleeding (SBB); therapeutic success 40–73%. Complication rate: 0.8% diagnostic, up to 4% with therapeutics; [[acute-pancreatitis|pancreatitis]] most common (~0.3%). Total-enteroscopy rate: see [[#Route Selection]].
 
-**Single-balloon enteroscopy (SBE):** Introduced ~2003. Similar dimensions to DBE; silicone balloon on overtube only (no distal balloon). Diagnostic yield 33–74%. Prospective RCT showed DBE had significantly higher total enteroscopy rate than SBE.
+**Single-balloon enteroscopy (SBE):** Introduced ~2003. Similar dimensions to DBE; silicone balloon on overtube only (no distal balloon). Diagnostic yield 33–74%. Prospective randomized controlled trial (RCT) showed DBE had significantly higher total enteroscopy rate than SBE.
 
-**Spiral enteroscopy:** Outer raised spiral ridge on overtube; oral approach only; clockwise rotational motion draws scope forward. Insertion faster than DBE; depth of insertion less than DBE. Comparable diagnostic and therapeutic yields in most studies. Complication rate 0.34% severe, 0.27% SB perforation.
+**Spiral enteroscopy:** Outer raised spiral ridge on overtube; oral approach only; clockwise rotational motion draws scope forward. Insertion faster than DBE; depth of insertion less than DBE. Comparable diagnostic and therapeutic yields in most studies. Complication rate 0.34% severe, 0.27% small-bowel (SB) perforation.
 
-**Any method of DAE can be used** when endoscopic evaluation and therapy are required — equivalent diagnostic yields. *(ACG 2015: Strong/High)*
+**Any method of DAE can be used** when endoscopic evaluation and therapy are required — equivalent diagnostic yields. *(American College of Gastroenterology [ACG] 2015: Strong/High)*
 
-**[[capsule-endoscopy|VCE]] before DAE:** Perform VCE first whenever possible to guide targeted (VCE-guided) DAE, which raises diagnostic yield to **73–93%** and therapeutic yield to **57–73%**. *(The graded ACG 2015 recommendation on VCE-before-DAE sequencing, and its exceptions, live on [[capsule-endoscopy]].)*
+**[[capsule-endoscopy|Video capsule endoscopy (VCE)]] before DAE:** Perform VCE first whenever possible to guide targeted (VCE-guided) DAE, which raises diagnostic yield to **73–93%** and therapeutic yield to **57–73%**. *(The graded ACG 2015 recommendation on VCE-before-DAE sequencing, and its exceptions, live on [[capsule-endoscopy]].)*
 
-**Platform choice** *(ASGE 2015)* [[asge-2015-deep-enteroscopy]]:
+**Platform choice** *(American Society for Gastrointestinal Endoscopy [ASGE] 2015)* [[asge-2015-deep-enteroscopy]]:
 
 - DE is an **effective and safe** technique for small-bowel examination *(High)*.
 - **DBE is the most effective platform for achieving total enteroscopy** *(Moderate)*.
 - **Either DBE or SBE** is acceptable for **retrograde** enteroscopy *(Low)*.
 - SBE's practical advantages over DBE: shorter setup, single balloon cycle, simpler control panel, non-latex balloon.
-- **Short DBE** model: used for difficult ileocolonoscopy, **[[ercp|ERCP]] in surgically altered anatomy**, and proximal small-bowel endoscopy.
+- **Short DBE** model: used for difficult ileocolonoscopy, **[[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] in surgically altered anatomy**, and proximal small-bowel endoscopy.
 - NaviAid (through-the-scope balloon on a standard adult colonoscope): limited data — **no recommendation**.
 
 ---
@@ -68,7 +68,7 @@ The scope reaches only part of the small bowel from either end, so the route is 
 
 - **Small-bowel tumors:** DE for tissue diagnosis and therapy when a tumor is detected by other tests (eg, VCE), or when suspicion is high despite negative initial testing. *(Low)*
 - **[[crohns-disease|Crohn's disease]]:** DE when imaging shows abnormalities within reach of the enteroscope — allows endoscopic + histologic evaluation and therapeutics (hemostasis, stricture dilation, foreign-body retrieval). *(Low)*
-- **[[familial-adenomatous-polyposis|FAP]]:** balloon enteroscopy is the therapeutic arm for jejunal/ileal polyps detected on capsule endoscopy or MRE — polypectomy of lesions above the referral size threshold *(ASGE 2020)* [[asge-2020-fap]]. The threshold itself and the FAP/[[peutz-jeghers-syndrome|Peutz-Jeghers]] small-bowel surveillance schedules live on [[capsule-endoscopy]].
+- **[[familial-adenomatous-polyposis|Familial adenomatous polyposis (FAP)]]:** balloon enteroscopy is the therapeutic arm for jejunal/ileal polyps detected on capsule endoscopy or magnetic resonance enterography (MRE) — polypectomy of lesions above the referral size threshold *(ASGE 2020)* [[asge-2020-fap]]. The threshold itself and the FAP/[[peutz-jeghers-syndrome|Peutz-Jeghers]] small-bowel surveillance schedules live on [[capsule-endoscopy]].
 
 See [[small-bowel-bleeding]] for full algorithm; total-enteroscopy indications are under [[#Route Selection]].
 
@@ -81,7 +81,7 @@ What makes DAE worth doing rather than repeating imaging — it is the only moda
 - Biopsy and mucosal injection
 - **[[polypectomy]]**
 - **Stricture dilation** (e.g. [[crohns-disease|Crohn's]] strictures within reach)
-- **Hemostasis** — [[argon-plasma-coagulation|APC]], electrocoagulation, hemoclips (used for small-bowel [[angioectasia|angiectasias]])
+- **Hemostasis** — [[argon-plasma-coagulation|argon plasma coagulation (APC)]], electrocoagulation, hemoclips (used for small-bowel [[angioectasia|angiectasias]])
 - **Foreign-body / retained-capsule retrieval**
 
 ---
@@ -90,7 +90,7 @@ What makes DAE worth doing rather than repeating imaging — it is the only moda
 
 | Measure | Rate |
 |---|---|
-| Pooled DE, all indications — **minor** AEs | **9.1%** |
+| Pooled DE, all indications — **minor** adverse events (AEs) | **9.1%** |
 | Pooled DE, all indications — **major** AEs | **0.72%** |
 | DBE, diagnostic only | 0.8% |
 | DBE, with therapeutics | up to **4%** |

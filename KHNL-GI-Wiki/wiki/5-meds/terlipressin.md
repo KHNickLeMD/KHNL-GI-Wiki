@@ -7,7 +7,7 @@ updated: 2026-09-22
 sources: [aasld-2021-ascites-sbp-hrs, aasld-2024-aclf, aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, baveno-viii-2026-portal-hypertension, aasld-2011-alf]
 ---
 
-Synthetic vasopressin analog acting at **V1 receptors**. Splanchnic vasoconstriction → less portal inflow → higher effective arterial blood volume and renal perfusion. Two uses in [[cirrhosis]]: **HRS-AKI** (the drug of choice) and **acute variceal bleeding** (outside the US). FDA-labeled for HRS-AKI only — **not** FDA-approved for variceal hemorrhage.
+Synthetic vasopressin analog acting at **V1 receptors**. Splanchnic vasoconstriction → less portal inflow → higher effective arterial blood volume and renal perfusion. Two uses in [[cirrhosis]]: **hepatorenal syndrome–acute kidney injury (HRS-AKI)** (the drug of choice) and **acute variceal bleeding** (outside the US). FDA-labeled for HRS-AKI only — **not** FDA-approved for variceal hemorrhage.
 
 ## Contents
 - [[#Mechanism]]
@@ -36,28 +36,28 @@ Synthetic vasopressin analog acting at **V1 receptors**. Splanchnic vasoconstric
 
 ### Who Qualifies
 
-Terlipressin is for **HRS-AKI only** — not for other AKI phenotypes in cirrhosis ([[aga-2024-vasoactive-albumin-cirrhosis]] BPA 9). All four gates must be cleared:
+Terlipressin is for **HRS-AKI only** — not for other AKI phenotypes in cirrhosis ([[aga-2024-vasoactive-albumin-cirrhosis]] Best Practice Advice [BPA] 9). All four gates must be cleared:
 
 | Gate | Requirement |
 |---|---|
 | 1. Diagnosis | Full **HRS-AKI diagnostic criteria** met — criteria and the [[aki-in-cirrhosis\|AKI-in-cirrhosis]] differential live on that page |
 | 2. Volume challenge failed | No response after **2 consecutive days** of diuretic withdrawal + [[albumin\|albumin]] **1 g/kg/day** (max 100 g/day) |
-| 3. Precipitants addressed | Diuretics and [[nonselective-beta-blockers\|NSBBs]] held, nephrotoxins stopped, infection treated — [[spontaneous-bacterial-peritonitis\|SBP]] is the commonest precipitant |
-| 4. AKI severity | **Stage 2 or greater** HRS-AKI ([[aasld-2024-aclf]] GS 24–25). **No recommendation exists for vasoconstrictor use in Stage 1 AKI.** [[aga-2022-aki-cirrhosis\|AGA 2022]] frames the same threshold as SCr **>1.5 mg/dL** or **≥2× baseline** persisting despite 2 days of the above |
+| 3. Precipitants addressed | Diuretics and [[nonselective-beta-blockers\|nonselective beta-blockers (NSBBs)]] held, nephrotoxins stopped, infection treated — [[spontaneous-bacterial-peritonitis\|spontaneous bacterial peritonitis (SBP)]] is the commonest precipitant |
+| 4. AKI severity | **Stage 2 or greater** HRS-AKI ([[aasld-2024-aclf]] Guidance Statements [GS] 24–25). **No recommendation exists for vasoconstrictor use in Stage 1 AKI.** [[aga-2022-aki-cirrhosis\|American Gastroenterological Association (AGA) 2022]] frames the same threshold as serum creatinine (SCr) **>1.5 mg/dL** or **≥2× baseline** persisting despite 2 days of the above |
 
-- Start **early** — higher pretreatment creatinine predicts failure, and in [[acute-on-chronic-liver-failure|ACLF]] the ACLF grade is the major determinant of response ([[aasld-2024-aclf]]).
+- Start **early** — higher pretreatment creatinine predicts failure, and in [[acute-on-chronic-liver-failure|acute-on-chronic liver failure (ACLF)]] the ACLF grade is the major determinant of response ([[aasld-2024-aclf]]).
 - Not indicated for uncomplicated [[ascites]], after large-volume paracentesis, or for SBP ([[aga-2024-vasoactive-albumin-cirrhosis]] BPA 7).
 
 ### Dosing
 
 | Route | Starting dose | Escalation | Maximum | Source |
 |---|---|---|---|---|
-| **IV bolus** | **1 mg IV q4–6h** (4–6 mg/day) | To **2 mg q4–6h** (8–12 mg/day) if SCr has not fallen **≥25%** by **day 3** | 12 mg/day | [[aga-2022-aki-cirrhosis\|AGA 2022]] BPA 7 |
+| **Intravenous (IV) bolus** | **1 mg IV q4–6h** (4–6 mg/day) | To **2 mg q4–6h** (8–12 mg/day) if SCr has not fallen **≥25%** by **day 3** | 12 mg/day | [[aga-2022-aki-cirrhosis\|AGA 2022]] BPA 7 |
 | **IV bolus — US FDA-labeled (CONFIRM) schedule** | **1 mg IV q6h** | To **2 mg q6h on day 4** if response insufficient (**<30%** fall in SCr) | 8 mg/day | [[aga-2024-vasoactive-albumin-cirrhosis\|AGA 2024]] |
-| **IV bolus — AASLD 2024** | **0.5–2.0 mg IV q6h** | Increase by response | 12 mg/day, up to 14 days | [[aasld-2024-aclf\|AASLD 2024]] GS 25 |
+| **IV bolus — American Association for the Study of Liver Diseases (AASLD) 2024** | **0.5–2.0 mg IV q6h** | Increase by response | 12 mg/day, up to 14 days | [[aasld-2024-aclf\|AASLD 2024]] GS 25 |
 | **Continuous IV infusion** (preferred route, [[baveno-viii-2026-portal-hypertension\|Baveno VIII]] 6.19) | **2–3 mg/24 h** | Increase **every 24–48 h** until creatinine falls | **12 mg/day** | [[aasld-2021-ascites-sbp-hrs\|AASLD 2021]]; Baveno VIII 6.19 |
 
-- **Route matters for safety, not efficacy.** Continuous infusion achieves the same HRS reversal rate at a **lower total daily dose with fewer side effects**, chiefly fewer ischemic events ([[aasld-2021-ascites-sbp-hrs]], [[aasld-2024-aclf]]). Baveno VIII 6.19 makes infusion the *preferred* route on that basis (LoE 2, strong); the AGA statements and the FDA label still present bolus dosing as standard.
+- **Route matters for safety, not efficacy.** Continuous infusion achieves the same HRS reversal rate at a **lower total daily dose with fewer side effects**, chiefly fewer ischemic events ([[aasld-2021-ascites-sbp-hrs]], [[aasld-2024-aclf]]). Baveno VIII 6.19 makes infusion the *preferred* route on that basis (level of evidence [LoE] 2, strong); the AGA statements and the FDA label still present bolus dosing as standard.
 - [[aasld-2024-aclf]] GS 25 prints the infusion dose as "2 g/24 h"; every other ingested source, including [[aasld-2021-ascites-sbp-hrs]], gives **2 mg/24 h**.
 - Maximum total duration **14 days** in the trials and labels. A few patients with very high pretreatment creatinine need **longer than 14 days** to reach baseline, and some need prolonged infusion to prevent early recurrence after stopping ([[aasld-2021-ascites-sbp-hrs]]).
 
@@ -87,13 +87,13 @@ Terlipressin is always paired with IV [[albumin]] — the vasoconstrictor is nev
 | **Stop for toxicity** | Any ischemic or cardiac symptom — and **do not resume**, even if the symptom resolves ([[aga-2022-aki-cirrhosis]]) |
 | **Recurrence after stopping** | Common; **retreat** ([[aasld-2021-ascites-sbp-hrs]]) |
 
-- Failure of pharmacotherapy in a patient listed or being considered for [[liver-transplantation|LT]] is the trigger for RRT ([[aasld-2024-aclf]] GS 27). Non-responders who are not LT candidates should be referred for palliative care.
+- Failure of pharmacotherapy in a patient listed or being considered for [[liver-transplantation|liver transplantation (LT)]] is the trigger for renal replacement therapy (RRT) ([[aasld-2024-aclf]] GS 27). Non-responders who are not LT candidates should be referred for palliative care.
 - All patients with cirrhosis and AKI should be considered for **urgent LT evaluation** regardless of response — short-term mortality is high even in responders.
-- **MELD paradox:** successful reversal lowers creatinine and therefore MELD, reducing transplant priority. Treatment should not be withheld for this reason; post-LT outcomes are better in those who received vasoconstrictors.
+- **Model for End-Stage Liver Disease (MELD) paradox:** successful reversal lowers creatinine and therefore MELD, reducing transplant priority. Treatment should not be withheld for this reason; post-LT outcomes are better in those who received vasoconstrictors.
 
 ### Efficacy and Response Predictors
 
-- HRS-1 reversal **36–44%** across four bolus-terlipressin RCTs; vasoconstrictor + albumin overall gives **20–80%** response (average ~50%).
+- HRS type 1 (HRS-1) reversal **36–44%** across four bolus-terlipressin randomized controlled trials (RCTs); vasoconstrictor + albumin overall gives **20–80%** response (average ~50%).
 - **CONFIRM** (North America): HRS reversal with 10-day RRT-free survival **29.1% vs 15.8%** on placebo (*P* = 0.012).
 - **No trial has shown an overall survival benefit**, but complete reversal is associated with significantly better survival than non-response, and every **1 mg/dL fall in creatinine** on vasoconstrictor therapy carries a **27% relative reduction in mortality**.
 
@@ -101,7 +101,7 @@ Terlipressin is always paired with IV [[albumin]] — the vasoconstrictor is nev
 
 - Bilirubin **≤10 mg/dL** (170 µmol/L)
 - Serum creatinine **≤5 mg/dL** (440 µmol/L)
-- MAP rise **≥5 mm Hg** on treatment (AGA 2022 gives a sustained rise of 5–10 mmHg)
+- Mean arterial pressure (MAP) rise **≥5 mm Hg** on treatment (AGA 2022 gives a sustained rise of 5–10 mmHg)
 - **Lower ACLF grade** — ACLF-2 and ACLF-3 carry a lower probability of response
 
 ### Choosing Between Vasoconstrictors
@@ -109,13 +109,13 @@ Terlipressin is always paired with IV [[albumin]] — the vasoconstrictor is nev
 | Situation | Agent |
 |---|---|
 | HRS-AKI, no contraindication | **Terlipressin + albumin** — drug of choice ([[aga-2024-vasoactive-albumin-cirrhosis]] BPA 10; [[baveno-viii-2026-portal-hypertension\|Baveno VIII]] 6.18) |
-| Terlipressin unavailable, contraindicated, or not tolerated | **Norepinephrine** (Baveno VIII 6.20); start 0.5 mg/h IV, +0.5 mg/h q4h, max 3 mg/h — requires ICU |
+| Terlipressin unavailable, contraindicated, or not tolerated | **Norepinephrine** (Baveno VIII 6.20); start 0.5 mg/h IV, +0.5 mg/h q4h, max 3 mg/h — requires intensive care unit (ICU) |
 | **Shock** | **Norepinephrine preferred** ([[aasld-2024-aclf]] GS 26) |
 | **ACLF-3** | Terlipressin excluded — use norepinephrine |
-| Neither available, or no monitored bed | **Midodrine + [[somatostatin-analogs\|octreotide]]** — midodrine 5–15 mg PO q8h with octreotide 100–200 µg q8h or 50 µg/h IV; efficacy is **much lower** and it is inferior to continuous-infusion terlipressin, but it can be given in a non-monitored setting |
+| Neither available, or no monitored bed | **Midodrine + [[somatostatin-analogs\|octreotide]]** — midodrine 5–15 mg orally (PO) q8h with octreotide 100–200 µg q8h or 50 µg/h IV; efficacy is **much lower** and it is inferior to continuous-infusion terlipressin, but it can be given in a non-monitored setting |
 
-- Head-to-head, terlipressin is non-inferior to norepinephrine for HRS reversal; in **ACLF (APASL/AARC definition)** terlipressin was **more effective than norepinephrine** for HRS-1 reversal and 28-day survival ([[aasld-2024-aclf]]). The comparative trials were small and at high risk of methodological bias.
-- [[tips|TIPS]] is **not** recommended for HRS-AKI.
+- Head-to-head, terlipressin is non-inferior to norepinephrine for HRS reversal; in **ACLF (Asian Pacific Association for the Study of the Liver [APASL]/APASL ACLF Research Consortium [AARC] definition)** terlipressin was **more effective than norepinephrine** for HRS-1 reversal and 28-day survival ([[aasld-2024-aclf]]). The comparative trials were small and at high risk of methodological bias.
+- [[tips|transjugular intrahepatic portosystemic shunt (TIPS)]] is **not** recommended for HRS-AKI.
 
 ## Acute Variceal and Portal Hypertensive Bleeding
 
@@ -143,7 +143,7 @@ In [[acute-liver-failure]], vasopressin or terlipressin **can be added to norepi
 
 | Status | Condition |
 |---|---|
-| **Contraindicated** | **ACLF-3** by EASL-CLIF criteria (≥3 organ failures) — [[aasld-2024-aclf]] GS 25; the FDA warning covers ACLF-3 with respiratory failure. Grade definitions on [[acute-on-chronic-liver-failure]] |
+| **Contraindicated** | **ACLF-3** by European Association for the Study of the Liver–Chronic Liver Failure (EASL-CLIF) criteria (≥3 organ failures) — [[aasld-2024-aclf]] GS 25; the FDA warning covers ACLF-3 with respiratory failure. Grade definitions on [[acute-on-chronic-liver-failure]] |
 | **Contraindicated** | **Hypoxemia** / O₂ saturation **<90%** |
 | **Contraindicated** | Ongoing **coronary, peripheral, or mesenteric ischemia**; any known ischemic condition |
 | **Contraindicated** | **Major cardiopulmonary or vascular disease** (GS 25); FDA label excludes SCr **≥5 mg/dL** |
@@ -170,7 +170,7 @@ In [[acute-liver-failure]], vasopressin or terlipressin **can be added to norepi
 | [[aasld-2024-aclf\|AASLD 2024]] | 8% | 0% on placebo; occurred **only** in patients with ACLF-3 by EASL-CLIF |
 
 - Proposed mechanism: increased afterload on a subtly cirrhotic cardiomyopathic heart (diastolic dysfunction) and/or volume overload from overly aggressive albumin infusion.
-- Risk associated with higher baseline INR, MAP, and O₂ saturation.
+- Risk associated with higher baseline international normalized ratio (INR), MAP, and O₂ saturation.
 
 **Other:** pulmonary edema (largely from the co-administered albumin); **hyponatremia**, notably in preserved liver function.
 
@@ -180,7 +180,7 @@ In [[acute-liver-failure]], vasopressin or terlipressin **can be added to norepi
 - FDA label suggests **continuous pulse oximetry**; AGA 2024 accepts **vital signs including pulse oximetry every 2–4 h** as a substitute.
 - **Daily serum creatinine** to stage response and drive escalation/stop decisions.
 - **Do not start or continue if SpO₂ <90%.**
-- ECG/cardiac monitoring while on therapy; monitor **serum sodium**.
+- Electrocardiogram (ECG)/cardiac monitoring while on therapy; monitor **serum sodium**.
 - Fluid-status assessment at least daily for pulmonary edema.
 - Decisions about starting vasoconstrictors and RRT are best made by a multidisciplinary team (hepatology, nephrology, critical care, transplant surgery).
 

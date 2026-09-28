@@ -231,7 +231,7 @@ flowchart TD
 
 - **Long-term anticoagulation follows the same risk-factor stratification as recent PVT** (9.10) — see the flowchart above. This replaces the separate Baveno VII 8.45 rule for past PVT/cavernoma
 - **Portal vein flow restoration should be considered** in chronic PVT, with or without cavernoma, in patients with **recurrent complications of portal hypertension** or **symptomatic portal cavernoma cholangiopathy** (9.15). Techniques for chronic PVT are **angioplasty ± stenting and/or [[tips|TIPS]]** (thrombolysis and thrombectomy are for acute/recent PVT); feasibility depends on the age and extent of thrombosis and on local expertise (9.12). **TIPS is specifically included where intrahepatic resistance is increased** — [[porto-sinusoidal-vascular-disorder|PSVD/NCPF]], or PVT extending into the intrahepatic branches (9.13)
-- **Variceal screening and prophylaxis:** EGD at diagnosis, then 12 months and every 2 years if no high-risk varices; **SSM <40 kPa spares endoscopy** (9.11). Acute portal-hypertensive bleeding and secondary prophylaxis are handled **as in cirrhosis** (8.12); no evidence favours EVL over NSBB for primary prophylaxis in vascular liver disease, and evidence is insufficient to prefer carvedilol over other conventional NSBBs (8.8–8.9). TIPS for refractory or recurrent portal-hypertensive bleeding (8.13); **no data support pre-emptive TIPS in vascular liver disease** (8.14)
+- **Variceal screening and prophylaxis:** esophagogastroduodenoscopy (EGD) at diagnosis, then 12 months and every 2 years if no high-risk varices; **SSM <40 kPa spares endoscopy** (9.11). Acute portal-hypertensive bleeding and secondary prophylaxis are handled **as in cirrhosis** (8.12); no evidence favours EVL over NSBB for primary prophylaxis in vascular liver disease, and evidence is insufficient to prefer carvedilol over other conventional NSBBs (8.8–8.9). TIPS for refractory or recurrent portal-hypertensive bleeding (8.13); **no data support pre-emptive TIPS in vascular liver disease** (8.14)
 - **Band ligation can be performed without withdrawing LMWH or vitamin K antagonists**; **data are lacking for DOACs** (8.11)
 - **Meso-Rex bypass** should be considered in children with complications of portal cavernoma — see [[#Paediatric PVT]]
 
@@ -257,7 +257,7 @@ flowchart TD
 - **Do not defer AC for variceal screening** — screen/treat varices per usual; NSBB or variceal ligation may proceed on AC (BPA 8).
 - **Monitoring (BPA 10):** reimage every 3 months. If clot regresses, continue AC until transplant or clot resolution (nontransplant); **discontinue for futility in nonresponders after 6 months**. Recurrence after withdrawal up to 38% (2–5 months) → continue AC after resolution in transplant-listed patients. Platelet count **<50 × 10⁹/L** carries bleeding risk (individualize; thromboelastography a promising tool).
 
-**Preferred agents in cirrhosis** — VKA, LMWH, and DOACs are all reasonable; individualize by **Child-Turcotte-Pugh (CTP) class** (BPA 9) [[aga-2025-pvt-cirrhosis]]:
+**Preferred agents in cirrhosis** — VKA, LMWH, and DOACs are all reasonable; individualize by **CTP class** (BPA 9) [[aga-2025-pvt-cirrhosis]]:
 
 | Agent | CTP class A | CTP class B | CTP class C |
 |---|---|---|---|
