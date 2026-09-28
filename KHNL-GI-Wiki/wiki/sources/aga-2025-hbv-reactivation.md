@@ -16,13 +16,13 @@ sources: []
 - **Year:** 2025
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
 - **DOI:** [10.1053/j.gastro.2024.11.008](https://doi.org/10.1053/j.gastro.2024.11.008)
-- **Type:** GRADE-based guideline
+- **Type:** Grading of Recommendations Assessment, Development and Evaluation (GRADE)-based guideline
 
 ---
 
 ## Summary
 
-This AGA guideline frames hepatitis B virus reactivation (HBVr) risk in patients starting immunosuppressive/immunomodulatory therapy as a **risk-stratified** decision between **antiviral prophylaxis** and **monitoring alone**. Risk depends on serologic status (HBsAg-positive vs anti-HBc–positive/HBsAg-negative) and the immunosuppressive agent (e.g., **rituximab** and B-cell–depleting agents confer the highest risk). Builds on baseline screening and links conceptually to [[chronic-hepatitis-b]] management.
+This American Gastroenterological Association (AGA) guideline frames hepatitis B virus reactivation (HBVr) risk in patients starting immunosuppressive/immunomodulatory therapy as a **risk-stratified** decision between **antiviral prophylaxis** and **monitoring alone**. Risk depends on serologic status (hepatitis B surface antigen [HBsAg]-positive vs antibody to hepatitis B core antigen [anti-HBc]–positive/HBsAg-negative) and the immunosuppressive agent (e.g., **rituximab** and B-cell–depleting agents confer the highest risk). Builds on baseline screening and links conceptually to [[chronic-hepatitis-b]] management.
 
 ---
 
@@ -31,7 +31,7 @@ This AGA guideline frames hepatitis B virus reactivation (HBVr) risk in patients
 - **Rec 1 (Strong):** For **high-risk** patients (anticipated HBVr **>10%**), use **antiviral prophylaxis** over monitoring alone — start *before* immunosuppression begins.
 - **Rec 2 (Conditional):** For **moderate-risk** (HBVr **1–10%**), the AGA *suggests* antiviral prophylaxis over monitoring alone; shared decision-making, as some patients may reasonably choose monitoring.
 - **Rec 3 (Conditional):** For **low-risk** (HBVr **<1%**), the AGA *suggests* **monitoring alone** over routine prophylaxis.
-- **Rec 4 (Strong):** For all at-risk individuals, **test for hepatitis B** (HBsAg, anti-HBc, ± anti-HBs) before immunosuppression.
+- **Rec 4 (Strong):** For all at-risk individuals, **test for hepatitis B** (HBsAg, anti-HBc, ± antibody to hepatitis B surface antigen [anti-HBs]) before immunosuppression.
 
 **Risk thresholds:** low <1%, moderate 1–10%, high >10% — determined jointly by serology and the immunosuppressive regimen.
 

@@ -17,13 +17,13 @@ sources: []
 
 ## Summary
 
-AGA Institute guideline setting evidence-based standards for **biopsy of normal-appearing mucosa** during EGD performed for dyspepsia. It answers a narrow but very common question: the endoscopist has intubated for dyspepsia, the mucosa looks normal — which segments, if any, should be biopsied? Before this document there were no standards, and the guideline's own framing is that practice variation was wide and the management value of such biopsies poorly understood.
+American Gastroenterological Association (AGA) Institute guideline setting evidence-based standards for **biopsy of normal-appearing mucosa** during esophagogastroduodenoscopy (EGD) performed for dyspepsia. It answers a narrow but very common question: the endoscopist has intubated for dyspepsia, the mucosa looks normal — which segments, if any, should be biopsied? Before this document there were no standards, and the guideline's own framing is that practice variation was wide and the management value of such biopsies poorly understood.
 
 The scope is deliberately tight, and every statement inherits it. Patients are **adults (older than 18 years)** undergoing **EGD with dyspepsia as the sole indication**, with **no visible mucosal lesions**. Dyspepsia is defined by **Rome III criteria** — one or more of bothersome postprandial fullness, early satiation, epigastric pain, epigastric burning. The guideline **assumes no prior treatment for *Helicobacter pylori***. Applying any statement outside that frame is outside what the document supports.
 
-Developed with **GRADE** methodology alongside a companion technical review (Allen et al., *Gastroenterology* 2015;149:1088–1118) whose author panel included a gastrointestinal pathologist. The panel notes explicitly that evidence quality was not the only input: cost, economic value, patient preference and the comparison of benefits against harms all shaped the ratings — which is why two of the three Strong recommendations rest on **very low quality evidence**. The panel also flags that the recommendations derive primarily from evidence in **Western populations**, and that certain non-Western populations may carry high enough risk of upper GI abnormality to warrant a risk-tailored approach.
+Developed with **Grading of Recommendations Assessment, Development and Evaluation (GRADE)** methodology alongside a companion technical review (Allen et al., *Gastroenterology* 2015;149:1088–1118) whose author panel included a gastrointestinal pathologist. The panel notes explicitly that evidence quality was not the only input: cost, economic value, patient preference and the comparison of benefits against harms all shaped the ratings — which is why two of the three Strong recommendations rest on **very low quality evidence**. The panel also flags that the recommendations derive primarily from evidence in **Western populations**, and that certain non-Western populations may carry high enough risk of upper gastrointestinal (GI) abnormality to warrant a risk-tailored approach.
 
-The net practical result is a three-segment split: **do not** biopsy the normal esophagus or GE junction; **do** biopsy the normal gastric body and antrum for *H. pylori* when status is unknown; **do not** routinely biopsy the normal duodenum for celiac disease absent other risk features — with the immunocompromised duodenum the one exception. Special staining is discouraged in both stomach and duodenum as a routine reflex.
+The net practical result is a three-segment split: **do not** biopsy the normal esophagus or gastroesophageal (GE) junction; **do** biopsy the normal gastric body and antrum for *H. pylori* when status is unknown; **do not** routinely biopsy the normal duodenum for celiac disease absent other risk features — with the immunocompromised duodenum the one exception. Special staining is discouraged in both stomach and duodenum as a routine reflex.
 
 ## Key Findings / Claims
 
@@ -37,7 +37,7 @@ The document presents **8 numbered statements**, each carrying a strength of rec
 
 **Stomach**
 
-2. "In immunocompetent patients undergoing EGD for dyspepsia as the sole indication, the AGA recommends obtaining routine biopsies of the normal-appearing gastric body and antrum for the detection of HP infection if the HP infection status is unknown." *(Strong recommendation, moderate quality evidence)*
+2. "In immunocompetent patients undergoing EGD for dyspepsia as the sole indication, the AGA recommends obtaining routine biopsies of the normal-appearing gastric body and antrum for the detection of HP [*Helicobacter pylori*] infection if the HP infection status is unknown." *(Strong recommendation, moderate quality evidence)*
 
 3. "In immunocompromised patients undergoing EGD for dyspepsia as the sole indication, the AGA recommends obtaining routine biopsies of the normal-appearing gastric body and antrum for the detection of HP infection if the HP infection status is unknown." *(Strong recommendation, very low quality evidence)*
 
@@ -49,7 +49,7 @@ The document presents **8 numbered statements**, each carrying a strength of rec
 
 6. "In patients undergoing EGD for dyspepsia as the sole indication, and in the absence of other signs or symptoms associated with an increased risk of celiac disease, the AGA suggests not obtaining routine biopsies of the normal-appearing duodenum to detect celiac disease." *(Conditional recommendation; very low quality evidence)*
 
-7. "In immunocompromised patients undergoing EGD for dyspepsia as the sole indication, the AGA suggests obtaining routine biopsies of the normal-appearing duodenum for the detection of GVHD in post–allogeneic tissue transplantation patients and for opportunistic infections." *(Conditional recommendation; very low quality evidence)*
+7. "In immunocompromised patients undergoing EGD for dyspepsia as the sole indication, the AGA suggests obtaining routine biopsies of the normal-appearing duodenum for the detection of GVHD [graft-versus-host disease] in post–allogeneic tissue transplantation patients and for opportunistic infections." *(Conditional recommendation; very low quality evidence)*
 
 8. "When biopsies are obtained from the normal-appearing duodenum, the AGA suggests not performing routine special staining of the specimens." *(Conditional recommendation; very low quality evidence)*
 
@@ -88,7 +88,7 @@ All specimens go **in the same jar** — experienced GI pathologists can determi
 
 ### Why not the esophagus / GE junction
 - Very-low-quality, indirect evidence: routine biopsy of normal esophagus or GE junction in dyspepsia alone has very low probability of diagnosing esophageal abnormalities or little impact on management.
-- Microscopic changes seen in GERD have **limited specificity** to distinguish true GERD from functional heartburn or healthy controls; such biopsy-based histologic changes are **insufficiently validated** to guide management.
+- Microscopic changes seen in gastroesophageal reflux disease (GERD) have **limited specificity** to distinguish true GERD from functional heartburn or healthy controls; such biopsy-based histologic changes are **insufficiently validated** to guide management.
 - A single cohort of **86 patients** with intestinal metaplasia of the cardia diagnosed by biopsy of normal-appearing GE junction: the finding had **no potential for malignant progression** and was of unclear clinical importance; it is also unreliably demonstrated on follow-up biopsies.
 - Among patients with **lymphocytic esophagitis**, the proportion with dyspepsia as the sole symptom is extremely small, and prevalence of the condition is very low.
 - Among adults with **eosinophilic esophagitis or esophageal cancer**, the proportion with both normal-appearing esophagus and dyspepsia as the sole symptom is very low.
@@ -99,14 +99,14 @@ All specimens go **in the same jar** — experienced GI pathologists can determi
 ### Why biopsy the stomach
 - HP infection can be present with a **normal-appearing stomach**, and finding HP is important for management decisions.
 - Very-low-quality indirect evidence suggests the prevalence of HP among patients with functional dyspepsia could be substantial.
-- Moderate-quality RCT data: testing and eradicating HP led to significant symptomatic relief in functional dyspepsia.
+- Moderate-quality randomized controlled trial (RCT) data: testing and eradicating HP led to significant symptomatic relief in functional dyspepsia.
 - Moderate- to low-quality meta-analysis of observational data: test-and-treat for HP was associated with **reduced incidence of gastric cancer**; absolute risk reduction varied by patient characteristics (country of origin, family history), but a clinically important benefit was present for all populations including Western ones.
 - **The recommendation does not apply when HP status is already known** — the assumed benefit would not be present.
 - In the immunocompromised, very-low-quality evidence from small case series and anecdotal experience raises the possibility of **cytomegalovirus** infection in normal-appearing gastric mucosa; there is no evidence that the risk-to-benefit of testing and treating HP differs by immune status.
 
 ### Why not routine special staining
 - **Stomach:** HP infection is almost always found in the context of chronic inflammation. With the 5-biopsy updated Sydney protocol (antrum, incisura, body), the majority of HP infection can be identified by experienced pathologists on **hematoxylin and eosin (H&E)** stains. Where HP is **not identified on H&E in the presence of chronic gastritis**, immunohistochemistry or other special staining will be considered at the pathologists' discretion.
-- **Duodenum:** **CD3** (T-cell marker) immunohistochemistry has been used to highlight intraepithelial T cells for counting intraepithelial lymphocyte-to-enterocyte ratios, but studies using H&E show results similar to those using CD3 stains. Advanced staining can be considered at the discretion of experienced pathologists in rare situations — the document's example is **CD3 immunohistochemistry in suspected celiac disease with normal villous architecture**.
+- **Duodenum:** **CD3** (T-cell marker) immunohistochemistry has been used to highlight intraepithelial T cells for counting intraepithelial lymphocyte-to-enterocyte ratios, but studies using hematoxylin and eosin (H&E) show results similar to those using CD3 stains. Advanced staining can be considered at the discretion of experienced pathologists in rare situations — the document's example is **CD3 immunohistochemistry in suspected celiac disease with normal villous architecture**.
 
 ### Why not routine duodenal biopsy for celiac disease
 - Based on very-low-quality evidence, the prevalence of **biopsy-proven celiac disease among patients with dyspepsia is not significantly different** from that in the US general population, in which screening for celiac disease is not recommended.

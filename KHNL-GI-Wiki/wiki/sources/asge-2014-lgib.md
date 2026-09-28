@@ -18,21 +18,21 @@ sources: []
 
 ## Summary
 
-ASGE Standards of Practice guideline on endoscopy in lower GI bleeding (LGIB), spanning occult bleeding, chronic scant hematochezia, melena, and severe acute hematochezia. **Colonoscopy** is the test of choice for occult bleeding and for chronic intermittent scant hematochezia in patients >50 or with iron-deficiency anemia/neoplasia risk/alarm features; EGD is added when no colonic source is found or upper symptoms/IDA/NSAID use are present. For melena or severe hematochezia with hemodynamic instability, an **initial EGD** excludes a high-risk upper source before colonoscopy. In severe hematochezia, **colonoscopy within 24 hours after rapid bowel preparation** is suggested. Endoscopic hemostasis is detailed for diverticular bleeding (epinephrine injection + thermal coagulation or clips; clip/tattoo for relocalization) and angioectasias (APC preferred). Severe hematochezia that cannot be stabilized or where endoscopy fails warrants surgical/radiologic (angiographic embolization) consultation.
+American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice guideline on endoscopy in lower gastrointestinal (GI) bleeding (LGIB), spanning occult bleeding, chronic scant hematochezia, melena, and severe acute hematochezia. **Colonoscopy** is the test of choice for occult bleeding and for chronic intermittent scant hematochezia in patients >50 or with iron-deficiency anemia/neoplasia risk/alarm features; esophagogastroduodenoscopy (EGD) is added when no colonic source is found or upper symptoms/iron-deficiency anemia (IDA)/nonsteroidal anti-inflammatory drug (NSAID) use are present. For melena or severe hematochezia with hemodynamic instability, an **initial EGD** excludes a high-risk upper source before colonoscopy. In severe hematochezia, **colonoscopy within 24 hours after rapid bowel preparation** is suggested. Endoscopic hemostasis is detailed for diverticular bleeding (epinephrine injection + thermal coagulation or clips; clip/tattoo for relocalization) and angioectasias (argon plasma coagulation [APC] preferred). Severe hematochezia that cannot be stabilized or where endoscopy fails warrants surgical/radiologic (angiographic embolization) consultation.
 
-Largely corroborates the newer [[acg-2023-lgib|ACG 2023]] LGIB guideline (added here as a complementary endoscopic-technique source; newer ACG risk-stratification and timing content is retained).
+Largely corroborates the newer [[acg-2023-lgib|American College of Gastroenterology (ACG) 2023]] LGIB guideline (added here as a complementary endoscopic-technique source; newer ACG risk-stratification and timing content is retained).
 
 ## Key Findings / Claims
 
 - Colonoscopy is first-line for occult GI bleeding and chronic scant hematochezia in higher-risk patients.
 - EGD complements colonoscopy when the colon is non-diagnostic, especially with upper symptoms, IDA, or NSAID use.
-- Younger patients with scant hematochezia and no alarm features: DRE + flexible sigmoidoscopy may suffice.
+- Younger patients with scant hematochezia and no alarm features: digital rectal examination (DRE) + flexible sigmoidoscopy may suffice.
 - Melena → EGD first, then colonoscopy if EGD negative.
 - Severe hematochezia + hemodynamic instability → initial EGD to exclude high-risk upper lesion, then colonoscopy.
 - Severe hematochezia → colonoscopy within 24 h after rapid bowel prep.
 - Diverticular bleeding: epinephrine injection + thermal coagulation or clip placement; place clip/tattoo adjacent for future localization.
 - Angioectasia bleeding: APC is the preferred endoscopic treatment.
-- Multidetector CT/CTA has largely replaced nuclear RBC scan for localizing severe LGIB; superselective embolization achieves ~85% hemostasis in diverticular bleeding (early rebleed ~22%).
+- Multidetector computed tomography (CT)/CT angiography (CTA) has largely replaced nuclear red blood cell (RBC) scan for localizing severe LGIB; superselective embolization achieves ~85% hemostasis in diverticular bleeding (early rebleed ~22%).
 - Unstable or endoscopy-refractory severe hematochezia → surgical + radiologic consultation; elective surgery preferred (lower mortality than emergent).
 
 ## Recommendations (verbatim)

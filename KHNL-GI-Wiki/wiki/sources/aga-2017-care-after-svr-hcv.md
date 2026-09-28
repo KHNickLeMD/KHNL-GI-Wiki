@@ -19,11 +19,11 @@ sources: []
 
 ## Summary
 
-Answers the question that begins the day a patient is cured: **who stays in follow-up, who is discharged, with which tests, how often, and for how long.** SVR after all-oral DAA therapy is virologic cure — late relapse in the absence of reinfection occurs in <1% (0.2–0.5% in the two largest series) — but cure reduces risk **relatively, not absolutely**. Liver damage already accrued before SVR continues to carry risk, and the dominant residual risk is **HCC**.
+Answers the question that begins the day a patient is cured: **who stays in follow-up, who is discharged, with which tests, how often, and for how long.** Sustained virologic response (SVR) after all-oral direct-acting antiviral (DAA) therapy is virologic cure — late relapse in the absence of reinfection occurs in <1% (0.2–0.5% in the two largest series) — but cure reduces risk **relatively, not absolutely**. Liver damage already accrued before SVR continues to carry risk, and the dominant residual risk is **hepatocellular carcinoma (HCC)**.
 
 The organizing variable throughout is **pretreatment fibrosis stage**. Stage F3 or cirrhosis → indefinite twice-yearly HCC surveillance and variceal screening. Stages F0–F2 → no HCC surveillance. The update explicitly rejects two intuitive moves: **intensifying** screening in the immediate post-SVR window, and **relaxing or stopping** it when noninvasive fibrosis measures improve. No elastography score, and no serum fibrosis index, has been shown to identify a post-SVR patient whose HCC risk has fallen far enough to stop surveillance — the update's central negative finding.
 
-Varices are handled more permissively than HCC, because SVR genuinely reduces portal pressure in compensated (Child-Pugh A) disease: in one 11-year series, **0 of 34 SVR patients developed de novo varices** vs 39% of nonresponders. Initial screening endoscopy is still indicated in all cirrhotics regardless of SVR, but if no varices are found at the 2–3 year repeat and there is no other progressive liver disease, screening can be stopped on an individual basis. The Baveno VI criteria (TE <20 kPa **and** platelets >150,000/µL) are **not** endorsed for post-SVR patients — the update says the supporting data do not exist in this population and the cutoffs should be applied with caution.
+Varices are handled more permissively than HCC, because SVR genuinely reduces portal pressure in compensated (Child-Pugh A) disease: in one 11-year series, **0 of 34 SVR patients developed de novo varices** vs 39% of nonresponders. Initial screening endoscopy is still indicated in all cirrhotics regardless of SVR, but if no varices are found at the 2–3 year repeat and there is no other progressive liver disease, screening can be stopped on an individual basis. The Baveno VI criteria (transient elastography [TE] <20 kPa **and** platelets >150,000/µL) are **not** endorsed for post-SVR patients — the update says the supporting data do not exist in this population and the cutoffs should be applied with caution.
 
 The 2016 alarm over accelerated **recurrent** HCC after DAA therapy is reviewed and not accepted: two small series reported 28–29% recurrence in previously-treated HCC, but three ANRS cohorts found no excess. The update concludes there is insufficient evidence either to change surveillance strategy or to withhold DAA therapy after locoregional HCC treatment.
 
@@ -33,14 +33,14 @@ The 2016 alarm over accelerated **recurrent** HCC after DAA therapy is reviewed 
 
 ### Best Practice Advice statements (verbatim, as numbered in Table 1)
 
-*The document labels these "Best practice advice (BPA) statements" and numbers them BPA 1–11. It assigns **no** GRADE ratings or strength-of-recommendation labels — the Methods state the advice is based on published evidence "and incorporate expert opinion where applicable."*
+*The document labels these "Best practice advice (BPA) statements" and numbers them BPA 1–11. It assigns **no** Grading of Recommendations Assessment, Development and Evaluation (GRADE) ratings or strength-of-recommendation labels — the Methods state the advice is based on published evidence "and incorporate expert opinion where applicable."*
 
 | # | Statement |
 |---|---|
-| BPA 1 | SVR should be confirmed by undetectable HCV RNA at 12 wk after completion of an all-oral DAA treatment regimen. |
+| BPA 1 | SVR should be confirmed by undetectable HCV [hepatitis C virus] RNA at 12 wk after completion of an all-oral DAA treatment regimen. |
 | BPA 2 | Routine confirmation of SVR at 48 wk post end of treatment is recommended. Testing for HCV RNA at 24 wk post treatment should be considered on an individual patient basis. |
 | BPA 3 | Routine testing for HCV RNA beyond 48 wk after end of treatment to evaluate for late virologic relapse is not supported by available evidence; periodic testing for HCV RNA is recommended for patients with ongoing risk factors for reinfection. |
-| BPA 4 | Surveillance for HCC with liver imaging ± serum AFP should be pursued twice annually for an indefinite duration in all patients with stage 3 fibrosis or liver cirrhosis post-SVR. |
+| BPA 4 | Surveillance for HCC with liver imaging ± serum AFP [alpha-fetoprotein] should be pursued twice annually for an indefinite duration in all patients with stage 3 fibrosis or liver cirrhosis post-SVR. |
 | BPA 5 | Surveillance for HCC is not recommended for patients with stages 0–2 fibrosis post-SVR. |
 | BPA 6 | Intensification of HCC screening frequency in the immediate post-SVR context is not currently recommended. |
 | BPA 7 | Initial endoscopic screening for esophagogastric varices is recommended for all patients with liver cirrhosis, independent of SVR. |
@@ -50,23 +50,23 @@ The 2016 alarm over accelerated **recurrent** HCC after DAA therapy is reviewed 
 | BPA 11 | Patients who have achieved SVR should be counseled regarding sources of liver injury, which can independently contribute to liver fibrosis progression, including alcohol, fatty liver, and other potential hepatotoxins, and should be evaluated for these and other sources of liver injury if serum levels of liver enzymes are elevated. |
 
 ### Definitions and thresholds
-- **SVR12** = undetectable HCV RNA 12 wk after completion of treatment, on a highly sensitive PCR assay, **lower limit of detection <12 IU/mL**.
+- **SVR12** = undetectable HCV RNA 12 wk after completion of treatment, on a highly sensitive polymerase chain reaction (PCR) assay, **lower limit of detection <12 IU/mL**.
 - Late relapse (true relapse, not reinfection) after SVR12: **0.5%** (5/1054, paritaprevir/ritonavir/ombitasvir + dasabuvir; 3 by wk 24, 1 by wk 48, all genotype 1a) and **0.2%** (5/3004, sofosbuvir-containing).
 - HCC surveillance interval: **every 6 months** (twice annually), liver imaging **± AFP** — AFP is adjunctive or optional, not required.
-- Imaging modality: **ultrasound** is the recommended modality. CT and MRI have better sensitivity for small HCC; consider cross-sectional imaging where US is limited — **obesity, "indeterminate" lesions, inadequate parenchymal visualization**.
+- Imaging modality: **ultrasound (US)** is the recommended modality. Computed tomography (CT) and magnetic resonance imaging (MRI) have better sensitivity for small HCC; consider cross-sectional imaging where US is limited — **obesity, "indeterminate" lesions, inadequate parenchymal visualization**.
 - Fibrosis stage driving the decision is the **pretreatment** stage: F3/F4 → surveil; F0–F2 → do not.
 
 ### The evidence behind the fibrosis cut
 - HCC in HCV cirrhosis: **1%–4% per year**.
-- SVR reduces HCC risk: pooled RR **0.24** (95% CI 0.18–0.31) across 12 studies/>25,000 patients; HR **0.23** (95% CI 0.16–0.35) in advanced fibrosis.
-- Residual risk persists and does not plateau: 10-y cumulative HCC **5.1%** with SVR vs 21.8% without (advanced fibrosis, median 8.4 y). In a Japanese IFN cohort, cumulative HCC after SVR **3.1% / 10.1% / 15.9% at 5 / 10 / 15 y** — risk continued to rise through 15 years, which is why surveillance is indefinite.
+- SVR reduces HCC risk: pooled relative risk (RR) **0.24** (95% confidence interval [CI] 0.18–0.31) across 12 studies/>25,000 patients; hazard ratio (HR) **0.23** (95% CI 0.16–0.35) in advanced fibrosis.
+- Residual risk persists and does not plateau: 10-y cumulative HCC **5.1%** with SVR vs 21.8% without (advanced fibrosis, median 8.4 y). In a Japanese interferon (IFN) cohort, cumulative HCC after SVR **3.1% / 10.1% / 15.9% at 5 / 10 / 15 y** — risk continued to rise through 15 years, which is why surveillance is indefinite.
 - Post-SVR HCC rate in cirrhosis, US Veterans Affairs: **1.39% per year**. Multivariate risk factors: cure after **age >55**, diabetes, genotype 3, alcohol use, Hispanic ethnicity.
-- HCC does occur in F0–F2 post-SVR, but rarely (Ikeda: 12/706 [1.7%] with F1/2, incidence 0.27–0.47/100 person-years, vs 10/267 [3.7%] with F3/4, 0.62–1.31/100 person-years) — judged too low to warrant routine screening, with the caveat that concomitant MASLD/alcohol may explain some cases.
+- HCC does occur in F0–F2 post-SVR, but rarely (Ikeda: 12/706 [1.7%] with F1/2, incidence 0.27–0.47/100 person-years, vs 10/267 [3.7%] with F3/4, 0.62–1.31/100 person-years) — judged too low to warrant routine screening, with the caveat that concomitant metabolic dysfunction–associated steatotic liver disease (MASLD)/alcohol may explain some cases.
 
 ### Why improved elastography does not permit stopping surveillance
 - Early post-treatment stiffness decline largely reflects **resolution of necroinflammation, not fibrosis regression** — scores fall transiently even in IFN nonresponders.
 - TE for F4 after SVR: **61% sensitivity, 95% specificity** (19/20 with biopsy-proven cirrhosis regression had TE <12 kPa, but so did 5/13 with persistent cirrhosis).
-- In 341 confirmed HCV cirrhotics, TE was **<12.5 kPa in three-quarters** of those with SVR; AUROC for HCC only **0.66**; 2 of 4 patients who developed HCC had post-SVR TE <12 kPa.
+- In 341 confirmed HCV cirrhotics, TE was **<12.5 kPa in three-quarters** of those with SVR; area under the receiver operating characteristic curve (AUROC) for HCC only **0.66**; 2 of 4 patients who developed HCC had post-SVR TE <12 kPa.
 - Conclusion: **no elastography score below which HCC risk can be excluded.** Twice-yearly imaging continues indefinitely for anyone with pretreatment advanced fibrosis or cirrhosis.
 
 ### Varices after SVR — the proposed practical approach
@@ -107,7 +107,7 @@ Four scenarios, by what the prior endoscopy showed:
 ---
 
 ## Contradictions / Open Questions
-- **vs AASLD/IDSA HCV guidance (2016, cited in this document):** that guidance suggested no further HCV RNA testing after SVR12 and discharge from follow-up for Metavir F0–F2. This update **adds a routine 48-wk confirmation** (BPA 2) on the basis of documented late relapse. The wiki follows [[aasld-idsa-2023-hcv]] where the two differ on treatment, but on post-SVR monitoring cadence this 2017 update is the more specific source; check the 2023 guidance's own post-SVR section before asserting the 48-wk test as current practice.
+- **vs American Association for the Study of Liver Diseases (AASLD)/Infectious Diseases Society of America (IDSA) HCV guidance (2016, cited in this document):** that guidance suggested no further HCV RNA testing after SVR12 and discharge from follow-up for Metavir F0–F2. This update **adds a routine 48-wk confirmation** (BPA 2) on the basis of documented late relapse. The wiki follows [[aasld-idsa-2023-hcv]] where the two differ on treatment, but on post-SVR monitoring cadence this 2017 update is the more specific source; check the 2023 guidance's own post-SVR section before asserting the 48-wk test as current practice.
 - **vs Baveno VI (and the later Baveno VII/VIII carried on [[baveno-vii-2022-portal-hypertension]] and [[baveno-viii-2026-portal-hypertension]]):** this update declines to apply the TE <20 kPa + platelet >150,000/µL sparing criteria to post-SVR patients. Baveno VII/VIII are both newer and tier-1, so the wiki's general portal-hypertension pages follow Baveno; the post-SVR caution is recorded here as the narrower, older position.
 - **HCC surveillance in F3 vs cirrhosis:** the update applies cirrhosis-level surveillance to F3 by extension from AASLD/IDSA, noting the F2-vs-F3 distinction "may not be easily defined" in practice — a soft boundary on a hard recommendation.
 - **Recurrent HCC after DAA:** unresolved in the source. Two series showed ~28–29% recurrence, three cohorts showed none; see [[aga-2019-daa-hcc]], which covers the same controversy two years later.

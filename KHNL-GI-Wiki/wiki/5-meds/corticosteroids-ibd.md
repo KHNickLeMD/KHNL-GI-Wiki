@@ -21,17 +21,17 @@ sources: [acg-2025-crohns, acg-2025-uc, acg-2018-crohns, acg-2019-uc, acg-2025-i
 
 ---
 
-Corticosteroids in [[inflammatory-bowel-disease|IBD]] are **induction agents only**. Every ingested guideline that addresses maintenance recommends **against** them — systemic, budesonide, and topical alike. The practical decision is *which* formulation, and that is set by **disease (CD vs UC), disease extent, and severity**, because the two budesonide products deliver drug to different segments of bowel.
+Corticosteroids in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] are **induction agents only**. Every ingested guideline that addresses maintenance recommends **against** them — systemic, budesonide, and topical alike. The practical decision is *which* formulation, and that is set by **disease (Crohn's disease [CD] vs ulcerative colitis [UC]), disease extent, and severity**, because the two budesonide products deliver drug to different segments of bowel.
 
 ## Formulations — which steroid for which disease
 
 | Formulation | Delivery | Use | Dose | Maintenance |
 |---|---|---|---|---|
-| **Budesonide CIR** (controlled ileal release) | Terminal ileum / right colon | **Mildly to moderately active ileocecal [[crohns-disease\|CD]]** — induction | **9 mg PO once daily × 8–12 wk** | **No** |
-| **Budesonide MMX** (multimatrix) | Colon | **Mildly to moderately active [[ulcerative-colitis\|UC]]** — induction, any extent, and left-sided UC failing 5-ASA | **9 mg PO daily** | **No** |
+| **Budesonide CIR** (controlled ileal release) | Terminal ileum / right colon | **Mildly to moderately active ileocecal [[crohns-disease\|CD]]** — induction | **9 mg orally (PO) once daily × 8–12 wk** | **No** |
+| **Budesonide MMX** (multimatrix) | Colon | **Mildly to moderately active [[ulcerative-colitis\|UC]]** — induction, any extent, and left-sided UC failing 5-aminosalicylate (5-ASA) | **9 mg PO daily** | **No** |
 | **Prednisone** (oral systemic) | Systemic | Moderate–severe CD; UC failing 5-ASA; moderate–severe UC | **40–60 mg/day**, then **taper 5 mg/wk** | **No** |
-| **Methylprednisolone IV** | Systemic | Severe/fulminant CD (hospitalized); acute severe UC | CD **40–60 mg/day**; ASUC **60 mg/day total** | **No** |
-| **Hydrocortisone IV** | Systemic | Acute severe UC | **100 mg TID or QID** | **No** |
+| **Methylprednisolone intravenous (IV)** | Systemic | Severe/fulminant CD (hospitalized); acute severe UC (ASUC) | CD **40–60 mg/day**; ASUC **60 mg/day total** | **No** |
+| **Hydrocortisone IV** | Systemic | Acute severe UC | **100 mg three times daily (TID) or four times daily (QID)** | **No** |
 | **Rectal corticosteroid** (suppository, foam, enema) | Rectum / left colon | UC proctitis or left-sided colitis | Route by extent — suppository for proctitis, foam/enema for left-sided | **No** |
 
 - Budesonide CIR's advantage is **first-pass hepatic metabolism** — systemic bioavailability ≈**10%–20%**, so fewer systemic steroid effects than prednisone. The trade-off is that its release site makes it **ineffective for colonic CD**. [[acg-2025-crohns]]
@@ -41,15 +41,15 @@ Corticosteroids in [[inflammatory-bowel-disease|IBD]] are **induction agents onl
 
 ## Crohn's Disease
 
-*Recommendation numbers, strength, and evidence quality below are [[acg-2025-crohns|ACG 2025]]'s own unless another source is named.*
+*Recommendation numbers, strength, and evidence quality below are [[acg-2025-crohns|American College of Gastroenterology (ACG) 2025]]'s own unless another source is named.*
 
 | Recommendation | Strength | Quality |
 |---|---|---|
 | **Rec 5** — Budesonide CIR **9 mg/day for induction** in **mildly to moderately active ileocecal** CD | Strong | Moderate |
 | **Rec 6** — **Against budesonide for maintenance** of remission in ileocecal CD | Strong | Low |
 | **Rec 7** — **Oral corticosteroids for short-term induction** in **moderate–severe** CD | Strong | Low |
-| **Rec 9** — [[thiopurines\|AZA/6-MP]] for **maintenance after steroid induction** | Conditional | Low |
-| **Rec 11** — Methotrexate **≤25 mg SQ/IM weekly** for maintenance after steroid induction | Conditional | Moderate |
+| **Rec 9** — [[thiopurines\|azathioprine (AZA)/6-mercaptopurine (6-MP)]] for **maintenance after steroid induction** | Conditional | Low |
+| **Rec 11** — Methotrexate **≤25 mg subcutaneously (SQ)/intramuscularly (IM) weekly** for maintenance after steroid induction | Conditional | Moderate |
 
 **[[acg-2018-crohns|ACG 2018]] adds (older guideline, non-conflicting):**
 
@@ -115,7 +115,7 @@ The "against maintenance" recommendations are among the strongest in both guidel
 
 | Term | Definition as given | What it triggers |
 |---|---|---|
-| **Steroid-dependent (CD)** | **Unable to taper without recrudescence of symptoms** | Start a [[thiopurines\|thiopurine]] or methotrexate **with or without [[anti-tnf-agents\|anti-TNF]] therapy** — [[acg-2018-crohns\|ACG 2018]] Rec 45 *(strong, moderate)*; in practice, advance to a biologic |
+| **Steroid-dependent (CD)** | **Unable to taper without recrudescence of symptoms** | Start a [[thiopurines\|thiopurine]] or methotrexate **with or without [[anti-tnf-agents\|anti-tumor necrosis factor (TNF)]] therapy** — [[acg-2018-crohns\|ACG 2018]] Rec 45 *(strong, moderate)*; in practice, advance to a biologic |
 | **Steroid-refractory (acute severe UC)** | **Inadequate response to IV corticosteroids by day 3** (window stated as **3–5 days** in [[acg-2019-uc\|ACG 2019]]) | Medical rescue with **infliximab or [[calcineurin-inhibitors\|cyclosporine]]** *(strong, moderate)* |
 | **Corticosteroid-free remission (UC)** | Symptomatic + endoscopic remission with **no corticosteroid for a sustained period, usually >12 weeks** | The treatment target |
 
@@ -135,10 +135,10 @@ The "against maintenance" recommendations are among the strongest in both guidel
 | **High-dose, >7.5 mg/day** | **5-fold** higher spine/hip fracture risk |
 | **After discontinuation** | Risk decreases **3–6 months** after stopping |
 
-- Background IBD risk (independent of steroids): overall fracture **RR 1.38 (95% CI 1.11–1.73)**; vertebral fracture **RR 2.26 (95% CI 1.04–4.90)**.
-- **Rec 11 — adults with IBD and conventional BMD risk factors: DEXA at the time of diagnosis and periodically** *(Conditional, very low)*.
+- Background IBD risk (independent of steroids): overall fracture **relative risk (RR) 1.38 (95% confidence interval [CI] 1.11–1.73)**; vertebral fracture **RR 2.26 (95% CI 1.04–4.90)**.
+- **Rec 11 — adults with IBD and conventional bone mineral density (BMD) risk factors: dual-energy X-ray absorptiometry (DEXA) at the time of diagnosis and periodically** *(Conditional, very low)*.
 
-**Infection and vaccination.** Corticosteroids are immune-modifying therapy: **no live vaccines** (live attenuated influenza, MMR, dengue, yellow fever) while on immune-modifying therapy, and **vaccinate before starting** it when possible. Household contacts may receive live vaccines with precautions. [[acg-2025-ibd-preventive-care]]
+**Infection and vaccination.** Corticosteroids are immune-modifying therapy: **no live vaccines** (live attenuated influenza, measles-mumps-rubella [MMR], dengue, yellow fever) while on immune-modifying therapy, and **vaccinate before starting** it when possible. Household contacts may receive live vaccines with precautions. [[acg-2025-ibd-preventive-care]]
 
 **Perioperative.** Taper toward **≤prednisone 20 mg/day** before surgery to reduce postoperative infection. [[acg-2025-crohns]]
 
@@ -152,15 +152,15 @@ The same two drugs, a different rule set — and the one place where **budesonid
 
 | Recommendation | Strength | Certainty |
 |---|---|---|
-| **Rec 1** — In children and adults with [[autoimmune-hepatitis\|AIH]] **without [[cirrhosis\|cirrhosis]] or acute severe AIH**: **budesonide 3 mg TID + [[thiopurines\|AZA]]** (adults 50–150 mg/day; children 1–2 mg/kg/day) **OR prednisone/prednisolone + AZA** are **equally acceptable** first-line therapies | Conditional | Low |
-| **Rec 2** — In patients **with cirrhosis OR acute severe AIH** (INR 1.5–<2.0 without [[hepatic-encephalopathy\|HE]]): do **NOT** use budesonide | Conditional | Very low |
+| **Rec 1** — In children and adults with [[autoimmune-hepatitis\|autoimmune hepatitis (AIH)]] **without [[cirrhosis\|cirrhosis]] or acute severe AIH**: **budesonide 3 mg TID + [[thiopurines\|AZA]]** (adults 50–150 mg/day; children 1–2 mg/kg/day) **OR prednisone/prednisolone + AZA** are **equally acceptable** first-line therapies | Conditional | Low |
+| **Rec 2** — In patients **with cirrhosis OR acute severe AIH** (international normalized ratio [INR] 1.5–<2.0 without [[hepatic-encephalopathy\|hepatic encephalopathy (HE)]]): do **NOT** use budesonide | Conditional | Very low |
 
 - **Why budesonide fails in cirrhosis:** portal-systemic shunting **bypasses the first-pass effect**, eliminating the systemic side-effect advantage that is its entire rationale.
 - **Acute severe AIH** (jaundice + INR 1.5–<2, no HE): initiate a **prednisone trial** and reassess at **1–2 weeks**; no biochemical improvement → evaluate for [[liver-transplantation|liver transplantation]].
 - **AIH-related acute liver failure** (INR ≥2 + HE): evaluate directly for transplantation — do not delay listing while awaiting a steroid response. Budesonide is contraindicated here as well.
 - **94%–95%** of AIH patients are steroid-responsive; only **~30%** can discontinue all immunosuppression long-term.
-- **Monitoring on glucocorticoids:** **DEXA at baseline, repeated every 2–3 years**; **25-hydroxyvitamin D** at diagnosis and annually, supplement if deficient. Check **TPMT** before AZA, **HBsAg/anti-HBc** before immunosuppression, and give vaccines beforehand.
-- AASLD 2020 states the prednisone/prednisolone regimen as a drug pairing without printing a starting dose or taper schedule; the budesonide dose (3 mg TID) is given.
+- **Monitoring on glucocorticoids:** **DEXA at baseline, repeated every 2–3 years**; **25-hydroxyvitamin D** at diagnosis and annually, supplement if deficient. Check **thiopurine methyltransferase (TPMT)** before AZA, **hepatitis B surface antigen (HBsAg)/hepatitis B core antibody (anti-HBc)** before immunosuppression, and give vaccines beforehand.
+- American Association for the Study of Liver Diseases (AASLD) 2020 states the prednisone/prednisolone regimen as a drug pairing without printing a starting dose or taper schedule; the budesonide dose (3 mg TID) is given.
 
 ---
 

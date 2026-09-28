@@ -28,7 +28,7 @@ sources: [nccn-2026-esophageal-egj-cancer, asge-2023-esd]
 
 ### Severity Assessment (AJCC 8th ed. TNM staging)
 
-Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) from disease requiring surgery or chemoradiation (T1b and deeper). Stage groups are **histology-specific** (separate tables for SCC and adenocarcinoma) and differ for clinical (cTNM), pathologic (pTNM), and post-neoadjuvant (ypTNM) staging; **grade (G)** and — for SCC — **tumor location** enter the pathologic stage groups ([[nccn-2026-esophageal-egj-cancer]], AJCC 8th ed. 2017).
+Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) from disease requiring surgery or chemoradiation (T1b and deeper). Stage groups are **histology-specific** (separate tables for squamous cell carcinoma (SCC) and adenocarcinoma) and differ for clinical (cTNM), pathologic (pTNM), and post-neoadjuvant (ypTNM) staging; **grade (G)** and — for SCC — **tumor location** enter the pathologic stage groups ([[nccn-2026-esophageal-egj-cancer]], American Joint Committee on Cancer (AJCC) 8th ed. 2017).
 
 | T — primary tumor | Definition |
 |---|---|
@@ -47,7 +47,7 @@ Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) fro
 | M0 / M1 | No distant metastasis / distant metastasis |
 | G1 / G2 / G3 | Well / moderately / poorly differentiated or undifferentiated |
 
-**SCC location** (by epicenter of the tumor): **Upper** = cervical esophagus to lower border of the azygos vein; **Middle** = lower border of azygos vein to lower border of the inferior pulmonary vein; **Lower** = lower border of inferior pulmonary vein to the stomach, including the EGJ.
+**SCC location** (by epicenter of the tumor): **Upper** = cervical esophagus to lower border of the azygos vein; **Middle** = lower border of azygos vein to lower border of the inferior pulmonary vein; **Lower** = lower border of inferior pulmonary vein to the stomach, including the esophagogastric junction (EGJ).
 
 **Clinical stage groups (cTNM) — the stage that drives the pretreatment decision.** Note the two histologies group differently at the same T/N (e.g. cT2N1: stage II for SCC, stage III for adenocarcinoma):
 
@@ -68,8 +68,8 @@ Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) fro
 
 Two dominant histologies drive distinct pathways ([[nccn-2026-esophageal-egj-cancer]]):
 
-- **Adenocarcinoma** — distal esophagus/EGJ; arises through the metaplasia–dysplasia sequence from [[barretts-esophagus|Barrett's esophagus]]; risk factors [[gerd|GERD]], [[obesity]], male sex. See [[esophageal-adenocarcinoma]].
-- **Squamous cell carcinoma (SCC)** — more often mid/upper esophagus; risk factors smoking, alcohol, [[achalasia]], caustic injury, tylosis. SCC is more radiosensitive and more frequently managed with definitive chemoradiation.
+- **Adenocarcinoma** — distal esophagus/EGJ; arises through the metaplasia–dysplasia sequence from [[barretts-esophagus|Barrett's esophagus]]; risk factors [[gerd|gastroesophageal reflux disease (GERD)]], [[obesity]], male sex. See [[esophageal-adenocarcinoma]].
+- **SCC** — more often mid/upper esophagus; risk factors smoking, alcohol, [[achalasia]], caustic injury, tylosis. SCC is more radiosensitive and more frequently managed with definitive chemoradiation.
 
 EGJ tumors straddle the esophageal and gastric pathways and share systemic-therapy biomarkers. **Siewert type (I / II / III, by tumor epicenter relative to the EGJ) decides which guideline governs treatment** — types I and II are treated as esophageal/EGJ cancer, type III as gastric cancer; the cm-criteria table is on [[gastric-adenocarcinoma]].
 
@@ -77,33 +77,33 @@ EGJ tumors straddle the esophageal and gastric pathways and share systemic-thera
 
 *Workup: see [[dysphagia]].*
 
-[[gerd|Peptic stricture]] and other benign strictures, [[eosinophilic-esophagitis|eosinophilic esophagitis]], [[achalasia]] and other motility disorders, esophageal [[gastrointestinal-stromal-tumor|GIST]] or other [[subepithelial-lesion|subepithelial lesions]], [[barretts-esophagus|Barrett's]] with dysplasia, and extrinsic compression.
+[[gerd|Peptic stricture]] and other benign strictures, [[eosinophilic-esophagitis|eosinophilic esophagitis]], [[achalasia]] and other motility disorders, esophageal [[gastrointestinal-stromal-tumor|gastrointestinal stromal tumor (GIST)]] or other [[subepithelial-lesion|subepithelial lesions]], [[barretts-esophagus|Barrett's]] with dysplasia, and extrinsic compression.
 
 ## Diagnostics
 
-- **[[upper-endoscopy|EGD]] with biopsy** — establishes histology.
-- **[[endoscopic-ultrasound|EUS]]** — T and N stage; enables FNA of suspicious nodes. (For early [[barretts-esophagus|Barrett's]]-associated lesions, EUS is *not* used to separate T1a from T1b — resection histology is; see [[esophageal-adenocarcinoma]].)
-- **CT chest/abdomen + PET/CT** — distant spread.
-- **Biomarker testing on advanced/metastatic tumors** — HER2 (ERBB2), PD-L1 CPS, MSI-H/dMMR. Positivity cutoffs ([[nccn-2026-esophageal-egj-cancer]]):
-  - **HER2-positive** = **IHC 3+**, or **IHC 2+ with ISH/FISH-positive**.
+- **[[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] with biopsy** — establishes histology.
+- **[[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]** — T and N stage; enables fine-needle aspiration (FNA) of suspicious nodes. (For early [[barretts-esophagus|Barrett's]]-associated lesions, EUS is *not* used to separate T1a from T1b — resection histology is; see [[esophageal-adenocarcinoma]].)
+- **Computed tomography (CT) chest/abdomen + positron emission tomography (PET)/CT** — distant spread.
+- **Biomarker testing on advanced/metastatic tumors** — HER2 (ERBB2), PD-L1 combined positive score (CPS), microsatellite instability-high (MSI-H)/mismatch repair deficient (dMMR). Positivity cutoffs ([[nccn-2026-esophageal-egj-cancer]]):
+  - **HER2-positive** = **immunohistochemistry (IHC) 3+**, or **IHC 2+ with in situ hybridization (ISH)/fluorescence ISH (FISH)-positive**.
   - **PD-L1–positive** = **CPS ≥1**; **≥100 tumor cells** must be present for the stained slide to be adequate. Line-of-therapy CPS gates are in [[#Therapeutics]].
 
 ## Therapeutics
 
 Stage-directed per [[nccn-2026-esophageal-egj-cancer]]:
 
-- **Early (Tis/T1a, mucosal):** endoscopic resection ([[endoscopic-mucosal-resection|EMR]] / [[endoscopic-submucosal-dissection|ESD]]) ± ablation — see [[endoscopic-eradication-therapy]]. **Which of EMR vs ESD turns on histology and lesion size** ([[asge-2023-esd]], all Conditional / low quality):
+- **Early (Tis/T1a, mucosal):** endoscopic resection ([[endoscopic-mucosal-resection|endoscopic mucosal resection (EMR)]] / [[endoscopic-submucosal-dissection|endoscopic submucosal dissection (ESD)]]) ± ablation — see [[endoscopic-eradication-therapy]]. **Which of EMR vs ESD turns on histology and lesion size** ([[asge-2023-esd]], all Conditional / low quality):
 
 | Lesion | Recommendation |
 |---|---|
-| Squamous dysplasia / early ESCC, well-differentiated, nonulcerated, no submucosal invasion, **>15 mm** | **ESD over EMR** |
+| Squamous dysplasia / early esophageal squamous cell carcinoma (ESCC), well-differentiated, nonulcerated, no submucosal invasion, **>15 mm** | **ESD over EMR** |
 | Same, **≤15 mm** | No recommendation either way — **either ESD or EMR** |
 | Squamous dysplasia / early well-differentiated nonulcerated ESCC without submucosal invasion | **Against surgery**, whenever possible |
-| Early EAC (T1) or nodular [[barretts-esophagus\|Barrett's]] dysplasia, well-differentiated, nonulcerated, **>20 mm** | **ESD over EMR** |
+| Early esophageal adenocarcinoma (EAC; T1) or nodular [[barretts-esophagus\|Barrett's]] dysplasia, well-differentiated, nonulcerated, **>20 mm** | **ESD over EMR** |
 | Same, **≤20 mm** | No recommendation either way — **either ESD or EMR** |
 
   Note the size thresholds differ by histology — **15 mm for squamous, 20 mm for adenocarcinoma** — and both are recommendations about *technique*, not about whether to resect endoscopically at all (that is set by depth; see [[esophageal-adenocarcinoma]]).
-- **Locally advanced resectable:** neoadjuvant/perioperative therapy then esophagectomy — perioperative **FLOT** (adenocarcinoma) or neoadjuvant **chemoradiation (CROSS-type)** followed by surgery. Adjuvant **nivolumab** is an option after neoadjuvant chemoradiation + R0 resection with residual disease (CheckMate-577). In v3.2026, adding **durvalumab to perioperative FLOT** is positioned for selected adenocarcinoma (clinically node-negative; PD-L1 CPS <1 as category 2B; diffuse-type EGJ as category 2B) per MATTERHORN — with no demonstrated survival advantage in diffuse-type disease.
+- **Locally advanced resectable:** neoadjuvant/perioperative therapy then esophagectomy — perioperative **FLOT** (fluorouracil, leucovorin, oxaliplatin, and docetaxel) for adenocarcinoma or neoadjuvant **chemoradiation (CROSS-type)** followed by surgery. Adjuvant **nivolumab** is an option after neoadjuvant chemoradiation + R0 resection with residual disease (CheckMate-577). In v3.2026, adding **durvalumab to perioperative FLOT** is positioned for selected adenocarcinoma (clinically node-negative; PD-L1 CPS <1 as category 2B; diffuse-type EGJ as category 2B) per MATTERHORN — with no demonstrated survival advantage in diffuse-type disease.
 - **Definitive chemoradiation:** for SCC and for patients who are not surgical candidates.
 - **Metastatic:** biomarker-directed systemic therapy — first-line **trastuzumab** added to chemotherapy for HER2-overexpressing adenocarcinoma; immunotherapy for MSI-H/dMMR **independent of PD-L1 status**; **trastuzumab deruxtecan** (category 1) in later lines for HER2-positive disease.
 
@@ -125,12 +125,12 @@ flowchart TD
     C -->|"Tis / T1a mucosal"| ER["Endoscopic resection<br/>(EMR / ESD) ± ablation"]
     C -->|"Locally advanced<br/>resectable"| H{"Histology"}
     H -->|"Adenocarcinoma"| AD["Perioperative FLOT<br/>(± durvalumab, selected)<br/>→ esophagectomy"]
-    H -->|"Squamous cell"| SQ["Neoadjuvant chemoRT (CROSS)<br/>→ esophagectomy, or<br/>definitive chemoradiation"]
+    H -->|"Squamous cell"| SQ["Neoadjuvant chemoradiation (chemoRT; CROSS)<br/>→ esophagectomy, or<br/>definitive chemoradiation"]
     AD --> ADJ["Adjuvant nivolumab if residual<br/>disease after neoadj chemoRT + R0<br/>(CheckMate-577)"]
     C -->|"Metastatic"| M["Biomarker-directed systemic therapy:<br/>HER2+ → add trastuzumab;<br/>PD-L1 CPS → add nivolumab/pembrolizumab;<br/>MSI-H/dMMR → immunotherapy;<br/>later line HER2+ → trastuzumab deruxtecan"]
 ```
 
-*Algorithm — NCCN esophageal/EGJ cancer management, recreated in original form (not an NCCN figure). ([[nccn-2026-esophageal-egj-cancer]])*
+*Algorithm — National Comprehensive Cancer Network (NCCN) esophageal/EGJ cancer management, recreated in original form (not an NCCN figure). ([[nccn-2026-esophageal-egj-cancer]])*
 
 ## See Also
 

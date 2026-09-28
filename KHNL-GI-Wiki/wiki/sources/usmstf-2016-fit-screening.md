@@ -14,15 +14,15 @@ sources: []
 - **Year:** 2017 (published online October 2016)
 - **Journal/Publisher:** Am J Gastroenterol 2017;112:37–53; doi:10.1038/ajg.2016.492
 - **DOI:** [10.1038/ajg.2016.492](https://doi.org/10.1038/ajg.2016.492)
-- **Type:** Consensus statement / practice guideline — US Multi-Society Task Force on Colorectal Cancer (USMSTF); GRADE methodology
+- **Type:** Consensus statement / practice guideline — US Multi-Society Task Force on Colorectal Cancer (USMSTF); Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology
 
 ## Summary
 
-This USMSTF consensus statement provides an evidence-based review of fecal immunochemical testing (FIT) for [[colorectal-cancer-screening|CRC screening]], with GRADE-rated guidance statements on FIT application. FIT directly measures human hemoglobin in stool using monoclonal or polyclonal antibodies against the globin moiety, and is not confounded by dietary peroxidase activity (unlike gFOBT). The document synthesizes performance characteristics from meta-analyses of cohort and cross-sectional studies, programmatic screening data across multiple rounds, comparative effectiveness against gFOBT, sigmoidoscopy, stool DNA, and [[colonoscopy]], and practical implementation considerations including threshold selection, sample handling, diet/medication adjustments, seasonal effects, and quality metrics.
+This USMSTF consensus statement provides an evidence-based review of fecal immunochemical testing (FIT) for [[colorectal-cancer-screening|colorectal cancer (CRC) screening]], with GRADE-rated guidance statements on FIT application. FIT directly measures human hemoglobin in stool using monoclonal or polyclonal antibodies against the globin moiety, and is not confounded by dietary peroxidase activity (unlike guaiac fecal occult blood test [gFOBT]). The document synthesizes performance characteristics from meta-analyses of cohort and cross-sectional studies, programmatic screening data across multiple rounds, comparative effectiveness against gFOBT, sigmoidoscopy, stool DNA, and [[colonoscopy]], and practical implementation considerations including threshold selection, sample handling, diet/medication adjustments, seasonal effects, and quality metrics.
 
-The Task Force positions FIT as the preferred non-invasive CRC screening modality over guaiac-based FOBT, with annual 1-sample testing as the recommended programmatic approach. Colonoscopy is the unambiguous recommended follow-up for any positive FIT result in screen-eligible individuals.
+The Task Force positions FIT as the preferred non-invasive CRC screening modality over gFOBT, with annual 1-sample testing as the recommended programmatic approach. Colonoscopy is the unambiguous recommended follow-up for any positive FIT result in screen-eligible individuals.
 
-Key distinctions from the contemporaneous ACG 2021 and USMSTF 2021 guidelines: this 2016 document is FIT-specific and operationally detailed regarding threshold values, sample logistics, and program quality metrics — content not replicated in the broader screening guidelines.
+Key distinctions from the contemporaneous American College of Gastroenterology (ACG) 2021 and USMSTF 2021 guidelines: this 2016 document is FIT-specific and operationally detailed regarding threshold values, sample logistics, and program quality metrics — content not replicated in the broader screening guidelines.
 
 ## Key Findings / Claims
 
@@ -30,7 +30,7 @@ Key distinctions from the contemporaneous ACG 2021 and USMSTF 2021 guidelines: t
 
 **For [[colorectal-cancer|CRC]] detection (meta-analysis of 19 studies in asymptomatic average-risk adults):**
 
-- Pooled sensitivity: **79%** (95% CI, 0.69–0.86)
+- Pooled sensitivity: **79%** (95% confidence interval [CI], 0.69–0.86)
 - Pooled specificity: **94%** (95% CI, 0.92–0.95)
 - Subgroup restricted to colonoscopy-as-reference-standard studies: sensitivity 77%, specificity 94%
 - OC FIT CHEK (Polymedco, n=9,989 undergoing colonoscopy): sensitivity 74%, specificity 96%
@@ -51,7 +51,7 @@ Key distinctions from the contemporaneous ACG 2021 and USMSTF 2021 guidelines: t
 
 Participation rates tend to remain stable across multiple rounds (>60% in programmatic programs). Key metrics from representative programs:
 
-| Study | FIT Brand (cut-off) | Round | Participation % | Positivity % | Colonoscopy Completion % | PPV CRC % | PPV Advanced Neoplasia % |
+| Study | FIT Brand (cut-off) | Round | Participation % | Positivity % | Colonoscopy Completion % | Positive predictive value (PPV) CRC % | PPV Advanced Neoplasia % |
 |---|---|---|---|---|---|---|---|
 | Denters et al. 2012 | OC Sensor (10 µg/g) | 1 | 57.0 | 8.1 | 82 | 6.0 | 54.0 |
 | | | 2 | 86.1 | 7.4 | 89 | 3.0 | 42.0 |
@@ -69,7 +69,7 @@ Participation rates tend to remain stable across multiple rounds (>60% in progra
 | Stegeman et al. 2015 | OC Sensor (10 µg/g) | 1 | 57.0 | 8.1 | 79.8 | 6.5 | 54.0 |
 | | | 2 | 56.0 | 7.9 | 83.9 | 3.8 | 41.7 |
 | | | 3 | 60.0 | 7.1 | 80.4 | 3.2 | 26.8 |
-| Jensen et al. 2016 | OC FIT-CHEK (20 µg/g) | 1 | 48.2 | 5.0 | 75.5 | 3.4 | NR |
+| Jensen et al. 2016 | OC FIT-CHEK (20 µg/g) | 1 | 48.2 | 5.0 | 75.5 | 3.4 | Not reported (NR) |
 | | | 2 | 75.3 | 3.9 | 80.5 | 2.1 | NR |
 | | | 3 | 83.4 | 3.7 | 80.5 | 2.3 | NR |
 | | | 4 | 86.1 | 4.3 | 81.1 | 2.1 | NR |
@@ -94,7 +94,7 @@ Participation rates tend to remain stable across multiple rounds (>60% in progra
 
 ### FIT vs. gFOBT
 
-- Meta-analysis (Hassan et al.): FIT superior to gFOBT for adherence (RR 1.16; 95% CI, 1.03–1.30) and detection of advanced neoplasia (RR 2.28; 95% CI, 1.68–3.10)
+- Meta-analysis (Hassan et al.): FIT superior to gFOBT for adherence (relative risk [RR] 1.16; 95% CI, 1.03–1.30) and detection of advanced neoplasia (RR 2.28; 95% CI, 1.68–3.10)
 - Participation approximately 20% greater with FIT vs. gFOBT
 - FIT sensitivity for CRC approximately 2x that of gFOBT (73.3% vs. 33.3%) with similar specificity (>95%)
 - **Recommendation: use FIT over gFOBT — Strong recommendation; high-quality evidence**
@@ -102,8 +102,8 @@ Participation rates tend to remain stable across multiple rounds (>60% in progra
 ### FIT vs. Sigmoidoscopy (Table 5 summary)
 
 - Advanced adenoma detection generally superior with sigmoidoscopy, but FIT participation consistently higher
-- Cancer detection not significantly different in most RCTs
-- In ColonPrev-simulated FS study: advanced neoplasia 6.3% (FS) vs. 2.7% (FIT); no difference for proximal neoplasia
+- Cancer detection not significantly different in most randomized controlled trials (RCTs)
+- In ColonPrev-simulated flexible sigmoidoscopy (FS) study: advanced neoplasia 6.3% (FS) vs. 2.7% (FIT); no difference for proximal neoplasia
 
 ### FIT vs. Stool DNA
 
@@ -129,7 +129,7 @@ Participation rates tend to remain stable across multiple rounds (>60% in progra
 | In the absence of signs or symptoms of upper gastrointestinal pathology, a positive FIT and a negative colonoscopy should not prompt upper gastrointestinal evaluation. | Weak | Very Low |
 | Those with a positive FIT and a recent colonoscopy (i.e., before the individual would be due for repeat endoscopic examination) should generally be offered repeat colonoscopy. | Weak | Low |
 | The Task Force recommends that patients should be explicitly instructed that they do not need to adjust diet or medications to complete a FIT. | Strong | Moderate |
-| The Task Force suggests that FIT screening programs rely on spontaneously passed stool specimens and not an in-office DRE sample. | Weak | Very Low |
+| The Task Force suggests that FIT screening programs rely on spontaneously passed stool specimens and not an in-office DRE [digital rectal examination] sample. | Weak | Very Low |
 | Programs using FIT need not adjust distribution or mailing of FIT based on ambient temperature. | Weak | Low |
 | Programs using FIT should establish quality assurance practices to monitor key quality metrics. | Weak | Very Low |
 
@@ -139,21 +139,21 @@ Participation rates tend to remain stable across multiple rounds (>60% in progra
 |---|---|---|
 | FIT is superior to gFOBT; use FIT over gFOBT. | Strong | High |
 | When FIT is positive, colonoscopy is the recommended follow-up (screen-eligible individuals). | Strong | Moderate |
-| A positive FIT + negative colonoscopy should not prompt upper GI evaluation (absent UGI symptoms/signs of pathology). | Weak | Very Low |
+| A positive FIT + negative colonoscopy should not prompt upper GI [gastrointestinal] evaluation (absent UGI [upper gastrointestinal] symptoms/signs of pathology). | Weak | Very Low |
 | Patients with positive FIT and a recent colonoscopy (before due for repeat) should generally be offered repeat colonoscopy. | Weak | Low |
 | No dietary or medication adjustment needed before FIT. | Strong | Moderate |
 | FIT screening programs should use spontaneously passed stool, not in-office DRE samples. | Weak | Very Low |
 | No need to adjust FIT distribution/mailing based on ambient temperature. | Weak | Low |
 | Sample return time up to 10 days does not affect FIT performance; programs should encourage rapid kit return (ideally within 24h of deposit). | Weak | Very Low |
 | 1-sample FIT approach is suggested (vs. multi-sample). | Weak | Low |
-| ADR >45% in men and >35% in women on colonoscopy exams to evaluate FIT positivity (quality target). | Weak | Very Low |
+| ADR [adenoma detection rate] >45% in men and >35% in women on colonoscopy exams to evaluate FIT positivity (quality target). | Weak | Very Low |
 
 ### Programmatic Quality Targets (Committee suggestion)
 
 - FIT completion rate among those offered testing: **≥60%**
 - Proportion returning FIT that cannot be processed by lab: **<5%**
 - Colonoscopy completion rate for those with a positive FIT: **≥80%**
-- Adenoma detection rate (ADR) on colonoscopy following positive FIT: **>45% in men, >35% in women** (using a hemoglobin threshold of ≤20 µg/g)
+- ADR on colonoscopy following positive FIT: **>45% in men, >35% in women** (using a hemoglobin threshold of ≤20 µg/g)
 
 ---
 

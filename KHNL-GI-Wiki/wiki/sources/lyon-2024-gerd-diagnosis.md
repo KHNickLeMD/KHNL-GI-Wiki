@@ -22,7 +22,7 @@ sources: []
 
 ## Summary
 
-The Lyon Consensus 2.0 is an international expert update of the original Lyon Consensus (2018), developed using the RAND/UCLA Appropriateness Methodology with 20 voting members across five rounds of voting (≥80% agreement threshold). It introduces the concept of "actionable [[gerd|GERD]]" — defined as conclusive evidence of reflux-related pathology on endoscopy and/or abnormal [[ambulatory-reflux-monitoring|reflux monitoring]] (using Lyon Consensus thresholds) in the presence of compatible troublesome symptoms — where management requires long-term acid suppression, escalation, or consideration of irreversible interventional options (fundoplication, MSA, endoscopic GERD therapies, bariatric surgery).
+The Lyon Consensus 2.0 is an international expert update of the original Lyon Consensus (2018), developed using the RAND/UCLA Appropriateness Methodology with 20 voting members across five rounds of voting (≥80% agreement threshold). It introduces the concept of "actionable [[gerd|gastroesophageal reflux disease (GERD)]]" — defined as conclusive evidence of reflux-related pathology on endoscopy and/or abnormal [[ambulatory-reflux-monitoring|reflux monitoring]] (using Lyon Consensus thresholds) in the presence of compatible troublesome symptoms — where management requires long-term acid suppression, escalation, or consideration of irreversible interventional options (fundoplication, magnetic sphincter augmentation [MSA], endoscopic GERD therapies, bariatric surgery).
 
 Key structural innovation: the framework now stratifies patients into **unproven GERD** (no prior conclusive evidence → test off therapy) vs. **proven GERD** (prior conclusive evidence + persisting symptoms → test on optimised therapy with pH-impedance).
 
@@ -32,7 +32,7 @@ Key structural innovation: the framework now stratifies patients into **unproven
 
 - Actionable GERD requires conclusive evidence of reflux-related pathology on endoscopy and/or abnormal reflux monitoring plus compatible troublesome symptoms.
 - Typical symptoms (heartburn, oesophageal chest pain, regurgitation) alone may justify empiric antisecretory trials but are insufficient for conclusive diagnosis.
-- PPI response alone is insufficient (10–25% placebo effect).
+- Proton pump inhibitor (PPI) response alone is insufficient (10–25% placebo effect).
 
 ### Symptom Likelihood of Reflux Association
 
@@ -43,8 +43,8 @@ Key structural innovation: the framework now stratifies patients into **unproven
 
 ### Endoscopic Evidence
 
-- **Conclusive for GERD (off therapy):** LA grades B, C, D oesophagitis; biopsy-proven [[barretts-esophagus|Barrett's oesophagus]]; peptic stricture
-- **Key update from Lyon 1.0:** LA grade B is now conclusive (previously considered inconclusive/borderline). LA grade B has AET similar to grade C (8.23% vs 9.95% on wireless pH; 6.0% vs 8.7% on pH-impedance) and similar PPI response (74% vs 70%).
+- **Conclusive for GERD (off therapy):** Los Angeles (LA) grades B, C, D oesophagitis; biopsy-proven [[barretts-esophagus|Barrett's oesophagus]]; peptic stricture
+- **Key update from Lyon 1.0:** LA grade B is now conclusive (previously considered inconclusive/borderline). LA grade B has acid exposure time (AET) similar to grade C (8.23% vs 9.95% on wireless pH; 6.0% vs 8.7% on pH-impedance) and similar PPI response (74% vs 70%).
 - **Borderline (off therapy):** LA grade A oesophagitis (found in 5–7.5% of healthy subjects)
 - **Supportive adjunctive:** Hiatus hernia on endoscopy
 - **Retired adjunctive:** Routine histopathological scoring, electron microscopy (dilated intercellular spaces), endoscopy-based mucosal impedance (not currently available)
@@ -54,7 +54,7 @@ Key structural innovation: the framework now stratifies patients into **unproven
 ### Ambulatory Reflux Monitoring — Test Selection
 
 - **Unproven GERD:** Test off antisecretory therapy
-  - Preferred: prolonged wireless pH monitoring (48–96h; 96h provides highest diagnostic yield; AUC 0.63 for 96h vs 0.57 for 48h, p=0.01)
+  - Preferred: prolonged wireless pH monitoring (48–96h; 96h provides highest diagnostic yield; area under the curve (AUC) 0.63 for 96h vs 0.57 for 48h, p=0.01)
   - pH-impedance off therapy: preferred when typical symptoms + excessive belching, rumination suspected, or pulmonary symptoms being evaluated
   - Catheter-based pH monitoring: acceptable alternative when pH-impedance unavailable
 - **Proven GERD with persisting symptoms:** pH-impedance monitoring on optimised antisecretory therapy (only modality able to identify refractory reflux on therapy)
@@ -72,13 +72,13 @@ Key structural innovation: the framework now stratifies patients into **unproven
 - **Total reflux episodes <40/day:** Adjunctive evidence against pathological GERD
 - **Total reflux episodes 40–80/day:** Inconclusive as stand-alone metric
 - **Total reflux episodes >80/day:** Adjunctive evidence for objective GERD
-- **Baseline impedance (MNBI) <1500 ohms:** Adjunctive evidence for GERD
-- **Baseline impedance (MNBI) >2500 ohms:** Evidence against pathological GERD
+- **Mean nocturnal baseline impedance (MNBI) <1500 ohms:** Adjunctive evidence for GERD
+- **MNBI >2500 ohms:** Evidence against pathological GERD
 
 ### pH-Impedance Monitoring Thresholds (on optimised therapy — refractory GERD)
 
-- **AET >4% AND >80 reflux episodes/day on optimised antisecretory regimen:** Evidence for actionable refractory GERD (85% symptomatic benefit from [[antireflux-surgery|ARS]]/MSA)
-- MNBI on therapy may have diagnostic value; PSPW remains a research tool only
+- **AET >4% AND >80 reflux episodes/day on optimised antisecretory regimen:** Evidence for actionable refractory GERD (85% symptomatic benefit from [[antireflux-surgery|antireflux surgery (ARS)]]/MSA)
+- MNBI on therapy may have diagnostic value; postreflux swallow-induced peristaltic wave (PSPW) remains a research tool only
 
 ### Symptom Association Metrics
 
@@ -88,15 +88,15 @@ Key structural innovation: the framework now stratifies patients into **unproven
 
 ### Retired Criteria (from Lyon 1.0)
 
-- PSPW index (postreflux swallow-induced peristaltic wave): retired as adjunctive diagnostic evidence (remains research tool for phenotyping)
+- PSPW index: retired as adjunctive diagnostic evidence (remains research tool for phenotyping)
 - Routine oesophageal biopsy analysis
 - Endoscopy-based mucosal impedance assessment (devices no longer available)
 - LA grade B as borderline (now promoted to conclusive)
 
 ### Manometry
 
-- [[high-resolution-manometry|HRM]] rules out [[achalasia]] spectrum disorders in PPI non-responders
-- Abnormal EGJ morphology (hiatus hernia), compromised EGJ barrier, oesophageal hypomotility ([[chicago-classification-v4|Chicago Classification 4.0]]) remain supportive but cannot diagnose GERD
+- [[high-resolution-manometry|high-resolution manometry (HRM)]] rules out [[achalasia]] spectrum disorders in PPI non-responders
+- Abnormal esophagogastric junction (EGJ) morphology (hiatus hernia), compromised EGJ barrier, oesophageal hypomotility ([[chicago-classification-v4|Chicago Classification 4.0]]) remain supportive but cannot diagnose GERD
 - Chicago Classification updated from v3.0 to v4.0
 
 ## Recommendations

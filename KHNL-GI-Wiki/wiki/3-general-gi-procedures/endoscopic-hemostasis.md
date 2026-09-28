@@ -39,10 +39,10 @@ This page covers the **hemostatic devices themselves** — mechanism, settings, 
 | Question | Where it is answered |
 |---|---|
 | Which ulcer stigmata require therapy (Forrest classification and rebleeding rates) | [[upper-gi-bleeding]] |
-| Timing of endoscopy, transfusion thresholds, pre-endoscopic PPI and prokinetics | [[upper-gi-bleeding]] |
+| Timing of endoscopy, transfusion thresholds, pre-endoscopic proton pump inhibitor (PPI) and prokinetics | [[upper-gi-bleeding]] |
 | Which modality for diverticular hemorrhage, angioectasia, or postpolypectomy bleeding | [[acute-lower-gi-bleeding]] |
 | Variceal band ligation, glue injection, and the portal-hypertensive algorithm | [[variceal-upper-gi-bleeding]] |
-| APC in [[radiation-proctopathy\|radiation proctopathy]], GAVE, and non-bleeding indications | [[argon-plasma-coagulation]] |
+| Argon plasma coagulation (APC) in [[radiation-proctopathy\|radiation proctopathy]], gastric antral vascular ectasia (GAVE), and non-bleeding indications | [[argon-plasma-coagulation]] |
 | Electrosurgical current modes and generator principles | [[electrosurgery]] |
 
 **Scope.** Everything below is assembled from bleeding-management guidelines and one device-focused clinical practice update; there is no dedicated hemostasis guideline.
@@ -54,10 +54,10 @@ This page covers the **hemostatic devices themselves** — mechanism, settings, 
 | Modality | Class | Primary role | Key limitation |
 |---|---|---|---|
 | Dilute epinephrine injection | Injection | Temporizing, improves visualization | **Never as monotherapy** — high rebleeding risk |
-| Absolute ethanol injection | Injection | Definitive injection option (ACG **strong**) | Volume must be capped (tissue necrosis) |
+| Absolute ethanol injection | Injection | Definitive injection option (American College of Gastroenterology [ACG] **strong**) | Volume must be capped (tissue necrosis) |
 | Heater probe | Contact thermal | Definitive; ACG **strong** | Fixed-duration energy; consecutive thermal therapy raises perforation risk |
 | Bipolar / multipolar probe | Contact thermal | Definitive; ACG **strong** | As above |
-| Monopolar hemostatic forceps (MHF) | Contact thermal | Difficult locations, rigid fibrotic base, [[endoscopic-submucosal-dissection\|ESD]]/[[endoscopic-mucosal-resection\|EMR]] bleeding | Dissipated by a large overlying clot; costly |
+| Monopolar hemostatic forceps (MHF) | Contact thermal | Difficult locations, rigid fibrotic base, [[endoscopic-submucosal-dissection\|endoscopic submucosal dissection (ESD)]]/[[endoscopic-mucosal-resection\|endoscopic mucosal resection (EMR)]] bleeding | Dissipated by a large overlying clot; costly |
 | [[argon-plasma-coagulation\|APC]] | Noncontact thermal | Flat vascular lesions, diffuse oozing | Superficial; ACG **conditional** for ulcers |
 | Through-the-scope clips | Mechanical | Definitive; first-line for postpolypectomy bleeding | Hard to place on fibrotic bases and awkward angles |
 | Over-the-scope clips (OTSC) | Mechanical | Recurrent bleeding; large fibrotic ulcer with big visible vessel | Requires scope withdrawal to load; no comparative data between devices |
@@ -110,17 +110,17 @@ This page covers the **hemostatic devices themselves** — mechanism, settings, 
 |---|---|---|
 | Power | **15–20 W** | [[aga-2020-nvugib-endoscopic-therapies]] |
 | ACG technique statement | **15 W, 8–10 second applications, 3.2-mm probe with firm pressure** | [[acg-2021-ugib]] (strong, moderate) |
-| LGIB — diverticular hemorrhage | Bipolar/multipolar coagulation is an accepted option | [[acg-2023-lgib]] |
+| Lower gastrointestinal bleeding (LGIB) — diverticular hemorrhage | Bipolar/multipolar coagulation is an accepted option | [[acg-2023-lgib]] |
 
 ### Soft Monopolar Coagulation and Hemostatic Forceps
 
-**Monopolar hemostatic forceps (MHF)** — small, flat, rotatable jaws (e.g. Coagrasper); originally developed to control bleeding during [[endoscopic-submucosal-dissection|ESD]].
+**MHF** — small, flat, rotatable jaws (e.g. Coagrasper); originally developed to control bleeding during [[endoscopic-submucosal-dissection|ESD]].
 
 - **Setting: low-voltage soft coagulation, 80 W, effect 4** (ERBE VIO series). Low voltage limits peak voltage, which **minimizes depth of penetration and tissue effect** ([[aga-2020-nvugib-endoscopic-therapies]]).
 - **Technique in ulcer bleeding differs from ESD:** apply the forceps to the bleeding point **closed** — do *not* first open the atraumatic jaws to grasp the vessel — then apply **soft coagulation 80 W, effect 4, for 1–2 seconds**, retract, and retreat as needed.
 - [[acg-2021-ugib]] states soft monopolar electrocoagulation as **soft coagulation mode, 50–80 W, 1–2 second applications** (**conditional recommendation**, lower-quality evidence).
-- **Indication (BPA 4):** an effective alternative to other mechanical and thermal treatments, **particularly for ulcers in difficult locations or with a rigid and fibrotic base**.
-- **Evidence:** RCT of 112 patients with Forrest Ia/Ib/IIa gastric or duodenal ulcers — initial hemostasis **98% with MHF soft coagulation vs 80% with hemoclips (P = .004)**.
+- **Indication (best practice advice [BPA] 4):** an effective alternative to other mechanical and thermal treatments, **particularly for ulcers in difficult locations or with a rigid and fibrotic base**.
+- **Evidence:** Randomized controlled trial (RCT) of 112 patients with Forrest Ia/Ib/IIa gastric or duodenal ulcers — initial hemostasis **98% with MHF soft coagulation vs 80% with hemoclips (P = .004)**.
 - **Advantages:** ease and flexibility of targeting; the smaller forceps reach where a clip cannot; current duration is controlled by the endoscopist rather than fixed, making **retreatment more controlled with less tissue injury**.
 - **How it fails:**
   - A **large overlying blood clot dissipates the coagulation effect** and prevents hemostasis.
@@ -195,7 +195,7 @@ This page covers the **hemostatic devices themselves** — mechanism, settings, 
 
 **Safety.** A study in **variceal** bleeding demonstrated clinical effectiveness without adverse events; adverse events occurring in powder studies were judged unlikely to be attributable to the sprayed powder.
 
-⚠ **Open question raised by the source itself:** 2 pilot RCTs and a non-controlled registry suggest a **potential role for TC-325 as monotherapy** in upper GI bleeding, which the CPU says *"[raises] the need for an appropriately powered clinical trial."* BPA 7 (rescue-only) remains the operative advice until then.
+⚠ **Open question raised by the source itself:** 2 pilot RCTs and a non-controlled registry suggest a **potential role for TC-325 as monotherapy** in upper gastrointestinal (GI) bleeding, which the clinical practice update (CPU) says *"[raises] the need for an appropriately powered clinical trial."* BPA 7 (rescue-only) remains the operative advice until then.
 
 ---
 
@@ -242,9 +242,9 @@ This page covers the **hemostatic devices themselves** — mechanism, settings, 
 
 **Why the first attempt was suboptimal — the checklist to run before repeating:** ulcer size, location, or fibrosis; **epinephrine-injection monotherapy**; **single use of hemostatic powder for a high-risk lesion**; inadequate coagulation; insufficient tissue grasped by a hemostatic clip ([[aga-2020-nvugib-endoscopic-therapies]]).
 
-**Then: TAE or surgery — case by case (BPA 9).** Weigh the etiology of bleeding ([[peptic-ulcer-disease|peptic ulcer disease]], unknown source, post-surgical), patient factors (hemodynamic instability, coagulopathy, multi-organ failure, surgical history), rebleeding risk, and potential adverse events, alongside **local expertise and resource availability**.
+**Then: transcatheter arterial embolization (TAE) or surgery — case by case (BPA 9).** Weigh the etiology of bleeding ([[peptic-ulcer-disease|peptic ulcer disease]], unknown source, post-surgical), patient factors (hemodynamic instability, coagulopathy, multi-organ failure, surgical history), rebleeding risk, and potential adverse events, alongside **local expertise and resource availability**.
 
-- Comparative data ([[acg-2021-ugib]]): **TAE** has fewer complications (OR 0.45) and shorter stay (median 8 vs 16 days) with **no mortality difference**, but **higher further bleeding** (OR 2.44) than surgery.
+- Comparative data ([[acg-2021-ugib]]): **TAE** has fewer complications (odds ratio [OR] 0.45) and shorter stay (median 8 vs 16 days) with **no mortality difference**, but **higher further bleeding** (OR 2.44) than surgery.
 - ⚠ **Prophylactic TAE of high-risk ulcers after successful endoscopic therapy is not encouraged** (BPA 10) — concerns include recanalization and subsequent ischemic complications.
 - **A multidisciplinary approach is required** in refractory bleeding: endoscopists, intensivists, surgeons, interventional radiologists, and in some cases hematologists and oncologists.
 
@@ -253,9 +253,9 @@ This page covers the **hemostatic devices themselves** — mechanism, settings, 
 ## Preparation and Equipment
 
 - **Airway:** endotracheal intubation for suspected ongoing or massive bleeding, active hematemesis, or suspected retained gastric contents, to reduce aspiration risk ([[aga-2020-nvugib-endoscopic-therapies]]).
-- **Scope choice:** therapeutic upper endoscopes have a **larger working channel accommodating 10F accessories**, with improved suction of retained contents and clots — preferred in severe bleeding. A **dedicated water jet** is required for treating NVUGIB. In the colon, a **clear cap is recommended** — it improves detection and facilitates hemostasis ([[acg-2023-lgib]]).
+- **Scope choice:** therapeutic upper endoscopes have a **larger working channel accommodating 10F accessories**, with improved suction of retained contents and clots — preferred in severe bleeding. A **dedicated water jet** is required for treating nonvariceal upper GI bleeding (NVUGIB). In the colon, a **clear cap is recommended** — it improves detection and facilitates hemostasis ([[acg-2023-lgib]]).
 - **Improving visualization when clot obscures the field:** reposition the patient (reverse Trendelenburg, or supine / right lateral decubitus); pre-procedural prokinetics; "clot-busting" tubing or 6-mm-channel endoscopes for increased suction; extraction/foreign-body retrieval nets. **Do not spend time clearing a large gastric clot unless no source is found distally.** If clot prevents full gastric examination and no source is found, **repeat endoscopy after allowing time for gastric emptying**, timed to patient stability and degree of bleeding.
-- **Coagulation status:** endoscopic hemostasis is considered safe at **INR ≤2.5** ([[acg-2023-lgib]]).
+- **Coagulation status:** endoscopic hemostasis is considered safe at **international normalized ratio (INR) ≤2.5** ([[acg-2023-lgib]]).
 - **Adherent clot over an ulcer:** remove it endoscopically to expose and evaluate the underlying stigma, which may require endotherapy. (The Forrest IIb evidence and the competing high-dose-PPI-alone option are on [[upper-gi-bleeding]].)
 
 ---

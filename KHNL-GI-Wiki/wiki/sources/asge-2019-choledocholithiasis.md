@@ -22,15 +22,15 @@ sources: []
 
 ## Summary
 
-This guideline risk-stratifies suspected common bile duct (CBD) stones and defines the diagnostic and therapeutic endoscopic pathway, including stone-clearance techniques and the role of early [[ercp]] in gallstone pancreatitis.
+This guideline risk-stratifies suspected common bile duct (CBD) stones and defines the diagnostic and therapeutic endoscopic pathway, including stone-clearance techniques and the role of early [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] in gallstone pancreatitis.
 
 ---
 
 ## Key Recommendations
 
 - **Risk stratification (revised from 2010):**
-  - **High (>50%)** — any of: CBD stone on US/cross-sectional imaging; total bilirubin **>4 mg/dL** *and* dilated CBD; ascending cholangitis → proceed directly to **[[ercp]]**.
-  - **Intermediate (10–50%)** — any of: abnormal liver tests; age **>55 y**; dilated CBD → confirm first with **EUS or MRCP** (or IOC / intraoperative US) to avoid unnecessary ERCP.
+  - **High (>50%)** — any of: CBD stone on ultrasound (US)/cross-sectional imaging; total bilirubin **>4 mg/dL** *and* dilated CBD; ascending cholangitis → proceed directly to **[[ercp]]**.
+  - **Intermediate (10–50%)** — any of: abnormal liver tests; age **>55 y**; dilated CBD → confirm first with **endoscopic ultrasound (EUS) or magnetic resonance cholangiopancreatography (MRCP)** (or intraoperative cholangiography [IOC] / intraoperative US) to avoid unnecessary ERCP.
   - **Low (<10%)** — no predictors → cholecystectomy with intraoperative cholangiogram as needed.
   - Dilated CBD = **>6 mm** (gallbladder in situ) / **>8 mm** (post-cholecystectomy). Bilirubin >4 alone *or* dilation alone is only intermediate — the combination is high-risk. **Gallstone pancreatitis dropped** as a criterion (no correlation with persistent stones).
 - **EUS and MRCP** have comparable high accuracy for detecting CBD stones; choose by availability/expertise.

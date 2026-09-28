@@ -22,7 +22,7 @@ sources: []
 
 ## Summary
 
-This guideline defines the endoscopic approach to **acute cholangitis** — timing and modality of biliary decompression. [[ercp]] is the favored drainage route, performed early.
+This guideline defines the endoscopic approach to **acute cholangitis** — timing and modality of biliary decompression. [[ercp|Endoscopic retrograde cholangiopancreatography (ERCP)]] is the favored drainage route, performed early.
 
 ---
 
@@ -30,14 +30,14 @@ This guideline defines the endoscopic approach to **acute cholangitis** — timi
 
 - **ERCP over percutaneous transhepatic biliary drainage (PTBD)** as the modality of choice for biliary decompression in cholangitis.
 - Perform **ERCP within 48 hours** of presentation (earlier for severe/refractory cases) rather than delaying.
-  - **Refinement (2026 RCT, [[jagtap-2026-urgent-vs-early-ercp-cholangitis]]):** within that 48-h window, compressing to **urgent <24 h confers no benefit in mild-to-moderate cholangitis** (same mortality/organ failure) and **~doubles post-ERCP adverse events** (mainly bleeding). Urgent (<24 h) drainage remains for **severe** cholangitis.
+  - **Refinement (2026 randomized controlled trial [RCT], [[jagtap-2026-urgent-vs-early-ercp-cholangitis]]):** within that 48-h window, compressing to **urgent <24 h confers no benefit in mild-to-moderate cholangitis** (same mortality/organ failure) and **~doubles post-ERCP adverse events** (mainly bleeding). Urgent (<24 h) drainage remains for **severe** cholangitis.
 - **Combine biliary drainage with definitive stone clearance** when feasible at the index ERCP; when complete clearance isn't possible, place a stent and plan repeat ERCP.
 
 ---
 
 ## Clinical Relevance
 
-Early **[[ercp]] (<48 h)** with stone clearance/stenting is the standard for acute cholangitis; PTBD and surgery are fallbacks. Connects to [[biliary-stricture]] evaluation and EUS-guided drainage when ERCP fails ([[asge-2024-therapeutic-eus-biliary|therapeutic EUS]]).
+Early **[[ercp]] (<48 h)** with stone clearance/stenting is the standard for acute cholangitis; PTBD and surgery are fallbacks. Connects to [[biliary-stricture]] evaluation and endoscopic ultrasound (EUS)-guided drainage when ERCP fails ([[asge-2024-therapeutic-eus-biliary|therapeutic EUS]]).
 
 ---
 

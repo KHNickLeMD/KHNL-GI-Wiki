@@ -38,17 +38,17 @@ sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancre
 
 ### Establishing the Diagnosis
 
-Chronic pancreatitis (CP) is a **pathologic fibroinflammatory syndrome of the pancreas** in individuals with genetic, environmental, and/or other risk factors who develop persistent pathologic responses to parenchymal injury or stress (Mechanistic Definition, 2016/2018). Traditional clinicopathologic definition required irreversible morphologic change (fibrosis, calcification, ductal distortion, EPI, endocrine dysfunction, dysplasia); the mechanistic definition allows earlier diagnosis before end-stage morphology develops.
+Chronic pancreatitis (CP) is a **pathologic fibroinflammatory syndrome of the pancreas** in individuals with genetic, environmental, and/or other risk factors who develop persistent pathologic responses to parenchymal injury or stress (Mechanistic Definition, 2016/2018). Traditional clinicopathologic definition required irreversible morphologic change (fibrosis, calcification, ductal distortion, exocrine pancreatic insufficiency [EPI], endocrine dysfunction, dysplasia); the mechanistic definition allows earlier diagnosis before end-stage morphology develops.
 
 **Cardinal features:**
 
 - Pancreatic atrophy, fibrosis, ductal distortion/strictures, calcifications
 - Pain syndromes (most common symptom)
-- [[exocrine-pancreatic-insufficiency|Exocrine pancreatic insufficiency (EPI)]]
-- Endocrine dysfunction (type 3c DM)
+- [[exocrine-pancreatic-insufficiency|EPI]]
+- Endocrine dysfunction (type 3c diabetes mellitus [DM])
 - Dysplasia (increased ductal adenocarcinoma risk)
 
-**Diagnostic algorithm (ACG 2020, Fig 1 — clinicopathologic model):**
+**Diagnostic algorithm (American College of Gastroenterology [ACG] 2020, Fig 1 — clinicopathologic model):**
 
 ![[chronic-pancreatitis-2020-diagnostic-algorithm-11.png|700x416]]
 *Figure 1 — Diagnostic algorithm for chronic pancreatitis based on the clinicopathologic disease model. CT, computed tomography; MRCP, magnetic resonance cholangiopancreatography. ([[acg-2020-chronic-pancreatitis]])*
@@ -58,21 +58,21 @@ Genetic testing recommended if etiology unclear (especially <35 yr) [[acg-2020-c
 **Mechanistic algorithm (Fig 2) — 3 levels of investigation:**
 
 ![[chronic-pancreatitis-2020-mechanistic-algorithm-12.png|700x369]]
-*Figure 2 — Conceptual diagnostic algorithm based on the mechanistic definition of chronic pancreatitis. Rows a–c represent escalating levels of clinical investigation. TIGAR-O risk factors guide workup at each level. ([[acg-2020-chronic-pancreatitis]])*
+*Figure 2 — Conceptual diagnostic algorithm based on the mechanistic definition of chronic pancreatitis. Rows a–c represent escalating levels of clinical investigation. TIGAR-O (toxic-metabolic, idiopathic, genetic, autoimmune, recurrent and severe acute pancreatitis, obstructive) risk factors guide workup at each level. ([[acg-2020-chronic-pancreatitis]])*
 
-- **A:** Clinical (pancreatitis pain, maldigestion, weight loss, glucose intolerance) + TIGAR-O risk factors + imaging/serum (CT, [[endoscopic-ultrasound|EUS]]±FNA, amylase/lipase, TG, IgG4, glucose, fat-soluble vitamins, tumor markers)
-- **B:** Family history, early onset, CF organ involvement, syndromic features → genetic testing, sweat chloride, sMRCP, exocrine function testing
-- **C:** [[inflammatory-bowel-disease|IBD]]/IgG4 disease, response to therapy (analgesics, PERT, steroid trial for AIP type 2) → histology
+- **A:** Clinical (pancreatitis pain, maldigestion, weight loss, glucose intolerance) + TIGAR-O risk factors + imaging/serum (CT, [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]±fine-needle aspiration (FNA), amylase/lipase, triglycerides (TG), immunoglobulin G4 (IgG4), glucose, fat-soluble vitamins, tumor markers)
+- **B:** Family history, early onset, cystic fibrosis (CF) organ involvement, syndromic features → genetic testing, sweat chloride, secretin-enhanced MRCP (sMRCP), exocrine function testing
+- **C:** [[inflammatory-bowel-disease|Inflammatory bowel disease (IBD)]]/IgG4 disease, response to therapy (analgesics, pancreatic enzyme replacement therapy [PERT], steroid trial for autoimmune pancreatitis [AIP] type 2) → histology
 
 **Imaging modality test characteristics** — systematic review/meta-analysis of 43 studies, 3,460 patients with suspected CP ([[acg-2020-chronic-pancreatitis]]). **The sensitivities did not differ significantly from one another**, so modality choice is driven by specificity, invasiveness, and availability rather than by pick-up rate.
 
-| Modality | Sensitivity (95% CI) | Specificity (95% CI) |
+| Modality | Sensitivity (95% confidence interval [CI]) | Specificity (95% CI) |
 |---|---|---|
 | [[endoscopic-ultrasound\|EUS]] | **81%** (70–89) | 90% (82–95) |
-| MRI | 78% (69–85) | **96%** (90–98) |
+| Magnetic resonance imaging (MRI) | 78% (69–85) | **96%** (90–98) |
 | CT | 75% (66–83) | 91% (81–96) |
-| [[ercp\|ERCP]] | not reported | 94% (87–98) |
-| Transabdominal US | not reported | **98%** (89–100) |
+| [[ercp\|Endoscopic retrograde cholangiopancreatography (ERCP)]] | not reported | 94% (87–98) |
+| Transabdominal ultrasound (US) | not reported | **98%** (89–100) |
 
 *Caveat stated by the meta-analysis: not all included studies used a histologic gold standard.*
 
@@ -94,7 +94,7 @@ CT/MRI first-line; EUS only if cross-sectional imaging non-diagnostic and suspic
 
 #### Imaging morphology grade — the criteria behind the "Cambridge" row
 
-APA 2014 **Table 6, Pancreas Morphology Imaging Grade (I–IV)** — the graded morphology that the M-ANNHEIM imaging row and the diagnostic-evidence tiers (below) are scored from ([[apa-2014-chronic-pancreatitis]]). **Ultrasound is graded on the same criteria as CT.**
+American Pancreatic Association (APA) 2014 **Table 6, Pancreas Morphology Imaging Grade (I–IV)** — the graded morphology that the M-ANNHEIM imaging row and the diagnostic-evidence tiers (below) are scored from ([[apa-2014-chronic-pancreatitis]]). **Ultrasound is graded on the same criteria as CT.**
 
 | Modality | Equivocal (I) | Mild (II) | Moderate (III) | Marked (IV) |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ APA 2014 **Table 6, Pancreas Morphology Imaging Grade (I–IV)** — the graded 
 - Average **normal** main-duct diameter **3.6 / 2.7 / 1.6 mm** (head / body / tail); reported **upper limit of normal as high as 6.5 / 5 / 3 mm**.
 - Dilation is **general** (>⅔ of the main duct) or **local** (<⅔). **Severe dilation = >1 cm.**
 - Main-duct abnormalities: dilation, narrowing, strictures, filling defects, leaks/cavities. Side-branch abnormalities: decreased number, shortened length, dilated or narrowed caliber — **the normal/abnormal boundary for side branches is not clearly defined in the source**.
-- Cambridge–histology correlation is **highest in advanced disease** (77% for moderate/marked vs 67% for normal/equivocal/mild). Confounders: age-related ductal change, post-AP change, PanIN-related branch-duct change — ductal abnormalities **alone** misdiagnose CP (81% of a post-mortem series without CP had "abnormal" pancreatograms).
+- Cambridge–histology correlation is **highest in advanced disease** (77% for moderate/marked vs 67% for normal/equivocal/mild). Confounders: age-related ductal change, post-acute pancreatitis (AP) change, pancreatic intraepithelial neoplasia (PanIN)-related branch-duct change — ductal abnormalities **alone** misdiagnose CP (81% of a post-mortem series without CP had "abnormal" pancreatograms).
 
 #### Diagnostic evidence tiers (APA 2014, Table 5)
 
@@ -117,7 +117,7 @@ Interpret only in a patient whose history/exam is suspicious for CP (pain, prior
 |---|---|
 | **Definitive** | **Any one of:** moderate/marked imaging morphology (ductal **and** parenchymal abnormalities) · pancreatic calcifications · histologic confirmation |
 | **Probable** | (**Mild** imaging morphology **or** recurrent pseudocyst/pancreatitis) **plus** abnormal pancreatic physiology (secretin test, diabetes, steatorrhea) |
-| **Insufficient** | **Equivocal** imaging morphology, **or** abdominal pain with any of: no history of pancreatitis (lipase <3× ULN), normal imaging, family history of pancreatitis, prior ERCP with PD stenting, presence of TIGAR-O risk factors (smoking, alcohol) |
+| **Insufficient** | **Equivocal** imaging morphology, **or** abdominal pain with any of: no history of pancreatitis (lipase <3× upper limit of normal [ULN]), normal imaging, family history of pancreatitis, prior ERCP with pancreatic duct (PD) stenting, presence of TIGAR-O risk factors (smoking, alcohol) |
 
 ### Classification — TIGAR-O v2.0 risk/etiology checklist
 
@@ -125,11 +125,11 @@ Interpret only in a patient whose history/exam is suspicious for CP (pain, prior
 
 Key categories:
 
-- **Toxic-metabolic:** alcohol (3–4/d; ≥5/d), smoking (pack-years), hypercalcemia (iCa >12 mg/dL), hypertriglyceridemia (fasting >300 / nonfasting >500), medications
+- **Toxic-metabolic:** alcohol (3–4/d; ≥5/d), smoking (pack-years), hypercalcemia (ionized calcium [iCa] >12 mg/dL), hypertriglyceridemia (fasting >300 / nonfasting >500), medications
 - **Idiopathic:** early-onset (<35 yr) vs. late-onset (>35 yr)
-- **Genetic:** PRSS1 (AD, [[hereditary-pancreatitis|hereditary pancreatitis]]), SPINK1 (AR, severe), CFTR (cystic fibrosis or CFTR-RD), CTRC, CASR, CLDN2 (alcohol accelerator), CPA1, CEL (MODY-8)
+- **Genetic:** PRSS1 (autosomal dominant [AD], [[hereditary-pancreatitis|hereditary pancreatitis]]), SPINK1 (autosomal recessive [AR], severe), CFTR (cystic fibrosis or CFTR-related disorder [CFTR-RD]), CTRC, CASR, CLDN2 (alcohol accelerator), CPA1, CEL (maturity-onset diabetes of the young type 8 [MODY-8])
 - **Autoimmune:** AIP type 1 (IgG4-related) / type 2 (IBD-associated)
-- **RAP and SAP:** biliary, post-[[ercp|ERCP]], traumatic, undetermined
+- **Recurrent acute pancreatitis (RAP) and severe acute pancreatitis (SAP):** biliary, post-[[ercp|ERCP]], traumatic, undetermined
 - **Obstructive:** [[pancreas-divisum|pancreas divisum]], ampullary stenosis, main-duct stones, calcifications, strictures, mass
 
 *Full gene table (inheritance, mechanism, phenotype) lives on [[hereditary-pancreatitis]].*
@@ -142,10 +142,10 @@ Key categories:
 
 - [[acute-pancreatitis]] — acute flares; RAP is precursor in 30% (overall ~60% of CP evolves from AP/RAP)
 - **[[pancreatic-cancer|Pancreatic adenocarcinoma]]** — new stricture/mass; consider in any new-onset CP, especially older, new diabetes + weight loss
-- **[[autoimmune-pancreatitis|Autoimmune pancreatitis]] (AIP)** — type 1 (IgG4-related; sausage pancreas, IgG4↑, steroid-responsive) vs. type 2 (IBD-associated, granulocytic epithelial lesions, younger)
+- **[[autoimmune-pancreatitis|Autoimmune pancreatitis]]** — type 1 (IgG4-related; sausage pancreas, IgG4↑, steroid-responsive) vs. type 2 (IBD-associated, granulocytic epithelial lesions, younger)
 - [[biliary-stricture]] — CP = most common benign cause of extrahepatic [[biliary-stricture|biliary stricture]]
 - **[[pancreas-divisum|Pancreas divisum]] / ampullary stenosis** — consider in idiopathic CP
-- **IPMN / [[pancreatic-cysts|pancreatic cysts]]** — duct dilation can mimic CP
+- **Intraductal papillary mucinous neoplasm (IPMN) / [[pancreatic-cysts|pancreatic cysts]]** — duct dilation can mimic CP
 - Long-standing diabetes with secondary pancreatic changes
 - Renal disease causing secondary pancreatic effects
 - Cyclosporine, age-related atrophy/fibrosis
@@ -157,7 +157,7 @@ Key categories:
 ### Imaging
 
 - **CT (first-line):** calcifications, ductal dilation (>3 mm), parenchymal atrophy, pseudocysts; widespread calcifications are pathognomonic but late finding
-- **MRI/[[mri-mrcp|MRCP]]:** ductal anatomy, side branches; secretin-enhanced MRCP (s-MRCP) for subtle ductal changes (dilated side branches, ectatic main duct)
+- **MRI/[[mri-mrcp|MRCP]]:** ductal anatomy, side branches; sMRCP for subtle ductal changes (dilated side branches, ectatic main duct)
 - **[[endoscopic-ultrasound|EUS]]:** most sensitive for early/minimal-change CP but least specific — reserve for cases where CT/MRCP are non-diagnostic, and do not use as the sole basis for diagnosis. Findings graded by the **Rosemont classification** (below)
 
 #### Conventional (unweighted) EUS criteria
@@ -215,7 +215,7 @@ APA 2014 names the features and gives only the ductal cutoffs shown above; it do
 - Only two Major A features exist — **parenchymal hyperechoic foci with shadowing** and **MPD calculi**. Both require **acoustic shadowing**; the same foci without shadowing drop to minor. This distinction drives the whole classification
 - Lobularity is **never** Major A. It is one feature split two ways: honeycombing = Major B, non-contiguous lobules = minor. See the source discrepancy note below
 - Based **solely on expert opinion** — never validated against a histologic gold standard, and not shown superior to conventional EUS criteria for clinical outcomes [[apa-2014-chronic-pancreatitis]]
-- **Interobserver agreement is the main practical limit.** Across 11 expert endosonographers scoring the 9 conventional criteria, agreement was good only for **duct dilatation (κ 0.60)** and **lobularity (κ 0.51)**; the other 7 features were poor (**κ <0.4**), and agreement on the final diagnosis of CP was only moderate (**κ 0.45**). APA treats poor IOA as a moderate-evidence limit on EUS utility overall
+- **Interobserver agreement (IOA) is the main practical limit.** Across 11 expert endosonographers scoring the 9 conventional criteria, agreement was good only for **duct dilatation (κ 0.60)** and **lobularity (κ 0.51)**; the other 7 features were poor (**κ <0.4**), and agreement on the final diagnosis of CP was only moderate (**κ 0.45**). APA treats poor IOA as a moderate-evidence limit on EUS utility overall
 - Low specificity: EUS features are **not necessarily pathologic** — normal aging, normal anatomic variants, and asymptomatic non-diagnostic fibrosis (without exocrine or endocrine dysfunction) all produce them. Such fibrosis is reported in **up to 60% of alcoholics with no clinical evidence of CP**, whereas the **lifetime risk of CP in alcoholics is only 2%–5%** — so the finding vastly outnumbers the disease
 - APA's explicit posture: **err toward more stringent criteria**, accepting missed diagnoses, to avoid over-diagnosis and "unnecessary and potentially risky therapies" — justified by the lack of reliably effective CP treatments
 - Bottom line: "consistent with CP" is meaningful in a patient with a compatible clinical picture; "suggestive"/"indeterminate" is not a diagnosis — pair with function testing (fecal elastase, sMRCP) rather than treating the score as definitive
@@ -228,8 +228,8 @@ The [[apa-2014-chronic-pancreatitis|APA 2014 guideline]] text states parenchymal
 
 | Test | Type | Notes |
 |---|---|---|
-| CCK stimulation | Hormonal (acinar) | Direct, detects subtle EPI; cumbersome, Dreiling tube |
-| Secretin stimulation (ePFT) | Hormonal (ductal) | Endoscopic, measures bicarbonate; not widely available |
+| Cholecystokinin (CCK) stimulation | Hormonal (acinar) | Direct, detects subtle EPI; cumbersome, Dreiling tube |
+| Secretin stimulation (endoscopic pancreatic function test, ePFT) | Hormonal (ductal) | Endoscopic, measures bicarbonate; not widely available |
 | Fecal elastase-1 | Nonhormonal | Universally available and the most easily obtained test for EPI. **Accuracy depends on the cutoff chosen: <200 µg/g has a high false-positive rate; lowering to <100 µg/g improves specificity but lowers sensitivity** ([[acg-2020-chronic-pancreatitis]]). Specificity further limited by watery stool and small-bowel disease ([[apa-2014-chronic-pancreatitis]]) |
 | ¹³C-mixed triglyceride breath test | Nonhormonal | High sensitivity (~90%); not universally available; 4–6 hr |
 | Serum trypsinogen/trypsin | Nonhormonal | Easy; nonspecific; elevated with pancreatic pain |
@@ -240,9 +240,9 @@ Indicated when etiology unclear, family history, early onset, or pediatric/young
 
 ### Other labs
 
-- HbA1c, fasting glucose (annually) — screen for type 3c DM
+- Hemoglobin A1c (HbA1c), fasting glucose (annually) — screen for type 3c DM
 - Fat-soluble vitamins (A, D, E, K), B12, zinc, magnesium
-- DEXA scan — osteoporosis risk (Key Concept 10)
+- Dual-energy X-ray absorptiometry (DEXA) scan — osteoporosis risk (Key Concept 10)
 - IgG4 — exclude AIP type 1
 
 ---
@@ -251,7 +251,7 @@ Indicated when etiology unclear, family history, early onset, or pediatric/young
 
 ### Lifestyle
 
-- **Alcohol cessation** (Strong / Very Low) — single RCT shows reduced AP recurrence; cornerstone despite weak data [[acg-2020-chronic-pancreatitis]]
+- **Alcohol cessation** (Strong / Very Low) — single randomized controlled trial (RCT) shows reduced AP recurrence; cornerstone despite weak data [[acg-2020-chronic-pancreatitis]]
 - **Smoking cessation** (Strong / Very Low) — case series show reduced calcification progression
 
 ### Pain management — stepwise
@@ -260,20 +260,20 @@ Indicated when etiology unclear, family history, early onset, or pediatric/young
 |---|---|---|
 | **1** | Lifestyle (alcohol + smoking cessation) and **non-opioid analgesics** | — |
 | **2** | **Antioxidants** | Cond/Moderate. Selenium 600 µg · ascorbic acid 0.54 g · β-carotene 9000 IU · α-tocopherol 270 IU · methionine 2 g **daily**. Modest effect, mainly early disease |
-| **3** | Adjuncts — **pregabalin/gabapentin, TCA** | Extrapolated from the chronic-pain literature |
+| **3** | Adjuncts — **pregabalin/gabapentin, tricyclic antidepressant (TCA)** | Extrapolated from the chronic-pain literature |
 | **4** | **Celiac plexus block** | Cond/Very Low — route and expectations in the note below |
-| **5** | **Endoscopic decompression** — [[ercp\|ERCP]] ± ESWL for stones, stricture dilation, PD stent | First-line for *obstructive* CP |
+| **5** | **Endoscopic decompression** — [[ercp\|ERCP]] ± extracorporeal shock wave lithotripsy (ESWL) for stones, stricture dilation, PD stent | First-line for *obstructive* CP |
 | **6** | **Surgical drainage** — Puestow / Frey / Beger / Whipple | Strong/Moderate. **Superior to endoscopy** for long-term pain in obstructive CP, and the fallback if endoscopy fails (Cahen RCT: 75% pain relief with surgery vs 32% endoscopy at 2 y; Dite study mirrors) |
 | **7** | **Opiates** | Only when all other options are exhausted (Key Concept 7) |
 | **8** | **TPIAT** (total pancreatectomy + islet autotransplant) | Highly selected; refractory pain after medical therapy exhausted (Key Concept 8) |
 | — | *Experimental, research only:* spinal cord stimulation, transmagnetic stimulation, radiation | Key Concept 9 |
 
-**Celiac plexus block — route and expectations** ([[asge-2024-chronic-pancreatitis-endoscopy|ASGE 2024]] Rec 2, conditional / low):
+**Celiac plexus block — route and expectations** ([[asge-2024-chronic-pancreatitis-endoscopy|American Society for Gastrointestinal Endoscopy (ASGE) 2024]] Rec 2, conditional / low):
 
 - **If a block is going to be done, use the [[endoscopic-ultrasound|EUS]]-guided route over the percutaneous one.**
 - **Set the expectation before consenting: fewer than 60% of patients get pain relief, and it is not sustained (<6 months).**
 - **Who it is for:** CP patients **nonresponsive to medical therapy**, or when **no endoscopic or surgical option exists** (i.e. **nonobstructive** CP) — and patients with opioid side effects or who wish to avoid opioids. It is not a step for the patient with an obstructed duct, who should be routed to Rec 1 instead.
-- Concordant [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022]] detail (BPA 8): **not routine** — case-by-case for debilitating pain refractory to other measures; relief 50%–60% lasting ≤6 mo, almost all still need analgesics; AEs are diarrhea and orthostatic hypotension (major AEs <1%).
+- Concordant [[aga-2022-recurrent-pancreatitis-endoscopy|American Gastroenterological Association (AGA) 2022]] detail (best practice advice [BPA] 8): **not routine** — case-by-case for debilitating pain refractory to other measures; relief 50%–60% lasting ≤6 mo, almost all still need analgesics; adverse events (AEs) are diarrhea and orthostatic hypotension (major AEs <1%).
 
 ⚠ Active alcohol consumption is a relative contraindication to elective interventional procedures (Key Concept 6) — urgent/emergent procedures still warranted for complications.
 
@@ -301,14 +301,14 @@ Indicated when etiology unclear, family history, early onset, or pediatric/young
 
 - **Consider ESWL for radiopaque stones >10 mm.** Choosing between pancreatoscopy and ESWL is otherwise largely a matter of **local expertise and availability**.
 - **Pancreatoscopy is likely to be difficult in the presence of strictures with stones upstream of the stricture** — a practical reason to reach for ESWL first in that anatomy.
-- Effect sizes ([[aga-2022-recurrent-pancreatitis-endoscopy]]): ESWL fragmentation >90%, complete duct clearance in >⅔; pancreatoscopy-directed intraductal lithotripsy (EHL or laser) technical success ~88%, AE ~12%.
+- Effect sizes ([[aga-2022-recurrent-pancreatitis-endoscopy]]): ESWL fragmentation >90%, complete duct clearance in >⅔; pancreatoscopy-directed intraductal lithotripsy (electrohydraulic lithotripsy [EHL] or laser) technical success ~88%, AE ~12%.
 
 **MPD strictures (ASGE 2024 Rec 4 — conditional / very low):**
 
 - **Number of stents: place a SINGLE plastic stent, not multiple, for initial treatment of a dominant PD stricture.**
 - **Diameter: the largest plastic stent that can be safely deployed**, avoiding forceful or traumatic placement, with **gradual upsizing if necessary**.
 - **Reassess the need for upsizing at 3-monthly follow-up ERCPs** after the initial plastic-stent placement.
-- **Against the routine use of FCSEMS** for persistent or refractory PD strictures that have failed initial stent placement — **significant delayed adverse events and questionable efficacy**.
+- **Against the routine use of fully covered self-expanding metal stents (FCSEMS)** for persistent or refractory PD strictures that have failed initial stent placement — **significant delayed adverse events and questionable efficacy**.
 
 > ⚠ **Contradiction on the record — PD stent number and FCSEMS.** [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022]] BPA 6 advised prolonged plastic-stent therapy for 6–12 months with dilation and sequential **upsizing or multiple parallel stents** (pain relief up to 85%), and treated FCSEMS as "emerging" (vs multiple plastic stents: similar pain improvement 88% vs 89%, similar stricture recurrence 8% vs 11%, fewer ERCPs, but **higher adverse-event rate 39% vs 14%**). The newer [[asge-2024-chronic-pancreatitis-endoscopy|ASGE 2024]] guideline explicitly favors a **single** plastic stent initially and recommends **against** routine FCSEMS. **ASGE 2024 governs the page** (newer, same tier); AGA's higher-AE figure for FCSEMS is consistent with ASGE's stated reason.
 
@@ -323,21 +323,21 @@ Indicated when etiology unclear, family history, early onset, or pediatric/young
 
 - **Endoscopic drainage over surgical drainage** for symptomatic pseudocysts.
 - **Avoid a percutaneous approach as sole therapy** — risk of **pancreaticocutaneous fistula**.
-- Take a multidisciplinary approach with **altered anatomy**, or a pseudocyst **not in proximity to the GI lumen**. Collection-drainage technique lives on [[acute-pancreatitis]] and [[endoscopic-ultrasound]].
+- Take a multidisciplinary approach with **altered anatomy**, or a pseudocyst **not in proximity to the gastrointestinal (GI) lumen**. Collection-drainage technique lives on [[acute-pancreatitis]] and [[endoscopic-ultrasound]].
 
 ### Exocrine pancreatic insufficiency (EPI)
 
-- **PERT (Rec 11, Cond/Low):** **at least 40,000–50,000 USP units of lipase with each meal**, administered **during** the meal ([[acg-2020-chronic-pancreatitis]]); titrate to symptoms (steatorrhea, weight, vitamin levels). Snack dosing and the full EPI work-up/monitoring set live on the EPI page above
-- If inadequate, add acid suppression ([[proton-pump-inhibitors|PPI]]/H2RA) to protect non-enteric-coated formulations
+- **PERT (Rec 11, Cond/Low):** **at least 40,000–50,000 United States Pharmacopeia (USP) units of lipase with each meal**, administered **during** the meal ([[acg-2020-chronic-pancreatitis]]); titrate to symptoms (steatorrhea, weight, vitamin levels). Snack dosing and the full EPI work-up/monitoring set live on the EPI page above
+- If inadequate, add acid suppression ([[proton-pump-inhibitors|proton pump inhibitor (PPI)]]/histamine-2 receptor antagonist [H2RA]) to protect non-enteric-coated formulations
 - Periodic monitoring of weight, fat-soluble vitamins, bone density (Key Concept 10)
 - Small frequent meals without fat restriction
-- **SIBO co-occurrence:** Pancreatic insufficiency is a recognized risk factor for [[small-intestinal-bacterial-overgrowth]] (altered bile acid composition + reduced digestive enzyme activity). Consider SIBO evaluation in CP patients with persistent diarrhea/[[abdominal-bloating-and-distention|bloating]] despite adequate PERT. ([[acg-2020-sibo]])
+- **Small intestinal bacterial overgrowth (SIBO) co-occurrence:** Pancreatic insufficiency is a recognized risk factor for [[small-intestinal-bacterial-overgrowth]] (altered bile acid composition + reduced digestive enzyme activity). Consider SIBO evaluation in CP patients with persistent diarrhea/[[abdominal-bloating-and-distention|bloating]] despite adequate PERT. ([[acg-2020-sibo]])
 
 ### Endocrine dysfunction (type 3c DM)
 
 - Annual HbA1c screening
-- Insulin often required; metformin may have CA protective effect; avoid agents causing hypoglycemia if brittle
-- Distinct from T2DM — insulin-deficient + glucagon-deficient → hypoglycemia-prone
+- Insulin often required; metformin may have a cancer-protective effect; avoid agents causing hypoglycemia if brittle
+- Distinct from type 2 diabetes mellitus (T2DM) — insulin-deficient + glucagon-deficient → hypoglycemia-prone
 
 ### Genetic and family counseling
 

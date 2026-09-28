@@ -18,7 +18,7 @@ sources: []
 - **DOI:** [10.1053/j.gastro.2016.09.040](https://doi.org/10.1053/j.gastro.2016.09.040)
 - **Type:** Guideline — AGA Institute **Clinical Practice Update (Expert Review)**, 16 numbered *Practice Advice* statements. **Tier 1.**
 
-> **Grading: none.** The document attaches no GRADE rating, no strength-of-recommendation label, and no evidence-quality label to any of its 16 Practice Advice statements. **Methods, verbatim:** "The best practices outlined in this review are based on relevant publications, including systematic reviews and expert opinion (when applicable)." And: "A formal systematic review for all relevant aspects regarding diagnosis and management of LGD was not performed with the exception of natural history of LGD (Tables 1 and 2) and predictors for progression to HGD and EAC (Table 3). A panel of experts was convened to create a document that highlights the current controversies in LGD, provides practice advice based on the best available evidence, including systematic reviews and recent guidelines, and provides a framework for future research in this field."
+> **Grading: none.** The document attaches no Grading of Recommendations Assessment, Development and Evaluation (GRADE) rating, no strength-of-recommendation label, and no evidence-quality label to any of its 16 Practice Advice statements. **Methods, verbatim:** "The best practices outlined in this review are based on relevant publications, including systematic reviews and expert opinion (when applicable)." And: "A formal systematic review for all relevant aspects regarding diagnosis and management of LGD [low-grade dysplasia] was not performed with the exception of natural history of LGD (Tables 1 and 2) and predictors for progression to HGD [high-grade dysplasia] and EAC [esophageal adenocarcinoma] (Table 3). A panel of experts was convened to create a document that highlights the current controversies in LGD, provides practice advice based on the best available evidence, including systematic reviews and recent guidelines, and provides a framework for future research in this field."
 
 **Scope note, verbatim:** "The discussion around presence or absence of intestinal metaplasia is not part of this publication."
 
@@ -49,7 +49,7 @@ sources: []
 7. Surveillance biopsies should be performed in a four-quadrant fashion every 1–2 cm with target biopsies obtained from visible lesions taken first.
 8. Patients with a confirmed histologic diagnosis of LGD should be referred to an endoscopist with expertise in managing Barrett's esophagus–related neoplasia practicing at centers equipped with high-definition endoscopy and capable of performing endoscopic resection and ablation.
 9. Endoscopic resection should be performed in Barrett's esophagus patients with LGD with endoscopically visible abnormalities (no matter how subtle) in order to accurately assess the grade of dysplasia.
-10. In patients with confirmed Barrett's esophagus with LGD by expert GI pathology review that persists on a second endoscopy, despite intensification of acid-suppressive therapy, risks and benefits of management options of endoscopic eradication therapy (specifically adverse events associated with endoscopic resection and ablation), and ongoing surveillance should be discussed and documented.
+10. In patients with confirmed Barrett's esophagus with LGD by expert GI [gastrointestinal] pathology review that persists on a second endoscopy, despite intensification of acid-suppressive therapy, risks and benefits of management options of endoscopic eradication therapy (specifically adverse events associated with endoscopic resection and ablation), and ongoing surveillance should be discussed and documented.
 11. Endoscopic eradication therapy should be considered in patients with confirmed and persistent LGD with the goal of achieving complete eradication of intestinal metaplasia.
 12. Patients with LGD undergoing surveillance rather than endoscopic eradication therapy should undergo surveillance every 6 months times 2, then annually unless there is reversion to nondysplastic Barrett's esophagus. Biopsies should be obtained in 4-quadrants every 1–2 cm and of any visible lesions.
 13. In patients with Barrett's esophagus–related LGD undergoing ablative therapy, radiofrequency ablation should be used.
@@ -81,14 +81,14 @@ flowchart TD
     M --> N{"Decision to proceed with<br/>endoscopic eradication therapy"}
     N -->|No| O["Surveillance endoscopy<br/>• Every 6 months x 1 year, annually thereafter<br/>• Separate biopsies of visible abnormalities<br/>• 4-quadrant biopsies every 1–2 cm"]
     N -->|Yes| P["Radiofrequency ablation: goal of complete<br/>eradication of intestinal metaplasia"]
-    P --> Q["Enroll in surveillance program post-EET<br/>• Surveillance EGD every year for 2 years<br/>and then every 3 years"]
+    P --> Q["Enroll in surveillance program post-endoscopic eradication therapy (EET)<br/>• Surveillance esophagogastroduodenoscopy (EGD) every year for 2 years<br/>and then every 3 years"]
 ```
 
 ---
 
 ## Table 2 — Progression Rates Before vs After Expert Pathology Review
 
-*Verbatim from the source (Table 2: "Studies Highlighting the Difference in Progression Rates Among Barrett's Esophagus Patients With Low-Grade Dysplasia After Expert Pathology Review").*
+*Verbatim from the source (Table 2: "Studies Highlighting the Difference in Progression Rates Among Barrett's Esophagus Patients With Low-Grade Dysplasia After Expert Pathology Review"). Barrett's esophagus (BE); confidence interval (CI).*
 
 | Author | Year | Country | Study design | N BE-LGD | % of BE initially diagnosed as LGD | % of LGD confirmed | Progression to HGD/EAC with expert downgrading | Progression to HGD/EAC with expert confirmation of LGD |
 |---|---|---|---|---|---|---|---|---|
@@ -104,7 +104,7 @@ flowchart TD
 
 ## Table 3 — Predictors of Progression to HGD/EAC in BE With LGD
 
-*Verbatim from the source (Table 3). "NS" = not significant; positive association unless marked NS.*
+*Verbatim from the source (Table 3). "NS" = not significant; positive association unless marked NS. Not reported (NR); immunohistochemistry (IHC).*
 
 | Author | Year | Country | Study type | Dx LGD confirmed by "expert" | N BE-LGD | Predictors |
 |---|---|---|---|---|---|---|
@@ -134,9 +134,9 @@ The source lists 7 quality indicators "pertinent to this document" (verbatim):
 
 1. Dysplasia diagnosis is confirmed by an expert GI pathologist
 2. Centers performing endoscopic eradication therapy should have high-definition white light endoscopy
-3. Endoscopists that perform mucosal ablation and ER
+3. Endoscopists that perform mucosal ablation and ER [endoscopic resection]
 4. Complete endoscopic resection is performed in patients with visible lesions
-5. Rate at which CE-IM and CE-D is achieved by 18 months after embarking on endoscopic eradication therapy
+5. Rate at which CE-IM [complete eradication of intestinal metaplasia] and CE-D [complete eradication of dysplasia] is achieved by 18 months after embarking on endoscopic eradication therapy
 6. Surveillance occurs after achieving CE-IM
 7. Adverse events are tracked and documented
 
@@ -152,7 +152,7 @@ The source lists 7 quality indicators "pertinent to this document" (verbatim):
 
 This Clinical Practice Update addresses the single most consequential problem in Barrett's LGD: the diagnosis itself is unreliable, and almost every management decision downstream depends on getting it right. Histologic LGD has fair-to-slight interobserver agreement (κ = 0.32 for LGD, κ = 0.15 for indefinite for dysplasia; κ = 0.14 between two expert central GI pathologists in one multicenter cohort), and 73–75% of community LGD diagnoses are downgraded to nondysplastic BE or indefinite for dysplasia on expert panel review. Because reported progression rates in LGD span 0.4%–13.4% per year across cohorts, the update's organizing claim is that this spread is driven largely by diagnostic overcall rather than by biology.
 
-Expert confirmation therefore functions as the risk stratifier. Confirmed LGD progressed to HGD/EAC at 9.1% per year vs 0.6% in downgraded cases (Duits); 13.4% vs 0.49% (Curvers). The number of pathologists concurring compounds this (OR 47.14, 95% CI 13.1–169.7 when all 3 agreed). A confirmed diagnosis mandates repeat high-definition endoscopy under maximal acid suppression (twice-daily PPI) within 8–12 weeks, with endoscopic resection of any visible abnormality "no matter how subtle," since resection changes the histopathologic diagnosis in ~30% of patients with early neoplasia and yields better interobserver agreement than biopsy (κ = 0.33 vs 0.22).
+Expert confirmation therefore functions as the risk stratifier. Confirmed LGD progressed to HGD/EAC at 9.1% per year vs 0.6% in downgraded cases (Duits); 13.4% vs 0.49% (Curvers). The number of pathologists concurring compounds this (odds ratio [OR] 47.14, 95% CI 13.1–169.7 when all 3 agreed). A confirmed diagnosis mandates repeat high-definition endoscopy under maximal acid suppression (twice-daily proton pump inhibitor [PPI]) within 8–12 weeks, with endoscopic resection of any visible abnormality "no matter how subtle," since resection changes the histopathologic diagnosis in ~30% of patients with early neoplasia and yields better interobserver agreement than biopsy (κ = 0.33 vs 0.22).
 
 For management, the update declines to declare a winner between ablation and surveillance, instead framing it as a documented shared decision. Endoscopic eradication therapy "should be considered" in confirmed **and persistent** LGD, with CE-IM as the goal and radiofrequency ablation as the modality if ablating. Surveillance remains defensible: it must run every 6 months × 2 then annually, with 4-quadrant biopsies every 1–2 cm, and it detects progression at a stage still amenable to endoscopic treatment. Post-EET, surveillance is stratified by whether CE-IM was achieved — a distinction not carried forward in later guidelines.
 
@@ -176,26 +176,26 @@ Finally, the update is unusually explicit about **audit as a practice obligation
 - Confirmed vs downgraded LGD: 9.1%/yr vs 0.6%/yr (Duits); 13.4%/yr vs 0.49%/yr (Curvers).
 - Dutch study: confirmed LGD incidence rate 5.18 per 100 person-years (95% CI 3.63–7.19) vs 1.85 (95% CI 1.52–2.22) without confirmation; P < .001.
 - Number of concurring pathologists: OR **47.14** (95% CI 13.1–169.7) when all 3 agreed; OR range 4.48–11.33 for individual pathologists.
-- **Persistent LGD** (LGD on 2 consecutive endoscopies) was the only independent risk factor for HGD/EAC in one Dutch cohort (HR 3.5, 95% CI 1.48–8.28); OR 7.25 (95% CI 1.28–41.1) in another.
+- **Persistent LGD** (LGD on 2 consecutive endoscopies) was the only independent risk factor for HGD/EAC in one Dutch cohort (hazard ratio [HR] 3.5, 95% CI 1.48–8.28); OR 7.25 (95% CI 1.28–41.1) in another.
 - Nodularity HR 3.12 (95% CI 1.18–8.25) and multifocal dysplasia (dysplasia on ≥2 specimens from different locations in the BE segment on the same endoscopy) HR 3.09 (95% CI 1.49–6.41) were independent predictors in a multicenter US study; shorter BE length, active smoking, and PPI use were associated with regression.
 - Prevalent LGD HR 2.9 (95% CI 1.6–5.2) in one single-center study; OR 7.57 (95% CI 1.9–30.2) in another; index biopsy of LGD vs indefinite for dysplasia HR 2.8 (95% CI 1.01–8.1).
-- Increasing BMI was **inversely** associated with progression (OR per 5 kg/m² increment 0.52; 95% CI 0.28–0.94). Unifocal LGD was associated with regression.
+- Increasing body mass index (BMI) was **inversely** associated with progression (OR per 5 kg/m² increment 0.52; 95% CI 0.28–0.94). Unifocal LGD was associated with regression.
 - A **LGD/BE ratio <0.15** (proportion of BE patients diagnosed with LGD in a practice) was associated with a higher rate of progression to EAC than a ratio >0.15 (**0.76%/yr vs 0.32%/yr**) — the threshold itself "has not been defined," but experts believe it should be <0.05.
 - Missed EAC (EAC diagnosed within 1 year of initial endoscopy) rate **25.3%** (95% CI 16.4–36.8) in cohorts of nondysplastic BE and BE with LGD.
 
 **Endoscopic evaluation**
-- Post-hoc analysis of 2 RCTs: the **proximal half** of the BE segment is almost twice as likely to demonstrate dysplasia as the distal-most quartile.
-- NBI vs HD-WLE randomized crossover: comparable detection of intestinal metaplasia and early neoplasia with **fewer biopsies** in the NBI arm.
+- Post-hoc analysis of 2 randomized controlled trials (RCTs): the **proximal half** of the BE segment is almost twice as likely to demonstrate dysplasia as the distal-most quartile.
+- Narrow-band imaging (NBI) vs high-definition white-light endoscopy (HD-WLE) randomized crossover: comparable detection of intestinal metaplasia and early neoplasia with **fewer biopsies** in the NBI arm.
 - Advanced imaging (optical chromoendoscopy and chromoendoscopy) increased dysplasia or cancer detection by **34%** (95% CI 20%–56%; P < .0001) — but no standardized classification system including LGD exists.
 - Confocal laser endomicroscopy, autofluorescence, optical frequency domain imaging, spectroscopy, and high-resolution microendoscopy "cannot be recommended in the routine clinical management of these patients."
 
 **Treatment**
-- **AIM Dysplasia RCT** (127 patients, 2:1 RFA vs sham; 64 with LGD): at 12 months, complete eradication of LGD 90% (RFA) vs 23% (sham); CE-IM 81% vs 4% (P < .001). At 2 years, CE-D 51/52 (98%) and CE-IM 51/52 (98%). Among LGD subjects, annual progression to EAC 0.51%/patient-year and overall disease progression 2.04%/patient-year.
-- **SURF RCT** (136 patients, confirmed LGD, qualifying endoscopy within 6 months): ablation every 3 months to a maximum of 2 circumferential and 3 focal sessions. Progression to HGD/EAC 1.5% (RFA) vs 26.5% (surveillance), P < .001 → **absolute risk reduction 25% (95% CI 14.1–35.9), NNT 4**; EAC 1.5% vs 8.8%, P = .03 → **ARR 7.4% (95% CI 0–14.7), NNT 13.6**. Treatment-related adverse events 19.1%, strictures most common.
+- **AIM Dysplasia RCT** (127 patients, 2:1 radiofrequency ablation (RFA) vs sham; 64 with LGD): at 12 months, complete eradication of LGD 90% (RFA) vs 23% (sham); CE-IM 81% vs 4% (P < .001). At 2 years, CE-D 51/52 (98%) and CE-IM 51/52 (98%). Among LGD subjects, annual progression to EAC 0.51%/patient-year and overall disease progression 2.04%/patient-year.
+- **SURF RCT** (136 patients, confirmed LGD, qualifying endoscopy within 6 months): ablation every 3 months to a maximum of 2 circumferential and 3 focal sessions. Progression to HGD/EAC 1.5% (RFA) vs 26.5% (surveillance), P < .001 → **absolute risk reduction (ARR) 25% (95% CI 14.1–35.9), number needed to treat (NNT) 4**; EAC 1.5% vs 8.8%, P = .03 → **ARR 7.4% (95% CI 0–14.7), NNT 13.6**. Treatment-related adverse events 19.1%, strictures most common.
 - Multicenter retrospective: progression LGD→HGD/EAC 0.77% (RFA) vs 6.6% (surveillance); adjusted HR 0.06 (95% CI 0.008–0.48), NNT 3.
 - Large RFA cohort (4982 patients, 20% LGD): 2% developed EAC (7.8/1000 person-years); 0.2% died of EAC (0.7/1000 person-years); all-cause mortality 11.2/1000 person-years (cardiovascular disease and extra-esophageal cancers the most common causes). Among the 1020 LGD patients, EAC incidence 4.3/1000 person-years. On multivariate analysis, BE length (OR 1.2/cm; 95% CI 1.1–1.2) and baseline histologic grade (LGD OR 5.9, 95% CI 1.6–21.5; HGD OR 48.4, 95% CI 14.9–157) predicted incident EAC. **Achieving CE-IM was protective (OR 0.4; 95% CI 0.3–0.6).**
 - Pooled adverse events with RFA ± endoscopic resection: **8.8%** (95% CI 6.5–11.9), stricture rate **5.6%** (95% CI 4.2–7.4).
-- Cost-effectiveness: RFA "might be cost-effective for confirmed (agreement between more than one expert pathologist) and persistent (LGD found on more than one endoscopy spaced at least 6 months apart) LGD compared with surveillance with RFA when HGD is detected" — **ICER $18,231 per quality-adjusted life-year**.
+- Cost-effectiveness: RFA "might be cost-effective for confirmed (agreement between more than one expert pathologist) and persistent (LGD found on more than one endoscopy spaced at least 6 months apart) LGD compared with surveillance with RFA when HGD is detected" — **incremental cost-effectiveness ratio (ICER) $18,231 per quality-adjusted life-year**.
 - CE-IM, not CE-D, is the goal: "achieving complete eradication of dysplasia is not sufficient, given the risk of metachronous neoplasia."
 
 **Post-EET recurrence**
@@ -207,11 +207,11 @@ Finally, the update is unusually explicit about **audit as a practice obligation
 
 ## Relevance to Wiki
 
-- **[[barretts-esophagus]]** — adds the LGD-specific decision content this CPU owns: manage downgraded LGD as NDBE; do not take surveillance biopsies during active erosive esophagitis (LA grade C/D) and inform the pathologist if they are taken anyway; the LGD/BE-ratio and audit concept; the surveillance-vs-EET conversation must be **documented**; persistent LGD as the progression discriminator.
+- **[[barretts-esophagus]]** — adds the LGD-specific decision content this clinical practice update (CPU) owns: manage downgraded LGD as nondysplastic Barrett's esophagus (NDBE); do not take surveillance biopsies during active erosive esophagitis (Los Angeles [LA] grade C/D) and inform the pathologist if they are taken anyway; the LGD/BE-ratio and audit concept; the surveillance-vs-EET conversation must be **documented**; persistent LGD as the progression discriminator.
 - **[[endoscopic-eradication-therapy]]** — adds the quality-indicator set, the audit obligation, the competence/volume data (threshold of 30; 20 procedures insufficient; 5% perforation in the first 120 esophageal ERs), and the post-EET surveillance schedule **for patients who never achieved CE-IM** (a scenario later guidelines do not schedule).
 - **[[radiofrequency-ablation]]** — Practice Advice 13 names RFA as the ablative modality for LGD; AIM Dysplasia 2-year durability (98% CE-D, 98% CE-IM) and the SURF ablation protocol (q3 months, max 2 circumferential + 3 focal sessions).
 - **[[esophageal-adenocarcinoma]]** — the 25.3% missed-EAC rate within 1 year of index endoscopy in NDBE/LGD cohorts.
-- Supersedes nothing currently on the wiki; it is the oldest Barrett's source ingested and is outranked on every overlapping claim by [[acg-2022-barretts|ACG 2022]], [[aga-2024-barretts-eet|AGA 2024]], and [[aga-2025-barretts-surveillance|AGA 2025]].
+- Supersedes nothing currently on the wiki; it is the oldest Barrett's source ingested and is outranked on every overlapping claim by [[acg-2022-barretts|American College of Gastroenterology (ACG) 2022]], [[aga-2024-barretts-eet|American Gastroenterological Association (AGA) 2024]], and [[aga-2025-barretts-surveillance|AGA 2025]].
 
 ---
 

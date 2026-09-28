@@ -17,13 +17,13 @@ sources: []
 
 ## Summary
 
-ASGE Standards of Practice statement on [[ercp|ERCP]] for benign biliary disease. ERCP has evolved into an almost exclusively therapeutic procedure; cross-sectional imaging (US, CT, MRCP, EUS) and intraoperative cholangiography select patients for therapeutic ERCP. Successful endoscopic cholangiography with relief of obstruction should be achievable in >90% of patients.
+American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice statement on [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] for benign biliary disease. ERCP has evolved into an almost exclusively therapeutic procedure; cross-sectional imaging (ultrasound [US], computed tomography [CT], magnetic resonance cholangiopancreatography [MRCP], endoscopic ultrasound [EUS]) and intraoperative cholangiography select patients for therapeutic ERCP. Successful endoscopic cholangiography with relief of obstruction should be achievable in >90% of patients.
 
-Core indications covered: [[choledocholithiasis]] (stone extraction, mechanical/cholangioscopy-guided lithotripsy for difficult stones, endoscopic papillary large-balloon dilation), benign [[biliary-stricture|biliary strictures]] (dilation + stenting; evolving role of fully covered SEMS), postoperative bile leaks (ERCP is first-line), sphincter of Oddi dysfunction (treat type I, do not perform ERCP for type III — EPISOD trial), and congenital choledochocele/choledochal cyst. Post-ERCP pancreatitis prophylaxis with rectal indomethacin ± pancreatic stent is recommended for high-risk patients including suspected SOD.
+Core indications covered: [[choledocholithiasis]] (stone extraction, mechanical/cholangioscopy-guided lithotripsy for difficult stones, endoscopic papillary large-balloon dilation [EPLBD]), benign [[biliary-stricture|biliary strictures]] (dilation + stenting; evolving role of fully covered self-expandable metal stents [SEMS]), postoperative bile leaks (ERCP is first-line), sphincter of Oddi dysfunction (SOD; treat type I, do not perform ERCP for type III — EPISOD trial), and congenital choledochocele/choledochal cyst. Post-ERCP pancreatitis (PEP) prophylaxis with rectal indomethacin ± pancreatic stent is recommended for high-risk patients including suspected SOD.
 
 ## Key Findings / Claims
 
-**Recommendations (verbatim, with GRADE quality of evidence):**
+**Recommendations (verbatim, with Grading of Recommendations Assessment, Development and Evaluation [GRADE] quality of evidence):**
 
 1. We recommend that diagnostic ERCP not be undertaken for the evaluation of pancreaticobiliary-type pain in the absence of objective abnormalities on other pancreaticobiliary imaging or laboratory studies. (Moderate)
 2. We recommend that routine ERCP before laparoscopic cholecystectomy not be performed in the absence of objective signs of biliary obstruction or stone. (Moderate)
@@ -37,15 +37,15 @@ Core indications covered: [[choledocholithiasis]] (stone extraction, mechanical/
 10. We recommend rectal indomethacin with or without a pancreatic stent for prophylaxis against post-ERCP pancreatitis when ERCP is performed in patients with suspected SOD. (Moderate)
 
 **Other points:**
-- Sensitivity/specificity of ERCP for CBD stones >95%, but small stones may be missed (cholangiography false-negative up to 13%).
+- Sensitivity/specificity of ERCP for common bile duct (CBD) stones >95%, but small stones may be missed (cholangiography false-negative up to 13%).
 - Difficult stones: mechanical lithotripsy, peroral cholangioscopy with electrohydraulic or laser lithotripsy (clears 83%-100% of difficult extrahepatic stones); endoscopic papillary large-balloon (≥12 mm) dilation + sphincterotomy gives high clearance with low (2.3%) PEP rate.
 - Bile leaks: ERCP with biliary sphincterotomy and/or stenting is the preferred strategy.
-- Fully covered SEMS for refractory benign strictures: larger caliber and longer patency allow fewer procedures than serial multiple-plastic-stent exchanges; role still evolving (RCTs needed).
+- Fully covered SEMS for refractory benign strictures: larger caliber and longer patency allow fewer procedures than serial multiple-plastic-stent exchanges; role still evolving (randomized controlled trials needed).
 - Surgically altered anatomy (Roux-en-Y, Billroth II): device-assisted (balloon) enteroscopy-ERCP or EUS-guided biliary access by experts when standard access fails.
 - EPISOD trial: sphincterotomy did not benefit type III SOD and carried significant adverse-event rates.
 
 ## Relevance to Wiki
-- Expands [[ercp]] — indications (choledocholithiasis, benign strictures, bile leaks, SOD, congenital cysts), difficult-stone techniques (EPLBD, cholangioscopy-guided lithotripsy), FCSEMS for benign strictures, altered-anatomy access.
+- Expands [[ercp]] — indications (choledocholithiasis, benign strictures, bile leaks, SOD, congenital cysts), difficult-stone techniques (EPLBD, cholangioscopy-guided lithotripsy), fully covered SEMS (FCSEMS) for benign strictures, altered-anatomy access.
 - Cross-links [[choledocholithiasis]], [[biliary-stricture]], [[cholangioscopy]], [[acute-pancreatitis]] (limit ERCP to cholangitis/obstruction).
 
 ## Contradictions / Open Questions

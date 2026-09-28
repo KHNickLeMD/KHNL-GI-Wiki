@@ -14,8 +14,8 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, acg-2020-ibs]
 - *Giardia intestinalis* (aka *G. lamblia* / *G. duodenalis*) — most common intestinal **parasitic** infection in the US; leading parasitic cause of persistent and [[fever-returning-traveler|traveler's]] diarrhea.
 - **Transmission:** contaminated water (lakes, streams, municipal supply), food, person-to-person fecal-oral. Cysts are **chlorine-resistant**.
 - **Clinical hallmark:** prolonged/[[chronic-diarrhea|persistent]] (often 14–30 days) watery-to-semi-formed, **malodorous** diarrhea; [[abdominal-bloating-and-distention|bloating]]; flatulence; may cause **malabsorption** and weight loss.
-- Asymptomatic cyst carriage is common in endemic areas, so a positive multiplex GI panel is not by itself an indication to treat (see Therapeutics).
-- **Most common enteric parasite in the US** — ~20,000 reported cases/year, with rates falling since 2012 (5.8 per 100,000 population). Reportable to the CDC. [[acg-2020-ibs]]
+- Asymptomatic cyst carriage is common in endemic areas, so a positive multiplex gastrointestinal (GI) panel is not by itself an indication to treat (see Therapeutics).
+- **Most common enteric parasite in the US** — ~20,000 reported cases/year, with rates falling since 2012 (5.8 per 100,000 population). Reportable to the Centers for Disease Control and Prevention (CDC). [[acg-2020-ibs]]
 
 **Who to test — CDC risk factors for *Giardia* infection** [[acg-2020-ibs]] (Table 5). These are the criteria that convert "don't test routinely" into "test":
 
@@ -34,7 +34,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, acg-2020-ibs]
 ### Severity Assessment
 
 - Most disease is self-limited/outpatient; significance driven by **chronicity** (persistent diarrhea, malabsorption, weight loss) rather than acute severity.
-- **Postinfectious sequelae are the main long-term burden** — RR of IBS (Rome III) after giardiasis **3.4 (95% CI 2.9–3.9)**; 1-year IBS incidence **37.7 vs. 4.4 per 1,000 person-years** vs. no prior *Giardia*. Food intolerances may develop **up to 3 years** after infection. See [[postinfectious-ibs]]. [[acg-2020-ibs]]
+- **Postinfectious sequelae are the main long-term burden** — relative risk (RR) of irritable bowel syndrome (IBS; Rome III) after giardiasis **3.4 (95% confidence interval (CI) 2.9–3.9)**; 1-year IBS incidence **37.7 vs. 4.4 per 1,000 person-years** vs. no prior *Giardia*. Food intolerances may develop **up to 3 years** after infection. See [[postinfectious-ibs]]. [[acg-2020-ibs]]
 
 ---
 
@@ -51,10 +51,10 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, acg-2020-ibs]
 
 ## Diagnostics
 
-- **Fecal immunoassay or PCR** — the tests ACG names for at-risk patients; **sensitivity 82–100%, specificity 91.5–100%**. [[acg-2020-ibs]]
+- **Fecal immunoassay or polymerase chain reaction (PCR)** — the tests American College of Gastroenterology (ACG) names for at-risk patients; **sensitivity 82–100%, specificity 91.5–100%**. [[acg-2020-ibs]]
 - **Real-time PCR / multiplex molecular panel** — lower limit of detection ~10² organisms/mL vs. microscopy >10⁶/mL; *Giardia* is a common panel target. PCR methods produced a **22-fold increase in detection** of *Cryptosporidium* and *Giardia* vs. conventional microscopy. [[acg-2016-acute-diarrhea]]
 - **Microscopy (O&P)** — lower sensitivity, requires expertise; cyst shedding is intermittent (multiple specimens improve yield).
-- **Duodenal aspirate** — may be considered for suspected *Giardia*, *Strongyloides*, *Cystoisospora*, or microsporidia in select patients (e.g. persistent diarrhea, [[hiv-aids-related-diarrhea|AIDS]]) *(IDSA 2017: weak, low)*.
+- **Duodenal aspirate** — may be considered for suspected *Giardia*, *Strongyloides*, *Cystoisospora*, or microsporidia in select patients (e.g. persistent diarrhea, [[hiv-aids-related-diarrhea|acquired immunodeficiency syndrome (AIDS)]]) *(Infectious Diseases Society of America (IDSA) 2017: weak, low)*.
 
 ---
 
@@ -65,7 +65,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, acg-2020-ibs]
 | Line | Agent | Notes |
 |---|---|---|
 | **First choice** | **Tinidazole** | Approved in the US for children **≥3 years**; available as tablets that can be crushed |
-| **First choice** | **[[nitazoxanide\|Nitazoxanide]]** | IDSA choices are based on data from HIV-uninfected children |
+| **First choice** | **[[nitazoxanide\|Nitazoxanide]]** | IDSA choices are based on data from human immunodeficiency virus (HIV)-uninfected children |
 | **Alternative** | **Metronidazole** | High frequency of GI side effects; **not FDA-approved** for giardiasis; no commercial pediatric suspension (can be compounded from tablets) |
 
 - [[acg-2016-acute-diarrhea]] independently endorses **metronidazole, tinidazole, or nitazoxanide** for *Giardia*, calling the evidence for antimicrobial treatment of specific parasitic causes **strong**.

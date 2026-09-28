@@ -14,11 +14,11 @@ sources: []
 - **Year:** Published online November 2021; AJG print 2022
 - **Journal:** Am J Gastroenterol 2022;117:57–69
 - **DOI:** [10.14309/ajg.0000000000001548](https://doi.org/10.14309/ajg.0000000000001548)
-- **Type:** Focused guideline update (ACG, AGA, ASGE) — updates 2017 screening recommendations
+- **Type:** Focused guideline update (American College of Gastroenterology [ACG], American Gastroenterological Association [AGA], American Society for Gastrointestinal Endoscopy [ASGE]) — updates 2017 screening recommendations
 
 ## Summary
 
-Focused update on when to start and stop average-risk [[colorectal-cancer-screening|CRC screening]]. Driven by rising incidence of early-age onset [[colorectal-cancer|CRC]] (EAO-CRC). Key change: recommends offering average-risk screening starting at age 45 (weak recommendation). Recommendations for stopping age unchanged. Does not address screening test selection (covered in 2017 guideline).
+Focused update on when to start and stop average-risk [[colorectal-cancer-screening|colorectal cancer (CRC) screening]]. Driven by rising incidence of early-age onset [[colorectal-cancer|CRC]] (EAO-CRC). Key change: recommends offering average-risk screening starting at age 45 (weak recommendation). Recommendations for stopping age unchanged. Does not address screening test selection (covered in 2017 guideline).
 
 ## Key Findings / Claims
 
@@ -38,14 +38,14 @@ Focused update on when to start and stop average-risk [[colorectal-cancer-screen
 - Advanced colorectal neoplasia rate in 45–49 y/o (3.6%) similar to 50–59 y/o (4.2%; P=0.69)
 - Modeling: of 57 screening strategies considered efficient, 47/57 begin at age 45
 - Screening at 45 vs 50: favorable life-years gained vs adverse events across all modalities
-- Cost-effective: colonoscopy q10y from 45 = $33,900/QALY; annual FIT from 45 = $7,700/QALY
+- Cost-effective: colonoscopy q10y from 45 = $33,900/quality-adjusted life-year (QALY); annual fecal immunochemical test (FIT) from 45 = $7,700/QALY
 
 ### EAO-CRC Epidemiology (key facts)
 
 - CRC incidence rising 1.1%/year in <50 y/o (2006–2015)
 - Rectal cancer rising fastest: 1.7%/year
 - EAO-CRC features: more often left-sided/rectal, more mucinous/signet ring histology, more advanced stage at diagnosis
-- Symptom-to-diagnosis delay: 243 days (EAO) vs 154 days (LAO)
+- Symptom-to-diagnosis delay: 243 days (EAO) vs 154 days (later-age onset [LAO])
 - Despite advanced stage, EAO-CRC has better stage-adjusted survival than LAO-CRC
 - Strong birth cohort effect — exposures accumulated in early life contribute to rising incidence
 
@@ -59,11 +59,11 @@ Focused update on when to start and stop average-risk [[colorectal-cancer-screen
 **Acceptable alternatives:**
 
 - Flexible sigmoidoscopy q5–10y
-- CT colonography q5y
+- Computed tomography (CT) colonography q5y
 - FIT–fecal DNA (Cologuard) q3y
 - Capsule colonoscopy q5y (if decline all others)
 
-*High-quality colonoscopy = complete to cecum, adequate prep, colonoscopist ADR ≥25%*
+*High-quality colonoscopy = complete to cecum, adequate prep, colonoscopist adenoma detection rate (ADR) ≥25%*
 
 ### Stopping Age
 
@@ -94,7 +94,7 @@ Focused update on when to start and stop average-risk [[colorectal-cancer-screen
 
 ## Contradictions / Open Questions
 
-- No direct RCT evidence that screening under 50 reduces CRC incidence or mortality
+- No direct randomized controlled trial evidence that screening under 50 reduces CRC incidence or mortality
 - Optimal screening modality and interval for 45–49 y/o not specified
 - Whether hybrid approach (noninvasive at 45, colonoscopy at 50) is preferred: unknown
 - Equity of access for age 45–49 expansion: unresolved

@@ -12,10 +12,10 @@ sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, aga-2020-sibo, aga-2019-l
 - **Definition:** decreased stool consistency (loose or watery) lasting **>4 weeks**. Defined by **stool consistency** (Bristol 6–7), not frequency alone.
 - **Why the duration matters:** it separates chronic diarrhea from [[acute-diarrhea]] (<14 days) and persistent diarrhea (14–30 days), and shifts the differential away from infection toward non-infectious causes.
 - **Must be distinguished from:**
-  - **Pseudodiarrhea** — frequent small volumes with urgency, as in proctitis or [[irritable-bowel-syndrome|IBS]]
+  - **Pseudodiarrhea** — frequent small volumes with urgency, as in proctitis or [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]]
   - **[[fecal-incontinence|Fecal incontinence]]**
 
-> ⚠ **The guidelines do not quite align on the boundary.** [[asge-2010-diarrhea|ASGE 2010]] and [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA 2019]] both set chronic at **≥4 weeks (28 days)**; [[acg-2016-acute-diarrhea|ACG 2016]] sets it at **>30 days** — leaving days 28–30 claimed by both labels. The distinction is not clinically actionable (either way the workup below applies), but do not read the boundary as precise.
+> ⚠ **The guidelines do not quite align on the boundary.** [[asge-2010-diarrhea|American Society for Gastrointestinal Endoscopy (ASGE) 2010]] and [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|American Gastroenterological Association (AGA) 2019]] both set chronic at **≥4 weeks (28 days)**; [[acg-2016-acute-diarrhea|American College of Gastroenterology (ACG) 2016]] sets it at **>30 days** — leaving days 28–30 claimed by both labels. The distinction is not clinically actionable (either way the workup below applies), but do not read the boundary as precise.
 
 ### Who the laboratory workup below is written for
 
@@ -24,7 +24,7 @@ sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, aga-2020-sibo, aga-2019-l
 - Bloody diarrhea
 - Diarrhea with signs of fat malabsorption
 - Alarm features — weight loss, anemia, hypoalbuminemia
-- Family history of [[inflammatory-bowel-disease|IBD]], [[colorectal-cancer|colon cancer]] or [[celiac-disease|celiac disease]]
+- Family history of [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], [[colorectal-cancer|colon cancer]] or [[celiac-disease|celiac disease]]
 - Travel to regions with recognised diarrhea-related pathogens
 
 Outside that population, go structural first — see [[#Red Flags / Alarm Features]].
@@ -51,19 +51,19 @@ The most useful framework is to classify by **stool character** into watery, inf
 
 ### Watery — Secretory
 
-- **[[microscopic-colitis|Microscopic colitis]]** — collagenous and lymphocytic; older women; normal-appearing [[colonoscopy]] requiring random biopsies; NSAID/[[proton-pump-inhibitors|PPI]]/SSRI association
-- **[[bile-acid-diarrhea|Bile acid diarrhea]]** — post-cholecystectomy, ileal disease/resection ([[crohns-disease]]), or idiopathic (overlaps IBS-D)
+- **[[microscopic-colitis|Microscopic colitis]]** — collagenous and lymphocytic; older women; normal-appearing [[colonoscopy]] requiring random biopsies; nonsteroidal anti-inflammatory drug (NSAID) / [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] / selective serotonin reuptake inhibitor (SSRI) association
+- **[[bile-acid-diarrhea|Bile acid diarrhea]]** — post-cholecystectomy, ileal disease/resection ([[crohns-disease]]), or idiopathic (overlaps IBS with predominant diarrhea [IBS-D])
 - **[[irritable-bowel-syndrome|IBS-D]]** — a positive Rome IV/V diagnosis, not pure exclusion; most common overall
 - **[[postinfectious-ibs|Post-infectious IBS]]** — new-onset IBS-D following an episode of infectious gastroenteritis
 - Endocrine — hyperthyroidism, **[[gastroenteropancreatic-neuroendocrine-tumors|carcinoid syndrome]]**, VIPoma, gastrinoma ([[peptic-ulcer-disease|Zollinger-Ellison]]), Addison's disease, medullary thyroid carcinoma
 - Drugs/toxins — chronic laxative use, metformin, colchicine, SSRIs, alcohol, PPIs
-- **[[small-intestinal-bacterial-overgrowth|SIBO]]** — post-surgical/dysmotility risk factors. **Diarrhea, not bloating, is the symptom most strongly associated with SIBO** ([[aga-2020-sibo]]), so chronic diarrhea is a stronger indication to look for it than bloating is. Aspirate-proven risk factors: **older age, steatorrhea, narcotic use**; associated disorders: [[inflammatory-bowel-disease|IBD]], [[chronic-pancreatitis]], jejunal diverticulosis. **In the very elderly, SIBO is an important cause of otherwise unexplained diarrhea and weight loss.**
+- **[[small-intestinal-bacterial-overgrowth|small intestinal bacterial overgrowth (SIBO)]]** — post-surgical/dysmotility risk factors. **Diarrhea, not bloating, is the symptom most strongly associated with SIBO** ([[aga-2020-sibo]]), so chronic diarrhea is a stronger indication to look for it than bloating is. Aspirate-proven risk factors: **older age, steatorrhea, narcotic use**; associated disorders: [[inflammatory-bowel-disease|IBD]], [[chronic-pancreatitis]], jejunal diverticulosis. **In the very elderly, SIBO is an important cause of otherwise unexplained diarrhea and weight loss.**
 - Surgical/anatomic — post-cholecystectomy, ileal resection, short bowel
 
 ### Watery — Osmotic
 
 - **Carbohydrate malabsorption** — lactose intolerance (most common), fructose, sorbitol/mannitol (sugar-free gum/candy)
-- **Osmotic laxatives** — magnesium-, phosphate-, sulfate-containing agents; PEG
+- **Osmotic laxatives** — magnesium-, phosphate-, sulfate-containing agents; polyethylene glycol (PEG)
 - Factitious diarrhea (surreptitious laxative use)
 
 ### Inflammatory
@@ -77,7 +77,7 @@ The most useful framework is to classify by **stool character** into watery, inf
 
 ### Fatty (Malabsorptive / Steatorrhea)
 
-- **[[celiac-disease]]** — small-bowel villous atrophy; screen with anti-tTG IgA
+- **[[celiac-disease]]** — small-bowel villous atrophy; screen with anti-tissue transglutaminase (tTG) immunoglobulin A (IgA)
 - **[[exocrine-pancreatic-insufficiency|Exocrine pancreatic insufficiency]]** — [[chronic-pancreatitis]], [[pancreatic-cancer|pancreatic cancer]]; low fecal elastase
 - **[[small-intestinal-bacterial-overgrowth|SIBO]]**, Whipple's disease, tropical sprue
 - [[short-bowel-syndrome|Short bowel syndrome]], [[acute-mesenteric-ischemia|mesenteric ischemia]], bile acid deficiency (cholestasis)
@@ -88,7 +88,7 @@ The most useful framework is to classify by **stool character** into watery, inf
 
 ```mermaid
 flowchart TD
-    A["Chronic diarrhea > 4 weeks"] --> B{"Alarm features?<br/>(blood, weight loss, anemia,<br/>nocturnal, onset >50, FHx)"}
+    A["Chronic diarrhea > 4 weeks"] --> B{"Alarm features?<br/>(blood, weight loss, anemia,<br/>nocturnal, onset >50, family history)"}
     B -->|Yes| C["Colonoscopy + biopsies,<br/>targeted labs/imaging"]
     B -->|No| D["History + meds review<br/>+ initial labs"]
     D --> E["Stool studies:<br/>calprotectin/lactoferrin, fat,<br/>electrolytes/osm gap, C. diff, O&P"]
@@ -100,12 +100,12 @@ flowchart TD
 
 1. **Confirm true diarrhea** and exclude fecal incontinence, pseudodiarrhea, and overflow from constipation.
 2. **History & medication review** — onset, travel, surgery, family history, dietary carbohydrates/sugar alcohols, laxatives, recent antibiotics, systemic symptoms; **fasting trial** (osmotic improves, secretory persists).
-3. **Initial labs** — CBC, CMP, TSH, CRP, [[celiac-disease|anti-tTG IgA + total IgA]], and (with risk factors) [[hiv-aids-related-diarrhea|HIV]].
-4. **Stool studies** — **fecal calprotectin *or* lactoferrin** (inflammatory vs. functional), **[[giardiasis|Giardia]] antigen or PCR**, fecal occult blood, [[clostridioides-difficile|C. difficile]] testing, stool electrolytes/osmotic gap, qualitative/quantitative **fecal fat**. **Do not send routine ova & parasites** unless there is travel/immigration history — see [[#Which Laboratory Tests to Send — and Which to Skip]].
+3. **Initial labs** — complete blood count (CBC), comprehensive metabolic panel (CMP), thyroid-stimulating hormone (TSH), C-reactive protein (CRP), [[celiac-disease|anti-tTG IgA + total IgA]], and (with risk factors) [[hiv-aids-related-diarrhea|human immunodeficiency virus (HIV)]].
+4. **Stool studies** — **fecal calprotectin *or* lactoferrin** (inflammatory vs. functional), **[[giardiasis|Giardia]] antigen or polymerase chain reaction (PCR)**, fecal occult blood, [[clostridioides-difficile|C. difficile]] testing, stool electrolytes/osmotic gap, qualitative/quantitative **fecal fat**. **Do not send routine ova & parasites** unless there is travel/immigration history — see [[#Which Laboratory Tests to Send — and Which to Skip]].
 5. **Route by category:**
    - **Inflammatory** (↑ calprotectin, blood) → [[colonoscopy]] with biopsies for IBD; biopsy even if mucosa normal to catch [[microscopic-colitis]].
-   - **Fatty** (↑ fecal fat) → confirm [[celiac-disease|celiac]], check **fecal elastase** for [[exocrine-pancreatic-insufficiency|EPI]], small-bowel imaging/biopsy, consider [[small-intestinal-bacterial-overgrowth|SIBO breath testing]].
-   - **Watery secretory** → empiric/diagnostic **bile acid** sequestrant trial ([[bile-acid-diarrhea]]), microscopic colitis biopsies, endocrine workup (chromogranin A, gastrin, VIP, urinary 5-HIAA) if features suggest.
+   - **Fatty** (↑ fecal fat) → confirm [[celiac-disease|celiac]], check **fecal elastase** for [[exocrine-pancreatic-insufficiency|exocrine pancreatic insufficiency (EPI)]], small-bowel imaging/biopsy, consider [[small-intestinal-bacterial-overgrowth|SIBO breath testing]].
+   - **Watery secretory** → empiric/diagnostic **bile acid** sequestrant trial ([[bile-acid-diarrhea]]), microscopic colitis biopsies, endocrine workup (chromogranin A, gastrin, vasoactive intestinal peptide (VIP), urinary 5-hydroxyindoleacetic acid (5-HIAA)) if features suggest.
    - **Watery osmotic** → dietary elimination (lactose, fructose, sorbitol), screen for surreptitious laxatives (stool magnesium/phosphate).
 6. **If [[irritable-bowel-syndrome|IBS-D]]** criteria met with normal alarm screen, calprotectin, and celiac serology → make a **positive diagnosis** rather than exhaustive testing.
 
@@ -120,22 +120,22 @@ flowchart TD
 | Test | AGA position | Threshold / method | Strength · Quality |
 |---|---|---|---|
 | Fecal **calprotectin** *or* **lactoferrin** (either, not both) | **Send** — screens for IBD | calprotectin **50 µg/g**; lactoferrin **4.0–7.25 µg/g** | Conditional · Low |
-| **ESR** or **CRP** | **Against** as IBD screen | CRP 5–6 mg/L; ESR 10–15 mm/h | Conditional · Low |
+| **Erythrocyte sedimentation rate (ESR)** or **CRP** | **Against** as IBD screen | CRP 5–6 mg/L; ESR 10–15 mm/h | Conditional · Low |
 | ***Giardia*** | **Send** | **antigen test or PCR** | **Strong · High** |
 | **Ova & parasites** (other than *Giardia*) | **Against** — *only if* no travel to or recent immigration from a high-risk area | — | Conditional · Low |
 | **Celiac** | **Send** — IgA-tTG **plus** a second test to cover IgA deficiency | IgA-tTG 7–15 AU/mL range | **Strong · Moderate** |
 | **[[bile-acid-diarrhea\|Bile acid diarrhea]]** | **Send** | see modalities below | Conditional · Low |
 | **IBS serology** (anti-CdtB / anti-vinculin) | **No recommendation — knowledge gap** | — | None · Knowledge gap |
 
-- **Do not raise the calprotectin cutoff.** 50 µg/g is chosen to maximise sensitivity (Sn 0.81, Sp 0.87); **100–164 µg/g** markedly decreases sensitivity without meaningfully improving specificity. Lactoferrin at 4.0–7.25 µg/g: Sn 0.79, Sp 0.93 (wide CI 0.63–0.99).
+- **Do not raise the calprotectin cutoff.** 50 µg/g is chosen to maximise sensitivity (sensitivity [Sn] 0.81, specificity [Sp] 0.87); **100–164 µg/g** markedly decreases sensitivity without meaningfully improving specificity. Lactoferrin at 4.0–7.25 µg/g: Sn 0.79, Sp 0.93 (wide confidence interval [CI] 0.63–0.99).
 - **CRP's one legitimate use:** when calprotectin/lactoferrin are unavailable or not covered by insurance, CRP (Sn 0.73, Sp 0.78) is a reasonable fallback IBD screen. ESR has essentially no such role — it performed worse than CRP.
 - **Why only *Giardia* survives the stool-parasite cull:** antigen and PCR assays reach **>95% sensitivity and specificity**, treatment is straightforward, so there is little downside. Routine O&P outside a travel context is "highly unlikely to identify important causes of chronic watery diarrhea."
-- **Celiac positives still need tissue.** A positive serology warrants duodenal biopsy; in adults, confirm by small-bowel biopsy **before** committing the patient to a gluten-free diet. IgA-deficiency cover = quantitative IgA level (normal confirms the negative), or IgG-tTG / IgG or IgA deaminated gliadin peptides.
+- **Celiac positives still need tissue.** A positive serology warrants duodenal biopsy; in adults, confirm by small-bowel biopsy **before** committing the patient to a gluten-free diet. IgA-deficiency cover = quantitative IgA level (normal confirms the negative), or immunoglobulin G (IgG)-tTG / IgG or IgA deaminated gliadin peptides.
 - **The anti-CdtB/anti-vinculin verdict is a gap, not a veto.** Specificity ~90% but sensitivity only **20–40%** — a positive is informative, a negative is not, and the case–control studies in tertiary care likely flatter even those figures. AGA takes no position either way.
 
 ### Individual tests
 
-- **Fecal calprotectin / lactoferrin** — separates inflammatory (IBD) from [[disorders-of-gut-brain-interaction|functional]] ([[irritable-bowel-syndrome|IBS]]); normal calprotectin has high NPV for IBD. Thresholds in the table above.
+- **Fecal calprotectin / lactoferrin** — separates inflammatory (IBD) from [[disorders-of-gut-brain-interaction|functional]] ([[irritable-bowel-syndrome|IBS]]); normal calprotectin has high negative predictive value (NPV) for IBD. Thresholds in the table above.
 - **Stool electrolytes & osmotic gap** — secretory (<50) vs. osmotic (>75 mOsm/kg).
 - **Fecal fat** (qualitative Sudan stain / quantitative 72-h) — confirms steatorrhea/malabsorption.
 - **Fecal elastase-1** — low in [[exocrine-pancreatic-insufficiency|exocrine pancreatic insufficiency]]; the cutoffs that make the call (**<100 µg/g** = EPI, **100–200 µg/g** = indeterminate, and the semi-solid-stool requirement) live on that page. Commonly secondary to [[chronic-pancreatitis]].
@@ -149,16 +149,16 @@ flowchart TD
   - None is widely available or FDA-approved → an **empiric trial of a bile acid binder** is reasonable, with clinical response taken as support for the diagnosis ([[bile-acid-diarrhea]])
 - **Endocrine panel** — TSH; chromogranin A, gastrin, VIP, calcitonin, urinary 5-HIAA when a neuroendocrine secretory cause is suspected.
 - **[[colonoscopy]] with random biopsies** — IBD and **[[microscopic-colitis]]** (biopsy mandatory even if mucosa appears normal).
-- **SIBO breath testing** ([[small-intestinal-bacterial-overgrowth]]) and small-bowel imaging (CTE/MRE) in malabsorptive/post-surgical patients. Interpret cautiously: [[aga-2020-sibo]] gives **no positivity threshold**, notes "wide discrepancies in thresholds," and reports that **lactulose yields more positives than glucose or culture**. Aspirate culture threshold is **>10³ CFU/mL coliforms on fresh aspirate** — the old **≥10⁵** figure came from patients with altered intestinal anatomy, not from normals (who "rarely exceed 10² CFU/mL").
-- **Fecal calprotectin does not detect SIBO** — [[aga-2020-sibo]] **BPA 3**: insufficient evidence to use inflammatory markers for that purpose. It remains valid for separating inflammatory from functional causes above.
+- **SIBO breath testing** ([[small-intestinal-bacterial-overgrowth]]) and small-bowel imaging (computed tomography enterography [CTE]/magnetic resonance enterography [MRE]) in malabsorptive/post-surgical patients. Interpret cautiously: [[aga-2020-sibo]] gives **no positivity threshold**, notes "wide discrepancies in thresholds," and reports that **lactulose yields more positives than glucose or culture**. Aspirate culture threshold is **>10³ colony-forming units (CFU)/mL coliforms on fresh aspirate** — the old **≥10⁵** figure came from patients with altered intestinal anatomy, not from normals (who "rarely exceed 10² CFU/mL").
+- **Fecal calprotectin does not detect SIBO** — [[aga-2020-sibo]] **best practice advice (BPA) 3**: insufficient evidence to use inflammatory markers for that purpose. It remains valid for separating inflammatory from functional causes above.
 
 ### Role of Endoscopy (ASGE 2010)
 
 *Endoscopy is reserved for chronic, unexplained, or treatment-refractory diarrhea — stool/labs come first. ([[asge-2010-diarrhea]])*
 
 - **Colonoscopy + random biopsies of BOTH right and left colon** — required even when mucosa is normal; microscopic colitis is patchy and left-sided-only sampling misses it. Sigmoidoscopy is an alternative but may miss right-sided organic disease.
-- **Intubate the terminal ileum** during colonoscopy; routine biopsy of normal-appearing TI is low yield (0–4.2%).
-- **[[upper-endoscopy|EGD]] + small-bowel biopsy** when colonoscopy is inconclusive, malabsorption is suspected, or [[celiac-disease|celiac]] serology is positive; obtain **≥4 duodenal biopsies** for suspected celiac (even if endoscopically normal).
+- **Intubate the terminal ileum (TI)** during colonoscopy; routine biopsy of normal-appearing TI is low yield (0–4.2%).
+- **[[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] + small-bowel biopsy** when colonoscopy is inconclusive, malabsorption is suspected, or [[celiac-disease|celiac]] serology is positive; obtain **≥4 duodenal biopsies** for suspected celiac (even if endoscopically normal).
 - **[[capsule-endoscopy|Capsule endoscopy]] and enteroscopy are NOT recommended** for routine chronic-diarrhea evaluation (modest yield, no tissue, retention risk); reserve [[device-assisted-enteroscopy|enteroscopy]] for nondiagnostic small-bowel disease.
 - Diagnostic yield of colonoscopy in chronic diarrhea ~7–32%; IBD and [[microscopic-colitis]] most common. Note sodium-phosphate preps and NSAIDs can produce mucosal/terminal-ileal changes mimicking IBD.
 

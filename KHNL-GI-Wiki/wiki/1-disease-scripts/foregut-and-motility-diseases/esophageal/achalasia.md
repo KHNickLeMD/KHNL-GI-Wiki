@@ -40,17 +40,17 @@ sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-p
 
 - Progressive dysphagia to both solids and liquids (key distinguishing feature from mechanical obstruction)
 - Regurgitation of undigested food
-- **Heartburn in 27–42%** — the reason patients are frequently misdiagnosed as [[gerd|GERD]] and started on PPI; chest pain also common
+- **Heartburn in 27–42%** — the reason patients are frequently misdiagnosed as [[gerd|gastroesophageal reflux disease (GERD)]] and started on a proton pump inhibitor (PPI); chest pain also common
 - Weight loss / nutritional deficiency
 
 > **Recommendation:** Patients suspected of [[gerd|GERD]] who do not respond to acid-suppressive therapy should be evaluated for achalasia. (Strong; Very low evidence)
 
-**Always perform [[upper-endoscopy|upper endoscopy]] first** to rule out pseudoachalasia from obstructing mass (especially in elderly with significant short-term weight loss → cross-sectional imaging ± [[endoscopic-ultrasound|EUS]]).
+**Always perform [[upper-endoscopy|upper endoscopy]] first** to rule out pseudoachalasia from obstructing mass (especially in elderly with significant short-term weight loss → cross-sectional imaging ± [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]).
 
 **How the diagnosis is actually made** ([[acg-2020-achalasia]]) — the three tests are *not* interchangeable criteria; they sit in sequence:
 
-1. **Suggestive** — endoscopy (retained saliva/food, dilated esophagus, puckered/tight GEJ requiring more-than-usual pressure to traverse) and/or barium esophagram (dilated esophagus, "bird beaking" at the GEJ, retained barium at 1–5 min on TBE). *In the appropriate clinical setting*, either of these can raise the diagnosis.
-2. **Confirmatory** — [[high-resolution-manometry|HRM]] is the **gold standard**: impaired EGJ relaxation (elevated integrated relaxation pressure, IRP) plus absent/disordered peristalsis. Esophagram is complementary when manometry is equivocal or non-classic.
+1. **Suggestive** — endoscopy (retained saliva/food, dilated esophagus, puckered/tight gastroesophageal junction (GEJ) requiring more-than-usual pressure to traverse) and/or barium esophagram (dilated esophagus, "bird beaking" at the GEJ, retained barium at 1–5 min on timed barium esophagram [TBE]). *In the appropriate clinical setting*, either of these can raise the diagnosis.
+2. **Confirmatory** — [[high-resolution-manometry|high-resolution manometry (HRM)]] is the **gold standard**: impaired esophagogastric junction (EGJ) relaxation (elevated integrated relaxation pressure [IRP]) plus absent/disordered peristalsis. Esophagram is complementary when manometry is equivocal or non-classic.
 
 > **Recommendation:** Use esophageal pressure topography (HRM) over conventional line tracing for the diagnosis of achalasia. (Strong; High evidence)
 >
@@ -73,7 +73,7 @@ sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-p
 - Limitations: the **dysphagia component dominates** the total, and post-treatment bolus retention is somewhat discordant with the ES. ([[acg-2020-achalasia]], [[asge-2020-achalasia]])
 - How to use it for failure assessment is under [[#Post-Therapy Monitoring and Retreatment]].
 
-> The Eckardt **per-item anchors** — what earns 0 vs 1 vs 2 vs 3 for each of dysphagia, regurgitation, chest pain (symptom frequency) and weight loss (kg) — are not printed in ACG 2020 or ASGE 2020, which describe the score's structure only, so the score cannot be *computed* from this page. The anchors are in Eckardt VF, Aignherr C, Bernhard G. Predictors of outcome in patients with achalasia treated by pneumatic dilation. *Gastroenterology* 1992.
+> The Eckardt **per-item anchors** — what earns 0 vs 1 vs 2 vs 3 for each of dysphagia, regurgitation, chest pain (symptom frequency) and weight loss (kg) — are not printed in American College of Gastroenterology (ACG) 2020 or American Society for Gastrointestinal Endoscopy (ASGE) 2020, which describe the score's structure only, so the score cannot be *computed* from this page. The anchors are in Eckardt VF, Aignherr C, Bernhard G. Predictors of outcome in patients with achalasia treated by pneumatic dilation. *Gastroenterology* 1992.
 
 ### Classification / Typing (Chicago Classification — clinically essential)
 
@@ -83,9 +83,9 @@ All subtypes share **impaired EGJ relaxation**; distinguished by esophageal body
 
 | Subtype | Prevalence | Pattern | Outcomes | Treatment Implication |
 |---------|-----------|---------|----------|----------------------|
-| **Type I** | 20–40% (2nd most common) | 100% aperistalsis, **no** panesophageal pressurization | [[heller-myotomy\|LHM]] 81% | PD, LHM, or [[poem\|POEM]] |
-| **Type II** | 50–70% (most common) | 100% aperistalsis + **panesophageal pressurization >30 mmHg** (CCv4.0: in **≥20% of swallows**) | LHM 92% — best of all subtypes | PD, LHM, or [[poem\|POEM]] — any works well |
-| **Type III** | 5% (least common) | **Premature/spastic contractions** (CCv4.0: **≥20% of swallows**, *no* evidence of normal peristalsis) ± panesophageal pressurization | Worst with LES-only therapy — LHM **71%** vs POEM **93%** (OR 3.50, 1.39–8.77; P=0.007) | POEM preferred; tailored long myotomy |
+| **Type I** | 20–40% (2nd most common) | 100% aperistalsis, **no** panesophageal pressurization | [[heller-myotomy\|laparoscopic Heller myotomy (LHM)]] 81% | pneumatic dilation (PD), LHM, or [[poem\|per-oral endoscopic myotomy (POEM)]] |
+| **Type II** | 50–70% (most common) | 100% aperistalsis + **panesophageal pressurization >30 mmHg** (Chicago Classification v4.0 [CCv4.0]: in **≥20% of swallows**) | LHM 92% — best of all subtypes | PD, LHM, or [[poem\|POEM]] — any works well |
+| **Type III** | 5% (least common) | **Premature/spastic contractions** (CCv4.0: **≥20% of swallows**, *no* evidence of normal peristalsis) ± panesophageal pressurization | Worst with lower esophageal sphincter (LES)-only therapy — LHM **71%** vs POEM **93%** (odds ratio [OR] 3.50, 1.39–8.77; P=0.007) | POEM preferred; tailored long myotomy |
 
 - Subtype success rates for types I/II/III (81% / 92% / 71%) come from **one meta-analysis of 1,575 patients, all LHM** ([[acg-2020-achalasia]]) — they are not head-to-head vs PD.
 - The only **PD**-specific type III figure is a separate 18-patient subgroup of the European achalasia trial: **LHM 86% vs PD 40%, P=0.12 — not statistically significant** (underpowered). Do not quote 40% against the 71% above; they are different studies.
@@ -101,15 +101,15 @@ Disease progresses: Type III → Type II → Type I as esophagus dilates over ti
 
 *Workup: see [[dysphagia]].*
 
-- **Pseudoachalasia** — malignancy at GEJ ([[gastric-adenocarcinoma|gastric]], [[esophageal-cancer|esophageal cancer]], metastatic); shorter history, older age, rapid weight loss → EUS or CT
+- **Pseudoachalasia** — malignancy at GEJ ([[gastric-adenocarcinoma|gastric]], [[esophageal-cancer|esophageal cancer]], metastatic); shorter history, older age, rapid weight loss → EUS or computed tomography (CT)
 - GERD with peptic stricture
-- [[eosinophilic-esophagitis|Eosinophilic esophagitis]] — rings/furrows/exudate; ≥15 eos/hpf on biopsy
+- [[eosinophilic-esophagitis|Eosinophilic esophagitis]] — rings/furrows/exudate; ≥15 eosinophils per high-power field (eos/hpf) on biopsy
 - [[distal-esophageal-spasm|Distal esophageal spasm (DES)]] — Type III achalasia shares features; differentiated on HRM
 - Jackhammer esophagus / [[hypercontractile-esophagus|hypercontractile esophagus]]
-- [[esophagogastric-junction-outflow-obstruction|EGJOO]] — elevated IRP but preserved (or only partially disordered) peristalsis; a manometric finding with many mimics, not a diagnosis in itself
+- [[esophagogastric-junction-outflow-obstruction|esophagogastric junction outflow obstruction (EGJOO)]] — elevated IRP but preserved (or only partially disordered) peristalsis; a manometric finding with many mimics, not a diagnosis in itself
 - [[esophageal-dysfunction-systemic-disease|Scleroderma esophagus]] (absent peristalsis but low LES pressure)
 - Chagas disease (secondary achalasia from T. cruzi — clinically indistinguishable)
-- **Secondary ("mimic") achalasia** — consider infectious/inflammatory causes at initial evaluation: recent COVID infection, Chagas risk, and eosinophilic/mast-cell disease; achalasia is hypothesized to be autoimmune (↑ odds of autoimmune conditions, OR up to 3.6). (AGA 2024)
+- **Secondary ("mimic") achalasia** — consider infectious/inflammatory causes at initial evaluation: recent coronavirus disease 2019 (COVID-19) infection, Chagas risk, and eosinophilic/mast-cell disease; achalasia is hypothesized to be autoimmune (↑ odds of autoimmune conditions, OR up to 3.6). (American Gastroenterological Association [AGA] 2024)
 
 ---
 
@@ -117,7 +117,7 @@ Disease progresses: Type III → Type II → Type I as esophagus dilates over ti
 
 ### HRM (High-Resolution Manometry)
 
-Gold standard. Use esophageal pressure topography. Reports IRP (integrated relaxation pressure) and body pattern. The [[chicago-classification-v4|Chicago Classification]] defines the subtypes — ACG 2020 references CC v3.0; the current framework (manufacturer-specific IRP thresholds, subtype criteria) is **CC v4.0** ([[chicago-v4-2021-esophageal-dysmotility]]).
+Gold standard. Use esophageal pressure topography. Reports IRP and body pattern. The [[chicago-classification-v4|Chicago Classification (CC)]] defines the subtypes — ACG 2020 references CC v3.0; the current framework (manufacturer-specific IRP thresholds, subtype criteria) is **CC v4.0** ([[chicago-v4-2021-esophageal-dysmotility]]).
 
 ### Timed Barium Esophagram (TBE)
 
@@ -161,7 +161,7 @@ flowchart TD
     F -->|"Type III"| J["POEM preferred<br/>93% vs 71% LHM<br/>(tailored long myotomy)"]
     H & I & J --> K["Post-therapy TBE ± endoscopy<br/>Eckardt Score"]
     K --> L{"Recurrent<br/>symptoms?"}
-    L -->|PD/LHM failed| M["POEM (62% vs PD 27% in the<br/>only RCT after failed LHM)<br/>or PD post-POEM"]
+    L -->|PD/LHM failed| M["POEM (62% vs PD 27% in the<br/>only randomized controlled trial<br/>(RCT) after failed LHM)<br/>or PD post-POEM"]
     L -->|All failed + megaesophagus| N["Esophagectomy<br/>high-volume center only"]
     style J fill:#2d5a8a,color:#fff
     style E fill:#6b4a2a,color:#fff
@@ -173,7 +173,7 @@ flowchart TD
 - Graded Rigiflex balloon dilators: **3.0 → 3.5 → 4.0 cm**, advancing only if still symptomatic at 4–6 weeks
 - **Every PD candidate must also be a surgical candidate** — perforation 1.9% (ACG) to 2.8% (ASGE) and may need operative repair
 - **Young men (<45y):** start at 3.5 cm, or choose LHM/POEM instead (thicker LES musculature → worse PD response). Favorable-response predictors: age >45y, female sex, non-dilated esophagus, post-PD LES pressure <10 mmHg
-- **Pooled efficacy:** clinical success (**ES ≤3**) in **83% (95% CI 79–85%)** across 52 uncontrolled studies / 4,166 patients at 3–6 months ([[asge-2020-achalasia]]); 74% / 86% / 90% cumulatively by balloon size
+- **Pooled efficacy:** clinical success (**ES ≤3**) in **83% (95% confidence interval [CI] 79–85%)** across 52 uncontrolled studies / 4,166 patients at 3–6 months ([[asge-2020-achalasia]]); 74% / 86% / 90% cumulatively by balloon size
 - **GERD after PD 15–35%** → [[proton-pump-inhibitors|PPI]]; recurrent dysphagia may be a reflux stricture rather than recurrent achalasia
 - **Full technique, inflation parameters, post-procedure care, perforation management, and retreatment: [[pneumatic-dilation]].**
 
@@ -191,14 +191,14 @@ flowchart TD
 
 *(At <4 weeks the two are indistinguishable — the difference is durability, not initial response.)*
 
-> **Newer guidance — [[sages-2024-poem|SAGES 2024 update]] (conditional):** **POEM over PD** for adults with achalasia; **POEM or LHM** — either acceptable, selection individualized (POEM especially advantageous for type III / spastic disease). Where the two differ, the 2024 update supersedes the 2020 ACG framing of PD as the preferred non-surgical option; counsel on post-POEM reflux.
+> **Newer guidance — [[sages-2024-poem|Society of American Gastrointestinal and Endoscopic Surgeons (SAGES) 2024 update]] (conditional):** **POEM over PD** for adults with achalasia; **POEM or LHM** — either acceptable, selection individualized (POEM especially advantageous for type III / spastic disease). Where the two differ, the 2024 update supersedes the 2020 ACG framing of PD as the preferred non-surgical option; counsel on post-POEM reflux.
 
 ### Laparoscopic Heller Myotomy (LHM)
 
 - Divides circular muscle fibers of LES; preferred laparoscopic approach
 - **Always add an [[antireflux-surgery|antireflux procedure]].** Post-myotomy GERD frequency is similar across surgical approaches **without** fundoplication — thoracotomy 29%, laparotomy 28%, thoracoscopy 28%, **laparoscopy 31%** — and adding fundoplication drops it to **thoracotomy 14%, laparotomy 8%, laparoscopy 9%** (no fundoplication data after thoracoscopic myotomy).
-  - Confirmed in a double-blind RCT: abnormal acid exposure on pH monitoring in **47% without** an antireflux procedure vs **9% with** a posterior Dor fundoplication (**RR 0.11**, 95% CI 0.02–0.59).
-- **Dor or Toupet fundoplication** — both acceptable (Conditional; Moderate evidence); Toupet may offer slightly better QoL
+  - Confirmed in a double-blind RCT: abnormal acid exposure on pH monitoring in **47% without** an antireflux procedure vs **9% with** a posterior Dor fundoplication (**risk ratio [RR] 0.11**, 95% CI 0.02–0.59).
+- **Dor or Toupet fundoplication** — both acceptable (Conditional; Moderate evidence); Toupet may offer slightly better quality of life (QoL)
 - Efficacy: 89% symptom improvement (range 77–100%)
 - Type I/II: 81–92% success; Type III: 71% (inferior to POEM)
 - Decreasing efficacy with longer follow-up (89% at 6 months → 57% at 6 years in one series)
@@ -207,13 +207,13 @@ flowchart TD
 
 ### Per-Oral Endoscopic Myotomy (POEM)
 
-- Endoscopic submucosal tunnel → myotomy via [[endoscopic-submucosal-dissection|ESD]] knife; minimum 6 cm into esophagus + 2 cm below SCJ onto cardia
+- Endoscopic submucosal tunnel → myotomy via [[endoscopic-submucosal-dissection|endoscopic submucosal dissection (ESD)]] knife; minimum 6 cm into esophagus + 2 cm below squamocolumnar junction (SCJ) onto cardia
 - Myotomy length tailored to spastic segment (especially Type III) — key advantage over LHM
 - Success: >90% in prospective cohorts; 92% at 2 years in the Ponds RCT; equivalent to LHM (83% vs 82%)
 - **Type III: 93% success vs 71% for LHM** (Conditional; Low evidence)
-- **Higher GERD incidence.** [[acg-2020-achalasia|ACG 2020]], paired 2018 meta-analysis (1,542 POEM vs 2,581 LHM-with-fundoplication): abnormal acid exposure on pH monitoring **39.0% (95% CI 24.5–55.8%) POEM vs 16.8% (10.2–26.4%) LHM**; esophagitis **29.4% (18.5–43.3%) vs 7.6% (4.1–13.7%)**. The newer [[aga-2024-poem-advances|AGA 2024]] CPU raises the POEM figures to **abnormal acid exposure 41–56%, esophagitis 41–65%**, with **~¼ asymptomatic** → symptoms alone insufficient. **Quote the newer POEM rate (41–56%); use ACG's 39.0% only against its own 16.8% comparator** — the two must come from the same analysis. Full adjudication on [[heller-myotomy#Contradictions]].
-- Empiric acid suppression in immediate post-POEM period, continue **≥3–6 months**; [[ambulatory-reflux-monitoring|objective reflux testing]] **6–12 months** post-POEM (off-PPI if GERD in question; on-PPI if GERD established or esophagitis [[reflux-testing|LA grade]] ≥B)
-- Screen post-POEM patients for erosive esophagitis and [[barretts-esophagus|Barrett's esophagus]]
+- **Higher GERD incidence.** [[acg-2020-achalasia|ACG 2020]], paired 2018 meta-analysis (1,542 POEM vs 2,581 LHM-with-fundoplication): abnormal acid exposure on pH monitoring **39.0% (95% CI 24.5–55.8%) POEM vs 16.8% (10.2–26.4%) LHM**; esophagitis **29.4% (18.5–43.3%) vs 7.6% (4.1–13.7%)**. The newer [[aga-2024-poem-advances|AGA 2024]] clinical practice update (CPU) raises the POEM figures to **abnormal acid exposure 41–56%, esophagitis 41–65%**, with **~¼ asymptomatic** → symptoms alone insufficient. **Quote the newer POEM rate (41–56%); use ACG's 39.0% only against its own 16.8% comparator** — the two must come from the same analysis. Full adjudication on [[heller-myotomy#Contradictions]].
+- Empiric acid suppression in immediate post-POEM period, continue **≥3–6 months**; [[ambulatory-reflux-monitoring|objective reflux testing]] **6–12 months** post-POEM (off-PPI if GERD in question; on-PPI if GERD established or esophagitis [[reflux-testing|Los Angeles (LA) grade]] ≥B)
+- Screen post-POEM patients for erosive esophagitis and [[barretts-esophagus|Barrett's esophagus (BE)]]
 - Advise patients lifelong PPI may be needed
 - See [[poem]] for full pre/postprocedure management, myotomy tailoring, and same-day-discharge criteria
 
@@ -224,13 +224,13 @@ flowchart TD
 - 100 U injected above SCJ in 0.5–1 mL aliquots using sclerotherapy needle
 - Symptom relief: 78.7% at 30 days → 70% at 3 months → 53% at 6 months → **40.6% at 12 months**
 - Short-lived; 46.6% require additional injections; 30% need more definitive therapy
-- Previous BT does not significantly affect POEM outcomes but may increase fibrosis risk with LHM (conflicting data)
+- Previous botulinum toxin (BT) does not significantly affect POEM outcomes but may increase fibrosis risk with LHM (conflicting data)
 
 > **Recommendation:** Botulinum toxin is first-line therapy only for patients **unfit for definitive therapy**. (Strong; Moderate evidence)
 
 ### Pharmacotherapy
 
-- Calcium channel blockers (nifedipine 10–30 mg SL before meals) and nitrates (isosorbide dinitrate 5 mg SL before meals)
+- Calcium channel blockers (nifedipine 10–30 mg sublingual (SL) before meals) and nitrates (isosorbide dinitrate 5 mg SL before meals)
 - Symptom improvement 0–87%; short duration of action; frequent dosing with significant side effects
 - **Reserved for patients who cannot undergo PD/LHM/POEM AND have failed botulinum toxin**
 
@@ -262,7 +262,7 @@ flowchart TD
 
 ### Cancer Surveillance
 
-- Achalasia → **28x HR for esophageal squamous cell carcinoma**; ~1 cancer per 300 patient years; [[esophageal-adenocarcinoma|adenocarcinoma]] risk also elevated (but lower). (AGA 2024 CPU cites a 9314-patient cohort with **HR 4.6** [95% CI 2.3–9.2] for esophageal cancer overall)
+- Achalasia → **28x hazard ratio (HR) for esophageal squamous cell carcinoma**; ~1 cancer per 300 patient years; [[esophageal-adenocarcinoma|adenocarcinoma]] risk also elevated (but lower). (AGA 2024 CPU cites a 9314-patient cohort with **HR 4.6** [95% CI 2.3–9.2] for esophageal cancer overall)
 - Despite elevated risk, >400 endoscopies needed to detect one cancer; poor survival once detected
 - **Do NOT recommend routine endoscopic surveillance** for esophageal carcinoma (Strong; Low evidence)
 - Some experts favor surveillance every 3 years after 10–15 years of disease; individualize decision

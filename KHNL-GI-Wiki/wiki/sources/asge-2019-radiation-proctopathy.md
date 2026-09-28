@@ -18,9 +18,9 @@ sources: []
 
 ## Summary
 
-ASGE Standards of Practice systematic review (literature 1946–2017) of endoscopic therapy for bleeding from **chronic radiation proctopathy**, a common late sequela of pelvic radiation (bladder, cervical, prostate, rectal cancer) affecting up to 30% of irradiated patients. Distinguishes **acute** radiation proctopathy (≤3 months, superficial epithelial depletion with acute inflammatory infiltrate, usually self-limiting) from **chronic** radiation proctopathy (≥3 months, median onset 8–12 months; obliterative/ischemic endarteritis, submucosal fibrosis, neovascularization, and relative *lack* of inflammatory infiltrate).
+American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice systematic review (literature 1946–2017) of endoscopic therapy for bleeding from **chronic radiation proctopathy**, a common late sequela of pelvic radiation (bladder, cervical, prostate, rectal cancer) affecting up to 30% of irradiated patients. Distinguishes **acute** radiation proctopathy (≤3 months, superficial epithelial depletion with acute inflammatory infiltrate, usually self-limiting) from **chronic** radiation proctopathy (≥3 months, median onset 8–12 months; obliterative/ischemic endarteritis, submucosal fibrosis, neovascularization, and relative *lack* of inflammatory infiltrate).
 
-Endoscopy is the principal diagnostic tool — findings include mucosal pallor, edema, friability, spontaneous bleeding, and telangiectasias. **Biopsy is discouraged** because sampling can create non-healing ulcers or fistulas; biopsy only when needed to exclude other proctitis (infection, IBD).
+Endoscopy is the principal diagnostic tool — findings include mucosal pallor, edema, friability, spontaneous bleeding, and telangiectasias. **Biopsy is discouraged** because sampling can create non-healing ulcers or fistulas; biopsy only when needed to exclude other proctitis (infection, inflammatory bowel disease).
 
 Evidence is limited (mostly small observational series, few comparative trials), but pooled analyses found argon plasma coagulation (APC, ~87% clinical success), bipolar electrocoagulation (~88%), heater probe, and radiofrequency ablation (RFA) all effective for rectal bleeding. No modality proven superior. The panel suggests *against* 4% formalin compared with APC (higher adverse-event rate), and found insufficient evidence on newer-generation cryoablation.
 
@@ -31,7 +31,7 @@ Evidence is limited (mostly small observational series, few comparative trials),
 - Acute proctopathy: manage supportively (hydration, antidiarrheals, discontinuation of radiation); usually self-limited.
 - Chronic proctopathy bleeding: medical/supportive therapy often insufficient → endoscopic therapy is the mainstay.
 - Endoscopic findings: pallor, edema, friability, spontaneous bleeding, telangiectasias; biopsy discouraged (non-healing ulcer/fistula risk).
-- **APC:** pooled clinical success 87% (95% CI 85–90%); 1–3.7 treatment sessions, typically 3–4 weeks apart; reported power 25–80 W (median 50 W), argon flow 0.6–2.5 L/min (median 1.5 L/min); pooled serious AE rate 4%; **colonic explosion reported with inadequate bowel prep → adequate bowel preparation required**; avoid "painting" (target individual vessels) to prevent confluent ulcers.
+- **APC:** pooled clinical success 87% (95% confidence interval [CI] 85–90%); 1–3.7 treatment sessions, typically 3–4 weeks apart; reported power 25–80 W (median 50 W), argon flow 0.6–2.5 L/min (median 1.5 L/min); pooled serious adverse event (AE) rate 4%; **colonic explosion reported with inadequate bowel prep → adequate bowel preparation required**; avoid "painting" (target individual vessels) to prevent confluent ulcers.
 - **Bipolar electrocoagulation:** pooled clinical success 88%; comparable to APC and heater probe.
 - **Heater probe** and **RFA:** effective in available series.
 - **4% formalin:** suggested *against* vs APC (higher AE rates), though comparably effective for bleeding control.
@@ -47,7 +47,7 @@ Evidence is limited (mostly small observational series, few comparative trials),
 ## Relevance to Wiki
 
 - Creates new disease script [[radiation-proctopathy]] (colorectal inflammation/injury).
-- Links to [[acute-lower-gi-bleeding]] DDx (radiation proctopathy as a cause of hematochezia); APC is the most commonly used endoscopic therapy.
+- Links to [[acute-lower-gi-bleeding]] differential diagnosis (radiation proctopathy as a cause of hematochezia); APC is the most commonly used endoscopic therapy.
 
 ## Contradictions / Open Questions
 

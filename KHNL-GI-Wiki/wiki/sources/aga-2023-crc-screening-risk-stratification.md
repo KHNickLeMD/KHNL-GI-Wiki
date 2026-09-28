@@ -14,13 +14,13 @@ sources: []
 - **Year:** 2023
 - **Journal/Publisher:** Gastroenterology (AGA Institute)
 - **DOI:** [10.1053/j.gastro.2023.06.033](https://doi.org/10.1053/j.gastro.2023.06.033)
-- **Type:** guideline (AGA Clinical Practice Update — Expert Review; Best Practice Advice, unrated)
+- **Type:** guideline (American Gastroenterological Association [AGA] Clinical Practice Update — Expert Review; Best Practice Advice, unrated)
 
 ## Summary
 
-AGA CPU Expert Review on how to **risk-stratify adults for CRC screening initiation and post-polypectomy surveillance**, framed around age, family history, and predisposing conditions. Nine Best Practice Advice (BPA) statements; because no systematic review was performed, statements carry **no formal evidence grade**.
+AGA Clinical Practice Update (CPU) Expert Review on how to **risk-stratify adults for colorectal cancer (CRC) screening initiation and post-polypectomy surveillance**, framed around age, family history, and predisposing conditions. Nine Best Practice Advice (BPA) statements; because no systematic review was performed, statements carry **no formal evidence grade**.
 
-Core framework: fibrosis of the field — **average risk** (no personal/family history of CRC, IBD, hereditary syndrome, or other predisposing condition) vs **increased risk** (chiefly a first-degree relative [FDR] with CRC, or a family history of advanced adenoma). Average-risk screening begins at **age 45**. For an FDR with CRC, screening begins **10 years before the youngest affected relative's diagnosis age, or age 40, whichever is earlier**. Colonoscopy is the strategy of choice for increased-risk individuals (highest sensitivity for neoplasia); average-risk individuals may choose among colonoscopy, FIT, flexible sigmoidoscopy + FIT, multitarget stool DNA-FIT, and CT colonography by availability/preference.
+Core framework: fibrosis of the field — **average risk** (no personal/family history of CRC, inflammatory bowel disease [IBD], hereditary syndrome, or other predisposing condition) vs **increased risk** (chiefly a first-degree relative [FDR] with CRC, or a family history of advanced adenoma). Average-risk screening begins at **age 45**. For an FDR with CRC, screening begins **10 years before the youngest affected relative's diagnosis age, or age 40, whichever is earlier**. Colonoscopy is the strategy of choice for increased-risk individuals (highest sensitivity for neoplasia); average-risk individuals may choose among colonoscopy, fecal immunochemical test (FIT), flexible sigmoidoscopy + FIT, multitarget stool DNA (mt-sDNA)-FIT, and computed tomography (CT) colonography by availability/preference.
 
 For adults **>75 years**, both continued screening and continued post-polypectomy surveillance should be **individualized** on risks/benefits/comorbidities and screening history — colonoscopy harms rise with age (3.8%–6.8% emergency visit/hospitalization within 30 days in older adults) and a **≥5-year "lag time to benefit"** means those with life expectancy <5 years are unlikely to benefit. Emerging multifactorial risk-stratification tools (demographics, lifestyle, genetics) should be validated for real-world and cost-effectiveness across diverse populations before adoption.
 
@@ -40,15 +40,15 @@ For adults **>75 years**, both continued screening and continued post-polypectom
 
 **Supporting data:**
 - Lifetime CRC risk ~4% (average risk); ~20% of CRC shows familial clustering, ~5% due to hereditary syndromes.
-- Pooled RR of CRC with ≥1 affected FDR ~1.76–2.26; substantially higher when the FDR was diagnosed **<50 years** (pooled cohort RR 3.26; 95% CI 2.82–3.77) vs ≥50 years (RR 1.83).
-- FDR with any adenoma → ~1.8-fold increased CRC risk; siblings of patients with advanced adenoma had 11.5% vs 2.5% prevalence of advanced adenoma (OR 6.05).
-- NORDICC (only screening-colonoscopy RCT): invited-to-colonoscopy RR of CRC 0.82 (0.70–0.93); per-protocol (completed colonoscopy) RR 0.69 for incidence and 0.50 for mortality; only 42% completed.
+- Pooled relative risk (RR) of CRC with ≥1 affected FDR ~1.76–2.26; substantially higher when the FDR was diagnosed **<50 years** (pooled cohort RR 3.26; 95% confidence interval [CI] 2.82–3.77) vs ≥50 years (RR 1.83).
+- FDR with any adenoma → ~1.8-fold increased CRC risk; siblings of patients with advanced adenoma had 11.5% vs 2.5% prevalence of advanced adenoma (odds ratio [OR] 6.05).
+- NORDICC (only screening-colonoscopy randomized controlled trial [RCT]): invited-to-colonoscopy RR of CRC 0.82 (0.70–0.93); per-protocol (completed colonoscopy) RR 0.69 for incidence and 0.50 for mortality; only 42% completed.
 - Multitarget stool DNA-FIT sensitivity for CRC ~92% vs conventional FIT ~74%, but lower specificity; annual FIT more effective and less costly than mt-sDNA-FIT in cost-effectiveness analysis.
 - Older adults: 1.5–3.7-fold increase in post-colonoscopy complications vs younger.
 
-**Table 1 (guideline comparison — CRC screening initiation, family-history strata):** ACG 2021, ACS 2018, NCCN 2022, USMSTF 2021/2017, USPSTF 2021 for average risk (begin 45, "any test"); for increased risk (FDR with CRC/advanced adenoma), all recommend beginning **age 40 or 10 years before earliest CRC diagnosis**, colonoscopy every 5 y (ACG: CRC/advanced adenoma in 1 FDR <60 y or ≥2 FDRs any age → colonoscopy q5y; single FDR ≥60 y → begin age 40, any test).
+**Table 1 (guideline comparison — CRC screening initiation, family-history strata):** American College of Gastroenterology (ACG) 2021, American Cancer Society (ACS) 2018, National Comprehensive Cancer Network (NCCN) 2022, US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2021/2017, US Preventive Services Task Force (USPSTF) 2021 for average risk (begin 45, "any test"); for increased risk (FDR with CRC/advanced adenoma), all recommend beginning **age 40 or 10 years before earliest CRC diagnosis**, colonoscopy every 5 y (ACG: CRC/advanced adenoma in 1 FDR <60 y or ≥2 FDRs any age → colonoscopy q5y; single FDR ≥60 y → begin age 40, any test).
 
-**Table 2 (research priorities):** validate multifactorial and ancestry-inclusive risk models; studies in adults >75 y for stop-age; family-history documentation interventions; AI incorporation of colonoscopy-quality factors into surveillance risk.
+**Table 2 (research priorities):** validate multifactorial and ancestry-inclusive risk models; studies in adults >75 y for stop-age; family-history documentation interventions; artificial intelligence (AI) incorporation of colonoscopy-quality factors into surveillance risk.
 
 ## Relevance to Wiki
 

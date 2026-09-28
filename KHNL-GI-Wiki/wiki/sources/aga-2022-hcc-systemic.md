@@ -15,21 +15,21 @@ sources: []
 - **Year:** 2022
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
 - **DOI:** [10.1053/j.gastro.2021.12.276](https://doi.org/10.1053/j.gastro.2021.12.276)
-- **Type:** GRADE-based guideline
+- **Type:** Grading of Recommendations Assessment, Development and Evaluation (GRADE)-based guideline
 
 ---
 
 ## Summary
 
-This guideline sequences **systemic therapy for advanced [[hepatocellular-carcinoma]]** (not amenable to resection, transplant, or locoregional therapy), reflecting the shift to immunotherapy-based first-line treatment.
+This guideline sequences **systemic therapy for advanced [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]]** (not amenable to resection, transplant, or locoregional therapy), reflecting the shift to immunotherapy-based first-line treatment.
 
 ---
 
 ## Key Recommendations
 
 - **First-line:** **atezolizumab + bevacizumab** over sorafenib in eligible patients (preserved liver function, no high-risk varices/uncontrolled bleeding — screen and manage varices before bevacizumab). **Lenvatinib or sorafenib** where immunotherapy/bevacizumab is contraindicated.
-- **Second-line:** tyrosine kinase inhibitors (**regorafenib, cabozantinib**) and **ramucirumab** (for AFP ≥400 ng/mL), or **nivolumab**, depending on prior therapy and tolerance.
-- Reserve systemic therapy for **advanced/unresectable** disease with adequate hepatic reserve; integrate with [[hcc-surveillance]] and multidisciplinary staging.
+- **Second-line:** tyrosine kinase inhibitors (TKIs) (**regorafenib, cabozantinib**) and **ramucirumab** (for alpha-fetoprotein [AFP] ≥400 ng/mL), or **nivolumab**, depending on prior therapy and tolerance.
+- Reserve systemic therapy for **advanced/unresectable** disease with adequate hepatic reserve; integrate with [[hcc-surveillance|HCC surveillance]] and multidisciplinary staging.
 
 ---
 

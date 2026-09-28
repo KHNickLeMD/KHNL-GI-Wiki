@@ -34,7 +34,7 @@ sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-con
 
 **Chronic idiopathic constipation (CIC)** = chronic constipation without identifiable structural, metabolic, or pharmacologic cause. Diagnosis is clinical, based on symptom criteria.
 
-- **Nomenclature ([[rome-v-2026-dgbi|Rome V]], 2026):** the word "functional" was dropped — **"functional constipation" is now "chronic constipation"** (bowel-[[disorders-of-gut-brain-interaction|DGBI]] category **C2**); [[opioid-induced-constipation|opioid-induced constipation]] is a separate category (C6). [[rome-v-2026-dgbi]]
+- **Nomenclature ([[rome-v-2026-dgbi|Rome V]], 2026):** the word "functional" was dropped — **"functional constipation" is now "chronic constipation"** (bowel [[disorders-of-gut-brain-interaction|disorders of gut-brain interaction (DGBI)]] category **C2**); [[opioid-induced-constipation|opioid-induced constipation]] is a separate category (C6). [[rome-v-2026-dgbi]]
 
 **Symptom criteria for functional constipation** — Rome III, as reproduced in [[asge-2014-constipation]] Table 2. **All three blocks must be satisfied** — the symptom count alone is not the diagnosis.
 
@@ -54,15 +54,15 @@ sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-con
 
 **Exclusions (not CIC):**
 
-- **IBS-C**: abdominal pain is predominant — Rome IV set the bar at **pain ≥1 day/week for ≥3 months**; **Rome V lowered it to ≥3 days/month in the last 3 months** and re-added "abdominal discomfort" as qualifying, so more patients now sort into IBS-C rather than chronic constipation. [[rome-v-2026-dgbi]]
-- Opioid-induced constipation (OIC) — a separate entity with its own criteria, laxative-refractory threshold, and PAMORA recommendations; OIC patients were **excluded** from the evidence base for the pharmacologic recommendations below [[aga-acg-2023-constipation]]
-- Secondary causes: hypothyroidism, hypercalcemia, diabetes, Parkinson's disease, medications (opioids, anticholinergics, calcium channel blockers, iron, NSAIDs), pregnancy
+- **irritable bowel syndrome with constipation (IBS-C)**: abdominal pain is predominant — Rome IV set the bar at **pain ≥1 day/week for ≥3 months**; **Rome V lowered it to ≥3 days/month in the last 3 months** and re-added "abdominal discomfort" as qualifying, so more patients now sort into IBS-C rather than chronic constipation. [[rome-v-2026-dgbi]]
+- Opioid-induced constipation (OIC) — a separate entity with its own criteria, laxative-refractory threshold, and peripherally acting μ-opioid receptor antagonist (PAMORA) recommendations; OIC patients were **excluded** from the evidence base for the pharmacologic recommendations below [[aga-acg-2023-constipation]]
+- Secondary causes: hypothyroidism, hypercalcemia, diabetes, Parkinson's disease, medications (opioids, anticholinergics, calcium channel blockers, iron, nonsteroidal anti-inflammatory drugs (NSAIDs)), pregnancy
 
 ### Severity Assessment
 
-Assess impact on quality of life with the **PAC-QOL** (Patient Assessment of Constipation–Quality of Life), the QoL instrument the guideline's evidence synthesis used [[aga-acg-2023-constipation]], plus a stool diary (Bristol Stool Form Scale). Guide treatment escalation by:
+Assess impact on quality of life (QoL) with the **PAC-QOL** (Patient Assessment of Constipation–Quality of Life), the QoL instrument the guideline's evidence synthesis used [[aga-acg-2023-constipation]], plus a stool diary (Bristol Stool Form Scale). Guide treatment escalation by:
 
-- Response to OTC agents (adequate vs. inadequate)
+- Response to over-the-counter (OTC) agents (adequate vs. inadequate)
 - Presence of alarm features (see below)
 - Suspicion for defecation disorder (outlet dysfunction)
 
@@ -74,7 +74,7 @@ Assess impact on quality of life with the **PAC-QOL** (Patient Assessment of Con
 | Slow-transit constipation (colonic inertia) | Delayed marker transit throughout colon; poor response to biofeedback; may need colonic motility evaluation |
 | Defecation disorder (outlet dysfunction) | Dyssynergic defecation or inadequate rectal propulsion; see [[defecation-disorders]]; requires anorectal physiology testing |
 
-**Note:** Anorectal physiology testing (ARM + BET) should be pursued before escalating to prescription agents if there are symptoms suggesting outlet dysfunction (excessive straining, sense of blockage, digital maneuvers, inability to expel balloon). See [[defecation-disorders]] for full evaluation.
+**Note:** Anorectal physiology testing (anorectal manometry (ARM) + balloon expulsion test (BET)) should be pursued before escalating to prescription agents if there are symptoms suggesting outlet dysfunction (excessive straining, sense of blockage, digital maneuvers, inability to expel balloon). See [[defecation-disorders]] for full evaluation.
 
 ---
 
@@ -85,11 +85,11 @@ Assess impact on quality of life with the **PAC-QOL** (Patient Assessment of Con
 | Condition | Key Features |
 |-----------|-------------|
 | IBS-C | Abdominal pain is central symptom; [[abdominal-bloating-and-distention\|bloating]]; pain relieved by defecation |
-| [[opioid-induced-constipation\|Opioid-induced constipation]] | New or worsening symptoms on initiating/changing/increasing an opioid. Laxatives first-line; a [[pamoras\|PAMORA]] (naldemedine, naloxegol, methylnaltrexone) only once laxative-refractory. The AGA makes **no recommendation** for [[lubiprostone]] or [[prucalopride]] in OIC [[aga-2019-opioid-induced-constipation]] |
+| [[opioid-induced-constipation\|Opioid-induced constipation]] | New or worsening symptoms on initiating/changing/increasing an opioid. Laxatives first-line; a [[pamoras\|PAMORA]] (naldemedine, naloxegol, methylnaltrexone) only once laxative-refractory. The American Gastroenterological Association (AGA) makes **no recommendation** for [[lubiprostone]] or [[prucalopride]] in OIC [[aga-2019-opioid-induced-constipation]] |
 | Defecation disorder | Outlet symptoms; abnormal ARM + BET; treat with [[biofeedback-therapy\|biofeedback]], not secretagogues |
-| Hypothyroidism | TSH elevated; cold intolerance, fatigue, weight gain |
+| Hypothyroidism | thyroid-stimulating hormone (TSH) elevated; cold intolerance, fatigue, weight gain |
 | Hypercalcemia | Fatigue, polyuria, confusion; check calcium |
-| Medication-induced | Opioids, anticholinergics, iron, CCBs — review medication list |
+| Medication-induced | Opioids, anticholinergics, iron, calcium channel blockers (CCBs) — review medication list |
 | [[colorectal-cancer\|Colorectal cancer]] | Alarm features present (see below); [[colonoscopy]] indicated |
 | Hirschsprung disease | Usually diagnosed in childhood; adult cases rare; suction rectal biopsy |
 
@@ -98,7 +98,7 @@ Assess impact on quality of life with the **PAC-QOL** (Patient Assessment of Con
 - Age ≥45 with new-onset constipation and no prior colonoscopy
 - Rectal bleeding not explained by [[hemorrhoids]]
 - Unexplained weight loss ≥10 lbs
-- Family history of CRC or [[inflammatory-bowel-disease|IBD]]
+- Family history of colorectal cancer (CRC) or [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]
 - [[iron-deficiency-anemia|Iron deficiency anemia]]
 - Positive stool blood test
 
@@ -114,9 +114,9 @@ Assess impact on quality of life with the **PAC-QOL** (Patient Assessment of Con
 
 ### Anorectal Physiology Testing (if outlet dysfunction suspected)
 
-- **[[anorectal-manometry|Anorectal manometry (ARM)]]:** measures resting tone, squeeze, push effort, rectoanal inhibitory reflex
-- **Balloon expulsion test (BET):** expulsion of a 50 mL **commercial** balloon within 1 minute (seated); abnormal >1 min. **The cutoff is balloon-specific, and ACG discourages Foley balloons** — 50 mL exceeds the manufacturer's 30 mL limit and, even at the looser 2-minute Foley cutoff, 25% of healthy people are misclassified as abnormal. Mechanics on the ARM page. [[acg-2021-anorectal-disorders]]
-- **Defecography (barium or MRI):** for structural abnormalities (rectocele, prolapse) if ARM + BET discordant or biofeedback fails
+- **[[anorectal-manometry|ARM]]:** measures resting tone, squeeze, push effort, rectoanal inhibitory reflex
+- **BET:** expulsion of a 50 mL **commercial** balloon within 1 minute (seated); abnormal >1 min. **The cutoff is balloon-specific, and American College of Gastroenterology (ACG) discourages Foley balloons** — 50 mL exceeds the manufacturer's 30 mL limit and, even at the looser 2-minute Foley cutoff, 25% of healthy people are misclassified as abnormal. Mechanics on the ARM page. [[acg-2021-anorectal-disorders]]
+- **Defecography (barium or magnetic resonance imaging (MRI)):** for structural abnormalities (rectocele, prolapse) if ARM + BET discordant or biofeedback fails
 - **Colonic transit study** (radiopaque markers or wireless motility capsule): only if anorectal physiology is normal and patient not responding to biofeedback; distinguishes slow-transit from outlet dysfunction
 
 ### Role of Endoscopy (ASGE 2014)
@@ -162,21 +162,21 @@ All from [[acg-2021-anorectal-disorders]]:
 
 | Agent | Class | Dose | Strength/Evidence | Cost/month |
 |-------|-------|------|------------------|-----------|
-| **[[linaclotide\|Linaclotide]]** | GC-C agonist | 72–145 mcg daily (CIC doses); **max 290 mcg daily** | Strong/Moderate | ~$523 |
+| **[[linaclotide\|Linaclotide]]** | guanylate cyclase-C (GC-C) agonist | 72–145 mcg daily (CIC doses); **max 290 mcg daily** | Strong/Moderate | ~$523 |
 | **[[plecanatide\|Plecanatide]]** | GC-C agonist | **3 mg once daily** — the *only* approved dose, for CIC **and** IBS-C | Strong/Moderate (Rec 9) | ~$526 |
-| **[[prucalopride\|Prucalopride]]** | 5-HT4 agonist (prokinetic) | **2 mg once daily**; **1 mg daily if CrCl <30 mL/min** (severe renal impairment) | Strong/Moderate (Rec 10) | ~$563 |
-| **[[lubiprostone\|Lubiprostone]]** | ClC-2 chloride channel activator | 24 mcg BID | Conditional/Low | ~$374 |
+| **[[prucalopride\|Prucalopride]]** | 5-HT4 agonist (prokinetic) | **2 mg once daily**; **1 mg daily if creatinine clearance (CrCl) <30 mL/min** (severe renal impairment) | Strong/Moderate (Rec 10) | ~$563 |
+| **[[lubiprostone\|Lubiprostone]]** | ClC-2 chloride channel activator | 24 mcg twice daily (BID) | Conditional/Low | ~$374 |
 
 **Notes on selection:**
 
 - [[linaclotide|Linaclotide]] and [[plecanatide]]: GC-C agonists; accelerate intestinal transit and secretion; diarrhea is the main side effect; linaclotide 72 mcg also approved for CIC
-  - **Do not extrapolate a contraindication across the GC-C class.** AGA-ACG 2023 prints the GI-obstruction contraindication for [[linaclotide]] and states **none for plecanatide** (see [[plecanatide]]).
+  - **Do not extrapolate a contraindication across the GC-C class.** AGA-ACG 2023 prints the gastrointestinal (GI) obstruction contraindication for [[linaclotide]] and states **none for plecanatide** (see [[plecanatide]]).
 - [[prucalopride|Prucalopride]]: prokinetic; useful when colon transit is slow.
   - Renal adjustment is a **specific threshold, not "avoid"** — 1 mg daily at **CrCl <30 mL/min**
   - **Contraindicated** in intestinal **perforation or obstruction**, [[crohns-disease|Crohn's disease]], [[ulcerative-colitis]], and [[toxic-megacolon|toxic megacolon/megarectum]] — note this rules it out in active IBD, not just mechanical obstruction
   - **Label caution on mood/suicidality:** in a 4,476-subject safety database, 4 attempted and 2 completed suicides — both completed cases had stopped prucalopride >1 month before the event. Causality and mechanism are explicitly **unclear**; the label asks clinicians to watch for unusual changes in mood, behavior, and suicidal ideation
 - Lubiprostone: FDA-approved for CIC in adults ≥18 years; nausea in 20–30%; limited by cost and need for BID dosing
-- IBS-C note: [[linaclotide]] 290 mcg and [[tegaserod]] **6 mg BID** are IBS-C-specific regimens — do not apply this guideline to IBS-C. *(Corrected 2026-09-05: this line previously read "tegaserod (withdrawn in US)". Tegaserod was withdrawn in 2007 but **re-approved in 2019** for women <65 without CV ischemic events, and is recommended in that population by both [[acg-2020-ibs|ACG 2020]] and AGA 2022 — see [[tegaserod]].)* **[[plecanatide]] is the exception: 3 mg once daily is the approved dose for *both* CIC and IBS-C** (a "6 mg" IBS-C dose was studied but never approved)
+- IBS-C note: [[linaclotide]] 290 mcg and [[tegaserod]] **6 mg BID** are IBS-C-specific regimens — do not apply this guideline to IBS-C. *(Corrected 2026-09-05: this line previously read "tegaserod (withdrawn in US)". Tegaserod was withdrawn in 2007 but **re-approved in 2019** for women <65 without cardiovascular (CV) ischemic events, and is recommended in that population by both [[acg-2020-ibs|ACG 2020]] and AGA 2022 — see [[tegaserod]].)* **[[plecanatide]] is the exception: 3 mg once daily is the approved dose for *both* CIC and IBS-C** (a "6 mg" IBS-C dose was studied but never approved)
 
 ### Defecation Disorder: Biofeedback
 
@@ -184,7 +184,7 @@ If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-thera
 
 ### Refractory Constipation (AGA 2026)
 
-**Definition:** infrequent and/or unsatisfactory bowel habits — with or without abdominal pain — despite an **adequate trial** of lifestyle, dietary, medical, and (when indicated) pelvic floor [[biofeedback-therapy|biofeedback]] therapy, in adults meeting criteria for CC or constipation-predominant IBS.
+**Definition:** infrequent and/or unsatisfactory bowel habits — with or without abdominal pain — despite an **adequate trial** of lifestyle, dietary, medical, and (when indicated) pelvic floor [[biofeedback-therapy|biofeedback]] therapy, in adults meeting criteria for chronic constipation (CC) or constipation-predominant irritable bowel syndrome (IBS).
 
 **Before labeling a patient "refractory":**
 

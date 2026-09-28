@@ -26,52 +26,52 @@ sources: [acg-2015-colon-ischemia]
 
 ### Establishing the Diagnosis
 
-Colon ischemia (CI) results when blood flow to the colon falls below the level needed to sustain colonocyte metabolic function. Unlike [[acute-mesenteric-ischemia|acute mesenteric ischemia]] (AMI) — which involves the small bowel and drives urgent angiographic evaluation — CI is usually **segmental**. Watershed segments lie between two vascular supplies: the **splenic flexure (Griffith's point)** and the **sigmoid colon (Sudeck's point)**; the rectum is uncommonly involved because of its dual splanchnic + systemic supply. CI causes **9–24% of all hospitalizations for [[acute-lower-gi-bleeding|acute lower GI bleeding]]**, ranking first to third behind [[colorectal-cancer|colorectal malignancy]] in large epidemiologic surveys. [[acg-2015-colon-ischemia]]
+Colon ischemia (CI) results when blood flow to the colon falls below the level needed to sustain colonocyte metabolic function. Unlike [[acute-mesenteric-ischemia|acute mesenteric ischemia]] (AMI) — which involves the small bowel and drives urgent angiographic evaluation — CI is usually **segmental**. Watershed segments lie between two vascular supplies: the **splenic flexure (Griffith's point)** and the **sigmoid colon (Sudeck's point)**; the rectum is uncommonly involved because of its dual splanchnic + systemic supply. CI causes **9–24% of all hospitalizations for [[acute-lower-gi-bleeding|acute lower gastrointestinal (GI) bleeding]]**, ranking first to third behind [[colorectal-cancer|colorectal malignancy]] in large epidemiologic surveys. [[acg-2015-colon-ischemia]]
 
 **Classic presentation** *(Strong, very low)* [[acg-2015-colon-ischemia]]:
 
 - Sudden cramping, **mild** abdominal pain
 - Urgent desire to defecate
 - Passage within 24 h of bright red or maroon blood per rectum, or bloody diarrhea
-- **Hematochezia points to non-IRCI** *(Strong, very low)* — patients with **IRCI more often have pain than bleeding** (only 25–46% of IRCI have rectal bleeding)
+- **Hematochezia points to non–isolated right colon ischemia (non-IRCI)** *(Strong, very low)* — patients with **IRCI more often have pain than bleeding** (only 25–46% of IRCI have rectal bleeding)
 - Occurs at all ages but **rises with age, especially after 49 y**; **women are 57–76%** of large series, with female predominance greatest after age 69
 
 **Epidemiology / course:** annual incidence 15.6–17.7/100,000. Symptoms generally resolve in 2–3 days and the colon heals in 1–2 weeks; severe injury may take up to 6 months to heal (patient usually asymptomatic meanwhile). Cumulative recurrence ≈3% at 1 y, 5% at 2–3 y, 6% at 4 y, 10% at 5–6 y. Mortality across large series **4–12%**. [[acg-2015-colon-ischemia]]
 
-**Who to suspect — risk factors (best-practice summary statements; GRADE not applicable)** [[acg-2015-colon-ischemia]]:
+**Who to suspect — risk factors (best-practice summary statements; Grading of Recommendations Assessment, Development and Evaluation [GRADE] not applicable)** [[acg-2015-colon-ischemia]]:
 
 - **Comorbid cardiovascular disease and diabetes mellitus** should increase consideration of CI when the clinical features are typical
-- Seek a history of **[[irritable-bowel-syndrome|IBS]] and constipation**
+- Seek a history of **[[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]] and constipation**
 - **Selective cardiology consultation** is justified, particularly if a cardiac source of embolism is suspected
-- **Chronic kidney disease and COPD** are associated with **increased mortality** from CI
+- **Chronic kidney disease and chronic obstructive pulmonary disease (COPD)** are associated with **increased mortality** from CI
 - **Evaluation for thrombophilia** should be considered in **young patients with CI** and in **all patients with recurrent CI**
-- **Surgery in which the IMA has been sacrificed** (AAA repair, other abdominal operations) should increase consideration of CI
+- **Surgery in which the inferior mesenteric artery (IMA) has been sacrificed** (abdominal aortic aneurysm [AAA] repair, other abdominal operations) should increase consideration of CI
 - Seek a **medication and drug history** — especially constipation-inducing drugs, immunomodulators, and illicit drugs
 
 **Key diagnostic steps:**
 
-1. **CT abdomen/pelvis with IV and oral contrast** — first imaging modality of choice, to assess **distribution and phase** of colitis *(Strong, moderate)*. Findings that suggest CI: segmental bowel wall thickening, edema, **thumbprinting**, pericolonic fat stranding ± ascites *(Strong, moderate)* — but **nonspecific** (only 36.4% of ED patients with CT colitis had ischemia). Also excludes [[diverticulitis]] and other mimics.
+1. **Computed tomography (CT) abdomen/pelvis with intravenous (IV) and oral contrast** — first imaging modality of choice, to assess **distribution and phase** of colitis *(Strong, moderate)*. Findings that suggest CI: segmental bowel wall thickening, edema, **thumbprinting**, pericolonic fat stranding ± ascites *(Strong, moderate)* — but **nonspecific** (only 36.4% of emergency department (ED) patients with CT colitis had ischemia). Also excludes [[diverticulitis]] and other mimics.
 2. **[[colonoscopy|Colonoscopy]] within 48 h of presentation** — confirms the diagnosis *(Strong, low)*. **Insufflate minimally** *(Conditional, very low)*. Characteristic: segmental hemorrhagic, edematous mucosa with abrupt transition; ulceration; cyanotic/necrotic mucosa when severe. **Biopsy the mucosa except in gangrene** *(Strong, very low)*.
 3. **Multiphasic CT angiography (CTA)** — perform in **suspected IRCI** or **any patient in whom AMI cannot be excluded** *(Strong, moderate)*. If CI may herald AMI (IRCI, severe pain without bleeding, atrial fibrillation) and multiphasic CT is negative for occlusive disease, **consider traditional splanchnic angiography** *(Conditional, low)*.
-4. **Colonic pneumatosis and portomesenteric venous gas on CT or MRI predict transmural infarction** *(Strong, moderate)*.
-5. **Labs**: CBC, metabolic panel, lactate, LDH, CK. Laboratory testing should be used **to help predict severity**, not to make the diagnosis; **decreased hemoglobin, low serum albumin, and metabolic acidosis predict severity**.
+4. **Colonic pneumatosis and portomesenteric venous gas on CT or magnetic resonance imaging (MRI) predict transmural infarction** *(Strong, moderate)*.
+5. **Labs**: complete blood count (CBC), metabolic panel, lactate, lactate dehydrogenase (LDH), creatine kinase (CK). Laboratory testing should be used **to help predict severity**, not to make the diagnosis; **decreased hemoglobin, low serum albumin, and metabolic acidosis predict severity**.
 
 > [[colonoscopy|Colonoscopy]] must **not** be performed with signs of acute peritonitis or evidence of irreversible ischemic damage (gangrene, pneumatosis) *(Strong, very low)* — proceed to surgical evaluation. In **severe CI**, use CT to map distribution and perform only a **limited colonoscopy halted at the distalmost extent of disease** *(Strong, low)*.
 
 ### Severity Assessment
 
-Severity classification and management (Table 6, ACG 2015) — the moderate/severe strata are defined by **counting** the risk factors below, so classify by the actual factors present [[acg-2015-colon-ischemia]]:
+Severity classification and management (Table 6, American College of Gastroenterology [ACG] 2015) — the moderate/severe strata are defined by **counting** the risk factors below, so classify by the actual factors present [[acg-2015-colon-ischemia]]:
 
 | Severity | Criteria | Management |
 |---|---|---|
 | **Mild** | Typical CI symptoms with segmental colitis **not** isolated to the right colon and **none** of the moderate-disease factors below | Observation; supportive care |
-| **Moderate** | CI plus **up to 3** of: male sex; hypotension (SBP <90 mm Hg); tachycardia (HR >100 bpm); abdominal pain without rectal bleeding; BUN >20 mg/dL; Hgb <12 g/dL; LDH >350 U/L; serum sodium <136 mEq/L; WBC >15 ×10⁹/L; colonic mucosal ulceration on colonoscopy | Correct cardiovascular abnormalities (e.g., volume replacement); broad-spectrum antibiotics; surgical consultation |
-| **Severe** | CI plus **>3** of the moderate factors, **or any** of: peritoneal signs; pneumatosis or portal venous gas on imaging; gangrene on colonoscopy; pancolonic distribution or IRCI | Emergent surgical consultation (treatment likely surgical); ICU transfer; correct cardiovascular abnormalities; broad-spectrum antibiotics |
+| **Moderate** | CI plus **up to 3** of: male sex; hypotension (systolic blood pressure [SBP] <90 mm Hg); tachycardia (heart rate >100 bpm); abdominal pain without rectal bleeding; blood urea nitrogen (BUN) >20 mg/dL; hemoglobin (Hgb) <12 g/dL; LDH >350 U/L; serum sodium <136 mEq/L; white blood cell count (WBC) >15 ×10⁹/L; colonic mucosal ulceration on colonoscopy | Correct cardiovascular abnormalities (e.g., volume replacement); broad-spectrum antibiotics; surgical consultation |
+| **Severe** | CI plus **>3** of the moderate factors, **or any** of: peritoneal signs; pneumatosis or portal venous gas on imaging; gangrene on colonoscopy; pancolonic distribution or IRCI | Emergent surgical consultation (treatment likely surgical); intensive care unit (ICU) transfer; correct cardiovascular abnormalities; broad-spectrum antibiotics |
 
 **High-risk patterns:**
 
-- **IRCI (isolated right colon ischemia)** — SMA compromise or shock states; **30-day mortality 20.3–22.5% vs 9.0–11.9%** for non-IRCI; **surgical intervention 54.9% vs 10.9%**; unfavorable outcome (death and/or colectomy) **33.6–40.9%**. Severe chronic kidney disease is ~3× as common in IRCI. Perform CTA for SMA evaluation.
-- **Pancolonic ischemia** (7.3% of cases) — **similarly poor prognosis to IRCI**: mortality **21.7%**; sepsis was the etiology in 70%. IRCI + pancolonic together accounted for **61% of episodes requiring surgery** (HR 14.6 for surgery or death).
+- **IRCI** — superior mesenteric artery (SMA) compromise or shock states; **30-day mortality 20.3–22.5% vs 9.0–11.9%** for non-IRCI; **surgical intervention 54.9% vs 10.9%**; unfavorable outcome (death and/or colectomy) **33.6–40.9%**. Severe chronic kidney disease is ~3× as common in IRCI. Perform CTA for SMA evaluation.
+- **Pancolonic ischemia** (7.3% of cases) — **similarly poor prognosis to IRCI**: mortality **21.7%**; sepsis was the etiology in 70%. IRCI + pancolonic together accounted for **61% of episodes requiring surgery** (hazard ratio [HR] 14.6 for surgery or death).
 
 **Perioperative mortality — ICMR (Ischemic Colitis Mortality Risk) score.** When considering mortality risk for a patient going to surgery for acute CI, the ICMR factors should be used (best-practice summary statement; GRADE not applicable). **One point each** (Table 11): [[acg-2015-colon-ischemia]]
 
@@ -90,7 +90,7 @@ Severity classification and management (Table 6, ACG 2015) — the moderate/seve
 | 4 | 76.7% |
 | 5 | 100.0% |
 
-- On external validation, only **elevated preoperative lactate**, **renal failure requiring hemodialysis**, and **intraoperative vasopressor requirement** independently predicted death; the total ICMR score itself remained predictive (OR 2.11, 95% CI 1.44–3.22).
+- On external validation, only **elevated preoperative lactate**, **renal failure requiring hemodialysis**, and **intraoperative vasopressor requirement** independently predicted death; the total ICMR score itself remained predictive (odds ratio [OR] 2.11, 95% confidence interval 1.44–3.22).
 - Context: overall, **80.3% of CI is managed medically (6.2% mortality)** and **19.6% surgically (39.3% mortality)**; post-surgical mortality across series ranges **37–47%**.
 
 ### Classification / Typing
@@ -122,8 +122,8 @@ Severity classification and management (Table 6, ACG 2015) — the moderate/seve
 
 *Workup: see [[acute-lower-gi-bleeding]].*
 
-- **[[acute-mesenteric-ischemia|Acute mesenteric ischemia]] (AMI)** — involves small bowel; abrupt severe pain; CT angiography required urgently; does not cause hematochezia early
-- **Infectious colitis** — [[campylobacter-infection|Campylobacter]], STEC O157:H7, [[clostridioides-difficile|Clostridioides difficile]]; stool cultures, CDI testing; younger patients, exposure history
+- **[[acute-mesenteric-ischemia|AMI]]** — involves small bowel; abrupt severe pain; CT angiography required urgently; does not cause hematochezia early
+- **Infectious colitis** — [[campylobacter-infection|Campylobacter]], Shiga toxin–producing *Escherichia coli* (STEC) O157:H7, [[clostridioides-difficile|Clostridioides difficile]]; stool cultures, *C. difficile* infection (CDI) testing; younger patients, exposure history
 - **[[crohns-disease]]** — may have right colon predominance like IRCI; chronic course; may have terminal ileal involvement; biopsy shows transmural inflammation + granulomas
 - **[[ulcerative-colitis]]** — continuous disease from rectum; not segmental; usually no abrupt onset
 - **[[radiation-proctopathy|Radiation proctocolitis]]** — history of pelvic radiation; telangiectasias on endoscopy
@@ -140,7 +140,7 @@ Severity classification and management (Table 6, ACG 2015) — the moderate/seve
 
 - CT is worth obtaining specifically in **moderate or severe CI** (Table 6 strata) even if not done on admission — these patients are at highest risk of poor outcome and the distribution changes management
 - CTA is **not routine**; reserve for suspected IRCI, clinical concern for [[acute-mesenteric-ischemia|AMI]], or surgical vascular mapping
-- **Barium enema is obsolete for diagnosis** — replaced by CT and colonoscopy; its residual use is following an ischemic stricture (CT colonography or other imaging can serve the same purpose)
+- **Barium enema (BE) is obsolete for diagnosis** — replaced by CT and colonoscopy; its residual use is following an ischemic stricture (CT colonography or other imaging can serve the same purpose)
 
 **Endoscopy — supporting points:**
 
@@ -173,7 +173,7 @@ Severity classification and management (Table 6, ACG 2015) — the moderate/seve
 - Supportive care as above plus **antimicrobial therapy** *(Strong, very low)* — the guideline says **"broad-spectrum"** and deliberately specifies **no agent, combination, or duration**; no randomized human trial stratified by severity exists
 - Surgical consultation (Table 6)
 
-> [[acg-2015-colon-ischemia]] gives no antibiotic regimen, dose, or duration for CI, and states a properly designed RCT of antibiotics stratified by severity is unlikely ever to be performed; take the regimen from an intra-abdominal-infection guideline (e.g. IDSA/SIS).
+> [[acg-2015-colon-ischemia]] gives no antibiotic regimen, dose, or duration for CI, and states a properly designed randomized controlled trial (RCT) of antibiotics stratified by severity is unlikely ever to be performed; take the regimen from an intra-abdominal-infection guideline (e.g. Infectious Diseases Society of America/Surgical Infection Society [IDSA/SIS]).
 
 **Severe CI / Surgical Indications** [[acg-2015-colon-ischemia]]:
 Surgery is required (Strong, Moderate evidence) when:
@@ -198,7 +198,7 @@ Review and stop implicated drugs, and address precipitants (hypovolemia, hypoten
 | **Diuretics** | **OR 1.6** (1.2–2.1) |
 | **Female hormones** | **OR 1.88** (1.30–2.73). **Oral contraceptives OR 1.05** (1.00–1.10) in one study, risk **unaffected** in two others; **estrogen replacement risk unaffected** — do not overstate these |
 | **Illicit drugs** | Cocaine used by **20%** of CI patients at 2 inner-city hospitals (37% right-sided, **26% mortality**); amphetamines case reports |
-| **Immunomodulators** | [[anti-tnf-agents\|Anti-TNF-α]], interferon-α/β — FDA AERS case clusters |
+| **Immunomodulators** | [[anti-tnf-agents\|anti–tumor necrosis factor-α (anti-TNF-α)]], interferon-α/β — US Food and Drug Administration (FDA) Adverse Event Reporting System (AERS) case clusters |
 | Chemotherapy (taxanes, vinca alkaloids), decongestants (pseudoephedrine, phenylephrine), ergot alkaloids, appetite suppressants, laxatives | Case reports / weak or null case–control signal |
 
 - [[irritable-bowel-syndrome|IBS]] entered the risk-factor conversation because **[[alosetron]]** (for diarrhea-predominant IBS) was withdrawn from the US market after reports of CI among users in the first months after launch

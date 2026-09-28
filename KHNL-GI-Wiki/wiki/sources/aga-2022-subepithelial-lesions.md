@@ -13,19 +13,19 @@ sources: []
 - **Year:** 2022
 - **Journal/Publisher:** *Clinical Gastroenterology and Hepatology* (AGA Institute)
 - **DOI:** [10.1016/j.cgh.2022.05.054](https://doi.org/10.1016/j.cgh.2022.05.054)
-- **Type:** guideline (AGA Institute Clinical Practice Update — Expert Review)
+- **Type:** guideline (American Gastroenterological Association [AGA] Institute Clinical Practice Update — Expert Review)
 
-**Format of the advice.** Ten **numbered Best Practice Advice statements (BPA 1–10)**, reproduced verbatim below. The Update attaches **no GRADE rating, no strength of recommendation, and no certainty-of-evidence label** to any statement — AGA Expert Reviews do not use a formal rating scheme.
+**Format of the advice.** Ten **numbered Best Practice Advice statements (BPA 1–10)**, reproduced verbatim below. The Update attaches **no Grading of Recommendations Assessment, Development and Evaluation (GRADE) rating, no strength of recommendation, and no certainty-of-evidence label** to any statement — AGA Expert Reviews do not use a formal rating scheme.
 
 ---
 
 ## Summary
 
-Subepithelial lesions (SELs) are masses, bulges, or impressions in the GI lumen covered with **normal-appearing epithelium**. They arise from the muscularis mucosae, submucosa, or muscularis propria (MP), or are **extraluminal**. They are found in **1 in every 300 endoscopies**, and **two-thirds are in the stomach**. The group is heterogeneous — non-neoplastic (ectopic pancreatic tissue) through no-malignant-potential neoplasms (lipomas) to lesions with malignant potential ([[gastrointestinal-stromal-tumor|GISTs]]).
+Subepithelial lesions (SELs) are masses, bulges, or impressions in the gastrointestinal (GI) lumen covered with **normal-appearing epithelium**. They arise from the muscularis mucosae, submucosa, or muscularis propria (MP), or are **extraluminal**. They are found in **1 in every 300 endoscopies**, and **two-thirds are in the stomach**. The group is heterogeneous — non-neoplastic (ectopic pancreatic tissue) through no-malignant-potential neoplasms (lipomas) to lesions with malignant potential ([[gastrointestinal-stromal-tumor|gastrointestinal stromal tumors (GISTs)]]).
 
 Most SELs are small and incidental. The most common symptoms, when present, are **GI bleeding and abdominal pain**; rarely they cause bowel obstruction or present with metastasis. Because the overlying mucosa is normal, **standard mucosal biopsies usually do not reach the lesion** — so the whole management problem is establishing a diagnosis and determining malignant potential.
 
-The Update lays out a stepwise path: endoscopic appearance → deeper forceps sampling (bite-on-bite/tunnel/deep-well) → [[endoscopic-ultrasound|EUS]] for layer of origin and echogenicity → tissue acquisition by FNA/FNB or advanced techniques → resection or surveillance, keyed to **size, histopathology, malignant potential, and symptoms**.
+The Update lays out a stepwise path: endoscopic appearance → deeper forceps sampling (bite-on-bite/tunnel/deep-well) → [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] for layer of origin and echogenicity → tissue acquisition by fine-needle aspiration (FNA)/fine-needle biopsy (FNB) or advanced techniques → resection or surveillance, keyed to **size, histopathology, malignant potential, and symptoms**.
 
 ---
 
@@ -87,7 +87,7 @@ The Update lays out a stepwise path: endoscopic appearance → deeper forceps sa
 
 | Subepithelial lesion | Endoscopic appearance | EUS layer | EUS appearance | Histology |
 |---|---|---|---|---|
-| GIST | No specific characteristics; ulcerations could be seen | 4th (rarely 2nd or 3rd) | Hypoechoic | Spindle cells, epithelioid cells, or a mixture of both. IHC often positive for **CD117**; **DOG1** can be useful if CD117 testing is negative |
+| GIST | No specific characteristics; ulcerations could be seen | 4th (rarely 2nd or 3rd) | Hypoechoic | Spindle cells, epithelioid cells, or a mixture of both. Immunohistochemistry (IHC) often positive for **CD117**; **DOG1** can be useful if CD117 testing is negative |
 | Leiomyoma | No specific characteristics | 2nd, 3rd, or 4th | Hypoechoic | Similar to and indistinguishable from GIST. IHC **negative for CD117 and CD34**, **positive for desmin and smooth muscle actin** |
 | Lipoma | Yellow hue, **pillow sign** (high specificity, low sensitivity), tent sign, usually isolated | 3rd | **Hyperechoic** | Mature adipocytes, relatively uniform in size, lacking cytologic atypia |
 | Varices | Bluish tinge, tortuous, easily compressible | 3rd | Anechoic, serpiginous, **Doppler positive** | — |
@@ -129,7 +129,7 @@ Categorized as **exposed vs non-exposed**, by whether the MP is breached and the
 - **ESMR** removes lesions up to 20 mm from mucosa or submucosa with a snare via cap assistance or a ligation device.
 - **ESD** has been used for SELs confined to the muscularis mucosae or submucosa, such as gastric carcinoids and granular cell tumors. Intentional perforation of the muscle layer could occur with deeper lesions. Indicated for lesions easily accessible for knife manipulation and closure — esophagus, body of stomach, rectum; the duodenum only in selected patients and expert hands.
 - **STER** enters the submucosa through a mucosal entry point, tunnels to the lesion, resects, and closes the mucosal defect. Ideal where scope manipulation for ESD is difficult (cardia, proximal gastric fundus). Intended perforation of exposed techniques in the esophagus or duodenum may cause early hemodynamic and respiratory instability. In one series of **733 SELs arising from MP** resected by ESD and STER, the **R0 rate was 97.1%**, mean tumor size 1.7 cm (range 1–4 cm); **11 patients required surgery** for adverse events.
-- **FTR** = close-and-resect; the FTRD device is loaded onto a cap housing a snare — lesion pulled into cap, clip deployed, snare closed over the clip, cautery activated. In one series of FTRD in the duodenum for 5 SELs out of 20 lesions: **technical success 85%, R0 rate 63%**.
+- **FTR** = close-and-resect; the full-thickness resection device (FTRD) is loaded onto a cap housing a snare — lesion pulled into cap, clip deployed, snare closed over the clip, cautery activated. In one series of FTRD in the duodenum for 5 SELs out of 20 lesions: **technical success 85%, R0 rate 63%**.
 
 ### Management of common subepithelial lesions
 
@@ -158,17 +158,17 @@ Categorized as **exposed vs non-exposed**, by whether the MP is breached and the
 
 | Site | Management |
 |---|---|
-| **Gastric type 1** (chronic [[atrophic-gastritis\|autoimmune gastritis]], hypergastrinemia, high gastric pH) | EMR (and ESD) may be considered for lesions **<2 cm**. Lesions **<1 cm could be surveyed without resection**; **larger lesions require surgical removal**. NCCN: endoscopic surveillance and resection of prominent lesions **every 2–3 years** |
-| **Gastric type 2** (gastrinoma, hypergastrinemia, low gastric pH; can be part of MEN-1) | NCCN recommends resection of the primary gastrinoma; if the primary is not resected, surveillance and endoscopic resection of **small (<2 cm)** gastric lesions could be considered |
+| **Gastric type 1** (chronic [[atrophic-gastritis\|autoimmune gastritis]], hypergastrinemia, high gastric pH) | Endoscopic mucosal resection (EMR) (and ESD) may be considered for lesions **<2 cm**. Lesions **<1 cm could be surveyed without resection**; **larger lesions require surgical removal**. National Comprehensive Cancer Network (NCCN): endoscopic surveillance and resection of prominent lesions **every 2–3 years** |
+| **Gastric type 2** (gastrinoma, hypergastrinemia, low gastric pH; can be part of multiple endocrine neoplasia type 1 [MEN-1]) | NCCN recommends resection of the primary gastrinoma; if the primary is not resected, surveillance and endoscopic resection of **small (<2 cm)** gastric lesions could be considered |
 | **Gastric type 3** (not derived from underlying gastric pathology, not related to gastrin secretion) | Often require **radical resection**; in a small subset with smaller lesions and no evidence of regional lymphadenopathy, endoscopic resection could be considered |
 | **Duodenal** | For non-functioning, localized lesions, endoscopic resection is preferred if technically feasible. EMR is safe for isolated lesions **10 mm or smaller** limited to the submucosa. Higher risk of bleeding and perforation than mucosal resection → perform in **high-volume centers**. If endoscopic resection is achieved, surveillance with upper endoscopy should be considered |
-| **Rectal** | NCCN: incidentally found, completely resected tumors **<1 cm** do not require further surveillance. **1–2 cm** could be resected using endoscopic techniques or transanal surgery if T1 without nodal involvement; after resection, surveil with endoscopy and **EUS or MRI at 6 and 12 months** |
+| **Rectal** | NCCN: incidentally found, completely resected tumors **<1 cm** do not require further surveillance. **1–2 cm** could be resected using endoscopic techniques or transanal surgery if T1 without nodal involvement; after resection, surveil with endoscopy and **EUS or magnetic resonance imaging (MRI) at 6 and 12 months** |
 
 *Types 1 and 2 are both well-differentiated, have low mitotic indices, rarely metastasize, and are **<1–2 cm** in size. Type 3 tumors can be well-differentiated, but less-differentiated forms are seen; a subset may be aggressive, large, and resemble large cell or small cell carcinomas.*
 
 **Granular cell tumors** — most commonly esophageal, mainly affecting the submucosal layer. **<1 cm** behave benignly and can be surveilled with endoscopy and/or EUS. **>4 cm** have been reported to have malignant potential → resection could be considered. EMR and ESD have been used safely for larger lesions **up to 2.6 cm**, which can resolve the need for further surveillance.
 
-**General rule** — symptomatic or ulcerated bleeding lesions will likely need surgical resection. Other lesions are managed on the basis of pathology, which may include resection and/or surveillance. **If pathology is indeterminate, consider repeat and/or surveillance EGD/EUS.**
+**General rule** — symptomatic or ulcerated bleeding lesions will likely need surgical resection. Other lesions are managed on the basis of pathology, which may include resection and/or surveillance. **If pathology is indeterminate, consider repeat and/or surveillance esophagogastroduodenoscopy (EGD)/EUS.**
 
 ---
 
@@ -188,7 +188,7 @@ Categorized as **exposed vs non-exposed**, by whether the MP is breached and the
 
 - **The surveillance interval for small GISTs is explicitly unestablished.** The Update states the optimal interval for <2 cm gastric GISTs without high-risk features has not been established and that practice varies by region; annual surveillance is what is commonly done, not what is proven.
 - **BPA 8 and BPA 9 do not cover the same lesions.** BPA 8 advises EUS surveillance for **MP-derived SELs <2 cm** (i.e. before a tissue diagnosis exists); BPA 9 advises resection for **GISTs >2 cm** once GIST is established. Gastric GISTs of **2–4 cm without high-risk features** sit between them and are handled by multidisciplinary decision with a confirmed low mitotic index, not by either BPA alone.
-- **EUS alone is not sufficient to determine malignant potential** — sensitivity 64%, specificity 80%, operator-dependent. GIST and leiomyoma are indistinguishable on standard EUS; separating them needs contrast-enhanced EUS/elastography or tissue with immunohistochemistry (CD117/DOG1 vs desmin/SMA).
+- **EUS alone is not sufficient to determine malignant potential** — sensitivity 64%, specificity 80%, operator-dependent. GIST and leiomyoma are indistinguishable on standard EUS; separating them needs contrast-enhanced EUS/elastography or tissue with immunohistochemistry (CD117/DOG1 vs desmin/smooth muscle actin [SMA]).
 - **Mitotic index frequently cannot be obtained from EUS-FNA**, which is the parameter the resect-vs-surveil decision for 2–4 cm gastric GIST turns on.
 - **Evidence for ESD/STER in SEL is limited to retrospective single-center studies and case series**, and FTR device experience in the upper GI tract is limited.
 

@@ -24,7 +24,7 @@ sources: [acg-2020-hepatic-mesenteric-circulation, acg-2015-hereditary-gi-cancer
 
 ## Assessment
 
-HHT (Osler-Weber-Rendu disease) — autosomal dominant disorder of widespread cutaneous, mucosal, and visceral telangiectases. ([[acg-2020-hepatic-mesenteric-circulation]])
+Hereditary hemorrhagic telangiectasia (HHT) (Osler-Weber-Rendu disease) — autosomal dominant disorder of widespread cutaneous, mucosal, and visceral telangiectases. ([[acg-2020-hepatic-mesenteric-circulation]])
 
 - Prevalence **1 in 5,000–8,000**
 - Genetics: ≥80% have a heterozygous mutation in **endoglin (*ENG*)** or **activin receptor-like kinase type 1 (*ALK-1* / *ACVRL1*)** — TGF-β family receptors expressed in vascular endothelium. ***SMAD4*** mutation → combined **HHT + [[juvenile-polyposis-syndrome|juvenile polyposis]]** syndrome
@@ -45,7 +45,7 @@ HHT (Osler-Weber-Rendu disease) — autosomal dominant disorder of widespread cu
 | Hepatic artery → portal vein | [[portal-hypertension\|Portal hypertension]] — [[ascites]], varices, variceal hemorrhage |
 | Porto-venous | Portosystemic [[hepatic-encephalopathy\|encephalopathy]] |
 
-Other presentations: **biliary ischemia** (secondary sclerosing cholangitis, bilomas) and **mesenteric ischemia** (post-prandial pain from hepatic artery steal). Symptoms can **transition between presentations** (e.g. HOHF → biliary ischemia) and can be precipitated by anemia from GI bleed/epistaxis.
+Other presentations: **biliary ischemia** (secondary sclerosing cholangitis, bilomas) and **mesenteric ischemia** (post-prandial pain from hepatic artery steal). Symptoms can **transition between presentations** (e.g. HOHF → biliary ischemia) and can be precipitated by anemia from gastrointestinal (GI) bleed/epistaxis.
 
 ### Establishing the Diagnosis
 
@@ -53,7 +53,7 @@ Other presentations: **biliary ischemia** (secondary sclerosing cholangitis, bil
 
 Routes into the diagnosis that *are* sourced here:
 
-- **Via *SMAD4* genetics** — a *SMAD4* mutation carries [[juvenile-polyposis-syndrome|JPS]]–HHT overlap. Every *SMAD4* carrier must be screened for HHT, **including a cardiovascular exam** ([[acg-2015-hereditary-gi-cancer]]) — the test-by-test protocol is under [[#Extrahepatic AVM Screening (SMAD4 Carriers)]]. JPS is caused by *SMAD4* or *BMPR1A* mutations (~60% of clinically defined JPS); evaluate for both ([[aga-2022-hamartomatous-polyposis]])
+- **Via *SMAD4* genetics** — a *SMAD4* mutation carries [[juvenile-polyposis-syndrome|juvenile polyposis syndrome (JPS)]]–HHT overlap. Every *SMAD4* carrier must be screened for HHT, **including a cardiovascular exam** ([[acg-2015-hereditary-gi-cancer]]) — the test-by-test protocol is under [[#Extrahepatic AVM Screening (SMAD4 Carriers)]]. JPS is caused by *SMAD4* or *BMPR1A* mutations (~60% of clinically defined JPS); evaluate for both ([[aga-2022-hamartomatous-polyposis]])
 - **Via clinical signs of LVM** — audible **bruit** and/or palpable **thrill** over the liver, and/or abnormal liver tests (typically ↑**alkaline phosphatase**, occasionally ↑bilirubin and/or aminotransferases). These findings are what convert a "don't screen" patient into a "do image" patient (see [[#Diagnostics]])
 
 ### Severity Assessment
@@ -66,9 +66,9 @@ Routes into the diagnosis that *are* sourced here:
 
 *Workup: see [[small-bowel-bleeding]] for the diagnostic approach to the GI bleeding presentation.*
 
-- [[angioectasia]] — sporadic GI angioectasias produce the same bleeding phenotype without the AVM/telangiectasia syndrome
+- [[angioectasia]] — sporadic GI angioectasias produce the same bleeding phenotype without the arteriovenous malformation (AVM)/telangiectasia syndrome
 - **[[cirrhosis]] — the key mimic on histology.** [[porto-sinusoidal-vascular-disorder|Nodular regenerative hyperplasia (NRH)]] is a frequent finding in HHT liver, and the combination of regeneration plus fibrosis around ectatic vessels leads to an **erroneous diagnosis of cirrhosis**
-- **[[focal-nodular-hyperplasia|Focal nodular hyperplasia]]** — more common in HHT (prevalence **2.9%** vs **0.3%** in the general population). There are **no reports of [[hepatocellular-carcinoma\|HCC]]** arising in a liver with LVMs
+- **[[focal-nodular-hyperplasia|Focal nodular hyperplasia]]** — more common in HHT (prevalence **2.9%** vs **0.3%** in the general population). There are **no reports of [[hepatocellular-carcinoma\|hepatocellular carcinoma (HCC)]]** arising in a liver with LVMs
 - Other vascular disorders of the hepatic circulation covered by the same guideline: [[budd-chiari-syndrome]], [[portal-vein-thrombosis]], [[mesenteric-artery-aneurysm]]
 
 > The guideline does not provide a formal differential diagnosis for HHT; the entries above are the adjacent/mimicking entities it addresses.
@@ -82,14 +82,14 @@ Routes into the diagnosis that *are* sourced here:
 | **Asymptomatic HHT** | **Do NOT** routinely screen for LVMs — no evidence that diagnosing an asymptomatic patient benefits outcome or prevents death | Strong | Low |
 | Liver **bruit**, hyperdynamic circulation, **or abnormal liver tests** | Evaluate further for LVMs (exception to the no-screening rule) | Strong | Low |
 | Pregnancy with known HHT + LVM | Warrants **special attention** — anticipated hemodynamic stress | Strong | Low |
-| Symptoms/signs of **heart failure, biliary ischemia, [[hepatic-encephalopathy\|hepatic encephalopathy]], mesenteric ischemia, or PH** | Contrast **CT** or **[[mri-mrcp\|MRI/MRCP]]** | Strong | Low |
-| — | **Doppler US** may establish the diagnosis with a compatible clinical picture, but is **less accurate** than CT or MRI/MRCP | Strong | Low |
+| Symptoms/signs of **heart failure, biliary ischemia, [[hepatic-encephalopathy\|hepatic encephalopathy]], mesenteric ischemia, or portal hypertension (PH)** | Contrast **computed tomography (CT)** or **[[mri-mrcp\|magnetic resonance imaging (MRI)/magnetic resonance cholangiopancreatography (MRCP)]]** | Strong | Low |
+| — | **Doppler ultrasound (US)** may establish the diagnosis with a compatible clinical picture, but is **less accurate** than CT or MRI/MRCP | Strong | Low |
 | — | **Angiography and [[liver-biopsy\|liver biopsy]] are NOT recommended** for diagnosing LVMs | Strong | Low |
 
 *([[acg-2020-hepatic-mesenteric-circulation]] recs 21–22)*
 
 - **Hallmark imaging findings:** intrahepatic hypervascularization (telangiectases) + **enlarged common hepatic artery (>6–7 mm)**. More obvious in symptomatic patients
-- **CTA or MRA** are the most-used methods, with no difference in diagnostic accuracy
+- **CT angiography (CTA) or magnetic resonance angiography (MRA)** are the most-used methods, with no difference in diagnostic accuracy
 - Shunt type is determinable in **>2/3** of LVM patients by early/differential enhancement of hepatic veins (arteriovenous) or portal veins (arterioportal) across imaging phases. Arterioportal shunting is more frequent in patients presenting with PH, but CT findings do not correlate with clinical presentation; **porto-venous shunts are difficult to diagnose** noninvasively
 - Liver biopsy is additionally hazardous (bleeding risk from widespread LVMs) and unhelpful — histology can produce a false diagnosis of cirrhosis
 
@@ -116,7 +116,7 @@ The liver rules above are **not** the whole surveillance program. [[aga-2022-ham
 | Presentation | Standard therapy |
 |---|---|
 | **HOHF** | Sodium restriction, **diuretics**, **beta-blockers**; correct **anemia** and **atrial fibrillation** (both worsen symptoms by ↓O₂ delivery / ↓cardiac output). Pregnant patients: treat medically and **deliver as expeditiously as possible** |
-| **[[portal-hypertension\|Portal hypertension]]** | Treat the specific complications ([[ascites]], varices, [[variceal-upper-gi-bleeding\|variceal hemorrhage]]) as for [[cirrhosis]]. **[[tips\|TIPS]] does NOT ameliorate bleeding from GI arteriovenous malformations** |
+| **[[portal-hypertension\|Portal hypertension]]** | Treat the specific complications ([[ascites]], varices, [[variceal-upper-gi-bleeding\|variceal hemorrhage]]) as for [[cirrhosis]]. **[[tips\|Transjugular intrahepatic portosystemic shunt (TIPS)]] does NOT ameliorate bleeding from GI arteriovenous malformations** |
 | **Secondary sclerosing cholangitis** | [[ursodeoxycholic-acid\|Ursodeoxycholic acid]] may be used — **no data support this** |
 | **Biloma** | No treatment if asymptomatic; analgesics if painful; **urgent antibiotics** if [[acute-cholangitis\|cholangitis]] or infected biloma; drainage if pain/infection not improving |
 | **Mesenteric ischemia** | Smaller, more frequent meals + analgesics |
@@ -128,7 +128,7 @@ For nonresponders to standard therapy, escalate **least-invasive first**, at a *
 ```mermaid
 flowchart TD
     A["Symptomatic hepatic LVM"] --> B["Standard medical therapy<br/>directed at the specific complication<br/>— resolves symptoms in the majority"]
-    B -->|Nonresponder| C["Bevacizumab (anti-VEGF)<br/>5 mg/kg IV q14 days x 6 doses<br/>at a specialized HHT center"]
+    B -->|Nonresponder| C["Bevacizumab (anti-vascular endothelial<br/>growth factor [VEGF])<br/>5 mg/kg intravenously (IV) every 14 days x 6 doses<br/>at a specialized HHT center"]
     C -->|Relapse or nonresponse| D["Hepatic artery embolization / ligation<br/>PROSCRIBED if biliary disease or PH"]
     D -->|Nonresponder or relapse| E["Liver transplantation"]
 ```
@@ -150,7 +150,7 @@ flowchart TD
 - Bleeding-related **anemia can precipitate or worsen** the hepatic presentations (especially HOHF) — correcting it is part of standard LVM therapy
 - **[[tips|TIPS]] does not ameliorate bleeding from GI arteriovenous malformations** ([[acg-2020-hepatic-mesenteric-circulation]])
 
-> The guideline gives **no endoscopic or pharmacologic management algorithm specific to HHT-related GI bleeding** (no HHT-specific bevacizumab, thalidomide, or APC recommendation); see an HHT-specific guideline.
+> The guideline gives **no endoscopic or pharmacologic management algorithm specific to HHT-related GI bleeding** (no HHT-specific bevacizumab, thalidomide, or argon plasma coagulation [APC] recommendation); see an HHT-specific guideline.
 
 ---
 

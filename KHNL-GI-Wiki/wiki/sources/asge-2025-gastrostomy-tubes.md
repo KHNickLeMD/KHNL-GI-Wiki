@@ -22,7 +22,7 @@ sources: []
 
 ## Summary
 
-This ASGE guideline addresses endoscopic enteral access, comparing **percutaneous endoscopic gastrostomy (PEG)** with interventional-radiology gastrostomy (IR-G), the timing of feeding, and periprocedural antithrombotic management. It supports PEG as the default modality and earlier feeding than historically practiced. Placement is performed via [[upper-endoscopy]] and supports [[nutrition-in-hospitalized-patients|enteral nutrition]] in patients who cannot meet needs orally.
+This American Society for Gastrointestinal Endoscopy (ASGE) guideline addresses endoscopic enteral access, comparing **percutaneous endoscopic gastrostomy (PEG)** with interventional-radiology gastrostomy (IR-G), the timing of feeding, and periprocedural antithrombotic management. It supports PEG as the default modality and earlier feeding than historically practiced. Placement is performed via [[upper-endoscopy]] and supports [[nutrition-in-hospitalized-patients|enteral nutrition]] in patients who cannot meet needs orally.
 
 ---
 

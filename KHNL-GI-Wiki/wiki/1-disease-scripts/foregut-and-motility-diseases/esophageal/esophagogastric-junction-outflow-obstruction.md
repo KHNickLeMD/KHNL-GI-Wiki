@@ -6,7 +6,7 @@ created: 2026-07-29
 updated: 2026-09-06
 sources: [aga-2024-poem-advances, chicago-v4-2021-esophageal-dysmotility, padova-2025-hrm-antireflux]
 ---
-A **manometric finding, not a diagnosis** — impaired EGJ relaxation with preserved (or only partially disordered) peristalsis, distinguishing it from [[achalasia]]. In isolation it should **not** justify any permanent intervention; it has many mimics and requires correlation with symptoms and confirmatory testing.
+A **manometric finding, not a diagnosis** — impaired esophagogastric junction (EGJ) relaxation with preserved (or only partially disordered) peristalsis, distinguishing it from [[achalasia]]. In isolation it should **not** justify any permanent intervention; it has many mimics and requires correlation with symptoms and confirmatory testing.
 
 ## Contents
 - [[#Assessment]]
@@ -22,9 +22,9 @@ A **manometric finding, not a diagnosis** — impaired EGJ relaxation with prese
 
 ### Establishing the Diagnosis
 
-**Two separate bars must be cleared: a *manometric* diagnosis, then a *clinically relevant conclusive* diagnosis.** A manometric EGJOO on its own is, in CCv4.0's words, **always clinically inconclusive**.
+**Two separate bars must be cleared: a *manometric* diagnosis, then a *clinically relevant conclusive* diagnosis.** A manometric esophagogastric junction outflow obstruction (EGJOO) on its own is, in the words of the Chicago Classification v4.0 (CCv4.0), **always clinically inconclusive**.
 
-**Bar 1 — manometric diagnosis of EGJOO** ([[chicago-classification-v4|Chicago Classification v4.0]], Low GRADE / conditional). **All three** required on [[high-resolution-manometry|HRM]]:
+**Bar 1 — manometric diagnosis of EGJOO** ([[chicago-classification-v4|CCv4.0]], Grading of Recommendations Assessment, Development and Evaluation (GRADE): Low / conditional). **All three** required on [[high-resolution-manometry|high-resolution manometry (HRM)]]:
 
 | # | Criterion | Operative threshold |
 |---|---|---|
@@ -39,11 +39,11 @@ A **manometric finding, not a diagnosis** — impaired EGJ relaxation with prese
 
 1. A manometric diagnosis of EGJOO (Bar 1), **and**
 2. **Clinically relevant symptoms** — defined by CCv4.0 as **dysphagia and/or non-cardiac chest pain**, **and**
-3. **≥1 supportive investigation showing obstruction** — timed barium esophagram (**preferably with a tablet**) and/or [[flip-panometry|FLIP]]
+3. **≥1 supportive investigation showing obstruction** — timed barium esophagram (TBE), **preferably with a tablet**, and/or [[flip-panometry|functional lumen imaging probe (FLIP)]]
 
 - **Sub-classify by the accompanying peristaltic pattern** (CCv4.0) — it names the coexisting disorder and shapes therapy: EGJOO **with spastic features** (≥20% premature swallows), **with hypercontractile features**, **with [[ineffective-esophageal-motility|ineffective motility]]**, or **with no evidence of disordered peristalsis**.
 - Also useful but **not required**: outflow obstruction and esophageal pressurization during the rapid drink challenge (RDC) are supportive of a manometric EGJOO.
-- A [[ambulatory-reflux-monitoring|pH study]] is used to exclude [[gerd|GERD]] as the driver rather than to confirm EGJOO.
+- A [[ambulatory-reflux-monitoring|pH study]] is used to exclude [[gerd|gastroesophageal reflux disease (GERD)]] as the driver rather than to confirm EGJOO.
 
 ### Severity Assessment
 
@@ -73,8 +73,8 @@ EGJOO is associated with a multitude of alternative causes that must be excluded
 
 - **First, exhaust less invasive options** — many cases are self-limited, artifactual, or explained by a mimic.
 - **Medical therapy, botulinum toxin injection, endoscopic dilation** — try before any myotomy.
-- **[[poem|POEM]]:** evidence limited; consider **only case-by-case in very selected patients** after less invasive approaches are exhausted and symptomatic obstruction is confirmed. Long-term success for POEM in EGJOO ~**80–85%** (lower than for classic [[achalasia]] subtypes); studies limited by disease rarity ([[aga-2024-poem-advances|AGA 2024]] BPA 3).
-- **An EGJOO found before [[antireflux-surgery|antireflux surgery]] must be addressed first** — e.g. [[pneumatic-dilation|pneumatic dilation]] or POEM evaluation — rather than wrapping over it (**86% consensus**, [[padova-2025-hrm-antireflux|Padova consensus]]); the full pre-ARS motor-disorder framework is on [[hrm-antireflux-surgery]].
+- **[[poem|per-oral endoscopic myotomy (POEM)]]:** evidence limited; consider **only case-by-case in very selected patients** after less invasive approaches are exhausted and symptomatic obstruction is confirmed. Long-term success for POEM in EGJOO ~**80–85%** (lower than for classic [[achalasia]] subtypes); studies limited by disease rarity ([[aga-2024-poem-advances|American Gastroenterological Association (AGA) 2024]] Best Practice Advice (BPA) 3).
+- **An EGJOO found before [[antireflux-surgery|antireflux surgery (ARS)]] must be addressed first** — e.g. [[pneumatic-dilation|pneumatic dilation]] or POEM evaluation — rather than wrapping over it (**86% consensus**, [[padova-2025-hrm-antireflux|Padova consensus]]); the full pre-ARS motor-disorder framework is on [[hrm-antireflux-surgery]].
 
 ## See Also
 

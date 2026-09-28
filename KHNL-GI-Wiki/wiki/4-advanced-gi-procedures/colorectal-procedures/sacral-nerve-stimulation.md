@@ -7,7 +7,7 @@ updated: 2026-09-03
 sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation]
 ---
 
-*Implanted sacral neuromodulation device — peripheral nerve stimulation of the **S3 or S4 nerve roots** in the sacral foramina ([[acg-2021-anorectal-disorders]]). **Strong recommendation for moderate–severe [[fecal-incontinence|fecal incontinence]] failing conservative measures; explicitly NOT recommended for constipation.** A temporary trial phase precedes permanent implantation.*
+*Implanted sacral neuromodulation device — peripheral nerve stimulation of the **S3 or S4 nerve roots** in the sacral foramina ([[acg-2021-anorectal-disorders]]). **Strong recommendation for moderate–severe [[fecal-incontinence|fecal incontinence (FI)]] failing conservative measures; explicitly NOT recommended for constipation.** A temporary trial phase precedes permanent implantation.*
 
 ## Contents
 - [[#Indications]]
@@ -25,8 +25,8 @@ sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation]
 
 | Indication | Recommendation | Strength / Evidence |
 |---|---|---|
-| **Moderate–severe [[fecal-incontinence\|fecal incontinence]]** that has **failed conservative measures, biofeedback, and other low-cost, low-risk techniques** | Sacral nerve stimulation | **Strong / Low** ([[acg-2021-anorectal-disorders]]) |
-| **Constipation** / [[defecation-disorders\|defecation disorders]] | **NOT recommended** — no benefit in RCTs | ([[acg-2021-anorectal-disorders]]) |
+| **Moderate–severe [[fecal-incontinence\|fecal incontinence]]** that has **failed conservative measures, biofeedback, and other low-cost, low-risk techniques** | Sacral nerve stimulation (SNS) | **Strong / Low** ([[acg-2021-anorectal-disorders]]) |
+| **Constipation** / [[defecation-disorders\|defecation disorders]] | **NOT recommended** — no benefit in randomized controlled trials (RCTs) | ([[acg-2021-anorectal-disorders]]) |
 
 ### What has to fail first
 
@@ -38,13 +38,13 @@ All three clauses of the recommendation are gates — SNS is not an alternative 
 
 ### How "moderate–severe" is judged
 
-ACG gives **no single validated score or cutoff**; severity is gauged clinically and it drives the choice of therapy:
+The American College of Gastroenterology (ACG) gives **no single validated score or cutoff**; severity is gauged clinically and it drives the choice of therapy:
 
 - Ask about the **type, amount** (small / medium / large), and **frequency** of leakage, plus the presence of **urgency** — together these index severity and correlate strongly with quality-of-life impact and with whether the patient seeks care.
 - **Urge vs passive** incontinence localizes the defect: urge (aware of the desire, cannot reach the toilet) → reduced squeeze pressure/duration or reduced rectal capacity with hypersensitivity, i.e. external sphincter; passive (unaware) → low resting pressure, i.e. internal sphincter.
 - **The mild end is explicitly excluded:** most people with FI have it **less than once a month** or have only staining of underclothes — these patients "might benefit from less costly interventions," not SNS.
 - Comorbidity moderates the choice (e.g. dementia limits biofeedback).
-- Workup before advanced FI therapy: Bristol Stool Form Scale ([[acg-2021-anorectal-disorders]] describes it only as "a validated set of pictures of bowel movements" and does not print the 7 types; see [[chronic-constipation]]) + symptom diary; DRE + [[anorectal-manometry|ARM]] + balloon expulsion test + rectal sensation for moderate–severe FI (i.e. those failing conservative measures); endoanal US or MRI if pressures are weak or surgery is being considered.
+- Workup before advanced FI therapy: Bristol Stool Form Scale ([[acg-2021-anorectal-disorders]] describes it only as "a validated set of pictures of bowel movements" and does not print the 7 types; see [[chronic-constipation]]) + symptom diary; digital rectal examination (DRE) + [[anorectal-manometry|anorectal manometry (ARM)]] + balloon expulsion test + rectal sensation for moderate–severe FI (i.e. those failing conservative measures); endoanal ultrasound or magnetic resonance imaging (MRI) if pressures are weak or surgery is being considered.
 - The negative recommendation in constipation is echoed in the refractory-constipation pathway, where surgical/device escalation follows confirmed slow transit rather than neuromodulation ([[aga-2026-refractory-constipation]]) — see [[chronic-idiopathic-constipation]].
 
 ### Who the evidence excludes
@@ -96,7 +96,7 @@ Device-related complications are substantial and are the main counterweight to t
 | Paresthesias | **15%** |
 | Change in the sensation of stimulation | **12%** |
 | Infection | **10%** |
-| Any device-related AE at 60 months | **61%** (one long-term follow-up study) |
+| Any device-related adverse event (AE) at 60 months | **61%** (one long-term follow-up study) |
 
 ---
 
@@ -107,11 +107,11 @@ For FI failing conservative therapy ([[acg-2021-anorectal-disorders]]):
 | Option | Recommendation | Notes |
 |---|---|---|
 | **SNS** | Strong / Low | Moderate–severe FI failing conservative measures |
-| Injectable bulking agents (dextranomer, NASHA Dx) | Conditional / Low | For conservative/biofeedback failures; **52% vs 31%** achieved ≥50% reduction in episodes (RCT) |
+| Injectable bulking agents (dextranomer in stabilized hyaluronic acid [NASHA Dx]) | Conditional / Low | For conservative/biofeedback failures; **52% vs 31%** achieved ≥50% reduction in episodes (RCT) |
 | Anal plugs, vaginal balloons | Conditional / Very Low | Selected patients |
 | **Tibial nerve stimulation** — percutaneous (PTNS, needle above the ankle) or transcutaneous (TTNS, pads on the sole) | **No recommendation** — efficacy unresolved | Both reduced FI frequency in uncontrolled case series. Small comparative study: ≥50% reduction in FI frequency **82% PTNS vs 48% TTNS vs 13% sham** (*P* = 0.035). But the large multicenter European RCT (12 weekly sessions, >100 patients/arm) found **no difference vs sham (38% vs 31%)**; only **urge-related** FI did better than passive FI |
 | Anal sphincteroplasty | Conditional / Low | For **acute** sphincter injuries; 85% short-term improvement, deteriorating to **50% at 40–60 months** |
-| [[ostomy-management\|End stoma]] | Conditional | Last resort for severe FI; significant QoL improvement |
+| [[ostomy-management\|End stoma]] | Conditional | Last resort for severe FI; significant quality of life (QoL) improvement |
 | Dynamic graciloplasty | **NOT recommended** | Significant morbidity and mortality |
 | SECCA (radiofrequency) | **Not recommended routinely** | Limited long-term data |
 

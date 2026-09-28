@@ -7,7 +7,7 @@ updated: 2026-09-23
 sources: [aga-2017-tdm-ibd]
 ---
 
-Measuring a drug's **trough concentration** and, for biologics, **antidrug antibodies**, to decide whether a patient failing therapy needs the **same drug optimized**, a **different drug in the same class**, or a **different class** entirely. The AGA framework covers [[anti-tnf-agents|anti-TNF agents]] and [[thiopurines]] in [[inflammatory-bowel-disease|IBD]] ([[aga-2017-tdm-ibd]]); it does not cover [[vedolizumab]] or [[il-23-and-il-12-23-inhibitors|ustekinumab]].
+Measuring a drug's **trough concentration** and, for biologics, **antidrug antibodies**, to decide whether a patient failing therapy needs the **same drug optimized**, a **different drug in the same class**, or a **different class** entirely. The American Gastroenterological Association (AGA) framework covers [[anti-tnf-agents|anti–tumor necrosis factor (TNF) agents]] and [[thiopurines]] in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] ([[aga-2017-tdm-ibd]]); it does not cover [[vedolizumab]] or [[il-23-and-il-12-23-inhibitors|ustekinumab]].
 
 ---
 
@@ -29,11 +29,11 @@ Measuring a drug's **trough concentration** and, for biologics, **antidrug antib
 
 | | Definition | AGA position |
 |---|---|---|
-| **Reactive** | TDM in a patient with **active IBD** — active IBD-related symptoms confirmed by objective findings (biochemical markers, endoscopy, radiology), **or** clinically asymptomatic with objective inflammation on endoscopy/radiology | **Suggested** to guide treatment changes for [[anti-tnf-agents\|anti-TNF]] (conditional, very low quality) and for [[thiopurines\|thiopurine]] metabolites (conditional, very low quality) |
+| **Reactive** | Therapeutic drug monitoring (TDM) in a patient with **active IBD** — active IBD-related symptoms confirmed by objective findings (biochemical markers, endoscopy, radiology), **or** clinically asymptomatic with objective inflammation on endoscopy/radiology | **Suggested** to guide treatment changes for [[anti-tnf-agents\|anti-TNF]] (conditional, very low quality) and for [[thiopurines\|thiopurine]] metabolites (conditional, very low quality) |
 | **Proactive** | Routine TDM performed while the patient is **in remission** | Anti-TNF: **no recommendation** — knowledge gap. Thiopurine metabolites: **suggested against** (conditional, very low quality) |
 
 - The proactive anti-TNF gap is deliberate: the benefit-vs-harm balance is uncertain. The harm is **premature switching away from index therapy** in patients who are in remission, because target troughs in asymptomatic patients and the significance of low-titer antibodies are both unclear.
-- **TAXIT** is the reason: after everyone was dose-optimized to an infliximab trough of 3–7 µg/mL (clinical remission rose 65% → 88%), remission at 1 year was no different with routine proactive TDM (RR 1.04; 95% CI 0.88–1.24). The **initial optimization** helped; **repeating it before every infusion** added nothing measurable at 1 year — though patients without proactive TDM ended the year with more antidrug antibodies and more undetectable troughs.
+- **TAXIT** is the reason: after everyone was dose-optimized to an infliximab trough of 3–7 µg/mL (clinical remission rose 65% → 88%), remission at 1 year was no different with routine proactive TDM (relative risk [RR] 1.04; 95% confidence interval [CI] 0.88–1.24). The **initial optimization** helped; **repeating it before every infusion** added nothing measurable at 1 year — though patients without proactive TDM ended the year with more antidrug antibodies and more undetectable troughs.
 
 ---
 
@@ -104,7 +104,7 @@ flowchart TD
 
 ## Thiopurines — TPMT and Metabolites
 
-**Before starting** — routine **TPMT** testing (enzymatic activity **or** genotype) to guide dosing (conditional, low quality).
+**Before starting** — routine **thiopurine methyltransferase (TPMT)** testing (enzymatic activity **or** genotype) to guide dosing (conditional, low quality).
 
 | TPMT status | Dosing used in the supporting trials |
 |---|---|
@@ -112,15 +112,15 @@ flowchart TD
 | Intermediate enzymatic activity / heterozygous genotype | **50% dose reduction** |
 | Low or absent enzyme activity / homozygous genotype | Drug withheld, or **0–10% of the initiation dose** |
 
-- At a **population** level TPMT testing did not change outcomes — hematologic adverse events RR 0.94 (0.59–1.50), treatment discontinuation RR 1.09 (0.94–1.27), clinical remission RR 1.03 (0.84–1.27) across 3 RCTs — because homozygotes are rare (**0.17%**, n = 2 of 1145 patients).
+- At a **population** level TPMT testing did not change outcomes — hematologic adverse events RR 0.94 (0.59–1.50), treatment discontinuation RR 1.09 (0.94–1.27), clinical remission RR 1.03 (0.84–1.27) across 3 randomized controlled trials (RCTs) — because homozygotes are rare (**0.17%**, n = 2 of 1145 patients).
 - The recommendation exists for the **0.3%** with homozygous genotype or low/absent enzyme activity, who face considerable harm from empiric weight-based dosing. In patients with intermediate or low/absent activity, TPMT-guided dosing was associated with an **89% risk reduction in hematologic adverse events**.
-- **Routine laboratory monitoring — CBC, plus liver enzymes — continues regardless of the TPMT result.** TPMT testing does not replace it, and real-world adherence to monitoring is suboptimal.
+- **Routine laboratory monitoring — complete blood count (CBC), plus liver enzymes — continues regardless of the TPMT result.** TPMT testing does not replace it, and real-world adherence to monitoring is suboptimal.
 
 **Metabolite monitoring** — reactive only (active IBD, or adverse effects thought to be thiopurine toxicity):
 
 | Metabolite | Target | Qualifier |
 |---|---|---|
-| **6-TGN** (6-thioguanine) | **230–450 pmol/8 × 10⁸ RBCs** | **Monotherapy only.** The optimal cutoff when a thiopurine is combined with an [[anti-tnf-agents\|anti-TNF]] is uncertain — in combination the thiopurine partly serves to reduce immunogenicity rather than independently drive remission, and lower targets have been suggested but no threshold is established |
+| **6-TGN** (6-thioguanine) | **230–450 pmol/8 × 10⁸ red blood cells (RBCs)** | **Monotherapy only.** The optimal cutoff when a thiopurine is combined with an [[anti-tnf-agents\|anti-TNF]] is uncertain — in combination the thiopurine partly serves to reduce immunogenicity rather than independently drive remission, and lower targets have been suggested but no threshold is established |
 
 - 6-TGN **≥230 pmol/8 × 10⁸ RBCs** carried **40% higher remission rates** (RR 1.4; 95% CI 1.2–1.6) than levels <230.
 - Algorithm used in the supporting study: **6-TGN low (<230)** → optimize the thiopurine dose; **6-TGN adequate** → switch medication. Algorithm-concordant care was far more likely to respond to a therapeutic change (RR 5.15; 95% CI 1.82–14.56).
@@ -132,7 +132,7 @@ flowchart TD
 ## Practical Operating Rules
 
 - **Draw the trough as close to the next dose as possible — within 24 hours.**
-- **Use the same assay** for a given patient's repeated trough and antibody measurements. Quantitative infliximab concentrations across assays fall within **−7% to +20%** of each other; adalimumab showed considerable variability between an ELISA and a homogeneous mobility shift assay. Antibody reporting is the more variable of the two, so a single assay for both is preferable.
+- **Use the same assay** for a given patient's repeated trough and antibody measurements. Quantitative infliximab concentrations across assays fall within **−7% to +20%** of each other; adalimumab showed considerable variability between an enzyme-linked immunosorbent assay (ELISA) and a homogeneous mobility shift assay. Antibody reporting is the more variable of the two, so a single assay for both is preferable.
 - **Not covered by this framework:** [[vedolizumab]] and [[il-23-and-il-12-23-inhibitors|ustekinumab]] — too few data at the time of publication. Newer biologics require their own evaluation as they are approved.
 
 ---

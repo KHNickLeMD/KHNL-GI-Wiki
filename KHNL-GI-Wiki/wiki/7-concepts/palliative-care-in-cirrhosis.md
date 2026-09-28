@@ -24,16 +24,16 @@ sources: [aga-2020-palliative-care-cirrhosis, aasld-2022-palliative-cirrhosis]
 
 ## What It Is — and What It Is Not
 
-- **Palliative care (PC) principles:** early identification and management of physical, psychological, social, and spiritual suffering; excellence in communication for advance care planning (ACP), goals-of-care discussions (GCD), and prognostication; screening for caregiver fatigue; providing caregiver support [[aga-2020-palliative-care-cirrhosis]]
-- Three misconceptions the AGA update names and rebuts:
+- **Palliative care (PC) principles:** early identification and management of physical, psychological, social, and spiritual suffering; excellence in communication for advance care planning (ACP), goals-of-care discussions, and prognostication; screening for caregiver fatigue; providing caregiver support [[aga-2020-palliative-care-cirrhosis]]
+- Three misconceptions the American Gastroenterological Association (AGA) update names and rebuts:
   - **PC ≠ hospice.** Hospice sits *within* PC and targets end-of-life care for estimated survival **<6 months**; PC applies at **all stages** of a life-limiting illness
   - **PC is not mutually exclusive with curative/life-prolonging therapy** — including [[liver-transplantation|liver transplantation]]. Transplant-listed patients have high symptom burden and caregiver distress
   - **PC is not only for decompensated disease.** Distress and depressive symptoms are identifiable in **Child-Pugh class A** patients, many of whom have quality-of-life and symptom scores well below population norms
 - Median survival: **2 years in decompensated disease to 12 years in compensated disease**; quality of life with worsening severity **parallels advanced cancer**
 
-**BPA 1 (verbatim):** *Care with palliative care principles should be provided to any patient with advanced serious chronic illness or life-limiting illness such as cirrhosis, irrespective of transplant candidacy; this care should be based on needs assessment instead of prognosis alone, delivered concurrently with curative or life-prolonging treatments, and tailored to stage of disease.*
+**Best Practice Advice (BPA) 1 (verbatim):** *Care with palliative care principles should be provided to any patient with advanced serious chronic illness or life-limiting illness such as cirrhosis, irrespective of transplant candidacy; this care should be based on needs assessment instead of prognosis alone, delivered concurrently with curative or life-prolonging treatments, and tailored to stage of disease.*
 
-All ten Best Practice Advice statements are reproduced verbatim on [[aga-2020-palliative-care-cirrhosis]]. **The AGA update attaches no evidence grades to them** — no GRADE, strength, or quality label exists in the document.
+All ten BPA statements are reproduced verbatim on [[aga-2020-palliative-care-cirrhosis]]. **The AGA update attaches no evidence grades to them** — no Grading of Recommendations Assessment, Development and Evaluation (GRADE), strength, or quality label exists in the document.
 
 ---
 
@@ -41,7 +41,7 @@ All ten Best Practice Advice statements are reproduced verbatim on [[aga-2020-pa
 
 | Term | Definition |
 |---|---|
-| **Primary palliative care** | Delivery of care by a clinician who is **not** a PC specialist — hepatology/GI, primary care, advance practice providers, allied health, ICU/ED |
+| **Primary palliative care** | Delivery of care by a clinician who is **not** a PC specialist — hepatology/gastroenterology, primary care, advance practice providers, allied health, intensive care unit (ICU)/emergency department (ED) |
 | **Specialty palliative care** | Delivery by a PC specialist with dedicated training and/or board certification in hospice and palliative medicine |
 
 - **BPA 2:** care inclusive of PC principles may be delivered by providers **from any specialty within any healthcare setting**
@@ -56,9 +56,9 @@ What a non-PC specialist should actually do, with the example instruments and sc
 
 | Element | Do this | Examples given |
 |---|---|---|
-| **Symptoms** (BPA 3) | Screen for presence *and severity* across physical, psychological, social, and spiritual domains | ESAS (including pruritus), PHQ-2, Distress Thermometer, a quality-of-life scale |
-| **Prognosis, functional status** (BPA 6) | Ask *"Compared to last year, have you noticed any changes in your ability to carry out your day-to-day tasks? Is this change happening over years? months? days?"* | Measure: MELD-Na, Karnofsky Index, Liver Frailty Index |
-| **ACP readiness → ACP/GCD** (BPA 6, 7) | Ask *"I want to share with you my understanding of where things are at with your illness… Is this okay with you?"* | Serious Illness Conversation Guide |
+| **Symptoms** (BPA 3) | Screen for presence *and severity* across physical, psychological, social, and spiritual domains | Edmonton Symptom Assessment System (ESAS) (including pruritus), Patient Health Questionnaire-2 (PHQ-2), Distress Thermometer, a quality-of-life scale |
+| **Prognosis, functional status** (BPA 6) | Ask *"Compared to last year, have you noticed any changes in your ability to carry out your day-to-day tasks? Is this change happening over years? months? days?"* | Measure: Model for End-Stage Liver Disease (MELD)-Na, Karnofsky Index, Liver Frailty Index |
+| **ACP readiness → ACP/Goals of Care Designation (GCD)** (BPA 6, 7) | Ask *"I want to share with you my understanding of where things are at with your illness… Is this okay with you?"* | Serious Illness Conversation Guide |
 | **Caregiver needs** (BPA 5) | Ask *"I know this must be hard on you. How are you doing?"* | Measure: Caregiver Strain Index, Zarit Burden Interview |
 | **Communication skills** (BPA 4, 7) | Use a structured ACP/communication course | Vital Talk; Respecting Choices / Center to Advance Palliative Care; Serious Illness Conversation Guide; patient-facing tools (PREPARE for Your Care) |
 | **Pathways** (BPA 9) | Establish care pathways and referral triggers with the local specialty PC team **in advance** | — |
@@ -85,7 +85,7 @@ Screening instruments the update tabulates (full table with domains and scales o
 - **ESAS** — 10 items, **0–10 visual analogue scale**; physical, emotional, and total scores; includes pruritus
 - **Distress Thermometer** — distress **0 (none) to 10 (extreme)** visual analogue scale, plus a 39-item problem list
 - **PHQ-2 → PHQ-9** — PHQ-2 is the first 2 PHQ-9 items; **yes to either → proceed to the PHQ-9**; no to both → screen negative for depression. PHQ-9 is **9 items scored 0–3, total 0–27**, categorized minimal/none, mild, moderate, moderately severe, severe
-- Liver-specific quality-of-life tools: CLDQ, LDQOL, SF-LDQOL, LDSI, LC-PROM
+- Liver-specific quality-of-life tools: Chronic Liver Disease Questionnaire (CLDQ), Liver Disease Quality of Life (LDQOL), Short Form LDQOL (SF-LDQOL), Liver Disease Symptom Index (LDSI), Liver Cirrhosis Patient-Reported Outcome Measure (LC-PROM)
 
 *The update states no cut-point on any of these instruments that should trigger action or referral, and says there are few data on which tool is best.* Ancillary clinic staff can administer the screens (BPA 8).
 
@@ -94,9 +94,9 @@ Screening instruments the update tabulates (full table with domains and scales o
 ## Prognostication and Sentinel Events
 
 - **BPA 6:** prognosis should be evaluated **during routine care visits and at sentinel events**
-- **Scores alone are not enough.** MELD, MELD-Na, [[cirrhosis|Child-Pugh]], and [[acute-on-chronic-liver-failure|CLIF-C ACLF]] have recognized limitations applied to individual patients. Add **comorbidities, functional status/[[nutrition-in-liver-disease|frailty]], rapidity of functional decline, and potential for improvement with etiological therapy**
+- **Scores alone are not enough.** MELD, MELD-Na, [[cirrhosis|Child-Pugh]], and [[acute-on-chronic-liver-failure|CLIF-C acute-on-chronic liver failure (ACLF)]] have recognized limitations applied to individual patients. Add **comorbidities, functional status/[[nutrition-in-liver-disease|frailty]], rapidity of functional decline, and potential for improvement with etiological therapy**
 - Clinicians are **overly optimistic** about individual prognosis; in a large multicenter study both physician-estimated and modeled prognoses failed to predict mortality in cirrhosis
-- **Quality of life independently predicts outcome** — e.g. every **1-point rise in CLDQ** and every **10-point rise in EQ-VAS** cut the risk of short-term unplanned hospitalization/mortality by **30%** and **13%** respectively (n = 402, mean MELD 12); higher baseline SF-LDQOL predicted lower waitlist mortality independent of MELD (**HR 0.96, 95% CI 0.94–0.99**)
+- **Quality of life independently predicts outcome** — e.g. every **1-point rise in CLDQ** and every **10-point rise in EuroQoL visual analogue scale (EQ-VAS)** cut the risk of short-term unplanned hospitalization/mortality by **30%** and **13%** respectively (n = 402, mean MELD 12); higher baseline SF-LDQOL predicted lower waitlist mortality independent of MELD (**hazard ratio [HR] 0.96, 95% confidence interval [CI] 0.94–0.99**)
 
 **Sentinel events** — the trigger list that drives both prognostic reassessment (BPA 6) and repeat goals-of-care discussions (BPA 7):
 
@@ -104,7 +104,7 @@ Screening instruments the update tabulates (full table with domains and scales o
 - Intensive care unit admission
 - Before initiation of life-supporting therapies
 - Before surgery (see [[cirrhosis]] → perioperative risk)
-- New onset of a cirrhosis-related complication (including [[hepatocellular-carcinoma|HCC]])
+- New onset of a cirrhosis-related complication (including [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]])
 - After determination of transplant eligibility
 
 A RAND/UCLA modified-Delphi panel's quality indicators add **use of a mechanical ventilator** and **initiation of hemodialysis** to that list.
@@ -115,7 +115,7 @@ A RAND/UCLA modified-Delphi panel's quality indicators add **use of a mechanical
 
 - **BPA 4:** excellence in communication is integral to high-quality ACP, goals-of-care conversations, and the cultivation of prognostic awareness — **across the spectrum of cirrhosis**, not only in decompensated disease
 - **BPA 7:** GCD should be **repeated** at every sentinel event above
-- Patients' stated preferences frequently diverge from fully aggressive care: in SUPPORT, among patients with ≥2 features of advanced disease (serum albumin ≤3.0 mg/dL *as printed in the source*, uncontrolled ascites, [[hepatic-encephalopathy|hepatic encephalopathy]], cachexia, upper GI bleed), **43% would rather die than receive care in a nursing home**, and most preferred death to living in a coma or with a ventilator or feeding tube
+- Patients' stated preferences frequently diverge from fully aggressive care: in SUPPORT, among patients with ≥2 features of advanced disease (serum albumin ≤3.0 mg/dL *as printed in the source*, uncontrolled ascites, [[hepatic-encephalopathy|hepatic encephalopathy (HE)]], cachexia, upper gastrointestinal (GI) bleed), **43% would rather die than receive care in a nursing home**, and most preferred death to living in a coma or with a ventilator or feeding tube
 - Practice reality: **81%** of surveyed cirrhosis providers thought ACP discussions occurred **too late**; in a population cohort, **one third or less** had documented directives or goals of care
 - Openers the update supplies: *"To make sure that both you and your family are prepared, I like to address both the best- and worst-case scenarios regarding how your cirrhosis may progress. Can we talk about these now?"*; where prognosis is ambivalent and the disease is worsening, **"what if" scenarios** help elicit preferred decisions
 
@@ -126,7 +126,7 @@ A RAND/UCLA modified-Delphi panel's quality indicators add **use of a mechanical
 **BPA 5:** routine care — **particularly in decompensated disease** — should include assessment of caregiver support and screening for caregiver needs.
 
 - **Burden is defined by:** perceived physical symptoms, psychological distress, impaired social relationships, spiritual distress, financial crisis, role strain, disruption of daily life, and uncertainty
-- **Instruments:** Zarit Burden Interview, Caregiver Reaction Assessment, Family Strain Questionnaire-Short Form, **Caregiver Strain Index**, PROMIS measures
+- **Instruments:** Zarit Burden Interview, Caregiver Reaction Assessment, Family Strain Questionnaire-Short Form, **Caregiver Strain Index**, Patient-Reported Outcomes Information System (PROMIS) measures
 - **[[hepatic-encephalopathy|HE]] is a principal driver** — caregiver burden scores are significantly higher with either **previous overt HE or minimal HE**, and cognitive performance and MELD correlate with burden
 - **Independent predictors of caregiver burden:** repeated hospital admissions, **alcohol as etiology** (see [[alcohol-associated-liver-disease]]), and lower socioeconomic status
 - Around [[liver-transplantation|transplant]], caregiver strain **predominantly impairs role rather than physical quality of life**

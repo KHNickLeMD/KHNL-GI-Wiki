@@ -19,13 +19,13 @@ sources: []
 
 ## Summary
 
-This 2025 update addresses six treatment and surveillance questions not resolved in the 2018 AASLD guidance, and issues **9 numbered recommendations** (one per PICO question except PICO 6, which carries four). Evidence searches ran to February 2024 (questions 1–3) and December 2024 (question 4); four de novo systematic reviews were performed and two existing reviews reused. Eight of the nine recommendations are **Conditional / Very Low** — only the pregnancy recommendation reaches Strong / Moderate — so shared decision-making is the operating mode throughout.
+This 2025 update addresses six treatment and surveillance questions not resolved in the 2018 American Association for the Study of Liver Diseases (AASLD) guidance, and issues **9 numbered recommendations** (one per Population, Intervention, Comparison, Outcome [PICO] question except PICO 6, which carries four). Evidence searches ran to February 2024 (questions 1–3) and December 2024 (question 4); four de novo systematic reviews were performed and two existing reviews reused. Eight of the nine recommendations are **Conditional / Very Low** — only the pregnancy recommendation reaches Strong / Moderate — so shared decision-making is the operating mode throughout.
 
-The guideline retains the 2018 framework of five CHB phases (immune-tolerant, HBeAg+ immune active, HBeAg− immune active, inactive, HBsAg-negative) and formally treats the **indeterminate / grey-zone** phases as a distinct group: up to 40% of adults with CHB fail one or more criteria for a defined phase. Preferred nucleos(t)ide analogues (NAs) remain entecavir (ETV), tenofovir disoproxil fumarate (TDF), and tenofovir alafenamide (TAF) — high efficacy, low resistance, broadly applicable including in decompensated [[cirrhosis]] and immunocompromise.
+The guideline retains the 2018 framework of five chronic hepatitis B (CHB) phases (immune-tolerant, hepatitis B e antigen [HBeAg]+ immune active, HBeAg− immune active, inactive, hepatitis B surface antigen [HBsAg]-negative) and formally treats the **indeterminate / grey-zone** phases as a distinct group: up to 40% of adults with CHB fail one or more criteria for a defined phase. Preferred nucleos(t)ide analogues (NAs) remain entecavir (ETV), tenofovir disoproxil fumarate (TDF), and tenofovir alafenamide (TAF) — high efficacy, low resistance, broadly applicable including in decompensated [[cirrhosis]] and immunocompromise.
 
-Shifts from 2018: (1) TAF is co-recommended with TDF in pregnancy, though TDF has the more extensive safety record; (2) immune-tolerant patients **over age 40**, or with grade ≥2 inflammation or ≥F2 fibrosis, now merit treatment; (3) indeterminate-phase patients should be offered antivirals via shared decision-making; (4) NA discontinuation is discouraged until HBsAg loss (functional cure); (5) [[hcc-surveillance|HCC surveillance]] is extended to HDV and HIV co-infection and to higher-risk subgroups after HBsAg loss.
+Shifts from 2018: (1) TAF is co-recommended with TDF in pregnancy, though TDF has the more extensive safety record; (2) immune-tolerant patients **over age 40**, or with grade ≥2 inflammation or ≥F2 fibrosis, now merit treatment; (3) indeterminate-phase patients should be offered antivirals via shared decision-making; (4) NA discontinuation is discouraged until HBsAg loss (functional cure); (5) [[hcc-surveillance|hepatocellular carcinoma (HCC) surveillance]] is extended to hepatitis D virus (HDV) and human immunodeficiency virus (HIV) co-infection and to higher-risk subgroups after HBsAg loss.
 
-This is a focused update — the 2018 guidance remains applicable for children, immune-active CHB, low-level viremia and virologic breakthrough, cirrhosis, and special populations (transplant recipients, acute HBV, co-infections).
+This is a focused update — the 2018 guidance remains applicable for children, immune-active CHB, low-level viremia and virologic breakthrough, cirrhosis, and special populations (transplant recipients, acute hepatitis B virus [HBV] infection, co-infections).
 
 ## Key Findings / Claims
 
@@ -34,19 +34,19 @@ This is a focused update — the 2018 guidance remains applicable for children, 
 - Initiate TDF or TAF at gestational **week 28** for HBV DNA **>200,000 IU/mL at any time point in pregnancy, regardless of HBeAg status** (Rec 1 — Strong / Moderate)
 - Past week 28 at presentation → start immediately anyway
 - TAF is co-recommended; TDF has the more extensive pregnancy safety record. TDF/TAF preferred over lamivudine/telbivudine (lower resistance)
-- Start at **week 16** if HBIG will be unavailable for the infant (RCT: noninferior MTCT, 0.76% vs 0%)
+- Start at **week 16** if hepatitis B immune globulin (HBIG) will be unavailable for the infant (randomized controlled trial [RCT]: noninferior MTCT, 0.76% vs 0%)
 - Consider **earlier** initiation if amniocentesis is anticipated (raises perinatal transmission when HBV DNA >2,000,000 IU/mL) or if preterm labour risk is high
 - Can stop TDF/TAF **at delivery** if MTCT prevention was the only indication; flare risk is the same as stopping at postpartum weeks 4–12
-- After stopping: HBV DNA + ALT every 1–3 months for up to 6 months; reinitiate for a significant withdrawal flare (**ALT ≥5× ULN**)
+- After stopping: HBV DNA + alanine aminotransferase (ALT) every 1–3 months for up to 6 months; reinitiate for a significant withdrawal flare (**ALT ≥5× upper limit of normal [ULN]**)
 - Breastfeeding safe on TDF or TAF
 - ETV: insufficient pregnancy safety data — switch to TDF/TAF
 - Untreated MTCT despite HBIG + birth-dose vaccine within 24 h: ~8–10% when maternal HBV DNA >200,000 IU/mL; 16–25% in HBeAg-positive persons with no birth-dose HBIG
 
 **PICO 2 — Horizontal transmission prevention:**
 
-- For viremic HBsAg+ persons not meeting disease-specific treatment indications but in high-risk transmission scenarios (unprotected sex or multiple partners, injection drug use with inconsistent harm reduction, susceptible household contacts, healthcare workers performing SHEA category III exposure-prone procedures): shared decision-making about antivirals (Rec 2 — Conditional / Very Low)
+- For viremic HBsAg+ persons not meeting disease-specific treatment indications but in high-risk transmission scenarios (unprotected sex or multiple partners, injection drug use with inconsistent harm reduction, susceptible household contacts, healthcare workers performing Society for Healthcare Epidemiology of America (SHEA) category III exposure-prone procedures): shared decision-making about antivirals (Rec 2 — Conditional / Very Low)
 - Favour treatment when the exposed contacts are unvaccinated, vaccine non-responders, immunocompromised, or of unknown vaccine status; a person who requests treatment for this reason can be prescribed it
-- SHEA/CDC set the HBV DNA thresholds for category III procedures and those thresholds vary between bodies; this guideline does not give a single number
+- SHEA/Centers for Disease Control and Prevention (CDC) set the HBV DNA thresholds for category III procedures and those thresholds vary between bodies; this guideline does not give a single number
 - No activity restrictions: routine household contact, shared meals, hugging, contact sports, school and professional training are not routes of transmission — but avoid sharing toothbrushes and razors. Disclosure by healthcare workers is not required (CDC and SHEA), and CHB is protected under the Americans with Disabilities Act
 
 **PICO 3 — Immune-tolerant phase treatment:**
@@ -55,7 +55,7 @@ This is a focused update — the 2018 guidance remains applicable for children, 
 - Suggest treatment for **age over 40 years**, OR significant liver inflammation (**grade ≥2**), OR fibrosis (**≥F2**) on biopsy or non-invasive testing (Rec 3 — Conditional / Very Low)
 - For age <40 without significant inflammation or fibrosis: shared decision-making weighing age (child/adolescent vs adult), HCC family history, likelihood of long-term adherence to treatment and monitoring, and prevention of transmission
 - If untreated: HBV DNA + ALT at least every 6 months to catch transition to immune-active CHB
-- Vibration-controlled transient elastography cutoff **7 kPa** for ≥F2 (Sn 69%, Sp 83%)
+- Vibration-controlled transient elastography cutoff **7 kPa** for ≥F2 (sensitivity 69%, specificity 83%)
 - ETV/TDF/TAF have low resistance rates but DNA may not fully suppress given very high viral replication levels
 - No direct evidence NA therapy reduces HCC in immune-tolerant phase; benefits inferred
 
@@ -64,8 +64,8 @@ This is a focused update — the 2018 guidance remains applicable for children, 
 - Definition: HBsAg+, HBeAg−, no cirrhosis, with ALT/HBV DNA outside inactive or immune-active thresholds
 - Two subgroups: (I) normal/mildly elevated ALT + HBV DNA ≥2000 IU/mL; (II) elevated ALT + HBV DNA <2000 IU/mL
 - AASLD now suggests antivirals via shared decision-making, reassessing at every follow-up visit (Conditional/Very Low)
-- Factors favoring treatment: age >40, male sex, platelets <180 k/mm³, advanced fibrosis (FIB-4 >1.45 or elastography ≥8 kPa)
-- Meta-analysis (14,691 patients): antiviral treatment associated with lower HCC incidence (aIRR 0.36, 95% CI 0.16–0.81)
+- Factors favoring treatment: age >40, male sex, platelets <180 k/mm³, advanced fibrosis (Fibrosis-4 Index [FIB-4] >1.45 or elastography ≥8 kPa)
+- Meta-analysis (14,691 patients): antiviral treatment associated with lower HCC incidence (adjusted incidence rate ratio [aIRR] 0.36, 95% confidence interval [CI] 0.16–0.81)
 - If not treating: ALT + HBV DNA every 3–6 months year 1, every 6 months thereafter
 - Elevated ALT + HBV DNA <2000 IU/mL → evaluate for other liver injury etiologies
 
@@ -74,24 +74,24 @@ This is a focused update — the 2018 guidance remains applicable for children, 
 - Population: HBeAg−, no cirrhosis, HBV DNA undetectable ≥2 years, on NA ≥3 years
 - AASLD suggests NOT withdrawing NA therapy until HBsAg loss (Conditional/Very Low)
 - Rationale: HBsAg loss only 11% at 2 years off therapy; ALT flares 27% at 2 years; re-treatment 42% at 5 years; decompensation and death reported in cohort studies
-- Diverges from EASL and APASL, which recommend considering NA withdrawal to enhance HBsAg loss after sustained HBV DNA suppression for 2–4 years; WHO allows discontinuation only in exceptional circumstances
+- Diverges from European Association for the Study of the Liver (EASL) and Asian Pacific Association for the Study of the Liver (APASL), which recommend considering NA withdrawal to enhance HBsAg loss after sustained HBV DNA suppression for 2–4 years; World Health Organization (WHO) allows discontinuation only in exceptional circumstances
 - After withdrawal: ALT + HBV DNA every 1–3 months for the first 6 months, then every 3 months for the next 6–12 months, then every 3–6 months
-- If patient insists on stopping, all of the following required: no cirrhosis/decompensation/HCC history; HBV DNA undetectable ≥2 years; if HBeAg+ at start → HBeAg seroconversion + consolidation ≥1 year; qHBsAg <100 IU/mL; no HIV/HDV co-infection; committed to frequent monitoring
+- If patient insists on stopping, all of the following required: no cirrhosis/decompensation/HCC history; HBV DNA undetectable ≥2 years; if HBeAg+ at start → HBeAg seroconversion + consolidation ≥1 year; quantitative HBsAg (qHBsAg) <100 IU/mL; no HIV/HDV co-infection; committed to frequent monitoring
 - Restart triggers (need only ONE): HBV DNA ≥10,000 IU/mL, ALT ≥5× ULN, bilirubin >2.5 mg/dL, or hepatic decompensation
 
 **PICO 6 — HCC surveillance post-HBsAg loss and in co-infections:**
 
-- Post-HBsAg loss: continue surveillance for cirrhosis, family Hx HCC, men >40 at loss, women >50 at loss (Conditional/Very Low)
+- Post-HBsAg loss: continue surveillance for cirrhosis, family history of HCC, men >40 at loss, women >50 at loss (Conditional/Very Low)
 - HBV/HDV co-infection: all adults regardless of cirrhosis (HCC incidence 18.65 vs. 4.84 per 1000 person-years vs. mono-infection) (Conditional/Very Low)
 - HBV/HIV: men ≥18 years, women ≥40 years (Conditional/Very Low)
-- HBV/HCV: treat HCV first; then HCC surveillance per HBV mono-infection criteria (Conditional/Very Low)
-- All surveillance: US + AFP every 6 months per 2023 AASLD HCC Guidance
+- HBV/hepatitis C virus (HCV): treat HCV first; then HCC surveillance per HBV mono-infection criteria (Conditional/Very Low)
+- All surveillance: ultrasound + alpha-fetoprotein (AFP) every 6 months per 2023 AASLD HCC Guidance
 
 **Drug selection principles (unchanged from 2018 but reconfirmed):**
 
 - Preferred: ETV, TDF, TAF (all have low resistance, broad applicability)
-- Avoid TDF: renal/bone disease → use TAF instead (but TAF not for CrCl <15 mL/min not yet on dialysis)
-- Avoid ETV: pregnancy; prior lamivudine exposure (resistance risk); HIV unless suppressed on ART
+- Avoid TDF: renal/bone disease → use TAF instead (but TAF not for creatinine clearance (CrCl) <15 mL/min not yet on dialysis)
+- Avoid ETV: pregnancy; prior lamivudine exposure (resistance risk); HIV unless suppressed on antiretroviral therapy (ART)
 - Avoid ETV in pregnancy → switch to TDF/TAF
 - ALT thresholds: normal defined as M <35 U/L, F <25 U/L (stricter than older ULN)
 
@@ -121,7 +121,7 @@ The document numbers **9 recommendations**, each with a Strength (Strong or Cond
 
 - AASLD diverges from EASL and APASL on NA discontinuation: AASLD suggests not stopping until functional cure; EASL/APASL support considering withdrawal after 2–4 years of sustained suppression
 - WHO uses single HBV DNA threshold (>2000 IU/mL) without HBeAg stratification; AASLD maintains HBeAg + DNA thresholds reflecting US resource context
-- Role of qHBsAg, HBV RNA, and HBcrAg not addressed — future guidance anticipated
+- Role of qHBsAg, HBV RNA, and hepatitis B core-related antigen (HBcrAg) not addressed — future guidance anticipated
 - Benefit of treating inactive carriers with high HBsAg levels (>1000 IU/mL) not addressed
 - Evidence quality predominantly Very Low — most recommendations require individualized shared decision-making
 

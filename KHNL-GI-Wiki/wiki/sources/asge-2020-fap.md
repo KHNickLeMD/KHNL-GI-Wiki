@@ -17,9 +17,9 @@ sources: []
 
 ## Summary
 
-ASGE evidence-based guideline (GRADE) on the **role of endoscopy** across the adenomatous polyposis syndromes — classic [[familial-adenomatous-polyposis|FAP]], attenuated FAP (AFAP), and [[mutyh-associated-polyposis|MUTYH-associated polyposis (MAP)]]. Where the ACG hereditary-cancer guideline frames genetics and overall management, this document focuses specifically on screening/surveillance endoscopy: when to start, how often, and how to handle colorectal, gastric, duodenal/ampullary, and post-surgical (pouch/rectum) disease.
+American Society for Gastrointestinal Endoscopy (ASGE) evidence-based guideline (Grading of Recommendations Assessment, Development and Evaluation [GRADE]) on the **role of endoscopy** across the adenomatous polyposis syndromes — classic [[familial-adenomatous-polyposis|familial adenomatous polyposis (FAP)]], attenuated FAP (AFAP), and [[mutyh-associated-polyposis|MUTYH-associated polyposis (MAP)]]. Where the American College of Gastroenterology (ACG) hereditary-cancer guideline frames genetics and overall management, this document focuses specifically on screening/surveillance endoscopy: when to start, how often, and how to handle colorectal, gastric, duodenal/ampullary, and post-surgical (pouch/rectum) disease.
 
-Colorectal management has changed little — colectomy remains standard of care once polyp burden is unmanageable. What is newer is the endoscopic management of **upper-GI and small-bowel polyposis**: patients now live longer after colectomy and die of gastric/duodenal cancers (occurring ~20 years after colectomy), so the periampullary region warrants particular attention. Endoscopic polypectomy and ampullectomy by expert endoscopists can downstage disease and delay major surgery; chemoprevention remains investigational.
+Colorectal management has changed little — colectomy remains standard of care once polyp burden is unmanageable. What is newer is the endoscopic management of **upper-gastrointestinal (GI) and small-bowel polyposis**: patients now live longer after colectomy and die of gastric/duodenal cancers (occurring ~20 years after colectomy), so the periampullary region warrants particular attention. Endoscopic polypectomy and ampullectomy by expert endoscopists can downstage disease and delay major surgery; chemoprevention remains investigational.
 
 ## Key Findings / Claims
 
@@ -33,10 +33,10 @@ Colorectal management has changed little — colectomy remains standard of care 
 6. We recommend surveillance colonoscopy at 1- to 2-year intervals in AFAP. (Low)
 7. We recommend screening colonoscopy at ages 18 to 20 years in patients with or suspected to have MAP. (Low)
 8. We recommend surveillance colonoscopy at 1- to 2-year intervals in MAP. (Low)
-9. We recommend a pouch endoscopy or ileoscopy in patients with IPAA or ileostomy surgery at 1- to 2-year intervals. (Very low)
-10. We recommend a sigmoidoscopy in patients with IRA surgery at 6-month to 1-year intervals indefinitely. (Very low)
+9. We recommend a pouch endoscopy or ileoscopy in patients with IPAA [ileal pouch–anal anastomosis] or ileostomy surgery at 1- to 2-year intervals. (Very low)
+10. We recommend a sigmoidoscopy in patients with IRA [ileorectal anastomosis] surgery at 6-month to 1-year intervals indefinitely. (Very low)
 11. We recommend upper GI surveillance based on the interval advised for the most severely affected organ, whether stomach or duodenum. (Low)
-12. Surveillance examinations should include random biopsy sampling as well as targeted biopsy sampling of any suspicious lesions to assess for dysplasia and accurate duodenal Spigelman stage. Baseline Spigelman score 7 is associated with the development of duodenal HGD. (Low)
+12. Surveillance examinations should include random biopsy sampling as well as targeted biopsy sampling of any suspicious lesions to assess for dysplasia and accurate duodenal Spigelman stage. Baseline Spigelman score 7 is associated with the development of duodenal HGD [high-grade dysplasia]. (Low)
 13. We recommend endoscopic resection of gastric and duodenal polyps >1 cm, given the risk of developing dysplasia. (Low)
 14. We recommend endoscopic resection of all antral polyps, given the predominance of gastric adenomas in this location. (Low)
 15. We recommend careful examination of the ampulla and periampullary region using a duodenoscope or cap-assisted gastroscope, given the predilection for cancer in this area. (Low)
@@ -47,7 +47,7 @@ Colorectal management has changed little — colectomy remains standard of care 
 - Gastric/duodenal cancers occur ~20 years after colectomy; high-risk endoscopic features include thick gastric polyposis mounds and Spigelman stage IV disease.
 - A targeted approach resecting high-risk lesions (villous, dysplastic, >1 cm) is advised — it is not possible to remove all adenomas.
 - Routine chromoendoscopy is **not** recommended during duodenal surveillance; routine deep enteroscopy is **not** recommended for routine small-bowel surveillance.
-- Chemoprevention data: a randomized trial of dual COX + EGFR inhibition (sulindac 150 mg BID + erlotinib 75 mg daily) showed a 71% decrease in duodenal polyp burden at 6 months, though erlotinib use was limited by an acne-like rash. NSAIDs alone have minimal efficacy for duodenal adenomas. It remains unknown whether reducing polyp burden (endoscopically or pharmacologically) lowers overall cancer risk.
+- Chemoprevention data: a randomized trial of dual cyclooxygenase (COX) + epidermal growth factor receptor (EGFR) inhibition (sulindac 150 mg twice daily [BID] + erlotinib 75 mg daily) showed a 71% decrease in duodenal polyp burden at 6 months, though erlotinib use was limited by an acne-like rash. Nonsteroidal anti-inflammatory drugs (NSAIDs) alone have minimal efficacy for duodenal adenomas. It remains unknown whether reducing polyp burden (endoscopically or pharmacologically) lowers overall cancer risk.
 
 ## Relevance to Wiki
 - Updates [[familial-adenomatous-polyposis]] — adds endoscopy-specific surveillance detail: clinical-polyposis definition for testing (≥10 on one exam / ≥20 lifetime), pouch/ileoscopy 1–2 y, IRA sigmoidoscopy 6 mo–1 y indefinitely, upper-GI interval set by most-affected organ, resection of gastric/duodenal polyps >1 cm and all antral polyps, ampullary exam with duodenoscope/cap-assisted gastroscope, ampullary biopsy only if mucosal abnormality (avoid pancreatic orifice), Spigelman score 7 ↔ duodenal HGD, and sulindac+erlotinib chemoprevention data.

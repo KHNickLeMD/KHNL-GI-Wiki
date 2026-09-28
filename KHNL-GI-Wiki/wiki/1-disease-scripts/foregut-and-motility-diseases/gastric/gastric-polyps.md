@@ -7,7 +7,7 @@ updated: 2026-09-06
 sources: [aga-2026-gastric-polyps, asge-2015-gastric-premalignant, acg-2024-hp-treatment]
 ---
 
-Raised **epithelial lesions of the gastric mucosa** arising from mucosal hyperplasia, adenoma, fundic gland proliferation, or enterochromaffin-like (ECL) cell proliferation. Core principle: evaluate **both the polyp and the surrounding/background mucosa**, since field changes ([[helicobacter-pylori-infection|H. pylori]] gastritis, [[atrophic-gastritis|autoimmune/atrophic gastritis]], [[gastric-intestinal-metaplasia|GIM]]) drive malignant risk and surveillance.
+Raised **epithelial lesions of the gastric mucosa** arising from mucosal hyperplasia, adenoma, fundic gland proliferation, or enterochromaffin-like (ECL) cell proliferation. Core principle: evaluate **both the polyp and the surrounding/background mucosa**, since field changes ([[helicobacter-pylori-infection|H. pylori]] gastritis, [[atrophic-gastritis|autoimmune/atrophic gastritis]], [[gastric-intestinal-metaplasia|gastric intestinal metaplasia (GIM)]]) drive malignant risk and surveillance.
 
 ## Contents
 - [[#Assessment]]
@@ -30,8 +30,8 @@ Raised **epithelial lesions of the gastric mucosa** arising from mucosal hyperpl
 
 - **Resect at index endoscopy.** All newly detected **solitary** polyps should be resected at the index exam — diagnostic *and* therapeutic in one step (rather than biopsy-then-return).
 - **Histology is the diagnosis** — polyps are biopsied or resected for definitive histopathology; endoscopic appearance alone cannot distinguish dysplastic/early cancerous polyps.
-- **Systematic mucosal sampling** at the index exam whenever a solitary polyp or a suspected non-FGP is seen: **updated Sydney System** or **MAPS II** protocol. Sydney zones — antrum lesser (A1) and greater (A2) curves, incisura (A3), body lesser (B1) and greater (B2) curves; biopsies may be directed by appearance within each zone; **≥2 jars** (antrum, body) plus a **separate jar for any targeted lesion**. The topographic pattern of inflammation/atrophy/GIM distinguishes H. pylori-related from autoimmune gastritis.
-- **H. pylori status** in every case: biopsy-based when sampling is available; otherwise **serology, urea breath test, or stool antigen** ([[test-and-treat|test and treat]]). ⚠ The serology option is narrow and conflicts with the H. pylori guideline: [[acg-2024-hp-treatment|ACG 2024]] recommends **against serology in low-prevalence populations** absent a high pre-test probability, and treats only a **non-serological** positive as an indication to treat. AGA 2026 is the newer source and permits serology **only when biopsy sampling is unavailable** — so prefer UBT or stool antigen whenever either is obtainable.
+- **Systematic mucosal sampling** at the index exam whenever a solitary polyp or a suspected non–fundic gland polyp (non-FGP) is seen: **updated Sydney System** or **Management of epithelial precancerous conditions and lesions in the stomach (MAPS II)** protocol. Sydney zones — antrum lesser (A1) and greater (A2) curves, incisura (A3), body lesser (B1) and greater (B2) curves; biopsies may be directed by appearance within each zone; **≥2 jars** (antrum, body) plus a **separate jar for any targeted lesion**. The topographic pattern of inflammation/atrophy/GIM distinguishes H. pylori-related from autoimmune gastritis.
+- **H. pylori status** in every case: biopsy-based when sampling is available; otherwise **serology, urea breath test (UBT), or stool antigen** ([[test-and-treat|test and treat]]). ⚠ The serology option is narrow and conflicts with the H. pylori guideline: [[acg-2024-hp-treatment|American College of Gastroenterology (ACG) 2024]] recommends **against serology in low-prevalence populations** absent a high pre-test probability, and treats only a **non-serological** positive as an indication to treat. American Gastroenterological Association (AGA) 2026 is the newer source and permits serology **only when biopsy sampling is unavailable** — so prefer UBT or stool antigen whenever either is obtainable.
 - **Labs are of limited value:** gastrin adds nothing diagnostically in most polyp patients; pepsinogen I:II ratio is unavailable in most US labs; **no noninvasive biomarker** screens or monitors gastric polyps/dysplasia or separates low- from high-risk patients. Serum gastrin + parietal cell antibodies belong to the autoimmune-gastritis workup (existing autoimmune disease, unexplained [[iron-deficiency-anemia|iron-deficiency anemia]], pernicious anemia, family history).
 - **Miss rate matters:** neoplastic lesions missed at [[upper-endoscopy|upper endoscopy]] and diagnosed as cancer within 3 years — **4.7%–11.3%**; subtle mucosal lesions surrounding GIM predict interval early cancer.
 
@@ -41,13 +41,13 @@ Risk is driven by four inputs, not by the polyp's name alone:
 
 | Input | Higher risk |
 |---|---|
-| **Size** | >10 mm (surveillance/PPI decisions); **>20 mm** (predicts early gastric cancer in adenomas; refer for advanced resection) |
+| **Size** | >10 mm (surveillance/proton pump inhibitor [PPI] decisions); **>20 mm** (predicts early gastric cancer in adenomas; refer for advanced resection) |
 | **Dysplasia** | Low-grade → 1-y follow-up; high-grade → 6-mo follow-up (see [[#Surveillance]]) |
-| **Background mucosa** | AG and/or GIM confirmed on adjacent mucosa → surveillance advised |
-| **Burden / syndromic context** | **Mucosal carpeting** = FGPs from fundus to antrum without intervening normal mucosa (>20 polyps); [[familial-adenomatous-polyposis\|FAP]]/GAPPS |
+| **Background mucosa** | Atrophic gastritis (AG) and/or GIM confirmed on adjacent mucosa → surveillance advised |
+| **Burden / syndromic context** | **Mucosal carpeting** = FGPs from fundus to antrum without intervening normal mucosa (>20 polyps); [[familial-adenomatous-polyposis\|familial adenomatous polyposis (FAP)]]/gastric adenocarcinoma and proximal polyposis syndrome of the stomach (GAPPS) |
 
 - **Multiple FGPs at age 20–40 (or in childhood) in a patient not on a PPI → consider [[familial-adenomatous-polyposis|FAP]]** (>80% of syndromic patients have FGPs, typically within the first 3 decades; syndromic FGPs are smaller, morphologically subtler, and not associated with parietal cell hyperplasia). FAP's phenotypic spectrum is broader than classic massive colonic polyposis — consider genetic evaluation.
-- **Anemia** occurs more often with GHPs, GAs, or G-NETs.
+- **Anemia** occurs more often with gastric hyperplastic polyps (GHPs), gastric adenomas (GAs), or gastric neuroendocrine tumors (G-NETs).
 
 ### Classification / Typing
 
@@ -55,15 +55,15 @@ Different polyp types **coexist** in 2%–3% of patients (FGP is the most common
 
 | Type | Prevalence | Site / number / appearance | Background / association | Malignant potential |
 |---|---|---|---|---|
-| **Fundic gland polyp (FGP)** | 47%–77% of polyps where GHPs are uncommon | Body/fundus; multiple, sessile, usually <1 cm, glassy surface | [[proton-pump-inhibitors\|PPI]]-associated or sporadic; FAP/GAPPS; surrounding mucosa usually normal, non-inflamed | Dysplasia **<1% sporadic**; **25%–46%** (table: up to 48%) in FAP-associated; high in GAPPS. Adenocarcinoma progression in up to 15% of FAP cases; LGD→HGD/cancer progression slow (~4% over mean 6 y in FAP) |
-| **Gastric hyperplastic polyp (GHP)** | 17%–55% of polyps; common where H. pylori is prevalent | Antrum > body; single or multiple; sessile or pedunculated, <20 mm; surface erosions if larger | Chronic gastritis (H. pylori-related or autoimmune) | Dysplasia ~**4%**; malignant transformation **0.8%–10%**; neoplastic polyps tend to be **>20 mm**. Adjacent mucosa may harbor dysplasia at similar or higher rates than the polyp |
-| **Gastric adenoma (GA)** | 1%–10% of polyps | Antrum > body; usually single, flat or sessile, <20 mm | Chronic gastritis (H. pylori-related or autoimmune) | [[gastric-adenocarcinoma\|Adenocarcinoma]] precursor — progression **3%–4% low-grade**, **5%–30% high-grade**; risk ↑ >20 mm and with villous histology. Variants: intestinal (56%) and foveolar (41%) most common. **Exception:** foveolar-type "raspberry-like" GA in the H. pylori-naïve stomach — very low to nonexistent risk |
+| **Fundic gland polyp** | 47%–77% of polyps where GHPs are uncommon | Body/fundus; multiple, sessile, usually <1 cm, glassy surface | [[proton-pump-inhibitors\|PPI]]-associated or sporadic; FAP/GAPPS; surrounding mucosa usually normal, non-inflamed | Dysplasia **<1% sporadic**; **25%–46%** (table: up to 48%) in FAP-associated; high in GAPPS. Adenocarcinoma progression in up to 15% of FAP cases; low-grade dysplasia (LGD)→high-grade dysplasia (HGD)/cancer progression slow (~4% over mean 6 y in FAP) |
+| **Gastric hyperplastic polyp** | 17%–55% of polyps; common where H. pylori is prevalent | Antrum > body; single or multiple; sessile or pedunculated, <20 mm; surface erosions if larger | Chronic gastritis (H. pylori-related or autoimmune) | Dysplasia ~**4%**; malignant transformation **0.8%–10%**; neoplastic polyps tend to be **>20 mm**. Adjacent mucosa may harbor dysplasia at similar or higher rates than the polyp |
+| **Gastric adenoma** | 1%–10% of polyps | Antrum > body; usually single, flat or sessile, <20 mm | Chronic gastritis (H. pylori-related or autoimmune) | [[gastric-adenocarcinoma\|Adenocarcinoma]] precursor — progression **3%–4% low-grade**, **5%–30% high-grade**; risk ↑ >20 mm and with villous histology. Variants: intestinal (56%) and foveolar (41%) most common. **Exception:** foveolar-type "raspberry-like" GA in the H. pylori-naïve stomach — very low to nonexistent risk |
 | **Pyloric gland adenoma** | <3% of polyps | Body > antrum; usually single; sessile, pedunculated, or mass-like; **1–10 cm** | Autoimmune gastritis; 2nd most common polyp in FAP; also [[lynch-syndrome\|Lynch syndrome]] and [[juvenile-polyposis-syndrome\|juvenile polyposis]] | High-grade dysplasia in **42%**; progression **12%–30%** (adenocarcinoma reported 12%–47%). ↑ with size, tubulo-villous architecture, autoimmune gastritis |
 | **Oxyntic gland adenoma** | Rare | Body; polypoid or raised-flat; solitary; 2–20 mm, typically <10 mm | Adjacent mucosa usually normal | Slow-growing low-grade malignancy; large polyps and mucous-neck-cell differentiation more likely to progress; endoscopic resection usually sufficient |
-| **[[gastroenteropancreatic-neuroendocrine-tumors\|G-NET]]** | Up to 2% of polyps | Body > antrum. Types 1/2: polyps/nodules, sharply outlined, ± central depression, often multiple yellowish nodules; type 3 may be multifocal or solitary. **Size: type 1 ≤2 cm, type 2 ≤1 cm, type 3 >2 cm** | **Type 1** (>70% of G-NETs): body atrophy/GIM with ECL-cell proliferation ([[atrophic-gastritis\|autoimmune gastritis]], pernicious anemia, achlorhydria, hypergastrinemia). **Type 2:** MEN-1/gastrinoma (Zollinger-Ellison), hypertrophic mucosa with ECL hyperplasia. **Type 3:** normal surrounding mucosa, no hypergastrinemia | Limited metastatic rate for types 1–2 (type 2 has high recurrence risk); **type 3 (~15% of G-NETs)** larger, mass-like, **worst prognosis**. Lesions >2 cm carry higher metastatic risk |
-| **Hamartomatous polyps** — [[juvenile-polyposis-syndrome\|juvenile]], [[peutz-jeghers-syndrome\|Peutz–Jeghers]], [[cowden-syndrome\|Cowden]], Cronkhite–Canada | Rare | Juvenile: body > antrum, pedunculated/sessile, 2–20 mm. PJ: any site, lobulated on a short broad stalk, 1–3 cm. Cowden: small sessile, multiple. Cronkhite–Canada: sessile/flat with diffuse mucosal thickening | Polyps elsewhere in the GI tract; PJ skin changes; Cowden esophageal glycogenic acanthosis + colorectal polyps; Cronkhite–Canada alopecia, nail atrophy, hyperpigmentation, vitiligo | Juvenile up to **14%** (higher in polyposis); PJ **2%–3%**; Cowden low; Cronkhite–Canada very rare. Histologically similar to GHP — clinical + endoscopic correlation required |
+| **[[gastroenteropancreatic-neuroendocrine-tumors\|G-NET]]** | Up to 2% of polyps | Body > antrum. Types 1/2: polyps/nodules, sharply outlined, ± central depression, often multiple yellowish nodules; type 3 may be multifocal or solitary. **Size: type 1 ≤2 cm, type 2 ≤1 cm, type 3 >2 cm** | **Type 1** (>70% of G-NETs): body atrophy/GIM with ECL-cell proliferation ([[atrophic-gastritis\|autoimmune gastritis]], pernicious anemia, achlorhydria, hypergastrinemia). **Type 2:** multiple endocrine neoplasia type 1 (MEN-1)/gastrinoma (Zollinger-Ellison), hypertrophic mucosa with ECL hyperplasia. **Type 3:** normal surrounding mucosa, no hypergastrinemia | Limited metastatic rate for types 1–2 (type 2 has high recurrence risk); **type 3 (~15% of G-NETs)** larger, mass-like, **worst prognosis**. Lesions >2 cm carry higher metastatic risk |
+| **Hamartomatous polyps** — [[juvenile-polyposis-syndrome\|juvenile]], [[peutz-jeghers-syndrome\|Peutz–Jeghers (PJ)]], [[cowden-syndrome\|Cowden]], Cronkhite–Canada | Rare | Juvenile: body > antrum, pedunculated/sessile, 2–20 mm. PJ: any site, lobulated on a short broad stalk, 1–3 cm. Cowden: small sessile, multiple. Cronkhite–Canada: sessile/flat with diffuse mucosal thickening | Polyps elsewhere in the gastrointestinal (GI) tract; PJ skin changes; Cowden esophageal glycogenic acanthosis + colorectal polyps; Cronkhite–Canada alopecia, nail atrophy, hyperpigmentation, vitiligo | Juvenile up to **14%** (higher in polyposis); PJ **2%–3%**; Cowden low; Cronkhite–Canada very rare. Histologically similar to GHP — clinical + endoscopic correlation required |
 
-**Epidemiology:** US prevalence ~**6.35%** of patients biopsied at endoscopy (77% FGP, 17% GHP, 0.69% GA, 0.1% inflammatory fibroid) and **7.72% FGP / 1.79% GHP / 0.09% GA / 0.06% type-1 G-NET** in a later series; 70%–94% of Western gastric polyps are FGPs or GHPs. Subtypes have shifted toward **sporadic FGPs** as H. pylori prevalence falls and PPI use rises (Beijing 2004→2013: GHP 65%→15%, FGP 19%→77%). GA/GHP/G-NET prevalence rises with age; **FGP prevalence falls after age 60**. FGP risk is **inversely** associated with gastric atrophy, H. pylori, and GIM, and positively with [[gerd|GERD]] and PPI use.
+**Epidemiology:** US prevalence ~**6.35%** of patients biopsied at endoscopy (77% FGP, 17% GHP, 0.69% GA, 0.1% inflammatory fibroid) and **7.72% FGP / 1.79% GHP / 0.09% GA / 0.06% type-1 G-NET** in a later series; 70%–94% of Western gastric polyps are FGPs or GHPs. Subtypes have shifted toward **sporadic FGPs** as H. pylori prevalence falls and PPI use rises (Beijing 2004→2013: GHP 65%→15%, FGP 19%→77%). GA/GHP/G-NET prevalence rises with age; **FGP prevalence falls after age 60**. FGP risk is **inversely** associated with gastric atrophy, H. pylori, and GIM, and positively with [[gerd|gastroesophageal reflux disease (GERD)]] and PPI use.
 
 ## Differential Diagnosis
 
@@ -79,19 +79,19 @@ Different polyp types **coexist** in 2%–3% of patients (FGP is the most common
 
 ## Diagnostics
 
-- **HD-WLE** with adequate distension, mucus clearance, and **photo-documentation** of gastric landmarks, lesions, and mucosal alterations. HD-WLE **alone is suboptimal** for atrophy/GIM and for distinguishing dysplastic/early cancerous polyps.
-- **Image-enhanced endoscopy (IEE) / virtual chromoendoscopy** — NBI, blue laser imaging (BLI), linked color imaging (LCI), ± magnification. Improves detection and characterization of dysplastic lesions and abnormal mucosa; **LCI highlights the purple color of GIM**. Guideline-endorsed for assessing/staging atrophic and metaplastic change and targeting dysplasia — but underused in the US.
+- **High-definition white-light endoscopy (HD-WLE)** with adequate distension, mucus clearance, and **photo-documentation** of gastric landmarks, lesions, and mucosal alterations. HD-WLE **alone is suboptimal** for atrophy/GIM and for distinguishing dysplastic/early cancerous polyps.
+- **Image-enhanced endoscopy (IEE) / virtual chromoendoscopy** — narrow-band imaging (NBI), blue laser imaging (BLI), linked color imaging (LCI), ± magnification. Improves detection and characterization of dysplastic lesions and abnormal mucosa; **LCI highlights the purple color of GIM**. Guideline-endorsed for assessing/staging atrophic and metaplastic change and targeting dysplasia — but underused in the US.
 - **Simplified NBI classification of abnormal gastric mucosa** (Pimentel-Nunes validation study):
 
 | Pattern | Appearance | Histology | Performance |
 |---|---|---|---|
-| **A** | Regular vessels with circular mucosa | Normal | Accuracy 83% (95% CI 75%–90%) |
-| **B** | Tubulo-villous mucosa | GIM | Accuracy 84%; LR+ 4.75 |
+| **A** | Regular vessels with circular mucosa | Normal | Accuracy 83% (95% confidence interval [CI] 75%–90%) |
+| **B** | Tubulo-villous mucosa | GIM | Accuracy 84%; positive likelihood ratio (LR+) 4.75 |
 | **C** | Irregular vessels and mucosa | Dysplasia | Accuracy 95% (95% CI 90%–99%); LR+ 44.33 |
 
 - **"Light-blue crest" sign** — moderate reliability (κ 0.49) but **87% specific** for GIM. **Variable vascular density** is the best feature for H. pylori-related gastritis (accuracy 70%).
 - **Vessel-plus-surface classification** for early gastric cancer: irregular microvascular and/or microsurface pattern **plus a demarcation line**. Magnifying BLI vs NBI — demarcation line sensitivity 96.1% vs 98.1%; irregular microvessels 95.1% vs 96.2%; irregular microsurface seen in 97.1% (BLI) vs 78.8% (NBI).
-- **Kimura–Takemoto** (atrophy) and **EGGIM** (GIM) classifications exist but are not routinely applied in the US; interobserver reliability is moderate and experience-dependent. Until IEE skills are widespread, **meticulous inspection plus random and targeted biopsies per established protocols remain essential**. AI-assisted IEE is emerging ([[artificial-intelligence-endoscopy]]).
+- **Kimura–Takemoto** (atrophy) and **endoscopic grading of GIM (EGGIM)** classifications exist but are not routinely applied in the US; interobserver reliability is moderate and experience-dependent. Until IEE skills are widespread, **meticulous inspection plus random and targeted biopsies per established protocols remain essential**. Artificial intelligence (AI)–assisted IEE is emerging ([[artificial-intelligence-endoscopy]]).
 
 ## Therapeutics
 
@@ -102,8 +102,8 @@ Technique follows **size**, plus presumed pathology, location, and endoscopist e
 | Polyp size | Technique |
 |---|---|
 | **≤3 mm** | Biopsy (cold forceps) **or** cold snare [[polypectomy\|polypectomy]] |
-| **4–9 mm** | Cold snare polypectomy **or** [[endoscopic-mucosal-resection\|EMR]] |
-| **≥10 mm** | EMR or [[endoscopic-submucosal-dissection\|ESD]], depending on size, location, appearance — consider referral to an endoscopist with resection expertise |
+| **4–9 mm** | Cold snare polypectomy **or** [[endoscopic-mucosal-resection\|endoscopic mucosal resection (EMR)]] |
+| **≥10 mm** | EMR or [[endoscopic-submucosal-dissection\|endoscopic submucosal dissection (ESD)]], depending on size, location, appearance — consider referral to an endoscopist with resection expertise |
 | **>20 mm** | **Referral advised** to an endoscopist experienced in advanced resection (a >20 mm pedunculated polyp can still come out en bloc by EMR) |
 
 - **Forceps have a hard ceiling:** polyps **≥4 mm should not be resected with forceps**; in polyps ≥5 mm, forceps cannot reliably establish underlying neoplasia (4 prospective studies). Cold-forceps use ≤3 mm is extrapolated from colon data (noninferior to cold snare for complete resection of ≤3 mm colonic polyps, and faster).
@@ -111,7 +111,7 @@ Technique follows **size**, plus presumed pathology, location, and endoscopist e
 - **Adverse events:** EMR bleeding ~**7%** (nearly all managed endoscopically), perforation rare; cold snare noninferior to EMR for adverse events and safe/effective for 3–8 mm FGPs.
 - **Tattooing is not routine** for diagnostic or therapeutic gastric polypectomy — optional for the site of an incompletely resected large polyp, a suspected malignant polyp, or when surgery/EMR/ESD follow-up is planned.
 - **Multiple polyps of varied size:** resect the **largest**; sample or resect the smaller ones. **Separate specimen jars per suspected polyp type.**
-- *Older thresholds (superseded where they conflict — [[asge-2015-gastric-premalignant|ASGE 2015]]):* polypectomy when feasible for **FGP ≥1 cm, hyperplastic ≥0.5 cm, adenoma of any size**, with systematic sampling of surrounding nonpolypoid mucosa when multiple hyperplastic/adenomatous polyps are present.
+- *Older thresholds (superseded where they conflict — [[asge-2015-gastric-premalignant|American Society for Gastrointestinal Endoscopy (ASGE) 2015]]):* polypectomy when feasible for **FGP ≥1 cm, hyperplastic ≥0.5 cm, adenoma of any size**, with systematic sampling of surrounding nonpolypoid mucosa when multiple hyperplastic/adenomatous polyps are present.
 
 ### Management Algorithm — Newly Detected Polyps
 
@@ -137,7 +137,7 @@ flowchart TD
 - **[[test-and-treat|Test and treat]] [[helicobacter-pylori-infection|H. pylori]] in all patients with adenomatous or hyperplastic polyps.** Eradication is associated with **59% (95% CI 43%–75%) reduction in GHP prevalence after treatment** and **79% (95% CI 72%–86%) after successful eradication**, and with regression of GHPs, improvement in atrophic gastritis, and lower gastric cancer risk.
 - **Suspected GIM or atrophic gastritis in the surrounding mucosa → targeted biopsies per existing protocols** (see [[gastric-intestinal-metaplasia]], [[gastric-premalignant-conditions]]).
 - **PPIs need not be stopped** when fundic gland hyperplasia-related polyps are documented in a patient with a **valid** PPI indication; for patients **without** a clear indication, deprescribing is beneficial and should be systematic. PPI use carries a **1.5- to 2.5-fold** increase in FGP risk (**up to 5-fold with ≥12 months** of use; another meta-analysis 1.43 [1.24–1.64] fixed-effects, 2.45 [1.24–4.83] random-effects); some association is confounded by age, sex, and endoscopy indication.
-- **[[potassium-competitive-acid-blockers|P-CABs]] behave similarly** — VISION trial: hyperplastic polyp prevalence **3.7% → 14.7% over 3 years** after starting a P-CAB; >3-fold higher HP risk with P-CAB use >1 year; case reports of regression after discontinuation.
+- **[[potassium-competitive-acid-blockers|potassium-competitive acid blockers (P-CABs)]] behave similarly** — VISION trial: hyperplastic polyp prevalence **3.7% → 14.7% over 3 years** after starting a P-CAB; >3-fold higher hyperplastic polyp risk with P-CAB use >1 year; case reports of regression after discontinuation.
 
 ### Surveillance
 

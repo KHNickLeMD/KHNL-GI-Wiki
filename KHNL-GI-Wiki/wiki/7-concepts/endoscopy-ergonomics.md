@@ -7,7 +7,7 @@ updated: 2026-09-05
 sources: [asge-2023-ergonomics]
 ---
 
-Endoscopy-related injury (ERI) is musculoskeletal injury caused by repetitive microtrauma to connective tissues during endoscopy. ERIs affect the majority of endoscopists, yet are largely preventable through ergonomic education, work-rest scheduling, and neutral-posture room setup. The [[asge-2023-ergonomics|ASGE 2023 ergonomics guideline]] frames prevention as an occupational-health priority for endoscopists performing [[colonoscopy]], [[upper-endoscopy|EGD]], [[ercp|ERCP]], and [[endoscopic-ultrasound|EUS]].
+Endoscopy-related injury (ERI) is musculoskeletal injury caused by repetitive microtrauma to connective tissues during endoscopy. ERIs affect the majority of endoscopists, yet are largely preventable through ergonomic education, work-rest scheduling, and neutral-posture room setup. The [[asge-2023-ergonomics|American Society for Gastrointestinal Endoscopy (ASGE) 2023 ergonomics guideline]] frames prevention as an occupational-health priority for endoscopists performing [[colonoscopy]], [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]], [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]], and [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]].
 
 ## Contents
 - [[#Epidemiology]]
@@ -25,12 +25,12 @@ Endoscopy-related injury (ERI) is musculoskeletal injury caused by repetitive mi
 
 ## Epidemiology
 **Finding 1 — endoscopists report high rates of ERI.**
-- Overall pooled ERI rate **57.7%** (95% CI 48.8–66.1; I²=93%) — meta-analysis of 17 surveys, 5227 respondents.
+- Overall pooled ERI rate **57.7%** (95% confidence interval [CI] 48.8–66.1; I²=93%) — meta-analysis of 17 surveys, 5227 respondents.
 - Most common sites: hands/fingers (35.8%), back (35.3%), upper back/neck (32.6%), thumb alone (29.2%), neck alone (26.1%).
 - 61% of gastroenterologists spend >40% of their time performing endoscopy.
 
 ## Risk Factors
-- **Female sex (Finding 2)** — ERI 62.4% (female, 96% CI 46.7–75.9 *as printed*) vs 45.5% (male, 95% CI 28.1–64.0); OR **1.79** (95% CI 1.35–2.38; P<.01).
+- **Female sex (Finding 2)** — ERI 62.4% (female, 96% CI 46.7–75.9 *as printed*) vs 45.5% (male, 95% CI 28.1–64.0); odds ratio (OR) **1.79** (95% CI 1.35–2.38; P<.01).
 - **Procedure exposure (Finding 3)** — more time performing endoscopy and higher procedure volume. Independent predictors across surveys: hours/week performing endoscopy (P=.009), years in practice (P=.022), **>15 years in practice** (P=.03), **>20 endoscopies/week** (P<.001), **>16 endoscopy hours/week** (P<.001).
 - **Hand size — inconsistent, could not be pooled** (expert-opinion section, not a graded finding):
   - Large national survey — **no** significant difference: small glove 78.13% vs large glove 75.95% (P=.12); XS/S/M 74.74% vs L/XL 77.05% (P=.27).
@@ -47,7 +47,7 @@ Endoscopy-related injury (ERI) is musculoskeletal injury caused by repetitive mi
 | # | Recommendation (verbatim) | Strength | Quality |
 |---|---|---|---|
 | **1** | The ASGE recommends **ergonomics education** to reduce the risk of ERI | Strong | Very low |
-| **2** | The ASGE suggests that GI endoscopists take **microbreaks and scheduled macrobreaks** to reduce the risk of ERI | Conditional | Very low |
+| **2** | The ASGE suggests that GI [gastrointestinal] endoscopists take **microbreaks and scheduled macrobreaks** to reduce the risk of ERI | Conditional | Very low |
 | **3** | The ASGE recommends a **neutral monitor position** during endoscopies to reduce the risk of ERI | Strong | Very low |
 | **4** | The ASGE recommends the use of a **neutral bed height** to reduce the risk of ERI | Strong | Very low |
 | **5** | The ASGE suggests the use of **antifatigue mats** to reduce the risk of ERI | Conditional | Very low |
@@ -60,7 +60,7 @@ Endoscopy-related injury (ERI) is musculoskeletal injury caused by repetitive mi
 - Panel position: **all endoscopists should pursue some form of ergonomics education — at minimum a didactic session.**
 - Delivery options: online courses, in-person teaching, physical-therapist consultation, unit posters, short videos (ASGE GI LEAP, ASGE training curriculum, VideoGIE series).
 - Evidence: randomized trial of 15 fellows — education (didactics + video + supervisor feedback + checklist) improved Rapid Entire Body Assessment scores (P<.001); teaching video in 58 fellows improved ergonomics knowledge; individualized physical-therapist-guided training reduced or resolved pain in **63%** of endoscopists.
-- **No study assessed cost-effectiveness.** Posters and video didactics are low-cost; PT assessment and individualized plans add cost.
+- **No study assessed cost-effectiveness.** Posters and video didactics are low-cost; physical therapy (PT) assessment and individualized plans add cost.
 - No standardized approach exists yet — until one does, the responsibility rests with the individual endoscopist.
 
 ### 2. Microbreaks and Macrobreaks

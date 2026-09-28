@@ -17,11 +17,11 @@ sources: []
 
 ## Summary
 
-This ASGE Standards of Practice Committee guideline provides an evidence-based, GRADE-framework approach to the **endoscopic diagnosis of malignancy in biliary strictures of undetermined etiology**. The committee deliberately used the term *undetermined* (rather than the historical *indeterminate*, which implies a prior nondiagnostic ERCP/cytology) so the evidence base could include patients undergoing their first ERCP without a prior negative brush cytology. The document addresses three modalities of tissue acquisition: **fluoroscopic-guided biopsy sampling, brush cytology, cholangioscopy, and EUS** (with FNA or FNB).
+This American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice Committee guideline provides an evidence-based, Grading of Recommendations Assessment, Development and Evaluation (GRADE)-framework approach to the **endoscopic diagnosis of malignancy in biliary strictures of undetermined etiology**. The committee deliberately used the term *undetermined* (rather than the historical *indeterminate*, which implies a prior nondiagnostic endoscopic retrograde cholangiopancreatography (ERCP)/cytology) so the evidence base could include patients undergoing their first ERCP without a prior negative brush cytology. The document addresses three modalities of tissue acquisition: **fluoroscopic-guided biopsy sampling, brush cytology, cholangioscopy, and endoscopic ultrasound (EUS)** (with fine-needle aspiration [FNA] or fine-needle biopsy [FNB]).
 
-The clinical problem is substantial: the risk of malignancy in a biliary stricture without an obvious mass on cross-sectional imaging is approximately 55%, and benign strictures (PSC, IgG4/IgG4-related cholangitis, fibrotic strictures, chronic pancreatitis) frequently mimic malignant strictures radiographically, so tissue is required. Endoscopic sampling is preferred over percutaneous (drain-dependent, needle-track seeding risk) and surgical approaches. The major limitation of existing endoscopic methods is **low sensitivity** for malignancy, particularly for hilar strictures, plus the needle-track seeding risk of EUS-FNA of hilar cholangiocarcinoma.
+The clinical problem is substantial: the risk of malignancy in a biliary stricture without an obvious mass on cross-sectional imaging is approximately 55%, and benign strictures (primary sclerosing cholangitis [PSC], IgG4/IgG4-related cholangitis, fibrotic strictures, chronic pancreatitis) frequently mimic malignant strictures radiographically, so tissue is required. Endoscopic sampling is preferred over percutaneous (drain-dependent, needle-track seeding risk) and surgical approaches. The major limitation of existing endoscopic methods is **low sensitivity** for malignancy, particularly for hilar strictures, plus the needle-track seeding risk of EUS-FNA of hilar cholangiocarcinoma.
 
-The guideline answers three PICO questions: (1) should ERCP add fluoroscopic-guided biopsy to brush cytology? (2) should ERCP add cholangioscopic-guided biopsy versus ERCP without cholangioscopy? (3) should EUS-FNA/FNB be added to ERCP? In summary, the panel suggests **fluoroscopic-guided biopsy sampling in addition to brush cytology** over brush cytology alone (especially for hilar strictures), **cholangioscopy and EUS-guided biopsy** especially for patients with nondiagnostic sampling, **cholangioscopic biopsy for nondistal strictures**, and **EUS-guided biopsy for distal strictures or those with suspected spread to lymph nodes/other structures**.
+The guideline answers three PICO (population, intervention, comparison, outcome) questions: (1) should ERCP add fluoroscopic-guided biopsy to brush cytology? (2) should ERCP add cholangioscopic-guided biopsy versus ERCP without cholangioscopy? (3) should EUS-FNA/FNB be added to ERCP? In summary, the panel suggests **fluoroscopic-guided biopsy sampling in addition to brush cytology** over brush cytology alone (especially for hilar strictures), **cholangioscopy and EUS-guided biopsy** especially for patients with nondiagnostic sampling, **cholangioscopic biopsy for nondistal strictures**, and **EUS-guided biopsy for distal strictures or those with suspected spread to lymph nodes/other structures**.
 
 All three recommendations are **conditional ("we suggest…") with very low quality of evidence**. The committee also reviewed but made no formal recommendations on intraductal ultrasound (IDUS) and confocal laser endomicroscopy (CLE) as "other considerations."
 
@@ -43,7 +43,7 @@ All three recommendations are **conditional ("we suggest…") with very low qual
 > Otherwise, the ASGE suggests ERCP with or without cholangioscopy in the diagnosis of malignancy.
 > *(Conditional recommendation / very low quality of evidence)*
 
-- **General concepts (Table 1, Q2):** Discuss results with a dedicated GI pathologist. Ensure careful alignment and advancement of forceps into the common bile duct under fluoroscopic guidance.
+- **General concepts (Table 1, Q2):** Discuss results with a dedicated gastrointestinal pathologist. Ensure careful alignment and advancement of forceps into the common bile duct under fluoroscopic guidance.
 
 **Clinical question 3:** In patients with biliary strictures of undetermined etiology, should EUS with FNA or FNB be performed versus ERCP with any form of tissue acquisition to diagnose malignancy?
 
@@ -64,22 +64,22 @@ All three recommendations are **conditional ("we suggest…") with very low qual
 - Technical success = percentage of cases where the desired tissue sampling could be performed; specimen adequacy = pathologic diagnosis with enough cellular components to determine malignant vs benign.
 
 **Q1 — Fluoroscopic-guided biopsy + brush cytology (21 observational studies, 2726 patients)**
-- Incremental yield of adding intraductal biopsy to brush cytology: **20% (95% CI, 9-31; I² = 54.5%)**.
+- Incremental yield of adding intraductal biopsy to brush cytology: **20% (95% confidence interval [CI], 9-31; I² = 54.5%)**.
 - Miss rate of brush cytology alone: **58% (95% CI, 46-71)**; miss rate of biopsy sampling alone: **41% (95% CI, 31-52)**.
 - Sensitivity of brush cytology alone: **0.4 (95% CI, .37-.43)**.
 - Sensitivity of fluoroscopic-guided biopsy alone: **0.52 (95% CI, .49-.56; P = .006)** — significantly higher than brush cytology.
 - Sensitivity of fluoroscopic-guided biopsy + brush cytology in combination: **0.66 (95% CI, .63-.69)**.
 - No subgroup difference in sensitivity for proximal vs distal strictures or biliary vs pancreatic masses.
-- No difference in technical success (OR 3.27; 95% CI, .52-20.53). Specimen adequacy higher for brush cytology (intention-to-treat artifact). No difference in adverse events (OR .53; 95% CI, .14-2.05), though 2 severe adverse events (prolonged bleeding, perforation requiring surgical choledochotomy) occurred in the fluoroscopic-guided biopsy group.
+- No difference in technical success (odds ratio [OR] 3.27; 95% CI, .52-20.53). Specimen adequacy higher for brush cytology (intention-to-treat artifact). No difference in adverse events (OR .53; 95% CI, .14-2.05), though 2 severe adverse events (prolonged bleeding, perforation requiring surgical choledochotomy) occurred in the fluoroscopic-guided biopsy group.
 - Biopsy sampling is technically more challenging, more time-consuming, more severe adverse events → conditional recommendation that biopsy sampling be performed at tertiary care centers or where endoscopic expertise exists. Cost-effective at willingness-to-pay <$50,000.
 
-**Q2 — Cholangioscopy (13 studies: 1 RCT + 12 observational, 1529 patients)**
+**Q2 — Cholangioscopy (13 studies: 1 randomized controlled trial (RCT) + 12 observational, 1529 patients)**
 - Incremental yield of ERCP with cholangioscopy over ERCP without: **27% (95% CI, 9-46)** in 4 observational studies; **41% (95% CI, 11-72)** in the single RCT.
 - Sensitivity of ERCP with cholangioscopy: **0.72 (95% CI, .66-.77)** vs **0.61 (95% CI, .57-.66)** without cholangioscopy (P = .001).
 - One study: higher sensitivity for distal strictures with intraductal biopsy (76%) than with cholangioscopic-guided biopsy (50%); no sensitivity difference for proximal strictures with vs without cholangioscopy.
 - No difference in technical success, specimen adequacy (.96; 95% CI, .23-4), or adverse events (.58; 95% CI, .26-1.26); most common adverse event is acute pancreatitis, mostly mild. Cholangioscopy added ~14 min (95% CI, 10-20) to the ERCP.
-- Higher cost (additional ~$2637 when done with stent placement) and limited availability, but cost-effective: in PSC, incremental QALY gain of .22 at additional cost $8562.44; base-case ICER $39,277.25 (below $50,000 threshold). Cholangioscopy more cost-effective than brush cytology, fluoroscopic-guided biopsy, and FISH in that analysis.
-- Cholangioscopy may be suboptimal for **very distal** CBD strictures (scope instability, difficulty passing mini-forceps). Adequate proximal segment drainage is important after cholangioscopy (water/saline instillation risks introducing infection if undrained).
+- Higher cost (additional ~$2637 when done with stent placement) and limited availability, but cost-effective: in PSC, incremental quality-adjusted life-year (QALY) gain of .22 at additional cost $8562.44; base-case incremental cost-effectiveness ratio (ICER) $39,277.25 (below $50,000 threshold). Cholangioscopy more cost-effective than brush cytology, fluoroscopic-guided biopsy, and fluorescence in situ hybridization (FISH) in that analysis.
+- Cholangioscopy may be suboptimal for **very distal** common bile duct (CBD) strictures (scope instability, difficulty passing mini-forceps). Adequate proximal segment drainage is important after cholangioscopy (water/saline instillation risks introducing infection if undrained).
 - Visual interpretation matters: malignant strictures appear nodular, papillary, or infiltrative with irregular mucosa and neovascularization; benign strictures lack these features.
 
 **Q3 — EUS-FNA/FNB (meta-analysis by Chiang et al)**
@@ -92,8 +92,8 @@ All three recommendations are **conditional ("we suggest…") with very low qual
 - **Needle-track seeding risk** with EUS-FNA/FNB of hilar cholangiocarcinoma may exclude patients from liver transplantation → if EUS is performed for proximal/hilar strictures, the endosonographer should **NOT** perform FNA or FNB of the biliary mass itself.
 
 **Other considerations (no formal recommendation)**
-- **Intraductal ultrasound (IDUS):** malignant features = intraductal mass with irregular margin, wall thickness >9 mm, heterogeneous lesion with uneven mucosal surface, eccentric wall thickening, destruction of wall layers, masses invading surrounding tissue. IDUS increases sensitivity vs ERCP alone; IDUS-guided transpapillary biopsy more accurate than transpapillary biopsy alone (90.8% vs 76.9%, P = .028). Promising but needs further study.
-- **Confocal laser endomicroscopy (CLE / pCLE):** Miami classification (consensus) and refined Paris classification distinguish benign vs malignant. Pooled sensitivity 90% (95% CI, 86-94), specificity 72% (95% CI, 65-79); best application may be high NPV for malignancy of 94%. Difficult to master and expensive → widespread adoption likely limited near-term.
+- **IDUS:** malignant features = intraductal mass with irregular margin, wall thickness >9 mm, heterogeneous lesion with uneven mucosal surface, eccentric wall thickening, destruction of wall layers, masses invading surrounding tissue. IDUS increases sensitivity vs ERCP alone; IDUS-guided transpapillary biopsy more accurate than transpapillary biopsy alone (90.8% vs 76.9%, P = .028). Promising but needs further study.
+- **CLE / probe-based CLE (pCLE):** Miami classification (consensus) and refined Paris classification distinguish benign vs malignant. Pooled sensitivity 90% (95% CI, 86-94), specificity 72% (95% CI, 65-79); best application may be high negative predictive value (NPV) for malignancy of 94%. Difficult to master and expensive → widespread adoption likely limited near-term.
 
 **Summary statement:** If endoscopic expertise is available, ERCP with fluoroscopic-guided biopsy sampling and brush cytology should be performed for any location of biliary stricture, whereas cholangioscopy and EUS should also be considered, particularly in nondistal and distal strictures, respectively.
 
@@ -101,7 +101,7 @@ All three recommendations are **conditional ("we suggest…") with very low qual
 
 ## Relevance to Wiki
 - Updates `[[biliary-stricture]]` — endoscopic tissue-acquisition algorithm by stricture location (distal vs nondistal/hilar), modality sensitivities, multimodality sampling rationale, and the hilar-mass EUS-FNA caution.
-- Updates `[[cholangiocarcinoma]]` — diagnostic approach, sensitivities of brush cytology/fluoroscopic biopsy/cholangioscopy/EUS, and the transplant-relevant needle-track seeding caution for hilar CCA.
+- Updates `[[cholangiocarcinoma]]` — diagnostic approach, sensitivities of brush cytology/fluoroscopic biopsy/cholangioscopy/EUS, and the transplant-relevant needle-track seeding caution for hilar cholangiocarcinoma.
 - Provides content for `[[cholangioscopy]]` (new), `[[brush-cytology]]` (new), `[[ercp]]`, and `[[endoscopic-ultrasound]]`.
 
 ## Contradictions / Open Questions

@@ -9,9 +9,9 @@ sources: [padova-2025-hrm-antireflux]
 
 ## Overview
 
-[[high-resolution-manometry|High-resolution manometry (HRM)]] plays a dual role in the management of [[antireflux-surgery|antireflux surgery (ARS)]]: **pre-operative screening** to exclude motor disorders that would complicate or contraindicate surgery, and **post-operative diagnosis** of failed or complicated fundoplication. Standard [[chicago-classification-v4|Chicago Classification]] norms do not apply post-ARS; the wrap creates a new anatomic HPZ with predictably altered manometric parameters.
+[[high-resolution-manometry|High-resolution manometry (HRM)]] plays a dual role in the management of [[antireflux-surgery|antireflux surgery (ARS)]]: **pre-operative screening** to exclude motor disorders that would complicate or contraindicate surgery, and **post-operative diagnosis** of failed or complicated fundoplication. Standard [[chicago-classification-v4|Chicago Classification]] norms do not apply post-ARS; the wrap creates a new anatomic high-pressure zone (HPZ) with predictably altered manometric parameters.
 
-The **Padova Consensus (2025)** — a 3-year, 29-expert international process using RAND/UCLA appropriateness methodology — provides the first systematic framework for both contexts, culminating in the **Padova Classification**: a structured two-step post-ARS HRM algorithm.
+The **Padova Consensus (2025)** — a 3-year, 29-expert international process using RAND/University of California, Los Angeles (UCLA) appropriateness methodology — provides the first systematic framework for both contexts, culminating in the **Padova Classification**: a structured two-step post-ARS HRM algorithm.
 
 ---
 
@@ -20,8 +20,8 @@ The **Padova Consensus (2025)** — a 3-year, 29-expert international process us
 ### Why HRM Is Mandatory Before ARS
 
 - **HRM is essential to exclude motor disorders not amenable to ARS** (median score 9, **89% agreement**).
-- In a series of **>1000 patients** having HRM before ARS, **3%** had EGJ obstruction suspicious for **[[achalasia|achalasia-spectrum disorders]]**, where standard ARS would have significantly worsened esophageal transit — missed on clinical grounds alone.
-- Conversely, in a series of **524 achalasia patients, 29% had been referred for ARS** because of incomplete response to [[gerd|GERD]] management.
+- In a series of **>1000 patients** having HRM before ARS, **3%** had esophagogastric junction (EGJ) obstruction suspicious for **[[achalasia|achalasia-spectrum disorders]]**, where standard ARS would have significantly worsened esophageal transit — missed on clinical grounds alone.
+- Conversely, in a series of **524 achalasia patients, 29% had been referred for ARS** because of incomplete response to [[gerd|gastroesophageal reflux disease (GERD)]] management.
 - Wrapping over an achalastic esophagus creates pseudoachalasia and severe [[dysphagia]]
 - HRM identifies contraindications, relative contraindications, and conditions requiring pre-ARS treatment
 
@@ -30,9 +30,9 @@ The **Padova Consensus (2025)** — a 3-year, 29-expert international process us
 | HRM Finding | Decision |
 |---|---|
 | [[achalasia\|Achalasia]] (any type) | ARS contraindicated; treat achalasia first |
-| [[esophagogastric-junction-outflow-obstruction\|EGJOO]] | Must be addressed (e.g., [[pneumatic-dilation\|pneumatic dilation]], [[poem\|POEM]] evaluation) before ARS; 86% consensus |
-| [[hypercontractile-esophagus\|Hypercontractile esophagus (jackhammer)]] | Not an absolute contraindication **if** objective [[gerd\|GERD]] + partial [[proton-pump-inhibitors\|PPI]] response; 81% consensus |
-| [[distal-esophageal-spasm\|DES]] with obstructive symptoms | Caution; consider non-surgical options first; 95% consensus |
+| [[esophagogastric-junction-outflow-obstruction\|EGJ outflow obstruction (EGJOO)]] | Must be addressed (e.g., [[pneumatic-dilation\|pneumatic dilation]], [[poem\|peroral endoscopic myotomy (POEM)]] evaluation) before ARS; 86% consensus |
+| [[hypercontractile-esophagus\|Hypercontractile esophagus (jackhammer)]] | Not an absolute contraindication **if** objective [[gerd\|GERD]] + partial [[proton-pump-inhibitors\|proton pump inhibitor (PPI)]] response; 81% consensus |
+| [[distal-esophageal-spasm\|Distal esophageal spasm (DES)]] with obstructive symptoms | Caution; consider non-surgical options first; 95% consensus |
 | DES without obstructive symptoms + objective GERD | May proceed to ARS; 81% consensus |
 | [[ineffective-esophageal-motility\|Ineffective esophageal motility (IEM)]] | Insufficient evidence for absolute contraindication; partial wrap preferred by many |
 | Normal HRM | Proceed to ARS |
@@ -41,7 +41,7 @@ The **Padova Consensus (2025)** — a 3-year, 29-expert international process us
 
 The EGJ barrier should be characterized by:
 
-1. LES end-expiratory pressure
+1. Lower esophageal sphincter (LES) end-expiratory pressure
 2. LES baseline pressure
 3. EGJ-contractility index (EGJ-CI)
 4. LES–crural diaphragm (CD) separation (a marker of [[hiatal-hernia|hiatal hernia]] physiology)
@@ -55,7 +55,7 @@ The EGJ barrier should be characterized by:
 A **successful fundoplication** on HRM shows:
 
 - Single distal HPZ (neo-LES) in appropriate infradiaphragmatic position
-- Appropriate relaxation of the neo-LES with swallowing (IRP within post-ARS range)
+- Appropriate relaxation of the neo-LES with swallowing (integrated relaxation pressure [IRP] within post-ARS range)
 - No neo-LES/CD separation
 
 **Post-ARS IRP norms differ from surgery-naive patients:**
@@ -63,13 +63,13 @@ A **successful fundoplication** on HRM shows:
 - Nissen fundoplication → higher EGJ pressures + higher IRP + higher contractility vs. partial wrap
 - **There is no established post-ARS upper limit of normal for IRP.** The consensus states verbatim: the "normal" post-surgical IRP "is expected to be greater than in surgery-naive patients so **any value < 15 mm Hg using Medtronic systems is consistent with normal though even a higher value may be within normal limits**." So **<15 mmHg (Medtronic) rules IRP normal; ≥15 mmHg does not rule it abnormal** — do not read 15 as a post-ARS cut-off.
 - Padova explicitly notes **minimal data** on expected "normal" IRP in wholly asymptomatic postfundoplication patients, with variance expected by **wrap type** and **manometry system**.
-- ⚠ **Do not use IRP alone.** "Reliance on IRP alone may be insufficient to assess for outflow obstructive physiology" — the diagnostic unit is high IBP **+** high IRP (see [[#PFOO — Post-Fundoplication Outflow Obstruction]]).
+- ⚠ **Do not use IRP alone.** "Reliance on IRP alone may be insufficient to assess for outflow obstructive physiology" — the diagnostic unit is high intrabolus pressure (IBP) **+** high IRP (see [[#PFOO — Post-Fundoplication Outflow Obstruction]]).
 
 ### PFOO — Post-Fundoplication Outflow Obstruction
 
 Defined by the **simultaneous** presence of:
 
-- Elevated intrabolus pressure (IBP)
+- Elevated IBP
 - Elevated IRP
 
 Neither finding alone is sufficient for PFOO. PFOO indicates obstruction at the level of the wrap and encompasses tight, twisted, or stenotic configurations.
@@ -112,12 +112,12 @@ flowchart TD
     B -->|"High"| D["PFOO — tight / twisted wrap"]
     B -->|"Normal"| E{"IRP?"}
     E -->|"Elevated"| F["PFOO — obstructive relaxation failure"]
-    D --> DF["FLIP + TBE to quantify obstruction<br/>consider revision vs dilation"]
+    D --> DF["Functional lumen imaging probe (FLIP) + timed barium esophagram (TBE) to quantify obstruction<br/>consider revision vs dilation"]
     F --> DF
     E -->|"Normal"| G{"Peristalsis?"}
     G -->|"100% failed"| H["Absent contractility<br/>→ compare with PRE-OPERATIVE HRM"]
     H --> H1["Pre-op absent peristalsis<br/>= pre-existing, not surgery-related"]
-    H --> H2["Pre-op normal<br/>= pseudoachalasia OR missed achalasia<br/>EndoFLIP + timed barium esophagram;<br/>review pre-op esophagram / manometry"]
+    H --> H2["Pre-op normal<br/>= pseudoachalasia OR missed achalasia<br/>EndoFLIP + TBE;<br/>review pre-op esophagram / manometry"]
     G -->|"Intact / normal"| I["Expected post-fundoplication findings"]
     I --> I1["If reflux symptoms:<br/>reflux monitoring (pH-impedance)"]
 ```
@@ -143,7 +143,7 @@ flowchart TD
 - Mechanism: chronic outflow obstruction from tight wrap → progressive motor failure → complete aperistalsis
 - Differentiate from missed achalasia by:
   1. Reviewing pre-operative HRM (if available) — normal pre-op = acquired/pseudoachalasia
-  2. EndoFLIP: achalasia shows REO with absent CR; PFOO shows REO with variable CR + elevated pressures
+  2. EndoFLIP: achalasia shows reduced EGJ opening (REO) with absent contractile response (CR); PFOO shows REO with variable CR + elevated pressures
   3. Response to pneumatic dilation may help differentiate
   4. Timed barium esophagram at 1 and 5 minutes
 
@@ -151,7 +151,7 @@ flowchart TD
 
 - New dysphagia + normal endoscopy after ARS: **TBE + [[flip-panometry|FLIP]]** first (93% consensus)
 - TBE: assesses emptying, identifies wrap morphology, column height
-- FLIP: quantifies EGJ opening (REO/NEO), localizes obstruction
+- FLIP: quantifies EGJ opening (REO/normal EGJ opening [NEO]), localizes obstruction
 - HRM: characterizes peristalsis and IRP in anatomic context (Padova Classification)
 
 ---

@@ -20,13 +20,13 @@ sources: []
 
 ## Summary
 
-This AASLD practice guideline provides comprehensive, evidence-based recommendations for the diagnosis and management of [[autoimmune-hepatitis|autoimmune hepatitis]] (AIH) in children and adults. The guideline is built on a systematic review performed in collaboration with the Mayo Evidence-Based Practice Research Program and includes GRADE-rated recommendations where sufficient evidence exists, with expert-consensus guidance statements for areas lacking high-quality evidence.
+This American Association for the Study of Liver Diseases (AASLD) practice guideline provides comprehensive, evidence-based recommendations for the diagnosis and management of [[autoimmune-hepatitis|autoimmune hepatitis]] (AIH) in children and adults. The guideline is built on a systematic review performed in collaboration with the Mayo Evidence-Based Practice Research Program and includes Grading of Recommendations Assessment, Development and Evaluation (GRADE)-rated recommendations where sufficient evidence exists, with expert-consensus guidance statements for areas lacking high-quality evidence.
 
-AIH is an immune-mediated hepatitis characterized by elevated aminotransferases, elevated IgG (>1.1× ULN), positive autoantibodies (ANA, SMA, anti-LKM1, anti-SLA/LP), interface hepatitis on liver biopsy, and typically robust response to immunosuppression. It is classified into Type 1 (ANA+/SMA+; predominant in adults) and Type 2 (LKM1+; predominant in children; more aggressive course). Long-term outcomes are generally favorable when diagnosis and treatment are timely — 10-year survival 91%, 20-year survival 70% — though AIH-related mortality (SMR 1.63) indicates ongoing excess risk.
+AIH is an immune-mediated hepatitis characterized by elevated aminotransferases, elevated immunoglobulin G (IgG; >1.1× upper limit of normal [ULN]), positive autoantibodies (antinuclear antibody [ANA], smooth muscle antibody [SMA], anti–liver-kidney microsomal type 1 [anti-LKM1], anti–soluble liver antigen/liver-pancreas [anti-SLA/LP]), interface hepatitis on liver biopsy, and typically robust response to immunosuppression. It is classified into Type 1 (ANA+/SMA+; predominant in adults) and Type 2 (LKM1+; predominant in children; more aggressive course). Long-term outcomes are generally favorable when diagnosis and treatment are timely — 10-year survival 91%, 20-year survival 70% — though AIH-related mortality (standardized mortality ratio [SMR] 1.63) indicates ongoing excess risk.
 
-First-line treatment consists of prednisone/prednisolone ± azathioprine (AZA), or budesonide + AZA in non-cirrhotic patients without acute severe AIH. Second-line therapy (for failure, incomplete response, or drug intolerance) is MMF or TAC, with MMF preferred for ease and side-effect profile. Treatment withdrawal is feasible only after ≥2 years of sustained biochemical remission (normal AST, ALT, IgG), with relapse rates of 50–87% in adults after withdrawal.
+First-line treatment consists of prednisone/prednisolone ± azathioprine (AZA), or budesonide + AZA in non-cirrhotic patients without acute severe AIH. Second-line therapy (for failure, incomplete response, or drug intolerance) is mycophenolate mofetil (MMF) or tacrolimus (TAC), with MMF preferred for ease and side-effect profile. Treatment withdrawal is feasible only after ≥2 years of sustained biochemical remission (normal aspartate aminotransferase [AST], alanine aminotransferase [ALT], IgG), with relapse rates of 50–87% in adults after withdrawal.
 
-The guideline also addresses acute severe AIH (jaundice + INR 1.5–<2.0 without hepatic encephalopathy) and AIH-related [[acute-liver-failure|ALF]] (INR ≥2 + encephalopathy), overlap syndromes with [[primary-biliary-cholangitis|PBC]] and [[primary-sclerosing-cholangitis|PSC]], post-liver-transplant management of recurrent and de novo AIH, cancer surveillance, and pretreatment evaluation (TPMT, DEXA, vaccination, screening for comorbid autoimmune diseases).
+The guideline also addresses acute severe AIH (jaundice + international normalized ratio [INR] 1.5–<2.0 without hepatic encephalopathy) and AIH-related [[acute-liver-failure|acute liver failure (ALF)]] (INR ≥2 + encephalopathy), overlap syndromes with [[primary-biliary-cholangitis|primary biliary cholangitis (PBC)]] and [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]], post-liver-transplant management of recurrent and de novo AIH, cancer surveillance, and pretreatment evaluation (thiopurine methyltransferase [TPMT], dual-energy X-ray absorptiometry [DEXA], vaccination, screening for comorbid autoimmune diseases).
 
 ---
 
@@ -34,8 +34,8 @@ The guideline also addresses acute severe AIH (jaundice + INR 1.5–<2.0 without
 
 | # | Recommendation | Strength | Evidence |
 |---|---|---|---|
-| 1 | In children and adults with AIH **without cirrhosis or acute severe AIH**: budesonide (3 mg TID) + AZA (50–150 mg/day adults; 1–2 mg/kg/day children) OR prednisone/prednisolone + AZA are equally acceptable first-line therapies | Conditional | Low certainty |
-| 2 | In patients with cirrhosis **OR** acute severe AIH (INR 1.5–<2.0 without [[hepatic-encephalopathy\|HE]]): do **NOT** use budesonide (portal-systemic shunting bypasses first-pass effect, eliminating systemic SE advantage) | Conditional | Very low certainty |
+| 1 | In children and adults with AIH **without cirrhosis or acute severe AIH**: budesonide (3 mg three times daily [TID]) + AZA (50–150 mg/day adults; 1–2 mg/kg/day children) OR prednisone/prednisolone + AZA are equally acceptable first-line therapies | Conditional | Low certainty |
+| 2 | In patients with cirrhosis **OR** acute severe AIH (INR 1.5–<2.0 without [[hepatic-encephalopathy\|hepatic encephalopathy (HE)]]): do **NOT** use budesonide (portal-systemic shunting bypasses first-pass effect, eliminating systemic side-effect advantage) | Conditional | Very low certainty |
 | 3 | For treatment failure, incomplete response, or drug intolerance: MMF or [[tacrolimus\|TAC]] as second-line alternatives | Conditional | Low certainty |
 | 4 | MMF is preferred over TAC as initial second-line therapy due to superior ease of use and side-effect profile | Conditional | Very low certainty |
 | 5 | After liver transplantation: gradual glucocorticoid withdrawal (as per center-specific protocol) is recommended | Conditional | Very low certainty |
@@ -49,8 +49,8 @@ The guideline also addresses acute severe AIH (jaundice + INR 1.5–<2.0 without
 - AIH diagnosis requires: compatible histologic findings + elevated aminotransferases + elevated IgG ± autoantibodies, **plus** exclusion of viral hepatitis, hereditary liver disease, [[drug-induced-liver-injury|drug-induced liver injury]], and cholestatic liver disease
 - Initial autoantibody workup: ANA + SMA in adults; ANA + SMA + anti-LKM1 in children (anti-LKM1 rare in adults in North America but predominant in UK/European children)
 - Anti-SLA/LP: additional specificity for AIH; associated with worse prognosis and more refractory disease; withdrawal of immunosuppression is rarely successful in anti-SLA–positive patients
-- Simplified AIH score (Hennes et al.) is the clinically applied scoring system; Revised IAIHG score used in research settings
-- Type 2 AIH: anti-LKM1 positive; more aggressive, rarely enters sustained remission off medications; never attempt complete IS withdrawal
+- Simplified AIH score (Hennes et al.) is the clinically applied scoring system; Revised International Autoimmune Hepatitis Group (IAIHG) score used in research settings
+- Type 2 AIH: anti-LKM1 positive; more aggressive, rarely enters sustained remission off medications; never attempt complete immunosuppression (IS) withdrawal
 
 ### Histology Definitions (Table 2)
 
@@ -65,24 +65,24 @@ The guideline also addresses acute severe AIH (jaundice + INR 1.5–<2.0 without
 
 Agents with **definite** causation: nitrofurantoin, minocycline, infliximab, alpha-methyldopa, adalimumab, halothane, oxyphenisatin, dihydralazine
 
-Practical point: DIAIH may be indistinguishable from idiopathic AIH; drug exposure history is critical; may require IS followed by drug withdrawal to differentiate
+Practical point: drug-induced AIH (DIAIH) may be indistinguishable from idiopathic AIH; drug exposure history is critical; may require IS followed by drug withdrawal to differentiate
 
 ### Pretreatment Evaluation
 
 - **TPMT genotype/phenotype** testing before AZA (poor metabolizers: AZA toxicity risk)
-- **HBsAg and anti-HBc**: prophylactic antiviral therapy (entecavir or tenofovir) before immunosuppression if HBsAg positive
+- **Hepatitis B surface antigen (HBsAg) and hepatitis B core antibody (anti-HBc)**: prophylactic antiviral therapy (entecavir or tenofovir) before immunosuppression if HBsAg positive
 - **DEXA scan** at baseline for osteoporosis risk assessment; repeat q2–3 years on glucocorticoids
 - **25-hydroxyvitamin D** at diagnosis and annually; supplement if deficient
-- **Vaccines** (HAV, HBV, influenza, pneumococcal) before immunosuppression initiation
-- **[[celiac-disease|Celiac disease]] screening** (TTG-IgA) and **thyroid disease** (TSH) at diagnosis — concurrent autoimmune disease common
-- **Screen for other extrahepatic autoimmune diseases** (RA, [[inflammatory-bowel-disease|IBD]], thyroiditis, Sjogren's, ANCA-associated vasculitis)
+- **Vaccines** (hepatitis A virus [HAV], hepatitis B virus [HBV], influenza, pneumococcal) before immunosuppression initiation
+- **[[celiac-disease|Celiac disease]] screening** (tissue transglutaminase IgA [TTG-IgA]) and **thyroid disease** (thyroid-stimulating hormone [TSH]) at diagnosis — concurrent autoimmune disease common
+- **Screen for other extrahepatic autoimmune diseases** (rheumatoid arthritis [RA], [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], thyroiditis, Sjogren's, antineutrophil cytoplasmic antibody [ANCA]-associated vasculitis)
 - **MMF**: teratogenic — two forms of contraception required; avoid in pregnancy
 
 ### AZA Dosing and Monitoring
 
 - Adults: 50–150 mg/day
 - Children: 1–2 mg/kg/day
-- CBC every 3 months on AZA or MMF (monitoring for myelosuppression)
+- Complete blood count (CBC) every 3 months on AZA or MMF (monitoring for myelosuppression)
 - 94–95% of AIH patients are steroid-responsive; only ~30% can successfully discontinue all immunosuppression long-term
 
 ### Acute Severe AIH and ALF Management
@@ -102,23 +102,23 @@ Practical point: DIAIH may be indistinguishable from idiopathic AIH; drug exposu
 
 **AIH-PBC overlap (Paris criteria):**
 
-- 2 of 3 PBC criteria: ALP ≥2× ULN or GGT ≥5× ULN; AMA ≥1:40; liver biopsy with bile duct lesions
+- 2 of 3 PBC criteria: alkaline phosphatase (ALP) ≥2× ULN or gamma-glutamyl transferase (GGT) ≥5× ULN; antimitochondrial antibody (AMA) ≥1:40; liver biopsy with bile duct lesions
 - 2 of 2 AIH criteria: ALT ≥5× ULN; IgG ≥2× ULN or SMA positive; liver biopsy with moderate-to-severe interface hepatitis
-- Treatment: prednisone + AZA + UDCA (13–15 mg/kg/day)
+- Treatment: prednisone + AZA + ursodeoxycholic acid (UDCA) (13–15 mg/kg/day)
 
 **AIH-PSC overlap:**
 
-- Typical AIH features + large-duct PSC on cholangiogram (MRCP/[[ercp|ERCP]])
-- Consider in AIH patients with concomitant IBD (especially [[ulcerative-colitis|UC]]) or elevated ALP out of proportion
+- Typical AIH features + large-duct PSC on cholangiogram (magnetic resonance cholangiopancreatography [MRCP]/[[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]])
+- Consider in AIH patients with concomitant IBD (especially [[ulcerative-colitis|ulcerative colitis (UC)]]) or elevated ALP out of proportion
 - Prognosis driven by PSC component
 
 ### HCC Surveillance
 
-- Patients with AIH-related cirrhosis: liver ultrasound ± AFP every 6 months (same as cirrhosis of any etiology)
+- Patients with AIH-related cirrhosis: liver ultrasound ± alpha-fetoprotein (AFP) every 6 months (same as cirrhosis of any etiology)
 
 ### Post-Liver Transplant AIH
 
-- **Recurrent AIH post-LT:** 8–12% in year 1; 36–68% at 5 years (varies by immunosuppression protocol and vigilance of protocol biopsy)
+- **Recurrent AIH post–liver transplant (LT):** 8–12% in year 1; 36–68% at 5 years (varies by immunosuppression protocol and vigilance of protocol biopsy)
 - Risk factors: younger recipient age, high pre-LT disease activity, rapid steroid taper
 - **De novo AIH post-LT:** 1–7% of pediatric recipients; IgG4+ plasma cell infiltrates → sometimes termed "plasma cell-rich rejection" — exact relationship to recurrent/true AIH debated
 - Management: intensification of immunosuppression (return to steroid therapy, dose adjustment)
@@ -154,14 +154,14 @@ Practical point: DIAIH may be indistinguishable from idiopathic AIH; drug exposu
 
 - **Primary:** Primary source for the full [[autoimmune-hepatitis]] page
 - Informs overlap syndrome content in [[primary-biliary-cholangitis]] and [[primary-sclerosing-cholangitis]]
-- Drug-induced AIH section reinforces [[drug-induced-liver-injury]] DILI subtypes
+- Drug-induced AIH section reinforces [[drug-induced-liver-injury|drug-induced liver injury (DILI)]] subtypes
 - Post-LT AIH management adds to [[liver-transplantation]] post-transplant section
 
 ---
 
 ## Contradictions / Open Questions
 
-- No high-quality RCT evidence for most recommendations; guideline heavily relies on retrospective series and case reports
+- No high-quality randomized controlled trial (RCT) evidence for most recommendations; guideline heavily relies on retrospective series and case reports
 - The "≥2 years of biochemical remission" threshold for withdrawal is consensus-based, not derived from prospective withdrawal trials
 - De novo AIH vs. plasma cell-rich rejection post-LT remains a nosologic and therapeutic controversy
 

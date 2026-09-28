@@ -13,20 +13,20 @@ Endoscopic oncology is an emerging subspecialty within gastroenterology focused 
 
 ## Scope
 
-Endoscopic oncologists perform procedures across the GI tract with oncologic intent:
+Endoscopic oncologists perform procedures across the gastrointestinal (GI) tract with oncologic intent:
 
-- **Staging**: [[endoscopic-ultrasound|EUS]]-guided fine-needle aspiration/biopsy for locoregional staging of [[esophageal-cancer|esophageal]], [[gastric-adenocarcinoma|gastric]], [[pancreatic-cancer|pancreatic]], and [[colorectal-cancer|rectal cancers]]; EUS-guided celiac plexus neurolysis for pain palliation
+- **Staging**: [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]-guided fine-needle aspiration/biopsy for locoregional staging of [[esophageal-cancer|esophageal]], [[gastric-adenocarcinoma|gastric]], [[pancreatic-cancer|pancreatic]], and [[colorectal-cancer|rectal cancers]]; EUS-guided celiac plexus neurolysis for pain palliation
 - **Curative resection of superficial neoplasia**: [[endoscopic-submucosal-dissection|Endoscopic submucosal dissection (ESD)]] and endoscopic mucosal resection ([[endoscopic-mucosal-resection|EMR]]) for T1a/T1b lesions in the esophagus, stomach, duodenum, and colon
-- **Biliary and pancreatic interventions**: [[ercp|ERCP]]-based stenting, [[cholangioscopy]] with biopsy, EUS-guided biliary drainage for malignant obstruction
+- **Biliary and pancreatic interventions**: [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]-based stenting, [[cholangioscopy]] with biopsy, EUS-guided biliary drainage for malignant obstruction
 - **Luminal palliation**: Self-expanding metal stents for malignant esophageal, [[gastric-outlet-obstruction|gastric outlet]], and colonic obstruction; [[enteral-access|enteral access]] for nutritional support
-  - **Distinguish palliation from bridge to surgery.** Colonic [[colonic-stenting|SEMS]] in *resectable* obstruction is a bridge to elective resection, a different decision with its own outcome data — that lives on [[colorectal-cancer]]. The gastric-outlet palliation-vs-surgery rule lives on [[gastric-outlet-obstruction]].
+  - **Distinguish palliation from bridge to surgery.** Colonic [[colonic-stenting|self-expanding metal stent (SEMS)]] in *resectable* obstruction is a bridge to elective resection, a different decision with its own outcome data — that lives on [[colorectal-cancer]]. The gastric-outlet palliation-vs-surgery rule lives on [[gastric-outlet-obstruction]].
 - **Ablation**: [[radiofrequency-ablation|Radiofrequency ablation (RFA)]] for [[barretts-esophagus|Barrett's esophagus]] and early esophageal neoplasia — the ablation-plus-resection pathway lives on [[endoscopic-eradication-therapy]]; photodynamic therapy (historical)
 
 ## Relationship to Other Subspecialties
 
 Endoscopic oncology overlaps with but is distinct from:
 
-- **General GI**: Handles screening/surveillance [[colonoscopy]] and [[upper-endoscopy|EGD]] (see [[colorectal-cancer-screening]], [[colonoscopy-surveillance]]); refers complex lesions to endoscopic oncology
+- **General GI**: Handles screening/surveillance [[colonoscopy]] and [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] (see [[colorectal-cancer-screening]], [[colonoscopy-surveillance]]); refers complex lesions to endoscopic oncology
 - **Surgical oncology**: Endoscopic oncology expands the pool of patients who can avoid surgery (organ preservation) when resection margins are achievable endoscopically
 - **Medical oncology**: Endoscopic oncologists provide staging data that drives systemic therapy decisions and may place feeding tubes/stents to enable chemotherapy tolerance
 
@@ -37,7 +37,7 @@ What the guideline states ([[acg-2025-eus-quality]]):
 - **EUS must be performed or supervised by a fully trained, credentialed endosonographer** — quality indicator 4, target **>98%**.
 - **>50% of accepted EUS indications are now therapeutic**, and the guideline states that **competency should be objectively assessed** rather than assumed from case volume.
 
-> No guideline cited here states a fellowship requirement or a numeric case-volume threshold for ESD, EUS-FNA, or complex biliary work; see ASGE/ACG training-and-credentialing documents for those.
+> No guideline cited here states a fellowship requirement or a numeric case-volume threshold for ESD, EUS-guided fine-needle aspiration (EUS-FNA), or complex biliary work; see American Society for Gastrointestinal Endoscopy (ASGE)/American College of Gastroenterology (ACG) training-and-credentialing documents for those.
 
 ## See Also
 

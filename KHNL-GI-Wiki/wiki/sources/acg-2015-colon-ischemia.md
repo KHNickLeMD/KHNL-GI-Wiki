@@ -20,20 +20,20 @@ sources: []
 
 ## Summary
 
-This ACG guideline provides the first comprehensive GRADE-based recommendations on colon ischemia (CI), covering its epidemiology, risk factors, clinical presentation, diagnostic workup, and management. CI is the most common form of intestinal ischemia and can range from mild transient mucosal disease to fulminant pancolonic necrosis.
+This American College of Gastroenterology (ACG) guideline provides the first comprehensive Grading of Recommendations Assessment, Development and Evaluation (GRADE)-based recommendations on colon ischemia (CI), covering its epidemiology, risk factors, clinical presentation, diagnostic workup, and management. CI is the most common form of intestinal ischemia and can range from mild transient mucosal disease to fulminant pancolonic necrosis.
 
-The guideline emphasizes early CT with IV and oral contrast as the first imaging modality, followed by colonoscopy within 48 hours to confirm the diagnosis and stratify severity. Most CI is mild and resolves with supportive care; antibiotics are reserved for moderate and severe presentations. Surgical indications are hypotension + tachycardia + abdominal pain **without** rectal bleeding, IRCI, pan-colonic CI, and gangrene.
+The guideline emphasizes early computed tomography (CT) with intravenous (IV) and oral contrast as the first imaging modality, followed by colonoscopy within 48 hours to confirm the diagnosis and stratify severity. Most CI is mild and resolves with supportive care; antibiotics are reserved for moderate and severe presentations. Surgical indications are hypotension + tachycardia + abdominal pain **without** rectal bleeding, isolated right colon ischemia (IRCI), pan-colonic CI, and gangrene.
 
-**The guideline's central operational contribution is Table 6** — a proposed (explicitly non-validated) mild/moderate/severe classification built from ten specific poor-outcome factors, with a **count rule** (≤3 factors = moderate; >3 factors, or any of four hard findings, = severe) that drives whether the patient gets observation, antibiotics + surgical consultation, or the ICU. Reproduced in full below; it is the reason to open this source.
+**The guideline's central operational contribution is Table 6** — a proposed (explicitly non-validated) mild/moderate/severe classification built from ten specific poor-outcome factors, with a **count rule** (≤3 factors = moderate; >3 factors, or any of four hard findings, = severe) that drives whether the patient gets observation, antibiotics + surgical consultation, or the intensive care unit (ICU). Reproduced in full below; it is the reason to open this source.
 
-Risk factors include IMA-sacrificing surgery, shock states, constipation-inducing medications, IBS, CKD and COPD, though in most patients no precipitating factor is identified. The distinction between colon ischemia and acute mesenteric ischemia (AMI) is clinically important, and the guideline handles it explicitly: **multiphasic CTA is required — not withheld — whenever IRCI is suspected or AMI cannot be excluded.**
+Risk factors include inferior mesenteric artery (IMA)-sacrificing surgery, shock states, constipation-inducing medications, irritable bowel syndrome (IBS), chronic kidney disease (CKD) and chronic obstructive pulmonary disease (COPD), though in most patients no precipitating factor is identified. The distinction between colon ischemia and acute mesenteric ischemia (AMI) is clinically important, and the guideline handles it explicitly: **multiphasic computed tomography angiography (CTA) is required — not withheld — whenever IRCI is suspected or AMI cannot be excluded.**
 
 ---
 
 ## Key Findings / Claims
 
 **Epidemiology**
-- CI is the etiology in **9–24%** of all patients hospitalized for acute lower GI bleeding, ranking first to third behind colorectal malignancy in large surveys.
+- CI is the etiology in **9–24%** of all patients hospitalized for acute lower gastrointestinal (GI) bleeding, ranking first to third behind colorectal malignancy in large surveys.
 - Annual incidence **15.6–17.7 per 100,000** across the large population/claims studies (Kaiser San Diego 15.6/100,000 — women 22.6, men 8.0; national claims 17.7/100,000; a further population study 16.3/100,000 person-years with a near four-fold rise over 34 years). A claims study surveying few patients ≥60 y reported only 7.2/100,000.
 - Increases with age, **especially after age 49**; female predominance (57–76% of large series), particularly marked after age 69.
 - **Mortality in large series 4–12%.** Cumulative recurrence 3% at 1 y, 5% at 2–3 y, 6% at 4 y, 10% at 5–6 y in one study; 3.3% at 2 y and 7.5% at 5 y in another.
@@ -41,19 +41,19 @@ Risk factors include IMA-sacrificing surgery, shock states, constipation-inducin
 **Presentation and distribution**
 - Diagnosis usually established by sudden cramping **mild** abdominal pain, an urgent desire to defecate, and passage of bright red or maroon blood / bloody diarrhea **within 24 h**.
 - Watershed anatomy: splenic flexure (Griffith's point) and sigmoid (Sudeck's point). The **rectum is uncommonly affected** because of its dual splanchnic + systemic supply.
-- **IRCI** presents most often as acute abdominal pain **without** rectal bleeding (59%); atrial fibrillation, CAD and CKD are more frequent than in other patterns.
+- **IRCI** presents most often as acute abdominal pain **without** rectal bleeding (59%); atrial fibrillation, coronary artery disease (CAD) and CKD are more frequent than in other patterns.
 - **IRCI outcomes are the worst:** 30-day mortality **20.3% vs 9.0%** for non-IRCI (n = 313, pathologically confirmed, P < .01); in a separate 273-patient series, 30-day mortality 22.5% vs 11.9% (P = .03), need for surgery **54.9% vs 10.9%** (P < .001), unfavorable outcome 59.2% vs 17.3%.
-- **Pan-colonic CI carries a similar prognosis — mortality 21.7%.** IRCI + pan-colonic together accounted for 61% of episodes requiring surgery (HR 14.6, P < .001).
+- **Pan-colonic CI carries a similar prognosis — mortality 21.7%.** IRCI + pan-colonic together accounted for 61% of episodes requiring surgery (hazard ratio 14.6, P < .001).
 - Type I (nonocclusive, no cause identified — most cases) vs Type II (identified cause, usually hypotension, low cardiac output, or aortic surgery). Rarely used clinically, but Type II allows cause-directed therapy.
 
 **Imaging performance (read the denominators — these are vascular-occlusion figures, not CI-diagnosis figures)**
 - CT findings suggesting CI: bowel wall thickening, edema, thumbprinting, pericolonic fat stranding.
 - For **vascular occlusion**, CT/CTA sensitivity and specificity **93.3% and 95.9%**.
-- SMA thrombus/occlusion: specificity approaching **100%** but sensitivity only **26%**; celiac and IMA thrombus specificity **98%**, sensitivity **5%**.
+- Superior mesenteric artery (SMA) thrombus/occlusion: specificity approaching **100%** but sensitivity only **26%**; celiac and IMA thrombus specificity **98%**, sensitivity **5%**.
 - **Portomesenteric gas for transmural infarction: specificity 83%, sensitivity 17%** — a rule-in finding only.
 - Ultrasound in one 58-patient series: symmetric bowel wall thickening 100%, segmental involvement 80%, preserved wall stratification 66%.
 
-**Post-AAA-repair CI (stratified — the overall figure alone is misleading)**
+**Post–abdominal aortic aneurysm (AAA)-repair CI (stratified — the overall figure alone is misleading)**
 - Overall post-operative CI after AAA repair **2.2%**; **ruptured AAA 8.9%**, open elective repair **1.9%**, endovascular repair **0.5%**.
 - Conversely, AAA repair preceded CI in only <1–2% of CI cases.
 
@@ -71,13 +71,13 @@ Risk factors include IMA-sacrificing surgery, shock states, constipation-inducin
 | Severity | Criteria | Treatment |
 |---|---|---|
 | **Mild** | Typical symptoms of CI with a segmental colitis **not isolated to the right colon** and **none** of the moderate-disease risk factors | Observation; supportive care |
-| **Moderate** | Any patient with CI and **up to three** of: male gender · hypotension (SBP <90 mm Hg) · tachycardia (HR >100/min) · abdominal pain **without** rectal bleeding · BUN >20 mg/dL · Hgb <12 g/dL · LDH >350 U/L · serum sodium <136 mEq/L · WBC >15 ×10⁹/L · colonoscopically identified mucosal ulceration | Correction of cardiovascular abnormalities (e.g. volume replacement); broad-spectrum antibiotics; surgical consultation |
+| **Moderate** | Any patient with CI and **up to three** of: male gender · hypotension (systolic blood pressure [SBP] <90 mm Hg) · tachycardia (heart rate [HR] >100/min) · abdominal pain **without** rectal bleeding · blood urea nitrogen (BUN) >20 mg/dL · hemoglobin (Hgb) <12 g/dL · lactate dehydrogenase (LDH) >350 U/L · serum sodium <136 mEq/L · white blood cell count (WBC) >15 ×10⁹/L · colonoscopically identified mucosal ulceration | Correction of cardiovascular abnormalities (e.g. volume replacement); broad-spectrum antibiotics; surgical consultation |
 | **Severe** | Any patient with CI and **more than three** of the moderate criteria, **or any** of: peritoneal signs on exam · pneumatosis or portal venous gas on imaging · gangrene on colonoscopy · pan-colonic distribution or IRCI on imaging/colonoscopy | Emergent surgical consultation (treatment likely surgical); ICU transfer; correction of cardiovascular abnormalities; broad-spectrum antibiotics |
 
 *Note the combination rule: the ten moderate factors are counted, and the count (≤3 vs >3) is what separates moderate from severe — while any single one of the four hard findings makes the case severe regardless of count.*
 
 **Ischemic Colitis Mortality Risk (ICMR) score — for patients going to surgery**
-- Five factors, **1 point each**: heart failure with **LVEF <20%** on echocardiogram · acute kidney injury · **lactate >2.5 mmol/L** · subtotal colectomy · pre- and intra-operative catecholamine administration.
+- Five factors, **1 point each**: heart failure with **left ventricular ejection fraction (LVEF) <20%** on echocardiogram · acute kidney injury · **lactate >2.5 mmol/L** · subtotal colectomy · pre- and intra-operative catecholamine administration.
 
 | ICMR score | Mortality |
 |---|---|
@@ -88,7 +88,7 @@ Risk factors include IMA-sacrificing surgery, shock states, constipation-inducin
 | 4 | 76.7% |
 | 5 | 100.0% |
 
-- Validated in a separate 115-patient surgical cohort (37% post-surgical mortality). In that validation, independent predictors of death were ASA class >4 (OR 6.91), peak pre-operative lactate (OR 1.26), post-operative dialysis (OR 5.11), intra-operative vasopressor requirement (OR 2.07), total ICMR score (OR 2.11), and blood loss >500 mL (OR 2.63).
+- Validated in a separate 115-patient surgical cohort (37% post-surgical mortality). In that validation, independent predictors of death were American Society of Anesthesiologists (ASA) class >4 (odds ratio [OR] 6.91), peak pre-operative lactate (OR 1.26), post-operative dialysis (OR 5.11), intra-operative vasopressor requirement (OR 2.07), total ICMR score (OR 2.11), and blood loss >500 mL (OR 2.63).
 - Limitations acknowledged: difficulty distinguishing occlusive from nonocclusive CI acutely, and mortality after colectomy may reflect injury extent/blood loss/hemodynamic instability rather than the operation.
 
 **Laboratory testing**
@@ -100,7 +100,7 @@ Risk factors include IMA-sacrificing surgery, shock states, constipation-inducin
 ## Relevance to Wiki
 
 - [[colon-ischemia]] — the disease script this source anchors. Supplies the **Table 6 severity criteria with the ≤3 / >3 count rule**, the ICMR score, the IRCI and pan-colonic mortality figures, and the verbatim recommendations.
-- [[acute-lower-gi-bleeding]] — CI causes **9–24%** of acute LGIB hospitalizations, ranking first to third behind malignancy.
+- [[acute-lower-gi-bleeding]] — CI causes **9–24%** of acute lower GI bleeding (LGIB) hospitalizations, ranking first to third behind malignancy.
 - [[acute-mesenteric-ischemia]] — the CI-vs-AMI decision: multiphasic CTA is **mandated** when IRCI is suspected or AMI cannot be excluded, and splanchnic angiography is the next step if that CTA is negative in a high-suspicion patient.
 - [[colonoscopy]] — timing (within 48 h), minimal insufflation, halt at the distalmost extent, biopsy except in gangrene, and the absolute contraindications (peritonitis, gangrene, pneumatosis).
 
@@ -136,7 +136,7 @@ Verbatim from Table 1 (*Recommendations and summary statements*), with the guide
 | 1 | CT with intravenous and oral contrast should be the first imaging modality of choice for patients with suspected CI to assess the distribution and phase of colitis. | Strong | Moderate |
 | 2 | The diagnosis of CI can be suggested based on CT findings (e.g., bowel wall thickening, edema, thumbprinting). | Strong | Moderate |
 | 3 | **Multiphasic CTA should be performed on any patient with suspected IRCI or in any patient in whom the possibility of AMI cannot be excluded.** | Strong | Moderate |
-| 4 | CT or MRI findings of colonic pneumatosis and porto-mesenteric venous gas can be used to predict the presence of transmural colonic infarction. | Strong | Moderate |
+| 4 | CT or MRI [magnetic resonance imaging] findings of colonic pneumatosis and porto-mesenteric venous gas can be used to predict the presence of transmural colonic infarction. | Strong | Moderate |
 | 5 | In a patient in whom the presentation of CI may be a heralding sign of AMI (e.g., IRCI, severe pain without bleeding, atrial fibrillation), and the multiphasic CT is negative for vascular occlusive disease, traditional splanchnic angiography should be considered for further assessment. | Conditional | Low |
 
 ### Colonoscopy in the Diagnosis of CI

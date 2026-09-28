@@ -25,9 +25,9 @@ Histologically defined esophageal disorder characterized by a **dense peripapill
 
 - **Histologic diagnosis** on esophageal biopsy (peripapillary lymphocytosis + spongiosis, few/no eosinophils or neutrophils).
 - **Diagnosis of exclusion** — first rule out:
-  - EoE-like disease: biopsy obtained **off [[proton-pump-inhibitors|PPI]] for ≥2–4 weeks**
+  - Eosinophilic esophagitis (EoE)-like disease: biopsy obtained **off [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] for ≥2–4 weeks**
   - [[crohns-disease|Crohn's disease]] (can look histopathologically similar)
-- Endoscopy is abnormal in ~**70–75%** (single-centre series, n=81) — most common findings, in order, are **rings, esophagitis, and stricture**; EoE was endoscopically suspected in **1/3** of patients who turned out to have LyE.
+- Endoscopy is abnormal in ~**70–75%** (single-centre series, n=81) — most common findings, in order, are **rings, esophagitis, and stricture**; EoE was endoscopically suspected in **1/3** of patients who turned out to have lymphocytic esophagitis (LyE).
 
 ### Severity Assessment
 
@@ -35,7 +35,7 @@ Histologically defined esophageal disorder characterized by a **dense peripapill
 
 **Epidemiology (for pretest probability):**
 
-- Rare: ~**0.1%** of adults undergoing EGD with esophageal biopsy (vs **2.8%** for EoE) — in a retrospective review of **129,252** adults.
+- Rare: ~**0.1%** of adults undergoing esophagogastroduodenoscopy (EGD) with esophageal biopsy (vs **2.8%** for EoE) — in a retrospective review of **129,252** adults.
 - Predominantly **women above age 60** (contrast with EoE).
 - Dysphagia is the primary symptom in ~2/3 — the same frequency as in EoE, so symptom pattern does **not** discriminate LyE from EoE.
 
@@ -46,7 +46,7 @@ Histologically defined esophageal disorder characterized by a **dense peripapill
 - [[eosinophilic-esophagitis]] (must be excluded off PPI before diagnosing LyE)
 - [[crohns-disease|Esophageal Crohn's disease]]
 - [[infectious-esophagitis]]
-- [[gerd|GERD]]/pill esophagitis
+- [[gerd|Gastroesophageal reflux disease (GERD)]]/pill esophagitis
 - [[esophageal-dysfunction-systemic-disease|Immune-mediated/dermatologic esophageal disease]] (lichen planus)
 
 ## Diagnostics
@@ -56,7 +56,7 @@ Histologically defined esophageal disorder characterized by a **dense peripapill
 
 ## Therapeutics
 
-- **PPI therapy**, or **swallowed topical corticosteroids** (topical steroids not well studied in LyE). (BPA 5)
+- **PPI therapy**, or **swallowed topical corticosteroids** (topical steroids not well studied in LyE). (Best Practice Advice [BPA] 5)
 - **Esophageal dilation** as needed for rings/strictures causing dysphagia.
 
 ## See Also

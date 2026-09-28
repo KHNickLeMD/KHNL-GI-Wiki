@@ -15,11 +15,11 @@ Bicyclic fatty acid derived from prostaglandin E1; activates **type 2 chloride c
 
 | Indication | Dose (start = max) | Recommendation |
 |---|---|---|
-| [[chronic-idiopathic-constipation\|CIC]], **only in adults who do not respond to OTC agents** | **24 µg PO BID** — also the **maximum** dose | Conditional, low certainty ([[aga-acg-2023-constipation]] Rec 7) |
-| [[irritable-bowel-syndrome\|IBS]]-C | **8 µg PO BID with meals** (FDA-approved in **adult women**; the dose used in the phase III RCTs) | AGA: conditional, moderate certainty ([[aga-2022-ibs-c]] Rec 5); ACG: Strong/Moderate ([[acg-2020-ibs]]) — see [[#Contradictions]] |
+| [[chronic-idiopathic-constipation\|chronic idiopathic constipation (CIC)]], **only in adults who do not respond to over-the-counter (OTC) agents** | **24 µg orally (PO) twice daily (BID)** — also the **maximum** dose | Conditional, low certainty ([[aga-acg-2023-constipation]] Rec 7) |
+| [[irritable-bowel-syndrome\|Irritable bowel syndrome (IBS)]] with constipation (IBS-C) | **8 µg PO BID with meals** (FDA-approved in **adult women**; the dose used in the phase III randomized controlled trials [RCTs]) | American Gastroenterological Association (AGA): conditional, moderate certainty ([[aga-2022-ibs-c]] Rec 5); American College of Gastroenterology (ACG): Strong/Moderate ([[acg-2020-ibs]]) — see [[#Contradictions]] |
 | Moderate or severe **hepatic impairment** | Reduce to **8 µg BID** | [[aga-acg-2023-constipation]] |
 
-- **"OTC agents" = the Step-2 ladder** — PEG, bisacodyl, sodium picosulfate, psyllium, senna, magnesium oxide, lactulose; doses, maxima, and strengths of recommendation live on [[chronic-idiopathic-constipation]]. Lubiprostone can **replace or be added to** them.
+- **"OTC agents" = the Step-2 ladder** — polyethylene glycol (PEG), bisacodyl, sodium picosulfate, psyllium, senna, magnesium oxide, lactulose; doses, maxima, and strengths of recommendation live on [[chronic-idiopathic-constipation]]. Lubiprostone can **replace or be added to** them.
 - **Titration:** per symptom response, not on a fixed schedule; there is no dose above 24 µg BID to escalate to.
 - **Administration:** take **with meals and water** — nausea is dose-dependent and less frequent with food.
 - **Duration:** CIC trials ran **4 weeks**; the drug label sets no limit. A long-term IBS-C safety extension found it well tolerated for up to **13 months** ([[aga-2022-ibs-c]]).
@@ -30,21 +30,21 @@ Bicyclic fatty acid derived from prostaglandin E1; activates **type 2 chloride c
 
 | Setting | Evidence | Result |
 |---|---|---|
-| **CIC**, 24 µg BID | 3 RCTs, 4 wk ([[aga-acg-2023-constipation]]) | **SBMs/week** MD **+1.98** (95% CI 1.17–2.79); **responder** RR **1.67** (1.36–2.06) = **226 more per 1,000** (122–358) |
-| **CIC** — secondary | same | Stool form (0–4 scale) MD **1.09 better** (0.16–2.03); global relief (0–4 scale) MD **0.75 higher** (0.42–1.08); **CSBMs/week not reported** |
+| **CIC**, 24 µg BID | 3 RCTs, 4 wk ([[aga-acg-2023-constipation]]) | **Spontaneous bowel movements (SBMs)/week** mean difference (MD) **+1.98** (95% confidence interval [CI] 1.17–2.79); **responder** relative risk (RR) **1.67** (1.36–2.06) = **226 more per 1,000** (122–358) |
+| **CIC** — secondary | same | Stool form (0–4 scale) MD **1.09 better** (0.16–2.03); global relief (0–4 scale) MD **0.75 higher** (0.42–1.08); **Complete SBMs (CSBMs)/week not reported** |
 | **IBS-C**, 8 µg BID | 2 identically designed phase III RCTs, n=**1,171**, Rome II, 12 wk ([[acg-2020-ibs]]; [[aga-2022-ibs-c]] describes the same two trials as n=**1,154**) | Responder **17.9% vs 10.1%** placebo (P=0.0001) |
-| **IBS-C** — pooled | meta-analysis ([[acg-2020-ibs]]) | RR of symptom **persistence 0.91** (0.87–0.95); **NNT 12.5** |
+| **IBS-C** — pooled | meta-analysis ([[acg-2020-ibs]]) | RR of symptom **persistence 0.91** (0.87–0.95); **number needed to treat (NNT) 12.5** |
 
 - **Delayed onset in IBS-C:** separation from placebo **did not reach significance until month 2**, then was maintained through month 3; response was maintained or increased over a **36-week open-label extension**.
 - **CIC certainty:** moderate for SBMs/week (imprecision), low for every other outcome → **overall low**.
 
 ## Adverse Effects
 
-- **Nausea** — the most common AE, dose-dependent:
+- **Nausea** — the most common adverse event (AE), dose-dependent:
   - CIC dose (24 µg BID): **35%**, usually mild-moderate; discontinuation in only **5%**.
   - IBS-C dose (8 µg BID): **8%–19%**; treatment-emergent nausea 10.9% vs 6.4% placebo (P<0.01), and moderately severe nausea more likely on drug (P<0.05); discontinuation **1.2%** vs 0.7% placebo in ACG's nausea analysis.
 - Diarrhea: 6%–14% at the IBS-C dose. In CIC, diarrhea leading to discontinuation is more likely than placebo (RR 5.30, 95% CI 1.53–18.44; 28 more per 1,000).
-- **All-cause withdrawal in IBS-C is much higher than the nausea-specific figure** — **12.8%** lubiprostone vs 12.3% placebo, i.e. no excess over placebo; GI-specific AEs 19% vs 14% ([[aga-2022-ibs-c]]). Read the 1.2% above as nausea-driven discontinuation only.
+- **All-cause withdrawal in IBS-C is much higher than the nausea-specific figure** — **12.8%** lubiprostone vs 12.3% placebo, i.e. no excess over placebo; gastrointestinal (GI)-specific AEs 19% vs 14% ([[aga-2022-ibs-c]]). Read the 1.2% above as nausea-driven discontinuation only.
 - **Contraindicated** in known or suspected **mechanical GI obstruction**.
 - Little to no difference in serious adverse events vs placebo, though the CI was wide (RR 1.22, 95% CI 0.62–2.42) and increased risk could not be excluded.
 

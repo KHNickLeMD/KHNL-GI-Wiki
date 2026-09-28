@@ -32,7 +32,7 @@ sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant, asge-2023-es
 
 Stage is assigned from the staging workup in [[#Diagnostics]]; for advanced/metastatic disease, biomarker status drives treatment selection ([[#Biomarker Testing]]).
 
-Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) from disease requiring gastrectomy or systemic therapy. Stage groups differ for clinical (cTNM), pathologic (pTNM), and post-neoadjuvant (ypTNM) staging ([[nccn-2026-gastric-cancer]], AJCC 8th ed. 2017):
+Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) from disease requiring gastrectomy or systemic therapy. Stage groups differ for clinical (cTNM), pathologic (pTNM), and post-neoadjuvant (ypTNM) staging ([[nccn-2026-gastric-cancer]], American Joint Committee on Cancer [AJCC] 8th ed. 2017):
 
 | T — primary tumor | Definition |
 |---|---|
@@ -71,7 +71,7 @@ Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) fro
 **Histologic (Lauren) types:**
 
 - **Intestinal** — gland-forming; associated with the H. pylori/atrophic-gastritis cascade
-- **Diffuse** — poorly cohesive/signet-ring, including linitis plastica; associated with CDH1 and a worse prognosis. Diffuse-type biology is relevant to systemic-therapy selection (e.g., diffuse-type EGJ adenocarcinoma did not benefit from added durvalumab in MATTERHORN)
+- **Diffuse** — poorly cohesive/signet-ring, including linitis plastica; associated with CDH1 and a worse prognosis. Diffuse-type biology is relevant to systemic-therapy selection (e.g., diffuse-type esophagogastric junction (EGJ) adenocarcinoma did not benefit from added durvalumab in MATTERHORN)
 
 **Siewert classification — assess in *all* adenocarcinomas involving the EGJ, because it decides which guideline governs treatment** [[nccn-2026-gastric-cancer]]:
 
@@ -85,13 +85,13 @@ Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) fro
 
 *Workup: see [[dyspepsia]].*
 
-[[gastric-premalignant-conditions|Gastric premalignant lesions]]/dysplasia, [[gastric-malt-lymphoma|gastric lymphoma (MALT)]], [[gastrointestinal-stromal-tumor|GIST]] and other [[subepithelial-lesion|subepithelial lesions]], gastric [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumors]], [[peptic-ulcer-disease|benign gastric ulcer]] (always biopsy to exclude malignancy), and metastatic disease.
+[[gastric-premalignant-conditions|Gastric premalignant lesions]]/dysplasia, [[gastric-malt-lymphoma|gastric mucosa-associated lymphoid tissue (MALT) lymphoma]], [[gastrointestinal-stromal-tumor|gastrointestinal stromal tumor (GIST)]] and other [[subepithelial-lesion|subepithelial lesions]], gastric [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumors]], [[peptic-ulcer-disease|benign gastric ulcer]] (always biopsy to exclude malignancy), and metastatic disease.
 
 ## Diagnostics
 
-- **[[upper-endoscopy|EGD]] with biopsy** — establishes histology. Biopsy adequacy: obtain **≥7 biopsy samples** of a gastric mass or the heaped-up edges of an ulcer suspicious for malignancy. [[asge-2015-gastric-premalignant]]
-- **[[endoscopic-ultrasound|EUS]]** — locoregional T and N stage.
-- **CT + PET/CT** — distant disease.
+- **[[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] with biopsy** — establishes histology. Biopsy adequacy: obtain **≥7 biopsy samples** of a gastric mass or the heaped-up edges of an ulcer suspicious for malignancy. [[asge-2015-gastric-premalignant]]
+- **[[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]** — locoregional T and N stage.
+- **Computed tomography (CT) + positron emission tomography (PET)/CT** — distant disease.
 - **Diagnostic laparoscopy with peritoneal cytology** — in locally advanced disease, to exclude occult peritoneal spread before committing to a curative-intent plan. [[nccn-2026-gastric-cancer]]
 
 ### Biomarker Testing
@@ -100,28 +100,28 @@ Every systemic-therapy recommendation below is conditional on one of these cutof
 
 | Biomarker | "Positive" defined as | When to test |
 |---|---|---|
-| **HER2 (ERBB2)** | **IHC 3+**, or **IHC 2+ with ISH/FISH-positive** | Advanced/metastatic disease |
-| **PD-L1 (CPS)** | **CPS ≥1**. CPS = PD-L1–stained cells (tumor cells, lymphocytes, macrophages) ÷ total viable tumor cells × 100. **≥100 tumor cells** must be present for the slide to be evaluable | Universal IHC testing in all newly diagnosed patients who are candidates for a PD-1/PD-L1 inhibitor; CLIA-approved lab, companion diagnostic assay |
-| **TAP score** | **TAP ≥1%** — visual determinant of positivity (stained tumor + immune cells ÷ whole tumor area) rather than cell counting. **CPS and TAP have high concordance and may be used interchangeably** (v3.2026), so TAP ≥1% satisfies the CPS ≥1 gate. TPS is **not** used in these guidelines | As for CPS |
-| **Claudin 18.2 (CLDN18.2)** | **≥75% of viable tumor cells** with **moderate-to-strong membranous staining (2+ or 3+ intensity)** by qualitative IHC on FFPE tissue | Untreated unresectable locally advanced, recurrent, or metastatic disease when **zolbetuximab** is being considered |
-| **MSI-H / dMMR** | By IHC/PCR/NGS as per assay | Advanced disease (directs immunotherapy); also triggers consideration of perioperative immunotherapy |
+| **HER2 (ERBB2)** | **immunohistochemistry (IHC) 3+**, or **IHC 2+ with in situ hybridization (ISH)/fluorescence in situ hybridization (FISH)-positive** | Advanced/metastatic disease |
+| **PD-L1 combined positive score (CPS)** | **CPS ≥1**. CPS = PD-L1–stained cells (tumor cells, lymphocytes, macrophages) ÷ total viable tumor cells × 100. **≥100 tumor cells** must be present for the slide to be evaluable | Universal IHC testing in all newly diagnosed patients who are candidates for a PD-1/PD-L1 inhibitor; Clinical Laboratory Improvement Amendments (CLIA)-approved lab, companion diagnostic assay |
+| **Tumor area positivity (TAP) score** | **TAP ≥1%** — visual determinant of positivity (stained tumor + immune cells ÷ whole tumor area) rather than cell counting. **CPS and TAP have high concordance and may be used interchangeably** (v3.2026), so TAP ≥1% satisfies the CPS ≥1 gate. Tumor proportion score (TPS) is **not** used in these guidelines | As for CPS |
+| **Claudin 18.2 (CLDN18.2)** | **≥75% of viable tumor cells** with **moderate-to-strong membranous staining (2+ or 3+ intensity)** by qualitative IHC on formalin-fixed paraffin-embedded (FFPE) tissue | Untreated unresectable locally advanced, recurrent, or metastatic disease when **zolbetuximab** is being considered |
+| **Microsatellite instability–high (MSI-H) / mismatch repair deficient (dMMR)** | By IHC/polymerase chain reaction (PCR)/next-generation sequencing (NGS) as per assay | Advanced disease (directs immunotherapy); also triggers consideration of perioperative immunotherapy |
 
 ## Therapeutics
 
 Stage-directed per [[nccn-2026-gastric-cancer]]:
 
-- **Early (selected T1a) — ESD vs EMR vs surgery is decided by differentiation, ulceration, histologic type, and size** ([[asge-2023-esd]], all recommendations Conditional / low quality):
+- **Early (selected T1a) — endoscopic submucosal dissection (ESD) vs endoscopic mucosal resection (EMR) vs surgery is decided by differentiation, ulceration, histologic type, and size** ([[asge-2023-esd]], all recommendations Conditional / low quality):
 
 | Lesion | Recommendation |
 |---|---|
-| Well- or moderately differentiated, **nonulcerated, intestinal-type** early GAC **<20 mm** | **No recommendation for or against** [[endoscopic-submucosal-dissection\|ESD]] vs [[endoscopic-mucosal-resection\|EMR]] — either is acceptable |
+| Well- or moderately differentiated, **nonulcerated, intestinal-type** early gastric adenocarcinoma (GAC) **<20 mm** | **No recommendation for or against** [[endoscopic-submucosal-dissection\|ESD]] vs [[endoscopic-mucosal-resection\|EMR]] — either is acceptable |
 | Well- or moderately differentiated, nonulcerated, intestinal-type early GAC **20–30 mm** | **ESD over EMR** (en-bloc resection) |
 | Well- or moderately differentiated, intestinal-type early GAC **≤30 mm** | **Against surgery** — resect endoscopically |
 | **Poorly differentiated** early GAC, **any size** | **Surgical evaluation over endoscopic approaches** |
 
-  The **absolute** ESD indication is mucosal (T1a) adenocarcinoma/HGD, **intestinal type, ≤2 cm**; expanded criteria add intestinal-type G1/G2 of any size without ulceration, intestinal-type G1/G2 with submucosal invasion <500 µm, intestinal-type G1/G2 ≤3 cm with ulceration, and diffuse-type G3/G4 ≤2 cm without ulceration. [[asge-2023-esd]]
+  The **absolute** ESD indication is mucosal (T1a) adenocarcinoma/high-grade dysplasia (HGD), **intestinal type, ≤2 cm**; expanded criteria add intestinal-type G1/G2 of any size without ulceration, intestinal-type G1/G2 with submucosal invasion <500 µm, intestinal-type G1/G2 ≤3 cm with ulceration, and diffuse-type G3/G4 ≤2 cm without ulceration. [[asge-2023-esd]]
 
-  **Lymph-node-metastasis risk — the number the indication sets are drawn around** ([[aga-2018-esd-united-states]]):
+  **Lymph-node-metastasis (LNM) risk — the number the indication sets are drawn around** ([[aga-2018-esd-united-states]]):
 
 | Group | LNM risk |
 |---|---|
@@ -130,8 +130,8 @@ Stage-directed per [[nccn-2026-gastric-cancer]]:
 | Expanded subgroup — **undifferentiated mucosal** lesions | **2.6%** |
 | Expanded subgroup — **submucosal** lesions | **2.5%** |
 
-  Those two expanded subgroups are significantly higher than the absolute-criteria risk and must be **balanced against the risk of surgical resection**. **Western risk may exceed Asian**: in a US SEER cohort (1577 patients), **well/moderately differentiated T1a** carried LNM **1.7% at <2 cm**, **<4.5% at <4 cm**, and **20% at ≥4 cm**; **low-grade T1b** began at **8.4% for tumors <1 cm** and rose steeply with size. In the US, ESD should be considered **first-line for visible, endoscopically resectable superficial gastric neoplasia**, and is superior to EMR for lesions **larger than 1 cm** (indistinct margins, relative gastric wall thickness, ESD precision). Technique, specimen handling, and pathology requirements are on [[endoscopic-submucosal-dissection]].
-- **Resectable locally advanced:** **perioperative chemotherapy (FLOT preferred)** with **gastrectomy and D2 lymphadenectomy**. Perioperative/neoadjuvant immunotherapy is considered for **MSI-H/dMMR** tumors (multidisciplinary; **dostarlimab** added as a neoadjuvant option). Gastrectomy remains standard even after radiologic/endoscopic complete response to neoadjuvant immunotherapy, outside prospective organ-preservation trials; if non-operative management is pursued for MSI-H/dMMR disease, immunotherapy continues for **at least 1 year**.
+  Those two expanded subgroups are significantly higher than the absolute-criteria risk and must be **balanced against the risk of surgical resection**. **Western risk may exceed Asian**: in a US Surveillance, Epidemiology, and End Results (SEER) cohort (1577 patients), **well/moderately differentiated T1a** carried LNM **1.7% at <2 cm**, **<4.5% at <4 cm**, and **20% at ≥4 cm**; **low-grade T1b** began at **8.4% for tumors <1 cm** and rose steeply with size. In the US, ESD should be considered **first-line for visible, endoscopically resectable superficial gastric neoplasia**, and is superior to EMR for lesions **larger than 1 cm** (indistinct margins, relative gastric wall thickness, ESD precision). Technique, specimen handling, and pathology requirements are on [[endoscopic-submucosal-dissection]].
+- **Resectable locally advanced:** **perioperative chemotherapy (fluorouracil, leucovorin, oxaliplatin, and docetaxel [FLOT] preferred)** with **gastrectomy and D2 lymphadenectomy**. Perioperative/neoadjuvant immunotherapy is considered for **MSI-H/dMMR** tumors (multidisciplinary; **dostarlimab** added as a neoadjuvant option). Gastrectomy remains standard even after radiologic/endoscopic complete response to neoadjuvant immunotherapy, outside prospective organ-preservation trials; if non-operative management is pursued for MSI-H/dMMR disease, immunotherapy continues for **at least 1 year**.
 - **Unresectable:** definitive chemoradiation/chemotherapy.
 - **Palliation of malignant [[gastric-outlet-obstruction|gastric outlet obstruction]]:** endoscopically placed **self-expanding metal stent (SEMS)** for patients with poor performance status or nonoperable anatomy. [[asge-2015-gastric-premalignant]]
 - **Metastatic / unresectable — biomarker-directed** (positivity cutoffs in [[#Biomarker Testing]]). Backbone is a fluoropyrimidine + platinum (**oxaliplatin preferred over cisplatin** — lower toxicity):
@@ -154,14 +154,14 @@ flowchart TD
     B --> C{"Stage?"}
     C -->|"Early T1a, criteria met"| ER["Endoscopic resection (EMR / ESD)"]
     C -->|"Resectable locally advanced"| PER["Perioperative FLOT<br/>→ gastrectomy + D2 lymphadenectomy"]
-    PER -.->|"MSI-H / dMMR"| IO["Consider perioperative immunotherapy<br/>(e.g., neoadjuvant dostarlimab); MDT"]
+    PER -.->|"MSI-H / dMMR"| IO["Consider perioperative immunotherapy<br/>(e.g., neoadjuvant dostarlimab); multidisciplinary team"]
     C -->|"Unresectable"| UN["Definitive chemoradiation / chemotherapy"]
     C -->|"Metastatic"| M{"Biomarkers"}
     M -->|"HER2+"| H2["1st-line chemo + trastuzumab;<br/>later line trastuzumab deruxtecan (cat 1)"]
     M -->|"HER2-negative"| HN["Chemo + nivolumab/pembrolizumab (by PD-L1 CPS);<br/>+ zolbetuximab if claudin 18.2+;<br/>immunotherapy if MSI-H/dMMR"]
 ```
 
-*Algorithm — NCCN gastric cancer management, recreated in original form (not an NCCN figure). ([[nccn-2026-gastric-cancer]])*
+*Algorithm — National Comprehensive Cancer Network (NCCN) gastric cancer management, recreated in original form (not an NCCN figure). ([[nccn-2026-gastric-cancer]])*
 
 ## See Also
 

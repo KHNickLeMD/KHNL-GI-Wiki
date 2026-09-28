@@ -13,15 +13,15 @@ sources: []
 - **Year:** 2010
 - **Journal/Publisher:** *Gastrointestinal Endoscopy* (ASGE)
 - **DOI:** [10.1016/j.gie.2009.09.042](https://doi.org/10.1016/j.gie.2009.09.042)
-- **Type:** RCT (multicenter, open-label, intention-to-treat; ISRCTN 06702358)
+- **Type:** Randomized controlled trial (RCT; multicenter, open-label, intention-to-treat; ISRCTN 06702358)
 
 ---
 
 ## Summary
 
-Multicenter randomized trial from the Netherlands comparing the two established palliative treatments for **malignant gastric outlet obstruction (GOO)** — open or laparoscopic **surgical gastrojejunostomy (GJJ)** versus **endoscopic duodenal self-expanding metal stent placement**. Twenty-one centers participated; 77 patients were eligible between January 2006 and May 2008, of whom **38 (≈50%) refused randomization because they preferred stenting**, leaving **39 patients randomized (18 GJJ, 21 stent)** from 11 centers. Underlying malignancy was pancreatic in 28 of 39. Follow-up ran to death of every patient; by August 2008 all had died of progressive malignancy.
+Multicenter randomized trial from the Netherlands comparing the two established palliative treatments for **malignant gastric outlet obstruction (GOO)** — open or laparoscopic **surgical gastrojejunostomy (GJJ)** versus **endoscopic duodenal self-expanding metal stent (SEMS) placement**. Twenty-one centers participated; 77 patients were eligible between January 2006 and May 2008, of whom **38 (≈50%) refused randomization because they preferred stenting**, leaving **39 patients randomized (18 GJJ, 21 stent)** from 11 centers. Underlying malignancy was pancreatic in 28 of 39. Follow-up ran to death of every patient; by August 2008 all had died of progressive malignancy.
 
-The trial's central result is a **crossing of the outcome curves over time**. Stenting relieved obstruction faster — median **5 days to a GOOSS score ≥2 versus 8 days for GJJ** — with a shorter hospital stay and lower total cost. But from ~30 days onward, food intake deteriorated in the stent arm, and by 60 days intake was significantly better after GJJ. Adjusted for survival, patients lived a **median of 72 days with GOOSS ≥2 after GJJ versus 50 days after stenting**. Recurrent obstructive symptoms, reinterventions, and late major complications were all more frequent after stenting; **median survival did not differ** (56 vs 78 days) and neither did health-related quality of life.
+The trial's central result is a **crossing of the outcome curves over time**. Stenting relieved obstruction faster — median **5 days to a Gastric Outlet Obstruction Scoring System (GOOSS) score ≥2 versus 8 days for GJJ** — with a shorter hospital stay and lower total cost. But from ~30 days onward, food intake deteriorated in the stent arm, and by 60 days intake was significantly better after GJJ. Adjusted for survival, patients lived a **median of 72 days with GOOSS ≥2 after GJJ versus 50 days after stenting**. Recurrent obstructive symptoms, reinterventions, and late major complications were all more frequent after stenting; **median survival did not differ** (56 vs 78 days) and neither did health-related quality of life.
 
 This time-dependence is what makes the trial a decision rule rather than a winner: the authors conclude that **prognosis, not procedure preference, should select the treatment** — stent if expected survival is **less than 2 months**, GJJ if **2 months or longer**. That threshold is the operative output of the study and is the rule carried forward as standard of care in the later [[kastelijn-2023-enduro-protocol|ENDURO]] protocol.
 
@@ -31,7 +31,7 @@ This time-dependence is what makes the trial a decision rule rather than a winne
 
 ## Key Findings / Claims
 
-**GOOSS — Gastric Outlet Obstruction Scoring System (the trial's food-intake instrument, given in full):**
+**GOOSS (the trial's food-intake instrument, given in full):**
 
 | Score | Oral intake |
 |---|---|
@@ -45,10 +45,10 @@ This time-dependence is what makes the trial a decision rule rather than a winne
 
 | Inclusion | Exclusion |
 |---|---|
-| Obstructing cancer extending from the **distal one third of the stomach to the distal duodenum** | Evidence of **other strictures** in the GI tract |
+| Obstructing cancer extending from the **distal one third of the stomach to the distal duodenum** | Evidence of **other strictures** in the gastrointestinal (GI) tract |
 | **GOOSS score 0 or 1** (no oral intake, or liquids only) | Previous gastric, periampullary, or duodenal surgery |
 | Unresectable or metastatic disease | Previous GJJ or stent placement as palliation for the same condition |
-| | **WHO performance score of 4** (bedbound 100% of the time) |
+| | **World Health Organization (WHO) performance score of 4** (bedbound 100% of the time) |
 | | Unable to complete quality-of-life questionnaires |
 
 **Interventions:**
@@ -63,7 +63,7 @@ This time-dependence is what makes the trial a decision rule rather than a winne
 | Food intake at 60 days | **Better** | Worse | .05 |
 | Median days alive with GOOSS ≥2 (survival-adjusted) | **72** | 50 | .05 |
 | Median hospital stay, days | 15 | **7** | .04 |
-| Median survival, days | 78 | 56 | .19 (NS) |
+| Median survival, days | 78 | 56 | .19 (not significant [NS]) |
 | Health-related quality of life | No difference between arms | | NS |
 | Pain score decline | Slower | **Faster** | .02 |
 
@@ -85,7 +85,7 @@ This time-dependence is what makes the trial a decision rule rather than a winne
 - **Definitions used:** *persistent* obstructive symptoms = continuing up to or within 4 weeks of treatment; *recurrent* = occurring more than 4 weeks after treatment; *major complication* = life-threatening or severe, requiring treatment and/or hospitalization; *early* <7 days, *late* ≥7 days.
 - Stent reinterventions were endoscopic cleansing (4 patients), second stent (4), and GJJ (2). The 2 GJJ reinterventions were endoscopies that found no indication for further treatment.
 
-**Biliary access is a real consideration:** a duodenal stent placed **across the ampulla of Vater can block ERCP access to the bile duct**. Of the 4 stent-arm patients who developed CBD obstruction after stenting, only 1 was managed endoscopically; 2 required percutaneous biliary drainage. The authors highlight considering CBD stent placement up front. Biliary treatment was common in both arms overall (GJJ 14/18, stent 16/21).
+**Biliary access is a real consideration:** a duodenal stent placed **across the ampulla of Vater can block endoscopic retrograde cholangiopancreatography (ERCP) access to the bile duct**. Of the 4 stent-arm patients who developed common bile duct (CBD) obstruction after stenting, only 1 was managed endoscopically; 2 required percutaneous biliary drainage. The authors highlight considering CBD stent placement up front. Biliary treatment was common in both arms overall (GJJ 14/18, stent 16/21).
 
 **Costs (US$, average per patient):**
 
@@ -120,5 +120,5 @@ Higher GJJ cost is driven almost entirely by the longer initial hospital stay. T
 - **The multiple-testing caveat is load-bearing.** By the authors' own statement, Bonferroni correction would strip significance from every finding except those at P < .001 — i.e. only the initial hospital-stay and initial-treatment cost differences. The efficacy and reintervention differences should be read as descriptive, hypothesis-generating signals, not established effects.
 - **The surgical comparator is dated.** 16 of 18 GJJ patients had an **open** operation; the authors note laparoscopic GJJ likely has better short-term outcomes and call for a trial comparing the two. Applying this trial's 8-day time-to-eating and 15-day hospital stay to a modern laparoscopic GJJ overstates the surgical penalty.
 - **Selection bias toward stenting:** ≈50% of eligible patients declined randomization because they preferred a stent, so the randomized population is not the full eligible population.
-- **Superseded comparator question, unresolved.** Neither arm of this trial is EUS-guided gastroenterostomy, which did not exist clinically in 2006–2008. [[kastelijn-2023-enduro-protocol|ENDURO]] is the trial designed to answer whether EUS-GE beats surgical GJJ — but it is a **protocol with no results**, so there are **no outcome data** on EUS-GE versus surgery here. The 2-month rule below therefore stands by default, not by comparison.
+- **Superseded comparator question, unresolved.** Neither arm of this trial is endoscopic ultrasound (EUS)-guided gastroenterostomy (EUS-GE), which did not exist clinically in 2006–2008. [[kastelijn-2023-enduro-protocol|ENDURO]] is the trial designed to answer whether EUS-GE beats surgical GJJ — but it is a **protocol with no results**, so there are **no outcome data** on EUS-GE versus surgery here. The 2-month rule below therefore stands by default, not by comparison.
 - **Benign GOO is out of scope here.** For benign (usually peptic) GOO the governing source is the tier-1 [[asge-2010-pud]], which recommends endoscopy for evaluation (High) and suggests balloon dilation (Low). This trial says nothing about benign disease.

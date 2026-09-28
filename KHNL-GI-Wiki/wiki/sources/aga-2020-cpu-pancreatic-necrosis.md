@@ -18,7 +18,7 @@ sources: []
 - **DOI:** [10.1053/j.gastro.2019.07.064](https://doi.org/10.1053/j.gastro.2019.07.064)
 - **Type:** guideline — AGA Institute Clinical Practice Update: Expert Review (15 Best Practice Advice statements)
 
-**Methods note:** commissioned and approved by the AGA Institute Clinical Practice Updates Committee and the AGA Governing Board; internal peer review by the CPU Committee and external peer review through standard *Gastroenterology* procedures. The 15 Best Practice Advice points were agreed by the authors and reflect landmark and recent published articles **plus the authors' own experience** as advanced endoscopists and hepatopancreatobiliary surgeons. **Not a formally graded (GRADE) guideline** — the BPA statements carry no individual evidence grades.
+**Methods note:** commissioned and approved by the American Gastroenterological Association (AGA) Institute Clinical Practice Updates (CPU) Committee and the AGA Governing Board; internal peer review by the CPU Committee and external peer review through standard *Gastroenterology* procedures. The 15 Best Practice Advice (BPA) points were agreed by the authors and reflect landmark and recent published articles **plus the authors' own experience** as advanced endoscopists and hepatopancreatobiliary surgeons. **Not a formally graded (Grading of Recommendations Assessment, Development and Evaluation [GRADE]) guideline** — the BPA statements carry no individual evidence grades.
 
 ---
 
@@ -28,9 +28,9 @@ Acute pancreatitis is mostly mild and self-limited, but **10%–20% of cases dev
 
 The central shift the document records is from **major surgical debridement as the mainstay** to a **minimally invasive, step-up** philosophy built on percutaneous and/or endoscopic drainage. Two things drive every decision: **whether the necrosis is infected** (the group with the highest risk of death, and the clearest indication for drainage) and **how far into the illness the patient is** (debridement in the first 2 weeks carries higher morbidity and mortality; 4 weeks is the target).
 
-On antibiotics, the update is firmly against prophylaxis: multiple randomised placebo-controlled trials show prophylactic broad-spectrum antibiotics in severe necrotizing pancreatitis have **no impact** on infected necrosis, systemic complications, mortality, or need for surgery. Antifungals likewise are not routinely recommended, and **CT-guided FNA for Gram stain and culture is unnecessary in the vast majority of cases** — false negatives occur and there is a theoretical risk of contaminating a sterile collection. Its one useful niche is guiding antibiotic selection in a patient deteriorating despite treatment.
+On antibiotics, the update is firmly against prophylaxis: multiple randomised placebo-controlled trials show prophylactic broad-spectrum antibiotics in severe necrotizing pancreatitis have **no impact** on infected necrosis, systemic complications, mortality, or need for surgery. Antifungals likewise are not routinely recommended, and **computed tomography (CT)–guided fine-needle aspiration (FNA) for Gram stain and culture is unnecessary in the vast majority of cases** — false negatives occur and there is a theoretical risk of contaminating a sterile collection. Its one useful niche is guiding antibiotic selection in a patient deteriorating despite treatment.
 
-On nutrition, "pancreatic rest" is treated as disproven. Enteral feeding is initiated **early** to reduce infected necrosis, with a trial of oral nutrition **immediately** in patients without nausea/vomiting/ileus/obstruction, and nasogastric or nasojejunal feeding otherwise — the routes are equivalent for infectious complications, pain, inflammatory markers, and analgesia requirements, so the easier-to-place nasogastric/nasoduodenal tube is favoured. TPN is a fallback only.
+On nutrition, "pancreatic rest" is treated as disproven. Enteral feeding is initiated **early** to reduce infected necrosis, with a trial of oral nutrition **immediately** in patients without nausea/vomiting/ileus/obstruction, and nasogastric (NG) or nasojejunal (NJ) feeding otherwise — the routes are equivalent for infectious complications, pain, inflammatory markers, and analgesia requirements, so the easier-to-place nasogastric/nasoduodenal tube is favoured. Total parenteral nutrition (TPN) is a fallback only.
 
 The interventional sections lay out percutaneous drainage, endoscopic transmural drainage and direct endoscopic necrosectomy (DEN), the minimally invasive and open surgical approaches, and **disconnected pancreatic duct syndrome (DPDS)** — where the standard treatment is operative resection of the disconnected pancreas, and long-term transenteric endoscopic stenting is explicitly declared unsupported by sufficient evidence.
 
@@ -60,11 +60,11 @@ The interventional sections lay out percutaneous drainage, endoscopic transmural
 
 - **10%–20%** of acute pancreatitis cases develop necrosis of the gland, peripancreatic tissue, or both.
 - **Mortality up to 20%–30%** if infection develops in the necrotic collection; infection of pancreatic necrosis carries mortality **as high as 30%**.
-- Existing evidence-based AP guidelines: **Grade 1A** evidence for an initial minimally invasive drainage approach to infected WON; only **Grade 1C** for appropriate indications and timing of interventions; **Grade 2C** for intervention in sterile necrosis.
+- Existing evidence-based acute pancreatitis (AP) guidelines: **Grade 1A** evidence for an initial minimally invasive drainage approach to infected WON; only **Grade 1C** for appropriate indications and timing of interventions; **Grade 2C** for intervention in sterile necrosis.
 
 ### Antimicrobial therapy — detail
 
-- **Suspect infected necrosis when cross-sectional imaging shows gas** in a pancreatic or peripancreatic collection. Other indicators: fever, bacteremia, worsening leukocytosis, persistent unwellness, clinical deterioration — **all of which overlap with SIRS, ongoing pancreatitis, or cholangitis**, so clinical parameters alone often cannot distinguish infected necrosis.
+- **Suspect infected necrosis when cross-sectional imaging shows gas** in a pancreatic or peripancreatic collection. Other indicators: fever, bacteremia, worsening leukocytosis, persistent unwellness, clinical deterioration — **all of which overlap with systemic inflammatory response syndrome (SIRS), ongoing pancreatitis, or cholangitis**, so clinical parameters alone often cannot distinguish infected necrosis.
 - Agents with good pancreatic penetration: **carbapenems, quinolones, metronidazole, and third- or higher-generation cephalosporins.**
 - **Prophylaxis does not work:** multiple prospective randomised placebo-controlled trials in severe acute necrotizing pancreatitis show prophylactic broad-spectrum antibiotics have **no impact on rates of infected necrosis, systemic complications, mortality, or need for surgical intervention**.
 - **Antifungal prophylaxis** — lack of supporting evidence; routine administration not recommended.
@@ -89,9 +89,9 @@ The interventional sections lay out percutaneous drainage, endoscopic transmural
 
 - **Route:** small prospective randomised studies show **nasogastric is not inferior to nasojejunal** for infectious complications, pain, inflammatory markers, or analgesia requirements. Either is acceptable; **nasogastric/nasoduodenal tubes are easier to place and maintain.**
 - **Endoscopic feeding-tube placement** if nasoenteric feeding is not tolerated (e.g. nasal irritation) and/or **long-term TEN anticipated (>30 days)**:
-  - tolerates gastric feeds → **PEG**
-  - cannot tolerate gastric feeds and/or high aspiration risk → **direct PEJ**
-  - gastric outlet obstruction, delayed gastric emptying, and/or prolonged ileus → **PEG-J** (allows on-demand gastric decompression plus downstream enteral nutrition)
+  - tolerates gastric feeds → **percutaneous endoscopic gastrostomy (PEG)**
+  - cannot tolerate gastric feeds and/or high aspiration risk → **direct percutaneous endoscopic jejunostomy (PEJ)**
+  - gastric outlet obstruction, delayed gastric emptying, and/or prolonged ileus → **PEG with jejunal extension (PEG-J)** (allows on-demand gastric decompression plus downstream enteral nutrition)
 - **TPN retains a role:** luminal obstruction or severe dysmotility preventing TEN; inability to tolerate a nasal tube with a leak/infection at a percutaneous feeding-tube site; inability to reach goal caloric needs enterally.
 
 ### Percutaneous drainage — detail
@@ -99,7 +99,7 @@ The interventional sections lay out percutaneous drainage, endoscopic transmural
 - **Percutaneous drainage monotherapy may be definitive** in a subset: a large prospective multicenter observational cohort found **35% needed no further intervention**; two randomised trials found percutaneous drainage alone successful in **35%** and **51%**.
 - **Use it when endoscopic drainage is unavailable, unsuccessful, or not technically feasible.**
 - **Necrosis extending into the paracolic gutters and/or pelvis:** dependent portions will not drain through superiorly located transmural endoscopic stents — percutaneous catheters into the retroperitoneum/pelvis drain these and permit bedside irrigation and clearance.
-- **Catheter sizes 8F to 24F** used adjunctively with endoscopic drainage/debridement improve outcomes. **A 24F or larger drain reduces the need for dissection at VARD.**
+- **Catheter sizes 8F to 24F** used adjunctively with endoscopic drainage/debridement improve outcomes. **A 24F or larger drain reduces the need for dissection at video-assisted retroperitoneal debridement (VARD).**
 - The tract itself becomes an **entry portal** for other minimally invasive debridement (VARD, endoscopic sinus tract debridement).
 - **Early phase (<2–4 weeks) with suspected/confirmed infected necrosis, no walled-off collection, failing conservative management** → percutaneous drainage gives safe, effective source control.
 - **Major downside — pancreatocutaneous fistula.** One large prospective study: fistula rate significantly higher with percutaneous/VARD than endoscopic drainage (**32% vs 5%; P<.01**). **The risk can be eliminated** by combining percutaneous drainage with simultaneous endoscopic drainage using 2 double-pigtail stents.
@@ -107,10 +107,10 @@ The interventional sections lay out percutaneous drainage, endoscopic transmural
 ### Endoscopic drainage and necrosectomy — detail
 
 - **Access route by location:** collections at the **pancreatic head → transduodenal**; others → **transgastric**. No advantage of one over the other for success or safety; **transgastric is used most often** and gives the most direct access if necrosectomy is performed.
-- **EUS guidance:** large randomised trials of EUS vs non-EUS transmural drainage are lacking, but **most experts agree EUS-guided transmural entry is safer, particularly for avoiding bleeding.**
+- **Endoscopic ultrasound (EUS) guidance:** large randomised trials of EUS vs non-EUS transmural drainage are lacking, but **most experts agree EUS-guided transmural entry is safer, particularly for avoiding bleeding.**
 - **Stents:**
-  - **Large-diameter SEMS (15 mm)** give better egress of necrotic material than plastic stents and allow endoscopic access for necrosectomy.
-  - **LAMS** (a type of SEMS) — increasingly used; **short length (1 cm)** suits the application better than covered esophageal SEMS (usually no shorter than 6–7 cm).
+  - **Large-diameter self-expandable metal stents (SEMS; 15 mm)** give better egress of necrotic material than plastic stents and allow endoscopic access for necrosectomy.
+  - **Lumen-apposing metal stents (LAMS)** (a type of SEMS) — increasingly used; **short length (1 cm)** suits the application better than covered esophageal SEMS (usually no shorter than 6–7 cm).
   - **Cautery-enhanced delivery systems** decrease technical difficulty, avoid tract dilation, shorten procedure time, and may obviate adjunctive debridement — **however a recent randomised trial did not show superiority to plastic stents.**
   - Some endoscopists place **double-pigtail plastic stents through the LAMS** to reduce early occlusion by necrotic tissue and LAMS migration.
 - **Duration:** plastic stents may remain until the collection resolves on cross-sectional imaging, and **potentially indefinitely to prevent disconnected duct syndrome** when the main pancreatic duct is disrupted. **Concern for leaving LAMS beyond several weeks — delayed bleeding**; SEMS of any type should not remain long-term.
@@ -134,7 +134,7 @@ The interventional sections lay out percutaneous drainage, endoscopic transmural
 
 ### Disconnected pancreatic duct syndrome (DPDS)
 
-- **Mechanism:** necrosis and disruption of the main pancreatic duct leaves **no continuity between the duct in the left-sided pancreas (body/tail) and the GI lumen**, producing a persistent pancreatic fistula, most often presenting as a peripancreatic fluid collection.
+- **Mechanism:** necrosis and disruption of the main pancreatic duct leaves **no continuity between the duct in the left-sided pancreas (body/tail) and the gastrointestinal (GI) lumen**, producing a persistent pancreatic fistula, most often presenting as a peripancreatic fluid collection.
 - **Standard treatment: operative resection of the disconnected pancreas.**
   - **Distal pancreatectomy in the subacute setting (first 30–60 days of illness), concurrent with debridement** — relatively high periprocedural morbidity (perioperative transfusion, postoperative pancreatic fistula, increased length of stay, readmission) but a **single procedure and a concise overall disease course**.
   - **Alternative:** initial percutaneous/endoscopic/minimally invasive surgical management with **planned elective distal pancreatectomy several months later**, once physiology has recovered.
@@ -149,7 +149,7 @@ The interventional sections lay out percutaneous drainage, endoscopic transmural
 
 ### Figures in the source
 
-- **Figure 1** — flow diagram, suggested nutritional management of severe acute pancreatitis and necrosis (GOO, NG, NJ, PEG, PEG-J, PEJ).
+- **Figure 1** — flow diagram, suggested nutritional management of severe acute pancreatitis and necrosis (gastric outlet obstruction [GOO], NG, NJ, PEG, PEG-J, PEJ).
 - **Figure 2** — flow diagram, suggested approach to endoscopic management of WON in a patient with a strong indication for drainage/debridement.
 - **Figure 3** — decision tree, acute- and late-phase management including the multidisciplinary approach to drainage/debridement.
 - **Supplementary Figure 1** — revised classification of pancreatic fluid collections. **Supplementary Figure 2** — DPDS recognition/decision-making.
@@ -160,14 +160,14 @@ The interventional sections lay out percutaneous drainage, endoscopic transmural
 
 - **[[acute-pancreatitis]]** — the home page for necrosis management (§*Necrotizing Pancreatitis*). This source supplies the drainage-route choice (percutaneous vs transmural endoscopic), stent selection (LAMS vs plastic), when direct endoscopic necrosectomy is indicated, the minimally invasive surgical menu, and disconnected pancreatic duct syndrome. **No separate `pancreatic-necrosis` page exists or should be created** — necrosis is covered in depth on [[acute-pancreatitis]] and a second page would duplicate it. Where this 2020 CPU overlaps [[acg-2024-acute-pancreatitis]] (prophylactic antibiotics, FNA, the 4-week delay, step-up sequencing), the newer graded guideline governs the page.
 - **[[endoscopic-ultrasound]]** — EUS-guided transmural entry for WON drainage and for temporizing DPDS.
-- **[[ercp]]**, **[[asge-2016-pancreatic-fluid-collections]]** — pancreatic fluid collection nomenclature and endoscopic drainage technique.
+- **[[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]**, **[[asge-2016-pancreatic-fluid-collections]]** — pancreatic fluid collection nomenclature and endoscopic drainage technique.
 - **[[recurrent-acute-pancreatitis]]** — listed in BPA 5 as an indication for drainage/debridement of sterile necrosis.
 
 ---
 
 ## Contradictions / Open Questions
 
-- **CT-guided FNA — agreement, differently framed.** This CPU says FNA "is unnecessary in the majority of cases" (BPA 3); [[acg-2024-acute-pancreatitis]] Rec 9 goes further and formally suggests **against** FNA in suspected infected necrosis. No conflict, but ACG 2024 is the newer and formally graded statement; the entity pages follow ACG's version and record the AGA framing plus its one named exception (guiding antibiotic selection in a patient deteriorating despite antibiotics).
+- **CT-guided FNA — agreement, differently framed.** This CPU says FNA "is unnecessary in the majority of cases" (BPA 3); [[acg-2024-acute-pancreatitis]] Rec 9 goes further and formally suggests **against** FNA in suspected infected necrosis. No conflict, but American College of Gastroenterology (ACG) 2024 is the newer and formally graded statement; the entity pages follow ACG's version and record the AGA framing plus its one named exception (guiding antibiotic selection in a patient deteriorating despite antibiotics).
 - **LAMS vs plastic stents is internally inconsistent in this document.** BPA 9 states SEMS/LAMS "appear to be superior to plastic stents", while the body text notes that **"a recent randomized trial did not show superiority to plastic stents."** The BPA reflects expert opinion; the randomised evidence quoted alongside it does not support superiority. Recorded as an open question, not a settled recommendation.
 - **Timing of debridement — "4 weeks" is an extrapolation.** The document is explicit that the traditional 4-week wait came from the surgical literature, that endoscopic step-up and DEN **<4 weeks are clinically possible when indicated**, and simultaneously that patients who **could** wait 4 weeks had lower mortality — which is at least partly selection by illness severity. BPA 6 resolves it operationally (avoid first 2 weeks; optimally delay to 4 weeks; earlier only with an organized collection **and** a strong indication) but the underlying evidence is weak.
 - **Not a graded guideline.** BPA statements carry no GRADE strength or evidence quality, and the authors state the statements reflect their own experience as well as the literature. Where a formally graded guideline covers the same ground — e.g. [[acg-2024-acute-pancreatitis]] on prophylactic antibiotics and FNA — the graded statement is what the entity pages assert.

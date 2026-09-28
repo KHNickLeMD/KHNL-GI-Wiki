@@ -14,11 +14,11 @@ sources: []
 - **Year:** 2025 (received 15 October 2024; accepted 12 March 2025)
 - **Journal:** *American Journal of Gastroenterology* 2025;120:1225–1264
 - **DOI:** [10.14309/ajg.0000000000003465](https://doi.org/10.14309/ajg.0000000000003465)
-- **Type:** Clinical guideline (ACG) — **35 numbered GRADE recommendations (Table 1)** + **59 numbered Key Concept statements (Table 2)**. Key concepts carry **no evidence-based rating**; they were developed from expert opinion of the literature where GRADE was not feasible.
+- **Type:** Clinical guideline (American College of Gastroenterology [ACG]) — **35 numbered Grading of Recommendations Assessment, Development and Evaluation (GRADE) recommendations (Table 1)** + **59 numbered Key Concept statements (Table 2)**. Key concepts carry **no evidence-based rating**; they were developed from expert opinion of the literature where GRADE was not feasible.
 
 ## Summary
 
-Comprehensive ACG update on management of Crohn's disease in adults. Major additions vs the prior guideline: risankizumab, mirikizumab, and guselkumab (anti-IL-23 p19) recommended for induction and maintenance; upadacitinib (JAK-1 inhibitor) recommended for patients previously exposed to anti-TNF agents; subcutaneous infliximab and subcutaneous vedolizumab added as maintenance options; PROFILE trial data supporting early advanced therapy; SEQUENCE trial data supporting risankizumab over ustekinumab after anti-TNF exposure.
+Comprehensive ACG update on management of Crohn's disease (CD) in adults. Major additions vs the prior guideline: risankizumab, mirikizumab, and guselkumab (anti-interleukin-23 [IL-23] p19) recommended for induction and maintenance; upadacitinib (Janus kinase 1 [JAK-1] inhibitor) recommended for patients previously exposed to anti-tumor necrosis factor (anti-TNF) agents; subcutaneous infliximab and subcutaneous vedolizumab added as maintenance options; PROFILE trial data supporting early advanced therapy; SEQUENCE trial data supporting risankizumab over ustekinumab after anti-TNF exposure.
 
 GRADE terminology used by the document: a **strong** recommendation is made when benefits clearly outweigh undesirable effects or the result of no action; **conditional** is used when uncertainty remains regarding the balance of benefits and harms, either because of low-quality evidence or a suggested balance between desirable and undesirable effects. Evidence quality is graded **high → moderate → low → very low**.
 
@@ -40,9 +40,9 @@ GRADE terminology used by the document: a **strong** recommendation is made when
 | 7 | Oral corticosteroids for short-term induction of remission in moderately to severely active CD | Strong | Low |
 | 8 | **Against** azathioprine (**1.5–2.5 mg/kg/d**) and 6-mercaptopurine (**0.75–1.5 mg/kg/d**) for **induction** of remission in moderately to severely active CD | Strong | Moderate |
 | 9 | Suggest azathioprine (1.5–2.5 mg/kg/d) and 6-mercaptopurine (0.75–1.5 mg/kg/d) for **maintenance** of remission in patients who had induction of remission with corticosteroids | Conditional | Low |
-| 10 | TPMT testing before initial use of azathioprine or 6-mercaptopurine | Strong | Low |
-| 11 | Suggest methotrexate (**up to 25 mg once weekly IM or SC**) for maintenance of remission in patients who had induction of remission with corticosteroids | Conditional | Moderate |
-| 12 | Anti-TNF agents (**IV infliximab, SC adalimumab, SC certolizumab pegol**) for induction and maintenance of remission | Strong | Moderate |
+| 10 | TPMT [thiopurine methyltransferase] testing before initial use of azathioprine or 6-mercaptopurine | Strong | Low |
+| 11 | Suggest methotrexate (**up to 25 mg once weekly IM [intramuscular] or SC [subcutaneous]**) for maintenance of remission in patients who had induction of remission with corticosteroids | Conditional | Moderate |
+| 12 | Anti-TNF agents (**IV [intravenous] infliximab, SC adalimumab, SC certolizumab pegol**) for induction and maintenance of remission | Strong | Moderate |
 | 13 | Combination therapy of IV infliximab with immunomodulators (thiopurines) vs either immunomodulators alone or IV infliximab alone in patients **naive to those agents** | Strong | Moderate |
 | 14 | SC infliximab as an option for maintenance in patients who respond to IV induction with infliximab | Strong | Moderate |
 | 15 | IV vedolizumab for induction and maintenance of **symptomatic** remission | Strong | Moderate |
@@ -82,7 +82,7 @@ GRADE terminology used by the document: a **strong** recommendation is made when
 
 4. CD, in most cases, is a chronic, progressive, destructive disease.
 5. The location of CD tends to be stable but can occasionally extend.
-6. Most, but not all, patients present with nonpenetrating, nonstricturing behavior, but up to half would have developed an intestinal complication (stricture, abscess, fistula, or phlegmon) within 20 yr of diagnosis. Ileal, ileocolonic, or proximal GI involvement is significantly more likely than isolated colonic disease to progress to an intestinal complication. Extensive anatomic involvement and deep ulcerations are other risk factors.
+6. Most, but not all, patients present with nonpenetrating, nonstricturing behavior, but up to half would have developed an intestinal complication (stricture, abscess, fistula, or phlegmon) within 20 yr of diagnosis. Ileal, ileocolonic, or proximal GI [gastrointestinal] involvement is significantly more likely than isolated colonic disease to progress to an intestinal complication. Extensive anatomic involvement and deep ulcerations are other risk factors.
 7. Features associated with high risk for progressive disease burden: young age at diagnosis, initial extensive bowel involvement, ileal/ileocolonic involvement, perianal/severe rectal disease, extraintestinal manifestations at diagnosis, and penetrating or stenosis phenotype at presentation.
 8. Over long periods of observation, only 20%–30% of patients will have a nonprogressive or indolent course; most will require therapies that achieve adequate control of bowel inflammation.
 9. Symptoms do not correlate well with active inflammation and should not be the sole guide for therapy. Objective evaluation by endoscopic or cross-sectional imaging should be undertaken periodically.
@@ -96,7 +96,7 @@ GRADE terminology used by the document: a **strong** recommendation is made when
 
 **Intestinal malignancy**
 
-17. Patients with colonic involvement are at increased risk of colorectal cancer; risk factors include duration of disease, extent of colonic involvement, PSC, family history of colorectal cancer, and severity of ongoing colonic inflammation.
+17. Patients with colonic involvement are at increased risk of colorectal cancer; risk factors include duration of disease, extent of colonic involvement, PSC [primary sclerosing cholangitis], family history of colorectal cancer, and severity of ongoing colonic inflammation.
 18. Patients with small bowel involvement are at increased risk of small bowel adenocarcinoma that can be difficult to diagnose preoperatively.
 
 **Diagnosis**
@@ -105,22 +105,22 @@ GRADE terminology used by the document: a **strong** recommendation is made when
 20. In patients with symptoms of active CD, stool testing should include fecal pathogens, *[[clostridioides-difficile\|Clostridioides difficile]]* testing, and studies that identify gut inflammation such as fecal calprotectin.
 21. Genetic testing is not indicated to establish the diagnosis of CD.
 22. Genetic variants including HLA-DQA1\*05, HLA-DRB1\*03, nudix hydrolase 15, and thiopurine methyltransferase can affect treatment response and identify risks for adverse drug effects; they are clinically useful and should be measured in select patients.
-23. Routine use of serologic markers of IBD to establish the diagnosis of CD is not indicated.
+23. Routine use of serologic markers of IBD [inflammatory bowel disease] to establish the diagnosis of CD is not indicated.
 24. Ileocolonoscopy with biopsies should be performed in the assessment of patients with suspected CD.
 25. Disease distribution and severity should be documented at diagnosis. Biopsies of uninvolved mucosa are recommended to identify extent of histologic disease. Photography documentation of the ileum should be included.
 26. [[upper-endoscopy\|Upper endoscopy]] should be performed in patients with upper GI complaints.
 27. Video capsule endoscopy is a useful adjunct in diagnosis of small bowel CD when there is a high index of suspicion.
 28. Patients with obstructive symptoms should have small bowel imaging and/or patency capsule evaluation before video capsule endoscopy to decrease risk of capsule retention.
 29. Small bowel imaging should be performed as part of the initial diagnostic workup for suspected CD.
-30. CT enterography is sensitive for detection of small bowel disease and is comparable with MR enterography.
+30. CT [computed tomography] enterography is sensitive for detection of small bowel disease and is comparable with MR [magnetic resonance] enterography.
 31. Because of absence of radiation exposure, MR enterography should be used preferentially in young patients (younger than 35 yr) and in patients likely to need serial examinations.
 32. Intestinal ultrasound offers a noninvasive, radiation-free method of assessing bowel wall, mesentery, and adjacent structures and is an adjunct to diagnosis and monitoring response to therapy.
-33. Cross-sectional imaging with MRI of the pelvis and/or [[endoscopic-ultrasound\|endoscopic ultrasound]] may be used to further characterize perianal CD and perirectal abscesses.
+33. Cross-sectional imaging with MRI [magnetic resonance imaging] of the pelvis and/or [[endoscopic-ultrasound\|endoscopic ultrasound]] may be used to further characterize perianal CD and perirectal abscesses.
 34. If an intra-abdominal abscess is suspected, cross-sectional imaging of the abdomen and pelvis should be performed.
 
 **Disease modifiers**
 
-35. NSAIDs may exacerbate disease activity; routine use should be viewed with caution.
+35. NSAIDs [nonsteroidal anti-inflammatory drugs] may exacerbate disease activity; routine use should be viewed with caution.
 36. Cigarette smoking exacerbates disease activity and accelerates disease recurrence. Active smokers should be counseled regarding smoking cessation.
 37. Assessment and management of stress, depression, and anxiety is recommended as part of comprehensive care because of increased risks of disease activity and health care utilization.
 
@@ -173,7 +173,7 @@ GRADE terminology used by the document: a **strong** recommendation is made when
 | Mirikizumab | 900 mg at weeks 0, 4, 8 | 300 mg SC every 4 weeks from week 12 |
 | Guselkumab IV→SC | 200 mg IV at weeks 0, 4, 8 | 100 mg SC every 8 weeks starting week 16 |
 | Guselkumab SC→SC | 400 mg SC every 4 weeks | 100 mg SC every 8 weeks, or 200 mg SC every 4 weeks |
-| Upadacitinib | 45 mg PO daily × 12 weeks | 15 mg or 30 mg daily; **30 mg preferred** in more progressive, debilitating, or treatment-refractory (e.g., anti-TNF–experienced) disease |
+| Upadacitinib | 45 mg by mouth (PO) daily × 12 weeks | 15 mg or 30 mg daily; **30 mg preferred** in more progressive, debilitating, or treatment-refractory (e.g., anti-TNF–experienced) disease |
 | Metronidazole (postoperative) | — | 1–2 g/d after small intestinal resection |
 
 Antibiotic dosing for simple, superficial perianal fistulas: metronidazole 10–20 mg/kg/d orally for 4–8 weeks, and/or ciprofloxacin 500 mg twice daily for 4–8 weeks, or levofloxacin 500–750 mg once daily for 4–8 weeks.
@@ -186,12 +186,12 @@ Antibiotic dosing for simple, superficial perianal fistulas: metronidazole 10–
 
 ### Working definitions of disease activity
 
-- **Clinical remission** — CDAI <150; asymptomatic or without symptomatic inflammatory sequelae such as increased stool frequency or abdominal pain
+- **Clinical remission** — Crohn's Disease Activity Index (CDAI) <150; asymptomatic or without symptomatic inflammatory sequelae such as increased stool frequency or abdominal pain
 - **Endoscopic remission** — absence of ulceration with minimal mucosal abnormalities on ileocolonoscopy
 - **Histologic remission** — absence of inflammatory cells, particularly neutrophils, on mucosal biopsy
 - **Surgical remission** — status post surgery (e.g., ileocolonic resection) with no residual active disease on postoperative endoscopic assessment
 - **Steroid-dependent** — requires conventional corticosteroids to achieve clinical well-being; not considered remission
-- **SES-CD bands** — 0–2 endoscopic remission · 3–6 mild · 7–15 moderate · >15 severe
+- **Simple Endoscopic Score for Crohn's Disease (SES-CD) bands** — 0–2 endoscopic remission · 3–6 mild · 7–15 moderate · >15 severe
 - Severity bands: mild disease = no systemic toxicity, biomarkers normal to slightly elevated, only limited anatomic involvement with scattered aphthous erosions or few superficial ulcers, no severe lesions/strictures/fistulizing/perianal disease; moderate–severe = failed treatment for mild–moderate disease or more prominent symptoms (fever, significant weight loss, abdominal pain/tenderness, intermittent nausea or vomiting), abnormal inflammation biomarkers, larger/deeper ulcers or extensive disease; severe/fulminant = persistent symptoms despite conventional corticosteroids and/or advanced therapy, or high fevers, intestinal obstruction, significant peritoneal signs, cachexia, or abscess
 
 ### Therapeutic drug monitoring (anti-TNF)
@@ -210,15 +210,15 @@ Antibiotic dosing for simple, superficial perianal fistulas: metronidazole 10–
 - **SEAVUE:** ustekinumab vs adalimumab monotherapy in bio-naive CD — both highly effective, **no significant difference** in clinical remission at week 52
 - **SEQUENCE** (527 patients who failed an anti-TNF): risankizumab **noninferior** to ustekinumab for clinical remission at week 24 (59% vs 40%) and **superior** for endoscopic remission at week 48 (**32% vs 16%**); serious adverse events 10.3% vs 17.4%
 - **LIBERTY:** SC infliximab maintenance vs placebo after standard IV induction — clinical remission at week 54 **62% vs 32%**; endoscopic response in over 50% vs 18%
-- **VISIBLE 2:** SC vedolizumab 108 mg q2wk superior to placebo for maintenance of clinical remission
+- **VISIBLE 2:** SC vedolizumab 108 mg every 2 weeks (q2wk) superior to placebo for maintenance of clinical remission
 - **REPRIVIO:** vedolizumab within 4 weeks of ileocolonic resection — severe endoscopic recurrence at week 26 in **23.3% vs 62.2%** placebo (*P* = 0.0004)
-- **ORAL Surveillance:** tofacitinib vs TNF inhibitor in rheumatoid arthritis — MACE HR 1.33 (95% CI 0.91–1.94), cancers HR 1.48 (95% CI 1.04–2.09); this study influenced US regulators to mandate prior anti-TNF exposure before upadacitinib in CD. Patients younger than 65 who had never smoked had no increased risk of MACE, malignancy, myocardial infarction, or death
+- **ORAL Surveillance:** tofacitinib vs TNF inhibitor in rheumatoid arthritis — major adverse cardiovascular events (MACE) hazard ratio (HR) 1.33 (95% confidence interval [CI] 0.91–1.94), cancers HR 1.48 (95% CI 1.04–2.09); this study influenced US regulators to mandate prior anti-TNF exposure before upadacitinib in CD. Patients younger than 65 who had never smoked had no increased risk of MACE, malignancy, myocardial infarction, or death
 
 ### Colorectal cancer surveillance in Crohn's colitis
 
 - Surveillance colonoscopy suggested for patients with a minimum of **8 years of disease with involvement of more than 30% of the colon**
 - **PSC** — initiate surveillance colonoscopy **at the time of PSC diagnosis regardless of disease distribution**
-- CD diagnosed **before age 40** is also associated with increased CRC incidence and mortality
+- CD diagnosed **before age 40** is also associated with increased colorectal cancer (CRC) incidence and mortality
 - Routine surveillance for small bowel cancer is **not** currently recommended, but a high index of suspicion is warranted when a patient with stable small bowel CD has an abrupt change in symptoms
 
 ### Perianal fistulizing CD
@@ -226,7 +226,7 @@ Antibiotic dosing for simple, superficial perianal fistulas: metronidazole 10–
 - **Simple** fistula: distal to the dentate line, primarily in the anal sphincter region, single tract. **Complex**: transsphincteric, suprasphincteric, or intersphincteric, may have multiple tracts
 - Pyogenic complications such as abscess should be excluded with cross-sectional imaging before initiating advanced therapy; abscesses treated initially with drainage
 - Any fistula with an abscess or complex fistula (involving anal sphincter, vagina, or multiple tracts) should be drained of infection; **setons should be performed before initiation of immunosuppression**
-- EUS has greater than 90% accuracy in diagnosis of perianal fistulizing CD
+- Endoscopic ultrasound (EUS) has greater than 90% accuracy in diagnosis of perianal fistulizing CD
 - Infliximab has the best evidence; certolizumab pegol is not as effective as infliximab, so infliximab is suggested over certolizumab pegol for perianal CD
 - Antibiotics play an adjunctive role and rarely replace the need for surgical drainage when an abscess is present
 

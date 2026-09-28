@@ -16,10 +16,10 @@ A management strategy for **uninvestigated [[dyspepsia]]** in which patients are
 ## Rationale
 
 - H. pylori-associated [[peptic-ulcer-disease|peptic ulcer disease]] is the most common treatable cause of [[dyspepsia]]
-- **Eradication resolves dyspepsia in a minority — know which NNT you are quoting** [[acg-cag-2017-dyspepsia]]:
-  - *H. pylori*-**positive** dyspepsia, eradication vs placebo (2 trials, 563 patients): **NNT 7 (95% CI 5–14)**; RR of remaining dyspeptic 0.81 (0.70–0.94)
+- **Eradication resolves dyspepsia in a minority — know which number needed to treat (NNT) you are quoting** [[acg-cag-2017-dyspepsia]]:
+  - *H. pylori*-**positive** dyspepsia, eradication vs placebo (2 trials, 563 patients): **NNT 7 (95% confidence interval [CI] 5–14)**; relative risk (RR) of remaining dyspeptic 0.81 (0.70–0.94)
   - **Functional dyspepsia** at 3–12 months (2,604 vs 2,292 patients): **NNT 12.5 (95% CI 10–20)** — dyspepsia persisted in **67.9%** after eradication vs **76.4%** of controls; RR 0.91 (0.88–0.94)
-  - For comparison in the same guideline: empiric PPI vs placebo/antacid **NNT 6 (4–11)**
+  - For comparison in the same guideline: empiric proton pump inhibitor (PPI) vs placebo/antacid **NNT 6 (4–11)**
 - Avoids the cost and risk of early endoscopy in low-risk patients
 - Preferred over empiric [[proton-pump-inhibitors|PPI]] therapy or prompt endoscopy in appropriate patients
 
@@ -41,12 +41,12 @@ A management strategy for **uninvestigated [[dyspepsia]]** in which patients are
 - Progressive [[dysphagia]]
 - Odynophagia
 - Persistent vomiting
-- GI bleeding / [[iron-deficiency-anemia|iron deficiency anemia]]
+- Gastrointestinal (GI) bleeding / [[iron-deficiency-anemia|iron deficiency anemia]]
 - Palpable abdominal mass or lymphadenopathy
 - Family history of upper GI malignancy
 - Previous gastric surgery
 
-> ⚠ **An alarm feature alone does *not* mandate endoscopy under 60.** [[acg-cag-2017-dyspepsia]] **Statement 2 (Conditional, moderate quality)** recommends **against routinely scoping patients <60 for alarm features alone** — they have low positive predictive value for upper GI cancer, so it is the **age-<60 threshold, not the alarm list**, that gates this strategy. Use case-by-case clinical judgment; prominent or combined features still warrant EGD. This reverses older guidance mandating EGD for any alarm feature at any age. The pooled operating characteristics live on **[[dyspepsia]]**.
+> ⚠ **An alarm feature alone does *not* mandate endoscopy under 60.** [[acg-cag-2017-dyspepsia]] **Statement 2 (Conditional, moderate quality)** recommends **against routinely scoping patients <60 for alarm features alone** — they have low positive predictive value for upper GI cancer, so it is the **age-<60 threshold, not the alarm list**, that gates this strategy. Use case-by-case clinical judgment; prominent or combined features still warrant esophagogastroduodenoscopy (EGD). This reverses older guidance mandating EGD for any alarm feature at any age. The pooled operating characteristics live on **[[dyspepsia]]**.
 
 ---
 
@@ -57,13 +57,13 @@ Both preferred over serology ([[acg-2017-hp-guidelines]], Strong / Moderate):
 1. **Urea breath test (UBT)** — sensitivity 88–95%, specificity 95–100%
 2. **Stool antigen test (SAT)** — sensitivity ~94%, specificity ~97%
 
-> ⚠ **Verify these operating characteristics against the ACG 2017 guideline before quoting them.** [[acg-2024-hp-treatment|ACG 2024]] "elected not to review standard testing modalities (e.g., fecal antigen testing, breath testing, and serology)" and gives no sensitivity/specificity figures.
+> ⚠ **Verify these operating characteristics against the American College of Gastroenterology (ACG) 2017 guideline before quoting them.** [[acg-2024-hp-treatment|ACG 2024]] "elected not to review standard testing modalities (e.g., fecal antigen testing, breath testing, and serology)" and gives no sensitivity/specificity figures.
 
 **Avoid serology** — cannot distinguish active from past infection; low specificity, and it is **never** appropriate for post-treatment testing (antibody levels stay detectable for months to years after successful eradication).
 
 **Pre-test requirements** ([[acg-2024-hp-treatment|ACG 2024]]):
 
-- Hold [[proton-pump-inhibitors|PPI]] ≥2 weeks before testing. Whether the same applies to [[potassium-competitive-acid-blockers|P-CABs]] has **not been adequately studied** — do not assume it. Standard-dose **H2RAs and antacids do not affect** test accuracy.
+- Hold [[proton-pump-inhibitors|PPI]] ≥2 weeks before testing. Whether the same applies to [[potassium-competitive-acid-blockers|potassium-competitive acid blockers (P-CABs)]] has **not been adequately studied** — do not assume it. Standard-dose **histamine-2 receptor antagonists (H2RAs) and antacids do not affect** test accuracy.
 - Hold **bismuth and antibiotics ≥4 weeks** before a test of cure
 
 ---

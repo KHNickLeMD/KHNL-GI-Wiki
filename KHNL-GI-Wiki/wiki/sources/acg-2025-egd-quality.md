@@ -18,9 +18,9 @@ sources: []
 
 ## Summary
 
-Third ACG-ASGE quality indicator document for EGD. Presents 29 indicators with performance targets organized across preprocedure, intraprocedure, and postprocedure periods. Priority indicators are those deemed highest clinical relevance, significant practice variation, and feasible to measure. Note: this document supplements (not replaces) the separate common-to-all-endoscopy indicators document covering consent, antithrombotics, team pause, etc.
+Third American College of Gastroenterology (ACG)-American Society for Gastrointestinal Endoscopy (ASGE) quality indicator document for esophagogastroduodenoscopy (EGD). Presents 29 indicators with performance targets organized across preprocedure, intraprocedure, and postprocedure periods. Priority indicators are those deemed highest clinical relevance, significant practice variation, and feasible to measure. Note: this document supplements (not replaces) the separate common-to-all-endoscopy indicators document covering consent, antithrombotics, team pause, etc.
 
-Key new or updated indicators: EREFS score documentation for [[eosinophilic-esophagitis|EoE]]; [[gastric-premalignant-conditions|GPMC]] biopsy (Sydney protocol) for high-risk patients; HDWLE + virtual chromoendoscopy for GPMC surveillance; GPMC surveillance plan documentation; [[celiac-disease|celiac disease]] duodenal biopsy standard (≥4 biopsies including bulb).
+Key new or updated indicators: Eosinophilic Esophagitis Endoscopic Reference Score (EREFS) documentation for [[eosinophilic-esophagitis|eosinophilic esophagitis (EoE)]]; [[gastric-premalignant-conditions|gastric premalignant conditions (GPMC)]] biopsy (Sydney protocol) for high-risk patients; high-definition white-light endoscopy (HDWLE) + virtual chromoendoscopy for GPMC surveillance; GPMC surveillance plan documentation; [[celiac-disease|celiac disease]] duodenal biopsy standard (≥4 biopsies including bulb).
 
 ## All 29 Quality Indicators (Table 1)
 
@@ -29,30 +29,30 @@ Key new or updated indicators: EREFS score documentation for [[eosinophilic-esop
 | # | Indicator | Target | Level |
 |---|---|---|---|
 | 1 | EGD performed for documented appropriate indication | >95% | 1C¹ |
-| 2 | EGD within 24 hr for admitted/observed UGIB | >80% | 1C |
+| 2 | EGD within 24 hr for admitted/observed upper gastrointestinal bleeding (UGIB) | >80% | 1C |
 
 ### Intraprocedure
 
 | # | Indicator | Target | Level |
 |---|---|---|---|
-| 3* | Photodocumentation: esophagus, GEJ, cardia/fundus, corpus, incisura, antrum/pylorus, 2nd duodenum, detected lesions | >90% | 3 |
+| 3* | Photodocumentation: esophagus, gastroesophageal junction (GEJ), cardia/fundus, corpus, incisura, antrum/pylorus, 2nd duodenum, detected lesions | >90% | 3 |
 | 4 | ≥6 biopsies from ≥2 levels (proximal/mid and distal) for dysphagia without endoscopic etiology | >90% | 2B |
 | 5 | EREFS score documented when EoE is suspected or established | >95% | 2C |
-| 6* | LA classification documented for erosive esophagitis | >98% | 2C |
-| 7 | SCJ, GEJ, and diaphragmatic hiatus location recorded in suspected columnar metaplasia | >95% | 1C¹ |
-| 8* | ≥1 cm endoscopically evident columnar mucosa documented when biopsying for BE | >95% | 1C |
+| 6* | Los Angeles (LA) classification documented for erosive esophagitis | >98% | 2C |
+| 7 | Squamocolumnar junction (SCJ), GEJ, and diaphragmatic hiatus location recorded in suspected columnar metaplasia | >95% | 1C¹ |
+| 8* | ≥1 cm endoscopically evident columnar mucosa documented when biopsying for Barrett's esophagus (BE) | >95% | 1C |
 | 9* | Prague criteria used for suspected or confirmed BE | >95% | 1C¹ |
 | 10 | HDWLE + dye-based or virtual chromoendoscopy for BE surveillance | >90% | 1B |
 | 11 | Systematic 4-quadrant biopsies every 2 cm throughout BE segment in known BE surveillance | >90% | 1C |
 | 12 | Visible lesions in BE biopsied/resected separately from systematic biopsies | >90% | 3 |
-| 13* | [[peptic-ulcer-disease\|Peptic ulcer]] stigmata documented (active bleeding, NBVV, adherent clot, flat spot, clean base) | >98% | 1A |
+| 13* | [[peptic-ulcer-disease\|Peptic ulcer]] stigmata documented (active bleeding, nonbleeding visible vessel [NBVV], adherent clot, flat spot, clean base) | >98% | 1A |
 | 14* | Endoscopic treatment for actively bleeding ulcers or NBVV | >90% | 1A |
 | 15 | Second treatment modality when epinephrine injection used for bleeding/NBVV | >98% | 1A |
 | 16* | Primary hemostasis achievement documented in attempted hemostasis of nonvariceal UGIB | >90% | 2A |
 | 17 | Gastric ulcer biopsy or follow-up planned to exclude malignancy | >80% | 2C |
-| 18* | Systematic gastric biopsy (corpus, antrum, incisura — Sydney protocol) in known GPMC, high-risk [[gastric-adenocarcinoma\|GC]] patients, or endoscopic concern for GPMC | >90% | 2C |
+| 18* | Systematic gastric biopsy (corpus, antrum, incisura — Sydney protocol) in known GPMC, high-risk [[gastric-adenocarcinoma\|gastric cancer (GC)]] patients, or endoscopic concern for GPMC | >90% | 2C |
 | 19 | HDWLE + virtual chromoendoscopy used in GPMC/high-risk GC/suspected GPMC patients | >90% | 2C |
-| 20 | Gastric polyps (non-FGP appearance) >10 mm: biopsied or resected | >80% | 2C |
+| 20 | Gastric polyps (non-fundic gland polyp [FGP] appearance) >10 mm: biopsied or resected | >80% | 2C |
 | 21 | ≥4 duodenal biopsies (including 1 from bulb) in suspected celiac disease | >98% | 1C |
 
 ### Postprocedure
@@ -60,11 +60,11 @@ Key new or updated indicators: EREFS score documentation for [[eosinophilic-esop
 | # | Indicator | Target | Level |
 |---|---|---|---|
 | 22 | Repeat EGD recommended after acid suppression for LA grade C/D erosive esophagitis | >90% | 2B |
-| 23 | PPI recommended for patients undergoing dilation for peptic esophageal strictures | >98% | 2B |
+| 23 | Proton pump inhibitor (PPI) recommended for patients undergoing dilation for peptic esophageal strictures | >98% | 2B |
 | 24 | Nondysplastic BE (without prior dysplasia): surveillance recommended no sooner than 3 years | >80% | 2C |
-| 25 | Complete eradication of intestinal metaplasia within 18 months of initial endoscopic treatment for BE with dysplasia or intramucosal carcinoma | >75% | 1C¹ |
+| 25 | Complete eradication of intestinal metaplasia within 18 months of initial endoscopic treatment for BE with dysplasia or intramucosal carcinoma (IMC) | >75% | 1C¹ |
 | 26* | High-dose PPI (continuous or intermittent ×3d) after successful hemostatic therapy of bleeding ulcer | >95% | 1A |
-| 27 | [[helicobacter-pylori-infection\|H. pylori]] testing plan documented in patients with GPMC, PUD, other H. pylori–associated conditions | >95% | 2C |
+| 27 | [[helicobacter-pylori-infection\|H. pylori]] testing plan documented in patients with GPMC, peptic ulcer disease (PUD), other H. pylori–associated conditions | >95% | 2C |
 | 28 | H. pylori treatment AND eradication assessment plan documented in endoscopically diagnosed H. pylori | >95% | 2A |
 | 29 | GPMC surveillance plan documented in patients with known GPMC | >90% | 2C |
 
@@ -72,11 +72,11 @@ Key new or updated indicators: EREFS score documentation for [[eosinophilic-esop
 
 ## Key Clinical Points
 
-- EGD within 6–24 hours optimal for admitted [[upper-gi-bleeding|UGIB]] (not urgent <6 hours — no mortality benefit, NEJM RCT)
+- EGD within 6–24 hours optimal for admitted [[upper-gi-bleeding|UGIB]] (not urgent <6 hours — no mortality benefit, NEJM randomized controlled trial [RCT])
 - Systematic photodocumentation is a surrogate for complete mucosal inspection; 2–3 min EGDs are inadequate especially for GPMC evaluation
 - PPI-responsive EoE is now classified as EoE; EREFS documentation required whenever EoE is suspected or known
 - GPMC: Sydney protocol biopsies + HDWLE/virtual chromoendoscopy + surveillance plan documentation — all now quality standards
-- Complete IM eradication within 18 months of EET is the outcome benchmark for [[barretts-esophagus|BE]] with dysplasia/IMC
+- Complete intestinal metaplasia (IM) eradication within 18 months of endoscopic eradication therapy (EET) is the outcome benchmark for [[barretts-esophagus|BE]] with dysplasia/IMC
 
 ## Recommendations
 

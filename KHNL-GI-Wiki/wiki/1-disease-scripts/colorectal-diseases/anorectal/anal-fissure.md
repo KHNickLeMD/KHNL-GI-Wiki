@@ -31,9 +31,9 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-
 
 **Examination technique** [[asge-2010-anorectal-disorders]]: best visualized with the patient in the **lateral knee-to-chest position, distracting the buttocks**. Anoscopy is often too painful acutely; defer if needed.
 
-**Location:** almost **90% posterior midline**; can also occur in the **anterior midline (19%)**. **Lateral or multiple fissures → suspect a secondary cause** — Crohn's disease, tuberculosis, syphilis, HIV/AIDS, dermatologic conditions (e.g. psoriasis), or [[anal-cancer-screening|anal carcinoma]].
+**Location:** almost **90% posterior midline**; can also occur in the **anterior midline (19%)**. **Lateral or multiple fissures → suspect a secondary cause** — Crohn's disease, tuberculosis, syphilis, human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS), dermatologic conditions (e.g. psoriasis), or [[anal-cancer-screening|anal carcinoma]].
 
-> ACG 2021 gives no anterior percentage and no sex association; the **19%** figure comes from [[asge-2010-anorectal-disorders]].
+> American College of Gastroenterology (ACG) 2021 gives no anterior percentage and no sex association; the **19%** figure comes from [[asge-2010-anorectal-disorders]].
 
 ### Severity Assessment
 
@@ -53,7 +53,7 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-
 
 | Condition | Key Features |
 |-----------|-------------|
-| [[hemorrhoids\|Hemorrhoids]] | Painless bright red bleeding; prolapse; visible on anoscopy. **Sharp pain on defecation or on DRE points to fissure, not hemorrhoids** — hemorrhoids hurt only when acutely thrombosed. Not either/or: the two **coexist in up to 20% of cases, and in that situation the fissure is treated first** [[aga-2026-hemorrhoids]]. The chronic fissure's sentinel tag is often described by patients as "a painful hemorrhoid" [[acg-2021-anorectal-disorders]] |
+| [[hemorrhoids\|Hemorrhoids]] | Painless bright red bleeding; prolapse; visible on anoscopy. **Sharp pain on defecation or on digital rectal examination (DRE) points to fissure, not hemorrhoids** — hemorrhoids hurt only when acutely thrombosed. Not either/or: the two **coexist in up to 20% of cases, and in that situation the fissure is treated first** [[aga-2026-hemorrhoids]]. The chronic fissure's sentinel tag is often described by patients as "a painful hemorrhoid" [[acg-2021-anorectal-disorders]] |
 | Perianal abscess/fistula | Fluctuant or indurated perianal tissue; constant pain (not just with defecation); tract opening visible. **Fissures with an associated abscess or fistula are the exception to initial medical therapy** [[asge-2010-anorectal-disorders]] |
 | Crohn's perianal disease | Multiple/atypical fissures; skin tags; fistulas |
 | Anal carcinoma | Persistent non-healing fissure-like lesion |
@@ -68,12 +68,12 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-
 
 - The **diagnosis is in doubt**
 - **Bleeding occurs**
-- To **rule out associated [[inflammatory-bowel-disease|IBD]]**
+- To **rule out associated [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]**
 - The patient is **due for a screening [[colorectal-cancer-screening|colonoscopy]]**
 - **Timing:** temporarily **deferring [[colonoscopy]] until after initial treatment of the fissure** avoids the discomfort of bowel preparation and scoping an acutely painful anal canal. [[asge-2010-anorectal-disorders]]
 - **Assessing sphincter tone before surgery:** ACG 2021 states the determination of whether anal pressures are high "is **usually made by digital examination only**" — the guideline does **not** position [[anorectal-manometry|anorectal manometry]] as a routine fissure test. This matters because low/normal pressure changes the operation (see Therapeutics).
 
-> The cited guidelines do not address examination under anesthesia, a biopsy rule for the non-healing fissure, or an age threshold for first-presentation colonoscopy in fissure; see a colorectal-surgery guideline (e.g. ASCRS) for these.
+> The cited guidelines do not address examination under anesthesia, a biopsy rule for the non-healing fissure, or an age threshold for first-presentation colonoscopy in fissure; see a colorectal-surgery guideline (e.g. American Society of Colon and Rectal Surgeons (ASCRS)) for these.
 
 ---
 
@@ -90,16 +90,16 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-
 
 **Topical calcium channel blocker (first-line; Strong recommendation / low quality, [[acg-2021-anorectal-disorders]] Table 9):** *"We recommend that local application of a calcium channel blocker should be the initial medical treatment of chronic anal fissure."* (Consensus score 27.)
 
-- **Agents and concentrations studied:** **diltiazem 2%**, **nifedipine 0.2–0.3%** ([[asge-2010-anorectal-disorders]]) and **nifedipine 0.5%** ([[acg-2021-anorectal-disorders]]). **No study reports a dose escalation**, and neither guideline gives an application frequency or treatment duration for a CCB.
+- **Agents and concentrations studied:** **diltiazem 2%**, **nifedipine 0.2–0.3%** ([[asge-2010-anorectal-disorders]]) and **nifedipine 0.5%** ([[acg-2021-anorectal-disorders]]). **No study reports a dose escalation**, and neither guideline gives an application frequency or treatment duration for a calcium channel blocker (CCB).
 - **Healing 67–90%**; **long-term healing ~70%**.
 - Side effects: **headache in ~20%**; ~**10% stop treatment** because of it. Headache occurs **less frequently than with topical nitrates**.
 - **Diltiazem 2% is preferred to nitroglycerin** — lower incidence of adverse effects. [[acg-2021-anorectal-disorders]]
-- Head-to-head: **diltiazem 2% healing 91.7% vs. nitroglycerine 0.2% 60%** *(the same study reported headache 0% with diltiazem vs 100% with GTN — ACG calls the absence of any diltiazem side effect "implausible", so read the healing figure, not the safety figure)*; nifedipine 80% vs. GTN 0.2% 73% vs. placebo 33%.
+- Head-to-head: **diltiazem 2% healing 91.7% vs. nitroglycerine 0.2% 60%** *(the same study reported headache 0% with diltiazem vs 100% with glyceryl trinitrate (GTN) — ACG calls the absence of any diltiazem side effect "implausible", so read the healing figure, not the safety figure)*; nifedipine 80% vs. GTN 0.2% 73% vs. placebo 33%.
 - **Nifedipine 0.5% (n=27):** healing **85%**, recurrence **16%**, moderate headache **7.4%**.
 - **Oral CCB is a legitimate alternative when topical is impractical** — "it is the drug rather than the route that is important": healing **90% topical vs 76% oral**; side effects (headache most often, plus ankle edema) **not significantly increased** by the oral route, though there are no long-term recurrence data. A 4-study review found no difference in recurrence, slightly better healing and fewer side effects with topical. [[acg-2021-anorectal-disorders]]
-- **Overall caveat:** because of the paucity of RCTs, ACG states there are **insufficient data to conclude that CCBs are superior to placebo** for healing — the first-line position rests on consensus and the side-effect advantage over nitrates.
+- **Overall caveat:** because of the paucity of randomized controlled trials (RCTs), ACG states there are **insufficient data to conclude that CCBs are superior to placebo** for healing — the first-line position rests on consensus and the side-effect advantage over nitrates.
 
-**Topical nitroglycerin (GTN, second choice):**
+**Topical nitroglycerin (second choice):**
 
 - **Applied twice daily for 8 weeks.** **Extending treatment beyond this does not increase healing rates** — so a non-responder at 8 weeks should be escalated, not continued.
 - Healing is **dose-non-monotonic** — 0.1% → **50%**, 0.2% → **36%**, 0.4% → **57%**, vs. **26% placebo**. Cochrane: **48.9% vs. 35.5%** placebo — i.e. only marginally better than placebo.
@@ -113,12 +113,12 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-
 - Healing: **60–80%**, higher than placebo (reported range across series **37–92%**). Cochrane counters that it is only **marginally better than placebo**.
 - Temporary [[fecal-incontinence|incontinence]] to **flatus up to 18%**, to **stool 5%**.
 - **Recurrence up to 42%**; retreatment gives similar results to the first treatment. Repeat injection may benefit initial non-responders or relapses. [[asge-2010-anorectal-disorders]]
-- Predictors of efficacy: **female sex, satisfaction with the first procedure, lower BMI.** Topical nitrates may potentiate botulinum toxin in refractory fissure.
-- **ACG consensus: the role of botulinum toxin A remains uncertain** — perhaps an attempt to avoid sphincterotomy after a CCB fails. **Patients failing medical treatment *or* botulinum toxin should be referred for LIS.**
+- Predictors of efficacy: **female sex, satisfaction with the first procedure, lower body mass index (BMI).** Topical nitrates may potentiate botulinum toxin in refractory fissure.
+- **ACG consensus: the role of botulinum toxin A remains uncertain** — perhaps an attempt to avoid sphincterotomy after a CCB fails. **Patients failing medical treatment *or* botulinum toxin should be referred for lateral internal sphincterotomy (LIS).**
 
 ### Chronic Fissure — Surgical (Medical Therapy Failures)
 
-**Lateral internal sphincterotomy (LIS) — Strong recommendation / high quality, [[acg-2021-anorectal-disorders]] (consensus score 29):**
+**LIS — Strong recommendation / high quality, [[acg-2021-anorectal-disorders]] (consensus score 29):**
 
 - **Procedure:** cutting fibers of the internal anal sphincter **up to the apex of the fissure or the dentate line**; may be performed under **general, spinal, or local anesthesia**.
 - **Healing 94–98%** — clearly superior to uncontrolled manual anal dilation, and more efficacious than any topical or injectable treatment.

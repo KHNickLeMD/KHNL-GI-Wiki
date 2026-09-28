@@ -21,21 +21,21 @@ sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy]
 
 ## Assessment
 
-Rare, life-threatening liver disease unique to pregnancy — **microvesicular fatty infiltration** of the liver leading to hepatic failure. Frequency **~0.01%** of pregnancies ([[aga-2024-pregnancy-gi-liver]]); incidence **5.0 cases per 100,000 maternities** in the UK validation cohort ([[acg-2016-liver-disease-pregnancy]]). Onset in the **third trimester or postpartum**; median gestational age at identification **36 weeks**. Associated with multifetal/twin pregnancy, a male fetus, and low BMI; family history occasionally present.
+Rare, life-threatening liver disease unique to pregnancy — **microvesicular fatty infiltration** of the liver leading to hepatic failure. Frequency **~0.01%** of pregnancies ([[aga-2024-pregnancy-gi-liver]]); incidence **5.0 cases per 100,000 maternities** in the UK validation cohort ([[acg-2016-liver-disease-pregnancy]]). Onset in the **third trimester or postpartum**; median gestational age at identification **36 weeks**. Associated with multifetal/twin pregnancy, a male fetus, and low body mass index (BMI); family history occasionally present.
 
 ### Establishing the Diagnosis
 
-- Diagnosis is usually **clinical** — compatible presentation, labs, and imaging. Diagnosis is **suggested by the Swansea criteria** (**≥6 of 14**, in the absence of another cause). The AGA notes the Swansea criteria have **limitations** in differentiating AFLP from other liver diseases unique to pregnancy and from [[acute-liver-failure|acute liver failure]] of any cause. ([[aga-2024-pregnancy-gi-liver]] BPA 11)
+- Diagnosis is usually **clinical** — compatible presentation, labs, and imaging. Diagnosis is **suggested by the Swansea criteria** (**≥6 of 14**, in the absence of another cause). The American Gastroenterological Association (AGA) notes the Swansea criteria have **limitations** in differentiating acute fatty liver of pregnancy (AFLP) from other liver diseases unique to pregnancy and from [[acute-liver-failure|acute liver failure]] of any cause. ([[aga-2024-pregnancy-gi-liver]] Best Practice Advice (BPA) 11)
   - *(Full Swansea criteria list and thresholds are reproduced on [[liver-disease-in-pregnancy]].)*
-  - Performance vs biopsy-proven microvesicular steatosis: **85% PPV, 100% NPV** — the ACG authors judged the criteria can obviate liver biopsy in management ([[acg-2016-liver-disease-pregnancy]])
+  - Performance vs biopsy-proven microvesicular steatosis: **85% positive predictive value (PPV), 100% negative predictive value (NPV)** — the American College of Gastroenterology (ACG) authors judged the criteria can obviate liver biopsy in management ([[acg-2016-liver-disease-pregnancy]])
 - **Pre-eclampsia is present in ~50%** of AFLP cases.
-- Clinical picture: nonspecific — abdominal pain, nausea/vomiting, polydipsia/polyuria, [[hepatic-encephalopathy|hepatic encephalopathy]], progressing to liver failure and DIC. Renal dysfunction and [[acute-pancreatitis|pancreatitis]] are common.
+- Clinical picture: nonspecific — abdominal pain, nausea/vomiting, polydipsia/polyuria, [[hepatic-encephalopathy|hepatic encephalopathy]], progressing to liver failure and disseminated intravascular coagulation (DIC). Renal dysfunction and [[acute-pancreatitis|pancreatitis]] are common.
 - **[[liver-biopsy|Liver biopsy]] is rarely needed** and should not be obtained unless it will change management. ([[aga-2024-pregnancy-gi-liver]])
-- **Test for LCHAD after the diagnosis is made** — all women with AFLP **and their children** should have molecular testing for **long-chain 3-hydroxyacyl-CoA dehydrogenase (LCHAD)** (*conditional, moderate*) ([[acg-2016-liver-disease-pregnancy]] rec 18). Homozygous-deficient fetal/placental metabolites accumulating in the maternal circulation are the proposed mechanism; some AFLP mothers are LCHAD heterozygotes, and not all LCHAD-causing defects confer AFLP risk
+- **Test for long-chain 3-hydroxyacyl-CoA dehydrogenase (LCHAD) after the diagnosis is made** — all women with AFLP **and their children** should have molecular testing for **LCHAD** (*conditional, moderate*) ([[acg-2016-liver-disease-pregnancy]] rec 18). Homozygous-deficient fetal/placental metabolites accumulating in the maternal circulation are the proposed mechanism; some AFLP mothers are LCHAD heterozygotes, and not all LCHAD-causing defects confer AFLP risk
 
 ### Severity Assessment
 
-- Reflects degree of hepatic failure: hypoglycemia, coagulopathy/prolonged PT, **DIC in >75%**, rising creatinine (acute renal failure), and encephalopathy mark severe disease.
+- Reflects degree of hepatic failure: hypoglycemia, coagulopathy/prolonged prothrombin time (PT), **DIC in >75%**, rising creatinine (acute renal failure), and encephalopathy mark severe disease.
 - **Maternal mortality 7%–18%; fetal mortality 9%–23%.** ([[aga-2024-pregnancy-gi-liver]])
 - **Level of care:** in the UK validation cohort **65% required admission to an intensive care or specialty liver unit** (1 death in the series) — plan for critical-care/transplant-centre level of care at diagnosis. ([[acg-2016-liver-disease-pregnancy]])
 
@@ -43,15 +43,15 @@ Rare, life-threatening liver disease unique to pregnancy — **microvesicular fa
 
 *Workup: see [[liver-disease-in-pregnancy]].*
 
-- HELLP syndrome — overlaps (thrombocytopenia, ↑LDH, hepatic rupture); AFLP distinguished by hypoglycemia, prolonged PT/DIC, marked ↑ammonia
+- Hemolysis, elevated liver enzymes, and low platelets (HELLP) syndrome — overlaps (thrombocytopenia, ↑lactate dehydrogenase (LDH), hepatic rupture); AFLP distinguished by hypoglycemia, prolonged PT/DIC, marked ↑ammonia
 - [[liver-disease-in-pregnancy|Pre-eclampsia with hepatic involvement]] — coexists in ~50%
 - [[intrahepatic-cholestasis-of-pregnancy|Intrahepatic cholestasis of pregnancy]] — pruritus, ↑bile acids, no coagulopathy/hypoglycemia
-- [[chronic-hepatitis-b|Viral hepatitis]] / HSV hepatitis / [[hepatitis-c-in-pregnancy|hepatitis C]] — serologies
+- [[chronic-hepatitis-b|Viral hepatitis]] / herpes simplex virus (HSV) hepatitis / [[hepatitis-c-in-pregnancy|hepatitis C]] — serologies
 - [[drug-induced-liver-injury|Drug-induced liver injury]]
 
 ## Diagnostics
 
-- **Labs:** total bilirubin <5 mg/dL, **hypoglycemia**, elevated creatinine, ±proteinuria and thrombocytopenia, elevated ammonia, **ALT <500 U/L**, prolonged PT, **DIC >75%**. ([[aga-2024-pregnancy-gi-liver]], Table 3)
+- **Labs:** total bilirubin <5 mg/dL, **hypoglycemia**, elevated creatinine, ±proteinuria and thrombocytopenia, elevated ammonia, **alanine aminotransferase (ALT) <500 U/L**, prolonged PT, **DIC >75%**. ([[aga-2024-pregnancy-gi-liver]], Table 3)
 - **Imaging:** fatty infiltration, sometimes [[ascites]].
 - **Swansea criteria** workup (see [[liver-disease-in-pregnancy]]); liver biopsy rarely required.
 

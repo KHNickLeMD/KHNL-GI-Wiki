@@ -19,11 +19,11 @@ sources: []
 
 ## Summary
 
-The Dallas Consensus v2.0 updates and formalizes the [[flip-panometry|FLIP Panometry]] Motility Classification for esophageal motility assessment using the functional lumen imaging probe (FLIP). FLIP panometry provides simultaneous measurement of esophagogastric junction (EGJ) opening and the contractile response (CR) of the esophageal body during balloon distension — two axes that together define a 6-category motility classification matrix. This version refines and expands the original Dallas Consensus, clarifying thresholds, simplifying criteria, and adding normative data from large multi-center series.
+The Dallas Consensus v2.0 updates and formalizes the [[flip-panometry|functional lumen imaging probe (FLIP) Panometry]] Motility Classification for esophageal motility assessment. FLIP panometry provides simultaneous measurement of esophagogastric junction (EGJ) opening and the contractile response (CR) of the esophageal body during balloon distension — two axes that together define a 6-category motility classification matrix. This version refines and expands the original Dallas Consensus, clarifying thresholds, simplifying criteria, and adding normative data from large multi-center series.
 
 The classification is built on two independent axes. EGJ opening is assessed by the EGJ distensibility index (EGJ-DI) and maximum EGJ diameter at 70 mL, yielding three categories: Reduced EGJ Opening (REO), Non-Reduced EGJ Opening (NEO), or Inconclusive. The contractile response to distension is categorized as Absent, Diminished, Disordered, Normal, or Spastic, based on the character, propagation, pressure, and timing of esophageal contractions during FLIP. Crossing these two axes produces the 6 FLIP Panometry Motility Classifications: Normal, Hypocontractility, Possible Spasm, Spastic Obstruction, Obstruction with Normal Contractility, and Non-spastic Obstruction.
 
-Key clinical applications are established by large evidence bases: a Normal FLIP pattern (NEO + Normal CR) carries a high negative predictive value for major esophageal motor disorders, with 92% of subjects showing normal [[high-resolution-manometry|HRM]] and 0% having [[achalasia]] (n=722). Non-spastic Obstruction (REO + Absent/Diminished CR) shows 92% correspondence with manometric EGJ outflow disorder and 77% with abnormal timed barium esophagram. The consensus formalizes FLIP as a clinically valid and increasingly preferred test at centers with expertise in panometry interpretation.
+Key clinical applications are established by large evidence bases: a Normal FLIP pattern (NEO + Normal CR) carries a high negative predictive value (NPV) for major esophageal motor disorders, with 92% of subjects showing normal [[high-resolution-manometry|high-resolution manometry (HRM)]] and 0% having [[achalasia]] (n=722). Non-spastic Obstruction (REO + Absent/Diminished CR) shows 92% correspondence with manometric EGJ outflow disorder and 77% with abnormal timed barium esophagram (TBE). The consensus formalizes FLIP as a clinically valid and increasingly preferred test at centers with expertise in panometry interpretation.
 
 ## Key Findings / Claims
 
@@ -50,8 +50,8 @@ Key clinical applications are established by large evidence bases: a Normal FLIP
 | Absent | No discernible antegrade contractions |
 | Diminished | Some contractile activity but not meeting Normal; 60 mL pressure <40 mmHg |
 | Disordered | Contractile activity not meeting Normal or Spastic; 60 mL pressure ≥40 mmHg |
-| Normal | >1 distinct antegrade contraction ≥6 cm axial extent and ≥10 mmHg; includes RAC (≥6 consecutive antegrade at 6±3/min) |
-| Spastic | Simultaneous occluding contractions (SOCs): non-propagating, lumen-occluding, >10s, pressure >35 mmHg; OR sustained LES contractions (>5s with pressure increase) |
+| Normal | >1 distinct antegrade contraction ≥6 cm axial extent and ≥10 mmHg; includes repetitive antegrade contractions (RAC; ≥6 consecutive antegrade at 6±3/min) |
+| Spastic | Simultaneous occluding contractions (SOCs): non-propagating, lumen-occluding, >10s, pressure >35 mmHg; OR sustained lower esophageal sphincter (LES) contractions (>5s with pressure increase) |
 
 *Note: Repetitive retrograde contractions (RRC) removed from spastic criteria in v2.0.*
 
@@ -74,7 +74,7 @@ Key clinical applications are established by large evidence bases: a Normal FLIP
 |---|---|---|
 | Normal FLIP | 722 | 92% normal HRM; 0% achalasia; high NPV for major motor disorder |
 | Non-spastic Obstruction | 202 | 92% manometric EGJ outflow disorder; 77% abnormal TBE |
-| REO overall | — | PPV >75% for EGJOO |
+| REO overall | — | positive predictive value (PPV) >75% for EGJ outflow obstruction (EGJOO) |
 | Normal FLIP (NPV) | — | NPV >90% for major obstruction or spasm |
 
 **Clinical Application Rules:**
@@ -83,7 +83,7 @@ Key clinical applications are established by large evidence bases: a Normal FLIP
 - REO with Absent/Diminished CR (Non-spastic Obstruction) = functionally equivalent to manometric EGJOO; warrants same workup/treatment pathway
 - REO with Normal CR (Obstruction with Normal Contractility) suggests mechanical obstruction (e.g., tight wrap post-fundoplication, ring/web) rather than primary motor disorder
 - FLIP may be performed at time of endoscopy, offering advantage over HRM when sedation is already planned
-- Spastic classifications (Possible Spasm, Spastic Obstruction) correlate with spastic motor patterns on HRM ([[distal-esophageal-spasm|DES]], [[hypercontractile-esophagus|jackhammer]]) but clinical significance requires correlation
+- Spastic classifications (Possible Spasm, Spastic Obstruction) correlate with spastic motor patterns on HRM ([[distal-esophageal-spasm|distal esophageal spasm (DES)]], [[hypercontractile-esophagus|jackhammer]]) but clinical significance requires correlation
 
 **Protocol Modifications from v1.0:**
 

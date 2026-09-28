@@ -7,7 +7,7 @@ updated: 2026-09-24
 sources: [acg-2025-uc, acg-2025-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care]
 ---
 
-Monoclonal antibodies against the **interleukin-23 pathway**, used as advanced therapy in [[inflammatory-bowel-disease|IBD]]. Two generations: **ustekinumab** blocks the shared **p40** subunit of IL-12 *and* IL-23, while **risankizumab, mirikizumab, and guselkumab** block the **p19** subunit unique to IL-23. Both generations are recommended in [[ulcerative-colitis|UC]] and [[crohns-disease|CD]] by ACG 2025 at **Strong / Moderate**, and the class carries no demonstrated malignancy signal. The one place the two generations have been separated by evidence is **after anti-TNF exposure in CD**, where risankizumab beat ustekinumab head-to-head (SEQUENCE).
+Monoclonal antibodies against the **interleukin-23 (IL-23) pathway**, used as advanced therapy in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]. Two generations: **ustekinumab** blocks the shared **p40** subunit of interleukin-12 (IL-12) *and* IL-23, while **risankizumab, mirikizumab, and guselkumab** block the **p19** subunit unique to IL-23. Both generations are recommended in [[ulcerative-colitis|ulcerative colitis (UC)]] and [[crohns-disease|Crohn's disease (CD)]] by American College of Gastroenterology (ACG) 2025 at **Strong / Moderate**, and the class carries no demonstrated malignancy signal. The one place the two generations have been separated by evidence is **after anti-tumor necrosis factor (TNF) exposure in CD**, where risankizumab beat ustekinumab head-to-head (SEQUENCE).
 
 ## Contents
 - [[#Class Structure and Mechanism]]
@@ -47,7 +47,7 @@ Monoclonal antibodies against the **interleukin-23 pathway**, used as advanced t
 
 | Agent | Induction | Maintenance |
 |---|---|---|
-| **Ustekinumab** | ~**6 mg/kg IV** (weight-based) | **90 mg SQ q8wk or q12wk** |
+| **Ustekinumab** | ~**6 mg/kg intravenous (IV)** (weight-based) | **90 mg subcutaneous (SQ) q8wk or q12wk** |
 | **Guselkumab** | **200 mg IV** wk 0, 4, 8 | **100 mg SQ q8wk** |
 | **Mirikizumab** | **300 mg IV q4wk × 3** | **200 mg SQ q4wk** |
 | **Risankizumab** | **1200 mg IV q4wk × 3** | **180 mg SQ q8wk** |
@@ -60,7 +60,7 @@ Monoclonal antibodies against the **interleukin-23 pathway**, used as advanced t
 | **Ustekinumab** | ~**6 mg/kg IV** (weight-based) | **90 mg SQ q8wk or q12wk** |
 | **Risankizumab** | **600 mg IV** wk 0, 4, 8 | **360 mg SQ q8wk** |
 | **Mirikizumab** | **900 mg SQ** wk 0, 4, 8 | **300 mg SQ q4wk** |
-| **Guselkumab** (IV→SC) | **200 mg IV** wk 0, 4, 8 | **100 mg SQ q8wk** |
+| **Guselkumab** (IV→subcutaneous [SC]) | **200 mg IV** wk 0, 4, 8 | **100 mg SQ q8wk** |
 | **Guselkumab** (SC→SC) | **400 mg SQ q4wk** × induction | **100–200 mg SQ q4–8wk** |
 
 **Read the doses by indication, not by drug.** The same agent is dosed differently in UC and CD — risankizumab induction is **1200 mg IV** in UC but **600 mg IV** in CD, and maintenance is **180 mg SQ q8wk** vs **360 mg SQ q8wk**; mirikizumab induction is **IV** in UC but **SC** in CD. Substituting one indication's schedule for the other's is the predictable error here.
@@ -126,7 +126,7 @@ Monoclonal antibodies against the **interleukin-23 pathway**, used as advanced t
 
 ## Efficacy Tier and Sequencing
 
-Both AGA living guidelines rank advanced therapies by efficacy and advise choosing a **higher-efficacy agent first**, with the ranking conditioned on prior advanced-therapy exposure.
+Both American Gastroenterological Association (AGA) living guidelines rank advanced therapies by efficacy and advise choosing a **higher-efficacy agent first**, with the ranking conditioned on prior advanced-therapy exposure.
 
 ### Crohn's disease ([[aga-2025-crohns-pharm]])
 
@@ -151,11 +151,11 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 |---|---|---|
 | **Malignancy** | Anti–IL-12/23 and anti–IL-23 agents (ustekinumab, risankizumab, mirikizumab) have **no demonstrated increased malignancy risk in IBD** — long-term data limited. The drugs of concern are [[thiopurines]] and [[anti-tnf-agents\|anti-TNF]] | [[aga-2024-ibd-malignancy]] |
 | **Prior cancer** | **Ustekinumab: no incident-cancer signal** in prior-cancer IBD patients. Effective IBD therapy generally need not be withheld on cancer-history grounds alone | [[aga-2024-ibd-malignancy]] |
-| **When a cancer develops** | **No change** to anti–IL-12/23 or anti–IL-23 therapy for lymphoma, other hematologic malignancy, melanoma, NMSC, or solid-organ malignancy — all "limited data" | [[aga-2024-ibd-malignancy]] Table 1 |
+| **When a cancer develops** | **No change** to anti–IL-12/23 or anti–IL-23 therapy for lymphoma, other hematologic malignancy, melanoma, nonmelanoma skin cancer (NMSC), or solid-organ malignancy — all "limited data" | [[aga-2024-ibd-malignancy]] Table 1 |
 | **Combining with a small molecule** | **No data** on combining a biologic with a small molecule | [[aga-2024-ibd-malignancy]] |
 | **Vaccine response** | Immunogenicity is blunted by anti-TNF (especially with thiopurines/methotrexate), **less so by non-TNF biologics including ustekinumab**, and **not definitively established for the newer IL-23 inhibitors**. Vaccinate regardless of timing within the treatment cycle | [[acg-2025-ibd-preventive-care]] |
 | **Vaccine data gap** | **No data** on whether guselkumab, mirikizumab, or risankizumab affect vaccine response in IBD | [[acg-2025-ibd-preventive-care]] |
-| **JAK-style boxed warning** | Does **not** apply — the MACE/malignancy signal driving the JAK boxed warning comes from ORAL Surveillance and is specific to JAK inhibitors (tofacitinib, upadacitinib) — see [[jak-inhibitors]] | [[acg-2025-uc]], [[acg-2025-crohns]] |
+| **Janus kinase (JAK)-style boxed warning** | Does **not** apply — the major adverse cardiovascular event (MACE)/malignancy signal driving the JAK boxed warning comes from ORAL Surveillance and is specific to JAK inhibitors (tofacitinib, upadacitinib) — see [[jak-inhibitors]] | [[acg-2025-uc]], [[acg-2025-crohns]] |
 
 *See [[ibd-preventive-care]] for the full IBD vaccination and cancer-screening schedule, and [[ibd-in-malignancy]] for drug-by-drug management once a malignancy develops.*
 
@@ -165,14 +165,14 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 
 - **AGA vs ACG on mirikizumab in UC.** [[aga-2024-uc-pharm]] places mirikizumab in **Rec 2 (Conditional)** with adalimumab and filgotinib, a tier below the Rec 1 group that contains ustekinumab. [[acg-2025-uc]] gives mirikizumab the **same Strong / Moderate** grade as ustekinumab and the other IL-23p19 agents (Recs 26, 40), and states the three IL-23 inhibitors are recommended **equally**. ACG 2025 is the **newer** tier-1 document, so follow its equal grading; the AGA tiering is noted because AGA's is a living guideline and may re-rank as data accrue.
 - **Guselkumab and risankizumab are absent from the AGA 2024 UC guideline entirely** — they are not in Rec 1 or Rec 2. This is a **coverage gap in the older document, not a negative recommendation**; both were approved for UC after it.
-- **ACG grades the SEQUENCE-based preference Conditional / Low despite a head-to-head RCT.** Rec 19 (risankizumab over ustekinumab in anti-TNF-experienced CD) rests on a direct comparison that met its endoscopic endpoint, yet carries a low evidence grade. Reproduced as published.
+- **ACG grades the SEQUENCE-based preference Conditional / Low despite a head-to-head randomized controlled trial (RCT).** Rec 19 (risankizumab over ustekinumab in anti-TNF-experienced CD) rests on a direct comparison that met its endoscopic endpoint, yet carries a low evidence grade. Reproduced as published.
 - **The two generations are not interchangeable in CD after anti-TNF failure**, but **are** treated as interchangeable in UC. Do not generalize Rec 19 from CD to UC — the guidelines cite no UC head-to-head data.
 
 ---
 
 ## Gaps
 
-- *The guidelines give no **infusion/injection-reaction rates, pre-treatment TB or HBV screening requirements, immunogenicity / antidrug-antibody rates, or [[therapeutic-drug-monitoring-ibd|therapeutic drug monitoring]] targets** for any agent in this class. [[acg-2025-crohns]] prints trough targets for anti-TNF only (IFX >5 μg/mL, ADA >7.5 μg/mL, CZP >20 μg/mL); do not assume they transfer.*
+- *The guidelines give no **infusion/injection-reaction rates, pre-treatment tuberculosis (TB) or hepatitis B virus (HBV) screening requirements, immunogenicity / antidrug-antibody rates, or [[therapeutic-drug-monitoring-ibd|therapeutic drug monitoring]] targets** for any agent in this class. [[acg-2025-crohns]] prints trough targets for anti-TNF only (infliximab [IFX] >5 μg/mL, adalimumab [ADA] >7.5 μg/mL, certolizumab pegol [CZP] >20 μg/mL); do not assume they transfer.*
 - *The guidelines give no **primary-nonresponse assessment interval** for any IL-23 agent — no equivalent of the "week 6 vs week 10" guidance that exists for [[vedolizumab]].*
 - *The guidelines state no **dose-escalation or dose-optimization strategy** for loss of response within this class.*
 - *Placebo-controlled efficacy data (remission rates, pivotal trial names other than SEQUENCE and SEAVUE) for guselkumab, mirikizumab, and risankizumab are not given on this page.*

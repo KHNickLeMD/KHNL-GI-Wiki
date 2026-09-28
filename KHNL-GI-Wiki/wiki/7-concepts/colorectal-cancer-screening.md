@@ -49,11 +49,11 @@ sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-sc
 
 | Risk category | Lifetime CRC risk | Defining features |
 |---|---|---|
-| **Very high** | >20% | Personal or family history of a hereditary CRC syndrome — adenomatous polyposis syndromes ([[familial-adenomatous-polyposis\|FAP]]), [[lynch-syndrome\|Lynch syndrome]], hamartomatous polyposis syndromes; [[serrated-polyposis-syndrome\|serrated polyposis syndrome]] |
-| **High** | 10%–20% | 1 or more first-degree relative with CRC **younger than 60 y**, or 2 first-degree relatives at any age; personal history of advanced adenoma or advanced serrated polyp; [[inflammatory-bowel-disease\|IBD]] |
+| **Very high** | >20% | Personal or family history of a hereditary CRC syndrome — adenomatous polyposis syndromes ([[familial-adenomatous-polyposis\|familial adenomatous polyposis (FAP)]]), [[lynch-syndrome\|Lynch syndrome]], hamartomatous polyposis syndromes; [[serrated-polyposis-syndrome\|serrated polyposis syndrome]] |
+| **High** | 10%–20% | 1 or more first-degree relative with CRC **younger than 60 y**, or 2 first-degree relatives at any age; personal history of advanced adenoma or advanced serrated polyp; [[inflammatory-bowel-disease\|inflammatory bowel disease (IBD)]] |
 | **Average** | 4% | No symptoms and none of the above |
 
-⚠ **The <60-year family-history cutoff is the older framing.** [[aga-2023-crc-screening-risk-stratification|AGA 2023]] treats **any** first-degree relative with CRC as increased risk (see [[#Family History Risk Stratification]]); the percentage bands above are the part of the 2022 table that the 2023 update does not supply.
+⚠ **The <60-year family-history cutoff is the older framing.** [[aga-2023-crc-screening-risk-stratification|American Gastroenterological Association (AGA) 2023]] treats **any** first-degree relative with CRC as increased risk (see [[#Family History Risk Stratification]]); the percentage bands above are the part of the 2022 table that the 2023 update does not supply.
 
 **Within the average-risk pool, risk is still graded** — steer noninvasive testing toward the low end and conserve colonoscopy for the high end:
 
@@ -61,7 +61,7 @@ sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-sc
 - **Sex:** premenopausal women have lower CRC risk than same-age men of every race and ethnicity, and the age-adjusted difference persists with advancing age.
 - **Race/ethnicity:** Black incidence 43.6 vs White 36.6/100,000; mortality 18.5 vs 13.6/100,000 — by ages 50–54, incidence in Black men and women is significantly higher than in White or Hispanic men and women. Alaska Native and American Indian populations rank second in incidence (42.3/100,000) and mortality (15.1/100,000).
 - **Modifiable:** smoking, alcohol, [[obesity]], waist circumference, physical activity, diet, aspirin/NSAID use. Current smoking, obesity, and low physical activity may mark **younger** individuals who should get colonoscopy rather than a stool test.
-- **Genomic risk scores** (SNP panels ± clinical factors) show only **mild discriminatory value by AUC** for predicting advanced neoplasia. No risk-stratification scheme has yet been shown to reduce CRC incidence or mortality.
+- **Genomic risk scores** (single-nucleotide polymorphism [SNP] panels ± clinical factors) show only **mild discriminatory value by area under the curve (AUC)** for predicting advanced neoplasia. No risk-stratification scheme has yet been shown to reduce CRC incidence or mortality.
 
 ---
 
@@ -72,10 +72,10 @@ sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-sc
 | Average risk, ages 50–75 | Screen all (Rec 1) | Strong / Moderate |
 | Average risk, ages 45–49 | Screen (Rec 2) | Conditional / Very low |
 | Beyond age 75 | **Individualize** the decision to continue (Rec 3) | Conditional / Very low |
-| Ages 76–85 | Individualize — most appropriate for the never-screened, those healthy enough for CRC treatment, and those without substantially limited life expectancy | *USPSTF position as reported by [[acg-2021-crc-screening]]* |
+| Ages 76–85 | Individualize — most appropriate for the never-screened, those healthy enough for CRC treatment, and those without substantially limited life expectancy | *US Preventive Services Task Force (USPSTF) position as reported by [[acg-2021-crc-screening]]* |
 | Ages ≥86 | Not recommended (competing causes of mortality) | *USPSTF position as reported by [[acg-2021-crc-screening]]* |
 
-The age-45 start was first advanced by the **American Cancer Society (2018)** as a **qualified** recommendation; ACG likewise makes it conditional given very-low-quality direct evidence in this group. [[usmstf-2021-crc-screening-age|USMSTF 2021]] independently recommends **offering** screening at 45–49 (weak recommendation, low-quality evidence) and **not screening** beyond age 85 (strong).
+The age-45 start was first advanced by the **American Cancer Society (ACS, 2018)** as a **qualified** recommendation; American College of Gastroenterology (ACG) likewise makes it conditional given very-low-quality direct evidence in this group. [[usmstf-2021-crc-screening-age|US Multi-Society Task Force (USMSTF) 2021]] independently recommends **offering** screening at 45–49 (weak recommendation, low-quality evidence) and **not screening** beyond age 85 (strong).
 
 **Why the direct evidence is very low quality — the modelling behind 45** ([[aga-2020-young-adult-onset-crc]], reporting on ACS and USPSTF):
 
@@ -88,7 +88,7 @@ The age-45 start was first advanced by the **American Cancer Society (2018)** as
 
 - Screening with **any** recommended strategy from age 45 through 75, per **1000 adults**: **286–337 life-years gained**, **42–61 CRCs avoided**, **24–28 CRC deaths avoided** — better than starting at 50.
 - Starting at 45 rather than 50: **+6.2% life-years gained** but **+17% colonoscopy**, depending on modality chosen.
-- **Hybrid strategy worth knowing:** annual FIT ages **45–49**, then colonoscopy ages **50–70**, modelled as the best balance of lives gained against colonoscopies performed — the practical expression of "use sensitive noninvasive tests in younger screenees and conserve colonoscopy for when risk rises."
+- **Hybrid strategy worth knowing:** annual fecal immunochemical test (FIT) ages **45–49**, then colonoscopy ages **50–70**, modelled as the best balance of lives gained against colonoscopies performed — the practical expression of "use sensitive noninvasive tests in younger screenees and conserve colonoscopy for when risk rises."
 
 ---
 
@@ -96,7 +96,7 @@ The age-45 start was first advanced by the **American Cancer Society (2018)** as
 
 **The screening start age does not govern the symptomatic patient**, and conflating the two is what produces the average **6-month diagnostic delay** in [[early-onset-colorectal-cancer|early-onset CRC]].
 
-- **[[aga-2020-young-adult-onset-crc]] BPA 1:** diagnostic evaluation of the colon and rectum is encouraged for **all patients, irrespective of age**, presenting with symptoms that may be consistent with CRC — rectal bleeding, weight loss, change in bowel habit, abdominal pain, [[iron-deficiency-anemia|iron deficiency anemia]] (*"including but not limited to"*).
+- **[[aga-2020-young-adult-onset-crc]] Best Practice Advice (BPA) 1:** diagnostic evaluation of the colon and rectum is encouraged for **all patients, irrespective of age**, presenting with symptoms that may be consistent with CRC — rectal bleeding, weight loss, change in bowel habit, abdominal pain, [[iron-deficiency-anemia|iron deficiency anemia]] (*"including but not limited to"*).
 - *"The signs and symptoms that prompt health care providers to consider a diagnostic colon exam for a person over 50 should prompt a diagnostic [[colonoscopy|colonoscopy]] exam for the person <50 years of age."*
 - **70% of sporadic early-onset CRC patients have no family history**, so they never qualify for high-risk screening and present symptomatically — the symptom rule, not the screening age, is what reaches them.
 - Presentation-stage and germline-yield figures, and the full early-onset workup, are on [[early-onset-colorectal-cancer]].
@@ -114,10 +114,10 @@ Which average-risk options each body endorses, with the interval ([[aga-2022-non
 | Method | Interval | USPSTF | USMSTF | ACG |
 |---|---|---|---|---|
 | [[colonoscopy\|Colonoscopy]] | every 10 y | + | + | + |
-| High-sensitivity gFOBT | every 1 y | + | No comment | + |
+| High-sensitivity guaiac fecal occult blood test (gFOBT) | every 1 y | + | No comment | + |
 | FIT | every 1 y | + | + | + |
-| MTsDNA | every 1–3 y | + | + | + |
-| CT colonography | every 5 y | + | + | + |
+| Multi-target stool DNA (MTsDNA) | every 1–3 y | + | + | + |
+| Computed tomography (CT) colonography | every 5 y | + | + | + |
 | Flexible sigmoidoscopy | every 5–10 y | + | + | + |
 | Capsule colonoscopy ([[capsule-endoscopy]]) | every 5 y | + | + | + |
 | Septin 9 | — | No comment | NR | NR |
@@ -130,20 +130,20 @@ Which average-risk options each body endorses, with the interval ([[aga-2022-non
 | Modality | Interval | Strength | Notes |
 |----------|----------|---------|-------|
 | **[[colonoscopy\|Colonoscopy]]** | Every 10 years | Strong | High-sensitivity structural test; diagnostic and therapeutic |
-| **Annual FIT (fecal immunochemical test)** | Annually | Strong | Preferred non-invasive test; quantitative, no dietary restrictions; if positive → colonoscopy |
+| **Annual FIT** | Annually | Strong | Preferred non-invasive test; quantitative, no dietary restrictions; if positive → colonoscopy |
 
 ### Acceptable Alternative Modalities (conditional)
 
 | Modality | Interval | Strength | Notes |
 |----------|----------|---------|-------|
-| Multi-target stool DNA (mtsDNA, Cologuard) | Every 3 years | Conditional | FIT + methylated DNA markers; higher sensitivity but lower specificity than FIT; more false positives → unnecessary colonoscopies. Numbers in [[#Multi-Target Stool DNA (MTsDNA, Cologuard)]] |
+| MTsDNA (Cologuard) | Every 3 years | Conditional | FIT + methylated DNA markers; higher sensitivity but lower specificity than FIT; more false positives → unnecessary colonoscopies. Numbers in [[#Multi-Target Stool DNA (MTsDNA, Cologuard)]] |
 | Flexible sigmoidoscopy | Every 5–10 years | Conditional | Views only left colon; acceptable where colonoscopy unavailable or patient preference |
 | CT colonography (CTC) | Every 5 years | Conditional | No sedation; bowel prep required; incidental extracolonic findings; polyps >6 mm → colonoscopy |
 | Colon [[capsule-endoscopy\|capsule endoscopy]] | Every 5 years | Conditional | Limited data; not widely available; bowel prep required |
 
 ### Not Recommended
 
-- **Septin-9 blood test:** Conditional recommendation against (ACG 2021) — Very low evidence; insufficient sensitivity/specificity (figures in [[#Septin 9 and Urine Testing]]). *Note: this predates the newer cfDNA blood tests below, which are a distinct test class.*
+- **Septin-9 blood test:** Conditional recommendation against (ACG 2021) — Very low evidence; insufficient sensitivity/specificity (figures in [[#Septin 9 and Urine Testing]]). *Note: this predates the newer cell-free DNA (cfDNA) blood tests below, which are a distinct test class.*
 
 ---
 
@@ -155,10 +155,10 @@ Which average-risk options each body endorses, with the interval ([[aga-2022-non
 
 FIT measures **human hemoglobin**, so it is unaffected by dietary peroxidase. It is reported either **quantitatively, in µg hemoglobin per g of stool**, or — as FDA-approved — **qualitatively as positive/negative against a threshold value**. The threshold is the decision: lowering it buys sensitivity and costs specificity and colonoscopies.
 
-- **Positivity threshold: ≤20 µg Hb/g feces** (USMSTF), supported by two meta-analyses for detection of CRC and advanced adenoma. This is also the threshold of the commonly available US quantitative tests.
+- **Positivity threshold: ≤20 µg hemoglobin (Hb)/g feces** (USMSTF), supported by two meta-analyses for detection of CRC and advanced adenoma. This is also the threshold of the commonly available US quantitative tests.
 - ⚠ **FIT has no utility for serrated colorectal lesion detection.** A patient whose risk is serrated-pathway risk is not served by FIT.
 
-Sensitivity and specificity, % (95% CI). *AA = advanced adenoma. The source prints `NR` where a value is not given.*
+Sensitivity and specificity, % (95% confidence interval [CI]). *AA = advanced adenoma. The source prints `NR` where a value is not given.*
 
 | Source / cutoff | Sens — CRC | Sens — AA | Spec — CRC | Spec — AA |
 |---|---|---|---|---|
@@ -189,23 +189,23 @@ Sensitivity and specificity, % (95% CI). *AA = advanced adenoma. The source prin
 
 ### Positive MTsDNA, Negative Colonoscopy
 
-**Do not go looking up the aerodigestive tract.** Absent symptoms or signs of upper GI pathology, upper GI evaluation is not indicated (USMSTF), and a negative high-quality colonoscopy should not trigger further testing.
+**Do not go looking up the aerodigestive tract.** Absent symptoms or signs of upper gastrointestinal (GI) pathology, upper GI evaluation is not indicated (USMSTF), and a negative high-quality colonoscopy should not trigger further testing.
 
 - In 1216 of 9166 pivotal-trial participants with a negative (normal or only non-advanced-adenoma) colonoscopy and comprehensive cancer follow-up, at median **5.4 years**: incident aerodigestive cancers in **2.4% of discordant** (negative colonoscopy + positive MTsDNA) vs **1.1% of concordant** results — **no difference in risk ratio**.
-- Versus SEER expectation: concordant group **RR 0.4 (95% CI 0.2–0.6)**; discordant group **RR 0.8 (95% CI 0.3–1.9)** — not significantly greater than expected.
+- Versus Surveillance, Epidemiology, and End Results (SEER) expectation: concordant group **relative risk (RR) 0.4 (95% CI 0.2–0.6)**; discordant group **RR 0.8 (95% CI 0.3–1.9)** — not significantly greater than expected.
 
 ### Septin 9 and Urine Testing
 
 - **Septin 9 (Epi proColon)** — PCR-based qualitative detection of methylation of the *Septin 9* promoter. FDA-approved (**not** Medicare-covered) for average-risk adults **≥50 y who have first been offered other USPSTF-endorsed tests and refused**. Endorsed by **no** CRC screening guideline.
-  - In 7941 asymptomatic average-risk adults >50 y (US and Germany) undergoing screening colonoscopy, on 2 PCR replicates in 53 patients with CRC and 1457 without: **CRC sensitivity 48% (32–64), specificity 91.5% (90–93); advanced-adenoma sensitivity 11.2%** — 11 (7–16) in the table. With a third PCR replicate, sensitivity 63.9% and specificity 88.4%.
-  - Modeling caveat worth knowing: assuming **perfect adherence**, annual Septin 9 produced more QALYs gained and more CRC cases and deaths averted than annual FIT — **but with high rates of colonoscopy**. That is the opposite framing from the triennial-cfDNA modeling below; the assumptions, not the biology, differ.
+  - In 7941 asymptomatic average-risk adults >50 y (US and Germany) undergoing screening colonoscopy, on 2 polymerase chain reaction (PCR) replicates in 53 patients with CRC and 1457 without: **CRC sensitivity 48% (32–64), specificity 91.5% (90–93); advanced-adenoma sensitivity 11.2%** — 11 (7–16) in the table. With a third PCR replicate, sensitivity 63.9% and specificity 88.4%.
+  - Modeling caveat worth knowing: assuming **perfect adherence**, annual Septin 9 produced more quality-adjusted life-years (QALYs) gained and more CRC cases and deaths averted than annual FIT — **but with high rates of colonoscopy**. That is the opposite framing from the triennial-cfDNA modeling below; the assumptions, not the biology, differ.
 - **PolypDx** (metabolomic urine test for adenomas): 867 Canadian patients, validated in 661 Chinese participants. Adenoma sensitivity **89%** (unblinded training) and **83%** (blinded) with specificity **50%** and **51%**; Chinese study sensitivity **83%**, specificity **42.4%**. **Not commercially available.**
 
 ---
 
 ## Blood-Based CRC Screening (AGA 2025 CPU)
 
-*Source: [[aga-2025-crc-blood-tests]]. Liquid-biopsy tests detect circulating tumor / cell-free DNA shed by colorectal lesions. CMS covers acceptable blood tests **every 3 years**; CMS minimum threshold = CRC sensitivity 74%, specificity 90% (~10% APL positivity).*
+*Source: [[aga-2025-crc-blood-tests]]. Liquid-biopsy tests detect circulating tumor / cell-free DNA shed by colorectal lesions. Centers for Medicare & Medicaid Services (CMS) covers acceptable blood tests **every 3 years**; CMS minimum threshold = CRC sensitivity 74%, specificity 90% (~10% advanced precursor lesion [APL] positivity).*
 
 ### Validated Tests — Diagnostic Performance
 
@@ -214,7 +214,7 @@ Sensitivity and specificity, % (95% CI). *AA = advanced adenoma. The source prin
 | **Guardant Shield** (cfDNA methylation) | 83.1% | 89.6% | 13.2% | 55% | FDA-approved May 2024, CMS-covered; list price $1450 |
 | **Freenome** (cfDNA methylation) | 79.2% | 91.5% | 12.5% | 57% | Validated; expected to seek FDA/CMS approval |
 
-- **Key limitation:** both detect advanced precursor lesions (APLs) and stage 1 CRC **poorly** vs stool tests → reduced cancer prevention (poor APL detection) and curative-stage detection. (APL = adenoma or SSL ≥10 mm, villous, high-grade dysplasia, or carcinoma in situ.) Figures are one-time performance; optimal repeat interval unknown.
+- **Key limitation:** both detect APLs and stage 1 CRC **poorly** vs stool tests → reduced cancer prevention (poor APL detection) and curative-stage detection. (APL = adenoma or sessile serrated lesion [SSL] ≥10 mm, villous, high-grade dysplasia, or carcinoma in situ.) Figures are one-time performance; optimal repeat interval unknown.
 
 ### Effectiveness vs Established Tests (decision-analytic modeling, 4 validated models)
 
@@ -231,7 +231,7 @@ Sensitivity and specificity, % (95% CI). *AA = advanced adenoma. The source prin
 ### Positioning and Caveats
 
 - **Substitution vs supplementation:** if blood tests *substitute* for FIT/colonoscopy, population outcomes are inferior. To equal FIT/colonoscopy, participation must be ≥35% higher; outcomes similar only if for every 3 substituters there are 2 net-new screenees.
-- **Adherence is the main attraction:** only 60%–65% of eligible U.S. adults are up to date; offering a blood test to those who declined other screening raised uptake 17.5% in one study (RCT: ~11% higher adherence vs stool).
+- **Adherence is the main attraction:** only 60%–65% of eligible U.S. adults are up to date; offering a blood test to those who declined other screening raised uptake 17.5% in one study (randomized controlled trial [RCT]: ~11% higher adherence vs stool).
 - **Programmatic requirement:** abnormal blood test → must complete colonoscopy; normal → repeat at appropriate interval. ~50% of patients do not complete colonoscopy within 3–6 months of a positive stool test; whether decliners of screening colonoscopy will complete it after a positive blood test is unknown.
 - **Multicancer detection tests (e.g., Galleri):** sensitivity 51.5%, specificity 99.5% — investigational; mortality benefit unproven; premature for CRC screening. Interval blood tests between colonoscopies also premature.
 - **Bottom line:** blood tests may improve participation but could cause **net harm if substituted** for more effective tests; for patients who decline all other screening, they are an acceptable option.
@@ -263,7 +263,7 @@ What [[acg-2021-crc-screening]] itself recommends (the fuller metric set lives o
 
 | ACG 2021 rec | Content | Strength / Certainty |
 |---|---|---|
-| Rec 13 | **Measure** your individual CIR, ADR, and withdrawal time | Strong / Moderate for ADR; Low for WT and CIR |
+| Rec 13 | **Measure** your individual cecal intubation rate (CIR), adenoma detection rate (ADR), and withdrawal time (WT) | Strong / Moderate for ADR; Low for WT and CIR |
 | Rec 14 | ADR **below the recommended minimum threshold (<25%)** → undertake remedial training | Conditional / Very low |
 | Rec 15 | Spend **≥6 minutes** inspecting mucosa during withdrawal | Strong / Low |
 | Rec 16 | Achieve **CIR ≥90% overall and ≥95% in screening subjects** | Strong / Low |
@@ -273,12 +273,12 @@ What [[acg-2021-crc-screening]] itself recommends (the fuller metric set lives o
 | ADR benchmark | Value | Applies to |
 |---|---|---|
 | Minimum, overall | **25%** | Any screening colonoscopy — the Rec 14 remedial-training trigger |
-| Minimum, sex-specific | **30% men / 20% women** | Any screening colonoscopy (2015 MSTF thresholds) |
+| Minimum, sex-specific | **30% men / 20% women** | Any screening colonoscopy (2015 Multi-Society Task Force [MSTF] thresholds) |
 | Aspirational | **45–50%** | Mixed-gender population, for colonoscopists already above the minimums |
 | Minimum, **FIT-positive** population | **45% men / 35% women** | Programs screening primarily by FIT; aspirational may reach **≥75% in males** |
 
   - Only **conventional adenomas** count toward ADR (SSLs excluded, per the 2015 MSTF specification). **Exclude FIT-positive (and mtsDNA-positive) colonoscopies** from the routine ADR calculation — that indication carries a much higher ADR; measure them as their own population against the FIT-positive thresholds above.
-  - Each **1% increase in ADR** was associated with a **3% reduction in CRC incidence and a 5% reduction in fatal CRC** (PCCRC risk lower for ADR >33.5% vs <19.06%).
+  - Each **1% increase in ADR** was associated with a **3% reduction in CRC incidence and a 5% reduction in fatal CRC** (post-colonoscopy CRC [PCCRC] risk lower for ADR >33.5% vs <19.06%).
 - **Withdrawal time:** ≥6 min is the minimum; data suggest very-high-level detection tracks with an average of **9 minutes** in normal colonoscopies, which may change future thresholds. WT can be gamed (time spent in a single segment).
 - ADR is the most important quality metric — it is variable between endoscopists, strongly linked to post-colonoscopy CRC, and improvable with training. Computer-aided detection as a lever on ADR is covered on [[artificial-intelligence-endoscopy]]; bowel-prep adequacy on [[colonoscopy]].
 
@@ -288,13 +288,13 @@ What [[acg-2021-crc-screening]] itself recommends (the fuller metric set lives o
 
 | Risk Category | Screening Approach | Grade |
 |--------------|-------------------|---|
-| **1 FDR with CRC or advanced polyp at <60, OR ≥2 FDRs at any age** | Colonoscopy at **age 40 or 10 y before the youngest affected relative, whichever is earlier**; interval colonoscopy **every 5 years** ([[acg-2021-crc-screening]] Rec 9) | Conditional / Very low |
+| **1 first-degree relative (FDR) with CRC or advanced polyp at <60, OR ≥2 FDRs at any age** | Colonoscopy at **age 40 or 10 y before the youngest affected relative, whichever is earlier**; interval colonoscopy **every 5 years** ([[acg-2021-crc-screening]] Rec 9) | Conditional / Very low |
 | **1 FDR with CRC or advanced polyp at ≥60** | Begin at **age 40 or 10 y before the youngest affected relative**, then **resume average-risk screening** ([[acg-2021-crc-screening]] Rec 11) | Conditional / Very low |
 | **Higher familial burden** (more relatives and/or younger age at diagnosis) | Consider **genetic evaluation** ([[acg-2021-crc-screening]] Rec 10) | Conditional / Very low |
 | **Hereditary syndromes (Lynch, FAP, etc.)** | Separate surveillance protocols — see [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]] | — |
 | **[[inflammatory-bowel-disease\|IBD]]** | Excluded from average-risk screening and from the post-polypectomy grid — dysplasia surveillance strategy on [[ulcerative-colitis]] / [[crohns-disease]] | — |
 
-**[[aga-2023-crc-screening-risk-stratification|AGA 2023 CPU]] simplifies initiation and broadens who counts as increased risk** (Best Practice Advice, unrated — no systematic review was performed):
+**[[aga-2023-crc-screening-risk-stratification|AGA 2023 Clinical Practice Update (CPU)]] simplifies initiation and broadens who counts as increased risk** (Best Practice Advice, unrated — no systematic review was performed):
 
 - Treat **any FDR (parent, sibling, child) with CRC** as increased risk — **particularly diagnosed <50 y** — without the ACG <60/≥60 split. Pooled RR of CRC with ≥1 affected FDR ~1.76–2.26; **3.26** (95% CI 2.82–3.77) if the FDR was diagnosed **<50 y** vs **1.83** if ≥50 y.
 - **Increased-risk individuals → colonoscopy** is the screening strategy of choice (highest neoplasia sensitivity); average-risk individuals may choose among colonoscopy, FIT, flexible sigmoidoscopy + FIT, mt-sDNA-FIT, and CT colonography by availability and preference.
@@ -307,18 +307,18 @@ What [[acg-2021-crc-screening]] itself recommends (the fuller metric set lives o
 
 ⚠ **Scope.** [[aga-2021-crc-chemoprevention|AGA 2021]] **excludes dietary factors and high-risk individuals with hereditary syndromes or [[inflammatory-bowel-disease|IBD]]** — it says nothing about [[lynch-syndrome]], [[familial-adenomatous-polyposis|FAP]], or IBD. Do not extend it to them. (Aspirin in Lynch syndrome / CAPP2 is **not** in this source.) IBD chemoprevention = control of inflammation; see [[ulcerative-colitis]].
 
-⚠ **Read AGA's modal verbs as its grading.** The CPU performed no systematic review and no GRADE rating; the authors state that **"should" = more robust evidence, "may" = less robust.** There is no other strength rating in that document.
+⚠ **Read AGA's modal verbs as its grading.** The CPU performed no systematic review and no Grading of Recommendations Assessment, Development and Evaluation (GRADE) rating; the authors state that **"should" = more robust evidence, "may" = less robust.** There is no other strength rating in that document.
 
 ### Aspirin — use it, in a narrowly defined group
 
-**[[acg-2021-crc-screening|ACG 2021]] Rec 17 (Conditional / Low):** low-dose aspirin in adults aged **50–69** with **≥10% 10-year cardiovascular disease risk**, **not at elevated bleeding risk**, and **willing to take it for ≥10 years**. Aspirin does **NOT** substitute for CRC screening — Strong / Low (Rec 18).
+**[[acg-2021-crc-screening|ACG 2021]] Rec 17 (Conditional / Low):** low-dose aspirin in adults aged **50–69** with **≥10% 10-year cardiovascular disease (CVD) risk**, **not at elevated bleeding risk**, and **willing to take it for ≥10 years**. Aspirin does **NOT** substitute for CRC screening — Strong / Low (Rec 18).
 
 **[[aga-2021-crc-chemoprevention|AGA 2021]] BPA 1 ("should")** states the same gate as a **conjunction — all three must hold**:
 
 | # | Criterion | Why it is there |
 |---|---|---|
-| 1 | **Age <70 y AND life expectancy ≥10 y** | Benefit **does not appear until 10–19 years** after initiation; GI bleeding risk is **greater above age 70**. **ASPREE** (n = 19,114, 96% aged ≥70) found *higher* CRC mortality with aspirin (**HR 1.77; 1.02–3.06**) at median 4.7 y, without any increase in incidence |
-| 2 | **10-year CVD risk ≥10%** | Benefit "has only been consistently demonstrated in adults younger than 70 years who are at risk of cardiovascular disease"; consistent with USPSTF. Use the **ACC ASCVD Risk Estimator** |
+| 1 | **Age <70 y AND life expectancy ≥10 y** | Benefit **does not appear until 10–19 years** after initiation; GI bleeding risk is **greater above age 70**. **ASPREE** (n = 19,114, 96% aged ≥70) found *higher* CRC mortality with aspirin (**hazard ratio [HR] 1.77; 1.02–3.06**) at median 4.7 y, without any increase in incidence |
+| 2 | **10-year CVD risk ≥10%** | Benefit "has only been consistently demonstrated in adults younger than 70 years who are at risk of cardiovascular disease"; consistent with USPSTF. Use the **American College of Cardiology (ACC) atherosclerotic cardiovascular disease (ASCVD) Risk Estimator** |
 | 3 | **Not at high risk for bleeding** | Aspirin at **any** dose: major GI bleeding **OR 1.59 (1.32–1.91)**; intracranial bleeding **OR 1.34 (1.07–1.70)** |
 
 - ⚠ **Dropping the dose does not rescue the bleeding risk** — *"the risk did not change substantially when aspirin dose was 100 mg daily or less."* ASCEND (n = 15,480): **100 mg daily raised any major bleeding, RR 1.29 (1.09–1.52)** over 7 years. Quantifies the penalty carried on [[peptic-ulcer-disease]] and [[upper-gi-bleeding]].
@@ -331,7 +331,7 @@ What [[acg-2021-crc-screening]] itself recommends (the fuller metric set lives o
 
 | Agent | AGA 2021 BPA | Why |
 |---|---|---|
-| **Non-aspirin NSAIDs** | **BPA 3 — should not** use in average-risk individuals | Efficacy is real (meta-analysis of 23 observational studies, n = 1,286,773: **26% lower CRC risk**, OR 0.74; celecoxib/rofecoxib trials: **34%–45% lower adenoma recurrence**), but **two COX-2-inhibitor adenoma trials were terminated early for increased cardiovascular events**, and nonselective NSAID GI toxicity is dose-dependent. Protection is also **lost on stopping**, with a possible rebound increase |
+| **Non-aspirin nonsteroidal anti-inflammatory drugs (NSAIDs)** | **BPA 3 — should not** use in average-risk individuals | Efficacy is real (meta-analysis of 23 observational studies, n = 1,286,773: **26% lower CRC risk**, OR 0.74; celecoxib/rofecoxib trials: **34%–45% lower adenoma recurrence**), but **two cyclooxygenase-2 (COX-2)-inhibitor adenoma trials were terminated early for increased cardiovascular events**, and nonselective NSAID GI toxicity is dose-dependent. Protection is also **lost on stopping**, with a possible rebound increase |
 | **Calcium** | **BPA 6 — should not** (alone or with vitamin D) | ⚠ **Harm signal, not just absent benefit:** calcium was associated with an increased **delayed** risk of [[serrated-polyposis-syndrome\|sessile serrated lesions]], **RR 2.66 (1.44–4.89)** |
 | **Vitamin D** | **BPA 6 — should not** | **Women's Health Initiative** (>36,000 postmenopausal women, **1000 mg elemental calcium + 400 IU cholecalciferol**, mean 7 y): **no effect on CRC incidence** (HR 1.08; 0.86–1.34). ⚠ The **calcium + vitamin D combination** was associated with **increased SSL risk 6–10 years after starting, RR 3.82 (1.26–11.57)** |
 | **Folic acid** | **BPA 7 — should not** | Trial harm against observational benefit: a US trial (n = 1021) found **no** reduction in adenoma recurrence (RR 1.04) and **increased advanced and multiple adenomas**, **increased non-colorectal cancers (particularly prostate)**, and on long-term follow-up **a possible excess of right-sided serrated lesions** |

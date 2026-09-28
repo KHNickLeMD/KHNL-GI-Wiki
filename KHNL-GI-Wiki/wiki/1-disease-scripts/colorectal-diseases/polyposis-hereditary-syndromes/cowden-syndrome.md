@@ -26,12 +26,12 @@ sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 
 Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is caused by germline pathogenic variants in the **PTEN** tumor suppressor gene. The spectrum includes Cowden syndrome, Bannayan-Riley-Ruvalcaba syndrome (BRRS), Proteus syndrome, and Lhermitte-Duclos disease [[acg-2015-hereditary-gi-cancer]].
 
-**GI trigger for genetic evaluation** *(Strong, low — [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] R12)*: **multiple gastrointestinal hamartomas or ganglioneuromas** — refer for evaluation for Cowden's syndrome and related conditions. The **genetic** diagnosis of PHTS requires a germline pathogenic **PTEN** variant.
+**Gastrointestinal (GI) trigger for genetic evaluation** *(Strong, low — [[aga-2022-hamartomatous-polyposis|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2022]] R12)*: **multiple gastrointestinal hamartomas or ganglioneuromas** — refer for evaluation for Cowden's syndrome and related conditions. The **genetic** diagnosis of PHTS requires a germline pathogenic **PTEN** variant.
 
 - Broader referral trigger for *any* hamartomatous polyposis syndrome *(R1; Strong, low)*: **≥2 lifetime hamartomatous polyps**, a family history of hamartomatous polyps, or a hamartomatous-syndrome–associated cancer in a **first- or second-degree relative**; test with a **multigene panel**
 - **Organs to survey** *(R13; Strong, low)*: breast, thyroid, kidney, uterus, colon, and skin — via a **multidisciplinary** approach
 
-> **The clinical *diagnostic* criteria for CS are not on this page.** What follows is ACG 2015's list of indications for **PTEN testing**, which is a referral threshold, not a diagnosis. The operational diagnostic criteria (the weighted major/minor scoring used to call CS in a *PTEN*-negative patient) are maintained by **NCCN** (Genetic/Familial High-Risk Assessment): [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] states only that they are "complex, and can be found at the National Comprehensive Cancer Network website," and [[acg-2015-hereditary-gi-cancer|ACG 2015]] does not reproduce them either.
+> **The clinical *diagnostic* criteria for CS are not on this page.** What follows is American College of Gastroenterology (ACG) 2015's list of indications for **PTEN testing**, which is a referral threshold, not a diagnosis. The operational diagnostic criteria (the weighted major/minor scoring used to call CS in a *PTEN*-negative patient) are maintained by **National Comprehensive Cancer Network (NCCN)** (Genetic/Familial High-Risk Assessment): [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] states only that they are "complex, and can be found at the National Comprehensive Cancer Network website," and [[acg-2015-hereditary-gi-cancer|ACG 2015]] does not reproduce them either.
 
 **Indications for PTEN genetic evaluation** (Table 11) [[acg-2015-hereditary-gi-cancer]]:
 
@@ -41,7 +41,7 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 
 **Major criteria**: breast cancer · endometrial cancer · follicular thyroid cancer · **multiple** GI hamartomas or ganglioneuromas · macrocephaly (**megalocephaly, ≥97th percentile**) · macular pigmentation of glans penis · **mucocutaneous lesions — counts as a major criterion only if** one biopsy-proven trichilemmoma, **or** multiple palmoplantar keratoses, **or** multifocal/extensive oral mucosal papillomatosis, **or** multiple cutaneous facial papules (often verrucous)
 
-**Minor criteria**: autism spectrum disorder · [[colorectal-cancer|colon cancer]] · esophageal glycogenic acanthosis (**≥3** lesions) · lipomas · mental retardation (**IQ ≤75**) · papillary or follicular variant of papillary thyroid cancer · thyroid structural lesions (adenoma, nodule(s), goiter) · renal cell carcinoma · **single** GI hamartoma or ganglioneuroma · testicular lipomatosis · vascular anomalies (including multiple intracranial developmental venous anomalies)
+**Minor criteria**: autism spectrum disorder · [[colorectal-cancer|colon cancer]] · esophageal glycogenic acanthosis (**≥3** lesions) · lipomas · mental retardation (**intelligence quotient (IQ) ≤75**) · papillary or follicular variant of papillary thyroid cancer · thyroid structural lesions (adenoma, nodule(s), goiter) · renal cell carcinoma · **single** GI hamartoma or ganglioneuroma · testicular lipomatosis · vascular anomalies (including multiple intracranial developmental venous anomalies)
 
 > **Counting rule (ACG 2015 Table 11 footnote b):** if a patient has **≥2 major criteria but no macrocephaly**, one of those major criteria **may be counted as one of the three minor criteria** to meet testing criteria — so the "1 major + ≥3 minor" pathway can be satisfied using a surplus major criterion.
 
@@ -65,7 +65,7 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 
 **Cumulative lifetime cancer risks from the International Cowden Consortium** (368 germline PTEN carriers) — [[aga-2022-hamartomatous-polyposis|USMSTF 2022]]:
 
-| Cancer | SIR (95% CL) | Cumulative lifetime risk (95% CL) |
+| Cancer | standardized incidence ratio (SIR) (95% confidence limits (CL)) | Cumulative lifetime risk (95% CL) |
 |---|---|---|
 | Breast | **25.4** (19.8–32.0) | **85.2%** (71.4–99.1) |
 | Thyroid | **51.1** (38.1–67.1) | **35.2%** (19.7–50.7) |
@@ -75,7 +75,7 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 | Melanoma | **8.5** (4.1–15.6) | **6%** (1.6–9.4) |
 
 - Median age at first cancer **36 years**; cumulative risk of **any** cancer by age 70 is **85–89%**
-- **CRC risk 9–18% lifetime, mean age 44 (range 35–49)** — this age distribution is the whole argument for starting colonoscopy at 35 rather than 15
+- **Colorectal cancer (CRC) risk 9–18% lifetime, mean age 44 (range 35–49)** — this age distribution is the whole argument for starting colonoscopy at 35 rather than 15
 - The cumulative risk of developing **colonic polyps** reaches **70% by age 60**; benign GI polyps were found in 31% of one cohort at mean age 38
 - In a "relaxed" International Cowden Consortium series, **13% of PTEN carriers who underwent colonoscopy developed CRC — all before age 50** (youngest 35), SIR **224.1**
 - **Esophageal glycogenic acanthosis is benign** — there is **no reported increased [[esophageal-cancer|esophageal cancer]] risk**
@@ -88,8 +88,8 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 
 - **[[juvenile-polyposis-syndrome]]** — SMAD4/BMPR1A; no breast/thyroid/endometrial high-risk; distinct histology
 - **[[peutz-jeghers-syndrome]]** — STK11; mucocutaneous pigmentation; arborizing hamartomas
-- **Bannayan-Riley-Ruvalcaba syndrome (BRRS)** — allelic to Cowden (PTEN); a **paediatric** condition with macrocephaly, developmental delay, GI hamartomatous polyps, and **pigmented macules on the toes and glans penis** (also called Bannayan-Zonana or Ruvalcaba-Riley-Smith). Members of the *same* family may show either the BRRS or the CS phenotype, and some BRRS cases have no detectable PTEN variant [[aga-2022-hamartomatous-polyposis]]
-- **[[juvenile-polyposis-syndrome|Juvenile polyposis of infancy]]** — a **10q22.3–q24.1 deletion removing both PTEN and BMPR1A** looks like BRRS *and* like JPS; consider it when the two phenotypes overlap in an infant
+- **BRRS** — allelic to Cowden (PTEN); a **paediatric** condition with macrocephaly, developmental delay, GI hamartomatous polyps, and **pigmented macules on the toes and glans penis** (also called Bannayan-Zonana or Ruvalcaba-Riley-Smith). Members of the *same* family may show either the BRRS or the CS phenotype, and some BRRS cases have no detectable PTEN variant [[aga-2022-hamartomatous-polyposis]]
+- **[[juvenile-polyposis-syndrome|Juvenile polyposis of infancy]]** — a **10q22.3–q24.1 deletion removing both PTEN and BMPR1A** looks like BRRS *and* like juvenile polyposis syndrome (JPS); consider it when the two phenotypes overlap in an infant
 - **[[familial-adenomatous-polyposis]]** — adenomatous polyps; APC gene
 - **[[hereditary-mixed-polyposis-syndrome|Hereditary mixed polyposis syndrome]]** — GREM1 duplication; mixed polyp types
 
@@ -97,7 +97,7 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 
 ## Diagnostics
 
-**Assessment at the time of CS/PHTS diagnosis** should include a complete clinical examination (**especially dermatologic and neurologic**) plus **mammography + breast MRI, thyroid ultrasound, transvaginal ultrasound, [[upper-endoscopy|upper GI endoscopy]], [[colonoscopy]], and renal ultrasound** [[aga-2022-hamartomatous-polyposis]].
+**Assessment at the time of CS/PHTS diagnosis** should include a complete clinical examination (**especially dermatologic and neurologic**) plus **mammography + breast magnetic resonance imaging (MRI), thyroid ultrasound, transvaginal ultrasound, [[upper-endoscopy|upper GI endoscopy]], [[colonoscopy]], and renal ultrasound** [[aga-2022-hamartomatous-polyposis]].
 
 **[[colonoscopy|Colonoscopy]] — begin at age 35, repeat at intervals no greater than 5 years, depending on polyp burden** *(Weak, low — [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] R14)*:
 
@@ -120,12 +120,12 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 | Thyroid exam + ultrasound | **Adolescence**, annual | **7**, annual | **Annual from the time of PHTS diagnosis, including in childhood** ‡ |
 | Breast MRI and/or mammogram | **30–35**, annual | **30–35**, annual | **30–35** (or 5–10 y before earliest family breast cancer), annual — preceded by **clinical breast exam q6–12 mo from 25** ‡ |
 | Endometrial sampling | **30–35**, annual | (no start age given), q1–2 y | From **30–35**: symptom education (abnormal/postmenopausal bleeding) + **endometrial biopsy q1–2 y may be considered** ‡ |
-| Urinalysis / renal imaging | Urinalysis with cytology ± renal US, **18**, annual | **40**, q1–2 y | **Renal US and/or MRI: annual from 40 if family history of renal cancer, otherwise every 2 years** ‡ |
+| Urinalysis / renal imaging | Urinalysis with cytology ± renal ultrasound (US), **18**, annual | **40**, q1–2 y | **Renal US and/or MRI: annual from 40 if family history of renal cancer, otherwise every 2 years** ‡ |
 | Skin examination | ~**18**, annual | **At diagnosis**, annual | **Annual clinical skin examination from age 18** ‡ |
 
-**† Where the NCCN 2020 column comes from.** These are **not** direct citations to an NCCN guideline. Every value is transcribed from **Table 4 of [[aga-2022-hamartomatous-polyposis|USMSTF 2022]]**, which prints ACG 2015, NCCN 2020, and ESPGHAN 2019 as comparison columns beside its own. Read them as *"USMSTF reports that NCCN 2020 advises…"* — the primary NCCN document's qualifiers and footnotes are not reproduced here. (ESPGHAN 2019 gives no PHTS values at all.)
+**† Where the NCCN 2020 column comes from.** These are **not** direct citations to an NCCN guideline. Every value is transcribed from **Table 4 of [[aga-2022-hamartomatous-polyposis|USMSTF 2022]]**, which prints ACG 2015, NCCN 2020, and European Society for Paediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN) 2019 as comparison columns beside its own. Read them as *"USMSTF reports that NCCN 2020 advises…"* — the primary NCCN document's qualifiers and footnotes are not reproduced here. (ESPGHAN 2019 gives no PHTS values at all.)
 
-**‡ Not graded recommendations.** Only the colonoscopy row is one of the guideline's 14 GRADE-rated statements. USMSTF explicitly "reserved our management recommendations to" GI and GI-malignancy questions and **defers to other expert groups for the other cancers**; the extraintestinal rows above are the statement's **narrative report** of those groups' schedules, and the USMSTF column of its own Table 4 is blank for all of them.
+**‡ Not graded recommendations.** Only the colonoscopy row is one of the guideline's 14 Grading of Recommendations Assessment, Development and Evaluation (GRADE)-rated statements. USMSTF explicitly "reserved our management recommendations to" GI and GI-malignancy questions and **defers to other expert groups for the other cancers**; the extraintestinal rows above are the statement's **narrative report** of those groups' schedules, and the USMSTF column of its own Table 4 is blank for all of them.
 
 - **Upper GI**: only [[acg-2015-hereditary-gi-cancer|ACG 2015]] sets an interval — from age 15, every 2–3 years, repeating sooner if duodenal polyposis is present. USMSTF 2022 recommends upper endoscopy **at diagnosis** but gives no surveillance interval
 - Breast: refer to a breast cancer specialist; involve a **breast surgeon** in any prophylactic-mastectomy discussion. Risk-reducing **mastectomy and hysterectomy** should be discussed case by case (no data on risk-reduction surgery in CS)

@@ -21,7 +21,7 @@ sources: [aga-2024-pregnancy-gi-liver]
 
 ## Assessment
 
-Nausea and vomiting of pregnancy (NVP) is common ([[gerd|heartburn]]/nausea/vomiting frequency 30%–90% in pregnancy). NVP begins at **4–6 weeks**, peaks at **8–12 weeks**, and usually subsides by **week 20**. Associated with elevated hCG and estrogen and progesterone-mediated delayed gastric emptying. ([[aga-2024-pregnancy-gi-liver]])
+Nausea and vomiting of pregnancy (NVP) is common ([[gerd|heartburn]]/nausea/vomiting frequency 30%–90% in pregnancy). NVP begins at **4–6 weeks**, peaks at **8–12 weeks**, and usually subsides by **week 20**. Associated with elevated human chorionic gonadotropin (hCG) and estrogen and progesterone-mediated delayed gastric emptying. ([[aga-2024-pregnancy-gi-liver]])
 
 ### Establishing the Diagnosis
 
@@ -47,11 +47,11 @@ Severity: **≤6 mild, 7–12 moderate, ≥13 severe.** ([[aga-2024-pregnancy-gi
 
 *Workup: see [[nausea-and-vomiting]].*
 
-- [[gastroparesis|Gastroparesis]] and other primary GI dysmotility
+- [[gastroparesis|Gastroparesis]] and other primary gastrointestinal (GI) dysmotility
 - [[cyclic-vomiting-syndrome|Cyclic vomiting syndrome]] / [[cannabinoid-hyperemesis-syndrome|cannabinoid hyperemesis]]
 - Molar/multiple pregnancy, thyroid disease (hyperthyroidism) — associated with/mimic HG
 - Hepatobiliary, vascular ([[portal-vein-thrombosis|portal vein thrombosis]]), or renal causes — ultrasound helps exclude gallstones, molar pregnancy, and assess fetal growth
-- Pregnancy-specific liver disease — [[intrahepatic-cholestasis-of-pregnancy|ICP]], [[acute-fatty-liver-of-pregnancy|AFLP]], HELLP (see [[liver-disease-in-pregnancy]])
+- Pregnancy-specific liver disease — [[intrahepatic-cholestasis-of-pregnancy|intrahepatic cholestasis of pregnancy (ICP)]], [[acute-fatty-liver-of-pregnancy|acute fatty liver of pregnancy (AFLP)]], hemolysis, elevated liver enzymes, and low platelets (HELLP) syndrome (see [[liver-disease-in-pregnancy]])
 
 ## Diagnostics
 
@@ -61,22 +61,22 @@ Severity: **≤6 mild, 7–12 moderate, ≥13 severe.** ([[aga-2024-pregnancy-gi
 
 ## Therapeutics
 
-**Early treatment of NVP may reduce progression to HG.** ([[aga-2024-pregnancy-gi-liver]] BPA 4)
+**Early treatment of NVP may reduce progression to HG.** ([[aga-2024-pregnancy-gi-liver]] best practice advice [BPA] 4)
 
 ### Stepwise Treatment
 
-1. **Diet and lifestyle** — small, frequent, bland meals (e.g., BRAT diet), high-protein/low-fat; avoid strong-odor triggers; reduce spicy/fatty/acidic/fried foods (also for heartburn).
+1. **Diet and lifestyle** — small, frequent, bland meals (e.g., bananas, rice, applesauce, and toast [BRAT] diet), high-protein/low-fat; avoid strong-odor triggers; reduce spicy/fatty/acidic/fried foods (also for heartburn).
 2. **Ginger** — 250-mg capsule 4 times daily.
-3. **Vitamin B6 (pyridoxine) 10–25 mg every 8 hours** (ACOG); first-line for mild cases.
+3. **Vitamin B6 (pyridoxine) 10–25 mg every 8 hours** (American College of Obstetricians and Gynecologists [ACOG]); first-line for mild cases.
 4. **Doxylamine + pyridoxine** — combinations 10 mg/10 mg or 20 mg/20 mg; safe, well tolerated; doxylamine is FDA-approved and recommended for persistent NVP refractory to nonpharmacologic therapy.
 5. **Hydration and adequate nutrition.**
 
-Overall stepwise sequence (BPA 4): symptom control with **vitamin B6 and doxylamine**, hydration, and adequate nutrition; **ondansetron, metoclopramide, promethazine, and IV glucocorticoids** may be required in moderate-to-severe cases.
+Overall stepwise sequence (BPA 4): symptom control with **vitamin B6 and doxylamine**, hydration, and adequate nutrition; **ondansetron, metoclopramide, promethazine, and intravenous (IV) glucocorticoids** may be required in moderate-to-severe cases.
 
-- **H1-antagonists** (doxylamine, promethazine, dimenhydrinate) — safe first-line antiemetics.
+- **Histamine-1 (H1) antagonists** (doxylamine, promethazine, dimenhydrinate) — safe first-line antiemetics.
 - **Metoclopramide** — for NVP/HG; fewer sedation/dystonia adverse effects than promethazine; no increased congenital defects.
 - **Ondansetron** — second-line (some reports of congenital heart defects with 1st-trimester use); use case-by-case for persistent symptoms before 10 weeks.
-- **[[proton-pump-inhibitors|PPIs]]** (omeprazole, pantoprazole) or H2-blockers for coexisting heartburn.
+- **[[proton-pump-inhibitors|proton pump inhibitors (PPIs)]]** (omeprazole, pantoprazole) or histamine-2 (H2) blockers for coexisting heartburn.
 
 ### Hyperemesis Gravidarum
 

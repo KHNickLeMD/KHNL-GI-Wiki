@@ -7,7 +7,7 @@ updated: 2026-09-05
 sources: [aga-2026-electrosurgery]
 ---
 
-Conversion of high-frequency alternating current from an **electrosurgical unit (ESU)** into thermal energy at target tissue. The single home for electrosurgical principles, settings, and safety — [[polypectomy]], [[endoscopic-mucosal-resection|EMR]], [[endoscopic-submucosal-dissection|ESD]], [[ercp|sphincterotomy]], and [[argon-plasma-coagulation|APC]] link here rather than restating the physics. Per [[aga-2026-electrosurgery]] (13 Best Practice Advice statements; **no formal evidence grades** — the authors did not perform systematic reviews).
+Conversion of high-frequency alternating current from an **electrosurgical unit (ESU)** into thermal energy at target tissue. The single home for electrosurgical principles, settings, and safety — [[polypectomy]], [[endoscopic-mucosal-resection|endoscopic mucosal resection (EMR)]], [[endoscopic-submucosal-dissection|endoscopic submucosal dissection (ESD)]], [[ercp|sphincterotomy]], and [[argon-plasma-coagulation|argon plasma coagulation (APC)]] link here rather than restating the physics. Per [[aga-2026-electrosurgery]] (13 Best Practice Advice [BPA] statements; **no formal evidence grades** — the authors did not perform systematic reviews).
 
 **The one idea that organizes everything below:** tissue effect is driven by **current density**, and the ESU dial is only one of its inputs. Device geometry, operator technique, tissue characteristics, and the gas-vs-fluid environment act through the same pathway — so **changing ESU settings alone may not achieve the desired tissue effect** (BPA 3).
 
@@ -73,7 +73,7 @@ Determined by the **rapidity, amplitude, and depth** of heating:
 - **Crest factor** = peak voltage relative to average voltage. **Higher voltage spikes force current through high impedance → deeper tissue effect.**
 - Every manufacturer names its modes differently, but all named modes are just different duty-cycle/crest-factor combinations. Learn the concepts, then map your suite's mode names onto them (BPA 2).
 
-The CPU's Figure 1 plots the cut↔coagulation continuum against duty cycle, crest factor, and voltage; see the source document for the figure.
+Figure 1 of the clinical practice update (CPU) plots the cut↔coagulation continuum against duty cycle, crest factor, and voltage; see the source document for the figure.
 
 ### Monopolar vs Bipolar
 
@@ -93,7 +93,7 @@ The CPU's Figure 1 plots the cut↔coagulation continuum against duty cycle, cre
 
 ### Tissue Resistance Is Not Constant
 
-- **By GI segment:** lower in the **esophagus**, higher in the **colon**.
+- **By gastrointestinal (GI) segment:** lower in the **esophagus**, higher in the **colon**.
 - **By wall layer, least → highest resistance:** **submucosa < mucosa < muscularis propria**.
 - **During the procedure:** resistance *rises* as tissue desiccates (e.g. progressively during snare polypectomy).
 - By Ohm's law, as resistance rises **current falls unless voltage rises** — the problem microprocessor-controlled generators exist to solve.
@@ -172,7 +172,7 @@ Pacemakers and implantable cardioverter-defibrillators may react to ESU signals 
 - **Mandatory preoperative assessment:** the device's **manufacturer**, **model**, **location**, and whether the patient is **device-dependent**.
 - Place the **dispersive pad so current does not flow through or near the device or its leads**.
 - **Preferentially use multipolar electrocautery when feasible.**
-- ⚠ **There is no GI societal consensus** on managing cardiac and non-cardiac implantable devices during electrosurgery; this guidance derives from the HRS/ASA perioperative consensus statement, which is not summarized here.
+- ⚠ **There is no GI societal consensus** on managing cardiac and non-cardiac implantable devices during electrosurgery; this guidance derives from the Heart Rhythm Society (HRS)/American Society of Anesthesiologists (ASA) perioperative consensus statement, which is not summarized here.
 
 ---
 
@@ -204,7 +204,7 @@ flowchart TD
 *Technique selection by lesion size and morphology lives on [[polypectomy]]; only the current choice is here.*
 
 - **Either a cut- or a coagulation-predominant current is acceptable** for colorectal polyp resection — **no clear difference in serious adverse events, complete resection rate, or recurrence** (BPA 5).
-- **RCT data** (blended cut = EndoCut Q effect 2, duration 1, interval 4 vs coagulation = forced coagulation effect 2, 25 W; ERBE):
+- **Randomized controlled trial (RCT) data** (blended cut = EndoCut Q effect 2, duration 1, interval 4 vs coagulation = forced coagulation effect 2, 25 W; ERBE):
 
 | Outcome | Cut (blended) | Coagulation | P |
 |---|---|---|---|
@@ -218,7 +218,7 @@ flowchart TD
 
 ### Post-EMR Margin Ablation
 
-*Recurrence figures and the STSC-vs-[[argon-plasma-coagulation|APC]] choice live on [[endoscopic-mucosal-resection]]. The electrosurgical constraints are here (BPA 7):*
+*Recurrence figures and the snare-tip soft coagulation (STSC)-vs-[[argon-plasma-coagulation|APC]] choice live on [[endoscopic-mucosal-resection]]. The electrosurgical constraints are here (BPA 7):*
 
 - **Ablate only the normal-appearing mucosal margin.** Any **visible residual neoplasia must be resected** — additional cold snaring or another adjunct technique — never ablated.
 - Snare-tip soft coagulation penetrates deeply; apply with caution to avoid thermal injury to the **muscularis propria** (see next section).
@@ -254,7 +254,7 @@ The one **non-contact** modality in this page (BPA 11): argon delivered to the c
 
 ### ERCP Sphincterotomy
 
-*Indications and adverse-event rates are on [[ercp]]; energy delivery is here (BPA 12).*
+*Indications and adverse-event rates are on [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]; energy delivery is here (BPA 12).*
 
 - **Goal: high current density at the cutting wire.** Minimize sphincterotome wire contact with mucosa and sphincter.
 - The wire should **not be "buried" in the sphincter** — apply it **gently to the surface with minimal tension**. This concentrates current density while minimizing collateral thermal injury.
@@ -263,7 +263,7 @@ The one **non-contact** modality in this page (BPA 11): argon delivered to the c
 
 ### Third-Space Endoscopy (ESD, POEM)
 
-Applies to [[endoscopic-submucosal-dissection|ESD]], [[colorectal-esd|colorectal ESD]], [[poem|POEM]], and [[g-poem|G-POEM]] — monopolar electrosurgery in a submucosal tunnel, where off-target injury is the governing concern (BPA 13).
+Applies to [[endoscopic-submucosal-dissection|ESD]], [[colorectal-esd|colorectal ESD]], [[poem|peroral endoscopic myotomy (POEM)]], and [[g-poem|gastric POEM (G-POEM)]] — monopolar electrosurgery in a submucosal tunnel, where off-target injury is the governing concern (BPA 13).
 
 | Situation | What to use | Why |
 |---|---|---|

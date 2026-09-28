@@ -9,7 +9,7 @@ sources: [asge-2015-ampullary-duodenal-adenomas, aga-2025-nonampullary-duodenal]
 
 # Ampullary & Duodenal Adenoma
 
-Adenomas of the **major duodenal papilla (ampullary adenomas)** and of the **nonampullary duodenum** are premalignant lesions that follow an adenoma–carcinoma sequence. Both occur sporadically or in polyposis syndromes ([[familial-adenomatous-polyposis|FAP]], [[peutz-jeghers-syndrome|Peutz-Jeghers]]). Endoscopic resection is a viable alternative to surgery in selected cases.
+Adenomas of the **major duodenal papilla (ampullary adenomas)** and of the **nonampullary duodenum** are premalignant lesions that follow an adenoma–carcinoma sequence. Both occur sporadically or in polyposis syndromes ([[familial-adenomatous-polyposis|familial adenomatous polyposis (FAP)]], [[peutz-jeghers-syndrome|Peutz-Jeghers]]). Endoscopic resection is a viable alternative to surgery in selected cases.
 
 ## Contents
 - [[#Assessment]]
@@ -37,7 +37,7 @@ Adenomas of the **major duodenal papilla (ampullary adenomas)** and of the **non
   - Sample **away from the pancreatic duct orifice** (post-biopsy [[acute-pancreatitis|pancreatitis]] reported).
   - Reduce false-negatives: ≥6 specimens, or biopsy within 10 days of sphincterotomy.
   - Orient forceps **parallel to folds** to limit submucosal fibrosis (preserves later resectability).
-- For nonampullary lesions, **first confirm the polyp does not involve the major papilla** (side-viewing scope or EUS) — if it does, manage ducts as for an ampullary lesion.
+- For nonampullary lesions, **first confirm the polyp does not involve the major papilla** (side-viewing scope or endoscopic ultrasound [EUS]) — if it does, manage ducts as for an ampullary lesion.
 
 ### Severity Assessment
 
@@ -58,7 +58,7 @@ Adenomas of the **major duodenal papilla (ampullary adenomas)** and of the **non
 
 - **Ampullary carcinoma** (adenocarcinoma of the papilla) — may be indistinguishable endoscopically; false-negative biopsy for carcinoma 16–60%.
 - **Non-adenomatous papillary lesions:** [[gastroenteropancreatic-neuroendocrine-tumors|carcinoid (neuroendocrine) tumor]], gangliocytic paraganglioma.
-- **Nonampullary duodenal lesions:** inflammatory polyp, Brunner's gland hyperplasia, [[subepithelial-lesion|subepithelial lesion]] (e.g. lipoma, NET), heterotopic pancreas.
+- **Nonampullary duodenal lesions:** inflammatory polyp, Brunner's gland hyperplasia, [[subepithelial-lesion|subepithelial lesion]] (e.g. lipoma, neuroendocrine tumor [NET]), heterotopic pancreas.
 - **Syndromic vs sporadic adenoma** ([[familial-adenomatous-polyposis|FAP]], [[peutz-jeghers-syndrome|Peutz-Jeghers]]).
 
 ---
@@ -67,17 +67,17 @@ Adenomas of the **major duodenal papilla (ampullary adenomas)** and of the **non
 
 | Modality | Role | Notes |
 |---|---|---|
-| Side-viewing duodenoscopy | Visualize/biopsy papilla | Standard forward-view EGD ([[upper-endoscopy]]) may miss adenomatous change |
+| Side-viewing duodenoscopy | Visualize/biopsy papilla | Standard forward-view esophagogastroduodenoscopy (EGD) ([[upper-endoscopy]]) may miss adenomatous change |
 | Forceps biopsy | Confirm adenoma, exclude cancer | Diagnostic (adenoma+carcinoma) rate 45–80%; false-negative for carcinoma 16–60%; ≥6 specimens or sample ≤10 d post-sphincterotomy |
-| [[endoscopic-ultrasound]] (EUS) / intraductal US | Large lesions or features concerning for malignancy | Superior to CT/MRI/transabdominal US for **T staging**; assesses intraductal extension and depth beyond muscularis propria. IDUS may visualize tumor better but can overstage |
+| [[endoscopic-ultrasound\|EUS]] / intraductal ultrasound (IDUS) | Large lesions or features concerning for malignancy | Superior to computed tomography (CT)/magnetic resonance imaging (MRI)/transabdominal ultrasound for **T staging**; assesses intraductal extension and depth beyond muscularis propria. IDUS may visualize tumor better but can overstage |
 | [[mri-mrcp\|MRI]] | Nodal (N) staging | Superior to EUS for nodal staging |
-| CT / PET | Detect distant metastases | May detect small mets missed by EUS/IDUS |
-| [[ercp]] (biliary + pancreatic duct) | At time of papillectomy | Assess ductal extension; ductography important if EUS not done |
+| CT / positron emission tomography (PET) | Detect distant metastases | May detect small mets missed by EUS/IDUS |
+| [[ercp\|Endoscopic retrograde cholangiopancreatography (ERCP)]] (biliary + pancreatic duct) | At time of papillectomy | Assess ductal extension; ductography important if EUS not done |
 
 - **[[brush-cytology|Brush cytology]]** may aid detection of malignancy in selected cases.
 - K-ras/p53/immunohistochemical and microRNA/flow-cytometry markers remain **investigational**.
 - EUS may be omitted for small (<1 cm) ampullary lesions without malignant features (ulceration, induration, bleeding).
-- **Intraductal extension <1 cm** into the CBD or PD does not necessarily preclude endoscopic therapy (tissue may be exposed/ablated; balloon dilation can expose intraductal tissue).
+- **Intraductal extension <1 cm** into the common bile duct (CBD) or pancreatic duct (PD) does not necessarily preclude endoscopic therapy (tissue may be exposed/ablated; balloon dilation can expose intraductal tissue).
 
 ---
 
@@ -94,25 +94,25 @@ Endoscopic resection has lower adverse-event rates (~14%) than local surgical ex
   - No proven superiority of snare type, current (cut vs blended), or snare orientation; larger-channel therapeutic duodenoscope eases instrument passage.
   - Retrieve specimens immediately (avoid migration/fragmentation); glucagon may reduce peristalsis; **CO₂ insufflation** advantageous if perforation.
 - **Adjuncts:**
-  - Submucosal injection (saline/epinephrine/viscous agents) — not mandatory; "underwater" EMR also described. Lift failure = contraindication to complete resection (suggests malignancy).
+  - Submucosal injection (saline/epinephrine/viscous agents) — not mandatory; "underwater" endoscopic mucosal resection (EMR) also described. Lift failure = contraindication to complete resection (suggests malignancy).
   - Chromoendoscopy (indigo carmine) to define flat-lesion margins.
   - Pancreatic and/or biliary sphincterotomy often performed to aid drainage/access; no consensus.
 - **Post-procedure pancreatitis prophylaxis:** **prophylactic pancreatic duct stent placement + rectal indomethacin** recommended to reduce post-ERCP pancreatitis. Prophylactic biliary stent not routinely recommended unless inadequate biliary drainage or microperforation concern.
-- **Ablation** (residual/recurrent superficial tissue): [[argon-plasma-coagulation|APC]] most common (50–60 W); place PD stent before ablating near the PD orifice; biopsy suspicious areas before ablating (ablated tissue not available for pathology).
+- **Ablation** (residual/recurrent superficial tissue): [[argon-plasma-coagulation|argon plasma coagulation (APC)]] most common (50–60 W); place PD stent before ablating near the PD orifice; biopsy suspicious areas before ablating (ablated tissue not available for pathology).
 - **Outcomes:** clinical success 46–92%; recurrence up to 33%; multiple sessions may be needed. Predictors of long-term success: age >48 y, lesion ≤24 mm, male sex, absence of polyposis syndrome (e.g. [[familial-adenomatous-polyposis|FAP]]). Intraductal growth → lower cure, more surgery.
 - **Adverse events:** pancreatitis (usually mild–moderate), perforation, bleeding, [[acute-cholangitis|cholangitis]], [[endoscopy-sedation|sedation]] events; late pancreatic/biliary stenosis; death rare.
 - Endoscopic removal of frank **ampullary adenocarcinoma is not endorsed** for routine management.
 
 ### Nonampullary Duodenal Adenoma
 
-**The full resection, complication, surveillance and FAP/Spiegelman framework lives on [[nonampullary-duodenal-adenoma]]** — it is built on the newer [[aga-2025-nonampullary-duodenal|AGA 2025 CPU]] and governs where the two guidelines differ. Points specific to this page's source ([[asge-2015-ampullary-duodenal-adenomas]]) and not duplicated there:
+**The full resection, complication, surveillance and FAP/Spiegelman framework lives on [[nonampullary-duodenal-adenoma]]** — it is built on the newer [[aga-2025-nonampullary-duodenal|American Gastroenterological Association (AGA) 2025 Clinical Practice Update (CPU)]] and governs where the two guidelines differ. Points specific to this page's source ([[asge-2015-ampullary-duodenal-adenomas]]) and not duplicated there:
 
 - Approach mirrors **right-colon [[polypectomy|polypectomy]]** given the thin duodenal wall ([[endoscopic-mucosal-resection|EMR]] is the mainstay); submucosal injection cushion for flat lesions, and **lack of lift suggests malignancy or prior manipulation**.
-- **>33% circumferential** involvement → consider surgery. Giant (>3 cm) hemicircumferential LSTs carry a higher bleeding rate (**26.3% vs 3.2%** for lesions <3 cm).
+- **>33% circumferential** involvement → consider surgery. Giant (>3 cm) hemicircumferential laterally spreading tumors (LSTs) carry a higher bleeding rate (**26.3% vs 3.2%** for lesions <3 cm).
 - **Minor papilla / [[pancreas-divisum|pancreas divisum]] adenomas:** dorsal PD stenting reported during resection.
 - Adjuvant [[argon-plasma-coagulation|APC]]/electrocoagulation for residual or recurrent superficial tissue.
 
-> ⚠ **Superseded — periprocedural orders.** ASGE 2015 described one high-volume protocol (observe ~4 h; clear liquids the day of the procedure → normal diet next day; hold antiplatelets 7 days; twice-daily [[proton-pump-inhibitors|PPI]] × 2 weeks). The newer [[aga-2025-nonampullary-duodenal|AGA 2025 CPU]] instead advises **twice-daily PPI × 6–8 weeks**, diet advanced as tolerated over the same window, and holding **antithrombotics ≥48 h**. Same guideline tier, newer publication date — **follow AGA 2025** (see [[nonampullary-duodenal-adenoma]]).
+> ⚠ **Superseded — periprocedural orders.** American Society for Gastrointestinal Endoscopy (ASGE) 2015 described one high-volume protocol (observe ~4 h; clear liquids the day of the procedure → normal diet next day; hold antiplatelets 7 days; twice-daily [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] × 2 weeks). The newer [[aga-2025-nonampullary-duodenal|AGA 2025 CPU]] instead advises **twice-daily PPI × 6–8 weeks**, diet advanced as tolerated over the same window, and holding **antithrombotics ≥48 h**. Same guideline tier, newer publication date — **follow AGA 2025** (see [[nonampullary-duodenal-adenoma]]).
 
 ### Surveillance
 

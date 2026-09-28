@@ -16,7 +16,7 @@ sources: []
 - **Type:** Prospective cohort — secondary analysis (ClinicalTrials.gov NCT02022826)
 
 ## Summary
-Secondary analysis of a multicenter prospective cohort of patients presenting with upper-GI symptoms suggestive of gastroparesis, who underwent **concurrent wireless motility capsule (WMC) and gastric emptying scintigraphy**. Fifty-six subjects were recommended a new or changed **constipation medication** based on transit-test interpretation; Gastroparesis Cardinal Symptom Index (GCSI), upper abdominal pain, and constipation scores were compared from baseline to 6 months, stratified by gastric emptying status (delayed vs non-delayed) and colonic transit (slow vs normal).
+Secondary analysis of a multicenter prospective cohort of patients presenting with upper-gastrointestinal (GI) symptoms suggestive of gastroparesis, who underwent **concurrent wireless motility capsule (WMC) and gastric emptying scintigraphy**. Fifty-six subjects were recommended a new or changed **constipation medication** based on transit-test interpretation; Gastroparesis Cardinal Symptom Index (GCSI), upper abdominal pain, and constipation scores were compared from baseline to 6 months, stratified by gastric emptying status (delayed vs non-delayed) and colonic transit (slow vs normal).
 
 Core message: in patients presenting with gastroparesis-type symptoms, **identifying and treating coexisting slow colonic transit improves upper-GI symptoms** — supporting a whole-gut evaluation (not gastric-emptying alone) and treatment of lower-gut dysmotility.
 

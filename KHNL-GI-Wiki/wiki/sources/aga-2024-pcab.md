@@ -17,9 +17,9 @@ sources: []
 
 ## Summary
 
-AGA expert review on integrating **potassium-competitive acid blockers (P-CABs)** — vonoprazan and related agents (tegoprazan, fexuprazan, keverprazan, zastaprazan) — into management of the three main acid-related foregut disorders: **GERD, *H. pylori* infection, and peptic ulcer disease (PUD)**. P-CABs inhibit the gastric H⁺/K⁺-ATPase competitively at the K⁺-binding site, giving acid inhibition **as potent or more potent** than PPIs with more rapid onset, no premeal dosing requirement, less CYP2C19-related variability, and longer duration of effect.
+American Gastroenterological Association (AGA) expert review on integrating **potassium-competitive acid blockers (P-CABs)** — vonoprazan and related agents (tegoprazan, fexuprazan, keverprazan, zastaprazan) — into management of the three main acid-related foregut disorders: **gastroesophageal reflux disease (GERD), *H. pylori* infection, and peptic ulcer disease (PUD)**. P-CABs inhibit the gastric H⁺/K⁺-ATPase competitively at the K⁺-binding site, giving acid inhibition **as potent or more potent** than proton pump inhibitors (PPIs) with more rapid onset, no premeal dosing requirement, less CYP2C19-related variability, and longer duration of effect.
 
-The central tension throughout the 9 Best Practice Advice (BPA) statements is **efficacy vs value**: because the only US-available P-CAB costs markedly more than standard- and double-dose PPIs (which are also OTC), has more prior-authorization hurdles, and carries less long-term safety data, the review generally advises **against P-CABs as first-line therapy** except where clinical superiority is demonstrated. The clearest wins are **severe (LA grade C/D) erosive esophagitis** and ***H. pylori* eradication** (short course blunts the cost/safety concern); GERD/NERD and PUD generally favor PPIs first, with P-CABs reserved for PPI failures.
+The central tension throughout the 9 Best Practice Advice (BPA) statements is **efficacy vs value**: because the only US-available P-CAB costs markedly more than standard- and double-dose PPIs (which are also over the counter [OTC]), has more prior-authorization hurdles, and carries less long-term safety data, the review generally advises **against P-CABs as first-line therapy** except where clinical superiority is demonstrated. The clearest wins are **severe (Los Angeles [LA] grade C/D) erosive esophagitis (EE)** and ***H. pylori* eradication** (short course blunts the cost/safety concern); GERD/nonerosive reflux disease (NERD) and PUD generally favor PPIs first, with P-CABs reserved for PPI failures.
 
 ## Key Findings / Claims
 
@@ -39,9 +39,9 @@ The central tension throughout the 9 Best Practice Advice (BPA) statements is **
 
 **Supporting data highlights:**
 - **Severe EE (LA C/D):** vonoprazan 20 mg superior to lansoprazole 30 mg for healing at 2 wk (70% vs 53%) and 8 wk (92% vs 72%); maintenance of healing superior for vonoprazan 10/20 mg vs lansoprazole 15 mg (75–77% vs 62%; recurrence 5–13% vs 39%).
-- ***H. pylori*:** systematic review of Asian RCTs — first-line eradication vonoprazan vs PPI 92% vs 80%; benefit largest in **clarithromycin-resistant** strains (e.g. 66–70% vs 32%). 14-day duration generally advised; vonoprazan dual therapy (vonoprazan + amoxicillin) can match triple therapy. 2022 Maastricht VI: 100% agreement P-CAB regimens "superior, or not inferior to" PPI triple therapy, and superior in resistant infections.
-- **PUD:** vonoprazan/tegoprazan noninferior to lansoprazole for gastric/duodenal ulcer healing and for secondary prophylaxis on low-dose aspirin/NSAIDs; HP-associated ulcers heal better than idiopathic/NSAID ulcers. Potential (scant-evidence) role in Zollinger-Ellison syndrome.
-- **Ulcer bleeding:** post-hemostasis Thai RCT — oral vonoprazan noninferior to high-dose IV PPI for rebleeding at 3/7/30 days.
+- ***H. pylori*:** systematic review of Asian randomized controlled trials (RCTs) — first-line eradication vonoprazan vs PPI 92% vs 80%; benefit largest in **clarithromycin-resistant** strains (e.g. 66–70% vs 32%). 14-day duration generally advised; vonoprazan dual therapy (vonoprazan + amoxicillin) can match triple therapy. 2022 Maastricht VI: 100% agreement P-CAB regimens "superior, or not inferior to" PPI triple therapy, and superior in resistant infections.
+- **PUD:** vonoprazan/tegoprazan noninferior to lansoprazole for gastric/duodenal ulcer healing and for secondary prophylaxis on low-dose aspirin/nonsteroidal anti-inflammatory drugs (NSAIDs); *H. pylori*–associated ulcers heal better than idiopathic/NSAID ulcers. Potential (scant-evidence) role in Zollinger-Ellison syndrome.
+- **Ulcer bleeding:** post-hemostasis Thai RCT — oral vonoprazan noninferior to high-dose intravenous (IV) PPI for rebleeding at 3/7/30 days.
 
 ## Relevance to Wiki
 - Creates `[[potassium-competitive-acid-blockers]]` (drug-class page in `5-meds/`); complements the agent-specific `[[vonoprazan]]` page.
@@ -49,5 +49,5 @@ The central tension throughout the 9 Best Practice Advice (BPA) statements is **
 - Supplies the LA grade A/B vs C/D decision split that governs when a P-CAB is reasonable in erosive esophagitis.
 
 ## Contradictions / Open Questions
-- On *H. pylori*, this AGA CPU is more affirmatively pro–P-CAB (BPA 7: "should use P-CABs in place of PPIs") than `[[acg-2024-hp-treatment]]`, which frames vonoprazan regimens as recommended options among several. Both are guideline-tier; both post-2024 — no strong precedence, so both stances are surfaced.
+- On *H. pylori*, this AGA Clinical Practice Update (CPU) is more affirmatively pro–P-CAB (BPA 7: "should use P-CABs in place of PPIs") than `[[acg-2024-hp-treatment]]`, which frames vonoprazan regimens as recommended options among several. Both are guideline-tier; both post-2024 — no strong precedence, so both stances are surfaced.
 - Long-term P-CAB safety data are immature; cost-effectiveness vs double-dose PPIs is unresolved.

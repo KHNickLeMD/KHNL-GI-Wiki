@@ -16,9 +16,9 @@ sources: []
 - **Type:** guideline
 
 ## Summary
-ASGE position statement on the diagnostic and therapeutic role of endoscopy in [[chronic-idiopathic-constipation|chronic constipation]]. Endoscopy is **not** indicated in the initial evaluation of chronic constipation when no alarm features or suspicion of organic disease exist. The yield of colonoscopy for isolated constipation is low — comparable to average-risk screening — and a meta-analysis of 28 studies found no increase in colorectal cancer among patients with chronic constipation.
+American Society for Gastrointestinal Endoscopy (ASGE) position statement on the diagnostic and therapeutic role of endoscopy in [[chronic-idiopathic-constipation|chronic constipation]]. Endoscopy is **not** indicated in the initial evaluation of chronic constipation when no alarm features or suspicion of organic disease exist. The yield of colonoscopy for isolated constipation is low — comparable to average-risk screening — and a meta-analysis of 28 studies found no increase in colorectal cancer among patients with chronic constipation.
 
-Colonoscopy is indicated for alarm features (rectal bleeding, heme-positive stool, iron-deficiency anemia, weight loss, obstructive symptoms), before surgery for constipation, and in patients aged >50 without prior CRC screening. Therapeutically, colonoscopy can dilate benign colonic strictures (IBD, surgical, ischemic) and create percutaneous endoscopic cecostomy/colostomy for refractory neurogenic bowel. Colonoscopy has **no role in stool disimpaction**. Chronic constipation is an independent risk factor for inadequate bowel prep — consider a more aggressive cleansing regimen.
+Colonoscopy is indicated for alarm features (rectal bleeding, heme-positive stool, iron-deficiency anemia, weight loss, obstructive symptoms), before surgery for constipation, and in patients aged >50 without prior colorectal cancer (CRC) screening. Therapeutically, colonoscopy can dilate benign colonic strictures (inflammatory bowel disease [IBD], surgical, ischemic) and create percutaneous endoscopic cecostomy/colostomy for refractory neurogenic bowel. Colonoscopy has **no role in stool disimpaction**. Chronic constipation is an independent risk factor for inadequate bowel prep — consider a more aggressive cleansing regimen.
 
 ## Key Findings / Claims
 - Suspected Hirschsprung disease requires anorectal manometry + deep biopsy (absent myenteric neurons).
@@ -27,7 +27,7 @@ Colonoscopy is indicated for alarm features (rectal bleeding, heme-positive stoo
 - Constipation defined by Rome III criteria in this document.
 
 ## Recommendations (verbatim, with GRADE)
-1. We recommend that GI endoscopy should not be performed in the initial evaluation of patients presenting with symptoms of chronic constipation in the absence of alarm features or suspicion of organic GI disease. *(Moderate)*
+1. We recommend that GI [gastrointestinal] endoscopy should not be performed in the initial evaluation of patients presenting with symptoms of chronic constipation in the absence of alarm features or suspicion of organic GI disease. *(Moderate)*
 2. We recommend that patients with constipation undergo colonoscopy to exclude organic disease if they have rectal bleeding, heme-positive stool, iron deficiency anemia, or weight loss prior to surgical therapy for chronic constipation. *(High)*
 3. We recommend that patients aged >50 years presenting with constipation who have not previously had colon cancer screening should have a colonoscopy. *(High)*
 4. We recommend colonoscopy to allow dilation of benign colon strictures and creation of percutaneous cecostomy when clinically appropriate and feasible. *(Moderate)*

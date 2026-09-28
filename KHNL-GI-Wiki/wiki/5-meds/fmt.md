@@ -9,11 +9,11 @@ sources: [aga-2024-fmt, aga-2026-cdiff-adults]
 
 ## Overview
 
-Transfer of stool-derived microbiota to restore a disrupted gut microbiome. Delivered as **conventional FMT** (donor stool, via [[colonoscopy]], capsule, or enema) or **FDA-approved live biotherapeutic products** — fecal microbiota live-jslm (RBL, rectal) and fecal microbiota spores live-brpk (oral). Established evidence-based role: **recurrent [[clostridioides-difficile|C. difficile]] infection (CDI)** after standard-of-care antibiotics ([[aga-2024-fmt]]).
+Fecal microbiota transplantation (FMT): transfer of stool-derived microbiota to restore a disrupted gut microbiome. Delivered as **conventional FMT** (donor stool, via [[colonoscopy]], capsule, or enema) or **FDA-approved live biotherapeutic products** — fecal microbiota live-jslm (RBL, rectal) and fecal microbiota spores live-brpk (oral). Established evidence-based role: **recurrent [[clostridioides-difficile|C. difficile]] infection (CDI)** after standard-of-care antibiotics ([[aga-2024-fmt]]).
 
 ## Indications & AGA 2024 Recommendations
 
-All AGA 2024 recommendations are **conditional** (suggestions).
+All American Gastroenterological Association (AGA) 2024 recommendations are **conditional** (suggestions).
 
 | Scenario | Recommendation |
 |---|---|
@@ -21,7 +21,7 @@ All AGA 2024 recommendations are **conditional** (suggestions).
 | **Mildly/moderately immunocompromised** adults, recurrent CDI | FOR **conventional FMT** (Rec 2) |
 | **Severely immunocompromised** adults, recurrent CDI | **AGAINST** any fecal microbiota–based therapy (Rec 2) |
 | Adults hospitalized with **severe/fulminant CDI not responding** to antimicrobials | FOR **conventional FMT** (Rec 3) |
-| [[ulcerative-colitis\|UC]], [[crohns-disease\|Crohn's]], [[pouchitis]], [[irritable-bowel-syndrome\|IBS]] | **AGAINST** conventional FMT **except within a clinical trial** (Recs 4–7) |
+| [[ulcerative-colitis\|ulcerative colitis (UC)]], [[crohns-disease\|Crohn's]], [[pouchitis]], [[irritable-bowel-syndrome\|irritable bowel syndrome (IBS)]] | **AGAINST** conventional FMT **except within a clinical trial** (Recs 4–7) |
 
 - **Key gate:** severe immunocompromise contraindicates fecal microbiota–based therapy even for recurrent CDI.
 - Outside recurrent/refractory CDI, use is investigational — not routine care.
@@ -32,10 +32,10 @@ All AGA 2024 recommendations are **conditional** (suggestions).
 The stratum decides Rec 2, so the criteria are the decision. **Severely immunocompromised** = any of ([[aga-2024-fmt]]):
 
 - Active cytotoxic therapy for solid tumors or hematologic malignancies
-- CAR T-cell therapy or hematopoietic cell transplant — **only when neutropenic**
+- Chimeric antigen receptor (CAR) T-cell therapy or hematopoietic cell transplant — **only when neutropenic**
 - **Any neutropenia**
 - Severe primary immunodeficiency
-- Advanced or untreated HIV — CD4 <200/mm³, AIDS-defining illness without immune reconstitution, or clinical manifestations of symptomatic HIV
+- Advanced or untreated human immunodeficiency virus (HIV) — CD4 <200/mm³, acquired immunodeficiency syndrome (AIDS)-defining illness without immune reconstitution, or clinical manifestations of symptomatic HIV
 
 **Mildly/moderately immunocompromised** = immunocompromised but **not** meeting the severe definition. In this group use **conventional FMT only** — there is insufficient evidence for the FDA-approved products (fecal microbiota live-jslm, fecal microbiota spores live-brpk) in any immunocompromised patient.
 
@@ -53,17 +53,17 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 - Alternatives for patients who decline: vancomycin taper or tapered-pulsed fidaxomicin. *(AGA 2024 also lists bezlotoxumab; [[aga-2026-cdiff-adults|AGA 2026]] reports it is **no longer commercially available**.)*
 
 *Severe/fulminant CDI not responding to antimicrobials:*
-- **Which patients qualify** — AGA defines severe CDI by a WBC and creatinine threshold and fulminant CDI as severe disease plus shock, ileus, or [[toxic-megacolon|megacolon]]; the full criteria table (and how it changed between the 2010 and 2018 IDSA versions) lives on [[clostridioides-difficile]]. Read it before invoking Rec 3.
-- Consider generally **within 2–5 days** of initiating CDI treatment; multidisciplinary care (critical care, surgery, GI, ID).
+- **Which patients qualify** — AGA defines severe CDI by a white blood cell count (WBC) and creatinine threshold and fulminant CDI as severe disease plus shock, ileus, or [[toxic-megacolon|megacolon]]; the full criteria table (and how it changed between the 2010 and 2018 Infectious Diseases Society of America (IDSA) versions) lives on [[clostridioides-difficile]]. Read it before invoking Rec 3.
+- Consider generally **within 2–5 days** of initiating CDI treatment; multidisciplinary care (critical care, surgery, gastroenterology [GI], infectious diseases [ID]).
 - **First dose via colonoscopy or flexible sigmoidoscopy** — confirms the diagnosis and lets you grade severity. Insufficient evidence for enema or capsule here, and **no evidence** for the FDA-approved products in this setting.
 - **Nasoenteric tube is discouraged** — increased risk of fecal aspiration.
 - If a **bowel purge is not feasible or safe**, perform FMT **without** bowel preparation.
 - **Stop other nonessential antibiotics** wherever possible (an ID-facing reason multidisciplinary care matters).
-- **Follow-up:** assess response by **stool output, WBC, and CRP**. Most patients need repeat FMT; anti-CDI antibiotics may need to be continued or resumed around dosing. Repeat-dosing interval and the pseudomembrane-driven sequential protocol are on [[clostridioides-difficile]].
+- **Follow-up:** assess response by **stool output, WBC, and C-reactive protein (CRP)**. Most patients need repeat FMT; anti-CDI antibiotics may need to be continued or resumed around dosing. Repeat-dosing interval and the pseudomembrane-driven sequential protocol are on [[clostridioides-difficile]].
 - **At discharge:** after colitis resolves, continue **suppressive vancomycin** and perform a **final fecal microbiota–based therapy as an outpatient** to prevent recurrence — that last dose may be given by colonoscopy, capsule, or enema.
 - **Not advised** with bowel perforation or obstruction (**or high-grade colonic stricture**, [[aga-2026-cdiff-adults]]), or in severe immunocompromise. Colectomy is the standing alternative for severe CDI refractory to antibiotics, or fulminant CDI.
 - **Dose count and donor source** ([[aga-2026-cdiff-adults]]): **multi-dose** FMT from **fresh directed donors or institutional stool banks**; most patients need **2–3 administrations** of liquid product via lower endoscopy to clear the acute infection. Oral vancomycin may be **held on the day of FMT** but is otherwise continued.
-- **Mortality benefit (the evidence behind Rec 3):** 5 observational studies, 647 patients with severe/fulminant CDI — conventional FMT vs standard of care, mortality **RR 0.37 (95% CI 0.23–0.59)**, **NNT 4** to prevent 1 death, with no difference in serious adverse events. [[aga-2026-cdiff-adults]]
+- **Mortality benefit (the evidence behind Rec 3):** 5 observational studies, 647 patients with severe/fulminant CDI — conventional FMT vs standard of care, mortality **relative risk (RR) 0.37 (95% confidence interval [CI] 0.23–0.59)**, **number needed to treat (NNT) 4** to prevent 1 death, with no difference in serious adverse events. [[aga-2026-cdiff-adults]]
 - **Regulatory:** the FDA prohibits stool-bank donor material outside an investigational new drug application; locally procured FMT falls under **FDA enforcement discretion** and requires an explicit risk–benefit discussion. [[aga-2026-cdiff-adults]]
 
 ### Dosing — what AGA 2024 does and does not specify

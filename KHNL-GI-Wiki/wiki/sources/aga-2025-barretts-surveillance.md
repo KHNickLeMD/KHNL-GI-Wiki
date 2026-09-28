@@ -14,15 +14,15 @@ sources: []
 - **Year:** 2025
 - **Journal/Publisher:** Gastroenterology (AGA Clinical Practice Guideline)
 - **DOI:** [10.1053/j.gastro.2025.09.012](https://doi.org/10.1053/j.gastro.2025.09.012)
-- **Type:** GRADE-based guideline
+- **Type:** Grading of Recommendations Assessment, Development and Evaluation (GRADE)-based guideline
 
 ## Summary
 
-This AGA guideline covers surveillance of [[barretts-esophagus]] — who to survey, how to sample, and what prevents progression. It suggests surveillance for non-dysplastic BE (NDBE) while being explicit that the supporting evidence is low-certainty, and it makes only one **strong** recommendation in the entire document: high-definition white-light endoscopy **plus chromoendoscopy** over WLE alone.
+This American Gastroenterological Association (AGA) guideline covers surveillance of [[barretts-esophagus|Barrett's esophagus (BE)]] — who to survey, how to sample, and what prevents progression. It suggests surveillance for non-dysplastic BE (NDBE) while being explicit that the supporting evidence is low-certainty, and it makes only one **strong** recommendation in the entire document: high-definition white-light endoscopy (WLE) **plus chromoendoscopy (CE)** over WLE alone.
 
-Two features distinguish it from prior guidance. First, it draws a line at **columnar-lined esophagus <1 cm with intestinal metaplasia** and suggests *against* surveillance in that group — an exclusion by segment length, not by absence of IM. Second, it declines to endorse three adjunctive technologies (WATS-3D, p53 immunostaining, TissueCypher), labelling each an explicit **knowledge gap** rather than a negative recommendation.
+Two features distinguish it from prior guidance. First, it draws a line at **columnar-lined esophagus <1 cm with intestinal metaplasia (IM)** and suggests *against* surveillance in that group — an exclusion by segment length, not by absence of IM. Second, it declines to endorse three adjunctive technologies (wide-area transepithelial sampling with 3-dimensional analysis [WATS-3D], p53 immunostaining, TissueCypher), labelling each an explicit **knowledge gap** rather than a negative recommendation.
 
-The implementation considerations carry much of the operative detail: the ~3-year NDBE interval (extendable to 5 years for short-segment <3 cm), the structured biopsy protocol's **4-quadrant every 2 cm without dysplasia history and every 1 cm with one**, and the requirement that BE, IND, and LGD diagnoses be **confirmed by repeat endoscopy within 6 months on high-dose acid suppression, primarily to rule out prevalent HGD or EAC**.
+The implementation considerations carry much of the operative detail: the ~3-year NDBE interval (extendable to 5 years for short-segment <3 cm), the structured biopsy protocol's **4-quadrant every 2 cm without dysplasia history and every 1 cm with one**, and the requirement that BE, indefinite for dysplasia (IND), and low-grade dysplasia (LGD) diagnoses be **confirmed by repeat endoscopy within 6 months on high-dose acid suppression, primarily to rule out prevalent high-grade dysplasia (HGD) or esophageal adenocarcinoma (EAC)**.
 
 ## Key Findings / Claims
 
@@ -36,7 +36,7 @@ The implementation considerations carry much of the operative detail: the ~3-yea
 | 4 | "In patients undergoing surveillance endoscopy for BE, the AGA makes no recommendation for or against the use of WATS-3D as an adjunctive sampling technique to a structured biopsy protocol." | Knowledge gap | — |
 | 5 | "In patients diagnosed with NDBE, BE with IND or BE with LGD, the AGA makes no recommendation for or against the routine use of p53 assessment as an adjunct test to histopathology to predict progression to HGD or EAC." | Knowledge gap | — |
 | 6 | "In patients diagnosed with NDBE, BE with IND or BE with LGD, the AGA makes no recommendation for or against the routine use of TissueCypher testing as an adjunct test to histopathology." | Knowledge gap | — |
-| 7 | "In adult patients with BE, the AGA suggests the use of daily PPI therapy compared with no PPI therapy for the prevention of neoplastic progression of BE." | Conditional | Low |
+| 7 | "In adult patients with BE, the AGA suggests the use of daily PPI [proton pump inhibitor] therapy compared with no PPI therapy for the prevention of neoplastic progression of BE." | Conditional | Low |
 | 8 | "In patients with BE, the AGA suggests use of PPIs over surgery for the prevention of neoplastic progression to HGD or EAC." | Conditional | Low |
 
 ### Implementation considerations
@@ -53,7 +53,7 @@ The implementation considerations carry much of the operative detail: the ~3-yea
 
 **General considerations for endoscopic surveillance**
 - Endoscopic evaluation must meet the requirements of a **high-quality endoscopic examination**
-- Refer BE-related neoplasia — **including LGD and IND** — to high-volume endoscopists with [[endoscopic-eradication-therapy|EET]] expertise, pathologists with BE-neoplasia expertise, and multidisciplinary care
+- Refer BE-related neoplasia — **including LGD and IND** — to high-volume endoscopists with [[endoscopic-eradication-therapy|endoscopic eradication therapy (EET)]] expertise, pathologists with BE-neoplasia expertise, and multidisciplinary care
 - Histologic diagnosis of BE-related dysplasia or early cancer must be **confirmed by an expert pathologist**
 - BE, IND, and LGD diagnoses should be **confirmed by repeat upper endoscopy by an expert endoscopist within 6 months on high-dose acid suppression, primarily to rule out prevalent HGD or EAC**
 - **Confirmed LGD choosing surveillance:** continue high-dose acid suppression; endoscopy at **6-month intervals for 1 year, then annually**, until the histologic grade changes
@@ -64,7 +64,7 @@ The implementation considerations carry much of the operative detail: the ~3-yea
 - Counsel **tobacco cessation** and **weight loss** if overweight or obese
 
 ### Supporting evidence
-- The BOSS RCT (n=3,453) found **no overall survival difference** with surveillance (HR 0.95); early-stage EAC/HGD detection 3.3% vs 1.2% — the reason Rec 1 is only conditional/low.
+- The BOSS randomized controlled trial (RCT; n=3,453) found **no overall survival difference** with surveillance (hazard ratio [HR] 0.95); early-stage EAC/HGD detection 3.3% vs 1.2% — the reason Rec 1 is only conditional/low.
 
 ## Relevance to Wiki
 
@@ -76,8 +76,8 @@ The implementation considerations carry much of the operative detail: the ~3-yea
 
 ## Contradictions / Open Questions
 
-- **NDBE interval vs [[acg-2022-barretts]]**: AGA 2025 sets a q3y default extendable to q5y for short segments; ACG 2022 frames intervals inversely by segment length. [[barretts-esophagus]] follows AGA 2025 (newer).
-- **Post-CEIM LGD surveillance vs ACG 2022**: [[aga-2024-barretts-eet]] reverts to NDBE intervals after years 1 and 3; ACG 2022 says every 2 years.
+- **NDBE interval vs [[acg-2022-barretts]]**: AGA 2025 sets a q3y default extendable to q5y for short segments; American College of Gastroenterology (ACG) 2022 frames intervals inversely by segment length. [[barretts-esophagus]] follows AGA 2025 (newer).
+- **Post–complete eradication of intestinal metaplasia (CEIM) LGD surveillance vs ACG 2022**: [[aga-2024-barretts-eet]] reverts to NDBE intervals after years 1 and 3; ACG 2022 says every 2 years.
 - **WATS-3D**: AGA declares a knowledge gap; [[asge-2019-barretts-screening-surveillance]] is the lone guideline endorsing it.
 - **Rec 2's population is narrow and easy to misread** — it is *columnar-lined esophagus **<1 cm with** intestinal metaplasia*, i.e. an ultra-short-segment exclusion. It is **not** a statement about columnar-lined esophagus lacking intestinal metaplasia.
 - No recommendation on any tissue biomarker means risk stratification beyond segment length and dysplasia grade remains unguided.

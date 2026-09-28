@@ -7,7 +7,7 @@ updated: 2026-09-06
 sources: [aasld-ast-2025-liver-transplant-candidate-evaluation, baveno-viii-2026-portal-hypertension, aasld-2024-aclf]
 ---
 
-Two pulmonary **vascular** complications of liver disease and [[portal-hypertension|portal hypertension]] — unique to liver disease, relatively common, and both may resolve after [[liver-transplantation|liver transplant (LT)]]. Both are decisive for LT candidacy: HPS earns exception points and is cured by LT, whereas uncontrolled POPH is a contraindication to it.
+Two pulmonary **vascular** complications of liver disease and [[portal-hypertension|portal hypertension]] — unique to liver disease, relatively common, and both may resolve after [[liver-transplantation|liver transplant (LT)]]. Both are decisive for LT candidacy: hepatopulmonary syndrome (HPS) earns exception points and is cured by LT, whereas uncontrolled portopulmonary hypertension (POPH) is a contraindication to it.
 
 ## Contents
 - [[#Assessment]]
@@ -23,19 +23,19 @@ Two pulmonary **vascular** complications of liver disease and [[portal-hypertens
 
 ### Establishing the Diagnosis
 
-| | **Hepatopulmonary syndrome (HPS)** | **Portopulmonary hypertension (POPH)** |
+| | **Hepatopulmonary syndrome** | **Portopulmonary hypertension** |
 |---|---|---|
 | Lesion | Intrapulmonary vascular dilatations (IPVDs) → abnormal oxygenation | Vasoconstriction + remodeling of pulmonary arterial resistance vessels |
 | Setting | Chronic liver disease and/or portal hypertension | [[cirrhosis]] and/or portal hypertension |
-| Class | — | Pulmonary arterial hypertension, WHO **group 1** |
-| Criteria | **Both** required: (1) microbubbles in the left heart **≥3 cardiac cycles** after right-heart microbubbles, following **10 mL** agitated saline injected in a peripheral arm vein on bubble echocardiography; **and** (2) alveolar–arterial gradient **>15 mm Hg** (**>20 mm Hg** if age >64) | Screen by TTE, **confirm by right heart catheterization (RHC)** — elevated mean pulmonary artery pressure (mPAP) with increased pulmonary vascular resistance (PVR) |
+| Class | — | Pulmonary arterial hypertension, World Health Organization (WHO) **group 1** |
+| Criteria | **Both** required: (1) microbubbles in the left heart **≥3 cardiac cycles** after right-heart microbubbles, following **10 mL** agitated saline injected in a peripheral arm vein on bubble echocardiography; **and** (2) alveolar–arterial gradient **>15 mm Hg** (**>20 mm Hg** if age >64) | Screen by transthoracic echocardiography (TTE), **confirm by right heart catheterization (RHC)** — elevated mean pulmonary artery pressure (mPAP) with increased pulmonary vascular resistance (PVR) |
 
-> ⚠ **POPH hemodynamic definition.** [[aasld-ast-2025-liver-transplant-candidate-evaluation]] requires RHC to confirm "elevated mPAP and increased PVR" but never states the diagnostic mPAP / PVR / wedge-pressure cutoffs; only the *candidacy* thresholds below are given. The diagnostic cutoffs are in the ILTS practice guideline on HPS and POPH (Krowka 2016, *Transplantation* 100:1440–52), which AASLD cites.
+> ⚠ **POPH hemodynamic definition.** [[aasld-ast-2025-liver-transplant-candidate-evaluation]] requires RHC to confirm "elevated mPAP and increased PVR" but never states the diagnostic mPAP / PVR / wedge-pressure cutoffs; only the *candidacy* thresholds below are given. The diagnostic cutoffs are in the International Liver Transplantation Society (ILTS) practice guideline on HPS and POPH (Krowka 2016, *Transplantation* 100:1440–52), which the American Association for the Study of Liver Diseases (AASLD) cites.
 
 ### Severity Assessment
 
 - **HPS** — graded by PaO₂ on arterial blood gas (ABG). Decision points captured by the source:
-  - PaO₂ **<60 mm Hg** with portal hypertension and no other pulmonary etiology → qualifies for **MELD exception points** (US; see OPTN policy for the full non-malignancy exception list).
+  - PaO₂ **<60 mm Hg** with portal hypertension and no other pulmonary etiology → qualifies for **Model for End-Stage Liver Disease (MELD) exception points** (US; see Organ Procurement and Transplantation Network (OPTN) policy for the full non-malignancy exception list).
   - **No PaO₂ cutoff excludes LT** — select patients with PaO₂ **<50 mm Hg** have been transplanted successfully.
 
   > ⚠ **Gap — HPS severity bands not sourced.** Rec 21 directs ABG "to determine severity and urgency," but the PaO₂ cutoffs defining the mild/moderate/severe/very-severe bands are not stated anywhere in [[aasld-ast-2025-liver-transplant-candidate-evaluation]]. Same ILTS source needed.
@@ -49,7 +49,7 @@ Two pulmonary **vascular** complications of liver disease and [[portal-hypertens
 Pulmonary disease in the LT candidate falls into three groups; HPS/POPH are group 3, and the other two must be excluded before attributing hypoxemia or pulmonary hypertension to the liver:
 
 1. **Disorders affecting both organs** — cystic fibrosis, alpha-1 antitrypsin deficiency, sarcoidosis, [[hereditary-hemorrhagic-telangiectasia|hereditary hemorrhagic telangiectasia]]. Uncommon, and usually recognized before LT consideration.
-2. **Lung disorders independent of liver disease** — asthma, COPD, interstitial lung disease, lung nodules. No established screening protocol, but testing is common.
+2. **Lung disorders independent of liver disease** — asthma, chronic obstructive pulmonary disease (COPD), interstitial lung disease, lung nodules. No established screening protocol, but testing is common.
 3. **Pulmonary vascular complications of liver disease** — HPS and POPH.
 
 - For POPH specifically, RHC must exclude **left heart disease** as the cause of the elevated pressures.
@@ -66,12 +66,12 @@ Pulmonary disease in the LT candidate falls into three groups; HPS/POPH are grou
 | Bubble echocardiography (agitated saline contrast) | **Most sensitive** test for IPVDs/HPS; recommended for screening when available pre-LT | Weak, Level 1 |
 | Bubble echocardiography — targeted use | In centers not screening routinely, perform when **pulmonary symptoms or oxygenation abnormalities** are present (dyspnea without cardiac dysfunction, platypnea, orthodeoxia) | Strong, Level 3 |
 | Pulse oximetry + ABG | Consider once contrast echo confirms IPVDs, to determine **severity and urgency for transplantation** | Strong, Level 3 |
-| Right heart catheterization | Required when TTE shows **RVSP >45 mm Hg** or abnormal RV structure/function, with subspecialty consultation if POPH is confirmed | Strong, Level 1 |
+| Right heart catheterization | Required when TTE shows **right ventricular systolic pressure (RVSP) >45 mm Hg** or abnormal right ventricular (RV) structure/function, with subspecialty consultation if POPH is confirmed | Strong, Level 1 |
 
 - The guideline authors could **not reach consensus** on routine bubble echo for every candidate — hence "when available and when HPS is suspected."
 - Pulse oximetry alone is insensitive for HPS; pair it with ABG.
 
-**Surveillance outside the transplant evaluation** ([[baveno-viii-2026-portal-hypertension|Baveno VIII]] 9.36, LoE 4, strong, new): in patients with portal hypertension and/or **portosystemic shunts — spontaneous *or* interventional (e.g. [[tips|TIPS]])** — **annual surveillance is warranted** for shunt-related complications, **especially the occurrence of POPH**. The statement sits in the paediatric chronic-[[portal-vein-thrombosis|PVT]] panel; Baveno VIII gives no surveillance modality or threshold with it.
+**Surveillance outside the transplant evaluation** ([[baveno-viii-2026-portal-hypertension|Baveno VIII]] 9.36, level of evidence [LoE] 4, strong, new): in patients with portal hypertension and/or **portosystemic shunts — spontaneous *or* interventional (e.g. [[tips|transjugular intrahepatic portosystemic shunt (TIPS)]])** — **annual surveillance is warranted** for shunt-related complications, **especially the occurrence of POPH**. The statement sits in the paediatric chronic-[[portal-vein-thrombosis|portal vein thrombosis (PVT)]] panel; Baveno VIII gives no surveillance modality or threshold with it.
 
 ## Therapeutics
 
@@ -84,7 +84,7 @@ Pulmonary disease in the LT candidate falls into three groups; HPS/POPH are grou
 
 | mPAP | PVR | On optimized therapy → status |
 |---|---|---|
-| <35 mm Hg | <5 WU | Standard **MELD exception** criteria |
+| <35 mm Hg | <5 Wood units (WU) | Standard **MELD exception** criteria |
 | 35–45 mm Hg | <3 WU | Standard **MELD exception** criteria |
 | 45 mm Hg ⚠ | >3 WU | **Contraindication to transplantation** (Strong, Level 1) |
 
@@ -96,12 +96,12 @@ Pulmonary disease in the LT candidate falls into three groups; HPS/POPH are grou
 - **≥50%** of POPH patients have resolution after LT, and long-term post-LT survival is excellent in medical-therapy responders — the basis for the standard MELD exception.
 - Intraoperative extracorporeal support to bridge higher-risk POPH patients is of increasing interest but has **not** shown long-term survival benefit (too few supported patients reaching LT).
 
-> ⚠ **POPH drug therapy.** [[aasld-ast-2025-liver-transplant-candidate-evaluation]] refers only to "multiple new targeted medications" and never names the PAH drug classes or agents; take agent selection from a PAH/ILTS guideline.
+> ⚠ **POPH drug therapy.** [[aasld-ast-2025-liver-transplant-candidate-evaluation]] refers only to "multiple new targeted medications" and never names the pulmonary arterial hypertension (PAH) drug classes or agents; take agent selection from a PAH/ILTS guideline.
 
 **Where HPS/POPH changes a decision *other than* LT candidacy**
 
-- **Blocks a surgical shunt.** **Distal splenorenal shunting** for recurrent [[variceal-upper-gi-bleeding|variceal haemorrhage]] in children with chronic PVT should be considered **only in the absence of HPS, POPH and/or [[hepatic-encephalopathy|HE]]** ([[baveno-viii-2026-portal-hypertension|Baveno VIII]] 9.35, LoE 3, strong). Sequence and alternatives: [[portal-vein-thrombosis|PVT → Paediatric PVT]]
-- **Is itself an LT indication in non-cirrhotic portal hypertension.** In [[porto-sinusoidal-vascular-disorder|PSVD/NCPF]], LT should be considered for **hepatopulmonary syndrome** alongside severe/refractory portal-hypertension complications, [[hepatocellular-carcinoma|HCC]], or advanced liver dysfunction — discussed at centres with vascular-liver-disease expertise (Baveno VIII 8.53, LoE 4, strong)
+- **Blocks a surgical shunt.** **Distal splenorenal shunting** for recurrent [[variceal-upper-gi-bleeding|variceal haemorrhage]] in children with chronic PVT should be considered **only in the absence of HPS, POPH and/or [[hepatic-encephalopathy|hepatic encephalopathy (HE)]]** ([[baveno-viii-2026-portal-hypertension|Baveno VIII]] 9.35, LoE 3, strong). Sequence and alternatives: [[portal-vein-thrombosis|PVT → Paediatric PVT]]
+- **Is itself an LT indication in non-cirrhotic portal hypertension.** In [[porto-sinusoidal-vascular-disorder|porto-sinusoidal vascular disorder (PSVD)/non-cirrhotic portal fibrosis (NCPF)]], LT should be considered for **hepatopulmonary syndrome** alongside severe/refractory portal-hypertension complications, [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]], or advanced liver dysfunction — discussed at centres with vascular-liver-disease expertise (Baveno VIII 8.53, LoE 4, strong)
 - **Must be worked up in the decompensating patient.** In cirrhosis with **respiratory failure**, investigate and treat the coexisting cirrhosis-related pulmonary comorbidities — hepatic hydrothorax, ascites, and HPS; where the compromise is from hydrothorax or tense ascites, therapeutic thoracentesis/paracentesis is recommended ([[aasld-2024-aclf]] Rec 18)
 
 ---

@@ -7,7 +7,7 @@ updated: 2026-09-15
 sources: [aasld-idsa-2023-hcv, aga-2025-hbv-reactivation, aga-2019-daa-hcc]
 ---
 
-Direct-acting antivirals (DAAs) are small-molecule antiviral agents targeting specific components of the [[hepatitis-c|HCV]] replication cycle. They have transformed HCV treatment from interferon-based regimens with ~50% SVR and significant toxicity to oral, well-tolerated regimens achieving SVR12 >95% in clinical trials and real-world practice.
+Direct-acting antivirals (DAAs) are small-molecule antiviral agents targeting specific components of the [[hepatitis-c|hepatitis C virus (HCV)]] replication cycle. They have transformed HCV treatment from interferon-based regimens with ~50% sustained virologic response (SVR) and significant toxicity to oral, well-tolerated regimens achieving SVR at 12 weeks (SVR12) >95% in clinical trials and real-world practice.
 
 *Regimen selection, durations by genotype/fibrosis stage, retreatment, and the incomplete-adherence algorithm all live on [[hepatitis-c]] — this page covers the class itself.*
 
@@ -34,18 +34,18 @@ Genotype-specific options (ledipasvir/sofosbuvir, elbasvir/grazoprevir), treatme
 
 ## Class-Level Safety
 
-**NS3/4A protease inhibitors (glecaprevir, grazoprevir, voxilaprevir) are contraindicated in decompensated [[cirrhosis]]** — hepatic metabolism with drug accumulation. *Decompensated* here means **Child-Pugh B or C (CTP score ≥7), current or prior**; that same threshold also excludes a patient from the AASLD-IDSA simplified treatment algorithm ([[aasld-idsa-2023-hcv]]).
+**NS3/4A protease inhibitors (glecaprevir, grazoprevir, voxilaprevir) are contraindicated in decompensated [[cirrhosis]]** — hepatic metabolism with drug accumulation. *Decompensated* here means **Child-Pugh B or C (Child-Turcotte-Pugh [CTP] score ≥7), current or prior**; that same threshold also excludes a patient from the American Association for the Study of Liver Diseases–Infectious Diseases Society of America (AASLD-IDSA) simplified treatment algorithm ([[aasld-idsa-2023-hcv]]).
 
-- **Decompensated cirrhosis → sofosbuvir-based only**, and the recommended regimens are ribavirin-containing (with a reduced RBV starting dose in CTP C) or ribavirin-free at extended duration — the specific pairings and durations are tabled on [[hepatitis-c]].
-- **Renal:** compensated cirrhosis with **eGFR <30 mL/min** is excluded from the simplified algorithm and needs individualized regimen selection.
-- **HBV reactivation:** check **HBsAg and anti-HBc before starting any DAA** — the action depends on which is positive (table below). See also [[hepatitis-c]] pretreatment checklist and [[chronic-hepatitis-b]].
-- **Assessing cure:** quantitative HCV RNA **≥12 weeks after completing therapy**; undetectable = SVR12 (virologic cure). Persistently elevated ALT/AST after SVR should prompt a workup for another liver disease ([[abnormal-liver-chemistries]]).
-- **Post-SVR:** cure does not stop [[hcc-surveillance|HCC surveillance]] in patients with cirrhosis.
+- **Decompensated cirrhosis → sofosbuvir-based only**, and the recommended regimens are ribavirin-containing (with a reduced ribavirin (RBV) starting dose in CTP C) or ribavirin-free at extended duration — the specific pairings and durations are tabled on [[hepatitis-c]].
+- **Renal:** compensated cirrhosis with **estimated glomerular filtration rate (eGFR) <30 mL/min** is excluded from the simplified algorithm and needs individualized regimen selection.
+- **Hepatitis B virus (HBV) reactivation:** check **hepatitis B surface antigen (HBsAg) and hepatitis B core antibody (anti-HBc) before starting any DAA** — the action depends on which is positive (table below). See also [[hepatitis-c]] pretreatment checklist and [[chronic-hepatitis-b]].
+- **Assessing cure:** quantitative HCV RNA **≥12 weeks after completing therapy**; undetectable = SVR12 (virologic cure). Persistently elevated alanine aminotransferase (ALT)/aspartate aminotransferase (AST) after SVR should prompt a workup for another liver disease ([[abnormal-liver-chemistries]]).
+- **Post-SVR:** cure does not stop [[hcc-surveillance|hepatocellular carcinoma (HCC) surveillance]] in patients with cirrhosis.
 - **Acute HCV:** treat as chronic — do not await spontaneous clearance; abbreviated 6-week courses gave inferior SVR.
 
 ### HBV Reactivation Risk on DAA Therapy
 
-DAA-treated HCV is one of the exposures the AGA 2025 HBVr guideline scores explicitly. **Baseline serology sets the risk stratum, and the stratum sets the action** — the two serologic groups land at opposite ends. ([[aga-2025-hbv-reactivation]])
+DAA-treated HCV is one of the exposures the American Gastroenterological Association (AGA) 2025 HBV reactivation (HBVr) guideline scores explicitly. **Baseline serology sets the risk stratum, and the stratum sets the action** — the two serologic groups land at opposite ends. ([[aga-2025-hbv-reactivation]])
 
 | Baseline serology | Pooled HBVr risk on DAA | Stratum (<1% / 1–10% / >10%) | Action |
 |---|---|---|---|
@@ -53,7 +53,7 @@ DAA-treated HCV is one of the exposures the AGA 2025 HBVr guideline scores expli
 | **HBsAg-negative / anti-HBc-positive** | **2 per 1,000 (0.2%)** | **Low** | **Monitoring alone over prophylaxis** — Rec 3, *conditional*, moderate certainty |
 
 - **Risk-category thresholds:** low **<1%**, moderate **1–10%**, high **>10%**.
-- **Prophylaxis duration is DAA-specific and outlasts the DAA course.** Start **before** the DAA, and continue **6–12 months after** DAA cessation — longer than the guideline's general ≥6-month rule, because the one RCT in this setting saw **no HBVr during entecavir but >90% cumulative HBVr by 12 weeks after stopping it**. Use an agent with a **high barrier to resistance**.
+- **Prophylaxis duration is DAA-specific and outlasts the DAA course.** Start **before** the DAA, and continue **6–12 months after** DAA cessation — longer than the guideline's general ≥6-month rule, because the one randomized controlled trial (RCT) in this setting saw **no HBVr during entecavir but >90% cumulative HBVr by 12 weeks after stopping it**. Use an agent with a **high barrier to resistance**.
 - **If monitoring instead of prophylaxis:** every **1–3 months**, and it must include **HBV DNA, not ALT alone**.
 - Risk was assessed at **12 weeks** from DAA initiation in 9 of 11 pooled studies (24 weeks in 2).
 
@@ -66,7 +66,7 @@ All from [[aga-2019-daa-hcc]] unless noted. **Cure lowers de novo [[hepatocellul
 **Occurrence — protective, consistent signal:**
 
 - SVR → ~**70%** reduction in incident HCC (50–78% with [[cirrhosis]], 70–80% without); evident within **3–6 months**, increasing over time.
-- DAA-SVR vs interferon-SVR: no excess HCC (HR 1.07, 95% CI 0.55–2.08; 21.2 vs 22.8 per 1000 person-years in cirrhosis).
+- DAA-SVR vs interferon-SVR: no excess HCC (hazard ratio [HR] 1.07, 95% confidence interval [CI] 0.55–2.08; 21.2 vs 22.8 per 1000 person-years in cirrhosis).
 - Residual absolute risk still warrants surveillance — ~**0.90%/y** overall after SVR, **1.8–2.5%/y** with cirrhosis, vs a cost-effectiveness threshold of **0.8–1.5%/y**.
 - The early "DAAs cause HCC" reports are attributed to prevalent cancers missed before treatment → **obtain surveillance imaging before starting DAAs** in advanced fibrosis or cirrhosis.
 
@@ -79,19 +79,19 @@ All from [[aga-2019-daa-hcc]] unless noted. **Cure lowers de novo [[hepatocellul
 | Active HCC eligible for cure (resection or ablation) | **Defer DAA until HCC treatment is completed** |
 | HCC listed for [[liver-transplantation\|transplant]] | Case by case — median regional wait time, availability of HCV-positive organs, degree of liver dysfunction |
 | Active intermediate/advanced HCC | Insufficient data; weigh tumour burden, liver dysfunction, life expectancy, patient preference |
-| Complete response to HCC therapy | **Do not withhold DAA** — but wait **4–6 months** to confirm durable response (allows 2–3 interim multiphase CT/MRI) |
+| Complete response to HCC therapy | **Do not withhold DAA** — but wait **4–6 months** to confirm durable response (allows 2–3 interim multiphase computed tomography (CT)/magnetic resonance imaging (MRI)) |
 
 - Rationale for the 4–6 month wait: shorter response-to-DAA intervals correlate with early recurrence (41% vs 23% when treated within 4 months), and one scan cannot confirm response — CT/MRI sensitivity is only **40–50%** for subcentimeter and **60–70%** for 1–2 cm lesions.
-- **Active HCC lowers SVR** — small but statistically significant (adjusted OR 0.38, 95% CI 0.29–0.48 in the largest cohort). Treating HCV *before* HCC develops is the optimal strategy.
+- **Active HCC lowers SVR** — small but statistically significant (adjusted odds ratio [OR] 0.38, 95% CI 0.29–0.48 in the largest cohort). Treating HCV *before* HCC develops is the optimal strategy.
 - Post-HCC-treatment surveillance is **CT/MRI-based, not ultrasound** — intervals on [[hcc-surveillance]].
 
 ## Key DDIs
 
 All from [[aasld-idsa-2023-hcv]]:
 
-- **[[calcineurin-inhibitors|Cyclosporine]]** significantly increases the AUC of elbasvir/grazoprevir and of SOF/VEL/VOX — **do not coadminister**
+- **[[calcineurin-inhibitors|Cyclosporine]]** significantly increases the area under the curve (AUC) of elbasvir/grazoprevir and of sofosbuvir/velpatasvir/voxilaprevir (SOF/VEL/VOX) — **do not coadminister**
 - **G/P + cyclosporine >100 mg/day** — not recommended
-- Calcineurin inhibitor interactions are common post–[[liver-transplantation|liver transplant]]; also monitor **INR on warfarin** (subtherapeutic anticoagulation) and **glucose on diabetes medication** (hypoglycemia) during therapy
+- Calcineurin inhibitor interactions are common post–[[liver-transplantation|liver transplant]]; also monitor **international normalized ratio (INR) on warfarin** (subtherapeutic anticoagulation) and **glucose on diabetes medication** (hypoglycemia) during therapy
 
 ## See Also
 

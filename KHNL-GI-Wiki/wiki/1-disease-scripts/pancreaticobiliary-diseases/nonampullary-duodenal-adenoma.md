@@ -9,9 +9,9 @@ sources: [aga-2025-nonampullary-duodenal, asge-2015-ampullary-duodenal-adenomas,
 
 # Nonampullary Duodenal Adenoma
 
-**Nonampullary duodenal adenomas (DAs)** are premalignant epithelial polyps of the duodenum that do **not** involve the major papilla (contrast [[ampullary-adenoma|ampullary adenoma]]). Nonampullary duodenal polyps are found in up to **5% of upper endoscopies** — mostly incidental in asymptomatic patients — and **adenomas make up 10%–20%** of them. DAs occur **sporadically** (up to 0.5% of patients) or with a polyposis syndrome ([[familial-adenomatous-polyposis|FAP]], [[mutyh-associated-polyposis|*MUTYH*-associated polyposis]]). Most contain only low-grade dysplasia, but **up to 20% progress to high-grade dysplasia (HGD) and ~5% to cancer**, so endoscopic resection is generally recommended.
+**Nonampullary duodenal adenomas (DAs)** are premalignant epithelial polyps of the duodenum that do **not** involve the major papilla (contrast [[ampullary-adenoma|ampullary adenoma]]). Nonampullary duodenal polyps are found in up to **5% of upper endoscopies** — mostly incidental in asymptomatic patients — and **adenomas make up 10%–20%** of them. DAs occur **sporadically** (up to 0.5% of patients) or with a polyposis syndrome ([[familial-adenomatous-polyposis|familial adenomatous polyposis (FAP)]], [[mutyh-associated-polyposis|*MUTYH*-associated polyposis]]). Most contain only low-grade dysplasia, but **up to 20% progress to high-grade dysplasia (HGD) and ~5% to cancer**, so endoscopic resection is generally recommended.
 
-*Governing source: [[aga-2025-nonampullary-duodenal|AGA 2025 Clinical Practice Update on Nonampullary Duodenal Lesions]] — the numbered **BPA** statements throughout this page are its Best Practice Advice statements and, as a CPU, carry **no GRADE strength or evidence quality**. [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015]] supplies the older perforation data where cited.*
+*Governing source: [[aga-2025-nonampullary-duodenal|American Gastroenterological Association (AGA) 2025 Clinical Practice Update (CPU) on Nonampullary Duodenal Lesions]] — the numbered **best practice advice (BPA)** statements throughout this page are its own and, as a CPU, carry **no Grading of Recommendations Assessment, Development and Evaluation (GRADE) strength or evidence quality**. [[asge-2015-ampullary-duodenal-adenomas|American Society for Gastrointestinal Endoscopy (ASGE) 2015]] supplies the older perforation data where cited.*
 
 ## Contents
 - [[#Assessment]]
@@ -61,9 +61,9 @@ Describe every duodenal polyp by **(BPA 3):**
 *Workup of a duodenal mucosal mound: see [[subepithelial-lesion]].*
 
 - **Non-neoplastic epithelial:** metaplastic foveolar epithelium, gastric heterotopia, inflammatory/pseudopolyp (bulb-predominant; no resection unless symptomatic/bleeding).
-- **Brunner gland hamartoma:** uncommon, benign, often solitary pedunculated, up to 2–5 cm, from lobular proliferation of Brunner glands. Resection generally unnecessary unless symptomatic or large (>2 cm → obstruction, pain, bleeding); large lesions may cause GI hemorrhage with [[iron-deficiency-anemia|iron deficiency]]; rare dysplasia.
-- **Duodenal hamartoma:** associated with [[peutz-jeghers-syndrome|Peutz-Jeghers]], [[cowden-syndrome|Cowden]], [[juvenile-polyposis-syndrome|juvenile polyposis]]; solitary PJ-type polyps can occur **without** PJ syndrome — endoscopic resection generally recommended.
-- **[[subepithelial-lesion|Subepithelial lesions]]:** [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], [[gastrointestinal-stromal-tumor|GIST]], lipoma, leiomyoma.
+- **Brunner gland hamartoma:** uncommon, benign, often solitary pedunculated, up to 2–5 cm, from lobular proliferation of Brunner glands. Resection generally unnecessary unless symptomatic or large (>2 cm → obstruction, pain, bleeding); large lesions may cause gastrointestinal (GI) hemorrhage with [[iron-deficiency-anemia|iron deficiency]]; rare dysplasia.
+- **Duodenal hamartoma:** associated with [[peutz-jeghers-syndrome|Peutz-Jeghers]], [[cowden-syndrome|Cowden]], [[juvenile-polyposis-syndrome|juvenile polyposis]]; solitary Peutz-Jeghers (PJ)-type polyps can occur **without** PJ syndrome — endoscopic resection generally recommended.
+- **[[subepithelial-lesion|Subepithelial lesions]]:** [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], [[gastrointestinal-stromal-tumor|gastrointestinal stromal tumor (GIST)]], lipoma, leiomyoma.
 - **[[ampullary-adenoma|Ampullary adenoma]] / carcinoma** — exclude papillary involvement.
 
 ---
@@ -88,12 +88,12 @@ Describe every duodenal polyp by **(BPA 3):**
 
 | Lesion | Preferred technique | Key data |
 |---|---|---|
-| **Flat, nonbulky, <20 mm** (esp. with comorbidities) | **Piecemeal cold-snare (CS) resection** | Mitigates postprocedural bleeding; effective; **minimal recurrence** at this size. CS-EMR nearly eliminates bleeding (intraprocedural 2.0% vs 37%; postpolypectomy 4.0% vs 16.7% vs hot-snare) |
-| **>20 mm or large Paris subtype Is components** | **Conventional hot-snare [[endoscopic-mucosal-resection\|EMR]]** + **thermal ablation of the post-EMR margin** | Margin ablation reduces recurrence to **<2%–5%**; safe and effective (EMR-T recurrence 2.3% vs 17.6% conventional EMR) |
+| **Flat, nonbulky, <20 mm** (esp. with comorbidities) | **Piecemeal cold-snare (CS) resection** | Mitigates postprocedural bleeding; effective; **minimal recurrence** at this size. Cold-snare endoscopic mucosal resection (CS-EMR) nearly eliminates bleeding (intraprocedural 2.0% vs 37%; postpolypectomy 4.0% vs 16.7% vs hot-snare) |
+| **>20 mm or large Paris subtype Is components** | **Conventional hot-snare [[endoscopic-mucosal-resection\|EMR]]** + **thermal ablation of the post-EMR margin** | Margin ablation reduces recurrence to **<2%–5%**; safe and effective (EMR with thermal margin ablation [EMR-T] recurrence 2.3% vs 17.6% conventional EMR) |
 | ≤20 mm (alternative) | **Underwater EMR** | Recurrence 2%–3%, perforation <1%, delayed bleeding <2% |
 
 - **Recurrence:** conventional hot-snare EMR 10%–15% at 6 mo, size-dependent. **CS-EMR recurrence is higher for large lesions (24.4% vs 2.3%)** and is related to primary-lesion size — so CS is most attractive for lesions **<15 mm**, particularly with significant comorbidities.
-- **[[endoscopic-submucosal-dissection|ESD]] offers no clear advantage** over piecemeal EMR (covert adenocarcinoma within a DA is rare, ≤1%) and, given the **thin duodenal muscularis propria**, is associated with **high perforation rates** — not advised. [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015]] puts a number on it: **perforation rates as high as 23%–35%** with duodenal ESD in high-volume series, with **no perforations** reported by the same group using EMR — hence ESD is not recommended beyond the duodenal bulb.
+- **[[endoscopic-submucosal-dissection|Endoscopic submucosal dissection (ESD)]] offers no clear advantage** over piecemeal EMR (covert adenocarcinoma within a DA is rare, ≤1%) and, given the **thin duodenal muscularis propria**, is associated with **high perforation rates** — not advised. [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015]] puts a number on it: **perforation rates as high as 23%–35%** with duodenal ESD in high-volume series, with **no perforations** reported by the same group using EMR — hence ESD is not recommended beyond the duodenal bulb.
 - **Clip closure** of the post-EMR defect is generally only effective for **defects ≤15 mm** (the thin, fixed retroperitoneal duodenal wall tears easily on the muscular layer; close **mucosa-to-mucosa**, avoid clipping the deep muscle). Hot-snare excision itself carries ~1% perforation risk.
 - **Surgery** is reserved for lesions not amenable to safe endoscopic resection; factor comorbidities and longevity.
 
@@ -102,7 +102,7 @@ Describe every duodenal polyp by **(BPA 3):**
 - **Postprocedural bleeding (BPA 10):** duodenal resection has **higher bleeding risk than elsewhere in the GI tract**, usually in the **first 48 h**, risk **proportional to lesion size** — 25% for lesions ≥30 mm; **>25% for lesions >3 cm**, may be life-threatening with hemodynamic compromise. After resuscitation, [[endoscopic-hemostasis|endoscopic hemostasis]] is generally effective.
 - **Perforation (BPA 11):** critically **evaluate the postpolypectomy/EMR defect** — unrecognized/untreated perforation may be life-threatening and often **mandates surgery**.
 - **High-risk patients** (multiple comorbidities, anticoagulation, bulky lesions ≥30 mm, significant intraprocedural bleeding, possible/closed perforation): **admit for observation** given the 25% bleeding risk. CS resection nearly eliminates bleeding risk but **bulky DAs are unsuitable for CS**.
-- **Post-procedure orders:** clear-liquid diet overnight, advance as tolerated over 6–8 weeks; **twice-daily [[proton-pump-inhibitors|PPI]] × 6–8 weeks**; individualize resumption of [[anticoagulation-gi-bleeding|anticoagulation/antiplatelet therapy]] — **hold ≥48 h after resection** if acceptable, with a risk–benefit discussion. Insufficient data to support prophylactic hemostatic spray/topical agents.
+- **Post-procedure orders:** clear-liquid diet overnight, advance as tolerated over 6–8 weeks; **twice-daily [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] × 6–8 weeks**; individualize resumption of [[anticoagulation-gi-bleeding|anticoagulation/antiplatelet therapy]] — **hold ≥48 h after resection** if acceptable, with a risk–benefit discussion. Insufficient data to support prophylactic hemostatic spray/topical agents.
 
 ### Surveillance
 
@@ -115,7 +115,7 @@ Describe every duodenal polyp by **(BPA 3):**
 - **Resect (BPA 13)** FAP-associated DAs based on **size (≥1 cm)**, morphologic characteristics, **advanced histology (HGD)**, and/or **Spiegelman criteria**. Because of the mucosal field defect, permanent/complete polyp elimination is unrealistic — the strategy is to **control the disease** and remove larger/morphologically advanced lesions. Polyp removal may **down-stage** the Spiegelman score.
 - **Surveillance** may begin at **age 25**; interval set by Spiegelman stage. [[device-assisted-enteroscopy|Deep enteroscopy]]/capsule reserved for **advanced polyposis** or polyps extending toward the **ligament of Treitz**. **Chromoendoscopy** increases detection and upstages severity but its clinical value is not established.
 
-**Spiegelman/Spigelman scoring — the 4 variables (number, size, histology, dysplasia) and their 1/2/3-point values live on [[familial-adenomatous-polyposis]]**, together with the ASGE 2020 *modified* dysplasia row (LGD = 1, HGD = 3, no 2-point tier). Stage cut-points are identical in both sources: **0 = 0 · I = 1–4 · II = 5–6 · III = 7–8 · IV = 9–12.**
+**Spiegelman/Spigelman scoring — the 4 variables (number, size, histology, dysplasia) and their 1/2/3-point values live on [[familial-adenomatous-polyposis]]**, together with the ASGE 2020 *modified* dysplasia row (low-grade dysplasia [LGD] = 1, HGD = 3, no 2-point tier). Stage cut-points are identical in both sources: **0 = 0 · I = 1–4 · II = 5–6 · III = 7–8 · IV = 9–12.**
 
 **Surveillance interval and adenocarcinoma risk by stage — as printed in [[aga-2025-nonampullary-duodenal]] Table 1:**
 
@@ -127,7 +127,7 @@ Describe every duodenal polyp by **(BPA 3):**
 | III | 7–8 | 6–12 mo | 2.4 |
 | IV | 9–12 | Surgical consult, 6–12 mo | 36 |
 
-- ⚠ **Contradiction on the record — the intervals differ from the ones on [[familial-adenomatous-polyposis]].** That page carries [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 9, which sets **stage II at every 1–3 y** and **stage IV at every 3–6 months + surgical evaluation**; AGA 2025 above sets stage II at 2–3 y and stage IV at 6–12 months with surgical consult. Same guideline tier, and **AGA 2025 is the newer publication**, so it governs. The gap is widest at **stage IV (3–6 mo vs 6–12 mo)**; **neither guideline adjudicates the difference**, so it is recorded rather than resolved.
+- ⚠ **Contradiction on the record — the intervals differ from the ones on [[familial-adenomatous-polyposis]].** That page carries [[acg-2015-hereditary-gi-cancer|American College of Gastroenterology (ACG) 2015]] Table 9, which sets **stage II at every 1–3 y** and **stage IV at every 3–6 months + surgical evaluation**; AGA 2025 above sets stage II at 2–3 y and stage IV at 6–12 months with surgical consult. Same guideline tier, and **AGA 2025 is the newer publication**, so it governs. The gap is widest at **stage IV (3–6 mo vs 6–12 mo)**; **neither guideline adjudicates the difference**, so it is recorded rather than resolved.
 - Stage IV disease, **HGD**, and **lesion size ≥10 mm** are risk factors for duodenal cancer (~4% of FAP patients overall).
 
 ---

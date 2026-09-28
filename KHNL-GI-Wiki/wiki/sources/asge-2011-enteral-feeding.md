@@ -18,7 +18,7 @@ sources: []
 
 ## Summary
 
-ASGE guideline on endoscopically placed enteral feeding access. Enteral nutrition (EN) is indicated for patients with an intact, functional GI tract who cannot meet caloric demands orally. The central decision rule is duration-based: **nasoenteric feeding** is preferred when peroral nutrition is expected to resume **within 30 days**; a **percutaneous endoscopic feeding tube** (PEG, or PEGJ/DPEJ for post-pyloric feeding) is indicated when longer-term EN is required. PEGJ or direct percutaneous endoscopic jejunostomy (DPEJ) is used for severe GERD, gastroparesis, or recurrent tube-feed aspiration. IV antibiotic prophylaxis is recommended before percutaneous tube placement, and tube feeds can safely start within 4 hours of placement.
+American Society for Gastrointestinal Endoscopy (ASGE) guideline on endoscopically placed enteral feeding access. Enteral nutrition (EN) is indicated for patients with an intact, functional gastrointestinal (GI) tract who cannot meet caloric demands orally. The central decision rule is duration-based: **nasoenteric feeding** is preferred when peroral nutrition is expected to resume **within 30 days**; a **percutaneous endoscopic feeding tube** (percutaneous endoscopic gastrostomy [PEG], or percutaneous endoscopic gastrojejunostomy [PEGJ]/direct percutaneous endoscopic jejunostomy [DPEJ] for post-pyloric feeding) is indicated when longer-term EN is required. PEGJ or DPEJ is used for severe gastroesophageal reflux disease (GERD), gastroparesis, or recurrent tube-feed aspiration. Intravenous (IV) antibiotic prophylaxis is recommended before percutaneous tube placement, and tube feeds can safely start within 4 hours of placement.
 
 The document also frames PEG outcomes (high underlying-comorbidity mortality — 30-day all-cause ~15%, procedure-related ~0.5%), complications (aspiration, bleeding, perforation, buried bumper syndrome, peristomal infection, colocutaneous/gastrocolic fistula, pneumoperitoneum), and technique caveats (mature tract required before non-endoscopic replacement; cut-and-push removal contraindicated with distal GI stricture).
 
@@ -29,7 +29,7 @@ The document also frames PEG outcomes (high underlying-comorbidity mortality —
 - In severe acute pancreatitis, EN reduces infectious complications and mortality vs parenteral nutrition (meta-analysis).
 - **PEGJ/DPEJ** indicated for severe GERD, gastroparesis, or recurrent tube-feed aspiration.
 - **IV prophylactic antibiotic** before percutaneous feeding-tube placement reduces peristomal wound infection (high-quality evidence).
-- **Early feeding** (≤4 h after placement) equivalent to delayed/next-day feeding (meta-analysis of 6 RCTs).
+- **Early feeding** (≤4 h after placement) equivalent to delayed/next-day feeding (meta-analysis of 6 randomized controlled trials [RCTs]).
 - Absolute contraindications: inability to appose gastric and abdominal walls, pharyngeal/esophageal obstruction precluding endoscope passage, uncorrectable coagulopathy.
 - PEG complication rate 4.9-10.3% (serious 1.5-4%); procedure-related mortality ~0.5%, 30-day all-cause mortality ~15% (comorbidity-driven). Tumor seeding after PEG in oropharyngeal tumors <1%.
 - A **mature fistulous tract** is required before non-endoscopic tube/button replacement (intraperitoneal spillage risk otherwise). Cut-and-push removal should not be used with distal GI strictures (obstruction risk).

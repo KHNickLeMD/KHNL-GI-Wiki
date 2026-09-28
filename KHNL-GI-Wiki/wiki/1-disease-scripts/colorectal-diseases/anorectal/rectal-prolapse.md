@@ -45,7 +45,7 @@ sources: [acg-2021-anorectal-disorders, aga-2026-hemorrhoids, aga-2026-refractor
 
 | Type | Course | Implication |
 |---|---|---|
-| **Full-thickness (overt) rectal prolapse** | Progressive; leaving it untreated leads to **very significant morbidity** | Consider surgical correction — **with or without defecatory symptoms**, and with or without progressive [[fecal-incontinence\|FI]] |
+| **Full-thickness (overt) rectal prolapse** | Progressive; leaving it untreated leads to **very significant morbidity** | Consider surgical correction — **with or without defecatory symptoms**, and with or without progressive [[fecal-incontinence\|fecal incontinence (FI)]] |
 | **Mucosal prolapse** | **More benign**; may be found in asymptomatic patients | Not an automatic surgical indication |
 | **Internal intussusception** | **More benign**; may be found in asymptomatic patients | Not an automatic surgical indication; relevant when it is the lead point of a solitary rectal ulcer |
 
@@ -65,7 +65,7 @@ sources: [acg-2021-anorectal-disorders, aga-2026-hemorrhoids, aga-2026-refractor
 | Test | Role |
 |---|---|
 | **Digital/visual rectal examination** — left lateral, then **squatting or seated on a commode** if negative | First and often definitive; the positional repeat is required before calling prolapse absent [[acg-2021-anorectal-disorders]] |
-| **Defecography** (barium or MR) | Identifies **internal intussusception, solitary rectal ulcers, rectoceles, and rectal prolapse**; also enteroceles, bladder and uterovaginal prolapse when vagina/small bowel are opacified. Consider when clinical features suggest a structural abnormality, or when [[anorectal-manometry\|ARM]] and balloon expulsion are inconclusive [[acg-2021-anorectal-disorders]], [[aga-2026-refractory-constipation]] |
+| **Defecography** (barium or magnetic resonance (MR)) | Identifies **internal intussusception, solitary rectal ulcers, rectoceles, and rectal prolapse**; also enteroceles, bladder and uterovaginal prolapse when vagina/small bowel are opacified. Consider when clinical features suggest a structural abnormality, or when [[anorectal-manometry\|anorectal manometry (ARM)]] and balloon expulsion are inconclusive [[acg-2021-anorectal-disorders]], [[aga-2026-refractory-constipation]] |
 | **[[anorectal-manometry]] + balloon expulsion** | Assesses coexisting dyssynergia — relevant because [[biofeedback-therapy\|biofeedback]], not surgery, treats the functional component [[acg-2021-anorectal-disorders]] |
 | **[[colonoscopy]]** | Not diagnostic of prolapse, but a **solitary rectal ulcer** found incidentally should prompt evaluation for prolapse [[asge-2014-constipation]] |
 
@@ -73,7 +73,7 @@ sources: [acg-2021-anorectal-disorders, aga-2026-hemorrhoids, aga-2026-refractor
 
 ## Therapeutics
 
-> **ACG 2021 Recommendation (defecation disorders, Table 2, #2):** "We suggest that **full-thickness rectal prolapse often requires surgical treatment with abdominal rectopexy or in selected cases a perineal procedure**." *(Conditional recommendation; moderate risk of harm; quality of evidence: very low. Consensus score: 30.)* [[acg-2021-anorectal-disorders]]
+> **American College of Gastroenterology (ACG) 2021 Recommendation (defecation disorders, Table 2, #2):** "We suggest that **full-thickness rectal prolapse often requires surgical treatment with abdominal rectopexy or in selected cases a perineal procedure**." *(Conditional recommendation; moderate risk of harm; quality of evidence: very low. Consensus score: 30.)* [[acg-2021-anorectal-disorders]]
 
 - **Indication:** overt full-thickness prolapse, **with or without defecatory symptoms and/or progressive [[fecal-incontinence|fecal incontinence]]** — surgery relieves symptoms and improves continence, and the untreated alternative carries very significant morbidity (low-level evidence). [[acg-2021-anorectal-disorders]]
 - **Note the contrast with dyssynergia:** in a [[defecation-disorders|defecation disorder]] *without* overt prolapse, surgery requires **both** failure of [[biofeedback-therapy|biofeedback]] **and** a structural abnormality. Overt full-thickness prolapse is itself the structural indication and does not require a failed biofeedback trial first. [[acg-2021-anorectal-disorders]]
@@ -90,7 +90,7 @@ sources: [acg-2021-anorectal-disorders, aga-2026-hemorrhoids, aga-2026-refractor
 
 ### Who Does Worse After Surgery
 
-Added caution — worse outcomes reported in: psychiatric disorders; chronic pain or [[irritable-bowel-syndrome|IBS]]; morbid [[obesity]]; joint hypermobility; connective tissue disorders; women planning pregnancy; and those at high risk for pelvic surgery from previous surgery, infection, or radiotherapy. [[acg-2021-anorectal-disorders]]
+Added caution — worse outcomes reported in: psychiatric disorders; chronic pain or [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]]; morbid [[obesity]]; joint hypermobility; connective tissue disorders; women planning pregnancy; and those at high risk for pelvic surgery from previous surgery, infection, or radiotherapy. [[acg-2021-anorectal-disorders]]
 
 ### Solitary Rectal Ulcer Syndrome
 

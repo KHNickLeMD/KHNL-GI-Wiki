@@ -7,7 +7,7 @@ updated: 2026-09-05
 sources: [aga-2023-ai-colon-polyp, aga-2025-cade-colonoscopy]
 ---
 
-Framework for AI computer-vision tools in GI endoscopy, focused on [[colonoscopy]]. Three classes: **CADe** (detection), **CADx** (optical diagnosis), **computer-aided quality assessment** (technique/exposure). Bottom line: CADe raises detection metrics (**ADR +8 absolute points**, adenoma miss rate −19 points) but its effect on [[colorectal-cancer|CRC]] incidence and mortality is very uncertain and it drives **635 more surveillance colonoscopies per 10,000 people over 10 y** — so [[aga-2025-cade-colonoscopy|AGA 2025]] makes **no recommendation** for or against routine CADe.
+Framework for artificial intelligence (AI) computer-vision tools in gastrointestinal (GI) endoscopy, focused on [[colonoscopy]]. Three classes: **computer-aided detection (CADe)**, **computer-aided diagnosis (CADx)** (optical diagnosis), **computer-aided quality assessment** (technique/exposure). Bottom line: CADe raises detection metrics (**adenoma detection rate (ADR) +8 absolute points**, adenoma miss rate −19 points) but its effect on [[colorectal-cancer|colorectal cancer (CRC)]] incidence and mortality is very uncertain and it drives **635 more surveillance colonoscopies per 10,000 people over 10 y** — so [[aga-2025-cade-colonoscopy|American Gastroenterological Association (AGA) 2025]] makes **no recommendation** for or against routine CADe.
 
 ## Contents
 - [[#Three Classes of AI Tools]]
@@ -30,7 +30,7 @@ Framework for AI computer-vision tools in GI endoscopy, focused on [[colonoscopy
 - **CADe (detection):** flags potential polyps in real time alongside the endoscopist.
 - **CADx (diagnosis):** predicts polyp histology optically (adenoma vs non-adenoma) to support "resect-and-discard" / "diagnose-and-leave."
 - **Computer-aided quality assessment:** measures/improves withdrawal technique and mucosal exposure (fold examination, withdrawal speed, coverage).
-- Contemporary tools = deep-learning **convolutional neural networks** on live video (earlier detectors were still-image, hand-engineered features). Trained on large expert-labeled image/video sets; generalize well to unseen video. [[aga-2023-ai-colon-polyp]], [[aga-2025-cade-colonoscopy]]
+- Contemporary tools = deep-learning **convolutional neural networks (CNNs)** on live video (earlier detectors were still-image, hand-engineered features). Trained on large expert-labeled image/video sets; generalize well to unseen video. [[aga-2023-ai-colon-polyp]], [[aga-2025-cade-colonoscopy]]
 - Several CADe platforms have FDA marketing approval as medical devices.
 - What the displays look like on screen: [[aga-2023-ai-colon-polyp]] Figure 1 (CADe alert box on a sessile and a flat polyp) and Figure 2 (CADx histology-prediction display).
 
@@ -53,19 +53,19 @@ Framework for AI computer-vision tools in GI endoscopy, focused on [[colonoscopy
 - CADe is an **iterative** AI application likely to improve with further training/validation; **an updated recommendation is planned**.
 - Evidence gaps to address: diverse patient populations and settings (community vs academic), impact on polyps of greater significance (advanced adenomas) and harder-to-detect polyps (sessile serrated lesions), resource implications, access, patient values/preferences, cost-effectiveness, long-term patient-important outcomes.
 
-**GRADE label meanings used here:** "recommends" = strong; "suggests" = conditional; **no recommendation** = the tradeoff is closely balanced *and* certainty around the critical outcomes is inadequate — further research needed.
+**Grading of Recommendations Assessment, Development and Evaluation (GRADE) label meanings used here:** "recommends" = strong; "suggests" = conditional; **no recommendation** = the tradeoff is closely balanced *and* certainty around the critical outcomes is inadequate — further research needed.
 
 **What changed, and why it matters:** the panel **initially drafted a conditional recommendation *suggesting* CADe**, then reconvened after public comment and issued **NO RECOMMENDATION by vote**, without consensus. Rationale: the ADR gain is driven by **diminutive-to-small polyps with low progression potential**, which shortens [[colonoscopy-surveillance|surveillance]] intervals and raises lifetime colonoscopy count; the panel weighted long-term CRC incidence/mortality more heavily than the surrogate.
 - ⚠ CADe is an **endoscopist-level** intervention — the panel judged the decision **may not be conducive to shared decision-making** with an individual patient.
 
 ### Effect Sizes — AGA 2025 Summary of Findings
 
-Population: adults undergoing [[colonoscopy]] for screening, surveillance, or positive FIT. Comparator: standard colonoscopy.
+Population: adults undergoing [[colonoscopy]] for screening, surveillance, or positive fecal immunochemical test (FIT). Comparator: standard colonoscopy.
 
-| Outcome (timeframe) | Routine | CADe | Absolute difference (95% CI) | RR (95% CI) | Certainty |
+| Outcome (timeframe) | Routine | CADe | Absolute difference (95% confidence interval [CI]) | Relative risk (RR) (95% CI) | Certainty |
 |---|---|---|---|---|---|
 | CRC incidence / 10 y | 82 per 10,000 | 71 per 10,000 | 11 fewer per 10,000 (NNT 909); 35 fewer to 17 more | 0.87 (0.57–1.21) | Very low |
-| CRC-related deaths / 10 y | 15 per 10,000 | 13 per 10,000 | 2 fewer per 10,000 (NNT 5000); 10 fewer to 18 more | 0.84 (0.32–2.19) | Low |
+| CRC-related deaths / 10 y | 15 per 10,000 | 13 per 10,000 | 2 fewer per 10,000 (number needed to treat [NNT] 5000); 10 fewer to 18 more | 0.84 (0.32–2.19) | Low |
 | PCCRC incidence / 10 y | 34 per 10,000 | 23 per 10,000 | 11 fewer per 10,000 (NNT 909); 22 fewer to 12 more | 0.67 (0.34–1.34) | Very low |
 | ADR | 37.4 per 100 | 44.8 per 100 | 8 more per 100 (6 to 11 more) | 1.22 (1.16–1.29) | Low |
 | Adenoma miss rate | 35.3 per 100 | 16.1 per 100 | 19 fewer per 100 (22 to 14 fewer) | 0.47 (0.36–0.60) | Moderate |
@@ -80,17 +80,17 @@ Population: adults undergoing [[colonoscopy]] for screening, surveillance, or po
 *Table 1 — AGA 2025 summary of findings. ([[aga-2025-cade-colonoscopy]])*
 
 **Reading the table:**
-- Detection-rate rows come from the **pooled RCTs**; CRC/mortality/PCCRC/surveillance/perforation/bleeding rows come from a **microsimulation Markov model** (100,000 individuals aged 60–69, 10-y follow-up, assumed 100% participation) — hence the low-to-very-low certainty on the outcomes that matter most.
+- Detection-rate rows come from the **pooled randomized controlled trials (RCTs)**; CRC/mortality/PCCRC/surveillance/perforation/bleeding rows come from a **microsimulation Markov model** (100,000 individuals aged 60–69, 10-y follow-up, assumed 100% participation) — hence the low-to-very-low certainty on the outcomes that matter most.
 - Advanced colorectal neoplasia = advanced adenoma and/or advanced serrated lesion. Perforation and bleeding = events involving transfusion or hospitalization within 30 days.
 - Certainty was rated down mainly for **lack of blinding of outcome assessors** (detection bias), **imprecision** (CIs crossing harm), and for ADR **publication bias** (asymmetric funnel plot, significant Egger's test).
-- Underlying SR: **44 RCTs, >30,000 participants**; polyp detection rate 56.1% vs 47.9% (RR 1.22, 1.15–1.28) in 41 RCTs / 32,108 participants.
+- Underlying systematic review (SR): **44 RCTs, >30,000 participants**; polyp detection rate (PDR) 56.1% vs 47.9% (RR 1.22, 1.15–1.28) in 41 RCTs / 32,108 participants.
 
 ### Trial vs Real-World Performance
 - **Pooled nonrandomized studies show no benefit** — 8 studies, 9782 participants: ADR 44% vs 38%, **RR 1.11 (0.97–1.28)**, i.e. not significant. The AGA 2025 panel explicitly noted CADe effectiveness **may be lower in practice than in RCTs**. [[aga-2025-cade-colonoscopy]]
-- Individual negative studies: Ladabaum pragmatic single-center (no gain in ADR/APC vs historic and concurrent controls); Levy large retrospective observational — **ADR 30.3% with CADe vs 35.2% pre-CADe, P=.001** (lower), with lower PDR and APC; a UK RCT with no ADR difference. [[aga-2023-ai-colon-polyp]]
+- Individual negative studies: Ladabaum pragmatic single-center (no gain in ADR/adenomas detected per colonoscopy [APC] vs historic and concurrent controls); Levy large retrospective observational — **ADR 30.3% with CADe vs 35.2% pre-CADe, P=.001** (lower), with lower PDR and APC; a UK RCT with no ADR difference. [[aga-2023-ai-colon-polyp]]
 - Proposed explanations: **ceiling effect** in high performers; unconscious **degradation of mucosal exposure** from a false sense of security; **unblinded endoscopists** → performance bias favoring CADe in RCTs.
 - Gains are not purely non-neoplastic — Shaukat US multicenter RCT (5 academic + community sites, 22 board-certified gastroenterologists; 677 standard vs 682 CADe): **APC 0.83 → 1.05** with **no decrease in true-histology rate** (proportion of resections with clinically significant histology). [[aga-2023-ai-colon-polyp]]
-- ⚠ **Superseded number.** The 2023 CPU cited the Huang meta-analysis of **10 RCTs / 6629 patients — ADR RR 1.43, PDR RR 1.44 (both P<.001)**. The 2025 guideline's pooled **44-RCT estimate of RR 1.22 (1.16–1.29)** is the page's operative figure (newer, larger, guideline-tier); the 1.43 figure overstates the effect.
+- ⚠ **Superseded number.** The 2023 Clinical Practice Update (CPU) cited the Huang meta-analysis of **10 RCTs / 6629 patients — ADR RR 1.43, PDR RR 1.44 (both P<.001)**. The 2025 guideline's pooled **44-RCT estimate of RR 1.22 (1.16–1.29)** is the page's operative figure (newer, larger, guideline-tier); the 1.43 figure overstates the effect.
 
 ### Downstream Burden and Cost
 - **Dominant undesirable effect:** 635 more surveillance colonoscopies per 10,000 people over 10 y (see table) — driven by detection of diminutive/small adenomas of low malignant potential, plus a probable rise in resection of non-neoplastic polyps (which carries unnecessary cost). This is **overdiagnosis**: detection of polyps that would never have progressed to clinical CRC in a lifetime.
@@ -107,7 +107,7 @@ Population: adults undergoing [[colonoscopy]] for screening, surveillance, or po
 
 ### PIVI Thresholds — the Decision Criteria
 
-ASGE "Preservation and Incorporation of Valuable Endoscopic Innovations" (2011) set the performance bars that must be met before either strategy may be adopted:
+American Society for Gastrointestinal Endoscopy (ASGE) "Preservation and Incorporation of Valuable Endoscopic Innovations" (PIVI; 2011) set the performance bars that must be met before either strategy may be adopted:
 
 | Strategy | Target lesions | Required performance |
 |---|---|---|
@@ -115,9 +115,9 @@ ASGE "Preservation and Incorporation of Valuable Endoscopic Innovations" (2011) 
 | **Resect-and-discard** (no pathology) | Colorectal polyps **<5 mm** | **>90% agreement** with pathology-based assignment of post-[[polypectomy]] surveillance intervals |
 
 ### CADx Performance Data
-- **Hassan et al** — simultaneous CADe + CADx, high-definition white-light **unmagnified** endoscopy, CNN classifier run on multiple images per lesion. 544 polyps in 162 patients; 295 (54.2%) were histologically verified rectosigmoid lesions <5 mm.
+- **Hassan et al** — simultaneous CADe + CADx, high-definition (HD) white-light **unmagnified** endoscopy, CNN classifier run on multiple images per lesion. 544 polyps in 162 patients; 295 (54.2%) were histologically verified rectosigmoid lesions <5 mm.
   - CADx diagnosis feasible in **98.6%** of polyps.
-  - **NPV 97.6%** for rectosigmoid lesions <5 mm — **exceeds the ≥90% PIVI bar in white light**.
+  - **negative predictive value (NPV) 97.6%** for rectosigmoid lesions <5 mm — **exceeds the ≥90% PIVI bar in white light**.
   - 242/295 (82%) amenable to leave-in-situ; 212/544 (39%) amenable to resect-and-discard, with **95.9% agreement** with histology-based surveillance intervals per US guidelines.
   - Projected effect: **44.4% fewer polypectomies**; adding resect-and-discard would cut pathology to **17%** of detected lesions.
 - **Barua et al** — CADx requiring a ×520 magnifying colonoscope: **did not increase diagnostic sensitivity**, but raised the rate of high-confidence endoscopist diagnosis from **74.2% → 92.6%**. Confidence, not accuracy, may be the rate-limiting step for adoption.

@@ -13,13 +13,13 @@ sources: []
 - **Year:** 2023
 - **Journal/Publisher:** Clinical Gastroenterology and Hepatology (AGA Institute)
 - **DOI:** [10.1016/j.cgh.2023.01.040](https://doi.org/10.1016/j.cgh.2023.01.040)
-- **Type:** guideline (AGA Clinical Practice Update — Expert Review)
+- **Type:** guideline (American Gastroenterological Association [AGA] Clinical Practice Update — Expert Review)
 
 ## Summary
 
-This AGA Clinical Practice Update addresses suspected **extraesophageal reflux (EER)** — laryngitis, chronic cough, asthma, and dental erosions attributed to GERD. The central problem: **there is no single test that conclusively proves GER causes extraesophageal symptoms**, and 50–60% of patients with EER symptoms do not actually have GERD and will not respond to anti-reflux therapy. Diagnosis therefore rests on a global clinical impression integrating symptoms, endoscopy, reflux monitoring, and treatment response, ideally within a multidisciplinary framework (pulmonology, otolaryngology, dentistry).
+This AGA Clinical Practice Update (CPU) addresses suspected **extraesophageal reflux (EER)** — laryngitis, chronic cough, asthma, and dental erosions attributed to gastroesophageal reflux disease (GERD). The central problem: **there is no single test that conclusively proves gastroesophageal reflux (GER) causes extraesophageal symptoms**, and 50–60% of patients with EER symptoms do not actually have GERD and will not respond to anti-reflux therapy. Diagnosis therefore rests on a global clinical impression integrating symptoms, endoscopy, reflux monitoring, and treatment response, ideally within a multidisciplinary framework (pulmonology, otolaryngology, dentistry).
 
-Two mechanisms are postulated: the **reflux pathway** (micro-aspiration/direct mucosal injury by acid or non-acid refluxate) and the **reflex pathway** (vagally-mediated airway reactions). Because of the reflex mechanism, symptom improvement on a PPI may occur through effects other than acid suppression and should not be taken as proof of GERD.
+Two mechanisms are postulated: the **reflux pathway** (micro-aspiration/direct mucosal injury by acid or non-acid refluxate) and the **reflex pathway** (vagally-mediated airway reactions). Because of the reflex mechanism, symptom improvement on a proton pump inhibitor (PPI) may occur through effects other than acid suppression and should not be taken as proof of GERD.
 
 Key management shifts: consider objective reflux testing **before** starting empiric PPI in patients with EER symptoms but **without** typical GERD symptoms; a single-dose PPI trial titrated up to twice daily is reasonable in those with typical symptoms. After one PPI trial (up to 12 weeks) fails, additional trials of different PPIs are low-yield — pursue objective testing instead. Anti-reflux surgery should only be considered with clear, objectively-defined GERD, and a lack of PPI response predicts lack of surgical response.
 
@@ -39,16 +39,16 @@ Key management shifts: consider objective reflux testing **before** starting emp
 10. Shared decision-making should be performed before referral for anti-reflux surgery for EER when the patient has clear, objectively defined evidence of GERD. However, a lack of response to PPI therapy predicts lack of response to anti-reflux surgery and should be incorporated into the decision process.
 
 **Additional detail:**
-- Conditions commonly attributed to EER (Table 1): chronic cough, laryngeal hoarseness/dysphonia, pulmonary fibrosis, asthma, dental erosions, sinus disease, ear disease, post-nasal drip, throat clearing. Each has a large non-reflux differential and benefits from multidisciplinary evaluation (pulmonary, ENT, dentistry, allergy).
+- Conditions commonly attributed to EER (Table 1): chronic cough, laryngeal hoarseness/dysphonia, pulmonary fibrosis, asthma, dental erosions, sinus disease, ear disease, post-nasal drip, throat clearing. Each has a large non-reflux differential and benefits from multidisciplinary evaluation (pulmonary, ear, nose, and throat [ENT], dentistry, allergy).
 - 50–60% of patients with EER symptoms will not have GERD and will not respond to anti-reflux therapies — the rationale for objective testing before/instead of prolonged empiric PPI.
 - Excluding GERD lowers the probability that symptoms are reflux-caused; objectively supporting GERD keeps reflux as a possible causal factor but does not prove causation.
 
 ## Relevance to Wiki
 - **[[extraesophageal-reflux]]** — new diagnostic-schema page; this CPU is its primary source (umbrella EER framework, diagnostic algorithm, Table 1 manifestations).
 - **[[gerd]]** — enriches the Extraesophageal GERD Manifestations section (test-before-PPI, PPI improvement ≠ confirmation, one 12-week trial then objective testing, surgery caveat).
-- **[[laryngopharyngeal-symptoms]]** — LPR is the dominant EER manifestation; consistent test-before-empiric-PPI approach for isolated symptoms.
+- **[[laryngopharyngeal-symptoms]]** — laryngopharyngeal reflux (LPR) is the dominant EER manifestation; consistent test-before-empiric-PPI approach for isolated symptoms.
 - **[[ambulatory-reflux-monitoring]]**, **[[reflux-testing]]** — supports on- vs off-therapy testing choices and pH-impedance for non-acid reflux.
 
 ## Contradictions / Open Questions
-- No single gold-standard test for EER; causal attribution remains probabilistic. Salivary pepsin and oropharyngeal pH testing are not endorsed (consistent with [[acg-2021-gerd|ACG 2021]] and [[san-diego-2025-lprd|San Diego 2025]]).
+- No single gold-standard test for EER; causal attribution remains probabilistic. Salivary pepsin and oropharyngeal pH testing are not endorsed (consistent with [[acg-2021-gerd|American College of Gastroenterology (ACG) 2021]] and [[san-diego-2025-lprd|San Diego 2025]]).
 - Softer on empiric PPI than older practice: emphasizes testing before/instead of prolonged empiric therapy, especially without typical GERD symptoms.

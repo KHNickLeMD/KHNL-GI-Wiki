@@ -21,16 +21,16 @@ sources: []
 
 ## Summary
 
-This guidance standardizes the diagnosis and management of [[drug-induced-liver-injury]] (DILI), including the growing burden of **herbal and dietary supplement (HDS)** hepatotoxicity. DILI is a **diagnosis of exclusion** supported by causality assessment.
+This guidance standardizes the diagnosis and management of [[drug-induced-liver-injury|drug-induced liver injury]] (DILI), including the growing burden of **herbal and dietary supplement (HDS)** hepatotoxicity. DILI is a **diagnosis of exclusion** supported by causality assessment.
 
 ---
 
 ## Key Points
 
-- **Exclude competing causes:** test all suspected DILI for **acute viral hepatitis** (including HEV where relevant), autoimmune hepatitis, biliary obstruction, and ischemia.
-- **Causality assessment** (e.g., RUCAM) and a careful medication/**supplement** history; HDS products are a leading and underrecognized cause.
+- **Exclude competing causes:** test all suspected DILI for **acute viral hepatitis** (including hepatitis E virus [HEV] where relevant), autoimmune hepatitis (AIH), biliary obstruction, and ischemia.
+- **Causality assessment** (e.g., Roussel Uclaf Causality Assessment Method [RUCAM]) and a careful medication/**supplement** history; HDS products are a leading and underrecognized cause.
 - **Stop the offending agent** promptly; **general supportive care** for all.
-- **N-acetylcysteine** for acetaminophen toxicity (and considered in early acute liver failure).
+- **N-acetylcysteine (NAC)** for acetaminophen toxicity (and considered in early acute liver failure).
 - **Corticosteroids** for DILI with **autoimmune features** or **immune checkpoint inhibitor** hepatitis; monitor for progression to [[acute-liver-failure]] and refer for transplant evaluation when indicated.
 
 ---

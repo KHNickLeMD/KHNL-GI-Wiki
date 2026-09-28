@@ -14,11 +14,11 @@ sources: []
 - **Year:** 2020
 - **Journal:** Am J Gastroenterol 2020;115:435–464
 - **DOI:** [10.14309/ajg.0000000000000555](https://doi.org/10.14309/ajg.0000000000000555)
-- **Type:** Multi-society consensus statement (ACG, AGA, ASGE)
+- **Type:** Multi-society consensus statement (American College of Gastroenterology [ACG], American Gastroenterological Association [AGA], American Society for Gastrointestinal Endoscopy [ASGE])
 
 ## Summary
 
-Comprehensive consensus on optimal techniques for endoscopic removal of colorectal lesions. Covers lesion assessment, resection methods by lesion size/morphology, marking, post-[[endoscopic-mucosal-resection|EMR]] surveillance, and quality standards. Emphasizes that endoscopy should be first-line for all benign colorectal lesions, replacing surgical referral.
+Comprehensive consensus on optimal techniques for endoscopic removal of colorectal lesions. Covers lesion assessment, resection methods by lesion size/morphology, marking, post-[[endoscopic-mucosal-resection|endoscopic mucosal resection (EMR)]] surveillance, and quality standards. Emphasizes that endoscopy should be first-line for all benign colorectal lesions, replacing surgical referral.
 
 ## Key Findings / Claims
 
@@ -26,9 +26,9 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 
 - Document: location, size (mm), Paris classification for all lesions ≥10mm
 - Photo document all ≥10mm lesions before removal; suggest photo of post-resection defect
-- Paris 0-IIc (depressed): uncommon (1%–6% of non-polypoid lesions) but highest SMI risk — **27%–35.9%** overall vs **0.7%–2.4%** for flat (0-IIa); **>40%** of small (6–10 mm) 0-IIc lesions contain submucosal invasive cancer; virtually all >20 mm 0-IIc lesions have SMI
-- LST-G-H lowest SMI risk (**0.5%**, 95% CI 0.1%–1.0%); **LST-NG-PD highest (31.6%**, 95% CI 19.8%–43.4%)
-- NICE type 3 or Kudo Vn = deep (>1000 μm) SMI → cold biopsy + tattoo + surgical referral *(narrative body text — ungraded)*
+- Paris 0-IIc (depressed): uncommon (1%–6% of non-polypoid lesions) but highest submucosal invasion (SMI) risk — **27%–35.9%** overall vs **0.7%–2.4%** for flat (0-IIa); **>40%** of small (6–10 mm) 0-IIc lesions contain submucosal invasive cancer; virtually all >20 mm 0-IIc lesions have SMI
+- Granular homogeneous laterally spreading tumor (LST-G-H) lowest SMI risk (**0.5%**, 95% confidence interval [CI] 0.1%–1.0%); **nongranular pseudodepressed LST (LST-NG-PD) highest (31.6%**, 95% CI 19.8%–43.4%)
+- Narrow-band imaging International Colorectal Endoscopic (NICE) type 3 or Kudo Vn = deep (>1000 μm) SMI → cold biopsy + tattoo + surgical referral *(narrative body text — ungraded)*
 - Non-lifting sign = SMI or submucosal fibrosis (prior cautery, colitis) *(narrative body text — ungraded)*
 - Proficiency in image-enhanced endoscopy for optical diagnosis — *Conditional, moderate-quality*; proficiency in recognizing deep SMI — *Strong, moderate-quality*
 
@@ -48,11 +48,11 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 
 ### EMR Technique
 
-- Inject-and-cut: preferred; viscous injectant (hydroxyethyl starch, Eleview, ORISE Gel) superior to NS for ≥20mm
+- Inject-and-cut: preferred; viscous injectant (hydroxyethyl starch, Eleview, ORISE Gel) superior to normal saline for ≥20mm
 - Add indigo carmine or methylene blue to injectant for tissue plane visualization
 - Do NOT use tattoo (carbon particles) as injectant — causes submucosal fibrosis → reduces future resection success
 - Resect all visible tissue in single session, minimum number of pieces
-- Adjuvant thermal ablation of EMR margins (APC or snare tip soft coagulation) after complete visual resection → reduces recurrence
+- Adjuvant thermal ablation of EMR margins (argon plasma coagulation [APC] or snare tip soft coagulation) after complete visual resection → reduces recurrence
 - Do NOT ablate visible residual tissue (increases recurrence risk)
 - Clip closure of defects ≥20mm in right colon — prophylactic; reduces delayed perforation
 - Intraprocedural bleeding: coagulation forceps, snare-tip soft coag, or clips ± dilute epinephrine
@@ -60,7 +60,7 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 ### Surveillance After Piecemeal EMR (≥20mm)
 
 - 6 months → 1 year → 3 years
-- At scar: enhanced imaging (chromoendoscopy or NBI) + targeted biopsies
+- At scar: enhanced imaging (chromoendoscopy or narrow-band imaging [NBI]) + targeted biopsies
 - Recurrence: repeat EMR/avulsion, then 6–12 mo intervals until clear
 - Once clear: 1y, then 3y
 
@@ -79,7 +79,7 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 
 ## Recommendations
 
-⚠ **Correction.** An earlier 26-row grade table on this page misstated the strength or evidence quality in 17 rows and attached a GRADE rating to text the document never graded at all (the NICE 3 / Kudo Vn management algorithm, the non-lifting sign, the colorectal ESD indications, and "endoscopy is first-line for benign lesions" — all narrative body text or an ungraded section preamble), as checked against both printings (*Gastroenterology* 2020;158:1095 and *GIE* 2020;91:486).
+⚠ **Correction.** An earlier 26-row grade table on this page misstated the strength or evidence quality in 17 rows and attached a Grading of Recommendations Assessment, Development and Evaluation (GRADE) rating to text the document never graded at all (the NICE 3 / Kudo Vn management algorithm, the non-lifting sign, the colorectal endoscopic submucosal dissection (ESD) indications, and "endoscopy is first-line for benign lesions" — all narrative body text or an ungraded section preamble), as checked against both printings (*Gastroenterology* 2020;158:1095 and *GIE* 2020;91:486).
 
 The table has been removed rather than re-typed here so that the two pages cannot drift apart.
 
@@ -93,7 +93,7 @@ Two facts to carry when citing this document anywhere:
 ## Relevance to Wiki
 
 - Informs [[polypectomy]], [[endoscopic-mucosal-resection]], and [[colorectal-esd]] (colorectal ESD indications)
-- Informs [[colonoscopy]] (general GI procedures) — quality, technique, surveillance after EMR
+- Informs [[colonoscopy]] (general gastrointestinal procedures) — quality, technique, surveillance after EMR
 
 ## Contradictions / Open Questions
 

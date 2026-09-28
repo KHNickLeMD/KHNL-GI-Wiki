@@ -11,16 +11,16 @@ sources: []
 
 - **Article:** [ACG 2023: Acute Liver Failure.](https://doi.org/10.14309/ajg.0000000000002340)
 - **DOI:** [10.14309/ajg.0000000000002340](https://doi.org/10.14309/ajg.0000000000002340)
-- **Type:** guideline (ACG Clinical Guideline, GRADE)
+- **Type:** guideline (American College of Gastroenterology [ACG] Clinical Guideline, Grading of Recommendations Assessment, Development and Evaluation [GRADE])
 Shingina A, Mukhtar N, Wakim-Fleming J, Alqahtani S, Wong RJ, Limketkai BN, Larson AM, Grant L. Acute Liver Failure Guidelines. *Am J Gastroenterol.* 2023;118:1128–1153. <https://doi.org/10.14309/ajg.0000000000002340>. Published online March 20, 2023.
 
-American College of Gastroenterology (ACG). GRADE methodology applied. Literature search through January 2022.
+ACG. GRADE methodology applied. Literature search through January 2022.
 
 ## Summary
 
 A comprehensive clinical practice guideline from the ACG covering the diagnosis, etiology, and management of acute liver failure (ALF) in adults. The guideline issues 10 graded recommendations and numerous key concept statements across general management, system-specific supportive care, etiology-specific therapies, prognostic scoring, and [[liver-transplantation|liver transplantation]].
 
-ALF is defined as: illness duration <26 weeks in a patient **without** preexisting liver disease or cirrhosis, with **any degree of [[hepatic-encephalopathy|encephalopathy]]** AND **coagulopathy (INR ≥ 1.5)**. Exceptions to the "no prior liver disease" requirement include [[autoimmune-hepatitis|autoimmune hepatitis]] (AIH), [[budd-chiari-syndrome|Budd-Chiari syndrome]] (BCS), and [[wilson-disease|Wilson disease]] (WD), which may present acutely atop advanced fibrosis.
+ALF is defined as: illness duration <26 weeks in a patient **without** preexisting liver disease or cirrhosis, with **any degree of [[hepatic-encephalopathy|encephalopathy]]** AND **coagulopathy (international normalized ratio [INR] ≥ 1.5)**. Exceptions to the "no prior liver disease" requirement include [[autoimmune-hepatitis|autoimmune hepatitis]] (AIH), [[budd-chiari-syndrome|Budd-Chiari syndrome]] (BCS), and [[wilson-disease|Wilson disease]] (WD), which may present acutely atop advanced fibrosis.
 
 ## Key Findings / Claims
 
@@ -28,41 +28,41 @@ ALF is defined as: illness duration <26 weeks in a patient **without** preexisti
 
 - US/European definition: <26 weeks illness, no preexisting liver disease, encephalopathy (any degree), INR ≥ 1.5
 - O'Grady classification by onset of encephalopathy:
-  - **Hyperacute** (<7 days): APAP, HAV, HEV, ischemic injury — high cerebral edema risk, best prognosis without transplant
-  - **Acute** (7–21 days): HBV — intermediate cerebral edema risk and prognosis
-  - **Subacute** (>21 days, <26 weeks): non-APAP DILI — low cerebral edema risk, worst prognosis without transplant
+  - **Hyperacute** (<7 days): acetaminophen (APAP), hepatitis A virus (HAV), hepatitis E virus (HEV), ischemic injury — high cerebral edema risk, best prognosis without transplant
+  - **Acute** (7–21 days): hepatitis B virus (HBV) — intermediate cerebral edema risk and prognosis
+  - **Subacute** (>21 days, <26 weeks): non-APAP drug-induced liver injury (DILI) — low cerebral edema risk, worst prognosis without transplant
 - Incidence: ~2,000–3,000 cases/year in the United States (~1–6 per million in developed countries)
 
 ### Etiology (North America)
 
-Top causes: acetaminophen (APAP) toxicity, idiosyncratic DILI (antimicrobials, CAM), indeterminate/cryptogenic, viral hepatitis (HAV 3%, HBV 7%, HEV 2%), AIH, pregnancy-related (HELLP, AFLP), Wilson disease, BCS, mushroom poisoning, ischemic hepatitis, malignant infiltration
+Top causes: APAP toxicity, idiosyncratic DILI (antimicrobials, complementary and alternative medicine [CAM]), indeterminate/cryptogenic, viral hepatitis (HAV 3%, HBV 7%, HEV 2%), AIH, pregnancy-related (hemolysis, elevated liver enzymes, and low platelets [HELLP], acute fatty liver of pregnancy [AFLP]), Wilson disease, BCS, mushroom poisoning, ischemic hepatitis, malignant infiltration
 
 ### Diagnostics / Workup
 
-- Comprehensive labs (CBC, CMP, INR, fibrinogen, ABG, lactate, blood/urine cultures, ABO type)
-- Viral panel: HAV IgM, HBsAg, HBcIgM, HBV PCR, HCV PCR, HEV PCR (if endemic), EBV/CMV/HSV/VZV PCR
-- Toxicology: serum APAP, ASA, urine drug screen
-- Autoimmune: ANA, F-actin, IgG/IgM/IgA
+- Comprehensive labs (complete blood count [CBC], comprehensive metabolic panel [CMP], INR, fibrinogen, arterial blood gas [ABG], lactate, blood/urine cultures, ABO type)
+- Viral panel: HAV IgM, hepatitis B surface antigen (HBsAg), hepatitis B core IgM (HBcIgM), HBV polymerase chain reaction (PCR), hepatitis C virus (HCV) PCR, HEV PCR (if endemic), Epstein-Barr virus (EBV)/cytomegalovirus (CMV)/herpes simplex virus (HSV)/varicella-zoster virus (VZV) PCR
+- Toxicology: serum APAP, aspirin (ASA), urine drug screen
+- Autoimmune: antinuclear antibody (ANA), F-actin, IgG/IgM/IgA
 - Metabolic: ceruloplasmin, ferritin
 - Alcohol biomarkers: urine ethyl glucuronide (ETG) or serum phosphatidyl ethanol (PETH)
-- Imaging: ECG, CXR, abdominal ultrasound with Doppler, CT head (if encephalopathy)
-- Transplant candidates: HIV, QuantiFERON, cryptococcal Ag, treponemal Ab, TTE, repeated CT head with mental status change
+- Imaging: electrocardiogram (ECG), chest X-ray (CXR), abdominal ultrasound with Doppler, computed tomography (CT) head (if encephalopathy)
+- Transplant candidates: human immunodeficiency virus (HIV), QuantiFERON, cryptococcal antigen (Ag), treponemal antibody (Ab), transthoracic echocardiogram (TTE), repeated CT head with mental status change
 - Liver biopsy: not routine; transjugular preferred (TJLB); indicated to exclude infiltrative/malignant disease or diagnose AIH
 
 ### Encephalopathy and CNS
 
-- West-Haven Criteria grade 2 → transfer to ICU, neuro checks q1h
+- West-Haven Criteria grade 2 → transfer to intensive care unit (ICU), neuro checks every hour (q1h)
 - Grade 3–4 → intubation for airway protection; avoid opioids/benzodiazepines; consider propofol
 - No conclusive evidence for/against lactulose or rifaximin in ALF (unlike cirrhosis)
-- Early CRRT recommended for grade 2+ encephalopathy to lower ammonia (even without AKI)
-- No evidence for routine ICP monitoring or prophylactic hypothermia
+- Early continuous renal replacement therapy (CRRT) recommended for grade 2+ encephalopathy to lower ammonia (even without acute kidney injury [AKI])
+- No evidence for routine intracranial pressure (ICP) monitoring or prophylactic hypothermia
 - Increased ICP: mannitol, hypertonic saline (3% NaCl 250–500 mL bolus), hyperventilation, CRRT; target Na 145–150 mmol/L
 
 ### Coagulopathy
 
 - INR does **not** accurately reflect bleeding risk in ALF (rebalanced hemostasis)
 - Clinically significant bleeding causes death in only ~5% of cases
-- Do NOT routinely correct coagulopathy (FFP, platelets, cryoprecipitate) in absence of active bleeding or high-risk procedure — risk of transfusion reactions, TRALI, thrombosis
+- Do NOT routinely correct coagulopathy (fresh frozen plasma [FFP], platelets, cryoprecipitate) in absence of active bleeding or high-risk procedure — risk of transfusion reactions, transfusion-related acute lung injury (TRALI), thrombosis
 - Viscoelastic testing (rotational thromboelastometry/thromboelastography) preferred over INR for bleeding/clot assessment
 
 ### Infection
@@ -74,10 +74,10 @@ Top causes: acetaminophen (APAP) toxicity, idiosyncratic DILI (antimicrobials, C
 
 ### Hemodynamics and Renal Failure
 
-- Hemodynamic profile resembles septic shock (high CO, low SVR)
+- Hemodynamic profile resembles septic shock (high cardiac output [CO], low systemic vascular resistance [SVR])
 - Vasopressor of choice: **norepinephrine** (strong recommendation, moderate quality)
 - Add vasopressin if norepinephrine insufficient (conditional, low quality)
-- AKI in up to 70% of ALF patients; 30% need RRT
+- AKI in up to 70% of ALF patients; 30% need renal replacement therapy (RRT)
 - CRRT preferred over intermittent hemodialysis (lower cardiovascular instability, better ammonia clearance)
 - RRT indications include: AKI, acid-base/electrolyte disturbance, volume overload, and hyperammonemia (independent of AKI)
 
@@ -85,28 +85,28 @@ Top causes: acetaminophen (APAP) toxicity, idiosyncratic DILI (antimicrobials, C
 
 - Enteral nutrition if unable to eat within 5–7 days; oral if mild encephalopathy
 - Protein 1.0–1.5 g/kg/day; consider delay/reduction if ammonia >150 mmol/L
-- Maintain glucose 150–180 mg/dL with continuous D10W infusion
-- Monitor Mg and phosphorus q8–12h; avoid hypotonic solutions (risk of hyponatremia/cerebral edema)
+- Maintain glucose 150–180 mg/dL with continuous 10% dextrose in water (D10W) infusion
+- Monitor Mg and phosphorus every 8–12 hours (q8–12h); avoid hypotonic solutions (risk of hyponatremia/cerebral edema)
 
 ### Liver Support Devices
 
 - High-volume plasma exchange (HVPE, 8–12 L FFP) may improve transplant-free survival — insufficient evidence for routine use
-- Artificial/bioartificial liver support (MARS, SPAD, Prometheus) — no FDA approval; insufficient evidence for routine use
+- Artificial/bioartificial liver support (molecular adsorbent recirculating system [MARS], single-pass albumin dialysis [SPAD], Prometheus) — no FDA approval; insufficient evidence for routine use
 
 ### Etiology-Specific Treatments
 
 | Etiology | Treatment |
 |---|---|
-| APAP overdose | IV NAC (300 mg/kg over 21 hr standard; extended protocol in ALF); activated charcoal within 4 hr of ingestion |
+| APAP overdose | Intravenous (IV) N-acetylcysteine (NAC) (300 mg/kg over 21 hr standard; extended protocol in ALF); activated charcoal within 4 hr of ingestion |
 | Non-APAP ALF | IV NAC (improved transplant-free survival in early coma grade I-II) |
 | HBV reactivation | Entecavir or tenofovir (strong recommendation) |
-| HSV/VZV | IV acyclovir empirically with grade 2 HE + suggestive features |
+| HSV/VZV | IV acyclovir empirically with grade 2 hepatic encephalopathy (HE) + suggestive features |
 | CMV | IV ganciclovir |
 | Mushroom poisoning | IV silibinin dihemisuccinate (20–50 mg/kg/d x 48–96 hr); IV penicillin G if silibinin unavailable; activated charcoal |
-| Wilson disease | Plasmapheresis, continuous hemofiltration (temporizing); listing for LT is definitive |
+| Wilson disease | Plasmapheresis, continuous hemofiltration (temporizing); listing for liver transplantation (LT) is definitive |
 | Autoimmune hepatitis | IV corticosteroids (prednisone/prednisolone 0.5–1 mg/kg/day); early LT evaluation |
 | HELLP/AFLP | Prompt fetal delivery; supportive care; LT if no improvement post-delivery |
-| Budd-Chiari syndrome | IV heparin; TIPS if anticoagulation fails; LT if unresponsive to intervention |
+| Budd-Chiari syndrome | IV heparin; transjugular intrahepatic portosystemic shunt (TIPS) if anticoagulation fails; LT if unresponsive to intervention |
 | Ischemic hepatitis | Correct underlying hemodynamics; consider NAC |
 | Indeterminate | NAC for low-grade encephalopathy; early LT evaluation |
 
@@ -116,11 +116,11 @@ Top causes: acetaminophen (APAP) toxicity, idiosyncratic DILI (antimicrobials, C
   - APAP: pH <7.3 after resuscitation OR lactate >3 mmol/L, OR all of: HE >grade 3 + creatinine >3.4 mg/dL + INR >6.5
   - Non-APAP: INR >6.5 OR 3 of 5: indeterminate/DILI etiology, age >40, jaundice-to-encephalopathy >7 days, bilirubin >17.4 mg/dL, INR >3.5
   - Sensitivity 65–68%, Specificity 82–93%
-- **MELD >25** = high risk of poor outcomes; thresholds vary (25–37 in literature)
+- **Model for End-Stage Liver Disease (MELD) >25** = high risk of poor outcomes; thresholds vary (25–37 in literature)
 - KCC and MELD both recommended; MELD has higher sensitivity, KCC higher specificity
 - Clichy criteria (Factor V, age, HE grade 3–4): lower sensitivity, not widely used in US
-- Status 1A listing for transplant; 1-year post-LT survival ~79–84%; LDLT and ABO-I grafts acceptable in centers with experience when DDLT unavailable
-- Brain death = only absolute contraindication to LT; multiorgan dysfunction, sepsis, ARDS, cancer = relative contraindications
+- Status 1A listing for transplant; 1-year post-LT survival ~79–84%; living donor liver transplantation (LDLT) and ABO-incompatible (ABO-I) grafts acceptable in centers with experience when deceased donor liver transplantation (DDLT) unavailable
+- Brain death = only absolute contraindication to LT; multiorgan dysfunction, sepsis, acute respiratory distress syndrome (ARDS), cancer = relative contraindications
 
 ## Recommendations
 
@@ -161,13 +161,13 @@ This is the primary ACG guideline for ALF and should anchor the [[acute-liver-fa
 
 ## Contradictions / Open Questions
 
-- INR vs viscoelastic testing for coagulopathy assessment — VET is recommended by SCCM but not yet uniformly validated in ALF
+- INR vs viscoelastic testing (VET) for coagulopathy assessment — VET is recommended by the Society of Critical Care Medicine (SCCM) but not yet uniformly validated in ALF
 - Lactulose/rifaximin: routinely used by many transplant centers despite no ALF-specific evidence; extrapolated from cirrhosis data
-- Corticosteroids in AIH-ALF: data mixed — benefit shown in AS-AIH without frank ALF; role in established ALF remains uncertain
-- NAC in non-APAP ALF: improvement in TFS only in early coma grades (I-II); no benefit in higher grades
-- HBV primary infection vs. reactivation: antiviral therapy more justified in reactivation (high VL, immune-mediated injury); benefit in de novo primary HBV-ALF less clear
-- Indeterminate ALF: up to 60% may have unrecognized AIH per ALFSG data — suggests empiric corticosteroid trial may be under-utilized
-- HVPE and artificial liver support: remain investigational; single RCT showed benefit only in APAP subgroup
+- Corticosteroids in AIH-ALF: data mixed — benefit shown in acute severe AIH (AS-AIH) without frank ALF; role in established ALF remains uncertain
+- NAC in non-APAP ALF: improvement in transplant-free survival (TFS) only in early coma grades (I-II); no benefit in higher grades
+- HBV primary infection vs. reactivation: antiviral therapy more justified in reactivation (high viral load [VL], immune-mediated injury); benefit in de novo primary HBV-ALF less clear
+- Indeterminate ALF: up to 60% may have unrecognized AIH per Acute Liver Failure Study Group (ALFSG) data — suggests empiric corticosteroid trial may be under-utilized
+- HVPE and artificial liver support: remain investigational; single randomized controlled trial (RCT) showed benefit only in APAP subgroup
 
 ## See Also
 

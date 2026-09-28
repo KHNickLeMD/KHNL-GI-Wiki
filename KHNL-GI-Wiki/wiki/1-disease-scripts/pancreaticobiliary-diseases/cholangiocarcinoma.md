@@ -35,7 +35,7 @@ Cholangiocarcinoma (CCA) is an adenocarcinoma arising from the biliary epitheliu
 ### Establishing the Diagnosis
 
 - Most often presents as a **biliary stricture of undetermined etiology**; risk of malignancy in a stricture without an obvious mass on cross-sectional imaging is **~55%**.
-- Benign mimics look similar radiographically ([[primary-sclerosing-cholangitis|PSC]], [[autoimmune-pancreatitis|IgG4-related cholangitis]], fibrotic strictures, [[chronic-pancreatitis|chronic pancreatitis]]) → **tissue acquisition is required**.
+- Benign mimics look similar radiographically ([[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]], [[autoimmune-pancreatitis|immunoglobulin G4 (IgG4)-related cholangitis]], fibrotic strictures, [[chronic-pancreatitis|chronic pancreatitis]]) → **tissue acquisition is required**.
 - Early-stage CCA may show only mild [[abnormal-liver-chemistries|liver-test changes]], **particularly alkaline phosphatase**.
 - Endoscopic sampling is preferred over percutaneous (external drain, needle-track seeding) or surgical approaches.
 - **Review all cross-sectional imaging at a multidisciplinary tumor board**, with early surgical consultation — *before* biliary drainage in a [[jaundice|jaundiced]] patient — to assess resectability ([[nccn-2026-biliary-tract-cancers]]).
@@ -44,17 +44,17 @@ Cholangiocarcinoma (CCA) is an adenocarcinoma arising from the biliary epitheliu
 
 | Type | Location | Behavior |
 |---|---|---|
-| **Intrahepatic (iCCA)** | Within liver parenchyma | Behaves more like a hepatic mass; overlaps with [[hepatocellular-carcinoma\|HCC]] on imaging (consider AFP; see [[li-rads]]) |
+| **Intrahepatic (iCCA)** | Within liver parenchyma | Behaves more like a hepatic mass; overlaps with [[hepatocellular-carcinoma\|hepatocellular carcinoma (HCC)]] on imaging (consider alpha-fetoprotein [AFP]; see [[li-rads]]) |
 | **Perihilar (Klatskin)** | Arising in the main lobar ducts proximal to the cystic duct, at/near the confluence | Requires major hepatectomy; transplant pathway exists |
-| **Distal extrahepatic** | Between the cystic-duct/CHD confluence and the ampulla | Overlaps with the differential of pancreatic head malignancy; treated by pancreaticoduodenectomy |
+| **Distal extrahepatic** | Between the cystic-duct/common hepatic duct (CHD) confluence and the ampulla | Overlaps with the differential of pancreatic head malignancy; treated by pancreaticoduodenectomy |
 
 *(Ampulla of Vater tumors are staged separately.)*
 
 **Perihilar sub-classification systems** ([[nccn-2026-biliary-tract-cancers]]):
 
-- **Bismuth-Corlette** — four types by extent of *biliary* involvement (criteria live on [[biliary-stricture]]). It **omits vascular encasement, nodal involvement, distant metastases, and liver atrophy**, and — like AJCC staging — is **not useful for predicting resectability or survival**. Use it to describe ductal extent, not to decide operability.
+- **Bismuth-Corlette** — four types by extent of *biliary* involvement (criteria live on [[biliary-stricture]]). It **omits vascular encasement, nodal involvement, distant metastases, and liver atrophy**, and — like American Joint Committee on Cancer (AJCC) staging — is **not useful for predicting resectability or survival**. Use it to describe ductal extent, not to decide operability.
 - **Blumgart** — preoperative system that **does** predict resectability, likelihood of metastatic disease, and survival. Classifies hilar CCA into three stages (T1–T3) by (1) location and extent of bile duct involvement, (2) presence/absence of portal venous invasion, and (3) hepatic lobar atrophy. Increasing T stage correlates with lower R0 rate, more distant metastatic disease, and lower median survival.
-  - Blumgart T1/T2/T3 cut-points are not given in the NCCN text (it cites Jarnagin 2001 and Matsuo 2012).
+  - Blumgart T1/T2/T3 cut-points are not given in the National Comprehensive Cancer Network (NCCN) text (it cites Jarnagin 2001 and Matsuo 2012).
 
 ### Staging (AJCC 8th ed., 2017)
 
@@ -145,22 +145,22 @@ Histologic grade (all sites): G1 well / G2 moderately / G3 poorly differentiated
 
 ### Workup
 
-Per [[nccn-2026-biliary-tract-cancers]], for suspected extrahepatic CCA presenting with pain, jaundice, abnormal LFTs, or obstruction/abnormality on imaging:
+Per [[nccn-2026-biliary-tract-cancers]], for suspected extrahepatic CCA presenting with pain, jaundice, abnormal liver function tests (LFTs), or obstruction/abnormality on imaging:
 
-- **Multiphasic abdomen/pelvis CT or MRI with IV contrast**, explicitly assessing **vascular invasion**; plus **chest CT ± contrast**.
-- **Biliary-protocol imaging and cholangiography** — **MRCP is preferred** ([[mri-mrcp]]); [[ercp|ERCP]]/PTC are used more for *therapeutic* intervention.
+- **Multiphasic abdomen/pelvis computed tomography (CT) or magnetic resonance imaging (MRI) with intravenous (IV) contrast**, explicitly assessing **vascular invasion**; plus **chest CT ± contrast**.
+- **Biliary-protocol imaging and cholangiography** — **magnetic resonance cholangiopancreatography (MRCP) is preferred** ([[mri-mrcp]]); [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]/percutaneous transhepatic cholangiography (PTC) are used more for *therapeutic* intervention.
 - **Perform imaging before biliary decompression** — decompression degrades local staging accuracy and therefore the surgical-candidacy assessment.
-- **LFTs**; consider **CEA** and **CA 19-9** as *baseline* values only — neither should be used to confirm the diagnosis (CA 19-9 also rises with cholestasis/[[acute-cholangitis|cholangitis]]). Consider a baseline CA 19-9 **after** biliary decompression.
+- **LFTs**; consider **carcinoembryonic antigen (CEA)** and **CA 19-9** as *baseline* values only — neither should be used to confirm the diagnosis (CA 19-9 also rises with cholestasis/[[acute-cholangitis|cholangitis]]). Consider a baseline CA 19-9 **after** biliary decompression.
 - Consider **serum IgG4** to exclude IgG4-related sclerosing cholangitis (refer such patients to an expert center).
-- Consider **[[endoscopic-ultrasound|EUS]] — after surgical consultation**, not before.
+- Consider **[[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] — after surgical consultation**, not before.
 
 ### Tissue Acquisition
 
-The modality-by-modality sampling algorithm and per-test yields — [[brush-cytology|brush cytology]], fluoroscopic forceps biopsy, [[cholangioscopy]]-directed biopsy, [[endoscopic-ultrasound|EUS]]-FNA/FNB, [[fish|FISH]], [[confocal-laser-endomicroscopy|pCLE]]/IDUS — live on [[biliary-stricture]]. CCA-specific points:
+The modality-by-modality sampling algorithm and per-test yields — [[brush-cytology|brush cytology]], fluoroscopic forceps biopsy, [[cholangioscopy]]-directed biopsy, [[endoscopic-ultrasound|EUS]]-guided fine-needle aspiration/biopsy (FNA/FNB), [[fish|fluorescence in situ hybridization (FISH)]], [[confocal-laser-endomicroscopy|probe-based confocal laser endomicroscopy (pCLE)]]/intraductal ultrasound (IDUS) — live on [[biliary-stricture]]. CCA-specific points:
 
 - **Core biopsy is preferred over FNA** — molecular profiling needs adequate tissue ([[nccn-2026-biliary-tract-cancers]]).
-- **Establish resection/transplant candidacy *before* biopsy.** In a potential transplant candidate, refer to the transplant center first; **transperitoneal and surgical biopsy may be contraindicated**, and for a hilar mass, needle-track/transperitoneal seeding can permanently exclude the patient from [[liver-transplantation|liver transplantation]] — the only potentially curative option for many perihilar CCA patients. If EUS is done for a proximal/hilar stricture, sample **regional lymph nodes only, never the biliary mass** (a positive node is already a transplant contraindication, so nodal sampling costs nothing). All three ASGE 2023 recommendations on stricture sampling are conditional with very low quality of evidence.
-- Pathology reporting: establish cholangiocyte differentiation (histology ± IHC and albumin ISH); report small-vessel invasion and poor/undifferentiated grade; for iCCA report **small-duct vs large-duct** histologic type; report background liver disease, fibrosis stage, and presence/absence of [[cirrhosis|cirrhosis]].
+- **Establish resection/transplant candidacy *before* biopsy.** In a potential transplant candidate, refer to the transplant center first; **transperitoneal and surgical biopsy may be contraindicated**, and for a hilar mass, needle-track/transperitoneal seeding can permanently exclude the patient from [[liver-transplantation|liver transplantation]] — the only potentially curative option for many perihilar CCA patients. If EUS is done for a proximal/hilar stricture, sample **regional lymph nodes only, never the biliary mass** (a positive node is already a transplant contraindication, so nodal sampling costs nothing). All three American Society for Gastrointestinal Endoscopy (ASGE) 2023 recommendations on stricture sampling are conditional with very low quality of evidence.
+- Pathology reporting: establish cholangiocyte differentiation (histology ± immunohistochemistry [IHC] and albumin in situ hybridization [ISH]); report small-vessel invasion and poor/undifferentiated grade; for iCCA report **small-duct vs large-duct** histologic type; report background liver disease, fibrosis stage, and presence/absence of [[cirrhosis|cirrhosis]].
 
 ## Therapeutics
 
@@ -168,11 +168,11 @@ The modality-by-modality sampling algorithm and per-test yields — [[brush-cyto
 
 ```mermaid
 flowchart TD
-    A["Biliary tract cancer<br/>(iCCA / eCCA / gallbladder)"] --> B["Workup: multiphasic imaging,<br/>core biopsy (preferred over FNA),<br/>assess resectability, MDT review"]
+    A["Biliary tract cancer<br/>(iCCA / extrahepatic CCA / gallbladder)"] --> B["Workup: multiphasic imaging,<br/>core biopsy (preferred over FNA),<br/>assess resectability, multidisciplinary review"]
     B --> C{"Resectable?"}
     C -->|"Yes"| R["Surgical resection<br/>+ regional lymphadenectomy"]
-    R --> ADJ["Adjuvant (up to 6 mo): capecitabine (cat 1, BILCAP)<br/>or gemcitabine-based ± chemoRT<br/>(greatest benefit if node-positive)"]
-    C -->|"Unresectable / metastatic"| MOL["Comprehensive molecular profiling<br/>(RNA-based MGPT preferred):<br/>FGFR2, IDH1, HER2, BRAF, NTRK,<br/>RET, NRG1, KRAS, MSI-H / TMB-H"]
+    R --> ADJ["Adjuvant (up to 6 mo): capecitabine (cat 1, BILCAP)<br/>or gemcitabine-based ± chemoradiation<br/>(greatest benefit if node-positive)"]
+    C -->|"Unresectable / metastatic"| MOL["Comprehensive molecular profiling<br/>(RNA-based multigene panel testing preferred):<br/>FGFR2, IDH1, HER2, BRAF, NTRK,<br/>RET, NRG1, KRAS,<br/>microsatellite instability-high (MSI-H) /<br/>tumor mutational burden-high (TMB-H)"]
     MOL --> SYS["1st-line: gemcitabine + cisplatin<br/>+ checkpoint inhibitor<br/>(durvalumab or pembrolizumab)"]
     SYS --> TGT["Subsequent line:<br/>biomarker-matched targeted therapy<br/>(if actionable alteration present)"]
     B -.->|"Gallbladder, advanced"| NEO["Consider neoadjuvant<br/>systemic therapy"]
@@ -195,7 +195,7 @@ flowchart TD
 
 ### Liver Transplantation
 
-- **Perihilar CCA:** patients with **unresectable** perihilar/hilar CCA measuring **≤3 cm in radial diameter**, with **no intrahepatic or extrahepatic metastases** and **no nodal disease** — and likewise patients with [[primary-sclerosing-cholangitis|PSC]] — may be considered for transplantation **at a center with a UNOS-approved CCA transplant protocol**. All three tumor conditions must hold together; any one failing removes the pathway. The regimen is **neoadjuvant chemoradiation followed by transplant**, most effective in PSC patients.
+- **Perihilar CCA:** patients with **unresectable** perihilar/hilar CCA measuring **≤3 cm in radial diameter**, with **no intrahepatic or extrahepatic metastases** and **no nodal disease** — and likewise patients with [[primary-sclerosing-cholangitis|PSC]] — may be considered for transplantation **at a center with a United Network for Organ Sharing (UNOS)-approved CCA transplant protocol**. All three tumor conditions must hold together; any one failing removes the pathway. The regimen is **neoadjuvant chemoradiation followed by transplant**, most effective in PSC patients.
   - NCCN's discussion adds a second gate: transplant is for **highly selected** patients with **either** unresectable disease and otherwise **normal biliary and hepatic function**, **or** underlying **chronic liver disease precluding surgery**.
 - **iCCA (transplant exception points, NCCN v1.2026):** **biopsy-proven** iCCA or mixed [[hepatocellular-carcinoma|HCC]]-iCCA **and** presence of [[cirrhosis|cirrhosis]] **and** unresectable **and** having received locoregional or systemic therapy **and** **6 months** from diagnosis or last treatment **with no new lesions and no extrahepatic disease**. Consider hepatology referral.
 
@@ -207,7 +207,7 @@ flowchart TD
 
 ### Molecular Biomarker Testing
 
-Comprehensive multi-gene profiling is recommended for **all patients with unresectable or metastatic disease** who are systemic-therapy candidates, ideally **RNA-/transcriptome-based to maximize detection of gene fusions**. Actionable targets: **FGFR2 fusions/rearrangements** and **IDH1 mutations** (both enriched in iCCA), **BRAF V600E**, **HER2 (ERBB2)**, **NTRK1/2/3 fusions**, **RET fusions**, **NRG1 fusions** (added v1.2026), **KRAS G12C**, plus tumor-agnostic **MSI-H/dMMR** and **TMB-H**. ctDNA may complement tissue testing but can miss fusions. Consider germline testing/genetic counseling for dMMR/MSI-H tumors or a family history suggestive of [[brca-pathogenic-variants|BRCA1/2 pathogenic variants]].
+Comprehensive multi-gene profiling is recommended for **all patients with unresectable or metastatic disease** who are systemic-therapy candidates, ideally **RNA-/transcriptome-based to maximize detection of gene fusions**. Actionable targets: **FGFR2 fusions/rearrangements** and **IDH1 mutations** (both enriched in iCCA), **BRAF V600E**, **HER2 (ERBB2)**, **NTRK1/2/3 fusions**, **RET fusions**, **NRG1 fusions** (added v1.2026), **KRAS G12C**, plus tumor-agnostic **MSI-H/deficient mismatch repair (dMMR)** and **TMB-H**. Circulating tumor DNA (ctDNA) may complement tissue testing but can miss fusions. Consider germline testing/genetic counseling for dMMR/MSI-H tumors or a family history suggestive of [[brca-pathogenic-variants|BRCA1/2 pathogenic variants]].
 
 ### Systemic Therapy for Advanced Disease
 
@@ -215,7 +215,7 @@ First-line is a **gemcitabine + cisplatin backbone plus a checkpoint inhibitor**
 
 ### Drainage and Palliation
 
-Drainage decisions (SEMS vs plastic stents, sectorial perihilar drainage, endobiliary PDT/[[radiofrequency-ablation|RFA]]) live on [[biliary-stricture]] and [[asge-2021-malignant-hilar-obstruction]]. Consider biliary drainage for jaundice **before** starting systemic therapy.
+Drainage decisions (self-expanding metal stents [SEMS] vs plastic stents, sectorial perihilar drainage, endobiliary photodynamic therapy [PDT]/[[radiofrequency-ablation|radiofrequency ablation (RFA)]]) live on [[biliary-stricture]] and [[asge-2021-malignant-hilar-obstruction]]. Consider biliary drainage for jaundice **before** starting systemic therapy.
 
 ### Surveillance After Resection
 

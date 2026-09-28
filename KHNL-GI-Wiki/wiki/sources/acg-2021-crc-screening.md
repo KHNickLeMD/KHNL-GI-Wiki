@@ -13,14 +13,14 @@ sources: []
 - **Authors:** Shaukat A, Kahi CJ, Burke CA, Rabeneck L, Sauer BG, Rex DK
 - **Year:** 2021
 - **Journal/Publisher:** Am J Gastroenterol 2021;116:458–479
-- **Type:** Clinical practice guideline (ACG); GRADE methodology; 21 recommendations
+- **Type:** Clinical practice guideline (American College of Gastroenterology [ACG]); Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology; 21 recommendations
 - **DOI:** [10.14309/ajg.0000000000001122](https://doi.org/10.14309/ajg.0000000000001122)
 
 ## Summary
 
-This ACG guideline provides 21 GRADE-based recommendations for [[colorectal-cancer|colorectal cancer]] (CRC) screening in average-risk and higher-risk adults. The guideline addresses screening initiation age, modality selection, quality indicators, family history risk stratification, and aspirin chemoprevention. A key feature is the explicit incorporation of aspirin recommendations, which distinguishes this guideline from the contemporaneous USMSTF 2021 guideline.
+This ACG guideline provides 21 GRADE-based recommendations for [[colorectal-cancer|colorectal cancer]] (CRC) screening in average-risk and higher-risk adults. The guideline addresses screening initiation age, modality selection, quality indicators, family history risk stratification, and aspirin chemoprevention. A key feature is the explicit incorporation of aspirin recommendations, which distinguishes this guideline from the contemporaneous US Multi-Society Task Force (USMSTF) 2021 guideline.
 
-The guideline recommends initiating CRC screening at age 45 for average-risk adults (conditional, very low evidence) — aligning with the American Cancer Society but characterized as conditional given limited direct evidence in this age group. Colonoscopy and annual FIT are positioned as co-equal preferred modalities. Robust quality standards for [[colonoscopy]] are codified, including cecal intubation rate (CIR) and adenoma detection rate (ADR) benchmarks.
+The guideline recommends initiating CRC screening at age 45 for average-risk adults (conditional, very low evidence) — aligning with the American Cancer Society (ACS) but characterized as conditional given limited direct evidence in this age group. Colonoscopy and annual fecal immunochemical test (FIT) are positioned as co-equal preferred modalities. Robust quality standards for [[colonoscopy]] are codified, including cecal intubation rate (CIR) and adenoma detection rate (ADR) benchmarks.
 
 ## Key Findings / Claims
 
@@ -34,23 +34,23 @@ The guideline recommends initiating CRC screening at age 45 for average-risk adu
 **Modalities (all acceptable; colonoscopy and FIT are preferred):**
 
 - **Colonoscopy** every 10 years: preferred high-sensitivity structural test
-- **Annual FIT (fecal immunochemical test):** preferred non-invasive test; equivalent to FOBT
+- **Annual FIT:** preferred non-invasive test; equivalent to fecal occult blood test (FOBT)
 - **Multi-target stool DNA (mtsDNA, e.g., Cologuard):** every 3 years — Conditional (acceptable alternative if unwilling to do colonoscopy/FIT)
 - **Flexible sigmoidoscopy:** every 5–10 years — Conditional alternative
-- **CT colonography (CTC):** every 5 years — Conditional alternative
+- **Computed tomography (CT) colonography (CTC):** every 5 years — Conditional alternative
 - **Colon capsule:** every 5 years — Conditional alternative (newer, limited data)
 - **Septin-9 blood test:** NOT recommended — Conditional against, Very low evidence
 
 **Quality indicators:**
 
-- Cecal intubation rate (CIR): ≥90% overall; ≥95% for screening colonoscopies — Strong/Low
+- CIR: ≥90% overall; ≥95% for screening colonoscopies — Strong/Low
 - Withdrawal time: ≥6 minutes — Strong/Low
-- Adenoma detection rate (ADR): ≥25% overall (aspirational target 45–50%) — Strong/Low
+- ADR: ≥25% overall (aspirational target 45–50%) — Strong/Low
 - Organized screening programs improve outcomes: Strong/Low
 
 **Family history risk stratification:**
 
-- 1 FDR with CRC or advanced adenoma at age <60, OR ≥2 FDRs at any age:
+- 1 first-degree relative (FDR) with CRC or advanced adenoma at age <60, OR ≥2 FDRs at any age:
   - Colonoscopy starting at age 40 or 10 years before youngest FDR (whichever earlier)
   - Repeat every 5 years
 - 1 FDR with CRC or advanced adenoma at age ≥60:
@@ -59,7 +59,7 @@ The guideline recommends initiating CRC screening at age 45 for average-risk adu
 
 **Aspirin chemoprevention (unique to ACG vs USMSTF):**
 
-- Low-dose aspirin for CRC chemoprevention in adults aged 50–69 with ≥10% 10-year CVD risk, without elevated bleeding risk, willing to take ≥10 years: Conditional/Low
+- Low-dose aspirin for CRC chemoprevention in adults aged 50–69 with ≥10% 10-year cardiovascular disease (CVD) risk, without elevated bleeding risk, willing to take ≥10 years: Conditional/Low
 - Aspirin does NOT substitute for CRC screening: Strong/Low
 
 **Key divergence from USMSTF 2021:**
@@ -87,9 +87,9 @@ The guideline recommends initiating CRC screening at age 45 for average-risk adu
 | Colon capsule every 5 years | Conditional | Very Low |
 | Against Septin-9 blood test | Conditional | Very Low |
 | **Quality Indicators** | | |
-| Cecal intubation rate (CIR) ≥90% overall, ≥95% for screening | Strong | Low |
+| CIR ≥90% overall, ≥95% for screening | Strong | Low |
 | Withdrawal time ≥6 minutes | Strong | Low |
-| Adenoma detection rate (ADR) ≥25% overall | Strong | Low |
+| ADR ≥25% overall | Strong | Low |
 | **Family History Risk Stratification** | | |
 | Colonoscopy at age 40 or 10 years before youngest FDR (1 FDR <60 or ≥2 FDRs); repeat every 5 years | Strong | Moderate |
 | Begin average-risk screening at age 40 (1 FDR ≥60); every 5 years initially | Conditional | Low |
@@ -104,9 +104,9 @@ The guideline recommends initiating CRC screening at age 45 for average-risk adu
 
 ## Contradictions / Open Questions
 
-- **Age 45–49 start — ACG *conditional*, and the guideline's own characterization of ACS is *qualified*, not strong.** ACG 2021 states that "in 2018, the American Cancer Society published guidelines with a **qualified** recommendation to lower the starting age for CRC screening from 50 to 45 years of age in the average-risk adult population," noting that USPSTF and MSTF recommendations at the time still began at 50. ACG 2021 is the only source here for what ACS said; the ACS 2018 statement itself is not cited directly.
+- **Age 45–49 start — ACG *conditional*, and the guideline's own characterization of ACS is *qualified*, not strong.** ACG 2021 states that "in 2018, the American Cancer Society published guidelines with a **qualified** recommendation to lower the starting age for CRC screening from 50 to 45 years of age in the average-risk adult population," noting that US Preventive Services Task Force (USPSTF) and Multi-Society Task Force (MSTF) recommendations at the time still began at 50. ACG 2021 is the only source here for what ACS said; the ACS 2018 statement itself is not cited directly.
 - Multi-target stool DNA: the guideline discusses cost-effectiveness and specificity trade-offs; they remain unresolved.
-- ACG 2021 does not cite the **NordICC** trial or any **USPSTF 2022** aspirin statement; on aspirin it cites only the **USPSTF 2016** systematic review (no CRC effect within 10 y, RR 0.99 [0.85–1.15]; 40% risk reduction at 10–19 y, RR 0.60 [0.47–0.76]).
+- ACG 2021 does not cite the **NordICC** trial or any **USPSTF 2022** aspirin statement; on aspirin it cites only the **USPSTF 2016** systematic review (no CRC effect within 10 y, relative risk (RR) 0.99 [0.85–1.15]; 40% risk reduction at 10–19 y, RR 0.60 [0.47–0.76]).
 - The ACS 2018 and USPSTF CRC-screening statements are not cited directly here; [[aga-2023-crc-screening-risk-stratification]] Table 1 is the cross-guideline comparison to use.
 
 ## See Also

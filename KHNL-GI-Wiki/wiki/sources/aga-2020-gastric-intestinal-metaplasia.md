@@ -14,15 +14,15 @@ sources: []
 - **Year:** 2020
 - **Journal/Publisher:** Gastroenterology 2020;158:693–702
 - **DOI:** [10.1053/j.gastro.2019.12.003](https://doi.org/10.1053/j.gastro.2019.12.003)
-- **Type:** Clinical practice update (AGA); GRADE methodology; 3 formal recommendations + 4 PICO questions
+- **Type:** American Gastroenterological Association (AGA) clinical practice update; Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology; 3 formal recommendations + 4 population, intervention, comparison, outcome (PICO) questions
 
 ## Summary
 
 This AGA clinical practice update provides the first formal US guideline recommendations for management of gastric intestinal metaplasia (GIM). GIM is a premalignant lesion representing a precursor in the Correa cascade from [[helicobacter-pylori-infection|H. pylori]] gastritis → [[atrophic-gastritis|atrophic gastritis]] → GIM → dysplasia → [[gastric-adenocarcinoma|gastric adenocarcinoma]]. GIM affects approximately 5% of the US population with a non-trivial lifetime gastric cancer (GC) risk, particularly for high-risk subtypes.
 
-The guideline makes three GRADE recommendations. Most notably, it recommends *against* routine endoscopic surveillance of GIM due to low-quality evidence, favoring shared decision-making for high-risk patients. This positions the AGA 2020 guideline in tension with subsequent ACG (2025) and ESGE guidelines that recommend surveillance for high-risk GIM.
+The guideline makes three GRADE recommendations. Most notably, it recommends *against* routine endoscopic surveillance of GIM due to low-quality evidence, favoring shared decision-making for high-risk patients. This positions the AGA 2020 guideline in tension with subsequent American College of Gastroenterology (ACG) (2025) and European Society of Gastrointestinal Endoscopy (ESGE) guidelines that recommend surveillance for high-risk GIM.
 
-The single highest-quality recommendation is [[test-and-treat]] for H. pylori in all patients with GIM, supported by pooled data showing a 32% relative risk reduction in GC incidence and 33% RR reduction in GC mortality with H. pylori eradication.
+The single highest-quality recommendation is [[test-and-treat]] for H. pylori in all patients with GIM, supported by pooled data showing a 32% relative risk (RR) reduction in GC incidence and 33% RR reduction in GC mortality with H. pylori eradication.
 
 ## Key Findings / Claims
 
@@ -37,7 +37,7 @@ The single highest-quality recommendation is [[test-and-treat]] for H. pylori in
 - AGAINST routine endoscopic surveillance for all patients with GIM: Conditional recommendation, Very low quality evidence
 - Shared decision-making recommended for patients with high-risk features
 - Annual GC risk in GIM: 0.4% at 3 years, 1.1% at 5 years, 1.6% at 10 years
-- If surveillance elected: indirect evidence suggests repeat EGD every 3–5 years with biopsies from antrum AND body (Sydney protocol); no formal recommendation on interval
+- If surveillance elected: indirect evidence suggests repeat esophagogastroduodenoscopy (EGD) every 3–5 years with biopsies from antrum AND body (Sydney protocol); no formal recommendation on interval
 
 **Recommendation 3 — Short-interval repeat endoscopy:**
 
@@ -52,7 +52,7 @@ The single highest-quality recommendation is [[test-and-treat]] for H. pylori in
 - Family history of gastric cancer: ~4.5-fold increased RR
 - Racial/ethnic minorities (Hispanic, Asian, African American)
 - Immigrants from high-incidence GC regions (East Asia, Eastern Europe, South America)
-- OLGA/OLGIM staging III/IV if performed
+- Operative Link on Gastritis Assessment (OLGA)/Operative Link on Gastric Intestinal Metaplasia Assessment (OLGIM) staging III/IV if performed
 
 ## Recommendations
 
@@ -71,14 +71,14 @@ The single highest-quality recommendation is [[test-and-treat]] for H. pylori in
 
 - Creates [[gastric-intestinal-metaplasia]] disease script
 - Strong cross-reference for [[helicobacter-pylori-infection]] — eradication priority in GIM
-- **Key tension with later guidelines:** AGA 2020 recommends AGAINST routine surveillance; ACG 2025 GPMC recommends surveillance every 3 years for high-risk GIM; AGA 2021 Atrophic Gastritis guideline recommends 3-year surveillance for OLGA/OLGIM III/IV; ESGE recommends 3-year surveillance for high-risk GIM. This is a significant and evolving area of disagreement.
+- **Key tension with later guidelines:** AGA 2020 recommends AGAINST routine surveillance; ACG 2025 gastric premalignant conditions (GPMC) guideline recommends surveillance every 3 years for high-risk GIM; AGA 2021 Atrophic Gastritis guideline recommends 3-year surveillance for OLGA/OLGIM III/IV; ESGE recommends 3-year surveillance for high-risk GIM. This is a significant and evolving area of disagreement.
 
 ## Contradictions / Open Questions
 
 - **Surveillance disagreement is the major issue:** AGA 2020 (against routine surveillance) vs ACG 2025 GPMC (for surveillance in high-risk) vs ESGE (for surveillance in high-risk at 3y). Wiki should reflect this explicitly when covering GIM management.
 - No validated US risk stratification tool at time of publication (OLGA/OLGIM system developed primarily in European cohorts)
 - Incomplete-type GIM pathology reporting is inconsistent in US practice; many pathologists do not routinely subtype GIM
-- NBI and other enhanced imaging modalities for GIM mapping not addressed
+- Narrow-band imaging (NBI) and other enhanced imaging modalities for GIM mapping not addressed
 
 ## See Also
 

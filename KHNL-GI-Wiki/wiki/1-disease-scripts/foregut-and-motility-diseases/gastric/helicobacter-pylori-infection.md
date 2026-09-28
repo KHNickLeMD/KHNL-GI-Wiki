@@ -31,18 +31,18 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab, aga-2021
 
 ### Establishing the Diagnosis
 
-**Who to test and treat — [[acg-2024-hp-treatment|ACG 2024]] Table 4** (supersedes the narrower [[acg-2017-hp-guidelines|ACG 2017]] list; note the age cutoff for uninvestigated dyspepsia moved from **<55 y (2017) to <60 y (2024)**):
+**Who to test and treat — [[acg-2024-hp-treatment|American College of Gastroenterology (ACG) 2024]] Table 4** (supersedes the narrower [[acg-2017-hp-guidelines|ACG 2017]] list; note the age cutoff for uninvestigated dyspepsia moved from **<55 y (2017) to <60 y (2024)**):
 
 | Category | Indication |
 |---|---|
 | Ulcer disease | [[peptic-ulcer-disease\|Peptic ulcer disease]] — **prior history or active disease** |
-| Lymphoma | Marginal zone B-cell lymphoma, MALT type ([[gastric-malt-lymphoma\|gastric MALT lymphoma]]) |
+| Lymphoma | Marginal zone B-cell lymphoma, mucosa-associated lymphoid tissue (MALT) type ([[gastric-malt-lymphoma\|gastric MALT lymphoma]]) |
 | Dyspepsia | **Uninvestigated dyspepsia age <60 y** → [[test-and-treat]]. **In populations at high risk for gastric cancer, test and treat at age 45–50 y** |
 | | **Functional dyspepsia** |
 | Household | **Adult household members** of a person with a **positive non-serological test** |
-| Drugs | Long-term NSAIDs, **or starting long-term low-dose aspirin** |
+| Drugs | Long-term nonsteroidal anti-inflammatory drugs (NSAIDs), **or starting long-term low-dose aspirin** |
 | Hematologic | Unexplained [[iron-deficiency-anemia\|iron deficiency anemia]]; idiopathic (autoimmune) thrombocytopenic purpura (ITP) |
-| Gastric-cancer prevention (primary + secondary) | Current or prior [[gastric-premalignant-conditions\|gastric premalignant conditions]] ([[atrophic-gastritis\|atrophic gastritis]], [[gastric-intestinal-metaplasia\|intestinal metaplasia]], dysplasia) |
+| Gastric-cancer prevention (primary + secondary) | Current or prior [[gastric-premalignant-conditions\|gastric premalignant conditions (GPMC)]] ([[atrophic-gastritis\|atrophic gastritis]], [[gastric-intestinal-metaplasia\|intestinal metaplasia]], dysplasia) |
 | | Current or prior **early [[gastric-adenocarcinoma\|gastric cancer]] resection**, or current/prior gastric adenocarcinoma |
 | | **[[gastric-polyps\|Gastric adenomas or hyperplastic polyps]]** (often have associated GPMC) |
 | | **First-degree relative with gastric cancer**† |
@@ -59,7 +59,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab, aga-2021
 - Most patients are **asymptomatic**
 - Epigastric pain/discomfort, bloating, nausea, dyspepsia
 - Peptic ulcer disease (gastric or duodenal)
-- [[upper-gi-bleeding|GI bleeding]] (hematemesis, melena) — when ulcer complicated
+- [[upper-gi-bleeding|gastrointestinal (GI) bleeding]] (hematemesis, melena) — when ulcer complicated
 - Extraintestinal: iron deficiency anemia, ITP (less established)
 
 **Pathogenesis (key virulence factors):**
@@ -88,15 +88,15 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab, aga-2021
 
 - Functional dyspepsia (Rome IV criteria)
 - NSAID/aspirin-induced gastropathy
-- [[gerd|GERD]] / esophagitis
+- [[gerd|gastroesophageal reflux disease (GERD)]] / esophagitis
 - [[gastroparesis|Gastroparesis]]
-- Gastric malignancy — **age ≥60 is the threshold that takes a dyspeptic patient out of [[test-and-treat|test-and-treat]] and into [[upper-endoscopy|EGD]]** ([[acg-2024-hp-treatment|ACG 2024]] caps test-and-treat at **<60 y**, and at **45–50 y** in populations at high gastric-cancer risk). Alarm features ([[dysphagia|dysphagia]], weight loss, anemia, bleeding, early satiety) have **low PPV under 60** and are not an automatic scope — the pooled operating characteristics are on [[dyspepsia]]
+- Gastric malignancy — **age ≥60 is the threshold that takes a dyspeptic patient out of [[test-and-treat|test-and-treat]] and into [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]]** ([[acg-2024-hp-treatment|ACG 2024]] caps test-and-treat at **<60 y**, and at **45–50 y** in populations at high gastric-cancer risk). Alarm features ([[dysphagia|dysphagia]], weight loss, anemia, bleeding, early satiety) have **low positive predictive value (PPV) under 60** and are not an automatic scope — the pooled operating characteristics are on [[dyspepsia]]
 
 ### For peptic ulcer disease
 
 - NSAID/aspirin use (most common cause after H. pylori)
 - Zollinger-Ellison syndrome (refractory, multiple, or ectopic ulcers; fasting gastrin >1000 pg/mL)
-- Stress ulcers (ICU setting)
+- Stress ulcers (intensive care unit [ICU] setting)
 - [[crohns-disease|Crohn's disease]] (gastroduodenal involvement)
 - Idiopathic ulcers (H. pylori-negative, NSAID-negative)
 
@@ -105,13 +105,13 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab, aga-2021
 - [[atrophic-gastritis|Autoimmune gastritis]] (type A; fundus-predominant; anti-parietal cell antibodies; B12 deficiency)
 - Eosinophilic gastritis
 - Lymphocytic gastritis
-- CMV gastritis (immunocompromised)
+- Cytomegalovirus (CMV) gastritis (immunocompromised)
 
 ---
 
 ## Diagnostics
 
-**Pre-test requirement:** Stop [[proton-pump-inhibitors|PPIs]] ≥2 weeks and antibiotics ≥4 weeks before any test to avoid false negatives.
+**Pre-test requirement:** Stop [[proton-pump-inhibitors|proton pump inhibitors (PPIs)]] ≥2 weeks and antibiotics ≥4 weeks before any test to avoid false negatives.
 
 ### Non-Invasive Tests
 
@@ -119,7 +119,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab, aga-2021
 |---|---|---|---|
 | Urea breath test (UBT) | *not stated* | *not stated* | Acceptable for diagnosis **and** for test of cure ≥4 wk after therapy. **PPIs stop 2 weeks before** — they cause false negatives [[acg-2024-hp-treatment]] |
 | Stool/fecal antigen test (SAT/FAT) | *not stated* | *not stated* | Same standing as UBT for diagnosis and test of cure; same 2-week PPI hold [[acg-2024-hp-treatment]] |
-| Serology (IgG) | *not stated* | *not stated* | Cannot distinguish active from past infection; **not** for post-treatment confirmation. **Not recommended in low-prevalence populations** absent a high pre-test probability (e.g. peptic ulcer) [[acg-2024-hp-treatment]] |
+| Serology (immunoglobulin G [IgG]) | *not stated* | *not stated* | Cannot distinguish active from past infection; **not** for post-treatment confirmation. **Not recommended in low-prevalence populations** absent a high pre-test probability (e.g. peptic ulcer) [[acg-2024-hp-treatment]] |
 
 > ⚠ **No test-performance figures (sensitivity/specificity) are given on this page.** [[acg-2024-hp-treatment]] "elected not to review standard testing modalities (e.g., fecal antigen testing, breath testing, and serology)," so UBT, SAT, serology, biopsy-based tests, and the monoclonal-vs-polyclonal SAT distinction are not characterized here; see the ACG 2017 H. pylori guideline or a dedicated diagnosis guideline.
 
@@ -129,16 +129,16 @@ Endoscopic sampling is what enables **antibiotic susceptibility testing**, which
 
 | Test | Notes |
 |---|---|
-| Rapid urease test (RUT) | Biopsy urease test; usable for test of cure when endoscopy is needed anyway — sensitivity reduced by recent PPI (possibly PCAB), bismuth, or antibiotics |
+| Rapid urease test (RUT) | Biopsy urease test; usable for test of cure when endoscopy is needed anyway — sensitivity reduced by recent PPI (possibly potassium-competitive acid blocker [PCAB]), bismuth, or antibiotics |
 | Histology | Hematoxylin & eosin staining of gastric biopsies; also shows gastritis pattern, atrophy, metaplasia. Usable for test of cure, with the same drug-hold caveat |
 | Culture | Phenotypic susceptibility testing; **technically demanding** and requires endoscopic biopsy |
-| Molecular (PCR / next-generation sequencing) | Detects **clarithromycin resistance (23S rRNA mutations)** and **levofloxacin resistance (gyrA mutations)**; increasingly available in the US |
+| Molecular (polymerase chain reaction [PCR] / next-generation sequencing) | Detects **clarithromycin resistance (23S rRNA mutations)** and **levofloxacin resistance (gyrA mutations)**; increasingly available in the US |
 
 ---
 
 ## Therapeutics
 
-> **2024 paradigm shift** [[acg-2024-hp-treatment]]: **optimized BQT for 14 days is the only Strong first-line recommendation.** Every other first-line option — rifabutin triple, [[vonoprazan|vonoprazan]] dual, vonoprazan triple — is **Conditional**. Empiric PPI-clarithromycin triple therapy is displaced by rising US clarithromycin resistance: **22.2%** in a US/European RCT and a pooled **31.5%** across US isolates 2011–2021.
+> **2024 paradigm shift** [[acg-2024-hp-treatment]]: **optimized [[bismuth-quadruple-therapy|bismuth quadruple therapy (BQT)]] for 14 days is the only Strong first-line recommendation.** Every other first-line option — rifabutin triple, [[vonoprazan|vonoprazan]] dual, vonoprazan triple — is **Conditional**. Empiric PPI-clarithromycin triple therapy is displaced by rising US clarithromycin resistance: **22.2%** in a US/European randomized controlled trial (RCT) and a pooled **31.5%** across US isolates 2011–2021.
 
 ### First-Line Eradication Regimens
 
@@ -149,7 +149,7 @@ Endoscopic sampling is what enables **antibiotic susceptibility testing**, which
 
 | Regimen | Drug (dose) | Frequency | FDA-approved | Recommendation |
 |---|---|---|---|---|
-| **Optimized [[bismuth-quadruple-therapy\|bismuth quadruple (BQT)]]** | PPI (standard dose) | b.i.d. | No (as separate components) | **Strong** (moderate) |
+| **Optimized BQT** | PPI (standard dose) | b.i.d. | No (as separate components) | **Strong** (moderate) |
 | | Bismuth subcitrate (120–300 mg) **or** subsalicylate (300 mg) | q.i.d. | | |
 | | Tetracycline (500 mg) | q.i.d. | | |
 | | Metronidazole (500 mg) | t.i.d. **or** q.i.d. | | |
@@ -161,7 +161,7 @@ Endoscopic sampling is what enables **antibiotic susceptibility testing**, which
 **Getting the regimens right — the details that decide success:**
 
 - **"Optimized" BQT means all four components dosed adequately:** nitroimidazole **1,500–2,000 mg/day in divided doses**, and **tetracycline — doxycycline is not an acceptable substitution**. PPIs dosed 30–60 min before a meal.
-- **Proprietary BQT packs are not interchangeable with 14 days.** *Pylera* (bismuth subcitrate + metronidazole + tetracycline) is dispensed **only as a 10-day regimen** and must be given with a b.i.d. PPI. *Helidac* is a 14-day pack originally approved with an H2RA (and restricted to duodenal ulcer) — **ACG does not recommend H2RAs in any eradication regimen**, so Table 5 does not further consider it; the salvage table (Table 6) nonetheless accepts **Helidac dosed with a b.i.d. PPI for 14 days** as an appropriate BQT selection.
+- **Proprietary BQT packs are not interchangeable with 14 days.** *Pylera* (bismuth subcitrate + metronidazole + tetracycline) is dispensed **only as a 10-day regimen** and must be given with a b.i.d. PPI. *Helidac* is a 14-day pack originally approved with a histamine-2 receptor antagonist (H2RA), and restricted to duodenal ulcer, — **ACG does not recommend H2RAs in any eradication regimen**, so Table 5 does not further consider it; the salvage table (Table 6) nonetheless accepts **Helidac dosed with a b.i.d. PPI for 14 days** as an appropriate BQT selection.
 - **Bismuth subsalicylate is contraindicated in salicylate allergy** — use subcitrate.
 - **Rifabutin triple daily totals** (Talicia, 4 capsules t.i.d. × 14 d): omeprazole **120 mg/day** (40 mg t.i.d.), amoxicillin **3,000 mg/day** (1,000 mg t.i.d.), rifabutin **150 mg/day** (50 mg t.i.d.). Talicia is the only rifabutin regimen FDA-approved and the only one evaluated as first-line. Advantage: very low rifabutin resistance and no clarithromycin, so no pretreatment sensitivity testing is required.
 - **Vonoprazan dual therapy is NOT b.i.d. amoxicillin** — vonoprazan 20 mg b.i.d. with amoxicillin 1,000 mg **three times daily**.
@@ -179,13 +179,13 @@ Endoscopic sampling is what enables **antibiotic susceptibility testing**, which
 - Superior to PPIs as partner for clarithromycin-based regimens (PHALCON-HP trial)
 - Vonoprazan dual therapy avoids clarithromycin entirely; FDA-approved 2022 (Voquezna)
 - PCAB preferred when available, especially for clarithromycin-containing regimens
-- **AGA 2024 P-CAB CPU** ([[aga-2024-pcab]]) — BPA 7: **use P-CABs in place of PPIs in eradication regimens for most patients**; pooled first-line eradication 92% vs 80% (P-CAB vs PPI), largest benefit in **clarithromycin-resistant** strains; short HP course blunts P-CAB cost/safety concerns. Concordant with 2022 Maastricht VI (100% agreement)
+- **American Gastroenterological Association (AGA) 2024 P-CAB clinical practice update (CPU)** ([[aga-2024-pcab]]) — best practice advice (BPA) 7: **use P-CABs in place of PPIs in eradication regimens for most patients**; pooled first-line eradication 92% vs 80% (P-CAB vs PPI), largest benefit in **clarithromycin-resistant** strains; short *H. pylori* course blunts P-CAB cost/safety concerns. Concordant with 2022 Maastricht VI (100% agreement)
 
 **Susceptibility testing — when, per ACG 2024 Key Concepts 3 and 6:**
 
 - **Clarithromycin- and levofloxacin-containing regimens should be avoided in the absence of demonstrated macrolide and quinolone susceptibility, respectively** (Key Concept 3). This is the hard rule; it is what removes empiric PPI-clarithromycin triple from first-line use.
 - **The incremental benefit of "tailored" over empiric therapy remains inadequately defined and studied**, for treatment-naive and treatment-experienced patients alike. ACG's expert-consensus advice is therefore narrower than "test everyone": **use susceptibility testing whenever the choice of therapy remains unclear** after accounting for previous H. pylori treatments, broader past antibiotic exposure, and any documented penicillin allergy (Key Concept 6).
-- Phenotypic (culture-based) and molecular methods (PCR, next-generation sequencing) are both becoming increasingly available in the US. Molecular testing detects CLR resistance (23S rRNA mutations) and LVX resistance (gyrA mutations); culture is technically demanding and requires endoscopic biopsy.
+- Phenotypic (culture-based) and molecular methods (PCR, next-generation sequencing) are both becoming increasingly available in the US. Molecular testing detects clarithromycin resistance (23S rRNA mutations) and levofloxacin resistance (gyrA mutations); culture is technically demanding and requires endoscopic biopsy.
 - In treatment-experienced patients with **confirmed clarithromycin-sensitive** persistent infection, PPI- or PCAB-clarithromycin triple therapy is suggested (Key Concept 5).
 
 ### Refractory Infection — Definition and Causes of Failure
@@ -226,7 +226,7 @@ Endoscopic sampling is what enables **antibiotic susceptibility testing**, which
 
 | Antibiotic | Fold-higher failure |
 |---|---|
-| Levofloxacin | **8.2×** (95% CI 3.8–17.6) |
+| Levofloxacin | **8.2×** (95% confidence interval [CI] 3.8–17.6) |
 | Clarithromycin | **7.0×** (95% CI 5.2–9.3) |
 | Nitroimidazole (metronidazole) | **2.5×** (95% CI 1.8–3.5) — relatively less clinical impact |
 

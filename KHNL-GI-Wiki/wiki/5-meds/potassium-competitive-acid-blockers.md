@@ -7,7 +7,7 @@ updated: 2026-09-05
 sources: [aga-2024-pcab, acg-2024-hp-treatment]
 ---
 
-Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **competitively at the potassium-binding site**. Agents: **[[vonoprazan]]** (only agent FDA-approved / available in the US), tegoprazan, fexuprazan, keverprazan, zastaprazan (predominantly Asian markets). For the US agent specifics see [[vonoprazan]].
+Potassium-competitive acid blockers (P-CABs) are a drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **competitively at the potassium-binding site**. Agents: **[[vonoprazan]]** (only agent FDA-approved / available in the US), tegoprazan, fexuprazan, keverprazan, zastaprazan (predominantly Asian markets). For the US agent specifics see [[vonoprazan]].
 
 ## Contents
 - [[#Mechanism vs PPIs]]
@@ -23,7 +23,7 @@ Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **co
 
 ## Mechanism vs PPIs
 
-| Property | P-CAB | PPI |
+| Property | P-CAB | Proton pump inhibitor (PPI) |
 |---|---|---|
 | Binding | Competitive, reversible at K⁺ site | Covalent, at cysteine residues |
 | Activation | None needed (active + inactive pumps) | Requires acid activation (active pumps only) |
@@ -38,7 +38,7 @@ Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **co
 
 ## When to Use — AGA 2024 Best Practice Advice
 
-**Governing principle (BPA 1–2):** because the US-available P-CAB costs markedly more than standard- and double-dose PPIs (which are OTC), with more prior-auth hurdles and less long-term safety data, **do not use P-CABs first-line where clinical superiority is not demonstrated** — even modest superiority over double-dose PPIs may not be cost-effective ([[aga-2024-pcab]]).
+**Governing principle (Best Practice Advice [BPA] 1–2):** because the US-available P-CAB costs markedly more than standard- and double-dose PPIs (which are over-the-counter [OTC]), with more prior-auth hurdles and less long-term safety data, **do not use P-CABs first-line where clinical superiority is not demonstrated** — even modest superiority over double-dose PPIs may not be cost-effective ([[aga-2024-pcab]]).
 
 ### GERD
 
@@ -50,25 +50,25 @@ Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **co
 | Severe erosive esophagitis (**LA grade C/D**) | **May use** for healing + maintenance; benefit over standard-dose PPI may not justify routine first-line use given cost | 6 |
 
 - Severe-EE data — the single US/Europe trial (Laine 2023), **and the two phases used different doses** ([[aga-2024-pcab]] Table 2):
-  - **Healing, 8 wk:** vonoprazan **20 mg** daily vs lansoprazole **30 mg** daily → LA C/D healing **92% vs 72%** (overall EE 93% vs 85%).
+  - **Healing, 8 wk:** vonoprazan **20 mg** daily vs lansoprazole **30 mg** daily → Los Angeles (LA) grade C/D healing **92% vs 72%** (overall erosive esophagitis [EE] 93% vs 85%).
   - **Maintenance of healing, 24 wk:** vonoprazan **10–20 mg** daily vs lansoprazole **15 mg** daily → LA C/D **75–77% vs 62%** (overall 79–81% vs 72%).
 
 ### Helicobacter pylori
 
 - **BPA 7 — use P-CABs in place of PPIs in eradication regimens for most patients** with [[helicobacter-pylori-infection|H. pylori]] infection.
-- First-line eradication vonoprazan vs PPI: **92% vs 80%** (Asian RCT meta-analysis); largest incremental benefit in **clarithromycin-resistant** strains.
+- First-line eradication vonoprazan vs PPI: **92% vs 80%** (Asian randomized controlled trial [RCT] meta-analysis); largest incremental benefit in **clarithromycin-resistant** strains.
 - Duration **14 days** generally advised; **vonoprazan dual therapy** (vonoprazan + amoxicillin) can match triple therapy — see [[vonoprazan]] for regimens (dual = vonoprazan b.i.d. + amoxicillin t.i.d.).
 - Short treatment course blunts the cost/safety concerns that limit P-CABs elsewhere.
-- **Societies differ in emphasis:** AGA's BPA 7 favors P-CABs over PPIs in eradication regimens generally, whereas ACG 2024 grades both vonoprazan regimens **conditional (moderate quality)** and reserves its only *strong* first-line recommendation for optimized [[bismuth-quadruple-therapy|BQT]]; ACG makes **no recommendation** for P-CAB-based salvage after BQT failure ([[acg-2024-hp-treatment]]).
+- **Societies differ in emphasis:** The American Gastroenterological Association's (AGA's) BPA 7 favors P-CABs over PPIs in eradication regimens generally, whereas American College of Gastroenterology (ACG) 2024 grades both vonoprazan regimens **conditional (moderate quality)** and reserves its only *strong* first-line recommendation for optimized [[bismuth-quadruple-therapy|bismuth quadruple therapy (BQT)]]; ACG makes **no recommendation** for P-CAB-based salvage after BQT failure ([[acg-2024-hp-treatment]]).
 
 ### Peptic Ulcer Disease
 
 | Scenario | Guidance | BPA |
 |---|---|---|
-| Treatment / prophylaxis of [[peptic-ulcer-disease\|PUD]] | Generally **not first-line** (noninferior, not superior, to PPIs; higher cost) | 8 |
+| Treatment / prophylaxis of [[peptic-ulcer-disease\|peptic ulcer disease (PUD)]] | Generally **not first-line** (noninferior, not superior, to PPIs; higher cost) | 8 |
 | [[upper-gi-bleeding\|Bleeding gastroduodenal ulcer]], high-risk stigmata | Insufficient evidence for first-line use; rapid potent acid inhibition raises possibility of utility | 9 |
 
-- Noninferior to lansoprazole for gastric/duodenal ulcer healing and for secondary prophylaxis (low-dose aspirin / NSAIDs). Potential (scant-evidence) role in Zollinger-Ellison syndrome. Post-hemostasis, oral vonoprazan noninferior to high-dose IV PPI for rebleeding ([[aga-2024-pcab]]).
+- Noninferior to lansoprazole for gastric/duodenal ulcer healing and for secondary prophylaxis (low-dose aspirin / nonsteroidal anti-inflammatory drugs [NSAIDs]). Potential (scant-evidence) role in Zollinger-Ellison syndrome. Post-hemostasis, oral vonoprazan noninferior to high-dose IV PPI for rebleeding ([[aga-2024-pcab]]).
 
 ---
 
@@ -82,7 +82,7 @@ Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **co
 
 ## See Also
 
-[[vonoprazan]], [[proton-pump-inhibitors]], [[gerd]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[upper-gi-bleeding]], [[bismuth-quadruple-therapy]], [[test-and-treat]], [[clostridioides-difficile]], [[reflux-testing]]
+[[vonoprazan]], [[proton-pump-inhibitors]], [[gerd|gastroesophageal reflux disease (GERD)]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[upper-gi-bleeding]], [[bismuth-quadruple-therapy]], [[test-and-treat]], [[clostridioides-difficile]], [[reflux-testing]]
 
 ---
 

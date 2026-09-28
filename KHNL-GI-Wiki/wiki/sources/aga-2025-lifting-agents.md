@@ -13,11 +13,11 @@ sources: []
 - **Year:** 2025
 - **Journal/Publisher:** Clinical Gastroenterology and Hepatology 2025;23:1102–1108
 - **DOI:** [10.1016/j.cgh.2025.01.025](https://doi.org/10.1016/j.cgh.2025.01.025)
-- **Type:** guideline (AGA Clinical Practice Update — Commentary; narrative, no formal Best Practice Advice statements)
+- **Type:** guideline (American Gastroenterological Association [AGA] Clinical Practice Update — Commentary; narrative, no formal Best Practice Advice statements)
 
 ## Summary
 
-Practical commentary on submucosal lifting (injection) agents for endoscopic resection (EMR/ESD/POEM). Submucosal injection creates a cushion separating the lesion from the muscularis propria (MP); adding a blue contrast agent demarcates margins and helps detect MP injury during EMR.
+Practical commentary on submucosal lifting (injection) agents for endoscopic resection (endoscopic mucosal resection [EMR]/endoscopic submucosal dissection [ESD]/peroral endoscopic myotomy [POEM]). Submucosal injection creates a cushion separating the lesion from the muscularis propria (MP); adding a blue contrast agent demarcates margins and helps detect MP injury during EMR.
 
 ## Key Findings / Claims (narrative)
 

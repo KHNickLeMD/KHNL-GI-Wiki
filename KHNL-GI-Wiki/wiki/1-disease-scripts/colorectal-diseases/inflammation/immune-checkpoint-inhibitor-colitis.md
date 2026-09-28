@@ -7,7 +7,7 @@ updated: 2026-09-08
 sources: [aga-2021-ici-colitis-hepatitis]
 ---
 
-Colitis, with or without accompanying enteritis, is the **single most common GI toxicity** of immune checkpoint inhibitors (ICIs) — an immune-related adverse event (irAE) of CTLA-4 and PD-1/PD-L1 blockade. [[aga-2021-ici-colitis-hepatitis]]
+Colitis, with or without accompanying enteritis, is the **single most common gastrointestinal (GI) toxicity** of immune checkpoint inhibitors (ICIs) — an immune-related adverse event (irAE) of CTLA-4 and PD-1/PD-L1 blockade. [[aga-2021-ici-colitis-hepatitis]]
 
 - Affects **up to 40%** of patients, depending on the pathway targeted.
 - **Severe** enterocolitis (requiring anti-inflammatory treatment + ICI delay or discontinuation): **2%–5%** on PD-1/PD-L1 inhibitors, **~10%** on CTLA-4 inhibitors.
@@ -31,13 +31,13 @@ Colitis, with or without accompanying enteritis, is the **single most common GI 
 
 ### Establishing the Diagnosis
 
-**The defining principle: symptoms do not track with disease.** Patient symptoms correlate poorly with endoscopic severity, radiologic findings, and response to treatment — and **CTCAE grade is explicitly not predictive** of who will need second-line immunosuppression. Endoscopic findings *do* predict treatment response. [[aga-2021-ici-colitis-hepatitis]]
+**The defining principle: symptoms do not track with disease.** Patient symptoms correlate poorly with endoscopic severity, radiologic findings, and response to treatment — and **Common Terminology Criteria for Adverse Events (CTCAE) grade is explicitly not predictive** of who will need second-line immunosuppression. Endoscopic findings *do* predict treatment response. [[aga-2021-ici-colitis-hepatitis]]
 
 **Clinical presentation**
 
 - Mild: more frequent loose stools, ± upper GI symptoms (nausea, vomiting, decreased appetite, reflux).
 - More severe: cramping, urgency, watery diarrhea; **bloody diarrhea can occur**; fevers are less typical.
-- **Tempo is the hallmark** — symptoms escalate over a period of **days**, generally after a recent ICI infusion, particularly when **ipilimumab** (anti–CTLA-4) is part of the regimen. This is more reminiscent of a colonic infection than of [[inflammatory-bowel-disease|IBD]], and is the reason for expedited testing and treatment (**BPA 5**).
+- **Tempo is the hallmark** — symptoms escalate over a period of **days**, generally after a recent ICI infusion, particularly when **ipilimumab** (anti–CTLA-4) is part of the regimen. This is more reminiscent of a colonic infection than of [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], and is the reason for expedited testing and treatment (**Best Practice Advice (BPA) 5**).
 
 **When to test rather than treat empirically.** Mild diarrhea on ICIs is common and usually managed empirically. Pursue diagnostic testing for any patient with new-onset diarrhea on ICI that is significant enough to interfere with activities of daily living, **or** that is accompanied by abdominal pain, incontinence, bleeding, fever, nausea, vomiting, or inability to take adequate nutrition.
 
@@ -49,10 +49,10 @@ Colitis, with or without accompanying enteritis, is the **single most common GI 
 
 | Variable | Grade 1 | Grade 2 | Grade 3 | Grade 4 | Grade 5 |
 |---|---|---|---|---|---|
-| **Diarrhea** | Increase of <4 stools/d over baseline; mild increase in [[ostomy-management\|ostomy]] output | Increase of 4–6 stools/d over baseline; moderate increase in ostomy output; limiting instrumental ADL | Increase of ≥7 stools/d over baseline; hospitalization indicated; severe increase in ostomy output; limiting self-care ADL | Life-threatening consequences; urgent intervention indicated | Death |
+| **Diarrhea** | Increase of <4 stools/d over baseline; mild increase in [[ostomy-management\|ostomy]] output | Increase of 4–6 stools/d over baseline; moderate increase in ostomy output; limiting instrumental activities of daily living (ADL) | Increase of ≥7 stools/d over baseline; hospitalization indicated; severe increase in ostomy output; limiting self-care ADL | Life-threatening consequences; urgent intervention indicated | Death |
 | **Enterocolitis** | Asymptomatic; clinical or diagnostic observations only; intervention not indicated | Abdominal pain; mucus or blood in stool | Severe or persistent abdominal pain; fever; ileus; peritoneal signs | Life-threatening consequences; urgent intervention indicated | Death |
 
-*ADL, activities of daily living. CTCAE v5 (NCI 2017), as reproduced in [[aga-2021-ici-colitis-hepatitis]].*
+*CTCAE v5 (National Cancer Institute [NCI] 2017), as reproduced in [[aga-2021-ici-colitis-hepatitis]].*
 
 > **No validated severity index for ICI colitis exists.** The source presents two competing **endoscopic** tools side by side without stating a preference — both are below under *Classification / Typing*.
 
@@ -93,7 +93,7 @@ Colitis, with or without accompanying enteritis, is the **single most common GI 
 - New-onset **[[celiac-disease|celiac disease]]** — rare but reported as an ICI complication
 - Thyroid dysfunction
 - **[[ulcerative-colitis|Ulcerative colitis]]** / **[[crohns-disease|Crohn's disease]]** — both the endoscopic patterns are named after them, and pre-existing IBD changes the risk calculus (see Therapeutics)
-- **[[colon-ischemia|Ischemic colitis]]** — indistinguishable from ICI enterocolitis on CT
+- **[[colon-ischemia|Ischemic colitis]]** — indistinguishable from ICI enterocolitis on computed tomography (CT)
 
 ---
 
@@ -106,16 +106,16 @@ Colitis, with or without accompanying enteritis, is the **single most common GI 
 - **Stool inflammatory markers — lactoferrin and calprotectin (BPA 2).** The triage step: test early in CTCAE **grade ≥2** colitis/diarrhea (>4 bowel movements daily above baseline) and in selected patients with less-severe diarrhea, to stratify who needs endoscopy. **Stool lactoferrin sensitivity up to 90%** for histologic inflammation (retrospective data).
 - **Fecal elastase** ± spot or qualitative fecal fat — in non-responders or those presenting with steatorrhea.
 
-**Blood tests are rarely informative.** WBC, CRP, and ESR may be elevated, but specificity is low given concurrent extraintestinal irAEs and ongoing antitumor responses.
+**Blood tests are rarely informative.** white blood cell (WBC), C-reactive protein (CRP), and erythrocyte sedimentation rate (ESR) may be elevated, but specificity is low given concurrent extraintestinal irAEs and ongoing antitumor responses.
 
-- **Tissue transglutaminase IgA + total IgA** — reasonable to consider in any patient on ICI with new diarrhea, given the high sensitivity and specificity for celiac disease.
-- **Before biologic immunosuppression:** test **hepatitis B** ([[chronic-hepatitis-b|HBsAg, anti-HBs, anti-HBc]]) and **latent tuberculosis** if not sent before ICI initiation; HIV and HCV testing also suggested.
+- **Tissue transglutaminase immunoglobulin A (IgA) + total IgA** — reasonable to consider in any patient on ICI with new diarrhea, given the high sensitivity and specificity for celiac disease.
+- **Before biologic immunosuppression:** test **hepatitis B** ([[chronic-hepatitis-b|hepatitis B surface antigen (HBsAg), hepatitis B surface antibody (anti-HBs), hepatitis B core antibody (anti-HBc)]]) and **latent tuberculosis** if not sent before ICI initiation; human immunodeficiency virus (HIV) and hepatitis C virus (HCV) testing also suggested.
 
 **Endoscopy (BPA 3)** — confirm diagnosis and severity **before** starting high-dose systemic glucocorticoids.
 
 - Early endoscopy correlates with improved outcomes in retrospective analyses, though the importance of a tissue diagnosis has not been rigorously evaluated.
 - **Flexible sigmoidoscopy is often adequate** — approximately **95%** of patients have inflammation in the **left colon** on biopsy, with the majority visible macroscopically. **Pancolitis is the most common pattern.**
-- **[[upper-endoscopy|EGD]] is reasonable after a negative flexible sigmoidoscopy** — and **may be higher yield than proceeding to a full [[colonoscopy]]**.
+- **[[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] is reasonable after a negative flexible sigmoidoscopy** — and **may be higher yield than proceeding to a full [[colonoscopy]]**.
 - Endoscopy with biopsies is currently the **only** way to diagnose ICI-related microscopic colitis.
 - The optimal choice of endoscopic examination for obtaining diagnostic biopsies and grading severity **has not been established**.
 
@@ -131,7 +131,7 @@ Colitis, with or without accompanying enteritis, is the **single most common GI 
 
 ### First line — systemic glucocorticoids (BPA 6)
 
-- **0.5–2 mg/kg prednisone equivalent daily** (oral or IV), with a taper over **4–6 weeks**.
+- **0.5–2 mg/kg prednisone equivalent daily** (oral or intravenous [IV]), with a taper over **4–6 weeks**.
 - ⚠ The source states explicitly that **these doses and schedules have not been rigorously examined**. Lower doses or glucocorticoid-sparing strategies may have benefit, since systemic glucocorticoids may dampen antitumor responses.
 - **~One-third** of patients have an inadequate response to first-line glucocorticoids.
 
@@ -151,7 +151,7 @@ Both are effective; **no data distinguish them**, so the choice rests on other r
 
 | Agent | Dose | Schedule |
 |---|---|---|
-| **Infliximab** ([[anti-tnf-agents\|anti-TNF]]) | 5 mg/kg IV | Weeks 0, 2, 6 |
+| **Infliximab** ([[anti-tnf-agents\|anti–tumor necrosis factor (TNF)]]) | 5 mg/kg IV | Weeks 0, 2, 6 |
 | **[[vedolizumab\|Vedolizumab]]** | 300 mg IV | Weeks 0, 2, 6 |
 
 - **Response is typically rapid — generally <1 week.** This is an important contrast with IBD.
@@ -169,8 +169,8 @@ Both are effective; **no data distinguish them**, so the choice rests on other r
 
 **Failing both biologics** — not well established. Reported/considered options:
 
-- **FMT** — reported in 2 such patients ([[fmt]])
-- **Ustekinumab** (p40 inhibitor), **[[jak-inhibitors|tofacitinib]]** (JAK inhibitor), **abatacept** (CTLA-4-Ig) — may be considered in life-threatening cases, but each carries substantial risk of interfering with antitumor responses based on its mechanism
+- **fecal microbiota transplantation (FMT)** — reported in 2 such patients ([[fmt]])
+- **Ustekinumab** (p40 inhibitor), **[[jak-inhibitors|tofacitinib]]** (Janus kinase (JAK) inhibitor), **abatacept** (CTLA-4-Ig) — may be considered in life-threatening cases, but each carries substantial risk of interfering with antitumor responses based on its mechanism
 
 ### Budesonide (BPA 7) — the two opposite answers
 
@@ -189,7 +189,7 @@ Both are effective; **no data distinguish them**, so the choice rests on other r
 
 *Managing the IBD drugs themselves once a malignancy is present: see [[ibd-in-malignancy]].*
 
-From a >100-patient multicenter retrospective analysis (evenly split UC/Crohn's, nearly all quiescent disease, 50% on no IBD-directed therapy, mostly PD-1/PD-L1):
+From a >100-patient multicenter retrospective analysis (evenly split ulcerative colitis (UC)/Crohn's, nearly all quiescent disease, 50% on no IBD-directed therapy, mostly PD-1/PD-L1):
 
 | Outcome | IBD cohort | Multicenter control cohort |
 |---|---|---|

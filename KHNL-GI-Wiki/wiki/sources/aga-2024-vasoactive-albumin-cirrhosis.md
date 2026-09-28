@@ -13,17 +13,17 @@ sources: []
 - **Year:** 2024
 - **Journal/Publisher:** Gastroenterology (AGA Institute)
 - **DOI:** [10.1053/j.gastro.2023.10.016](https://doi.org/10.1053/j.gastro.2023.10.016)
-- **Type:** guideline (AGA Clinical Practice Update — Expert Review)
+- **Type:** guideline (American Gastroenterological Association [AGA] Clinical Practice Update — Expert Review)
 
 ## Summary
 
-This AGA Clinical Practice Update provides Best Practice Advice on vasoactive drugs and IV albumin across three scenarios of decompensated cirrhosis: **acute variceal hemorrhage (AVH), ascites/SBP, and AKI/HRS**. Because systematic reviews were not performed, the 12 Best Practice Advice statements do not carry formal GRADE ratings.
+This AGA Clinical Practice Update provides Best Practice Advice on vasoactive drugs and intravenous (IV) albumin across three scenarios of decompensated cirrhosis: **acute variceal hemorrhage (AVH), ascites/spontaneous bacterial peritonitis (SBP), and acute kidney injury (AKI)/hepatorenal syndrome (HRS)**. Because systematic reviews were not performed, the 12 Best Practice Advice (BPA) statements do not carry formal Grading of Recommendations Assessment, Development and Evaluation (GRADE) ratings.
 
 For AVH, vasoactive drugs (octreotide, somatostatin, or — outside the US — terlipressin) should be started as soon as variceal bleeding is suspected, before endoscopy, and continued 2–5 days after hemostasis to prevent early rebleeding. Octreotide is the agent of choice in the US given its safety profile; terlipressin is not FDA-approved for AVH.
 
-For ascites/SBP, IV albumin is indicated at large-volume (>5 L) paracentesis and may be considered in SBP, but should **not** be used in uncomplicated ascites; vasoconstrictors have **no role** in uncomplicated ascites, post-LVP, or SBP. In hospitalized patients with cirrhosis and ascites presenting with AKI, albumin is the volume expander of choice.
+For ascites/SBP, IV albumin is indicated at large-volume (>5 L) paracentesis and may be considered in SBP, but should **not** be used in uncomplicated ascites; vasoconstrictors have **no role** in uncomplicated ascites, after large-volume paracentesis (LVP), or SBP. In hospitalized patients with cirrhosis and ascites presenting with AKI, albumin is the volume expander of choice.
 
-For HRS-AKI, vasoactive drugs (terlipressin, norepinephrine, or octreotide+midodrine) reverse HRS-AKI but should not be used for other AKI phenotypes. **Terlipressin is the vasoactive drug of choice**; it does not require ICU monitoring and can be given through a peripheral IV line. Concurrent albumin can be considered accounting for volume status. Terlipressin is contraindicated in hypoxemia and in ongoing coronary/peripheral/mesenteric ischemia, and its benefit may not outweigh risk when SCr >5 mg/dL or MELD ≥35 (listed for transplant) or in ACLF grade 3.
+For HRS-AKI, vasoactive drugs (terlipressin, norepinephrine, or octreotide+midodrine) reverse HRS-AKI but should not be used for other AKI phenotypes. **Terlipressin is the vasoactive drug of choice**; it does not require intensive care unit (ICU) monitoring and can be given through a peripheral IV line. Concurrent albumin can be considered accounting for volume status. Terlipressin is contraindicated in hypoxemia and in ongoing coronary/peripheral/mesenteric ischemia, and its benefit may not outweigh risk when serum creatinine (SCr) >5 mg/dL or Model for End-Stage Liver Disease (MELD) ≥35 (listed for transplant) or in acute-on-chronic liver failure (ACLF) grade 3.
 
 ## Key Findings / Claims
 
@@ -52,12 +52,12 @@ For HRS-AKI, vasoactive drugs (terlipressin, norepinephrine, or octreotide+midod
 
 ᵃ Terlipressin is a standard AVH regimen outside the US, but the FDA label does not include this indication.
 
-- Vasoactive drugs halt AVH in up to 80% of cases; a meta-analysis (3111 patients, 30 RCTs) showed reduced 7-day mortality (RR 0.74), improved hemostasis (RR 1.21), lower transfusion needs, and shorter hospitalization. Stop the drug if endoscopy reveals a non-variceal source.
+- Vasoactive drugs halt AVH in up to 80% of cases; a meta-analysis (3111 patients, 30 randomized controlled trials [RCTs]) showed reduced 7-day mortality (relative risk [RR] 0.74), improved hemostasis (RR 1.21), lower transfusion needs, and shorter hospitalization. Stop the drug if endoscopy reveals a non-variceal source.
 - Shortening vasoactive therapy to **2 days** may be reasonable in selected low-risk patients (no active bleeding at endoscopy) though data are limited.
 - **LVP albumin dose:** 6–8 g/L of ascites removed (lower doses ~4 g/L may suffice); albumin at LVP >5 L mitigates post-paracentesis circulatory dysfunction (PCD) and AKI.
-- **SBP albumin:** empirical regimen 1.5 g/kg on day 1 and 1 g/kg on day 3 (used in 4 of 5 supporting studies); greatest benefit with baseline bilirubin >4 mg/dL and AKI (creatinine >1.0 mg/dL, BUN >30 mg/dL).
-- **HRS-AKI terlipressin (US regimen, CONFIRM):** start 1-mg IV boluses every 6 h (peripheral line, no ICU); increase to 2 mg every 6 h on day 4 if insufficient response; continuous infusion (starting 2 mg/d) had fewer complications with similar efficacy. Patients with SCr >5 mg/dL have low response rates. FDA label suggests continuous pulse oximetry; the CPU notes vital-sign assessment (including pulse oximetry) every 2–4 h can substitute.
-- Terlipressin (continuous infusion) is superior to or comparable with norepinephrine; NE requires an ICU setting.
+- **SBP albumin:** empirical regimen 1.5 g/kg on day 1 and 1 g/kg on day 3 (used in 4 of 5 supporting studies); greatest benefit with baseline bilirubin >4 mg/dL and AKI (creatinine >1.0 mg/dL, blood urea nitrogen [BUN] >30 mg/dL).
+- **HRS-AKI terlipressin (US regimen, CONFIRM):** start 1-mg IV boluses every 6 h (peripheral line, no ICU); increase to 2 mg every 6 h on day 4 if insufficient response; continuous infusion (starting 2 mg/d) had fewer complications with similar efficacy. Patients with SCr >5 mg/dL have low response rates. FDA label suggests continuous pulse oximetry; the Clinical Practice Update (CPU) notes vital-sign assessment (including pulse oximetry) every 2–4 h can substitute.
+- Terlipressin (continuous infusion) is superior to or comparable with norepinephrine; norepinephrine requires an ICU setting.
 
 ## Relevance to Wiki
 - **[[variceal-upper-gi-bleeding]]** — corroborates octreotide-as-first-choice, before-endoscopy initiation, 2–5 day duration; Table 1 regimens.
@@ -66,5 +66,5 @@ For HRS-AKI, vasoactive drugs (terlipressin, norepinephrine, or octreotide+midod
 - **[[aki-in-cirrhosis]]** — terlipressin is drug of choice; adds peripheral-line/no-ICU administration, expanded ischemia contraindications, ACLF-3 caution, and MELD ≥35 / SCr >5 futility caveats.
 
 ## Contradictions / Open Questions
-- Frames SBP albumin as "may be considered" (BPA 5), a softer stance than [[aasld-2021-ascites-sbp-hrs|AASLD 2021]], which specifies albumin for high-risk SBP (bilirubin >4, Cr >1.0, BUN >30). Both are guideline-tier and consistent in the high-risk subgroup; wiki pages follow the AASLD high-risk criteria while noting the AGA framing.
+- Frames SBP albumin as "may be considered" (BPA 5), a softer stance than [[aasld-2021-ascites-sbp-hrs|American Association for the Study of Liver Diseases (AASLD) 2021]], which specifies albumin for high-risk SBP (bilirubin >4, creatinine >1.0, BUN >30). Both are guideline-tier and consistent in the high-risk subgroup; wiki pages follow the AASLD high-risk criteria while noting the AGA framing.
 - Optimal duration of vasoactive therapy for AVH (2 vs 5 days) remains unsettled; no concrete recommendation.

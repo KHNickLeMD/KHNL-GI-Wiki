@@ -20,7 +20,7 @@ sources: []
 
 ## Summary
 
-International guidelines recommend **5–7 days** of antibiotic prophylaxis for patients with [[cirrhosis]] and [[upper-gi-bleeding|upper GI bleeding]] — a recommendation whose evidence base had not been reassessed recently. This Bayesian meta-analysis pooled 14 RCTs (1,322 participants) comparing longer against shorter (or zero) durations, with a **prespecified 5% noninferiority margin on the risk-difference scale** for the primary outcome of all-cause mortality.
+International guidelines recommend **5–7 days** of antibiotic prophylaxis for patients with [[cirrhosis]] and [[upper-gi-bleeding|upper gastrointestinal (GI) bleeding]] — a recommendation whose evidence base had not been reassessed recently. This Bayesian meta-analysis pooled 14 randomized controlled trials (RCTs) (1,322 participants) comparing longer against shorter (or zero) durations, with a **prespecified 5% noninferiority margin on the risk-difference (RD) scale** for the primary outcome of all-cause mortality.
 
 **The composition of the evidence is the key to reading this paper.** Only **2 of the 14 RCTs actually compared a shorter course to a longer one** (2–3 d vs 5–7 d of a third-generation cephalosporin; 92 vs 87 patients). The other **12 compared any prophylaxis (1–10 d) to none at all** (570 vs 573 patients). So the headline "shorter durations are noninferior" is driven mostly by prophylaxis-vs-nothing trials, and the two comparisons behave very differently — a distinction that changes the bedside conclusion.
 
@@ -40,7 +40,7 @@ Certainty of evidence was **low** (mortality), **very low** (early rebleed), and
 
 **All-cause mortality** (primary; 5% noninferiority margin)
 
-| Comparison | Events | Probability of noninferiority | RD (95% CrI) |
+| Comparison | Events | Probability of noninferiority | RD (95% credible interval [CrI]) |
 |---|---|---|---|
 | **Overall** (14 studies) | 83/665 (12.5%) vs 62/657 (9.4%) | **97.3%** | 0.9% (−2.6 to 4.9) |
 | No prophylaxis vs prophylaxis (12) | 82/573 (14.3%) vs 58/570 (10.2%) | **89.8%** | 2.1% (−1.9 to 6.6) |
@@ -63,7 +63,7 @@ Certainty of evidence was **low** (mortality), **very low** (early rebleed), and
 
 - I² = 83.9% overall; post-2004 probability of noninferiority 74.5% vs 0.10% pre-2004
 
-**Certainty of evidence (GRADE)**
+**Certainty of evidence (Grading of Recommendations Assessment, Development and Evaluation [GRADE])**
 - Mortality — **low** (study quality, publication bias)
 - Early rebleed — **very low** (study quality, inconsistency, imprecision)
 - Bacterial infections — **low** (study quality, inconsistency; large effect size)
@@ -72,11 +72,11 @@ Certainty of evidence was **low** (mortality), **very low** (early rebleed), and
 - 8 of 14 at **high** risk of bias; remaining 6 moderate
 - 12 of 14 **unblinded** → ascertainment bias, especially for the infection outcome
 - 8 did not adequately screen for or exclude **active infection at study entry**
-- Infections at risk of overdiagnosis (UTI, pneumonia) counted without clearly defined diagnostic criteria
+- Infections at risk of overdiagnosis (urinary tract infection [UTI], pneumonia) counted without clearly defined diagnostic criteria
 - **No study** had a prespecified statistical analysis plan; most did not report loss to follow-up
 - **No study reported adverse events**
 
-**Authors' call for future research:** an adequately powered, **double-blind** RCT comparing longer (5–7 d) to shorter (2–3 d) durations, conducted in the era of restrictive transfusion targets and covered TIPS stents, that excludes bacteremia and SBP before enrollment and uses properly defined infection outcomes.
+**Authors' call for future research:** an adequately powered, **double-blind** RCT comparing longer (5–7 d) to shorter (2–3 d) durations, conducted in the era of restrictive transfusion targets and covered transjugular intrahepatic portosystemic shunt (TIPS) stents, that excludes bacteremia and spontaneous bacterial peritonitis (SBP) before enrollment and uses properly defined infection outcomes.
 
 *Journal-club discussion points (not from the published article):* practical barriers to changing practice include high 6-week mortality in variceal hemorrhage, difficulty obtaining consent in encephalopathic patients, and the absence of US-based data.
 

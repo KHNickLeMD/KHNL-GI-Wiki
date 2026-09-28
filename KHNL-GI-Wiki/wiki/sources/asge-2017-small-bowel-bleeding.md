@@ -18,9 +18,9 @@ sources: []
 
 ## Summary
 
-ASGE Standards of Practice guideline on the endoscopic evaluation of **suspected small-bowel bleeding** (formerly obscure GI bleeding). Endorses the shift to anatomic terminology and a stepwise algorithm: exclude upper/lower sources (repeat EGD/colonoscopy when recurrent symptoms) → **video capsule endoscopy (VCE) as the initial small-bowel test** → device-assisted enteroscopy (DAE) or push enteroscopy for therapy of positive findings or when VCE is unavailable/nondiagnostic. Cross-sectional imaging (multiphase CTE/MRE) is reserved for suspected small-bowel neoplasm or obstruction; CTA or RBC scan localizes active bleeding to guide angiography in stable patients; angiography with embolization is recommended for hemodynamically unstable bleeding.
+American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice guideline on the endoscopic evaluation of **suspected small-bowel bleeding** (formerly obscure gastrointestinal [GI] bleeding). Endorses the shift to anatomic terminology and a stepwise algorithm: exclude upper/lower sources (repeat esophagogastroduodenoscopy [EGD]/colonoscopy when recurrent symptoms) → **video capsule endoscopy (VCE) as the initial small-bowel test** → device-assisted enteroscopy (DAE) or push enteroscopy for therapy of positive findings or when VCE is unavailable/nondiagnostic. Cross-sectional imaging (multiphase computed tomography enterography [CTE]/magnetic resonance enterography [MRE]) is reserved for suspected small-bowel neoplasm or obstruction; computed tomography angiography (CTA) or red blood cell (RBC) scan localizes active bleeding to guide angiography in stable patients; angiography with embolization is recommended for hemodynamically unstable bleeding.
 
-Corroborates the [[acg-2015-small-bowel-bleeding|ACG 2015]] approach. Notes that DAE may be the *initial* small-bowel procedure in select circumstances (high suspicion of angiectasias, surgically altered anatomy). For non-localizable chronic angiectasia bleeding, hormonal therapy is abandoned (ineffective in RCTs); octreotide and low-dose thalidomide may reduce transfusion/iron needs.
+Corroborates the [[acg-2015-small-bowel-bleeding|American College of Gastroenterology (ACG) 2015]] approach. Notes that DAE may be the *initial* small-bowel procedure in select circumstances (high suspicion of angiectasias, surgically altered anatomy). For non-localizable chronic angiectasia bleeding, hormonal therapy is abandoned (ineffective in randomized controlled trials [RCTs]); octreotide and low-dose thalidomide may reduce transfusion/iron needs.
 
 ## Key Findings / Claims
 
@@ -31,7 +31,7 @@ Corroborates the [[acg-2015-small-bowel-bleeding|ACG 2015]] approach. Notes that
 - Multiphase CTE or MRE when small-bowel neoplasm is suspected.
 - Hemodynamically unstable suspected small-bowel bleeding → angiography with selective embolization after resuscitation.
 - Hemodynamically stable active bleeding → CTA or RBC scan to localize and time angiography.
-- Lesions within endoscopic reach: treat with electrocautery, APC, injection, or mechanical hemostasis (clips/bands).
+- Lesions within endoscopic reach: treat with electrocautery, argon plasma coagulation (APC), injection, or mechanical hemostasis (clips/bands).
 - After negative evaluation, stable patients with iron deficiency may be managed with iron therapy and clinical follow-up.
 - Hormonal therapy for angiectasias abandoned (no RCT efficacy); octreotide and low-dose thalidomide reduce transfusion needs in chronic angiectasia blood loss.
 

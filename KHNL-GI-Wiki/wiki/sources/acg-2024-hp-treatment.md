@@ -18,24 +18,24 @@ sources: []
 
 ## Summary
 
-This 2024 ACG guideline updates H. pylori treatment recommendations and represents a major paradigm shift from the 2017 ACG guideline. The central change is that clarithromycin-based triple therapy (CTT) is **no longer recommended as empiric first-line therapy** anywhere in the United States, due to rising clarithromycin resistance (now exceeding 15% nationally and much higher in some regions). [[bismuth-quadruple-therapy|Bismuth quadruple therapy]] (BQT) is now a **Strong recommendation** as empiric first-line therapy.
+This 2024 American College of Gastroenterology (ACG) guideline updates H. pylori treatment recommendations and represents a major paradigm shift from the 2017 ACG guideline. The central change is that clarithromycin-based triple therapy (CTT) is **no longer recommended as empiric first-line therapy** anywhere in the United States, due to rising clarithromycin resistance (now exceeding 15% nationally and much higher in some regions). [[bismuth-quadruple-therapy|Bismuth quadruple therapy]] (BQT) is now a **Strong recommendation** as empiric first-line therapy.
 
-The guideline formally endorses [[vonoprazan]] (a potassium-competitive acid blocker, PCAB) as superior to PPIs for acid suppression in H. pylori eradication. Vonoprazan-amoxicillin dual therapy and vonoprazan-amoxicillin-clarithromycin triple therapy received FDA approval in 2022 and are included as recommended first-line options. PCABs provide deeper and more sustained acid suppression than PPIs, particularly relevant for clarithromycin-based regimens where acid suppression critically affects efficacy.
+The guideline formally endorses [[vonoprazan]] (a potassium-competitive acid blocker [PCAB]) as superior to proton pump inhibitors (PPIs) for acid suppression in H. pylori eradication. Vonoprazan-amoxicillin dual therapy and vonoprazan-amoxicillin-clarithromycin triple therapy received FDA approval in 2022 and are included as recommended first-line options. PCABs provide deeper and more sustained acid suppression than PPIs, particularly relevant for clarithromycin-based regimens where acid suppression critically affects efficacy.
 
-Susceptibility-guided therapy is strongly advocated before using clarithromycin-based or levofloxacin-based regimens. Rifabutin triple therapy, previously only a salvage option, is now positioned as a valid first-line choice when other regimens are contraindicated. The guideline affirms that eradication should be confirmed in all patients using UBT or stool antigen test.
+Susceptibility-guided therapy is strongly advocated before using clarithromycin-based or levofloxacin-based regimens. Rifabutin triple therapy, previously only a salvage option, is now positioned as a valid first-line choice when other regimens are contraindicated. The guideline affirms that eradication should be confirmed in all patients using urea breath test (UBT) or stool antigen test.
 
 ## Key Findings / Claims
 
 **Major paradigm shift from 2017:**
 
-- Clarithromycin triple therapy (PPI + CLR + amoxicillin): **no longer recommended empirically in the US** (national CLR resistance now >15%)
+- Clarithromycin triple therapy (PPI + clarithromycin [CLR] + amoxicillin): **no longer recommended empirically in the US** (national CLR resistance now >15%)
 - BQT upgraded to **Strong recommendation** as empiric first-line therapy
 
 **First-line regimens (2024):**
 
 | Regimen | Components | Duration | Strength |
 |---|---|---|---|
-| **Bismuth quadruple therapy (BQT)** | PPI bid + bismuth subsalicylate 300 mg (or subcitrate 120–300 mg) qid + metronidazole 500 mg tid–qid (1,500–2,000 mg/day) + tetracycline 500 mg qid | 14 days | Strong |
+| **BQT** | PPI twice daily (bid) + bismuth subsalicylate 300 mg (or subcitrate 120–300 mg) four times daily (qid) + metronidazole 500 mg three times daily (tid)–qid (1,500–2,000 mg/day) + tetracycline 500 mg qid | 14 days | Strong |
 | **Vonoprazan dual therapy** | Vonoprazan 20 mg bid + amoxicillin 1 g bid | 14 days | Strong |
 | **Vonoprazan triple therapy** | Vonoprazan 20 mg bid + amoxicillin 1 g bid + clarithromycin 500 mg bid | 14 days | Strong |
 | **Concomitant quadruple therapy** | PPI bid + amoxicillin 1 g bid + clarithromycin 500 mg bid + metronidazole 500 mg bid | 14 days | Conditional |
@@ -55,7 +55,7 @@ Susceptibility-guided therapy is strongly advocated before using clarithromycin-
 
 - Strongly recommended before using clarithromycin- or levofloxacin-based regimens
 - Culture: gold standard; requires endoscopic biopsy, technically demanding
-- Molecular testing (PCR): detects resistance mutations (CLR: 23S rRNA; LVX: gyrA); increasing availability
+- Molecular testing (polymerase chain reaction [PCR]): detects resistance mutations (CLR: 23S rRNA; levofloxacin [LVX]: gyrA); increasing availability
 - Susceptibility-guided therapy achieves eradication rates of 90%+ for susceptible strains
 
 **Salvage therapy (after first-line failure):**
@@ -76,14 +76,14 @@ Susceptibility-guided therapy is strongly advocated before using clarithromycin-
 **[[test-and-treat|Test-and-treat]]:**
 
 - Maintained as strategy for uninvestigated [[dyspepsia]] (<55 years, no alarm features): non-invasive testing then treat if positive
-- All patients with [[peptic-ulcer-disease|PUD]], gastric MALT lymphoma, after endoscopic resection of early [[gastric-adenocarcinoma|gastric cancer]]: test and treat
+- All patients with [[peptic-ulcer-disease|peptic ulcer disease (PUD)]], gastric mucosa-associated lymphoid tissue (MALT) lymphoma, after endoscopic resection of early [[gastric-adenocarcinoma|gastric cancer]]: test and treat
 
 ## Recommendations
 
 | Recommendation | Strength | Evidence Quality |
 |---|---|---|
 | **First-Line Therapy** | | |
-| Bismuth quadruple therapy (BQT): PPI bid + bismuth subsalicylate 300 mg (or subcitrate 120–300 mg) qid + metronidazole 500 mg tid–qid (1,500–2,000 mg/day) + tetracycline 500 mg qid × 14 days | Strong | Moderate |
+| BQT: PPI bid + bismuth subsalicylate 300 mg (or subcitrate 120–300 mg) qid + metronidazole 500 mg tid–qid (1,500–2,000 mg/day) + tetracycline 500 mg qid × 14 days | Strong | Moderate |
 | Vonoprazan dual therapy: vonoprazan 20 mg bid + amoxicillin 1 g bid × 14 days | Strong | Moderate |
 | Vonoprazan triple therapy: vonoprazan 20 mg bid + amoxicillin 1 g bid + clarithromycin 500 mg bid × 14 days | Strong | Moderate |
 | Concomitant quadruple therapy: PPI bid + amoxicillin 1 g bid + clarithromycin 500 mg bid + metronidazole 500 mg bid × 14 days | Conditional | Moderate |

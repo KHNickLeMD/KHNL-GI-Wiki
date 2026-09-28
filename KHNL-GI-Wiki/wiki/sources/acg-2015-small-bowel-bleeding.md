@@ -21,13 +21,13 @@ sources: []
 
 ## Summary
 
-This guideline addresses the diagnosis and management of small bowel bleeding (SBB), proposing replacement of the older term "obscure GI bleeding" (OGIB) with the more anatomically precise term "small bowel bleeding." SBB accounts for approximately 5–10% of all GI bleeding presentations. With the advent of [[capsule-endoscopy|video capsule endoscopy]] (VCE) and [[device-assisted-enteroscopy|device-assisted enteroscopy]] (DAE), the majority (~75%) of patients previously classified as OGIB are now found to have identifiable small bowel sources.
+This guideline addresses the diagnosis and management of small bowel bleeding (SBB), proposing replacement of the older term "obscure gastrointestinal (GI) bleeding" (OGIB) with the more anatomically precise term "small bowel bleeding." SBB accounts for approximately 5–10% of all GI bleeding presentations. With the advent of [[capsule-endoscopy|video capsule endoscopy]] (VCE) and [[device-assisted-enteroscopy|device-assisted enteroscopy]] (DAE), the majority (~75%) of patients previously classified as OGIB are now found to have identifiable small bowel sources.
 
-The guideline establishes a new terminology framework: "small bowel bleeding" applies when a source is found distal to the ampulla of Vater or proximal to the ileocecal valve; "potential small bowel bleeding" applies after normal upper and lower endoscopy but before capsule evaluation; and the term "obscure GI bleeding" is reserved only for cases where no source is found even after comprehensive small bowel evaluation. [[angioectasia|Angioectasia]] is the most common cause of SBB overall; lesion type is age-dependent ([[inflammatory-bowel-disease|inflammatory bowel disease]] and [[meckels-diverticulum|Meckel's diverticulum]] predominate under age 40; angioectasia and NSAID ulcers predominate over age 40).
+The guideline establishes a new terminology framework: "small bowel bleeding" applies when a source is found distal to the ampulla of Vater or proximal to the ileocecal valve; "potential small bowel bleeding" applies after normal upper and lower endoscopy but before capsule evaluation; and the term "obscure GI bleeding" is reserved only for cases where no source is found even after comprehensive small bowel evaluation. [[angioectasia|Angioectasia]] is the most common cause of SBB overall; lesion type is age-dependent ([[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] and [[meckels-diverticulum|Meckel's diverticulum]] predominate under age 40; angioectasia and nonsteroidal anti-inflammatory drug (NSAID) ulcers predominate over age 40).
 
-Diagnostically, VCE is endorsed as the first-line small bowel evaluation after excluding upper and lower sources, with CTE (CT enterography) preferred over MRE for most patients and over conventional barium studies. Deep enteroscopy (DBE, SBE, or spiral enteroscopy) is the tool of choice when both endoscopic evaluation and therapy are required. IOE (intraoperative enteroscopy) is reserved for refractory, multiply transfused patients who cannot undergo deep enteroscopy.
+Diagnostically, VCE is endorsed as the first-line small bowel evaluation after excluding upper and lower sources, with computed tomography enterography (CTE) preferred over magnetic resonance enterography (MRE) for most patients and over conventional barium studies. Deep enteroscopy (double-balloon enteroscopy [DBE], single-balloon enteroscopy [SBE], or spiral enteroscopy) is the tool of choice when both endoscopic evaluation and therapy are required. Intraoperative enteroscopy (IOE) is reserved for refractory, multiply transfused patients who cannot undergo deep enteroscopy.
 
-Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is first-line when a bleeding source is found. Iron supplementation (oral or IV) is recommended when no source is identified. Medical options for refractory vascular lesions include somatostatin analogs (octreotide) and antiangiogenic therapy (thalidomide). Hormonal therapy has not been shown to be effective. Surgical intervention is a last resort, greatly aided by presurgical tattoo marking of the lesion.
+Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is first-line when a bleeding source is found. Iron supplementation (oral or intravenous [IV]) is recommended when no source is identified. Medical options for refractory vascular lesions include somatostatin analogs (octreotide) and antiangiogenic therapy (thalidomide). Hormonal therapy has not been shown to be effective. Surgical intervention is a last resort, greatly aided by presurgical tattoo marking of the lesion.
 
 ---
 
@@ -35,7 +35,7 @@ Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is f
 
 ### Definition of Overt or Occult Small Bowel Bleeding — Summary Statements
 
-*(Summary statements are descriptive and carry no GRADE rating)*
+*(Summary statements are descriptive and carry no Grading of Recommendations Assessment, Development and Evaluation [GRADE] rating)*
 
 1. A source of small bowel bleeding should be considered in patients with overt or occult GI hemorrhage after performance of a normal upper and lower endoscopic examination.
 2. Patients should be classified as having small bowel bleeding if a source of bleeding is identified distal to the ampulla of Vater and/or proximal to the ileocecal valve.
@@ -58,7 +58,7 @@ Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is f
 2. **Second-look colonoscopy** should be considered in the setting of recurrent hematochezia or if a lower source is suspected. *(Conditional recommendation, very low level of evidence.)*
 3. If the second-look examinations are normal, **the next step should be a small bowel evaluation**. *(Strong recommendation, moderate level of evidence.)*
 4. **Push enteroscopy** can be performed as a second-look examination in the evaluation of suspected small bowel bleeding. *(Conditional recommendation, moderate level of evidence.)*
-5. **Video capsule endoscopy (VCE)** should be considered as a first-line procedure for SB evaluation after upper and lower GI sources have been excluded, including second-look endoscopy when indicated. *(Strong recommendation, moderate level of evidence.)*
+5. **Video capsule endoscopy (VCE)** should be considered as a first-line procedure for SB [small bowel] evaluation after upper and lower GI sources have been excluded, including second-look endoscopy when indicated. *(Strong recommendation, moderate level of evidence.)*
 6. Owing to the lower detection rate of lesions in the duodenum and proximal jejunum with VCE, **push enteroscopy should be performed if proximal lesions are suspected**. *(Strong recommendation, very low level of evidence.)*
 7. **Total deep enteroscopy** should be attempted if there is a strong suspicion of a small bowel lesion based on clinical presentation or abnormal VCE study. *(Strong recommendation, moderate level of evidence.)*
 8. **Any method of deep enteroscopy** can be used when endoscopic evaluation and therapy is required based on similar diagnostic yields. *(Strong recommendation, high level of evidence.)*
@@ -69,7 +69,7 @@ Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is f
 
 11. **Barium studies should not be performed** in the evaluation of small bowel bleeding. *(Strong recommendation, high level of evidence.)*
 12. **Computed tomographic enterography (CTE)** should be performed in patients with suspected small bowel bleeding and negative capsule endoscopy because of higher sensitivity for the detection of mural-based small bowel masses, superior capability to locate small bowel masses, and ability to guide subsequent deep enteroscopy. *(Strong recommendation, low level of evidence.)*
-13. **CT is preferred over magnetic resonance (MR) imaging** for the evaluation of suspected small bowel bleeding. MR can be considered in patients with contraindications for CT or to avoid radiation exposure in younger patients. *(Conditional recommendation, very low level of evidence.)*
+13. **CT [computed tomography] is preferred over magnetic resonance (MR) imaging** for the evaluation of suspected small bowel bleeding. MR can be considered in patients with contraindications for CT or to avoid radiation exposure in younger patients. *(Conditional recommendation, very low level of evidence.)*
 14. **CTE could be considered before VCE** in the setting of established inflammatory bowel disease, prior radiation therapy, previously small bowel surgery, and/or suspected small bowel stenosis. *(Strong recommendation, very low level of evidence.)*
 15. In patients with suspected small bowel bleeding and negative VCE examination, **CTE should be performed if there is high clinical suspicion for a small bowel source** despite performance of a prior standard CT of the abdomen. *(Conditional recommendation, very low level of evidence.)*
 16. In acute overt massive GI bleeding, **conventional angiography should be performed emergently** for hemodynamically unstable patients. *(Strong recommendation, low level of evidence.)*
@@ -84,7 +84,7 @@ Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is f
 
 23. If a source of bleeding is found by VCE and/or deep enteroscopy in the small intestine that is associated with significant ongoing anemia or active bleeding, then **the patient should be managed with endoscopic therapy**. *(Strong recommendation, low level of evidence.)*
 24. If after appropriate small bowel investigation **no source of bleeding is found**, the patient should be managed conservatively with oral iron or by intravenous infusion as is dictated by the severity and persistence of the associated iron-deficiency anemia. In this context, a small vascular lesion found on capsule endoscopy does not always need treatment. *(Strong recommendation, very low level of evidence.)*
-25. If bleeding persists in either of the above situations with worsening anemia, **a further diagnostic workup should include a repeated upper and lower endoscopy, video capsule examination, deep enteroscopy, CT or MRI enterography** as is appropriate for the clinical situation and availability of investigative devices. *(Strong recommendation, low level of evidence.)*
+25. If bleeding persists in either of the above situations with worsening anemia, **a further diagnostic workup should include a repeated upper and lower endoscopy, video capsule examination, deep enteroscopy, CT or MRI [magnetic resonance imaging] enterography** as is appropriate for the clinical situation and availability of investigative devices. *(Strong recommendation, low level of evidence.)*
 26. If bleeding persists or recurs or a lesion cannot be localized, **consideration may be given to medical treatment with iron, somatostatin analogs, or antiangiogenic therapy**. *(Strong recommendation, moderate level of evidence.)*
 27. **Anticoagulation and/or antiplatelet therapy should be discontinued** if possible in patients with small bowel hemorrhage. *(Conditional recommendation, very low level of evidence.)*
 28. **Surgical intervention** in massive small bowel bleeding may be useful, but is greatly aided with presurgical localization of the site of bleeding by **marking the lesion with a tattoo**. *(Strong recommendation, low level of evidence.)*
@@ -102,7 +102,7 @@ Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is f
 
 **Terminology**
 
-- "Small bowel bleeding" replaces "obscure GI bleeding (OGIB)" as the preferred term when a small bowel source is identified; OGIB is reserved only for cases where no source is found after comprehensive evaluation including VCE/enteroscopy/radiography.
+- "Small bowel bleeding" replaces "OGIB" as the preferred term when a small bowel source is identified; OGIB is reserved only for cases where no source is found after comprehensive evaluation including VCE/enteroscopy/radiography.
 - Three stages: potential SBB (post-upper/lower scope, pre-capsule) → SBB (source confirmed in SB) → OGIB (no source found after full evaluation).
 
 **Epidemiology and Causes**
@@ -112,14 +112,14 @@ Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is f
 - Geographic difference: DBE in Asian countries more often finds **neoplastic** lesions; angioectasia is more common in Western countries.
 - Under age 40: IBD and Meckel's diverticulum predominate; over age 40: angioectasia and NSAID ulcers.
 - [[heydes-syndrome|Heyde's syndrome]]: aortic stenosis + angioectasia, mediated by acquired type 2 von Willebrand deficiency; aortic valve replacement may resolve bleeding.
-- LVAD-associated von Willebrand deficiency causes recurrent angioectasia bleeding.
+- Left ventricular assist device (LVAD)-associated von Willebrand deficiency causes recurrent angioectasia bleeding.
 
 **Diagnostic Yields**
 
-- VCE: complete evaluation of the entire small bowel in **79–90%** of patients; diagnostic yield **38–83%** for suspected SBB; **positive predictive value 94–97%**, **negative predictive value 83–100%** in the evaluation of GI bleeding. *(These are PPV/NPV in the source — not sensitivity/specificity.)*
+- VCE: complete evaluation of the entire small bowel in **79–90%** of patients; diagnostic yield **38–83%** for suspected SBB; **positive predictive value (PPV) 94–97%**, **negative predictive value (NPV) 83–100%** in the evaluation of GI bleeding. *(These are PPV/NPV in the source — not sensitivity/specificity.)*
 - VCE **false-negative rate**: the guideline prints **two different figures** in two sections — **10–36%** (VCE limitations, refs 59–60) and **11% for all SB findings, up to 19% for neoplasms** (VCE-guided DBE section). See *Contradictions / Open Questions*.
 - VCE **rebleeding after a negative study: 6–27%**.
-- Second-look yield: **2–25%** on repeat EGD, **6–23%** on repeat colonoscopy.
+- Second-look yield: **2–25%** on repeat esophagogastroduodenoscopy (EGD), **6–23%** on repeat colonoscopy.
 - DBE: diagnostic yield 60–80%; therapeutic success 40–73%.
 - Push enteroscopy: reaches only ~70 cm distal to the ligament of Treitz (45–60 cm with a colonoscope, ~90 cm with a variable-stiffness scope); diagnostic yield 3–70%; most lesions found within reach of standard [[upper-endoscopy|EGD]] (emphasizing second-look value).
 - CTE: **pooled yield 40% vs. 53% for VCE** (meta-analysis of 18 studies) — complementary. *(The source reports yield, not sensitivity.)*
@@ -134,13 +134,13 @@ The choice among angiography, CTA and scintigraphy is a threshold decision, and 
 |---|---|
 | **CT angiography (CTA)** | as slow as **0.3 ml/min** |
 | **Conventional angiography** | **0.5–1.0 ml/min** |
-| **⁹⁹ᵐTc tagged-RBC scintigraphy** | **0.2 ml/min** |
+| **⁹⁹ᵐTc tagged–red blood cell (RBC) scintigraphy** | **0.2 ml/min** |
 
 Recommendation 18's "slower rates of bleeding (0.1–0.2 ml/min)" sits at the bottom of this range — i.e. below what CTA or catheter angiography will see, which is why scintigraphy is the test named there.
 
 **Predictors of a positive VCE**
 
-- Hemoglobin <10 g/dl; bleeding duration >6 months; more than one bleeding episode.
+- Hemoglobin (Hgb) <10 g/dl; bleeding duration >6 months; more than one bleeding episode.
 - **Overt vs. occult bleeding: 60% vs. 46%.**
 - **VCE within 2 weeks of the bleeding episode: 91% vs. 34%.**
 - Also independent predictors: male sex, age >60 y, inpatient status; cardiac and renal comorbidities.
@@ -154,16 +154,16 @@ Recommendation 18's "slower rates of bleeding (0.1–0.2 ml/min)" sits at the bo
 
 **Treatment**
 
-- Argon plasma coagulation (APC) "has been primarily used as the treatment of choice" since 2001, replacing mono/bipolar electrocoagulation probes and Nd:YAG laser.
+- Argon plasma coagulation (APC) "has been primarily used as the treatment of choice" since 2001, replacing mono/bipolar electrocoagulation probes and neodymium-doped yttrium aluminum garnet (Nd:YAG) laser.
 - **Rebleeding after endoscopic treatment of small-bowel vascular lesions** — the guideline reports these figures, and states outcomes "have been disappointing" with no significant decline despite deep enteroscopy:
-  - Meta-analysis of 14 studies / 623 subjects treated endoscopically: **pooled rebleeding 34% (95% CI 27–42%)** at a mean of 22 ± 13 months; **rises to 45%** when restricted to the 341 patients with small-bowel angioectasia.
+  - Meta-analysis of 14 studies / 623 subjects treated endoscopically: **pooled rebleeding 34% (95% confidence interval [CI] 27–42%)** at a mean of 22 ± 13 months; **rises to 45%** when restricted to the 341 patients with small-bowel angioectasia.
   - French retrospective cohort (APC via DBE, 129/133 treated successfully): **46% (45/98) rebled at 36 months**.
   - Two-center DBE series (n=274): at 12 months **23% recurrent overt bleeding**, 35% ongoing iron/transfusion need; at a mean of 30 months, **24% further overt bleeding**, 18% ongoing iron/transfusion need.
   - **No trial has compared endoscopic therapy of angioectasia with sham**, so recurrence is used as a surrogate for effectiveness.
 - **Risk factors for recurrent bleeding from small-bowel angioectasia:** number of vascular lesions, age >65 y, jejunal location, cardiac valvular disease, chronic renal disease, anticoagulant use, and need for transfusion.
-- **Somatostatin analogs (octreotide)** — the guideline prints the protocol from the largest series (n=98, retrospective): **octreotide 100 µg subcutaneously three times daily for 1 month; at 2 weeks, depot 20 mg monthly for 6 months.** Reduced transfusion requirements over a mean 78-month follow-up — 40% complete responders, 32% partial, 26% non-responders. Independent predictors of poor outcome: age >65 y, male sex, antiplatelet therapy, COPD, chronic renal failure. A meta-analysis "confirms the value of octreotide and its analogs."
+- **Somatostatin analogs (octreotide)** — the guideline prints the protocol from the largest series (n=98, retrospective): **octreotide 100 µg subcutaneously three times daily for 1 month; at 2 weeks, depot 20 mg monthly for 6 months.** Reduced transfusion requirements over a mean 78-month follow-up — 40% complete responders, 32% partial, 26% non-responders. Independent predictors of poor outcome: age >65 y, male sex, antiplatelet therapy, chronic obstructive pulmonary disease (COPD), chronic renal failure. A meta-analysis "confirms the value of octreotide and its analogs."
 - **Thalidomide** — randomized **open-label** controlled trial, in patients with **≥6 bleeding episodes**: **thalidomide 25 mg four times daily vs. iron 100 mg daily for 4 months**, ≥12-month follow-up. Primary endpoint (≥50% reduction in bleeding episodes) met in **20/28 (71%) vs. 1/27 (4%), p<0.001**. Adverse events (fatigue, constipation, somnolence) in **73%** vs. 34% on iron. A separate 2012 study used **200 mg daily for 4 months** with response in 9/12 (75%); mean Hgb rose 6.5 → 12.1 g/dl, 3 patients withdrawn for side effects.
-- Hormonal therapy: multicenter RCT showed no benefit vs. placebo; not recommended.
+- Hormonal therapy: multicenter randomized controlled trial (RCT) showed no benefit vs. placebo; not recommended.
 - Surgical therapy: generally last resort; right hemicolectomy historically for right-sided diverticulosis; modern approach combines IOE + angiographic localization + intraoperative tattooing.
 
 ---
@@ -173,7 +173,7 @@ Recommendation 18's "slower rates of bleeding (0.1–0.2 ml/min)" sits at the bo
 - **Creates:** [[small-bowel-bleeding]] (new diagnostic schema, `wiki/2-diagnostic-schemas/`)
 - **Related pages:** [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[angioectasia]], [[meckels-diverticulum]], [[heydes-syndrome]]
 - **Cross-links to:** [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[subepithelial-lesion]], [[celiac-disease]], [[crohns-disease]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]]
-- Celiac disease: this guideline explicitly states celiac disease is no longer listed as a cause of SBB (it causes IDA through malabsorption, not occult GI hemorrhage).
+- Celiac disease: this guideline explicitly states celiac disease is no longer listed as a cause of SBB (it causes iron-deficiency anemia [IDA] through malabsorption, not occult GI hemorrhage).
 
 ---
 

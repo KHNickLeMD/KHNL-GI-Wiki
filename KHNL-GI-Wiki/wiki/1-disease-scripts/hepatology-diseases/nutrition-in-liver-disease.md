@@ -45,7 +45,7 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 **Royal Free Hospital Nutrition Prioritizing Tool (RFH-NPT)** — the screening tool **most consistently associated with a diagnosis of malnutrition** in cirrhosis across the evaluated tools ([[aasld-2021-malnutrition-cirrhosis]]). Classifies into **low / moderate / high** nutritional risk on three inputs:
 
 1. Presence of acute hepatitis **or** need for enteral nutritional support
-2. Low BMI, unexplained weight loss, **or** maintenance of volitional nutritional intake
+2. Low body mass index (BMI), unexplained weight loss, **or** maintenance of volitional nutritional intake
 3. Whether fluid overload interferes with the ability to eat
 
 - **High risk** → worse outcomes: reduced survival, worsened liver function, reduced quality of life. **Improvement in the RFH-NPT is associated with improved survival** — so it is a repeatable measure, not a one-off.
@@ -62,13 +62,13 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 | Liver Frailty Index (LFI) | Cirrhosis-specific, ~3 min, ambulatory **and** inpatient. Composite of grip strength + timed chair stands + balance testing; changes in LFI track outcomes. Cut-points below. [[aasld-2021-malnutrition-cirrhosis]] |
 | 6-minute walk test, sit-to-stand test | Contractile function; predicts outcomes |
 | Bioelectrical impedance | Improving; validates well against gold-standard body potassium |
-| CT at L3 level | **Most consistent and reproducible** method to quantify muscle mass in cirrhosis; skeletal muscle index (SMI) cut-points below. **Do not order CT solely for muscle mass** (radiation) — quantify when an abdominal CT is obtained for clinical care, or when contractile-function testing is impractical (acutely ill, very young). MRI theoretically equivalent but **not validated** in cirrhosis. No bedside tool has sufficient data to substitute. [[aasld-2021-malnutrition-cirrhosis]] |
+| Computed tomography (CT) at L3 level | **Most consistent and reproducible** method to quantify muscle mass in cirrhosis; skeletal muscle index (SMI) cut-points below. **Do not order CT solely for muscle mass** (radiation) — quantify when an abdominal CT is obtained for clinical care, or when contractile-function testing is impractical (acutely ill, very young). Magnetic resonance imaging (MRI) theoretically equivalent but **not validated** in cirrhosis. No bedside tool has sufficient data to substitute. [[aasld-2021-malnutrition-cirrhosis]] |
 | Subjective global assessment (SGA) | Requires training; "truly subjective" per [[acg-2025-liver-nutrition]]. Classes not defined here — see note below |
 | Serum albumin/prealbumin | Unreliable as nutritional markers (synthesized by liver) |
 
-> **SGA classes are not defined on this page.** [[acg-2025-liver-nutrition]] and [[aasld-2021-malnutrition-cirrhosis]] both use SGA without printing its **A / B / C classes or its history-and-physical domains**. [[hepatic-cysts]] conditions **MELD-exception eligibility** on an SGA-C score (alongside **GLIM**, **ASPEN**, and **NFPE** criteria, likewise not defined here); use the primary SGA instrument (Detsky) and the GLIM/ASPEN consensus criteria to assign the class.
+> **SGA classes are not defined on this page.** [[acg-2025-liver-nutrition]] and [[aasld-2021-malnutrition-cirrhosis]] both use SGA without printing its **A / B / C classes or its history-and-physical domains**. [[hepatic-cysts]] conditions **Model for End-Stage Liver Disease (MELD)-exception eligibility** on an SGA-C score (alongside **Global Leadership Initiative on Malnutrition (GLIM)**, **American Society for Parenteral and Enteral Nutrition (ASPEN)**, and **Nutrition Focused Physical Examination (NFPE)** criteria, likewise not defined here); use the primary SGA instrument (Detsky) and the GLIM/ASPEN consensus criteria to assign the class.
 >
-> **NRS-2002** is not used by either liver-specific source; its full scoring table lives on [[nutrition-in-hospitalized-patients]] ([[acg-2016-nutrition-hospitalized]] Table 5) — link there rather than restating it.
+> **Nutritional Risk Screening 2002 (NRS-2002)** is not used by either liver-specific source; its full scoring table lives on [[nutrition-in-hospitalized-patients]] ([[acg-2016-nutrition-hospitalized]] Table 5) — link there rather than restating it.
 
 ### Definitions
 
@@ -82,11 +82,11 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 
 | Metric | Bands | What it predicts |
 |---|---|---|
-| **Liver Frailty Index** | **Robust <3.2** · **Prefrail 3.2–4.3** · **Frail ≥4.4** | Frailty severity; one of only two tools (with KPS) whose *longitudinal* change has been tied to outcomes in cirrhosis. Each **0.1-unit** change in LFI is an increment of risk |
-| **CT skeletal muscle index (L3)** | Sarcopenic if **<39 cm²/m² in women**, **<50 cm²/m² in men** | **Waitlist mortality.** Derived in ~400 North American LT candidates, validated in a separate all-White cohort — ⚠ derivation cohort predominantly non-Hispanic and Hispanic White; validation in more diverse cohorts still needed |
-| **Karnofsky Performance Status (KPS)** | **High 80–100** · **Moderate 50–70** · **Low 10–40** | Performance status; longitudinally validated in cirrhosis |
+| **Liver Frailty Index** | **Robust <3.2** · **Prefrail 3.2–4.3** · **Frail ≥4.4** | Frailty severity; one of only two tools (with Karnofsky Performance Status [KPS]) whose *longitudinal* change has been tied to outcomes in cirrhosis. Each **0.1-unit** change in LFI is an increment of risk |
+| **CT skeletal muscle index (L3)** | Sarcopenic if **<39 cm²/m² in women**, **<50 cm²/m² in men** | **Waitlist mortality.** Derived in ~400 North American liver transplantation (LT) candidates, validated in a separate all-White cohort — ⚠ derivation cohort predominantly non-Hispanic and Hispanic White; validation in more diverse cohorts still needed |
+| **KPS** | **High 80–100** · **Moderate 50–70** · **Low 10–40** | Performance status; longitudinally validated in cirrhosis |
 
-- Pooled CT-defined sarcopenia (across heterogeneous cut-points, 2000–2015): waitlist mortality **HR 1.72** (95% CI 0.99–3.00), post-transplant mortality **HR 1.84** (1.11–3.05).
+- Pooled CT-defined sarcopenia (across heterogeneous cut-points, 2000–2015): waitlist mortality **hazard ratio (HR) 1.72** (95% confidence interval [CI] 0.99–3.00), post-transplant mortality **HR 1.84** (1.11–3.05).
 - ⚠ **The guidance stops short of recommending a specific threshold for intervention** — it grades severity but does not name an LFI or SMI value at which a given therapy is triggered.
 
 ---
@@ -101,10 +101,10 @@ Malnutrition in liver disease is multifactorial:
 - [[nausea-and-vomiting|Nausea, vomiting]], [[gastroparesis|delayed gastric emptying]]
 - [[chronic-diarrhea|Diarrhea]]/malabsorption/[[small-intestinal-bacterial-overgrowth|bacterial overgrowth]]
 - Unpalatable sodium-restricted or protein-restricted diets
-- Hormonal (decreased testosterone) and cytokine (TNF) effects
-- Complications of liver disease: [[ascites]], [[hepatic-encephalopathy|HE]] impairing dietary intake
+- Hormonal (decreased testosterone) and cytokine (tumor necrosis factor [TNF]) effects
+- Complications of liver disease: [[ascites]], [[hepatic-encephalopathy|hepatic encephalopathy (HE)]] impairing dietary intake
 - Fasting for procedures; interruption of [[nutrition-in-hospitalized-patients|feeding in hospital]]
-- Alcohol calories ("empty calories") replacing protein-rich food in AUD
+- Alcohol calories ("empty calories") replacing protein-rich food in alcohol use disorder (AUD)
 
 ---
 
@@ -112,7 +112,7 @@ Malnutrition in liver disease is multifactorial:
 
 ### Labs
 
-- CBC, CMP (albumin reflects synthetic function, not nutritional status)
+- Complete blood count (CBC), comprehensive metabolic panel (CMP) (albumin reflects synthetic function, not nutritional status)
 - Zinc level (hypozincemia common in cirrhosis)
 - Vitamin D level
 - Consider: ammonia (in HE management context)
@@ -132,14 +132,14 @@ Malnutrition in liver disease is multifactorial:
 | **Calories** | **≥35 kcal/kg/day** (non-obese cirrhosis) [[aasld-2021-malnutrition-cirrhosis]] |
 | **Protein** | **1.2–1.5 g/kg/day** — do **NOT** protein-restrict, even with [[hepatic-encephalopathy\|HE]] [[aasld-2021-malnutrition-cirrhosis]] |
 
-- Critically ill / [[acute-on-chronic-liver-failure|ACLF]] inpatients use different (weight-based, IBW) targets — initial 12–25 kcal/kg IBW/day, protein 1.2–2.0 g/kg IBW/day; see [[acute-on-chronic-liver-failure]].
+- Critically ill / [[acute-on-chronic-liver-failure|acute-on-chronic liver failure (ACLF)]] inpatients use different (weight-based, ideal body weight [IBW]) targets — initial 12–25 kcal/kg IBW/day, protein 1.2–2.0 g/kg IBW/day; see [[acute-on-chronic-liver-failure]].
 
 ### Core Nutritional Principles (Stable Outpatient Cirrhosis)
 
 - **Small frequent meals** — avoid prolonged fasting (depleted glycogen → starvation within hours)
 - **Late evening snack (7–10 PM):** counsel all cirrhotics — improves BMI, lean muscle mass, reduces risk of ascites and HE (Strong/Moderate) [[acg-2025-liver-nutrition]]
-- **Coffee ≥2 cups/day** — reduces hepatic fibrosis progression and [[hepatocellular-carcinoma|HCC]] development risk (Conditional/Low)
-- **Low-fructose diet** — all stages of CLD; high fructose drives hepatic de novo lipogenesis, insulin resistance, [[nafld-masld|MASLD]]/fibrosis
+- **Coffee ≥2 cups/day** — reduces hepatic fibrosis progression and [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] development risk (Conditional/Low)
+- **Low-fructose diet** — all stages of chronic liver disease (CLD); high fructose drives hepatic de novo lipogenesis, insulin resistance, [[nafld-masld|metabolic dysfunction-associated steatotic liver disease (MASLD)]]/fibrosis
 
 ### Nutritional Supplementation
 
@@ -151,13 +151,13 @@ Malnutrition in liver disease is multifactorial:
 
 ### Disease-Specific Nutritional Recommendations
 
-**MASH without cirrhosis:**
+**Metabolic dysfunction-associated steatohepatitis (MASH) without cirrhosis:**
 
 - Natural vitamin E 800 IU/day (Conditional/Low) — reduces hepatic inflammation; not studied in MASH with cirrhosis
 - Lifestyle modification (diet + exercise): decreases adverse clinical outcomes; encourage **independent of MASH disease severity** (Key Concept 15). ⚠ Data that lifestyle modification **reverses hepatic fibrosis** are **limited** (Key Concept 16) — set expectations accordingly
 - Dysbiosis is associated with development/progression of many forms of liver disease (Key Concept 6)
 
-**[[hepatic-encephalopathy|Hepatic Encephalopathy]] (HE):**
+**[[hepatic-encephalopathy|Hepatic Encephalopathy]]:**
 
 - **Do NOT restrict dietary protein** in decompensated cirrhosis with HE (Conditional/Very low) — protein restriction worsens sarcopenia without improving HE
 - Vegetable-source protein preferred over animal protein in HE with nutritional supplementation — better tolerated (Conditional/Low)
@@ -182,7 +182,7 @@ Malnutrition in liver disease is multifactorial:
 
 - Reassess frailty/sarcopenia every 3–6 months in cirrhosis (changes detectable at 3–6 months by CT)
 - Monitor for anorexia/malnutrition at each visit — interventions indicated with poor dietary intake
-- In ALD/AAH: formal dietary assessment
+- In alcohol-associated liver disease (ALD)/AAH: formal dietary assessment
 - Pre/post-[[liver-transplantation|liver transplant]]: structured sarcopenia assessment and rehabilitation programs
 
 ---

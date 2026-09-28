@@ -30,7 +30,7 @@ sources: [aga-2022-lean-nafld, aasld-2023-nafld, aga-2021-lifestyle-modification
 
 ---
 
-*Lean NAFLD is the normal-BMI phenotype of [[nafld-masld|NAFLD/MASLD]]. This page carries what is specific to it; the general MASLD definition, nomenclature, cut-points, and F2–F3 pharmacotherapy live on [[nafld-masld]].*
+*Lean nonalcoholic fatty liver disease (NAFLD) is the normal-body mass index (BMI) phenotype of [[nafld-masld|NAFLD/metabolic dysfunction-associated steatotic liver disease (MASLD)]]. This page carries what is specific to it; the general MASLD definition, nomenclature, cut-points, and F2–F3 pharmacotherapy live on [[nafld-masld]].*
 
 *[[aga-2022-lean-nafld]] issues **15 numbered Best Practice Advice (BPA) statements** and is **ungraded** — it attaches no evidence grade or strength of recommendation to any statement. BPA numbers below are the source's own.*
 
@@ -48,16 +48,16 @@ sources: [aga-2022-lean-nafld, aasld-2023-nafld, aga-2021-lifestyle-modification
 | **Asian race** | **<23 kg/m²** |
 
 - Lean NAFLD = NAFLD **in an individual who does not have an overweight or obese BMI**.
-- Reference bands behind the cut-points: CDC/WHO normal range **18.5–24.9 kg/m²** · overweight **25–29.9** · grade 1 obesity **30–34.9**. WHO applies a lower cutoff for **Asian ancestry — overweight 23–27.5, obesity >27.5 kg/m²** — recognizing metabolic risk at a lower BMI.
+- Reference bands behind the cut-points: Centers for Disease Control and Prevention (CDC)/World Health Organization (WHO) normal range **18.5–24.9 kg/m²** · overweight **25–29.9** · grade 1 obesity **30–34.9**. WHO applies a lower cutoff for **Asian ancestry — overweight 23–27.5, obesity >27.5 kg/m²** — recognizing metabolic risk at a lower BMI.
 - Term **lean NAFLD** (normal-range BMI with race-based cutoffs) is preferred over *nonobese NAFLD*, though the two are often used interchangeably.
-- ⚠ Supersedes the **≤25 / ≤23 kg/m²** "normal-weight NAFLD" definition in [[aga-2021-lifestyle-modification-nafld]] (both are AGA Clinical Practice Updates; 2022 is newer). The practical divergence is confined to a BMI of exactly 25.0 or 23.0.
-- The update predates the MASLD/MASH nomenclature change; given >99% overlap between NAFLD- and MASLD-defined populations, its advice applies to lean MASLD.
+- ⚠ Supersedes the **≤25 / ≤23 kg/m²** "normal-weight NAFLD" definition in [[aga-2021-lifestyle-modification-nafld]] (both are American Gastroenterological Association [AGA] Clinical Practice Updates; 2022 is newer). The practical divergence is confined to a BMI of exactly 25.0 or 23.0.
+- The update predates the MASLD/metabolic dysfunction-associated steatohepatitis (MASH) nomenclature change; given >99% overlap between NAFLD- and MASLD-defined populations, its advice applies to lean MASLD.
 
 **Epidemiology:**
 
 - **7%–20%** of people with NAFLD are lean; at 10%–20% this is **≈8–10 million US adults**.
-- Global NAFLD/NASH Registry: ~**6.8%** of biopsy-confirmed NASH is lean — older, more often Asian, fewer metabolic-syndrome components, but **similar risk for advanced fibrosis**.
-- NHANES III: **10.8%** of lean individuals had evidence of NAFLD — older, more frequently men.
+- Global NAFLD/NASH Registry: ~**6.8%** of biopsy-confirmed nonalcoholic steatohepatitis (NASH) is lean — older, more often Asian, fewer metabolic-syndrome components, but **similar risk for advanced fibrosis**.
+- National Health and Nutrition Examination Survey (NHANES) III: **10.8%** of lean individuals had evidence of NAFLD — older, more frequently men.
 
 **Natural history — lean is not a benign phenotype:**
 
@@ -70,9 +70,9 @@ sources: [aga-2022-lean-nafld, aasld-2023-nafld, aga-2021-lifestyle-modification
 **Who to screen (BPA 4, 5):**
 
 - **Do NOT screen the lean general population** — NAFLD prevalence among lean individuals is relatively low.
-- **DO screen lean individuals older than 40 years with T2DM**, then risk-stratify for advanced fibrosis.
+- **DO screen lean individuals older than 40 years with type 2 diabetes mellitus (T2DM)**, then risk-stratify for advanced fibrosis.
 - Consider NAFLD **across the BMI range** in anyone with metabolic disease (T2DM, dyslipidemia, hypertension), elevated liver biochemical tests, or incidentally noted hepatic steatosis. **The initial diagnostic approach is the same for lean and nonlean patients**; elevated liver chemistries get the standard evaluation, including for [[drug-induced-liver-injury]] and chronic liver disease (see [[abnormal-liver-chemistries]]).
-- Society positions differ: EASL/EASD/EASO screen all patients with obesity or metabolic syndrome; ADA evaluates for NASH/fibrosis in T2DM with elevated liver tests or fatty liver on ultrasound; **AASLD does not endorse NAFLD screening** and cites limited cost-effectiveness in T2DM. The AGA position here is the narrow middle.
+- Society positions differ: European Association for the Study of the Liver (EASL)/European Association for the Study of Diabetes (EASD)/European Association for the Study of Obesity (EASO) screen all patients with obesity or metabolic syndrome; the American Diabetes Association (ADA) evaluates for NASH/fibrosis in T2DM with elevated liver tests or fatty liver on ultrasound; **the American Association for the Study of Liver Diseases (AASLD) does not endorse NAFLD screening** and cites limited cost-effectiveness in T2DM. The AGA position here is the narrow middle.
 
 ### Severity Assessment
 
@@ -82,24 +82,24 @@ sources: [aga-2022-lean-nafld, aasld-2023-nafld, aga-2021-lifestyle-modification
 
 ```mermaid
 flowchart TD
-    A["Suspected lean NAFLD<br/>(based on imaging or comorbidities)"] --> B["AST or ALT abnormal"]
+    A["Suspected lean NAFLD<br/>(based on imaging or comorbidities)"] --> B["Aspartate aminotransferase (AST) or<br/>alanine aminotransferase (ALT) abnormal"]
     A --> C["AST or ALT normal"]
-    B --> D["Rule out other liver diseases:<br/>DILI, viral hepatitis, hemochromatosis,<br/>autoimmune hepatitis, cholestasis"]
+    B --> D["Rule out other liver diseases:<br/>drug-induced liver injury (DILI), viral hepatitis, hemochromatosis,<br/>autoimmune hepatitis, cholestasis"]
     D --> E["Consider alternative diagnoses<br/>(see Table 1)"]
     C --> E
     E --> F["Diagnose lean NAFLD"]
     F --> G["Cardiometabolic risk factor assessment"]
     G --> H["Aggressive risk factor modification"]
     G --> I["Assess for high-risk NAFLD"]
-    I --> J["FIB-4 ≥ 2.67"]
+    I --> J["Fibrosis-4 index (FIB-4) ≥ 2.67"]
     I --> K["FIB-4 1.3–2.66"]
     I --> L["FIB-4 &lt; 1.3"]
-    K --> N["Perform 2nd NIT:<br/>ELF or VCTE"]
+    K --> N["Perform 2nd noninvasive test (NIT):<br/>Enhanced Liver Fibrosis (ELF) or<br/>vibration-controlled transient elastography (VCTE)"]
     N --> O["ELF ≥ 9.8 or<br/>VCTE ≥ 8.6 kPa"]
     N --> P["ELF &lt; 9.8 or<br/>VCTE &lt; 8.6 kPa"]
     J --> M["Referral to hepatology"]
     O --> M
-    M --> Q["Assess for at-risk NASH and confirm fibrosis:<br/>liver biopsy vs NIT for at-risk NASH<br/>(FAST, NIS-4, MRE, MAST, MEFIB-4, cT1)<br/>or fibrosis (VCTE, MRE)"]
+    M --> Q["Assess for at-risk NASH and confirm fibrosis:<br/>liver biopsy vs NIT for at-risk NASH<br/>(FAST, NIS-4, magnetic resonance elastography (MRE),<br/>MAST, MEFIB-4, cT1)<br/>or fibrosis (VCTE, MRE)"]
     Q --> R["Confirmed or high risk"]
     Q --> S["Low risk"]
     R --> T["Weight loss 3%–5%, exercise, avoid fructose<br/>Consider vitamin E or pioglitazone<br/>Consider clinical trials<br/>Reassess and monitor progression every 6–12 months"]
@@ -124,7 +124,7 @@ flowchart TD
 
 **Sequential testing is the point (BPA 11).** Two serologic tests, or a serologic plus an imaging test, minimize indeterminate results and improve accuracy:
 
-- FIB-4 → TE in English primary-care clinics: **nearly 7-fold increased diagnostic rate** for advanced fibrosis.
+- FIB-4 → transient elastography (TE) in English primary-care clinics: **nearly 7-fold increased diagnostic rate** for advanced fibrosis.
 - Meta-analysis >**5700** patients: sequential FIB-4 + TE improved both sensitivity and specificity for ruling advanced fibrosis in or out.
 - A **FIB-4 + ELF** care pathway reduced referral of patients with mild disease.
 - Data specific to lean NAFLD are limited, but sequential serum + elastography testing may increase NIT accuracy in this population.
@@ -135,13 +135,13 @@ flowchart TD
 
 *Workup: see [[abnormal-liver-chemistries]].*
 
-Lean NAFLD is a diagnosis of exclusion in a body habitus that does not itself explain steatosis, so the secondary-cause differential is wider than in nonlean NAFLD (BPA 7). Causes of **lean NAFLD itself** include diet (high-fructose, high-fat), changes in fat distribution (visceral obesity), and changes in body composition (lipodystrophy in HIV and non-HIV persons).
+Lean NAFLD is a diagnosis of exclusion in a body habitus that does not itself explain steatosis, so the secondary-cause differential is wider than in nonlean NAFLD (BPA 7). Causes of **lean NAFLD itself** include diet (high-fructose, high-fat), changes in fat distribution (visceral obesity), and changes in body composition (lipodystrophy in human immunodeficiency virus [HIV] and non-HIV persons).
 
 ### Table 1 — Potential Secondary Causes of Fatty Liver in Lean Individuals
 
 | Liver-related | Systemic |
 |---|---|
-| **Specific liver conditions**<br/>· Chronic [[hepatitis-c\|hepatitis C]] (especially genotype 3)<br/>· [[wilson-disease\|Wilson's disease]]<br/>· A1 antitrypsin<br/>· Liver diseases of pregnancy — [[acute-fatty-liver-of-pregnancy\|acute fatty liver of pregnancy]]; HELLP (hemolysis, elevated liver enzymes, low platelet count) syndrome<br/>· [[drug-induced-liver-injury\|Drug-induced liver injury]] — methotrexate, amiodarone, corticosteroids, valproic acid, tetracycline, amphetamines; HIV medications (cART: didanosine, stavudine, zidovudine) | **Endocrine** — hypothyroidism; hypopituitarism; polycystic ovary syndrome; growth hormone insufficiency<br/>**Other genetic disorders** — lysosomal acid lipase deficiency; familial hypobetalipoproteinemia B; abetalipoproteinemia; urea cycle disorders; hereditary fructose intolerance; glycogen storage disease; fatty acid oxidation disorders; autosomal recessive carbamoyl phosphate synthetase I deficiency<br/>**Environmental toxins** — metals (arsenic, cadmium, mercury, lead); chloralkenes (vinyl chloride, trichloroethylene, perchloroethylene); herbicides, pesticides<br/>**Nutritional effects** — total parenteral nutrition; malnutrition/kwashiorkor disease; acute weight loss (e.g. [[bariatric-surgery\|bariatric surgery]], prolonged fasting); short bowel syndrome; [[celiac-disease\|celiac disease]] |
+| **Specific liver conditions**<br/>· Chronic [[hepatitis-c\|hepatitis C]] (especially genotype 3)<br/>· [[wilson-disease\|Wilson's disease]]<br/>· A1 antitrypsin<br/>· Liver diseases of pregnancy — [[acute-fatty-liver-of-pregnancy\|acute fatty liver of pregnancy]]; HELLP (hemolysis, elevated liver enzymes, low platelet count) syndrome<br/>· [[drug-induced-liver-injury\|Drug-induced liver injury]] — methotrexate, amiodarone, corticosteroids, valproic acid, tetracycline, amphetamines; HIV medications (combination antiretroviral therapy [cART]: didanosine, stavudine, zidovudine) | **Endocrine** — hypothyroidism; hypopituitarism; polycystic ovary syndrome; growth hormone insufficiency<br/>**Other genetic disorders** — lysosomal acid lipase deficiency; familial hypobetalipoproteinemia B; abetalipoproteinemia; urea cycle disorders; hereditary fructose intolerance; glycogen storage disease; fatty acid oxidation disorders; autosomal recessive carbamoyl phosphate synthetase I deficiency<br/>**Environmental toxins** — metals (arsenic, cadmium, mercury, lead); chloralkenes (vinyl chloride, trichloroethylene, perchloroethylene); herbicides, pesticides<br/>**Nutritional effects** — total parenteral nutrition; malnutrition/kwashiorkor disease; acute weight loss (e.g. [[bariatric-surgery\|bariatric surgery]], prolonged fasting); short bowel syndrome; [[celiac-disease\|celiac disease]] |
 
 Also to be excluded before calling it lean NAFLD (from the algorithm's first step): [[alcohol-associated-liver-disease\|covert alcohol use]], viral hepatitis, [[hereditary-hemochromatosis\|hemochromatosis]], [[autoimmune-hepatitis\|autoimmune hepatitis]], and cholestatic disease.
 
@@ -170,7 +170,7 @@ Also to be excluded before calling it lean NAFLD (from the algorithm's first ste
 | Pregnancy | [[acute-fatty-liver-of-pregnancy\|Acute fatty liver of pregnancy]]; HELLP syndrome | Liver biochemical tests; hepatic ultrasound; platelet count | Delivery |
 | Irregular menses; hirsutism; acne; male-pattern baldness; infertility | Polycystic ovary syndrome | Testosterone; luteinizing hormone; follicle-stimulating hormone | Hormonal birth control |
 | Reduced muscle strength; short stature; dyslipidemia | Hypopituitarism / growth hormone deficiency | Low growth hormone | Referral to endocrinologist |
-| Lipid abnormalities | Hypobetalipoproteinemia | Low triglycerides, apoB, LDL levels; genetic testing | Vitamin E supplementation |
+| Lipid abnormalities | Hypobetalipoproteinemia | Low triglycerides, apolipoprotein B (apoB), low-density lipoprotein (LDL) levels; genetic testing | Vitamin E supplementation |
 | Lipid abnormalities | *ABHD5* insufficiency | Elevated triglycerides and LDL levels | Family counseling |
 | Hepatomegaly; microvesicular steatosis; splenomegaly; malabsorption; steatorrhea; lipid abnormalities | Lysosomal acid lipase deficiency | High LDL; low high-density lipoprotein level; lysosomal acid lipase enzyme activity | Sebelipase alfa treatment |
 | Lipodystrophy | Familial partial lipodystrophy syndromes; secondary lipodystrophy from HIV | Low leptin | Leptin replacement therapy |
@@ -182,7 +182,7 @@ Also to be excluded before calling it lean NAFLD (from the algorithm's first ste
 **Query alcohol consumption patterns routinely in every patient with lean NAFLD (BPA 6)** — underreported alcohol use likely contributes to misdiagnosis of NAFLD in lean individuals.
 
 - Conventional threshold separating alcohol-related liver disease from NAFLD: intake of **more than 14 drinks/week (women) or 21 drinks/week (men)**.
-- **Alcohol below that threshold still contributes to liver fat.** Higher average weekly intake below NAFLD-consistent thresholds was associated with a higher prevalence of CT-defined NAFLD; **number of drinking days per week, maximum drinks in 24 hours, and binge drinking** were each associated with increased odds of NAFLD. Ask about *pattern*, not just total.
+- **Alcohol below that threshold still contributes to liver fat.** Higher average weekly intake below NAFLD-consistent thresholds was associated with a higher prevalence of computed tomography (CT)-defined NAFLD; **number of drinking days per week, maximum drinks in 24 hours, and binge drinking** were each associated with increased odds of NAFLD. Ask about *pattern*, not just total.
 - Sensitive biomarkers to exclude alcohol overuse:
 
 | Biomarker | Detection window |
@@ -196,19 +196,19 @@ Also to be excluded before calling it lean NAFLD (from the algorithm's first ste
 
 **Performance in lean patients specifically:**
 
-- Multicenter study of **709** participants with NAFLD (**11%** lean): AUROCs for identifying advanced fibrosis were generally **higher for most NITs among lean than obese participants**.
-- **FIB-4 and NFS performed similarly in lean and obese patients** — notable because BMI is a component of the NFS calculation.
+- Multicenter study of **709** participants with NAFLD (**11%** lean): areas under the receiver operating characteristic curve (AUROCs) for identifying advanced fibrosis were generally **higher for most NITs among lean than obese participants**.
+- **FIB-4 and NAFLD fibrosis score (NFS) performed similarly in lean and obese patients** — notable because BMI is a component of the NFS calculation.
 - NITs had **high negative predictive values**, demonstrating their usefulness at **ruling out** advanced fibrosis.
 - **Vibration-controlled TE has similar performance in lean and obese patients.**
 - **MRE** is thought to be **less affected by BMI or body habitus** and should be considered, when available, as a confirmatory test for fibrosis assessment; 2-dimensional MRE has been accurate in NAFLD, although studies in lean NAFLD have not been conducted.
-- **ELF** = N-terminal propeptide of type III procollagen + hyaluronic acid + tissue inhibitor of metalloproteinase-1. Meta-analysis: low cutoff **7.7** → sensitivity **0.93 (95% CI 0.82–0.98)** for excluding fibrosis; high cutoff **9.80** → specificity **0.86 (95% CI 0.77–0.92)** for diagnosing fibrosis. ELF has **not been tested in lean NAFLD**; the update concludes it may be used as a confirmatory prognostic test in this population until further data are available.
+- **ELF** = N-terminal propeptide of type III procollagen + hyaluronic acid + tissue inhibitor of metalloproteinase-1. Meta-analysis: low cutoff **7.7** → sensitivity **0.93 (95% confidence interval [CI] 0.82–0.98)** for excluding fibrosis; high cutoff **9.80** → specificity **0.86 (95% CI 0.77–0.92)** for diagnosing fibrosis. ELF has **not been tested in lean NAFLD**; the update concludes it may be used as a confirmatory prognostic test in this population until further data are available.
 
 **"At-risk NASH" composite tests** (NASH with F2 or greater fibrosis — the population targeted by trials and NASH-directed pharmacotherapy). **None has been evaluated in lean NAFLD**; they are extended on general-NAFLD performance:
 
 | Test | Components | AUROC |
 |---|---|---|
-| **FAST** (FibroScan–AST) | CAP + liver stiffness on TE + AST | **0.80–0.85** |
-| **MAST** (MR imaging–AST) | MRI-PDFF + MRE liver stiffness + AST | **0.93** derivation / **0.86** validation |
+| **FAST** (FibroScan–AST) | Controlled attenuation parameter (CAP) + liver stiffness on TE + AST | **0.80–0.85** |
+| **MAST** (magnetic resonance [MR] imaging–AST) | Magnetic resonance imaging-proton density fat fraction (MRI-PDFF) + MRE liver stiffness + AST | **0.93** derivation / **0.86** validation |
 | **NIS-4** | miR-34a-5p, α-2 macroglobulin, YKL-40, glycated hemoglobin | **0.80 (95% CI 0.73–0.85)** in the discovery cohort |
 | **MEFIB** (MRE + FIB-4) | MRE combined with FIB-4 | High accuracy and excellent positive predictive value for ≥F2 |
 
@@ -226,7 +226,7 @@ Also to be excluded before calling it lean NAFLD (from the algorithm's first ste
 **Current evidence is inadequate to support routine testing for genetic variants in lean NAFLD (BPA 8).**
 
 - Up to **75%** of variable hepatic fat accumulation has been related to inherited factors.
-- Most common NAFLD-related variants: ***PNPLA3* I148M, *TM6SF2* E167K, *MBOAT7*, *GCKR*, *HSD17B13***. *PNPLA3* and *TM6SF2* associate with severity of steatosis, steatohepatitis, fibrosis, cirrhosis, and risk of [[hepatocellular-carcinoma|HCC]] and mortality; *HSD17B13* is linked to robust protection against inflammation, cirrhosis, HCC, and mortality.
+- Most common NAFLD-related variants: ***PNPLA3* I148M, *TM6SF2* E167K, *MBOAT7*, *GCKR*, *HSD17B13***. *PNPLA3* and *TM6SF2* associate with severity of steatosis, steatohepatitis, fibrosis, cirrhosis, and risk of [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] and mortality; *HSD17B13* is linked to robust protection against inflammation, cirrhosis, HCC, and mortality.
 - Polygenic risk scores are in early stages of investigation and are **not advised for clinical use**; data on genetic variants in lean NAFLD specifically are sparse, so routine genotyping is **not advised**.
 
 ---
@@ -238,7 +238,7 @@ Also to be excluded before calling it lean NAFLD (from the algorithm's first ste
 **Target a modest weight loss of 3%–5% with exercise, diet modification, and avoidance of fructose- and sugar-sweetened drinks (BPA 12)** — a lower target than the 7%–10% used for NASH in overweight/obese NAFLD (ladder on [[nafld-masld]]).
 
 - >**2000** lean adults with NAFLD, median **3 y**: weight reduction was associated with NAFLD resolution in a **dose-dependent manner**.
-- **12-month lifestyle RCT (Asia), nonobese and obese patients:** MR-spectroscopy liver fat improved in the intervention group regardless of obesity status; **almost one-half of nonobese individuals achieved NAFLD remission with 3%–5% weight loss — the same proportion reached in obese individuals only at 7%–10% weight loss.** At up to **6 y** of follow-up, nonobese patients in the lifestyle arm were more likely to maintain weight loss and ALT normalization.
+- **12-month lifestyle randomized controlled trial (RCT) (Asia), nonobese and obese patients:** MR-spectroscopy liver fat improved in the intervention group regardless of obesity status; **almost one-half of nonobese individuals achieved NAFLD remission with 3%–5% weight loss — the same proportion reached in obese individuals only at 7%–10% weight loss.** At up to **6 y** of follow-up, nonobese patients in the lifestyle arm were more likely to maintain weight loss and ALT normalization.
 - [[aga-2021-lifestyle-modification-nafld]] reports the same target for normal-weight NAFLD with resolution rates of **50% at 3%–5% loss and 70% at 7%–10% loss**; durability of weight loss and the effect of regain in this group are unknown.
 - **Exercise:** aerobic and anaerobic activity reduce liver fat with other metabolic benefits **independent of weight loss**. Increasing physical activity and decreasing visceral fat are beneficial.
 - **Fructose:** high consumption is a known risk factor for NAFLD and NASH, especially in children and adolescents. In young, nonobese individuals without metabolic risk factors, higher juice and soft-drink intake was the **single independent factor** for detection of NAFLD, contributing up to a **4-fold increased risk** vs those consuming fewer sugar-sweetened beverages. Limit fructose particularly in younger, lean patients.
@@ -255,7 +255,7 @@ Most drug development has enrolled overweight and obese NASH patients, and **man
 
 - **Biopsy confirmation is the gate:** use of either agent should be **restricted to patients with biopsy-confirmed NASH**. Both are endorsed as first-line treatment options for NASH by AASLD and EASL.
 - Trial basis: PIVENS compared pioglitazone, vitamin E, and placebo in NASH **without T2DM**, reporting improvement in liver biochemistry, inflammation, and fibrosis in the vitamin E and pioglitazone arms; subsequent studies confirmed pioglitazone's benefit for NASH histology in persons **with or without** T2DM.
-- **[[glp-1-receptor-agonists|GLP-1 receptor agonists]] and SGLT2 inhibitors (BPA 14):** therapeutic role in lean NAFLD is **not fully defined and requires further investigation**. Ongoing GLP-1 trials are mostly enriched with overweight and obese patients, so their use is **premature for the treatment of lean NASH** — but they **may be considered for comorbid metabolic conditions such as T2DM**. (For the general MASLD indications of [[semaglutide]], see [[nafld-masld]].)
+- **[[glp-1-receptor-agonists|Glucagon-like peptide-1 (GLP-1) receptor agonists]] and sodium-glucose cotransporter-2 (SGLT2) inhibitors (BPA 14):** therapeutic role in lean NAFLD is **not fully defined and requires further investigation**. Ongoing GLP-1 trials are mostly enriched with overweight and obese patients, so their use is **premature for the treatment of lean NASH** — but they **may be considered for comorbid metabolic conditions such as T2DM**. (For the general MASLD indications of [[semaglutide]], see [[nafld-masld]].)
 
 ### Cardiometabolic Risk Modification
 

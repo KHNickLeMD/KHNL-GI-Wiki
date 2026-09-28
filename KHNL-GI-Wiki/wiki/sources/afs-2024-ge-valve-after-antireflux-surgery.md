@@ -14,15 +14,15 @@ sources: []
 - **Year:** 2024 (© The Author(s) 2024; issue dated 2025)
 - **Journal/Publisher:** *Foregut* 2025;5(2):95–106 (SAGE) — American Foregut Society Anti-Reflux Barrier Collaborative
 - **DOI:** [10.1177/26345161241300480](https://doi.org/10.1177/26345161241300480)
-- **Type:** consensus statement (society white paper / expert collaborative; **no GRADE ratings, no formal evidence grading**)
+- **Type:** consensus statement (society white paper / expert collaborative; **no Grading of Recommendations Assessment, Development and Evaluation (GRADE) ratings, no formal evidence grading**)
 
 ## Summary
 
-An American Foregut Society white paper establishing a **standardised nomenclature for describing the endoscopic appearance of the esophagogastric junction (EGJ) after anti-reflux surgery**. It fills a specific gap: [[asge-2024-gerd|ASGE 2025]] makes photo-documentation of GEJ landmarks and integrity a *strong* recommendation and directs the use of Hill or AFS grading — but those grading systems describe the **native, unoperated** valve. There was no accepted way to describe the valve **after** it has been surgically reconstructed, and therefore no way to compare a post-operative endoscopy against a later one in a patient with recurrent symptoms.
+An American Foregut Society (AFS) white paper establishing a **standardised nomenclature for describing the endoscopic appearance of the esophagogastric junction (EGJ) after anti-reflux surgery**. It fills a specific gap: [[asge-2024-gerd|American Society for Gastrointestinal Endoscopy (ASGE) 2025]] makes photo-documentation of gastroesophageal junction (GEJ) landmarks and integrity a *strong* recommendation and directs the use of Hill or AFS grading — but those grading systems describe the **native, unoperated** valve. There was no accepted way to describe the valve **after** it has been surgically reconstructed, and therefore no way to compare a post-operative endoscopy against a later one in a patient with recurrent symptoms.
 
 An 11-member collaborative of gastroenterologists and foregut surgeons analysed the anatomic manipulation and corresponding endoscopic appearance of five operations: **360° anterior/posterior (Nissen) fundoplication, posterior partial (Toupet) fundoplication, anterior partial (Dor, Watson) fundoplication, magnetic sphincter augmentation (MSA), and combined hiatal hernia repair with transoral fundoplication (cTIF)**. The predecessor work — Jobe et al. 2004, an 11-domain evaluation — is judged "somewhat cumbersome," derived from cherry-picked ideal cases with unblinded evaluators, and "never widely adopted."
 
-The resulting schema reduces the description to **four attributes** measured in retroflexion, all referenced to the **angle of His** rather than to anatomic anterior/posterior. Its practical purpose is the workup of the patient with **recurrent GERD or new late dysphagia after anti-reflux surgery**, where the question is whether the valve has failed and how.
+The resulting schema reduces the description to **four attributes** measured in retroflexion, all referenced to the **angle of His** rather than to anatomic anterior/posterior. Its practical purpose is the workup of the patient with **recurrent gastroesophageal reflux disease (GERD) or new late dysphagia after anti-reflux surgery**, where the question is whether the valve has failed and how.
 
 ## Key Findings / Claims
 
@@ -58,8 +58,8 @@ Plus, for every operation: **hiatal disruption** — after any procedure that in
 | **Toupet** (posterior partial) | **270°** posterior wrap, secured at **10 and 2 o'clock**; greater posterior than anterior wrap relative to the angle of His | **Shallow** | **Deep** | "Partial" because of the exposed esophagus between 10 and 2 o'clock |
 | **Dor** (anterior partial) | Anterior plication to ~**9–10 o'clock**; ~**120°–180°** wrap | **Deep** | **Shallow** | No posterior component, so the **lip may be loose around the scope posteriorly**, with visible esophageal mucosa where there is no fundoplication |
 | **Watson** (anterior partial) | Anterior plication to ~**7 o'clock**; ~**230°** wrap | **Deep** | **Shallow** | As for Dor |
-| **Magnetic sphincter augmentation (MSA)** | **No fundoplication created**; device placed around the distal esophagus after crural repair | **Shallow** | **Shallow** | Closely resembles the **native flap valve**. The implant is hard to see but may appear as a **"bulked-up" lip** of the valve. **Assessment is essentially the same as in the non-operated patient** — revert to the AFS hiatus grade and denote **FV+ or FV−** |
-| **cTIF** (lap hiatal hernia repair + transoral fundoplication) | Initiated at the angle of His (3–4 o'clock); Esophyx rotated ~**135° posteriorly and 135° anteriorly**; ~**270°** immediately post-op, **omega-shaped**; reverse-C in transverse view | **Moderate to deep** | **Deep** | Valve lip closely approximates the scope shaft (**partly due to edema**). Valve length clearly visualised; **fasteners** visible, and transmural fasteners also visible antegrade along the **distal 2–3 cm** of esophageal mucosa |
+| **MSA** | **No fundoplication created**; device placed around the distal esophagus after crural repair | **Shallow** | **Shallow** | Closely resembles the **native flap valve**. The implant is hard to see but may appear as a **"bulked-up" lip** of the valve. **Assessment is essentially the same as in the non-operated patient** — revert to the AFS hiatus grade and denote flap valve (FV) status **FV+ or FV−** |
+| **cTIF** (laparoscopic hiatal hernia repair + transoral fundoplication) | Initiated at the angle of His (3–4 o'clock); Esophyx rotated ~**135° posteriorly and 135° anteriorly**; ~**270°** immediately post-op, **omega-shaped**; reverse-C in transverse view | **Moderate to deep** | **Deep** | Valve lip closely approximates the scope shaft (**partly due to edema**). Valve length clearly visualised; **fasteners** visible, and transmural fasteners also visible antegrade along the **distal 2–3 cm** of esophageal mucosa |
 
 - Note that anterior fundoplications (Dor/Watson) and the posterior fundoplication (Toupet) produce **mirror-image** groove patterns — this is the single most useful discriminator at endoscopy.
 - 12 o'clock is the anterior midline of the esophagus for the Dor/Watson descriptions.
@@ -99,7 +99,7 @@ Net effect: reduce the occurrence of reflux **and** restrict the diameter of EGJ
 - [[antireflux-surgery]] — supplies the **post-operative endoscopic assessment** the page lacked entirely: the four-attribute nomenclature, the per-procedure groove-depth table, and the "can you see through the wrap" failure sign for Nissen.
 - [[reflux-testing]] — extends the endoscopic GEJ-assessment section beyond the native valve; also supplies the **insufflation and retroflexed-pull technique** that prevents under-grading, which applies to native-valve assessment too.
 - [[gerd]] — the workup of recurrent GERD after anti-reflux surgery.
-- [[antireflux-surgery|TIF]] and [[antireflux-surgery|magnetic sphincter augmentation (MSA/LINX)]] — procedure-specific expected appearance; both are covered on [[antireflux-surgery]].
+- [[antireflux-surgery|transoral incisionless fundoplication (TIF)]] and [[antireflux-surgery|MSA (LINX)]] — procedure-specific expected appearance; both are covered on [[antireflux-surgery]].
 - [[hiatal-hernia]] — the "hiatal aperture should no longer be visible in retroflexion" criterion.
 
 ## Contradictions / Open Questions
@@ -109,7 +109,7 @@ Net effect: reduce the occurrence of reflux **and** restrict the diameter of EGJ
 - **Descriptions are of the "classic" and typical *immediate* post-operative appearance.** The paper says so directly. Appearance may differ with time (the cTIF lip approximation is attributed in part to **edema**), and variations warranting additional description are acknowledged.
 - **Hill and Collis esophageal-lengthening procedures were explicitly not examined** — the schema does not cover them.
 - **Groove depth is a three-level subjective scale** (shallow / moderate / deep) with no stated anchors, measurement, or interobserver data. The paper's own critique of the Jobe 2004 schema — unblinded evaluators, selected ideal cases — has not been answered for this schema either.
-- **Definition of pathologic reflux used here:** abnormal esophageal acid exposure on pH-metry **or** Los Angeles grade B, C, or D esophagitis on endoscopy. (The LA grade criteria are not defined in this paper — see [[reflux-testing]].)
+- **Definition of pathologic reflux used here:** abnormal esophageal acid exposure on pH-metry **or** Los Angeles (LA) grade B, C, or D esophagitis on endoscopy. (The LA grade criteria are not defined in this paper — see [[reflux-testing]].)
 - **Figures 1–9** (including **Figure 9, the assessment algorithm**, and the endoscopic photographs of each valve type) are the visual core of this paper and are not reproduced here. The per-procedure table above is a text substitute; consult the original figures to recognise each valve endoscopically.
 
 ## See Also

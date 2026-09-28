@@ -17,7 +17,7 @@ sources: []
 
 ## Summary
 
-ASGE Standards of Practice statement (GRADE) on endoscopy in solid pancreatic neoplasia — [[pancreatic-cancer|pancreatic ductal adenocarcinoma (PDAC)]], pancreatic neuroendocrine tumors, solid pseudopapillary tumors, and metastases. Covers diagnostic imaging (EUS + pancreas-protocol multidetector CT, selective MRI/PET-CT), [[endoscopic-ultrasound|EUS]]-guided tissue acquisition (FNA/FNB), the limited role of preoperative ERCP, and endoscopic palliation (biliary/gastroduodenal stenting, EUS-guided celiac plexus neurolysis, fiducial placement). Also endorses EUS + MRCP screening of high-risk individuals.
+American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice statement (Grading of Recommendations Assessment, Development and Evaluation [GRADE]) on endoscopy in solid pancreatic neoplasia — [[pancreatic-cancer|pancreatic ductal adenocarcinoma (PDAC)]], pancreatic neuroendocrine tumors, solid pseudopapillary tumors, and metastases. Covers diagnostic imaging (endoscopic ultrasound [EUS] + pancreas-protocol multidetector computed tomography [CT], selective magnetic resonance imaging [MRI]/positron emission tomography [PET]-CT), [[endoscopic-ultrasound|EUS]]-guided tissue acquisition (fine-needle aspiration [FNA]/fine-needle biopsy [FNB]), the limited role of preoperative endoscopic retrograde cholangiopancreatography (ERCP), and endoscopic palliation (biliary/gastroduodenal stenting, EUS-guided celiac plexus neurolysis, fiducial placement). Also endorses EUS + magnetic resonance cholangiopancreatography (MRCP) screening of high-risk individuals.
 
 This is an **older** ASGE document — superseded for tissue-acquisition technique by [[asge-2024-solid-pancreatic-masses|ASGE 2024: EUS-guided sampling of solid pancreatic masses]] and for screening by [[asge-2022-pancreatic-cancer-screening|ASGE 2022 pancreatic cancer screening]]. It contributes the endoscopic-palliation framework (celiac plexus neurolysis, stenting, fiducials) and the "no preoperative ERCP for resectable PDAC" principle as net-new, non-conflicting detail.
 
@@ -36,13 +36,13 @@ This is an **older** ASGE document — superseded for tissue-acquisition techniq
 9. We suggest that screening with EUS and MRCP should be offered to high-risk individuals for pancreatic cancer. (conditional, ⊕⊕◯◯)
 
 **Other points:**
-- EUS-FNA sensitivity for pancreatic malignancy is high; a linear-array echoendoscope outperforms radial for lesion detection. EUS-FNB (core) and rapid on-site evaluation improve adequacy.
+- EUS-FNA sensitivity for pancreatic malignancy is high; a linear-array echoendoscope outperforms radial for lesion detection. EUS-FNB (core) and rapid on-site evaluation (ROSE) improve adequacy.
 - Preoperative biliary drainage before pancreaticoduodenectomy is associated with increased perioperative complications — avoid routine preop ERCP when prompt resection is feasible.
-- High-risk-individual screening should occur within a multidisciplinary program (genetics, GI, radiology, surgery, pathology).
+- High-risk-individual screening should occur within a multidisciplinary program (genetics, gastroenterology, radiology, surgery, pathology).
 
 ## Relevance to Wiki
-- Updates [[pancreatic-cancer]] — endoscopic palliation menu (SEMS for malignant biliary/gastroduodenal obstruction; EUS-guided celiac plexus neurolysis for tumor-related pain; EUS-guided fiducials for image-guided RT); avoid preoperative ERCP for resectable PDAC with obstructive jaundice absent cholangitis.
-- Corroborates [[endoscopic-ultrasound]] roles — EUS ± FNA/FNB for diagnosis, staging, and NET localization; EUS therapeutics (neurolysis, fiducials).
+- Updates [[pancreatic-cancer]] — endoscopic palliation menu (self-expandable metal stents [SEMS] for malignant biliary/gastroduodenal obstruction; EUS-guided celiac plexus neurolysis for tumor-related pain; EUS-guided fiducials for image-guided radiation therapy); avoid preoperative ERCP for resectable PDAC with obstructive jaundice absent cholangitis.
+- Corroborates [[endoscopic-ultrasound]] roles — EUS ± FNA/FNB for diagnosis, staging, and neuroendocrine tumor (NET) localization; EUS therapeutics (neurolysis, fiducials).
 - Corroborates [[pancreatic-cancer-screening]] / [[asge-2022-pancreatic-cancer-screening|ASGE 2022]] — EUS + MRCP for high-risk individuals.
 
 ## Contradictions / Open Questions

@@ -16,7 +16,7 @@ sources: []
 - **Year:** 2018
 - **Journal/Publisher:** Journal of Hepato-Biliary-Pancreatic Sciences, vol. 25, no. 1
 - **DOI:** [10.1002/jhbp.509](https://doi.org/10.1002/jhbp.509)
-- **Type:** guideline (international consensus clinical practice guideline; third revision of TG07/TG13)
+- **Type:** guideline (international consensus clinical practice guideline; third revision of the Tokyo Guidelines 2007/2013 [TG07/TG13])
 
 > ⚠ **Version note:** this summary is drawn from the peer-reviewed **accepted manuscript** (Edinburgh Research Explorer deposit), not the typeset version of record. **Tables 1–5 and Figures 1–4 are not included in it** — see *Contradictions / Open Questions*.
 
@@ -24,13 +24,13 @@ sources: []
 
 ## Summary
 
-TG18 is the third revision (after TG07 and TG13) of the international Tokyo Guidelines for acute biliary infection. This paper covers two things: the **initial response to suspected acute biliary infection** (shared by cholangitis and cholecystitis) and the **management flowchart for acute cholangitis** specifically. The cholecystitis flowchart, previously published in the same paper, was split into a separate TG18 article.
+Tokyo Guidelines 2018 (TG18) is the third revision (after TG07 and TG13) of the international Tokyo Guidelines for acute biliary infection. This paper covers two things: the **initial response to suspected acute biliary infection** (shared by cholangitis and cholecystitis) and the **management flowchart for acute cholangitis** specifically. The cholecystitis flowchart, previously published in the same paper, was split into a separate TG18 article.
 
-The initial-management sequence is deliberately front-loaded on vital signs: measure them first to decide whether the situation is urgent, and if it is, **start treatment — including respiratory/circulatory support — immediately, without waiting for a definitive diagnosis.** History, abdominal examination, blood tests, urinalysis, and imaging follow; diagnosis is then made with the TG13/18 diagnostic criteria. Once diagnosis is confirmed, initial medical treatment starts, **severity is graded** with the TG13/18 severity assessment criteria, and general status is evaluated with the Charlson Comorbidity Index (CCI) and the ASA Physical Status classification. Severity is **reassessed frequently** according to response to initial treatment — it is not a one-time label.
+The initial-management sequence is deliberately front-loaded on vital signs: measure them first to decide whether the situation is urgent, and if it is, **start treatment — including respiratory/circulatory support — immediately, without waiting for a definitive diagnosis.** History, abdominal examination, blood tests, urinalysis, and imaging follow; diagnosis is then made with the TG13/18 diagnostic criteria. Once diagnosis is confirmed, initial medical treatment starts, **severity is graded** with the TG13/18 severity assessment criteria, and general status is evaluated with the Charlson Comorbidity Index (CCI) and the American Society of Anesthesiologists (ASA) Physical Status classification. Severity is **reassessed frequently** according to response to initial treatment — it is not a one-time label.
 
 Management is then driven entirely by grade. **Grade I (mild)** usually needs nothing but antibiotics and supportive care; drainage is held in reserve for non-responders. **Grade II (moderate)** is defined by its therapeutic implication — not severe, but *requires early biliary drainage*. **Grade III (severe)** is cholangitis with sepsis-induced organ dysfunction, where respiratory/circulatory management comes first and drainage follows **as soon as the patient has been stabilised** by initial treatment and organ support.
 
-Compared with TG13, the cholangitis flowchart is **little changed except for moderate cholangitis**: TG13 said treatment of the underlying etiology should be elective, after early drainage; TG18 amends the flowchart to permit **single-stage** endoscopic sphincterotomy (EST) plus choledocholithotomy together with drainage in mild *and* moderate cholangitis, reflecting actual practice — while explicitly flagging that the evidence for this in *moderate* disease "is still insufficient" and that one RCT found significantly more post-ERCP complications with single-stage than two-stage lithotomy.
+Compared with TG13, the cholangitis flowchart is **little changed except for moderate cholangitis**: TG13 said treatment of the underlying etiology should be elective, after early drainage; TG18 amends the flowchart to permit **single-stage** endoscopic sphincterotomy (EST) plus choledocholithotomy together with drainage in mild *and* moderate cholangitis, reflecting actual practice — while explicitly flagging that the evidence for this in *moderate* disease "is still insufficient" and that one randomized controlled trial (RCT) found significantly more post–endoscopic retrograde cholangiopancreatography (ERCP) complications with single-stage than two-stage lithotomy.
 
 ---
 
@@ -42,8 +42,8 @@ The grading criteria — the decision input the whole flowchart turns on:
 
 | Grade | Rule | Criteria |
 |---|---|---|
-| **Grade III (severe)** | **Any ONE** organ dysfunction | **Cardiovascular:** requiring dopamine ≥5 μg/kg/min **or** noradrenaline · **Neurological:** disturbance of consciousness · **Respiratory:** PaO₂/FiO₂ ratio <300 · **Renal:** oliguria **or** serum creatinine >2.0 mg/dL · **Hepatic:** PT-INR >1.5 · **Coagulation:** platelet count <10⁴/μL |
-| **Grade II (moderate)** | **Any TWO** of five | WBC **>12,000** or **<4,000** /μL · temperature **≥39 °C** · age **≥75 years** · total bilirubin **≥5 mg/dL** · albumin **< (lower limit of normal × 0.7) g/dL** |
+| **Grade III (severe)** | **Any ONE** organ dysfunction | **Cardiovascular:** requiring dopamine ≥5 μg/kg/min **or** noradrenaline · **Neurological:** disturbance of consciousness · **Respiratory:** PaO₂/FiO₂ ratio <300 · **Renal:** oliguria **or** serum creatinine >2.0 mg/dL · **Hepatic:** prothrombin time–international normalized ratio (PT-INR) >1.5 · **Coagulation:** platelet count <10⁴/μL |
+| **Grade II (moderate)** | **Any TWO** of five | White blood cell count (WBC) **>12,000** or **<4,000** /μL · temperature **≥39 °C** · age **≥75 years** · total bilirubin **≥5 mg/dL** · albumin **< (lower limit of normal × 0.7) g/dL** |
 | **Grade I (mild)** | Diagnosis of cholangitis that **does not meet** the Grade II or Grade III criteria | — |
 
 *Grade II is a "2-of-5" rule: one criterion alone does not make cholangitis moderate. Grade III is a "any-1" rule.*
@@ -53,19 +53,19 @@ The grading criteria — the decision input the whole flowchart turns on:
 ### Initial response to suspected acute biliary infection
 
 - **Suspect it on any one of:** fever, chills, abdominal pain, jaundice, nausea, vomiting, disturbance of consciousness.
-- **Vital signs first**, to judge urgency: BP, heart rate, respiratory rate, temperature, urine volume, SpO₂, consciousness level.
+- **Vital signs first**, to judge urgency: blood pressure (BP), heart rate, respiratory rate, temperature, urine volume, SpO₂, consciousness level.
 - **Exam:** state of consciousness, palpebral conjunctival icterus, location/severity of tenderness, peritoneal irritation; Murphy's sign (specific to cholecystitis).
-- **Blood tests** (for diagnosis *and* severity grading): WBC, platelet count, CRP, albumin, ALP, GGT, AST, ALT, bilirubin, BUN, creatinine, PT and PT-INR, plus **blood gas analysis**. **Blood culture preferably if high fever.**
-- **Imaging:** abdominal ultrasound and/or CT — **at least one**; **ultrasound first** (minimally invasive, widely available, simple, cheap; operator- and patient-dependent).
+- **Blood tests** (for diagnosis *and* severity grading): WBC, platelet count, C-reactive protein (CRP), albumin, alkaline phosphatase (ALP), γ-glutamyl transpeptidase (GGT), aspartate aminotransferase (AST), alanine aminotransferase (ALT), bilirubin, blood urea nitrogen (BUN), creatinine, prothrombin time (PT) and PT-INR, plus **blood gas analysis**. **Blood culture preferably if high fever.**
+- **Imaging:** abdominal ultrasound and/or computed tomography (CT) — **at least one**; **ultrasound first** (minimally invasive, widely available, simple, cheap; operator- and patient-dependent).
   - Inflammation itself is hard to see in cholangitis; imaging is for **bile duct dilatation, and occlusion/stenosis or calculus and its cause**.
-- **General status:** Charlson Comorbidity Index (CCI) and ASA Physical Status classification.
+- **General status:** CCI and ASA Physical Status classification.
 
 ### Initial treatment (all grades)
 
 - Sufficient **fluid infusion**, **antibiotics**, and **analgesia**, monitoring BP, heart rate, urine volume. In shock, **start before the definitive diagnosis**.
 - **Fast the patient in principle**, to enable immediate emergency drainage (no high-quality evidence for/against fasting).
-- **Give analgesia proactively and early** — an RCT of IV morphine vs placebo in ER abdominal pain found no difference in diagnostic accuracy, so fear of masking signs should not delay it. **Caution:** opioids (and non-opioids/pentazocine) contract the sphincter of Oddi and may raise biliary pressure.
-- **Consider emergency biliary drainage** with organ support if the patient deteriorates — shock (hypotension), disturbance of consciousness, acute dyspnea, acute renal dysfunction, hepatic dysfunction, or DIC (falling platelets).
+- **Give analgesia proactively and early** — an RCT of intravenous morphine vs placebo in emergency-room abdominal pain found no difference in diagnostic accuracy, so fear of masking signs should not delay it. **Caution:** opioids (and non-opioids/pentazocine) contract the sphincter of Oddi and may raise biliary pressure.
+- **Consider emergency biliary drainage** with organ support if the patient deteriorates — shock (hypotension), disturbance of consciousness, acute dyspnea, acute renal dysfunction, hepatic dysfunction, or disseminated intravascular coagulation (DIC; falling platelets).
 
 ### Grade-specific management (TG18 flowchart, Figure 2)
 
@@ -76,7 +76,7 @@ The grading criteria — the decision input the whole flowchart turns on:
 
 ### Clinical Questions (graded statements)
 
-- **CQ 1 — How was the TG13 flowchart for acute cholangitis evaluated?** *(Background Question)* → **"It was shown to require partial revision." (Level D)**
+- **Clinical Question (CQ) 1 — How was the TG13 flowchart for acute cholangitis evaluated?** *(Background Question)* → **"It was shown to require partial revision." (Level D)**
   - Supporting data: a Japan–Taiwan multicenter study found that in **moderate** cholangitis, mortality was significantly lower with drainage **within 24 h** (n=944) than with drainage after >24 h or no drainage (n=1,081): **1.7% vs 3.4%, p=0.0172** — with **no significant difference for mild or severe** cholangitis.
   - A second observational study (mild/moderate, 130 drained <24 h vs 82 drained >24 h): **mortality zero in both groups**, but mean hospitalisation significantly shorter with <24 h drainage (**6.8 vs 9.2 days, p<0.01**).
   - On single-stage treatment: three observational studies and one RCT showed single-stage lithotomy safe and feasible in mild/moderate cholangitis from choledocholithiasis — **but in the RCT post-ERCP complications were significantly higher than with two-stage lithotomy (6/35 = 17.1% vs 0/33 = 0%, p=0.025); "caution is required."**
@@ -115,6 +115,6 @@ The grading criteria — the decision input the whole flowchart turns on:
 - **Two thresholds are internally ambiguous in the accepted manuscript's text and should be verified against the published Table 3 before use:**
   - **Albumin** — printed as "albumin <(lower limit of normal value × 0.73 g/dL)". The parenthesis placement and the trailing "3" are inconsistent with a multiplier; recorded here as **< (lower limit of normal × 0.7) g/dL**, uncertain.
   - **Platelet count** — printed as "platelet count <10⁴/μL", i.e. <10,000/μL, which is markedly lower than the threshold usually applied for a coagulation-dysfunction criterion. Recorded verbatim; likely a typesetting loss (e.g. of a "10×" prefix). **Treat this cutoff as unsettled** and verify against the published table.
-- **Timing of drainage in moderate cholangitis — TG18 vs the 2026 RCT.** TG18's supporting data favour drainage **within 24 h** for moderate cholangitis (mortality 1.7% vs 3.4%), based on observational multicenter data. [[jagtap-2026-urgent-vs-early-ercp-cholangitis]] (RCT, 2026) found **no** mortality or organ-failure advantage for <24 h over 24–48 h in mild-to-moderate cholangitis and roughly **double** the post-ERCP adverse events. TG18 is **2018** and its own evidence for this point is observational and Level D, while [[asge-2021-cholangitis]] is the **newer guideline** and sets the operative window at **within 48 h**. This page follows ASGE 2021 (newer, same tier) with the Jagtap refinement; TG18's 24-h observational signal is recorded here as the contrary evidence.
+- **Timing of drainage in moderate cholangitis — TG18 vs the 2026 RCT.** TG18's supporting data favour drainage **within 24 h** for moderate cholangitis (mortality 1.7% vs 3.4%), based on observational multicenter data. [[jagtap-2026-urgent-vs-early-ercp-cholangitis]] (RCT, 2026) found **no** mortality or organ-failure advantage for <24 h over 24–48 h in mild-to-moderate cholangitis and roughly **double** the post-ERCP adverse events. TG18 is **2018** and its own evidence for this point is observational and Level D, while [[asge-2021-cholangitis]] is the **newer guideline** and sets the operative window at **within 48 h**. This page follows American Society for Gastrointestinal Endoscopy (ASGE) 2021 (newer, same tier) with the Jagtap refinement; TG18's 24-h observational signal is recorded here as the contrary evidence.
 - **Single-stage vs two-stage stone clearance.** TG18 amends the flowchart to allow single-stage EST + choledocholithotomy in moderate cholangitis on pragmatic grounds while simultaneously reporting an RCT in which single-stage caused significantly more post-ERCP complications (17.1% vs 0%). The guideline itself flags this as insufficient evidence requiring caution — an internal tension the reader should carry.
-- **rTM (recombinant human soluble thrombomodulin)** is a Level D, future-research recommendation resting on two small case series with no mortality benefit; it is not available in many practice settings. Recorded, not promoted to the entity page's main therapeutic sequence.
+- **rTM** is a Level D, future-research recommendation resting on two small case series with no mortality benefit; it is not available in many practice settings. Recorded, not promoted to the entity page's main therapeutic sequence.

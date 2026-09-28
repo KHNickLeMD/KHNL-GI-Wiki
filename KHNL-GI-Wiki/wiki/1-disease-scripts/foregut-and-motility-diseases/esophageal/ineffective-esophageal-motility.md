@@ -7,7 +7,7 @@ updated: 2026-09-05
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-esophageal-physiologic-testing]
 ---
 
-*Classified under [[chicago-classification-v4|Chicago Classification v4.0]] (criteria revised — fragmented peristalsis absorbed into IEM). Related: [[distal-esophageal-spasm]], [[hypercontractile-esophagus]].*
+*Classified under [[chicago-classification-v4|Chicago Classification v4.0 (CCv4.0)]] (criteria revised — fragmented peristalsis absorbed into ineffective esophageal motility [IEM]). Related: [[distal-esophageal-spasm]], [[hypercontractile-esophagus]].*
 
 ## Contents
 - [[#Assessment]]
@@ -23,12 +23,12 @@ sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-
 
 ### Establishing the Diagnosis
 
-IEM is defined by **Chicago Classification v4.0** on [[high-resolution-manometry]]:
+IEM is defined by **CCv4.0** on [[high-resolution-manometry|high-resolution manometry (HRM)]]:
 
-Normal median IRP (supine **and** upright), **plus** either (Very Low GRADE, **strong**):
+Normal median integrated relaxation pressure (IRP; supine **and** upright), **plus** either (Grading of Recommendations Assessment, Development and Evaluation [GRADE]: Very Low, **strong**):
 
 - **>70% ineffective swallows**, **OR**
-- **≥50% failed peristalsis** (DCI <100 mmHg·s·cm)
+- **≥50% failed peristalsis** (distal contractile integral [DCI] <100 mmHg·s·cm)
 
 Note the two signs differ: **>70%** for ineffective, **≥50%** for failed.
 
@@ -50,13 +50,13 @@ Note the two signs differ: **>70%** for ineffective, **≥50%** for failed.
 
 - **No graded severity scale in CCv4.0.** The only ordinal structure is the diagnostic band itself: **<50% ineffective = not IEM → 50–70% = inconclusive → >70% (or ≥50% failed) = IEM**. Report the actual percentage of ineffective and of failed swallows, not just the label.
 - The severe end of the spectrum has its own name: **absent contractility** (normal IRP supine and upright with **100% failed peristalsis**) — not "severe IEM".
-- Severity that matters clinically is functional, not manometric: **poor bolus transit on impedance or barium** is the supportive finding, and impaired **peristaltic reserve** is what drives the pre-[[antireflux-surgery|ARS]] decision (see below).
+- Severity that matters clinically is functional, not manometric: **poor bolus transit on impedance or barium** is the supportive finding, and impaired **peristaltic reserve** is what drives the pre-[[antireflux-surgery|antireflux surgery (ARS)]] decision (see below).
 
 **Clinical significance:** IEM is a minor motility disorder; most patients have mild or no symptoms. Clinical significance is primarily in:
 
 - Pre-[[antireflux-surgery|anti-reflux surgery]] evaluation — impaired peristaltic reserve raises dysphagia risk post-wrap
 - Dysphagia workup when other causes excluded
-- Systemic disease associations ([[esophageal-dysfunction-systemic-disease|scleroderma, CREST syndrome]] can cause severe IEM → absent contractility)
+- Systemic disease associations ([[esophageal-dysfunction-systemic-disease|scleroderma, CREST (calcinosis, Raynaud, esophageal dysfunction, sclerodactyly, telangiectasias) syndrome]] can cause severe IEM → absent contractility)
 
 ---
 
@@ -65,15 +65,15 @@ Note the two signs differ: **>70%** for ineffective, **≥50%** for failed.
 *Workup: see [[dysphagia]].*
 
 - Absent contractility — severe form; all swallows failed; see [[achalasia]] (differentiate by IRP)
-- [[gerd|GERD]] — IEM often co-exists with reflux; reflux can impair peristalsis
-- Scleroderma/systemic sclerosis — IEM with very low LES pressure pattern
+- [[gerd|gastroesophageal reflux disease (GERD)]] — IEM often co-exists with reflux; reflux can impair peristalsis
+- Scleroderma/systemic sclerosis — IEM with very low lower esophageal sphincter (LES) pressure pattern
 
 ---
 
 ## Diagnostics
 
 - **HRM:** Chicago v4.0 criteria — see [[high-resolution-manometry]]
-- **[[flip-panometry|FLIP panometry]]:** Hypocontractility pattern
+- **[[flip-panometry|functional lumen imaging probe (FLIP) panometry]]:** Hypocontractility pattern
 - Rule out obstruction and [[achalasia]] before labeling as IEM
 
 ---

@@ -7,11 +7,11 @@ updated: 2026-09-05
 sources: [acg-2020-sibo]
 ---
 
-Small bowel motility is one of several mechanisms that keep the small intestine relatively sterile. Its failure produces stasis, and stasis is the common final pathway to [[small-intestinal-bacterial-overgrowth|SIBO]] — which [[acg-2020-sibo|ACG 2020]] frames as "in almost all instances an epiphenomenon related to something else."
+Small bowel motility is one of several mechanisms that keep the small intestine relatively sterile. Its failure produces stasis, and stasis is the common final pathway to [[small-intestinal-bacterial-overgrowth|small intestinal bacterial overgrowth (SIBO)]] — which [[acg-2020-sibo|American College of Gastroenterology (ACG) 2020]] frames as "in almost all instances an epiphenomenon related to something else."
 
 ## The MMC
 
-- The small bowel has an **inherent cleansing function** — recurring antegrade peristalsis plus migrating motor complexes, **organized into 3 phases**.
+- The small bowel has an **inherent cleansing function** — recurring antegrade peristalsis plus migrating motor complexes (MMCs), **organized into 3 phases**.
 - **Phase III MMC** is the phase that matters for overgrowth: an **intense phasic and tonic contractile event** that begins in the **stomach or proximal bowel** and sweeps toward the colon, **propelling chyme, secretions, and bacteria** — cleansing the small intestine of debris **during fasting**.
 - ACG 2020 does not state an MMC cycle length.
 
@@ -43,7 +43,7 @@ Small bowel motility is one of several mechanisms that keep the small intestine 
 
 ## Association With IBS
 
-- Meta-analyses suggest up to **78%** of [[irritable-bowel-syndrome|IBS]] subjects have SIBO, though cause vs effect remains unresolved. ACG 2020 suggests breath testing for SIBO in IBS (conditional, very low quality). See [[small-intestinal-bacterial-overgrowth]] for test thresholds.
+- Meta-analyses suggest up to **78%** of [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]] subjects have SIBO, though cause vs effect remains unresolved. ACG 2020 suggests breath testing for SIBO in IBS (conditional, very low quality). See [[small-intestinal-bacterial-overgrowth]] for test thresholds.
 
 ## See Also
 

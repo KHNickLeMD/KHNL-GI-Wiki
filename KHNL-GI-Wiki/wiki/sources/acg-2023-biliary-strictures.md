@@ -11,14 +11,14 @@ sources: []
 
 - **Article:** [ACG 2023: Diagnosis and Management of Biliary Strictures.](https://doi.org/10.14309/ajg.0000000000002190)
 - **DOI:** [10.14309/ajg.0000000000002190](https://doi.org/10.14309/ajg.0000000000002190)
-- **Type:** guideline (ACG Clinical Guideline, GRADE)
+- **Type:** guideline (American College of Gastroenterology [ACG] Clinical Guideline, Grading of Recommendations Assessment, Development and Evaluation [GRADE])
 Elmunzer BJ, Maranki JL, Gómez V, Tavakkoli A, Sauer BG, Limketkai BN, et al. ACG Clinical Guideline: Diagnosis and Management of Biliary Strictures. *Am J Gastroenterol* 2023;118:405–426. doi:10.14309/ajg.0000000000002190. Published online January 17, 2023.
 
 Evidence graded using GRADE framework. Recommendations rated Strong or Conditional; evidence quality rated High, Moderate, Low, or Very Low.
 
 ## Summary
 
-A biliary stricture is an abnormal narrowing of the ductal drainage system of the liver causing clinically relevant obstruction to bile flow. The guideline focuses on two principal management priorities: **diagnosis** (confirm or exclude malignancy) and **drainage** (restore bile flow to the duodenum). Strictures are anatomically classified as extrahepatic or perihilar; intrahepatic strictures and [[primary-sclerosing-cholangitis|PSC]]-related strictures are not addressed.
+A biliary stricture is an abnormal narrowing of the ductal drainage system of the liver causing clinically relevant obstruction to bile flow. The guideline focuses on two principal management priorities: **diagnosis** (confirm or exclude malignancy) and **drainage** (restore bile flow to the duodenum). Strictures are anatomically classified as extrahepatic or perihilar; intrahepatic strictures and [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]]-related strictures are not addressed.
 
 Key organizational principle: extrahepatic strictures are substantially more amenable to tissue diagnosis and drainage than perihilar strictures, and a different algorithmic approach applies to each.
 
@@ -28,12 +28,12 @@ Key organizational principle: extrahepatic strictures are substantially more ame
 
 - Biliary strictures in adults are more likely to be **malignant than benign** except in clearly defined scenarios (e.g., anastomotic stricture after [[liver-transplantation|liver transplant]], postcholecystectomy injury, known [[chronic-pancreatitis|chronic pancreatitis]]). Malignancy confirmed in 73–87% of referred patients in large series.
 - Estimated ~34,000 annual cases of malignant extrahepatic stricture and ~3,000 cases of malignant perihilar stricture in the US per year.
-- Noninvasive testing (CT, MRI, [[endoscopic-ultrasound|EUS]] morphology alone, CA 19-9, CEA) has diagnostic accuracy of only 60–80%; tissue diagnosis is required in the vast majority of cases.
+- Noninvasive testing (computed tomography [CT], magnetic resonance imaging [MRI], [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] morphology alone, carbohydrate antigen [CA] 19-9, carcinoembryonic antigen [CEA]) has diagnostic accuracy of only 60–80%; tissue diagnosis is required in the vast majority of cases.
 
 ### Diagnosis: Extrahepatic Stricture
 
-- **Rec 1 (Strong, Moderate):** For extrahepatic strictures due to apparent or suspected pancreatic mass, **EUS-FNA/B is preferred over [[ercp|ERCP]]-based tissue sampling**. Pooled sensitivity: EUS-FNA 75%, ERCP 49% (meta-analysis); more recent prospective studies show EUS accuracy ~100% vs ~55% for ERCP.
-- **Rec 2 (Conditional, Very Low):** Prefer **EUS-FNB** (core needle) or **EUS-FNA + ROSE** over FNA alone. FNB appears to obviate the need for ROSE and improves genomic profiling yield.
+- **Rec 1 (Strong, Moderate):** For extrahepatic strictures due to apparent or suspected pancreatic mass, **EUS-fine-needle aspiration/biopsy (FNA/B) is preferred over [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]-based tissue sampling**. Pooled sensitivity: EUS-FNA 75%, ERCP 49% (meta-analysis); more recent prospective studies show EUS accuracy ~100% vs ~55% for ERCP.
+- **Rec 2 (Conditional, Very Low):** Prefer **EUS-FNB** (fine-needle biopsy; core needle) or **EUS-FNA + rapid on-site evaluation (ROSE)** over FNA alone. FNB appears to obviate the need for ROSE and improves genomic profiling yield.
 - Key Concept 2: In minimally symptomatic patients, prefer **single-session EUS + ERCP** over ERCP alone to avoid a mandatory second procedure. Defer to a capable center rather than placing a plastic stent first at an ERCP-only center.
 - For extrahepatic strictures without an associated mass, apply the same multimodality approach as for perihilar strictures (Rec 3).
 
@@ -44,7 +44,7 @@ Key organizational principle: extrahepatic strictures are substantially more ame
   - Brush cytology sensitivity: ~41–60% (meta-analysis); inadequate alone
   - Fluoroscopy-directed forceps biopsy: sensitivity 40–88%; combination with brushings improves yield to ~59%
   - Cholangioscopy-directed biopsy: sensitivity 60–75%; superior to brushings or forceps alone in comparative study
-  - FISH: increases sensitivity from ~20% (cytology alone) to ~43%; polysomy on FISH associated with OR >77 for malignancy. Performance is attenuated in PSC.
+  - Fluorescence in situ hybridization (FISH): increases sensitivity from ~20% (cytology alone) to ~43%; polysomy on FISH associated with odds ratio (OR) >77 for malignancy. Performance is attenuated in PSC.
   - Recommendation to use ≥2 modalities; rationale supports 3–4 modalities at the index ERCP if safely feasible.
 
 ### Diagnosis: Indeterminate Stricture (Key Concept 4)
@@ -57,7 +57,7 @@ Key organizational principle: extrahepatic strictures are substantially more ame
 
 ### Drainage: Extrahepatic Stricture, Benign (Rec 4)
 
-- **Rec 4 (Conditional, Low):** Prefer **fcSEMS** over multiple plastic stents (MPS) to reduce the number of procedures. Comparable stricture resolution (80–92%), recurrence, and adverse events; fcSEMS requires fewer ERCPs.
+- **Rec 4 (Conditional, Low):** Prefer **fully covered self-expandable metal stents (fcSEMS)** over multiple plastic stents (MPS) to reduce the number of procedures. Comparable stricture resolution (80–92%), recurrence, and adverse events; fcSEMS requires fewer ERCPs.
 - Key Concept 5: Treat benign extrahepatic strictures for **12 months with MPS** and **at least 6 months with fcSEMS** (12 months may confer additional benefit). If targeting 12-month fcSEMS dwell, exchange at 6 months to reduce embedment risk.
 - Key Concept 6: If gallbladder is in situ and the cystic duct orifice cannot be avoided, prefer MPS to reduce cholecystitis risk (fcSEMS covering the cystic takeoff: ~7% cholecystitis vs 0%).
 - Scenarios where MPS remains preferred: stricture <1–1.5 cm from hilum; intact gallbladder with unavoidable cystic duct coverage; prior fcSEMS migration or intolerance; recurrence after fcSEMS removal.
@@ -65,18 +65,18 @@ Key organizational principle: extrahepatic strictures are substantially more ame
 ### Drainage: Extrahepatic Stricture, Malignant (Recs 5–7)
 
 - **Rec 5 (Conditional, Low):** **Avoid routine preoperative biliary drainage** in resectable pancreatic cancer or cholangiocarcinoma. Exceptions: acute cholangitis, bilirubin >14.6 mg/dL, severe pruritus, neoadjuvant therapy planned, significant anticipated delay to surgery (>2 weeks).
-- **Rec 6 (Strong, Moderate):** For unresectable or borderline resectable malignant extrahepatic stricture, use **SEMS over plastic stent**. SEMS: longer patency, fewer cholangitis events, fewer interruptions to chemotherapy, lower hospitalization, better quality of life.
-- Key Concept 7: **Confirm malignancy before placing uSEMS** — uSEMSs become permanently embedded; placing them in a benign stricture can lead to lifelong recurrent occlusion/cholangitis.
+- **Rec 6 (Strong, Moderate):** For unresectable or borderline resectable malignant extrahepatic stricture, use **self-expandable metal stents (SEMS) over plastic stent**. SEMS: longer patency, fewer cholangitis events, fewer interruptions to chemotherapy, lower hospitalization, better quality of life.
+- Key Concept 7: **Confirm malignancy before placing uncovered SEMS (uSEMS)** — uSEMSs become permanently embedded; placing them in a benign stricture can lead to lifelong recurrent occlusion/cholangitis.
 - Key Concept 8: If uSEMS is placed in a potential pancreaticoduodenectomy candidate, position the **proximal end ≥1.5 cm below the biliary confluence** to allow adequate duct for anastomosis.
 - **Rec 7 (Insufficient evidence):** Insufficient evidence to recommend uSEMS vs fcSEMS for unresectable malignant extrahepatic stricture. Similar patency; fcSEMS has higher tumor overgrowth/migration/sludge vs ingrowth with uSEMS. May favor uSEMS when cystic duct takeoff cannot be avoided.
 
 ### Drainage: Perihilar Stricture (Recs 8–9, Key Concepts 9–12)
 
-- Key Concept 9: Palliative drainage is **not mandatory** in asymptomatic patients with malignant perihilar stricture who have declined or are ineligible for additional treatment. Risks (cholangitis, sepsis, repeat procedures) vs. uncertain survival/QOL benefit should be discussed.
-- **Rec 8 (Insufficient evidence):** Insufficient evidence to recommend ERCP vs PTBD for drainage of suspected malignant perihilar stricture. Decision should be individualized. RCTs are small and discordant.
+- Key Concept 9: Palliative drainage is **not mandatory** in asymptomatic patients with malignant perihilar stricture who have declined or are ineligible for additional treatment. Risks (cholangitis, sepsis, repeat procedures) vs. uncertain survival/quality of life (QOL) benefit should be discussed.
+- **Rec 8 (Insufficient evidence):** Insufficient evidence to recommend ERCP vs percutaneous transhepatic biliary drainage (PTBD) for drainage of suspected malignant perihilar stricture. Decision should be individualized. Randomized controlled trials (RCTs) are small and discordant.
 - Key Concept 10: Perihilar ERCP is an **advanced biliary skill** — requires preprocedural cross-sectional imaging review, careful fluoroscopy/contrast use, and antibiotic prophylaxis if incomplete drainage anticipated.
 - Key Concept 11: Drainage goal is **volumetric sectorial** — drain >50% of the nonatrophic liver volume. Right anteromedial (V, VIII), right posterolateral (VI, VII), and left (II, III) sectors each contribute ~30% of volume. This replaces the unilateral vs bilateral framework.
-- **Rec 9 (Insufficient evidence):** Insufficient evidence to recommend PS vs uSEMS for malignant perihilar stricture. uSEMS has longer patency but cannot be removed; PS is preferred if intraductal ablative therapy (PDT/RFA) is planned.
+- **Rec 9 (Insufficient evidence):** Insufficient evidence to recommend plastic stent (PS) vs uSEMS for malignant perihilar stricture. uSEMS has longer patency but cannot be removed; PS is preferred if intraductal ablative therapy (photodynamic therapy [PDT]/radiofrequency ablation [RFA]) is planned.
 - Key Concept 12: If SEMS is chosen for perihilar drainage, **prove an effective drainage strategy with plastic stent(s) first** before committing to uSEMSs that cannot be repositioned.
 
 ### Endobiliary Ablation (Rec 10)
@@ -101,7 +101,7 @@ Key organizational principle: extrahepatic strictures are substantially more ame
 | Avoid EUS-FNA/B or percutaneous biopsy of primary lesion in suspected perihilar cholangiocarcinoma (seeding risk) | Strong | Low |
 | Use multimodality intraductal sampling (not brush cytology alone) at index ERCP for suspected malignant perihilar stricture | Strong | Low |
 | **Drainage — Benign Extrahepatic Stricture** | | |
-| Prefer fcSEMS over multiple plastic stents (MPS) to reduce number of procedures | Conditional | Low |
+| Prefer fcSEMS over MPS to reduce number of procedures | Conditional | Low |
 | **Drainage — Malignant Extrahepatic Stricture** | | |
 | Avoid routine preoperative biliary drainage in resectable pancreatic cancer or cholangiocarcinoma | Conditional | Low |
 | Use SEMS over plastic stent for unresectable or borderline resectable malignant extrahepatic stricture | Strong | Moderate |

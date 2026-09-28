@@ -7,7 +7,7 @@ updated: 2026-06-10
 sources: []
 ---
 
-> ⚠ **Historical / obsolete source.** Captured for historical reference only. This guideline describes the **first-generation protease-inhibitor era** (boceprevir/telaprevir triple therapy with peginterferon + ribavirin). It is entirely superseded by the interferon-free, pangenotypic direct-acting-antiviral (DAA) era — see [[aasld-idsa-2023-hcv|AASLD-IDSA 2023 Hepatitis C Guidance]]. **Do NOT use any regimen, dose, or stopping rule below for current care.**
+> ⚠ **Historical / obsolete source.** Captured for historical reference only. This guideline describes the **first-generation protease-inhibitor era** (boceprevir/telaprevir triple therapy with peginterferon + ribavirin). It is entirely superseded by the interferon-free, pangenotypic direct-acting-antiviral (DAA) era — see [[aasld-idsa-2023-hcv|American Association for the Study of Liver Diseases (AASLD)–Infectious Diseases Society of America (IDSA) 2023 Hepatitis C Guidance]]. **Do NOT use any regimen, dose, or stopping rule below for current care.**
 
 ## Bibliographic Info
 - **Article:** [Ghany MG, Nelson DR, Strader DB, Thomas DL, Seeff LB. An Update on Treatment of Genotype 1 Chronic Hepatitis C Virus Infection: 2011 Practice Guideline by the American Association for the Study of Liver Diseases. Hepatology 2011;54(4):1433–1444.](https://doi.org/10.1002/hep.24641)
@@ -18,12 +18,12 @@ sources: []
 - **Type:** guideline
 
 ## Summary
-This 2011 AASLD update added the first two direct-acting antivirals — the NS3/4A protease inhibitors **boceprevir** and **telaprevir** — to the prior standard of care (peginterferon alfa + ribavirin) for genotype 1 chronic [[hepatitis-c|HCV]]. Triple therapy raised sustained virologic response (SVR) rates substantially over peginterferon/ribavirin alone but required complex **response-guided therapy (RGT)**, futility ("stopping") rules, and management of new toxicities (notably anemia and, for telaprevir, rash). Neither agent could be used without peginterferon and weight-based ribavirin.
+This 2011 AASLD update added the first two direct-acting antivirals — the NS3/4A protease inhibitors **boceprevir** and **telaprevir** — to the prior standard of care (peginterferon alfa + ribavirin) for genotype 1 chronic [[hepatitis-c|hepatitis C virus (HCV)]]. Triple therapy raised sustained virologic response (SVR) rates substantially over peginterferon/ribavirin alone but required complex **response-guided therapy (RGT)**, futility ("stopping") rules, and management of new toxicities (notably anemia and, for telaprevir, rash). Neither agent could be used without peginterferon and weight-based ribavirin.
 
-The guideline is now of purely historical interest: boceprevir and telaprevir were withdrawn from the market and the entire interferon-based paradigm was replaced within a few years by interferon-free, pangenotypic DAA combinations (e.g. sofosbuvir/velpatasvir, glecaprevir/pibrentasvir) that achieve >95% SVR with short oral courses. It is preserved here to document the transitional first-generation-PI era and the origins of RGT and IL28B-based prognostication.
+The guideline is now of purely historical interest: boceprevir and telaprevir were withdrawn from the market and the entire interferon-based paradigm was replaced within a few years by interferon-free, pangenotypic DAA combinations (e.g. sofosbuvir/velpatasvir, glecaprevir/pibrentasvir) that achieve >95% SVR with short oral courses. It is preserved here to document the transitional first-generation protease inhibitor (PI) era and the origins of RGT and IL28B-based prognostication.
 
 ## Key Findings / Claims — Recommendations
-All 18 numbered recommendations, near-verbatim (ACC/AHA-style classes; Level A/B/C). **Obsolete — historical record only.**
+All 18 numbered recommendations, near-verbatim (American College of Cardiology/American Heart Association [ACC/AHA]-style classes; Level A/B/C). **Obsolete — historical record only.**
 
 1. The optimal therapy for genotype 1 chronic HCV infection is the use of boceprevir or telaprevir in combination with peginterferon alfa and ribavirin. (Class 1, Level A)
 2. Boceprevir and telaprevir should not be used without peginterferon alfa and weight-based ribavirin. (Class 1, Level A)

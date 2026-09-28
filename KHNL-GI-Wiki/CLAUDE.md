@@ -83,6 +83,17 @@ You are the LLM Wiki agent for a **GI-focused medical encyclopedia**. This is yo
 - **No large text blocks** — readers skim. Bullets, sub-bullets, tables.
 - Indentation + section outline carry structure; one idea per bullet.
 
+### Abbreviations — spell out on first use (Nick, 2026-09-28)
+- **Every abbreviation is spelled out the first time it appears on a page**: `endoscopic retrograde cholangiopancreatography (ERCP)`. After that, abbreviation only — never re-expand later on the same page.
+- **Per page, not per section:** first occurrence in reading order (body, tables, Mermaid labels, figure captions). Frontmatter doesn't count.
+- **Headings don't count and don't change** (renaming breaks `[[#Heading]]` anchors in `## Contents`) — expand at the first body use under/after them. Headings already written `Full Term (ABBR)` are fine.
+- **In a link, expand inside the alias:** `[[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]`; in tables escape the pipe as usual.
+- **Verbatim recommendation text:** don't rewrite the quote — expand earlier on the page, or insert the expansion in square brackets inside the quote (`ERCP [endoscopic retrograde cholangiopancreatography]`).
+- **Exempt:** units (mg/dL, mm, IU/L, mo, y), gene/protein symbols used as names (MLH1, KRAS, HLA-DQ2), Latin/English shorthand (e.g., vs, i.e.), chemical symbols, citation/title strings quoted as published (`**Article:**` line, `## Sources` list — expand at the first use elsewhere), and named trials/instruments whose expansion no ingested source gives (don't guess one).
+- Existing `ABBR (Full Term)` order is acceptable; new text uses `Full Term (ABBR)`.
+- **Expansion must be correct for this context.** Ambiguous (PSC, MAC, SBP…) → use the expansion the ingested source defines (its abbreviation list / first use); never guess.
+- Anki cards are separate (Card writing rule 2) — the page rule doesn't apply to card text.
+
 ### Prefer visuals over text
 - **Tables, decision trees/flowcharts, charts, embedded figures** over long bullet lists wherever they convey structure better. A page that earns a figure or table has one.
 - Mechanics: `Rendering Conventions → Images` (embed, figure capture, table recreation) and `→ Mermaid diagrams`.
@@ -285,12 +296,13 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
 - **Stubs expandable from already-ingested sources** — any `*Stub — to be expanded.*` page substantively covered by a source in `raw/` (or an existing `wiki/sources/` page).
 - Missing cross-references.
 - **Un-linked in-text mentions** — body text naming an entity (disease, med, procedure, concept) that has a page but isn't linked → convert to inline `[[slug|Displayed Words]]`. Primary lint job, every pass.
+- **Unexpanded abbreviations** — first use of an abbreviation on a page not spelled out (Style Guide → *Abbreviations*), or re-expanded later → fix on every page the pass touches.
 - **Decision gaps — conclusion present, inputs missing.** Classification/risk stratum/score/stage/grade named without its criteria; recommendation conditional on an unstated threshold; threshold missing units/qualifier. Test: could the decision be made from this page alone? Fix from the ingested source; source not ingested → flag.
 - **Broken table cells from unescaped alias pipes:** `grep -rn --include='*.md' -E '^\s*\|.*\[\[[^]]*[^\\]\|' wiki` → escape as `[[slug\|Alias]]`.
 - Data gaps fillable by a web search or known source.
 
 **Behavior (manual and scheduled):**
-- **Validate the stalest pages (every pass).** Take the **2–3 least-recently-updated pages** (oldest frontmatter `updated:` first; ties arbitrary) and check each against both guides: **decision sufficiency first** (criteria/thresholds/scores behind every conditional recommendation on the page), source fidelity, no repetition within/across pages, source algorithms/figures/tables captured (Content Guide); skimmable bullets, ADDT / schema section order, inline `[[links]]` incl. the schema pointer atop Differential Diagnosis, `## See Also` + `## Sources` format (Style Guide). Fix what's off, bump `updated:`. Cap 2–3 pages/pass for token budget; next pass continues with the next-stalest.
+- **Validate the stalest pages (every pass).** Take the **2–3 least-recently-updated pages** (oldest frontmatter `updated:` first; ties arbitrary) and check each against both guides: **decision sufficiency first** (criteria/thresholds/scores behind every conditional recommendation on the page), source fidelity, no repetition within/across pages, source algorithms/figures/tables captured (Content Guide); skimmable bullets, abbreviations spelled out on first use, ADDT / schema section order, inline `[[links]]` incl. the schema pointer atop Differential Diagnosis, `## See Also` + `## Sources` format (Style Guide). Fix what's off, bump `updated:`. Cap 2–3 pages/pass for token budget; next pass continues with the next-stalest.
 - **Expand stubs from already-ingested sources only (every pass).** Stub whose subject is substantively covered by a source in `raw/` (or `wiki/sources/`) → full page per both guides (ADDT / schema order): read the **original raw source** (PDF), capture definitions/algorithms/recommendations, update frontmatter (`sources:`, `updated:`), `index.md` description, append a log entry. **Hard constraint: never outside/internet info.** Raw files insufficient → leave the stub, flag which source is needed. Cap **1–2 expansions/pass**; deeper stubs needing an un-ingested source are reported, not invented.
 - **Never create new folders.** Only Directory Structure folders — no new top-level dirs, second `wiki/`, `lint-report/`, `concepts/` outside `7-concepts/`. Genuinely new folder needed → stop and ask.
 - **Lint reports are ephemeral — never written to disk.** Chat response only; no `lint-report.md`, `lint-final-summary.md`, `markdown_files_to_lint.txt`, or similar. Durable record = one `lint` entry in `wiki/log.md` (fixed + remaining for triage).

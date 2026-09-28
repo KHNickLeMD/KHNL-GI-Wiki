@@ -13,7 +13,7 @@ sources: []
 - **Year:** 2024
 - **Journal/Publisher:** Clinical Gastroenterology and Hepatology
 - **DOI:** [10.1016/j.cgh.2023.10.012](https://doi.org/10.1016/j.cgh.2023.10.012)
-- **Type:** guideline (AGA Clinical Practice Update — Expert Review; Best Practice Advice, no formal GRADE)
+- **Type:** guideline (American Gastroenterological Association [AGA] Clinical Practice Update — Expert Review; Best Practice Advice, no formal Grading of Recommendations Assessment, Development and Evaluation [GRADE])
 
 ## Summary
 
@@ -21,7 +21,7 @@ AGA Expert Review giving practical guidance on choosing polypectomy techniques f
 
 Core message: **cold snare polypectomy (CSP) is the standard for polyps <10 mm**; hot forceps should be abandoned; **intermediate 10–19 mm polyps** require judgment between cold and hot techniques based on size-within-range, morphology, bulk, and histology; **serrated lesions are resected cold** (with submucosal injection if >10 mm and margins are indistinct); **pedunculated lesions >10 mm are resected hot**; clips are not routinely needed for polyps <20 mm; and polyps ≥20 mm, difficult locations, or recurrences should be referred to endoscopic referral centers. Overt SMIC → surgical evaluation.
 
-The update relies on optical-diagnosis schemas (Paris, NICE, WASP, Kudo, JNET) to predict deep SM invasion (>1000 μm), which contraindicates endoscopic resection. It complements the USMSTF 2020 removal/malignant-polyp guidance already on [[polypectomy]].
+The update relies on optical-diagnosis schemas (Paris, Narrow-Band Imaging International Colorectal Endoscopic [NICE], Workgroup Serrated Polyps and Polyposis [WASP], Kudo, Japan Narrow-Band Imaging Expert Team [JNET]) to predict deep submucosal (SM) invasion (>1000 μm), which contraindicates endoscopic resection. It complements the US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2020 removal/malignant-polyp guidance already on [[polypectomy]].
 
 ## Key Findings / Claims
 
@@ -41,20 +41,20 @@ The update relies on optical-diagnosis schemas (Paris, NICE, WASP, Kudo, JNET) t
 12. Understand the endoscopy suite's electrosurgical generator settings appropriate for polypectomy or postpolypectomy thermal techniques.
 
 **Supporting data / thresholds:**
-- **Optical diagnosis of deep SMI:** polyps with **no NICE type 3 features** have >90% NPV for absence of deep SM invasion; **42% of NICE-3 polyps** have ≥SM invasion. Deep SMI = **>1000 μm** into submucosa → surgery.
-- **Morphology risk of SMIC:** LST-nongranular (predominantly lateral extension) ~**31.6%**; Paris **0-IIc (depressed) 27–35.9%** even <20 mm; nongranular flat/raised **4.9%** (rises to 31.6% with depression).
-- **CSP performance:** complete resection of 4–9 mm polyps by CSP **98.2%** in one RCT; HSP should no longer be used for polyps <10 mm. CFP incomplete-resection 9.9% vs CSP 4.4% (1–5 mm historically), but a recent RCT found large-capacity CFP **noninferior for 3-mm** polyps.
-- **Intermediate 10–19 mm:** RCT of 763 polyps 6–20 mm — complete resection CSP **81.6%**, c-EMR **94.1%**, hot-EMR **95.5%**; cold-snare failures size-dependent (**53% incomplete in 16–20 mm**). Immediate bleeding higher with cold (CSP 9.4%, c-EMR 4.4% vs h-EMR 1.4%); delayed bleeding higher with hot (h-EMR 2.6% vs CSP 0.8%). Decision factors: larger/bulkier/sessile/adenomatous → hot; flat (Paris IIa/IIb) and serrated → cold (c-EMR preferred).
-- **Serrated (SSL) ≥10 mm:** cold resection (CSP or c-EMR), practically no upper size limit; recurrence 0–10%, immediate bleeding 0–3%, no perforations; c-EMR vs h-EMR for large SSLs virtually eliminates bleeding (h-EMR 5.1%) and deep mural injury (h-EMR 3.4%). SM injection to ensure ≥2 mm clear margin.
+- **Optical diagnosis of deep submucosal invasion (SMI):** polyps with **no NICE type 3 features** have >90% negative predictive value (NPV) for absence of deep SM invasion; **42% of NICE-3 polyps** have ≥SM invasion. Deep SMI = **>1000 μm** into submucosa → surgery.
+- **Morphology risk of SMIC:** Laterally spreading tumor (LST)-nongranular (predominantly lateral extension) ~**31.6%**; Paris **0-IIc (depressed) 27–35.9%** even <20 mm; nongranular flat/raised **4.9%** (rises to 31.6% with depression).
+- **CSP performance:** complete resection of 4–9 mm polyps by CSP **98.2%** in one randomized controlled trial (RCT); hot snare polypectomy (HSP) should no longer be used for polyps <10 mm. CFP incomplete-resection 9.9% vs CSP 4.4% (1–5 mm historically), but a recent RCT found large-capacity CFP **noninferior for 3-mm** polyps.
+- **Intermediate 10–19 mm:** RCT of 763 polyps 6–20 mm — complete resection CSP **81.6%**, cold endoscopic mucosal resection (c-EMR) **94.1%**, hot endoscopic mucosal resection (h-EMR) **95.5%**; cold-snare failures size-dependent (**53% incomplete in 16–20 mm**). Immediate bleeding higher with cold (CSP 9.4%, c-EMR 4.4% vs h-EMR 1.4%); delayed bleeding higher with hot (h-EMR 2.6% vs CSP 0.8%). Decision factors: larger/bulkier/sessile/adenomatous → hot; flat (Paris IIa/IIb) and serrated → cold (c-EMR preferred).
+- **Serrated (sessile serrated lesion [SSL]) ≥10 mm:** cold resection (CSP or c-EMR), practically no upper size limit; recurrence 0–10%, immediate bleeding 0–3%, no perforations; c-EMR vs h-EMR for large SSLs virtually eliminates bleeding (h-EMR 5.1%) and deep mural injury (h-EMR 3.4%). SM injection to ensure ≥2 mm clear margin.
 - **Pedunculated:** HSP for size ≥10 mm and/or stalk ≥5 mm (bleeding risk factors); prophylactic epinephrine injection or detachable loop/clip for heads ≥20 mm and/or stalks ≥5 mm.
-- **Clips:** benefit limited to polyps **≥20 mm in the proximal colon** (individual-patient-data meta-analysis: 38% reduction in delayed bleeding; adjusted OR 0.62); no benefit for <20 mm regardless of location or antithrombotics. Serrated polyps have low bleeding risk and do not require clipping.
+- **Clips:** benefit limited to polyps **≥20 mm in the proximal colon** (individual-patient-data meta-analysis: 38% reduction in delayed bleeding; adjusted odds ratio [OR] 0.62); no benefit for <20 mm regardless of location or antithrombotics. Serrated polyps have low bleeding risk and do not require clipping.
 - **Tattoo:** inert agent, 22–25 G needle into submucosa, **2–3 sites 3–5 cm distal** to lesion, ≥2 cm away to avoid fibrosis; for surgical localization place opposite the lumen wall of the lesion.
 - **Table 1** summarizes Paris, NICE (types 1–3), WASP, Kudo (I–VN), and JNET (1, 2A, 2B, 3) classifications (illustrated in Supplementary Figures 1–6). These optical-diagnosis systems are the home content on [[polypectomy]].
 
 ## Relevance to Wiki
-- **[[polypectomy]]** — primary page updated: adds the AGA 2024 tailored technique-selection framework (esp. the 10–19 mm cold-vs-hot decision, serrated-cold rule, u-EMR/lifting for sessile 10–19 mm, clip-only-≥20 mm-proximal, referral triggers). Corroborates and refines the existing USMSTF 2020 resection-by-size content without duplicating it.
+- **[[polypectomy]]** — primary page updated: adds the AGA 2024 tailored technique-selection framework (esp. the 10–19 mm cold-vs-hot decision, serrated-cold rule, underwater endoscopic mucosal resection (u-EMR)/lifting for sessile 10–19 mm, clip-only-≥20 mm-proximal, referral triggers). Corroborates and refines the existing USMSTF 2020 resection-by-size content without duplicating it.
 - **[[colonoscopy]]** — structured photodocumentation of all polyps; polyp-size accuracy affects surveillance intervals.
 
 ## Contradictions / Open Questions
-- No major contradiction with USMSTF 2020. The CPU is more permissive of **large-capacity cold forceps for 3-mm** polyps than USMSTF (which discouraged cold forceps); surfaced on [[polypectomy]].
+- No major contradiction with USMSTF 2020. The Clinical Practice Update (CPU) is more permissive of **large-capacity cold forceps for 3-mm** polyps than USMSTF (which discouraged cold forceps); surfaced on [[polypectomy]].
 - Intermediate 10–19 mm technique remains an area of active RCTs; optimal piecemeal cold-resection technique and post-c-EMR surveillance intervals are not yet defined.

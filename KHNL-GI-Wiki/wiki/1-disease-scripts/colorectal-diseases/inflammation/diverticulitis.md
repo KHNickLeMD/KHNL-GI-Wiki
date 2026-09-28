@@ -34,8 +34,8 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 ### Establishing the Diagnosis
 
 - **Clinical evaluation alone is inaccurate in most cases** — confirm with imaging.
-- Features raising likelihood: older age, prior episodes, **left lower-quadrant pain and tenderness**, pain with movement, lack of vomiting, elevated CRP.
-- **CT is essential** — especially at first presentation and in severe cases — to confirm diverticulitis, exclude alternatives, grade severity, and localize disease if surgery is contemplated.
+- Features raising likelihood: older age, prior episodes, **left lower-quadrant pain and tenderness**, pain with movement, lack of vomiting, elevated C-reactive protein (CRP).
+- **computed tomography (CT) is essential** — especially at first presentation and in severe cases — to confirm diverticulitis, exclude alternatives, grade severity, and localize disease if surgery is contemplated.
   - CT of uncomplicated disease: colonic wall thickening and/or increased pericolic fat stranding.
 
 ### Severity Assessment
@@ -63,8 +63,8 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 
 **Other presentations:**
 - **Smoldering / chronic diverticulitis** — inflammation persisting weeks to months; partial/complete improvement on antibiotics then relapse shortly after stopping (contrast with recurrent disease, which has inflammation-free intervals). 6% of new diagnoses at 6-month follow-up. Confirm with cross-sectional imaging; some ultimately need segmental resection.
-- **[[segmental-colitis-associated-with-diverticulosis|SCAD]]** — chronic inflammation of diverticula-bearing segments, sparing the rectum; histology can resemble [[ulcerative-colitis]] or [[crohns-disease]]; unclear whether distinct entity or [[inflammatory-bowel-disease|IBD]] manifestation.
-- **SUDD** (symptomatic uncomplicated diverticular disease) — controversial: [[abdominal-bloating-and-distention|bloating]], chronic/recurrent abdominal pain, or altered bowel habits (diarrhea or [[chronic-constipation|constipation]]) with diverticulosis, without systemic inflammation or overt diverticulitis. (Diverticulosis itself is **not** associated with chronic GI symptoms in US population studies.)
+- **[[segmental-colitis-associated-with-diverticulosis|segmental colitis associated with diverticulosis (SCAD)]]** — chronic inflammation of diverticula-bearing segments, sparing the rectum; histology can resemble [[ulcerative-colitis]] or [[crohns-disease]]; unclear whether distinct entity or [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] manifestation.
+- **SUDD** (symptomatic uncomplicated diverticular disease) — controversial: [[abdominal-bloating-and-distention|bloating]], chronic/recurrent abdominal pain, or altered bowel habits (diarrhea or [[chronic-constipation|constipation]]) with diverticulosis, without systemic inflammation or overt diverticulitis. (Diverticulosis itself is **not** associated with chronic gastrointestinal (GI) symptoms in US population studies.)
 - **Diverticulosis** — mucosa and submucosa herniating through the muscularis propria at the points where the vasa recta penetrate the wall. **Among people with diverticulosis, only ~1%–4% develop diverticulitis over 7 years of follow-up** — an incidental finding, not a disease.
 
 ---
@@ -84,8 +84,8 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 
 - **CT abdomen/pelvis** — primary confirmatory test (see Assessment); grades modified Hinchey stage.
 - **CRP** — supports diagnosis and stratifies risk (**>140 mg/L** = high-risk feature).
-- **[[colonoscopy|Colonoscopy]]** — *not* for acute diagnosis; role is post-recovery cancer exclusion, and it should **not be performed within 6–8 weeks** of the episode (see Therapeutics). Earlier scoping risks incomplete exam (3.7%, 95% CI 2.7–4.9) and perforation (0.2%).
-  - **A normal CT does not exclude an underlying colonic neoplasm** — absence of a mass lesion is not a substitute for a high-quality colon exam ([[aga-2015-acute-diverticulitis|AGA 2015]]).
+- **[[colonoscopy|Colonoscopy]]** — *not* for acute diagnosis; role is post-recovery cancer exclusion, and it should **not be performed within 6–8 weeks** of the episode (see Therapeutics). Earlier scoping risks incomplete exam (3.7%, 95% confidence interval (CI) 2.7–4.9) and perforation (0.2%).
+  - **A normal CT does not exclude an underlying colonic neoplasm** — absence of a mass lesion is not a substitute for a high-quality colon exam ([[aga-2015-acute-diverticulitis|American Gastroenterological Association (AGA) 2015]]).
   - Yield of colonoscopy after imaging-proven diverticulitis: **colorectal cancer 15 cases/1000 patients; advanced adenomas 38 cases/1000** (AGA 2015).
 
 ---
@@ -94,16 +94,16 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 
 ### Acute episode — antibiotics
 
-- **Suggest against routine antibiotics for low-risk acute uncomplicated diverticulitis** (*conditional, moderate certainty*). RCT meta-analysis (4 trials, n=1,809): antibiotics had little/no effect on mortality, progression to complicated disease, surgery, readmission, or recurrence.
+- **Suggest against routine antibiotics for low-risk acute uncomplicated diverticulitis** (*conditional, moderate certainty*). randomized controlled trial (RCT) meta-analysis (4 trials, n=1,809): antibiotics had little/no effect on mortality, progression to complicated disease, surgery, readmission, or recurrence.
 - **Low-risk = nonantibiotic candidate — ALL of the following must be present:**
-  - Immunocompetent · outpatient · no evidence of complicated disease · hemodynamically stable · no SIRS (fever, tachycardia, leukocytosis) · not medically frail · tolerating oral intake · no recent antibiotic use · reliable follow-up + adequate social support.
+  - Immunocompetent · outpatient · no evidence of complicated disease · hemodynamically stable · no systemic inflammatory response syndrome (SIRS: fever, tachycardia, leukocytosis) · not medically frail · tolerating oral intake · no recent antibiotic use · reliable follow-up + adequate social support.
 - **Antibiotics ARE reasonable when:** immunocompromise · frailty · significant comorbidities · clinical deterioration or persistent/worsening symptoms · unable to tolerate oral intake · vomiting · markedly elevated CRP · higher-risk imaging (fluid collection, longer inflamed segment) · inadequate outpatient support/follow-up.
 - **Regimens when indicated (outpatient, usual duration 4–7 days):**
 
 | | Regimen |
 |---|---|
-| **Monotherapy** | Amoxicillin-clavulanate **875/125 mg PO q12h** *or* moxifloxacin **400 mg PO daily** |
-| **Combination** | Metronidazole **500 mg PO q8h** **plus** one of: TMP-SMX 1 DS tab (160/800 mg) q12h · ciprofloxacin 500 mg q12h · levofloxacin 500 mg q24h |
+| **Monotherapy** | Amoxicillin-clavulanate **875/125 mg by mouth (PO) q12h** *or* moxifloxacin **400 mg PO daily** |
+| **Combination** | Metronidazole **500 mg PO q8h** **plus** one of: trimethoprim-sulfamethoxazole (TMP-SMX) 1 double-strength (DS) tab (160/800 mg) q12h · ciprofloxacin 500 mg q12h · levofloxacin 500 mg q24h |
 
   - Amoxicillin-clavulanate ≈ metronidazole + fluoroquinolone for outpatient diverticulitis, and may reduce fluoroquinolone harms (incl. *[[clostridioides-difficile|C. difficile]]*).
 - AGA 2015 reached the same "selective, not routine" position (*conditional, low quality*) and set the boundary of the trial evidence: it came from **inpatients with CT-confirmed uncomplicated disease**, and does not extend to abscess or fistula, signs of severe infection or sepsis, immunosuppression, or other significant comorbidities.
@@ -111,8 +111,8 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 
 ### Post-recovery colonoscopy
 
-- **After COMPLICATED diverticulitis → colonoscopy recommended** (*strong, moderate certainty*) — 6-fold higher odds of colon cancer (OR 5.65) vs uncomplicated.
-- **After UNCOMPLICATED diverticulitis → colonoscopy only if** alarm symptoms (unintentional weight loss, change in bowel habits, [[iron-deficiency-anemia|iron-deficiency anemia]], bloody stools, persistent abdominal pain) **or** not current with [[colorectal-cancer-screening|CRC screening]] (*conditional, low certainty*). Cancer odds are close to the screening population (**OR 1.57**, 95% CI 0.70–3.51) and advanced neoplasia is actually **less** likely (**OR 0.68**, 0.52–0.90).
+- **After COMPLICATED diverticulitis → colonoscopy recommended** (*strong, moderate certainty*) — 6-fold higher odds of colon cancer (odds ratio (OR) 5.65) vs uncomplicated.
+- **After UNCOMPLICATED diverticulitis → colonoscopy only if** alarm symptoms (unintentional weight loss, change in bowel habits, [[iron-deficiency-anemia|iron-deficiency anemia]], bloody stools, persistent abdominal pain) **or** not current with [[colorectal-cancer-screening|colorectal cancer (CRC) screening]] (*conditional, low certainty*). Cancer odds are close to the screening population (**OR 1.57**, 95% CI 0.70–3.51) and advanced neoplasia is actually **less** likely (**OR 0.68**, 0.52–0.90).
 - **Timing: not within 6–8 weeks** of the acute episode (inflammation/edema/luminal narrowing → incomplete/unsafe exam). Optimal timing has not been established; severity and duration of the episode are relevant.
 - **Factors that move the decision in an individual patient** (AGA 2015): timing and completeness of any prior colonoscopy · comorbidities · persistent abdominal pain or diarrhea · patient preference.
   - Procedural risk may be higher after **chronic, acute recurrent, or complicated** diverticulitis — though colonoscopy-triggered recurrence or perforation has not been reported as an adverse event in the published series.
@@ -126,19 +126,19 @@ Recurrence is common and rises with each episode (10-yr risk: ≥22% after 1st, 
 - **Healthy diet** — high fruits/vegetables/whole grains/legumes/fiber; limit red meat, processed grains, trans fats, sweets (*conditional, very low*). Add fiber gradually; **supplemental fiber is not a substitute** for a high-quality diet. (Fiber's benefit is no longer attributed to relieving constipation.)
   - AGA 2015 accepts **either a fiber-rich diet or fiber supplementation** (*conditional, very low*). The **optimal daily fiber dose is not known**, no study has tested whether fiber reduces *recurrent* diverticulitis, and the benefit in recurrent or complicated disease is undefined — weigh against bloating and other fiber side effects.
 - **Do NOT avoid nuts, corn, seeds, or popcorn** — no association with recurrence (*conditional, very low*). A myth to actively debunk with patients. AGA 2015 agrees (*conditional, very low*): reported relative risks 0.55–1.13, confidence intervals straddling 1.0.
-- **Limit regular NSAIDs** unless clinically indicated (incident HR 1.72 nonaspirin, 1.25 aspirin) — do not stop NSAIDs needed for another indication (*conditional, low*).
-  - **Aspirin is the exception to press on.** AGA 2015 suggests **against routinely advising aspirin avoidance** (*conditional recommendation*): risk of any episode RR 1.25 (95% CI 1.05–1.47), complicated disease RR 1.13 (0.61–2.10), and the benefit of aspirin in **secondary** cardiovascular prevention outweighs that risk. Aspirin for **primary** prevention is a more individualized call.
+- **Limit regular nonsteroidal anti-inflammatory drugs (NSAIDs)** unless clinically indicated (incident hazard ratio (HR) 1.72 nonaspirin, 1.25 aspirin) — do not stop NSAIDs needed for another indication (*conditional, low*).
+  - **Aspirin is the exception to press on.** AGA 2015 suggests **against routinely advising aspirin avoidance** (*conditional recommendation*): risk of any episode relative risk (RR) 1.25 (95% CI 1.05–1.47), complicated disease RR 1.13 (0.61–2.10), and the benefit of aspirin in **secondary** cardiovascular prevention outweighs that risk. Aspirin for **primary** prevention is a more individualized call.
   - Nonaspirin NSAIDs — avoid where possible (AGA 2015, *conditional, very low*).
 - **Smoking cessation** (complicated-disease RR 2.54) (*conditional, very low*).
 - **Alcohol moderation** in heavy drinkers (*conditional, very low*).
-- **Weight loss** if [[obesity|overweight/obese]] (recurrence HR 1.66 for BMI ≥30 vs <22.5; visceral adiposity may matter most) (*conditional, low*).
+- **Weight loss** if [[obesity|overweight/obese]] (recurrence HR 1.66 for body mass index (BMI) ≥30 vs <22.5; visceral adiposity may matter most) (*conditional, low*).
 - **Regular physical activity** (incident RR 0.76) (*conditional, very low*). AGA 2015 specifies **vigorous** activity (*conditional, very low*) — modest reduction in incident episodes in a 47,288-man cohort.
 
 ### Elective surgery
 
 - **Refer for surgical consult** when **recurrent uncomplicated** diverticulitis **significantly impairs quality of life** — to discuss risks/benefits, individualized (*conditional, low certainty*).
 - **The number of episodes should NOT determine surgery** — the old "colectomy after 2 episodes" rule is abandoned; recurrence does not increase the risk of future complicated disease, and young age alone is not an indication.
-- **Trade-offs to counsel:** elective colectomy cuts 5-yr recurrence to ~15% (vs ~60% without) but does not eliminate it; DIRECT/LASER RCTs showed QoL gains, but QoL was unchanged/worse in 30% (DIRECT) and abdominal pain persisted in 63% at 6 months (LASER); major surgical complications 10–34%; nearly one-third report decision regret. Confirm diagnosis by CT before elective resection.
+- **Trade-offs to counsel:** elective colectomy cuts 5-yr recurrence to ~15% (vs ~60% without) but does not eliminate it; DIRECT/LASER RCTs showed quality of life (QoL) gains, but QoL was unchanged/worse in 30% (DIRECT) and abdominal pain persisted in 63% at 6 months (LASER); major surgical complications 10–34%; nearly one-third report decision regret. Confirm diagnosis by CT before elective resection.
 - **Does not apply to** strictures, fistulas, chronic/smoldering diverticulitis, or prior abscess/perforation.
 
 **After a FIRST episode of acute uncomplicated diverticulitis — suggest against elective colonic resection**; individualize (AGA 2015, *conditional, very-low quality*). The numbers behind that:
@@ -155,7 +155,7 @@ Recurrence is common and rises with each episode (10-yr risk: ≥22% after 1st, 
 
 ### What does NOT work (recommend against, for recurrence prevention)
 
-- **[[mesalamine-5-asa|Mesalamine]]** — *strong, moderate certainty* against (ACP 2022 meta-analysis, 6 RCTs n=1,898: OR 1.15, no benefit; more AE discontinuation OR 1.59). AGA 2015 reached the same strong/moderate recommendation from 6 studies in >1,800 patients — the most robust evidence base of any agent it reviewed.
+- **[[mesalamine-5-asa|Mesalamine]]** — *strong, moderate certainty* against (American College of Physicians (ACP) 2022 meta-analysis, 6 RCTs n=1,898: OR 1.15, no benefit; more adverse event (AE) discontinuation OR 1.59). AGA 2015 reached the same strong/moderate recommendation from 6 studies in >1,800 patients — the most robust evidence base of any agent it reviewed.
 - **[[rifaximin|Rifaximin]]** — *conditional* against (only a small, open-label, early-stopped signal; the reduction in recurrence was not statistically significant).
 - **[[probiotics|Probiotics]]** — *conditional* against (RCT showed no benefit; cost/burden).
 - **Scope limit for mesalamine and rifaximin:** the recommendations cover use **after acute uncomplicated diverticulitis**. AGA 2015 states they do not apply to multiple recurrent/relapsing disease or to symptomatic uncomplicated diverticular disease — those populations were not evaluated.

@@ -37,11 +37,11 @@ sources: [acg-2024-acute-pancreatitis]
 
 ## Summary
 
-ACG guideline on the management of [[acute-pancreatitis|acute pancreatitis]] (AP), built on 16 PICO questions. It issues **11 GRADE-rated recommendations (Table 2)** and **23 key concepts (Table 3)**. Key concepts are statements not amenable to the GRADE process, or where evidence is limited, derived from extrapolation and expert opinion; they carry **no strength or evidence rating**.
+American College of Gastroenterology (ACG) guideline on the management of [[acute-pancreatitis|acute pancreatitis]] (AP), built on 16 Population, Intervention, Comparison, Outcome (PICO) questions. It issues **11 Grading of Recommendations Assessment, Development and Evaluation (GRADE)-rated recommendations (Table 2)** and **23 key concepts (Table 3)**. Key concepts are statements not amenable to the GRADE process, or where evidence is limited, derived from extrapolation and expert opinion; they carry **no strength or evidence rating**.
 
-Only **one** recommendation in the guideline is Strong: rectal indomethacin to prevent post-ERCP pancreatitis. The other ten are all Conditional, on low or very low quality evidence. Diagnosis, severity classification, and cholecystectomy timing are handled entirely through key concepts and narrative, not through graded recommendations.
+Only **one** recommendation in the guideline is Strong: rectal indomethacin to prevent post-endoscopic retrograde cholangiopancreatography (ERCP) pancreatitis. The other ten are all Conditional, on low or very low quality evidence. Diagnosis, severity classification, and cholecystectomy timing are handled entirely through key concepts and narrative, not through graded recommendations.
 
-The central management positions are moderately aggressive hydration with lactated Ringer solution early in the course, early oral feeding with a low-fat solid diet in mild AP, avoidance of prophylactic antibiotics and of CT-guided FNA, medical therapy over early [[ercp|ERCP]] in biliary AP without cholangitis, and delayed minimally invasive intervention for pancreatic necrosis.
+The central management positions are moderately aggressive hydration with lactated Ringer solution early in the course, early oral feeding with a low-fat solid diet in mild AP, avoidance of prophylactic antibiotics and of computed tomography (CT)-guided fine-needle aspiration (FNA), medical therapy over early [[ercp|ERCP]] in biliary AP without cholangitis, and delayed minimally invasive intervention for pancreatic necrosis.
 
 The guideline is deliberately negative about severity prediction: it states that scoring systems and imaging alone are not accurate for determining which patients will develop moderately severe or severe AP, and that no single laboratory test is consistently accurate. It favours tracking a panel of clinical risk factors (Table 4) over any one score.
 
@@ -53,7 +53,7 @@ The guideline is deliberately negative about severity prediction: it states that
 - **Serum lipase is preferred.** Amylase alone cannot be used reliably (limitations in sensitivity and negative predictive value). Amylase rises within a few hours and returns to normal within 3–5 days; it may remain within the normal range on admission in as many as one-fifth of patients.
 - The guideline notes an upper limit of normal **greater than 3–5 times** may be needed in some groups, e.g. patients with diabetes. Lipase is also elevated in nonpancreatic disease.
 - Once AP is diagnosed, there is **no reason to follow** serum amylase or lipase — no relationship to severity, prognosis, or the decision to refeed or discharge.
-- Contrast-enhanced CT provides **more than 90% sensitivity and specificity** for the diagnosis of AP. Routine CT is unwarranted; reserve it for patients failing to improve after **48–72 hours** (persistent pain, fever, nausea, unable to begin oral feeding), where CT or MRI is recommended to assess local complications.
+- Contrast-enhanced CT provides **more than 90% sensitivity and specificity** for the diagnosis of AP. Routine CT is unwarranted; reserve it for patients failing to improve after **48–72 hours** (persistent pain, fever, nausea, unable to begin oral feeding), where CT or magnetic resonance imaging (MRI) is recommended to assess local complications.
 - MRI advantages: contrast allergy and renal insufficiency (necrosis on nongadolinium T2-weighted images), and more accurate detection of stones in the common bile duct and pancreatic duct disruption. See [[mri-mrcp]].
 
 ### Etiology
@@ -62,14 +62,14 @@ The guideline is deliberately negative about severity prediction: it states that
 |---|---|
 | Gallstones | 40%–70% |
 | Alcohol | 25%–35% |
-| Hypertriglyceridemia | 5% of all cases of AP; up to 56% of AP in pregnancy. Serum TG should rise **above 1,000 mg/dL** to be considered the cause |
+| Hypertriglyceridemia | 5% of all cases of AP; up to 56% of AP in pregnancy. Serum triglyceride (TG) should rise **above 1,000 mg/dL** to be considered the cause |
 | Pancreatobiliary tumor | 5%–14% of patients with benign or malignant pancreatobiliary tumors present with acute idiopathic pancreatitis; ~1% of AP due to pancreatic cancer |
-| Pancreas divisum / SOD | Anatomic and physiologic anomalies occur in 10%–15% of the population |
+| Pancreas divisum / sphincter of Oddi dysfunction (SOD) | Anatomic and physiologic anomalies occur in 10%–15% of the population |
 
 - Risk of AP increases by **4% for every 100 mg/dL of TG** above the normal limit, even higher when TG levels are above 500 mg/dL. A lactescent serum has been observed in as many as 20% of patients with AP; a fasting TG should be re-evaluated **1 month after discharge**.
 - "Heavy" alcohol consumption is generally considered to be greater than **50 g per day**, but is likely much higher; the diagnosis should not be entertained unless a person has consumed over **5 years** moderate or heavy alcohol. Clinically evident AP occurs in only up to 5% of heavy drinkers.
-- **Idiopathic AP (IAP)** = pancreatitis with no etiology established after initial evaluation (including lipid and calcium levels) and imaging tests (transabdominal ultrasound and MRCP in the appropriate patient). [[endoscopic-ultrasound|EUS]] identifies the etiology in most patients with recurrent IAP; diagnostic [[ercp|ERCP]] should **not** be performed because of the increased risk of causing pancreatitis.
-- Patients with IAP who have an abnormal LFT on the first day of their presentation may be more likely to benefit from cholecystectomy. A meta-analysis in IAP after extensive testing including EUS and ERCP found significantly fewer recurrences of AP after cholecystectomy, **11% vs 39%**.
+- **Idiopathic AP (IAP)** = pancreatitis with no etiology established after initial evaluation (including lipid and calcium levels) and imaging tests (transabdominal ultrasound and magnetic resonance cholangiopancreatography (MRCP) in the appropriate patient). [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] identifies the etiology in most patients with recurrent IAP; diagnostic [[ercp|ERCP]] should **not** be performed because of the increased risk of causing pancreatitis.
+- Patients with IAP who have an abnormal liver function test (LFT) on the first day of their presentation may be more likely to benefit from cholecystectomy. A meta-analysis in IAP after extensive testing including EUS and ERCP found significantly fewer recurrences of AP after cholecystectomy, **11% vs 39%**.
 - A recurrent attack is seen in approximately **20%–29%** of patients after an initial attack of AP.
 - Endoscopic therapy focused on treating [[pancreas-divisum|pancreas divisum]] or [[sphincter-of-oddi-dysfunction|SOD]] carries a significant risk of precipitating AP and should be performed only in specialized units. The EPISOD trial ruled out the role of endoscopic sphincterotomy in SOD type 2 and SOD type 3.
 - [[pancreatic-cancer|Pancreatic cancer]] should be suspected in any patient older than 40 years with idiopathic pancreatitis, especially with a prolonged or recurrent course.
@@ -105,14 +105,14 @@ Defining criteria as given by the guideline (citing the 2012 revision of the cla
 
 | Domain | Findings |
 |---|---|
-| Patient characteristics | Age >55 · Obesity (BMI >30 kg/m²) · Altered mental status · Comorbid disease |
-| SIRS — defined by the presence of **>2** of the following | Pulse >90 beats per minute · Respirations >20 per minute or PaCO₂ <32 mm Hg · Temperature >38 °C or <36 °C · WBC count >12,000 or <4,000 cells/mm³ or >10% immature neutrophils (bands) |
-| Laboratory findings | BUN >20 · Rising BUN · HCT >44 · Rising HCT · Elevated creatinine |
+| Patient characteristics | Age >55 · Obesity (body mass index [BMI] >30 kg/m²) · Altered mental status · Comorbid disease |
+| Systemic inflammatory response syndrome (SIRS) — defined by the presence of **>2** of the following | Pulse >90 beats per minute · Respirations >20 per minute or PaCO₂ <32 mm Hg · Temperature >38 °C or <36 °C · White blood cell (WBC) count >12,000 or <4,000 cells/mm³ or >10% immature neutrophils (bands) |
+| Laboratory findings | Blood urea nitrogen (BUN) >20 · Rising BUN · Hematocrit (HCT) >44 · Rising HCT · Elevated creatinine |
 | Radiology findings | Pleural effusions · Pulmonary infiltrates · Multiple or extensive extrapancreatic collections |
 
-- Values reported to have significant predictive value for determining moderately severe and severe disease: elevated **HCT (≥44)**, **BUN (≥20 mg/dL)**, **C-reactive protein (≥150 mg/dL)**, and **creatinine (≥2 mg/dL)**.
+- Values reported to have significant predictive value for determining moderately severe and severe disease: elevated **HCT (≥44)**, **BUN (≥20 mg/dL)**, **C-reactive protein (CRP; ≥150 mg/dL)**, and **creatinine (≥2 mg/dL)**.
 - **The guideline does not endorse a scoring system.** Scoring systems and imaging alone are not accurate in determining which patients will develop moderately severe or severe AP; at best, 50% of cases predicted to be moderately severe or severe by any predicting system turn out to be such. Prediction for **mild** AP is highly reliable — only approximately **3%** progress to moderately severe or severe.
-- Ranson, Imrie, and APACHE scoring systems are cumbersome and typically require 48 hours to become accurate. The Bedside Index for Severity Scoring System — which includes BUN and the presence of SIRS — has been consistently shown to be superior, but may be no more accurate than simply monitoring BUN and/or the development of SIRS. A score of **3 or more** has been used to prompt consideration of ICU treatment. The guideline does not print the component list or point values of any of these scores.
+- Ranson, Imrie, and Acute Physiology and Chronic Health Evaluation (APACHE) scoring systems are cumbersome and typically require 48 hours to become accurate. The Bedside Index for Severity Scoring System — which includes BUN and the presence of SIRS — has been consistently shown to be superior, but may be no more accurate than simply monitoring BUN and/or the development of SIRS. A score of **3 or more** has been used to prompt consideration of intensive care unit (ICU) treatment. The guideline does not print the component list or point values of any of these scores.
 - CRP is not practical for early determination — it takes **48–72 hours** to become accurate in predicting necrosis and/or death.
 - SIRS during the initial 24 hours has high sensitivity for predicting organ failure (85%) and mortality (100%), but lacks specificity for severe disease (41%).
 - CT and/or MRI also cannot reliably determine severity early: necrosis usually is not present on admission and may develop after **24–48 hours**.
@@ -132,16 +132,16 @@ Defining criteria as given by the guideline (citing the 2012 revision of the cla
 - **Reassessment:** fluid volumes need to be reassessed at frequent intervals **within 6 hours of presentation and for the next 24–48 hours**, with a goal to decrease the BUN. The latest evaluation of HCT and BUN should be **6–8 hours after admission**; if an adjustment is to be made it must be determined within this time frame.
 - Target physiology: a decrease in HCT (hemodilution) and/or decreased BUN (increased renal perfusion) have been associated with decreased morbidity and mortality. Do **not** allow BUN and HCT to rise within the first 24–48 hours, and do not let SIRS and/or renal insufficiency develop.
 - **Caution** if a cardiovascular and/or renal comorbidity exists; monitor for volume overload. Watch for volume overload, pulmonary edema, and abdominal compartment syndrome. Recent data indicate the intrathoracic blood volume index may have a better correlation with cardiac index than central venous pressure.
-- The guideline is **explicitly skeptical of "goal-directed" therapy**: a systematic review of RCTs found insufficient evidence that goal-directed therapy reduces persistent single or multiple organ failure, infected pancreatic necrosis, or mortality; another systematic review found scant high-quality evidence for the numerous goal-directed methods or combinations.
+- The guideline is **explicitly skeptical of "goal-directed" therapy**: a systematic review of randomized controlled trials (RCTs) found insufficient evidence that goal-directed therapy reduces persistent single or multiple organ failure, infected pancreatic necrosis, or mortality; another systematic review found scant high-quality evidence for the numerous goal-directed methods or combinations.
 
 ### ERCP in acute pancreatitis
 
 - **Rec 5: medical therapy over early (within the first 72 hr) ERCP in acute biliary pancreatitis without cholangitis** (conditional, low quality).
 - **With cholangitis:** early ERCP within the first 24 hours has been shown to decrease morbidity and mortality (Key concept 13) — see [[acute-cholangitis]].
-- **In the absence of cholangitis and/or jaundice**, if a CBD stone is suspected, **MRCP or EUS should be used to screen** for the presence of CBD stones before the use of ERCP, and **diagnostic ERCP should be avoided** (Key concept 14). See [[choledocholithiasis]].
+- **In the absence of cholangitis and/or jaundice**, if a common bile duct (CBD) stone is suspected, **MRCP or EUS should be used to screen** for the presence of CBD stones before the use of ERCP, and **diagnostic ERCP should be avoided** (Key concept 14). See [[choledocholithiasis]].
 - Most gallstones readily pass to the duodenum and are lost in the stool; most patients with gallstone pancreatitis will not benefit from ERCP, including early ERCP.
 - In the multicenter trial in gallstone pancreatitis with predicted severe AP (APACHE >8, Imrie >3, or CRP >150 mg/dL), early (within 24 hours) ERCP was not found to decrease complications including mortality. The authors concluded urgent ERCP is indicated in this situation only for cholangitis or progressive cholestasis defined by a rising bilirubin in the setting of severe or moderately severe AP (**bilirubin >3–5 mg/dL**).
-- Risk of PEP is greater with a **normal caliber CBD and normal bilirubin (odds ratio 3.4)** than in a jaundiced patient with a dilated CBD (odds ratio 0.2).
+- Risk of post-ERCP pancreatitis (PEP) is greater with a **normal caliber CBD and normal bilirubin (odds ratio 3.4)** than in a jaundiced patient with a dilated CBD (odds ratio 0.2).
 
 ### Preventing post-ERCP pancreatitis
 
@@ -154,7 +154,7 @@ Defining criteria as given by the guideline (citing the 2012 revision of the cla
 ### Antibiotics
 
 - **Rec 8: against prophylactic antibiotics in patients with severe AP** (conditional, very low quality). 11 prospective randomized trials and 10 meta-analyses; all 3 placebo-controlled double-blind RCTs and 5 of the 9 meta-analyses published after 2006 did not support prophylaxis.
-- **Rec 9: against fine-needle aspiration (FNA) in patients with suspected infected pancreatic necrosis** (conditional, very low quality). CT-FNA will not change management in many patients; antibiotics can be started for suspected infection on clinical grounds even without FNA, because a negative aspiration would still make the antibiotic use necessary due to clinical suspicion.
+- **Rec 9: against FNA in patients with suspected infected pancreatic necrosis** (conditional, very low quality). CT-FNA will not change management in many patients; antibiotics can be started for suspected infection on clinical grounds even without FNA, because a negative aspiration would still make the antibiotic use necessary due to clinical suspicion.
 - Antibiotics **are** an important part of treatment in infected necrosis along with debridement/necrosectomy; they should not be used in sterile necrosis (Key concept 15).
 - Infection is proven by blood or other body fluid cultures, or by **the presence of gas in the pancreatic necrosis**.
 - Agents chosen must be known to penetrate the necrosis: **carbapenems, quinolones, cephalosporins, and metronidazole**.
@@ -166,7 +166,7 @@ Defining criteria as given by the guideline (citing the 2012 revision of the cla
 - **Rec 10:** in mild AP, early oral feeding **within 24–48 hours** as tolerated, over the traditional nothing-by-mouth approach (conditional, low quality).
 - **Rec 11:** in mild AP, initial oral feeding with a **low-fat solid diet** rather than a stepwise liquid-to-solid approach (conditional, low quality). A low-fat solid diet has been found to be safe compared with clear liquids and provides more calories; oral feeding with a soft diet has been found safe and shortens hospital stay.
 - For early feeding it is important to have bowel sounds present and no significant nausea, vomiting, or ileus. Desire for food, simple hunger, can help guide the decision on when to start feeding. Discharging a patient with persistent nausea despite early eating can result in readmission for recurrent AP.
-- **Enteral nutrition** in moderately severe or severe AP seems to prevent infectious complications (Key concept 18). A meta-analysis of 8 RCTs (381 patients) found a decrease in infectious complications, organ failure, and mortality with enteral nutrition compared with TPN.
+- **Enteral nutrition** in moderately severe or severe AP seems to prevent infectious complications (Key concept 18). A meta-analysis of 8 RCTs (381 patients) found a decrease in infectious complications, organ failure, and mortality with enteral nutrition compared with total parenteral nutrition (TPN).
 - **Parenteral nutrition should be avoided, unless the enteral route is not possible, not tolerated, or not meeting the caloric needs** (Key concept 19). The guideline does **not** attach a day count to this condition. See [[nutrition-in-hospitalized-patients]].
 - **Nasogastric rather than nasojejunal** route is preferred for delivery of enteral feeding because of comparable safety and efficacy (Key concept 20). Nasojejunal tube placement requires interventional radiology or endoscopy and is expensive. Nasogastric patients should be placed more upright and on aspiration precautions; evaluating for residuals is not likely to be helpful.
 - If enteral nutrition is administered by tube feeds, **continuous infusion is preferred over cyclic or bolus** administration. A small peptide-based medium-chain TG oil formula may improve tolerance.
@@ -274,7 +274,7 @@ Ungraded statements — not amenable to the GRADE process or limited by the avai
 ## Contradictions / Open Questions
 
 - **Prophylactic antibiotics in severe AP.** Earlier meta-analyses and one RCT reported benefit in mortality, infection of pancreatic necrosis, and extrapancreatic infections; all 3 placebo-controlled double-blind RCTs and 5 of the 9 meta-analyses published after 2006, and 2 of the recent guidelines (British Society of Gastroenterology and ACG), do not support prophylaxis. This guideline recommends against it.
-- **Pancreatic duct stent plus rectal indomethacin.** A large-scale multicenter RCT showed patients receiving rectal indomethacin alone were less likely to develop PEP than patients receiving indomethacin plus a pancreatic duct stent; a well-designed NIH-sponsored multicenter trial (20 centers, USA and Canada, 1,950 patients) recently showed the opposite result. The guideline sides with the latter and calls for a case-by-case approach, noting the difficulty of placing a pancreatic duct stent in all high-risk patients outside tertiary centers.
+- **Pancreatic duct stent plus rectal indomethacin.** A large-scale multicenter RCT showed patients receiving rectal indomethacin alone were less likely to develop PEP than patients receiving indomethacin plus a pancreatic duct stent; a well-designed National Institutes of Health (NIH)-sponsored multicenter trial (20 centers, USA and Canada, 1,950 patients) recently showed the opposite result. The guideline sides with the latter and calls for a case-by-case approach, noting the difficulty of placing a pancreatic duct stent in all high-risk patients outside tertiary centers.
 - **CT-FNA in suspected infected necrosis.** The technique is safe, effective, and accurate in distinguishing infected from sterile necrosis, but the guideline recommends against it because it will not change management in many patients.
 - **Goal-directed hydration.** Other experts and guidelines advocate the term; this guideline finds insufficient evidence that goal-directed therapy improves outcomes, and notes clinicians often miss the goal, failing to provide adequate hydration during the initial 24 hours.
 - **Timing of enteral feeding in predicted severe AP** remains controversial; more recent studies suggest early (within the first 24 hours) initiation is not beneficial.

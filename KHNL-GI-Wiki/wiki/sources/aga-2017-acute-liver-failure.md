@@ -18,11 +18,11 @@ sources: []
 
 ## Summary
 
-AGA Institute guideline on [[acute-liver-failure|acute liver failure]] (ALF), organized around eleven questions the panel judged genuinely controversial: which uncommon etiologies are worth testing for routinely, whether to biopsy, which prognostic model to use, whether to treat intracranial pressure empirically, whether extracorporeal liver support has a role, and when N-acetyl cysteine is justified.
+American Gastroenterological Association (AGA) Institute guideline on [[acute-liver-failure|acute liver failure]] (ALF), organized around eleven questions the panel judged genuinely controversial: which uncommon etiologies are worth testing for routinely, whether to biopsy, which prognostic model to use, whether to treat intracranial pressure (ICP) empirically, whether extracorporeal liver support has a role, and when N-acetyl cysteine (NAC) is justified.
 
 The document is unusual in how *negative* it is. **Nine of the eleven recommendations rest on very low quality evidence, four of them are recommendations to NOT do something, and two are formally "No recommendation."** The panel says so directly in its summary: "in most cases our recommendations are weak because the quality of the available data is poor, and/or the balance of risks and benefits for a particular strategy does not overwhelmingly support its use." Only one recommendation is strong — NAC in acetaminophen-associated ALF — and even that rests on very low quality evidence.
 
-Its most transportable contributions are a **specific MELD cut-off (30.5)** with a stated preference for MELD over the King's College Criteria, and a targeted rather than shotgun approach to etiologic testing: skip routine Wilson's disease testing and skip routine VZV testing in immunocompetent patients, but do test for HSV, do test pregnant women for hepatitis E, and do send autoantibodies.
+Its most transportable contributions are a **specific Model for End-Stage Liver Disease (MELD) cut-off (30.5)** with a stated preference for MELD over the King's College Criteria (KCC), and a targeted rather than shotgun approach to etiologic testing: skip routine Wilson's disease testing and skip routine varicella zoster virus (VZV) testing in immunocompetent patients, but do test for herpes simplex virus (HSV), do test pregnant women for hepatitis E, and do send autoantibodies.
 
 ## Key Findings / Claims
 
@@ -48,7 +48,7 @@ Its most transportable contributions are a **specific MELD cut-off (30.5)** with
 
 | Model | Studies | Patients | Died | Pooled sensitivity | Pooled specificity | Diagnostic odds ratio |
 |---|---|---|---|---|---|---|
-| **KCC** | 8 | 962 | 47% | **61%** (range 47%–76%) | **86%** (range 64%–95%) | 9.58 (95% CI 4.74–19.36) |
+| **KCC** | 8 | 962 | 47% | **61%** (range 47%–76%) | **86%** (range 64%–95%) | 9.58 (95% confidence interval [CI] 4.74–19.36) |
 | **MELD** | 6 | 526 | 58% | **77%** (range 70%–92%) | **72%** (range 56%–85%) | 8.79 (95% CI 5.19–14.89) |
 
 - "KCC is more specific and MELD is more sensitive. The MELD score offers the opportunity to optimize specificity without losing significant sensitivity, and thus is optimal."
@@ -59,8 +59,8 @@ Its most transportable contributions are a **specific MELD cut-off (30.5)** with
 - **Wilson's disease (Rec 1):** three case–control studies covering 37 Wilson's disease subjects and 322 ALF controls from other causes. One study suggested **serum copper >200 µg/dL had sensitivity 75% and specificity 96%**; the others reported urinary copper increased in all cases but gave no sensitivity or specificity. Common tests are serum ceruloplasmin, serum and hepatic copper, and 24-hour urine copper — all have **high false-positive and false-negative rates**, and no large studies have assessed their diagnostic accuracy specifically in ALF. Because Wilson's disease has a very low prevalence in the ALF population, any test will have a high negative predictive value but a **low positive predictive value**.
 - **HSV (Rec 2):** a case series of **513 adult patients with ALF found 1% with positive HSV serologies**. In one case series of 4 patients with HSV-caused ALF confirmed by liver biopsy/autopsy, **2 of 4 had positive HSV IgM but all 4 had positive HSV DNA**. HSV in ALF has a poor prognosis even with acyclovir, but a case-report-level signal suggests treated patients do better than untreated, and "there is little downside to treatment with acyclovir from cost or adverse event standpoints."
 - **VZV (Rec 3):** only **10 case reports** of ALF attributed to VZV exist, and only **2** involved patients who were not immunocompromised. No evaluable data on diagnostic testing or treatment in the immunocompetent setting.
-- **Hepatitis E (Rec 4):** HEV is common in endemic areas of the world, uncommon elsewhere, and is **particularly common in pregnant women**, in whom it carries significant mortality. Five studies from India assessed mortality in ALF secondary to HEV in pregnant women: an overall rate of **56% (range 33%–71%)**. **There is no treatment for HEV.**
-- **Autoantibodies (Rec 7):** one study indicated **93% of AIH patients** meeting previously defined diagnostic criteria had positive autoantibodies. AIH patients who received corticosteroids had a better outcome than those with indeterminate AIH. Quality data on testing and steroid response in AIH-caused ALF are described as sparse.
+- **Hepatitis E (Rec 4):** Hepatitis E virus (HEV) is common in endemic areas of the world, uncommon elsewhere, and is **particularly common in pregnant women**, in whom it carries significant mortality. Five studies from India assessed mortality in ALF secondary to HEV in pregnant women: an overall rate of **56% (range 33%–71%)**. **There is no treatment for HEV.**
+- **Autoantibodies (Rec 7):** one study indicated **93% of autoimmune hepatitis (AIH) patients** meeting previously defined diagnostic criteria had positive autoantibodies. AIH patients who received corticosteroids had a better outcome than those with indeterminate AIH. Quality data on testing and steroid response in AIH-caused ALF are described as sparse.
 
 ### Liver biopsy (Rec 6)
 
@@ -70,7 +70,7 @@ Its most transportable contributions are a **specific MELD cut-off (30.5)** with
 
 ### Intracranial pressure (Rec 8)
 
-- **Five RCTs**, each individually assessing a single therapy — **moderate hypothermia, hypertonic saline, L-ornithine L-aspartate, intravenous mannitol, and hyperventilation** — involving **410 patients** with ALF.
+- **Five randomized controlled trials (RCTs)**, each individually assessing a single therapy — **moderate hypothermia, hypertonic saline, L-ornithine L-aspartate, intravenous mannitol, and hyperventilation** — involving **410 patients** with ALF.
 - **No effect overall of treatment of ICP on mortality and no statistically significant improvement in mortality with any individual therapy.** Adverse events related to therapy were not well characterized.
 - The guideline also notes it is unclear if or when ICP *monitoring* is indicated, that monitoring itself has morbidity, and that "if therapy is ineffective, monitoring in the first place would be inadvisable."
 
@@ -81,7 +81,7 @@ Its most transportable contributions are a **specific MELD cut-off (30.5)** with
 - Bioartificial systems: 2 RCTs, 213 patients — no significant mortality improvement, though a trend toward decreased mortality.
 - Albumin dialysis vs usual care: 4 RCTs, 340 patients — no significant decrease in mortality, trend toward decrease.
 - Traditional extracorporeal liver support: 4 RCTs — no decrease in mortality.
-- **Post hoc analysis: combination of albumin and bioartificial liver support resulted in decreased mortality, RR 0.80 (95% CI 0.65–0.98).**
+- **Post hoc analysis: combination of albumin and bioartificial liver support resulted in decreased mortality, relative risk (RR) 0.80 (95% CI 0.65–0.98).**
 - Support systems have **significant potential toxicities, are costly, and are demanding of resources**.
 
 ### N-acetyl cysteine (Recs 10 and 11)
@@ -93,13 +93,13 @@ Its most transportable contributions are a **specific MELD cut-off (30.5)** with
 
 ## Relevance to Wiki
 
-- **[[acute-liver-failure]]** — adds the **MELD 30.5 fixed cut-off** as a third named threshold alongside the ACG 2023 values, the **AGA preference for MELD over KCC** (ACG 2023 accepts either), the pooled KCC/MELD accuracy figures, **HEV testing in pregnant women** with its 56% mortality figure, the quantified liver-biopsy yield (**diagnosis changed in 18%**; >50% necrosis → 3-fold mortality), and the **five-RCT negative evidence base for empiric ICP-lowering therapy**.
-- **[[wilson-disease]]** — the serum copper >200 µg/dL operating characteristics in ALF, and the PPV argument against reflexive screening.
+- **[[acute-liver-failure]]** — adds the **MELD 30.5 fixed cut-off** as a third named threshold alongside the American College of Gastroenterology (ACG) 2023 values, the **AGA preference for MELD over KCC** (ACG 2023 accepts either), the pooled KCC/MELD accuracy figures, **HEV testing in pregnant women** with its 56% mortality figure, the quantified liver-biopsy yield (**diagnosis changed in 18%**; >50% necrosis → 3-fold mortality), and the **five-RCT negative evidence base for empiric ICP-lowering therapy**.
+- **[[wilson-disease]]** — the serum copper >200 µg/dL operating characteristics in ALF, and the positive predictive value (PPV) argument against reflexive screening.
 - **[[liver-transplantation]]** — MELD 30.5 as a transplant-need predictor in ALF.
 
 ## Contradictions / Open Questions
 
-- **Routine etiologic testing — AGA 2017 vs [[acg-2023-alf]].** [[acute-liver-failure]] carries an "Initial Labs (All Patients)" panel that includes **ceruloplasmin** and **VZV PCR** for every patient. AGA 2017 Rec 1 suggests **against** routinely testing all patients for Wilson's disease, and Rec 3 suggests **against** routinely testing all immunocompetent patients for VZV. **[[acg-2023-alf]] is the newer tier-1 source and governs the page**; the AGA position is recorded here and noted inline on the page, and the two are reconcilable in practice — AGA objects to reflexive universal testing on positive-predictive-value grounds, not to testing when suspicion exists.
-- **NAC in non-acetaminophen ALF.** [[acg-2023-alf]] gives IV NAC a **strong recommendation, moderate quality** for non-acetaminophen DILI-associated ALF (transplant-free survival 52% vs 30% in coma grade I–II). AGA 2017 Rec 11 made **no recommendation** and confined NAC in non-acetaminophen ALF to clinical trials. **The newer ACG guideline wins the page.** Note that the two are looking at the same signal from opposite ends — AGA's own post hoc data found the benefit concentrated in **stage 1–2 HE**, which is the same subgroup ACG 2023 endorses.
+- **Routine etiologic testing — AGA 2017 vs [[acg-2023-alf]].** [[acute-liver-failure]] carries an "Initial Labs (All Patients)" panel that includes **ceruloplasmin** and **VZV polymerase chain reaction (PCR)** for every patient. AGA 2017 Rec 1 suggests **against** routinely testing all patients for Wilson's disease, and Rec 3 suggests **against** routinely testing all immunocompetent patients for VZV. **[[acg-2023-alf]] is the newer tier-1 source and governs the page**; the AGA position is recorded here and noted inline on the page, and the two are reconcilable in practice — AGA objects to reflexive universal testing on positive-predictive-value grounds, not to testing when suspicion exists.
+- **NAC in non-acetaminophen ALF.** [[acg-2023-alf]] gives intravenous (IV) NAC a **strong recommendation, moderate quality** for non-acetaminophen drug-induced liver injury (DILI)–associated ALF (transplant-free survival 52% vs 30% in coma grade I–II). AGA 2017 Rec 11 made **no recommendation** and confined NAC in non-acetaminophen ALF to clinical trials. **The newer ACG guideline wins the page.** Note that the two are looking at the same signal from opposite ends — AGA's own post hoc data found the benefit concentrated in **stage 1–2 hepatic encephalopathy (HE)**, which is the same subgroup ACG 2023 endorses.
 - **Prognostic model preference.** AGA 2017 prefers **MELD over KCC**; [[acg-2023-alf]] recommends **either KCC or MELD** (conditional, low). Not a hard conflict, but the guidelines do not agree on a single instrument, and the three MELD cut-offs now in the corpus (**25**, **30.5**, **32/33**) come from three different sources and are not interchangeable.
 - **Extracorporeal liver support.** AGA 2017 made **no recommendation** and restricted use to trials; [[acg-2023-alf]] describes these systems as having insufficient evidence for routine use but possibly considered as a bridge at investigational centers. Compatible in substance.

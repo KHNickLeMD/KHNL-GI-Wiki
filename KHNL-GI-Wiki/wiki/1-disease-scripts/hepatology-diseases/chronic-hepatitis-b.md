@@ -11,18 +11,18 @@ sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2
 
 ### Establishing the Diagnosis
 
-CHB is defined as HBsAg-positive for >6 months. Screen all adults ≥18 years at least once; screen all pregnant persons each pregnancy using a **triple panel** (HBsAg + anti-HBs + total anti-HBc). ~258 million infected globally; up to 1.8 million in the US (half unaware).
+Chronic hepatitis B (CHB) is defined as hepatitis B surface antigen (HBsAg)-positive for >6 months. Screen all adults ≥18 years at least once; screen all pregnant persons each pregnancy using a **triple panel** (HBsAg + anti-HBs + total anti-hepatitis B core [anti-HBc]). ~258 million infected globally; up to 1.8 million in the US (half unaware).
 
 **Initial serologic workup in confirmed HBsAg+ person:**
 
-- Quantitative HBV DNA (PCR-based)
-- HBeAg and anti-HBe
-- ALT (use sex-specific ULN: M <35 U/L, F <25 U/L)
-- Fibrosis assessment ([[noninvasive-liver-disease-assessment|elastography]] preferred over FIB-4 — cutoffs under Severity Assessment)
+- Quantitative hepatitis B virus (HBV) DNA (polymerase chain reaction [PCR]-based)
+- Hepatitis B e antigen (HBeAg) and anti-HBe
+- Alanine aminotransferase (ALT) (use sex-specific upper limit of normal [ULN]: M <35 U/L, F <25 U/L)
+- Fibrosis assessment ([[noninvasive-liver-disease-assessment|elastography]] preferred over Fibrosis-4 index [FIB-4] — cutoffs under Severity Assessment)
 - [[liver-biopsy|Liver biopsy]]: infrequently used; most accurate for inflammation grade
-- Screen for co-infections: **anti-HDV in all HBV patients** (universal HDV screening — reflex HDV RNA if positive; see [[hepatitis-d]]), [[hepatitis-c|HCV]] RNA, HIV
+- Screen for co-infections: **anti-hepatitis D virus (HDV) in all HBV patients** (universal HDV screening — reflex HDV RNA if positive; see [[hepatitis-d]]), [[hepatitis-c|hepatitis C virus (HCV)]] RNA, human immunodeficiency virus (HIV)
 
-**ALT upper limits of normal (2025 AASLD):**
+**ALT upper limits of normal (2025 American Association for the Study of Liver Diseases [AASLD]):**
 
 - Male: 35 U/L
 - Female: 25 U/L
@@ -32,10 +32,10 @@ CHB is defined as HBsAg-positive for >6 months. Screen all adults ≥18 years at
 
 Non-invasive fibrosis staging preferred:
 
-- **[[liver-stiffness-measurement|Vibration-controlled transient elastography (VCTE)]]:** cutoff **7 kPa** → F2 or higher (Sn 69%, Sp 83%); **≥8 kPa** = high-sensitivity threshold for advanced fibrosis (F3/F4)
+- **[[liver-stiffness-measurement|Vibration-controlled transient elastography (VCTE)]]:** cutoff **7 kPa** → F2 or higher (sensitivity 69%, specificity 83%); **≥8 kPa** = high-sensitivity threshold for advanced fibrosis (F3/F4)
 - **FIB-4:** **>1.45** = high-sensitivity threshold for advanced fibrosis (F3/F4)
 - Elastography outperforms FIB-4 overall; neither reliable in pregnancy — assess for [[cirrhosis|cirrhosis]] in pregnancy by ultrasound and/or clinical evaluation instead
-- Generic (non-HBV-specific) VCTE/FIB-4 cut-offs for cACLD and CSPH: see [[noninvasive-liver-disease-assessment]] — [[aasld-idsa-2025-chb-treatment]] gives no cirrhosis-level kPa or FIB-4 cutoff
+- Generic (non-HBV-specific) VCTE/FIB-4 cut-offs for compensated advanced chronic liver disease (cACLD) and clinically significant portal hypertension (CSPH): see [[noninvasive-liver-disease-assessment]] — [[aasld-idsa-2025-chb-treatment]] gives no cirrhosis-level kPa or FIB-4 cutoff
 - Liver biopsy: reserved for diagnostic uncertainty or staging ambiguity
 
 ### Classification / Typing
@@ -54,7 +54,7 @@ CHB is a dynamic disease. Phase determination requires ≥2 measurements ≥6 mo
 **Key terms:**
 
 - **Functional cure:** HBsAg-negative + HBV DNA undetectable off treatment ≥6 months (± anti-HBs)
-- **Partial cure:** qHBsAg <100 IU/mL + HBV DNA undetectable off treatment ≥6 months
+- **Partial cure:** quantitative HBsAg (qHBsAg) <100 IU/mL + HBV DNA undetectable off treatment ≥6 months
 
 ---
 
@@ -65,10 +65,10 @@ CHB is a dynamic disease. Phase determination requires ≥2 measurements ≥6 mo
 - [[hepatitis-c|Hepatitis C]] (HCV RNA)
 - Hepatitis D co-infection (anti-HDV; critically worsens prognosis)
 - Hepatitis A (acute superinfection)
-- [[autoimmune-hepatitis|Autoimmune hepatitis]] (anti-smooth muscle, ANA, IgG)
+- [[autoimmune-hepatitis|Autoimmune hepatitis]] (anti-smooth muscle, antinuclear antibody [ANA], IgG)
 - [[drug-induced-liver-injury|Drug-induced liver injury (DILI)]]
 - [[alcohol-associated-liver-disease|Alcohol-associated liver disease]]
-- [[nafld-masld|MASLD/MetALD]]
+- [[nafld-masld|metabolic dysfunction-associated steatotic liver disease (MASLD)/MASLD with increased alcohol intake (MetALD)]]
 - [[wilson-disease|Wilson's disease]] (in younger patients)
 
 ---
@@ -80,16 +80,16 @@ CHB is a dynamic disease. Phase determination requires ≥2 measurements ≥6 mo
 - HBsAg, anti-HBs, anti-HBc (total and IgM for acute vs. chronic distinction)
 - Quantitative HBV DNA (PCR; goal undetectable on therapy)
 - HBeAg / anti-HBe (phase determination; monitoring seroconversion)
-- Quantitative HBsAg (qHBsAg): best predictor of NA discontinuation outcomes; <100 IU/mL favors HBsAg loss off therapy
+- qHBsAg: best predictor of nucleos(t)ide analogue (NA) discontinuation outcomes; <100 IU/mL favors HBsAg loss off therapy
 
 **Hepatic function:**
 
-- ALT, AST, bilirubin, albumin, PT/INR
-- CBC (platelets <180 k/mm³ → increased [[hepatocellular-carcinoma|HCC]] risk in indeterminate phase)
+- ALT, aspartate aminotransferase (AST), bilirubin, albumin, prothrombin time (PT)/international normalized ratio (INR)
+- Complete blood count (CBC) (platelets <180 k/mm³ → increased [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] risk in indeterminate phase)
 
 **Fibrosis staging:** (see Severity Assessment above)
 
-**[[hcc-surveillance|HCC surveillance]]:** Ultrasound + AFP every 6 months for all indicated patients (see Therapeutics)
+**[[hcc-surveillance|HCC surveillance]]:** Ultrasound + alpha-fetoprotein (AFP) every 6 months for all indicated patients (see Therapeutics)
 
 **Resistance testing:** Consider if virologic breakthrough (HBV DNA increased ≥1 log after achieving undetectability, or >100 IU/mL after 96 weeks)
 
@@ -99,15 +99,15 @@ CHB is a dynamic disease. Phase determination requires ≥2 measurements ≥6 mo
 
 ### Approved Drug Classes
 
-Two classes; nucleos(t)ide analogues (NAs) strongly preferred:
+Two classes; NAs strongly preferred:
 
 **Preferred NAs (all high efficacy, low resistance, broadly applicable):**
 
 | Drug | Key considerations |
 |---|---|
-| **Entecavir (ETV)** | Avoid: pregnancy; prior lamivudine exposure (resistance); HIV not on suppressive ART. Dose-adjust for renal dysfunction. |
+| **Entecavir (ETV)** | Avoid: pregnancy; prior lamivudine exposure (resistance); HIV not on suppressive antiretroviral therapy (ART). Dose-adjust for renal dysfunction. |
 | **Tenofovir disoproxil fumarate (TDF)** | Avoid: renal/bone disease. Dose-adjust for renal dysfunction; switch if declining renal function. Preferred in pregnancy. |
-| **Tenofovir alafenamide (TAF)** | Preferred if renal/bone concerns. Not for CrCl <15 mL/min not yet on dialysis. Co-recommended in pregnancy. |
+| **Tenofovir alafenamide (TAF)** | Preferred if renal/bone concerns. Not for creatinine clearance (CrCl) <15 mL/min not yet on dialysis. Co-recommended in pregnancy. |
 
 Peginterferon: rarely used (limited applicability, poor tolerability); higher rate of functional cure than NAs but overall still low.
 
@@ -118,7 +118,7 @@ Peginterferon: rarely used (limited applicability, poor tolerability); higher ra
 **Immune-tolerant phase** (HBeAg+, DNA >10^7 IU/mL, normal ALT):
 
 - Age **>40 years**, **or** significant liver inflammation (**grade ≥2**), **or** fibrosis (**≥F2**) on biopsy or noninvasive tests → **suggest treatment** (Conditional/Very Low) [[aasld-idsa-2025-chb-treatment]] Rec 3
-- Age <40 y without significant inflammation or fibrosis → shared decision-making (age child/adolescent vs adult, family Hx HCC, likelihood of long-term adherence to treatment + monitoring, transmission prevention)
+- Age <40 y without significant inflammation or fibrosis → shared decision-making (age child/adolescent vs adult, family history of HCC, likelihood of long-term adherence to treatment + monitoring, transmission prevention)
 - If not treating: HBV DNA + ALT every 6 months to detect immune-active transition
 - Note: DNA may not fully suppress to undetectable given very high replication levels
 
@@ -138,11 +138,11 @@ Peginterferon: rarely used (limited applicability, poor tolerability); higher ra
 
 **Default: continue NA until HBsAg loss (functional cure)** — 2025 AASLD Rec 5 (Conditional/Very Low), population = **HBeAg-negative, no cirrhosis, sustained undetectable HBV DNA on NA** [[aasld-idsa-2025-chb-treatment]]
 
-Rationale: HBsAg loss only ~11% at 2 years off therapy; ALT flares 27%; re-treatment 42% at 5 years; decompensation and death reported in real-world cohorts. Diverges from EASL/APASL which allow finite therapy.
+Rationale: HBsAg loss only ~11% at 2 years off therapy; ALT flares 27%; re-treatment 42% at 5 years; decompensation and death reported in real-world cohorts. Diverges from European Association for the Study of the Liver (EASL)/Asian Pacific Association for the Study of the Liver (APASL) which allow finite therapy.
 
 For patients strongly desiring to stop (ALL criteria must be met):
 
-- No history of cirrhosis/advanced fibrosis, hepatic decompensation ([[variceal-upper-gi-bleeding|variceal bleed]], [[ascites]], [[hepatic-encephalopathy|HE]], [[aki-in-cirrhosis|hepatorenal syndrome]]), HCC, or extrahepatic HBV complications
+- No history of cirrhosis/advanced fibrosis, hepatic decompensation ([[variceal-upper-gi-bleeding|variceal bleed]], [[ascites]], [[hepatic-encephalopathy|hepatic encephalopathy]], [[aki-in-cirrhosis|hepatorenal syndrome]]), HCC, or extrahepatic HBV complications
 - HBV DNA undetectable ≥2 years (applies whether HBeAg+ or HBeAg− at treatment start)
 - If HBeAg+ at treatment start → HBeAg seroconversion + anti-HBe positive ≥1 year
 - qHBsAg <100 IU/mL
@@ -170,11 +170,11 @@ Switch options: ETV → TDF or TAF; TDF → TAF or ETV; TAF → ETV.
 
 ### HBV Reactivation on Immunosuppression
 
-*Prophylaxis-vs-monitoring decision per [[aga-2025-hbv-reactivation]] (2025 update; supersedes the 2014 AGA HBVr guideline).*
+*Prophylaxis-vs-monitoring decision per [[aga-2025-hbv-reactivation]] (2025 update; supersedes the 2014 American Gastroenterological Association (AGA) HBV reactivation (HBVr) guideline).*
 
 **Who is at risk:** HBVr = loss of immunologic suppression of HBV activity in persons who are **HBsAg-positive** *or* **anti-HBc–positive**. "Resolved infection" here = HBsAg-negative + HBV DNA–negative + anti-HBc–positive — still at risk.
 
-**Rec 4 (Strong, moderate certainty) — test before immunosuppression:** HBsAg + total anti-HBc (± anti-HBs); reflex to **HBV DNA** if HBsAg and/or anti-HBc is positive. Because CDC advises universal one-time screening of all adults ≥18 y, **stratifying *screening* by magnitude of HBVr risk is no longer needed** (change from 2014).
+**Rec 4 (Strong, moderate certainty) — test before immunosuppression:** HBsAg + total anti-HBc (± anti-HBs); reflex to **HBV DNA** if HBsAg and/or anti-HBc is positive. Because the Centers for Disease Control and Prevention (CDC) advises universal one-time screening of all adults ≥18 y, **stratifying *screening* by magnitude of HBVr risk is no longer needed** (change from 2014).
 
 **Risk tiers → strategy:**
 
@@ -197,17 +197,17 @@ Switch options: ETV → TDF or TAF; TDF → TAF or ETV; TAF → ETV.
 | Exposure (example agents) | HBsAg-positive | HBsAg-negative / anti-HBc–positive |
 |---|---|---|
 | Anthracyclines (doxorubicin, epirubicin) | High | Moderate |
-| [[anti-tnf-agents\|Anti-TNF]] (infliximab, adalimumab) | High | Low |
+| [[anti-tnf-agents\|Anti-tumor necrosis factor (TNF)]] (infliximab, adalimumab) | High | Low |
 | Anti–IL-6 (tocilizumab) | High | Moderate |
 | Anti–T-cell (abatacept) | Moderate | Moderate |
 | **B-cell–depleting (rituximab, ofatumumab)** | **High** | **High** |
-| CAR-T cell therapy | High | Moderate |
+| Chimeric antigen receptor (CAR)-T cell therapy | High | Moderate |
 | Cytokine/integrin inhibitors ([[il-23-and-il-12-23-inhibitors\|ustekinumab]], secukinumab) | High | Moderate |
-| HCV co-infection undergoing [[direct-acting-antivirals\|DAA]] therapy | High | Low |
+| HCV co-infection undergoing [[direct-acting-antivirals\|direct-acting antiviral (DAA)]] therapy | High | Low |
 | Immune checkpoint inhibitors (nivolumab, pembrolizumab, ipilimumab) | Moderate | Low |
-| [[jak-inhibitors\|JAK inhibitors]] (tofacitinib, baricitinib) | High | Moderate |
-| TACE (for HCC) | High | Moderate |
-| TKIs (imatinib, sunitinib) | High | Moderate |
+| [[jak-inhibitors\|Janus kinase (JAK) inhibitors]] (tofacitinib, baricitinib) | High | Moderate |
+| Transarterial chemoembolization (TACE) (for HCC) | High | Moderate |
+| Tyrosine kinase inhibitors (TKIs) (imatinib, sunitinib) | High | Moderate |
 | Methotrexate, [[thiopurines\|6-mercaptopurine, azathioprine]] | Low | Low |
 | Corticosteroid **≥4 wk**, moderate (10–20 mg prednisone-equiv) or high (>20 mg) dose | High | Moderate |
 | Corticosteroid **≥4 wk**, low dose (<10 mg) | Moderate | Low |
@@ -218,20 +218,20 @@ Switch options: ETV → TDF or TAF; TDF → TAF or ETV; TAF → ETV.
 
 ### Prevention of Mother-to-Child Transmission (MTCT)
 
-**AASLD/IDSA 2025 recommendations** [[aasld-idsa-2025-chb-treatment]]:
+**AASLD/Infectious Diseases Society of America (IDSA) 2025 recommendations** [[aasld-idsa-2025-chb-treatment]]:
 
 - Screen all pregnancies with triple panel (HBsAg + anti-HBs + anti-HBc)
 - **Rec 1 (Strong/Moderate):** HBV DNA **>200,000 IU/mL at any time point during pregnancy, regardless of HBeAg status** → initiate TDF (more extensive pregnancy safety record) or TAF at **gestational week 28**
 - If seeking perinatal care later than week 28: start immediately (any time prior to delivery)
-- If infant **HBIG is unavailable**: start TDF or TAF at **gestational week 16** (+ infant vaccination)
+- If infant **hepatitis B immune globulin (HBIG) is unavailable**: start TDF or TAF at **gestational week 16** (+ infant vaccination)
 - If invasive procedures (e.g. **amniocentesis**) anticipated, or high risk of preterm labor, and DNA **>2,000,000 IU/mL**: start earlier for viral suppression
-- Stop at delivery if sole indication was MTCT; monitor ALT + HBV DNA every 1–3 months for up to 6 months for withdrawal flares — **reinitiate if ALT ≥5× ULN**
+- Stop at delivery if sole indication was mother-to-child transmission (MTCT); monitor ALT + HBV DNA every 1–3 months for up to 6 months for withdrawal flares — **reinitiate if ALT ≥5× ULN**
 - Baseline risk this addresses: MTCT still ~**8–10%** despite HBIG + birth-dose vaccine when maternal HBV DNA >200,000 IU/mL
 - If on ETV during pregnancy: switch to TDF or TAF
 - Breastfeeding safe on TDF or TAF
 - Infant: HBIG + HBV vaccine within 12 hours of birth; test HBsAg + anti-HBs at 9–12 months
 
-**ACG 2016 additional pregnancy guidance** [[acg-2016-liver-disease-pregnancy]]:
+**American College of Gastroenterology (ACG) 2016 additional pregnancy guidance** [[acg-2016-liver-disease-pregnancy]]:
 
 - MTCT rates without prophylaxis: 70–90% (HBeAg+) vs. 10–40% (HBeAg−); standard active-passive immunoprophylaxis reduces MTCT to ~5%
 - Immunoprophylaxis fails in 8–30% of highly viremic mothers (HBV DNA >1×10⁶–10⁷ IU/ml); threshold for antiviral prophylaxis: >200,000 IU/ml (same threshold as AASLD 2025)
@@ -240,7 +240,7 @@ Switch options: ETV → TDF or TAF; TDF → TAF or ETV; TAF → ETV.
 - **Breastfeeding is permitted** in HBV-infected mothers on appropriate immunoprophylaxis (Rec 25 — strong, very low evidence); avoid if cracked/bleeding nipples; nucleos(t)ides excreted in breast milk at low levels
 - See [[liver-disease-in-pregnancy]] for complete pregnancy context
 
-**AGA 2024 CPU pregnancy guidance** [[aga-2024-pregnancy-gi-liver]] (BPA 12):
+**AGA 2024 Clinical Practice Update (CPU) pregnancy guidance** [[aga-2024-pregnancy-gi-liver]] (Best Practice Advice [BPA] 12):
 
 - Order serum HBV DNA + liver biochemistries; assess for antiviral treatment **independent of pregnancy** per standard guidelines
 - Untreated + serum HBV DNA **>200,000 IU/mL in the third trimester** → treat with **tenofovir disoproxil fumarate** (start in 3rd trimester); continue until childbirth or up to **12 weeks postpartum**
@@ -257,7 +257,7 @@ Ultrasound + AFP every 6 months. Survey **all CHB with cirrhosis** (Child-Pugh A
 
 ### Horizontal Transmission Prevention
 
-For viremic HBsAg+ persons not meeting disease-specific treatment criteria but in high-risk scenarios (unprotected sex, IDU, susceptible household contacts, healthcare workers performing SHEA category III procedures): shared decision-making approach for antivirals.
+For viremic HBsAg+ persons not meeting disease-specific treatment criteria but in high-risk scenarios (unprotected sex, injection drug use (IDU), susceptible household contacts, healthcare workers performing Society for Healthcare Epidemiology of America (SHEA) category III procedures): shared decision-making approach for antivirals.
 
 Goal: HBV DNA <lower limit of quantification. HBV not transmitted by casual contact, shared meals, or hugging — avoid stigmatizing practices.
 

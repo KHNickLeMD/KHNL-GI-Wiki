@@ -30,9 +30,9 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, rome-v-20
 
 **Fecal incontinence (FI)** = involuntary loss of solid or liquid feces (including staining of underwear); the broader term **anal incontinence** includes involuntary flatus.
 
-- **Diagnostic threshold changed in [[rome-v-2026-dgbi|Rome V]] (2026):** FI ([[disorders-of-gut-brain-interaction|DGBI]] category **F1**) now requires **"two or more episodes of uncontrolled passage of fecal material"**, replacing Rome IV's qualitative **"recurrent uncontrolled passage"** — the stated purpose is to give the diagnosis an explicit **threshold frequency**. [[rome-v-2026-dgbi]]
+- **Diagnostic threshold changed in [[rome-v-2026-dgbi|Rome V]] (2026):** FI ([[disorders-of-gut-brain-interaction|disorder of gut-brain interaction (DGBI)]] category **F1**) now requires **"two or more episodes of uncontrolled passage of fecal material"**, replacing Rome IV's qualitative **"recurrent uncontrolled passage"** — the stated purpose is to give the diagnosis an explicit **threshold frequency**. [[rome-v-2026-dgbi]]
   - Rome V does not state the **time window** over which the ≥2 episodes must occur.
-- **Rome V also added anorectal sensory dysfunction disorders (F4)** alongside FI: **F4b rectal hypersensitivity** presents with **increased urge to defecate** and prolonged/frequent toilet times, and **F4a rectal hyposensitivity** with a blunted urge — both are diagnosed by **rectal sensitivity testing** and treated with **balloon sensory training**, so an abnormal rectal sensation on ARM is a treatable finding, not an incidental one. Overview and the criteria gap: [[defecation-disorders]]. [[rome-v-2026-dgbi]]
+- **Rome V also added anorectal sensory dysfunction disorders (F4)** alongside FI: **F4b rectal hypersensitivity** presents with **increased urge to defecate** and prolonged/frequent toilet times, and **F4a rectal hyposensitivity** with a blunted urge — both are diagnosed by **rectal sensitivity testing** and treated with **balloon sensory training**, so an abnormal rectal sensation on anorectal manometry (ARM) is a treatable finding, not an incidental one. Overview and the criteria gap: [[defecation-disorders]]. [[rome-v-2026-dgbi]]
 
 **Prevalence:** 2.2–25% community; ~9% age-adjusted in US. **Significantly underreported** — physicians must actively ask, particularly in patients with predisposing conditions.
 
@@ -66,14 +66,14 @@ Severity is graded from **symptom burden** (type, frequency, and amount of leaka
 
 | Cause | Key Features |
 |-------|-------------|
-| Obstetric sphincter injury | Women; history of vaginal delivery, instrumental delivery, tears; sphincter defects on endoanal US or MRI |
+| Obstetric sphincter injury | Women; history of vaginal delivery, instrumental delivery, tears; sphincter defects on endoanal ultrasound (US) or magnetic resonance imaging (MRI) |
 | Neurogenic FI | Spinal cord injury, multiple sclerosis, diabetes peripheral neuropathy, pudendal neuropathy |
-| [[inflammatory-bowel-disease\|IBD]] | Diarrhea urgency in [[crohns-disease\|Crohn's]] proctitis or [[ulcerative-colitis\|UC]]; specific treatment of IBD may improve FI |
+| [[inflammatory-bowel-disease\|inflammatory bowel disease (IBD)]] | Diarrhea urgency in [[crohns-disease\|Crohn's]] proctitis or [[ulcerative-colitis\|ulcerative colitis (UC)]]; specific treatment of IBD may improve FI |
 | [[rectal-prolapse\|Rectal prolapse]] | Visible prolapse; associated with FI and constipation |
 | Overflow incontinence | Fecal impaction with liquid feces leaking around; rectal exam reveals impaction |
 | [[radiation-proctopathy\|Radiation proctopathy]] | History of pelvic radiation; radiation proctitis with urgency |
 | Scleroderma | Dysmotility, malabsorption; distinctive manometry pattern |
-| Post-surgical (sphincter disruption) | Prior anorectal surgery, [[hemorrhoids\|hemorrhoidectomy]], fistulotomy, LIS |
+| Post-surgical (sphincter disruption) | Prior anorectal surgery, [[hemorrhoids\|hemorrhoidectomy]], fistulotomy, lateral internal sphincterotomy (LIS) |
 
 ---
 
@@ -83,16 +83,16 @@ Severity is graded from **symptom burden** (type, frequency, and amount of leaka
 
 - **Bristol Stool Form Scale + bowel diary** — characterize stool consistency and frequency; soft/liquid stools worsen FI
 - **Digital rectal examination (DRE):** assess resting and squeeze tone, palpate for masses, check for fecal impaction, assess pelvic floor motion during simulated defecation
-- **Laboratory:** CBC, thyroid function if diarrhea-prominent or systemic features
-- **Structural endoscopic evaluation:** all FI patients should undergo flexible sigmoidoscopy or [[colonoscopy]] as indicated by age, family history, and prior endoscopic evaluation — to exclude mucosal disease (IBD, [[colorectal-cancer|neoplasia]], radiation proctopathy). *(ASGE 2010)* [[asge-2010-anorectal-disorders]]
+- **Laboratory:** complete blood count (CBC), thyroid function if diarrhea-prominent or systemic features
+- **Structural endoscopic evaluation:** all FI patients should undergo flexible sigmoidoscopy or [[colonoscopy]] as indicated by age, family history, and prior endoscopic evaluation — to exclude mucosal disease (IBD, [[colorectal-cancer|neoplasia]], radiation proctopathy). *(American Society for Gastrointestinal Endoscopy (ASGE) 2010)* [[asge-2010-anorectal-disorders]]
 
 ### Anorectal Physiology (for patients not responding to conservative measures)
 
-- **[[anorectal-manometry|Anorectal manometry]] (ARM):** resting and squeeze pressures; rectal sensation; rectal compliance; key parameters for biofeedback targeting
+- **[[anorectal-manometry|ARM]]:** resting and squeeze pressures; rectal sensation; rectal compliance; key parameters for biofeedback targeting
 - **Rectal balloon expulsion test (BET):** assess evacuation dynamics; relevant if constipation co-exists
 - **Endoanal ultrasound (EAUS):** best modality for visualizing sphincter defects (internal sphincter clearly delineated); identifies disruption amenable to sphincteroplasty
 - **Pelvic floor MRI:** superior to EAUS for external sphincter atrophy and scar; also identifies rectocele, enterocele, levator defects; preferable if surgery being considered
-- **Needle EMG of anal sphincter:** consider if clinically suspected neurogenic weakness; low clinical significance alone due to poor reliability
+- **Needle electromyography (EMG) of anal sphincter:** consider if clinically suspected neurogenic weakness; low clinical significance alone due to poor reliability
 
 ---
 
@@ -100,21 +100,21 @@ Severity is graded from **symptom burden** (type, frequency, and amount of leaka
 
 ### Step 1: Conservative Management
 
-**ACG 2021 Rec 1 (Strong / low):** *antidiarrheal drugs when FI is accompanied by diarrhea.* The named agents [[acg-2021-anorectal-disorders]]:
+**American College of Gastroenterology (ACG) 2021 Rec 1 (Strong / low):** *antidiarrheal drugs when FI is accompanied by diarrhea.* The named agents [[acg-2021-anorectal-disorders]]:
 
 - **[[loperamide|Loperamide]]** — first-line, most evidence; reduces stool frequency and urgency
 - **Diphenoxylate with atropine** — alternative antidiarrheal
 - **Bile salt binding agents** — cholestyramine or **colesevelam**; relevant with [[bile-acid-diarrhea|bile acid malabsorption]] (post-cholecystectomy, ileal disease)
 - **Anticholinergic agents** — a separate class from clonidine in the guideline's own list
 - **Clonidine** — read the evidence before using it: in women with FI, clonidine **did not improve continence in all comers** and only **tended** to improve it in women **with diarrhea**
-- Cochrane (13 RCTs, 473 participants; 7 tested loperamide, diphenoxylate + atropine, or codeine): symptoms better than placebo in **4 trials** — improved/restored continence, reduced urgency, more formed stools, fewer pads. In 2 of those 4, **more patients reported adverse effects** (constipation, abdominal pain, diarrhea, headache, nausea)
+- Cochrane (13 randomized controlled trials (RCTs), 473 participants; 7 tested loperamide, diphenoxylate + atropine, or codeine): symptoms better than placebo in **4 trials** — improved/restored continence, reduced urgency, more formed stools, fewer pads. In 2 of those 4, **more patients reported adverse effects** (constipation, abdominal pain, diarrhea, headache, nausea)
 
 > [[acg-2021-anorectal-disorders]] names these agents **without any dose, interval, or duration**, and [[asge-2010-anorectal-disorders]] does not mention them at all. (The loperamide dosing on [[enterotoxigenic-e-coli]] is ACG 2016's **traveler's-diarrhea** regimen and does not transfer to FI.)
 
 **Dietary counseling:**
 
 - Identify and reduce dietary triggers (foods with incompletely digested sugars, caffeine)
-- Low-FODMAP diet: 65% of patients reported improvement in uncontrolled audit; prospective RCTs needed
+- Low–fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAP) diet: 65% of patients reported improvement in uncontrolled audit; prospective RCTs needed
 - High-fiber diet if constipation-associated FI
 
 ### Step 2: Biofeedback (Pelvic Floor Rehabilitation)
@@ -125,7 +125,7 @@ Severity is graded from **symptom burden** (type, frequency, and amount of leaka
 - **3 components:** (i) patient education on diarrhea/constipation causes; (ii) antidiarrheal medication; (iii) pelvic floor exercises (Kegel-type) with visual or auditory feedback
 - With proper teaching and follow-up: up to 20% of patients may not need further treatment
 - Biofeedback > pelvic floor exercises alone (RCT data); targets squeeze strength, endurance, and sensory-motor coordination
-- Limitations: labor-intensive; requires trained therapist; motivation-dependent; less effective with CNS disease, short-term memory loss, dementia
+- Limitations: labor-intensive; requires trained therapist; motivation-dependent; less effective with central nervous system (CNS) disease, short-term memory loss, dementia
 
 ### Step 3: Advanced Interventions
 
@@ -160,7 +160,7 @@ Severity is graded from **symptom burden** (type, frequency, and amount of leaka
 **[[ostomy-management|End stoma]] (Conditional):**
 
 - Last resort for severe FI not responding to other treatments
-- Significant QoL improvement reported in selected patients who accept stoma
+- Significant quality of life (QoL) improvement reported in selected patients who accept stoma
 - Median QoL score (scale 0–10) = 8 for ability to live with stoma
 - 83% felt stoma restricted their life little or not at all
 

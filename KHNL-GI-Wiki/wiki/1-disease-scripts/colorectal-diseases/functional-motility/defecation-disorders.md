@@ -34,13 +34,13 @@ sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-d
 
 | Source | Test requirement |
 |---|---|
-| [[rome-v-2026-dgbi\|Rome V]] (2026, current) | **1 of 3** abnormal tests — balloon expulsion, anorectal manometry, **or** imaging (defecography). **EMG dropped** as a criterion |
-| [[acg-2021-anorectal-disorders\|ACG 2021]] | **≥2** abnormal tests (ARM **and** BET both required; a single test held insufficient) |
+| [[rome-v-2026-dgbi\|Rome V]] (2026, current) | **1 of 3** abnormal tests — balloon expulsion, anorectal manometry, **or** imaging (defecography). **electromyography (EMG) dropped** as a criterion |
+| [[acg-2021-anorectal-disorders\|American College of Gastroenterology (ACG) 2021]] | **≥2** abnormal tests (anorectal manometry (ARM) **and** balloon expulsion test (BET) both required; a single test held insufficient) |
 
 - ⚠ **The two criteria sets differ.** Rome V is the newer consensus, so **use the 1-of-3 rule**. ACG 2021's two-test requirement is kept in view because the test descriptions under [[#Required Tests for Diagnosis]] are written against it and many labs still apply it. [[rome-v-2026-dgbi]]
 - **Symptoms are now a required limb, not just the tests:** Rome V requires **difficult-evacuation symptoms** (e.g. straining, digital maneuvers) **plus** the 1 abnormal test — an abnormal test alone does not make the diagnosis. [[rome-v-2026-dgbi]]
 - **What was dropped and what replaced it:** **EMG** is no longer a criterion (infrequently used); the diagnosis now leans on **specific manometric patterns of abnormal evacuation, including the rectoanal gradient**. [[rome-v-2026-dgbi]]
-- **Nomenclature:** Rome V **removed the umbrella category "functional defecation disorders"** (too broad — it swept in structural conditions such as [[rectal-prolapse|rectal prolapse]] and perineal descent); the retained [[disorders-of-gut-brain-interaction|DGBI]] entity is **F3 dyssynergic defecation**, now listed separately. [[rome-v-2026-dgbi]]
+- **Nomenclature:** Rome V **removed the umbrella category "functional defecation disorders"** (too broad — it swept in structural conditions such as [[rectal-prolapse|rectal prolapse]] and perineal descent); the retained [[disorders-of-gut-brain-interaction|disorder of gut-brain interaction (DGBI)]] entity is **F3 dyssynergic defecation**, now listed separately. [[rome-v-2026-dgbi]]
 - **New in Rome V — anorectal sensory dysfunction disorders (F4)**, a separate category from F3 that can produce the same complaints:
   - **F4a rectal hyposensitivity** — blunted rectal sensation → **decreased urge to defecate, straining, and digital maneuvers to evacuate**. Overlaps clinically with dyssynergia; **rectal sensitivity testing separates them**, and treatment is **balloon sensory training** rather than (or alongside) coordination [[biofeedback-therapy|biofeedback]].
   - **F4b rectal hypersensitivity** — **increased urge to defecate** with prolonged or frequent toilet times.
@@ -55,11 +55,11 @@ sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-d
 
 **Epidemiology:** 3× more common in women; greatest incidence in women ages 20–29 and 80–89; incidence of diagnosis increasing with greater availability of anorectal physiology testing.
 
-**Associated conditions:** [[irritable-bowel-syndrome|IBS]], anxiety, depression; prior pelvic surgery, trauma, sexual/physical abuse; eating disorders.
+**Associated conditions:** [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]], anxiety, depression; prior pelvic surgery, trauma, sexual/physical abuse; eating disorders.
 
 ### Severity Assessment
 
-Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, PAC-SYM scores), and response to initial conservative management. Patients with dyssynergia AND slow colonic transit may be more severely affected.
+Severity based on symptom burden, laxative dependence, impact on quality of life (QoL) (Patient Assessment of Constipation–Quality of Life [PAC-QoL] and Patient Assessment of Constipation Symptoms [PAC-SYM] scores), and response to initial conservative management. Patients with dyssynergia AND slow colonic transit may be more severely affected.
 
 ---
 
@@ -75,7 +75,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 | [[rectal-prolapse\|Rectal prolapse]] (full-thickness) | Circular folds visible; inspect in squatting position or on toilet |
 | Hirschsprung disease | Usually diagnosed in childhood; aganglionic segment; suction rectal biopsy |
 | Rectal hyposensitivity (Rome V **F4a**) | Same outlet complaints (straining, digitation) but from **blunted rectal sensation**, not incoordination; separated by rectal sensitivity testing; treated by balloon sensory training |
-| Secondary causes | Parkinson's disease, ileal pouch-anal anastomosis, [[inflammatory-bowel-disease\|IBD]] proctitis; treat underlying condition |
+| Secondary causes | Parkinson's disease, ileal pouch-anal anastomosis, [[inflammatory-bowel-disease\|inflammatory bowel disease (IBD)]] proctitis; treat underlying condition |
 
 ---
 
@@ -96,13 +96,13 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 - **Against BET as the reference standard, sensitivity 80% / specificity 56%** — and **a normal DRE is probably more useful than an abnormal one**. Some people with normal pelvic floor function find it awkward to simulate defecation during a DRE, which is the likely explanation for the lower specificity. [[acg-2021-anorectal-disorders]]
 - Widely underperformed; should be standard in all patients with suspected DD. **Refractory constipation is itself an indication for anorectal testing** — all patients whose symptoms fail standard therapy should be referred to exclude a DD, regardless of DRE result.
 
-**[[anorectal-manometry|Anorectal manometry]] (ARM) + balloon expulsion test (BET) — both required:**
+**[[anorectal-manometry|ARM]] + BET — both required:**
 
 - ARM: documents resting tone, squeeze, push effort pressures; rectoanal inhibitory reflex; defecation dynamics
   - Dyssynergia pattern: **impaired relaxation or paradoxical contraction** of the external anal sphincter and/or puborectalis during the push maneuver, and/or **inadequate rectal propulsive forces**. *(A specific "<50% of baseline" anal-pressure cutoff is **not** stated in [[acg-2021-anorectal-disorders]] — the previously listed threshold was unsourced and has been removed.)*
   - [[high-resolution-manometry|High-resolution manometry]] is preferred; provides spatial pressure mapping
 - BET: balloon filled with 50 mL water expelled in seated position; normal ≤1 minute (commercial Mui Scientific balloon); >1 minute = abnormal
-  - Against defecography as the reference: **sensitivity and specificity both ~88%**, **PPV 64%, NPV 97%** (106 functional-constipation + 24 DD patients). The high NPV is the operative number — a normal BET largely excludes a defecation disorder, while a positive one needs corroboration. Test mechanics live on [[anorectal-manometry]].
+  - Against defecography as the reference: **sensitivity and specificity both ~88%**, **positive predictive value (PPV) 64%, negative predictive value (NPV) 97%** (106 functional-constipation + 24 DD patients). The high NPV is the operative number — a normal BET largely excludes a defecation disorder, while a positive one needs corroboration. Test mechanics live on [[anorectal-manometry]].
   - Not performed with Foley catheter (upper limit 2 minutes with Foley — misclassifies 25% of healthy individuals)
 - ACG 2021 requires **both** ARM + BET (concordance >70%, but the tests assess different aspects); **Rome V accepts any 1 of balloon expulsion / manometry / imaging** — see the test-requirement table under [[#Establishing the Diagnosis]]
 
@@ -115,7 +115,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 
 > The widely used **Rao dyssynergia types I–IV** (the four rectal-pressure/anal-pressure permutation patterns) are **not defined in [[acg-2021-anorectal-disorders]]** — the guideline characterizes dyssynergia only as impaired relaxation/paradoxical contraction and/or inadequate propulsive force. The type definitions are in the original Rao classification paper.
 
-**Defecography (barium or MRI) — for structural evaluation:**
+**Defecography (barium or magnetic resonance imaging (MRI)) — for structural evaluation:**
 
 - Indicated when: ARM + BET discordant, biofeedback fails, structural abnormality suspected (rectocele, prolapse, enterocele), or [[rectal-prolapse|rectal prolapse]] not seen on physical exam
 - MRI defecography: no radiation; superior for pelvic organ prolapse and levator assessment; more expensive, less available
@@ -124,7 +124,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 **Colon transit study:**
 
 - Ordered only if ARM + BET are normal (to rule out slow-transit constipation) OR if patient fails biofeedback despite confirmed dyssynergia
-- Radiopaque marker study (Sitz-Mark capsules) at day 5; wireless motility capsule for simultaneous upper GI transit
+- Radiopaque marker study (Sitz-Mark capsules) at day 5; wireless motility capsule for simultaneous upper gastrointestinal (GI) transit
 - Up to 50% of DD patients have delayed colonic transit — usually secondary to outlet dysfunction, normalizes with successful biofeedback
 
 ---
@@ -133,7 +133,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 
 ### Step 1: Conservative Measures (Before Biofeedback)
 
-- Normalize stool form (Bristol 3–4): fiber supplement + adequate hydration + PEG if needed
+- Normalize stool form (Bristol 3–4): fiber supplement + adequate hydration + polyethylene glycol (PEG) if needed
 - Toileting behavior: scheduled defecation, footstool, avoid excessive straining
 - Treat concurrent anorectal conditions ([[anal-fissure|anal fissure]], [[hemorrhoids]]) that reinforce voluntary sphincter contraction
 - Address constipating medications
@@ -142,7 +142,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 
 **Strong recommendation, Moderate quality evidence (ACG 2021):**
 
-- [[biofeedback-therapy|Biofeedback]] is the only established effective treatment for DD; 8 RCTs support its superiority over sham, diazepam, PEG, and medical care alone
+- [[biofeedback-therapy|Biofeedback]] is the only established effective treatment for DD; 8 randomized controlled trials (RCTs) support its superiority over sham, diazepam, PEG, and medical care alone
 - **Recommended protocol:** 4–6 sessions with well-trained therapist, several weeks apart
 
 **Four components of biofeedback for DD (Table 3, ACG 2021):**

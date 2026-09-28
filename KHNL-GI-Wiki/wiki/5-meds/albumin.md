@@ -9,31 +9,31 @@ sources: [aga-2024-vasoactive-albumin-cirrhosis, aasld-2021-ascites-sbp-hrs]
 
 ## Overview
 
-- IV albumin is a **plasma volume expander** used in [[cirrhosis]] to expand effective arterial blood volume in the vasodilatory–hyperdynamic circulatory state that drives decompensation.
+- Intravenous (IV) albumin is a **plasma volume expander** used in [[cirrhosis]] to expand effective arterial blood volume in the vasodilatory–hyperdynamic circulatory state that drives decompensation.
 - Distinct from vasoconstrictors ([[terlipressin]], [[somatostatin-analogs|octreotide]], norepinephrine, midodrine), which lower [[portal-hypertension|portal pressure]] via splanchnic vasoconstriction — albumin works by volume expansion. Adverse effects of the **vasoactive** drugs are tabled on [[somatostatin-analogs]].
-- Guidance below is from the **AGA 2024 Clinical Practice Update** (Best Practice Advice, BPA — Expert Review; **no formal evidence/strength ratings**; many statements rest on expert opinion / society guidelines).
-- Core roles: at large-volume paracentesis, in [[spontaneous-bacterial-peritonitis|SBP]], and as the volume expander of choice for [[aki-in-cirrhosis|AKI in cirrhosis]]. **Not** for uncomplicated [[ascites]].
+- Guidance below is from the **American Gastroenterological Association (AGA) 2024 Clinical Practice Update (CPU)** (Best Practice Advice [BPA] — Expert Review; **no formal evidence/strength ratings**; many statements rest on expert opinion / society guidelines).
+- Core roles: at large-volume paracentesis, in [[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]], and as the volume expander of choice for [[aki-in-cirrhosis|acute kidney injury (AKI) in cirrhosis]]. **Not** for uncomplicated [[ascites]].
 
 ## Indications & Dosing by Indication
 
 | Indication | AGA advice | Albumin dose / regimen |
 |---|---|---|
-| **Large-volume (>5 L) paracentesis** | Give IV albumin (BPA 4) | **6–8 g per L of ascites removed** (expert opinion, per society guidelines); **lower doses (4 g/L) may be sufficient** |
-| **LVP in [[acute-on-chronic-liver-failure\|ACLF]]** | Give albumin during paracentesis | **6–8 g/L regardless of the volume removed** |
-| **SBP** | Albumin *may be considered* (BPA 5) | **1.5 g/kg body weight on day 1 + 1 g/kg on day 3** (empirical, per society guidelines). Highest-benefit subgroup (RCT subgroup analysis): bilirubin **>4 mg/dL** **and** AKI at baseline (creatinine >1.0 mg/dL **and** BUN >30 mg/dL) — all three together. ⚠ [[aasld-2021-ascites-sbp-hrs\|AASLD 2021]] sets the same bilirubin marker at **>5 mg/dL**. Society guidelines themselves phrase the target more loosely, as **AKI and/or [[jaundice]]** |
-| **AKI in cirrhosis + ascites (hospitalized)** | Albumin is the **volume expander of choice** (BPA 8) | **1 g/kg body weight daily × 2 consecutive days, capped at 100 g/day** — a volume-expansion trial in patients with evidence of intravascular volume depletion. Lack of response to this challenge is itself a diagnostic criterion for HRS-AKI (full algorithm: [[aki-in-cirrhosis]]) |
+| **Large-volume (>5 L) paracentesis (LVP)** | Give IV albumin (BPA 4) | **6–8 g per L of ascites removed** (expert opinion, per society guidelines); **lower doses (4 g/L) may be sufficient** |
+| **LVP in [[acute-on-chronic-liver-failure\|acute-on-chronic liver failure (ACLF)]]** | Give albumin during paracentesis | **6–8 g/L regardless of the volume removed** |
+| **SBP** | Albumin *may be considered* (BPA 5) | **1.5 g/kg body weight on day 1 + 1 g/kg on day 3** (empirical, per society guidelines). Highest-benefit subgroup (randomized controlled trial [RCT] subgroup analysis): bilirubin **>4 mg/dL** **and** AKI at baseline (creatinine >1.0 mg/dL **and** blood urea nitrogen [BUN] >30 mg/dL) — all three together. ⚠ [[aasld-2021-ascites-sbp-hrs\|American Association for the Study of Liver Diseases (AASLD) 2021]] sets the same bilirubin marker at **>5 mg/dL**. Society guidelines themselves phrase the target more loosely, as **AKI and/or [[jaundice]]** |
+| **AKI in cirrhosis + ascites (hospitalized)** | Albumin is the **volume expander of choice** (BPA 8) | **1 g/kg body weight daily × 2 consecutive days, capped at 100 g/day** — a volume-expansion trial in patients with evidence of intravascular volume depletion. Lack of response to this challenge is itself a diagnostic criterion for hepatorenal syndrome–AKI (HRS-AKI; full algorithm: [[aki-in-cirrhosis]]) |
 | **HRS-AKI** | Concurrent albumin *can be considered*, accounting for volume status; terlipressin is the vasoactive drug of choice (BPA 10) | Regimen as above; titrate to volume status — a fixed dose in any AKI patient may be **insufficient or cause volume overload/pulmonary edema**, and the best method to assess volume is unknown |
 | **Uncomplicated ascites** (hospitalized or not) | **Do NOT use** albumin (BPA 6) | — |
 | **Cirrhosis with infections other than SBP** | **Not advised** — 3 RCTs + meta-analysis found no reduction in AKI or mortality and **more pulmonary edema**; exception is concomitant AKI (BPA 8) | — |
 
-- Hepatorenal syndrome (HRS-AKI) is treated with a vasoconstrictor (terlipressin) plus albumin as above; vasoactive drug dosing lives on [[aki-in-cirrhosis]] and is **not** reproduced here.
+- HRS-AKI is treated with a vasoconstrictor (terlipressin) plus albumin as above; vasoactive drug dosing lives on [[aki-in-cirrhosis]] and is **not** reproduced here.
 - Vasoconstrictors should **not** be used after large-volume paracentesis or in SBP (BPA 7).
 
 ## Evidence
 
 **Large-volume paracentesis**
 - Single 5-L LVP does **not** cause deleterious hemodynamic/renal effects.
-- Daily 5-L paracenteses **without** albumin → AKI in 21% (**0% with albumin**); plasma renin/aldosterone rose at 48 h only without albumin ("post-paracentesis circulatory dysfunction," PCD).
+- Daily 5-L paracenteses **without** albumin → AKI in 21% (**0% with albumin**); plasma renin/aldosterone rose at 48 h only without albumin ("post-paracentesis circulatory dysfunction" [PCD]).
 - Albumin vs dextran-70 vs polygeline (RCT, n=289): PCD equal for volumes **<5 L**; for **>5 L**, PCD **18% (albumin)** vs 34% / 38% — confirmed in meta-analysis (8 trials, n=694).
 - A Cochrane meta-analysis found **no mortality/renal-dysfunction difference** for volume expansion after LVP → robust-outcome data still needed.
 

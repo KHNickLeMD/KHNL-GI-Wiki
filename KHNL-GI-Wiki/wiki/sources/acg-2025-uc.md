@@ -14,11 +14,11 @@ sources: []
 - **Year:** 2025
 - **Journal:** Am J Gastroenterol 2025;120:1187–1224
 - **DOI:** [10.14309/ajg.0000000000003463](https://doi.org/10.14309/ajg.0000000000003463)
-- **Type:** Clinical guideline (ACG) — update to 2019 guideline; 38pp; 54 GRADE recommendations + 57 key concepts
+- **Type:** Clinical guideline (American College of Gastroenterology [ACG]) — update to 2019 guideline; 38pp; 54 Grading of Recommendations Assessment, Development and Evaluation (GRADE) recommendations + 57 key concepts
 
 ## Summary
 
-Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulators (ozanimod, etrasimod) now recommended; IL-23 inhibitors (guselkumab, mirikizumab, risankizumab) all recommended; upadacitinib (JAK-1) strongly recommended; vedolizumab explicitly preferred over adalimumab (VARSITY trial); IUS formally recognized as monitoring tool; ASUC section updated. Prioritizes direct RCT evidence over network meta-analyses.
+Comprehensive update of ACG ulcerative colitis (UC) guideline. Major additions vs 2019: sphingosine-1-phosphate (S1P) modulators (ozanimod, etrasimod) now recommended; interleukin-23 (IL-23) inhibitors (guselkumab, mirikizumab, risankizumab) all recommended; upadacitinib (Janus kinase 1 [JAK-1]) strongly recommended; vedolizumab explicitly preferred over adalimumab (VARSITY trial); intestinal ultrasound (IUS) formally recognized as monitoring tool; acute severe UC (ASUC) section updated. Prioritizes direct randomized controlled trial (RCT) evidence over network meta-analyses.
 
 ## Key Findings / Claims
 
@@ -31,11 +31,11 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 3. Against serologic antibody testing to determine prognosis — Strong, Very Low
 
 **Goals**
-4. Treat to endoscopic improvement (MES 0–1) to increase steroid-free remission, prevent hospitalization/surgery — Strong, Moderate
+4. Treat to endoscopic improvement (Mayo endoscopic subscore [MES] 0–1) to increase steroid-free remission, prevent hospitalization/surgery — Strong, Moderate
 5. Use fecal calprotectin to assess response, evaluate relapse, during maintenance — Strong, Moderate
 
 **Mild-Moderate UC**
-6. Rectal 5-ASA 1 g/day for mildly-moderately active proctitis (induction) — Strong, Moderate
+6. Rectal 5-aminosalicylic acid (5-ASA) 1 g/day for mildly-moderately active proctitis (induction) — Strong, Moderate
 7. Tacrolimus suppository or beclomethasone suppository for proctitis not responsive to topical 5-ASA — Conditional, Low
 8. Topical corticosteroids (suppository, foam, enema) for proctitis or left-sided colitis — Conditional, Very Low
 9. Rectal 5-ASA enemas ≥1 g/day preferred over rectal steroids for proctitis/left-sided colitis (induction) — Strong, Moderate
@@ -69,14 +69,14 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 33. Combination infliximab + thiopurine when infliximab used for induction — Strong, Moderate
 
 **Maintenance (Moderate-Severe)**
-34. Against concomitant 5-ASA with anti-TNF maintenance — Conditional, Low
+34. Against concomitant 5-ASA with anti-tumor necrosis factor (anti-TNF) maintenance — Conditional, Low
 35. Against systemic corticosteroids for maintenance — Strong, Moderate
 36. Thiopurines for maintenance after steroid induction — Conditional, Low
 37. Against methotrexate for maintenance — Conditional, Low
 38. Continue ozanimod or etrasimod for maintenance — Strong, Moderate
 39. Continue ustekinumab for maintenance — Strong, Moderate
 40. Continue guselkumab, mirikizumab, or risankizumab for maintenance — Strong, Moderate
-41. Continue vedolizumab IV or SC for maintenance — Strong, Moderate
+41. Continue vedolizumab intravenous (IV) or subcutaneous (SC) for maintenance — Strong, Moderate
 42. Continue adalimumab, golimumab, or infliximab IV or SC for maintenance — Strong, Moderate
 43. Continue tofacitinib or upadacitinib for maintenance — Strong, Moderate
 
@@ -86,11 +86,11 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 
 **ASUC**
 46. C. difficile testing in ASUC — Strong, Moderate
-47. Pharmacologic DVT prophylaxis in ASUC — Strong, Low
+47. Pharmacologic deep vein thrombosis (DVT) prophylaxis in ASUC — Strong, Low
 48. Against routine broad-spectrum antibiotics in ASUC — Strong, Low
 49. Against total parenteral nutrition for bowel rest in ASUC — Conditional, Very Low
-50. IV methylprednisolone 60 mg/day OR hydrocortisone 100 mg TID/QID — Strong, Low
-51. Rescue with infliximab or cyclosporine by day 3 if failing IVCS — Strong, Moderate
+50. IV methylprednisolone 60 mg/day OR hydrocortisone 100 mg three times daily (TID)/four times daily (QID) — Strong, Low
+51. Rescue with infliximab or cyclosporine by day 3 if failing intravenous corticosteroids (IVCS) — Strong, Moderate
 52. Continue infliximab for maintenance after ASUC remission with infliximab — Strong, Moderate
 53. Thiopurines for maintenance after cyclosporine-induced remission — Conditional, Low
 54. Vedolizumab for maintenance after cyclosporine-induced remission — Conditional, Very Low
@@ -103,10 +103,10 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 | Blood | None | Intermittent | Frequent | Continuous |
 | Urgency | None | Mild | Often | Continuous |
 | Hemoglobin | Normal | Normal | <75% normal | Transfusion needed |
-| CRP | Normal | Elevated | Elevated | Elevated |
-| FC (μg/g) | <150–200 | >150–200 | >150–200 | >150–200 |
+| C-reactive protein (CRP) | Normal | Elevated | Elevated | Elevated |
+| Fecal calprotectin (FC; μg/g) | <150–200 | >150–200 | >150–200 | >150–200 |
 | MES | 0–1 | 1 | 2–3 | 3 |
-| UCEIS | 0–1 | 2–4 | 5–8 | 7–8 |
+| Ulcerative Colitis Endoscopic Index of Severity (UCEIS) | 0–1 | 2–4 | 5–8 | 7–8 |
 
 ### Poor Prognostic Factors (Table 8) → Treat as Moderate-Severe
 
@@ -136,30 +136,30 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 |---|---|---|
 | Rectal mesalamine | 1 g/day suppository | 1 g/day |
 | Oral mesalamine | ≥2 g/day | ≥1.5 g/day |
-| Budesonide MMX | 9 mg/day PO | NOT for maintenance |
-| Infliximab IV | 5 mg/kg wk 0, 2, 6 + thiopurine | 5 mg/kg q8wk |
+| Budesonide MMX | 9 mg/day by mouth (PO) | NOT for maintenance |
+| Infliximab IV | 5 mg/kg wk 0, 2, 6 + thiopurine | 5 mg/kg every 8 weeks (q8wk) |
 | Adalimumab | 160/80/40 mg | 40 mg q2wk |
 | Golimumab | 200/100 mg | 100 mg q4wk |
 | Vedolizumab IV | 300 mg wk 0, 2 ⚠ | 300 mg q8wk |
 | Vedolizumab SC | (after IV induction) | 108 mg q2wk |
-| Ustekinumab | ~6 mg/kg IV | 90 mg SQ q8wk or q12wk |
+| Ustekinumab | ~6 mg/kg IV | 90 mg subcutaneous (SQ) q8wk or q12wk |
 | Ozanimod | 0.23 mg → 0.92 mg daily PO | 0.92 mg/day |
 | Etrasimod | 2 mg daily PO | 2 mg/day |
 | Guselkumab | 200 mg IV wk 0, 4, 8 | 100 mg SQ q8wk |
 | Mirikizumab | 300 mg IV q4wk × 3 | 200 mg SQ q4wk |
 | Risankizumab | 1200 mg IV q4wk × 3 | 180 mg SQ q8wk |
-| Tofacitinib | 10 mg bid × 8 wk (extend 8 more wk in wk-8 non-responders → 16 wk; in the US label) | 5 mg bid **or** 10 mg bid — ⚠ guideline says "**prudent to consider 10 mg BID for maintenance in most patients**" (prior anti-TNF failure benefits from 10 mg bid; relapsers after reduction to 5 mg bid are not always recaptured) |
+| Tofacitinib | 10 mg twice daily (bid) × 8 wk (extend 8 more wk in wk-8 non-responders → 16 wk; in the US label) | 5 mg bid **or** 10 mg bid — ⚠ guideline says "**prudent to consider 10 mg BID for maintenance in most patients**" (prior anti-TNF failure benefits from 10 mg bid; relapsers after reduction to 5 mg bid are not always recaptured) |
 | Upadacitinib | 45 mg PO daily × 8wk | 15–30 mg PO daily |
 
-> ⚠ **Vedolizumab IV induction.** The ACG 2025 UC text describes vedolizumab induction only as **300 mg at weeks 0 and 2**, with responders randomised at week 6 to maintenance (GEMINI 1, VISIBLE); it does not state a week-6 induction dose. The "0, 2, 6" pattern belongs to the **infliximab** row above it. The only 0/2/6 vedolizumab schedule in a guideline is in [[aga-2021-ici-colitis-hepatitis]], for **ICI colitis**, not IBD. See [[vedolizumab]].
+> ⚠ **Vedolizumab IV induction.** The ACG 2025 UC text describes vedolizumab induction only as **300 mg at weeks 0 and 2**, with responders randomised at week 6 to maintenance (GEMINI 1, VISIBLE); it does not state a week-6 induction dose. The "0, 2, 6" pattern belongs to the **infliximab** row above it. The only 0/2/6 vedolizumab schedule in a guideline is in [[aga-2021-ici-colitis-hepatitis]], for **immune checkpoint inhibitor (ICI) colitis**, not inflammatory bowel disease (IBD). See [[vedolizumab]].
 
 ### ASUC Management Summary
 
-1. **Assess:** Flex sig within 24–72h; CMV biopsies; toxic megacolon check
-2. **Supportive:** DVT prophylaxis; avoid NSAIDs/narcotics/anticholinergics; no bowel rest
+1. **Assess:** Flexible sigmoidoscopy within 24–72h; cytomegalovirus (CMV) biopsies; toxic megacolon check
+2. **Supportive:** DVT prophylaxis; avoid nonsteroidal anti-inflammatory drugs (NSAIDs)/narcotics/anticholinergics; no bowel rest
 3. **Induction:** IVCS (methylprednisolone 60 mg/day OR hydrocortisone 100mg TID/QID)
 4. **Day 3:** If inadequate response → rescue with infliximab OR cyclosporine
-5. **IFX choice factors:** Prior immunomodulator/anti-TNF failure; albumin <2.5 → dose intensify (10mg/kg)
+5. **Infliximab (IFX) choice factors:** Prior immunomodulator/anti-TNF failure; albumin <2.5 → dose intensify (10mg/kg)
 6. **Maintenance after rescue:** IFX → continue IFX; cyclosporine → bridge to thiopurine or vedolizumab
 7. **Surgery:** Toxic megacolon, perforation, refractory hemorrhage, medical refractory
 8. **NOT enough data for tofacitinib/upadacitinib** after IVCS failure in ASUC
@@ -169,11 +169,11 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 - **Vedolizumab > adalimumab** as advanced therapy (VARSITY trial; Rec 45)
 - **Infliximab preferred anti-TNF** (Key concept 45); combo with thiopurine required (Rec 33)
 - **Primary nonresponse to anti-TNF:** switch class, not cycling within anti-TNF
-- **Upadacitinib (Strong/High):** most efficacious in trials; no prior anti-TNF requirement for UC (unlike [[crohns-disease|CD]])
+- **Upadacitinib (Strong/High):** most efficacious in trials; no prior anti-TNF requirement for UC (unlike [[crohns-disease|Crohn's disease (CD)]])
 - **IL-23 inhibitors:** all 3 (guselkumab, mirikizumab, risankizumab) recommended equally
 - **S1P modulators (ozanimod, etrasimod):** new class; oral; cardiac screening required; no anti-TNF requirement
-- **JAK inhibitors safety context:** ORAL Surveillance data from RA patients; boxed warning; reserve for anti-TNF failures or those who cannot use biologics per FDA; use clinical judgment
-- Biosimilars (IFX, ADA, UST) are equivalent; switching is acceptable
+- **Janus kinase (JAK) inhibitors safety context:** ORAL Surveillance data from rheumatoid arthritis (RA) patients; boxed warning; reserve for anti-TNF failures or those who cannot use biologics per FDA; use clinical judgment
+- Biosimilars (IFX, adalimumab [ADA], ustekinumab [UST]) are equivalent; switching is acceptable
 
 ## Recommendations
 

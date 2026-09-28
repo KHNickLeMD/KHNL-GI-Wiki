@@ -27,12 +27,12 @@ Routine, protocol-driven lab panels before endoscopy are **not indicated** in he
 ## Core Principle — Selective, Risk-Based Testing
 
 - Pursue preprocedure testing selectively based on medical history, physical exam, and patient + procedural risk factors.
-- Recommend **against** routine coagulation studies, chest radiography, ECG, blood type/screen, hemoglobin/hematocrit, urinalysis, and chemistries in healthy patients.
+- Recommend **against** routine coagulation studies, chest radiography, electrocardiogram (ECG), blood type/screen, hemoglobin/hematocrit, urinalysis, and chemistries in healthy patients.
 - Mild renal impairment does not affect outcomes with moderate/deep sedation → renal testing not required on that basis alone. (Creatinine **>1.9 mg/dL** predicts poor outcome after *major surgery*, but there are **no data supporting this in endoscopy**.)
 
 ### Graded Recommendations (ASGE 2014)
 
-GRADE evidence quality: ⊕⊕⊕⊕ high · ⊕⊕⊕⊖ moderate · ⊕⊕⊖⊖ low. "Recommend" = strong; "suggest" = weak.
+Grading of Recommendations Assessment, Development and Evaluation (GRADE) evidence quality: ⊕⊕⊕⊕ high · ⊕⊕⊕⊖ moderate · ⊕⊕⊖⊖ low. "Recommend" = strong; "suggest" = weak.
 
 | # | Recommendation | Quality |
 |---|---|---|
@@ -49,15 +49,15 @@ GRADE evidence quality: ⊕⊕⊕⊕ high · ⊕⊕⊕⊖ moderate · ⊕⊕⊖�
 
 | Test | When to obtain (selective) |
 |---|---|
-| PT / INR / PTT | Active bleeding; known or clinically suspected bleeding disorder; anticoagulant use; **prolonged antibiotics** (clotting-factor deficiency); prolonged biliary obstruction; history of abnormal bleeding; malnutrition; other acquired coagulopathy |
+| Prothrombin time (PT) / international normalized ratio (INR) / partial thromboplastin time (PTT) | Active bleeding; known or clinically suspected bleeding disorder; anticoagulant use; **prolonged antibiotics** (clotting-factor deficiency); prolonged biliary obstruction; history of abnormal bleeding; malnutrition; other acquired coagulopathy |
 | Platelet count | Only if thrombocytopenia is suspected on history/exam — excessive bleeding or easy bruisability, myeloproliferative disorder, platelet-lowering medications |
 | Bleeding time / platelet-function assays | **Never routinely** — bleeding time does not predict hemorrhage; newer platelet-function tests are unvalidated for periprocedural bleeding risk, including in renal failure and on aspirin/antiplatelets |
 | Hemoglobin / hematocrit | Preexisting anemia; ongoing bleeding or bleeding risk factors; high risk of significant procedural blood loss; **[[cirrhosis\|advanced liver disease]]**; hematologic disorder — when the procedure carries high bleeding risk |
-| Blood type & screen | Transfusion considered likely (active bleeding or anemia) — *recommend*. Consider in any patient scoped for evaluation/management of **acute GI bleeding** ([[upper-gi-bleeding]], [[acute-lower-gi-bleeding]]) |
+| Blood type & screen | Transfusion considered likely (active bleeding or anemia) — *recommend*. Consider in any patient scoped for evaluation/management of **acute gastrointestinal (GI) bleeding** ([[upper-gi-bleeding]], [[acute-lower-gi-bleeding]]) |
 | Chemistry panel | Significant endocrine, renal, or hepatic dysfunction **before** giving medications that may further impair function; blood glucose in **insulin-requiring diabetes** |
-| Pregnancy test | Childbearing-age patients before endoscopy/fluoroscopy with an uncertain or suggestive pregnancy history — *unless* prior total hysterectomy, bilateral tubal ligation, or **amenorrhea ≥1 y** (menopause). **Lower the threshold when fluoroscopy is planned** (e.g. [[ercp]]) |
+| Pregnancy test | Childbearing-age patients before endoscopy/fluoroscopy with an uncertain or suggestive pregnancy history — *unless* prior total hysterectomy, bilateral tubal ligation, or **amenorrhea ≥1 y** (menopause). **Lower the threshold when fluoroscopy is planned** (e.g. [[ercp\|endoscopic retrograde cholangiopancreatography (ERCP)]]) |
 | Chest radiograph | New respiratory signs/symptoms or decompensated heart failure |
-| ECG | **Not routine.** The one exception: **droperidol is being considered** for sedation — it prolongs the QT interval and is contraindicated with a prolonged QTc (thresholds on [[endoscopy-sedation]]) |
+| ECG | **Not routine.** The one exception: **droperidol is being considered** for sedation — it prolongs the QT interval and is contraindicated with a prolonged corrected QT interval (QTc; thresholds on [[endoscopy-sedation]]) |
 | Urinalysis | **Not before endoscopy** — no data that urinary tract infection affects endoscopic outcome |
 
 ### Coagulation Testing
@@ -66,7 +66,7 @@ GRADE evidence quality: ⊕⊕⊕⊕ high · ⊕⊕⊕⊖ moderate · ⊕⊕⊖�
 - **An abnormal PTT does not reliably predict periprocedural bleeding.** In a 1000-patient study every patient with a prolonged PTT already had a clinical bleeding risk factor.
 - Screening PTT for hemophilia is **not** recommended without clinical suspicion — the PTT is insensitive for hemophilia, false-positive rate **~2.3%**, and the incidence of hemophilia in males without family history or prior major trauma/surgery is **0.0025%**.
 - **PT/INR do not predict bleeding risk in liver disease** — they measure procoagulants only, not the anticoagulants that fall in parallel; see [[cirrhosis-hemostasis]].
-- ASGE explicitly does **not** define acceptable INR or platelet thresholds for endoscopy — this document selects *who gets tested*, not how to act on the result. Hold intervals, bridging, and reversal live on [[anticoagulation-gi-bleeding]].
+- The American Society for Gastrointestinal Endoscopy (ASGE) explicitly does **not** define acceptable INR or platelet thresholds for endoscopy — this document selects *who gets tested*, not how to act on the result. Hold intervals, bridging, and reversal live on [[anticoagulation-gi-bleeding]].
 
 ### Why Routine Panels Fail
 

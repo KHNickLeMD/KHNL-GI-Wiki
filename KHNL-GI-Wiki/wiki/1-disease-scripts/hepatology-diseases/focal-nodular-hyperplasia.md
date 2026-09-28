@@ -36,7 +36,7 @@ sources: [acg-2024-focal-liver-lesions]
 
 - Prevalence **0.3%–3%** on autopsy series
 - Known **female preponderance**; compared with men, women develop **larger** FNH that **present earlier**
-- Not driven by OCP use (unlike [[hepatocellular-adenoma|HCA]]) — no correlation between OCP use and FNH growth or prevalence, and no evidence of change during pregnancy
+- Not driven by oral contraceptive pill (OCP) use (unlike [[hepatocellular-adenoma|hepatocellular adenoma (HCA)]]) — no correlation between OCP use and FNH growth or prevalence, and no evidence of change during pregnancy
 - Up to **20%** of patients with FNH also have a coexisting [[hepatic-hemangioma|hepatic hemangioma]]
 
 **Pathophysiology** ([[acg-2024-focal-liver-lesions]]):
@@ -62,11 +62,11 @@ Key concern is distinguishing FNH from [[hepatocellular-adenoma|HCA]] (very diff
 
 *Workup & imaging comparison: see [[focal-liver-lesions]].*
 
-- **[[hepatocellular-adenoma|Hepatocellular adenoma]] (HCA)** — most important distinction; HCA lacks central scar; lacks hepatobiliary phase gadoxetate uptake in typical pattern; management is very different (see [[hepatocellular-adenoma]])
-- **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]]** — in [[cirrhosis|cirrhotic]] background; APHE + washout; [[li-rads|LI-RADS]] ≥4; no central scar
-- **Hypervascular metastasis** — (e.g. from [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], RCC, thyroid cancer); multiple lesions; clinical context
+- **[[hepatocellular-adenoma|Hepatocellular adenoma]]** — most important distinction; HCA lacks central scar; lacks hepatobiliary phase gadoxetate uptake in typical pattern; management is very different (see [[hepatocellular-adenoma]])
+- **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]]** — in [[cirrhosis|cirrhotic]] background; arterial phase hyperenhancement (APHE) + washout; [[li-rads|Liver Imaging Reporting and Data System (LI-RADS)]] ≥4; no central scar
+- **Hypervascular metastasis** — (e.g. from [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], renal cell carcinoma [RCC], thyroid cancer); multiple lesions; clinical context
 - **[[hepatic-hemangioma|Hepatic hemangioma]]** — T2 hyperintense; centripetal fill-in; no central scar; no hepatobiliary phase uptake
-- **Fibrolamellar HCC (FLHCC)** — <1% of US primary liver tumors; highest incidence in White men <40 y; arises in a **non-cirrhotic** liver; large, often solitary, heterogeneous early enhancement ± calcification. **A central scar is present in up to half of cases, so it is confused with FNH** — the discriminator is the hepatobiliary phase: **FLHCC is HBP-hypointense, FNH is HBP-hyperintense**. Unlike conventional [[hepatocellular-carcinoma|HCC]], FLHCC **must be diagnosed by biopsy** ([[acg-2024-focal-liver-lesions]])
+- **Fibrolamellar HCC (FLHCC)** — <1% of US primary liver tumors; highest incidence in White men <40 y; arises in a **non-cirrhotic** liver; large, often solitary, heterogeneous early enhancement ± calcification. **A central scar is present in up to half of cases, so it is confused with FNH** — the discriminator is the hepatobiliary phase (HBP): **FLHCC is HBP-hypointense, FNH is HBP-hyperintense**. Unlike conventional [[hepatocellular-carcinoma|HCC]], FLHCC **must be diagnosed by biopsy** ([[acg-2024-focal-liver-lesions]])
 
 ---
 
@@ -74,17 +74,17 @@ Key concern is distinguishing FNH from [[hepatocellular-adenoma|HCA]] (very diff
 
 ### Imaging
 
-**[[mri-mrcp|MRI]] with hepatobiliary contrast agent (e.g. gadoxetic acid) — preferred modality** (Rec 9, Conditional / Low) [[acg-2024-focal-liver-lesions]]:
+**[[mri-mrcp|Magnetic resonance imaging (MRI)]] with hepatobiliary contrast agent (e.g. gadoxetic acid) — preferred modality** (Rec 9, Conditional / Low) [[acg-2024-focal-liver-lesions]]:
 
 - Correctly classifies FNH vs [[hepatocellular-adenoma|HCA]] with accuracy **>90%**; **specificity ~100%** for FNH
 - Lesion: well-circumscribed, **homogeneously arterial hyperenhancing**, becoming **isoenhancing** on portal venous and delayed phases
-- **Central scar:** hypodense/hypointense on non-contrast CT/MRI → **delayed enhancement** on portal venous and delayed phases → **isointense to hyperintense on T2**
+- **Central scar:** hypodense/hypointense on non-contrast computed tomography (CT)/MRI → **delayed enhancement** on portal venous and delayed phases → **isointense to hyperintense on T2**
 - **Hepatobiliary phase (20 min):** FNH contains hepatocyte-specific membrane transporters, so it **almost always shows hyperintense signal** — diagnosis with near-100% confidence; **only 2%** of FNH are HBP-hypointense
 - If MRI is contraindicated → **multiphase CT**
 
-**CEUS:** can be used to diagnose FNH; **diagnostic accuracy increases in lesions <3 cm**.
+**Contrast-enhanced ultrasound (CEUS):** can be used to diagnose FNH; **diagnostic accuracy increases in lesions <3 cm**.
 
-**[[liver-biopsy|Biopsy]]:** not routinely needed once advanced imaging is diagnostic (KC 19). If FNH cannot be diagnosed by imaging, biopsy may be considered **after multidisciplinary tumor board discussion** — interpretation is difficult (case-series diagnostic yield as low as **58%**) and is aided by immunohistochemistry.
+**[[liver-biopsy|Biopsy]]:** not routinely needed once advanced imaging is diagnostic (Key Concept [KC] 19). If FNH cannot be diagnosed by imaging, biopsy may be considered **after multidisciplinary tumor board discussion** — interpretation is difficult (case-series diagnostic yield as low as **58%**) and is aided by immunohistochemistry.
 
 **Diagnostic pitfall — HBP hyperintensity is not unique to FNH** ([[acg-2024-focal-liver-lesions]]): **11% of inflammatory** and **59% of β-catenin–mutated** [[hepatocellular-adenoma|HCA]] express the biliary transporter **OATP1B1/B3**, retain gadoxetic acid, and appear HBP-hyperintense. Rule: **any lesion with an atypical dynamic-imaging appearance for FNH that is HBP-hyperintense should be closely followed** — do not call it FNH and discharge it. Management of indeterminate lesions is below.
 
@@ -94,7 +94,7 @@ Key concern is distinguishing FNH from [[hepatocellular-adenoma|HCA]] (very diff
 
 ### Once Definitively Characterized as FNH
 
-**No follow-up required** (KC 20 — key concept, not GRADE-rated) [[acg-2024-focal-liver-lesions]]:
+**No follow-up required** (KC 20 — key concept, not Grading of Recommendations Assessment, Development and Evaluation [GRADE]-rated) [[acg-2024-focal-liver-lesions]]:
 
 - Little to no change over time in most cases → no benefit to continued imaging
 - Lesions that do grow do not cause life-threatening complications
@@ -117,7 +117,7 @@ Key concern is distinguishing FNH from [[hepatocellular-adenoma|HCA]] (very diff
 ### If Imaging is Indeterminate (Cannot Definitively Distinguish FNH from HCA)
 
 - Inadequately characterized or atypical focal liver lesions should be reviewed at a **multidisciplinary liver tumor board** (KC 2)
-- [[liver-biopsy|Liver biopsy]] may be considered after that discussion; diagnostic yield is limited (as low as 58%) and is improved by immunohistochemistry — the [[hepatocellular-adenoma|HCA]] subtyping panel is liver FABP, CRP/amyloid A, and β-catenin/glutamine synthetase ([[acg-2024-focal-liver-lesions]] Table 4)
+- [[liver-biopsy|Liver biopsy]] may be considered after that discussion; diagnostic yield is limited (as low as 58%) and is improved by immunohistochemistry — the [[hepatocellular-adenoma|HCA]] subtyping panel is liver fatty acid-binding protein (FABP), C-reactive protein (CRP)/amyloid A, and β-catenin/glutamine synthetase ([[acg-2024-focal-liver-lesions]] Table 4)
 - A lesion that is HBP-hyperintense but atypical for FNH on dynamic imaging is **followed closely**, not discharged
 
 ---

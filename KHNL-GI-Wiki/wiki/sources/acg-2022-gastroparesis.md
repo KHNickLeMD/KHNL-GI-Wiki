@@ -14,14 +14,14 @@ sources: []
 - **Year:** 2022
 - **Journal:** Am J Gastroenterol 2022;117:1197–1220
 - **DOI:** [10.14309/ajg.0000000000001874](https://doi.org/10.14309/ajg.0000000000001874)
-- **Type:** Clinical guideline (ACG) — updates 2013 ACG guideline
-- **Note:** GRADE methodology; 20 numbered recommendations (Table 1) in three groups — Risk factors (1), Diagnostic testing (2–5), Management (6–20). No separate key-concept statements appear in the body. 1,908 distinct references screened (Feb 2019–Jul 2021); 181 cited.
+- **Type:** Clinical guideline (American College of Gastroenterology [ACG]) — updates 2013 ACG guideline
+- **Note:** Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology; 20 numbered recommendations (Table 1) in three groups — Risk factors (1), Diagnostic testing (2–5), Management (6–20). No separate key-concept statements appear in the body. 1,908 distinct references screened (Feb 2019–Jul 2021); 181 cited.
 
 ## Summary
 
 This 2022 ACG guideline updates the 2013 ACG guideline on gastroparesis (GP), covering risk factors, diagnosis, and management in adults. GP is defined as delayed gastric emptying (GE) of solid food in the absence of mechanical obstruction, with symptoms including postprandial fullness, nausea, vomiting, and upper abdominal pain. The guideline emphasizes that scintigraphic gastric emptying (SGE) remains the gold standard diagnostic test and specifies that an optimal protocol requires a solid meal and at least 3 hours of imaging (ideally 4 hours unless >90% emptied by 3 hours). The threshold for delayed GE is >10% retention at 4 hours using the standard 255-kcal, 2% fat Egg Beaters meal.
 
-For management, the guideline underscores the limited FDA-approved pharmacotherapy landscape: metoclopramide remains the only FDA-approved agent, with a Black Box warning for tardive dyskinesia risk and a recommended duration limit of <12 weeks. Domperidone is available under a special FDA expanded access program. Erythromycin is used short-term (1–4 weeks) due to tachyphylaxis. Dietary modification (small particle, low-fat diet) is recommended as first-line alongside glycemic optimization in diabetic GP. The guideline strongly discourages use of intrapyloric botulinum toxin (negative RCT data) and central neuromodulators (nortriptyline no better than placebo in IG). G-POEM is supported conditionally for medically refractory GP. Gastric electrical stimulation (GES) may be considered as a humanitarian use device.
+For management, the guideline underscores the limited FDA-approved pharmacotherapy landscape: metoclopramide remains the only FDA-approved agent, with a Black Box warning for tardive dyskinesia risk and a recommended duration limit of <12 weeks. Domperidone is available under a special FDA expanded access program. Erythromycin is used short-term (1–4 weeks) due to tachyphylaxis. Dietary modification (small particle, low-fat diet) is recommended as first-line alongside glycemic optimization in diabetic GP. The guideline strongly discourages use of intrapyloric botulinum toxin (negative randomized controlled trial [RCT] data) and central neuromodulators (nortriptyline no better than placebo in idiopathic gastroparesis [IG]). Gastric peroral endoscopic myotomy (G-POEM) is supported conditionally for medically refractory GP. Gastric electrical stimulation (GES) may be considered as a humanitarian use device.
 
 ## Key Findings / Claims
 
@@ -48,15 +48,15 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 - Overall agreement ~75.7% (kappa 0.42); different patterns by etiology
 - WMC detects higher proportion of delayed GE in non-diabetics (33.3% vs. 17.1%)
 - SGE detects higher proportion in diabetics (41.7% vs. 17.1%)
-- WMC advantage: evaluates pan-GI motility (small bowel and colon transit, gastric contractile amplitude)
+- WMC advantage: evaluates pan-gastrointestinal (GI) motility (small bowel and colon transit, gastric contractile amplitude)
 - 45.6% of suspected GP patients have transit delays beyond the stomach on WMC
 
-**Retained gastric food on EGD:**
+**Retained gastric food on esophagogastroduodenoscopy (EGD):**
 
-- PPV for delayed GE = 55% overall; only 32% in patients without risk factors, 79% in type 1 DM
+- Positive predictive value (PPV) for delayed GE = 55% overall; only 32% in patients without risk factors, 79% in type 1 diabetes mellitus (DM)
 - Should not be assumed diagnostic of GP; medications (opioids, cardiovascular agents, acid suppressants) are confounders
 
-**GP vs. [[dyspepsia|functional dyspepsia]] overlap:**
+**GP vs. [[dyspepsia|functional dyspepsia (FD)]] overlap:**
 
 - 42% of patients initially diagnosed with GP and 37% with FD were reclassified on repeat SGE
 - Distinction is clinically important: FD has a better prognosis than GP
@@ -65,7 +65,7 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 
 | # | Recommendation | Strength | Evidence |
 |---|---|---|---|
-| 1 | Optimal glucose control in DG to reduce future GP aggravation | Conditional | Low |
+| 1 | Optimal glucose control in diabetic gastroparesis (DG) to reduce future GP aggravation | Conditional | Low |
 | 6 | Small particle diet for symptom relief and enhanced GE | Conditional | Low |
 | 7 | Pharmacologic treatment in idiopathic and DG | Conditional | Low |
 | 8 | Metoclopramide over no treatment for refractory symptoms | Conditional | Low |
@@ -87,10 +87,10 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 **Metoclopramide:**
 
 - Only FDA-approved drug for GP in the US
-- Dose used in trials: 10 mg qid (oral); intranasal formulations also studied (10 mg or 14 mg qid)
+- Dose used in trials: 10 mg four times daily (qid) (oral); intranasal formulations also studied (10 mg or 14 mg qid)
 - Regulatory restrictions apply to oral doses exceeding 10 mg 3–4 times daily: use for <12 weeks and age <65 years
 - Black Box warning: tardive dyskinesia risk
-- Actual risk of tardive dyskinesia: 0.1% per 1,000 patient-years, below the previously estimated 1%–10% risk cited by regulatory authorities; a VA cohort found RR 1.67 (95% CI 0.93–2.97) vs nonusers
+- Actual risk of tardive dyskinesia: 0.1% per 1,000 patient-years, below the previously estimated 1%–10% risk cited by regulatory authorities; a Veterans Affairs (VA) cohort found relative risk (RR) 1.67 (95% confidence interval [CI] 0.93–2.97) vs nonusers
 - High-risk groups: elderly women, diabetics, renal/hepatic failure, concurrent antipsychotics
 - Intranasal formulation reduced nausea/vomiting, more effective in women than men in trials
 
@@ -98,17 +98,17 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 
 - Available in the US only under FDA expanded access (special program)
 - Dose in trials: 20 mg qid; max dose up to 80 mg/day in some studies
-- Associated with symptom improvement in IG, DG, and PSG; 4 studies document acceleration of GE
-- NIH GP Consortium data (n=748): domperidone group showed moderate but significant improvement in GCSI, nausea, fullness, upper abdominal pain, GERD score, and QOL
-- Does not share same CNS side effect profile as metoclopramide (peripheral D2 antagonist)
+- Associated with symptom improvement in IG, DG, and postsurgical gastroparesis (PSG); 4 studies document acceleration of GE
+- National Institutes of Health (NIH) GP Consortium data (n=748): domperidone group showed moderate but significant improvement in Gastroparesis Cardinal Symptom Index (GCSI), nausea, fullness, upper abdominal pain, gastroesophageal reflux disease (GERD) score, and quality of life (QOL)
+- Does not share same central nervous system (CNS) side effect profile as metoclopramide (peripheral D2 antagonist)
 
 **Erythromycin (motilin agonist):**
 
 - Short-term use: 1–4 weeks (tachyphylaxis develops)
-- IV erythromycin dramatically accelerates GE (solid meal retention at 2h: 63% → 4% in one trial)
-- Oral: 250 mg tid; some data for 500 mg tid with meals and at bedtime
+- Intravenous (IV) erythromycin dramatically accelerates GE (solid meal retention at 2h: 63% → 4% in one trial)
+- Oral: 250 mg three times daily (tid); some data for 500 mg tid with meals and at bedtime
 - Azithromycin IV 250 mg equivalent efficacy to erythromycin IV (T½ baseline ~178 min → ~10 min)
-- Macrolide use not associated with increased arrhythmia or cardiovascular mortality in SRMA of 33 studies (22.6 million subjects)
+- Macrolide use not associated with increased arrhythmia or cardiovascular mortality in systematic review and meta-analysis (SRMA) of 33 studies (22.6 million subjects)
 
 **5-HT4 agonists:**
 
@@ -121,7 +121,7 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 
 - Improve symptoms but do NOT accelerate GE
 - Examples used: ondansetron, promethazine, aprepitant
-- Tradipitant (NK1 antagonist) 85 mg bid: significant decrease in nausea score vs. placebo in RCT (Carlin 2021)
+- Tradipitant (NK1 antagonist) 85 mg twice daily (bid): significant decrease in nausea score vs. placebo in RCT (Carlin 2021)
 - Patient-reported most effective agents: marijuana, ondansetron, promethazine
 
 **Central neuromodulators:**
@@ -133,7 +133,7 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 
 **EndoFLIP [[flip-panometry]]:**
 
-- Reduced pyloric distensibility (DI <10 mm²/mm Hg) correlates with greater gastric retention
+- Reduced pyloric distensibility (distensibility index [DI] <10 mm²/mm Hg) correlates with greater gastric retention
 - Predicts response to pyloric therapy; post-G-POEM DI increase correlates with clinical success
 - Baseline DI threshold of 9.2 mm²/mm Hg: 100% specificity, 72.2% sensitivity for G-POEM success in one study
 
@@ -142,7 +142,7 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 - NOT recommended based on 2 negative RCTs
 - May benefit a subset with documented reduced pyloric distensibility (observational French multicenter data), but this is not sufficient to overcome negative RCT evidence
 
-**G-POEM (gastric per-oral endoscopic myotomy):**
+**G-POEM:**
 
 - Open-label studies: GE scintigraphy normalization rate 61.3% (pooled, 14 studies, n=276); symptom improvement 88.2%
 - GCSI improvement persists 3–12 months; slight attenuation at 18–24 months
@@ -150,7 +150,7 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 - Comparable efficacy to laparoscopic pyloroplasty (LP); G-POEM associated with fewer complications, shorter hospital stay
 - Sham-controlled RCT (Vosoughi 2021, n=80): G-POEM superior to sham for symptom control at 3 months
 
-**Gastric electrical stimulation (GES):**
+**GES:**
 
 - FDA-approved as humanitarian use device (HUD) for medically refractory DG or IG
 - Best evidence for reduction of vomiting frequency (Ducrotte 2020 RCT: 172 patients, 4-month crossover)
@@ -163,11 +163,11 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 - Small particle, low-fat diet: first-line dietary intervention (solid evidence from RCTs)
 - Stepwise escalation: oral nutrition → jejunostomy → parenteral nutrition
 - PEG-J (percutaneous endoscopic gastrostomy with jejunal extension) associated with fewer symptoms than other enteral routes in advanced cases
-- Long-term parenteral nutrition: 68% survival at 15 years; oral intake + PN associated with higher survival
+- Long-term parenteral nutrition (PN): 68% survival at 15 years; oral intake + PN associated with higher survival
 
 ## Relevance to Wiki
 
-- Creates/updates `[[gastroparesis]]` disease script: establishes ADDT content for assessment, diagnostics, and therapeutics
+- Creates/updates `[[gastroparesis]]` disease script: establishes Assessment, Differential Diagnosis, Diagnostics, Therapeutics (ADDT) content for assessment, diagnostics, and therapeutics
 - Relevant to `[[flip-panometry]]`: EndoFLIP role in pyloric assessment before G-POEM
 - Relevant to `[[upper-endoscopy]]`: retained gastric food PPV and limitations as diagnostic criterion
 - Relevant to `[[disorders-of-gut-brain-interaction]]`: GP-FD overlap, reclassification data, distinction by prognosis
@@ -177,7 +177,7 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 - GP-FD overlap: 10% retention cutoff at 4 hours may be too sensitive, causing over-diagnosis of GP among patients who actually have FD; future guidelines may refine the diagnostic threshold and meal composition
 - Metoclopramide 12-week restriction: RCT data suggest the actual tardive dyskinesia risk (~0.1/1,000 patient-years) is far lower than the regulatory basis for this restriction; real-world use often exceeds 12 weeks under individualized risk-benefit assessment
 - BTX vs. G-POEM selection: BTX is not recommended by RCT data, yet distensibility-guided BTX injection (DI <10 mm²/mm Hg) shows benefit in French multicenter observational data — open question whether RCTs used unselected populations
-- GES: SRMA of 5 randomized trials shows TSS did NOT differ on vs. off in RCTs; improvement seen only in open-label studies (Levinthal 2017) — questions about placebo effect vs. true benefit remain unresolved
+- GES: SRMA of 5 randomized trials shows total symptom score (TSS) did NOT differ on vs. off in RCTs; improvement seen only in open-label studies (Levinthal 2017) — questions about placebo effect vs. true benefit remain unresolved
 - Ghrelin agonists (relamorelin): accelerated GE and reduced vomiting in DG-specific RCTs, but impaired glycemic control with relamorelin; did not meet primary endpoints in phase 3 — guideline appropriately concludes NOT supported
 - No FDA-approved therapy exists for GP in the US other than metoclopramide (approved only for ≤12 weeks); significant unmet need
 

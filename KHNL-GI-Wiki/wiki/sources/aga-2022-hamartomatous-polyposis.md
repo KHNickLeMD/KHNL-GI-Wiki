@@ -37,24 +37,24 @@ sources: []
 - **Article:** [Boland CR, Idos GE, Durno C, et al. Diagnosis and Management of Cancer Risk in the Gastrointestinal Hamartomatous Polyposis Syndromes: Recommendations From the US Multi-Society Task Force on Colorectal Cancer. Gastroenterology 2022;162(7):2063–2085.](https://doi.org/10.1053/j.gastro.2022.02.021)
 - **Authors:** C. Richard Boland, Gregory E. Idos (co-first authors), Carol Durno, Francis M. Giardiello, Joseph C. Anderson, Carol A. Burke, Jason A. Dominitz, Seth Gross, Samir Gupta, Brian C. Jacobson, Swati G. Patel, Aasma Shaukat, Sapna Syngal, Douglas J. Robertson
 - **Year:** 2022
-- **Journal/Publisher:** *Gastroenterology* 162:2063–2085 — published **jointly** in *Gastroenterology*, *Gastrointestinal Endoscopy*, and *The American Journal of Gastroenterology*; © AGA, ASGE, and ACG. Citations from any of the three journals may be used.
+- **Journal/Publisher:** *Gastroenterology* 162:2063–2085 — published **jointly** in *Gastroenterology*, *Gastrointestinal Endoscopy*, and *The American Journal of Gastroenterology*; © American Gastroenterological Association (AGA), American Society for Gastrointestinal Endoscopy (ASGE), and American College of Gastroenterology (ACG). Citations from any of the three journals may be used.
 - **DOI:** [10.1053/j.gastro.2022.02.021](https://doi.org/10.1053/j.gastro.2022.02.021)
-- **Type:** guideline — USMSTF consensus statement / clinical practice guideline, **GRADE**-rated
+- **Type:** guideline — US Multi-Society Task Force (USMSTF) consensus statement / clinical practice guideline, **Grading of Recommendations Assessment, Development and Evaluation (GRADE)**-rated
 - **Evidence base:** PubMed search 2000–2018 with back searches. The authors state that the rarity of these syndromes and the **absence of controlled prospective trials** leave *all* interventional recommendations at **"low quality of evidence" at best**.
 
-**Recommendation format — read this before citing a "BPA number".** This document is **not** an AGA Clinical Practice Update and contains **no "Best Practice Advice" statements**. It issues **14 GRADE-rated Question/Recommendation pairs**, collected in the source's **Table 1 ("Questions and Recommendations of Best Practice")** and repeated as boxed statements in the body. **The source does not number them.** The labels **R1–R14** below are assigned here **in source reading order**, purely so other pages can cross-reference a specific statement — they are not the guideline's own numbering.
+**Recommendation format — read this before citing a "Best Practice Advice (BPA) number".** This document is **not** an AGA Clinical Practice Update and contains **no "Best Practice Advice" statements**. It issues **14 GRADE-rated Question/Recommendation pairs**, collected in the source's **Table 1 ("Questions and Recommendations of Best Practice")** and repeated as boxed statements in the body. **The source does not number them.** The labels **R1–R14** below are assigned here **in source reading order**, purely so other pages can cross-reference a specific statement — they are not the guideline's own numbering.
 
 ---
 
 ## Summary
 
-USMSTF consensus statement covering the four GI hamartomatous polyposis syndromes: **[[peutz-jeghers-syndrome|Peutz-Jeghers syndrome (PJS)]]** (*STK11*), **[[juvenile-polyposis-syndrome|juvenile polyposis syndrome (JPS)]]** (*SMAD4* or *BMPR1A*), the **[[cowden-syndrome|PTEN hamartoma tumor syndrome (PHTS)]]** (Cowden's syndrome and Bannayan-Riley-Ruvalcaba syndrome), and **[[hereditary-mixed-polyposis-syndrome|hereditary mixed polyposis syndrome (HMPS)]]** (*GREM1* duplication). Diagnosis rests on clinical criteria, confirmed in some cases by a germline pathogenic variant.
+USMSTF consensus statement covering the four gastrointestinal (GI) hamartomatous polyposis syndromes: **[[peutz-jeghers-syndrome|Peutz-Jeghers syndrome (PJS)]]** (*STK11*), **[[juvenile-polyposis-syndrome|juvenile polyposis syndrome (JPS)]]** (*SMAD4* or *BMPR1A*), the **[[cowden-syndrome|PTEN hamartoma tumor syndrome (PHTS)]]** (Cowden's syndrome [CS] and Bannayan-Riley-Ruvalcaba syndrome [BRRS]), and **[[hereditary-mixed-polyposis-syndrome|hereditary mixed polyposis syndrome (HMPS)]]** (*GREM1* duplication). Diagnosis rests on clinical criteria, confirmed in some cases by a germline pathogenic variant.
 
-The document's organising theme is that **management pivots as the patient ages**: in childhood the risks are mechanical and haemorrhagic (small-bowel obstruction/intussusception in PJS, GI bleeding and anaemia in JPS), while in adulthood the focus shifts almost entirely to **cancer risk** — and "almost all of the cancer risk lies" in adult life. Surveillance start ages, modalities, and intervals are therefore the operative output, tabulated against the ACG 2015, NCCN 2020, and ESPGHAN 2019 schedules in the source's Table 4.
+The document's organising theme is that **management pivots as the patient ages**: in childhood the risks are mechanical and haemorrhagic (small-bowel obstruction/intussusception in PJS, GI bleeding and anaemia in JPS), while in adulthood the focus shifts almost entirely to **cancer risk** — and "almost all of the cancer risk lies" in adult life. Surveillance start ages, modalities, and intervals are therefore the operative output, tabulated against the ACG 2015, National Comprehensive Cancer Network (NCCN) 2020, and European Society for Paediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN) 2019 schedules in the source's Table 4.
 
-Two positions distinguish this statement from its predecessors. First, **PHTS colonoscopy is deferred to age 35** with intervals of no more than 5 years, explicitly **reversing** [[acg-2015-hereditary-gi-cancer|ACG 2015]]'s age-15/2-year schedule on the basis of "recent evidence suggesting later onset of significant colon cancer risk." Second, **PJS pancreatic surveillance is annual from age 35** — earlier than the CAPS consortium's age 40, because pancreatic cancers have been reported in PJS before age 40.
+Two positions distinguish this statement from its predecessors. First, **PHTS colonoscopy is deferred to age 35** with intervals of no more than 5 years, explicitly **reversing** [[acg-2015-hereditary-gi-cancer|ACG 2015]]'s age-15/2-year schedule on the basis of "recent evidence suggesting later onset of significant colon cancer risk." Second, **PJS pancreatic surveillance is annual from age 35** — earlier than the Cancer of the Pancreas Screening (CAPS) consortium's age 40, because pancreatic cancers have been reported in PJS before age 40.
 
-The statement also declines to recommend in two places, which matters as much as what it does recommend: it **awaits definitive data before recommending fasting glucose and HbA1c** with pancreatic surveillance, and it **does not reproduce the clinical diagnostic criteria for Cowden's syndrome**, directing readers to the NCCN website instead.
+The statement also declines to recommend in two places, which matters as much as what it does recommend: it **awaits definitive data before recommending fasting glucose and glycated hemoglobin (HbA1c)** with pancreatic surveillance, and it **does not reproduce the clinical diagnostic criteria for Cowden's syndrome**, directing readers to the NCCN website instead.
 
 ---
 
@@ -101,7 +101,7 @@ All 14 statements below are reproduced **verbatim** from the source's Table 1, w
 > We suggest initiating colonoscopic and upper endoscopic surveillance at age 12–15 years, or earlier if symptomatic. Surveillance should be repeated every 1–3 years depending on polyp burden. **(Weak recommendation, low quality of evidence)**
 
 **R11 — Which patients with juvenile polyposis syndrome should undergo screening for hereditary hemorrhagic telangiectasia?**
-> We suggest patients with SMAD4 pathogenic variants be clinically evaluated for HHT at the time of the diagnosis, including screening for and appropriate management of cerebral and pulmonary AVMs. **(Weak recommendation, low quality of evidence)**
+> We suggest patients with SMAD4 pathogenic variants be clinically evaluated for HHT [hereditary hemorrhagic telangiectasia] at the time of the diagnosis, including screening for and appropriate management of cerebral and pulmonary AVMs [arteriovenous malformations]. **(Weak recommendation, low quality of evidence)**
 
 ### PTEN Hamartoma Tumor Syndrome
 
@@ -141,8 +141,8 @@ Reproduced from the source (p. 2072). Cells are **age of initiation — interval
 | [[colonoscopy\|Colonoscopy]] | 8, 18<sup>c</sup> y — q3 y | Late teens — q2–3 y | 8 y — q3 y | **8–10, 18<sup>c</sup> y — q2–3 y** | Very low |
 | [[upper-endoscopy\|Upper endoscopy]] | 8, 18<sup>c</sup> y — q3 y | Late teens — q2–3 y | 8 y — q3 y | **8–10, 18<sup>c</sup> y — q2–3 y** | Very low |
 | VCE ([[capsule-endoscopy\|video capsule endoscopy]]) | 8, 18<sup>c</sup> y — q3 y | ~8–10<sup>d</sup> y — q2–3 y | 8 y — q3 y | **8, 18<sup>c</sup> y — q2–3 y** | Low |
-| CT or MRE of small bowel | — | ~8–10<sup>d</sup> y — q2–3 y | — | — | — |
-| [[mri-mrcp\|MRI/MRCP]] or [[endoscopic-ultrasound\|EUS]] of pancreas | 30 y — q1–2 y | ~30–35<sup>e</sup> y — q1–2 y | — | **35 y — q1 y** | Low |
+| Computed tomography (CT) or magnetic resonance enterography (MRE) of small bowel | — | ~8–10<sup>d</sup> y — q2–3 y | — | — | — |
+| [[mri-mrcp\|Magnetic resonance imaging (MRI)/magnetic resonance cholangiopancreatography (MRCP)]] or [[endoscopic-ultrasound\|endoscopic ultrasound (EUS)]] of pancreas | 30 y — q1–2 y | ~30–35<sup>e</sup> y — q1–2 y | — | **35 y — q1 y** | Low |
 | MRI and/or mammogram | 25 y — q1 y | ~25 y — q1 y | — | — | — |
 | Physical examination | Birth to teenage — q1 y | ~10 y — q1 y | — | — | — |
 | Pelvic examination and Pap smear | 25<sup>f</sup> y — q1 y | ~18–20 y — q1 y | — | — | — |
@@ -154,10 +154,10 @@ Reproduced from the source (p. 2072). Cells are **age of initiation — interval
 |---|---|---|---|---|---|
 | [[colonoscopy\|Colonoscopy]] | 15 y — q2 y | 35 y — q5 y | — | **35 y — q5 y** | Low |
 | [[upper-endoscopy\|Upper endoscopy]] | 15 y — q2–3 y | — | — | — | — |
-| Thyroid examination and US | Adolescence — q1 y | 7 y — q1 y | — | — | — |
+| Thyroid examination and ultrasound | Adolescence — q1 y | 7 y — q1 y | — | — | — |
 | MRI and/or mammogram | 30–35 y — q1 y | 30–35 y — q1 y | — | — | — |
 | Endometrial sampling | 30–35 y — q1 y | — — q1–2 y | — | — | — |
-| Urinalysis or renal US | 18 y — q1 y | 40 y — q1–2 y | — | — | — |
+| Urinalysis or renal ultrasound | 18 y — q1 y | 40 y — q1–2 y | — | — | — |
 | Skin examination | ~18 y — q1 y | At diagnosis — q1 y | — | — | — |
 
 **Table 4 footnotes (verbatim):**
@@ -178,7 +178,7 @@ Reproduced from the source (p. 2072). Cells are **age of initiation — interval
 | Syndrome | "Commercially available gene testing" | Polyps | Clinical features |
 |---|---|---|---|
 | PJS | *STK11* | Peutz-Jeghers polyps (pathologically characteristic) | **Childhood:** labial pigmentation; GI bleeding and intussusception. **Adults:** increased risk for multiple cancers |
-| JPS | *SMAD4* or *BMPR1A* | Juvenile (inflammatory) polyps; juvenile polyps and inflammatory polyps are pathologically indistinct | **Childhood:** GI bleeding, auto-amputation of polyps; anemia. **Adults:** CRC and gastric cancer |
+| JPS | *SMAD4* or *BMPR1A* | Juvenile (inflammatory) polyps; juvenile polyps and inflammatory polyps are pathologically indistinct | **Childhood:** GI bleeding, auto-amputation of polyps; anemia. **Adults:** colorectal cancer (CRC) and gastric cancer |
 | CS | *PTEN* (inactivation); *WWP1* (gain-of-function) | Hyperplastic polyps; juvenile-like polyps; ganglioneuromas; lipomas; hamartomas; adenomas | **Childhood:** none. **Adults:** multiple cancer risks |
 | BRRS | *PTEN* | Same as for CS | Developmental delay, hemangiomas, lipomas, gastrointestinal polyps |
 | HMPS | *GREM1* (duplication upstream of promoter) | Pathologically mixed with features of adenoma, hyperplastic polyps, inflammatory polyps | Increased risk of colonic polyposis and CRC |
@@ -187,7 +187,7 @@ Reproduced from the source (p. 2072). Cells are **age of initiation — interval
 
 ## Table 3 — Risk of Cancer
 
-General-population risks are **SEER 1975–2017** lifetime risk of being diagnosed by site (2017) — note these differ slightly from the denominators used in [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 7.
+General-population risks are **Surveillance, Epidemiology, and End Results (SEER) 1975–2017** lifetime risk of being diagnosed by site (2017) — note these differ slightly from the denominators used in [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 7.
 
 | Site | General population risk (%) | Syndrome risk (%) | Mean age at diagnosis (y) |
 |---|---|---|---|
@@ -195,7 +195,7 @@ General-population risks are **SEER 1975–2017** lifetime risk of being diagnos
 | PJS — stomach | <1 | 29 | 30–40 |
 | PJS — small bowel | <1 | 13 | 37–42 |
 | PJS — breast | 12.9 | 32–54 | 37–59 |
-| PJS — ovarian (mostly SCTAT) | 1.2 | 21 | 28 |
+| PJS — ovarian (mostly sex cord tumors with annular tubules [SCTAT]) | 1.2 | 21 | 28 |
 | PJS — cervix (adenoma malignum) | <1 | 10–23 | 34–40 |
 | PJS — uterus | 3.1 | 9 | 43 |
 | PJS — [[pancreatic-cancer\|pancreas]] | 1.7 | 11–36 | 41–52 |
@@ -210,8 +210,6 @@ General-population risks are **SEER 1975–2017** lifetime risk of being diagnos
 | CS — colon | 4.3 | 9–18 | 35 |
 | CS — melanoma | 2.3 | 6 | 3 (youngest age of onset) |
 | **HMPS** — colon | 4.3 | Increased | — |
-
-SCTAT = sex cord tumors with annular tubules.
 
 ---
 
@@ -238,14 +236,14 @@ SCTAT = sex cord tumors with annular tubules.
 
 - **Polyp burden:** gastric, small-bowel, and colorectal polyposis in **88–100%**; majority small bowel (**60–90%**) and colon (**50–64%**). Number 1–100, size **0.1–3 cm**. Polyp growth begins by age 10 in **33%**; **68%** have symptoms (bleeding, pain, intussusception, obstruction) **by age 18**.
 - **Cumulative cancer incidence by decade, ages 20→70:** 2%, 5%, 17%, 31%, 60%, **85%**. Absolute risk of any cancer ages 15–64 ≈ **93%**; a systematic review of 20 cohorts (1644 patients) confirmed ≥1 cancer in **>90%** at mean age 42.
-- **Organ-specific RRs (meta-analysis of 210 cases):** small intestine RR 520 (95% CL 220–1306, CR 13%); stomach RR 213 (96–368, CR 29%); pancreas RR 132 (44–261, CR 36%); colon RR 84 (47–137, CR 39%); esophagus RR 57 (2.5–557, CR 0.5%); ovary RR 27 (7.3–68, CR 21%); lung RR 17.0 (5.4–39, CR 15%); uterus RR 16.0 (1.9–56, CR 9%); testes RR 4.5 (0.12–25, CR 9%); breast RR 15.2 (7.6–27, CR 54%). Mean age at cancer diagnosis **42.9 y**.
+- **Organ-specific relative risks (RRs) (meta-analysis of 210 cases):** small intestine RR 520 (95% confidence limits [CL] 220–1306, cumulative risk [CR] 13%); stomach RR 213 (96–368, CR 29%); pancreas RR 132 (44–261, CR 36%); colon RR 84 (47–137, CR 39%); esophagus RR 57 (2.5–557, CR 0.5%); ovary RR 27 (7.3–68, CR 21%); lung RR 17.0 (5.4–39, CR 15%); uterus RR 16.0 (1.9–56, CR 9%); testes RR 4.5 (0.12–25, CR 9%); breast RR 15.2 (7.6–27, CR 54%). Mean age at cancer diagnosis **42.9 y**.
 - **[[polypectomy|Polypectomy]] thresholds:** small-bowel polyps **symptomatic or ≥10 mm** (R6), preferably by [[device-assisted-enteroscopy|enteroscopy]]; **stomach and colorectum >0.5 cm**, attempting removal of all polyps if endoscopically feasible. Balloon enteroscopy and MRE have similar yield for lesions **≥15 mm**, but endoscopy permits removal.
 - **"Clean sweep":** clearing the small intestine at laparotomy by intraoperative endoscopy with polypectomy (or enterotomy for larger polyps) **appears to decrease the need for recurrent small-bowel surgery**.
 - **Pancreas (narrative, R7 is the graded statement):** CAPS consortium advises MRI/MRCP and/or EUS **every 1–2 years from age 40**; **NCCN advises initiation between ages 30 and 35**. USMSTF chose **annual from 35** because of reported pancreatic cancers in PJS **before age 40**. Ideally MRCP and EUS **alternate annually** — they are complementary. **The USMSTF explicitly awaits definitive data before making a recommendation on fasting glucose and HbA1c** at screening initiation (CAPS recommends them).
 - **Breast (narrative, other groups' schedule):** monthly self-examination from **18**; biannual clinical breast exam from **25**; annual breast MRI ages **25–29**; mammography ± tomosynthesis alternating **every 6 months** with contrast breast MRI ages **30–75**. Refer to a breast cancer specialist; multidisciplinary discussion including a breast surgeon when prophylactic mastectomy is considered.
 - **Gynaecologic (narrative):** **pelvic examination with Pap smear and transvaginal ultrasound annually starting at age 25**. Cervical cancers are disproportionately **adenoma malignum** — poorly diagnosed on Pap smear, so a high index of suspicion is required. Almost all ovarian tumours are **SCTAT**, rarely cystadenomas or granulosa cell tumours; SCTAT rarely metastasise to lymph nodes.
 - **Testicular (narrative):** Sertoli cell tumours, risk **9%**, mean age at diagnosis **9 y** (range 3–20). Annual history and physical (including self-examination) with observation for feminizing changes, **starting from birth**; **ultrasound of the testicles every 2 years from birth to age 12 has been suggested**.
-- **Lung (narrative):** cumulative risk **>5% by age 55**; RR vs nonsmokers comparable to a **>30 pack-year** smoker who quit 10–15 years ago (HR 14.8) — **never adjusted for smoking status**. No data show benefit of lung surveillance in PJS; **annual low-dose CT may be considered**; smoking-cessation counselling advisable.
+- **Lung (narrative):** cumulative risk **>5% by age 55**; RR vs nonsmokers comparable to a **>30 pack-year** smoker who quit 10–15 years ago (hazard ratio [HR] 14.8) — **never adjusted for smoking status**. No data show benefit of lung surveillance in PJS; **annual low-dose CT may be considered**; smoking-cessation counselling advisable.
 - **Chemoprevention:** an **everolimus** trial was **stopped prematurely for poor accrual** (2 patients enrolled). In a murine model, **celecoxib** produced a **>50% reduction in polyp burden**; in patients with diffuse gastric polyposis, **2 of 6** had significant reduction after **celecoxib 200 mg twice daily for 6 months**.
 
 ### JPS — supporting data and narrative guidance
@@ -255,7 +253,7 @@ SCTAT = sex cord tumors with annular tubules.
 - **CRC:** RR **34** (95% CL 14.4–65.7), cumulative lifetime **38.7%**, mean age **43.9 y**. **Gastric cancer** in patients with gastric polyposis (usually *SMAD4*): lifetime risk **at least 30%**, median age **58 y** — **not reported with *BMPR1A***. Overall GI cancer risk estimates range **11%–55%**; combined colon + stomach **39%–68%**. **Excess risk of non-GI cancer is not reported in JPS.**
 - **Polyp removal:** at colonoscopy and upper endoscopy, remove all polyps when feasible or **at least all polyps ≥5 mm**.
 - **Upper-GI surveillance is genotype-gated:** asymptomatic *SMAD4* carriers — assess the upper tract **between ages 12 and 15**; paediatric patients **without** *SMAD4* — **gastroscopy is not indicated unless symptomatic**; *BMPR1A* — gastric cancer association **uncertain**, so surveil at intervals **similar to *SMAD4* carriers pending new evidence**; **any** patient with upper-GI symptoms or anaemia not explained by colonic polyps — evaluate with upper endoscopy.
-- **Annual history, physical, and CBC from age 12–15 in *SMAD4* carriers**, for bleeding/anaemia from intestinal telangiectasias.
+- **Annual history, physical, and complete blood count (CBC) from age 12–15 in *SMAD4* carriers**, for bleeding/anaemia from intestinal telangiectasias.
 - **Colectomy + ileorectal anastomosis** for CRC, endoscopically unmanageable colon polyp burden, or uncontrolled anaemia from colonic bleeding; also reserved for **persistent blood loss causing severe anaemia or hypoalbuminemia**. **Proctocolectomy** for rectal cancer or advanced rectal polyp burden. The decision **should be reviewed with gastroenterologists and surgeons with expertise in hereditary polyposis**.
 - **Gastrectomy (partial or complete)** in adults for: [[gastric-adenocarcinoma|gastric cancer]], high-grade dysplasia, inability to adequately survey or endoscopically control polyposis, persistent anaemia or GI bleeding from gastric polyposis or [[angioectasia]], symptoms of [[gastric-outlet-obstruction|gastric outlet obstruction]], or protein-losing gastropathy.
 - **[[hereditary-hemorrhagic-telangiectasia|JPS–HHT overlap]]:** HHT occurs in ~**15%–81%** of *SMAD4* carriers. Per HHT Foundation International — brain AVM screening at diagnosis with **at least 1 follow-up MRI at puberty**; lung AVM screening at diagnosis then **every 3–5 years** with pulse oximetry ± transthoracic contrast echocardiogram; in adulthood **annual haemoglobin or haematocrit for all patients older than 35**; transthoracic contrast echo at diagnosis, **within 5 years preceding planned pregnancy**, after pregnancy, and otherwise **every 5–10 years**; **brain MRI with and without contrast at birth or at the time of diagnosis**. Consider referral to an HHT Center of Excellence.
@@ -265,9 +263,9 @@ SCTAT = sex cord tumors with annular tubules.
 ### PHTS — supporting data and narrative guidance
 
 - **The clinical criteria for the diagnosis of CS are *not reproduced* in this document** — the task force states they are "complex, and can be found at the National Comprehensive Cancer Network website." The **genetic** diagnosis requires a germline pathogenic *PTEN* variant.
-- **International Cowden Consortium (368 carriers)** SIRs and cumulative lifetime risks — breast SIR 25.4 (95% CL 19.8–32.0) / **85.2%** (71.4–99.1); thyroid 51.1 (38.1–67.1) / **35.2%** (19.7–50.7); endometrium 42.9 (28.1–62.8) / **28.2%** (17.1–39.3); kidney 30.6 (17.8–49.4) / **33.6%** (10.4–56.9); colorectum 10.3 (5.6–17.4) / **9.0%** (3.8–14.1); melanoma 8.5 (4.1–15.6) / **6%** (1.6–9.4).
+- **International Cowden Consortium (ICC) (368 carriers)** standardized incidence ratios (SIRs) and cumulative lifetime risks — breast SIR 25.4 (95% CL 19.8–32.0) / **85.2%** (71.4–99.1); thyroid 51.1 (38.1–67.1) / **35.2%** (19.7–50.7); endometrium 42.9 (28.1–62.8) / **28.2%** (17.1–39.3); kidney 30.6 (17.8–49.4) / **33.6%** (10.4–56.9); colorectum 10.3 (5.6–17.4) / **9.0%** (3.8–14.1); melanoma 8.5 (4.1–15.6) / **6%** (1.6–9.4).
 - **French multicentre series (154 carriers):** cumulative risk by age 70 — **85% any cancer**, 77% female breast, 38% thyroid; median age at first cancer **36 y**. **Mayo Clinic series (211 patients):** **16%** lifetime CRC risk; any cancer by 70 **89%**.
-- **"Relaxed" ICC series (2548 patients, 127 *PTEN*-positive):** **13%** of those who underwent colonoscopy developed CRC (7.1% of the whole series), **all before age 50**, youngest **35**; CRC SIR **224.1** (95% CI 109.3–411.3).
+- **"Relaxed" ICC series (2548 patients, 127 *PTEN*-positive):** **13%** of those who underwent colonoscopy developed CRC (7.1% of the whole series), **all before age 50**, youngest **35**; CRC SIR **224.1** (95% confidence interval [CI] 109.3–411.3).
 - **9-country series (180 carriers):** cumulative risk of any cancer or Lhermitte-Duclos disease by age 60 — **56% men, 87% women**. Earlier report (156 patients): benign GI polyps in **31%** at mean age 38; cumulative risk of polyps **70% by age 60**; cumulative CRC risk **18% by age 60**, occurring ages 53–62 — "suggesting that surveillance colonoscopy might not be necessary in early adult life."
 - **GI polyps** in **35%–93%**; in one prospective endoscopic subset **64/69 (93%)** had polyps, half hyperplastic, distributed throughout the gut, number 1 to "innumerable." **Esophageal glycogenic acanthosis** is benign — **no reported increased [[esophageal-cancer|esophageal cancer]] risk**.
 - **Assessment at diagnosis** should include a complete (especially **dermatologic and neurologic**) clinical examination, **mammography and breast MRI, thyroid ultrasound, transvaginal ultrasound, upper GI endoscopy, colonoscopy, and renal ultrasound**.
@@ -279,7 +277,7 @@ SCTAT = sex cord tumors with annular tubules.
 ### HMPS — supporting data and narrative guidance
 
 - Rare autosomal dominant disease reported in only a few families; **attenuated colonic polyposis** with adenomas, hyperplastic polyps, and a polyp of admixed histology (adenomatous, hyperplastic, juvenile, mixed).
-- Associated with **large duplications of the promoter region or the entire *GREM1* gene**, increasing gene product expression, which inhibits the **BMP pathway**. The promoter duplication was found in **0.7% of Ashkenazi Jews in Israel** who met clinical criteria for [[lynch-syndrome|Lynch syndrome]].
+- Associated with **large duplications of the promoter region or the entire *GREM1* gene**, increasing gene product expression, which inhibits the **bone morphogenetic protein (BMP) pathway**. The promoter duplication was found in **0.7% of Ashkenazi Jews in Israel** who met clinical criteria for [[lynch-syndrome|Lynch syndrome]].
 - Largest series: 4 families, 16 affected members; **onset of polyposis starts in the late 20s, which is when colonoscopic surveillance should begin**. **There are not enough data to know the optimal surveillance intervals** or whether extraintestinal neoplasia is a risk. The genetic basis of most HMPS families is unknown.
 
 ---
@@ -291,7 +289,7 @@ Wiki pages built on or citing this source:
 - [[peutz-jeghers-syndrome|Peutz-Jeghers Syndrome]] — R2–R7 supply the diagnosis trigger, the small-bowel/luminal surveillance schedule, the ≥10 mm polypectomy threshold, and annual pancreatic surveillance from 35.
 - [[juvenile-polyposis-syndrome|Juvenile Polyposis Syndrome]] — R8–R11 supply the genetic-evaluation thresholds, the age 12–15 / q1–3 y luminal schedule, the genotype-gated upper-GI rules, and the *SMAD4*→HHT trigger.
 - [[cowden-syndrome|Cowden Syndrome (PTEN Hamartoma Tumor Syndrome)]] — R12–R14 supply the GI referral trigger and the age-35 / q≤5 y colonoscopy schedule that supersedes ACG 2015; Table 4 supplies the ACG/NCCN comparison columns.
-- [[hereditary-hemorrhagic-telangiectasia|Hereditary Hemorrhagic Telangiectasia (HHT)]] — the JPS-overlap screening program.
+- [[hereditary-hemorrhagic-telangiectasia|Hereditary Hemorrhagic Telangiectasia]] — the JPS-overlap screening program.
 - [[hereditary-mixed-polyposis-syndrome|Hereditary Mixed Polyposis Syndrome]] — *GREM1*, the Ashkenazi 0.7% figure, and the "begin colonoscopy in the late 20s, interval unknown" position.
 
 ---

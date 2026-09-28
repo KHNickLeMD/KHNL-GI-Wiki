@@ -7,7 +7,7 @@ updated: 2026-09-08
 sources: [acg-2020-sibo, aga-2020-sibo]
 ---
 
-Excess methane-producing organisms in the intestinal tract, distinguished from classical hydrogen-predominant [[small-intestinal-bacterial-overgrowth|SIBO]]. "IMO" is the term proposed by [[acg-2020-sibo]] because the responsible organisms are **archaea, not bacteria** — the "B" in SIBO is technically incorrect, and methane may arise **throughout** the intestinal tract rather than only the small bowel.
+Excess methane-producing organisms in the intestinal tract, distinguished from classical hydrogen-predominant [[small-intestinal-bacterial-overgrowth|small intestinal bacterial overgrowth (SIBO)]]. Intestinal methanogen overgrowth (IMO) is the term proposed by [[acg-2020-sibo]] because the responsible organisms are **archaea, not bacteria** — the "B" in SIBO is technically incorrect, and methane may arise **throughout** the intestinal tract rather than only the small bowel.
 
 **Mechanism:** *Methanobrevibacter smithii* is the key methanogen (Key Concept 8); it consumes hydrogen to make methane (4H₂ → 1CH₄). Methane infusion into the small intestine slows transit in a canine model, and in vitro methane augments contractility and delays ileal peristaltic conduction velocity via cholinergic neurons — a direct causal link between methanogen overgrowth and [[chronic-idiopathic-constipation|constipation]].
 
@@ -27,13 +27,13 @@ Excess methane-producing organisms in the intestinal tract, distinguished from c
 
 - **Positive methane breath test:** CH₄ **≥10 ppm at any point during the test** on a glucose or lactulose breath test (North American Consensus threshold) **plus** symptoms — a positive test alone is not the diagnosis.
   - **Note the difference from hydrogen:** methane is an **absolute concentration** at any point; hydrogen requires a **rise ≥20 ppm above baseline within 90 minutes**. Do not apply the "rise above baseline" logic to methane.
-  - **Open question raised by ACG:** "some experts recommend a **rise** of 10 ppm in methane levels, and this requires confirmation" — the absolute ≥10 ppm North American Consensus threshold is what the guideline uses, but it is not settled.
+  - **Open question raised by the American College of Gastroenterology (ACG):** "some experts recommend a **rise** of 10 ppm in methane levels, and this requires confirmation" — the absolute ≥10 ppm North American Consensus threshold is what the guideline uses, but it is not settled.
 - Excess methane on breath testing does **not** indicate SIBO (Key Concept 7) — methanogens are archaea, not bacteria, so the two overgrowths are reported and treated separately.
 
 ### Severity Assessment
 
 - No graded severity system. Breath **methane level is proportional to constipation severity**, and constipation is associated with both elevated breath methane and stool *M. smithii* (Key Concept 9).
-- IMO is strongly associated with [[chronic-idiopathic-constipation|constipation]] — **OR 3.51 (95% CI 2.00–6.16)** across multiple studies and 1 meta-analysis.
+- IMO is strongly associated with [[chronic-idiopathic-constipation|constipation]] — **odds ratio (OR) 3.51 (95% confidence interval [CI] 2.00–6.16)** across multiple studies and 1 meta-analysis.
 
 ## Differential Diagnosis
 
@@ -41,7 +41,7 @@ Excess methane-producing organisms in the intestinal tract, distinguished from c
 
 - [[small-intestinal-bacterial-overgrowth|SIBO]] (hydrogen-predominant) — rise in H₂ **≥20 ppm above baseline by 90 minutes**; may coexist.
 - Hydrogen sulfide (H₂S)–predominant overgrowth — recognized by the guideline but not measurable on standard 2-gas breath testing.
-- [[chronic-idiopathic-constipation|Chronic idiopathic constipation]] and constipation-predominant [[irritable-bowel-syndrome|IBS]] without methanogen overgrowth.
+- [[chronic-idiopathic-constipation|Chronic idiopathic constipation]] and constipation-predominant [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]] without methanogen overgrowth.
 
 ## Diagnostics
 
@@ -71,7 +71,7 @@ Two studies of antibiotic therapy, both defining positivity as methane **≥3 pp
 
 | Element | ACG proposed criterion |
 |---|---|
-| Enrollment | **CH₄ ≥10 ppm at any point during the first 90 minutes** of the breath test **AND** constipation (**<3 CSBM/week**) |
+| Enrollment | **CH₄ ≥10 ppm at any point during the first 90 minutes** of the breath test **AND** constipation (**<3 complete spontaneous bowel movements [CSBM]/week**) |
 | Primary response | Increase in **CSBM/week by >1** **AND** normalization of CH₄ (**no CH₄ ≥10 ppm within 90 min**) |
 | Key secondary | Improvement in bloating by **>50%** (frequency or severity) |
 

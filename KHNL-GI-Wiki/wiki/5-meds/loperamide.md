@@ -15,12 +15,12 @@ Peripheral μ-opioid receptor agonist; antimotility agent. First-line antimotili
 
 - **Standard:** 4 mg first dose, then **2 mg after each loose stool** ([[acg-2016-acute-diarrhea]]).
 - **Ceiling depends on context — do not drop the qualifier:**
-  - **Loperamide alone (ACG's general adult recommendation):** not to exceed **8 mg/day**, and **not given for more than 48 h** ([[acg-2016-acute-diarrhea]]).
+  - **Loperamide alone (American College of Gastroenterology's [ACG's] general adult recommendation):** not to exceed **8 mg/day**, and **not given for more than 48 h** ([[acg-2016-acute-diarrhea]]).
   - **Combined with antibiotics for traveler's diarrhea:** not to exceed **16 mg per 24 h** (ACG Table 4 footnote).
 - **Mild watery diarrhea:** hydration only; may use loperamide 4 mg initially to control stooling.
 - **Moderate-to-severe watery, non-travel-associated, no/low-grade fever (≤100°F):** consider ≤48 h of loperamide.
 
-> **The acute-diarrhea regimen above does not transfer to [[irritable-bowel-syndrome|IBS-D]].** [[aga-2022-ibs-d]] states plainly that "the optimal dose and method of using loperamide (eg, as needed, daily, or after a certain number of diarrheal stools) **is not known** and potentially can vary between patients based on their symptom patterns." Its recommendation rests on **2 small placebo-controlled trials, both published 1987**, neither of which defined IBS diagnostic criteria — hence *very low* certainty. Improvements appeared within **3–5 weeks**, though how that was determined was poorly described. AGA also leaves open **whether loperamide should be used in IBS-mixed type** during diarrheal episodes. Titrate to symptoms; there is no guideline-specified IBS-D dose.
+> **The acute-diarrhea regimen above does not transfer to [[irritable-bowel-syndrome|diarrhea-predominant irritable bowel syndrome (IBS-D)]].** [[aga-2022-ibs-d]] states plainly that "the optimal dose and method of using loperamide (eg, as needed, daily, or after a certain number of diarrheal stools) **is not known** and potentially can vary between patients based on their symptom patterns." Its recommendation rests on **2 small placebo-controlled trials, both published 1987**, neither of which defined IBS diagnostic criteria — hence *very low* certainty. Improvements appeared within **3–5 weeks**, though how that was determined was poorly described. The American Gastroenterological Association (AGA) also leaves open **whether loperamide should be used in IBS-mixed type** during diarrheal episodes. Titrate to symptoms; there is no guideline-specified IBS-D dose.
 
 ## Indications
 
@@ -28,10 +28,10 @@ Peripheral μ-opioid receptor agonist; antimotility agent. First-line antimotili
 |---|---|---|---|
 | Traveler's diarrhea, **adjunct to antibiotics** | Administer — decreases duration, increases cure rate | Strong / Moderate | [[acg-2016-acute-diarrhea]] (Rec 8) |
 | Acute watery diarrhea, immunocompetent **adults** | May be given | Weak / Moderate | [[idsa-2017-infectious-diarrhea]] (Rec 47) |
-| [[fecal-incontinence]] — **only when FI is accompanied by diarrhea** (⚠ **off-label**: loperamide is approved for diarrhea, not for FI; ACG recommends the class for the diarrhea component) | Antidiarrheals recommended (loperamide, diphenoxylate-atropine, bile-salt binders, anticholinergics, clonidine) — the qualifier is the indication; FI without diarrhea is not this recommendation | Strong / Low (Rec 1) | [[acg-2021-anorectal-disorders]] |
+| [[fecal-incontinence\|Fecal incontinence (FI)]] — **only when FI is accompanied by diarrhea** (⚠ **off-label**: loperamide is approved for diarrhea, not for FI; ACG recommends the class for the diarrhea component) | Antidiarrheals recommended (loperamide, diphenoxylate-atropine, bile-salt binders, anticholinergics, clonidine) — the qualifier is the indication; FI without diarrhea is not this recommendation | Strong / Low (Rec 1) | [[acg-2021-anorectal-disorders]] |
 | [[irritable-bowel-syndrome\|IBS]]-D | Suggested for diarrhea control — improves abdominal pain and stool consistency, but **no benefit on global symptoms or urgency** | Conditional / **very low** | [[aga-2022-ibs-d]] (Rec 4) |
-| [[clostridioides-difficile\|C. difficile]] in [[inflammatory-bowel-disease\|IBD]] | May consider **only** when inflammation and infection are improving but diarrhea persists | Expert review | [[aga-2026-cdiff-ibd]] |
-| [[clostridioides-difficile\|C. difficile]], general adults | **Not suggested.** If used at all: only **after anti-CDI therapy has started**, and for the **shortest duration** needed for symptom control | Expert review (BPA 5) | [[aga-2026-cdiff-adults]] |
+| [[clostridioides-difficile\|C. difficile]] in [[inflammatory-bowel-disease\|inflammatory bowel disease (IBD)]] | May consider **only** when inflammation and infection are improving but diarrhea persists | Expert review | [[aga-2026-cdiff-ibd]] |
+| [[clostridioides-difficile\|C. difficile]], general adults | **Not suggested.** If used at all: only **after anti-C. difficile infection (CDI) therapy has started**, and for the **shortest duration** needed for symptom control | Expert review (Best Practice Advice [BPA] 5) | [[aga-2026-cdiff-adults]] |
 
 ## Adverse Effects
 

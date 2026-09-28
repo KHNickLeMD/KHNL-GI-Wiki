@@ -18,7 +18,7 @@ sources: []
 
 ## Summary
 
-ASGE guideline on EUS-guided FNA for evaluating mediastinal lymphadenopathy, chiefly in the context of non-small-cell lung cancer (NSCLC) staging and undiagnosed mediastinal nodes. The **linear EUS scope** accesses posterior and inferior mediastinal stations (paraesophageal, subcarinal, aortopulmonary window [#5], para-aortic [#6]); anterior/upper mediastinal and paratracheal nodes are inaccessible to EUS because tracheal air blocks the ultrasound window — those are the domain of **EBUS-FNA**. EUS-FNA and EBUS-FNA are complementary; combined, their negative predictive value approaches mediastinoscopy, though expertise in both is not widely available and each alone has a high false-negative rate warranting surgical confirmation before denying resection.
+American Society for Gastrointestinal Endoscopy (ASGE) guideline on endoscopic ultrasound (EUS)-guided fine-needle aspiration (FNA) for evaluating mediastinal lymphadenopathy, chiefly in the context of non-small-cell lung cancer (NSCLC) staging and undiagnosed mediastinal nodes. The **linear EUS scope** accesses posterior and inferior mediastinal stations (paraesophageal, subcarinal, aortopulmonary window [#5], para-aortic [#6]); anterior/upper mediastinal and paratracheal nodes are inaccessible to EUS because tracheal air blocks the ultrasound window — those are the domain of **endobronchial ultrasound (EBUS)-FNA**. EUS-FNA and EBUS-FNA are complementary; combined, their negative predictive value (NPV) approaches mediastinoscopy, though expertise in both is not widely available and each alone has a high false-negative rate warranting surgical confirmation before denying resection.
 
 ## Key Findings / Claims
 

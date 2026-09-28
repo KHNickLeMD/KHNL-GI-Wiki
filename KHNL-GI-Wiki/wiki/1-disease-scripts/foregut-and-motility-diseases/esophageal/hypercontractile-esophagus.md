@@ -7,7 +7,7 @@ updated: 2026-09-05
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia, aga-2024-poem-advances, padova-2025-hrm-antireflux]
 ---
 
-*Classified under [[chicago-classification-v4|Chicago Classification v4.0]]. Related: [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]].*
+*Classified under [[chicago-classification-v4|Chicago Classification v4.0 (CCv4.0)]]. Related: [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]].*
 
 ## Contents
 - [[#Assessment]]
@@ -23,18 +23,18 @@ sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-
 
 ### Establishing the Diagnosis
 
-Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classification v4.0** on [[high-resolution-manometry]]:
+Hypercontractile esophagus (jackhammer esophagus) is defined by **CCv4.0** on [[high-resolution-manometry|high-resolution manometry (HRM)]]:
 
-**Bar 1 — conclusive *manometric* diagnosis** (Very Low GRADE, conditional):
+**Bar 1 — conclusive *manometric* diagnosis** (Grading of Recommendations Assessment, Development and Evaluation [GRADE]: Very Low, conditional):
 
-- Normal median IRP (if IRP elevated → concern for [[achalasia]] spectrum / [[esophagogastric-junction-outflow-obstruction|EGJOO]] with hypercontractile features; investigate with TBE/[[flip-panometry|FLIP]])
-- **≥20% hypercontractile *supine* swallows** — the supine qualifier is part of the criterion; hypercontractile = DCI **>8,000 mmHg·s·cm** (a threshold CCv4.0 states is suitable across HRM systems, unlike IRP)
-- Sustained EGJ contractions (SOCs) / excessive LES after-contraction may occur
+- Normal median integrated relaxation pressure (IRP) (if IRP elevated → concern for [[achalasia]] spectrum / [[esophagogastric-junction-outflow-obstruction|esophagogastric junction outflow obstruction (EGJOO)]] with hypercontractile features; investigate with timed barium esophagram (TBE)/[[flip-panometry|functional lumen imaging probe (FLIP)]])
+- **≥20% hypercontractile *supine* swallows** — the supine qualifier is part of the criterion; hypercontractile = distal contractile integral (DCI) **>8,000 mmHg·s·cm** (a threshold CCv4.0 states is suitable across HRM systems, unlike IRP)
+- Sustained esophagogastric junction (EGJ) contractions (SOCs) / excessive lower esophageal sphincter (LES) after-contraction may occur
 
 **Exclusions that gate the label** (Very Low GRADE, **strong**) — hypercontractile esophagus can be diagnosed **only** when:
 
 - Criteria for [[achalasia]] are **not** met, **and**
-- Criteria for [[distal-esophageal-spasm|DES]] are **not** met, **and**
+- Criteria for [[distal-esophageal-spasm|distal esophageal spasm (DES)]] are **not** met, **and**
 - **Mechanical obstruction has been carefully ruled out** — obstruction at the EGJ or distal esophagus can itself *induce* a hypercontractile response
 
 **Bar 2 — clinically relevant diagnosis** (Very Low GRADE, **strong**): requires the conclusive manometric diagnosis **plus clinically relevant symptoms**, which CCv4.0 defines as **dysphagia and non-cardiac chest pain**. A hypercontractile pattern without them is a clinically irrelevant manometric observation — the same caveat CCv4.0 applies to DES and EGJOO.
@@ -76,9 +76,9 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classi
 
 - **Be conservative — CCv4.0 explicitly cautions against treating contractile vigor as an endpoint** and advocates conservative medical therapy before any endoscopic or surgical intervention
 - Exclude EGJ obstruction and [[achalasia]] spectrum before treating (elevated IRP → investigate with TBE/FLIP)
-- Treat co-existent [[gerd|GERD]]; hypercontractile esophagus is **not** an absolute contraindication to [[antireflux-surgery|anti-reflux surgery (ARS)]] when the patient has objective GERD and partial [[proton-pump-inhibitors|PPI]] response — evaluate carefully pre-operatively ([[padova-2025-hrm-antireflux|Padova consensus]] — see [[hrm-antireflux-surgery]])
-- [[poem|POEM]] considered for refractory dysphagia-predominant disease ([[acg-2020-achalasia]] frames longer myotomy for spastic disease)
-- **AGA 2024 CPU caveat:** for **nonachalasia** spastic disorders, POEM evidence is limited — reserve for **case-by-case** use after less invasive options (medical therapy, botulinum toxin, endoscopic dilation) are exhausted, with symptoms correlated to manometry ([[aga-2024-poem-advances|AGA 2024]] BPA 3)
+- Treat co-existent [[gerd|gastroesophageal reflux disease (GERD)]]; hypercontractile esophagus is **not** an absolute contraindication to [[antireflux-surgery|anti-reflux surgery (ARS)]] when the patient has objective GERD and partial [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] response — evaluate carefully pre-operatively ([[padova-2025-hrm-antireflux|Padova consensus]] — see [[hrm-antireflux-surgery]])
+- [[poem|per-oral endoscopic myotomy (POEM)]] considered for refractory dysphagia-predominant disease ([[acg-2020-achalasia]] frames longer myotomy for spastic disease)
+- **American Gastroenterological Association (AGA) 2024 Clinical Practice Update (CPU) caveat:** for **nonachalasia** spastic disorders, POEM evidence is limited — reserve for **case-by-case** use after less invasive options (medical therapy, botulinum toxin, endoscopic dilation) are exhausted, with symptoms correlated to manometry ([[aga-2024-poem-advances|AGA 2024]] Best Practice Advice (BPA) 3)
 
 *Medical management specific to hypercontractile esophagus (smooth-muscle relaxants, neuromodulators) is not covered by the cited guidelines.*
 

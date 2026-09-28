@@ -7,12 +7,12 @@ updated: 2026-09-22
 sources: [aasld-2023-portal-hypertension, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension]
 ---
 
-The drug class that lowers portal pressure in [[cirrhosis]]. Two groups, and the distinction drives every recommendation below:
+Nonselective beta-blockers (NSBBs) are the drug class that lowers portal pressure in [[cirrhosis]]. Two groups, and the distinction drives every recommendation below:
 
 - **Conventional NSBB (cNSBB)** — **propranolol**, **nadolol**. β-1 + β-2 blockade only.
-- **Carvedilol** — NSBB **plus** anti-α-1-adrenergic activity. The preferred agent ([[aasld-2023-portal-hypertension]] GS 1; [[baveno-viii-2026-portal-hypertension]] 3.15, 4.4, 4.8).
+- **Carvedilol** — NSBB **plus** anti-α-1-adrenergic activity. The preferred agent ([[aasld-2023-portal-hypertension]] Guidance Statement (GS) 1; [[baveno-viii-2026-portal-hypertension]] 3.15, 4.4, 4.8).
 
-The modern indication is **not "you have varices"** — it is **CSPH**, and the goal is **preventing decompensation**, not only preventing a bleed.
+The modern indication is **not "you have varices"** — it is **clinically significant portal hypertension (CSPH)**, and the goal is **preventing decompensation**, not only preventing a bleed.
 
 ## Contents
 - [[#Mechanism]]
@@ -42,7 +42,7 @@ The modern indication is **not "you have varices"** — it is **CSPH**, and the 
 | Nadolol | As above |
 | Carvedilol | The above **plus** ↓ intrahepatic vascular resistance via anti-α-1-adrenergic activity and nitric oxide release |
 
-The extra α-1 blockade is why carvedilol produces a **markedly greater [[hepatic-venous-pressure-gradient\|HVPG]] reduction** — and also why it drops arterial pressure more, which is the whole of its tolerability problem.
+The extra α-1 blockade is why carvedilol produces a **markedly greater [[hepatic-venous-pressure-gradient\|hepatic venous pressure gradient (HVPG)]] reduction** — and also why it drops arterial pressure more, which is the whole of its tolerability problem.
 
 ---
 
@@ -57,13 +57,13 @@ The extra α-1 blockade is why carvedilol produces a **markedly greater [[hepati
 | Route | Criterion | Source |
 |---|---|---|
 | Clinical/endoscopic | Clinical decompensation, **gastro-oesophageal varices at endoscopy**, or portosystemic collaterals / hepatofugal flow on imaging | [[aasld-2023-portal-hypertension]] GS 6 |
-| Predictive model | **ANTICIPATE** (or **ANTICIPATE-NASH** if MASLD + BMI ≥30 kg/m²) or **NICER** estimated CSPH probability **≥75%** | [[baveno-viii-2026-portal-hypertension]] 1.16a |
-| [[liver-stiffness-measurement\|Liver stiffness]] | **LSM ≥25 kPa** — in virus- and/or alcohol-related cACLD and **non-obese (BMI <30 kg/m²)** MASLD-related cACLD | [[baveno-viii-2026-portal-hypertension]] 1.16b |
-| Spleen stiffness | **SSM (100 Hz probe) >55 kPa** — aetiology-agnostic | [[baveno-viii-2026-portal-hypertension]] 1.16c |
+| Predictive model | **ANTICIPATE** (or **ANTICIPATE-NASH** if metabolic dysfunction-associated steatotic liver disease (MASLD) + body mass index (BMI) ≥30 kg/m²) or **NICER** estimated CSPH probability **≥75%** | [[baveno-viii-2026-portal-hypertension]] 1.16a |
+| [[liver-stiffness-measurement\|Liver stiffness]] | **Liver stiffness measurement (LSM) ≥25 kPa** — in virus- and/or alcohol-related compensated advanced chronic liver disease (cACLD) and **non-obese (BMI <30 kg/m²)** MASLD-related cACLD | [[baveno-viii-2026-portal-hypertension]] 1.16b |
+| Spleen stiffness | **Spleen stiffness measurement (SSM; 100 Hz probe) >55 kPa** — aetiology-agnostic | [[baveno-viii-2026-portal-hypertension]] 1.16c |
 
 **Rule-out (no NSBB for decompensation prevention):** **LSM ≤15 kPa *and* platelets ≥150 ×10⁹/L** — negative predictive value >90% ([[baveno-viii-2026-portal-hypertension]] 1.15). Both criteria are required; either alone does not rule out CSPH.
 
-**In between (indeterminate), re-evaluate at 12 months** rather than treating ([[baveno-viii-2026-portal-hypertension]] 1.17). NITs for CSPH should be repeated every 12 months, and **the most recent value guides the decision** (1.9, 1.10).
+**In between (indeterminate), re-evaluate at 12 months** rather than treating ([[baveno-viii-2026-portal-hypertension]] 1.17). Noninvasive tests (NITs) for CSPH should be repeated every 12 months, and **the most recent value guides the decision** (1.9, 1.10).
 
 > **The two guidelines disagree on the intermediate LSM + platelet bands.** [[aasld-2023-portal-hypertension]] GS 7 diagnoses CSPH at **LSM 20–24.9 kPa with platelets <150 K/mm³** or **LSM 15–19.9 kPa with platelets <110 K/mm³** (the Baveno VII ANTICIPATE ≥60% bands). [[baveno-viii-2026-portal-hypertension]] 1.16 no longer accepts those combinations as diagnostic — it requires an ANTICIPATE/NICER probability **≥75%**, LSM ≥25 kPa, or SSM >55 kPa. Baveno VIII is the newer document and governs: a patient at LSM 22 kPa with platelets 130 K/mm³ is **not** automatically CSPH-positive; run ANTICIPATE or SSM.
 
@@ -76,16 +76,16 @@ The extra α-1 blockade is why carvedilol produces a **markedly greater [[hepati
 | Compensated cirrhosis / cACLD **with CSPH** | NSBB, **preferably carvedilol 12.5 mg/day**, to prevent decompensation and improve survival | [[aasld-2023-portal-hypertension]] GS 12; [[baveno-viii-2026-portal-hypertension]] 3.15 |
 | On NSBB for decompensation prevention | **No screening endoscopy needed** — the result would not change management | [[aasld-2023-portal-hypertension]] GS 14; [[baveno-viii-2026-portal-hypertension]] 3.18 |
 | Compensated, **any size varices** found because NSBB was not started | Varices of any size should prompt initiation of NSBB | [[aasld-2023-portal-hypertension]] GS 15 |
-| **Gastric varices** (GOV2/IGV1) in compensated disease | Gastric varices *mean* CSPH → NSBB, particularly carvedilol, to prevent decompensation | [[baveno-viii-2026-portal-hypertension]] 3.21a; [[aasld-2023-portal-hypertension]] GS 40 |
-| **[[ascites]] + varices** (decompensated) | **Carvedilol/cNSBB, carvedilol preferred** — to prevent first bleeding and to lower ascites-related complications. **Variceal size, red signs and CTP class no longer stratify this decision.** | [[baveno-viii-2026-portal-hypertension]] 4.4 |
+| **Gastric varices** (gastroesophageal varices type 2 [GOV2]/isolated gastric varices type 1 [IGV1]) in compensated disease | Gastric varices *mean* CSPH → NSBB, particularly carvedilol, to prevent decompensation | [[baveno-viii-2026-portal-hypertension]] 3.21a; [[aasld-2023-portal-hypertension]] GS 40 |
+| **[[ascites]] + varices** (decompensated) | **Carvedilol/cNSBB, carvedilol preferred** — to prevent first bleeding and to lower ascites-related complications. **Variceal size, red signs and Child-Turcotte-Pugh (CTP) class no longer stratify this decision.** | [[baveno-viii-2026-portal-hypertension]] 4.4 |
 | Decompensated, never bled, **not** on NSBB | Annual screening endoscopy; if high-risk varices found → NSBB preferred over band ligation (benefits beyond bleeding prevention) | [[aasld-2023-portal-hypertension]] GS 22, 23 |
-| **Secondary prophylaxis** after oesophageal variceal bleed | **NSBB + EVL**, carvedilol preferred over cNSBB — regardless of what was used for primary prophylaxis | [[baveno-viii-2026-portal-hypertension]] 4.8; [[aasld-2023-portal-hypertension]] GS 38 |
-| After [[variceal-upper-gi-bleeding\|acute variceal haemorrhage]], no TIPS | Start NSBB **at discontinuation of vasoactive therapy**. A short vasoactive course (even 24 h) after successful endoscopic haemostasis is acceptable **provided NSBB is then initiated** | [[aasld-2023-portal-hypertension]] GS 33; [[baveno-viii-2026-portal-hypertension]] 5.8 |
+| **Secondary prophylaxis** after oesophageal variceal bleed | **NSBB + endoscopic variceal ligation (EVL)**, carvedilol preferred over cNSBB — regardless of what was used for primary prophylaxis | [[baveno-viii-2026-portal-hypertension]] 4.8; [[aasld-2023-portal-hypertension]] GS 38 |
+| After [[variceal-upper-gi-bleeding\|acute variceal haemorrhage]], no transjugular intrahepatic portosystemic shunt (TIPS) | Start NSBB **at discontinuation of vasoactive therapy**. A short vasoactive course (even 24 h) after successful endoscopic haemostasis is acceptable **provided NSBB is then initiated** | [[aasld-2023-portal-hypertension]] GS 33; [[baveno-viii-2026-portal-hypertension]] 5.8 |
 | Portal hypertensive gastropathy | **NSBB first-line** to prevent rebleeding; [[tips\|TIPS]] is the most effective rescue if transfusion-dependent | [[baveno-viii-2026-portal-hypertension]] 5.44; [[aasld-2023-portal-hypertension]] GS 50, 51 |
-| [[hepatocellular-carcinoma\|HCC]] with CSPH | NSBB for primary prophylaxis and decompensation prevention, absent contraindications | [[aasld-2023-portal-hypertension]] GS 53 |
-| Occlusive bland or malignant [[portal-vein-thrombosis\|PVT]] with varices | NSBB preferred over band ligation | [[aasld-2023-portal-hypertension]] GS 54 |
+| [[hepatocellular-carcinoma\|hepatocellular carcinoma (HCC)]] with CSPH | NSBB for primary prophylaxis and decompensation prevention, absent contraindications | [[aasld-2023-portal-hypertension]] GS 53 |
+| Occlusive bland or malignant [[portal-vein-thrombosis\|portal vein thrombosis (PVT)]] with varices | NSBB preferred over band ligation | [[aasld-2023-portal-hypertension]] GS 54 |
 | **Pregnancy** | Prophylaxis follows non-pregnant principles, **including the use of propranolol** | [[baveno-viii-2026-portal-hypertension]] 8.18 |
-| Vascular liver disease (e.g. [[budd-chiari-syndrome\|BCS]], [[porto-sinusoidal-vascular-disorder\|PSVD/NCPF]]) | Evidence is insufficient to prefer carvedilol over cNSBB here | [[baveno-viii-2026-portal-hypertension]] 8.9 |
+| Vascular liver disease (e.g. [[budd-chiari-syndrome\|Budd-Chiari syndrome (BCS)]], [[porto-sinusoidal-vascular-disorder\|porto-sinusoidal vascular disorder (PSVD)/noncirrhotic portal fibrosis (NCPF)]]) | Evidence is insufficient to prefer carvedilol over cNSBB here | [[baveno-viii-2026-portal-hypertension]] 8.9 |
 
 ```mermaid
 flowchart TD
@@ -95,7 +95,7 @@ flowchart TD
     D -->|"No — indeterminate"| C
     D -->|"Yes → CSPH"| E{"Contraindication or<br/>intolerance to NSBB?"}
     E -->|"No"| F["Carvedilol 6.25 mg daily<br/>→ 12.5 mg/day after 2–3 days<br/>No screening endoscopy needed"]
-    E -->|"Yes"| G["EGD to screen for varices<br/>(unless LSM &lt;20 kPa AND PLT ≥150,<br/>or SSM &lt;40 kPa)"]
+    E -->|"Yes"| G["Esophagogastroduodenoscopy (EGD)<br/>to screen for varices<br/>(unless LSM &lt;20 kPa AND platelets ≥150,<br/>or SSM &lt;40 kPa)"]
     G --> H["High-risk varices → EVL"]
 ```
 
@@ -115,16 +115,16 @@ All doses below are from [[aasld-2023-portal-hypertension]] (Table 3 and GS 2). 
 
 | Drug | Starting dose | Titration | Maximal dose | Goal |
 |---|---|---|---|---|
-| **Propranolol** | **20–40 mg twice daily** | Increase the dose **every 2–3 days** until treatment goal | Without [[ascites\|ascites]]: **320 mg/day**<br/>With ascites: **160 mg/day** | **HR 55–60 bpm** if tolerated; **SBP maintained ≥90 mm Hg** |
-| **Nadolol** | **20–40 mg at bedtime** | Increase the dose **every 2–3 days** until treatment goal | Without ascites: **160 mg/day**<br/>With ascites: **80 mg/day** | **HR 55–60 bpm** if tolerated; **SBP maintained ≥90 mm Hg** |
+| **Propranolol** | **20–40 mg twice daily** | Increase the dose **every 2–3 days** until treatment goal | Without [[ascites\|ascites]]: **320 mg/day**<br/>With ascites: **160 mg/day** | **Heart rate 55–60 bpm** if tolerated; **systolic blood pressure (SBP) maintained ≥90 mm Hg** |
+| **Nadolol** | **20–40 mg at bedtime** | Increase the dose **every 2–3 days** until treatment goal | Without ascites: **160 mg/day**<br/>With ascites: **80 mg/day** | **Heart rate 55–60 bpm** if tolerated; **SBP maintained ≥90 mm Hg** |
 | **Carvedilol** | **6.25 mg once daily** | Increase to **6.25 mg twice daily after 3 days** | **12.5 mg/day**; higher doses may be considered for **non-hepatic** indications | **No heart-rate goal**; **SBP maintained ≥90 mm Hg** |
 
 **Common adverse effects (all three):** fatigue, bradycardia, dyspnoea, orthostasis, hypotension, constipation.
 
 ### Titration targets and their qualifiers
 
-- **Heart rate 55–60 bpm applies to propranolol and nadolol only, and only "if tolerated."** Carvedilol has **no HR target** — do not titrate carvedilol to pulse.
-- **Systolic BP ≥90 mm Hg is the floor for all three agents.** It is a floor to *maintain*, not a target to reach.
+- **Heart rate 55–60 bpm applies to propranolol and nadolol only, and only "if tolerated."** Carvedilol has **no heart rate target** — do not titrate carvedilol to pulse.
+- **Systolic blood pressure (BP) ≥90 mm Hg is the floor for all three agents.** It is a floor to *maintain*, not a target to reach.
 - **The maximum dose halves in the presence of ascites** for both conventional agents (propranolol 320 → 160 mg/day; nadolol 160 → 80 mg/day). Carvedilol's cap does not change with ascites.
 - **Maintenance is indefinite** — or until [[tips\|TIPS]] or [[liver-transplantation\|liver transplant]]. There is no indication for routine upper endoscopy while on therapy.
 
@@ -147,7 +147,7 @@ Why:
 - **Greater HVPG reduction** in head-to-head comparisons with conventional NSBBs — the α-1 effect lowers intrahepatic resistance, which propranolol and nadolol cannot do.
 - **Simpler administration** and a trend toward **better tolerance**.
 - **Possibility of preventing ascites**, and a **potential survival advantage**.
-- In high-risk varices **with** ascites, carvedilol was associated with improved survival — **HR 0.41 (95% CI 0.19–0.96)** prospectively and **HR 0.61 (95% CI 0.46–0.81)** retrospectively ([[aasld-2023-portal-hypertension]]).
+- In high-risk varices **with** ascites, carvedilol was associated with improved survival — **hazard ratio (HR) 0.41 (95% confidence interval [CI] 0.19–0.96)** prospectively and **HR 0.61 (95% CI 0.46–0.81)** retrospectively ([[aasld-2023-portal-hypertension]]).
 
 **When to use propranolol or nadolol instead:**
 
@@ -179,7 +179,7 @@ If NSBB is contraindicated or not tolerated, the patient re-enters the **endosco
 | Trigger | Action | Source |
 |---|---|---|
 | **Persistently low blood pressure** — systolic <90 mm Hg **or** mean arterial pressure <65 mm Hg | **Dose-reduce or discontinue** | [[baveno-viii-2026-portal-hypertension]] 4.6 |
-| **HRS-[[aki-in-cirrhosis\|AKI]]** | **Dose-reduce or discontinue** | [[baveno-viii-2026-portal-hypertension]] 4.6 |
+| **Hepatorenal syndrome–[[aki-in-cirrhosis\|acute kidney injury (AKI)]] (HRS-AKI)** | **Dose-reduce or discontinue** | [[baveno-viii-2026-portal-hypertension]] 4.6 |
 | Persistent systolic <90 mm Hg **or severe adverse effects** | Dose-reduce or discontinue; **discontinuation should prompt endoscopy** for high-risk varices needing band ligation | [[aasld-2023-portal-hypertension]] GS 24 |
 | Carvedilol not tolerated / SBP <90 mm Hg in compensated cirrhosis | **Down-titrate carvedilol to 6.25 mg daily** before abandoning it | [[aasld-2023-portal-hypertension]] |
 | **HRS-AKI resolved and/or blood pressure recovered** | **Re-initiate and/or re-titrate** carvedilol/cNSBB | [[baveno-viii-2026-portal-hypertension]] 4.7 |
@@ -216,7 +216,7 @@ The trial behind "treat CSPH, not varices" ([[aasld-2023-portal-hypertension]]):
 - **201 patients**, compensated cirrhosis, **HVPG-confirmed CSPH**, **without high-risk varices**; beta-blocker (propranolol or carvedilol, assigned by acute haemodynamic response to propranolol) vs placebo.
 - Titrated to tolerance, **pulse ≥55 bpm and SBP ≥90 mm Hg**, planned upper limits **160 mg propranolol / 25 mg carvedilol**. **Mean achieved doses: 95 mg/day propranolol, 19 mg/day carvedilol.**
 - At 2 years: decompensation **HR 0.51 (95% CI 0.26–0.97)**, predominantly by preventing ascites.
-- Caveats the guideline attaches: all participants had HVPG-confirmed CSPH (none selected non-invasively); most had untreated hepatitis C predating all-oral DAAs; ongoing alcohol use was not assessed.
+- Caveats the guideline attaches: all participants had HVPG-confirmed CSPH (none selected non-invasively); most had untreated hepatitis C predating all-oral direct-acting antivirals (DAAs); ongoing alcohol use was not assessed.
 
 **HVPG response** — a decrease of **≥10% from baseline, or to ≤12 mm Hg** after chronic treatment — is the haemodynamic definition of a responder, though neither current guideline requires measuring it to prescribe.
 

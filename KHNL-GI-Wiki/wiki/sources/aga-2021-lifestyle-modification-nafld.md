@@ -14,21 +14,21 @@ sources: []
 - **Year:** 2021 (received June 17, 2020; accepted November 3, 2020)
 - **Journal/Publisher:** *Gastroenterology*, Vol. 160, No. 3 (February 2021), pages 912–918 — AGA Institute
 - **DOI:** [10.1053/j.gastro.2020.11.051](https://doi.org/10.1053/j.gastro.2020.11.051)
-- **Type:** guideline (AGA Institute Clinical Practice Update — Expert Review)
+- **Type:** guideline (American Gastroenterological Association [AGA] Institute Clinical Practice Update — Expert Review)
 
-**Grading:** This Expert Review is **ungraded**. It carries **10 Best Practice Advice (BPA) statements** and states no GRADE certainty ratings, no strength-of-recommendation labels, and no evidence levels. Commissioned and approved by the AGA Institute Clinical Practice Updates Committee and the AGA Governing Board; internal peer review by the CPU Committee plus external peer review through standard *Gastroenterology* procedures. Not based on a formal systematic review.
+**Grading:** This Expert Review is **ungraded**. It carries **10 Best Practice Advice (BPA) statements** and states no Grading of Recommendations Assessment, Development and Evaluation (GRADE) certainty ratings, no strength-of-recommendation labels, and no evidence levels. Commissioned and approved by the AGA Institute Clinical Practice Updates (CPU) Committee and the AGA Governing Board; internal peer review by the CPU Committee plus external peer review through standard *Gastroenterology* procedures. Not based on a formal systematic review.
 
 ---
 
 ## Summary
 
-Lifestyle modification using diet and exercise to achieve weight loss is positioned as the **first-line, cornerstone treatment for all patients with NAFLD**, regardless of histologic type. The update builds on the four guiding principles of the AGA POWER (Practice Guide on Obesity and Weight Management, Education, and Resources) program — assessment, intensive weight-loss intervention, weight stabilization and re-intensification if needed, and prevention of weight regain — but notes that medications, bariatric endoscopy, and surgery are largely reserved for subsets with severe obesity, co-existing diabetes, and/or biopsy-proven NASH with at minimum stage 2 fibrosis. That leaves diet and exercise as the universal intervention.
+Lifestyle modification using diet and exercise to achieve weight loss is positioned as the **first-line, cornerstone treatment for all patients with nonalcoholic fatty liver disease (NAFLD)**, regardless of histologic type. The update builds on the four guiding principles of the AGA POWER (Practice Guide on Obesity and Weight Management, Education, and Resources) program — assessment, intensive weight-loss intervention, weight stabilization and re-intensification if needed, and prevention of weight regain — but notes that medications, bariatric endoscopy, and surgery are largely reserved for subsets with severe obesity, co-existing diabetes, and/or biopsy-proven nonalcoholic steatohepatitis (NASH) with at minimum stage 2 fibrosis. That leaves diet and exercise as the universal intervention.
 
 The central quantitative message is a **dose–response ladder between percent total body weight (TBW) lost and histologic benefit**: more weight loss buys more histologic improvement, and fibrosis — the histologic variable most strongly associated with mortality — only moves at the top of the ladder. The update then specifies how to get there: a hypocaloric diet with named calorie targets, the Mediterranean diet as the preferred dietary pattern, and a weekly aerobic exercise dose, with resistance training as a complement.
 
 Three qualifying situations get their own advice. **Normal-weight ("lean") NAFLD** — which accounts for up to 40% of the NAFLD population — benefits from the same intervention at a lower weight-loss threshold. **Alcohol** is restricted or eliminated, on the strength of prospective data showing harm at intake levels previously considered low. **Sarcopenia in NASH cirrhosis** inverts the usual advice: these patients need protein and calories, not a deficit, and a caloric deficit is explicitly to be avoided.
 
-Co-existing metabolic disease is the other half of management. Obesity, type 2 diabetes, hypertension, dyslipidemia, cardiovascular disease, and obstructive sleep apnea are all highly prevalent in NAFLD and NASH (Table 1), and cardiovascular disease remains a leading cause of death in this population — so the update directs that these comorbidities be sought actively and managed aggressively, with CVD risk stratification and treatment per ACC/AHA guidelines.
+Co-existing metabolic disease is the other half of management. Obesity, type 2 diabetes, hypertension, dyslipidemia, cardiovascular disease (CVD), and obstructive sleep apnea (OSA) are all highly prevalent in NAFLD and NASH (Table 1), and cardiovascular disease remains a leading cause of death in this population — so the update directs that these comorbidities be sought actively and managed aggressively, with CVD risk stratification and treatment per American College of Cardiology (ACC)/American Heart Association (AHA) guidelines.
 
 ---
 
@@ -45,7 +45,7 @@ Co-existing metabolic disease is the other half of management. Obesity, type 2 d
 **Best Practice Advice 4:** Adults with NAFLD should follow the Mediterranean (Med) diet or a diet of similar design and minimize saturated fatty acid intake, specifically red and processed meat, and commercially produced fructose consumption.
 
 **Best Practice Advice 5:** A hypocaloric diet should be considered as treatment for patients with normal-weight NAFLD (body mass index ≤25 kg/m² in non-Asian or body mass index ≤23 kg/m² in Asian patients) with a lower target weight-loss threshold of 3%–5%, as they experience similar histologic benefits for steatosis and NASH as patients with overweight or obese NAFLD.
-> The abstract summary box prints this statement with the BMI cut-offs as 26 kg/m² (non-Asian) and 24 kg/m² (Asian) and calls the group "lean NAFLD". The statement text above is the one printed in the body of the update.
+> The abstract summary box prints this statement with the body mass index (BMI) cut-offs as 26 kg/m² (non-Asian) and 24 kg/m² (Asian) and calls the group "lean NAFLD". The statement text above is the one printed in the body of the update.
 
 **Best Practice Advice 6:** The effect of specific hypocaloric diets, such as low-carbohydrate/high-protein diets, meal-replacement protocols, intermittent fasting, and vitamin supplementation, on histologic NAFLD/NASH end points have not been adequately studied; however, there are potential benefits of certain hypocaloric diets to treat patients with NAFLD, which require an individual approach before prescribing.
 
@@ -73,7 +73,7 @@ Co-existing metabolic disease is the other half of management. Obesity, type 2 d
 
 Supporting data as printed in the update:
 
-- **RCT of 48 weeks of intensive lifestyle intervention (ILI)** — caloric reduction + physical activity + structured education. Control group had no significant change in weight; the ILI group lost **9.3% TBW on average**. Participants with **≥7% TBW loss** had significant improvement in steatosis, lobular inflammation, hepatocyte ballooning, and NAFLD activity score — **although no change in fibrosis was seen**.
+- **Randomized controlled trial (RCT) of 48 weeks of intensive lifestyle intervention (ILI)** — caloric reduction + physical activity + structured education. Control group had no significant change in weight; the ILI group lost **9.3% TBW on average**. Participants with **≥7% TBW loss** had significant improvement in steatosis, lobular inflammation, hepatocyte ballooning, and NAFLD activity score — **although no change in fibrosis was seen**.
 - **Prospective cohort, 1 year of ILI** — the stratified histologic yield:
   - **5%–6.99% TBW loss** → 65% had improvement in steatosis
   - **7%–8.99% TBW loss** → 64% had NASH resolution
@@ -132,7 +132,7 @@ Supporting data as printed in the update:
 - Benefits for steatosis were seen across **90–300 minutes per week** in individual studies; the 150–300 / 75–150 targets follow from that range.
 - Physical activity improves NAFLD **independent of weight loss**, by reducing hepatic fat — improving peripheral insulin sensitivity, decreasing hepatic *de novo* lipogenesis, decreasing adipocyte lipolysis, and reducing free fatty acid delivery to the liver.
 - Systematic review/meta-analysis: exercise alone (predominantly aerobic), **without dietary intervention**, significantly decreased liver fat, with a **nonsignificant trend** toward improvement in alanine aminotransferase vs controls.
-- **Resistance training decreases steatosis at lower intensity than aerobic exercise** — an option for those with limited aerobic capacity. However, **walking more than 3 hours per week was associated with decreased cirrhosis-related deaths and HCC**, so encouragement of aerobic activity should be considered.
+- **Resistance training decreases steatosis at lower intensity than aerobic exercise** — an option for those with limited aerobic capacity. However, **walking more than 3 hours per week was associated with decreased cirrhosis-related deaths and hepatocellular carcinoma**, so encouragement of aerobic activity should be considered.
 - Exercise enhances the weight-reduction effect of diet: **moderate physical activity in conjunction with the Med diet** is associated with the most weight loss, plus reduction in visceral adipose tissue and percent intrahepatic fat.
 
 ### Co-existing metabolic conditions (BPA 8)
@@ -175,21 +175,21 @@ Supporting data as printed in the update:
 
 ## Relevance to Wiki
 
-- **[[nafld-masld]]** — supplies the operative lifestyle numbers under *Therapeutics → Lifestyle Modification*: the hypocaloric calorie targets (500–1000 kcal/d deficit; 1200 kcal/d women / 1400–1500 kcal/d men), the Mediterranean diet composition and meat/fructose limits, the weekly aerobic exercise dose with intensity definitions, the normal-weight NAFLD 3%–5% threshold and its BMI definition, the alcohol dose data behind restriction, and the NASH-cirrhosis sarcopenia nutrition prescription.
+- **[[nafld-masld|NAFLD/metabolic dysfunction-associated steatotic liver disease (MASLD)]]** — supplies the operative lifestyle numbers under *Therapeutics → Lifestyle Modification*: the hypocaloric calorie targets (500–1000 kcal/d deficit; 1200 kcal/d women / 1400–1500 kcal/d men), the Mediterranean diet composition and meat/fructose limits, the weekly aerobic exercise dose with intensity definitions, the normal-weight NAFLD 3%–5% threshold and its BMI definition, the alcohol dose data behind restriction, and the NASH-cirrhosis sarcopenia nutrition prescription.
 - **[[obesity]]** — the NAFLD-specific hypocaloric and exercise targets, cross-linked from its thin *Lifestyle Modification* section; Table 1 puts obesity prevalence at 51.3% in NAFLD and 81.8% in NASH.
 - **[[cirrhosis]] / [[nutrition-in-hospitalized-patients]]** — the sarcopenia nutrition prescription (protein 1.2–1.5 g/kg, ≤4–6 h between meals, bedtime complex-carbohydrate snack) is NASH-cirrhosis-specific guidance from this update.
-- **[[alcohol-associated-liver-disease]]** — the 9–20 g/d and 0–9 g/d non-wine thresholds are NAFLD-population data, distinct from the MASLD/MetALD/ALD nomenclature boundaries.
+- **[[alcohol-associated-liver-disease]]** — the 9–20 g/d and 0–9 g/d non-wine thresholds are NAFLD-population data, distinct from the MASLD/MASLD with increased alcohol intake (MetALD)/alcohol-associated liver disease (ALD) nomenclature boundaries.
 
 ---
 
 ## Contradictions / Open Questions
 
 - **Internal inconsistency in the source.** The abstract summary box and the bolded in-text statements are not word-identical for BPAs 4, 5, 6, 7, and 9. The substantive divergence is **BPA 5**: the body text defines the group as *normal-weight* NAFLD at **BMI ≤25 (non-Asian) / ≤23 (Asian) kg/m²**, while the abstract box calls it *lean* NAFLD at **26 / 24 kg/m²**. The weight-loss target (3%–5%) is the same in both.
-- **Weight-loss ladder vs [[aasld-2023-nafld]].** AASLD GS 20 gives the ladder as **3–5%** (steatosis) / **7–10%** (NASH) / **>10%** (fibrosis); this update gives **≥5%** / **≥7%** / **≥10%**. The steatosis rung is the real difference — AASLD allows benefit from 3%, this update sets ≥5% in NASH. Both are guideline-tier; AASLD 2023 is newer, so [[nafld-masld]] continues to assert the AASLD ladder, with this update's numbers alongside. Note the populations differ: BPA 2 is stated **among patients with NASH**, and this update's own 3%–5% figure appears in **normal-weight NAFLD** (BPA 5).
+- **Weight-loss ladder vs [[aasld-2023-nafld]].** American Association for the Study of Liver Diseases (AASLD) guidance statement (GS) 20 gives the ladder as **3–5%** (steatosis) / **7–10%** (NASH) / **>10%** (fibrosis); this update gives **≥5%** / **≥7%** / **≥10%**. The steatosis rung is the real difference — AASLD allows benefit from 3%, this update sets ≥5% in NASH. Both are guideline-tier; AASLD 2023 is newer, so [[nafld-masld]] continues to assert the AASLD ladder, with this update's numbers alongside. Note the populations differ: BPA 2 is stated **among patients with NASH**, and this update's own 3%–5% figure appears in **normal-weight NAFLD** (BPA 5).
 - **Alcohol.** This update (2021) restricts alcohol in all adults with NAFLD without a fibrosis-stage threshold; [[aasld-2023-nafld]] (GS 7) specifies **complete abstinence at ≥F2 fibrosis**. Not a contradiction in direction — AASLD is more specific about where abstinence becomes mandatory. The newer AASLD framing governs on [[nafld-masld]].
 - **Vitamin E.** This update describes vitamin E as "currently recommended" for biopsy-proven NASH in adults without diabetes but stresses no fibrosis benefit and the prostate-cancer/all-cause-mortality signal; [[aasld-2023-nafld]] GS 26 gives a dose (rrr-α 800 IU/day) that this update does not print.
-- **No fibrosis benefit from exercise alone.** The update reports a nonsignificant trend for ALT with exercise alone and no fibrosis end point — the antifibrotic claim for lifestyle rests on weight loss (≥10% TBW), not on exercise dose.
-- **Not addressed:** this 2021 update predates the MASLD/MASH nomenclature change, [[resmetirom]], and [[semaglutide]]'s MASH indication; it says nothing about pharmacotherapy for MASH beyond vitamin E, and nothing about noninvasive-test-guided monitoring of the lifestyle response.
+- **No fibrosis benefit from exercise alone.** The update reports a nonsignificant trend for alanine aminotransferase with exercise alone and no fibrosis end point — the antifibrotic claim for lifestyle rests on weight loss (≥10% TBW), not on exercise dose.
+- **Not addressed:** this 2021 update predates the MASLD/metabolic dysfunction-associated steatohepatitis (MASH) nomenclature change, [[resmetirom]], and [[semaglutide]]'s MASH indication; it says nothing about pharmacotherapy for MASH beyond vitamin E, and nothing about noninvasive-test-guided monitoring of the lifestyle response.
 
 ---
 

@@ -29,16 +29,16 @@ Peutz-Jeghers syndrome (PJS) is an autosomal-dominant hamartomatous polyposis sy
 
 **Incidence**: 1 in 50,000–200,000 live births; ~25% of newly diagnosed PJS cases represent de novo mutations.
 
-**Who to refer for genetic evaluation — any one of the following** *(Strong, low quality — [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] R2)*:
+**Who to refer for genetic evaluation — any one of the following** *(Strong, low quality — [[aga-2022-hamartomatous-polyposis|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2022]] R2)*:
 
 1. **≥2 histologically confirmed Peutz-Jeghers polyps**
-2. **Any number** of PJ polyps in someone with a **family history of PJS in a first-degree relative**
+2. **Any number** of Peutz-Jeghers (PJ) polyps in someone with a **family history of PJS in a first-degree relative**
 3. **Characteristic mucocutaneous pigmentation** in someone with a family history of PJS
 4. **Any number** of PJ polyps in someone with the **characteristic mucocutaneous pigmentation**
 
 - General referral trigger for *any* hamartomatous polyposis syndrome: **≥2 lifetime hamartomatous polyps**, a family history of hamartomatous polyps, or a hamartomatous-syndrome–associated cancer in a **first- or second-degree relative**; test with a **multigene panel** *(R1; Strong, low)*
 - **Organs to survey** *(R3; Strong, low)*: breast, small bowel, colon, stomach, pancreas, ovaries, testes, and lungs — via a **multidisciplinary** approach
-- [[acg-2015-hereditary-gi-cancer|ACG 2015]] used the looser trigger of perioral/buccal pigmentation and/or ≥2 characteristic hamartomatous polyps and/or a family history of PJS; the 2022 criteria above are the newer statement and govern this page
+- [[acg-2015-hereditary-gi-cancer|American College of Gastroenterology (ACG) 2015]] used the looser trigger of perioral/buccal pigmentation and/or ≥2 characteristic hamartomatous polyps and/or a family history of PJS; the 2022 criteria above are the newer statement and govern this page
 
 **Mucocutaneous pigmentation**:
 
@@ -47,7 +47,7 @@ Peutz-Jeghers syndrome (PJS) is an autosomal-dominant hamartomatous polyposis sy
 - Lip spots cross the vermilion border (unlike common freckles); darker and more densely clustered
 - Pigmentation appears in infancy and may fade with age, but buccal mucosa spots persist
 
-**GI polyps**:
+**Gastrointestinal (GI) polyps**:
 
 - Histologically distinct hamartomatous polyps in 88–100% of patients
 - Polyps are nondysplastic; have normal overlying epithelium specific to the GI segment in which found; arborizing growth pattern with muscularis mucosae extending into branching fronds
@@ -69,7 +69,7 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 | Small bowel | <1% | 13% | 37–42 |
 | Pancreas | 1.5% | 11–36% | 41–52 |
 | Breast (F) | 12.4% | 32–54% | 37–59 |
-| Ovarian (mostly SCTAT) | 1.6% | 21% | 28 |
+| Ovarian (mostly sex cord tumor with annular tubules (SCTAT)) | 1.6% | 21% | 28 |
 | Uterus | 2.7% | 9% | 43 |
 | Cervix (adenoma malignum) | <1% | **10–23%** (USMSTF 2022; ACG 2015 listed 10%) | 34–40 |
 | Testicular (**Sertoli cell tumor**) | <1% | 9% | **6–9** |
@@ -103,25 +103,25 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 
 | Site | Baseline | If polyps at baseline | If **no** polyps at baseline | Strength |
 |---|---|---|---|---|
-| **Small bowel** — video [[capsule-endoscopy\|capsule endoscopy]] **or** MR enterography | **Ages 8–10** (earlier if symptomatic) | Continue surveillance | **Resume at age 18** | Strong, low *(R4)* |
+| **Small bowel** — video [[capsule-endoscopy\|capsule endoscopy]] **or** magnetic resonance (MR) enterography | **Ages 8–10** (earlier if symptomatic) | Continue surveillance | **Resume at age 18** | Strong, low *(R4)* |
 | **Small bowel in adulthood** | — | **Every 2–3 years, lifelong** — driven by intussusception risk, not cancer risk alone | Same | Strong, low *(R4)* |
-| **Stomach/duodenum — [[upper-endoscopy\|EGD]]** | **Ages 8–10** (can be done at the time of capsule placement, or if MRE shows polyps) | **Every 2–3 years** | Repeat at **age 18** (sooner if symptoms), **then every 3 years** | Weak, very low *(R5)* |
+| **Stomach/duodenum — [[upper-endoscopy\|esophagogastroduodenoscopy (EGD)]]** | **Ages 8–10** (can be done at the time of capsule placement, or if magnetic resonance enterography (MRE) shows polyps) | **Every 2–3 years** | Repeat at **age 18** (sooner if symptoms), **then every 3 years** | Weak, very low *(R5)* |
 | **Colon — [[colonoscopy\|colonoscopy]]** | Initiation age **uncertain**; start **at the same time as EGD** | **Every 2–3 years** | Repeat at **age 18** (sooner if symptoms), **then every 3 years** | Weak, very low *(R5)* |
 
-- MR enterography is accurate for detecting polyps ≥15 mm and gives more reproducible size assessment than [[capsule-endoscopy|capsule endoscopy]]; CT enterography detects polyps ≥1 cm but repeated X-ray exposure is problematic [[acg-2015-hereditary-gi-cancer]]
+- MR enterography is accurate for detecting polyps ≥15 mm and gives more reproducible size assessment than [[capsule-endoscopy|capsule endoscopy]]; computed tomography (CT) enterography detects polyps ≥1 cm but repeated X-ray exposure is problematic [[acg-2015-hereditary-gi-cancer]]
 
-**[[pancreatic-cancer-screening|Pancreatic surveillance]]** — **[[mri-mrcp|MRI/MRCP]] or [[endoscopic-ultrasound|EUS]] annually starting at age 35** *(Weak, low — [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] R7)*:
+**[[pancreatic-cancer-screening|Pancreatic surveillance]]** — **[[mri-mrcp|magnetic resonance imaging (MRI)/magnetic resonance cholangiopancreatography (MRCP)]] or [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] annually starting at age 35** *(Weak, low — [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] R7)*:
 
 - Ideally **alternate MRCP and EUS** on an annual basis — they are complementary
-- **[[asge-2022-pancreatic-cancer-screening|ASGE 2022]] agrees on the age and supplies the qualifier USMSTF omits:** start at **age 35 *or* 10 years earlier than the youngest relative with pancreatic cancer** *(Rec 6f)*, screening **annually** *(Rec 4; conditional, very low)*. The family-history clause is absent from the USMSTF statement, so a kindred with an early pancreatic cancer is the case in which the two guidelines' start ages come apart
-- **Modality choice** [[asge-2022-pancreatic-cancer-screening]]: PJS is one of the two conditions ASGE names as **very high risk** (with [[fammm-syndrome|FAMMM]]), for which **EUS may be preferred as the initial test** — and preferred again when it can be combined with the screening EGD/colonoscopy the patient is already due. **MRI may be preferred** when it can be combined with **MR enterography** for the small-bowel surveillance above, or when the patient is at higher anesthesia/procedural risk. Technique when MRI is used: **IV contrast, minimum 1.5-T magnet** (3-T may add small-lesion detection)
-- The Cancer of the Pancreas Screening Consortium adds **fasting glucose + HbA1c** at initiation; **USMSTF 2022 explicitly withholds a recommendation on this** pending definitive data — a non-recommendation, not a recommendation against
-- Comparators, **as reported inside [[aga-2022-hamartomatous-polyposis|USMSTF 2022]]**: the CAPS consortium recommends MRI/MRCP and/or EUS **every 1–2 years from age 40**; **NCCN starts at 30–35** (its Table 4 prints `~30–35, q1–2 y`, with the qualifier that "based on clinical judgment, early initiation age may be considered, such as 10 years younger than the earliest age of onset in the family"). USMSTF chose **annual from 35** because pancreatic cancers have been reported in PJS **before age 40**
+- **[[asge-2022-pancreatic-cancer-screening|American Society for Gastrointestinal Endoscopy (ASGE) 2022]] agrees on the age and supplies the qualifier USMSTF omits:** start at **age 35 *or* 10 years earlier than the youngest relative with pancreatic cancer** *(Rec 6f)*, screening **annually** *(Rec 4; conditional, very low)*. The family-history clause is absent from the USMSTF statement, so a kindred with an early pancreatic cancer is the case in which the two guidelines' start ages come apart
+- **Modality choice** [[asge-2022-pancreatic-cancer-screening]]: PJS is one of the two conditions ASGE names as **very high risk** (with [[fammm-syndrome|familial atypical multiple mole melanoma (FAMMM)]]), for which **EUS may be preferred as the initial test** — and preferred again when it can be combined with the screening EGD/colonoscopy the patient is already due. **MRI may be preferred** when it can be combined with **MR enterography** for the small-bowel surveillance above, or when the patient is at higher anesthesia/procedural risk. Technique when MRI is used: **intravenous (IV) contrast, minimum 1.5-T magnet** (3-T may add small-lesion detection)
+- The Cancer of the Pancreas Screening (CAPS) Consortium adds **fasting glucose + hemoglobin A1c (HbA1c)** at initiation; **USMSTF 2022 explicitly withholds a recommendation on this** pending definitive data — a non-recommendation, not a recommendation against
+- Comparators, **as reported inside [[aga-2022-hamartomatous-polyposis|USMSTF 2022]]**: the CAPS consortium recommends MRI/MRCP and/or EUS **every 1–2 years from age 40**; **National Comprehensive Cancer Network (NCCN) starts at 30–35** (its Table 4 prints `~30–35, q1–2 y`, with the qualifier that "based on clinical judgment, early initiation age may be considered, such as 10 years younger than the earliest age of onset in the family"). USMSTF chose **annual from 35** because pancreatic cancers have been reported in PJS **before age 40**
 - Pancreatic cancer lifetime risk and relative risk: see [[#Severity Assessment — Cancer Risks]]
 
 > **Start age — sources differ.** [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 10 lists pancreas surveillance from **age 30, every 1–2 years**, while its own graded Recommendation 23 says PJS should start at **age 35**. The newer [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] resolves this as **annual, from age 35** — the interval used above.
 
-> **The extraintestinal schedules below are not graded USMSTF recommendations.** The task force "reserved our management recommendations to" gastroenterology and GI malignancy and **defers to other expert groups for the other cancers, which are reviewed here**. Breast, gynaecologic, testicular, and lung surveillance appear as **narrative text** in [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] reporting other bodies' schedules, and the USMSTF column of its Table 4 is blank (`—`) for every one of them. Only the luminal, polypectomy, and pancreatic items above carry a GRADE rating.
+> **The extraintestinal schedules below are not graded USMSTF recommendations.** The task force "reserved our management recommendations to" gastroenterology and GI malignancy and **defers to other expert groups for the other cancers, which are reviewed here**. Breast, gynaecologic, testicular, and lung surveillance appear as **narrative text** in [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] reporting other bodies' schedules, and the USMSTF column of its Table 4 is blank (`—`) for every one of them. Only the luminal, polypectomy, and pancreatic items above carry a Grading of Recommendations Assessment, Development and Evaluation (GRADE) rating.
 
 **Breast surveillance** (women) — consensus schedule reported by [[aga-2022-hamartomatous-polyposis|USMSTF 2022]]:
 
@@ -137,7 +137,7 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 
 **Ovarian / uterine / cervical**:
 
-- **Pelvic examination with Pap smear and transvaginal ultrasound annually from age 25** [[aga-2022-hamartomatous-polyposis]] — an unusually high proportion of PJS cervical cancers are **adenoma malignum**, a rare well-differentiated adenocarcinoma with a poor prognosis that is **difficult to diagnose on Pap smear**, so a high index of suspicion is required. CA-125 is probably not helpful [[acg-2015-hereditary-gi-cancer]]
+- **Pelvic examination with Pap smear and transvaginal ultrasound annually from age 25** [[aga-2022-hamartomatous-polyposis]] — an unusually high proportion of PJS cervical cancers are **adenoma malignum**, a rare well-differentiated adenocarcinoma with a poor prognosis that is **difficult to diagnose on Pap smear**, so a high index of suspicion is required. cancer antigen 125 (CA-125) is probably not helpful [[acg-2015-hereditary-gi-cancer]]
 - NCCN 2020 puts pelvic examination and Pap smear earlier, at **~18–20 annually** (as reported in USMSTF 2022 Table 4)
 
 **Testicular**:
@@ -147,7 +147,7 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 
 **Lung**:
 
-- No proven benefit of lung surveillance in PJS. **Annual low-dose CT** (as used in high-risk smokers) **may be considered**; smoking-cessation counselling is advisable [[aga-2022-hamartomatous-polyposis]] — ACG 2015 framed this as annual CXR or chest CT in smokers *(Conditional/Low)*
+- No proven benefit of lung surveillance in PJS. **Annual low-dose CT** (as used in high-risk smokers) **may be considered**; smoking-cessation counselling is advisable [[aga-2022-hamartomatous-polyposis]] — ACG 2015 framed this as annual chest X-ray (CXR) or chest CT in smokers *(Conditional/Low)*
 
 ---
 
@@ -177,7 +177,7 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 
 ### Surgical Management
 
-- **Colectomy + IRA** (or occasionally proctocolectomy + IPAA) is indicated for:
+- **Colectomy + ileorectal anastomosis (IRA)** (or occasionally proctocolectomy + ileal pouch-anal anastomosis (IPAA)) is indicated for:
   - Cancer, high-grade dysplasia, or polyposis not manageable endoscopically
 - Partial or complete gastrectomy may be needed for massive [[gastric-polyps|gastric polyposis]] or [[gastric-adenocarcinoma|gastric cancer]]
 - Goal of surgery is polyp control; avoid total gastrectomy if possible
@@ -186,9 +186,9 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 
 **No chemopreventive agent is in clinical practice for PJS** [[aga-2022-hamartomatous-polyposis]] — nothing below is standard of care.
 
-- **Celecoxib** (COX-2 inhibitor): PJS polyps overexpress COX-2. In a murine model, celecoxib produced a **>50% reduction in polyp burden**; in patients with diffuse gastric polyposis (tens to hundreds of polyps), **2 of 6** had a significant reduction in polyp number after **celecoxib 200 mg twice daily for 6 months** [[aga-2022-hamartomatous-polyposis]]
-- **Everolimus** (mTOR inhibitor): *STK11* variants decrease inhibition of mTOR, the mechanistic rationale. A trial of oral selective everolimus was **stopped prematurely for poor accrual — only 2 patients enrolled**, one with progressive pancreatic cancer and one who withdrew for severe drug complications, so **no efficacy signal was obtained** [[aga-2022-hamartomatous-polyposis]]
-- **Ruxolitinib** (JAK1/2 inhibitor): stromal LKB1 deficiency drives polyp formation via the **interleukin-11–JAK/STAT3** pathway, and ruxolitinib **dramatically reduces polyposis in mice** — raised as a therapeutic possibility only, no human data [[aga-2022-hamartomatous-polyposis]]
+- **Celecoxib** (cyclooxygenase-2 (COX-2) inhibitor): PJS polyps overexpress COX-2. In a murine model, celecoxib produced a **>50% reduction in polyp burden**; in patients with diffuse gastric polyposis (tens to hundreds of polyps), **2 of 6** had a significant reduction in polyp number after **celecoxib 200 mg twice daily for 6 months** [[aga-2022-hamartomatous-polyposis]]
+- **Everolimus** (mechanistic target of rapamycin [mTOR] inhibitor): *STK11* variants decrease inhibition of mTOR, the mechanistic rationale. A trial of oral selective everolimus was **stopped prematurely for poor accrual — only 2 patients enrolled**, one with progressive pancreatic cancer and one who withdrew for severe drug complications, so **no efficacy signal was obtained** [[aga-2022-hamartomatous-polyposis]]
+- **Ruxolitinib** (Janus kinase 1/2 [JAK1/2] inhibitor): stromal LKB1 deficiency drives polyp formation via the **interleukin-11–JAK/STAT3** pathway, and ruxolitinib **dramatically reduces polyposis in mice** — raised as a therapeutic possibility only, no human data [[aga-2022-hamartomatous-polyposis]]
 
 ---
 

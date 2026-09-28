@@ -16,15 +16,15 @@ sources: []
 - **Type:** guideline
 
 ## Summary
-ASGE position statement on the endoscopic role across four benign anorectal disorders: chronic radiation proctopathy, [[anal-fissure|anal fissure]], internal [[hemorrhoids|hemorrhoids]], and [[fecal-incontinence|fecal incontinence]]. For radiation proctopathy, APC is suggested first-line endoscopic therapy. For hemorrhoids, rubber band ligation (RBL) is the preferred office procedure for bleeding/prolapsing internal hemorrhoids failing conservative care. For fecal incontinence, all patients should have flexible sigmoidoscopy or colonoscopy as indicated by age and risk, with endoanal ultrasound (EAUS) or MRI complementing anorectal manometry when results will change management.
+American Society for Gastrointestinal Endoscopy (ASGE) position statement on the endoscopic role across four benign anorectal disorders: chronic radiation proctopathy, [[anal-fissure|anal fissure]], internal [[hemorrhoids|hemorrhoids]], and [[fecal-incontinence|fecal incontinence]]. For radiation proctopathy, argon plasma coagulation (APC) is suggested first-line endoscopic therapy. For hemorrhoids, rubber band ligation (RBL) is the preferred office procedure for bleeding/prolapsing internal hemorrhoids failing conservative care. For fecal incontinence, all patients should have flexible sigmoidoscopy or colonoscopy as indicated by age and risk, with endoanal ultrasound (EAUS) or magnetic resonance imaging (MRI) complementing anorectal manometry when results will change management.
 
-Most of this 2010 guidance is now superseded or corroborated by newer sources — [[acg-2021-anorectal-disorders|ACG 2021 benign anorectal disorders]] (hemorrhoids, fissure, FI) and [[asge-2019-radiation-proctopathy|ASGE 2019 radiation proctopathy]] — which the disease pages use as primary references.
+Most of this 2010 guidance is now superseded or corroborated by newer sources — [[acg-2021-anorectal-disorders|American College of Gastroenterology (ACG) 2021 benign anorectal disorders]] (hemorrhoids, fissure, fecal incontinence [FI]) and [[asge-2019-radiation-proctopathy|ASGE 2019 radiation proctopathy]] — which the disease pages use as primary references.
 
 ## Key Findings / Claims
 - Mild radiation proctopathy found incidentally often resolves spontaneously — do not treat absent symptoms/anemia.
 - Hyperbaric oxygen reserved as alternative for radiation proctopathy when conventional therapy fails (cost).
 - Topical formalin is an alternative for chronic radiation proctopathy.
-- Chronic anal fissure: topical nitrate/CCB or botulinum toxin first-line nonsurgical; lateral internal sphincterotomy is definitive.
+- Chronic anal fissure: topical nitrate/calcium channel blocker or botulinum toxin first-line nonsurgical; lateral internal sphincterotomy is definitive.
 
 ## Recommendations (verbatim, with GRADE)
 1. Treatment of radiation proctopathy found incidentally on endoscopy is not recommended unless there are signs (eg, anemia) or symptoms affecting overall health/quality of life, because most mild proctopathy resolves spontaneously. *(Low)*

@@ -28,9 +28,9 @@ sources: [aga-2026-refractory-constipation, aga-acg-2023-constipation, acg-2021-
 The adult presenting with **infrequent and/or unsatisfactory defecation** — how to separate primary (gut–brain) constipation from a secondary cause, and then which of the three physiologic subtypes is driving it. Not a defined diagnosis; management endpoints live on [[chronic-idiopathic-constipation]] and [[defecation-disorders]].
 
 - **Prevalence:** chronic constipation (CC) affects **8%–12% of the US population**; **3 million patients per year** seek clinical evaluation [[aga-2026-refractory-constipation]]
-- **Nomenclature:** *chronic constipation*, *chronic idiopathic constipation*, and *functional constipation* are **interchangeable terms** [[aga-2026-refractory-constipation]]. [[rome-v-2026-dgbi|Rome V]] (2026) formalised this — "chronic constipation" (bowel-DGBI category **C2**) replaced Rome IV's "functional constipation", dropping the word *functional*
+- **Nomenclature:** *chronic constipation*, *chronic idiopathic constipation*, and *functional constipation* are **interchangeable terms** [[aga-2026-refractory-constipation]]. [[rome-v-2026-dgbi|Rome V]] (2026) formalised this — "chronic constipation" (bowel disorder of gut–brain interaction [DGBI] category **C2**) replaced Rome IV's "functional constipation", dropping the word *functional*
 - **Separate Rome V entities that are not C2:** **C6 [[opioid-induced-constipation|opioid-induced constipation]]**; **F3 dyssynergic defecation** (an anorectal disorder). Rome V **removed the umbrella category "functional defecation disorders"** as too broad — it swept in structural conditions such as [[rectal-prolapse|rectal prolapse]] and perineal descent [[rome-v-2026-dgbi]]
-- **Refractory constipation (RC)** = infrequent and/or unsatisfactory bowel habits, with or without abdominal pain, **despite an adequate trial of lifestyle, dietary, medical, and (when indicated) pelvic floor [[biofeedback-therapy|biofeedback]] therapy**, in an adult who satisfies criteria for CC or constipation-predominant IBS (BPA 1) [[aga-2026-refractory-constipation]]
+- **Refractory constipation (RC)** = infrequent and/or unsatisfactory bowel habits, with or without abdominal pain, **despite an adequate trial of lifestyle, dietary, medical, and (when indicated) pelvic floor [[biofeedback-therapy|biofeedback]] therapy**, in an adult who satisfies criteria for CC or constipation-predominant irritable bowel syndrome (IBS) (best practice advice [BPA] 1) [[aga-2026-refractory-constipation]]
   - **The label needs one of four operational criteria, not just the narrative above.** International consensus definitions quoted by [[aga-2026-refractory-constipation]] require "infrequent and/or unsatisfactory bowel habits" **plus any one** of:
     1. Inadequate number of bowel movements most of the time, **and complete bowel movements on fewer than 3 days/week**
     2. **Straining on most occasions**, or worsening straining
@@ -55,7 +55,7 @@ Most patients hold misconceptions about normal bowel habit, so the normal range 
 
 | Subtype | What is wrong | How it is proven | Where it is managed |
 |---|---|---|---|
-| **Normal-transit** | Neither transit nor evacuation is measurably impaired | Normal colonic transit, normal [[anorectal-manometry\|ARM]] + balloon expulsion test (BET) | [[chronic-idiopathic-constipation]] |
+| **Normal-transit** | Neither transit nor evacuation is measurably impaired | Normal colonic transit, normal [[anorectal-manometry\|anorectal manometry (ARM)]] + balloon expulsion test (BET) | [[chronic-idiopathic-constipation]] |
 | **Slow-transit** | Delayed colonic transit ("colonic inertia") | **Colonic transit testing off treatment**, ideally repeated **on a maximal laxative regimen** to document refractoriness [[aga-2026-refractory-constipation]] | [[chronic-idiopathic-constipation]] |
 | **Defecatory disorder** | Inadequate rectal propulsive forces and/or impaired relaxation or paradoxical contraction of the external anal sphincter and/or puborectalis | ARM + BET (± defecography) — see [[defecation-disorders]] | [[biofeedback-therapy\|Biofeedback]], not secretagogues |
 
@@ -65,15 +65,15 @@ Most patients hold misconceptions about normal bowel habit, so the normal range 
 
 ## Differential Diagnosis
 
-**The first fork is IBS-C vs chronic constipation, and Rome V moved it.** Abdominal pain *or discomfort* must be present **≥3 days per month in the last 3 months** to qualify as [[irritable-bowel-syndrome|IBS]] — Rome IV required **≥1 day per week** over the previous 3 months. Rome V also **re-included "abdominal discomfort"** (removed in Rome IV) and added that the pain/discomfort **must not be continuous** (continuous pain points to a centrally mediated abdominal pain syndrome) [[rome-v-2026-dgbi]]. Net effect: **more patients now sort into IBS-C and fewer into chronic constipation** than under Rome IV — the pharmacologic recommendations differ by dose and agent, so the label matters.
+**The first fork is IBS with constipation (IBS-C) vs chronic constipation, and Rome V moved it.** Abdominal pain *or discomfort* must be present **≥3 days per month in the last 3 months** to qualify as [[irritable-bowel-syndrome|IBS]] — Rome IV required **≥1 day per week** over the previous 3 months. Rome V also **re-included "abdominal discomfort"** (removed in Rome IV) and added that the pain/discomfort **must not be continuous** (continuous pain points to a centrally mediated abdominal pain syndrome) [[rome-v-2026-dgbi]]. Net effect: **more patients now sort into IBS-C and fewer into chronic constipation** than under Rome IV — the pharmacologic recommendations differ by dose and agent, so the label matters.
 
 | Alternative | Discriminating feature |
 |---|---|
 | [[irritable-bowel-syndrome\|IBS-C]] | Abdominal pain/discomfort ≥3 days/month, intermittent, related to defecation |
 | Opioid-induced constipation (Rome V **C6**) | **New or worsening** constipation symptoms **when initiating, changing, or increasing opioid therapy** — criteria and management on [[opioid-induced-constipation]] |
 | [[defecation-disorders\|Defecatory disorder]] | Outlet symptoms; abnormal ARM/BET/imaging |
-| [[colorectal-cancer\|Colorectal cancer]] / benign colonic stricture | Alarm features (below); [[colonoscopy]] indicated |
-| [[colon-ischemia\|Ischaemic]], post-surgical, or [[inflammatory-bowel-disease\|IBD]]-related stricture | Endoscopically dilatable; identified at colonoscopy [[asge-2014-constipation]] |
+| [[colorectal-cancer\|Colorectal cancer (CRC)]] / benign colonic stricture | Alarm features (below); [[colonoscopy]] indicated |
+| [[colon-ischemia\|Ischaemic]], post-surgical, or [[inflammatory-bowel-disease\|inflammatory bowel disease (IBD)]]-related stricture | Endoscopically dilatable; identified at colonoscopy [[asge-2014-constipation]] |
 | [[rectal-prolapse\|Rectal prolapse]] / [[rectal-prolapse#Solitary Rectal Ulcer Syndrome\|solitary rectal ulcer syndrome]] | Solitary rectal ulcer at endoscopy suggests underlying prolapse [[asge-2014-constipation]] |
 | Hirschsprung disease | Suspected cases need [[anorectal-manometry\|ARM]] **plus deep biopsy**, not colonoscopy alone [[asge-2014-constipation]] |
 | Neurogenic bowel dysfunction | Known neurologic disease; transanal irrigation is a recognised adjunct [[aga-2026-refractory-constipation]] |
@@ -86,7 +86,7 @@ Patients should be **thoroughly evaluated for secondary causes** before being ca
   - **Before treating the constipation, address the opioid** [[aga-2019-opioid-induced-constipation]]: confirm the indication is appropriate, that the patient is in a pain management program, and that the **minimum necessary dose** is being taken. Consider **opioid switching** to an **equianalgesic dose of a less-constipating opioid** — oral/parenteral morphine preparations may constipate more than **transdermal opioids such as fentanyl**, and combination opioid agonist/antagonist agents (e.g. oxycodone + naloxone) carry a lower risk of constipation
 - **Disordered eating**
 - **Comorbid neurological disease** (including autonomic dysfunction — see the off-label pyridostigmine option on [[chronic-idiopathic-constipation]])
-- **Metabolic/organic conditions excluded from the CIC evidence base** — hypothyroidism and [[celiac-disease|celiac disease]] were explicit exclusions when the CIC pharmacologic recommendations were derived, as were opioid-induced constipation and IBS-C [[aga-acg-2023-constipation]]
+- **Metabolic/organic conditions excluded from the chronic idiopathic constipation (CIC) evidence base** — hypothyroidism and [[celiac-disease|celiac disease]] were explicit exclusions when the CIC pharmacologic recommendations were derived, as were opioid-induced constipation and IBS-C [[aga-acg-2023-constipation]]
 
 ---
 
@@ -103,7 +103,7 @@ flowchart TD
     E --> F{"Abdominal pain or discomfort<br/>≥3 days/month, intermittent?"}
     F -->|Yes| G["IBS-C — different agents and doses"]
     F -->|No| H["Exclude secondary causes:<br/>medications, disordered eating,<br/>neurologic disease"]
-    H --> I["Lifestyle / dietary measures<br/>+ OTC agents"]
+    H --> I["Lifestyle / dietary measures<br/>+ over-the-counter (OTC) agents"]
     I --> J{"Adequate response?"}
     J -->|Yes| K["Continue; no physiologic testing needed"]
     J -->|No| L["Anorectal manometry + balloon expulsion test"]
@@ -118,7 +118,7 @@ flowchart TD
     Q -->|No| S["Do not operate — treat the<br/>defecatory disorder first"]
 ```
 
-*The ACG 2021 evaluation figure for suspected defecatory disorder is reproduced on [[defecation-disorders]]; it is not duplicated here.*
+*The American College of Gastroenterology (ACG) 2021 evaluation figure for suspected defecatory disorder is reproduced on [[defecation-disorders]]; it is not duplicated here.*
 
 ---
 
@@ -128,10 +128,10 @@ flowchart TD
 
 | Test | Question it answers | When to order |
 |---|---|---|
-| **[[colonoscopy]]** | Is there organic colorectal disease? | **Not** part of the initial evaluation absent alarm features or suspicion of organic GI disease *(ASGE 2014, moderate quality)*. Order it for rectal bleeding, heme-positive stool, iron-deficiency anaemia, or weight loss; **before surgical therapy** for chronic constipation; or for age-appropriate [[colorectal-cancer-screening\|CRC screening]] not yet done [[asge-2014-constipation]] |
-| **[[anorectal-manometry\|ARM]] + balloon expulsion test (BET)** | Is this a defecatory disorder? | **Most patients with CC** should have ARM + BET (and complete a biofeedback course when indicated) **before being labelled refractory** [[aga-2026-refractory-constipation]]. ACG 2021 requires **both** tests to diagnose a defecatory disorder; **Rome V accepts any 1 of 3** (balloon expulsion, manometry, or imaging) and has **dropped EMG** — see the version table on [[defecation-disorders]] |
+| **[[colonoscopy]]** | Is there organic colorectal disease? | **Not** part of the initial evaluation absent alarm features or suspicion of organic gastrointestinal (GI) disease *(American Society for Gastrointestinal Endoscopy [ASGE] 2014, moderate quality)*. Order it for rectal bleeding, heme-positive stool, iron-deficiency anaemia, or weight loss; **before surgical therapy** for chronic constipation; or for age-appropriate [[colorectal-cancer-screening\|CRC screening]] not yet done [[asge-2014-constipation]] |
+| **[[anorectal-manometry\|ARM]] + balloon expulsion test (BET)** | Is this a defecatory disorder? | **Most patients with CC** should have ARM + BET (and complete a biofeedback course when indicated) **before being labelled refractory** [[aga-2026-refractory-constipation]]. ACG 2021 requires **both** tests to diagnose a defecatory disorder; **Rome V accepts any 1 of 3** (balloon expulsion, manometry, or imaging) and has **dropped electromyography (EMG)** — see the version table on [[defecation-disorders]] |
 | **Colonic transit testing** (radiopaque markers or wireless motility capsule) | Is transit slow, and is it slow *despite* treatment? | After ARM + BET. Wireless motility capsules additionally quantify **regional** gut transit. Order it **off treatment** to document slow transit and **ideally again on a maximal laxative regimen** to document refractoriness [[aga-2026-refractory-constipation]] |
-| **Defecography (barium or MR)** | Is there a structural cause, or does imaging resolve a discordant ARM/BET? | When clinical features suggest a structural abnormality, or **ARM and BET are inconclusive/discordant**, or pelvic organ prolapse is clinically suspected [[acg-2021-anorectal-disorders]], [[aga-2026-refractory-constipation]] |
+| **Defecography (barium or magnetic resonance [MR])** | Is there a structural cause, or does imaging resolve a discordant ARM/BET? | When clinical features suggest a structural abnormality, or **ARM and BET are inconclusive/discordant**, or pelvic organ prolapse is clinically suspected [[acg-2021-anorectal-disorders]], [[aga-2026-refractory-constipation]] |
 | **Gastric emptying / regional gut transit** | Is there upper-gut dysmotility that predicts a poor surgical outcome? | **Preoperatively.** Recurrent constipation and poor quality of life after colectomy were more common in patients with pre-existing upper GI dysmotility [[aga-2026-refractory-constipation]] |
 
 **Defecography — modality choice** [[aga-2026-refractory-constipation]]:
@@ -140,7 +140,7 @@ flowchart TD
 |---|---|---|
 | Position | **Seated** — preferable when the question is **rectal evacuation** | Supine |
 | Radiation | Yes | **None** |
-| Strengths | Evacuation dynamics | More precise pelvic organ prolapse and pelvic floor motion; identifies **>90%** of large rectocele, enterocele and/or peritoneocele in patients with clinical DD features and a **normal BET** |
+| Strengths | Evacuation dynamics | More precise pelvic organ prolapse and pelvic floor motion; identifies **>90%** of large rectocele, enterocele and/or peritoneocele in patients with clinical defecatory disorder features and a **normal BET** |
 | Limits | Radiation exposure | Less widely available, more expensive |
 
 Findings identified on defecography: inadequate or excessive widening of the **anorectal angle** and/or **perineal descent** during defecation; internal intussusception; solitary rectal ulcer; rectocele; rectal prolapse; enterocele; bladder and uterovaginal prolapse. Anatomic findings are **more likely to be clinically relevant** when the ARM is normal with impaired contrast evacuation, or when the **rectocele is >4 cm** [[aga-2026-refractory-constipation]].

@@ -18,17 +18,17 @@ sources: []
 
 ## Summary
 
-Comprehensive AASLD guidance on ascites and hepatorenal syndrome in chronic liver disease. Replaces the 2012 AASLD guideline on the same topic (Table 1 lists what changed).
+Comprehensive American Association for the Study of Liver Diseases (AASLD) guidance on ascites and hepatorenal syndrome (HRS) in chronic liver disease. Replaces the 2012 AASLD guideline on the same topic (Table 1 lists what changed).
 
 Scope:
 
 - Diagnosis and graded management of [[ascites]] (grade 1–3; responsive, recurrent, refractory)
 - [[spontaneous-bacterial-peritonitis|Spontaneous bacterial peritonitis]] (SBP), spontaneous bacteremia, and spontaneous bacterial empyema (SBE)
 - Hyponatremia, hepatic hydrothorax (HH), and abdominal hernias in cirrhosis
-- AKI in cirrhosis and [[aki-in-cirrhosis|hepatorenal syndrome–AKI]] (HRS-AKI), RRT, and simultaneous liver–kidney transplantation
+- Acute kidney injury (AKI) in cirrhosis and [[aki-in-cirrhosis|hepatorenal syndrome–AKI]] (HRS-AKI), renal replacement therapy (RRT), and simultaneous liver–kidney transplantation
 - Pediatric ascites (new section in this edition)
 
-**What's new vs. 2012 (Table 1):** directions on diagnostic evaluation of ascites by clinical setting (Table 3); explicit ascites definitions/characteristics (Tables 5 and 7); updated ascites management figure including albumin use (Figure 3); more specific hyponatremia definitions and management; updated LT guidance for HH (Table 8) and for simultaneous liver–kidney candidates; expanded antibiotic table (Table 9); substantially expanded AKI section (Figure 4; Tables 10–12); new pediatric section.
+**What's new vs. 2012 (Table 1):** directions on diagnostic evaluation of ascites by clinical setting (Table 3); explicit ascites definitions/characteristics (Tables 5 and 7); updated ascites management figure including albumin use (Figure 3); more specific hyponatremia definitions and management; updated liver transplantation (LT) guidance for HH (Table 8) and for simultaneous liver–kidney candidates; expanded antibiotic table (Table 9); substantially expanded AKI section (Figure 4; Tables 10–12); new pediatric section.
 
 ## Guidance Statements (complete, 68 statements)
 
@@ -37,7 +37,7 @@ Reproduced near-verbatim, grouped by the guidance's own boxed sections. The docu
 ### Initial diagnosis of ascites
 
 1. A diagnostic paracentesis should be performed in all patients with new-onset ascites that is accessible for sampling.
-2. The initial laboratory investigation of ascitic fluid should include ascitic fluid neutrophil count, ascitic fluid total protein, ascitic fluid albumin, and serum albumin to calculate the serum-ascites albumin gradient.
+2. The initial laboratory investigation of ascitic fluid should include ascitic fluid neutrophil count, ascitic fluid total protein, ascitic fluid albumin, and serum albumin to calculate the serum-ascites albumin gradient [SAAG].
 
 ### Dietary sodium restriction, diuretics, grade 2 and grade 3 ascites
 
@@ -46,7 +46,7 @@ Reproduced near-verbatim, grouped by the guidance's own boxed sections. The docu
 5. Fluid restriction is not necessary for ascites management unless there is concomitant moderate or severe hyponatremia (serum sodium ≤125 mmol/L).
 6. In patients receiving diuretics, body weight and serum creatinine and sodium should be regularly monitored to assess response and to detect the development of adverse effects.
 7. Human albumin solution (20–40 g/week) or baclofen administration (10 mg/day, with a weekly increase of 10 mg/day, up to 30 mg/day) can be considered in cases of severe muscle cramps.
-8. LVP is the first-line treatment of grade 3 ascites. After paracentesis, sodium restriction and diuretics should be started.
+8. LVP [large-volume paracentesis] is the first-line treatment of grade 3 ascites. After paracentesis, sodium restriction and diuretics should be started.
 9. Referral for LT evaluation should be considered in patients with grade 2 or 3 ascites.
 
 ### General medical management of cirrhosis with ascites
@@ -57,26 +57,26 @@ Reproduced near-verbatim, grouped by the guidance's own boxed sections. The docu
 
 ### Refractory ascites — medical treatment
 
-13. Continued dietary sodium restriction (<2 g/day) is required in patients with RA to reduce the rate of ascites accumulation.
+13. Continued dietary sodium restriction (<2 g/day) is required in patients with RA [refractory ascites] to reduce the rate of ascites accumulation.
 14. Fluid restriction is ineffective for the management of RA, but restricting fluid intake to less than 1,000 mL/day is recommended for treatment of hyponatremia (e.g., <125 mEq/L).
 15. In the management of RA, there are insufficient data to recommend the long-term use of albumin infusions outside the setting of large-volume paracenteses.
 
 ### Refractory ascites — LVP
 
 16. LVP is the first-line treatment for RA.
-17. Albumin infusion at the time of LVP of >5 L is recommended to mitigate the risk of PPCD. The risk of PPCD may increase with >8 L of fluid evacuated in one single session.
+17. Albumin infusion at the time of LVP of >5 L is recommended to mitigate the risk of PPCD [post-paracentesis circulatory dysfunction]. The risk of PPCD may increase with >8 L of fluid evacuated in one single session.
 18. The recommended dose of albumin replacement, based on expert opinion, is 6–8 g for every liter of ascites removed.
 
 ### Refractory ascites — TIPS and LT
 
-19. Careful patient selection is the key to the success of TIPS in the management of RA.
+19. Careful patient selection is the key to the success of TIPS [transjugular intrahepatic portosystemic shunt] in the management of RA.
 20. A small-diameter coated stent of less than 10 mm is preferred to reduce the likelihood of post-TIPS complications, including hepatic encephalopathy.
 21. If ascites recurs after initial clearance, a TIPS venogram should be considered, and TIPS revision should be performed if stenosis is identified. In those patients, periodic Doppler ultrasound surveillance should be considered.
 22. LT should be considered in patients with RA.
 
 ### NSBBs in refractory ascites
 
-23. Based on currently available data, NSBBs are not necessarily contraindicated in patients with RA. However, caution is recommended in patients with hypotension, hyponatremia, or AKI.
+23. Based on currently available data, NSBBs [nonselective beta-blockers] are not necessarily contraindicated in patients with RA. However, caution is recommended in patients with hypotension, hyponatremia, or AKI.
 
 ### Hyponatremia
 
@@ -84,7 +84,7 @@ Reproduced near-verbatim, grouped by the guidance's own boxed sections. The docu
 25. Water restriction to 1,000 mL/day and cessation of diuretics is recommended in the management of moderate hyponatremia (120–125 mEq/L), and a more severe restriction of water intake with albumin infusion is recommended for severe hyponatremia (<120 mEq/L).
 26. The use of vasopressin receptor antagonists in cirrhosis can raise serum sodium during treatment. However, they should be used with caution only for a short term (≤30 days).
 27. The use of hypertonic saline is reserved for short-term treatment of patients with symptomatic or severe hyponatremia or those with imminent LT.
-28. When correction of chronic hyponatremia is indicated in patients with cirrhosis, the goal rate of increase of serum (Na) is 4–6 mEq/L per 24-hour period, not to exceed 8 mEq/L per 24-hour period to ameliorate the risk of ODS.
+28. When correction of chronic hyponatremia is indicated in patients with cirrhosis, the goal rate of increase of serum (Na) is 4–6 mEq/L per 24-hour period, not to exceed 8 mEq/L per 24-hour period to ameliorate the risk of ODS [osmotic demyelination syndrome].
 29. Severe hyponatremia (<120 mEq/L) at time of LT increases the risk of ODS with LT. Multidisciplinary coordinated care may mitigate the risk of ODS.
 
 ### Hepatic hydrothorax
@@ -108,7 +108,7 @@ Reproduced near-verbatim, grouped by the guidance's own boxed sections. The docu
 
 ### SBP — management
 
-40. IV antibiotics should be started empirically in all patients with an ascites/pleural fluid PMN count >250/mm³.
+40. IV [intravenous] antibiotics should be started empirically in all patients with an ascites/pleural fluid PMN count >250/mm³.
 41. First-line empirical antibiotic therapy for community-acquired SBP/SBE is IV third-generation cephalosporin.
 42. In patients with a health care–associated or nosocomial infection or recent exposure to broad-spectrum antibiotics or who are admitted with sepsis or septic shock, empirical therapy with broad-spectrum antibiotics should be initiated as the first line.
 43. Response to empirical antibiotic therapy may be assessed by repeating diagnostic paracentesis/thoracentesis 2 days after initiation. A decrease in fluid PMN <25% from baseline indicates lack of response and should lead to broadening of antibiotic coverage and further evaluation to rule out secondary bacterial peritonitis.
@@ -125,7 +125,7 @@ Reproduced near-verbatim, grouped by the guidance's own boxed sections. The docu
 
 49. Once AKI is diagnosed, an investigation to uncover and treat precipitating factors must be conducted swiftly. Relevant risk factors include fluid losses, bacterial infections, hemodynamic instability, and potentially nephrotoxic agents (e.g., particularly nonsteroidal anti-inflammatory drugs).
 50. Hypovolemia-induced AKI should be managed with fluid replacement therapy, correction of the cause that led to volume depletion, and diuretic withdrawal.
-51. Differential diagnosis of AKI, HRS, and ATN is challenging and should follow the consensus criteria presented in the algorithm in Fig. 4.
+51. Differential diagnosis of AKI, HRS, and ATN [acute tubular necrosis] is challenging and should follow the consensus criteria presented in the algorithm in Fig. 4.
 
 ### HRS-AKI — treatment, RRT, transplantation
 
@@ -208,19 +208,19 @@ RA occurs in ~5%–10% of patients with cirrhosis and ascites; 6-month survival 
 - LVP arbitrarily defined as paracentesis of **>5 L**.
 - Albumin **6–8 g per liter removed** (expert opinion) when >5 L drained — e.g., ~40 g after 5 L, ~64 g after 8 L.
 - PPCD risk rises with **>8 L evacuated in a single session**; PPCD manifests as renal impairment/HRS, dilutional hyponatremia, hepatic encephalopathy, death.
-- Strongly consider albumin even for **smaller-volume** paracentesis if SBP <90 mm Hg, serum Na <130 mmol/L, or AKI.
-- Coagulopathy is **not** a contraindication: with INR >1.5 and platelets <50 ×10⁹/L, only 1% had minimal cutaneous bleeding; do not transfuse clotting factors or platelets. Possible exceptions — DIC, or uremia with thrombocytopenia (desmopressin may be considered).
+- Strongly consider albumin even for **smaller-volume** paracentesis if systolic blood pressure <90 mm Hg, serum Na <130 mmol/L, or AKI.
+- Coagulopathy is **not** a contraindication: with international normalized ratio (INR) >1.5 and platelets <50 ×10⁹/L, only 1% had minimal cutaneous bleeding; do not transfuse clotting factors or platelets. Possible exceptions — disseminated intravascular coagulation (DIC), or uremia with thrombocytopenia (desmopressin may be considered).
 
 ### TIPS in refractory ascites
 
-- MELD **≥18** identifies poor TIPS candidates; Figure 3 footnote gives "e.g., MELD >18" as the liver-dysfunction cut-off steering to LT rather than TIPS.
-- Small-diameter (**8–10 mm**) covered (PTFE) stents lower post-TIPS hepatic encephalopathy without loss of ascites control; guidance statement wording is "coated stent of less than 10 mm."
+- Model for End-Stage Liver Disease (MELD) **≥18** identifies poor TIPS candidates; Figure 3 footnote gives "e.g., MELD >18" as the liver-dysfunction cut-off steering to LT rather than TIPS.
+- Small-diameter (**8–10 mm**) covered (polytetrafluoroethylene [PTFE]) stents lower post-TIPS hepatic encephalopathy without loss of ascites control; guidance statement wording is "coated stent of less than 10 mm."
 - Ascites clearance after TIPS is **not immediate** — neurohormonal suppression and diuresis take 4–6 months; ~80% eventually clear ascites. Failure to clear despite a widely patent TIPS at 12 months → refer for LT.
 - Ascites carries mortality risk ≈4.5 MELD points beyond the score, especially when MELD <21.
 
 ### NSBBs in refractory ascites
 
-Caution (not absolute contraindication) if **systolic BP <90 mm Hg, serum Na <130 mmol/L, or creatinine >1.5 mg/dL**; NSBBs may be reintroduced if circulatory dysfunction improves.
+Caution (not absolute contraindication) if **systolic blood pressure (BP) <90 mm Hg, serum Na <130 mmol/L, or creatinine >1.5 mg/dL**; NSBBs may be reintroduced if circulatory dysfunction improves.
 
 ### Hyponatremia grading and correction
 
@@ -231,7 +231,7 @@ Caution (not absolute contraindication) if **systolic BP <90 mm Hg, serum Na <13
 | Severe | <120 mEq/L | More severe fluid restriction + albumin infusion |
 
 - Prevalence: hyponatremia (Na ≤135) in 49% of cirrhosis with ascites; Na ≤130 in 22%.
-- Na ≤130 mEq/L → increased odds of hepatic encephalopathy (OR 3.4), HRS (OR 3.5), SBP (OR 2.4).
+- Na ≤130 mEq/L → increased odds of hepatic encephalopathy (odds ratio [OR] 3.4), HRS (OR 3.5), SBP (OR 2.4).
 - **Correction rate (chronic):** goal 4–6 mEq/L per 24 h, **not to exceed 8 mEq/L per 24 h** (this is the *high-ODS-risk* target the panel adopts for advanced liver disease; the referenced US expert panel's average-risk target is 4–8 mEq/L/day not exceeding 10–12 mEq/24 h).
 - Acute hyponatremia (onset <48 h) can and typically should be corrected rapidly — cerebral edema risk outweighs ODS.
 - Vaptans: FDA limits tolvaptan to **30 days** with a black-box warning for serious hepatocellular injury (driven largely by polycystic kidney disease data; hepatotoxicity was not seen in cirrhosis trials). Effect is transient — only 22% sustained Na >130 mEq/L through treatment in one study; relapse by 7 days after stopping in another.
@@ -256,9 +256,9 @@ Caution (not absolute contraindication) if **systolic BP <90 mm Hg, serum Na <13
 
 ### SBP — microbiology and epidemiology
 
-- Bacterial infection present in ~⅓ of hospitalized patients with cirrhosis. Spontaneous infections 36% of infections, UTI 22%, pneumonia 19%, skin/soft tissue 8%.
+- Bacterial infection present in ~⅓ of hospitalized patients with cirrhosis. Spontaneous infections 36% of infections, urinary tract infection (UTI) 22%, pneumonia 19%, skin/soft tissue 8%.
 - Community-acquired ≈50%; health care–associated ≈25% (diagnosed <48 h after admission with health care contact <90 days); nosocomial ≈25% (>48 h after admission).
-- Typically monobacterial; ~60% gram-negative (*E. coli*, then *K. pneumoniae*, *S. aureus*, *E. faecalis*, *E. faecium*); fungi <5%. **MDRO account for 35% of infections in cirrhosis.**
+- Typically monobacterial; ~60% gram-negative (*E. coli*, then *K. pneumoniae*, *S. aureus*, *E. faecalis*, *E. faecium*); fungi <5%. **Multidrug-resistant organisms (MDRO) account for 35% of infections in cirrhosis.**
 - Bedside inoculation of **≥10 mL** ascitic fluid into blood culture bottles raises culture sensitivity to **>90%**.
 - **Bacterascites** (PMN <250/mm³ + positive culture, no signs of infection): do **not** treat — usually self-resolves or is a contaminant; repeat diagnostic paracentesis to check for progression to SBP.
 - A focal intra-abdominal inflammatory source (diverticulitis, cholecystitis) can raise PMN >250/mm³ — treat the specific condition, not SBP, and get a surgical consult.
@@ -270,17 +270,17 @@ Caution (not absolute contraindication) if **systolic BP <90 mm Hg, serum Na <13
 
 | Infection | Community acquired | Nosocomial / MDRO risk |
 |---|---|---|
-| Spontaneous (peritonitis, bacteremia, empyema) | Third-generation cephalosporin (e.g., IV cefotaxime 2 g q12h) | Piperacillin/tazobactam **AND** daptomycin (if known VRE or GI colonization) **OR** meropenem if known MDR gram-negatives. Add vancomycin for prior MRSA infection/positive surveillance swab; meropenem ± glycopeptide if current/recent piperacillin-tazobactam exposure |
+| Spontaneous (peritonitis, bacteremia, empyema) | Third-generation cephalosporin (e.g., IV cefotaxime 2 g q12h) | Piperacillin/tazobactam **AND** daptomycin (if known vancomycin-resistant enterococci [VRE] or gastrointestinal [GI] colonization) **OR** meropenem if known multidrug-resistant (MDR) gram-negatives. Add vancomycin for prior methicillin-resistant *Staphylococcus aureus* (MRSA) infection/positive surveillance swab; meropenem ± glycopeptide if current/recent piperacillin-tazobactam exposure |
 | Pyelonephritis | Fluoroquinolone (ciprofloxacin or levofloxacin) | Third-generation cephalosporin (e.g., ceftriaxone); if recent antibiotic exposure — piperacillin/tazobactam **or** carbapenem |
 | Pneumonia | Nonsevere: β-lactam + macrolide **or** respiratory fluoroquinolone. Severe: β-lactam + macrolide or β-lactam + fluoroquinolone. Add vancomycin if prior respiratory MRSA | Nonsevere (not septic/intubated): piperacillin/tazobactam **or** cefepime **or** levofloxacin. Severe (sepsis or intubation): piperacillin/tazobactam **or** cefepime **or** meropenem + levofloxacin. Add vancomycin if MRSA culture/screen or antibiotics in last 90 days; add *Pseudomonas* coverage for prior respiratory *Pseudomonas*, recent parenteral antibiotics, or hospitalization |
 | Cellulitis | Moderate (systemic signs): penicillin or ceftriaxone or cefazolin or clindamycin | Severe (failed antibiotics, sepsis): vancomycin + piperacillin/tazobactam |
 
 ### SBP prophylaxis — the numbers behind the recommendations
 
-- **Secondary:** 1-year recurrence 20% with norfloxacin vs 68% with placebo. Norfloxacin was withdrawn from the US market in 2014; oral ciprofloxacin 500 mg/day is a reasonable alternative *although direct evidence is lacking*. One single-center open-label RCT: [[rifaximin]] had lower 6-month recurrent SBP than norfloxacin (4% vs 14%). Data for sulfamethoxazole/trimethoprim are not high quality.
+- **Secondary:** 1-year recurrence 20% with norfloxacin vs 68% with placebo. Norfloxacin was withdrawn from the US market in 2014; oral ciprofloxacin 500 mg/day is a reasonable alternative *although direct evidence is lacking*. One single-center open-label randomized controlled trial (RCT): [[rifaximin]] had lower 6-month recurrent SBP than norfloxacin (4% vs 14%). Data for sulfamethoxazole/trimethoprim are not high quality.
 - **Primary, GI hemorrhage:** short-term (5–7 days) selective intestinal decontamination reduced infections and improved survival; IV ceftriaxone is now preferred, given until hemorrhage has resolved and vasoactive drugs are stopped, maximum 7 days. Rule out SBP and other infections before starting.
-- **Primary, low-protein ascites:** landmark trial — 1-year probability of first SBP 7% with norfloxacin vs 60% with placebo in patients with low-protein ascites **and** advanced liver failure (CTP >9 with bilirubin >3 mg/dL) **or** impaired renal function (creatinine >1.2 mg/dL, BUN >25 mg/dL, or Na <130 mEq/L). HRS incidence was also lower, though mortality past 3 months was not improved. A later large RCT of norfloxacin vs placebo in Child C patients failed its primary endpoint of improved survival, although norfloxacin prevented SBP.
-- The panel judges the evidence for primary prophylaxis **not strong** and restricts it to very advanced cirrhosis, individualized; fluoroquinolone safety restrictions/warnings from FDA and EMA must be kept in mind.
+- **Primary, low-protein ascites:** landmark trial — 1-year probability of first SBP 7% with norfloxacin vs 60% with placebo in patients with low-protein ascites **and** advanced liver failure (Child-Turcotte-Pugh [CTP] >9 with bilirubin >3 mg/dL) **or** impaired renal function (creatinine >1.2 mg/dL, blood urea nitrogen [BUN] >25 mg/dL, or Na <130 mEq/L). HRS incidence was also lower, though mortality past 3 months was not improved. A later large RCT of norfloxacin vs placebo in Child C patients failed its primary endpoint of improved survival, although norfloxacin prevented SBP.
+- The panel judges the evidence for primary prophylaxis **not strong** and restricts it to very advanced cirrhosis, individualized; fluoroquinolone safety restrictions/warnings from FDA and the European Medicines Agency (EMA) must be kept in mind.
 
 ### AKI staging (Table 10)
 
@@ -292,7 +292,7 @@ Caution (not absolute contraindication) if **systolic BP <90 mm Hg, serum Na <13
 
 Within stage 1 the absolute creatinine matters — stage 1 with creatinine ≥1.5 mg/dL fares significantly worse; some of the writing group favored substaging 1A (<1.5 mg/dL) / 1B (≥1.5 mg/dL), the rest considered the effect continuous.
 
-- **AKI definition (ICA):** increase in serum creatinine ≥0.3 mg/dL within 48 hours, **or** ≥50% increase known or presumed to have occurred within the preceding 7 days. Stable creatinine within the previous 3 months before hospitalization may be used as baseline.
+- **AKI definition (International Club of Ascites [ICA]):** increase in serum creatinine ≥0.3 mg/dL within 48 hours, **or** ≥50% increase known or presumed to have occurred within the preceding 7 days. Stable creatinine within the previous 3 months before hospitalization may be used as baseline.
 - AKI prevalence in hospitalized decompensated cirrhosis 27%–53%; 30-day mortality 29%–44%.
 - Etiologies: hypovolemia 27%–50%, HRS-AKI 15%–43%, ATN 14%–35%.
 
@@ -301,21 +301,21 @@ Within stage 1 the absolute creatinine matters — stage 1 with creatinine ≥1.
 All of:
 
 - Cirrhosis with ascites
-- AKI by International Club of Ascites criteria
+- AKI by ICA criteria
 - No response after **2 consecutive days** of diuretic withdrawal and plasma volume expansion with albumin **1 g/kg body weight per day**
 - Absence of shock
-- No current or recent use of nephrotoxic drugs (NSAIDs, aminoglycosides, iodinated contrast media)
-- No signs of structural kidney injury — i.e. **proteinuria >500 mg/day, microhematuria >50 RBC/hpf, and/or abnormal renal ultrasonography**
+- No current or recent use of nephrotoxic drugs (nonsteroidal anti-inflammatory drugs [NSAIDs], aminoglycosides, iodinated contrast media)
+- No signs of structural kidney injury — i.e. **proteinuria >500 mg/day, microhematuria >50 red blood cells (RBC)/high-power field (hpf), and/or abnormal renal ultrasonography**
 
-The old **type-1 HRS** terminology is replaced by HRS-AKI; therapeutic trials to date used the historical definition (100% increase in creatinine to >2.5 mg/dL within <2 weeks). Old **type-2 HRS** falls under the current definition of CKD.
+The old **type-1 HRS** terminology is replaced by HRS-AKI; therapeutic trials to date used the historical definition (100% increase in creatinine to >2.5 mg/dL within <2 weeks). Old **type-2 HRS** falls under the current definition of chronic kidney disease (CKD).
 
 ### HRS-AKI treatment — doses
 
 | Agent | Regimen |
 |---|---|
 | Terlipressin (preferred; not available in US/Canada at publication) | IV bolus, or continuous IV infusion starting 2 mg/day increased every 24–48 h up to 12 mg/day until creatinine decreases (continuous infusion reduces ischemic side effects) |
-| Norepinephrine (alternative; typically ICU) | Continuous IV infusion starting 0.5 mg/hour; target MAP increase ≥10 mm Hg or urine output >200 mL/4 h; if not achieved, increase every 4 h by 0.5 mg/hour to a maximum of 3 mg/hour. Albumin also given to maintain CVP 4–10 mm Hg |
-| Midodrine + octreotide (much lower efficacy) | Midodrine 5–15 mg PO q8h + octreotide 100–200 μg q8h or 50 μg/hour IV |
+| Norepinephrine (alternative; typically intensive care unit [ICU]) | Continuous IV infusion starting 0.5 mg/hour; target mean arterial pressure (MAP) increase ≥10 mm Hg or urine output >200 mL/4 h; if not achieved, increase every 4 h by 0.5 mg/hour to a maximum of 3 mg/hour. Albumin also given to maintain central venous pressure (CVP) 4–10 mm Hg |
+| Midodrine + octreotide (much lower efficacy) | Midodrine 5–15 mg by mouth (PO) q8h + octreotide 100–200 μg q8h or 50 μg/hour IV |
 | Albumin (with vasoconstrictor) | 1 g/kg on day 1, then 40–50 g/day for the duration of therapy |
 
 - Response rate to vasoconstrictor + albumin 20%–80% (average ~50%).
@@ -325,7 +325,7 @@ The old **type-1 HRS** terminology is replaced by HRS-AKI; therapeutic trials to
 
 ### Urine NGAL for distinguishing ATN from other AKI (Table 12)
 
-| Study | AKI n | HRS n | ATN n | AUROC (ATN vs other) | Cutoff | Sn/Sp (%) |
+| Study | AKI n | HRS n | ATN n | Area under the receiver operating characteristic curve (AUROC) (ATN vs other) | Cutoff | Sensitivity/specificity (Sn/Sp) (%) |
 |---|---|---|---|---|---|---|
 | Fagundes 2012 | 84 | 33 | 11 | NA | 194 µg/g | 91/82 |
 | Verna 2012 | 52 | 20 | 15 | 0.86 | 110 ng/mL | 88/85 |
@@ -333,18 +333,18 @@ The old **type-1 HRS** terminology is replaced by HRS-AKI; therapeutic trials to
 | Ariza 2015 | 39 | 12 | 15 | 0.95 | 294 µg/g | 92/89 |
 | Huelin 2019 (day 3) | 320 | 93 | 39 | 0.87 | 220 µg/g | 88/85 |
 
-Best cutoffs for ATN vs other AKI: **365 ng/mL (ELISA)** and **220 µg/g creatinine (particle-enhanced turbidimetry)**. Best timing appears to be **day 3** after AKI diagnosis. Not widely available.
+Best cutoffs for ATN vs other AKI: **365 ng/mL (enzyme-linked immunosorbent assay [ELISA])** and **220 µg/g creatinine (particle-enhanced turbidimetry)**. Best timing appears to be **day 3** after AKI diagnosis. Not widely available.
 
 ### Simultaneous liver–kidney transplantation eligibility (Table 13, OPTN 2017)
 
-1. **AKI ≥6 consecutive weeks** with one or a combination of both (weekly documentation): dialysis; eGFR/CrCl ≤25 mL/min
-2. **CKD with GFR ≤60 mL/min for >90 days** with one of: end-stage renal disease; eGFR/CrCl ≤30 mL/min at the time of or after registration on the kidney waiting list
+1. **AKI ≥6 consecutive weeks** with one or a combination of both (weekly documentation): dialysis; estimated glomerular filtration rate (eGFR)/creatinine clearance (CrCl) ≤25 mL/min
+2. **CKD with glomerular filtration rate (GFR) ≤60 mL/min for >90 days** with one of: end-stage renal disease; eGFR/CrCl ≤30 mL/min at the time of or after registration on the kidney waiting list
 3. **Metabolic diseases**
 4. **Safety net:** any patient registered on the kidney waitlist between 60 and 365 days after LT who is either on chronic hemodialysis or has an eGFR <20 mL/min qualifies for increased priority
 
 ### Pediatric specifics
 
-- Underlying causes: biliary atresia, PSC, autoimmune hepatitis, cholestatic genetic disorders, [[wilson-disease|Wilson disease]], alpha-1 antitrypsin deficiency, congenital infections, mitochondrial disorders, tyrosinemia. In biliary atresia ~13% develop ascites within 90 days of Kasai, 38% by 2 years.
+- Underlying causes: biliary atresia, primary sclerosing cholangitis (PSC), autoimmune hepatitis, cholestatic genetic disorders, [[wilson-disease|Wilson disease]], alpha-1 antitrypsin deficiency, congenital infections, mitochondrial disorders, tyrosinemia. In biliary atresia ~13% develop ascites within 90 days of Kasai, 38% by 2 years.
 - Sodium <2 mmol/kg/day; water restriction generally when Na ≤125 mEq/L.
 - Spironolactone 1–4 mg/kg/day (start 1–2 mg/kg/day, change doses at 3–5 day intervals); furosemide start 0.5 mg/kg/dose twice daily.
 - Grade 3/RA: 25% albumin + furosemide 0.5–1.0 mg/kg when serum albumin low (e.g., <2.5 g/dL).
@@ -361,8 +361,8 @@ Best cutoffs for ATN vs other AKI: **365 ng/mL (ELISA)** and **220 µg/g creatin
 
 ## Contradictions / Open Questions
 
-- **Superseded in part by newer tier-1 sources.** [[aga-2025-ascites-cirrhosis]] (AGA clinical practice update) and [[aga-2022-aki-cirrhosis]] are newer within the same tier and govern where they conflict; this 2021 guidance remains the fuller reference for hepatic hydrothorax, hernias, pediatrics, and the antibiotic table.
-- **Not a graded guideline.** This is a Practice Guidance built on expert consensus — no GRADE strength or evidence-quality ratings are assigned to any statement. Treat every statement above as ungraded consensus.
+- **Superseded in part by newer tier-1 sources.** [[aga-2025-ascites-cirrhosis]] (American Gastroenterological Association [AGA] clinical practice update) and [[aga-2022-aki-cirrhosis]] are newer within the same tier and govern where they conflict; this 2021 guidance remains the fuller reference for hepatic hydrothorax, hernias, pediatrics, and the antibiotic table.
+- **Not a graded guideline.** This is a Practice Guidance built on expert consensus — no Grading of Recommendations Assessment, Development and Evaluation (GRADE) strength or evidence-quality ratings are assigned to any statement. Treat every statement above as ungraded consensus.
 - **Terlipressin availability is now stale.** The guidance states terlipressin was not available or approved in the US/Canada at the time of writing and reports CONFIRM only in abstract form. Terlipressin has since been FDA-labeled for HRS-AKI, with US dosing detailed in [[aga-2024-vasoactive-albumin-cirrhosis]]; that newer source governs current US practice.
 - **Secondary SBP prophylaxis agent.** The guidance statement names **daily norfloxacin** as the drug, with ciprofloxacin only "acceptable" where norfloxacin is unavailable — yet the same document notes norfloxacin was withdrawn from the US market in 2014 and that direct evidence for ciprofloxacin 500 mg/day is lacking. In US practice the guidance's first-line drug does not exist.
 - **Hyponatremia correction rate.** The guidance adopts the more conservative high-ODS-risk target (4–6 mEq/L/24 h, cap 8) rather than the referenced expert panel's average-risk target (4–8 mEq/L/day, cap 10–12) because advanced liver disease is itself an ODS risk factor.

@@ -14,13 +14,13 @@ sources: []
 - **Year:** 2020
 - **Journal/Publisher:** *Clinical Gastroenterology and Hepatology* 2020;18(11):2415–2424
 - **DOI:** [10.1016/j.cgh.2020.05.058](https://doi.org/10.1016/j.cgh.2020.05.058)
-- **Type:** guideline (AGA Institute Clinical Practice Update — Expert Review)
+- **Type:** guideline (American Gastroenterological Association [AGA] Institute Clinical Practice Update — Expert Review)
 
-**Methodology (verbatim).** *"The evidence reviewed in this manuscript is a summation of relevant scientific publications, expert opinion statements, and current practice guidelines."* No formal systematic review and **no evidence grading or strength rating** is applied to the Best Practice Advice statements.
+**Methodology (verbatim).** *"The evidence reviewed in this manuscript is a summation of relevant scientific publications, expert opinion statements, and current practice guidelines."* No formal systematic review and **no evidence grading or strength rating** is applied to the Best Practice Advice (BPA) statements.
 
-**Definition (verbatim, and it is the operative one).** Young adult–onset CRC is *"CRC diagnosed in individuals 18 - <50 years of age."*
+**Definition (verbatim, and it is the operative one).** Young adult–onset colorectal cancer (CRC) is *"CRC diagnosed in individuals 18 - <50 years of age."*
 
-⚠ **This source predates the move of average-risk screening to age 45.** It was written while the ACS (45) and USPSTF (50) disagreed, and it argues *neither* side. See *Contradictions / Open Questions* — [[usmstf-2021-crc-screening-age]] and [[acg-2021-crc-screening]] are newer tier-1 sources and **govern the screening-age question**; this CPU governs what to do **once a young adult has CRC**.
+⚠ **This source predates the move of average-risk screening to age 45.** It was written while the American Cancer Society (ACS) (45) and US Preventive Services Task Force (USPSTF) (50) disagreed, and it argues *neither* side. See *Contradictions / Open Questions* — [[usmstf-2021-crc-screening-age|US Multi-Society Task Force (USMSTF) 2021]] and [[acg-2021-crc-screening|American College of Gastroenterology (ACG) 2021]] are newer tier-1 sources and **govern the screening-age question**; this Clinical Practice Update (CPU) governs what to do **once a young adult has CRC**.
 
 ---
 
@@ -30,7 +30,7 @@ The first tier-1 source here on **young adult–onset colorectal cancer** as a d
 
 The single most decision-relevant statement is **BPA 1**, and it is a diagnostic rule, not a screening rule: *diagnostic* evaluation of the colon and rectum is encouraged for **all patients irrespective of age** who present with symptoms that may be consistent with CRC — rectal bleeding, weight loss, change in bowel habit, abdominal pain, iron deficiency anemia. The update states the principle plainly: the signs and symptoms that would prompt a diagnostic colon exam in a person over 50 should prompt a diagnostic colonoscopy in the person under 50. This exists because diagnosis in young patients is delayed **an average of 6 months**, and because **70% of sporadic young adult–onset CRC patients have no family history**, so they are not eligible for high-risk screening and will present symptomatically.
 
-The genetics arm is equally concrete. **Roughly 1 in 5 (20%) young adult–onset CRCs are caused by a germline mutation, and about half of those are [[lynch-syndrome|Lynch syndrome]].** BPA 2 therefore asks for a **first- and second-degree** family history of colorectal *and other* cancers and germline testing **regardless of family history** — either targeted by phenotype or by multiplex panel. BPA 4 makes the timing operative: testing belongs in the **pre-surgical period**, because the syndrome determines which operation is offered (e.g. ileorectostomy vs segmental resection vs IPAA). Separately, and applying to **all** CRC regardless of age, the CPU states that **tumor MSI testing or IHC for MLH1, MSH2, MSH6 and PMS2 should be done on every young adult–onset CRC** — prognostic in stage I–II and predictive of immunotherapy response in stage IV.
+The genetics arm is equally concrete. **Roughly 1 in 5 (20%) young adult–onset CRCs are caused by a germline mutation, and about half of those are [[lynch-syndrome|Lynch syndrome]].** BPA 2 therefore asks for a **first- and second-degree** family history of colorectal *and other* cancers and germline testing **regardless of family history** — either targeted by phenotype or by multiplex panel. BPA 4 makes the timing operative: testing belongs in the **pre-surgical period**, because the syndrome determines which operation is offered (e.g. ileorectostomy [IRA] vs segmental resection vs ileal pouch–anal anastomosis [IPAA]). Separately, and applying to **all** CRC regardless of age, the CPU states that **tumor microsatellite instability (MSI) testing or immunohistochemistry (IHC) for MLH1, MSH2, MSH6 and PMS2 should be done on every young adult–onset CRC** — prognostic in stage I–II and predictive of immunotherapy response in stage IV.
 
 **BPA 6 is the statement most likely to change practice in the opposite direction from expectation** — it is a *de-escalation*. Hereditary-syndrome-specific CRC and extracolonic screening is offered **only** to patients with a genetically or clinically diagnosed hereditary syndrome. **For sporadic young adult–onset CRC, extracolonic screening and CRC surveillance intervals are the same as for older adult–onset CRC.** Being young is not itself a reason to surveil more intensively.
 
@@ -72,9 +72,9 @@ The CPU carries one decision figure — **Figure 1, *"Management of young adult�
 
 | Group | Finding |
 |---|---|
-| Non-Hispanic White | **Largest relative increase** in incidence 2000–2014 (**47%**), driven by rectal cancer (2.7 → 4.5 per 100,000, 2000–2010) |
+| Non-Hispanic White (NHW) | **Largest relative increase** in incidence 2000–2014 (**47%**), driven by rectal cancer (2.7 → 4.5 per 100,000, 2000–2010) |
 | African American (not classified by Hispanic ethnicity) | **Highest overall incidence** (**12.7 per 100,000** vs 11.0 for NHW); highest incidence of both distal and proximal colon cancer; in the 40 to <50 age band, **29 vs 23 per 100,000** |
-| African American vs NHW survival | **Lower overall survival, higher cancer-specific death** — HR **1.35** colon, **1.51** rectal/rectosigmoid. Proximal colon survival improved for NHW (50% in 1992–1996 → 70% in 2010–2014) but **stayed at 55% and did not improve** for AA individuals. Stage IV overall survival poorer in AA individuals |
+| African American vs NHW survival | **Lower overall survival, higher cancer-specific death** — hazard ratio (HR) **1.35** colon, **1.51** rectal/rectosigmoid. Proximal colon survival improved for NHW (50% in 1992–1996 → 70% in 2010–2014) but **stayed at 55% and did not improve** for African American (AA) individuals. Stage IV overall survival poorer in AA individuals |
 | Hispanic | Incidence rising **15% annually** in the 20–29 age band; present on average **10 years earlier** than NHW individuals; overall survival not significantly different from NHW |
 
 ### Presentation — why the diagnosis is late
@@ -87,14 +87,14 @@ The CPU carries one decision figure — **Figure 1, *"Management of young adult�
 
 ### Risk factors
 
-- **[[inflammatory-bowel-disease|IBD]]**, a **pathogenic germline mutation** for a hereditary cancer syndrome, and a **history of irradiation** are each associated with higher risk.
-- **Family history of CRC in a first-degree relative: OR 4.50.** Broken down — **sibling with CRC: OR 11.68**; **parent with CRC: OR 3.75**.
-- Environmental/behavioral associations named: higher-calorie, meat-predominant, low fruit-and-vegetable diet; higher BMI; decreased activity; **excessive sedentary time (television hours), particularly for rectal cancer**. ⚠ **High BMI in childhood or young adulthood was associated with increased colon cancer risk but *not* rectal cancer risk.**
+- **[[inflammatory-bowel-disease|Inflammatory bowel disease (IBD)]]**, a **pathogenic germline mutation** for a hereditary cancer syndrome, and a **history of irradiation** are each associated with higher risk.
+- **Family history of CRC in a first-degree relative: odds ratio (OR) 4.50.** Broken down — **sibling with CRC: OR 11.68**; **parent with CRC: OR 3.75**.
+- Environmental/behavioral associations named: higher-calorie, meat-predominant, low fruit-and-vegetable diet; higher body mass index (BMI); decreased activity; **excessive sedentary time (television hours), particularly for rectal cancer**. ⚠ **High BMI in childhood or young adulthood was associated with increased colon cancer risk but *not* rectal cancer risk.**
 
 ### Molecular features
 
 - Young adult–onset distal colon and rectal tumors showed **high frequencies of somatic mutations in histone modifier genes, higher tumor mutation burden, and a greater proportion of MSI** than older-onset tumors (350-tumor series).
-- **Deficient MMR** arises from germline mutations in **MLH1, MSH2, MSH6, PMS2** (= Lynch syndrome) or from **promoter hypermethylation, most commonly MLH1, in up to 20% of sporadic colon cancers**.
+- **Deficient mismatch repair (MMR)** arises from germline mutations in **MLH1, MSH2, MSH6, PMS2** (= Lynch syndrome) or from **promoter hypermethylation, most commonly MLH1, in up to 20% of sporadic colon cancers**.
 - **MACS** (microsatellite and chromosome stable) tumors — roughly half of microsatellite-stable CRCs — often arise in the **distal colon and rectum**, are **less immunogenic**, and young adults with MACS CRC **may be more likely to have a family history** without an identified genetic cause.
 - **BRAF V600E and APC mutations are *less* frequent** in young adult–onset CRC. Somatic mutations in **MYCBP2, BRCA2, PHLPP1, TOPORS and ATR** occurred more frequently. **LINE-1 hypomethylation** is more common than in older-onset tumors.
 - **Consensus molecular subtyping (CMS):** patients aged 40 and under are more likely to have **CMS1 (MSI/immune)** or **CMS2 (canonical APC/β-catenin)** than CMS3 (metabolic) or CMS4 (mesenchymal). CMS is prognostic for overall and progression-free survival and predictive of chemotherapy benefit in stage III.
@@ -103,8 +103,8 @@ The CPU carries one decision figure — **Figure 1, *"Management of young adult�
 
 - **~20% of young adult–onset CRC patients carry a germline pathogenic mutation, and about half of those have Lynch syndrome.**
 - **Tumor MSI testing or IHC for MLH1, MSH2, MSH6, PMS2 should be done on all young adult–onset CRC** — and, per this source, on **all CRC regardless of age of onset** — because it is prognostic in stage I–II and **predictive of immunotherapy response in stage IV**.
-- Two routes to germline evaluation: **targeted** (by family history, other cancer syndromes, polyp burden and histology, per NCCN) or **direct multiplex panel**. Panels are better for patients who **do not fit criteria for one syndrome, fit more than one, or have no/limited family history**.
-- ⚠ **The trade-off is stated:** testing more genes increases **variants of unknown significance** and pathogenic variants without a clear management guideline — hence *"early integration of genetic counselors and genetic specialists"*.
+- Two routes to germline evaluation: **targeted** (by family history, other cancer syndromes, polyp burden and histology, per National Comprehensive Cancer Network [NCCN]) or **direct multiplex panel**. Panels are better for patients who **do not fit criteria for one syndrome, fit more than one, or have no/limited family history**.
+- ⚠ **The trade-off is stated:** testing more genes increases **variants of unknown significance (VUS)** and pathogenic variants without a clear management guideline — hence *"early integration of genetic counselors and genetic specialists"*.
 - **Timing is the point of BPA 4:** results are needed **pre-operatively**, because *"surgical options vary depending upon the presence and type of known hereditary syndrome."*
 
 ### Hereditary syndromes causing young adult–onset CRC (narrative)
@@ -112,7 +112,7 @@ The CPU carries one decision figure — **Figure 1, *"Management of young adult�
 | Syndrome | Gene(s) / inheritance | Key features stated in this source |
 |---|---|---|
 | **[[lynch-syndrome\|Lynch syndrome]]** | MMR genes; autosomal dominant | Most common cause; MSI CRC; increased **endometrial, gastric, ovarian, small bowel, renal pelvis, ureteral** cancer |
-| **[[familial-adenomatous-polyposis\|FAP]]**, classic | *APC*; autosomal dominant | Second most common hereditary cause; **hundreds to thousands** of adenomas; **nearly 100% CRC risk by age 40** without prophylactic colectomy/proctocolectomy |
+| **[[familial-adenomatous-polyposis\|Familial adenomatous polyposis (FAP)]]**, classic | *APC*; autosomal dominant | Second most common hereditary cause; **hundreds to thousands** of adenomas; **nearly 100% CRC risk by age 40** without prophylactic colectomy/proctocolectomy |
 | **FAP, attenuated** | *APC*; autosomal dominant | **<100 polyps**, lower and later CRC risk |
 | **MYH-associated polyposis (MAP)** | *MUTYH*; autosomal **recessive** | Resembles attenuated FAP — biallelic base-excision-repair loss may lead to *APC* mutations |
 | **NTHL1-associated polyposis (NAP)** | *NTHL1*; autosomal recessive | Polyp onset typically **in the 40s**, burden generally **<50 polyps**, but cancer risk significantly increased with **most CRC arising under age 60** |
@@ -121,18 +121,18 @@ The CPU carries one decision figure — **Figure 1, *"Management of young adult�
 
 ### Table 1 — cancer risks, surveillance, and preventative surgery by syndrome
 
-*Recreated from Table 1: "Cancer Risks, Genes Associated, and Recommendations for Management of Hereditary CRC Syndromes." Lifetime risk = % (95% CI where given). IRA = ileorectostomy; IPAA = ileal pouch–anal anastomosis.*
+*Recreated from Table 1: "Cancer Risks, Genes Associated, and Recommendations for Management of Hereditary CRC Syndromes." Lifetime risk = % (95% confidence interval [CI] where given). Inheritance: autosomal dominant (AD), autosomal recessive (AR).*
 
 | Syndrome / gene | Inheritance | Lifetime cancer risk, % (95% CI) | Screening / surveillance | CRC and preventative surgery |
 |---|---|---|---|---|
-| **Lynch — *MSH2* / *EPCAM*** | AD | Colorectal **49 (29–85)**; endometrial **57 (22–82)**; ovary **20 (1–66)**; stomach 11–19; hepatobiliary 2–7; upper urinary tract 4–5; pancreas 3–4; small bowel 1–4; CNS (glioblastoma) 1–3 | Age **20–25 y**: colonoscopy q**1–2 y**; flexible sigmoidoscopy q1–2 y post-IRA; consider **annual endometrial biopsy** (premenopausal) and **annual endometrial ultrasound** (postmenopausal); age **30–35 y**: consider **upper endoscopy q3–5 y**; **annual urinalysis** | Consider **IRA** for CRC; consider **prophylactic hysterectomy** once childbearing complete |
+| **Lynch — *MSH2* / *EPCAM*** | AD | Colorectal **49 (29–85)**; endometrial **57 (22–82)**; ovary **20 (1–66)**; stomach 11–19; hepatobiliary 2–7; upper urinary tract 4–5; pancreas 3–4; small bowel 1–4; central nervous system (CNS; glioblastoma) 1–3 | Age **20–25 y**: colonoscopy q**1–2 y**; flexible sigmoidoscopy q1–2 y post-IRA; consider **annual endometrial biopsy** (premenopausal) and **annual endometrial ultrasound** (postmenopausal); age **30–35 y**: consider **upper endoscopy q3–5 y**; **annual urinalysis** | Consider **IRA** for CRC; consider **prophylactic hysterectomy** once childbearing complete |
 | **Lynch — *MLH1*** | AD | Colorectal **52 (31–90)**; endometrial **21 (9–82)**; ovary **38 (3–81)**; stomach 11–19; hepatobiliary 2–7; upper urinary tract 4–5; pancreas 3–4; small bowel 1–4; CNS 1–3 | Same as *MSH2* row | Same as *MSH2* row |
 | **Lynch — *MSH6*** | AD | Colorectal **18 (13–30)**; endometrial **17 (8–47)**; ovary **1 (0–3)**; stomach **3**ᵃ; urinary tract <1 | Age **20–25 y**: colonoscopy q1–2 y; flex sig q1–2 y post-IRA; endometrial biopsy/ultrasound as above; age **30–35 y**: consider upper endoscopy q3–5 y | Consider IRA for CRC; consider prophylactic hysterectomy once childbearing complete |
 | **Lynch — *PMS2*** | AD | Colorectal **15–20**; endometrial **15** | Age **20–25 y**: colonoscopy q1–2 y; flex sig q1–2 y post-IRA; endometrial biopsy/ultrasound as above | Consider IRA for CRC; consider prophylactic hysterectomy once childbearing complete |
 | **FAP, classic — *APC*** | AD | Colorectal **100**; duodenum/periampullary 4–12; stomach <1; pancreas 2; thyroid 1–2; liver (hepatoblastoma) 1–2; CNS (medulloblastoma) <1 | Age **10–12 y**: colonoscopy q1–2 y; **annual pouchoscopy post-IPAA**; **flex sig q6 mo post-IRA**; age **18–25 y**: upper endoscopy q**1–3 y**; symptom-based evaluation; consider thyroid ultrasound | **IPAA colectomy** when polyp burden too great for endoscopic control; **IRA for women in childbearing years**, converting to IPAA after childbearing complete |
 | **FAP, attenuated — *APC*** | AD | Colorectal **70**; duodenum/periampullary 4–12; thyroid 1–2 | Age **20–25 y**: colonoscopy q1–2 y; flex sig q6 mo post-IRA; age **20–25 y**: upper endoscopy q1–3 y; consider annual thyroid ultrasound | Consider **IRA** for CRC or when polyp burden too great for endoscopic control |
-| **MUTYH polyposis (MAP) — *MUTYH*** | AR | Colorectal **80**; duodenum 4 | Age **20–25 y**: colonoscopy q1–2 y; age 20–25 y: upper endoscopy q1–3 y | Consider **IRA or colectomy** for CRC or when polyp burden too great for endoscopic control |
-| **[[peutz-jeghers-syndrome\|Peutz–Jeghers]] — *STK11*** | AD | Breast **54**; colorectal **39**; pancreas 11–36; stomach 29; ovary 21; uterine/cervix 13; lung 15; small bowel 9–10; testicular <1 | Age **25 y**: yearly mammogram + breast MRI; **late teens**: colonoscopy q2–?ᵇ y and upper endoscopy q**2–3 y**; age **25–30 y**: MRCP or EUS q1–2 y; age **18 y**: annual transvaginal ultrasound; age **20 y**: annual chest CT; age **8–10 y**: small bowel screening (CT/MR enterography, small bowel follow-through, capsule endoscopy) q**1–3 y**; age **10 y**: yearly testicular exam and ultrasound | — |
+| **MAP — *MUTYH*** | AR | Colorectal **80**; duodenum 4 | Age **20–25 y**: colonoscopy q1–2 y; age 20–25 y: upper endoscopy q1–3 y | Consider **IRA or colectomy** for CRC or when polyp burden too great for endoscopic control |
+| **[[peutz-jeghers-syndrome\|Peutz–Jeghers]] — *STK11*** | AD | Breast **54**; colorectal **39**; pancreas 11–36; stomach 29; ovary 21; uterine/cervix 13; lung 15; small bowel 9–10; testicular <1 | Age **25 y**: yearly mammogram + breast magnetic resonance imaging (MRI); **late teens**: colonoscopy q2–?ᵇ y and upper endoscopy q**2–3 y**; age **25–30 y**: magnetic resonance cholangiopancreatography (MRCP) or endoscopic ultrasound (EUS) q1–2 y; age **18 y**: annual transvaginal ultrasound; age **20 y**: annual chest computed tomography (CT); age **8–10 y**: small bowel screening (CT/MR enterography, small bowel follow-through, capsule endoscopy) q**1–3 y**; age **10 y**: yearly testicular exam and ultrasound | — |
 | **[[juvenile-polyposis-syndrome\|Juvenile polyposis]] — *SMAD4*, *BMPR1A*** | AD | Colorectal **39**; stomach, pancreas and small bowel **21** | Age **15 y**: colonoscopy q**1–3 y**; age **15 y**: upper endoscopy q1–3 y | — |
 | **[[serrated-polyposis-syndrome\|Serrated polyposis]] — unknown** | — | Colorectal **16–42** | Colonoscopy q**1–3 y** | Consider **colectomy** for CRC or when polyp burden too great for endoscopic control |
 | **PTEN hamartoma tumor syndrome — *PTEN*** | AD | Colorectal 16–20; breast **30–50 (female)**; thyroid 5–10; endometrial 5–20; lung 12; renal 2–8 | Colonoscopy q1–3 y; age **18 y**: annual breast self-exam; age **25 y**: clinical exam q6 mo; age **30 y**: annual mammogram + breast MRI; age 18 y: baseline then annual (thyroid); annual endometrial biopsy (premenopausal) / ultrasound (postmenopausal); annual urinalysis; annual urine cytology + renal ultrasound if family history of renal cancer | Consider **bilateral mastectomy**; **total thyroidectomy** for benign lesions and cancer; consider **prophylactic hysterectomy** once childbearing complete |
@@ -152,7 +152,7 @@ The CPU carries one decision figure — **Figure 1, *"Management of young adult�
 
 - **Surgery for CRC does not appear to negatively impact fertility** on current evidence; the risk is from **chemotherapy — moderate, and dependent on type, dose and duration** — and from pelvic radiation.
 - **Men:** cryopreserved sperm banking is recommended before gonadotoxic chemotherapy but is **not universally offered**.
-- **Women:** **embryo cryopreservation** is the most established option; **unfertilized oocyte cryopreservation** for women without a partner, unwilling to use donor sperm, or with beliefs precluding embryo freezing. **Ovarian tissue cryopreservation with later transplantation is not yet approved beyond clinical trials** — but could restore fertility even in girls who have not yet ovulated. **Ovarian translocation away from radiation fields** and a **GnRH agonist to prevent chemotherapy-induced ovarian failure** are the two further components of a complete discussion.
+- **Women:** **embryo cryopreservation** is the most established option; **unfertilized oocyte cryopreservation** for women without a partner, unwilling to use donor sperm, or with beliefs precluding embryo freezing. **Ovarian tissue cryopreservation with later transplantation is not yet approved beyond clinical trials** — but could restore fertility even in girls who have not yet ovulated. **Ovarian translocation away from radiation fields** and a **gonadotropin-releasing hormone (GnRH) agonist to prevent chemotherapy-induced ovarian failure** are the two further components of a complete discussion.
 
 ### Psychological and survivorship burden
 

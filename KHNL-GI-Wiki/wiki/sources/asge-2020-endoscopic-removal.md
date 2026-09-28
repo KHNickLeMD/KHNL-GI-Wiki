@@ -22,19 +22,19 @@ This document is **the same consensus statement** as [[usmstf-2020-endoscopic-re
 
 | Publication | Journal | Citation |
 |---|---|---|
-| AGA version | Gastroenterology 2020;158:1095–1129 | DOI 10.1053/j.gastro.2019.12.018 |
-| USMSTF/ACG version | Am J Gastroenterol 2020;115:435–464 | DOI 10.14309/ajg.0000000000000555 |
-| ASGE version | Gastrointestinal Endoscopy 2020;91:486–519 | DOI 10.1016/j.gie.2020.01.029 |
+| American Gastroenterological Association (AGA) version | Gastroenterology 2020;158:1095–1129 | DOI 10.1053/j.gastro.2019.12.018 |
+| US Multi-Society Task Force (USMSTF)/American College of Gastroenterology (ACG) version | Am J Gastroenterol 2020;115:435–464 | DOI 10.14309/ajg.0000000000000555 |
+| American Society for Gastrointestinal Endoscopy (ASGE) version | Gastrointestinal Endoscopy 2020;91:486–519 | DOI 10.1016/j.gie.2020.01.029 |
 
-The text, statements, evidence grades, and authorship are identical. **There are no conflicts between the printings** — the *Gastroenterology* and *GIE* printings agree on every statement and every GRADE rating.
+The text, statements, evidence grades, and authorship are identical. **There are no conflicts between the printings** — the *Gastroenterology* and *Gastrointestinal Endoscopy* (*GIE*) printings agree on every statement and every Grading of Recommendations Assessment, Development and Evaluation (GRADE) rating.
 
 ## How This Document Is Structured
 
-**It contains no numbered recommendations.** Guidance is delivered as **43 unnumbered bullets grouped under 6 named "Statements"** (Table 1, *Statements of Best Practice in This Document*, reproduced in full below). Several widely quoted points — the non-lifting sign, underwater EMR, cold snare EMR, the NICE 3 / Kudo Vn algorithm, "endoscopy is first-line for benign lesions", ESD indications, eFTR — come from the narrative body and carry **no GRADE rating**; they are listed under *Narrative Content (Not Graded)*. The `S1.1`-style labels below are reference handles for this page only, not the document's own numbering.
+**It contains no numbered recommendations.** Guidance is delivered as **43 unnumbered bullets grouped under 6 named "Statements"** (Table 1, *Statements of Best Practice in This Document*, reproduced in full below). Several widely quoted points — the non-lifting sign, underwater endoscopic mucosal resection (EMR), cold snare EMR, the narrow-band imaging (NBI) International Colorectal Endoscopic (NICE) 3 / Kudo Vn algorithm, "endoscopy is first-line for benign lesions", endoscopic submucosal dissection (ESD) indications, endoscopic full-thickness resection (eFTR) — come from the narrative body and carry **no GRADE rating**; they are listed under *Narrative Content (Not Graded)*. The `S1.1`-style labels below are reference handles for this page only, not the document's own numbering.
 
 ## Summary
 
-Comprehensive multi-society consensus on optimal techniques for endoscopic removal of colorectal lesions. Covers lesion assessment (Paris classification, LST subtypes, optical diagnosis with NICE/Kudo), resection methods by lesion size and morphology, [[endoscopic-mucosal-resection|EMR]] technique (inject-and-cut, underwater EMR, cold snare EMR), ESD and hybrid ESD, endoscopic full-thickness resection (eFTR), lesion marking and tattoo, post-EMR surveillance, equipment, and quality standards. Central thesis: endoscopy is first-line for all benign colorectal lesions, replacing surgical referral.
+Comprehensive multi-society consensus on optimal techniques for endoscopic removal of colorectal lesions. Covers lesion assessment (Paris classification, laterally spreading tumor (LST) subtypes, optical diagnosis with NICE/Kudo), resection methods by lesion size and morphology, [[endoscopic-mucosal-resection|EMR]] technique (inject-and-cut, underwater EMR, cold snare EMR), ESD and hybrid ESD, eFTR, lesion marking and tattoo, post-EMR surveillance, equipment, and quality standards. Central thesis: endoscopy is first-line for all benign colorectal lesions, replacing surgical referral.
 
 **GRADE vocabulary used by this document:** strength is **Strong** or **Conditional** (not "weak"); quality is **very low / low / moderate / high**. Per the document's own Table 3, *"recommend"* signals a strong recommendation and *"suggest"* signals a conditional one.
 
@@ -67,7 +67,7 @@ Comprehensive multi-society consensus on optimal techniques for endoscopic remov
 
 > ⚠ **Internal discrepancy in the published document (present in both printings).** Table 1 grades S2a.1 *high-quality*; the body text of section 2a grades the identical sentence *moderate-quality*. The document does not reconcile them.
 
-> ⚠ **Scope note on S2a.2.** The recommendation is against cold forceps for **all diminutive (≤5 mm) lesions**. The ≤2 mm clause is a narrow carve-out permitting **jumbo or large-capacity** forceps when CSP is technically difficult — it is *not* a general ">2 mm" threshold for standard cold forceps. The prior page wording ("not recommended for polyps >2 mm") inverted this.
+> ⚠ **Scope note on S2a.2.** The recommendation is against cold forceps for **all diminutive (≤5 mm) lesions**. The ≤2 mm clause is a narrow carve-out permitting **jumbo or large-capacity** forceps when cold snare polypectomy (CSP) is technically difficult — it is *not* a general ">2 mm" threshold for standard cold forceps. The prior page wording ("not recommended for polyps >2 mm") inverted this.
 
 **2b: Non-pedunculated (10–19 mm) lesions**
 
@@ -87,7 +87,7 @@ Comprehensive multi-society consensus on optimal techniques for endoscopic remov
 | S2c.4 | We suggest the use of a contrast agent, such as indigo carmine or methylene blue, in the submucosal injection solution to facilitate recognition of the submucosa from the mucosa and muscularis propria layers. | Conditional | Moderate |
 | S2c.5 | We recommend against the use of tattoo, using sterile carbon particle suspension, as the submucosal injection solution. The carbon particle suspension may result in submucosal fibrosis, and can thus reduce the technical success of future endoscopic resection of residual or recurrent lesion. | Strong | Low |
 | S2c.6 | We suggest the use of a viscous injection solution (eg, hydroxyethyl starch, Eleview, ORISE Gel) for lesions ≥20 mm to remove the lesion in fewer pieces and less procedure time compared to normal saline. | Conditional | Moderate |
-| S2c.7 | We recommend against the use of ablative techniques (eg, APC, snare tip soft coagulation) on endoscopically visible residual tissue of a lesion as they have been associated with an increased risk of recurrence. | Strong | Moderate |
+| S2c.7 | We recommend against the use of ablative techniques (eg, APC [argon plasma coagulation], snare tip soft coagulation) on endoscopically visible residual tissue of a lesion as they have been associated with an increased risk of recurrence. | Strong | Moderate |
 | S2c.8 | We suggest the use of adjuvant thermal ablation of the post-EMR margin, where no endoscopically visible adenoma remains despite meticulous inspection. There is insufficient evidence to recommend a specific modality (ie, APC, snare tip soft coagulation) at this time. | Conditional | Moderate |
 | S2c.9 | We recommend detailed inspection of the post-resection mucosal defect to identify features for immediate or delayed perforation risk, and perform endoscopic clip closure, accordingly. | Strong | Moderate |
 | S2c.10 | We suggest prophylactic closure of resection defects ≥20 mm in size in the right colon, when closure is feasible. | Conditional | Moderate |
@@ -152,7 +152,7 @@ Real content from the document's body text and figures. **None of it carries a s
 
 > "The NICE type 3 and Kudo Vn patterns are specific for deep (>1000 μm) invasion… Therefore, the presence of these features should be followed by cold biopsy of the portion of the lesion demonstrating the features, tattoo of the area, and referral to surgery. Non-pedunculated lesions with superficial (<1000 μm) submucosal invasion are candidates for endoscopic resection."
 
-Also narrative: Kudo pit pattern V, white spots (chicken-skin appearance), redness, expansion, firmness, and fold convergence are associated with submucosal invasive carcinoma. *The only graded statement in this area is S1.6 (proficiency in recognizing deep SMI) — Strong, moderate.*
+Also narrative: Kudo pit pattern V, white spots (chicken-skin appearance), redness, expansion, firmness, and fold convergence are associated with submucosal invasive carcinoma. *The only graded statement in this area is S1.6 (proficiency in recognizing deep submucosal invasion [SMI]) — Strong, moderate.*
 
 ### Non-lifting sign
 
@@ -189,7 +189,7 @@ Indications are "relatively few"; within the gate of a lesion ≥20 mm destined 
 
 Glossary (Table 2) defines eFTR as *"technique involving the use of a full-thickness resection device for lesions <30 mm."*
 
-- FTRD was effective for difficult-to-resect colorectal lesions (non-lifting, challenging locations) **especially for lesions ≤20 mm**; in the 181-patient / 9-centre prospective German study, R0 fell to **58.1% for lesions >20 mm vs 81.2% for lesions ≤20 mm** (P = .0038)
+- The full-thickness resection device (FTRD) was effective for difficult-to-resect colorectal lesions (non-lifting, challenging locations) **especially for lesions ≤20 mm**; in the 181-patient / 9-centre prospective German study, R0 fell to **58.1% for lesions >20 mm vs 81.2% for lesions ≤20 mm** (P = .0038)
 - Cap **outer diameter 21 mm**; cap size and length limit the tissue that can be grasped
 
 ### Other narrative data points

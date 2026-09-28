@@ -9,7 +9,7 @@ sources: [acg-2024-hp-treatment, acg-2017-hp-guidelines]
 
 ## Components ("Optimized" BQT — ACG 2024)
 
-Four drugs × 14 days. **Optimized** BQT = appropriately dosed [[proton-pump-inhibitors|PPI]] + bismuth + nitroimidazole (total **1,500–2,000 mg/day** in divided doses) + tetracycline (**not** doxycycline — substituting doxycycline lowers efficacy). [[acg-2024-hp-treatment]]
+Four drugs × 14 days. **Optimized** bismuth quadruple therapy (BQT) = appropriately dosed [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] + bismuth + nitroimidazole (total **1,500–2,000 mg/day** in divided doses) + tetracycline (**not** doxycycline — substituting doxycycline lowers efficacy). [[acg-2024-hp-treatment]]
 
 | Drug | Dose | Frequency |
 |---|---|---|
@@ -18,13 +18,13 @@ Four drugs × 14 days. **Optimized** BQT = appropriately dosed [[proton-pump-inh
 | Tetracycline | **500 mg** | Four times daily (q.i.d.) |
 | Metronidazole (nitroimidazole; tinidazole an alternative) | **500 mg** (target 1,500–2,000 mg/day) | Three or four times daily (t.i.d.–q.i.d.) |
 
-**Duration: 14 days**, first-line *and* salvage — the captions of both ACG 2024 Table 5 and Table 6 read "All regimens are recommended for 14 days," and Rec 6's closing text suggests optimized BQT **for 14 days**. (The Rec 6 narrative's looser "10 to (preferably) 14 days" is the floor, not the target; **<10 days is a defect** that makes the course non-optimized — see below.) [[acg-2024-hp-treatment]]
+**Duration: 14 days**, first-line *and* salvage — the captions of both American College of Gastroenterology (ACG) 2024 Table 5 and Table 6 read "All regimens are recommended for 14 days," and Rec 6's closing text suggests optimized BQT **for 14 days**. (The Rec 6 narrative's looser "10 to (preferably) 14 days" is the floor, not the target; **<10 days is a defect** that makes the course non-optimized — see below.) [[acg-2024-hp-treatment]]
 
 > **Internal discrepancy in ACG 2024 — bismuth dose.** Tables 5 and 6 both list bismuth subcitrate **120–300 mg** or subsalicylate **300 mg** q.i.d. The Recommendation 6 narrative instead defines optimized BQT as bismuth **"300 mg 4 times daily at least."** Both appear in the same guideline; the tables are identical for first-line and salvage, so this is **not** a first-line-vs-salvage difference. Dosing at **300 mg q.i.d.** satisfies both readings.
 
 **Commercial formulations (FDA-approved only as combination packs; individual-component BQT is not FDA-approved):**
 - **Pylera** — bismuth subcitrate + metronidazole + tetracycline per capsule; FDA-approved combined with omeprazole; **dispensed only as a 10-day regimen**. Combination formulations are given with a PPI taken b.i.d.
-- **Helidac** — bismuth subsalicylate + metronidazole + tetracycline; dispensed as a 14-day regimen (originally approved with an H2RA, but ACG 2024 does **not** recommend H2RAs in eradication regimens).
+- **Helidac** — bismuth subsalicylate + metronidazole + tetracycline; dispensed as a 14-day regimen (originally approved with a histamine-2 receptor antagonist [H2RA], but ACG 2024 does **not** recommend H2RAs in eradication regimens).
 
 > **Dosing change vs. earlier practice:** ACG 2024 specifies metronidazole **500 mg t.i.d.–q.i.d.** (1,500–2,000 mg/day). The older under-dosed 250 mg q.i.d. (1,000 mg/day) is no longer the recommended target.
 
@@ -33,7 +33,7 @@ Four drugs × 14 days. **Optimized** BQT = appropriately dosed [[proton-pump-inh
 ## Indications
 
 - **Preferred empiric first-line** for treatment-naive [[helicobacter-pylori-infection|H. pylori]] when antibiotic susceptibility is unknown — **Rec 1: strong recommendation, moderate quality evidence**; the only *strong* recommendation in the guideline (all other first-line and salvage options are conditional). [[acg-2024-hp-treatment]]
-- Clarithromycin triple therapy is **no longer recommended empirically** in the US, so BQT (or [[vonoprazan]]-based regimens) is favored. ACG 2024: "it is no longer appropriate to use clarithromycin- or levofloxacin-containing treatment regimens empirically" — measured US clarithromycin resistance **22.2%** (US/Europe RCT) to **31.5%** (2011–2021 US meta-analysis), vs **<5%** for amoxicillin, tetracycline, and rifabutin. The **>15% resistance threshold** for abandoning empiric clarithromycin triple therapy comes from [[acg-2017-hp-guidelines]].
+- Clarithromycin triple therapy is **no longer recommended empirically** in the US, so BQT (or [[vonoprazan]]-based regimens) is favored. ACG 2024: "it is no longer appropriate to use clarithromycin- or levofloxacin-containing treatment regimens empirically" — measured US clarithromycin resistance **22.2%** (US/Europe randomized controlled trial [RCT]) to **31.5%** (2011–2021 US meta-analysis), vs **<5%** for amoxicillin, tetracycline, and rifabutin. The **>15% resistance threshold** for abandoning empiric clarithromycin triple therapy comes from [[acg-2017-hp-guidelines]].
 - **Concomitant therapy is *not* suggested over BQT** in treatment-naive patients (Rec 5, conditional / low quality).
 - Penicillin allergy — BQT contains no amoxicillin, and is the **only** first-line or salvage regimen suitable for true penicillin allergy. If BQT is not an appropriate option, ACG suggests allergist referral to confirm the allergy and consider penicillin desensitization (<1% of the population has true type-1 IgE-mediated penicillin allergy).
 
@@ -74,7 +74,7 @@ Four drugs × 14 days. **Optimized** BQT = appropriately dosed [[proton-pump-inh
 
 - **Minor adverse events are common but rarely stop treatment.** In a Taiwanese RCT of treatment-naive patients, **>50% reported ≥1 adverse effect** — **dark stool, fatigue, nausea, diarrhea, and dizziness each in >15%** — yet only **~5% discontinued**. European data show similarly low discontinuation. [[acg-2024-hp-treatment]]
 - **Counsel before prescribing.** ACG explicitly advises educating patients on *why* eradication matters and on the most frequent adverse effects, because **adherence is the lever** on this 4-drug, high-pill-burden regimen.
-- Named **disadvantages of BQT** vs PPI–clarithromycin triple therapy: large pill burden, relatively high frequency of minor (particularly GI) adverse events, difficulty obtaining tetracycline and its cost, and tetracycline's relative contraindications.
+- Named **disadvantages of BQT** vs PPI–clarithromycin triple therapy: large pill burden, relatively high frequency of minor (particularly gastrointestinal [GI]) adverse events, difficulty obtaining tetracycline and its cost, and tetracycline's relative contraindications.
 
 ---
 

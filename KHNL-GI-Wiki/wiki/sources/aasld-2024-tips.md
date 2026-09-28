@@ -21,16 +21,16 @@ sources: []
 
 ## Summary
 
-This guidance covers transjugular intrahepatic portosystemic shunt (TIPS) and adjunctive endovascular techniques (variceal embolization, balloon-occluded retrograde transvenous obliteration, BRTO/RTO) for complications of [[portal-hypertension]] — variceal hemorrhage, refractory [[ascites]], and hepatic hydrothorax. It standardizes stent type, target gradient, peri-procedural [[hepatic-encephalopathy]] prophylaxis, and the role of preemptive ("early") TIPS.
+This guidance covers transjugular intrahepatic portosystemic shunt (TIPS) and adjunctive endovascular techniques (variceal embolization, balloon-occluded retrograde transvenous obliteration [BRTO]/retrograde transvenous obliteration [RTO]) for complications of [[portal-hypertension]] — variceal hemorrhage, refractory [[ascites]], and hepatic hydrothorax. It standardizes stent type, target gradient, peri-procedural [[hepatic-encephalopathy]] prophylaxis, and the role of preemptive ("early") TIPS.
 
 ---
 
 ## Key Guidance Statements
 
-- **Stent:** **PTFE-coated TIPS stents** are standard of care.
+- **Stent:** **Polytetrafluoroethylene (PTFE)-coated TIPS stents** are standard of care.
 - **Target gradient:** When the indication is **variceal hemorrhage** (acute or rebleeding prevention), dilate progressively (start ~8 mm) to the **minimum diameter achieving a portosystemic gradient (PSPG) <12 mm Hg**.
 - **Preemptive (early) TIPS:** Consider in high-risk variceal bleeders (e.g., Child-Pugh C or B with active bleeding) within ~72 hours to reduce rebleeding and mortality.
-- **HE prophylaxis:** For **elective TIPS** to prevent variceal rebleeding, **[[rifaximin]] 550 mg BID started ≤14 days before placement and continued for 6 months** may reduce post-TIPS [[hepatic-encephalopathy]] (consistent with [[acg-2026-hepatic-encephalopathy|ACG 2026 HE guidance]]).
+- **Hepatic encephalopathy (HE) prophylaxis:** For **elective TIPS** to prevent variceal rebleeding, **[[rifaximin]] 550 mg twice daily (BID) started ≤14 days before placement and continued for 6 months** may reduce post-TIPS [[hepatic-encephalopathy]] (consistent with [[acg-2026-hepatic-encephalopathy|American College of Gastroenterology (ACG) 2026 HE guidance]]).
 - **Surveillance:** Doppler ultrasound follow-up to assess shunt patency.
 - **Gastric varices / shunts:** Variceal embolization and **BRTO/RTO** address gastric varices and large spontaneous portosystemic shunts; RTO may worsen varices/ascites by raising portal pressure — balance against TIPS.
 

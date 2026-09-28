@@ -13,15 +13,15 @@ sources: []
 - **Year:** 2024
 - **Journal/Publisher:** Clinical Gastroenterology and Hepatology (AGA Institute)
 - **DOI:** [10.1016/j.cgh.2024.03.046](https://doi.org/10.1016/j.cgh.2024.03.046)
-- **Type:** guideline (AGA Clinical Practice Update — Expert Review; Best Practice Advice, unrated)
+- **Type:** guideline (American Gastroenterological Association [AGA] Clinical Practice Update — Expert Review; Best Practice Advice, unrated)
 
 ## Summary
 
-AGA Expert Review CPU on the **management (iron repletion)** of iron deficiency anemia (IDA) — a companion to the 2020 AGA guideline/technical review on the **GI evaluation** of IDA ([[aga-2020-ida]]). Scope is how to replete iron (oral vs IV) overall and within common GI conditions: post-bariatric surgery, IBD, portal hypertensive gastropathy (PHG), gastric antral vascular ectasia (GAVE), celiac disease, and small-bowel angioectasias.
+AGA Expert Review Clinical Practice Update (CPU) on the **management (iron repletion)** of iron deficiency anemia (IDA) — a companion to the 2020 AGA guideline/technical review on the **gastrointestinal (GI) evaluation** of IDA ([[aga-2020-ida]]). Scope is how to replete iron (oral vs intravenous [IV]) overall and within common GI conditions: post-bariatric surgery, inflammatory bowel disease (IBD), portal hypertensive gastropathy (PHG), gastric antral vascular ectasia (GAVE), celiac disease, and small-bowel angioectasias.
 
 **General repletion principles:** No oral formulation is superior; ferrous sulfate is preferred as least expensive. Dose oral iron **once daily at most**; every-other-day dosing may be better tolerated with equal absorption (serum hepcidin rises after a dose and blocks further absorption for up to 48 h). Add vitamin C (~500 mg / ~80 mg ascorbic acid) to aid absorption; avoid tea/coffee within an hour. In adherent anemic patients, hemoglobin should rise ~1 g/dL within 2 weeks and ferritin within a month — if not met, switch to IV iron. IV iron is indicated for oral intolerance, non-response, or conditions of impaired absorption. Formulations replacing the deficit in **1–2 infusions are preferred**. True anaphylaxis to IV iron is very rare — most reactions are **complement activation–related pseudo-allergy** (infusion reactions ~1:200; major reactions ~1:200,000); manage by stopping and restarting slower, avoid diphenhydramine.
 
-**Condition-specific:** Post-bariatric (esp. Roux-en-Y) → IV iron preferred (duodenal bypass; also EGD to exclude anastomotic ulcer). IBD → treat active inflammation; IV iron if active inflammation/impaired absorption (ECCO: IV first-line if Hgb <10 g/dL); IV superior in efficacy (OR 1.57) and tolerability (discontinuation OR 0.27). PHG → oral iron first (no malabsorptive defect), IV if ongoing bleeding/non-response; NSBBs to reduce portal pressure. GAVE → endoscopic band ligation (EBL) or thermal (APC) if inadequate response; EBL favored (fewer sessions, greater transfusion reduction). Celiac → gluten-free diet is central; oral iron by severity, IV if stores don't recover. Small-bowel angioectasias → deep enteroscopy with distal cap attachment; APC or hemostatic clips + iron repletion; somatostatin analogues/thalidomide only for refractory cases. The 15 Best Practice Advice statements are **unrated** (no systematic review performed).
+**Condition-specific:** Post-bariatric (esp. Roux-en-Y) → IV iron preferred (duodenal bypass; also esophagogastroduodenoscopy [EGD] to exclude anastomotic ulcer). IBD → treat active inflammation; IV iron if active inflammation/impaired absorption (European Crohn's and Colitis Organisation [ECCO]: IV first-line if hemoglobin [Hgb] <10 g/dL); IV superior in efficacy (odds ratio [OR] 1.57) and tolerability (discontinuation OR 0.27). PHG → oral iron first (no malabsorptive defect), IV if ongoing bleeding/non-response; nonselective β-blockers (NSBBs) to reduce portal pressure. GAVE → endoscopic band ligation (EBL) or thermal (argon plasma coagulation [APC]) if inadequate response; EBL favored (fewer sessions, greater transfusion reduction). Celiac → gluten-free diet is central; oral iron by severity, IV if stores don't recover. Small-bowel angioectasias → deep enteroscopy with distal cap attachment; APC or hemostatic clips + iron repletion; somatostatin analogues/thalidomide only for refractory cases. The 15 Best Practice Advice (BPA) statements are **unrated** (no systematic review performed).
 
 ## Key Findings / Claims
 
@@ -44,12 +44,12 @@ AGA Expert Review CPU on the **management (iron repletion)** of iron deficiency 
 15. Endoscopic treatment of angioectasias should be accompanied with iron replacement. Medical therapy for small-bowel angioectasias should be reserved for compassionate treatment in refractory cases when iron replacement and endoscopic therapy are ineffective.
 
 **Supporting data / thresholds:**
-- Ferritin cutoff for ID in anemia: **<45 µg/L** (per 2020 AGA guideline; optimal sensitivity/specificity). Inflammatory conditions may have ID/IDA with ferritin >45 (usually <100 µg/L) — confirm with transferrin saturation, soluble transferrin receptor, or reticulocyte hemoglobin equivalent.
+- Ferritin cutoff for iron deficiency (ID) in anemia: **<45 µg/L** (per 2020 AGA guideline; optimal sensitivity/specificity). Inflammatory conditions may have ID/IDA with ferritin >45 (usually <100 µg/L) — confirm with transferrin saturation, soluble transferrin receptor, or reticulocyte hemoglobin equivalent.
 - Oral iron side effects (meta-analysis): constipation 12%, nausea 11%, diarrhea 8%.
 - Response targets: Hgb ↑ ~1 g/dL within 2 weeks; ferritin ↑ within a month → if unmet, use IV iron.
 - Hepcidin rises after an oral dose, blocking absorption up to 48 h → basis for once-daily/alternate-day dosing.
-- Ferric carboxymaltose → risk of (prolonged) hypophosphatemia; ferumoxytol → also an MRI contrast agent (notify radiology if MRI within 3 months).
-- IBD: IV vs oral iron head-to-head (5 RCTs, 694 pts) — greater efficacy (OR 1.57, 1.13–2.18) and better tolerance (discontinuation OR 0.27, 0.13–0.59); ECCO recommends IV first-line if Hgb <10 g/dL.
+- Ferric carboxymaltose → risk of (prolonged) hypophosphatemia; ferumoxytol → also a magnetic resonance imaging (MRI) contrast agent (notify radiology if MRI within 3 months).
+- IBD: IV vs oral iron head-to-head (5 randomized controlled trials [RCTs], 694 pts) — greater efficacy (OR 1.57, 1.13–2.18) and better tolerance (discontinuation OR 0.27, 0.13–0.59); ECCO recommends IV first-line if Hgb <10 g/dL.
 - GAVE: EBL vs thermal — greater transfusion reduction (−2.30 units, favoring EBL), greater Hgb improvement (+0.59 g/dL favoring EBL), fewer sessions (2.63 vs 3.83).
 - Small-bowel angioectasias: overall rebleed 34%, small-bowel 45%; distal cap increases detection; somatostatin analogues (octreotide > lanreotide) and thalidomide reduce transfusions/rebleeding but reserve thalidomide for refractory cases (neuropathy, constipation, perforation risk).
 
@@ -75,8 +75,8 @@ AGA Expert Review CPU on the **management (iron repletion)** of iron deficiency 
 | Low-molecular-weight iron dextran | 1000 mg | 1000 mg ×1 | — | $405 |
 
 ## Relevance to Wiki
-- **Primary home:** [[iron-deficiency-anemia]] (new disease script) — the therapeutics/repletion half of the IDA pages, paired with [[aga-2020-ida]] (the GI-evaluation/workup half). Together these two AGA sources support the full ADDT page.
-- Wires into [[inflammatory-bowel-disease]]/[[crohns-disease]]/[[ulcerative-colitis]] (IV iron in active IBD), [[cirrhosis]]/[[portal-hypertension]] (PHG), gastric antral vascular ectasia (GAVE — EBL/APC; no dedicated page yet), [[celiac-disease]] (gluten-free diet + iron), [[small-bowel-bleeding]]/[[angioectasia]] (deep enteroscopy + APC/clips), [[obesity]] (post-bariatric IV iron), and IV/oral iron as meds.
+- **Primary home:** [[iron-deficiency-anemia]] (new disease script) — the therapeutics/repletion half of the IDA pages, paired with [[aga-2020-ida]] (the GI-evaluation/workup half). Together these two AGA sources support the full Assessment–Differential Diagnosis–Diagnostics–Therapeutics (ADDT) page.
+- Wires into [[inflammatory-bowel-disease]]/[[crohns-disease]]/[[ulcerative-colitis]] (IV iron in active IBD), [[cirrhosis]]/[[portal-hypertension]] (PHG), GAVE (EBL/APC; no dedicated page yet), [[celiac-disease]] (gluten-free diet + iron), [[small-bowel-bleeding]]/[[angioectasia]] (deep enteroscopy + APC/clips), [[obesity]] (post-bariatric IV iron), and IV/oral iron as meds.
 
 ## Contradictions / Open Questions
 - Vitamin C benefit for absorption is stated as best practice (BPA 3) but the CPU notes underlying evidence is **mixed** and needs further study — low-certainty.

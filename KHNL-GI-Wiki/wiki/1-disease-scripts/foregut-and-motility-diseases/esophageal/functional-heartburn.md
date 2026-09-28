@@ -32,16 +32,16 @@ sources: [aga-2020-functional-heartburn, aga-2022-personalized-gerd]
 
 ### Establishing the Diagnosis
 
-Retrosternal burning **without** pathologic acid exposure, **without** a major motor disorder, **without** mucosal pathology, and **without** a reflux–symptom association. All six domains must be satisfied — the diagnosis is one of positive exclusion, not of PPI failure alone.
+Retrosternal burning **without** pathologic acid exposure, **without** a major motor disorder, **without** mucosal pathology, and **without** a reflux–symptom association. All six domains must be satisfied — the diagnosis is one of positive exclusion, not of proton pump inhibitor (PPI) failure alone.
 
 | Domain | Requirement |
 |---|---|
 | **Symptom** | Troublesome retrosternal burning pain/discomfort **≥2×/week for the previous 3 months**, persisting despite **maximal (double-dose)** [[proton-pump-inhibitors\|PPI]] taken appropriately **before meals** |
 | **Endoscopy + esophageal biopsies** | Normal — no erosive esophagitis, [[barretts-esophagus\|Barrett's esophagus]], [[eosinophilic-esophagitis\|eosinophilic esophagitis]], stricture, web, pill esophagitis, or neoplasia |
-| **[[high-resolution-manometry\|HRM]]** | No **major** esophageal motor disorder. A **minor** disorder ([[ineffective-esophageal-motility\|IEM]]) does **not** preclude the diagnosis, provided reflux disease is excluded |
+| **[[high-resolution-manometry\|high-resolution manometry (HRM)]]** | No **major** esophageal motor disorder. A **minor** disorder ([[ineffective-esophageal-motility\|ineffective esophageal motility (IEM)]]) does **not** preclude the diagnosis, provided reflux disease is excluded |
 | **Acid exposure time (AET)** | **Physiologic — AET <4%** in the distal esophagus (AET is reliably normal below 4% and abnormal above 6%) |
 | **Reflux–symptom association** | **Negative on BOTH indices** — symptom index (SI) positive if **>50%**; symptom association probability (SAP) positive if **≥95%**. Both must be negative |
-| **Which study, off or on PPI** | **Unproven GERD** → pH or pH-impedance **off** anti-secretory medication. **Proven GERD** → pH-impedance **on** double-dose PPI |
+| **Which study, off or on PPI** | **Unproven gastroesophageal reflux disease (GERD)** → pH or pH-impedance **off** anti-secretory medication. **Proven GERD** → pH-impedance **on** double-dose PPI |
 
 - **Both indices negative, not one.** A single negative index with the other positive does not establish the diagnosis, and there is **no consensus on which index governs when SI and SAP disagree**.
 - Clinical description of heartburn — by a physician or a validated questionnaire — has only **modest sensitivity and specificity** against objective reflux evidence or PPI response; the diagnosis cannot be made on symptom character.
@@ -69,7 +69,7 @@ Two forms, separated by whether GERD was ever objectively proven — the distinc
 
 | Acid exposure time | SI / SAP | Diagnosis |
 |---|---|---|
-| **AET >6%** (pathologic) | either | **[[gerd\|NERD / true refractory GERD]]** |
+| **AET >6%** (pathologic) | either | **[[gerd\|nonerosive reflux disease (NERD) / true refractory GERD]]** |
 | **AET <4%** (physiologic) | **both positive** | **Reflux hypersensitivity** |
 | **AET <4%** (physiologic) | **both negative** | **Functional heartburn** |
 
@@ -83,7 +83,7 @@ Other conditions that produce PPI-refractory retrosternal burning and are exclud
 | Erosive esophagitis | Prevalence **<10%** in PPI-refractory patients; when found it indicates poorly controlled acid reflux or true refractory GERD |
 | [[achalasia\|Achalasia]] | Heartburn reported in **up to 35%**; may be suspected at endoscopy but requires HRM — the reason manometry is mandatory rather than optional |
 | Stricture, web, pill esophagitis, neoplasia | Structural findings on endoscopy |
-| [[irritable-bowel-syndrome\|IBS]] and functional dyspepsia | Frequently coexist and **negatively impact symptom response to therapy**; concurrent functional GI disorders and somatization should be considered |
+| [[irritable-bowel-syndrome\|Irritable bowel syndrome (IBS)]] and functional dyspepsia | Frequently coexist and **negatively impact symptom response to therapy**; concurrent functional gastrointestinal (GI) disorders and somatization should be considered |
 
 ---
 
@@ -94,12 +94,12 @@ Testing is sequential and each step is required — the diagnosis cannot be assi
 ### Upper Endoscopy with Biopsies
 
 - **First step.** Indicated in heartburn that fails an adequate empiric [[proton-pump-inhibitors\|PPI]] trial, to exclude other esophageal and gastric disease.
-- [[upper-endoscopy\|EGD]] **with esophageal biopsies** — biopsies are not optional; adequate sampling is what excludes [[eosinophilic-esophagitis|EoE]] and satisfies the definition.
+- [[upper-endoscopy\|Esophagogastroduodenoscopy (EGD)]] **with esophageal biopsies** — biopsies are not optional; adequate sampling is what excludes [[eosinophilic-esophagitis|eosinophilic esophagitis (EoE)]] and satisfies the definition.
 
 ### High-Resolution Manometry
 
 - Excludes **major** esophageal motor disorders, which can themselves cause heartburn and chest pain.
-- Also localizes the proximal border of the LES for placement of pH and pH-impedance catheters.
+- Also localizes the proximal border of the lower esophageal sphincter (LES) for placement of pH and pH-impedance catheters.
 - A **minor** motor disorder such as [[ineffective-esophageal-motility\|IEM]] does not preclude functional heartburn once reflux disease is excluded.
 
 ### Ambulatory Reflux Monitoring
@@ -122,7 +122,7 @@ When AET falls in the borderline band, or SI and SAP are discrepant, the case tu
 | **Post-reflux swallow-induced peristaltic wave (PSPW) index** | **>0.61** (reflects integrity of primary peristalsis stimulated by reflux episodes) |
 | Reflux–symptom association | Negative |
 | Reflux episode count | **<40** episodes |
-| EGJ and esophageal body motor profile on HRM | Normal |
+| Esophagogastric junction (EGJ) and esophageal body motor profile on HRM | Normal |
 
 Both MNBI and the PSPW index may prove helpful in refractory heartburn, but more data are needed on inter-observer reproducibility, normal values, and relevant cut-offs before these metrics can be recommended for clinical use.
 
@@ -153,7 +153,7 @@ Acid suppression is not the ladder. Neuromodulators are, with behavioral and com
 | Category | Options |
 |---|---|
 | **Lifestyle modifications** | Improved sleep experience |
-| **Pharmacotherapy** | Tricyclic antidepressants; selective serotonin reuptake inhibitors; [[tegaserod\|tegaserod]]; histamine-2 receptor antagonists; melatonin |
+| **Pharmacotherapy** | Tricyclic antidepressants (TCAs); selective serotonin reuptake inhibitors (SSRIs); [[tegaserod\|tegaserod]]; histamine-2 receptor antagonists (H2RAs); melatonin |
 | **Alternative / complementary medicine** | Acupuncture |
 | **Psychological intervention** | Hypnotherapy |
 
@@ -168,7 +168,7 @@ Despite the limited number of trials, neuromodulators are considered to have a t
 
 | Class | Drug | Dose | n | Outcome |
 |---|---|---|---|---|
-| TCA | Imipramine | 25 mg/d | 83 | No difference from placebo in symptom relief; improved QOL |
+| TCA | Imipramine | 25 mg/d | 83 | No difference from placebo in symptom relief; improved quality of life (QOL) |
 | SSRI | Fluoxetine | 20 mg/d | 144 | Improvement in percentage of heartburn-free days |
 | Serotonin agonist (5-HT4) | [[tegaserod\|Tegaserod]] | 6 mg bid | 42 | Decreased frequency of heartburn, regurgitation, and distress |
 | H2RA | Ranitidine | 150 mg | 18 | Decrease in esophageal sensitivity |
@@ -177,7 +177,7 @@ Despite the limited number of trials, neuromodulators are considered to have a t
 - **TCA dosing — "low and slow":** start at the **lowest** dose and increase by **weekly increments of the same dose** to a goal of **50–75 mg daily**. Commonly given **at bedtime** — the somnolence improves the sleep experience and augments the analgesic effect.
 - **Fluoxetine** is the only SSRI studied: 20 mg daily as add-on in patients with persisting heartburn and negative endoscopy who failed standard-dose once-daily omeprazole, vs double-dose omeprazole vs add-on placebo — heartburn-free days median **35.7 vs 7.14 vs 7.14** (*P* < .001 for both comparisons). The superior effect was seen **only in the subset with a normal pH test**.
 - **Tegaserod** 6 mg twice daily for **14 days**: higher tolerated balloon pressures (*P* = .04) and maximum wall tension (*P* = .0004); decreased frequency of heartburn (*P* = .004), regurgitation (*P* = .048), and distress from regurgitation (*P* = .039).
-- **H2RAs are the exception to "anti-reflux drugs don't work"** — ranitidine 150 mg daily decreases chemoreceptor sensitivity to esophageal acid perfusion, an independent **esophageal pain-modulatory** effect rather than an acid effect. Certain brands of ranitidine became subject to a US FDA recall for contamination with agents that may have a carcinogenic effect; the endorsement is of the **class**.
+- **H2RAs are the exception to "anti-reflux drugs don't work"** — ranitidine 150 mg daily decreases chemoreceptor sensitivity to esophageal acid perfusion, an independent **esophageal pain-modulatory** effect rather than an acid effect. Certain brands of ranitidine became subject to a US Food and Drug Administration (FDA) recall for contamination with agents that may have a carcinogenic effect; the endorsement is of the **class**.
 - **Melatonin** 6 mg **at bedtime for 3 months** improved GERD-HRQOL vs nortriptyline 25 mg (*P* = .0015) and vs placebo (*P* < .0001). The trial table records the dose as 6 mg twice daily; the text describes 6 mg at bedtime.
 
 ### Behavioral and Complementary Therapy

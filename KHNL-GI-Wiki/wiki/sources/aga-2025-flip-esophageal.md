@@ -13,11 +13,11 @@ sources: []
 - **Year:** 2025
 - **Journal/Publisher:** Gastroenterology 2025;169:726–736
 - **DOI:** [10.1053/j.gastro.2025.05.011](https://doi.org/10.1053/j.gastro.2025.05.011)
-- **Type:** guideline (AGA Clinical Practice Update — Expert Review; Best Practice Advice, no formal evidence ratings)
+- **Type:** guideline (American Gastroenterological Association [AGA] Clinical Practice Update — Expert Review; Best Practice Advice, no formal evidence ratings)
 
 ## Summary
 
-Updates the 2017 AGA FLIP CPU. FLIP panometry uses impedance planimetry to measure EGJ distensibility/diameter and esophageal body contractile response to volumetric distention. Positioned as a complementary tool — interpreted alongside symptoms, endoscopy, HRM, and timed barium esophagram — most useful when standard tests are inconclusive, to confirm/refute EGJ outflow obstruction, intraprocedurally during myotomy, and in EoE remodeling and post-treatment symptom evaluation. Not for diagnosing GERD. 10 Best Practice Advice statements.
+Updates the 2017 AGA functional lumen imaging probe (FLIP) Clinical Practice Update (CPU). FLIP panometry uses impedance planimetry to measure esophagogastric junction (EGJ) distensibility/diameter and esophageal body contractile response to volumetric distention. Positioned as a complementary tool — interpreted alongside symptoms, endoscopy, high-resolution manometry (HRM), and timed barium esophagram — most useful when standard tests are inconclusive, to confirm/refute EGJ outflow obstruction, intraprocedurally during myotomy, and in eosinophilic esophagitis (EoE) remodeling and post-treatment symptom evaluation. Not for diagnosing gastroesophageal reflux disease (GERD). 10 Best Practice Advice (BPA) statements.
 
 ## Key Findings / Claims
 
@@ -31,14 +31,14 @@ Updates the 2017 AGA FLIP CPU. FLIP panometry uses impedance planimetry to measu
 6. If upper endoscopy does not demonstrate findings supportive of achalasia, abnormal esophagogastric junction opening on FLIP should prompt further diagnostic testing.
 7. Clinicians may consider performing FLIP if the mechanism of persisting dysphagia in treated EoE is not apparent on high-quality upper endoscopy or histopathology.
 8. Clinicians should not use FLIP findings to diagnose gastroesophageal reflux disease or to determine the necessity for antireflux intervention.
-9. When available, clinicians should consider performing FLIP intraprocedurally during myotomy (per-oral endoscopic myotomy or laparoscopic Heller myotomy) to guide adequacy of LES disruption.
+9. When available, clinicians should consider performing FLIP intraprocedurally during myotomy (per-oral endoscopic myotomy or laparoscopic Heller myotomy) to guide adequacy of LES [lower esophageal sphincter] disruption.
 10. Clinicians may consider performing FLIP in the evaluation of persisting symptoms of esophageal obstruction (ie, dysphagia, esophageal-type regurgitation, and/or meal-related chest pain) after treatment of achalasia spectrum disorders.
 
-**Technical points:** 8-cm catheter for EGJ metrics; 16-cm catheter adds esophageal body contractile response; key metrics = EGJ-DI (at 60 mL) and max EGJ diameter (at 70 mL). Intraoperative EGJ-DI <2–3 mm²/mm Hg may predict persisting symptoms; high EGJ-DI may associate with post-myotomy reflux. Contraindicated with actively bleeding varices.
+**Technical points:** 8-cm catheter for EGJ metrics; 16-cm catheter adds esophageal body contractile response; key metrics = EGJ distensibility index (EGJ-DI; at 60 mL) and max EGJ diameter (at 70 mL). Intraoperative EGJ-DI <2–3 mm²/mm Hg may predict persisting symptoms; high EGJ-DI may associate with post-myotomy reflux. Contraindicated with actively bleeding varices.
 
 ## Relevance to Wiki
 - [[flip-panometry]] — primary update; adds the 10 BPA on FLIP performance/indications and intraprocedural use.
 - [[achalasia]], [[eosinophilic-esophagitis]], [[poem]], [[high-resolution-manometry]] — diagnostic interplay (incl. EGJ outflow obstruction).
 
 ## Contradictions / Open Questions
-- Complements (does not replace) HRM/TBE; no consensus EGJ-DI thresholds after myotomy. Aligns with [[dallas-2025-flip-panometry]] Dallas consensus on protocol/interpretation.
+- Complements (does not replace) HRM/timed barium esophagram (TBE); no consensus EGJ-DI thresholds after myotomy. Aligns with [[dallas-2025-flip-panometry]] Dallas consensus on protocol/interpretation.

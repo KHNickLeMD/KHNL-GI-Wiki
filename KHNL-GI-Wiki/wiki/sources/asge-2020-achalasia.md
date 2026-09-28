@@ -22,14 +22,14 @@ sources: []
 
 ## Summary
 
-This guideline addresses diagnosis confirmation and definitive therapy for [[achalasia]]. Diagnosis is confirmed by [[high-resolution-manometry]] (Chicago classification); endoscopy/barium support it. Definitive options are graded therapies that disrupt the lower esophageal sphincter.
+This guideline addresses diagnosis confirmation and definitive therapy for [[achalasia]]. Diagnosis is confirmed by [[high-resolution-manometry]] (Chicago classification); endoscopy/barium support it. Definitive options are graded therapies that disrupt the lower esophageal sphincter (LES).
 
 ---
 
 ## Key Recommendations
 
-- Confirm diagnosis with **[[high-resolution-manometry]]**; exclude pseudoachalasia (EGD ± EUS/imaging).
-- **Definitive therapies** of comparable efficacy: **[[poem]]**, **pneumatic dilation (PD)**, and **laparoscopic Heller myotomy (LHM)** — select by achalasia subtype, surgical risk, and local expertise (**POEM** favored for **type III/spastic** disease given a tailorable myotomy).
+- Confirm diagnosis with **[[high-resolution-manometry]]**; exclude pseudoachalasia (esophagogastroduodenoscopy [EGD] ± endoscopic ultrasound [EUS]/imaging).
+- **Definitive therapies** of comparable efficacy: **[[poem|peroral endoscopic myotomy (POEM)]]**, **pneumatic dilation (PD)**, and **laparoscopic Heller myotomy (LHM)** — select by achalasia subtype, surgical risk, and local expertise (**POEM** favored for **type III/spastic** disease given a tailorable myotomy).
 - **Botulinum toxin injection** reserved for **poor candidates** for myotomy/dilation (temporary effect, repeat needed).
 - Counsel on **post-treatment reflux** (highest after POEM; LHM usually paired with partial fundoplication) and arrange surveillance.
 
@@ -37,7 +37,7 @@ This guideline addresses diagnosis confirmation and definitive therapy for [[ach
 
 ## Clinical Relevance
 
-POEM, pneumatic dilation, and Heller myotomy are the durable options (botox for frail patients); subtype guides choice and reflux is the key trade-off. Supports the [[achalasia]] and [[poem]] notes; updated by SAGES 2024 POEM guidance.
+POEM, pneumatic dilation, and Heller myotomy are the durable options (botox for frail patients); subtype guides choice and reflux is the key trade-off. Supports the [[achalasia]] and [[poem]] notes; updated by Society of American Gastrointestinal and Endoscopic Surgeons (SAGES) 2024 POEM guidance.
 
 ---
 
@@ -50,5 +50,5 @@ POEM, pneumatic dilation, and Heller myotomy are the durable options (botox for 
 Wiki pages built on or citing this source:
 
 - [[achalasia|Achalasia]]
-- [[heller-myotomy|Heller myotomy]] — this guideline's meta-analysis (53 studies, 5,834 patients) supplies the page's LHM efficacy figures, the post-myotomy GERD rates, and the LHM-vs-pneumatic-dilation equivalence by 2 years
-- [[pneumatic-dilation|Pneumatic dilation]] — supplies the pooled PD clinical-success rate (83%, ES ≤3, 52 studies / 4,166 patients), the LES pressure fall (34.5 → 20.8 mm Hg), and the pooled perforation (2.8%) and symptomatic-GERD (9%) rates that sit alongside — and disagree with — the ACG 2020 figures
+- [[heller-myotomy|Heller myotomy]] — this guideline's meta-analysis (53 studies, 5,834 patients) supplies the page's LHM efficacy figures, the post-myotomy gastroesophageal reflux disease (GERD) rates, and the LHM-vs-pneumatic-dilation equivalence by 2 years
+- [[pneumatic-dilation|Pneumatic dilation]] — supplies the pooled PD clinical-success rate (83%, Eckardt score ≤3, 52 studies / 4,166 patients), the LES pressure fall (34.5 → 20.8 mm Hg), and the pooled perforation (2.8%) and symptomatic-GERD (9%) rates that sit alongside — and disagree with — the American College of Gastroenterology (ACG) 2020 figures

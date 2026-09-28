@@ -14,15 +14,15 @@ sources: []
 - **Year:** 2025 (published online March 12, 2025)
 - **Journal:** Am J Gastroenterol 2025;00:1–29. doi:10.14309/ajg.0000000000003350
 - **DOI:** [10.14309/ajg.0000000000003350](https://doi.org/10.14309/ajg.0000000000003350)
-- **Type:** Clinical guideline (ACG, first iteration on GPMC)
+- **Type:** Clinical guideline (American College of Gastroenterology [ACG], first iteration on gastric premalignant conditions [GPMC])
 
 ## Summary
 
-First ACG clinical guideline on gastric premalignant conditions (GPMC): [[atrophic-gastritis|atrophic gastritis]], [[gastric-intestinal-metaplasia|gastric intestinal metaplasia]] (GIM), and dysplasia — the histopathologic Correa cascade preceding [[gastric-adenocarcinoma|gastric adenocarcinoma]]. [[helicobacter-pylori-infection|H. pylori]] is responsible for 75–89% of noncardia gastric cancer (GC), the dominant form. US 5-year survival is 36%, far below East Asian standards, driven by late-stage diagnosis.
+First ACG clinical guideline on GPMC: [[atrophic-gastritis|atrophic gastritis (AG)]], [[gastric-intestinal-metaplasia|gastric intestinal metaplasia]] (GIM), and dysplasia — the histopathologic Correa cascade preceding [[gastric-adenocarcinoma|gastric adenocarcinoma]]. [[helicobacter-pylori-infection|H. pylori]] is responsible for 75–89% of noncardia gastric cancer (GC), the dominant form. US 5-year survival is 36%, far below East Asian standards, driven by late-stage diagnosis.
 
-GC represents a major health disparity in the US: incidence is 2–13× higher in non-White populations (East Asian, Hispanic, Black, AIAN) compared with non-Hispanic White individuals. Korean Americans have NCGA rates comparable to [[colorectal-cancer|CRC]] in the general US population (70/100,000 py). Over 40 million US residents were born abroad, >70% from high-GC countries. First-generation immigrants from high-GC regions maintain elevated GC risk in the US.
+GC represents a major health disparity in the US: incidence is 2–13× higher in non-White populations (East Asian, Hispanic, Black, American Indian/Alaska Native [AIAN]) compared with non-Hispanic White individuals. Korean Americans have noncardia gastric adenocarcinoma (NCGA) rates comparable to [[colorectal-cancer|colorectal cancer (CRC)]] in the general US population (70/100,000 person-years). Over 40 million US residents were born abroad, >70% from high-GC countries. First-generation immigrants from high-GC regions maintain elevated GC risk in the US.
 
-The guideline covers screening, high-quality endoscopy and image-enhanced endoscopy (IEE), histologic diagnosis and reporting (GIM subtype + extent + severity), surveillance for high-risk GPMC, endoscopic resection (ESD) referral, H. pylori testing/eradication, and special sections on autoimmune gastritis and gastric epithelial polyps.
+The guideline covers screening, high-quality endoscopy and image-enhanced endoscopy (IEE), histologic diagnosis and reporting (GIM subtype + extent + severity), surveillance for high-risk GPMC, endoscopic resection (endoscopic submucosal dissection [ESD]) referral, H. pylori testing/eradication, and special sections on autoimmune gastritis (AIG) and gastric epithelial polyps (GEP).
 
 Key conclusions: routine GC/GPMC screening in the general US population is not recommended; opportunistic screening in high-risk groups lacks direct US evidence but should be individualized; surveillance every 3 years for high-risk GIM; H. pylori eradication is recommended in ALL GPMC patients; ESD for dysplasia should go to high-volume centers.
 
@@ -32,10 +32,10 @@ Key conclusions: routine GC/GPMC screening in the general US population is not r
 
 | Rec | Statement | Strength/Quality |
 |---|---|---|
-| 1 | Against routine EGD screening for GC/GPMC in general US population | Conditional/Very low |
+| 1 | Against routine esophagogastroduodenoscopy (EGD) screening for GC/GPMC in general US population | Conditional/Very low |
 | 2 | Insufficient evidence to recommend opportunistic screening in high-risk groups (immigration, race/ethnicity) | No recommendation |
 
-**Key concept:** Individualized screening should be considered in family Hx GC (start age 45–60 or 10y before youngest affected relative) and high-risk immigrants; H. pylori screen-and-eradicate in these groups.
+**Key concept:** Individualized screening should be considered in family history (Hx) of GC (start age 45–60 or 10y before youngest affected relative) and high-risk immigrants; H. pylori screen-and-eradicate in these groups.
 
 ### GPMC Noninvasive Diagnosis
 
@@ -47,8 +47,8 @@ Key conclusions: routine GC/GPMC screening in the general US population is not r
 
 | Rec | Statement | Strength/Quality |
 |---|---|---|
-| 4 | Recommend high-quality endoscopic evaluation: HDWLE + mucosal cleansing + CO₂ insufflation + photodocumentation + adequate gastric inspection time | Strong/Low |
-| 5 | Suggest HDWLE + IEE (NBI, blue laser imaging) for gastric examination | Conditional/Low |
+| 4 | Recommend high-quality endoscopic evaluation: high-definition white-light endoscopy (HDWLE) + mucosal cleansing + CO₂ insufflation + photodocumentation + adequate gastric inspection time | Strong/Low |
+| 5 | Suggest HDWLE + IEE (narrow-band imaging [NBI], blue laser imaging) for gastric examination | Conditional/Low |
 
 **Key concept:** 5 components of quality gastric endoscopy: (i) HDWLE; (ii) adequate insufflation (CO₂ preferred); (iii) mucosal cleansing; (iv) standard photodocumentation; (v) adequate gastric inspection time. The 2–3 min upper endoscopy is below standard of care for GPMC evaluation.
 
@@ -64,16 +64,16 @@ Key conclusions: routine GC/GPMC screening in the general US population is not r
 
 | Rec | Statement | Strength/Quality |
 |---|---|---|
-| 9 | High-risk GIM: surveillance q3y. High risk = incomplete GIM subtype OR corpus extension OR ≥1 of: family Hx GC, foreign-born from high-GC country, high-risk race (East Asian, Latino, Black, AIAN) | Conditional/Very low |
+| 9 | High-risk GIM: surveillance every 3 years (q3y). High risk = incomplete GIM subtype OR corpus extension OR ≥1 of: family Hx GC, foreign-born from high-GC country, high-risk race (East Asian, Latino, Black, AIAN) | Conditional/Very low |
 | 10 | Severe GIM or AG in antrum or corpus: surveillance q3y | Conditional/Very low |
 | 11 | Low-risk GIM or mild AG: against surveillance. Low risk = complete GIM only, limited to antrum, none of the high-risk criteria above, mild AG | Conditional/Very low |
 
 **Key concepts:**
 
-- Multiple risk factors (e.g., extensive GIM + family Hx GC): consider q1–2y interval
+- Multiple risk factors (e.g., extensive GIM + family Hx GC): consider a 1–2-year interval
 - Against routine repeat EGD <12 months for nondysplastic GPMC unless quality/protocol concern
-- IND/LGD without visible lesion: repeat in 12 months; refer to expert endoscopist
-- HGD without visible lesion: repeat within 3 months with expert endoscopist
+- Indefinite for dysplasia (IND)/low-grade dysplasia (LGD) without visible lesion: repeat in 12 months; refer to expert endoscopist
+- High-grade dysplasia (HGD) without visible lesion: repeat within 3 months with expert endoscopist
 
 ### Endoscopic Management of Dysplastic GPMC
 
@@ -89,20 +89,20 @@ Key conclusions: routine GC/GPMC screening in the general US population is not r
 | Rec | Statement | Strength/Quality |
 |---|---|---|
 | 16 | Test and eradicate H. pylori in all GPMC patients and resected early GC | Strong/Moderate |
-| 17 | Against aspirin, NSAIDs, COX-2 inhibitors, or antioxidants for GC chemoprevention | Conditional/Very low |
+| 17 | Against aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), cyclooxygenase-2 (COX-2) inhibitors, or antioxidants for GC chemoprevention | Conditional/Very low |
 
 ### Autoimmune Gastritis
 
 | Rec | Statement | Strength/Quality |
 |---|---|---|
 | 18 | AIG: assess for H. pylori with nonserological test; eradicate if positive; confirm eradication | Strong/Low |
-| 19 | Insufficient evidence for formal surveillance recommendation in AIG; individualized surveillance may be considered given increased risk of type 1 NETs and possible GC risk | Conditional/Low |
+| 19 | Insufficient evidence for formal surveillance recommendation in AIG; individualized surveillance may be considered given increased risk of type 1 neuroendocrine tumors (NETs) and possible GC risk | Conditional/Low |
 
 ### Gastric Epithelial Polyps
 
 | Rec | Statement | Strength/Quality |
 |---|---|---|
-| 20 | Endoscopic resection of ALL gastric adenomas regardless of size; surgical referral if not amenable to ER | Conditional/Low |
+| 20 | Endoscopic resection of ALL gastric adenomas regardless of size; surgical referral if not amenable to endoscopic resection (ER) | Conditional/Low |
 | 21 | Hyperplastic polyps >10mm: insufficient evidence for universal endoscopic resection (individualized approach; consider resection/biopsy + 12-month surveillance) | No recommendation |
 | 22 | All GEP except fundic gland polyps: obtain systematic Sydney protocol biopsies from surrounding flat mucosa (high prevalence of GPMC, H. pylori, AIG in these patients) | Conditional/Very low |
 
@@ -148,7 +148,7 @@ Key conclusions: routine GC/GPMC screening in the general US population is not r
 
 ## Contradictions / Open Questions
 
-- No US RCT data exist for GC screening — all RCT data from East Asia; lack of evidence ≠ evidence of no benefit in high-risk US populations
+- No US randomized controlled trial (RCT) data exist for GC screening — all RCT data from East Asia; lack of evidence ≠ evidence of no benefit in high-risk US populations
 - GIM risk stratification parameters have not been prospectively validated in US populations; most data extrapolated from European and Asian cohorts
 - Optimal postresection surveillance interval after ESD not defined
 - AIG surveillance: no formal recommendation possible given insufficient data

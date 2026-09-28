@@ -16,17 +16,17 @@ sources: []
 - **Year:** 2020 (received February 13, 2019; accepted November 12, 2019; published online January 8, 2020)
 - **Journal/Publisher:** The American Journal of Gastroenterology 2020;115:165–178
 - **DOI:** [10.14309/ajg.0000000000000501](https://doi.org/10.14309/ajg.0000000000000501)
-- **Type:** Guideline (GRADE-based with key concepts by expert consensus)
+- **Type:** Guideline (Grading of Recommendations Assessment, Development and Evaluation [GRADE]-based with key concepts by expert consensus)
 
 ---
 
 ## Summary
 
-This ACG Clinical Guideline defines SIBO as a clinical syndrome of GI symptoms caused by the presence of excessive numbers of bacteria within the small intestine, with the most recent North American Consensus supporting a colony count of ≥10³ CFU/mL in a duodenal/jejunal aspirate as diagnostic. Because clinical definitions are unclear in the absence of validated patient-reported outcomes and because GRADE-eligible evidence is limited, the guideline relies on 6 formal GRADE recommendations (all conditional, low or very low evidence) plus 15 key concepts based on expert consensus.
+This American College of Gastroenterology (ACG) Clinical Guideline defines small intestinal bacterial overgrowth (SIBO) as a clinical syndrome of gastrointestinal (GI) symptoms caused by the presence of excessive numbers of bacteria within the small intestine, with the most recent North American Consensus supporting a colony count of ≥10³ CFU/mL in a duodenal/jejunal aspirate as diagnostic. Because clinical definitions are unclear in the absence of validated patient-reported outcomes and because GRADE-eligible evidence is limited, the guideline relies on 6 formal GRADE recommendations (all conditional, low or very low evidence) plus 15 key concepts based on expert consensus.
 
-For diagnosis, breath testing using glucose or lactulose hydrogen/methane is the recommended non-invasive approach. Small bowel aspirate and culture remains the historical gold standard but is invasive and impractical. The guideline introduces the term **[[intestinal-methanogen-overgrowth|intestinal methanogen overgrowth]] (IMO)** to describe methane-predominant breath test patterns, since methanogens (archaea) are not bacteria. A positive hydrogen breath test is defined as a rise ≥20 ppm from baseline within 90 minutes; a positive methane test is ≥10 ppm at any point. Testing is suggested against in asymptomatic patients on PPIs.
+For diagnosis, breath testing using glucose or lactulose hydrogen/methane is the recommended non-invasive approach. Small bowel aspirate and culture remains the historical gold standard but is invasive and impractical. The guideline introduces the term **[[intestinal-methanogen-overgrowth|intestinal methanogen overgrowth]] (IMO)** to describe methane-predominant breath test patterns, since methanogens (archaea) are not bacteria. A positive hydrogen breath test is defined as a rise ≥20 ppm from baseline within 90 minutes; a positive methane test is ≥10 ppm at any point. Testing is suggested against in asymptomatic patients on proton pump inhibitors (PPIs).
 
-Treatment is centered on antibiotics — [[rifaximin]] being the best studied non-absorbable option (61–78% efficacy). Systemic antibiotics (amoxicillin-clavulanate, ciprofloxacin, metronidazole, neomycin, doxycycline, norfloxacin, tetracycline, TMP-SMX) are also used. There is currently no basis to recommend probiotics or FMT. Prevention (addressing underlying cause) is the primary long-term strategy. The guideline concludes with a detailed framework for future clinical trial design, outlining enrollment criteria and outcome measures for both hydrogen-positive SIBO and methane-positive IMO trials.
+Treatment is centered on antibiotics — [[rifaximin]] being the best studied non-absorbable option (61–78% efficacy). Systemic antibiotics (amoxicillin-clavulanate, ciprofloxacin, metronidazole, neomycin, doxycycline, norfloxacin, tetracycline, trimethoprim-sulfamethoxazole [TMP-SMX]) are also used. There is currently no basis to recommend probiotics or fecal microbiota transplantation (FMT). Prevention (addressing underlying cause) is the primary long-term strategy. The guideline concludes with a detailed framework for future clinical trial design, outlining enrollment criteria and outcome measures for both hydrogen-positive SIBO and methane-positive IMO trials.
 
 ---
 
@@ -34,7 +34,7 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 
 ### Diagnosis of SIBO
 
-**Recommendation 1.** We suggest the use of breath testing (glucose hydrogen or lactulose hydrogen) for the diagnosis of SIBO in patients with IBS (conditional recommendation, very low level of evidence).
+**Recommendation 1.** We suggest the use of breath testing (glucose hydrogen or lactulose hydrogen) for the diagnosis of SIBO in patients with IBS [irritable bowel syndrome] (conditional recommendation, very low level of evidence).
 
 **Recommendation 2.** We suggest using glucose hydrogen or lactulose hydrogen breath tests for the diagnosis of SIBO in symptomatic patients with suspected motility disorders (conditional recommendation, very low level of evidence).
 
@@ -79,7 +79,7 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 - SIBO defined as excessive bacteria in small bowel causing GI symptoms; ≥10³ CFU/mL in duodenal/jejunal aspirate diagnostic (North American Consensus)
 - Historically ≥10⁵ CFU/mL was used, but this was too stringent; healthy controls have <10³ CFU/mL
 - Most common bacteria: Gram-negative aerobes and anaerobes (coliforms); ferment carbohydrates producing gas
-- Mechanisms maintaining small bowel ecology (Table 3): gastric acid, pancreatic enzymes, bile acids, [[small-bowel-motility|small bowel motility]] (MMC phase III), ileocecal valve, immune system
+- Mechanisms maintaining small bowel ecology (Table 3): gastric acid, pancreatic enzymes, bile acids, [[small-bowel-motility|small bowel motility]] (migrating motor complex [MMC] phase III), ileocecal valve, immune system
 
 ### Symptoms
 
@@ -91,7 +91,7 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 
 - Principle: bacteria ferment carbohydrates → H₂/CH₄ → absorbed → exhaled
 - Substrates: glucose (75 g) or lactulose (10 g) with 1 cup water (~250 mL)
-- Preparation: NPO 8–12h before test; avoid antibiotics 4 weeks prior; avoid promotility agents and laxatives 1 week prior; avoid fermentable foods day before
+- Preparation: nothing by mouth (NPO) 8–12h before test; avoid antibiotics 4 weeks prior; avoid promotility agents and laxatives 1 week prior; avoid fermentable foods day before
 - Positive H₂ test: rise ≥20 ppm above baseline within 90–120 minutes
 - Positive CH₄ test: ≥10 ppm at any point during testing
 - Lactulose sensitivity 31–68%; specificity 44–100%
@@ -108,7 +108,7 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 ### IMO (Intestinal Methanogen Overgrowth)
 
 - Methane produced by archaea (*Methanobrevibacter smithii*), not bacteria → term "SIBO" is technically incorrect
-- IMO associated with constipation (OR 3.51, CI 2.00–6.16); methane levels proportional to constipation severity
+- IMO associated with constipation (odds ratio [OR] 3.51, confidence interval [CI] 2.00–6.16); methane levels proportional to constipation severity
 - Methane slows intestinal transit by augmenting contractility and delaying ileal peristaltic conduction velocity
 - Methane positive breath test defined as ≥10 ppm at any time point
 
@@ -119,7 +119,7 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 - Motility: IBS, pseudo-obstruction, visceral myopathies, mitochondrial diseases
 - Medications: opiates, potent antisecretory agents (PPIs)
 - Malabsorptive: pancreatic insufficiency, cirrhosis (altered bile acid composition), other
-- Immune-related: HIV, common variable immunodeficiency, IgA deficiency
+- Immune-related: human immunodeficiency virus (HIV), common variable immunodeficiency, IgA deficiency
 - Other: aging (elderly), small bowel diverticulosis
 - Colectomy with loss of ileocecal valve → retrograde movement of colonic flora → SIBO risk
 - PPI use: meta-analysis of 19 studies (>7,000 subjects) showed up to 3-fold higher SIBO risk; but evidence is conflicting and one large sequencing study found no change in microbial diversity with PPI use
@@ -132,14 +132,14 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 
 | Antibiotic | Dose | Efficacy |
 |---|---|---|
-| Rifaximin (nonabsorbable) | 550 mg t.i.d. | 61–78% |
-| Amoxicillin-clavulanic acid | 875 mg b.i.d. | 50% |
+| Rifaximin (nonabsorbable) | 550 mg three times daily (t.i.d.) | 61–78% |
+| Amoxicillin-clavulanic acid | 875 mg twice daily (b.i.d.) | 50% |
 | Ciprofloxacin | 500 mg b.i.d. | 43–100% |
-| Doxycycline | 100 mg q.d. to b.i.d. | (not specified) |
+| Doxycycline | 100 mg once daily (q.d.) to b.i.d. | (not specified) |
 | Metronidazole | 250 mg t.i.d. | 43–87% |
 | Neomycin | 500 mg b.i.d. | 33–55% |
 | Norfloxacin | 400 mg q.d. | 30–100% |
-| Tetracycline | 250 mg q.i.d. | 87.5% |
+| Tetracycline | 250 mg four times daily (q.i.d.) | 87.5% |
 | TMP-SMX | 160/800 mg b.i.d. | 95% |
 
 - Rifaximin meta-analysis (32 trials, n=1,331): overall success rate 70.8% (CI 61.4–78.2%), adverse reactions 4.6%
@@ -149,7 +149,7 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 
 **Diet:**
 
-- Low FODMAP diet reduces hydrogen production and may benefit SIBO symptoms by extension from IBS data
+- Low fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAP) diet reduces hydrogen production and may benefit SIBO symptoms by extension from IBS data
 - Low fermentable fiber approach; avoid alcohol sugars and fermentable sweeteners (sucralose); avoid prebiotics (inulin)
 - Meta-analysis: low FODMAP diet — "very low quality evidence" for supporting efficacy; "no good evidence" for gluten-free diet in IBS
 
@@ -168,7 +168,7 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 
 **H₂-positive SIBO enrollment criteria:** H₂ ≥20 ppm within 90 minutes of lactulose or glucose AND bloating (moderate to severe) at least 50% of days; OR sterile duodenal aspirate >10³ CFU/mL with bloating (moderate to severe) ≥50% of days
 **H₂-positive primary outcome:** reduction of bloating severity/frequency by 50% plus normal H₂ breath test (<20 ppm at or before 90 minutes) OR duodenal aspirate <10³ CFU/mL
-**CH₄-positive enrollment:** CH₄ ≥10 ppm at any point first 90 minutes AND constipation (<3 CSBM/week)
+**CH₄-positive enrollment:** CH₄ ≥10 ppm at any point first 90 minutes AND constipation (<3 complete spontaneous bowel movements [CSBM]/week)
 **CH₄-positive primary outcome:** improvement in constipation severity (CSBM/week increase >1) AND normalization of CH₄ (no CH₄ ≥10 ppm within 90 minutes)
 
 ---

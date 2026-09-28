@@ -7,7 +7,7 @@ updated: 2026-09-05
 sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer, aga-2020-pancreas-cancer-screening]
 ---
 
-Screening asymptomatic individuals with genetic susceptibility to [[pancreatic-cancer|pancreatic ductal adenocarcinoma]] (PDAC) to detect resectable disease or precursor lesions and shift the stage at diagnosis. The GRADE framework here is [[asge-2022-pancreatic-cancer-screening|ASGE 2022]]; eligibility criteria, genetic testing, and management of findings draw additionally on [[acg-2015-hereditary-gi-cancer|ACG 2015]]. [[aga-2020-pancreas-cancer-screening|AGA 2020]] supplies the lesion-based surveillance-interval ladder, the new-onset-diabetes trigger, the stop rule, and the program requirements. For the disease itself (staging, tissue acquisition, treatment) see [[pancreatic-cancer]].
+Screening asymptomatic individuals with genetic susceptibility to [[pancreatic-cancer|pancreatic ductal adenocarcinoma]] (PDAC) to detect resectable disease or precursor lesions and shift the stage at diagnosis. The Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework here is [[asge-2022-pancreatic-cancer-screening|American Society for Gastrointestinal Endoscopy (ASGE) 2022]]; eligibility criteria, genetic testing, and management of findings draw additionally on [[acg-2015-hereditary-gi-cancer|American College of Gastroenterology (ACG) 2015]]. [[aga-2020-pancreas-cancer-screening|American Gastroenterological Association (AGA) 2020]] supplies the lesion-based surveillance-interval ladder, the new-onset-diabetes trigger, the stop rule, and the program requirements. For the disease itself (staging, tissue acquisition, treatment) see [[pancreatic-cancer]].
 
 ## Contents
 - [[#Who to Screen]]
@@ -32,11 +32,11 @@ Screening is suggested for individuals at increased risk **because of genetic su
 
 | Condition (gene) | Family history required? | Pancreatic cancer risk | Start age* |
 |---|---|---|---|
-| [[brca-pathogenic-variants\|BRCA2]] pathogenic variant | **No** — screen all carriers | RR 5.1 → lifetime risk to age 80 ~5.2%; SIR 7.2 → ~7.4% | 50 |
+| [[brca-pathogenic-variants\|BRCA2]] pathogenic variant | **No** — screen all carriers | Relative risk (RR) 5.1 → lifetime risk to age 80 ~5.2%; standardized incidence ratio (SIR) 7.2 → ~7.4% | 50 |
 | [[brca-pathogenic-variants\|BRCA1]] pathogenic variant | **No** — screen all carriers | RR 1.9 → ~3.5%; SIR 3.7 → ~3.8% (**below** the 5% threshold — screen with caution) | 50 |
 | PALB2 pathogenic variant | **No** (ASGE 2022) | No risk estimate available in either source | 50 |
-| [[familial-pancreatic-cancer\|FPC syndrome]] — kindred with **≥2 first-degree relatives** with PDAC and **no** known hereditary cancer syndrome | Yes, by definition — screen **all first-degree relatives** of affected members | 1–2 affected FDRs: 4–7-fold; ≥3 affected FDRs: 17–32-fold ([[acg-2015-hereditary-gi-cancer\|ACG 2015]]) | 50 |
-| [[fammm-syndrome\|FAMMM syndrome]] (CDKN2A) | No | 13–39-fold ([[acg-2015-hereditary-gi-cancer\|ACG 2015]]) | **40** |
+| [[familial-pancreatic-cancer\|familial pancreatic cancer (FPC) syndrome]] — kindred with **≥2 first-degree relatives** with PDAC and **no** known hereditary cancer syndrome | Yes, by definition — screen **all first-degree relatives** of affected members | 1–2 affected first-degree relatives (FDRs): 4–7-fold; ≥3 affected FDRs: 17–32-fold ([[acg-2015-hereditary-gi-cancer\|ACG 2015]]) | 50 |
+| [[fammm-syndrome\|familial atypical multiple mole melanoma (FAMMM) syndrome]] (CDKN2A) | No | 13–39-fold ([[acg-2015-hereditary-gi-cancer\|ACG 2015]]) | **40** |
 | [[peutz-jeghers-syndrome\|Peutz-Jeghers syndrome]] (STK11/LKB1) | No | Up to 132-fold; lifetime risk 11–36% ([[acg-2015-hereditary-gi-cancer\|ACG 2015]]) | **35** |
 | ATM heterozygote | **Yes** — 1st- or 2nd-degree relative with PDAC | ~3-fold ([[acg-2015-hereditary-gi-cancer\|ACG 2015]]) | 50 |
 | [[lynch-syndrome\|Lynch syndrome]] (MMR genes) | **Yes** — 1st- or 2nd-degree relative with PDAC | 9–11-fold; lifetime risk 0.4–3.7% ([[acg-2015-hereditary-gi-cancer\|ACG 2015]]) | 50 |
@@ -44,17 +44,17 @@ Screening is suggested for individuals at increased risk **because of genetic su
 
 *\*Start at the listed age **or 10 years earlier than the youngest relative with pancreatic cancer**, whichever comes first (all conditions except hereditary pancreatitis, for which ASGE gives age 40 only).*
 
-- **Why the ages differ:** screening starts ~**1 SD below the mean age of PDAC diagnosis** for that population; for conditions conferring **RR ≥10** ([[peutz-jeghers-syndrome|Peutz-Jeghers]], [[fammm-syndrome|FAMMM]]) it starts **2 SD below** the mean.
+- **Why the ages differ:** screening starts ~**1 standard deviation (SD) below the mean age of PDAC diagnosis** for that population; for conditions conferring **RR ≥10** ([[peutz-jeghers-syndrome|Peutz-Jeghers]], [[fammm-syndrome|FAMMM]]) it starts **2 SD below** the mean.
 - **What changed:** all [[brca-pathogenic-variants|BRCA1/2]] carriers are now screened **regardless of family history** — prior guidelines required one. Rationale: among BRCA carriers who developed PDAC, only **33%** had a 1st- or 2nd-degree relative with PDAC, so ~**2 of 3** cancers would be missed by a family-history filter; family histories are also incomplete in small families.
-- **BRCA1 caveat:** its lifetime risk does not clearly cross the 5% threshold, so the suggestion rests on panel judgment (selection bias, CI up to 4.8% overlapping BRCA2, equivalent chemotherapy response). Initiate with caution and counsel on uncertain benefit; screening may not be warranted in a patient who places high value on avoiding harms from medical intervention.
-- **ACG 2015 clinical criteria for "at risk for familial pancreatic adenocarcinoma"** (any one): (i) a known genetic syndrome associated with PDAC — hereditary breast–ovarian cancer, [[fammm-syndrome|FAMMM]], [[peutz-jeghers-syndrome|PJS]], [[lynch-syndrome|Lynch]], or another PDAC-risk gene; (ii) **two relatives with PDAC, one a first-degree relative**; (iii) **≥3 relatives** with pancreatic cancer; (iv) a history of [[hereditary-pancreatitis|hereditary pancreatitis]].
+- **BRCA1 caveat:** its lifetime risk does not clearly cross the 5% threshold, so the suggestion rests on panel judgment (selection bias, confidence interval [CI] up to 4.8% overlapping BRCA2, equivalent chemotherapy response). Initiate with caution and counsel on uncertain benefit; screening may not be warranted in a patient who places high value on avoiding harms from medical intervention.
+- **ACG 2015 clinical criteria for "at risk for familial pancreatic adenocarcinoma"** (any one): (i) a known genetic syndrome associated with PDAC — hereditary breast–ovarian cancer, [[fammm-syndrome|FAMMM]], [[peutz-jeghers-syndrome|Peutz-Jeghers syndrome (PJS)]], [[lynch-syndrome|Lynch]], or another PDAC-risk gene; (ii) **two relatives with PDAC, one a first-degree relative**; (iii) **≥3 relatives** with pancreatic cancer; (iv) a history of [[hereditary-pancreatitis|hereditary pancreatitis]].
 - **Practical eligibility:** candidates are **unaffected** individuals from PDAC-prone families who would be **candidates for pancreatic surgery**; surveillance should ideally be done at experienced centers with a multidisciplinary team and under research conditions ([[acg-2015-hereditary-gi-cancer|ACG 2015]], Rec 22).
-- Counsel on the benefits and the substantial harms (below) **before** enrollment — the limitations and potential risks must be discussed with the patient *before* a screening program is initiated ([[aga-2020-pancreas-cancer-screening|AGA 2020]], BPA 13).
+- Counsel on the benefits and the substantial harms (below) **before** enrollment — the limitations and potential risks must be discussed with the patient *before* a screening program is initiated ([[aga-2020-pancreas-cancer-screening|AGA 2020]], Best Practice Advice [BPA] 13).
 - **Enrol in a registry or refer to a pancreas Center of Excellence when possible** (AGA 2020, BPA 4). Offer **genetic testing and counseling** to familial-pancreas-cancer relatives who are eligible for surveillance — a positive germline mutation both predicts neoplastic progression and may open screening for other associated cancers (BPA 3).
 
 ### Defining High Risk
 
-- Threshold adopted by both panels (originally proposed by the CAPS consortium): **lifetime risk of pancreatic cancer >5% *or* relative risk >5** compared with the general population. It is the test used to decide whether a genetic condition earns a screening program at all.
+- Threshold adopted by both panels (originally proposed by the Cancer of the Pancreas Screening [CAPS] consortium): **lifetime risk of pancreatic cancer >5% *or* relative risk >5** compared with the general population. It is the test used to decide whether a genetic condition earns a screening program at all.
 - Background comparators: general-population lifetime incidence ~**1.6%**; 5-year survival ~**10%**.
 
 ### Genetic Testing
@@ -78,25 +78,25 @@ Screening is suggested for individuals at increased risk **because of genetic su
 | Issue | [[aga-2020-pancreas-cancer-screening\|AGA 2020]] (BPA) | Resolution |
 |---|---|---|
 | Family history for BRCA1/2, PALB2 | **Required** — ≥1 first-degree relative with pancreas cancer (BPA 2) | Superseded — follow ASGE 2022 (screen all carriers). Readers carry the old rule, so it is stated. |
-| Modality | MRI **and** EUS **in combination** as the preferred modalities (BPA 7) | Superseded — ASGE 2022 permits EUS *or* MRI *or* alternating, by preference/expertise |
+| Modality | Magnetic resonance imaging (MRI) **and** endoscopic ultrasound (EUS) **in combination** as the preferred modalities (BPA 7) | Superseded — ASGE 2022 permits EUS *or* MRI *or* alternating, by preference/expertise |
 | Start ages | 50, or 10 y younger than earliest familial onset; **40** for CDKN2A + PRSS1; **35** for Peutz-Jeghers (BPA 6) | **Concordant** with ASGE 2022 |
 | Interval | Lesion-based ladder (below, BPA 9) | **Net-new** — ASGE gives only "annual"; adopted |
 | Stop rule, diabetes trigger, program requirements | BPA 12, 9, 4/10/11/13 | **Net-new** — adopted |
 
 ## When Not to Screen
 
-- **Average-risk adults** — USPSTF 2019 recommends against screening; that statement explicitly does **not** apply to inherited genetic susceptibility. [[aga-2020-pancreas-cancer-screening|AGA 2020]] states it as a hard negative: *"Clinicians should not screen average-risk individuals for pancreas cancer"* (BPA 5).
+- **Average-risk adults** — US Preventive Services Task Force (USPSTF) 2019 recommends against screening; that statement explicitly does **not** apply to inherited genetic susceptibility. [[aga-2020-pancreas-cancer-screening|AGA 2020]] states it as a hard negative: *"Clinicians should not screen average-risk individuals for pancreas cancer"* (BPA 5).
 - **When to stop in someone already enrolled** — discontinue when the individual is **more likely to die of non-pancreas-cancer causes** because of comorbidity, **and/or is no longer a candidate for pancreas resection** ([[aga-2020-pancreas-cancer-screening|AGA 2020]], BPA 12). Either condition alone is sufficient. This is the only stop rule any of the three guidelines gives.
 - **Family history of pancreatic cancer that does not meet FPC criteria** — ~**2-fold** increased risk; degree of relatedness and age at onset in the index patient do not appear to change it. Screening is **generally not recommended**.
 - **Non-genetic risk factors alone** — diabetes, older age, cigarette smoking, [[obesity]], and [[chronic-pancreatitis|chronic pancreatitis]] raise risk, but to a lesser degree than the genetic conditions above; they are outside the scope of [[asge-2022-pancreatic-cancer-screening|ASGE 2022]] and were not endorsed as screening indications by USPSTF.
 
 ## Modality
 
-Screen with [[endoscopic-ultrasound|EUS]], MRI/[[mri-mrcp|MRCP]], or EUS alternating with MRI, based on patient preference and local expertise (conditional, very low quality). Pooled yield did not differ significantly between EUS (4.0%) and MRI (2.4%). Both avoid the radiation of CT.
+Screen with [[endoscopic-ultrasound|EUS]], MRI/[[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]], or EUS alternating with MRI, based on patient preference and local expertise (conditional, very low quality). Pooled yield did not differ significantly between EUS (4.0%) and MRI (2.4%). Both avoid the radiation of computed tomography (CT).
 
 > ⚠ **Contradiction — surfaced, not followed.** [[aga-2020-pancreas-cancer-screening|AGA 2020]] (BPA 7) directs that MRI and EUS be used **in combination** as the preferred modalities, on the reasoning that they are complementary rather than redundant — **MRI is more sensitive for cystic lesions, EUS for solid lesions**. [[asge-2022-pancreatic-cancer-screening|ASGE 2022]] is the newer tier-1 guideline and permits either alone or alternating; **that is what this page follows**. The complementarity argument still stands as the reason to alternate rather than repeat one modality.
 
-- **[[ercp|ERCP]] has been supplanted** as a screening modality because of pancreatitis risk ([[aga-2020-pancreas-cancer-screening|AGA 2020]]).
+- **[[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] has been supplanted** as a screening modality because of pancreatitis risk ([[aga-2020-pancreas-cancer-screening|AGA 2020]]).
 
 | | EUS may be preferred | MRI may be preferred |
 |---|---|---|
@@ -120,7 +120,7 @@ Screen with [[endoscopic-ultrasound|EUS]], MRI/[[mri-mrcp|MRCP]], or EUS alterna
 | **High-risk** lesion, *surgical resection not planned* | EUS within **3 months** |
 
 - ⚠ **New-onset diabetes in a high-risk individual is itself a trigger** — it should prompt additional diagnostic studies or a change in surveillance interval, independent of imaging findings (BPA 9). Background: new-onset diabetes typically **precedes** the cancer diagnosis by ~**36 months**.
-- ⚠ AGA 2020 does **not** define what makes a lesion low-risk vs indeterminate vs high-risk — the ladder's strata are named but not specified, and the CPU defers the assignment to the multidisciplinary team. Neither ACG 2015 nor ASGE 2022 supplies the criteria either; they are in the CAPS consortium recommendations (Goggins 2020). The sporadic-cyst worrisome-feature criteria are not a substitute.
+- ⚠ AGA 2020 does **not** define what makes a lesion low-risk vs indeterminate vs high-risk — the ladder's strata are named but not specified, and the Clinical Practice Update (CPU) defers the assignment to the multidisciplinary team. Neither ACG 2015 nor ASGE 2022 supplies the criteria either; they are in the CAPS consortium recommendations (Goggins 2020). The sporadic-cyst worrisome-feature criteria are not a substitute.
 - Provide **smoking-cessation education** as part of the surveillance program — smoking is an independent PDAC risk factor in FPC families and smokers are diagnosed at an earlier age, though **no data support altering the surveillance strategy by smoking status**. In [[hereditary-pancreatitis|hereditary pancreatitis]], add a **low-fat diet** ([[acg-2015-hereditary-gi-cancer|ACG 2015]]).
 
 ## What an Abnormal Finding Triggers
@@ -128,10 +128,10 @@ Screen with [[endoscopic-ultrasound|EUS]], MRI/[[mri-mrcp|MRCP]], or EUS alterna
 - **What counts as a positive screen** (the outcome definitions behind the yield figures):
   - **High-risk lesion** = PDAC, high-grade dysplasia, or **grade III pancreatic intraepithelial neoplasia (PanIN)**.
   - **Resectable / borderline-resectable** = any **T1–3, N0–2** PDAC, high-grade dysplasia, or grade III PanIN.
-  - The precursor lesions surveillance aims to catch are **PanIN** and **IPMN** (see [[pancreatic-cysts]]).
+  - The precursor lesions surveillance aims to catch are **pancreatic intraepithelial neoplasia (PanIN)** and **intraductal papillary mucinous neoplasm (IPMN)** (see [[pancreatic-cysts]]).
   - **What the program is aiming at** ([[aga-2020-pancreas-cancer-screening|AGA 2020]], BPA 8): *resectable stage I PDAC* and *high-risk precursor neoplasms* — IPMN with **high-grade dysplasia** and **some enlarged PanINs**. ⚠ The same CPU records that current imaging **cannot reliably detect or distinguish PanINs**, and lacks the specificity to separate low- from high-grade precursors — so part of the stated target is not reliably reachable with the recommended modalities.
 - **A pancreatic cystic lesion found in a hereditary-PDAC-prone family member carries a higher cancer risk than a sporadic cyst** and requires evaluation by a center experienced with high-risk individuals; the decision on **when to operate is difficult and is individualized after multidisciplinary assessment** ([[acg-2015-hereditary-gi-cancer|ACG 2015]], Rec 24, conditional/low).
-- **The one sourced operative threshold — BD-IPMN ≥2 cm.** Cystic lesions are the **most common finding** on surveillance, and most are benign or low-grade dysplasia. ACG 2015 reports the CAPS consensus position: follow these patients **according to the international consensus guidelines for sporadic branch-duct IPMN**, with the **majority of the panel agreeing that surgery should be considered for branch-duct IPMN ≥2 cm**. The sporadic cyst criteria therefore *do* apply as the starting framework (they live on the pancreatic cysts page linked above), but ACG explicitly labels management of these cysts **"unclear."**
+- **The one sourced operative threshold — branch-duct IPMN (BD-IPMN) ≥2 cm.** Cystic lesions are the **most common finding** on surveillance, and most are benign or low-grade dysplasia. ACG 2015 reports the CAPS consensus position: follow these patients **according to the international consensus guidelines for sporadic branch-duct IPMN**, with the **majority of the panel agreeing that surgery should be considered for branch-duct IPMN ≥2 cm**. The sporadic cyst criteria therefore *do* apply as the starting framework (they live on the pancreatic cysts page linked above), but ACG explicitly labels management of these cysts **"unclear."**
 - **Nothing beyond that.** None of the three guidelines gives a growth rate, main-duct threshold, or solid-lesion size that mandates surgery in a high-risk individual, and ASGE 2022 gives no operative guidance at all. [[aga-2020-pancreas-cancer-screening|AGA 2020]] scopes itself explicitly to *"primary screening rather than management of abnormal screening test results"* and states only that the decision belongs to a dedicated multidisciplinary team together with the individual and their family (BPA 10), with resection performed at **high-volume centers** (BPA 11). Operative thresholds in high-risk individuals are addressed by the CAPS consortium recommendations (Goggins 2020).
 - **No management algorithm after a normal exam.** ASGE 2022 lists this explicitly as an unanswered question (below).
 

@@ -22,7 +22,7 @@ sources: []
 
 ## Summary
 
-This guideline addresses tissue acquisition and palliation for solid pancreatic masses using [[endoscopic-ultrasound|EUS]]. The headline change: **EUS fine-needle biopsy (FNB) needles are preferred over fine-needle aspiration (FNA)** for diagnosis.
+This guideline addresses tissue acquisition and palliation for solid pancreatic masses using [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]. The headline change: **EUS fine-needle biopsy (FNB) needles are preferred over fine-needle aspiration (FNA)** for diagnosis.
 
 ---
 
@@ -30,7 +30,7 @@ This guideline addresses tissue acquisition and palliation for solid pancreatic 
 
 - **EUS-FNB over FNA** for tissue acquisition of solid pancreatic masses (higher diagnostic yield/adequacy, more tissue for ancillary testing; fewer passes).
 - Reasonable to use **22-gauge** needles; **rapid on-site evaluation (ROSE)** is not mandatory when FNB is used.
-- For malignant distal biliary obstruction from a pancreatic head mass, **self-expandable metal stents** over plastic stents for durable drainage (coordinate with [[ercp]]).
+- For malignant distal biliary obstruction from a pancreatic head mass, **self-expandable metal stents** over plastic stents for durable drainage (coordinate with [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]).
 
 ---
 

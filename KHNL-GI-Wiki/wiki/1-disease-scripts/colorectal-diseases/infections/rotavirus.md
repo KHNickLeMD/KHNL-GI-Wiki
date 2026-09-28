@@ -43,15 +43,15 @@ Exposure/host features that raise the pretest probability of rotavirus. [[idsa-2
 |---|---|
 | Age | **6–18 months** — the peak-incidence window |
 | Setting exposure | Child care center attendance or employment; healthcare, long-term care, or prison exposure/employment |
-| Inoculum | Low-inoculum pathogen (like [[norovirus]], *Giardia*, [[shigellosis\|*Shigella*]], STEC) → person-to-person spread is efficient |
+| Inoculum | Low-inoculum pathogen (like [[norovirus]], *Giardia*, [[shigellosis\|*Shigella*]], Shiga toxin–producing *E. coli* (STEC)) → person-to-person spread is efficient |
 | Immunodeficiency | **Persistent** rotavirus diarrhea — both non-vaccine and vaccine strain — reported in young children with **primary immunodeficiency** |
 
 - Pre-vaccine US burden in children <5 y: ~3 million episodes, >500,000 outpatient visits, 27,000 hospitalizations, ~25 deaths annually; [[norovirus]] took the lead after vaccine introduction.
 
 ### Severity Assessment
 
-- Severity is driven by **volume depletion**, not by the organism — assess dehydration, oral intake, and host (infant, elderly, immunocompromised). IDSA notes that several dehydration-grading scales exist for young children but **no single validated standard**, and that signs of dehydration may be **masked by hypernatremia**. [[idsa-2017-infectious-diarrhea]]
-- Rehydration route follows the dehydration grade: mild–moderate → oral (or nasogastric) ORS; severe / shock / altered mental status → IV (see [[#Supportive care — the treatment]]).
+- Severity is driven by **volume depletion**, not by the organism — assess dehydration, oral intake, and host (infant, elderly, immunocompromised). Infectious Diseases Society of America (IDSA) notes that several dehydration-grading scales exist for young children but **no single validated standard**, and that signs of dehydration may be **masked by hypernatremia**. [[idsa-2017-infectious-diarrhea]]
+- Rehydration route follows the dehydration grade: mild–moderate → oral (or nasogastric) oral rehydration solution (ORS); severe / shock / altered mental status → intravenous (IV) (see [[#Supportive care — the treatment]]).
 - **Immunocompromised host** — broaden the differential with culture, viral studies, and parasite examination *(strong, moderate)*. [[idsa-2017-infectious-diarrhea]] (Rec 12)
 
 ---
@@ -61,10 +61,10 @@ Exposure/host features that raise the pretest probability of rotavirus. [[idsa-2
 *Workup: see [[acute-diarrhea]].*
 
 - Other viral gastroenteritis — [[norovirus]], adenovirus
-- Non-inflammatory bacterial — [[enterotoxigenic-e-coli|ETEC]]
+- Non-inflammatory bacterial — [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]]
 - Protozoal (watery, more often persistent) — [[giardiasis]], [[cryptosporidiosis]]
 - [[clostridioides-difficile|*C. difficile*]] colitis (antibiotic / healthcare exposure)
-- Non-infectious at ≥14 days — [[postinfectious-ibs|post-infectious IBS]], [[irritable-bowel-syndrome]], [[inflammatory-bowel-disease|IBD]]
+- Non-infectious at ≥14 days — [[postinfectious-ibs|post-infectious irritable bowel syndrome (IBS)]], [[irritable-bowel-syndrome]], [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]
 
 ---
 
@@ -72,11 +72,11 @@ Exposure/host features that raise the pretest probability of rotavirus. [[idsa-2
 
 | Test | Role |
 |---|---|
-| Multiplex GI PCR / culture-independent panel (NAAT, stool) | Detects rotavirus; recommended at least as adjunct to traditional methods [[acg-2016-acute-diarrhea]] |
-| **EIA (antigen), stool** | The traditional rotavirus-specific assay (also detects enteric adenovirus) [[idsa-2017-infectious-diarrhea]] |
+| Multiplex gastrointestinal (GI) polymerase chain reaction (PCR) / culture-independent panel (nucleic acid amplification test (NAAT), stool) | Detects rotavirus; recommended at least as adjunct to traditional methods [[acg-2016-acute-diarrhea]] |
+| **Enzyme immunoassay (EIA; antigen), stool** | The traditional rotavirus-specific assay (also detects enteric adenovirus) [[idsa-2017-infectious-diarrhea]] |
 | Fresh (not swab) stool | Preferred specimen for viral agents [[idsa-2017-infectious-diarrhea]] |
-| Serology | **Do not use** to establish etiology *(strong, low)* — exception: may be considered in post-diarrheal HUS when stool culture yielded no Shiga toxin–producing organism *(weak, low)* [[idsa-2017-infectious-diarrhea]] |
-| Peripheral WBC + differential | **Do not use** to establish etiology *(strong, low)*; may still be clinically useful *(weak, low)* [[idsa-2017-infectious-diarrhea]] |
+| Serology | **Do not use** to establish etiology *(strong, low)* — exception: may be considered in post-diarrheal hemolytic uremic syndrome (HUS) when stool culture yielded no Shiga toxin–producing organism *(weak, low)* [[idsa-2017-infectious-diarrhea]] |
+| Peripheral white blood cell (WBC) + differential | **Do not use** to establish etiology *(strong, low)*; may still be clinically useful *(weak, low)* [[idsa-2017-infectious-diarrhea]] |
 | Fecal leukocytes / stool lactoferrin | **Do not use** to establish etiology *(strong, moderate)*; insufficient data on fecal calprotectin [[idsa-2017-infectious-diarrhea]] |
 | Antibiotic sensitivity testing | Not recommended in acute diarrheal infection *(strong, very low)* [[acg-2016-acute-diarrhea]] (Rec 4) |
 
@@ -101,7 +101,7 @@ Exposure/host features that raise the pretest probability of rotavirus. [[idsa-2
 - [[loperamide]] — **do not give to anyone <18 years** with acute diarrhea *(strong, moderate)*; **may** be given to immunocompetent **adults** with acute watery diarrhea *(weak, moderate)*; avoid at any age with fever/inflammatory diarrhea or where [[toxic-megacolon]] may result *(strong, low)*. [[idsa-2017-infectious-diarrhea]] (Rec 47)
 - **Children:** ondansetron may be given to facilitate ORS tolerance in children **>4 years** and adolescents with vomiting *(weak, moderate)* (Rec 48); oral **zinc** shortens diarrhea in children **6 months–5 years** who live where zinc deficiency is prevalent or who show signs of malnutrition *(strong, moderate)* (Rec 50). [[idsa-2017-infectious-diarrhea]]
 - [[probiotics]] — **may** be offered to immunocompetent adults and children with infectious diarrhea to modestly reduce symptom severity and duration *(weak, moderate)*. [[idsa-2017-infectious-diarrhea]] (Rec 49)
-  > **Guidelines differ.** The older [[acg-2016-acute-diarrhea|ACG 2016]] (Rec 6, *strong/moderate*) recommends **against** probiotics for acute diarrhea in adults **except** post-antibiotic-associated illness, and against them for TD prophylaxis (Rec 17). The newer [[idsa-2017-infectious-diarrhea|IDSA 2017]] position above is the one to follow.
+  > **Guidelines differ.** The older [[acg-2016-acute-diarrhea|American College of Gastroenterology (ACG) 2016]] (Rec 6, *strong/moderate*) recommends **against** probiotics for acute diarrhea in adults **except** post-antibiotic-associated illness, and against them for traveler's diarrhea (TD) prophylaxis (Rec 17). The newer [[idsa-2017-infectious-diarrhea|IDSA 2017]] position above is the one to follow.
 
 ### Prevention
 
@@ -112,8 +112,8 @@ Exposure/host features that raise the pretest probability of rotavirus. [[idsa-2
 | Pentavalent (RotaTeq, Merck) | Live, attenuated, oral | **3 doses** |
 | Monovalent (Rotarix, GSK) | Live, attenuated, oral | **2 doses** |
 
-- Phase 3 efficacy: **74%–87%** against any rotavirus infection; **85%–98%** against severe gastroenteritis — the basis for the ACIP universal-infant recommendation (2006/2008). Post-licensure surveillance shows fewer outpatient visits and hospitalizations in vaccinated infants (direct protection) **and** in unvaccinated/age-ineligible children and adults (community protection). [[idsa-2017-infectious-diarrhea]]
-  > *[[idsa-2017-infectious-diarrhea]] conditions the recommendation on "no known contraindication" but does not enumerate the contraindications or the dose ages/upper age limit; those are in the ACIP rotavirus vaccine statement (MMWR).*
+- Phase 3 efficacy: **74%–87%** against any rotavirus infection; **85%–98%** against severe gastroenteritis — the basis for the Advisory Committee on Immunization Practices (ACIP) universal-infant recommendation (2006/2008). Post-licensure surveillance shows fewer outpatient visits and hospitalizations in vaccinated infants (direct protection) **and** in unvaccinated/age-ineligible children and adults (community protection). [[idsa-2017-infectious-diarrhea]]
+  > *[[idsa-2017-infectious-diarrhea]] conditions the recommendation on "no known contraindication" but does not enumerate the contraindications or the dose ages/upper age limit; those are in the ACIP rotavirus vaccine statement (Morbidity and Mortality Weekly Report (MMWR)).*
 - Symptomatic people should avoid swimming, water-related activities, and sexual contact, with meticulous hand hygiene *(strong, low)*. [[idsa-2017-infectious-diarrhea]] (Rec 56)
 
 ---

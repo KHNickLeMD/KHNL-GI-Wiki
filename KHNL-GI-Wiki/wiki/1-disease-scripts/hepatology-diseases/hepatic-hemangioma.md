@@ -47,14 +47,14 @@ sources: [acg-2024-focal-liver-lesions]
 
 - **Typically asymptomatic** — the vast majority are incidental
 - Larger lesions: pain, poor appetite, abdominal fullness
-- **Kasabach–Merritt syndrome:** rare consumptive coagulopathy — **thrombocytopenia, systemic bleeding, DIC** — usually seen in **giant cavernous** hemangiomas
+- **Kasabach–Merritt syndrome:** rare consumptive coagulopathy — **thrombocytopenia, systemic bleeding, disseminated intravascular coagulation (DIC)** — usually seen in **giant cavernous** hemangiomas
 - **Spontaneous rupture is exceedingly rare**
 
 ### Severity Assessment
 
 No grading system — hemangioma is uniformly benign. Three variables actually drive management:
 
-1. **Is the diagnosis confirmed on imaging?** (if not → monitor + multidisciplinary tumor board, KC 25)
+1. **Is the diagnosis confirmed on imaging?** (if not → monitor + multidisciplinary tumor board, Key Concept [KC] 25)
 2. **Does the patient have [[cirrhosis]], [[chronic-hepatitis-b|chronic hepatitis B]], or another malignancy risk?** — the only situation requiring surveillance
 3. **Is there a lesion-related complication?** — the only indication for treatment
 
@@ -64,9 +64,9 @@ No grading system — hemangioma is uniformly benign. Three variables actually d
 
 | Type | Size | Imaging behaviour | Why it matters |
 |---|---|---|---|
-| **Cavernous** | classic US appearance usually seen **<3 cm**; a few mm to >20 cm | Homogeneous hyperechoic with posterior acoustic enhancement on US; **"avascular" on color Doppler** (slow flow in large vascular spaces); T2 light-bulb bright; peripheral nodular → centripetal fill-in | The prototype; "do not touch" lesion |
+| **Cavernous** | classic ultrasound (US) appearance usually seen **<3 cm**; a few mm to >20 cm | Homogeneous hyperechoic with posterior acoustic enhancement on US; **"avascular" on color Doppler** (slow flow in large vascular spaces); T2 light-bulb bright; peripheral nodular → centripetal fill-in | The prototype; "do not touch" lesion |
 | **Giant cavernous** | **>10 cm** (some authors use >4–5 cm) | Same features, but may also show **calcification, large central non-enhancement, heterogeneous post-contrast enhancement** | Still needs no follow-up if asymptomatic; source of Kasabach–Merritt |
-| **Capillary ("flash-filling")** | usually **<1 cm** | Rapid **homogeneous** arterial-phase enhancement on CT/MRI; **may show vascular flow on US** (smaller vascular spaces) | Can be mistaken for a hypervascular malignancy |
+| **Capillary ("flash-filling")** | usually **<1 cm** | Rapid **homogeneous** arterial-phase enhancement on computed tomography (CT)/magnetic resonance imaging (MRI); **may show vascular flow on US** (smaller vascular spaces) | Can be mistaken for a hypervascular malignancy |
 | **Sclerosed** (thrombosed / hyalinized) | variable | **Thick peripheral rim** enhancement early, progressive enhancement that is **non-centripetal and non-nodular**; **heterogeneous** on T2; **increasing** restricted diffusion at high b-value; **upstream capsular retraction** | Mimics [[cholangiocarcinoma\|intrahepatic cholangiocarcinoma]] or hypovascular metastasis — the main diagnostic trap |
 
 ---
@@ -75,10 +75,10 @@ No grading system — hemangioma is uniformly benign. Three variables actually d
 
 *Workup & imaging comparison: see [[focal-liver-lesions]].*
 
-- **[[focal-nodular-hyperplasia|Focal nodular hyperplasia]] (FNH)** — intense homogeneous APHE, gadoxetate uptake on hepatobiliary phase, central scar; no T2 light-bulb pattern
+- **[[focal-nodular-hyperplasia|Focal nodular hyperplasia]] (FNH)** — intense homogeneous arterial phase hyperenhancement (APHE), gadoxetate uptake on hepatobiliary phase, central scar; no T2 light-bulb pattern
 - **[[hepatocellular-adenoma|Hepatocellular adenoma]]** — hepatocellular origin; no gadoxetate uptake; hormonal risk factors
 - **Hepatic metastases** — ring enhancement; T2 variable; clinical context of known malignancy
-- **[[hepatocellular-carcinoma|HCC]]** — APHE **+ washout**; in a [[cirrhosis|cirrhotic]] background; [[li-rads|LI-RADS]] ≥4. Early in malignant development a lesion can **mimic** a hemangioma — the reason cirrhosis/HBV changes follow-up
+- **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]]** — APHE **+ washout**; in a [[cirrhosis|cirrhotic]] background; [[li-rads|Liver Imaging Reporting and Data System (LI-RADS)]] ≥4. Early in malignant development a lesion can **mimic** a hemangioma — the reason cirrhosis/hepatitis B virus (HBV) changes follow-up
 - **[[cholangiocarcinoma|Intrahepatic cholangiocarcinoma]] / hypovascular metastasis** — share the rim-enhancement + capsular-retraction pattern of a **sclerosed hemangioma**; comparison with prior imaging, or occasionally biopsy, resolves it
 - **Hepatic angiosarcoma** — rare; rapidly growing; heterogeneous; necrosis; aggressive course
 - **Hepatic endothelial hemangioendothelioma** — rare vascular tumour; stage with whole-body contrast-enhanced CT or MRI; resect whenever possible, and if unresectable, [[liver-transplantation|liver transplantation]] offers the best survival even with extrahepatic disease (KC 33–35)
@@ -92,7 +92,7 @@ No grading system — hemangioma is uniformly benign. Three variables actually d
 | Scenario | Next step |
 |---|---|
 | **Small echogenic avascular lesion <2 cm, well-defined borders, normal liver, no medical history or risk factors** for liver disease or malignancy | **Diagnose as hemangioma on ultrasound** — nothing further (KC 24a) |
-| Lesion **>2 cm**, atypical/nondiagnostic US, or any risk factor ([[chronic-hepatitis-b\|hepatitis B]], [[cirrhosis\|cirrhosis]], known malignancy) | **Multiphasic contrast-enhanced imaging** — CEUS, CT, or MRI (KC 24b) |
+| Lesion **>2 cm**, atypical/nondiagnostic US, or any risk factor ([[chronic-hepatitis-b\|hepatitis B]], [[cirrhosis\|cirrhosis]], known malignancy) | **Multiphasic contrast-enhanced imaging** — contrast-enhanced ultrasound (CEUS), CT, or MRI (KC 24b) |
 | Suspected hemangioma **cannot be confirmed** on cross-sectional imaging | **Monitor and review at a multidisciplinary tumor board** (KC 25) |
 
 ### Modality Performance
@@ -111,7 +111,7 @@ No grading system — hemangioma is uniformly benign. Three variables actually d
 - **Non-contrast:** hypodense on CT / T1-hypointense on MRI
 - **Arterial phase:** peripheral **nodular** enhancement
 - **Portal venous / delayed phases:** progressive **centripetal fill-in**, following the arterial blood pool
-- **Diffusion:** hyperintense on **low** b-value DWI with **decreasing** signal as b-value increases — useful in atypical lesions
+- **Diffusion:** hyperintense on **low** b-value diffusion-weighted imaging (DWI) with **decreasing** signal as b-value increases — useful in atypical lesions
 - **Hepatobiliary phase (gadoxetate):** hypointense (no hepatocellular uptake) — distinguishes from [[focal-nodular-hyperplasia|FNH]]
 
 ### Biopsy
@@ -128,7 +128,7 @@ No grading system — hemangioma is uniformly benign. Three variables actually d
 
 - **Once the diagnosis is confirmed, no further follow-up imaging is needed** (KC 27a) — **regardless of size**, including asymptomatic **giant cavernous** lesions >10 cm, for which **surgical resection is also not indicated** (KC 28)
 - **Pregnancy is not a reason to monitor** — pregnant patients need no hemangioma surveillance even with large cavernous lesions (KC 27b)
-- **The one exception — malignancy risk (Rec 11, Strong / Low):** in patients with **[[cirrhosis]] or [[chronic-hepatitis-b|chronic hepatitis B]] who meet criteria for [[hcc-surveillance|HCC surveillance]]** and have a **suspected** hemangioma, continue **imaging surveillance every 3–6 months for at least 1 year** — an early malignancy can mimic a hemangioma. Thereafter follow AASLD HCC guidance for focal liver lesions
+- **The one exception — malignancy risk (Rec 11, Strong / Low):** in patients with **[[cirrhosis]] or [[chronic-hepatitis-b|chronic hepatitis B]] who meet criteria for [[hcc-surveillance|HCC surveillance]]** and have a **suspected** hemangioma, continue **imaging surveillance every 3–6 months for at least 1 year** — an early malignancy can mimic a hemangioma. Thereafter follow American Association for the Study of Liver Diseases (AASLD) HCC guidance for focal liver lesions
 
 ### When to Treat (KC 29)
 
@@ -148,7 +148,7 @@ The clearest indications for treatment are **complications of the lesion**, all 
 
 ### Hormones and Contraception
 
-- No clear causative link between hemangioma and female sex hormones → **OCP use and pregnancy need not be avoided** in patients with hemangiomas ([[acg-2024-focal-liver-lesions]])
+- No clear causative link between hemangioma and female sex hormones → **oral contraceptive pill (OCP) use and pregnancy need not be avoided** in patients with hemangiomas ([[acg-2024-focal-liver-lesions]])
 
 ---
 

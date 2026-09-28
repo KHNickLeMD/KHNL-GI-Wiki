@@ -11,14 +11,14 @@ sources: [aga-2023-ostomies]
 
 - Enteral stoma = colostomy or ileostomy; ~750,000 Americans live with an ostomy; ~130,000 new ostomy surgeries/year (US).
 - Adequate stomal care improves outcomes and reduces hospitalizations; this page covers care **beyond the immediate perioperative period** (a recognized gap area).
-- Indications span [[colorectal-cancer|CRC]], [[inflammatory-bowel-disease|IBD]] ([[crohns-disease|Crohn's disease]], [[ulcerative-colitis]]), perforated [[diverticulitis|diverticulitis]], trauma, colonic dysmotility, and fecal diversion (for [[fecal-incontinence|fecal incontinence]], sacral wound, spinal cord injury).
+- Indications span [[colorectal-cancer|colorectal cancer (CRC)]], [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] ([[crohns-disease|Crohn's disease]], [[ulcerative-colitis]]), perforated [[diverticulitis|diverticulitis]], trauma, colonic dysmotility, and fecal diversion (for [[fecal-incontinence|fecal incontinence]], sacral wound, spinal cord injury).
 - Stoma must sit **above skin level** so effluent doesn't seep under the appliance (Brooke technique = suturing to protrude above skin).
 
 ## Ostomy Types & Output Expectations
 
 | Type | Construction | Output | Appliance change |
 |---|---|---|---|
-| **Colostomy** (most common) | Sigmoid, descending, or transverse colon; right colon avoided (large diameter, liquid effluent → leak-prone) | **Formed** stool; BM commonly **once daily** | q**6–7 days** |
+| **Colostomy** (most common) | Sigmoid, descending, or transverse colon; right colon avoided (large diameter, liquid effluent → leak-prone) | **Formed** stool; bowel movement (BM) commonly **once daily** | q**6–7 days** |
 | **Ileostomy** | Terminal ileum near ileocecal valve (maximizes nutrient absorption); easier to construct/reverse than colostomy but **more dehydration + skin excoriation** | **Liquid** effluent; empty **3–4×/day** | wafer q**4 days** avg |
 
 **Configurations:**
@@ -31,7 +31,7 @@ sources: [aga-2023-ostomies]
 ## Normal vs High Ostomy Output (HOO)
 
 - **Normal:** colostomy formed stool ~once daily; ileostomy liquid effluent emptied 3–4×/day.
-- **HOO = output greater than fluid intake, typically >1.5 L/d** → dehydration. Common with ileostomy; rare with colostomy.
+- **High ostomy output (HOO) = output greater than fluid intake, typically >1.5 L/d** → dehydration. Common with ileostomy; rare with colostomy.
 - **Early HOO** = HOO within **3 weeks** of stoma formation.
 - **Chronic (late) HOO** = persistent HOO **>3 weeks** after surgery, OR new-onset HOO **>3 weeks** after creation.
 - HOO with a colostomy, or unusually high with an ileostomy → prompt evaluation for infection (postoperative abdominal infection, [[clostridioides-difficile|C. difficile]]), ileus, or medication adverse effects.
@@ -43,7 +43,7 @@ sources: [aga-2023-ostomies]
 - **Most important treatment: hydration to prevent renal failure.** Repletion volumes are large → typically **IV**, requiring hospital admission or long-term IV access for home health care.
 - Persistent early HOO → consider **early stoma reversal**, but reversal **before 6 weeks** from index surgery carries increased complication risk.
 
-**Chronic (late) HOO** — more likely with jejunostomy, [[short-bowel-syndrome|short bowel]] (**<200 cm small intestine remaining**), or failed post-surgical adaptation. Ileal adaptation begins over days–weeks (mucosal changes altering electrolyte transport, absorptive capacity, motility). Etiologies: infection, structural (stomal stricture/dysfunction, obstruction, ileus, enteric fistula), recurrent [[crohns-disease|Crohn's disease]], and common adult diarrhea causes ([[microscopic-colitis|microscopic colitis]], [[bile-acid-diarrhea|bile acid diarrhea]]). *Parenteral-nutrition thresholds for high ostomy output (>2000 mL/24 h) live on [[nutrition-in-ibd]] — note that figure is a PN trigger, not the >1.5 L/d HOO definition above.*
+**Chronic (late) HOO** — more likely with jejunostomy, [[short-bowel-syndrome|short bowel]] (**<200 cm small intestine remaining**), or failed post-surgical adaptation. Ileal adaptation begins over days–weeks (mucosal changes altering electrolyte transport, absorptive capacity, motility). Etiologies: infection, structural (stomal stricture/dysfunction, obstruction, ileus, enteric fistula), recurrent [[crohns-disease|Crohn's disease]], and common adult diarrhea causes ([[microscopic-colitis|microscopic colitis]], [[bile-acid-diarrhea|bile acid diarrhea]]). *Parenteral nutrition (PN) thresholds for high ostomy output (>2000 mL/24 h) live on [[nutrition-in-ibd]] — note that figure is a PN trigger, not the >1.5 L/d HOO definition above.*
 
 **Treatment ladder (Table 1):**
 
@@ -51,9 +51,9 @@ sources: [aga-2023-ostomies]
 |---|---|
 | Bulking agents | Psyllium fiber; guar gum; marshmallows |
 | Antimotility agents | [[loperamide\|Loperamide]]; diphenoxylate + atropine; codeine; tincture of opium |
-| Antisecretory agents | [[proton-pump-inhibitors\|PPIs]] / H2 agonists; [[somatostatin-analogs\|somatostatin analogues]] (octreotide) |
+| Antisecretory agents | [[proton-pump-inhibitors\|proton pump inhibitors (PPIs)]] / H2 agonists; [[somatostatin-analogs\|somatostatin analogues]] (octreotide) |
 | Anti-inflammatory (if recurrent Crohn's) | Consultation with IBD specialist |
-| Adaptation-promoting | [[glp-2-agonists\|GLP-2 analogues]] (teduglutide, elsiglutide, glepaglutide, apraglutide) |
+| Adaptation-promoting | [[glp-2-agonists\|glucagon-like peptide-2 (GLP-2) analogues]] (teduglutide, elsiglutide, glepaglutide, apraglutide) |
 | Surgical | Reversal of the ostomy with restoration of intestinal continuity when possible |
 
 ## Short-Term Complications
@@ -71,7 +71,7 @@ sources: [aga-2023-ostomies]
 
 - **Appliance allergy** — itching/redness in the shape of the offending product → skin sealant, pouching-system change, temporary steroid spray.
 - **Fungal infection** (moisture/heat) — itchy maculopapular rash with satellite borders → antifungal powder sealed with sealant; no improvement at 2 weeks → surgeon/enterostomal therapist.
-- **Peristomal pyoderma gangrenosum** — painful ulcers with purple halo (esp. IBD) → interdisciplinary GI/dermatology/wound-care management.
+- **Peristomal pyoderma gangrenosum** — painful ulcers with purple halo (esp. IBD) → interdisciplinary gastrointestinal (GI)/dermatology/wound-care management.
 - **Peristomal [[variceal-upper-gi-bleeding|varices]]** — minor bleeding at appliance changes is normal; persistent/severe bleeding or purplish concentric peristomal discoloration → work up.
 
 **Parastomal hernia** — up to **50% of ostomates within 5 years**.
@@ -95,7 +95,7 @@ sources: [aga-2023-ostomies]
 - WOC (wound ostomy continence) marking assesses the abdomen in multiple positions for a site within the rectus, away from scars, skin folds, bony prominences, and the umbilicus.
 - WOC consultation manages expectations (output, appliances, regular mucus passage from the native rectum); community-based and online ostomy support groups exist.
 
-**What the AGA 2023 update does not cover:** nutrition as a discrete topic; altered oral drug absorption after ileostomy or with short bowel (partly addressed by [[aga-2022-short-bowel-syndrome]] BPA 7 — see [[short-bowel-syndrome]]); and typical daily ileostomy output volumes beyond the >1.5 L/d high-output threshold.
+**What the American Gastroenterological Association (AGA) 2023 update does not cover:** nutrition as a discrete topic; altered oral drug absorption after ileostomy or with short bowel (partly addressed by [[aga-2022-short-bowel-syndrome]] Best Practice Advice (BPA) 7 — see [[short-bowel-syndrome]]); and typical daily ileostomy output volumes beyond the >1.5 L/d high-output threshold.
 
 ## See Also
 

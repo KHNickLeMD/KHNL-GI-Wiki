@@ -14,14 +14,14 @@ sources: []
 - **Year:** 2020
 - **Journal:** Am J Gastroenterol 2020;115:1393–1411
 - **DOI:** [10.14309/ajg.0000000000000731](https://doi.org/10.14309/ajg.0000000000000731)
-- **Type:** Clinical guideline (ACG) — updates 2013 ACG achalasia guidelines
+- **Type:** Clinical guideline (American College of Gastroenterology [ACG]) — updates 2013 ACG achalasia guidelines
 - **GRADE Methodologists:** Yadlapati RH (formally trained)
 
 ## Summary
 
-Comprehensive ACG guideline on the diagnosis and management of achalasia using the GRADE process. Achalasia is a rare esophageal motility disorder (20,000–40,000 affected in the US) caused by loss of inhibitory neurons in the myenteric plexus, producing failed LES relaxation and absent peristalsis. The diagnosis requires [[high-resolution-manometry|HRM]] (gold standard), supplemented by [[upper-endoscopy|upper endoscopy]] to exclude pseudoachalasia and timed barium esophagram for pre/post-therapy assessment.
+Comprehensive ACG guideline on the diagnosis and management of achalasia using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) process. Achalasia is a rare esophageal motility disorder (20,000–40,000 affected in the US) caused by loss of inhibitory neurons in the myenteric plexus, producing failed lower esophageal sphincter (LES) relaxation and absent peristalsis. The diagnosis requires [[high-resolution-manometry|high-resolution manometry (HRM)]] (gold standard), supplemented by [[upper-endoscopy|upper endoscopy]] to exclude pseudoachalasia and timed barium esophagram (TBE) for pre/post-therapy assessment.
 
-Treatment is entirely palliative. Three definitive therapies — pneumatic dilation (PD), laparoscopic Heller myotomy (LHM), and [[poem|per-oral endoscopic myotomy]] (POEM) — produce equivalent outcomes for Type I/II achalasia. Type III achalasia favors POEM or tailored LHM due to longer myotomy requirements. POEM carries higher [[gerd|GERD]] risk than LHM with fundoplication. Botulinum toxin is reserved for patients unfit for definitive therapy. Esophagectomy is a last resort for megaesophagus. Routine cancer surveillance is not recommended despite a 28x elevated risk for squamous cell carcinoma.
+Treatment is entirely palliative. Three definitive therapies — pneumatic dilation (PD), laparoscopic Heller myotomy (LHM), and [[poem|per-oral endoscopic myotomy]] (POEM) — produce equivalent outcomes for Type I/II achalasia. Type III achalasia favors POEM or tailored LHM due to longer myotomy requirements. POEM carries higher [[gerd|gastroesophageal reflux disease (GERD)]] risk than LHM with fundoplication. Botulinum toxin is reserved for patients unfit for definitive therapy. Esophagectomy is a last resort for megaesophagus. Routine cancer surveillance is not recommended despite a 28x elevated risk for squamous cell carcinoma (SCC).
 
 ## Key Findings / Claims
 
@@ -29,9 +29,9 @@ Treatment is entirely palliative. Three definitive therapies — pneumatic dilat
 
 - HRM (esophageal pressure topography) recommended over conventional manometry: 3.4x lower odds of incorrect diagnosis, superior inter-rater agreement (k=0.57 vs 0.32) (Strong; High)
 - Always perform upper endoscopy to exclude pseudoachalasia before HRM
-- [[flip-panometry|FLIP]] can diagnose achalasia in equivocal cases and in patients who cannot tolerate manometry; performed during endoscopy under sedation
+- [[flip-panometry|functional lumen imaging probe (FLIP)]] can diagnose achalasia in equivocal cases and in patients who cannot tolerate manometry; performed during endoscopy under sedation
 - TBE: best predictor of long-term treatment success post-dilation (superior to symptom scores)
-- Patients with GERD not responding to PPI → evaluate for achalasia (Strong; Very low)
+- Patients with GERD not responding to proton pump inhibitor (PPI) → evaluate for achalasia (Strong; Very low)
 
 ### Chicago Classification Subtypes (prognostic and treatment implications)
 
@@ -45,15 +45,15 @@ Treatment is entirely palliative. Three definitive therapies — pneumatic dilat
 |---------|----------|----------|
 | Serial PD | 74–90% (by balloon size) | 3.0→3.5→4.0 cm; perforation 1.9%; equivalent to LHM at 5 years |
 | LHM + fundoplication | 89% | Dor or Toupet acceptable; GERD 8–9% post-fundoplication |
-| POEM | 92% (Ponds RCT 2y); 83% (Werner RCT) | GERD 39% abnormal pH; higher esophagitis risk; excellent for Type III |
+| POEM | 92% (Ponds randomized controlled trial [RCT] 2y); 83% (Werner RCT) | GERD 39% abnormal pH; higher esophagitis risk; excellent for Type III |
 | Botulinum toxin | 40.6% at 12 months | Reserve for unfit patients only |
 | Pharmacotherapy | 0–87% (short-term) | Last resort; not first-line |
 
 ### POEM-specific
 
-- Ponds 2019 RCT (first to evaluate POEM as first-line): POEM 92% vs PD 54% at 2 years (ES ≤3)
+- Ponds 2019 RCT (first to evaluate POEM as first-line): POEM 92% vs PD 54% at 2 years (Eckardt score [ES] ≤3)
 - Werner 2019 RCT: POEM 83% vs LHM 82% at 2 years (noninferior)
-- POEM vs LHM meta-analysis (n=1,542 POEM; 2,581 LHM): POEM had higher dysphagia improvement (93.5% vs 91.0% at 12 months) but significantly higher GERD (OR 9.31 for erosive esophagitis; 4.30 on pH monitoring)
+- POEM vs LHM meta-analysis (n=1,542 POEM; 2,581 LHM): POEM had higher dysphagia improvement (93.5% vs 91.0% at 12 months) but significantly higher GERD (odds ratio [OR] 9.31 for erosive esophagitis; 4.30 on pH monitoring)
 - Type III: POEM 93% vs LHM 71%; one study showed 98% vs 80.8% with shorter operative time and fewer adverse events for POEM
 
 ### Post-therapy
@@ -65,7 +65,7 @@ Treatment is entirely palliative. Three definitive therapies — pneumatic dilat
 
 ### Cancer Risk
 
-- SCC risk: HR 28x; ~1 cancer/300 patient-years; 312 cases/100,000 patient-years (meta-analysis)
+- SCC risk: hazard ratio (HR) 28x; ~1 cancer/300 patient-years; 312 cases/100,000 patient-years (meta-analysis)
 - Adenocarcinoma also increased (21.23 cases/100,000 patient-years) but lower
 - >400 endoscopies needed to detect one cancer; poor survival once detected
 - Do NOT recommend routine surveillance (Strong; Low)
@@ -78,7 +78,7 @@ Treatment is entirely palliative. Three definitive therapies — pneumatic dilat
 | HRM (esophageal pressure topography) recommended over conventional line-tracing manometry for esophageal motility disorders | Strong | High |
 | Always perform upper endoscopy to exclude pseudoachalasia before HRM | Summary Statement | — |
 | Patients with GERD not responding to PPI: evaluate for achalasia | Strong | Very Low |
-| Timed barium esophagram (TBE) as best predictor of long-term treatment success post-dilation; use to define treatment failure rather than ES or HRM alone | Strong | Very Low |
+| TBE as best predictor of long-term treatment success post-dilation; use to define treatment failure rather than ES or HRM alone | Strong | Very Low |
 | **Definitive Treatment** | | |
 | PD (serial 3.0→3.5→4.0 cm), LHM + fundoplication, or POEM are all acceptable for Type I/II achalasia (equivalent outcomes) | Strong | Moderate–High |
 | Type III achalasia: POEM preferred over LHM due to longer myotomy requirements (POEM success 93% vs. LHM 71%) | Strong | Moderate |
@@ -94,14 +94,14 @@ Treatment is entirely palliative. Three definitive therapies — pneumatic dilat
 
 - **Creates:** [[achalasia]] disease script in `wiki/disease-scripts/foregut-and-motility-diseases/ge-junction/`
 - Anchors the **Foregut and Motility** section
-- Cross-links needed to: [[eosinophilic-esophagitis]] (DDx), future [[gerd]] page, [[high-resolution-manometry]], [[poem]]
+- Cross-links needed to: [[eosinophilic-esophagitis]] (differential diagnosis [DDx]), future [[gerd]] page, [[high-resolution-manometry]], [[poem]]
 - **[[pneumatic-dilation]]** — primary source for that page: the graded 3.0→3.5→4.0 cm protocol, inflation parameters (10–15 psi, 15–60 s), the surgical-candidacy prerequisite, favorable-response predictors, cumulative efficacy by balloon size, perforation rate and its size-dependent management, the recommendation against routine post-dilation esophagram, and PD-after-failed-LHM salvage
 
 ## Contradictions / Open Questions
 
 - POEM vs LHM long-term GERD data still evolving — this guideline predates widespread POEM use and 5+ year follow-up RCTs
 - Surveillance every 3 years after 10–15 years of disease discussed as expert opinion but not formally recommended; will likely be revisited in future guidelines
-- Chicago Classification v4.0 (2021) supersedes v3.0 referenced in this guideline — Type III achalasia criteria and EGJ outflow obstruction classification were updated; see [[chicago-classification-v4]]
+- Chicago Classification v4.0 (2021) supersedes v3.0 referenced in this guideline — Type III achalasia criteria and esophagogastric junction (EGJ) outflow obstruction classification were updated; see [[chicago-classification-v4]]
 
 ## See Also
 

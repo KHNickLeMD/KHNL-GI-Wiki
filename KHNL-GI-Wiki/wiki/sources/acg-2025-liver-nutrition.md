@@ -14,13 +14,13 @@ sources: []
 - **Year:** 2025 (published online May 2, 2025)
 - **Journal:** Am J Gastroenterol 2025;120:950–972. doi:10.14309/ajg.0000000000003379
 - **DOI:** [10.14309/ajg.0000000000003379](https://doi.org/10.14309/ajg.0000000000003379)
-- **Type:** Clinical guideline (ACG)
+- **Type:** Clinical guideline (American College of Gastroenterology [ACG])
 
 ## Summary
 
-First ACG guideline on malnutrition and nutrition in liver disease. Covers the spectrum of steatotic liver disease ([[nafld-masld|MASLD]], MASH, [[alcohol-associated-liver-disease|ALD]]/AAH) through decompensated cirrhosis. Malnutrition (most commonly sarcopenia) is common in cirrhosis, worsens with disease severity, and adversely affects mortality, waitlist, and post-transplant outcomes.
+First ACG guideline on malnutrition and nutrition in liver disease. Covers the spectrum of steatotic liver disease ([[nafld-masld|metabolic dysfunction-associated steatotic liver disease (MASLD)]], metabolic dysfunction-associated steatohepatitis (MASH), [[alcohol-associated-liver-disease|alcohol-associated liver disease (ALD)]]/alcohol-associated hepatitis (AAH)) through decompensated cirrhosis. Malnutrition (most commonly sarcopenia) is common in cirrhosis, worsens with disease severity, and adversely affects mortality, waitlist, and post-transplant outcomes.
 
-Key practical recommendations: small frequent meals + nighttime snack (7–10 PM) + ≥2 cups coffee/day for stable outpatients with cirrhosis; do NOT restrict protein in [[hepatic-encephalopathy|hepatic encephalopathy]]; BCAAs + standard therapy for HE (strong recommendation); late evening snacks reduce risk of [[ascites]] and HE (strong recommendation); vitamin E 800 IU/day in MASH without cirrhosis.
+Key practical recommendations: small frequent meals + nighttime snack (7–10 PM) + ≥2 cups coffee/day for stable outpatients with cirrhosis; do NOT restrict protein in [[hepatic-encephalopathy|hepatic encephalopathy (HE)]]; branched-chain amino acids (BCAAs) + standard therapy for HE (strong recommendation); late evening snacks reduce risk of [[ascites]] and HE (strong recommendation); vitamin E 800 IU/day in MASH without cirrhosis.
 
 ## All 9 GRADE Recommendations (Table 2)
 
@@ -29,12 +29,12 @@ Key practical recommendations: small frequent meals + nighttime snack (7–10 PM
 | 1 | Early oral/enteral nutrition supplementation in hospitalized cirrhosis patients | Conditional/Low |
 | 2 | Nutritional supplementation therapy in cirrhosis or alcohol-associated hepatitis | Conditional/Very low |
 | 3 | MASH without cirrhosis: natural vitamin E 800 IU/day | Conditional/Low |
-| 4 | Coffee ≥2 cups/day in chronic liver disease to reduce hepatic fibrosis progression or [[hepatocellular-carcinoma\|HCC]] development | Conditional/Low |
+| 4 | Coffee ≥2 cups/day in chronic liver disease to reduce hepatic fibrosis progression or [[hepatocellular-carcinoma\|hepatocellular carcinoma (HCC)]] development | Conditional/Low |
 | 5 | Cirrhosis + ascites on diuretics: no recommendation for or against strict sodium restriction | Insufficient evidence |
 | 6 | **Do NOT restrict dietary protein** in decompensated cirrhosis with hepatic encephalopathy | Conditional/Very low |
 | 7 | Vegetable-source protein diet in cirrhosis + HE requiring nutritional supplementation (better tolerated than animal protein) | Conditional/Low |
 | 8 | **BCAAs + standard of care** (lactulose + [[rifaximin]]) in cirrhosis with hepatic encephalopathy | **Strong/Moderate** |
-| 9 | **Late evening snacks** (counseling) in cirrhosis — improve BMI, lean muscle mass, reduce ascites and HE risk | **Strong/Moderate** |
+| 9 | **Late evening snacks** (counseling) in cirrhosis — improve body mass index (BMI), lean muscle mass, reduce ascites and HE risk | **Strong/Moderate** |
 
 ## Key Concepts (Table 3, Selected)
 
@@ -94,5 +94,5 @@ Key practical recommendations: small frequent meals + nighttime snack (7–10 PM
 
 - Sodium restriction in cirrhosis with ascites: insufficient evidence for or against strict restriction despite widespread use
 - Vitamin E only for MASH without cirrhosis; not studied adequately in cirrhotic MASH
-- Coffee recommendation based on observational data (no RCTs); mechanism may include antioxidant/anti-inflammatory/antifibrotic effects
+- Coffee recommendation based on observational data (no randomized controlled trials [RCTs]); mechanism may include antioxidant/anti-inflammatory/antifibrotic effects
 - Optimal protein intake quantity and source (vegetable vs animal) still needs prospective study

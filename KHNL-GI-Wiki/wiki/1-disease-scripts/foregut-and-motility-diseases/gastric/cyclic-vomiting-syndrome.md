@@ -7,7 +7,7 @@ updated: 2026-09-05
 sources: [aga-2024-cvs, aga-2024-chs, rome-v-2026-dgbi]
 ---
 
-Chronic [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction (DGBI)]] of **stereotyped, recurrent discrete episodes of intense vomiting/retching separated by symptom-free intervals**; strong migraine association. Common (~2% US prevalence, more common in women) but markedly **under-diagnosed and under-treated** — most patients endure years of diagnostic delay and futile testing; half visit the ED ≥1×/yr and 1 in 3 become disabled ([[aga-2024-cvs]]). [[cannabinoid-hyperemesis-syndrome|Cannabinoid hyperemesis syndrome]] is a proposed subtype.
+Chronic [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction (DGBI)]] of **stereotyped, recurrent discrete episodes of intense vomiting/retching separated by symptom-free intervals**; strong migraine association. Common (~2% US prevalence, more common in women) but markedly **under-diagnosed and under-treated** — most patients endure years of diagnostic delay and futile testing; half visit the emergency department (ED) ≥1×/yr and 1 in 3 become disabled ([[aga-2024-cvs]]). [[cannabinoid-hyperemesis-syndrome|Cannabinoid hyperemesis syndrome (CHS)]] is a proposed subtype.
 
 ## Contents
 - [[#Assessment]]
@@ -34,13 +34,13 @@ Chronic [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction
 - **Absence of vomiting between episodes** (milder symptoms — nausea, occasional vomiting, [[dyspepsia]] — may persist).
 - *Supportive:* personal or family history of **migraine**.
 
-Diagnosis is **clinical** — consider CVS in any adult with episodic bouts of repetitive vomiting. ~15% have episodes lasting >7 days; **abdominal pain is present in most episodes and does not exclude CVS**.
+Diagnosis is **clinical** — consider cyclic vomiting syndrome (CVS) in any adult with episodic bouts of repetitive vomiting. ~15% have episodes lasting >7 days; **abdominal pain is present in most episodes and does not exclude CVS**.
 
-> **Rome V has moved on, but its criteria are not printed here.** [[rome-v-2026-dgbi|Rome V]] (2026 — newer than the 2024 CPU) keeps CVS as an adult nausea-and-vomiting disorder at **B2b** and splits [[cannabinoid-hyperemesis-syndrome|CHS]] out as a separate adult entity at **B2c**, and states that for both "timing of symptoms and intervals was specified based on **more recent cohort studies**." The Rome V overview article **does not print the B2b criteria**, so the **Rome IV thresholds above — carried by [[aga-2024-cvs]] — are what this page uses**. Whether the episode-duration, count, or well-interval numbers changed in Rome V is stated only in the Rome V gastroduodenal chapter.
+> **Rome V has moved on, but its criteria are not printed here.** [[rome-v-2026-dgbi|Rome V]] (2026 — newer than the 2024 clinical practice update [CPU]) keeps CVS as an adult nausea-and-vomiting disorder at **B2b** and splits [[cannabinoid-hyperemesis-syndrome|CHS]] out as a separate adult entity at **B2c**, and states that for both "timing of symptoms and intervals was specified based on **more recent cohort studies**." The Rome V overview article **does not print the B2b criteria**, so the **Rome IV thresholds above — carried by [[aga-2024-cvs]] — are what this page uses**. Whether the episode-duration, count, or well-interval numbers changed in Rome V is stated only in the Rome V gastroduodenal chapter.
 
 ### Severity Assessment
 
-Severity (ANMS-CVSA criteria) determines whether prophylaxis is offered — **this is the key management decision** ([[aga-2024-cvs]]):
+Severity (American Neurogastroenterology and Motility Society–Cyclic Vomiting Syndrome Association [ANMS-CVSA] criteria) determines whether prophylaxis is offered — **this is the key management decision** ([[aga-2024-cvs]]):
 
 | Stratum | Criteria | Treatment |
 |---|---|---|
@@ -61,7 +61,7 @@ Four phases — recognizing the phase guides treatment (see Figure 1 of [[aga-20
 - **Triggers** (migraine-like): stress (70–80%; positive *and* negative events), sleep deprivation, menses, travel/motion, infection/surgery; less often fasting or intense exercise.
 - **Hot-water bathing/showering** relieves ~48% of *non-cannabis* users → **not specific for CHS**.
 - Self-induced vomiting/large water intake is self-soothing — not malingering.
-- **Comorbidities** (support the diagnosis, guide management): mood/anxiety/panic (50–60%), migraine (20–30%), seizure (~3%), POTS/autonomic imbalance. Treating anxiety or POTS improves CVS outcomes.
+- **Comorbidities** (support the diagnosis, guide management): mood/anxiety/panic (50–60%), migraine (20–30%), seizure (~3%), postural orthostatic tachycardia syndrome (POTS)/autonomic imbalance. Treating anxiety or POTS improves CVS outcomes.
 
 ## Differential Diagnosis
 
@@ -78,17 +78,17 @@ Four phases — recognizing the phase guides treatment (see Figure 1 of [[aga-20
 ## Diagnostics
 
 - **Clinical diagnosis** (Rome IV); no confirmatory test.
-- **Basic workup for uninvestigated episodic vomiting:** CBC, electrolytes, glucose, LFTs, lipase, urinalysis.
-- **One-time [[upper-endoscopy|EGD]] or upper-GI imaging** to exclude obstructive lesions. If EGD is done soon after an episode, recognize post-retching epiphenomena (mild gastritis, erythematous streaking, Mallory-Weiss tear, esophagitis) as **non-causal**; **do not repeat** EGD/imaging.
+- **Basic workup for uninvestigated episodic vomiting:** complete blood count (CBC), electrolytes, glucose, liver function tests (LFTs), lipase, urinalysis.
+- **One-time [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] or upper gastrointestinal (GI) imaging** to exclude obstructive lesions. If EGD is done soon after an episode, recognize post-retching epiphenomena (mild gastritis, erythematous streaking, Mallory-Weiss tear, esophagitis) as **non-causal**; **do not repeat** EGD/imaging.
 - **Do not routinely order gastric emptying scans** — few CVS patients have delayed emptying, results during an episode are uninterpretable, and cannabis/opiates confound interpretation.
 - Suspicion-driven testing for mimics: [[acute-hepatic-porphyria]], Addison's, hypothyroidism. **Brain imaging + neurology referral** if any localizing neurologic symptoms.
 - **ED priority:** exclude life-threatening mimics — acute abdomen, bowel obstruction, mesenteric ischemia, [[acute-pancreatitis|pancreatitis]], myocardial infarction.
 
-> Evidence base for all CVS pharmacotherapy is **case series / expert opinion** (no RCTs) — evidence quality is low ([[aga-2024-cvs]]).
+> Evidence base for all CVS pharmacotherapy is **case series / expert opinion** (no randomized controlled trials [RCTs]) — evidence quality is low ([[aga-2024-cvs]]).
 
 ## Therapeutics
 
-**Lifestyle (all patients):** regular sleep, avoid prolonged fasting, stress management; involve neurology/psychiatry/sleep and allied services to treat comorbid anxiety, depression, migraine, sleep and substance-use disorders. CBT/mindfulness can substantially improve symptoms.
+**Lifestyle (all patients):** regular sleep, avoid prolonged fasting, stress management; involve neurology/psychiatry/sleep and allied services to treat comorbid anxiety, depression, migraine, sleep and substance-use disorders. Cognitive behavioral therapy (CBT)/mindfulness can substantially improve symptoms.
 
 ### Prophylactic Therapy (moderate–severe)
 
@@ -96,27 +96,27 @@ Goal: lengthen the inter-episodic phase and/or reduce emetic severity.
 
 | Line | Agent | Dosing | Key considerations |
 |---|---|---|---|
-| **First-line** | **TCA** (amitriptyline, nortriptyline, doxepin) | Start **25 mg qhs** → goal **75–150 mg or 1–1.5 mg/kg qhs**; titrate 10–25 mg q2wk | Nortriptyline less anticholinergic than amitriptyline; monitor QTc |
+| **First-line** | **Tricyclic antidepressant (TCA)** (amitriptyline, nortriptyline, doxepin) | Start **25 mg qhs** → goal **75–150 mg or 1–1.5 mg/kg qhs**; titrate 10–25 mg q2wk | Nortriptyline less anticholinergic than amitriptyline; monitor corrected QT interval (QTc) |
 | Second-line | Topiramate | 25 mg/d → 100–150 mg/d divided | Kidney stones (avoid if stone history); **teratogenic — not in pregnancy**; some weight loss |
 | Second-line | Zonisamide | 100 mg/d → 200–400 mg/d | Kidney stones; monitor electrolytes/renal fn twice yearly; weight loss |
-| Second-line | Levetiracetam | 500 mg bid → 1000–2000 mg/d divided | Safer in pregnancy; may interfere with OCPs; monitor CBC |
-| Second-line | Aprepitant (NK-1 antagonist) | 125 mg 2–3×/wk (>60 kg); 80 mg (40–60 kg) | Off-label, expensive, insurance hurdles |
+| Second-line | Levetiracetam | 500 mg bid → 1000–2000 mg/d divided | Safer in pregnancy; may interfere with oral contraceptive pills (OCPs); monitor CBC |
+| Second-line | Aprepitant (neurokinin-1 [NK-1] antagonist) | 125 mg 2–3×/wk (>60 kg); 80 mg (40–60 kg) | Off-label, expensive, insurance hurdles |
 | Adjunct | Coenzyme Q10 / riboflavin | 300–400 mg/d / 200 mg bid | Supplements; monitor LFTs |
 
 ### Abortive Therapy (all severities)
 
 Highest abort probability when taken **early in the prodrome**. **Nearly all patients need 2-agent combinations** (typically triptan + antiemetic).
 
-- **Triptans:** sumatriptan **20 mg intranasal** (head-forward) or **6 mg SC**; may repeat ×1 at 2 h, **max 2 doses/24 h**. Contraindicated in ischemic heart disease, stroke, PVD, uncontrolled HTN, pregnancy.
+- **Triptans:** sumatriptan **20 mg intranasal** (head-forward) or **6 mg subcutaneous (SC)**; may repeat ×1 at 2 h, **max 2 doses/24 h**. Contraindicated in ischemic heart disease, stroke, peripheral vascular disease (PVD), uncontrolled hypertension (HTN), pregnancy.
 - **Antiemetics** (all dosed **during the episode**):
 
 | Agent | Dose | Cautions |
 |---|---|---|
-| Ondansetron | **8 mg sublingual q4–6h** | Baseline ECG advised — prolonged QTc; constipation with frequent doses |
-| Promethazine | **12.5–25 mg PO or PR q4–6h** | Peripheral IV administration can cause tissue injury (gangrene, thrombophlebitis); adds useful sedation |
-| Prochlorperazine | **5–10 mg q6–8h**, or **25 mg suppository q12h** | Caution with leukopenia/neutropenia, dementia, glaucoma, seizure disorder; drug-induced leukopenia, rare NMS |
+| Ondansetron | **8 mg sublingual q4–6h** | Baseline electrocardiogram (ECG) advised — prolonged QTc; constipation with frequent doses |
+| Promethazine | **12.5–25 mg by mouth (PO) or per rectum (PR) q4–6h** | Peripheral intravenous (IV) administration can cause tissue injury (gangrene, thrombophlebitis); adds useful sedation |
+| Prochlorperazine | **5–10 mg q6–8h**, or **25 mg suppository q12h** | Caution with leukopenia/neutropenia, dementia, glaucoma, seizure disorder; drug-induced leukopenia, rare neuroleptic malignant syndrome (NMS) |
 
-- **Sedatives** ("abortive cocktail"): diphenhydramine **12.5–25 mg q4–6h**; benzodiazepines — **alprazolam or lorazepam 0.5–2 mg q4–6h** (alprazolam available SL/PR). Caution in pregnancy and with a history of substance use.
+- **Sedatives** ("abortive cocktail"): diphenhydramine **12.5–25 mg q4–6h**; benzodiazepines — **alprazolam or lorazepam 0.5–2 mg q4–6h** (alprazolam available sublingual (SL)/PR). Caution in pregnancy and with a history of substance use.
 
 ### ED / Recovery Management
 

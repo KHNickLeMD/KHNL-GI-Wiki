@@ -7,7 +7,7 @@ updated: 2026-09-24
 sources: [acg-2025-uc, acg-2025-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, acg-2025-ibd-preventive-care, aga-2024-ibd-malignancy, aga-2026-inpatient-ibd]
 ---
 
-Oral small-molecule inhibitors of the **Janus kinase (JAK)–STAT pathway**, used as advanced therapy in [[inflammatory-bowel-disease|IBD]]. Three agents are covered by the IBD guidelines: **tofacitinib** (pan-JAK, [[ulcerative-colitis|UC]] only), **upadacitinib** (JAK-1 selective, UC **and** [[crohns-disease|CD]]), and **filgotinib** (JAK-1 selective, UC, **Europe only — not available in the United States**). Upadacitinib carries the **highest evidence grade of any UC induction therapy except infliximab** (Strong / High), yet the class is the only one in IBD whose use is *regulatorily gated*: the US FDA label reserves all JAK inhibitors for patients who have failed or cannot tolerate a TNF antagonist. That gate comes from **ORAL Surveillance** — a rheumatoid-arthritis trial — and the criteria that define who it actually targets are the operative content of this page.
+Oral small-molecule inhibitors of the **Janus kinase (JAK)–signal transducer and activator of transcription (STAT) pathway**, used as advanced therapy in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]. Three agents are covered by the IBD guidelines: **tofacitinib** (pan-JAK, [[ulcerative-colitis|ulcerative colitis (UC)]] only), **upadacitinib** (JAK-1 selective, UC **and** [[crohns-disease|Crohn's disease (CD)]]), and **filgotinib** (JAK-1 selective, UC, **Europe only — not available in the United States**). Upadacitinib carries the **highest evidence grade of any UC induction therapy except infliximab** (Strong / High), yet the class is the only one in IBD whose use is *regulatorily gated*: the US FDA label reserves all JAK inhibitors for patients who have failed or cannot tolerate a tumor necrosis factor (TNF) antagonist. That gate comes from **ORAL Surveillance** — a rheumatoid-arthritis trial — and the criteria that define who it actually targets are the operative content of this page.
 
 ## Contents
 - [[#Class Structure and Mechanism]]
@@ -39,13 +39,13 @@ Oral small-molecule inhibitors of the **Janus kinase (JAK)–STAT pathway**, use
 
 | Agent | JAK selectivity | US IBD indication | Route |
 |---|---|---|---|
-| **Tofacitinib** | **Nonselective** — inhibits JAK **1, 2, and 3** | UC | PO |
+| **Tofacitinib** | **Nonselective** — inhibits JAK **1, 2, and 3** | UC | Oral (PO) |
 | **Upadacitinib** | **Selective JAK-1**, minimal impact on the other JAKs | **UC and CD** | PO |
 | **Filgotinib** | JAK-1 selective | **None** — approved for UC in **Europe**; *not available in the United States* | PO |
 
 - **Inhibition of the JAK-STAT pathway induces systemic immunosuppression** and may blunt vaccine response ([[acg-2025-ibd-preventive-care]]).
 - **Small molecules, not proteins** — no antidrug antibodies, and the pharmacodynamics avoid the **protein loss** through inflamed mucosa that contributes to infliximab non-response in severe colitis ([[acg-2025-uc]]). This is the mechanistic argument for JAK inhibitors in acute severe disease.
-- **Oral route is itself a positioning consideration** — for patients who want oral administration, an S1P receptor modulator or a JAK inhibitor may be the preferred agent ([[aga-2024-uc-pharm]]).
+- **Oral route is itself a positioning consideration** — for patients who want oral administration, a sphingosine-1-phosphate (S1P) receptor modulator or a JAK inhibitor may be the preferred agent ([[aga-2024-uc-pharm]]).
 
 ---
 
@@ -56,7 +56,7 @@ Oral small-molecule inhibitors of the **Janus kinase (JAK)–STAT pathway**, use
 
 | Agent | Induction | Maintenance |
 |---|---|---|
-| **Tofacitinib** | **10 mg PO BID × 8 wk** (extend a further 8 wk → **16 wk total** if no response at wk 8; extended induction is in the US label) | **5 mg PO BID** or **10 mg PO BID** |
+| **Tofacitinib** | **10 mg PO twice daily (BID) × 8 wk** (extend a further 8 wk → **16 wk total** if no response at wk 8; extended induction is in the US label) | **5 mg PO BID** or **10 mg PO BID** |
 | **Upadacitinib** | **45 mg PO once daily × 8 wk** (an additional 8 wk benefits some wk-8 non-responders — [[aga-2024-uc-pharm]]) | **15 mg** or **30 mg PO once daily** |
 
 ### Crohn's Disease dosing
@@ -84,17 +84,17 @@ The two-dose maintenance choice is a live efficacy-vs-safety trade, and both gui
 **Toward the higher dose:**
 - **Prior anti-TNF exposure is the main indication for the higher maintenance dose.** Tofacitinib: patients with prior anti-TNF failure benefited from **10 mg BID** in clinical response, remission, corticosteroid-free remission, *and* endoscopic improvement. Upadacitinib: the higher dose is more effective in maintenance in prior-TNF-exposed patients, so **most patients are treated with 30 mg/day** ([[acg-2025-uc]]).
 - **Higher maintenance doses may be preferred** with a **high burden of inflammation**, **more severe disease**, or **prior TNF-antagonist failure** ([[aga-2025-crohns-pharm]]).
-- **De-escalation is not freely reversible — this is the tapering rule.** In a de-escalation study, ~**29%** of patients reduced to tofacitinib 5 mg BID **required an increase back to 10 mg BID**, and response was **recapturable in only 63%**; in OCTAVE, **25%** of de-escalated patients could not remain in remission on the lower dose ([[aga-2024-uc-pharm]]). Because relapsers are not always recaptured, ACG concludes it is **"prudent to consider 10 mg BID for maintenance in most patients"** ([[acg-2025-uc]]).
+- **De-escalation is not freely reversible — this is the tapering rule.** In a de-escalation study, ~**29%** of patients reduced to tofacitinib 5 mg BID **required an increase back to 10 mg BID**, and response was **recapturable in only 63%**; in OCTAVE, **25%** of de-escalated patients could not remain in remission on the lower dose ([[aga-2024-uc-pharm]]). Because relapsers are not always recaptured, the American College of Gastroenterology (ACG) concludes it is **"prudent to consider 10 mg BID for maintenance in most patients"** ([[acg-2025-uc]]).
 
 **Toward the lower dose:**
 - The FDA label for upadacitinib directs use of the **lowest effective dose in maintenance** ([[acg-2025-uc]]).
-- **Shingles and VTE are dose-dependent** — greater at the higher tofacitinib dose — so patients kept on the higher dose need active monitoring and preventive strategies ([[aga-2024-uc-pharm]]).
+- **Shingles and venous thromboembolism (VTE) are dose-dependent** — greater at the higher tofacitinib dose — so patients kept on the higher dose need active monitoring and preventive strategies ([[aga-2024-uc-pharm]]).
 
 ---
 
 ## Indications at a Glance
 
-*Every row is gated on **moderate-to-severe** disease activity (ASUC row excepted). The activity criteria are not restated here — they live on [[ulcerative-colitis]] and [[crohns-disease]]; endoscopic indices on [[ibd-endoscopic-scoring]].*
+*Every row is gated on **moderate-to-severe** disease activity (acute severe UC [ASUC] row excepted). The activity criteria are not restated here — they live on [[ulcerative-colitis]] and [[crohns-disease]]; endoscopic indices on [[ibd-endoscopic-scoring]].*
 
 | Setting | Agent | Recommendation | Strength / Evidence | Source |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ The two-dose maintenance choice is a live efficacy-vs-safety trade, and both gui
 | Moderate-severe UC — advanced therapy vs no treatment | Tofacitinib, upadacitinib | Recommend | **Strong / Moderate-to-high** | [[aga-2024-uc-pharm]] Rec 1 |
 | Moderate-severe UC — advanced therapy vs no treatment | **Filgotinib** | Suggest | Conditional / **Moderate** | [[aga-2024-uc-pharm]] Rec 2 |
 | Moderate-severe CD — advanced therapy vs no treatment | Upadacitinib | Recommend | **Strong / Moderate-to-high** | [[aga-2025-crohns-pharm]] Rec 1 |
-| ASUC after IV corticosteroid or infliximab failure | Tofacitinib or upadacitinib | **Insufficient data to routinely recommend** | Key concept (ungraded) | [[acg-2025-uc]] KC 56 |
+| ASUC after intravenous (IV) corticosteroid or infliximab failure | Tofacitinib or upadacitinib | **Insufficient data to routinely recommend** | Key concept (ungraded) | [[acg-2025-uc]] Key concept (KC) 56 |
 
 **Only the CD recommendation carries a prior-exposure precondition in its own text.** ACG UC Recs 30/31 impose none — in UC the anti-TNF-first requirement is **regulatory (FDA label), not the guideline's recommendation**. In CD, ACG Rec 23 itself is written for "patients who have previously been exposed to anti-TNF agents."
 
@@ -122,7 +122,7 @@ The two-dose maintenance choice is a live efficacy-vs-safety trade, and both gui
 | **U-ACCOMPLISH**, UC | Upadacitinib 45 mg/day | Clinical remission wk 8 | **34%** | 4% |
 | **U-ACHIEVE** maintenance, UC | Upadacitinib 15 / 30 mg/day | Clinical remission wk 52 | **42%** / **52%** | 12% |
 | **U-ACHIEVE** maintenance, UC | Upadacitinib 15 / 30 mg/day | **Endoscopic** remission wk 52 | **24%** / **26%** | 6% |
-| **U-EXCEL**, CD | Upadacitinib 45 mg/day | CDAI remission (CDAI <150) wk 12 | **49.5%** | 29.1% |
+| **U-EXCEL**, CD | Upadacitinib 45 mg/day | Crohn's Disease Activity Index (CDAI) remission (CDAI <150) wk 12 | **49.5%** | 29.1% |
 | **U-EXCEL**, CD | Upadacitinib 45 mg/day | Endoscopic response wk 12 | **45.5%** | 13.1% |
 | **U-EXCEED** (all biologic-failed), CD | Upadacitinib 45 mg/day | CDAI remission wk 12 | **38.9%** | 21.1% |
 | **U-EXCEED**, CD | Upadacitinib 45 mg/day | Endoscopic response wk 12 | **34.6%** | 3.5% |
@@ -152,15 +152,15 @@ The EMA recommends **cautious use of JAK inhibitors as a first-line agent** in p
 | 3 | **History of cardiovascular disease** (such as heart attack or stroke) |
 | 4 | **History of cancer** |
 
-- **These four are the gating criteria to apply at the bedside.** Where JAK inhibitors *may* be used first line (outside the US label), AGA rates **upadacitinib a HIGH-efficacy** medication and **tofacitinib and filgotinib MODERATE-efficacy** medications in UC ([[aga-2024-uc-pharm]]).
-- **In patients at high risk of MACE, JAK inhibitors should be used cautiously** ([[aga-2024-uc-pharm]]).
+- **These four are the gating criteria to apply at the bedside.** Where JAK inhibitors *may* be used first line (outside the US label), the American Gastroenterological Association (AGA) rates **upadacitinib a HIGH-efficacy** medication and **tofacitinib and filgotinib MODERATE-efficacy** medications in UC ([[aga-2024-uc-pharm]]).
+- **In patients at high risk of major adverse cardiovascular events (MACE), JAK inhibitors should be used cautiously** ([[aga-2024-uc-pharm]]).
 
 **Positive positioning signals — when a JAK inhibitor is the *right* pick:**
 - **Concomitant inflammatory arthritis** (not arthralgias alone) — anti-TNF **or** JAK inhibitor ([[acg-2025-uc]] Key concept 47).
 - **Oral route preferred** by the patient ([[aga-2024-uc-pharm]]).
 - **Upadacitinib is the most efficacious UC agent in trials** — Strong / **High**, the only UC induction grade shared with infliximab ([[acg-2025-uc]]).
 
-**When to pick something else:** patients at **higher risk for infectious complications** may benefit from [[vedolizumab]] or an [[il-23-and-il-12-23-inhibitors|anti–IL-23]] strategy over more systemically immunosuppressive options ([[acg-2025-uc]] Key concept 46).
+**When to pick something else:** patients at **higher risk for infectious complications** may benefit from [[vedolizumab]] or an [[il-23-and-il-12-23-inhibitors|anti–interleukin-23 (IL-23)]] strategy over more systemically immunosuppressive options ([[acg-2025-uc]] Key concept 46).
 
 ---
 
@@ -184,7 +184,7 @@ The EMA recommends **cautious use of JAK inhibitors as a first-line agent** in p
 | **Exposed to ≥1 advanced therapy, esp. TNF antagonists** (Rec 4, Conditional / Low-to-moderate) | adalimumab, risankizumab, guselkumab, **upadacitinib** | ustekinumab, mirikizumab | vedolizumab, certolizumab pegol |
 
 - ⚠ **The tier inverts on prior exposure.** Upadacitinib is **lower** efficacy in the naïve CD patient and **higher** after anti-TNF exposure — AGA calls the naïve result "noteworthy." Prior exposure, not the drug alone, sets the ranking.
-- **A likely explanation, and a decision input in its own right: disease location.** In the phase 3 upadacitinib CD RCTs, "striking differences" in efficacy vs placebo were seen by location — **highly effective in isolated colonic disease, no significant efficacy signal in ileal CD**; recent meta-analyses suggest a similar colonic-vs-ileal split for JAK inhibitors generally ([[aga-2025-crohns-pharm]]).
+- **A likely explanation, and a decision input in its own right: disease location.** In the phase 3 upadacitinib CD randomized controlled trials (RCTs), "striking differences" in efficacy vs placebo were seen by location — **highly effective in isolated colonic disease, no significant efficacy signal in ileal CD**; recent meta-analyses suggest a similar colonic-vs-ileal split for JAK inhibitors generally ([[aga-2025-crohns-pharm]]).
 - **Observational intra-class and cross-class comparisons** ([[acg-2025-uc]], reported but explicitly *not* used to set ACG positioning recommendations): upadacitinib showed higher clinical response, improvement in arthralgias, and endoscopic remission **vs ustekinumab** in a predominantly TNF-exposed population, and reduced rates of IV steroids and colectomy over 12 months **vs tofacitinib**.
 
 ---
@@ -198,8 +198,8 @@ The EMA recommends **cautious use of JAK inhibitors as a first-line agent** in p
 
 | Study | Design | Regimen | Result |
 |---|---|---|---|
-| Single-centre case-control | 40 tofacitinib vs 113 controls (mostly infliximab) | 10 mg BID **or off-label 10 mg TID** | Colectomy by 90 d **15.0% vs 20.4%**; HR **0.28** (0.10–0.81), P = 0.018. **By dose: 10 mg TID protective — HR 0.11 (0.02–0.56), P = 0.008; 10 mg BID not significant — HR 0.66 (0.21–2.09), P = 0.5** |
-| **TACOS** | Single-centre double-blind RCT, India, n = 104 (only 5 with prior anti-TNF) | Tofacitinib **10 mg TID (off-label)** × 7 d **on top of IV steroids** | Day-7 response **83% vs 59%** (P = 0.007); cumulative probability of infliximab rescue or colectomy at day 90 **0.13 vs 0.38** (log-rank P = 0.003). AEs mild; **1 dural venous sinus thrombosis** |
+| Single-centre case-control | 40 tofacitinib vs 113 controls (mostly infliximab) | 10 mg BID **or off-label 10 mg three times daily (TID)** | Colectomy by 90 d **15.0% vs 20.4%**; hazard ratio (HR) **0.28** (0.10–0.81), P = 0.018. **By dose: 10 mg TID protective — HR 0.11 (0.02–0.56), P = 0.008; 10 mg BID not significant — HR 0.66 (0.21–2.09), P = 0.5** |
+| **TACOS** | Single-centre double-blind RCT, India, n = 104 (only 5 with prior anti-TNF) | Tofacitinib **10 mg TID (off-label)** × 7 d **on top of IV steroids** | Day-7 response **83% vs 59%** (P = 0.007); cumulative probability of infliximab rescue or colectomy at day 90 **0.13 vs 0.38** (log-rank P = 0.003). Adverse events (AEs) mild; **1 dural venous sinus thrombosis** |
 | Retrospective multicentre US | 25 patients with ASUC | 18 on **upadacitinib 30 mg BID**, 7 on **45 mg daily** | **6/25 colectomy**; 1 post-colectomy intra-abdominal VTE |
 
 - **Why the recommendation stops short:** the studies are uncontrolled, or in populations **without prior anti-TNF exposure**, or use **off-label dosing** — so JAK inhibition is not a standard ASUC option for all patients.
@@ -218,17 +218,17 @@ Everything restricting this class traces to one trial in **rheumatoid arthritis*
 |---|---|
 | **Design** | Randomized, **open-label**, **noninferiority**, post-authorization safety-endpoint trial; requested by the FDA as a phase 4 study in high-risk patients after JAK-associated lipid changes were recognized |
 | **Population** | **Rheumatoid arthritis, active despite methotrexate**, **age 50 years or older**, with **at least 1 additional cardiovascular risk factor** ([[acg-2025-crohns]]) |
-| **Named CV risk factors** | prior cardiovascular disease · **cigarette smoker (current or past)** · hypertension · **HDL cholesterol <40 mg/dL** · diabetes mellitus · family history of premature coronary heart disease · extra-articular RA · history of coronary artery disease ([[aga-2024-uc-pharm]]) |
+| **Named cardiovascular (CV) risk factors** | prior cardiovascular disease · **cigarette smoker (current or past)** · hypertension · **high-density lipoprotein (HDL) cholesterol <40 mg/dL** · diabetes mellitus · family history of premature coronary heart disease · extra-articular rheumatoid arthritis (RA) · history of coronary artery disease ([[aga-2024-uc-pharm]]) |
 | **n** | **4,362** — 1,455 tofacitinib 5 mg BID; 1,456 tofacitinib 10 mg BID; 1,451 TNF inhibitor monotherapy |
-| **Comparator** | Adalimumab 40 mg SC q2wk (North America) **or** etanercept 50 mg weekly (rest of world) |
+| **Comparator** | Adalimumab 40 mg subcutaneous (SC) q2wk (North America) **or** etanercept 50 mg weekly (rest of world) |
 | **Background therapy** | **Methotrexate continued in all** (median 17.3 mg/wk); **57.2% also on systemic corticosteroids** |
 | **Cohort composition** | **31.0% older than 65 y**; mean RA duration **>10 y**; **48.2% with a history of smoking** |
-| **Coprimary endpoints** | Adjudicated **MACE** (cardiovascular death, nonfatal MI, or nonfatal stroke) and **cancers excluding NMSC** |
+| **Coprimary endpoints** | Adjudicated **MACE** (cardiovascular death, nonfatal myocardial infarction [MI], or nonfatal stroke) and **cancers excluding nonmelanoma skin cancer (NMSC)** |
 | **Follow-up** | Median **4.0 years** |
 
 ### What the trial found
 
-| Endpoint | Tofacitinib (combined doses) | TNF inhibitor | HR (95% CI) |
+| Endpoint | Tofacitinib (combined doses) | TNF inhibitor | HR (95% confidence interval [CI]) |
 |---|---|---|---|
 | **MACE** | **3.4%** | 2.5% | **1.33 (0.91–1.94)** |
 | **Cancer** (excl. NMSC) | **4.2%** | 2.9% | **1.48 (1.04–2.09)** |
@@ -238,7 +238,7 @@ Everything restricting this class traces to one trial in **rheumatoid arthritis*
 - **Most common cancers:** lung cancer and lymphoma with tofacitinib; breast cancer with TNF inhibitors. **Cancer incidence was higher across all trial groups in patients aged 65 and older.**
 - **Independent MACE risk factors on post hoc multivariate analysis — irrespective of which drug the patient received: current smoking, aspirin use, being older than 65 years, or male sex** ([[acg-2025-crohns]]).
 - **Serious infection risk was significantly elevated only for tofacitinib 10 mg BID.**
-- **Thrombosis is dose-graded.** Even **tofacitinib 5 mg BID vs TNF inhibitor** showed statistically higher incidence rates and hazard ratios for **DVT, pulmonary embolism, and VTE**; the rates "go up consistently" at **10 mg BID** — a dose not approved in RA. Adjudicated VTE and **death from any cause** were more frequent with 10 mg BID than with a TNF inhibitor ([[acg-2025-uc]]).
+- **Thrombosis is dose-graded.** Even **tofacitinib 5 mg BID vs TNF inhibitor** showed statistically higher incidence rates and hazard ratios for **deep vein thrombosis (DVT), pulmonary embolism, and VTE**; the rates "go up consistently" at **10 mg BID** — a dose not approved in RA. Adjudicated VTE and **death from any cause** were more frequent with 10 mg BID than with a TNF inhibitor ([[acg-2025-uc]]).
 
 ### The subanalysis that narrows the gate
 
@@ -254,9 +254,9 @@ Everything restricting this class traces to one trial in **rheumatoid arthritis*
 | Effect | Finding | Source |
 |---|---|---|
 | **Herpes zoster** | Tofacitinib 10 mg BID **5.1% vs 0.5%** placebo (OCTAVE); upadacitinib **3 patients vs none** on placebo | [[acg-2025-uc]] |
-| **Lipids** | JAK inhibition affects **lipid transport** — measurable lipid changes on tofacitinib, but **total cholesterol:HDL and LDL:HDL ratios remain stable** | [[acg-2025-uc]] |
+| **Lipids** | JAK inhibition affects **lipid transport** — measurable lipid changes on tofacitinib, but **total cholesterol:HDL and low-density lipoprotein (LDL):HDL ratios remain stable** | [[acg-2025-uc]] |
 | **Infections (UC)** | Serious AE rates comparable to placebo; **infectious complications slightly more frequent** with tofacitinib in both induction and maintenance | [[acg-2025-uc]] |
-| **Upadacitinib in CD** (meta-analysis, 1,917 patients) | Pooled **serious AE rate 6.0%**; no statistically significant difference vs placebo (**OR 0.79, 95% CI 0.62–0.99**); discontinuation for AEs **5.1%**; **opportunistic infections 0.7%**; **VTE 1.4%** | [[acg-2025-crohns]] |
+| **Upadacitinib in CD** (meta-analysis, 1,917 patients) | Pooled **serious AE rate 6.0%**; no statistically significant difference vs placebo (**odds ratio [OR] 0.79, 95% CI 0.62–0.99**); discontinuation for AEs **5.1%**; **opportunistic infections 0.7%**; **VTE 1.4%** | [[acg-2025-crohns]] |
 | **Malignancy in IBD** | **No demonstrated increased malignancy risk in IBD.** The signal derives from RA (ORAL Surveillance, age >50: NMSC, lung, lymphoma); extrapolation uncertain. Meta-analysis of 78 trials + extensions across all indications: JAK inhibitors **not** associated with higher malignancy incidence vs placebo or methotrexate, **but higher vs TNF inhibitors** | [[aga-2024-ibd-malignancy]], [[acg-2025-ibd-preventive-care]] |
 | **If a cancer develops** | **No change** to JAK inhibitor therapy for lymphoma, other hematologic malignancy, melanoma, NMSC, or solid-organ malignancy — all **"limited data"** | [[aga-2024-ibd-malignancy]] Table 1 |
 | **Vaccine response** | **Not definitively established** for JAK inhibitors; tofacitinib blunted the humoral response to **pneumococcal** (not influenza) vaccine in RA. **Vaccinate anyway** — do not hold small molecules for vaccination | [[acg-2025-ibd-preventive-care]] |
@@ -271,11 +271,11 @@ Everything restricting this class traces to one trial in **rheumatoid arthritis*
 |---|---|---|
 | **Before starting** | **Document lipid levels**, concordant with the medication label — **and repeat after starting therapy** | [[aga-2025-crohns-pharm]] |
 | Before starting (inpatient) | **Fasting lipid panel** before a JAK inhibitor or [[calcineurin-inhibitors\|cyclosporine]] | [[aga-2026-inpatient-ibd]] |
-| Before starting | **Latent TB** (TST or IGRA — **IGRA preferred if BCG-vaccinated**) and **HBV** testing, given reactivation risk | [[aga-2025-crohns-pharm]], [[aga-2026-inpatient-ibd]] |
-| Before starting | Confirm **active inflammation objectively** first — CRP or fecal calprotectin, or ileocolonoscopy / MRE / CT / [[intestinal-ultrasound\|IUS]]. Functional GI symptoms overlap in up to **one-third** of CD patients | [[aga-2025-crohns-pharm]] |
-| Before starting | Bring vaccinations up to date — pneumococcus, influenza, COVID-19, **herpes zoster**, RSV, HPV | [[aga-2025-crohns-pharm]] |
+| Before starting | **Latent tuberculosis (TB)** (tuberculin skin test [TST] or interferon-γ release assay [IGRA] — **IGRA preferred if bacille Calmette-Guérin (BCG)-vaccinated**) and **hepatitis B virus (HBV)** testing, given reactivation risk | [[aga-2025-crohns-pharm]], [[aga-2026-inpatient-ibd]] |
+| Before starting | Confirm **active inflammation objectively** first — C-reactive protein (CRP) or fecal calprotectin, or ileocolonoscopy / magnetic resonance enterography (MRE) / computed tomography (CT) / [[intestinal-ultrasound\|intestinal ultrasound (IUS)]]. Functional gastrointestinal (GI) symptoms overlap in up to **one-third** of CD patients | [[aga-2025-crohns-pharm]] |
+| Before starting | Bring vaccinations up to date — pneumococcus, influenza, coronavirus disease 2019 (COVID-19), **herpes zoster**, respiratory syncytial virus (RSV), human papillomavirus (HPV) | [[aga-2025-crohns-pharm]] |
 | **Herpes zoster vaccine** | **2-dose inactivated recombinant** zoster vaccine — all adults with IBD **aged 50 and older** (Conditional, low certainty, Rec 4); **and all adults 19 and above on, or planning to start, immune-modifying therapy** (Conditional, very low certainty, Rec 5) | [[acg-2025-ibd-preventive-care]] |
-| **Annually, on therapy** | **NMSC screening** for patients on 6-MP, azathioprine, methotrexate, **JAK inhibitors**, or S1P modulators — **particularly older than age 50** (Conditional, very low certainty, Rec 10) | [[acg-2025-ibd-preventive-care]] |
+| **Annually, on therapy** | **NMSC screening** for patients on 6-mercaptopurine (6-MP), azathioprine, methotrexate, **JAK inhibitors**, or S1P modulators — **particularly older than age 50** (Conditional, very low certainty, Rec 10) | [[acg-2025-ibd-preventive-care]] |
 | Ongoing | Monitor for **shingles and VTE**, especially on the higher maintenance dose, and adopt preventive strategies | [[aga-2024-uc-pharm]] |
 | Response assessment | Assess any advanced therapy at a **defined time point (6–12 weeks)** for efficacy and safety, then run an ongoing monitoring strategy (clinical response + CRP or fecal calprotectin; periodic structural reassessment) | [[acg-2025-uc]], [[aga-2025-crohns-pharm]] |
 
@@ -299,14 +299,14 @@ Everything restricting this class traces to one trial in **rheumatoid arthritis*
 - **ACG's UC recommendation vs the FDA label.** [[acg-2025-uc]] Recs 30 and 31 recommend tofacitinib and upadacitinib for induction with **no prior-anti-TNF precondition**, while the same guideline's narrative records that the **FDA label restricts both to use after anti-TNF failure or intolerance**. The guideline resolves this as "use clinical judgment" — the restriction is regulatory, not evidentiary. In **CD** there is no such gap: ACG Rec 23 is itself written for anti-TNF–experienced patients.
 - **ACG vs AGA on upadacitinib in the naïve CD patient.** [[acg-2025-crohns]] gives upadacitinib **Strong / Moderate** (Rec 23, in the anti-TNF-experienced patient only); [[aga-2025-crohns-pharm]] ranks it **LOWER efficacy** among advanced-therapy–naïve patients and **HIGHER** after anti-TNF exposure. The two are compatible because ACG's recommendation is *scoped to* the exposed patient — but the naïve-patient ranking is AGA's alone, and it is driven by an ileal-vs-colonic efficacy split.
 - **ORAL Surveillance population described two ways within the same guideline cycle.** [[acg-2025-crohns]] states the entry criteria as **age ≥50 with at least 1 additional cardiovascular risk factor**; [[acg-2025-uc]] describes the same cohort as patients "who had **pre-existing cardiovascular disease**." The CD description matches the risk-factor list reproduced by [[aga-2024-uc-pharm]] and is the one used on this page.
-- **ASUC: ACG says "insufficient data," AGA lists it as a rescue option.** [[acg-2025-uc]] Key concept 56 declines to recommend a JAK inhibitor after IVCS or infliximab failure; the newer [[aga-2026-inpatient-ibd]] names a JAK inhibitor as one of three rescue choices and even flags growing interest in it as *initial*, corticosteroid-sparing inpatient therapy. Neither states a dose, and AGA itself calls the role and dosing unresolved — so the practical position is unchanged: **not a routine option, and off-label if used.**
+- **ASUC: ACG says "insufficient data," AGA lists it as a rescue option.** [[acg-2025-uc]] Key concept 56 declines to recommend a JAK inhibitor after IV corticosteroid (IVCS) or infliximab failure; the newer [[aga-2026-inpatient-ibd]] names a JAK inhibitor as one of three rescue choices and even flags growing interest in it as *initial*, corticosteroid-sparing inpatient therapy. Neither states a dose, and AGA itself calls the role and dosing unresolved — so the practical position is unchanged: **not a routine option, and off-label if used.**
 - **Reported but deliberately unused.** ACG determined **not** to use indirect or post hoc data (network meta-analyses, subgroup analyses) to guide positioning recommendations ([[acg-2025-uc]] Key concepts 44). The observational upadacitinib-vs-ustekinumab and upadacitinib-vs-tofacitinib comparisons above are therefore reported without a recommendation attached.
 
 ---
 
 ## Gaps
 
-- *The IBD guidelines give no **CBC or LFT monitoring interval** specific to JAK inhibitors — [[aga-2025-crohns-pharm]] attaches CBC/LFT to **immunomodulators** and **lipids** to JAK inhibitors. Do not transfer one to the other.*
+- *The IBD guidelines give no **complete blood count (CBC) or liver function test (LFT) monitoring interval** specific to JAK inhibitors — [[aga-2025-crohns-pharm]] attaches CBC/LFT to **immunomodulators** and **lipids** to JAK inhibitors. Do not transfer one to the other.*
 - *The IBD guidelines give no **numeric lipid threshold** at which to act, a **statin rule**, or a repeat-lipid **interval** — only "document before, repeat after."*
 - *The IBD guidelines give no **dose-escalation or re-induction protocol for secondary loss of response** on a JAK inhibitor, nor a **primary-nonresponse assessment interval** beyond the generic 6–12 weeks.*
 - *The IBD guidelines state no **washout or sequencing interval** when switching from or to a JAK inhibitor, nor any data on **combining** a small molecule with a biologic (explicitly "no data" — [[aga-2024-ibd-malignancy]]).*

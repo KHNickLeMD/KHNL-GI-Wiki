@@ -44,16 +44,16 @@ sources: [asge-2011-foreign-body-ingestion]
 |---|---|
 | Children | Majority of all ingestions; peak incidence **6 months–6 years** |
 | Button battery ingestion | Children **<5 years** most likely; sources = hearing aids, watches, games, toys, calculators |
-| Adults, true (nonfood) FB | Psychiatric disorders, developmental delay, alcohol intoxication, incarcerated individuals seeking secondary gain (release to a medical facility). Multiple objects and repeat episodes common |
+| Adults, true (nonfood) foreign body (FB) | Psychiatric disorders, developmental delay, alcohol intoxication, incarcerated individuals seeking secondary gain (release to a medical facility). Multiple objects and repeat episodes common |
 | Edentulous adults | Obstructing food bolus, or ingestion of their own dental prosthesis |
-| Prior GI surgery / congenital gut malformation | Increased risk of impaction, perforation, obstruction |
+| Prior gastrointestinal (GI) surgery / congenital gut malformation | Increased risk of impaction, perforation, obstruction |
 | Food bolus impaction | Often have **underlying esophageal pathology directly causing the impaction** |
 
 ### Where Objects Get Stuck
 
 - Impaction, perforation, or obstruction occurs at **GI angulations or narrowing**.
 - Named levels in the guideline:
-  - **Cricopharyngeus / upper esophageal sphincter** — proximal impaction; ENT consult advised at or above this level; direct laryngoscopy or rigid esophagoscopy may be needed.
+  - **Cricopharyngeus / upper esophageal sphincter** — proximal impaction; ear, nose, and throat (ENT) consult advised at or above this level; direct laryngoscopy or rigid esophagoscopy may be needed.
   - **Esophagus** — the pressure point; anything lodged here has a 24-hour ceiling.
   - **Pylorus** — objects >2.5 cm in diameter are less likely to pass it.
   - **Duodenum** — objects >6 cm in length are likely to have difficulty passing it.
@@ -110,7 +110,7 @@ flowchart TD
 ### Step 2 — Localize the Object
 
 - **Biplane radiographs** first for suspected true foreign bodies — confirm location, size, shape, and number, and help exclude an aspirated object.
-- **Do not use contrast studies** before removal — aspiration risk, and contrast coats the object and mucosa, compromising subsequent [[upper-endoscopy|endoscopy]] (ASGE 2011 Rec 1, ⊕◯◯◯).
+- **Do not use contrast studies** before removal — aspiration risk, and contrast coats the object and mucosa, compromising subsequent [[upper-endoscopy|endoscopy]] (American Society for Gastrointestinal Endoscopy [ASGE] 2011 Rec 1, ⊕◯◯◯).
 - **Negative radiograph does not end the workup** — persistent esophageal symptoms should be evaluated by endoscopy even when imaging is negative, and many sharp-pointed objects are radiolucent.
 - **Suspected uncomplicated nonbony food bolus** (no perforation, no respiratory distress) → proceed to endoscopy **without** radiographs.
 
@@ -189,12 +189,12 @@ flowchart TD
 - **Do not use nonendoscopic retrieval** (fluoroscopic forceps, Foley catheter balloon, magnet-tipped nasogastric tube) — no airway protection, no direct view of the esophagus for underlying pathology or mucosal injury, no control of the object. Endoscopic approaches are recommended.
 - Objects not easily grasped in the esophagus may be **advanced into the stomach**, where retrieval is often easier — provided visualization is adequate.
 - **Push technique for food bolus:** gentle pressure on the **center** of the bolus. If advancement fails, reduce bolus size piecemeal, then reapply gentle pressure. Two large series reported **no perforations in 375 patients**; perforation remains a risk if excessive force is used.
-- **Glucagon 1.0 mg IV** — may relax the distal esophagus and allow spontaneous passage while endoscopy is being arranged. Effectiveness is contested (a single small randomized study showed no significant improvement over placebo); it is relatively safe and remains an acceptable option, but **must not delay definitive endoscopic removal**.
+- **Glucagon 1.0 mg intravenous (IV)** — may relax the distal esophagus and allow spontaneous passage while endoscopy is being arranged. Effectiveness is contested (a single small randomized study showed no significant improvement over placebo); it is relatively safe and remains an acceptable option, but **must not delay definitive endoscopic removal**.
 - **Papain and other proteolytic enzymes should never be used** — hypernatremia, mucosal erosion, and esophageal perforation have resulted.
 
 ### Step 7 — Post-Retrieval Obligations
 
-- **Biopsy the esophagus after a food impaction when EoE is suspected** — take biopsies of the **mid and distal esophagus**; EoE is found in as many as 33% of food bolus impactions.
+- **Biopsy the esophagus after a food impaction when eosinophilic esophagitis (EoE) is suspected** — take biopsies of the **mid and distal esophagus**; EoE is found in as many as 33% of food bolus impactions.
 - **Dilation:** generally safe after food bolus extraction when an esophageal stricture is present, and reduces recurrence. **Defer dilation pending pathology results** when EoE is suspected, and use caution after a prolonged impaction.
 
 ### Non-Operative Observation and Follow-Up
@@ -215,7 +215,7 @@ flowchart TD
 |---|---|---|
 | **Biplane radiographs** | First-line for suspected true foreign body — identifies most true foreign objects, steak bones, and free mediastinal or peritoneal air; gives location, size, shape, number; helps exclude an aspirated object | **Not readily seen:** fish or chicken bones, wood, plastic, glass, thin metal objects |
 | **Contrast radiography** | **Avoid before removal** (Rec 1) | Aspiration risk; contrast coats the object and mucosa and compromises subsequent endoscopy |
-| **CT** | May be useful; helpful for narcotic packets | May not detect radiolucent objects; sensitivity improved with **3-dimensional reconstruction**; false-negative scans reported in body packing |
+| **Computed tomography (CT)** | May be useful; helpful for narcotic packets | May not detect radiolucent objects; sensitivity improved with **3-dimensional reconstruction**; false-negative scans reported in body packing |
 | **Metal detector** | Localizes most swallowed metal objects; especially helpful in pediatric patients | Metal objects only |
 | **Upper endoscopy** | Diagnostic **and** therapeutic; indicated for persistent esophageal symptoms even when radiographs are negative; proceed without radiographs for uncomplicated nonbony food bolus | — |
 | **Esophageal biopsy (mid + distal)** | After food impaction when EoE is suspected | Dilation may be deferred pending results |

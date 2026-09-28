@@ -7,7 +7,7 @@ updated: 2026-09-06
 sources: [acg-2026-hepatic-encephalopathy, baveno-viii-2026-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy, baveno-vii-2022-portal-hypertension]
 ---
 
-Hepatic encephalopathy (HE) is **brain dysfunction caused by liver insufficiency and/or portosystemic shunting (PSS)**, manifesting as a spectrum of neurological/psychiatric abnormalities from subclinical alterations to coma. *HE is a continuum*, not a single entity [[aasld-easl-2014-hepatic-encephalopathy]]. HE can occur without [[cirrhosis]] when simple portosystemic shunting is present; ACG 2026 reframes it as a **gut–brain axis disorder** ([[disorders-of-gut-brain-interaction|DGBI]] framing) and de-emphasizes ammonia throughout [[acg-2026-hepatic-encephalopathy]].
+Hepatic encephalopathy (HE) is **brain dysfunction caused by liver insufficiency and/or portosystemic shunting (PSS)**, manifesting as a spectrum of neurological/psychiatric abnormalities from subclinical alterations to coma. *HE is a continuum*, not a single entity [[aasld-easl-2014-hepatic-encephalopathy]]. HE can occur without [[cirrhosis]] when simple portosystemic shunting is present; the American College of Gastroenterology (ACG) 2026 reframes it as a **gut–brain axis disorder** ([[disorders-of-gut-brain-interaction|disorder of gut–brain interaction (DGBI)]] framing) and de-emphasizes ammonia throughout [[acg-2026-hepatic-encephalopathy]].
 
 ## Contents
 - [[#Assessment]]
@@ -41,28 +41,28 @@ Hepatic encephalopathy (HE) is **brain dysfunction caused by liver insufficiency
 
 ### Establishing the Diagnosis
 
-- **OHE is a clinical diagnosis of exclusion** — West Haven criteria (WHC) + Glasgow Coma Scale (GCS) in a patient with liver disease/shunting, after alternative causes of altered mental status are excluded.
-- **CHE is defined by *excluding* OHE** (grade 2 or higher) in the appropriate clinical context — the clinical diagnosis of covert HE has low reproducibility ([[acg-2026-hepatic-encephalopathy]], Key concept 1).
+- **Overt HE (OHE) is a clinical diagnosis of exclusion** — West Haven criteria (WHC) + Glasgow Coma Scale (GCS) in a patient with liver disease/shunting, after alternative causes of altered mental status are excluded.
+- **Covert HE (CHE) is defined by *excluding* OHE** (grade 2 or higher) in the appropriate clinical context — the clinical diagnosis of covert HE has low reproducibility ([[acg-2026-hepatic-encephalopathy]], Key concept 1).
 - **Isolated asterixis, without alteration in behavior or alertness, is not enough to diagnose OHE** (ACG 2026, Key concept 2).
 - **Serum ammonia does not make the diagnosis** — see [[#Serum Ammonia]].
 
 ### Severity Assessment
 
-**West Haven Criteria + ISHEN (Table 2, [[aasld-easl-2014-hepatic-encephalopathy]]):**
+**West Haven Criteria + International Society for Hepatic Encephalopathy and Nitrogen Metabolism (ISHEN) (Table 2, [[aasld-easl-2014-hepatic-encephalopathy]]):**
 
 | Grade | Category | Clinical Manifestations | Operative Criteria |
 |---|---|---|---|
 | Unimpaired | — | No encephalopathy; no history | Tested and proved normal |
-| Minimal | Covert HE (CHE) | Psychometric/neurophysiological abnormalities only; no clinical symptoms | Abnormal psychometric or neurophysiological tests; no clinical HE |
+| Minimal | Covert HE | Psychometric/neurophysiological abnormalities only; no clinical symptoms | Abnormal psychometric or neurophysiological tests; no clinical HE |
 | Grade 1 | Covert HE | Trivial lack of awareness; euphoria/anxiety; shortened attention span; altered sleep rhythm; impaired addition/subtraction | Oriented; some cognitive/behavioral decay perceived by caregivers |
 | Grade 2 | Overt HE | Lethargy/apathy; disorientation for time; obvious personality change; dyspraxia; asterixis | Disoriented for time (≥3 of: day of month, day of week, month, season, year) |
 | Grade 3 | Overt HE | Somnolence to semistupor; responsive to stimuli; confusion; bizarre behavior; gross disorientation | Disoriented for space (country, state, city, or place) |
 | Grade 4 | Overt HE | Coma | Does not respond even to painful stimuli |
 
 - **MHE (Minimal HE)** = no clinical signs; diagnosed only by neuropsychological/neurophysiological testing.
-- **CHE (Covert HE)** = MHE + West Haven Grade 1 combined.
-- **OHE (Overt HE)** = Grades 2–4 (clinically detectable); a **defining decompensating event** in cirrhosis.
-- **Triage:** WHC + GCS identify high-grade HE requiring step-down/ICU transfer to prevent complications such as aspiration pneumonia (ACG 2026, Key concept 9).
+- **CHE** = MHE + West Haven Grade 1 combined.
+- **OHE** = Grades 2–4 (clinically detectable); a **defining decompensating event** in cirrhosis.
+- **Triage:** WHC + GCS identify high-grade HE requiring step-down/intensive care unit (ICU) transfer to prevent complications such as aspiration pneumonia (ACG 2026, Key concept 9).
 
 ### Classification / Typing
 
@@ -85,19 +85,19 @@ Every bout should be characterized along **all axes simultaneously** — the 201
 **Axis 4 — Precipitating factors**
 
 - **Spontaneous** (no identifiable precipitant) vs **precipitated** (specify)
-- Most common **episodic** precipitants, by decreasing frequency: infections\* > [[upper-gi-bleeding|GI bleeding]] > diuretic overdose > electrolyte disorder > constipation > unidentified
+- Most common **episodic** precipitants, by decreasing frequency: infections\* > [[upper-gi-bleeding|gastrointestinal (GI) bleeding]] > diuretic overdose > electrolyte disorder > constipation > unidentified
 - Most common **recurrent** precipitants: electrolyte disorders > infections > constipation > diuretic overdose > GI bleeding
-- *\*More recent data confirm infections (especially [[spontaneous-bacterial-peritonitis|SBP]]) as the dominant precipitant.*
+- *\*More recent data confirm infections (especially [[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]]) as the dominant precipitant.*
 
 **Axis 5 — Social infrastructure** (ACG 2026): social/family support, financial support for medication adherence and for lost earning/driving capability, and institutional support for timely follow-up. Used as a checklist to identify addressable determinants of recurrence and readmission.
 
 ### Epidemiology and Prognosis
 
 - HE is now the **first decompensating event** in many patients with cirrhosis; 1-year incidence 10% (Child A) and 25% (Child B) with portal hypertension ([[acg-2026-hepatic-encephalopathy]])
-- OHE prevalence at cirrhosis diagnosis 10–14% (general), 16–21% (decompensated), 10–50% ([[tips|TIPS]] patients); cumulative OHE 30–40% of cirrhotics at some point in the clinical course, repeatedly in most survivors ([[aasld-easl-2014-hepatic-encephalopathy]])
-- OHE: 5–25% risk within 5 years of cirrhosis diagnosis (higher with prior MHE/CHE, infections, [[variceal-upper-gi-bleeding|variceal bleeding]], [[ascites]], DM, [[hepatitis-c|hepatitis C]])
+- OHE prevalence at cirrhosis diagnosis 10–14% (general), 16–21% (decompensated), 10–50% ([[tips|transjugular intrahepatic portosystemic shunt (TIPS)]] patients); cumulative OHE 30–40% of cirrhotics at some point in the clinical course, repeatedly in most survivors ([[aasld-easl-2014-hepatic-encephalopathy]])
+- OHE: 5–25% risk within 5 years of cirrhosis diagnosis (higher with prior MHE/CHE, infections, [[variceal-upper-gi-bleeding|variceal bleeding]], [[ascites]], diabetes mellitus (DM), [[hepatitis-c|hepatitis C]])
 - After an index OHE episode, **~40–60% recur within 1 year** → secondary prophylaxis is indicated in all
-- MHE/CHE: 20–80% prevalence in cirrhosis; reduces QoL, impairs driving, predicts OHE
+- MHE/CHE: 20–80% prevalence in cirrhosis; reduces quality of life (QoL), impairs driving, predicts OHE
 - HE is the most common cause of readmission among cirrhosis complications (90-day readmission 21%–53%); inpatient cost rose from $38,897 (2007) to $49,391 (2017)
 - **Recurrent intractable OHE together with liver failure = indication for [[liver-transplantation]]**
 
@@ -110,15 +110,15 @@ Every bout should be characterized along **all axes simultaneously** — the 201
 **Altered mental status in cirrhosis (Table 4, [[aasld-easl-2014-hepatic-encephalopathy]]):**
 
 - Hypoglycemia, ketoacidosis, hyperosmolar states, lactic acidosis
-- Alcohol intoxication, withdrawal, Wernicke encephalopathy (give IV thiamine before glucose)
+- Alcohol intoxication, withdrawal, Wernicke encephalopathy (give intravenous [IV] thiamine before glucose)
 - Drugs (benzodiazepines, neuroleptics, opioids)
 - Neuroinfections (meningitis, encephalitis)
 - Electrolyte disorders (hyponatremia — independent risk factor for HE; hypercalcemia); hyperglycemia and sepsis can independently cause metabolic encephalopathy *or* precipitate HE
-- Nonconvulsive seizures (EEG if needed)
+- Nonconvulsive seizures (electroencephalography [EEG] if needed)
 - Psychiatric disorders
 - Intracranial bleeding and stroke; recent head trauma, falls, seizures, surgery
 - Severe metabolic stress (organ failure, systemic inflammation)
-- Uremic encephalopathy (may coexist in ACLF — see [[acute-on-chronic-liver-failure]])
+- Uremic encephalopathy (may coexist in acute-on-chronic liver failure [ACLF] — see [[acute-on-chronic-liver-failure]])
 
 **In cirrhosis with *cognitive complaints* (not overt confusion),** a large proportion have something other than MHE — specifically assess for **obstructive sleep apnea, alcohol-related conditions, and mild cognitive impairment**, ideally in a specialized clinic, especially with isolated delayed-memory or isolated sleep complaints (ACG 2026, Key concept 4).
 
@@ -129,7 +129,7 @@ Every bout should be characterized along **all axes simultaneously** — the 201
 ### Diagnosing OHE
 
 - **Clinical** — WHC + GCS; GCS is operationally robust for Grades 3–4 and supplements WHC
-- **Brain imaging:** in cirrhosis + confusion **without new-onset focal neurologic deficits, routine brain imaging is NOT required** (ACG 2026, Rec 6, *conditional, very low certainty*). CT/MRI does not diagnose or grade HE; obtain it for **focal neurologic deficits, seizures, or HE not responding to therapy**, to look for subdural/subarachnoid hemorrhage, stroke, or brain lesion
+- **Brain imaging:** in cirrhosis + confusion **without new-onset focal neurologic deficits, routine brain imaging is NOT required** (ACG 2026, Rec 6, *conditional, very low certainty*). Computed tomography (CT)/magnetic resonance imaging (MRI) does not diagnose or grade HE; obtain it for **focal neurologic deficits, seizures, or HE not responding to therapy**, to look for subdural/subarachnoid hemorrhage, stroke, or brain lesion
   - ⚠ **Contradiction:** [[aasld-easl-2014-hepatic-encephalopathy]] advised a brain scan as "usually part of the diagnostic workup of first-time HE," citing an **at-least-5-fold increased risk of intracerebral hemorrhage** in cirrhosis. ACG 2026 supersedes this on newer data showing low yield of head CT and low likelihood of intracranial hemorrhage in cirrhosis with altered mental status
 - **Precipitant search is part of the diagnosis:** thorough evaluation for bleeding, infection (pan-culture, **diagnostic paracentesis**, chest x-ray), sedating medications, and toxic/metabolic abnormalities (ACG 2026, Key concept 10). Do **not** start empirical broad-spectrum antibiotics absent symptoms or lab findings of active infection; tailor or stop quickly based on cultures
 
@@ -152,7 +152,7 @@ Every bout should be characterized along **all axes simultaneously** — the 201
 
 *Rows 1–4 = Table 4, [[acg-2026-hepatic-encephalopathy]]; remaining rows from [[aasld-easl-2014-hepatic-encephalopathy]].*
 
-- **Do not substitute MMSE or MoCA.** Both can be abnormal in CHE, and **no threshold distinguishes the CHE spectrum from delirium or dementia**; they add nothing to CHE-dedicated testing. Refer to a specialist when mild cognitive impairment, dementia, or delirium is suspected.
+- **Do not substitute the Mini-Mental State Examination (MMSE) or Montreal Cognitive Assessment (MoCA).** Both can be abnormal in CHE, and **no threshold distinguishes the CHE spectrum from delirium or dementia**; they add nothing to CHE-dedicated testing. Refer to a specialist when mild cognitive impairment, dementia, or delirium is suspected.
 - **HESA (Hepatic Encephalopathy Scoring Algorithm)** — point-based clinical + paper-pencil tool validated across all HE grades (attention, memory, psychomotor function); takes ~20 min, so it is used mainly to standardize OHE severity in inpatient trials.
 
 - **Who to prioritize for MHE testing** (ACG 2026, Key concept 3) — cirrhosis plus ≥1 of:
@@ -176,7 +176,7 @@ Every bout should be characterized along **all axes simultaneously** — the 201
 Improvement is expected within **24–48 h**. If delirium persists **beyond 48–72 h** despite adequate bowel movements and reversal of precipitants (ACG 2026, Key concept 12), work through three tracks:
 
 1. **Alternative diagnosis** — re-check ammonia (normal/low argues against HE); consider recent head trauma, falls, seizures, surgery
-2. **Undiagnosed precipitant** — electrolytes, [[aki-in-cirrhosis|renal failure]], centrally acting or recreational drugs (urine drug screen, phosphatidylethanol), overt GI bleeding, and above all **infection** (pan-culture, paracentesis, CXR) — OHE will not improve until a specific infection is treated
+2. **Undiagnosed precipitant** — electrolytes, [[aki-in-cirrhosis|renal failure]], centrally acting or recreational drugs (urine drug screen, phosphatidylethanol), overt GI bleeding, and above all **infection** (pan-culture, paracentesis, chest x-ray [CXR]) — OHE will not improve until a specific infection is treated
 3. **Shunts** — **cross-sectional imaging (CT or MRI)** to identify prior TIPS vs **spontaneous portosystemic shunts (SPSS)**; SPSS are present in **46%–71%** of medically refractory HE vs 14% without
 
 ---
@@ -198,9 +198,9 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 
 - **First-line for OHE to improve outcomes and prevent recurrence** (ACG 2026, Rec 7, *strong, moderate certainty*; 2014 Rec 19, Grade II-1, B, 1)
 - **First-line outpatient secondary prophylaxis after an initial OHE episode, titrated to 2–3 soft bowel movements daily** (ACG 2026, Rec 10, *strong, high certainty*; 2014 Rec 25, Grade II-1, A, 1)
-- **Acute dosing:** 10–20 g (15–30 mL) **every 2 h** until 2 soft BMs, then reduce to **2–4× daily** to maintain 2–3 BMs/day
+- **Acute dosing:** 10–20 g (15–30 mL) **every 2 h** until 2 soft bowel movements (BMs), then reduce to **2–4× daily** to maintain 2–3 BMs/day
 - **Grade 3–4 / unable to swallow / aspiration risk:** nasogastric administration at similar dosing, **or** lactulose enema with preserved anal sphincter tone — **200 g lactulose (or 300 mL solution) in 700 mL water or saline, retained 30–60 min, repeated every 4–6 h** until mental status improves
-- **Titrate with the Bristol Stool Scale plus BM frequency** to reduce readmissions (ACG 2026, Rec 11, *conditional, very low certainty*). BSS ≥5 → cut back lactulose, or add [[rifaximin]] if already on lactulose. BSS ≥5 *before* starting lactulose → consider a non-laxative therapy de novo for adherence
+- **Titrate with the Bristol Stool Scale (BSS) plus BM frequency** to reduce readmissions (ACG 2026, Rec 11, *conditional, very low certainty*). BSS ≥5 → cut back lactulose, or add [[rifaximin]] if already on lactulose. BSS ≥5 *before* starting lactulose → consider a non-laxative therapy de novo for adherence
   - [[acg-2026-hepatic-encephalopathy]] uses the Bristol Stool Form Scale without reproducing the 7 types; the scale itself is in the primary Lewis–Heaton paper (see also [[chronic-constipation]] and [[chronic-diarrhea]])
 - **Overuse harms:** perianal skin irritation/infection, ileus, aspiration, dehydration, hypernatremia, hypokalemia — each can itself precipitate HE
 - **ICU/intubated patients:** titrate on bowel movements (mental status not assessable); with a fecal management system, **hold lactulose and other laxatives if >300 mL stool/day**; watch for hypernatremia and aspiration
@@ -211,7 +211,7 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 - **Add rifaximin to lactulose for acute OHE** (ACG 2026, Rec 9, *conditional, low certainty*) — combination gave higher complete-reversal rates, shorter stay, and lower mortality than lactulose alone
 - **Outpatient rifaximin to prevent recurrence** (ACG 2026, Rec 12, *conditional, low certainty*; 2014 Rec 20, Grade I, A, 1)
 - **Recurrent episodes despite lactulose maintenance → add rifaximin** (ACG 2026, Rec 13, *strong, high certainty*; 2014 Rec 26 placed this after the second episode)
-- **Dose: 550 mg BID** (FDA-approved for reduction in risk of OHE recurrence). Pivotal RCT (299 patients, ≥2 OHE episodes in prior 6 months, 91% on lactulose): **58% relative risk reduction in breakthrough OHE (NNT 4)** and **50% reduction in HE-related hospitalization (NNT 9)** at 6 months
+- **Dose: 550 mg twice daily (BID)** (FDA-approved for reduction in risk of OHE recurrence). Pivotal randomized controlled trial (RCT) (299 patients, ≥2 OHE episodes in prior 6 months, 91% on lactulose): **58% relative risk reduction in breakthrough OHE (number needed to treat [NNT] 4)** and **50% reduction in HE-related hospitalization (NNT 9)** at 6 months
 - **Combination > monotherapy:** monotherapy data exist but the preponderance of evidence favors rifaximin **with** lactulose in patients who tolerate dual therapy
 - **In the ICU, rifaximin adds little** — especially on broad-spectrum antibiotics; a double-blind trial found similar OHE reversal with antibiotics alone
 - Cost drives adherence — even brief lapses in rifaximin are associated with readmission; assess affordability per patient
@@ -220,10 +220,10 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 
 | Agent | Recommendation | Comment |
 |---|---|---|
-| **High-volume PEG (e.g., 4 L)** | ACG 2026 Rec 8 (*conditional, low certainty*) — alternative to lactulose | RCT: faster HE resolution than standard lactulose; PO or NG. Favor when lactulose causes abdominal discomfort, gas distension, or ileus |
+| **High-volume polyethylene glycol (PEG) (e.g., 4 L)** | ACG 2026 Rec 8 (*conditional, low certainty*) — alternative to lactulose | RCT: faster HE resolution than standard lactulose; oral (PO) or nasogastric (NG). Favor when lactulose causes abdominal discomfort, gas distension, or ileus |
 | **Zinc** | ACG 2026 Rec 14 (*conditional, very low certainty*) — add for persistent symptoms despite lactulose + rifaximin **in those with low blood zinc** | Cofactor in the urea cycle; efficacy data conflicting but safe adjunct |
-| Oral BCAAs | 2014 Rec 21 (Grade I, B, 2) — alternative/additional for OHE not responding to conventional therapy | IV BCAAs have no effect on episodic bouts |
-| **LOLA (L-ornithine L-aspartate)** | 2014 Rec 22 (Grade I, B, 2) — IV, alternative/additional for refractory OHE. **[[baveno-viii-2026-portal-hypertension\|Baveno VIII]] 6.13 (new, LoE 3, weak): LOLA "can be considered" in recurrent/persistent HE** | Oral LOLA ineffective per the 2014 guideline. Baveno VIII does not specify route or dose; take the dose from the primary trials. Baveno VIII also counts LOLA alongside lactulose and rifaximin as an "HE medication" that must be **stopped** before a patient can be called [[cirrhosis\|recompensated]] (7.4b, 7.7) |
+| Oral branched-chain amino acids (BCAAs) | 2014 Rec 21 (Grade I, B, 2) — alternative/additional for OHE not responding to conventional therapy | IV BCAAs have no effect on episodic bouts |
+| **LOLA (L-ornithine L-aspartate)** | 2014 Rec 22 (Grade I, B, 2) — IV, alternative/additional for refractory OHE. **[[baveno-viii-2026-portal-hypertension\|Baveno VIII]] 6.13 (new, level of evidence [LoE] 3, weak): LOLA "can be considered" in recurrent/persistent HE** | Oral LOLA ineffective per the 2014 guideline. Baveno VIII does not specify route or dose; take the dose from the primary trials. Baveno VIII also counts LOLA alongside lactulose and rifaximin as an "HE medication" that must be **stopped** before a patient can be called [[cirrhosis\|recompensated]] (7.4b, 7.7) |
 | l-carnitine | ACG 2026 Key concept 7 — second-line for MHE/CHE | Consider when concomitant skeletal muscle cramps |
 | Neomycin | 2014 Rec 23 (Grade II-1, B, 2) | Long-term ototoxicity/nephrotoxicity |
 | Metronidazole | 2014 Rec 24 (Grade II-3, B, 2) — short-term only | Neurotoxicity/nephrotoxicity |
@@ -232,20 +232,20 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 | [[fmt\|Fecal microbiota transplant]] | **Clinical trials only** | Phase 1/2a trials (enema and capsule) safe with reduced recurrence; route/dose not contributory |
 | Flumazenil | Not routinely recommended | Transient benefit, no survival effect; useful diagnostically or to temporize in benzodiazepine toxicity |
 | [[albumin\|Albumin (IV)]] | Role unclear | Limited data suggest higher complete-reversal rate and lower mortality as an adjunct; no benefit on HE resolution in one RCT |
-| RRT / plasma exchange / albumin dialysis (MARS) | **Not supported in cirrhosis** | Ammonia is dialyzable and early RRT may help in [[acute-liver-failure\|ALF]] or urea-cycle disorders; insufficient data in cirrhosis. MARS reduces HE grade but its role is undefined |
+| Renal replacement therapy (RRT) / plasma exchange / albumin dialysis (Molecular Adsorbent Recirculating System [MARS]) | **Not supported in cirrhosis** | Ammonia is dialyzable and early RRT may help in [[acute-liver-failure\|acute liver failure (ALF)]] or urea-cycle disorders; insufficient data in cirrhosis. MARS reduces HE grade but its role is undefined |
 | Health-information-technology tools | ACG 2026 Rec 15 (*conditional, very low certainty*) | Patient Buddy App, electronic order sets/clinical reminders — reduced 30-day readmissions ~40% in one study |
 
-**Deprescribing (ACG 2026, Key concept 15):** review the medication list and minimize agents that affect mental-status assessment or HE risk — **opiates** (also slow transit → more ammonia absorption), **benzodiazepines**, **gabapentin/pregabalin**, **sleep aids (zolpidem, zaleplon, eszopiclone)**, and **[[proton-pump-inhibitors|PPIs]]** (increased HE risk, likely via microbiota change from acid suppression). Deprescribe multidisciplinarily and with the patient.
+**Deprescribing (ACG 2026, Key concept 15):** review the medication list and minimize agents that affect mental-status assessment or HE risk — **opiates** (also slow transit → more ammonia absorption), **benzodiazepines**, **gabapentin/pregabalin**, **sleep aids (zolpidem, zaleplon, eszopiclone)**, and **[[proton-pump-inhibitors|proton pump inhibitors (PPIs)]]** (increased HE risk, likely via microbiota change from acid suppression). Deprescribe multidisciplinarily and with the patient.
 
 ### Nutrition, Sarcopenia, and Exercise
 
 - **Protein 1.2–1.5 g/kg/day** (ACG 2026, Rec 17, *strong, moderate certainty*; 2014 Rec 31, Grade I, A, 1); **critically ill patients up to 2 g/kg/day** (Key concept 22)
-- **Do NOT protein-restrict** — increases muscle breakdown and does not shorten HE (ACG 2026, Rec 20; 2014 Rec 31; consistent with [[acute-on-chronic-liver-failure]] GS 42)
+- **Do NOT protein-restrict** — increases muscle breakdown and does not shorten HE (ACG 2026, Rec 20; 2014 Rec 31; consistent with [[acute-on-chronic-liver-failure]] Guidance Statement 42)
 - **BCAA supplementation when protein needs cannot be met by food alone** (ACG 2026, Rec 18, *strong, moderate certainty*; 2014 Rec 33, Grade II-2, B, 2)
-- **Daily energy 35–40 kcal/kg IBW**; small meals evenly distributed with a **late-night snack** (2014 Recs 30 & 32, Grade I, A, 1; ACG 2026, Rec 19 — late-night snack to reduce frailty and HE)
+- **Daily energy 35–40 kcal/kg ideal body weight (IBW)**; small meals evenly distributed with a **late-night snack** (2014 Recs 30 & 32, Grade I, A, 1; ACG 2026, Rec 19 — late-night snack to reduce frailty and HE)
 - **Exercise** to reduce falls, lower portal pressure, and increase skeletal-muscle ammonia metabolism (ACG 2026, Rec 21, *conditional, low certainty*). Post-exercise ammonia rises are **not** associated with elevated HE risk and should not deter prescribing exercise (Key concept 24); supervise, since HE raises exercise-injury risk (Key concept 25)
 - **Assess muscle health in all HE patients including MHE/CHE** — sarcopenia/myosteatosis, strength, physical function, frailty, cardiorespiratory fitness; impaired muscle health and myosteatosis increase HE risk (Key concepts 20–21). See [[nutrition-in-liver-disease]]
-- Consider thiamine deficiency in [[alcohol-associated-liver-disease|ALD]] and end-stage cirrhosis of any cause — **IV thiamine before IV glucose**
+- Consider thiamine deficiency in [[alcohol-associated-liver-disease|alcohol-associated liver disease (ALD)]] and end-stage cirrhosis of any cause — **IV thiamine before IV glucose**
 
 ### Treatment of MHE and CHE
 
@@ -262,12 +262,12 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 - **Assess prior overt HE and current HE medications before elective TIPS** (Baveno VIII 6.14) — but **a history of prior overt HE is *not* an absolute contraindication to elective TIPS**; individualise on the clinical context (6.15)
 - **Embolize extrahepatic collaterals at the time of TIPS** to reduce post-TIPS HE (ACG 2026, Rec 23, *conditional, low certainty*)
 - **Shunt embolization for refractory HE** on optimized medical therapy with adequate hepatic function and no contraindications (ACG 2026, Rec 16, *conditional, very low certainty*) — large spontaneous PSS embolization can clear HE rapidly, though variceal bleeding risk may emerge
-  - **Who qualifies — the operative criteria:** refractory HE despite optimal medical therapy, **MELD usually <15**, and **shunts ≥8 mm in diameter** ([[acg-2026-hepatic-encephalopathy]]). One series: 59.4% remained HE-free after obliteration of accessible portosystemic shunts
+  - **Who qualifies — the operative criteria:** refractory HE despite optimal medical therapy, **Model for End-Stage Liver Disease (MELD) usually <15**, and **shunts ≥8 mm in diameter** ([[acg-2026-hepatic-encephalopathy]]). One series: 59.4% remained HE-free after obliteration of accessible portosystemic shunts
   - **Baveno VIII 6.12** independently recommends **embolisation of large portosystemic shunts** for **recurrent/persistent HE despite optimal pharmacological therapy**, alongside a [[liver-transplantation|liver transplant]] discussion, and **particularly when liver function is preserved** (LoE 3, strong) — the same "preserved liver function" gate that ACG expresses as MELD <15, though Baveno gives no number
 - **Post-TIPS HE:** occurs in **30%–40%** of patients after TIPS ([[acg-2026-hepatic-encephalopathy]]); median cumulative 1-year OHE incidence was reported as 10%–50% in [[aasld-easl-2014-hepatic-encephalopathy]], heavily dependent on patient-selection criteria
   - **Refractory post-TIPS HE in 3%–7%** — most cases occur when the **portal-systemic gradient falls by >60%** after TIPS
   - **Risk factors:** older age, worse liver function, hyponatremia, pre-TIPS SPSS, prior HE history, larger stent diameter, greater portal-pressure-gradient reduction, and sarcopenia
-  - **Once post-TIPS HE occurs, treat as non-TIPS HE** (lactulose + rifaximin). If unsuccessful or refractory: reduce the TIPS diameter by **ballooning or placing a smaller TIPS within the TIPS**, then consider embolization; ultimately consider LT
+  - **Once post-TIPS HE occurs, treat as non-TIPS HE** (lactulose + rifaximin). If unsuccessful or refractory: reduce the TIPS diameter by **ballooning or placing a smaller TIPS within the TIPS**, then consider embolization; ultimately consider liver transplantation (LT)
   - **Baveno VIII 6.17** orders the same escalation — after **removing precipitants** and failing standard medical treatment, consider **spontaneous shunt embolisation and/or reduction or occlusion of the TIPS**. **5.34** adds that **overt HE refractory to medical *and* interventional therapy after TIPS may be a reason to prioritise the patient for [[liver-transplantation|liver transplantation]]**
   - **Prevention at the shunt itself:** in recurrent/refractory [[ascites]], Baveno VIII 6.5–6.6 recommends dilating the TIPS to the **smallest diameter that achieves an adequate response**, and dilating **stepwise** if ascites does not improve — explicitly to limit **overshunting (HE, cardiac failure)**. See [[tips]]
   - Lactulose/lactitol prophylaxis to prevent post-TIPS HE was **unsuccessful** vs placebo in smaller studies. The rifaximin pre-TIPS RCT behind Rec 22 significantly reduced post-TIPS HE vs placebo, but enrolled **mostly refractory-ascites patients with alcohol etiology** — note the population when generalizing
@@ -287,7 +287,7 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 ### De-escalation of Secondary Prophylaxis
 
 - **HE therapy may be de-escalated and potentially discontinued stepwise in patients who clinically recompensate** (ACG 2026, Key concept 16). If asymptomatic on therapy, stop HE medications **sequentially** with close monitoring
-  - ⚠ **The recompensation definition ACG cites has been revised.** ACG 2026 Key concept 16 describes recompensation as resolution of ascites off diuretics, **no variceal bleeding for 12 months**, plus improved albumin, INR and bilirubin — the [[baveno-vii-2022-portal-hypertension|Baveno VII]] wording. [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 7.4 shortens the sustained-resolution window to **>6 consecutive months** and replaces "improved liver function tests" with a number: **CTP A5/A6**. Full criteria — and the CTP point table itself — on [[cirrhosis|cirrhosis → Recompensation]]
+  - ⚠ **The recompensation definition ACG cites has been revised.** ACG 2026 Key concept 16 describes recompensation as resolution of ascites off diuretics, **no variceal bleeding for 12 months**, plus improved albumin, international normalized ratio (INR) and bilirubin — the [[baveno-vii-2022-portal-hypertension|Baveno VII]] wording. [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 7.4 shortens the sustained-resolution window to **>6 consecutive months** and replaces "improved liver function tests" with a number: **Child-Turcotte-Pugh (CTP) A5/A6**. Full criteria — and the CTP point table itself — on [[cirrhosis|cirrhosis → Recompensation]]
   - **Baveno VIII 7.7 makes the direction of causation explicit:** absence of HE *while on* lactulose/rifaximin/LOLA is **not** evidence of recompensation — so **withdraw the HE medication** once aetiologic cure/control is achieved and synthetic function has reached CTP A laboratory criteria, and judge recompensation on what happens next. Being off the drug is a criterion, not a consequence
 - 2014 Rec 28 (Grade III, C, 2) similarly allowed discontinuation once precipitants are well controlled or liver function/nutrition significantly improves
 

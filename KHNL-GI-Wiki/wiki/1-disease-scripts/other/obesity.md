@@ -26,9 +26,9 @@ sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 
 ### Establishing the Diagnosis
 
-- **Definition (treatment thresholds):** BMI **≥30 kg/m²**, or **≥27 kg/m² with a weight-related comorbidity** — the population for whom AGA endorses adding drug therapy ([[aga-2022-obesity-pharm]]).
+- **Definition (treatment thresholds):** Body mass index (BMI) **≥30 kg/m²**, or **≥27 kg/m² with a weight-related comorbidity** — the population for whom the American Gastroenterological Association (AGA) endorses adding drug therapy ([[aga-2022-obesity-pharm]]).
 - Affects ~**40% of US adults**; yet only ~1.1% of eligible patients receive primary [[bariatric-surgery|bariatric surgery]] and <5% seeking weight loss are aware of endoscopic options ([[aga-2021-intragastric-balloons]]).
-- Drives GI/metabolic comorbidities — [[nafld-masld|MASLD]], type 2 diabetes, hypertension, dyslipidemia (each shows improved remission with effective weight loss).
+- Drives gastrointestinal (GI)/metabolic comorbidities — [[nafld-masld|metabolic dysfunction-associated steatotic liver disease (MASLD)]], type 2 diabetes (T2DM), hypertension, dyslipidemia (each shows improved remission with effective weight loss).
 
 ---
 
@@ -41,7 +41,7 @@ sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 ## Diagnostics
 
 - **Anthropometric:** BMI defines eligibility (≥30, or ≥27 with comorbidity).
-- **Metabolic comorbidity screen:** effective weight loss improves HbA1c, fasting glucose, LDL trend, and transaminases, and increases remission of diabetes/hypertension/dyslipidemia — track these to gauge benefit ([[aga-2021-intragastric-balloons]]).
+- **Metabolic comorbidity screen:** effective weight loss improves hemoglobin A1c (HbA1c), fasting glucose, low-density lipoprotein (LDL) trend, and transaminases, and increases remission of diabetes/hypertension/dyslipidemia — track these to gauge benefit ([[aga-2021-intragastric-balloons]]).
 
 ---
 
@@ -60,9 +60,9 @@ sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 
 | Agent | AGA position | Prefer it when | Avoid / caution | Monitoring |
 |---|---|---|---|---|
-| **[[semaglutide\|semaglutide 2.4 mg]]** | Suggested (moderate) | **May be prioritized over other agents for most patients** given the magnitude of net benefit; glucoregulatory benefit, also approved for T2DM | [[glp-1-receptor-agonists\|GLP-1 RAs]] carry increased risk of **[[acute-pancreatitis\|pancreatitis]] and [[acute-cholecystitis\|gallbladder disease]]**; [[gastroparesis\|delayed gastric emptying]] → nausea/vomiting (**gradual dose titration** mitigates) | — |
+| **[[semaglutide\|semaglutide 2.4 mg]]** | Suggested (moderate) | **May be prioritized over other agents for most patients** given the magnitude of net benefit; glucoregulatory benefit, also approved for T2DM | [[glp-1-receptor-agonists\|Glucagon-like peptide-1 receptor agonists (GLP-1 RAs)]] carry increased risk of **[[acute-pancreatitis\|pancreatitis]] and [[acute-cholecystitis\|gallbladder disease]]**; [[gastroparesis\|delayed gastric emptying]] → nausea/vomiting (**gradual dose titration** mitigates) | — |
 | **liraglutide 3.0 mg** | Suggested (moderate) | Glucoregulatory benefit; also approved for T2DM | Same GLP-1 class risks (pancreatitis, gallbladder disease, delayed gastric emptying) | — |
-| **phentermine-topiramate ER** | Suggested (moderate) | Comorbid **migraine** (topiramate treats migraine) | **Avoid with a history of cardiovascular disease or uncontrolled hypertension.** Topiramate is **teratogenic** — counsel women of childbearing potential to use effective contraception consistently | **BP and heart rate periodically** (true of any phentermine-containing regimen) |
+| **phentermine-topiramate extended-release (ER)** | Suggested (moderate) | Comorbid **migraine** (topiramate treats migraine) | **Avoid with a history of cardiovascular disease or uncontrolled hypertension.** Topiramate is **teratogenic** — counsel women of childbearing potential to use effective contraception consistently | **Blood pressure (BP) and heart rate periodically** (true of any phentermine-containing regimen) |
 | **naltrexone-bupropion ER** | Suggested (moderate) | Patient **attempting smoking cessation**; patient with **depression** | **Avoid in seizure disorders**, use with caution if at risk of seizures. **Do not use concomitantly with opiates** | BP and heart rate periodically, **especially the first 12 weeks** |
 | **phentermine** monotherapy | Suggested (low) | Short-term use | FDA approval is for **12 weeks only** — ⚠ longer use is **off-label** (though common in practice, given that weight management is chronic). Avoid with a history of cardiovascular disease | BP and heart rate periodically |
 | **diethylpropion** monotherapy | Suggested (low) | Short-term use | FDA approval is for **12 weeks only** — ⚠ longer use is **off-label**. Avoid with a history of cardiovascular disease | BP and heart rate periodically |
@@ -74,14 +74,14 @@ sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 
 ### Endoscopic Bariatric Therapy — Intragastric Balloons
 *Full device detail: [[intragastric-balloon]].* Endoscopically placed restrictive device over a 6–12 month implantation period; augments lifestyle modification ([[aga-2021-intragastric-balloons]]).
-- **Suggested** over lifestyle alone in patients who **failed conventional weight-loss strategies** (conditional; US trials limited to BMI 30–40). Greatest %TBWL at **6–8 months**, incrementally smaller benefit thereafter.
-- **Responder rates (6–8 mo):** ≥5% TBWL 85.1% vs 34.6% SOC (RR 2.44); ≥10% TBWL 61.9% vs 13.7% (RR 4.31).
+- **Suggested** over lifestyle alone in patients who **failed conventional weight-loss strategies** (conditional; US trials limited to BMI 30–40). Greatest percent total body weight loss (%TBWL) at **6–8 months**, incrementally smaller benefit thereafter.
+- **Responder rates (6–8 mo):** ≥5% TBWL 85.1% vs 34.6% standard of care (SOC) (relative risk [RR] 2.44); ≥10% TBWL 61.9% vs 13.7% (RR 4.31).
 - **Peri-procedural (per AGA):**
-  - **Strong:** [[proton-pump-inhibitors|PPI]] prophylaxis during implantation.
+  - **Strong:** [[proton-pump-inhibitors|Proton pump inhibitor (PPI)]] prophylaxis during implantation.
   - Lowest-nausea anesthetic + perioperative antiemetics; **scheduled antiemetics × 2 weeks** post-placement.
   - **Suggests against** routine perioperative nutritional-deficiency lab screening; suggests **1–2 adult multivitamins daily**.
-- **Safety:** serious AE 5.6% vs 1.1% SOC (RR 3.07) — perforation 0.3%, esophageal mucosal injury 0.8%, gastric ulcer/bleeding 0.76%, obstruction 0.12%; early removal for intolerance 9.4%. Fluid-filled ~3% more weight loss than gas-filled but higher AE / lower tolerability (device choice = shared decision-making).
-- **After removal:** subsequent maintenance via diet, pharmacotherapy, repeat IGB, or bariatric surgery (shared decision-making).
+- **Safety:** serious adverse event (AE) 5.6% vs 1.1% SOC (RR 3.07) — perforation 0.3%, esophageal mucosal injury 0.8%, gastric ulcer/bleeding 0.76%, obstruction 0.12%; early removal for intolerance 9.4%. Fluid-filled ~3% more weight loss than gas-filled but higher AE / lower tolerability (device choice = shared decision-making).
+- **After removal:** subsequent maintenance via diet, pharmacotherapy, repeat intragastric balloon (IGB), or bariatric surgery (shared decision-making).
 
 ### Bariatric Surgery
 - Definitive option for eligible patients; see [[bariatric-surgery]]. Also a post-IGB maintenance pathway.

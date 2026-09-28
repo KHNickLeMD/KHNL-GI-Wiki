@@ -22,7 +22,7 @@ sources: []
 
 ## Summary
 
-This guideline reframes treatment of [[eosinophilic-esophagitis]] (EoE). A pivotal conceptual shift: **PPIs are repositioned as a treatment, not a diagnostic filter** — the prior "PPI-responsive esophageal eosinophilia" requirement was removed, so a PPI trial is no longer needed to diagnose EoE.
+This guideline reframes treatment of [[eosinophilic-esophagitis|eosinophilic esophagitis (EoE)]]. A pivotal conceptual shift: **Proton pump inhibitors (PPIs) are repositioned as a treatment, not a diagnostic filter** — the prior "PPI-responsive esophageal eosinophilia" requirement was removed, so a PPI trial is no longer needed to diagnose EoE.
 
 ---
 
@@ -38,7 +38,7 @@ This guideline reframes treatment of [[eosinophilic-esophagitis]] (EoE). A pivot
 
 ## Clinical Relevance
 
-PPIs, swallowed topical steroids, and diet elimination are co-equal first-line anti-inflammatory options; dilate strictures adjunctively. Foundational for [[eosinophilic-esophagitis]]; complements the newer ACG 2025 EoE guideline and overlaps with [[gerd]] in the differential.
+PPIs, swallowed topical steroids, and diet elimination are co-equal first-line anti-inflammatory options; dilate strictures adjunctively. Foundational for [[eosinophilic-esophagitis]]; complements the newer American College of Gastroenterology (ACG) 2025 EoE guideline and overlaps with [[gerd|gastroesophageal reflux disease (GERD)]] in the differential.
 
 ---
 

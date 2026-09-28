@@ -13,7 +13,7 @@ sources: []
 - **Year:** 2023
 - **Journal/Publisher:** Gastroenterology 2023;165:1292–1301
 - **DOI:** [10.1053/j.gastro.2023.07.007](https://doi.org/10.1053/j.gastro.2023.07.007)
-- **Type:** guideline (AGA Clinical Practice Update — Expert Review; Best Practice Advice, no formal GRADE ratings)
+- **Type:** guideline (American Gastroenterological Association [AGA] Clinical Practice Update — Expert Review; Best Practice Advice, no formal Grading of Recommendations Assessment, Development and Evaluation [GRADE] ratings)
 
 ## Summary
 
@@ -32,20 +32,20 @@ Fifteen Best Practice Advice (BPA) statements carry no formal evidence grade (dr
 5. Fecal elastase testing **can be performed while on PERT** (FE-1 does not cross-react with porcine enzymes).
 6. Fecal fat testing is rarely needed and must be performed on a high-fat diet; quantitative testing is generally not practical for routine clinical use.
 7. **Response to a therapeutic trial of pancreatic enzymes is unreliable for EPI diagnosis.**
-8. Cross-sectional imaging (CT, MRI, EUS) **cannot identify EPI**, though it is important for diagnosis of benign and malignant pancreatic disease.
+8. Cross-sectional imaging (computed tomography [CT], magnetic resonance imaging [MRI], endoscopic ultrasound [EUS]) **cannot identify EPI**, though it is important for diagnosis of benign and malignant pancreatic disease.
 9. Breath tests and direct pancreatic function tests hold promise but are not widely available in the United States.
 10. Once EPI is diagnosed, **PERT is required**; untreated EPI causes complications of fat malabsorption and malnutrition and reduces quality of life.
-11. PERT formulations are all porcine-derived and equally effective at equivalent doses; **non–enteric-coated preparations require concurrent H2 blocker or PPI**.
-12. PERT should be taken **during the meal**; initial dose **≥40,000 USP units of lipase per meal** in adults and **one-half that with snacks**; titrate to meal size and fat content.
+11. PERT formulations are all porcine-derived and equally effective at equivalent doses; **non–enteric-coated preparations require concurrent H2 blocker or proton pump inhibitor (PPI)**.
+12. PERT should be taken **during the meal**; initial dose **≥40,000 United States Pharmacopeia (USP) units of lipase per meal** in adults and **one-half that with snacks**; titrate to meal size and fat content.
 13. Routine supplementation and monitoring of fat-soluble vitamins is appropriate; dietary modification = low-to-moderate fat diet with frequent smaller meals; **avoid very-low-fat diets**.
-14. Markers of successful PERT: reduction in steatorrhea and GI symptoms; gain of weight, muscle mass, and muscle function; improvement in fat-soluble vitamin levels.
-15. Monitor EPI with baseline nutritional status (BMI, quality-of-life measure, fat-soluble vitamin levels) and a **baseline DXA scan repeated every 1–2 years**.
+14. Markers of successful PERT: reduction in steatorrhea and gastrointestinal (GI) symptoms; gain of weight, muscle mass, and muscle function; improvement in fat-soluble vitamin levels.
+15. Monitor EPI with baseline nutritional status (body mass index [BMI], quality-of-life measure, fat-soluble vitamin levels) and a **baseline dual-energy x-ray absorptiometry (DXA) scan repeated every 1–2 years**.
 
 **Supporting detail:**
 - EPI develops in >½ of chronic pancreatitis patients; risk >80% with chronic alcohol/smoking, ductal obstruction, atrophy, calcifications, or diabetes; typically after 5–10 yr of disease.
 - Pooled EPI prevalence after acute/recurrent acute pancreatitis 27%–62%. Pancreatic ductal adenocarcinoma: 50%–92% (unresectable), 40%–50% (resectable pre-treatment), 75% post-treatment. Cystic fibrosis: 85% at birth/infancy.
 - Type 3c diabetes (pancreatogenic) results from loss of islet α and β cells in pancreatitis.
-- DDx / mimics that overlap and blunt PERT response: celiac disease, SIBO, longstanding diabetes, Crohn's, disaccharidase deficiencies, bile acid diarrhea, giardiasis.
+- Differential diagnosis / mimics that overlap and blunt PERT response: celiac disease, small intestinal bacterial overgrowth (SIBO), longstanding diabetes, Crohn's, disaccharidase deficiencies, bile acid diarrhea, giardiasis.
 
 ## Relevance to Wiki
 - [[exocrine-pancreatic-insufficiency]] — new disease-script page (home for FE-1 thresholds, PERT dosing, monitoring).

@@ -47,12 +47,12 @@ Ascites can be graded by volume and classified by treatment response:
 |-------|-----------------|-------------------|
 | Grade 1 | Mild — detected only on ultrasound | No treatment indicated |
 | Grade 2 | Moderate — symmetric abdominal distension | Sodium restriction + diuretics |
-| Grade 3 | Large/gross — marked abdominal distension | LVP first-line |
+| Grade 3 | Large/gross — marked abdominal distension | Large-volume paracentesis (LVP) first-line |
 
-**Treatment response categories** (AASLD 2021 Table 5):
+**Treatment response categories** (American Association for the Study of Liver Diseases [AASLD] 2021 Table 5):
 
 - **Responsive ascites:** fully mobilized or limited to grade 1 with diuretics ± moderate dietary sodium restriction
-- **Recurrent ascites:** recurs on ≥3 occasions within a 12-month period despite dietary sodium restriction and adequate diuretic dosage — may be a forerunner of RA
+- **Recurrent ascites:** recurs on ≥3 occasions within a 12-month period despite dietary sodium restriction and adequate diuretic dosage — may be a forerunner of refractory ascites
 - **Refractory ascites (RA):** cannot be mobilized, or early recurrence (i.e. after LVP) cannot be satisfactorily prevented by medical therapy; ~5–10% of all patients with [[cirrhosis|cirrhosis]] and ascites; 6-month survival ~50%
 
 ### Refractory Ascites — Diagnostic Criteria
@@ -77,11 +77,11 @@ Ascites can be graded by volume and classified by treatment response:
   - hypo- or hyperkalemia: K **<3 mmol/L** or **>6 mmol/L**
   - [[hepatic-encephalopathy|hepatic encephalopathy]]
 
-**Related "refractory" definitions (AGA 2025 Table 1):**
+**Related "refractory" definitions (American Gastroenterological Association [AGA] 2025 Table 1):**
 
 | Term | Definition |
 |---|---|
-| Refractory hepatic hydrothorax | HH unresponsive to salt restriction and diuretic therapy, requiring therapeutic thoracentesis |
+| Refractory hepatic hydrothorax | Hepatic hydrothorax (HH) unresponsive to salt restriction and diuretic therapy, requiring therapeutic thoracentesis |
 | Refractory hyponatremia | Ongoing hyponatremia despite maximal medical therapy |
 | Refractory anasarca | Lack of improvement in volume status despite maximal diuretics **and** persistent low urine sodium — the usable number for "low" is in [[#Key Tests]]: **24-h urine sodium <80 mmol/day** = insufficient natriuresis ([[aga-2025-ascites-cirrhosis]] gives no cutoff of its own) |
 
@@ -93,7 +93,7 @@ Ascites can be graded by volume and classified by treatment response:
 
 - [[cirrhosis|Cirrhosis]] (most common cause in Western world)
 - Massive liver metastases with portal involvement
-- Right heart failure / constrictive pericarditis (SAAG ≥1.1, but ascitic protein typically high >2.5 g/dL)
+- Right heart failure / constrictive pericarditis (serum-ascites albumin gradient [SAAG] ≥1.1, but ascitic protein typically high >2.5 g/dL)
 
 ### Non-cirrhotic (non-portal hypertensive) causes — SAAG <1.1 g/dL
 
@@ -117,8 +117,8 @@ Ascites can be graded by volume and classified by treatment response:
 ### Step 1: Initial Evaluation (all patients with new ascites)
 
 - History: alcohol, metabolic risk factors, viral hepatitis, heart disease, malignancy, travel, pancreatitis
-- Physical examination: shifting dullness, spider angiomata, caput medusae, JVD, lymphadenopathy
-- Labs: LFTs (INR, bilirubin, albumin), BMP (creatinine, BUN), CBC, serum and urine electrolytes, spot urine protein
+- Physical examination: shifting dullness, spider angiomata, caput medusae, jugular venous distension (JVD), lymphadenopathy
+- Labs: liver function tests (LFTs) (international normalized ratio [INR], bilirubin, albumin), basic metabolic panel (BMP) (creatinine, blood urea nitrogen [BUN]), complete blood count (CBC), serum and urine electrolytes, spot urine protein
 - Imaging: abdominal Doppler ultrasound (all patients)
 
 ### Step 2: Diagnostic Paracentesis
@@ -127,11 +127,11 @@ Perform in ALL patients with new-onset ascites accessible for sampling; also per
 
 - Any cirrhotic patient admitted emergently (even without infection symptoms)
 - Any patient with ascites who develops signs/symptoms/labs suggesting infection
-- Any cirrhotic patient with ascites and [[aki-in-cirrhosis|AKI]] (to exclude [[spontaneous-bacterial-peritonitis|SBP]] as precipitant)
+- Any cirrhotic patient with ascites and [[aki-in-cirrhosis|acute kidney injury (AKI)]] (to exclude [[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]] as precipitant)
 
 **Routine ascitic fluid analysis:**
 
-- PMN (neutrophil) count
+- Polymorphonuclear leukocyte (PMN; neutrophil) count
 - Total protein
 - Albumin (to calculate SAAG with simultaneous serum albumin)
 - Culture (bedside inoculation into blood culture bottles, ≥10 mL each aerobic + anaerobic, before antibiotics)
@@ -140,8 +140,8 @@ Perform in ALL patients with new-onset ascites accessible for sampling; also per
 
 - Amylase: only if pancreatic ascites suspected
 - Cytology: only if non-cirrhotic etiology suspected
-- LDH / glucose: only if secondary bacterial peritonitis suspected
-- AFB culture / ADA: only if tuberculosis suspected
+- Lactate dehydrogenase (LDH) / glucose: only if secondary bacterial peritonitis suspected
+- Acid-fast bacilli (AFB) culture / adenosine deaminase (ADA): only if tuberculosis suspected
 
 ### Step 3: SAAG Calculation
 
@@ -174,12 +174,12 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 |---------|---------|
 | Abdominal pain, fever, encephalopathy, or AKI in a patient with ascites | Suspect SBP → immediate diagnostic paracentesis |
 | Emergent hospital admission in cirrhotic patient with ascites | Paracentesis indicated regardless of infection symptoms |
-| Ascitic fluid PMN ≥250/mm³ | Diagnoses SBP/SBE → start IV antibiotics |
-| Rapidly worsening or refractory ascites | Assess for SBP, AKI, dietary noncompliance; expedite LT evaluation |
+| Ascitic fluid PMN ≥250/mm³ | Diagnoses SBP/spontaneous bacterial empyema (SBE) → start intravenous (IV) antibiotics |
+| Rapidly worsening or refractory ascites | Assess for SBP, AKI, dietary noncompliance; expedite liver transplantation (LT) evaluation |
 | Bilateral or left-sided pleural effusion in the absence of ascites | Consider non-HH cause (cardiac, malignancy, infection) |
 | Umbilical hernia with cirrhosis and ascites | Risk of incarceration, rupture, peritonitis |
-| Serum Na ≤130 mEq/L | Increased risk of [[hepatic-encephalopathy\|hepatic encephalopathy]] (OR 3.4), HRS (OR 3.5), [[spontaneous-bacterial-peritonitis\|SBP]] (OR 2.4); adverse prognosis |
-| Non-improving ascites despite max diuretics | Confirm refractory ascites; evaluate for TIPS; refer for LT |
+| Serum Na ≤130 mEq/L | Increased risk of [[hepatic-encephalopathy\|hepatic encephalopathy]] (odds ratio [OR] 3.4), hepatorenal syndrome (HRS) (OR 3.5), [[spontaneous-bacterial-peritonitis\|SBP]] (OR 2.4); adverse prognosis |
+| Non-improving ascites despite max diuretics | Confirm refractory ascites; evaluate for transjugular intrahepatic portosystemic shunt (TIPS); refer for LT |
 
 ---
 
@@ -204,8 +204,8 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 
 **Medications to avoid in cirrhosis with ascites:**
 
-- NSAIDs (precipitate hyponatremia, AKI, diuretic refractoriness)
-- ACE inhibitors, ARBs, alpha-1 blockers, dipyridamole
+- Nonsteroidal anti-inflammatory drugs (NSAIDs) (precipitate hyponatremia, AKI, diuretic refractoriness)
+- Angiotensin-converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), alpha-1 blockers, dipyridamole
 - Aminoglycosides (nephrotoxic)
 
 ### Large-Volume Paracentesis (LVP) — Grade 3 and Refractory Ascites
@@ -214,23 +214,23 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 - **[[albumin|Albumin]] replacement mandatory when >5 L drained:** 6–8 g albumin per liter of ascites removed
   - After 5 L: ~40 g albumin
   - After 8 L: ~64 g albumin
-- Limit to <8 L per session if possible (risk of PPCD increases above 8 L)
-- Strongly consider albumin even for smaller volumes if hemodynamic instability (**systolic BP <90 mm Hg** — note "SBP" elsewhere on this page means *spontaneous bacterial peritonitis*), **hyponatremia (Na <130 mEq/L)**, or [[aki-in-cirrhosis|AKI]] present
+- Limit to <8 L per session if possible (risk of postparacentesis circulatory dysfunction [PPCD] increases above 8 L)
+- Strongly consider albumin even for smaller volumes if hemodynamic instability (**systolic blood pressure (BP) <90 mm Hg** — note "SBP" elsewhere on this page means *spontaneous bacterial peritonitis*), **hyponatremia (Na <130 mEq/L)**, or [[aki-in-cirrhosis|AKI]] present
 - Coagulopathy and thrombocytopenia are NOT contraindications; blood product transfusion not recommended pre-procedure
 - After LVP, start/resume sodium restriction and diuretics
 
-**PPCD (postparacentesis circulatory dysfunction):** Clinically manifest as renal impairment, dilutional hyponatremia, [[hepatic-encephalopathy|hepatic encephalopathy]], or death; prevented by adequate albumin replacement
+**PPCD:** Clinically manifest as renal impairment, dilutional hyponatremia, [[hepatic-encephalopathy|hepatic encephalopathy]], or death; prevented by adequate albumin replacement
 
-**When albumin and vasoconstrictors are NOT indicated (AGA 2024 CPU):**
+**When albumin and vasoconstrictors are NOT indicated (AGA 2024 Clinical Practice Update [CPU]):**
 
-- **Albumin should NOT be used** (hospitalized or not) in cirrhosis with **uncomplicated ascites** (BPA 6) — a fixed/routine albumin dose has no established benefit here.
+- **Albumin should NOT be used** (hospitalized or not) in cirrhosis with **uncomplicated ascites** (best practice advice [BPA] 6) — a fixed/routine albumin dose has no established benefit here.
 - **Vasoconstrictors have NO role** in uncomplicated ascites, after large-volume paracentesis, or in SBP (BPA 7) — vasoconstrictor therapy in cirrhotic AKI is reserved for [[aki-in-cirrhosis|HRS-AKI]] once criteria are met.
 - In hospitalized patients with cirrhosis and ascites presenting with AKI, **albumin is the volume expander of choice** (BPA 8). [[aga-2024-vasoactive-albumin-cirrhosis]]
 
 ### TIPS (Refractory Ascites)
 
 - Superior to repeated LVP for ascites control and may confer survival benefit in selected patients
-- **Preferred candidate:** MELD <18, younger age, preserved cardiopulmonary function, without sarcopenia — see [[tips]] for full candidacy, hemodynamic targets, and futility criteria
+- **Preferred candidate:** Model for End-Stage Liver Disease (MELD) <18, younger age, preserved cardiopulmonary function, without sarcopenia — see [[tips]] for full candidacy, hemodynamic targets, and futility criteria
 - Stent: 8–10 mm covered (polytetrafluoroethylene) stent preferred to reduce post-TIPS [[hepatic-encephalopathy|hepatic encephalopathy]]
 - Ascites clearance is not immediate; takes 4–6 months for neurohormonal suppression and diuresis
 - ~80% will clear ascites with TIPS
@@ -240,17 +240,17 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] Panel 6 — new, and mostly about *how* to shunt rather than whether:**
 
 - **Recurrent or refractory ascites → consider TIPS** (6.3), and **discuss TIPS and [[liver-transplantation|LT]] together** rather than sequentially (6.4)
-- **Dilate to the smallest diameter that achieves an adequate response** — explicitly to reduce **post-TIPS overshunting ([[hepatic-encephalopathy|HE]], cardiac failure)** while preserving efficacy (6.5). **If ascites does not improve, dilate stepwise** (6.6) rather than starting large
-- **Stage the kidneys before you shunt:** assess renal function systematically and **stage CKD by eGFR** for risk stratification in every TIPS evaluation for recurrent/refractory ascites (6.9)
+- **Dilate to the smallest diameter that achieves an adequate response** — explicitly to reduce **post-TIPS overshunting ([[hepatic-encephalopathy|hepatic encephalopathy]], cardiac failure)** while preserving efficacy (6.5). **If ascites does not improve, dilate stepwise** (6.6) rather than starting large
+- **Stage the kidneys before you shunt:** assess renal function systematically and **stage chronic kidney disease (CKD) by estimated glomerular filtration rate (eGFR)** for risk stratification in every TIPS evaluation for recurrent/refractory ascites (6.9)
 - **Selected older adults (≥70 years)** may be considered case-by-case on benefit/risk (6.8)
-- **[[hepatocellular-carcinoma|HCC]] is not an absolute contraindication** to TIPS for recurrent/refractory ascites or hepatic hydrothorax **unless the tumour lies along the TIPS trajectory** — better decompensation control may open access to oncological treatment (4.15)
+- **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]] is not an absolute contraindication** to TIPS for recurrent/refractory ascites or hepatic hydrothorax **unless the tumour lies along the TIPS trajectory** — better decompensation control may open access to oncological treatment (4.15)
 - **Sarcopenia and frailty alone should neither indicate nor contraindicate TIPS** (4.19) — weigh them with the rest of the work-up rather than as a veto
 
 ### When TIPS Is Not an Option (Baveno VIII)
 
 Two alternatives that [[baveno-vii-2022-portal-hypertension|Baveno VII]] could not recommend:
 
-- **Long-term albumin may be considered** in recurrent/refractory ascites in patients who are **not TIPS candidates** — it can improve ascites control and reduce ascites-related complications ([[baveno-viii-2026-portal-hypertension]] 6.10, LoE 3, weak). ⚠ **Baveno VII 4.4 said a formal recommendation "cannot be given until further data become available."** Baveno VIII gives a weak one, scoped to the non-TIPS-candidate. Which patients benefit, the optimal baseline albumin at which to start, and when to call it futile all remain research questions (RA4.12)
+- **Long-term albumin may be considered** in recurrent/refractory ascites in patients who are **not TIPS candidates** — it can improve ascites control and reduce ascites-related complications ([[baveno-viii-2026-portal-hypertension]] 6.10, level of evidence [LoE] 3, weak). ⚠ **Baveno VII 4.4 said a formal recommendation "cannot be given until further data become available."** Baveno VIII gives a weak one, scoped to the non-TIPS-candidate. Which patients benefit, the optimal baseline albumin at which to start, and when to call it futile all remain research questions (RA4.12)
 - **Home-based drainage devices — a tunnelled peritoneal catheter or a low-flow ascites pump — may be considered as an alternative to repeated large-volume paracentesis** in patients with refractory ascites who have a **contraindication to, or inadequate response from, TIPS** and are **not LT candidates** (6.11, LoE 3, weak, new)
 
 ### Liver Transplantation
@@ -261,7 +261,7 @@ Two alternatives that [[baveno-vii-2022-portal-hypertension|Baveno VII]] could n
 
 ### Nonselective Beta-Blockers (NSBBs)
 
-- [[nonselective-beta-blockers|NSBBs]] — caution (not absolute contraindication) in RA with: SBP <90 mmHg, Na <130 mEq/L, or creatinine >1.5 mg/dL
+- [[nonselective-beta-blockers|Nonselective beta-blockers (NSBBs)]] — caution (not absolute contraindication) in RA with: systolic BP <90 mmHg, Na <130 mEq/L, or creatinine >1.5 mg/dL
 - May be reintroduced if hemodynamic parameters improve
 
 ### Hepatic Hydrothorax (AGA 2025)
@@ -290,10 +290,10 @@ Two alternatives that [[baveno-vii-2022-portal-hypertension|Baveno VII]] could n
 | Severe | <120 | Strict fluid restriction + albumin infusion; consider vaptans or hypertonic saline short-term |
 
 - Vaptans: short-term only (≤30 days); FDA black box for hepatotoxicity
-- Hypertonic saline: reserved for symptomatic/severe or imminent LT; risk of ODS
+- Hypertonic saline: reserved for symptomatic/severe or imminent LT; risk of osmotic demyelination syndrome (ODS)
 - Correction rate goal: 4–6 mEq/L per 24 hours; max 8 mEq/L per 24 hours (ODS prevention)
 
-**Workup of hyponatremia in cirrhosis (AGA 2025):** dietary + medication history (diuretics, bowel regimen), electrolytes/kidney function, GI-bleeding assessment, infectious workup including diagnostic paracentesis, and secondary causes (thyroid, adrenal).
+**Workup of hyponatremia in cirrhosis (AGA 2025):** dietary + medication history (diuretics, bowel regimen), electrolytes/kidney function, gastrointestinal (GI)-bleeding assessment, infectious workup including diagnostic paracentesis, and secondary causes (thyroid, adrenal).
 
 **Escalation for recurrent/refractory hyponatremia (AGA 2025):** multidisciplinary (include LT team) — options include oral or IV **vasoconstrictor therapy** (e.g. midodrine), hypertonic saline, vaptans, or **renal replacement therapy**. Outpatient asymptomatic hypervolemic hyponatremia: sodium + water restriction (1–1.5 L/day), modify diuretics/laxatives, monitor electrolytes.
 

@@ -18,17 +18,17 @@ sources: []
 
 ## Summary
 
-The AASLD-IDSA 2023 HCV Guidance Update provides evidence-based recommendations for the testing, management, and treatment of hepatitis C virus (HCV) infection. This update focuses on changes since the 2020 publication: ongoing emphasis on universal HCV screening; simplified treatment algorithm expanded to include HIV/HCV coinfected persons; a new incomplete-adherence management algorithm; updated treatment and retreatment recommendations for children ≥3 years; management in solid organ transplant recipients; and screening, management, and treatment recommendations for key populations (acute HCV, pregnancy, PWID, MSM, incarcerated persons).
+The American Association for the Study of Liver Diseases (AASLD)–Infectious Diseases Society of America (IDSA) 2023 hepatitis C virus (HCV) Guidance Update provides evidence-based recommendations for the testing, management, and treatment of HCV infection. This update focuses on changes since the 2020 publication: ongoing emphasis on universal HCV screening; simplified treatment algorithm expanded to include human immunodeficiency virus (HIV)/HCV coinfected persons; a new incomplete-adherence management algorithm; updated treatment and retreatment recommendations for children ≥3 years; management in solid organ transplant recipients; and screening, management, and treatment recommendations for key populations (acute HCV, pregnancy, persons who inject drugs [PWID], men who have sex with men [MSM], incarcerated persons).
 
-Recommendations are evaluated using a modified ACCF/AHA scale. The guidance is developed by a volunteer panel of >30 infectious disease and hepatology clinicians and updated biannually.
+Recommendations are evaluated using a modified American College of Cardiology Foundation/American Heart Association (ACCF/AHA) scale. The guidance is developed by a volunteer panel of >30 infectious disease and hepatology clinicians and updated biannually.
 
 Key changes from 2020:
 
 - Universal screening recommendation broadened; simplified algorithm now includes HIV coinfected persons
-- G/P 8 weeks now approved for compensated cirrhosis (EXPEDITION-8 trial)
+- Glecaprevir/pibrentasvir (G/P) 8 weeks now approved for compensated cirrhosis (EXPEDITION-8 trial)
 - New incomplete adherence algorithm based on days missed and timing
 - HCV treatment recommended for incarcerated persons
-- Post-transplant DAA data extended; HCV-viremic donor organs → prophylactic/preemptive DAA within first week
+- Post-transplant direct-acting antiviral (DAA) data extended; HCV-viremic donor organs → prophylactic/preemptive DAA within first week
 
 ## Recommendations
 
@@ -36,15 +36,15 @@ Key changes from 2020:
 
 **Universal HCV screening:**
 
-- Universal HCV antibody screening recommended for all adults ≥18 years (USPSTF, grade B) and all pregnancies; reflex HCV RNA with positive antibody to establish active infection vs. spontaneous clearance
-- Annual HCV RNA testing for PWID with ongoing IDU regardless of prior testing or past negative results
+- Universal HCV antibody screening recommended for all adults ≥18 years (US Preventive Services Task Force [USPSTF], grade B) and all pregnancies; reflex HCV RNA with positive antibody to establish active infection vs. spontaneous clearance
+- Annual HCV RNA testing for PWID with ongoing injection drug use (IDU) regardless of prior testing or past negative results
 
 **Simplified treatment eligibility criteria:**
 
-- **Eligible for simplified algorithm:** Adults with chronic HCV (including persons living with HIV), any genotype, not previously treated for HCV, **without cirrhosis OR with compensated cirrhosis (Child-Pugh A)**. Cirrhosis is established by **any one** of: liver stiffness **>12.5 kPa** by FibroScan; **FIB-4 >3.25**; a noninvasive serologic test (FibroSure or enhanced liver fibrosis test); liver biopsy; liver nodularity or splenomegaly on imaging; platelet count **<150,000/mm³**
-- **Excluded from simplified algorithm:** previously received HCV treatment; HBsAg-positive; compensated cirrhosis (Child-Pugh A) **with** end-stage renal disease (eGFR <30 mL/min/m²); current or prior decompensated cirrhosis (**Child-Pugh score ≥7**); current pregnancy; known or suspected HCC; prior liver transplantation
-  - Child-Pugh score here is based on presence of ascites, hepatic encephalopathy, total bilirubin >2.0 mg/dL, albumin ≤3.5 g/dL, or INR ≥1.7
-- Minimal monitoring: No pretreatment genotyping; dispense entire treatment course at entry; no scheduled on-treatment visits or labs; remote contact at week 4 (adherence); SVR at week 22 (week 24 completion). MINMON trial (phase 4, n=400): SVR 95% (379/399)
+- **Eligible for simplified algorithm:** Adults with chronic HCV (including persons living with HIV), any genotype, not previously treated for HCV, **without cirrhosis OR with compensated cirrhosis (Child-Pugh A)**. Cirrhosis is established by **any one** of: liver stiffness **>12.5 kPa** by FibroScan; **Fibrosis-4 Index (FIB-4) >3.25**; a noninvasive serologic test (FibroSure or enhanced liver fibrosis test); liver biopsy; liver nodularity or splenomegaly on imaging; platelet count **<150,000/mm³**
+- **Excluded from simplified algorithm:** previously received HCV treatment; hepatitis B surface antigen (HBsAg)-positive; compensated cirrhosis (Child-Pugh A) **with** end-stage renal disease (estimated glomerular filtration rate [eGFR] <30 mL/min/m²); current or prior decompensated cirrhosis (**Child-Pugh score ≥7**); current pregnancy; known or suspected hepatocellular carcinoma (HCC); prior liver transplantation
+  - Child-Pugh score here is based on presence of ascites, hepatic encephalopathy, total bilirubin >2.0 mg/dL, albumin ≤3.5 g/dL, or international normalized ratio (INR) ≥1.7
+- Minimal monitoring: No pretreatment genotyping; dispense entire treatment course at entry; no scheduled on-treatment visits or labs; remote contact at week 4 (adherence); sustained virologic response (SVR) at week 22 (week 24 completion). MINMON trial (phase 4, n=400): SVR 95% (379/399)
 
 ### Initial Treatment Recommendations — Adults (Table 1)
 
@@ -53,17 +53,17 @@ Key changes from 2020:
 | Regimen | Genotype | Classification | Duration | Rating | Caveats |
 |---|---|---|---|---|---|
 | Glecaprevir/pibrentasvir | 1–6 | Recommended | 8 wk | I, Aᵃ | — |
-| Sofosbuvir/velpatasvir | 1–6 | Recommended | 12 wk | I, Aᵇ | GT3 + comp cirrhosis: NS5A RAS testing rec; if NS5a Y93H present, add wt-based RBV or use another regimen |
+| Sofosbuvir/velpatasvir | 1–6 | Recommended | 12 wk | I, Aᵇ | Genotype (GT) 3 + compensated cirrhosis: NS5A resistance-associated substitution (RAS) testing recommended; if NS5a Y93H present, add weight-based ribavirin (RBV) or use another regimen |
 | Ledipasvir/sofosbuvir | 1, 4, 5, 6 | Recommended | 12 wk | I, Aᶜ | Not for GT6e if subtype known |
 | Ledipasvir/sofosbuvir | 1 without cirrhosis | Recommended | 8 wk | I, B | Not in HIV coinfected; HCV RNA <6M IU/mL |
 | Elbasvir/grazoprevir | 1b, 4 | Recommended | 12 wk | I, Aᵈ | — |
 | Elbasvir/grazoprevir | 1a | Alternative | 12 wk | I, A | NS5A RAS testing required; if baseline RAS at 28/30/31/93 → use another regimen |
-| SOF/VEL + wt-based RBV | 3 | Alternative | 12 wk | IIa, A | GT3 + comp cirrhosis + baseline NS5a Y93 RAS |
-| SOF/VEL/VOX | 3 | Alternative | 12 wk | IIa, B | GT3 + comp cirrhosis + baseline NS5a Y93 RAS |
+| Sofosbuvir/velpatasvir (SOF/VEL) + wt-based RBV | 3 | Alternative | 12 wk | IIa, A | GT3 + comp cirrhosis + baseline NS5a Y93 RAS |
+| SOF/VEL/voxilaprevir (SOF/VEL/VOX) | 3 | Alternative | 12 wk | IIa, B | GT3 + comp cirrhosis + baseline NS5a Y93 RAS |
 
 ᵃ I,B for persons with compensated cirrhosis. ᵇ I,B for GT5 or 6. ᶜ IIa,B for GT5 or 6, and for GT4 + compensated cirrhosis. ᵈ IIa,B for GT4 + compensated cirrhosis.
 
-**G/P 8 weeks for compensated cirrhosis:** EXPEDITION-8 trial (GT1-6, n=343): SVR12 98% (335/343). No NS5A/NS3/4A resistance association with failure.
+**G/P 8 weeks for compensated cirrhosis:** EXPEDITION-8 trial (GT1-6, n=343): SVR at 12 weeks (SVR12) 98% (335/343). No NS5A/NS3/4A resistance association with failure.
 
 Elbasvir/grazoprevir for GT1a changed from Recommended to Alternative due to need for baseline NS5A RAS testing.
 
@@ -71,9 +71,9 @@ Elbasvir/grazoprevir for GT1a changed from Recommended to Alternative due to nee
 
 | Regimen | Genotype | Classification | Duration | Rating | Caveats |
 |---|---|---|---|---|---|
-| SOF/VEL + wt-based RBV | 1–6 | Recommended | 12 wk | I, Aᵉ | Low initial RBV dose 600 mg for CTP C; increase as tolerated |
+| SOF/VEL + wt-based RBV | 1–6 | Recommended | 12 wk | I, Aᵉ | Low initial RBV dose 600 mg for Child-Turcotte-Pugh (CTP) C; increase as tolerated |
 | SOF/VEL | 1–6 | Recommended | 24 wk | I, Aᵉ | For RBV-ineligible patients |
-| LDV/SOF + wt-based RBV | 1, 4, 5, 6 | Recommended | 12 wk | I, Aᶠ | Low initial RBV dose 600 mg for CTP C; increase as tolerated |
+| Ledipasvir/sofosbuvir (LDV/SOF) + wt-based RBV | 1, 4, 5, 6 | Recommended | 12 wk | I, Aᶠ | Low initial RBV dose 600 mg for CTP C; increase as tolerated |
 | LDV/SOF | 1, 4, 5, 6 | Recommended | 24 wk | I, Aᶠ | For RBV-ineligible patients |
 
 ᵉ Only available data for GT6 are in persons with compensated cirrhosis. ᶠ Only available data for GT5 or 6 are in a small number of persons with compensated cirrhosis.
@@ -173,33 +173,33 @@ Retreatment for pediatric patients follows similar principles to adults (Table 4
 
 ᶜ If treatment initiation delayed beyond first week, extend to 12 weeks.
 
-**Key DDIs:** Cyclosporine significantly increases AUC of elbasvir/grazoprevir and SOF/VEL/VOX; do not coadminister. G/P + cyclosporine >100 mg/d also not recommended.
+**Key drug–drug interactions (DDIs):** Cyclosporine significantly increases area under the curve (AUC) of elbasvir/grazoprevir and SOF/VEL/VOX; do not coadminister. G/P + cyclosporine >100 mg/d also not recommended.
 
 ### SVR Assessment and Posttreatment Follow-Up
 
-**Assessment of cure:** Quantitative HCV RNA ≥12 weeks after therapy completion; HCV RNA undetectable = virologic cure (SVR12). Assess for transaminase normalization. For elevated ALT/AST after SVR: evaluate for other liver disease etiologies.
+**Assessment of cure:** Quantitative HCV RNA ≥12 weeks after therapy completion; HCV RNA undetectable = virologic cure (SVR12). Assess for transaminase normalization. For elevated alanine aminotransferase (ALT)/aspartate aminotransferase (AST) after SVR: evaluate for other liver disease etiologies.
 
 **If cirrhosis (regardless of cure):**
 
-- HCC surveillance: liver ultrasound ± AFP every 6 months
+- HCC surveillance: liver ultrasound ± alpha-fetoprotein (AFP) every 6 months
 - Abstain from excess alcohol
 - Evaluate for varices per AASLD guidance (see [[aasld-2023-portal-hypertension]])
 
-**If not cured:** Refer to specialist for retreatment; assess for disease progression every 6–12 months (hepatic function panel, CBC, INR, ± creatinine for cirrhotic patients)
+**If not cured:** Refer to specialist for retreatment; assess for disease progression every 6–12 months (hepatic function panel, complete blood count (CBC), INR, ± creatinine for cirrhotic patients)
 
 **Reinfection:** At-risk persons (ongoing PWID, high-risk MSM) → counsel on risk reduction and test for HCV RNA annually or with elevated ALT/AST
 
 ### Management of Key Populations
 
-**HIV/HCV coinfection:** Newly eligible for simplified DAA treatment algorithm. MINMON trial: SVR 95% (157/166) in HIV/HCV coinfected. Based on comparable SVR rates between HIV+ and HIV− persons; INSTI-based ARV regimens mitigate most DDI concerns.
+**HIV/HCV coinfection:** Newly eligible for simplified DAA treatment algorithm. MINMON trial: SVR 95% (157/166) in HIV/HCV coinfected. Based on comparable SVR rates between HIV+ and HIV− persons; integrase strand transfer inhibitor (INSTI)-based antiretroviral (ARV) regimens mitigate most DDI concerns.
 
 **Acute HCV infection:** Treat same as chronic; do not await spontaneous clearance. Abbreviated 6-week DAA courses demonstrate inferior SVR vs. standard duration.
 
-**HCV in pregnancy:** Universal screening consensus (USPSTF, CDC, ACOG, SMFM). Case-by-case DAA consideration during pregnancy after discussion of potential risks and benefits (no large-scale RCTs available; small studies and case series reassuring for no safety concerns).
+**HCV in pregnancy:** Universal screening consensus (USPSTF, Centers for Disease Control and Prevention [CDC], American College of Obstetricians and Gynecologists [ACOG], Society for Maternal-Fetal Medicine [SMFM]). Case-by-case DAA consideration during pregnancy after discussion of potential risks and benefits (no large-scale randomized controlled trials [RCTs] available; small studies and case series reassuring for no safety concerns).
 
 **PWID:** Active drug use is NOT a contraindication to HCV treatment. SVR ~95%. Annual HCV RNA testing for ongoing IDU. Needle/syringe exchange + substance use disorder treatment programs recommended. Screening at annual visits.
 
-**MSM (non-HIV):** HCV testing at HIV PrEP initiation and annually thereafter. For high-risk sexually active MSM: annual HCV RNA after SVR.
+**MSM (non-HIV):** HCV testing at HIV pre-exposure prophylaxis (PrEP) initiation and annually thereafter. For high-risk sexually active MSM: annual HCV RNA after SVR.
 
 **Incarcerated persons:** Opt-out HCV antibody testing (universal); treat while incarcerated if sentence length is sufficient to complete recommended DAA course. De-escalate of antibiotics and de-escalation is cost-effective (DAAs halt HCV progression, reduce HCC/decompensation, offset future healthcare costs).
 
@@ -208,7 +208,7 @@ Retreatment for pediatric patients follows similar principles to adults (Table 4
 - Creates `[[hepatitis-c]]` entity page (no prior page existed)
 - Source for the `[[direct-acting-antivirals]]` concept page
 - Supplies screening/treatment guidance to `[[hepatitis-c-in-pregnancy]]`
-- Cross-references: `[[chronic-hepatitis-b]]` (HBV reactivation risk with HCV DAA), `[[liver-transplantation]]` (post-LT HCV, viremic donor organs), `[[portal-hypertension]]` (post-SVR varices surveillance), `[[liver-disease-in-pregnancy]]`
+- Cross-references: `[[chronic-hepatitis-b]]` (hepatitis B virus [HBV] reactivation risk with HCV DAA), `[[liver-transplantation]]` (post–liver transplant [LT] HCV, viremic donor organs), `[[portal-hypertension]]` (post-SVR varices surveillance), `[[liver-disease-in-pregnancy]]`
 
 ## Contradictions / Open Questions
 

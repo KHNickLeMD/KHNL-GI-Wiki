@@ -14,16 +14,16 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ### Establishing the Diagnosis
 
 - **Bloody diarrhea** (amebic dysentery) with cramping abdominal pain and tenesmus, in a patient with travel to or residence in an endemic region; risk of amebic liver abscess.
-- **Species-level identification is required** — microscopy cannot reliably separate *E. histolytica* from *E. dispar*. Use **antigen-based EIA or PCR** (both are on most multiplex molecular stool panels). [[acg-2016-acute-diarrhea]]
+- **Species-level identification is required** — microscopy cannot reliably separate *E. histolytica* from *E. dispar*. Use **antigen-based enzyme immunoassay (EIA) or polymerase chain reaction (PCR)** (both are on most multiplex molecular stool panels). [[acg-2016-acute-diarrhea]]
 - Stool diagnostics are indicated here by rule: **dysentery, moderate-to-severe disease, or symptoms >7 days** *(strong, very low)*. [[acg-2016-acute-diarrhea]] (Rec 2)
-- **A positive molecular test in an asymptomatic person may represent carriage/colonization**, not invasive disease — NAAT detects nucleic acid, not viability. [[acg-2016-acute-diarrhea]], [[idsa-2017-infectious-diarrhea]]
+- **A positive molecular test in an asymptomatic person may represent carriage/colonization**, not invasive disease — nucleic acid amplification test (NAAT) detects nucleic acid, not viability. [[acg-2016-acute-diarrhea]], [[idsa-2017-infectious-diarrhea]]
 
 ### Severity Assessment
 
 - **Non-invasive luminal colonization** — asymptomatic cyst passage.
 - **Invasive intestinal disease** — amebic dysentery/colitis.
 - **Extraintestinal** — amebic liver abscess.
-- **Immunocompromised / AIDS with persistent diarrhea** — broaden the differential (culture, viral studies, parasite exam) *(strong, moderate)*. [[idsa-2017-infectious-diarrhea]] (Rec 12) See [[hiv-aids-related-diarrhea]].
+- **Immunocompromised / acquired immunodeficiency syndrome (AIDS) with persistent diarrhea** — broaden the differential (culture, viral studies, parasite exam) *(strong, moderate)*. [[idsa-2017-infectious-diarrhea]] (Rec 12) See [[hiv-aids-related-diarrhea]].
 
 ---
 
@@ -31,10 +31,10 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 *Workup: see [[acute-diarrhea]].*
 
-- Bacterial dysentery — [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]], and **Shiga toxin–producing *E. coli* (STEC/EHEC)** — the last of which must **not** be given antimicrobials (STEC O157, Shiga-toxin-2 producers, or unknown toxin genotype) *(strong, moderate)* [[idsa-2017-infectious-diarrhea]] (Rec 35); it is a different organism from [[enterotoxigenic-e-coli|ETEC]]
+- Bacterial dysentery — [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]], and **Shiga toxin–producing / enterohemorrhagic *E. coli* (STEC/EHEC)** — the last of which must **not** be given antimicrobials (STEC O157, Shiga-toxin-2 producers, or unknown toxin genotype) *(strong, moderate)* [[idsa-2017-infectious-diarrhea]] (Rec 35); it is a different organism from [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]]
 - [[clostridioides-difficile|*C. difficile*]] colitis
 - Other protozoa — [[giardiasis]] (watery, non-bloody), [[cryptosporidiosis]]
-- [[inflammatory-bowel-disease|IBD]] flare ([[ulcerative-colitis]]) — a key mimic before immunosuppression is started
+- [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] flare ([[ulcerative-colitis]]) — a key mimic before immunosuppression is started
 - Travel-associated febrile illness — see [[fever-returning-traveler]]
 
 ---
@@ -44,7 +44,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 | Test | Role |
 |---|---|
 | Stool antigen EIA (*E. histolytica*-specific) | Distinguishes *E. histolytica* from *E. dispar* [[acg-2016-acute-diarrhea]] |
-| Multiplex GI PCR panel | Includes *E. histolytica*; culture-independent methods recommended at least as an adjunct to traditional testing *(strong, low)* [[acg-2016-acute-diarrhea]] (Rec 3) |
+| Multiplex gastrointestinal (GI) PCR panel | Includes *E. histolytica*; culture-independent methods recommended at least as an adjunct to traditional testing *(strong, low)* [[acg-2016-acute-diarrhea]] (Rec 3) |
 | Ova & parasite microscopy | **Cannot** speciate *E. histolytica* vs *E. dispar* — insufficient alone [[acg-2016-acute-diarrhea]] |
 | Serology | Not recommended to establish the etiology of infectious diarrhea *(strong, low)* [[idsa-2017-infectious-diarrhea]] (Rec 21) |
 | [[colonoscopy\|Endoscopy]] / proctoscopy | Consider in persistent unexplained diarrhea with AIDS, acute diarrhea with colitis/proctitis, or persistent diarrhea with anal intercourse *(strong, low)* [[idsa-2017-infectious-diarrhea]] (Rec 24) |
@@ -56,11 +56,11 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 - **Agents: metronidazole *or* tinidazole.** [[acg-2016-acute-diarrhea]] names these two as the antimicrobial therapy for *E. histolytica* and rates the evidence for treating specific parasitic causes of acute diarrhea as **strong**.
 - Treat *when the organism is identified* — and only when it is speciated as *E. histolytica*, since *E. dispar* is non-pathogenic (see *Establishing the Diagnosis*).
 
-> Neither guideline states a **dose, interval, or duration** for amebiasis: [[acg-2016-acute-diarrhea]] names the agents in prose only, and [[idsa-2017-infectious-diarrhea]] Table 6 does **not list *E. histolytica* at all** (and has no dose column). Neither describes the **two-step tissue-then-luminal-agent strategy (paromomycin / iodoquinol)** — ACG mentions iodoquinol only for *Dientamoeba fragilis*. Take regimens from the CDC/IDSA parasitic-disease treatment tables.
+> Neither guideline states a **dose, interval, or duration** for amebiasis: [[acg-2016-acute-diarrhea]] names the agents in prose only, and [[idsa-2017-infectious-diarrhea]] Table 6 does **not list *E. histolytica* at all** (and has no dose column). Neither describes the **two-step tissue-then-luminal-agent strategy (paromomycin / iodoquinol)** — American College of Gastroenterology (ACG) mentions iodoquinol only for *Dientamoeba fragilis*. Take regimens from the Centers for Disease Control and Prevention (CDC)/Infectious Diseases Society of America (IDSA) parasitic-disease treatment tables.
 
 - Empiric antibacterial therapy is otherwise not indicated for bloody diarrhea in immunocompetent hosts; treat *when the organism is identified*. Exception — empiric antibacterials should be considered in **immunocompromised people with severe illness and bloody diarrhea** *(strong, low)*. [[idsa-2017-infectious-diarrhea]] (Rec 32)
 - [[loperamide]] — avoid in febrile/inflammatory (bloody) diarrhea; contraindicated <18 years. [[idsa-2017-infectious-diarrhea]]
-- Rehydration with reduced-osmolarity ORS is the supportive backbone. [[idsa-2017-infectious-diarrhea]]
+- Rehydration with reduced-osmolarity oral rehydration solution (ORS) is the supportive backbone. [[idsa-2017-infectious-diarrhea]]
 
 ---
 

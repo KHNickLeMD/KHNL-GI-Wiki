@@ -26,7 +26,7 @@ Chronic inflammatory condition affecting colonic segments that bear diverticula,
 
 - Chronic segmental colitis in a diverticula-bearing segment (usually sigmoid), **rectum spared**.
 - **Histology can resemble [[ulcerative-colitis]] or [[crohns-disease]]** — the overlap is the diagnostic challenge.
-- Whether SCAD is a **distinct entity or a manifestation of [[inflammatory-bowel-disease|IBD]]** remains unresolved.
+- Whether segmental colitis associated with diverticulosis (SCAD) is a **distinct entity or a manifestation of [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]** remains unresolved.
 
 ## Differential Diagnosis
 
@@ -35,7 +35,7 @@ Chronic inflammatory condition affecting colonic segments that bear diverticula,
 - [[ulcerative-colitis]], [[crohns-disease]] (rectal sparing + diverticula-segment localization favor SCAD).
 - Acute [[diverticulitis]] (SCAD is chronic mucosal inflammation, not acute peridiverticular inflammation).
 - **Smoldering / chronic diverticulitis** — the closest mimic: also weeks-to-months of persistent inflammation in a diverticular segment, but it *partially or completely responds to antibiotics and relapses shortly after stopping them*, and it is confirmed on **cross-sectional imaging** rather than by mucosal histology. SCAD is defined by the segmental **mucosal** colitis pattern with rectal sparing.
-- **[[disorders-of-gut-brain-interaction|SUDD / post-diverticulitis gut-brain symptoms]]** — symptoms with diverticulosis but **no systemic inflammation and no overt colitis**; excluded by the endoscopic and histologic findings.
+- **[[disorders-of-gut-brain-interaction|symptomatic uncomplicated diverticular disease (SUDD) / post-diverticulitis gut-brain symptoms]]** — symptoms with diverticulosis but **no systemic inflammation and no overt colitis**; excluded by the endoscopic and histologic findings.
 
 ## Diagnostics
 
@@ -44,7 +44,7 @@ Chronic inflammatory condition affecting colonic segments that bear diverticula,
 ## Therapeutics
 
 - [[acg-2026-diverticulitis]] defines SCAD but does not give a graded treatment algorithm.
-- Management (e.g. [[mesalamine-5-asa|5-ASA]], steroids, observation) and prognosis are not covered by that guideline.
+- Management (e.g. [[mesalamine-5-asa|5-aminosalicylic acid (5-ASA)]], steroids, observation) and prognosis are not covered by that guideline.
 
 ---
 

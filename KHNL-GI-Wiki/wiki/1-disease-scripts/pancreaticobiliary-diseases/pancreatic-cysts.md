@@ -7,7 +7,7 @@ updated: 2026-09-25
 sources: [acg-2018-pancreatic-cysts, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, asge-2015-antibiotic-prophylaxis, aga-2015-asymptomatic-neoplastic-pancreatic-cysts]
 ---
 
-Pancreatic cysts are a heterogeneous group of lesions, most detected incidentally on cross-sectional imaging. They range from non-neoplastic (pseudocysts) to mucinous neoplasms with malignant potential (IPMNs, MCNs) to benign neoplasms (SCAs) to solid-cystic tumors with generally favorable prognosis (SPNs). Management hinges on accurate cyst typing and risk stratification. [[acg-2018-pancreatic-cysts]]
+Pancreatic cysts are a heterogeneous group of lesions, most detected incidentally on cross-sectional imaging. They range from non-neoplastic (pseudocysts) to mucinous neoplasms with malignant potential (intraductal papillary mucinous neoplasms [IPMNs], mucinous cystic neoplasms [MCNs]) to benign neoplasms (serous cystadenomas [SCAs]) to solid-cystic tumors with generally favorable prognosis (solid pseudopapillary neoplasms [SPNs]). Management hinges on accurate cyst typing and risk stratification. [[acg-2018-pancreatic-cysts]]
 
 ## Contents
 - [[#Assessment]]
@@ -37,10 +37,10 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 
 **Epidemiology:**
 
-- Prevalence on screening MRI: 2.4–13.5% in asymptomatic populations; 40% in patients >70 years old
+- Prevalence on screening magnetic resonance imaging (MRI): 2.4–13.5% in asymptomatic populations; 40% in patients >70 years old
 - Prevalence of cysts >2 cm: only 0.8% (n=25,195 subjects, five studies)
 - Majority are incidentally found side-branch IPMNs
-- Estimated malignancy probability at time of imaging: 0.25% (SEER database); conversion rate to invasive cancer: 0.24% per year
+- Estimated malignancy probability at time of imaging: 0.25% (Surveillance, Epidemiology, and End Results [SEER] database); conversion rate to invasive cancer: 0.24% per year
 
 ![[pancreatic-cysts-2018-approach-algorithm-05.png|700x512]]
 *Figure 1 — Approach to a patient with a pancreatic cyst. EUS, [[endoscopic-ultrasound|endoscopic ultrasound]]; FNA, fine-needle aspiration; IPMN, intraductal papillary mucinous neoplasm; MCN, mucinous cystic neoplasm. ([[acg-2018-pancreatic-cysts]])*
@@ -52,7 +52,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 3. Are there any high-risk features (see Table 3 below)?
 4. What is the cyst size?
 
-**Imaging:** MRI/[[mri-mrcp|MRCP]] is first-line, with [[endoscopic-ultrasound|EUS]] ± FNA reserved for unclear diagnoses and high-risk features — modality-by-modality performance and the accuracy caveat live under [[#Imaging]].
+**Imaging:** MRI/[[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]] is first-line, with [[endoscopic-ultrasound|EUS]] ± FNA reserved for unclear diagnoses and high-risk features — modality-by-modality performance and the accuracy caveat live under [[#Imaging]].
 
 ### Classification / Typing
 
@@ -61,14 +61,14 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 **Pseudocyst**
 
 - Associated with history of [[acute-pancreatitis]] or [[chronic-pancreatitis]]
-- Aspirate: brown fluid, high amylase/lipase, low CEA
+- Aspirate: brown fluid, high amylase/lipase, low carcinoembryonic antigen (CEA)
 - No malignant potential; no surveillance required when asymptomatic
 - Symptomatic pseudocysts → endoscopic drainage preferred over surgery
 - Caveat: a cystic neoplasm can cause pancreatitis in up to 20% of individuals over age 40; if diagnosis is uncertain, EUS-FNA is helpful to rule out neoplastic cyst as cause of pancreatitis
 
 #### Neoplastic Cysts — Mucinous (Malignant Potential)
 
-**Intraductal Papillary Mucinous Neoplasm (IPMN)**
+**IPMN**
 
 - Most common pancreatic cyst overall; most common incidental cyst
 - Men = Women; 7th decade peak
@@ -81,7 +81,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 - Aspirate: high CEA, high amylase
 - Clinical note: IPMNs are also at risk for "concomitant" [[pancreatic-cancer|pancreatic cancer]] (separate from the cyst) — 2% at 17 years in a large multicenter study; evaluate the entire parenchyma on imaging
 
-**Mucinous Cystic Neoplasm (MCN)**
+**MCN**
 
 - Almost exclusively women (>95%); 5th–7th decade
 - Typically body/tail; unilocular ± septations or wall calcification
@@ -92,7 +92,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 
 #### Neoplastic Cysts — Non-Mucinous
 
-**Serous Cystadenoma (SCA)**
+**SCA**
 
 - 75% women; 6th decade
 - Classic imaging: microcystic/honeycomb appearance with central stellate scar (present in <30%)
@@ -101,18 +101,18 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 - Asymptomatic with classic imaging → no further evaluation, no surveillance (Conditional/Low)
 - Macrocystic SCAs may mimic IPMN or MCN → EUS-FNA to confirm
 
-**Solid-Pseudopapillary Neoplasm (SPN)**
+**SPN**
 
 - Rare; 10:1 women:men; most common in women in 20s (wide age range)
 - Any part of pancreas; smaller lesions are more solid, larger have cystic degeneration
-- 5-year disease-specific survival >98%; aggressive behavior: vascular involvement 4.6%, LN 1.6%, distant mets 7.7%
+- 5-year disease-specific survival >98%; aggressive behavior: vascular involvement 4.6%, lymph node (LN) 1.6%, distant mets 7.7%
 - All SPNs: refer to multidisciplinary group for surgical resection (Strong/Low)
 - Post-resection: follow yearly for at least 5 years (Conditional/VLow)
 
 **Cystic Pancreatic [[gastroenteropancreatic-neuroendocrine-tumors|Neuroendocrine Tumor]] (Cystic PNET)**
 
 - Men = Women; peak 5th–6th decade
-- Sporadic or in MEN I
+- Sporadic or in multiple endocrine neoplasia type 1 (MEN I)
 - Usually non-functioning; may be solid, cystic, or mixed
 - EUS-FNA often required for diagnosis
 - Aspirate: low CEA, low amylase/lipase; cytology shows neuroendocrine features
@@ -126,13 +126,13 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 - [[jaundice|Jaundice]] secondary to the cyst
 - [[acute-pancreatitis|Acute pancreatitis]] secondary to the cyst
 - Significantly elevated serum CA 19-9 (no benign cause found)
-  - CA 19-9 >37 U/mL: pooled sensitivity 40%, specificity 89%, OR 4.34 for high-grade dysplasia/cancer
+  - CA 19-9 >37 U/mL: pooled sensitivity 40%, specificity 89%, odds ratio (OR) 4.34 for high-grade dysplasia/cancer
 
 *Imaging findings:*
 
 - Mural nodule or solid component within the cyst or pancreatic parenchyma
-  - OR for malignancy: 9.3 (95% CI 5.3–16.1) — meta-analysis >1,400 patients
-- Main pancreatic duct diameter >5 mm
+  - OR for malignancy: 9.3 (95% confidence interval [CI] 5.3–16.1) — meta-analysis >1,400 patients
+- Main pancreatic duct (MPD) diameter >5 mm
   - MPD >6 mm: OR 7.27 (95% CI 3.0–17.4) for high-grade dysplasia/cancer
 - Focal change in MPD caliber with upstream atrophy — equivalently, *focal dilation of the pancreatic duct concerning for main-duct IPMN, or an obstructing lesion* (Rec 11b wording)
 - Size **≥3 cm** (Rec 11b: "mucin-producing cysts measuring ≥3 cm in diameter"; Table 3 prints ">3 cm" — the source is internally inconsistent by 1 mm)
@@ -146,7 +146,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 
 **Intermediate Concern (Rec 10 — Conditional/VLow) — Warrant Short-Interval Surveillance (MRI or EUS±FNA at 6 months):**
 
-- New-onset or worsening diabetes mellitus (~1% of adults >50 with new-onset DM will develop pancreatic cancer within 3 years; ~2/3 of patients with pancreatic cancer have DM)
+- New-onset or worsening diabetes mellitus (DM; ~1% of adults >50 with new-onset DM will develop pancreatic cancer within 3 years; ~2/3 of patients with pancreatic cancer have DM)
 - Rapid increase in cyst size **>3 mm/year** (Rec 10 and Table 3 both print `>`; **Figure 2's footnote and the discussion print `≥3 mm/year`** — the surveillance table below follows Figure 2)
 
 ---
@@ -177,7 +177,7 @@ Other cysts to consider: simple cysts with true epithelial lining, lymphoepithel
 
 - First-line for diagnosis and surveillance
 - Superior for assessing MPD communication (critical for IPMN vs. MCN distinction)
-- Better mural nodule detection vs. CT
+- Better mural nodule detection vs. computed tomography (CT)
 - Avoids radiation — preferred for long-term surveillance
 - Accuracy for cyst type: 40–50%; benign vs. malignant: 55–76%
 
@@ -228,8 +228,8 @@ Indicated when diagnosis is unclear and results are likely to alter management. 
 
 **Antibiotics for EUS-FNA of pancreatic cysts:**
 
-- Guidelines ([[asge-2015-antibiotic-prophylaxis|ASGE 2015]]) *suggest* peri-procedural antibiotics (often continued 3–5 days) — see [[antibiotic-prophylaxis-endoscopy]].
-- However, the first RCT ([[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020]], 226 pts, ciprofloxacin vs placebo) found infection risk **low (0.44%)** and **not increased without prophylaxis** (only infection was in the placebo arm; non-inferior). No difference in fever or adverse events. → antibiotics **not routinely required**.
+- Guidelines ([[asge-2015-antibiotic-prophylaxis|American Society for Gastrointestinal Endoscopy (ASGE) 2015]]) *suggest* peri-procedural antibiotics (often continued 3–5 days) — see [[antibiotic-prophylaxis-endoscopy]].
+- However, the first randomized controlled trial (RCT) ([[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020]], 226 pts, ciprofloxacin vs placebo) found infection risk **low (0.44%)** and **not increased without prophylaxis** (only infection was in the placebo arm; non-inferior). No difference in fever or adverse events. → antibiotics **not routinely required**.
 - Consider prophylaxis anyway in: immunosuppressed patients, multiple comorbidities, incomplete cyst aspiration, [[ascites]]; RCT excluded mediastinal/enteric **duplication cysts** (higher infection risk — still cover these).
 
 ### Cyst Ablation
@@ -288,14 +288,14 @@ Note: Surgery should be performed at a tertiary referral center by experienced s
 
 ### Where AGA 2015 Differs — and Why This Page Follows ACG
 
-[[aga-2015-asymptomatic-neoplastic-pancreatic-cysts|AGA 2015]] is the other major US guideline on this problem and it reaches materially different thresholds. **[[acg-2018-pancreatic-cysts|ACG 2018]] is newer in the same tier and is what this page follows**; AGA is recorded here because a patient managed under it will have been surveilled differently, and because the divergence is the clinical controversy, not a technicality.
+[[aga-2015-asymptomatic-neoplastic-pancreatic-cysts|American Gastroenterological Association (AGA) 2015]] is the other major US guideline on this problem and it reaches materially different thresholds. **[[acg-2018-pancreatic-cysts|American College of Gastroenterology (ACG) 2018]] is newer in the same tier and is what this page follows**; AGA is recorded here because a patient managed under it will have been surveilled differently, and because the divergence is the clinical controversy, not a technicality.
 
 | Decision | [[acg-2018-pancreatic-cysts\|ACG 2018]] — this page | [[aga-2015-asymptomatic-neoplastic-pancreatic-cysts\|AGA 2015]] |
 |---|---|---|
 | Trigger for [[endoscopic-ultrasound\|EUS]]-FNA | **Any one** high-risk feature (Rec 11) | **At least 2** of: size ≥3 cm, dilated MPD, solid component (Rec 3, Cond/VLow) |
 | Surveillance interval | Size-stratified, q2 years (<1 cm) → q6 months alternating MRI/EUS (>3 cm) | **1 year, then q2 years — for a cyst of any size** (Rec 2, Cond/VLow) |
 | Stopping | Stop when no longer a surgical candidate; reassess at >75 | **Stop at 5 years** if no change in size or characteristics (Rec 6, Cond/VLow) |
-| Post-resection, no HGD/cancer | All resected IPMN need surveillance (Recs 17–20) | **Against** routine surveillance (Rec 10, Cond/VLow) — but only if no mixed-duct IPMN and no strong family history |
+| Post-resection, no high-grade dysplasia (HGD)/cancer | All resected IPMN need surveillance (Recs 17–20) | **Against** routine surveillance (Rec 10, Cond/VLow) — but only if no mixed-duct IPMN and no strong family history |
 | Surgery threshold | Multidisciplinary referral on any Rec 11 feature | Solid component **and** dilated MPD, and/or concerning EUS-FNA (Rec 7, Cond/VLow) |
 | High-volume centre for surgery | Yes — mortality ~1–5% vs ~11–15% | Yes — the **only Strong** recommendation in the AGA document (Rec 8) |
 

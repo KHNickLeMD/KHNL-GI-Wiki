@@ -30,20 +30,20 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant,
 
 **Diagnosis is histological:** goblet cell metaplasia on gastric biopsies, obtained by the updated **Sydney protocol** (see [[#Biopsy Protocol]] below).
 
-**High-quality endoscopy is prerequisite (ACG 2025, Strong/Low)** — the five mandatory components of an adequate gastric exam are listed on [[gastric-premalignant-conditions#Endoscopic Evaluation (Required)|gastric premalignant conditions]]; a rushed 2–3 minute exam is below the standard of care.
+**High-quality endoscopy is prerequisite (American College of Gastroenterology [ACG] 2025, Strong/Low)** — the five mandatory components of an adequate gastric exam are listed on [[gastric-premalignant-conditions#Endoscopic Evaluation (Required)|gastric premalignant conditions]]; a rushed 2–3 minute exam is below the standard of care.
 
-**Prevalence:** pooled prevalence of GIM among **897,371 individuals who underwent gastric biopsies was 4.8% (95% CI 4.8%–4.9%)** — this is the yield *among biopsied patients*, not a general-population estimate ([[aga-2020-gastric-intestinal-metaplasia]]). Prevalence is higher in high-risk groups (see below). Detection is often incidental on [[upper-endoscopy|EGD]] performed for other indications.
+**Prevalence:** pooled prevalence of GIM among **897,371 individuals who underwent gastric biopsies was 4.8% (95% confidence interval [CI] 4.8%–4.9%)** — this is the yield *among biopsied patients*, not a general-population estimate ([[aga-2020-gastric-intestinal-metaplasia]]). Prevalence is higher in high-risk groups (see below). Detection is often incidental on [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] performed for other indications.
 
 **On endoscopy:** GIM may appear as pale, slightly raised mucosal patches with fine villous surface texture. Enhanced imaging (narrow-band imaging [NBI], chromoendoscopy) improves detection but is not required for diagnosis.
 
 ### Severity Assessment
 
-**OLGA/OLGIM staging** — stages 0–IV from the combination of severity (0–3) in antrum/incisura and corpus. **Full staging criteria, risk bands, and the AIG caveat live on [[atrophic-gastritis#Severity Assessment|atrophic gastritis]].** For GIM decisions: **0–I low, II intermediate, III–IV high risk** (surveillance q3y where OLGA/OLGIM is used).
+**Operative Link on Gastritis Assessment (OLGA)/Operative Link on Gastric Intestinal Metaplasia Assessment (OLGIM) staging** — stages 0–IV from the combination of severity (0–3) in antrum/incisura and corpus. **Full staging criteria, risk bands, and the autoimmune gastritis (AIG) caveat live on [[atrophic-gastritis#Severity Assessment|atrophic gastritis]].** For GIM decisions: **0–I low, II intermediate, III–IV high risk** (surveillance q3y where OLGA/OLGIM is used).
 
 **GIM extent and type:**
 
 - **Limited GIM:** antrum only → lower risk
-- **Extensive (corpus-involving) GIM:** ~2-fold increased GC risk vs. limited
+- **Extensive (corpus-involving) GIM:** ~2-fold increased gastric cancer (GC) risk vs. limited
 - **Complete-type (type I):** small intestinal phenotype; lower risk
 - **Incomplete-type (types IIa/IIb/III):** colonic phenotype; ~3-fold increased GC risk vs. complete-type; associated with progression to dysplasia
 
@@ -70,7 +70,7 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant,
 | Condition | Key Features |
 |-----------|-------------|
 | [[atrophic-gastritis\|Atrophic gastritis]] (without GIM) | Gastric gland atrophy on biopsy; precedes GIM in Correa cascade; check H. pylori |
-| Reactive (chemical) gastropathy | NSAID/bile reflux injury; foveolar hyperplasia, smooth muscle proliferation; no goblet cells |
+| Reactive (chemical) gastropathy | Nonsteroidal anti-inflammatory drug (NSAID)/bile reflux injury; foveolar hyperplasia, smooth muscle proliferation; no goblet cells |
 | Autoimmune gastritis | Corpus-predominant atrophy; anti-parietal cell antibodies; B12 deficiency; low pepsinogen I/II ratio |
 | Gastric dysplasia | Architectural and cytologic atypia on biopsy; endoscopic resection usually required; not just metaplasia |
 | [[gastric-adenocarcinoma\|Gastric adenocarcinoma]] | Early GC may look benign endoscopically; any nodularity, ulceration, or irregularity in GIM area → biopsy and consider referral |
@@ -87,13 +87,13 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant,
 
 ### H. pylori Testing
 
-- Test all patients with GIM for H. pylori (Strong/Moderate, AGA 2020)
+- Test all patients with GIM for H. pylori (Strong/Moderate, American Gastroenterological Association [AGA] 2020)
 - Methods: urea breath test or stool antigen test (not serology, which cannot distinguish active from past infection)
 - If positive → treat (see [[helicobacter-pylori-infection]] for eradication regimens)
 
 ### Serum Markers
 
-- **Serum pepsinogens** — **PG I <70 µg/L *and* PG I:II ratio <3.0** have high sensitivity/specificity for **severe corpus atrophy** (data mostly from high-incidence East Asian regions); **not available for routine clinical use in the US** [[aga-2021-atrophic-gastritis]]. ACG 2025 recommends **against** noninvasive biomarkers (serum pepsinogens, anti-H. pylori IgG) for GPMC screening or surveillance in the US (very low evidence) [[acg-2025-gastric-premalignant]]
+- **Serum pepsinogens (PG)** — **PG I <70 µg/L *and* PG I:II ratio <3.0** have high sensitivity/specificity for **severe corpus atrophy** (data mostly from high-incidence East Asian regions); **not available for routine clinical use in the US** [[aga-2021-atrophic-gastritis]]. ACG 2025 recommends **against** noninvasive biomarkers (serum pepsinogens, anti-H. pylori immunoglobulin G [IgG]) for gastric premalignant condition (GPMC) screening or surveillance in the US (very low evidence) [[acg-2025-gastric-premalignant]]
 - **Serum anti-parietal cell antibodies** (most sensitive for AIG) and **intrinsic factor antibodies** (low sensitivity <30%, high specificity): if autoimmune gastritis suspected — see [[atrophic-gastritis]]
 - **H. pylori serology** (IgG): cannot distinguish active from past infection; not for active infection status or test of cure
 
@@ -110,9 +110,9 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant,
 
 **Strong recommendation, Moderate evidence (AGA 2020):**
 
-- H. pylori eradication in GIM patients → pooled RR 0.68 (32% reduction) in GC incidence; RR 0.67 in GC mortality
+- H. pylori eradication in GIM patients → pooled relative risk (RR) 0.68 (32% reduction) in GC incidence; RR 0.67 in GC mortality
 - Test all GIM patients; treat if positive
-- Refer to [[helicobacter-pylori-infection]] for current eradication regimens. **Note the regimen landscape changed after AGA 2020:** ACG 2024 makes optimized [[bismuth-quadruple-therapy|bismuth quadruple therapy]] the only Strong first-line recommendation and removes empiric PPI-clarithromycin triple therapy given US clarithromycin resistance
+- Refer to [[helicobacter-pylori-infection]] for current eradication regimens. **Note the regimen landscape changed after AGA 2020:** ACG 2024 makes optimized [[bismuth-quadruple-therapy|bismuth quadruple therapy]] the only Strong first-line recommendation and removes empiric proton pump inhibitor (PPI)–clarithromycin triple therapy given US clarithromycin resistance
 
 ### 2. Surveillance Endoscopy — Guideline Disagreement
 
@@ -120,17 +120,17 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant,
 
 | Guideline | Recommendation |
 |-----------|---------------|
-| **AGA 2020** | AGAINST routine surveillance (Conditional/Very Low); shared SDM for high-risk patients; if surveillance done, q3–5y with antrum + body biopsies |
-| **ACG 2025 GPMC** | Surveillance **q3y for high-risk GIM** and for severe GIM/AG in antrum or corpus (both Conditional/Very Low); **against surveillance for low-risk GIM or mild AG** |
+| **AGA 2020** | AGAINST routine surveillance (Conditional/Very Low); shared decision-making for high-risk patients; if surveillance done, q3–5y with antrum + body biopsies |
+| **ACG 2025 GPMC** | Surveillance **q3y for high-risk GIM** and for severe GIM/atrophic gastritis (AG) in antrum or corpus (both Conditional/Very Low); **against surveillance for low-risk GIM or mild AG** |
 | **AGA 2021 Atrophic Gastritis** | Surveillance at 3 years for OLGA/OLGIM III/IV |
-| **ESGE** *(as summarized in [[aga-2020-gastric-intestinal-metaplasia]])* | Strong rec: surveillance **every 3 years** for severe gastric atrophy or GIM in **both antrum and body** and/or OLGA/OLGIM III–IV. Weak rec: surveillance at 3 years for **single-location GIM plus** family history of GC, incomplete GIM, or persistent H. pylori gastritis. Weak rec: consider **1–2-year** surveillance for family history plus those findings. GIM at a single location alone does **not** justify surveillance in most cases |
+| **European Society of Gastrointestinal Endoscopy (ESGE)** *(as summarized in [[aga-2020-gastric-intestinal-metaplasia]])* | Strong rec: surveillance **every 3 years** for severe gastric atrophy or GIM in **both antrum and body** and/or OLGA/OLGIM III–IV. Weak rec: surveillance at 3 years for **single-location GIM plus** family history of GC, incomplete GIM, or persistent H. pylori gastritis. Weak rec: consider **1–2-year** surveillance for family history plus those findings. GIM at a single location alone does **not** justify surveillance in most cases |
 | **AGA 2026 [[gastric-polyps\|Gastric Polyps]]** | Targeted biopsies **q3y** considered for persistent H. pylori, advanced atrophic gastritis with **incomplete** GIM, or **mild/focal GIM *with* family history of GC**. But: **do not intensify surveillance for ethnicity or family history *alone*** — see the contradiction below |
 
 > ⚠ **Contradiction — does demography alone justify surveillance?** [[acg-2025-gastric-premalignant|ACG 2025]] makes family history of GC, foreign birth in a high-GC country, or high-risk race/ethnicity **each independently sufficient** to reclassify otherwise-limited complete-type GIM as high-risk → q3y. [[aga-2026-gastric-polyps|AGA 2026]] states the opposite for those factors standing alone: *"the frequency of surveillance should not be altered"* on ethnicity or family history, because there is little evidence the association is mediated by anything other than gastric mucosal status. The two are **not** cleanly reconcilable, but they do converge where demography is **combined with a mucosal finding** — AGA 2026 itself endorses q3y for mild/focal GIM **plus** family history, which is also ACG 2025's practice. For the isolated-demography case, **follow the newer AGA 2026**: a patient with limited, complete-type GIM and no mucosal risk factor is not upgraded by ethnicity or family history by itself. Population-level risk stratification for *screening* (a different decision) lives on [[gastric-cancer-screening]].
 
 **ACG 2025 risk definitions:**
 
-- **High-risk GIM** = incomplete GIM subtype **OR** corpus extension **OR** **moderate-to-severe histologic severity** (cutoffs under [[#Severity Assessment]] — severity qualifies **independently of extent**, so moderate-to-severe antrum-limited GIM is still high-risk) **OR** ≥1 of: family history of GC, foreign-born from a high-GC country, high-risk race/ethnicity (East Asian, Latino, Black, AIAN) → surveillance q3y
+- **High-risk GIM** = incomplete GIM subtype **OR** corpus extension **OR** **moderate-to-severe histologic severity** (cutoffs under [[#Severity Assessment]] — severity qualifies **independently of extent**, so moderate-to-severe antrum-limited GIM is still high-risk) **OR** ≥1 of: family history of GC, foreign-born from a high-GC country, high-risk race/ethnicity (East Asian, Latino, Black, American Indian and Alaska Native [AIAN]) → surveillance q3y
 - **Low-risk GIM** = complete subtype only, limited to antrum, **mild severity (≤1/3 of glands)**, unifocal, and none of the above high-risk criteria → no surveillance
 - **Multiple risk factors** (e.g., extensive GIM + family history of GC): consider shortening to **q1–2y**
 - **Against** routine repeat EGD at <12 months for nondysplastic GPMC unless there was a quality/protocol concern on the index exam
@@ -149,11 +149,11 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant,
 
 ### 4. If Dysplasia Is Found
 
-Dysplasia is the next stage of the Correa cascade, not a GIM finding, so it is managed off this page. **The ACG 2025 dysplasia pathway — resection when margins are visible, the repeat-EGD intervals when they are not (IND/LGD 12 months, HGD 3 months), the referral threshold, and post-resection surveillance — lives with its algorithm figure on [[gastric-premalignant-conditions#Dysplasia Management|gastric premalignant conditions]].**
+Dysplasia is the next stage of the Correa cascade, not a GIM finding, so it is managed off this page. **The ACG 2025 dysplasia pathway — resection when margins are visible, the repeat-EGD intervals when they are not (indefinite dysplasia [IND]/low-grade dysplasia [LGD] 12 months, high-grade dysplasia [HGD] 3 months), the referral threshold, and post-resection surveillance — lives with its algorithm figure on [[gastric-premalignant-conditions#Dysplasia Management|gastric premalignant conditions]].**
 
 ### 5. No Proven Chemopreventive Agents
 
-- ACG 2025 recommends **against** aspirin, NSAIDs, COX-2 inhibitors, or antioxidants for GC chemoprevention (Conditional/Very Low)
+- ACG 2025 recommends **against** aspirin, NSAIDs, cyclooxygenase-2 (COX-2) inhibitors, or antioxidants for GC chemoprevention (Conditional/Very Low)
 - Selenium and other antioxidants: not recommended; insufficient evidence for GIM regression or GC prevention outside H. pylori eradication
 
 ---

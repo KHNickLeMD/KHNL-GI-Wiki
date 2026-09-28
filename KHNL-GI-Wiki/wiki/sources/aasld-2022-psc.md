@@ -20,9 +20,9 @@ sources: []
 
 ## Summary
 
-This AASLD Practice Guidance comprehensively updates the 2010 AASLD [[primary-sclerosing-cholangitis|PSC]] guidelines with data-supported guidance developed by expert consensus. Major updates include: (1) formal introduction of new terminology for [[biliary-stricture|biliary strictures]] (dominant stricture, high-grade stricture, relevant stricture); (2) emphasis on MRI/MRCP as the preferred diagnostic modality and avoidance of [[ercp|ERCP]] for diagnosis; (3) new prognostic risk stratification tools (Amsterdam-Oxford, UK-PSC, PRESTo, SCOPE); (4) liver stiffness measurement (TE or MRE) replacing liver biopsy for fibrosis staging; (5) nuanced UDCA guidance — high-dose (≥28 mg/kg/d) remains contraindicated, but low-to-intermediate dose (13–23 mg/kg/d) can be considered in patients with persistently elevated ALP/GGT who are not in clinical trials; (6) comprehensive CCA surveillance including annual MRI/MRCP with or without CA 19-9; (7) high-definition [[colonoscopy]] with biopsies at 1- to 2-year intervals for PSC-[[inflammatory-bowel-disease|IBD]]; and (8) detailed CCA management including the Mayo LT neoadjuvant protocol for pCCA ≤3 cm.
+This American Association for the Study of Liver Diseases (AASLD) Practice Guidance comprehensively updates the 2010 AASLD [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]] guidelines with data-supported guidance developed by expert consensus. Major updates include: (1) formal introduction of new terminology for [[biliary-stricture|biliary strictures]] (dominant stricture, high-grade stricture, relevant stricture); (2) emphasis on magnetic resonance imaging/magnetic resonance cholangiopancreatography (MRI/MRCP) as the preferred diagnostic modality and avoidance of [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] for diagnosis; (3) new prognostic risk stratification tools (Amsterdam-Oxford, UK-PSC, PRESTo, SCOPE); (4) liver stiffness measurement (transient elastography [TE] or magnetic resonance elastography [MRE]) replacing liver biopsy for fibrosis staging; (5) nuanced ursodeoxycholic acid (UDCA) guidance — high-dose (≥28 mg/kg/d) remains contraindicated, but low-to-intermediate dose (13–23 mg/kg/d) can be considered in patients with persistently elevated alkaline phosphatase (ALP)/gamma-glutamyl transferase (GGT) who are not in clinical trials; (6) comprehensive cholangiocarcinoma (CCA) surveillance including annual MRI/MRCP with or without carbohydrate antigen 19-9 (CA 19-9); (7) high-definition [[colonoscopy]] with biopsies at 1- to 2-year intervals for PSC-[[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]; and (8) detailed CCA management including the Mayo liver transplantation (LT) neoadjuvant protocol for perihilar CCA (pCCA) ≤3 cm.
 
-The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (iCCA, pCCA, dCCA) diagnosis and management — a major expansion from prior PSC-only guidelines. The guidance recognizes that no approved pharmacotherapy exists for PSC, and clinical trial participation is a priority for all PSC patients.
+The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (intrahepatic CCA [iCCA], pCCA, distal CCA [dCCA]) diagnosis and management — a major expansion from prior PSC-only guidelines. The guidance recognizes that no approved pharmacotherapy exists for PSC, and clinical trial participation is a priority for all PSC patients.
 
 ---
 
@@ -33,8 +33,8 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 - PSC prevalence: 1–1.5 cases/100,000 person-years; 6–16/100,000 person-years prevalence (northern Europe/North America)
 - Peak incidence age 25–45, median age at diagnosis 36–39 years
 - Men account for ~2/3 of PSC patients overall; male predominance less pronounced without IBD
-- ≥70–80% of PSC patients have concurrent IBD (mostly [[ulcerative-colitis|UC]]/indeterminate colitis); ~1/3 [[crohns-disease|Crohn's]]
-- PSC-[[autoimmune-hepatitis|AIH]] overlap: ~35% of children, ~5% of adults
+- ≥70–80% of PSC patients have concurrent IBD (mostly [[ulcerative-colitis|ulcerative colitis (UC)]]/indeterminate colitis); ~1/3 [[crohns-disease|Crohn's]]
+- PSC-[[autoimmune-hepatitis|autoimmune hepatitis (AIH)]] overlap: ~35% of children, ~5% of adults
 - Median time to death or [[liver-transplantation|LT]]: 9 years (referral center) to ≥21 years (population-based)
 
 ### Definitions (Table 1)
@@ -44,31 +44,31 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 - **Dominant stricture:** Stenosis ≤1.5 mm in common bile duct or ≤1 mm in the hepatic duct on ERCP
 - **High-grade stricture:** >75% reduction in lumen of common bile duct or hepatic ducts on MRI/MRCP
 - **Relevant stricture:** Any biliary stricture of the common bile duct or hepatic ducts associated with signs/symptoms of obstructive cholestasis and/or bacterial cholangitis
-- **IgG4-sclerosing cholangitis:** Biliary strictures + elevated IgG4-positive plasma cells in tissue + serum IgG4 elevation, frequently associated with pancreatic involvement
+- **IgG4-sclerosing cholangitis (IgG4-SC):** Biliary strictures + elevated IgG4-positive plasma cells in tissue + serum IgG4 elevation, frequently associated with pancreatic involvement
 
 ### Diagnosis
 
-- MRI/MRCP (3D, T1w and T2w axial + contrast enhancement) is the first diagnostic imaging modality
+- MRI/MRCP (3D, T1-weighted [T1w] and T2-weighted [T2w] axial + contrast enhancement) is the first diagnostic imaging modality
 - A 1.5-Tesla minimum field strength; T2w 3D MRCP with 1-mm slices preferred over 2D MRCP
 - Normal MRCP does not exclude PSC (30% false-negative rate in high pretest probability)
 - ERCP should be avoided for diagnosis (serious complications, not needed when MRCP available)
 - Equivocal MRI → experienced center ± repeat 3D MRCP or liver biopsy
 - Liver biopsy not required for typical PSC on MRCP; should be considered for small-duct PSC or AIH overlap concern
 - IgG4: Up to 15% of PSC patients have elevated IgG4; high-titer IgG4 >5.6 g/L or IgG4/IgG1 ratio <0.24 can be used for IgG4-SC distinction
-- ALP elevated in ~75%; elevated aminotransferases common and do not suggest AIH overlap unless predominant or >5× ULN
+- ALP elevated in ~75%; elevated aminotransferases common and do not suggest AIH overlap unless predominant or >5× upper limit of normal (ULN)
 
 ### Natural History and Prognosis
 
-- Small-duct PSC: 23% progress to large-duct disease over 5–14 years; better prognosis (lower [[hepatocellular-carcinoma|HCC]] risk, longer LT-free survival)
+- Small-duct PSC: 23% progress to large-duct disease over 5–14 years; better prognosis (lower [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] risk, longer LT-free survival)
 - Dominant strictures present in up to 50% of patients; ~40% develop dominant strictures over disease course
 - Candida in bile = poor prognostic sign; bacterial cholangitis occurs in ~6% at diagnosis, ~40% during disease course
 - CCA risk: 160–400× general population; cumulative 6%/14%/20% at 10/20/30 years; 2.5% in first year after PSC diagnosis, then 1–1.5%/year
-- [[colorectal-cancer|CRC]] risk in PSC-IBD: 5–12× general population, 3–5× IBD-without-PSC; 5-year CRC incidence 7%, 10-year 9% (recent data)
+- [[colorectal-cancer|colorectal cancer (CRC)]] risk in PSC-IBD: 5–12× general population, 3–5× IBD-without-PSC; 5-year CRC incidence 7%, 10-year 9% (recent data)
 - Gallbladder cancer: 9–78× general population; gallbladder polyps present in 6–16% of PSC patients
 
 ### Prognostic Models (Table 3)
 
-- **Amsterdam-Oxford 2017:** Variables include age, bilirubin, albumin, AST, ALP, platelets, PSC subtype; endpoint = LT or liver-related death by 15 years; threshold ≥1.58 = higher risk (<https://sorted.co/psc-calculator/>)
+- **Amsterdam-Oxford 2017:** Variables include age, bilirubin, albumin, aspartate aminotransferase (AST), ALP, platelets, PSC subtype; endpoint = LT or liver-related death by 15 years; threshold ≥1.58 = higher risk (<https://sorted.co/psc-calculator/>)
 - **UK-PSC 2019:** Age, bilirubin, albumin, ALP, platelets, presence of extrahepatic biliary disease, history of variceal hemorrhage; short-term (death or LT by 2y) and long-term (death or LT by 10y); threshold ≥1.46 = higher risk (<http://www.uk-psc.com>)
 - **PREsTo 2020:** Age, bilirubin, albumin, AST, ALP, platelets, hemoglobin, sodium, years since PSC diagnosis; predicts hepatic decompensation (ascites, variceal hemorrhage, encephalopathy) by 5 years; threshold ≥20% = higher risk (rtools.mayo.edu/PRESTO_calculator/)
 - **SCOPE 2020:** Pediatric model; bilirubin, albumin, platelets, GGT, cholangiography subtype; [[portal-hypertension|portal hypertensive]] complications, biliary complications, CCA, LT listing, or death from liver disease by 5 years; threshold 0–5 = lower risk, 6–11 = higher risk (Scopeindex.net)
@@ -78,7 +78,7 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 ### Fibrosis Staging
 
 - Liver stiffness (LS) by TE or MRE = preferred method for fibrosis staging in PSC
-- TE cutoffs: 9.6 kPa = extensive fibrosis (F3); 14.4 kPa = cirrhosis (F4) — AUC >0.80
+- TE cutoffs: 9.6 kPa = extensive fibrosis (F3); 14.4 kPa = cirrhosis (F4) — area under the curve (AUC) >0.80
 - MRE: LS 4.6 kPa → AUC 0.82 for cirrhosis
 - ELF (Enhanced Liver Fibrosis) test strongly associated with transplant-free survival; useful as surrogate in trials
 - Liver biopsy NOT recommended for fibrosis staging in clinical practice (high sampling variability in PSC)
@@ -88,21 +88,21 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 - **No approved pharmacotherapy for PSC**
 - High-dose UDCA (≥28 mg/kg/d): contraindicated — terminated early for futility; associated with increased serious adverse events and increased colorectal neoplasia in PSC-UC
 - UDCA 13–23 mg/kg/d: can be considered (not recommended) for patients with persistently elevated ALP/GGT ineligible for or uninterested in trials — only if ALP/GGT reduction or symptom improvement within 12 months; observe 6 months before starting to confirm persistent elevation
-- Oral vancomycin: insufficient evidence to recommend; ongoing RCT (NCT03710122)
+- Oral vancomycin: insufficient evidence to recommend; ongoing randomized controlled trial (RCT) (NCT03710122)
 - PSC-AIH overlap: treat per AASLD AIH guidelines
 - Bacterial cholangitis: antibiotics; MRCP to assess for relevant stricture; ERCP if inadequate response to antibiotics
 - Vaccination: hepatitis A and B (if not immune); alcohol abstinence counseling in cirrhosis
-- Portal hypertension: Baveno-VI criteria (LS ≤20 kPa AND platelets >150,000/mm³) = safe to avoid screening [[upper-endoscopy|EGD]] for varices
+- Portal hypertension: Baveno-VI criteria (LS ≤20 kPa AND platelets >150,000/mm³) = safe to avoid screening [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] for varices
 
 ### Endoscopic Management
 
-- ERCP indications: relevant strictures with cholangitis, pruritus, unexplained weight loss, worsening LFTs, rising CA 19-9, recurrent bacterial cholangitis, or progressive bile duct dilation
+- ERCP indications: relevant strictures with cholangitis, pruritus, unexplained weight loss, worsening liver function tests (LFTs), rising CA 19-9, recurrent bacterial cholangitis, or progressive bile duct dilation
 - MRI/MRCP should generally precede ERCP to clarify need for intervention
-- Intraductal tissue sampling (brushings + biopsy for cytology and FISH) required for relevant strictures
+- Intraductal tissue sampling (brushings + biopsy for cytology and fluorescence in situ hybridization [FISH]) required for relevant strictures
 - Antimicrobial prophylaxis should be administered periprocedurally for all PSC patients undergoing ERCP
 - Balloon dilation ± stenting left to multidisciplinary/endoscopist discretion; balloon dilation should not exceed diameter of bile ducts immediately flanking the stricture
 - Plastic stent, if placed, should be removed within 4 weeks
-- Periprocedure rectal indomethacin 100 mg + aggressive LR hydration should be considered for post-ERCP pancreatitis prophylaxis
+- Periprocedure rectal indomethacin 100 mg + aggressive lactated Ringer's (LR) hydration should be considered for post-ERCP pancreatitis prophylaxis
 
 ### CCA Surveillance
 
@@ -113,7 +113,7 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 - FISH polysomy in dominant/relevant stricture + serial polysomy at subsequent ERCP = probable CCA
 - FISH polysomy + CA 19-9 ≥129 U/ml = high likelihood of CCA even without a mass lesion
 - CA 19-9 alone should NOT be used to diagnose CCA
-- MRI/MRCP superior to US for CCA surveillance in asymptomatic PSC (sensitivity 89%/specificity 75% vs. US sensitivity 57%/specificity 94%)
+- MRI/MRCP superior to ultrasound (US) for CCA surveillance in asymptomatic PSC (sensitivity 89%/specificity 75% vs. US sensitivity 57%/specificity 94%)
 - Cholangioscopy: not explicitly addressed as routine surveillance modality; FISH analysis best tool for cytologically indeterminate strictures
 
 ### Gallbladder Surveillance
@@ -137,7 +137,7 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 ### Nutrition and Bone Disease
 
 - Vitamins A, D, E, and K measurements at PSC diagnosis and yearly thereafter; supplement as needed (Table 4 provides specific dosing by vitamin/severity)
-- DEXA at diagnosis and every 2–3 years in those with normal bone mineral density
+- Dual-energy X-ray absorptiometry (DEXA) at diagnosis and every 2–3 years in those with normal bone mineral density
 - Osteopenia → vitamin D 2000 IU/day + calcium 1–1.5 g/day
 - Osteoporosis without varices → add oral bisphosphonate
 - Osteoporosis with esophageal varices → parenteral bisphosphonate
@@ -155,19 +155,19 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 
 - Indications: end-stage liver disease with complications of cirrhosis/portal hypertension, intractable pruritus, recurrent bacterial cholangitis, early-stage hepatobiliary cancers
 - PSC accounts for ~5% of all LTs in the United States
-- MELD exception criteria for PSC:
+- Model for End-Stage Liver Disease (MELD) exception criteria for PSC:
   - Recurrent bacterial cholangitis: ≥2 hospital admissions in 1 year for acute cholangitis with documented bloodstream infection or sepsis with hemodynamic instability requiring vasopressors
   - CCA by protocol criteria (CA 19-9 >100 U/ml without cholangitis/aneuploidy, malignant-appearing stricture + suspicious cytology/FISH polysomy, or perihilar mass with CCA imaging features) — qualifying for neoadjuvant protocol; must have CCA <3 cm radial diameter and no intrahepatic/extrahepatic metastasis; MELD score must be ≥20 for exception points
-- Living donor LT is an option; does not appear to increase rPSC risk
-- Roux-en-Y choledochojejunostomy = preferred biliary reconstruction (reduces rPSC); duct-to-duct may be considered if bile duct appears normal at LT without HGD
+- Living donor LT is an option; does not appear to increase recurrent PSC (rPSC) risk
+- Roux-en-Y choledochojejunostomy = preferred biliary reconstruction (reduces rPSC); duct-to-duct may be considered if bile duct appears normal at LT without high-grade dysplasia (HGD)
 
 ### Recurrent PSC (rPSC)
 
 - rPSC occurs in 10–37% at mean 0.5–5 years post-LT
 - Diagnosis: confirmed PSC pre-LT + cholestatic LFTs + multifocal nonanastomotic biliary strictures on cholangiography + absence of chronic ductopenic rejection, hepatic ischemia, or ABO incompatibility — all at ≥90 days post-LT
-- Risk factors: male sex, extended-criteria grafts, steroid-free ATG protocols, [[tacrolimus|tacrolimus-based]] IS, allograft rejection, poorly controlled/de novo IBD
+- Risk factors: male sex, extended-criteria grafts, steroid-free antithymocyte globulin (ATG) protocols, [[tacrolimus|tacrolimus-based]] immunosuppression, allograft rejection, poorly controlled/de novo IBD
 - Pretransplant colectomy may be protective against rPSC
-- Retransplantation for rPSC: 12.4% at 10 years (higher than [[primary-biliary-cholangitis|PBC]])
+- Retransplantation for rPSC: 12.4% at 10 years (higher than [[primary-biliary-cholangitis|primary biliary cholangitis (PBC)]])
 - Elevated LFTs post-LT: histological and cholangiographic assessment required to distinguish rPSC from rejection/biliary complications
 
 ### CCA Management (Guidance covers all subtypes)
@@ -177,16 +177,16 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 - Surgical resection = treatment of choice for single iCCA nodule in resectable location without metastasis and adequate liver function
 - Adjuvant capecitabine for all resected CCA (BILCAP study)
 - LT for unresectable liver-limited iCCA only under research protocols
-- Unresectable iCCA: gem/cis first-line; FOLFOX second-line; next-generation sequencing at diagnosis (FGFR2 fusions 10–15%, IDH mutations 15–20%, BRAF mutations 3–7%)
-- LRT (TACE, TARE, SBRT): considered for unresectable liver-limited iCCA; data insufficient to recommend as standard therapy
-- Pemigatinib (FGFR inhibitor) FDA-approved for FGFR2 fusion-positive CCA
+- Unresectable iCCA: gemcitabine/cisplatin (gem/cis) first-line; FOLFOX (folinic acid, fluorouracil, oxaliplatin) second-line; next-generation sequencing at diagnosis (FGFR2 fusions 10–15%, IDH mutations 15–20%, BRAF mutations 3–7%)
+- Locoregional therapy (LRT) (transarterial chemoembolization [TACE], transarterial radioembolization [TARE], stereotactic body radiation therapy [SBRT]): considered for unresectable liver-limited iCCA; data insufficient to recommend as standard therapy
+- Pemigatinib (fibroblast growth factor receptor [FGFR] inhibitor) FDA-approved for FGFR2 fusion-positive CCA
 
 **pCCA:**
 
 - Surgical resection (major hepatectomy + caudate + extrahepatic duct resection + hepaticojejunostomy + portal lymphadenectomy) = treatment of choice for early-stage pCCA
-- LT following neoadjuvant chemoradiation for unresectable pCCA ≤3 cm in radial diameter (no metastasis) — OPTN recognizes early pCCA as LT indication; 65% OS and 78% RFS at 5 years (US multicenter)
-- Neoadjuvant: external beam radiation + concomitant 5-FU + brachytherapy → maintenance capecitabine until LT; staging laparoscopy prior to LT
-- [[endoscopic-ultrasound|EUS]]-FNA of regional LNs must be performed to exclude metastases before neoadjuvant initiation
+- LT following neoadjuvant chemoradiation for unresectable pCCA ≤3 cm in radial diameter (no metastasis) — Organ Procurement and Transplantation Network (OPTN) recognizes early pCCA as LT indication; 65% overall survival (OS) and 78% recurrence-free survival (RFS) at 5 years (United States multicenter)
+- Neoadjuvant: external beam radiation + concomitant 5-fluorouracil (5-FU) + brachytherapy → maintenance capecitabine until LT; staging laparoscopy prior to LT
+- [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]–fine-needle aspiration (FNA) of regional lymph nodes (LNs) must be performed to exclude metastases before neoadjuvant initiation
 - Pretransplant percutaneous tumor biopsy, EUS-guided FNA of primary mass = contraindications to LT (peritoneal seeding risk)
 - EUS-FNA of LNs (not the primary mass) is acceptable for staging
 
@@ -283,11 +283,11 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 
 **33.** Histopathological confirmation is required for definitive diagnosis of iCCA.
 
-**34.** Cross-sectional imaging of the liver such as multiphasic CT or MRI is required to facilitate assessment of the primary mass, vascular invasion, presence of intrahepatic or extrahepatic metastasis, and resectability.
+**34.** Cross-sectional imaging of the liver such as multiphasic CT [computed tomography] or MRI is required to facilitate assessment of the primary mass, vascular invasion, presence of intrahepatic or extrahepatic metastasis, and resectability.
 
 **35.** Cross-sectional imaging of the chest and abdomen is necessary to stage the disease.
 
-**36.** A PET scan should not be used for diagnosis of primary tumor in CCA.
+**36.** A PET [positron emission tomography] scan should not be used for diagnosis of primary tumor in CCA.
 
 ### iCCA
 
@@ -333,7 +333,7 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 
 ## Relevance to Wiki
 
-- **[[primary-sclerosing-cholangitis]]**: Major update — replaces/supplements ACG 2015 on virtually every aspect: diagnosis algorithm, UDCA nuance, risk stratification tools, CCA surveillance protocol, CRC surveillance intervals, LT indications, rPSC diagnostic criteria, nutrition/bone protocols
+- **[[primary-sclerosing-cholangitis]]**: Major update — replaces/supplements American College of Gastroenterology (ACG) 2015 on virtually every aspect: diagnosis algorithm, UDCA nuance, risk stratification tools, CCA surveillance protocol, CRC surveillance intervals, LT indications, rPSC diagnostic criteria, nutrition/bone protocols
 - **[[cholangiocarcinoma]]**: Provides comprehensive guidance on iCCA, pCCA, and dCCA staging and management including LT neoadjuvant protocol for pCCA ≤3 cm
 - **[[liver-transplantation]]**: Adds PSC-specific LT indications, MELD exception criteria for PSC, rPSC diagnosis/risk factors
 - **[[ercp]]**: Adds PSC-specific ERCP indications, post-ERCP pancreatitis prevention (indomethacin + LR), antimicrobial prophylaxis duration
@@ -342,7 +342,7 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 ## Contradictions / Open Questions
 
 - **UDCA:** ACG 2015 recommended strongly against ALL doses of UDCA ≥28 mg/kg/d; AASLD 2022 maintains that prohibition but softens the position on 13–23 mg/kg/d (can be considered), representing a meaningful nuance update
-- **Oral vancomycin:** Prior enthusiasm (especially pediatric) not supported — insufficient evidence; pediatric retrospective data (264 patients, PPSC Consortium) showed no benefit over observation
+- **Oral vancomycin:** Prior enthusiasm (especially pediatric) not supported — insufficient evidence; pediatric retrospective data (264 patients, PPSC [Pediatric PSC] Consortium) showed no benefit over observation
 - **CCA surveillance:** No prospective RCT data on surveillance impact on outcomes; guidance based on observational data and expert consensus
 - **LT for iCCA:** Emerging data from multicenter cohorts showing feasibility; current guidance limits to research protocols
 

@@ -26,13 +26,13 @@ Presentation is age-agnostic: **mainly but not exclusively 3–55 years old**, w
 
 ## Guidance Statements (complete, 1–38)
 
-Reproduced near-verbatim. The source assigns **no evidence grade or strength** to any statement.
+Guidance statements (GS) reproduced near-verbatim. The source assigns **no evidence grade or strength** to any statement.
 
 ### Clinical presentation (GS 1–5)
 
 - **GS 1.** WD should be considered in any individual with liver abnormalities of uncertain cause. Age alone should not be the basis for eliminating a diagnosis of WD.
 - **GS 2.** WD must be excluded in any patient with unexplained liver disease associated with neurological or psychiatric disorder. Assessment by a neurologist specializing in movement disorders may be advantageous. Psychiatric evaluation is essential for any patient with WD presenting with psychiatric or neuropsychiatric features of WD.
-- **GS 3.** WD should be suspected in any patient presenting with [[acute-liver-failure|ALF]] with nonimmune hemolytic anemia including acute intravascular hemolysis. These patients require urgent evaluation for [[liver-transplantation|liver transplantation]].
+- **GS 3.** WD should be suspected in any patient presenting with [[acute-liver-failure|ALF]] [acute liver failure] with nonimmune hemolytic anemia including acute intravascular hemolysis. These patients require urgent evaluation for [[liver-transplantation|liver transplantation]].
 - **GS 4.** Evaluation for WD is critical in patients exhibiting recurrent self-limited nonimmune hemolysis.
 - **GS 5.** At clinical presentation, WD may involve organ systems besides the liver and nervous system (such as renal, musculoskeletal, cardiac, or endocrine).
 
@@ -43,13 +43,13 @@ Reproduced near-verbatim. The source assigns **no evidence grade or strength** t
   - complete blood count and international normalized ratio (INR);
   - serum ceruloplasmin and, in some patients, serum copper;
   - basal 24-h urinary copper excretion;
-  - slit-lamp or optical tomography examination for KF rings;
+  - slit-lamp or optical tomography examination for KF [Kayser–Fleischer] rings;
   - neurological evaluation; and
   - molecular genetic investigation of *ATP7B* (depending on logistics).
 - **GS 7.** An extremely low serum ceruloplasmin level (<5 mg/dl) more strongly suggests a diagnosis of WD than modestly subnormal levels. Serum ceruloplasmin by itself is insufficient for making a diagnosis of WD. Serum ceruloplasmin within the normal range does not exclude the diagnosis of WD.
 - **GS 8.** Basal 24-h urinary excretion of copper in WD is typically >100 μg/24 h (>1.6 μmol/24 h) in symptomatic patients, but a lower reference value of >40 μg/24 h (>0.6 μmol/24 h) may indicate WD in asymptomatic individuals or children and therefore requires clinical correlation and further investigation.
 - **GS 9.** [[liver-biopsy|Liver biopsy]] for histology can aid in the diagnosis of WD by identifying findings consistent with WD and permitting disease staging/grading. It may also suggest an alternative or concurrent diagnosis of liver disease. It allows quantification of liver tissue copper. Hepatic parenchymal copper content more than >250 μg/g dry weight occurs in most patients; a lower content still above normal occurs less frequently but should prompt other confirmatory testing. In untreated patients, normal hepatic copper content (<50 μg/g dry weight) almost always excludes a diagnosis of WD. Electron microscopic evaluation of liver tissue may aid diagnosis of WD, notably in pediatric patients.
-- **GS 10.** If neurological evaluation reveals abnormalities, radiologic imaging of the brain, preferably by MRI, should be considered to establish baseline status and exclude other potential causes.
+- **GS 10.** If neurological evaluation reveals abnormalities, radiologic imaging of the brain, preferably by MRI [magnetic resonance imaging], should be considered to establish baseline status and exclude other potential causes.
 
 ### Genetic testing (GS 11)
 
@@ -95,13 +95,13 @@ Reproduced near-verbatim. The source assigns **no evidence grade or strength** t
 ### ALF and liver transplantation (GS 28–31)
 
 - **GS 28.** Patients with ALF due to WD should be referred for a liver transplant evaluation and potential liver transplantation immediately.
-- **GS 29.** Patients with ALI due to WD may respond to medical therapy or may progress to ALF. They require early transplant referral and evaluation.
+- **GS 29.** Patients with ALI [acute liver injury] due to WD may respond to medical therapy or may progress to ALF. They require early transplant referral and evaluation.
 - **GS 30.** After liver transplantation, medical treatment specific for WD is unnecessary.
-- **GS 31.** Liver failure and [[hepatocellular-carcinoma|HCC]] are well-accepted indications for liver transplantation in WD; however, neurologic WD remains a controversial indication.
+- **GS 31.** Liver failure and [[hepatocellular-carcinoma|HCC]] [hepatocellular carcinoma] are well-accepted indications for liver transplantation in WD; however, neurologic WD remains a controversial indication.
 
 ### Cancer surveillance (GS 32)
 
-- **GS 32.** Patients with WD with cirrhosis or regressed cirrhosis should undergo screening and surveillance for HCC according to the recommended guidelines. Screening and surveillance for [[cholangiocarcinoma|CCA]] is not indicated in WD; however, CCA should be considered in the differential diagnosis of liver tumors not meeting strict radiologic criteria for HCC.
+- **GS 32.** Patients with WD with cirrhosis or regressed cirrhosis should undergo screening and surveillance for HCC according to the recommended guidelines. Screening and surveillance for [[cholangiocarcinoma|CCA]] [cholangiocarcinoma] is not indicated in WD; however, CCA should be considered in the differential diagnosis of liver tumors not meeting strict radiologic criteria for HCC.
 
 ### Pregnancy and lactation (GS 33–35)
 
@@ -127,7 +127,7 @@ Reproduced near-verbatim. The source assigns **no evidence grade or strength** t
 
 | Domain | Manifestations |
 |---|---|
-| Hepatic | Asymptomatic hepatomegaly; isolated splenomegaly; persistently elevated AST/ALT; fatty liver; acute hepatitis of varying severity including acute liver injury (ALI); picture resembling [[autoimmune-hepatitis]]; [[cirrhosis]] compensated or decompensated; acute liver failure |
+| Hepatic | Asymptomatic hepatomegaly; isolated splenomegaly; persistently elevated aspartate aminotransferase (AST)/alanine aminotransferase (ALT); fatty liver; acute hepatitis of varying severity including ALI; picture resembling [[autoimmune-hepatitis]]; [[cirrhosis]] compensated or decompensated; acute liver failure |
 | Neurological | Dysarthria; movement disorders (tremor, involuntary movements); pseudobulbar palsy; drooling, transfer dysphagia; rigid dystonia; dysautonomia; seizures; sleep disorders, insomnia |
 | Psychiatric | Depression; bipolar disorder / bipolar spectrum; neurotic behaviors; personality changes; psychosis |
 | Other systems | Eye — Kayser–Fleischer rings, sunflower cataracts; renal — aminoaciduria, nephrolithiasis; skeletal — premature osteoporosis, arthritis; cardiomyopathy, dysrhythmias; pancreatitis; hypoparathyroidism; infertility, repeated miscarriages |
@@ -144,7 +144,7 @@ Most patients <18 years present with hepatic disease; adults present with hepati
 | Neuropsychiatric symptoms — absent | 0 |
 | **Coombs-negative (nonimmune) hemolytic anemia + high serum copper** — present | 1 |
 | Coombs-negative hemolytic anemia — absent | 0 |
-| **24-h urinary copper (in the absence of acute hepatitis; ULN modified)** — normal | 0 |
+| **24-h urinary copper (in the absence of acute hepatitis; upper limit of normal [ULN] modified)** — normal | 0 |
 | 24-h urinary Cu — 1–2× ULN | 1 |
 | 24-h urinary Cu — >2× ULN | 2 |
 | 24-h urinary Cu — normal but **>500 μg/day 1 day after challenge with 2 × 500 mg D-penicillamine** | 2 |
@@ -153,7 +153,7 @@ Most patients <18 years present with hepatic disease; adults present with hepati
 | Liver Cu — >5× ULN | 2 |
 | **Rhodanine-positive hepatocytes** (only if quantitative copper unavailable) — present | 1 |
 | Rhodanine-positive hepatocytes — absent | 0 |
-| **Serum ceruloplasmin** (nephelometric assay, LLN = 20 mg/dl) — normal | 0 |
+| **Serum ceruloplasmin** (nephelometric assay, lower limit of normal [LLN] = 20 mg/dl) — normal | 0 |
 | Ceruloplasmin 10–20 mg/dl | 1 |
 | Ceruloplasmin <10 mg/dl | 2 |
 | ***ATP7B* mutation analysis** — disease-causing mutations on both chromosomes | 4 |
@@ -177,16 +177,16 @@ Most patients <18 years present with hepatic disease; adults present with hepati
 | Bilirubin, mg/dl (μmol/L) | 0–5.8 (0–100) | 5.9–8.7 (101–150) | 8.8–11.7 (151–200) | 11.8–17.5 (201–300) | >17.5 (>300) |
 | INR | 0–1.29 | 1.3–1.6 | 1.7–1.9 | 2.0–2.4 | ≥2.5 |
 | AST, IU/L | 0–100 | 101–150 | 151–200 | 201–300 | >300 |
-| WBC (×10⁶/ml) | 0–6.7 | 6.8–8.3 | 8.4–10.3 | 10.4–15.3 | ≥15.4 |
+| White blood cell count (WBC) (×10⁶/ml) | 0–6.7 | 6.8–8.3 | 8.4–10.3 | 10.4–15.3 | ≥15.4 |
 | Albumin, mg/dl | >4.5 | 3.4–4.4 | 2.5–3.3 | 2.1–2.4 | ≤2.0 |
 
 Sum the five parameters.
 
-- **NWI ≥11 is a strong predictor of mortality without liver transplantation.**
+- **New Wilson Index (NWI) ≥11 is a strong predictor of mortality without liver transplantation.**
 - Oral chelation has produced survival and improvement in select patients, **especially (but not limited to) those with NWI <11**.
 - Liver transplantation should be considered in severe ALI, **more so if NWI >10 and it fails to decrease over time**.
 - The **breakpoint zone is NWI 10–11** — interpretation there is unreliable (particularly in children); **serial repeated scoring** is highly informative.
-- The NWI was derived in pediatric WD and **validated in adults**; on ROC analysis its AUC was similar to the Nazer score and MELD, marginally best. It differs from the superseded Nazer score by adding WBC, albumin, and INR (rather than prothrombin time). The **Nazer** score — not the NWI — was the one unreliable around a breakpoint of **6–7**.
+- The NWI was derived in pediatric WD and **validated in adults**; on receiver operating characteristic (ROC) analysis its area under the curve (AUC) was similar to the Nazer score and Model for End-Stage Liver Disease (MELD), marginally best. It differs from the superseded Nazer score by adding WBC, albumin, and INR (rather than prothrombin time). The **Nazer** score — not the NWI — was the one unreliable around a breakpoint of **6–7**.
 
 ### ALF due to WD — recognition
 
@@ -222,7 +222,7 @@ ALF due to WD accounts for ~**3% of all ALF** and carries **80%–99% mortality 
 
 ### Drug dosing
 
-**D-Penicillamine** — "start low, go slow": 250–500 mg/day, increase by 250-mg increments every 4–7 days to ~1000–1500 mg/day (15–20 mg/kg/day, **maximum 2000 mg/day**) in 2–4 divided doses. **Maintenance (adults) 10–15 mg/kg/day ≈ 750–1000 mg/day in two divided doses.** Children: 20 mg/kg/day rounded to the nearest 250 mg in 2–3 divided doses, started incrementally, reduced to 10–15 mg/kg for maintenance over time. Give **1 h before or 2 h after meals** (food inhibits absorption); closer to meals is acceptable if it secures adherence, with close monitoring of efficacy. **Pyridoxine 25–50 mg PO daily** is routinely co-administered.
+**D-Penicillamine** — "start low, go slow": 250–500 mg/day, increase by 250-mg increments every 4–7 days to ~1000–1500 mg/day (15–20 mg/kg/day, **maximum 2000 mg/day**) in 2–4 divided doses. **Maintenance (adults) 10–15 mg/kg/day ≈ 750–1000 mg/day in two divided doses.** Children: 20 mg/kg/day rounded to the nearest 250 mg in 2–3 divided doses, started incrementally, reduced to 10–15 mg/kg for maintenance over time. Give **1 h before or 2 h after meals** (food inhibits absorption); closer to meals is acceptable if it secures adherence, with close monitoring of efficacy. **Pyridoxine 25–50 mg by mouth (PO) daily** is routinely co-administered.
 
 **Trientine dihydrochloride** — initial adult dose ~15–20 mg/kg/day (**maximum 2000 mg/day**) in 2–3 divided doses, **ramped up over 2–3 weeks**. Maintenance adults 10–15 mg/kg/day in 2–3 divided doses. Children: initial 20 mg/kg/day rounded to nearest 250 mg in 2–3 divided doses; **exceeding 20 mg/kg/day may increase adverse effects**; maintenance 10–15 mg/kg/day (normal growth often does the dose reduction). Give **1 h before or 2 h after meals**; take with ample fluid (esophageal irritation). The **dihydrochloride** salt should be stored **refrigerated** to prevent oxidative degradation.
 
@@ -234,9 +234,9 @@ ALF due to WD accounts for ~**3% of all ALF** and carries **80%–99% mortality 
 
 ### Treatment monitoring targets (Table 10)
 
-Minimum monitoring frequency is **twice a year** (more often at initiation, with worsening/side effects, or when nonadherence is suspected). NCC = non-ceruloplasmin-bound copper.
+Minimum monitoring frequency is **twice a year** (more often at initiation, with worsening/side effects, or when nonadherence is suspected). Columns report non-ceruloplasmin-bound copper (NCC).
 
-| Drug | At initiation (urinary Cu) | Maintenance: 24-h urinary Cu | Maintenance: NCC | Maintenance: AST/ALT, TBili, INR | Overtreatment: 24-h Cu | Overtreatment: NCC | Overtreatment: other | Treatment failure: 24-h Cu | Treatment failure: NCC | Treatment failure: AST/ALT |
+| Drug | At initiation (urinary Cu) | Maintenance: 24-h urinary Cu | Maintenance: NCC | Maintenance: AST/ALT, total bilirubin (TBili), INR | Overtreatment: 24-h Cu | Overtreatment: NCC | Overtreatment: other | Treatment failure: 24-h Cu | Treatment failure: NCC | Treatment failure: AST/ALT |
 |---|---|---|---|---|---|---|---|---|---|---|
 | D-Penicillamine | Increases | ~200–500 μg/24 h (≈3–8 μmol/24 h) | 5–15 μg/dl | Trend to normal; TBili and INR ↓ | <100 μg/24 h | <5 μg/dl | ↓↓ceruloplasmin, ↓↓Cu; sideroblastic anemia; ↓WBC; ↑Fe indices | >500 μg/24 h (previously in range) | >15 μg/dl | ↑ |
 | Trientine | Increases | ~150–500 μg/24 h (≈2.4–8 μmol/24 h) | 5–15 μg/dl | Trend to normal; TBili and INR ↓ | <100 μg/24 h | <5 μg/dl | same as above | >500 μg/24 h (previously in range) | >15 μg/dl | ↑ |
@@ -252,7 +252,7 @@ Footnotes from the source:
 
 ### Dietary copper
 
-- RDA for copper in healthy adults **0.9 mg/day**; median US intake 1–1.6 mg/day. Patients with WD should aim to keep intake at the RDA (<0.9 mg/day).
+- Recommended Dietary Allowance (RDA) for copper in healthy adults **0.9 mg/day**; median US intake 1–1.6 mg/day. Patients with WD should aim to keep intake at the RDA (<0.9 mg/day).
 - Avoid, at least in the first year of treatment: **nuts, chocolate, most shellfish (scallops are low), soy-based products, mushrooms, organ meats**; also most **nondairy milk alternatives** and vegetable-derived "meat" products.
 - Maintenance phase: base the diet on **low-copper (<0.08 mg/serving)** and **moderate-copper (0.08–0.2 mg/serving)** foods; no specific daily limit is recommended.
 - **Water copper >100 μg/L is elevated for WD** and warrants treatment of the water supply. Run the tap ≥30 seconds (or until cool) before use. Copper plumbing need not be removed. Avoid **unlined** copper/bronze cookware, mixing bowls, and mugs.
@@ -263,11 +263,11 @@ Footnotes from the source:
 
 - Annual HCC risk in WD with cirrhosis estimated at **0.14%** in one series; 7% of patients in a Saudi Arabian cohort — more frequent than formerly appreciated but still less than other chronic liver diseases. There is also a substantial rate of **intrahepatic CCA**.
 - Unless a liver tumor meets strict radiologic criteria for HCC with cirrhosis present, evaluate it per current tumor guidelines. Hepatic cancer in WD can occur in the pediatric age bracket.
-- Unresectable HCC is an LT indication if confined to the liver without vascular invasion per **Milan criteria**.
+- Unresectable HCC is a liver transplantation (LT) indication if confined to the liver without vascular invasion per **Milan criteria**.
 
 ## Relevance to Wiki
 
-- Primary source for [[wilson-disease]] — full ADDT content: presentation spectrum, Leipzig diagnostic score, NWI prognostic score, chelator/zinc dosing and monitoring targets, transplant indications
+- Primary source for [[wilson-disease]] — full Assessment–Differential Diagnosis–Diagnostics–Therapeutics (ADDT) content: presentation spectrum, Leipzig diagnostic score, NWI prognostic score, chelator/zinc dosing and monitoring targets, transplant indications
 - [[acute-liver-failure]] — WD as ~3% of ALF, the Korman criteria, and the urgency of transplant referral
 - [[autoimmune-hepatitis]] — WD as a mimic; [[liver-biopsy]] for hepatic copper quantification
 - [[hepatocellular-carcinoma]] / [[hcc-surveillance]] — surveillance indicated in WD cirrhosis or regressed cirrhosis; CCA surveillance is not
@@ -277,7 +277,7 @@ Footnotes from the source:
 
 ## Contradictions / Open Questions
 
-- **Not a graded document.** No GRADE evidence quality or recommendation strength is attached to any of the 38 statements — all are consensus/narrative-based.
+- **Not a graded document.** No Grading of Recommendations Assessment, Development and Evaluation (GRADE) evidence quality or recommendation strength is attached to any of the 38 statements — all are consensus/narrative-based.
 - **No genotype–phenotype correlation.** >380 pathogenic *ATP7B* variants with no predominant mutation; most patients are compound heterozygotes, so genotype does not predict phenotype.
 - **Neurologic WD as a primary LT indication remains controversial** — outcome data are scattered, uncontrolled, and conflicting; controlled trials are required.
 - **Trientine tetrahydrochloride** — bioequivalence with the dihydrochloride is **not established**; once-daily dosing needs confirmatory studies; individual dose adjustment by 24-h urinary copper may be needed.

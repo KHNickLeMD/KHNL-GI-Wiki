@@ -14,19 +14,19 @@ sources: []
 - **Year:** 2025
 - **Journal:** Am J Gastroenterol 2025;120 (January)
 - **DOI:** [10.14309/ajg.0000000000003194](https://doi.org/10.14309/ajg.0000000000003194)
-- **Type:** Clinical guideline (ACG) — updates 2013 guidelines
-- **Note:** Comprehensive update covering diagnosis, treatment (PPI, STC, dietary, biologics, dilation), maintenance, monitoring, and pediatrics
+- **Type:** Clinical guideline (American College of Gastroenterology [ACG]) — updates 2013 guidelines
+- **Note:** Comprehensive update covering diagnosis, treatment (proton pump inhibitor [PPI], swallowed topical corticosteroids [STC], dietary, biologics, dilation), maintenance, monitoring, and pediatrics
 
 ## Summary
 
-Full update of ACG EoE guidelines. EoE defined as ≥15 eos/hpf on esophageal biopsy + esophageal symptoms + exclusion of other causes (including PPI-nonresponsive). Major updates: dupilumab FDA-approved 2022 (≥12y) and 2024 (1–11y); budesonide oral suspension (BOS) FDA-approved 2024; step-up diet approach (1FED/2FED before 6FED); maintenance therapy now strongly recommended.
+Full update of ACG eosinophilic esophagitis (EoE) guidelines. EoE defined as ≥15 eosinophils per high-power field (eos/hpf) on esophageal biopsy + esophageal symptoms + exclusion of other causes (including PPI-nonresponsive). Major updates: dupilumab FDA-approved 2022 (≥12y) and 2024 (1–11y); budesonide oral suspension (BOS) FDA-approved 2024; step-up diet approach (one-food elimination diet [1FED]/2FED before 6FED); maintenance therapy now strongly recommended.
 
 ## Key Findings / Claims
 
 ### Diagnostic Criteria
 
 - Symptoms of esophageal dysfunction + ≥15 eos/hpf (≥60 eos/mm²) on esophageal biopsy
-- Exclude other causes of esophageal eosinophilia ([[gerd|GERD]], infection, [[inflammatory-bowel-disease|IBD]], [[achalasia]], drug reaction)
+- Exclude other causes of esophageal eosinophilia ([[gerd|gastroesophageal reflux disease (GERD)]], infection, [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], [[achalasia]], drug reaction)
 - PPI trial is part of diagnostic workup; PPI-responsive disease still diagnosed as EoE (no longer separate entity)
 - **Biopsy protocol:** ≥6 biopsies from ≥2 levels (proximal + distal esophagus)
 - **EREFS** (Edema, Rings, Exudates, Furrows, Stricture): validated scoring tool; 0–9 scale; endoscopic remission = EREFS ≤2
@@ -40,7 +40,7 @@ Full update of ACG EoE guidelines. EoE defined as ≥15 eos/hpf on esophageal bi
 | 3 | Assess EREFS at every endoscopy | Conditional | Low |
 | 4 | PPI as first-line treatment | Strong | Moderate |
 | 5 | PPI regardless of reflux symptoms | Conditional | Moderate |
-| 6 | Topical steroids (STC) for EoE treatment | Strong | Moderate |
+| 6 | STC for EoE treatment | Strong | Moderate |
 | 7 | Either fluticasone or budesonide acceptable as STC | Conditional | Low |
 | 8 | Empiric food elimination diet (FED) | Conditional | Low |
 | 9 | Do NOT use allergy testing to direct FED | Conditional | Very low |
@@ -59,17 +59,17 @@ Full update of ACG EoE guidelines. EoE defined as ≥15 eos/hpf on esophageal bi
 
 **PPI**
 
-- High-dose bid × 8–12 weeks → endoscopy with biopsies
+- High-dose twice daily (bid) × 8–12 weeks → endoscopy with biopsies
 - ~50% histologic remission; mechanism beyond acid suppression
 - Adults: omeprazole 20mg bid (or equivalent); children: 2mg/kg/day
 - Maintain long-term if effective (70–85% sustain remission at 1y)
 
-**Topical Steroids (STC)**
+**Topical Steroids**
 
 - Histologic remission 60–70% across trials
-- **Budesonide oral suspension (BOS):** 2mg bid — FDA-approved 2024
-- **Budesonide orodispersible tablet (BOT):** 1mg bid — EMA-approved
-- **Fluticasone MDI:** 1760mcg/day divided (adults); swallowed, NOT inhaled
+- **BOS:** 2mg bid — FDA-approved 2024
+- **Budesonide orodispersible tablet (BOT):** 1mg bid — European Medicines Agency (EMA)-approved
+- **Fluticasone metered-dose inhaler (MDI):** 1760mcg/day divided (adults); swallowed, NOT inhaled
 - Off-label viscous budesonide or fluticasone powder remain options
 - Side effects: candidal esophagitis (4–24%); adrenal insufficiency uncommon with short-term use; test adrenal function with long-term use or multiple corticosteroid formulations
 - Loss of response can occur over time; every-other-day dosing may not be effective
@@ -94,10 +94,10 @@ Full update of ACG EoE guidelines. EoE defined as ≥15 eos/hpf on esophageal bi
 
 - FDA-approved: ≥12y (2022), 1–11y (2024)
 - Indication: PPI-nonresponder
-- Dosing: ≥40kg → 300mg SQ weekly; 30–<40kg → 300mg SQ q2w; 15–<30kg → 200mg SQ q2w
-- Phase 3 RCT: 60% histologic remission (≤6 eos/hpf) vs 5% placebo
+- Dosing: ≥40kg → 300mg subcutaneously (SQ) weekly; 30–<40kg → 300mg SQ every 2 weeks (q2w); 15–<30kg → 200mg SQ q2w
+- Phase 3 randomized controlled trial (RCT): 60% histologic remission (≤6 eos/hpf) vs 5% placebo
 - Symptom improvement, endoscopic improvement (EREFS), and improved esophageal distensibility
-- No TB/HIV/hepatitis screening required; no therapeutic drug monitoring
+- No tuberculosis (TB)/human immunodeficiency virus (HIV)/hepatitis screening required; no therapeutic drug monitoring
 - Cost and access are key barriers
 
 **Esophageal Dilation**

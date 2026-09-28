@@ -14,22 +14,22 @@ sources: []
 - **Year:** 2021
 - **Journal/Publisher:** Surgical Endoscopy 2021;35(9):4903–4917
 - **DOI:** [10.1007/s00464-021-08625-5](https://doi.org/10.1007/s00464-021-08625-5)
-- **Type:** Clinical practice guideline (SAGES); GRADE methodology; 7 recommendations covering 5 key questions; surgical-perspective guideline
+- **Type:** Clinical practice guideline (Society of American Gastrointestinal and Endoscopic Surgeons [SAGES]); Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology; 7 recommendations covering 5 key questions; surgical-perspective guideline
 
 ## Summary
 
-This SAGES guideline focuses exclusively on surgical technique decisions in [[gerd|GERD]] management: (1) surgery vs. continued medical management, (2) robotic vs. laparoscopic approach, (3) complete vs. partial fundoplication, (4) division vs. preservation of short gastric vessels in adults, and (5) minimal vs. maximal dissection in pediatric patients. All seven recommendations are conditional, reflecting very low, low, or moderate certainty evidence.
+This SAGES guideline focuses exclusively on surgical technique decisions in [[gerd|gastroesophageal reflux disease (GERD)]] management: (1) surgery vs. continued medical management, (2) robotic vs. laparoscopic approach, (3) complete vs. partial fundoplication, (4) division vs. preservation of short gastric vessels in adults, and (5) minimal vs. maximal dissection in pediatric patients. All seven recommendations are conditional, reflecting very low, low, or moderate certainty evidence.
 
 The guideline's primary conclusion is that surgery is preferred over long-term medical management for adults with confirmed chronic or chronic refractory GERD, but the technical details of surgical approach are largely equivalent based on patient values and surgeon expertise. Shared decision-making with patients regarding surgical technique trade-offs is a recurring theme.
 
-This guideline should be read alongside [[acg-2021-gerd]] (comprehensive GERD management, indications for surgery) and [[asge-2024-gerd]] (endoscopic alternatives, TIF/cTIF).
+This guideline should be read alongside [[acg-2021-gerd]] (comprehensive GERD management, indications for surgery) and [[asge-2024-gerd]] (endoscopic alternatives, transoral incisionless fundoplication [TIF]/combined TIF + hiatal hernia repair [cTIF]).
 
 ## Key Findings / Claims
 
 **Recommendation 1a — Surgery vs. Medical Management (Adults):**
 
 - Conditional recommendation for surgical fundoplication over continued medical management in adults with confirmed chronic or refractory GERD (Conditional, Very Low certainty)
-- Evidence from 15 RCTs: surgery favored for % time with abnormal pH (2.11% less), long-term symptom control (79.2% vs 62.6%), QoL, and PPI discontinuation (72% medical patients still on PPI at long-term follow-up vs 25% surgical)
+- Evidence from 15 randomized controlled trials (RCTs): surgery favored for % time with abnormal pH (2.11% less), long-term symptom control (79.2% vs 62.6%), quality of life (QoL), and proton pump inhibitor (PPI) discontinuation (72% medical patients still on PPI at long-term follow-up vs 25% surgical)
 - Harms of surgery: 10.5% vs 7.5% complication rate; 12% more gas-bloat symptoms; 2.4% less treatment failure (reoperation)
 - No recommendation for pediatric patients (insufficient comparative data)
 
@@ -60,7 +60,7 @@ This guideline should be read alongside [[acg-2021-gerd]] (comprehensive GERD ma
 **Recommendation 5 — Pediatric Dissection Extent:**
 
 - Minimal dissection during fundoplication in pediatric patients without large hiatal hernia: Conditional, Moderate certainty
-- Evidence: minimal dissection (no violation of phrenoesophageal membrane) reduces EGD/dilation need (9.3% fewer in partial wrap children with minimal dissection) and 3.2% less postoperative PPI use
+- Evidence: minimal dissection (no violation of phrenoesophageal membrane) reduces esophagogastroduodenoscopy (EGD)/dilation need (9.3% fewer in partial wrap children with minimal dissection) and 3.2% less postoperative PPI use
 - Maximal dissection defined as circumferential division of phrenoesophageal attachments
 
 **Overall Evidence Quality:**
@@ -101,7 +101,7 @@ This guideline should be read alongside [[acg-2021-gerd]] (comprehensive GERD ma
 - Surgery vs. medical management: SAGES 2021 conditional recommendation predates the NordICC trial (2022) — may require re-evaluation of overall [[antireflux-surgery|antireflux procedure]] evidence
 - Robotic vs. laparoscopic: evidence base limited (4 small RCTs); long-term cost-effectiveness not studied
 - Short gastric vessel division: gas-bloat data suggest division may worsen long-term gas-bloat but improve symptom control — patient counseling crucial
-- MSA (magnetic sphincter augmentation / LINX): not addressed in this SAGES guideline; covered by ACG 2021 and ASGE 2024
+- MSA (magnetic sphincter augmentation / LINX): not addressed in this SAGES guideline; covered by American College of Gastroenterology (ACG) 2021 and American Society for Gastrointestinal Endoscopy (ASGE) 2024
 
 ## See Also
 

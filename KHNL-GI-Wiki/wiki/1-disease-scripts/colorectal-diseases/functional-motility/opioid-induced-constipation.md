@@ -31,10 +31,10 @@ sources: [aga-2019-opioid-induced-constipation, aga-acg-2023-constipation, rome-
 
 **Opioid-induced constipation (OIC)** = constipation that is a result of opioid therapy. Distinct from other constipation because it arises from the direct pharmacologic effects of opioids on the gut, and therefore deserves dedicated medical management [[aga-2019-opioid-induced-constipation]].
 
-- **Mechanism:** three opioid receptor classes mediate GI effects — **μ, δ, κ**. κ-receptors in the stomach and small intestine, μ-receptors in the small intestine and proximal colon. OIC occurs primarily via **enteric μ-receptor activation** → increased tonic non-propulsive contractions in small and large intestine, increased colonic fluid absorption, stool desiccation. Opioids also **raise the minimum rectal sensory threshold** and **increase anal sphincter tone**. Net result: harder stool, less frequent and less effective defecation.
+- **Mechanism:** three opioid receptor classes mediate gastrointestinal (GI) effects — **μ, δ, κ**. κ-receptors in the stomach and small intestine, μ-receptors in the small intestine and proximal colon. OIC occurs primarily via **enteric μ-receptor activation** → increased tonic non-propulsive contractions in small and large intestine, increased colonic fluid absorption, stool desiccation. Opioids also **raise the minimum rectal sensory threshold** and **increase anal sphincter tone**. Net result: harder stool, less frequent and less effective defecation.
 - **Epidemiology:** affects an estimated **40%–80%** of patients on chronic opioid therapy; some degree of constipation is near universal on opioids. ~9–12 million Americans have chronic pain annually; **4%–5%** of the US population uses prescription opioids regularly.
 - **OIC vs opioid-induced bowel dysfunction (OIBD):** OIBD is the wider set of GI adverse effects of opioid therapy — constipation, [[gerd|gastroesophageal reflux disease]], [[nausea-and-vomiting|nausea and vomiting]], [[abdominal-bloating-and-distention|bloating]], and abdominal pain.
-- **Category:** [[rome-v-2026-dgbi|Rome V]] keeps OIC as a **separate bowel-DGBI category (C6)**, not a subtype of [[chronic-idiopathic-constipation|chronic constipation]].
+- **Category:** [[rome-v-2026-dgbi|Rome V]] keeps OIC as a **separate bowel disorder of gut-brain interaction (DGBI) category (C6)**, not a subtype of [[chronic-idiopathic-constipation|chronic constipation]].
 
 **Rome IV symptom criteria**, as reproduced by [[aga-2019-opioid-induced-constipation]] — **new or worsening symptoms of constipation when initiating, changing, or increasing opioid therapy**, which must include **≥2** of:
 
@@ -62,7 +62,7 @@ sources: [aga-2019-opioid-induced-constipation, aga-acg-2023-constipation, rome-
 - **BFI ≥30** is consistent with **clinically significant constipation**, and is the consensus cutoff for identifying patients who have **inadequately responded to first-line laxatives** and would benefit from **escalation of therapy**.
 - The **Patient Assessment of Constipation Symptoms** is another validated symptom measure used in OIC studies, but may be less practical in clinic.
 
-**"Laxative refractory" is the other severity label, and it is the gate to PAMORA therapy.** See [[#Step 2: Laxatives — first-line for every patient]] for the operational criteria.
+**"Laxative refractory" is the other severity label, and it is the gate to peripherally acting μ-opioid receptor antagonist (PAMORA) therapy.** See [[#Step 2: Laxatives — first-line for every patient]] for the operational criteria.
 
 ---
 
@@ -84,7 +84,7 @@ Before attributing constipation to the opioid, explore and exclude other causes 
 
 ## Diagnostics
 
-The diagnosis is **clinical**. [[aga-2019-opioid-induced-constipation]] addresses medical management only — it does not cover the diagnostic evaluation of OIC, psychological therapy, alternative medicine, surgery, or devices, and its diagnostic guidance is narrative rather than graded. The structural and physiologic workup (endoscopy, [[anorectal-manometry|ARM]] + balloon expulsion, transit testing, defecography) lives on [[chronic-constipation]].
+The diagnosis is **clinical**. [[aga-2019-opioid-induced-constipation]] addresses medical management only — it does not cover the diagnostic evaluation of OIC, psychological therapy, alternative medicine, surgery, or devices, and its diagnostic guidance is narrative rather than graded. The structural and physiologic workup (endoscopy, [[anorectal-manometry|anorectal manometry (ARM)]] + balloon expulsion, transit testing, defecography) lives on [[chronic-constipation]].
 
 **History to take in suspected OIC:**
 
@@ -108,7 +108,7 @@ flowchart TD
     B --> C["Exclude other causes:<br/>outlet dysfunction, mechanical obstruction,<br/>metabolic, other drugs/diseases"]
     C --> D["Opioid-directed measures:<br/>opioid switching to an equianalgesic<br/>less-constipating agent<br/>+ lifestyle modification"]
     D --> E["Laxatives — first-line for all<br/>Strong recommendation, moderate quality"]
-    E --> F["Scheduled, not as-needed:<br/>combination of at least 2 laxative classes<br/>e.g. daily osmotic + stimulant 2-3x/week<br/>± rescue if no BM in 48-72 h"]
+    E --> F["Scheduled, not as-needed:<br/>combination of at least 2 laxative classes<br/>e.g. daily osmotic + stimulant 2-3x/week<br/>± rescue if no bowel movement (BM) in 48-72 h"]
     F --> G{"Adequate response?<br/>BFI at or above 30 signals<br/>inadequate response"}
     G -->|Yes| H["Continue laxative regimen"]
     G -->|No| I["Laxative-refractory OIC<br/>→ add a PAMORA"]
@@ -123,7 +123,7 @@ flowchart TD
 
 - **Opioid switching** — change to an **equianalgesic dose of an alternative, less-constipating opioid**.
 - **Oral or parenteral morphine** preparations may induce **more** constipation than **transdermal opioids such as fentanyl**.
-- **Combination opioid agonist/antagonist agents** (e.g. oxycodone + naloxone) are associated with **lower risk of constipation** than pure opioid agonists in chronic pain — but these were not addressed by the technical review or by any graded recommendation, so no AGA position exists on them.
+- **Combination opioid agonist/antagonist agents** (e.g. oxycodone + naloxone) are associated with **lower risk of constipation** than pure opioid agonists in chronic pain — but these were not addressed by the technical review or by any graded recommendation, so no American Gastroenterological Association (AGA) position exists on them.
 
 **Lifestyle modifications are an appropriate first step for all those with constipation:**
 
@@ -139,7 +139,7 @@ Laxatives are very safe, widely available over the counter, and inexpensive — 
 
 | Class | Examples | Mechanism |
 |---|---|---|
-| **Osmotic** | PEG, [[lactulose\|lactulose]], magnesium citrate, magnesium hydroxide | Draw water into intestine to hydrate and soften stool |
+| **Osmotic** | polyethylene glycol (PEG), [[lactulose\|lactulose]], magnesium citrate, magnesium hydroxide | Draw water into intestine to hydrate and soften stool |
 | **Stimulant** | Bisacodyl, sodium picosulfate, senna | Irritate sensory nerve endings to stimulate colonic motility and reduce colonic water absorption |
 | **Detergent / surfactant stool softener** | Docusate | Allow water and lipids to penetrate the stool to hydrate and soften fecal material |
 | **Lubricant** | Mineral oil | Lubricate the lining of the gut to facilitate defecation |
@@ -155,17 +155,17 @@ Laxatives are very safe, widely available over the counter, and inexpensive — 
 - **A combination of at least 2 types of laxatives** before escalating therapy. Worked example given: **daily osmotic laxative + a stimulant laxative at least 2–3 times per week.**
 - **"Inadequate laxative response"** as used in OIC studies = **moderate or severe symptoms of constipation despite laxatives from ≥1 laxative class for a minimum of 4 days over a 2-week period**.
 - **Rescue therapy** in OIC trials was offered when there was **no bowel movement within a specified time, usually 48–72 hours** — most commonly **oral bisacodyl or bisacodyl suppositories**.
-- Strong **RCT-level evidence for any particular laxative combination or titration regimen is lacking**; the above is the panel's favoured approach.
+- Strong **randomized controlled trial (RCT)-level evidence for any particular laxative combination or titration regimen is lacking**; the above is the panel's favoured approach.
 
 *Laxative starting doses and maximums are not printed by this guideline; the dose table for the same agents in chronic idiopathic constipation is on [[chronic-idiopathic-constipation]].*
 
 ### Step 3: PAMORAs for laxative-refractory OIC
 
-[[pamoras|Peripherally acting μ-opioid receptor antagonists]] block gut μ-opioid receptors without entering the CNS, restoring enteric nervous system function — class pharmacology and the individual agents' properties are on that page.
+[[pamoras|Peripherally acting μ-opioid receptor antagonists]] block gut μ-opioid receptors without entering the central nervous system (CNS), restoring enteric nervous system function — class pharmacology and the individual agents' properties are on that page.
 
 | Agent | AGA statement | Strength · quality | Efficacy in the pooled trials | Safety / practical limits |
 |---|---|---|---|---|
-| **Naldemedine** | **2a.** "In patients with laxative refractory OIC, the AGA recommends naldemedine over no treatment." | **Strong · High** | 4 RCTs, >2400 patients. ≥3 SBM/week in **~52%** vs **35%** placebo; **RR 1.51 (95% CI 1.32–1.72)**. At 52 weeks (COMPOSE 3), **~1 more SBM/week** than placebo (0.95 more; 95% CI 0.57–1.33 more) | AEs leading to discontinuation **RR 1.44 (95% CI 1.03–2.03)** — infection, abdominal pain, diarrhea, flatulence, nausea, back pain — but only **2 more per 100 treated** in absolute terms, below the clinically meaningful harm threshold. The **only** prescription agent here with **52-week safety data**. Use may be limited by **cost** |
+| **Naldemedine** | **2a.** "In patients with laxative refractory OIC, the AGA recommends naldemedine over no treatment." | **Strong · High** | 4 RCTs, >2400 patients. ≥3 SBM/week in **~52%** vs **35%** placebo; **risk ratio (RR) 1.51 (95% confidence interval (CI) 1.32–1.72)**. At 52 weeks (COMPOSE 3), **~1 more SBM/week** than placebo (0.95 more; 95% CI 0.57–1.33 more) | adverse events (AEs) leading to discontinuation **RR 1.44 (95% CI 1.03–2.03)** — infection, abdominal pain, diarrhea, flatulence, nausea, back pain — but only **2 more per 100 treated** in absolute terms, below the clinically meaningful harm threshold. The **only** prescription agent here with **52-week safety data**. Use may be limited by **cost** |
 | **Naloxegol** | **2b.** "In patients with laxative refractory OIC, the AGA recommends naloxegol over no treatment." | **Strong · Moderate** | Response (3 SBM/week **and** ≥1 more than baseline, for ≥3 of the final 4 weeks of 12) in **41.9%** vs **29.4%** placebo → **13 more responders per 100 (95% CI 6–21 more)**; **RR 1.43 (95% CI 1.19–1.71)** | Generalized or upper abdominal pain, diarrhea, nausea, headache, flatulence (**RR 2.33; 95% CI 1.62–3.35**). Two deaths in the safety study, **1 in each arm**, neither considered study-drug related. Evidence rated down for imprecision. **Use should be judicious given cost** |
 | **Methylnaltrexone** | **2c.** "In patients with laxative refractory OIC, the AGA suggests methylnaltrexone over no treatment." | **Conditional · Low** | 5 RCTs, but only 3 used **≥3 rescue-free BM/week** (the FDA-recommended outcome) and only 2 studied non-cancer pain. **RR 1.43 (95% CI 1.21–1.68)** = 43% improvement, **16 more patients per 100** achieving the outcome. "Laxation response" (a BM **within 4 hours** of the dose) **RR 3.16 (95% CI 2.18–4.58)** | No statistically significant increase in AEs leading to discontinuation. Quality rated down for **indirectness, inconsistency, imprecision**. **High cost relative to other agents**; the **subcutaneous** formulation may be an advantage in some situations |
 
@@ -177,7 +177,7 @@ Laxatives are very safe, widely available over the counter, and inexpensive — 
 > **3a. In patients with OIC, the AGA makes no recommendation for the use of [[lubiprostone|lubiprostone]].** *No recommendation, evidence gap.*
 > **4a. In patients with OIC, the AGA makes no recommendation for the use of [[prucalopride|prucalopride]].** *No recommendation, evidence gap.*
 
-"No recommendation" is a formal GRADE category here, used when confidence in the effect estimate is so low that any recommendation would be speculative. **It is not a recommendation against the drug** — and it applies to the OIC population specifically; both agents carry positive recommendations in chronic idiopathic constipation, which explicitly excluded OIC patients ([[aga-acg-2023-constipation]]).
+"No recommendation" is a formal Grading of Recommendations Assessment, Development and Evaluation (GRADE) category here, used when confidence in the effect estimate is so low that any recommendation would be speculative. **It is not a recommendation against the drug** — and it applies to the OIC population specifically; both agents carry positive recommendations in chronic idiopathic constipation, which explicitly excluded OIC patients ([[aga-acg-2023-constipation]]).
 
 | Agent | Trial regimen the guideline prints | Result | Why the evidence failed |
 |---|---|---|---|

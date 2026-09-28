@@ -7,7 +7,7 @@ updated: 2026-09-25
 sources: [aga-2024-ibd-endoscopic-scoring, aga-2017-crohns-after-surgical-resection]
 ---
 
-Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) and [[crohns-disease]] (CDEIS, SES-CD, modified Rutgeerts), per the AGA 2024 Clinical Practice Update. They provide objectivity and uniformity of mucosal reporting and are advised for assessing prognosis and treatment efficacy.
+Standardized endoscopic scoring indices for [[ulcerative-colitis|ulcerative colitis (UC)]] (Mayo Endoscopic Subscore [MES], Ulcerative Colitis Endoscopic Index of Severity [UCEIS]) and [[crohns-disease|Crohn's disease (CD)]] (Crohn's Disease Endoscopic Index of Severity [CDEIS], Simple Endoscopic Score for Crohn's Disease [SES-CD], modified Rutgeerts), per the American Gastroenterological Association (AGA) 2024 Clinical Practice Update. They provide objectivity and uniformity of mucosal reporting and are advised for assessing prognosis and treatment efficacy.
 
 ## Contents
 - [[#Overview]]
@@ -26,18 +26,18 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 
 - **Why score:** endoscopic findings at presentation correlate with response to therapy and long-term prognosis; **severe endoscopic findings predict hospitalization and surgery in both UC and CD**. **Mucosal healing** predicts clinical remission, avoidance of surgery, and steroid-free remission.
 - **Clinical–endoscopic dissociation:** as many as **one-half of patients in clinical remission still have endoscopic evidence of active disease** (in SONIC, only half of those in clinical remission had endoscopic healing) — so patients are under- or over-treated when endoscopy is skipped.
-- **STRIDE-II (IOIBD) [[treat-to-target-ibd|treat-to-target]] sequence:** clinical response/remission → biomarker normalization → endoscopic healing. Reducing inflammation matters most **early**, before irreversible injury.
+- **STRIDE-II (Selecting Therapeutic Targets in Inflammatory Bowel Disease; International Organization for the Study of Inflammatory Bowel Disease [IOIBD]) [[treat-to-target-ibd|treat-to-target]] sequence:** clinical response/remission → biomarker normalization → endoscopic healing. Reducing inflammation matters most **early**, before irreversible injury.
 - **Histologic healing is not yet a recommended endpoint** requiring medical-therapy adjustment.
-- **Uptake problem:** MES and SES-CD are used by [[inflammatory-bowel-disease|IBD]] specialists but **not universally by general gastroenterologists** — a problem when grading severity at presentation, judging response to therapy, or transferring care. Interobserver agreement for MES ranges from high to only fair/moderate, and CDEIS agreement for superficial vs deep ulceration is only fair. Dedicated training programs can raise less-experienced endoscopists to expert central-reader level, and endoscopy report writers (e.g. Provation) have the scoring systems built in.
-- **Trial central reading:** readers train via a CRO module, then blindly and independently score videos from the onsite endoscopist; **discordance between onsite endoscopist and central reader triggers a second central reader to adjudicate**. Improves accuracy, adds cost.
+- **Uptake problem:** MES and SES-CD are used by [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] specialists but **not universally by general gastroenterologists** — a problem when grading severity at presentation, judging response to therapy, or transferring care. Interobserver agreement for MES ranges from high to only fair/moderate, and CDEIS agreement for superficial vs deep ulceration is only fair. Dedicated training programs can raise less-experienced endoscopists to expert central-reader level, and endoscopy report writers (e.g. Provation) have the scoring systems built in.
+- **Trial central reading:** readers train via a contract research organization (CRO) module, then blindly and independently score videos from the onsite endoscopist; **discordance between onsite endoscopist and central reader triggers a second central reader to adjudicate**. Improves accuracy, adds cost.
 
 | Disease | Index | Range | Validation |
 |---|---|---|---|
-| [[ulcerative-colitis\|UC]] | MES (Mayo Endoscopic Subscore, 1987) | 0–3 | **Not validated** |
+| [[ulcerative-colitis\|UC]] | MES (1987) | 0–3 | **Not validated** |
 | UC | UCEIS (2012) | 0–8 (simplified) | **Validated** |
 | [[crohns-disease\|CD]] | CDEIS | 0–44 | Partially validated |
 | CD | SES-CD | 0–56 | Partially validated |
-| CD | MM-SES-CD | (weighted) | Prognostic |
+| CD | Modified Multiplier of the SES-CD (MM-SES-CD) | (weighted) | Prognostic |
 | Postoperative CD | Modified Rutgeerts | i0–i4 | — |
 
 ## Mayo Endoscopic Subscore (MES)
@@ -57,7 +57,7 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 
 ## UCEIS
 
-- Ulcerative Colitis Endoscopic Index of Severity — scores **vascular pattern, bleeding, and erosions/ulcerations in the most severely affected part of the colon**; **excludes friability** (unlike MES). **Validated**, with excellent inter-/intraobserver agreement among 7 experienced central readers.
+- UCEIS scores **vascular pattern, bleeding, and erosions/ulcerations in the most severely affected part of the colon**; **excludes friability** (unlike MES). **Validated**, with excellent inter-/intraobserver agreement among 7 experienced central readers.
 - Total = sum of the 3 subscores. Originally an **11-point** score; **simplified to an 8-point** tool (below) with satisfactory interobserver agreement.
 
 | Descriptor | 0 | 1 | 2 | 3 |
@@ -73,7 +73,7 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 
 ## CDEIS
 
-- Crohn's Disease Endoscopic Index of Severity — **range 0–44**. Detailed, assesses global disease; **partially validated**, complex, time-consuming, requires training, not broadly used. **No validated definition of mucosal healing.**
+- CDEIS — **range 0–44**. Detailed, assesses global disease; **partially validated**, complex, time-consuming, requires training, not broadly used. **No validated definition of mucosal healing.**
 - Evaluated across **5 bowel segments: terminal ileum, right colon, transverse colon, left colon, rectum.** (Elsewhere the source lists the 5 segments as rectum; sigmoid and left colon; transverse colon; right colon; ileum.)
 - **Calculation:** values are summed within each segment, then divided by the number of segments evaluated; additional points added for ulcerated and non-ulcerated stenosis.
 
@@ -86,11 +86,11 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 | Ulcerated stenosis | 0 absent / **3** present |
 | Nonulcerated stenosis | 0 absent / **3** present |
 
-- **Reliability (central reading):** intraobserver ICC 0.89 (95% CI 0.86–0.93); interobserver ICC 0.71 (95% CI 0.61–0.79). Agreement for grading superficial vs deep ulceration is only **fair**.
+- **Reliability (central reading):** intraobserver intraclass correlation coefficient (ICC) 0.89 (95% confidence interval [CI] 0.86–0.93); interobserver ICC 0.71 (95% CI 0.61–0.79). Agreement for grading superficial vs deep ulceration is only **fair**.
 
 ## SES-CD
 
-- Simple Endoscopic Score for Crohn's Disease — **range 0–56 points**, a simplified version of CDEIS; **partially validated**, highly correlated with CDEIS for grading and responsiveness to change.
+- SES-CD — **range 0–56 points**, a simplified version of CDEIS; **partially validated**, highly correlated with CDEIS for grading and responsiveness to change.
 - Four variables scored **0–3 in each of the 5 ileocolonic segments** (size of ulcers, degree of ulcerated surface, affected surface, narrowing).
 
 | Variable | 0 | 1 | 2 | 3 |
@@ -148,11 +148,11 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 
 ## Emerging Indices
 
-- **Virtual chromoendoscopy (VCE) platforms** named by the Update: **NBI** (Olympus), **optical enhancement iSCAN-OE** (Pentax), **FICE / LASEREO** with linked-color imaging and blue-laser imaging (Fujinon).
+- **Virtual chromoendoscopy (VCE) platforms** named by the Update: **narrow-band imaging (NBI)** (Olympus), **optical enhancement iSCAN-OE** (Pentax), **flexible imaging color enhancement (FICE) / LASEREO** with linked-color imaging and blue-laser imaging (Fujinon).
 - **PICaSSO** (Paddington International Virtual Chromoendoscopy Score): scores **mucosal changes** (elongated crypts, scars, micro-erosions, ulcers) and **vascular changes** (sparse vessels, vessel dilation, crowding, bleeding); **range 0–15**, **endoscopic remission ≤3**. Strong correlation with 5 histological scores; PICaSSO remission **not inferior** to combined endoscopy + histology for predicting clinical outcomes.
 - **Endocytoscopy and probe-based [[confocal-laser-endomicroscopy]]:** ultra-structural characterization predicting outcomes, but interpretation is subjective and needs high expertise/specialized equipment (referral centers only).
 - **[[artificial-intelligence-endoscopy|Artificial intelligence]]:** used to grade UC activity/extent; reduces practice variability and improves endoscopy quality — more studies needed.
-- **Transmural healing** endpoints explored via [[intestinal-ultrasound]] and [[mri-mrcp|MRI]] (MaRIA score).
+- **Transmural healing** endpoints explored via [[intestinal-ultrasound]] and [[mri-mrcp|magnetic resonance imaging (MRI)]] (MaRIA score).
 - ⚠ **Pouch endoscopic indices are not covered** by this Update — see [[aga-2024-pouchitis]] / [[pouchitis]] for pouch-specific scoring.
 
 ## See Also

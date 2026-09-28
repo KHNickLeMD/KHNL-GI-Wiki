@@ -15,11 +15,11 @@ sources: []
 - **DOI:** [10.1016/j.cgh.2019.07.011](https://doi.org/10.1016/j.cgh.2019.07.011)
 - **Type:** guideline (AGA Institute Clinical Practice Update — **Expert Review**)
 
-**Scope and evidence basis (as stated by the document).** Purpose: "to define key principles in the surveillance of hepatobiliary cancers including cholangiocarcinoma, gallbladder adenocarcinoma, and hepatocellular carcinoma in patients with primary sclerosing cholangitis (PSC)." Methods: "The recommendations outlined in this expert review are based on available published evidence including observational studies and systematic reviews, and incorporates expert opinion where applicable." Commissioned and approved by the AGA Institute Clinical Practice Updates Committee and the AGA Governing Board; internal CPUC peer review plus external peer review.
+**Scope and evidence basis (as stated by the document).** Purpose: "to define key principles in the surveillance of hepatobiliary cancers including cholangiocarcinoma, gallbladder adenocarcinoma, and hepatocellular carcinoma in patients with primary sclerosing cholangitis (PSC)." Methods: "The recommendations outlined in this expert review are based on available published evidence including observational studies and systematic reviews, and incorporates expert opinion where applicable." Commissioned and approved by the American Gastroenterological Association (AGA) Institute Clinical Practice Updates Committee (CPUC) and the AGA Governing Board; internal CPUC peer review plus external peer review.
 
-**No evidence grading and no recommendation numbering beyond the eight Best Practice Advice statements.** This Expert Review assigns **no GRADE ratings, no strength-of-recommendation labels, and no quality-of-evidence labels** to any statement. The eight statements are labelled "Best Practice Advice 1" through "Best Practice Advice 8" by the document itself; nothing else in the paper is numbered as a recommendation.
+**No evidence grading and no recommendation numbering beyond the eight Best Practice Advice statements.** This Expert Review assigns **no Grading of Recommendations Assessment, Development and Evaluation (GRADE) ratings, no strength-of-recommendation labels, and no quality-of-evidence labels** to any statement. The eight statements are labelled "Best Practice Advice 1" through "Best Practice Advice 8" by the document itself; nothing else in the paper is numbered as a recommendation.
 
-**What this update does not cover.** It addresses hepatobiliary cancers only. It notes that PSC "significantly increases the risk of colon cancer to greater than that of IBD alone" but gives **no colorectal surveillance interval, starting age, or technique** — for colorectal surveillance in PSC-IBD see [[aasld-2022-psc]].
+**What this update does not cover.** It addresses hepatobiliary cancers only. It notes that PSC "significantly increases the risk of colon cancer to greater than that of IBD [inflammatory bowel disease] alone" but gives **no colorectal surveillance interval, starting age, or technique** — for colorectal surveillance in PSC-IBD see [[aasld-2022-psc]].
 
 ## Contents
 - [[#Best Practice Advice (verbatim)]]
@@ -55,9 +55,9 @@ sources: []
 
 ## Summary
 
-An AGA Expert Review of surveillance for the three hepatobiliary malignancies that complicate [[primary-sclerosing-cholangitis|PSC]]: [[cholangiocarcinoma|cholangiocarcinoma (CCA)]], [[gallbladder-cancer|gallbladder adenocarcinoma]], and [[hepatocellular-carcinoma|HCC]]. Its central problem is that no level-1 evidence exists for CCA surveillance in PSC and no validated risk-stratification tool exists, so the eight advice statements are explicitly framed as "a reference point for clinicians to gauge their practice."
+An AGA Expert Review of surveillance for the three hepatobiliary malignancies that complicate [[primary-sclerosing-cholangitis|PSC]]: [[cholangiocarcinoma|cholangiocarcinoma (CCA)]], [[gallbladder-cancer|gallbladder adenocarcinoma]], and [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]]. Its central problem is that no level-1 evidence exists for CCA surveillance in PSC and no validated risk-stratification tool exists, so the eight advice statements are explicitly framed as "a reference point for clinicians to gauge their practice."
 
-The operative content is the shape of the surveillance program: **cross-sectional imaging (US, CT, or MRI) with or without CA 19-9 every 6 to 12 months in every adult with large-duct PSC**, independent of disease stage, with MRI the modality "preferred by many experts" because of superior sensitivity over US. Two populations are excluded outright — **small-duct PSC and age <20 years** — because CCA is vanishingly rare in both. [[ercp|ERCP]] is not a surveillance test; it is the response to a surveillance abnormality (a dominant stricture, a mass, worsening cholestasis, or a rising CA 19-9), where [[brush-cytology|brush cytology]] ± [[fish|FISH]] and/or [[cholangioscopy]] are then used.
+The operative content is the shape of the surveillance program: **cross-sectional imaging (ultrasound [US], computed tomography [CT], or magnetic resonance imaging [MRI]) with or without CA 19-9 every 6 to 12 months in every adult with large-duct PSC**, independent of disease stage, with MRI the modality "preferred by many experts" because of superior sensitivity over US. Two populations are excluded outright — **small-duct PSC and age <20 years** — because CCA is vanishingly rare in both. [[ercp|Endoscopic retrograde cholangiopancreatography (ERCP)]] is not a surveillance test; it is the response to a surveillance abnormality (a dominant stricture, a mass, worsening cholestasis, or a rising CA 19-9), where [[brush-cytology|brush cytology]] ± [[fish|fluorescence in situ hybridization (FISH)]] and/or [[cholangioscopy]] are then used.
 
 For the gallbladder, the update converts a size threshold into a decision: the risk of cancer rises in **polyps >8 mm**, and cholecystectomy is decided on polyp size *and* growth *and* the patient's clinical status — because PSC patients tolerate cholecystectomy poorly (40% early postoperative complications in one series, worst with advanced liver disease). For HCC it confines surveillance to **PSC with [[cirrhosis]]**, at the standard 6-month interval, while noting HCC has never been shown to be common in PSC cirrhosis.
 
@@ -68,11 +68,11 @@ The update is candid about competing risks: the same patient may be progressing 
 ### Cholangiocarcinoma — epidemiology and risk factors
 
 - PSC prevalence 4.15–13.6 per 100,000 (United States), up to 16.2 per 100,000 globally; highest in Scandinavia and northern Europe.
-- Median time from diagnosis to death or [[liver-transplantation|LT]]: **9–18 years** in transplant centers vs **21.3 years** in nontransplant centers.
+- Median time from diagnosis to death or [[liver-transplantation|liver transplantation (LT)]]: **9–18 years** in transplant centers vs **21.3 years** in nontransplant centers.
 - [[inflammatory-bowel-disease|IBD]] present in approximately **two thirds** of PSC patients.
 - CCA annual risk **0.5%–1.0%**; 10-year cumulative incidence **6%–11%**, 30-year **20%**; **400-fold** the risk of the general population.
 - **27%–37% of incident CCAs are detected within 1 year of the PSC diagnosis** — the highest incidence is in the first year, but this accounts for fewer than half of all cases.
-- Reported frequency of CCA in PSC ranges **4%–36%** across cohorts. Pooled adult cohorts not limited to transplant recipients: 531 of 6591 (**8%**; 95% CI 7%–9%), median follow-up 2.5–13 years. International PSC Study Group: 821 of 7120 (**8%**; 95% CI 7%–9%), incidence **1.25 per 100 patient-years** (95% CI 0.90–1.60) among large-duct PSC.
+- Reported frequency of CCA in PSC ranges **4%–36%** across cohorts. Pooled adult cohorts not limited to transplant recipients: 531 of 6591 (**8%**; 95% confidence interval [CI] 7%–9%), median follow-up 2.5–13 years. International PSC Study Group: 821 of 7120 (**8%**; 95% CI 7%–9%), incidence **1.25 per 100 patient-years** (95% CI 0.90–1.60) among large-duct PSC.
 - Prevalence of hepatobiliary malignancy (primarily CCA) in that cohort: **7%, 11%, 16%, 22% at 5, 10, 15, and 20 years**.
 - Risk factors: **age, sex, and IBD status**.
   - Age <20 years: **1.2 per 100 patient-years** vs **21.0 per 100 patient-years** at age >60.
@@ -80,7 +80,7 @@ The update is candid about competing risks: the same patient may be progressing 
   - Women lower than men (**0.90 vs 1.28 per 100 patient-years**).
 - Special populations: post-transplant CCA rate reported **9%–36%** among patients undergoing LT; pediatric PSC **8 of 781 (1%)**; small-duct PSC — rare, **no cases in 254 patients**; African American PSC (193 patients, multicenter) incidence **0.55 per 100 person-years** (95% CI 0.26–1.16).
 - Benefit of surveillance (observational): in a large PSC population, regular surveillance was associated with higher 5-year survival than no regular surveillance — **68% vs 20%** (the paper prints *P* < .0061).
-- EASL clinical guidelines are cited as recommending that **biliary dysplasia detected with brush cytology represents a possible indication for liver transplantation**.
+- European Association for the Study of the Liver (EASL) clinical guidelines are cited as recommending that **biliary dysplasia detected with brush cytology represents a possible indication for liver transplantation**.
 
 ### Surveillance modality performance
 
@@ -111,7 +111,7 @@ The update is candid about competing risks: the same patient may be progressing 
 ### Dominant stricture — definition and sampling
 
 - **Dominant stricture** (strict definition, by ERCP): a stenosis with a diameter **≤1.5 mm in the common bile duct** and/or **≤1.0 mm in a hepatic duct within 2 cm of the main hepatic confluence**. The figure legend extends the working definition to include **strictures in these ducts associated with evidence of worsening cholestasis**.
-- Typically refers to strictures of the CBD and the right and left confluence of the hepatic ducts. The update states that the clinical relevance of these strict criteria compared with strictures of the common bile or hepatic ducts "is unclear."
+- Typically refers to strictures of the common bile duct (CBD) and the right and left confluence of the hepatic ducts. The update states that the clinical relevance of these strict criteria compared with strictures of the common bile or hepatic ducts "is unclear."
 - **6.2% to 26.3% of PSC patients with a dominant stricture will be diagnosed with CCA** over a 6.2- to 9.8-year follow-up period.
 - Benign and malignant strictures can look the same on imaging → maintain a high index of suspicion in any patient with **worsening cholestasis plus a stricture of the CBD and/or right, left, or confluence of hepatic ducts**; direct sampling should be considered to rule out CCA.
 - Triggers to move from surveillance to ERCP evaluation: increasing cholestatic biochemistries, [[jaundice]], fever, right-upper-quadrant pain, or pruritus — such patients "no longer fit within the paradigm of cholangiocarcinoma surveillance."
@@ -121,7 +121,7 @@ The update is candid about competing risks: the same patient may be progressing 
 - **[[brush-cytology|Bile duct brushings]]:** specific (**84%–89%**) but insensitive (**8%–100%** across studies, limiting performance as a screening tool); recent meta-analysis **43% sensitive, 97% specific**.
 - **[[fish|FISH]]** on brushings (DNA probes for aneuploidy and polysomy) raises overall sensitivity of standard cytology to **64%–68%**, specificity **70%–94%**.
 - **[[cholangioscopy]]:** can differentiate IgG4-related sclerosing cholangitis from PSC; in a prospective study of 47 PSC patients, **4 target lesions could not have been reached without cholangioscopic visualization** of the bile duct. Despite similar sensitivity/specificity/accuracy for cancer diagnosis in PSC and non-PSC patients, **cannulation failure with cholangioscopy is more frequent in PSC (15% vs 2% in controls; *P* = .015)**.
-- [[endoscopic-ultrasound|EUS]] and intraductal ultrasonography may also be used to direct biopsy sampling.
+- [[endoscopic-ultrasound|Endoscopic ultrasound (EUS)]] and intraductal ultrasonography may also be used to direct biopsy sampling.
 - **Fine-needle aspiration through any imaging modality should be pursued with great caution in transplant candidates because of the risk of tumor seeding.**
 
 ### Gallbladder polyps and gallbladder cancer
@@ -138,13 +138,13 @@ The update is candid about competing risks: the same patient may be progressing 
 - Size–histology relationship in that small series: **polyps <0.8 cm contained no dysplasia**, and **lesions <1.2 cm contained no carcinoma**. Pooled with other literature (52 cases), a **0.8-cm cut-off for any lesion found on US gave sensitivity 96% and specificity 53% for neoplasia detection**.
 - **Annual US screening** is advised for gallbladder mass lesions, because of high malignancy risk in gallbladder mass lesions and 5%–10% 5-year survival.
 - Surgical risk: **40% of PSC patients in one series had early postoperative complications after cholecystectomy, especially with more severe liver disease.**
-- Society divergence documented by the update: EASL and AASLD PSC guidelines recommend cholecystectomy in PSC **regardless of gallbladder lesion size**; ACG suggests cholecystectomy for **polyps >8 mm**; other societies concluded data are insufficient to support cholecystectomy in all PSC patients with gallbladder polyps. "Guidelines should be applied cautiously to individual circumstances, and with consideration of benefits and risks."
+- Society divergence documented by the update: EASL and American Association for the Study of Liver Diseases (AASLD) PSC guidelines recommend cholecystectomy in PSC **regardless of gallbladder lesion size**; the American College of Gastroenterology (ACG) suggests cholecystectomy for **polyps >8 mm**; other societies concluded data are insufficient to support cholecystectomy in all PSC patients with gallbladder polyps. "Guidelines should be applied cautiously to individual circumstances, and with consideration of benefits and risks."
 
 ### Hepatocellular carcinoma
 
 - HCC "appears to be relatively rare in PSC," but once **cirrhosis** develops the risk may resemble other causes of cirrhosis; existing studies have not specifically examined HCC risk in PSC cirrhosis.
 - Retrospective 2-center study: **119 PSC patients with cirrhosis, 292 patient-years of follow-up — no HCC identified**, with an **upper limit of the 95% CI for instantaneous HCC risk of 1.03%**.
-- Current PSC guidelines do not address HCC surveillance; HCC guidelines recommend surveillance for all patients with cirrhosis regardless of etiology → **US, CT, or MRI ± α-fetoprotein every 6 months** in PSC with cirrhosis.
+- Current PSC guidelines do not address HCC surveillance; HCC guidelines recommend surveillance for all patients with cirrhosis regardless of etiology → **US, CT, or MRI ± α-fetoprotein (AFP) every 6 months** in PSC with cirrhosis.
 
 ### Surveillance algorithm (Figure 1)
 

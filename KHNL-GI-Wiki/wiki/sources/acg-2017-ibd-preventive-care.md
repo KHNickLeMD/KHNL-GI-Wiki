@@ -7,7 +7,7 @@ updated: 2026-06-14
 sources: []
 ---
 
-> ⚠ **Historical / superseded source.** Captured for landmark and historical reference. Superseded by [[acg-2025-ibd-preventive-care|ACG 2025: Preventive Care in Inflammatory Bowel Disease]]. Use the 2025 update for current vaccine schedules (e.g., recombinant zoster vaccine, updated pneumococcal and HPV guidance) and screening recommendations; this 2017 page is retained additively and should not override newer content.
+> ⚠ **Historical / superseded source.** Captured for landmark and historical reference. Superseded by [[acg-2025-ibd-preventive-care|ACG 2025: Preventive Care in Inflammatory Bowel Disease]]. Use the 2025 update for current vaccine schedules (e.g., recombinant zoster vaccine, updated pneumococcal and human papillomavirus (HPV) guidance) and screening recommendations; this 2017 page is retained additively and should not override newer content.
 
 ## Bibliographic Info
 - **Article:** [Farraye FA, Melmed GY, Lichtenstein GR, Kane SV. ACG Clinical Guideline: Preventive Care in Inflammatory Bowel Disease. Am J Gastroenterol 2017;112:241–258.](https://doi.org/10.1038/ajg.2016.537)
@@ -15,12 +15,12 @@ sources: []
 - **Year:** 2017 (published online 10 January 2017)
 - **Journal/Publisher:** American Journal of Gastroenterology
 - **DOI:** [10.1038/ajg.2016.537](https://doi.org/10.1038/ajg.2016.537)
-- **Type:** guideline (ACG; GRADE methodology)
+- **Type:** guideline (American College of Gastroenterology [ACG]; Grading of Recommendations Assessment, Development and Evaluation [GRADE] methodology)
 
 ## Summary
-This was the first ACG clinical guideline dedicated to preventive care / health maintenance in adults with [[inflammatory-bowel-disease|IBD]], built on the premise that IBD patients often regard their gastroenterologist as their de facto primary care provider yet receive preventive services at lower rates than the general population. It frames vaccination as the responsibility of the treating gastroenterologist (delivery may be shared with primary care) and stresses completing vaccinations — especially live vaccines — *before* starting immunosuppression where possible.
+This was the first ACG clinical guideline dedicated to preventive care / health maintenance in adults with [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], built on the premise that IBD patients often regard their gastroenterologist as their de facto primary care provider yet receive preventive services at lower rates than the general population. It frames vaccination as the responsibility of the treating gastroenterologist (delivery may be shared with primary care) and stresses completing vaccinations — especially live vaccines — *before* starting immunosuppression where possible.
 
-The guideline covers six domains: vaccinations (influenza, pneumococcal, herpes zoster, varicella, yellow fever, meningococcal, Tdap/HAV/HBV/HPV, and household-contact considerations), cervical cancer screening, skin cancer screening (melanoma independent of biologic use; non-melanoma skin cancer on thiopurines), screening for depression and anxiety, osteoporosis screening with bone mineral density testing, and smoking cessation (emphasized in [[crohns-disease|Crohn's disease]]). Colorectal dysplasia surveillance was explicitly out of scope.
+The guideline covers six domains: vaccinations (influenza, pneumococcal, herpes zoster, varicella, yellow fever, meningococcal, tetanus, diphtheria, and acellular pertussis (Tdap)/hepatitis A virus (HAV)/hepatitis B virus (HBV)/HPV, and household-contact considerations), cervical cancer screening, skin cancer screening (melanoma independent of biologic use; non-melanoma skin cancer (NMSC) on thiopurines), screening for depression and anxiety, osteoporosis screening with bone mineral density testing, and smoking cessation (emphasized in [[crohns-disease|Crohn's disease (CD)]]). Colorectal dysplasia surveillance was explicitly out of scope.
 
 Nearly all recommendations were *conditional* with *very low / low* quality of evidence, reflecting the sparse trial base in this area at the time. The 2025 update ([[acg-2025-ibd-preventive-care]]) supersedes the specific vaccine products and schedules (notably the shift to recombinant/adjuvanted zoster vaccine and updated pneumococcal sequencing) and should be used for current practice.
 
@@ -29,7 +29,7 @@ All 14 recommendation statements (with sub-parts) captured near-verbatim, with G
 
 1a. All adult patients with IBD should undergo annual vaccination against influenza. *(Conditional; very low.)*
 1b. Those on immunosuppressive therapies and their household contacts should receive the non-live trivalent inactivated influenza vaccine, but not the live inhaled influenza vaccine. *(Conditional; very low.)*
-2. Adult patients with IBD receiving immunosuppressive therapy should receive pneumococcal vaccination with both the PCV13 and PPSV23, in accordance with national guidelines. *(Conditional; very low.)*
+2. Adult patients with IBD receiving immunosuppressive therapy should receive pneumococcal vaccination with both the PCV13 [13-valent pneumococcal conjugate vaccine] and PPSV23 [23-valent pneumococcal polysaccharide vaccine], in accordance with national guidelines. *(Conditional; very low.)*
 3. Adults with IBD over the age of 50 should consider vaccination against herpes zoster, including certain subgroups of immunosuppressed patients. *(Strong; low.)*
 4. Adults with IBD should be assessed for prior exposure to varicella and vaccinated if naive before initiation of immunosuppressive therapy when possible. *(Conditional; very low.)*
 5. Patients with IBD who are immunosuppressed and traveling to endemic areas for yellow fever should consult with a travel medicine or infectious disease specialist prior to travel. *(Conditional; very low.)*

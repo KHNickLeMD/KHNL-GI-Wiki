@@ -24,7 +24,7 @@ sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2
 
 ### Establishing the Diagnosis (KDIGO Criteria)
 
-AKI is diagnosed when **any one** of the following is met:
+Acute kidney injury (AKI) is diagnosed when **any one** of the following is met:
 
 - Serum creatinine (SCr) increases **≥0.3 mg/dL within 48 hours**, OR
 - SCr increases **≥50% (1.5×) from baseline** (presumed within 7 days), OR
@@ -32,13 +32,13 @@ AKI is diagnosed when **any one** of the following is met:
 
 **Baseline SCr:** use the most recent value within the prior 3 months when no value is available within the prior 7 days.
 
-**Caveat in [[cirrhosis]]:** SCr systematically underestimates the degree of GFR reduction due to reduced muscle mass, impaired hepatic creatine synthesis, female sex, and hyperbilirubinemia (interferes with colorimetric assay). A "normal" SCr in cirrhosis may mask significant renal impairment.
+**Caveat in [[cirrhosis]]:** SCr systematically underestimates the degree of glomerular filtration rate (GFR) reduction due to reduced muscle mass, impaired hepatic creatine synthesis, female sex, and hyperbilirubinemia (interferes with colorimetric assay). A "normal" SCr in cirrhosis may mask significant renal impairment.
 
 **Epidemiology:** AKI occurs in ~47% of hospitalized patients with cirrhosis complications and ~30% of outpatients with cirrhosis. It carries a 7-fold increase in morbidity and mortality.
 
 ### Severity Assessment (ICA-AKI Staging)
 
-Staging as printed by [[aga-2022-aki-cirrhosis]] (Figure 1 legend). Note that Stage 1 is bounded by a **multiple of baseline**, while the 1a/1b split turns on an **absolute** creatinine value — the two are different kinds of threshold and both are needed to stage:
+International Club of Ascites (ICA) staging as printed by [[aga-2022-aki-cirrhosis]] (Figure 1 legend). Note that Stage 1 is bounded by a **multiple of baseline**, while the 1a/1b split turns on an **absolute** creatinine value — the two are different kinds of threshold and both are needed to stage:
 
 | Stage | Serum Creatinine Threshold |
 |---|---|
@@ -48,22 +48,22 @@ Staging as printed by [[aga-2022-aki-cirrhosis]] (Figure 1 legend). Note that St
 | Stage 2 | SCr **2–3× baseline** |
 | Stage 3 | SCr **>3× baseline** |
 
-- **Vasoconstrictor eligibility — the operative rule:** SCr **>1.5 mg/dL (Stage 1b)**, **or** SCr **≥2× baseline (Stage 2–3)**, **and** remaining above that level **despite 2 days of risk-factor management**, **and** meeting HRS-AKI criteria. **Stage 1a** (SCr ≤1.5 mg/dL) does **not** qualify.
+- **Vasoconstrictor eligibility — the operative rule:** SCr **>1.5 mg/dL (Stage 1b)**, **or** SCr **≥2× baseline (Stage 2–3)**, **and** remaining above that level **despite 2 days of risk-factor management**, **and** meeting hepatorenal syndrome–acute kidney injury (HRS-AKI) criteria. **Stage 1a** (SCr ≤1.5 mg/dL) does **not** qualify.
   - ⚠ **The source is internally loose here and is easy to misread.** [[aga-2022-aki-cirrhosis]] (Figure 1 legend) first writes that "in patients with stage 1 AKI … vasoconstrictor agents are not currently indicated," then in the next sentence makes **Stage 1b** an indication ("When the serum creatinine has increased >1.5 mg/dL (Stage 1b), or to 2 times baseline value (stage 2) … vasoconstrictor agents are indicated"). Read literally the two sentences conflict, because 1b *is* Stage 1. The reconciliation the figure intends — and what this page asserts — is that the exclusion applies to **Stage 1a only**. A "Stage 1" label alone is therefore not enough to decide; **you must know the absolute creatinine.**
 - **Response definitions:** complete response = SCr returns to **<0.3 mg/dL above baseline**; partial response = SCr falls but stays **>0.3 mg/dL above baseline**.
 - Vasoconstrictor therapy should be started early — higher pre-treatment SCr is associated with treatment failure; every 1 mg/dL reduction in SCr is associated with a 27% relative risk reduction in mortality.
 
 ### Classification / Typing
 
-**Pathophysiology common to all types:** Splanchnic vasodilatation in cirrhosis reduces effective arterial blood volume, activating the RAAS, sympathetic nervous system, and vasopressin — causing renal sodium retention, free-water excretion impairment, and renal vasoconstriction.
+**Pathophysiology common to all types:** Splanchnic vasodilatation in cirrhosis reduces effective arterial blood volume, activating the renin-angiotensin-aldosterone system (RAAS), sympathetic nervous system, and vasopressin — causing renal sodium retention, free-water excretion impairment, and renal vasoconstriction.
 
 #### Updated ICA Nomenclature (replaces HRS Type 1 / Type 2)
 
 | Old Term | New Term | Definition |
 |---|---|---|
-| HRS Type 1 | **HRS-AKI** | Acute functional renal failure meeting AKI criteria, no response to 2-day [[albumin]] challenge |
-| HRS Type 2 | **HRS-NAKI / HRS-AKD** | Functional renal failure of <3 months, not meeting AKI criteria (eGFR <60 mL/min or SCr >1.5× baseline within 3 months) |
-| — | **HRS-CKD** | eGFR <60 mL/min for ≥3 months |
+| Hepatorenal syndrome (HRS) Type 1 | **HRS-AKI** | Acute functional renal failure meeting AKI criteria, no response to 2-day [[albumin]] challenge |
+| HRS Type 2 | **HRS–nonacute kidney injury (HRS-NAKI) / HRS–acute kidney disease (HRS-AKD)** | Functional renal failure of <3 months, not meeting AKI criteria (estimated glomerular filtration rate (eGFR) <60 mL/min or SCr >1.5× baseline within 3 months) |
+| — | **HRS–chronic kidney disease (HRS-CKD)** | eGFR <60 mL/min for ≥3 months |
 
 #### Types of AKI in Cirrhosis
 
@@ -79,26 +79,26 @@ Staging as printed by [[aga-2022-aki-cirrhosis]] (Figure 1 legend). Note that St
 All of the following must be present:
 
 1. Cirrhosis with [[ascites]]
-2. AKI by KDIGO criteria (SCr ≥0.3 mg/dL in 48h OR ≥1.5× baseline in 7 days)
+2. AKI by Kidney Disease: Improving Global Outcomes (KDIGO) criteria (SCr ≥0.3 mg/dL in 48h OR ≥1.5× baseline in 7 days)
 3. No response to 2-day albumin volume challenge — **20%–25% albumin, 1 g/kg/d** (max 100 g/d) — after diuretic withdrawal
 4. Absence of shock
-5. No current or recent nephrotoxic drug use (NSAIDs, contrast, aminoglycosides, ACEi/ARB)
+5. No current or recent nephrotoxic drug use (nonsteroidal anti-inflammatory drugs (NSAIDs), contrast, aminoglycosides, angiotensin-converting enzyme inhibitors (ACEi)/angiotensin receptor blockers (ARB))
 6. No markers of structural kidney injury:
    - Proteinuria <500 mg/day
-   - Hematuria <50 RBCs/HPF
+   - Hematuria <50 red blood cells (RBCs)/high-power field (HPF)
    - Normal renal ultrasound
 
 ---
 
 ## Differential Diagnosis
 
-*Workup: see [[ascites]] for the diagnostic-paracentesis/SBP evaluation that precedes the AKI workup in cirrhosis.*
+*Workup: see [[ascites]] for the diagnostic-paracentesis/spontaneous bacterial peritonitis (SBP) evaluation that precedes the AKI workup in cirrhosis.*
 
-- **Hypovolemic/pre-renal AKI** — diarrhea ([[lactulose]] excess), GI bleeding, over-diuresis, large-volume paracentesis without albumin replacement
+- **Hypovolemic/pre-renal AKI** — diarrhea ([[lactulose]] excess), gastrointestinal (GI) bleeding, over-diuresis, large-volume paracentesis without albumin replacement
 - **HRS-AKI** — functional; triggered by [[spontaneous-bacterial-peritonitis|SBP]] (most common precipitant), other infections, GI bleeding, large-volume paracentesis
-- **ATN** — sepsis, nephrotoxin exposure (NSAIDs, aminoglycosides, IV contrast, ACEi/ARB), ischemic injury
+- **ATN** — sepsis, nephrotoxin exposure (NSAIDs, aminoglycosides, intravenous (IV) contrast, ACEi/ARB), ischemic injury
 - **Post-renal obstruction** — rare in cirrhosis; consider if bilateral obstruction
-- **Intrinsic renal disease** — IgA nephropathy (in [[alcohol-associated-liver-disease]]), membranoproliferative GN (in [[chronic-hepatitis-b]])
+- **Intrinsic renal disease** — IgA nephropathy (in [[alcohol-associated-liver-disease]]), membranoproliferative glomerulonephritis (in [[chronic-hepatitis-b]])
 - **[[acute-on-chronic-liver-failure|Acute-on-chronic liver failure (ACLF)]]** with multi-organ failure — AKI is a component
 
 ---
@@ -124,8 +124,8 @@ All of the following must be present:
 |---|---|---|---|
 | Urine microscopy | Bland (no casts) | Muddy brown casts, renal tubular epithelial cells | Bland or hyaline casts |
 | Urine Na | <10 mEq/L (may be higher post-diuretics) | >20 mEq/L | <10 mEq/L |
-| FENa | <1% | >1% | <1% |
-| FEUrea | <28.16% | >28.16% | <28.16% |
+| Fractional excretion of sodium (FENa) | <1% | >1% | <1% |
+| Fractional excretion of urea (FEUrea) | <28.16% | >28.16% | <28.16% |
 
 **FENa caveats in cirrhosis:** Sensitivity 100% but specificity only 14% for pre-renal causes — avid sodium retention in cirrhosis makes FENa unreliable as a discriminatory test.
 
@@ -135,11 +135,11 @@ All of the following must be present:
 
 - **NGAL (neutrophil gelatinase-associated lipocalin):** most studied; urinary NGAL levels in HRS-AKI are much lower than in ATN (even in non-responders to therapy); cutoff 220–244 mcg/g creatinine differentiates ATN from HRS/pre-renal; not widely available clinically in the US
 - **Cystatin C:** more accurate GFR estimation than SCr alone; less affected by muscle mass and age; combination of cystatin C + creatinine has least bias for GFR estimation in cirrhosis
-- **Other tubular injury markers:** KIM-1, N-acetyl-beta-D-glucosaminidase (NAG), alpha-GST, IL-18, alpha1-microglobulin, beta2-microglobulin, retinol binding protein — elevated markers increase probability of ATN
+- **Other tubular injury markers:** kidney injury molecule-1 (KIM-1), N-acetyl-beta-D-glucosaminidase (NAG), alpha-glutathione S-transferase (alpha-GST), interleukin-18 (IL-18), alpha1-microglobulin, beta2-microglobulin, retinol binding protein — elevated markers increase probability of ATN
 
 ### Imaging
 
-- **Renal ultrasound:** assess for obstruction and structural disease (small echogenic kidneys suggest structural/CKD); post-renal obstruction uncommon in cirrhosis — routine pelvic US usually unnecessary
+- **Renal ultrasound:** assess for obstruction and structural disease (small echogenic kidneys suggest structural/chronic kidney disease (CKD)); post-renal obstruction uncommon in cirrhosis — routine pelvic ultrasound usually unnecessary
 
 ### Volume Challenge (Diagnostic and Therapeutic)
 
@@ -166,11 +166,11 @@ All of the following must be present:
 3. **Treat the precipitating cause** (antibiotics for infection, control of bleeding)
 4. **Fluid resuscitation:** replace documented losses; for GI bleeding maintain hemoglobin ≥8 g/dL; avoid overtransfusion
 5. If SCr has **doubled from baseline:** albumin 1 g/kg/d for 2 days (max 100 g/d)
-6. Monitor fluid status with urine output, vitals, echocardiography or CVP (if pre-existing central line) — **watch for pulmonary edema**
+6. Monitor fluid status with urine output, vitals, echocardiography or central venous pressure (CVP) (if pre-existing central line) — **watch for pulmonary edema**
 
 ### HRS-AKI Treatment — Pharmacological (BPA 6)
 
-**Indication:** SCr remains **>1.5 mg/dL (Stage 1b) or ≥2× baseline (Stage 2–3)** despite initial management (BPA 5) for 2 days **AND** HRS-AKI criteria are met — full eligibility rule and the source's internal ambiguity under [[#Severity Assessment (ICA-AKI Staging)]].
+**Indication:** SCr remains **>1.5 mg/dL (Stage 1b) or ≥2× baseline (Stage 2–3)** despite initial management (Best Practice Advice [BPA] 5) for 2 days **AND** HRS-AKI criteria are met — full eligibility rule and the source's internal ambiguity under [[#Severity Assessment (ICA-AKI Staging)]].
 
 **Albumin regimen:**
 
@@ -188,31 +188,31 @@ Vasopressin V1 receptor analog; reverses splanchnic vasodilatation.
 - **Bolus dosing:**
   - Start: **1 mg IV q4–6h** (total 4–6 mg/day)
   - Escalate to **2 mg IV q4–6h** (total 8–12 mg/day) if SCr has not decreased ≥25% from baseline by **day 3**
-- **Continuous infusion — [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 6.19 makes this the *preferred* route:** *"Terlipressin should preferably be administered as continuous intravenous infusion (**starting dose 2–3 mg/24 hours**) to reduce the incidence of adverse events"* (LoE 2, strong, new)
-  - Start: **2–3 mg/24 h** IV continuous infusion (AGA 2024 gives the lower bound, 2 mg/day)
+- **Continuous infusion — [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 6.19 makes this the *preferred* route:** *"Terlipressin should preferably be administered as continuous intravenous infusion (**starting dose 2–3 mg/24 hours**) to reduce the incidence of adverse events"* (level of evidence [LoE] 2, strong, new)
+  - Start: **2–3 mg/24 h** IV continuous infusion (American Gastroenterological Association [AGA] 2024 gives the lower bound, 2 mg/day)
   - Titrate every 24–48 hours up to maximum **12 mg/day**
   - Lower total daily dose with similar efficacy; fewer ischemic side effects
   - ⚠ **Route preference is the change.** [[aga-2022-aki-cirrhosis|AGA 2022]] BPA 7 and the FDA label both frame bolus dosing as standard with infusion as an alternative; Baveno VIII inverts that, on the adverse-event argument
 - **FDA-approved US schedule (CONFIRM):** 1 mg IV **q6h**, increased to **2 mg q6h on day 4** if response is insufficient (**<30%** decrease in creatinine); continue up to **14 days**; may stop **24 h after creatinine falls below 1.5 mg/dL** [[aga-2024-vasoactive-albumin-cirrhosis]]
 - **Start early — pretreatment creatinine drives failure.** Every 1 mg/dL fall in creatinine on treatment carries a **27% relative reduction in mortality**, so even small reductions are worth pursuing
 
-**Administration (AGA 2024 CPU):** [[terlipressin|Terlipressin]] does **not require ICU monitoring** and can be given through a **peripheral IV line** (BPA 11). The FDA label suggests continuous pulse oximetry; the AGA 2024 CPU notes that vital-sign assessment including pulse oximetry **every 2–4 h** can substitute for continuous monitoring. [[aga-2024-vasoactive-albumin-cirrhosis]]
+**Administration (AGA 2024 Clinical Practice Update [CPU]):** [[terlipressin|Terlipressin]] does **not require intensive care unit (ICU) monitoring** and can be given through a **peripheral IV line** (BPA 11). The FDA label suggests continuous pulse oximetry; the AGA 2024 CPU notes that vital-sign assessment including pulse oximetry **every 2–4 h** can substitute for continuous monitoring. [[aga-2024-vasoactive-albumin-cirrhosis]]
 
 **Contraindications / cautions:**
 
 - **FDA label:** SCr ≥5 mg/dL; O2 saturation <90%
 - **Ongoing coronary, peripheral, or mesenteric ischemia** — contraindicated (AGA 2024 CPU, BPA 12)
-- **[[acute-on-chronic-liver-failure|ACLF-3]] (EASL-CLIF; ≥3 organ failures) — CONTRAINDICATED**, not merely a caution. [[aasld-2024-aclf]] GS 25 restricts terlipressin to Stage 2+ HRS-AKI **without ACLF-3**, on the CONFIRM-trial respiratory-failure signal; **norepinephrine is preferred in shock**. ⚠ This supersedes the softer "use with caution" framing carried by the older CPU — the newer guideline governs. Grade definitions on [[acute-on-chronic-liver-failure]].
-- **Benefit may not outweigh risk** when SCr >5 mg/dL, or in patients listed for transplant with **MELD ≥35** (low response rates). ⚠ The source does not say **which** MELD variant; the variants differ by several points around exactly this kind of cutoff — the formulas and the variant-selection table are on [[cirrhosis|cirrhosis → Severity Assessment]]
+- **[[acute-on-chronic-liver-failure|ACLF-3]] (European Association for the Study of the Liver–Chronic Liver Failure [EASL-CLIF]; ≥3 organ failures) — CONTRAINDICATED**, not merely a caution. [[aasld-2024-aclf]] guidance statement (GS) 25 restricts terlipressin to Stage 2+ HRS-AKI **without ACLF-3**, on the CONFIRM-trial respiratory-failure signal; **norepinephrine is preferred in shock**. ⚠ This supersedes the softer "use with caution" framing carried by the older CPU — the newer guideline governs. Grade definitions on [[acute-on-chronic-liver-failure]].
+- **Benefit may not outweigh risk** when SCr >5 mg/dL, or in patients listed for transplant with **Model for End-Stage Liver Disease (MELD) ≥35** (low response rates). ⚠ The source does not say **which** MELD variant; the variants differ by several points around exactly this kind of cutoff — the formulas and the variant-selection table are on [[cirrhosis|cirrhosis → Severity Assessment]]
 
-**Response predictors (favorable):** bilirubin <10 mg/dL, SCr <5 mg/dL, lower ACLF grade, sustained MAP increase ≥5–10 mmHg with therapy, presence of systemic inflammatory response (SIRS/sepsis/alcohol-associated hepatitis)
+**Response predictors (favorable):** bilirubin <10 mg/dL, SCr <5 mg/dL, lower ACLF grade, sustained mean arterial pressure (MAP) increase ≥5–10 mmHg with therapy, presence of systemic inflammatory response (systemic inflammatory response syndrome [SIRS]/sepsis/alcohol-associated hepatitis)
 
-**Efficacy:** RCT response rates 36–44%; CONFIRM trial (US/Canada): 29% reversed HRS and survived additional 10 days without RRT — may provide a bridge to [[liver-transplantation|liver transplantation]]
+**Efficacy:** Randomized controlled trial (RCT) response rates 36–44%; CONFIRM trial (US/Canada): 29% reversed HRS and survived additional 10 days without renal replacement therapy (RRT) — may provide a bridge to [[liver-transplantation|liver transplantation]]
 
 **Side effects:**
 
 - Ischemic complications: angina, digital ischemia, splanchnic ischemia, arrhythmia
-- Respiratory failure: 30% of the terlipressin arm in CONFIRM, especially with concomitant organ failure; associated with higher baseline INR, MAP, and O2 saturation [[aga-2022-aki-cirrhosis]]. *(The newer [[aga-2024-vasoactive-albumin-cirrhosis]] reports the same trial as 14% vs 5% on placebo, with death from respiratory failure 11% vs 2% — likely a narrower endpoint definition; both are the same CONFIRM dataset.)*
+- Respiratory failure: 30% of the terlipressin arm in CONFIRM, especially with concomitant organ failure; associated with higher baseline international normalized ratio (INR), MAP, and O2 saturation [[aga-2022-aki-cirrhosis]]. *(The newer [[aga-2024-vasoactive-albumin-cirrhosis]] reports the same trial as 14% vs 5% on placebo, with death from respiratory failure 11% vs 2% — likely a narrower endpoint definition; both are the same CONFIRM dataset.)*
 - Excess albumin is itself a driver of respiratory failure — judicious albumin before and during terlipressin is required
 - **Do not resume** after cardiac or ischemic symptoms, even if resolved
 - Start at lowest dose and titrate to minimize ischemic risk
@@ -223,8 +223,8 @@ Vasopressin V1 receptor analog; reverses splanchnic vasodilatation.
 
 Alpha-1 adrenergic agonist (midodrine) + [[somatostatin-analogs|somatostatin analog]] (octreotide). Inferior to terlipressin but no ICU requirement; widely used when terlipressin unavailable.
 
-- **Midodrine:** start **7.5 mg PO TID**, titrate to **12.5 mg PO TID**
-- **Octreotide:** start **100 mcg SQ TID**, titrate to **200 mcg SQ TID**
+- **Midodrine:** start **7.5 mg by mouth (PO) three times daily (TID)**, titrate to **12.5 mg PO TID**
+- **Octreotide:** start **100 mcg subcutaneously (SQ) TID**, titrate to **200 mcg SQ TID**
 - Octreotide alone is ineffective; must be used in combination
 - Works **very slowly**; HRS reversal possible but less likely than with terlipressin
 - Octreotide's rationale: somatostatin analog inhibiting glucagon (a splanchnic vasodilator) plus a direct splanchnic vasoconstrictive effect — but it has no effect alone
@@ -250,8 +250,8 @@ Alpha-1 adrenergic agonist; requires ICU monitoring.
 - Daily SCr to assess response
 - Fluid status monitoring for pulmonary edema (risk with albumin)
 - Watch for ischemic side effects; start vasoconstrictors at lowest dose and titrate upward
-- ECG/cardiac monitoring if using terlipressin or norepinephrine
-- SpO2 monitoring — do not start/continue terlipressin if SpO2 <90%
+- Electrocardiogram (ECG)/cardiac monitoring if using terlipressin or norepinephrine
+- Peripheral oxygen saturation (SpO2) monitoring — do not start/continue terlipressin if SpO2 <90%
 
 ### Renal Replacement Therapy (BPA 12)
 
@@ -265,14 +265,14 @@ RRT is not a primary therapy for HRS-AKI. Indications:
 | Uncertain AKI etiology | May consider on individual basis if transplant candidate |
 
 - **Continuous RRT preferred** over intermittent (lower hemodynamic instability)
-- ~2/3 of HRS-AKI patients on pretransplant RRT recover renal function post-LT
+- ~2/3 of HRS-AKI patients on pretransplant RRT recover renal function after liver transplantation (LT)
 - Each additional day of pretransplant RRT: 3.6–6% increased risk of renal non-recovery post-LT
 - Duration >14 days pretransplant: associated with irreversible renal dysfunction post-LT
 - Mortality with >7 days of RRT: 59%
 
 ### TIPS
 
-- [[tips|TIPS]] is **not recommended** as treatment for HRS-AKI (BPA 13) — insufficient evidence
+- [[tips|Transjugular intrahepatic portosystemic shunt (TIPS)]] is **not recommended** as treatment for HRS-AKI (BPA 13) — insufficient evidence
 
 ### Liver Transplantation (BPA 14)
 
@@ -282,12 +282,12 @@ RRT is not a primary therapy for HRS-AKI. Indications:
 - **MELD paradox:** Successful pharmacological reversal lowers SCr, decreasing MELD-Na score and transplant priority — expert consensus is that treatment should NOT be withheld for this reason
 - ~25% of patients remain dialysis-dependent after LT (especially younger patients, pre-existing CKD, or those requiring pretransplant RRT)
 
-**Simultaneous Liver-Kidney Transplantation (SLKT)** — OPTN/UNOS 2017 criteria:
+**Simultaneous Liver-Kidney Transplantation (SLKT)** — Organ Procurement and Transplantation Network (OPTN)/United Network for Organ Sharing (UNOS) 2017 criteria:
 
 - Dialysis dependence, OR
 - Measured/calculated GFR ≤25 mL/min for ≥6 consecutive weeks
 
-Post-LT: patients can be listed for high-priority kidney transplantation alone if persistent renal dysfunction (ESRD or GFR <20 mL/min) after LT.
+Post-LT: patients can be listed for high-priority kidney transplantation alone if persistent renal dysfunction (end-stage renal disease (ESRD) or GFR <20 mL/min) after LT.
 
 ---
 

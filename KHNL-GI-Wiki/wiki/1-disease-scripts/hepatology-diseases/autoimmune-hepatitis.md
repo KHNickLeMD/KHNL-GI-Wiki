@@ -11,11 +11,11 @@ sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-20
 
 ### Establishing the Diagnosis
 
-AIH is an immune-mediated hepatitis characterized by elevated aminotransferases, elevated IgG (>1.1× ULN), positive autoantibodies, interface hepatitis on biopsy, and response to immunosuppression. It is a diagnosis of exclusion — viral hepatitis, hereditary liver disease, drug-induced liver injury, and cholestatic liver disease must be ruled out. [[aasld-2020-autoimmune-hepatitis]]
+Autoimmune hepatitis (AIH) is an immune-mediated hepatitis characterized by elevated aminotransferases, elevated IgG (>1.1× upper limit of normal [ULN]), positive autoantibodies, interface hepatitis on biopsy, and response to immunosuppression. It is a diagnosis of exclusion — viral hepatitis, hereditary liver disease, drug-induced liver injury, and cholestatic liver disease must be ruled out. [[aasld-2020-autoimmune-hepatitis]]
 
 **Type 1 AIH (most common in North America):**
 
-- ANA and/or SMA positive
+- Antinuclear antibody (ANA) and/or smooth muscle antibody (SMA) positive
 - Peripubertal and adult presentation
 - 96% of US adult AIH cases
 - Acute onset in 25–75%; acute severe in 2–6%; asymptomatic in 25–34%; cirrhosis at presentation in 28–33% of adults
@@ -23,23 +23,23 @@ AIH is an immune-mediated hepatitis characterized by elevated aminotransferases,
 
 **Type 2 AIH:**
 
-- Anti-LKM1 positive (± anti-LC1, anti-LKM3); usually under age 14
-- 9–12% of US children with AIH (38% of UK children); acute onset ~40%, ALF possible
+- Anti-liver kidney microsome type 1 (anti-LKM1) positive (± anti-liver cytosol type 1 [anti-LC1], anti-LKM3); usually under age 14
+- 9–12% of US children with AIH (38% of UK children); acute onset ~40%, acute liver failure (ALF) possible
 - More aggressive; rarely enters sustained remission off medications — usually needs long-term immunosuppression
 
-**Anti-SLA/LP:**
+**Anti-soluble liver antigen/liver pancreas (anti-SLA/LP):**
 
 - Present in either type; highly specific for AIH
 - Associated with worse prognosis and more refractory disease
-- Complete IS withdrawal is rarely successful if anti-SLA positive
+- Complete immunosuppression (IS) withdrawal is rarely successful if anti-SLA positive
 
 **Initial serological workup:** [[aasld-2020-autoimmune-hepatitis]]
 
-- Adults: ANA + SMA (anti-smooth muscle antibody)
+- Adults: ANA + SMA
 - Children: ANA + SMA + anti-LKM1
 - Additional: anti-SLA/LP (increased specificity), serum IgG (quantitative), serum protein electrophoresis
 
-**Which IAIHG scoring system to use:** [[aasld-2020-autoimmune-hepatitis]]
+**Which International Autoimmune Hepatitis Group (IAIHG) scoring system to use:** [[aasld-2020-autoimmune-hepatitis]]
 
 | | Revised original (1999) | Simplified (2008) |
 |---|---|---|
@@ -50,7 +50,7 @@ AIH is an immune-mediated hepatitis characterized by elevated aminotransferases,
 
 - In children, simplified criteria: sensitivity 77%, specificity 95%; ~17% false negatives, associated with seronegative AIH
 - Reassess with the **revised** system whenever the simplified system yields a low score
-- **Neither system should be used to assess overlap syndromes**; both lack prospective validation and are inaccurate in concurrent [[primary-sclerosing-cholangitis|PSC]]/[[primary-biliary-cholangitis|PBC]]/[[nafld-masld|MASLD-MASH]], post-LT, or fulminant failure
+- **Neither system should be used to assess overlap syndromes**; both lack prospective validation and are inaccurate in concurrent [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]]/[[primary-biliary-cholangitis|primary biliary cholangitis (PBC)]]/[[nafld-masld|metabolic dysfunction-associated steatotic liver disease/steatohepatitis (MASLD-MASH)]], after liver transplantation (LT), or fulminant failure
 - *Neither score is computable from this page: the point values of the **simplified** score are in the guidance's Supporting Table S2 (Hennes 2008), and the **revised 1999** criteria — the fallback when the simplified score is low — and the numeric bands for "low score", "probable", and "definite" are in Alvarez 1999.*
 
 **Key histologic features:**
@@ -68,14 +68,14 @@ Both definitions additionally require **no previously recognized liver disease**
 | | Acute severe AIH | AIH-related ALF |
 |---|---|---|
 | [[jaundice\|Jaundice]] | required | — |
-| INR | **>1.5 and <2.0** | **≥2.0** |
+| International normalized ratio (INR) | **>1.5 and <2.0** | **≥2.0** |
 | [[hepatic-encephalopathy\|Hepatic encephalopathy]] | absent | present, **within 26 weeks of onset of illness** |
 | Prior liver disease | none recognized | none recognized |
 | Action | steroid trial, reassess 1–2 wk | evaluate directly for [[liver-transplantation\|liver transplantation]]; see [[acute-liver-failure]] |
 
-**Fibrosis staging:** Ishak / METAVIR / Scheuer–Batts-Ludwig staging on [[liver-biopsy|biopsy]] — **Scheuer/Batts-Ludwig is the system derived for viral and autoimmune hepatitis**; stage definitions and the warning against converting between schemes live on [[liver-biopsy]]. MELD score for decompensated AIH [[cirrhosis|cirrhosis]]
+**Fibrosis staging:** Ishak / METAVIR / Scheuer–Batts-Ludwig staging on [[liver-biopsy|biopsy]] — **Scheuer/Batts-Ludwig is the system derived for viral and autoimmune hepatitis**; stage definitions and the warning against converting between schemes live on [[liver-biopsy]]. Model for End-Stage Liver Disease (MELD) score for decompensated AIH [[cirrhosis|cirrhosis]]
 
-**Biochemical remission (treatment goal):** Normalization of AST, ALT, AND IgG to within the normal range
+**Biochemical remission (treatment goal):** Normalization of aspartate aminotransferase (AST), alanine aminotransferase (ALT), AND IgG to within the normal range
 
 ### Classification / Typing
 
@@ -90,13 +90,13 @@ Both definitions additionally require **no previously recognized liver disease**
 
 *Workup: see [[abnormal-liver-chemistries]].*
 
-- [[drug-induced-liver-injury]] — DILI/DIAIH can mimic AIH; drug-induced AIH (DIAIH) may require immunosuppression and drug withdrawal to distinguish; key DIAIH agents: nitrofurantoin, minocycline, [[anti-tnf-agents|infliximab, adalimumab]], alpha-methyldopa, halothane, dihydralazine
-- [[alcohol-associated-liver-disease]] — AST:ALT ratio ≥2:1; GGT elevated; history of significant alcohol use
+- [[drug-induced-liver-injury]] — drug-induced liver injury (DILI)/drug-induced AIH (DIAIH) can mimic AIH; DIAIH may require immunosuppression and drug withdrawal to distinguish; key DIAIH agents: nitrofurantoin, minocycline, [[anti-tnf-agents|infliximab, adalimumab]], alpha-methyldopa, halothane, dihydralazine
+- [[alcohol-associated-liver-disease]] — AST:ALT ratio ≥2:1; gamma-glutamyltransferase (GGT) elevated; history of significant alcohol use
 - [[wilson-disease]] — young patient (<40 years); Kayser-Fleischer rings; low ceruloplasmin; elevated 24h urine copper; may cause acute hepatitis mimicking AIH
-- Viral hepatitis ([[chronic-hepatitis-b|HBV]], [[hepatitis-c|HCV]], HEV) — serology; HEV can mimic acute AIH in endemic regions; HCV may induce low-titer ANA/SMA
-- [[primary-biliary-cholangitis]] (PBC) — AMA positive (≥1:40); cholestatic pattern (ALP/GGT dominant); can coexist as overlap syndrome
-- [[primary-sclerosing-cholangitis]] — [[mri-mrcp|MRCP]]/[[ercp|ERCP]] with biliary stricturing; cholangiographic findings diagnostic
-- [[celiac-disease|Celiac]]-related hepatitis — TTG-IgA; modest transaminase elevation; resolves with gluten-free diet
+- Viral hepatitis ([[chronic-hepatitis-b|hepatitis B virus (HBV)]], [[hepatitis-c|hepatitis C virus (HCV)]], hepatitis E virus [HEV]) — serology; HEV can mimic acute AIH in endemic regions; HCV may induce low-titer ANA/SMA
+- [[primary-biliary-cholangitis]] — antimitochondrial antibody (AMA) positive (≥1:40); cholestatic pattern (alkaline phosphatase [ALP]/GGT dominant); can coexist as overlap syndrome
+- [[primary-sclerosing-cholangitis]] — [[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]]/[[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] with biliary stricturing; cholangiographic findings diagnostic
+- [[celiac-disease|Celiac]]-related hepatitis — tissue transglutaminase (TTG)-IgA; modest transaminase elevation; resolves with gluten-free diet
 - [[hereditary-hemochromatosis]] — elevated ferritin; transferrin saturation; HFE mutation
 
 ---
@@ -109,26 +109,26 @@ Both definitions additionally require **no previously recognized liver disease**
 - Serum IgG (quantitative) — elevated >1.1× ULN
 - Autoantibody panel: ANA + SMA (adults); + anti-LKM1 (children); anti-SLA/LP
 - ALP, GGT — predominant ALP/GGT elevation suggests overlap with PBC/PSC rather than isolated AIH
-- SPEP — broad-based gamma globulin elevation
+- Serum protein electrophoresis (SPEP) — broad-based gamma globulin elevation
 - Hepatic function panel (INR, albumin, bilirubin) — synthetic function assessment
-- CBC (cytopenias with [[portal-hypertension|portal hypertension]]); CMP; TPMT genotype/phenotype before AZA
-- Exclusion panel: HBsAg, anti-HBc, HBV DNA, anti-HCV, HCV RNA, anti-HAV IgM, anti-HEV IgM
-- AMA (anti-mitochondrial antibody) — positive in PBC overlap; negative in isolated AIH
-- Celiac panel (TTG-IgA), TSH — comorbid autoimmune screening [[aasld-2020-autoimmune-hepatitis]]
+- Complete blood count (CBC) (cytopenias with [[portal-hypertension|portal hypertension]]); comprehensive metabolic panel (CMP); thiopurine methyltransferase (TPMT) genotype/phenotype before azathioprine (AZA)
+- Exclusion panel: hepatitis B surface antigen (HBsAg), anti-hepatitis B core (anti-HBc), HBV DNA, anti-HCV, HCV RNA, anti-hepatitis A virus (HAV) IgM, anti-HEV IgM
+- AMA — positive in PBC overlap; negative in isolated AIH
+- Celiac panel (TTG-IgA), thyroid-stimulating hormone (TSH) — comorbid autoimmune screening [[aasld-2020-autoimmune-hepatitis]]
 - 25-hydroxyvitamin D — baseline and annually on glucocorticoids [[aasld-2020-autoimmune-hepatitis]]
 
 ### Pretreatment Evaluation
 
 - **TPMT genotype or phenotype** — screen before AZA initiation; poor metabolizers at risk for severe myelosuppression [[aasld-2020-autoimmune-hepatitis]]
 - **HBsAg and anti-HBc total** — prophylactic antiviral (entecavir or tenofovir) required if HBsAg positive before initiating immunosuppression; the reactivation risk tiers, agent choice, and prophylaxis duration are on [[chronic-hepatitis-b|chronic hepatitis B → HBV Reactivation on Immunosuppression]]
-- **DEXA scan** — baseline; repeat q2–3 years on glucocorticoids; [[aasld-2020-autoimmune-hepatitis]]
-- **Vaccinations** (HAV, HBV, influenza, pneumococcal, Tdap, COVID-19) — before immunosuppression initiation
-- Extrahepatic autoimmune disease screening: thyroid disease, RA, [[inflammatory-bowel-disease|IBD]], Sjogren's, ANCA-vasculitis, celiac disease
+- **Dual-energy X-ray absorptiometry (DEXA) scan** — baseline; repeat q2–3 years on glucocorticoids; [[aasld-2020-autoimmune-hepatitis]]
+- **Vaccinations** (HAV, HBV, influenza, pneumococcal, tetanus-diphtheria-acellular pertussis (Tdap), coronavirus disease 2019 (COVID-19)) — before immunosuppression initiation
+- Extrahepatic autoimmune disease screening: thyroid disease, rheumatoid arthritis (RA), [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], Sjogren's, antineutrophil cytoplasmic antibody (ANCA) vasculitis, celiac disease
 
 ### Imaging
 
-- Liver ultrasound — assess for hepatomegaly, splenomegaly, signs of [[portal-hypertension|portal hypertension]], [[hcc-surveillance|HCC surveillance]] in cirrhosis
-- [[liver-stiffness-measurement|Elastography (VCTE/FibroScan or MRE)]] — fibrosis staging if biopsy not performed
+- Liver ultrasound — assess for hepatomegaly, splenomegaly, signs of [[portal-hypertension|portal hypertension]], [[hcc-surveillance|hepatocellular carcinoma (HCC) surveillance]] in cirrhosis
+- [[liver-stiffness-measurement|Elastography (vibration-controlled transient elastography [VCTE]/FibroScan or magnetic resonance elastography [MRE])]] — fibrosis staging if biopsy not performed
 - MRCP — if overlap with PSC suspected (elevated ALP, concomitant IBD)
 
 ### Liver Biopsy
@@ -144,7 +144,7 @@ Both definitions additionally require **no previously recognized liver disease**
 
 ### First-Line Treatment
 
-**Prednisone/prednisolone + [[thiopurines|azathioprine]] (AZA):** Standard first-line regimen for adults and children with AIH. [[aasld-2020-autoimmune-hepatitis]]
+**Prednisone/prednisolone + [[thiopurines|azathioprine]]:** Standard first-line regimen for adults and children with AIH. [[aasld-2020-autoimmune-hepatitis]]
 
 **Induction dose depends on whether AZA is co-administered — the two prednisone doses are different:**
 
@@ -157,15 +157,15 @@ Both definitions additionally require **no previously recognized liver disease**
 - AZA start timing: simultaneously with steroid, or after **2 weeks** at most centers (confirms steroid responsiveness, allows TPMT result, excludes AZA-induced hepatitis)
 - Check **TPMT** metabolizer status before prescribing AZA
 - **Taper after biochemical remission:** reduce prednisone gradually to 20 mg daily with labs q2 weeks, then 2.5–5 mg every 2–4 weeks to a 5–10 mg/day maintenance dose; prednisone may then be stopped, leaving AZA monotherapy
-- Where 6-TGN levels are used, titrate to **100–300 pmol/8 × 10⁸ RBCs**
+- Where 6-thioguanine nucleotide (6-TGN) levels are used, titrate to **100–300 pmol/8 × 10⁸ red blood cells (RBCs)**
 - Monitor cell counts **at least every 6 months** on AZA; reduce dose for mild cytopenia, discontinue for severe cytopenia
 - AZA **not recommended** in decompensated [[cirrhosis]] or acute severe AIH; yearly dermatologic screening (nonmelanoma skin cancer) and sun avoidance
 
-**Budesonide (3 mg TID) + AZA:** Equivalent first-line alternative for patients **without cirrhosis and without acute severe AIH** (Conditional, Low certainty). [[aasld-2020-autoimmune-hepatitis]]
+**Budesonide (3 mg three times daily [TID]) + AZA:** Equivalent first-line alternative for patients **without cirrhosis and without acute severe AIH** (Conditional, Low certainty). [[aasld-2020-autoimmune-hepatitis]]
 
 - Dosing: **3 mg three times daily**, reduced to twice daily once remission achieved; taper to lowest effective dose and attempt withdrawal after remission
 - Advantage: high first-pass hepatic metabolism → fewer steroid-specific side effects (bone mineral density preserved; less weight gain in children)
-- Meta-analysis: biochemical remission more likely with budesonide + AZA than prednisone + AZA (OR 2.19, 95% CI 1.30–3.67; high grade of evidence) — but no study reported time to remission, cirrhosis, death, or transplant
+- Meta-analysis: biochemical remission more likely with budesonide + AZA than prednisone + AZA (odds ratio [OR] 2.19, 95% confidence interval [CI] 1.30–3.67; high grade of evidence) — but no study reported time to remission, cirrhosis, death, or transplant
 - **Do not prescribe in cirrhosis**: portal-systemic shunting means budesonide cannot reach the liver, losing the side-effect advantage; [[portal-vein-thrombosis|portal vein thrombosis]] has been reported in cirrhotic patients on budesonide (Conditional, Very Low certainty)
 - **Do not prescribe in acute severe AIH or ALF** — role as first-line here is unsupported
 
@@ -181,12 +181,12 @@ Both definitions additionally require **no previously recognized liver disease**
 
 For treatment failure, incomplete response, or drug intolerance: [[aasld-2020-autoimmune-hepatitis]]
 
-**Recommendation 3:** In children or adults with AIH who have treatment failure, incomplete response, or drug intolerance to first-line agents, use **MMF or TAC** to achieve and maintain biochemical remission (*conditional recommendation, low certainty*). [[aasld-2020-autoimmune-hepatitis]]
+**Recommendation 3:** In children or adults with AIH who have treatment failure, incomplete response, or drug intolerance to first-line agents, use **mycophenolate mofetil (MMF) or tacrolimus (TAC)** to achieve and maintain biochemical remission (*conditional recommendation, low certainty*). [[aasld-2020-autoimmune-hepatitis]]
 
 | Agent | Target / monitoring | Response data |
 |---|---|---|
-| **Mycophenolate mofetil (MMF)** | *no mg dose specified in AASLD 2020* | Pooled response 58% — **82% for AZA intolerance vs 32% for treatment failure**; AST/ALT normalized in 79%, histologic remission 89%; adverse events 14%, discontinuation 8% |
-| **[[tacrolimus\|Tacrolimus (TAC)]]** | serum trough **1–10 ng/mL** | Aminotransferase normalization 75–94%; dose reduction/cessation for side effects in ~25% (tremor/headache, hypertension/renal insufficiency, hair loss) |
+| **Mycophenolate mofetil** | *no mg dose specified in American Association for the Study of Liver Diseases (AASLD) 2020* | Pooled response 58% — **82% for AZA intolerance vs 32% for treatment failure**; AST/ALT normalized in 79%, histologic remission 89%; adverse events 14%, discontinuation 8% |
+| **[[tacrolimus\|Tacrolimus]]** | serum trough **1–10 ng/mL** | Aminotransferase normalization 75–94%; dose reduction/cessation for side effects in ~25% (tremor/headache, hypertension/renal insufficiency, hair loss) |
 
 - Direct MMF-vs-TAC meta-analysis found **no significant difference** in biochemical remission (OR 1.95, 95% CI 0.18–20.81), side effects, or death/LT
 - MMF is nonetheless preferred as the initial second-line agent on ease of use and side-effect profile (*conditional, very low certainty*)
@@ -197,7 +197,7 @@ For treatment failure, incomplete response, or drug intolerance: [[aasld-2020-au
 
 ### Acute Severe AIH and ALF Management
 
-**Acute severe AIH (INR >1.5 and <2.0, no HE):** [[aasld-2020-autoimmune-hepatitis]]
+**Acute severe AIH (INR >1.5 and <2.0, no hepatic encephalopathy [HE]):** [[aasld-2020-autoimmune-hepatitis]]
 
 - Glucocorticoid **monotherapy**: prednisone or prednisolone **0.5–1 mg/kg daily** in adults, up to 2 mg/kg daily in children — effective in 20–100% of series, with no increase in sepsis
 - Do NOT use budesonide (or AZA) here
@@ -230,7 +230,7 @@ For treatment failure, incomplete response, or drug intolerance: [[aasld-2020-au
 
 ### Carcinomatous Surveillance
 
-**[[hcc-surveillance|HCC surveillance]] in AIH cirrhosis:** Liver ultrasound ± AFP every 6 months — same standard as cirrhosis of any etiology. [[aasld-2020-autoimmune-hepatitis]]
+**[[hcc-surveillance|HCC surveillance]] in AIH cirrhosis:** Liver ultrasound ± alpha-fetoprotein (AFP) every 6 months — same standard as cirrhosis of any etiology. [[aasld-2020-autoimmune-hepatitis]]
 
 ### Overlap Syndromes
 
@@ -248,12 +248,12 @@ Requires **2 of the 3 PBC criteria**, plus — on a background of **interface he
 > ⚠ **The two AASLD guidelines state Paris differently — know which framing you are using.** [[aasld-2018-pbc]], approaching from an established PBC diagnosis, defines Paris as **"two of the following three"** *AIH* criteria, counting **liver biopsy with moderate or severe interface hepatitis as the third criterion** (a: ALT >5× ULN; b: IgG ≥2× ULN **and/or** SMA+; c: moderate/severe interface hepatitis). [[aasld-2020-autoimmune-hepatitis]], approaching from AIH, instead requires **2 of 3 PBC criteria** *plus* **both** AIH criteria, with interface hepatitis a **prerequisite** rather than a countable item. The practical difference: under the PBC framing a patient with interface hepatitis + IgG ≥2× ULN qualifies **without** ALT >5× ULN; under the AIH framing they do not. **This page follows the newer [[aasld-2020-autoimmune-hepatitis]] framing (table above)**; the 2018 PBC wording is recorded here so readers carrying it are not caught out.
 
 - Paris criteria performance: sensitivity 92%, specificity 97% (single-centre) — but the IAIHG notes the AIH–PBC criteria were never independently validated, and the criteria **miss** patients with less pronounced cholestatic labs, who can still improve on conventional AIH immunosuppression
-- Treatment: predniso(lo)ne + AZA directed at the AIH component; see [[primary-biliary-cholangitis]] for the [[ursodeoxycholic-acid|UDCA]] component
+- Treatment: predniso(lo)ne + AZA directed at the AIH component; see [[primary-biliary-cholangitis]] for the [[ursodeoxycholic-acid|ursodeoxycholic acid (UDCA)]] component
 
 **AIH-PSC overlap:** [[aasld-2020-autoimmune-hepatitis]]
 
 - Typical AIH features + large-duct PSC on cholangiogram (MRCP/ERCP)
-- Consider when AIH diagnosis established but patient has concomitant IBD (especially [[ulcerative-colitis|UC]]) or ALP disproportionately elevated
+- Consider when AIH diagnosis established but patient has concomitant IBD (especially [[ulcerative-colitis|ulcerative colitis (UC)]]) or ALP disproportionately elevated
 - Prognosis driven by PSC component (colitis-associated neoplasia, [[cholangiocarcinoma]] risk)
 - See [[primary-sclerosing-cholangitis]]
 
@@ -261,8 +261,8 @@ Requires **2 of the 3 PBC criteria**, plus — on a background of **interface he
 
 - AIH associated with increased risk of fetal prematurity and loss, especially with inadequate disease control [[acg-2016-liver-disease-pregnancy]]
 - **Intrapartum flare risk >20%; postpartum flare risk 30–50%** — close monitoring required throughout pregnancy and postpartum
-- AIH may initially present during pregnancy; differentiate from [[acute-fatty-liver-of-pregnancy|AFLP]], preeclampsia
-- **Continue corticosteroids and/or AZA throughout pregnancy** (ACG 2016 Rec 31 — Strong, Very Low evidence) [[acg-2016-liver-disease-pregnancy]]
+- AIH may initially present during pregnancy; differentiate from [[acute-fatty-liver-of-pregnancy|acute fatty liver of pregnancy (AFLP)]], preeclampsia
+- **Continue corticosteroids and/or AZA throughout pregnancy** (American College of Gastroenterology [ACG] 2016 Rec 31 — Strong, Very Low evidence) [[acg-2016-liver-disease-pregnancy]]
   - Corticosteroids: pregnancy category C; population-based data (>51,000 exposures) show no significant increase in orofacial cleft or other congenital abnormalities
   - AZA: pregnancy category D; IBD safety data (3,000 AZA-exposed pregnancies) show no increase in congenital abnormalities; maintaining AIH control outweighs AZA risk
 - **MMF**: teratogenic — contraindicated in pregnancy; switch to AZA before conception [[aasld-2020-autoimmune-hepatitis]]
@@ -294,8 +294,8 @@ See [[liver-transplantation]] for broader post-LT context.
 
 - Treated AIH in a **non-transplant** center: 10-year survival 91%, 20-year survival 70% [[aasld-2020-autoimmune-hepatitis]]
 - Standardized mortality ratio **1.63** for all-cause death (95% CI 1.25–2.02); **1.86** when LT is counted as death
-- 5% of treated patients develop extrahepatic malignancy (SIR 2.7, 95% CI 1.8–3.9) — nonmelanoma skin cancer most common; follow standard extrahepatic cancer screening
-- Main causes of morbidity: cirrhosis complications, glucocorticoid side effects, PTDM, osteoporosis, opportunistic infection
+- 5% of treated patients develop extrahepatic malignancy (standardized incidence ratio [SIR] 2.7, 95% CI 1.8–3.9) — nonmelanoma skin cancer most common; follow standard extrahepatic cancer screening
+- Main causes of morbidity: cirrhosis complications, glucocorticoid side effects, post-transplant diabetes mellitus (PTDM), osteoporosis, opportunistic infection
 
 ---
 

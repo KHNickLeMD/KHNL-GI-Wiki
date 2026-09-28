@@ -6,6 +6,14 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-28] update | Abbreviations spelled out on first use — new Style Guide rule + whole-wiki pass
+
+**Rule added (Nick, 2026-09-28):** `CLAUDE.md` → Style Guide → *Abbreviations — spell out on first use*; lint check *Unexpanded abbreviations* added; stalest-page validation now includes it.
+
+**Pass status:** in progress — 11 of 15 batches (incl. `index.md`) complete; batches 3, 5, 6, 13 (disease scripts / procedures / meds / sources) interrupted by a usage limit and being resumed.
+
+---
+
 ## [2026-09-28] lint | AGA CPU items 36–37 ingested; item 35 propagated out of orphanhood; two 2026-05-28 source pages validated
 
 **Inbox check:** no new arrivals. **449** non-asset files in `raw/`, all 14 subfolder counts matching the 2026-09-23 baseline exactly (AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, Other Studies 6, RCTs 12). `git status` clean and nothing untracked under `raw/` — as always, since the content subfolders are git-ignored; the count-vs-baseline check is the only working detector. Nothing to commit from the inbox sync.

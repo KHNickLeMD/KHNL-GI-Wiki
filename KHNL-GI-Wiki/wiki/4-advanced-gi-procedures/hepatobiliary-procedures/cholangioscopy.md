@@ -7,7 +7,7 @@ updated: 2026-09-04
 sources: [asge-2023-indeterminate-biliary-strictures, acg-2023-biliary-strictures, asge-2015-ercp-benign-biliary, asge-2019-choledocholithiasis]
 ---
 
-**Cholangioscopy** is direct endoscopic visualization of the biliary (or pancreatic) ductal lumen, most commonly performed as single-operator peroral cholangioscopy through the working channel of a duodenoscope during [[ercp|ERCP]]. It permits targeted, image-directed mini-forceps biopsy of biliary lesions, visual characterization of strictures, and intraductal lithotripsy of stones that resist conventional extraction.
+**Cholangioscopy** is direct endoscopic visualization of the biliary (or pancreatic) ductal lumen, most commonly performed as single-operator peroral cholangioscopy through the working channel of a duodenoscope during [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]. It permits targeted, image-directed mini-forceps biopsy of biliary lesions, visual characterization of strictures, and intraductal lithotripsy of stones that resist conventional extraction.
 
 ## Contents
 - [[#Role in Indeterminate Biliary Strictures]]
@@ -19,11 +19,11 @@ sources: [asge-2023-indeterminate-biliary-strictures, acg-2023-biliary-stricture
 
 ## Role in Indeterminate Biliary Strictures
 
-Per [[asge-2023-indeterminate-biliary-strictures]], the ASGE suggests cholangioscopic-guided biopsy sampling for [[biliary-stricture|biliary strictures]] of undetermined etiology in (a) nondistal strictures with a high probability of adequate drainage of the critical liver segment, (b) previous nondiagnostic [[ercp|ERCP]] without cholangioscopy, and (c) centers with expertise and easy access to the equipment (conditional, very low quality of evidence).
+Per [[asge-2023-indeterminate-biliary-strictures]], the American Society for Gastrointestinal Endoscopy (ASGE) suggests cholangioscopic-guided biopsy sampling for [[biliary-stricture|biliary strictures]] of undetermined etiology in (a) nondistal strictures with a high probability of adequate drainage of the critical liver segment, (b) previous nondiagnostic [[ercp|ERCP]] without cholangioscopy, and (c) centers with expertise and easy access to the equipment (conditional, very low quality of evidence).
 
-- Adding cholangioscopy to ERCP raises sensitivity for malignancy to ~0.72 vs ~0.61 without it; incremental yield ~27% (observational) to ~41% (single RCT).
-- Better suited to **nondistal/hilar** strictures; suboptimal for very distal CBD strictures (scope instability, difficulty passing mini-forceps).
-- Adds ~14 min to ERCP and higher cost, but cost-effective in modeling (base-case ICER **$39,277.25 per QALY**, below the $50,000/QALY willingness-to-pay threshold).
+- Adding cholangioscopy to ERCP raises sensitivity for malignancy to ~0.72 vs ~0.61 without it; incremental yield ~27% (observational) to ~41% (single randomized controlled trial [RCT]).
+- Better suited to **nondistal/hilar** strictures; suboptimal for very distal common bile duct (CBD) strictures (scope instability, difficulty passing mini-forceps).
+- Adds ~14 min to ERCP and higher cost, but cost-effective in modeling (base-case incremental cost-effectiveness ratio (ICER) **$39,277.25 per quality-adjusted life-year (QALY)**, below the $50,000/QALY willingness-to-pay threshold).
 - Ensure adequate proximal segment drainage afterward — instilled water/saline risks introducing infection into an undrained tree.
 
 ### Visual characterization
@@ -45,7 +45,7 @@ Benign strictures lack these features.
 | **Miami** (consensus; benign vs malignant) | *Malignant:* **thick dark bands** of collagen fibrils; **thickened white bands** within the vessels. ⚠ Limitation: **low interobserver agreement** |
 | **Paris** (refinement; defines the *benign inflammatory* stricture) | **Vascular congestion**, **dark granular patterns with scales**, **increased interglandular space**, **thickened reticular structures** |
 
-- Pooled pCLE performance: **sensitivity 90% (95% CI 86–94), specificity 72% (65–79)**; best application is its **NPV ~94%** for malignancy.
+- Pooled pCLE performance: **sensitivity 90% (95% confidence interval [CI] 86–94), specificity 72% (65–79)**; best application is its **negative predictive value (NPV) ~94%** for malignancy.
 - ASGE panel position: pCLE is **difficult to master and expensive** — widespread adoption unlikely in the near future. ([[asge-2023-indeterminate-biliary-strictures]])
 
 ---
@@ -71,7 +71,7 @@ The single figure that belongs to *this* procedure: **cholangioscopy-directed bi
 
 ## See Also
 
-[[ercp]], [[endoscopic-ultrasound]], [[brush-cytology]], [[biliary-stricture]], [[cholangiocarcinoma]], [[confocal-laser-endomicroscopy]], [[choledocholithiasis]], [[fish]], [[primary-sclerosing-cholangitis]]
+[[ercp]], [[endoscopic-ultrasound]], [[brush-cytology]], [[biliary-stricture]], [[cholangiocarcinoma]], [[confocal-laser-endomicroscopy]], [[choledocholithiasis]], [[fish|fluorescence in situ hybridization (FISH)]], [[primary-sclerosing-cholangitis]]
 
 ---
 

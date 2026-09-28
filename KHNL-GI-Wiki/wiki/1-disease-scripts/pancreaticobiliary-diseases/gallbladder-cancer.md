@@ -7,7 +7,7 @@ updated: 2026-09-06
 sources: [nccn-2026-biliary-tract-cancers, asge-2013-biliary-neoplasia]
 ---
 
-Most common biliary tract malignancy; typically adenocarcinoma of the gallbladder wall. Two dominant presentations: **incidental** (found on pathology after [[acute-cholecystitis|cholecystectomy for presumed benign disease]]) or **advanced** (mass/wall thickening ± biliary obstruction). Managed on a dedicated pathway within the [[nccn-2026-biliary-tract-cancers|NCCN Biliary Tract Cancers]] guideline alongside [[cholangiocarcinoma|intrahepatic and extrahepatic cholangiocarcinoma]].
+Most common biliary tract malignancy; typically adenocarcinoma of the gallbladder wall. Two dominant presentations: **incidental** (found on pathology after [[acute-cholecystitis|cholecystectomy for presumed benign disease]]) or **advanced** (mass/wall thickening ± biliary obstruction). Managed on a dedicated pathway within the [[nccn-2026-biliary-tract-cancers|National Comprehensive Cancer Network (NCCN) Biliary Tract Cancers]] guideline alongside [[cholangiocarcinoma|intrahepatic and extrahepatic cholangiocarcinoma]].
 
 ## Contents
 - [[#Assessment]]
@@ -31,17 +31,17 @@ Most common biliary tract malignancy; typically adenocarcinoma of the gallbladde
 
 - **Incidental** — adenocarcinoma on histopathology of a cholecystectomy specimen. The gallbladder is already out; the decision is whether to **re-resect** (see Therapeutics).
 - **Non-incidental** — gallbladder mass, wall thickening, or polyp on imaging, often with [[jaundice]] or advanced disease.
-- Imaging: multiphasic abdomen/pelvis CT **or** MRI with IV contrast, plus chest CT ± contrast, to define local extent, nodal status, and metastases ([[nccn-2026-biliary-tract-cancers]]).
-- Biopsy **not necessary in most cases** when disease is clearly resectable; diagnostic laparoscopy is recommended before definitive resection. When tissue is needed for nonoperative management, **core biopsy is preferred over FNA** (more material for molecular profiling).
-- CA 19-9 and CEA: baseline assessment only — **not diagnostic** (elevated in other cancers and in jaundice from any cause).
-- Risk factors: gallstones/chronic cholecystitis, porcelain gallbladder, gallbladder polyps, chronic biliary inflammation, [[primary-sclerosing-cholangitis|PSC]].
+- Imaging: multiphasic abdomen/pelvis computed tomography (CT) **or** magnetic resonance imaging (MRI) with intravenous (IV) contrast, plus chest CT ± contrast, to define local extent, nodal status, and metastases ([[nccn-2026-biliary-tract-cancers]]).
+- Biopsy **not necessary in most cases** when disease is clearly resectable; diagnostic laparoscopy is recommended before definitive resection. When tissue is needed for nonoperative management, **core biopsy is preferred over fine-needle aspiration (FNA)** (more material for molecular profiling).
+- CA 19-9 and carcinoembryonic antigen (CEA): baseline assessment only — **not diagnostic** (elevated in other cancers and in jaundice from any cause).
+- Risk factors: gallstones/chronic cholecystitis, porcelain gallbladder, gallbladder polyps, chronic biliary inflammation, [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]].
 - Jaundice is a **relative contraindication to surgery** — outcomes are poor; operate only if complete resection is feasible. Consider preoperative biliary drainage, decided by an experienced multidisciplinary team.
 
 ### Severity Assessment
 
 Depth of invasion (T), nodal burden (N), and distant spread (M) drive both prognosis and the re-resection decision.
 
-**AJCC 8th ed. (2017) T, N, M — gallbladder carcinoma** ([[nccn-2026-biliary-tract-cancers]]):
+**American Joint Committee on Cancer (AJCC) 8th ed. (2017) T, N, M — gallbladder carcinoma** ([[nccn-2026-biliary-tract-cancers]]):
 
 | Category | Definition |
 |---|---|
@@ -81,10 +81,10 @@ Histologic grade G1 (well) / G2 (moderately) / G3 (poorly differentiated).
 
 ## Diagnostics
 
-- **Transabdominal US (TUS)** — first imaging test. Findings favoring adenocarcinoma over benign gallbladder disease: solitary or displaced gallstone, GB-replacing or invasive mass, discontinuity of the mucosal echo, mural thickening or calcification, a mass/polyp ≥10 mm, a fixed mass, loss of the GB–liver interface, porcelain GB, or direct liver invasion ([[asge-2013-biliary-neoplasia]]).
+- **Transabdominal US (TUS)** — first imaging test. Findings favoring adenocarcinoma over benign gallbladder disease: solitary or displaced gallstone, gallbladder (GB)-replacing or invasive mass, discontinuity of the mucosal echo, mural thickening or calcification, a mass/polyp ≥10 mm, a fixed mass, loss of the GB–liver interface, porcelain GB, or direct liver invasion ([[asge-2013-biliary-neoplasia]]).
 - **CT** — typically an infiltrating or polypoid mass, or GB wall thickening. T-staging accuracy 71%–86%; **poor** for nodal involvement.
 - **[[mri-mrcp|MRI]]** — sensitivity 56%–92% for nodal invasion, 67%–100% for local involvement.
-- **[[endoscopic-ultrasound|EUS]]** — close visualization of the wall layers; EUS-FNA of the GB wall reported sensitivity 80%, specificity 100%. Ability to predict nodal status is not well studied.
+- **[[endoscopic-ultrasound|Endoscopic ultrasound (EUS)]]** — close visualization of the wall layers; EUS-FNA of the GB wall reported sensitivity 80%, specificity 100%. Ability to predict nodal status is not well studied.
 - **Staging laparoscopy** — considered before definitive resection; yield is higher in locally advanced than early-stage tumors (25.2% vs 10.7%, P = .02).
 - **Comprehensive molecular biomarker testing** for unresectable/metastatic disease considered for systemic therapy (see Therapeutics).
 
@@ -96,7 +96,7 @@ Histologic grade G1 (well) / G2 (moderately) / G3 (poorly differentiated).
   - **Echogenic spots** — pathognomonic for a **cholesterol polyp**; **comet-tail artifact** — pathognomonic for **adenomyomatosis**. A polyp with *neither* feature predicts adenoma or adenocarcinoma.
   - Three EUS variables predict a **neoplastic** polyp: (1) continuous maximum diameter **≥11 mm**, (2) **heterogeneous** internal echo pattern, (3) **absence** of hyperechoic spots.
   - ⚠ Data are conflicting — one series found TUS *more* sensitive than EUS for GB cancer (90% vs 86%) and superior to both CT and EUS for staging.
-- **"Other risk factors" for GB cancer** in a polyp patient, as defined by the source: **age ≥60 y, coexisting gallstones, sessile morphology**. ASGE notes these patients with polyps ≥6 mm *may* benefit from cholecystectomy, but calls the evidence insufficient to advocate it.
+- **"Other risk factors" for GB cancer** in a polyp patient, as defined by the source: **age ≥60 y, coexisting gallstones, sessile morphology**. The American Society for Gastrointestinal Endoscopy (ASGE) notes these patients with polyps ≥6 mm *may* benefit from cholecystectomy, but calls the evidence insufficient to advocate it.
 
 Management ([[asge-2013-biliary-neoplasia]]; grade in parentheses):
 
@@ -120,7 +120,7 @@ The trigger is **T stage plus margin and cystic duct node status**:
 | **T1a with negative margins** | **Observe.** Simple cholecystectomy is adequate — tumor has not penetrated the muscle layer; long-term survival approaches 100% |
 | **T1b or greater**, **and/or T1a with positive margins**, **and/or cystic duct node positive** | Postoperative workup (multiphasic abdomen/pelvis CT or MRI with IV contrast + chest CT ± contrast; consider staging laparoscopy) → **re-resection** if resectable |
 
-- Re-resection is recommended for these patients because a significant proportion harbor **residual disease in the liver and common bile duct**; re-resection is generally associated with improved OS vs cholecystectomy alone (no randomized trials).
+- Re-resection is recommended for these patients because a significant proportion harbor **residual disease in the liver and common bile duct**; re-resection is generally associated with improved overall survival (OS) vs cholecystectomy alone (no randomized trials).
 - **Prophylactic port-site resection should not be performed** — port-site disease reflects disseminated peritoneal metastases, and resecting it does not improve survival or recurrence.
 - Common duct resection at re-resection is suggested when the **cystic duct margin is positive** (residual disease); occasionally the cystic duct stump alone can be re-resected to a negative margin.
 - Delayed resection after referral to a tertiary center, or radical resection after an initial noncurative procedure, has not been shown to carry a survival deficit (comparisons limited by selection bias).
@@ -141,9 +141,9 @@ The trigger is **T stage plus margin and cystic duct node status**:
 ### Advanced / Metastatic Disease
 
 - **First line (preferred, category 1):** cisplatin/gemcitabine **+ durvalumab**, or cisplatin/gemcitabine **+ pembrolizumab**. **If cisplatin-ineligible, carboplatin may be substituted.**
-- Other recommended first line: cisplatin/gemcitabine alone (category 1), albumin-bound paclitaxel/gemcitabine, capecitabine/gemcitabine, capecitabine/oxaliplatin, FOLFOX, gemcitabine/oxaliplatin, or single-agent capecitabine, fluorouracil/leucovorin, or gemcitabine.
-- **Subsequent line:** FOLFOX (preferred), FOLFIRI, or biomarker-matched targeted therapy.
-- **Molecular profiling** (ideally RNA-based to detect fusions) interrogates HER2 (ERBB2), BRAF V600E, NTRK and RET fusions, KRAS G12C, and tumor-agnostic MSI-H/dMMR and TMB-H. For dMMR/MSI-H tumors or a family history suggestive of [[brca-pathogenic-variants|BRCA1/2 pathogenic variants]], consider germline testing and/or genetic counseling. FGFR2 fusions and IDH1 mutations are characteristic of intrahepatic CCA rather than gallbladder cancer.
+- Other recommended first line: cisplatin/gemcitabine alone (category 1), albumin-bound paclitaxel/gemcitabine, capecitabine/gemcitabine, capecitabine/oxaliplatin, fluorouracil/leucovorin/oxaliplatin (FOLFOX), gemcitabine/oxaliplatin, or single-agent capecitabine, fluorouracil/leucovorin, or gemcitabine.
+- **Subsequent line:** FOLFOX (preferred), fluorouracil/leucovorin/irinotecan (FOLFIRI), or biomarker-matched targeted therapy.
+- **Molecular profiling** (ideally RNA-based to detect fusions) interrogates HER2 (ERBB2), BRAF V600E, NTRK and RET fusions, KRAS G12C, and tumor-agnostic microsatellite instability-high (MSI-H)/deficient mismatch repair (dMMR) and tumor mutational burden-high (TMB-H). For dMMR/MSI-H tumors or a family history suggestive of [[brca-pathogenic-variants|BRCA1/2 pathogenic variants]], consider germline testing and/or genetic counseling. FGFR2 fusions and IDH1 mutations are characteristic of intrahepatic cholangiocarcinoma rather than gallbladder cancer.
 
 ---
 

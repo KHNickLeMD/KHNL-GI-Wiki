@@ -26,14 +26,14 @@ sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy]
 
 Most common pregnancy-specific liver disease; frequency **0.3–0.5%**. Onset in the **second or third trimester**. Family history often present; associated with multiparity and multifetal pregnancy. Recurs in **45%–70%** of subsequent pregnancies. Fetal stillbirth risk; fetal mortality **0.4%–1%**. ([[aga-2024-pregnancy-gi-liver]])
 
-> ⚠ **Source disagreement (prevalence):** the older [[acg-2016-liver-disease-pregnancy|ACG 2016]] guideline quotes prevalence **0.3%–5.6%**. The newer AGA 2024 figure (0.3%–0.5%) is what this page asserts.
+> ⚠ **Source disagreement (prevalence):** the older [[acg-2016-liver-disease-pregnancy|American College of Gastroenterology (ACG) 2016]] guideline quotes prevalence **0.3%–5.6%**. The newer American Gastroenterological Association (AGA) 2024 figure (0.3%–0.5%) is what this page asserts.
 
 ### Establishing the Diagnosis
 
-- **Pruritus** (classically palms/soles, may generalize) in the 2nd/3rd trimester **plus total serum bile acids >10 μmol/L** = diagnostic. ([[aga-2024-pregnancy-gi-liver]] BPA 10)
-- Most cases present in the 3rd trimester with mild–moderately elevated AST/ALT (**up to 10–20× ULN**) and total bilirubin **<6 mg/dL**. ALP and GGT elevated.
+- **Pruritus** (classically palms/soles, may generalize) in the 2nd/3rd trimester **plus total serum bile acids >10 μmol/L** = diagnostic. ([[aga-2024-pregnancy-gi-liver]] Best Practice Advice [BPA] 10)
+- Most cases present in the 3rd trimester with mild–moderately elevated aspartate aminotransferase (AST)/alanine aminotransferase (ALT) (**up to 10–20× upper limit of normal [ULN]**) and total bilirubin **<6 mg/dL**. Alkaline phosphatase (ALP) and gamma-glutamyltransferase (GGT) elevated.
 - If serum bile acids are **normal**, repeat testing after excluding other causes of pruritus — biliary obstruction, viral hepatitis, and chronic liver disease.
-- Ultrasound is normal in ICP (used to exclude cholelithiasis/biliary obstruction). ([[aga-2024-pregnancy-gi-liver]])
+- Ultrasound is normal in intrahepatic cholestasis of pregnancy (ICP) (used to exclude cholelithiasis/biliary obstruction). ([[aga-2024-pregnancy-gi-liver]])
 
 ### Severity Assessment
 
@@ -45,10 +45,10 @@ Most common pregnancy-specific liver disease; frequency **0.3–0.5%**. Onset in
 *Workup: see [[liver-disease-in-pregnancy]].*
 
 - [[acute-fatty-liver-of-pregnancy|Acute fatty liver of pregnancy]] — hypoglycemia, coagulopathy, encephalopathy
-- HELLP syndrome / [[liver-disease-in-pregnancy|pre-eclampsia with hepatic involvement]] — hypertension, thrombocytopenia, hemolysis
+- HELLP (hemolysis, elevated liver enzymes, low platelets) syndrome / [[liver-disease-in-pregnancy|pre-eclampsia with hepatic involvement]] — hypertension, thrombocytopenia, hemolysis
 - [[chronic-hepatitis-b|Viral hepatitis]] / [[hepatitis-c-in-pregnancy|hepatitis C]] — serologies
 - Biliary obstruction ([[choledocholithiasis]]) — dilated ducts on imaging
-- [[drug-induced-liver-injury|Drug-induced liver injury]], [[primary-biliary-cholangitis|PBC]] and other chronic cholestatic liver disease — consider if cholestasis persists after delivery
+- [[drug-induced-liver-injury|Drug-induced liver injury]], [[primary-biliary-cholangitis|primary biliary cholangitis (PBC)]] and other chronic cholestatic liver disease — consider if cholestasis persists after delivery
 
 ## Diagnostics
 
@@ -76,7 +76,7 @@ Delivery is advised based on **total serum bile acid levels** ([[aga-2024-pregna
 
 | Total bile acids | Recommended delivery |
 |---|---|
-| **≥100 μmol/L** | **36 weeks** (or at diagnosis if diagnosed after 36 wk) — SMFM; EASL: consider early delivery as stillbirth risk rises after 35 wk |
+| **≥100 μmol/L** | **36 weeks** (or at diagnosis if diagnosed after 36 wk) — Society for Maternal-Fetal Medicine (SMFM); European Association for the Study of the Liver (EASL): consider early delivery as stillbirth risk rises after 35 wk |
 | **40–99 μmol/L** | **36 or 39 weeks** (if diagnosed later) |
 | **<40 μmol/L** | Delivery at **term** reasonable; individualize |
 

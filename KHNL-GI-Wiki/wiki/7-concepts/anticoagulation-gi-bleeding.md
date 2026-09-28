@@ -29,14 +29,14 @@ sources: [acg-cag-2022-anticoag-gi-bleeding, asge-2016-antithrombotic]
 
 ## Overview
 
-Antithrombotic drugs — vitamin K antagonists (VKAs, primarily warfarin), direct oral anticoagulants (DOACs: apixaban, rivaroxaban, dabigatran, edoxaban), and antiplatelet agents (ASA, P2Y12 receptor inhibitors: clopidogrel, prasugrel, ticagrelor) — are used in millions of patients for atrial fibrillation, mechanical heart valves, venous thromboembolism, and coronary artery disease. These same drugs increase GI bleeding risk and complicate endoscopic management.
+Antithrombotic drugs — vitamin K antagonists (VKAs, primarily warfarin), direct oral anticoagulants (DOACs: apixaban, rivaroxaban, dabigatran, edoxaban), and antiplatelet agents (aspirin [ASA], P2Y12 receptor inhibitors: clopidogrel, prasugrel, ticagrelor) — are used in millions of patients for atrial fibrillation (AF), mechanical heart valves, venous thromboembolism (VTE), and coronary artery disease. These same drugs increase gastrointestinal (GI) bleeding risk and complicate endoscopic management.
 
 Two distinct clinical contexts require different frameworks:
 
 1. **Acute GI bleeding** — a patient on antithrombotics presents with active hemorrhage (melena, hematochezia, hematemesis). The question is whether and how to reverse anticoagulation.
 2. **Periendoscopic period** — a patient on antithrombotics requires an elective endoscopic procedure. The question is whether to interrupt the drug, bridge with heparin, and when to resume.
 
-The 2022 ACG/CAG guideline provides the primary evidence-based framework for both contexts. All recommendations are conditional with low or very low certainty of evidence, reflecting major gaps in high-quality comparative data.
+The 2022 American College of Gastroenterology (ACG)/Canadian Association of Gastroenterology (CAG) guideline provides the primary evidence-based framework for both contexts. All recommendations are conditional with low or very low certainty of evidence, reflecting major gaps in high-quality comparative data.
 
 ---
 
@@ -49,13 +49,13 @@ Acute GI bleeding is defined as overt bleeding ([[upper-gi-bleeding|melena, hema
 **Fresh frozen plasma (FFP):**
 
 - Guideline suggests **against** routine FFP administration (conditional, very low certainty)
-- FFP often fails to normalize INR (mean INR 2.3 after administration in one cohort); associated with fluid overload and possible increased thrombotic risk
-- May be considered if: life-threatening bleed, PCC unavailable, or massive transfusion coagulopathy management is needed
+- FFP often fails to normalize international normalized ratio (INR) (mean INR 2.3 after administration in one cohort); associated with fluid overload and possible increased thrombotic risk
+- May be considered if: life-threatening bleed, prothrombin complex concentrate (PCC) unavailable, or massive transfusion coagulopathy management is needed
 
-**Prothrombin complex concentrate (PCC):**
+**PCC:**
 
 - Guideline **could not recommend for or against** PCC vs. placebo (insufficient GI-specific data)
-- When reversal is chosen: guideline **prefers 4F-PCC over FFP** (conditional, very low certainty) — PCC achieves more rapid and reliable INR correction (RR for rapid INR correction vs FFP: 6.99, 95% CI 3.61–13.53)
+- When reversal is chosen: guideline **prefers four-factor PCC (4F-PCC) over FFP** (conditional, very low certainty) — PCC achieves more rapid and reliable INR correction (relative risk [RR] for rapid INR correction vs FFP: 6.99, 95% confidence interval [CI] 3.61–13.53)
 - 4F-PCC and 3-factor PCC are treated as equivalent for VKA reversal
 - PCC use can be considered in: life-threatening bleed, supratherapeutic INR substantially above range, or when massive transfusion is undesirable
 - PCC is **not necessary for most warfarin-related GI bleeds**; [[endoscopic-hemostasis|endoscopic hemostasis]] is usually sufficient
@@ -99,7 +99,7 @@ Acute GI bleeding is defined as overt bleeding ([[upper-gi-bleeding|melena, hema
 - ASA irreversibly inhibits platelets for 7–10 days; clopidogrel/prasugrel similarly irreversible; ticagrelor reversible but effect persists 3–5 days
 - Functional platelets infused into a patient with residual drug-bound platelets carry thrombotic risk without clear hemostatic benefit
 
-**Aspirin (ASA) for secondary cardiovascular prevention:**
+**ASA for secondary cardiovascular prevention:**
 
 - Guideline suggests **against holding** cardiac ASA during GI bleeding (conditional, very low certainty)
 - Rationale: persistent platelet inhibition means stopping ASA has minimal effect on early clinical course; cardiovascular risk of stopping (MI, stroke) outweighs marginal benefit
@@ -122,18 +122,18 @@ Clinical principles to guide individual decisions:
 
 ## Periendoscopic Period
 
-The periendoscopic framework applies to patients undergoing **scheduled, elective** endoscopic procedures. All 9 periendoscopic statements **exclude** patients at high thromboembolic risk, in whom the elective procedure should be **deferred**. The stent windows differ by whether there was an ACS event — don't drop the qualifier:
+The periendoscopic framework applies to patients undergoing **scheduled, elective** endoscopic procedures. All 9 periendoscopic statements **exclude** patients at high thromboembolic risk, in whom the elective procedure should be **deferred**. The stent windows differ by whether there was an acute coronary syndrome (ACS) event — don't drop the qualifier:
 
 | Situation | Defer elective endoscopy within |
 |---|---|
-| Acute coronary syndrome (ACS) event | **3 months** |
+| ACS event | **3 months** |
 | Drug-eluting stent, **no** ACS history | **6 months** |
 | Bare-metal stent, **no** ACS history | **1 month** |
 | Drug-eluting stent placed **after an ACS event** | **12 months** |
 | Bare-metal stent placed **after an ACS event** | **2 months** |
 | High-risk mechanical valve / AF / VTE strata | per Table 4 below |
 
-- Recent data suggest DAPT can be converted to **P2Y12 monotherapy at ≤3 months** in patients with a drug-eluting stent placed after an ACS event.
+- Recent data suggest dual antiplatelet therapy (DAPT) can be converted to **P2Y12 monotherapy at ≤3 months** in patients with a drug-eluting stent placed after an ACS event.
 
 ### Risk Stratification (Procedural Bleeding and Thrombotic Risk)
 
@@ -141,14 +141,14 @@ The periendoscopic framework applies to patients undergoing **scheduled, electiv
 
 | High bleeding risk (30-day major bleed >2%) | Low/moderate bleeding risk (≤2%) |
 |---|---|
-| [[polypectomy\|Polypectomy ≥1 cm]] | [[upper-endoscopy\|EGD]] ± biopsy |
-| [[endoscopic-mucosal-resection\|EMR]] / [[endoscopic-submucosal-dissection\|ESD]] | [[colonoscopy\|Colonoscopy]] ± biopsy |
-| [[ercp\|ERCP]] with sphincterotomy | Flexible sigmoidoscopy ± biopsy |
-| [[endoscopic-ultrasound\|EUS-FNA]] | EUS without FNA |
-| [[enteral-access\|PEG/PEJ placement]] | [[ercp\|ERCP]] with stent, without sphincterotomy |
-| Endoscopic hemostasis (excl. [[argon-plasma-coagulation\|APC]]) | Push/diagnostic balloon enteroscopy |
+| [[polypectomy\|Polypectomy ≥1 cm]] | [[upper-endoscopy\|esophagogastroduodenoscopy (EGD)]] ± biopsy |
+| [[endoscopic-mucosal-resection\|endoscopic mucosal resection (EMR)]] / [[endoscopic-submucosal-dissection\|endoscopic submucosal dissection (ESD)]] | [[colonoscopy\|Colonoscopy]] ± biopsy |
+| [[ercp\|endoscopic retrograde cholangiopancreatography (ERCP)]] with sphincterotomy | Flexible sigmoidoscopy ± biopsy |
+| [[endoscopic-ultrasound\|endoscopic ultrasound (EUS)-guided fine-needle aspiration (FNA)]] | EUS without FNA |
+| [[enteral-access\|percutaneous endoscopic gastrostomy/jejunostomy (PEG/PEJ) placement]] | [[ercp\|ERCP]] with stent, without sphincterotomy |
+| Endoscopic hemostasis (excl. [[argon-plasma-coagulation\|argon plasma coagulation (APC)]]) | Push/diagnostic balloon enteroscopy |
 | [[variceal-upper-gi-bleeding\|Variceal treatment]] (incl. band ligation) | APC |
-| [[poem\|POEM]] | Polypectomy <1 cm |
+| [[poem\|peroral endoscopic myotomy (POEM)]] | Polypectomy <1 cm |
 | [[radiofrequency-ablation\|Radiofrequency ablation]] | Enteral stent deployment |
 | Ampullary resection | Video [[capsule-endoscopy\|capsule endoscopy]] |
 | Cystogastrostomy | Marking / clipping / tattooing |
@@ -160,8 +160,8 @@ The periendoscopic framework applies to patients undergoing **scheduled, electiv
 
 | Risk | Mechanical valve | Atrial fibrillation | VTE |
 |---|---|---|---|
-| **High** | Any mitral valve prosthesis; any caged-ball or tilting-disc aortic valve prosthesis; stroke/TIA <3 mo | CHADS2 5 **or** 6; CHA2DS2-VASc **≥7**; stroke/TIA <3 mo; rheumatic valvular heart disease | VTE <3 mo; **severe** thrombophilia (protein C, protein S or antithrombin deficiency; antiphospholipid antibodies; multiple abnormalities) |
-| **Moderate** | Bileaflet **aortic** valve prosthesis **plus ≥1 of**: AF, prior stroke/TIA, hypertension, diabetes, CHF, age >75 y (the prosthesis alone is *low* risk) | CHADS2 2–4 **and no** prior stroke/TIA; CHA2DS2-VASc 5 or 6 | VTE 3–12 mo; **non-severe** thrombophilia (e.g. heterozygous factor V Leiden or prothrombin gene mutation); recurrent VTE; active cancer (treated within 6 mo or palliative) |
+| **High** | Any mitral valve prosthesis; any caged-ball or tilting-disc aortic valve prosthesis; stroke/transient ischemic attack (TIA) <3 mo | CHADS2 5 **or** 6; CHA2DS2-VASc **≥7**; stroke/TIA <3 mo; rheumatic valvular heart disease | VTE <3 mo; **severe** thrombophilia (protein C, protein S or antithrombin deficiency; antiphospholipid antibodies; multiple abnormalities) |
+| **Moderate** | Bileaflet **aortic** valve prosthesis **plus ≥1 of**: AF, prior stroke/TIA, hypertension, diabetes, congestive heart failure (CHF), age >75 y (the prosthesis alone is *low* risk) | CHADS2 2–4 **and no** prior stroke/TIA; CHA2DS2-VASc 5 or 6 | VTE 3–12 mo; **non-severe** thrombophilia (e.g. heterozygous factor V Leiden or prothrombin gene mutation); recurrent VTE; active cancer (treated within 6 mo or palliative) |
 | **Low** | Bileaflet aortic valve prosthesis, no AF **and** no other stroke risk factor | CHADS2 0 or 1; CHA2DS2-VASc 1–4 | VTE >12 mo ago **and** no other risk factors |
 
 **Table 4 footnote — additional patients who count as high risk** (easy to miss; the grid alone under-calls them):
@@ -198,7 +198,7 @@ For patients at low thromboembolic risk on DOACs:
 
 ### Bridging Therapy — When Indicated vs. Not
 
-**Definition:** Heparin bridging = subcutaneous therapeutic-dose LMWH administered 3 days before and 3–5 days after a procedure, during the period of warfarin interruption.
+**Definition:** Heparin bridging = subcutaneous therapeutic-dose low-molecular-weight heparin (LMWH) administered 3 days before and 3–5 days after a procedure, during the period of warfarin interruption.
 
 **Guideline recommendation (Statement 12):** For warfarin-interrupted patients undergoing elective GI procedures, **suggest against bridging** (conditional, **low** certainty — note this is the one periendoscopic statement rated *low* rather than *very low*). The recommendation itself carries **no carve-out**; the "may be appropriate" subset below comes from the guideline's Conclusions paragraph, not from the graded statement.
 
@@ -234,11 +234,11 @@ For patients at low thromboembolic risk on DOACs:
 
 ### Antiplatelet Periendoscopic Management
 
-**Dual antiplatelet therapy (DAPT = P2Y12 inhibitor + ASA):**
+**DAPT (P2Y12 inhibitor + ASA):**
 
 - Suggest **temporary interruption of P2Y12 inhibitor while continuing ASA** (Statement 14A, conditional, very low certainty)
 - Applies to elective procedures only; do not interrupt for emergency endoscopy
-- Evidence: RCT (N=387): similar polypectomy bleeding rates with clopidogrel interruption; modest nonsignificant trend to fewer thrombotic events with interruption (1.3% vs. 2.7%)
+- Evidence: randomized controlled trial (RCT) (N=387): similar polypectomy bleeding rates with clopidogrel interruption; modest nonsignificant trend to fewer thrombotic events with interruption (1.3% vs. 2.7%)
 - P2Y12 inhibitors: clopidogrel and prasugrel irreversibly block platelets for 7–10 days; ticagrelor reversible, effect persists 3–5 days
 
 **P2Y12 inhibitor monotherapy (single agent, no ASA):**
@@ -250,29 +250,29 @@ For patients at low thromboembolic risk on DOACs:
 
 - Suggest **against interruption of ASA** for elective endoscopic procedures (Statement 15, conditional, very low certainty)
 - Bleeding risk of diagnostic procedures and most polypectomies is sufficiently low that ASA continuation is safe
-- Exception: consider ASA interruption for highest-risk procedures (ESD, biliary/pancreatic sphincterotomy, ampullectomy, POEM, RFA) when bleeding risk is particularly high
-- Primary prevention ASA: stop before higher-risk procedures (minimal CV benefit does not justify bleeding risk)
+- Exception: consider ASA interruption for highest-risk procedures (ESD, biliary/pancreatic sphincterotomy, ampullectomy, POEM, radiofrequency ablation [RFA]) when bleeding risk is particularly high
+- Primary prevention ASA: stop before higher-risk procedures (minimal cardiovascular [CV] benefit does not justify bleeding risk)
 
 ### Drug-Specific Hold Intervals and Reversal (ASGE Reference Table)
 
-Quick-reference duration-of-action, elective hold, and reversal by agent (ASGE 2016, Table 2 erratum-corrected). Complements the ACG/CAG framework above; the ACG/CAG bridging and reversal-agent stances govern where the two differ (see Sources note).
+Quick-reference duration-of-action, elective hold, and reversal by agent (American Society for Gastrointestinal Endoscopy [ASGE] 2016, Table 2 erratum-corrected). Complements the ACG/CAG framework above; the ACG/CAG bridging and reversal-agent stances govern where the two differ (see Sources note).
 
 | Agent (class) | Duration of action | Elective (pre-procedure) | Urgent reversal |
 |---|---|---|---|
 | Aspirin (APA) | 7-10 d | NA in Table 2 — ASGE Rec: low-dose ASA may be **continued** periendoscopically | Hold; can give platelets |
-| NSAIDs | Varies | NA in Table 2 — may be **continued** with ASA | Hold |
+| Nonsteroidal anti-inflammatory drugs (NSAIDs) | Varies | NA in Table 2 — may be **continued** with ASA | Hold |
 | Dipyridamole | 2-3 d | Hold | Hold |
 | Cilostazol | 2 d | Hold | Hold |
 | Clopidogrel/prasugrel (thienopyridine) | 5-7 d | Hold ≥5-7 d before high-risk | Hold |
 | Ticagrelor | 3-5 d | Hold 3-5 d before high-risk | Hold |
 | Ticlopidine | 10-14 d | Hold | Hold |
-| GPIIb/IIIa (tirofiban/eptifibatide/abciximab) | 1-2 s / 4 h / 24 h | NA | Hold; HD for tirofiban |
+| Glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors (tirofiban/eptifibatide/abciximab) | 1-2 s / 4 h / 24 h | NA | Hold; hemodialysis (HD) for tirofiban |
 | Vorapaxar (PAR-1) | 5-13 d | Hold | Hold |
 | Warfarin | 5 d | Hold; restart same day | Vitamin K, 4F-PCC |
-| UFH | IV 2-6 h; SQ 12-24 h | Hold | Protamine (partial) |
+| Unfractionated heparin (UFH) | Intravenous (IV) 2-6 h; subcutaneous (SQ) 12-24 h | Hold | Protamine (partial) |
 | LMWH (enoxaparin/dalteparin) | 24 h | Hold | Protamine ± rVIIa |
 | Fondaparinux | 36-48 h | Hold | Protamine, consider rVIIa |
-| Factor Xa inhibitors (rivaroxaban/apixaban/edoxaban) | Renal-dependent (ASGE Tables 7–9) | Hold — interval by CrCl, see below | Charcoal if <2-3 h; PCC (nonactivated/activated); andexanet (selective)* |
+| Factor Xa inhibitors (rivaroxaban/apixaban/edoxaban) | Renal-dependent (ASGE Tables 7–9) | Hold — interval by creatinine clearance (CrCl), see below | Charcoal if <2-3 h; PCC (nonactivated/activated); andexanet (selective)* |
 | Dabigatran (direct thrombin) | Renal-dependent (ASGE Table 6) | Hold — interval by CrCl, see below | Charcoal if <2-3 h; PCC; HD; idarucizumab (selective)* |
 
 *Reference: ASGE 2016 ([[asge-2016-antithrombotic]]). PEG placement on ASA or clopidogrel monotherapy is low bleeding risk (not on DAPT); EUS-FNA of solid masses on ASA/NSAIDs is low risk.*

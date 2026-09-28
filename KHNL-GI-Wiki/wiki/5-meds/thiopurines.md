@@ -7,7 +7,7 @@ updated: 2026-09-05
 sources: [acg-2025-crohns, acg-2025-uc, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care]
 ---
 
-Purine-antimetabolite **immunomodulators** used in [[inflammatory-bowel-disease|IBD]]: **azathioprine (AZA)** and **6-mercaptopurine (6-MP)**. Two roles only — **maintenance** of corticosteroid-induced remission, and **combination therapy with [[anti-tnf-agents|infliximab]]** to suppress immunogenicity. Never induction.
+Purine-antimetabolite **immunomodulators** used in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]: **azathioprine (AZA)** and **6-mercaptopurine (6-MP)**. Two roles only — **maintenance** of corticosteroid-induced remission, and **combination therapy with [[anti-tnf-agents|infliximab]]** to suppress immunogenicity. Never induction.
 
 ## Contents
 - [[#Positioning — what thiopurines are and are not for]]
@@ -25,19 +25,19 @@ Purine-antimetabolite **immunomodulators** used in [[inflammatory-bowel-disease|
 
 | Setting | Recommendation | Strength / evidence |
 |---|---|---|
-| Induction, moderately-severely active [[crohns-disease\|CD]] | **Against** AZA / 6-MP | Strong, moderate ([[acg-2025-crohns]] Rec 8) |
-| Induction, moderately-severely active [[ulcerative-colitis\|UC]] | **Against** thiopurine (or methotrexate) **monotherapy** | Strong, low ([[acg-2025-uc]] Rec 23) |
+| Induction, moderately-severely active [[crohns-disease\|Crohn's disease (CD)]] | **Against** AZA / 6-MP | Strong, moderate ([[acg-2025-crohns]] Rec 8) |
+| Induction, moderately-severely active [[ulcerative-colitis\|ulcerative colitis (UC)]] | **Against** thiopurine (or methotrexate) **monotherapy** | Strong, low ([[acg-2025-uc]] Rec 23) |
 | Maintenance in CD after corticosteroid induction | **Suggest** AZA / 6-MP | Conditional, low ([[acg-2025-crohns]] Rec 9) |
 | Maintenance in UC after corticosteroid induction, vs no treatment or steroids | **Suggest** thiopurines | Conditional, low ([[acg-2025-uc]] Rec 36) |
 | Maintenance after [[calcineurin-inhibitors\|cyclosporine]] rescue in acute severe UC | **Suggest** thiopurines | Conditional ([[acg-2025-uc]] Rec 53) |
-| Combination with **IV infliximab** in agent-naive CD, vs either alone | **Recommend** combination | Strong, moderate ([[acg-2025-crohns]] Rec 13) |
+| Combination with **intravenous (IV) infliximab** in agent-naive CD, vs either alone | **Recommend** combination | Strong, moderate ([[acg-2025-crohns]] Rec 13) |
 | Combination with infliximab when infliximab is used for **UC induction** | **Recommend** combination therapy with a thiopurine | Strong; moderate quality **for azathioprine** ([[acg-2025-uc]] Rec 33) |
 
-- The third use is **adjunctive**: thiopurines (or methotrexate) reduce anti-TNF antibody formation and improve pharmacokinetics ([[acg-2025-crohns]] Key Concept 43).
+- The third use is **adjunctive**: thiopurines (or methotrexate) reduce anti-tumor necrosis factor (TNF) antibody formation and improve pharmacokinetics ([[acg-2025-crohns]] Key Concept 43).
 - UC combination data exist **only for infliximab + thiopurines** — not for other anti-TNF agents ([[acg-2025-uc]] Key Concept 27).
-- UC SUCCESS regimen: infliximab **5 mg/kg** (loading weeks 0, 2, 6) + azathioprine **2.5 mg/kg orally** beat either monotherapy for corticosteroid-free clinical remission at 16 weeks, in patients naive to both agents **with normal TPMT activity** ([[acg-2025-uc]]).
+- UC SUCCESS regimen: infliximab **5 mg/kg** (loading weeks 0, 2, 6) + azathioprine **2.5 mg/kg orally** beat either monotherapy for corticosteroid-free clinical remission at 16 weeks, in patients naive to both agents **with normal thiopurine methyltransferase (TPMT) activity** ([[acg-2025-uc]]).
 - **Methotrexate may be the preferred combination immunomodulator** where thiopurine adverse effects are most feared — young men, or patients with multiple skin cancers ([[acg-2025-uc]]); this is extrapolated from CD data.
-- ACG explicitly cautions that accumulating thiopurine risk **may now outweigh the steroid-sparing benefit**, given newer mechanisms with more favorable safety profiles ([[acg-2025-crohns]]).
+- American College of Gastroenterology (ACG) explicitly cautions that accumulating thiopurine risk **may now outweigh the steroid-sparing benefit**, given newer mechanisms with more favorable safety profiles ([[acg-2025-crohns]]).
 
 ---
 
@@ -51,13 +51,13 @@ Purine-antimetabolite **immunomodulators** used in [[inflammatory-bowel-disease|
 - Both dose ranges are from [[acg-2025-crohns]] Rec 8 and 9. **The 6-MP lower bound is stated inconsistently within that guideline** (0.75 in the recommendation, 1.0 in the text) — noted rather than silently resolved.
 - Pediatric CD data: 6-MP **1.5 mg/kg/day** with the first corticosteroid course was effective; the equivalent early-azathioprine strategy in adults did **not** show a benefit in time in clinical remission ([[acg-2025-crohns]]).
 
-> **6-TGN target range: 230–450 pmol/8×10⁸ RBCs — monotherapy only**, per [[aga-2017-tdm-ibd]]; see [[therapeutic-drug-monitoring-ibd|therapeutic drug monitoring]] for the full thiopurine arm (pre-treatment TPMT testing and its dose-reduction table). **6-MMP target ranges, allopurinol co-prescribing, and dose-escalation rules are not given by the IBD guidelines** — [[acg-2025-crohns]] and [[acg-2025-uc]] discuss drug monitoring only for **anti-TNF** trough levels.
+> **6-thioguanine (6-TGN) target range: 230–450 pmol/8×10⁸ red blood cells (RBCs) — monotherapy only**, per [[aga-2017-tdm-ibd]]; see [[therapeutic-drug-monitoring-ibd|therapeutic drug monitoring]] for the full thiopurine arm (pre-treatment TPMT testing and its dose-reduction table). **6-methylmercaptopurine (6-MMP) target ranges, allopurinol co-prescribing, and dose-escalation rules are not given by the IBD guidelines** — [[acg-2025-crohns]] and [[acg-2025-uc]] discuss drug monitoring only for **anti-TNF** trough levels.
 
 ---
 
 ## Before starting — pharmacogenomic testing
 
-- **TPMT (thiopurine methyltransferase) testing before initial use of AZA or 6-MP** — **strong recommendation**, low level of evidence ([[acg-2025-crohns]] Rec 10). Purpose: identify patients at increased risk of **thiopurine-associated myelosuppression**.
+- **TPMT testing before initial use of AZA or 6-MP** — **strong recommendation**, low level of evidence ([[acg-2025-crohns]] Rec 10). Purpose: identify patients at increased risk of **thiopurine-associated myelosuppression**.
 - **NUDT15 (nudix hydrolase 15) variants** also impair thiopurine metabolism and raise drug-related toxicity, **particularly in people of East Asian, Latino, and Native American ancestry**. Testing **should be considered if available** ([[acg-2025-crohns]]) — a weaker instruction than the TPMT recommendation.
 - Both sit inside [[acg-2025-crohns]] Key Concept 22: HLA-DQA1\*05, HLA-DRB1\*03, NUDT15 and TPMT "can affect individual treatment response and identify potential risks for adverse effects… should be measured in **select patients**." (The two HLA haplotypes govern **anti-TNF immunogenicity**, not thiopurine toxicity.)
 
@@ -69,11 +69,11 @@ Purine-antimetabolite **immunomodulators** used in [[inflammatory-bowel-disease|
 
 - Skin-cancer and lymphoma risk rise with **ongoing use, duration of exposure, and increasing age**, and appear to **decrease after discontinuation**.
 - Hepatotoxicity: thiopurine and methotrexate liver injury is covered on [[drug-induced-liver-injury]].
-- The **malignancy risk table** (NMSC ~2×, lymphoma SIR 2.8–9.2, hepatosplenic T-cell lymphoma with anti-TNF, urinary-tract and cervical risk) and the **drug-by-cancer-type stop/continue grid** live on [[ibd-in-malignancy]] — not repeated here.
+- The **malignancy risk table** (NMSC ~2×, lymphoma standardized incidence ratio (SIR) 2.8–9.2, hepatosplenic T-cell lymphoma with anti-TNF, urinary-tract and cervical risk) and the **drug-by-cancer-type stop/continue grid** live on [[ibd-in-malignancy]] — not repeated here.
 - **Skin surveillance:** annual NMSC screening on 6-MP or azathioprine, and yearly total-body skin exam **continued even after thiopurine cessation** in anyone with any history of thiopurine use — schedule and vaccination context on [[ibd-preventive-care]].
 - Thiopurines (especially combined with anti-TNF) **blunt vaccine immunogenicity**; live vaccines and the IBD vaccination schedule are on [[ibd-preventive-care]].
 
-> **No laboratory monitoring interval is given.** [[acg-2025-crohns]] states that white blood cell counts and liver chemistries "should be routinely monitored" **for methotrexate** and gives no CBC/LFT frequency for thiopurines; [[acg-2025-uc]] Rec 15 says only that monitoring for drug-related complications "is important." Neither guideline prints a thiopurine monitoring schedule.
+> **No laboratory monitoring interval is given.** [[acg-2025-crohns]] states that white blood cell counts and liver chemistries "should be routinely monitored" **for methotrexate** and gives no complete blood count (CBC) / liver function test (LFT) frequency for thiopurines; [[acg-2025-uc]] Rec 15 says only that monitoring for drug-related complications "is important." Neither guideline prints a thiopurine monitoring schedule.
 
 ---
 

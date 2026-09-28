@@ -7,7 +7,7 @@ updated: 2026-09-21
 sources: [acg-2025-crohns, acg-2025-uc, acg-2021-dili, aga-2024-pregnancy-gi-liver]
 ---
 
-Antifolate **immunomodulator** used in [[inflammatory-bowel-disease|IBD]]. **The indication is disease-specific and asymmetric:** suggested for **maintenance in [[crohns-disease|Crohn's disease]]** after corticosteroid induction, and recommended **against** in [[ulcerative-colitis|UC]] — against monotherapy for induction, and against maintenance. Third role: **adjunctive**, to suppress immunogenicity on [[anti-tnf-agents|anti-TNF]] therapy. **Contraindicated in pregnancy.**
+Antifolate **immunomodulator** used in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]. **The indication is disease-specific and asymmetric:** suggested for **maintenance in [[crohns-disease|Crohn's disease (CD)]]** after corticosteroid induction, and recommended **against** in [[ulcerative-colitis|ulcerative colitis (UC)]] — against monotherapy for induction, and against maintenance. Third role: **adjunctive**, to suppress immunogenicity on [[anti-tnf-agents|anti-tumor necrosis factor (TNF)]] therapy. **Contraindicated in pregnancy.**
 
 ## Contents
 - [[#Positioning — by disease and by induction vs maintenance]]
@@ -26,11 +26,11 @@ Antifolate **immunomodulator** used in [[inflammatory-bowel-disease|IBD]]. **The
 
 | Setting | Recommendation | Strength / quality of evidence |
 |---|---|---|
-| Induction, moderately–severely active [[crohns-disease\|CD]] | Not a primary induction agent — no ACG 2025 recommendation either way | — |
-| **Maintenance in CD** after corticosteroid induction | **Suggest** methotrexate, up to **25 mg once weekly IM or SC** | **Conditional, moderate** ([[acg-2025-crohns]] Rec 11) |
+| Induction, moderately–severely active [[crohns-disease\|CD]] | Not a primary induction agent — no American College of Gastroenterology (ACG) 2025 recommendation either way | — |
+| **Maintenance in CD** after corticosteroid induction | **Suggest** methotrexate, up to **25 mg once weekly intramuscularly (IM) or subcutaneously (SC)** | **Conditional, moderate** ([[acg-2025-crohns]] Rec 11) |
 | Induction, moderately–severely active [[ulcerative-colitis\|UC]] | **Against** monotherapy with thiopurines **or methotrexate** | **Strong, low** ([[acg-2025-uc]] Rec 23) |
 | **Maintenance in UC** | **Suggest against** methotrexate | **Conditional, low** ([[acg-2025-uc]] Rec 37) |
-| Adjunctive in CD — reducing anti-TNF immunogenicity | **May be used** ([[acg-2025-crohns]] Key Concept 43 — key concepts carry no GRADE label) | — |
+| Adjunctive in CD — reducing anti-TNF immunogenicity | **May be used** ([[acg-2025-crohns]] Key Concept 43 — key concepts carry no Grading of Recommendations Assessment, Development and Evaluation (GRADE) label) | — |
 
 - Methotrexate is a **corticosteroid-sparing maintenance agent** in CD ([[acg-2025-crohns]]) — the decision point is after steroids have induced remission, not at the time of a flare. Compare [[thiopurines]] (same position, Rec 9) and [[corticosteroids-ibd]] (which the maintenance plan is replacing).
 - In UC, the **only** immunomodulator combination data are for **infliximab + thiopurines**; there are none for methotrexate ([[acg-2025-uc]] Key Concept 27).
@@ -47,7 +47,7 @@ Antifolate **immunomodulator** used in [[inflammatory-bowel-disease|IBD]]. **The
 ### Why methotrexate is not used in UC
 
 - **Induction:** prior studies of **oral** methotrexate showed no benefit; **2 meta-analyses of methotrexate 25 mg intramuscularly are negative**. In the European multicentre induction study, more patients on **parenteral methotrexate 25 mg/wk** reached steroid-free remission at **week 16**, but the difference was **not statistically significant** ([[acg-2025-uc]]).
-- **Maintenance:** in a prospective RCT methotrexate was **not superior to placebo**. The US **MERIT-UC** trial (parenteral methotrexate **25 mg/wk** after steroid induction) found no superiority — relapse in **29/44 (66%)** on methotrexate vs **25/40 (63%)** on placebo ([[acg-2025-uc]]).
+- **Maintenance:** in a prospective randomized controlled trial (RCT) methotrexate was **not superior to placebo**. The US **MERIT-UC** trial (parenteral methotrexate **25 mg/wk** after steroid induction) found no superiority — relapse in **29/44 (66%)** on methotrexate vs **25/40 (63%)** on placebo ([[acg-2025-uc]]).
 
 ---
 
@@ -56,7 +56,7 @@ Antifolate **immunomodulator** used in [[inflammatory-bowel-disease|IBD]]. **The
 | Indication | Dose | Route | Interval | Step-down / notes |
 |---|---|---|---|---|
 | CD maintenance after steroid induction | **25 mg** | **SC or IM** (parenteral) | **Once weekly** | If steroid-free remission is maintained at 25 mg/wk for **4 months**, the dose **may be lowered to 15 mg/week** |
-| CD maintenance — oral alternative | **15–25 mg** | **PO** | Once weekly | Only in patients with **normal small bowel absorption**; may be started on oral or switched from parenteral. **Controlled data for oral methotrexate as primary CD treatment are lacking** |
+| CD maintenance — oral alternative | **15–25 mg** | **Oral (PO)** | Once weekly | Only in patients with **normal small bowel absorption**; may be started on oral or switched from parenteral. **Controlled data for oral methotrexate as primary CD treatment are lacking** |
 | Adjunctive, to reduce anti-TNF immunogenicity | **12.5–15 mg** | **PO** | Once weekly | Immunogenicity suppression, **not** a disease-controlling dose; ⚠ off-label. Paired with [[anti-tnf-agents\|anti-TNF]] therapy |
 
 **Route rule (the decision):** in patients with **extensive small bowel disease or risk factors for malabsorption**, the bioavailability of oral methotrexate **at higher dosages may be variable** — **parenteral methotrexate may be the preferred route** in that context ([[acg-2025-crohns]]).

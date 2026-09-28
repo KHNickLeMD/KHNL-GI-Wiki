@@ -29,8 +29,8 @@ sources: [asge-2015-ercp-benign-biliary, asge-2015-benign-pancreatic-disease, as
 
 ### Establishing the Diagnosis
 - Clinical (biliary- or pancreatic-type pain) **plus** objective evidence: abnormal liver or pancreatic enzymes documented on ≥2 occasions, and/or a dilated bile or pancreatic duct.
-- **Exclude structural disease first** — stones, sludge, [[chronic-pancreatitis]], malignancy — with cross-sectional imaging, [[mri-mrcp|MRCP]], and/or [[endoscopic-ultrasound|EUS]] before invasive testing. ([[asge-2015-benign-pancreatic-disease]])
-- **Sphincter of Oddi manometry (SOM)** at [[ercp|ERCP]] is the reference test for sphincter hypertension but is invasive and itself raises post-ERCP pancreatitis risk — reserved for selected type II cases, not needed for type I. ([[asge-2015-ercp-benign-biliary]])
+- **Exclude structural disease first** — stones, sludge, [[chronic-pancreatitis|chronic pancreatitis (CP)]], malignancy — with cross-sectional imaging, [[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]], and/or [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] before invasive testing. ([[asge-2015-benign-pancreatic-disease]])
+- **Sphincter of Oddi manometry (SOM)** at [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] is the reference test for sphincter hypertension but is invasive and itself raises post-ERCP pancreatitis risk — reserved for selected type II cases, not needed for type I. ([[asge-2015-ercp-benign-biliary]])
 - **Do not pursue diagnostic [[ercp|ERCP]] for pancreaticobiliary-type pain when other imaging/labs are normal** — this is the type III scenario, where ERCP has no benefit and real harm (grade under *Therapeutics*). ([[asge-2015-ercp-benign-biliary]])
 
 ### Classification / Typing
@@ -41,7 +41,7 @@ Two parallel 3-type schemes — **biliary** (Rome III revision of the Milwaukee 
 
 | Type | Criteria | Sphincterotomy response |
 |---|---|---|
-| **Type I** | Biliary-type pain **+** abnormal AST/ALT, bilirubin, or ALP (**>2× normal** on ≥2 occasions) **+** dilated bile duct (**>8 mm on US**) | **>90%** pain resolution with sphincterotomy — **SOM not necessary** |
+| **Type I** | Biliary-type pain **+** abnormal aspartate aminotransferase (AST)/alanine aminotransferase (ALT), bilirubin, or alkaline phosphatase (ALP) (**>2× normal** on ≥2 occasions) **+** dilated bile duct (**>8 mm on ultrasound [US]**) | **>90%** pain resolution with sphincterotomy — **SOM not necessary** |
 | **Type II** | Biliary-type pain **+ one** of the above lab or imaging abnormalities | Sphincterotomy helps the **majority** when biliary manometry is abnormal — **SOM often recommended** to confirm and select responders |
 | **Type III** | Recurrent biliary-type pain **alone**, no lab or imaging abnormality | **No benefit** from SOM or sphincterotomy — **do not scope** (EPISOD) |
 
@@ -50,7 +50,7 @@ Two parallel 3-type schemes — **biliary** (Rome III revision of the Milwaukee 
 | Type | Criteria |
 |---|---|
 | **Type 1** | Pancreatic-type pain **+** abnormal pancreatic enzymes (on **2 occasions**) **+** dilated pancreatic duct |
-| **Type 2** | Pancreatic-type pain **+ either** abnormal enzymes **or** a dilated PD |
+| **Type 2** | Pancreatic-type pain **+ either** abnormal enzymes **or** a dilated pancreatic duct (PD) |
 | **Type 3** | "Pancreatic-type" pain **alone** |
 
 - **The distinction that matters:** *both* the lab abnormality *and* the ductal dilation define type I/1; *one* of them defines type II/2; *neither* is type III/3. Type III/3 is pain only — the type that must **not** be evaluated or treated with ERCP.
@@ -60,7 +60,7 @@ Two parallel 3-type schemes — **biliary** (Rome III revision of the Milwaukee 
 
 *Workup: exclude structural pancreaticobiliary disease before invoking SOD — see [[jaundice]] for the cholestasis algorithm and [[biliary-stricture]] for the obstructive differential.*
 
-- [[choledocholithiasis|CBD stones]] / microlithiasis / biliary sludge.
+- [[choledocholithiasis|Common bile duct (CBD) stones]] / microlithiasis / biliary sludge.
 - [[biliary-stricture|Biliary stricture]] (benign or malignant).
 - [[chronic-pancreatitis|Chronic pancreatitis]] and pancreatic-duct stones.
 - [[pancreas-divisum|Pancreas divisum]] (a structural cause of recurrent pancreatitis, evaluated separately).
@@ -80,11 +80,11 @@ Two parallel 3-type schemes — **biliary** (Rome III revision of the Milwaukee 
 - **Type II:** biliary sphincterotomy benefits the majority with abnormal biliary manometry; some experts perform **empiric** biliary sphincterotomy without SOM on the basis of favorable response, low adverse-event rates, and cost-effectiveness. ([[asge-2015-ercp-benign-biliary]])
 - **Type III:** **Do NOT perform ERCP** for evaluation or treatment (**High**). ([[asge-2015-ercp-benign-biliary]])
 
-> **EPISOD trial** (RCT, NIH, multicenter; 214 post-cholecystectomy patients with pain but no imaging/lab abnormality, no prior sphincter intervention or pancreatitis, randomized 2:1 to sphincterotomy vs sham). Treatment success (< 6 days pain-related disability over 90 days, no narcotics, no further intervention) was **23% with sphincterotomy vs 37% with sham** (adjusted risk difference 15.6% *favoring sham*, P < .01). Dual vs single sphincterotomy made no difference. Pancreatitis occurred in 11% (sphincterotomy) vs 15% (sham). **Conclusion: manometry and sphincterotomy do not benefit type III SOD and carry significant adverse-event rates.** ([[asge-2015-ercp-benign-biliary]])
+> **EPISOD trial** (randomized controlled trial [RCT], National Institutes of Health [NIH], multicenter; 214 post-cholecystectomy patients with pain but no imaging/lab abnormality, no prior sphincter intervention or pancreatitis, randomized 2:1 to sphincterotomy vs sham). Treatment success (< 6 days pain-related disability over 90 days, no narcotics, no further intervention) was **23% with sphincterotomy vs 37% with sham** (adjusted risk difference 15.6% *favoring sham*, P < .01). Dual vs single sphincterotomy made no difference. Pancreatitis occurred in 11% (sphincterotomy) vs 15% (sham). **Conclusion: manometry and sphincterotomy do not benefit type III SOD and carry significant adverse-event rates.** ([[asge-2015-ercp-benign-biliary]])
 
 ### Pancreatic SOD
 - **Type 1:** biliary and/or pancreatic sphincterotomy (Moderate). Because a biliary sphincterotomy also cuts the common sphincter, it may sufficiently lower pancreatic sphincter pressure depending on the common sphincter's contribution. ([[asge-2015-benign-pancreatic-disease]])
-- **Type 2 confirmed by manometry:** biliary and/or pancreatic sphincterotomy (Moderate). Approach varies by center — manometry-guided therapy, empiric biliary ± pancreatic sphincterotomy, or biliary sphincterotomy first with pancreatic SOM reserved for non-responders. In IRAP, biliary sphincterotomy alone (~51%) performed similarly to combined biliary + pancreatic sphincterotomy (~53%) for preventing recurrent AP. ([[asge-2015-benign-pancreatic-disease]])
+- **Type 2 confirmed by manometry:** biliary and/or pancreatic sphincterotomy (Moderate). Approach varies by center — manometry-guided therapy, empiric biliary ± pancreatic sphincterotomy, or biliary sphincterotomy first with pancreatic SOM reserved for non-responders. In IRAP, biliary sphincterotomy alone (~51%) performed similarly to combined biliary + pancreatic sphincterotomy (~53%) for preventing recurrent acute pancreatitis. ([[asge-2015-benign-pancreatic-disease]])
 - **Type 3:** **Do NOT use ERCP** for evaluation of recurrent/chronic abdominal pain interpreted as type 3 SOD (**High**). ([[asge-2015-benign-pancreatic-disease]])
 
 ### Post-ERCP Pancreatitis Prophylaxis

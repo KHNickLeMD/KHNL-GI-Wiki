@@ -15,22 +15,22 @@ sources: []
 - **Year:** 2022
 - **Volume/Pages:** 117:542–558
 - **DOI:** [10.14309/ajg.0000000000001627](https://doi.org/10.14309/ajg.0000000000001627)
-- **Type:** guideline (joint ACG/CAG Clinical Guideline, GRADE)
+- **Type:** guideline (joint American College of Gastroenterology [ACG]/Canadian Association of Gastroenterology [CAG] Clinical Guideline, Grading of Recommendations Assessment, Development and Evaluation [GRADE])
 - **Published online:** March 17, 2022
-- **Methodology:** GRADE-based systematic review; 18 PICO questions; 6 voting content experts (4 gastroenterologists, 1 cardiologist, 1 thrombosis expert); consensus threshold 75%
+- **Methodology:** GRADE-based systematic review; 18 Population, Intervention, Comparison, Outcome (PICO) questions; 6 voting content experts (4 gastroenterologists, 1 cardiologist, 1 thrombosis expert); consensus threshold 75%
 
 ## Summary
 
-This joint ACG/CAG guideline addresses two clinical contexts: (1) management of antithrombotic drugs in patients with acute GI bleeding, and (2) periendoscopic management in patients undergoing elective endoscopic procedures. The guideline uses the GRADE methodology and yields 18 statements, all conditional (very low or low certainty), with several PICOs reaching "no recommendation" due to insufficient evidence.
+This joint ACG/CAG guideline addresses two clinical contexts: (1) management of antithrombotic drugs in patients with acute gastrointestinal (GI) bleeding, and (2) periendoscopic management in patients undergoing elective endoscopic procedures. The guideline uses the GRADE methodology and yields 18 statements, all conditional (very low or low certainty), with several PICOs reaching "no recommendation" due to insufficient evidence.
 
 **Acute GI Bleeding (Statements 1–10):**
 
-- Against FFP for warfarin reversal (Statement 1); no recommendation for or against PCC vs. placebo (Statement 2); PCC preferred over FFP if reversal agent is used (Statement 3); against vitamin K in acute setting (Statement 4)
+- Against fresh frozen plasma (FFP) for warfarin reversal (Statement 1); no recommendation for or against prothrombin complex concentrate (PCC) vs. placebo (Statement 2); PCC preferred over FFP if reversal agent is used (Statement 3); against vitamin K in acute setting (Statement 4)
 - Against idarucizumab for dabigatran-related GI bleeding (Statement 5)
 - Against andexanet alfa for rivaroxaban/apixaban-related GI bleeding (Statement 6)
-- Against PCC for DOAC-related GI bleeding (Statement 7)
+- Against PCC for direct oral anticoagulant (DOAC)-related GI bleeding (Statement 7)
 - Against platelet transfusion for antiplatelet-related GI bleeding (Statement 8)
-- Against holding cardiac ASA (secondary prevention) during GI bleeding (Statement 9); if held, resume on the day hemostasis is endoscopically confirmed (Statement 10)
+- Against holding cardiac aspirin (ASA) (secondary prevention) during GI bleeding (Statement 9); if held, resume on the day hemostasis is endoscopically confirmed (Statement 10)
 
 **Elective Periendoscopic Period (Statements 11–18):**
 
@@ -44,16 +44,16 @@ This joint ACG/CAG guideline addresses two clinical contexts: (1) management of 
 
 ### Reversal Agents — Acute GI Bleeding
 
-**VKA (warfarin):**
+**Vitamin K antagonist (VKA; warfarin):**
 
-- FFP fails to reliably normalize INR (range 1.6–3.8 in one cohort); associated with fluid overload and possible thrombotic risk
-- PCC (4-factor) achieves rapid INR correction (RR for rapid correction vs FFP: 6.99, 95% CI 3.61–13.53); preferred over FFP if reversal is needed
+- FFP fails to reliably normalize international normalized ratio (INR) (range 1.6–3.8 in one cohort); associated with fluid overload and possible thrombotic risk
+- PCC (4-factor) achieves rapid INR correction (relative risk [RR] for rapid correction vs FFP: 6.99, 95% confidence interval [CI] 3.61–13.53); preferred over FFP if reversal is needed
 - Vitamin K takes 24–48 hours to work and is not useful for acute hemostasis; may be considered only if intent is prolonged reversal or cessation of VKA
 - Caveats: PCC or FFP can be considered in life-threatening GI hemorrhage, supratherapeutic INR substantially above range, or when massive transfusion is undesirable
 
 **Dabigatran — idarucizumab:**
 
-- One comparative cohort (N=1,283 GI bleed patients): no significant mortality or VTE difference with idarucizumab
+- One comparative cohort (N=1,283 GI bleed patients): no significant mortality or venous thromboembolism (VTE) difference with idarucizumab
 - High cost and very low certainty evidence; selective use may be appropriate in life-threatening bleed within 24 hours of last dose
 
 **Rivaroxaban/apixaban — andexanet alfa:**
@@ -63,29 +63,29 @@ This joint ACG/CAG guideline addresses two clinical contexts: (1) management of 
 
 **DOACs — 4-factor PCC:**
 
-- Very sparse data; 2 patients with GI bleed on dabigatran receiving 4F-PCC both died within 30 days (unadjusted)
+- Very sparse data; 2 patients with GI bleed on dabigatran receiving 4-factor PCC (4F-PCC) both died within 30 days (unadjusted)
 - Selective use may be justified in life-threatening bleed within 24 hours of last dose
 
 **Antiplatelet — platelet transfusion:**
 
-- One cohort study (N=204 matched pairs): platelet transfusion significantly associated with increased mortality (OR 5.57, 95% CI 1.52–27.1) and nonsignificant increases in rebleeding and thrombosis; against routine use
+- One cohort study (N=204 matched pairs): platelet transfusion significantly associated with increased mortality (odds ratio [OR] 5.57, 95% CI 1.52–27.1) and nonsignificant increases in rebleeding and thrombosis; against routine use
 
 **ASA:**
 
 - Irreversible platelet inhibition persists 7–10 days; stopping ASA has little effect on acute course
-- RCT (N=156, high-risk ulcer bleed): ASA continuation vs. 8-week interruption — similar rebleeding at 30 days but significantly lower 8-week mortality with continued ASA (1.3% vs. 10.3%)
+- Randomized controlled trial (RCT) (N=156, high-risk ulcer bleed): ASA continuation vs. 8-week interruption — similar rebleeding at 30 days but significantly lower 8-week mortality with continued ASA (1.3% vs. 10.3%)
 
 ### Periendoscopic Antithrombotic Management
 
 **Procedural bleeding risk stratification (Table 3):**
 
-- High bleeding risk (30-day major bleed >2%): [[polypectomy]] ≥1 cm, PEG/PEJ, [[ercp|ERCP]] with sphincterotomy, EMR/ESD, [[endoscopic-ultrasound|EUS-FNA]], endoscopic hemostasis (excl. APC), RFA, [[poem|POEM]], variceal treatment (including band ligation), therapeutic balloon enteroscopy, ampullary resection, cystogastrostomy, pneumatic/bougie dilation, laser ablation
-- Low/moderate bleeding risk (≤2%): [[upper-endoscopy|EGD]] ± biopsy, [[colonoscopy]] ± biopsy, flex sig ± biopsy, ERCP with stent without sphincterotomy, EUS without FNA, push enteroscopy, diagnostic balloon enteroscopy, enteral stent deployment, APC, polypectomy <1 cm, tumor ablation, ERCP without sphincterotomy, marking/clipping/tattooing, video capsule
+- High bleeding risk (30-day major bleed >2%): [[polypectomy]] ≥1 cm, percutaneous endoscopic gastrostomy (PEG)/percutaneous endoscopic jejunostomy (PEJ), [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] with sphincterotomy, endoscopic mucosal resection (EMR)/endoscopic submucosal dissection (ESD), [[endoscopic-ultrasound|endoscopic ultrasound (EUS)-fine-needle aspiration (FNA)]], endoscopic hemostasis (excl. argon plasma coagulation [APC]), radiofrequency ablation (RFA), [[poem|peroral endoscopic myotomy (POEM)]], variceal treatment (including band ligation), therapeutic balloon enteroscopy, ampullary resection, cystogastrostomy, pneumatic/bougie dilation, laser ablation
+- Low/moderate bleeding risk (≤2%): [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] ± biopsy, [[colonoscopy]] ± biopsy, flexible sigmoidoscopy ± biopsy, ERCP with stent without sphincterotomy, EUS without FNA, push enteroscopy, diagnostic balloon enteroscopy, enteral stent deployment, APC, polypectomy <1 cm, tumor ablation, ERCP without sphincterotomy, marking/clipping/tattooing, video capsule
 
 **Thromboembolic risk stratification (Table 4):**
 
-- High: any mitral valve prosthesis; caged-ball or tilting disc aortic valve; recent (<3 mo) stroke/TIA; CHADS2 5–6 or CHA2DS2-VASc ≥7; recent (<3 mo) VTE; severe thrombophilia; rheumatic valvular disease
-- Moderate: bileaflet AV prosthesis + AF or other stroke risk factors; CHADS2 2–4; CHA2DS2-VASc 5–6
+- High: any mitral valve prosthesis; caged-ball or tilting disc aortic valve; recent (<3 mo) stroke/transient ischemic attack (TIA); CHADS2 5–6 or CHA2DS2-VASc ≥7; recent (<3 mo) VTE; severe thrombophilia; rheumatic valvular disease
+- Moderate: bileaflet aortic valve (AV) prosthesis + atrial fibrillation (AF) or other stroke risk factors; CHADS2 2–4; CHA2DS2-VASc 5–6
 - Low: bileaflet AV prosthesis without AF, no other stroke risk; CHADS2 0–1; CHA2DS2-VASc 1–4; VTE >12 months ago; non-severe thrombophilia; active cancer
 
 **Warfarin periendoscopic:**
@@ -102,7 +102,7 @@ This joint ACG/CAG guideline addresses two clinical contexts: (1) management of 
 - 30-day thromboembolic rate with DOAC interruption: 0.7%; GI bleed rate: 2.5%
 - Earlier DOAC resumption (day 0–3 vs. after day 3) associated with lower bleeding (2.3% vs. 11.5%)
 
-**Dual antiplatelet therapy (DAPT):**
+**DAPT:**
 
 - Interrupt P2Y12 inhibitor (clopidogrel, prasugrel, ticagrelor), continue ASA
 - Applies to elective procedures only; not emergency
@@ -137,7 +137,7 @@ This joint ACG/CAG guideline addresses two clinical contexts: (1) management of 
 | **Periendoscopic — DOAC** | | |
 | Temporarily interrupt DOACs rather than continue for elective endoscopic procedures | Conditional | Low |
 | **Periendoscopic — Antiplatelet** | | |
-| Interrupt P2Y12 inhibitor while continuing ASA in dual antiplatelet therapy (DAPT) patients | Conditional | Very Low |
+| Interrupt P2Y12 inhibitor while continuing ASA in DAPT patients | Conditional | Very Low |
 | No recommendation for or against interruption of single-agent P2Y12 inhibitor monotherapy | No recommendation | Insufficient evidence |
 | Continue ASA monotherapy (secondary prevention) for elective endoscopic procedures | Conditional | Low |
 | No recommendation on timing of resumption for warfarin after elective endoscopy | No recommendation | Insufficient evidence |

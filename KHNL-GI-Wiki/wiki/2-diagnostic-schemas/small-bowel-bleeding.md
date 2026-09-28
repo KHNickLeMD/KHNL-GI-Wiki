@@ -43,7 +43,7 @@ sources: [acg-2015-small-bowel-bleeding, aga-2020-ida, asge-2017-small-bowel-ble
 
 ## Definition / Scope
 
-**Small bowel bleeding (SBB)** refers to GI bleeding originating distal to the ampulla of Vater and proximal to the ileocecal valve — i.e., the duodenum (post-ampullary), jejunum, and ileum. It accounts for approximately 5–10% of all GI bleeding presentations. [[acg-2015-small-bowel-bleeding]]
+**Small bowel bleeding (SBB)** refers to gastrointestinal (GI) bleeding originating distal to the ampulla of Vater and proximal to the ileocecal valve — i.e., the duodenum (post-ampullary), jejunum, and ileum. It accounts for approximately 5–10% of all GI bleeding presentations. [[acg-2015-small-bowel-bleeding]]
 
 This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with anatomically specific terminology:
 
@@ -53,7 +53,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 | **Small bowel bleeding** | Source confirmed distal to the ampulla of Vater **and** proximal to the ileocecal valve (both must hold — an "or" would take in every upper and colonic source) |
 | **Overt SBB** | Melena or hematochezia with a confirmed small bowel source |
 | **Occult SBB** | [[iron-deficiency-anemia\|Iron-deficiency anemia]] ± guaiac-positive stools with confirmed small bowel source |
-| **Obscure GI bleeding (OGIB)** | No source found after comprehensive evaluation including upper/lower scope, VCE/enteroscopy, and radiography |
+| **OGIB** | No source found after comprehensive evaluation including upper/lower scope, video capsule endoscopy (VCE)/enteroscopy, and radiography |
 
 **Relationship to upper and lower GI bleeding:**
 
@@ -72,7 +72,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 | [[inflammatory-bowel-disease\|Inflammatory bowel disease]] ([[crohns-disease]]) | [[angioectasia\|Angioectasia]] | Henoch-Schönlein purpura |
 | Dieulafoy's lesions | Dieulafoy's lesions | Amyloidosis |
 | Neoplasia | Neoplasia | Blue rubber bleb nevus syndrome |
-| [[meckels-diverticulum]] | [[peptic-ulcer-disease\|NSAID ulcers]] | Pseudoxanthoma elasticum |
+| [[meckels-diverticulum]] | [[peptic-ulcer-disease\|nonsteroidal anti-inflammatory drug (NSAID) ulcers]] | Pseudoxanthoma elasticum |
 | Polyposis syndromes ([[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]]) | | [[hereditary-hemorrhagic-telangiectasia\|Osler-Weber-Rendu syndrome (HHT)]] |
 | | | Kaposi's sarcoma (AIDS) |
 | | | Plummer-Vinson syndrome |
@@ -85,13 +85,13 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 ### Vascular Lesions (Most Common Overall)
 
-- **Angioectasia (angiodysplasia):** Most common cause of SBB across all age groups. Prevalence 24% in both VCE and DBE series. [[angioectasia]]
+- **Angioectasia (angiodysplasia):** Most common cause of SBB across all age groups. Prevalence 24% in both VCE and double-balloon enteroscopy (DBE) series. [[angioectasia]]
 - Risk factors for recurrent angioectasia bleeding: number of lesions, age >65, jejunal location, cardiac valvular disease, chronic renal failure, anticoagulant use, need for transfusion.
-- **[[heydes-syndrome]]:** Association of aortic stenosis + angioectasia — called a **controversial association** by [[acg-2015-small-bowel-bleeding|ACG 2015]], thought to be secondary to an acquired **type 2 von Willebrand deficiency**. Left ventricular assist devices (LVADs) cause a similar syndrome. *(The guideline does not describe the shear-stress → multimer-cleavage mechanism; see [[heydes-syndrome]] for that gap.)*
+- **[[heydes-syndrome]]:** Association of aortic stenosis + angioectasia — called a **controversial association** by [[acg-2015-small-bowel-bleeding|American College of Gastroenterology (ACG) 2015]], thought to be secondary to an acquired **type 2 von Willebrand deficiency**. Left ventricular assist devices (LVADs) cause a similar syndrome. *(The guideline does not describe the shear-stress → multimer-cleavage mechanism; see [[heydes-syndrome]] for that gap.)*
 
 ### Inflammatory
 
-- [[crohns-disease]]: SB Crohn's is a major cause in younger patients; CTE preferred before VCE if IBD suspected (risk of capsule retention).
+- [[crohns-disease]]: Small bowel (SB) Crohn's is a major cause in younger patients; computed tomography (CT) enterography (CTE) preferred before VCE if inflammatory bowel disease (IBD) suspected (risk of capsule retention).
 - NSAID ulcers: Major cause in older patients on NSAIDs/aspirin.
 
 ### Neoplastic
@@ -118,16 +118,16 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 **Branch A — No suspected obstruction:**
 
-- Proceed to **[[capsule-endoscopy]] (VCE)** as first-line test. *(Strong/Moderate)*
+- Proceed to **[[capsule-endoscopy|VCE]]** as first-line test. *(Strong/Moderate)*
 - VCE should be performed **within 48–72 h** of overt SBB for highest diagnostic yield.
-- If VCE positive → proceed to push or [[device-assisted-enteroscopy|deep enteroscopy]] for therapy ± surgery ± IOE.
+- If VCE positive → proceed to push or [[device-assisted-enteroscopy|deep enteroscopy]] for therapy ± surgery ± intraoperative enteroscopy (IOE).
 - If VCE negative → assess whether further evaluation is warranted.
   - If yes: consider repeat endoscopy/VCE/Meckel's scan/surgery ± IOE.
   - If no: observation + iron supplements.
 
 **Branch B — Suspected obstruction (IBD, prior surgery, stenosis, prior radiation):**
 
-- Perform **CTE or MRE** before VCE. *(Strong/Very Low)*
+- Perform **CTE or magnetic resonance enterography (MRE)** before VCE. *(Strong/Very Low)*
 - If positive → further evaluation warranted → push/deep enteroscopy ± surgery.
 - If negative (no obstruction confirmed) → proceed to VCE.
 
@@ -138,8 +138,8 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 1. Stabilize patient hemodynamically.
 2. If hemodynamically **unstable**: conventional **angiography emergently**. *(Strong/Low)*
-3. If hemodynamically **stable with active bleeding**: **multiphasic CTA** to identify site and guide management. *(Strong/Low)*
-4. If bleeding slower (0.1–0.2 ml/min) or uncertain activity: **tagged RBC scintigraphy** if VCE/deep enteroscopy not performed. *(Strong/Moderate)*
+3. If hemodynamically **stable with active bleeding**: **multiphasic CT angiography (CTA)** to identify site and guide management. *(Strong/Low)*
+4. If bleeding slower (0.1–0.2 ml/min) or uncertain activity: **tagged red blood cell (RBC) scintigraphy** if VCE/deep enteroscopy not performed. *(Strong/Moderate)*
 5. In brisk active bleeding: **CTA preferred over CTE**. *(Conditional/Very Low)*
 6. **Conventional angiography** not a diagnostic tool without overt bleeding. *(Conditional/Very Low)*
 7. **Provocative angiography** only for ongoing overt bleeding after negative VCE, DBE, and CT. *(Conditional/Very Low)*
@@ -164,7 +164,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 - **First-line test** for SBB after exclusion of upper/lower sources. *(Strong/Moderate)*
 - Evaluates 79–90% of small bowel; diagnostic yield 38–83% for suspected SBB.
 - Sensitivity 94–97%, specificity 83–100% for GI bleeding evaluation.
-- NPV 83–100% (a negative VCE is reassuring).
+- Negative predictive value (NPV) 83–100% (a negative VCE is reassuring).
 - **Timing:** VCE within 48–72 h of overt SBB has greatest yield; overt bleeding (60%) > occult (46%).
 - **VCE before DBE:** perform VCE first to guide targeted (VCE-guided) DBE, which raises diagnostic yield to 73–93% and therapeutic yield to 57–73%.
 - **Contraindications/limitations:** capsule retention in ~1.5% overall, up to 13% in [[crohns-disease|Crohn's disease]] — patency capsule recommended first if obstruction suspected; cannot perform therapeutics; misses duodenal papilla in most cases; lower yield for duodenal/proximal jejunal lesions.
@@ -174,13 +174,13 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 - Extended upper endoscopy with a dedicated push enteroscope (~250 cm) or a pediatric colonoscope; limited to the proximal small bowel — **~70 cm distal to Treitz** with a push enteroscope, **45–60 cm** when a colonoscope is used.
 - Diagnostic yield 3–70% (majority of findings are vascular lesions).
-- Key role: second-look for proximal lesions missed by VCE; important because ~25% of "SBB" lesions are within reach of standard EGD. *(Strong/Very Low for proximal lesion concern)*
+- Key role: second-look for proximal lesions missed by VCE; important because ~25% of "SBB" lesions are within reach of standard esophagogastroduodenoscopy (EGD). *(Strong/Very Low for proximal lesion concern)*
 
 ### Device-Assisted Enteroscopy (DAE)
 
-- Collectively: double-balloon enteroscopy (DBE), single-balloon enteroscopy (SBE), and spiral enteroscopy.
+- Collectively: DBE, single-balloon enteroscopy (SBE), and spiral enteroscopy.
 - Indicated when: (a) positive VCE requiring therapy; (b) VCE contraindicated; (c) negative VCE with high clinical suspicion; (d) active bleeding.
-- **Any method of DAE** has equivalent diagnostic yields. *(Strong/High)*
+- **Any method of device-assisted enteroscopy (DAE)** has equivalent diagnostic yields. *(Strong/High)*
 - Total enteroscopy (complete SB evaluation) preferred when SB lesion strongly suspected but not localized. *(Strong/Moderate)*
 - DBE diagnostic yield: 60–80%; therapeutic success 40–73%.
 - DBE complication rate: 0.8% diagnostic, up to 4% if therapeutics performed; pancreatitis is most common complication (~0.3%).
@@ -189,7 +189,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 ### CT Enterography (CTE)
 
-- Preferred radiographic modality for SBB evaluation. *(Strong/Low; CT preferred over MR: Conditional/Very Low)*
+- Preferred radiographic modality for SBB evaluation. *(Strong/Low; CT preferred over magnetic resonance [MR]: Conditional/Very Low)*
 - Advantages over VCE: detects mural-based masses (sensitivity 9/9 vs. 3/9 in one series), guides deep enteroscopy approach, can screen for VCE contraindications.
 - Pooled diagnostic yield ~40% vs. ~53% for VCE (meta-analysis, 18 studies) — complementary, not equivalent.
 - **CTE before VCE** in: IBD, prior radiation, prior SB surgery, suspected SB stenosis. *(Strong/Very Low)*
@@ -222,7 +222,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 ### Meckel's Scan (⁹⁹ᵐTc-pertechnetate)
 
 - Detects ectopic gastric mucosa in [[meckels-diverticulum|Meckel's diverticulum]]; most useful in younger patients.
-- Sensitivity 50–90%, specificity 9–95%; false positives from ulcers, AVM, intussusception, duplication cysts.
+- Sensitivity 50–90%, specificity 9–95%; false positives from ulcers, arteriovenous malformation (AVM), intussusception, duplication cysts.
 - Use: younger patients with ongoing overt bleeding and negative VCE + enterography. *(Conditional/Very Low)*
 
 ### Intraoperative Enteroscopy (IOE)
@@ -258,7 +258,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 ### Conservative Management (No Bleeding Source Found on Workup)
 
-- Manage with **oral iron** or **IV iron infusion** based on severity/persistence of IDA. *(Strong/Very Low)* — **which route, and the ferritin/Hb figures that decide it, live on [[iron-deficiency-anemia]]** ([[aga-2020-ida]]); [[acg-2015-small-bowel-bleeding]] does not set them.
+- Manage with **oral iron** or **intravenous (IV) iron infusion** based on severity/persistence of iron-deficiency anemia (IDA). *(Strong/Very Low)* — **which route, and the ferritin/hemoglobin (Hb) figures that decide it, live on [[iron-deficiency-anemia]]** ([[aga-2020-ida]]); [[acg-2015-small-bowel-bleeding]] does not set them.
 - A small vascular lesion found on VCE does not always require treatment. *(Strong/Very Low)*
 - If anemia worsens despite conservative management → repeat full diagnostic workup. *(Strong/Low)*
 
@@ -266,8 +266,8 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 If bleeding persists or recurs and lesion cannot be localized: *(Strong/Moderate)*
 
-- **[[somatostatin-analogs|Somatostatin analogs]] (octreotide):** Depot octreotide LAR 90 mg monthly or lanreotide IM monthly for 12 months (range 6–36). Meta-analysis confirms benefit in reducing transfusion requirements; no placebo-controlled RCT with hard endpoints. Age >65, male sex, antiplatelet therapy, COPD, and chronic renal failure are predictors of poor response.
-- **Thalidomide (antiangiogenic):** Open-label RCT — **25 mg QID × 4 months** vs iron 100 mg/day; entry criterion was **≥6 bleeding episodes** (immunoassay FOBT-positive), ≥12-month follow-up. Primary endpoint (≥50% reduction in bleeding episodes) met in **20/28 (71%) vs 1/27 (4%)**, p<0.001. Adverse effects in 73% vs 34% (fatigue, constipation, somnolence). Off-label use — significant teratogenicity risk.
+- **[[somatostatin-analogs|Somatostatin analogs]] (octreotide):** Depot octreotide long-acting release (LAR) 90 mg monthly or lanreotide intramuscular (IM) monthly for 12 months (range 6–36). Meta-analysis confirms benefit in reducing transfusion requirements; no placebo-controlled randomized controlled trial (RCT) with hard endpoints. Age >65, male sex, antiplatelet therapy, chronic obstructive pulmonary disease (COPD), and chronic renal failure are predictors of poor response.
+- **Thalidomide (antiangiogenic):** Open-label RCT — **25 mg four times daily (QID) × 4 months** vs iron 100 mg/day; entry criterion was **≥6 bleeding episodes** (immunoassay fecal occult blood test [FOBT]–positive), ≥12-month follow-up. Primary endpoint (≥50% reduction in bleeding episodes) met in **20/28 (71%) vs 1/27 (4%)**, p<0.001. Adverse effects in 73% vs 34% (fatigue, constipation, somnolence). Off-label use — significant teratogenicity risk.
 - **Hormonal therapy (estrogen/progesterone):** NOT recommended — multicenter Spanish RCT showed no benefit vs. placebo. *(Evidence level: definitively resolved against)*
 - **Iron (oral or IV):** Standard supportive care regardless of other interventions.
 - **[[anticoagulation-gi-bleeding|Anticoagulation]]/antiplatelet:** Discontinue if possible. *(Conditional/Very Low)*

@@ -16,13 +16,13 @@ sources: []
 - **Year:** 2025
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
 - **DOI:** [10.1053/j.gastro.2025.08.004](https://doi.org/10.1053/j.gastro.2025.08.004)
-- **Type:** GRADE-based guideline
+- **Type:** Grading of Recommendations Assessment, Development and Evaluation (GRADE)-based guideline
 
 ---
 
 ## Summary
 
-This AGA guideline standardizes diagnosis and pharmacologic/procedural management of [[gastroparesis]]. It favors a properly performed **4-hour gastric emptying scintigraphy**, endorses **metoclopramide** and **erythromycin** as prokinetics, and issues a striking series of *against* recommendations for many commonly used drugs and refractory-disease procedures owing to weak evidence. Diagnostic overlap with [[dyspepsia]] and [[disorders-of-gut-brain-interaction]] is emphasized — rule out alternative/coexisting causes first, especially when pain predominates.
+This American Gastroenterological Association (AGA) guideline standardizes diagnosis and pharmacologic/procedural management of [[gastroparesis]]. It favors a properly performed **4-hour gastric emptying scintigraphy**, endorses **metoclopramide** and **erythromycin** as prokinetics, and issues a striking series of *against* recommendations for many commonly used drugs and refractory-disease procedures owing to weak evidence. Diagnostic overlap with [[dyspepsia]] and [[disorders-of-gut-brain-interaction]] is emphasized — rule out alternative/coexisting causes first, especially when pain predominates.
 
 ---
 
@@ -45,7 +45,7 @@ This AGA guideline standardizes diagnosis and pharmacologic/procedural managemen
 
 ## Clinical Relevance
 
-Reaffirms metoclopramide and erythromycin as the evidence-supported prokinetics while explicitly discouraging many off-label drugs and pyloric/stimulation procedures as routine therapy. Reinforces rigorous 4-hour scintigraphy and exclusion of mimics within the [[dyspepsia]] workup. The myotomy theme connects technically to [[poem]] (achalasia) though the guideline does not endorse its gastric analogue routinely.
+Reaffirms metoclopramide and erythromycin as the evidence-supported prokinetics while explicitly discouraging many off-label drugs and pyloric/stimulation procedures as routine therapy. Reinforces rigorous 4-hour scintigraphy and exclusion of mimics within the [[dyspepsia]] workup. The myotomy theme connects technically to [[poem|per-oral endoscopic myotomy (POEM)]] (achalasia) though the guideline does not endorse its gastric analogue routinely.
 
 ---
 

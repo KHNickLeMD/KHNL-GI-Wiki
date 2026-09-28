@@ -28,15 +28,15 @@ This guideline addresses drainage of **malignant hilar obstruction (MHO)** — m
 
 ## Key Recommendations (conditional)
 
-- **Modality:** **against routine first-line PTBD**; prefer **endoscopic biliary drainage (EBD)** for patients undergoing drainage before potential resection/transplant or palliation (PTBD reserved for failed/complex cases).
+- **Modality:** **against routine first-line percutaneous transhepatic biliary drainage (PTBD)**; prefer **endoscopic biliary drainage (EBD)** for patients undergoing drainage before potential resection/transplant or palliation (PTBD reserved for failed/complex cases).
 - **Strategy:** for unresectable MHO undergoing palliative stenting, **bilateral over unilateral** stents in the **absence of liver lobe atrophy** (drain ≥50% of viable liver).
-- **Stent choice:** **SEMS or plastic stents** are both acceptable; **SEMS** preferred for patients with longer life expectancy or who prioritize avoiding repeat interventions.
+- **Stent choice:** **self-expandable metal stents (SEMS) or plastic stents** are both acceptable; **SEMS** preferred for patients with longer life expectancy or who prioritize avoiding repeat interventions.
 
 ---
 
 ## Clinical Relevance
 
-Endoscopy-first drainage, bilateral stenting when no atrophy, and SEMS for durable palliation define MHO management. Central to palliative [[cholangiocarcinoma]] care; pairs with [[ercp]] technique and EUS-guided rescue ([[asge-2024-therapeutic-eus-biliary]]).
+Endoscopy-first drainage, bilateral stenting when no atrophy, and SEMS for durable palliation define MHO management. Central to palliative [[cholangiocarcinoma]] care; pairs with [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] technique and endoscopic ultrasound (EUS)-guided rescue ([[asge-2024-therapeutic-eus-biliary]]).
 
 ---
 

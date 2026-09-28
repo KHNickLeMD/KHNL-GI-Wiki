@@ -20,24 +20,24 @@ sources: [acg-2024-hp-treatment, asge-2015-gastric-premalignant]
 
 ## Assessment
 
-- **Gastric MALT lymphoma = extranodal marginal zone B-cell lymphoma** arising in mucosa-associated lymphoid tissue. MALT lymphoma also occurs in lung, small bowel, and other organs. [[asge-2015-gastric-premalignant]]
+- **Gastric mucosa-associated lymphoid tissue (MALT) lymphoma = extranodal marginal zone B-cell lymphoma** arising in MALT. MALT lymphoma also occurs in lung, small bowel, and other organs. [[asge-2015-gastric-premalignant]]
 - **A low-grade B-cell lymphoma closely linked to chronic [[helicobacter-pylori-infection|H. pylori]] gastritis.** [[acg-2024-hp-treatment]]
 - **Nearly all patients with gastric MALT lymphoma have H. pylori infection.** Chronic H. pylori inflammation triggers B-cell clonal expansion, leading to MALT lymphoma. [[asge-2015-gastric-premalignant]]
 - **Pathologically distinct from [[gastric-adenocarcinoma|gastric adenocarcinoma]]** — but presents with overlapping symptoms. [[asge-2015-gastric-premalignant]]
 
 ### Establishing the Diagnosis
 
-- **Presenting symptoms:** [[dyspepsia]], weight loss, or [[upper-gi-bleeding|GI bleeding]] — the same triad as gastric adenocarcinoma, so symptoms do not distinguish them. [[asge-2015-gastric-premalignant]]
+- **Presenting symptoms:** [[dyspepsia]], weight loss, or [[upper-gi-bleeding|gastrointestinal (GI) bleeding]] — the same triad as gastric adenocarcinoma, so symptoms do not distinguish them. [[asge-2015-gastric-premalignant]]
 - **Endoscopic appearance is non-specific and spans a wide range — from subtle erosions to nodular masses.** A normal-looking or minimally abnormal mucosa does not exclude it. [[asge-2015-gastric-premalignant]]
-- **Diagnosis is confirmed with mucosal sampling** ([[upper-endoscopy|EGD]] with biopsy) — not by appearance. [[asge-2015-gastric-premalignant]]
+- **Diagnosis is confirmed with mucosal sampling** ([[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] with biopsy) — not by appearance. [[asge-2015-gastric-premalignant]]
 - **Test for H. pylori in every case** — marginal zone B-cell lymphoma, MALT type is a named indication to [[test-and-treat|test and treat]]. [[acg-2024-hp-treatment]]
 
 ### Severity Assessment
 
-- **[[endoscopic-ultrasound|EUS]] provides the prognostic information** — it permits accurate assessment of **the degree of infiltration of lymphoma in the gastric wall** and **regional lymph node involvement**. [[asge-2015-gastric-premalignant]]
+- **[[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] provides the prognostic information** — it permits accurate assessment of **the degree of infiltration of lymphoma in the gastric wall** and **regional lymph node involvement**. [[asge-2015-gastric-premalignant]]
 - This matters because the eradication-alone strategy below is established for **early-stage / low-grade** disease; depth and nodal status are what separate that group from the rest.
 
-> The GI guidelines do not give a formal staging system for gastric MALT lymphoma (e.g. Lugano, Ann Arbor, or the Paris/TNM staging), nor the criteria defining "early stage," nor management of eradication-refractory or high-grade/transformed disease (radiotherapy, rituximab, chemotherapy); those are in the lymphoma / ESMO marginal-zone guidelines.
+> The GI guidelines do not give a formal staging system for gastric MALT lymphoma (e.g. Lugano, Ann Arbor, or the Paris/TNM staging), nor the criteria defining "early stage," nor management of eradication-refractory or high-grade/transformed disease (radiotherapy, rituximab, chemotherapy); those are in the lymphoma / European Society for Medical Oncology (ESMO) marginal-zone guidelines.
 
 ## Differential Diagnosis
 
@@ -58,16 +58,16 @@ sources: [acg-2024-hp-treatment, asge-2015-gastric-premalignant]
 | **[[endoscopic-ultrasound\|EUS]]** | **Prognostic** — depth of lymphoma infiltration in the gastric wall + regional lymph node involvement [[asge-2015-gastric-premalignant]] |
 | **Post-treatment H. pylori test of cure** | **Mandatory.** Where EGD is needed shortly after treatment (as it is here), **histology and/or biopsy urease test** may be used to confirm post-treatment status [[acg-2024-hp-treatment]] |
 
-- **MALT-specific point:** because endoscopy is needed shortly after treatment here anyway, **histology and/or biopsy urease test** is an acceptable test-of-cure modality (rather than UBT/stool antigen). [[acg-2024-hp-treatment]]
+- **MALT-specific point:** because endoscopy is needed shortly after treatment here anyway, **histology and/or biopsy urease test** is an acceptable test-of-cure modality (rather than urea breath test [UBT]/stool antigen). [[acg-2024-hp-treatment]]
 - Test-of-cure **timing, drug-hold durations, the serology prohibition, and the caveat that a negative urease test alone does not prove eradication** are not MALT-specific — they live on [[helicobacter-pylori-infection#Post-Treatment Confirmation|helicobacter pylori infection]]. Apply them unchanged.
 
 ## Therapeutics
 
-> **[[helicobacter-pylori-infection|H. pylori]] eradication is the primary treatment for early-stage gastric MALT lymphoma.** Clinical practice guidelines make this recommendation **despite the lack of high-quality RCTs** — it rests on the strong potential for benefit and the negligible risk of eradication therapy, especially compared with the alternative treatments for MALT lymphoma. [[acg-2024-hp-treatment]]
+> **[[helicobacter-pylori-infection|H. pylori]] eradication is the primary treatment for early-stage gastric MALT lymphoma.** Clinical practice guidelines make this recommendation **despite the lack of high-quality randomized controlled trials (RCTs)** — it rests on the strong potential for benefit and the negligible risk of eradication therapy, especially compared with the alternative treatments for MALT lymphoma. [[acg-2024-hp-treatment]]
 
 | Outcome of eradication alone | Result |
 |---|---|
-| **Complete remission**, early-stage disease (meta-analysis: 61 uncontrolled single-arm studies, 2,936 patients) | **75.2% (95% CI 70.5–79.9)** [[acg-2024-hp-treatment]] |
+| **Complete remission**, early-stage disease (meta-analysis: 61 uncontrolled single-arm studies, 2,936 patients) | **75.2% (95% confidence interval [CI] 70.5–79.9)** [[acg-2024-hp-treatment]] |
 | **Clinical remission**, low-grade disease | **Up to 80%** [[asge-2015-gastric-premalignant]] |
 
 - Eradication regimen selection follows the general H. pylori pathway — see [[helicobacter-pylori-infection]] and [[bismuth-quadruple-therapy]]; it is not MALT-specific.

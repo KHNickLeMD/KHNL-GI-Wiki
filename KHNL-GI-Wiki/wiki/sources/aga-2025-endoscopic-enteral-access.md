@@ -16,15 +16,15 @@ sources: []
 - **Year:** 2025 (received August 27, 2024; accepted September 20, 2024)
 - **Journal/Publisher:** *Gastroenterology* 2025;168(1):164–168 (AGA Institute — Clinical Practice Update, Commentary)
 - **DOI:** [10.1053/j.gastro.2024.09.043](https://doi.org/10.1053/j.gastro.2024.09.043)
-- **Type:** AGA Institute Clinical Practice Update — expert **Commentary** (no numbered Best Practice Advice statements and no formal evidence ratings)
+- **Type:** American Gastroenterological Association (AGA) Institute Clinical Practice Update — expert **Commentary** (no numbered Best Practice Advice statements and no formal evidence ratings)
 
 ---
 
 ## Summary
 
-Expert commentary to help gastroenterologists choose and manage enteral access — >255,000 US patients annually require enteral nutrition support during hospitalization. Enteral tubes deliver nutrition/medications or decompress the upper GI tract; options are oral/nasal flexible tubes (OG, NG, NJ) and percutaneous tubes (surgical, radiologic, or endoscopic: PEG, PEGJ, DPEJ). Endoscopically placed tubes have a favorable safety profile vs surgical or radiologic placement.
+Expert commentary to help gastroenterologists choose and manage enteral access — >255,000 US patients annually require enteral nutrition support during hospitalization. Enteral tubes deliver nutrition/medications or decompress the upper gastrointestinal (GI) tract; options are oral/nasal flexible tubes (orogastric [OG], nasogastric [NG], nasojejunal [NJ]) and percutaneous tubes (surgical, radiologic, or endoscopic: percutaneous endoscopic gastrostomy [PEG], PEG with jejunal extension [PEGJ], direct percutaneous endoscopic jejunostomy [DPEJ]). Endoscopically placed tubes have a favorable safety profile vs surgical or radiologic placement.
 
-Core selection rules: gastric feeding is preferred (more physiologic, allows bolus or continuous feeds); small-bowel access is reserved for aspiration concerns refractory to prokinetics/rate changes, altered anatomy, gastric outlet obstruction, or severely delayed gastric emptying. Nasal tubes for **short-term (<4 weeks)** access; percutaneous tubes when access is expected **≥4 weeks**. DPEJ gives longer patency and fewer reinterventions than PEGJ (jejunal extension tubes are small caliber, 9F–12F) but is harder to place and leaks more. In severe dementia, tube feeding does not improve survival, infection risk, or functional status vs conscientious hand feeding — realistic goals-of-care conversations required. Periprocedural essentials: single-dose first-generation cephalosporin before percutaneous access (clindamycin/vancomycin if allergic; none if already on systemic antibiotics); PEG placement without interrupting dual-antiplatelet therapy is supported; platelets >50,000/mL and INR <1.5; hold heparin (resume 2–6 h post) and DOACs (resume evening dose). PEG tubes can be used immediately for medications and after 4 hours for feeds. Detailed guidance on placement technique (pull/push/introducer, PEGJ, DPEJ), special situations (ascites, VP shunt, peritoneal dialysis), and complications (peristomal infection, buried bumper, tube migration, occlusion, peristomal leakage, inadvertent removal, persistent gastrocutaneous fistula).
+Core selection rules: gastric feeding is preferred (more physiologic, allows bolus or continuous feeds); small-bowel access is reserved for aspiration concerns refractory to prokinetics/rate changes, altered anatomy, gastric outlet obstruction, or severely delayed gastric emptying. Nasal tubes for **short-term (<4 weeks)** access; percutaneous tubes when access is expected **≥4 weeks**. DPEJ gives longer patency and fewer reinterventions than PEGJ (jejunal extension tubes are small caliber, 9F–12F) but is harder to place and leaks more. In severe dementia, tube feeding does not improve survival, infection risk, or functional status vs conscientious hand feeding — realistic goals-of-care conversations required. Periprocedural essentials: single-dose first-generation cephalosporin before percutaneous access (clindamycin/vancomycin if allergic; none if already on systemic antibiotics); PEG placement without interrupting dual-antiplatelet therapy is supported; platelets >50,000/mL and international normalized ratio (INR) <1.5; hold heparin (resume 2–6 h post) and direct oral anticoagulants (DOACs; resume evening dose). PEG tubes can be used immediately for medications and after 4 hours for feeds. Detailed guidance on placement technique (pull/push/introducer, PEGJ, DPEJ), special situations (ascites, ventriculoperitoneal [VP] shunt, peritoneal dialysis), and complications (peristomal infection, buried bumper, tube migration, occlusion, peristomal leakage, inadvertent removal, persistent gastrocutaneous fistula).
 
 ---
 
@@ -36,7 +36,7 @@ Core selection rules: gastric feeding is preferred (more physiologic, allows bol
 
 - Enteral tubes deliver enteral nutrition and/or medications, or provide GI **decompression** (e.g., malignant obstruction, impaired GI motility).
 - Timing: in hospitalized adults at low nutritional risk, pursue enteral access when unable to meet caloric requirements over **5–7 days**; within **24–48 hours** of admission if severely malnourished and unable to maintain adequate oral nutrition.
-- Table 1 indications (verbatim list): **Impaired nutrient intake** — neurologic disease (post-CVA, motor neuron disease, multiple sclerosis, Parkinson's disease, unconscious/ventilated patient, cerebral palsy, select cases of dementia); **upper GI obstruction/motility disorder** (head and neck cancer; head/maxillofacial/mandibular/dental/neck trauma; radiation stomatitis; esophageal cancer; esophageal stricture; esophageal dysmotility; chronic intestinal pseudo-obstruction; gastroparesis; superior mesenteric artery syndrome); **altered intestinal anatomy** (bariatric or foregut surgery with impaired intake); **psychiatric disorder** (anorexia nervosa); **increased metabolic requirements** (critical illness, cancer, burn/trauma, cystic fibrosis/chronic lung disease, IBD, liver disease, pancreatitis, renal disease); **increased intestinal losses** (short bowel syndrome).
+- Table 1 indications (verbatim list): **Impaired nutrient intake** — neurologic disease (post–cerebrovascular accident [CVA], motor neuron disease, multiple sclerosis, Parkinson's disease, unconscious/ventilated patient, cerebral palsy, select cases of dementia); **upper GI obstruction/motility disorder** (head and neck cancer; head/maxillofacial/mandibular/dental/neck trauma; radiation stomatitis; esophageal cancer; esophageal stricture; esophageal dysmotility; chronic intestinal pseudo-obstruction; gastroparesis; superior mesenteric artery syndrome); **altered intestinal anatomy** (bariatric or foregut surgery with impaired intake); **psychiatric disorder** (anorexia nervosa); **increased metabolic requirements** (critical illness, cancer, burn/trauma, cystic fibrosis/chronic lung disease, inflammatory bowel disease [IBD], liver disease, pancreatitis, renal disease); **increased intestinal losses** (short bowel syndrome).
 - Multidisciplinary team advised (speech pathology, dietitians, nutrition nurses, gastroenterologists, co-managing physicians, palliative care when appropriate).
 - **Severe dementia:** enteral feeding not associated with improved survival, reduced infection risk, or improved functional status — especially vs a conscientious program of **hand feeding**. Realistic conversations with physicians/families/caregivers about benefits, risks, and complications.
 
@@ -44,7 +44,7 @@ Core selection rules: gastric feeding is preferred (more physiologic, allows bol
 
 - **Gastric feeding preferred** — more physiologic; allows intermittent bolus or continuous pump feeding. Meta-analyses (mostly critical care) show reduced aspiration pneumonia with small-bowel vs gastric feeding, but small-bowel access is more technically complex; before converting, try prokinetics, reduce bowel-slowing agents, and decrease feeding rates.
 - **Duration rule:** nasal route preferred for **short-term (<4 weeks)** access in nonintubated patients; percutaneous tubes typically reserved for expected use of **≥4 weeks** (threshold acknowledged as somewhat arbitrary). Percutaneous devices dislodge less and deliver more adequate/durable feeding than NG tubes, but added placement risk justifies nasoenteral tubes for short-term use.
-- **Small-bowel access options:** NJ tube; jejunal extension through a PEG (PEGJ); unitized transgastric jejunostomy tube; DPEJ. **DPEJ > PEGJ for tube patency and reintervention** (jejunal extensions are only 9F–12F) but placement is more complex and **peristomal leakage is increased with DPEJ** (larger-caliber tubes, bumpers in the small bowel).
+- **Small-bowel access options:** NJ tube; PEGJ; unitized transgastric jejunostomy tube; DPEJ. **DPEJ > PEGJ for tube patency and reintervention** (jejunal extensions are only 9F–12F) but placement is more complex and **peristomal leakage is increased with DPEJ** (larger-caliber tubes, bumpers in the small bowel).
 - Small-bowel access **required** in: altered anatomy (Roux-en-Y gastric bypass, sleeve gastrectomy, partial/total gastrectomy), gastric outlet obstruction, severely delayed gastric emptying.
 - Small-bowel feeding requires **reduced and cycled rates** to prevent dumping symptoms (hypertonic formula directly into small bowel).
 
@@ -52,7 +52,7 @@ Core selection rules: gastric feeding is preferred (more physiologic, allows bol
 
 - Informed consent from the patient (with capacity) or legally authorized representative; delineate risks, expected benefits, outcomes.
 - **Antibiotic prophylaxis:** peristomal infection significantly reduced by preprocedural antibiotics — typically a **single dose of a first-generation cephalosporin immediately before** percutaneous access. Not required if already on systemic antibiotics. Cephalosporin allergy → **clindamycin or vancomycin**.
-- **Antithrombotics:** increasing data support PEG placement **without interruption of dual-antiplatelet therapy** (no significant increase in bleeding risk). If antithrombotics are held, resume ASAP considering indication, in consultation with the initiating service.
+- **Antithrombotics:** increasing data support PEG placement **without interruption of dual-antiplatelet therapy** (no significant increase in bleeding risk). If antithrombotics are held, resume as soon as possible considering indication, in consultation with the initiating service.
 - **Laboratory thresholds:** platelet count **>50,000/mL**, INR **<1.5**. **Unfractionated heparin** should be held for percutaneous placement, and can be given **2–6 hours after** the procedure. **DOACs** held for placement, resumed with the **evening dose** after placement.
 
 **Placement technique:**
@@ -76,7 +76,7 @@ Core selection rules: gastric feeding is preferred (more physiologic, allows bol
 **Postprocedural care:**
 
 - NG/NJ: use immediately after confirmation (usually abdominal radiography). **PEG: medications immediately; tube feeds after 4 hours.**
-- Multidisciplinary follow-up (dietitians for formula/volume/free water/delivery method; nursing/APCs for site assessment).
+- Multidisciplinary follow-up (dietitians for formula/volume/free water/delivery method; nursing/advanced practice clinicians for site assessment).
 - **Bridling** transnasal tubes reduces unintentional dislodgement, allows greater caloric intake. Transnasal tubes typically **≤3–4 weeks** (sinusitis risk); rarely longer with close monitoring.
 - Percutaneous devices replaced at **6- to 12-month intervals** (sooner if breakdown). Avoid overlying gauze/tape/abdominal pads (retain moisture, injure skin).
 - After permanent removal, spontaneous tract closure typically within **72 hours**. Risk factors for **persistent gastrocutaneous fistula**: immune suppression, prior gastrostomy-site infection, malnutrition, delayed gastric emptying → endoscopic closure with over-the-scope clips or suturing.
@@ -96,16 +96,16 @@ Core selection rules: gastric feeding is preferred (more physiologic, allows bol
 ## Relevance to Wiki
 
 - Creates the procedure page [[enteral-access]] (device selection, contraindications, periprocedural antibiotics/antithrombotics, placement techniques, special situations, complications).
-- Complements [[asge-2025-gastrostomy-tubes]] (PEG vs IR-G, early feeding, antiplatelets), [[asge-2011-enteral-feeding]] (30-day duration rule, PEGJ/DPEJ indications, PEG outcome data), and [[acg-2016-nutrition-hospitalized]] (nutritional risk, EN vs PN) on [[nutrition-in-hospitalized-patients]].
+- Complements [[asge-2025-gastrostomy-tubes]] (PEG vs interventional radiology gastrostomy [IR-G], early feeding, antiplatelets), [[asge-2011-enteral-feeding]] (30-day duration rule, PEGJ/DPEJ indications, PEG outcome data), and [[acg-2016-nutrition-hospitalized]] (nutritional risk, enteral nutrition [EN] vs parenteral nutrition [PN]) on [[nutrition-in-hospitalized-patients]].
 - Cross-links to [[upper-endoscopy]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]], [[gastroparesis]], [[ascites]], [[cirrhosis]].
 
 ---
 
 ## Contradictions / Open Questions
 
-- **No numbered BPA statements or evidence grades** — commentary format.
-- **Duration threshold:** this CPU uses **<4 weeks nasal / ≥4 weeks percutaneous** ("somewhat arbitrarily defined"); [[asge-2011-enteral-feeding]] frames it as peroral nutrition expected **within 30 days** → nasoenteric. Functionally concordant.
-- **Anticoagulants:** [[asge-2025-gastrostomy-tubes]] recommends individualized periprocedural anticoagulant management; this newer CPU gives concrete operational advice (hold UFH, resume 2–6 h post; hold DOAC, resume evening dose) — complementary, not conflicting; as the newer guideline-tier source its specifics govern the entity page.
-- Antiplatelet advice concordant with ASGE 2025 (no routine withholding; DAPT continuation supported here).
+- **No numbered Best Practice Advice (BPA) statements or evidence grades** — commentary format.
+- **Duration threshold:** this Clinical Practice Update (CPU) uses **<4 weeks nasal / ≥4 weeks percutaneous** ("somewhat arbitrarily defined"); [[asge-2011-enteral-feeding]] frames it as peroral nutrition expected **within 30 days** → nasoenteric. Functionally concordant.
+- **Anticoagulants:** [[asge-2025-gastrostomy-tubes]] recommends individualized periprocedural anticoagulant management; this newer CPU gives concrete operational advice (hold unfractionated heparin [UFH], resume 2–6 h post; hold DOAC, resume evening dose) — complementary, not conflicting; as the newer guideline-tier source its specifics govern the entity page.
+- Antiplatelet advice concordant with American Society for Gastrointestinal Endoscopy (ASGE) 2025 (no routine withholding; dual-antiplatelet therapy [DAPT] continuation supported here).
 - **Timing after stroke:** this CPU lists post-CVA as an indication but gives no waiting period; the 2–3-week nasoenteric trial before PEG in acute dysphagic stroke comes from [[asge-2011-enteral-feeding]].
 - Figure 1 (enteral access locations and end points in the GI tract) is an anatomic schematic, not a decision algorithm.

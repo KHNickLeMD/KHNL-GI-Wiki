@@ -16,13 +16,13 @@ sources: []
 - **Type:** guideline (position paper)
 
 ## Summary
-This AASLD position paper summarizes the current practice of liver biopsy in adults and makes 34 graded recommendations. Liver histology remains a cornerstone of liver disease evaluation, serving three major roles: (1) **diagnosis**, (2) **assessment of prognosis (disease staging)**, and (3) **assistance in making therapeutic management decisions**. The paper emphasizes that noninvasive modalities (serum tests, imaging including transient elastography) are increasingly positioned to assess fibrosis, but liver biopsy is recommended until clearly superior methodologies are developed and validated.
+This American Association for the Study of Liver Diseases (AASLD) position paper summarizes the current practice of liver biopsy in adults and makes 34 graded recommendations. Liver histology remains a cornerstone of liver disease evaluation, serving three major roles: (1) **diagnosis**, (2) **assessment of prognosis (disease staging)**, and (3) **assistance in making therapeutic management decisions**. The paper emphasizes that noninvasive modalities (serum tests, imaging including transient elastography) are increasingly positioned to assess fibrosis, but liver biopsy is recommended until clearly superior methodologies are developed and validated.
 
 The document covers indications (Tables 3-4), use in specific diseases, focal/mass lesions (Tables 5-6), technical issues, prebiopsy testing, management of antiplatelet/anticoagulant medications, biopsy methods (percutaneous, transvenous/transjugular, surgical/laparoscopic, plugged), contraindications (Table 7, mostly relative), complications (pain, bleeding, death; Tables 8-9), radiological considerations (image guidance), and pathological considerations (specimen size/quality, scoring systems; Table 10).
 
-A central theme is that **conventional coagulation tests (PT-INR, platelet count, bleeding time) poorly predict post-biopsy bleeding risk** — there is no specific PT-INR or platelet cutoff at/above which adverse bleeding can be reliably predicted. Standard practice often withholds percutaneous biopsy with PT-INR >1.5, but the evidence base for this is weak. Hyperfibrinolysis (10%-15% of hospitalized cirrhotics) is undetectable by conventional tests. For specimen adequacy, an ideal biopsy is **~3 cm long after formalin fixation, 16-gauge caliber, with >11 complete portal tracts**; cutting needles are superior to suction needles when cirrhosis is suspected.
+A central theme is that **conventional coagulation tests (prothrombin time–international normalized ratio [PT-INR], platelet count, bleeding time) poorly predict post-biopsy bleeding risk** — there is no specific PT-INR or platelet cutoff at/above which adverse bleeding can be reliably predicted. Standard practice often withholds percutaneous biopsy with PT-INR >1.5, but the evidence base for this is weak. Hyperfibrinolysis (10%-15% of hospitalized cirrhotics) is undetectable by conventional tests. For specimen adequacy, an ideal biopsy is **~3 cm long after formalin fixation, 16-gauge caliber, with >11 complete portal tracts**; cutting needles are superior to suction needles when cirrhosis is suspected.
 
-The grading system (Table 1, adapted from ACC/AHA) uses **Class I/IIa/IIb/III** (benefit vs risk) and **Level A/B/C** (strength/certainty of evidence). Most recommendations are Class I, Level C (expert consensus/standard-of-care), reflecting the sparse high-quality evidence base.
+The grading system (Table 1, adapted from American College of Cardiology/American Heart Association [ACC/AHA]) uses **Class I/IIa/IIb/III** (benefit vs risk) and **Level A/B/C** (strength/certainty of evidence). Most recommendations are Class I, Level C (expert consensus/standard-of-care), reflecting the sparse high-quality evidence base.
 
 ## Grading System (Table 1)
 - **Class I:** evidence/agreement that the evaluation/procedure/treatment is beneficial, useful, effective.
@@ -30,7 +30,7 @@ The grading system (Table 1, adapted from ACC/AHA) uses **Class I/IIa/IIb/III** 
   - **Class IIa:** weight of evidence/opinion favors usefulness/efficacy.
   - **Class IIb:** usefulness/efficacy less well established by evidence/opinion.
 - **Class III:** evidence/agreement that it is not useful/effective and may be harmful.
-- **Level A:** data from multiple RCTs or meta-analyses.
+- **Level A:** data from multiple randomized controlled trials (RCTs) or meta-analyses.
 - **Level B:** data from a single RCT, or nonrandomized studies.
 - **Level C:** consensus opinion of experts, case studies, or standard-of-care.
 
@@ -94,7 +94,7 @@ The grading system (Table 1, adapted from ACC/AHA) uses **Class I/IIa/IIb/III** 
 
 ## Key Findings / Claims
 - **Three roles** of liver biopsy: diagnosis, prognosis/staging, and therapeutic management.
-- **Methods:** (1) percutaneous (palpation/percussion-guided, image-guided, real-time image-guided; also plugged biopsy); (2) transvenous (transjugular or transfemoral) for ascites, coagulopathy, small/hard cirrhotic liver, morbid obesity, or when HVPG measurement is desired; (3) surgical/laparoscopic.
+- **Methods:** (1) percutaneous (palpation/percussion-guided, image-guided, real-time image-guided; also plugged biopsy); (2) transvenous (transjugular or transfemoral) for ascites, coagulopathy, small/hard cirrhotic liver, morbid obesity, or when hepatic venous pressure gradient (HVPG) measurement is desired; (3) surgical/laparoscopic.
 - **Coagulation:** Conventional tests (PT-INR, platelets, bleeding time) are unreliable predictors of bleeding; standard practice often withholds percutaneous biopsy at PT-INR >1.5, but no validated cutoff exists. Hyperfibrinolysis occurs in 10%-15% of chronic liver disease patients and is undetectable conventionally. INR_LIVER and thromboelastography are emerging measures.
 - **Platelets:** transfuse for counts <50,000-60,000/mL; in vitro data suggest ~56,000 may be an adequate target for thrombin generation in cirrhosis (not validated in vivo).
 - **Specimen adequacy:** ideal ~3 cm length after formalin fixation, 16-gauge, >11 complete portal tracts; formalin shrinks specimens (~19.6 → 18.3 mm in one study). Short specimens (<2-2.5 cm) under-grade/stage and miss cirrhosis in up to 20%. Cutting needles superior to suction when cirrhosis suspected.
@@ -105,7 +105,7 @@ The grading system (Table 1, adapted from ACC/AHA) uses **Class I/IIa/IIb/III** 
 ## Relevance to Wiki
 - Anchors the new concept page `[[liver-biopsy]]` (indications, approaches, coagulation assessment, complications, specimen adequacy).
 - Reinforces `[[cirrhosis-hemostasis]]`: rebalanced hemostasis, poor predictive value of PT-INR, platelet transfusion threshold ~50-60k, hyperfibrinolysis.
-- Frames `[[noninvasive-liver-disease-assessment]]` as the increasingly preferred alternative (now substantially advanced by the 2024 NILDA guidance).
+- Frames `[[noninvasive-liver-disease-assessment]]` as the increasingly preferred alternative (now substantially advanced by the 2024 noninvasive liver disease assessment (NILDA) guidance).
 - Provides the biopsy role for disease scripts: `[[autoimmune-hepatitis]]`, `[[nafld-masld]]`, `[[primary-biliary-cholangitis]]`, `[[primary-sclerosing-cholangitis]]`, `[[wilson-disease]]`, `[[hereditary-hemochromatosis]]`, `[[hepatocellular-carcinoma]]`, `[[cholangiocarcinoma]]`, `[[drug-induced-liver-injury]]`, `[[acute-liver-failure]]`.
 
 ## Contradictions / Open Questions

@@ -7,9 +7,9 @@ updated: 2026-09-01
 sources: [asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, acg-2020-esophageal-physiologic-testing, sages-2021-gerd-surgery]
 ---
 
-*Herniation of the stomach through the diaphragmatic hiatus. In the GERD guidelines it appears almost entirely as **the anatomic variable that selects an antireflux procedure** — hernia size plus [[reflux-testing|Hill grade]] is the operative decision point in [[gerd|GERD]], and a paraesophageal hernia is a hard exclusion for endoscopic repair.*
+*Herniation of the stomach through the diaphragmatic hiatus. In the gastroesophageal reflux disease (GERD) guidelines it appears almost entirely as **the anatomic variable that selects an antireflux procedure** — hernia size plus [[reflux-testing|Hill grade]] is the operative decision point in [[gerd|GERD]], and a paraesophageal hernia is a hard exclusion for endoscopic repair.*
 
-> ⚠ **Scope of this page.** No dedicated hiatal/paraesophageal hernia guideline is covered; everything below comes from GERD and antireflux-procedure sources. This page does **not** cover the **type I–IV anatomic classification**, epidemiology/natural history, indications for repair of an **asymptomatic paraesophageal hernia**, or management of **incarceration or gastric volvulus** — see the SAGES hiatal hernia guideline for those.
+> ⚠ **Scope of this page.** No dedicated hiatal/paraesophageal hernia guideline is covered; everything below comes from GERD and antireflux-procedure sources. This page does **not** cover the **type I–IV anatomic classification**, epidemiology/natural history, indications for repair of an **asymptomatic paraesophageal hernia**, or management of **incarceration or gastric volvulus** — see the Society of American Gastrointestinal and Endoscopic Surgeons (SAGES) hiatal hernia guideline for those.
 
 ## Contents
 - [[#Assessment]]
@@ -33,23 +33,23 @@ sources: [asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundopl
 Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation — not as a symptom diagnosis.
 
 - **[[upper-endoscopy|Endoscopy]] is the routine detection and documentation tool.** Measure and record at every GERD endoscopy ([[asge-2024-gerd]], Strong / Very Low):
-  - **Axial length in cm** — GEJ to the diaphragmatic impression
-  - **Flap valve morphology** by **Hill grade** (or AFS grade), in **both forward view and retroflexion**
+  - **Axial length in cm** — gastroesophageal junction (GEJ) to the diaphragmatic impression
+  - **Flap valve morphology** by **Hill grade** (or American Foregut Society [AFS] grade), in **both forward view and retroflexion**
   - The GEJ landmarks it is measured against: top of gastric folds, Z-line, diaphragmatic impression
 - **This documentation is routinely omitted** — in observational data, hiatal hernia was measured in only **51%** of endoscopy reports (esophagitis graded in only 42%) ([[asge-2024-gerd]]). A report without a hernia measurement cannot be used to select an antireflux procedure.
 - **Hill grade I–IV and AFS grade criteria are not defined in the GERD guidelines** — see [[reflux-testing]].
 
 ### Severity Assessment
 
-**Size is graded in two dimensions, and either one alone can disqualify a patient from TIF** ([[afs-2023-transoral-incisionless-fundoplication]]):
+**Size is graded in two dimensions, and either one alone can disqualify a patient from transoral incisionless fundoplication (TIF)** ([[afs-2023-transoral-incisionless-fundoplication]]):
 
 | Dimension | Threshold | What crossing it means |
 |---|---|---|
 | **Axial length** | **>2 cm** | Not a TIF 2.0 candidate |
 | **Greatest transverse diameter of the diaphragmatic hiatus** | **>2 cm** | Not a TIF 2.0 candidate |
 
-- **Endoscopy underestimates.** Hernia size observed at laparoscopic repair is **often larger than it appeared endoscopically** — apply extra caution even when it measures <2 cm on EGD.
-- **[[high-resolution-manometry|HRM]] is the most sensitive test** for hiatal hernia — **94.3% sensitivity, 91.5% specificity**, superior to both endoscopy and barium ([[acg-2020-esophageal-physiologic-testing]]). It is not ordered for this purpose alone, but a hernia found on a manometry done for another indication is a more reliable finding than a negative endoscopy.
+- **Endoscopy underestimates.** Hernia size observed at laparoscopic repair is **often larger than it appeared endoscopically** — apply extra caution even when it measures <2 cm on esophagogastroduodenoscopy (EGD).
+- **[[high-resolution-manometry|high-resolution manometry (HRM)]] is the most sensitive test** for hiatal hernia — **94.3% sensitivity, 91.5% specificity**, superior to both endoscopy and barium ([[acg-2020-esophageal-physiologic-testing]]). It is not ordered for this purpose alone, but a hernia found on a manometry done for another indication is a more reliable finding than a negative endoscopy.
 
 ---
 
@@ -59,7 +59,7 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation �
 
 - **[[gerd|GERD]] without hernia** — reflux symptoms with a normal GEJ; hernia is a contributor, not a synonym
 - **[[achalasia]]** and other major motility disorders — must be excluded before any antireflux procedure; found in ~3% of patients referred for planned fundoplication ([[acg-2020-esophageal-physiologic-testing]])
-- **[[esophagogastric-junction-outflow-obstruction|EGJOO]]** — obstructive physiology at the GEJ without a hernia
+- **[[esophagogastric-junction-outflow-obstruction|esophagogastric junction outflow obstruction (EGJOO)]]** — obstructive physiology at the GEJ without a hernia
 - **Short esophagus** — suggested by barium esophagram; changes the operation, since adequate intra-abdominal esophageal length may not be obtainable
 - **Prior fundoplication, slipped or herniated wrap** — document existing fundoplication separately at endoscopy ([[asge-2024-gerd]]); see [[hrm-antireflux-surgery]]
 - **[[barretts-esophagus|Barrett's esophagus]]** and peptic stricture — separate GEJ findings recorded alongside, not instead of, the hernia
@@ -73,9 +73,9 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation �
 | **[[upper-endoscopy\|EGD]]** | Axial length in cm; Hill grade forward + retroflexed; GEJ landmarks; coexisting esophagitis, [[barretts-esophagus\|Barrett's]], stricture | [[asge-2024-gerd]] |
 | **Barium esophagram** | Presence, size, and type of hernia; **alerts to a short esophagus** | [[afs-2023-transoral-incisionless-fundoplication]] |
 | **[[high-resolution-manometry\|HRM]]** | Most sensitive detection (94.3% / 91.5%); mandatory before any antireflux procedure to exclude [[achalasia]] and absent contractility (criteria: [[chicago-classification-v4\|Chicago Classification v4.0]]) | [[acg-2020-esophageal-physiologic-testing]], [[acg-2021-gerd]] |
-| **[[ambulatory-reflux-monitoring\|pH monitoring off PPI]]** | Objective GERD confirmation — required before procedural therapy unless LA C/D esophagitis or long-segment Barrett's is present | [[afs-2023-transoral-incisionless-fundoplication]] |
+| **[[ambulatory-reflux-monitoring\|pH monitoring off proton pump inhibitor (PPI)]]** | Objective GERD confirmation — required before procedural therapy unless Los Angeles (LA) C/D esophagitis or long-segment Barrett's is present | [[afs-2023-transoral-incisionless-fundoplication]] |
 
-> **Cameron lesions.** Erosions at the diaphragmatic hiatus in a hiatal hernia are a recognised cause of occult blood loss and [[iron-deficiency-anemia|iron-deficiency anemia]] (they are listed on [[upper-gi-bleeding]]), but none of the GERD, antireflux-surgery, UGIB, small-bowel-bleeding, or iron-deficiency-anemia guidelines describes their appearance, bleeding phenotype, prevalence, or management, so they are not detailed here.
+> **Cameron lesions.** Erosions at the diaphragmatic hiatus in a hiatal hernia are a recognised cause of occult blood loss and [[iron-deficiency-anemia|iron-deficiency anemia]] (they are listed on [[upper-gi-bleeding]]), but none of the GERD, antireflux-surgery, upper gastrointestinal bleeding (UGIB), small-bowel-bleeding, or iron-deficiency-anemia guidelines describes their appearance, bleeding phenotype, prevalence, or management, so they are not detailed here.
 
 ---
 
@@ -92,7 +92,7 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation �
 ### When repair is indicated
 
 - **A large hiatal hernia is itself an indication for [[antireflux-surgery|antireflux surgery]]** in GERD — alongside LA grade C/D erosive esophagitis and troublesome regurgitation (**Strong / Moderate**, [[acg-2021-gerd]]).
-- **In cTIF, the target is intra-abdominal esophageal length, not a hernia-size cutoff** ([[afs-2023-transoral-incisionless-fundoplication]]): reduce the intrathoracic stomach, dissect as high in the mediastinum as possible to obtain **2–3 cm** of intra-abdominal esophagus. **Hard stop — if that length cannot be obtained, do not perform the TIF.** Published series span hernias up to **8 cm**; no RCT has defined a ceiling.
+- **In cTIF, the target is intra-abdominal esophageal length, not a hernia-size cutoff** ([[afs-2023-transoral-incisionless-fundoplication]]): reduce the intrathoracic stomach, dissect as high in the mediastinum as possible to obtain **2–3 cm** of intra-abdominal esophagus. **Hard stop — if that length cannot be obtained, do not perform the TIF.** Published series span hernias up to **8 cm**; no randomized controlled trial (RCT) has defined a ceiling.
 - **Do not fixate the stomach to the crura** during a cTIF — it impedes the tissue mobility the TIF portion requires.
 
 ### What the guidelines deliberately do not say

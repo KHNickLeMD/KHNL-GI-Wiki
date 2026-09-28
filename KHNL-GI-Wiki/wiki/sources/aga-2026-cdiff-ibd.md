@@ -17,11 +17,11 @@ sources: []
 
 ## Summary
 
-AGA Expert Review on managing *Clostridioides difficile* infection (CDI) specifically in patients with IBD, who face higher CDI risk, greater severity, and higher recurrence than non-IBD patients. CDI drives IBD flares, hospitalization, intensified/failed therapy, and higher surgical rates, creating dilemmas around antibiotic choice and timing of IBD therapy.
+American Gastroenterological Association (AGA) Expert Review on managing *Clostridioides difficile* infection (CDI) specifically in patients with inflammatory bowel disease (IBD), who face higher CDI risk, greater severity, and higher recurrence than non-IBD patients. CDI drives IBD flares, hospitalization, intensified/failed therapy, and higher surgical rates, creating dilemmas around antibiotic choice and timing of IBD therapy.
 
-Key shifts from general CDI guidance: **fidaxomicin is preferred over vancomycin** for an initial CDI episode in IBD (metronidazole should not be used), a **multistep toxin-based assay** is required because NAAT alone over-diagnoses colonization (common in IBD), and **immunosuppressive IBD therapy should be continued** during acute CDI. **Microbiome-based therapies** (FDA-approved fecal microbiota live-jslm [RBL] and fecal microbiota spores live-brpk [VOS], or unapproved FMT) are advised after ≥1 recurrence. Probiotics are not advised for prevention.
+Key shifts from general CDI guidance: **fidaxomicin is preferred over vancomycin** for an initial CDI episode in IBD (metronidazole should not be used), a **multistep toxin-based assay** is required because nucleic acid amplification testing (NAAT) alone over-diagnoses colonization (common in IBD), and **immunosuppressive IBD therapy should be continued** during acute CDI. **Microbiome-based therapies** (FDA-approved fecal microbiota live-jslm [RBL] and fecal microbiota spores live-brpk [VOS], or unapproved fecal microbiota transplantation [FMT]) are advised after ≥1 recurrence. Probiotics are not advised for prevention.
 
-12 Best Practice Advice statements (no formal GRADE ratings).
+12 Best Practice Advice statements (no formal Grading of Recommendations Assessment, Development and Evaluation [GRADE] ratings).
 
 ## Key Findings / Claims
 
@@ -41,9 +41,9 @@ Key shifts from general CDI guidance: **fidaxomicin is preferred over vancomycin
 12. In patients with IBD and a history of CDI who are receiving systemic antibiotics, clinicians may consider oral vancomycin prophylaxis as secondary prevention.
 
 ## Relevance to Wiki
-- [[clostridioides-difficile]] — updates the IBD special-population guidance (fidaxomicin-preferred initial therapy; CMV exclusion at 48–72h; loperamide adjunct; microbiome therapy after first recurrence; OVP secondary prophylaxis; treat end-ileostomy/pouch).
+- [[clostridioides-difficile]] — updates the IBD special-population guidance (fidaxomicin-preferred initial therapy; cytomegalovirus (CMV) exclusion at 48–72h; loperamide adjunct; microbiome therapy after first recurrence; oral vancomycin prophylaxis (OVP) for secondary prevention; treat end-ileostomy/pouch).
 - [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]] — concurrent IBD therapy continuation during CDI; no drug-class differential CDI risk.
 - [[aga-2024-fmt]], [[probiotics]] — corroborates microbiome therapy for recurrent CDI and against probiotics.
 
 ## Contradictions / Open Questions
-- **Initial-episode antibiotic choice:** This 2026 CPU prefers **fidaxomicin** first-line for initial CDI in IBD, whereas the older [[acg-2021-cdiff]] lists vancomycin 125 mg QID (≥14 days) as the IBD first-line. As the newer same-tier guideline, the AGA 2026 preference is what the page asserts; the ACG vancomycin pathway remains acceptable when fidaxomicin is unavailable/cost-prohibitive. Surfaced on [[clostridioides-difficile]].
+- **Initial-episode antibiotic choice:** This 2026 Clinical Practice Update (CPU) prefers **fidaxomicin** first-line for initial CDI in IBD, whereas the older [[acg-2021-cdiff]] lists vancomycin 125 mg 4 times daily (QID) (≥14 days) as the IBD first-line. As the newer same-tier guideline, the AGA 2026 preference is what the page asserts; the American College of Gastroenterology (ACG) vancomycin pathway remains acceptable when fidaxomicin is unavailable/cost-prohibitive. Surfaced on [[clostridioides-difficile]].

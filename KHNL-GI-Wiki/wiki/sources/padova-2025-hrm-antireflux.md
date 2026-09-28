@@ -20,9 +20,9 @@ sources: []
 
 The Padova Consensus is the first systematic international expert consensus establishing the role of [[high-resolution-manometry|high-resolution manometry]] (HRM) before and after [[antireflux-surgery|antireflux surgery]] (ARS). Using RAND/UCLA appropriateness methodology, a 29-member international panel of surgeons and gastroenterologists developed consensus statements covering pre-ARS screening, post-ARS diagnostic interpretation, and a novel post-ARS HRM classification algorithm — the Padova Classification.
 
-Pre-operatively, the consensus establishes HRM as essential to exclude significant motor disorders that would contraindicate or complicate ARS, particularly [[achalasia]] spectrum disorders (3% incidence in pre-ARS cohorts who present with [[gerd|GERD]]-like symptoms). EGJOO identified pre-ARS must be addressed before surgery proceeds. The EGJ barrier is assessed using multiple manometric parameters: LES end-expiratory pressure, LES baseline pressure, EGJ-contractility index (EGJ-CI), and LES–crural diaphragm (CD) separation. [[hypercontractile-esophagus|Hypercontractile esophagus]] (jackhammer pattern) is not an absolute contraindication if the patient has objective GERD evidence and partial PPI response. [[distal-esophageal-spasm|DES]] with obstructive symptoms warrants caution; DES without obstructive symptoms with objective GERD may proceed to ARS.
+Pre-operatively, the consensus establishes HRM as essential to exclude significant motor disorders that would contraindicate or complicate ARS, particularly [[achalasia]] spectrum disorders (3% incidence in pre-ARS cohorts who present with [[gerd|gastroesophageal reflux disease (GERD)]]-like symptoms). Esophagogastric junction (EGJ) outflow obstruction (EGJOO) identified pre-ARS must be addressed before surgery proceeds. The EGJ barrier is assessed using multiple manometric parameters: lower esophageal sphincter (LES) end-expiratory pressure, LES baseline pressure, EGJ-contractility index (EGJ-CI), and LES–crural diaphragm (CD) separation. [[hypercontractile-esophagus|Hypercontractile esophagus]] (jackhammer pattern) is not an absolute contraindication if the patient has objective GERD evidence and partial proton pump inhibitor (PPI) response. [[distal-esophageal-spasm|distal esophageal spasm (DES)]] with obstructive symptoms warrants caution; DES without obstructive symptoms with objective GERD may proceed to ARS.
 
-Post-operatively, the consensus clarifies that HRM interpretation after fundoplication requires context-specific norms. IRP values are expected to be higher than in unoperated patients; an IRP <15 mmHg (Medtronic catheter) is the proposed post-ARS upper limit of normal. A single distal high-pressure zone (HPZ) with appropriate relaxation (IRP within range) represents successful fundoplication anatomy. The Padova Classification provides a two-step algorithm — first assessing neo-LES/crural diaphragm anatomy (separations suggesting mechanical complications), then assessing physiology (basal pressure, IRP, peristalsis) in patients without anatomical separation — to identify seven post-ARS HRM patterns with distinct clinical implications.
+Post-operatively, the consensus clarifies that HRM interpretation after fundoplication requires context-specific norms. Integrated relaxation pressure (IRP) values are expected to be higher than in unoperated patients; an IRP <15 mmHg (Medtronic catheter) is the proposed post-ARS upper limit of normal. A single distal high-pressure zone (HPZ) with appropriate relaxation (IRP within range) represents successful fundoplication anatomy. The Padova Classification provides a two-step algorithm — first assessing neo-LES/crural diaphragm anatomy (separations suggesting mechanical complications), then assessing physiology (basal pressure, IRP, peristalsis) in patients without anatomical separation — to identify seven post-ARS HRM patterns with distinct clinical implications.
 
 ## Key Findings / Claims
 
@@ -47,11 +47,11 @@ Post-operatively, the consensus clarifies that HRM interpretation after fundopli
 | Successful fundoplication → single distal HPZ with appropriate relaxation | 89% |
 | Nissen → higher EGJ pressures + higher IRP + higher contractility vs. partial wrap | 81% |
 | IRP post-ARS: <15 mmHg (Medtronic) = normal upper limit | Stated |
-| High IBP + high IRP together = post-fundoplication outflow obstruction (PFOO) | 93% |
+| High intrabolus pressure (IBP) + high IRP together = post-fundoplication outflow obstruction (PFOO) | 93% |
 | Very prominent HPZ + impaired relaxation (single HPZ) = tight/twisted wrap | 86% |
 | Slipped fundoplication = dual HPZ; upper relaxes, lower remains uniform | 80% |
 | Intrathoracic fundoplication = dual HPZ; lower shows respiratory inversion pattern; upper may relax | 81% |
-| New dysphagia + normal endoscopy post-ARS → TBE + FLIP to clarify etiology | 93% |
+| New dysphagia + normal endoscopy post-ARS → timed barium esophagram (TBE) + functional lumen imaging probe (FLIP) to clarify etiology | 93% |
 
 **The Padova Classification — Post-ARS HRM Algorithm:**
 
@@ -78,9 +78,9 @@ Post-operatively, the consensus clarifies that HRM interpretation after fundopli
 - Post-ARS IRP <15 mmHg (Medtronic system) = upper limit of normal
 - Post-ARS IRP context: fundoplication creates intrinsic resistance; values above surgery-naive normal (typically <15 mmHg Chicago Classification) are expected after Nissen
 
-**PFOO (Post-Fundoplication Outflow Obstruction):**
+**PFOO:**
 
-- Defined by simultaneous presence of: elevated intrabolus pressure (IBP) + elevated IRP
+- Defined by simultaneous presence of: elevated IBP + elevated IRP
 - Either alone insufficient for PFOO diagnosis
 - May represent tight wrap, twisted wrap, or stenotic wrap
 

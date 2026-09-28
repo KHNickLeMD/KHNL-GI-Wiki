@@ -18,18 +18,18 @@ sources: []
 Endorsed by AASLD, ACG, and AGA. Update of 3 prior ASGE sedation documents; literature search through August 2017. Recommendations graded by GRADE quality of evidence (4444 high, 444B moderate, 44BB low, 4BBB very low).
 
 ## Summary
-ASGE Standards of Practice Committee guideline on sedation and anesthesia across the full continuum used for GI endoscopy. Sedation is a drug-induced depression of consciousness on a continuum from minimal sedation (anxiolysis) → moderate ("conscious") sedation → deep sedation → general anesthesia. Because patients move unpredictably along this continuum, providers must be able to **rescue** a patient who becomes more deeply sedated than intended.
+American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice Committee guideline on sedation and anesthesia across the full continuum used for gastrointestinal (GI) endoscopy. Sedation is a drug-induced depression of consciousness on a continuum from minimal sedation (anxiolysis) → moderate ("conscious") sedation → deep sedation → general anesthesia. Because patients move unpredictably along this continuum, providers must be able to **rescue** a patient who becomes more deeply sedated than intended.
 
-Pre-procedural work-up: informed consent, history/focused exam (snoring/OSA, drug allergies, prior sedation reactions, last oral intake, tobacco/alcohol/substance use), airway assessment (Mallampati class), ASA physical-status classification (I–V, +E), and NPO/fasting to limit aspiration (ASA: ≥2 h clear liquids, ≥6 h light meal). A documented pre-procedural assessment and time-out are required quality metrics.
+Pre-procedural work-up: informed consent, history/focused exam (snoring/obstructive sleep apnea [OSA], drug allergies, prior sedation reactions, last oral intake, tobacco/alcohol/substance use), airway assessment (Mallampati class), American Society of Anesthesiologists (ASA) physical-status classification (I–V, +E), and nil per os (NPO)/fasting to limit aspiration (ASA: ≥2 h clear liquids, ≥6 h light meal). A documented pre-procedural assessment and time-out are required quality metrics.
 
-Minimal/moderate sedation is safely delivered by endoscopists for ASA class I–III patients, typically a **benzodiazepine + opioid** (midazolam favored for fast onset, short duration, amnestic effect; fentanyl favored over meperidine). Reversal agents — **naloxone** (opioids) and **flumazenil** (benzodiazepines) — must be available in every unit. Adjuncts (diphenhydramine, promethazine, droperidol) can deepen sedation in select cases (droperidol has a black-box QTc warning).
+Minimal/moderate sedation is safely delivered by endoscopists for ASA class I–III patients, typically a **benzodiazepine + opioid** (midazolam favored for fast onset, short duration, amnestic effect; fentanyl favored over meperidine). Reversal agents — **naloxone** (opioids) and **flumazenil** (benzodiazepines) — must be available in every unit. Adjuncts (diphenhydramine, promethazine, droperidol) can deepen sedation in select cases (droperidol has a black-box corrected QT interval (QTc) warning).
 
-Propofol-mediated sedation (NAAP/NAPS, balanced propofol sedation, or anesthesia-provider/MAC) has shorter sedation and recovery times; propofol has no reversal agent, so deep sedation and rescue skills are required. Monitoring of BP, SpO₂, and HR is required for all sedated procedures; **capnography** should be considered for deep sedation (reduces transient hypoxemia). Anesthesia-provider assistance should be considered for prolonged/therapeutic procedures needing deep sedation, anticipated sedative intolerance, severe comorbidity (ASA IV/V), or airway-obstruction risk. Routine anesthesia for low-risk EGD/colonoscopy has not shown a safety benefit and increases cost.
+Propofol-mediated sedation (non-anesthesiologist–administered propofol [NAAP]/nurse-administered propofol sedation [NAPS], balanced propofol sedation, or anesthesia-provider/monitored anesthesia care [MAC]) has shorter sedation and recovery times; propofol has no reversal agent, so deep sedation and rescue skills are required. Monitoring of blood pressure (BP), oxygen saturation (SpO₂), and heart rate (HR) is required for all sedated procedures; **capnography** should be considered for deep sedation (reduces transient hypoxemia). Anesthesia-provider assistance should be considered for prolonged/therapeutic procedures needing deep sedation, anticipated sedative intolerance, severe comorbidity (ASA IV/V), or airway-obstruction risk. Routine anesthesia for low-risk esophagogastroduodenoscopy (EGD)/colonoscopy has not shown a safety benefit and increases cost.
 
 ## Key Findings / Claims
 
 ### Levels of sedation (Table 2)
-| Level | Responsiveness | Airway | Spontaneous ventilation | CV function |
+| Level | Responsiveness | Airway | Spontaneous ventilation | Cardiovascular function |
 |---|---|---|---|---|
 | Minimal (anxiolysis) | Normal to verbal | Unaffected | Unaffected | Unaffected |
 | Moderate (conscious) | Purposeful to verbal/tactile | No intervention | Adequate | Usually maintained |
@@ -37,7 +37,7 @@ Propofol-mediated sedation (NAAP/NAPS, balanced propofol sedation, or anesthesia
 | General anesthesia | Unarousable even to pain | Intervention often required | Frequently inadequate | May be impaired |
 
 ### ASA physical-status classification (Table 3)
-- **I:** Normal, healthy. **II:** Mild systemic disease, no activity limit (controlled HTN/DM). **III:** Moderate–severe systemic disease, no activity limit (stable angina, DM with sequelae). **IV:** Severe systemic disease, constant threat to life (severe CHF, ESRD). **V:** Moribund, substantial risk of death within 24 h. **E:** Emergency (suffix to I–V).
+- **I:** Normal, healthy. **II:** Mild systemic disease, no activity limit (controlled hypertension [HTN]/diabetes mellitus [DM]). **III:** Moderate–severe systemic disease, no activity limit (stable angina, DM with sequelae). **IV:** Severe systemic disease, constant threat to life (severe congestive heart failure [CHF], end-stage renal disease [ESRD]). **V:** Moribund, substantial risk of death within 24 h. **E:** Emergency (suffix to I–V).
 - Endoscopists may deliver minimal/moderate sedation to ASA I–III; higher ASA class is associated with increased cardiopulmonary adverse events.
 
 ### When to involve an anesthesia provider (Table 4)
@@ -58,7 +58,7 @@ Propofol-mediated sedation (NAAP/NAPS, balanced propofol sedation, or anesthesia
 
 ### Additional points
 - **NPO/aspiration:** ASA — minimum 2 h after clear liquids, 6 h after a light meal; no universally accepted fasting standard. With impaired gastric emptying or emergencies, weigh aspiration risk in choosing target sedation depth, delaying the procedure, or protecting the airway with intubation.
-- **Capnography:** detects depressed respiration before transient hypoxemia; reduced transient hypoxemia in a >500-patient colonoscopy RCT under deep sedation; not shown to improve safety in moderate sedation.
+- **Capnography:** detects depressed respiration before transient hypoxemia; reduced transient hypoxemia in a >500-patient colonoscopy randomized controlled trial (RCT) under deep sedation; not shown to improve safety in moderate sedation.
 - **Reversal agents:** naloxone (opioid antagonist) and flumazenil (benzodiazepine antagonist) must be readily available; propofol has no specific reversal agent.
 - **Cost/utilization:** endoscopist-directed propofol more cost-effective than anesthesia-administered; anesthesia utilization for low-risk EGD/colonoscopy continues to rise without demonstrated safety benefit and tracks reimbursement patterns; no difference in adenoma detection rate by sedation provider.
 

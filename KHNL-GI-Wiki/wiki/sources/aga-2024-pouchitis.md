@@ -15,13 +15,13 @@ sources: []
 - **Year:** 2024
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
 - **DOI:** [10.1053/j.gastro.2023.10.015](https://doi.org/10.1053/j.gastro.2023.10.015)
-- **Type:** GRADE-based guideline
+- **Type:** Grading of Recommendations Assessment, Development and Evaluation (GRADE)-based guideline
 
 ---
 
 ## Summary
 
-This guideline addresses prevention and treatment of pouchitis and inflammatory pouch disorders after **ileal pouch–anal anastomosis (IPAA)**, the usual surgical endpoint for [[ulcerative-colitis]]. Management is staged by pattern: intermittent, chronic antibiotic-dependent, chronic antibiotic-refractory, and Crohn's-like disease of the pouch. It extends [[inflammatory-bowel-disease]] care into the postsurgical pouch.
+This American Gastroenterological Association (AGA) guideline addresses prevention and treatment of pouchitis and inflammatory pouch disorders after **ileal pouch–anal anastomosis (IPAA)**, the usual surgical endpoint for [[ulcerative-colitis]]. Management is staged by pattern: intermittent, chronic antibiotic-dependent, chronic antibiotic-refractory, and Crohn's-like disease of the pouch. It extends [[inflammatory-bowel-disease]] care into the postsurgical pouch.
 
 ---
 
@@ -39,7 +39,7 @@ This guideline addresses prevention and treatment of pouchitis and inflammatory 
 
 ## Clinical Relevance
 
-Provides a stepwise antibiotic-first algorithm with escalation to biologics for refractory disease, distinguishing pouchitis subtypes that drive therapy. Essential for post-colectomy [[ulcerative-colitis]] patients and overlaps with biologic selection principles in the IBD pharmacologic guidelines.
+Provides a stepwise antibiotic-first algorithm with escalation to biologics for refractory disease, distinguishing pouchitis subtypes that drive therapy. Essential for post-colectomy [[ulcerative-colitis]] patients and overlaps with biologic selection principles in the inflammatory bowel disease (IBD) pharmacologic guidelines.
 
 ---
 

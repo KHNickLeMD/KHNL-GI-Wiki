@@ -13,7 +13,7 @@ sources: []
 - **Year:** 2024
 - **Journal/Publisher:** Gastroenterology 2024;166:930â€“934
 - **DOI:** [10.1053/j.gastro.2024.01.040](https://doi.org/10.1053/j.gastro.2024.01.040)
-- **Type:** guideline (AGA Clinical Practice Update â€” Commentary; narrative expert advice, no formal Best Practice Advice statements)
+- **Type:** guideline (American Gastroenterological Association [AGA] Clinical Practice Update â€” Commentary; narrative expert advice, no formal Best Practice Advice statements)
 
 ## Summary
 
@@ -36,8 +36,8 @@ Commentary on cannabinoid hyperemesis syndrome (CHS), a chronic disorder of gutâ
 - No confirmatory test. Hot-water bathing reported in ~71% of CHS (systematic review, 271 cases: mean age 30 yr, 69% male, mean 6.6 yr of cannabis use before onset, daily use 68%); not pathognomonic (also seen in CVS).
 - **4 phases of CVS (Fleisher):** interepisodic, prodromal, emetic, recovery.
 - **Complications:** dehydration, acute kidney injury, electrolyte/metabolic imbalance; rarer pneumothorax/pneumomediastinum; death.
-- **ED evaluation** must exclude life-threatening mimics: acute abdomen, bowel obstruction, mesenteric ischemia, pancreatitis, myocardial infarction.
-- **Outpatient DDx** after excluding structural disease: rumination syndrome, gastroparesis, CVS, pregnancy, migraine, functional chronic nausea and vomiting.
+- **Emergency department (ED) evaluation** must exclude life-threatening mimics: acute abdomen, bowel obstruction, mesenteric ischemia, pancreatitis, myocardial infarction.
+- **Outpatient differential diagnosis (DDx)** after excluding structural disease: rumination syndrome, gastroparesis, CVS, pregnancy, migraine, functional chronic nausea and vomiting.
 
 **Management:**
 - **Acute/short-term (case series, small trials):** topical **capsaicin 0.1% cream** to the upper abdomen (TRPV1 activation), benzodiazepines, **haloperidol**, promethazine, olanzapine, ondansetron. **Avoid opioids** (worsen nausea, addiction risk).
@@ -50,4 +50,4 @@ Commentary on cannabinoid hyperemesis syndrome (CHS), a chronic disorder of gutâ
 - Updates [[nausea-and-vomiting]] (DDx of episodic vomiting) and [[gastroparesis]] (DDx).
 
 ## Contradictions / Open Questions
-- Commentary, no formal evidence ratings; treatment evidence limited to case series/small RCTs. Critical appraisal has questioned the etiologic role of cannabis in CHS. Many patients remain uncertain about the cannabis link, and recidivism is high.
+- Commentary, no formal evidence ratings; treatment evidence limited to case series/small randomized controlled trials (RCTs). Critical appraisal has questioned the etiologic role of cannabis in CHS. Many patients remain uncertain about the cannabis link, and recidivism is high.

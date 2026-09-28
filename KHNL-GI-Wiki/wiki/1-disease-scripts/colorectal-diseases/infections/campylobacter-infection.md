@@ -13,14 +13,14 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ### Establishing the Diagnosis
 
-- Acute febrile, often bloody/inflammatory diarrhea; frequent poultry exposure or travel to SE Asia/India.
-- **Stool testing** (culture or multiplex GI PCR) indicated when diarrhea has fever, bloody/mucoid stools, severe cramping, or sepsis signs. *Campylobacter* is a **notifiable** pathogen. [[idsa-2017-infectious-diarrhea]]
+- Acute febrile, often bloody/inflammatory diarrhea; frequent poultry exposure or travel to Southeast Asia/India.
+- **Stool testing** (culture or multiplex gastrointestinal (GI) polymerase chain reaction (PCR)) indicated when diarrhea has fever, bloody/mucoid stools, severe cramping, or sepsis signs. *Campylobacter* is a **notifiable** pathogen. [[idsa-2017-infectious-diarrhea]]
 
 ### Severity Assessment
 
 - Most cases self-limited. Dysentery/febrile or septic presentations, and immunocompromise, mark severe disease warranting therapy.
-- Grade illness with the ACG mild / moderate / severe activity definitions — see [[acute-diarrhea]].
-- **Exposures raising pre-test probability** (IDSA Table 2): poultry, unpasteurized milk/dairy, untreated fresh water, house pets with diarrhea, farm/petting-zoo contact, anal-genital/oral-anal contact. [[idsa-2017-infectious-diarrhea]]
+- Grade illness with the American College of Gastroenterology (ACG) mild / moderate / severe activity definitions — see [[acute-diarrhea]].
+- **Exposures raising pre-test probability** (Infectious Diseases Society of America (IDSA) Table 2): poultry, unpasteurized milk/dairy, untreated fresh water, house pets with diarrhea, farm/petting-zoo contact, anal-genital/oral-anal contact. [[idsa-2017-infectious-diarrhea]]
 
 ---
 
@@ -29,8 +29,8 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 *Workup: see [[acute-diarrhea]].*
 
 - Other inflammatory bacterial enteritides — [[salmonella-infection]], [[shigellosis]], *Yersinia enterocolitica*
-- **Shiga toxin–producing *E. coli* (STEC/EHEC)** — bloody diarrhea ± HUS; **do NOT give antimicrobials** for STEC O157, any Shiga-toxin-2 producer, or when the toxin genotype is unknown *(strong, moderate)*. [[idsa-2017-infectious-diarrhea]] (Rec 35). Not the same organism as [[enterotoxigenic-e-coli|ETEC]] (watery, noninvasive).
-- Amebic dysentery — [[entamoeba-histolytica-infection|*Entamoeba histolytica*]]; species-level EIA/PCR required, since microscopy cannot separate it from non-pathogenic *E. dispar*. [[acg-2016-acute-diarrhea]]
+- **Shiga toxin–producing / enterohemorrhagic *E. coli* (STEC/EHEC)** — bloody diarrhea ± hemolytic uremic syndrome (HUS); **do NOT give antimicrobials** for STEC O157, any Shiga-toxin-2 producer, or when the toxin genotype is unknown *(strong, moderate)*. [[idsa-2017-infectious-diarrhea]] (Rec 35). Not the same organism as [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]] (watery, noninvasive).
+- Amebic dysentery — [[entamoeba-histolytica-infection|*Entamoeba histolytica*]]; species-level enzyme immunoassay (EIA)/PCR required, since microscopy cannot separate it from non-pathogenic *E. dispar*. [[acg-2016-acute-diarrhea]]
 - [[clostridioides-difficile|*C. difficile*]] colitis
 - Viral gastroenteritis — [[norovirus]], [[rotavirus]], adenovirus; watery and non-bloody, and the reason antibiotics are discouraged for community-acquired diarrhea *(strong, very low)*. [[acg-2016-acute-diarrhea]] (Rec 10)
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare
@@ -40,7 +40,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ## Diagnostics
 
 - Stool culture or multiplex GI PCR; indicated for febrile, bloody, or severe diarrhea and sepsis signs.
-- Consider in TD returning from high-FQ-resistance regions (SE Asia/India).
+- Consider in TD returning from regions with high FQ resistance (Southeast Asia/India).
 
 ---
 
@@ -63,9 +63,9 @@ Unlike [[salmonella-infection|nontyphoidal *Salmonella*]], there is **no evidenc
 
 | Line | Agent | Dose / duration |
 |---|---|---|
-| **First choice** | **Azithromycin** | **1,000 mg PO single dose**, OR **500 mg PO once daily × 3 days** — use the **3-day** course for dysentery or febrile diarrhea; if a single dose has not resolved symptoms by **24 h**, complete a 3-day course [[acg-2016-acute-diarrhea]] |
+| **First choice** | **Azithromycin** | **1,000 mg by mouth (PO) single dose**, OR **500 mg PO once daily × 3 days** — use the **3-day** course for dysentery or febrile diarrhea; if a single dose has not resolved symptoms by **24 h**, complete a 3-day course [[acg-2016-acute-diarrhea]] |
 | **Alternative** | **Ciprofloxacin** (or another fluoroquinolone) | Only where FQ susceptibility is confirmed; TD dosing in the Table 4 regimens on [[acute-diarrhea]] |
-| Not advised | TMP-SMX, tetracyclines | Effective in individual isolates, but resistance rates are considerably higher and there is **no advantage over azithromycin** [[idsa-2017-infectious-diarrhea]] |
+| Not advised | trimethoprim-sulfamethoxazole (TMP-SMX), tetracyclines | Effective in individual isolates, but resistance rates are considerably higher and there is **no advantage over azithromycin** [[idsa-2017-infectious-diarrhea]] |
 | Never | [[rifaximin\|Rifaximin]] | Non-absorbable; **do NOT use** — ineffective against this invasive pathogen [[acg-2016-acute-diarrhea]] |
 
 **Resistance drives the choice** [[idsa-2017-infectious-diarrhea]]:
@@ -82,7 +82,7 @@ Unlike [[salmonella-infection|nontyphoidal *Salmonella*]], there is **no evidenc
 ### Postinfectious and extraintestinal sequelae
 
 - *C. jejuni* is the leading infectious trigger of **Guillain-Barré syndrome** (ganglioside molecular mimicry; IDSA Rec 7).
-- Also reported: **reactive arthritis**, erythema nodosum, glomerulonephritis, hemolytic anemia, and [[postinfectious-ibs|post-infectious IBS]]. [[idsa-2017-infectious-diarrhea]]
+- Also reported: **reactive arthritis**, erythema nodosum, glomerulonephritis, hemolytic anemia, and [[postinfectious-ibs|post-infectious irritable bowel syndrome (IBS)]]. [[idsa-2017-infectious-diarrhea]]
 
 ---
 

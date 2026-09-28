@@ -14,15 +14,15 @@ sources: []
 - **Year:** 2021 (received February 25, 2021; accepted May 6, 2021)
 - **Journal/Publisher:** Gastroenterology 2021;161(2):701–711
 - **DOI:** [10.1053/j.gastro.2021.05.041](https://doi.org/10.1053/j.gastro.2021.05.041)
-- **Type:** guideline-tier — AGA Institute **Clinical Practice Update: Expert Review**
+- **Type:** guideline-tier — American Gastroenterological Association (AGA) Institute **Clinical Practice Update: Expert Review**
 
-**Article type and grading — read before citing.** The document is headed *Clinical Practice Update: Expert Review* and is built around **15 numbered Best Practice Advice (BPA) statements**, numbered 1–15 by the authors themselves in Table 1 and repeated verbatim in the running text. **Ungraded — the source attaches no evidence grade or strength of recommendation to any statement.** Its own words: *"This is not a formal systematic review and thus no formal rating of the quality of evidence or strength of recommendation has been carried out."* Never cite a GRADE level, certainty rating, or "strong/conditional" label for anything in this document.
+**Article type and grading — read before citing.** The document is headed *Clinical Practice Update: Expert Review* and is built around **15 numbered Best Practice Advice (BPA) statements**, numbered 1–15 by the authors themselves in Table 1 and repeated verbatim in the running text. **Ungraded — the source attaches no evidence grade or strength of recommendation to any statement.** Its own words: *"This is not a formal systematic review and thus no formal rating of the quality of evidence or strength of recommendation has been carried out."* Never cite a Grading of Recommendations Assessment, Development and Evaluation (GRADE) level, certainty rating, or "strong/conditional" label for anything in this document.
 
 ## Summary
 
-Three authors (Northwestern, UNC, Dartmouth-Hitchcock) set out what an endoscopy unit and an individual endoscopist must **measure**, what **benchmarks** those measurements must hit, and what to **do** when they fall short. The framing premise is that colonoscopy's efficacy varies among endoscopists and that lower-quality colonoscopies are associated with higher interval CRC incidence and mortality; the components of a high-quality exam are effectiveness (detecting CRC and its precursors), safety, and value (avoiding unnecessary costs).
+Three authors (Northwestern, University of North Carolina, Dartmouth-Hitchcock) set out what an endoscopy unit and an individual endoscopist must **measure**, what **benchmarks** those measurements must hit, and what to **do** when they fall short. The framing premise is that colonoscopy's efficacy varies among endoscopists and that lower-quality colonoscopies are associated with higher interval colorectal cancer (CRC) incidence and mortality; the components of a high-quality exam are effectiveness (detecting CRC and its precursors), safety, and value (avoiding unnecessary costs).
 
-The update assigns each metric to the level at which it should be measured. **Uncommon outcomes (adverse events) and system-based metrics (bowel preparation quality) are measured in aggregate at the unit level**; metrics that primarily reflect **colonoscopist skill (ADR) are measured at the endoscopist level** so individual feedback is possible. Cecal intubation rate and withdrawal time are endoscopist-level; ADR and serrated lesion detection rate are measured at **both** levels.
+The update assigns each metric to the level at which it should be measured. **Uncommon outcomes (adverse events) and system-based metrics (bowel preparation quality) are measured in aggregate at the unit level**; metrics that primarily reflect **colonoscopist skill (adenoma detection rate [ADR]) are measured at the endoscopist level** so individual feedback is possible. Cecal intubation rate and withdrawal time are endoscopist-level; ADR and serrated lesion detection rate are measured at **both** levels.
 
 Six measurable indicators carry explicit numeric goals plus aspirational targets: bowel preparation adequacy, cecal intubation rate, withdrawal time, adenoma detection rate, serrated lesion detection rate, and adverse events (measured, no numeric target). Seven best practices carry no number: split-dose preparation, high-definition colonoscopes, a second look at the right colon, cold snare for 3–9 mm nonpedunculated polyps, referral of benign complex polyps for endoscopic rather than surgical resection, detailed documentation, and guideline-concordant interval assignment.
 
@@ -34,7 +34,7 @@ The source's own numbering. No statement carries a grade.
 
 | BPA | Statement (verbatim) |
 |---|---|
-| 1 | "Endoscopy units should measure bowel preparation quality routinely, at a minimum annually, on a unit level. Adequate bowel preparation (defined as a BBPS score ≥6, with each segment score ≥2) should be achieved in ≥90% (≥95% aspirational target) of screening and surveillance colonoscopies." |
+| 1 | "Endoscopy units should measure bowel preparation quality routinely, at a minimum annually, on a unit level. Adequate bowel preparation (defined as a BBPS [Boston Bowel Preparation Scale] score ≥6, with each segment score ≥2) should be achieved in ≥90% (≥95% aspirational target) of screening and surveillance colonoscopies." |
 | 2 | "Endoscopy units should use a split-dose bowel preparation as the standard preparation strategy in patients undergoing colonoscopy." |
 | 3 | "Bowel preparation instructions should be clearly written at a sixth-grade reading level in the patient's native language. Units with suboptimal bowel preparation quality should augment preprocedure instructions with additional patient education and support." |
 | 4 | "Endoscopy units should use high-definition colonoscopes for screening and surveillance colonoscopy." |
@@ -59,16 +59,16 @@ The source's own numbering. No statement carries a grade.
 | Bowel preparation adequacy rate (BBPS ≥6, each segment ≥2) | ≥90% | ≥95% | Unit level |
 | Cecal intubation rate | ≥90% | ≥95% | Endoscopist level |
 | Withdrawal time (mean, normal colonoscopies) | ≥6 min | ≥9 min | Endoscopist level |
-| Adenoma detection rate (ADR) | ≥30% | ≥35% | Endoscopist **and** unit level |
+| ADR | ≥30% | ≥35% | Endoscopist **and** unit level |
 | Serrated lesion detection rate (SDR) | ≥7% | ≥10% | Endoscopist **and** unit level |
 | Adverse events | Measure; no numeric target given | — | Unit level |
 
 ### Bowel preparation (BPA 1–3)
 
 - Suboptimal cleansing may lead to failed detection of flat or otherwise subtle polyps; impact of inadequate preparation is particularly pronounced in the **proximal colon**, reducing detection of both adenomas and sessile serrated lesions.
-- Two commonly used rating scales: the **modified Aronchick score** (single score for overall preparation quality — excellent, good, fair, poor, inadequate) and the **Boston Bowel Preparation Scale (BBPS)**, scoring 0 (unprepared colon) to 3 (entire segment of colon well seen) **for each colon segment** (right, transverse, left).
+- Two commonly used rating scales: the **modified Aronchick score** (single score for overall preparation quality — excellent, good, fair, poor, inadequate) and the **BBPS**, scoring 0 (unprepared colon) to 3 (entire segment of colon well seen) **for each colon segment** (right, transverse, left).
 - **BBPS is preferred** because it is applied after cleaning and has been rigorously validated. "Adequate" = overall BBPS **≥6 with each segment score ≥2**.
-- **Split dose** = one-half to three-quarters of the purgative the evening before colonoscopy, the remainder **4–6 hours before the start** of colonoscopy. RCTs and meta-analyses demonstrate superiority of split-dose vs evening-before dosing for cleansing and for detection of adenomas, advanced adenomas, and SSLs. Patient tolerability and acceptability of split-dose is comparable if not superior to evening-before dosing.
+- **Split dose** = one-half to three-quarters of the purgative the evening before colonoscopy, the remainder **4–6 hours before the start** of colonoscopy. Randomized controlled trials (RCTs) and meta-analyses demonstrate superiority of split-dose vs evening-before dosing for cleansing and for detection of adenomas, advanced adenomas, and sessile serrated lesions (SSLs). Patient tolerability and acceptability of split-dose is comparable if not superior to evening-before dosing.
 - **Same-day preparation** (purgative taken only the morning of the procedure, finished **2–4 hours before the scheduled appointment**) is **equally efficacious to split-dose for afternoon examinations** and may be preferred due to less disruption of regular activities and sleep.
 - More than one-third of the US population has limited health literacy, with higher prevalence in underserved groups; instructions should be written at a **sixth-grade (or lower) reading level**. Language-concordant written instructions effectively improve colonoscopy preparations.
 - Instructional videos and **patient navigation** (using trained staff to help patients overcome barriers to care) improve colonoscopy completion adequacy and bowel preparation adequacy, particularly in low-literacy populations. Smartphone applications and text messaging have improved preparation quality but **may not be as universally effective as traditional patient navigation**.
@@ -137,7 +137,7 @@ The source's own numbering. No statement carries a grade.
 
 ### Documentation (BPA 13)
 
-- A standardized colonoscopy reporting and data system, termed **CO-RADS**, was developed by the **National Colorectal Cancer Roundtable in 2007**.
+- A standardized colonoscopy reporting and data system (**CO-RADS**) was developed by the **National Colorectal Cancer Roundtable in 2007**.
 - Recommended elements: patient demographics and history, assessment of patient risk and comorbidity, indication for procedure, technical description of the procedure, findings, assessment, interventions and unplanned events, follow-up plan, and pathology results.
 - The **technical description should include extent of examination, bowel preparation adequacy, and withdrawal time where appropriate.**
 - The **follow-up plan should include resumption of medications, including anticoagulants and antiplatelet agents.**
@@ -173,9 +173,9 @@ A four-step ladder from poor → variable → adequate → optimal colonoscopy q
 - **[[colonoscopy-quality-indicators]]** — created from this source; the home page for the full quality-indicator set (goals, aspirational targets, measurement level, denominators, remediation ladder).
 - **[[colonoscopy]]** — Quality Metrics section rebuilt on this source: supplies the withdrawal-time indicator the page previously lacked, the ADR denominator qualifier it flagged as missing, and the cecal-intubation and prep-adequacy figures with their qualifiers.
 - **[[polypectomy]]** — BPA 11 (cold snare for nonpedunculated 3–9 mm; forceps limits) and BPA 12 (complex polyp referral, avoid tattoo-under-the-polyp/partial removal/multiple biopsies).
-- **[[colonoscopy-surveillance]]** — BPA 15 interval-adherence rules, including the CPU's suggestion to consider a 10-year interval for 1–2 small adenomas.
-- **[[colorectal-cancer-screening]]** — complements the ACG 2021 quality-indicator recommendations already on that page with the newer AGA benchmarks.
-- **[[artificial-intelligence-endoscopy]]** — this update names AI as anticipated future work in improving colonoscopy quality but makes no advice statement about it.
+- **[[colonoscopy-surveillance]]** — BPA 15 interval-adherence rules, including this clinical practice update's (CPU's) suggestion to consider a 10-year interval for 1–2 small adenomas.
+- **[[colorectal-cancer-screening]]** — complements the American College of Gastroenterology (ACG) 2021 quality-indicator recommendations already on that page with the newer AGA benchmarks.
+- **[[artificial-intelligence-endoscopy]]** — this update names artificial intelligence as anticipated future work in improving colonoscopy quality but makes no advice statement about it.
 
 ## Contradictions / Open Questions
 

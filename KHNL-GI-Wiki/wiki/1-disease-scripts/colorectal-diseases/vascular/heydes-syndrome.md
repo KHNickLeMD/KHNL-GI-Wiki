@@ -19,21 +19,21 @@ sources: [acg-2015-small-bowel-bleeding]
 
 ## Assessment
 
-- **Heyde's syndrome** = aortic stenosis + GI bleeding from [[angioectasia]]. [[acg-2015-small-bowel-bleeding]]
+- **Heyde's syndrome** = aortic stenosis + gastrointestinal (GI) bleeding from [[angioectasia]]. [[acg-2015-small-bowel-bleeding]]
 
 ### Establishing the Diagnosis
 
 - Clinical association, not a test: known/newly found aortic stenosis **plus** bleeding angioectasia.
-- Angioectasia is typically identified on the [[small-bowel-bleeding|small bowel bleeding]] workup ([[capsule-endoscopy|VCE]] → [[device-assisted-enteroscopy|DBE]]).
+- Angioectasia is typically identified on the [[small-bowel-bleeding|small bowel bleeding]] workup ([[capsule-endoscopy|video capsule endoscopy (VCE)]] → [[device-assisted-enteroscopy|double-balloon enteroscopy (DBE)]]).
 
 ### Mechanism
 
-- [[acg-2015-small-bowel-bleeding|ACG 2015]] calls the aortic-stenosis/[[angioectasia]] link a **controversial association**, thought to be secondary to an **acquired type 2 von Willebrand deficiency**.
+- [[acg-2015-small-bowel-bleeding|American College of Gastroenterology (ACG) 2015]] calls the aortic-stenosis/[[angioectasia]] link a **controversial association**, thought to be secondary to an **acquired type 2 von Willebrand deficiency**.
 - Support for the relationship: some patients with aortic stenosis have resolution of GI bleeding after **aortic valve replacement**.
 - **Left ventricular assist device (LVAD) patients are likewise at risk** for angioectasia and recurrent bleeding, again secondary to an acquired von Willebrand deficiency syndrome.
-- Pilot studies: **decreased vWF levels predict recurrent bleeding** from small bowel angioectasia.
+- Pilot studies: **decreased von Willebrand factor (vWF) levels predict recurrent bleeding** from small bowel angioectasia.
 
-> The guideline does not describe the shear-stress → HMW-multimer-cleavage cascade in more detail; see a hematology reference for the mechanism.
+> The guideline does not describe the shear-stress → high-molecular-weight (HMW) multimer-cleavage cascade in more detail; see a hematology reference for the mechanism.
 
 ## Differential Diagnosis
 
@@ -51,8 +51,8 @@ sources: [acg-2015-small-bowel-bleeding]
 
 ## Therapeutics
 
-- **Aortic valve replacement** for Heyde's syndrome with **ongoing bleeding**. *(Conditional recommendation, moderate level of evidence.)* [[acg-2015-small-bowel-bleeding]]
-  - AVR resolves the vWF deficiency and reduces rebleeding risk — pooled event rate **0.16 (95% CI 0.05–0.38)** in meta-analysis.
+- **Aortic valve replacement (AVR)** for Heyde's syndrome with **ongoing bleeding**. *(Conditional recommendation, moderate level of evidence.)* [[acg-2015-small-bowel-bleeding]]
+  - AVR resolves the vWF deficiency and reduces rebleeding risk — pooled event rate **0.16 (95% confidence interval [CI] 0.05–0.38)** in meta-analysis.
 
 ## See Also
 

@@ -16,13 +16,13 @@ sources: []
 - **Year:** 2023
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
 - **DOI:** [10.1053/j.gastro.2023.09.029](https://doi.org/10.1053/j.gastro.2023.09.029)
-- **Type:** GRADE-based guideline
+- **Type:** Grading of Recommendations Assessment, Development and Evaluation (GRADE)-based guideline
 
 ---
 
 ## Summary
 
-This guideline defines how **fecal calprotectin, CRP, and the Endoscopic Healing Index** can substitute for or triage endoscopy in monitoring [[crohns-disease]], supporting a **biomarker- and symptom-based** treat-to-target strategy over symptoms alone.
+This American Gastroenterological Association (AGA) guideline defines how **fecal calprotectin, C-reactive protein (CRP), and the Endoscopic Healing Index** can substitute for or triage endoscopy in monitoring [[crohns-disease]], supporting a **biomarker- and symptom-based** treat-to-target strategy over symptoms alone.
 
 ---
 
@@ -37,7 +37,7 @@ This guideline defines how **fecal calprotectin, CRP, and the Endoscopic Healing
 
 ## Clinical Relevance
 
-Embeds noninvasive biomarkers (calprotectin <150, CRP) into [[crohns-disease]] monitoring, reducing unnecessary colonoscopy while catching subclinical inflammation. Complements the IBD pharmacologic guidelines and the [[inflammatory-bowel-disease]] treat-to-target paradigm.
+Embeds noninvasive biomarkers (calprotectin <150, CRP) into [[crohns-disease]] monitoring, reducing unnecessary colonoscopy while catching subclinical inflammation. Complements the inflammatory bowel disease (IBD) pharmacologic guidelines and the [[inflammatory-bowel-disease]] treat-to-target paradigm.
 
 ---
 

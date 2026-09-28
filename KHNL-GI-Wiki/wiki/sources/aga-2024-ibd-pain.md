@@ -16,17 +16,17 @@ sources: []
 - **Year:** 2024 (received July 12, 2023; accepted March 18, 2024)
 - **Journal/Publisher:** *Gastroenterology* 2024;166(6):1182–1189 (AGA Institute — Clinical Practice Update, Commentary)
 - **DOI:** [10.1053/j.gastro.2024.03.034](https://doi.org/10.1053/j.gastro.2024.03.034)
-- **Type:** AGA Institute Clinical Practice Update — **Commentary**. **No numbered Best Practice Advice statements and no evidence/strength ratings** — "Formal ratings regarding the quality of evidence or strength of the presented considerations were not included because systematic reviews were not performed."
+- **Type:** American Gastroenterological Association (AGA) Institute Clinical Practice Update — **Commentary**. **No numbered Best Practice Advice statements and no evidence/strength ratings** — "Formal ratings regarding the quality of evidence or strength of the presented considerations were not included because systematic reviews were not performed."
 
 ---
 
 ## Summary
 
-Pain — mostly abdominal — is reported by **60%–75%** of patients with IBD. It is expected during active inflammation, but the clinical problem this Update addresses is persistent pain when inflammation is quiescent: **30% of patients with ulcerative colitis and 60% of patients with Crohn's disease** have persistent abdominal pain while endoscopy shows the IBD is "in remission." Persistent/"functional" pain in IBD drives unplanned health care use, disability, and mental-health decline, and it collides with the strong recommendation to avoid narcotics in this population.
+Pain — mostly abdominal — is reported by **60%–75%** of patients with inflammatory bowel disease (IBD). It is expected during active inflammation, but the clinical problem this Update addresses is persistent pain when inflammation is quiescent: **30% of patients with ulcerative colitis (UC) and 60% of patients with Crohn's disease (CD)** have persistent abdominal pain while endoscopy shows the IBD is "in remission." Persistent/"functional" pain in IBD drives unplanned health care use, disability, and mental-health decline, and it collides with the strong recommendation to avoid narcotics in this population.
 
 The Update reframes chronic pain in IBD as a **distinct, waxing-and-waning disease state** with central mechanisms (central sensitization, altered descending pain modulation, cognitive-affective amplifiers such as pain catastrophizing), managed proactively like IBD itself. Abdominal pain is **chronic if it has persisted 3–6 months past its acute onset and resolution of the insult** (e.g. surgery for stricture, resolution of obstruction). Peripheral factors that *initiate* pain are distinguished from central factors that *maintain and amplify* it; addressing the maintaining factors is what relieves symptoms.
 
-Management is multidisciplinary: an experienced pain psychologist for the initial comprehensive assessment, self-management/behavioral interventions, brain–gut behavior therapies, and **neuromodulators started early** (low-dose TCAs and SNRIs are prescribable and manageable by the gastroenterologist). **Narcotics are not advised for any chronic abdominal pain** because of addiction risk, paradoxical spinal amplification of pain sensitivity, and narcotic bowel syndrome. The gastroenterologist stays involved after referral — uptake of nonpharmacologic therapy rises considerably when the IBD provider makes the referral.
+Management is multidisciplinary: an experienced pain psychologist for the initial comprehensive assessment, self-management/behavioral interventions, brain–gut behavior therapies, and **neuromodulators started early** (low-dose tricyclic antidepressants [TCAs] and serotonin noradrenergic reuptake inhibitors [SNRIs] are prescribable and manageable by the gastroenterologist). **Narcotics are not advised for any chronic abdominal pain** because of addiction risk, paradoxical spinal amplification of pain sensitivity, and narcotic bowel syndrome. The gastroenterologist stays involved after referral — uptake of nonpharmacologic therapy rises considerably when the IBD provider makes the referral.
 
 ---
 
@@ -36,7 +36,7 @@ Management is multidisciplinary: an experienced pain psychologist for the initia
 
 - 60%–75% of patients with IBD report pain, most of it abdominal.
 - Persistent abdominal pain despite endoscopic remission: **30% of UC**, **60% of CD**.
-- Pain (IASP): "an unpleasant sensory and emotional experience associated with actual or potential tissue damage, or described in terms of such damage."
+- Pain (International Association for the Study of Pain [IASP]): "an unpleasant sensory and emotional experience associated with actual or potential tissue damage, or described in terms of such damage."
 - Abdominal pain is **chronic if it has persisted 3–6 months past its acute onset and resolution of the insult**.
 - In animal models, **inflammation-induced hyperalgesia often outlasts the actual inflammation**.
 
@@ -79,16 +79,16 @@ Management is multidisciplinary: an experienced pain psychologist for the initia
 | Soft-tissue mobilization | Abdominal adhesions may drive pain symptoms; "breaking up" these adhesions through massage may improve pain experience | Abdominal massage, visceral manipulation therapy, myofascial release |
 | Acupuncture | Neuroimaging data suggest acupuncture may modulate the brain networks involved in pain perception | — |
 | Relaxation training | Patients with chronic pain may experience heightened autonomic arousal in relation to pain and stress | Breathing techniques, guided imagery, visualizations; digital app Nerva (Mindset Health); mindful-meditation apps (Headspace, Calm) |
-| Mindfulness-based stress reduction | Teaches in-the-moment, nonjudgmental observation of pain; encourages movement/yoga; some evidence in IBS | — |
+| Mindfulness-based stress reduction | Teaches in-the-moment, nonjudgmental observation of pain; encourages movement/yoga; some evidence in irritable bowel syndrome (IBS) | — |
 | Virtual reality | Immersive experience helping patients distract or engage with pain in new ways; most data in acute pain, may show promise in chronic pain | — |
 | Self-management skills training | Teaches skills affecting symptom experience; empowers patients to accept, recognize, and control symptoms; may include community-based support | Self-care rituals, routine, sleep hygiene, nutrition, education, coping-skills training; digital apps for IBS — Mahana (prescription), Zemedy (over-the-counter) |
 | Brain–gut behavior therapies; cognitive behavior therapy | Targets cognitive-affective factors that amplify pain, including pain catastrophizing | — |
 
 **Table 2 (part 2) — Neuromodulator classes, dosing, adverse effects, timing, efficacy, indications (reproduced):**
 
-| Variable | Tricyclic antidepressants | Selective serotonin reuptake inhibitors | Serotonin noradrenergic reuptake inhibitors | Miscellaneous |
+| Variable | Tricyclic antidepressants || Selective serotonin reuptake inhibitors (SSRIs) || Serotonin noradrenergic reuptake inhibitors | Miscellaneous |
 |---|---|---|---|---|
-| Classes/dosing (mg/d) | Amitriptyline (10–100); Imipramine (25–100); Nortriptyline (50–150); Desipramine (50–200) | Fluoxetine (20–80); Citalopram (20–40); Escitalopram (10–20); Sertraline (50–200); Paroxetine (20–50) | Venlafaxine XR (37.5–225); Duloxetine (30–120); Vortioxetine (5–20) | Mirtazapine (15–45); Bupropion SR XL (100–450) |
+| Classes/dosing (mg/d) | Amitriptyline (10–100); Imipramine (25–100); Nortriptyline (50–150); Desipramine (50–200) | Fluoxetine (20–80); Citalopram (20–40); Escitalopram (10–20); Sertraline (50–200); Paroxetine (20–50) | Venlafaxine extended-release (XR) (37.5–225); Duloxetine (30–120); Vortioxetine (5–20) | Mirtazapine (15–45); Bupropion sustained-release (SR)/extended-release (XL) (100–450) |
 | Reported adverse effects (minimized by individualized dosing) | Sedation; arrhythmia (high dose); dry mouth; sexual dysfunction | Gastrointestinal; headache; insomnia; akathisia; sexual dysfunction | Same as SSRIs; hypertension | Mirtazapine: sedation, nausea, weight gain. Bupropion: weight loss, tachycardia, dry mouth, headache |
 | Timing | Adverse effects: days. Efficacy: 1–3 wk | Adverse effects: days. Efficacy: 2–4 wk | Adverse effects: days. Efficacy: 2–4 wk | Adverse effects: days. Efficacy: 1–2 wk |
 | Efficacy | Small controlled trials; analgesic effect independent of mood effect | Large randomized trials for depression and anxiety; little or no efficacy for direct pain reduction | Large randomized trials for depression and anxiety; small controlled studies for chronic pain | Small randomized controlled trials for depression |
@@ -109,7 +109,7 @@ Management is multidisciplinary: an experienced pain psychologist for the initia
 
 - **Narcotics are not advised for any chronic abdominal pain** — risk of addiction, paradoxical amplification of pain sensitivity in the spinal cord, and **narcotic bowel syndrome**.
 - Implement **opioid reduction while behavioral support is in place**. Opioid detoxification protocols improve narcotic bowel syndrome and were associated with lower abdominal pain scores.
-- NMDA antagonists (e.g. ketamine) reduce hyperalgesia in the context of gut inflammation but have not been studied extensively in IBD trials.
+- N-methyl-D-aspartate (NMDA) antagonists (e.g. ketamine) reduce hyperalgesia in the context of gut inflammation but have not been studied extensively in IBD trials.
 - **Cannabis:** qualitative reports only; **no quantitative studies support its use** and long-term safety is unknown.
 - Be direct upfront that **work disability and opioids for chronic IBD-related pain are associated with poorer long-term outcomes and do not reduce suffering**.
 
@@ -119,9 +119,9 @@ Management is multidisciplinary: an experienced pain psychologist for the initia
 - The initial comprehensive assessment should include a **psychologist experienced in chronic visceral pain**; nonpsychologists should yield to mental health professionals on modality choice.
 - Prescribable/manageable by gastroenterologists: **instruction in breathing techniques, low-dose TCAs, SNRIs**.
 - **Cognitive behavioral therapy** — for patients with no or limited response; works best in patients with insight into how thoughts, feelings, and behaviors relate to their pain.
-- **Hypnotherapy** — for patients with more visceral hypersensitivity or somatic symptoms, provided no severe PTSD or other contraindication, and delivered by a certified clinical provider.
+- **Hypnotherapy** — for patients with more visceral hypersensitivity or somatic symptoms, provided no severe post-traumatic stress disorder (PTSD) or other contraindication, and delivered by a certified clinical provider.
 - Significant psychiatric comorbidity requires psychologist or psychiatrist involvement.
-- Patients who benefit most from self-management have **milder symptoms, high motivation, and a sense of confidence**; digital CBT and gut-directed hypnosis tools improve access.
+- Patients who benefit most from self-management have **milder symptoms, high motivation, and a sense of confidence**; digital cognitive behavioral therapy (CBT) and gut-directed hypnosis tools improve access.
 - **Uptake of nonpharmacologic therapy increases considerably when the referral is made by the IBD provider**; schedule a follow-up visit after any outside referral to check on it.
 - Rome Foundation Psychogastroenterology Group is named as a route to find brain–gut-trained psychologists.
 
@@ -136,13 +136,13 @@ Management is multidisciplinary: an experienced pain psychologist for the initia
 
 - Creates the concept page [[ibd-pain-management]] — definitions, chronicity threshold, risk factors, self-management menu, neuromodulator dosing table, opioid rules, referral pathway.
 - Adds a pain-management pointer to [[crohns-disease]] and [[ulcerative-colitis]] (persistent pain despite endoscopic remission is 60% in CD, 30% in UC — it is not automatically a flare).
-- Overlaps conceptually with [[disorders-of-gut-brain-interaction]] and [[irritable-bowel-syndrome]] (shared central mechanisms; the Update explicitly draws on the CPU on chronic GI pain in DGBI).
+- Overlaps conceptually with [[disorders-of-gut-brain-interaction]] and [[irritable-bowel-syndrome]] (shared central mechanisms; the Update explicitly draws on the Clinical Practice Update (CPU) on chronic gastrointestinal (GI) pain in disorders of gut–brain interaction [DGBI]).
 
 ---
 
 ## Contradictions / Open Questions
 
-- **No formal evidence grading** — commentary format; no Best Practice Advice numbering, no GRADE ratings.
+- **No formal evidence grading** — commentary format; no Best Practice Advice numbering, no Grading of Recommendations Assessment, Development and Evaluation (GRADE) ratings.
 - **When an acute pain episode has "converted" to chronic pain in IBD is not resolvable** — the relapsing-remitting nature of inflammation and the lack of clarity about when the peripheral cause is resolved are named as an area of future research.
 - The 3–6 month chronicity window in the text vs the IASP >3 month definition in Table 1 are stated side by side without reconciliation.
 - Mood stabilizers, atypical antipsychotics, ketamine, and cannabis all lack IBD-specific evidence.

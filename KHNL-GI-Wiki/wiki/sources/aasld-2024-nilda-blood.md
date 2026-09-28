@@ -18,29 +18,29 @@ sources: []
 
 ## Summary
 
-This AASLD Practice Guideline addresses **blood-based** [[noninvasive-liver-disease-assessment|noninvasive liver disease assessment]] (NILDA) of hepatic fibrosis and steatosis across chronic liver diseases (CLD). It is one of a coordinated set of AASLD NILDA documents; companion guidelines cover **imaging-based** NILDA and NILDA for **clinically significant [[portal-hypertension|portal hypertension]]**. Recommendations were developed using GRADE based on a commissioned Mayo Clinic systematic review (literature through April 2022); where evidence was sparse/indirect the panel issued ungraded **guidance statements**. Six PICO questions are addressed (5 in adults, 1 in children).
+This American Association for the Study of Liver Diseases (AASLD) Practice Guideline addresses **blood-based** [[noninvasive-liver-disease-assessment|noninvasive liver disease assessment]] (NILDA) of hepatic fibrosis and steatosis across chronic liver diseases (CLD). It is one of a coordinated set of AASLD NILDA documents; companion guidelines cover **imaging-based** NILDA and NILDA for **clinically significant [[portal-hypertension|portal hypertension]]**. Recommendations were developed using Grading of Recommendations Assessment, Development and Evaluation (GRADE) based on a commissioned Mayo Clinic systematic review (literature through April 2022); where evidence was sparse/indirect the panel issued ungraded **guidance statements**. Six Population, Intervention, Comparison, Outcome (PICO) questions are addressed (5 in adults, 1 in children).
 
-The central clinical message: blood-based markers are **better at ruling out (high NPV) the absence of fibrosis or confirming the presence of cirrhosis than at distinguishing intermediate fibrosis stages**, and they have been studied predominantly in [[hepatitis-c|HCV]] and [[nafld-masld|NAFLD]]. Simple, cheap, widely available nonproprietary panels — chiefly **FIB-4** (and APRI, NFS in NAFLD) — are recommended as initial tests over complex proprietary panels (FibroTest/FibroSURE, ELF, FibroMeter, HepaScore, FibroSpect II), whose diagnostic accuracy is **not significantly different** in clinical practice. Markers perform worse for advanced fibrosis in [[chronic-hepatitis-b|HBV]] (cutoffs derived in HCV cause higher false-negative rates) and there are insufficient data to recommend blood-based NILDA for [[alcohol-associated-liver-disease|ALD]] or chronic cholestatic disease ([[primary-biliary-cholangitis|PBC]]/[[primary-sclerosing-cholangitis|PSC]]) fibrosis staging.
+The central clinical message: blood-based markers are **better at ruling out (high negative predictive value [NPV]) the absence of fibrosis or confirming the presence of cirrhosis than at distinguishing intermediate fibrosis stages**, and they have been studied predominantly in [[hepatitis-c|hepatitis C virus (HCV)]] and [[nafld-masld|nonalcoholic fatty liver disease (NAFLD)]]. Simple, cheap, widely available nonproprietary panels — chiefly **Fibrosis-4 Index (FIB-4)** (and aspartate aminotransferase-to-platelet ratio index [APRI], NAFLD fibrosis score [NFS] in NAFLD) — are recommended as initial tests over complex proprietary panels (FibroTest/FibroSURE, Enhanced Liver Fibrosis [ELF], FibroMeter, HepaScore, FibroSpect II), whose diagnostic accuracy is **not significantly different** in clinical practice. Markers perform worse for advanced fibrosis in [[chronic-hepatitis-b|hepatitis B virus (HBV)]] (cutoffs derived in HCV cause higher false-negative rates) and there are insufficient data to recommend blood-based NILDA for [[alcohol-associated-liver-disease|alcohol-associated liver disease (ALD)]] or chronic cholestatic disease ([[primary-biliary-cholangitis|primary biliary cholangitis (PBC)]]/[[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]]) fibrosis staging.
 
-For longitudinal use, the guideline recommends **against** using blood-based NILDA to follow progression, stability, or regression of histologic fibrosis stage, because extracellular matrix deposition/degradation is non-linear, etiology-dependent, and markers incorporating aminotransferases/acute-phase reactants reflect inflammation rather than true fibrosis change (notably post-SVR in HCV and on antiviral therapy in HBV, where biochemical improvement causes false-negative staging). For **steatosis**, the guideline recommends **against** blood-based NILDA to detect steatosis in NAFLD — the many serum steatosis indices (FLI, HSI, NLFS, etc.) are not accurate enough for daily practice, and **imaging-based NILDA (CAP, MRI-PDFF, MRS)** is preferred.
+For longitudinal use, the guideline recommends **against** using blood-based NILDA to follow progression, stability, or regression of histologic fibrosis stage, because extracellular matrix deposition/degradation is non-linear, etiology-dependent, and markers incorporating aminotransferases/acute-phase reactants reflect inflammation rather than true fibrosis change (notably post–sustained virological response [SVR] in HCV and on antiviral therapy in HBV, where biochemical improvement causes false-negative staging). For **steatosis**, the guideline recommends **against** blood-based NILDA to detect steatosis in NAFLD — the many serum steatosis indices (fatty liver index [FLI], hepatic steatosis index [HSI], NAFLD liver fat score [NLFS], etc.) are not accurate enough for daily practice, and **imaging-based NILDA (controlled attenuation parameter [CAP], magnetic resonance imaging–proton density fat fraction [MRI-PDFF], magnetic resonance spectroscopy [MRS])** is preferred.
 
-A simplified clinician algorithm (Figure 1) operationalizes a **sequential strategy**: begin with FIB-4 (or NFS in NAFLD); results below the rule-out threshold → F0–F1; above the rule-in threshold → F3–F4 (refer for [[hcc-surveillance|HCC surveillance]] per AASLD HCC guidance); **indeterminate** values (up to one-third of patients) require **confirmatory testing**, ideally imaging-based NILDA or ELF when FIB-4 ≥1.3.
+A simplified clinician algorithm (Figure 1) operationalizes a **sequential strategy**: begin with FIB-4 (or NFS in NAFLD); results below the rule-out threshold → F0–F1; above the rule-in threshold → F3–F4 (refer for [[hcc-surveillance|hepatocellular carcinoma (HCC) surveillance]] per AASLD HCC guidance); **indeterminate** values (up to one-third of patients) require **confirmatory testing**, ideally imaging-based NILDA or ELF when FIB-4 ≥1.3.
 
 ## Key Findings / Claims
 
-- Liver biopsy is the imperfect reference standard (sampling/classification/spectrum bias; mortality ~1/10,000–1/12,000; major bleeding 0.04%–0.01%); ideal NILDA AUROC usually does not exceed 0.9 because of biopsy error.
+- Liver biopsy is the imperfect reference standard (sampling/classification/spectrum bias; mortality ~1/10,000–1/12,000; major bleeding 0.04%–0.01%); ideal NILDA area under the receiver operating characteristic curve (AUROC) usually does not exceed 0.9 because of biopsy error.
 - For purposes of these guidelines fibrosis is collapsed to: **significant fibrosis = ≥F2**, **advanced fibrosis = F3–4**, **cirrhosis = F4**. Steatosis grades: **S0 <5%, S1 5%–33%, S2 34%–66%, S3 >66%**.
-- AUROC interpretation: 0.7–0.8 acceptable, 0.8–0.9 good/excellent, >0.9 excellent. Positive LR >10 and negative LR <0.1 indicate strong evidence.
-- Blood-based markers have **high sensitivity/NPV for ruling out** advanced fibrosis in NAFLD but **low PPV for ruling in**; in low-prevalence (community/primary care) cohorts they are useful to exclude advanced fibrosis but need a second test to improve PPV.
+- AUROC interpretation: 0.7–0.8 acceptable, 0.8–0.9 good/excellent, >0.9 excellent. Positive likelihood ratio (LR) >10 and negative LR <0.1 indicate strong evidence.
+- Blood-based markers have **high sensitivity/NPV for ruling out** advanced fibrosis in NAFLD but **low positive predictive value (PPV) for ruling in**; in low-prevalence (community/primary care) cohorts they are useful to exclude advanced fibrosis but need a second test to improve PPV.
 - **FIB-4 and APRI** are the best-validated nonproprietary tests but have an **indeterminate range** and unreliable performance in some patients.
 - **Proprietary and nonproprietary tests have comparable diagnostic accuracy**; nonproprietary tests are readily available, repeatable, and cheaper.
 - **HBV caveat:** cutoffs established in HCV give higher false-negative rates for advanced fibrosis/cirrhosis in HBV; FibroTest/FibroMeter/HepaScore optimal cutoffs were lower in HBV than HCV.
 - **Post-SVR (HCV) and on-treatment (HBV):** routine blood markers (which include aminotransferases) substantially underestimate significant fibrosis after viral clearance; no validated post-SVR thresholds exist.
 - **Sequential combination** (e.g., FIB-4 → ELF, or FIB-4 → NFS) reduces indeterminate/misclassification rates and unnecessary referrals (one NAFLD primary-care pathway cut referrals to secondary care by 80%); adding a second test mainly reclassifies indeterminate patients.
-- **Clinical factors degrade accuracy** (Table 6): age extremes (FIB-4, NFS, King's, eLift, ELF, HepaScore, FibroMeter); splenectomy/thrombocytopenia (platelet-based tests — APRI, FIB-4, NFS, FibroMeter); active alcohol use and Gilbert/cholestasis/hemolysis (FibroTest, HepaScore — GGT/bilirubin/haptoglobin effects); elevated ALT/AST inflammation; CKD; malnutrition (NFS albumin); postprandial state (NFS — glucose); gastrectomy and extra-hepatic fibrosing conditions (hyaluronic-acid-based — FibroSpect, HepaScore, ELF).
-- **Steatosis:** blood-based indices (FLI, HSI, LAP, NLFS, ION, SteatoTest, TyG, VAI, Dallas) are insufficiently accurate for daily practice; AASLD recommends imaging-based NILDA (CAP/MRI-PDFF/MRS) for steatosis.
+- **Clinical factors degrade accuracy** (Table 6): age extremes (FIB-4, NFS, King's, eLift, ELF, HepaScore, FibroMeter); splenectomy/thrombocytopenia (platelet-based tests — APRI, FIB-4, NFS, FibroMeter); active alcohol use and Gilbert/cholestasis/hemolysis (FibroTest, HepaScore — gamma-glutamyl transferase [GGT]/bilirubin/haptoglobin effects); elevated alanine aminotransferase (ALT)/aspartate aminotransferase (AST) inflammation; chronic kidney disease (CKD); malnutrition (NFS albumin); postprandial state (NFS — glucose); gastrectomy and extra-hepatic fibrosing conditions (hyaluronic-acid-based — FibroSpect, HepaScore, ELF).
+- **Steatosis:** blood-based indices (FLI, HSI, lipid accumulation product [LAP], NLFS, index of NAFLD [ION], SteatoTest, triglyceride-glucose index [TyG], visceral adiposity index [VAI], Dallas) are insufficiently accurate for daily practice; AASLD recommends imaging-based NILDA (CAP/MRI-PDFF/MRS) for steatosis.
 - **Pediatrics:** APRI and FIB-4 are the most studied but vary widely; FIB-4 performs poorly in young children (age in the index); rapid somatic growth and alkaline-phosphatase fluctuation confound results; FibroTest correlates poorly with histology in children.
-- Recommendations developed under prior NAFLD/NASH nomenclature are expected to apply to MASLD/MASH (>98% overlap).
+- Recommendations developed under prior NAFLD/nonalcoholic steatohepatitis (NASH) nomenclature are expected to apply to metabolic dysfunction–associated steatotic liver disease/steatohepatitis (MASLD/MASH) (>98% overlap).
 
 ### Key Blood-Based NIT Cut-Points (as reported)
 
@@ -48,21 +48,21 @@ A simplified clinician algorithm (Figure 1) operationalizes a **sequential strat
 
 | Threshold | Use | Performance (systematic review) |
 |---|---|---|
-| FIB-4 ≤1.30 (lower) | Rule **out** F3–4 | Higher sensitivity; DOR 7.81; broadly used as rule-out |
+| FIB-4 ≤1.30 (lower) | Rule **out** F3–4 | Higher sensitivity; diagnostic odds ratio (DOR) 7.81; broadly used as rule-out |
 | FIB-4 ≥1.45 (alt lower) | Rule **out** | DOR 10.76 (higher DOR than 1.30) |
 | FIB-4 ≥2.67 (upper) | Rule **in** F3–4 | Specificity ~0.94; DOR 7.81 |
 | FIB-4 ≥3.25 (upper) | Rule **in** F3–4 | Specificity ~0.94; DOR 7.01 |
 
 In the simplified algorithm: **Non-NAFLD** uses FIB-4 <1.45 (rule-out) and >3.25 (rule-in), 1.45–3.25 indeterminate. **NAFLD** uses FIB-4 <1.3 or NFS <−1.455 (rule-out), FIB-4 >2.67 or NFS >0.676 (rule-in), with the band between as indeterminate.
 
-**NFS (NAFLD Fibrosis Score) thresholds for advanced fibrosis (F3–4):**
+**NFS thresholds for advanced fibrosis (F3–4):**
 
 | Threshold | Use | Performance |
 |---|---|---|
-| NFS < −1.455 (lower) | Rule **out** F3–4 | Summary median sensitivity 0.75 (95% CI 0.61–0.81) for excluding F3–4 |
+| NFS < −1.455 (lower) | Rule **out** F3–4 | Summary median sensitivity 0.75 (95% confidence interval [CI] 0.61–0.81) for excluding F3–4 |
 | NFS > 0.676 (upper) | Rule **in** F3–4 | Specificity 0.96 (95% CI 0.93–0.98); indeterminate rate ~33.5% |
 
-**ELF (Enhanced Liver Fibrosis) for F3–4 in NAFLD:**
+**ELF for F3–4 in NAFLD:**
 
 | Threshold | Use | Performance |
 |---|---|---|
@@ -73,7 +73,7 @@ In the simplified algorithm: **Non-NAFLD** uses FIB-4 <1.45 (rule-out) and >3.25
 
 ## Recommendations (verbatim)
 
-> **PICO 1.** In adult patients with chronic liver disease, including hepatocellular (HCV, HIV-HCV, hepatitis B virus [HBV], HIV-HBV, NAFLD, and ALD) or cholestatic (primary sclerosing cholangitis [PSC] and primary biliary cholangitis [PBC]) disorders, are blood-based biomarker panels accurate in staging hepatic fibrosis (F0-1 vs. F2-4, F0-2 vs. F3-4, and F0-3 vs. F4) using histopathology as the reference?
+> **PICO 1.** In adult patients with chronic liver disease, including hepatocellular (HCV, HIV [human immunodeficiency virus]-HCV, hepatitis B virus [HBV], HIV-HBV, NAFLD, and ALD) or cholestatic (primary sclerosing cholangitis [PSC] and primary biliary cholangitis [PBC]) disorders, are blood-based biomarker panels accurate in staging hepatic fibrosis (F0-1 vs. F2-4, F0-2 vs. F3-4, and F0-3 vs. F4) using histopathology as the reference?
 
 **Guideline Statement 1.** In adult patients with chronic HBV and HCV undergoing fibrosis staging prior to antiviral therapy, AASLD recommends using simple blood-based NILDA such as APRI or Fibrosis-4 Index (FIB-4) as an initial test to detect significant (F2-4), advanced fibrosis (F3-4) or cirrhosis (F4) compared with no test (**strong recommendation, moderate quality of evidence**).
 
@@ -101,7 +101,7 @@ In the simplified algorithm: **Non-NAFLD** uses FIB-4 <1.45 (rule-out) and >3.25
 
 **Guidance Statement 9.** AASLD suggests against the use of blood-based NILDA to detect steatosis in patients with NAFLD (**ungraded statement**).
 
-> **PICO 6.** In pediatric chronic liver disease (HCV, HBV, BA, CFLD, and NAFLD/NASH), are blood-based biomarkers accurate in staging hepatic fibrosis (F0-1 vs. F2-4, F0-2 vs. F3-4, and F0-3 vs. F4) using histopathology as the reference?
+> **PICO 6.** In pediatric chronic liver disease (HCV, HBV, BA [biliary atresia], CFLD [cystic fibrosis liver disease], and NAFLD/NASH), are blood-based biomarkers accurate in staging hepatic fibrosis (F0-1 vs. F2-4, F0-2 vs. F3-4, and F0-3 vs. F4) using histopathology as the reference?
 
 **Guidance Statement 10.** In the pediatric patients with chronic liver disease, AASLD suggests the use of simple, cost-effective, and readily available blood-based NILDA, such as APRI or FIB-4, for the detection of advanced fibrosis (F3-4) (**ungraded statement**).
 
@@ -113,20 +113,20 @@ In the simplified algorithm: **Non-NAFLD** uses FIB-4 <1.45 (rule-out) and >3.25
 
 ## Relevance to Wiki
 
-- **[[nafld-masld]]** — primary entity updated. Supplies the blood-based half of the sequential NIT strategy (FIB-4 → ELF), the **FIB-4 rule-out (1.3) / rule-in (2.67) thresholds in NAFLD**, the **NFS rule-out (−1.455) / rule-in (0.676) thresholds**, the **ELF prognostic cutoff (≥11.3 cirrhosis range; ≥9.13–9.49 / ≥30% prevalence to reach PPV >0.8)**, the recommendation **against** using blood markers to monitor fibrosis over time, and the recommendation **against** blood-based steatosis indices (use imaging/CAP/MRI-PDFF instead). Reinforces that FIB-4 should not be used alone as a rule-in test in low-prevalence settings.
+- **[[nafld-masld]]** — primary entity updated. Supplies the blood-based half of the sequential noninvasive test (NIT) strategy (FIB-4 → ELF), the **FIB-4 rule-out (1.3) / rule-in (2.67) thresholds in NAFLD**, the **NFS rule-out (−1.455) / rule-in (0.676) thresholds**, the **ELF prognostic cutoff (≥11.3 cirrhosis range; ≥9.13–9.49 / ≥30% prevalence to reach PPV >0.8)**, the recommendation **against** using blood markers to monitor fibrosis over time, and the recommendation **against** blood-based steatosis indices (use imaging/CAP/MRI-PDFF instead). Reinforces that FIB-4 should not be used alone as a rule-in test in low-prevalence settings.
 - **[[portal-hypertension]]** — platelet-based markers (FIB-4, APRI, NFS, FibroMeter) are confounded by splenectomy and non-portal-hypertensive thrombocytopenia; FIB-4 >2.67/>3.25 or NFS >0.676 (rule-in advanced fibrosis) flags patients needing HCC surveillance and portal-hypertension workup; companion AASLD document covers NILDA for clinically significant portal hypertension specifically.
-- **[[abnormal-liver-chemistries]]** — FIB-4 as an initial triage step for incidentally abnormal LFTs.
-- **[[alcohol-associated-liver-disease]]** — insufficient evidence to recommend blood-based NILDA for ALD fibrosis staging (GS 3); proprietary tests (FibroTest, FibroMeter, HepaScore, ELF) outperform APRI but with heterogeneity.
+- **[[abnormal-liver-chemistries]]** — FIB-4 as an initial triage step for incidentally abnormal liver function tests (LFTs).
+- **[[alcohol-associated-liver-disease]]** — insufficient evidence to recommend blood-based NILDA for ALD fibrosis staging (Guideline Statement [GS] 3); proprietary tests (FibroTest, FibroMeter, HepaScore, ELF) outperform APRI but with heterogeneity.
 - **[[primary-biliary-cholangitis]] / [[primary-sclerosing-cholangitis]]** — disease-specific blood-based thresholds not established; insufficient evidence (GS 3).
 - HBV/HCV entity pages (if present) — FIB-4/APRI as initial pre-treatment staging (GS 1, 4); HCV cutoffs unreliable in HBV; post-SVR/on-treatment staging unreliable.
 - Feeds the **[[noninvasive-liver-disease-assessment]]** concept hub tying together the three AASLD NILDA documents (blood-based, imaging-based, portal hypertension).
 
 ## Contradictions / Open Questions
 
-- **No conflict** with [[aasld-2025-semaglutide-mash]]; the semaglutide page's ELF candidacy bands (9.2–10.5 recommended / 10.5–11.3 individualized / >11.3 cirrhosis) are consistent with this guideline's framing of ELF >11.3 as the cirrhosis range. This guideline adds the **diagnostic** ELF cutoffs (7.7 lower with sens 0.93/spec 0.34; ≥9.13–9.49 for rule-in) that the semaglutide page does not carry.
+- **No conflict** with [[aasld-2025-semaglutide-mash]]; the semaglutide page's ELF candidacy bands (9.2–10.5 recommended / 10.5–11.3 individualized / >11.3 cirrhosis) are consistent with this guideline's framing of ELF >11.3 as the cirrhosis range. This guideline adds the **diagnostic** ELF cutoffs (7.7 lower with sensitivity 0.93/specificity 0.34; ≥9.13–9.49 for rule-in) that the semaglutide page does not carry.
 - This guideline issues a strong recommendation to prefer **simple FIB-4/NFS over proprietary ELF for diagnosis**, while the semaglutide guidance uses ELF as a candidacy/monitoring tool — these are not contradictory (diagnosis vs. treatment selection) but note that the AASLD diagnostic stance favors FIB-4 first.
 - Recommends **against** serial blood markers to monitor fibrosis change — the semaglutide page describes an ELF decrease ≥0.5 as a treatment-response signal; flag that this longitudinal use is **outside** the evidence base of this diagnostic/staging guideline (drug-specific guidance, not a general endorsement of monitoring with blood markers).
-- All NAFLD evidence predates the MASLD/MASH nomenclature; the guideline assumes carry-over (>98% overlap) but explicitly lists MASLD/SLD validation as a future-research need.
+- All NAFLD evidence predates the MASLD/MASH nomenclature; the guideline assumes carry-over (>98% overlap) but explicitly lists MASLD/steatotic liver disease (SLD) validation as a future-research need.
 - No validated post-SVR (HCV) or on-treatment (HBV) blood-based thresholds — open question.
 - Optimal interval for repeat blood-based measurements post-SVR not established.
 

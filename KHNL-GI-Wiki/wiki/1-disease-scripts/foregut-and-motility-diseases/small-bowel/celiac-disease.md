@@ -7,7 +7,7 @@ updated: 2026-09-23
 sources: [acg-2022-celiac, aga-2019-celiac-monitoring, aga-2022-refractory-celiac]
 ---
 
-A permanent immune-mediated enteropathy triggered by gluten (proteins in wheat, barley, and rye) in genetically susceptible individuals (HLA-DQ2/DQ8). Affects ~1% of the US population. Characterized by small bowel villous injury, crypt hyperplasia, and intraepithelial lymphocytosis, with a wide spectrum of GI and extra-intestinal manifestations.
+A permanent immune-mediated enteropathy triggered by gluten (proteins in wheat, barley, and rye) in genetically susceptible individuals (HLA-DQ2/DQ8). Affects ~1% of the US population. Characterized by small bowel villous injury, crypt hyperplasia, and intraepithelial lymphocytosis, with a wide spectrum of gastrointestinal (GI) and extra-intestinal manifestations.
 
 ## Contents
 - [[#Assessment]]
@@ -36,14 +36,14 @@ A permanent immune-mediated enteropathy triggered by gluten (proteins in wheat, 
 
 ### Establishing the Diagnosis
 
-**Who to test — case finding, not mass screening** (both strong recommendations, ACG 2022). Four key concepts:
+**Who to test — case finding, not mass screening** (both strong recommendations, American College of Gastroenterology [ACG] 2022). Four key concepts:
 
 1. Test anyone with symptoms/signs/labs suggesting **malabsorption** (chronic diarrhea with weight loss, steatorrhea, abdominal pain, [[abdominal-bloating-and-distention|bloating]]).
-2. **Consider** testing when CD would be a *treatable* cause of the finding.
+2. **Consider** testing when celiac disease (CD) would be a *treatable* cause of the finding.
 3. **Test** a patient with a first-degree family member with confirmed CD — symptomatic or not.
 4. **Consider** testing asymptomatic first-degree relatives. Screening advice extends to **second-degree relatives** as well.
 
-| CD occurs more frequently than in the general population (GFD likely beneficial) | CD is a less common but reversible, treatable cause |
+| CD occurs more frequently than in the general population (gluten-free diet [GFD] likely beneficial) | CD is a less common but reversible, treatable cause |
 |---|---|
 | Diarrhea with weight loss | Male or female infertility |
 | Chronic diarrhea ± abdominal pain | [[dyspepsia\|Dyspepsia]] |
@@ -57,34 +57,34 @@ A permanent immune-mediated enteropathy triggered by gluten (proteins in wheat, 
 | Peripheral neuropathy | "Brain fog" |
 | Oral aphthous ulcers | Recurrent headache or migraine |
 | Growth failure | Thyroid disease |
-| Discolored teeth / developmentally synchronous enamel loss | [[irritable-bowel-syndrome\|Irritable bowel syndrome]] |
+| Discolored teeth / developmentally synchronous enamel loss | [[irritable-bowel-syndrome\|Irritable bowel syndrome (IBS)]] |
 | | Down and Turner syndromes |
 | | Unexplained recurrent [[acute-pancreatitis\|pancreatitis]] |
 
 *Table — conditions prompting CD testing, recreated from Table 4. ([[acg-2022-celiac]])*
 
-**Aim for a pretest probability of 5–10%** ([[aga-2019-celiac-monitoring|AGA 2019]]). Population prevalence is ~1%; serology and histology only gain positive predictive value once selection raises the tested population to 5–10%. Malabsorptive symptoms (including failure-to-thrive) raise the accuracy of antibody testing from **98% to 100%**.
+**Aim for a pretest probability of 5–10%** ([[aga-2019-celiac-monitoring|American Gastroenterological Association (AGA) 2019]]). Population prevalence is ~1%; serology and histology only gain positive predictive value once selection raises the tested population to 5–10%. Malabsorptive symptoms (including failure-to-thrive) raise the accuracy of antibody testing from **98% to 100%**.
 
 Quantified risks in at-risk groups:
 
 - **Family members** — up to **20% in siblings** and **10% in other first-degree relatives** in community-based studies; a large US multicenter study found rates as low as **5%** in both first- and second-degree relatives.
-- **Type 1 diabetes mellitus** — CD prevalence **3–10%**. Test if any suggestive symptoms/signs; in children, **yearly or every-other-year serologic screening** has been suggested. Patients with T1DM undergoing [[upper-endoscopy|upper endoscopy]] should have duodenal biopsies if CD testing has not already been done.
+- **Type 1 diabetes mellitus (T1DM)** — CD prevalence **3–10%**. Test if any suggestive symptoms/signs; in children, **yearly or every-other-year serologic screening** has been suggested. Patients with T1DM undergoing [[upper-endoscopy|upper endoscopy]] should have duodenal biopsies if CD testing has not already been done.
 - **Dyspepsia** — biopsy-proven CD prevalence is **1%**, the same as the general population, so systematic screening of dyspeptic patients is **not** recommended.
 
 **Serology (must be on a gluten-containing diet):**
 
 | Test | Use |
 |------|-----|
-| TTG-IgA + total IgA | First-line in all patients; check total IgA to rule out IgA deficiency |
-| DGP-IgG or TTG-IgG | Use when IgA-deficient (selective IgA deficiency voids IgA-based tests) |
-| EMA-IgA | High specificity; used as confirmatory test in pediatric nonbiopsy algorithm |
+| Tissue transglutaminase (TTG)-IgA + total immunoglobulin A (IgA) | First-line in all patients; check total IgA to rule out IgA deficiency |
+| Deamidated gliadin peptide (DGP)-immunoglobulin G (IgG) or TTG-IgG | Use when IgA-deficient (selective IgA deficiency voids IgA-based tests) |
+| Endomysial antibody (EMA)-IgA | High specificity; used as confirmatory test in pediatric nonbiopsy algorithm |
 | HLA-DQ2/DQ8 | Not required for routine diagnosis; use to rule out CD (negative = CD excluded), resolve serology-histology discordance, or guide gluten challenge in patients already on GFD |
 
 - TTG-IgA sensitivity 63–93%, specificity 96–100% across labs
 - Negative TTG-IgA has high negative predictive value when pretest probability is low-moderate
-- If pretest probability is high, proceed to EGD with biopsy regardless of serology (seronegative CD exists)
-- Testing must be performed on a gluten-containing diet; if already on GFD, HLA testing is the preferred initial step
-- **Do not reduce or avoid gluten before testing** — it lowers the sensitivity of both serology *and* biopsy ([[aga-2019-celiac-monitoring|AGA 2019]], BPA 7)
+- If pretest probability is high, proceed to esophagogastroduodenoscopy (EGD) with biopsy regardless of serology (seronegative CD exists)
+- Testing must be performed on a gluten-containing diet; if already on GFD, human leukocyte antigen (HLA) testing is the preferred initial step
+- **Do not reduce or avoid gluten before testing** — it lowers the sensitivity of both serology *and* biopsy ([[aga-2019-celiac-monitoring|AGA 2019]], best practice advice [BPA] 7)
 - **TTG-IgG is not specific in the absence of IgA deficiency** — use IgG isotypes only when total IgA is low (BPA 3–4)
 - **Diagnosed by biopsy first?** Obtain celiac serology as a confirmatory test **before starting the GFD** (BPA 5)
 - **Strong suspicion but negative biopsies?** Still send TTG-IgA; if positive, repeat biopsies either then or later (BPA 6)
@@ -101,9 +101,9 @@ Biopsy protocol (ACG 2022 — strong recommendation):
 - Interpret bulb biopsies cautiously — normal surface architecture overlying Brunner glands and acute peptic duodenitis both mimic injury.
 - See [[upper-endoscopy]] for biopsy technique
 
-**Nonbiopsy diagnosis in children (conditional recommendation, moderate evidence — ESPGHAN 2020 / ACG 2022):**
+**Nonbiopsy diagnosis in children (conditional recommendation, moderate evidence — European Society of Pediatric Gastroenterology, Hepatology, and Nutrition [ESPGHAN] 2020 / ACG 2022):**
 
-- **TTG-IgA >10× upper limit of normal** *and* **positive EMA in a second blood sample** — both required
+- **TTG-IgA >10× upper limit of normal (ULN)** *and* **positive EMA in a second blood sample** — both required
 - Family must agree with the no-biopsy strategy
 - HLA testing no longer required as a prerequisite (ESPGHAN dropped it in the 2020 update)
 - ESPGHAN 2020 additionally extends the biopsy-free approach to **asymptomatic** children, using the same two criteria (conditional)
@@ -113,7 +113,7 @@ Biopsy protocol (ACG 2022 — strong recommendation):
 
 - Reserved for **symptomatic** adults unwilling or unable to undergo upper endoscopy (e.g. endoscopy/biopsy poses cardiovascular or bleeding risk), or already on a GFD with a severe symptomatic response to gluten that makes a challenge inadvisable
 - Requires **TTG-IgA >10× ULN**; a confirmatory EMA in a second sample is also advisable in adults
-- [[aga-2019-celiac-monitoring|AGA 2019]] rates the PPV of TTG-IgA **>10× ULN *plus* a positive EMA on a second blood sample** as "virtually 100%", and holds that in adults meeting those criteria EGD with duodenal biopsies may still be done — but for **differential diagnosis**, not to confirm CD
+- [[aga-2019-celiac-monitoring|AGA 2019]] rates the positive predictive value (PPV) of TTG-IgA **>10× ULN *plus* a positive EMA on a second blood sample** as "virtually 100%", and holds that in adults meeting those criteria EGD with duodenal biopsies may still be done — but for **differential diagnosis**, not to confirm CD
 - **Why biopsy still wins:** a ≥10-fold TTG-IgA elevation *alone* has a positive predictive value of only **95%** in adults — given a lifelong GFD, that may be unacceptably low. This is an "after-the-fact" diagnosis of *likely* CD, not a definitive one.
 
 ### Severity Assessment (Marsh Classification)
@@ -122,7 +122,7 @@ CD histology is graded by **Marsh**, or by the more recent **simplified Corazza*
 
 | Grade | Histologic features (as stated by ACG 2022) | Clinical significance |
 |-------|--------------------|-----------------------|
-| Marsh I (lymphocytic duodenosis) | **≥25 intraepithelial lymphocytes (IELs) per 100 epithelial cells** in the **absence of villous atrophy** | Not specific for CD — also seen in [[helicobacter-pylori-infection\|H. pylori]], NSAIDs, [[small-intestinal-bacterial-overgrowth\|SIBO]], nonceliac wheat/gluten sensitivity, systemic autoimmune disorders; at a referral centre CD was diagnosed in only **9%** of lymphocytic-duodenosis cases. Work up for CD; GFD may be considered in **symptomatic** patients with elevated CD antibodies (**especially EMA**) |
+| Marsh I (lymphocytic duodenosis) | **≥25 intraepithelial lymphocytes (IELs) per 100 epithelial cells** in the **absence of villous atrophy** | Not specific for CD — also seen in [[helicobacter-pylori-infection\|H. pylori]], nonsteroidal anti-inflammatory drugs (NSAIDs), [[small-intestinal-bacterial-overgrowth\|small intestinal bacterial overgrowth (SIBO)]], nonceliac wheat/gluten sensitivity, systemic autoimmune disorders; at a referral centre CD was diagnosed in only **9%** of lymphocytic-duodenosis cases. Work up for CD; GFD may be considered in **symptomatic** patients with elevated CD antibodies (**especially EMA**) |
 | Marsh II | Lymphocytic duodenosis **+ crypt hyperplasia, without atrophy** | Same GFD consideration as Marsh I — symptomatic + elevated CD antibodies (especially EMA) |
 | Marsh III | Villous atrophy | Villous atrophy in the appropriate serologic context is what definitively confirms the diagnosis |
 
@@ -147,7 +147,7 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 **Refractory CD subtypes:**
 
 - **RCD Type 1:** Polyclonal T-cell infiltrate (normal IEL immunophenotype — CD3+/CD8+ cells); heterogeneous etiology including inadvertent gluten exposure; better prognosis
-- **RCD Type 2:** Clonal T-cell infiltrate (aberrant IELs: CD3+/CD8−, with clonal TCR gene rearrangement by PCR or flow cytometry); frequent precursor to enteropathy-associated T-cell lymphoma (EATL); poor prognosis
+- **RCD Type 2:** Clonal T-cell infiltrate (aberrant IELs: CD3+/CD8−, with clonal T-cell receptor (TCR) gene rearrangement by polymerase chain reaction (PCR) or flow cytometry); frequent precursor to enteropathy-associated T-cell lymphoma (EATL); poor prognosis
 
 ---
 
@@ -159,7 +159,7 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 
 - Autoimmune enteropathy
 - Tropical sprue
-- [[small-intestinal-bacterial-overgrowth|Small intestinal bacterial overgrowth (SIBO)]]
+- [[small-intestinal-bacterial-overgrowth|SIBO]]
 - Hypogammaglobulinemia / common variable immune deficiency (CVID)
 - Collagenous sprue
 - Eosinophilic enteritis
@@ -170,7 +170,7 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 **For CD-like symptoms without villous atrophy:**
 
 - [[disorders-of-gut-brain-interaction]] — IBS, functional [[dyspepsia]]
-- Food intolerances (lactose, fructose, FODMAPs)
+- Food intolerances (lactose, fructose, fermentable oligo-, di-, and monosaccharides and polyols [FODMAPs])
 - SIBO
 - Eosinophilic enteritis
 - [[crohns-disease|Crohn's disease]]
@@ -229,10 +229,10 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 
 ### Monitoring Labs at Diagnosis
 
-- CBC, ferritin, iron studies
+- Complete blood count (CBC), ferritin, iron studies
 - Vitamin A, D, E, B12; folic acid; copper; zinc
-- ALT/AST
-- Bone density (DXA) — especially for adults with longstanding or undiagnosed disease
+- Alanine aminotransferase (ALT)/aspartate aminotransferase (AST)
+- Bone density (dual-energy X-ray absorptiometry [DXA]) — especially for adults with longstanding or undiagnosed disease
 
 ---
 
@@ -294,7 +294,7 @@ Performance of persistently positive TTG-IgA/EMA for detecting **persistent vill
 - Consider repeat biopsy in asymptomatic adults after ~2 years of GFD to assess mucosal healing (conditional recommendation, shared decision-making required)
 - Follow-up biopsy in asymptomatic children not routinely recommended
 - Persistent villous atrophy (no mucosal healing) associated with:
-  - Lymphoproliferative malignancy risk (HR 2.81)
+  - Lymphoproliferative malignancy risk (hazard ratio [HR] 2.81)
   - Hip fracture risk (HR 1.67)
   - Progression to RCD
 
@@ -304,7 +304,7 @@ Performance of persistently positive TTG-IgA/EMA for detecting **persistent vill
 
 - Recommended for all patients with CD (conditional/low evidence)
 - Rationale: ~1/3 of CD patients have functional hyposplenism; ~2-fold increased pneumococcal infection risk
-- Follow CDC vaccination schedule:
+- Follow Centers for Disease Control and Prevention (CDC) vaccination schedule:
   - Adults with functional asplenia: PCV15 → PPSV23 at ≥1 year later, OR PCV20 alone
   - Complex scenarios: consult vaccination clinic or infectious disease specialist
 
@@ -326,7 +326,7 @@ Define: persistent symptoms/signs/labs after 6–12 months of GFD. Systematic st
    - Lactose intolerance, fructose intolerance, FODMAP sensitivity (breath testing) — the **low-FODMAP diet is not indicated in all** nonresponsive CD
    - [[exocrine-pancreatic-insufficiency|Exocrine pancreatic insufficiency]] — common here; treat with **gluten-free** pancreatic enzyme supplements
    - [[small-intestinal-bacterial-overgrowth|SIBO]] (breath testing)
-   - [[microscopic-colitis|Microscopic colitis]] and [[inflammatory-bowel-disease|IBD]] — **[[colonoscopy]] is indicated** for persistent or recurrent diarrhoea, as both are more common in CD and occur even with healed small-bowel mucosa
+   - [[microscopic-colitis|Microscopic colitis]] and [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] — **[[colonoscopy]] is indicated** for persistent or recurrent diarrhoea, as both are more common in CD and occur even with healed small-bowel mucosa
    - Functional GI disorder ([[disorders-of-gut-brain-interaction]])
 4. **Repeat EGD with duodenal biopsies** — to identify persistent villous atrophy. Persistent atrophy is **necessary but not sufficient** for RCD; it may equally reflect gluten ingestion or slowly responsive CD. Minimal/no histologic change → look elsewhere for the cause.
 
@@ -334,12 +334,12 @@ Define: persistent symptoms/signs/labs after 6–12 months of GFD. Systematic st
 
 | Cause | Distinguishing features |
 |---|---|
-| **Medication-induced** | **Olmesartan enteropathy** — can be severe, **responds rapidly to drug cessation**. Other ARBs reported. Mycophenolate, methotrexate, azathioprine |
+| **Medication-induced** | **Olmesartan enteropathy** — can be severe, **responds rapidly to drug cessation**. Other angiotensin receptor blockers (ARBs) reported. Mycophenolate, methotrexate, azathioprine |
 | **Common variable immunodeficiency** | Similar symptoms and pathology |
 | **Autoimmune enteropathy** | Sprue-like biopsy + other autoimmune disease + anti-enterocyte and/or anti-goblet cell antibodies; absence of Paneth or goblet cells, increased crypt apoptotic bodies. **May coexist with CD** |
 | **Tropical sprue** | Requires travel/residence in the tropics; folate and/or B12 deficiency characteristic; **partial, patchy** villous atrophy with **less** intraepithelial lymphocytosis; responds rapidly to folic acid + tetracycline |
 | **"Unclassified sprue" / idiopathic villous atrophy** | Sprue-like histology with no other aetiology found |
-| **On pathologist re-review** | EATL, low-grade CD4+ lymphoma, tuberculosis, *Mycobacterium avium* complex, [[giardiasis]], Whipple's disease. Exclude **HIV enteropathy** |
+| **On pathologist re-review** | EATL, low-grade CD4+ lymphoma, tuberculosis, *Mycobacterium avium* complex, [[giardiasis]], Whipple's disease. Exclude **human immunodeficiency virus (HIV) enteropathy** |
 
 ### Refractory CD (RCD)
 
@@ -349,7 +349,7 @@ Define: persistent symptoms/signs/labs after 6–12 months of GFD. Systematic st
 - Complications may present as GI bleeding, fever, night sweats, bowel obstruction
 - ⚠ **Elevated celiac antibodies do not establish RCD** — they indicate ongoing gluten ingestion
 
-**Biopsy protocol when RCD is suspected** (BPA 4): if suspicion is strong — weight loss, anaemia, GI bleeding, or persistent nutritional deficiencies — take **up to 6 additional distal duodenal biopsies** beyond the routine set, of which **2–3 must go into normal saline or RPMI medium** for flow cytometry (it requires **fresh, unfixed** tissue). IHC and TCR-rearrangement PCR work on formalin-fixed or fresh tissue. Biopsy any abnormal mucosa on target.
+**Biopsy protocol when RCD is suspected** (BPA 4): if suspicion is strong — weight loss, anaemia, GI bleeding, or persistent nutritional deficiencies — take **up to 6 additional distal duodenal biopsies** beyond the routine set, of which **2–3 must go into normal saline or RPMI medium** for flow cytometry (it requires **fresh, unfixed** tissue). Immunohistochemistry (IHC) and TCR-rearrangement PCR work on formalin-fixed or fresh tissue. Biopsy any abnormal mucosa on target.
 
 #### RCD1 vs RCD2 — the IEL immunophenotype
 
@@ -373,7 +373,7 @@ Subtyping is by intraepithelial lymphocyte (IEL) phenotype, **not** by symptoms.
 
 #### Staging imaging (BPA 5)
 
-- **RCD2 at diagnosis** → **[[capsule-endoscopy|capsule endoscopy]] *and* CT or MR enterography**, to exclude EATL and ulcerative jejunoileitis
+- **RCD2 at diagnosis** → **[[capsule-endoscopy|capsule endoscopy]] *and* computed tomography (CT) or magnetic resonance (MR) enterography**, to exclude EATL and ulcerative jejunoileitis
 - **RCD1** → lymphoma risk is *extremely low*; image **only if not doing well** on therapy
 - Capsule endoscopy also quantifies extent/severity of villous atrophy — **greater in RCD2 than RCD1**
 - CT/MR enterography may show bowel wall thickening, mesenteric adenopathy, small bowel masses, ulcerative jejunoileitis
@@ -382,7 +382,7 @@ Subtyping is by intraepithelial lymphocyte (IEL) phenotype, **not** by symptoms.
 
 #### Nutritional assessment (BPA 6–7)
 
-Assess malnutrition by nonvolitional weight loss, low BMI, loss of muscle mass/strength, ascites/oedema, physical signs of micronutrient deficiency. Test objectively:
+Assess malnutrition by nonvolitional weight loss, low body mass index (BMI), loss of muscle mass/strength, ascites/oedema, physical signs of micronutrient deficiency. Test objectively:
 
 - **Always:** vitamins **A, D, E**, **prothrombin time** (for vitamin K), **folate, B12, iron, copper, zinc**
 - **Consider** — particularly with chronic or severe diarrhoea: **thiamine, magnesium, selenium, vitamin B6**
@@ -391,11 +391,11 @@ Assess malnutrition by nonvolitional weight loss, low BMI, loss of muscle mass/s
 
 #### Treatment
 
-**First-line for both RCD1 and RCD2 is corticosteroids** (BPA 8) — open-capsule budesonide preferred, prednisone if unavailable. **80–90% of RCD patients respond** to one of these, with higher response in RCD1. IV methylprednisolone is an alternative for severe disease, followed by oral prednisone or open-capsule budesonide.
+**First-line for both RCD1 and RCD2 is corticosteroids** (BPA 8) — open-capsule budesonide preferred, prednisone if unavailable. **80–90% of RCD patients respond** to one of these, with higher response in RCD1. Intravenous (IV) methylprednisolone is an alternative for severe disease, followed by oral prednisone or open-capsule budesonide.
 
 | Therapy | Dose | Response | Notes |
 |---|---|---|---|
-| **Open-capsule budesonide** | **3 mg TID** | 92% clinical, 89% histologic | First-line, both subtypes |
+| **Open-capsule budesonide** | **3 mg three times daily** | 92% clinical, 89% histologic | First-line, both subtypes |
 | **Prednisone** | **40–60 mg daily**, slow taper over several months | 90% clinical (RCD1); 77% (RCD2) | If budesonide unavailable |
 | Small-intestinal-release [[mesalamine-5-asa\|mesalamine]] | **2–4 g/d** | 75% alone; 33% complete response combined with budesonide | — |
 | [[thiopurines\|Azathioprine]] | **2–2.5 mg/kg/d** | 71% clinical | Immunosuppressant of choice for long-term **RCD1**; villous atrophy reported |
@@ -405,7 +405,7 @@ Assess malnutrition by nonvolitional weight loss, low BMI, loss of muscle mass/s
 | **Cladribine** | **0.1 mg/kg/day IV for 5 days**; 1–3 courses every 6 mo | 35% clinical / 59% histologic; 81% / 47% in a second series | **RCD2 only** |
 | [[anti-tnf-agents\|Infliximab]] | **5 mg/kg IV** | Case report only | **RCD2 only** |
 | Autologous stem cell transplant | — | 85% clinical response; **66% 4-year survival** | **RCD2 only**; role not defined |
-| Anti-IL-15 mAb (AMG 714) | 8 mg/kg IV day 0, day 7, then q2wk through wk 10 | Symptoms improved but **failed** its primary endpoint (no reduction in aberrant IELs) | **RCD2 only** |
+| Anti-IL-15 monoclonal antibody (mAb; AMG 714) | 8 mg/kg IV day 0, day 7, then q2wk through wk 10 | Symptoms improved but **failed** its primary endpoint (no reduction in aberrant IELs) | **RCD2 only** |
 
 **Open-capsule budesonide — how it is given:** the **first capsule is opened into applesauce, the second opened and swallowed with water, and the third swallowed intact.**
 
@@ -427,7 +427,7 @@ Assess malnutrition by nonvolitional weight loss, low BMI, loss of muscle mass/s
 
 | Complication | Notes |
 |--------------|-------|
-| Enteropathy-associated T-cell lymphoma (EATL) | Rare; associated with RCD Type 2; poor prognosis |
+| EATL | Rare; associated with RCD Type 2; poor prognosis |
 | Ulcerative jejunitis | Rare; may coexist with or precede EATL; presents with abdominal pain, obstruction, bleeding |
 | Osteoporosis / fracture | Correctable with GFD + calcium/vitamin D; DXA recommended |
 | Iron deficiency anemia | Usually resolves on GFD |

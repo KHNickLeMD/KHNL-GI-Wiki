@@ -35,12 +35,12 @@ Pancreatic ductal adenocarcinoma (PDAC) is the dominant malignancy of the exocri
 - **Presentation (symptomatic disease — late):** painless [[jaundice|jaundice]] (head lesions obstructing the bile duct), weight loss, epigastric/back pain, new-onset diabetes, anorexia.
   - Head lesions → cholestatic biochemistry (↑ bilirubin, ↑ alkaline phosphatase). **Body/tail lesions typically have normal liver biochemistry** because there is no biliary obstruction — so they present at a more advanced stage and are less often resectable ([[asge-2016-solid-pancreatic-neoplasia]]).
 - **Screen-detected disease** (high-risk individuals) is instead found as small solid lesions, high-grade dysplasia, or grade III pancreatic intraepithelial neoplasia ([[asge-2022-pancreatic-cancer-screening]]).
-- **Sequence:** cross-sectional imaging (pancreas-protocol CT or MRI/[[mri-mrcp|MRCP]]) first — it detects, localizes, and determines resectability — then endoscopy for tissue when the patient is not going directly to surgery.
+- **Sequence:** cross-sectional imaging (pancreas-protocol computed tomography [CT] or magnetic resonance imaging [MRI]/[[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]]) first — it detects, localizes, and determines resectability — then endoscopy for tissue when the patient is not going directly to surgery.
 - **Tissue is not always required:** if CT findings strongly suggest a resectable carcinoma and the patient is an operative candidate, direct referral for resection (e.g. pancreaticoduodenectomy) is reasonable.
 
 ### Staging and Resectability
 
-TNM staging of pancreatic adenocarcinoma (AJCC 7th ed., as reproduced in [[asge-2016-solid-pancreatic-neoplasia|ASGE 2016]]):
+TNM staging of pancreatic adenocarcinoma (American Joint Committee on Cancer [AJCC] 7th ed., as reproduced in [[asge-2016-solid-pancreatic-neoplasia|American Society for Gastrointestinal Endoscopy (ASGE) 2016]]):
 
 | | Criterion |
 |---|---|
@@ -65,14 +65,14 @@ TNM staging of pancreatic adenocarcinoma (AJCC 7th ed., as reproduced in [[asge-
 | IV | Any T | Any N | M1 |
 
 - **The single arterial criterion that defines an unresectable primary in this system is celiac-axis or SMA involvement (T4).**
-- **Borderline-resectable disease is not defined by this system.** ASGE 2016 stages resectability on CT by tumor extension, liver metastases, and **invasion of vascular structures**, but gives no degree-of-contact thresholds — so the split between *resectable*, *borderline-resectable*, and *locally advanced* cannot be made from this page. Use the NCCN Pancreatic Adenocarcinoma guideline for those definitions.
+- **Borderline-resectable disease is not defined by this system.** ASGE 2016 stages resectability on CT by tumor extension, liver metastases, and **invasion of vascular structures**, but gives no degree-of-contact thresholds — so the split between *resectable*, *borderline-resectable*, and *locally advanced* cannot be made from this page. Use the National Comprehensive Cancer Network (NCCN) Pancreatic Adenocarcinoma guideline for those definitions.
 - **Version caveat:** the table above is AJCC **7th** edition. Whether and how the 8th edition changed pancreatic T definitions is not covered here.
 
 ### Risk Stratification / Genetic Susceptibility
 
 Germline pathogenic variants account for a meaningful share of PDAC — [[brca-pathogenic-variants|BRCA1/2]] variants are present in up to 7% of all pancreatic cancer patients. Conditions conferring increased risk:
 
-- **[[brca-pathogenic-variants|BRCA2]]** — pooled RR ~5.1; lifetime risk to age 80 ~5.2%–7.4%.
+- **[[brca-pathogenic-variants|BRCA2]]** — pooled relative risk (RR) ~5.1; lifetime risk to age 80 ~5.2%–7.4%.
 - **[[brca-pathogenic-variants|BRCA1]]** — pooled RR ~1.9; lifetime risk ~3.5%–3.8% (lower than BRCA2; may not clearly cross the 5% high-risk threshold).
 - **PALB2** pathogenic variant.
 - **[[familial-pancreatic-cancer|Familial pancreatic cancer (FPC)]]** — kindreds with ≥2 first-degree relatives with pancreatic cancer and no known hereditary cancer syndrome; thought to be autosomal-dominant inheritance of a rare allele.
@@ -88,7 +88,7 @@ Per [[asge-2022-pancreatic-cancer-screening|ASGE 2022]], BRCA1/2 carriers should
 
 ### High-Risk Surveillance
 
-Full ASGE 2022 framework — modality choice, imaging technique standards, and what to do with findings — lives on [[pancreatic-cancer-screening|high-risk pancreatic cancer surveillance]]. In brief: screening is suggested for individuals at increased genetic risk; modality is [[endoscopic-ultrasound|EUS]], MRI/[[mri-mrcp|MRCP]], or EUS alternating with MRI; interval is **annual**.
+Full ASGE 2022 framework — modality choice, imaging technique standards, and what to do with findings — lives on [[pancreatic-cancer-screening|high-risk pancreatic cancer surveillance]]. In brief: screening is suggested for individuals at increased genetic risk; modality is [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]], MRI/[[mri-mrcp|MRCP]], or EUS alternating with MRI; interval is **annual**.
 
 Starting age varies by condition (per-condition table with relative risks on [[pancreatic-cancer-screening]]): BRCA1/2, PALB2, FPC, ATM, and Lynch → **50**; FAMMM → **40**; Peutz-Jeghers → **35**; hereditary pancreatitis → **40**.
 
@@ -102,7 +102,7 @@ Starting age varies by condition (per-condition table with relative risks on [[p
 
 - Other solid pancreatic masses: [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], metastasis, lymphoma, solid pseudopapillary neoplasm.
 - Mass-forming or autoimmune (IgG4-related) [[chronic-pancreatitis|chronic pancreatitis]] — a correct pathologic diagnosis of lymphoma or [[autoimmune-pancreatitis|autoimmune pancreatitis]] mimicking PDAC may preclude surgery.
-- Cystic neoplasms with a solid component — see [[pancreatic-cysts|pancreatic cysts]] (IPMN, mucinous cystic neoplasm).
+- Cystic neoplasms with a solid component — see [[pancreatic-cysts|pancreatic cysts]] (intraductal papillary mucinous neoplasm [IPMN], mucinous cystic neoplasm).
 - [[cholangiocarcinoma|Distal cholangiocarcinoma]] and ampullary carcinoma (overlapping obstructive presentation).
 
 ## Diagnostics
@@ -111,15 +111,15 @@ Starting age varies by condition (per-condition table with relative risks on [[p
 
 ```mermaid
 flowchart TD
-    A["Clinical suspicion of pancreatic adenocarcinoma<br/>or transabdominal US suggestive"] --> B["CT scan or MRI"]
-    B -->|"Suspect resectable"| C["EUS ± FNA/FNB"]
+    A["Clinical suspicion of pancreatic adenocarcinoma<br/>or transabdominal ultrasound suggestive"] --> B["CT scan or MRI"]
+    B -->|"Suspect resectable"| C["EUS ± fine-needle aspiration/biopsy<br/>(FNA/FNB)"]
     B -->|"Suspect unresectable"| D["Obtain tissue diagnosis by<br/>most appropriate means"]
     C --> E["Confirm resectable PDAC"]
     C --> F["Non-diagnostic specimen"]
     C --> G["Alternative diagnosis"]
     D --> H["Confirm unresectable PDAC"]
     E --> I["Surgery ± neoadjuvant therapy"]
-    F --> J["Consider repeat EUS, CT-guided FNA,<br/>ERCP with brushings and biopsy, or surgery"]
+    F --> J["Consider repeat EUS, CT-guided FNA,<br/>endoscopic retrograde cholangiopancreatography (ERCP)<br/>with brushings and biopsy, or surgery"]
     H --> K["Palliation"]
 ```
 
@@ -156,7 +156,7 @@ flowchart TD
 ### Surgery and Systemic Therapy
 
 - **Surgical resection** (Whipple/pancreaticoduodenectomy, distal pancreatectomy) is the only curative option, reserved for resectable/borderline-resectable disease — making early/screen-detected diagnosis the principal lever on survival (60% of screen-detected cancers were resectable/borderline-resectable vs ~20% of symptom-detected).
-- **Chemotherapy** — FOLFIRINOX and gemcitabine-based regimens (neoadjuvant, adjuvant, palliative). Homologous-recombination-deficient (BRCA1/2, PALB2) tumors are sensitive to platinum-based regimens and PARP inhibitors (e.g. maintenance **olaparib** in germline BRCA-mutated metastatic disease). *Doses and cycle intervals are not covered here.*
+- **Chemotherapy** — fluorouracil/leucovorin/irinotecan/oxaliplatin (FOLFIRINOX) and gemcitabine-based regimens (neoadjuvant, adjuvant, palliative). Homologous-recombination-deficient (BRCA1/2, PALB2) tumors are sensitive to platinum-based regimens and PARP inhibitors (e.g. maintenance **olaparib** in germline BRCA-mutated metastatic disease). *Doses and cycle intervals are not covered here.*
 
 ### Endoscopic Palliation
 
@@ -164,7 +164,7 @@ flowchart TD
 
 | Situation | Stent |
 |---|---|
-| Distal malignant biliary obstruction, [[ercp\|ERCP]] planned | **SEMS over plastic** (conditional/low) |
+| Distal malignant biliary obstruction, [[ercp\|ERCP]] planned | **Self-expanding metal stents (SEMS) over plastic** (conditional/low) |
 | SEMS being placed | **Covered over uncovered** (conditional/low) |
 | Pancreatic mass with **unconfirmed** malignancy | **Against uncovered SEMS** (strong/low) |
 | Simultaneous EUS-TA + high suspicion of malignancy | Covered SEMS |
@@ -179,14 +179,14 @@ flowchart TD
 
 - **Expected survival <2 months** → **enteral (duodenal) stent** — faster relief (median 5 vs 8 days to soft solids), shorter stay, lower cost.
 - **Expected survival ≥2 months** with adequate performance status → **surgical gastrojejunostomy** — more durable, with fewer recurrent obstructions, reinterventions, and late major complications. Survival and quality of life are the same either way ([[jeurnink-2010-sustent-goo]]).
-- **Watch the biliary consequence:** a duodenal stent placed across the ampulla can foreclose later [[ercp|ERCP]] access to the bile duct — consider the CBD stent up front.
+- **Watch the biliary consequence:** a duodenal stent placed across the ampulla can foreclose later [[ercp|ERCP]] access to the bile duct — consider the common bile duct (CBD) stent up front.
 
-The full outcome table, its statistical caveats, the GOOSS score, and EUS-GE technique live on [[gastric-outlet-obstruction]].
+The full outcome table, its statistical caveats, the Gastric Outlet Obstruction Scoring System (GOOSS) score, and EUS-guided gastroenterostomy (EUS-GE) technique live on [[gastric-outlet-obstruction]].
 
 **Pain — celiac plexus neurolysis (CPN).** In unresectable pancreatic cancer with abdominal pain, ASGE 2024 suggests CPN as an **adjunct to** medical analgesic therapy (conditional/low):
 
 - **When:** pain refractory to medical therapy, or opioid adverse effects not well tolerated.
-- **How:** by EUS or percutaneously. If EUS — use a **≥22-gauge FNA needle** (not the same needle used for EUS-TA); central or bilateral injection of **10–20 mL of 99% alcohol**; give **1 L IV normal saline** periprocedurally; monitor **~2 hours** post-procedure with vital signs and orthostatic parameters.
+- **How:** by EUS or percutaneously. If EUS — use a **≥22-gauge FNA needle** (not the same needle used for EUS-TA); central or bilateral injection of **10–20 mL of 99% alcohol**; give **1 L intravenous (IV) normal saline** periprocedurally; monitor **~2 hours** post-procedure with vital signs and orthostatic parameters.
 
 **Other.** **EUS-guided fiducial placement** when image-guided radiotherapy is planned ([[asge-2016-solid-pancreatic-neoplasia]]).
 

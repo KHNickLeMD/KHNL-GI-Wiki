@@ -21,13 +21,13 @@ sources: [acg-2020-hepatic-mesenteric-circulation]
 
 - Aneurysm or pseudoaneurysm of the mesenteric (splanchnic) arterial circulation — celiac, superior mesenteric, and inferior mesenteric arteries and their branches; grouped with the miscellaneous vascular disorders of the hepatic and mesenteric circulation. [[acg-2020-hepatic-mesenteric-circulation]]
 - Found in **10% of autopsies**; usually present after the **sixth decade**; **multiple in ~1/3** of patients.
-- **Splenic artery aneurysms are the most common site — ~60%** of all mesenteric artery aneurysms; more common in **multiparous women**. **Hepatic artery** aneurysms are next most common (male preponderance, as for gastroduodenal). Celiac and SMA aneurysms affect both sexes equally.
+- **Splenic artery aneurysms are the most common site — ~60%** of all mesenteric artery aneurysms; more common in **multiparous women**. **Hepatic artery** aneurysms are next most common (male preponderance, as for gastroduodenal). Celiac and superior mesenteric artery (SMA) aneurysms affect both sexes equally.
 
 ### Establishing the Diagnosis
 
 - **Definitions:** a **true aneurysm** is permanent localized dilatation **>1.5× normal** vessel diameter involving all wall layers; a **pseudoaneurysm** is disruption of intima and media, lined by adventitia/perivascular tissue, and is **caused by trauma**. *Fusiform* = entire circumference; *saccular* = part of the wall.
-- Most are **asymptomatic and found incidentally** on imaging; too small to palpate, though a bruit may be heard. Typical symptoms when present: **abdominal pain, intra-abdominal and GI bleeding**.
-- **CTA** is the test that characterizes the aneurysm and informs management. [[acg-2020-hepatic-mesenteric-circulation]]
+- Most are **asymptomatic and found incidentally** on imaging; too small to palpate, though a bruit may be heard. Typical symptoms when present: **abdominal pain, intra-abdominal and gastrointestinal (GI) bleeding**.
+- **Computed tomography angiography (CTA)** is the test that characterizes the aneurysm and informs management. [[acg-2020-hepatic-mesenteric-circulation]]
 
 ### Severity Assessment
 

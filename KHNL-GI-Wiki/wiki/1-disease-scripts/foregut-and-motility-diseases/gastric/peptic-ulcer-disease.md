@@ -22,27 +22,27 @@ sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab, acg-2024-hp-treatment]
 ### Establishing the Diagnosis
 
 - A mucosal ulcer of the stomach (gastric ulcer, **GU**) or duodenum (duodenal ulcer, **DU**)
-- **Uncomplicated PUD** = absence of GI bleeding, obstruction, and perforation [[asge-2010-pud]]
-- Etiology: [[helicobacter-pylori-infection|H. pylori]] and NSAIDs/aspirin are the two treatable causes ASGE directs management at; also idiopathic (H. pylori-negative, NSAID-negative), gastrin-hypersecretory states (Zollinger-Ellison), and malignancy (GU) [[asge-2010-pud]]
+- **Uncomplicated peptic ulcer disease (PUD)** = absence of gastrointestinal (GI) bleeding, obstruction, and perforation [[asge-2010-pud]]
+- Etiology: [[helicobacter-pylori-infection|H. pylori]] and nonsteroidal anti-inflammatory drugs (NSAIDs)/aspirin are the two treatable causes the American Society for Gastrointestinal Endoscopy (ASGE) directs management at; also idiopathic (H. pylori-negative, NSAID-negative), gastrin-hypersecretory states (Zollinger-Ellison), and malignancy (GU) [[asge-2010-pud]]
 - **Giant ulcers change the risk profile — note the qualifier on the size threshold.** ASGE states that **giant *duodenal* ulcers (>2 cm)** have a higher incidence of complications — bleeding, penetration, and perforation. More broadly, patients with giant ulcers are older, may present atypically (anorexia, weight loss), and have **higher mortality (10% vs 3%)** and **greater need for urgent surgery (65% vs 12%)** than patients with smaller ulcers [[asge-2010-pud]]
 
 > The size/depth definition of an ulcer (mucosal break ≥5 mm extending into submucosa) and the proportion of PUD attributable to each etiology are not stated in the guidelines cited here.
 
 ### Severity Assessment
 
-- Bleeding ulcers are stratified endoscopically by their **bleeding stigmata** (active spurting, active oozing, nonbleeding visible vessel, adherent clot, flat spot, clean base), which drives the decision to apply [[endoscopic-hemostasis|endoscopic hemostasis]] — see [[upper-gi-bleeding]] for the stigma-by-stigma therapy recommendations and the ACG-sourced further-bleeding data
+- Bleeding ulcers are stratified endoscopically by their **bleeding stigmata** (active spurting, active oozing, nonbleeding visible vessel, adherent clot, flat spot, clean base), which drives the decision to apply [[endoscopic-hemostasis|endoscopic hemostasis]] — see [[upper-gi-bleeding]] for the stigma-by-stigma therapy recommendations and the American College of Gastroenterology (ACG)-sourced further-bleeding data
   - The **Forrest classification** labels (Ia/Ib/IIa/IIb/IIc/III) are the familiar shorthand for those same stigmata, but [[acg-2021-ugib|ACG 2021]] does **not** use or define Forrest and prints **no** class-specific rebleeding percentages; the class criteria and rebleed rates are in the Forrest 1974 paper.
 
 ## Differential Diagnosis
 
 *Workup: see [[dyspepsia]].*
 
-- [[gastric-adenocarcinoma|Gastric adenocarcinoma]] (esp non-healing GU), [[gastric-malt-lymphoma|gastric lymphoma (MALT/DLBCL)]], erosive gastritis, functional dyspepsia, [[gastroparesis]], biliary pain, [[atrophic-gastritis|atrophic gastritis]] / [[helicobacter-pylori-infection|H. pylori]] gastritis without ulcer
+- [[gastric-adenocarcinoma|Gastric adenocarcinoma]] (esp non-healing GU), [[gastric-malt-lymphoma|gastric lymphoma (mucosa-associated lymphoid tissue [MALT]/diffuse large B-cell lymphoma [DLBCL])]], erosive gastritis, functional dyspepsia, [[gastroparesis]], biliary pain, [[atrophic-gastritis|atrophic gastritis]] / [[helicobacter-pylori-infection|H. pylori]] gastritis without ulcer
 
 ## Diagnostics
 
 - **GU: biopsy most, but individualize** [[asge-2010-pud]] — malignant GU can look benign, so ASGE suggests **most** gastric ulcers undergo biopsy; in low-risk settings (e.g. a young NSAID user with multiple benign-appearing shallow flat antral ulcers) the malignancy risk is very low and the decision to biopsy is individualized. Where the ulcer looks suspicious (irregular base, heaped/uneven borders, abnormal adjacent folds), biopsy. **Brushings add little and are not an alternative or adjunct to biopsy**
-- **False-negative index biopsies occur in 2%–5%** — so an endoscopically suspicious GU warrants surveillance EGD and repeat biopsy **even when the index biopsy was benign**
+- **False-negative index biopsies occur in 2%–5%** — so an endoscopically suspicious GU warrants surveillance esophagogastroduodenoscopy (EGD) and repeat biopsy **even when the index biopsy was benign**
 - **Surveillance [[upper-endoscopy|EGD]] for GU** that remains symptomatic, lacks a defined etiology, or was not biopsied at the index EGD; **any ulcer unhealed after 8–12 weeks of medical therapy should be biopsied** [[asge-2010-pud]]
 - **DU:** routine biopsy *not* recommended (extremely unlikely to be malignant); no EGD needed for benign-appearing, uncomplicated DU seen on imaging [[asge-2010-pud]]
 - **Test for [[helicobacter-pylori-infection|H. pylori]] in all PUD** — endoscopic options are biopsy for histology, culture, or rapid urease test [[asge-2010-pud]]. **[[acg-2024-hp-treatment|ACG 2024]] Table 4 makes the indication "peptic ulcer disease: prior history *or* active disease"** — a healed or historical ulcer still warrants testing, and treatment is offered to anyone positive by a **non-serological** test. PUD is also the worked example of a **high pre-test probability** in which serology remains acceptable
@@ -50,16 +50,16 @@ sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab, acg-2024-hp-treatment]
 
 ## Therapeutics
 
-- **Ulcer healing:** [[proton-pump-inhibitors|PPI]] acid suppression; ASGE frames non-healing as ulcer persisting after **8–12 weeks** of antisecretory therapy [[asge-2010-pud]]
+- **Ulcer healing:** [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] acid suppression; ASGE frames non-healing as ulcer persisting after **8–12 weeks** of antisecretory therapy [[asge-2010-pud]]
 - H. pylori eradication if positive (see [[helicobacter-pylori-infection]] for regimens)
 - Discontinue NSAIDs; if continued NSAID needed, co-prescribe PPI; maintain antisecretory therapy when aspirin must be continued [[asge-2010-pud]]
-- **Acute bleeding — high-dose PPI after successful endoscopic hemostasis:** continuously **or intermittently for 3 days** (ACG 2021 Rec 13, **Strong**). *High dose* = **≥80 mg daily for at least 3 days**; the continuous regimen studied is an **80-mg bolus followed by 8 mg/hr infusion**, and the intermittent regimens in the RCTs supporting this statement were **40 mg orally b.i.d., 20 mg orally q6h, and an 80-mg bolus followed by 40 mg q12h IV** — meta-analysis found no difference in treatment effect between continuous and intermittent [[acg-2021-ugib]]
+- **Acute bleeding — high-dose PPI after successful endoscopic hemostasis:** continuously **or intermittently for 3 days** (ACG 2021 Rec 13, **Strong**). *High dose* = **≥80 mg daily for at least 3 days**; the continuous regimen studied is an **80-mg bolus followed by 8 mg/hr infusion**, and the intermittent regimens in the randomized controlled trials (RCTs) supporting this statement were **40 mg orally b.i.d., 20 mg orally q6h, and an 80-mg bolus followed by 40 mg q12h intravenous (IV)** — meta-analysis found no difference in treatment effect between continuous and intermittent [[acg-2021-ugib]]
 - **Then step down, don't stop:** high-risk patients who received endoscopic hemostasis followed by short-term in-hospital high-dose PPI should **continue twice-daily PPI until 2 weeks after the index endoscopy** (ACG 2021 Rec 14, Conditional/low) [[acg-2021-ugib]]
-- Acute bleeding: endoscopic hemostasis **directed by the bleeding stigma** (see [[upper-gi-bleeding]] — not by a Forrest label, which ACG 2021 does not define); perform EGD *early* in hospitalization; repeat endoscopic therapy for rebleeding before surgery/IR — rebleeding after initial endotherapy is managed with repeat endotherapy plus high-dose PPI [[asge-2010-pud]]
-- **[[gastric-outlet-obstruction|Gastric outlet obstruction]]:** EGD to confirm and exclude malignancy; endoscopic balloon dilation for *benign* GOO (67–83% short-term relief) but high restenosis (up to 84%), ~51% ultimately need surgery, perforation 4–7%; >2 dilations predicts endoscopic failure [[asge-2010-pud]]
+- Acute bleeding: endoscopic hemostasis **directed by the bleeding stigma** (see [[upper-gi-bleeding]] — not by a Forrest label, which ACG 2021 does not define); perform EGD *early* in hospitalization; repeat endoscopic therapy for rebleeding before surgery/interventional radiology (IR) — rebleeding after initial endotherapy is managed with repeat endotherapy plus high-dose PPI [[asge-2010-pud]]
+- **[[gastric-outlet-obstruction|Gastric outlet obstruction (GOO)]]:** EGD to confirm and exclude malignancy; endoscopic balloon dilation for *benign* GOO (67–83% short-term relief) but high restenosis (up to 84%), ~51% ultimately need surgery, perforation 4–7%; >2 dilations predicts endoscopic failure [[asge-2010-pud]]
 - **No endoscopy if acute perforation**; endoscopy has no therapeutic role in penetrating ulcers [[asge-2010-pud]]
 - Refractory: maximize PPI, switch to [[vonoprazan]], surgical consult, evaluate Zollinger-Ellison
-- **[[potassium-competitive-acid-blockers|P-CABs]] in PUD (AGA 2024 CPU, [[aga-2024-pcab]]):** generally **not first-line** for treatment or prophylaxis (BPA 8) — noninferior, not superior, to PPIs and higher cost; reserve for PPI failures (excluding non-acid ulcer causes) and secondary prophylaxis after PPI failure. Insufficient evidence for first-line use in bleeding ulcers with high-risk stigmata, though rapid potent acid inhibition may prove useful (BPA 9)
+- **[[potassium-competitive-acid-blockers|Potassium-competitive acid blockers (P-CABs)]] in PUD (American Gastroenterological Association [AGA] 2024 clinical practice update [CPU], [[aga-2024-pcab]]):** generally **not first-line** for treatment or prophylaxis (best practice advice [BPA] 8) — noninferior, not superior, to PPIs and higher cost; reserve for PPI failures (excluding non-acid ulcer causes) and secondary prophylaxis after PPI failure. Insufficient evidence for first-line use in bleeding ulcers with high-risk stigmata, though rapid potent acid inhibition may prove useful (BPA 9)
 
 ---
 

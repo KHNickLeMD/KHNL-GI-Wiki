@@ -7,7 +7,7 @@ updated: 2026-09-08
 sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd, aga-2024-fmt, aga-2026-cdiff-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia]
 ---
 
-Pouchitis is non-specific inflammation of the ileal pouch reservoir — the most common complication after restorative proctocolectomy with **ileal pouch–anal anastomosis (IPAA, "J-pouch")** for [[ulcerative-colitis|ulcerative colitis]]. The [[aga-2024-pouchitis|AGA 2024 guideline]] frames management by clinical pattern (intermittent → chronic antibiotic-dependent → chronic antibiotic-refractory) plus two related inflammatory pouch disorders: Crohn's-like disease of the pouch and cuffitis. [[aga-2024-pouchitis]]
+Pouchitis is non-specific inflammation of the ileal pouch reservoir — the most common complication after restorative proctocolectomy with **ileal pouch–anal anastomosis (IPAA, "J-pouch")** for [[ulcerative-colitis|ulcerative colitis]]. The [[aga-2024-pouchitis|American Gastroenterological Association (AGA) 2024 guideline]] frames management by clinical pattern (intermittent → chronic antibiotic-dependent → chronic antibiotic-refractory) plus two related inflammatory pouch disorders: Crohn's-like disease of the pouch and cuffitis. [[aga-2024-pouchitis]]
 
 ## Contents
 - [[#Assessment]]
@@ -31,7 +31,7 @@ Pouchitis is non-specific inflammation of the ileal pouch reservoir — the most
 ### Epidemiology / Scope
 - Pouchitis affects **~48%** of IPAA patients within the first 2 years; up to **~80%** develop ≥1 episode at some point. [[aga-2024-pouchitis]]
 - **~17%** develop chronic pouchitis (relapsing–remitting); **~10%** develop Crohn's-like disease of the pouch.
-- Contemporary colectomy risk in UC has fallen (5-yr 7.0%, 10-yr 9.6%), but pouchitis incidence may be rising.
+- Contemporary colectomy risk in ulcerative colitis (UC) has fallen (5-yr 7.0%, 10-yr 9.6%), but pouchitis incidence may be rising.
 - Most evidence is retrospective/observational → all therapeutic recommendations are **conditional, very low–low certainty**.
 
 ### Establishing the Diagnosis
@@ -39,7 +39,7 @@ Pouchitis is non-specific inflammation of the ileal pouch reservoir — the most
 - **Typical pouchitis symptoms:** increased stool frequency, urgency, lower abdominal pain/cramping, pelvic discomfort. May also see bleeding, fever, [[fecal-incontinence|incontinence]].
 - **Symptoms do not reliably correlate with endoscopy or histology** — confirm with pouchoscopy before committing to chronic/escalated therapy.
 - **Pouchoscopy with biopsies** recommended for frequent recurrent or antibiotic-refractory symptoms (assesses pouch body, cuff, pre-pouch ileum; excludes Crohn's-like disease, cuffitis, ischemia, infection).
-- Activity scored by **PDAI / modified PDAI (mPDAI)** (clinical + endoscopic + histologic).
+- Activity scored by **Pouchitis Disease Activity Index (PDAI) / modified PDAI (mPDAI)** (clinical + endoscopic + histologic).
 
 ### Subtype Classification
 Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
@@ -62,8 +62,8 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 - **Cuffitis** — residual UC in the rectal cuff; responds to UC-directed topical therapy.
 - **Structural/surgical:** anastomotic stricture, pouch outlet obstruction, afferent/efferent limb issues, pelvic sepsis/leak.
 - **[[disorders-of-gut-brain-interaction|Functional]]:** irritable pouch syndrome (symptoms without endoscopic inflammation).
-- **Other mucosal:** ischemia, infection (including *[[clostridioides-difficile|C. difficile]]*, CMV), NSAID injury.
-- Out of scope of the AGA 2024 guideline: pouches created for **Crohn's** or **[[familial-adenomatous-polyposis|FAP]]**, and pouch dysplasia surveillance.
+- **Other mucosal:** ischemia, infection (including *[[clostridioides-difficile|C. difficile]]*, cytomegalovirus (CMV)), nonsteroidal anti-inflammatory drug (NSAID) injury.
+- Out of scope of the AGA 2024 guideline: pouches created for **Crohn's** or **[[familial-adenomatous-polyposis|familial adenomatous polyposis (FAP)]]**, and pouch dysplasia surveillance.
 
 ---
 
@@ -73,12 +73,12 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
   - **Active (acute) pouchitis = PDAI >7 lasting <4 weeks** (threshold used to define acute pouchitis in the cited treatment cohorts).
   - **mPDAI remission = mPDAI score ≤4 *and* a ≥2-point reduction from baseline** — the EARNEST trial primary endpoint (week 14). *(The full PDAI subscore point-values are in Sandborn 1994 and are not reproduced in the AGA source.)*
   - Endoscopic/histologic outcomes were **not** prioritized as decision-critical in the guideline (clinical improvement is the key outcome).
-- Targeted workup when refractory: stool studies (incl. *C. difficile*), CMV on biopsy, cross-sectional/contrast imaging or EUA for suspected stricture/fistula.
-- ***C. difficile* in the pouch is not a rarity — test for it.** [[aga-2026-cdiff-ibd|AGA 2026]] advises actively considering and treating CDI in any patient with an **ileo-anal pouch or [[ostomy-management|end ileostomy]]** whose diarrhea/pouch output worsens; CDI has been detected in **10%–18%** of IPAA patients. Use a **multistep toxin-based assay** (NAAT alone over-diagnoses colonization), prefer **fidaxomicin**, and **retest if diarrhea recurs** after successful treatment. Full pathway: [[clostridioides-difficile]].
+- Targeted workup when refractory: stool studies (incl. *C. difficile*), CMV on biopsy, cross-sectional/contrast imaging or examination under anesthesia (EUA) for suspected stricture/fistula.
+- ***C. difficile* in the pouch is not a rarity — test for it.** [[aga-2026-cdiff-ibd|AGA 2026]] advises actively considering and treating Clostridioides difficile infection (CDI) in any patient with an **ileo-anal pouch or [[ostomy-management|end ileostomy]]** whose diarrhea/pouch output worsens; CDI has been detected in **10%–18%** of IPAA patients. Use a **multistep toxin-based assay** (nucleic acid amplification test (NAAT) alone over-diagnoses colonization), prefer **fidaxomicin**, and **retest if diarrhea recurs** after successful treatment. Full pathway: [[clostridioides-difficile]].
 - **Endoscopic + histologic assessment of the pouch and afferent limb is recommended in symptomatic patients** ([[asge-2015-ibd]]).
-- **Pouch neoplasia surveillance** (beyond AGA 2024 scope; [[asge-2015-ibd]]): highest-risk patients — **prior colorectal dysplasia or [[colorectal-cancer|cancer]]** — considered for **annual pouchoscopy** with biopsies taken **proximally (within the pouch) and distally (anal transition zone)**. [[primary-sclerosing-cholangitis|PSC]], refractory pouchitis, and type C (atrophic, severely inflamed) pouch mucosa may also warrant surveillance.
-  - **[[aga-2021-ibd-colorectal-dysplasia|AGA 2021]] states the same rule with its risk numbers:** survey **at least annually** in those at high risk — **prior colorectal cancer or dysplasia, or PSC** — and also in those with **persistent moderate-to-severe pouchitis and/or pre-pouch ileitis** (to assess treatment response). **Individualize the interval in lower-risk patients.** Meta-analysis: prior colorectal **dysplasia → 4.4×** and prior **CRC → 15.0×** increased risk of pouch cancer. ⚠ **Without risk factors the cumulative incidence of pouch and cuff cancer is 3.4% at 25 years — lower than lifetime CRC risk in the general population**; ASGE, BSG and ECCO recommend annual surveillance only for the high-risk groups and persistent pouchitis / type C mucosa, and **BSG suggests every 5 years for those without risk factors**.
-  - Broader IBD dysplasia surveillance intervals and technique: [[ulcerative-colitis]] and [[colonoscopy]].
+- **Pouch neoplasia surveillance** (beyond AGA 2024 scope; [[asge-2015-ibd]]): highest-risk patients — **prior colorectal dysplasia or [[colorectal-cancer|cancer]]** — considered for **annual pouchoscopy** with biopsies taken **proximally (within the pouch) and distally (anal transition zone)**. [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]], refractory pouchitis, and type C (atrophic, severely inflamed) pouch mucosa may also warrant surveillance.
+  - **[[aga-2021-ibd-colorectal-dysplasia|AGA 2021]] states the same rule with its risk numbers:** survey **at least annually** in those at high risk — **prior colorectal cancer or dysplasia, or PSC** — and also in those with **persistent moderate-to-severe pouchitis and/or pre-pouch ileitis** (to assess treatment response). **Individualize the interval in lower-risk patients.** Meta-analysis: prior colorectal **dysplasia → 4.4×** and prior **colorectal cancer (CRC) → 15.0×** increased risk of pouch cancer. ⚠ **Without risk factors the cumulative incidence of pouch and cuff cancer is 3.4% at 25 years — lower than lifetime CRC risk in the general population**; American Society for Gastrointestinal Endoscopy (ASGE), British Society of Gastroenterology (BSG) and European Crohn's and Colitis Organisation (ECCO) recommend annual surveillance only for the high-risk groups and persistent pouchitis / type C mucosa, and **BSG suggests every 5 years for those without risk factors**.
+  - Broader inflammatory bowel disease (IBD) dysplasia surveillance intervals and technique: [[ulcerative-colitis]] and [[colonoscopy]].
 
 ---
 
@@ -86,12 +86,12 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 
 > Treat by subtype. Antibiotics are first-line for active symptoms; escalate to advanced immunosuppressive therapy for antibiotic-dependent (alternative) or antibiotic-refractory disease.
 
-- **[[fmt|Fecal microbiota transplantation]] is *not* a pouchitis therapy** — [[aga-2024-fmt|AGA 2024]] suggests **against conventional FMT for pouchitis except within a clinical trial** *(Rec 6, conditional / very low)*. This is separate from treating recurrent or fulminant *[[clostridioides-difficile|C. difficile]]* infection **in** a pouch patient, where fecal microbiota–based therapy is still indicated under that guideline's Recs 1–3.
+- **[[fmt|Fecal microbiota transplantation]] is *not* a pouchitis therapy** — [[aga-2024-fmt|AGA 2024]] suggests **against conventional fecal microbiota transplantation (FMT) for pouchitis except within a clinical trial** *(Rec 6, conditional / very low)*. This is separate from treating recurrent or fulminant *[[clostridioides-difficile|C. difficile]]* infection **in** a pouch patient, where fecal microbiota–based therapy is still indicated under that guideline's Recs 1–3.
 
 ### Prevention
 - **Primary prevention — [[probiotics|probiotics]]:** *No recommendation* (knowledge gap).
 - **Primary prevention — antibiotics:** *Suggested against* (very low certainty).
-- **Secondary prevention (after antibiotic-responsive recurrence) — probiotics:** *Suggested.* The **De Simone (8-strain) formulation** is the one used in the prevention trials ([[aga-2020-probiotics]]) — 3 RCTs, meta-analysed: **87% lower risk of relapse over 12 months** (6/45 on probiotic vs 36/41 on control). Do not substitute an arbitrary probiotic.
+- **Secondary prevention (after antibiotic-responsive recurrence) — probiotics:** *Suggested.* The **De Simone (8-strain) formulation** is the one used in the prevention trials ([[aga-2020-probiotics]]) — 3 randomized controlled trials (RCTs), meta-analysed: **87% lower risk of relapse over 12 months** (6/45 on probiotic vs 36/41 on control). Do not substitute an arbitrary probiotic.
 
 ### Treatment by Subtype
 
@@ -104,7 +104,7 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 **Chronic antibiotic-dependent pouchitis → chronic antibiotics OR advanced therapy.**
 - **Confirm inflammation on pouchoscopy first** and rule out alternative etiologies before committing to chronic therapy.
 - **Chronic/continuous antibiotics** to maintain remission (suggested), at the **lowest effective dose**, to limit antimicrobial resistance:
-  - e.g. **ciprofloxacin 500 mg daily or 250 mg BID**
+  - e.g. **ciprofloxacin 500 mg daily or 250 mg twice daily (BID)**
   - **intermittent gap periods** — roughly **1 week off per month**
   - or **cyclical rotation** between ciprofloxacin, metronidazole and vancomycin **every 1–2 weeks**
   - watch long-term antibiotic risks (resistance, *C. diff*, neuropathy/tendinopathy).
@@ -115,14 +115,14 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
   - **EARNEST RCT (vedolizumab):** mPDAI remission at week 14 in **18/51 (vedolizumab) vs 5/51 (placebo)**; patients also received concomitant ciprofloxacin 500 mg BID through week 4. *(low certainty)*
   - Observational pooled response rates by class — **no significant difference between advanced therapies (P = .24)**, and the small-cohort estimates have uninformative confidence intervals, so do not read the point estimates as a ranking:
 
-| Class | Cohorts / n | Pooled response (95% CI) |
+| Class | Cohorts / n | Pooled response (95% confidence interval (CI)) |
 |---|---|---|
-| TNF-α antagonists | 14 cohorts, n = 245 | **54% (42–66)** |
+| Tumor necrosis factor-α (TNF-α) antagonists | 14 cohorts, n = 245 | **54% (42–66)** |
 | Vedolizumab | 9 cohorts, n = 194 | **52% (39–65)** |
 | Ustekinumab | 2 cohorts, n = 31 | 72% (**4–99**) |
 | [[jak-inhibitors\|Tofacitinib]] | 2 cohorts, n = 13 | 31% (**2–92**) |
 
-  - Class includes: [[anti-tnf-agents|TNF antagonists]] (infliximab, adalimumab, golimumab, certolizumab pegol), vedolizumab, [[il-23-and-il-12-23-inhibitors|ustekinumab, risankizumab]], ozanimod, tofacitinib, upadacitinib. **Vedolizumab is the only agent with regulatory approval for this indication (EMA).**
+  - Class includes: [[anti-tnf-agents|TNF antagonists]] (infliximab, adalimumab, golimumab, certolizumab pegol), vedolizumab, [[il-23-and-il-12-23-inhibitors|ustekinumab, risankizumab]], ozanimod, tofacitinib, upadacitinib. **Vedolizumab is the only agent with regulatory approval for this indication (European Medicines Agency (EMA)).**
   - Therapies used before colectomy may be reconsidered; a subset keeps deriving partial benefit from continued antibiotics alongside advanced therapy.
 - **Corticosteroids** also an option — oral **budesonide** or **beclomethasone**, pooled response ~**77%** (95% CI 58–88; 2 case series, n=30).
   - **Controlled ileal-release budesonide is the preferred formulation.**
@@ -134,9 +134,9 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 
 ### Endoscopic Therapy of Structural Pouch Complications
 
-*Beyond the AGA 2024 pouchitis guideline — [[aga-2026-therapeutic-endoscopy-ibd|AGA 2026 CPU on therapeutic endoscopy in IBD]].*
+*Beyond the AGA 2024 pouchitis guideline — [[aga-2026-therapeutic-endoscopy-ibd|AGA 2026 clinical practice update (CPU) on therapeutic endoscopy in IBD]].*
 
-- **Strictures** (pouch body, pre-pouch ileum, pouch-anal anastomosis, ostomy site): **endoscopic balloon dilation** is first-line and can be done safely at anastomotic and ostomy sites (including a continent/Kock pouch, where tissue ingrowth or stoma retraction causes the stricture). Selection criteria, target diameter, and the risk-factor count that pushes a patient to surgery are on [[crohns-disease|Crohn's disease]] — **avoid EBD with deep ulcers or an associated fistula.**
+- **Strictures** (pouch body, pre-pouch ileum, pouch-anal anastomosis, ostomy site): **endoscopic balloon dilation** is first-line and can be done safely at anastomotic and ostomy sites (including a continent/Kock pouch, where tissue ingrowth or stoma retraction causes the stricture). Selection criteria, target diameter, and the risk-factor count that pushes a patient to surgery are on [[crohns-disease|Crohn's disease]] — **avoid endoscopic balloon dilation (EBD) with deep ulcers or an associated fistula.**
 - **Anastomotic leaks (ALs)** — classified **acute (≤30 days)** vs **chronic**; in a pouch the classic site is the **tip of the J**.
   - Small ALs: conservative therapy or diverting ileostomy.
   - **Large (>3 cm) acute AL-associated abscess:** drain — externally by interventional radiology, or **internally** by endoscopic drainage endosponge or drainage stent; attempt closure with through-the-scope or over-the-scope clips **after** drainage.

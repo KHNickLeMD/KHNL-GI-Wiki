@@ -7,7 +7,7 @@ updated: 2026-09-06
 sources: [aga-2019-autoimmune-pancreatitis]
 ---
 
-A **chronic, steroid-responsive fibroinflammatory disease of the pancreas** whose whole clinical problem is that it **mimics [[pancreatic-cancer|pancreatic cancer]]** — it is found in **2%–3% of surgical resections done for presumed pancreatic cancer**. Incidence and prevalence are largely unknown; one Japanese study reported an incidence of **1 per 100,000**, with prevalence estimated at **5%–6% of all patients with [[chronic-pancreatitis|chronic pancreatitis]]**. Two distinct diseases sit under the name, and this page keeps the source's nomenclature: **AIP = type 1** (lymphoplasmacytic sclerosing pancreatitis, an IgG4-related disorder) and **IDCP = type 2** (idiopathic duct centric pancreatitis).
+A **chronic, steroid-responsive fibroinflammatory disease of the pancreas** whose whole clinical problem is that it **mimics [[pancreatic-cancer|pancreatic cancer]]** — it is found in **2%–3% of surgical resections done for presumed pancreatic cancer**. Incidence and prevalence are largely unknown; one Japanese study reported an incidence of **1 per 100,000**, with prevalence estimated at **5%–6% of all patients with [[chronic-pancreatitis|chronic pancreatitis]]**. Two distinct diseases sit under the name, and this page keeps the source's nomenclature: **autoimmune pancreatitis (AIP) = type 1** (lymphoplasmacytic sclerosing pancreatitis, an immunoglobulin G4 [IgG4]-related disorder) and **IDCP = type 2** (idiopathic duct centric pancreatitis).
 
 ## Contents
 - [[#Assessment]]
@@ -45,7 +45,7 @@ A **chronic, steroid-responsive fibroinflammatory disease of the pancreas** whos
 - Obstructive jaundice in AIP comes from either **distal biliary ductal compression by pancreatic head swelling** or a **proximal [[biliary-stricture\|biliary stricture]]**.
 - Diagnosis is **never a single test** — it is the combination of serology, imaging (parenchyma and ducts), other organ involvement, histology, and steroid response.
 
-**Criteria set — the ICDC.** Multiple criteria sets exist; the **International Consensus Diagnostic Criteria (ICDC) have the greatest sensitivity** among them. The ICDC uses **five cardinal features**:
+**Criteria set — the International Consensus Diagnostic Criteria (ICDC).** Multiple criteria sets exist; the **ICDC have the greatest sensitivity** among them. The ICDC uses **five cardinal features**:
 
 | # | ICDC cardinal feature |
 |---|---|
@@ -56,7 +56,7 @@ A **chronic, steroid-responsive fibroinflammatory disease of the pancreas** whos
 | 5 | **Response to steroid therapy** |
 
 - ICDC classifies the result as **type 1 AIP**, **type 2 AIP (IDCP)**, or **AIP not otherwise specified**.
-- The one component criterion this source prints: **serum IgG4 ≥2× the upper limit of normal (280 mg/dL) = ICDC level 1 evidence** for AIP (see [[#Serum IgG4]]).
+- The one component criterion this source prints: **serum IgG4 ≥2× the upper limit of normal [ULN] (280 mg/dL) = ICDC level 1 evidence** for AIP (see [[#Serum IgG4]]).
 - [[aga-2019-autoimmune-pancreatitis]] names the five cardinal features and grades only the IgG4 cutoff; it does not give the ICDC level 1 / level 2 definitions for imaging, OOI, histology, or steroid response, nor how the levels combine into *definite* vs *probable* type 1 or type 2. For the full ICDC see Shimosegawa T, Chari ST, Frulloni L, et al. *Pancreas* 2011;40:352–358.
 - "Response to steroid therapy" is cardinal feature 5, but the guideline does not specify the steroid-trial **dose, duration, or definition of a response** — the parameters that make a diagnostic steroid trial safe in a patient who might have cancer.
 
@@ -71,7 +71,7 @@ AIP belongs to the spectrum of **IgG4-related disorders**. **~50% have other org
 - Pulmonary interstitial fibrosis or nodules
 - Mediastinal or retroperitoneal fibrosis
 
-**IDCP has no IgG4-related disease association at all** — its systemic association is with **[[inflammatory-bowel-disease|IBD]]**, especially **[[ulcerative-colitis|ulcerative colitis]]**, which is *strongly* associated: a **majority of IDCP patients are diagnosed with IBD before or concurrently with IDCP**. Seen from the other direction the absolute risk is small — cumulative probability of an IDCP diagnosis after a UC diagnosis is **0.2% at 1 year, 0.6% at 5 years, 0.8% at 10 years**.
+**IDCP has no IgG4-related disease association at all** — its systemic association is with **[[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]**, especially **[[ulcerative-colitis|ulcerative colitis (UC)]]**, which is *strongly* associated: a **majority of IDCP patients are diagnosed with IBD before or concurrently with IDCP**. Seen from the other direction the absolute risk is small — cumulative probability of an IDCP diagnosis after a UC diagnosis is **0.2% at 1 year, 0.6% at 5 years, 0.8% at 10 years**.
 
 ### Severity Assessment
 
@@ -97,7 +97,7 @@ The type determines the serology, the histology you must ask the pathologist for
 | *Histology —* obliterative phlebitis | **Characteristic** | Rarely noted |
 | *Histology —* **granulocyte epithelial lesion** | **Absent** | **Characteristic** |
 | *Histology —* periductal inflammation | Present | Present |
-| *Histology —* IgG4 staining | **≥10 cells/high-power field** | **<10 cells/high-power field** |
+| *Histology —* IgG4 staining | **≥10 cells/high-power field (HPF)** | **<10 cells/high-power field** |
 | Response to steroids | **~100%** | **~100%** |
 | **Relapse risk** | **Up to 60%** | **<10%** |
 
@@ -140,11 +140,11 @@ The source's explicit safeguards, because AIP and IDCP are uncommon and their **
 | Utility **after** treatment | **None** — no value in following levels to predict relapse or diagnose recurrence |
 
 - The **53% sensitivity is the operative number**: a normal IgG4 does not exclude AIP, and roughly half of AIP patients will not reach level 1 on serology alone — which is why the ICDC needs four other cardinal features.
-- ⚠ The [[primary-sclerosing-cholangitis|PSC]] page carries IgG4 cutoffs in **g/L** from a different guideline for a different question (excluding IgG4-sclerosing cholangitis during a PSC workup). Different units, different question — **do not merge the two thresholds**.
+- ⚠ The [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]] page carries IgG4 cutoffs in **g/L** from a different guideline for a different question (excluding IgG4-sclerosing cholangitis during a PSC workup). Different units, different question — **do not merge the two thresholds**.
 
 ### Cross-Sectional Imaging
 
-Characteristic features on **CT or MRI**:
+Characteristic features on **computed tomography (CT) or magnetic resonance imaging (MRI)**:
 
 | Finding | Description | Frequency |
 |---|---|---|
@@ -157,7 +157,7 @@ Characteristic features on **CT or MRI**:
 
 ### Ductal Imaging
 
-- **[[mri-mrcp|MRCP]] or [[ercp|ERCP]]** may reveal **diffuse or multifocal narrowing of the pancreatic duct *without upstream dilatation*.**
+- **[[mri-mrcp|Magnetic resonance cholangiopancreatography (MRCP)]] or [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]** may reveal **diffuse or multifocal narrowing of the pancreatic duct *without upstream dilatation*.**
 - **The absent upstream dilatation is the discriminator** — it is what separates the inflammatory duct narrowing of AIP from an obstructing tumour.
 - ERCP here is diagnostic imaging, not therapy; see [[#Biliary Drainage and Surgery]] for why the therapeutic side is rarely indicated.
 
@@ -167,7 +167,7 @@ Characteristic features on **CT or MRI**:
 
 | Technique | Performance |
 |---|---|
-| **[[endoscopic-ultrasound\|EUS]]-guided fine-needle *aspiration* (cytology)** | **Poor sensitivity — even with larger-diameter needles.** Not adequate for this diagnosis |
+| **[[endoscopic-ultrasound\|Endoscopic ultrasound (EUS)]]-guided fine-needle *aspiration* (cytology)** | **Poor sensitivity — even with larger-diameter needles.** Not adequate for this diagnosis |
 | **EUS-guided fine-needle *biopsy* (core)** | **Preserves gland architecture — this is what is needed for tissue diagnosis.** Despite concern for post-procedure complications, smaller cohort studies demonstrated **safety and efficacy** in diagnosing AIP |
 
 - **Why cytology fails:** the diagnosis is architectural — storiform fibrosis, obliterative phlebitis, periductal inflammation, granulocyte epithelial lesions — and a cytologic aspirate does not preserve architecture.
@@ -198,7 +198,7 @@ Management of both AIP and IDCP is **primarily medical**, with **close follow-up
   - the **rituximab regimen**
   - the **maintenance duration**, and the relapse branch of the algorithm
 
-  For the regimen, consult Figure 1 of the AGA update or the underlying treatment consensus: Okazaki K, Chari ST, Frulloni L, et al. International consensus for the treatment of autoimmune pancreatitis. *Pancreatology* 2017;17:1–6.
+  For the regimen, consult Figure 1 of the American Gastroenterological Association (AGA) update or the underlying treatment consensus: Okazaki K, Chari ST, Frulloni L, et al. International consensus for the treatment of autoimmune pancreatitis. *Pancreatology* 2017;17:1–6.
 
 ### Biliary Drainage and Surgery
 

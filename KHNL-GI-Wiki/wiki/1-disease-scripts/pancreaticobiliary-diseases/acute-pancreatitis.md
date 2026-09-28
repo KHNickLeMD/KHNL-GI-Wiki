@@ -36,9 +36,9 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 **Diagnostic criteria — 2 of 3 required** [[acg-2024-acute-pancreatitis]]:
 
-1. Typical abdominal pain (epigastric, often radiating to the back; persistent, severe; worse with eating; N/V)
-2. Serum lipase or amylase **>3× upper limit of normal**
-3. Characteristic imaging findings (CT, MRI, or US)
+1. Typical abdominal pain (epigastric, often radiating to the back; persistent, severe; worse with eating; nausea/vomiting [N/V])
+2. Serum lipase or amylase **>3× upper limit of normal (ULN)**
+3. Characteristic imaging findings (computed tomography [CT], magnetic resonance imaging [MRI], or ultrasound [US])
 
 **Lipase preferred over amylase:** more sensitive, longer elevation window (days vs. 24h), higher specificity for pancreatitis; amylase elevated in many non-pancreatic conditions
 
@@ -53,15 +53,15 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 | Cause | Clue | Test |
 |---|---|---|
-| **Gallstones (40%–70%)** | Prior biliary symptoms | RUQ ultrasound in **all** patients with AP; **repeat US 1 week later if the initial study is inconclusive** (accuracy is higher on the repeat) — ACG 2024 Rec 1 (conditional, very low) |
+| **Gallstones (40%–70%)** | Prior biliary symptoms | Right upper quadrant (RUQ) ultrasound in **all** patients with acute pancreatitis (AP); **repeat US 1 week later if the initial study is inconclusive** (accuracy is higher on the repeat) — American College of Gastroenterology (ACG) 2024 Rec 1 (conditional, very low) |
 | **Alcohol (25%–35%)** | Do not attribute unless **>5 years** of moderate/heavy use; "heavy" generally **>50 g/day** (likely higher). Clinically evident AP in only **up to 5%** of heavy drinkers | History |
-| **Hypertriglyceridemia** | In the absence of gallstones and significant alcohol history, obtain a fasting TG — considered causal preferably if **>1,000 mg/dL** (Key concept 2) | Fasting lipid panel |
-| **Medications** | [[thiopurines\|Azathioprine]], DDI, valproate, furosemide, etc. | Medication review |
-| **Post-[[ercp\|ERCP]]** | Develops within hours of procedure | Clinical context |
-| **Hypercalcemia** | Hyperparathyroidism | Serum calcium, PTH |
+| **Hypertriglyceridemia** | In the absence of gallstones and significant alcohol history, obtain a fasting triglyceride (TG) — considered causal preferably if **>1,000 mg/dL** (Key concept 2) | Fasting lipid panel |
+| **Medications** | [[thiopurines\|Azathioprine]], didanosine (DDI), valproate, furosemide, etc. | Medication review |
+| **Post-[[ercp\|endoscopic retrograde cholangiopancreatography (ERCP)]]** | Develops within hours of procedure | Clinical context |
+| **Hypercalcemia** | Hyperparathyroidism | Serum calcium, parathyroid hormone (PTH) |
 | **[[hereditary-pancreatitis\|Genetic]]** | Young, recurrent, family history | PRSS1, SPINK1, CFTR mutation panel |
-| **[[autoimmune-pancreatitis\|Autoimmune (AIP type 1)]]** | IgG4-RD features; older male; bile duct involvement | IgG4 level; MRI pancreas |
-| **Idiopathic (IAP)** | No etiology after initial labs (incl. lipid and calcium) and imaging (transabdominal US, MRCP). **Age >40 with no etiology → consider a pancreatic tumor** (Key concept 3) | Refer for **repeat outpatient US + TG level** (the inpatient workup often misses gallstones/high TG). Then [[endoscopic-ultrasound\|EUS]] and/or [[mri-mrcp\|MRCP]] (ACG 2024 Rec 2, conditional/very low). **Routine ERCP should NOT be performed** — it raises PEP risk |
+| **[[autoimmune-pancreatitis\|Autoimmune pancreatitis (AIP) type 1]]** | Immunoglobulin G4-related disease (IgG4-RD) features; older male; bile duct involvement | IgG4 level; MRI pancreas |
+| **Idiopathic (IAP)** | No etiology after initial labs (incl. lipid and calcium) and imaging (transabdominal US, magnetic resonance cholangiopancreatography [MRCP]). **Age >40 with no etiology → consider a pancreatic tumor** (Key concept 3) | Refer for **repeat outpatient US + TG level** (the inpatient workup often misses gallstones/high TG). Then [[endoscopic-ultrasound\|endoscopic ultrasound (EUS)]] and/or [[mri-mrcp\|MRCP]] (ACG 2024 Rec 2, conditional/very low). **Routine ERCP should NOT be performed** — it raises post-ERCP pancreatitis (PEP) risk |
 
 **Recurrence:** a recurrent attack of AP occurs in **~20%–29%** of patients after an initial attack, even when an etiology has been established; more common in men, smokers, and alcohol-related disease.
 
@@ -79,7 +79,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 | Route | Criteria |
 |---|---|
-| Simple clinical terms | **Shock: systolic BP <90 mm Hg**; **pulmonary insufficiency: PaO₂ <60 mm Hg**; **renal failure: creatinine >2 mg/dL after rehydration**; and/or **GI bleeding >500 mL/24 h** |
+| Simple clinical terms | **Shock: systolic blood pressure (BP) <90 mm Hg**; **pulmonary insufficiency: arterial oxygen partial pressure (PaO₂) <60 mm Hg**; **renal failure: creatinine >2 mg/dL after rehydration**; and/or **gastrointestinal (GI) bleeding >500 mL/24 h** |
 | Modified Marshall score | **≥2 in any of the 3 accepted organ systems** (respiratory, renal, cardiovascular) |
 
 - ACG 2024 names the modified Marshall score but does not reproduce its per-domain point cut-points (they are in the Atlanta 2012 revision, Banks et al.); use the simple clinical criteria above.
@@ -90,12 +90,12 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 | Domain | Findings |
 |---|---|
-| Patient characteristics | Age **>55**; [[obesity\|obesity]] (**BMI >30 kg/m²**); altered mental status; comorbid disease |
-| **SIRS** (>2 of) | Pulse >90/min; respirations >20/min or PaCO₂ <32 mm Hg; temperature >38 °C or <36 °C; WBC >12,000 or <4,000 cells/mm³ or >10% bands |
-| Laboratory | **BUN >20** or *rising* BUN; **HCT >44** or *rising* HCT; elevated creatinine. (CRP **≥150 mg/dL** and creatinine **≥2 mg/dL** also reported as predictive) |
+| Patient characteristics | Age **>55**; [[obesity\|obesity]] (**body mass index (BMI) >30 kg/m²**); altered mental status; comorbid disease |
+| **Systemic inflammatory response syndrome (SIRS)** (>2 of) | Pulse >90/min; respirations >20/min or arterial carbon dioxide partial pressure (PaCO₂) <32 mm Hg; temperature >38 °C or <36 °C; white blood cell count (WBC) >12,000 or <4,000 cells/mm³ or >10% bands |
+| Laboratory | **Blood urea nitrogen (BUN) >20** or *rising* BUN; **hematocrit (HCT) >44** or *rising* HCT; elevated creatinine. (C-reactive protein [CRP] **≥150 mg/dL** and creatinine **≥2 mg/dL** also reported as predictive) |
 | Radiology | Pleural effusions; pulmonary infiltrates; multiple or extensive extrapancreatic collections |
 
-**How well prediction works — the caveat that governs use:** scoring systems and imaging alone are **not accurate** at determining who will develop moderately severe/severe AP (Key concept 7). At best **~50%** of cases predicted moderately severe/severe turn out to be so; prediction of **mild** AP is highly reliable (only ~3% progress), so the systems are chiefly useful to identify the mild patient for earlier discharge. Ranson, Imrie, and APACHE typically need 48 hours to become accurate, by which time the patient's condition is obvious regardless. **BISAP** (which includes BUN and SIRS) has been consistently shown to be superior, **but may be no more accurate than simply monitoring BUN and the development of SIRS**.
+**How well prediction works — the caveat that governs use:** scoring systems and imaging alone are **not accurate** at determining who will develop moderately severe/severe AP (Key concept 7). At best **~50%** of cases predicted moderately severe/severe turn out to be so; prediction of **mild** AP is highly reliable (only ~3% progress), so the systems are chiefly useful to identify the mild patient for earlier discharge. Ranson, Imrie, and APACHE typically need 48 hours to become accurate, by which time the patient's condition is obvious regardless. **Bedside Index for Severity Scoring System (BISAP)** (which includes BUN and SIRS) has been consistently shown to be superior, **but may be no more accurate than simply monitoring BUN and the development of SIRS**.
 
 - ACG 2024 names BISAP but does not enumerate its components or point values (Wu 2008); use the Table 4 risk factors and the SIRS/BUN pair above.
 - In patients with **mild** disease, remain vigilant for severe disease and organ failure during the **initial 48 hours** (Key concept 8). Patients with organ failure and/or SIRS should preferably be admitted to a **monitored bed** (Key concept 6).
@@ -106,13 +106,13 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 *Workup of recurrent or unexplained episodes: see [[recurrent-acute-pancreatitis]].*
 
-- **[[peptic-ulcer-disease|Peptic ulcer disease]] / perforation** — perforated DU; free air on upright CXR or CT; peritoneal signs
+- **[[peptic-ulcer-disease|Peptic ulcer disease]] / perforation** — perforated duodenal ulcer (DU); free air on upright chest X-ray (CXR) or CT; peritoneal signs
 - **[[acute-cholecystitis|Acute cholecystitis]]** — RUQ pain, Murphy's sign, fever; US shows gallbladder wall thickening; mildly elevated lipase possible
 - **[[acute-mesenteric-ischemia|Mesenteric ischemia]]** — "pain out of proportion to exam"; lactic acidosis; CT angiography
 - **Intestinal obstruction** — colicky pain; distension; air-fluid levels
 - **Aortic aneurysm / dissection** — tearing pain radiating to back; pulsatile mass; hemodynamic instability
-- **STEMI (inferior)** — can present with epigastric pain; ECG essential in atypical presentations
-- **Diabetic ketoacidosis** — lipase may be modestly elevated in DKA without pancreatitis; clinical context
+- **ST-elevation myocardial infarction (STEMI; inferior)** — can present with epigastric pain; electrocardiogram (ECG) essential in atypical presentations
+- **Diabetic ketoacidosis (DKA)** — lipase may be modestly elevated in DKA without pancreatitis; clinical context
 
 ---
 
@@ -123,9 +123,9 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 | Test | Purpose |
 |---|---|
 | Lipase | Diagnosis; **>3× ULN** confirmatory. Once AP is diagnosed there is **no reason to follow serial amylase/lipase** — no relationship to severity, prognosis, refeeding, or discharge. Amylase may be **normal on admission in up to 1/5** of patients and normalizes faster than lipase |
-| LFTs (ALT, AST, bilirubin, ALP) | Elevated **bilirubin** is the signal for a persistent CBD stone (drives the ERCP decision) |
-| BMP / creatinine | **Creatinine >2 mg/dL after rehydration = renal organ failure**; elevated creatinine is a severity risk factor |
-| CBC / hematocrit | **HCT >44 or rising** = severity risk factor; falling HCT is a resuscitation target |
+| Liver function tests (LFTs) (alanine aminotransferase [ALT], aspartate aminotransferase [AST], bilirubin, alkaline phosphatase [ALP]) | Elevated **bilirubin** is the signal for a persistent common bile duct (CBD) stone (drives the ERCP decision) |
+| Basic metabolic panel (BMP) / creatinine | **Creatinine >2 mg/dL after rehydration = renal organ failure**; elevated creatinine is a severity risk factor |
+| Complete blood count (CBC) / hematocrit | **HCT >44 or rising** = severity risk factor; falling HCT is a resuscitation target |
 | Triglycerides | Fasting TG; causal preferably **>1,000 mg/dL** |
 | BUN | **>20 or rising** = severity risk factor; primary resuscitation target |
 | Calcium | Hypercalcemia etiology (with PTH) |
@@ -140,7 +140,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 - **Repeat the ultrasound if the first study is inconclusive** — accuracy is higher on a study repeated ~1 week later.
 - Pancreas often not well visualized due to bowel gas.
 
-**CT with IV contrast (CECT):**
+**CT with intravenous (IV) contrast (CECT):**
 
 - **Severity is assigned by the Revised Atlanta Classification (organ failure)** — see [[#Severity Assessment]] above. ACG 2024 explicitly cautions that **scoring systems and imaging alone are not accurate** in predicting which patients will develop moderately severe/severe AP, and grades severity by persistent organ failure (Marshall score), *not* by a CT index [[acg-2024-acute-pancreatitis]].
 - **CT Severity Index (CTSI) = Balthazar grade + necrosis score** — a radiologic index correlating necrosis/peripancreatic collections with complications.
@@ -152,14 +152,14 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 - CT and MRI are **comparable in the early assessment of AP**.
 - MRI advantages: **contrast allergy and renal insufficiency** (necrosis can be diagnosed on non-gadolinium T2-weighted images), and more accurate detection of **CBD stones and pancreatic duct disruption**. Disadvantages: more expensive, time-consuming, difficult in claustrophobic patients.
 
-**EUS — preferred test for unexplained/idiopathic AP** ([[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022]], BPA 1):
+**EUS — preferred test for unexplained/idiopathic AP** ([[aga-2022-recurrent-pancreatitis-endoscopy|American Gastroenterological Association (AGA) 2022]], best practice advice [BPA] 1):
 
 - Etiology remains unexplained in **16–27%** of AP despite standard workup (history, meds, labs incl. TG/Ca, noninvasive imaging).
-- **EUS is the preferred diagnostic test after an unrevealing initial evaluation** — uncovers a potential etiology in **29–88%**; most common finding is **occult biliary lithiasis / microlithiasis**. Also detects [[ampullary-adenoma|ampullary lesions]], [[pancreatic-cysts|IPMN]], small tumors, [[chronic-pancreatitis|early CP]].
-- More likely than MRI to give a probable cause (**OR 3.79**, driven by sensitivity for occult biliary stones); [[mri-mrcp|MRI/MRCP]] is a complementary/alternative test and is better for ductal variants ([[pancreas-divisum|pancreas divisum]], anomalous PB union).
+- **EUS is the preferred diagnostic test after an unrevealing initial evaluation** — uncovers a potential etiology in **29–88%**; most common finding is **occult biliary lithiasis / microlithiasis**. Also detects [[ampullary-adenoma|ampullary lesions]], [[pancreatic-cysts|intraductal papillary mucinous neoplasm (IPMN)]], small tumors, [[chronic-pancreatitis|early chronic pancreatitis (CP)]].
+- More likely than MRI to give a probable cause (**odds ratio (OR) 3.79**, driven by sensitivity for occult biliary stones); [[mri-mrcp|MRI/MRCP]] is a complementary/alternative test and is better for ductal variants ([[pancreas-divisum|pancreas divisum]], anomalous pancreaticobiliary [PB] union).
 - **Timing:** short delay of **2–6 weeks after AP resolution** (persistent inflammation obscures subtle lesions).
 - ⚠ **Occult ampullary/pancreatobiliary malignancy** in up to **5%** after a single unexplained AP, up to **12%** with [[recurrent-acute-pancreatitis|recurrent AP]].
-- Equivalent to MRCP for initial CBD stone evaluation; invasive but therapeutic (concurrent [[ercp|ERCP]]). Full RAP workup: see [[recurrent-acute-pancreatitis]].
+- Equivalent to MRCP for initial CBD stone evaluation; invasive but therapeutic (concurrent [[ercp|ERCP]]). Full recurrent acute pancreatitis (RAP) workup: see [[recurrent-acute-pancreatitis]].
 
 ---
 
@@ -185,10 +185,10 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 - ACG 2024 reframes this as **"do not miss the goal" therapy** rather than goal-directed therapy: do not let BUN/HCT rise in the first 24–48 h, and do not let SIRS or renal insufficiency develop — once they do, the window has been missed and mild disease may progress.
 - **Caution with cardiovascular and/or renal comorbidity**; monitor for volume overload (Key concept 10). Over-resuscitation is harmful (abdominal compartment syndrome, pulmonary edema).
 
-**Evidence — WATERFALL RCT** [[demadaria-2022-waterfall]]:
+**Evidence — WATERFALL randomized controlled trial (RCT)** [[demadaria-2022-waterfall]]:
 
 - Aggressive (20 mL/kg bolus → 3 mL/kg/hr) vs moderate (≤10 mL/kg bolus → 1.5 mL/kg/hr) goal-directed LR
-- **No reduction** in progression to moderately severe/severe disease: 22.1% vs 17.3% (adj RR 1.30, 95% CI 0.78–2.18, P = 0.32)
+- **No reduction** in progression to moderately severe/severe disease: 22.1% vs 17.3% (adj relative risk [RR] 1.30, 95% confidence interval [CI] 0.78–2.18, P = 0.32)
 - **Fluid overload ~tripled** with aggressive: 20.5% vs 6.3% (adj RR 2.85, 95% CI 1.36–5.94, P = 0.004)
 - Trial halted early for safety — primary-evidence basis for favoring moderate, goal-directed resuscitation
 
@@ -213,14 +213,14 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 **Moderately severe / severe AP:**
 
-- **Enteral nutrition prevents infectious complications** (Key concept 18) — a meta-analysis of 8 RCTs (381 patients) found decreased infectious complications, organ failure, **and mortality** with enteral nutrition vs TPN in severe AP.
+- **Enteral nutrition prevents infectious complications** (Key concept 18) — a meta-analysis of 8 RCTs (381 patients) found decreased infectious complications, organ failure, **and mortality** with enteral nutrition vs total parenteral nutrition (TPN) in severe AP.
 - **Route: nasogastric is preferred over nasojejunal** — comparable safety and efficacy (Key concept 20). If given by tube, **continuous infusion is preferred** over cyclic or bolus; a small-peptide, medium-chain-TG formula may improve tolerance.
 - **[[nutrition-in-hospitalized-patients|Parenteral nutrition]] should be avoided** unless the enteral route is **not possible, not tolerated, or not meeting caloric needs** (Key concept 19) — TPN carries infectious and line-related complications.
 
 **The two timing numbers for the patient who cannot eat** ([[aga-2020-cpu-pancreatic-necrosis]]):
 
 - **Start nutritional support within the first 24–72 hours** when oral intake is not tolerated. (A trial of oral nutrition goes ahead **immediately** in anyone without nausea, vomiting, ileus, or luminal obstruction.)
-- **If nasoenteric feeding is not tolerated (e.g. nasal irritation) or enteral nutrition is anticipated to run >30 days → place an [[enteral-access|endoscopic feeding tube]].** PEG if nasogastric feeds are tolerated; **direct PEJ** if gastric feeds are not tolerated or aspiration risk is high.
+- **If nasoenteric feeding is not tolerated (e.g. nasal irritation) or enteral nutrition is anticipated to run >30 days → place an [[enteral-access|endoscopic feeding tube]].** Percutaneous endoscopic gastrostomy (PEG) if nasogastric feeds are tolerated; **direct percutaneous endoscopic jejunostomy (PEJ)** if gastric feeds are not tolerated or aspiration risk is high.
 
 ### 4. Antibiotics
 
@@ -229,7 +229,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 **Indicated for infected pancreatic necrosis:**
 
-- **Do NOT confirm with FNA.** *"We suggest **against FNA** in patients with suspected infected pancreatic necrosis"* (conditional recommendation, very low quality of evidence — ACG 2024 Rec 9). Diagnose infection clinically/radiologically and treat empirically.
+- **Do NOT confirm with fine-needle aspiration (FNA).** *"We suggest **against FNA** in patients with suspected infected pancreatic necrosis"* (conditional recommendation, very low quality of evidence — ACG 2024 Rec 9). Diagnose infection clinically/radiologically and treat empirically.
 - Clinical signs: fever, hemodynamic instability despite adequate support, rising WBC/CRP
 - CT finding: gas in necrotic collection (pathognomonic)
 - Use antibiotics **known to penetrate the necrosis — carbapenems, quinolones, cephalosporins, and metronidazole** — largely **to delay drainage beyond 4 weeks**; some patients avoid drainage altogether because the infection resolves on antibiotics (Key concept 16).
@@ -249,7 +249,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 - Risk of post-ERCP pancreatitis is **higher in the patient with a normal-caliber CBD and normal bilirubin (OR 3.4)** than in the jaundiced patient with a dilated CBD (OR 0.2) — which is exactly why MRCP/EUS is used first in that group.
 - **ERCP with sphincterotomy** does not benefit AP without concurrent biliary obstruction or cholangitis — multiple RCTs.
 
-**Idiopathic / recurrent AP and SOD** [[asge-2015-benign-pancreatic-disease]]:
+**Idiopathic / recurrent AP and sphincter of Oddi dysfunction (SOD)** [[asge-2015-benign-pancreatic-disease]]:
 
 - **Do NOT use diagnostic ERCP for a single episode of AP** (Moderate) — its diagnostic role does not justify the post-ERCP pancreatitis risk.
 - **[[endoscopic-ultrasound|EUS]] is the preferred next test for idiopathic AP in patients >40 y** when history, exam, labs, and CT/MRI are unrevealing (Low) — interrogates microlithiasis, periampullary lesions, and occult malignancy.
@@ -285,16 +285,16 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 - **Acute necrotic collection (ANC):** necrosis ± fluid; first 4 weeks
 - **Walled-off necrosis (WON):** encapsulated necrosis >4 weeks; treat if infected or symptomatic
 
-**Choosing the drainage route, the stent, and whether to necrosectomize** ([[aga-2020-cpu-pancreatic-necrosis]] — an AGA *expert review*; its Best Practice Advice statements carry **no GRADE strength or evidence quality**. Where it overlaps ACG 2024 above — prophylactic antibiotics, FNA, the 4-week delay, step-up sequencing — **ACG 2024 governs**; the points below are net-new):
+**Choosing the drainage route, the stent, and whether to necrosectomize** ([[aga-2020-cpu-pancreatic-necrosis]] — an AGA *expert review*; its Best Practice Advice statements carry **no Grading of Recommendations Assessment, Development and Evaluation (GRADE) strength or evidence quality**. Where it overlaps ACG 2024 above — prophylactic antibiotics, FNA, the 4-week delay, step-up sequencing — **ACG 2024 governs**; the points below are net-new):
 
 | Question | Answer (BPA) |
 |---|---|
 | **Percutaneous or transmural endoscopic drainage of WON?** | **Both are appropriate first-line, nonsurgical approaches.** Transmural endoscopic drainage **may be preferred — it avoids creating a pancreatocutaneous fistula** (BPA 7). One large prospective study: fistula **32% (percutaneous/VARD) vs 5% (endoscopic)**, P<.01 |
 | **When is percutaneous drainage the right first move?** | Infected or symptomatic necrotic collections in the **early, acute period (<2 weeks)**; **WON in a patient too ill** for endoscopic or surgical intervention. Also strongly consider it **as an adjunct** to endoscopic drainage when WON extends **deep into the paracolic gutters and pelvis** (dependent portions won't drain through a superiorly placed transmural stent), or as **salvage after endoscopic/surgical debridement leaves residual necrosis** (BPA 8) |
 | **What caliber percutaneous drain?** | Series used **8F–24F**. **Choose ≥24F if VARD is anticipated** — a 24F-or-larger drain reduces the dissection needed at VARD, because its tract becomes the entry portal for the debridement |
-| **Which transmural stent, and what size?** | **Lumen-apposing metal stents (LAMS) appear superior to plastic stents** (BPA 9). Sizing that drives the choice: **large-diameter SEMS = 15 mm** (better egress of necrotic material, and wide enough to pass the scope for necrosectomy); **LAMS length ~1 cm**, vs covered esophageal SEMS which are **no shorter than 6–7 cm**. Consider **double-pigtail plastic stents placed through the LAMS** to reduce early occlusion by necrotic tissue and LAMS migration. ⚠ **BPA 9 conflicts with the same document's body text**, which states a **randomised trial did not show LAMS superiority over plastic stents**; "superior" rests on a *non-randomised* comparison of egress. Treat BPA 9 as expert opinion, not settled evidence |
+| **Which transmural stent, and what size?** | **Lumen-apposing metal stents (LAMS) appear superior to plastic stents** (BPA 9). Sizing that drives the choice: **large-diameter self-expanding metal stents (SEMS) = 15 mm** (better egress of necrotic material, and wide enough to pass the scope for necrosectomy); **LAMS length ~1 cm**, vs covered esophageal SEMS which are **no shorter than 6–7 cm**. Consider **double-pigtail plastic stents placed through the LAMS** to reduce early occlusion by necrotic tissue and LAMS migration. ⚠ **BPA 9 conflicts with the same document's body text**, which states a **randomised trial did not show LAMS superiority over plastic stents**; "superior" rests on a *non-randomised* comparison of egress. Treat BPA 9 as expert opinion, not settled evidence |
 | **When is direct endoscopic necrosectomy (DEN) indicated rather than drainage alone?** | **Reserve DEN** for **limited necrosis that does not respond adequately** to transmural drainage with large-bore SEMS/LAMS alone, or plastic stents plus irrigation. DEN is also an option for **large amounts of infected necrosis** — but only **at referral centers** with the endoscopic expertise plus **interventional-radiology and surgical backup** (BPA 10). Risks: **air embolism, intracavitary bleeding, perforation** |
-| **Which minimally invasive operation?** | **Videoscopic-assisted retroperitoneal debridement (VARD), laparoscopic transgastric debridement, and open transgastric debridement** are all feasible and effective; choose by **pattern of disease, patient physiology, team experience/expertise, and available resources** (BPA 12). **The anatomy picks the operation:** VARD suits a **central distribution of necrosis extending down into the *left* paracolic gutter** (accessed via the left flank) and can be **ineffective at reaching necrosis right of the mesenteric vessels**; **transgastric** approaches suit **centrally located** necrosis, and **extension into *either* paracolic gutter can leave the debridement incomplete** |
+| **Which minimally invasive operation?** | **VARD, laparoscopic transgastric debridement, and open transgastric debridement** are all feasible and effective; choose by **pattern of disease, patient physiology, team experience/expertise, and available resources** (BPA 12). **The anatomy picks the operation:** VARD suits a **central distribution of necrosis extending down into the *left* paracolic gutter** (accessed via the left flank) and can be **ineffective at reaching necrosis right of the mesenteric vessels**; **transgastric** approaches suit **centrally located** necrosis, and **extension into *either* paracolic gutter can leave the debridement incomplete** |
 | **Is there still a role for open debridement?** | **Yes** — for cases **not amenable to less invasive endoscopic and/or surgical procedures** (BPA 13); best undertaken with a **large burden of necrosis distributed diffusely** through the abdomen |
 | **Disconnected left pancreatic remnant** after mid-body necrosis | **Distal pancreatectomy** in patients with **reasonable operative candidacy**. **Insufficient evidence** supports managing it with **long-term transenteric endoscopic stenting** (BPA 14) — EUS-guided transmural stenting is a **temporizing** measure. *Definitions, diagnostic modalities and stent strategy — including a newer (2025) consensus statement — live on [[disconnected-pancreatic-duct-syndrome\|disconnected pancreatic duct (DPD/DPDS)]]; consult it before acting on this 2020 BPA* |
 | **When do you resect the disconnected remnant?** | Two windows, and the trade is stated: **subacute — within the first 30–60 days of illness, concurrent with debridement** (one procedure, concise disease course, but relatively high periprocedural morbidity: transfusion, postoperative pancreatic fistula, longer stay, readmission); or **elective distal pancreatectomy several months later**, after the patient's physiology recovers. Either way, expect **laparotomy with concomitant splenectomy** — inflammation and fibrosis obliterate tissue planes and splenic vein thrombosis with sinistral hypertension is common. Consider **concurrent islet autotransplantation** when the remnant is of substantive size, since new diabetes is common after DPDS even without resection |
@@ -302,10 +302,10 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 **Endoscopic drainage of fluid collections — indications & approach [[asge-2016-pancreatic-fluid-collections]]:**
 
 - **Before drainage:** exclude cystic neoplasm and pseudoaneurysm; wait for cyst-wall maturation
-- **Drain:** symptomatic or rapidly enlarging pseudocysts; all infected PFCs failing conservative management; symptomatic sterile necrosis lasting >8 weeks
+- **Drain:** symptomatic or rapidly enlarging pseudocysts; all infected pancreatic fluid collections (PFCs) failing conservative management; symptomatic sterile necrosis lasting >8 weeks
 - Endoscopic (transmural) drainage is preferred over surgery as *initial* therapy for pseudocysts
 - Use [[endoscopic-ultrasound|EUS]] for transmural drainage when there is no luminal bulge or [[portal-hypertension|portal hypertension]] is suspected; routine FNA is *not* required to diagnose infected necrosis
-- WON: step-up — transmural/percutaneous drainage before transmural necrosectomy or surgery; lower success and higher adverse-event rates than pseudocyst drainage; perform only with surgical and IR backup
+- WON: step-up — transmural/percutaneous drainage before transmural necrosectomy or surgery; lower success and higher adverse-event rates than pseudocyst drainage; perform only with surgical and interventional radiology (IR) backup
 
 ### 7. Gallstone Pancreatitis — Definitive Management
 

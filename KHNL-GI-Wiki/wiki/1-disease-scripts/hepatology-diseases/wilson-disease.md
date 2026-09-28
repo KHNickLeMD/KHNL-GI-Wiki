@@ -36,29 +36,29 @@ sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-20
 
 ### Establishing the Diagnosis
 
-Wilson disease (WD; hepatolenticular degeneration) is an autosomal recessive disorder of copper metabolism caused by pathogenic variants in *ATP7B*, encoding the P-type ATPase responsible for biliary copper excretion. Estimated prevalence ~1:30,000–1:20,000; carrier frequency up to 1:90. >380 pathogenic ATP7B variants documented; most patients are compound heterozygotes. No dominant mutation — unlike [[hereditary-hemochromatosis|HH]].
+Wilson disease (WD; hepatolenticular degeneration) is an autosomal recessive disorder of copper metabolism caused by pathogenic variants in *ATP7B*, encoding the P-type ATPase responsible for biliary copper excretion. Estimated prevalence ~1:30,000–1:20,000; carrier frequency up to 1:90. >380 pathogenic ATP7B variants documented; most patients are compound heterozygotes. No dominant mutation — unlike [[hereditary-hemochromatosis|hereditary hemochromatosis (HH)]].
 
-**Clinical presentation (Table 1) — WD should be considered at any age; do NOT exclude based on age alone (GS 1):**
+**Clinical presentation (Table 1) — WD should be considered at any age; do NOT exclude based on age alone (guidance statement [GS] 1):**
 
 | System | Manifestations |
 |---|---|
-| **Hepatic** | Asymptomatic transaminase elevation, fatty liver, chronic hepatitis, AIH-like pattern, [[cirrhosis\|cirrhosis]] (compensated or decompensated), ALF |
+| **Hepatic** | Asymptomatic transaminase elevation, fatty liver, chronic hepatitis, autoimmune hepatitis (AIH)-like pattern, [[cirrhosis\|cirrhosis]] (compensated or decompensated), acute liver failure (ALF) |
 | **Neurological** | Dysarthria (most common, 46–97%), gait abnormality/ataxia (28–75%), dystonia (38–69%), parkinsonism (12–58%), postural tremor (55%), [[dysphagia]], chorea (6–30%), seizures (6–28%) |
-| **Psychiatric** | Depression (MDD most common), bipolar disorder/spectrum, psychosis, personality/behavioral changes, cognitive dysfunction |
-| **Other** | Kayser-Fleischer rings, sunflower cataracts; renal (Fanconi syndrome, nephrolithiasis); skeletal (osteoporosis); cardiomyopathy, dysrhythmias; hypoparathyroidism; infertility/miscarriages; [[acute-pancreatitis\|pancreatitis]] |
+| **Psychiatric** | Depression (major depressive disorder [MDD] most common), bipolar disorder/spectrum, psychosis, personality/behavioral changes, cognitive dysfunction |
+| **Other** | Kayser-Fleischer (KF) rings, sunflower cataracts; renal (Fanconi syndrome, nephrolithiasis); skeletal (osteoporosis); cardiomyopathy, dysrhythmias; hypoparathyroidism; infertility/miscarriages; [[acute-pancreatitis\|pancreatitis]] |
 
 **Key clinical clues to suspect WD:**
 
 - Unexplained liver disease in any patient <55 years; also consider in older patients with concurrent neuropsychiatric disease (GS 1)
 - WD must be excluded in unexplained liver disease + neurologic/psychiatric disorder (GS 2)
-- ALF with Coombs-negative hemolytic anemia (GS 3): serum AST > ALT; ALP usually very low (<40 IU/L); female predominance (2:1 to 4:1); urgent [[liver-transplantation|LT]] evaluation
+- ALF with Coombs-negative hemolytic anemia (GS 3): serum aspartate aminotransferase (AST) > alanine aminotransferase (ALT); alkaline phosphatase (ALP) usually very low (<40 IU/L); female predominance (2:1 to 4:1); urgent [[liver-transplantation|liver transplantation (LT)]] evaluation
 - Children/adolescents with apparent AIH not responding rapidly to steroids → evaluate for WD (GS 2)
-- Pediatric patients with hepatic steatosis, especially if BMI/waist circumference normal for age
+- Pediatric patients with hepatic steatosis, especially if body mass index (BMI)/waist circumference normal for age
 
 **Initial evaluation (GS 6):**
 
-1. Liver biochemistries (AST, ALT, bilirubin, albumin, INR)
-2. CBC + INR
+1. Liver biochemistries (AST, ALT, bilirubin, albumin, international normalized ratio [INR])
+2. Complete blood count (CBC) + INR
 3. Serum ceruloplasmin (± serum copper)
 4. Basal 24-h urinary copper excretion
 5. Slit-lamp or optical tomography exam for KF rings
@@ -68,7 +68,7 @@ Wilson disease (WD; hepatolenticular degeneration) is an autosomal recessive dis
 ### Severity Assessment
 
 **New Wilson Index (NWI) for ALF/decompensated disease (Table 8):**
-Predicts mortality without LT; uses Bilirubin + INR + AST + WBC + Albumin:
+Predicts mortality without LT; uses Bilirubin + INR + AST + white blood cell count (WBC) + Albumin:
 
 | Variable | 0 | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|---|
@@ -86,11 +86,11 @@ Predicts mortality without LT; uses Bilirubin + INR + AST + WBC + Albumin:
 |---|---|
 | KF rings (slit-lamp exam): Present | 2 |
 | KF rings: Absent | 0 |
-| Neuropsychiatric symptoms (or typical brain MRI): Present | 2 |
+| Neuropsychiatric symptoms (or typical brain magnetic resonance imaging [MRI]): Present | 2 |
 | Neuropsychiatric symptoms: Absent | 0 |
 | Coombs-negative hemolytic anemia (+ high serum copper): Present | 1 |
 | 24-h urinary copper (in absence of acute hepatitis): Normal | 0 |
-| 24-h urinary Cu: 1–2× ULN | 1 |
+| 24-h urinary Cu: 1–2× upper limit of normal (ULN) | 1 |
 | 24-h urinary Cu: >2× ULN | 2 |
 | 24-h urinary Cu: Normal but >500 μg/day after D-penicillamine challenge | 2 |
 | Liver Cu (quantitative): Normal (<50 μg/g dry weight) | −1 |
@@ -110,8 +110,8 @@ Predicts mortality without LT; uses Bilirubin + INR + AST + WBC + Albumin:
 **Reference values needed to actually score it** (Table 7 footnotes, [[aasld-2022-wilson-disease]]):
 
 - **24-h urinary copper ULN = 40 μg/day** — the multiples above (1–2× ULN, >2× ULN) are taken against this modified ULN. It was first revised for children; accruing experience shows it is appropriate for adults too
-- **D-penicillamine challenge protocol:** 2 × 500 mg, urinary copper measured **1 day after**. ⚠ AASLD flags that the >500 μg/day cut point **"is likely not stringent enough"** — the original Leipzig publication used **>1,600 μg/24 h**
-- **Ceruloplasmin LLN = 20 mg/dl by nephelometric assay**; different values apply if measured by oxidase assay (rarely available clinically)
+- **D-penicillamine challenge protocol:** 2 × 500 mg, urinary copper measured **1 day after**. ⚠ The American Association for the Study of Liver Diseases (AASLD) flags that the >500 μg/day cut point **"is likely not stringent enough"** — the original Leipzig publication used **>1,600 μg/24 h**
+- **Ceruloplasmin lower limit of normal (LLN) = 20 mg/dl by nephelometric assay**; different values apply if measured by oxidase assay (rarely available clinically)
 - **Liver copper ULN = 50 μg/g dry weight**, so "up to 5× ULN" = 50–250 μg/g and ">5× ULN" = >250 μg/g
 - Liver biopsy is **not mandatory** for diagnosis in patients with exclusively neurological findings
 - ⚠ **Certain WD mimics can reach a "diagnostic" Leipzig score** — see *Genetic mimics of WD* below before accepting a ≥4
@@ -122,16 +122,16 @@ Predicts mortality without LT; uses Bilirubin + INR + AST + WBC + Albumin:
 
 *Workup: see [[abnormal-liver-chemistries]].*
 
-- [[autoimmune-hepatitis]] — can coexist; AIH pattern on biopsy + elevated IgG overlap with WD; concurrent WD + AIH possible (rare); must differentiate by copper studies
-- [[drug-induced-liver-injury]] — medication/supplement history; RUCAM scoring; copper studies normal
+- [[autoimmune-hepatitis]] — can coexist; AIH pattern on biopsy + elevated immunoglobulin G (IgG) overlap with WD; concurrent WD + AIH possible (rare); must differentiate by copper studies
+- [[drug-induced-liver-injury]] — medication/supplement history; Roussel Uclaf Causality Assessment Method (RUCAM) scoring; copper studies normal
 - [[alcohol-associated-liver-disease]] — AST:ALT >2:1; alcohol history; no copper overload
 - [[nafld-masld]] — metabolic risk factors; steatosis; hepatic copper usually very low (unlike WD)
 - [[acute-liver-failure]] — WD-ALF triad: Coombs-negative hemolysis + coagulopathy + [[hepatic-encephalopathy|encephalopathy]] ± modest ALT (<2000 IU/L); ALP characteristically very low
-- [[hereditary-hemochromatosis]] — iron overload vs. copper overload; TS + SF elevated in HH; distinct genetics
-- [[primary-sclerosing-cholangitis]] — biliary disease; [[mri-mrcp|MRCP]] cholangiographic changes; normal copper
-- [[primary-biliary-cholangitis]] — AMA+; elevated ALP; elevated copper in cholestasis can mimic WD (MDR3 deficiency similarly)
+- [[hereditary-hemochromatosis]] — iron overload vs. copper overload; transferrin saturation (TS) + serum ferritin (SF) elevated in HH; distinct genetics
+- [[primary-sclerosing-cholangitis]] — biliary disease; [[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]] cholangiographic changes; normal copper
+- [[primary-biliary-cholangitis]] — anti-mitochondrial antibody (AMA)+; elevated ALP; elevated copper in cholestasis can mimic WD (MDR3 deficiency similarly)
 
-**Genetic mimics of WD (Table 5):** Aceruloplasminemia (absent ceruloplasmin, no copper overload, neurological), MDR3 deficiency (*ABCB4*, cholestatic), MEDNIK syndrome (*AP1S1*), Niemann-Pick type C, congenital disorders of glycosylation (PGM1-CDG, CCDC115-CDG, TMEM119-CDG) — low ceruloplasmin, hepatic copper, may mimic WD; distinguish by genetic analysis [[aasld-2022-wilson-disease]]
+**Genetic mimics of WD (Table 5):** Aceruloplasminemia (absent ceruloplasmin, no copper overload, neurological), MDR3 deficiency (*ABCB4*, cholestatic), MEDNIK syndrome (*AP1S1*), Niemann-Pick type C, congenital disorders of glycosylation (CDG; PGM1-CDG, CCDC115-CDG, TMEM119-CDG) — low ceruloplasmin, hepatic copper, may mimic WD; distinguish by genetic analysis [[aasld-2022-wilson-disease]]
 
 ---
 
@@ -139,11 +139,11 @@ Predicts mortality without LT; uses Bilirubin + INR + AST + WBC + Albumin:
 
 | Test | Interpretation |
 |---|---|
-| **Serum ceruloplasmin** | **The cutoff you pick changes the answer** — <20 mg/dl has PPV only **48.3%** (NPV 98.7%); **<14 mg/dl** has PPV **100%**, NPV 97.1%, and hit **100% sensitivity and specificity** in the validation cohort (every simple heterozygote with a subnormal value was >14); **<10 mg/dl** PPV 100%, NPV 91.9% and is the informative cutoff **used by the Leipzig score**; some regard **<5 mg/dl** as highly informative. Normal does NOT exclude WD (acute-phase reactant — rises with inflammation, estrogen therapy, pregnancy). Immunoassays overestimate (detect apoceruloplasmin + holoceruloplasmin). (GS 7) |
+| **Serum ceruloplasmin** | **The cutoff you pick changes the answer** — <20 mg/dl has positive predictive value (PPV) only **48.3%** (negative predictive value [NPV] 98.7%); **<14 mg/dl** has PPV **100%**, NPV 97.1%, and hit **100% sensitivity and specificity** in the validation cohort (every simple heterozygote with a subnormal value was >14); **<10 mg/dl** PPV 100%, NPV 91.9% and is the informative cutoff **used by the Leipzig score**; some regard **<5 mg/dl** as highly informative. Normal does NOT exclude WD (acute-phase reactant — rises with inflammation, estrogen therapy, pregnancy). Immunoassays overestimate (detect apoceruloplasmin + holoceruloplasmin). (GS 7) |
 | **Non-ceruloplasmin-bound copper (NCC)** | The bioavailable/exchangeable fraction; **never validated as a diagnostic test**, but it is the monitoring target under [[#Treatment Monitoring Targets (Table 10, GS 21–24)]]. Estimate: **NCC (μg/dl) = serum copper (μg/dl) − 3.15 × ceruloplasmin (mg/dl)** (ceruloplasmin carries ≈3.15 μg copper per mg). Calculated NCC has significant limitations. Normal/high serum copper *despite* low ceruloplasmin (typical of WD with liver injury) implies raised NCC |
 | **Basal 24-h urinary copper** | Symptomatic WD: typically >100 μg/24h (>1.6 μmol/24h). Asymptomatic/children: >40 μg/24h (>0.6 μmol/24h) warrants further investigation. Normal range laboratories: 10–15 μg/24h. In ALF: serum copper usually >200 μg/dl. (GS 8) |
 | **KF rings (slit-lamp exam)** | Copper in Descemet's membrane; golden-brown pigment at limbus. Present in: ~95–100% neurologic WD, ~44–62% hepatic WD at diagnosis, rarely in children with liver disease. NOT pathognomonic — also in [[primary-biliary-cholangitis\|primary biliary cholangitis]] (rare). Absent KF rings do NOT exclude WD. |
-| **[[liver-biopsy\|Liver biopsy]]** | Hepatic parenchymal copper >250 μg/g DW: occurs in most WD; <50 μg/g DW in untreated patient = excludes WD. Intermediate (50–250 μg/g) = prompt other testing. Histologic changes range from steatosis to cirrhosis; may look identical to AIH. EM of mitochondria: characteristic ultrastructural changes. (GS 9) |
+| **[[liver-biopsy\|Liver biopsy]]** | Hepatic parenchymal copper >250 μg/g dry weight (DW): occurs in most WD; <50 μg/g DW in untreated patient = excludes WD. Intermediate (50–250 μg/g) = prompt other testing. Histologic changes range from steatosis to cirrhosis; may look identical to AIH. Electron microscopy (EM) of mitochondria: characteristic ultrastructural changes. (GS 9) |
 | **ATP7B genetic analysis** | >90% sensitive for detecting nucleotide changes; direct sequencing of entire gene (21 exons) including promoter region preferred. Most efficient for first-degree relative screening if proband genotype known. Provides confirmation when biochemical testing inconclusive. (GS 11) |
 | **Brain MRI** | "Face of the giant panda sign" (T2 hyperintensity in midbrain); T2 changes in basal ganglia, thalami, white matter, pons. Indicated if neurological evaluation abnormal; may aid diagnosis and exclude other causes. (GS 10) |
 | **Serum uric acid** | May be low in WD due to renal tubular dysfunction (Fanconi syndrome) |
@@ -157,7 +157,7 @@ Predicts mortality without LT; uses Bilirubin + INR + AST + WBC + Albumin:
 
 - Screen all first-degree relatives when proband diagnosed
 - If proband genotype known → ATP7B testing of first-degree relatives (most efficient)
-- If genotype unavailable → clinical + biochemical evaluation: slit-lamp, ceruloplasmin, LFTs, 24-h urine Cu, CBC
+- If genotype unavailable → clinical + biochemical evaluation: slit-lamp, ceruloplasmin, liver function tests (LFTs), 24-h urine Cu, CBC
 - Indeterminate: liver biopsy (quantitative Cu). Child <3 years without organ damage → reevaluate every 6 months; begin treatment at 3 years unless earlier evidence of organ damage
 
 ---
@@ -223,7 +223,7 @@ Transition after ≥1 year of treatment + clinical/biochemical stability:
 - Simultaneous LT evaluation required as backup
 - Advanced disease failing medical therapy → expeditious LT referral (GS 27)
 
-**Acute liver injury (ALI, without HE) due to WD (GS 29):**
+**Acute liver injury (ALI, without hepatic encephalopathy [HE]) due to WD (GS 29):**
 
 - May respond to intensive chelation + zinc
 - NWI >10, failing to decrease over time → LT
@@ -233,26 +233,26 @@ Transition after ≥1 year of treatment + clinical/biochemical stability:
 
 - Refer immediately for LT evaluation and potential transplantation
 - Oral chelators may help stabilize (if renal function intact)
-- Bridge modalities: apheresis, plasma exchange, albumin dialysis, MARS, RRT — may reduce hemolysis and allow stabilization; rarely eliminate LT need
-- UNOS Status 1A priority appropriate; 80–99% mortality without LT
+- Bridge modalities: apheresis, plasma exchange, albumin dialysis, molecular adsorbent recirculating system (MARS), renal replacement therapy (RRT) — may reduce hemolysis and allow stabilization; rarely eliminate LT need
+- United Network for Organ Sharing (UNOS) Status 1A priority appropriate; 80–99% mortality without LT
 - Characteristic: Coombs-negative hemolysis, coagulopathy unresponsive to vitamin K, low/normal ALP, rapid renal deterioration
 
 **Post-LT (GS 30):** WD-specific pharmacotherapy is unnecessary after LT (corrects the underlying hepatic defect).
 
-**Neurologic LT (GS 31):** Liver failure and [[hepatocellular-carcinoma|HCC]]: well-accepted LT indications. Neurologic WD alone: controversial — variable outcomes; some improvement reported but controlled data lacking.
+**Neurologic LT (GS 31):** Liver failure and [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]]: well-accepted LT indications. Neurologic WD alone: controversial — variable outcomes; some improvement reported but controlled data lacking.
 
 **[[hcc-surveillance|HCC surveillance]] (GS 32):**
 
-- Patients with WD and cirrhosis (or regressed cirrhosis): ultrasound ± AFP every 6 months ([[hcc-surveillance|HCC surveillance]])
-- CCA surveillance NOT indicated, but [[cholangiocarcinoma|CCA]] should be in DDx for liver tumors not meeting HCC radiologic criteria
+- Patients with WD and cirrhosis (or regressed cirrhosis): ultrasound ± alpha-fetoprotein (AFP) every 6 months ([[hcc-surveillance|HCC surveillance]])
+- Cholangiocarcinoma (CCA) surveillance NOT indicated, but [[cholangiocarcinoma|CCA]] should be in the differential diagnosis (DDx) for liver tumors not meeting HCC radiologic criteria
 
 ### Nutrition (GS 19–20)
 
 - Avoid foods/water with high copper concentrations (especially first year): nuts, chocolate, shellfish, mushrooms, organ meats, soy-based products
-- Copper intake goal: <0.9 mg/day (RDA)
+- Copper intake goal: <0.9 mg/day (recommended dietary allowance [RDA])
 - Check drinking water copper content if using well water (>100 μg/L = elevated)
 - Avoid copper/bronze cookware (acidic foods leach copper)
-- RD consultation recommended; avoid overly restrictive diets causing anxiety
+- Registered dietitian (RD) consultation recommended; avoid overly restrictive diets causing anxiety
 - Pyridoxine (25–50 mg/day) with D-penicillamine
 
 ### Neurological Adjuncts (GS 36–37)
@@ -271,7 +271,7 @@ Effective copper removal often improves neurological symptoms but adjunctive the
 - Low-potency antipsychotics preferred (extrapyramidal sensitivity in WD); quetiapine and olanzapine used effectively
 - Avoid/use with caution: clozapine (agranulocytosis risk with D-penicillamine/hypersplenism); haloperidol (extrapyramidal risk)
 - Lithium preferred for bipolar disorder (renal excretion; stimulates granulopoiesis; safer than clozapine)
-- ECT for select patients with refractory psychosis and extrapyramidal symptoms
+- Electroconvulsive therapy (ECT) for select patients with refractory psychosis and extrapyramidal symptoms
 
 ### Wilson's Disease in Pregnancy (GS 33–35)
 

@@ -24,11 +24,11 @@ sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 
 ### Establishing the Diagnosis
 
-Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polyposis syndrome characterized by multiple juvenile polyps throughout the GI tract. It is caused by pathogenic germline mutations in **SMAD4** (also called MADH4) or **BMPR1A** genes [[acg-2015-hereditary-gi-cancer]].
+Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polyposis syndrome characterized by multiple juvenile polyps throughout the gastrointestinal (GI) tract. It is caused by pathogenic germline mutations in **SMAD4** (also called MADH4) or **BMPR1A** genes [[acg-2015-hereditary-gi-cancer]].
 
 **Incidence**: 1 in 100,000–160,000 individuals; ~25% of newly diagnosed JPS cases are de novo mutations; 75% have a family history.
 
-**Who to refer for genetic evaluation — any one of the following** *(Strong, low quality — [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] R8)*:
+**Who to refer for genetic evaluation — any one of the following** *(Strong, low quality — [[aga-2022-hamartomatous-polyposis|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2022]] R8)*:
 
 1. **≥5 juvenile polyps of the colon or rectum**; OR
 2. **≥2 juvenile polyps in other parts of the GI tract**; OR
@@ -40,7 +40,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 2. **Any number** of juvenile polyps **in parts of the GI tract other than the colon** — note this is *any*, whereas the referral threshold R8 requires **≥2**; OR
 3. **Any number** of juvenile polyps **plus ≥1 first-degree relative with JPS**
 
-- The older [[acg-2015-hereditary-gi-cancer|ACG 2015]] criteria were looser on points 2 and 3 — *any* juvenile polyps elsewhere in the GI tract, and any number of polyps with a family history of *juvenile polyps* (not necessarily diagnosed JPS). **Use the 2022 thresholds above** as the newer criteria
+- The older [[acg-2015-hereditary-gi-cancer|American College of Gastroenterology (ACG) 2015]] criteria were looser on points 2 and 3 — *any* juvenile polyps elsewhere in the GI tract, and any number of polyps with a family history of *juvenile polyps* (not necessarily diagnosed JPS). **Use the 2022 thresholds above** as the newer criteria
 - General referral trigger for *any* hamartomatous polyposis syndrome: **≥2 lifetime hamartomatous polyps**, a family history of hamartomatous polyps, or a hamartomatous-syndrome–associated cancer in a **first- or second-degree relative**; test with a **multigene panel** *(R1; Strong, low)*
 - **Organs to survey** *(R9; Strong, low)*: **colon and stomach**
 
@@ -54,11 +54,11 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 **Genetic testing**: SMAD4 and BMPR1A sequencing + deletion/duplication analysis; ~60% of clinically defined JPS will have an identifiable mutation [[acg-2015-hereditary-gi-cancer]].
 
 - 14% of mutations are large deletions; 10% are promoter mutations
-- Both genes are tumor suppressors in the TGF-β signaling pathway and affect cell growth and apoptosis
+- Both genes are tumor suppressors in the transforming growth factor-β (TGF-β) signaling pathway and affect cell growth and apoptosis
 
 **SMAD4 mutation — additional consideration**:
 
-- SMAD4 mutations are associated with **[[hereditary-hemorrhagic-telangiectasia|hereditary hemorrhagic telangiectasia (HHT)]]** — HHT occurs in **~15–81% of SMAD4 carriers**. Cardiovascular examination and evaluation for HHT **should be considered** in SMAD4 carriers *(ACG 2015 Rec 17; conditional, very low)*; [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] upgrades this to **clinical evaluation for HHT at the time of JPS diagnosis, including screening for and management of cerebral and pulmonary AVMs** *(R11; weak, low)*. Its Table 4 puts the vascular-lesion screen at **≤6 months** — the same age as ACG 2015, and earlier than ESPGHAN 2019's "at diagnosis." The HHT surveillance program itself lives on [[hereditary-hemorrhagic-telangiectasia]]
+- SMAD4 mutations are associated with **[[hereditary-hemorrhagic-telangiectasia|hereditary hemorrhagic telangiectasia (HHT)]]** — HHT occurs in **~15–81% of SMAD4 carriers**. Cardiovascular examination and evaluation for HHT **should be considered** in SMAD4 carriers *(ACG 2015 Rec 17; conditional, very low)*; [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] upgrades this to **clinical evaluation for HHT at the time of JPS diagnosis, including screening for and management of cerebral and pulmonary arteriovenous malformations (AVMs)** *(R11; weak, low)*. Its Table 4 puts the vascular-lesion screen at **≤6 months** — the same age as ACG 2015, and earlier than European Society for Paediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN) 2019's "at diagnosis." The HHT surveillance program itself lives on [[hereditary-hemorrhagic-telangiectasia]]
 
 **Juvenile polyposis of infancy** — the severe form: presents in the **first 2 years of life** with diarrhea, abdominal pain, rectal bleeding, refractory anemia, hypoalbuminemia, and enteropathy; associated with a **large 10q23 deletion spanning both PTEN and BMPR1A** [[aga-2022-hamartomatous-polyposis]].
 
@@ -67,11 +67,11 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 | Cancer | JPS Risk | Average Age of Diagnosis | Source |
 |---|---|---|---|
 | [[colorectal-cancer\|Colorectal]] | 38–68% | 34–44 | [[acg-2015-hereditary-gi-cancer\|ACG 2015]] Table 5 |
-| [[colorectal-cancer\|Colorectal]] — cohort estimate | **RR 34** (95% CL 14.4–65.7); cumulative lifetime **38.7%** | mean **43.9** | [[aga-2022-hamartomatous-polyposis\|USMSTF 2022]] |
+| [[colorectal-cancer\|Colorectal]] — cohort estimate | **relative risk (RR) 34** (95% confidence limits (CL) 14.4–65.7); cumulative lifetime **38.7%** | mean **43.9** | [[aga-2022-hamartomatous-polyposis\|USMSTF 2022]] |
 | [[gastric-adenocarcinoma\|Gastric]] — **SMAD4 carriers with gastric polyposis** | **≥30%** lifetime | median **58** | [[aga-2022-hamartomatous-polyposis\|USMSTF 2022]] |
 | Upper GI (stomach, pancreas, small bowel combined) | 21% | 54 | [[acg-2015-hereditary-gi-cancer\|ACG 2015]] Table 7 |
 
-- [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] Table 3 tabulates the same two risks against SEER baselines: **colon 39%** (general population 4.3%), mean age **44**; **stomach 5–21%** (general population <1%), mean age **54**
+- [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] Table 3 tabulates the same two risks against Surveillance, Epidemiology, and End Results (SEER) baselines: **colon 39%** (general population 4.3%), mean age **44**; **stomach 5–21%** (general population <1%), mean age **54**
 - **Gastric cancer risk has not been reported with BMPR1A variants** — it tracks with SMAD4 + [[gastric-polyps|gastric polyposis]]. Whether BMPR1A confers gastric cancer risk is **uncertain**, so pending new evidence upper-GI surveillance is done at the **same intervals as for SMAD4 carriers**
 - Overall GI cancer risk estimates span **11–55%** (retrospective, referral-biased both ways); combined colon + stomach cancer risk is quoted as **39–68%**, largely SMAD4-associated. **Excess risk of non-GI cancer is not reported in JPS**
 - **Polyp dysplasia:** dysplasia was present in **31%** of JPS juvenile polyps vs **0%** of sporadic juvenile polyps. In a St Mark's longitudinal series (44 patients, 787 polyps resected), **8.3%** contained mild/moderate architectural dysplasia and **2.5%** were adenomatous
@@ -92,15 +92,15 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 
 ## Diagnostics
 
-*Start ages below are concordant across [[acg-2015-hereditary-gi-cancer|ACG 2015]] and the newer [[aga-2022-hamartomatous-polyposis|USMSTF/AGA 2022]] hamartomatous-polyposis guideline (colonoscopy + upper endoscopy at **age 12–15**, earlier if symptomatic; intervals set by polyp burden; test for *SMAD4* — HHT overlap — and *BMPR1A*).*
+*Start ages below are concordant across [[acg-2015-hereditary-gi-cancer|ACG 2015]] and the newer [[aga-2022-hamartomatous-polyposis|USMSTF/American Gastroenterological Association (AGA) 2022]] hamartomatous-polyposis guideline (colonoscopy + upper endoscopy at **age 12–15**, earlier if symptomatic; intervals set by polyp burden; test for *SMAD4* — HHT overlap — and *BMPR1A*).*
 
 **[[colonoscopy|Colonoscopy]]** — begin **age 12–15** (earlier if symptomatic, especially rectal bleeding), **every 1–3 years** depending on polyp burden *(ACG 2015 Table 10, conditional/very low; same in [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] R10 — weak, low)*:
 
 - Remove **all** polyps when feasible, or **at minimum all polyps ≥5 mm**
-- Comparators as reported in USMSTF 2022 Table 4: **NCCN 2020** starts later and stretches the interval — **age 15, q2–3 y**; **ESPGHAN 2019** agrees on **12–15** and gives no interval
+- Comparators as reported in USMSTF 2022 Table 4: **National Comprehensive Cancer Network (NCCN) 2020** starts later and stretches the interval — **age 15, q2–3 y**; **ESPGHAN 2019** agrees on **12–15** and gives no interval
 - Colonic polyps: 70% in proximal colon in one study
 
-**[[upper-endoscopy|EGD]]** — same schedule *(R10)*: begin **age 12–15** (earlier if symptomatic), **every 1–3 years**, removing **polyps ≥5 mm**. Stomach surveillance is an explicit recommendation in both guidelines *(R9)*. Genotype modifies who gets scoped in childhood [[aga-2022-hamartomatous-polyposis]]:
+**[[upper-endoscopy|esophagogastroduodenoscopy (EGD)]]** — same schedule *(R10)*: begin **age 12–15** (earlier if symptomatic), **every 1–3 years**, removing **polyps ≥5 mm**. Stomach surveillance is an explicit recommendation in both guidelines *(R9)*. Genotype modifies who gets scoped in childhood [[aga-2022-hamartomatous-polyposis]]:
 
 | Patient | Upper endoscopy |
 |---|---|
@@ -109,12 +109,12 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 | **Child with BMPR1A** | Gastric cancer association uncertain → surveil at **the same intervals as SMAD4** pending new evidence |
 | **Any patient with upper-GI symptoms, or anemia not explained by colonic polyps** | Evaluate with upper endoscopy regardless of age/genotype |
 
-- Small bowel beyond the duodenum has a **rare, undefined** lifetime risk — surveil periodically ([[device-assisted-enteroscopy|enteroscopy]], [[capsule-endoscopy|capsule endoscopy]], CT enterography) **only if** duodenal polyposis is present, or with unexplained anemia, protein-losing enteropathy, or other small bowel symptoms
+- Small bowel beyond the duodenum has a **rare, undefined** lifetime risk — surveil periodically ([[device-assisted-enteroscopy|enteroscopy]], [[capsule-endoscopy|capsule endoscopy]], computed tomography (CT) enterography) **only if** duodenal polyposis is present, or with unexplained anemia, protein-losing enteropathy, or other small bowel symptoms
 - Pancreas: rare, undefined lifetime risk — **no screening recommendation given**
 
-**Blood counts** — annual history, physical examination, and **complete blood count from age 12–15** in **SMAD4** carriers, to catch bleeding/anemia from intestinal telangiectasias [[aga-2022-hamartomatous-polyposis]]; annual CBC for anemia surveillance in JPS generally [[acg-2015-hereditary-gi-cancer]]
+**Blood counts** — annual history, physical examination, and **complete blood count from age 12–15** in **SMAD4** carriers, to catch bleeding/anemia from intestinal telangiectasias [[aga-2022-hamartomatous-polyposis]]; annual complete blood count (CBC) for anemia surveillance in JPS generally [[acg-2015-hereditary-gi-cancer]]
 
-**Cardiovascular examination / HHT evaluation** — for SMAD4 carriers. [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 10 places this **within the first 6 months of life** *(Conditional/VLow)*; [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] frames it as evaluation **at the time of JPS diagnosis**, with cerebral and pulmonary AVM screening — see [[hereditary-hemorrhagic-telangiectasia]]
+**Cardiovascular examination / HHT evaluation** — for SMAD4 carriers. [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 10 places this **within the first 6 months of life** *(Conditional/Very Low (VLow))*; [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] frames it as evaluation **at the time of JPS diagnosis**, with cerebral and pulmonary AVM screening — see [[hereditary-hemorrhagic-telangiectasia]]
 
 ---
 
@@ -128,9 +128,9 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 
 ### Surgical Management
 
-**Colectomy with IRA** — [[acg-2015-hereditary-gi-cancer|ACG 2015]] Rec 16 *(Conditional/Low)* indicates colectomy + IRA **or** proctocolectomy + IPAA for polyp-related symptoms or polyps not manageable endoscopically. [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] states the trigger list explicitly — **any one** of:
+**Colectomy with ileorectal anastomosis (IRA)** — [[acg-2015-hereditary-gi-cancer|ACG 2015]] Rec 16 *(Conditional/Low)* indicates colectomy + IRA **or** proctocolectomy + ileal pouch-anal anastomosis (IPAA) for polyp-related symptoms or polyps not manageable endoscopically. [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] states the trigger list explicitly — **any one** of:
 
-- **[[colorectal-cancer|CRC]]**
+- **[[colorectal-cancer|colorectal cancer (CRC)]]**
 - **Endoscopically unmanageable colonic polyp burden**
 - **Persistent blood loss causing severe anemia**, or **hypoalbuminemia**
 - Proctocolectomy is needed instead for **rectal cancer** or **advanced rectal polyp burden**

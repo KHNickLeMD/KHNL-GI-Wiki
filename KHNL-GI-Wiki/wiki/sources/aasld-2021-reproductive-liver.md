@@ -27,9 +27,9 @@ This guidance addresses contraception, fertility, pregnancy, and postpartum mana
 
 ## Key Points
 
-- **Contraception:** counsel all women of reproductive age with liver disease; effective contraception (including LARC/IUDs) for those wishing to avoid pregnancy. Combined hormonal contraception is generally acceptable in compensated disease but **avoided in active/decompensated disease and certain vascular/cholestatic conditions**.
-- **Cirrhosis in pregnancy:** preconception counseling; **variceal screening** (endoscopy) before or during pregnancy given increased bleeding risk; co-manage with maternal-fetal medicine.
-- **Pregnancy-specific liver diseases:** intrahepatic cholestasis of pregnancy (ursodeoxycholic acid; bile acid monitoring), preeclampsia/HELLP, and acute fatty liver of pregnancy (prompt delivery) — see the [[liver-disease-in-pregnancy]] schema.
+- **Contraception:** counsel all women of reproductive age with liver disease; effective contraception (including long-acting reversible contraception [LARC]/intrauterine devices [IUDs]) for those wishing to avoid pregnancy. Combined hormonal contraception is generally acceptable in compensated disease but **avoided in active/decompensated disease and certain vascular/cholestatic conditions**.
+- **Cirrhosis in pregnancy:** preconception counseling; **variceal screening** (endoscopy) before or during pregnancy given increased bleeding risk; co-manage with maternal-fetal medicine (MFM).
+- **Pregnancy-specific liver diseases:** intrahepatic cholestasis of pregnancy (ursodeoxycholic acid; bile acid monitoring), preeclampsia/hemolysis, elevated liver enzymes, and low platelets (HELLP), and acute fatty liver of pregnancy (prompt delivery) — see the [[liver-disease-in-pregnancy]] schema.
 - **Medications:** avoid teratogens (e.g., **mycophenolate**, ribavirin); manage autoimmune hepatitis and transplant immunosuppression with pregnancy-compatible regimens.
 
 ---

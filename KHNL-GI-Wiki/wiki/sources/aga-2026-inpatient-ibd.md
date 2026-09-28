@@ -17,9 +17,9 @@ sources: []
 
 ## Summary
 
-AGA Expert Review on inpatient management of hospitalized adults with IBD. Although IBD-specific hospitalizations are declining as outpatient therapy improves, inpatient care remains challenging — variable hospital-acquired complications, delays in surgery, and high 30-day readmission rates. Provides Best Practice Advice across admission criteria, supportive care, complication/infection workup, VTE prophylaxis, acute severe UC (ASUC) treatment and monitoring, rescue therapy, Crohn's complications (obstruction, abscess, perianal disease), and discharge planning.
+American Gastroenterological Association (AGA) Expert Review on inpatient management of hospitalized adults with inflammatory bowel disease (IBD). Although IBD-specific hospitalizations are declining as outpatient therapy improves, inpatient care remains challenging — variable hospital-acquired complications, delays in surgery, and high 30-day readmission rates. Provides Best Practice Advice across admission criteria, supportive care, complication/infection workup, venous thromboembolism (VTE) prophylaxis, acute severe ulcerative colitis (ASUC) treatment and monitoring, rescue therapy, Crohn's complications (obstruction, abscess, perianal disease), and discharge planning.
 
-Notable themes: patients are now more often admitted for **failing outpatient therapy** than fulminant presentation (refining admission criteria); growing questions about continuing **VTE prophylaxis at discharge**; and growing interest in **JAK inhibitors** as initial, potentially corticosteroid-sparing inpatient treatment for ASUC. **All hospitalized IBD patients should receive prophylactic anticoagulation.** ASUC: IV methylprednisolone 60 mg/day equivalent, assess response within 72 hours, prepare rescue (infliximab, cyclosporine, or JAK inhibitor) early, and obtain timely surgical consultation.
+Notable themes: patients are now more often admitted for **failing outpatient therapy** than fulminant presentation (refining admission criteria); growing questions about continuing **VTE prophylaxis at discharge**; and growing interest in **Janus kinase (JAK) inhibitors** as initial, potentially corticosteroid-sparing inpatient treatment for ASUC. **All hospitalized IBD patients should receive prophylactic anticoagulation.** ASUC: intravenous (IV) methylprednisolone 60 mg/day equivalent, assess response within 72 hours, prepare rescue (infliximab, cyclosporine, or JAK inhibitor) early, and obtain timely surgical consultation.
 
 13 Best Practice Advice statements (no formal ratings).
 
@@ -42,11 +42,11 @@ Notable themes: patients are now more often admitted for **failing outpatient th
 13. Stability of treatment response should be achieved before discharge, and a clear discharge transition plan established.
 
 **Practical points:**
-- Initial workup: IBD-tailored history/exam; CBC (anemia), CRP and/or fecal calprotectin; preparatory labs for anticipated drugs (fasting lipid panel before cyclosporine or JAK inhibitor; latent TB [TST or IGRA, IGRA preferred if BCG-vaccinated] and HBV testing); malnutrition screen (e.g., MUST).
-- Supportive care: IV hydration/electrolytes, treat anemia, pain control; avoid NSAIDs.
+- Initial workup: IBD-tailored history/exam; complete blood count (CBC; anemia), C-reactive protein (CRP) and/or fecal calprotectin; preparatory labs for anticipated drugs (fasting lipid panel before cyclosporine or JAK inhibitor; latent tuberculosis (TB) [tuberculin skin test (TST) or interferon-γ release assay (IGRA), IGRA preferred if bacille Calmette-Guérin (BCG)-vaccinated] and hepatitis B virus (HBV) testing); malnutrition screen (e.g., Malnutrition Universal Screening Tool [MUST]).
+- Supportive care: IV hydration/electrolytes, treat anemia, pain control; avoid nonsteroidal anti-inflammatory drugs (NSAIDs).
 - ASUC rescue: infliximab, cyclosporine, or JAK inhibitor; choice depends on prior treatment response, inflammatory burden, protein-losing colopathy (small molecules may be preferred), and clinician experience. Optimal infliximab dosing for ASUC is unknown — a multicenter study found **no significant day-7 clinical-response difference between accelerated (10 mg/kg) and standard infliximab dosing**.
-- CD obstruction: distinguish fibrotic vs inflammatory stricture vs adhesions; rule out perforation; IV steroids if active inflammation; surgery for predominantly fibrotic stricture or perforating/abscess disease; taper to ≤prednisone 20 mg/day preop to reduce infectious complications.
-- CD perianal: EUA with I&D of abscess + seton placement; contrast cross-sectional imaging (CT/MR) for complex tracts.
+- Crohn's disease (CD) obstruction: distinguish fibrotic vs inflammatory stricture vs adhesions; rule out perforation; IV steroids if active inflammation; surgery for predominantly fibrotic stricture or perforating/abscess disease; taper to ≤prednisone 20 mg/day preop to reduce infectious complications.
+- CD perianal: examination under anesthesia (EUA) with incision and drainage (I&D) of abscess + seton placement; contrast cross-sectional imaging (computed tomography [CT]/magnetic resonance [MR]) for complex tracts.
 - Discharge: appropriate after resolution/stabilization of the acute indication — does **not** require normalization of CRP or imaging; establish clear outpatient transition plan.
 
 ## Relevance to Wiki

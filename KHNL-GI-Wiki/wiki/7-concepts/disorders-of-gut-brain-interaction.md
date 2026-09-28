@@ -28,7 +28,7 @@ sources: [rome-v-2026-dgbi]
 
 ## Definition
 
-**Disorders of gut–brain interaction (DGBI)** are a group of disorders characterized by GI symptoms related to any combination of:
+**Disorders of gut–brain interaction (DGBI)** are a group of disorders characterized by gastrointestinal (GI) symptoms related to any combination of:
 
 | Mechanism | Examples |
 |---|---|
@@ -36,7 +36,7 @@ sources: [rome-v-2026-dgbi]
 | Visceral hypersensitivity | Visceral hyperalgesia, allodynia |
 | Altered mucosal and immune function | Mast cell activation, barrier dysfunction |
 | Altered gut microbiota | Dysbiosis, reduced microbial diversity |
-| Altered CNS processing | Impaired descending pain modulation |
+| Altered central nervous system (CNS) processing | Impaired descending pain modulation |
 
 The term DGBI replaced "functional gastrointestinal disorder" (FGID) when Rome IV introduced it in 2016. With **Rome V (2026)**, "functional GI disorder" is formally retired and should no longer be used. The word "functional" is also removed from individual diagnoses where possible (e.g., "functional constipation" → "[[chronic-constipation|chronic constipation]]").
 
@@ -53,10 +53,10 @@ Rome V (2026) classifies **34 adult** and **22 pediatric** DGBI across anatomic 
 | Category | Disorders |
 |---|---|
 | **A. Esophageal** | Functional chest pain (A1), [[functional-heartburn\|Functional heartburn]] (A2), Reflux hypersensitivity (A3), Globus (A4), Functional [[dysphagia]] (A5) |
-| **B. Gastroduodenal** | Functional [[dyspepsia]] — PDS (B1a), EPS (B1b); [[nausea-and-vomiting\|Nausea/vomiting]]: CNVS (B2a), [[cyclic-vomiting-syndrome\|CVS]] (B2b), [[cannabinoid-hyperemesis-syndrome\|CHS]] (B2c); Belching: supragastric (B3a), gastric (B3b), **inability to belch** (B3c, *new*); [[rumination-syndrome\|Rumination]] (B4) |
-| **C. Bowel** | [[irritable-bowel-syndrome\|IBS]] with subtypes (C1a–d); [[chronic-idiopathic-constipation\|Chronic constipation]] (C2); Functional diarrhea (C3); [[abdominal-bloating-and-distention\|Functional abdominal bloating]] (C4); Unclassified bowel disorders (C5); Opioid-induced constipation (C6) |
-| **D. Centrally mediated GI pain** | CAPS (D1); **Abdominal migraine** (D2, *new adult diagnosis*); Narcotic bowel syndrome (D3) |
-| **E. Gallbladder and [[sphincter-of-oddi-dysfunction\|SOD]]** | Biliary-type pain (E1); Dysfunctional gallbladder disorder (E2); Biliary SOD (E3); Pancreatic SOD (E4) |
+| **B. Gastroduodenal** | Functional [[dyspepsia]] — postprandial distress syndrome (PDS; B1a), epigastric pain syndrome (EPS; B1b); [[nausea-and-vomiting\|Nausea/vomiting]]: chronic nausea vomiting syndrome (CNVS; B2a), [[cyclic-vomiting-syndrome\|cyclic vomiting syndrome (CVS)]] (B2b), [[cannabinoid-hyperemesis-syndrome\|cannabinoid hyperemesis syndrome (CHS)]] (B2c); Belching: supragastric (B3a), gastric (B3b), **inability to belch** (B3c, *new*); [[rumination-syndrome\|Rumination]] (B4) |
+| **C. Bowel** | [[irritable-bowel-syndrome\|irritable bowel syndrome (IBS)]] with subtypes (C1a–d); [[chronic-idiopathic-constipation\|Chronic constipation]] (C2); Functional diarrhea (C3); [[abdominal-bloating-and-distention\|Functional abdominal bloating]] (C4); Unclassified bowel disorders (C5); Opioid-induced constipation (C6) |
+| **D. Centrally mediated GI pain** | Centrally mediated abdominal pain syndrome (CAPS; D1); **Abdominal migraine** (D2, *new adult diagnosis*); Narcotic bowel syndrome (D3) |
+| **E. Gallbladder and [[sphincter-of-oddi-dysfunction\|sphincter of Oddi dysfunction (SOD)]]** | Biliary-type pain (E1); Dysfunctional gallbladder disorder (E2); Biliary SOD (E3); Pancreatic SOD (E4) |
 | **F. Anorectal** | [[fecal-incontinence\|Fecal incontinence]] (F1); [[proctalgia-syndromes\|Anorectal pain]] (F2a–c); [[defecation-disorders\|Dyssynergic defecation]] (F3); **Anorectal sensory dysfunction** (F4, *new*): rectal hyposensitivity (F4a), rectal hypersensitivity (F4b) |
 
 ### Pediatric DGBI (Categories G–H)
@@ -85,7 +85,7 @@ Designed for clinical practice. More inclusive than research criteria.
 | Frequency | Lower than research threshold is permitted |
 | Duration | 8 weeks suggested (not 6 months); exceptions: organic disease excluded, or infrequent-episode disorders (CVS, proctalgia fugax) |
 
-**Clinical implication:** Approximately 25% of the population has bothersome GI symptoms but does not meet full Rome research criteria — these patients have poor QoL, high anxiety/depression scores, and significant healthcare utilization. The Rome Clinical Criteria are designed to capture this group.
+**Clinical implication:** Approximately 25% of the population has bothersome GI symptoms but does not meet full Rome research criteria — these patients have poor quality of life (QoL), high anxiety/depression scores, and significant healthcare utilization. The Rome Clinical Criteria are designed to capture this group.
 
 ---
 
@@ -97,7 +97,7 @@ The central conceptual framework for DGBI. Factors operate bidirectionally:
 flowchart TD
     A["Early life factors<br/>genetics, culture, trauma,<br/>infection, parental behaviors"] --> B["Psychosocial factors<br/>stress, personality,<br/>coping, social support"]
     A --> C["Gut physiology<br/>motility, visceral hypersensitivity,<br/>immune / microbiome / diet"]
-    B <--> D["Brain-gut axis<br/>CNS and ENS"]
+    B <--> D["Brain-gut axis<br/>CNS and enteric nervous system (ENS)"]
     C <--> D
     B <--> C
     D --> E["DGBI clinical presentation<br/>symptoms, severity,<br/>comorbidity, behaviors"]
@@ -123,7 +123,7 @@ The neuroanatomic substrate connecting CNS (brain, spinal cord) and ENS (myenter
 
 **Pain regulation:** Brain nuclei (anterior cingulate cortex, amygdala, parabrachial nucleus, locus coeruleus) modify incoming visceral pain via descending modulation (gate control mechanism). In DGBI, down-regulation is impaired → lowered pain threshold.
 
-**Key neurotransmitters:** Serotonin and noradrenaline — targets for neuromodulator treatment (TCAs, SNRIs).
+**Key neurotransmitters:** Serotonin and noradrenaline — targets for neuromodulator treatment (tricyclic antidepressants [TCAs], serotonin-norepinephrine reuptake inhibitors [SNRIs]).
 
 **Physiological mechanisms in DGBI:**
 
@@ -139,8 +139,8 @@ The neuroanatomic substrate connecting CNS (brain, spinal cord) and ENS (myenter
 
 | Feature | Mild (~40%) | Moderate (~35%) | Severe (~25%) |
 |---|---|---|---|
-| FBDSI | <36 | 36–109 | >109 |
-| IBS-SSS | 75–175 | 176–300 | >300 |
+| Functional Bowel Disorder Severity Scale (FBDSI) | <36 | 36–109 | >109 |
+| IBS Symptom Severity Scale (IBS-SSS) | 75–175 | 176–300 | >300 |
 | Physiology | Primarily bowel dysfunction | Bowel + CNS dysregulation | Primarily CNS dysregulation |
 | Psychosocial | None or mild distress | Moderate distress | Severe distress, comorbidity, catastrophizing, trauma |
 | Pain | Mild/intermittent | Moderate, frequent | Severe/very frequent |
@@ -164,12 +164,12 @@ Severity-guided biopsychosocial approach:
 
 - Symptom diary (1–3 weeks) to identify dietary/lifestyle/stress triggers
 - Pharmacotherapy directed at predominant symptoms (antispasmodics, [[loperamide]] acutely; secretagogues, neuromodulators continuously)
-- Brain–gut behavioral treatments: CBT, hypnosis, mindfulness
+- Brain–gut behavioral treatments: cognitive behavioral therapy (CBT), hypnosis, mindfulness
 
 **Severe:**
 
 - Ongoing therapeutic relationship; realistic treatment goals (improved QoL, not cure)
-- Central neuromodulators: TCAs (pain + depression), SNRIs; SSRIs ancillary (anxiety/depression but less effective for pain)
+- Central neuromodulators: TCAs (pain + depression), SNRIs; selective serotonin reuptake inhibitors (SSRIs) ancillary (anxiety/depression but less effective for pain)
 - Multidisciplinary DGBI treatment center referral
 
 **Brain–gut behavioral treatments (all severities):**
@@ -190,7 +190,7 @@ Severity-guided biopsychosocial approach:
 | IBS criteria | ≥1 day/week abdominal pain; 6-month duration; no discomfort | ≥3 days/month; "not continuous" criterion added; discomfort re-added |
 | Clinical criteria | Not formalized | Rome Clinical Criteria introduced (8-wk duration, bother-someness) |
 | Pediatric classification | Age-based (neonate/toddler vs. child/adolescent) | Anatomically based (upper vs. lower DGBI) |
-| Dyssynergic defecation | ≥2 abnormal tests required | Only 1 of 3 tests required; EMG dropped |
+| Dyssynergic defecation | ≥2 abnormal tests required | Only 1 of 3 tests required; electromyography (EMG) dropped |
 | Gallbladder disorder | Cholescintigraphy recommended | Cholescintigraphy no longer required; watchful waiting preferred |
 | SOD criteria | Sphincter manometry included | Manometry dropped (poor sensitivity/reproducibility) |
 | CAPS | Single category | Two subcategories: A (not associated with physiological events) and B (modified by physiological events but pain remains continuous) |

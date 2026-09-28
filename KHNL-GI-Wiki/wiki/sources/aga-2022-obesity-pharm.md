@@ -15,13 +15,13 @@ sources: []
 - **Year:** 2022
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
 - **DOI:** [10.1053/j.gastro.2022.08.045](https://doi.org/10.1053/j.gastro.2022.08.045)
-- **Type:** GRADE-based guideline
+- **Type:** Grading of Recommendations Assessment, Development and Evaluation (GRADE)-based guideline
 
 ---
 
 ## Summary
 
-This guideline recommends **adding pharmacotherapy to lifestyle intervention** for adults with obesity and ranks available agents by efficacy and certainty. It strongly endorses combining drugs with lifestyle change.
+This American Gastroenterological Association (AGA) guideline recommends **adding pharmacotherapy to lifestyle intervention** for adults with obesity and ranks available agents by efficacy and certainty. It strongly endorses combining drugs with lifestyle change.
 
 ---
 
@@ -30,14 +30,14 @@ This guideline recommends **adding pharmacotherapy to lifestyle intervention** f
 Table 1 — AGA Recommendations on Pharmacological Interventions for Management of Obesity (verbatim, with the guideline's own Implementation Considerations).
 
 **1.** In adults with obesity or overweight with weight-related complications, who have had an inadequate response to lifestyle interventions, the AGA **recommends adding pharmacological agents to lifestyle interventions over continuing lifestyle interventions alone**. *(Strong recommendation, moderate quality of evidence.)*
-> *Implementation considerations:* AOMs generally need to be used chronically, and the selection of the medication or intervention should be based on the clinical profile and needs of the patient, including, but not limited to, comorbidities, patients' preferences, costs, and access to the therapy.
+> *Implementation considerations:* AOMs [anti-obesity medications] generally need to be used chronically, and the selection of the medication or intervention should be based on the clinical profile and needs of the patient, including, but not limited to, comorbidities, patients' preferences, costs, and access to the therapy.
 
 **2.** In adults with obesity or overweight with weight-related complications, the AGA **suggests using [[semaglutide]] 2.4 mg with lifestyle modifications**, compared with lifestyle modifications alone. *(Conditional recommendation, moderate quality of evidence.)*
 > *Implementation considerations:*
 > - Given the magnitude of net benefit, semaglutide 2.4 mg may be prioritized over other approved AOMs for the long-term treatment of obesity for most patients.
-> - Semaglutide has glucoregulatory benefits and is also approved for the treatment of T2DM.
+> - Semaglutide has glucoregulatory benefits and is also approved for the treatment of T2DM [type 2 diabetes mellitus].
 > - Semaglutide may delay gastric emptying with adverse effects of nausea and vomiting. Gradual dose titration may help mitigate these adverse effects.
-> - GLP-1 RAs have been associated with increased risk of pancreatitis and gallbladder disease.
+> - GLP-1 RAs [glucagon-like peptide-1 receptor agonists] have been associated with increased risk of pancreatitis and gallbladder disease.
 
 **3.** In adults with obesity or overweight with weight-related complications, the AGA **suggests using liraglutide 3.0 mg with lifestyle modifications**, compared with lifestyle modifications alone. *(Conditional recommendation, moderate quality of evidence.)*
 > *Implementation considerations:*
@@ -45,7 +45,7 @@ Table 1 — AGA Recommendations on Pharmacological Interventions for Management 
 > - Liraglutide may delay gastric emptying with adverse effects of nausea and vomiting. Gradual dose titration may help mitigate these adverse effects.
 > - Liraglutide has been associated with an increased risk of pancreatitis and gallbladder disease.
 
-**4.** In adults with obesity or overweight with weight-related complications, the AGA **suggests using phentermine-topiramate ER with lifestyle modifications**, compared with lifestyle modifications alone. *(Conditional recommendation, moderate quality of evidence.)*
+**4.** In adults with obesity or overweight with weight-related complications, the AGA **suggests using phentermine-topiramate ER [extended release] with lifestyle modifications**, compared with lifestyle modifications alone. *(Conditional recommendation, moderate quality of evidence.)*
 > *Implementation considerations:*
 > - Because topiramate is effective for treating migraine headaches, phentermine-topiramate ER may be preferentially used in patients with comorbid migraines.
 > - Phentermine-topiramate ER should be avoided in patients with a history of cardiovascular disease and uncontrolled hypertension.
@@ -60,7 +60,7 @@ Table 1 — AGA Recommendations on Pharmacological Interventions for Management 
 > - Blood pressure and heart rate should be monitored periodically while taking naltrexone-bupropion ER, especially in the first 12 weeks of treatment.
 
 **6.** In adults with obesity or overweight with weight-related complications, AGA **suggests against the use of orlistat**. *(Conditional recommendation, moderate quality of evidence.)*
-> *Comment:* Patients who place a high value on the potential small weight loss benefit and low value on GI adverse effects may reasonably choose treatment with orlistat.
+> *Comment:* Patients who place a high value on the potential small weight loss benefit and low value on GI [gastrointestinal] adverse effects may reasonably choose treatment with orlistat.
 
 **7.** In adults with obesity or overweight with weight-related complications, the AGA **suggests using phentermine with lifestyle modifications**, compared with lifestyle modifications alone. *(Conditional recommendation, low quality of evidence.)*
 > *Implementation considerations:*
@@ -74,13 +74,13 @@ Table 1 — AGA Recommendations on Pharmacological Interventions for Management 
 > - Diethylpropion should be avoided in patients with a history of cardiovascular disease.
 > - Blood pressure and heart rate should be monitored periodically while taking diethylpropion.
 
-**9.** In adults with BMI between 25 and 40 kg/m², the AGA **recommends using Gelesis100 oral superabsorbent hydrogel only in the context of a clinical trial**. *(No recommendation — knowledge gap.)*
+**9.** In adults with BMI [body mass index] between 25 and 40 kg/m², the AGA **recommends using Gelesis100 oral superabsorbent hydrogel only in the context of a clinical trial**. *(No recommendation — knowledge gap.)*
 
 ---
 
 ## Clinical Relevance
 
-Establishes drug therapy as standard adjunct to lifestyle, with **[[semaglutide]] 2.4 mg** the most effective option (tirzepatide post-dates this guideline). Anchors the vault's GLP-1 med note and connects to metabolic liver disease in [[nafld-masld]].
+Establishes drug therapy as standard adjunct to lifestyle, with **[[semaglutide]] 2.4 mg** the most effective option (tirzepatide post-dates this guideline). Anchors the vault's GLP-1 med note and connects to metabolic liver disease in [[nafld-masld|nonalcoholic fatty liver disease (NAFLD)/metabolic dysfunction–associated steatotic liver disease (MASLD)]].
 
 ---
 

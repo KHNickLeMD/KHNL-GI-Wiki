@@ -17,9 +17,9 @@ sources: []
 
 ## Summary
 
-AGA Expert Review on diagnosis and management of gastric mucosal polyps — raised epithelial lesions arising from mucosal hyperplasia, adenoma, fundic gland proliferation, or enterochromaffin-like cell proliferation. Complements the AGA guidance on [[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], high-quality upper endoscopy, and gastric cancer screening/surveillance.
+American Gastroenterological Association (AGA) Expert Review on diagnosis and management of gastric mucosal polyps — raised epithelial lesions arising from mucosal hyperplasia, adenoma, fundic gland proliferation, or enterochromaffin-like cell proliferation. Complements the AGA guidance on [[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], high-quality upper endoscopy, and gastric cancer screening/surveillance.
 
-Histologic subtypes: **fundic gland polyps (FGPs)**, **gastric hyperplastic polyps (GHPs)**, hamartomatous polyps, **gastric adenomas (GAs)**, pyloric gland adenomas, oxyntic gland adenomas, and **gastric neuroendocrine tumors (G-NETs)**. In the West most are FGPs or GHPs (70%–94%); subtypes have shifted toward sporadic FGPs as H pylori prevalence has fallen. Key principle: evaluate both the polyp **and** the surrounding/background mucosa (H pylori gastritis, autoimmune/atrophic gastritis, GIM), because field changes drive risk and surveillance. Test/treat H pylori for adenomatous or hyperplastic polyps; PPIs need not be stopped for FGPs. Resect the largest polyps; surveillance is keyed to polyp histology and background mucosa.
+Histologic subtypes: **fundic gland polyps (FGPs)**, **gastric hyperplastic polyps (GHPs)**, hamartomatous polyps, **gastric adenomas (GAs)**, pyloric gland adenomas, oxyntic gland adenomas, and **gastric neuroendocrine tumors (G-NETs)**. In the West most are FGPs or GHPs (70%–94%); subtypes have shifted toward sporadic FGPs as *Helicobacter pylori* (H pylori) prevalence has fallen. Key principle: evaluate both the polyp **and** the surrounding/background mucosa (H pylori gastritis, autoimmune/atrophic gastritis, gastric intestinal metaplasia [GIM]), because field changes drive risk and surveillance. Test/treat H pylori for adenomatous or hyperplastic polyps; proton pump inhibitors (PPIs) need not be stopped for FGPs. Resect the largest polyps; surveillance is keyed to polyp histology and background mucosa.
 
 14 Best Practice Advice statements (no formal ratings).
 
@@ -44,7 +44,7 @@ Histologic subtypes: **fundic gland polyps (FGPs)**, **gastric hyperplastic poly
 
 **Natural history / epidemiology:**
 - Prevalence of gastric polyps ~6.35% of biopsied endoscopies; ~70%–94% are FGPs or GHPs in the West; multiple types coexist in 2%–3%.
-- **FGP:** body, often multiple, <1 cm, glassy; PPI-associated/sporadic, or FAP/GAPPS. Dysplasia <1% sporadic; 25%–48% in FAP-associated; high in GAPPS. Higher risk with mucosal "carpeting" or polyps >1 cm.
+- **FGP:** body, often multiple, <1 cm, glassy; PPI-associated/sporadic, or familial adenomatous polyposis (FAP)/gastric adenocarcinoma and proximal polyposis of the stomach (GAPPS). Dysplasia <1% sporadic; 25%–48% in FAP-associated; high in GAPPS. Higher risk with mucosal "carpeting" or polyps >1 cm.
 - **GHP:** dysplasia ~4%; malignant transformation 0.8%–10% (higher if >2 cm); surrounding mucosa may harbor more dysplasia than the polyp.
 - **GA:** intestinal-type (56%) and foveolar-type (41%) most common; precursors of adenocarcinoma; risk rises with size (esp. >20 mm). Foveolar "raspberry-like" GAs in H pylori-naïve stomach have very low malignant risk.
 - **Pyloric gland adenomas:** high-grade dysplasia up to 42%, adenocarcinoma 12%–47%; risk with larger size, tubulo-villous architecture, autoimmune gastritis.

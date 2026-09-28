@@ -7,7 +7,7 @@ updated: 2026-09-08
 sources: [aga-2024-diet-nutrition-ibd]
 ---
 
-Framework for diet and nutritional therapy across the [[inflammatory-bowel-disease|IBD]] spectrum — background/maintenance diet, enteral therapies for active [[crohns-disease]], parenteral nutrition for intestinal failure, and malnutrition screening. Home page for the [[aga-2024-diet-nutrition-ibd|AGA 2024 CPU on Diet and Nutritional Therapies in IBD]]; disease scripts link here rather than reproducing this content.
+Framework for diet and nutritional therapy across the [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] spectrum — background/maintenance diet, enteral therapies for active [[crohns-disease]], parenteral nutrition for intestinal failure, and malnutrition screening. Home page for the [[aga-2024-diet-nutrition-ibd|American Gastroenterological Association (AGA) 2024 Clinical Practice Update (CPU) on Diet and Nutritional Therapies in IBD]]; disease scripts link here rather than reproducing this content.
 
 ## Contents
 - [[#Diet by Clinical State]]
@@ -28,20 +28,20 @@ Framework for diet and nutritional therapy across the [[inflammatory-bowel-disea
 | State | Approach |
 |---|---|
 | Remission / mild symptoms | Mediterranean diet; reintroduce fiber & produce (soluble preferred); no fiber restriction unless stricture |
-| Symptomatic flare | Short-term reduced-fiber, low-residue ± low-FODMAP; return to Mediterranean once symptoms resolve |
+| Symptomatic flare | Short-term reduced-fiber, low-residue ± low-FODMAP (fermentable oligo-, di-, and monosaccharides and polyols); return to Mediterranean once symptoms resolve |
 | Symptomatic stricture | Texture modification — cook/blend/chew produce to soft consistency (applesauce vs raw apple) |
-| Active CD (induction) | [[#EEN]] (steroid-sparing bridge) or [[#CDED (Partial Enteral Nutrition)]] |
+| Active Crohn's disease (CD) (induction) | Exclusive enteral nutrition ([[#EEN]]; steroid-sparing bridge) or Crohn's disease exclusion diet ([[#CDED (Partial Enteral Nutrition)]]) |
 | Pre-op malnourished CD | Preoperative EEN ("prehabilitation") to reduce postoperative complications |
-| Intestinal failure / SBS / high-output fistula | [[#Parenteral Nutrition & Short Bowel Syndrome]] |
+| Intestinal failure / short bowel syndrome (SBS) / high-output fistula | [[#Parenteral Nutrition & Short Bowel Syndrome]] |
 
 *Best practice advice per [[aga-2024-diet-nutrition-ibd]].*
 
 ## Background / Maintenance Diet
 - **Mediterranean diet** for almost all patients: fresh fruit/vegetables, monounsaturated fats, complex carbohydrates, lean protein; **low in ultraprocessed foods, added sugar, salt**. Benefits overall health (CV, metabolic) and may improve symptoms/microbiome.
-- **No diet consistently lowers adult flare rate.** Low red/processed meat may reduce **UC** flares (not CD relapse).
+- **No diet consistently lowers adult flare rate.** Low red/processed meat may reduce **ulcerative colitis (UC)** flares (not CD relapse).
 - Sugar-sweetened beverages and high ultraprocessed-food intake → higher etiopathogenic risk and worse course (CD strongest association).
 - **No** gluten avoidance absent [[celiac-disease|celiac disease]]/gluten sensitivity.
-- **Low-FODMAP:** improves [[irritable-bowel-syndrome|IBS]]-like symptoms but depletes butyrate-producing microbiota → **short-term flare use only**.
+- **Low-FODMAP:** improves [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]]-like symptoms but depletes butyrate-producing microbiota → **short-term flare use only**.
 - Breastfeeding (esp. ≥12 mo) associated with lower childhood IBD risk.
 
 ### Diets Studied in IBD
@@ -51,7 +51,7 @@ Framework for diet and nutritional therapy across the [[inflammatory-bowel-disea
 | Mediterranean | Plant-focused; fats from fish, olive oil, nuts, seeds; lean protein; low red meat | ≈ specific carbohydrate diet in DINE-CD (Lewis 2021) for mild–moderate CD; aligns with moderate–high fiber in remission |
 | Specific carbohydrate diet | Grain-free, low sugar/lactose; restricts hard-to-digest carbohydrates | Challenging to follow; limited large-scale evidence; ≈ Mediterranean efficacy in DINE-CD |
 | Low-FODMAP | Elimination-rechallenge; limits fermentable oligo-/di-/monosaccharides & polyols ×up to 8 wk then reintroduce | For concomitant IBS-like symptoms; not long-term |
-| CDED | Whole-foods diet limiting microbiome-/barrier-adverse foods; 3 phases × 6 wk + partial EN | Mild–moderate CD, short flare duration; allows some solids (vs 100% liquid EEN) → better compliance |
+| CDED | Whole-foods diet limiting microbiome-/barrier-adverse foods; 3 phases × 6 wk + partial enteral nutrition (EN) | Mild–moderate CD, short flare duration; allows some solids (vs 100% liquid EEN) → better compliance |
 
 ## Enteral Nutrition Therapies (Crohn's)
 
@@ -66,26 +66,26 @@ Framework for diet and nutritional therapy across the [[inflammatory-bowel-disea
 - In children: **better tolerated than EEN and equally effective** at wk-6 remission; 1–2 wk EEN → CDED ≈ EEN alone; may salvage biologic loss-of-response.
 
 ### Preoperative EEN
-- In **malnourished CD** before elective surgery: optimizes nutrition and **reduces postoperative complications** (anastomotic leak, abscess, SSI, ileus, unplanned stoma, reoperation) — "prehabilitation."
+- In **malnourished CD** before elective surgery: optimizes nutrition and **reduces postoperative complications** (anastomotic leak, abscess, surgical site infection (SSI), ileus, unplanned stoma, reoperation) — "prehabilitation."
 - Oral EEN when feasible; [[enteral-access|enteral access device]] for severe malnutrition/elemental feeds.
 - Data on EN in active **UC** limited (safe, may improve prealbumin in severe flares).
 
 ## Parenteral Nutrition & Short Bowel Syndrome
-- **EN preferred over PN** whenever the gut is usable (maintains integrity, feeds microbiota, fewer infections).
-- **PN indications:** intestinal failure; high-output GI fistula; prolonged ileus; [[short-bowel-syndrome|short bowel syndrome]]; severe malnutrition when oral/EN fails or enteral access not feasible/contraindicated; intra-abdominal abscess/phlegmon needing preoperative bowel rest.
-- **PN thresholds:** high-output fistula **>500 mL/24 h**; [[ostomy-management|high ostomy output]] **>2000 mL/24 h**; inability to maintain **>60%** of energy/protein goals orally/EN for **7–10 d**; NPO **≥7 d** before surgery.
-- **Short bowel syndrome (SBS):** intestinal adaptation over **1–2 yr**; ~**50% of adults, 73% of children** wean off PN. Transition long-term PN → customized hydration (IV electrolytes and/or oral rehydration solutions) + oral intake; "dry meals" (separate liquids from solids). **[[glp-2-agonists|GLP-2 agonists]]** (eg, teduglutide) enhance villous adaptation and facilitate PN weaning. Long-term PN risks: central line–associated bloodstream infection, thrombosis, PN-associated liver disease.
+- **EN preferred over parenteral nutrition (PN)** whenever the gut is usable (maintains integrity, feeds microbiota, fewer infections).
+- **PN indications:** intestinal failure; high-output gastrointestinal (GI) fistula; prolonged ileus; [[short-bowel-syndrome|SBS]]; severe malnutrition when oral/EN fails or enteral access not feasible/contraindicated; intra-abdominal abscess/phlegmon needing preoperative bowel rest.
+- **PN thresholds:** high-output fistula **>500 mL/24 h**; [[ostomy-management|high ostomy output]] **>2000 mL/24 h**; inability to maintain **>60%** of energy/protein goals orally/EN for **7–10 d**; nil per os (NPO) **≥7 d** before surgery.
+- **SBS:** intestinal adaptation over **1–2 yr**; ~**50% of adults, 73% of children** wean off PN. Transition long-term PN → customized hydration (intravenous [IV] electrolytes and/or oral rehydration solutions) + oral intake; "dry meals" (separate liquids from solids). **[[glp-2-agonists|glucagon-like peptide-2 (GLP-2) agonists]]** (eg, teduglutide) enhance villous adaptation and facilitate PN weaning. Long-term PN risks: central line–associated bloodstream infection, thrombosis, PN-associated liver disease.
 
 ## Malnutrition Screening
-- **Screen all IBD patients** (at diagnosis and routinely): unintended weight loss, edema/fluid retention, fat and muscle mass loss → RD evaluation if positive.
+- **Screen all IBD patients** (at diagnosis and routinely): unintended weight loss, edema/fluid retention, fat and muscle mass loss → registered dietitian (RD) evaluation if positive.
 - **Serum proteins ([[albumin]]) no longer used** to diagnose malnutrition — nonspecific, inflammation-sensitive. (Hypoalbuminemia still flags surgical-complication and anti-TNF non-response risk.)
-- **Diagnosis:** ≥2 of — clinically significant weight loss, reduced energy intake, loss of lean mass, loss of subcutaneous fat, fluid accumulation, diminished grip strength. Also **GLIM** and **ESPEN** (BMI <18.5 kg/m²) criteria; validated **abridged PG-SGA** IBD tool. Generic inpatient screening tools (NRS-2002, MUST) and their cutoffs live on [[nutrition-in-hospitalized-patients]].
-- Malnutrition ~5.57× more likely in IBD inpatients vs non-IBD; 16% outpatient prevalence (>½ CD). Associated with more ED visits, hospitalizations, nonelective surgery, higher mortality, poorer therapy response.
+- **Diagnosis:** ≥2 of — clinically significant weight loss, reduced energy intake, loss of lean mass, loss of subcutaneous fat, fluid accumulation, diminished grip strength. Also **Global Leadership Initiative on Malnutrition (GLIM)** and **European Society for Parenteral and Enteral Nutrition (ESPEN)** (body mass index [BMI] <18.5 kg/m²) criteria; validated **abridged patient-generated subjective global assessment (PG-SGA)** IBD tool. Generic inpatient screening tools (Nutritional Risk Screening 2002 [NRS-2002], Malnutrition Universal Screening Tool [MUST]) and their cutoffs live on [[nutrition-in-hospitalized-patients]].
+- Malnutrition ~5.57× more likely in IBD inpatients vs non-IBD; 16% outpatient prevalence (>½ CD). Associated with more emergency department (ED) visits, hospitalizations, nonelective surgery, higher mortality, poorer therapy response.
 - **RD co-management** for complicated IBD (malnutrition, SBS, enterocutaneous fistula, complex nutrition therapy, CDED); access to an RD for all newly diagnosed patients.
 
 ## Micronutrient Monitoring
-- **Vitamin D and [[iron-deficiency-anemia|iron]]** — monitor all patients (bone-densitometry indications for the vitamin-D/steroid-exposed IBD patient are on [[ibd-preventive-care]]). Iron: CBC + ferritin + transferrin saturation + CRP; q6–12 mo in remission/mild, **q3 mo** if active. IV iron faster/better tolerated than oral; oral reasonable in mild/inactive disease.
-- **Vitamin B12** — monitor with extensive ileal disease or prior ileal surgery (resection >30 cm or ileoanal pouch); replete **1000 µg IM/SC q1–4 wk for life** (IM = faster uptake; SC = more comfortable and self-administrable; both preferred over sublingual for long-term repletion).
+- **Vitamin D and [[iron-deficiency-anemia|iron]]** — monitor all patients (bone-densitometry indications for the vitamin-D/steroid-exposed IBD patient are on [[ibd-preventive-care]]). Iron: complete blood count (CBC) + ferritin + transferrin saturation + C-reactive protein (CRP); q6–12 mo in remission/mild, **q3 mo** if active. IV iron faster/better tolerated than oral; oral reasonable in mild/inactive disease.
+- **Vitamin B12** — monitor with extensive ileal disease or prior ileal surgery (resection >30 cm or ileoanal pouch); replete **1000 µg intramuscular (IM)/subcutaneous (SC) q1–4 wk for life** (IM = faster uptake; SC = more comfortable and self-administrable; both preferred over sublingual for long-term repletion).
   - *Unit note: [[aga-2024-diet-nutrition-ibd|AGA 2024]] prints this as "1000 mg of vitamin B12" — a typo in the source. Cyanocobalamin injections are dosed in **µg**; the value 1000 and the interval are unchanged.*
 - Also consider zinc, copper, folate (esp. on methotrexate/[[mesalamine-5-asa|sulfasalazine]]), fat-soluble vitamins; many are acute-phase reactants — recheck in quiescent disease.
 

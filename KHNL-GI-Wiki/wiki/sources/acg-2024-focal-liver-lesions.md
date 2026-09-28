@@ -18,17 +18,17 @@ sources: []
 
 ## Summary
 
-This ACG guideline addresses the characterization and management of incidentally discovered focal liver lesions (FLLs), which have become increasingly common due to widespread use of cross-sectional imaging. It provides condition-specific algorithms for benign liver lesions ([[hepatic-hemangioma|hemangioma]], [[focal-nodular-hyperplasia|FNH]], [[hepatocellular-adenoma|HCA]], [[hepatic-cysts|hepatic cysts]]) and addresses [[hcc-surveillance|HCC surveillance]] and the [[li-rads|LI-RADS]] classification framework.
+This American College of Gastroenterology (ACG) guideline addresses the characterization and management of incidentally discovered focal liver lesions (FLLs), which have become increasingly common due to widespread use of cross-sectional imaging. It provides condition-specific algorithms for benign liver lesions ([[hepatic-hemangioma|hemangioma]], [[focal-nodular-hyperplasia|focal nodular hyperplasia (FNH)]], [[hepatocellular-adenoma|hepatocellular adenoma (HCA)]], [[hepatic-cysts|hepatic cysts]]) and addresses [[hcc-surveillance|hepatocellular carcinoma (HCC) surveillance]] and the [[li-rads|Liver Imaging Reporting and Data System (LI-RADS)]] classification framework.
 
-The guideline emphasizes that most incidentally found liver lesions in patients without known liver disease are benign, and that MRI (particularly with hepatobiliary contrast agents such as gadoxetate disodium) is the modality of choice for characterization when ultrasound or CT are indeterminate. Contrast-enhanced ultrasound (CEUS) is a valid alternative.
+The guideline emphasizes that most incidentally found liver lesions in patients without known liver disease are benign, and that magnetic resonance imaging (MRI) (particularly with hepatobiliary contrast agents such as gadoxetate disodium) is the modality of choice for characterization when ultrasound or computed tomography (CT) are indeterminate. Contrast-enhanced ultrasound (CEUS) is a valid alternative.
 
-Hepatocellular adenoma (HCA) carries the highest management stakes: it has four molecular subtypes with different bleeding and malignant transformation risks, and management decisions (resection vs. surveillance) are driven by size, sex, and subtype. FNH has no malignant potential and requires no follow-up once confirmed. Hemangiomas and simple hepatic cysts are benign with no intervention needed in most cases.
+HCA carries the highest management stakes: it has four molecular subtypes with different bleeding and malignant transformation risks, and management decisions (resection vs. surveillance) are driven by size, sex, and subtype. FNH has no malignant potential and requires no follow-up once confirmed. Hemangiomas and simple hepatic cysts are benign with no intervention needed in most cases.
 
 ## Key Findings / Claims
 
 **Imaging approach:**
 
-- MRI with hepatobiliary contrast agent (gadoxetate): preferred for FLL characterization when CT/US is indeterminate
+- MRI with hepatobiliary contrast agent (gadoxetate): preferred for FLL characterization when CT/ultrasound (US) is indeterminate
 - CEUS: valid alternative to MRI; avoids ionizing radiation; good for real-time characterization
 - CT: useful but inferior to MRI for hepatocellular lesion characterization
 
@@ -42,33 +42,33 @@ Hepatocellular adenoma (HCA) carries the highest management stakes: it has four 
 - Biopsy generally avoided (high vascularity)
 - Resection/embolization for symptomatic giant hemangiomas
 
-**Focal Nodular Hyperplasia (FNH):**
+**FNH:**
 
 - Second most common benign liver lesion
 - Hyperplastic response to aberrant arterial supply (not a true neoplasm)
 - Central scar with spoke-wheel vascularity; uptake on gadoxetate hepatobiliary phase
 - No malignant potential; no bleed risk
 - No follow-up needed once definitively characterized
-- OCP use does not increase FNH risk (unlike HCA)
+- Oral contraceptive pill (OCP) use does not increase FNH risk (unlike HCA)
 - Resect only if symptomatic
 
-**Hepatocellular Adenoma (HCA):**
+**HCA:**
 
 - Molecular subtypes and their frequencies *(Table 4)*:
-  1. **Inflammatory** (~35%–45%): activated JAK/STAT; elevated alkaline phosphatase, CRP ± fibrinogen. Risk factors — moderate estrogen association, obesity, hepatic steatosis, excess alcohol, glycogen storage disease
-  2. **HNF-1α-inactivated** (~35%–40%): steatotic on imaging; associated with MODY3
-  3. **β-catenin activated** (exon 3 **~10%**, male predominant; CTNNB1 exon 7/8 **<10%**): highest malignant-transformation risk — **resect regardless of size** *(KC 11)*. Risk factors — strong estrogen association, androgen/anabolic steroid use, glycogen storage disease
+  1. **Inflammatory** (~35%–45%): activated JAK/STAT; elevated alkaline phosphatase, C-reactive protein (CRP) ± fibrinogen. Risk factors — moderate estrogen association, obesity, hepatic steatosis, excess alcohol, glycogen storage disease
+  2. **HNF-1α-inactivated** (~35%–40%): steatotic on imaging; associated with maturity-onset diabetes of the young type 3 (MODY3)
+  3. **β-catenin activated** (exon 3 **~10%**, male predominant; CTNNB1 exon 7/8 **<10%**): highest malignant-transformation risk — **resect regardless of size** *(key concept [KC] 11)*. Risk factors — strong estrogen association, androgen/anabolic steroid use, glycogen storage disease
   4. **Sonic hedgehog** (**<5%**): INHBE/GLI1 fusion; exogenous hormonal stimuli and obesity
 - **MRI subtyping is only partly reliable** — useful for inflammatory and HNF-1α subtypes, **not specific** for β-catenin, sonic hedgehog, or unclassified adenomas *(KC 9)*
 - Management:
   - **Women, HCA <5 cm:** discontinue exogenous hormones + advise weight loss if overweight/obese *(Rec 5)*; surveillance with contrast-enhanced imaging **every 6 months for 2 years, then annually thereafter** *(Rec 6)*
   - **Women, HCA ≥5 cm:** modify risk factors, **observe 6–12 months**, and **resect if the lesion does not regress to <5 cm** *(KC 13)*
   - **Men:** surgical resection **regardless of lesion size** (commonly β-catenin mutated, elevated malignant transformation risk) *(KC 12, KC 14)*
-  - Growth during surveillance ≥20% (extrapolated from RECIST) → consider resection or definitive treatment
+  - Growth during surveillance ≥20% (extrapolated from Response Evaluation Criteria in Solid Tumors [RECIST]) → consider resection or definitive treatment
   - Unable to undergo resection → **embolization or ablation** as alternatives *(Rec 7)*
   - Any size with imaging concerning for malignant transformation → treat as HCC *(KC 16)*
-  - **Hepatic adenomatosis** = **≥10 adenomas** *(KC 17)*; liver transplantation for those meeting OPTN policy *(KC 18)*
-  - After resection/embolization/ablation → continue surveillance imaging **q6–12 months** (frequency and duration not well established)
+  - **Hepatic adenomatosis** = **≥10 adenomas** *(KC 17)*; liver transplantation for those meeting Organ Procurement and Transplantation Network (OPTN) policy *(KC 18)*
+  - After resection/embolization/ablation → continue surveillance imaging **every 6–12 months** (frequency and duration not well established)
 - **Pregnancy** *(KC 15)* — monitor regularly; **treat if growth to >6.5 cm or high-risk features for hemorrhagic rupture** (e.g. exophytic):
   - Repeat **ultrasound every 6–12 weeks** is a recommended strategy; greatest complication risk is the **third trimester**
   - **<5 cm, nonexophytic, no growth → safely monitored**; does not affect mode of delivery
@@ -81,11 +81,11 @@ Hepatocellular adenoma (HCA) carries the highest management stakes: it has four 
 - Simple cysts: thin-walled, anechoic, no septa, no solid component; no malignant potential; no follow-up
 - Complex cysts (septa, mural nodularity): need MRI characterization to exclude cystic neoplasm (mucinous cystadenoma/cystadenocarcinoma)
 - Symptomatic large cysts: aspiration-sclerotherapy or laparoscopic fenestration
-- Polycystic liver disease: associated with ADPKD; symptomatic management
+- Polycystic liver disease: associated with autosomal dominant polycystic kidney disease (ADPKD); symptomatic management
 
 **HCC Surveillance:**
 
-- Cirrhosis (any etiology): 6-month liver ultrasound ± AFP
+- Cirrhosis (any etiology): 6-month liver ultrasound ± alpha-fetoprotein (AFP)
 - LI-RADS classification: LR-1 (definitely benign) to LR-5 (definitely [[hepatocellular-carcinoma|HCC]]); LR-M (probably/possibly malignant, not HCC-specific)
 - LR-5 criteria: ≥1 cm nodule with arterial phase hyperenhancement (APHE) + washout appearance ± capsule ± threshold growth
 
@@ -100,10 +100,10 @@ Hepatocellular adenoma (HCA) carries the highest management stakes: it has four 
 | <3 cm, asymptomatic, characteristic imaging: no follow-up needed | Strong | Moderate |
 | 3–10 cm or atypical imaging: follow-up ultrasound at 6–12 months | Conditional | Low |
 | Resection or embolization for symptomatic giant hemangiomas | Conditional | Low |
-| **Focal Nodular Hyperplasia (FNH)** | | |
+| **FNH** | | |
 | No follow-up needed once FNH is definitively characterized | Strong | Moderate |
 | Resect only if symptomatic | Conditional | Low |
-| **Hepatocellular Adenoma (HCA)** | | |
+| **HCA** | | |
 | **Rec 5** — In women with hepatic adenomas <5 cm, we suggest discontinuation of exogenous hormones and advise weight loss, if applicable, for overweight or obese individuals | Conditional | Very low |
 | **Rec 6** — In women with hepatic adenomas <5 cm, we suggest surveillance with contrast-enhanced imaging modalities **every 6 months for 2 years, then annually thereafter** | Conditional | Low |
 | **Rec 7** — In patients with hepatic adenomas requiring treatment who are unable to undergo surgical resection, we suggest embolization or ablation as alternative treatment approaches | Conditional | Low |
@@ -118,7 +118,7 @@ Hepatocellular adenoma (HCA) carries the highest management stakes: it has four 
 
 - Creates new disease-script pages: [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatic-cysts]]
 - Concept pages: [[li-rads]], [[hcc-surveillance]]
-- First focal liver lesion content in HPB disease-scripts
+- First focal liver lesion content in hepatopancreatobiliary (HPB) disease-scripts
 
 ## Contradictions / Open Questions
 

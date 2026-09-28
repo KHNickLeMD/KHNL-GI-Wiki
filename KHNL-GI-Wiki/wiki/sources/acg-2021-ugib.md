@@ -15,21 +15,21 @@ sources: []
 - **Journal:** American Journal of Gastroenterology
 - **Volume/Year:** 116:899–917, May 2021
 - **DOI:** [10.14309/ajg.0000000000001245](https://doi.org/10.14309/ajg.0000000000001245)
-- **Type:** Guideline (GRADE methodology)
-- **Literature search:** Database inception through October 2019 (EMBASE, Ovid MEDLINE, ISI Web of Science); RCTs and meta-analyses of RCTs preferred; observational studies only when RCTs unavailable
-- **Updates from:** ACG 2012 UGIB Guideline (Laine & Jensen)
+- **Type:** Guideline (Grading of Recommendations Assessment, Development and Evaluation [GRADE] methodology)
+- **Literature search:** Database inception through October 2019 (EMBASE, Ovid MEDLINE, ISI Web of Science); randomized controlled trials (RCTs) and meta-analyses of RCTs preferred; observational studies only when RCTs unavailable
+- **Updates from:** American College of Gastroenterology (ACG) 2012 upper gastrointestinal bleeding (UGIB) Guideline (Laine & Jensen)
 
 ---
 
 ## Summary
 
-A systematic-review-based ACG clinical practice guideline covering management of **overt upper gastrointestinal bleeding (UGIB)** — defined as hematemesis, melena, or hematochezia from a source in the esophagus, stomach, or duodenum. The guideline uses GRADE methodology and issues **16 numbered guideline statements** (Table 1) from initial risk stratification through endoscopic hemostasis and post-endoscopic management. Recommendations for endoscopic therapy and postendoscopic management are specifically restricted to **[[peptic-ulcer-disease|ulcer bleeding]]** (the most common etiology and the diagnosis with the most RCT data).
+A systematic-review-based ACG clinical practice guideline covering management of **overt UGIB** — defined as hematemesis, melena, or hematochezia from a source in the esophagus, stomach, or duodenum. The guideline uses GRADE methodology and issues **16 numbered guideline statements** (Table 1) from initial risk stratification through endoscopic hemostasis and post-endoscopic management. Recommendations for endoscopic therapy and postendoscopic management are specifically restricted to **[[peptic-ulcer-disease|ulcer bleeding]]** (the most common etiology and the diagnosis with the most RCT data).
 
 **Grading vocabulary (important — 14 of 16 statements are conditional).** "Strong" statements begin *"We recommend"*; "conditional" statements begin *"We suggest"*. Only statements 6, 8, 10, and 13 are strong; statements 4 and 7 are explicit **non-recommendations** ("we could not reach a recommendation") and carry **no strength and no evidence grade**. The panel notes that "may be considered" statements, which do not recommend for or against an action, are **no longer used** because guidelines should provide a recommended action.
 
-Key advances over the 2012 guideline include: (1) raising the GBS threshold for very-low-risk discharge from 0 to 0–1; (2) expanding high-dose post-endoscopic PPI beyond continuous IV infusion to include intermittent oral or IV dosing; (3) new statements for hemostatic powder spray TC-325, over-the-scope clips, APC, and soft monopolar electrocoagulation; (4) preferring transcatheter arterial embolization (TAE) over surgery for failed endoscopic therapy; and (5) **dropping** the 2012 suggestion that endoscopy within 12 hours "may be considered" in high-risk clinical features.
+Key advances over the 2012 guideline include: (1) raising the Glasgow-Blatchford Score (GBS) threshold for very-low-risk discharge from 0 to 0–1; (2) expanding high-dose post-endoscopic proton pump inhibitor (PPI) beyond continuous intravenous (IV) infusion to include intermittent oral or IV dosing; (3) new statements for hemostatic powder spray TC-325, over-the-scope clips, argon plasma coagulation (APC), and soft monopolar electrocoagulation; (4) preferring transcatheter arterial embolization (TAE) over surgery for failed endoscopic therapy; and (5) **dropping** the 2012 suggestion that endoscopy within 12 hours "may be considered" in high-risk clinical features.
 
-GI bleeding overall is the most common GI diagnosis necessitating hospitalization in the U.S., accounting for **over half a million admissions annually**; UGIB carries approximately **2% mortality** in current U.S. data. Nearly 80% of ED UGIB presentations are admitted with that principal diagnosis.
+Gastrointestinal (GI) bleeding overall is the most common GI diagnosis necessitating hospitalization in the U.S., accounting for **over half a million admissions annually**; UGIB carries approximately **2% mortality** in current U.S. data. Nearly 80% of emergency department (ED) UGIB presentations are admitted with that principal diagnosis.
 
 ---
 
@@ -38,20 +38,20 @@ GI bleeding overall is the most common GI diagnosis necessitating hospitalizatio
 ### Risk Stratification
 
 - **"Very low risk" is defined by false-negative rate, not by GBS itself**: a risk assessment score with a **≤1% false-negative rate** for the outcome of hospital-based intervention or death — *e.g.* GBS = 0–1. The panel included only GBS in the statement because it has been widely studied across settings; the 1% false-negative (99% sensitivity) threshold is offered as the benchmark for future tools
-- **Glasgow-Blatchford Score (GBS) 0–1**: sensitivity point estimates 99% (lower bound of 95% CI 97–98%) for the composite outcome of hospital-based intervention or death; 19–24% of UGIB patients qualify in two large multicenter studies. GBS = 0 gives 99–100% sensitivity (95% CI lower bound 98%) but qualifies only 8–22%
+- **GBS 0–1**: sensitivity point estimates 99% (lower bound of 95% confidence interval [CI] 97–98%) for the composite outcome of hospital-based intervention or death; 19–24% of UGIB patients qualify in two large multicenter studies. GBS = 0 gives 99–100% sensitivity (95% CI lower bound 98%) but qualifies only 8–22%
 - GBS 0–1 allows safe outpatient discharge — before-after study: 0/105 with GBS = 0 not admitted for other reasons required intervention or died within 30 days; retrospective series: 0/103 discharged with GBS = 0–1 required intervention or died within 30 days
 - **GBS components and point values live on [[upper-gi-bleeding]]** (guideline Table 2) — one home for that table; the source page links rather than duplicates. Components: blood urea nitrogen, hemoglobin (sex-specific), systolic blood pressure, heart rate, melena, syncope, hepatic disease, cardiac failure. Hepatic disease and cardiac failure were **not defined** in the original GBS report
 - Specificity at the GBS 0–1 threshold is poor (point estimates 27–40%) — most patients who will not need intervention are still classified as needing admission, leaving substantial room for improvement
 ### Red Blood Cell Transfusion
 
-- **Transfusion threshold: Hgb 7 g/dL** for hemodynamically stable UGIB patients
-- Villanueva et al. RCT (N=899): restrictive (7 g/dL) vs. liberal (9 g/dL) showed lower mortality (5% vs. 9%, adjusted HR 0.55), less further bleeding (10% vs. 16%, adjusted HR 0.68), and fewer cardiac complications (11% vs. 16%)
+- **Transfusion threshold: hemoglobin (Hgb) 7 g/dL** for hemodynamically stable UGIB patients
+- Villanueva et al. RCT (N=899): restrictive (7 g/dL) vs. liberal (9 g/dL) showed lower mortality (5% vs. 9%, adjusted hazard ratio (HR) 0.55), less further bleeding (10% vs. 16%, adjusted HR 0.68), and fewer cardiac complications (11% vs. 16%)
 - Threshold of 8 g/dL is reasonable for pre-existing cardiovascular disease; higher threshold may be considered for acute coronary syndrome (very limited evidence)
 - Hypotensive patients may warrant transfusion above 7 g/dL given hemoglobin equilibration with fluid resuscitation
 
 ### Pre-Endoscopic Management
 
-- **Erythromycin 250 mg IV infusion** 20–90 minutes before endoscopy: reduces need for repeat endoscopy (OR 0.51) and length of stay (mean –1.75 days); no proven benefit for further bleeding or mortality; can prolong QT interval (caution with torsadogenic drugs and conditions)
+- **Erythromycin 250 mg IV infusion** 20–90 minutes before endoscopy: reduces need for repeat endoscopy (odds ratio [OR] 0.51) and length of stay (mean –1.75 days); no proven benefit for further bleeding or mortality; can prolong QT interval (caution with torsadogenic drugs and conditions)
 - **Pre-endoscopic PPI**: No recommendation for or against — no evidence of benefit for further bleeding or mortality in properly designed RCTs; may modestly reduce need for endoscopic therapy at index endoscopy; use reasonable when endoscopy is unavailable or will be substantially delayed
 - Metoclopramide: insufficient evidence to support use
 
@@ -66,7 +66,7 @@ GI bleeding overall is the most common GI diagnosis necessitating hospitalizatio
 ### Endoscopic Therapy Indications
 
 - **Active spurting/oozing and nonbleeding visible vessel**: Strong recommendation for endoscopic therapy (moderate-quality evidence)
-  - Active bleeding: RR 0.29 for further bleeding with endoscopic therapy (NNT 2)
+  - Active bleeding: relative risk (RR) 0.29 for further bleeding with endoscopic therapy (number needed to treat [NNT] 2)
   - Nonbleeding visible vessel: RR 0.49 (NNT 5)
 - **Adherent clot**: No recommendation — conflicting RCT results; vigorous irrigation and high-dose PPI alone may be sufficient; local expertise factors into decision
 - **Clean base ulcer**: Not mentioned for endoscopic therapy (low-risk stigma)
@@ -78,7 +78,7 @@ GI bleeding overall is the most common GI diagnosis necessitating hospitalizatio
 | Bipolar electrocoagulation or heater probe | **Strong** | Moderate; RR 0.44 for further bleeding vs. no therapy; NNT 4; also reduces mortality (RR 0.58) |
 | Absolute ethanol injection | **Strong** | Moderate; RR 0.56 for further bleeding; NNT 5 |
 | Clips (through-the-scope) | Conditional (Stmt 9) | Very low–low ᵃ; RR 0.20 (0.07–0.56) vs. epinephrine monotherapy (indirect) |
-| Argon plasma coagulation (APC) | Conditional (Stmt 9) | Very low–low ᵃ; less further bleeding vs. water injection in 1 RCT (6.9% vs. 20.7%) |
+| APC | Conditional (Stmt 9) | Very low–low ᵃ; less further bleeding vs. water injection in 1 RCT (6.9% vs. 20.7%) |
 | Soft monopolar electrocoagulation | Conditional (Stmt 9) | Very low–low ᵃ; less further bleeding vs. clips in 1 RCT (5.4% vs. 33.9%) |
 | Hemostatic powder TC-325 | Conditional — **actively bleeding ulcers only** | Very low; noninferior to standard therapy in 1 RCT (ulcers: 12.3% vs. 15.4%) |
 | Over-the-scope clips | Conditional (recurrent bleeding only) | Low; superior to standard therapy for recurrent bleeding (15.2% vs. 57.6%) |
@@ -113,7 +113,7 @@ GI bleeding overall is the most common GI diagnosis necessitating hospitalizatio
 
 ### Failed Endoscopic Therapy
 
-- **Transcatheter arterial embolization (TAE) preferred over surgery**: conditional recommendation (very-low-quality evidence)
+- **TAE preferred over surgery**: conditional recommendation (very-low-quality evidence)
   - TAE: markedly fewer complications (meta-analysis OR 0.45) and shorter hospital stay (median 8 vs. 16 days) vs. surgery; no mortality difference; higher rate of further bleeding (meta-analysis OR 2.44)
   - Choice between TAE and surgery may be influenced by patient comorbidities, hemodynamic status, and local institutional expertise
 
@@ -177,7 +177,7 @@ All 16 guideline statements, verbatim from **Table 1**, with the document's own 
 
 ## Contradictions / Open Questions
 
-- **Pre-endoscopic PPI**: Guideline makes no recommendation (neither for nor against) despite widespread clinical use — a substantive departure from practice. Other societies (ESGE) and prior ACG guidelines recommended it more affirmatively
+- **Pre-endoscopic PPI**: Guideline makes no recommendation (neither for nor against) despite widespread clinical use — a substantive departure from practice. Other societies (European Society of Gastrointestinal Endoscopy [ESGE]) and prior ACG guidelines recommended it more affirmatively
 - **Urgent endoscopy in high-risk patients**: Large RCT (Lau et al.) found no benefit of 6-hour vs. 24-hour endoscopy even in GBS ≥12; Danish observational data suggest possible harm with very early endoscopy in hemodynamically unstable patients — contradicts traditional dogma favoring emergent endoscopy in unstable UGIB
 - **TC-325 as monotherapy**: Lau et al. noninferiority RCT suggests possible single-agent use, but most prior guidance recommended it as a temporizing bridge to definitive therapy; high cost limits routine use in the U.S.
 - **Forrest classification**: Not explicitly tabulated in the 2021 guideline; the guideline uses descriptive terms (spurting, oozing, nonbleeding visible vessel, adherent clot, clean base) that map to the Forrest system; rebleeding risk percentages from the Forrest classification are standard background knowledge not re-derived in this guideline

@@ -9,7 +9,7 @@ sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2024-poem, aga-2024-poe
 
 Pneumatic dilation (PD) is the forceful, balloon-mediated disruption of the **muscularis propria** of the lower esophageal sphincter (LES) — the only dilation that works in [[achalasia|achalasia]]. **Standard (through-the-scope / bougie) dilators are not effective**, because they do not disrupt the muscularis propria ([[acg-2020-achalasia]]).
 
-Where PD sits among the three definitive achalasia therapies — and how it compares with [[heller-myotomy|LHM]], [[poem|POEM]], and botulinum toxin — is a treatment-selection decision and lives on **[[achalasia#Therapeutics|achalasia]]**. This page owns the **procedure**: candidacy, technique, recovery, adverse events, and retreatment.
+Where PD sits among the three definitive achalasia therapies — and how it compares with [[heller-myotomy|laparoscopic Heller myotomy (LHM)]], [[poem|peroral endoscopic myotomy (POEM)]], and botulinum toxin — is a treatment-selection decision and lives on **[[achalasia#Therapeutics|achalasia]]**. This page owns the **procedure**: candidacy, technique, recovery, adverse events, and retreatment.
 
 ## Contents
 - [[#Indications and Candidacy]]
@@ -26,9 +26,9 @@ Where PD sits among the three definitive achalasia therapies — and how it comp
 
 ## Indications and Candidacy
 
-- **Indication:** [[achalasia|achalasia]] in a patient who is a candidate for definitive therapy. PD, [[heller-myotomy|LHM]], and [[poem|POEM]] are **comparably effective for type I and type II**; **type III favors POEM** ([[acg-2020-achalasia]], Strong). **Subtype is assigned only on [[high-resolution-manometry|HRM]] by the [[chicago-classification-v4|Chicago Classification v4.0]]** — the IRP thresholds and type I/II/III criteria live on that page.
+- **Indication:** [[achalasia|achalasia]] in a patient who is a candidate for definitive therapy. PD, [[heller-myotomy|LHM]], and [[poem|POEM]] are **comparably effective for type I and type II**; **type III favors POEM** ([[acg-2020-achalasia]], Strong). **Subtype is assigned only on [[high-resolution-manometry|high-resolution manometry (HRM)]] by the [[chicago-classification-v4|Chicago Classification v4.0]]** — the integrated relaxation pressure (IRP) thresholds and type I/II/III criteria live on that page.
 - ⚠ **Hard prerequisite — every patient considered for PD must also be a surgical candidate**, because esophageal [[endoscopic-management-of-perforation|perforation]] requiring operative repair occurs in **1.9% (range 0%–10%)**. Consent must state this explicitly.
-- **Institutional prerequisite:** surgical backup available for perforation. ACG names **operator expertise and institutional surgical backup as the most important determinants** of a safe PD.
+- **Institutional prerequisite:** surgical backup available for perforation. The American College of Gastroenterology (ACG) names **operator expertise and institutional surgical backup as the most important determinants** of a safe PD.
 - **Predictors of a favorable response** — use these to decide whether to start with PD at all:
   - Age **>45 years**
   - **Female** sex
@@ -67,14 +67,14 @@ Cumulative good-to-excellent symptom relief, average follow-up **1.6 years** (ra
 | 4.0 cm | **90%** |
 
 - Across all series, good-to-excellent relief after PD ranges **50%–93%**.
-- Pooled clinical success (**Eckardt score ≤3** — the score's four components and bands live on [[achalasia]]) is **83% (95% CI 79–85%)** across 52 uncontrolled studies / 4,166 patients at 3–6 months, with mean LES pressure falling **34.5 → 20.8 mm Hg** ([[asge-2020-achalasia]]).
+- Pooled clinical success (**Eckardt score ≤3** — the score's four components and bands live on [[achalasia]]) is **83% (95% confidence interval [CI] 79–85%)** across 52 uncontrolled studies / 4,166 patients at 3–6 months, with mean LES pressure falling **34.5 → 20.8 mm Hg** ([[asge-2020-achalasia]]).
 - **Serial PD is equivalent to [[heller-myotomy|LHM]] at 5 years** ([[acg-2020-achalasia]], Strong/High).
-- ⚠ **Newer guidance:** [[sages-2024-poem|SAGES 2024]] conditionally suggests **POEM over PD**, superseding the 2020 framing of PD as the preferred non-surgical option. Counsel on post-POEM reflux when choosing.
+- ⚠ **Newer guidance:** [[sages-2024-poem|Society of American Gastrointestinal and Endoscopic Surgeons (SAGES) 2024]] conditionally suggests **POEM over PD**, superseding the 2020 framing of PD as the preferred non-surgical option. Counsel on post-POEM reflux when choosing.
 
 ## Post-Procedure Care
 
 - **Observe in recovery** for signs of perforation: **pain, crepitus, fever**.
-- ⚠ **Do NOT perform routine post-dilation gastrografin/barium esophagram** ([[acg-2020-achalasia]], Strong/Low). Reserve contrast esophagram and/or CT chest/abdomen for **clinical suspicion** of perforation. In the cited retrospective series (n=119), none of the 49 who had a routine esophagram had a perforation.
+- ⚠ **Do NOT perform routine post-dilation gastrografin/barium esophagram** ([[acg-2020-achalasia]], Strong/Low). Reserve contrast esophagram and/or computed tomography (CT) chest/abdomen for **clinical suspicion** of perforation. In the cited retrospective series (n=119), none of the 49 who had a routine esophagram had a perforation.
 - **Discharge** with antiemetics and explicit instructions to call for **severe chest pain ± fever** — **delayed perforation can occur after discharge**.
 
 ## Adverse Events
@@ -83,7 +83,7 @@ Cumulative good-to-excellent symptom relief, average follow-up **1.6 years** (ra
 
 - The **most serious** complication of PD.
 - **Rate:** **1.9% (range 0%–10%)** overall; median **1.9% (range 0%–16%) in experienced hands** (operators with >100 patients treated).
-- *Contradiction surfaced:* the [[asge-2020-achalasia|ASGE 2020]] meta-analysis — same year, different study set — pools perforation at **2.8% (95% CI 2.3–3.5%)** and bleeding requiring intervention at **2%**. Quote both figures rather than either alone.
+- *Contradiction surfaced:* the [[asge-2020-achalasia|American Society for Gastrointestinal Endoscopy (ASGE) 2020]] meta-analysis — same year, different study set — pools perforation at **2.8% (95% CI 2.3–3.5%)** and bleeding requiring intervention at **2%**. Quote both figures rather than either alone.
 - **Management is size-dependent:**
   - **Small perforation** → conservative therapy may suffice: **antibiotics, parenteral nutrition, stent placement**.
   - **Large perforation with extensive mediastinal contamination** → **surgical repair via thoracotomy** is the best approach.
@@ -91,7 +91,7 @@ Cumulative good-to-excellent symptom relief, average follow-up **1.6 years** (ra
 
 ### GERD
 
-- [[gerd|GERD]] occurs in **15%–35%** after PD → [[proton-pump-inhibitors|PPI]] therapy is indicated in those affected ([[acg-2020-achalasia]]).
+- [[gerd|gastroesophageal reflux disease (GERD)]] occurs in **15%–35%** after PD → [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] therapy is indicated in those affected ([[acg-2020-achalasia]]).
 - [[asge-2020-achalasia|ASGE 2020]] pools **symptomatic** GERD lower, at **9% (95% CI 5–16%)** at ~6 months — the two figures use **different GERD definitions**, not different populations.
 - **Recurrent [[dysphagia|dysphagia]] after PD is not automatically recurrent achalasia** — consider a **GERD-related distal esophageal stricture** as a contributor.
 
@@ -101,7 +101,7 @@ Cumulative good-to-excellent symptom relief, average follow-up **1.6 years** (ra
 
 - **PD after failed [[heller-myotomy|LHM]]: 89% success** — **systematic review**, 87 post-LHM patients, mean **2.5** dilations (range 1–3) at mean 26-month intervals; complications extremely low. The graded statement is *"PD is an appropriate and safe treatment option for patients with achalasia post-initial surgical myotomy or POEM in need of retreatment"* (*Strong; Moderate*, [[acg-2020-achalasia]]).
 - **[[poem|POEM]] after failed PD or LHM: 94%–95.7%** — **uncontrolled single-arm** figures (a 51-patient prospective multicentre registry and a 46-patient case series; both Eckardt ≤3). ACG's graded statement covers **safety only**: *"POEM is a safe option in patients with achalasia who have previously undergone PD or LHM"* (*Strong; Low*).
-- ⚠ **PD vs POEM head to head, after failed LHM: PD 27% vs POEM 62%** — the **only RCT** in this setting, reported by the newer [[aga-2024-poem-advances|AGA 2024]] CPU (BPA 12); no difference in esophagitis, reflux symptoms, PPI use, or serious adverse events. **This is the number to counsel from when choosing between PD and POEM for a failed myotomy** — the 89% and 94–95.7% above are single-arm rates from different cohorts and cannot be compared with each other. Decision remains shared, weighing post-procedural reflux, need for repeat intervention, local expertise, and preference.
+- ⚠ **PD vs POEM head to head, after failed LHM: PD 27% vs POEM 62%** — the **only randomized controlled trial (RCT)** in this setting, reported by the newer [[aga-2024-poem-advances|American Gastroenterological Association (AGA) 2024]] Clinical Practice Update (CPU) (Best Practice Advice [BPA] 12); no difference in esophagitis, reflux symptoms, PPI use, or serious adverse events. **This is the number to counsel from when choosing between PD and POEM for a failed myotomy** — the 89% and 94–95.7% above are single-arm rates from different cohorts and cannot be compared with each other. Decision remains shared, weighing post-procedural reflux, need for repeat intervention, local expertise, and preference.
 - PD can also be used after failed POEM — retrospective observational data only; ACG expects it to remain effective by analogy to the post-LHM experience.
 - Prior **botulinum toxin** injection does not significantly affect subsequent myotomy performance or outcomes.
 

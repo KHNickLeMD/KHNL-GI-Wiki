@@ -23,7 +23,7 @@ sources: []
 
 ## Summary
 
-First United States practice guideline for [[chronic-pancreatitis]], addressing the central problem that CP diagnosis remains unreliable in early disease. Reviews every diagnostic modality across 9 topics (epidemiology, pathologic definitions, US/CT, MRI, [[endoscopic-ultrasound|EUS]], [[ercp|ERCP]], indirect and direct pancreatic function testing, imaging–function–histology correlation) and grades diagnostic criteria as **definitive, probable, or insufficient evidence**.
+First United States practice guideline for [[chronic-pancreatitis|chronic pancreatitis (CP)]], addressing the central problem that CP diagnosis remains unreliable in early disease. Reviews every diagnostic modality across 9 topics (epidemiology, pathologic definitions, ultrasound (US)/computed tomography (CT), magnetic resonance imaging (MRI), [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]], [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]], indirect and direct pancreatic function testing, imaging–function–histology correlation) and grades diagnostic criteria as **definitive, probable, or insufficient evidence**.
 
 Proposes the **STEP-wise algorithm** (**S**urvey → **T**omography → **E**ndoscopy → **P**ancreas function testing), escalating from non-invasive to invasive. The algorithm is explicitly built to **maximize specificity** in patients with chronic abdominal pain and equivocal imaging, accepting missed diagnoses to avoid over-diagnosis.
 
@@ -49,13 +49,13 @@ The guideline's stated posture on EUS: *"If we are to error in the use of EUS, w
 
 ## ⚠ Known error in this source (Rosemont weighting)
 
-The guideline's Rosemont paragraph (p. 14–15 of the PMC author manuscript) states that parenchymal **major A** criteria included *"(1) hyperechoic foci with shadowing and (2) well-circumscribed lobularity."*
+The guideline's Rosemont paragraph (p. 14–15 of the PubMed Central (PMC) author manuscript) states that parenchymal **major A** criteria included *"(1) hyperechoic foci with shadowing and (2) well-circumscribed lobularity."*
 
 **This is incorrect** and is internally inconsistent with the same paragraph, which then assigns *lobularity with honeycombing* to major B and *lobularity with noncontiguous lobules* to minor — leaving no lobularity variant available to be major A.
 
-In the primary Rosemont consensus ([Catalano et al., *Gastrointest Endosc* 2009;69:1251–61](https://pubmed.ncbi.nlm.nih.gov/19243769/)), "well-circumscribed, ≥5 mm structures with hyperechoic rims relative to their central areas" is the **definition of lobularity itself**, not a separate criterion. Lobularity is then split into honeycombing (**major B**) and non-honeycombing (**minor**). There are exactly **two major A criteria**: hyperechoic foci **with** shadowing (parenchymal) and MPD calculi (ductal).
+In the primary Rosemont consensus ([Catalano et al., *Gastrointest Endosc* 2009;69:1251–61](https://pubmed.ncbi.nlm.nih.gov/19243769/)), "well-circumscribed, ≥5 mm structures with hyperechoic rims relative to their central areas" is the **definition of lobularity itself**, not a separate criterion. Lobularity is then split into honeycombing (**major B**) and non-honeycombing (**minor**). There are exactly **two major A criteria**: hyperechoic foci **with** shadowing (parenchymal) and main pancreatic duct (MPD) calculi (ductal).
 
-The guideline's **diagnostic combinations are correct** — "consistent with CP" = 1 major A + ≥3 minor, **or** 1 major A + major B, **or** 2 major A. Use APA for the combinations, Catalano for the feature weighting.
+The guideline's **diagnostic combinations are correct** — "consistent with CP" = 1 major A + ≥3 minor, **or** 1 major A + major B, **or** 2 major A. Use the American Pancreatic Association (APA) guideline for the combinations, Catalano for the feature weighting.
 
 ---
 

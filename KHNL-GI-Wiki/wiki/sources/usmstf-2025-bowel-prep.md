@@ -13,7 +13,7 @@ sources: []
 - **Authors:** Jacobson BC, Anderson JC, Burke CA, Dominitz JA, Gross SA, May FP, Patel SG, Shaukat A, Robertson DJ
 - **Year:** 2025
 - **Journal:** Am J Gastroenterol 2025;120:738–764 (joint publication with Gastrointestinal Endoscopy and Gastroenterology)
-- **Type:** Consensus recommendations (USMSTF — representing ACG, AGA, ASGE); update to 2014 USMSTF recommendations
+- **Type:** Consensus recommendations (US Multi-Society Task Force on Colorectal Cancer [USMSTF] — representing the American College of Gastroenterology [ACG], American Gastroenterological Association [AGA], and American Society for Gastrointestinal Endoscopy [ASGE]); update to 2014 USMSTF recommendations
 - **DOI:** [10.14309/ajg.0000000000003287](https://doi.org/10.14309/ajg.0000000000003287)
 
 > **Also cited as "ACG 2025 Bowel Prep."** The same consensus statement was published simultaneously in *Am J Gastroenterol* (ACG), *Gastrointest Endosc* (ASGE), and *Gastroenterology* (AGA) under the USMSTF banner. This page is the single home for it — there is no separate ACG page.
@@ -79,17 +79,17 @@ Update to the 2014 USMSTF bowel preparation recommendations. Developed 25 consen
 
 ### After Colonoscopy — Rescheduling Inadequate Prep
 
-22. Reschedule colonoscopy: within 12 months for screening/surveillance; as soon as possible (generally within 3 months) for abnormal noncolonoscopic CRC test (Strong/Moderate)
+22. Reschedule colonoscopy: within 12 months for screening/surveillance; as soon as possible (generally within 3 months) for abnormal noncolonoscopic colorectal cancer test (Strong/Moderate)
 
 ### Modifications for Prior or Anticipated Inadequate Prep
 
 23. Prior inadequate prep: modify instructions to include ≥1 of: improved instruction communication; increased navigation; restrict vegetables/legumes 2–3 days prior; clear liquids only day before; promotility agents; treat constipation; hold anticholinergic/opioid/constipating medications; use high-volume prep (Strong/Moderate)
 24. High-risk for inadequate prep: manage same as prior inadequate prep (Strong/Moderate)
-25. Specific high-risk regimen: split-dose 4 L PEG-ELS + bisacodyl 15 mg afternoon before + low-residue diet 3 and 2 days prior + clear liquids day before (Weak/Low)
+25. Specific high-risk regimen: split-dose 4 L polyethylene glycol–electrolyte lavage solution (PEG-ELS) + bisacodyl 15 mg afternoon before + low-residue diet 3 and 2 days prior + clear liquids day before (Weak/Low)
 
 ## Risk Factors for Inadequate Bowel Preparation
 
-| Risk Factor | OR (95% CI) |
+| Risk Factor | Odds ratio (95% confidence interval) |
 |---|---|
 | Cirrhosis | 3.4 (1.5–7.9) |
 | Parkinson disease | 3.2 (1.2–9.3) |
@@ -100,7 +100,7 @@ Update to the 2014 USMSTF bowel preparation recommendations. Developed 25 consen
 | [[gastroparesis\|Gastroparesis]] | 1.6 (1.2–2.3) |
 | Prior colorectal surgery | 1.6 (1.2–2.2) |
 | Lower education level | 1.5 (1.3–1.8) |
-| BMI >30 | 1.5 (1.2–1.8) |
+| Body mass index >30 | 1.5 (1.2–1.8) |
 | Inpatient status | 1.5 (1.1–2.1) |
 | Hypertension | 1.3 (1.2–1.4) |
 | Tobacco use | 1.3 (1.1–1.5) |
@@ -117,17 +117,17 @@ Update to the 2014 USMSTF bowel preparation recommendations. Developed 25 consen
 
 ## GLP-1 Receptor Agonists
 
-The guideline has **no numbered recommendation** on GLP-1 receptor agonists; it addresses them only in the discussion of when to stop drinking purgative. What it actually states:
+The guideline has **no numbered recommendation** on glucagon-like peptide-1 (GLP-1) receptor agonists; it addresses them only in the discussion of when to stop drinking purgative. What it actually states:
 
 - GLP-1 receptor agonists **delay gastric emptying** and may therefore affect **when to cease drinking the purgative**.
-- **ASA advises stopping these agents 1-7 days before an elective procedure** (duration **depends on the agent**) to limit aspiration risk during sedation.
+- **The American Society of Anesthesiologists (ASA) advises stopping these agents 1-7 days before an elective procedure** (duration **depends on the agent**) to limit aspiration risk during sedation.
 - **If the agent has not been stopped, proceed — but assume the stomach is full.**
 - **AGA's position: continue-or-withhold is a case-by-case decision**, not routine cessation (see [[aga-2024-glp1-endoscopy]]).
 - The guideline expects this area **to change as better evidence emerges**.
 
 > **Not stated by this guideline** (do not attribute to it): that GLP-1 users carry the gastroparesis odds ratio for inadequate prep, or that they should routinely receive the high-risk prep protocol. The OR table below lists **gastroparesis**, not GLP-1 use; no OR for GLP-1 agonists is reported.
 
-Separately, the guideline reproduces ASA's definition of patients who are **not** "healthy" for aspiration-risk purposes — uncontrolled reflux, hiatal hernia, Zenker diverticulum, achalasia, stricture, previous gastric surgery (e.g. gastric bypass), gastroparesis, diabetes mellitus, opioid use, GI obstruction or acute intra-abdominal processes, pregnancy, obesity, and emergency procedures — and advises **clinical judgement** for anyone meeting these criteria.
+Separately, the guideline reproduces ASA's definition of patients who are **not** "healthy" for aspiration-risk purposes — uncontrolled reflux, hiatal hernia, Zenker diverticulum, achalasia, stricture, previous gastric surgery (e.g. gastric bypass), gastroparesis, diabetes mellitus, opioid use, gastrointestinal obstruction or acute intra-abdominal processes, pregnancy, obesity, and emergency procedures — and advises **clinical judgement** for anyone meeting these criteria.
 
 ## Relevance to Wiki
 
@@ -138,5 +138,5 @@ Separately, the guideline reproduces ASA's definition of patients who are **not*
 
 - Simethicone dosing and optimal timing relative to prep not established
 - Ultra-low-volume (<2L) regimens: insufficient data for recommendation
-- High-risk population prep regimens: largely expert consensus, few RCTs in these groups
+- High-risk population prep regimens: largely expert consensus, few randomized controlled trials in these groups
 - Same-day morning prep: only weak recommendation against; some units may use it successfully

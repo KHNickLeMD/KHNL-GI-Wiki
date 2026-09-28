@@ -17,13 +17,13 @@ sources: []
 
 ## Summary
 
-ASGE Standards of Practice statement on endoscopic management of inflammatory pancreatic fluid collections (PFCs) following [[acute-pancreatitis|acute pancreatitis]], using the revised Atlanta classification (acute peripancreatic fluid collection, pancreatic pseudocyst, acute necrotic collection, walled-off necrosis [WON]). Before drainage, alternative diagnoses (cystic neoplasm, pseudoaneurysm) must be excluded and the collection wall allowed to mature.
+American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice statement on endoscopic management of inflammatory pancreatic fluid collections (PFCs) following [[acute-pancreatitis|acute pancreatitis]], using the revised Atlanta classification (acute peripancreatic fluid collection, pancreatic pseudocyst, acute necrotic collection, walled-off necrosis [WON]). Before drainage, alternative diagnoses (cystic neoplasm, pseudoaneurysm) must be excluded and the collection wall allowed to mature.
 
-Drainage is indicated for symptomatic or rapidly enlarging pseudocysts, infected PFCs failing conservative management, and symptomatic sterile necrosis >8 weeks out. Endoscopic transmural drainage (EUS-guided) is preferred as initial therapy over surgery for pseudocysts; for WON, a step-up approach (transmural/percutaneous drainage before transmural necrosectomy or surgery) is recommended. WON drainage is less successful and higher-risk than pseudocyst drainage. Procedures require surgical and interventional-radiology backup.
+Drainage is indicated for symptomatic or rapidly enlarging pseudocysts, infected PFCs failing conservative management, and symptomatic sterile necrosis >8 weeks out. Endoscopic transmural drainage (endoscopic ultrasound [EUS]-guided) is preferred as initial therapy over surgery for pseudocysts; for WON, a step-up approach (transmural/percutaneous drainage before transmural necrosectomy or surgery) is recommended. WON drainage is less successful and higher-risk than pseudocyst drainage. Procedures require surgical and interventional-radiology backup.
 
 ## Key Findings / Claims
 
-**Recommendations (verbatim, with GRADE quality of evidence):**
+**Recommendations (verbatim, with Grading of Recommendations Assessment, Development and Evaluation [GRADE] quality of evidence):**
 
 1. We recommend that endoscopic drainage of PFCs be performed only after sufficient exclusion of alternative diagnoses, such as cystic pancreatic neoplasms and pseudoaneurysms. (High)
 2. We recommend waiting for maturation of the cyst wall of PFCs before endoscopic intervention. (Moderate)
@@ -31,7 +31,7 @@ Drainage is indicated for symptomatic or rapidly enlarging pseudocysts, infected
 4. We suggest drainage of rapidly enlarging pancreatic pseudocysts. (Low)
 5. We recommend drainage of all infected PFCs in patients who fail to improve with conservative management alone. (High)
 6. We recommend drainage of symptomatic sterile necrosis lasting more than 8 weeks after the onset of acute pancreatitis. (Moderate)
-7. We suggest that routine FNA of PFCs is not required to diagnose infected necrosis. (Low)
+7. We suggest that routine FNA [fine-needle aspiration] of PFCs is not required to diagnose infected necrosis. (Low)
 8. We recommend that endoscopic drainage be considered for initial therapy before surgical drainage of pancreatic pseudocysts. (Moderate)
 9. We recommend using EUS for transmural drainage of PFCs in the absence of a luminal bulge or when portal hypertension is suspected. (High)
 10. We recommend initial endoscopic transmural and/or percutaneous drainage of WON before consideration of endoscopic transmural necrosectomy or surgical drainage. (Moderate)
@@ -47,4 +47,4 @@ Drainage is indicated for symptomatic or rapidly enlarging pseudocysts, infected
 - Cross-links [[endoscopic-ultrasound]] (transmural drainage), [[pancreatic-cysts]] (differential to exclude before drainage).
 
 ## Contradictions / Open Questions
-- Older (2016) than [[acg-2024-acute-pancreatitis|ACG 2024 acute pancreatitis]], which governs the step-up approach and LAMS-based necrosectomy on the [[acute-pancreatitis]] page; concordant overall. This source adds explicit drainage indications/thresholds and the pre-drainage diagnostic checklist.
+- Older (2016) than [[acg-2024-acute-pancreatitis|American College of Gastroenterology (ACG) 2024 acute pancreatitis]], which governs the step-up approach and lumen-apposing metal stent (LAMS)-based necrosectomy on the [[acute-pancreatitis]] page; concordant overall. This source adds explicit drainage indications/thresholds and the pre-drainage diagnostic checklist.

@@ -21,14 +21,14 @@ sources: []
 
 ## Summary
 
-This guidance covers vascular disorders of the liver — **portal vein thrombosis (PVT)**, **Budd-Chiari syndrome (BCS)**, sinusoidal obstruction syndrome (SOS/VOD), and related conditions — with step-by-step evaluation, anticoagulation, and surveillance algorithms.
+This guidance covers vascular disorders of the liver — **portal vein thrombosis (PVT)**, **Budd-Chiari syndrome (BCS)**, sinusoidal obstruction syndrome/veno-occlusive disease (SOS/VOD), and related conditions — with step-by-step evaluation, anticoagulation, and surveillance algorithms.
 
 ---
 
 ## Key Points
 
 - **PVT in cirrhosis:** consider **anticoagulation** for acute/recent PVT, especially with clot extension to the mesenteric veins, symptoms, or in **liver transplant candidates** (to maintain transplant eligibility); weigh against bleeding and proceed per [[cirrhosis-hemostasis|rebalanced hemostasis]] principles. Evaluate for underlying prothrombotic disorders in non-cirrhotic PVT.
-- **Budd-Chiari syndrome:** stepwise therapy — **anticoagulation** first, then **angioplasty/stenting** of short-segment obstruction, then **TIPS**, with **liver transplant** for failure/decompensation; treat underlying myeloproliferative neoplasm.
+- **Budd-Chiari syndrome:** stepwise therapy — **anticoagulation** first, then **angioplasty/stenting** of short-segment obstruction, then **transjugular intrahepatic portosystemic shunt (TIPS)**, with **liver transplant** for failure/decompensation; treat underlying myeloproliferative neoplasm.
 - **SOS/VOD:** recognize post–hematopoietic-stem-cell-transplant; supportive care ± defibrotide in severe cases.
 - Screen for and manage [[portal-hypertension]] complications (varices) across these disorders.
 

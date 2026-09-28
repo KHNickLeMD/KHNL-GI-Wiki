@@ -9,7 +9,7 @@ sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, 
 
 # EUS-Guided Gallbladder Drainage (EUS-GBD)
 
-Transmural gallbladder decompression: a stent (now standardly a **lumen-apposing metal stent, LAMS**) is placed under [[endoscopic-ultrasound|EUS]] guidance from the duodenum or stomach into the gallbladder. Primary alternative to percutaneous transhepatic gallbladder drainage (PT-GBD) and endoscopic transpapillary drainage (ET-GBD) in high-surgical-risk [[acute-cholecystitis]]. ([[aga-2023-eus-gallbladder-drainage]])
+EUS-guided gallbladder drainage (EUS-GBD) is transmural gallbladder decompression: a stent (now standardly a **lumen-apposing metal stent [LAMS]**) is placed under [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] guidance from the duodenum or stomach into the gallbladder. Primary alternative to percutaneous transhepatic gallbladder drainage (PT-GBD) and endoscopic transpapillary drainage (ET-GBD) in high-surgical-risk [[acute-cholecystitis]]. ([[aga-2023-eus-gallbladder-drainage]])
 
 ## Contents
 - [[#Indications]]
@@ -28,13 +28,13 @@ Transmural gallbladder decompression: a stent (now standardly a **lumen-apposing
 
 1. **Gallbladder drainage in high-surgical-risk patients with [[acute-cholecystitis|acute cholecystitis]]** (the core indication)
 2. **Conversion of percutaneous cholecystostomy to internal drainage** in patients who will never be cholecystectomy candidates (removes the external drain)
-3. **Rescue drainage of [[biliary-stricture|malignant biliary obstruction]]** in select patients after failed [[ercp|ERCP]] *and* failed EUS-guided biliary drainage
+3. **Rescue drainage of [[biliary-stricture|malignant biliary obstruction]]** in select patients after failed [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] *and* failed EUS-guided biliary drainage
 
 ## Patient Selection
 
 - Requirements: high surgical risk, **no evidence of free gallbladder perforation**, able to tolerate [[endoscopy-sedation|anesthesia]] and a therapeutic endoscopic procedure. ([[aga-2023-eus-gallbladder-drainage]])
-- **What counts as "high surgical risk"?** The AGA CPU defines it only qualitatively — **"significant medical comorbidities that would make laparoscopic cholecystectomy excessively risky"**; patients "may be deemed inoperable because of comorbidities." Method selection then turns on **comorbidities, gallbladder position, cystic duct characteristics, an in-dwelling metal biliary stent, presence of ascites, future surgical candidacy, and local endoscopic/radiographic/surgical expertise**.
-  - ⚠ **No numeric risk threshold is given.** Neither [[aga-2023-eus-gallbladder-drainage]] nor [[asge-2024-therapeutic-eus-biliary]] gives an ASA class, Charlson score, or other cutoff; ASGE 2024 says only "not surgical candidates at the time of intervention." The AGA CPU defers severity assessment and drainage strategy to the Tokyo Guidelines cholecystitis papers — Mori 2018 (*TG18: management strategies for gallbladder drainage in acute cholecystitis*) and Hirota 2007 / Yokoe 2018 (*Diagnostic criteria and severity assessment of acute cholecystitis: Tokyo Guidelines*). [[tg18-2018-cholangitis-flowchart]] grades **cholangitis only**; do not carry the cholangitis grades across to cholecystitis (see [[acute-cholecystitis]]).
+- **What counts as "high surgical risk"?** The American Gastroenterological Association (AGA) Clinical Practice Update (CPU) defines it only qualitatively — **"significant medical comorbidities that would make laparoscopic cholecystectomy excessively risky"**; patients "may be deemed inoperable because of comorbidities." Method selection then turns on **comorbidities, gallbladder position, cystic duct characteristics, an in-dwelling metal biliary stent, presence of ascites, future surgical candidacy, and local endoscopic/radiographic/surgical expertise**.
+  - ⚠ **No numeric risk threshold is given.** Neither [[aga-2023-eus-gallbladder-drainage]] nor [[asge-2024-therapeutic-eus-biliary]] gives an American Society of Anesthesiologists (ASA) class, Charlson score, or other cutoff; American Society for Gastrointestinal Endoscopy (ASGE) 2024 says only "not surgical candidates at the time of intervention." The AGA CPU defers severity assessment and drainage strategy to the Tokyo Guidelines cholecystitis papers — Mori 2018 (*TG18: management strategies for gallbladder drainage in acute cholecystitis*) and Hirota 2007 / Yokoe 2018 (*Diagnostic criteria and severity assessment of acute cholecystitis: Tokyo Guidelines*). [[tg18-2018-cholangitis-flowchart]] grades **cholangitis only**; do not carry the cholangitis grades across to cholecystitis (see [[acute-cholecystitis]]).
 - **Prefer ET-GBD first** when the patient: already needs ERCP for another reason ([[choledocholithiasis]], suspected [[acute-cholangitis|cholangitis]]); is a **potential future cholecystectomy candidate** (ET-GBD preserves normal anatomy for surgery); has **coagulopathy**, **large-volume [[ascites]]**, or comorbidities that would preclude optimal percutaneous drain placement *or* EUS-GBD; or needs drainage only as a **temporizing measure**.
 - **Prefer EUS-GBD** when: **in-dwelling uncovered metal biliary stent obstructing the cystic duct takeoff**; malignant cystic duct obstruction; **large cholelithiasis burden** or other indication for per-oral cholecystoscopy; poor candidate for repeat interventions.
 - **Discussion with the surgical team before EUS-GBD is imperative** — later cholecystectomy requires fistula repair (postoperative leak risk); clarify future surgical candidacy and the surgeon's comfort with a transmural stent. Cholecystectomy after EUS-GBD appears safe/feasible in limited data.
@@ -60,19 +60,19 @@ Transmural gallbladder decompression: a stent (now standardly a **lumen-apposing
 
 ([[aga-2023-eus-gallbladder-drainage]])
 
-**Stent:** LAMS solved the failure modes of pigtail plastic stents and biliary SEMS (leak, contralateral wall injury/occlusion, migration from no flanges) — short saddle, large bilateral flanges, large diameters permitting stone passage and endoscope passage for therapeutic cholecystoscopy. US-available LAMS (Axios, Boston Scientific): fully covered, 10.5F delivery system requiring a **3.7-mm working channel** therapeutic echoendoscope; saddle lengths **10 and 15 mm**; inner diameters **10, 15, 20 mm**; anchor flanges 21, 24, 29 mm (LAMS overall range 6–20 mm).
+**Stent:** LAMS solved the failure modes (leak, contralateral wall injury/occlusion, migration from no flanges) of pigtail plastic stents and biliary self-expandable metal stents (SEMS) — short saddle, large bilateral flanges, large diameters permitting stone passage and endoscope passage for therapeutic cholecystoscopy. US-available LAMS (Axios, Boston Scientific): fully covered, 10.5F delivery system requiring a **3.7-mm working channel** therapeutic echoendoscope; saddle lengths **10 and 15 mm**; inner diameters **10, 15, 20 mm**; anchor flanges 21, 24, 29 mm (LAMS overall range 6–20 mm).
 
 **Two approaches:**
 
 | | Non–cautery-enhanced | Direct (cautery-enhanced LAMS) |
 |---|---|---|
-| Steps | 19-gauge FNA needle puncture → guidewire → tract dilation → stent placement | Freehand cautery-tip entry and deployment — no guidewire or device exchange |
+| Steps | 19-gauge fine-needle aspiration (FNA) needle puncture → guidewire → tract dilation → stent placement | Freehand cautery-tip entry and deployment — no guidewire or device exchange |
 | Imaging | Fluoroscopic guidance | Entirely EUS-guided; fluoroscopy only for salvage |
 
 - Deploy gallbladder flange under endosonographic guidance, pull back snugly, then deploy the enteric flange under EUS or endoscopic view.
 - **Enteral puncture site to gallbladder lumen must be <10 mm** for safe deployment.
 - Prefer an **over-the-wire technique** (maintains access if the stent misdeploys) when the gallbladder is fibrotic/contracted, a percutaneous drain already exists, or the scope position is difficult.
-- **Duodenum vs stomach:** no significant AE difference reported; authors prefer the **duodenal bulb** (prepyloric antral LAMS occlude with food more easily; higher inward-migration risk from antral contraction), but the deciding factor is the point of **closest gallbladder–GI wall apposition**. Distal stomach is easier for surgeons to access if the drainage site later needs closure.
+- **Duodenum vs stomach:** no significant adverse event (AE) difference reported; authors prefer the **duodenal bulb** (prepyloric antral LAMS occlude with food more easily; higher inward-migration risk from antral contraction), but the deciding factor is the point of **closest gallbladder–gastrointestinal (GI) wall apposition**. Distal stomach is easier for surgeons to access if the drainage site later needs closure.
 - **Coaxial double-pigtail plastic stent through the LAMS** — routine in the authors' practice to mitigate bleeding, stent obstruction, and contralateral wall injury.
 
 ## Outcomes
@@ -81,8 +81,8 @@ Transmural gallbladder decompression: a stent (now standardly a **lumen-apposing
 
 - **Technical success 90%–98.7%; clinical success 89%–98.4%.**
 - **Adverse events 4.8%–22%:** bleeding, recurrent cholecystitis, stent migration, occlusion; meta-analysis morbidity 20.4% (dislodgement, blockage, leak, peritonitis, pneumoperitoneum, abscess, recurrent cholecystitis); mortality 3.9%, predominantly ongoing sepsis in this comorbid population.
-- **vs PT-GBD** (5 comparative studies, 488 patients, incl. the DRAC-1 international RCT): comparable technical/clinical success; PT-GBD associated with longer hospital stay, longer time to clinical resolution, higher reintervention rates, higher postprocedure pain scores, trend to more AEs at 30 d/1 y; **recurrent cholecystitis 20% (PT) vs 2.6% (EUS), P = .029**; PT-GBD readmissions driven by drain leaks/obstruction/dislodgement.
-- **vs ET-GBD:** ET-GBD has lower technical (**84% vs 98%**) and clinical (**91% vs 97%**) success — cystic duct occlusion by tumor, stone, or uncovered metal stent is the dominant failure mode; ET-GBD cannot treat gallstones and may need stent exchanges. Network meta-analysis: **recurrent cholecystitis lowest after EUS-GBD** (RR EUS 1.089 vs PT 2.02 vs ET 2.891) but **mortality lowest after ET-GBD** (RR ET 1.29 vs PT 2.09 vs EUS 2.62).
+- **vs PT-GBD** (5 comparative studies, 488 patients, incl. the DRAC-1 international randomized controlled trial [RCT]): comparable technical/clinical success; PT-GBD associated with longer hospital stay, longer time to clinical resolution, higher reintervention rates, higher postprocedure pain scores, trend to more AEs at 30 d/1 y; **recurrent cholecystitis 20% (PT) vs 2.6% (EUS), P = .029**; PT-GBD readmissions driven by drain leaks/obstruction/dislodgement.
+- **vs ET-GBD:** ET-GBD has lower technical (**84% vs 98%**) and clinical (**91% vs 97%**) success — cystic duct occlusion by tumor, stone, or uncovered metal stent is the dominant failure mode; ET-GBD cannot treat gallstones and may need stent exchanges. Network meta-analysis: **recurrent cholecystitis lowest after EUS-GBD** (relative risk [RR] EUS 1.089 vs PT 2.02 vs ET 2.891) but **mortality lowest after ET-GBD** (RR ET 1.29 vs PT 2.09 vs EUS 2.62).
 
 ## Follow-Up / Stent Management
 
@@ -93,7 +93,7 @@ Two options after cholecystitis resolves ([[aga-2023-eus-gallbladder-drainage]])
 
 ## Quality Benchmarks
 
-From [[acg-2025-eus-quality|ACG/ASGE 2025 EUS quality indicators]]:
+From [[acg-2025-eus-quality|American College of Gastroenterology (ACG)/ASGE 2025 EUS quality indicators]]:
 
 - **Technical success in EUS-GBD: target >90%** (Grade 2B)
 - **Overall adverse-event rate after EUS-GBD: <20%** (Grade 2C)

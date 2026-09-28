@@ -18,11 +18,11 @@ sources: []
 
 ## Summary
 
-Addresses the controversy that followed early single-centre reports of unexpectedly high [[hepatocellular-carcinoma|HCC]] occurrence and recurrence after [[direct-acting-antivirals|DAA]] therapy for [[hepatitis-c|HCV]]. Three questions: does DAA-induced SVR change **incident** HCC risk, does it change **recurrent** HCC risk, and does active HCC change **DAA efficacy** — plus the operative consequences for surveillance and for the timing of antiviral therapy.
+Addresses the controversy that followed early single-centre reports of unexpectedly high [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] occurrence and recurrence after [[direct-acting-antivirals|direct-acting antiviral (DAA)]] therapy for [[hepatitis-c|hepatitis C virus (HCV)]]. Three questions: does DAA-induced sustained virologic response (SVR) change **incident** HCC risk, does it change **recurrent** HCC risk, and does active HCC change **DAA efficacy** — plus the operative consequences for surveillance and for the timing of antiviral therapy.
 
-**Occurrence vs recurrence — the directions differ, and so does the evidence quality.** For *incident* (de novo) HCC the signal is clear and **protective**: across >30,000 patients from 5 countries, SVR gave an ~**70% reduction** in HCC risk, evident within 3–6 months and increasing over time; HCC risk in DAA-cured patients was no different from IFN-cured patients (HR 1.07; 95% CI 0.55–2.08). The early hepatocarcinogenicity signal is attributed to incidence–prevalence bias (HCC present but missed before DAA start) rather than a DAA effect. For *recurrent* HCC the conclusion is **indeterminate, not reassuring-by-proof**: the update states there are **no conclusive data** in either direction (increased or decreased risk, time to recurrence, or aggressiveness), because the literature is dominated by **single-arm studies** with misclassification of pre-DAA complete response, ascertainment bias, and heterogeneous cohorts — comparator-arm studies show DAA-treated patients do **similar if not better** than untreated/IFN-treated patients, and the authors call for higher-quality data.
+**Occurrence vs recurrence — the directions differ, and so does the evidence quality.** For *incident* (de novo) HCC the signal is clear and **protective**: across >30,000 patients from 5 countries, SVR gave an ~**70% reduction** in HCC risk, evident within 3–6 months and increasing over time; HCC risk in DAA-cured patients was no different from interferon (IFN)-cured patients (hazard ratio [HR] 1.07; 95% confidence interval [CI] 0.55–2.08). The early hepatocarcinogenicity signal is attributed to incidence–prevalence bias (HCC present but missed before DAA start) rather than a DAA effect. For *recurrent* HCC the conclusion is **indeterminate, not reassuring-by-proof**: the update states there are **no conclusive data** in either direction (increased or decreased risk, time to recurrence, or aggressiveness), because the literature is dominated by **single-arm studies** with misclassification of pre-DAA complete response, ascertainment bias, and heterogeneous cohorts — comparator-arm studies show DAA-treated patients do **similar if not better** than untreated/IFN-treated patients, and the authors call for higher-quality data.
 
-**Practical consequences.** Absolute HCC risk after SVR remains above the cost-effectiveness threshold in cirrhosis, so **surveillance continues indefinitely** — but it is a different test depending on HCC history: ultrasound ± AFP every 6 months for cirrhosis/advanced fibrosis with no prior HCC, versus dynamic contrast-enhanced CT or MRI every 3–6 months (never back to ultrasound) for patients with a treated HCC. Surveillance imaging must also be done **before** starting DAAs, to exclude prevalent HCC.
+**Practical consequences.** Absolute HCC risk after SVR remains above the cost-effectiveness threshold in cirrhosis, so **surveillance continues indefinitely** — but it is a different test depending on HCC history: ultrasound ± alpha-fetoprotein (AFP) every 6 months for cirrhosis/advanced fibrosis with no prior HCC, versus dynamic contrast-enhanced computed tomography (CT) or magnetic resonance imaging (MRI) every 3–6 months (never back to ultrasound) for patients with a treated HCC. Surveillance imaging must also be done **before** starting DAAs, to exclude prevalent HCC.
 
 **Timing.** Treat HCV before HCC develops where possible. With active HCC eligible for cure, defer DAA until after resection/ablation; after complete response, do not withhold DAAs but wait **4–6 months** to confirm durable response.
 
@@ -30,7 +30,7 @@ Addresses the controversy that followed early single-centre reports of unexpecte
 
 ### Best Practice Advice (verbatim)
 
-The document issues **12 numbered Best Practice Advice statements** and attaches **no GRADE rating, evidence level, or strength of recommendation** to any of them. Its Methods state only that the recommendations "are based on available published evidence, including observational studies and systematic reviews, and incorporates expert opinion where applicable."
+The document issues **12 numbered Best Practice Advice (BPA) statements** and attaches **no Grading of Recommendations Assessment, Development and Evaluation (GRADE) rating, evidence level, or strength of recommendation** to any of them. Its Methods state only that the recommendations "are based on available published evidence, including observational studies and systematic reviews, and incorporates expert opinion where applicable."
 
 | # | Best Practice Advice |
 |---|---|
@@ -62,7 +62,7 @@ The abstract enumerates twelve statements, but the article's final section is he
 | Absolute annual risk after DAA-SVR **with cirrhosis** | 1.8%–2.5% |
 | Threshold above which surveillance is cost-effective | 0.8%–1.5% per year |
 | Child-Turcotte-Pugh **class B** cirrhosis, HCC in first year after SVR | 3.6%–7.8% |
-| Non-cirrhotic after SVR | Low risk — **exception: high baseline FIB-4**, implying advanced fibrosis |
+| Non-cirrhotic after SVR | Low risk — **exception: high baseline fibrosis-4 index (FIB-4)**, implying advanced fibrosis |
 | DAA-SVR vs IFN-SVR, all treated | HR 1.07 (95% CI 0.55–2.08) |
 | DAA-SVR vs IFN-SVR, cirrhosis | 21.2 vs 22.8 HCC per 1000 person-years (*P* = .78; log-rank *P* = .17) |
 
@@ -76,8 +76,8 @@ The abstract enumerates twelve statements, but the article's final section is he
 
 | Cohort | Effect of HCC on SVR |
 |---|---|
-| Single centre, 421 DAA-treated | Active HCC → adjusted OR 0.12 (95% CI 0.05–0.26) |
-| VA, 482 HCC vs 16,863 non-HCC | Adjusted OR 0.38 (95% CI 0.29–0.48) |
+| Single centre, 421 DAA-treated | Active HCC → adjusted odds ratio (OR) 0.12 (95% CI 0.05–0.26) |
+| Veterans Affairs (VA), 482 HCC vs 16,863 non-HCC | Adjusted OR 0.38 (95% CI 0.29–0.48) |
 | HCV-TARGET, 884 non-HCC vs 82 complete response vs 48 active HCC | HCC present vs non-HCC: adjusted OR 0.59 (95% CI 0.36–1.0); active HCC vs complete response: adjusted OR 0.81 (95% CI 0.33–2.07), not significant |
 
 - Corollary the authors draw: **treating HCV before HCC develops is the optimal strategy**.
@@ -87,7 +87,7 @@ The abstract enumerates twelve statements, but the article's final section is he
 
 - **Meta-analysis — 24 studies, 1820 patients:** recurrence ranged **0%–59% within 2 years**; pooled **25.1%** (95% CI 19.4%–31.2%). Higher in US than Europe or Asia (**43.3% vs 22.1% vs 28.9%**, *P* < .001). No significant difference by prospective vs retrospective design or by follow-up shorter/longer than 12 months.
 - **"Early" recurrence (within 6 months of DAA):** 5%–29% across 11 studies; pooled **10.3%** (95% CI 6.3%–14.4%).
-- **Background rate for comparison** — after "curative" resection/ablation, recurrence approaches **25%–35% at 1 year and 50%–60% at 2 years**; up to 25%–50% of patients in some cohorts had TACE, which is typically not curative.
+- **Background rate for comparison** — after "curative" resection/ablation, recurrence approaches **25%–35% at 1 year and 50%–60% at 2 years**; up to 25%–50% of patients in some cohorts had transarterial chemoembolization (TACE), which is typically not curative.
 - **Comparator-arm data (9 studies):** 5 showed no difference DAA vs untreated; 2 showed significantly **lower** recurrence with DAA (pooled OR 0.55; 95% CI 0.25–0.85); all 3 DAA-vs-IFN studies showed no difference (unadjusted only).
 - **US/Canada multicentre cohort, 304 DAA-treated vs 489 untreated after complete response:** no association of DAA with overall recurrence (HR 0.90; 95% CI 0.70–1.16) or early recurrence (HR 0.96; 95% CI 0.70–1.34); recurrences were detected within Milan criteria in 74.2% vs 78.8% (*P* = .23).
 - **On the transplant waiting list:** an uncontrolled study of 112 patients showed a trend to higher post-transplant recurrence with pre-transplant DAA (27.8% vs 9.5%, *P* = .06); a later 149-patient study found no difference in 1-year recurrence (adjusted HR 0.91; 95% CI 0.58–1.42) and **lower waitlist dropout** for tumour progression or death with DAA (adjusted HR 0.30; 95% CI 0.13–0.69).
@@ -112,7 +112,7 @@ The abstract enumerates twelve statements, but the article's final section is he
 ## Contradictions / Open Questions
 
 - **Advanced fibrosis (F3) without cirrhosis — direct conflict, newer source wins.** BPA 2 and 3 put **F3 or cirrhosis** into HCC surveillance. [[aasld-2023-hcc]] Guidance Statement 8 recommends **against** routine surveillance in HCV stage-3 fibrosis without cirrhosis (annual incidence <0.2%/y), allowing it only case-by-case where fibrosis may be understaged; [[aga-2026-hcc-surveillance]] BPA 3 likewise restricts surveillance in non-cirrhotic, non-HBV liver disease. [[hcc-surveillance]] follows the newer guidance. The one part of BPA 2 that stands unopposed is the **pre-DAA** imaging study to exclude prevalent HCC.
-- **AFP optional vs mandatory.** BPA 4 says ultrasound "with or without" AFP. [[aasld-2023-hcc]] GS 10 and [[aga-2026-hcc-surveillance]] BPA 2 specify ultrasound **plus** AFP in combination. Newer guidance governs.
+- **AFP optional vs mandatory.** BPA 4 says ultrasound "with or without" AFP. [[aasld-2023-hcc]] guidance statement (GS) 10 and [[aga-2026-hcc-surveillance]] BPA 2 specify ultrasound **plus** AFP in combination. Newer guidance governs.
 - **Internal numbering inconsistency.** The abstract lists 12 Best Practice Advice statements; the last section heading refers to "Best Practice Advice 12 and 13".
 - **Unresolved by the source:** whether HCC risk falls far enough after SVR to ever stop surveillance (BPA 5 explicitly defers this to future studies); whether DAA changes recurrence risk at all (BPA 10); and whether deferring DAA after HCC complete response actually improves SVR versus immediate treatment — the authors state comparative studies are needed.
 - **A published confidence interval is internally inconsistent** — the non-characterised-nodule risk is printed as "RR, 2.83; 95% CI, 1.55–1.60", an upper bound below the point estimate.

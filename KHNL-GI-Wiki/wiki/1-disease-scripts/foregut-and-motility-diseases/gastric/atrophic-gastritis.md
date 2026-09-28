@@ -53,16 +53,16 @@ Intestinal metaplasia on gastric histopathology almost invariably implies underl
 - Non-White racial/ethnic minority or immigrant from high gastric cancer incidence region (East Asia, Latin America, Eastern Europe)
 - Established H. pylori infection (past or current)
 - Known autoimmune disease, especially autoimmune thyroid disease (up to 1/3 have AIG)
-- IM reported on gastric biopsies without explicit AG diagnosis
+- Intestinal metaplasia (IM) reported on gastric biopsies without explicit AG diagnosis
 - New diagnosis of pernicious anemia
 
 **Prevalence:** AG up to 15% in US populations; AIG 0.5%–2%; PA 0.15%–1%
 
 ### Severity Assessment
 
-AG severity and extent determine gastric cancer risk. Two validated staging systems — **OLGA/OLGIM** (histopathologic) and **Kimura-Takemoto** (endoscopic). Both are covered here.
+AG severity and extent determine gastric cancer risk. Two validated staging systems — **Operative Link for Gastritis Assessment (OLGA) / Operative Link for [[gastric-intestinal-metaplasia|Gastric Intestinal Metaplasia]] Assessment (OLGIM)** (histopathologic) and **Kimura-Takemoto** (endoscopic). Both are covered here.
 
-**OLGA (Operative Link for Gastritis Assessment) / OLGIM (Operative Link for [[gastric-intestinal-metaplasia|Gastric Intestinal Metaplasia]] Assessment):**
+**OLGA / OLGIM:**
 
 - Stage = the **combination** of histopathologic severity (score **0–3**) in **each** anatomic compartment — antrum/incisura and corpus — scored for **atrophy** (OLGA) or for **IM** (OLGIM). Requires biopsies jarred separately from the two compartments (see [[#Biopsy Protocol — Updated Sydney Protocol]]) [[aga-2021-atrophic-gastritis]] [[acg-2025-gastric-premalignant]]
 - Stages run **0** (normal pathology) → **IV** (moderate/severe atrophy ± IM of **both** antrum and corpus) [[acg-2025-gastric-premalignant]]
@@ -77,10 +77,10 @@ AG severity and extent determine gastric cancer risk. Two validated staging syst
 
 - **OLGIM vs OLGA:** OLGIM has **lower interobserver variability**, but **downstages** some high-risk individuals who have atrophy with limited IM
 - **Do not apply OLGA/OLGIM to autoimmune gastritis in the absence of H. pylori** — in H. pylori-negative AIG, atrophy and IM occur only in the corpus [[acg-2025-gastric-premalignant]]
-- Magnitude of the gradient (Singapore GCEP cohort, largest published GPMC cohort): early gastric neoplasia **543.8 per 10,000 person-years** with OLGIM III/IV vs **21.5** with OLGIM I
+- Magnitude of the gradient (Singapore GCEP cohort, largest published gastric premalignant conditions (GPMC) cohort): early gastric neoplasia **543.8 per 10,000 person-years** with OLGIM III/IV vs **21.5** with OLGIM I
 - Adoption: widespread in Europe and some Asian/Latin American centers; only a limited number of US centers stage routinely
 
-[[acg-2025-gastric-premalignant|ACG 2025]] and [[aga-2021-atrophic-gastritis|AGA 2021]] print the OLGA/OLGIM stage-assignment grid (antrum score × corpus score → stage) only as a figure, not as a reproducible table.
+[[acg-2025-gastric-premalignant|American College of Gastroenterology (ACG) 2025]] and [[aga-2021-atrophic-gastritis|American Gastroenterological Association (AGA) 2021]] print the OLGA/OLGIM stage-assignment grid (antrum score × corpus score → stage) only as a figure, not as a reproducible table.
 
 **Kimura-Takemoto endoscopic classification** — grades the extent of the **atrophic border** [[aga-2021-atrophic-gastritis]]:
 
@@ -101,10 +101,10 @@ AG severity and extent determine gastric cancer risk. Two validated staging syst
 | Feature | HpAG | AIG |
 |---|---|---|
 | Atrophy distribution | Antrum-dominant, expands proximally | Corpus/fundus dominant, antral sparing |
-| Serologic markers | H. pylori antibodies | PCA (sensitive), IFA (specific) |
+| Serologic markers | H. pylori antibodies | Parietal cell antibodies (PCA; sensitive), intrinsic factor antibodies (IFA; specific) |
 | Acid secretion | Variable | Hypochlorhydria/achlorhydria |
-| Main cancer risk | [[gastric-adenocarcinoma\|Gastric adenocarcinoma]] | Gastric adenocarcinoma + type I NETs |
-| Associated conditions | H. pylori infection | Autoimmune thyroid disease, T1DM, Addison's |
+| Main cancer risk | [[gastric-adenocarcinoma\|Gastric adenocarcinoma]] | Gastric adenocarcinoma + type I neuroendocrine tumors (NETs) |
+| Associated conditions | H. pylori infection | Autoimmune thyroid disease, type 1 diabetes mellitus (T1DM), Addison's |
 
 ---
 
@@ -112,9 +112,9 @@ AG severity and extent determine gastric cancer risk. Two validated staging syst
 
 *Workup: see [[dyspepsia]].*
 
-- **Reactive (chemical) gastropathy:** NSAIDs, bile acid reflux; no gland loss
+- **Reactive (chemical) gastropathy:** Nonsteroidal anti-inflammatory drugs (NSAIDs), bile acid reflux; no gland loss
 - **H. pylori gastritis without atrophy:** active/chronic inflammation present, glands intact
-- **Other infectious gastritis:** CMV (immunosuppressed), syphilis
+- **Other infectious gastritis:** Cytomegalovirus (CMV; immunosuppressed), syphilis
 - **Lymphocytic gastritis:** increased intraepithelial lymphocytes; association with [[celiac-disease|celiac disease]] and H. pylori
 - **Eosinophilic gastritis:** eosinophilic infiltration; distinct histologic pattern
 - **Menetrier's disease:** foveolar hyperplasia, protein-losing gastropathy; giant rugal folds (not atrophy)
@@ -136,7 +136,7 @@ AG severity and extent determine gastric cancer risk. Two validated staging syst
 
 - Light blue crest (LBC) sign: fine blue-white lines on epithelial surface crests (sensitivity/specificity ~90%)
 - White opaque substance (WOS/WOF): lipid droplet accumulation (specificity 100%, sensitivity ~50%)
-- Best visualized with NBI; near-focus HD-WLE adequate in the US where magnifying endoscopy is unavailable
+- Best visualized with narrow-band imaging (NBI); near-focus high-definition white-light endoscopy (HD-WLE) adequate in the US where magnifying endoscopy is unavailable
 - HD-WLE with NBI: sensitivity 87%, specificity 97% for IM; 92%/99% for dysplasia
 
 **Technique:**
@@ -165,16 +165,16 @@ Minimum acceptable: 2 jars (antrum/incisura; body). Additional targeted biopsies
 **All AG patients:**
 
 - H. pylori testing
-- CBC (anemia evaluation)
-- Iron studies (ferritin, iron, TIBC)
+- Complete blood count (CBC; anemia evaluation)
+- Iron studies (ferritin, iron, total iron-binding capacity [TIBC])
 - Vitamin B-12
 
 **Suspected AIG:**
 
-- Parietal cell antibodies (PCA): most sensitive; false positives in H. pylori infection and other autoimmune diseases
-- Intrinsic factor antibodies (IFA): low sensitivity (<30%) but high specificity; confirms AIG when positive
-- TSH (screen for autoimmune thyroid disease in all AIG patients)
-- Consider fasting glucose/HbA1c (T1DM) and morning cortisol (Addison's) if clinically indicated
+- PCA: most sensitive; false positives in H. pylori infection and other autoimmune diseases
+- IFA: low sensitivity (<30%) but high specificity; confirms AIG when positive
+- Thyroid-stimulating hormone (TSH; screen for autoimmune thyroid disease in all AIG patients)
+- Consider fasting glucose/hemoglobin A1c (HbA1c; T1DM) and morning cortisol (Addison's) if clinically indicated
 
 **Serum pepsinogens (PG I, PG I:II ratio):** PG I <70 µg/L and PG I:II <3.0 = high sensitivity/specificity for severe corpus atrophy — not available for routine clinical use in the United States.
 
@@ -197,17 +197,17 @@ Test all AG patients for H. pylori regardless of etiology. If positive, treat an
 
 Evaluate and treat proactively in all AG patients, especially corpus-predominant:
 
-- **Iron:** up to 50% of corpus-predominant AG have iron deficiency; often precedes B-12 deficiency; treat with oral or IV iron
-- **Vitamin B-12:** treat with IM or high-dose oral B-12; in pernicious anemia, IM injection is standard (absent intrinsic factor)
+- **Iron:** up to 50% of corpus-predominant AG have iron deficiency; often precedes B-12 deficiency; treat with oral or intravenous (IV) iron
+- **Vitamin B-12:** treat with intramuscular or high-dose oral B-12; in pernicious anemia, intramuscular injection is standard (absent intrinsic factor)
 
 ### 3. Endoscopic Surveillance
 
-Surveillance is by **high-quality [[upper-endoscopy|EGD]]** with Sydney-protocol biopsies (see above), not a limited exam.
+Surveillance is by **high-quality [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]]** with Sydney-protocol biopsies (see above), not a limited exam.
 
 | Scenario | Interval |
 |---|---|
 | Advanced HpAG (OLGA/OLGIM III/IV or O2–O3 Kimura-Takemoto) | Every 3 years |
-| AIG (without PA) | Individualized; ESGE recommends every 3–5 years |
+| AIG (without PA) | Individualized; European Society of Gastrointestinal Endoscopy (ESGE) recommends every 3–5 years |
 | New pernicious anemia (no recent endoscopy) | Within 6 months — rule out prevalent gastric neoplasia including NETs |
 | Mild/moderate AG limited to antrum (OLGA/OLGIM 0–II) | No routine surveillance; individualize based on risk factors |
 
@@ -215,13 +215,13 @@ Surveillance is by **high-quality [[upper-endoscopy|EGD]]** with Sydney-protocol
 
 ### 4. Type I Gastric NETs
 
-Arise from parietal cell loss → hypochlorhydria → hypergastrinemia → ECL cell hyperplasia → NET. Account for ~80%–90% of all gastric NETs; found in corpus/fundus.
+Arise from parietal cell loss → hypochlorhydria → hypergastrinemia → enterochromaffin-like (ECL) cell hyperplasia → NET. Account for ~80%–90% of all gastric NETs; found in corpus/fundus.
 
 | NET size | Management |
 |---|---|
 | <1 cm | Endoscopic resection; surveillance every 1–2 years based on NET burden |
 | 1–2 cm | Endoscopic resection; consider [[endoscopic-ultrasound]] for depth of invasion and local metastasis |
-| >2 cm, submucosal invasion, or LN metastasis | Surgical resection |
+| >2 cm, submucosal invasion, or lymph node (LN) metastasis | Surgical resection |
 
 Metastasis rate: <10% for NETs ≤2 cm; ~20% for NETs >2 cm.
 

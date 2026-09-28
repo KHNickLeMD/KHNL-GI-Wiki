@@ -21,13 +21,13 @@ sources: []
 
 ## Summary
 
-ASGE Standards of Practice guideline covering the evaluation and endoscopic management of ingested foreign bodies and esophageal food bolus impaction in adults and children. Ten GRADE-rated recommendations, plus two tables: the GRADE evidence-quality legend (Table 1) and the timing-of-endoscopy triage table (Table 2), which is the operative decision tool of the document.
+American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice guideline covering the evaluation and endoscopic management of ingested foreign bodies and esophageal food bolus impaction in adults and children. Ten Grading of Recommendations Assessment, Development and Evaluation (GRADE)-rated recommendations, plus two tables: the GRADE evidence-quality legend (Table 1) and the timing-of-endoscopy triage table (Table 2), which is the operative decision tool of the document.
 
 Core framing: most ingestions pass spontaneously (≥80% in pre-endoscopic series), so the guideline is organised around identifying the minority that do not — objects that will not pass a fixed anatomic narrowing (>2.5 cm diameter at the pylorus; >6 cm length at the duodenum), objects that injure while they sit (disk batteries in the esophagus, magnets, sharp-pointed objects), and patients whose airway is at risk (unable to manage secretions). Everything else is triaged to urgent (within 24 h) or nonurgent/observational management with serial radiographs.
 
 The esophagus is the pressure point. Esophageal foreign objects and food impactions must be removed **within 24 hours** — delay reduces the likelihood of successful removal and increases perforation risk. Once past the esophagus, most objects (including sharp ones) pass uneventfully in 4–6 days.
 
-For food bolus impaction — the most common esophageal foreign body in Western adults — the 2011 guideline formally accepts the **gentle push technique** alongside en bloc and piecemeal extraction, a reversal of the prior ASGE position. It also fixes two hard rules: **papain and other proteolytic enzymes must never be used**, and **eosinophilic esophagitis must be looked for** (found in up to 33% of food bolus impactions) with mid- and distal-esophageal biopsies, deferring dilation pending pathology when EoE is suspected.
+For food bolus impaction — the most common esophageal foreign body in Western adults — the 2011 guideline formally accepts the **gentle push technique** alongside en bloc and piecemeal extraction, a reversal of the prior ASGE position. It also fixes two hard rules: **papain and other proteolytic enzymes must never be used**, and **eosinophilic esophagitis (EoE) must be looked for** (found in up to 33% of food bolus impactions) with mid- and distal-esophageal biopsies, deferring dilation pending pathology when EoE is suspected.
 
 ---
 
@@ -55,7 +55,7 @@ For food bolus impaction — the most common esophageal foreign body in Western 
 5. "We suggest endoscopic removal of all objects with a diameter larger than 2.5 cm from the stomach." ⊕◯◯◯
 6. "We suggest endoscopic removal of sharp-pointed objects or objects longer [than] 6 cm in the proximal duodenum or above." ⊕⊕◯◯ *("longer 6 cm" as printed)*
 7. "We recommend emergent removal of disk batteries in the esophagus." ⊕⊕◯◯
-8. "We recommend urgent removal of all magnets within endoscopic reach. ⊕⊕◯◯ For those beyond endoscopic reach, close observation and surgical consultation for nonprogression through the GI tract is advised."
+8. "We recommend urgent removal of all magnets within endoscopic reach. ⊕⊕◯◯ For those beyond endoscopic reach, close observation and surgical consultation for nonprogression through the GI [gastrointestinal] tract is advised."
 9. "We suggest that coins within the esophagus may be observed in asymptomatic patients but should be removed within 24 hours of ingestion if spontaneous passage does not occur." ⊕⊕◯◯
 10. "We recommend against endoscopic removal of drug-containing packets." ⊕⊕◯◯
 
@@ -102,7 +102,7 @@ For food bolus impaction — the most common esophageal foreign body in Western 
 - Biplane radiographs identify most true foreign objects, steak bones, and free mediastinal or peritoneal air; confirm location, size, shape, and number; help exclude aspirated objects.
 - **Not readily seen radiographically:** fish or chicken bones, wood, plastic, glass, thin metal objects.
 - Contrast examination generally should not be performed — aspiration risk, and contrast coating of the object and mucosa compromises subsequent endoscopy.
-- CT may be useful but may not detect radiolucent objects; sensitivity improved with 3-dimensional reconstruction.
+- Computed tomography (CT) may be useful but may not detect radiolucent objects; sensitivity improved with 3-dimensional reconstruction.
 - Metal detectors localize most swallowed metal objects; especially helpful in pediatric patients.
 - Persistent esophageal symptoms should be evaluated by endoscopy **even with a negative radiographic evaluation**.
 - Suspected nonbony food bolus impaction without complications (no perforation, no respiratory distress) → endoscopy may proceed **without** radiographs.
@@ -135,7 +135,7 @@ For food bolus impaction — the most common esophageal foreign body in Western 
 - Caution after prolonged impaction or if eosinophilic esophagitis is suspected.
 - **Eosinophilic esophagitis reported in as many as 33% of patients with food bolus impaction.** If suspected → obtain biopsies of the **mid and distal esophagus**, and dilation may be deferred pending pathology results.
 - **A proteolytic enzyme, like papain, should never be used** — hypernatremia, mucosal erosion, and esophageal perforation can result.
-- **Glucagon 1.0 mg IV** advocated to relax the distal esophagus and allow spontaneous passage while endoscopic therapy is coordinated. Effectiveness questioned; a single small randomized study showed no significant improvement over placebo. Relatively safe and remains an acceptable option, but **its use should not delay definitive endoscopic removal**.
+- **Glucagon 1.0 mg intravenous (IV)** advocated to relax the distal esophagus and allow spontaneous passage while endoscopic therapy is coordinated. Effectiveness questioned; a single small randomized study showed no significant improvement over placebo. Relatively safe and remains an acceptable option, but **its use should not delay definitive endoscopic removal**.
 
 ### Short, blunt objects (including coins)
 

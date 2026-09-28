@@ -18,11 +18,11 @@ sources: []
 - **Type:** guideline
 
 ## Summary
-The 2019 ACG guideline is a GRADE-based reference for adult [[ulcerative-colitis|ulcerative colitis]], organized around diagnosis, disease extent (proctitis, left-sided, extensive), activity-stratified induction and maintenance, acute severe UC (ASUC), and dysplasia surveillance. It set mucosal healing (Mayo endoscopic 0–1) as a treatment target and endorsed fecal calprotectin as an endoscopy surrogate.
+The 2019 American College of Gastroenterology (ACG) guideline is a Grading of Recommendations Assessment, Development and Evaluation (GRADE)-based reference for adult [[ulcerative-colitis|ulcerative colitis (UC)]], organized around diagnosis, disease extent (proctitis, left-sided, extensive), activity-stratified induction and maintenance, acute severe UC (ASUC), and dysplasia surveillance. It set mucosal healing (Mayo endoscopic 0–1) as a treatment target and endorsed fecal calprotectin (FC) as an endoscopy surrogate.
 
-For mild-moderate disease it codified 5-ASA strategy: rectal 5-ASA for proctitis, combined oral+rectal 5-ASA for left-sided disease, oral ≥2 g/d for extensive disease, and budesonide MMX as add-on. For moderate-severe disease it recommended anti-TNF therapy (adalimumab, golimumab, infliximab — infliximab combined with a thiopurine), vedolizumab, and tofacitinib, with against-monotherapy guidance for thiopurines/methotrexate at induction and therapeutic drug monitoring on loss of response.
+For mild-moderate disease it codified 5-aminosalicylic acid (5-ASA) strategy: rectal 5-ASA for proctitis, combined oral+rectal 5-ASA for left-sided disease, oral ≥2 g/d for extensive disease, and budesonide MMX as add-on. For moderate-severe disease it recommended anti-tumor necrosis factor (anti-TNF) therapy (adalimumab, golimumab, infliximab — infliximab combined with a thiopurine), vedolizumab, and tofacitinib, with against-monotherapy guidance for thiopurines/methotrexate at induction and therapeutic drug monitoring on loss of response.
 
-ASUC management is detailed: VTE prophylaxis, [[clostridioides-difficile|C. difficile]] testing (vancomycin if positive), IV corticosteroids, and rescue with infliximab or cyclosporine at day 3–5. Surveillance recommendations favor chromoendoscopy/high-definition techniques. Drug positioning predates newer agents (ustekinumab, ozanimod, upadacitinib in UC) and is superseded by the [[acg-2025-uc|ACG Clinical Guideline: Ulcerative Colitis (2025)]] and [[aga-2024-uc-pharm|AGA Pharmacologic Management of Moderate–Severe UC (2024)]].
+ASUC management is detailed: venous thromboembolism (VTE) prophylaxis, [[clostridioides-difficile|C. difficile]] testing (vancomycin if positive), intravenous (IV) corticosteroids, and rescue with infliximab or cyclosporine at day 3–5. Surveillance recommendations favor chromoendoscopy/high-definition techniques. Drug positioning predates newer agents (ustekinumab, ozanimod, upadacitinib in UC) and is superseded by the [[acg-2025-uc|ACG Clinical Guideline: Ulcerative Colitis (2025)]] and [[aga-2024-uc-pharm|AGA Pharmacologic Management of Moderate–Severe UC (2024)]].
 
 ## Key Findings / Claims — Recommendations
 Recommendations 1–54, captured near-verbatim with GRADE strength and quality of evidence:
@@ -53,7 +53,7 @@ Recommendations 1–54, captured near-verbatim with GRADE strength and quality o
 24. When infliximab is used as induction therapy for patients with moderately to severely active UC, we recommend combination therapy with a thiopurine (strong recommendation, moderate quality of evidence for azathioprine)
 25. In patients with moderately to severely active UC, we recommend vedolizumab for induction of remission (strong recommendation, moderate quality of
 26. In patients with moderately to severely active UC who have previously failed anti-TNF therapy, we recommend vedolizumab for induction of remission (strong recommendation, moderate quality of evidence)
-27. In patients with moderately to severely active UC, we recommend tofacitinib 10 mg orally b.i.d. for 8 wk to induce remission (strong recommendation,
+27. In patients with moderately to severely active UC, we recommend tofacitinib 10 mg orally b.i.d. [twice daily] for 8 wk to induce remission (strong recommendation,
 28. In patients with moderately to severely active UC who have previously failed anti-TNF therapy, we recommend tofacitinib for induction of remission (strong recommendation, moderate quality of evidence)
 29. In patients with moderately to severely active UC who are responders to anti-TNF therapy and now losing response, we suggest measuring serum drug levels and antibodies (if there is not a therapeutic level) to assess the reason for loss of response (conditional recommendation, very low quality of evidence)
 30. In patients with previously moderately to severely active UC who have achieved remission but previously failed 5-ASA therapy and are now on anti-TNF therapy, we recommend against using concomitant 5-ASA for efficacy of maintenance of remission (conditional recommendation, low quality of evidence)
@@ -63,8 +63,8 @@ Recommendations 1–54, captured near-verbatim with GRADE strength and quality o
 34. We recommend continuing anti-TNF therapy using adalimumab, golimumab, or infliximab to maintain remission after anti-TNF induction in patients with previously moderately to severely active UC (strong recommendation, moderate quality of evidence)
 35. We recommend continuing vedolizumab to maintain remission in patients with previously moderately to severely active UC now in remission after vedolizumab induction (strong recommendation, moderate quality of evidence)
 36. We recommend continuing tofacitinib for maintenance of remission in patients with previously moderately to severely active UC now in remission after induction with tofacitinib (strong recommendation, moderate quality of evidence)
-37. In patients with ASUC, we recommend DVT prophylaxis to prevent VTE (strong recommendation, low quality of evidence)
-38. In patients with ASUC, we recommend testing for CDI (strong recommendation, moderate quality of evidence)
+37. In patients with ASUC, we recommend DVT [deep vein thrombosis] prophylaxis to prevent VTE (strong recommendation, low quality of evidence)
+38. In patients with ASUC, we recommend testing for CDI [*C. difficile* infection] (strong recommendation, moderate quality of evidence)
 39. In patients with ASUC and concomitant CDI, we recommend treatment of CDI with vancomycin instead of metronidazole (strong recommendation, low
 40. We recommend against the routine use of broad-spectrum antibiotics in the management of ASUC (strong recommendation, low quality of evidence)
 41. We suggest against total parenteral nutrition for the purpose of bowel rest in ASUC (conditional recommendation, very low quality of evidence)
@@ -78,9 +78,9 @@ Recommendations 1–54, captured near-verbatim with GRADE strength and quality o
 49. When using high-definition colonoscopes in patients with UC undergoing surveillance, we suggest white-light endoscopy with narrow-band imaging or dye spray chromoendoscopy with methylene blue or indigo carmine to identify dysplasia (conditional recommendation, low quality of evidence)
 50. When dysplasia in UC is not resectable or is multifocal, the patient should be referred for proctocolectomy.
 51. Patients with UC who have extensive inflammatory polyps may not be able to have adequate surveillance and should be informed about this fact and that more frequent surveillance or surgery may be required.
-52. No medical therapy has demonstrated sufficient prevention of dysplasia or CRC to avoid colonoscopic surveillance in UC.
+52. No medical therapy has demonstrated sufficient prevention of dysplasia or CRC [colorectal cancer] to avoid colonoscopic surveillance in UC.
 53. Patients with UC-associated dysplasia who are undergoing ongoing active surveillance may benefit from the use of augmented visualization by dye spray chromoendoscopy in their first examination after UC-associated dysplasia was detected.
-54. Fecal DNA testing and CT colonography are not recommended for screening or surveillance of UC-associated neoplasia because of insufficient evidence.
+54. Fecal DNA testing and CT [computed tomography] colonography are not recommended for screening or surveillance of UC-associated neoplasia because of insufficient evidence.
 
 ## Relevance to Wiki
 - Primary entity page updated: see See Also. This historical source is added to that page's `## Sources` for completeness; current therapeutic content on the entity page reflects the superseding guideline, not this edition.

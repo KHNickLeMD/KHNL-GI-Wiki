@@ -14,19 +14,19 @@ sources: []
 - **Year:** 2018
 - **Journal/Publisher:** *American Journal of Gastroenterology* 2018; 113:464–479. doi:10.1038/ajg.2018.14; published online 27 February 2018
 - **DOI:** [10.1038/ajg.2018.14](https://doi.org/10.1038/ajg.2018.14)
-- **Type:** Guideline (ACG Clinical Guideline)
+- **Type:** Guideline — American College of Gastroenterology (ACG) Clinical Guideline
 
 ---
 
 ## Summary
 
-Pancreatic cysts are detected incidentally in 2.4–13.5% of abdominal MRIs in asymptomatic populations, with increasing incidence due to wider use of cross-sectional imaging. Prevalence of cysts >2 cm is only 0.8%. Most incidentally found cysts are side-branch IPMNs; the vast majority will never progress to cancer. The SEER-based estimated probability of a cyst harboring malignancy at time of imaging is 0.25%, with an overall conversion rate to invasive cancer of 0.24% per year.
+Pancreatic cysts are detected incidentally in 2.4–13.5% of abdominal magnetic resonance images (MRIs) in asymptomatic populations, with increasing incidence due to wider use of cross-sectional imaging. Prevalence of cysts >2 cm is only 0.8%. Most incidentally found cysts are side-branch intraductal papillary mucinous neoplasms (IPMNs); the vast majority will never progress to cancer. The Surveillance, Epidemiology, and End Results (SEER)-based estimated probability of a cyst harboring malignancy at time of imaging is 0.25%, with an overall conversion rate to invasive cancer of 0.24% per year.
 
-Cyst types span non-neoplastic (pseudocysts) and neoplastic (serous cystadenomas, IPMNs, MCNs, solid-pseudopapillary neoplasms, cystic PNETs). Management is driven by risk stratification: medically unfit patients should not undergo further workup regardless of size; pseudocysts and SCAs with classic imaging do not require surveillance; IPMNs and MCNs require surveillance unless truly benign; solid-pseudopapillary neoplasms warrant resection.
+Cyst types span non-neoplastic (pseudocysts) and neoplastic (serous cystadenomas [SCAs], IPMNs, mucinous cystic neoplasms [MCNs], solid-pseudopapillary neoplasms [SPNs], cystic pancreatic neuroendocrine tumors [PNETs]). Management is driven by risk stratification: medically unfit patients should not undergo further workup regardless of size; pseudocysts and SCAs with classic imaging do not require surveillance; IPMNs and MCNs require surveillance unless truly benign; solid-pseudopapillary neoplasms warrant resection.
 
-MRI/MRCP is the preferred imaging modality for diagnosis and surveillance. [[endoscopic-ultrasound|EUS]]-FNA adds value when diagnosis is unclear or management decisions hinge on cyst fluid analysis. Cytology has poor sensitivity (~65%) but excellent specificity (~91%) for cancer. Cyst fluid CEA identifies mucinous cysts (IPMNs/MCNs) with sensitivity 63% and specificity 93% but cannot distinguish high-grade dysplasia or cancer. Molecular markers (KRAS, GNAS) are promising but not yet standard of care.
+MRI/magnetic resonance cholangiopancreatography (MRCP) is the preferred imaging modality for diagnosis and surveillance. [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]-fine-needle aspiration (FNA) adds value when diagnosis is unclear or management decisions hinge on cyst fluid analysis. Cytology has poor sensitivity (~65%) but excellent specificity (~91%) for cancer. Cyst fluid carcinoembryonic antigen (CEA) identifies mucinous cysts (IPMNs/MCNs) with sensitivity 63% and specificity 93% but cannot distinguish high-grade dysplasia or cancer. Molecular markers (KRAS, GNAS) are promising but not yet standard of care.
 
-Surveillance is stratified by cyst size and reserved for presumed IPMNs/MCNs in surgically fit patients. The Table 3 high-risk characteristics (mural nodule or solid component, main pancreatic duct **>5 mm**, change in main duct caliber with upstream atrophy, size **>3 cm**, growth **>3 mm/year**, jaundice from the cyst, [[acute-pancreatitis|acute pancreatitis]] from the cyst, elevated CA 19-9, or HGD/[[pancreatic-cancer|cancer]] on cytology) should prompt EUS±FNA and/or multidisciplinary group referral; new-onset or worsening diabetes is a separate trigger under Recommendation 10. Surveillance should be discontinued when a patient is no longer a surgical candidate. Post-surgical surveillance differs by cyst type and presence of invasive cancer.
+Surveillance is stratified by cyst size and reserved for presumed IPMNs/MCNs in surgically fit patients. The Table 3 high-risk characteristics (mural nodule or solid component, main pancreatic duct **>5 mm**, change in main duct caliber with upstream atrophy, size **>3 cm**, growth **>3 mm/year**, jaundice from the cyst, [[acute-pancreatitis|acute pancreatitis]] from the cyst, elevated carbohydrate antigen (CA) 19-9, or high-grade dysplasia (HGD)/[[pancreatic-cancer|cancer]] on cytology) should prompt EUS±FNA and/or multidisciplinary group referral; new-onset or worsening diabetes is a separate trigger under Recommendation 10. Surveillance should be discontinued when a patient is no longer a surgical candidate. Post-surgical surveillance differs by cyst type and presence of invasive cancer.
 
 ---
 
@@ -113,7 +113,7 @@ Evidence grade key: "Strong" = evidence clearly shows benefit outweighs risk; "C
 - Prevalence of cysts >2 cm: only **0.8%** (five studies, n=25,195)
 - SEER-database analysis (assuming all pancreatic cancer arises in cysts): probability a cyst harbors malignancy **at the time of imaging 0.25%**; overall conversion rate to invasive cancer **0.24% per year**
 - Surgically resected series report far higher rates — pooled proportion of cysts with pancreatic cancer **15%** (27 studies, n=2,796); restricted to resected IPMNs, HGD-or-cancer **42%** (99 studies, n=9,249). *(Resection series are selected populations — this is the reason for the gap.)*
-- Suspected IPMNs followed non-operatively (n=3,980): overall risk of developing pancreatic cancer **2.8% (95% CI 1.8–4.0%)**, ≈ **0.72%/year (95% CI 0.48–1.08)**
+- Suspected IPMNs followed non-operatively (n=3,980): overall risk of developing pancreatic cancer **2.8% (95% confidence interval [CI] 1.8–4.0%)**, ≈ **0.72%/year (95% CI 0.48–1.08)**
 - Side-branch IPMN pooled cumulative incidence of HGD or cancer (systematic review/meta-analysis, n=3,236; **"high risk" defined in that analysis as a mural nodule or dilated main pancreatic duct**):
 
 | | 1 year | 5 years | 10 years |
@@ -134,7 +134,7 @@ Evidence grade key: "Strong" = evidence clearly shows benefit outweighs risk; "C
 - MRI/MRCP accuracy for diagnosing cyst type: **40–50%**; for benign vs. malignant: **55–76%**; sensitivity for diagnosing IPMN vs. other cyst types **96%**
 - CT accuracy for identifying benign from malignant: **71–80%**; sensitivity for main-duct communication (IPMN vs. other) **80%**
 - **EUS imaging alone (without cyst fluid evaluation)** was accurate for benign vs. malignant **65–96%** of the time — similar to MRI and CT, which is why it is not first-line for a small cyst with a clear diagnosis and no concerning features. EUS **is** more accurate than MRI for identifying a mural nodule.
-- PET/CT diagnostic accuracy 94% vs. 77% MDCT and 87% MR in one prospective study of 31 patients — still insufficient evidence to support routine use
+- Positron emission tomography (PET)/CT diagnostic accuracy 94% vs. 77% multidetector CT (MDCT) and 87% magnetic resonance (MR) in one prospective study of 31 patients — still insufficient evidence to support routine use
 
 **Cyst fluid**
 
@@ -148,7 +148,7 @@ Evidence grade key: "Strong" = evidence clearly shows benefit outweighs risk; "C
 
 **Risk associations**
 
-- Mural nodule → OR **9.3 (95% CI 5.3–16.1)** for HGD/cancer (systematic review/meta-analysis of >1,400 patients); a second review found OR 7.73 (3.38–17.67)
+- Mural nodule → odds ratio (OR) **9.3 (95% CI 5.3–16.1)** for HGD/cancer (systematic review/meta-analysis of >1,400 patients); a second review found OR 7.73 (3.38–17.67)
 - **Main pancreatic duct dilation >6 mm** → pooled OR **7.27 (95% CI 3.0–17.4)** for HGD/cancer (358 IPMNs, 8 studies); a different review of 4 studies found OR 2.38 (0.71–8.00, not significant). Large surgical series report HGD ~60% (range 36–100%) and cancer ~44% (range 11–81%) with main-duct involvement. **The guideline nonetheless recommends a conservative >5 mm cutoff** (Table 3 / Rec 11b) rather than the 6 mm of the meta-analysis.
 - Serum CA 19-9 **>37 U/ml**: pooled sensitivity **40%**, specificity **89%**, OR **4.34 (95% CI 2.65–7.10)** for HGD or cancer
 - Growth rate: two retrospective studies found IPMNs growing **≥2 mm/year** carried higher risk of HGD/cancer, but the guideline calls the evidence for that cutoff limited and notes **interobserver variability in measuring pancreatic cysts may be as high as 4 mm** — which is why its own action threshold is set at ≥3 mm/year and why the same modality should be used serially
@@ -172,7 +172,7 @@ Evidence grade key: "Strong" = evidence clearly shows benefit outweighs risk; "C
 | IPMN (mixed) | Rare; appears to have the same cancer risk as main duct | Side-branch IPMN combined with main-duct IPMN |
 | MCN | Almost exclusively women, 5th–7th decade | Vast majority in body or tail; unilocular ± septations or wall calcification; **no main-duct communication**; mucin-producing; aspirate: high CEA, variable amylase |
 | SPN | 10:1 women:men; most commonly present in their 20s, though wide age range | Single cyst anywhere in the pancreas; smaller ones more solid without cystic degeneration |
-| Cystic PNET | Usually non-functioning; Men = Women, 5th–6th decade; may be associated with MEN I | Aspirate: low CEA, low amylase/lipase; cytology: neuroendocrine tumor |
+| Cystic PNET | Usually non-functioning; Men = Women, 5th–6th decade; may be associated with multiple endocrine neoplasia type I (MEN I) | Aspirate: low CEA, low amylase/lipase; cytology: neuroendocrine tumor |
 
 ---
 
@@ -213,7 +213,7 @@ These are the criteria behind Recommendation 11; **any one** of them warrants [[
 - **>5 mm vs >6 mm main pancreatic duct:** the meta-analytic risk estimate the guideline cites (OR 7.27) is for duct dilation **>6 mm**, but Table 3 and Recommendation 11(b) set the action threshold at **>5 mm** — deliberately conservative, and stated as such ("we recommend use of a conservative duct diameter"). Anyone citing the 7.27 OR alongside the 5 mm cutoff should know they come from different numbers.
 - **Table 3 vs Recommendation 11(b) are not identical lists.** Rec 11(b) adds "a focal dilation of the pancreatic duct concerning for main duct IPMN or an obstructing lesion," which Table 3 omits; Table 3 lists "change in main duct caliber with upstream atrophy," which Rec 11(b) omits. A page reproducing only one of the two loses a criterion.
 - Optimal cyst size cutoff for surgery remains debated (≥3 cm vs. ≥4 cm); guideline recommends referral at ≥3 cm with multidisciplinary discussion
-- Whether to stop surveillance after 5 years of stability is unresolved; AGA (2015) recommended stopping at 5 years; this ACG guideline defers, stating insufficient evidence to recommend discontinuation in still-surgically-fit patients
+- Whether to stop surveillance after 5 years of stability is unresolved; American Gastroenterological Association (AGA; 2015) recommended stopping at 5 years; this ACG guideline defers, stating insufficient evidence to recommend discontinuation in still-surgically-fit patients
 - Cyst ablation (ethanol ± paclitaxel): insufficient evidence for routine use; should be offered only in clinical trials
 - PET-CT: insufficient evidence to support routine use
 - Secretin-MRCP: small incremental value (communication visualized in only 5% additional patients); may not justify cost

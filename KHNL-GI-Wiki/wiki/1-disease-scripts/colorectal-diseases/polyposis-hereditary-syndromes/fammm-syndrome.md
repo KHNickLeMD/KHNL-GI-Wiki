@@ -24,29 +24,29 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 ### Establishing the Diagnosis
 
 - **Germline testing for CDKN2A is recommended** in the hereditary-pancreatic-cancer testing panel (alongside BRCA1/2, PALB2, ATM). [[acg-2015-hereditary-gi-cancer]]
-- FAMMM is one of the conditions meeting hereditary-pancreatic-cancer risk criteria — a known genetic syndrome carrying pancreatic cancer risk. [[acg-2015-hereditary-gi-cancer]]
+- Familial atypical multiple mole melanoma (FAMMM) is one of the conditions meeting hereditary-pancreatic-cancer risk criteria — a known genetic syndrome carrying pancreatic cancer risk. [[acg-2015-hereditary-gi-cancer]]
 
-> Neither GI guideline states the clinical (nevus-count / family-history) diagnostic criteria for FAMMM; take them from a dermatology or melanoma-genetics source.
+> Neither gastrointestinal (GI) guideline states the clinical (nevus-count / family-history) diagnostic criteria for FAMMM; take them from a dermatology or melanoma-genetics source.
 
 ### Severity Assessment
 
 - **Relative risk of pancreatic cancer, by syndrome** [[acg-2015-hereditary-gi-cancer]]:
 
-| Syndrome | RR for pancreatic cancer |
+| Syndrome | relative risk (RR) for pancreatic cancer |
 |---|---|
 | [[peutz-jeghers-syndrome\|Peutz-Jeghers syndrome]] (STK11) | Up to 132-fold |
 | [[hereditary-pancreatitis\|Hereditary pancreatitis]] (PRSS1) | 53-fold |
 | **FAMMM (CDKN2A)** | **13–39-fold** |
-| [[familial-pancreatic-cancer\|FPC]] — **≥3 affected FDRs** | 17–32-fold |
+| [[familial-pancreatic-cancer\|familial pancreatic cancer (FPC)]] — **≥3 affected first-degree relatives (FDRs)** | 17–32-fold |
 | [[lynch-syndrome\|Lynch syndrome]] (MLH1/MSH2/MSH6/PMS2) | 9–11-fold |
 | [[brca-pathogenic-variants\|BRCA2]] | 3–9-fold |
 | [[familial-pancreatic-cancer\|FPC]] — **1 or 2 affected FDRs** | 4–7-fold |
-| [[familial-adenomatous-polyposis\|FAP]] (APC) | 5-fold |
+| [[familial-adenomatous-polyposis\|familial adenomatous polyposis (FAP)]] (APC) | 5-fold |
 | ATM (ataxia–telangiectasia) | 3-fold |
 | [[brca-pathogenic-variants\|BRCA1]] | 2-fold |
-| PALB2 (Fanconi anemia, breast CA) · p53 (Li–Fraumeni) | **Unknown** |
+| PALB2 (Fanconi anemia, breast cancer) · p53 (Li–Fraumeni) | **Unknown** |
 
-- RR ≥10 places FAMMM in the **very-high-risk** tier, which is why screening starts **2 standard deviations** below the mean age of pancreatic cancer diagnosis (vs 1 SD for lower-risk conditions). [[asge-2022-pancreatic-cancer-screening]]
+- RR ≥10 places FAMMM in the **very-high-risk** tier, which is why screening starts **2 standard deviations** below the mean age of pancreatic cancer diagnosis (vs 1 standard deviation (SD) for lower-risk conditions). [[asge-2022-pancreatic-cancer-screening]]
 
 ---
 
@@ -55,7 +55,7 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 *Workup: see [[pancreatic-cancer-screening]].*
 
 - **[[peutz-jeghers-syndrome]]** — STK11; the other very-high-risk (RR ≥10) pancreatic syndrome; hamartomatous polyps + mucocutaneous pigmentation rather than atypical nevi.
-- **[[familial-pancreatic-cancer|Familial pancreatic cancer (FPC)]]** — ≥2 first-degree relatives with pancreatic cancer **without** an association with a known hereditary cancer syndrome. [[asge-2022-pancreatic-cancer-screening]]
+- **[[familial-pancreatic-cancer|FPC]]** — ≥2 first-degree relatives with pancreatic cancer **without** an association with a known hereditary cancer syndrome. [[asge-2022-pancreatic-cancer-screening]]
 - **[[brca-pathogenic-variants|BRCA1/2]] and PALB2/ATM carriers** — lower RR; different age-to-start.
 - **[[hereditary-pancreatitis]]** — recurrent pancreatitis phenotype; highest single-syndrome RR.
 
@@ -63,11 +63,11 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 
 ## Diagnostics
 
-- **[[endoscopic-ultrasound|EUS]] is the preferred initial screening test** in FAMMM, because it is one of the very-high-risk conditions. [[asge-2022-pancreatic-cancer-screening]]
-  - A **linear-array** echoendoscope may be preferable to radial (RCT: more pancreatic lesions detected, 82% vs 67%, *P* < .001).
-  - EUS is also preferred when it can be combined with screening [[upper-endoscopy|upper endoscopy]] or [[colonoscopy]], or when MRI is contraindicated (claustrophobia, contrast allergy, implanted metal, renal failure).
-- ACG 2015 surveillance for hereditary pancreatic cancer generally: **EUS and/or [[mri-mrcp|MRI]] of the pancreas, annually**, at experienced centers, ideally under research conditions *(Rec 22–23; conditional / very low)* [[acg-2015-hereditary-gi-cancer]]
-- MRI technique when used for screening: **with and without IV contrast, minimum 1.5-T magnet** (3-T may add detection of small lesions) [[asge-2022-pancreatic-cancer-screening]]
+- **[[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] is the preferred initial screening test** in FAMMM, because it is one of the very-high-risk conditions. [[asge-2022-pancreatic-cancer-screening]]
+  - A **linear-array** echoendoscope may be preferable to radial (randomized controlled trial (RCT): more pancreatic lesions detected, 82% vs 67%, *P* < .001).
+  - EUS is also preferred when it can be combined with screening [[upper-endoscopy|upper endoscopy]] or [[colonoscopy]], or when magnetic resonance imaging (MRI) is contraindicated (claustrophobia, contrast allergy, implanted metal, renal failure).
+- American College of Gastroenterology (ACG) 2015 surveillance for hereditary pancreatic cancer generally: **EUS and/or [[mri-mrcp|MRI]] of the pancreas, annually**, at experienced centers, ideally under research conditions *(Rec 22–23; conditional / very low)* [[acg-2015-hereditary-gi-cancer]]
+- MRI technique when used for screening: **with and without intravenous (IV) contrast, minimum 1.5-T magnet** (3-T may add detection of small lesions) [[asge-2022-pancreatic-cancer-screening]]
 - [[pancreatic-cysts|Cystic pancreatic lesions]] found on surveillance require specialist evaluation.
 
 ---
@@ -75,7 +75,7 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 ## Therapeutics
 
 - Management is **surveillance**, not treatment of the syndrome itself — see [[pancreatic-cancer-screening]] for the full program.
-- **Age to start (FAMMM): age 40, or 10 years earlier than the youngest relative with pancreatic cancer** *(ASGE 2022 Table 1e)* [[asge-2022-pancreatic-cancer-screening]]
+- **Age to start (FAMMM): age 40, or 10 years earlier than the youngest relative with pancreatic cancer** *(American Society for Gastrointestinal Endoscopy (ASGE) 2022 Table 1e)* [[asge-2022-pancreatic-cancer-screening]]
 - **Interval: annual** *(ASGE 2022 Rec 4; conditional, very low)* — the same annual cadence ACG 2015 Rec 23 gives [[asge-2022-pancreatic-cancer-screening]]
   - Contrast: the generic hereditary-pancreatic-cancer start age is 50 (or 10 y before earliest family cancer); Peutz-Jeghers starts at 35. [[acg-2015-hereditary-gi-cancer]]
 - Detected lesions are managed as [[pancreatic-cancer|pancreatic cancer]] per that page.

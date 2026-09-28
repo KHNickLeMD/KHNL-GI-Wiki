@@ -20,14 +20,14 @@ sources: [usmstf-2020-followup-colonoscopy, aga-2021-ibd-colorectal-dysplasia]
 
 ## Overview
 
-Post-[[colonoscopy]] surveillance intervals after [[polypectomy]] are set by the number, size, and histology of polyps found, per USMSTF 2020 ([[usmstf-2020-followup-colonoscopy]]). Key 2020 change from 2012: 1-2 small tubular adenomas extended to **7-10 years**. In a cohort of 1,251,318 average-risk adults, a normal screening colonoscopy carried a **46% relative reduction in incident [[colorectal-cancer|CRC]]** (HR 0.54; 95% CI 0.31–0.94) and an **88% relative reduction in fatal CRC** (HR 0.12; 95% CI 0.02–0.82) through the 10-year follow-up window; reduced risk persisted to 12 years. For the screening decision that precedes the first polypectomy (start/stop ages, modality choice, family-history stratification), see [[colorectal-cancer-screening]].
+Post-[[colonoscopy]] surveillance intervals after [[polypectomy]] are set by the number, size, and histology of polyps found, per US Multi-Society Task Force (USMSTF) 2020 ([[usmstf-2020-followup-colonoscopy]]). Key 2020 change from 2012: 1-2 small tubular adenomas extended to **7-10 years**. In a cohort of 1,251,318 average-risk adults, a normal screening colonoscopy carried a **46% relative reduction in incident [[colorectal-cancer|colorectal cancer (CRC)]]** (hazard ratio [HR] 0.54; 95% confidence interval [CI] 0.31–0.94) and an **88% relative reduction in fatal CRC** (HR 0.12; 95% CI 0.02–0.82) through the 10-year follow-up window; reduced risk persisted to 12 years. For the screening decision that precedes the first polypectomy (start/stop ages, modality choice, family-history stratification), see [[colorectal-cancer-screening]].
 
 ## Who These Intervals Do NOT Apply To
 
 The tables below are for **average-risk** adults only — defined as absence of all of the following. In these groups, favor the shortest interval indicated by either the underlying condition or the polyp findings:
 
-- Hereditary CRC syndrome (e.g. [[lynch-syndrome]], [[familial-adenomatous-polyposis|FAP]]) or any hereditary cancer syndrome
-- [[inflammatory-bowel-disease|Inflammatory bowel disease]] — IBD dysplasia surveillance is a separate strategy (who/when and the **1–5 y risk-stratified interval table** on [[ulcerative-colitis]] and [[crohns-disease]]; chromoendoscopy technique on [[colonoscopy]]). Post-polypectomy intervals in this page's grid do **not** apply. Note the carve-out: **Crohn's isolated to the small bowel gets average-risk CRC screening**, not IBD surveillance ([[aga-2021-ibd-colorectal-dysplasia]]).
+- Hereditary CRC syndrome (e.g. [[lynch-syndrome]], [[familial-adenomatous-polyposis|familial adenomatous polyposis (FAP)]]) or any hereditary cancer syndrome
+- [[inflammatory-bowel-disease|Inflammatory bowel disease (IBD)]] — IBD dysplasia surveillance is a separate strategy (who/when and the **1–5 y risk-stratified interval table** on [[ulcerative-colitis]] and [[crohns-disease]]; chromoendoscopy technique on [[colonoscopy]]). Post-polypectomy intervals in this page's grid do **not** apply. Note the carve-out: **Crohn's isolated to the small bowel gets average-risk CRC screening**, not IBD surveillance ([[aga-2021-ibd-colorectal-dysplasia]]).
 - [[serrated-polyposis-syndrome|Serrated polyposis syndrome]]
 - [[polypectomy|Malignant polyp]]
 - Personal history of CRC
@@ -52,7 +52,7 @@ A low-quality exam warrants earlier repeat rather than the interval below.
 
 | Baseline finding | Next surveillance | Strength | Quality |
 |---|---|---|---|
-| Normal (no adenoma/SSP/TSA/HP ≥10 mm/CRC) | 10 y (may use any average-risk screening modality) | Strong | High |
+| Normal (no adenoma/sessile serrated polyp [SSP]/traditional serrated adenoma [TSA]/hyperplastic polyp [HP] ≥10 mm/CRC) | 10 y (may use any average-risk screening modality) | Strong | High |
 | 1-2 tubular adenomas <10 mm | 7-10 y | Strong | Moderate |
 | 3-4 tubular adenomas <10 mm | 3-5 y (**Task Force favors 5 y**) | Weak | Very low |
 | 5-10 tubular adenomas <10 mm | 3 y | Strong | Moderate |
@@ -80,7 +80,7 @@ A low-quality exam warrants earlier repeat rather than the interval below.
 | SSP ≥10 mm | 3 y | Weak | Very low |
 | SSP with dysplasia | 3 y (assumes high confidence of complete resection) | Weak | Very low |
 | Hyperplastic polyp ≥10 mm | 3-5 y — **pick the end of the range**, see below | Weak | Very low |
-| Traditional serrated adenoma (TSA) | 3 y | Weak | Very low |
+| TSA | 3 y | Weak | Very low |
 | **Piecemeal resection of SSP ≥20 mm** | **6 mo** (verify complete eradication of the resection site) | **Strong** | **Moderate** |
 
 **HP ≥10 mm — which end of 3-5 y:**
@@ -90,7 +90,7 @@ A low-quality exam warrants earlier repeat rather than the interval below.
 
 **HP counts that cross into [[serrated-polyposis-syndrome|serrated polyposis syndrome]]** — and so out of these tables — are >20 cumulative HPs throughout the colon with ≥5 proximal to the rectum, or 5 serrated polyps proximal to the rectum >5 mm with ≥2 being ≥10 mm.
 
-Piecemeal removal of a ≥20 mm lesion is the one finding that overrides the size/histology grid above — the 6-month exam is to confirm the [[endoscopic-mucosal-resection|EMR]] site is clear, not to re-stratify risk.
+Piecemeal removal of a ≥20 mm lesion is the one finding that overrides the size/histology grid above — the 6-month exam is to confirm the [[endoscopic-mucosal-resection|endoscopic mucosal resection (EMR)]] site is clear, not to re-stratify risk.
 
 ## Serial (Second) Surveillance
 
@@ -122,10 +122,10 @@ Note the asymmetry that carries the decision: an advanced baseline **never** ret
 - **Average risk for CRC:** absence of IBD, family history of CRC, a hereditary syndrome conferring increased risk, serrated polyposis syndrome, and personal history of CRC.
 - **Normal colonoscopy:** no adenoma, SSP, TSA, HP ≥10 mm, or CRC.
 - **Low-risk adenoma:** 1-2 nonadvanced adenomas <10 mm.
-- **Advanced adenoma:** ≥10 mm **OR** tubulovillous/villous **OR** HGD.
+- **Advanced adenoma:** ≥10 mm **OR** tubulovillous/villous **OR** high-grade dysplasia (HGD).
 - **Advanced neoplasia:** advanced adenoma **OR** CRC.
 - **High-risk adenoma:** advanced neoplasia **OR** ≥3 adenomas.
-- Advanced adenoma confers 2.2× CRC risk vs the general population (SIR 2.23; 95% CI 1.67–2.92); nonadvanced adenoma at baseline carried *reduced* risk (SIR 0.68; 95% CI 0.44–0.99). Surveillance returns risk toward baseline: 10-y cumulative CRC probability after advanced adenoma was 2.05% with vs 6.22% without subsequent surveillance colonoscopy.
+- Advanced adenoma confers 2.2× CRC risk vs the general population (standardized incidence ratio [SIR] 2.23; 95% CI 1.67–2.92); nonadvanced adenoma at baseline carried *reduced* risk (SIR 0.68; 95% CI 0.44–0.99). Surveillance returns risk toward baseline: 10-y cumulative CRC probability after advanced adenoma was 2.05% with vs 6.22% without subsequent surveillance colonoscopy.
 
 > **Terminology caution (USMSTF).** The Task Force asks that "low-risk adenoma" / "high-risk adenoma" be retired in favor of naming the actual criteria (e.g. "1-2 adenomas <10 mm"), because the risk attached to each criterion keeps moving.
 

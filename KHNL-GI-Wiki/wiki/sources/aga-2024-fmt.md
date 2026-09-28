@@ -15,13 +15,13 @@ sources: []
 - **Year:** 2024
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
 - **DOI:** [10.1053/j.gastro.2024.01.008](https://doi.org/10.1053/j.gastro.2024.01.008)
-- **Type:** GRADE-based guideline
+- **Type:** Grading of Recommendations Assessment, Development and Evaluation (GRADE)-based guideline
 
 ---
 
 ## Summary
 
-This guideline defines where fecal microbiota-based therapies (conventional FMT and FDA-approved live biotherapeutics) have a role. The clearest indication is **recurrent [[clostridioides-difficile]] infection (CDI)**; use is discouraged outside trials for IBD and IBS, and contraindicated in **severely immunocompromised** patients.
+This American Gastroenterological Association (AGA) guideline defines where fecal microbiota-based therapies (conventional fecal microbiota transplantation [FMT] and FDA-approved live biotherapeutics) have a role. The clearest indication is **recurrent [[clostridioides-difficile]] infection (CDI)**; use is discouraged outside trials for inflammatory bowel disease (IBD) and irritable bowel syndrome (IBS), and contraindicated in **severely immunocompromised** patients.
 
 ---
 
@@ -51,7 +51,7 @@ Table 1 — full recommendation statements with certainty of evidence (verbatim)
 **2.** In **mildly or moderately immunocompromised** adults with recurrent *C difficile* infection, the AGA **suggests the use of conventional fecal microbiota transplant** upon completion of standard of care antibiotics over no fecal microbiota transplant. *(Conditional recommendation, very low certainty of evidence)*
 
   In **severely immunocompromised** adults with recurrent *C difficile* infection, the AGA **suggests against the use of fecal microbiota–based therapies** upon completion of standard of care antibiotics over no fecal microbiota–based therapies. *(Conditional recommendation, very low certainty of evidence)*
-> - **Severely immunocompromised** includes patients receiving active cytotoxic therapy for solid tumors and hematologic malignancies, patients who have received chimeric antigen receptor T-cell therapy or hematopoietic cell transplant (only when neutropenic), any neutropenia, patients with severe primary immunodeficiency, patients with advanced or untreated HIV infection (CD4 counts <200/mm³, AIDS-defining illness without immune reconstitution, or clinical manifestations of symptomatic HIV).
+> - **Severely immunocompromised** includes patients receiving active cytotoxic therapy for solid tumors and hematologic malignancies, patients who have received chimeric antigen receptor T-cell therapy or hematopoietic cell transplant (only when neutropenic), any neutropenia, patients with severe primary immunodeficiency, patients with advanced or untreated HIV [human immunodeficiency virus] infection (CD4 counts <200/mm³, AIDS [acquired immunodeficiency syndrome]-defining illness without immune reconstitution, or clinical manifestations of symptomatic HIV).
 > - **Mildly or moderately immunocompromised** adults are patients who are immunocompromised but do not meet the definition of severe.
 > - Insufficient evidence to recommend fecal microbiota spores live-brpk or fecal microbiota live-jslm in immunocompromised adults; special donor testing may be necessary.
 
@@ -64,7 +64,7 @@ Table 1 — full recommendation statements with certainty of evidence (verbatim)
 > - *Alternative:* colectomy is often considered for severe CDI not responding to antibiotics, or fulminant CDI.
 
 **4.** In adults with [[ulcerative-colitis|ulcerative colitis]], the AGA **suggests against the use of conventional fecal microbiota transplant, except in the context of clinical trials**. *(Conditional recommendation, very low certainty of evidence)*
-> Conventional FMT can reasonably be used in clinical trials and potentially outside a trial in cases of expanded access when no comparable or satisfactory alternative therapy options are available. For recurrent, severe, or fulminant CDI in the setting of UC, refer to recommendations 1–3.
+> Conventional FMT can reasonably be used in clinical trials and potentially outside a trial in cases of expanded access when no comparable or satisfactory alternative therapy options are available. For recurrent, severe, or fulminant CDI in the setting of UC [ulcerative colitis], refer to recommendations 1–3.
 
 **5.** In adults with [[crohns-disease|Crohn's disease]], the AGA **suggests against the use of conventional fecal microbiota transplant, except in the context of a clinical trial**. *(Conditional recommendation, very low certainty of evidence)*
 

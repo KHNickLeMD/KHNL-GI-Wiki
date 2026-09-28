@@ -24,7 +24,7 @@ sources: [acg-2016-nutrition-hospitalized, asge-2025-gastrostomy-tubes, asge-201
 
 ## Overview
 
-Nutrition support in the hospitalized patient encompasses the assessment of nutritional risk, the decision between enteral and parenteral routes, caloric and protein dosing, monitoring of feeding tolerance, and the ethical dimensions of artificial nutrition at end of life. The gastrointestinal tract is not merely a digestive organ but also a critical immune and barrier organ; preserving its integrity by using enteral nutrition (EN) is a central principle of modern nutrition therapy [[acg-2016-nutrition-hospitalized]].
+Nutrition support in the hospitalized patient encompasses the assessment of nutritional risk, the decision between enteral and parenteral routes, caloric and protein dosing, monitoring of feeding tolerance, and the ethical dimensions of artificial nutrition at end of life. The gastrointestinal (GI) tract is not merely a digestive organ but also a critical immune and barrier organ; preserving its integrity by using enteral nutrition (EN) is a central principle of modern nutrition therapy [[acg-2016-nutrition-hospitalized]].
 
 ---
 
@@ -33,15 +33,15 @@ Nutrition support in the hospitalized patient encompasses the assessment of nutr
 **Validated screening tools:**
 
 - **NRS-2002** (Nutritional Risk Screening 2002): validated for hospitalized patients; total = impaired-nutritional-status points + disease-severity points + age point (scoring below)
-- **NUTRIC Score**: validated for ICU patients; six factors, scored 0–3 each (scoring below)
+- **NUTRIC Score**: validated for intensive care unit (ICU) patients; six factors, scored 0–3 each (scoring below)
 
-**NUTRIC scoring** (ACG 2016 Table 5) [[acg-2016-nutrition-hospitalized]] — total from **six separate factors**:
+**NUTRIC scoring** (American College of Gastroenterology [ACG] 2016 Table 5) [[acg-2016-nutrition-hospitalized]] — total from **six separate factors**:
 
 | Factor | 0 | 1 | 2 | 3 |
 |---|---|---|---|---|
 | **Age (years)** | <50 | 50–74 | ≥75 | — |
-| **APACHE II score** | <15 | 15–19 | 20–27 | ≥28 |
-| **Baseline SOFA score** | <6 | 6–9 | ≥10 | — |
+| **Acute Physiology and Chronic Health Evaluation (APACHE) II score** | <15 | 15–19 | 20–27 | ≥28 |
+| **Baseline Sequential Organ Failure Assessment (SOFA) score** | <6 | 6–9 | ≥10 | — |
 | **No. of comorbidities** | 0–1 | ≥2 | — | — |
 | **Days in hospital before ICU admit** | 0 | ≥1 | — | — |
 | **Interleukin-6 (μg/mL)** | 0–399 | ≥400 | — | — |
@@ -54,8 +54,8 @@ Nutrition support in the hospitalized patient encompasses the assessment of nutr
 | Impaired nutritional status | Severity of disease |
 |---|---|
 | **0** — normal | **0** — normal requirements |
-| **1** (mild) — wt loss >5% in 3 mo; OR food intake 50–75% of normal in preceding week | **1** (mild) — hip fracture; chronic disease with acute complication ([[cirrhosis]], COPD, chronic hemodialysis, diabetes, oncology) |
-| **2** (moderate) — wt loss >5% in 2 mo; OR BMI 18.5–20.5 + impaired general condition; OR intake 25–50% | **2** (moderate) — major abdominal surgery, stroke, severe pneumonia, hematologic malignancy |
+| **1** (mild) — wt loss >5% in 3 mo; OR food intake 50–75% of normal in preceding week | **1** (mild) — hip fracture; chronic disease with acute complication ([[cirrhosis]], chronic obstructive pulmonary disease (COPD), chronic hemodialysis, diabetes, oncology) |
+| **2** (moderate) — wt loss >5% in 2 mo; OR body mass index (BMI) 18.5–20.5 + impaired general condition; OR intake 25–50% | **2** (moderate) — major abdominal surgery, stroke, severe pneumonia, hematologic malignancy |
 | **3** (severe) — wt loss >5% in 1 mo (>15% in 3 mo); OR BMI <18.5 + impaired general condition; OR intake <25% | **3** (severe) — head injury, bone marrow transplant, ICU patients (APACHE II >10) |
 
 - **+1 point if age ≥70 years.** Total score = nutritional-status points + disease-severity points + age point.
@@ -76,11 +76,11 @@ Nutrition support in the hospitalized patient encompasses the assessment of nutr
 
 ## Enteral vs. Parenteral Nutrition
 
-**Enteral Nutrition (EN) is preferred when feasible** [[acg-2016-nutrition-hospitalized]]:
+**EN is preferred when feasible** [[acg-2016-nutrition-hospitalized]]:
 
 - Preserves gut mucosal barrier (prevents bacterial translocation)
 - Maintains gut-associated lymphoid tissue (GALT)
-- Reduces infectious complications vs. PN (meta-analyses)
+- Reduces infectious complications vs. parenteral nutrition (PN; meta-analyses)
 - Preferred over PN even at trophic rates
 
 **When EN is NOT indicated:**
@@ -88,10 +88,10 @@ Nutrition support in the hospitalized patient encompasses the assessment of nutr
 - Low-risk, well-nourished patients expected to resume oral intake within 5–7 days (conditional)
 - Bowel obstruction, high-output proximal fistula, mesenteric ischemia, hemodynamic shock (relative contraindications until stabilized)
 
-**Parenteral Nutrition (PN) indications:**
+**PN indications:**
 
 - EN not feasible or tolerated
-- High-risk/malnourished patients: initiate PN ASAP when EN is impossible
+- High-risk/malnourished patients: initiate PN as soon as possible when EN is impossible
 - Low-risk patients: withhold PN in first week; initiation of early PN associated with higher infection rates
 
 ---
@@ -102,22 +102,22 @@ Nutrition support in the hospitalized patient encompasses the assessment of nutr
 |---|---|---|
 | Nasogastric tube (NGT) | First-line for most patients | Confirm radiologically before use |
 | Orogastric tube (OGT) | Intubated patients | Same confirmation required |
-| Nasojejunal/NJT | Gastric intolerance, aspiration risk | Post-pyloric placement |
+| Nasojejunal tube (NJT) | Gastric intolerance, aspiration risk | Post-pyloric placement |
 | Surgical jejunostomy | Expected EN >4 weeks with gastric dysfunction | Placed at time of surgery |
-| PEG tube | EN expected >4 weeks, functional swallow impaired | Percutaneous endoscopic placement |
+| Percutaneous endoscopic gastrostomy (PEG) tube | EN expected >4 weeks, functional swallow impaired | Percutaneous endoscopic placement |
 
 Radiologic confirmation of tube position is required before EN initiation (Strong, Moderate evidence) [[acg-2016-nutrition-hospitalized]].
 
-**Duration-based access rule** ([[asge-2011-enteral-feeding]]): choose **nasoenteric** feeding when peroral intake is expected to resume **within 30 days**; use a **[[enteral-access|percutaneous endoscopic tube]]** (PEG, or PEGJ/DPEJ for post-pyloric access) when longer-term EN is needed. In acute dysphagic stroke, consider PEG only if a 2-3 week nasoenteric trial fails to improve swallowing.
+**Duration-based access rule** ([[asge-2011-enteral-feeding]]): choose **nasoenteric** feeding when peroral intake is expected to resume **within 30 days**; use a **[[enteral-access|percutaneous endoscopic tube]]** (PEG, or jejunal extension through a PEG [PEGJ]/direct percutaneous endoscopic jejunostomy [DPEJ] for post-pyloric access) when longer-term EN is needed. In acute dysphagic stroke, consider PEG only if a 2-3 week nasoenteric trial fails to improve swallowing.
 
-- **PEGJ / DPEJ** (post-pyloric): indicated for severe [[gerd|GERD]], [[gastroparesis]], or recurrent tube-feed aspiration.
-- **Periprocedural care:** give an IV **[[antibiotic-prophylaxis-endoscopy|prophylactic antibiotic]]** before percutaneous tube placement (reduces peristomal infection) ([[asge-2011-enteral-feeding]]). Antithrombotic handling and feed timing are tabled below.
+- **PEGJ / DPEJ** (post-pyloric): indicated for severe [[gerd|gastroesophageal reflux disease (GERD)]], [[gastroparesis]], or recurrent tube-feed aspiration.
+- **Periprocedural care:** give an intravenous (IV) **[[antibiotic-prophylaxis-endoscopy|prophylactic antibiotic]]** before percutaneous tube placement (reduces peristomal infection) ([[asge-2011-enteral-feeding]]). Antithrombotic handling and feed timing are tabled below.
 - **Absolute contraindications** to PEG: inability to appose gastric and abdominal walls, obstruction precluding endoscope passage, uncorrectable coagulopathy.
 - **Outcomes/complications:** PEG complication rate 4.9-10.3% (serious 1.5-4%); procedure-related mortality ~0.5%, but 30-day all-cause mortality ~15% (driven by underlying comorbidity — set expectations in goals-of-care discussions). Recognized complications include aspiration, bleeding, perforation, **buried bumper syndrome**, peristomal infection, colocutaneous/gastrocolic fistula, and (usually benign) pneumoperitoneum. A **mature tract** is required before non-endoscopic tube/button replacement.
 
 ### Periprocedural Management of a Percutaneous Tube
 
-Two rules that change the nutrition plan: **PEG is preferred over interventional-radiology gastrostomy** as the initial technique in normal foregut anatomy, and **antiplatelet agents are not routinely withheld** before PEG (anticoagulants are individualized) — [[asge-2025-gastrostomy-tubes]] Recs 1 and 2a/2b. Placement technique, bumper care, antithrombotic detail, the **feed-timing discrepancy between AGA 2025 and ASGE 2025 at the 4-hour mark**, and the full complication table are on **[[enteral-access]]** — that page is their home; see it rather than duplicating here. Agent-by-agent hold intervals: [[anticoagulation-gi-bleeding]].
+Two rules that change the nutrition plan: **PEG is preferred over interventional-radiology gastrostomy** as the initial technique in normal foregut anatomy, and **antiplatelet agents are not routinely withheld** before PEG (anticoagulants are individualized) — [[asge-2025-gastrostomy-tubes]] Recs 1 and 2a/2b. Placement technique, bumper care, antithrombotic detail, the **feed-timing discrepancy between American Gastroenterological Association (AGA) 2025 and American Society for Gastrointestinal Endoscopy (ASGE) 2025 at the 4-hour mark**, and the full complication table are on **[[enteral-access]]** — that page is their home; see it rather than duplicating here. Agent-by-agent hold intervals: [[anticoagulation-gi-bleeding]].
 
 ---
 
@@ -127,7 +127,7 @@ Two rules that change the nutrition plan: **PEG is preferred over interventional
 
 - High-risk or malnourished patients: start EN within 24–48h of admission (Rec 15, Conditional, Low evidence)
 - When tolerated, advance to goal within **48–72 h** (Rec 16a); with reduced tolerance, advance with caution to goal by **5–7 days** (Rec 16b)
-- ⚠ A starting rate of "10–20 mL/h" is **not stated in [[acg-2016-nutrition-hospitalized]]** — the only starting rate the guideline prints is the ARDS trophic arm below.
+- ⚠ A starting rate of "10–20 mL/h" is **not stated in [[acg-2016-nutrition-hospitalized]]** — the only starting rate the guideline prints is the acute respiratory distress syndrome (ARDS) trophic arm below.
 
 **Permissive underfeeding (acceptable in):**
 
@@ -136,11 +136,11 @@ Two rules that change the nutrition plan: **PEG is preferred over interventional
 
 **Feeding tolerance monitoring:**
 
-- Daily physical exam preferred over GRV monitoring (Conditional, Very Low evidence)
+- Daily physical exam preferred over gastric residual volume (GRV) monitoring (Conditional, Very Low evidence)
 - Routine GRV monitoring NOT recommended; high GRV alone should not trigger EN cessation [[acg-2016-nutrition-hospitalized]]
 - Signs of intolerance: abdominal distension, discomfort, significant emesis
 - **Prokinetic agent** for the patient at high aspiration risk (Rec 23b(i), Conditional, Low) — alongside diverting the feeding level lower in the GI tract (Strong, Moderate–High) and switching to continuous infusion (Conditional, Very Low)
-  - ⚠ **Prokinetic dosing is not given.** [[acg-2016-nutrition-hospitalized]] says only "use a prokinetic agent"; the commonly used regimens (metoclopramide 10 mg IV q6h or erythromycin 250 mg IV q6h) are not sourced to it and are listed here for recognition only.
+  - ⚠ **Prokinetic dosing is not given.** [[acg-2016-nutrition-hospitalized]] says only "use a prokinetic agent"; the commonly used regimens (metoclopramide 10 mg IV every 6 hours [q6h] or erythromycin 250 mg IV q6h) are not sourced to it and are listed here for recognition only.
 
 **Feeding protocols:** Nurse-driven titration algorithms should be implemented to optimize EN delivery rates (Strong, Moderate–High evidence).
 
@@ -159,7 +159,7 @@ Two rules that change the nutrition plan: **PEG is preferred over interventional
 - Should NOT be added to EN until EN is providing <60% of caloric goals for ≥7–10 days (Strong, Moderate evidence)
 - Prevents overfeeding in early critical illness
 - Supplement PN after 7–10 days if EN consistently insufficient
-- **Hypocaloric PN over the first week** of nutrition therapy is an accepted form of permissive underfeeding (Rec 17, Conditional, Low): target **80% of goal calories** with full protein delivery at **1.5–2.0 g/kg/day**. In a meta-analysis of 5 RCTs (trauma, pancreatitis, major abdominal surgery) hypocaloric PN reduced infection and length of stay vs PN at goal (**20 vs 25 kcal/kg/day**). After the first week, increase PN to **100%** of energy and protein goals. [[acg-2016-nutrition-hospitalized]]
+- **Hypocaloric PN over the first week** of nutrition therapy is an accepted form of permissive underfeeding (Rec 17, Conditional, Low): target **80% of goal calories** with full protein delivery at **1.5–2.0 g/kg/day**. In a meta-analysis of 5 randomized controlled trials (RCTs) (trauma, pancreatitis, major abdominal surgery) hypocaloric PN reduced infection and length of stay vs PN at goal (**20 vs 25 kcal/kg/day**). After the first week, increase PN to **100%** of energy and protein goals. [[acg-2016-nutrition-hospitalized]]
 - **Stop PN** once EN provides **>60%** of energy and protein goals (Rec 34b, Conditional, Very Low)
 
 ---
@@ -184,7 +184,7 @@ Immune-modulating formulas (arginine, glutamine, omega-3 fatty acids) are NOT re
 
 **Liver disease**: see [[nutrition-in-liver-disease]] — protein restriction is NOT recommended; protein goals similar to other ICU patients
 
-**IBD**: see [[nutrition-in-ibd|diet and nutritional therapy in IBD]] — EN serves as primary therapy in pediatric [[crohns-disease|Crohn's]]; adjunctive in adult CD
+**Inflammatory bowel disease (IBD)**: see [[nutrition-in-ibd|diet and nutritional therapy in IBD]] — EN serves as primary therapy in pediatric [[crohns-disease|Crohn's]]; adjunctive in adult Crohn's disease (CD)
 
 ---
 

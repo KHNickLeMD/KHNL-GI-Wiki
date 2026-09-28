@@ -42,30 +42,30 @@ sources: [acg-2023-lgib, asge-2014-lgib, acg-2021-ugib]
 
 ## Definition / Scope
 
-**Acute LGIB** = hematochezia or bright red blood per rectum originating from a **colorectal source** (distal to the ligament of Treitz, but [[small-bowel-bleeding|small bowel bleeding]] is considered a separate entity with its own algorithm and is excluded from this schema).
+**Acute lower gastrointestinal bleeding (LGIB)** = hematochezia or bright red blood per rectum originating from a **colorectal source** (distal to the ligament of Treitz, but [[small-bowel-bleeding|small bowel bleeding]] is considered a separate entity with its own algorithm and is excluded from this schema).
 
 ### Hemodynamic Instability Criteria
 
-Any of the following suggests hemodynamically significant LGIB requiring immediate resuscitation before endoscopy. ⚠ **These figures are conventional, not guideline-set** — [[acg-2023-lgib|ACG 2023]] states only that blood pressure and heart rate should be optimised before endoscopic evaluation and never puts numbers on "instability." Do not confuse them with the **Oakland score** heart-rate bands below, which are a discharge-prediction instrument.
+Any of the following suggests hemodynamically significant LGIB requiring immediate resuscitation before endoscopy. ⚠ **These figures are conventional, not guideline-set** — [[acg-2023-lgib|American College of Gastroenterology (ACG) 2023]] states only that blood pressure and heart rate should be optimised before endoscopic evaluation and never puts numbers on "instability." Do not confuse them with the **Oakland score** heart-rate bands below, which are a discharge-prediction instrument.
 
 - Tachycardia (heart rate >100 bpm)
-- Hypotension (systolic BP <90 mm Hg)
-- Shock index (HR ÷ SBP) ≥1
+- Hypotension (systolic blood pressure [SBP] <90 mm Hg)
+- Shock index (heart rate [HR] ÷ SBP) ≥1
 - Orthostatic vital sign changes
 - Active large-volume hematochezia with clinical signs of volume depletion
 
 ### Distinction from UGIB
 
-Severe hematochezia with hemodynamic instability may reflect a **brisk UGIB source** in 15% of cases. Features that raise suspicion for proximal source:
+Severe hematochezia with hemodynamic instability may reflect a **brisk upper gastrointestinal bleeding (UGIB) source** in 15% of cases. Features that raise suspicion for proximal source:
 
 - History of [[peptic-ulcer-disease|peptic ulcer disease]], [[cirrhosis|decompensated liver disease]], hematemesis
-- **BUN:Cr ratio >30** — LR 7.5 (95% CI 2.8–12.0) for UGIB. Caveat: in another accuracy study the ratio discriminated upper vs lower source poorly overall (**AUROC 0.63**); a higher cutoff of **35** gave specificity 90.1% / PPV 89.1%
+- **Blood urea nitrogen:creatinine (BUN:Cr) ratio >30** — likelihood ratio (LR) 7.5 (95% confidence interval [CI] 2.8–12.0) for UGIB. Caveat: in another accuracy study the ratio discriminated upper vs lower source poorly overall (**area under the receiver operating characteristic curve (AUROC) 0.63**); a higher cutoff of **35** gave specificity 90.1% / positive predictive value (PPV) 89.1%
 - **BUN alone >21 mg/dL** — specificity **93.0%** for an upper source (strongest single variable in that study)
 - Melena on rectal exam (argues against colonic source)
 - **Blood clots in stool argue *against* UGIB** — their **presence** carries LR **0.05** (95% CI 0.01–0.38) for an upper source
-- Nasogastric aspirate is unreliable — **sensitivity only 28%** for an upper source, so a negative aspirate does not exclude UGIB; **routine NG tube placement is NOT recommended** ([[acg-2023-lgib]]). A systematic review found the NG aspirate and BUN:Cr ratio equally poor (negative LR 0.6). *(The guideline also prints "negative predictive value was <1%" for the same cohort — reproduced here as printed, but read with caution: a <1% NPV would mean almost every negative aspirate had an upper source, the opposite of the sentence it sits in.)*
+- Nasogastric (NG) aspirate is unreliable — **sensitivity only 28%** for an upper source, so a negative aspirate does not exclude UGIB; **routine NG tube placement is NOT recommended** ([[acg-2023-lgib]]). A systematic review found the NG aspirate and BUN:Cr ratio equally poor (negative LR 0.6). *(The guideline also prints "negative predictive value was <1%" for the same cohort — reproduced here as printed, but read with caution: a <1% negative predictive value would mean almost every negative aspirate had an upper source, the opposite of the sentence it sits in.)*
 
-If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-endoscopy|EGD]] before [[colonoscopy]]**.
+If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] before [[colonoscopy]]**.
 
 ---
 
@@ -78,7 +78,7 @@ If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-
 | **Diverticular hemorrhage**  | Most common cause; 26–64% of LGIB depending on colonoscopy utilization; painless, arterial, large-volume; from neck or dome of diverticulum |
 | **[[colon-ischemia\|Ischemic colitis]]**         | Second most common; typically left colon (watershed areas); associated with hemodynamic compromise, vasopressor use, cardiovascular disease |
 | **[[hemorrhoids\|Hemorrhoids]] (internal)**   | Common but often low-volume; not covered by this schema                                                                                     |
-| **[[angioectasia\|Angioectasias]] (AVMs)**     | Typically older patients; often right colon; associated with anticoagulant use, chronic kidney disease, aortic stenosis ([[heydes-syndrome\|Heyde syndrome]])    |
+| **[[angioectasia\|Angioectasias]] (arteriovenous malformations, AVMs)**     | Typically older patients; often right colon; associated with anticoagulant use, chronic kidney disease, aortic stenosis ([[heydes-syndrome\|Heyde syndrome]])    |
 | **Colorectal neoplasia**     | Malignant lesions found in 2.5% of LGIB colonoscopies; weight loss, anemia, change in bowel habits are alarm features                       |
 | **Postpolypectomy bleeding** | Immediate or delayed (up to 2 weeks); see [[polypectomy]]                                                                               |
 
@@ -86,11 +86,11 @@ If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-
 
 | Etiology | Distinguishing Features |
 |---|---|
-| **Ischemic colitis** | Acute onset, abdominal pain + hematochezia, watershed distribution (splenic flexure, sigmoid), CT showing bowel wall thickening |
-| **[[inflammatory-bowel-disease\|Inflammatory bowel disease]]** | [[crohns-disease]] or [[ulcerative-colitis]]; chronic course with diarrhea, tenesmus; may present acutely |
+| **Ischemic colitis** | Acute onset, abdominal pain + hematochezia, watershed distribution (splenic flexure, sigmoid), computed tomography (CT) showing bowel wall thickening |
+| **[[inflammatory-bowel-disease\|Inflammatory bowel disease (IBD)]]** | [[crohns-disease]] or [[ulcerative-colitis]]; chronic course with diarrhea, tenesmus; may present acutely |
 | **Infectious colitis** | Fever, diarrhea, exposure history; stool cultures, [[clostridioides-difficile\|C. diff]] testing |
-| **[[radiation-proctopathy\|Radiation proctopathy]]** | History of pelvic radiation; rectal bleeding, telangiectasias on endoscopy; [[argon-plasma-coagulation\|APC]] is the mainstay endoscopic therapy |
-| **NSAID-induced colitis / ulcers** | NSAID use history; ulcers especially in right colon and ileocecal region |
+| **[[radiation-proctopathy\|Radiation proctopathy]]** | History of pelvic radiation; rectal bleeding, telangiectasias on endoscopy; [[argon-plasma-coagulation\|argon plasma coagulation (APC)]] is the mainstay endoscopic therapy |
+| **Nonsteroidal anti-inflammatory drug (NSAID)-induced colitis / ulcers** | NSAID use history; ulcers especially in right colon and ileocecal region |
 
 ### Less Common / Rare
 
@@ -109,11 +109,11 @@ If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-
 
 ### Step 1: Initial Assessment (Simultaneous with Resuscitation)
 
-- Focused history: abdominal pain, bowel habit changes, weight loss, prior GI surgery, prior GIB, cardiovascular/oncologic/renal comorbidities
+- Focused history: abdominal pain, bowel habit changes, weight loss, prior gastrointestinal (GI) surgery, prior GI bleeding (GIB), cardiovascular/oncologic/renal comorbidities
 - Medications: NSAIDs, antiplatelets, [[anticoagulation-gi-bleeding|anticoagulants]]
 - Physical exam: vital signs, volume status, rectal exam (blood vs. melena, anorectal lesions)
-- Labs: CBC (Hgb, platelet count), BMP (BUN:Cr ratio), coagulation studies (INR, aPTT), type and screen
-- IV access; IV fluid resuscitation with crystalloids if hemodynamically unstable
+- Labs: complete blood count (CBC) (hemoglobin [Hgb], platelet count), basic metabolic panel (BMP) (BUN:Cr ratio), coagulation studies (international normalized ratio [INR], activated partial thromboplastin time [aPTT]), type and screen
+- Intravenous (IV) access; IV fluid resuscitation with crystalloids if hemodynamically unstable
 
 ### Step 2: Risk Stratification
 
@@ -128,7 +128,7 @@ If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-
 | Male sex | 1 |
 | No prior LGIB admission | 0 |
 | Prior LGIB admission | 1 |
-| No blood on DRE | 0 |
+| No blood on digital rectal exam (DRE) | 0 |
 | Blood on DRE | 1 |
 | Heart rate <70 bpm | 0 |
 | Heart rate 70–89 bpm | 1 |
@@ -162,7 +162,7 @@ If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-
 | Antiplatelet therapy | 1 |
 | Anticoagulant therapy | 1 |
 | Pulse >100 bpm | 1 |
-| Emergency department bleeding | 1 |
+| Emergency department (ED) bleeding | 1 |
 
 AUROC 0.83 in derivation; an external validation of 251 patients **misclassified 14 patients as low-risk who did in fact require a hospital-based intervention**.
 
@@ -173,21 +173,21 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 ### Step 3: Resuscitation and Stabilization
 
 - **Transfusion threshold: restrictive, Hgb 7 g/dL** in **hemodynamically stable** patients (Rec 2, conditional / low-quality)
-  - **8 g/dL** in stable patients with **pre-existing cardiovascular disease** (carried over from prior guidelines; no supporting RCT evidence)
-  - **8 g/dL can *also* be considered in acute coronary syndrome + GIB** — data "extremely limited" in this population
+  - **8 g/dL** in stable patients with **pre-existing cardiovascular disease (CVD)** (carried over from prior guidelines; no supporting randomized controlled trial (RCT) evidence)
+  - **8 g/dL can *also* be considered in acute coronary syndrome (ACS) + GIB** — data "extremely limited" in this population
   - **Exception:** the restrictive strategy applies to the stable patient — make exceptions for **significant ongoing active bleeding** or **shock**
   - ⚠ **Contradiction with [[upper-gi-bleeding]]:** [[acg-2021-ugib]] holds that ACS "must be differentiated" from pre-existing CVD and that a threshold **higher than 8 g/dL** may be considered in UGIB + ACS. [[acg-2023-lgib]] governs this page (newer, and specific to LGIB), but the two guidelines do not agree on the ACS threshold.
 - Platelet transfusion: maintain >30×10⁹/L (>50×10⁹/L if endoscopic procedure planned); do NOT transfuse empirically for patients on antiplatelets
-- **Do NOT give tranexamic acid** (no benefit; increased VTE and seizures in large RCT)
+- **Do NOT give tranexamic acid** (no benefit; increased venous thromboembolism (VTE) and seizures in large RCT)
 
 #### Anticoagulant Management in Acute LGIB
 
 | Anticoagulant | Action |
 |---|---|
-| VKA / warfarin, minor bleed (Oakland ≤8) | May continue if necessary |
+| Vitamin K antagonist (VKA) / warfarin, minor bleed (Oakland ≤8) | May continue if necessary |
 | VKA / warfarin, significant bleed | Hold; consider reversal only for life-threatening bleed with INR substantially supratherapeutic |
-| VKA reversal | **4-factor PCC preferred over FFP** (faster INR reduction, superior hemostasis, less volume overload, lower mortality) |
-| DOAC, significant bleed | Hold DOAC; most resolve with cessation alone |
+| VKA reversal | **4-factor prothrombin complex concentrate (PCC) preferred over fresh frozen plasma (FFP)** (faster INR reduction, superior hemostasis, less volume overload, lower mortality) |
+| Direct oral anticoagulant (DOAC), significant bleed | Hold DOAC; most resolve with cessation alone |
 | DOAC reversal (life-threatening, not responding to resuscitation) | Idarucizumab for dabigatran; andexanet alfa for apixaban/rivaroxaban (if DOAC taken within 24h) |
 | [[endoscopic-hemostasis\|Endoscopic hemostasis]] safe at: | INR ≤2.5 |
 
@@ -227,7 +227,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - Urgent colonoscopy within 24 hours does NOT improve rebleeding, mortality, diagnostic yield, or need for endoscopic intervention (based on 2 RCTs and multiple meta-analyses)
 - One RCT showed urgent colonoscopy associated with **increased** rebleeding (13% vs. 3%) and readmission (11% vs. 3%)
 - Perform colonoscopy at next available nonurgent opportunity to minimize length of stay
-- Urgent colonoscopy may be appropriate in highly selected patients with high pretest probability of SRH (e.g., postpolypectomy, postprocedure) at experienced centers
+- Urgent colonoscopy may be appropriate in highly selected patients with high pretest probability of stigmata of recent hemorrhage (SRH) (e.g., postpolypectomy, postprocedure) at experienced centers
 
 **Exceptions — colonoscopy may be omitted if:**
 
@@ -254,12 +254,12 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 ![[lgib-2023-endoscopic-treatment-algorithm-18.png|700x317]]
 *Figure 2 — Preferred endoscopic treatment options during colonoscopy based on etiology. EBL: endoscopic band ligation; APC: argon plasma coagulation; OTSC: over-the-scope clip; SRH: stigmata of recent hemorrhage. ([[acg-2023-lgib]])*
 
-**Treat all stigmata of recent hemorrhage (SRH) regardless of etiology** (Key Concept)
+**Treat all SRH regardless of etiology** (Key Concept)
 
 **Diverticular hemorrhage:**
 
 - Through-the-scope clips (direct clipping onto vessel preferred over indirect/zipper)
-- Endoscopic band ligation (EBL): lower early rebleeding (8% vs. 19%) and late rebleeding (9% vs. 29%) vs. clipping; may be preferred for durable outcomes
+- EBL: lower early rebleeding (8% vs. 19%) and late rebleeding (9% vs. 29%) vs. clipping; may be preferred for durable outcomes
 - Bipolar/multipolar coagulation
 - Initial hemostasis rates 99–100% for all modalities
 - Despite hemostasis, early rebleeding 17.4%, late rebleeding 32.0%
@@ -289,7 +289,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 | Nonaspirin NSAIDs | **Discontinue permanently** (Strong) |
 | Aspirin — primary prevention | **Suggest discontinuation** (Conditional) |
 | Aspirin — secondary prevention / CVD | **Suggest continuing** (Conditional) — reduces ischemic events and mortality |
-| P2Y12 inhibitors | **Multidisciplinary re-evaluation required** (Strong) — HR 1.47 for recurrent hemorrhage |
+| P2Y12 inhibitors | **Multidisciplinary re-evaluation required** (Strong) — hazard ratio 1.47 for recurrent hemorrhage |
 | Anticoagulants (all) | **Resume after LGIB cessation** (Strong) — reduces thromboembolism and mortality; optimal timing within 7 days |
 
 ---
@@ -316,7 +316,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 ### Transcatheter Arteriography (TA) / Embolization
 
 - Indicated for positive CTA; must be performed within 90 minutes of CTA for best yield
-- Embolization: superselective with microcatheter; agents: microcoils, NBCA, ethylene-vinyl alcohol copolymer
+- Embolization: superselective with microcatheter; agents: microcoils, n-butyl cyanoacrylate (NBCA), ethylene-vinyl alcohol copolymer
 - Technical success: 98%; 30-day rebleeding: 15.7%; mortality: 12.7%
 
 ### Nuclear Scintigraphy (99mTc-labeled RBC scan)

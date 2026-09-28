@@ -28,7 +28,7 @@ sources: [acg-2015-hereditary-gi-cancer, nccn-2026-gastric-cancer, aga-2025-gast
 - Autosomal-dominant hereditary cancer syndrome caused by germline pathogenic variants in **CDH1** (E-cadherin) [[acg-2015-hereditary-gi-cancer]]
 - Responsible for ~1–3% of **diffuse** [[gastric-adenocarcinoma|gastric cancers]] (not of all gastric cancers) — it is the only hereditary syndrome known to cause diffuse gastric cancer
 
-**Clinical criteria — genetic evaluation for HDGC is indicated if any one criterion is met** [[acg-2015-hereditary-gi-cancer]]:
+**Clinical criteria — genetic evaluation for hereditary diffuse gastric cancer (HDGC) is indicated if any one criterion is met** [[acg-2015-hereditary-gi-cancer]]:
 
 - (i) ≥2 cases of diffuse gastric cancer in the family, with at least one diagnosed at <50 years
 - (ii) ≥3 cases of documented diffuse gastric cancer in first- or second-degree relatives, independent of age of onset
@@ -55,7 +55,7 @@ Two consortium estimates are reported, and they differ — the newer one is why 
 
 | Source | Gastric cancer lifetime risk | Lobular breast cancer lifetime risk |
 |---|---|---|
-| International consortium study of 11 families (CDH1-positive, ≥3 diffuse GC cases) | **67% males / 83% females** | **39%** in women |
+| International consortium study of 11 families (CDH1-positive, ≥3 diffuse gastric cancer cases) | **67% males / 83% females** | **39%** in women |
 | More recent international consortium analysis | **80% in both men and women** | **60%** in women |
 
 - Mean age at gastric cancer diagnosis **38–40 years** (range 14–85)
@@ -70,7 +70,7 @@ Two consortium estimates are reported, and they differ — the newer one is why 
 - **Sporadic diffuse gastric cancer** — no CDH1 mutation; accounts for ~99% of diffuse gastric cancer cases
 - **Hereditary intestinal gastric cancer** — component tumor in [[lynch-syndrome]] and [[familial-adenomatous-polyposis]]
 - **[[peutz-jeghers-syndrome]]** — 29% gastric cancer risk; intestinal-type histology; STK11 mutations
-- **[[gastric-premalignant-conditions]]** — Correa cascade leading to intestinal-type GC; [[helicobacter-pylori-infection|H. pylori]] driven; not CDH1
+- **[[gastric-premalignant-conditions]]** — Correa cascade leading to intestinal-type gastric cancer; [[helicobacter-pylori-infection|H. pylori]] driven; not CDH1
 - **Familial clustering without an identified mutation** — most families meeting the HDGC clinical criteria have **no** detectable CDH1 mutation (mutation yield only 10.5–47%) [[acg-2015-hereditary-gi-cancer]]
 
 ---
@@ -87,7 +87,7 @@ Two consortium estimates are reported, and they differ — the newer one is why 
 
 **For individuals who have a CDH1 mutation but decline or defer gastrectomy**, or for **pre-gastrectomy assessment** [[acg-2015-hereditary-gi-cancer]]:
 
-- Detailed 30-minute [[upper-endoscopy|EGD]] with **multiple random biopsies** every 6–12 months beginning 5–10 years before the earliest cancer in the family
+- Detailed 30-minute [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] with **multiple random biopsies** every 6–12 months beginning 5–10 years before the earliest cancer in the family
 - Enhanced visualization techniques may improve detection: **indigo-carmine staining** or **pH-sensitive congo red dye** followed by **pentagastrin stimulation** — improves detection of early gastric cancer
 - Gastric cancer surveillance efficacy is uncertain; sensitivity of pre-gastrectomy EGD is limited — biopsies may be negative even when residual cancer is present (see the systematic-review data under [[#Prophylactic Gastrectomy]])
 
@@ -107,11 +107,11 @@ Key data:
 
 **Specimen handling**: identify **both the esophageal and duodenal mucosa at the ends of the surgical specimen** — gastric cancer after prophylactic gastrectomy has been reported [[acg-2015-hereditary-gi-cancer]].
 
-> **Extent of resection.** [[acg-2015-hereditary-gi-cancer]] recommends "prophylactic gastrectomy after age 20 years" but does not state total vs partial gastrectomy, reconstruction, or perioperative management. [[nccn-2026-gastric-cancer|NCCN 2026 Gastric Cancer]] does not carry HDGC management itself — it defers to the separate **NCCN Guidelines for Genetic/Familial High-Risk Assessment: Colorectal, Endometrial, and Gastric** (*Testing Criteria for Hereditary Diffuse Gastric Cancer*, *CDH1 Gastric Cancer Risks*, *Management of Gastric Cancer Risk in CDH1 Pathogenic Variant Carriers*); consult that document or the IGCLC HDGC consensus. [[aga-2025-gastric-cancer-screening|AGA 2025 gastric cancer screening]] puts HDGC out of scope.
+> **Extent of resection.** [[acg-2015-hereditary-gi-cancer]] recommends "prophylactic gastrectomy after age 20 years" but does not state total vs partial gastrectomy, reconstruction, or perioperative management. [[nccn-2026-gastric-cancer|National Comprehensive Cancer Network (NCCN) 2026 Gastric Cancer]] does not carry HDGC management itself — it defers to the separate **NCCN Guidelines for Genetic/Familial High-Risk Assessment: Colorectal, Endometrial, and Gastric** (*Testing Criteria for Hereditary Diffuse Gastric Cancer*, *CDH1 Gastric Cancer Risks*, *Management of Gastric Cancer Risk in CDH1 Pathogenic Variant Carriers*); consult that document or the IGCLC HDGC consensus. [[aga-2025-gastric-cancer-screening|American Gastroenterological Association (AGA) 2025 gastric cancer screening]] puts HDGC out of scope.
 
 **Post-gastrectomy**:
 
-- **Breast cancer surveillance in women beginning at age 35: annual mammography AND annual breast MRI, plus clinical breast examination every 6 months.** Because data in HDGC are limited, these guidelines are **extrapolated from [[brca-pathogenic-variants|BRCA1/BRCA2]] protocols**; annual MRI is included specifically because **lobular breast cancers are difficult to detect by clinical examination and mammography**
+- **Breast cancer surveillance in women beginning at age 35: annual mammography AND annual breast magnetic resonance imaging (MRI), plus clinical breast examination every 6 months.** Because data in HDGC are limited, these guidelines are **extrapolated from [[brca-pathogenic-variants|BRCA1/BRCA2]] protocols**; annual MRI is included specifically because **lobular breast cancers are difficult to detect by clinical examination and mammography**
 - [[colonoscopy]] beginning at age 40 in families that include colon cancer (Conditional/Low; based on limited evidence)
 
 ### Surveillance for Those Declining Gastrectomy

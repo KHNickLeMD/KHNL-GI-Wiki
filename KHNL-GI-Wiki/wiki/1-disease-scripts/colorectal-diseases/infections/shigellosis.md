@@ -14,14 +14,14 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ### Establishing the Diagnosis
 
 - Ill, febrile patient with frequent scant **bloody stools**, cramps, and tenesmus (dysentery).
-- **Stool culture / multiplex GI PCR** confirms; *Shigella* is a **notifiable** pathogen — submit isolate. [[idsa-2017-infectious-diarrhea]]
-- Apply **Shiga-toxin–aware diagnostics** when *S. dysenteriae* type 1 is possible (produces Shiga toxin → hemolytic uremic syndrome, HUS).
+- **Stool culture / multiplex gastrointestinal (GI) polymerase chain reaction (PCR)** confirms; *Shigella* is a **notifiable** pathogen — submit isolate. [[idsa-2017-infectious-diarrhea]]
+- Apply **Shiga-toxin–aware diagnostics** when *S. dysenteriae* type 1 is possible (produces Shiga toxin → hemolytic uremic syndrome [HUS]).
 
 ### Severity Assessment
 
 - **Uncomplicated** — self-limited dysentery in an immunocompetent host.
 - **Severe / complicated** — high fever, dehydration, or *S. dysenteriae* type 1 with HUS risk.
-- Grade illness with the ACG mild / moderate / severe activity definitions — see [[acute-diarrhea]].
+- Grade illness with the American College of Gastroenterology (ACG) mild / moderate / severe activity definitions — see [[acute-diarrhea]].
 
 ---
 
@@ -30,8 +30,8 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 *Workup: see [[acute-diarrhea]].*
 
 - Other inflammatory bacterial enteritides — [[campylobacter-infection]], [[salmonella-infection]], *Yersinia enterocolitica*
-- **Shiga toxin–producing *E. coli* (STEC/EHEC)** — the critical look-alike: also bloody diarrhea, but **antimicrobials must be avoided** (STEC O157, any Shiga-toxin-2 producer, or unknown toxin genotype) *(strong, moderate)*, whereas shigellosis is one of the few dysenteries you *do* treat empirically. [[idsa-2017-infectious-diarrhea]] (Rec 35). Note *S. dysenteriae* type 1 makes Shiga toxin itself. Distinct from [[enterotoxigenic-e-coli|ETEC]] (watery, noninvasive).
-- Amebic dysentery — [[entamoeba-histolytica-infection|*Entamoeba histolytica*]] (species-level EIA/PCR required; *E. dispar* is non-pathogenic). [[acg-2016-acute-diarrhea]]
+- **Shiga toxin–producing / enterohemorrhagic *E. coli* (STEC/EHEC)** — the critical look-alike: also bloody diarrhea, but **antimicrobials must be avoided** (STEC O157, any Shiga-toxin-2 producer, or unknown toxin genotype) *(strong, moderate)*, whereas shigellosis is one of the few dysenteries you *do* treat empirically. [[idsa-2017-infectious-diarrhea]] (Rec 35). Note *S. dysenteriae* type 1 makes Shiga toxin itself. Distinct from [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]] (watery, noninvasive).
+- Amebic dysentery — [[entamoeba-histolytica-infection|*Entamoeba histolytica*]] (species-level enzyme immunoassay (EIA)/PCR required; *E. dispar* is non-pathogenic). [[acg-2016-acute-diarrhea]]
 - [[clostridioides-difficile|*C. difficile*]] colitis (antibiotic/healthcare exposure)
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare
 
@@ -46,22 +46,22 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ## Therapeutics
 
-- **Antibiotics:** azithromycin is the treatment of choice — widespread ampicillin and TMP-SMX resistance. Emerging reduced azithromycin susceptibility in *S. sonnei* in the US (surveillance through 2016). [[acg-2016-acute-diarrhea]]
+- **Antibiotics:** azithromycin is the treatment of choice — widespread ampicillin and trimethoprim-sulfamethoxazole (TMP-SMX) resistance. Emerging reduced azithromycin susceptibility in *S. sonnei* in the US (surveillance through 2016). [[acg-2016-acute-diarrhea]]
 
 | | Agent | Dose / duration |
 |---|---|---|
-| **First choice** | **Azithromycin** | **1,000 mg PO single dose** OR **500 mg PO once daily × 3 days** (ACG Table 4 regimens — see [[acute-diarrhea]]); use the **3-day** course, which is the recommended duration for fever or dysentery [[acg-2016-acute-diarrhea]] |
-| First choice (alt) | Ciprofloxacin or ceftriaxone | IDSA Table 6 first-choice alternatives [[idsa-2017-infectious-diarrhea]] |
+| **First choice** | **Azithromycin** | **1,000 mg by mouth (PO) single dose** OR **500 mg PO once daily × 3 days** (ACG Table 4 regimens — see [[acute-diarrhea]]); use the **3-day** course, which is the recommended duration for fever or dysentery [[acg-2016-acute-diarrhea]] |
+| First choice (alt) | Ciprofloxacin or ceftriaxone | Infectious Diseases Society of America (IDSA) Table 6 first-choice alternatives [[idsa-2017-infectious-diarrhea]] |
 | Alternative | TMP-SMX or ampicillin | **Only if susceptible** [[idsa-2017-infectious-diarrhea]] |
 
-> Only azithromycin and the fluoroquinolones are dosed by the guidelines ([[acg-2016-acute-diarrhea]] Table 4 traveler's-diarrhea regimens). [[idsa-2017-infectious-diarrhea]] Table 6 names **ceftriaxone, TMP-SMX, and ampicillin with no dose column**, so no dose, route, or duration is given for those three here; use an IDSA/CDC enteric-pathogen treatment table.
+> Only azithromycin and the fluoroquinolones are dosed by the guidelines ([[acg-2016-acute-diarrhea]] Table 4 traveler's-diarrhea regimens). [[idsa-2017-infectious-diarrhea]] Table 6 names **ceftriaxone, TMP-SMX, and ampicillin with no dose column**, so no dose, route, or duration is given for those three here; use an IDSA/Centers for Disease Control and Prevention (CDC) enteric-pathogen treatment table.
 
 - **Duration — the decision rule** [[acg-2016-acute-diarrhea]]:
   - For most antibiotics, **single-dose or up to 3 days** is usually sufficient to resolve symptoms.
   - **A 3-day course is recommended for anyone presenting with fever or dysentery** — i.e. the typical shigellosis presentation.
   - ***S. dysenteriae* is the named exception: 5 days of therapy appears superior to single-dose or 3-day therapy.**
   - If a single dose has not resolved symptoms by **24 h**, complete a 3-day course.
-- **Fluoroquinolones:** historically used; increasing resistance → azithromycin preferred. **Do not prescribe a fluoroquinolone if the ciprofloxacin MIC is ≥0.12 µg/mL — even when the laboratory reports the isolate as susceptible.** [[idsa-2017-infectious-diarrhea]] (Table 6)
+- **Fluoroquinolones:** historically used; increasing resistance → azithromycin preferred. **Do not prescribe a fluoroquinolone if the ciprofloxacin minimum inhibitory concentration (MIC) is ≥0.12 µg/mL — even when the laboratory reports the isolate as susceptible.** [[idsa-2017-infectious-diarrhea]] (Table 6)
 - **Empiric therapy is a named exception to the "no empiric antibiotics" rule — and the criteria are a conjunction, not a menu.** Empiric therapy for bloody diarrhea is **not** recommended in immunocompetent children and adults *(strong, low)* **except** for an **ill immunocompetent person with *all* of: documented fever, abdominal pain, bloody diarrhea, and bacillary dysentery presumptively due to *Shigella*** *(weak, low)*. (The other two carve-outs are infants **<3 months** with suspected bacterial etiology, and recent international travel with temperature **≥38.5 °C** and/or signs of sepsis — see [[fever-returning-traveler]].) [[idsa-2017-infectious-diarrhea]] (Rec 30)
   - **Agent when treating empirically in adults:** a fluoroquinolone (e.g. ciprofloxacin) **or** azithromycin, chosen by local susceptibility patterns and travel history *(strong, moderate)*; in children, a third-generation cephalosporin for infants <3 months or neurologic involvement, otherwise azithromycin *(strong, moderate)*. [[idsa-2017-infectious-diarrhea]] (Rec 31)
   - **Stop or narrow** once a clinically plausible organism is identified *(strong, high)*. [[idsa-2017-infectious-diarrhea]] (Rec 38)
@@ -71,7 +71,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ### Postinfectious sequelae
 
-- **Reactive arthritis**, **erythema nodosum**, **intestinal perforation**, and [[postinfectious-ibs|post-infectious IBS]] are recognized *Shigella* sequelae. [[idsa-2017-infectious-diarrhea]] (Table 5)
+- **Reactive arthritis**, **erythema nodosum**, **intestinal perforation**, and [[postinfectious-ibs|post-infectious irritable bowel syndrome (IBS)]] are recognized *Shigella* sequelae. [[idsa-2017-infectious-diarrhea]] (Table 5)
 
 ---
 

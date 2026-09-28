@@ -27,7 +27,7 @@ This guidance defines screening and management of **malnutrition, frailty, and s
 
 ## Key Points
 
-- **Screen** all cirrhosis patients for malnutrition/frailty (tools: Liver Frailty Index, hand-grip, gait speed; muscle mass by CT psoas index where available).
+- **Screen** all cirrhosis patients for malnutrition/frailty (tools: Liver Frailty Index, hand-grip, gait speed; muscle mass by computed tomography (CT) psoas index where available).
 - **Calorie intake ≥35 kcal/kg/day** (non-obese) and **protein 1.2–1.5 g/kg/day**; **do not protein-restrict** (even with [[hepatic-encephalopathy]]).
 - **Avoid prolonged fasting**; recommend a **late-evening/nocturnal snack** to limit catabolism, and frequent small meals; minimize fasting around procedures.
 - **Exercise / prehabilitation** to improve muscle mass and functional capacity; address micronutrient deficiencies and sarcopenic obesity.

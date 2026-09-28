@@ -16,15 +16,15 @@ sources: []
 - **Year:** 2020
 - **Journal/Publisher:** Gastroenterology
 - **DOI:** [10.1053/j.gastro.2020.01.025](https://doi.org/10.1053/j.gastro.2020.01.025)
-- **Type:** RCT — phase 4, multicenter, double-blind, placebo-controlled, non-inferiority trial (ClinicalTrials.gov NCT02261896)
+- **Type:** Randomized controlled trial (RCT) — phase 4, multicenter, double-blind, placebo-controlled, non-inferiority trial (ClinicalTrials.gov NCT02261896)
 
 ---
 
 ## Summary
 
-Guidelines (ASGE 2015, ESGE 2017) recommend routine antibiotic prophylaxis for [[endoscopic-ultrasound|EUS]]-guided fine-needle aspiration (FNA) of [[pancreatic-cysts|pancreatic cysts]], but the evidence base was weak (expert consensus/longstanding practice). This is the **first RCT** to test whether performing EUS-FNA of pancreatic cysts **without** antibiotic prophylaxis is non-inferior to prophylaxis for preventing post-procedure infection.
+Guidelines (American Society for Gastrointestinal Endoscopy [ASGE] 2015, European Society of Gastrointestinal Endoscopy [ESGE] 2017) recommend routine antibiotic prophylaxis for [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]-guided fine-needle aspiration (FNA) of [[pancreatic-cysts|pancreatic cysts]], but the evidence base was weak (expert consensus/longstanding practice). This is the **first RCT** to test whether performing EUS-FNA of pancreatic cysts **without** antibiotic prophylaxis is non-inferior to prophylaxis for preventing post-procedure infection.
 
-At 5 Spanish centers (Sept 2014–June 2018), 226 patients with a pancreatic cyst requiring EUS-FNA were randomized to **ciprofloxacin** (200 mg IV bolus before/during FNA, then 500 mg PO q12h × 7 doses; n=112) or matching **placebo** (saline bolus + placebo; n=114), followed for 21 days. The only FNA-related infection (0.44% overall) occurred in the **placebo** group (0.87%) — a patient with pre-existing acute pancreatitis who developed bacteremia. Placebo was **non-inferior** (difference 0.87%, 95% CI −0.84% to 2.59%; non-inferiority margin 3%). No differences in fever (2 per group; 1.78% vs 1.76%; P=1.00) or other adverse events. Conclusion: infection risk after EUS-FNA of pancreatic cysts is low and does not increase without antibiotic prophylaxis.
+At 5 Spanish centers (Sept 2014–June 2018), 226 patients with a pancreatic cyst requiring EUS-FNA were randomized to **ciprofloxacin** (200 mg intravenous (IV) bolus before/during FNA, then 500 mg orally (PO) q12h × 7 doses; n=112) or matching **placebo** (saline bolus + placebo; n=114), followed for 21 days. The only FNA-related infection (0.44% overall) occurred in the **placebo** group (0.87%) — a patient with pre-existing acute pancreatitis who developed bacteremia. Placebo was **non-inferior** (difference 0.87%, 95% confidence interval [CI] −0.84% to 2.59%; non-inferiority margin 3%). No differences in fever (2 per group; 1.78% vs 1.76%; P=1.00) or other adverse events. Conclusion: infection risk after EUS-FNA of pancreatic cysts is low and does not increase without antibiotic prophylaxis.
 
 ---
 
@@ -46,8 +46,8 @@ At 5 Spanish centers (Sept 2014–June 2018), 226 patients with a pancreatic cys
 
 **Secondary outcomes**
 - **Fever:** 4 patients (1.8%) — 2 (1.8%) in each group (P=1.00); none with positive blood cultures or other infection signs.
-- **Adverse events (ASGE lexicon):** 14 (6.2%) total — 6 (5.4%) ciprofloxacin vs 8 (7.0%) placebo (P=.78). All **3 severe** AEs occurred in the placebo group (the bacteremia case; an accidental fall with rib fractures; moderate acute pancreatitis).
-- **Antibiotic-related AEs:** no excess with ciprofloxacin; possibly medication-related events in 17.9% (ATB) vs 14.0% (placebo), P=.47. No *C. difficile* diarrhea observed (contrasts with prior retrospective data using levofloxacin).
+- **Adverse events (AEs; ASGE lexicon):** 14 (6.2%) total — 6 (5.4%) ciprofloxacin vs 8 (7.0%) placebo (P=.78). All **3 severe** AEs occurred in the placebo group (the bacteremia case; an accidental fall with rib fractures; moderate acute pancreatitis).
+- **Antibiotic-related AEs:** no excess with ciprofloxacin; possibly medication-related events in 17.9% (antibiotic arm) vs 14.0% (placebo), P=.47. No *C. difficile* diarrhea observed (contrasts with prior retrospective data using levofloxacin).
 - Overall unexpected events 22.1% (higher than prior reports — attributed to intensive prospective follow-up; most were mild, self-limited abdominal pain/diarrhea).
 
 **Authors' conclusions / caveats**
@@ -65,5 +65,5 @@ At 5 Spanish centers (Sept 2014–June 2018), 226 patients with a pancreatic cys
 
 ## Contradictions / Open Questions
 
-- **Directly contradicts** the standing guideline suggestion (ASGE 2015 [[asge-2015-antibiotic-prophylaxis]]; ESGE 2017) to give routine prophylaxis for EUS-FNA of pancreatic/peripancreatic cysts. Per source priority, the ASGE 2015 *guideline* (tier 1) still governs the primary recommendation on the entity pages over this RCT (tier 2) until a newer guideline incorporates the RCT — but the "suggested" GRADE was low-quality and this RCT is the strongest evidence to date; the contradiction is surfaced on the affected pages.
+- **Directly contradicts** the standing guideline suggestion (ASGE 2015 [[asge-2015-antibiotic-prophylaxis]]; ESGE 2017) to give routine prophylaxis for EUS-FNA of pancreatic/peripancreatic cysts. Per source priority, the ASGE 2015 *guideline* (tier 1) still governs the primary recommendation on the entity pages over this RCT (tier 2) until a newer guideline incorporates the RCT — but the "suggested" Grading of Recommendations Assessment, Development and Evaluation (GRADE) rating was low-quality and this RCT is the strongest evidence to date; the contradiction is surfaced on the affected pages.
 - Whether prophylaxis remains warranted for duplication/mediastinal cysts, incompletely drained cysts, or immunosuppressed patients is unresolved (excluded or underpowered).

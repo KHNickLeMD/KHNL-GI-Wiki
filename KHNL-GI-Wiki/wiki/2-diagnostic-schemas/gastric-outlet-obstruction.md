@@ -28,9 +28,9 @@ sources: [jeurnink-2010-sustent-goo, kastelijn-2023-enduro-protocol, asge-2010-p
 
 - **Mechanical obstruction of gastric outflow.** Anatomically the two trials bound it as obstruction extending from the **distal one third of the stomach to the distal duodenum** ([[jeurnink-2010-sustent-goo|SUSTENT]]) — equivalently, **pyloric region to the third part of the duodenum** ([[kastelijn-2023-enduro-protocol|ENDURO]]).
 - **Symptoms scale with severity:** early satiety → nausea → vomiting → complete inability to tolerate oral intake.
-- **Why it must be treated, not observed:** poor clinical condition from vomiting, dehydration, and malnutrition develops quickly. The aim of palliation in malignant GOO is to maintain oral intake and stabilize quality of life.
+- **Why it must be treated, not observed:** poor clinical condition from vomiting, dehydration, and malnutrition develops quickly. The aim of palliation in malignant gastric outlet obstruction (GOO) is to maintain oral intake and stabilize quality of life.
 - **How often it complicates pancreatic cancer — the two sources differ slightly:** [[jeurnink-2010-sustent-goo|SUSTENT]] states **10–20%** of patients with pancreatic cancer develop obstructive symptoms during the disease course; [[kastelijn-2023-enduro-protocol|ENDURO]] states **15–20%** will develop GOO. Same tier, and the newer figure sits inside the older range — treat the answer as "roughly one in six".
-- **Scope note:** this page is the home of the **GOOSS score** and the **malignant-GOO treatment-selection rule**. Benign (peptic) GOO dilation outcomes live on [[peptic-ulcer-disease]]; feeding-route selection lives on [[enteral-access]].
+- **Scope note:** this page is the home of the **Gastric Outlet Obstruction Scoring System (GOOSS) score** and the **malignant-GOO treatment-selection rule**. Benign (peptic) GOO dilation outcomes live on [[peptic-ulcer-disease]]; feeding-route selection lives on [[enteral-access]].
 
 ### GOOSS — Gastric Outlet Obstruction Scoring System
 
@@ -68,7 +68,7 @@ The standardized food-intake instrument used to define eligibility, measure resp
 
 **Must be excluded before committing to a bypass — these change the operation, not just the diagnosis:**
 
-- **Additional or more distal strictures in the GI tract.** Both trials exclude them; ENDURO specifically excludes obstruction **distal to the ligament of Treitz with small-intestinal dilation/ileus**. A gastrojejunostomy or stent proximal to a second downstream obstruction will not restore intake.
+- **Additional or more distal strictures in the gastrointestinal (GI) tract.** Both trials exclude them; ENDURO specifically excludes obstruction **distal to the ligament of Treitz with small-intestinal dilation/ileus**. A gastrojejunostomy or stent proximal to a second downstream obstruction will not restore intake.
 - **Ileus / dysmotility masquerading as mechanical obstruction** — ENDURO's post-procedure algorithm requires excluding ileus (distended abdomen, absent or high-pitched peristalsis, no passage of flatus or faeces) before attributing failure to the anastomosis.
 - **Prior gastric, periampullary, or duodenal surgery**, or a prior gastrojejunostomy/stent for the same condition — excluded from both trials, so the trial-derived rules below do not transfer to these patients.
 
@@ -79,7 +79,7 @@ The standardized food-intake instrument used to define eligibility, measure resp
 ```mermaid
 flowchart TD
     A["Nausea, vomiting, early satiety<br/>or inability to tolerate oral intake"] --> B["Score oral intake: GOOSS 0-4"]
-    B --> C["Upper endoscopy<br/>(ASGE Rec 11, High quality)"]
+    B --> C["Upper endoscopy<br/>(American Society for Gastrointestinal Endoscopy<br/>[ASGE] Rec 11, High quality)"]
     C --> D{"Obstructing lesion?"}
     D -->|"Ulcer / benign stricture"| E["Biopsy to exclude malignancy<br/>Test and treat H. pylori"]
     D -->|"Mass / stricture suspicious for tumour"| F["Biopsy + cross-sectional imaging<br/>for stage and resectability"]
@@ -88,7 +88,7 @@ flowchart TD
     H -->|Yes| I["Curative resection<br/>(not a palliation decision)"]
     H -->|"Irresectable / metastatic"| J["Confirm no second obstruction<br/>distal to ligament of Treitz"]
     J --> K{"Estimated survival<br/>and performance status"}
-    K -->|"< 2 months, or poor PS"| L["Enteral (duodenal) stent<br/>faster relief, more reinterventions"]
+    K -->|"< 2 months, or poor<br/>performance status (PS)"| L["Enteral (duodenal) stent<br/>faster relief, more reinterventions"]
     K -->|"≥ 2 months, adequate PS"| M["Surgical gastrojejunostomy<br/>durable, more up-front morbidity"]
 ```
 
@@ -103,7 +103,7 @@ flowchart TD
 | **[[upper-endoscopy\|Upper endoscopy]]** | **Recommended for the evaluation of GOO — ASGE 2010 Rec 11, High quality of evidence.** Confirms the obstruction, localizes it, and — critically — **biopsies to separate benign from malignant**, which is the branch point of the whole algorithm. Also the therapeutic access for benign dilation. |
 | **Biopsy of the obstructing lesion** | Malignant gastric lesions can look endoscopically benign; the benign-vs-malignant call cannot be made on appearance alone ([[asge-2010-pud]]). |
 | **Cross-sectional imaging** | Establishes irresectability/metastatic disease — the precondition for treating GOO as a palliative problem at all. Also confirms GOO radiologically (an accepted alternative to endoscopic confirmation in ENDURO) and screens for a second, more distal obstruction. |
-| **WHO / ECOG performance status** | Not a "test" but a required input: performance status plus estimated survival selects the palliative procedure. **WHO 4 (bedbound 100% of the time) was an exclusion** from SUSTENT — such patients were not studied and the rule below does not cover them. |
+| **World Health Organization (WHO) / Eastern Cooperative Oncology Group (ECOG) performance status** | Not a "test" but a required input: performance status plus estimated survival selects the palliative procedure. **WHO 4 (bedbound 100% of the time) was an exclusion** from SUSTENT — such patients were not studied and the rule below does not cover them. |
 | **GOOSS score** | Baseline severity, treatment response, and the day-5 escalation trigger. |
 
 ---
@@ -113,10 +113,10 @@ flowchart TD
 - **GOOSS 0 (no oral intake at all)** — dehydration and malnutrition develop quickly; this is not a watch-and-wait situation.
 - **Vomiting more than twice in 24 h**, or still GOOSS 0–1 **five days after** a bypass or stent — trigger for endoscopic jejunal feeding access.
 - **Endoscopically benign-looking gastric lesion** — appearance does not exclude malignancy; biopsy is mandatory.
-- **New [[jaundice]] or [[acute-cholangitis|cholangitis]] after duodenal stenting** — the stent may have crossed the ampulla and blocked ERCP access; anticipate percutaneous drainage.
+- **New [[jaundice]] or [[acute-cholangitis|cholangitis]] after duodenal stenting** — the stent may have crossed the ampulla and blocked endoscopic retrograde cholangiopancreatography (ERCP) access; anticipate percutaneous drainage.
 - **Suspicion of a second, more distal obstruction** (small-bowel dilation, ileus) — a proximal bypass will not work.
 - **WHO performance status 4** — outside the evidence base for either palliative procedure.
-- **Suspected perforation after balloon dilation or EUS-GE** — pyloric dilation carries a meaningful perforation rate ([[peptic-ulcer-disease]]); LAMS misdeployment causes jejunal perforation and peritonitis.
+- **Suspected perforation after balloon dilation or endoscopic ultrasound (EUS)–guided gastroenterostomy (EUS-GE)** — pyloric dilation carries a meaningful perforation rate ([[peptic-ulcer-disease]]); lumen-apposing metal stent (LAMS) misdeployment causes jejunal perforation and peritonitis.
 
 ---
 
@@ -126,7 +126,7 @@ flowchart TD
 
 - **Endoscopic balloon dilation** is suggested for benign GOO — [[asge-2010-pud]] Rec 12, **Low** quality of evidence (note the weak grade).
 - Short-term relief is good but **restenosis is common and about half ultimately need surgery**; patients requiring **more than 2 dilations** are at high risk of endoscopic failure. Full outcome figures, including the perforation rate, are on [[peptic-ulcer-disease]].
-- Treat the underlying ulcer diathesis in parallel — [[helicobacter-pylori-infection|H. pylori]] eradication, acid suppression ([[proton-pump-inhibitors|PPI]]).
+- Treat the underlying ulcer diathesis in parallel — [[helicobacter-pylori-infection|H. pylori]] eradication, acid suppression ([[proton-pump-inhibitors|proton pump inhibitor (PPI)]]).
 
 ### Malignant GOO — the prognosis threshold
 
@@ -146,7 +146,7 @@ flowchart TD
 | Quality of life | No difference between arms | |
 | Mean total cost per patient | **$11,720** | $16,536 |
 
-*All figures from [[jeurnink-2010-sustent-goo]] (n = 39: 18 GJJ, 21 stent).*
+*All figures from [[jeurnink-2010-sustent-goo]] (n = 39: 18 gastrojejunostomy [GJJ], 21 stent).*
 
 **Three qualifiers that must travel with these numbers:**
 
@@ -156,9 +156,9 @@ flowchart TD
 
 **Why stents fail late:** obstruction by **food debris** and by **tumour ingrowth/overgrowth** through the uncovered mesh — the recognized weakness of uncovered designs. Covered stents trade ingrowth for a **higher migration** risk. Stent obstruction occurs in **up to 30%** of cases (ENDURO background).
 
-**Biliary access is part of the stent decision.** A duodenal stent deployed **across the ampulla of Vater can foreclose [[ercp|ERCP]] access to the bile duct**. Of 4 SUSTENT stent-arm patients who later developed CBD obstruction, only 1 could be managed endoscopically; 2 required percutaneous drainage. **Consider placing a CBD stent up front** if biliary obstruction is anticipated — see [[biliary-stricture]].
+**Biliary access is part of the stent decision.** A duodenal stent deployed **across the ampulla of Vater can foreclose [[ercp|ERCP]] access to the bile duct**. Of 4 SUSTENT stent-arm patients who later developed common bile duct (CBD) obstruction, only 1 could be managed endoscopically; 2 required percutaneous drainage. **Consider placing a CBD stent up front** if biliary obstruction is anticipated — see [[biliary-stricture]].
 
-**[[endoscopic-ultrasound|EUS]]-guided gastroenterostomy (EUS-GE).** A **20-mm lumen-apposing metal stent (LAMS)** placed endoscopically between the stomach and a jejunal loop distal to the obstruction, proposed as combining the speed of stenting with the durability of surgery. **Neither source reports outcome data comparing EUS-GE with surgery or with enteral stenting.** [[kastelijn-2023-enduro-protocol|ENDURO]] is the randomized trial designed to answer exactly this question and is a **protocol reporting no results**; this page therefore describes EUS-GE technique only, not its comparative efficacy or safety. Known hazard: EUS-GE is **technically demanding**, and **LAMS misdeployment can cause jejunal perforation and peritonitis**.
+**[[endoscopic-ultrasound|EUS]]-guided gastroenterostomy.** A **20-mm LAMS** placed endoscopically between the stomach and a jejunal loop distal to the obstruction, proposed as combining the speed of stenting with the durability of surgery. **Neither source reports outcome data comparing EUS-GE with surgery or with enteral stenting.** [[kastelijn-2023-enduro-protocol|ENDURO]] is the randomized trial designed to answer exactly this question and is a **protocol reporting no results**; this page therefore describes EUS-GE technique only, not its comparative efficacy or safety. Known hazard: EUS-GE is **technically demanding**, and **LAMS misdeployment can cause jejunal perforation and peritonitis**.
 
 ### Procedural specifications
 

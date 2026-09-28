@@ -16,11 +16,11 @@ sources: []
 - **Year:** 2020 (October 2020 issue; received April 23 2020, accepted June 15 2020)
 - **Journal/Publisher:** Gastroenterology 2020;159:1533–1537 — AGA Institute
 - **DOI:** [10.1053/j.gastro.2020.06.089](https://doi.org/10.1053/j.gastro.2020.06.089)
-- **Type:** Guideline — AGA Institute **Clinical Practice Update (Commentary)**. **Tier 1.**
+- **Type:** Guideline — American Gastroenterological Association (AGA) Institute **Clinical Practice Update (Commentary)**. **Tier 1.**
 
-> **No numbered recommendations and no grading.** Unlike an AGA Expert Review, this **Commentary carries no Best Practice Advice statements, no numbered recommendations, and no GRADE or evidence-quality ratings.** Its guidance is delivered as narrative prose — four named solutions and a set of proposed quality indicators — reproduced below in the source's own words. Nothing here should be cited as a numbered or graded AGA recommendation, because the document creates none.
+> **No numbered recommendations and no grading.** Unlike an AGA Expert Review, this **Commentary carries no Best Practice Advice statements, no numbered recommendations, and no Grading of Recommendations Assessment, Development and Evaluation (GRADE) or evidence-quality ratings.** Its guidance is delivered as narrative prose — four named solutions and a set of proposed quality indicators — reproduced below in the source's own words. Nothing here should be cited as a numbered or graded AGA recommendation, because the document creates none.
 
-**Stated aims, verbatim:** "to lay the groundwork for standardizing terminology and definitions for PEEC, to describe the scope of PEEC and contributing factors, and to provide best practice advice to improve dysplasia and neoplasia detection in patients undergoing BE screening and surveillance, thereby reducing rates of PEEC." Commissioned and approved by the AGA Institute Clinical Practice Updates Committee and the AGA Governing Board; internal peer review by the CPUC and external peer review through the standard procedures of *Gastroenterology*.
+**Stated aims, verbatim:** "to lay the groundwork for standardizing terminology and definitions for PEEC [post-endoscopy esophageal adenocarcinoma], to describe the scope of PEEC and contributing factors, and to provide best practice advice to improve dysplasia and neoplasia detection in patients undergoing BE [Barrett's esophagus] screening and surveillance, thereby reducing rates of PEEC." Commissioned and approved by the AGA Institute Clinical Practice Updates Committee (CPUC) and the AGA Governing Board; internal peer review by the CPUC and external peer review through the standard procedures of *Gastroenterology*.
 
 ---
 
@@ -40,11 +40,11 @@ sources: []
 
 ## Proposed Definitions (Verbatim)
 
-The update's central deliverable. It is explicit that these are proposals for current use, not a completed consensus: "Although providing evidence-based consensus definitions for PEEC and interval EAC will be our next step, we propose the following definitions for current use."
+The update's central deliverable. It is explicit that these are proposals for current use, not a completed consensus: "Although providing evidence-based consensus definitions for PEEC and interval EAC [esophageal adenocarcinoma] will be our next step, we propose the following definitions for current use."
 
 | Term | Proposed definition (verbatim) |
 |---|---|
-| **PEEC** (post-endoscopy esophageal adenocarcinoma) | "EAC and/or BE-related high-grade dysplasia (HGD) identified within a finite time period (typically 1 year) after an index endoscopy" |
+| **PEEC** | "EAC and/or BE-related high-grade dysplasia (HGD) identified within a finite time period (typically 1 year) after an index endoscopy" |
 | **Interval EAC** | "EAC or BE-related HGD diagnosed after a negative screening or surveillance endoscopy before the date of the next recommended test" |
 
 **Why interval EAC is defined separately, verbatim:** "Defining interval EAC, primarily a measure of screening, is important, given the robust development of noninvasive, nonendoscopic screening tools under investigation."
@@ -64,14 +64,14 @@ The update's central deliverable. It is explicit that these are proposals for cu
 | Claims-based database, 79,460 BE patients (1595 EAC diagnoses) | **76%** of EAC diagnoses considered **prevalent** (detected within **90 days** of index endoscopy); **10%** designated **interval** (EAC diagnosed between **90 and 365 days** of BE diagnosis) |
 | Northern Ireland BE Registry, 13,159 BE patients | 267 patients with HGD/EAC **≥3 months** after BE diagnosis, of which **34 (12.7%)** classified as potentially missed |
 | Meta-analysis, 24 BE surveillance studies | **25.3%** of HGD/EAC diagnosed were designated as missed (using **<1 year** as the threshold interval for missed neoplasia); **27%** of all HGD/cancer was found within the first year of surveillance |
-| Meta-analysis, 8 surveillance trials of BE-related LGD | Weighted incidence in the first year **8.8 per 100 patients**; median first-year-incidence to overall-progression ratio **2.34** — i.e. first-year incidence is approximately **twice** the overall annual progression rate |
+| Meta-analysis, 8 surveillance trials of BE-related low-grade dysplasia (LGD) | Weighted incidence in the first year **8.8 per 100 patients**; median first-year-incidence to overall-progression ratio **2.34** — i.e. first-year incidence is approximately **twice** the overall annual progression rate |
 
 **Bottom line, verbatim:** "meta-analyses as well as cohort studies indicate high PEEC incidence (3%–25%) within the first year after index endoscopy, commonly from missed HGD/EAC, which accounts for a large proportion if not the majority of PEECs found throughout the entire BE surveillance period."
 
 **In BE patients who have undergone endoscopic eradication therapy:**
 
-- Meta-analysis of 22 studies, 1973 patients achieving CE-IM by [[radiofrequency-ablation|RFA]] and/or endoscopic resection: dysplasia detection had a **relative risk of 1.92 in the first year** compared with subsequent years.
-- Meta-analysis of 40 studies, 4410 patients undergoing endoscopic ablation: **failure to achieve CE-IM carried RR 2.2 for recurrent HGD/EAC** — pooled cumulative incidence **6%** (95% CI 0%–16%) with residual intestinal metaplasia vs **3%** (95% CI 2%–4%) with CE-IM.
+- Meta-analysis of 22 studies, 1973 patients achieving complete eradication of intestinal metaplasia (CE-IM) by [[radiofrequency-ablation|radiofrequency ablation (RFA)]] and/or endoscopic resection: dysplasia detection had a **relative risk (RR) of 1.92 in the first year** compared with subsequent years.
+- Meta-analysis of 40 studies, 4410 patients undergoing endoscopic ablation: **failure to achieve CE-IM carried RR 2.2 for recurrent HGD/EAC** — pooled cumulative incidence **6%** (95% confidence interval [CI] 0%–16%) with residual intestinal metaplasia vs **3%** (95% CI 2%–4%) with CE-IM.
 - Interpretation, verbatim: "HGD/EAC identified within 1 year after complete eradication of intestinal metaplasia likely represents missed and/or incompletely treated prevalent disease rather than recurrent or incident neoplasia," and "residual intestinal metaplasia may be a marker of prevalent dysplasia rather than a predictor of recurrence."
 
 ---
@@ -95,7 +95,7 @@ The source gives its Figure 1 ("Potential explanations for post-endoscopy esopha
 
 **Sampling detail the update relies on:** the Seattle protocol advocates 4-quadrant biopsies **every 1 cm** for optimal dysplasia or cancer detection, with **50% higher cancer detection** compared with biopsies every 2 cm — "the latter represents typical endoscopic practice." **Wide-area transepithelial sampling with computer-assisted 3-dimensional analysis (WATS-3D)** may demonstrate dysplastic cells even without endoscopically visible lesions or abnormal routine histology.
 
-**Compliance data motivating the concern:** compliance with guideline recommendations for appropriate endoscopic surveillance intervals with application of the Seattle protocol is suboptimal; GI Quality Improvement Consortium registry data demonstrated that **30% of patients with nondysplastic BE undergo endoscopy earlier than guideline recommendation** without strict adherence to the Seattle protocol.
+**Compliance data motivating the concern:** compliance with guideline recommendations for appropriate endoscopic surveillance intervals with application of the Seattle protocol is suboptimal; gastrointestinal (GI) Quality Improvement Consortium (GIQuIC) registry data demonstrated that **30% of patients with nondysplastic BE undergo endoscopy earlier than guideline recommendation** without strict adherence to the Seattle protocol.
 
 ---
 
@@ -108,10 +108,10 @@ The source gives its Figure 1 ("Potential explanations for post-endoscopy esopha
 | **Appropriate surveillance intervals in nondysplastic BE** | Surveillance endoscopies **no sooner than 3–5 years** — proposed to reduce unnecessary endoscopy |
 | **Adherence to the Seattle biopsy protocol** | Proposed as a quality indicator alongside the interval metric |
 | **NDR (neoplasia detection rate)** | "the prevalence of HGD and EAC within BE during the index screening endoscopy," proposed as a **process** quality indicator. A meta-analysis reported a pooled HGD/EAC prevalence of **7%** (95% CI 4%–10%) and proposed **4% as the NDR threshold on index BE screening endoscopy** |
-| **DDR (dysplasia detection rate)** | A metric similar to NDR; in a GI Quality Improvement Consortium time-trend analysis it performed similarly, with prevalence rates **4%–6%** and **no change during a 5-year period** |
+| **DDR (dysplasia detection rate)** | A metric similar to NDR; in a GIQuIC time-trend analysis it performed similarly, with prevalence rates **4%–6%** and **no change during a 5-year period** |
 | **Barrett's Inspection Time** | "measures the proportion of routine BE surveillance examinations incorporating **1 minute of visual inspection per centimeter of circumferential BE**" — **requires validation before adoption in clinical practice** |
 
-**The colorectal benchmark the argument rests on:** an **adenoma detection rate (ADR) of ≥20%** for individuals undergoing average-risk screening colonoscopy is a well-established quality indicator in CRC screening, first established in 2002 by the US Multi-Society Task Force on Colorectal Cancer; ADR is inversely proportional to the risk of developing PCCRC and has been adopted by regulatory entities (including the Centers for Medicare and Medicaid Services Merit-Based Incentive Payment System) because it inversely correlates with interval CRC and mortality.
+**The colorectal benchmark the argument rests on:** an **adenoma detection rate (ADR) of ≥20%** for individuals undergoing average-risk screening colonoscopy is a well-established quality indicator in colorectal cancer (CRC) screening, first established in 2002 by the US Multi-Society Task Force on Colorectal Cancer (US MSTF); ADR is inversely proportional to the risk of developing PCCRC and has been adopted by regulatory entities (including the Centers for Medicare and Medicaid Services Merit-Based Incentive Payment System) because it inversely correlates with interval CRC and mortality.
 
 **How the source positions the two metrics against each other, verbatim:** "Although easier to measure compared with PEEC rates, NDR remains a surrogate endoscopy quality marker in BE surveillance, and PEEC rates serve as a true outcomes measure that matters clinically." For BE quality indicators such as NDR/DDR to be considered high-value, they "must correlate with important clinical outcomes, such as PEEC and mortality, and drive performance improvement."
 
@@ -132,29 +132,29 @@ Because most PEECs result from missed lesions, the update's remedy is to improve
 
 ## Summary
 
-This Commentary imports the post-colonoscopy colorectal cancer (PCCRC) framework into the esophagus and names the esophageal equivalent **PEEC** — esophageal adenocarcinoma and/or Barrett's-related high-grade dysplasia found within a finite window, typically 1 year, after an index endoscopy. Its argument is that the neoplasia found soon after an endoscopy is mostly not new biology but **prevalent disease that the endoscopy failed to find or failed to fully remove**, and therefore that it is a measure of examination quality rather than of Barrett's natural history.
+This Commentary imports the PCCRC framework into the esophagus and names the esophageal equivalent **PEEC** — esophageal adenocarcinoma and/or Barrett's-related high-grade dysplasia found within a finite window, typically 1 year, after an index endoscopy. Its argument is that the neoplasia found soon after an endoscopy is mostly not new biology but **prevalent disease that the endoscopy failed to find or failed to fully remove**, and therefore that it is a measure of examination quality rather than of Barrett's natural history.
 
 The numbers it assembles make that case. PEEC incidence is 3%–13% in cohort studies and 3%–25% across meta-analyses, 25.3% of HGD/EAC in surveillance studies is designated missed, and in LGD trials first-year incidence runs about twice the overall annual progression rate. The same first-year excess reappears after [[endoscopic-eradication-therapy|endoscopic eradication therapy]] — a 1.92 relative risk of dysplasia detection in year 1 after CE-IM, and a 2.2 relative risk for recurrent HGD/EAC when CE-IM is never achieved — which the update reads as incomplete initial treatment rather than recurrence. It also reframes residual intestinal metaplasia as a marker of prevalent dysplasia, not a predictor of future recurrence.
 
 The mechanism split is three-way — missed lesions (most important), incomplete resection/ablation, and rapidly progressive cancer (smallest) — and the reasons lesions are missed are explicitly about practice rather than biology: subtle mucosal differences requiring a learning curve, a Seattle protocol frequently skipped and, even when done correctly, sampling under 5% of the Barrett's segment, inspection time far shorter than the colonoscopic equivalent, and dysplasia itself being an imperfect marker of prevalent cancer.
 
-From this it proposes quality metrics — NDR with a 4% threshold on index screening endoscopy, DDR, and a Barrett's Inspection Time of 1 minute per centimetre of circumferential BE (unvalidated) — while being candid that none are yet in value-based care plans, most rest on weak evidence, and NDR is only a surrogate whereas PEEC is the outcome that matters. The short-term remedy it offers is not technology but examination discipline: document the landmarks and photo-document them, use the Prague and Paris classifications, use HD-WLE plus virtual chromoendoscopy with a validated classification, take the time, follow the Seattle protocol, and build local infrastructure to monitor upper endoscopy quality.
+From this it proposes quality metrics — NDR with a 4% threshold on index screening endoscopy, DDR, and a Barrett's Inspection Time of 1 minute per centimetre of circumferential BE (unvalidated) — while being candid that none are yet in value-based care plans, most rest on weak evidence, and NDR is only a surrogate whereas PEEC is the outcome that matters. The short-term remedy it offers is not technology but examination discipline: document the landmarks and photo-document them, use the Prague and Paris classifications, use high-definition white light endoscopy (HD-WLE) plus virtual chromoendoscopy with a validated classification, take the time, follow the Seattle protocol, and build local infrastructure to monitor upper endoscopy quality.
 
 ---
 
 ## Key Findings / Claims
 
 **Epidemiology framing**
-- EAC incidence has risen **7-fold from 1975 to 2016** (SEER).
+- EAC incidence has risen **7-fold from 1975 to 2016** (Surveillance, Epidemiology, and End Results [SEER]).
 - As much as **40% of EACs present with advanced disease**, with a dismal 5-year survival rate.
-- Only **7%–10%** of individuals with chronic [[gerd|GERD]] have BE; nearly **40%** of EAC patients describe no history of GERD; up to **50%** of patients with short-segment BE lack GERD symptoms.
+- Only **7%–10%** of individuals with chronic [[gerd|gastroesophageal reflux disease (GERD)]] have BE; nearly **40%** of EAC patients describe no history of GERD; up to **50%** of patients with short-segment BE lack GERD symptoms.
 - **>90% of EACs do not have a prior BE diagnosis** — the reason endoscopy is a compromised screening tool (expense, facility/physician expertise needed, limited effectiveness).
 - Broadening the at-risk population to include risk factors independent of GERD — **age >50 years, male sex, white race, cigarette smoking, and central obesity** — "would incur increased resource utilization, costs, and potential harm from endoscopy."
 - Significant inter- and intra-observer variability exists among both community and expert pathologists in dysplasia interpretation.
 
 **PEEC rates** — see the table above; headline figures are 3%–13% (cohort), 3%–25% (meta-analyses), 25.3% designated missed, 12.7% potentially missed in the Northern Ireland registry, 2% in Olmsted County, and first-year LGD incidence ~2.34× the overall annual rate.
 
-**Post-EET**
+**After endoscopic eradication therapy**
 - Dysplasia detection RR **1.92** in the first year after CE-IM vs subsequent years (22 studies, 1973 patients).
 - Failure to achieve CE-IM: RR **2.2** for recurrent HGD/EAC; pooled cumulative incidence **6%** (0%–16%) vs **3%** (2%–4%) with CE-IM (40 studies, 4410 patients).
 
@@ -188,9 +188,9 @@ From this it proposes quality metrics — NDR with a 4% threshold on index scree
 
 | Question | AGA 2020 PEEC Commentary | Other ingested source | Adjudication |
 |---|---|---|---|
-| Random biopsy spacing in the Seattle protocol | Cites **every 1 cm** as optimal, with 50% higher cancer detection than every 2 cm, and calls every-2-cm "typical endoscopic practice" | [[aga-2025-barretts-surveillance\|AGA 2025]]: every **2 cm** with no dysplasia history, every **1 cm** with any dysplasia history. [[acg-2022-barretts\|ACG 2022]]: every 2 cm for segments >4 cm | AGA 2025 is the newest tier-1 source and governs the wiki's spacing rule; this Commentary is not a spacing recommendation — it is citing the detection-yield difference as an explanation for missed neoplasia |
+| Random biopsy spacing in the Seattle protocol | Cites **every 1 cm** as optimal, with 50% higher cancer detection than every 2 cm, and calls every-2-cm "typical endoscopic practice" | [[aga-2025-barretts-surveillance\|AGA 2025]]: every **2 cm** with no dysplasia history, every **1 cm** with any dysplasia history. [[acg-2022-barretts\|American College of Gastroenterology (ACG) 2022]]: every 2 cm for segments >4 cm | AGA 2025 is the newest tier-1 source and governs the wiki's spacing rule; this Commentary is not a spacing recommendation — it is citing the detection-yield difference as an explanation for missed neoplasia |
 | Surveillance interval in nondysplastic BE | Proposes "no sooner than **3–5 years**" as a quality indicator against over-endoscopy | AGA 2025: every **3 years**, extendable to 5 years in lower-risk patients | Compatible — the Commentary sets a floor, AGA 2025 sets the interval |
-| WATS-3D | Notes it may demonstrate dysplastic cells without visible lesions or abnormal routine histology | [[asge-2019-barretts-screening-surveillance\|ASGE 2019]] suggests it as an adjunct (conditional, low quality); AGA 2025 makes no recommendation; ACG 2022 no recommendation | Unchanged — this Commentary makes no recommendation on WATS-3D |
+| WATS-3D | Notes it may demonstrate dysplastic cells without visible lesions or abnormal routine histology | [[asge-2019-barretts-screening-surveillance\|American Society for Gastrointestinal Endoscopy (ASGE) 2019]] suggests it as an adjunct (conditional, low quality); AGA 2025 makes no recommendation; ACG 2022 no recommendation | Unchanged — this Commentary makes no recommendation on WATS-3D |
 
 **Open questions raised by the source itself:**
 - PEEC terminology and calculation are not yet standardized — including whether BE-related HGD should be counted alongside EAC.

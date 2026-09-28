@@ -24,7 +24,7 @@ A small-bowel diverticulum that may harbor **ectopic gastric mucosa** (reported 
 ### Establishing the Diagnosis
 - Presents as **overt or occult** small-bowel bleeding; a **rare cause of small-bowel bleeding overall**, but disproportionately represented in the **young** (< 40 y).
 - Bleeding mechanism: **ectopic (heterotopic) gastric mucosa** → acid secretion → mucosal ulceration.
-- Diagnosis is typically pursued when standard small-bowel workup ([[capsule-endoscopy|VCE]], enterography, [[device-assisted-enteroscopy|deep enteroscopy]]) is negative in a younger patient with ongoing overt bleeding — confirmed with a **⁹⁹ᵐTc-pertechnetate (Meckel) scan** detecting the ectopic gastric mucosa (see [[#Diagnostics]]).
+- Diagnosis is typically pursued when standard small-bowel workup ([[capsule-endoscopy|video capsule endoscopy (VCE)]], enterography, [[device-assisted-enteroscopy|deep enteroscopy]]) is negative in a younger patient with ongoing overt bleeding — confirmed with a **⁹⁹ᵐTc-pertechnetate (Meckel) scan** detecting the ectopic gastric mucosa (see [[#Diagnostics]]).
 
 ### Severity Assessment
 
@@ -35,11 +35,11 @@ A small-bowel diverticulum that may harbor **ectopic gastric mucosa** (reported 
 
 *Workup: see [[small-bowel-bleeding]].*
 
-Other small-bowel bleeding sources to consider — with an age skew toward the young for Meckel's and IBD (ACG 2015: patients < 40 y are more likely to have **IBD** or Meckel's diverticulum):
+Other small-bowel bleeding sources to consider — with an age skew toward the young for Meckel's and inflammatory bowel disease (IBD) (American College of Gastroenterology [ACG] 2015: patients < 40 y are more likely to have **IBD** or Meckel's diverticulum):
 - [[crohns-disease]] / [[inflammatory-bowel-disease|IBD]]
-- [[peptic-ulcer-disease|NSAID ulcers]]
+- [[peptic-ulcer-disease|nonsteroidal anti-inflammatory drug (NSAID) ulcers]]
 - [[angioectasia|Angioectasias]] / vascular lesions (Dieulafoy's lesion, [[hereditary-hemorrhagic-telangiectasia|Osler–Weber–Rendu]])
-- Small-bowel neoplasms ([[gastrointestinal-stromal-tumor|GIST]], lymphoma, [[gastroenteropancreatic-neuroendocrine-tumors|carcinoid]], adenocarcinoma, polypoid lesions)
+- Small-bowel neoplasms ([[gastrointestinal-stromal-tumor|gastrointestinal stromal tumor (GIST)]], lymphoma, [[gastroenteropancreatic-neuroendocrine-tumors|carcinoid]], adenocarcinoma, polypoid lesions)
 - [[colorectal-polyposis|Polyposis syndromes]], radiation enteropathy, small-bowel varices, aortoenteric fistula
 
 ## Diagnostics
@@ -48,13 +48,13 @@ Other small-bowel bleeding sources to consider — with an age skew toward the y
 - **Indication (ACG 2015, Rec 22):** in **younger patients with ongoing overt bleeding and normal [[capsule-endoscopy|VCE]] + enterography**, a Meckel scan **should be performed**. *(Conditional recommendation, very low quality of evidence.)*
 - **Diagnostic performance:**
   - ACG 2015: sensitivity **50–90%**, specificity **9–95%**; diagnostic yield **highest when performed in children**. Results depend on the quantity and functional quality of the heterotopic gastric mucosa.
-  - ASGE 2017: in pediatric patients and young adults, sensitivity **62–87.5%** for ectopic gastric mucosa.
-- **False positives:** uptake in ulcers, inflammatory lesions, AVMs, obstruction, intussusception, and ectopic gastric mucosa in other lesions (e.g., duplication cysts).
+  - American Society for Gastrointestinal Endoscopy (ASGE) 2017: in pediatric patients and young adults, sensitivity **62–87.5%** for ectopic gastric mucosa.
+- **False positives:** uptake in ulcers, inflammatory lesions, arteriovenous malformations (AVMs), obstruction, intussusception, and ectopic gastric mucosa in other lesions (e.g., duplication cysts).
 - **False negatives:** anatomic or physiologic causes, **or other inflammation such as ectopic *pancreatic* mucosa — present in up to 74% of diverticula**.
 
 **Supporting endoscopic/imaging tests** (position in the pathway per [[small-bowel-bleeding]]):
-- [[capsule-endoscopy|Video capsule endoscopy]] and [[device-assisted-enteroscopy|deep enteroscopy]] may directly identify the diverticulum or its bleeding ulcer.
-- CT/MR enterography as part of the standard small-bowel bleeding workup preceding the Meckel scan.
+- [[capsule-endoscopy|VCE]] and [[device-assisted-enteroscopy|deep enteroscopy]] may directly identify the diverticulum or its bleeding ulcer.
+- Computed tomography (CT)/magnetic resonance (MR) enterography as part of the standard small-bowel bleeding workup preceding the Meckel scan.
 
 ## Therapeutics
 

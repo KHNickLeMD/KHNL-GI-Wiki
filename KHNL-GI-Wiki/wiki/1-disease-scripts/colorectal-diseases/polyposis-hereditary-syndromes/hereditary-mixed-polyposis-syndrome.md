@@ -22,8 +22,8 @@ sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ### Establishing the Diagnosis
 
 - Rare **autosomal dominant** attenuated colonic polyposis, originally described in a large **Ashkenazi Jewish** kindred with multiple colorectal polyps and cancer [[acg-2015-hereditary-gi-cancer]] [[aga-2022-hamartomatous-polyposis]]
-- **No formal diagnostic criteria exist** in either guideline — HMPS is recognised by its **polyp mix** in a dominantly inherited kindred, and confirmed genetically
-- In the original Whitelaw kindred: **13 members developed [[colorectal-cancer|CRC]]** and **23 developed multiple polyps of several histologic types**
+- **No formal diagnostic criteria exist** in either guideline — hereditary mixed polyposis syndrome (HMPS) is recognised by its **polyp mix** in a dominantly inherited kindred, and confirmed genetically
+- In the original Whitelaw kindred: **13 members developed [[colorectal-cancer|colorectal cancer (CRC)]]** and **23 developed multiple polyps of several histologic types**
 - **Mean age of polyp occurrence: 28 years** in one family; **onset of polyposis in the late 20s** in the largest reported series (4 families, 16 affected members)
 
 **Defining polyp spectrum — the mix is the diagnosis:**
@@ -46,7 +46,7 @@ sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 
 ### Severity Assessment
 
-> **Not answerable from the guidelines.** Neither [[acg-2015-hereditary-gi-cancer|ACG 2015]] nor [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] gives a lifetime CRC risk figure, a penetrance estimate, or an extraintestinal cancer risk for HMPS: *"There are not enough data to know the optimal surveillance intervals or whether extraintestinal neoplasia is a risk."*
+> **Not answerable from the guidelines.** Neither [[acg-2015-hereditary-gi-cancer|American College of Gastroenterology (ACG) 2015]] nor [[aga-2022-hamartomatous-polyposis|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2022]] gives a lifetime CRC risk figure, a penetrance estimate, or an extraintestinal cancer risk for HMPS: *"There are not enough data to know the optimal surveillance intervals or whether extraintestinal neoplasia is a risk."*
 
 ---
 
@@ -54,9 +54,9 @@ sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 
 *Workup: see [[colorectal-polyposis]].*
 
-- **[[juvenile-polyposis-syndrome]]** — HMPS is explicitly noted to be **misdiagnosed as JPS and vice versa**; JPS polyps are uniformly juvenile, SMAD4/BMPR1A
-- **[[serrated-polyposis-syndrome]]** — same two-way misdiagnosis risk; SPS is defined by serrated polyp count/distribution ([[serrated-polyposis-syndrome|WHO criteria]]) without the admixed juvenile–adenomatous lesion
-- **[[familial-adenomatous-polyposis]] / AFAP** — purely adenomatous; APC
+- **[[juvenile-polyposis-syndrome]]** — HMPS is explicitly noted to be **misdiagnosed as juvenile polyposis syndrome (JPS) and vice versa**; JPS polyps are uniformly juvenile, SMAD4/BMPR1A
+- **[[serrated-polyposis-syndrome]]** — same two-way misdiagnosis risk; serrated polyposis syndrome (SPS) is defined by serrated polyp count/distribution ([[serrated-polyposis-syndrome|World Health Organization (WHO) criteria]]) without the admixed juvenile–adenomatous lesion
+- **[[familial-adenomatous-polyposis|familial adenomatous polyposis (FAP)]] / attenuated FAP (AFAP)** — purely adenomatous; APC
 - **[[mutyh-associated-polyposis]]** — recessive; adenomas ± serrated polyps; MUTYH
 - **[[lynch-syndrome]]** — few polyps, MMR deficiency; relevant because the *GREM1* duplication is found in a small fraction of Ashkenazi kindreds **meeting Lynch clinical criteria** with no MMR variant
 

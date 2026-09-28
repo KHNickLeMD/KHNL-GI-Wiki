@@ -33,9 +33,9 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 ### Establishing the Diagnosis
 
 - **Suspect on any ONE of:** fever, chills, abdominal pain, [[jaundice]], nausea, vomiting, disturbance of consciousness. One symptom is enough to trigger the workup. ([[tg18-2018-cholangitis-flowchart]])
-- **Vital signs are the first step**, to decide whether the situation is urgent: BP, HR, respiratory rate, temperature, urine volume, SpO₂, consciousness level. **If urgent, start treatment immediately — do not wait for the definitive diagnosis.** ([[tg18-2018-cholangitis-flowchart]])
+- **Vital signs are the first step**, to decide whether the situation is urgent: blood pressure (BP), heart rate, respiratory rate, temperature, urine volume, peripheral oxygen saturation (SpO₂), consciousness level. **If urgent, start treatment immediately — do not wait for the definitive diagnosis.** ([[tg18-2018-cholangitis-flowchart]])
 - **Exam:** consciousness level, palpebral conjunctival icterus, site and severity of tenderness, peritoneal irritation. Murphy's sign points to [[acute-cholecystitis|acute cholecystitis]] instead.
-- "Charcot's triad" (and Reynolds' pentad) is not defined in TG18 or [[asge-2021-cholangitis]], so it is not stated here as guideline content (see also [[jaundice]]).
+- "Charcot's triad" (and Reynolds' pentad) is not defined in the Tokyo Guidelines 2018 (TG18) or [[asge-2021-cholangitis]], so it is not stated here as guideline content (see also [[jaundice]]).
 
 **TG18 diagnostic criteria — three domains, and the rule that combines them:**
 
@@ -48,9 +48,9 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 - **Suspected diagnosis** = **one** item from **A** *plus* **one** from **either B or C**.
 - **Definite diagnosis** = **one** item from **A, B *and* C** — all three domains.
 - *The combination rule is the decision:* systemic inflammation is mandatory in both, and it is the presence of **both** B **and** C that converts suspected into definite.
-- **Source:** these three domains and the suspected/definite rule are stated in the introduction of [[jagtap-2026-urgent-vs-early-ercp-cholangitis]], which enrolled on them; that trial defined obstructive jaundice as **total bilirubin ≥2.5 mg/dL *and* ALP >1.5× ULN *and* a dilated bile duct on cross-sectional imaging.**
+- **Source:** these three domains and the suspected/definite rule are stated in the introduction of [[jagtap-2026-urgent-vs-early-ercp-cholangitis]], which enrolled on them; that trial defined obstructive jaundice as **total bilirubin ≥2.5 mg/dL *and* alkaline phosphatase (ALP) >1.5× upper limit of normal (ULN) *and* a dilated bile duct on cross-sectional imaging.**
 
-> The individual A-1/A-2/B-1/B-2/C-1/C-2 items and their lab cut-points are not printed in the TG18 flowchart article, which cross-references its Table 1; they are in **Kiriyama S. *Diagnostic and severity grading criteria for acute cholangitis in TG18*, J Hepatobiliary Pancreat Sci 2018**. The domain structure and combination rule above are as restated by the RCT that used them. See [[tg18-2018-cholangitis-flowchart]] → *Contradictions / Open Questions*.
+> The individual A-1/A-2/B-1/B-2/C-1/C-2 items and their lab cut-points are not printed in the TG18 flowchart article, which cross-references its Table 1; they are in **Kiriyama S. *Diagnostic and severity grading criteria for acute cholangitis in TG18*, J Hepatobiliary Pancreat Sci 2018**. The domain structure and combination rule above are as restated by the randomized controlled trial (RCT) that used them. See [[tg18-2018-cholangitis-flowchart]] → *Contradictions / Open Questions*.
 
 ### Severity Assessment
 
@@ -58,15 +58,15 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 
 | Grade | Rule | Criteria |
 |---|---|---|
-| **III — severe** | **any ONE** organ dysfunction | **Cardiovascular:** dopamine ≥5 μg/kg/min **or** noradrenaline required · **Neurological:** disturbance of consciousness · **Respiratory:** PaO₂/FiO₂ <300 · **Renal:** oliguria **or** creatinine >2.0 mg/dL · **Hepatic:** PT-INR >1.5 · **Coagulation:** platelet count <10⁴/μL ⚠ |
-| **II — moderate** | **any TWO** of five | WBC **>12,000** or **<4,000** ⚠ · temperature **≥39 °C** · age **≥75 y** · total bilirubin **≥5 mg/dL** · albumin **< (lower limit of normal × 0.7) g/dL** ⚠ |
+| **III — severe** | **any ONE** organ dysfunction | **Cardiovascular:** dopamine ≥5 μg/kg/min **or** noradrenaline required · **Neurological:** disturbance of consciousness · **Respiratory:** arterial oxygen partial pressure/fraction of inspired oxygen (PaO₂/FiO₂) <300 · **Renal:** oliguria **or** creatinine >2.0 mg/dL · **Hepatic:** prothrombin time–international normalized ratio (PT-INR) >1.5 · **Coagulation:** platelet count <10⁴/μL ⚠ |
+| **II — moderate** | **any TWO** of five | White blood cell count (WBC) **>12,000** or **<4,000** ⚠ · temperature **≥39 °C** · age **≥75 y** · total bilirubin **≥5 mg/dL** · albumin **< (lower limit of normal × 0.7) g/dL** ⚠ |
 | **I — mild** | meets **neither** Grade II nor Grade III | — |
 
 - **The rules differ and the difference is the decision:** Grade III needs only **one** organ dysfunction; Grade II needs **two** of the five criteria — a single criterion (age ≥75 alone, bilirubin ≥5 alone) does **not** make cholangitis moderate.
 - **Grade II is defined by its therapeutic implication:** not severe, but **requires early biliary drainage**.
 - **Grade III is sepsis-induced organ damage**, not simply "sick-looking."
 - ⚠ **Read the thresholds above with care.** The TG18 flowchart article states them in running text without reproducing its Table 3, and the published text drops most comparison operators (only creatinine ">2.0" is printed with its operator). The directions in the table above follow each criterion's clinical sense rather than verbatim TG18 wording; the **WBC** criterion is printed **without units**; the **albumin** cutoff is read as **< (lower limit of normal × 0.7) g/dL**; and the **platelet** cutoff is printed as **<10⁴/μL** (i.e. <10,000/μL), far below the usual coagulation-dysfunction threshold and likely a typesetting loss. Verify against Kiriyama 2018 (TG18 Table 3) before relying on any of these.
-- **General status** is graded alongside severity, using the **Charlson Comorbidity Index (CCI)** and the **ASA Physical Status classification**.
+- **General status** is graded alongside severity, using the **Charlson Comorbidity Index (CCI)** and the **American Society of Anesthesiologists Physical Status (ASA-PS) classification**.
 
 ---
 
@@ -87,9 +87,9 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 
 **Blood tests — drawn for diagnosis *and* for severity grading**, so the grading panel must be sent up front: ([[tg18-2018-cholangitis-flowchart]])
 
-- WBC, platelet count, CRP, albumin
-- ALP, GGT, AST, ALT, bilirubin
-- BUN, creatinine, PT and **PT-INR**
+- WBC, platelet count, C-reactive protein (CRP), albumin
+- ALP, gamma-glutamyl transferase (GGT), aspartate aminotransferase (AST), alanine aminotransferase (ALT), bilirubin
+- Blood urea nitrogen (BUN), creatinine, prothrombin time (PT) and **PT-INR**
 - **Blood gas analysis**
 - **Blood culture — preferably if high fever is present.** If it was not drawn as part of the initial response, **it must be taken before antibiotics are given.** ([[tg18-2018-cholangitis-flowchart]])
 - **If biliary drainage is performed, bile samples must always be sent for culture.**
@@ -98,10 +98,10 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 
 **Imaging:**
 
-- **Abdominal ultrasound and/or CT — at least one.** ([[tg18-2018-cholangitis-flowchart]])
+- **Abdominal ultrasound and/or computed tomography (CT) — at least one.** ([[tg18-2018-cholangitis-flowchart]])
 - **Ultrasound first** — minimally invasive, widely available, simple, cheap. Limitation: results are easily affected by operator skill and patient condition.
 - **What imaging is for:** inflammation itself is difficult to assess in cholangitis. Imaging evaluates **bile duct dilatation**, and **occlusion/stenosis or calculus and its cause**.
-- [[mri-mrcp|MRCP]] and [[endoscopic-ultrasound|EUS]] characterise the level and cause of obstruction — see [[choledocholithiasis]] for the ASGE risk stratification that decides between them and direct [[ercp|ERCP]].
+- [[mri-mrcp|Magnetic resonance cholangiopancreatography (MRCP)]] and [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] characterise the level and cause of obstruction — see [[choledocholithiasis]] for the American Society for Gastrointestinal Endoscopy (ASGE) risk stratification that decides between them and direct [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]].
 
 ---
 
@@ -109,17 +109,17 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 
 ### Initial Treatment — All Grades
 
-- **Sufficient IV fluids, antibiotics, and analgesia**, monitoring BP, heart rate, and urine volume. **In shock, start before the definitive diagnosis.** ([[tg18-2018-cholangitis-flowchart]])
+- **Sufficient intravenous (IV) fluids, antibiotics, and analgesia**, monitoring BP, heart rate, and urine volume. **In shock, start before the definitive diagnosis.** ([[tg18-2018-cholangitis-flowchart]])
   - *Drainage and antibiotics are the two pillars of treatment*, but the TG18 flowchart article defers all agent choice, dose, and duration to its companion paper — **Gomi H. *TG18: Antimicrobial therapy for acute cholangitis and cholecystitis*, J Hepatobiliary Pancreat Sci 2018** — and [[asge-2021-cholangitis]] does not give a regimen either.
 - **When acute cholecystitis coexists** (it sometimes does), decide the strategy on the **severity of both diseases plus the patient's general status** — not on the cholangitis grade alone. ([[tg18-2018-cholangitis-flowchart]])
 - **Fast the patient in principle**, so emergency drainage can proceed immediately. *(No high-quality evidence either way.)*
-- **Give analgesia proactively and early.** An RCT of IV morphine vs placebo in ER abdominal pain found **no difference in diagnostic accuracy** — fear of masking physical signs should not delay it.
+- **Give analgesia proactively and early.** An RCT of IV morphine vs placebo in emergency room (ER) abdominal pain found **no difference in diagnostic accuracy** — fear of masking physical signs should not delay it.
   - ⚠ **Caution:** opioids (morphine, pentazocine, and similar non-opioids) **contract the sphincter of Oddi** and may raise biliary pressure.
-- **Escalate to emergency drainage** with organ support if the patient deteriorates: shock (hypotension), disturbance of consciousness, acute dyspnea, acute renal dysfunction, hepatic dysfunction, or DIC (falling platelet count).
+- **Escalate to emergency drainage** with organ support if the patient deteriorates: shock (hypotension), disturbance of consciousness, acute dyspnea, acute renal dysfunction, hepatic dysfunction, or disseminated intravascular coagulation (DIC) (falling platelet count).
 
 ### Biliary Drainage — Timing
 
-**This page follows [[asge-2021-cholangitis]] (2021, the newer guideline) for the operative window. Its three recommendations, with their GRADE labels as published:**
+**This page follows [[asge-2021-cholangitis]] (2021, the newer guideline) for the operative window. Its three recommendations, with their Grading of Recommendations Assessment, Development and Evaluation (GRADE) labels as published:**
 
 | # | Recommendation | Strength | Quality |
 |---|---|---|---|
@@ -128,13 +128,13 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 | **3** | Combine biliary drainage with **sphincterotomy and stone removal**, rather than stent placement without attempted stone removal | Conditional | Low |
 
 - **The 48-hour line is not a biological threshold.** ASGE chose it because it "is the cut-point in the preponderance of literature on the topic and addresses the workforce and financial concerns of weekend procedures." ([[asge-2021-cholangitis]])
-- **Supporting data for ≤48 h:** in 4,570 cholangitis admissions, ERCP within 48 h reduced inpatient mortality (OR 0.5), 30-day mortality (OR 0.5, 95% CI 0.3–0.7) and 30-day readmission (OR 0.6, 95% CI 0.5–0.7) vs >48 h — **significant in both mild-to-moderate and severe** disease. Delay **>72 h** raised a composite of death/organ failure/ICU admission (OR 5.5, P=.004). ([[asge-2021-cholangitis]])
+- **Supporting data for ≤48 h:** in 4,570 cholangitis admissions, ERCP within 48 h reduced inpatient mortality (odds ratio [OR] 0.5), 30-day mortality (OR 0.5, 95% confidence interval [CI] 0.3–0.7) and 30-day readmission (OR 0.6, 95% CI 0.5–0.7) vs >48 h — **significant in both mild-to-moderate and severe** disease. Delay **>72 h** raised a composite of death/organ failure/intensive care unit (ICU) admission (OR 5.5, P=.004). ([[asge-2021-cholangitis]])
 - **ASGE does *not* recommend <24 h for Grade III.** Its own reading of the evidence: "ERCP in <24 hours or 24 to 48 hours versus >48 hours appears to shorten the length of hospitalization but **does not impact inpatient or 30-day mortality, organ failure, or other core clinical outcomes.**" The one carve-out is narrower than "severe": **in septic shock *not responding to fluid resuscitation*, ERCP <24 h "may be considered"** — a suggestion, not a recommendation, and conditioned on refractoriness rather than on Tokyo grade. ([[asge-2021-cholangitis]])
-- **Mild-to-moderate (Grade I–II): do not reflexively rush to <24 h.** Urgent (<24 h) drainage is **not superior** to early (24–48 h): 30-day mortality **3.95% vs 6.58%** (HR 0.70, 95% CI 0.25–1.93, p=0.47), in-hospital mortality 1.97% vs 3.28%, day-30 organ failure 11.8% vs 17.1% — none significant. Post-ERCP adverse events were **more frequent with urgent ERCP: 17.1% vs 9.2%, RR 2.03 (95% CI 1.02–4.07)**, mainly **haemorrhage** (10.5% vs 3.3%), from sphincterotomy on an oedematous papilla in an under-resuscitated septic patient. ⚠ **Read the AE result with its caveat:** RR 2.03 is the **unadjusted** analysis (nominal p=0.042) and **did not retain significance after the trial's own Holm-Bonferroni correction** across secondary outcomes. **Resuscitate, then drain within 24–48 h.** ([[jagtap-2026-urgent-vs-early-ercp-cholangitis]])
+- **Mild-to-moderate (Grade I–II): do not reflexively rush to <24 h.** Urgent (<24 h) drainage is **not superior** to early (24–48 h): 30-day mortality **3.95% vs 6.58%** (hazard ratio [HR] 0.70, 95% CI 0.25–1.93, p=0.47), in-hospital mortality 1.97% vs 3.28%, day-30 organ failure 11.8% vs 17.1% — none significant. Post-ERCP adverse events were **more frequent with urgent ERCP: 17.1% vs 9.2%, relative risk (RR) 2.03 (95% CI 1.02–4.07)**, mainly **haemorrhage** (10.5% vs 3.3%), from sphincterotomy on an oedematous papilla in an under-resuscitated septic patient. ⚠ **Read the adverse event (AE) result with its caveat:** RR 2.03 is the **unadjusted** analysis (nominal p=0.042) and **did not retain significance after the trial's own Holm-Bonferroni correction** across secondary outcomes. **Resuscitate, then drain within 24–48 h.** ([[jagtap-2026-urgent-vs-early-ercp-cholangitis]])
 - **Malignant biliary obstruction — not timing — is the dominant predictor of 30-day mortality** (HR ~5). ([[jagtap-2026-urgent-vs-early-ercp-cholangitis]])
-- *Under question in septic shock:* in Grade III cholangitis with septic shock, ERCP **<24 h of vasopressor initiation** gave **no survival advantage** over 24–48 h (30-d mortality HR 1.07, 95% CI 0.81–1.42) and looked worse than 48–72 h (HR 1.47, 1.00–2.16) — likely confounded by the sickest being drained first. ⚠ **DDW 2026 abstract, retrospective** — below guideline and RCT evidence; hypothesis-generating, does **not** change the emergent-drainage recommendation. ([[aloysius-2026-ercp-timing-septic-shock-cholangitis]])
+- *Under question in septic shock:* in Grade III cholangitis with septic shock, ERCP **<24 h of vasopressor initiation** gave **no survival advantage** over 24–48 h (30-d mortality HR 1.07, 95% CI 0.81–1.42) and looked worse than 48–72 h (HR 1.47, 1.00–2.16) — likely confounded by the sickest being drained first. ⚠ **Digestive Disease Week (DDW) 2026 abstract, retrospective** — below guideline and RCT evidence; hypothesis-generating, does **not** change the emergent-drainage recommendation. ([[aloysius-2026-ercp-timing-septic-shock-cholangitis]])
 
-> **Contradiction on the record.** TG18 (2018) cites observational Japan–Taiwan data favouring drainage **within 24 h for moderate cholangitis** (mortality **1.7% vs 3.4%**, p=0.0172; no difference in mild or severe) — its own CQ 1 answer is graded **Level D**. The newer same-tier guideline ([[asge-2021-cholangitis]]) sets the window at 48 h, and the 2026 RCT found harm in compressing it. The page follows the newer guideline; TG18's signal is recorded, not followed. ([[tg18-2018-cholangitis-flowchart]])
+> **Contradiction on the record.** TG18 (2018) cites observational Japan–Taiwan data favouring drainage **within 24 h for moderate cholangitis** (mortality **1.7% vs 3.4%**, p=0.0172; no difference in mild or severe) — its own clinical question (CQ) 1 answer is graded **Level D**. The newer same-tier guideline ([[asge-2021-cholangitis]]) sets the window at 48 h, and the 2026 RCT found harm in compressing it. The page follows the newer guideline; TG18's signal is recorded, not followed. ([[tg18-2018-cholangitis-flowchart]])
 
 ### Grade-Specific Management
 
@@ -143,7 +143,7 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 ```mermaid
 flowchart TD
     A["Suspected acute biliary infection<br/>fever / chills / abdominal pain / jaundice<br/>nausea / vomiting / ↓consciousness"] --> B["Vital signs → is it urgent?<br/>If urgent: treat immediately,<br/>do not wait for diagnosis"]
-    B --> C["Labs (incl. grading panel) + blood gas<br/>± blood culture; US and/or CT"]
+    B --> C["Labs (incl. grading panel) + blood gas<br/>± blood culture; ultrasound and/or CT"]
     C --> D["Diagnosis confirmed<br/>→ start initial treatment<br/>→ grade severity + CCI / ASA-PS"]
     D --> E["Grade I (mild)"]
     D --> F["Grade II (moderate)"]
@@ -164,7 +164,7 @@ flowchart TD
 ### Treating the Underlying Cause
 
 - **Combine drainage with sphincterotomy and stone removal at the index ERCP, rather than decompression alone** — **unless the patient is too unstable to tolerate the more extensive endoscopic treatment**, which is the guideline's own and only stated exception (Rec 3, conditional / low). ([[asge-2021-cholangitis]])
-- **Grade I–II:** TG18 permits **single-stage** endoscopic sphincterotomy (EST) + choledocholithotomy **together with** biliary drainage — a change from TG13, which made it elective in moderate disease.
+- **Grade I–II:** TG18 permits **single-stage** endoscopic sphincterotomy (EST) + choledocholithotomy **together with** biliary drainage — a change from the Tokyo Guidelines 2013 (TG13), which made it elective in moderate disease.
   - ⚠ **The guideline flags its own evidence as insufficient:** in the one RCT, post-ERCP complications were significantly **higher** with single-stage than two-stage lithotomy (**6/35 = 17.1% vs 0/33 = 0%, p=0.025**). "Caution is required."
 - **Grade II–III:** treat the underlying etiology **after the general condition has improved**, not during resuscitation.
 - Stratification of stone probability, difficult-stone technique, and gallstone-pancreatitis rules ([[asge-2019-choledocholithiasis]]) live on [[choledocholithiasis]] and [[ercp]] — one home, not repeated here. Note that **clinical ascending cholangitis is itself an ASGE high-risk criterion**, so a cholangitis patient goes straight to ERCP without EUS/MRCP confirmation.

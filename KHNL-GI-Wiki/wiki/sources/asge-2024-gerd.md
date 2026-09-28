@@ -24,7 +24,7 @@ sources: []
 
 ## Summary
 
-57-page evidence review and guideline covering six PICO questions on [[gerd|GERD]]: (1) indications for [[upper-endoscopy|upper endoscopy]] including in post-sleeve gastrectomy and post-[[poem|POEM]] patients; (2) criteria for high-quality endoscopy and reporting; (3) lifestyle interventions; (4) PPI therapy vs placebo; (5a) TIF 2.0 vs medical therapy; (5b) combined TIF + hiatal hernia repair (cTIF) vs medical therapy; and (6) radiofrequency energy (Stretta) vs medical therapy. Recommendations are graded using GRADE (strong/conditional; high/moderate/low/very low quality of evidence).
+57-page evidence review and guideline covering six PICO (population, intervention, comparison, outcome) questions on [[gerd|gastroesophageal reflux disease (GERD)]]: (1) indications for [[upper-endoscopy|upper endoscopy]] including in post-sleeve gastrectomy and post-[[poem|peroral endoscopic myotomy (POEM)]] patients; (2) criteria for high-quality endoscopy and reporting; (3) lifestyle interventions; (4) proton pump inhibitor (PPI) therapy vs placebo; (5a) transoral incisionless fundoplication (TIF) 2.0 vs medical therapy; (5b) combined TIF + hiatal hernia repair (cTIF) vs medical therapy; and (6) radiofrequency energy (Stretta) vs medical therapy. Recommendations are graded using Grading of Recommendations Assessment, Development and Evaluation (GRADE) (strong/conditional; high/moderate/low/very low quality of evidence).
 
 ## Key Findings / Claims
 
@@ -32,22 +32,22 @@ sources: []
 
 - GERD defined as troublesome heartburn and/or regurgitation; affects ~one-third of the U.S. adult population
 - Incidence rising in parallel with obesity prevalence
-- Guideline explicitly excludes patients with known GI motility disorders ([[gastroparesis]], scleroderma, autonomic dysfunction)
+- Guideline explicitly excludes patients with known gastrointestinal (GI) motility disorders ([[gastroparesis]], scleroderma, autonomic dysfunction)
 
 ### Endoscopy Indications (Q1)
 
 - **Strong, moderate evidence**: Upper endoscopy recommended for alarm symptoms — dysphagia, odynophagia, weight loss, GI bleeding, persistent vomiting, unexplained iron deficiency anemia
-- **Conditional, low evidence**: Endoscopy suggested for [[barretts-esophagus|Barrett's esophagus]] risk factors (family history of BE/EAC; GERD + age >50, male sex, white race, smoking, or obesity) and for infants/children with suggestive symptoms
-- **Post-sleeve gastrectomy (SG), conditional, very low**: Endoscopy if symptomatic; asymptomatic screening at 3 years then every 5 years (pooled BE rate post-SG 11.4%, crossing the ASGE 10% screening threshold); de novo GERD rate 45%, esophagitis rate 39.1% vs 21.9% pre-SG
+- **Conditional, low evidence**: Endoscopy suggested for [[barretts-esophagus|Barrett's esophagus (BE)]] risk factors (family history of BE/esophageal adenocarcinoma [EAC]; GERD + age >50, male sex, white race, smoking, or obesity) and for infants/children with suggestive symptoms
+- **Post-sleeve gastrectomy (SG), conditional, very low**: Endoscopy if symptomatic; asymptomatic screening at 3 years then every 5 years (pooled BE rate post-SG 11.4%, crossing the American Society for Gastrointestinal Endoscopy (ASGE) 10% screening threshold); de novo GERD rate 45%, esophagitis rate 39.1% vs 21.9% pre-SG
 - **Post-POEM, conditional, very low**: Endoscopy if symptomatic GERD; best practice advice to consider periodic endoscopy even if asymptomatic given high GERD rate (~19–29% esophagitis pooled); BE rate very low (1/2342 patients at 36 months in one meta-analysis)
 
 ### High-Quality Endoscopy Reporting (Q2)
 
 - **Strong, very low evidence**: Require documentation and photo-documentation of:
   - Erosive esophagitis graded by Los Angeles (LA) classification
-  - Barrett's esophagus described by Prague C&M classification
+  - Barrett's esophagus described by Prague C&M (circumferential and maximal extent) classification
   - Peptic stricture (if present)
-  - GEJ landmarks: top of gastric folds, Z-line, diaphragmatic impression
+  - Gastroesophageal junction (GEJ) landmarks: top of gastric folds, Z-line, diaphragmatic impression
   - Hiatal hernia size; Hill grade or American Foregut Society (AFS) grade in forward view and retroflexion
   - Existing fundoplication (if present)
 - Observational data showed esophagitis graded in only 42% of reports and hiatal hernia measured in only 51%
@@ -55,36 +55,36 @@ sources: []
 ### Lifestyle Modifications (Q3)
 
 - **Strong, low evidence**: Recommend weight loss (overweight/obese), smoking cessation, head of bed elevation, and avoiding meals within 3 hours of bedtime
-- Weight loss: dose-dependent GERD symptom improvement; 81% of subjects in one RCT showed reduced GERD scores after 6-month weight-loss program (BMI 34.7 to 30.2)
-- Head of bed elevation: significant reduction in reflux episodes and AET
+- Weight loss: dose-dependent GERD symptom improvement; 81% of subjects in one randomized controlled trial (RCT) showed reduced GERD scores after 6-month weight-loss program (body mass index [BMI] 34.7 to 30.2)
+- Head of bed elevation: significant reduction in reflux episodes and acid exposure time (AET)
 - Alcohol, citrus/spicy foods: insufficient evidence for recommendations
 - Data overall very low quality due to small sample sizes and inability to pool
 
 ### PPI Therapy (Q4)
 
 - **Strong, moderate evidence**: PPIs at lowest dose for shortest duration while discussing long-term management
-- PPI vs placebo: OR 4.2 for symptom relief (95% CI 3.25–5.48); OR 11.4 for esophagitis healing (95% CI 8.17–16.3) — Zhang 2017 network meta-analysis, 98 RCTs, ~46,000 patients
-- PPI safety (Moayyedi 2019 large RCT, n=17,598, mean 3-year follow-up): no significant increase in all-cause mortality, cardiovascular events, CKD, C. diff, pneumonia, fractures, or dementia; only confirmed adverse event is modest increase in enteric infections (OR 1.33)
+- PPI vs placebo: odds ratio (OR) 4.2 for symptom relief (95% confidence interval [CI] 3.25–5.48); OR 11.4 for esophagitis healing (95% CI 8.17–16.3) — Zhang 2017 network meta-analysis, 98 RCTs, ~46,000 patients
+- PPI safety (Moayyedi 2019 large RCT, n=17,598, mean 3-year follow-up): no significant increase in all-cause mortality, cardiovascular events, chronic kidney disease, C. diff, pneumonia, fractures, or dementia; only confirmed adverse event is modest increase in enteric infections (OR 1.33)
 - **Conditional, very low evidence**: Test CYP2C19 polymorphism in suboptimal PPI responders; rapid metabolizers have OR 1.6 for PPI refractoriness
-- Best practice advice: de-escalate after >6 months; discuss risks/benefits; H2RAs acceptable as adjunct/PRN; potassium-competitive acid blockers (PCABs, e.g., [[vonoprazan]]) likely more potent for erosive esophagitis but long-term data not yet available
+- Best practice advice: de-escalate after >6 months; discuss risks/benefits; histamine-2 receptor antagonists (H2RAs) acceptable as adjunct/as needed (PRN); potassium-competitive acid blockers (PCABs, e.g., [[vonoprazan]]) likely more potent for erosive esophagitis but long-term data not yet available
 
 ### TIF 2.0 (Transoral Incisionless Fundoplication) (Q5a)
 
 - **Conditional, low evidence**: Suggest TIF evaluation for confirmed GERD with hiatal hernia ≤2 cm and Hill grade I or II who meet any of: chronic GERD ≥6 months, long-term PPI use ≥6 months, refractory GERD, regurgitation-predominant GERD, patient preference to avoid long-term PPI
 - Refractory GERD defined as persistent troublesome symptoms despite double-dose PPI for ≥8 weeks with documented pathologic reflux
-- PPI discontinuation: RCT pooled RR 12.7 (77.6% vs 6.3% at 6 months); cohort studies: 98.8% on PPI at baseline vs 28.6% at ~19 months post-TIF
+- PPI discontinuation: RCT pooled relative risk (RR) 12.7 (77.6% vs 6.3% at 6 months); cohort studies: 98.8% on PPI at baseline vs 28.6% at ~19 months post-TIF
 - Symptom resolution (6-month RCTs): 68.2% vs 32.4%, RR 2.12 (1.27–3.54)
 - Durable symptom resolution at 5 years: 86.4% (1 RCT)
-- Acid exposure time: significantly lower vs sham (MD –2.38), but not significantly lower vs PPI (MD +2.61)
+- Acid exposure time: significantly lower vs sham (mean difference [MD] –2.38), but not significantly lower vs PPI (MD +2.61)
 - Overall adverse events higher with TIF vs PPI/sham (37.8% vs 14.3%); serious adverse events not statistically different (8% vs 1.9%); perforation 0.9%, bleeding 0.6%, pneumothorax 0.5%; 1 death at 20 months unrelated
 - Post-TIF dysphagia: pooled 3.6%
-- Cost: TIF 2.0 (~$13,979) < LNF (~$17,658) but > PPI (~$10,931); cost-effective with ICUR of $3,047/0.29 QALY
+- Cost: TIF 2.0 (~$13,979) < laparoscopic Nissen fundoplication (LNF) (~$17,658) but > PPI (~$10,931); cost-effective with incremental cost-utility ratio (ICUR) of $3,047/0.29 quality-adjusted life-years (QALY)
 
 ### cTIF — Combined Hiatal Hernia Repair + TIF (Q5b)
 
 - **Conditional, very low evidence**: Suggest cTIF evaluation in multidisciplinary review for confirmed GERD with hiatal hernia >2 cm and Hill grade III or IV
 - Cohort data only (7 studies, n=358); no RCTs yet (NCT04795934 ongoing)
-- PPI use: 94.6% at baseline → 37.5% at follow-up; GERD-HRQL MD 21.87 improvement
+- PPI use: 94.6% at baseline → 37.5% at follow-up; GERD health-related quality of life (GERD-HRQL) MD 21.87 improvement
 - Serious adverse events 0.56%; dysphagia 5.6%
 
 ### Stretta — Radiofrequency Energy to LES (Q6)
@@ -96,8 +96,8 @@ sources: []
 
 ### Novel Endoscopic Therapies
 
-- GERDx (EFTP), MUSE, antireflux mucosectomy (ARMS), antireflux mucosal ablation (ARMA), resection and plication (RAP): insufficient controlled data; panel declined to recommend
-- MUSE: serious AE rates 3.5–13.9% (empyema, hemorrhage, perforation) — not recommended over TIF 2.0
+- GERDx (endoscopic full-thickness plication [EFTP]), MUSE, antireflux mucosectomy (ARMS), antireflux mucosal ablation (ARMA), resection and plication (RAP): insufficient controlled data; panel declined to recommend
+- MUSE: serious adverse event rates 3.5–13.9% (empyema, hemorrhage, perforation) — not recommended over TIF 2.0
 - ARMS: clinical response 80.1%; dysphagia/stricture 11.4% — RCT underway
 - Investigational use only; ongoing RCTs expected to provide future guidance
 
@@ -107,7 +107,7 @@ sources: []
 |---|---|---|
 | **Endoscopy Indications** | | |
 | Perform upper endoscopy for alarm symptoms (dysphagia, odynophagia, weight loss, GI bleeding, persistent vomiting, unexplained iron deficiency anemia) | Strong | Moderate |
-| Consider endoscopy for Barrett's esophagus risk factors (family Hx BE/EAC; GERD + age >50, male sex, white race, smoking, or obesity) | Conditional | Low |
+| Consider endoscopy for Barrett's esophagus risk factors (family history BE/EAC; GERD + age >50, male sex, white race, smoking, or obesity) | Conditional | Low |
 | Post-sleeve gastrectomy: perform endoscopy if symptomatic; consider asymptomatic screening at 3 years then every 5 years | Conditional | Very Low |
 | Post-POEM: perform endoscopy if symptomatic GERD; consider periodic endoscopy even if asymptomatic | Conditional | Very Low |
 | **High-Quality Endoscopy Reporting** | | |
@@ -130,14 +130,14 @@ sources: []
 - Informs therapeutics hierarchy: lifestyle → PPI → TIF/cTIF vs surgery based on hiatal hernia size and Hill grade
 - Endoscopy quality standards (LA grading, Prague classification, Hill/AFS grading) relevant to GEJ evaluation section
 - Post-SG and post-POEM surveillance protocols are newly codified in this guideline
-- Links conceptually to `[[achalasia]]` (post-POEM GERD risk), `[[laryngopharyngeal-symptoms]]` (cTIF data includes LPR cohort), and `[[hrm-antireflux-surgery]]` (manometry role pre-TIF)
+- Links conceptually to `[[achalasia]]` (post-POEM GERD risk), `[[laryngopharyngeal-symptoms]]` (cTIF data includes laryngopharyngeal reflux [LPR] cohort), and `[[hrm-antireflux-surgery]]` (manometry role pre-TIF)
 - Substantial reflux testing content supports a dedicated `wiki/concepts/reflux-testing.md` page
 
 ## Contradictions / Open Questions
 
 - TIF vs PPI on AET: TIF better vs sham but not better than PPI for AET normalization — raises questions about mechanism of symptom benefit
 - RCT heterogeneity for TIF is high; multiple device iterations (TIF 1.0 through 2.0) and techniques over the study period confound pooled estimates
-- cTIF evidence is entirely observational with only one ongoing RCT; positioning relative to laparoscopic Nissen fundoplication (LNF) is not yet defined
+- cTIF evidence is entirely observational with only one ongoing RCT; positioning relative to LNF is not yet defined
 - Stretta: RCT data show no significant benefit, but cohort data suggest modest benefit — discrepancy likely due to small RCT sample sizes and high risk of bias
 - PCABs (vonoprazan): data emerging after guideline evidence cutoff; positioning relative to PPIs will require guideline update
 - CYP2C19 testing: principle endorsed but not widely implemented; real-world utility unclear

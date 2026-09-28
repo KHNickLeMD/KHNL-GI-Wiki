@@ -30,7 +30,7 @@ sources: [acg-2020-esophageal-physiologic-testing, chicago-v4-2021-esophageal-dy
 Distinguish dysphagia from related symptoms:
 
 - **Odynophagia** — *painful* swallowing; suggests mucosal injury (infectious or pill esophagitis, severe reflux/erosive disease, malignancy).
-- **Globus** — persistent sensation of a lump in the throat *between* swallows, relieved by swallowing; not true dysphagia (Rome V esophageal DGBI **A4**; see [[laryngopharyngeal-symptoms]]).
+- **Globus** — persistent sensation of a lump in the throat *between* swallows, relieved by swallowing; not true dysphagia (Rome V esophageal disorder of gut–brain interaction [DGBI] **A4**; see [[laryngopharyngeal-symptoms]]).
 - **Functional dysphagia** — a [[disorders-of-gut-brain-interaction|DGBI]] (Rome V esophageal category **A5**) diagnosed after structural, motility, and mucosal (eosinophilic) causes are excluded [[rome-v-2026-dgbi]].
   - Rome V also supplies **Rome Clinical Criteria** for use outside research: the qualitative symptom features are retained and symptoms must be **bothersome** (interfere with daily life or prompt care-seeking), but the frequency threshold is lowered and the 6-month duration is replaced by a suggested **8-week** minimum [[rome-v-2026-dgbi]].
 
@@ -38,7 +38,7 @@ The single most useful historical discriminator in esophageal dysphagia is **sol
 
 - **Solids only, progressive** → think mechanical obstruction (stricture, ring, [[esophageal-cancer|carcinoma]]).
 - **Solids and liquids equally, from the outset** → think a motility disorder ([[achalasia]], spasm).
-- **Solids intermittent, non-progressive** → think a web/ring (e.g. Schatzki ring) or [[eosinophilic-esophagitis|EoE]].
+- **Solids intermittent, non-progressive** → think a web/ring (e.g. Schatzki ring) or [[eosinophilic-esophagitis|eosinophilic esophagitis (EoE)]].
 
 ---
 
@@ -48,9 +48,9 @@ The single most useful historical discriminator in esophageal dysphagia is **sol
 
 **Neuromuscular (most common):**
 
-- Stroke (most common cause overall) and other CNS disease (Parkinson's disease, multiple sclerosis, ALS, brainstem lesions)
+- Stroke (most common cause overall) and other central nervous system (CNS) disease (Parkinson's disease, multiple sclerosis, amyotrophic lateral sclerosis [ALS], brainstem lesions)
 - Myopathies and neuromuscular junction disease — myasthenia gravis (fatigable), polymyositis/dermatomyositis, muscular dystrophy
-- Cricopharyngeal (upper esophageal sphincter) dysfunction / [[achalasia]] of the UES
+- Cricopharyngeal (upper esophageal sphincter [UES]) dysfunction / [[achalasia]] of the UES
 
 **Structural:**
 
@@ -62,7 +62,7 @@ The single most useful historical discriminator in esophageal dysphagia is **sol
 
 **Mechanical / structural:**
 
-- **Peptic stricture** — distal, from chronic [[gerd]]; progressive solid-food dysphagia
+- **Peptic stricture** — distal, from chronic [[gerd|gastroesophageal reflux disease (GERD)]]; progressive solid-food dysphagia
 - **[[eosinophilic-esophagitis]]** — leading cause in younger adults (esp. men); food impaction, rings ("trachealization"), atopy
 - **Schatzki ring** — intermittent solid-food dysphagia, classic "steakhouse syndrome"
 - **[[esophageal-cancer]]** — progressive solids → liquids, weight loss, anemia (alarm presentation)
@@ -71,20 +71,20 @@ The single most useful historical discriminator in esophageal dysphagia is **sol
 
 **Motility:**
 
-- **[[achalasia]]** — dysphagia to solids *and* liquids, regurgitation, weight loss; diagnosed on [[high-resolution-manometry|HRM]] ([[chicago-classification-v4|Chicago Classification]] types I–III)
-- **[[esophagogastric-junction-outflow-obstruction|EGJ outflow obstruction (EGJOO)]]** — manometric pattern requiring corroboration with [[flip-panometry|FLIP]]/timed barium and symptoms
+- **[[achalasia]]** — dysphagia to solids *and* liquids, regurgitation, weight loss; diagnosed on [[high-resolution-manometry|high-resolution manometry (HRM)]] ([[chicago-classification-v4|Chicago Classification]] types I–III)
+- **[[esophagogastric-junction-outflow-obstruction|esophagogastric junction (EGJ) outflow obstruction (EGJOO)]]** — manometric pattern requiring corroboration with [[flip-panometry|functional lumen imaging probe (FLIP)]]/timed barium and symptoms
 - **[[distal-esophageal-spasm]]** — premature contractions; dysphagia + chest pain
 - **[[hypercontractile-esophagus]]** (jackhammer) and **[[ineffective-esophageal-motility]]**
-- [[esophageal-dysfunction-systemic-disease|Scleroderma / systemic sclerosis]] — absent peristalsis + hypotensive LES, severe reflux
+- [[esophageal-dysfunction-systemic-disease|Scleroderma / systemic sclerosis]] — absent peristalsis + hypotensive lower esophageal sphincter (LES), severe reflux
 
 **Mucosal / inflammatory:**
 
-- Erosive esophagitis from [[gerd]]; [[infectious-esophagitis|infectious esophagitis]] (Candida, HSV, CMV — especially immunocompromised; usually odynophagia); pill esophagitis (doxycycline, bisphosphonates, NSAIDs, KCl)
+- Erosive esophagitis from [[gerd]]; [[infectious-esophagitis|infectious esophagitis]] (Candida, herpes simplex virus [HSV], cytomegalovirus [CMV] — especially immunocompromised; usually odynophagia); pill esophagitis (doxycycline, bisphosphonates, nonsteroidal anti-inflammatory drugs [NSAIDs], KCl)
 
 **Immune-mediated / systemic (often nonspecific endoscopy — high index of suspicion):**
 
 - [[lymphocytic-esophagitis|Lymphocytic esophagitis]] — women >60, rings/stricture, dysphagia
-- [[esophageal-dysfunction-systemic-disease|Esophageal manifestations of systemic disease]] — connective tissue disease (SSc, MCTD, SLE, Sjögren's, myositis), esophageal [[crohns-disease|Crohn's]], hypereosinophilic syndrome/EGPA, and dermatologic disease (esophageal lichen planus, pemphigus vulgaris)
+- [[esophageal-dysfunction-systemic-disease|Esophageal manifestations of systemic disease]] — connective tissue disease (systemic sclerosis [SSc], mixed connective tissue disease [MCTD], systemic lupus erythematosus [SLE], Sjögren's, myositis), esophageal [[crohns-disease|Crohn's]], hypereosinophilic syndrome/eosinophilic granulomatosis with polyangiitis (EGPA), and dermatologic disease (esophageal lichen planus, pemphigus vulgaris)
 
 ---
 
@@ -95,16 +95,16 @@ flowchart TD
     A["Dysphagia"] --> B{"Localize:<br/>oropharyngeal vs esophageal?"}
     B -->|"Trouble initiating swallow,<br/>cough/nasal regurg"| C["Oropharyngeal"]
     B -->|"Food sticks in chest<br/>seconds after swallow"| D["Esophageal"]
-    C --> E["Modified barium swallow<br/>(videofluoroscopy) + ENT/neuro eval"]
+    C --> E["Modified barium swallow<br/>(videofluoroscopy) +<br/>ear, nose, and throat (ENT)/neuro eval"]
     D --> F["Upper endoscopy (EGD)<br/>FIRST — with esophageal biopsies"]
-    F -->|"Structural lesion<br/>(stricture, ring, mass, EoE)"| G["Treat: dilation, biopsy,<br/>PPI/diet, oncology referral"]
+    F -->|"Structural lesion<br/>(stricture, ring, mass, EoE)"| G["Treat: dilation, biopsy,<br/>proton pump inhibitor (PPI)/diet,<br/>oncology referral"]
     F -->|"Normal mucosa<br/>(esophageal biopsies negative)"| H["High-resolution manometry"]
-    H -->|"Abnormal IRP / peristalsis"| I["Motility disorder<br/>(achalasia, spasm, EGJOO)"]
+    H -->|"Abnormal integrated relaxation pressure (IRP)<br/>/ peristalsis"| I["Motility disorder<br/>(achalasia, spasm, EGJOO)"]
     H -->|"Normal"| J["Consider barium esophagram /<br/>FLIP; functional dysphagia"]
 ```
 
 1. **Localize** oropharyngeal vs. esophageal by history — this determines the first test.
-2. **Oropharyngeal** → **modified barium swallow (videofluoroscopic swallow study)** with speech-language pathology; pursue the underlying neuromuscular or structural cause (ENT, neurology). Nasendoscopy/FEES for aspiration assessment.
+2. **Oropharyngeal** → **modified barium swallow (videofluoroscopic swallow study)** with speech-language pathology; pursue the underlying neuromuscular or structural cause (ENT, neurology). Nasendoscopy/fiberoptic endoscopic evaluation of swallowing (FEES) for aspiration assessment.
 3. **Esophageal** → **[[upper-endoscopy|EGD]] first** in nearly all cases — it is diagnostic and therapeutic (dilation), and allows biopsy. **Obtain esophageal biopsies even when the mucosa looks normal** to exclude [[eosinophilic-esophagitis|EoE]] (≥6 biopsies, proximal + distal).
 4. If EGD is **normal** (including negative EoE biopsies), proceed to **[[high-resolution-manometry|HRM]]** to evaluate motility ([[chicago-classification-v4|Chicago Classification v4.0]]).
 5. **Barium esophagram** (incl. timed barium / tablet barium) is a useful adjunct — it can reveal subtle rings/webs, extrinsic compression, or a "bird's beak" of achalasia, and is sometimes done before EGD when a proximal lesion or Zenker's is suspected.
@@ -131,7 +131,7 @@ Prompt expedited [[upper-endoscopy|EGD]] (and raise concern for malignancy):
 - **Progressive dysphagia** (solids → liquids over weeks–months)
 - **Unintentional weight loss**
 - **Odynophagia**
-- **GI bleeding or iron deficiency anemia**
+- **Gastrointestinal (GI) bleeding or iron deficiency anemia**
 - **Age ≥ 60 with new-onset dysphagia**
 - **Recurrent aspiration or aspiration pneumonia**
 - **A palpable neck/supraclavicular mass or lymphadenopathy**

@@ -36,33 +36,33 @@ sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd
 **Clinical diagnosis** is sufficient to initiate empiric treatment in most patients:
 
 - Cardinal symptoms: troublesome heartburn and/or regurgitation (Montreal definition)
-- **8-week empiric [[proton-pump-inhibitors|PPI]] trial** for typical symptoms is recommended (Strong/Moderate, ACG 2021); if symptoms resolve, attempt PPI discontinuation (Conditional/Low)
+- **8-week empiric [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] trial** for typical symptoms is recommended (Strong/Moderate, American College of Gastroenterology [ACG] 2021); if symptoms resolve, attempt PPI discontinuation (Conditional/Low)
 - Symptom-response to empiric PPI trial supports the diagnosis
-- Uncomplicated, typical GERD does not require endoscopy before therapy
+- Uncomplicated, typical gastroesophageal reflux disease (GERD) does not require endoscopy before therapy
 - Reflux monitoring off PPI for patients with unclear GERD diagnosis before procedural therapy (Strong/Low, ACG 2021)
 
 **Endoscopy is recommended** (strong, moderate evidence) for alarm symptoms:
 
 - [[dysphagia|Dysphagia]], odynophagia
 - Weight loss
-- [[upper-gi-bleeding|GI bleeding]] (hematemesis, melena, [[iron-deficiency-anemia|iron deficiency anemia]])
+- [[upper-gi-bleeding|gastrointestinal (GI) bleeding]] (hematemesis, melena, [[iron-deficiency-anemia|iron deficiency anemia]])
 - Persistent vomiting
 
 **Endoscopy is suggested** (conditional, low evidence) for:
 
-- [[barretts-esophagus|Barrett's esophagus]] risk factor screening: family history of BE or [[esophageal-adenocarcinoma|esophageal adenocarcinoma]]; OR GERD plus at least one of: age >50, male sex, white race, smoking, [[obesity]]
+- [[barretts-esophagus|Barrett's esophagus (BE)]] risk factor screening: family history of BE or [[esophageal-adenocarcinoma|esophageal adenocarcinoma]]; OR GERD plus at least one of: age >50, male sex, white race, smoking, [[obesity]]
 - Pediatric GERD with atypical/suggestive features: poor weight gain, unexplained anemia, concern for GI bleeding, recurrent pneumonia, regurgitation/vomiting
 
 **Special populations requiring endoscopic evaluation:**
 
-- Post-[[bariatric-surgery|sleeve gastrectomy]] (SG) with reflux symptoms: conditional endoscopy; if asymptomatic, screen at 3 years then every 5 years given pooled BE rate of 11.4% post-SG (exceeds ASGE 10% screening threshold)
-- Post-[[poem|POEM]] with symptomatic GERD: conditional endoscopy; consider periodic evaluation even in asymptomatic patients given pooled esophagitis rate ~29% post-POEM (see [[achalasia]])
+- Post-[[bariatric-surgery|sleeve gastrectomy]] (SG) with reflux symptoms: conditional endoscopy; if asymptomatic, screen at 3 years then every 5 years given pooled BE rate of 11.4% post-SG (exceeds American Society for Gastrointestinal Endoscopy (ASGE) 10% screening threshold)
+- Post-[[poem|per-oral endoscopic myotomy (POEM)]] with symptomatic GERD: conditional endoscopy; consider periodic evaluation even in asymptomatic patients given pooled esophagitis rate ~29% post-POEM (see [[achalasia]])
 
 ### Severity Assessment
 
 Objective severity is assessed endoscopically and with [[reflux-testing|reflux testing]], which is the home page for what each endoscopic descriptor is used for.
 
-> ⚠ Every GERD guideline here (**[[acg-2021-gerd]], [[asge-2024-gerd]], [[acg-2020-esophageal-physiologic-testing]], [[lyon-2024-gerd-diagnosis|Lyon 2.0]]**) *uses* the **Los Angeles A–D** and **Hill I–IV** grades to drive real decisions, but **none of them defines the grades**, and none defines the **AFS** flap-valve grade. The definitions are in **Lundell 1999** (LA classification), **Hill & Kozarek, *J Clin Gastroenterol* 1996** (flap valve), and the AFS hiatus-grade white paper. See [[reflux-testing]].
+> ⚠ Every GERD guideline here (**[[acg-2021-gerd]], [[asge-2024-gerd]], [[acg-2020-esophageal-physiologic-testing]], [[lyon-2024-gerd-diagnosis|Lyon 2.0]]**) *uses* the **Los Angeles (LA) A–D** and **Hill I–IV** grades to drive real decisions, but **none of them defines the grades**, and none defines the **American Foregut Society (AFS)** flap-valve grade. The definitions are in **Lundell 1999** (LA classification), **Hill & Kozarek, *J Clin Gastroenterol* 1996** (flap valve), and the AFS hiatus-grade white paper. See [[reflux-testing]].
 
 **Endoscopic findings — required documentation elements (strong, very low evidence):**
 
@@ -72,7 +72,7 @@ Objective severity is assessed endoscopically and with [[reflux-testing|reflux t
 - [[barretts-esophagus|Barrett's esophagus]]: describe by Prague C&M classification
 - Peptic stricture
 - [[hiatal-hernia|Hiatal hernia]]: measure axial length in cm; classify by Hill grade or AFS grade
-- GEJ landmarks: top of gastric folds, Z-line, diaphragmatic impression (forward view and retroflexion)
+- Gastroesophageal junction (GEJ) landmarks: top of gastric folds, Z-line, diaphragmatic impression (forward view and retroflexion)
 
 **Hiatal hernia size + Hill grade is the operative decision point** — the procedure-selection table is under [[#Step 3: Endoscopic Anti-Reflux Therapies]] (not repeated here); sizing in two dimensions and the rest of the hernia workup are on [[hiatal-hernia]].
 
@@ -85,9 +85,9 @@ Objective severity is assessed endoscopically and with [[reflux-testing|reflux t
 
 | Category | Features |
 |----------|----------|
-| Erosive reflux disease (ERD) | Visible mucosal breaks on EGD; LA grade A–D |
+| Erosive reflux disease (ERD) | Visible mucosal breaks on esophagogastroduodenoscopy (EGD); LA grade A–D |
 | Non-erosive reflux disease (NERD) | Symptoms without mucosal breaks; may have abnormal AET on pH study |
-| Heartburn-predominant GERD | Responds well to PPI; TIF and cTIF applicable |
+| Heartburn-predominant GERD | Responds well to PPI; transoral incisionless fundoplication (TIF) and combined TIF + hiatal hernia repair (cTIF) applicable |
 | Regurgitation-predominant GERD | Often less PPI-responsive; a specific TIF indication |
 | Refractory GERD | Persistent symptoms on double-dose PPI ≥8 weeks with confirmed pathologic reflux |
 | Complicated GERD | Peptic stricture, Barrett's esophagus, erosive esophagitis LA-C/D |
@@ -101,12 +101,12 @@ Objective severity is assessed endoscopically and with [[reflux-testing|reflux t
 
 | Condition | Key Distinguishing Features |
 |-----------|----------------------------|
-| [[eosinophilic-esophagitis\|Eosinophilic esophagitis]] | Dysphagia-predominant; younger patients; rings/furrows/exudate on EGD; >15 eos/HPF on biopsy; often atopic; PPI trial may partially respond but diagnosis requires biopsy |
-| [[achalasia\|Achalasia]] | Regurgitation of undigested food; dysphagia to liquids and solids; bird-beak on barium; elevated LES pressure on HRM; absent peristalsis |
+| [[eosinophilic-esophagitis\|Eosinophilic esophagitis]] | Dysphagia-predominant; younger patients; rings/furrows/exudate on EGD; >15 eos/high-power field (HPF) on biopsy; often atopic; PPI trial may partially respond but diagnosis requires biopsy |
+| [[achalasia\|Achalasia]] | Regurgitation of undigested food; dysphagia to liquids and solids; bird-beak on barium; elevated lower esophageal sphincter (LES) pressure on high-resolution manometry (HRM); absent peristalsis |
 | Functional heartburn | Normal AET on pH study, normal impedance; symptom-reflux correlation absent; [[disorders-of-gut-brain-interaction\|Rome V]] criteria; PPI often ineffective |
 | [[peptic-ulcer-disease\|Peptic ulcer disease]] | Epigastric pain; [[helicobacter-pylori-infection\|H. pylori]] association; EGD shows ulceration; not position-related |
 | [[chicago-classification-v4\|Esophageal dysmotility]] | Dysphagia, chest pain; manometry distinguishes; consider pre-TIF workup |
-| Laryngopharyngeal reflux / [[extraesophageal-reflux\|extraesophageal reflux]] | Throat-clearing, hoarseness, globus, chronic cough; see [[laryngopharyngeal-symptoms]]; diagnosis challenging, HEMII-pH may be required |
+| Laryngopharyngeal reflux / [[extraesophageal-reflux\|extraesophageal reflux]] | Throat-clearing, hoarseness, globus, chronic cough; see [[laryngopharyngeal-symptoms]]; diagnosis challenging, hypopharyngeal-esophageal multichannel intraluminal impedance with dual pH (HEMII-pH) may be required |
 | [[gastroparesis\|Gastroparesis]] | Postprandial bloating, nausea, early satiety; GERD guideline explicitly excludes this population |
 
 ---
@@ -140,7 +140,7 @@ Perform [[upper-endoscopy|upper endoscopy]] per indications above. High-quality 
 - **LA grade B on endoscopy is now CONCLUSIVE for GERD** per Lyon 2.0 (upgraded from "borderline" in Lyon 1.0; ACG 2021 predates this update)
 - Reflux episode counts (off PPI): **>80/day** = adjunctive evidence *for* GERD; **40–80/day** = inconclusive as a stand-alone metric; **<40/day** = adjunctive evidence *against* pathologic GERD
 - **AET >4% *and* >80 reflux episodes on an optimized antisecretory regimen** = actionable refractory GERD (the combination, not either alone)
-- **PSPW (post-reflux swallow-induced peristaltic wave) index is not a diagnostic metric** — Lyon 2.0 keeps it as a predominantly *research* tool for phenotyping patients with already-proven GERD; MNBI, by contrast, is retained as adjunctive diagnostic evidence
+- **PSPW (post-reflux swallow-induced peristaltic wave) index is not a diagnostic metric** — Lyon 2.0 keeps it as a predominantly *research* tool for phenotyping patients with already-proven GERD; mean nocturnal baseline impedance (MNBI), by contrast, is retained as adjunctive diagnostic evidence
 - Combined pH-impedance testing: detects non-acid and weakly acid reflux episodes; useful for regurgitation-predominant or PPI-refractory presentations
 - See [[ambulatory-reflux-monitoring]] for full Lyon 2.0 framework and test selection guidance
 
@@ -152,8 +152,8 @@ Perform [[upper-endoscopy|upper endoscopy]] per indications above. High-quality 
 ### CYP2C19 Genotyping
 
 - Conditional, very low evidence: consider in patients with suboptimal PPI response despite adherence ([[asge-2024-gerd|ASGE 2025]])
-- **Rapid metabolizers *with reflux esophagitis* are more likely to be refractory to PPI than *poor* metabolizers — OR 1.6 (95% CI 1.02–2.66; P=.04)**; note the comparator and the erosive-disease qualifier, both of which are part of the finding
-- Efficacy of PPI for GERD resolution falls stepwise across genotypes (ITT, P=.047):
+- **Rapid metabolizers *with reflux esophagitis* are more likely to be refractory to PPI than *poor* metabolizers — odds ratio (OR) 1.6 (95% confidence interval [CI] 1.02–2.66; P=.04)**; note the comparator and the erosive-disease qualifier, both of which are part of the finding
+- Efficacy of PPI for GERD resolution falls stepwise across genotypes (intention-to-treat [ITT], P=.047):
 
 | CYP2C19 phenotype | GERD resolution |
 |---|---|
@@ -176,7 +176,7 @@ Recommend for all patients with GERD symptoms:
 
 | Intervention | Evidence Summary |
 |---|---|
-| Weight loss | Dose-dependent: BMI decrease >3.5 units → OR 0.64–1.98 for reflux symptom reduction; 81% symptom score improvement in one RCT with BMI 34.7→30.2 |
+| Weight loss | Dose-dependent: body mass index (BMI) decrease >3.5 units → OR 0.64–1.98 for reflux symptom reduction; 81% symptom score improvement in one randomized controlled trial (RCT) with BMI 34.7→30.2 |
 | Smoking cessation | OR 5.67 for symptom improvement in normal-weight daily smokers on medical therapy |
 | Head of bed elevation | Fewer reflux episodes (102 vs 148, P<0.01); reduced AET on pH study |
 | Avoid meals within 3 hours of bedtime | Late meal significantly increases supine reflux — % supine time pH <4 was 2.3 ± 0.8 with an early meal, with a mean increase of 5.2 ± 1.6 for the late meal (P=.002) |
@@ -185,24 +185,24 @@ Recommend for all patients with GERD symptoms:
 
 ### Step 2: Medical Management
 
-**Proton pump inhibitors (PPIs) — Strong, Moderate Evidence**
+**PPIs — Strong, Moderate Evidence**
 
 - Recommend for symptomatic confirmed GERD with predominant heartburn, at lowest effective dose for shortest necessary duration
 - Efficacy vs placebo: OR 4.2 for symptom relief, OR 11.4 for esophagitis healing
 - De-escalate after ≥6 months of therapy; address long-term management plans
-- Safety (large RCT, n~17,600, 3 years): no significant increase in cardiovascular events, CKD, [[clostridioides-difficile|C. diff]], pneumonia, fractures, or dementia; only confirmed harm is modest enteric infection increase
+- Safety (large RCT, n~17,600, 3 years): no significant increase in cardiovascular events, chronic kidney disease (CKD), [[clostridioides-difficile|C. diff]], pneumonia, fractures, or dementia; only confirmed harm is modest enteric infection increase
 
 **H2 receptor antagonists (H2RAs)**
 
 - Inferior to PPIs for erosive esophagitis and uncontrolled GERD
-- Role as adjunct therapy, PRN use, or when faster onset is needed (e.g., nocturnal breakthrough)
+- Role as adjunct therapy, as-needed (PRN) use, or when faster onset is needed (e.g., nocturnal breakthrough)
 
 **[[potassium-competitive-acid-blockers|Potassium-competitive acid blockers (P-CABs)]]** (e.g., [[vonoprazan]])
 
 - More potent acid suppression; superior to PPI for erosive esophagitis healing in one RCT
 - Long-term safety data not yet available; positioning relative to PPIs evolving
 - Panel: not yet superior to PPI overall for GERD; likely to be used for confirmed GERD after shared discussion
-- **AGA 2024 P-CAB CPU** ([[aga-2024-pcab]]): generally **not first-line** for uninvestigated heartburn, NERD, or milder erosive esophagitis (**LA grade A/B**) — use in documented reflux failing **twice-daily PPIs**; **may use** for **severe EE (LA grade C/D)** healing/maintenance, though cost limits routine first-line use over standard-dose PPI
+- **American Gastroenterological Association (AGA) 2024 P-CAB Clinical Practice Update (CPU)** ([[aga-2024-pcab]]): generally **not first-line** for uninvestigated heartburn, NERD, or milder erosive esophagitis (**LA grade A/B**) — use in documented reflux failing **twice-daily PPIs**; **may use** for **severe erosive esophagitis (EE; LA grade C/D)** healing/maintenance, though cost limits routine first-line use over standard-dose PPI
 
 **CYP2C19-guided therapy**
 
@@ -235,22 +235,22 @@ Recommend for all patients with GERD symptoms:
 **Indications for [[antireflux-surgery|antireflux surgery]] (Strong/Moderate, [[acg-2021-gerd|ACG 2021]]):** LA grade C/D erosive esophagitis, large hiatal hernia, or troublesome regurgitation/symptoms.
 
 - **[[antireflux-surgery|Magnetic sphincter augmentation (MSA/LINX)]]** — alternative to fundoplication for **regurgitation-predominant GERD** (Strong/Moderate, ACG 2021); caution with [[ineffective-esophageal-motility|dysmotility]].
-- **RYGB** — for patients with [[obesity|obesity]] and GERD (Conditional/Low, ACG 2021).
+- **Roux-en-Y gastric bypass (RYGB)** — for patients with [[obesity|obesity]] and GERD (Conditional/Low, ACG 2021).
 - **Stretta is NOT recommended** by ACG 2021 (inconsistent, variable evidence); [[asge-2024-gerd|ASGE 2025]] likewise does not recommend it for most patients.
 
 *The surgery-vs-medical-management data and every technique trade-off (robotic vs laparoscopic, complete vs partial wrap, short-gastric division) live on [[antireflux-surgery]] — not duplicated here.*
 
-**Recurrent GERD (or new late dysphagia) after anti-reflux surgery** — the question is whether the valve has failed and how. The Hill and AFS grades describe the *native* valve and do not apply to a reconstructed one; use the four-attribute post-surgical schema (groove depth, collar apposition, valve length, SCJ position, plus loss of the hiatal aperture in retroflexion) on [[antireflux-surgery#Endoscopic Assessment of the Post-Surgical GE Valve|antireflux surgery]] ([[afs-2024-ge-valve-after-antireflux-surgery|AFS 2024]]). Pathologic reflux for this purpose = abnormal esophageal acid exposure on pH-metry **or** **LA grade B, C, or D** esophagitis on endoscopy.
+**Recurrent GERD (or new late dysphagia) after anti-reflux surgery** — the question is whether the valve has failed and how. The Hill and AFS grades describe the *native* valve and do not apply to a reconstructed one; use the four-attribute post-surgical schema (groove depth, collar apposition, valve length, squamocolumnar junction (SCJ) position, plus loss of the hiatal aperture in retroflexion) on [[antireflux-surgery#Endoscopic Assessment of the Post-Surgical GE Valve|antireflux surgery]] ([[afs-2024-ge-valve-after-antireflux-surgery|AFS 2024]]). Pathologic reflux for this purpose = abnormal esophageal acid exposure on pH-metry **or** **LA grade B, C, or D** esophagitis on endoscopy.
 
 ### Extraesophageal GERD Manifestations
 
-*Full framework: see [[extraesophageal-reflux]] (umbrella) and [[laryngopharyngeal-symptoms|laryngopharyngeal symptoms / LPRD]] (laryngeal-specific).*
+*Full framework: see [[extraesophageal-reflux]] (umbrella) and [[laryngopharyngeal-symptoms|laryngopharyngeal symptoms / laryngopharyngeal reflux disease (LPRD)]] (laryngeal-specific).*
 
 **Laryngopharyngeal reflux (LPR), chronic cough, asthma, dental erosions:**
 
-- **No single test conclusively proves GER causes the symptoms**; 50–60% of EER patients don't have GERD ([[aga-2023-extraesophageal-gerd|AGA 2023 CPU]], BPA 3). Evaluate for non-GERD causes first, multidisciplinary approach (ACG 2021, Strong/Moderate)
+- **No single test conclusively proves gastroesophageal reflux (GER) causes the symptoms**; 50–60% of extraesophageal reflux (EER) patients don't have GERD ([[aga-2023-extraesophageal-gerd|AGA 2023 CPU]], Best Practice Advice (BPA) 3). Evaluate for non-GERD causes first, multidisciplinary approach (ACG 2021, Strong/Moderate)
 - If isolated extraesophageal symptoms without typical GERD: perform reflux monitoring **before** starting PPI (Strong/Moderate; AGA 2023 BPA 4)
-- If BOTH typical AND extraesophageal symptoms: single-dose PPI titrating up to BID, ×8–12 weeks (Conditional/Low)
+- If BOTH typical AND extraesophageal symptoms: single-dose PPI titrating up to twice daily (BID), ×8–12 weeks (Conditional/Low)
 - **Symptom improvement on PPI does NOT confirm GERD** (non-acid-suppression mechanisms; AGA 2023 BPA 5). After one failed 12-week trial, pursue objective testing rather than trying different PPIs (BPA 6)
 - Anti-reflux surgery only with objectively-defined GERD; lack of PPI response predicts lack of surgical response (AGA 2023 BPA 10)
 - No oropharyngeal/pharyngeal pH monitoring; no salivary pepsin testing (insufficient evidence)

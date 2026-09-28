@@ -13,9 +13,9 @@ sources: []
 - **Year:** 2022 (received June 12, 2021; accepted December 10, 2021)
 - **Journal/Publisher:** Gastroenterology, Vol. 162, No. 6, pp. 1737–1745 — AGA Institute
 - **DOI:** [10.1053/j.gastro.2021.12.248](https://doi.org/10.1053/j.gastro.2021.12.248)
-- **Type:** guideline (AGA Clinical Practice Update — expert review)
+- **Type:** guideline (American Gastroenterological Association [AGA] Clinical Practice Update — expert review)
 
-**No evidence grading.** The update states its methods explicitly: the best practice advice statements "were drawn from reviewing existing literature combined with expert opinion… Because this was not a systematic review, formal rating of the quality of evidence or strength of the presented considerations was not performed." The 9 statements carry numbers only — no GRADE strength, no evidence-quality rating.
+**No evidence grading.** The update states its methods explicitly: the best practice advice statements "were drawn from reviewing existing literature combined with expert opinion… Because this was not a systematic review, formal rating of the quality of evidence or strength of the presented considerations was not performed." The 9 statements carry numbers only — no Grading of Recommendations Assessment, Development and Evaluation (GRADE) strength, no evidence-quality rating.
 
 ## Contents
 - [[#Summary]]
@@ -33,11 +33,11 @@ sources: []
 
 ## Summary
 
-Most patients with [[irritable-bowel-syndrome|IBS]] associate their GI symptoms with eating — surveys suggest >80% link symptoms to a meal — and medical therapies improve global symptoms in fewer than half of patients (therapeutic gain 7%–15% over placebo). This update positions diet as a primary treatment and gives practical advice on **which patients to treat with diet, who should deliver it, and how long to try it**, rather than a systematic evidence appraisal.
+Most patients with [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]] associate their gastrointestinal (GI) symptoms with eating — surveys suggest >80% link symptoms to a meal — and medical therapies improve global symptoms in fewer than half of patients (therapeutic gain 7%–15% over placebo). This update positions diet as a primary treatment and gives practical advice on **which patients to treat with diet, who should deliver it, and how long to try it**, rather than a systematic evidence appraisal.
 
 The central operational messages: diet works best in patients who have insight into meal-related symptoms and are motivated; a **registered dietitian nutritionist (RDN)** should deliver restrictive diets where available; every diet trial gets a **predetermined duration** and is abandoned for another treatment if there is no response; and restrictive diets are **contraindicated in patients with an eating disorder**, with routine screening for disordered eating a necessary step before prescribing one.
 
-On the diets themselves, **soluble fiber** is efficacious for global IBS symptoms, and the **low-FODMAP diet (LFD)** is the most evidence-based diet intervention — but only as a structured 3-phase program (restriction ≤4–6 weeks → reintroduction → personalization), not as an open-ended restriction. Healthy eating advice (NICE-style traditional dietary advice) benefits a subset of patients. Evidence for a **gluten-free diet (GFD)** is mixed, and rechallenge data suggest fructans rather than gluten drive symptoms in many patients. Biomarkers that predict diet response (serologies, HLA DQ2/8, IgG food antibodies, leukocyte activation testing, confocal laser endomicroscopy, sucrase-isomaltase variants, fecal microbiome/metabolites, fructose breath testing) are promising but not ready for routine use.
+On the diets themselves, **soluble fiber** is efficacious for global IBS symptoms, and the **low–fermentable oligo-, di-, and monosaccharides and polyols (FODMAP) diet (LFD)** is the most evidence-based diet intervention — but only as a structured 3-phase program (restriction ≤4–6 weeks → reintroduction → personalization), not as an open-ended restriction. Healthy eating advice (National Institute for Health and Care Excellence [NICE]-style traditional dietary advice) benefits a subset of patients. Evidence for a **gluten-free diet (GFD)** is mixed, and rechallenge data suggest fructans rather than gluten drive symptoms in many patients. Biomarkers that predict diet response (serologies, human leukocyte antigen [HLA] DQ2/8, immunoglobulin G [IgG] food antibodies, leukocyte activation testing, confocal laser endomicroscopy, sucrase-isomaltase variants, fecal microbiome/metabolites, fructose breath testing) are promising but not ready for routine use.
 
 ## Best Practice Advice Statements
 
@@ -61,8 +61,6 @@ Nine numbered Best Practice Advice (BPA) statements, reproduced as given. **None
 
 **BPA 9:** "There are limited data showing that selected biomarkers may predict response to diet interventions in patients with IBS, but there is insufficient evidence to support their routine use in clinical practice."
 
-*Abbreviations as defined in the paper: LFD = low-FODMAP diet; FODMAP = fermentable oligo-, di-, and monosaccharides and polyols; RDN = registered dietitian nutritionist; GFD = gluten-free diet; MNT = medical nutrition therapy; IBS-SSS = IBS Symptom Severity Score; ARFID = avoidant/restrictive food intake disorder; CLE = confocal laser endomicroscopy.*
-
 ## Key Findings / Claims
 
 ### Selecting patients for a diet intervention
@@ -70,7 +68,7 @@ Nine numbered Best Practice Advice (BPA) statements, reproduced as given. **None
 - Diet is a primary treatment because most medical therapies improve global symptoms in **fewer than one-half** of patients (therapeutic gain **7%–15%** over placebo); **>80%** of patients associate symptoms with a meal.
 - **Poor candidates** for restrictive diets (BPA 2): few culprit foods consumed; risk for malnutrition; food insecurity; eating disorder or uncontrolled psychiatric disorder.
   - If a patient already eats a diet with minimal FODMAP-containing foods, there is little benefit to trialing the LFD.
-- **Disordered eating is common and overlooked.** Eating disorders of concern include anorexia nervosa, bulimia nervosa, binge eating disorder, and — of particular importance to gastroenterologists — **ARFID**. Recent data suggest **20%** of patients in GI practice screen positive for ARFID, though ARFID screening tools have not been validated in patients with GI disorders. **Restrictive diets like the LFD should be avoided in patients with an eating disorder.**
+- **Disordered eating is common and overlooked.** Eating disorders of concern include anorexia nervosa, bulimia nervosa, binge eating disorder, and — of particular importance to gastroenterologists — **avoidant/restrictive food intake disorder (ARFID)**. Recent data suggest **20%** of patients in GI practice screen positive for ARFID, though ARFID screening tools have not been validated in patients with GI disorders. **Restrictive diets like the LFD should be avoided in patients with an eating disorder.**
 - **Malnutrition screening** should be considered before starting a diet intervention. The **Malnutrition Screening Tool** is validated, consists of **2 questions** (appetite and weight loss), and can be administered by a nurse or medical assistant; a higher score indicates the patient is **not appropriate for dietary restrictions** and should be referred to an RDN for comprehensive nutritional assessment.
 - **Predetermined trial length** (BPA 3) — do not place patients on "open-ended" dietary restrictions. Numerous clinical trials found **4–6 weeks of LFD** is enough to determine response; failure within the prescribed time means abandoning the diet for another treatment.
 - Practical barriers: planning/preparation burden; decreased cognitive ability or significant psychiatric disease impairing reproducible trigger reporting; incremental cost; limited food access.
@@ -117,7 +115,7 @@ flowchart TD
 
 - **RDN preparation (BPA 4):** before the visit, clinician and patient supply previous medical and demographic information, test and procedure results, biochemical data, and anthropometrics; the patient keeps a **food diary for a minimum of 3 days** plus a corresponding symptom chart.
 - The RDN then conducts a **4-step process**: 1) nutrition assessment information, 2) nutrition diagnosis, 3) nutrition intervention, 4) nutrition monitoring and evaluation.
-- **Medical nutrition therapy (MNT)** delivered by an RDN has improved outcomes in weight management, diabetes, hypertension, lipid disorders, pregnancy, HIV infection, chronic kidney disease, and unintended weight loss in adults. Provide an ICD-10 diagnosis with the referral and state that the consultation is medically necessary and/or preventative. Medicare currently covers nutrition visits for diabetes mellitus, end-stage renal disease (not on dialysis), and post kidney transplantation, with a specified number of visits per year.
+- **Medical nutrition therapy (MNT)** delivered by an RDN has improved outcomes in weight management, diabetes, hypertension, lipid disorders, pregnancy, human immunodeficiency virus (HIV) infection, chronic kidney disease, and unintended weight loss in adults. Provide an International Classification of Diseases, Tenth Revision (ICD-10) diagnosis with the referral and state that the consultation is medically necessary and/or preventative. Medicare currently covers nutrition visits for diabetes mellitus, end-stage renal disease (not on dialysis), and post kidney transplantation, with a specified number of visits per year.
 - Where no GI RDN is available, a provider can collaborate with a **community RDN with an interest in digestive disorders**, and reliable educational materials/digital tools can support implementation — but "dietary interventions should not be implemented solely on the basis of a brief document or mobile application."
 
 ### Fiber
@@ -126,9 +124,9 @@ flowchart TD
 - **FDA recommends 25–35 g of total fiber daily** for all people.
 - **Soluble fiber sources:** psyllium, ispaghula husk, corn fiber, calcium polycarbophil, methylcellulose, oat bran, and the flesh of fruits and vegetables.
 - **Insoluble fiber sources:** wheat bran, whole grains, and fruit and vegetable skins and seeds.
-- The 2021 ACG IBS guideline made a **strong recommendation for soluble (but not insoluble) fiber**, based on a systematic review and meta-analysis of **15 RCTs**; insoluble fiber did not significantly improve IBS symptoms and **may exacerbate bloating and abdominal pain**.
+- The 2021 American College of Gastroenterology (ACG) IBS guideline made a **strong recommendation for soluble (but not insoluble) fiber**, based on a systematic review and meta-analysis of **15 randomized controlled trials (RCTs)**; insoluble fiber did not significantly improve IBS symptoms and **may exacerbate bloating and abdominal pain**.
 - A recent **network meta-analysis of 5 psyllium husk studies did not show benefit** in global IBS symptoms vs placebo; the **2 excluded studies were positive**.
-- **Selection of soluble fiber should be made specifically among patients with IBS-C.** Fiber characteristics from viscosity to rate of fermentation affect symptom impact.
+- **Selection of soluble fiber should be made specifically among patients with IBS with constipation (IBS-C).** Fiber characteristics from viscosity to rate of fermentation affect symptom impact.
 
 ### Low-FODMAP diet
 
@@ -136,7 +134,7 @@ flowchart TD
 - Efficacy data cited:
   - Traditional meta-analysis of **7 RCTs (397 patients)** — LFD significantly reduced global symptoms vs different control interventions.
   - Network meta-analysis of **13 RCTs** — LFD was the **most effective diet strategy** for relief of global symptoms, abdominal pain, and bloating.
-  - RCT of **100 patients with IBS-D**, LFD vs traditional dietary advice based on NICE guidelines: both improved IBS-SSS and IBS-related QOL vs baseline; primary outcome (**>50-point reduction in IBS-SSS**) favored LFD — **62.7% vs 40.8%; P = .04**.
+  - RCT of **100 patients with IBS with diarrhea (IBS-D)**, LFD vs traditional dietary advice based on NICE guidelines: both improved IBS Symptom Severity Score (IBS-SSS) and IBS-related quality of life (QOL) vs baseline; primary outcome (**>50-point reduction in IBS-SSS**) favored LFD — **62.7% vs 40.8%; P = .04**.
   - Crossover RCT of **42 patients** (LFD vs GFD vs "balanced"/Mediterranean diet): all 3 significantly improved symptom severity, bloating, abdominal pain, and QOL (P < .05); LFD gave significantly greater improvement in **bloating only**, not pain, IBS-SSS, or IBS-related QOL. Needs confirmation in a larger trial.
   - **Two comparative effectiveness trials** reported similar benefit of the LFD in improving overall IBS symptoms **for up to 6 months** compared with gut-directed hypnotherapy or yoga.
   - LFD improves symptoms and disease-specific QOL **particularly in IBS-D**; studies in **IBS-C are currently lacking**, but RCTs show IBS-C patients benefit from a higher intake of soluble fiber.
@@ -147,7 +145,7 @@ flowchart TD
 ### Gluten-free diet
 
 - Two placebo-controlled **rechallenge** trials randomly assigned patients with IBS who had symptomatically responded to a GFD to a gluten-containing diet or placebo — both reported **significant worsening of IBS symptoms with gluten vs placebo**.
-- A recent **ACG systematic review and meta-analysis** found the overall difference was **not statistically significant: relative risk 0.46 (95% CI, 0.16–1.28)**.
+- A recent **ACG systematic review and meta-analysis** found the overall difference was **not statistically significant: relative risk 0.46 (95% confidence interval [CI], 0.16–1.28)**.
 - In a placebo-controlled crossover rechallenge study, patients with IBS who responded to a GFD **followed by a LFD** did **not** experience worsening with reintroduction of gluten — elimination of gluten does not explain the additional symptom improvement with a LFD.
 - In individuals with self-reported gluten sensitivity (**31% with IBS**) on a GFD, overall GI symptoms and bloating were significantly higher on a diet with **fructans** than with gluten, although neither group differed from placebo → **fructans, rather than gluten, induce symptoms** in patients with presumed gluten sensitivity. Limitation: rechallenge designs may increase the likelihood of a nocebo response.
 - Two small uncontrolled studies showed a GFD improved overall IBS symptoms; a third found only a significant improvement in **stool frequency**.
@@ -157,10 +155,10 @@ flowchart TD
 
 | Candidate biomarker | What the data show |
 |---|---|
-| Celiac genetics/serology (HLA DQ2/8, IgG anti-gliadin, anti-tTG) | IBS-D with positive IgG anti-gliadin/anti-tTG and/or positive DQ2 status were more likely to normalize GI symptom score and stool frequency after a GFD. Positive anti-gliadin antibody status was associated with **less diarrhea but not less abdominal pain**. Two studies: HLA DQ2/8 status predicted improvement in **only certain individual symptoms** (stool frequency, abdominal distension) with a GFD. |
+| Celiac genetics/serology (HLA DQ2/8, IgG anti-gliadin, anti–tissue transglutaminase [anti-tTG]) | IBS-D with positive IgG anti-gliadin/anti-tTG and/or positive DQ2 status were more likely to normalize GI symptom score and stool frequency after a GFD. Positive anti-gliadin antibody status was associated with **less diarrhea but not less abdominal pain**. Two studies: HLA DQ2/8 status predicted improvement in **only certain individual symptoms** (stool frequency, abdominal distension) with a GFD. |
 | IgG food antibody testing | RCT of **150 patients**: 12-week diet excluding foods with elevated IgG antibodies gave a **10% greater reduction** in IBS symptoms vs sham diet. Open-label trial of **20 patients**: significant improvement in stool frequency, abdominal pain, and QOL. A cross-sectional study found **no correlation between IBS symptoms and IgG4 antibody titers** to foods. Older, limited data — additional validation required. |
 | Leukocyte activation testing | RCT: a diet excluding "positive" foods vs a sham diet excluding "negative" foods gave significant improvement in IBS symptoms. |
-| [[confocal-laser-endomicroscopy\|CLE]] with food challenge | One study of **36 patients**: **61% had a positive CLE response**; of those, **86% had a >50% reduction in symptoms after 4 weeks** on an exclusion diet, with further improvement by 12 months. **None** of the CLE-negative patients had a significant symptom reduction. |
+| [[confocal-laser-endomicroscopy\|Confocal laser endomicroscopy (CLE)]] with food challenge | One study of **36 patients**: **61% had a positive CLE response**; of those, **86% had a >50% reduction in symptoms after 4 weeks** on an exclusion diet, with further improvement by 12 months. **None** of the CLE-negative patients had a significant symptom reduction. |
 | Sucrase-isomaltase (SI) variants | SI variants are more common in IBS and may be associated with **lower response to LFD**. Post-hoc analysis: pathogenic SI variants associated with a **3- to 4-fold reduction in response** to either diet, particularly the LFD. Limitations: small sample, no mucosal disaccharidase measurements. |
 | Fecal microbiome / metabolites | Pediatric abdominal-pain responders to LFD had stool enriched with microbes with increased carbohydrate-metabolizing enzymes. Two adult studies using the GA-map dysbiosis test both found baseline fecal bacterial profile could discriminate responders from nonresponders — but **the discriminating profiles differed between studies**. Fecal volatile organic compound patterns at baseline and after LFD distinguished responders from nonresponders. |
 | Fructose breath testing | **No convincing evidence** it predicts response to a fructose-restricted diet or LFD. "A fructose breath test does not appear to predict response to a fructose-restricted diet but may predict response to a LFD, however, further studies are needed." |

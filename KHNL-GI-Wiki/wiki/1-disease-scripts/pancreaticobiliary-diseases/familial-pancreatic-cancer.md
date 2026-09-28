@@ -21,7 +21,7 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 
 ### Establishing the Diagnosis
 
-- **FPC kindred** = a family containing **at least a pair of first-degree relatives (FDRs)** with [[pancreatic-cancer|pancreatic cancer]], **without** an association with a known hereditary cancer syndrome ([[asge-2022-pancreatic-cancer-screening]]).
+- **Familial pancreatic cancer (FPC) kindred** = a family containing **at least a pair of first-degree relatives (FDRs)** with [[pancreatic-cancer|pancreatic cancer]], **without** an association with a known hereditary cancer syndrome ([[asge-2022-pancreatic-cancer-screening]]).
 - **Diagnosis of exclusion** — if a recognized syndrome accounts for the cluster, it is not FPC (see [[#Differential Diagnosis]]).
 - **Inheritance:** segregation analysis of multi-case families shows an **autosomal-dominant** pattern; modeling studies suggest a rare allele as the likely etiology. No causative gene is identified — that is what distinguishes FPC from the named syndromes ([[acg-2015-hereditary-gi-cancer]]).
 - Known mutations explain only ~20% of familial clustering, so a **negative gene panel does not remove a kindred from FPC-based eligibility** for surveillance.
@@ -29,7 +29,7 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 
 ### Severity Assessment
 
-Risk is graded by the **number of PC-affected FDRs** in the kindred ([[acg-2015-hereditary-gi-cancer]]):
+Risk is graded by the **number of pancreatic cancer–affected FDRs** in the kindred ([[acg-2015-hereditary-gi-cancer]]):
 
 | Affected FDRs | Relative risk of pancreatic cancer |
 |---|---|
@@ -47,8 +47,8 @@ Risk is graded by the **number of PC-affected FDRs** in the kindred ([[acg-2015-
 Syndromes that must be excluded before calling a kindred FPC — each has its own gene, risk magnitude, and start age:
 
 - [[brca-pathogenic-variants|BRCA1/2]] and PALB2
-- [[fammm-syndrome|FAMMM]] (CDKN2A)
-- [[peutz-jeghers-syndrome|Peutz-Jeghers syndrome]] (STK11/LKB1)
+- [[fammm-syndrome|familial atypical multiple mole melanoma (FAMMM)]] (CDKN2A)
+- [[peutz-jeghers-syndrome|Peutz-Jeghers syndrome (PJS)]] (STK11/LKB1)
 - [[lynch-syndrome|Lynch syndrome]]
 - ATM
 - [[hereditary-pancreatitis|Hereditary pancreatitis]]
@@ -57,7 +57,7 @@ Syndromes that must be excluded before calling a kindred FPC — each has its ow
 
 - **Pedigree, not a gene test, makes the diagnosis** — FPC is defined by family structure plus the absence of a syndromic explanation.
 - Genetic testing in suspected FPC should analyze **BRCA1/2, CDKN2A, PALB2, and ATM**; add [[peutz-jeghers-syndrome|PJS]]-, [[lynch-syndrome|Lynch]]-, and [[hereditary-pancreatitis|hereditary-pancreatitis]]-associated genes when the personal/family history meets those criteria ([[acg-2015-hereditary-gi-cancer]]). A positive result reclassifies the kindred out of FPC.
-- **Surveillance modality:** [[endoscopic-ultrasound|EUS]], [[mri-mrcp|MRI]], or EUS alternating with MRI — chosen by patient preference and local expertise (conditional, very low quality).
+- **Surveillance modality:** [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]], [[mri-mrcp|magnetic resonance imaging (MRI)]], or EUS alternating with MRI — chosen by patient preference and local expertise (conditional, very low quality).
 
 ## Therapeutics
 
@@ -66,7 +66,7 @@ Syndromes that must be excluded before calling a kindred FPC — each has its ow
 - **Who:** **all first-degree relatives** of affected family members.
 - **When to start:** age **50**, or **10 years earlier** than the youngest relative with pancreatic cancer — whichever comes first.
 - **Interval:** annual (conditional, very low quality).
-- **Why 50 and not earlier:** screening starts **1 SD below** the mean age of diagnosis for the population; conditions conferring ≥10 relative risk ([[fammm-syndrome|FAMMM]], [[peutz-jeghers-syndrome|Peutz-Jeghers]]) start **2 SD below**, which is why their start ages are 40 and 35.
+- **Why 50 and not earlier:** screening starts **1 standard deviation (SD) below** the mean age of diagnosis for the population; conditions conferring ≥10 relative risk ([[fammm-syndrome|FAMMM]], [[peutz-jeghers-syndrome|Peutz-Jeghers]]) start **2 SD below**, which is why their start ages are 40 and 35.
 
 ---
 

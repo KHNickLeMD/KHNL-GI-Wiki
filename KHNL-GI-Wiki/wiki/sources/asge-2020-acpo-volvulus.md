@@ -17,11 +17,11 @@ sources: []
 
 ## Summary
 
-A focused ASGE update on the endoscopic evaluation and management of the two main causes of **benign large-bowel obstruction**: colonic volvulus and acute colonic pseudo-obstruction (ACPO / Ogilvie's syndrome). Colonic volvulus is a true mechanical twist of redundant colon along its mesenteric axis (most often sigmoid, less often cecum); ACPO is a functional dilatation from altered autonomic regulation of colonic motility without mechanical blockage. Prompt diagnosis and intervention improve outcomes for both.
+A focused American Society for Gastrointestinal Endoscopy (ASGE) update on the endoscopic evaluation and management of the two main causes of **benign large-bowel obstruction**: colonic volvulus and acute colonic pseudo-obstruction (ACPO / Ogilvie's syndrome). Colonic volvulus is a true mechanical twist of redundant colon along its mesenteric axis (most often sigmoid, less often cecum); ACPO is a functional dilatation from altered autonomic regulation of colonic motility without mechanical blockage. Prompt diagnosis and intervention improve outcomes for both.
 
 For **sigmoid volvulus**, endoscopic detorsion (flexible sigmoidoscopy ± decompression-tube placement) is first-line in the uncomplicated patient, but because recurrence after nonoperative decompression is very high (up to ~84–86%), surgical consultation for elective sigmoid colectomy during the index admission is advised. For **cecal volvulus**, surgery is the initial treatment and endoscopy is avoided (high perforation risk). Any colon volvulus with perforation or peritonitis → surgery.
 
-For **ACPO**, uncomplicated cases (no ischemia/peritonitis, cecal diameter <12 cm, no significant pain) are managed conservatively (correct metabolic/infectious/pharmacologic contributors, NPO, NG decompression, ambulation) for up to 48–72 h. Failure, non-candidacy, or perforation risk → **neostigmine 2 mg IV over 3–5 min** with cardiac monitoring (second dose, then alternative routes if refractory), or **endoscopic decompression with decompression-tube placement** when neostigmine is unsuitable. Perforation or peritonitis → surgery.
+For **ACPO**, uncomplicated cases (no ischemia/peritonitis, cecal diameter <12 cm, no significant pain) are managed conservatively (correct metabolic/infectious/pharmacologic contributors, nil per os (NPO), nasogastric (NG) decompression, ambulation) for up to 48–72 h. Failure, non-candidacy, or perforation risk → **neostigmine 2 mg intravenous (IV) over 3–5 min** with cardiac monitoring (second dose, then alternative routes if refractory), or **endoscopic decompression with decompression-tube placement** when neostigmine is unsuitable. Perforation or peritonitis → surgery.
 
 ## Key Findings / Claims
 
@@ -39,11 +39,11 @@ For **ACPO**, uncomplicated cases (no ischemia/peritonitis, cecal diameter <12 c
 10. For patients with **ACPO with overt perforation or signs of peritonitis**, we recommend **surgical management**. (+++)
 
 **Supporting data points:**
-- Contrast-enhanced **CT** has replaced plain films/contrast enema as the preferred study; CT ~100% sensitive, >90% specific for sigmoid volvulus (plain films diagnostic in ~60%).
+- Contrast-enhanced **computed tomography (CT)** has replaced plain films/contrast enema as the preferred study; CT ~100% sensitive, >90% specific for sigmoid volvulus (plain films diagnostic in ~60%).
 - Sigmoid-volvulus recurrence after nonoperative decompression up to 84–86% (one cohort: 84% within median 58 days).
 - Volvulus risk factors: long redundant colon with narrow mesentery, constipation, colonic dysmotility, prior abdominal surgery; cecal volvulus more common in younger females.
 - ACPO incidence ~100/100,000 hospitalized; neostigmine effective in ~85–94%; spontaneous perforation risk rises with cecal diameter >10–12 cm and distention >6 days; ~10% have right-colon ischemia.
-- Neostigmine **absolute** contraindications: mechanical bowel/urinary obstruction, known hypersensitivity. **Relative**: bradycardia, asthma, renal insufficiency, peptic ulcer disease, recent MI, acidosis. Daily PEG via NG tube reduces recurrence.
+- Neostigmine **absolute** contraindications: mechanical bowel/urinary obstruction, known hypersensitivity. **Relative**: bradycardia, asthma, renal insufficiency, peptic ulcer disease, recent myocardial infarction, acidosis. Daily polyethylene glycol (PEG) via NG tube reduces recurrence.
 - PEC (percutaneous endoscopic colostomy) / endoscopic sigmoidopexy for poor surgical candidates with recurrent sigmoid volvulus carry high adverse-event rates (PEC: ~21% morbidity, ~5% mortality).
 
 ## Relevance to Wiki

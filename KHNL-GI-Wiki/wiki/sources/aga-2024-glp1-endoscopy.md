@@ -13,11 +13,11 @@ sources: []
 - **Year:** 2024
 - **Journal/Publisher:** Clinical Gastroenterology and Hepatology
 - **DOI:** [10.1016/j.cgh.2023.11.002](https://doi.org/10.1016/j.cgh.2023.11.002)
-- **Type:** guideline (AGA Rapid Clinical Practice Update — Communication; expert opinion, no formal GRADE rating)
+- **Type:** guideline (American Gastroenterological Association [AGA] Rapid Clinical Practice Update — Communication; expert opinion, no formal Grading of Recommendations Assessment, Development and Evaluation [GRADE] rating)
 
 ## Summary
 
-GLP-1 receptor agonists (GLP-1 RAs; semaglutide, tirzepatide, exenatide, liraglutide, dulaglutide, albiglutide, lixisenatide) slow gastric emptying, raising concern for **retained gastric contents and aspiration** in sedated patients undergoing endoscopy — particularly upper endoscopy. In June 2023 the American Society of Anesthesiologists (ASA) released **consensus-based** perioperative guidance to hold GLP-1 RAs periprocedurally, prompting widespread procedure cancellations/postponements. This AGA Rapid CPU responds to that dilemma.
+Glucagon-like peptide-1 (GLP-1) receptor agonists (GLP-1 RAs; semaglutide, tirzepatide, exenatide, liraglutide, dulaglutide, albiglutide, lixisenatide) slow gastric emptying, raising concern for **retained gastric contents and aspiration** in sedated patients undergoing endoscopy — particularly upper endoscopy. In June 2023 the American Society of Anesthesiologists (ASA) released **consensus-based** perioperative guidance to hold GLP-1 RAs periprocedurally, prompting widespread procedure cancellations/postponements. This AGA Rapid Clinical Practice Update (CPU) responds to that dilemma.
 
 The AGA emphasizes that the ASA guidance is **expert opinion, not evidence-based** (insufficient data for a GRADE-rated recommendation), and that overapplication may cause unintended harm — added cost, nursing burden, and worsened endoscopy access delays. The AGA endorses an **individualized approach** rather than routine drug cessation, and co-signed the multisociety statement "No data to support stopping GLP-1 agonists prior to elective endoscopy."
 
@@ -28,8 +28,8 @@ Evidence is limited: case reports and small studies show increased gastric resid
 **ASA consensus-based perioperative guidance (quoted in the CPU):**
 - **Daily-dosed** GLP-1 RA → consider **holding on the day** of the procedure/surgery.
 - **Weekly-dosed** GLP-1 RA → consider **holding 1 week prior** to the procedure/surgery.
-- Applies **irrespective of indication** (T2DM or weight loss), dose, or procedure type.
-- If not held but patient has **no GI symptoms** → proceed with **"full stomach" precautions**.
+- Applies **irrespective of indication** (type 2 diabetes mellitus [T2DM] or weight loss), dose, or procedure type.
+- If not held but patient has **no gastrointestinal (GI) symptoms** → proceed with **"full stomach" precautions**.
 
 **AGA clinical strategies (individualized; expert opinion):**
 - Take an **individualized approach**; weigh the **indication** — stopping in a patient relying on a GLP-1 RA for **diabetes** may pose more risk than benefit (glycemic control matters before sedation/anesthesia).
@@ -42,12 +42,12 @@ Evidence is limited: case reports and small studies show increased gastric resid
 - Endorses multisociety guidance: patient safety is paramount; in the absence of actionable data, exercise best practices.
 
 **Physiology anchors:**
-- Liquid gastric emptying T½ ≈ **23 min**; fluid is readily aspirated/removed at EGD (first maneuver on entering the stomach).
+- Liquid gastric emptying T½ ≈ **23 min**; fluid is readily aspirated/removed at esophagogastroduodenoscopy (EGD) (first maneuver on entering the stomach).
 - Abnormal **solid** emptying = **>60% retention at 2 h** and **>10% retention at 4 h** on scintigraphy.
 - Severe gastroparesis pre–gastric peroral endoscopic myotomy (G-POEM): clear liquids only the day before (a stomach devoid of food is critical) — a separate, stricter scenario.
 
 ## Relevance to Wiki
-- Updates [[endoscopy-sedation]] (home for the periprocedural GLP-1 guidance — NPO/aspiration-risk section).
+- Updates [[endoscopy-sedation]] (home for the periprocedural GLP-1 guidance — nothing-by-mouth (NPO)/aspiration-risk section).
 - Cross-linked from [[upper-endoscopy]] and [[colonoscopy]] (pre-procedure preparation) and [[semaglutide]] (periprocedural management of a GLP-1 RA).
 
 ## Contradictions / Open Questions

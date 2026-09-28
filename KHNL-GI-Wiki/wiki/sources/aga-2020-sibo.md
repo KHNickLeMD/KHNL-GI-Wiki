@@ -16,9 +16,9 @@ sources: []
 - **Year:** 2020 (received May 20, 2020; accepted June 1, 2020; October 2020 issue)
 - **Journal/Publisher:** Gastroenterology 2020;159:1526–1532 — AGA Institute
 - **DOI:** [10.1053/j.gastro.2020.06.090](https://doi.org/10.1053/j.gastro.2020.06.090)
-- **Type:** Guideline — AGA Institute **Clinical Practice Update (Expert Review)**, 9 numbered Best Practice Advice statements. Commissioned and approved by the AGA Institute Clinical Practice Updates Committee (CPUC) and the AGA Governing Board; internal CPUC peer review plus external journal peer review. **Tier 1.**
+- **Type:** Guideline — American Gastroenterological Association (AGA) Institute **Clinical Practice Update (Expert Review)**, 9 numbered Best Practice Advice (BPA) statements. Commissioned and approved by the AGA Institute Clinical Practice Updates Committee (CPUC) and the AGA Governing Board; internal CPUC peer review plus external journal peer review. **Tier 1.**
 
-> **Grading:** none. **Methods, verbatim:** "Best Practice Advice statements were developed following discussion by the 3 authors. Two authors each developed text around certain Best Practice Advice based on a review of available literature. All 3 authors reviewed the complete draft and after discussion, redrafting, and further review and revision, all of the authors agreed on a final draft." No formal evidence rating, no GRADE, no voting/consensus threshold is reported. Do not attach strength or evidence-quality labels to these statements — the source gives none.
+> **Grading:** none. **Methods, verbatim:** "Best Practice Advice statements were developed following discussion by the 3 authors. Two authors each developed text around certain Best Practice Advice based on a review of available literature. All 3 authors reviewed the complete draft and after discussion, redrafting, and further review and revision, all of the authors agreed on a final draft." No formal evidence rating, no Grading of Recommendations Assessment, Development and Evaluation (GRADE), no voting/consensus threshold is reported. Do not attach strength or evidence-quality labels to these statements — the source gives none.
 
 ---
 
@@ -44,7 +44,7 @@ sources: []
 
 ## Best Practice Advice (Complete, Verbatim)
 
-All 9 statements as printed in the body of the article. (The abstract prints the same 9 with trivial wording variants — "where"/"in which" in BPA 1, "may be seen"/"can be seen" in BPA 2, "Management"/"Management of SIBO" in BPA 7. The body heading for BPA 8 is typeset as "Practice Advice 8"; the abstract labels it "BEST PRACTICE ADVICE 8".)
+All 9 statements on small intestinal bacterial overgrowth (SIBO) as printed in the body of the article. (The abstract prints the same 9 with trivial wording variants — "where"/"in which" in BPA 1, "may be seen"/"can be seen" in BPA 2, "Management"/"Management of SIBO" in BPA 7. The body heading for BPA 8 is typeset as "Practice Advice 8"; the abstract labels it "BEST PRACTICE ADVICE 8".)
 
 **Best Practice Advice 1.** The definition of SIBO as a clinical entity lacks precision and consistency; it is a term generally applied to a clinical disorder in which symptoms, clinical signs, and/or laboratory abnormalities are attributed to changes in the numbers of bacteria or in the composition of the bacterial population in the small intestine.
 
@@ -56,7 +56,7 @@ All 9 statements as printed in the body of the article. (The abstract prints the
 
 **Best Practice Advice 5.** A major impediment to our ability to accurately define SIBO is our limited understanding of normal small intestinal microbial populations — progress in sampling technology and techniques to enumerate bacterial populations and their metabolic products should provide much needed clarity.
 
-**Best Practice Advice 6.** Controversy remains concerning the role of SIBO in the pathogenesis of common functional symptoms, such as those regarded as components of IBS.
+**Best Practice Advice 6.** Controversy remains concerning the role of SIBO in the pathogenesis of common functional symptoms, such as those regarded as components of IBS [irritable bowel syndrome].
 
 **Best Practice Advice 7.** Management of SIBO should focus on the identification and correction (where possible) of underlying causes, correction of nutritional deficiencies, and the administration of antibiotics. This is especially important for patients with significant maldigestion and malabsorption.
 
@@ -73,7 +73,7 @@ Reproduced with the source's own six pathophysiologic columns. The column a diso
 | Abnormal small intestinal motility | Anatomic abnormalities | Hypochlorhydria | Immune deficiency | Multifactorial | Relationship to SIBO unclear |
 |---|---|---|---|---|---|
 | Diabetic autonomic neuropathy | Small intestinal diverticulosis | Post-surgical | Inherited immune deficiencies (eg, common variable immunodeficiency) | Chronic pancreatitis | Rosacea |
-| Systemic sclerosis/scleroderma | Surgically-induced alterations in anatomy (Billroth II gastrectomy, bariatric surgery, end-to-side anastomosis) | Long-term acid suppression | Acquired immune deficiency (eg, AIDS, severe malnutrition) | Celiac disease | Interstitial cystitis |
+| Systemic sclerosis/scleroderma | Surgically-induced alterations in anatomy (Billroth II gastrectomy, bariatric surgery, end-to-side anastomosis) | Long-term acid suppression | Acquired immune deficiency (eg, AIDS [acquired immunodeficiency syndrome], severe malnutrition) | Celiac disease | Interstitial cystitis |
 | Amyloidosis | Strictures (Crohn's disease, radiation, surgery) | | | Diabetes mellitus | Restless legs syndrome |
 | Hypothyroidism | Blind loops | | | Tropical sprue | Parkinson's disease |
 | Idiopathic intestinal pseudo-obstruction | Gastrocolic or jejunocolic fistula | | | Crohn's disease | Erosive esophagitis |
@@ -116,7 +116,7 @@ The article frames this as "a list of antibiotic regimens that **have been used*
 | Causes of SIBO | There are a number of causes of SIBO |
 | Causes of SIBO | A good rule is to consider SIBO any time there is small intestinal stasis |
 | Causes of SIBO | There is evidence for SIBO being present in a subset of IBS subjects |
-| Diagnosis | Culture is considered the gold standard with new guidance suggesting a cutoff of >10³ CFU of coliforms/mL in duodenal aspirates |
+| Diagnosis | Culture is considered the gold standard with new guidance suggesting a cutoff of >10³ colony-forming units (CFU) of coliforms/mL in duodenal aspirates |
 | Diagnosis | Breath testing (lactulose and glucose) is most commonly used to diagnose SIBO and appears to identify subjects likely to respond to treatment |
 | Diagnosis | Methane on breath testing is defined differently and now termed intestinal methanogen overgrowth |
 | Treatment | Antibiotics are currently the mainstay of treatment |
@@ -125,7 +125,7 @@ The article frames this as "a list of antibiotic regimens that **have been used*
 
 ## Summary
 
-This AGA Clinical Practice Update is a deliberately deflationary document. Where the [[acg-2020-sibo|ACG 2020 guideline]] issues graded recommendations for whom to breath-test and how to treat, this CPU sets out to show that SIBO's definition "lacks precision and consistency" (BPA 1), that the small bowel microbiome is not yet characterized well enough to define the disorder (BPA 5), and that both the diagnostic tests and the antibiotic strategies rest on a thin database (BPA 9). It provides a historical account of how the concept arose — blind loops, jejunal diverticulosis, fistulae, pseudo-obstruction, with a demonstrable malabsorption mechanism — and argues that this classical, structurally-driven SIBO accounts for only "a small minority of those diagnosed with SIBO today."
+This AGA Clinical Practice Update (CPU) is a deliberately deflationary document. Where the [[acg-2020-sibo|American College of Gastroenterology (ACG) 2020 guideline]] issues graded recommendations for whom to breath-test and how to treat, this CPU sets out to show that SIBO's definition "lacks precision and consistency" (BPA 1), that the small bowel microbiome is not yet characterized well enough to define the disorder (BPA 5), and that both the diagnostic tests and the antibiotic strategies rest on a thin database (BPA 9). It provides a historical account of how the concept arose — blind loops, jejunal diverticulosis, fistulae, pseudo-obstruction, with a demonstrable malabsorption mechanism — and argues that this classical, structurally-driven SIBO accounts for only "a small minority of those diagnosed with SIBO today."
 
 On diagnosis, the CPU adopts the ACG's definition by citation ("the presence of excessive numbers of bacteria in the small bowel, causing gastrointestinal symptoms") and reports the North American Consensus culture threshold of **>10³ CFU/mL coliforms on fresh aspirate culture**, contextualizing it: normal subjects "rarely exceed 10² CFU/mL," and the older **>10⁵ CFU/mL** standard was "derived from subjects with altered intestinal anatomy." **It gives no breath-test cutoff of its own, no substrate preference, and no substrate dose.** Its treatment of breath testing is a list of objections: it "has lacked universal acceptance," "was never fully validated compared with culture," suffers "wide discrepancies in thresholds for defining a positive breath test result," and a proposed 2-H₂-peak criterion "has not been validated."
 
@@ -151,7 +151,7 @@ The most consequential clinical reversal is on symptoms. Where ACG's Key Concept
 
 - Duodenal aspiration requires invasive access (upper endoscopy); the sample must be acquired without oral-flora contamination as the scope passes the mouth.
 - Standardized quantitative small-intestinal culture "long resided in a few academic medical centers"; not easily reproduced in community microbiology labs.
-- Improved method: **double-lumen custom protected catheter** passed through the scope, mitigating contamination from the upper GI tract.
+- Improved method: **double-lumen custom protected catheter** passed through the scope, mitigating contamination from the upper gastrointestinal tract.
 - Small intestinal fluid is mucoid, impeding isolation/culture and DNA extraction. Treating aspirates with the mucolytic **dithiothreitol** increased yields for culture, library preparation, and sequencing.
 
 ### Breath testing — what the CPU does and does not say
@@ -193,9 +193,9 @@ The most consequential clinical reversal is on symptoms. Where ACG's Key Concept
 
 ### SIBO and IBS
 
-- Systematic review/meta-analysis: SIBO more common in IBS than matched controls — **odds ratio 4.9** on breath testing; **up to 33.5%** of IBS subjects had SIBO **based on culture** vs **8.2%** in controls.
+- Systematic review/meta-analysis: SIBO more common in IBS than matched controls — **odds ratio (OR) 4.9** on breath testing; **up to 33.5%** of IBS subjects had SIBO **based on culture** vs **8.2%** in controls.
 - Same meta-analysis: **lactulose breath testing yielded a higher rate of positive results than culture or glucose breath testing** — i.e. substrate choice changes the answer.
-- CH₄-positive breath tests are linked to **constipation-predominant IBS**; SIBO is associated with IBS with diarrhea.
+- CH₄-positive breath tests are linked to **constipation-predominant IBS**; SIBO is associated with IBS with diarrhea (IBS-D).
 - Phase 3 studies support rifaximin in IBS-D. Response may relate to SIBO: baseline **positive breath test → 59.7% improved** vs **negative breath test → 29.8%**.
 - Stated limitation of that finding: breath testing was conducted in only a small subset of IBS subjects.
 - BPA 6 and BPA 8 both preserve the uncertainty — the role of SIBO in functional symptoms remains controversial, and rifaximin's IBS benefit is not established to work via SIBO eradication.
@@ -208,8 +208,8 @@ The most consequential clinical reversal is on symptoms. Where ACG's Key Concept
 - **Duration:** "In general, a single **7- to 10-day course** improves symptoms for up to several months in **46%–90%** of patients with SIBO and renders breath tests negative in **20%–75%**."
 - **Rifaximin:** meta-analysis reported an overall **70% eradication rate** in SIBO. Trial dosing "ranged from 800 mg/d for 4 weeks to 1200 mg/d for 7 days." Table 2 regimen: **800–1200 mg daily in divided doses**.
 - Practical barrier: "SIBO is not a recognized indication for this antibiotic and might not be covered by the patient's insurance carrier" (United States).
-- **IMO:** "One uncontrolled trial suggested that the combination of **neomycin and rifaximin** might be effective." No doses are given in this source.
-- **Recurrence: up to 44% at 9 months** after one antibiotic course; more likely among **older subjects, those who have undergone an appendectomy, and those with a history of chronic proton pump inhibitor use**.
+- **Intestinal methanogen overgrowth (IMO):** "One uncontrolled trial suggested that the combination of **neomycin and rifaximin** might be effective." No doses are given in this source.
+- **Recurrence: up to 44% at 9 months** after one antibiotic course; more likely among **older subjects, those who have undergone an appendectomy, and those with a history of chronic proton pump inhibitor (PPI) use**.
 - For recurrent symptoms, some patients need **repeated (eg, the first 5–10 days of every month) or continuous** courses. For continuous therapy, **rotating antibiotic regimens are recommended to prevent the development of resistance**.
 - Individualize; weigh **diarrhea, *Clostridium difficile* infection, intolerance, and cost**.
 - **Post-treatment testing, verbatim:** "It is not necessary to repeat diagnostic tests for SIBO after antibiotic therapy should gastrointestinal symptoms respond."
@@ -254,7 +254,7 @@ Agreements worth noting: both adopt the same clinical definition (the AGA CPU ci
 
 - Normal small intestinal microbial populations are not defined, so no threshold-based definition of SIBO can currently be validated (BPA 5). The definition will change with the technique used (culture vs next-generation sequencing).
 - Whether SIBO causes functional/IBS symptoms at all remains unresolved (BPA 6); the two best available datasets disagree, and the negative study used the older ≥10⁵ definition and an unprotected single-lumen catheter — so the disagreement may be methodological rather than biological.
-- Whether rifaximin's benefit in IBS-D operates through SIBO eradication needs RCT confirmation (BPA 8); the supporting breath-test data come from a small subset.
+- Whether rifaximin's benefit in IBS-D operates through SIBO eradication needs randomized controlled trial (RCT) confirmation (BPA 8); the supporting breath-test data come from a small subset.
 - No antibiotic regimen has a comparative evidence base; the whole of Table 2 is "regimens that have been used," not regimens shown to work.
 - Retreatment/maintenance strategy (monthly pulses, continuous rotation) is offered without trial support, against an explicit warning about long-term broad-spectrum antibiotic risk (BPA 9).
 

@@ -21,11 +21,11 @@ sources: []
 
 ## Summary
 
-This joint AASLD/EASL practice guideline standardizes the terminology, classification, diagnosis, and treatment of hepatic encephalopathy in chronic liver disease in adults. The focus is Type C HE (cirrhosis-related) and Type B HE (portosystemic shunting without intrinsic hepatocellular disease); Type A (ALF-associated HE) is covered separately. The guideline explicitly acknowledges the high degree of heterogeneity in prior literature due to inconsistent definitions and grading, and aims to provide a framework to address this.
+This joint American Association for the Study of Liver Diseases (AASLD)/European Association for the Study of the Liver (EASL) practice guideline standardizes the terminology, classification, diagnosis, and treatment of hepatic encephalopathy (HE) in chronic liver disease (CLD) in adults. The focus is Type C HE (cirrhosis-related) and Type B HE (portosystemic shunting without intrinsic hepatocellular disease); Type A (acute liver failure [ALF]–associated HE) is covered separately. The guideline explicitly acknowledges the high degree of heterogeneity in prior literature due to inconsistent definitions and grading, and aims to provide a framework to address this.
 
 The guideline adopts the ISHEN (International Society for Hepatic Encephalopathy and Nitrogen Metabolism) classification system — characterizing HE on four axes simultaneously: underlying disease type (A/B/C), severity (Minimal/Covert/West Haven Grades 1–4), time course (episodic/recurrent/persistent), and precipitating factors (spontaneous or precipitated/specify).
 
-Treatment strategy centers on a "four-pronged approach" for overt HE: (1) clinical care of altered consciousness, (2) exclude non-HE causes of AMS, (3) identify and correct precipitants, (4) empirical HE treatment — with lactulose as first-line and rifaximin as add-on for secondary prophylaxis. Protein restriction is explicitly opposed (1.2–1.5 g/kg/day recommended). Late-night snacks are recommended (Grade I, A, 1).
+Treatment strategy centers on a "four-pronged approach" for overt HE: (1) clinical care of altered consciousness, (2) exclude non-HE causes of altered mental status (AMS), (3) identify and correct precipitants, (4) empirical HE treatment — with lactulose as first-line and rifaximin as add-on for secondary prophylaxis. Protein restriction is explicitly opposed (1.2–1.5 g/kg/day recommended). Late-night snacks are recommended (Grade I, A, 1).
 
 ---
 
@@ -33,13 +33,13 @@ Treatment strategy centers on a "four-pronged approach" for overt HE: (1) clinic
 
 **Recommendations 1–9 (Diagnosis/Classification):**
 
-1. HE should be classified according to: (1) type of underlying disease, (2) severity of manifestations, (3) time course, and (4) precipitating factors — GRADE III, A, 1
+1. HE should be classified according to: (1) type of underlying disease, (2) severity of manifestations, (3) time course, and (4) precipitating factors — Grading of Recommendations Assessment, Development and Evaluation (GRADE) III, A, 1
 2. A diagnostic workup is required, considering other disorders that can alter brain function and mimic HE — GRADE II-2, A, 1
 3. HE should be treated as a continuum ranging from unimpaired cognitive function through coma — GRADE III, A, 1
 4. The diagnosis of HE is through exclusion of other causes of brain dysfunction — GRADE II-2, A, 1
 5. HE should be divided into various stages of severity reflecting the degree of self-sufficiency and need for care — GRADE III, B, 1
-6. OHE is diagnosed by clinical criteria and can be graded according to the WHC and the GCS — GRADE II-2, B, 1
-7. The diagnosis and grading of MHE and CHE can be made using several neurophysiological and psychometric tests that should be performed by experienced examiners — GRADE II-2, B, 1
+6. OHE [overt hepatic encephalopathy] is diagnosed by clinical criteria and can be graded according to the WHC [West Haven criteria] and the GCS [Glasgow Coma Scale] — GRADE II-2, B, 1
+7. The diagnosis and grading of MHE [minimal hepatic encephalopathy] and CHE [covert hepatic encephalopathy] can be made using several neurophysiological and psychometric tests that should be performed by experienced examiners — GRADE II-2, B, 1
 8. Testing for MHE and CHE could be used in patients who would most benefit from testing, such as those with impaired quality of life or implication on employment or public safety — GRADE III, B, 2
 9. Increased blood ammonia alone does NOT add any diagnostic, staging, or prognostic value for HE in patients with CLD. A normal value calls for diagnostic reevaluation — GRADE II-3, A, 1
 
@@ -47,7 +47,7 @@ Treatment strategy centers on a "four-pronged approach" for overt HE: (1) clinic
 10. An episode of OHE (whether spontaneous or precipitated) should be actively treated — GRADE II-2, A, 1
 11. Secondary prophylaxis after an episode of OHE is recommended — GRADE I, A, 1
 12. Primary prophylaxis for prevention of episodes of OHE is NOT required, except in patients with cirrhosis with a known high risk to develop HE — GRADE II-3, C, 2
-13. Recurrent intractable OHE, together with liver failure, is an indication for LT — GRADE I (quality and strength not specified)
+13. Recurrent intractable OHE, together with liver failure, is an indication for LT [liver transplantation] — GRADE I (quality and strength not specified)
 
 *Recommendations 14–17 are the four-pronged approach, graded once as a set: "A four-pronged approach to management of HE is recommended (GRADE II-2, A, 1)." The four components carry no individual grades.*
 
@@ -60,14 +60,14 @@ Treatment strategy centers on a "four-pronged approach" for overt HE: (1) clinic
 18. Identify and treat precipitating factors for HE — GRADE II-2, A, 1
 19. Lactulose is the first choice for treatment of episodic OHE — GRADE II-1, B, 1
 20. Rifaximin is an effective add-on therapy to lactulose for prevention of OHE recurrence — GRADE I, A, 1
-21. Oral BCAAs can be used as an alternative or additional agent to treat patients non-responsive to conventional therapy — GRADE I, B, 2
-22. IV LOLA can be used as an alternative or additional agent to treat patients non-responsive to conventional therapy — GRADE I, B, 2
+21. Oral BCAAs [branched-chain amino acids] can be used as an alternative or additional agent to treat patients non-responsive to conventional therapy — GRADE I, B, 2
+22. IV [intravenous] LOLA [L-ornithine L-aspartate] can be used as an alternative or additional agent to treat patients non-responsive to conventional therapy — GRADE I, B, 2
 23. Neomycin is an alternative choice for treatment of OHE — GRADE II-1, B, 2
 24. Metronidazole is an alternative choice for treatment of OHE — GRADE II-3, B, 2
 25. Lactulose is recommended for prevention of recurrent episodes of HE after the initial episode — GRADE II-1, A, 1
 26. Rifaximin as an add-on to lactulose is recommended for prevention of recurrent episodes of HE after the second episode — GRADE I, A, 1
-27. Routine prophylactic therapy (lactulose or rifaximin) is NOT recommended for prevention of post-TIPS HE — GRADE III, B, 1
-28. Under circumstances where precipitating factors have been well controlled (infections/VB) OR liver function or nutritional status improved, prophylactic therapy may be discontinued — GRADE III, C, 2
+27. Routine prophylactic therapy (lactulose or rifaximin) is NOT recommended for prevention of post-TIPS [transjugular intrahepatic portosystemic shunt] HE — GRADE III, B, 1
+28. Under circumstances where precipitating factors have been well controlled (infections/VB [variceal bleeding]) OR liver function or nutritional status improved, prophylactic therapy may be discontinued — GRADE III, C, 2
 29. Treatment of MHE and CHE is NOT routinely recommended apart from a case-by-case basis — GRADE II-2, B, 1
 
 **Recommendations 30–33 (Nutrition):**
@@ -84,12 +84,12 @@ Every case is described by one component from each axis; the full West Haven/ISH
 
 | Axis | Categories | Operative detail given by the guideline |
 |---|---|---|
-| Underlying disease | Type **A** / **B** / **C** | A = [[acute-liver-failure\|ALF]] (managed under separate ALF guidance, may raise ICP, not covered here); B = portosystemic bypass/shunting without intrinsic hepatocellular disease; C = [[cirrhosis]]. B and C present alike |
+| Underlying disease | Type **A** / **B** / **C** | A = [[acute-liver-failure\|ALF]] (managed under separate ALF guidance, may raise intracranial pressure [ICP], not covered here); B = portosystemic bypass/shunting without intrinsic hepatocellular disease; C = [[cirrhosis]]. B and C present alike |
 | Severity | Unimpaired → Minimal → Grades 1–4 (West Haven); **Covert** = Minimal + Grade 1, **Overt** = Grades 2–4 | Onset of disorientation or asterixis marks the onset of OHE. Disorientation and asterixis have good inter-rater reliability; Grade 1 does not |
 | Time course | Episodic / **Recurrent** / **Persistent** | Recurrent = bouts recurring at an interval of **6 months or less**. Persistent = behavioral alterations always present, interspersed with relapses of overt HE |
-| Precipitating factors | Nonprecipitated / **Precipitated (specify)** | Episodic OHE, by decreasing frequency: infections, GI bleeding, diuretic overdose, electrolyte disorder, constipation, unidentified. Recurrent OHE: electrolyte disorder, infections, unidentified, constipation, diuretic overdose, GI bleeding |
+| Precipitating factors | Nonprecipitated / **Precipitated (specify)** | Episodic OHE, by decreasing frequency: infections, gastrointestinal (GI) bleeding, diuretic overdose, electrolyte disorder, constipation, unidentified. Recurrent OHE: electrolyte disorder, infections, unidentified, constipation, diuretic overdose, GI bleeding |
 
-**Tests named for MHE/CHE (Recommendation 7).** No single test is valid across the spectrum, so use **at least two**, one of which should be widely accepted enough to serve as a comparator — in practice paper-pencil (**PHES**) plus one computerized (**CRT**, **ICT**, **SCAN**, or **Stroop**) or neurophysiological (**CFF** or **EEG**) test. Test only patients without confounders (neuropsychiatric disease, psychoactive medication, current alcohol use); repeat in 6 months if normal. A positive test before stopping HE drug therapy identifies patients at risk of recurrent HE.
+**Tests named for MHE/CHE (Recommendation 7).** No single test is valid across the spectrum, so use **at least two**, one of which should be widely accepted enough to serve as a comparator — in practice paper-pencil (**Psychometric Hepatic Encephalopathy Score [PHES]**) plus one computerized (**continuous reaction time [CRT]**, **inhibitory control test [ICT]**, **SCAN**, or **Stroop**) or neurophysiological (**critical flicker frequency [CFF]** or **electroencephalography [EEG]**) test. Test only patients without confounders (neuropsychiatric disease, psychoactive medication, current alcohol use); repeat in 6 months if normal. A positive test before stopping HE drug therapy identifies patients at risk of recurrent HE.
 
 ## Key Clinical Data Points
 
@@ -112,16 +112,16 @@ Every case is described by one component from each axis; the full West Haven/ISH
 ## Relevance to Wiki
 
 - Primary entity page: [[hepatic-encephalopathy]] — carries all 33 recommendations
-- Supports: [[portal-hypertension]] (HE as decompensation event; TIPS-related HE), [[acute-on-chronic-liver-failure]] (brain failure GS 6–11 in AASLD 2024 ACLF are consistent with this guideline's framework), [[aki-in-cirrhosis]] (hyponatremia + AKI as HE precipitants), [[rifaximin]] (secondary prophylaxis indication), [[liver-transplantation]] (HE as LT indication)
+- Supports: [[portal-hypertension]] (HE as decompensation event; TIPS-related HE), [[acute-on-chronic-liver-failure]] (brain failure guidance statements [GS] 6–11 in AASLD 2024 acute-on-chronic liver failure [ACLF] guidance are consistent with this guideline's framework), [[aki-in-cirrhosis]] (hyponatremia + acute kidney injury [AKI] as HE precipitants), [[rifaximin]] (secondary prophylaxis indication), [[liver-transplantation]] (HE as LT indication)
 
 ---
 
 ## Contradictions / Open Questions
 
-- **Protein restriction:** This 2014 guideline endorses 1.2–1.5 g/kg/day; AASLD 2024 ACLF GS 42 endorses 1.2–2.0 g/kg IBW/day in critically ill ACLF. Both oppose protein restriction. Consistent direction, ACLF endpoint is higher.
+- **Protein restriction:** This 2014 guideline endorses 1.2–1.5 g/kg/day; AASLD 2024 ACLF GS 42 endorses 1.2–2.0 g/kg ideal body weight (IBW)/day in critically ill ACLF. Both oppose protein restriction. Consistent direction, ACLF endpoint is higher.
 - **Rifaximin dosing post-TIPS:** Neither rifaximin nor lactulose prevents post-TIPS HE (Grade III, B, 1). Careful patient selection (prior recurrent HE = relative TIPS contraindication) is the preferred strategy.
 - **Ammonia monitoring in ACLF:** This 2014 guideline: ammonia adds no value in CLD. AASLD 2024 ACLF GS 11: routine ammonia NOT recommended in ACLF. Entirely consistent.
-- **Newer agents:** ornithine phenylacetate had been studied but further clinical reports were awaited at publication. Glyceryl phenylbutyrate was tested in one RCT in patients with ≥2 HE episodes in the prior 6 months on standard therapy, with fewer HE episodes and hospitalizations and longer time to first event; the guideline calls for confirmation before a clinical recommendation.
+- **Newer agents:** ornithine phenylacetate had been studied but further clinical reports were awaited at publication. Glyceryl phenylbutyrate was tested in one randomized controlled trial (RCT) in patients with ≥2 HE episodes in the prior 6 months on standard therapy, with fewer HE episodes and hospitalizations and longer time to first event; the guideline calls for confirmation before a clinical recommendation.
 - **Lactulose's own evidence base is weak:** a large meta-analysis did not fully support lactulose as a therapeutic agent for OHE, though it excluded the largest trials for technical reasons; most recent lactulose trials were open-label. Lactitol is preferred in some centres. Flumazenil transiently improves mental status without improving recovery or survival. Simple laxatives alone lack the prebiotic effect of the disaccharides. Probiotics could not be recommended as therapeutic options.
 
 ## See Also

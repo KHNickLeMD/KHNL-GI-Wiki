@@ -18,7 +18,7 @@ sources: []
 - **DOI:** [10.1053/j.gastro.2018.03.031](https://doi.org/10.1053/j.gastro.2018.03.031)
 - **Type:** Guideline tier — AGA **Clinical Practice Update: Commentary**. **Tier 1.**
 
-> **Ungraded — the source attaches no evidence grade or strength to any statement.** This is a **Commentary**, not an AGA Expert Review: it contains **no Best Practice Advice statements, no GRADE or evidence-quality ratings, and no strength-of-recommendation labels.** Its only formal recommendations are the **four numbered items** (item 2 carrying a single lettered sub-item **2a**) printed under the heading *"Present and Future Recommendations"*, reproduced verbatim below. Nothing in this document may be cited as a graded or Best-Practice-Advice AGA recommendation, because the document creates none.
+> **Ungraded — the source attaches no evidence grade or strength to any statement.** This is a **Commentary**, not an American Gastroenterological Association (AGA) Expert Review: it contains **no Best Practice Advice statements, no Grading of Recommendations Assessment, Development and Evaluation (GRADE) or evidence-quality ratings, and no strength-of-recommendation labels.** Its only formal recommendations are the **four numbered items** (item 2 carrying a single lettered sub-item **2a**) printed under the heading *"Present and Future Recommendations"*, reproduced verbatim below. Nothing in this document may be cited as a graded or Best-Practice-Advice AGA recommendation, because the document creates none.
 
 ---
 
@@ -49,7 +49,7 @@ sources: []
 
 Reproduced exactly as numbered in the source. **No grades, no strength labels, no evidence levels are attached to any of them.**
 
-> **1.** We support the current recommendation of GI societies that screening endoscopy for Barrett's esophagus should be performed only in a well-defined, high-risk population.
+> **1.** We support the current recommendation of GI [gastrointestinal] societies that screening endoscopy for Barrett's esophagus should be performed only in a well-defined, high-risk population.
 >
 > **2.** We do not recommend the use of any alternative test to screen for Barrett's esophagus at this time.
 >
@@ -67,7 +67,7 @@ Recreated from the source. The scales are the source's own qualitative marks (`+
 
 | Test | Patient Convenience | Screening Accuracy | Surveillance Accuracy | Cost | Transportability | Patient Acceptance |
 |---|---|---|---|---|---|---|
-| HD White Light Endoscopy | + | ++++ | ++++ | $$$$ | + | ++ |
+| High-definition (HD) White Light Endoscopy | + | ++++ | ++++ | $$$$ | + | ++ |
 | Trans-nasal Endoscopy | ++ | ++++ | ++ | $$$ | ++ | ++ |
 | Capsule Endoscopy | ++ | +++ | + | $$$ | +++ | ++ |
 | Capsule Endomicroscopy | ++ | +++ | + | $$$ | +++ | ++ |
@@ -83,12 +83,12 @@ Reading the table: **only HD white light endoscopy scores top marks for surveill
 ## Why the Current Screening Strategy Underperforms
 
 - Population-based endoscopic screening **has not been recommended except in those with multiple risk factors** — high body mass index, male gender, white race, chronic reflux, family history.
-- **Fewer than 10%** of patients with EAC have a prior diagnosis of Barrett's esophagus; **>90%** of patients diagnosed with EAC are not known to have Barrett's before their cancer diagnosis.
-- **~40%** of patients with EAC describe **no antecedent history of GERD**, and **~50%** of patients with short-segment Barrett's — a lower-risk lesion — have no GERD symptoms whatsoever. A screening program limited to GERD symptoms "must miss a considerable percentage of high-risk patients."
+- **Fewer than 10%** of patients with esophageal adenocarcinoma (EAC) have a prior diagnosis of Barrett's esophagus; **>90%** of patients diagnosed with EAC are not known to have Barrett's before their cancer diagnosis.
+- **~40%** of patients with EAC describe **no antecedent history of gastroesophageal reflux disease (GERD)**, and **~50%** of patients with short-segment Barrett's — a lower-risk lesion — have no GERD symptoms whatsoever. A screening program limited to GERD symptoms "must miss a considerable percentage of high-risk patients."
 - Among those with recurrent GERD symptoms, only a small proportion — **estimated at 10%** — undergo endoscopy in a given year.
 - Benefit of surveillance is contested:
   - Systematic review/meta-analysis of **51 studies, 11,028 subjects**: pooled relative mortality risk of **0.386** for surveillance-detected vs non-surveillance-detected EAC → a **61% decrease** in EAC mortality risk attributable to prior surveillance.
-  - **29,536** patients in the US National Veterans Affairs Database: EAC found in surveillance programs was significantly more likely to be early stage, with longer survival and lower cancer-related mortality.
+  - **29,536** patients in the US National Veterans Affairs (VA) Database: EAC found in surveillance programs was significantly more likely to be early stage, with longer survival and lower cancer-related mortality.
   - Countervailing case–control study — **38** Barrett's patients who died of EAC vs **101** age- and sex-matched living Barrett's controls — found **nearly identical** frequencies of surveillance endoscopy within a 3-year period (**55% vs 60%**), suggesting surveillance as conducted in routine practice "provides little to no benefit in preventing cancer deaths."
 - Downsides of endoscopic screening named: fiscal and psychological costs, possibility of adverse events, negative impact on quality of life, higher health and life insurance premiums, and identification of innocuous lesions that lead to potentially hazardous invasive treatments.
 
@@ -98,16 +98,16 @@ Reading the table: **only HD white light endoscopy scores top marks for surveill
 
 ### Demographic and Clinical Risk Models
 
-- Existing models are **only modestly discriminating** — AUROCs **0.61 to 0.75** for predicting the presence of Barrett's or future EAC risk.
+- Existing models are **only modestly discriminating** — areas under the receiver operating characteristic curve (AUROCs) **0.61 to 0.75** for predicting the presence of Barrett's or future EAC risk.
 - Adding **central obesity, smoking history and increasing age** to a history of weekly GERD symptoms improved the net reclassification index by **up to 25%**.
-- Thrift et al extended the model with **education level, body mass index, smoking status, frequency of GERD symptoms and/or acid-suppressant use, and frequency of NSAID use** → an absolute risk-assessment matrix for EAC in men with **AUROC 0.75 (95% CI 0.66–0.84)**.
+- Thrift et al extended the model with **education level, body mass index, smoking status, frequency of GERD symptoms and/or acid-suppressant use, and frequency of nonsteroidal anti-inflammatory drug (NSAID) use** → an absolute risk-assessment matrix for EAC in men with **AUROC 0.75 (95% confidence interval [CI] 0.66–0.84)**.
 - Adding **alarm symptoms (dysphagia, unexplained weight loss)** raised discrimination to **AUROC 0.85 (95% CI 0.78–0.91)** — and EAC risk was **>100-fold higher** in 50-year-old white men with long-standing GERD symptoms *with* alarm symptoms than without. **But once alarm symptoms are added, patients are beyond a curative stage.**
 - "The clinical usefulness of these models has not been established" — developed primarily as tools for managing public health risks rather than as diagnostic instruments. They have nevertheless influenced GI societies' rejection of indiscriminate screening of all GERD patients, and highlighted the **exceptionally low risk of EAC for women and young men**.
 
 ### Transnasal Endoscopy (TNE)
 
 - Thin, sheathed endoscopes; nasal passage causes far less gagging → **performed without sedation, in an ambulatory setting, with no requirement for sterilization** of the instrument between uses.
-- Community comparison of standard sedated endoscopy vs TNE:
+- Community comparison of standard sedated endoscopy vs transnasal endoscopy (TNE):
 
   | Endpoint | TNE | Standard sedated endoscopy |
   |---|---|---|
@@ -147,7 +147,7 @@ Reading the table: **only HD white light endoscopy scores top marks for surveill
 
 | Study / setting | n | Result |
 |---|---|---|
-| **BEST2** case–control, 11 UK hospitals | 1110 (463 controls with dyspepsia and reflux symptoms; 647 patients with Barrett's) | Intention-to-treat sensitivity (including inadequate-yield samples) **79.9%**; **87.2%** for patients with **≥3 cm of circumferential Barrett's**; **89.7% (95% CI 82.3%–94.8%)** for patients undergoing a **repeat** procedure. Highly favorable patient rating, no serious adverse events |
+| **BEST2** case–control, 11 UK hospitals | 1110 (463 controls with dyspepsia and reflux symptoms; 647 patients with Barrett's) | Intention-to-treat (ITT) sensitivity (including inadequate-yield samples) **79.9%**; **87.2%** for patients with **≥3 cm of circumferential Barrett's**; **89.7% (95% CI 82.3%–94.8%)** for patients undergoing a **repeat** procedure. Highly favorable patient rating, no serious adverse events |
 | Primary-care cohort of GERD patients on acid suppressants | >500 | Procedure safe; **99%** successfully swallowed the device |
 | Commercial Cytosponge (Medtronic, Dublin, Ireland) + TFF3, small prospective study | 73 | Overall sensitivity **91.5%** — comparable to BEST2 **because the population was enriched and inadequate samples were excluded** |
 | Acceptability | — | **82%** of participants reported low levels of anxiety before the test; Cytosponge rated favorably compared with endoscopy (**P < .001**); focus groups found it more comfortable and practical than endoscopy |
@@ -159,7 +159,7 @@ Reading the table: **only HD white light endoscopy scores top marks for surveill
 ### Liquid Biopsies
 
 - Blood test detecting circulating abnormal cells or their components (DNA, microRNA) — "the challenge has been to develop assays of sufficient sensitivity and specificity for clinical use."
-- miRNAs are small noncoding RNA molecules of approximately **21–25 nucleotides**.
+- MicroRNAs (miRNAs) are small noncoding RNA molecules of approximately **21–25 nucleotides**.
 - Systematic review identified **5 miRNAs (miRNA-192, -194, -203, -205, and -215)** as promising **tissue-derived** markers for diagnosing Barrett's.
 - Comparing Barrett's with esophagitis: **miRNA-194, -215, and -143** significantly increased in Barrett's — **not further validated in a larger population**.
 - Circulating **miRNA-194-5p and miRNA-451a significantly increased**, **miRNA-136-5p significantly decreased**, in Barrett's vs controls. In a validation study of **41 patients with Barrett's and 15 controls**, a combination of **4 circulating miRNAs (miRNA-95-3p, -136-5p, -194-5p, -451a)** distinguished Barrett's from controls with **sensitivity 78% and specificity 86%**.
@@ -221,7 +221,7 @@ Reading the table: **only HD white light endoscopy scores top marks for surveill
 
 This AGA Clinical Practice Update Commentary asks whether the newer, less invasive tools for detecting Barrett's esophagus are ready to replace screening endoscopy, and answers no — **not yet, and not for any of them.** The authors first dismantle the current strategy: fewer than 10% of patients with EAC carry a prior Barrett's diagnosis, ~40% have never had GERD symptoms, only ~10% of symptomatic GERD patients get endoscoped in a given year, and the surveillance literature is split between a meta-analysis showing a 61% relative reduction in EAC mortality and a case–control study showing nearly identical endoscopy frequencies in Barrett's patients who did and did not die of EAC.
 
-They then walk through eight alternatives — demographic/clinical risk models, transnasal endoscopy, video capsule endoscopy, tethered capsule endomicroscopy, Cytosponge-TFF3, liquid biopsy (circulating miRNA, autoantibodies), serum adipokines, and electronic nose breath testing — and summarize them in a single qualitative grid (Table 1) scoring convenience, screening accuracy, surveillance accuracy, cost, transportability and acceptance. Two come out ahead for different reasons: **TNE with a biopsy-capable instrument is called "a reasonable alternative to standard endoscopy as a screening tool"** (but explicitly not for dysplasia surveillance, because optical quality and chromoendoscopy are inferior), and **Cytosponge-TFF3 has the strongest efficacy, acceptability and cost-effectiveness dataset** (BEST2 sensitivity 79.9%, rising to 87.2% for ≥3 cm circumferential Barrett's and 89.7% on a repeat procedure; ICER $26,358–$33,307/QALY vs no screening, against $107,583–$330,361 for endoscopy vs Cytosponge). The rest — capsule endoscopy (no biopsy capability, 0.7%–2.2% retention, cost saving negated by device cost), tethered capsule endomicroscopy, miRNA panels, adipokines, and breath testing — are framed as promising but unvalidated.
+They then walk through eight alternatives — demographic/clinical risk models, transnasal endoscopy, video capsule endoscopy (VCE), tethered capsule endomicroscopy, Cytosponge-TFF3, liquid biopsy (circulating miRNA, autoantibodies), serum adipokines, and electronic nose breath testing — and summarize them in a single qualitative grid (Table 1) scoring convenience, screening accuracy, surveillance accuracy, cost, transportability and acceptance. Two come out ahead for different reasons: **TNE with a biopsy-capable instrument is called "a reasonable alternative to standard endoscopy as a screening tool"** (but explicitly not for dysplasia surveillance, because optical quality and chromoendoscopy are inferior), and **Cytosponge-TFF3 has the strongest efficacy, acceptability and cost-effectiveness dataset** (BEST2 sensitivity 79.9%, rising to 87.2% for ≥3 cm circumferential Barrett's and 89.7% on a repeat procedure; incremental cost-effectiveness ratio (ICER) $26,358–$33,307/quality-adjusted life-year (QALY) vs no screening, against $107,583–$330,361 for endoscopy vs Cytosponge). The rest — capsule endoscopy (no biopsy capability, 0.7%–2.2% retention, cost saving negated by device cost), tethered capsule endomicroscopy, miRNA panels, adipokines, and breath testing — are framed as promising but unvalidated.
 
 The economic argument is the pivot. Cheaper tests only save money if they are applied to an *enriched* population; deployed broadly, the positives they generate all funnel back into endoscopy and the saving can be "reduced, eliminated, or even reversed." That is why recommendation 3 pairs test refinement with a complementary push to define the screening population using demographic and clinical factors — existing risk models reach only AUROC 0.61–0.75, rising to 0.85 only once alarm symptoms are added, by which point patients are beyond cure.
 
@@ -237,10 +237,10 @@ The document is a **Commentary and carries no Best Practice Advice and no eviden
 - **Risk models are modest:** AUROC 0.61–0.75; adding central obesity/smoking/age to weekly GERD improved net reclassification by up to 25%; Thrift model AUROC 0.75 (0.66–0.84), rising to 0.85 (0.78–0.91) with alarm symptoms — but alarm symptoms mark incurable disease. EAC risk >100-fold higher in 50-year-old white men with long-standing GERD plus alarm symptoms.
 - **TNE:** recovery 18.5 vs 67.3 min (P<.001); acceptance 45.7% vs 40.7%; complete esophageal evaluation 96% vs 100%; successful biopsy 83% vs 100% (P=.001) — the shortfall caused by using a 4.7 mm sheath without a biopsy channel when the 5.8 mm biopsy-capable sheath could not be passed; ~80% would repeat. 422/426 (99%) completed TNE in primary care with 38% management-changing findings (34% erosive esophagitis, 4% Barrett's). Training: landmarks at 18 procedures, intubation at 35. **Reasonable screening alternative; not recommended for dysplasia surveillance.**
 - **Video capsule endoscopy:** pooled sensitivity 77%, specificity 86% (9 studies, 618 patients); specificity 90% vs endoscopic reference and 73% vs histologic reference; dedicated screening studies sensitivity 78%/60%, specificity 83%/100%; **esophageal capsule retention 0.7%–2.2%**, usually from an unsuspected stricture; **no biopsy capability**.
-- **Cytosponge-TFF3:** gelatin capsule dissolving in ~5 min to release a 3-cm mesh sponge on a string. BEST2 (1110 subjects; 463 controls, 647 Barrett's) ITT sensitivity **79.9%**, **87.2%** with ≥3 cm circumferential Barrett's, **89.7% (95% CI 82.3–94.8)** on repeat procedure; >500-patient primary-care cohort 99% swallowed it safely; commercial device + TFF3 91.5% sensitivity in an enriched, inadequate-sample-excluded population of 73; 82% reported low pre-test anxiety; rated favorably vs endoscopy (P<.001). Under evaluation in a 9000-patient primary-care cluster RCT (ISRCTN68382401).
+- **Cytosponge-TFF3:** gelatin capsule dissolving in ~5 min to release a 3-cm mesh sponge on a string. BEST2 (1110 subjects; 463 controls, 647 Barrett's) ITT sensitivity **79.9%**, **87.2%** with ≥3 cm circumferential Barrett's, **89.7% (95% CI 82.3–94.8)** on repeat procedure; >500-patient primary-care cohort 99% swallowed it safely; commercial device + TFF3 91.5% sensitivity in an enriched, inadequate-sample-excluded population of 73; 82% reported low pre-test anxiety; rated favorably vs endoscopy (P<.001). Under evaluation in a 9000-patient primary-care cluster randomized controlled trial (RCT) (ISRCTN68382401).
 - **Cost effectiveness:** Cytosponge ICER **$26,358–$33,307**/QALY vs no screening; endoscopy **vs Cytosponge** **$107,583–$330,361**; societal willingness-to-pay threshold cited as **<$50,000/QALY**. Unsedated TNE costs **3–4× lower** than sedated endoscopy in the community. Capsule endoscopy's sedation-free saving is **negated by device cost**.
 - **Liquid biopsy:** 4-miRNA panel (miRNA-95-3p, -136-5p, -194-5p, -451a) sensitivity 78%/specificity 86% in 41 Barrett's vs 15 controls — requires validation in larger cohorts; circulating autoantibodies not recommended (sensitivity too low, between-study variability too high).
-- **Serum adipokines:** elevated leptin and insulin associated with Barrett's risk (9 studies, 1432 patients); adiponectin data contradictory; **not robust enough to recommend alone** — adjunct to demographics only (IL-8, leptin high; IL-10 low).
+- **Serum adipokines:** elevated leptin and insulin associated with Barrett's risk (9 studies, 1432 patients); adiponectin data contradictory; **not robust enough to recommend alone** — adjunct to demographics only (interleukin [IL]-8, leptin high; IL-10 low).
 - **Electronic nose:** 66 Barrett's vs 56 non-Barrett's — 82% sensitivity, 80% specificity, 81% accuracy, AUROC 0.79; AUROC up to 0.98 for distinguishing adenocarcinoma from metaplasia/benign disease; 95% enrollment rate; needs large primary-care prospective studies.
 - **Overdiagnosis harms are stated:** psychological stress, higher health/life insurance premiums, and identification of innocuous lesions leading to potentially hazardous invasive treatment.
 - **Cheap tests do not automatically save money:** applying a low-cost test to an expanded population generates positives that all require endoscopy, so the societal saving "could be reduced, eliminated, or even reversed."
@@ -262,7 +262,7 @@ The document is a **Commentary and carries no Best Practice Advice and no eviden
 
 ## Contradictions / Open Questions
 
-- **Direct contradiction with [[acg-2022-barretts]] on nonendoscopic screening.** AGA 2018 Rec 2: "We do not recommend the use of any alternative test to screen for Barrett's esophagus at this time." ACG 2022 endorses a nonendoscopic capsule sponge device plus a biomarker (TFF3 or methylated DNA) as an **acceptable alternative screening modality** (conditional, very low quality). **ACG 2022 governs** — same tier, newer publication date — and Rec 2a of this commentary already anticipated the reversal ("will likely find a place in clinical practice in the near future"). The 2018 statement should be recorded as superseded history, not as current practice.
+- **Direct contradiction with [[acg-2022-barretts]] on nonendoscopic screening.** AGA 2018 Rec 2: "We do not recommend the use of any alternative test to screen for Barrett's esophagus at this time." American College of Gastroenterology (ACG) 2022 endorses a nonendoscopic capsule sponge device plus a biomarker (TFF3 or methylated DNA) as an **acceptable alternative screening modality** (conditional, very low quality). **ACG 2022 governs** — same tier, newer publication date — and Rec 2a of this commentary already anticipated the reversal ("will likely find a place in clinical practice in the near future"). The 2018 statement should be recorded as superseded history, not as current practice.
 - **Internal tension on surveillance benefit, left unresolved by the source.** A 51-study/11,028-subject meta-analysis (relative mortality 0.386) and a 29,536-patient VA cohort support surveillance; a 38-case/101-control study finds 55% vs 60% surveillance frequency in Barrett's patients who died of EAC vs those who did not. The authors note observational studies are "susceptible to biases likely to exaggerate the benefits" and call the case–control study "controversial," but adjudicate neither. (The wiki's current position on this question rests on the later [[aga-2025-barretts-surveillance|AGA 2025]] guideline and the BOSS RCT, neither of which existed in 2018.)
 - **Cytosponge sensitivity figures are not directly comparable to the ACG 2022 numbers on [[barretts-esophagus]].** This source reports BEST2 **intention-to-treat sensitivity 79.9%** (inadequate-yield samples included) and **91.5%** for the commercial device in a **73-patient enriched population with inadequate samples excluded** — and states explicitly that the higher figure reflects the enrichment and exclusion, not better performance. Any use of a Cytosponge sensitivity number must carry its qualifier.
 - **No numbered Best Practice Advice, no grades.** Anything on an entity page attributed to this source must be described as a 2018 AGA Clinical Practice Update *Commentary* position, ungraded, and must not be presented alongside GRADE-rated ACG/AGA/ASGE statements as though equivalently rated.

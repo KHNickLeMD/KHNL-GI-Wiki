@@ -14,17 +14,17 @@ sources: []
 - **Year:** 2021
 - **Journal:** Gastroenterology, Vol. 161, No. 4, pp. 1325–1332
 - **DOI:** [10.1053/j.gastro.2021.06.078](https://doi.org/10.1053/j.gastro.2021.06.078)
-- **Type:** AGA Clinical Practice Update — Expert Review (Best Practice Advice; no formal GRADE rating)
+- **Type:** American Gastroenterological Association (AGA) Clinical Practice Update — Expert Review (Best Practice Advice; no formal Grading of Recommendations Assessment, Development and Evaluation [GRADE] rating)
 - **Commissioned by:** AGA Institute Clinical Practice Updates Committee and AGA Governing Board
-- **Scope:** US clinical practice focus; intended to complement the 2020 AGA GIM guidelines, which did not specifically address atrophic gastritis
+- **Scope:** US clinical practice focus; intended to complement the 2020 AGA gastric intestinal metaplasia (GIM) guidelines, which did not specifically address atrophic gastritis
 
 ---
 
 ## Summary
 
-This Clinical Practice Update fills a gap left by the 2020 AGA GIM guidelines by providing a US-focused framework for the diagnosis and management of atrophic gastritis (AG), a preneoplastic condition defined as loss of gastric glands (with or without metaplasia) on a background of chronic inflammation. The two dominant etiologies are [[helicobacter-pylori-infection|H. pylori]] infection (HpAG) and autoimmunity (autoimmune gastritis, AIG). The document presents 12 Best Practice Advice (BPA) statements developed from published evidence and expert consensus, without formal evidence grading.
+This Clinical Practice Update fills a gap left by the 2020 AGA GIM guidelines by providing a US-focused framework for the diagnosis and management of atrophic gastritis (AG), a preneoplastic condition defined as loss of gastric glands (with or without metaplasia) on a background of chronic inflammation. The two dominant etiologies are [[helicobacter-pylori-infection|H. pylori]] infection (HpAG) and autoimmunity (autoimmune gastritis [AIG]). The document presents 12 Best Practice Advice (BPA) statements developed from published evidence and expert consensus, without formal evidence grading.
 
-The update emphasizes that AG is significantly underdiagnosed in the United States, partly because [[gastric-intestinal-metaplasia|intestinal metaplasia]] (IM) on biopsy — the most common histopathologic manifestation of AG — is often not explicitly linked to AG in pathology reports. The document clarifies that IM on gastric histology almost invariably implies underlying AG. It calls for coordinated effort between gastroenterologists and pathologists to improve documentation of AG severity and extent using validated staging systems (OLGA and OLGIM), which are not yet widely adopted in the United States.
+The update emphasizes that AG is significantly underdiagnosed in the United States, partly because [[gastric-intestinal-metaplasia|intestinal metaplasia]] (IM) on biopsy — the most common histopathologic manifestation of AG — is often not explicitly linked to AG in pathology reports. The document clarifies that IM on gastric histology almost invariably implies underlying AG. It calls for coordinated effort between gastroenterologists and pathologists to improve documentation of AG severity and extent using validated staging systems (Operative Link on Gastritis Assessment [OLGA] and Operative Link on Gastric Intestinal Metaplasia Assessment [OLGIM]), which are not yet widely adopted in the United States.
 
 The management section addresses H. pylori test-and-treat as foundational for all AG patients regardless of etiology, endoscopic surveillance intervals stratified by AG severity and etiology, management of type I gastric neuroendocrine tumors (NETs) arising from hypergastrinemia, and evaluation and treatment of micronutrient deficiencies (iron, vitamin B-12). Autoimmune gastritis is addressed distinctly, with guidance on serologic workup (parietal cell antibodies, intrinsic factor antibodies), recognition of pernicious anemia as a late-stage AIG complication, and screening for associated autoimmune conditions (especially autoimmune thyroid disease).
 
@@ -40,9 +40,9 @@ The management section addresses H. pylori test-and-treat as foundational for al
 ### Epidemiology
 
 - AG prevalence: up to 15% in US populations; higher in non-White racial/ethnic minorities and early-generation immigrants from high-risk countries
-- H. pylori infection increases AG incidence rate ratio 5.0-fold (95% CI 3.1–8.3); AG incidence <1%/year in H. pylori–negative individuals
+- H. pylori infection increases AG incidence rate ratio 5.0-fold (95% confidence interval [CI] 3.1–8.3); AG incidence <1%/year in H. pylori–negative individuals
 - AIG prevalence: 0.5%–2%; increases with age, female sex, presence of other autoimmune diseases
-- PA prevalence: 0.15%–1% (rare late-stage AIG complication)
+- Pernicious anemia (PA) prevalence: 0.15%–1% (rare late-stage AIG complication)
 - Risk of progression from AG to [[gastric-adenocarcinoma|gastric adenocarcinoma]]: 0.1%–0.3%/year (comparable to nondysplastic [[barretts-esophagus|Barrett's]] or low-risk colorectal adenomas)
 - PA confers ~7-fold higher relative risk of gastric cancer (most studies: 2–4-fold)
 - Type I gastric NET incidence in chronic AG: 0.4%–0.7%/year
@@ -50,7 +50,7 @@ The management section addresses H. pylori test-and-treat as foundational for al
 ### Endoscopic Evaluation (BPA 3–4)
 
 - IM features: light blue crest (LBC) sign (sensitivity/specificity ~90%), white opaque substance (WOF/WOS; specificity 100%, sensitivity ~50%)
-- HD-WLE with NBI (near-focus): sensitivity 87%, specificity 97% for IM; 92%/99% for dysplasia
+- High-definition white light endoscopy (HD-WLE) with narrow-band imaging (NBI) (near-focus): sensitivity 87%, specificity 97% for IM; 92%/99% for dysplasia
 - Kimura-Takemoto O2–O3 associated with significantly higher gastric cancer risk
 - HpAG: atrophy begins at incisura/antrum and spreads proximally; AIG: corpus/fundus predominant with antral sparing
 
@@ -61,8 +61,8 @@ The management section addresses H. pylori test-and-treat as foundational for al
 
 ### Serologic Workup (BPA 5)
 
-- PCA: most sensitive for AIG but not specific
-- IFA: low sensitivity (<30%) but high specificity; more often positive late in disease
+- Parietal cell antibodies (PCA): most sensitive for AIG but not specific
+- Intrinsic factor antibodies (IFA): low sensitivity (<30%) but high specificity; more often positive late in disease
 
 ### H. Pylori Management (BPA 6)
 
@@ -72,14 +72,14 @@ The management section addresses H. pylori test-and-treat as foundational for al
 ### Surveillance (BPA 7–9)
 
 - Advanced AG: surveillance every 3 years
-- AIG: individualized; ESGE recommends every 3–5 years
+- AIG: individualized; European Society of Gastrointestinal Endoscopy (ESGE) recommends every 3–5 years
 - New pernicious anemia diagnosis: [[upper-endoscopy|upper endoscopy]] within 6 months
 
 ### Type I Gastric NETs (BPA 10)
 
 - NETs <1 cm: endoscopic resection; surveillance every 1–2 years
-- NETs 1–2 cm: consider [[endoscopic-ultrasound|EUS]] for staging
-- NETs >2 cm, submucosal invasion, or LN metastasis: surgical resection
+- NETs 1–2 cm: consider [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] for staging
+- NETs >2 cm, submucosal invasion, or lymph node (LN) metastasis: surgical resection
 - Metastasis rate <10% for NETs ≤2 cm; ~20% for NETs >2 cm
 
 ### Micronutrient Deficiencies (BPA 11)
@@ -90,7 +90,7 @@ The management section addresses H. pylori test-and-treat as foundational for al
 ### Autoimmune Comorbidities (BPA 12)
 
 - AIG strongly associated with autoimmune thyroid disease (up to 1/3 of autoimmune thyroid patients have AIG)
-- Screen all AIG patients for autoimmune thyroid disease; consider T1DM and Addison's disease
+- Screen all AIG patients for autoimmune thyroid disease; consider type 1 diabetes mellitus (T1DM) and Addison's disease
 
 ## Recommendations
 

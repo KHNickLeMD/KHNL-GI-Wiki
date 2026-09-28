@@ -17,13 +17,13 @@ sources: []
 
 ## Summary
 
-Short, tightly scoped AGA Institute guideline covering the **initial management of [[acute-pancreatitis|acute pancreatitis]] within the first 48–72 hours of admission** — chosen deliberately because this is the window in which management decisions can still alter the course of disease and duration of hospitalization. Developed with GRADE methodology alongside a technical review (Vege et al., *Gastroenterology* 2018).
+Short, tightly scoped American Gastroenterological Association (AGA) Institute guideline covering the **initial management of [[acute-pancreatitis|acute pancreatitis (AP)]] within the first 48–72 hours of admission** — chosen deliberately because this is the window in which management decisions can still alter the course of disease and duration of hospitalization. Developed with Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology alongside a technical review (Vege et al., *Gastroenterology* 2018).
 
 **Scope exclusions are explicit and matter.** The guideline does **not** address diagnosis (no laboratory or radiographic diagnostic questions) and does **not** address late complications such as management of pancreatic fluid collections. Anything on those topics must come from another source.
 
-Eight recommendations are issued across five management domains: fluid therapy, prophylactic antibiotics, urgent ERCP, nutrition, and same-admission cholecystectomy plus alcohol intervention. **Four are Strong recommendations, all with moderate quality evidence** — early oral feeding, enteral over parenteral nutrition, same-admission cholecystectomy, and brief alcohol intervention. The remaining four are Conditional and rest on low or very low quality evidence.
+Eight recommendations are issued across five management domains: fluid therapy, prophylactic antibiotics, urgent endoscopic retrograde cholangiopancreatography (ERCP), nutrition, and same-admission cholecystectomy plus alcohol intervention. **Four are Strong recommendations, all with moderate quality evidence** — early oral feeding, enteral over parenteral nutrition, same-admission cholecystectomy, and brief alcohol intervention. The remaining four are Conditional and rest on low or very low quality evidence.
 
-The guideline's practical thrust is that three long-held management paradigms are unsupported: **bowel rest, prophylactic antibiotics, and routine urgent ERCP in biliary pancreatitis without cholangitis**. Against these it sets strongly-recommended positive actions — feed early, feed enterally, take the gallbladder out before discharge, and counsel about alcohol during the admission. Where the evidence genuinely runs out, the panel says so rather than guessing: it makes **no recommendation on normal saline vs Ringer's lactate**, and states that the lack of RCT evidence on the **optimal initial rate, volume, and duration** of fluid resuscitation left it unable to make any specific recommendation on those parameters.
+The guideline's practical thrust is that three long-held management paradigms are unsupported: **bowel rest, prophylactic antibiotics, and routine urgent ERCP in biliary pancreatitis without cholangitis**. Against these it sets strongly-recommended positive actions — feed early, feed enterally, take the gallbladder out before discharge, and counsel about alcohol during the admission. Where the evidence genuinely runs out, the panel says so rather than guessing: it makes **no recommendation on normal saline vs Ringer's lactate**, and states that the lack of randomized controlled trial (RCT) evidence on the **optimal initial rate, volume, and duration** of fluid resuscitation left it unable to make any specific recommendation on those parameters.
 
 ## Key Findings / Claims
 
@@ -58,7 +58,7 @@ The guideline's practical thrust is that three long-held management paradigms ar
 | 3 | In patients with acute biliary pancreatitis and no cholangitis, the AGA suggests against the routine use of urgent ERCP. | Conditional | Low |
 | 4 | In patients with AP, the AGA recommends early (within 24 h) oral feeding as tolerated, rather than keeping the patient nil per os. | **Strong** | Moderate |
 | 5 | In patients with AP and inability to feed orally, the AGA recommends enteral rather than parenteral nutrition. | **Strong** | Moderate |
-| 6 | In patients with predicted severe or necrotizing pancreatitis requiring enteral tube feeding, the AGA suggest either NG or NJ route. | Conditional | Low |
+| 6 | In patients with predicted severe or necrotizing pancreatitis requiring enteral tube feeding, the AGA suggest either NG [nasogastric] or NJ [nasojejunal] route. | Conditional | Low |
 | 7 | In patients with acute biliary pancreatitis, the AGA recommends cholecystectomy during the initial admission rather than after discharge. | **Strong** | Moderate |
 | 8 | In patients with acute alcoholic pancreatitis, the AGA recommends brief alcohol intervention during admission. | **Strong** | Moderate |
 
@@ -72,7 +72,7 @@ The guideline's practical thrust is that three long-held management paradigms ar
 - **The panel warns that overly aggressive fluid therapy is harmful in AP** — respiratory complications and abdominal compartment syndrome.
 - **No recommendation was possible on the optimal initial rate, volume, or duration of fluid resuscitation** — no RCT addressed these.
 - **Normal saline vs Ringer's lactate: no recommendation**, on low quality of evidence. The 2 RCTs used surrogate markers of severity and did not focus on organ failure, necrosis, or mortality. The panel notes current intensive study of this topic may change the recommendation in the near future.
-- **HES:** 2 studies; mortality not improved, and **multiple organ failure was significantly increased in 1 trial** (OR 3.86; 95% CI 1.24–12.04). Mirrors critical-care literature showing no mortality benefit of HES-containing resuscitative fluids.
+- **HES:** 2 studies; mortality not improved, and **multiple organ failure was significantly increased in 1 trial** (odds ratio [OR] 3.86; 95% confidence interval [CI] 1.24–12.04). Mirrors critical-care literature showing no mortality benefit of HES-containing resuscitative fluids.
 
 **Prophylactic antibiotics (2)**
 - 10 RCTs in predicted severe AP and necrotizing pancreatitis showed reduced infected pancreatic and peripancreatic necrosis (OR 0.56; 95% CI 0.36–0.86) and a trend toward reduced mortality (OR 0.66; 95% CI 0.42–1.04).
@@ -88,7 +88,7 @@ The guideline's practical thrust is that three long-held management paradigms ar
 **Nutrition (4, 5, 6)**
 - **Early feeding: within 24 hours.** 11 RCTs of early vs delayed feeding showed no mortality difference, but a **2.5-fold higher risk of interventions for necrosis with delayed feeding** (OR 2.47; 95% CI 1.41–4.35), plus non-significant trends toward higher infected peripancreatic necrosis, multiple organ failure, and total necrotizing pancreatitis.
 - **Starting with a clear liquid diet is not required** — early feeding has succeeded with low-fat, normal-fat, and soft or solid consistency diets. Diet type was not specifically examined in the technical review.
-- Early feeding is not successful in all patients because of **pain, vomiting, or ileus**, and may need to be delayed beyond 24 hours in some cases. **Routine or empiric NPO orders should generally be avoided in favour of feeding trials.**
+- Early feeding is not successful in all patients because of **pain, vomiting, or ileus**, and may need to be delayed beyond 24 hours in some cases. **Routine or empiric nothing-by-mouth (NPO) orders should generally be avoided in favour of feeding trials.**
 - **Enteral over parenteral:** 12 RCTs. Enteral nutrition reduced infected peripancreatic necrosis (OR 0.28; 95% CI 0.15–0.51), single organ failure (OR 0.25; 95% CI 0.10–0.62), and multiple organ failure (OR 0.41; 95% CI 0.27–0.63). Rationale: maintaining enteral nutrition protects the gut mucosal barrier and reduces bacterial translocation.
 - **NG vs nasoenteral:** 3 RCTs, no mortality difference (OR 1.01; 95% CI 0.44–2.30). Low quality; the trials **did not adequately address aspiration risk** with either modality, and the panel recognizes safety concerns may preclude nasogastric tubes in severe AP.
 
@@ -98,7 +98,7 @@ The guideline's practical thrust is that three long-held management paradigms ar
 
 **Alcohol intervention (8)**
 - Strong recommendation despite a **paucity of RCTs addressing alcohol counselling in AP specifically** — the evidence was graded down to moderate for indirectness, risk of bias from lack of blinding, and imprecision.
-- The single AP-specific RCT (first attack, clear alcohol history, other etiologies excluded) compared **repeated intervention at 6-month intervals for 2 years in an outpatient GI clinic vs a single intervention at initial hospitalization**; it showed a strong trend toward reduced total hospital admissions with no statistically significant difference in second attack, definite recurrent pancreatitis, or ≥2 recurrent attacks.
+- The single AP-specific RCT (first attack, clear alcohol history, other etiologies excluded) compared **repeated intervention at 6-month intervals for 2 years in an outpatient gastrointestinal (GI) clinic vs a single intervention at initial hospitalization**; it showed a strong trend toward reduced total hospital admissions with no statistically significant difference in second attack, definite recurrent pancreatitis, or ≥2 recurrent attacks.
 - Supporting indirect evidence: a Cochrane review of brief alcohol-reduction interventions in primary care (21 RCTs, n = 7286) — mean reduction **41 g/week (95% CI 57 to 25 g/week)**, with substantial heterogeneity. **Extended intervention was not significantly better than brief intervention.**
 
 ### Knowledge gaps the panel names

@@ -7,7 +7,7 @@ updated: 2026-09-24
 sources: [acg-2025-uc, acg-2025-crohns, acg-2019-uc, acg-2018-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2024-pouchitis, aga-2021-ici-colitis-hepatitis, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care, aga-2024-pregnancy-gi-liver]
 ---
 
-A **gut-selective anti-integrin** monoclonal antibody for [[inflammatory-bowel-disease|IBD]]. Because it acts on leukocyte trafficking into the gut rather than on systemic immunity, it carries the class's most favorable safety profile — no malignancy signal, no PML risk, and the agent guidelines reach for when **infection risk** is the dominant concern. Its weakness is positional, not safety-related: **onset is slower than [[anti-tnf-agents|anti-TNF]]**, and its efficacy ranking **falls after anti-TNF exposure**, so it earns its best placement early. Also used outside IBD for chronic [[pouchitis]] and for glucocorticoid-refractory [[immune-checkpoint-inhibitor-colitis|ICI colitis]].
+A **gut-selective anti-integrin** monoclonal antibody for [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]. Because it acts on leukocyte trafficking into the gut rather than on systemic immunity, it carries the class's most favorable safety profile — no malignancy signal, no progressive multifocal leukoencephalopathy (PML) risk, and the agent guidelines reach for when **infection risk** is the dominant concern. Its weakness is positional, not safety-related: **onset is slower than [[anti-tnf-agents|anti–tumor necrosis factor (TNF)]]**, and its efficacy ranking **falls after anti-TNF exposure**, so it earns its best placement early. Also used outside IBD for chronic [[pouchitis]] and for glucocorticoid-refractory [[immune-checkpoint-inhibitor-colitis|immune checkpoint inhibitor (ICI) colitis]].
 
 ## Contents
 - [[#Mechanism]]
@@ -37,7 +37,7 @@ A **gut-selective anti-integrin** monoclonal antibody for [[inflammatory-bowel-d
 ## Mechanism
 
 - Selectively inhibits **α4β7 integrin** interaction with **mucosal addressin cell adhesion molecule-1 (MAdCAM-1)** → relatively specific for leukocyte trafficking **to the gut** ([[acg-2025-crohns]]).
-- Targets the **mucosal immune system of the gut**; ACG attributes its "excellent safety profile" directly to this ([[acg-2025-uc]]).
+- Targets the **mucosal immune system of the gut**; American College of Gastroenterology (ACG) attributes its "excellent safety profile" directly to this ([[acg-2025-uc]]).
 - **Gut-selectivity → no impact on the blood-brain barrier**, hence a more favorable safety profile than natalizumab ([[acg-2025-crohns]]).
 
 **Contrast with natalizumab** (the other anti-integrin, and the reason gut-selectivity matters):
@@ -47,9 +47,9 @@ A **gut-selective anti-integrin** monoclonal antibody for [[inflammatory-bowel-d
 | Target | α4β7 integrin | α4 integrin (broad) |
 | Binds | MAdCAM-1 | VCAM-1 **and** MAdCAM-1 |
 | Scope | Gut-selective | Systemic leukocyte trafficking |
-| PML risk | See [[#Safety and Monitoring]] | Up to **1 in 100** with JCV antibody positivity + prior immunosuppressives + ≥2 y use |
+| PML risk | See [[#Safety and Monitoring]] | Up to **1 in 100** with JC virus (JCV) antibody positivity + prior immunosuppressives + ≥2 y use |
 
-*ACG 2025 advises that the other advanced therapies for moderate-severe CD **should be used in lieu of natalizumab**, given multiple newer agents with more favorable safety profiles ([[acg-2025-crohns]]). AGA likewise **suggests against** natalizumab (Conditional, moderate certainty) — reserved only for JC-virus-antibody-negative patients who value benefit over PML risk and will adhere to ongoing JCV monitoring ([[aga-2021-crohns-pharm]] Rec 1D).*
+*ACG 2025 advises that the other advanced therapies for moderate-severe Crohn's disease (CD) **should be used in lieu of natalizumab**, given multiple newer agents with more favorable safety profiles ([[acg-2025-crohns]]). American Gastroenterological Association (AGA) likewise **suggests against** natalizumab (Conditional, moderate certainty) — reserved only for JC-virus-antibody-negative patients who value benefit over PML risk and will adhere to ongoing JCV monitoring ([[aga-2021-crohns-pharm]] Rec 1D).*
 
 ---
 
@@ -57,12 +57,12 @@ A **gut-selective anti-integrin** monoclonal antibody for [[inflammatory-bowel-d
 
 | Phase | Route | Dose |
 |---|---|---|
-| Induction | IV | **300 mg** at **weeks 0 and 2**; response assessed at **week 6** |
+| Induction | Intravenous (IV) | **300 mg** at **weeks 0 and 2**; response assessed at **week 6** |
 | Maintenance | IV | **300 mg every 8 weeks** |
-| Maintenance | SC | **108 mg every 2 weeks**, after IV induction, in week-6 responders |
+| Maintenance | Subcutaneous (SC) | **108 mg every 2 weeks**, after IV induction, in week-6 responders |
 
 - **SC is a maintenance formulation only.** ACG CD Rec 16 conditions SC maintenance on response to **2 IV induction doses** ([[acg-2025-crohns]]).
-- **SC ≈ IV for maintenance.** Exposure–efficacy relationships for IV and SC administration are comparable ([[acg-2025-crohns]]). UC Key Concept 31: SC infliximab and SC vedolizumab are considered **equivalent to standard IV maintenance dosing**; equivalence of the SC formulations **for induction, or as a substitute for escalated doses, is NOT robustly established** ([[acg-2025-uc]]).
+- **SC ≈ IV for maintenance.** Exposure–efficacy relationships for IV and SC administration are comparable ([[acg-2025-crohns]]). ACG ulcerative colitis (UC) guideline Key Concept 31: SC infliximab and SC vedolizumab are considered **equivalent to standard IV maintenance dosing**; equivalence of the SC formulations **for induction, or as a substitute for escalated doses, is NOT robustly established** ([[acg-2025-uc]]).
 - **Monotherapy is appropriate.** Adding a concomitant immunomodulator (methotrexate or [[thiopurines|thiopurine]]) yields **no significant benefit** in clinical, endoscopic, or pharmacokinetic outcomes ([[acg-2025-crohns]]). AGA makes **no recommendation** on combining vedolizumab with an immunomodulator — an explicit knowledge gap ([[aga-2021-crohns-pharm]] Rec 5C).
 - **Dose optimization** may be considered for inadequate or loss of response to induction/maintenance dosing of anti-integrin therapy ([[acg-2025-crohns]] Key Concept 46).
 - **Do not check drug levels.** There is **insufficient evidence** to recommend assessment of serum vedolizumab concentrations ([[acg-2025-uc]] Key Concept 37) — unlike [[anti-tnf-agents|anti-TNF]], where levels + antidrug antibodies are measured on loss of response.
@@ -76,13 +76,13 @@ A **gut-selective anti-integrin** monoclonal antibody for [[inflammatory-bowel-d
 | Moderate-severe [[ulcerative-colitis\|UC]] — induction | Recommend | **Strong / Moderate** | [[acg-2025-uc]] Rec 27 |
 | Moderate-severe UC — maintenance (IV or SC) | Recommend continuing | **Strong / Moderate** | [[acg-2025-uc]] Rec 41 |
 | UC — **vs adalimumab** | Recommend vedolizumab **over adalimumab** | **Strong / Moderate** | [[acg-2025-uc]] Rec 45 |
-| ASUC — maintenance after cyclosporine-induced remission | Suggest | Conditional / **Very low** | [[acg-2025-uc]] Rec 54 |
+| Acute severe UC (ASUC) — maintenance after cyclosporine-induced remission | Suggest | Conditional / **Very low** | [[acg-2025-uc]] Rec 54 |
 | ASUC — **induction rescue** | **Cannot be recommended — no data** | — | [[acg-2025-uc]] |
 | Moderate-severe [[crohns-disease\|CD]] — IV induction + maintenance | Recommend | **Strong / Moderate** | [[acg-2025-crohns]] Rec 15 |
 | CD — SC maintenance after 2 IV induction doses | Recommend | **Strong / Moderate** | [[acg-2025-crohns]] Rec 16 |
 | Perianal fistulizing CD — induction | Suggest | Conditional / **Very low** | [[acg-2025-crohns]] Rec 27 |
 | High-risk postoperative CD — recurrence prevention | Recommend* | Conditional / Low | [[acg-2025-crohns]] Rec 34 |
-| Chronic antibiotic-dependent / -refractory [[pouchitis]] | Advanced immunosuppressive therapy; **vedolizumab has the only RCT** | Conditional / Low | [[aga-2024-pouchitis]] |
+| Chronic antibiotic-dependent / -refractory [[pouchitis]] | Advanced immunosuppressive therapy; **vedolizumab has the only randomized controlled trial (RCT)** | Conditional / Low | [[aga-2024-pouchitis]] |
 | Glucocorticoid-refractory [[immune-checkpoint-inhibitor-colitis\|ICI colitis]] | Reasonable option | Best Practice Advice 6 | [[aga-2021-ici-colitis-hepatitis]] |
 
 *\*Rec 34 is worded "we recommend" but graded **conditional** in the source — reproduced as published.*
@@ -97,7 +97,7 @@ A **gut-selective anti-integrin** monoclonal antibody for [[inflammatory-bowel-d
 - **Rec 41** — "We recommend **continuing vedolizumab** as compared with no treatment for maintenance of remission **(IV or SC dosing)** in patients with prior moderately to severely active UC now in remission after vedolizumab induction" *(Strong recommendation, moderate quality of evidence)*.
 - **Rec 45** — "In patients with moderately to severely active UC, we recommend **vedolizumab as compared to adalimumab** for induction and maintenance of remission" *(Strong recommendation, moderate quality of evidence)*.
 - **Rec 54** — "In patients with ASUC who achieve remission with **cyclosporine** treatment, we suggest maintenance of remission with vedolizumab" *(Conditional recommendation, very low quality of evidence)*.
-- **Key Concept 46** — patients with moderate-severe UC at **higher risk for infectious complications** may benefit from **vedolizumab or an anti–IL-23 strategy** over more systemically immunosuppressive options.
+- **Key Concept 46** — patients with moderate-severe UC at **higher risk for infectious complications** may benefit from **vedolizumab or an anti–interleukin-23 (IL-23) strategy** over more systemically immunosuppressive options.
 
 ### UC Efficacy Data
 
@@ -142,7 +142,7 @@ A **gut-selective anti-integrin** monoclonal antibody for [[inflammatory-bowel-d
 | Trial | Result |
 |---|---|
 | **GEMINI 2** | Vedolizumab 300 mg q8wk **superior to placebo** for maintaining clinical response and remission; higher **corticosteroid-free remission** at week 52 |
-| **GEMINI LTS** (GEMINI 2 completers) | Clinical remission **74% at 152 weeks** — **82%** anti-TNF-naïve vs **66%** with prior anti-TNF failure |
+| **GEMINI long-term safety (LTS)** (GEMINI 2 completers) | Clinical remission **74% at 152 weeks** — **82%** anti-TNF-naïve vs **66%** with prior anti-TNF failure |
 | **VISIBLE 2** | Open-label IV 300 mg wk 0 + 2 → wk-6 responders randomized to SC 108 mg q2wk vs placebo to wk 52: more SC patients reached clinical remission, **similar adverse-effect profiles** |
 
 *The 82% vs 66% split in GEMINI LTS is the same signal as the UC post hoc analysis — the drug performs best before anti-TNF exposure.*
@@ -150,8 +150,8 @@ A **gut-selective anti-integrin** monoclonal antibody for [[inflammatory-bowel-d
 ### Perianal Fistulizing CD
 
 - **ENTERPRISE** — small phase 4 trial, **32 patients** with moderate-severe CD and ≥1 actively draining fistula: **>64% achieved fistula closure** and **46% had reduction in fistula drainage by week 30** ([[acg-2025-crohns]]).
-- Evidence base is thin relative to anti-TNF: ACG grades vedolizumab **Conditional / Very low** (Rec 27) against infliximab's **Strong / Moderate** (Rec 24). AGA likewise suggests adalimumab, [[il-23-and-il-12-23-inhibitors|ustekinumab]], or vedolizumab over no treatment at **Conditional / low certainty**, reserving Strong/moderate for infliximab ([[aga-2021-crohns-pharm]] Recs 10A–10B); in the AGA network meta-analysis vedolizumab's fistula-closure RR was **0.81 (0.63–1.04)** — not statistically significant.
-- With **mucosal involvement**, seton placement is preferred over fistulotomy, with concomitant initiation of an advanced therapy — vedolizumab, anti-ILs, anti-TNF-α, or [[jak-inhibitors|JAK inhibitors]] — **with the best evidence supporting infliximab** ([[acg-2025-crohns]]).
+- Evidence base is thin relative to anti-TNF: ACG grades vedolizumab **Conditional / Very low** (Rec 27) against infliximab's **Strong / Moderate** (Rec 24). AGA likewise suggests adalimumab, [[il-23-and-il-12-23-inhibitors|ustekinumab]], or vedolizumab over no treatment at **Conditional / low certainty**, reserving Strong/moderate for infliximab ([[aga-2021-crohns-pharm]] Recs 10A–10B); in the AGA network meta-analysis vedolizumab's fistula-closure relative risk (RR) was **0.81 (0.63–1.04)** — not statistically significant.
+- With **mucosal involvement**, seton placement is preferred over fistulotomy, with concomitant initiation of an advanced therapy — vedolizumab, anti-ILs, anti-TNF-α, or [[jak-inhibitors|Janus kinase (JAK) inhibitors]] — **with the best evidence supporting infliximab** ([[acg-2025-crohns]]).
 
 ### Postoperative Prophylaxis
 
@@ -178,7 +178,7 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 | Anti-TNF **primary** nonresponse | Suggest over no treatment (ustekinumab gets Strong) | 2B |
 | Anti-TNF **secondary** nonresponse | Suggest over no treatment (adalimumab / ustekinumab get Strong) | 2C |
 
-- Supporting effect sizes, RR for **failure** vs placebo (lower favors drug): induction **0.92 (0.87–0.97)**; maintenance **0.78 (0.67–0.91)**. Induction certainty was rated **down to low** because the summary effect **did not meet the 10% minimal clinically important difference** over placebo. After prior anti-TNF failure, the network meta-analysis OR was **1.53 (0.77–3.06)** — not significant, low certainty ([[aga-2021-crohns-pharm]]).
+- Supporting effect sizes, RR for **failure** vs placebo (lower favors drug): induction **0.92 (0.87–0.97)**; maintenance **0.78 (0.67–0.91)**. Induction certainty was rated **down to low** because the summary effect **did not meet the 10% minimal clinically important difference** over placebo. After prior anti-TNF failure, the network meta-analysis odds ratio (OR) was **1.53 (0.77–3.06)** — not significant, low certainty ([[aga-2021-crohns-pharm]]).
 - **No head-to-head data against infliximab.** ACG prefers vedolizumab over adalimumab (Rec 45) while calling **infliximab the preferred anti-TNF** in UC (Key Concept 45); the two preferences have never been tested against each other ([[acg-2025-uc]]).
 
 ---
@@ -188,14 +188,14 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 ### Chronic Pouchitis
 
 - **Vedolizumab is the only advanced therapy to date with regulatory approval from the European Medicines Agency for this indication** ([[aga-2024-pouchitis]]).
-- **EARNEST RCT** (chronic refractory [[pouchitis]]): **18/51 vedolizumab vs 5/51 placebo** achieved mPDAI remission at week 14. Patients received concomitant **oral ciprofloxacin 500 mg BID from randomization through week 4**, and 53% reported continuous antibiotic use immediately before baseline. Rated **low certainty** (rated down for very serious imprecision from low event rate).
+- **EARNEST RCT** (chronic refractory [[pouchitis]]): **18/51 vedolizumab vs 5/51 placebo** achieved modified Pouchitis Disease Activity Index (mPDAI) remission at week 14. Patients received concomitant **oral ciprofloxacin 500 mg twice daily (BID) from randomization through week 4**, and 53% reported continuous antibiotic use immediately before baseline. Rated **low certainty** (rated down for very serious imprecision from low event rate).
 - **~21% still required antibiotics at week 34** after starting vedolizumab — set expectations that advanced therapy may not fully replace antibiotics.
 
 ### ICI Colitis
 
 - For **glucocorticoid-refractory** [[immune-checkpoint-inhibitor-colitis|ICI colitis]], vedolizumab **300 mg IV at weeks 0, 2, and 6** (an IBD-derived schedule) is one of two options alongside infliximab 5 mg/kg. **No data distinguish them** ([[aga-2021-ici-colitis-hepatitis]], Best Practice Advice 6).
 - Response is typically **<1 week** — a key contrast with IBD.
-- **Choose by risk factor, not efficacy:** avoid infliximab in **hematologic malignancy** and use with caution in severe CHF → favors vedolizumab. Conversely, **vedolizumab may interfere with antitumor responses in the GI mucosa** in primary GI malignancies or tumors with GI metastases → favors infliximab.
+- **Choose by risk factor, not efficacy:** avoid infliximab in **hematologic malignancy** and use with caution in severe congestive heart failure (CHF) → favors vedolizumab. Conversely, **vedolizumab may interfere with antitumor responses in the gastrointestinal (GI) mucosa** in primary GI malignancies or tumors with GI metastases → favors infliximab.
 - **Non-response to the first biologic → switch class** (infliximab ↔ vedolizumab); **do not wait for a standard washout**.
 - Maintenance vedolizumab may reduce recurrence in patients continuing immunotherapy (small case series); long-term safety and effect on tumor response undetermined.
 
@@ -207,15 +207,15 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 
 | Domain | Finding | Source |
 |---|---|---|
-| **PML** | **1 confirmed case in >470,000 person-years** of postmarketing exposure — in a patient with new HIV diagnosis, low CD4, and prolonged concomitant immunosuppression; the Independent PML Adjudication Committee concluded PML was related to those factors and **not vedolizumab-associated**. **No PML** in 7,999 person-years in GEMINI LTS | [[acg-2025-crohns]] |
-| **Discontinuation** | GEMINI LTS (2,243 enrolled; 1,349 CD): d/c for adverse events in **229/1,349 CD patients (17%)** — most commonly **CD exacerbation (8%)**; all other AEs leading to d/c **<1%** (nasopharyngitis, arthralgia) | [[acg-2025-crohns]] |
+| **PML** | **1 confirmed case in >470,000 person-years** of postmarketing exposure — in a patient with new human immunodeficiency virus (HIV) diagnosis, low CD4, and prolonged concomitant immunosuppression; the Independent PML Adjudication Committee concluded PML was related to those factors and **not vedolizumab-associated**. **No PML** in 7,999 person-years in GEMINI LTS | [[acg-2025-crohns]] |
+| **Discontinuation** | GEMINI LTS (2,243 enrolled; 1,349 CD): discontinuation (d/c) for adverse events (AEs) in **229/1,349 CD patients (17%)** — most commonly **CD exacerbation (8%)**; all other AEs leading to d/c **<1%** (nasopharyngitis, arthralgia) | [[acg-2025-crohns]] |
 | **Infection / malignancy / infusion reactions** | **No new trends** in GEMINI LTS | [[acg-2025-crohns]] |
 | **Malignancy** | **No demonstrated increased malignancy risk in IBD** (long-term data limited); **no malignancy signal** on preventive-care review | [[aga-2024-ibd-malignancy]], [[acg-2025-ibd-preventive-care]] |
 | **Prior cancer** | **No incident-cancer signal** in prior-cancer IBD patients | [[aga-2024-ibd-malignancy]] |
-| **When a cancer develops** | **No change** to anti-integrin therapy for lymphoma, other hematologic malignancy, melanoma, NMSC, or solid-organ malignancy (limited data) — the drugs of concern are [[thiopurines]] and [[anti-tnf-agents\|anti-TNF]] | [[aga-2024-ibd-malignancy]] Table 1 |
+| **When a cancer develops** | **No change** to anti-integrin therapy for lymphoma, other hematologic malignancy, melanoma, nonmelanoma skin cancer (NMSC), or solid-organ malignancy (limited data) — the drugs of concern are [[thiopurines]] and [[anti-tnf-agents\|anti-TNF]] | [[aga-2024-ibd-malignancy]] Table 1 |
 | **Vaccines** | Vaccine immunogenicity is blunted by anti-TNF (especially with thiopurines/methotrexate), **less so by non-TNF biologics including vedolizumab**. Vaccinate regardless of timing within the treatment cycle | [[acg-2025-ibd-preventive-care]] |
 | **Pregnancy** | **Data limited but no increased risk reported** | [[aga-2024-pregnancy-gi-liver]] |
-| **[[therapeutic-drug-monitoring-ibd\|Therapeutic drug monitoring]]** | **Insufficient evidence** to recommend measuring serum concentrations | [[acg-2025-uc]] KC 37 |
+| **[[therapeutic-drug-monitoring-ibd\|Therapeutic drug monitoring]]** | **Insufficient evidence** to recommend measuring serum concentrations | [[acg-2025-uc]] Key Concept (KC) 37 |
 
 *See [[ibd-preventive-care]] for the full IBD vaccination and cancer-screening schedule, and [[ibd-in-malignancy]] for drug-by-drug management once a malignancy develops.*
 

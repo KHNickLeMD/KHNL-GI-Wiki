@@ -11,7 +11,7 @@ sources: []
 
 - **Article:** [AGA 2022: Diagnosis and Management of AKI in Cirrhosis.](https://doi.org/10.1016/j.cgh.2022.08.033)
 - **DOI:** [10.1016/j.cgh.2022.08.033](https://doi.org/10.1016/j.cgh.2022.08.033)
-- **Type:** guideline (AGA Clinical Practice Update - Expert Review; Best Practice Advice, unrated)
+- **Type:** guideline (American Gastroenterological Association [AGA] Clinical Practice Update - Expert Review; Best Practice Advice, unrated)
 Flamm SL, Wong F, Ahn J, Kamath PS. "AGA Clinical Practice Update on the Evaluation and Management of Acute Kidney Injury in Patients With Cirrhosis: Expert Review." *Clinical Gastroenterology and Hepatology* 2022;20:2707–2716. <https://doi.org/10.1016/j.cgh.2022.08.033>
 
 - Type: Expert review / Best Practice Advice (not a formal systematic review)
@@ -20,7 +20,7 @@ Flamm SL, Wong F, Ahn J, Kamath PS. "AGA Clinical Practice Update on the Evaluat
 
 ## Summary
 
-This AGA expert review provides 14 Best Practice Advice (BPA) statements on AKI in patients with cirrhosis, covering diagnosis (KDIGO criteria), classification of AKI subtypes, initial evaluation, pharmacological treatment of HRS-AKI (albumin plus vasoconstrictors), indications for renal replacement therapy, and [[liver-transplantation|liver transplantation]] as definitive therapy. The document also reflects the updated International Club of Ascites (ICA) nomenclature replacing HRS Type 1/2 with HRS-AKI and HRS-NAKI.
+This AGA expert review provides 14 Best Practice Advice (BPA) statements on acute kidney injury (AKI) in patients with cirrhosis, covering diagnosis (Kidney Disease: Improving Global Outcomes [KDIGO] criteria), classification of AKI subtypes, initial evaluation, pharmacological treatment of hepatorenal syndrome (HRS)-AKI (albumin plus vasoconstrictors), indications for renal replacement therapy, and [[liver-transplantation|liver transplantation]] as definitive therapy. The document also reflects the updated International Club of Ascites (ICA) nomenclature replacing HRS Type 1/2 with HRS-AKI and HRS–non-AKI (HRS-NAKI).
 
 ## Key Findings / Claims
 
@@ -29,20 +29,20 @@ This AGA expert review provides 14 Best Practice Advice (BPA) statements on AKI 
 - AKI occurs in ~47% of hospitalized patients with complications of cirrhosis and ~30% of outpatients with cirrhosis
 - Associated with a 7-fold increase in morbidity and mortality vs. those without AKI
 - ~$4 billion in total US hospitalization costs annually
-- Repeated AKI episodes increase risk of progression to CKD
+- Repeated AKI episodes increase risk of progression to chronic kidney disease (CKD)
 
 **Diagnosis**
 
-- AKI defined by KDIGO criteria: SCr rise ≥0.3 mg/dL within 48 hours, OR ≥50% increase from baseline within 7 days, OR urine output <0.5 mL/kg/h for >6 hours
+- AKI defined by KDIGO criteria: serum creatinine (SCr) rise ≥0.3 mg/dL within 48 hours, OR ≥50% increase from baseline within 7 days, OR urine output <0.5 mL/kg/h for >6 hours
 - Baseline SCr: use most recent value within prior 3 months if no value within 7 days
-- Serum creatinine underestimates true GFR reduction in cirrhosis (reduced muscle mass, impaired hepatic creatine production, hyperbilirubinemia interfering with colorimetric assays)
+- Serum creatinine underestimates true glomerular filtration rate (GFR) reduction in cirrhosis (reduced muscle mass, impaired hepatic creatine production, hyperbilirubinemia interfering with colorimetric assays)
 
 **AKI Classification (Updated ICA Nomenclature)**
 
 | Old Term | New Term | Key Feature |
 |---|---|---|
 | HRS Type 1 | HRS-AKI | Meets AKI criteria + functional, no response to 2-day albumin challenge |
-| HRS Type 2 | HRS-NAKI / HRS-AKD | GFR <60 mL/min for <3 months without meeting AKI criteria |
+| HRS Type 2 | HRS-NAKI / HRS–acute kidney disease (HRS-AKD) | GFR <60 mL/min for <3 months without meeting AKI criteria |
 | — | HRS-CKD | GFR <60 mL/min for ≥3 months |
 
 HRS-AKI diagnostic criteria (current):
@@ -52,20 +52,20 @@ HRS-AKI diagnostic criteria (current):
 - No response to 2-day albumin volume challenge (1 g/kg/d)
 - Absence of shock
 - No current/recent nephrotoxic drug use
-- No structural kidney injury markers (proteinuria >500 mg/d, hematuria >50 RBCs/HPF, abnormal renal US)
+- No structural kidney injury markers (proteinuria >500 mg/d, hematuria >50 red blood cells (RBCs)/high-power field (HPF), abnormal renal ultrasound)
 
 **Urine Studies**
 
 - Urine Na <10 mEq/L in HRS (but may be higher post-diuretics)
-- FENa <1%: suggests prerenal/HRS; sensitivity 100%, specificity only 14% in cirrhosis
-- FEUrea <28.16%: sensitivity 75%, specificity 83% for separating HRS from non-HRS — preferred over FENa in cirrhosis
-- Urinary NGAL: most studied biomarker; levels in HRS-AKI much lower than ATN; cutoff 220–244 mcg/g creatinine distinguishes ATN from HRS/prerenal; not widely available in US clinically
+- Fractional excretion of sodium (FENa) <1%: suggests prerenal/HRS; sensitivity 100%, specificity only 14% in cirrhosis
+- Fractional excretion of urea (FEUrea) <28.16%: sensitivity 75%, specificity 83% for separating HRS from non-HRS — preferred over FENa in cirrhosis
+- Urinary neutrophil gelatinase-associated lipocalin (NGAL): most studied biomarker; levels in HRS-AKI much lower than acute tubular necrosis (ATN); cutoff 220–244 mcg/g creatinine distinguishes ATN from HRS/prerenal; not widely available in US clinically
 
 **Prevention**
 
-- Avoid NSAIDs, excessive diuretics, nonselective beta-blockers
+- Avoid nonsteroidal anti-inflammatory drugs (NSAIDs), excessive diuretics, nonselective beta-blockers
 - Albumin 1 g/kg with large-volume paracentesis
-- Antibiotics with GI bleeding and [[spontaneous-bacterial-peritonitis|SBP]] prophylaxis
+- Antibiotics with gastrointestinal (GI) bleeding and [[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]] prophylaxis
 - Counsel against alcohol use
 
 **Initial Management (BPA 5)**
@@ -79,7 +79,7 @@ HRS-AKI diagnostic criteria (current):
 **HRS-AKI Treatment (BPA 6)**
 
 - If SCr remains >2× baseline after initial measures: start vasoconstrictors + albumin
-- Albumin: 1 g/kg IV on day 1, then 20–40 g/day
+- Albumin: 1 g/kg intravenous (IV) on day 1, then 20–40 g/day
 - Continue until SCr returns to within ≤0.3 mg/dL of baseline for 2 consecutive days, OR for maximum 14 days
 
 **Terlipressin (BPA 7)**
@@ -88,34 +88,34 @@ HRS-AKI diagnostic criteria (current):
 - Escalate to 2 mg q4–6h (total 8–12 mg/d) if SCr does not decrease ≥25% by day 3
 - Continuous infusion alternative: start 2 mg/d, titrate by 24–48h intervals to max 12 mg/d
 - FDA restrictions: contraindicated if SCr ≥5 mg/dL or O2 sat <90%
-- Predictors of response: bilirubin <10 mg/dL, SCr <5 mg/dL, lower ACLF grade, sustained MAP increase of 5–10 mmHg
-- Response rate in RCTs: 36–44% (CONFIRM: 29% reversed HRS and survived 10 days post-treatment without RRT)
+- Predictors of response: bilirubin <10 mg/dL, SCr <5 mg/dL, lower acute-on-chronic liver failure (ACLF) grade, sustained mean arterial pressure (MAP) increase of 5–10 mmHg
+- Response rate in randomized controlled trials (RCTs): 36–44% (CONFIRM: 29% reversed HRS and survived 10 days post-treatment without renal replacement therapy [RRT])
 - Risk of respiratory failure: ~30% in CONFIRM terlipressin arm, especially with concomitant organ failure
 
 **Midodrine + Octreotide (BPA 8)**
 
-- Midodrine: start 7.5 mg PO TID, titrate to 12.5 mg TID
-- Octreotide: start 100 mcg SQ TID, titrate to 200 mcg TID
-- Inferior to terlipressin; works slowly; widely used when terlipressin unavailable and ICU not available
+- Midodrine: start 7.5 mg orally (PO) TID, titrate to 12.5 mg TID
+- Octreotide: start 100 mcg subcutaneously (SQ) TID, titrate to 200 mcg TID
+- Inferior to terlipressin; works slowly; widely used when terlipressin unavailable and intensive care unit (ICU) not available
 
 **Norepinephrine (BPA 9)**
 
 - Start 0.5 mcg/h IV, increase by 0.5 mcg/h q4h, max 3 mcg/h
 - Goal: MAP increase ≥10 mmHg and/or urine output >50 mL/h for ≥4 hours
 - Must be administered in ICU (feasibility study outside ICU exists but not standard)
-- Similar efficacy to terlipressin except in ACLF (bilirubin >5 mg/dL, INR >1.5, with encephalopathy or ascites onset within 4 weeks): terlipressin superior
+- Similar efficacy to terlipressin except in ACLF (bilirubin >5 mg/dL, international normalized ratio [INR] >1.5, with encephalopathy or ascites onset within 4 weeks): terlipressin superior
 
 **Renal Replacement Therapy (BPA 12)**
 
 - Indicated in ATN
 - Indicated in HRS-AKI only as bridge to liver transplantation — NOT in non-transplant candidates
 - Continuous RRT preferred over intermittent (less hemodynamic instability)
-- ~2/3 of HRS-AKI patients on pretransplant RRT recover renal function post-LT
+- ~2/3 of HRS-AKI patients on pretransplant RRT recover renal function after liver transplantation (LT)
 - Duration >14 days pretransplant associated with renal non-recovery
 - Each additional day of dialysis pretransplant: 3.6–6% increased risk of renal non-recovery post-LT
 - Mortality with >7 days RRT: 59%
 
-**TIPS**
+**Transjugular intrahepatic portosystemic shunt (TIPS)**
 
 - Not recommended for treatment of HRS-AKI (insufficient data)
 
@@ -123,8 +123,8 @@ HRS-AKI diagnostic criteria (current):
 
 - Most effective treatment for HRS-AKI (reverses underlying hepatic dysfunction)
 - Treat HRS-AKI pharmacologically before LT — may improve post-LT outcomes
-- MELD paradox: successful treatment lowers SCr, reducing MELD-Na score and transplant priority
-- Simultaneous liver-kidney transplant criteria (OPTN/UNOS 2017): dialysis dependence OR GFR ≤25 mL/min for ≥6 consecutive weeks
+- Model for End-Stage Liver Disease (MELD) paradox: successful treatment lowers SCr, reducing MELD-Na score and transplant priority
+- Simultaneous liver-kidney transplant criteria (Organ Procurement and Transplantation Network [OPTN]/United Network for Organ Sharing [UNOS] 2017): dialysis dependence OR GFR ≤25 mL/min for ≥6 consecutive weeks
 
 ## Recommendations
 
@@ -136,7 +136,7 @@ HRS-AKI diagnostic criteria (current):
 | **Prevention** | | |
 | Avoid NSAIDs, excessive diuretics, and nonselective beta-blockers; use albumin with large-volume paracentesis; provide antibiotic prophylaxis with GI bleeding and SBP | Best Practice Advice | — |
 | **Initial Management** | | |
-| Hold diuretics and NSBBs; treat precipitating cause; replace fluid losses; if SCr doubles from baseline, give albumin 1 g/kg/d for 2 days | Best Practice Advice | — |
+| Hold diuretics and nonselective beta-blockers; treat precipitating cause; replace fluid losses; if SCr doubles from baseline, give albumin 1 g/kg/d for 2 days | Best Practice Advice | — |
 | **HRS-AKI Treatment — Vasoconstrictors** | | |
 | If SCr remains >2x baseline after initial measures: start vasoconstrictors + albumin (1 g/kg IV on day 1, then 20-40 g/day for up to 14 days) | Best Practice Advice | — |
 | Use terlipressin 1 mg IV q4-6h; escalate to 2 mg q4-6h if SCr does not decrease >=25% by day 3 (contraindicated if SCr >=5 mg/dL or O2 sat <90%) | Best Practice Advice | — |

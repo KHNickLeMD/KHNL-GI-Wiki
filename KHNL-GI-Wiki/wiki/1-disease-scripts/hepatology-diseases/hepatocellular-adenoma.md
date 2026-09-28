@@ -34,14 +34,14 @@ sources: [acg-2024-focal-liver-lesions]
 
 ### Establishing the Diagnosis
 
-**Hepatocellular adenoma (HCA):** rare benign hepatocellular neoplasm; clinically significant due to bleeding risk and malignant transformation potential ([[hepatocellular-carcinoma|HCC]]).
+**Hepatocellular adenoma (HCA):** rare benign hepatocellular neoplasm; clinically significant due to bleeding risk and malignant transformation potential ([[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]]).
 
 **Epidemiology:**
 
 - Overall prevalence limited but reported around **0.007%–0.012%**; predominantly women taking oral contraceptive pills (OCPs)
 - Incidence: **3–4 per 100,000** OCP users vs. **0.13–1.0 per 100,000** in non-users (modern OCPs have markedly lower estrogen/progesterone than 1960s formulations)
 - **No formal recommendation exists for HCA screening** based on metabolic risk factors or duration of OCP exposure ([[acg-2024-focal-liver-lesions]])
-- Also associated with (KC 5): anabolic-androgenic steroid use and androgen therapy (especially men), glycogen storage disease type Ia and III, metabolic syndrome/[[obesity]], polycystic ovarian syndrome, and exogenous hormonal therapy in men, women, and transgender individuals
+- Also associated with (Key Concept [KC] 5): anabolic-androgenic steroid use and androgen therapy (especially men), glycogen storage disease type Ia and III, metabolic syndrome/[[obesity]], polycystic ovarian syndrome, and exogenous hormonal therapy in men, women, and transgender individuals
 - Any lesion arising in a [[cirrhosis|cirrhotic]] liver must be considered [[hepatocellular-carcinoma|HCC]] until proven otherwise — benign lesions rarely form de novo in cirrhosis
 
 **Presentation:**
@@ -49,18 +49,18 @@ sources: [acg-2024-focal-liver-lesions]
 - Often **incidental** on imaging obtained for other reasons
 - Right upper quadrant or epigastric pain (from hemorrhage into adenoma or liver capsule)
 - Acute hemorrhage with hemoperitoneum (life-threatening; HCA >5 cm at highest risk)
-- Rarely: systemic symptoms from elevated CRP (inflammatory subtype)
+- Rarely: systemic symptoms from elevated C-reactive protein (CRP) (inflammatory subtype)
 
 **Molecular subtypes (Bordeaux classification)** [[acg-2024-focal-liver-lesions]]:
 
-Risk values below are the ACG **Table 4** "Complications" row (hemorrhage / malignancy).
+Risk values below are the American College of Gastroenterology (ACG) **Table 4** "Complications" row (hemorrhage / malignancy).
 
 | Subtype | Frequency | Key Features | Hemorrhage risk | Malignancy risk | Imaging |
 |---|---|---|---|---|---|
-| **HNF1α-inactivated** | 35–40% | Steatotic lesion; women; MODY3 association | Low | Low | Fat-containing (signal dropout) on MRI |
-| **Inflammatory (IHCA)** | 35–45% | Elevated CRP/SAA; [[obesity]]/metabolic syndrome/alcohol; sinusoidal dilation | Low | Moderate | Persistent enhancement on gadoxetate |
-| **Beta-catenin activated** | **exon 3 mutation ~10%; CTNNB1 exon 7/8 mutation <10%** | Often men; anabolic steroids, GSD; resembles HCC | Low | **High (up to 46%, exon 3)** | May mimic HCC; heterogeneous |
-| **Sonic hedgehog** | <5% | Exogenous hormones, [[obesity]]; SHH-pathway (INHβE/GLI1 fusion) | **High** | Low | Nonspecific on MRI (not reliably subtyped) |
+| **HNF1α-inactivated** | 35–40% | Steatotic lesion; women; maturity-onset diabetes of the young type 3 (MODY3) association | Low | Low | Fat-containing (signal dropout) on magnetic resonance imaging (MRI) |
+| **Inflammatory (IHCA)** | 35–45% | Elevated CRP/serum amyloid A (SAA); [[obesity]]/metabolic syndrome/alcohol; sinusoidal dilation | Low | Moderate | Persistent enhancement on gadoxetate |
+| **Beta-catenin activated** | **exon 3 mutation ~10%; CTNNB1 exon 7/8 mutation <10%** | Often men; anabolic steroids, glycogen storage disease (GSD); resembles HCC | Low | **High (up to 46%, exon 3)** | May mimic HCC; heterogeneous |
+| **Sonic hedgehog** | <5% | Exogenous hormones, [[obesity]]; sonic hedgehog (SHH) pathway (INHβE/GLI1 fusion) | **High** | Low | Nonspecific on MRI (not reliably subtyped) |
 | **Unclassified** | 5–10% | Cannot be classified by immunostaining | Uncertain | Uncertain | Variable |
 
 ### Severity Assessment
@@ -82,9 +82,9 @@ Risk values below are the ACG **Table 4** "Complications" row (hemorrhage / mali
 
 *Workup & imaging comparison: see [[focal-liver-lesions]].*
 
-- **[[focal-nodular-hyperplasia|Focal nodular hyperplasia]] (FNH)** — central scar (T2 iso-/hyperintense, delayed enhancement); **hepatobiliary-phase hyperintensity** on gadoxetic acid (HCA is typically HBP iso-/hypointense); no malignant potential; does not need resection
+- **[[focal-nodular-hyperplasia|Focal nodular hyperplasia]] (FNH)** — central scar (T2 iso-/hyperintense, delayed enhancement); **hepatobiliary-phase hyperintensity** on gadoxetic acid (HCA is typically hepatobiliary phase [HBP] iso-/hypointense); no malignant potential; does not need resection
 - **[[hepatic-hemangioma|Hepatic hemangioma]]** — T2 hyperintense; peripheral nodular enhancement centripetal fill-in; no hepatocellular origin
-- **[[hepatocellular-carcinoma|Hepatocellular carcinoma]] (HCC)** — in [[cirrhosis|cirrhotic]] background; APHE + washout; [[li-rads|LI-RADS]] ≥4; may be indistinguishable from beta-catenin HCA on imaging
+- **[[hepatocellular-carcinoma|Hepatocellular carcinoma]]** — in [[cirrhosis|cirrhotic]] background; arterial phase hyperenhancement (APHE) + washout; [[li-rads|Liver Imaging Reporting and Data System (LI-RADS)]] ≥4; may be indistinguishable from beta-catenin HCA on imaging
 - **Metastasis** — in patient with known primary malignancy; multiple lesions; irregular enhancement
 - **Hepatocellular carcinoma in beta-catenin HCA** — malignant transformation; biopsy or resection often required for definitive diagnosis
 
@@ -108,7 +108,7 @@ Risk values below are the ACG **Table 4** "Complications" row (hemorrhage / mali
 - Valid alternative to MRI; avoids radiation and gadolinium
 - HCA: hyperenhancement in arterial phase with early washout (washout less pronounced than HCC)
 
-**CT with contrast:**
+**Computed tomography (CT) with contrast:**
 
 - Arterial hyperenhancement; portal-venous phase iso- or hypodense
 - Inferior to MRI for subtype determination
@@ -117,12 +117,12 @@ Risk values below are the ACG **Table 4** "Complications" row (hemorrhage / mali
 
 - [[liver-biopsy|Percutaneous biopsy]] controversial due to bleeding risk from highly vascular lesion
 - Indicated when imaging is inconclusive and management would change based on molecular subtype
-- Immunostaining: LFABP (HNF1α loss), CRP/SAA (inflammatory), beta-catenin/glutamine synthetase (beta-catenin activation)
+- Immunostaining: liver fatty acid-binding protein (LFABP) (HNF1α loss), CRP/SAA (inflammatory), beta-catenin/glutamine synthetase (beta-catenin activation)
 
 **Serum biomarkers** ([[acg-2024-focal-liver-lesions]]): **no serum biomarker is diagnostic of HCA.**
 
-- **AFP** — order **only when there is concern for malignant transformation**; it has **low sensitivity** for detecting HCC in this setting and AFP levels are **not reliable** for identifying transformation. A normal AFP does not exclude it; next-generation sequencing can help.
-- Alk P may rise with larger or multiple adenomas; CRP/fibrinogen may rise in the inflammatory subtype, but **evidence is insufficient to check CRP or fibrinogen routinely**.
+- **Alpha-fetoprotein (AFP)** — order **only when there is concern for malignant transformation**; it has **low sensitivity** for detecting HCC in this setting and AFP levels are **not reliable** for identifying transformation. A normal AFP does not exclude it; next-generation sequencing can help.
+- Alkaline phosphatase may rise with larger or multiple adenomas; CRP/fibrinogen may rise in the inflammatory subtype, but **evidence is insufficient to check CRP or fibrinogen routinely**.
 
 **Imaging features that should raise concern for malignant transformation** (the trigger for KC 16 management below): **a change in imaging characteristics** and **rapid growth**. Imaging overlap makes the diagnosis challenging — multidisciplinary discussion and biopsy may be warranted.
 
@@ -149,9 +149,9 @@ Risk values below are the ACG **Table 4** "Complications" row (hemorrhage / mali
 | **Any size, imaging features concerning for malignant transformation** | Treat **as [[hepatocellular-carcinoma\|HCC]]** — surgical resection, locoregional therapy, and/or [[liver-transplantation\|liver transplantation]] | KC 16 |
 | **Requires treatment but cannot undergo resection** | **Embolization or [[radiofrequency-ablation\|ablation]]** as alternative (Conditional / Low) | Rec 7 |
 
-**Hepatic adenomatosis** = variant with **≥10 hepatic adenomas**; more commonly associated with background steatosis ([[nafld-masld|MASLD]]) or glycogen storage disease (KC 17).
+**Hepatic adenomatosis** = variant with **≥10 hepatic adenomas**; more commonly associated with background steatosis ([[nafld-masld|metabolic dysfunction-associated steatotic liver disease (MASLD)]]) or glycogen storage disease (KC 17).
 
-**[[liver-transplantation|Liver transplantation]]** — consider in patients meeting OPTN policy, especially glycogen storage disease, unresectable beta-catenin–positive adenoma, or unresectable HCA with hemorrhagic or malignant transformation (KC 18).
+**[[liver-transplantation|Liver transplantation]]** — consider in patients meeting Organ Procurement and Transplantation Network (OPTN) policy, especially glycogen storage disease, unresectable beta-catenin–positive adenoma, or unresectable HCA with hemorrhagic or malignant transformation (KC 18).
 
 ### 3. Surveillance (Women with HCA <5 cm)
 

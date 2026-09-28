@@ -9,12 +9,12 @@ sources: [acg-2022-gastroparesis, aga-2024-cvs, aga-2024-chs, asge-2020-acpo-vol
 
 ## Definition / Scope
 
-**Nausea** is the unpleasant sensation of an imminent urge to vomit; **vomiting** is the forceful oral expulsion of gastric contents via coordinated GI, abdominal-wall, and respiratory muscle activity. Distinguish from:
+**Nausea** is the unpleasant sensation of an imminent urge to vomit; **vomiting** is the forceful oral expulsion of gastric contents via coordinated gastrointestinal (GI), abdominal-wall, and respiratory muscle activity. Distinguish from:
 
-- **Regurgitation** — effortless return of undigested food/liquid without nausea or retching (suggests [[gerd]], [[achalasia]], Zenker's, or [[rumination-syndrome|rumination]]).
-- **Rumination** — repetitive effortless regurgitation of recently ingested food within minutes of eating, with re-chewing; a behavioral [[disorders-of-gut-brain-interaction|DGBI]].
+- **Regurgitation** — effortless return of undigested food/liquid without nausea or retching (suggests [[gerd|gastroesophageal reflux disease (GERD)]], [[achalasia]], Zenker's, or [[rumination-syndrome|rumination]]).
+- **Rumination** — repetitive effortless regurgitation of recently ingested food within minutes of eating, with re-chewing; a behavioral [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction (DGBI)]].
 
-Duration frames the differential: **acute** (<1 week — usually infection, drugs, toxins, or an acute abdomen) vs. **chronic/recurrent** (>1 month — motility, functional, obstructive, metabolic, or CNS causes). The **timing relative to meals** is a useful clue: vomiting of undigested food hours after eating suggests gastric outlet obstruction or [[gastroparesis]]; early-morning vomiting suggests pregnancy, raised intracranial pressure, or uremia.
+Duration frames the differential: **acute** (<1 week — usually infection, drugs, toxins, or an acute abdomen) vs. **chronic/recurrent** (>1 month — motility, functional, obstructive, metabolic, or central nervous system (CNS) causes). The **timing relative to meals** is a useful clue: vomiting of undigested food hours after eating suggests gastric outlet obstruction or [[gastroparesis]]; early-morning vomiting suggests pregnancy, raised intracranial pressure, or uremia.
 
 ---
 
@@ -30,14 +30,14 @@ Duration frames the differential: **acute** (<1 week — usually infection, drug
 
 ### CNS / Vestibular
 
-- Raised intracranial pressure (tumor, hemorrhage, hydrocephalus) — often projectile, with headache/neuro signs
-- Migraine, vestibular disorders (labyrinthitis, BPPV, Ménière's), motion sickness
+- Raised intracranial pressure (ICP) (tumor, hemorrhage, hydrocephalus) — often projectile, with headache/neuro signs
+- Migraine, vestibular disorders (labyrinthitis, benign paroxysmal positional vertigo [BPPV], Ménière's), motion sickness
 
 ### Metabolic / Endocrine / Drugs
 
 - **Pregnancy** (always test in reproductive-age women) — [[nausea-and-vomiting-of-pregnancy|nausea/vomiting of pregnancy & hyperemesis gravidarum]]; see [[liver-disease-in-pregnancy]] for the hepatic overlap
-- DKA, uremia, hypercalcemia, adrenal insufficiency, thyroid disease
-- **Drugs/toxins** — opioids, chemotherapy, digoxin, antibiotics, NSAIDs, dopamine agonists, [[glp-1-receptor-agonists|GLP-1 agonists]]; alcohol
+- Diabetic ketoacidosis (DKA), uremia, hypercalcemia, adrenal insufficiency, thyroid disease
+- **Drugs/toxins** — opioids, chemotherapy, digoxin, antibiotics, nonsteroidal anti-inflammatory drugs (NSAIDs), dopamine agonists, [[glp-1-receptor-agonists|glucagon-like peptide-1 (GLP-1) agonists]]; alcohol
 - Postoperative nausea/vomiting
 
 ### Functional and Episodic Syndromes
@@ -55,10 +55,10 @@ Rome V groups these as **B2 — nausea and vomiting disorders**, a gastroduodena
 ```mermaid
 flowchart TD
     A["Nausea and vomiting"] --> B{"Acute or chronic/recurrent?"}
-    B -->|Acute| C{"Alarm features?<br/>(severe pain, peritonitis,<br/>neuro signs, dehydration, GIB)"}
-    C -->|Yes| D["Urgent eval: labs, pregnancy test,<br/>imaging (CT/US), surgical consult"]
+    B -->|Acute| C{"Alarm features?<br/>(severe pain, peritonitis,<br/>neuro signs, dehydration, GI bleeding)"}
+    C -->|Yes| D["Urgent eval: labs, pregnancy test,<br/>imaging (computed tomography [CT]/<br/>ultrasound), surgical consult"]
     C -->|No| E["Supportive care, treat cause<br/>(gastroenteritis, drugs)"]
-    B -->|"Chronic / recurrent"| F["Pregnancy test + labs<br/>(CMP, Ca, TSH, lipase) + med review"]
+    B -->|"Chronic / recurrent"| F["Pregnancy test + labs<br/>(comprehensive metabolic panel [CMP], Ca,<br/>thyroid-stimulating hormone [TSH], lipase)<br/>+ med review"]
     F --> G["Upper endoscopy ± abdominal imaging<br/>to exclude obstruction/mucosal disease"]
     G -->|"Obstruction / lesion"| H["Treat structural cause"]
     G -->|"Normal"| I["Gastric emptying scintigraphy"]
@@ -68,14 +68,14 @@ flowchart TD
 
 1. **Acute vs. chronic.** Acute with **alarm features** (severe/localized pain, peritoneal signs, GI bleeding, neurologic deficits, signs of obstruction, severe dehydration) → urgent labs, **pregnancy test**, and cross-sectional imaging ± surgical evaluation.
 2. **Always test pregnancy** in reproductive-age women before imaging or pharmacotherapy.
-3. **Labs** — CMP (electrolytes, renal, glucose/ketones), calcium, TSH, lipase, LFTs; CBC; consider cortisol/morning if adrenal insufficiency suspected; drug review (opioids, GLP-1 agonists, chemo).
-4. **Exclude obstruction and mucosal disease** — abdominal X-ray/CT for suspected obstruction; **[[upper-endoscopy|EGD]]** for chronic symptoms, [[dysphagia]], weight loss, or suspected [[peptic-ulcer-disease|PUD]]/malignancy.
+3. **Labs** — CMP (electrolytes, renal, glucose/ketones), calcium, TSH, lipase, liver function tests (LFTs); complete blood count (CBC); consider cortisol/morning if adrenal insufficiency suspected; drug review (opioids, GLP-1 agonists, chemo).
+4. **Exclude obstruction and mucosal disease** — abdominal X-ray/CT for suspected obstruction; **[[upper-endoscopy|esophagogastroduodenoscopy (EGD)]]** for chronic symptoms, [[dysphagia]], weight loss, or suspected [[peptic-ulcer-disease|peptic ulcer disease (PUD)]]/malignancy.
 5. **If structural causes excluded** → **scintigraphic gastric emptying** for [[gastroparesis]]. The threshold only means something with its protocol attached ([[acg-2022-gastroparesis]]):
    - **Solid meal, standard 255-kcal, 2% fat Egg Beaters meal**; imaging at **0, 1, 2, and 4 h**.
    - **≥3 h of imaging required, 4 h optimal** (3 h acceptable only if >90% emptied by 3 h).
    - **Delayed emptying = >10% retention at 4 h.** A 2-h or non-standard-meal study does not establish the diagnosis.
    - Stop opioids/GLP-1 agonists and correct hyperglycemia first — both delay emptying and confound the test.
-6. **Neuroimaging** (CT/MRI brain) if headache, papilledema, focal deficits, or early-morning vomiting suggest a CNS cause.
+6. **Neuroimaging** (CT/magnetic resonance imaging [MRI] brain) if headache, papilledema, focal deficits, or early-morning vomiting suggest a CNS cause.
 7. **Recognize episodic syndromes** — stereotyped attacks with well intervals = CVS; cannabis use + relief with hot bathing = CHS (treat with cessation).
 
 ---
@@ -98,7 +98,7 @@ flowchart TD
 - **Signs of obstruction** — abdominal distension, absent flatus/stool, succussion splash
 - **Hematemesis or coffee-ground emesis** — see [[upper-gi-bleeding]]
 - **Neurologic features** — headache, papilledema, focal deficits, projectile/early-morning vomiting (raised ICP)
-- **Severe dehydration / electrolyte disturbance** — hypokalemia, metabolic alkalosis, AKI
+- **Severe dehydration / electrolyte disturbance** — hypokalemia, metabolic alkalosis, acute kidney injury (AKI)
 - **Unintentional weight loss, dysphagia, anemia** — malignancy/structural disease
 - **Suspected pregnancy / hyperemesis gravidarum**
 

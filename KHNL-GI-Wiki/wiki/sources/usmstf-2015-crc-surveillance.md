@@ -15,19 +15,19 @@ sources: []
 - **Journal/Publisher:** Am J Gastroenterol 2016;111:337–346 (simultaneously published in Gastroenterology and Gastrointestinal Endoscopy)
 - **DOI:** [10.1038/ajg.2016.22](https://doi.org/10.1038/ajg.2016.22)
 - **Type:** Guideline / consensus statement
-- **Society:** US Multi-Society Task Force on Colorectal Cancer (USMSTF) — representing ACG, AGA, ASGE
+- **Society:** US Multi-Society Task Force on Colorectal Cancer (USMSTF) — representing the American College of Gastroenterology (ACG), American Gastroenterological Association (AGA), and American Society for Gastrointestinal Endoscopy (ASGE)
 
 ---
 
 ## Summary
 
-The USMSTF 2015 document provides updated recommendations on the role of [[colonoscopy]] and selected alternatives (CT colonography, fecal testing, flexible sigmoidoscopy, [[endoscopic-ultrasound|EUS]]) in surveillance of patients after curative-intent surgical resection of [[colorectal-cancer|CRC]] (TNM stages I–III; selected stage IV). It updates the 2006 USMSTF consensus guideline. The scope explicitly excludes use of CEA, CT scans, and chest radiographs.
+The USMSTF 2015 document provides updated recommendations on the role of [[colonoscopy]] and selected alternatives (computed tomography [CT] colonography [CTC], fecal testing, flexible sigmoidoscopy, [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]) in surveillance of patients after curative-intent surgical resection of [[colorectal-cancer|colorectal cancer (CRC)]] (TNM stages I–III; selected stage IV). It updates the 2006 USMSTF consensus guideline. The scope explicitly excludes use of carcinoembryonic antigen (CEA), CT scans, and chest radiographs.
 
 The central organizing principle is the dual role of post-resection colonoscopy: (1) perioperative clearing to detect synchronous cancers and precancerous polyps, and (2) long-term prevention of metachronous cancer. Importantly, the guideline concludes that increased intensity of colonoscopic surveillance after curative resection does not improve survival beyond what is achieved by the standard schedule, and may increase patient harm. The 1-year post-surgery colonoscopy is retained as high-yield based on pooled data showing ~30% of metachronous cancers occur within 2 years of resection, many attributable to missed lesions at perioperative clearing.
 
-Rectal cancer surveillance is treated as a separate consideration given its higher local recurrence risk, and specific guidance is given for patients who did not undergo standard total mesorectal excision (TME). CT colonography is endorsed for obstructive CRC precluding complete colonoscopy; there is insufficient evidence for FIT or fecal DNA in routine post-resection surveillance.
+Rectal cancer surveillance is treated as a separate consideration given its higher local recurrence risk, and specific guidance is given for patients who did not undergo standard total mesorectal excision (TME). CT colonography is endorsed for obstructive CRC precluding complete colonoscopy; there is insufficient evidence for fecal immunochemical test (FIT) or fecal DNA in routine post-resection surveillance.
 
-A "high-quality" colonoscopy is defined throughout as: complete to cecum/anastomosis, adequate bowel preparation, and performed by an endoscopist meeting adenoma detection benchmarks (ADR >25% in average-risk screening).
+A "high-quality" colonoscopy is defined throughout as: complete to cecum/anastomosis, adequate bowel preparation, and performed by an endoscopist meeting adenoma detection benchmarks (adenoma detection rate [ADR] >25% in average-risk screening).
 
 ---
 
@@ -49,7 +49,7 @@ A "high-quality" colonoscopy is defined throughout as: complete to cecum/anastom
 >
 > *Strong recommendation, low-quality evidence*
 
-**Evidence basis:** In pooled post-CRC resection data (15,803 patients, 253 metachronous cancers; 1.6%), ~30% of metachronous cancers were detected within 2 years of surgery. Large HMO study: 20/652 (3.1%) developed a second CRC, of whom 9 were detected within 18 months. VA Cooperative Study 380: 4 of 5 cancers in index CRC patients found within 18 months. The 1-year examination is high-yield and cost-effective.
+**Evidence basis:** In pooled post-CRC resection data (15,803 patients, 253 metachronous cancers; 1.6%), ~30% of metachronous cancers were detected within 2 years of surgery. Large health maintenance organization (HMO) study: 20/652 (3.1%) developed a second CRC, of whom 9 were detected within 18 months. Veterans Affairs (VA) Cooperative Study 380: 4 of 5 cancers in index CRC patients found within 18 months. The 1-year examination is high-yield and cost-effective.
 
 ---
 
@@ -69,7 +69,7 @@ A "high-quality" colonoscopy is defined throughout as: complete to cecum/anastom
 >
 > *Weak recommendation, low-quality evidence*
 
-**Context:** >80% of anastomotic recurrences in compiled studies involved rectal or distal colon cancer. EUS can detect extraluminal recurrence before intraluminal endoscopic findings, allows FNA of suspicious nodes/lesions, and approximately 10% of rectal cancer recurrences are diagnosed by EUS only. No RCTs evaluate whether intensive EUS improves rectal cancer survival. This recommendation is maintained from the 2006 USMSTF guidelines. The optimal approach requires multidisciplinary collaboration.
+**Context:** >80% of anastomotic recurrences in compiled studies involved rectal or distal colon cancer. EUS can detect extraluminal recurrence before intraluminal endoscopic findings, allows fine-needle aspiration (FNA) of suspicious nodes/lesions, and approximately 10% of rectal cancer recurrences are diagnosed by EUS only. No randomized controlled trials (RCTs) evaluate whether intensive EUS improves rectal cancer survival. This recommendation is maintained from the 2006 USMSTF guidelines. The optimal approach requires multidisciplinary collaboration.
 
 ---
 
@@ -79,7 +79,7 @@ A "high-quality" colonoscopy is defined throughout as: complete to cecum/anastom
 >
 > *Strong recommendation, moderate-quality evidence*
 
-**Evidence:** Large case series (n=284 obstructing CRC): sensitivity 88.6%, NPV 97.4% for synchronous advanced neoplasia proximal to obstruction. SIGGAR RCT (n=3,838): CRC or large polyp detection rate 7.3% vs. 5.6% for CTC vs. barium enema (RR=1.31; p=0.039). CTC with IV contrast can simultaneously exclude distant metastases (caution: perforation risk with complete obstruction and gas insufflation). CTC preferred over barium enema for obstructing cancers; barium enema acceptable if CTC unavailable.
+**Evidence:** Large case series (n=284 obstructing CRC): sensitivity 88.6%, negative predictive value (NPV) 97.4% for synchronous advanced neoplasia proximal to obstruction. SIGGAR RCT (n=3,838): CRC or large polyp detection rate 7.3% vs. 5.6% for CTC vs. barium enema (relative risk [RR]=1.31; p=0.039). CTC with intravenous contrast can simultaneously exclude distant metastases (caution: perforation risk with complete obstruction and gas insufflation). CTC preferred over barium enema for obstructing cancers; barium enema acceptable if CTC unavailable.
 
 **Caveat for postoperative use:** CTC has good diagnostic accuracy for cancer but limited sensitivity for flat/diminutive (<5mm) lesions and nonadenomatous lesions (e.g., sessile serrated polyps). Expertise needed to distinguish normal postoperative anastomotic changes from true recurrences. Optimal timing of CTC in post-resection surveillance remains undefined.
 
@@ -97,12 +97,12 @@ A "high-quality" colonoscopy is defined throughout as: complete to cecum/anastom
 
 ## Key Evidence Points
 
-- **Surveillance colonoscopy and survival:** Observational databases and RCT meta-analyses show surveillance colonoscopy is associated with lower *overall* mortality (OR=0.73, Cochrane; HR=0.75, 11 RCTs) but NOT lower *cancer-specific* mortality. Intensive colonoscopy frequency (beyond standard schedule) has not been shown to improve survival and may increase patient harm.
+- **Surveillance colonoscopy and survival:** Observational databases and RCT meta-analyses show surveillance colonoscopy is associated with lower *overall* mortality (odds ratio [OR]=0.73, Cochrane; hazard ratio [HR]=0.75, 11 RCTs) but NOT lower *cancer-specific* mortality. Intensive colonoscopy frequency (beyond standard schedule) has not been shown to improve survival and may increase patient harm.
 - **Metachronous cancer rate:** ~0.3–0.35%/year cumulative incidence; ~30% occur within 2 years; in one Netherlands registry study (n=5,157), metachronous CRC attributed to missed lesions 43%, nonadherence 43%, incomplete resection 5.4%, de novo only 5.4%.
 - **High-quality colonoscopy definition:** cecum/anastomosis reached, adequate prep, ADR >25% in average-risk screening.
 - **[[lynch-syndrome|Lynch syndrome]]:** All CRCs should be tested for Lynch syndrome (per USMSTF 2014 recommendations). Patients with known/suspected Lynch syndrome should follow Lynch-specific surveillance intervals, not those in this guideline.
-- **Serrated polyposis syndrome (SPS):** The most common polyp syndrome; often recognized at the colonoscopy diagnosing CRC or during post-resection surveillance. Patients with SPS and CRC require more frequent colonoscopy intervals.
-- **Rectal cancer local recurrence:** >80% of anastomotic recurrences involved rectal/distal colon cancer. TME reduces local recurrence. Local excision (transanal excision, TEM, ESD) carries higher local recurrence risk than radical surgery.
+- **SPS:** The most common polyp syndrome; often recognized at the colonoscopy diagnosing CRC or during post-resection surveillance. Patients with SPS and CRC require more frequent colonoscopy intervals.
+- **Rectal cancer local recurrence:** >80% of anastomotic recurrences involved rectal/distal colon cancer. TME reduces local recurrence. Local excision (transanal excision, transanal endoscopic microsurgery, endoscopic submucosal dissection) carries higher local recurrence risk than radical surgery.
 - **FACS RCT (2014):** Intensive CT + CEA associated with higher rate of curative-intent resection of recurrences but not improved survival vs. minimal follow-up.
 
 ---

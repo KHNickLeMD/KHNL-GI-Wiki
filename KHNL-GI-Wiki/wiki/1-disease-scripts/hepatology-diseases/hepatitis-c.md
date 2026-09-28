@@ -11,46 +11,46 @@ sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1, aga-2025-hbv-react
 
 ### Establishing the Diagnosis
 
-HCV is a blood-borne RNA virus (Flaviviridae) infecting ~58 million people globally; ~2.4 million in the US. Leading cause of [[cirrhosis|cirrhosis]] and [[hepatocellular-carcinoma|hepatocellular carcinoma]]; most common indication for [[liver-transplantation|liver transplantation]] prior to the [[direct-acting-antivirals|DAA]] era.
+Hepatitis C virus (HCV) is a blood-borne RNA virus (Flaviviridae) infecting ~58 million people globally; ~2.4 million in the US. Leading cause of [[cirrhosis|cirrhosis]] and [[hepatocellular-carcinoma|hepatocellular carcinoma]]; most common indication for [[liver-transplantation|liver transplantation]] prior to the [[direct-acting-antivirals|direct-acting antiviral (DAA)]] era.
 
 **Screening (universal):**
 
-- All adults ≥18 years at least once (USPSTF grade B)
+- All adults ≥18 years at least once (US Preventive Services Task Force [USPSTF] grade B)
 - [[hepatitis-c-in-pregnancy|All pregnancies]] (each pregnancy)
-- Annual HCV RNA testing for PWID with ongoing IDU
-- Testing at HIV PrEP initiation and annually thereafter for MSM
+- Annual HCV RNA testing for people who inject drugs (PWID) with ongoing injection drug use (IDU)
+- Testing at human immunodeficiency virus (HIV) pre-exposure prophylaxis (PrEP) initiation and annually thereafter for men who have sex with men (MSM)
 
 **Initial testing algorithm:**
 
 1. **HCV antibody** (anti-HCV): high sensitivity/specificity for prior exposure; positive in resolved + active infection
 2. **Reflex HCV RNA (quantitative):** obtain automatically with positive antibody to confirm active infection (vs. spontaneous clearance). HCV RNA detectable = active infection requiring treatment.
-3. **Genotyping:** NOT required before treatment with pangenotypic regimens (G/P or SOF/VEL); required if using ledipasvir/sofosbuvir (genotype-specific) or if considering NS5A RAS testing for genotype 3 + cirrhosis [[aasld-idsa-2023-hcv]]
+3. **Genotyping:** NOT required before treatment with pangenotypic regimens (glecaprevir/pibrentasvir [G/P] or sofosbuvir/velpatasvir [SOF/VEL]); required if using ledipasvir/sofosbuvir (genotype-specific) or if considering NS5A resistance-associated substitution (RAS) testing for genotype 3 + cirrhosis [[aasld-idsa-2023-hcv]]
 
-**Natural history:** 75–85% chronic infection after acute HCV exposure. Fibrosis progression over 20–30 years; ~20–30% develop cirrhosis. Annual HCC risk in cirrhosis: 1–4%.
+**Natural history:** 75–85% chronic infection after acute HCV exposure. Fibrosis progression over 20–30 years; ~20–30% develop cirrhosis. Annual hepatocellular carcinoma (HCC) risk in cirrhosis: 1–4%.
 
 ### Severity Assessment
 
-Fibrosis staging before treatment to guide duration, regimen selection, and post-SVR surveillance:
+Fibrosis staging before treatment to guide duration, regimen selection, and post-sustained virological response (SVR) surveillance:
 
 | Tool | Cutoffs | Notes |
 |---|---|---|
-| FIB-4 | <1.30 = low fibrosis; >3.25 = advanced fibrosis/cirrhosis | Age/AST/ALT/platelet; calculated online |
-| [[liver-stiffness-measurement\|VCTE (FibroScan)]] | ≥12.5 kPa = compensated cirrhosis | Aetiology-specific cutoffs; less reliable with [[obesity]]/elevated ALT |
+| Fibrosis-4 index (FIB-4) | <1.30 = low fibrosis; >3.25 = advanced fibrosis/cirrhosis | Age/aspartate aminotransferase (AST)/alanine aminotransferase (ALT)/platelet; calculated online |
+| [[liver-stiffness-measurement\|Vibration-controlled transient elastography (VCTE) (FibroScan)]] | ≥12.5 kPa = compensated cirrhosis | Aetiology-specific cutoffs; less reliable with [[obesity]]/elevated ALT |
 | [[liver-biopsy\|Liver biopsy]] | METAVIR F0–F4 (stage definitions on [[liver-biopsy]]) | Rarely needed; use for diagnostic uncertainty. Do **not** convert METAVIR stages to another scheme |
-| Child-Pugh score | A/B/C | Decompensated = CTP ≥7 (class B or C); key regimen-selection criterion. Point table on [[cirrhosis]] |
+| Child-Pugh score | A/B/C | Decompensated = Child-Turcotte-Pugh (CTP) ≥7 (class B or C); key regimen-selection criterion. Point table on [[cirrhosis]] |
 
 **Which fibrosis test to reach for first** ([[aga-2017-elastography-liver-fibrosis]]):
 
-- **VCTE rather than the nonproprietary serum indices (APRI, FIB-4) to detect cirrhosis — strong recommendation, moderate-quality evidence**; the only strong recommendation in that guideline. VCTE sensitivity 0.89 / specificity 0.91, vs APRI 0.77 / 0.78 and FIB-4 0.87 / 0.91.
-- **VCTE rather than MRE** for detecting cirrhosis in HCV (conditional, very-low quality) — MRE adds little accuracy for true cirrhosis (sens 0.94 vs 0.89) but has **poorer specificity (0.81 vs 0.91)** and more false positives, at higher cost and without point-of-care availability.
-- **12.5 kPa is a conditional, low-quality cutoff** (pooled sens 0.86 / spec 0.91): it misclassifies **<5%** of patients as not having cirrhosis when they do, and **<10%** as having cirrhosis when they do not. Do not use it alone — interpret with the rest of the clinical picture, and **do not send a patient to screening endoscopy on the 12.5 kPa result alone** (that decision has its own threshold, 19.5 kPa, on [[liver-stiffness-measurement]]).
+- **VCTE rather than the nonproprietary serum indices (aspartate aminotransferase-to-platelet ratio index [APRI], FIB-4) to detect cirrhosis — strong recommendation, moderate-quality evidence**; the only strong recommendation in that guideline. VCTE sensitivity 0.89 / specificity 0.91, vs APRI 0.77 / 0.78 and FIB-4 0.87 / 0.91.
+- **VCTE rather than magnetic resonance elastography (MRE)** for detecting cirrhosis in HCV (conditional, very-low quality) — MRE adds little accuracy for true cirrhosis (sensitivity 0.94 vs 0.89) but has **poorer specificity (0.81 vs 0.91)** and more false positives, at higher cost and without point-of-care availability.
+- **12.5 kPa is a conditional, low-quality cutoff** (pooled sensitivity 0.86 / specificity 0.91): it misclassifies **<5%** of patients as not having cirrhosis when they do, and **<10%** as having cirrhosis when they do not. Do not use it alone — interpret with the rest of the clinical picture, and **do not send a patient to screening endoscopy on the 12.5 kPa result alone** (that decision has its own threshold, 19.5 kPa, on [[liver-stiffness-measurement]]).
 - **Liver stiffness falls after viral cure**, so repeating elastography post-SVR reduces the number falsely classified as cirrhotic.
 
 **Cirrhosis determination for treatment selection:**
 
-- Cirrhosis assumed if **any one** of: [[liver-stiffness-measurement|liver stiffness]] >12.5 kPa; FIB-4 >3.25; [[noninvasive-liver-disease-assessment|noninvasive serologic test]] (FibroSure/ELF) positive; [[liver-biopsy|liver biopsy]]; liver nodularity/splenomegaly on imaging; platelet <150,000/mm³
+- Cirrhosis assumed if **any one** of: [[liver-stiffness-measurement|liver stiffness]] >12.5 kPa; FIB-4 >3.25; [[noninvasive-liver-disease-assessment|noninvasive serologic test]] (FibroSure/Enhanced Liver Fibrosis [ELF]) positive; [[liver-biopsy|liver biopsy]]; liver nodularity/splenomegaly on imaging; platelet <150,000/mm³
   - *Gap: [[aasld-idsa-2023-hcv]] gives no numeric cut-off for "FibroSure/ELF positive" — the other five criteria are quantified, this one is not. Use the reporting lab's own threshold.*
-- **Decompensated cirrhosis = Child-Turcotte-Pugh class B or C (total score ≥7).** ⚠ CTP is a **point sum across five variables** — [[ascites]], [[hepatic-encephalopathy|HE]], total bilirubin, albumin, INR — **not** a "presence of any one of" rule. A single abnormal variable (e.g. albumin 3.4 g/dL alone) does **not** make a patient decompensated. Score the full table on [[cirrhosis]].
+- **Decompensated cirrhosis = Child-Turcotte-Pugh class B or C (total score ≥7).** ⚠ CTP is a **point sum across five variables** — [[ascites]], [[hepatic-encephalopathy|hepatic encephalopathy (HE)]], total bilirubin, albumin, international normalized ratio (INR) — **not** a "presence of any one of" rule. A single abnormal variable (e.g. albumin 3.4 g/dL alone) does **not** make a patient decompensated. Score the full table on [[cirrhosis]].
   - Clinical anchors that commonly drive a class B/C score: ascites, HE, bilirubin >2.0 mg/dL, albumin ≤3.5 g/dL, INR ≥1.7.
   - **Decision this gates:** NS3/4A protease inhibitors (glecaprevir, voxilaprevir, grazoprevir) are **contraindicated** in decompensated ([[cirrhosis|CTP B/C]]) disease — see Therapeutics.
 
@@ -60,11 +60,11 @@ Fibrosis staging before treatment to guide duration, regimen selection, and post
 
 *Workup: see [[abnormal-liver-chemistries]].*
 
-- [[chronic-hepatitis-b]] — HBsAg; test at baseline for HCV patients (reactivation risk during HCV treatment if HBsAg+)
-- [[autoimmune-hepatitis]] — ANA, ASMA, IgG; can coexist with HCV
+- [[chronic-hepatitis-b]] — hepatitis B surface antigen (HBsAg); test at baseline for HCV patients (reactivation risk during HCV treatment if HBsAg+)
+- [[autoimmune-hepatitis]] — antinuclear antibody (ANA), anti-smooth muscle antibody (ASMA), IgG; can coexist with HCV
 - [[alcohol-associated-liver-disease]] — AST:ALT >2:1; alcohol history
 - [[nafld-masld]] — metabolic risk factors; steatosis on imaging
-- [[drug-induced-liver-injury]] — medication/supplement history, RUCAM
+- [[drug-induced-liver-injury]] — medication/supplement history, Roussel Uclaf Causality Assessment Method (RUCAM)
 
 ---
 
@@ -74,15 +74,15 @@ Fibrosis staging before treatment to guide duration, regimen selection, and post
 |---|---|
 | HCV antibody | Screening |
 | Quantitative HCV RNA | Confirm active infection; baseline viral load |
-| HCV genotype | Required for some non-pangenotypic regimens; NS5A RAS if GT3 + cirrhosis |
-| CBC | Baseline; thrombocytopenia suggests [[portal-hypertension\|portal hypertension]] |
+| HCV genotype | Required for some non-pangenotypic regimens; NS5A RAS if genotype (GT) 3 + cirrhosis |
+| Complete blood count (CBC) | Baseline; thrombocytopenia suggests [[portal-hypertension\|portal hypertension]] |
 | Comprehensive metabolic panel (AST, ALT, bilirubin, albumin, INR, creatinine) | Baseline hepatic function; Child-Pugh calculation |
 | FIB-4 or VCTE | Fibrosis staging |
-| HBsAg, anti-HBs, anti-HBc | Reactivation risk (HBsAg+: prophylactic NA; resolved HBV: monitor) |
+| HBsAg, anti-hepatitis B surface (anti-HBs), anti-hepatitis B core (anti-HBc) | Reactivation risk (HBsAg+: prophylactic nucleos(t)ide analogue [NA]; resolved hepatitis B virus [HBV]: monitor) |
 | Anti-HIV | Simplified algorithm eligibility |
 | Serum pregnancy test | Contraindication counseling for DAAs in pregnancy |
 | Medication reconciliation | Drug-drug interaction assessment (University of Liverpool HCV checker) |
-| Liver ultrasound ± AFP | Cirrhosis: baseline HCC screening |
+| Liver ultrasound ± alpha-fetoprotein (AFP) | Cirrhosis: baseline HCC screening |
 
 ---
 
@@ -90,7 +90,7 @@ Fibrosis staging before treatment to guide duration, regimen selection, and post
 
 ### Guiding Principle
 
-Universal HCV treatment recommended for all persons with acute or chronic HCV infection (except those with short life expectancy not remediable by HCV therapy, LT, or other directed therapy). Active drug use is NOT a contraindication [[aasld-idsa-2023-hcv]].
+Universal HCV treatment recommended for all persons with acute or chronic HCV infection (except those with short life expectancy not remediable by HCV therapy, liver transplantation [LT], or other directed therapy). Active drug use is NOT a contraindication [[aasld-idsa-2023-hcv]].
 
 ### Treatment-Naive Without Cirrhosis or With Compensated Cirrhosis
 
@@ -98,13 +98,13 @@ Universal HCV treatment recommended for all persons with acute or chronic HCV in
 
 | Regimen | Duration | Caveats |
 |---|---|---|
-| **Glecaprevir/pibrentasvir (G/P)** (300/120 mg with food) | 8 weeks | Preferred pangenotypic; compensated cirrhosis: 8 wk (EXPEDITION-8, SVR12 98%); genotypes 1–6 |
-| **Sofosbuvir/velpatasvir (SOF/VEL)** (400/100 mg daily) | 12 weeks | Pangenotypic; GT3 + comp cirrhosis: consider NS5A Y93H RAS testing; if present, add wt-based RBV or switch regimen |
+| **Glecaprevir/pibrentasvir** (300/120 mg with food) | 8 weeks | Preferred pangenotypic; compensated cirrhosis: 8 wk (EXPEDITION-8, SVR at 12 weeks [SVR12] 98%); genotypes 1–6 |
+| **Sofosbuvir/velpatasvir** (400/100 mg daily) | 12 weeks | Pangenotypic; GT3 + compensated cirrhosis: consider NS5A Y93H RAS testing; if present, add weight-based ribavirin (RBV) or switch regimen |
 | Ledipasvir/sofosbuvir (LDV/SOF) | 12 wk (GT 1, 4, 5, 6); 8 wk (GT1 without cirrhosis, non-HIV, HCV RNA <6,000,000 IU/mL) | Genotype-specific; not for GT6e if subtype known |
 
 **Minimal monitoring (simplified algorithm):** No pretreatment genotyping; no scheduled on-treatment labs; remote contact at week 4 (adherence) and week 22 (SVR assessment at week 24).
 
-**Excluded from simplified algorithm:** Previously treated; HBsAg+; compensated cirrhosis + eGFR <30; decompensated cirrhosis; pregnancy; known/suspected HCC; prior [[liver-transplantation|liver transplantation]].
+**Excluded from simplified algorithm:** Previously treated; HBsAg+; compensated cirrhosis + estimated glomerular filtration rate (eGFR) <30; decompensated cirrhosis; pregnancy; known/suspected HCC; prior [[liver-transplantation|liver transplantation]].
 
 ### Treatment-Naive With Decompensated Cirrhosis
 
@@ -128,7 +128,7 @@ Before initiating:
 - Perform medication reconciliation (drug-drug interaction check)
 - Check quantitative HCV RNA
 - Obtain HIV antibody test
-- Check HBsAg (HBV reactivation risk); if HBsAg+: initiate prophylactic NA therapy — DAA therapy in an HBsAg-positive person is a **high (>10%)** HBVr risk exposure, so prophylaxis rather than monitoring; risk tiers, agent choice, and duration live on [[chronic-hepatitis-b|chronic hepatitis B → HBV Reactivation on Immunosuppression]] ([[aga-2025-hbv-reactivation]])
+- Check HBsAg (HBV reactivation risk); if HBsAg+: initiate prophylactic NA therapy — DAA therapy in an HBsAg-positive person is a **high (>10%)** HBV reactivation (HBVr) risk exposure, so prophylaxis rather than monitoring; risk tiers, agent choice, and duration live on [[chronic-hepatitis-b|chronic hepatitis B → HBV Reactivation on Immunosuppression]] ([[aga-2025-hbv-reactivation]])
 - Obtain serum pregnancy test; counsel about pregnancy risks
 - Educate about DAA administration and adherence
 
@@ -144,7 +144,7 @@ Before initiating:
 *Full data and the class-level summary: [[direct-acting-antivirals]] → DAAs and HCC. ([[aga-2019-daa-hcc]])*
 
 - **Before starting DAAs in advanced fibrosis (F3) or cirrhosis:** obtain **surveillance imaging** to exclude prevalent [[hepatocellular-carcinoma|HCC]] — the early reports of post-DAA HCC are attributed largely to cancers already present and missed.
-- **Active HCC eligible for resection or ablation → defer DAA** until HCC treatment is completed. Active HCC also lowers SVR (adjusted OR 0.38, 95% CI 0.29–0.48).
+- **Active HCC eligible for resection or ablation → defer DAA** until HCC treatment is completed. Active HCC also lowers SVR (adjusted odds ratio [OR] 0.38, 95% confidence interval [CI] 0.29–0.48).
 - **After complete response to HCC therapy → do not withhold DAA**, but defer **4–6 months** to confirm durable response.
 - **Listed for [[liver-transplantation|transplant]] with HCC:** timing individualised on regional wait times, availability of HCV-positive organs, and degree of liver dysfunction.
 
@@ -152,7 +152,7 @@ Before initiating:
 
 **Sofosbuvir-based regimen failure:**
 
-- SOF/VEL/VOX 12 weeks (Recommended, genotypes 1–6); extend to 24 weeks or add wt-based RBV for GT3 + compensated cirrhosis
+- Sofosbuvir/velpatasvir/voxilaprevir (SOF/VEL/VOX) 12 weeks (Recommended, genotypes 1–6); extend to 24 weeks or add wt-based RBV for GT3 + compensated cirrhosis
 - Glecaprevir/pibrentasvir 16 weeks (Alternative; not if prior NS5A + NS3/4A inhibitor exposure)
 
 **G/P failure:**
@@ -182,7 +182,7 @@ Before initiating:
 For recurrent HCV post liver or kidney transplantation:
 
 - G/P 12 wk (GT 1–6) or SOF/VEL 12 wk (GT 1–6) or LDV/SOF 12 wk (GT 1, 4, 5, 6)
-- **DDI caution:** [[calcineurin-inhibitors|Cyclosporine]] significantly increases AUC of elbasvir/grazoprevir and SOF/VEL/VOX; coadministration contraindicated
+- **Drug-drug interaction (DDI) caution:** [[calcineurin-inhibitors|Cyclosporine]] significantly increases area under the curve (AUC) of elbasvir/grazoprevir and SOF/VEL/VOX; coadministration contraindicated
 
 **HCV-viremic donor organs → HCV-negative recipient:**
 
@@ -195,19 +195,19 @@ For recurrent HCV post liver or kidney transplantation:
 
 **After achieving SVR — if no cirrhosis:** No follow-up required for non-cirrhotics (unless at ongoing reinfection risk → annual HCV RNA).
 
-- **Post-treatment VCTE <9.5 kPa rules out advanced fibrosis (F3–F4)** in a noncirrhotic patient who achieved SVR, and may support discharge from a dedicated liver clinic — conditional recommendation, **very-low-quality** evidence (pooled sens 0.78 / spec 0.86). [[aga-2017-elastography-liver-fibrosis]]
+- **Post-treatment VCTE <9.5 kPa rules out advanced fibrosis (F3–F4)** in a noncirrhotic patient who achieved SVR, and may support discharge from a dedicated liver clinic — conditional recommendation, **very-low-quality** evidence (pooled sensitivity 0.78 / specificity 0.86). [[aga-2017-elastography-liver-fibrosis]]
   - **Who it misses:** ~1% of low-risk patients (5% advanced-fibrosis prevalence — SVR with no ongoing risk factors) and **~7% of high-risk patients** (30% prevalence — obesity, diabetes, excessive alcohol, HIV or HBV co-infection) are falsely reassured and lose post-treatment follow-up. A patient who places a low value on continued testing and a high value on avoiding HCC risk may reasonably stay in specialty care despite a value <9.5 kPa.
   - ⚠ **This does not licence de-escalating [[hcc-surveillance|HCC surveillance]].** Surveillance is driven by **pretreatment** fibrosis stage; no liver-stiffness value identifies a post-SVR patient whose HCC risk has fallen far enough to stop it.
 
 **After achieving SVR — if cirrhosis:**
 
 - Continue **[[hcc-surveillance|HCC surveillance]]:** ultrasound ± AFP every 6 months (indefinitely)
-- **Variceal surveillance:** per AASLD portal hypertension guidance ([[portal-hypertension]]); [[nonselective-beta-blockers|NSBB]] if CSPH present; decompensated patients may recompensate but surveillance continues
+- **Variceal surveillance:** per American Association for the Study of Liver Diseases (AASLD) portal hypertension guidance ([[portal-hypertension]]); [[nonselective-beta-blockers|non-selective beta-blocker (NSBB)]] if clinically significant portal hypertension (CSPH) present; decompensated patients may recompensate but surveillance continues
 - Advise against excess alcohol
 
 **Post-SVR liver improvement:** Cirrhosis regression documented histologically and by decreased liver stiffness in long-term follow-up. However, HCC risk remains elevated (though reduced ~75%) — surveillance indefinite for those who were cirrhotic.
 
-**Why surveillance continues despite cure** ([[aga-2019-daa-hcc]]): SVR cuts incident HCC ~**70%**, but residual absolute risk is **~0.90%/y** overall and **1.8–2.5%/y** with cirrhosis — at or above the **0.8–1.5%/y** threshold that makes surveillance cost-effective. Risk falls only modestly with time (cirrhosis: 2.27%/y in year 1 → 1.73%/y in year 2). Highest risk after SVR is **Child-Turcotte-Pugh class B cirrhosis — 3.6–7.8% in the first year**. Patients with a **prior treated HCC** are surveyed with CT/MRI rather than ultrasound — see [[hcc-surveillance]].
+**Why surveillance continues despite cure** ([[aga-2019-daa-hcc]]): SVR cuts incident HCC ~**70%**, but residual absolute risk is **~0.90%/y** overall and **1.8–2.5%/y** with cirrhosis — at or above the **0.8–1.5%/y** threshold that makes surveillance cost-effective. Risk falls only modestly with time (cirrhosis: 2.27%/y in year 1 → 1.73%/y in year 2). Highest risk after SVR is **Child-Turcotte-Pugh class B cirrhosis — 3.6–7.8% in the first year**. Patients with a **prior treated HCC** are surveyed with computed tomography (CT)/magnetic resonance imaging (MRI) rather than ultrasound — see [[hcc-surveillance]].
 
 ---
 

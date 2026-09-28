@@ -35,16 +35,16 @@ sources: [aga-2021-colonoscopy-quality, usmstf-2020-followup-colonoscopy, usmstf
 
 ## Indications
 
-- [[colorectal-cancer-screening|CRC screening]] (average risk: start at 45–50)
-- Positive non-colonoscopy screening test (FIT, Cologuard, FOBT, flexible sig)
+- [[colorectal-cancer-screening|Colorectal cancer (CRC) screening]] (average risk: start at 45–50)
+- Positive non-colonoscopy screening test (fecal immunochemical test [FIT], Cologuard, fecal occult blood test [FOBT], flexible sig)
 - Surveillance after prior polypectomy or [[colorectal-cancer|CRC]] resection
-- Workup of symptoms (rectal bleeding, [[iron-deficiency-anemia|IDA]], change in bowel habits, weight loss)
-- [[inflammatory-bowel-disease|IBD]] surveillance — perform with high-definition + dye-spray chromoendoscopy per [[asge-2015-scenic-ibd-dysplasia|SCENIC]]; describe lesions as visible (polypoid/nonpolypoid) vs invisible dysplasia. *Who to survey and how often: [[ulcerative-colitis]] / [[crohns-disease]]. Technique below.*
+- Workup of symptoms (rectal bleeding, [[iron-deficiency-anemia|iron-deficiency anemia (IDA)]], change in bowel habits, weight loss)
+- [[inflammatory-bowel-disease|Inflammatory bowel disease (IBD)]] surveillance — perform with high-definition + dye-spray chromoendoscopy per [[asge-2015-scenic-ibd-dysplasia|SCENIC]]; describe lesions as visible (polypoid/nonpolypoid) vs invisible dysplasia. *Who to survey and how often: [[ulcerative-colitis]] / [[crohns-disease]]. Technique below.*
 - **Therapeutic endoscopy in IBD** — endoscopic balloon dilation of symptomatic benign strictures, fistula endotherapy, and resection of visible dysplasia. Selection criteria, target balloon diameter, and periprocedural drug holds live on [[crohns-disease#Endoscopic Stricture Dilation|crohns-disease]]. [[aga-2026-therapeutic-endoscopy-ibd]]
 
 ### Chromoendoscopy Technique for IBD Surveillance
 
-*[[aga-2021-ibd-colorectal-dysplasia|AGA 2021]] — ungraded Best Practice Advice.*
+*[[aga-2021-ibd-colorectal-dysplasia|American Gastroenterological Association (AGA) 2021]] — ungraded Best Practice Advice.*
 
 **Dye-spray chromoendoscopy (DCE) — the concentrations:**
 
@@ -54,13 +54,13 @@ sources: [aga-2021-colonoscopy-quality, usmstf-2020-followup-colonoscopy, usmstf
 | **More concentrated**, to define a suspicious lesion's border and topography | **0.13%** | **0.2%** |
 
 - Apply **liberally over the entire colonic mucosal surface during withdrawal**, via spray catheter or waterjet.
-- **Yield:** ~**2×** the dysplasia yield of standard-definition WLE; **1.6×** that of HD-WLE (meta-analysis of 4 RCTs). Consider DCE in **all** patients with colonic IBD under surveillance, **particularly** with a standard-definition scope or a history of dysplasia.
+- **Yield:** ~**2×** the dysplasia yield of standard-definition white-light endoscopy (WLE); **1.6×** that of high-definition (HD)-WLE (meta-analysis of 4 randomized controlled trials [RCTs]). Consider DCE in **all** patients with colonic IBD under surveillance, **particularly** with a standard-definition scope or a history of dysplasia.
 - ⚠ **No study has evaluated DCE's impact on long-term CRC risk or CRC-related death.**
 
-**Virtual chromoendoscopy (VCE)** — NBI (Olympus), i-scan (Pentax), Fuji intelligent color enhancement:
+**Virtual chromoendoscopy (VCE)** — narrow-band imaging (NBI) (Olympus), i-scan (Pentax), Fuji intelligent color enhancement:
 
 - **A suitable alternative to DCE when using an HD endoscope.** Meta-analysis of **11 RCTs**: VCE performed **similarly** to DCE and HD-WLE for per-patient dysplasia detection, with **shorter withdrawal times**. Network meta-analyses find **no single technique statistically superior**, though with a trend favoring DCE.
-- ⚠ **Societies still disagree**, and the CPU does not pick a winner: **ASGE** endorses **nontargeted biopsies** as the alternative to DCE when DCE expertise is unavailable or the mucosa is poorly visualized (significant inflammation, pseudopolyposis, poor prep); **ACG and ESGE** endorse **VCE** as the alternative to DCE.
+- ⚠ **Societies still disagree**, and the clinical practice update (CPU) does not pick a winner: the **American Society for Gastrointestinal Endoscopy (ASGE)** endorses **nontargeted biopsies** as the alternative to DCE when DCE expertise is unavailable or the mucosa is poorly visualized (significant inflammation, pseudopolyposis, poor prep); the **American College of Gastroenterology (ACG) and European Society of Gastrointestinal Endoscopy (ESGE)** endorse **VCE** as the alternative to DCE.
 - **When nontargeted biopsies are still required, and the ~4-biopsies-every-10-cm protocol:** see [[ulcerative-colitis]].
 - **Do not use DCE to hunt for flat lesions within a field of pseudopolyps.**
 
@@ -70,7 +70,7 @@ sources: [aga-2021-colonoscopy-quality, usmstf-2020-followup-colonoscopy, usmstf
 
 All surveillance recommendations assume high-quality examination. [[usmstf-2020-followup-colonoscopy]]
 
-**The full indicator set — goals, aspirational targets, the level each is measured at, the ADR/SDR denominators, and the remediation ladder — lives on [[colonoscopy-quality-indicators]].** Headline benchmarks ([[aga-2021-colonoscopy-quality|AGA 2021]], ungraded): **ADR ≥30%** (aspirational ≥35%), **serrated lesion detection rate ≥7%** (≥10%), **cecal intubation ≥90%** (≥95%), **mean withdrawal time ≥6 min** in normal exams (≥9 min), **bowel prep adequacy ≥90%** (≥95%). ⚠ These differ from the sex-specific **ADR ≥30% men / ≥20% women** ([[usmstf-2020-followup-colonoscopy]]) and the **overall ADR >25%** of [[usmstf-2015-crc-surveillance]] / [[usmstf-2021-crc-screening-age]]; the comparison table naming which applies where is on [[colonoscopy-quality-indicators]].
+**The full indicator set — goals, aspirational targets, the level each is measured at, the adenoma detection rate (ADR)/serrated detection rate (SDR) denominators, and the remediation ladder — lives on [[colonoscopy-quality-indicators]].** Headline benchmarks ([[aga-2021-colonoscopy-quality|AGA 2021]], ungraded): **ADR ≥30%** (aspirational ≥35%), **serrated lesion detection rate ≥7%** (≥10%), **cecal intubation ≥90%** (≥95%), **mean withdrawal time ≥6 min** in normal exams (≥9 min), **bowel prep adequacy ≥90%** (≥95%). ⚠ These differ from the sex-specific **ADR ≥30% men / ≥20% women** ([[usmstf-2020-followup-colonoscopy]]) and the **overall ADR >25%** of [[usmstf-2015-crc-surveillance]] / [[usmstf-2021-crc-screening-age]]; the comparison table naming which applies where is on [[colonoscopy-quality-indicators]].
 
 Procedure-level items that belong to this page:
 
@@ -81,14 +81,14 @@ Procedure-level items that belong to this page:
 - **Post-polypectomy bleeding rate:** **≤1 per 100 colonoscopies** — see [[#Complications]].
 - **Complete polypectomy:** all visually detected polypoid tissue removed. ⚠ No numeric target rate is given in any source cited on this page.
 - Document polyp size ≥10mm with comparison to open snare/forceps of known size
-- **Report contents** — indication, extent of examination, prep quality, findings and interventions, follow-up plan **with its rationale whenever the assigned interval deviates from guidelines** (eg, inadequate prep, incomplete resection); resumption of anticoagulants/antiplatelets; pathology and interval communicated to the patient and primary care provider. Full CO-RADS element list: [[colonoscopy-quality-indicators#Documentation|colonoscopy-quality-indicators]]. [[aga-2021-colonoscopy-quality]]
+- **Report contents** — indication, extent of examination, prep quality, findings and interventions, follow-up plan **with its rationale whenever the assigned interval deviates from guidelines** (eg, inadequate prep, incomplete resection); resumption of anticoagulants/antiplatelets; pathology and interval communicated to the patient and primary care provider. Full colonoscopy reporting and data system (CO-RADS) element list: [[colonoscopy-quality-indicators#Documentation|colonoscopy-quality-indicators]]. [[aga-2021-colonoscopy-quality]]
 
 ### Artificial Intelligence (CADe / CADx)
 
 See [[artificial-intelligence-endoscopy]] for the full framework.
 
-- **CADe (computer-aided detection):** raises ADR/APC in RCT meta-analyses (ADR RR 1.43), but real-world/pragmatic data are inconsistent, and the [[aga-2025-cade-colonoscopy|AGA 2025 living guideline]] makes **no recommendation for or against** routine use (very low certainty). Gains are mostly small non-advanced adenomas → added polypectomy/surveillance burden. [[aga-2023-ai-colon-polyp]]
-- **CADx (optical diagnosis):** may enable resect-and-discard / diagnose-and-leave for diminutive polyps if it meets the ASGE PIVI thresholds (≥90% NPV for adenoma in rectosigmoid HPs <5 mm; >90% surveillance-interval agreement). Not yet standard of care.
+- **CADe (computer-aided detection):** raises ADR/adenomas per colonoscopy (APC) in RCT meta-analyses (ADR relative risk [RR] 1.43), but real-world/pragmatic data are inconsistent, and the [[aga-2025-cade-colonoscopy|AGA 2025 living guideline]] makes **no recommendation for or against** routine use (very low certainty). Gains are mostly small non-advanced adenomas → added polypectomy/surveillance burden. [[aga-2023-ai-colon-polyp]]
+- **CADx (optical diagnosis):** may enable resect-and-discard / diagnose-and-leave for diminutive polyps if it meets the ASGE Preservation and Incorporation of Valuable Endoscopic Innovations (PIVI) thresholds (≥90% negative predictive value [NPV] for adenoma in rectosigmoid hyperplastic polyps [HPs] <5 mm; >90% surveillance-interval agreement). Not yet standard of care.
 
 ---
 
@@ -114,7 +114,7 @@ See [[artificial-intelligence-endoscopy]] for the full framework.
 **Acceptable alternatives:**
 
 - FIT–fecal DNA (Cologuard) q3y
-- CT colonography q5y
+- Computed tomography (CT) colonography (CTC) q5y
 - Flexible sigmoidoscopy q5–10y
 - **[[capsule-endoscopy|Capsule colonoscopy]] q5y** (weak recommendation, low-quality evidence)
 
@@ -122,12 +122,12 @@ See [[artificial-intelligence-endoscopy]] for the full framework.
 
 ## Post-Polypectomy Surveillance
 
-**The full USMSTF 2020 interval grids — adenomas, serrated polyps, and serial (second) surveillance — live on [[colonoscopy-surveillance]].** They are not reproduced here. [[usmstf-2020-followup-colonoscopy]]
+**The full US Multi-Society Task Force (USMSTF) 2020 interval grids — adenomas, serrated polyps, and serial (second) surveillance — live on [[colonoscopy-surveillance]].** They are not reproduced here. [[usmstf-2020-followup-colonoscopy]]
 
 Two prerequisites that belong to the *procedure* rather than the interval table:
 
 - All intervals assume a **high-quality colonoscopy with complete polypectomy** — see [[#Quality Metrics]]. A low-quality exam warrants earlier repeat, not the published interval.
-- The grid does **not** apply to: IBD, hereditary syndromes ([[lynch-syndrome|Lynch]], [[familial-adenomatous-polyposis|FAP]]), personal history of CRC (see [[#Post-CRC Resection Surveillance]]), [[serrated-polyposis-syndrome|serrated polyposis syndrome]], or a malignant polyp (see [[polypectomy]]).
+- The grid does **not** apply to: IBD, hereditary syndromes ([[lynch-syndrome|Lynch]], [[familial-adenomatous-polyposis|familial adenomatous polyposis (FAP)]]), personal history of CRC (see [[#Post-CRC Resection Surveillance]]), [[serrated-polyposis-syndrome|serrated polyposis syndrome (SPS)]], or a malignant polyp (see [[polypectomy]]).
 
 ---
 
@@ -139,7 +139,7 @@ For detailed technique, see [[polypectomy]].
 |---|---|
 | ≤5mm | Cold snare (CSP) — preferred; NOT cold forceps |
 | 6–9mm | Cold snare |
-| 10–19mm non-pedunculated | Cold or hot snare ± injection; [[endoscopic-mucosal-resection\|EMR]] for non-polypoid/serrated |
+| 10–19mm non-pedunculated | Cold or hot snare ± injection; [[endoscopic-mucosal-resection\|endoscopic mucosal resection (EMR)]] for non-polypoid/serrated |
 | ≥20mm non-pedunculated | EMR — experienced endoscopist required |
 | Pedunculated ≥10mm | Hot snare |
 | Pedunculated (head ≥20mm or stalk ≥5mm) | Prophylactic loop/clips before hot snare |
@@ -150,9 +150,9 @@ For detailed technique, see [[polypectomy]].
 
 ## Complications
 
-- **Perforation:** **0.08% (95% CI 0.06–0.1)** from polypectomy overall — rare but the most serious complication; **1.5% (95% CI 1.2–1.7)** for endoscopic resection of **≥20 mm** lesions (meta-analysis, 50 studies, 6779 lesions). Right colon highest risk with EMR/[[colorectal-esd|ESD]]. [[usmstf-2020-endoscopic-removal]]
+- **Perforation:** **0.08% (95% confidence interval [CI] 0.06–0.1)** from polypectomy overall — rare but the most serious complication; **1.5% (95% CI 1.2–1.7)** for endoscopic resection of **≥20 mm** lesions (meta-analysis, 50 studies, 6779 lesions). Right colon highest risk with EMR/[[colorectal-esd|endoscopic submucosal dissection (ESD)]]. [[usmstf-2020-endoscopic-removal]]
   - **Where it happens:** in *diagnostic* colonoscopy the dominant site is the **sigmoid — 63.8% of 744 colon perforations** — from **direct trauma on forceful scope advancement**; cecum 10%, transverse 9%, rectum 7%. [[aga-2021-gi-perforations-endoscopic-management]]
-  - **Closure at the time of the exam:** a recognized tear in a **stable** patient with a **clean** site → attempt closure. **TTSC or OTSC** if the prep is good and the patient stable — ⚠ but **the cecum and right colon are limited to TTSC**, because a tortuous or unclean colon may make it impossible to reach the defect with an OTSC or a suturing device. **Full closure algorithm, device-by-size table, and the two absolute surgical indications: [[endoscopic-management-of-perforation]].**
+  - **Closure at the time of the exam:** a recognized tear in a **stable** patient with a **clean** site → attempt closure. **Through-the-scope clips (TTSC) or over-the-scope clips (OTSC)** if the prep is good and the patient stable — ⚠ but **the cecum and right colon are limited to TTSC**, because a tortuous or unclean colon may make it impossible to reach the defect with an OTSC or a suturing device. **Full closure algorithm, device-by-size table, and the two absolute surgical indications: [[endoscopic-management-of-perforation]].**
   - **Five-step EMR technique to avoid it:** viscous submucosal injectate (not saline); consider partially reopening and closing the snare before resection to let the muscularis propria drop back; **inspect the resection base for the target sign**; close muscularis propria injury early; consider [[endoscopic-full-thickness-resection|full-thickness resection]] when the polyp will not lift. [[aga-2021-gi-perforations-endoscopic-management]]
 - **Post-polypectomy bleeding:** pooled **9.8 per 1000 colonoscopies (95% CI 7.7–12.1)**; immediate or delayed (up to 30d); risk higher with large lesions, right colon, [[anticoagulation-gi-bleeding|antithrombotics]]. **Benchmark: post-polypectomy bleeding rate should be ≤1 per 100 colonoscopies** (ASGE/ACG Task Force on Quality in Endoscopy, as cited by [[usmstf-2020-endoscopic-removal]]). Device selection for treating it is on [[endoscopic-hemostasis]].
 - **Coagulation syndrome (post-polypectomy syndrome):** fever, localized pain without free air — manage conservatively
@@ -184,7 +184,7 @@ For detailed technique, see [[polypectomy]].
 | Irrigation pumps | **Routine use** to assist with bowel preparation **during** colonoscopy | Weak/Very low |
 | Same-day salvage | Use same-day salvage maneuvers **when feasible** for inadequate preparations | Weak/Moderate |
 
-**Salvage options when the prep is inadequate on insertion:** concerted washing/suctioning (converted 75% of poor/fair preps to good/excellent in one prospective series of 525 patients); right-colon **enema** instillation with the patient in right lateral decubitus, then recovery, spontaneous evacuation and repeat colonoscopy later the same day (**PEG 500–1000 mL or bisacodyl 10 mg**; success **53–100%**); or waking the patient fully and giving further oral purgative — **an additional 2 L PEG beat a 1 L PEG enema, 82% vs 53%** — with same-day colonoscopy (allowing 2 h from the last purgative dose) or, more often feasibly, next-day.
+**Salvage options when the prep is inadequate on insertion:** concerted washing/suctioning (converted 75% of poor/fair preps to good/excellent in one prospective series of 525 patients); right-colon **enema** instillation with the patient in right lateral decubitus, then recovery, spontaneous evacuation and repeat colonoscopy later the same day (**polyethylene glycol (PEG) 500–1000 mL or bisacodyl 10 mg**; success **53–100%**); or waking the patient fully and giving further oral purgative — **an additional 2 L PEG beat a 1 L PEG enema, 82% vs 53%** — with same-day colonoscopy (allowing 2 h from the last purgative dose) or, more often feasibly, next-day.
 
 **Against:** Hyperosmotic agents in volume overload/electrolyte disturbance risk (Strong/High); non-simethicone adjuncts routinely (Weak/Low).
 
@@ -192,19 +192,19 @@ For detailed technique, see [[polypectomy]].
 
 [[acg-2025-bowel-prep]]
 
-[[glp-1-receptor-agonists|GLP-1 receptor agonists]] ([[semaglutide]], liraglutide, tirzepatide, etc.) delay gastric emptying and are associated with increased aspiration risk during [[endoscopy-sedation|procedural sedation]].
+[[glp-1-receptor-agonists|Glucagon-like peptide-1 receptor agonists (GLP-1 RAs)]] ([[semaglutide]], liraglutide, tirzepatide, etc.) delay gastric emptying and are associated with increased aspiration risk during [[endoscopy-sedation|procedural sedation]].
 
-- ⚠ **The bowel-prep guideline addresses GLP-1 RAs only in the aspiration / purgative-timing context** — *"newer agents such as GLP-1 receptor agonists that delay gastric emptying may also affect the timing of when to cease drinking a bowel preparation purgative."* GLP-1 use is **not** among the listed risk factors for inadequate preparation, and no source recommends applying high-risk prep modifications for it. (An earlier version of this page attributed the [[gastroparesis]] OR 1.6 to GLP-1 RAs — that OR belongs to gastroparesis alone.)
-- Follow anesthesia unit protocol for medication hold prior to sedation (ASA consensus: hold weekly GLP-1 agonists **1 week** before elective procedure; daily dosing hold day-of). **AGA 2024** favors an individualized approach over routine cessation — standard fast + no GI symptoms → proceed; see [[endoscopy-sedation#GLP-1 Receptor Agonists Before Endoscopy|endoscopy-sedation]]. [[aga-2024-glp1-endoscopy]]
+- ⚠ **The bowel-prep guideline addresses GLP-1 RAs only in the aspiration / purgative-timing context** — *"newer agents such as GLP-1 receptor agonists that delay gastric emptying may also affect the timing of when to cease drinking a bowel preparation purgative."* GLP-1 use is **not** among the listed risk factors for inadequate preparation, and no source recommends applying high-risk prep modifications for it. (An earlier version of this page attributed the [[gastroparesis]] odds ratio (OR) 1.6 to GLP-1 RAs — that OR belongs to gastroparesis alone.)
+- Follow anesthesia unit protocol for medication hold prior to sedation (American Society of Anesthesiologists [ASA] consensus: hold weekly GLP-1 agonists **1 week** before elective procedure; daily dosing hold day-of). **AGA 2024** favors an individualized approach over routine cessation — standard fast + no gastrointestinal (GI) symptoms → proceed; see [[endoscopy-sedation#GLP-1 Receptor Agonists Before Endoscopy|endoscopy-sedation]]. [[aga-2024-glp1-endoscopy]]
 - Provide enhanced counseling about aspiration risk and prep adherence
 
 ### High-Risk Patients (Prior Inadequate Prep or Risk Factors)
 
-**Risk factors for inadequate prep (selected):** [[cirrhosis]] (OR 3.4), Parkinson's (OR 3.2), dementia (OR 3.0), TCA use (OR 2.0), diabetes (OR 1.8), opioids (OR 1.7), gastroparesis (OR 1.6).
+**Risk factors for inadequate prep (selected):** [[cirrhosis]] (OR 3.4), Parkinson's (OR 3.2), dementia (OR 3.0), tricyclic antidepressant (TCA) use (OR 2.0), diabetes (OR 1.8), opioids (OR 1.7), gastroparesis (OR 1.6).
 
 **Modifications (Strong/Moderate):** ≥1 of — improved instruction delivery, increased navigation, restrict vegetables/legumes 2–3 days prior, clear liquids only day before, promotility agents, treat [[chronic-constipation|constipation]], hold anticholinergic/opioid meds, switch to high-volume prep.
 
-**Specific high-risk regimen (Weak/Low):** Split-dose 4L PEG-ELS + bisacodyl 15mg afternoon before + low-residue diet 3 and 2 days prior + clear liquids day before.
+**Specific high-risk regimen (Weak/Low):** Split-dose 4L PEG–electrolyte lavage solution (PEG-ELS) + bisacodyl 15mg afternoon before + low-residue diet 3 and 2 days prior + clear liquids day before.
 
 ### Quality and Tracking
 
@@ -268,9 +268,9 @@ A "high-quality" colonoscopy in this context requires: **cecum or anastomosis re
 
 **Weak recommendation, low-quality evidence**
 
-High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); [[endoscopic-submucosal-dissection|ESD]] for rectal cancer; locally advanced rectal cancer without neoadjuvant chemoradiation + TME.
+High-risk = any of: surgery without total mesorectal excision (TME); transanal local excision (transanal excision [TAE] or transanal endoscopic microsurgery [TEM]); [[endoscopic-submucosal-dissection|ESD]] for rectal cancer; locally advanced rectal cancer without neoadjuvant chemoradiation + TME.
 
-- **Flexible sigmoidoscopy or [[endoscopic-ultrasound|EUS]] every 3–6 months for the first 2–3 years after surgery**, in addition to standard colonoscopic surveillance
+- **Flexible sigmoidoscopy or [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] every 3–6 months for the first 2–3 years after surgery**, in addition to standard colonoscopic surveillance
 - EUS detects extraluminal recurrence before intraluminal findings; ~10% of rectal recurrences diagnosed by EUS only
 - Multidisciplinary collaboration required (GI, colorectal surgery, oncology)
 

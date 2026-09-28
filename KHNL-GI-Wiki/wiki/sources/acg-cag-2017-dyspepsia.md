@@ -14,40 +14,40 @@ sources: []
 - **Year:** 2017
 - **Journal/Publisher:** Am J Gastroenterol 2017;112:988–1013
 - **DOI:** [10.1038/ajg.2017.154](https://doi.org/10.1038/ajg.2017.154)
-- **Type:** Joint ACG/CAG clinical guideline (GRADE methodology)
+- **Type:** Joint American College of Gastroenterology (ACG)/Canadian Association of Gastroenterology (CAG) clinical guideline (Grading of Recommendations Assessment, Development and Evaluation [GRADE] methodology)
 
 ## Summary
 
-Joint ACG/CAG guideline on dyspepsia management with 14 GRADE-graded statements. Key practical updates from prior guidelines: the **age threshold for endoscopy in uninvestigated dyspepsia is raised to ≥60 years** (up from ≥55 in older ACG guidance), and **alarm features alone do not automatically warrant endoscopy in patients <60** because of low positive predictive value. The recommended initial strategy for patients <60 with uninvestigated dyspepsia is non-invasive [[helicobacter-pylori-infection|H. pylori]] testing and eradication if positive; PPI therapy is reserved for H. pylori-negative patients or those still symptomatic after eradication. Sequential second-line therapies are TCA, then prokinetic. The guideline applies to uninvestigated dyspepsia and functional dyspepsia (FD); it does not address management of organic pathology found at endoscopy (those are covered by disease-specific guidelines).
+Joint ACG/CAG guideline on dyspepsia management with 14 GRADE-graded statements. Key practical updates from prior guidelines: the **age threshold for endoscopy in uninvestigated dyspepsia is raised to ≥60 years** (up from ≥55 in older ACG guidance), and **alarm features alone do not automatically warrant endoscopy in patients <60** because of low positive predictive value (PPV). The recommended initial strategy for patients <60 with uninvestigated dyspepsia is non-invasive [[helicobacter-pylori-infection|H. pylori]] testing and eradication if positive; proton pump inhibitor (PPI) therapy is reserved for H. pylori-negative patients or those still symptomatic after eradication. Sequential second-line therapies are tricyclic antidepressant (TCA), then prokinetic. The guideline applies to uninvestigated dyspepsia and functional dyspepsia (FD); it does not address management of organic pathology found at endoscopy (those are covered by disease-specific guidelines).
 
 ## Key Findings / Claims
 
 ### Uninvestigated dyspepsia — initial workup
 
-- **Statement 1 (Cond / Very Low):** Patients ≥60 → endoscopy to exclude upper GI neoplasia. Threshold may be lowered in high-risk populations (e.g., childhood in high gastric-cancer-incidence country, family history of upper GI malignancy).
+- **Statement 1 (Cond / Very Low):** Patients ≥60 → endoscopy to exclude upper gastrointestinal (GI) neoplasia. Threshold may be lowered in high-risk populations (e.g., childhood in high gastric-cancer-incidence country, family history of upper GI malignancy).
 - **Statement 2 (Cond / Moderate):** Do **not** routinely scope patients <60 for alarm features alone — sensitivity 0.67, specificity 0.66 for upper GI cancer; PPV very low. Use clinical judgment case-by-case.
 - **Statement 3 (Strong / High):** Patients <60 → non-invasive H. pylori test-and-treat (see [[test-and-treat]]).
 - **Statement 4 (Strong / High):** Patients <60 → empiric PPI if H. pylori-negative or remain symptomatic post-eradication.
 
 ### Uninvestigated dyspepsia — second-line
 
-- **Statement 5 (Cond / Very Low):** Patients <60 failing PPI/HP-eradication → prokinetic therapy.
+- **Statement 5 (Cond / Very Low):** Patients <60 failing PPI/H. pylori (HP)-eradication → prokinetic therapy.
 - **Statement 6 (Cond / Low):** Patients <60 failing PPI/HP-eradication → TCA.
 
 ### Functional dyspepsia (post-EGD, normal findings)
 
-- **Statement 7 (Strong / High):** FD + H. pylori-positive → eradication therapy (NNT 12.5).
+- **Statement 7 (Strong / High):** FD + H. pylori-positive → eradication therapy (number needed to treat [NNT] 12.5).
 - **Statement 8 (Strong / Moderate):** FD + H. pylori-negative or symptomatic post-eradication → PPI (NNT 10).
-- **Statement 9 (Cond / Moderate):** FD failing PPI/HP-eradication → TCA (NNT 6 in trials; SSRIs ineffective).
+- **Statement 9 (Cond / Moderate):** FD failing PPI/HP-eradication → TCA (NNT 6 in trials; selective serotonin reuptake inhibitors [SSRIs] ineffective).
 - **Statement 10 (Cond / Very Low):** FD failing PPI/TCA → prokinetic.
-- **Statement 11 (Cond / Very Low):** FD failing drug therapy → psychological therapy (CBT or other; NNT 3 in trials but very low quality).
+- **Statement 11 (Cond / Very Low):** FD failing drug therapy → psychological therapy (cognitive behavioral therapy [CBT] or other; NNT 3 in trials but very low quality).
 - **Statement 12 (Cond / Very Low):** Do **not** routinely recommend CAM (complementary/alternative medicine) for FD.
 - **Statement 13 (Cond / Very Low):** Against routine motility studies in FD.
 - **Statement 14 (Cond / Very Low):** Motility studies for selected FD patients where [[gastroparesis]] is strongly suspected.
 
 ### Key practical algorithm (Figure 1, undiagnosed dyspepsia)
 
-- Age ≥60 → EGD → manage by findings.
+- Age ≥60 → esophagogastroduodenoscopy (EGD) → manage by findings.
 - Age <60 → H. pylori test-and-treat → response = success; no response → PPI → no response → TCA or prokinetic → no response → consider psychotherapy.
 
 ### Functional dyspepsia algorithm (Figure 2)
@@ -56,16 +56,16 @@ Joint ACG/CAG guideline on dyspepsia management with 14 GRADE-graded statements.
 
 ### Quality of evidence highlights
 
-- H. pylori test-and-treat vs. endoscopy: RR remaining dyspeptic 0.94 (95% CI 0.84–1.04); cost savings favor test-and-treat (mean $402/patient).
+- H. pylori test-and-treat vs. endoscopy: relative risk (RR) remaining dyspeptic 0.94 (95% confidence interval [CI] 0.84–1.04); cost savings favor test-and-treat (mean $402/patient).
 - H. pylori test-and-treat vs. empiric PPI: RR 0.89 (CI 0.77–1.04); slight trend favoring test-and-treat plus cost savings.
-- PPI vs. placebo for FD (15 RCTs, n=5,853): RR remaining dyspeptic 0.87 (CI 0.82–0.94), NNT 10.
+- PPI vs. placebo for FD (15 randomized controlled trials [RCTs], n=5,853): RR remaining dyspeptic 0.87 (CI 0.82–0.94), NNT 10.
 - TCA vs. placebo for FD: RR 0.74 (CI 0.61–0.91), NNT 6.
 - SSRI vs. placebo for FD: RR 1.01 (CI 0.89–1.15) — no effect.
 - Domperidone effective (NNT 3) but QT prolongation risk; not available in US.
 
 ### Long-term PPI
 
-- Guideline reviewed associations with hip fracture, CAP, C. difficile, electrolyte disturbance, dementia → mostly residual confounding; benefit-harm balance favors continued use when indicated.
+- Guideline reviewed associations with hip fracture, community-acquired pneumonia (CAP), C. difficile, electrolyte disturbance, dementia → mostly residual confounding; benefit-harm balance favors continued use when indicated.
 - Stop PPI if not providing benefit; reassess every 6–12 months consistent with FDA guidance.
 
 ## Recommendations
@@ -95,7 +95,7 @@ Joint ACG/CAG guideline on dyspepsia management with 14 GRADE-graded statements.
 - Primary source for [[dyspepsia]] diagnostic schema.
 - Updates [[test-and-treat]] concept (Strong / High quality for HP test-and-treat as initial strategy in <60).
 - Reinforces [[helicobacter-pylori-infection]] eradication as a dyspepsia intervention.
-- Relates to [[disorders-of-gut-brain-interaction]] (FD as a DGBI; psychological therapy effective).
+- Relates to [[disorders-of-gut-brain-interaction]] (FD as a disorder of gut-brain interaction [DGBI]; psychological therapy effective).
 - Cross-references [[gastroparesis]] (motility testing for FD with severe/refractory vomiting).
 
 ## Contradictions / Open Questions

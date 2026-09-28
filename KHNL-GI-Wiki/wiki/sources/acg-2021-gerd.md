@@ -13,18 +13,18 @@ sources: []
 - **Authors:** Katz PO, Dunbar KB, Schnoll-Sussman FH, Greer KB, Yadlapati R, Spechler SJ
 - **Year:** 2022 (published online November 22, 2021)
 - **Journal/Publisher:** Am J Gastroenterol 2022;117:27–56
-- **Type:** Clinical practice guideline (ACG); GRADE methodology + non-graded key concept statements
+- **Type:** Clinical practice guideline (American College of Gastroenterology [ACG]); Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology + non-graded key concept statements
 - **DOI:** [10.14309/ajg.0000000000001538](https://doi.org/10.14309/ajg.0000000000001538)
 
 ## Summary
 
-Comprehensive ACG guideline covering diagnosis, medical management, extraesophageal manifestations, refractory GERD, and surgical/endoscopic therapy. Updates the prior ACG reflux guideline (2013). Graded statements are organised in five sections, each numbered from 1: **Diagnosis (8)**, **GERD medical management (16)**, **Extraesophageal GERD symptoms (6)**, **Refractory GERD (4)**, **Surgical and endoscopic options (5)** — 39 in the text. Table 1 ("Summary and strength of recommendations") reproduces 38 of these: it omits Diagnosis #3 (diagnostic endoscopy after a failed empiric PPI trial). Non-graded **key concept statements** are collected in Table 2.
+Comprehensive ACG guideline covering diagnosis, medical management, extraesophageal manifestations, refractory gastroesophageal reflux disease (GERD), and surgical/endoscopic therapy. Updates the prior ACG reflux guideline (2013). Graded statements are organised in five sections, each numbered from 1: **Diagnosis (8)**, **GERD medical management (16)**, **Extraesophageal GERD symptoms (6)**, **Refractory GERD (4)**, **Surgical and endoscopic options (5)** — 39 in the text. Table 1 ("Summary and strength of recommendations") reproduces 38 of these: it omits Diagnosis #3 (diagnostic endoscopy after a failed empiric proton pump inhibitor (PPI) trial). Non-graded **key concept statements** are collected in Table 2.
 
 GERD is defined as "the condition in which reflux of gastric contents into the esophagus results in symptoms and/or complications," objectively defined by characteristic mucosal injury at endoscopy and/or abnormal esophageal acid exposure on reflux monitoring. There is no gold standard; diagnosis combines symptoms, endoscopy, reflux monitoring, and treatment response.
 
-An 8-week once-daily before-meal empiric PPI trial is the entry point for classic heartburn/regurgitation without alarm symptoms. Diagnostic endoscopy is performed ideally after PPIs are stopped 2–4 weeks. Reflux monitoring off therapy establishes the diagnosis when endoscopy is unrevealing, and is explicitly *not* needed when LA grade C/D esophagitis or long-segment [[barretts-esophagus|Barrett's esophagus]] is already documented. Refractory symptoms are worked up by pH monitoring OFF PPI (diagnosis unestablished) or impedance-pH ON PPI (diagnosis established).
+An 8-week once-daily before-meal empiric PPI trial is the entry point for classic heartburn/regurgitation without alarm symptoms. Diagnostic endoscopy is performed ideally after PPIs are stopped 2–4 weeks. Reflux monitoring off therapy establishes the diagnosis when endoscopy is unrevealing, and is explicitly *not* needed when Los Angeles (LA) grade C/D esophagitis or long-segment [[barretts-esophagus|Barrett's esophagus]] is already documented. Refractory symptoms are worked up by pH monitoring OFF PPI (diagnosis unestablished) or impedance-pH ON PPI (diagnosis established).
 
-A substantial section addresses extraesophageal manifestations ([[laryngopharyngeal-symptoms|LPR]], chronic cough, asthma): non-GERD causes are evaluated first, and patients without typical GERD symptoms undergo reflux testing *before* PPI therapy. A final section reviews long-term PPI safety and supplies verbatim counselling language for patients.
+A substantial section addresses extraesophageal manifestations ([[laryngopharyngeal-symptoms|laryngopharyngeal reflux (LPR)]], chronic cough, asthma): non-GERD causes are evaluated first, and patients without typical GERD symptoms undergo reflux testing *before* PPI therapy. A final section reviews long-term PPI safety and supplies verbatim counselling language for patients.
 
 ## Recommendations
 
@@ -39,7 +39,7 @@ Verbatim from Table 1 unless noted; section numbering is the guideline's own (ea
 | 3 | We recommend diagnostic endoscopy, ideally after PPIs are stopped for 2–4 weeks, in patients whose classic GERD symptoms do not respond adequately to an 8-week empiric trial of PPIs or whose symptoms return when PPIs are discontinued. *(text only — not carried in Table 1)* | Strong | Low |
 | 4 | In patients with chest pain who have had adequate evaluation to exclude heart disease, objective testing for GERD (endoscopy and/or reflux monitoring) is recommended. | Conditional | Low |
 | 5 | We do not recommend the use of a barium swallow solely as a diagnostic test for GERD. | Conditional | Low |
-| 6 | We recommend endoscopy as the first test for evaluation of patients presenting with dysphagia or other alarm symptoms (weight loss and GI bleeding) and for patients with multiple risk factors for Barrett's esophagus. | Strong | Low |
+| 6 | We recommend endoscopy as the first test for evaluation of patients presenting with dysphagia or other alarm symptoms (weight loss and GI [gastrointestinal] bleeding) and for patients with multiple risk factors for Barrett's esophagus. | Strong | Low |
 | 7 | In patients for whom the diagnosis of GERD is suspected but not clear, and endoscopy shows no objective evidence of GERD, we recommend reflux monitoring be performed off therapy to establish the diagnosis. | Strong | Low |
 | 8 | We recommend against performing reflux monitoring off therapy solely as a diagnostic test for GERD in patients known to have endoscopic evidence of LA grade C or D reflux esophagitis or in patients with long-segment Barrett's esophagus. | Strong | Low |
 
@@ -52,7 +52,7 @@ Verbatim from Table 1 unless noted; section numbering is the guideline's own (ea
 | 3 | We suggest avoidance of tobacco products/smoking in patients with GERD symptoms. | Conditional | Low |
 | 4 | We suggest avoidance of "trigger foods" for GERD symptom control. | Conditional | Low |
 | 5 | We suggest elevating head of bed for nighttime GERD symptoms. | Conditional | Low |
-| 6 | We recommend treatment with PPIs over treatment with H2RA for healing EE. | Strong | High |
+| 6 | We recommend treatment with PPIs over treatment with H2RA [histamine-2 receptor antagonist] for healing EE [erosive esophagitis]. | Strong | High |
 | 7 | We recommend treatment with PPIs over H2RA for maintenance of healing of EE. | Strong | Moderate |
 | 8 | We recommend PPI administration 30–60 min before a meal rather than at bedtime for GERD symptom control. | Strong | Moderate |
 | 9 | For patients with GERD who do not have EE or Barrett's esophagus, and whose symptoms have resolved with PPI therapy, an attempt should be made to discontinue PPIs or to switch to on-demand therapy. | Conditional | Low |
@@ -62,7 +62,7 @@ Verbatim from Table 1 unless noted; section numbering is the guideline's own (ea
 | 13 | We do not recommend baclofen in the absence of objective evidence of GERD. | Strong | Moderate |
 | 14 | We recommend against treatment with a prokinetic agent of any kind for GERD therapy unless there is objective evidence of [[gastroparesis]]. | Strong | Low |
 | 15 | We do not recommend sucralfate for GERD therapy except during pregnancy. | Strong | Low |
-| 16 | We suggest on-demand or intermittent PPI therapy for heartburn symptom control in patients with NERD. | Conditional | Low |
+| 16 | We suggest on-demand or intermittent PPI therapy for heartburn symptom control in patients with NERD [nonerosive reflux disease]. | Conditional | Low |
 
 ### Extraesophageal GERD symptoms
 
@@ -82,14 +82,14 @@ Verbatim from Table 1 unless noted; section numbering is the guideline's own (ea
 | 1 | We recommend optimization of PPI therapy as the first step in management of refractory GERD. | Strong | Moderate |
 | 2 | We suggest esophageal pH monitoring (Bravo, catheter-based, or combined impedance-pH monitoring) performed OFF PPIs if the diagnosis of GERD has not been established by a previous pH monitoring study or an endoscopy showing long-segment Barrett's esophagus or severe reflux esophagitis (LA grade C or D). | Conditional | Low |
 | 3 | We suggest esophageal impedance-pH monitoring performed ON PPIs for patients with an established diagnosis of GERD whose symptoms have not responded adequately to twice-daily PPI therapy. | Conditional | Low |
-| 4 | For patients who have regurgitation as their primary PPI-refractory symptom and who have had abnormal gastroesophageal reflux documented by objective testing, we suggest consideration of [[antireflux-surgery\|antireflux surgery]] or TIF. | Conditional | Low |
+| 4 | For patients who have regurgitation as their primary PPI-refractory symptom and who have had abnormal gastroesophageal reflux documented by objective testing, we suggest consideration of [[antireflux-surgery\|antireflux surgery]] or TIF [transoral incisionless fundoplication]. | Conditional | Low |
 
 ### Surgical and endoscopic options for GERD
 
 | # | Recommendation | Strength | Evidence |
 |---|---|---|---|
 | 1 | We recommend antireflux surgery performed by an experienced surgeon as an option for long-term treatment of patients with objective evidence of GERD, especially those who have severe reflux esophagitis (LA grade C or D), large hiatal hernias, and/or persistent, troublesome GERD symptoms. | Strong | Moderate |
-| 2 | We recommend consideration of MSA as an alternative to laparoscopic fundoplication for patients with regurgitation who fail medical management. | Strong | Moderate |
+| 2 | We recommend consideration of MSA [magnetic sphincter augmentation] as an alternative to laparoscopic fundoplication for patients with regurgitation who fail medical management. | Strong | Moderate |
 | 3 | We suggest consideration of Roux-en-Y gastric bypass (RYGB) as an option to treat GERD in obese patients who are candidates for this procedure and who are willing to accept its risks and requirements for lifestyle alterations. | Conditional | Low |
 | 4 | Because data on the efficacy of radiofrequency energy (Stretta) as an antireflux procedure is inconsistent and highly variable, we cannot recommend its use as an alternative to medical or surgical antireflux therapies. | Conditional | Low |
 | 5 | We suggest consideration of TIF for patients with troublesome regurgitation or heartburn who do not wish to undergo antireflux surgery and who do not have severe reflux esophagitis (LA grade C or D) or hiatal hernias >2 cm. | Conditional | Low |
@@ -98,7 +98,7 @@ Verbatim from Table 1 unless noted; section numbering is the guideline's own (ea
 
 **Diagnosis**
 
-- We do not recommend [[high-resolution-manometry|HRM]] solely as a diagnostic test for GERD.
+- We do not recommend [[high-resolution-manometry|high-resolution manometry (HRM)]] solely as a diagnostic test for GERD.
 
 **GERD management**
 
@@ -111,7 +111,7 @@ Verbatim from Table 1 unless noted; section numbering is the guideline's own (ea
 - Diagnosis, evaluation, and management of potential extraesophageal symptoms of GERD is limited by lack of a gold-standard test, variable symptoms, and other disorders which may cause similar symptoms.
 - Endoscopy is not sufficient to confirm or refute the presence of extraesophageal GERD.
 - Because of difficulty distinguishing between patients with laryngeal symptoms and normal controls, salivary pepsin testing is not recommended for evaluation of patients with extraesophageal reflux symptoms.
-- For patients whose extraesophageal symptoms have not responded to a trial of twice-daily PPIs, we recommend upper endoscopy, ideally off PPIs for 2–4 wk. If endoscopy is normal, consider reflux monitoring. If EGD shows EE, that does not confirm that the extraesophageal symptoms are from GERD; patients still may need pH-impedance testing.
+- For patients whose extraesophageal symptoms have not responded to a trial of twice-daily PPIs, we recommend upper endoscopy, ideally off PPIs for 2–4 wk. If endoscopy is normal, consider reflux monitoring. If EGD [esophagogastroduodenoscopy] shows EE, that does not confirm that the extraesophageal symptoms are from GERD; patients still may need pH-impedance testing.
 - For patients with extraesophageal symptoms, we do not routinely recommend oropharyngeal or pharyngeal pH monitoring.
 
 **Refractory GERD**
@@ -119,7 +119,7 @@ Verbatim from Table 1 unless noted; section numbering is the guideline's own (ea
 - It is important to stop PPI therapy in patients whose off-therapy reflux testing is negative, unless another indication for continuing PPIs is present.
 - Esophageal manometry should be considered as part of the evaluation for refractory GERD in patients with a normal endoscopy and pH monitoring study and for patients being considered for surgical or endoscopic treatment.
 - If not already performed off PPIs, we recommend diagnostic upper endoscopy with esophageal biopsies after discontinuing PPI therapy, ideally for 2 to 4 wk.
-- For patients with PPI-refractory symptoms who have a normal pH monitoring test OFF PPIs or a normal impedance-pH monitoring test ON PPIs (including a negative SI and SAP), we recommend discontinuation of PPIs unless there is an indication for PPI therapy other than the refractory symptoms.
+- For patients with PPI-refractory symptoms who have a normal pH monitoring test OFF PPIs or a normal impedance-pH monitoring test ON PPIs (including a negative SI [symptom index] and SAP [symptom association probability]), we recommend discontinuation of PPIs unless there is an indication for PPI therapy other than the refractory symptoms.
 
 **Surgical and endoscopic therapy**
 
@@ -165,7 +165,7 @@ Verbatim from Table 1 unless noted; section numbering is the guideline's own (ea
 **Extraesophageal disease**
 
 - Chronic cough attributable to GERD in 21%–41% of cases in some studies; GERD symptoms in 59% of patients with asthma, abnormal pH testing in 51% (systematic review of 28 studies).
-- Case-control data: esophagitis/stricture associated with laryngitis (OR 2.01), aphonia (OR 1.81), asthma (OR 1.51), pharyngitis (OR 1.48).
+- Case-control data: esophagitis/stricture associated with laryngitis (odds ratio [OR] 2.01), aphonia (OR 1.81), asthma (OR 1.51), pharyngitis (OR 1.48).
 
 **Refractory GERD**
 
@@ -181,7 +181,7 @@ Verbatim from Table 1 unless noted; section numbering is the guideline's own (ea
 ## Relevance to Wiki
 
 - Primary update source for [[gerd]] disease script (empiric PPI trial, LA grade interpretation, extraesophageal management, refractory GERD workup, MSA, TIF criteria, long-term PPI safety counselling).
-- Key divergences from [[asge-2024-gerd]]: ACG 2021 predates the cTIF data reviewed in ASGE 2024; ACG is more comprehensive on extraesophageal GERD and long-term PPI safety; both agree on MSA.
+- Key divergences from [[asge-2024-gerd]]: ACG 2021 predates the concomitant TIF (cTIF) data reviewed in American Society for Gastrointestinal Endoscopy (ASGE) 2024; ACG is more comprehensive on extraesophageal GERD and long-term PPI safety; both agree on MSA.
 - Cross-references: [[barretts-esophagus]], [[antireflux-surgery]], [[high-resolution-manometry]].
 
 ## Contradictions / Open Questions

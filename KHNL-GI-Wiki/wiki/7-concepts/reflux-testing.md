@@ -7,9 +7,9 @@ updated: 2026-09-05
 sources: [acg-2021-gerd, asge-2024-gerd, acg-2020-esophageal-physiologic-testing]
 ---
 
-*Which objective test to order for suspected or refractory [[gerd|GERD]], when to order it, and whether to test on or off antisecretory therapy — plus the endoscopic grading systems used to characterise the antireflux barrier.*
+*Which objective test to order for suspected or refractory [[gerd|gastroesophageal reflux disease (GERD)]], when to order it, and whether to test on or off antisecretory therapy — plus the endoscopic grading systems used to characterise the antireflux barrier.*
 
-**Interpretation thresholds are not on this page.** Acid exposure time (AET) bands, reflux-episode counts, MNBI, PSPW status, and SAP/SI cut-offs live on [[ambulatory-reflux-monitoring]] (Lyon Consensus 2.0) — their single home.
+**Interpretation thresholds are not on this page.** Acid exposure time (AET) bands, reflux-episode counts, mean nocturnal baseline impedance (MNBI), postreflux swallow-induced peristaltic wave (PSPW) status, and symptom association probability (SAP)/symptom index (SI) cut-offs live on [[ambulatory-reflux-monitoring]] (Lyon Consensus 2.0) — their single home.
 
 ## Contents
 - [[#Why Test]]
@@ -33,10 +33,10 @@ sources: [acg-2021-gerd, asge-2024-gerd, acg-2020-esophageal-physiologic-testing
 
 ## Why Test
 
-- Symptoms and PPI response are **not** diagnostic: empiric [[proton-pump-inhibitors|PPI]] trial 78% sensitive / 54% specific for GERD (80% sensitive for noncardiac chest pain); GERDQ ≥9 66% sensitive / 64% specific ([[acg-2020-esophageal-physiologic-testing]]).
+- Symptoms and proton pump inhibitor (PPI) response are **not** diagnostic: empiric [[proton-pump-inhibitors|PPI]] trial 78% sensitive / 54% specific for GERD (80% sensitive for noncardiac chest pain); GERD Questionnaire (GERDQ) ≥9 66% sensitive / 64% specific ([[acg-2020-esophageal-physiologic-testing]]).
 - [[upper-endoscopy|Endoscopy]] has high specificity but low sensitivity — 20–30% of partial PPI responders have mucosal breaks ([[acg-2020-esophageal-physiologic-testing]]).
 - **Objective confirmation of GERD is required before any endoscopic or surgical antireflux therapy** ([[acg-2021-gerd]], [[asge-2024-gerd]]).
-- EGD precedes physiologic testing, and **no test is ordered without a clear clinical hypothesis** about what it will add ([[acg-2020-esophageal-physiologic-testing]]).
+- Esophagogastroduodenoscopy (EGD) precedes physiologic testing, and **no test is ordered without a clear clinical hypothesis** about what it will add ([[acg-2020-esophageal-physiologic-testing]]).
 
 ---
 
@@ -49,12 +49,12 @@ GRADE-rated recommendations, [[acg-2021-gerd]]:
 | Classic heartburn/regurgitation, no alarm features | **8-week empiric [[proton-pump-inhibitors\|PPI]]**, once daily before a meal — a treatment trial, not a diagnostic test | Strong / Moderate |
 | Symptoms respond to the 8-week trial | Attempt PPI **discontinuation** | Conditional / Low |
 | Inadequate response to 8 weeks, or symptoms return when PPI stopped | Diagnostic [[upper-endoscopy\|EGD]], ideally **after PPIs stopped 2–4 weeks** | Strong / Low |
-| [[dysphagia\|Dysphagia]] or other alarm features (weight loss, GI bleeding); multiple [[barretts-esophagus\|Barrett's]] risk factors | **EGD first** | Strong / Low |
+| [[dysphagia\|Dysphagia]] or other alarm features (weight loss, gastrointestinal [GI] bleeding); multiple [[barretts-esophagus\|Barrett's]] risk factors | **EGD first** | Strong / Low |
 | Chest pain without heartburn, cardiac disease excluded | Objective testing — EGD and/or reflux monitoring | Conditional / Low |
 | GERD suspected but unclear, and EGD shows no objective evidence | [[ambulatory-reflux-monitoring\|Reflux monitoring]] **off** therapy | Strong / Low |
-| Known **LA grade C or D** esophagitis, or **long-segment Barrett's** | **Do not** perform off-therapy reflux monitoring solely to diagnose GERD — already established | Strong / Low |
+| Known **Los Angeles (LA) grade C or D** esophagitis, or **long-segment Barrett's** | **Do not** perform off-therapy reflux monitoring solely to diagnose GERD — already established | Strong / Low |
 | Any | **Barium swallow is not** a diagnostic test for GERD | Conditional / Low |
-| Any | **HRM is not** a diagnostic test for GERD (key concept) | — |
+| Any | **High-resolution manometry (HRM) is not** a diagnostic test for GERD (key concept) | — |
 | Refractory symptoms, GERD never objectively established | pH monitoring **off** PPI — wireless capsule, catheter pH, or catheter pH-impedance | Conditional / Low |
 | Established GERD, inadequate response to **twice-daily** PPI | **pH-impedance on** PPI | Conditional / Low |
 
@@ -82,7 +82,7 @@ Both columns per [[acg-2021-gerd]]; Lyon 2.0's parallel off/on framework and its
 
 | Symptom category | Primary tests | Notes |
 |---|---|---|
-| **Obstructive** ([[dysphagia\|dysphagia]], regurgitation) | [[high-resolution-manometry\|HRM]] ± provocative maneuvers (MRS, RDC, solid test meal); barium esophagram with tablet; [[flip-panometry\|FLIP]] if HRM borderline or catheter placement fails | HRM over conventional line-tracing manometry (Strong / Moderate); provocative maneuvers, barium tablet, and FLIP all Conditional |
+| **Obstructive** ([[dysphagia\|dysphagia]], regurgitation) | [[high-resolution-manometry\|HRM]] ± provocative maneuvers (multiple rapid swallows [MRS], rapid drink challenge [RDC], solid test meal); barium esophagram with tablet; [[flip-panometry\|functional lumen imaging probe (FLIP)]] if HRM borderline or catheter placement fails | HRM over conventional line-tracing manometry (Strong / Moderate); provocative maneuvers, barium tablet, and FLIP all Conditional |
 | **Typical reflux** (heartburn, regurgitation, chest pain) | Ambulatory monitoring **off** PPI (unproven GERD); pH-impedance **on** PPI (proven GERD with persisting symptoms) | Monitoring preferred over questionnaires, PPI-trial response, or endoscopy alone for a conclusive diagnosis |
 | **Extraesophageal/atypical** (cough, hoarseness, globus, belching, rumination) | pH-impedance **off** acid suppression (Strong / Low); upfront over an empiric PPI trial when there are no concurrent typical symptoms (Conditional / Very low) | Laryngoscopy is 86% sensitive but only **9% specific** vs reflux monitoring — unusable as the primary diagnostic test |
 
@@ -110,7 +110,7 @@ Careful endoscopic evaluation, reporting, and **photo-documentation** of the fol
 
 | Element | Reporting system | Criteria live |
 |---|---|---|
-| Erosive esophagitis | Los Angeles (LA) grade A–D | Below |
+| Erosive esophagitis | LA grade A–D | Below |
 | [[barretts-esophagus\|Barrett's esophagus]] | Prague C&M | [[barretts-esophagus]] |
 | Peptic stricture | Present / absent | — |
 | [[hiatal-hernia\|Hiatal hernia]] | Axial length in cm (GEJ to diaphragmatic impression) | [[hiatal-hernia]] |
@@ -118,7 +118,7 @@ Careful endoscopic evaluation, reporting, and **photo-documentation** of the fol
 | GEJ landmarks | Top of gastric folds, Z-line, diaphragmatic impression | — |
 | Prior fundoplication | Describe if present | — |
 
-- **Hiatal hernia size + Hill grade is the procedural decision point** (≤2 cm with Hill I/II vs >2 cm with Hill III/IV) — the TIF / cTIF / surgery table and the TIF eligibility criteria live on [[antireflux-surgery]].
+- **Hiatal hernia size + Hill grade is the procedural decision point** (≤2 cm with Hill I/II vs >2 cm with Hill III/IV) — the transoral incisionless fundoplication (TIF) / combined TIF + hiatal hernia repair (cTIF) / surgery table and the TIF eligibility criteria live on [[antireflux-surgery]].
 - HRM detects hiatal hernia with higher sensitivity than endoscopy (see below).
 
 ### Erosive Esophagitis: Los Angeles (LA) Grade
@@ -153,7 +153,7 @@ Careful endoscopic evaluation, reporting, and **photo-documentation** of the fol
 Both are captured by reflux testing and both mimic refractory GERD.
 
 - **[[rumination-syndrome|Rumination syndrome]]:** postprandial high-resolution impedance manometry (HRIM) is the diagnostic standard ([[acg-2020-esophageal-physiologic-testing]]). Manometric criteria, test performance, and the postprandial protocol live on [[rumination-syndrome]].
-- **Supragastric belching:** confirmed on pH-impedance — sensitivity 93.4%, specificity 75%, PPV 96.8%; supragastric belches were identified in **48%** of 50 consecutive patients referred for reflux evaluation. Episodes occur almost exclusively upright (**37.8 ± 6.1/h upright vs 0.9 ± 0.5/h supine**) and are suppressed during sleep ([[acg-2020-esophageal-physiologic-testing]]). Both belong on the differential for PPI-refractory symptoms alongside the [[disorders-of-gut-brain-interaction|functional esophageal disorders]].
+- **Supragastric belching:** confirmed on pH-impedance — sensitivity 93.4%, specificity 75%, positive predictive value (PPV) 96.8%; supragastric belches were identified in **48%** of 50 consecutive patients referred for reflux evaluation. Episodes occur almost exclusively upright (**37.8 ± 6.1/h upright vs 0.9 ± 0.5/h supine**) and are suppressed during sleep ([[acg-2020-esophageal-physiologic-testing]]). Both belong on the differential for PPI-refractory symptoms alongside the [[disorders-of-gut-brain-interaction|functional esophageal disorders]].
 
 ---
 
@@ -163,7 +163,7 @@ Not a GERD diagnostic test — it explains a poor PPI response.
 
 - **Test CYP2C19 polymorphism in patients with suboptimal clinical response to PPI therapy and adjust PPI dose and selection accordingly** — Conditional, very low quality ([[asge-2024-gerd]]).
 - Metabolizer phenotypes: poor, intermediate, normal (wild-type), rapid, ultrarapid.
-- Rapid metabolizers vs poor metabolizers: **OR 1.6** for being refractory to PPI therapy; GERD resolution **52.2% (315/604) vs 61.3% (138/225)**.
+- Rapid metabolizers vs poor metabolizers: **odds ratio (OR) 1.6** for being refractory to PPI therapy; GERD resolution **52.2% (315/604) vs 61.3% (138/225)**.
 - Which agent/dose to switch to is on [[proton-pump-inhibitors]] (and [[potassium-competitive-acid-blockers]] for CYP2C19-independent alternatives).
 
 ---

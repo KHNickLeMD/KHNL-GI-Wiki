@@ -34,26 +34,26 @@ sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2020-ibs, acg-2022-ce
 ### Establishing the Diagnosis
 
 - **The colonoscopic appearance is typically normal** — the diagnosis is histologic, so a normal-looking mucosa does **not** exclude it. [[asge-2010-diarrhea]]
-- **Distribution is patchy → random biopsies of BOTH the right and left colon are required, even when the mucosa is normal.** *(ASGE Rec 2, low quality)* [[asge-2010-diarrhea]]
+- **Distribution is patchy → random biopsies of BOTH the right and left colon are required, even when the mucosa is normal.** *(American Society for Gastrointestinal Endoscopy (ASGE) Rec 2, low quality)* [[asge-2010-diarrhea]]
   - **Left-sided-only sampling (e.g. flexible sigmoidoscopy alone) can miss the diagnosis.** Sigmoidoscopy is an alternative option but may miss right-sided organic disease; in chronic diarrhea overall, **colonoscopy out-yields sigmoidoscopy 39% vs 22%** (P = .009) and is more cost-effective. [[asge-2010-diarrhea]]
   - *The counter-argument in the same guideline:* in one retrospective series of 809 patients, **>99% of abnormal pathology (and most microscopic colitis) was identifiable on distal colonic biopsies** — but multiple other studies show patchy distribution, which is why right **and** left sampling is the recommendation. [[asge-2010-diarrhea]]
-- Diagnostic yield of [[colonoscopy]] in chronic diarrhea is **7–32%**; **IBD and microscopic colitis are the most common findings.** [[asge-2010-diarrhea]], [[acg-2016-acute-diarrhea]]
+- Diagnostic yield of [[colonoscopy]] in chronic diarrhea is **7–32%**; **inflammatory bowel disease (IBD) and microscopic colitis are the most common findings.** [[asge-2010-diarrhea]], [[acg-2016-acute-diarrhea]]
 
 ### Who to Scope — Deciding When to Look for It
 
-The common indication "colonoscopy to rule out microscopic colitis" in suspected [[irritable-bowel-syndrome|IBS-D]] is **not** justified across the board; the guideline names the risk factors that do justify it. [[acg-2020-ibs]]
+The common indication "colonoscopy to rule out microscopic colitis" in suspected [[irritable-bowel-syndrome|irritable bowel syndrome with diarrhea (IBS-D)]] is **not** justified across the board; the guideline names the risk factors that do justify it. [[acg-2020-ibs]]
 
 | | Criteria |
 |---|---|
 | **Higher risk of microscopic colitis → colonoscopy supported** | **Age >60**, **female sex**, and **more intense diarrhea** (all three named together) |
-| **Routine colonoscopy NOT justified** | IBS symptoms **<45 years** with **no alarm features** *(conditional recommendation; low quality of evidence)* |
-| **≥45 years** | A **recent negative colonoscopy** (for [[colorectal-cancer-screening\|CRC screening]] or other indication) should mitigate the need for repeat colonoscopy for IBS symptoms **in the absence of new alarm features** |
+| **Routine colonoscopy NOT justified** | irritable bowel syndrome (IBS) symptoms **<45 years** with **no alarm features** *(conditional recommendation; low quality of evidence)* |
+| **≥45 years** | A **recent negative colonoscopy** (for [[colorectal-cancer-screening\|colorectal cancer (CRC) screening]] or other indication) should mitigate the need for repeat colonoscopy for IBS symptoms **in the absence of new alarm features** |
 
 - **Symptom criteria cannot exclude it:** **32.5% of patients with microscopic colitis meet Rome criteria for IBS-D**, and others meet Rome criteria for [[disorders-of-gut-brain-interaction|functional diarrhea]]. A positive Rome-based IBS diagnosis therefore does not rule microscopic colitis out. [[acg-2020-ibs]]
 
 ### Classification / Typing
 
-- Two subtypes — **lymphocytic** and **collagenous** colitis. **Medical management is identical:** outcomes did not differ between the subtypes in the AGA technical review, so the guideline's recommendations **do not distinguish between them**. [[aga-2016-microscopic-colitis]]
+- Two subtypes — **lymphocytic** and **collagenous** colitis. **Medical management is identical:** outcomes did not differ between the subtypes in the American Gastroenterological Association (AGA) technical review, so the guideline's recommendations **do not distinguish between them**. [[aga-2016-microscopic-colitis]]
 
 ## Differential Diagnosis
 
@@ -62,26 +62,26 @@ The common indication "colonoscopy to rule out microscopic colitis" in suspected
 - [[inflammatory-bowel-disease|IBD]] — the other most common colonoscopic finding in chronic diarrhea ([[ulcerative-colitis]], [[crohns-disease]]). [[asge-2010-diarrhea]]
 - [[celiac-disease|Celiac disease]] — the association runs **both ways**. Concurrent celiac disease and microscopic colitis are common, so in a patient with **established microscopic colitis who does not respond to treatment**, check **celiac serology and/or [[upper-endoscopy|upper endoscopy]] with proximal small-bowel biopsy** (minimum **4 duodenal biopsy specimens**). [[asge-2010-diarrhea]] Conversely, **microscopic colitis is part of the systematic workup for nonresponsive celiac disease** (persistent symptoms despite 6–12 months of a gluten-free diet). [[acg-2022-celiac]]
 - [[irritable-bowel-syndrome|IBS]] — normal mucosa in both; only biopsy separates them. **Rome criteria overlap heavily** (32.5% of microscopic colitis meets Rome IBS-D criteria), so the two cannot be separated symptomatically. [[acg-2020-ibs]]
-- [[small-intestinal-bacterial-overgrowth|SIBO]], [[exocrine-pancreatic-insufficiency|pancreatic insufficiency]], lactose/fructose intolerance — co-listed in the nonresponsive-celiac differential. [[acg-2022-celiac]]
+- [[small-intestinal-bacterial-overgrowth|small intestinal bacterial overgrowth (SIBO)]], [[exocrine-pancreatic-insufficiency|pancreatic insufficiency]], lactose/fructose intolerance — co-listed in the nonresponsive-celiac differential. [[acg-2022-celiac]]
 - Eosinophilic gastroenteritis, Whipple's disease. [[acg-2016-acute-diarrhea]]
-- **Prep- and drug-induced mimics:** sodium phosphate preps can cause mucosal changes mimicking IBD (usually distinguishable on histology); NSAIDs can cause terminal-ileal changes mimicking Crohn's. [[asge-2010-diarrhea]]
+- **Prep- and drug-induced mimics:** sodium phosphate preps can cause mucosal changes mimicking IBD (usually distinguishable on histology); nonsteroidal anti-inflammatory drugs (NSAIDs) can cause terminal-ileal changes mimicking Crohn's. [[asge-2010-diarrhea]]
 
 ## Diagnostics
 
 | Test | Role |
 |---|---|
 | **Colonoscopy with random right + left colon biopsies** | **Required** — establishes the diagnosis; patchy disease, normal-appearing mucosa *(Rec 2, low)* [[asge-2010-diarrhea]] |
-| **Terminal ileum intubation** | Recommended during chronic-diarrhea colonoscopy *(Rec 3, moderate)*; routine biopsy of a normal-appearing TI is low yield (0–4.2%) [[asge-2010-diarrhea]] |
+| **Terminal ileum intubation** | Recommended during chronic-diarrhea colonoscopy *(Rec 3, moderate)*; routine biopsy of a normal-appearing terminal ileum (TI) is low yield (0–4.2%) [[asge-2010-diarrhea]] |
 | **Flexible sigmoidoscopy alone** | Alternative, but **may miss right-sided disease** [[asge-2010-diarrhea]] |
 | **Stool / laboratory testing** | First-line before endoscopy in chronic diarrhea *(Rec 1)* [[asge-2010-diarrhea]] |
-| **Celiac serology ± EGD with ≥4 duodenal biopsies** | Consider in **established microscopic colitis not responding to treatment** — concurrent celiac disease is common [[asge-2010-diarrhea]] |
+| **Celiac serology ± esophagogastroduodenoscopy (EGD) with ≥4 duodenal biopsies** | Consider in **established microscopic colitis not responding to treatment** — concurrent celiac disease is common [[asge-2010-diarrhea]] |
 | **Rome symptom criteria** | **Cannot exclude the diagnosis** — 32.5% of microscopic colitis meets Rome IBS-D criteria [[acg-2020-ibs]] |
 | **Biopsies if sigmoidoscopy is done instead of colonoscopy** | Take specimens from the **descending colon in addition to the rectosigmoid** — rectosigmoid specimens alone may not reveal the disease [[aga-2016-microscopic-colitis]] |
 | **Follow-up colonoscopy to assess histologic response** | **Generally not necessary.** Exception: in residual symptoms after budesonide, **normal** colonic biopsies suggest coexisting IBS or celiac disease [[aga-2016-microscopic-colitis]] |
 
 ## Therapeutics
 
-*All therapy below is from [[aga-2016-microscopic-colitis]] and applies to **symptomatic** microscopic colitis of either subtype. Strength/quality labels are the guideline's own GRADE ratings.*
+*All therapy below is from [[aga-2016-microscopic-colitis]] and applies to **symptomatic** microscopic colitis of either subtype. Strength/quality labels are the guideline's own Grading of Recommendations Assessment, Development and Evaluation (GRADE) ratings.*
 
 ```mermaid
 flowchart TD
@@ -100,9 +100,9 @@ flowchart TD
 
 | Agent | Dose / duration | Rating | Notes |
 |---|---|---|---|
-| **[[corticosteroids-ibd\|Budesonide]] — first line** | **9 mg daily**; consider **cessation after 8 weeks** | **Strong, moderate** vs no treatment; **strong, high** vs mesalamine | >2× as likely to achieve clinical remission vs no treatment over an average of **7–13 days** (RR 2.52; 95% CI 1.45–4.4); nearly 2× clinical and histologic remission vs mesalamine, with **no significant difference in adverse events**. Serious adverse events low. **~1/3 remain symptom-free after stopping and need no maintenance.** Expensive — alternatives may be considered if cost decides |
-| **[[mesalamine-5-asa\|Mesalamine]]** | **3 g daily** | **Conditional, moderate** | Only **when budesonide is not feasible**. Benefit uncertain (OR 0.74; 95% CI 0.44–1.24 vs no treatment, not significant). Appropriate for contraindication to, poor response to, or strong preference against budesonide. **Cost is similar to budesonide**, so cost is unlikely to be the deciding factor |
-| **Bismuth salicylate** | **8–9 tablets daily, divided 3 times daily** | **Conditional, low** | Only when budesonide is not feasible. Small RCT: **7/7 responded vs 0/7** controls. Second-line alternative for contraindications to corticosteroids or when cost decides. Significant **pill burden** in older patients; long-term salicylate/bismuth toxicity unknown |
+| **[[corticosteroids-ibd\|Budesonide]] — first line** | **9 mg daily**; consider **cessation after 8 weeks** | **Strong, moderate** vs no treatment; **strong, high** vs mesalamine | >2× as likely to achieve clinical remission vs no treatment over an average of **7–13 days** (relative risk (RR) 2.52; 95% confidence interval (CI) 1.45–4.4); nearly 2× clinical and histologic remission vs mesalamine, with **no significant difference in adverse events**. Serious adverse events low. **~1/3 remain symptom-free after stopping and need no maintenance.** Expensive — alternatives may be considered if cost decides |
+| **[[mesalamine-5-asa\|Mesalamine]]** | **3 g daily** | **Conditional, moderate** | Only **when budesonide is not feasible**. Benefit uncertain (odds ratio (OR) 0.74; 95% CI 0.44–1.24 vs no treatment, not significant). Appropriate for contraindication to, poor response to, or strong preference against budesonide. **Cost is similar to budesonide**, so cost is unlikely to be the deciding factor |
+| **Bismuth salicylate** | **8–9 tablets daily, divided 3 times daily** | **Conditional, low** | Only when budesonide is not feasible. Small randomized controlled trial (RCT): **7/7 responded vs 0/7** controls. Second-line alternative for contraindications to corticosteroids or when cost decides. Significant **pill burden** in older patients; long-term salicylate/bismuth toxicity unknown |
 | **Prednisolone (or prednisone)** | Dose not specified by the guideline | **Conditional, very low** | Only when budesonide is not feasible. 22% response among 9 patients vs 0/3 controls. **Should not be used first line in most cases**; considerably **cheaper** than budesonide. Consider in **refractory symptoms after budesonide**, once coexisting etiologies such as celiac disease are excluded |
 
 ### Maintenance of Clinical Remission
@@ -117,8 +117,8 @@ flowchart TD
 ### Ongoing or Refractory Symptoms
 
 - **Reconsider the diagnosis first** — look for coexisting causes of chronic diarrhea, especially celiac disease; residual bowel symptoms may reflect coexisting or postinflammatory **functional bowel disorders** (IBS).
-- **Review drug triggers** that may precipitate microscopic colitis: **NSAIDs, [[proton-pump-inhibitors|PPIs]], and SSRIs.**
-- **Corticosteroid-refractory disease is not addressed by the guideline** — no trial data exist. Very limited case-series evidence suggests **[[thiopurines|azathioprine and 6-mercaptopurine]]** and **[[anti-tnf-agents|anti-TNF agents]]** may benefit these patients.
+- **Review drug triggers** that may precipitate microscopic colitis: **NSAIDs, [[proton-pump-inhibitors|proton pump inhibitors (PPIs)]], and selective serotonin reuptake inhibitors (SSRIs).**
+- **Corticosteroid-refractory disease is not addressed by the guideline** — no trial data exist. Very limited case-series evidence suggests **[[thiopurines|azathioprine and 6-mercaptopurine]]** and **[[anti-tnf-agents|anti–tumor necrosis factor (TNF) agents]]** may benefit these patients.
 - **Untested but called for by the guideline:** trials of lower-cost options such as antidiarrheal agents (e.g. [[loperamide]]) and **cholestyramine monotherapy** — the panel makes no statement on cholestyramine alone because no trial has evaluated it.
 
 ### Recommended Against

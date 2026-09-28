@@ -7,7 +7,7 @@ updated: 2026-09-05
 sources: [aga-2025-heds-gi]
 ---
 
-Heritable connective tissue disorder; most common EDS subtype (80–90% of all EDS). Defined by joint hypermobility, tissue fragility, musculoskeletal symptoms. Part of a broader **hypermobility spectrum disorder (HSD)** continuum (hypermobility + pain that does not meet full hEDS criteria). GI symptoms are highly prevalent — in a cross-sectional survey of >600 hEDS/HSD patients, **98% met criteria for a [[disorders-of-gut-brain-interaction|DGBI]]** — and impair quality of life. Frequently coexists with **POTS** (postural orthostatic tachycardia syndrome) and **MCAS** (mast cell activation syndrome); the three overlap and amplify GI symptoms.
+Heritable connective tissue disorder; most common Ehlers-Danlos syndrome (EDS) subtype (80–90% of all EDS). Defined by joint hypermobility, tissue fragility, musculoskeletal symptoms. Part of a broader **hypermobility spectrum disorder (HSD)** continuum (hypermobility + pain that does not meet full hypermobile EDS [hEDS] criteria). Gastrointestinal (GI) symptoms are highly prevalent — in a cross-sectional survey of >600 hEDS/HSD patients, **98% met criteria for a [[disorders-of-gut-brain-interaction|disorder of gut-brain interaction (DGBI)]]** — and impair quality of life. Frequently coexists with **POTS** (postural orthostatic tachycardia syndrome) and **MCAS** (mast cell activation syndrome); the three overlap and amplify GI symptoms.
 
 ## Contents
 - [[#Assessment]]
@@ -39,7 +39,7 @@ Heritable connective tissue disorder; most common EDS subtype (80–90% of all E
 | 3 | **Absence** of unusual skin fragility | Skin fragility prompts exclusion of other EDS forms, other heritable/acquired connective tissue disorders, and other joint disorders involving hypotonia and/or connective tissue laxity |
 
 - **HSD** = joint hypermobility + pain that does **not** satisfy the full hEDS criteria.
-- **BPA 3:** gastroenterologists seeing [[disorders-of-gut-brain-interaction|DGBI]] patients should **inquire about joint hypermobility** and strongly consider incorporating the Beighton score as a screening tool; if the screen is positive, apply the 2017 criteria (Ehlers-Danlos Society hEDS diagnostic checklist) or refer to a specialist.
+- **Best practice advice (BPA) 3:** gastroenterologists seeing [[disorders-of-gut-brain-interaction|DGBI]] patients should **inquire about joint hypermobility** and strongly consider incorporating the Beighton score as a screening tool; if the screen is positive, apply the 2017 criteria (Ehlers-Danlos Society hEDS diagnostic checklist) or refer to a specialist.
 
 ### Beighton Score
 
@@ -63,11 +63,11 @@ Nine points; **test both sides** for A–D (1 point per side), spine scores 1. [
 
 ### When to Suspect POTS
 
-- **Definition (all required):** symptomatic **HR rise ≥30 bpm within 10 min of upright posture** (**≥40 bpm** in adolescents **12–19 y**), with **absence of orthostatic hypotension**; orthostatic-intolerance symptoms present **≥6 months**; **not explained** by dehydration, medications, diet, primary anxiety disorder, eating disorder, or another medical condition.
+- **Definition (all required):** symptomatic **heart rate (HR) rise ≥30 bpm within 10 min of upright posture** (**≥40 bpm** in adolescents **12–19 y**), with **absence of orthostatic hypotension**; orthostatic-intolerance symptoms present **≥6 months**; **not explained** by dehydration, medications, diet, primary anxiety disorder, eating disorder, or another medical condition.
 - Other features: palpitations, tremulousness, lightheadedness, fatigue, blurred vision, generalized weakness, cognitive and bladder dysfunction.
 - **GI clues:** nausea, abdominal pain, vomiting, diarrhea, [[abdominal-bloating-and-distention|bloating]], severe [[chronic-idiopathic-constipation|constipation]] — of which **nausea, pain, and early satiety are the most predictive of abnormal GI motility**.
 - Phenotypes: hypovolemic, neuropathic, primary hyperadrenergic.
-- Up to **40%** of POTS patients self-report a preceding viral URI/GI infection; acute and long COVID-19 are both associated with POTS.
+- Up to **40%** of POTS patients self-report a preceding viral upper respiratory infection (URI)/GI infection; acute and long coronavirus disease 2019 (COVID-19) are both associated with POTS.
 
 ### When to Suspect MCAS
 
@@ -76,7 +76,7 @@ Nine points; **test both sides** for A–D (1 point per side), spine scores 1. [
 | | Criterion |
 |---|---|
 | **A** | Typical clinical signs of **severe, recurrent (episodic), systemic** mast-cell activation involving **≥2 organ systems** (often as anaphylaxis) |
-| **B** | Mast-cell involvement documented biochemically: rise in **serum tryptase** from the individual's baseline to **baseline + 20% + 2 ng/mL** (preferred marker; histamine metabolites, PGD2, LTC4 metabolites are less specific) |
+| **B** | Mast-cell involvement documented biochemically: rise in **serum tryptase** from the individual's baseline to **baseline + 20% + 2 ng/mL** (preferred marker; histamine metabolites, prostaglandin D2 (PGD2), leukotriene C4 (LTC4) metabolites are less specific) |
 | **C** | **Response of symptoms** to mast-cell–stabilizing agents, drugs against mediator production, or mediator blockers |
 
 **Classification once criteria are met:**
@@ -84,12 +84,12 @@ Nine points; **test both sides** for A–D (1 point per side), spine scores 1. [
 | Type | Main diagnostic features |
 |---|---|
 | **Primary (clonal)** | Most mast cells display **CD25** and/or **KIT D816V** is detected — (A) with confirmed cutaneous or systemic mastocytosis, or (B) with only 2 minor systemic-mastocytosis criteria |
-| **Secondary** | IgE-mediated, or driven by another hypersensitivity reaction / immunologic disorder — **no** neoplastic mast cells and **no** KIT D816V |
+| **Secondary** | Immunoglobulin E (IgE)-mediated, or driven by another hypersensitivity reaction / immunologic disorder — **no** neoplastic mast cells and **no** KIT D816V |
 | **Idiopathic** | MCAS criteria met with **neither** clonal mast cells **nor** IgE-mediated allergy |
 
 - **GI clues:** nausea, vomiting, heartburn, [[dysphagia]], abdominal pain, atypical chest pain, bowel dysfunction — heavily overlapping DGBI. Systemic clues: fatigue, tinnitus, conjunctivitis, headache/migraine, brain fog, palpitations, flushing, pruritus, urticaria, myalgias, lymphadenopathy.
 
-**Association data (observational, limited):** among 139 MCAS patients with refractory GI symptoms — 23.7% EDS, 25.2% POTS, 15.1% both; 37.5% of hEDS/HSD patients report a POTS diagnosis; >60% of hEDS/HSD patients have ≥1 GI symptom (those with POTS more often had fibromyalgia, IBS, [[gerd|GERD]], or dysmotility). In most of these studies hEDS/HSD was **not** diagnosed by the 2017 criteria and POTS/MCAS were not categorically established.
+**Association data (observational, limited):** among 139 MCAS patients with refractory GI symptoms — 23.7% EDS, 25.2% POTS, 15.1% both; 37.5% of hEDS/HSD patients report a POTS diagnosis; >60% of hEDS/HSD patients have ≥1 GI symptom (those with POTS more often had fibromyalgia, irritable bowel syndrome (IBS), [[gerd|gastroesophageal reflux disease (GERD)]], or dysmotility). In most of these studies hEDS/HSD was **not** diagnosed by the 2017 criteria and POTS/MCAS were not categorically established.
 
 **BPA 1–2:** mechanistic links (collagen/extracellular-matrix laxity, mast-cell–mediated visceral sensitization, autonomic dysfunction, autoimmunity) are theoretical and evolving. **Target POTS/MCAS testing to the clinical presentation — universal testing of all hEDS/HSD patients is not supported.**
 
@@ -129,11 +129,11 @@ Nine points; **test both sides** for A–D (1 point per side), spine scores 1. [
 | Symptom | Treatment options |
 |---|---|
 | **[[nausea-and-vomiting\|Nausea / vomiting]]** | Antiemetics (ondansetron, prochlorperazine, promethazine, aprepitant, off-label carbidopa); prokinetics (metoclopramide, domperidone, pyridostigmine, off-label [[prucalopride]], erythromycin); complementary (aromatherapy, ginger tea, STW5). *Multiple agents are often needed — monitor for QT prolongation.* |
-| **Abdominal pain** | Acid suppression (H2RA, [[proton-pump-inhibitors\|PPI]]); antispasmodics (dicyclomine, hyoscyamine, peppermint oil); neuromodulators (TCA, SSRI, SNRI, neuroleptics, anticonvulsants — incl. pregabalin, gabapentin); psychological therapies (CBT, hypnotherapy, relaxation). **Opioids: avoid — do not use to treat abdominal pain; facilitate cessation if already prescribed.** |
-| **Constipation** | Fiber (psyllium, methylcellulose); osmotic laxatives (PEG 3350, lactulose, milk of magnesia); stimulants (bisacodyl, senna); chloride-channel activator [[lubiprostone]]; guanylate cyclase-C agonists [[linaclotide]] and [[plecanatide]]; 5-HT4 agonist [[prucalopride]]; NHE3 inhibitor [[tenapanor]] |
-| **Diarrhea** | Dietary (low FODMAP, gluten-free, soluble fiber); microbiome ([[rifaximin]], *Bifidobacterium infantis* 35624 — see [[probiotics]]); antidiarrheals ([[loperamide]], diphenoxylate); bile acid sequestrants (cholestyramine, colesevelam, colestipol); [[eluxadoline]]*; 5-HT3 antagonist [[alosetron]] (female patients only) |
+| **Abdominal pain** | Acid suppression (histamine-2 receptor antagonist [H2RA], [[proton-pump-inhibitors\|proton pump inhibitor (PPI)]]); antispasmodics (dicyclomine, hyoscyamine, peppermint oil); neuromodulators (tricyclic antidepressant [TCA], selective serotonin reuptake inhibitor [SSRI], serotonin-norepinephrine reuptake inhibitor [SNRI], neuroleptics, anticonvulsants — incl. pregabalin, gabapentin); psychological therapies (cognitive behavioral therapy [CBT], hypnotherapy, relaxation). **Opioids: avoid — do not use to treat abdominal pain; facilitate cessation if already prescribed.** |
+| **Constipation** | Fiber (psyllium, methylcellulose); osmotic laxatives (polyethylene glycol [PEG] 3350, lactulose, milk of magnesia); stimulants (bisacodyl, senna); chloride-channel activator [[lubiprostone]]; guanylate cyclase-C agonists [[linaclotide]] and [[plecanatide]]; 5-hydroxytryptamine-4 (5-HT4) agonist [[prucalopride]]; NHE3 inhibitor [[tenapanor]] |
+| **Diarrhea** | Dietary (low fermentable oligosaccharide, disaccharide, monosaccharide, and polyol [FODMAP], gluten-free, soluble fiber); microbiome ([[rifaximin]], *Bifidobacterium infantis* 35624 — see [[probiotics]]); antidiarrheals ([[loperamide]], diphenoxylate); bile acid sequestrants (cholestyramine, colesevelam, colestipol); [[eluxadoline]]*; 5-HT3 antagonist [[alosetron]] (female patients only) |
 | **MCAS** | H2RA (famotidine, nizatidine, ranitidine); second-generation H1 antagonist (cetirizine, levocetirizine, fexofenadine, loratadine); mast-cell stabilizer (cromolyn sodium, ketotifen — not FDA-approved, can be compounded); leukotriene receptor antagonist (montelukast) |
-| **POTS** | Lifestyle (exercise, dietary fluid/salt, salt tablets, compression garment, rarely IV hydration); volume expanders (fludrocortisone, desmopressin, erythropoietin); rate-lowering agents (propranolol, ivabradine); CNS sympatholytics (clonidine, methyldopa); other (midodrine, pyridostigmine, droxidopa, modafinil) |
+| **POTS** | Lifestyle (exercise, dietary fluid/salt, salt tablets, compression garment, rarely intravenous [IV] hydration); volume expanders (fludrocortisone, desmopressin, erythropoietin); rate-lowering agents (propranolol, ivabradine); central nervous system (CNS) sympatholytics (clonidine, methyldopa); other (midodrine, pyridostigmine, droxidopa, modafinil) |
 | **Autoimmunity** | Corticosteroids or immunoglobulins — refer to allergy/immunology or a mast-cell specialist to manage |
 
 \* [[eluxadoline]] is contraindicated with ≥3 alcoholic drinks/day, post-cholecystectomy, and moderate-to-severe hepatic insufficiency.
@@ -144,7 +144,7 @@ Nine points; **test both sides** for A–D (1 point per side), spine scores 1. [
 ### POTS and MCAS Treatment
 
 - **POTS (BPA 13) — conservative first:** fluid **≈2 L/d**, salt **≈10 g/d**, exercise training, compression garments. Pharmacologic volume expansion / rate control / vasoconstriction (agents above) with integrated cardiology–neurology care **only if conservative measures fail**.
-- **MCAS (BPA 14):** nonsedating **H1 + H2** histamine receptor antagonists are **first-line**; oral **cromolyn** mast-cell stabilizers and/or a **leukotriene receptor antagonist** are **second-line**. Avoid triggers — certain foods, alcohol, strong smells, temperature changes, mechanical/friction stimuli, antigens (pollen, mold), emotional distress, and specific drugs (opioids, NSAIDs, iodinated contrast). Antimediator response rates have been estimated at 75% (diarrhea) and 82% (abdominal pain), but come from uncontrolled data.
+- **MCAS (BPA 14):** nonsedating **H1 + H2** histamine receptor antagonists are **first-line**; oral **cromolyn** mast-cell stabilizers and/or a **leukotriene receptor antagonist** are **second-line**. Avoid triggers — certain foods, alcohol, strong smells, temperature changes, mechanical/friction stimuli, antigens (pollen, mold), emotional distress, and specific drugs (opioids, nonsteroidal anti-inflammatory drugs [NSAIDs], iodinated contrast). Antimediator response rates have been estimated at 75% (diarrhea) and 82% (abdominal pain), but come from uncontrolled data.
 
 ### Nutrition and Diet
 

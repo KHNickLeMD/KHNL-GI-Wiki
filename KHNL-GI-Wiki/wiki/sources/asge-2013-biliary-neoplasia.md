@@ -17,21 +17,21 @@ sources: []
 
 ## Summary
 
-ASGE Standards of Practice statement (GRADE) on the endoscopic approach to biliary neoplasia — ampullary adenocarcinoma, [[cholangiocarcinoma]], and [[gallbladder-cancer|gallbladder neoplasia (polyps and adenocarcinoma)]]. It is a 2013 update of a 2005 ASGE document. The central tools are EUS (with FNA), MRC, ERCP (tissue acquisition + palliation), and intraductal ultrasound (IDUS).
+American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice statement (Grading of Recommendations Assessment, Development and Evaluation [GRADE]) on the endoscopic approach to biliary neoplasia — ampullary adenocarcinoma, [[cholangiocarcinoma]], and [[gallbladder-cancer|gallbladder neoplasia (polyps and adenocarcinoma)]]. It is a 2013 update of a 2005 ASGE document. The central tools are endoscopic ultrasound (EUS, with fine-needle aspiration [FNA]), magnetic resonance cholangiography (MRC), endoscopic retrograde cholangiopancreatography (ERCP) (tissue acquisition + palliation), and intraductal ultrasound (IDUS).
 
-Once biliary neoplasia is suspected (jaundice, abnormal LFTs with an obstructive pattern, weight loss), cross-sectional imaging is the first step. EUS is most useful when its result would change management; MRC guides resectability and unilateral drainage for unresectable hilar disease (to limit cholangitis). ERCP is reserved for tissue acquisition and palliation of [[biliary-stricture|indeterminate strictures]]. For gallbladder polyps, size and symptoms drive the decision between cholecystectomy and surveillance.
+Once biliary neoplasia is suspected (jaundice, abnormal liver function tests (LFTs) with an obstructive pattern, weight loss), cross-sectional imaging is the first step. EUS is most useful when its result would change management; MRC guides resectability and unilateral drainage for unresectable hilar disease (to limit cholangitis). ERCP is reserved for tissue acquisition and palliation of [[biliary-stricture|indeterminate strictures]]. For gallbladder polyps, size and symptoms drive the decision between cholecystectomy and surveillance.
 
 ## Key Findings / Claims
 
 **Recommendations (verbatim, with GRADE quality of evidence; QQQQ = high, QQQŒ = moderate, QQŒŒ = low, QŒŒŒ = very low):**
 
 1. We recommend that EUS be performed in patients with suspected ampullary adenocarcinoma or cholangiocarcinoma if the EUS findings or positive FNA results would change management. (Moderate)
-2. We recommend MRC to assess for resectability if a CT scan suggests cholangiocarcinoma, particularly of the bifurcation. If the lesion is unresectable, endoscopic palliation of jaundice should be performed by using MRC as a guide for unilateral drainage to minimize the risk of cholangitis. (High)
+2. We recommend MRC to assess for resectability if a CT [computed tomography] scan suggests cholangiocarcinoma, particularly of the bifurcation. If the lesion is unresectable, endoscopic palliation of jaundice should be performed by using MRC as a guide for unilateral drainage to minimize the risk of cholangitis. (High)
 3. We recommend ERCP to obtain tissue or facilitate further evaluation of indeterminate strictures. (Moderate)
 4. We recommend that symptomatic patients with a gallbladder polyp (GBP) undergo cholecystectomy. (Moderate)
 5. We suggest that asymptomatic patients with a GBP larger than 10 mm undergo cholecystectomy. (Low)
 6. We suggest that asymptomatic patients with a GBP 6 mm to 10 mm in size and without other risk factors for gallbladder cancer undergo surveillance (e.g., transabdominal ultrasound every 12 months). (Low)
-7. We recommend that the presence of any GBP should prompt cholecystectomy in patients with PSC. (Moderate)
+7. We recommend that the presence of any GBP should prompt cholecystectomy in patients with PSC [primary sclerosing cholangitis]. (Moderate)
 
 **Other points:**
 - EUS-FNA of the primary cholangiocarcinoma lesion carries concern for tumor seeding and may compromise liver-transplant candidacy — weigh before sampling.
@@ -40,8 +40,8 @@ Once biliary neoplasia is suspected (jaundice, abnormal LFTs with an obstructive
 
 ## Relevance to Wiki
 - Updates [[cholangiocarcinoma]] — EUS-only-if-management-changing, EUS-FNA seeding/transplant caveat, MRC for resectability + unilateral drainage of unresectable hilar lesions, ERCP for tissue/indeterminate strictures, IDUS adjunct.
-- Updates [[gallbladder-cancer]] — gallbladder-polyp management thresholds (symptomatic → cholecystectomy; >10 mm → cholecystectomy; 6–10 mm → US surveillance ~q12mo; any GBP in PSC → cholecystectomy).
+- Updates [[gallbladder-cancer]] — gallbladder-polyp management thresholds (symptomatic → cholecystectomy; >10 mm → cholecystectomy; 6–10 mm → ultrasound surveillance ~q12mo; any GBP in PSC → cholecystectomy).
 - Cross-links [[biliary-stricture]] (indeterminate stricture tissue acquisition) and [[primary-sclerosing-cholangitis]] (GBP in PSC).
 
 ## Contradictions / Open Questions
-- Older (2013) than [[asge-2021-malignant-hilar-obstruction|ASGE 2021 malignant hilar obstruction]] and [[asge-2023-indeterminate-biliary-strictures|ASGE 2023 indeterminate biliary strictures]]; for stricture tissue-acquisition algorithms (cholangioscopy, FISH) and hilar stenting strategy the newer ASGE documents govern. This source contributes the gallbladder-polyp size thresholds and the unilateral-drainage-for-cholangitis-prevention point not centered in those.
+- Older (2013) than [[asge-2021-malignant-hilar-obstruction|ASGE 2021 malignant hilar obstruction]] and [[asge-2023-indeterminate-biliary-strictures|ASGE 2023 indeterminate biliary strictures]]; for stricture tissue-acquisition algorithms (cholangioscopy, fluorescence in situ hybridization [FISH]) and hilar stenting strategy the newer ASGE documents govern. This source contributes the gallbladder-polyp size thresholds and the unilateral-drainage-for-cholangitis-prevention point not centered in those.

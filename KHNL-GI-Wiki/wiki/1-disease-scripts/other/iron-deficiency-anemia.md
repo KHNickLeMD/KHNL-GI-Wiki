@@ -28,15 +28,15 @@ sources: [aga-2020-ida, aga-2024-ida-management]
 ### Establishing the Diagnosis
 
 - **Iron deficiency (ID):** the most common nutritional deficiency worldwide. **Iron-deficiency anemia (IDA)** = ID with anemia.
-- **Diagnostic marker — ferritin.** Diagnose ID with a **ferritin cutoff <45 ng/mL (µg/L)** in an anemic patient — AGA 2020 recommends 45 over 15 ng/mL (**Strong recommendation, high certainty**), chosen to maximize sensitivity for iron deficiency at acceptable specificity. [[aga-2020-ida]]
+- **Diagnostic marker — ferritin.** Diagnose ID with a **ferritin cutoff <45 ng/mL (µg/L)** in an anemic patient — American Gastroenterological Association (AGA) 2020 recommends 45 over 15 ng/mL (**Strong recommendation, high certainty**), chosen to maximize sensitivity for iron deficiency at acceptable specificity. [[aga-2020-ida]]
   - **Caveat (inflammation):** ferritin is an acute-phase reactant. Patients with inflammatory conditions can have ID/IDA despite ferritin **>45 (usually <100) ng/mL**. Confirm in this setting with **transferrin saturation (TSAT), soluble transferrin receptor (sTfR), or reticulocyte hemoglobin equivalent** *(neither AGA guideline gives a numeric cutoff for these three confirmatory tests)*. [[aga-2024-ida-management]]
-- After ID is identified, undertake an etiologic work-up: dietary iron intake, menstrual losses (premenopausal women), and a search for GI causes of poor absorption or blood loss (including [[helicobacter-pylori-infection|*H. pylori*]]).
+- After ID is identified, undertake an etiologic work-up: dietary iron intake, menstrual losses (premenopausal women), and a search for gastrointestinal (GI) causes of poor absorption or blood loss (including [[helicobacter-pylori-infection|*H. pylori*]]).
 
 ### Severity Assessment
 
 | Feature | Implication |
 |---|---|
-| Degree of anemia (Hgb) | ECCO uses **Hgb <10 g/dL** as a threshold favoring IV iron in [[inflammatory-bowel-disease\|IBD]] |
+| Degree of anemia (hemoglobin [Hgb]) | European Crohn's and Colitis Organisation (ECCO) uses **Hgb <10 g/dL** as a threshold favoring intravenous (IV) iron in [[inflammatory-bowel-disease\|inflammatory bowel disease (IBD)]] |
 | Symptom burden / tolerance of oral iron | Drives oral-vs-IV route |
 | Ongoing blood loss vs. malabsorption vs. low intake | Determines whether repletion alone suffices or a source must be treated |
 | Impaired-absorption state ([[bariatric-surgery\|post-bariatric]], active IBD) | Favors IV iron up front |
@@ -64,7 +64,7 @@ sources: [aga-2020-ida, aga-2024-ida-management]
 
 Per AGA 2020 [[aga-2020-ida]]:
 
-- **Bidirectional endoscopy** ([[upper-endoscopy|EGD]] **and** [[colonoscopy]]) — but the strength depends on who the patient is, and that is the decision:
+- **Bidirectional endoscopy** ([[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] **and** [[colonoscopy]]) — but the strength depends on who the patient is, and that is the decision:
 
 | Population (asymptomatic, IDA) | Recommendation | Strength / quality |
 |---|---|---|
@@ -105,7 +105,7 @@ Per AGA 2020 [[aga-2020-ida]]:
 - **Indications:** oral iron intolerance; ferritin/counts fail to improve on a trial of oral iron; or a condition where oral iron is unlikely to be absorbed (post-bariatric, active IBD, loss exceeding absorption). [[aga-2024-ida-management]]
 - **Prefer formulations that replete the deficit in 1–2 infusions.**
 - **Safety:** true anaphylaxis is very rare. Most reactions are **complement activation–related pseudo-allergy** (infusion reactions ~1:200; major ~1:200,000) — stop and restart slower; corticosteroids for severe reactions; **avoid diphenhydramine** (its effects mimic worsening reaction). All formulations have similar risk.
-- **Agent-specific cautions:** ferric carboxymaltose → **hypophosphatemia** (can be prolonged; use with care in poor nutrition); **ferumoxytol** is also an MRI contrast agent → notify radiology if MRI within 3 months.
+- **Agent-specific cautions:** ferric carboxymaltose → **hypophosphatemia** (can be prolonged; use with care in poor nutrition); **ferumoxytol** is also a magnetic resonance imaging (MRI) contrast agent → notify radiology if MRI within 3 months.
 
 | IV agent | Single dose | Schedule | Note |
 |---|---|---|---|
@@ -121,10 +121,10 @@ Per AGA 2020 [[aga-2020-ida]]:
 | Condition | Approach [[aga-2024-ida-management]] |
 |---|---|
 | **Post-bariatric** (esp. Roux-en-Y) | **IV iron preferred** (duodenal bypass disrupts absorption) when no chronic GI blood-loss source; EGD to exclude anastomotic ulcer |
-| **[[inflammatory-bowel-disease\|IBD]]** | First determine intake/absorption vs. loss; **treat active inflammation**. **IV iron** if active inflammation with compromised absorption — IV superior to oral (efficacy OR 1.57; discontinuation OR 0.27); ECCO: IV first-line if **Hgb <10 g/dL**. Oral acceptable in mild, clinically inactive disease |
+| **[[inflammatory-bowel-disease\|IBD]]** | First determine intake/absorption vs. loss; **treat active inflammation**. **IV iron** if active inflammation with compromised absorption — IV superior to oral (efficacy odds ratio [OR] 1.57; discontinuation OR 0.27); ECCO: IV first-line if **Hgb <10 g/dL**. Oral acceptable in mild, clinically inactive disease |
 | **Portal hypertensive gastropathy (PHG)** | **Oral iron first** (no malabsorptive defect); IV iron if ongoing bleeding/non-response. Consider **nonselective β-blockers** to reduce portal pressure when no other blood-loss source (also [[cirrhosis]]/[[portal-hypertension]]) |
-| **Gastric antral vascular ectasia (GAVE)** | Iron repletion + **endoscopic therapy** if inadequate response — **endoscopic band ligation (EBL)** or thermal ([[argon-plasma-coagulation\|APC]]); EBL favored (fewer sessions, greater transfusion reduction, +0.59 g/dL Hgb) |
-| **[[celiac-disease\|Celiac disease]]** | **Gluten-free diet** is central (restores absorption); oral iron by severity, then **IV iron if stores don't recover**; up to 20% remain iron-deficient despite strict GFD |
+| **Gastric antral vascular ectasia (GAVE)** | Iron repletion + **endoscopic therapy** if inadequate response — **endoscopic band ligation (EBL)** or thermal ([[argon-plasma-coagulation\|argon plasma coagulation (APC)]]); EBL favored (fewer sessions, greater transfusion reduction, +0.59 g/dL Hgb) |
+| **[[celiac-disease\|Celiac disease]]** | **Gluten-free diet (GFD)** is central (restores absorption); oral iron by severity, then **IV iron if stores don't recover**; up to 20% remain iron-deficient despite strict GFD |
 | **Small-bowel [[angioectasia\|angioectasias]]** | **[[device-assisted-enteroscopy\|Deep enteroscopy]] with a distal cap attachment** (improves detection/therapy); treat with **APC or hemostatic clips + iron repletion**. [[somatostatin-analogs\|Somatostatin analogues]] (octreotide > lanreotide) / thalidomide only for **refractory** cases (rebleed: small-bowel 45%) |
 
 ---

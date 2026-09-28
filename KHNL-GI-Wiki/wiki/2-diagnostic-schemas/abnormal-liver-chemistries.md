@@ -38,27 +38,27 @@ sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy]
 
 | Marker | What it measures | True liver function marker? |
 |--------|----------------|-----------------------------|
-| ALT | Hepatocellular injury (liver-specific) | No |
-| AST | Hepatocellular injury (also muscle, heart) | No |
-| Alkaline phosphatase | Cholestatic/biliary injury (also bone, placenta) | No |
-| GGT | Confirms hepatic origin of Alk Phos elevation | No |
+| Alanine aminotransferase (ALT) | Hepatocellular injury (liver-specific) | No |
+| Aspartate aminotransferase (AST) | Hepatocellular injury (also muscle, heart) | No |
+| Alkaline phosphatase (Alk Phos) | Cholestatic/biliary injury (also bone, placenta) | No |
+| Gamma-glutamyl transferase (GGT) | Confirms hepatic origin of Alk Phos elevation | No |
 | Bilirubin | Hepatocellular dysfunction or biliary obstruction | Partial |
 | **Albumin** | Hepatic synthetic function | **Yes** |
-| **Prothrombin time (INR)** | Hepatic synthetic function | **Yes** |
+| **Prothrombin time (PT)/international normalized ratio (INR)** | Hepatic synthetic function | **Yes** |
 
 **Key principle:** True tests of liver function include albumin (half-life 3 weeks) and prothrombin time. A prolonged PT or low albumin signals significant hepatic dysfunction. Prothrombin time is the more sensitive marker of acute hepatic dysfunction (can be prolonged within <24 hours of severe injury). [[acg-2017-liver-chemistries]]
 
 ### What Are Truly Normal ALT Values?
 
-Laboratory ULN values for ALT are unreliable — they are set from populations that include subjects with [[nafld-masld|NAFLD]], alcohol use, and viral hepatitis. Multiple prospective studies establish lower true healthy normals:
+Laboratory upper limit of normal (ULN) values for ALT are unreliable — they are set from populations that include subjects with [[nafld-masld|nonalcoholic fatty liver disease (NAFLD)]], alcohol use, and viral hepatitis. Multiple prospective studies establish lower true healthy normals:
 
 | Sex | True Healthy ULN for ALT |
 |-----|--------------------------|
 | Male | 29–33 IU/l |
 | Female | 19–25 IU/l |
 
-- ALT correlates **linearly with BMI** — higher BMI → higher ALT even without liver disease
-- ALT levels >33 IU/l (men) or >25 IU/l (women) are associated with **increased liver-related mortality** in population studies (NHANES; Olmsted County)
+- ALT correlates **linearly with body mass index (BMI)** — higher BMI → higher ALT even without liver disease
+- ALT levels >33 IU/l (men) or >25 IU/l (women) are associated with **increased liver-related mortality** in population studies (National Health and Nutrition Examination Survey [NHANES]; Olmsted County)
 - ALT >30 IU/l in men or >19 IU/l in women associated with 11.2× increase in liver-related mortality and 3.3× increase in diabetes-related mortality
 - ALT >43 IU/l in men or >30 IU/l in women correlated with coronary heart disease
 - Clinical labs may use ULN of 35–79 IU/l — clinicians should recognize that "normal" by lab reference does not equal absence of liver disease
@@ -77,8 +77,8 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 
 | R-ratio | Pattern | Key etiologies |
 |---------|---------|----------------|
-| >5 | Hepatocellular | Viral hepatitis (A/B/C/E), MASLD/MASH, alcoholic liver disease, AIH, [[wilson-disease\|Wilson's disease]], alpha-1 AT deficiency, ischemic hepatitis, [[drug-induced-liver-injury\|DILI]], [[celiac-disease\|celiac disease]] |
-| <2 | Cholestatic | [[primary-biliary-cholangitis\|PBC]], [[primary-sclerosing-cholangitis\|PSC]], biliary obstruction ([[choledocholithiasis]], [[biliary-stricture\|stricture]], malignancy), DILI-cholestatic, vanishing bile duct syndrome |
+| >5 | Hepatocellular | Viral hepatitis (A/B/C/E), metabolic dysfunction-associated steatotic liver disease/steatohepatitis (MASLD/MASH), alcoholic liver disease, autoimmune hepatitis (AIH), [[wilson-disease\|Wilson's disease]], alpha-1 antitrypsin deficiency, ischemic hepatitis, [[drug-induced-liver-injury\|drug-induced liver injury (DILI)]], [[celiac-disease\|celiac disease]] |
+| <2 | Cholestatic | [[primary-biliary-cholangitis\|primary biliary cholangitis (PBC)]], [[primary-sclerosing-cholangitis\|primary sclerosing cholangitis (PSC)]], biliary obstruction ([[choledocholithiasis]], [[biliary-stricture\|stricture]], malignancy), DILI-cholestatic, vanishing bile duct syndrome |
 | 2–5 | Mixed | Any of the above; some viral hepatitis; DILI |
 | — | Isolated hyperbilirubinemia | Gilbert syndrome, hemolysis, Dubin-Johnson/Rotor syndrome (conjugated) |
 
@@ -86,11 +86,11 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 
 **Hepatic causes (generally AST>ALT):**
 
-- Alcoholic liver disease, [[cirrhosis]] (any etiology), ischemic hepatitis, congestive hepatopathy, acute [[budd-chiari-syndrome|Budd-Chiari syndrome]], [[nutrition-in-hospitalized-patients|TPN]]
+- Alcoholic liver disease, [[cirrhosis]] (any etiology), ischemic hepatitis, congestive hepatopathy, acute [[budd-chiari-syndrome|Budd-Chiari syndrome]], [[nutrition-in-hospitalized-patients|total parenteral nutrition (TPN)]]
 
 **Hepatic causes (generally ALT>AST):**
 
-- MASLD (steatosis/MASH), chronic and acute viral hepatitis, medications/DILI, [[hereditary-hemochromatosis|hemochromatosis]], [[autoimmune-hepatitis|AIH]], [[wilson-disease|Wilson's disease]], alpha-1 antitrypsin deficiency, [[celiac-disease|celiac disease]], HELLP, [[acute-fatty-liver-of-pregnancy|acute fatty liver of pregnancy]], sepsis, hemophagocytic lymphohistiocytosis
+- MASLD (steatosis/MASH), chronic and acute viral hepatitis, medications/DILI, [[hereditary-hemochromatosis|hemochromatosis]], [[autoimmune-hepatitis|AIH]], [[wilson-disease|Wilson's disease]], alpha-1 antitrypsin deficiency, [[celiac-disease|celiac disease]], hemolysis, elevated liver enzymes, and low platelets (HELLP) syndrome, [[acute-fatty-liver-of-pregnancy|acute fatty liver of pregnancy]], sepsis, hemophagocytic lymphohistiocytosis
 
 **Non-hepatic causes:**
 
@@ -101,7 +101,7 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 - AST:ALT ≥ 2:1 (especially ≥3:1): strongly suggests [[alcohol-associated-liver-disease]]
 - ~90% of alcoholic liver disease patients have AST>ALT; >70% have ratio >2
 - ALT > AST: most other liver conditions (MASLD, chronic viral hepatitis)
-- AST:ALT ratio is typically not >2:1 in cirrhosis from non-alcoholic causes (mean ratio 1.05 in HCV cirrhotics)
+- AST:ALT ratio is typically not >2:1 in cirrhosis from non-alcoholic causes (mean ratio 1.05 in hepatitis C virus [HCV] cirrhotics)
 - **Magnitude ceiling:** in both alcohol-associated liver disease and MASLD/MASH, aminotransferases are **rarely >300 IU/l** — a higher value should redirect the workup (viral, ischemic, toxic, autoimmune) rather than be attributed to alcohol or steatosis
 - **"Significant" alcohol intake is a defined quantity:** **>210 g/week in men, >140 g/week in women** — the threshold used when attributing liver chemistry abnormalities to alcohol. GGT is complementary; alcohol cessation is recommended [[acg-2017-liver-chemistries]]
 
@@ -109,7 +109,7 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 
 **Hepatobiliary:**
 
-- Bile duct obstruction (choledocholithiasis, malignant obstruction, bile duct flukes), bile duct stricture, AIDS cholangiopathy, PBC, PSC, medications/DILI, infiltrative liver diseases (sarcoid, TB, amyloid, metastatic cancer, lymphoma), hepatic abscess, [[hepatocellular-carcinoma|hepatocellular carcinoma]], vanishing bile duct syndrome, ischemic cholangiopathy, [[alcohol-associated-hepatitis|alcoholic hepatitis]], hepatic allograft rejection, sickle cell liver crisis, sepsis, congestive hepatopathy
+- Bile duct obstruction (choledocholithiasis, malignant obstruction, bile duct flukes), bile duct stricture, acquired immunodeficiency syndrome (AIDS) cholangiopathy, PBC, PSC, medications/DILI, infiltrative liver diseases (sarcoid, tuberculosis [TB], amyloid, metastatic cancer, lymphoma), hepatic abscess, [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]], vanishing bile duct syndrome, ischemic cholangiopathy, [[alcohol-associated-hepatitis|alcoholic hepatitis]], hepatic allograft rejection, sickle cell liver crisis, sepsis, congestive hepatopathy
 
 **Non-hepatic:**
 
@@ -150,10 +150,10 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 
 **Tier 1 — Borderline elevation (<2× ULN):**
 
-1. History and physical exam; discontinue hepatotoxic medications and alcohol; assess for fatty liver and viral hepatitis risk factors
-2. Initial labs: CBC/platelet count, AST/ALT, Alk Phos, total bilirubin, albumin, PT/INR, HBsAg, HBcAb, HBsAb, HCV Ab (with PCR confirmation if positive), iron panel, abdominal ultrasound
+1. History and physical exam (PE); discontinue hepatotoxic medications and alcohol; assess for fatty liver and viral hepatitis risk factors
+2. Initial labs: complete blood count (CBC)/platelet count, AST/ALT, Alk Phos, total bilirubin, albumin, PT/INR, hepatitis B surface antigen (HBsAg), hepatitis B core antibody (HBcAb), hepatitis B surface antibody (HBsAb), HCV antibody (Ab) (with polymerase chain reaction [PCR] confirmation if positive), iron panel, abdominal ultrasound
 3. If negative: observe 3–6 months with repeat testing
-4. If persistently elevated: add ANA, ASMA, gamma-globulin, ceruloplasmin, alpha-1 antitrypsin phenotype ± celiac serology, tick-borne disease screen, thyroid disease, muscle disorders
+4. If persistently elevated: add antinuclear antibody (ANA), anti-smooth muscle antibody (ASMA/SMA), gamma-globulin, ceruloplasmin, alpha-1 antitrypsin phenotype ± celiac serology, tick-borne disease screen, thyroid disease, muscle disorders
 5. If normal on full workup: further testing at clinician discretion or hepatology referral for [[liver-biopsy|liver biopsy]] consideration
 
 **Tier 2 — Mild elevation (2–5× ULN):**
@@ -164,14 +164,14 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 
 **Tier 3 — Moderate elevation (5–15× ULN):**
 
-1. History and PE; discontinue hepatotoxic meds and alcohol; evaluate for signs of [[acute-liver-failure|acute liver failure]]
-2. Labs: CBC/platelet count, AST/ALT, Alk Phos, total bilirubin, albumin, PT/INR, HAV IgM, HAV IgG, HBsAg, HBcAb IgM, HBsAb, HCV Ab with PCR, iron panel, ceruloplasmin, ANA, SMA, gamma-globulin; abdominal ultrasound
+1. History and PE; discontinue hepatotoxic meds and alcohol; evaluate for signs of [[acute-liver-failure|acute liver failure (ALF)]]
+2. Labs: CBC/platelet count, AST/ALT, Alk Phos, total bilirubin, albumin, PT/INR, hepatitis A virus (HAV) immunoglobulin M (IgM), HAV immunoglobulin G (IgG), HBsAg, HBcAb IgM, HBsAb, HCV Ab with PCR, iron panel, ceruloplasmin, ANA, SMA, gamma-globulin; abdominal ultrasound
 3. If signs of acute liver failure → **urgent liver consultation with consideration of [[liver-transplantation|transplant center]] referral**
 4. If diagnostic evaluation negative and medically stable → consider diagnostic liver biopsy
 
 **Tier 4 — Severe elevation (>15× ULN):**
 
-1. Same as moderate; additionally add: HSV, EBV, CMV, Anti-LKM, urine toxicology panel, Doppler abdominal ultrasound
+1. Same as moderate; additionally add: herpes simplex virus (HSV), Epstein-Barr virus (EBV), cytomegalovirus (CMV), anti-liver-kidney microsomal antibody (anti-LKM), urine toxicology panel, Doppler abdominal ultrasound
 2. Consider N-acetylcysteine if any evidence of acetaminophen ingestion
 3. If signs of ALF → urgent consultation + transplant center referral
 
@@ -189,8 +189,8 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 
 1. History and PE; confirm hepatic origin with **serum GGT or alkaline phosphatase fractionation** (alkaline phosphatase also arises from bone, placenta, intestine, kidney)
 2. If GGT normal → evaluate for non-hepatobiliary etiologies (bone, intestinal)
-3. If GGT elevated → obtain RUQ ultrasound; evaluate for hepatotoxic medications; check AMA, ANA, SMA
-4. If ductal dilatation → [[ercp|ERCP]] or [[mri-mrcp|MRCP]]; if AMA positive → evaluate for PBC
+3. If GGT elevated → obtain right upper quadrant (RUQ) ultrasound; evaluate for hepatotoxic medications; check anti-mitochondrial antibody (AMA), ANA, SMA
+4. If ductal dilatation → [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] or [[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]]; if AMA positive → evaluate for PBC
 5. If evaluation negative and Alk Phos >2× ULN → consider liver biopsy; if 1–2× ULN → observation; if persistent after 6 months → consider liver biopsy
 
 **Scenario B — Elevated transaminases ± elevated bilirubin:**
@@ -210,7 +210,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 **Predominantly unconjugated hyperbilirubinemia:**
 
 1. History and PE; assess transaminases and Alk Phos
-2. Review medications; evaluate for hemolysis (haptoglobin, LDH, reticulocyte count)
+2. Review medications; evaluate for hemolysis (haptoglobin, lactate dehydrogenase [LDH], reticulocyte count)
 3. Consider Gilbert syndrome (UGT1A1 genotype)
 4. If persistent and unexplained → evaluate uncommon etiologies; if symptomatic/worsening/associated with abnormal transaminases → consider liver biopsy
 
@@ -241,28 +241,28 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 
 ### Expanded Evaluation (if initial panel negative/persists)
 
-- **ANA, anti-smooth muscle antibody (ASMA), IgG** → [[autoimmune-hepatitis|autoimmune hepatitis]]
-- **Antimitochondrial antibody (AMA)** → [[primary-biliary-cholangitis|primary biliary cholangitis]] (positive in >95%)
+- **ANA, ASMA, IgG** → [[autoimmune-hepatitis|autoimmune hepatitis]]
+- **AMA** → [[primary-biliary-cholangitis|primary biliary cholangitis]] (positive in >95%)
 - **Serum ceruloplasmin** → Wilson's disease (especially age <55; if low → 24-hour urine copper, slit-lamp examination for Kayser-Fleischer rings)
 - **Alpha-1 antitrypsin phenotype** → alpha-1 antitrypsin deficiency (PiZZ = severe; PiMZ = intermediate risk)
-- **HAV IgM, HEV IgM** → acute viral hepatitis (HAV: fecal-oral, travel; HEV: travel to endemic areas — Central America, Asia)
+- **HAV IgM, hepatitis E virus (HEV) IgM** → acute viral hepatitis (HAV: fecal-oral, travel; HEV: travel to endemic areas — Central America, Asia)
 - **HBcAb IgM** → acute hepatitis B
 - **Ceruloplasmin, 24-hour urine copper, slit-lamp exam** → Wilson's disease (confirmatory)
 - **HFE gene mutation (C282Y, H63D)** → hereditary hemochromatosis
 - **Serum creatine kinase/aldolase** → muscle disease (if AST disproportionately elevated vs. ALT)
-- **Thyroid stimulating hormone (TSH), free T4** → thyroid disease
+- **Thyroid stimulating hormone (TSH), free thyroxine (T4)** → thyroid disease
 - **Anti-HSV, anti-EBV, anti-CMV** → acute viral hepatitis (moderate–severe elevations)
 - **Anti-LKM1** → type 2 autoimmune hepatitis (children/young adults)
 - **Urine toxicology panel** → toxic ingestion
-- **Tissue transglutaminase IgA + serum IgA** → celiac disease (if persistent elevation with no other cause)
-- **IgG4** → IgG4-associated cholangiopathy (PSC differential)
+- **Tissue transglutaminase immunoglobulin A (IgA) + serum IgA** → celiac disease (if persistent elevation with no other cause)
+- **Immunoglobulin G4 (IgG4)** → IgG4-associated cholangiopathy (PSC differential)
 
 ### Imaging
 
 - **Abdominal ultrasound** — first-line for all patterns; hepatomegaly, steatosis, biliary dilatation, portal hypertension, vascular patency
 - **Doppler ultrasound** — [[budd-chiari-syndrome|Budd-Chiari syndrome]], hepatic vein/[[portal-vein-thrombosis|portal vein thrombosis]]
-- **MRI/MRCP** — preferred for biliary anatomy, and **MRCP is the preferred test for diagnosing [[primary-sclerosing-cholangitis|sclerosing cholangitis]]** when ERCP is not needed for therapy [[acg-2017-liver-chemistries]]
-- **CT abdomen** — infiltrative disease, malignancy, abscess
+- **Magnetic resonance imaging (MRI)/MRCP** — preferred for biliary anatomy, and **MRCP is the preferred test for diagnosing [[primary-sclerosing-cholangitis|sclerosing cholangitis]]** when ERCP is not needed for therapy [[acg-2017-liver-chemistries]]
+- **Computed tomography (CT) abdomen** — infiltrative disease, malignancy, abscess
 - **[[liver-stiffness-measurement|FibroScan]] (vibration-controlled transient elastography)** — [[noninvasive-liver-disease-assessment|non-invasive fibrosis assessment]] in NAFLD/MASLD; FDA-approved; controlled attenuation parameter (CAP) for steatosis quantification
 
 ### Liver Biopsy Indications
@@ -276,7 +276,7 @@ Biopsy is appropriate when (Strong recommendation, very low evidence) [[acg-2017
 - Hemochromatosis: hepatic iron index (if C282Y homozygous or compound heterozygous with elevated ALT or ferritin >1,000 µg/l)
 - Alpha-1 antitrypsin deficiency: PAS-positive globules (periodic acid–Schiff)
 - AIH: interface hepatitis, rosette formation, plasma cell infiltrate (required before immunosuppression)
-- NASH: required to distinguish NASH from simple steatosis
+- Nonalcoholic steatohepatitis (NASH): required to distinguish NASH from simple steatosis
 
 ---
 
@@ -290,8 +290,8 @@ Biopsy is appropriate when (Strong recommendation, very low evidence) [[acg-2017
 - **Abnormal liver enzymes + neuropsychiatric symptoms** → Wilson's disease
 - **Ferritin >1,000 µg/l + transferrin saturation ≥45%** → hereditary hemochromatosis; assess for end-organ involvement (liver, pancreas, skin, joints, heart)
 - **Alkaline phosphatase + bilirubin + pruritus + fatigue in middle-aged woman** → PBC until proven otherwise
-- **[[inflammatory-bowel-disease|IBD]] patient with cholestatic LFT pattern** → PSC must be excluded (biliary imaging required)
-- **Pregnancy with elevated liver chemistries** — trimester-specific considerations: cholelithiasis, intrahepatic cholestasis of pregnancy (pruritus, elevated bile acids), pre-eclampsia/HELLP, acute fatty liver of pregnancy (rare but life-threatening with ALF features); note that ALP is normally elevated in pregnancy (placental isoenzyme) and albumin falls due to hemodilution — see [[liver-disease-in-pregnancy]] [[acg-2016-liver-disease-pregnancy]]
+- **[[inflammatory-bowel-disease|Inflammatory bowel disease (IBD)]] patient with cholestatic liver function test (LFT) pattern** → PSC must be excluded (biliary imaging required)
+- **Pregnancy with elevated liver chemistries** — trimester-specific considerations: cholelithiasis, intrahepatic cholestasis of pregnancy (pruritus, elevated bile acids), pre-eclampsia/HELLP, acute fatty liver of pregnancy (rare but life-threatening with ALF features); note that Alk Phos is normally elevated in pregnancy (placental isoenzyme) and albumin falls due to hemodilution — see [[liver-disease-in-pregnancy]] [[acg-2016-liver-disease-pregnancy]]
 
 ---
 

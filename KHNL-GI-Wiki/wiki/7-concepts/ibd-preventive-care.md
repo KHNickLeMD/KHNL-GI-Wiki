@@ -7,7 +7,7 @@ updated: 2026-09-08
 sources: [acg-2025-ibd-preventive-care, acg-2017-ibd-preventive-care, aga-2025-noncolorectal-cancer-ibd]
 ---
 
-Patients with [[inflammatory-bowel-disease|IBD]] ([[crohns-disease]] and [[ulcerative-colitis]]) require proactive health maintenance beyond GI disease management. More than 70% of IBD patients will at some time be on immune-modifying therapy, significantly elevating the risk of vaccine-preventable infections, certain malignancies, and osteoporosis. Gastroenterologists should not assume primary care manages these issues — verification, documentation, and administration at GI visits is expected.
+Patients with [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] ([[crohns-disease|Crohn's disease (CD)]] and [[ulcerative-colitis|ulcerative colitis (UC)]]) require proactive health maintenance beyond gastrointestinal (GI) disease management. More than 70% of IBD patients will at some time be on immune-modifying therapy, significantly elevating the risk of vaccine-preventable infections, certain malignancies, and osteoporosis. Gastroenterologists should not assume primary care manages these issues — verification, documentation, and administration at GI visits is expected.
 
 ## Contents
 - [[#Vaccination Principles]]
@@ -31,24 +31,24 @@ Patients with [[inflammatory-bowel-disease|IBD]] ([[crohns-disease]] and [[ulcer
 
 ## Vaccination Principles
 
-**Live vaccines are contraindicated in patients on immune-modifying therapy** (live attenuated influenza, MMR, dengue, yellow fever, live HZ vaccine [Zostavax — withdrawn; replaced by recombinant]).
+**Live vaccines are contraindicated in patients on immune-modifying therapy** (live attenuated influenza, measles-mumps-rubella (MMR), dengue, yellow fever, live herpes zoster (HZ) vaccine [Zostavax — withdrawn; replaced by recombinant]).
 
 **Timing:** Administer all due vaccines before starting immune-modifying therapy when possible; do not delay necessary IBD therapy for vaccination. For patients already on therapy, vaccines should not wait — administer at earliest opportunity regardless of cycle timing.
 
-**Immune response:** [[anti-tnf-agents|Anti-TNF therapy]] (especially in combination with [[thiopurines]] or methotrexate) blunts vaccine immunogenicity. Non-TNF biologics ([[vedolizumab]], [[il-23-and-il-12-23-inhibitors|ustekinumab]]) appear to have less impact. Newer agents (IL-23 inhibitors, [[jak-inhibitors|JAK inhibitors]], S1P modulators) — data limited in IBD.
+**Immune response:** [[anti-tnf-agents|Anti–tumor necrosis factor (TNF) therapy]] (especially in combination with [[thiopurines]] or methotrexate) blunts vaccine immunogenicity. Non-TNF biologics ([[vedolizumab]], [[il-23-and-il-12-23-inhibitors|ustekinumab]]) appear to have less impact. Newer agents (interleukin-23 (IL-23) inhibitors, [[jak-inhibitors|Janus kinase (JAK) inhibitors]], sphingosine-1-phosphate (S1P) modulators) — data limited in IBD.
 
 ### Vaccine Checklist by Agent/Age
 
 | Vaccine | Who | Note |
 |---|---|---|
-| Annual influenza (inactivated, non-live) | All IBD | HD influenza preferred on anti-TNF monotherapy; patients on IMT and household contacts should receive inactivated, not live inhaled |
-| PCV20 or PCV21 | IBD ≥50 (no prior vax); IBD 19–49 on IMT (no prior vax) | Previously vaccinated: follow CDC guidance |
+| Annual influenza (inactivated, non-live) | All IBD | High-dose (HD) influenza preferred on anti-TNF monotherapy; patients on immune-modifying therapy (IMT) and household contacts should receive inactivated, not live inhaled |
+| 20- or 21-valent pneumococcal conjugate vaccine (PCV20 or PCV21) | IBD ≥50 (no prior vax); IBD 19–49 on IMT (no prior vax) | Previously vaccinated: follow Centers for Disease Control and Prevention (CDC) guidance |
 | Recombinant HZ vaccine (Shingrix), 2-dose | All IBD ≥50; ALL IBD on or planning IMT ≥19 | Recombinant (inactivated) — safe on IMT; do NOT use live HZ vaccine (Zostavax) |
-| RSV vaccine | **ACG/ACIP:** IBD ≥75; IBD 50–74 with chronic conditions or high-risk features | ⚠ **Guidelines differ** — AGA 2025 instead advises all IBD **≥60** (no product preference). Page follows ACG/ACIP as the ACIP-aligned age cut; use AGA's ≥60 if screening more broadly |
-| Hepatitis B (3-dose) | All IBD not immune | Evaluate all adults for latent HBV; if previously fully vaccinated but anti-HBs <10 mIU/mL → see challenge-dose algorithm below |
+| Respiratory syncytial virus (RSV) vaccine | **American College of Gastroenterology (ACG)/Advisory Committee on Immunization Practices (ACIP):** IBD ≥75; IBD 50–74 with chronic conditions or high-risk features | ⚠ **Guidelines differ** — American Gastroenterological Association (AGA) 2025 instead advises all IBD **≥60** (no product preference). Page follows ACG/ACIP as the ACIP-aligned age cut; use AGA's ≥60 if screening more broadly |
+| Hepatitis B (3-dose) | All IBD not immune | Evaluate all adults for latent hepatitis B virus (HBV); if previously fully vaccinated but hepatitis B surface antibody (anti-HBs) <10 mIU/mL → see challenge-dose algorithm below |
 | Varicella (2-dose) | Non-immune IBD before starting IMT | Serologic testing not recommended in previously vaccinated (high false-negative rate); history of varicella + MMR series = presumptive immunity |
-| HPV | All adults 18–26; ages 27–45 if likely to have a new sexual partner (AGA 2025) | |
-| Tdap, HAV, meningococcus | Per ACIP recommendations | |
+| Human papillomavirus (HPV) | All adults 18–26; ages 27–45 if likely to have a new sexual partner (AGA 2025) | |
+| Tetanus, diphtheria, and acellular pertussis (Tdap), hepatitis A virus (HAV), meningococcus | Per ACIP recommendations | |
 | [[rotavirus\|Rotavirus]] (live) | Infants with in-utero biologic exposure | Conditionally offered after specialist discussion |
 
 ### Hepatitis B Seroprotection Algorithm (AGA 2025)
@@ -79,7 +79,7 @@ Patients with [[inflammatory-bowel-disease|IBD]] ([[crohns-disease]] and [[ulcer
 - Women with IBD on immune-modifying therapy → annual cervical cancer screening within 1 year of sexual activity onset
 - If <30 years old: continue annual screening for 3 consecutive years before transitioning to every 3 years
 - Rationale: immune-modifying therapy elevates HPV-related cervical neoplasia risk
-- *AGA 2025 differs:* data deemed **insufficient** to determine whether combined immunosuppression/thiopurines require more frequent (vs standard USPSTF) cervical screening — shared decision making and individual risk stratification encouraged. Meta-analysis (Mann et al): no significant increased cervical cancer risk in IBD (HR 1.24, 95% CI 0.94–1.63); slightly elevated low-grade lesions (HR 1.15). Page retains the more intensive ACG recommendation.
+- *AGA 2025 differs:* data deemed **insufficient** to determine whether combined immunosuppression/thiopurines require more frequent (vs standard US Preventive Services Task Force [USPSTF]) cervical screening — shared decision making and individual risk stratification encouraged. Meta-analysis (Mann et al): no significant increased cervical cancer risk in IBD (hazard ratio [HR] 1.24, 95% confidence interval [CI] 0.94–1.63); slightly elevated low-grade lesions (HR 1.15). Page retains the more intensive ACG recommendation.
 
 ### Melanoma
 
@@ -88,31 +88,31 @@ Patients with [[inflammatory-bowel-disease|IBD]] ([[crohns-disease]] and [[ulcer
 
 ### Non-Melanoma Skin Cancer (NMSC)
 
-- Annual NMSC screening for patients on: 6-mercaptopurine, azathioprine, methotrexate, JAK inhibitors, or S1P receptor modulators — particularly >50 years old
-- Thiopurine NMSC risk: RR 1.88; incidence rate ratio increases from 1.6× in year 1 to 3.6× by year 5
+- Annual nonmelanoma skin cancer (NMSC) screening for patients on: 6-mercaptopurine, azathioprine, methotrexate, JAK inhibitors, or S1P receptor modulators — particularly >50 years old
+- Thiopurine NMSC risk: relative risk (RR) 1.88; incidence rate ratio increases from 1.6× in year 1 to 3.6× by year 5
 - Risk may persist after discontinuation (conflicting data)
 - Vedolizumab: no NMSC signal
-- AGA 2025: yearly total body skin exam (TBSE) for patients on immunomodulators, anti-TNF, or small molecules; **continue yearly TBSE even after thiopurine cessation** for anyone with any history of thiopurine use. All IBD patients counseled on UV/sun primary prevention.
+- AGA 2025: yearly total body skin exam (TBSE) for patients on immunomodulators, anti-TNF, or small molecules; **continue yearly TBSE even after thiopurine cessation** for anyone with any history of thiopurine use. All IBD patients counseled on ultraviolet (UV)/sun primary prevention.
 
 ### Anal Cancer
 
 *AGA 2025 net-new (BPA 4). Risk-group eligibility, start ages, and the cytology/hrHPV → high-resolution anoscopy pathway for the general high-risk population live on [[anal-cancer-screening]] — not duplicated here.*
 
 - At **every [[colonoscopy]]**, perform a thorough perianal and anal examination.
-- Special attention to the anal canal in: perianal [[crohns-disease|Crohn's disease]], anal stricture, HPV, HIV, and anoreceptive intercourse.
+- Special attention to the anal canal in: perianal [[crohns-disease|Crohn's disease]], anal stricture, HPV, human immunodeficiency virus (HIV), and anoreceptive intercourse.
 - Mostly squamous cell carcinoma. Incidence: 10.2/100,000 person-years in [[ulcerative-colitis|UC]], 7.7 in [[crohns-disease|CD]]; **19.6/100,000 in anal/perianal Crohn's**.
-- Other risk factors: smoking, persistent HPV, HIV, MSM, women with HPV-associated genital cancers, solid organ recipients.
+- Other risk factors: smoking, persistent HPV, HIV, men who have sex with men (MSM), women with HPV-associated genital cancers, solid organ recipients.
 - Screening tools (risk-dependent): digital anorectal exam, cytology, high-risk HPV testing ± genotyping. Anal cytology not yet used for routine non-HIV screening.
 
 ### Colorectal Dysplasia
 
-- Not addressed in these preventive-care guidelines. Who and when to survey for [[colorectal-cancer|colitis-associated CRC]] lives on [[ulcerative-colitis]] and [[crohns-disease]]; chromoendoscopy/SCENIC technique on [[colonoscopy]]. These guidelines give no numeric repeat interval for IBD dysplasia surveillance. The average-risk grid on [[colonoscopy-surveillance]] explicitly excludes IBD.
+- Not addressed in these preventive-care guidelines. Who and when to survey for [[colorectal-cancer|colitis-associated colorectal cancer (CRC)]] lives on [[ulcerative-colitis]] and [[crohns-disease]]; chromoendoscopy/SCENIC technique on [[colonoscopy]]. These guidelines give no numeric repeat interval for IBD dysplasia surveillance. The average-risk grid on [[colonoscopy-surveillance]] explicitly excludes IBD.
 
 ---
 
 ## Osteoporosis Screening
 
-Patients with IBD and conventional BMD risk factors → DEXA scan at time of IBD diagnosis and periodically.
+Patients with IBD and conventional bone mineral density (BMD) risk factors → dual-energy x-ray absorptiometry (DEXA) scan at time of IBD diagnosis and periodically.
 
 **Key risk factors in IBD:**
 
@@ -120,7 +120,7 @@ Patients with IBD and conventional BMD risk factors → DEXA scan at time of IBD
 - IBD-associated [[nutrition-in-ibd|malnutrition]], vitamin D deficiency, low weight
 - Overall IBD fracture risk: RR 1.38 (vertebral RR 2.26)
 
-Conventional DEXA risk factors apply: age, female sex, low BMI, smoking, family history of hip fracture, alcohol use, prior fracture.
+Conventional DEXA risk factors apply: age, female sex, low body mass index (BMI), smoking, family history of hip fracture, alcohol use, prior fracture.
 
 **AGA 2025 indications (bone densitometry regardless of age when present):** BMI <20 kg/m², >3 months cumulative corticosteroid exposure, current smoking, postmenopausal status, or hypogonadism. Absent other factors, screen postmenopausal women and men ≥65.
 
@@ -141,9 +141,9 @@ Conventional DEXA risk factors apply: age, female sex, low BMI, smoking, family 
 
 **Treatment:**
 
-- CBT: variable benefit; digital/face-to-face formats available
+- Cognitive behavioral therapy (CBT): variable benefit; digital/face-to-face formats available
 - Acceptance and commitment therapy: emerging evidence
-- SNRIs: effective for both depressive and somatic GI symptoms in meta-analysis (neuromodulator class/dosing table on [[ibd-pain-management]])
+- Serotonin-norepinephrine reuptake inhibitors (SNRIs): effective for both depressive and somatic GI symptoms in meta-analysis (neuromodulator class/dosing table on [[ibd-pain-management]])
 - Achieving IBD remission itself improves psychiatric scores
 
 ---

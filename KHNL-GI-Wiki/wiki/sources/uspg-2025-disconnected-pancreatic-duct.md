@@ -23,7 +23,7 @@ The U.S. Pancreatic Disease Study Group (USPG) — formed in 2022, multi-institu
 
 The clinical stakes are set by two facts. First, roughly 20% of the ~300,000 annual U.S. acute pancreatitis hospitalizations develop pancreatic or peripancreatic necrosis, and large cohorts identify **necrotizing pancreatitis and DPD as the two significant risk factors for poor clinical outcomes**. Second, DPD is not a rare footnote: reported prevalence in severe necrotizing pancreatitis ranges **28%–74%**, and rises with the extent of necrosis. Long-term, these patients develop recurrent fluid collections, recurrent pancreatitis, chronic pancreatitis, high rates of endocrine insufficiency, persistent pancreatic fistulas, and need for pancreatic surgery.
 
-The therapeutic core of the document is two clear directional answers. **Against** routine pancreatic duct stenting in DPD — unlike ductal disruption/leak, there is insufficient evidence, guidewire passage across the disconnection fails in 50%–100% of attempts, and many experts do not suggest an attempt at all. **For** long-term double-pigtail plastic stents left in the residual cavity after LAMS removal — a meta-analysis of 16 studies (N = 1285) found recurrent fluid collection fell from 23% to 3% and reintervention from 14% to 2%. The group's operative statement is that **at least 2 double-pigtail stents placed in a residual cavity is warranted**, aligning with existing ESGE guidance, while acknowledging that the ideal number, size, length, and timing of removal (if ever) are unknown.
+The therapeutic core of the document is two clear directional answers. **Against** routine pancreatic duct stenting in DPD — unlike ductal disruption/leak, there is insufficient evidence, guidewire passage across the disconnection fails in 50%–100% of attempts, and many experts do not suggest an attempt at all. **For** long-term double-pigtail plastic stents left in the residual cavity after lumen-apposing metal stent (LAMS) removal — a meta-analysis of 16 studies (N = 1285) found recurrent fluid collection fell from 23% to 3% and reintervention from 14% to 2%. The group's operative statement is that **at least 2 double-pigtail stents placed in a residual cavity is warranted**, aligning with existing European Society of Gastrointestinal Endoscopy (ESGE) guidance, while acknowledging that the ideal number, size, length, and timing of removal (if ever) are unknown.
 
 Surgery has a narrowed but real role. Most recurrent collections and recurrent pancreatitis in the excluded segment are managed without an operation; when surgery is needed, **Roux-en-Y drainage appears the best option where feasible** because of its lower complication rate relative to distal (tail) resection.
 
@@ -38,8 +38,8 @@ The group's proposed standard definitions (adoption stated as "essential for fut
 | Term | USPG definition |
 |---|---|
 | **Disrupted pancreatic duct / pancreatic duct leak** | **Incomplete/partial** lack of continuity of the main pancreatic duct (MPD). Contrast extravasation (leak) from a side branch or the MPD at pancreatography, with **the MPD itself at least partially intact** |
-| **Disconnected pancreatic duct (DPD)** | **Complete (circumferential)** lack of ductal continuity between viable secreting pancreatic tissue — typically between the duct in the head, the duct in the body, and tail — and the downstream pancreatic parenchyma |
-| **DPD syndrome (DPDS)** | Recurrent pancreatitis, abdominal pain, recurrent fluid collection(s), and/or any other symptoms **due to the undrained pancreatic segment** due to DPD |
+| **Disconnected pancreatic duct** | **Complete (circumferential)** lack of ductal continuity between viable secreting pancreatic tissue — typically between the duct in the head, the duct in the body, and tail — and the downstream pancreatic parenchyma |
+| **DPD syndrome** | Recurrent pancreatitis, abdominal pain, recurrent fluid collection(s), and/or any other symptoms **due to the undrained pancreatic segment** due to DPD |
 
 - Historical antecedent: Kozarek and Traverso coined "disconnected duct syndrome"/"disconnected pancreas" in 1996; Nealon et al. observed the recurrence rate of associated fluid collections for **true disconnection after initial drainage was 100%**.
 - Sandrasegaran et al. (2007) proposed 3 imaging criteria: necrosis of **at least 2 cm** of pancreatic parenchyma; viable pancreatic tissue **upstream** from the site of necrosis; extravasation of contrast injected into the MPD.
@@ -51,8 +51,8 @@ The group's proposed standard definitions (adoption stated as "essential for fut
 | Stage | Diagnostic statement |
 |---|---|
 | **Acute stage of necrotizing pancreatitis** | Suspect DPD with **central pancreatic necrosis plus an acute necrotic fluid collection**, typically in the lesser sac |
-| **Late recovery stage** | Diagnosis can be made if there is a **visible gap of at least 1 cm** between the upstream and distal MPD on MRCP, **or** nonfilling of the upstream pancreatic duct with or without contrast leak on ERCP |
-| **Ideal sequence** | Early **arterial-phase CT**, then **MRCP later, following drainage of the collection** |
+| **Late recovery stage** | Diagnosis can be made if there is a **visible gap of at least 1 cm** between the upstream and distal MPD on magnetic resonance cholangiopancreatography (MRCP), **or** nonfilling of the upstream pancreatic duct with or without contrast leak on endoscopic retrograde cholangiopancreatography (ERCP) |
+| **Ideal sequence** | Early **arterial-phase computed tomography (CT)**, then **MRCP later, following drainage of the collection** |
 
 **Radiographic criteria for DPD** (using axial, coronal, and sagittal images ± MRCP) — DPD should be suggested when **both**:
 1. Focal pancreatic glandular necrosis or collection, or absence of viable pancreatic parenchyma, of **at least 2 cm**; **and**
@@ -88,7 +88,7 @@ The group's proposed standard definitions (adoption stated as "essential for fut
 - Timing matters most **at the time the collection(s) have resolved and long-term management after stent removal is being considered.**
 - Cross-sectional accuracy is optimized when the necrotic collection is **significantly reduced in size**, to avoid obstruction of the view of the MPD or compression of the duct by the collection.
 - **Avoid early ERCP without established pancreatic drainage** — it risks converting sterile to infected necrosis and worsening pancreatitis.
-- Significant glandular necrosis is usually first found by CT **~1 week into a severe attack**; MRI at that point may be **falsely positive** if a large collection impinges on or obscures the duct.
+- Significant glandular necrosis is usually first found by CT **~1 week into a severe attack**; magnetic resonance imaging (MRI) at that point may be **falsely positive** if a large collection impinges on or obscures the duct.
 - No consensus exists on optimal timing; prospective studies required.
 
 ### Q5 — What is the best diagnostic method for initial recognition of DPD?
@@ -97,7 +97,7 @@ The group's proposed standard definitions (adoption stated as "essential for fut
 |---|---|
 | **ERCP** | **Gold standard** for now, and would be ideal for initial diagnosis — but early use without established drainage is unsafe (see Q4) |
 | **MRCP ± secretin** | **88% sensitivity, 100% specificity** (systematic review and meta-analysis). In one series MRCP confirmed **21 of 23 (91%)** ERCP-proven disruptions, and all patients without disruption by ERCP were confirmed by MRCP |
-| **EUS** | Only 1 study (prospective, n = 31): **100% sensitivity** vs ERCP. If confirmed, useful given EUS-directed necrosectomy is now standard |
+| **Endoscopic ultrasound (EUS)** | Only 1 study (prospective, n = 31): **100% sensitivity** vs ERCP. If confirmed, useful given EUS-directed necrosectomy is now standard |
 | **CT** | Few comparative studies. Nonenhancement in the neck/body vs head and tail strongly suggests disruption or disconnection; a collection along the course of the MPD with viable enhancing upstream parenchyma is highly suggestive. In 26 surgically proven DPD, ERCP showed obstruction at the level of the collection with contrast extravasation in **54%** |
 | **Clinical** | **Recurrence of large fluid collections after transgastric stent removal** strongly suggests DPD or duct leak |
 
@@ -120,7 +120,7 @@ The group's proposed standard definitions (adoption stated as "essential for fut
 
 - **Yes — at least 2 double-pigtail stent(s) placed in a residual cavity is warranted** (stated as the group's position until further data is available).
 - Meta-analysis of **16 studies (N = 1285)**: long-term double-pigtail plastic stents vs a single stent —
-  - Recurrent fluid collection **3% vs 23%** (OR 0.22; 95% CI 0.09–0.52)
+  - Recurrent fluid collection **3% vs 23%** (odds ratio [OR] 0.22; 95% confidence interval [CI] 0.09–0.52)
   - Reintervention **2% vs 14%** (OR 0.35; 95% CI 0.16–0.78)
 - If the collection is initially treated with **multiple plastic stents, these can remain indefinitely**, assuming drainage was successful.
 - Where LAMS are removed but a double-pigtail stent **cannot** be placed (cavity too small/decompressed, or technical reasons), there is a **higher rate of recurrent fluid collections.**
@@ -142,7 +142,7 @@ The group's proposed standard definitions (adoption stated as "essential for fut
 
 ### Background data cited
 
-- Acute pancreatitis is the **third most common** GI disorder in the U.S., ~**300,000 hospitalizations** annually; ~**20%** develop pancreatic or peripancreatic necrosis.
+- Acute pancreatitis is the **third most common** gastrointestinal disorder in the U.S., ~**300,000 hospitalizations** annually; ~**20%** develop pancreatic or peripancreatic necrosis.
 - Meta-analysis of randomized trials — **endoscopic vs minimally invasive surgical** approach to infected necrotizing pancreatitis:
 
 | Outcome | Endoscopic | Minimally invasive surgery |
@@ -157,7 +157,7 @@ The group's proposed standard definitions (adoption stated as "essential for fut
 
 ## Relevance to Wiki
 
-- **[[disconnected-pancreatic-duct-syndrome]]** — this source is the page's basis: the three-way definition set, the radiographic criteria (≥2 cm nonviable parenchyma + viable upstream tissue; 90° vs oblique duct entry), timing of evaluation, modality performance, the against-PD-stenting position, the double-pigtail stent recommendation, and the surgical algorithm.
+- **[[disconnected-pancreatic-duct-syndrome]]** — this source is the page's basis: the three-way definition set, the radiographic criteria (≥2 cm nonviable parenchyma + viable upstream tissue; 90° vs oblique duct entry), timing of evaluation, modality performance, the position against pancreatic duct (PD) stenting, the double-pigtail stent recommendation, and the surgical algorithm.
 - **[[acute-pancreatitis]]** — necrotizing pancreatitis complications: DPD prevalence by extent of necrosis, the >30%-necrosis-along-the-MPD suspicion trigger, and the endoscopic-vs-surgical outcome comparison.
 - **[[endoscopic-ultrasound]]** / **[[ercp]]** — EUS 100% sensitivity (single study); ERCP as gold standard but unsafe early without established drainage.
 - **[[pancreatic-cysts]] / pancreatic fluid collection management** — LAMS removal followed by double-pigtail stent placement.
@@ -172,7 +172,7 @@ The group's proposed standard definitions (adoption stated as "essential for fut
 - **Prevalence range 28%–74% is unresolved by design** — the authors attribute it to non-standard definitions and state that determining true incidence requires a sensitive technique applied at multiple time points. Do not assert a single prevalence figure.
 - **Specificity is largely unreported** across the diagnostic-modality literature; the 100% specificity figure comes from one systematic review of MRCP ± secretin. The 100% EUS sensitivity rests on a **single** prospective study of 31 patients and is explicitly conditional ("if confirmed").
 - **Optimal stent parameters unknown** — number beyond "at least 2," size, length, and whether/when to remove are all explicitly stated as unanswered. Any wiki page giving a specific stent size or removal interval would be going beyond this source.
-- **This is a consensus/narrative document, not a graded guideline** — it contains **no GRADE ratings, no numbered recommendations, and no strength-of-evidence labels.** Statements are group consensus derived from literature review. Wiki pages must not attribute evidence grades to it.
+- **This is a consensus/narrative document, not a graded guideline** — it contains **no Grading of Recommendations Assessment, Development and Evaluation (GRADE) ratings, no numbered recommendations, and no strength-of-evidence labels.** Statements are group consensus derived from literature review. Wiki pages must not attribute evidence grades to it.
 
 ---
 

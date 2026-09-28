@@ -7,7 +7,7 @@ updated: 2026-09-16
 sources: [aga-2020-young-adult-onset-crc]
 ---
 
-*Defined by [[aga-2020-young-adult-onset-crc|AGA 2020]] as **CRC diagnosed in individuals 18 – <50 years of age**. This page carries only what is **specific to young onset**: the symptom-triggered diagnostic rule, the germline-testing yield and timing, fertility preservation, and the surveillance de-escalation. Shared staging, oncologic therapy, and post-resection surveillance intervals live on [[colorectal-cancer]]; the average-risk **screening start age** is a separate question, settled on [[colorectal-cancer-screening]].*
+*Defined by [[aga-2020-young-adult-onset-crc|American Gastroenterological Association (AGA) 2020]] as **colorectal cancer (CRC) diagnosed in individuals 18 – <50 years of age**. This page carries only what is **specific to young onset**: the symptom-triggered diagnostic rule, the germline-testing yield and timing, fertility preservation, and the surveillance de-escalation. Shared staging, oncologic therapy, and post-resection surveillance intervals live on [[colorectal-cancer]]; the average-risk **screening start age** is a separate question, settled on [[colorectal-cancer-screening]].*
 
 ## Contents
 - [[#Assessment]]
@@ -40,7 +40,7 @@ sources: [aga-2020-young-adult-onset-crc]
 
 ### Establishing the Diagnosis
 
-**The operative rule is diagnostic, not a screening rule.** [[aga-2020-young-adult-onset-crc|AGA 2020]] **BPA 1**: with the rising incidence of CRC before 50 years of age, **diagnostic evaluation of the colon and rectum is encouraged for all patients, irrespective of age**, who present with symptoms that may be consistent with CRC — *"including but not limited to"*:
+**The operative rule is diagnostic, not a screening rule.** [[aga-2020-young-adult-onset-crc|AGA 2020]] **Best Practice Advice (BPA) 1**: with the rising incidence of CRC before 50 years of age, **diagnostic evaluation of the colon and rectum is encouraged for all patients, irrespective of age**, who present with symptoms that may be consistent with CRC — *"including but not limited to"*:
 
 | Symptom prompting diagnostic colon/rectal evaluation at any age |
 |---|
@@ -50,7 +50,7 @@ sources: [aga-2020-young-adult-onset-crc]
 | Abdominal pain |
 | [[iron-deficiency-anemia\|Iron deficiency anemia]] |
 
-The CPU states the principle plainly: *"The signs and symptoms that prompt health care providers to consider a diagnostic colon exam for a person over 50 should prompt a diagnostic [[colonoscopy|colonoscopy]] exam for the person <50 years of age."*
+The clinical practice update (CPU) states the principle plainly: *"The signs and symptoms that prompt health care providers to consider a diagnostic colon exam for a person over 50 should prompt a diagnostic [[colonoscopy|colonoscopy]] exam for the person <50 years of age."*
 
 **Why this rule exists — the diagnosis is late:**
 
@@ -88,8 +88,8 @@ Staging itself is TNM — see [[colorectal-cancer]]. What differs in young onset
 
 | Syndrome | Gene(s) / inheritance | Feature that identifies it |
 |---|---|---|
-| **[[lynch-syndrome\|Lynch syndrome]]** | MMR genes; autosomal dominant | Most common cause; MSI CRC; ↑ endometrial, gastric, ovarian, small bowel, renal pelvis, ureteral cancer |
-| **[[familial-adenomatous-polyposis\|FAP]]**, classic | *APC*; autosomal dominant | Second most common hereditary cause; **hundreds to thousands** of adenomas; **nearly 100% CRC risk by 40 years of age** without prophylactic total colectomy/proctocolectomy |
+| **[[lynch-syndrome\|Lynch syndrome]]** | mismatch repair (MMR) genes; autosomal dominant | Most common cause; microsatellite instability (MSI) CRC; ↑ endometrial, gastric, ovarian, small bowel, renal pelvis, ureteral cancer |
+| **[[familial-adenomatous-polyposis\|familial adenomatous polyposis (FAP)]]**, classic | *APC*; autosomal dominant | Second most common hereditary cause; **hundreds to thousands** of adenomas; **nearly 100% CRC risk by 40 years of age** without prophylactic total colectomy/proctocolectomy |
 | **FAP, attenuated** | *APC*; autosomal dominant | **<100 polyps**; lower risk for, and later age of onset of, CRC |
 | **[[mutyh-associated-polyposis\|MYH-associated polyposis (MAP)]]** | *MUTYH*; autosomal **recessive** | Clinically resembles attenuated FAP — homozygous base-excision-repair loss may lead to *APC* mutations |
 | **NTHL1-associated polyposis (NAP)** | *NTHL1*; autosomal recessive | Polyp onset typically **in the 40s**, burden generally **under 50 polyps**, but cancer risk significantly increased with **most CRC arising under 60 years of age** |
@@ -104,7 +104,7 @@ Staging itself is TNM — see [[colorectal-cancer]]. What differs in young onset
 
 - [[colorectal-cancer|Older adult–onset CRC]] — same tumour, different pre-test probability, different surveillance obligations (BPA 6)
 - [[lynch-syndrome]] and the polyposis syndromes above — must be actively excluded, not assumed absent
-- [[inflammatory-bowel-disease|IBD]] — both a **risk factor** for young adult–onset CRC and a cause of overlapping symptoms (rectal bleeding, change in bowel habit)
+- [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] — both a **risk factor** for young adult–onset CRC and a cause of overlapping symptoms (rectal bleeding, change in bowel habit)
 - [[hemorrhoids]] — the benign attribution that drives the 6-month diagnostic delay when rectal bleeding in a young adult is not investigated
 
 ---
@@ -113,7 +113,7 @@ Staging itself is TNM — see [[colorectal-cancer]]. What differs in young onset
 
 ### Tumor Testing — Universal MSI / IHC
 
-- **Tumor testing for MSI, or IHC for MLH1, MSH2, MSH6 and PMS2, should be done on all young adult–onset CRC** as a screen for [[lynch-syndrome|Lynch syndrome]].
+- **Tumor testing for MSI, or immunohistochemistry (IHC) for MLH1, MSH2, MSH6 and PMS2, should be done on all young adult–onset CRC** as a screen for [[lynch-syndrome|Lynch syndrome]].
 - The CPU extends the same requirement to **all CRC regardless of age of onset**; that statement and its two rationales (prognostic in stage I–II, predictive of immunotherapy response in stage IV) are held once, on [[colorectal-cancer]] → *Universal Lynch Syndrome Testing*.
 - **Nothing about being under 50 relaxes this** — the 20% germline yield below is the reason it matters most here.
 
@@ -129,7 +129,7 @@ Staging itself is TNM — see [[colorectal-cancer]]. What differs in young onset
 
 | Route | Basis for selection | Best suited to |
 |---|---|---|
-| **Targeted** genes by phenotype | NCCN-outlined features: family history of hereditary CRC, other cancer syndromes, the patient's **polyp burden and histology** | Patients who clearly fit one syndrome |
+| **Targeted** genes by phenotype | National Comprehensive Cancer Network (NCCN)-outlined features: family history of hereditary CRC, other cancer syndromes, the patient's **polyp burden and histology** | Patients who clearly fit one syndrome |
 | **Multiplex gene panel** (direct germline testing) | No phenotypic gating | Patients who **do not fit clinical criteria for one** hereditary syndrome, whose criteria **fit more than one** syndrome, or who have **no or a limited family history** of cancer |
 
   - ⚠ **The trade-off is explicit:** testing more genes increases the chance of finding **variants of unknown significance**, or a pathogenic variant with **no clear management guideline** — which *"may lead to confusion for the patient and the provider."* Hence *"early integration of genetic counselors and genetic specialists."*
@@ -158,7 +158,7 @@ flowchart TD
     C --> E["Family history: 1st + 2nd degree,<br/>colorectal and other cancers (BPA 2)"]
     C --> F["Germline / multiplex panel testing<br/>regardless of family history (BPA 2)"]
     F --> G["Result needed PRE-surgery (BPA 4)"]
-    C --> H["Discuss fertility preservation<br/>BEFORE surgery, pelvic RT or chemo (BPA 3)"]
+    C --> H["Discuss fertility preservation<br/>BEFORE surgery, pelvic radiation therapy (RT) or chemo (BPA 3)"]
     G --> I{"Hereditary syndrome<br/>genetically or clinically diagnosed?"}
     D --> J["Informs chemotherapy strategy (BPA 5)"]
     I -->|Yes| K["Syndrome-specific surgery +<br/>syndrome-specific CRC and<br/>extracolonic screening (BPA 6)"]
@@ -173,7 +173,7 @@ flowchart TD
 
 - **In syndromic patients**, surgery *"not only treats the index CRC, but also considers prevention of other syndromic malignancies."*
   - Pre-operative assessment = **stage-appropriate clinical staging of the index CRC** *plus* **comprehensive screening of other organs at high risk of malignancy** from the underlying syndrome.
-  - Syndrome-specific operations (ileorectostomy, IPAA colectomy, prophylactic hysterectomy, etc.) and their triggers are tabulated on [[aga-2020-young-adult-onset-crc|the source page's Table 1]]; for Lynch specifically, the operative decision is developed on [[lynch-syndrome]].
+  - Syndrome-specific operations (ileorectostomy, ileal pouch-anal anastomosis (IPAA) colectomy, prophylactic hysterectomy, etc.) and their triggers are tabulated on [[aga-2020-young-adult-onset-crc|the source page's Table 1]]; for Lynch specifically, the operative decision is developed on [[lynch-syndrome]].
 - **In sporadic young adult–onset CRC — do not escalate.** *"More aggressive surgery to extend surgical resection beyond standard oncological guidelines… was not recommended because of the potential risk for overtreatment."*
 
 ### Chemotherapy — What Not to Escalate
@@ -202,7 +202,7 @@ flowchart TD
 | | **Unfertilized oocyte cryopreservation** — for women **without a partner**, who do not want donor sperm, or whose beliefs do not allow freezing of embryos |
 | | **Ovarian tissue cryopreservation with later transplantation** — ⚠ **not yet approved beyond use in clinical trials**, but has the potential to restore fertility **even in young girls who have not yet ovulated** |
 | | **Ovarian translocation away from radiation fields** |
-| | **GnRH agonist** to prevent chemotherapy-induced ovarian failure |
+| | **gonadotropin-releasing hormone (GnRH) agonist** to prevent chemotherapy-induced ovarian failure |
 
 *The last two are named as "2 more components of a complete discussion about fertility preservation."*
 
@@ -243,7 +243,7 @@ flowchart TD
 |---|---|
 | **Non-Hispanic White (NHW)** | **Largest relative increase** in incidence 2000–2014 (**47%**), largely attributable to rectal cancer (**2.7 → 4.5 per 100,000**, 2000–2010) |
 | **African American (AA), not classified by Hispanic ethnicity** | **Highest overall incidence (12.7 per 100,000** vs **11.0** for NHW) and highest incidence of **both distal and proximal** colon cancer; rectal cancer rose only **3.4 → 4 per 100,000**. In the **40 to <50 y** band: **29 vs 23 per 100,000** (AA vs NHW) |
-| **AA survival** | Lower overall survival, higher cancer-specific death — **HR 1.35 colon**, **1.51 rectal/rectosigmoid**. Proximal colon survival improved for NHW (**50%** in 1992–1996 → **70%** in 2010–2014) but **stayed at 55% and did not improve** for AA individuals. Stage IV overall survival poorer in AA individuals. Young-onset **rectal** cancer survival was *similar* between AA and NHW, due to significant survival gains in both Hispanic and non-Hispanic AA individuals |
+| **AA survival** | Lower overall survival, higher cancer-specific death — **hazard ratio (HR) 1.35 colon**, **1.51 rectal/rectosigmoid**. Proximal colon survival improved for NHW (**50%** in 1992–1996 → **70%** in 2010–2014) but **stayed at 55% and did not improve** for AA individuals. Stage IV overall survival poorer in AA individuals. Young-onset **rectal** cancer survival was *similar* between AA and NHW, due to significant survival gains in both Hispanic and non-Hispanic AA individuals |
 | **Hispanic** | Incidence rising **15% annually** in the **20–29 y** band; present on average **10 years earlier** than NHW individuals; overall survival **not significantly different** from NHW |
 
 ### Risk Factors
@@ -268,7 +268,7 @@ flowchart TD
 - Higher **body mass index**
 - **Decreased activity level**
 - **Excessive sedentary time** measured as hours of television watching — **particularly for rectal cancer**
-- ⚠ **Site-specific caveat:** high BMI **in childhood or young adulthood** is associated with increased **colon** cancer risk **but not rectal** cancer risk.
+- ⚠ **Site-specific caveat:** high body mass index (BMI) **in childhood or young adulthood** is associated with increased **colon** cancer risk **but not rectal** cancer risk.
 
 ---
 

@@ -29,17 +29,17 @@ Endoscopic placement of a self-expanding metal stent (SEMS) across a **malignant
 
 | Indication | Statement | Source |
 |---|---|---|
-| **Bridge to surgery** — resectable MCO | *"Insertion of SEMS is a reasonable choice as a 'bridge to surgery' to allow for one-stage, elective resection."* | [[aga-2021-malignant-alimentary-tract-obstruction]] BPA 11 |
+| **Bridge to surgery** — resectable MCO | *"Insertion of SEMS is a reasonable choice as a 'bridge to surgery' to allow for one-stage, elective resection."* | [[aga-2021-malignant-alimentary-tract-obstruction]] best practice advice (BPA) 11 |
 | **Palliation** — not a resection candidate | *"Either SEMS placement or a diverting colostomy are reasonable choices depending on the patient's goals and functional status."* | BPA 12 |
 | **Proximal / right-sided obstruction** | *"SEMS is a reasonable option… both as a 'bridge to surgery' and in the palliative setting."* | BPA 13 |
 | **Extracolonic malignancy**, not a surgical candidate | *"SEMS placement is a reasonable alternative… although their placement is more technically challenging, clinical success rates are more variable, and complications (including stent migration) are more frequent."* | BPA 14 |
 
 - **Every one of these decisions is made in a multidisciplinary setting** including oncologists, surgeons and endoscopists, weighing the characteristics of the obstruction, the patient's expectations, prognosis, expected subsequent therapies, and functional status (BPA 1).
-- For any patient with MCO deemed a surgical candidate, the risk–benefit of stenting is assessed **against local surgical and endoscopic expertise** — the CPU makes expertise an explicit input, not a footnote.
+- For any patient with MCO deemed a surgical candidate, the risk–benefit of stenting is assessed **against local surgical and endoscopic expertise** — the clinical practice update (CPU) makes expertise an explicit input, not a footnote.
 
 ## Contraindications and Cautions
 
-- ⚠ **Performance status can flip the palliative answer toward surgery.** For **ECOG 0 or 1**, palliative *surgery* had improved overall survival compared with SEMS; for **ECOG 2 or 3** there was **no difference** in overall survival ([[aga-2021-malignant-alimentary-tract-obstruction]]).
+- ⚠ **Performance status can flip the palliative answer toward surgery.** For **Eastern Cooperative Oncology Group (ECOG) 0 or 1**, palliative *surgery* had improved overall survival compared with SEMS; for **ECOG 2 or 3** there was **no difference** in overall survival ([[aga-2021-malignant-alimentary-tract-obstruction]]).
 - **Bevacizumab** has **not** been associated with higher [[endoscopic-management-of-perforation|perforation]] rates in recent large retrospective studies — with the caveat, stated in the source, that many of those patients received it outside 6 weeks of stent placement.
 - ⚠ **Perforation and tumour seeding.** A single-centre retrospective South Korean study found that patients whose SEMS placement was **complicated by perforation** had an **odds ratio of 46** for subsequently developing metastasis from seeding. The source explicitly limits this: single-centre, retrospective, small, and with a higher perforation rate than prior meta-analyses. Treat it as a signal, not a risk estimate.
 
@@ -56,11 +56,11 @@ Endoscopic placement of a self-expanding metal stent (SEMS) across a **malignant
 | Stent migration | **3.9%** (16 cases); **1.2%** (registries) |
 | Overall adverse events | **7.8%** (registries) |
 
-**SEMS vs emergency surgery** — meta-analysis of 7 RCTs, 382 patients: significantly **higher rates of primary anastomosis** and **lower rates of permanent stoma and overall adverse events** with SEMS, and **no difference in overall survival**. Two further meta-analyses (2017, RCTs only; 2019, RCTs + non-RCTs) reached similar conclusions.
+**SEMS vs emergency surgery** — meta-analysis of 7 randomized controlled trials (RCTs), 382 patients: significantly **higher rates of primary anastomosis** and **lower rates of permanent stoma and overall adverse events** with SEMS, and **no difference in overall survival**. Two further meta-analyses (2017, RCTs only; 2019, RCTs + non-RCTs) reached similar conclusions.
 
 ### Right-sided / proximal obstruction
 
-Historically avoided on the assumption that right-sided stenting is too technically difficult and that emergency resection with primary anastomosis is safe there. **[[aga-2021-malignant-alimentary-tract-obstruction]] BPA 13 rejects the first assumption**, and [[kanaka-2022-colonic-stent-bts-right-sided]] supplies the outcome data against the second.
+Historically avoided on the assumption that right-sided stenting is too technically difficult and that emergency resection (ER) with primary anastomosis is safe there. **[[aga-2021-malignant-alimentary-tract-obstruction]] BPA 13 rejects the first assumption**, and [[kanaka-2022-colonic-stent-bts-right-sided]] supplies the outcome data against the second.
 
 - Right-sided disease accounts for **32–54% of malignant large bowel obstruction**, yet only **~5%** of reported BTS cases involve the right colon.
 - Emergency right hemicolectomy carried a **30-day mortality of 6.0%**, vs **0.7%** for elective hemicolectomy (Japanese National Clinical Database, cited in [[kanaka-2022-colonic-stent-bts-right-sided]]).
@@ -69,7 +69,7 @@ Historically avoided on the assumption that right-sided stenting is too technica
 
 | Outcome | BTS | Emergency resection | Effect |
 |---|---|---|---|
-| Postoperative complications | **19.3%** | 31.3% | OR 0.78 (0.66–0.92) |
+| Postoperative complications | **19.3%** | 31.3% | Odds ratio (OR) 0.78 (0.66–0.92) |
 | Postoperative mortality | **0.9%** | 5.2% | OR 0.51 (0.28–0.92) |
 | **Severe complications** (Clavien–Dindo ≥III / reintervention) | — | — | **OR 0.98 (0.68–1.41) — not significant** |
 | Primary anastomosis | **97.8%** | 85.9% | — |
@@ -86,7 +86,7 @@ Historically avoided on the assumption that right-sided stenting is too technica
 
 ## Palliative Stenting
 
-- European guidelines (ESGE 2020) recommend SEMS as the **preferred option for left-sided MCO in non-resectable patients** — cited here only as reported by the US sources, not from the ESGE document itself.
+- European guidelines (European Society of Gastrointestinal Endoscopy [ESGE] 2020) recommend SEMS as the **preferred option for left-sided MCO in non-resectable patients** — cited here only as reported by the US sources, not from the ESGE document itself.
 - **SEMS vs diverting colostomy is genuinely unresolved**, and BPA 12 accordingly declines to pick one:
   - SEMS allowed **earlier oral intake and shorter hospital stay**, but with a **trend favouring colostomy** for overall survival and time to readmission.
   - **2013 meta-analysis** (13 studies, 837 patients): SEMS had **lower clinical success** and **no difference in overall mortality**.
@@ -111,8 +111,8 @@ Historically avoided on the assumption that right-sided stenting is too technica
 
 ## Evidence Quality
 
-- [[aga-2021-malignant-alimentary-tract-obstruction]] is a tier-1 AGA Clinical Practice Update but performs **no formal rating of evidence quality or recommendation strength** — every statement is Best Practice Advice.
-- [[kanaka-2022-colonic-stent-bts-right-sided]] is tier-2 and **rates itself very low to low by GRADE**: very low for complications, primary anastomosis, leakage, SSI and ileus; low for mortality, stoma construction and laparoscopic surgery. **No RCT of right-sided BTS exists**, and the authors doubt an adequately powered one is feasible.
+- [[aga-2021-malignant-alimentary-tract-obstruction]] is a tier-1 American Gastroenterological Association (AGA) Clinical Practice Update but performs **no formal rating of evidence quality or recommendation strength** — every statement is Best Practice Advice.
+- [[kanaka-2022-colonic-stent-bts-right-sided]] is tier-2 and **rates itself very low to low by Grading of Recommendations Assessment, Development and Evaluation (GRADE)**: very low for complications, primary anastomosis, leakage, surgical site infection (SSI) and ileus; low for mortality, stoma construction and laparoscopic surgery. **No RCT of right-sided BTS exists**, and the authors doubt an adequately powered one is feasible.
 - **Long-term oncologic outcomes** — recurrence and survival after BTS — are **not** addressed by either source.
 
 ---

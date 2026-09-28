@@ -17,9 +17,9 @@ sources: []
 
 ## Summary
 
-AGA Expert Review on HCC risk stratification and emerging surveillance. Fewer than 1 in 4 patients with cirrhosis receive consistent surveillance (~24% even among subspecialists), and only 30%–40% of HCC is diagnosed at an early stage. The preferred strategy remains **semiannual ultrasound + AFP** (sensitivity ~63% combined vs ~51% US alone). The epidemiology is shifting from HCV toward nonviral disease ([[nafld-masld|MASLD]], [[alcohol-associated-liver-disease|ALD]]), which have lower annual HCC incidence — increasing the number needed to screen and challenging surveillance efficiency.
+American Gastroenterological Association (AGA) Expert Review on hepatocellular carcinoma (HCC) risk stratification and emerging surveillance. Fewer than 1 in 4 patients with cirrhosis receive consistent surveillance (~24% even among subspecialists), and only 30%–40% of HCC is diagnosed at an early stage. The preferred strategy remains **semiannual ultrasound (US) + α-fetoprotein (AFP)** (sensitivity ~63% combined vs ~51% US alone). The epidemiology is shifting from hepatitis C virus (HCV) toward nonviral disease ([[nafld-masld|metabolic dysfunction–associated steatotic liver disease (MASLD)]], [[alcohol-associated-liver-disease|alcohol-associated liver disease (ALD)]]), which have lower annual HCC incidence — increasing the number needed to screen and challenging surveillance efficiency.
 
-Emerging blood-based biomarkers (e.g., **GALAD**) and radiologic biomarkers are undergoing validation; some are commercially available but **evidence is insufficient** to replace guideline tests, and **multicancer detection panels should not be used**. Many cirrhosis risk-stratification scores exist but few are sufficiently validated; in non-cirrhotic chronic HBV, **PAGE-B and REAL-B** can stratify future HCC risk.
+Emerging blood-based biomarkers (e.g., **GALAD**) and radiologic biomarkers are undergoing validation; some are commercially available but **evidence is insufficient** to replace guideline tests, and **multicancer detection panels should not be used**. Many cirrhosis risk-stratification scores exist but few are sufficiently validated; in non-cirrhotic chronic hepatitis B virus (HBV), **PAGE-B and REAL-B** can stratify future HCC risk.
 
 8 Best Practice Advice statements (no formal ratings).
 
@@ -37,11 +37,11 @@ Emerging blood-based biomarkers (e.g., **GALAD**) and radiologic biomarkers are 
 8. Among patients with chronic hepatitis B virus infection without cirrhosis, PAGE-B and REAL-B scores can stratify patients based on their future risk of hepatocellular carcinoma.
 
 **Supporting data:**
-- Surveillance reduced HCC mortality in a randomized HBV trial (HR 0.63; 95% CI 0.41–0.98).
+- Surveillance reduced HCC mortality in a randomized HBV trial (hazard ratio [HR] 0.63; 95% confidence interval [CI] 0.41–0.98).
 - US + AFP sensitivity 63% vs US alone 51%; cost-effectiveness favors combination.
 - Semiannual > annual interval for early-stage detection and survival.
 - Populations at risk where surveillance is advised (Table 1): Child-Pugh A/B cirrhosis (any etiology, >1.0%/yr); Child-Pugh C if transplant candidate; chronic HBV without cirrhosis (>0.2%/yr — men >40y / women >50y from endemic countries, Africans earlier, family history of HCC, PAGE-B ≥10). Insufficient risk (<0.2%/yr): ≤F3 fibrosis incl. MASLD and HCV.
-- CT/MRI not for routine surveillance (radiation/contrast, cost, availability), though MRI may be cost-effective in select high-incidence groups.
+- Computed tomography (CT)/magnetic resonance imaging (MRI) not for routine surveillance (radiation/contrast, cost, availability), though MRI may be cost-effective in select high-incidence groups.
 
 ## Relevance to Wiki
 - [[hcc-surveillance]] — primary source; expands the page into a full framework (modalities, interval, at-risk populations, biomarkers, risk scores, harms).
@@ -49,4 +49,4 @@ Emerging blood-based biomarkers (e.g., **GALAD**) and radiologic biomarkers are 
 - [[chronic-hepatitis-b]], [[nafld-masld|MASLD]], [[alcohol-associated-liver-disease]], [[li-rads]] — etiology-specific risk and prevention.
 
 ## Contradictions / Open Questions
-- No major contradiction with [[aasld-2023-hcc]]; both endorse semiannual US+AFP. This 2026 CPU adds nuance that novel biomarkers (GALAD) and risk scores are **not yet** ready to replace guideline tests, and that surveillance in cured-HCV-non-cirrhotic and MASLD-non-cirrhotic populations remains an open, evolving question.
+- No major contradiction with [[aasld-2023-hcc]]; both endorse semiannual US+AFP. This 2026 Clinical Practice Update (CPU) adds nuance that novel biomarkers (GALAD) and risk scores are **not yet** ready to replace guideline tests, and that surveillance in cured-HCV-non-cirrhotic and MASLD-non-cirrhotic populations remains an open, evolving question.

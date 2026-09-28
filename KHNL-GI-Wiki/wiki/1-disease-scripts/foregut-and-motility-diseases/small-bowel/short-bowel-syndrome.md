@@ -41,8 +41,8 @@ Clinicopathological syndrome resulting from **loss of intestinal length** due to
 ### Establishing the Diagnosis
 
 **Definition — residual small intestinal length:**
-- **200 cm or less** = general agreement for SBS.
-- **150 cm or less** proposed by some reports as possibly more appropriate. The AGA CPU states both and does not adjudicate between them.
+- **200 cm or less** = general agreement for short bowel syndrome (SBS).
+- **150 cm or less** proposed by some reports as possibly more appropriate. The American Gastroenterological Association (AGA) clinical practice update (CPU) states both and does not adjudicate between them.
 
 **How the length is measured (convention — this is the whole diagnosis):**
 - Measured **at the time of surgery**.
@@ -55,7 +55,7 @@ Clinicopathological syndrome resulting from **loss of intestinal length** due to
 | | Definition | Relationship |
 |---|---|---|
 | **SBS** | Anatomic — loss of intestinal length (residual small bowel 200 cm or less) | Most common cause of IF |
-| **IF** | Functional — reduction of gut function below the minimum necessary for absorption of macronutrients or water and electrolytes, such that **intravenous supplementation (often PN) is required to maintain health or growth** | Also caused by chronic intestinal pseudo-obstruction and refractory intestinal malabsorptive syndromes |
+| **IF** | Functional — reduction of gut function below the minimum necessary for absorption of macronutrients or water and electrolytes, such that **intravenous supplementation (often parenteral nutrition [PN]) is required to maintain health or growth** | Also caused by chronic intestinal pseudo-obstruction and refractory intestinal malabsorptive syndromes |
 
 - **SBS-IF** = the subset of SBS patients who require intravenous supplementation.
 - The AGA CPU is scoped **strictly to SBS**, though some management principles apply to other functional causes of IF. Adults only (pediatric SBS out of scope, with acknowledged overlap).
@@ -78,7 +78,7 @@ Anatomic classification by **presence or absence of residual colon**:
 
 | Group | Residual anatomy | Prognostic implication |
 |---|---|---|
-| **Group 1** | End-jejunostomy | **Most severe** phenotype; high-output end-jejunostomies are the hardest to manage; net secretors; ORS-dependent hydration |
+| **Group 1** | End-jejunostomy | **Most severe** phenotype; high-output end-jejunostomies are the hardest to manage; net secretors; oral rehydration solution (ORS)-dependent hydration |
 | **Group 2** | Jejunum anastomosed to **partial colon** (jejunocolonic anastomosis) | Intermediate; colon in continuity → benefits from high-carbohydrate/low-fat diet and needs oxalate restriction |
 | **Group 3** | **Jejuno-ileo-colic** anastomosis, retaining **entire colon and ileocecal valve** | **Most favorable** phenotype |
 
@@ -94,7 +94,7 @@ The AGA CPU gives no formal differential for SBS itself; what it distinguishes i
 - **Refractory intestinal malabsorptive syndromes** — IF without loss of intestinal length.
 - **Region-specific mimics/overlaps within SBS** named by the source, which can compound diarrhea and must be identified because they are separately treatable:
   - Bile acid–induced diarrhea from terminal ileal resection.
-  - [[small-intestinal-bacterial-overgrowth|Small intestinal bacterial overgrowth]] — arises in dilated, stagnant bowel segments and with prolonged acid suppression; worsens malabsorption and diarrhea.
+  - [[small-intestinal-bacterial-overgrowth|Small intestinal bacterial overgrowth (SIBO)]] — arises in dilated, stagnant bowel segments and with prolonged acid suppression; worsens malabsorption and diarrhea.
 - **Underlying active bowel disease** that limits what surgical reconstruction can achieve: Crohn's disease, radiation enteritis.
 
 ## Diagnostics
@@ -104,7 +104,7 @@ The AGA CPU gives no formal differential for SBS itself; what it distinguishes i
 - **Performed by a dietitian experienced in SBS, on all patients** (Supplementary Table 1 of the source):
   - Weight change history
   - Medication usage including supplements
-  - GI and other symptoms that may affect oral intake or fluid loss
+  - Gastrointestinal (GI) and other symptoms that may affect oral intake or fluid loss
   - Food diary — usual oral diet and daily energy intake
   - Potential symptoms of micronutrient deficiencies
   - Pertinent past medical and psychiatric comorbidities
@@ -136,9 +136,9 @@ The AGA CPU gives no formal differential for SBS itself; what it distinguishes i
 
 | Micronutrient | Lab measurement | Typical supplementation |
 |---|---|---|
-| Vitamin A | Serum retinol | Oral: 5000–50,000 IU daily (sometimes more); IM also available |
-| Vitamin B12 | Serum vitamin B12, methylmalonic acid | SC/IM: 300–1000 mg monthly\*; oral and intranasal also available |
-| Vitamin C | Serum vitamin C (ascorbic acid) | Oral: 200–500 mg daily; IV also available |
+| Vitamin A | Serum retinol | Oral: 5000–50,000 IU daily (sometimes more); intramuscular (IM) also available |
+| Vitamin B12 | Serum vitamin B12, methylmalonic acid | Subcutaneous (SC)/IM: 300–1000 mg monthly\*; oral and intranasal also available |
+| Vitamin C | Serum vitamin C (ascorbic acid) | Oral: 200–500 mg daily; intravenous (IV) also available |
 | Vitamin D | Serum 25-hydroxyvitamin D, parathyroid hormone | Oral: 50,000 IU once weekly (or calcitriol 0.25–2 mg daily\*); IM also available |
 | Vitamin E | Serum alpha-tocopherol | Oral: 400 IU up to 3 times daily |
 | Folate | Serum, red blood cell folate | Oral: 1 mg daily |
@@ -180,7 +180,7 @@ The AGA CPU gives no formal differential for SBS itself; what it distinguishes i
 ### Enteral (Tube) Feeding
 
 - Rarely used in adults, but a randomized crossover study (15 adult SBS patients) showed tube feeding — exclusively or combined with oral feeding — **increased net absorption of lipids, protein, and energy** after the postoperative period.
-- **Consider EN + oral feeding when all of:** stable SBS-IF; insufficient oral intake **despite an appetite stimulant** (e.g. mirtazapine, olanzapine, dronabinol, Megace); **stool output <2 L/d**; and expected gains may allow PN weaning.
+- **Consider enteral nutrition (EN) + oral feeding when all of:** stable SBS-IF; insufficient oral intake **despite an appetite stimulant** (e.g. mirtazapine, olanzapine, dronabinol, Megace); **stool output <2 L/d**; and expected gains may allow PN weaning.
 - **Access** ([[enteral-access|enteral access]]): intermittent self-placement of a nasogastric tube (e.g. nightly overnight infusion), or a percutaneous gastrostomy tube.
   - Percutaneous gastrostomy placement **may be technically difficult** in SBS (altered anatomy, adhesions) → discuss risks/benefits/alternatives.
   - **Trial nasogastric feeding first** to confirm tolerance before accepting percutaneous tube risk.
@@ -202,7 +202,7 @@ The AGA CPU gives no formal differential for SBS itself; what it distinguishes i
 - **Virtually all patients require PN** in the initial period after resection; few discontinue before hospital discharge.
 - **Weaning probabilities** (see [[#Severity Assessment]]): >50% wean within 5 years; <6% chance if not achieved within 2 years of the last resection.
 - **Access:**
-  - **Tunneled central venous catheters preferred over PICCs** — PICCs carry higher thrombosis risk and problems with self-administration of PN.
+  - **Tunneled central venous catheters preferred over peripherally inserted central catheters (PICCs)** — PICCs carry higher thrombosis risk and problems with self-administration of PN.
   - **Tunneled catheters preferred over totally implanted ports** — the port's principal benefit is lost because it must be continually accessed and exchanged **weekly**.
 - **Composition:** initiate and adjust to meet fluid, electrolyte, energy, protein and micronutrient needs; energy content and macronutrient mix depend on oral intake and repletion required.
 - **High ostomy output → increased fluid, potassium, magnesium and zinc losses** — monitor and replace.
@@ -216,7 +216,7 @@ The AGA CPU gives no formal differential for SBS itself; what it distinguishes i
 
 **Antisecretory:**
 - Massive enterectomy → **gastric hypersecretion and hypergastrinemia lasting 6–12 months** postoperatively.
-- **[[proton-pump-inhibitors|PPIs]] or histamine-2 receptor antagonists** reduce gastric secretion volume, acid damage to upper gut mucosa, and acid inactivation of pancreatic exocrine enzymes.
+- **[[proton-pump-inhibitors|Proton pump inhibitors (PPIs)]] or histamine-2 receptor antagonists (H2RAs)** reduce gastric secretion volume, acid damage to upper gut mucosa, and acid inactivation of pancreatic exocrine enzymes.
 - **Use sparingly beyond 12 months** — gastric acid suppresses upper gut bacterial overgrowth — **particularly with documented SIBO**, unless there is clear evidence of persistent benefit on stool volume or dyspeptic symptoms.
 - **Octreotide** ([[somatostatin-analogs|somatostatin analog]]) — reduces GI secretions and slows jejunal transit, but **has not been shown to improve absorption or reduce PN need**, and may inhibit pancreatic enzyme secretion and worsen malabsorption.
   - **Reserve for large-volume stool losses with problematic fluid/electrolyte management** (e.g. high-output end-jejunostomy).
@@ -248,7 +248,7 @@ The AGA CPU gives no formal differential for SBS itself; what it distinguishes i
 
 *Class page: [[glp-2-agonists]].*
 
-- **Rationale:** GLP-2 is secreted postprandially from **L cells in the distal ileum and right colon** and has **intestinotrophic** effects that aid absorption. Native GLP-2's very short half-life was extended in the recombinant molecule **teduglutide (Gattex)**, allowing **daily subcutaneous injection**.
+- **Rationale:** Glucagon-like peptide-2 (GLP-2) is secreted postprandially from **L cells in the distal ileum and right colon** and has **intestinotrophic** effects that aid absorption. Native GLP-2's very short half-life was extended in the recombinant molecule **teduglutide (Gattex)**, allowing **daily subcutaneous injection**.
 - **Recombinant human growth hormone (Zorbtive) has largely been discontinued** — unacceptable side effects, questionable long-term efficacy.
 - **Effect:** improves intestinal absorptive function and allows PN weaning in SBS-IF; some patients achieve enteral autonomy.
 - **Malignancy rules (decision-critical):**
@@ -297,7 +297,7 @@ Surgery may be of value in **3 contexts**: (1) **recruit unused distal bowel**; 
 ### Intestinal Transplantation
 
 **Referral criteria:**
-- **CMS recommends ITX consideration for patients with IF (i.e. refractory PN dependency) and onset of PN failure.**
+- **The Centers for Medicare and Medicaid Services (CMS) recommends intestinal transplantation (ITX) consideration for patients with IF (i.e. refractory PN dependency) and onset of PN failure.**
 - **PN failure = onset of PN-associated complications**, especially:
   - progressive **intestinal failure–associated liver disease**, or
   - catheter-related complications — **recurrent catheter-related sepsis**, or **loss of vascular access from central vein thromboses**.

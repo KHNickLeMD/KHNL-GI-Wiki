@@ -14,14 +14,14 @@ Non-typhoidal *Salmonella* species are a major cause of foodborne diarrheal illn
 ### Establishing the Diagnosis
 
 - Acute febrile, sometimes bloody, diarrhea after foodborne exposure (poultry, eggs, produce, reptiles) or travel.
-- **Stool culture / culture-independent (GI PCR panel)** confirms; non-typhoidal *Salmonella* is a **notifiable** pathogen — submit isolate. [[idsa-2017-infectious-diarrhea]]
+- **Stool culture / culture-independent (gastrointestinal (GI) polymerase chain reaction (PCR) panel)** confirms; non-typhoidal *Salmonella* is a **notifiable** pathogen — submit isolate. [[idsa-2017-infectious-diarrhea]]
 - Distinguish from **enteric (typhoid) fever** (*S.* Typhi/Paratyphi): suspect with travel to endemic areas, contact with a documented carrier, or lab exposure — blood + stool + urine ± bone-marrow culture (highest yield, especially post-antibiotics); **serology should NOT be used** to diagnose it.
 
 ### Severity Assessment
 
 - **Uncomplicated** — immunocompetent host, self-limited gastroenteritis.
 - **Severe / invasive** — high fever, bacteremia, sepsis, or immunocompromise; risk of endovascular seeding (aortitis, mycotic aneurysm) in older/atherosclerotic hosts.
-- Grade illness activity with the ACG mild / moderate / severe definitions — see [[acute-diarrhea]].
+- Grade illness activity with the American College of Gastroenterology (ACG) mild / moderate / severe definitions — see [[acute-diarrhea]].
 
 **Host features that define "increased risk for invasive infection"** — this is the list that decides whether to give antibiotics at all (see Therapeutics) [[idsa-2017-infectious-diarrhea]] (Table 6):
 
@@ -40,8 +40,8 @@ Non-typhoidal *Salmonella* species are a major cause of foodborne diarrheal illn
 *Workup: see [[acute-diarrhea]].*
 
 - Other inflammatory bacterial enteritides — [[campylobacter-infection]], [[shigellosis]], *Yersinia enterocolitica*
-- **Shiga toxin–producing *E. coli* (STEC/EHEC)** — bloody diarrhea ± hemolytic uremic syndrome. **The one bloody-diarrhea pathogen you must NOT treat:** avoid antimicrobials for STEC O157 and any STEC producing Shiga toxin 2, *or when the toxin genotype is unknown* *(strong, moderate)*; for non–toxin-2 STEC the benefit/harm is undefined, so avoidance is still advised *(strong, low)*. [[idsa-2017-infectious-diarrhea]] (Rec 35) — antibacterials appear to increase HUS risk. [[acg-2016-acute-diarrhea]] likewise directs pathogen-directed therapy in febrile prolonged diarrhea **"for all but STEC infection."** *(Distinct from [[enterotoxigenic-e-coli|ETEC]], which is watery and noninvasive.)*
-- Amebic dysentery — [[entamoeba-histolytica-infection|*Entamoeba histolytica*]]; needs species-level EIA/PCR (microscopy cannot separate it from non-pathogenic *E. dispar*). [[acg-2016-acute-diarrhea]]
+- **Shiga toxin–producing / enterohemorrhagic *E. coli* (STEC/EHEC)** — bloody diarrhea ± hemolytic uremic syndrome. **The one bloody-diarrhea pathogen you must NOT treat:** avoid antimicrobials for STEC O157 and any STEC producing Shiga toxin 2, *or when the toxin genotype is unknown* *(strong, moderate)*; for non–toxin-2 STEC the benefit/harm is undefined, so avoidance is still advised *(strong, low)*. [[idsa-2017-infectious-diarrhea]] (Rec 35) — antibacterials appear to increase hemolytic uremic syndrome (HUS) risk. [[acg-2016-acute-diarrhea]] likewise directs pathogen-directed therapy in febrile prolonged diarrhea **"for all but STEC infection."** *(Distinct from [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]], which is watery and noninvasive.)*
+- Amebic dysentery — [[entamoeba-histolytica-infection|*Entamoeba histolytica*]]; needs species-level enzyme immunoassay (EIA)/PCR (microscopy cannot separate it from non-pathogenic *E. dispar*). [[acg-2016-acute-diarrhea]]
 - [[clostridioides-difficile|*C. difficile*]] colitis (antibiotic/healthcare exposure)
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare
 - Typhoid/enteric fever (*S.* Typhi/Paratyphi) — see [[fever-returning-traveler]]
@@ -52,7 +52,7 @@ Non-typhoidal *Salmonella* species are a major cause of foodborne diarrheal illn
 
 - Stool culture or multiplex GI PCR; isolate submission required (notifiable).
 - **Enteric-fever workup:** blood + stool + urine ± bone-marrow culture; serology not recommended.
-- **Imaging (ultrasound, CT, or MRI)** to look for aortitis, mycotic aneurysm, peritonitis, free air, [[toxic-megacolon|toxic megacolon]], or extravascular foci — in **older** people with invasive *Salmonella enterica*, when any of: **sustained fever or bacteremia despite adequate therapy**, **underlying atherosclerosis**, or **recent-onset chest / back / abdominal pain** *(weak, low)*. [[idsa-2017-infectious-diarrhea]] (Rec 25)
+- **Imaging (ultrasound, computed tomography (CT), or magnetic resonance imaging (MRI))** to look for aortitis, mycotic aneurysm, peritonitis, free air, [[toxic-megacolon|toxic megacolon]], or extravascular foci — in **older** people with invasive *Salmonella enterica*, when any of: **sustained fever or bacteremia despite adequate therapy**, **underlying atherosclerosis**, or **recent-onset chest / back / abdominal pain** *(weak, low)*. [[idsa-2017-infectious-diarrhea]] (Rec 25)
 
 ---
 
@@ -65,15 +65,15 @@ Non-typhoidal *Salmonella* species are a major cause of foodborne diarrheal illn
 | Situation | Treat? | Agent |
 |---|---|---|
 | Uncomplicated gastroenteritis, immunocompetent | **No** | — |
-| Any host at **increased risk for invasive infection** (list under *Severity Assessment*) | **Yes**, if susceptible | **Ceftriaxone**, **ciprofloxacin**, **TMP-SMX**, or **amoxicillin** |
+| Any host at **increased risk for invasive infection** (list under *Severity Assessment*) | **Yes**, if susceptible | **Ceftriaxone**, **ciprofloxacin**, **trimethoprim-sulfamethoxazole (TMP-SMX)**, or **amoxicillin** |
 | **Invasive disease suspected or confirmed** | **Yes** | **Ceftriaxone preferred over ciprofloxacin** — increasing ciprofloxacin resistance |
 | **Enteric (typhoid/paratyphoid) fever** — *S.* Typhi / Paratyphi | **Yes** | First: **ceftriaxone or ciprofloxacin**; alternatives: **ampicillin, TMP-SMX, or azithromycin** |
 | Sepsis with suspected enteric fever | **Yes — empiric** | Broad-spectrum, started **after** blood + stool + urine cultures; **narrow** when susceptibilities return *(Rec 34)* |
 | Any pathogen-directed course | — | **Modify or stop** antimicrobials once a clinically plausible organism is identified *(Rec 38, strong/high)* |
 
-*Agent selection from [[idsa-2017-infectious-diarrhea]] Table 6; check current US susceptibility patterns (NARMS) when choosing.*
+*Agent selection from [[idsa-2017-infectious-diarrhea]] Table 6; check current US susceptibility patterns (National Antimicrobial Resistance Monitoring System (NARMS)) when choosing.*
 
-> **Dose and duration are not given by the sources.** Neither [[idsa-2017-infectious-diarrhea]] nor [[acg-2016-acute-diarrhea]] gives a **dose, route, or duration** for these agents in salmonellosis: IDSA Table 6 lists first-choice and alternative agents with **no dose column**, and ACG Table 4 doses only the traveler's-diarrhea regimens (azithromycin, fluoroquinolones, rifaximin) — not ceftriaxone, TMP-SMX, or amoxicillin, and not the longer courses used for invasive disease or enteric fever. Take those from an IDSA/CDC enteric-fever or non-typhoidal Salmonella treatment table.
+> **Dose and duration are not given by the sources.** Neither [[idsa-2017-infectious-diarrhea]] nor [[acg-2016-acute-diarrhea]] gives a **dose, route, or duration** for these agents in salmonellosis: Infectious Diseases Society of America (IDSA) Table 6 lists first-choice and alternative agents with **no dose column**, and ACG Table 4 doses only the traveler's-diarrhea regimens (azithromycin, fluoroquinolones, rifaximin) — not ceftriaxone, TMP-SMX, or amoxicillin, and not the longer courses used for invasive disease or enteric fever. Take those from an IDSA/Centers for Disease Control and Prevention (CDC) enteric-fever or non-typhoidal Salmonella treatment table.
 
 - **[[rifaximin|Rifaximin]]: do NOT use** — non-absorbable; ineffective for this invasive pathogen. [[acg-2016-acute-diarrhea]]
 - **[[loperamide|Antimotility agents]]:** avoid at any age with fever or inflammatory diarrhea, and in children <18 years. [[idsa-2017-infectious-diarrhea]] (Rec 47)
@@ -93,7 +93,7 @@ Non-typhoidal *Salmonella* species are a major cause of foodborne diarrheal illn
 
 ### Postinfectious sequelae
 
-- **Reactive arthritis**, erythema nodosum, [[postinfectious-ibs|post-infectious IBS]], and intestinal perforation are recognized complications. [[idsa-2017-infectious-diarrhea]]
+- **Reactive arthritis**, erythema nodosum, [[postinfectious-ibs|post-infectious irritable bowel syndrome (IBS)]], and intestinal perforation are recognized complications. [[idsa-2017-infectious-diarrhea]]
 
 ---
 

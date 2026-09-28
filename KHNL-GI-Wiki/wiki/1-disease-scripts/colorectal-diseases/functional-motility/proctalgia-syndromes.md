@@ -22,13 +22,13 @@ sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi]
 
 ### Establishing the Diagnosis
 
-**Proctalgia syndromes** are characterized by recurrent episodes of anorectal pain in the absence of other identifiable causes. They sit in the [[rome-v-2026-dgbi|Rome V]] anorectal [[disorders-of-gut-brain-interaction|disorders of gut–brain interaction]] under **F2 — anorectal pain disorders**, which Rome V splits into **three** named entities (the ACG 2021 terminology maps onto them):
+**Proctalgia syndromes** are characterized by recurrent episodes of anorectal pain in the absence of other identifiable causes. They sit in the [[rome-v-2026-dgbi|Rome V]] anorectal [[disorders-of-gut-brain-interaction|disorders of gut–brain interaction]] under **F2 — anorectal pain disorders**, which Rome V splits into **three** named entities (the American College of Gastroenterology (ACG) 2021 terminology maps onto them):
 
 | Rome V | Rome V name | ACG 2021 equivalent | Defining feature |
 |---|---|---|---|
 | **F2a** | Levator ani syndrome | Chronic proctalgia **with** levator tenderness | Pain ≥20 min **+** tenderness on posterior traction of the puborectalis |
 | **F2b** | Unexplained anorectal pain | Idiopathic chronic proctalgia syndrome | Pain ≥20 min, **no** levator tenderness |
-| **F2c** | Proctalgia fugax | Proctalgia fugax | Pain **seconds to <20 min**, normal DRE |
+| **F2c** | Proctalgia fugax | Proctalgia fugax | Pain **seconds to <20 min**, normal digital rectal examination (DRE) |
 
 - **Duration rule changed in Rome V:** the **6-month** symptom-duration requirement is **no longer required**; Rome V suggests an **8-week** duration to exclude other diagnoses — and **explicitly exempts infrequent-episode disorders, naming proctalgia fugax**, along with any case where the clinician is satisfied that medical evaluation has excluded other disorders. [[rome-v-2026-dgbi]]
 - **The ≥20-minute cut-point is the discriminator** between F2a/F2b and F2c; **levator tenderness** is the discriminator between F2a and F2b, and it changes the treatment (see Therapeutics).
@@ -42,7 +42,7 @@ sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi]
 
 ## Differential Diagnosis
 
-*Workup of the pelvic-floor limb — the ARM/BET evaluation that decides biofeedback eligibility in levator ani syndrome — is on [[defecation-disorders]]. There is no dedicated diagnostic schema for anorectal pain itself; that workup is history + DRE, with the escalation steps under [[#Diagnostics]] below.*
+*Workup of the pelvic-floor limb — the anorectal manometry (ARM)/balloon expulsion test (BET) evaluation that decides biofeedback eligibility in levator ani syndrome — is on [[defecation-disorders]]. There is no dedicated diagnostic schema for anorectal pain itself; that workup is history + DRE, with the escalation steps under [[#Diagnostics]] below.*
 
 | Condition | Key Features |
 |-----------|-------------|
@@ -53,9 +53,9 @@ sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi]
 | Pudendal neuralgia | Burning quality; sitting-provoked; Tinel's sign at Alcock's canal |
 | Levator spasm (secondary to [[anal-fissure\|anal fissure]], [[hemorrhoids]]) | Structural cause present; treat underlying condition |
 | [[crohns-disease\|Crohn's]] perianal disease | Fistulas, skin tags, atypical fissures |
-| Endometriosis | Women; cyclical pain; pelvic MRI |
+| Endometriosis | Women; cyclical pain; pelvic magnetic resonance imaging (MRI) |
 
-Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pathology do NOT invalidate the diagnosis of chronic proctalgia or PF — manage concurrently.
+Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pathology do NOT invalidate the diagnosis of chronic proctalgia or proctalgia fugax (PF) — manage concurrently.
 
 ---
 
@@ -74,11 +74,11 @@ Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pa
 
 **[[biofeedback-therapy|Biofeedback]] — Strong recommendation, Very Low evidence (ACG 2021):**
 
-- Cornerstone of treatment; single best-studied RCT showed biofeedback superior to electrogalvanic stimulation (EGS) and conservative management in levator syndrome with levator tenderness and abnormal ARM
+- Cornerstone of treatment; single best-studied randomized controlled trial (RCT) showed biofeedback superior to electrogalvanic stimulation (EGS) and conservative management in levator syndrome with levator tenderness and abnormal ARM
 - No independent replication in 10 years; guideline maintains Strong recommendation given absence of effective alternatives and no significant risks
 - 4–6 sessions; same protocol as for dyssynergic defecation (linked at the top of the differential)
 
-**Electrogalvanic stimulation (EGS) — Conditional/Very Low:**
+**EGS — Conditional/Very Low:**
 
 - If biofeedback not available; superior to conservative management but inferior to biofeedback
 - Direct electrical stimulation of anal canal/levator ani; available at some centers

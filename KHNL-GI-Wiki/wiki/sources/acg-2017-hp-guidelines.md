@@ -9,13 +9,13 @@ sources: []
 
 # ACG Clinical Guideline: Treatment of *Helicobacter pylori* Infection
 
-> ⚠ **Citation of record.** The bibliographic record above is verified, but the content below was not transcribed from the full guideline text and has not been verified against it. Treat this page as a citation of record, like [[chang-2024-endoscopic-oncologist]]; the *H. pylori* guideline summarized in full is **ACG 2024** ([[acg-2024-hp-treatment]]).
+> ⚠ **Citation of record.** The bibliographic record above is verified, but the content below was not transcribed from the full guideline text and has not been verified against it. Treat this page as a citation of record, like [[chang-2024-endoscopic-oncologist]]; the *H. pylori* guideline summarized in full is **American College of Gastroenterology (ACG) 2024** ([[acg-2024-hp-treatment]]).
 >
 > **Practical consequence.** [[acg-2024-hp-treatment]] supersedes this guideline for treatment. Two categories of claim previously carried here are not stated by ACG 2024 and have been handled on the entity pages rather than left standing:
-> - **UBT / stool-antigen sensitivity and specificity figures** — ACG 2024 explicitly "elected not to review standard testing modalities (e.g., fecal antigen testing, breath testing, and serology)," so ACG 2024 does not supply these numbers.
+> - **Urea breath test (UBT) / stool-antigen sensitivity and specificity figures** — ACG 2024 explicitly "elected not to review standard testing modalities (e.g., fecal antigen testing, breath testing, and serology)," so ACG 2024 does not supply these numbers.
 > - **The ">15% clarithromycin resistance" threshold** for abandoning empiric clarithromycin triple therapy — absent from ACG 2024, which instead states outright that it is "no longer appropriate to use clarithromycin- or levofloxacin-containing treatment regimens empirically" and reports US clarithromycin resistance at **20–30%**.
 >
-> Claims that *are* independently stated in ACG 2024 (2-week PPI hold before UBT/fecal antigen; serology not recommended without high pretest probability; test of cure ≥4 weeks after therapy; metronidazole **1.5–2 g/d** total daily dose in optimized BQT; BQT ITT eradication **87.4%**) have been re-anchored to that guideline.
+> Claims that *are* independently stated in ACG 2024 (2-week proton pump inhibitor (PPI) hold before UBT/fecal antigen; serology not recommended without high pretest probability; test of cure ≥4 weeks after therapy; metronidazole **1.5–2 g/d** total daily dose in optimized bismuth quadruple therapy (BQT); BQT intention-to-treat (ITT) eradication **87.4%**) have been re-anchored to that guideline.
 
 ## Bibliographic Info
 
@@ -35,7 +35,7 @@ This ACG guideline comprehensively updates recommendations for H. pylori eradica
 
 The core message: clarithromycin-based triple therapy (PPI + clarithromycin + amoxicillin) should no longer be used empirically where clarithromycin resistance exceeds 15%. In those regions (including most of the US), **bismuth quadruple therapy** (PPI + bismuth + metronidazole + tetracycline) or **concomitant quadruple therapy** (PPI + clarithromycin + amoxicillin + metronidazole) are preferred first-line options.
 
-Post-treatment testing to confirm eradication is strongly recommended, using urea breath test (UBT) or stool antigen test (SAT) ≥4 weeks after completing therapy (and ≥2 weeks after stopping PPI).
+Post-treatment testing to confirm eradication is strongly recommended, using UBT or stool antigen test (SAT) ≥4 weeks after completing therapy (and ≥2 weeks after stopping PPI).
 
 The guideline also endorses **[[test-and-treat]]** as the preferred strategy for uninvestigated [[dyspepsia]] in patients <55 years without alarm features, in regions where H. pylori prevalence exceeds 10%.
 
@@ -50,7 +50,7 @@ The guideline also endorses **[[test-and-treat]]** as the preferred strategy for
 
 **Recommended first-line regimens (US context):**
 
-1. **[[bismuth-quadruple-therapy]]** (BQT): PPI bid + bismuth subsalicylate 525mg qid + metronidazole 250mg qid + tetracycline 500mg qid × 10–14 days
+1. **[[bismuth-quadruple-therapy|BQT]]**: PPI twice daily (bid) + bismuth subsalicylate 525mg four times daily (qid) + metronidazole 250mg qid + tetracycline 500mg qid × 10–14 days
    - Achieves ~80–90% eradication rates; preferred where clarithromycin resistance is high
 2. **Concomitant quadruple therapy**: PPI bid + clarithromycin 500mg bid + amoxicillin 1g bid + metronidazole 500mg bid × 10–14 days
    - Effective even with moderate clarithromycin resistance; eradication ~85–90%
@@ -80,10 +80,10 @@ The guideline also endorses **[[test-and-treat]]** as the preferred strategy for
 
 - Active [[peptic-ulcer-disease|peptic ulcer disease]] (gastric or duodenal)
 - History of peptic ulcer disease (not previously treated)
-- Low-grade gastric MALT lymphoma
+- Low-grade gastric mucosa-associated lymphoid tissue (MALT) lymphoma
 - After endoscopic resection of early [[gastric-adenocarcinoma|gastric cancer]]
 - Uninvestigated dyspepsia (test-and-treat)
-- Patients on long-term NSAID therapy
+- Patients on long-term nonsteroidal anti-inflammatory drug (NSAID) therapy
 - Unexplained iron deficiency anemia
 - Idiopathic thrombocytopenic purpura (ITP)
 
@@ -94,7 +94,7 @@ The guideline also endorses **[[test-and-treat]]** as the preferred strategy for
 | Recommendation | Strength | Evidence Quality |
 |---|---|---|
 | **Regimen Selection** | | |
-| Bismuth quadruple therapy (BQT: PPI BID + bismuth subsalicylate 525 mg QID + metronidazole 250 mg QID + tetracycline 500 mg QID ×10–14 days) as preferred first-line where clarithromycin resistance >15% | Strong | Moderate |
+| BQT (PPI BID + bismuth subsalicylate 525 mg QID + metronidazole 250 mg QID + tetracycline 500 mg QID ×10–14 days) as preferred first-line where clarithromycin resistance >15% | Strong | Moderate |
 | Concomitant quadruple therapy (PPI + clarithromycin 500 mg BID + amoxicillin 1 g BID + metronidazole 500 mg BID ×10–14 days) as alternative first-line | Strong | Moderate |
 | Clarithromycin-based triple therapy ONLY where clarithromycin resistance <15% AND metronidazole resistance <40% | Strong | Moderate |
 | 14-day duration consistently outperforms 7–10 days; 10 days acceptable for BQT | Strong | Moderate |

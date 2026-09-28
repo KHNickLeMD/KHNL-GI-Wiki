@@ -37,7 +37,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Presence of FAP-type extracolonic manifestations: [[nonampullary-duodenal-adenoma|duodenal]]/[[ampullary-adenoma|ampullary adenomas]], desmoid tumors (abdominal > peripheral), papillary thyroid cancer, CHRPE (congenital hypertrophy of the retinal pigment epithelium), epidermal cysts, osteomas (Gardner syndrome)
 - **MUTYH testing specifically** should be considered if **any one** of the following is met [[asge-2020-fap]]: (1) **≥20 colorectal adenomas over multiple [[colonoscopy|colonoscopies]]**; (2) known family history of MAP; (3) **≥10 adenomas on a single colonoscopy**; or (4) meets [[serrated-polyposis-syndrome|serrated polyposis syndrome]] criteria **with at least some adenomas** on the exam. Genetic testing of children for MAP is postponed to adulthood (later disease onset; screening begins in adulthood)
 
-**ASGE 2020 Rec 1** *(44BB)*: refer for genetic counseling and testing when there is **clinical polyposis**, defined as **≥10 adenomas on a single endoscopy** *and* **≥20 adenomas over a lifetime**. **Rec 2** *(44BB)*: test **all first-degree relatives** of a confirmed polyposis-syndrome patient [[asge-2020-fap]].
+**American Society for Gastrointestinal Endoscopy (ASGE) 2020 Rec 1** *(44BB)*: refer for genetic counseling and testing when there is **clinical polyposis**, defined as **≥10 adenomas on a single endoscopy** *and* **≥20 adenomas over a lifetime**. **Rec 2** *(44BB)*: test **all first-degree relatives** of a confirmed polyposis-syndrome patient [[asge-2020-fap]].
 
 **When to test the relative — the age depends on the suspected syndrome** [[asge-2020-fap]]:
 
@@ -46,8 +46,8 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 | **FAP** | **10–12 years** |
 | **AFAP** | **18–20 years** |
 | **[[mutyh-associated-polyposis\|MAP]]** | **18–20 years** (children are deferred to adulthood so they can consent; onset and screening both begin later) |
-| **Age 6 months – 5 years, parents agreeable** | Confirmatory **APC** testing may be done early **specifically to enable hepatoblastoma screening** (AFP + liver ultrasound every 6 months); otherwise defer to ages 10–12 |
-| **Mutation-negative child** | Follow **average-risk** [[colorectal-cancer-screening\|CRC screening]] |
+| **Age 6 months – 5 years, parents agreeable** | Confirmatory **APC** testing may be done early **specifically to enable hepatoblastoma screening** (alpha-fetoprotein (AFP) + liver ultrasound every 6 months); otherwise defer to ages 10–12 |
+| **Mutation-negative child** | Follow **average-risk** [[colorectal-cancer-screening\|colorectal cancer (CRC) screening]] |
 
 **Germline testing**: APC gene sequencing + deletion/duplication analysis; if APC-negative and polyp count <100, test MUTYH (both alleles) [[acg-2015-hereditary-gi-cancer]].
 
@@ -58,28 +58,28 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - ≥100 synchronous colorectal adenomas; autosomal dominant; APC gene (5q21)
 - Prevalence: 1 in 6,850–31,250 live births (~2.29–3.2 per 100,000 individuals)
 - Near-100% lifetime CRC risk if untreated; average age of CRC diagnosis 38–41 years
-- **Up to one-third** of newly diagnosed cases not belonging to a previously identified family are de novo germline mutations or mosaicism ([[acg-2015-hereditary-gi-cancer|ACG 2015]]; "up to 30% of FAP and AFAP" per [[asge-2020-fap|ASGE 2020]]) — **absent family history does not exclude FAP**
+- **Up to one-third** of newly diagnosed cases not belonging to a previously identified family are de novo germline mutations or mosaicism ([[acg-2015-hereditary-gi-cancer|American College of Gastroenterology (ACG) 2015]]; "up to 30% of FAP and AFAP" per [[asge-2020-fap|ASGE 2020]]) — **absent family history does not exclude FAP**
 - **25% of newly diagnosed FAP patients outside known families already have colon cancer** at diagnosis
 - Mean age of polyp onset: 15.9 years (range 8–34); polyps emerge in 2nd–3rd decade
 - Adenomatous polyps usually distributed throughout colon; 90% are <0.5 cm in diameter in fully developed syndrome
 - APC mutation cluster region: exon 15 (5' end); location correlates with extracolonic phenotype including desmoid tumor occurrence and CHRPE
 - Individuals with >1,000 polyps often have mutations in the mid-portion of APC
 
-**Attenuated FAP (AFAP)**:
+**AFAP**:
 
 - <100 adenomas at presentation; autosomal dominant; APC mutations at the far proximal (5') or far distal (3') end of gene, or certain exon 9 locations
 - Average ~25 polyps; more proximal colonic distribution; polyp number highly variable
 - CRC risk ~69%; average age of CRC diagnosis 54–58 years (range 29–81) — roughly 10–15 years later than classic FAP
 - Adenomas develop in nearly all carriers (111 of 120 gene carriers by mean age 41); **median 25 adenomas, range 0–470** — polyp formation is highly variable even within one mutation [[asge-2020-fap]]
 
-**[[mutyh-associated-polyposis|MUTYH-Associated Polyposis]] (MAP)**:
+**[[mutyh-associated-polyposis|MAP]]**:
 
 - Biallelic MUTYH mutations; **autosomal recessive** (both alleles must be mutated)
 - MUTYH is a base excision repair gene; failure → G:C→T:A transversions in APC and KRAS
 - Phenotype: 20–99 adenomas (rarely >500); average age of CRC diagnosis 48–50; CRC present in ~60% at MAP diagnosis
 - Two predominant MUTYH mutations in Western populations: Y179C (formerly Y165C) and G396D (formerly G382D); together account for >80% of MAP mutations in European ancestry
 - Biallelic MAP lifetime CRC risk approaches **80%**; risk is **28-fold** the general population [[asge-2020-fap]]
-- **Monoallelic (heterozygous) MUTYH carriers:** minimal or no additional risk over biallelic-negative individuals, and [[acg-2015-hereditary-gi-cancer|ACG 2015]] states there is **no consensus** that monoallelic mutations warrant increased screening. One cohort did find increased CRC risk in monoallelic carriers **who also had an FDR with CRC** — for that subgroup [[asge-2020-fap|ASGE 2020]] Table 3 advises **colonoscopy from age 40, or 10 years before the FDR's age at CRC diagnosis, every 5 years** *(low quality)*. For a monoallelic carrier with **no** family history of CRC, ASGE lists the appropriate age and interval as **unknown**
+- **Monoallelic (heterozygous) MUTYH carriers:** minimal or no additional risk over biallelic-negative individuals, and [[acg-2015-hereditary-gi-cancer|ACG 2015]] states there is **no consensus** that monoallelic mutations warrant increased screening. One cohort did find increased CRC risk in monoallelic carriers **who also had a first-degree relative (FDR) with CRC** — for that subgroup [[asge-2020-fap|ASGE 2020]] Table 3 advises **colonoscopy from age 40, or 10 years before the FDR's age at CRC diagnosis, every 5 years** *(low quality)*. For a monoallelic carrier with **no** family history of CRC, ASGE lists the appropriate age and interval as **unknown**
 - CRC location in MAP is unsettled: [[acg-2015-hereditary-gi-cancer|ACG 2015]] notes it has been **predominantly distal in some studies and proximal in others**, while the newer [[asge-2020-fap|ASGE 2020]] reports a **right-sided preponderance** for both polyps and cancer. Multiple hyperplastic and/or sessile serrated adenomas may co-occur
 
 **Polymerase proofreading-associated polyposis (PPAP — POLE / POLD1)** — a *separate* newly described syndrome, not a MAP variant [[acg-2015-hereditary-gi-cancer]]:
@@ -90,7 +90,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 ### Cumulative Cancer Risks
 
-| Syndrome | Gene | CRC Risk | Average Age of CRC Dx |
+| Syndrome | Gene | CRC Risk | Average Age of CRC Diagnosis |
 |---|---|---|---|
 | Classic FAP | APC | ~100% | 38–41 |
 | Attenuated FAP | APC | ~69% | 54–58 |
@@ -102,12 +102,12 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 *Workup: see [[colorectal-polyposis]].*
 
-- **[[lynch-syndrome]]** — fewer polyps (usually <10); right-sided; MMR gene mutations
+- **[[lynch-syndrome]]** — fewer polyps (usually <10); right-sided; mismatch repair (MMR) gene mutations
 - **[[serrated-polyposis-syndrome]]** — predominantly serrated/hyperplastic polyps; no clear germline etiology
 - **[[juvenile-polyposis-syndrome|Juvenile polyposis syndrome]]** — hamartomatous polyps; SMAD4/BMPR1A
 - **[[peutz-jeghers-syndrome]]** — hamartomas + mucocutaneous pigmentation; STK11
 - **[[cowden-syndrome|Cowden syndrome]]** — hamartomas + PTEN mutation
-- **[[hereditary-mixed-polyposis-syndrome|Hereditary mixed polyposis syndrome (HMPS)]]** — mixed juvenile-adenomatous and serrated adenomas; linked to GREM1 duplication; may be misdiagnosed as JPS or SPS
+- **[[hereditary-mixed-polyposis-syndrome|Hereditary mixed polyposis syndrome (HMPS)]]** — mixed juvenile-adenomatous and serrated adenomas; linked to GREM1 duplication; may be misdiagnosed as juvenile polyposis syndrome (JPS) or serrated polyposis syndrome (SPS)
 
 ---
 
@@ -122,8 +122,8 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 | Classic FAP | 10–15 y | 10–12 y | 1–2 y | Flexible sigmoidoscopy **or** colonoscopy; colonoscopy once polyps found |
 | Attenuated FAP | 18–20 y | 18–20 y | 1–2 y | Colonoscopy |
 | [[mutyh-associated-polyposis\|MAP]] | **25–30 y** | **18–20 y** | 1–2 y | Colonoscopy |
-| After proctocolectomy + IPAA | — | 1 y after surgery | 1–2 y (**6 mo** if advanced adenoma incl. HGD) | Pouch endoscopy |
-| After subtotal colectomy + IRA | — | 6 mo after surgery | 6 mo–1 y | Sigmoidoscopy |
+| After proctocolectomy + ileal pouch-anal anastomosis (IPAA) | — | 1 y after surgery | 1–2 y (**6 mo** if advanced adenoma incl. high-grade dysplasia (HGD)) | Pouch endoscopy |
+| After subtotal colectomy + ileorectal anastomosis (IRA) | — | 6 mo after surgery | 6 mo–1 y | Sigmoidoscopy |
 
 > **Guidelines differ** on when MAP surveillance starts — ACG 2015 Table 10 says **25–30**, ASGE 2020 Table 3 says **18–20**. **Start at 18–20** per the newer ASGE 2020.
 
@@ -137,7 +137,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 **Duodenal adenomatosis** [[acg-2015-hereditary-gi-cancer]]:
 
 - Endoscopically visible duodenal adenomas in >50% of FAP patients; lifetime duodenal cancer risk 3–5% (up to higher in some series)
-- [[upper-endoscopy|EGD]] with **side-viewing duodenoscope** to visualize the ampulla starting age **25–30 years** (Strong/VLow)
+- [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] with **side-viewing duodenoscope** to visualize the ampulla starting age **25–30 years** (Strong/Very Low (VLow))
 - Standard forward-viewing EGD supplemented with side-viewing instrument; random sampling of fundic gland polyps in stomach
 - Frequency determined by **Spigelman staging** of duodenal polyposis (Table 9):
 
@@ -161,13 +161,13 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 | **Dysplasia** — ACG 2015 Table 9 | Mild | Moderate | Severe |
 | **Dysplasia** — *modified* Spigelman, [[asge-2020-fap\|ASGE 2020]] Table 4 | **Low-grade dysplasia** | *not applicable* | **High-grade dysplasia** |
 
-> **What changed:** [[asge-2020-fap|ASGE 2020]] prints a **modified** Spigelman system in which the dysplasia row is re-scored to the current 2-tier dysplasia classification — **LGD = 1 point, HGD = 3 points, no 2-point tier** — replacing ACG 2015's mild/moderate/severe. Since contemporary pathology reports LGD/HGD, use the ASGE mapping (newer source, same tier). Number, size, histology and the stage cut-points (0 = 0; I = 1–4; II = 5–6; III = 7–8; IV = 9–12) are identical in both.
+> **What changed:** [[asge-2020-fap|ASGE 2020]] prints a **modified** Spigelman system in which the dysplasia row is re-scored to the current 2-tier dysplasia classification — **low-grade dysplasia (LGD) = 1 point, HGD = 3 points, no 2-point tier** — replacing ACG 2015's mild/moderate/severe. Since contemporary pathology reports LGD/HGD, use the ASGE mapping (newer source, same tier). Number, size, histology and the stage cut-points (0 = 0; I = 1–4; II = 5–6; III = 7–8; IV = 9–12) are identical in both.
 
 > ⚠ **The polyp-number row has a gap as published.** Both guidelines print number as **`<4` / `5–20` / `>20`**, so **exactly 4 polyps falls between the 1-point and 2-point bands**. Reproduced as printed. (The size row reads `0–4` / `5–10` / `>10` mm, which is continuous.)
 
 - **Why 0–I can be stretched to 5 years:** in the same 10-year follow-up, **stage 0 and I patients rarely progressed and *never* developed invasive cancer** — that, not a change in cut-points, is what justifies the longer ASGE interval. [[asge-2020-fap]]
 
-- **Why stage IV drives surgery:** in a 10-year follow-up study the duodenal cancer risk by *initial* Spigelman stage was **stage II 2.3%, stage III 2.4%, stage IV 36%** — the jump is at IV, not a gradient [[asge-2020-fap]]; and the risk of *reaching* stage IV is **43% by age 60 (95% CI 35.7–50%), 50% by age 70 (95% CI 42.9–57.1%)**
+- **Why stage IV drives surgery:** in a 10-year follow-up study the duodenal cancer risk by *initial* Spigelman stage was **stage II 2.3%, stage III 2.4%, stage IV 36%** — the jump is at IV, not a gradient [[asge-2020-fap]]; and the risk of *reaching* stage IV is **43% by age 60 (95% confidence interval (CI) 35.7–50%), 50% by age 70 (95% CI 42.9–57.1%)**
 - **The score does not cover the ampulla** — Spigelman "does not take into account ampullary lesions and is not validated for the management of isolated ampullary disease" [[asge-2020-fap]], so a normal-stage duodenum does not exclude ampullary disease; the ampulla is assessed separately (see below)
 - Spigelman IV → surgical evaluation; **pancreas-sparing duodenectomy** preferred if no papilla involvement (less morbid than Whipple; Whipple preferred if cancer suspected)
 
@@ -177,7 +177,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Adenomatous gastric polyps in ~10%; confined mainly to antrum but can occur in body/fundus
 - Lifetime risk of [[gastric-adenocarcinoma|gastric cancer]] in FAP ~0.6%
 - Random gastric biopsies at each EGD; surgery reserved for high-grade dysplasia or cancer (Strong/VLow)
-- **Upper-GI start ages differ by syndrome — and the two guidelines differ on FAP/AFAP:**
+- **Upper gastrointestinal (GI) start ages differ by syndrome — and the two guidelines differ on FAP/AFAP:**
 
 | Syndrome | Start — [[acg-2015-hereditary-gi-cancer\|ACG 2015]] Table 10 | Start — [[asge-2020-fap\|ASGE 2020]] Table 6 *(use this)* | Instrument |
 |---|---|---|---|
@@ -203,11 +203,11 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 |---|---|
 | [[gastric-polyps\|Gastric]] adenoma | **1 year** |
 | Gastric **high-grade dysplasia** | **3–6 months** + surgical evaluation |
-| Gastric **polyposis mounds** | Baseline [[endoscopic-ultrasound\|EUS]], then every **3–6 months** |
+| Gastric **polyposis mounds** | Baseline [[endoscopic-ultrasound\|endoscopic ultrasound (EUS)]], then every **3–6 months** |
 | Gastric polyposis mounds **+ HGD** | **Surgery** |
-| **Index small-bowel screening** — [[capsule-endoscopy\|capsule endoscopy]] or MR enterography | At **Spigelman stage III or IV**; every **2–4 years**, or **before duodenectomy** |
+| **Index small-bowel screening** — [[capsule-endoscopy\|capsule endoscopy]] or magnetic resonance (MR) enterography | At **Spigelman stage III or IV**; every **2–4 years**, or **before duodenectomy** |
 
-- These are not in tension with the "no routine deep enteroscopy" statement above: an **index** small-bowel study by capsule/MRE is indicated once the duodenum reaches Spigelman III–IV, whereas routine **deep enteroscopy** is not — different tests answering different questions
+- These are not in tension with the "no routine deep enteroscopy" statement above: an **index** small-bowel study by capsule/magnetic resonance enterography (MRE) is indicated once the duodenum reaches Spigelman III–IV, whereas routine **deep enteroscopy** is not — different tests answering different questions
 
 ### Extraintestinal Surveillance
 
@@ -228,8 +228,8 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 - No routine abdominal imaging recommended for desmoid surveillance
 - Periodic abdominal palpation; work-up for palpable masses
-- Preoperative abdominal CT scan before colectomy may be helpful if desmoids have been an issue in the family
-- NCCN suggests CT/MRI abdomen 1–3 years post-colectomy, then at 5–10-year intervals or if desmoid symptoms occur
+- Preoperative abdominal computed tomography (CT) scan before colectomy may be helpful if desmoids have been an issue in the family
+- National Comprehensive Cancer Network (NCCN) suggests CT/magnetic resonance imaging (MRI) abdomen 1–3 years post-colectomy, then at 5–10-year intervals or if desmoid symptoms occur
 - Most are intraabdominal (mesenteric); can be life-threatening due to bowel/vascular involvement
 
 **Post-surgical surveillance**:
@@ -259,8 +259,8 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 | Procedure | Use when | Trade-off |
 |---|---|---|
-| **Colectomy + ileorectal anastomosis (IRA)** | **<20 rectal** adenomas **and <1,000 colonic** adenomas | Single stage, slightly less morbidity; residual rectal cancer risk (**cumulative rectal cancer 12.1% at 20 y** after IRA); mandatory yearly proctoscopy |
-| **Proctocolectomy + ileal pouch–anal anastomosis (IPAA)** | Severe/profuse adenomas: **>20 rectal** adenomas or **>1,000 colonic** adenomas | Adenomas and cancers still occur in the **anal transition zone and pouch** → lifelong surveillance; some loss of fertility in women and sexual function in men |
+| **Colectomy + IRA** | **<20 rectal** adenomas **and <1,000 colonic** adenomas | Single stage, slightly less morbidity; residual rectal cancer risk (**cumulative rectal cancer 12.1% at 20 y** after IRA); mandatory yearly proctoscopy |
+| **Proctocolectomy + IPAA** | Severe/profuse adenomas: **>20 rectal** adenomas or **>1,000 colonic** adenomas | Adenomas and cancers still occur in the **anal transition zone and pouch** → lifelong surveillance; some loss of fertility in women and sexual function in men |
 
 - Both carry increased bowel frequency and incontinence. A Finnish registry comparison found **improved long-term survival with IPAA** and no difference in short-term outcomes — likely reflecting the long-term rectal cancer risk after IRA [[asge-2020-fap]]
 - APC mutation location may guide surgical choice — mutations in the mutation cluster region correlate with more severe rectal polyposis and may predict future IRA-to-IPAA conversion
@@ -280,20 +280,20 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 ### Chemoprevention
 
-**Sulindac** (NSAID):
+**Sulindac** (nonsteroidal anti-inflammatory drug (NSAID)):
 
 - Demonstrates regression of colonic and rectal adenomas in FAP; useful for rectal surveillance by substantially decreasing adenoma number
 - Cancer prevention is less certain — **NOT a substitute for colectomy**
 - Utility in rectal surveillance; may reduce number of adenomas needing polypectomy
 
-**Celecoxib** (COX-2 inhibitor):
+**Celecoxib** (cyclooxygenase-2 (COX-2) inhibitor):
 
 - Previously FDA-approved for FAP; **no longer available for this indication** in the United States due to cardiovascular safety concerns
 - Had more modest effect in colon than rectum but showed some efficacy for duodenal adenoma regression
 
 **Investigational / duodenal** [[asge-2020-fap]]:
 
-- Dual **COX + EGFR inhibition (sulindac 150 mg BID + erlotinib 75 mg daily)** reduced duodenal polyp burden by **71% at 6 months** in an RCT; erlotinib limited by acne-like rash. NSAIDs alone have minimal duodenal efficacy.
+- Dual **cyclooxygenase (COX) + EGFR inhibition (sulindac 150 mg twice daily (BID) + erlotinib 75 mg daily)** reduced duodenal polyp burden by **71% at 6 months** in a randomized controlled trial (RCT); erlotinib limited by acne-like rash. NSAIDs alone have minimal duodenal efficacy.
 - ASGE advises using chemopreventive agents **only within a tertiary hereditary-cancer center and/or clinical trials**; it remains unproven whether reducing polyp burden lowers overall cancer risk.
 
 ### Management of Extracolonic Manifestations

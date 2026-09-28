@@ -41,7 +41,7 @@ sources: [acg-2023-subepithelial-lesions, asge-2017-subepithelial-lesions, aga-2
 
 ## Definition / Scope
 
-A **subepithelial lesion** is a mass, bulge, or impression that projects into the GI lumen and arises from a nonmucosal layer of the GI tract wall (deep mucosa, muscularis mucosa, submucosa, or muscularis propria), or is extraluminal. Structures adjacent to the GI tract can produce extrinsic compression that mimics SEL during [[upper-endoscopy|endoscopy]] — up to one-third of suspected SEL are extramural on [[endoscopic-ultrasound|EUS]] evaluation.
+A **subepithelial lesion (SEL)** is a mass, bulge, or impression that projects into the gastrointestinal (GI) lumen and arises from a nonmucosal layer of the GI tract wall (deep mucosa, muscularis mucosa, submucosa, or muscularis propria), or is extraluminal. Structures adjacent to the GI tract can produce extrinsic compression that mimics SEL during [[upper-endoscopy|endoscopy]] — up to one-third of suspected SEL are extramural on [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] evaluation.
 
 **Frequency and presentation:** found in **1 of every 300 endoscopies**; **two-thirds are gastric**. Most are small and incidental. When symptomatic, the commonest symptoms are **GI bleeding and abdominal pain**; rarely bowel obstruction or a presentation with metastasis ([[aga-2022-subepithelial-lesions]]).
 
@@ -56,11 +56,11 @@ A **subepithelial lesion** is a mass, bulge, or impression that projects into th
 | 4th | **Muscularis propria (MP)** | Hypoechoic |
 | 5th | Serosa / adventitia | — |
 
-Numbered from the lumen outward ([[aga-2022-subepithelial-lesions]]). Layer of origin narrows the differential more than any other single EUS feature and **determines which resection technique is feasible** — 2nd-layer lesions are commonly lipomas, carcinoids, or pancreatic rests; **4th-layer lesions are commonly GIST or leiomyoma**.
+Numbered from the lumen outward ([[aga-2022-subepithelial-lesions]]). Layer of origin narrows the differential more than any other single EUS feature and **determines which resection technique is feasible** — 2nd-layer lesions are commonly lipomas, carcinoids, or pancreatic rests; **4th-layer lesions are commonly gastrointestinal stromal tumor (GIST) or leiomyoma**.
 
-**Exception — lipoma:** Yellow appearance, soft "pillow sign" (deforms with closed biopsy forceps), tent sign, usually isolated. CT shows Hounsfield units identical to fat. Diagnosable without EUS or tissue acquisition. Specificity 99% on endoscopy, sensitivity only 40%.
+**Exception — lipoma:** Yellow appearance, soft "pillow sign" (deforms with closed biopsy forceps), tent sign, usually isolated. Computed tomography (CT) shows Hounsfield units identical to fat. Diagnosable without EUS or tissue acquisition. Specificity 99% on endoscopy, sensitivity only 40%.
 
-**Exception — pancreatic rest (ectopic pancreas):** Gastric antrum with central umbilication corresponding to a draining duct (**present in 90%**), umbilication **6–10 mm** in diameter; **>90% lie in the antrum within 5 cm of the pylorus**, **2–6 cm from the pylorus along the greater curvature**, in the **3–6 o'clock position**. Heterogeneous "pancreas-like" echotexture on EUS, with anechoic cystic or tubular ductal structures inside the lesion in one-third. Often diagnosed by EUS appearance ± FNA/FNB, though endoscopic appearance alone is unreliable.
+**Exception — pancreatic rest (ectopic pancreas):** Gastric antrum with central umbilication corresponding to a draining duct (**present in 90%**), umbilication **6–10 mm** in diameter; **>90% lie in the antrum within 5 cm of the pylorus**, **2–6 cm from the pylorus along the greater curvature**, in the **3–6 o'clock position**. Heterogeneous "pancreas-like" echotexture on EUS, with anechoic cystic or tubular ductal structures inside the lesion in one-third. Often diagnosed by EUS appearance ± fine-needle aspiration (FNA)/fine-needle biopsy (FNB), though endoscopic appearance alone is unreliable.
 
 ---
 
@@ -96,21 +96,21 @@ Numbered from the lumen outward ([[aga-2022-subepithelial-lesions]]). Layer of o
 | Anechoic (cystic) | Duplication cyst, lymphangioma, varices — all fluid-filled |
 | Mixed/heterogeneous with "pancreas-like" appearance | Pancreatic rest; also malignant mesenchymal tumors and GI wall abscess |
 | Hypoechoic, SM layer | Neuroendocrine tumor (carcinoid), granular cell tumor |
-| Hypoechoic, any layer (wider AGA 2022 list) | Mesenchymal tumor, granular cell tumor, NET, metastasis, lymphoma, **infiltrative disease, inflammation**, and **endometriosis on rectosigmoid EUS** |
+| Hypoechoic, any layer (wider American Gastroenterological Association [AGA] 2022 list) | Mesenchymal tumor, granular cell tumor, NET, metastasis, lymphoma, **infiltrative disease, inflammation**, and **endometriosis on rectosigmoid EUS** |
 
 ### Entity-Specific EUS / IHC Features (ASGE 2017)
 
 | Lesion | EUS layer | EUS appearance | Distinguishing marker / clue |
 |---|---|---|---|
 | [[gastrointestinal-stromal-tumor\|GIST]] | 4th (rarely 2nd/3rd) | Hypoechoic; smooth round if low-risk | CD117+ (95%), DOG1+ (use when CD117−); spindle 70% / epithelioid 20% / mixed 10% |
-| Leiomyoma | 2nd, 3rd, or 4th | Hypoechoic, well-circumscribed; mostly esophageal | CD117−/CD34−, **desmin+ / SMA+** (separates from GIST) |
+| Leiomyoma | 2nd, 3rd, or 4th | Hypoechoic, well-circumscribed; mostly esophageal | CD117−/CD34−, **desmin+ / smooth muscle actin (SMA)+** (separates from GIST) |
 | Granular cell tumor | 2nd or 3rd | Hypoechoic, heterogeneous; mostly esophageal "submucosal pill" | Schwann-cell origin, **S-100+**; malignancy rare (>4 cm) |
 | Glomus tumor | 3rd & 4th | Hypo-/hyperechoic, internal hyperechoic foci (calcification), prominent Doppler (hypervascular); usually antrum | Actin+/vimentin+, CD117−/chromogranin−/CEA−/NSE− |
 | Inflammatory fibroid polyp | 3rd or 4th | Hypo- to hyperechoic, indistinct margin, homogeneous; ulcerated overlying mucosa, 2–5 cm | Sessile solitary polyp |
 | Brunner's gland hyperplasia | 2nd & 3rd | Hyperechoic with anechoic areas (ducts), smooth margin | Duodenal bulb, usually single |
 | Lymphangioma | 3rd | Anechoic with internal septa | More common in intestine; easily compressed |
 | Varices | 3rd | Anechoic, serpiginous, **Doppler+** | Can occur in duodenum/rectum even without esophagogastric varices |
-| Metastasis | Any/all | Hypoechoic, heterogeneous | Stomach body/fundus, central depression; **endoscopic biopsy diagnostic >90%** (breast, lung, esophagus, RCC, melanoma) |
+| Metastasis | Any/all | Hypoechoic, heterogeneous | Stomach body/fundus, central depression; **endoscopic biopsy diagnostic >90%** (breast, lung, esophagus, renal cell carcinoma [RCC], melanoma) |
 | Lymphoma | 2nd, 3rd, or 4th | Hypoechoic | — |
 
 **Pillow sign caveat:** see [[#Definition / Scope]] — 99% specific / 40% sensitive ([[acg-2023-subepithelial-lesions]]); [[asge-2017-subepithelial-lesions]] quotes 98% specific, "not very sensitive." **Duplication cyst:** anechoic, 3–5 layer wall ("duplication" of gut wall), submucosal or extrinsic — **avoid FNA when clearly anechoic** (infection risk); if FNA needed for a solid/hypoechoic component, use [[antibiotic-prophylaxis-endoscopy|antibiotic prophylaxis]].
@@ -124,7 +124,7 @@ Numbered from the lumen outward ([[aga-2022-subepithelial-lesions]]). Layer of o
 - Document lesion location, size estimate, and surface characteristics
 - If pillow sign positive + yellow color + no firmness → lipoma; confirm with CT if large (fat density). **No EUS or tissue needed**
 - If extrinsic compression suspected (moves with respiration) → EUS to confirm extrinsic vs. intramural origin
-- **Do not perform bite-on-bite biopsies before EUS** ([[acg-2023-subepithelial-lesions]]). [[aga-2022-subepithelial-lesions|AGA 2022]] sequences it the other way — forceps bite-on-bite, deep-well, or tunnel biopsies may be done first and sometimes establish the diagnosis (BPA 1), with EUS reserved for indeterminate lesions or non-diagnostic forceps tissue (BPA 2). Follow ACG 2023 as the more recent guidance; the trade-off AGA accepts is that biopsy-first can save an EUS, the trade-off ACG avoids is fibrosis and bleeding before the lesion is characterized
+- **Do not perform bite-on-bite biopsies before EUS** ([[acg-2023-subepithelial-lesions]]). [[aga-2022-subepithelial-lesions|AGA 2022]] sequences it the other way — forceps bite-on-bite, deep-well, or tunnel biopsies may be done first and sometimes establish the diagnosis (best practice advice [BPA] 1), with EUS reserved for indeterminate lesions or non-diagnostic forceps tissue (BPA 2). Follow American College of Gastroenterology (ACG) 2023 as the more recent guidance; the trade-off AGA accepts is that biopsy-first can save an EUS, the trade-off ACG avoids is fibrosis and bleeding before the lesion is characterized
 
 ### Step 2 — EUS Evaluation (preferred for all nonlipomatous SEL)
 
@@ -148,7 +148,7 @@ EUS imaging alone has only 43–50% diagnostic accuracy for solid nonlipomatous 
 
 **Preferred method:** EUS-FNB alone OR EUS-FNA with rapid on-site evaluation (ROSE)
 
-- FNB alone: ~90% accuracy in RCT data; higher histologic core yield with fewer passes
+- FNB alone: ~90% accuracy in randomized controlled trial (RCT) data; higher histologic core yield with fewer passes
 - FNA + ROSE: approaches FNB accuracy when ROSE is available
 - FNA without ROSE: lower yield; not preferred
 - If using FNA needles: 19-gauge preferred over 22-gauge for fourth-layer (MP) gastric lesions (92% vs. 71% yield)
@@ -157,7 +157,7 @@ EUS imaging alone has only 43–50% diagnostic accuracy for solid nonlipomatous 
 
 | Layer of origin | Acceptable sampling routes |
 |---|---|
-| **Submucosa (3rd)** | Tunnel or deep-well biopsies · EUS-FNA · EUS-FNB · unroofing or endoscopic submucosal resection (BPA 3) |
+| **Submucosa (3rd)** | Tunnel or deep-well biopsies · EUS-FNA · EUS-FNB · unroofing or endoscopic submucosal resection (ESMR; BPA 3) |
 | **Muscularis propria (4th)** | **Must be sampled, preferably FNB or FNA** (BPA 4) — the question being answered is GIST vs leiomyoma, which needs structural assessment plus immunostaining to grade malignant potential |
 
 **Size drives FNA/FNB accuracy** — the single most useful number when deciding whether to sample or surveil:
@@ -175,12 +175,12 @@ Overall FNA/FNB accuracy for SEL spans **46%–93%**; FNB alone **75%–100%**, 
 **If EUS-FNA/FNB is nondiagnostic:** Unroofing technique (mucosal incision-assisted biopsy [MIAB] or submucosal tunnel biopsy)
 
 - Diagnostic yield 89–100%
-- Caution: submucosal fibrosis from unroofing can complicate subsequent endoscopic resection (e.g., STER)
+- Caution: submucosal fibrosis from unroofing can complicate subsequent endoscopic resection (e.g., submucosal tunneling endoscopic resection [STER])
 - Requires vascular/extrinsic nature to be excluded by EUS first
 
 **No fixed lower size limit** for FNA/FNB attempts; manage small SEL case-by-case based on location, accessibility, clinical history, and resection feasibility.
 
-**Tissue-acquisition technique yields (ASGE 2017):**
+**Tissue-acquisition technique yields (American Society for Gastrointestinal Endoscopy [ASGE] 2017):**
 
 | Technique | Diagnostic yield | Notes |
 |---|---|---|
@@ -213,7 +213,7 @@ Stylet, suction, fanning, and ROSE have **unproven** incremental yield. Jumbo/pa
 |---|---|
 | Endoscopic appearance of **lipoma or pancreatic rest** *and* **normal mucosal biopsies** | **No further evaluation and no surveillance** (BPA 7) — both conditions must hold |
 | **SEL arising from MP, <2 cm** | **Consider EUS surveillance** (BPA 8) — i.e. before a tissue diagnosis exists |
-| **Indeterminate pathology** after sampling | Consider repeat and/or surveillance [[upper-endoscopy\|EGD]]/EUS |
+| **Indeterminate pathology** after sampling | Consider repeat and/or surveillance [[upper-endoscopy\|esophagogastroduodenoscopy (EGD)]]/EUS |
 
 AGA's BPA-8 statement box is written for all MP-derived SEL; the body text of the same document restricts it to **gastric** MP lesions, and every other statement in the document treats small-intestinal lesions as surgical. Small-bowel MP lesions should not be surveilled on the strength of BPA 8.
 
@@ -223,7 +223,7 @@ AGA's BPA-8 statement box is written for all MP-derived SEL; the body text of th
 
 | Test | Role | Notes |
 |---|---|---|
-| [[endoscopic-ultrasound]] (EUS) | First-line for nonlipomatous SEL | Determines layer of origin, echogenicity, size, margins; superior to CT for small lesions |
+| [[endoscopic-ultrasound\|EUS]] | First-line for nonlipomatous SEL | Determines layer of origin, echogenicity, size, margins; superior to CT for small lesions |
 | EUS-FNB | Preferred tissue acquisition | Higher histologic yield, fewer passes vs. FNA alone; 73–84% diagnostic accuracy |
 | EUS-FNA + ROSE | Preferred if FNB unavailable | Approaches FNB accuracy when ROSE is used |
 | Unroofing (MIAB / submucosal tunnel biopsy) | Rescue after nondiagnostic FNA/FNB | 89–100% yield; may complicate future endoscopic resection |
@@ -263,7 +263,7 @@ Presence of ≥2 of: irregular border, echogenic foci, cystic spaces → maligna
 
 ### GIST
 
-*Full disease script: [[gastrointestinal-stromal-tumor|GIST]] — KIT/PDGFRA/SDH mutational testing, risk stratification, and TKI therapy.*
+*Full disease script: [[gastrointestinal-stromal-tumor|GIST]] — KIT/PDGFRA/SDH mutational testing, risk stratification, and tyrosine kinase inhibitor (TKI) therapy.*
 
 | Size | Location | Action |
 |---|---|---|
@@ -274,7 +274,7 @@ Presence of ≥2 of: irregular border, echogenic foci, cystic spaces → maligna
 | Any size | Nongastric (esophageal, small bowel, colorectal) | Resect |
 | Large (especially >5 cm) | Any | Consider neoadjuvant imatinib after tissue confirmation before surgical resection |
 
-**Malignant potential by size × mitotic rate × site — one home: [[gastrointestinal-stromal-tumor]].** That page carries the current NCCN version of the AFIP/Miettinen table with its CAP risk strata, and records where the older [[asge-2017-subepithelial-lesions|ASGE 2017]] bands differ. Not reproduced here — the stratum drives adjuvant TKI therapy, which is a disease-script decision.
+**Malignant potential by size × mitotic rate × site — one home: [[gastrointestinal-stromal-tumor]].** That page carries the current National Comprehensive Cancer Network (NCCN) version of the Armed Forces Institute of Pathology (AFIP)/Miettinen table with its College of American Pathologists (CAP) risk strata, and records where the older [[asge-2017-subepithelial-lesions|ASGE 2017]] bands differ. Not reproduced here — the stratum drives adjuvant TKI therapy, which is a disease-script decision.
 
 What the SEL workup needs from it:
 
@@ -283,7 +283,7 @@ What the SEL workup needs from it:
 
 ### Esophageal / GEJ MP-Layer SEL (GIST or Leiomyoma)
 
-- **STER** (submucosal tunneling endoscopic resection) or **thoracoscopic enucleation** — comparable en bloc resection rates
+- **STER** or **thoracoscopic enucleation** — comparable en bloc resection rates
 - STER advantage: shorter procedure time, shorter hospital stay, lower cost
 - STER limitation: transverse diameter ≥3.5 cm → higher technical difficulty and piecemeal resection risk
 
@@ -291,12 +291,12 @@ What the SEL workup needs from it:
 
 ### Gastric Neuroendocrine Tumors (gNET)
 
-*Full disease script: [[gastroenteropancreatic-neuroendocrine-tumors|gastroenteropancreatic NETs]] — WHO grading, gastric types 1/2/3, SSTR-PET, and systemic therapy.*
+*Full disease script: [[gastroenteropancreatic-neuroendocrine-tumors|gastroenteropancreatic NETs]] — World Health Organization (WHO) grading, gastric types 1/2/3, somatostatin receptor positron emission tomography (SSTR-PET), and systemic therapy.*
 
 | Type | Background | Behavior | Management |
 |---|---|---|---|
-| Type 1 | [[atrophic-gastritis\|Atrophic gastritis]] → hypergastrinemia (antral G cells) | Indolent; multifocal common | **EMR or ESD** for prominent tumors ≤10 mm — no preference (Rec 9). Comparative data favor **ESD** on margins: R0 **95% (ESD) vs 83% (EMR)** (P = 0.17, NS) and **lower vertical-margin involvement, 3% (ESD) vs 17% (EMR)** (P = 0.04); a smaller series found 0% vs 67%. ACG's reasoning for making no preference: the **indolent nature** of type 1 gNET makes it unclear whether ESD's higher R0 is clinically meaningful, and EMR has significantly shorter procedure time |
-| Type 2 | MEN-1 syndrome → hypergastrinemia | Low metastatic rate; multifocal | Endoscopic resection for debulking or bleeding control; EMR vs. ESD per local expertise |
+| Type 1 | [[atrophic-gastritis\|Atrophic gastritis]] → hypergastrinemia (antral G cells) | Indolent; multifocal common | **Endoscopic mucosal resection (EMR) or endoscopic submucosal dissection (ESD)** for prominent tumors ≤10 mm — no preference (Rec 9). Comparative data favor **ESD** on margins: R0 **95% (ESD) vs 83% (EMR)** (P = 0.17, not significant [NS]) and **lower vertical-margin involvement, 3% (ESD) vs 17% (EMR)** (P = 0.04); a smaller series found 0% vs 67%. ACG's reasoning for making no preference: the **indolent nature** of type 1 gNET makes it unclear whether ESD's higher R0 is clinically meaningful, and EMR has significantly shorter procedure time |
+| Type 2 | Multiple endocrine neoplasia type 1 (MEN-1) syndrome → hypergastrinemia | Low metastatic rate; multifocal | Endoscopic resection for debulking or bleeding control; EMR vs. ESD per local expertise |
 | Type 3 | Sporadic; no hypergastrinemia | More aggressive | ESD preferred for small (<1 cm), low-grade, no lymphadenopathy; positive margins require surgical resection |
 
 **Size cut-points and intervals ([[aga-2022-subepithelial-lesions]]):**
@@ -314,7 +314,7 @@ What the SEL workup needs from it:
   - **Band-ligation EMR vs ESD:** band EMR R0 **96–100% vs 54–75%** for ESD (statistically higher, 2 studies, n=159) — band EMR draws up more deep submucosal tissue (speculative mechanism)
   - Underwater EMR: equivalent to ESD in R0 rate with shorter procedure time
 - 11–19 mm → more aggressive approach warranted; ≥20 mm → surgical evaluation
-- **After resection ([[aga-2022-subepithelial-lesions]]):** incidentally found, **completely resected <1 cm → no further surveillance**. **1–2 cm** → endoscopic techniques or transanal surgery if **T1 without nodal involvement**, then surveil with endoscopy **and EUS or MRI at 6 and 12 months**
+- **After resection ([[aga-2022-subepithelial-lesions]]):** incidentally found, **completely resected <1 cm → no further surveillance**. **1–2 cm** → endoscopic techniques or transanal surgery if **T1 without nodal involvement**, then surveil with endoscopy **and EUS or magnetic resonance imaging (MRI) at 6 and 12 months**
 - EUS for lymphadenopathy staging: not mandatory for small (<1 cm) incidental rectal NETs found at [[colonoscopy]] — primary excision often performed at time of discovery
 
 ### Duodenal NETs
@@ -355,8 +355,8 @@ Techniques are classed **exposed vs non-exposed** by whether the MP is breached 
 |---|---|---|---|---|
 | ESMR (ESMR-C cap, ESMR-L ligation) | Non-exposed | Mucosal/submucosal lesions | **≤20 mm** | ESMR-L: band/endoloop then snare; **bleeding 4%–13%, perforation 5%**; **caution in duodenum and for MP lesions** (perforation/spillage) |
 | [[endoscopic-submucosal-dissection\|ESD]] | Exposed | Submucosal lesions; ideal when MP is **not** involved | Site/histology-specific oncologic limits; **muscle involvement <2 cm** | Gastric MP ESD complete resection ~92%, perforation ~14% (managed endoscopically); limited for >5 cm (perforation up to 19%). Requires suturing or over-the-scope clip skills. Best where the knife and closure are reachable — esophagus, gastric body, rectum; duodenum only in selected patients and expert hands |
-| STER (submucosal tunneling endoscopic resection) | Non-exposed | MP lesions; esophagus/cardia/proximal fundus, where ESD access is poor | **Difficult >3–4 cm** | Mucosal incision ≥5 cm proximal; preserves mucosa; en bloc 78–100%; adverse events 9.4–33%. In 733 MP-derived SELs resected by ESD or STER: **R0 97.1%**, mean size 1.7 cm (1–4 cm), **11 patients required surgery** for adverse events |
-| [[endoscopic-full-thickness-resection\|EFTR/FTR]] | Exposed | Lesions involving MP and/or extending into the extraluminal space | **FTRD device: must fit the 20-mm cap** | Close-and-resect (clip then snare over the clip). Must be able to reach the lesion and maneuver it into the cap. Upper-GI experience limited — duodenal FTRD series: **technical success 85%, R0 63%**. Requires secure defect closure; hybrid endoscopic-laparoscopic variant for small GISTs not needing lymphadenectomy |
+| STER | Non-exposed | MP lesions; esophagus/cardia/proximal fundus, where ESD access is poor | **Difficult >3–4 cm** | Mucosal incision ≥5 cm proximal; preserves mucosa; en bloc 78–100%; adverse events 9.4–33%. In 733 MP-derived SELs resected by ESD or STER: **R0 97.1%**, mean size 1.7 cm (1–4 cm), **11 patients required surgery** for adverse events |
+| [[endoscopic-full-thickness-resection\|endoscopic full-thickness resection (EFTR)/full-thickness resection (FTR)]] | Exposed | Lesions involving MP and/or extending into the extraluminal space | **Full-thickness resection device (FTRD): must fit the 20-mm cap** | Close-and-resect (clip then snare over the clip). Must be able to reach the lesion and maneuver it into the cap. Upper-GI experience limited — duodenal FTRD series: **technical success 85%, R0 63%**. Requires secure defect closure; hybrid endoscopic-laparoscopic variant for small GISTs not needing lymphadenectomy |
 
 **Exposed techniques in the esophagus or duodenum** can cause early hemodynamic and respiratory instability from the intended perforation; failure to close the defect promptly causes significant morbidity. Evidence for ESD/STER in SEL is limited to retrospective single-center studies and case series.
 

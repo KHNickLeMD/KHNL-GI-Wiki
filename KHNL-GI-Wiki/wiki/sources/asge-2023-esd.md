@@ -22,7 +22,7 @@ sources: []
 
 ## Summary
 
-This guideline positions **endoscopic submucosal dissection (ESD)** versus EMR for early esophageal squamous cell carcinoma (ESCC), early esophageal adenocarcinoma (EAC), and early [[gastric-adenocarcinoma]] (GAC) and their precursors — favoring ESD (en-bloc resection) for larger lesions and discouraging surgery when endoscopic cure is feasible.
+This guideline positions **endoscopic submucosal dissection (ESD)** versus endoscopic mucosal resection (EMR) for early esophageal squamous cell carcinoma (ESCC), early esophageal adenocarcinoma (EAC), and early [[gastric-adenocarcinoma]] (GAC) and their precursors — favoring ESD (en-bloc resection) for larger lesions and discouraging surgery when endoscopic cure is feasible.
 
 ---
 
@@ -42,7 +42,7 @@ This guideline positions **endoscopic submucosal dissection (ESD)** versus EMR f
 | **GAC** | Well- or moderately differentiated early-stage GAC, intestinal type, **measuring under 30 mm** | **We suggest against surgery** |
 | **GAC** | **Poorly differentiated** early-stage GAC (**any size**) | **We suggest surgical evaluation** over endoscopic approaches |
 
-> ⚠ **Read the size thresholds from the table, not from a summary.** The guideline **makes no recommendation** for GAC <20 mm or ESCC ≤15 mm (they are not "either ESD or EMR"), prefers ESD in the **GAC 20–30 mm** band, and splits EAC at **>20 mm / ≤20 mm** (Table 2). The EAC threshold is the one that matters clinically — it is what divides ASGE 2023 from [[aga-2024-barretts-eet]], which selects by morphology and prior failure rather than by size (see [[barretts-esophagus]]).
+> ⚠ **Read the size thresholds from the table, not from a summary.** The guideline **makes no recommendation** for GAC <20 mm or ESCC ≤15 mm (they are not "either ESD or EMR"), prefers ESD in the **GAC 20–30 mm** band, and splits EAC at **>20 mm / ≤20 mm** (Table 2). The EAC threshold is the one that matters clinically — it is what divides American Society for Gastrointestinal Endoscopy (ASGE) 2023 from [[aga-2024-barretts-eet]], which selects by morphology and prior failure rather than by size (see [[barretts-esophagus]]).
 >
 > **Abstract vs Table 2 wording differ within the source itself.** The abstract says that for ESCC "similar lesions ≤15 mm, the ASGE suggests **either ESD or EMR**," while Table 2 says the ASGE "**does not make a recommendation** for or against either." Both are reproduced here; the table is the formal recommendation set.
 

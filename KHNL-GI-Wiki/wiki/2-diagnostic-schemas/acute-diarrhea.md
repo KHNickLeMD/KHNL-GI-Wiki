@@ -46,7 +46,7 @@ Acute diarrhea is defined as an increase in stool frequency or looseness above t
 - **Persistent diarrhea:** 14–30 days
 - **[[chronic-diarrhea|Chronic diarrhea]]:** >30 days
 
-> **Note on competing temporal definitions.** The contemporaneous [[idsa-2017-infectious-diarrhea|IDSA 2017 infectious diarrhea guideline]] uses a slightly different (WHO-based) framework: **acute <7 days**, **prolonged 7–13 days**, **persistent 14–29 days**, and **chronic ≥30 days**, and defines diarrhea as ≥3 loose/liquid stools per 24 h (loose "pasty" stools in breastfed infants are not diarrhea). The ACG cutoffs above are used elsewhere on this page; both schemes are widely cited. [[idsa-2017-infectious-diarrhea]]
+> **Note on competing temporal definitions.** The contemporaneous [[idsa-2017-infectious-diarrhea|Infectious Diseases Society of America (IDSA) 2017 infectious diarrhea guideline]] uses a slightly different (World Health Organization [WHO]-based) framework: **acute <7 days**, **prolonged 7–13 days**, **persistent 14–29 days**, and **chronic ≥30 days**, and defines diarrhea as ≥3 loose/liquid stools per 24 h (loose "pasty" stools in breastfed infants are not diarrhea). The American College of Gastroenterology (ACG) cutoffs above are used elsewhere on this page; both schemes are widely cited. [[idsa-2017-infectious-diarrhea]]
 
 ### Severity Classification (ACG 2016)
 
@@ -58,8 +58,8 @@ Acute diarrhea is defined as an increase in stool frequency or looseness above t
 
 ### Stool Character Classification
 
-- **Watery diarrhea** — suggests noninflammatory, secretory, or osmotic etiology; typically viral or toxin-mediated bacterial (ETEC, EPEC, EAEC)
-- **Dysenteric diarrhea** — passage of grossly bloody stools; suggests invasive/inflammatory bacterial pathogen (Shigella, Campylobacter, STEC, Salmonella, Entamoeba)
+- **Watery diarrhea** — suggests noninflammatory, secretory, or osmotic etiology; typically viral or toxin-mediated bacterial (enterotoxigenic *E. coli* [ETEC], enteropathogenic *E. coli* [EPEC], enteroaggregative *E. coli* [EAEC])
+- **Dysenteric diarrhea** — passage of grossly bloody stools; suggests invasive/inflammatory bacterial pathogen (Shigella, Campylobacter, Shiga toxin–producing *E. coli* [STEC], Salmonella, Entamoeba)
 
 ---
 
@@ -75,12 +75,12 @@ Acute diarrhea is defined as an increase in stool frequency or looseness above t
 
 #### Bacterial
 
-- [[enterotoxigenic-e-coli]] (ETEC) — most common cause of traveler's diarrhea worldwide; watery diarrhea; heat-labile/heat-stable toxins
+- [[enterotoxigenic-e-coli|ETEC]] — most common cause of traveler's diarrhea worldwide; watery diarrhea; heat-labile/heat-stable toxins
 - [[campylobacter-infection]] — most common bacterial cause of diarrhea in developed countries; febrile, may be bloody; fluoroquinolone resistance high in Southeast Asia/India
 - [[salmonella-infection]] — non-typhoidal; febrile, may be bloody; prolonged carriage; antibiotic use may extend carriage
-- [[shigellosis]] — dysenteric; very low inoculum (10–200 organisms); azithromycin first-line (ampicillin/TMP-SMX resistance common; *S. sonnei* azithromycin resistance emerging)
-- Enterohemorrhagic *E. coli* / STEC (O157:H7 and others) — bloody diarrhea; **do NOT treat with antibiotics** (risk of HUS)
-- Enteroaggregative *E. coli* (EAEC) — persistent watery diarrhea in travelers
+- [[shigellosis]] — dysenteric; very low inoculum (10–200 organisms); azithromycin first-line (ampicillin/trimethoprim-sulfamethoxazole [TMP-SMX] resistance common; *S. sonnei* azithromycin resistance emerging)
+- Enterohemorrhagic *E. coli* / STEC (O157:H7 and others) — bloody diarrhea; **do NOT treat with antibiotics** (risk of hemolytic uremic syndrome [HUS])
+- EAEC — persistent watery diarrhea in travelers
 - *Vibrio cholerae* — cholera; profuse watery ("rice-water") diarrhea; in travelers to endemic areas
 - *Yersinia enterocolitica* — mesenteric adenitis, pseudoappendicitis syndrome
 - *Aeromonas*, *Plesiomonas*
@@ -97,9 +97,9 @@ Acute diarrhea is defined as an increase in stool frequency or looseness above t
 ### Non-infectious Mimics
 
 - [[clostridioides-difficile]] — postantibiotic; healthcare-associated; always test if recent antibiotics (covered by separate ACG guideline [[acg-2021-cdiff]])
-- [[irritable-bowel-syndrome]] — particularly [[postinfectious-ibs|postinfectious IBS]] — onset after acute gastroenteritis; Rome IV/V criteria
-- [[inflammatory-bowel-disease|Inflammatory bowel disease]] ([[crohns-disease]], [[ulcerative-colitis]]) — flare or new diagnosis
-- [[microscopic-colitis|Microscopic colitis]] — watery, non-bloody; older women; NSAIDs/[[proton-pump-inhibitors|PPIs]]/SSRIs
+- [[irritable-bowel-syndrome|Irritable bowel syndrome (IBS)]] — particularly [[postinfectious-ibs|postinfectious IBS]] — onset after acute gastroenteritis; Rome IV/V criteria
+- [[inflammatory-bowel-disease|Inflammatory bowel disease (IBD)]] ([[crohns-disease]], [[ulcerative-colitis]]) — flare or new diagnosis
+- [[microscopic-colitis|Microscopic colitis]] — watery, non-bloody; older women; nonsteroidal anti-inflammatory drugs (NSAIDs)/[[proton-pump-inhibitors|proton pump inhibitors (PPIs)]]/selective serotonin reuptake inhibitors (SSRIs)
 - [[celiac-disease|Celiac disease]] — malabsorptive; persistent
 - Medication-induced diarrhea (antibiotics, metformin, colchicine)
 - [[colon-ischemia|Ischemic colitis]] — sudden onset bloody diarrhea; elderly with vascular disease
@@ -115,7 +115,7 @@ The ACG 2016 management algorithm (Figure 1) stratifies by stool character, illn
 
 ### Step 1: All Cases — Oral Hydration
 
-All patients: hydrate with fluids and salt (water, juices, sports drinks, soups, saltine crackers, broiled/baked foods). Balanced ORS preferred for the elderly with severe diarrhea or any traveler with cholera-like watery diarrhea.
+All patients: hydrate with fluids and salt (water, juices, sports drinks, soups, saltine crackers, broiled/baked foods). Balanced oral rehydration solution (ORS) preferred for the elderly with severe diarrhea or any traveler with cholera-like watery diarrhea.
 
 ### Step 2: Stool Character Branch
 
@@ -185,8 +185,8 @@ Antibiotic sensitivity testing is NOT recommended routinely for individual patie
 
 - **Stool testing** (for [[salmonella-infection|*Salmonella*]], [[shigellosis|*Shigella*]], [[campylobacter-infection|*Campylobacter*]], *Yersinia*, [[clostridioides-difficile|*C. difficile*]], and STEC) is indicated with fever, bloody or mucoid stools, severe abdominal cramping/tenderness, or signs of sepsis (IDSA Rec 8). Bloody stools are **not** an expected manifestation of *C. difficile*.
 - **Blood cultures** should be obtained in infants <3 months, anyone with septicemia signs or suspected enteric fever, immunocompromised hosts, hemolytic anemia, and febrile travelers from enteric-fever-endemic areas (IDSA Rec 9).
-- **Tests that should NOT be used to establish etiology:** serologic tests, peripheral WBC count and differential, fecal leukocyte examination, and stool lactoferrin (IDSA Rec 20–22). Fecal calprotectin — insufficient data in acute infectious diarrhea.
-- **Molecular caveat:** multiplex NAAT/GI panels detect nucleic acid, not necessarily viable organisms; positive bacterial results requiring public-health reporting should be reflex-cultured for subtyping/susceptibility (IDSA Rec 14–15).
+- **Tests that should NOT be used to establish etiology:** serologic tests, peripheral white blood cell (WBC) count and differential, fecal leukocyte examination, and stool lactoferrin (IDSA Rec 20–22). Fecal calprotectin — insufficient data in acute infectious diarrhea.
+- **Molecular caveat:** multiplex nucleic acid amplification test (NAAT)/gastrointestinal (GI) panels detect nucleic acid, not necessarily viable organisms; positive bacterial results requiring public-health reporting should be reflex-cultured for subtyping/susceptibility (IDSA Rec 14–15).
 
 #### Enteric (Typhoid/Paratyphoid) Fever
 
@@ -198,7 +198,7 @@ Suspect in a febrile traveler (diarrhea often absent) from an endemic area, or w
 
 - **Stool bacterial culture:** Differential media for *Salmonella*, *Shigella*, *Campylobacter*, STEC; results in 48–72 h; detects only cultured targets; required for public health subtyping.
 - **Stool microscopy ± special stains/immunofluorescence:** For *Giardia*, *Cryptosporidium*, *E. histolytica*, *Cyclospora*; labor-intensive; requires expertise.
-- **Stool antigen tests:** *Giardia* EIA, *Cryptosporidium* EIA; more sensitive than microscopy for those organisms.
+- **Stool antigen tests:** *Giardia* enzyme immunoassay (EIA), *Cryptosporidium* EIA; more sensitive than microscopy for those organisms.
 - **Stool toxin EIA:** For STEC (Shiga toxin); use to screen before culture; do not use antibiotics if STEC positive.
 
 #### Culture-Independent (Molecular)
@@ -232,11 +232,11 @@ The following features should prompt microbiologic assessment, consideration of 
 - **Severe dehydration** — total disability, orthostatic hypotension, inability to maintain oral fluids
 - **Duration ≥72 h without improvement** — consider microbiologic assessment
 - **Persistent symptoms 14–30 days** — full stool workup; consider colonoscopy if negative
-- **Immunocompromised host** (HIV, transplant, immunosuppressive therapy) — lower threshold for workup and treatment; [[cryptosporidiosis]] and [[entamoeba-histolytica-infection]] are particular concerns. In AIDS with persistent diarrhea, broaden testing to *Cyclospora*, *Cystoisospora*, microsporidia, *Mycobacterium avium* complex, and cytomegalovirus ([[idsa-2017-infectious-diarrhea]], Rec 12) — see [[hiv-aids-related-diarrhea]]
+- **Immunocompromised host** (human immunodeficiency virus [HIV], transplant, immunosuppressive therapy) — lower threshold for workup and treatment; [[cryptosporidiosis]] and [[entamoeba-histolytica-infection]] are particular concerns. In acquired immunodeficiency syndrome (AIDS) with persistent diarrhea, broaden testing to *Cyclospora*, *Cystoisospora*, microsporidia, *Mycobacterium avium* complex, and cytomegalovirus ([[idsa-2017-infectious-diarrhea]], Rec 12) — see [[hiv-aids-related-diarrhea]]
 - **Elderly patients** — higher risk of dehydration and complications; balanced ORS preferred
 - **High-risk occupations** (food handler, healthcare worker, daycare) — microbiologic assessment and public health reporting required
 - **Outbreak setting** — requires culture-based assessment for public health subtyping (Recommendation 1, Strong/Low)
-- **Suspected STEC** (bloody diarrhea, outbreak setting, hamburger exposure, hemolytic uremic syndrome signs: thrombocytopenia, microangiopathic hemolytic anemia, renal failure) — **NO antibiotics** for O157 or Shiga toxin 2 producers (HUS risk), arrange culture with Shiga toxin testing (sorbitol-MacConkey/chromogenic agar for O157), nephrology consultation. Per [[idsa-2017-infectious-diarrhea|IDSA 2017]] (Rec 23), frequently monitor hemoglobin, platelets, electrolytes, BUN/creatinine, and examine a peripheral smear for schistocytes to catch early HUS, which precedes overt renal injury.
+- **Suspected STEC** (bloody diarrhea, outbreak setting, hamburger exposure, hemolytic uremic syndrome signs: thrombocytopenia, microangiopathic hemolytic anemia, renal failure) — **NO antibiotics** for O157 or Shiga toxin 2 producers (HUS risk), arrange culture with Shiga toxin testing (sorbitol-MacConkey/chromogenic agar for O157), nephrology consultation. Per [[idsa-2017-infectious-diarrhea|IDSA 2017]] (Rec 23), frequently monitor hemoglobin, platelets, electrolytes, blood urea nitrogen (BUN)/creatinine, and examine a peripheral smear for schistocytes to catch early HUS, which precedes overt renal injury.
 
 ---
 
@@ -249,7 +249,7 @@ The following features should prompt microbiologic assessment, consideration of 
 
 ### Antimotility Agents
 
-- **Loperamide:** Initial dose 4 mg orally, then 2 mg after each loose stool, max 8 mg/day (OTC) or 16 mg/day (with antibiotic for TD). Do not use for >48 h in self-treatment. Adjunct with antibiotics for TD shortens illness duration (Recommendation 8, Strong/Moderate).
+- **Loperamide:** Initial dose 4 mg orally, then 2 mg after each loose stool, max 8 mg/day (over-the-counter [OTC]) or 16 mg/day (with antibiotic for traveler's diarrhea [TD]). Do not use for >48 h in self-treatment. Adjunct with antibiotics for TD shortens illness duration (Recommendation 8, Strong/Moderate).
   - Use with caution in proven bacterial inflammatory colitis (theoretical [[toxic-megacolon|toxic megacolon]] risk, though rare).
   - **Do not use for STEC infection.**
 
@@ -286,7 +286,7 @@ The following features should prompt microbiologic assessment, consideration of 
 | Levofloxacin | 500 mg PO | Single dose or 3-day course | — |
 | Ciprofloxacin | 750 mg PO OR 500 mg PO | Single dose OR 3-day course | — |
 | Ofloxacin | 400 mg PO | Single dose or 3-day course | — |
-| **Azithromycin** | 1,000 mg PO OR 500 mg PO | Single dose OR 3-day course | **First-line in SE Asia/India**; preferred for dysentery/febrile diarrhea; active vs. FQ-resistant *Campylobacter* |
+| **Azithromycin** | 1,000 mg PO OR 500 mg PO | Single dose OR 3-day course | **First-line in Southeast Asia/India**; preferred for dysentery/febrile diarrhea; active vs. fluoroquinolone (FQ)-resistant *Campylobacter* |
 | [[rifaximin\|Rifaximin]] | 200 mg PO TID | 3 days | Non-absorbable; NOT for invasive pathogens (*Campylobacter*, *Salmonella*, *Shigella*) |
 
 - Single-dose therapy as effective as 3-day for noninvasive TD pathogens; if not resolved in 24 h, complete 3-day course.
@@ -295,8 +295,8 @@ The following features should prompt microbiologic assessment, consideration of 
 
 **Antibiotic Chemoprophylaxis (Travelers):**
 
-- Rifaximin: 67% protective efficacy (pooled RR 0.33); NNT ≈ 4.5; most evidence for South and SE Asia.
-- Fluoroquinolones: ~88% protective efficacy; resistance and side effect concerns (tendinopathy, CDI risk).
+- Rifaximin: 67% protective efficacy (pooled relative risk [RR] 0.33); number needed to treat (NNT) ≈ 4.5; most evidence for South and Southeast Asia.
+- Fluoroquinolones: ~88% protective efficacy; resistance and side effect concerns (tendinopathy, *Clostridioides difficile* infection [CDI] risk).
 - Indication: high-risk travelers for short-term use only (Recommendation 18, Strong/High).
 
 **Parasite-Specific Antibiotic Therapy:**
@@ -307,13 +307,13 @@ The following features should prompt microbiologic assessment, consideration of 
 |---|---|
 | [[giardiasis\|*Giardia*]] | **Tinidazole** or **[[nitazoxanide]]** (first choice); **metronidazole** alternative [[idsa-2017-infectious-diarrhea]] |
 | [[entamoeba-histolytica-infection\|*Entamoeba histolytica*]] | **Metronidazole** or **tinidazole** [[acg-2016-acute-diarrhea]] |
-| [[cryptosporidiosis\|*Cryptosporidium*]] | **[[nitazoxanide]]** — in HIV infection, only with effective cART [[idsa-2017-infectious-diarrhea]] |
+| [[cryptosporidiosis\|*Cryptosporidium*]] | **[[nitazoxanide]]** — in HIV infection, only with effective combination antiretroviral therapy (cART) [[idsa-2017-infectious-diarrhea]] |
 | *Cyclospora cayetanensis* | **TMP-SMX**; nitazoxanide alternative (limited data) [[idsa-2017-infectious-diarrhea]] |
 | *Cystoisospora belli* | **TMP-SMX** or **pyrimethamine**; second-line ciprofloxacin or nitazoxanide [[idsa-2017-infectious-diarrhea]] |
 | *Enterocytozoon bieneusi* | **Albendazole** or **iodoquinol** [[acg-2016-acute-diarrhea]] |
 | *Dientamoeba fragilis* | **Iodoquinol** [[acg-2016-acute-diarrhea]] |
 
-> Neither guideline states doses or durations for these antiparasitic regimens; take them from the CDC/IDSA parasitic-disease treatment tables.
+> Neither guideline states doses or durations for these antiparasitic regimens; take them from the Centers for Disease Control and Prevention (CDC)/IDSA parasitic-disease treatment tables.
 
 ### Empiric Antibiotic Decision (IDSA 2017)
 
@@ -329,11 +329,11 @@ Adult empiric agent = a fluoroquinolone (eg, ciprofloxacin) **or** azithromycin 
 
 ### Supportive & Ancillary Care (IDSA 2017)
 
-- **Rehydration:** reduced-osmolarity ORS is first-line for mild-moderate dehydration of any cause; isotonic IV fluids (lactated Ringer's, normal saline) for severe dehydration, shock, altered mental status, ORS failure, or ileus (Rec 39–43). Continue human-milk feeding and resume an age-appropriate diet early (Rec 44–45).
+- **Rehydration:** reduced-osmolarity ORS is first-line for mild-moderate dehydration of any cause; isotonic intravenous (IV) fluids (lactated Ringer's, normal saline) for severe dehydration, shock, altered mental status, ORS failure, or ileus (Rec 39–43). Continue human-milk feeding and resume an age-appropriate diet early (Rec 44–45).
 - **Antimotility:** loperamide should **NOT** be given to children <18 years, and should be avoided at any age with fever, inflammatory diarrhea, or toxic-megacolon risk (Rec 47).
 - **Antiemetic:** ondansetron may aid ORS tolerance in children >4 years and adolescents with vomiting (Rec 48).
 - **Zinc:** oral zinc shortens diarrhea in children 6 months–5 years in zinc-deficient/malnourished settings (Rec 50).
-- **[[probiotics]]:** may modestly reduce symptom severity/duration in immunocompetent adults and children (Rec 49, weak) — note this is more permissive than [[aga-2020-probiotics|AGA 2020 probiotics guidance]].
+- **[[probiotics]]:** may modestly reduce symptom severity/duration in immunocompetent adults and children (Rec 49, weak) — note this is more permissive than [[aga-2020-probiotics|American Gastroenterological Association (AGA) 2020 probiotics guidance]].
 
 ### Prevention — Counseling & Hygiene (ACG 2016)
 
@@ -354,7 +354,7 @@ Adult empiric agent = a fluoroquinolone (eg, ciprofloxacin) **or** azithromycin 
 
 - **[[postinfectious-ibs]]:** Recognized sequela of acute infectious gastroenteritis / TD. Up to 10–15% of patients with bacterial TD develop chronic IBS-like symptoms. Diagnosed by Rome IV/V criteria; no specific biomarker. See [[irritable-bowel-syndrome]] and [[disorders-of-gut-brain-interaction]]. [[acg-2016-acute-diarrhea]]
 - **Reactive arthritis:** Especially after *Salmonella*, *Shigella*, *Campylobacter*, *Yersinia*.
-- **Hemolytic uremic syndrome (HUS):** After STEC O157:H7 (and other STEC); triad of microangiopathic hemolytic anemia, thrombocytopenia, acute kidney injury. Antibiotic use increases HUS risk.
+- **HUS:** After STEC O157:H7 (and other STEC); triad of microangiopathic hemolytic anemia, thrombocytopenia, acute kidney injury. Antibiotic use increases HUS risk.
 - **Guillain-Barré syndrome:** After *Campylobacter jejuni* infection (molecular mimicry).
 - **Colonization by resistant organisms:** Antibiotic self-treatment of TD increases risk of colonization by extended-spectrum β-lactamase-producing Enterobacteriaceae and carbapenemase-producing Enterobacteriaceae.
 

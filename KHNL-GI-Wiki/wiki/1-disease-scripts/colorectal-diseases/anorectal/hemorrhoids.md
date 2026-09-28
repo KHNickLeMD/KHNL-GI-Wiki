@@ -41,7 +41,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 
 ### Severity Assessment / Classification
 
-**Goligher's classification** — internal hemorrhoids graded by **degree of prolapse relative to the dentate line**; grading is based mostly on **history** (findings can be confirmed on exam, but a good history classifies the grade) *(Table 1, [[aga-2026-hemorrhoids|AGA 2026]])*:
+**Goligher's classification** — internal hemorrhoids graded by **degree of prolapse relative to the dentate line**; grading is based mostly on **history** (findings can be confirmed on exam, but a good history classifies the grade) *(Table 1, [[aga-2026-hemorrhoids|American Gastroenterological Association (AGA) 2026]])*:
 
 | Grade | Description |
 |-------|-------------|
@@ -64,7 +64,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 | [[rectal-prolapse\|Rectal prolapse]] (full-thickness) | Circumferential folds (vs. radial folds of hemorrhoids); palpable thickness; can be confused with Grade 4 hemorrhoids |
 | [[anal-fissure\|Anal fissure]] | Sharp pain on defecation or on digital rectal exam; fissure visible at anoscopy. **Coexists with hemorrhoid disease in up to 20%** — when both are present, **treat the fissure first** *(AGA 2026)* |
 | [[colorectal-cancer\|Colorectal cancer]] | Change in bowel habits, weight loss, [[iron-deficiency-anemia\|iron deficiency anemia]]; [[colonoscopy]] required |
-| [[inflammatory-bowel-disease\|IBD]] (Crohn's proctitis) | Diarrhea, urgency; risk of complicating any anorectal procedure; [[crohns-disease]] |
+| [[inflammatory-bowel-disease\|inflammatory bowel disease (IBD)]] (Crohn's proctitis) | Diarrhea, urgency; risk of complicating any anorectal procedure; [[crohns-disease]] |
 | Rectal polyp/cancer | Digital exam + sigmoidoscopy/colonoscopy |
 | Skin tags | Residual from prior thrombosed external hemorrhoids; painless; no treatment unless cosmetic concern |
 
@@ -77,9 +77,9 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
   - Age ≥45 with rectal bleeding not previously evaluated
   - Iron deficiency anemia
   - Change in bowel habits
-  - Family history of CRC
+  - Family history of colorectal cancer (CRC)
   - Bleeding not consistent with hemorrhoids on examination
-- No specific laboratory workup for hemorrhoids; CBC if significant bleeding suspected
+- No specific laboratory workup for hemorrhoids; complete blood count (CBC) if significant bleeding suspected
 
 ---
 
@@ -87,29 +87,29 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 
 ### Conservative (All Grades — First Line)
 
-**ACG 2021 Rec 1 (Strong recommendation / moderate quality):** dietary modification with adequate fluid and fiber intake **plus counseling to minimize straining at defecation** is first-line therapy for symptomatic hemorrhoids. *(Evidence is moderate; the recommendation is strong because it corrects the presumed pathogenesis at minimal risk compared with office procedures.)* [[acg-2021-anorectal-disorders]]
+**American College of Gastroenterology (ACG) 2021 Rec 1 (Strong recommendation / moderate quality):** dietary modification with adequate fluid and fiber intake **plus counseling to minimize straining at defecation** is first-line therapy for symptomatic hemorrhoids. *(Evidence is moderate; the recommendation is strong because it corrects the presumed pathogenesis at minimal risk compared with office procedures.)* [[acg-2021-anorectal-disorders]]
 
 - Dietary modification: adequate fiber (20–30 g/day), increase fluid intake (6–8 glasses/day)
-- Stool softeners: **PEG 3350 or docusate** — ACG's trigger is **inability to increase dietary fiber**, not [[chronic-idiopathic-constipation|constipation]] per se
+- Stool softeners: **polyethylene glycol (PEG) 3350 or docusate** — ACG's trigger is **inability to increase dietary fiber**, not [[chronic-idiopathic-constipation|constipation]] per se
 - Sitz baths: symptomatic relief
 - Avoid prolonged sitting on toilet; avoid straining
 - Discourage use of cell phone on toilet
 - Topical agents (anesthetics, witch hazel, corticosteroids, vasoactive agents): limited efficacy data; **topical steroids ≤2 weeks at a time** *(AGA 2026)*
-- **Anoscopy on every new patient before treatment** to confirm the diagnosis; counsel patients during informed consent about rare **pelvic sepsis** (present to ED if symptomatic) *(AGA 2026)*
+- **Anoscopy on every new patient before treatment** to confirm the diagnosis; counsel patients during informed consent about rare **pelvic sepsis** (present to emergency department (ED) if symptomatic) *(AGA 2026)*
 
 ### Office-Based Procedures (Grades 1–3, Medical Therapy Failures)
 
 | Procedure | Indication | Efficacy | Notes |
 |-----------|-----------|---------|-------|
-| **Rubber band ligation (RBL)** | Grade 1–3 | Strong/Moderate — preferred; lower need for retreatment vs IRC/sclerotherapy. RBL is also the initial endoscopic treatment of choice for bleeding/prolapsing 2nd–3rd-degree internal hemorrhoids failing conservative care *(ASGE 2010)* [[asge-2010-anorectal-disorders]]. **Efficacy splits at grade 3:** Cochrane found RBL **equally effective as surgical excision for grade 2**, but **not as effective as surgical excision for grade 3** *(AGA 2026)* | Banding at base of hemorrhoid **above the dentate line**. Complication rate **2%** *(AGA 2026)* — urinary retention, bleeding, secondary fissure formation; ACG 2021 reports anorectal pain, bleeding, thrombosis of the external component, and vasovagal symptoms in **1%–3%**. Rare life-threatening/pelvic sepsis. **If a band is deployed too close to the dentate line it causes pain and must be removed immediately** — roll it off the hemorrhoid with a finger or massage the hemorrhoid circularly *(AGA 2026)* |
-| **Infrared coagulation (IRC)** | Grade 1–2 | Strong/Moderate — similar to RBL for Grade 1–2 | Faster; less pain than banding; higher retreatment rate |
+| **Rubber band ligation (RBL)** | Grade 1–3 | Strong/Moderate — preferred; lower need for retreatment vs infrared coagulation (IRC)/sclerotherapy. RBL is also the initial endoscopic treatment of choice for bleeding/prolapsing 2nd–3rd-degree internal hemorrhoids failing conservative care *(American Society for Gastrointestinal Endoscopy (ASGE) 2010)* [[asge-2010-anorectal-disorders]]. **Efficacy splits at grade 3:** Cochrane found RBL **equally effective as surgical excision for grade 2**, but **not as effective as surgical excision for grade 3** *(AGA 2026)* | Banding at base of hemorrhoid **above the dentate line**. Complication rate **2%** *(AGA 2026)* — urinary retention, bleeding, secondary fissure formation; ACG 2021 reports anorectal pain, bleeding, thrombosis of the external component, and vasovagal symptoms in **1%–3%**. Rare life-threatening/pelvic sepsis. **If a band is deployed too close to the dentate line it causes pain and must be removed immediately** — roll it off the hemorrhoid with a finger or massage the hemorrhoid circularly *(AGA 2026)* |
+| **IRC** | Grade 1–2 | Strong/Moderate — similar to RBL for Grade 1–2 | Faster; less pain than banding; higher retreatment rate |
 | **Sclerotherapy** | Grade 1–2 | Alternative; similar to IRC | Injection of sclerosing agent; effective for bleeding Grade 1–2; useful for patients on [[anticoagulation-gi-bleeding\|anticoagulation]] |
 | **Bipolar coagulation** | Grade 1–2 | Strong/Moderate — ACG-listed alternative to RBL (grouped with IRC/sclerotherapy in the recommendation) | Cauterizes hemorrhoid base; outcomes similar to IRC |
 | **Doppler-guided hemorrhoidal artery ligation (DGHAL)** | Grade 3 | Conditional/Very Low — similar outcomes to hemorrhoidectomy | Minimally invasive; no tissue excision; Doppler identifies feeding arteries; used in Europe more than US |
 
 **Avoid RBL in:** acute perianal [[crohns-disease|Crohn's disease]]; immunocompromise (high sepsis risk); patients on full anticoagulation.
 
-**Sequencing rule (BPA 5, AGA 2026):** for **grades 1–3**, banding *or* IRC must be **employed before** surgical hemorrhoidectomy — office therapy is not optional prelude but the required first procedural step.
+**Sequencing rule (Best Practice Advice (BPA) 5, AGA 2026):** for **grades 1–3**, banding *or* IRC must be **employed before** surgical hemorrhoidectomy — office therapy is not optional prelude but the required first procedural step.
 
 **Pelvic sepsis — the timing that decides the workup:** it is the most feared complication of banding and can develop **any time between 3 and 10 days** after the procedure. Counsel every banded patient at consent to present to the ED within that window for fever, worsening pain, or urinary retention. *(AGA 2026)*
 
@@ -118,7 +118,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 **AGA 2026 BPA 9 (newest guideline — follow this):** acute thrombosed hemorrhoids are often extremely painful and are **best treated surgically with incision and drainage (I&D)**. Early I&D gives the **most effective and rapid symptom relief** vs conservative measures.
 
 - **Technique:** when I&D is performed, **"de-roof" the cavity** so it does not reform with the incision closing over.
-- **Who/where:** I&D can be performed by a **gastroenterologist in the office, or in the ED** — unlike excision, it does not require the OR.
+- **Who/where:** I&D can be performed by a **gastroenterologist in the office, or in the ED** — unlike excision, it does not require the operating room (OR).
 - **If excision is chosen instead, it must be complete** — complete excision *and* evacuation of the clot.
 - **Most thrombosed external hemorrhoids resolve without any surgical treatment**; surgery buys early relief, not a different endpoint. Conservative care = stool softening (docusate), sitz baths, pain control.
 
@@ -149,9 +149,9 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 
 | Population | Approach |
 |-----------|----------|
-| Active [[crohns-disease\|Crohn's]] or [[ulcerative-colitis\|UC]] | **Defer hemorrhoid treatment until complete remission** |
+| Active [[crohns-disease\|Crohn's]] or [[ulcerative-colitis\|ulcerative colitis (UC)]] | **Defer hemorrhoid treatment until complete remission** |
 | Pregnancy | Hemorrhoids in up to ⅔ of women; conservative first (fiber, treat constipation, topical ointments); banding/IRC if symptoms persist postpartum or further pregnancies planned |
-| [[cirrhosis\|Cirrhosis]] / [[portal-hypertension\|portal hypertension]] | Carefully distinguish hemorrhoids from **rectal varices** (see below); banding or IRC both acceptable; **IRC preferred over banding if significant coagulopathy** — for most clinicians that means **platelets <50,000/µL or INR >2.0**; portal hypertension itself does not change the approach |
+| [[cirrhosis\|Cirrhosis]] / [[portal-hypertension\|portal hypertension]] | Carefully distinguish hemorrhoids from **rectal varices** (see below); banding or IRC both acceptable; **IRC preferred over banding if significant coagulopathy** — for most clinicians that means **platelets <50,000/µL or international normalized ratio (INR) >2.0**; portal hypertension itself does not change the approach |
 | Grade 3 failing banding or with external component | Offer **surgical consultation**; large isolated skin tags removable without hemorrhoidectomy |
 
 **Hemorrhoids vs rectal varices — how to tell them apart at endoscopy** *(AGA 2026)*:
@@ -161,7 +161,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 | **Location** | Mid and **more proximal rectum** | Usually **distal**, and **cross the dentate line** |
 | **Setting** | Portosystemic collaterals of [[portal-hypertension\|portal hypertension]] — present in **30%** of cirrhotics with portal hypertension | Any patient |
 | **Bleeding** | Uncommon, but can be **life-threatening** | Common, usually minor |
-| **Treatment** | Endoscopic cyanoacrylate injection or coils often control bleeding but carry **embolism risk and high rebleeding**; treating the underlying portal hypertension (e.g. [[tips\|TIPS]]) is essential | Banding / IRC per grade, above |
+| **Treatment** | Endoscopic cyanoacrylate injection or coils often control bleeding but carry **embolism risk and high rebleeding**; treating the underlying portal hypertension (e.g. [[tips\|transjugular intrahepatic portosystemic shunt (TIPS)]]) is essential | Banding / IRC per grade, above |
 
 ---
 

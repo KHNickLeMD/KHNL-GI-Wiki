@@ -14,11 +14,11 @@ sources: []
 - **Year:** 2021
 - **Journal/Publisher:** *Gastroenterology* 2021;160(5):1831–1841
 - **DOI:** [10.1053/j.gastro.2020.11.059](https://doi.org/10.1053/j.gastro.2020.11.059)
-- **Type:** guideline (AGA Clinical Practice Update — Expert Review)
+- **Type:** guideline (American Gastroenterological Association [AGA] Clinical Practice Update — Expert Review)
 
-> **Evidence-grading caveat, stated by the source itself.** This Expert Review is **not a formal systematic review** and **no formal rating of the strength or quality of evidence was carried out**. The 12 Best Practice Advice statements rest on "a combination of available evidence and consensus-based expert opinion." Treat every BPA below as ungraded expert consensus.
+> **Evidence-grading caveat, stated by the source itself.** This Expert Review is **not a formal systematic review** and **no formal rating of the strength or quality of evidence was carried out**. The 12 Best Practice Advice (BPA) statements rest on "a combination of available evidence and consensus-based expert opinion." Treat every BPA below as ungraded expert consensus.
 
-> ⚠ **Superseded on regimen selection by [[acg-2024-hp-treatment]].** Within tier 1, newer publication date wins. Where this CPU and ACG 2024 both speak to *which regimen to use*, [[helicobacter-pylori-infection]] asserts ACG 2024. This CPU's durable contribution is everything ACG 2024 does **not** cover: the definition of refractory infection, the causes-of-failure framework, resistance epidemiology, acid-suppression pharmacology, and adherence.
+> ⚠ **Superseded on regimen selection by [[acg-2024-hp-treatment]].** Within tier 1, newer publication date wins. Where this clinical practice update (CPU) and American College of Gastroenterology (ACG) 2024 both speak to *which regimen to use*, [[helicobacter-pylori-infection]] asserts ACG 2024. This CPU's durable contribution is everything ACG 2024 does **not** cover: the definition of refractory infection, the causes-of-failure framework, resistance epidemiology, acid-suppression pharmacology, and adherence.
 
 ## Summary
 
@@ -32,7 +32,7 @@ A distinctive methodological stance: the authors **deliberately avoid the terms 
 
 ### Definition of refractory infection (this is the operative definition)
 
-- **Refractory *H. pylori* infection** = a **persistently positive non-serologic test** (breath-, stool-, or gastroscopy-based), **at least 4 weeks** after **one or more completed courses** of a current guideline-recommended **first-line** eradication therapy, and **off any medications (e.g. PPIs) that might impact test sensitivity**.
+- **Refractory *H. pylori* infection** = a **persistently positive non-serologic test** (breath-, stool-, or gastroscopy-based), **at least 4 weeks** after **one or more completed courses** of a current guideline-recommended **first-line** eradication therapy, and **off any medications (e.g. proton pump inhibitors [PPIs]) that might impact test sensitivity**.
 - **Must be distinguished from *recurrent* infection** — a non-serologic test that was **initially negative** after eradication and **subsequently positive** at a later interval. Recurrence may reflect **ongoing intrafamilial exposure**, and is best addressed by **testing household members and treating those who test positive** — a different action entirely.
 
 ### Antibiotic resistance — rates and clinical impact
@@ -41,7 +41,7 @@ In-vitro resistance and the *fold-increase in treatment failure* it confers when
 
 | Antibiotic | Fold-higher likelihood of treatment failure if resistant |
 |---|---|
-| Levofloxacin | **8.2-fold** (95% CI 3.8–17.6) |
+| Levofloxacin | **8.2-fold** (95% confidence interval [CI] 3.8–17.6) |
 | Clarithromycin | **7.0-fold** (95% CI 5.2–9.3) |
 | Nitroimidazole (metronidazole) | **2.5-fold** (95% CI 1.8–3.5) — relatively less clinical impact |
 
@@ -56,7 +56,7 @@ Resistance rates, from a systematic review of >50,000 patients across 45 countri
 | Tetracycline | <5% (usually 1%–2%) | low |
 | Rifabutin | low | low |
 
-- **US-specific data are sparse** and dated: 347 strains 1998–2002 → 13% clarithromycin, 25% metronidazole; 128 Houston VA strains 2009–2013 (110 treatment-naive) → 15% clarithromycin, 17% metronidazole, 29% levofloxacin, **15% resistant to more than one antibiotic**; 345 strains from a recent multicentre trial → 17% clarithromycin, 44% metronidazole.
+- **US-specific data are sparse** and dated: 347 strains 1998–2002 → 13% clarithromycin, 25% metronidazole; 128 Houston Veterans Affairs (VA) strains 2009–2013 (110 treatment-naive) → 15% clarithromycin, 17% metronidazole, 29% levofloxacin, **15% resistant to more than one antibiotic**; 345 strains from a recent multicentre trial → 17% clarithromycin, 44% metronidazole.
 - **Immigrants from endemic countries may carry the resistance pattern of their country of origin, not the host country** — infection is usually acquired in childhood.
 - **Selecting therapy by prior antibiotic exposure is *not inferior* to selecting by in-vitro susceptibility**, and avoids the logistical barriers of testing. A US national survey found **only 38% of providers asked patients about prior antibiotic exposure**.
 - Resistance mechanisms: clarithromycin — one of 3 point mutations in the **23S ribosomal subunit**; levofloxacin — **DNA gyrase subunit A**; amoxicillin — **penicillin binding protein 1**; tetracycline — **16S ribosomal binding site** mutations or increased efflux; rifabutin — ***rpoB***. Nitroimidazole resistance is usually **rdxA** but is complex enough that **no single point mutation can be used for molecular resistance profiling**, and phenotypic testing is poorly standardised — which is why in-vitro metronidazole resistance predicts outcome poorly.
@@ -79,7 +79,7 @@ Resistance rates, from a systematic review of >50,000 patients across 45 countri
 - The adherence threshold above which there is negligible incremental benefit is **not known**.
 - Studies suggest **>60% to >90% of the prescribed course** may suffice for eradication **in primary infection**; the threshold "might plausibly be higher for refractory *H. pylori*."
 - Barriers: regimen complexity, high pill burden, physical intolerance, poor provider communication, lack of understanding of why therapy is indicated.
-- Two large Chinese RCTs showed an **interactive smartphone application** and **text-based reminders** improved adherence to primary therapy; not yet studied in the US for refractory infection. Pillboxes, medication calendars, and pharmacist counselling may also help.
+- Two large Chinese randomized controlled trials (RCTs) showed an **interactive smartphone application** and **text-based reminders** improved adherence to primary therapy; not yet studied in the US for refractory infection. Pillboxes, medication calendars, and pharmacist counselling may also help.
 
 ### Second-line regimen definitions — doses, frequencies, durations
 
@@ -125,7 +125,7 @@ Reproduced from the source's Table 1 footnote. **"PPI" means standard dose unles
 
 - [[helicobacter-pylori-infection]] — supplies what the ACG-2024-based page lacked: the **operative definition of refractory infection** and its distinction from recurrent infection, the **causes-of-failure framework** (BPA 1), the **prior-antibiotic-exposure review** rule (BPA 2), **penicillin allergy delabelling** and the amoxicillin ≥2 g/day trough rule (BPA 6), **acid-suppression optimisation** with its pH/half-life mechanism (BPA 7), **metronidazole 1.5–2 g daily with bismuth overriding in-vitro resistance** (BPA 5), **duration** (BPA 8), **susceptibility testing after 2 failures** (BPA 10), and **shared decision making about stopping** (BPA 9).
 - [[proton-pump-inhibitors]] — CYP2C19 metabolism and the pH-dependence of antibiotic half-life explain why PPI choice and potency matter for eradication.
-- [[potassium-competitive-acid-blockers]] / [[vonoprazan]] — BPA 7 names PCABs as an option for inadequate acid suppression in refractory infection.
+- [[potassium-competitive-acid-blockers]] / [[vonoprazan]] — BPA 7 names potassium-competitive acid blockers (PCABs) as an option for inadequate acid suppression in refractory infection.
 - [[bismuth-quadruple-therapy]] — BPA 5's metronidazole dose and the bismuth-overrides-resistance claim.
 - [[probiotics]] — BPA 12 classifies adjunctive probiotics as **experimental** for refractory infection.
 

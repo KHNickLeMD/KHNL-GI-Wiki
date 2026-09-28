@@ -7,84 +7,84 @@ updated: 2026-09-22
 sources: [baveno-viii-2026-portal-hypertension, albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-tips, aga-2021-bleeding-gastric-varices]
 ---
 
-> **[[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] supersedes [[baveno-vii-2022-portal-hypertension|Baveno VII]].** Where they differ this page states the VIII position and names what changed. Notable for this page: the pre-emptive TIPS band, a **24-hour** vasoactive option, individualized antibiotic duration, the removal of the numeric salvage-TIPS futility rule, EUS-guided coil + glue for cardiofundal varices, and EVL over APC for GAVE.
+> **[[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] supersedes [[baveno-vii-2022-portal-hypertension|Baveno VII]].** Where they differ this page states the VIII position and names what changed. Notable for this page: the pre-emptive transjugular intrahepatic portosystemic shunt (TIPS) band, a **24-hour** vasoactive option, individualized antibiotic duration, the removal of the numeric salvage-TIPS futility rule, endoscopic ultrasound (EUS)–guided coil + glue for cardiofundal varices, and endoscopic variceal ligation (EVL) over argon plasma coagulation (APC) for gastric antral vascular ectasia (GAVE).
 
 ## Definition / Scope
 
-Acute variceal hemorrhage (AVH) refers to hemorrhage from esophageal or gastric varices in the setting of [[portal-hypertension|portal hypertension]] (PH), most commonly due to [[cirrhosis]]. Even with modern therapy, **6-week mortality is 10–15%** ([[aasld-2023-portal-hypertension]]) — and 6-week mortality is the recommended study endpoint (Baveno VIII 5.15), with **Child-Pugh class C, MELD and its variants (MELD-Na, MELD 3.0), and failure to control bleeding** as the key risk factors for it (5.17).
+Acute variceal hemorrhage (AVH) refers to hemorrhage from esophageal or gastric varices in the setting of [[portal-hypertension|portal hypertension]] (PH), most commonly due to [[cirrhosis]]. Even with modern therapy, **6-week mortality is 10–15%** ([[aasld-2023-portal-hypertension]]) — and 6-week mortality is the recommended study endpoint (Baveno VIII 5.15), with **Child-Pugh class C, Model for End-Stage Liver Disease (MELD) and its variants (MELD-Na, MELD 3.0), and failure to control bleeding** as the key risk factors for it (5.17).
 
 **Operative definitions ([[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.1–5.2, 5.16):**
 
-- **Acute variceal bleeding (AVB)** = blood emanating from a varix (**spurting or oozing**); **or** varices with **signs of recent bleeding** (clots, white nipple sign); **or** varices with **no other bleeding source** in a patient with upper GI bleeding and **blood in the stomach**
+- **Acute variceal bleeding (AVB)** = blood emanating from a varix (**spurting or oozing**); **or** varices with **signs of recent bleeding** (clots, white nipple sign); **or** varices with **no other bleeding source** in a patient with upper gastrointestinal (GI) bleeding and **blood in the stomach**
 - **Active bleeding at endoscopy** = blood coming from a varix (spurting, oozing) — the finding that, with Child-Pugh B >7, triggers pre-emptive TIPS. ⚠ **Interobserver agreement for this call is only moderate** (5.2), so a borderline read should not be treated as a hard boundary
 - **Treatment failure** = uncontrolled bleeding **or** rebleeding within **5 days** (5.16)
 
-**[[hepatic-venous-pressure-gradient|HVPG]] thresholds as the sources actually state them:**
+**[[hepatic-venous-pressure-gradient|Hepatic venous pressure gradient (HVPG)]] thresholds as the sources actually state them:**
 
-- **≥10 mmHg = clinically significant portal hypertension (CSPH)** — the pressure at which portosystemic collaterals form and decompensation typically begins (AASLD 2023; Baveno VII 1.10, retained as still valid in Baveno VIII). *(>5 mmHg merely indicates sinusoidal PH.)*
+- **≥10 mmHg = clinically significant portal hypertension (CSPH)** — the pressure at which portosystemic collaterals form and decompensation typically begins (American Association for the Study of Liver Diseases [AASLD] 2023; Baveno VII 1.10, retained as still valid in Baveno VIII). *(>5 mmHg merely indicates sinusoidal PH.)*
 - **≥20 mmHg at the time of haemorrhage** = high risk for treatment failure and a preemptive-TIPS criterion (Baveno VIII 5.31 — **changed from Baveno VII's >20 mmHg**; the boundary value itself now qualifies).
 - **<12 mmHg is a post-TIPS haemodynamic target**, not a bleeding-risk threshold — see step 6.
 
-Distinct from non-variceal [[upper-gi-bleeding|UGIB]] (peptic ulcer, Mallory-Weiss, Dieulafoy) in management priorities: vasoactive agents, [[antibiotic-prophylaxis-cirrhosis|antibiotic prophylaxis]], and early [[tips|TIPS]] consideration are specific to variceal hemorrhage. See [[portal-hypertension]] for PH staging (cACLD/CSPH), surveillance decisions, and primary prophylaxis.
+Distinct from non-variceal [[upper-gi-bleeding|upper GI bleeding (UGIB)]] (peptic ulcer, Mallory-Weiss, Dieulafoy) in management priorities: vasoactive agents, [[antibiotic-prophylaxis-cirrhosis|antibiotic prophylaxis]], and early [[tips|TIPS]] consideration are specific to variceal hemorrhage. See [[portal-hypertension]] for PH staging (compensated advanced chronic liver disease [cACLD]/CSPH), surveillance decisions, and primary prophylaxis.
 
 ## Differential Diagnosis
 
 In a cirrhotic patient with UGIB, consider:
 
 - **Esophageal varices** — most common (~70% of variceal bleeds)
-- **Gastric varices** — fundal (GOV2/IGV1) carry higher rebleed risk; often require different intervention (glue, BRTO, TIPS)
-- **Portal hypertensive gastropathy** — diffuse oozing, not brisk hemorrhage; may cause chronic blood loss
-- **[[peptic-ulcer-disease|Peptic ulcer disease]]** — cirrhosis increases risk ([[helicobacter-pylori-infection|H. pylori]], NSAIDs, impaired mucosal defense)
+- **Gastric varices** — fundal (gastroesophageal varices type 2 [GOV2]/isolated gastric varices type 1 [IGV1]) carry higher rebleed risk; often require different intervention (glue, balloon-occluded retrograde transvenous obliteration [BRTO], TIPS)
+- **Portal hypertensive gastropathy (PHG)** — diffuse oozing, not brisk hemorrhage; may cause chronic blood loss
+- **[[peptic-ulcer-disease|Peptic ulcer disease]]** — cirrhosis increases risk ([[helicobacter-pylori-infection|H. pylori]], nonsteroidal anti-inflammatory drugs [NSAIDs], impaired mucosal defense)
 - **Mallory-Weiss tear** — especially with retching/vomiting
-- **Gastric antral vascular ectasia (GAVE)** — chronic occult loss, watermelon stomach appearance
+- **GAVE** — chronic occult loss, watermelon stomach appearance
 
 ## Diagnostic Algorithm
 
 **Immediate (before endoscopy) — steps 1–4 must occur in parallel, not sequentially:**
 
-1. **Resuscitation**: Large-bore IV access × 2; airway assessment (intubate if GCS altered/aspiration risk before endoscopy). Transfuse pRBCs to target Hgb **~7 g/dL** — restrictive strategy (GS 28). **Baveno VIII 5.4 states the target as a band, 7–8 g/dL**, individualized for cardiovascular disorders, age, haemodynamic status, and ongoing bleeding — the same restrictive principle with an explicit ceiling.
+1. **Resuscitation**: Large-bore intravenous (IV) access × 2; airway assessment (intubate if Glasgow Coma Scale [GCS] altered/aspiration risk before endoscopy). Transfuse packed red blood cells (pRBCs) to target hemoglobin (Hgb) **~7 g/dL** — restrictive strategy (AASLD guidance statement [GS] 28). **Baveno VIII 5.4 states the target as a band, 7–8 g/dL**, individualized for cardiovascular disorders, age, haemodynamic status, and ongoing bleeding — the same restrictive principle with an explicit ceiling.
    - **The qualifier is the decision:** ~7 g/dL applies **in the absence of comorbidities (e.g. ischemic coronary disease) or hemodynamic instability that might merit higher targets** — AASLD's own wording. Do not apply 7 g/dL to the unstable or the cardiac patient.
-   - **No FFP and no platelet transfusions** based on INR or platelet count targets — INR does not predict hemostatic dysfunction; no evidence of benefit, and evidence of potential **harm** from FFP (GS 29).
-   - The restrictive-transfusion RCTs underlying this are AASLD refs 166–167; only AASLD's guidance statement is cited here. ([[aasld-2023-portal-hypertension]])
+   - **No fresh frozen plasma (FFP) and no platelet transfusions** based on international normalized ratio (INR) or platelet count targets — INR does not predict hemostatic dysfunction; no evidence of benefit, and evidence of potential **harm** from FFP (GS 29).
+   - The restrictive-transfusion randomized controlled trials (RCTs) underlying this are AASLD refs 166–167; only AASLD's guidance statement is cited here. ([[aasld-2023-portal-hypertension]])
 
-2. **Start vasoactive therapy immediately** (GS 25): do not wait for endoscopy. Initiate as soon as variceal bleeding is *suspected*, before diagnostic/therapeutic endoscopy ([[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 CPU]], BPA 1); **octreotide is the agent of choice in the US** based on its safety profile (BPA 3).
+2. **Start vasoactive therapy immediately** (GS 25): do not wait for endoscopy. Initiate as soon as variceal bleeding is *suspected*, before diagnostic/therapeutic endoscopy ([[aga-2024-vasoactive-albumin-cirrhosis|American Gastroenterological Association (AGA) 2024 clinical practice update (CPU)]], best practice advice [BPA] 1); **octreotide is the agent of choice in the US** based on its safety profile (BPA 3).
    - **[[somatostatin-analogs|Octreotide]]:** 50 mcg IV bolus → 25–50 mcg/hr infusion × 2–5 days (additional IV boluses may be given for ongoing bleeding — [[aga-2024-vasoactive-albumin-cirrhosis]])
      - ⚠ *Guidelines differ on the infusion rate:* [[aasld-2023-portal-hypertension]] Table 5 gives **25–50 mcg/hr**; [[aga-2024-vasoactive-albumin-cirrhosis]] (newer) gives a flat **50 mcg/hr**. The AGA figure sits inside the AASLD range, so either is defensible.
    - **Somatostatin:** 250 mcg IV bolus → 250–500 mcg/hr × 2–5 days
    - **[[terlipressin|Terlipressin]]** (not FDA approved in US for AVH): 2 mg IV q4–6h × 24–48h, then 1 mg q4–6h × 2–5 days
    - Continue vasoactive therapy if PH bleeding confirmed on endoscopy (GS 26); **stop the drug if endoscopy reveals a non-variceal source**.
-   - **Duration — [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.7–5.8:** continue **2–5 days, *or until a TIPS (if indicated) is placed***. **A shorter course — even 24 hours — can be considered after successful endoscopic haemostasis, *provided [[nonselective-beta-blockers|NSBB]] treatment is then initiated*.** The NSBB proviso is the decision: stopping the drip early is only safe if the beta-blocker takes over.
+   - **Duration — [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.7–5.8:** continue **2–5 days, *or until a TIPS (if indicated) is placed***. **A shorter course — even 24 hours — can be considered after successful endoscopic haemostasis, *provided [[nonselective-beta-blockers|nonselective beta-blocker (NSBB)]] treatment is then initiated*.** The NSBB proviso is the decision: stopping the drip early is only safe if the beta-blocker takes over.
      - ⚠ **Changed from Baveno VII 6.5**, which gave a flat 2–5 days with no early-stop option and no TIPS clause. AASLD's "may shorten to 2 days in selected low-risk patients" sits between the two.
 
-3. **Start IV antibiotics immediately** (GS 27): **Ceftriaxone 1 g IV q24h up to 5 days** (preferred; especially in Child-Pugh C or high-resistance settings). Norfloxacin 400 mg PO BID × 7 days (alternative in low-resistance, Child-Pugh A/B). De-escalate once bleeding controlled and no active infection. See [[#Antibiotic Prophylaxis]] for the duration controversy.
+3. **Start IV antibiotics immediately** (GS 27): **Ceftriaxone 1 g IV q24h up to 5 days** (preferred; especially in Child-Pugh C or high-resistance settings). Norfloxacin 400 mg by mouth (PO) twice daily (BID) × 7 days (alternative in low-resistance, Child-Pugh A/B). De-escalate once bleeding controlled and no active infection. See [[#Antibiotic Prophylaxis]] for the duration controversy.
    - **Baveno VIII 5.10–5.11:** preventive antibiotics are recommended **at presentation**, but **duration and need can be individualized by infection risk and cirrhosis severity — Child-Pugh A patients may need only a shorter course or none at all.** The preferred class is **3rd-generation cephalosporins**, subject to local resistance patterns and antimicrobial policy.
    - ⚠ **Baveno no longer supplies the dose.** Baveno VII 6.9 named **ceftriaxone 1 g/24 h**; VIII names only the class. The **1 g q24h figure above now rests on [[aasld-2023-portal-hypertension]] GS 27**, not on Baveno.
 
-4. **Risk stratify** using Child-Pugh and MELD (see [[cirrhosis]] for the CTP/MELD-Na criteria themselves). The purpose is to identify preemptive-TIPS candidates — criteria in step 6.
+4. **Risk stratify** using Child-Pugh and MELD (see [[cirrhosis]] for the Child-Turcotte-Pugh (CTP)/MELD-Na criteria themselves). The purpose is to identify preemptive-TIPS candidates — criteria in step 6.
 
 5. **Endoscopy within 12 hours** of presentation (GS 30; Baveno VIII 5.18 — if haemodynamically unstable, as soon as possible depending on local availability):
-   - IV erythromycin before [[upper-endoscopy|EGD]] improves visualization. **Baveno VIII 5.20 specifies a single IV dose of 250 mg, 30–90 minutes before endoscopy** (Baveno VII 6.19 said 30–120 min; AASLD gives 125–250 mg over 30–120 min). Contraindicated with QT prolongation; benefit includes reduced transfusion requirement
+   - IV erythromycin before [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] improves visualization. **Baveno VIII 5.20 specifies a single IV dose of 250 mg, 30–90 minutes before endoscopy** (Baveno VII 6.19 said 30–120 min; AASLD gives 125–250 mg over 30–120 min). Contraindicated with QT prolongation; benefit includes reduced transfusion requirement
    - **Esophageal varices and GOV1 → EVL** (band ligation; GS 31, Baveno VIII 5.29); preferred over sclerotherapy
    - **Gastric/fundal varices (GOV2/IGV1)** → do NOT band; see [[#Cardiofundal Varices (GOV2/IGV1) — the Bimodal Pathway]]
    - **Not first-line for AVB:** haemoclips, over-the-scope clips, **topical haemostatic agents/powders**, and fibrin (Baveno VIII 5.28)
-   - Obtain **contrast-enhanced cross-sectional imaging (CT or MRI) in every AVB** — to exclude portal/splanchnic vein thrombosis and [[hepatocellular-carcinoma|HCC]] and to map portosystemic collaterals (Baveno VIII 5.30); AASLD GS 44 requires it specifically for gastric/ectopic bleeds
+   - Obtain **contrast-enhanced cross-sectional imaging (computed tomography [CT] or magnetic resonance imaging [MRI]) in every AVB** — to exclude portal/splanchnic vein thrombosis and [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] and to map portosystemic collaterals (Baveno VIII 5.30); AASLD GS 44 requires it specifically for gastric/ectopic bleeds
    - **Uncontrolled bleeding** → bridge to TIPS. **Baveno VIII 5.35 now prefers a dedicated covered self-expanding metal stent (cSEMS) *over* balloon tamponade** — Baveno VII 6.29 called them equally efficacious with SEMS the safer option; VIII states a preference
 
 6. **Preemptive TIPS** (GS 32) — within **72 hours, ideally within 24 hours** of index EGD:
    - **AASLD indications:** CTP class B score >7 with active bleeding on endoscopy, OR CTP class C score 10–13
    - **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.31 — any one of: CTP class C 10–13 points; CTP class B >7 with active bleeding at initial endoscopy; HVPG ≥20 mmHg at the time of AVB.** ⚠ *Changed from Baveno VII 6.27, which said CTP **C <14** and HVPG **>**20 mmHg. The CTP band now matches AASLD; the HVPG limb remains Baveno-only.* Figure 3 adds a candidate profile of **age <75 y, creatinine <3 mg/dL, no heart failure**
    - **Missed the 72 h window → still worth doing** (5.32, new): **within 2 weeks** for CTP C 10–13, **within 1 week** for CTP B >7 with active bleeding
-   - **Not absolute contraindications** (5.33): [[acute-on-chronic-liver-failure|ACLF]], overt hepatic encephalopathy, hyperbilirubinaemia, **MELD score**, or **severe alcohol-related hepatitis** — VIII adds the last two to the Baveno VII list
+   - **Not absolute contraindications** (5.33): [[acute-on-chronic-liver-failure|acute-on-chronic liver failure (ACLF)]], overt hepatic encephalopathy (HE), hyperbilirubinaemia, **MELD score**, or **severe alcohol-related hepatitis** — VIII adds the last two to the Baveno VII list
    - ⚠ **The numeric futility rule is withdrawn.** Baveno VII 6.31 (CTP ≥14, or MELD >30 with lactate >12 mmol/L) is replaced by **Baveno VIII 5.37: salvage TIPS should be discussed for any refractory variceal bleeding regardless of age, Child-Pugh and MELD scores, case-by-case.** [[aasld-2024-tips]] GS 23 still carries the old thresholds; the newer Baveno VIII position governs, and a replacement futility score is a research priority (RA5.13)
    - **Refractory overt HE after TIPS → may be prioritised for [[liver-transplantation|liver transplantation]]** (5.34)
-   - Haemodynamic target: post-TIPS PPG **<12 mmHg** (near-complete protection from PH bleeding); ≥50% relative reduction may also suffice (Baveno VII 1.23, retained)
+   - Haemodynamic target: post-TIPS portal pressure gradient (PPG) **<12 mmHg** (near-complete protection from PH bleeding); ≥50% relative reduction may also suffice (Baveno VII 1.23, retained)
    - If TIPS not locally available → transfer to capable center
    - PREVENT and TRANSJIP-1 trials: preemptive TIPS significantly improves bleeding control and survival vs. standard pharmacologic + endoscopic therapy
 
 7. **Post-endoscopy care** (patients NOT receiving preemptive TIPS):
-   - Start **NSBB** (carvedilol 6.25 mg daily → 12.5 mg/day) at **discontinuation of vasoactive therapy** (GS 33) — full titration, down-titration (SBP <90 mmHg), and CTP B/C dose caveats live on [[portal-hypertension]]
-   - **Discontinue [[proton-pump-inhibitors|PPI]]** once portal-hypertension–related bleeding is confirmed as the source (unless a strong indication to continue; GS 37, Baveno VIII 5.14)
-   - Start **[[nutrition-in-liver-disease|enteral nutrition]]** once AVH episode controlled; variceal bands do NOT contraindicate NG tube placement (GS 36)
+   - Start **NSBB** (carvedilol 6.25 mg daily → 12.5 mg/day) at **discontinuation of vasoactive therapy** (GS 33) — full titration, down-titration (systolic blood pressure <90 mmHg), and CTP B/C dose caveats live on [[portal-hypertension]]
+   - **Discontinue [[proton-pump-inhibitors|proton pump inhibitor (PPI)]]** once portal-hypertension–related bleeding is confirmed as the source (unless a strong indication to continue; GS 37, Baveno VIII 5.14)
+   - Start **[[nutrition-in-liver-disease|enteral nutrition]]** once AVH episode controlled; variceal bands do NOT contraindicate nasogastric (NG) tube placement (GS 36)
    - **Consider iron supplementation for blood-loss anaemia** before discharge (Baveno VIII 5.27, new; Figure 3 gives the trigger as **Hb <10 g/dL**)
 
 8. **Salvage/Rescue TIPS** (GS 35): Uncontrolled AVH despite vasoactive + EVL ("salvage") or rebleed ("rescue"). **Baveno VIII 5.36–5.37:** salvage TIPS is the best management of failure to control bleeding despite combined pharmacological and endoscopic therapy, and **should be discussed for any refractory variceal bleeding regardless of age, Child-Pugh and MELD scores** — see the futility note in step 6
@@ -105,15 +105,15 @@ In a cirrhotic patient with UGIB, consider:
 - **Terlipressin → monitor sodium** for hyponatraemia (5.9)
 - Manage in an **intensive or intermediate care unit** (5.21); centres with a hepatology service should have **24/7 on-call endoscopist and assistant staff** proficient in variceal haemostasis (5.19)
 - **HCC alone may not preclude treatment** — decide within a multidisciplinary framework, accounting for futility criteria that relate to **both liver function and tumour prognosis** (5.46)
-- **Cirrhosis + [[portal-vein-thrombosis|PVT]]:** manage AVB as in patients without PVT; in selected patients **TIPS ± portal vein recanalisation** when other portal-hypertension factors are present (ascites, documented PVT progression) or the patient is a transplant candidate (5.45)
+- **Cirrhosis + [[portal-vein-thrombosis|portal vein thrombosis (PVT)]]:** manage AVB as in patients without PVT; in selected patients **TIPS ± portal vein recanalisation** when other portal-hypertension factors are present (ascites, documented PVT progression) or the patient is a transplant candidate (5.45)
 
 ## Key Tests
 
 | Test | Purpose |
 |------|---------|
-| CBC, BMP, LFTs, coagulation (PT/INR) | Severity, coagulopathy |
+| Complete blood count (CBC), basic metabolic panel (BMP), liver function tests (LFTs), coagulation (prothrombin time [PT]/INR) | Severity, coagulopathy |
 | Blood cultures × 2 | Bacteremia (obtain before antibiotics) |
-| Urinalysis | Rule out UTI as precipitant |
+| Urinalysis | Rule out urinary tract infection (UTI) as precipitant |
 | MELD, Child-Pugh score | Prognosis, TIPS candidacy |
 | Abdominal ultrasound with Doppler | Portal vein patency, splenomegaly, [[ascites]] |
 | EGD (within 12 hours) | Diagnosis + treatment |
@@ -123,7 +123,7 @@ In a cirrhotic patient with UGIB, consider:
 ## Red Flags / Alarm Features
 
 - Hemodynamic instability not responding to resuscitation → emergent endoscopy/TIPS consultation
-- Active spurting at endoscopy with failed EVL → surgical/IR consult for rescue TIPS or shunt
+- Active spurting at endoscopy with failed EVL → surgical/interventional radiology (IR) consult for rescue TIPS or shunt
 - CTP class C (score 10–13), or CTP class B >7 with active bleeding at endoscopy, or **HVPG ≥20 mmHg** → preemptive TIPS within 72 hours (ideally <24 h); **within 2 weeks (CTP C 10–13) or 1 week (CTP B >7 + active bleeding) if the window was missed**. **MELD is not an indication** — AASLD notes only that retrospective series show high mortality despite intervention at **MELD >19**, where early TIPS still beats standard therapy and transplant candidacy should be assessed promptly
 - Fundal/cardiofundal gastric varices (GOV2, IGV1) → do not band; require glue or BRTO/TIPS
 - [[hepatic-encephalopathy|Encephalopathy]] → cautious [[endoscopy-sedation|sedation for endoscopy]]; lactulose/[[rifaximin]]; avoid over-transfusion
@@ -144,7 +144,7 @@ Bleeding from **GOV2 or IGV1 is a high-risk event** requiring **rapid, structure
 
 **Temporizing vs definitive at the index endoscopy** ([[aga-2021-bleeding-gastric-varices|AGA 2021]] — ungraded Best Practice Advice; **outranked by Baveno VIII above wherever they speak to the same question**, but it is the only source for the items below):
 
-- **Give a promotility agent and use a therapeutic endoscope or advanced suctioning device** — intragastric blood frequently obscures the cardia and fundus. **Classify the esophageal varices as well as the gastric ones** at the index exam: the definitive GV therapies differ in their effect on subsequent EV bleeding risk.
+- **Give a promotility agent and use a therapeutic endoscope or advanced suctioning device** — intragastric blood frequently obscures the cardia and fundus. **Classify the esophageal varices as well as the gastric ones** at the index exam: the definitive gastric varix (GV) therapies differ in their effect on subsequent esophageal varix (EV) bleeding risk.
 - **Band ligation** achieves initial hemostasis in **45%–93%** but is inferior to cyanoacrylate for long-term control of cardiofundal GV → a reasonable **temporizing** measure that must be followed by definitive therapy. For **lesser-curve GV it is often the best definitive therapy**, given their similarity to EV.
 - **Gastric compression balloons** (Sengstaken-Blakemore, Linton-Nachlas) are highly effective temporizing for cardiofundal and lesser-curve GV — ⚠ **inflate only the gastric balloon**, and proceed to definitive therapy as fast as possible; prolonged balloon tension precipitates mucosal breakdown. *(Baveno VIII 5.35 prefers a dedicated covered SEMS over balloon tamponade as the bridge to TIPS — see step 5.)*
 - **Alcohol-based sclerotherapy (e.g. ethanolamine) is not recommended unless there is no other option** — marginal initial hemostasis, high early rebleeding, deep ulceration.
@@ -168,19 +168,19 @@ Bleeding from **GOV2 or IGV1 is a high-risk event** requiring **rapid, structure
 | **BRTO / transvenous obliteration** | **[[endoscopic-ultrasound\|EUS]] within 48 h** to confirm obliteration, assess EV exacerbation, and set a new baseline — **if residual vascular flow is detected, inject cyanoacrylate**. Unobliterated minimal areas usually thrombose spontaneously within **1–2 months**. Clinic visit + labs + **contrast-enhanced CT/MR at 4–6 weeks**, then **3 and 6 months**, and as clinically indicated. ⚠ **Esophageal varices are exacerbated after BRTO — up to 30%–35% progress in size** and are the commonest source of post-BRTO bleeding: **repeat upper endoscopy within 2 weeks if high-risk EV were present at BRTO, within 4–6 weeks if low-risk**, and treat per standard guidelines |
 | **Any — de novo or recurrent GV on long-term (>12 mo) follow-up** | Repeat cross-sectional imaging and return to multidisciplinary discussion |
 
-- ⚠ *Baveno VIII / [[aasld-2024-tips]] give a **72-hour** CT-or-EUS confirmation and a **1–2 month** follow-up endoscopy after RTO (see [[tips]]); the AGA CPU's 48-hour EUS and 2-/4–6-week EV-risk-stratified endoscopy are the older and more granular version. The newer documents govern the confirmation timing.*
+- ⚠ *Baveno VIII / [[aasld-2024-tips]] give a **72-hour** CT-or-EUS confirmation and a **1–2 month** follow-up endoscopy after retrograde transvenous obliteration (RTO) (see [[tips]]); the AGA CPU's 48-hour EUS and 2-/4–6-week EV-risk-stratified endoscopy are the older and more granular version. The newer documents govern the confirmation timing.*
 - **Endovascular therapy is only for proven GV bleeding** — electively after, or emergently during, the first sentinel bleed. **No form of primary prophylaxis for GV was supported** at the time of this CPU, and **endoscopic classification systems must not be used to guide primary prophylaxis** (BPA 1). ⚠ **Superseded:** Baveno VIII 3.21b now permits local therapy for high-risk GOV2/IGV1 when NSBB is contraindicated — see [[portal-hypertension]].
 - ⚠ **What changed:** [[aasld-2023-portal-hypertension]] GS 45 and [[aasld-2024-tips]] GS 26 list cyanoacrylate injection, TIPS, and RTO as three co-equal first-line options. Baveno VIII separates the question into *acute haemostasis* (endoscopic or EUS-guided, with **EUS-guided coil + glue preferred where available**) and *definitive therapy* (**TIPS ± embolisation preferred**), rather than treating them as alternatives to choose between once.
 
 ## Portal Hypertensive Gastropathy and GAVE
 
 - **PHG (Baveno VIII 5.44):** management focuses **primarily on reducing portal pressure with NSBB**. For severe or refractory PHG bleeding, **TIPS is the most effective rescue therapy**. Because endoscopic therapies do not lower portal pressure, **they provide limited benefit and are reserved for focal bleeding lesions or salvage**. ⚠ Baveno VII 7.14 had said endoscopic therapy ([[argon-plasma-coagulation|argon plasma coagulation]], hemospray) "may be used"
-- **GAVE (Baveno VIII 5.43):** in patients **requiring serial transfusion**, **EVL is recommended over argon plasma coagulation** (LoE 1, strong) — higher eradication rates, fewer treatment sessions, and reductions in recurrent bleeding, hospitalisation and transfusion requirement. ⚠ Baveno VII 6.25 listed APC, [[radiofrequency-ablation|RFA]] and band ligation as interchangeable options for PHG/GAVE
+- **GAVE (Baveno VIII 5.43):** in patients **requiring serial transfusion**, **EVL is recommended over argon plasma coagulation** (level of evidence [LoE] 1, strong) — higher eradication rates, fewer treatment sessions, and reductions in recurrent bleeding, hospitalisation and transfusion requirement. ⚠ Baveno VII 6.25 listed APC, [[radiofrequency-ablation|radiofrequency ablation (RFA)]] and band ligation as interchangeable options for PHG/GAVE
 - **PHG must be distinguished from GAVE** — the treatments differ (Baveno VI/VII, retained as still valid in Baveno VIII)
 
 ## Antibiotic Prophylaxis
 
-Standard practice recommends prophylactic antibiotics to prevent bacterial infections ([[spontaneous-bacterial-peritonitis|SBP]], bacteremia) that independently worsen outcomes in variceal UGIB.
+Standard practice recommends prophylactic antibiotics to prevent bacterial infections ([[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]], bacteremia) that independently worsen outcomes in variceal UGIB.
 
 *Regimen and dosing: see step 3 of the [[#Diagnostic Algorithm]] — not repeated here. This section covers the **duration** question only.*
 
@@ -191,7 +191,7 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 - Shorter courses associated with 15.2% higher bacterial infection rate
 - Evidence quality is low (12/14 studies unblinded; 8/14 high risk of bias)
 - Most data from Asia/Europe; US applicability uncertain
-- Post-2004 data show stronger non-inferiority signals (modern endoscopy + ICU care)
+- Post-2004 data show stronger non-inferiority signals (modern endoscopy + intensive care unit [ICU] care)
 
 **Current recommendation**: The 5–7 day duration recommendation is not supported by high-quality evidence. An individualized approach is reasonable — consider patient-specific factors (liver disease severity, local resistance patterns). Shorter durations (2–3 days) may be acceptable in lower-risk patients if prophylaxis is used.
 

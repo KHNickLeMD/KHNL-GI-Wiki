@@ -14,7 +14,7 @@ sources: []
 - **Year:** 2020
 - **Journal/Publisher:** Am J Gastroenterol 2020;115:1751–1767. <https://doi.org/10.14309/ajg.0000000000001013>
 - **DOI:** [10.14309/ajg.0000000000001013](https://doi.org/10.14309/ajg.0000000000001013)
-- **Type:** Guideline (USMSTF clinical practice guideline)
+- **Type:** Guideline (US Multi-Society Task Force on Colorectal Cancer [USMSTF] clinical practice guideline)
 - **Published jointly in:** Am J Gastroenterol, Gastroenterology, and Gastrointestinal Endoscopy
 
 ---
@@ -23,11 +23,11 @@ sources: []
 
 Malignant colorectal polyps are defined as colorectal lesions with neoplastic invasion of the submucosa without extension into the muscularis propria (pT1). The prevalence of cancer in colorectal polyps ranges from 0.2% to 5%. This guideline addresses three tasks: (1) endoscopic recognition of colorectal polyps with deep submucosal invasion that should be referred directly to surgery; (2) optimal endoscopic resection techniques and specimen handling when superficial submucosal invasion is suspected; and (3) histologic risk stratification after [[polypectomy]] to guide surgical vs. surveillance management.
 
-The guideline uses GRADE methodology adapted for the USMSTF, with evidence grades A (high), B (moderate), C (low), and D (very low). The document organizes its guidance around six key questions (KQs) with specific numbered recommendations. A companion document addresses optimal resection techniques for large and potentially malignant polyps; this document excludes polyps in inflammatory bowel disease.
+The guideline uses Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology adapted for the USMSTF, with evidence grades A (high), B (moderate), C (low), and D (very low). The document organizes its guidance around six key questions (KQs) with specific numbered recommendations. A companion document addresses optimal resection techniques for large and potentially malignant polyps; this document excludes polyps in inflammatory bowel disease.
 
 A central theme is that multidisciplinary management involving the endoscopist, pathologist, oncologist, surgeon, and patient is optimal. The endoscopist frequently serves as the primary coordinator given their central role in lesion assessment and resection.
 
-Deep submucosal invasion (≥1 mm, "SM2/SM3") carries a 10–18% risk of residual cancer in the bowel wall or lymph nodes after endoscopic resection and is a general indication for adjuvant surgical resection. Superficial invasion (<1 mm, "SM1") carries a very low risk of lymph node metastasis (0–4%) provided other adverse histologic features are absent. The unfavorable histologic criteria driving surgical referral are: depth of submucosal invasion >1 mm, positive polypectomy margins, poor grade of differentiation, tumor budding, and lymphovascular invasion.
+Deep submucosal invasion (≥1 mm, "SM2/SM3") carries a 10–18% risk of residual cancer in the bowel wall or lymph nodes after endoscopic resection and is a general indication for adjuvant surgical resection. Superficial invasion (<1 mm, "SM1") carries a very low risk of lymph node metastasis (LNM; 0–4%) provided other adverse histologic features are absent. The unfavorable histologic criteria driving surgical referral are: depth of submucosal invasion >1 mm, positive polypectomy margins, poor grade of differentiation, tumor budding, and lymphovascular invasion (LVI).
 
 ---
 
@@ -48,19 +48,19 @@ Deep submucosal invasion (≥1 mm, "SM2/SM3") carries a 10–18% risk of residua
 | 1 | Negative for neoplasia/dysplasia |
 | 2 | Indefinite for neoplasia/dysplasia |
 | 3 | Noninvasive low-grade neoplasia (low-grade adenoma/dysplasia) |
-| 4 | Noninvasive high-grade (4.1 HGD; 4.2 carcinoma in situ; 4.3 suspicion of invasive carcinoma) |
+| 4 | Noninvasive high-grade (4.1 high-grade dysplasia; 4.2 carcinoma in situ; 4.3 suspicion of invasive carcinoma) |
 | 5 | Invasive neoplasia (5.1 intramucosal carcinoma; 5.2 submucosal carcinoma or beyond) |
 
 - Malignant polyps = Vienna 5.2. Lesions confined to mucosa/lamina propria/muscularis mucosae = Vienna 4 ("Tis"); no LNM risk; no surgical referral.
 
 **NICE Classification (Narrow Band Imaging International Colorectal Endoscopic):**
 
-- Type 1: same/lighter color, no/isolated lacy vessels, dark/white uniform spots → hyperplastic/SSL
-- Type 2: brown color, brown vessels surrounding white structures, oval/tubular/branched white structures → adenoma to superficial SMI
+- Type 1: same/lighter color, no/isolated lacy vessels, dark/white uniform spots → hyperplastic/sessile serrated lesion (SSL)
+- Type 2: brown color, brown vessels surrounding white structures, oval/tubular/branched white structures → adenoma to superficial submucosal invasion (SMI)
 - Type 3: brown/black, disrupted/missing vessels, amorphous/absent pattern → **deep submucosal invasion**
 - NICE 3 has 94% accuracy and 96% negative predictive value for deep SMI (Hayashi et al, 80 images, 5 expert endoscopists).
 
-**JNET Classification (Japanese NBI Expert Team):**
+**JNET Classification (Japanese Narrow Band Imaging [NBI] Expert Team):**
 
 - Type 1: invisible vessels, dark/white spots → hyperplastic/SSL
 - Type 2A: regular caliber/distribution, regular tubular/branched surface → low-grade intramucosal neoplasia
@@ -80,7 +80,7 @@ Deep submucosal invasion (≥1 mm, "SM2/SM3") carries a 10–18% risk of residua
 | VI | Irregular arrangement | Neoplastic, invasive |
 | VN | Loss/decrease of pits with amorphous structure | Neoplastic, invasive |
 
-- Kudo V was strongest factor for overt submucosal invasive cancer (OR 1.42; 95% CI 8.57–23.4; 97% specificity, 40% sensitivity, 93% diagnostic accuracy) in study of 2693 lesions.
+- Kudo V was strongest factor for overt submucosal invasive cancer (odds ratio [OR] 1.42; 95% confidence interval [CI] 8.57–23.4; 97% specificity, 40% sensitivity, 93% diagnostic accuracy) in study of 2693 lesions.
 - Meta-analysis of 20 studies: pooled sensitivity 90.4% (95% CI 79.7–95.7), pooled specificity 88.4% (95% CI 82.9–92.3) for Kudo VN.
 
 **Paris Classification (lesion morphology):**
@@ -94,7 +94,7 @@ Deep submucosal invasion (≥1 mm, "SM2/SM3") carries a 10–18% risk of residua
 
 - LST-G (granular): even-sized nodules = low SMI risk (<2%); mixed nodules = 7.1% (<20mm), 38% (>30mm)
 - LST-NG (non-granular): higher SMI risk; depressed/ulcerated subtype: 12.5% (10–19mm), 32.4% (20–29mm), 83.3% (≥30mm). LST-NG in right colon more often has SMI.
-- Nonlifting sign: PPV ~80% for SMI in sessile polyps, but can result from fibrosis (prior biopsy/cautery/tattoo) — not an absolute contraindication to endoscopic resection.
+- Nonlifting sign: positive predictive value (PPV) ~80% for SMI in sessile polyps, but can result from fibrosis (prior biopsy/cautery/tattoo) — not an absolute contraindication to endoscopic resection.
 
 **Haggitt Classification (pedunculated polyps):**
 
@@ -119,7 +119,7 @@ Deep submucosal invasion (≥1 mm, "SM2/SM3") carries a 10–18% risk of residua
 
 **Independent predictors of LNM (systematic review, 17 studies, n=3621):**
 
-- Lymphatic invasion: RR 5.2 (95% CI 4.0–6.8)
+- Lymphatic invasion: relative risk (RR) 5.2 (95% CI 4.0–6.8)
 - Submucosal invasion >1 mm: RR 5.2 (95% CI 1.8–15.4)
 - Tumor budding: RR 5.1 (95% CI 3.6–1) and RR 5.2 (95% CI 1.8–15.4)
 
@@ -149,13 +149,13 @@ Deep submucosal invasion (≥1 mm, "SM2/SM3") carries a 10–18% risk of residua
 - Defined as single tumor cell or cluster of ≤4 cells at invasive margin; International Tumor Budding Consensus Conference (ITBCC 2016) definition
 - OR 20.1 (95% CI 1.6–246.5) for LNM in one Japanese study (n=98 malignant polyps)
 - Meta-analysis (13 studies, n=7066): OR 4.59 (95% CI 3.44–6.13)
-- AJCC and CAP 2018 recommend tumor budding be included in synoptic reporting
+- American Joint Committee on Cancer (AJCC) and College of American Pathologists (CAP) 2018 recommend tumor budding be included in synoptic reporting
 
 **Resection margin:**
 
 - Tumor-free margin ≥1 mm (ideally 2 mm): LNM recurrence 0–2%
 - Margin <1 mm: recurrence 21–33%
-- Positive margins: 16% residual malignancy at <1 mm, 21% at indeterminate, 0% at ≥1 mm (study of 147 patients, EMR + surgical resection)
+- Positive margins: 16% residual malignancy at <1 mm, 21% at indeterminate, 0% at ≥1 mm (study of 147 patients, endoscopic mucosal resection + surgical resection)
 - Positive polypectomy margins: OR 22 (95% CI 10.3–46.6) for unfavorable outcomes (systematic review, 31 studies, n=1900)
 
 ### Favorable vs. Unfavorable Histologic Criteria
@@ -254,15 +254,15 @@ Deep submucosal invasion (≥1 mm, "SM2/SM3") carries a 10–18% risk of residua
 - **[[polypectomy]]** — Updated with comprehensive malignant polyp section: Haggitt/Kikuchi staging systems, NICE/JNET/Kudo classification for predicting deep SMI, favorable vs. unfavorable histologic criteria, en bloc resection criteria, surgical referral thresholds, specimen handling standards.
 - **[[colorectal-cancer]]** — Relevant to pT1 cancer management; Haggitt/Kikuchi staging bridges polypectomy and surgical oncology.
 - **[[colorectal-cancer-screening]]** — Context for polyp malignancy prevalence (0.2–5%) and post-polypectomy decision-making.
-- **[[endoscopic-ultrasound]]** — EUS is referenced as a tool for rectal cancer local staging; mentioned in the companion USMSTF 2015 surveillance document for post-resection rectal surveillance.
-- **[[lynch-syndrome]]** — Malignant polyps in Lynch patients may require different surgical thresholds; this document excludes IBD-associated polyps but not Lynch-related polyps specifically.
+- **[[endoscopic-ultrasound]]** — Endoscopic ultrasound (EUS) is referenced as a tool for rectal cancer local staging; mentioned in the companion USMSTF 2015 surveillance document for post-resection rectal surveillance.
+- **[[lynch-syndrome]]** — Malignant polyps in Lynch patients may require different surgical thresholds; this document excludes inflammatory bowel disease–associated polyps but not Lynch-related polyps specifically.
 
 ---
 
 ## Contradictions / Open Questions
 
 - The Haggitt classification has limited applicability to sessile/flat polyps resected endoscopically (all nonpedunculated malignant polyps = level 4 by definition), making it of marginal clinical utility for the most common endoscopic scenario.
-- Kikuchi SM level often cannot be reliably determined in endoscopic resection specimens because muscularis propria is not present; optical micrometer measurement of depth (≥1 mm) has replaced Kikuchi as the operative clinical standard.
+- Kikuchi submucosal (SM) level often cannot be reliably determined in endoscopic resection specimens because muscularis propria is not present; optical micrometer measurement of depth (≥1 mm) has replaced Kikuchi as the operative clinical standard.
 - Whether JNET classification can be applied accurately without full optical magnification remains uncertain; early studies show promise (referenced but not yet systematic review-level evidence).
 - Tumor budding definitions and reporting vary significantly across institutions; inter-observer variability is high for LVI. Adoption of ITBCC 2016 criteria and CAP synoptic templates remains incomplete in practice.
 - Decision to proceed to surgery must account for surgical mortality (1–8%, age- and comorbidity-dependent) vs. residual/recurrent cancer risk — shared decision-making is emphasized.

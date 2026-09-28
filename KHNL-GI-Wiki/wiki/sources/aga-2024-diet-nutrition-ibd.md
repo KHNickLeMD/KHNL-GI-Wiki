@@ -13,15 +13,15 @@ sources: []
 - **Year:** 2024
 - **Journal/Publisher:** Gastroenterology
 - **DOI:** [10.1053/j.gastro.2023.11.303](https://doi.org/10.1053/j.gastro.2023.11.303)
-- **Type:** guideline (AGA Clinical Practice Update — Expert Review; Best Practice Advice, not systematically graded)
+- **Type:** guideline (American Gastroenterological Association [AGA] Clinical Practice Update — Expert Review; Best Practice Advice, not systematically graded)
 
 ## Summary
 
-Diet is both an etiopathogenic risk factor and a disease-modifying modality in IBD. This AGA CPU issues **12 Best Practice Advice statements** on diet and nutritional therapy across IBD remission, active disease, and intestinal failure, with emphasis on recognizing and treating **malnutrition** (an underrecognized complication — 5.57× higher odds vs non-IBD inpatients; 16% outpatient prevalence, >½ in CD).
+Diet is both an etiopathogenic risk factor and a disease-modifying modality in inflammatory bowel disease (IBD). This AGA Clinical Practice Update (CPU) issues **12 Best Practice Advice statements** on diet and nutritional therapy across IBD remission, active disease, and intestinal failure, with emphasis on recognizing and treating **malnutrition** (an underrecognized complication — 5.57× higher odds vs non-IBD inpatients; 16% outpatient prevalence, >½ in Crohn's disease [CD]).
 
-A **Mediterranean diet** (rich in fresh fruit/vegetables, monounsaturated fats, complex carbohydrates, lean protein; low in ultraprocessed foods, added sugar, salt) is recommended for almost all patients for overall health — no diet consistently reduces flare rate in adults, though low red/processed meat may reduce UC (not CD) flares. Prior low-residue/low-fiber advice is reserved for symptomatic flares/strictures; fiber and produce should otherwise be reintroduced (soluble fiber preferred), using texture modification (cooking, blending, chewing) for strictures.
+A **Mediterranean diet** (rich in fresh fruit/vegetables, monounsaturated fats, complex carbohydrates, lean protein; low in ultraprocessed foods, added sugar, salt) is recommended for almost all patients for overall health — no diet consistently reduces flare rate in adults, though low red/processed meat may reduce ulcerative colitis (UC) (not CD) flares. Prior low-residue/low-fiber advice is reserved for symptomatic flares/strictures; fiber and produce should otherwise be reintroduced (soluble fiber preferred), using texture modification (cooking, blending, chewing) for strictures.
 
-**Enteral nutrition therapies for CD:** Exclusive enteral nutrition (EEN) induces clinical remission and endoscopic response in CD (stronger evidence in children; remission rates 60–80%, comparable to corticosteroids) and serves as a steroid-sparing bridge; the **Crohn's disease exclusion diet (CDED)** — a partial enteral nutrition (PEN) regimen — is effective for mild–moderate, short-duration CD. Preoperative EEN in malnourished CD ("prehabilitation") reduces postoperative complications. **Parenteral nutrition (PN)** is reserved for intestinal failure, high-output fistula, prolonged ileus, short bowel syndrome (SBS), or severe malnutrition when EN fails/contraindicated; long-term PN in SBS is transitioned to customized hydration/oral intake, aided by **GLP-2 agonists**. Registered dietitians (RDs) are essential co-managers.
+**Enteral nutrition therapies for CD:** Exclusive enteral nutrition (EEN) induces clinical remission and endoscopic response in CD (stronger evidence in children; remission rates 60–80%, comparable to corticosteroids) and serves as a steroid-sparing bridge; the **Crohn's disease exclusion diet (CDED)** — a partial enteral nutrition (PEN) regimen — is effective for mild–moderate, short-duration CD. Preoperative EEN in malnourished CD ("prehabilitation") reduces postoperative complications. **Parenteral nutrition (PN)** is reserved for intestinal failure, high-output fistula, prolonged ileus, short bowel syndrome (SBS), or severe malnutrition when enteral nutrition (EN) fails/contraindicated; long-term PN in SBS is transitioned to customized hydration/oral intake, aided by **glucagon-like peptide-2 (GLP-2) agonists**. Registered dietitians (RDs) are essential co-managers.
 
 ## Key Findings / Claims
 
@@ -44,17 +44,17 @@ A **Mediterranean diet** (rich in fresh fruit/vegetables, monounsaturated fats, 
 - **EEN:** entire caloric intake from oral liquid meal replacements (polymeric, no single product superior; eg, Ensure Plus, Jevity, Kate Farms), typically 6–8 wk; first-line steroid-sparing in pediatric CD (remission 60–80%). Product fatigue/adherence limits adult use.
 - **CDED:** whole-foods diet + PEN in 3 phases (phase 1 wk 1–6; phase 2 wk 7–12; phase 3 wk 13+); ~50% calories from formula in phase 1, ~25% in phases 2–3; foods low in fiber, taurine, saturated fat. In children CDED was **better tolerated than EEN and equally effective** for week-6 remission; 1–2 wk EEN → CDED comparable to EEN alone; may salvage biologic loss-of-response.
 - **DINE-CD trial** (Lewis 2021): Mediterranean diet ≈ specific carbohydrate diet for symptomatic remission and calprotectin response in mild–moderate CD.
-- **Low-FODMAP:** improves IBS-like symptoms in IBD but reduces butyrate-producing microbiota → short-term use during flares only, not long-term.
+- **Low–fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAP):** improves irritable bowel syndrome (IBS)-like symptoms in IBD but reduces butyrate-producing microbiota → short-term use during flares only, not long-term.
 - **No evidence** to avoid gluten in IBD absent celiac disease/gluten sensitivity.
-- **PN indications/thresholds:** intestinal failure; high-output intestinal fistula (>500 mL/24 h); high ostomy output (>2000 mL/24 h); inability to maintain >60% of energy/protein goals orally/EN for 7–10 d; NPO ≥7 d before surgery. EN preferred over PN when gut usable.
-- **Malnutrition criteria:** ≥2 of clinically significant weight loss, reduced energy intake, loss of lean/subcutaneous fat mass, fluid accumulation, diminished grip strength; GLIM and ESPEN (BMI <18.5) criteria; validated **abridged PG-SGA** IBD tool.
-- **Micronutrients:** monitor vitamin D, iron (CBC + ferritin + transferrin saturation + CRP; q6–12 mo remission, q3 mo active); IV iron faster/better tolerated than oral. B12 risk with terminal ileal resection >30 cm or ileoanal pouch; replete 1000 µg IM/SC q1–4 wk for life.
+- **PN indications/thresholds:** intestinal failure; high-output intestinal fistula (>500 mL/24 h); high ostomy output (>2000 mL/24 h); inability to maintain >60% of energy/protein goals orally/EN for 7–10 d; nothing by mouth (NPO) ≥7 d before surgery. EN preferred over PN when gut usable.
+- **Malnutrition criteria:** ≥2 of clinically significant weight loss, reduced energy intake, loss of lean/subcutaneous fat mass, fluid accumulation, diminished grip strength; Global Leadership Initiative on Malnutrition (GLIM) and European Society for Clinical Nutrition and Metabolism (ESPEN) (body mass index [BMI] <18.5) criteria; validated **abridged Patient-Generated Subjective Global Assessment (PG-SGA)** IBD tool.
+- **Micronutrients:** monitor vitamin D, iron (complete blood count [CBC] + ferritin + transferrin saturation + C-reactive protein [CRP]; q6–12 mo remission, q3 mo active); intravenous (IV) iron faster/better tolerated than oral. B12 risk with terminal ileal resection >30 cm or ileoanal pouch; replete 1000 µg intramuscular (IM)/subcutaneous (SC) q1–4 wk for life.
 - **SBS:** intestinal adaptation over 1–2 yr; ~50% of adults, 73% of children wean off PN; "dry meals," oral rehydration solutions, GLP-2 agonists aid weaning.
 
 ## Relevance to Wiki
 - Creates/updates [[nutrition-in-ibd]] (concept — home for diet framework, EEN/CDED, PN/SBS detail, malnutrition screening).
 - Updates [[crohns-disease]] (EEN/CDED as induction/steroid-sparing options; preoperative EEN prehabilitation) and [[ulcerative-colitis]] (Mediterranean diet, limited EN role).
-- Touches [[obesity]]/[[semaglutide]] context via GLP-2 vs GLP-1 distinction (GLP-2 = teduglutide-class for SBS).
+- Touches [[obesity]]/[[semaglutide]] context via GLP-2 vs glucagon-like peptide-1 (GLP-1) distinction (GLP-2 = teduglutide-class for SBS).
 
 ## Contradictions / Open Questions
 - No head-to-head evidence establishes which Mediterranean-diet components drive benefit; no diet reliably lowers adult flare rates. Adult EEN efficacy is limited by adherence, not necessarily biology.

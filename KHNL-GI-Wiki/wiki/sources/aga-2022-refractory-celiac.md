@@ -14,9 +14,9 @@ sources: [acg-2022-celiac]
 - **Year:** 2022
 - **Journal/Publisher:** *Gastroenterology* 2022;163(5):1461–1469
 - **DOI:** [10.1053/j.gastro.2022.07.086](https://doi.org/10.1053/j.gastro.2022.07.086)
-- **Type:** guideline (AGA Clinical Practice Update — expert review)
+- **Type:** guideline (American Gastroenterological Association [AGA] Clinical Practice Update — expert review)
 
-⚠ **Evidence grading:** this is a CPU expert review. Systematic reviews were **not** performed, so the 10 Best Practice Advice (BPA) statements carry **no formal quality-of-evidence or strength ratings**. The authors state this explicitly.
+⚠ **Evidence grading:** this is a Clinical Practice Update (CPU) expert review. Systematic reviews were **not** performed, so the 10 Best Practice Advice (BPA) statements carry **no formal quality-of-evidence or strength ratings**. The authors state this explicitly.
 
 ## Summary
 
@@ -33,9 +33,9 @@ Corticosteroids — **open-capsule budesonide** preferentially — are first-lin
 ### Definitions
 
 - **Nonresponsive celiac disease** — persistent or recurrent symptoms/signs in a patient carrying a celiac diagnosis. Broad differential; RCD is only one branch.
-- **Refractory celiac disease (RCD)** — persistent symptoms of malabsorption **and** villous atrophy despite **≥12 months** of strict gluten-free diet.
+- **RCD** — persistent symptoms of malabsorption **and** villous atrophy despite **≥12 months** of strict gluten-free diet.
 - **RCD1** — villous atrophy with an IEL population similar to conventional celiac disease.
-- **RCD2** — aberrant clonal T-cell expansion in the GI tract and other organs; poorer prognosis; implies risk of ulcerative jejunoileitis and EATL.
+- **RCD2** — aberrant clonal T-cell expansion in the gastrointestinal (GI) tract and other organs; poorer prognosis; implies risk of ulcerative jejunoileitis and EATL.
 - Symptoms raising suspicion of RCD: diarrhea, weight loss, anemia, malabsorption with persistent nutritional deficiencies. Complications may present as GI bleeding, fever, night sweats, bowel obstruction.
 - **Elevated celiac antibodies do not establish RCD** — they indicate ongoing gluten ingestion. Antibody levels are often normal in RCD.
 
@@ -49,14 +49,14 @@ Corticosteroids — **open-capsule budesonide** preferentially — are first-lin
 | Cytoplasmic CD3 (cytCD3) | + | + |
 | CD8 | **+** | **–** (unusually may be +) |
 | CD7 | — | **+** |
-| sCD4 | — | – |
+|| Surface CD4 (sCD4) || — | – |
 | CD103 | — | + |
-| Surface TCR (sTCR) | **+** | **–** |
-| TCR β/γ rearrangement | Polyclonal | Clonal/monoclonal supports RCD2 |
+|| Surface T-cell receptor (sTCR) || **+** | **–** |
+|| T-cell receptor (TCR) β/γ rearrangement || Polyclonal | Clonal/monoclonal supports RCD2 |
 
 - **TCR rearrangement alone cannot diagnose RCD2.** Clones are detectable in newly diagnosed celiac disease, celiac on a gluten-free diet, and RCD1. Prominent clonal peaks can persist without progression. Conversely, RCD2 can occur *without* clonal TCR rearrangement — absence does not exclude it.
-- IHC detects approximate CD3+ lymphocyte numbers but **cannot distinguish sCD3 from cytCD3** — flow cytometry is required for that.
-- **Flow cytometry requires fresh, unfixed specimens** in RPMI medium or normal saline. IHC and PCR work on formalin-fixed or fresh tissue.
+- Immunohistochemistry (IHC) detects approximate CD3+ lymphocyte numbers but **cannot distinguish sCD3 from cytCD3** — flow cytometry is required for that.
+- **Flow cytometry requires fresh, unfixed specimens** in RPMI medium or normal saline. IHC and polymerase chain reaction (PCR) work on formalin-fixed or fresh tissue.
 - Expert hematopathologist consultation is required to interpret these studies.
 
 ### Best Practice Advice statements (all 10, verbatim)
@@ -98,17 +98,17 @@ Corticosteroids — **open-capsule budesonide** preferentially — are first-lin
 
 ### Other causes of villous atrophy to exclude
 
-- **Medication-induced** — **olmesartan enteropathy** (severe, responds rapidly to drug cessation); other ARBs; mycophenolate, methotrexate, azathioprine.
+- **Medication-induced** — **olmesartan enteropathy** (severe, responds rapidly to drug cessation); other angiotensin II receptor blockers (ARBs); mycophenolate, methotrexate, azathioprine.
 - Common variable immunodeficiency
 - **Autoimmune enteropathy** — sprue-like biopsy, other autoimmune diseases, anti-enterocyte and/or anti-goblet cell antibodies; pathology shows absence of Paneth or goblet cells and increased crypt apoptotic bodies. May coexist with celiac disease.
 - **Tropical sprue** — requires travel/residence in the tropics; folate and/or B12 deficiency characteristic; partial, often patchy villous atrophy with **less** intraepithelial lymphocytosis; responds rapidly to folic acid + tetracycline.
 - "Unclassified sprue" / idiopathic villous atrophy
-- On re-review by an experienced GI pathologist: EATL, low-grade CD4+ lymphoma, tuberculosis, *Mycobacterium avium* complex, giardiasis, Whipple's disease. HIV enteropathy should be excluded.
+- On re-review by an experienced GI pathologist: EATL, low-grade CD4+ lymphoma, tuberculosis, *Mycobacterium avium* complex, giardiasis, Whipple's disease. Human immunodeficiency virus (HIV) enteropathy should be excluded.
 - ⚠ **Frequent misstep named by the authors:** labeling a patient with consistent pathology as celiac and starting a gluten-free diet **without celiac serologic testing**. Villous atrophy from non-celiac causes will not respond to the diet.
 
 ### Imaging (BPA 5)
 
-- **RCD2 at diagnosis** → capsule endoscopy **and** CT or MR enterography, to exclude EATL and ulcerative jejunoileitis.
+- **RCD2 at diagnosis** → capsule endoscopy **and** computed tomography (CT) or magnetic resonance (MR) enterography, to exclude EATL and ulcerative jejunoileitis.
 - **RCD1** → lymphoma risk is *extremely low*; image only if not doing well on therapy.
 - Capsule endoscopy quantifies extent/severity of villous atrophy (greater in RCD2 than RCD1) and looks for complications.
 - CT/MR enterography may show bowel wall thickening, mesenteric adenopathy, small bowel masses, ulcerative jejunoileitis.
@@ -117,7 +117,7 @@ Corticosteroids — **open-capsule budesonide** preferentially — are first-lin
 
 ### Nutritional assessment (BPA 6–7)
 
-- Assess malnutrition by: history of nonvolitional weight loss; low BMI; exam/test showing loss of muscle mass or strength, ascites/edema, physical manifestations of micronutrient deficiency.
+- Assess malnutrition by: history of nonvolitional weight loss; low body mass index (BMI); exam/test showing loss of muscle mass or strength, ascites/edema, physical manifestations of micronutrient deficiency.
 - **Test objectively for:** fat-soluble vitamins **A, D, E**, and **prothrombin time** for potential vitamin K deficiency; **folate, B12, iron, copper, zinc**.
 - **Consider:** thiamine, magnesium, selenium, vitamin B6 — particularly with chronic or severe diarrhea.
 - **Albumin is an independent predictor of mortality** → monitor routinely.
@@ -134,10 +134,10 @@ Corticosteroids — **open-capsule budesonide** preferentially — are first-lin
 | **Mercaptopurine** | **1 mg/kg/d** | — | Same caution |
 | **Tioguanine** | **0.3 mg/kg/d** | 83% clinical response; 78% histologic response | **Not available in the United States** |
 | **Elemental diet** | — | 67% clinical response; 89% histologic improvement | — |
-| **Cladribine** | **0.1 mg/kg/day IV for 5 days**; 1–3 courses every 6 mo | 35% clinical improvement / 59% histologic improvement (one series); 81% clinical / 47% histologic response (another) | **RCD2 only** |
+| **Cladribine** | **0.1 mg/kg/day intravenous (IV) for 5 days**; 1–3 courses every 6 mo | 35% clinical improvement / 59% histologic improvement (one series); 81% clinical / 47% histologic response (another) | **RCD2 only** |
 | **Infliximab** | **5 mg/kg IV** | Case report | **RCD2 only** |
 | **Autologous stem cell transplantation** | — | 85% clinical response; 66% 4-year survival | **RCD2 only** |
-| **Anti-IL-15 monoclonal antibody (AMG 714)** | **8 mg/kg IV on day 0, day 7, then every 2 weeks through week 10** | Symptom improvement but **no** reduction of aberrant IELs | **RCD2 only**; failed its primary endpoint |
+| **Anti-interleukin-15 (IL-15) monoclonal antibody (AMG 714)** | **8 mg/kg IV on day 0, day 7, then every 2 weeks through week 10** | Symptom improvement but **no** reduction of aberrant IELs | **RCD2 only**; failed its primary endpoint |
 
 **Administration detail — open-capsule budesonide** (the reason it is "open-capsule"): the **first capsule is opened and placed into applesauce, the second opened and swallowed with water, and the third swallowed intact.**
 
@@ -159,15 +159,15 @@ Corticosteroids — **open-capsule budesonide** preferentially — are first-lin
 
 ## Relevance to Wiki
 
-- **[[celiac-disease]]** — supplies the entire nonresponsive/refractory limb: the RCD definition and 12-month threshold, the nonresponsive DDx, the RCD1-vs-RCD2 immunophenotype table, the biopsy protocol for flow cytometry, imaging rules, nutritional panel, and the therapy ladder with doses.
-- **[[small-intestinal-bacterial-overgrowth|SIBO]] / [[microscopic-colitis]] / [[irritable-bowel-syndrome]] / [[exocrine-pancreatic-insufficiency]]** — named as the systematic exclusions in nonresponsive celiac (BPA 3).
+- **[[celiac-disease]]** — supplies the entire nonresponsive/refractory limb: the RCD definition and 12-month threshold, the nonresponsive differential diagnosis (DDx), the RCD1-vs-RCD2 immunophenotype table, the biopsy protocol for flow cytometry, imaging rules, nutritional panel, and the therapy ladder with doses.
+- **[[small-intestinal-bacterial-overgrowth|small intestinal bacterial overgrowth (SIBO)]] / [[microscopic-colitis]] / [[irritable-bowel-syndrome]] / [[exocrine-pancreatic-insufficiency]]** — named as the systematic exclusions in nonresponsive celiac (BPA 3).
 - **[[capsule-endoscopy]]**, CT enterography / **[[mri-mrcp|MR enterography]]** — the RCD2 staging imaging pair.
 - **Budesonide / corticosteroid pages** — the open-capsule budesonide regimen and its administration detail.
 - Establishes **EATL** and **ulcerative jejunoileitis** as the complications that drive the whole RCD2 workup.
 
 ## Contradictions / Open Questions
 
-- **No contradiction with [[acg-2022-celiac]]** was identified; this CPU extends rather than overrides it, covering the post-diagnosis refractory limb that the ACG guideline treats more briefly. ACG 2022 is the newer *guideline*; within tier 1 it would win any direct conflict, but none arises here.
+- **No contradiction with [[acg-2022-celiac|American College of Gastroenterology (ACG) 2022]]** was identified; this CPU extends rather than overrides it, covering the post-diagnosis refractory limb that the ACG guideline treats more briefly. ACG 2022 is the newer *guideline*; within tier 1 it would win any direct conflict, but none arises here.
 - **Steroid dosing for RCD is not rigorously established by any source** — the CPU says so explicitly. The prednisone range (40–60 mg daily, slow taper over several months) and budesonide 3 mg TID come from Table 1's cited case series, not from trial data. **No taper schedule is given.**
 - Whether steroids reduce lymphoma risk in RCD2 is **unresolved**.
 - The optimal biopsy protocol for **follow-up** and RCD evaluation is explicitly "not well-defined."

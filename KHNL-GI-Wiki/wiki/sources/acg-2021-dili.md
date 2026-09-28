@@ -14,7 +14,7 @@ sources: []
 - **Year:** 2021
 - **Journal/Publisher:** Am J Gastroenterol 2021;116:878–898
 - **DOI:** [10.14309/ajg.0000000000001259](https://doi.org/10.14309/ajg.0000000000001259)
-- **Type:** Clinical practice guideline (ACG); GRADE methodology; 16 formal recommendations
+- **Type:** Clinical practice guideline (American College of Gastroenterology [ACG]); Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology; 16 formal recommendations
 
 ## Summary
 
@@ -22,23 +22,23 @@ This ACG guideline updates the 2014 guideline on idiosyncratic drug-induced live
 
 The most common causative agents are antimicrobials (especially amoxicillin-clavulanate, isoniazid, trimethoprim-sulfamethoxazole), antiepileptics, herbal and dietary supplements (HDS, second most common class in the US), and anticancer therapeutics (particularly [[immune-checkpoint-inhibitor-hepatitis|immune checkpoint inhibitors]] [ICIs]). DILI carries up to 10% mortality when hepatocellular jaundice is present (Hy's law).
 
-The guideline covers: diagnostic evaluation by injury pattern (R-value), causality assessment tools (RUCAM), liver biopsy indications, prognosis (MELD + Charlson comorbidity index + albumin), treatment including N-acetylcysteine (NAC) for early [[acute-liver-failure|ALF]], rechallenge policies, HDS-specific considerations, ICI-induced hepatotoxicity, and DILI in patients with chronic liver disease (CLD).
+The guideline covers: diagnostic evaluation by injury pattern (R-value), causality assessment tools (Roussel Uclaf Causality Assessment Method [RUCAM]), liver biopsy indications, prognosis (Model for End-Stage Liver Disease [MELD] + Charlson comorbidity index + albumin), treatment including N-acetylcysteine (NAC) for early [[acute-liver-failure|acute liver failure (ALF)]], rechallenge policies, HDS-specific considerations, ICI-induced hepatotoxicity, and DILI in patients with chronic liver disease (CLD).
 
 ## Key Findings / Claims
 
 **Diagnostic Framework:**
 
-- R-value = (ALT/ULN) ÷ (Alk P/ULN): hepatocellular R ≥5; mixed 2–5; cholestatic R ≤2
+- R-value = (alanine aminotransferase [ALT]/upper limit of normal [ULN]) ÷ (alkaline phosphatase [Alk P]/ULN): hepatocellular R ≥5; mixed 2–5; cholestatic R ≤2
 - DILI is a diagnosis of exclusion — competing etiologies must be systematically excluded
-- Minimum diagnostic elements: thorough medication/HDS history, viral hepatitis serologies (HAV, [[chronic-hepatitis-b|HBV]], [[hepatitis-c|HCV]] with RNA, HEV IgM if clinically indicated), autoimmune serologies (ANA, ASMA, IgG), imaging (US ± CT/MRI), and exposure timeline
-- Hepatocellular DILI: exclude acute viral hepatitis A/B/C/E, [[autoimmune-hepatitis|AIH]], [[wilson-disease|Wilson disease]] (especially in younger patients), [[budd-chiari-syndrome|Budd-Chiari]]; get HCV RNA not just antibody (anti-HCV may be negative acutely)
-- Cholestatic DILI: abdominal imaging first to exclude biliary obstruction; limit [[ercp|ERCP]] to cases where MRI/EUS cannot exclude stones/stricture/malignancy
+- Minimum diagnostic elements: thorough medication/HDS history, viral hepatitis serologies (hepatitis A virus [HAV], [[chronic-hepatitis-b|hepatitis B virus (HBV)]], [[hepatitis-c|hepatitis C virus (HCV)]] with RNA, hepatitis E virus [HEV] IgM if clinically indicated), autoimmune serologies (antinuclear antibody [ANA], anti-smooth muscle antibody [ASMA], IgG), imaging (ultrasound [US] ± computed tomography [CT]/magnetic resonance imaging [MRI]), and exposure timeline
+- Hepatocellular DILI: exclude acute viral hepatitis A/B/C/E, [[autoimmune-hepatitis|autoimmune hepatitis (AIH)]], [[wilson-disease|Wilson disease]] (especially in younger patients), [[budd-chiari-syndrome|Budd-Chiari]]; get HCV RNA not just antibody (anti-HCV may be negative acutely)
+- Cholestatic DILI: abdominal imaging first to exclude biliary obstruction; limit [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] to cases where MRI/endoscopic ultrasound (EUS) cannot exclude stones/stricture/malignancy
 
 **Causality Assessment:**
 
-- RUCAM (Roussel Uclaf Causality Assessment Method): bedside scoring tool, −10 to +14 scale; "possible" 3–5, "probable" 6–8, "highly probable" ≥9; suboptimal reliability (reliability coefficient 0.51) — useful as framework, not gold standard
+- RUCAM: bedside scoring tool, −10 to +14 scale; "possible" 3–5, "probable" 6–8, "highly probable" ≥9; suboptimal reliability (reliability coefficient 0.51) — useful as framework, not gold standard
 - Consensus expert opinion after excluding competing etiologies remains gold standard but not feasible in routine practice
-- DDW-J and CDS scales are RUCAM modifications; limited clinical use
+- Digestive Disease Week Japan (DDW-J) and Clinical Diagnostic Scale (CDS) scales are RUCAM modifications; limited clinical use
 
 **Liver Biopsy Indications:**
 
@@ -50,7 +50,7 @@ The guideline covers: diagnostic evaluation by injury pattern (R-value), causali
 
 **Prognosis:**
 
-- Hy's law: ALT/AST >3× ULN + total bilirubin >2× ULN + no other cause = ~10% mortality from DILI
+- Hy's law: ALT/aspartate aminotransferase (AST) >3× ULN + total bilirubin >2× ULN + no other cause = ~10% mortality from DILI
 - MELD cutoff 19 + modified Hy's law (bilirubin ≥2.5 mg/dL + [ALT/ULN ÷ Alk P/ULN] >5): good performance for 26-week mortality
 - Ghabril nomogram (MELD + Charlson comorbidity index + albumin): c-statistic 0.89–0.91 for 6-month mortality
 - Outcomes: ~69% recover, 17% develop chronic DILI, ~10% die or need transplant
@@ -58,14 +58,14 @@ The guideline covers: diagnostic evaluation by injury pattern (R-value), causali
 **Treatment:**
 
 - Stop offending agent promptly, especially when liver biochemistries rising rapidly: Strong/Low
-- NAC for early-stage (coma grade I–II) ALF from idiosyncratic DILI: Conditional/Low (transplant-free survival 58% vs 27% in NAC arm of DILI-ALF RCT)
+- NAC for early-stage (coma grade I–II) ALF from idiosyncratic DILI: Conditional/Low (transplant-free survival 58% vs 27% in NAC arm of DILI-ALF randomized controlled trial [RCT])
 - NAC against in pediatric DILI-ALF: Conditional/Low
 - No recommendation for/against corticosteroids; may be considered for DILI with AIH-like features: Conditional/Low
 - Strongly against rechallenge if initial injury was severe (>5× ULN ALT, Hy's law, or jaundice): Strong/Low
 
 **HDS-Induced Liver Injury:**
 
-- HDS = herbal and dietary supplements; second most common DILI cause in US
+- HDS: second most common DILI cause in US
 - Body building products (anabolic steroids) and weight loss supplements most commonly implicated
 - Not regulated for safety/efficacy before marketing; no FDA premarket approval required
 - Recommend encouraging patients to report all HDS use: Strong/Low
@@ -118,13 +118,13 @@ The guideline covers: diagnostic evaluation by injury pattern (R-value), causali
 - Creates [[drug-induced-liver-injury]] disease script
 - Cross-references: [[acute-liver-failure]] (NAC, transplant evaluation), [[autoimmune-hepatitis]] (AIH vs DILI distinction), [[immune-checkpoint-inhibitor-hepatitis]]
 - Informs HDS discussion in clinical context
-- Common culprits in GI practice: azathioprine, methotrexate, anti-TNF agents, 6-MP, thiopurines — cross-reference IBD medication pages
+- Common culprits in gastrointestinal (GI) practice: azathioprine, methotrexate, anti-tumor necrosis factor (anti-TNF) agents, 6-mercaptopurine (6-MP), thiopurines — cross-reference inflammatory bowel disease (IBD) medication pages
 
 ## Contradictions / Open Questions
 
 - NAC for DILI-ALF: positive RCT signal but confounded by transplant availability; effect size in coma grade I–II specifically; not proven for non-ALF DILI
 - Corticosteroids: no RCT data; widely used in practice for AIH-like DILI — clinical judgment remains primary
-- ICI hepatotoxicity management: rapidly evolving; more detailed guidance published after this guideline (refer to ASCO/SITC guidelines for ICI toxicity management)
+- ICI hepatotoxicity management: rapidly evolving; more detailed guidance published after this guideline (refer to American Society of Clinical Oncology [ASCO]/Society for Immunotherapy of Cancer [SITC] guidelines for ICI toxicity management)
 
 ## See Also
 

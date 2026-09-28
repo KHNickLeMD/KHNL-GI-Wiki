@@ -15,15 +15,15 @@ sources: []
 - **Journal:** Am J Gastroenterol 2025;120:738–764. doi:10.14309/ajg.0000000000003287
 - **Also published simultaneously in:** Gastrointestinal Endoscopy and Gastroenterology (joint publication)
 - **DOI:** [10.14309/ajg.0000000000003287](https://doi.org/10.14309/ajg.0000000000003287)
-- **Type:** Consensus recommendations (multi-society: ACG, AGA, ASGE); update to 2014 USMSTF recommendations
+- **Type:** Consensus recommendations (multi-society: American College of Gastroenterology [ACG], American Gastroenterological Association [AGA], American Society for Gastrointestinal Endoscopy [ASGE]); update to 2014 United States Multi-Society Task Force on Colorectal Cancer (USMSTF) recommendations
 
 ## Cross-Reference Note
 
-**This document is identical to [[usmstf-2025-bowel-prep]].** The same consensus statement was published simultaneously in three journals — the American Journal of Gastroenterology (ACG's journal), Gastrointestinal Endoscopy (ASGE's journal), and Gastroenterology (AGA's journal) — under the banner of USMSTF (United States Multi-Society Task Force on Colorectal Cancer), which represents ACG, AGA, and ASGE jointly. When this guideline is cited as "ACG 2025 Bowel Prep," it refers to the same document.
+**This document is identical to [[usmstf-2025-bowel-prep]].** The same consensus statement was published simultaneously in three journals — the American Journal of Gastroenterology (ACG's journal), Gastrointestinal Endoscopy (ASGE's journal), and Gastroenterology (AGA's journal) — under the banner of USMSTF, which represents ACG, AGA, and ASGE jointly. When this guideline is cited as "ACG 2025 Bowel Prep," it refers to the same document.
 
 For the complete recommendation table, risk factors, and full summary, see [[usmstf-2025-bowel-prep]].
 
-The sections below reproduce key content and highlight the GLP-1 receptor agonist detail and simethicone data that are particularly relevant clinically.
+The sections below reproduce key content and highlight the glucagon-like peptide-1 (GLP-1) receptor agonist detail and simethicone data that are particularly relevant clinically.
 
 ---
 
@@ -90,13 +90,13 @@ Update to the 2014 USMSTF bowel preparation recommendations. Twenty-five consens
 
 ### After Colonoscopy — Rescheduling Inadequate Prep
 
-22. Reschedule colonoscopy: within 12 months for screening/surveillance; as soon as possible (generally within 3 months) for abnormal noncolonoscopic CRC test (Strong/Moderate)
+22. Reschedule colonoscopy: within 12 months for screening/surveillance; as soon as possible (generally within 3 months) for abnormal noncolonoscopic colorectal cancer (CRC) test (Strong/Moderate)
 
 ### Modifications for Prior or Anticipated Inadequate Prep
 
 23. Prior inadequate prep: modify instructions to include ≥1 of: improved instruction communication; increased navigation; restrict vegetables/legumes 2–3 days prior; clear liquids only day before; promotility agents; treat constipation; hold anticholinergic/opioid/constipating medications; use high-volume prep (Strong/Moderate)
 2. High-risk for inadequate prep: manage same as prior inadequate prep (Strong/Moderate)
-3. Specific high-risk regimen: split-dose 4L PEG-ELS + bisacodyl 15mg afternoon before + low-residue diet 3 and 2 days prior + clear liquids day before (Weak/Low)
+3. Specific high-risk regimen: split-dose 4L polyethylene glycol–electrolyte lavage solution (PEG-ELS) + bisacodyl 15mg afternoon before + low-residue diet 3 and 2 days prior + clear liquids day before (Weak/Low)
 
 ---
 
@@ -105,9 +105,9 @@ Update to the 2014 USMSTF bowel preparation recommendations. Twenty-five consens
 Although GLP-1 receptor agonists (e.g., [[semaglutide]], liraglutide, tirzepatide) are not the subject of a formal numbered recommendation in this guideline (insufficient evidence at time of publication), the document specifically addresses them in the discussion of purgative timing and [[gastroparesis]] risk:
 
 - GLP-1 receptor agonists delay gastric emptying and may increase aspiration risk during procedural sedation, independent of bowel preparation quality.
-- The guideline notes that patients on GLP-1 agonists should be considered analogous to patients with gastroparesis for prep-adequacy risk stratification (OR for inadequate prep with gastroparesis: 1.6 [1.2–2.3]).
+- The guideline notes that patients on GLP-1 agonists should be considered analogous to patients with gastroparesis for prep-adequacy risk stratification (odds ratio [OR] for inadequate prep with gastroparesis: 1.6 [1.2–2.3]).
 - Clinicians should apply the high-risk prep modifications (Recommendation 23/24) for patients on GLP-1 agonists, including consideration of holding the medication per anesthesia/endoscopy unit protocols prior to colonoscopy.
-- Anesthesia society guidance (ASA) at the time of this guideline recommended holding weekly GLP-1 agonists for 1 week prior to elective procedures requiring sedation; this guidance should be followed in conjunction with bowel prep decisions.
+- Anesthesia society guidance (American Society of Anesthesiologists [ASA]) at the time of this guideline recommended holding weekly GLP-1 agonists for 1 week prior to elective procedures requiring sedation; this guidance should be followed in conjunction with bowel prep decisions.
 
 > Clinical implication: Patients on GLP-1 receptor agonists scheduled for colonoscopy warrant individualized assessment — consider high-risk prep protocol, potential medication hold per anesthesia protocol, and enhanced patient counseling about aspiration risk.
 
@@ -117,7 +117,7 @@ Although GLP-1 receptor agonists (e.g., [[semaglutide]], liraglutide, tirzepatid
 
 Recommendation 13 (Weak/Moderate) is supported by:
 
-- Multiple RCTs and meta-analyses showing simethicone as adjunct reduces intraluminal bubbles and improves mucosal visibility scores
+- Multiple randomized controlled trials (RCTs) and meta-analyses showing simethicone as adjunct reduces intraluminal bubbles and improves mucosal visibility scores
 - Optimal dose: ≥320 mg; timing relative to prep ingestion not precisely established
 - No meaningful adverse effects identified
 - Non-simethicone adjuncts (e.g., polyethylene glycol with ascorbic acid alone, bisacodyl in low-risk patients, sodium picosulfate) not recommended routinely outside of defined high-risk protocols (Recommendation 14, Weak/Low)
@@ -126,7 +126,7 @@ Recommendation 13 (Weak/Moderate) is supported by:
 
 ## Risk Factors for Inadequate Bowel Preparation
 
-| Risk Factor | OR (95% CI) |
+| Risk Factor | OR (95% confidence interval [CI]) |
 |---|---|
 | Cirrhosis | 3.4 (1.5–7.9) |
 | Parkinson disease | 3.2 (1.2–9.3) |
@@ -137,7 +137,7 @@ Recommendation 13 (Weak/Moderate) is supported by:
 | Gastroparesis / GLP-1 agonist use | 1.6 (1.2–2.3) |
 | Prior colorectal surgery | 1.6 (1.2–2.2) |
 | Lower education level | 1.5 (1.3–1.8) |
-| BMI >30 | 1.5 (1.2–1.8) |
+| Body mass index (BMI) >30 | 1.5 (1.2–1.8) |
 | Inpatient status | 1.5 (1.1–2.1) |
 | Hypertension | 1.3 (1.2–1.4) |
 | Tobacco use | 1.3 (1.1–1.5) |

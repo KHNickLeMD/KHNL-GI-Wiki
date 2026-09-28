@@ -9,7 +9,7 @@ sources: [aga-2024-full-thickness-resection, asge-2017-subepithelial-lesions, us
 
 # Endoscopic Full-Thickness Resection (EFTR)
 
-Resection of a [[subepithelial-lesion|subepithelial lesion]] through the full wall thickness — the endoscopic alternative to surgery when [[endoscopic-mucosal-resection|EMR]] or [[endoscopic-submucosal-dissection|ESD]] cannot excise the lesion completely. Colorectal eFTR for *mucosal* lesions (non-lifting adenomas, early T1 [[colorectal-cancer|CRC]]) is covered on [[colorectal-esd]].
+Resection of a [[subepithelial-lesion|subepithelial lesion]] through the full wall thickness — the endoscopic alternative to surgery when [[endoscopic-mucosal-resection|endoscopic mucosal resection (EMR)]] or [[endoscopic-submucosal-dissection|endoscopic submucosal dissection (ESD)]] cannot excise the lesion completely. Colorectal endoscopic full-thickness resection (eFTR) for *mucosal* lesions (non-lifting adenomas, early T1 [[colorectal-cancer|colorectal cancer (CRC)]]) is covered on [[colorectal-esd]].
 
 ## Contents
 - [[#Overview]]
@@ -27,18 +27,18 @@ Resection of a [[subepithelial-lesion|subepithelial lesion]] through the full wa
 ## Overview
 
 - **EFTR** = local resection of a tumor, often requiring dissection through the adjacent **muscularis propria** for complete resection.
-- Less invasive alternative to surgery for **diagnosis and treatment** of GI [[subepithelial-lesion|subepithelial lesions (SELs)]].
+- Less invasive alternative to surgery for **diagnosis and treatment** of gastrointestinal (GI) [[subepithelial-lesion|subepithelial lesions (SELs)]].
 - SELs arise from the wall (muscularis mucosa, submucosa, or muscularis propria); most small/incidental.
   - **~15% have malignant potential**; progression risk varies by size, location, histology.
-  - Definitive tissue Dx often not possible — **[[endoscopic-ultrasound|EUS]]-FNA/FNB yield ranges from ~20% to >90%**, highly operator-dependent.
+  - Definitive tissue diagnosis often not possible — **[[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]–fine-needle aspiration (FNA)/fine-needle biopsy (FNB) yield ranges from ~20% to >90%**, highly operator-dependent.
 - **Two technique families:**
   - **Exposed** — resection of all layers *including mucosa*; full-thickness excision completed **before** wall-defect closure.
-  - **Nonexposed** — either preserves an overlying mucosal flap (STER) or is a **"close first, then cut"** device-assisted method that avoids the impending perforation.
+  - **Nonexposed** — either preserves an overlying mucosal flap (submucosal tunneling endoscopic resection [STER]) or is a **"close first, then cut"** device-assisted method that avoids the impending perforation.
 - **Individualized plan** essential — account for **size, location, histology**; "ideal" technique depends on lesion/patient characteristics and endoscopist expertise.
 
 ## Indications
 
-- **Layer of origin is the indication.** SELs **arising from or infiltrating the muscularis propria — especially [[gastrointestinal-stromal-tumor|GIST]] — require a full-thickness resection** for reliable and complete removal; lesions confined to mucosa/submucosa do not ([[asge-2017-subepithelial-lesions]]).
+- **Layer of origin is the indication.** SELs **arising from or infiltrating the muscularis propria — especially [[gastrointestinal-stromal-tumor|gastrointestinal stromal tumor (GIST)]] — require a full-thickness resection** for reliable and complete removal; lesions confined to mucosa/submucosa do not ([[asge-2017-subepithelial-lesions]]).
 - Neoplastic SELs (e.g. GIST, [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]]) where en-bloc/complete excision is the goal.
 - **Expert-opinion indication (exposed EFTR):** consider when **other methods ([[endoscopic-mucosal-resection|EMR]], [[endoscopic-submucosal-dissection|ESD]], nonexposed EFTR) cannot reliably and completely excise the SEL** due to larger size or difficult location.
 - Also serves a **diagnostic** role when EUS-FNA/FNB is nondiagnostic.
@@ -52,7 +52,7 @@ Resection of a [[subepithelial-lesion|subepithelial lesion]] through the full wa
 | Esophagus | **Avoid** — leak consequences devastating, closure notoriously difficult |
 | Duodenum | **Avoid** — same rationale |
 
-- **Preoperative evaluation (required for all):** endoscopy, EUS, cytology, histopathology, and cross-sectional imaging when indicated (per AGA CPU on SELs).
+- **Preoperative evaluation (required for all):** endoscopy, EUS, cytology, histopathology, and cross-sectional imaging when indicated (per American Gastroenterological Association [AGA] clinical practice update [CPU] on SELs).
 - **Multidisciplinary approach strongly advised** — surgeons, pathologists, radiologists, oncologists, gastroenterologists.
 
 ## Size Limits & Patient Selection
@@ -60,12 +60,12 @@ Resection of a [[subepithelial-lesion|subepithelial lesion]] through the full wa
 | Technique | Size / selection threshold |
 |---|---|
 | **Exposed EFTR/ESD** | Any size; any wall layer |
-| **STER / POET** | **≤3 cm** (Table 1); SELs **>3–4 cm** often require conversion to exposed EFTR; one study proposed **≤30 mm** in the axis perpendicular to cranio-caudal length on cross-sectional imaging |
-| **FTRD** | **<15 mm** SELs (Table 1: *"limited to small lesions (<15 mm in size)"*); **≥15 mm** SELs → higher risk of incomplete resection; effective/safe for **neuroendocrine tumors <10 mm**; **mucosal** lesions generally **≤20 mm** |
+| **STER / peroral endoscopic tunnel resection (POET)** | **≤3 cm** (Table 1); SELs **>3–4 cm** often require conversion to exposed EFTR; one study proposed **≤30 mm** in the axis perpendicular to cranio-caudal length on cross-sectional imaging |
+| **Full-thickness resection device (FTRD)** | **<15 mm** SELs (Table 1: *"limited to small lesions (<15 mm in size)"*); **≥15 mm** SELs → higher risk of incomplete resection; effective/safe for **neuroendocrine tumors <10 mm**; **mucosal** lesions generally **≤20 mm** |
 
 - ⚠ STER size ceiling varies across sources; this CPU uses ≤3 cm.
 - **The SEL ceiling is tighter than the mucosal one, and that is the source's own point** — [[aga-2024-full-thickness-resection|AGA 2024]]: *"although the FTRD is generally accepted for mucosal lesions ≤20 mm, studies have found that resection of SELs ≥15 mm in size may be associated with a higher risk of incomplete resection."* A bulky SEL slips out from under the overlying mucosa as it is drawn into the cap, so the same device tolerates less size here than for a flat mucosal lesion.
-- **Cross-check with the colorectal mucosal numbers** ([[colorectal-esd#Endoscopic Full-Thickness Resection (eFTR)]]): [[usmstf-2020-endoscopic-removal|USMSTF 2020]] gives **<30 mm** as the outer bound of what may be attempted for a colorectal *mucosal* lesion, with R0 falling to 58.1% above 20 mm — so **≤20 mm is the working ceiling for mucosal lesions and <15 mm for SELs**. Not a contradiction: different lesion type, and "may be attempted" vs "resects completely".
+- **Cross-check with the colorectal mucosal numbers** ([[colorectal-esd#Endoscopic Full-Thickness Resection (eFTR)]]): [[usmstf-2020-endoscopic-removal|US Multi-Society Task Force (USMSTF) 2020]] gives **<30 mm** as the outer bound of what may be attempted for a colorectal *mucosal* lesion, with R0 falling to 58.1% above 20 mm — so **≤20 mm is the working ceiling for mucosal lesions and <15 mm for SELs**. Not a contradiction: different lesion type, and "may be attempted" vs "resects completely".
 
 ## Preoperative Setup
 
@@ -74,7 +74,7 @@ Resection of a [[subepithelial-lesion|subepithelial lesion]] through the full wa
 - **Constant neuromuscular relaxation** to reduce respiratory variability/movement.
 - **Peak airway pressures** monitored as surrogate for raised intra-abdominal pressure → may signal need for **needle decompression**.
 - **[[antibiotic-prophylaxis-endoscopy|Prophylactic IV antibiotics]]** at time of procedure (peritoneal/mediastinal contamination risk).
-- **CO₂ insufflation mandatory** (faster absorption, lower AE risk than air).
+- **CO₂ insufflation mandatory** (faster absorption, lower adverse event (AE) risk than air).
 - Perform in a **hospital-based endoscopy unit** with surgical backup readily available.
 - Fully equipped with ESD devices: single- and dual-channel gastroscopes, distal attachments, [[electrosurgery|electrosurgical]] knives, hemostatic forceps, closure devices (over-the-scope clips, through-the-scope clips, suture devices), peritoneal decompression needles — ideally on a **dedicated cart**.
 
@@ -91,11 +91,11 @@ Resection of a [[subepithelial-lesion|subepithelial lesion]] through the full wa
 
 ### Nonexposed — STER / POET
 
-- **STER** = submucosal tunneling endoscopic resection; **POET** = peroral endoscopic tunnel resection (derived from [[poem|POEM]] technique).
+- **STER** / **POET** — POET is derived from the [[poem|peroral endoscopic myotomy (POEM)]] technique.
 - **Steps:** submucosal tunnel initiated **3–5 cm proximal** to lesion, dissection extended **1–2 cm distal**; resect within tunnel, extract lesion, **close the mucosotomy** to restore luminal integrity.
 - **Advantages:** tunnel gives scope stability/traction; mucosal flap minimizes extraluminal leakage/contamination; mucosal-flap closure easier than a large exposed-EFTR defect.
 - **Anatomic suitability:** lesions reachable **in a straight line** — esophagus, gastric cardia, certain antrum, rectum.
-- ⚠ **Tunnel-start distance differs by source** — [[asge-2017-subepithelial-lesions|ASGE 2017]] specifies a mucosal incision **at least 5 cm proximal** to the lesion; this CPU says 3–5 cm.
+- ⚠ **Tunnel-start distance differs by source** — [[asge-2017-subepithelial-lesions|American Society for Gastrointestinal Endoscopy (ASGE) 2017]] specifies a mucosal incision **at least 5 cm proximal** to the lesion; this CPU says 3–5 cm.
 
 ### Device-Assisted EFTR (FTRD)
 
@@ -104,7 +104,7 @@ Resection of a [[subepithelial-lesion|subepithelial lesion]] through the full wa
 - **FTRD device (Ovesco, Tübingen):** approved for **colon and upper GI**; **23-mm deep cap** with dedicated over-the-scope clip + **integrated cautery snare**; **cap inner diameter 12–13 mm** limits the SEL size that can be drawn in and resected.
 - **Maneuverability:** wide outer cap diameter can make passage through upper GI/colon challenging or prohibitive.
   - ⚠ **Approved sites changed between sources.** [[asge-2017-subepithelial-lesions|ASGE 2017]] reported the device's **21-mm outer diameter** made per-oral passage difficult and limited its use to **colon lesions**; the newer [[aga-2024-full-thickness-resection|AGA 2024 CPU]] states it is approved for **colon and upper GI** — the 2024 position is what this page follows.
-- **Precursor OTSC technique** (clip over the lesion in esophagus/stomach/duodenum/rectum, then snare above the clip): R0 in **87.5% (7/8)**, but full-thickness resection achieved in only **25%**; mean lesion size **13.4 mm**, no adverse events ([[asge-2017-subepithelial-lesions]]).
+- **Precursor over-the-scope clip (OTSC) technique** (clip over the lesion in esophagus/stomach/duodenum/rectum, then snare above the clip): R0 in **87.5% (7/8)**, but full-thickness resection achieved in only **25%**; mean lesion size **13.4 mm**, no adverse events ([[asge-2017-subepithelial-lesions]]).
 - **Main limitation = lesion size.** Grasp/retrieval hindered by lesion slippage under overlying mucosa, especially **gastric SELs**.
 - Adjunctive **unroofing before FTRD** reported but **not well studied**.
 - Short learning curve; **careful case selection paramount** for complete resection.
@@ -115,7 +115,7 @@ Resection of a [[subepithelial-lesion|subepithelial lesion]] through the full wa
 |---|---|---|
 | **STER** (meta-analysis: 9 studies, 305 lesions) | En-bloc resection | **95%** |
 | | Complete resection | **98%** |
-| **STER vs VATS enucleation** (RCT) | Lesions **<20 mm** | STER superior in postop pain, cost, procedure time, blood loss |
+| **STER vs video-assisted thoracoscopic surgery (VATS) enucleation** (randomized controlled trial [RCT]) | Lesions **<20 mm** | STER superior in postop pain, cost, procedure time, blood loss |
 | | Lesions **>20 mm** | **Incomplete en-bloc resection in 29%** |
 | **FTRD** — gastric SELs **<15 mm** | Technical success | up to **93%** |
 | | Complete (R0) resection | only **68–76%** |

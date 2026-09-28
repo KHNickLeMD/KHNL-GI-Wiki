@@ -22,9 +22,9 @@ sources: []
 
 ## Summary
 
-This AGA Institute Clinical Practice Update is an **Expert Commentary** (not a formal GRADE or Best Practice Advice document) reviewing the current landscape of artificial intelligence (AI) for [[colonoscopy]]. It frames AI computer-vision tools into three groups: **computer-aided detection (CADe)** for finding polyps, **computer-aided diagnosis (CADx)** for optical histology prediction, and **computer-aided quality assessment** for measuring/improving withdrawal technique.
+This American Gastroenterological Association (AGA) Institute Clinical Practice Update is an **Expert Commentary** (not a formal Grading of Recommendations Assessment, Development and Evaluation [GRADE] or Best Practice Advice document) reviewing the current landscape of artificial intelligence (AI) for [[colonoscopy]]. It frames AI computer-vision tools into three groups: **computer-aided detection (CADe)** for finding polyps, **computer-aided diagnosis (CADx)** for optical histology prediction, and **computer-aided quality assessment** for measuring/improving withdrawal technique.
 
-CADe was the first target: meta-analytic data show it significantly raises adenoma detection rate (ADR) and adenomas detected per colonoscopy (APC), but the gains are mainly in small, non-advanced adenomas, and several recent pragmatic/observational studies (Ladabaum, Levy, a UK RCT) found **no ADR benefit** — attributed to ceiling effects in high performers, unconscious degradation of mucosal exposure, and unblinding/performance bias. CADx aims to enable "resect-and-discard" and "diagnose-and-leave" strategies, which require meeting the ASGE PIVI thresholds; a real-time white-light CADx study exceeded the ≥90% NPV threshold for diminutive rectosigmoid lesions. Adoption remains slower than expected because of cost/reimbursement, lack of integration into scopes, and false-positive distraction.
+CADe was the first target: meta-analytic data show it significantly raises adenoma detection rate (ADR) and adenomas detected per colonoscopy (APC), but the gains are mainly in small, non-advanced adenomas, and several recent pragmatic/observational studies (Ladabaum, Levy, a UK randomized controlled trial [RCT]) found **no ADR benefit** — attributed to ceiling effects in high performers, unconscious degradation of mucosal exposure, and unblinding/performance bias. CADx aims to enable "resect-and-discard" and "diagnose-and-leave" strategies, which require meeting the American Society for Gastrointestinal Endoscopy (ASGE) Preservation and Incorporation of Valuable Endoscopic Innovations (PIVI) thresholds; a real-time white-light CADx study exceeded the ≥90% negative predictive value (NPV) threshold for diminutive rectosigmoid lesions. Adoption remains slower than expected because of cost/reimbursement, lack of integration into scopes, and false-positive distraction.
 
 ---
 
@@ -32,17 +32,17 @@ CADe was the first target: meta-analytic data show it significantly raises adeno
 
 **AI and computer vision — framework**
 - Three application classes in colonoscopy: **CADe** (detection), **CADx** (optical diagnosis/histology prediction), and **computer-aided quality assessment** (a third, emerging class targeting exposure errors).
-- Contemporary tools use deep-learning convolutional neural networks trained on large datasets, running in real time on live video (earlier systems were still-image, hand-engineered feature detectors).
+- Contemporary tools use deep-learning convolutional neural networks (CNNs) trained on large datasets, running in real time on live video (earlier systems were still-image, hand-engineered feature detectors).
 
 **Rationale / detection variability**
-- CRC is the 2nd most common cause of cancer death worldwide; screening colonoscopy reduces CRC risk by removing precancerous polyps.
+- Colorectal cancer (CRC) is the 2nd most common cause of cancer death worldwide; screening colonoscopy reduces CRC risk by removing precancerous polyps.
 - Polyp detection is operator-dependent: **ADR ranges 7%–53%** across colonoscopists.
 - A **1% increase in ADR** is associated with a **3% decrease in future CRC risk**; missed neoplastic polyps drive post-colonoscopy interval CRC (~8% of all diagnosed CRC).
 - Most detected polyps are diminutive and non-neoplastic; unnecessary resection/pathology of these adds cost and adverse-event risk.
 
 **CADe — computer-aided detection**
 - Early CNN CADe (Urban et al): 97% sensitivity, 95% specificity, 96% accuracy; detected 92% of polyps the endoscopists had missed.
-- Meta-analysis (Huang et al, 10 RCTs, 6629 patients): AI-aided vs routine colonoscopy — **ADR RR 1.43** (P<.001) and **polyp detection rate RR 1.44** (P<.001); APC and PDC also significantly higher.
+- Meta-analysis (Huang et al, 10 RCTs, 6629 patients): AI-aided vs routine colonoscopy — **ADR risk ratio (RR) 1.43** (P<.001) and **polyp detection rate RR 1.44** (P<.001); APC and polyps detected per colonoscopy (PDC) also significantly higher.
 - **Negative/neutral studies:** Ladabaum (retrospective pragmatic trial — no improvement in ADR/APC); Levy (retrospective observational — **lower** ADR with CADe, 30.3% vs 35.2%, P=.001); a UK RCT — no ADR difference.
 - Proposed explanations for lack of benefit: ceiling effect in high-ADR endoscopists; unconscious degradation of mucosal-exposure quality (false sense of security); unblinding/performance bias in most RCTs.
 - **Cost concerns:** ADR gains are mostly small non-advanced adenomas → risk of more unnecessary resections; Shaukat US multicenter RCT (677 standard vs 682 CADe) showed **APC 0.83 → 1.05** with **no decrease in true-histology rate** (i.e., CADe raised APC without more resection of non-neoplastic lesions).
@@ -78,6 +78,6 @@ CADe was the first target: meta-analytic data show it significantly raises adeno
 
 ## Contradictions / Open Questions
 
-- **Source priority note:** the later **[[aga-2025-cade-colonoscopy]]** AGA *living guideline* (GRADE) makes **no recommendation for or against** routine CADe (very low certainty). This 2023 CPU is an enthusiastic *commentary* summarizing positive early data; where they meet (CADe for detection), the newer 2025 guideline's cautious framing governs. The 2023 CPU remains the home for the CADx and quality-assessment content the 2025 CADe-only guideline does not cover.
+- **Source priority note:** the later **[[aga-2025-cade-colonoscopy]]** AGA *living guideline* (GRADE) makes **no recommendation for or against** routine CADe (very low certainty). This 2023 Clinical Practice Update (CPU) is an enthusiastic *commentary* summarizing positive early data; where they meet (CADe for detection), the newer 2025 guideline's cautious framing governs. The 2023 CPU remains the home for the CADx and quality-assessment content the 2025 CADe-only guideline does not cover.
 - CADe ADR benefit is inconsistent across real-world/pragmatic studies (positive RCT meta-analysis vs neutral/negative pragmatic and UK RCT data).
 - Cost-effectiveness hinges on unproven assumptions that ADR gains persist in routine practice.

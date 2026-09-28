@@ -22,11 +22,11 @@ sources: [sages-2024-poem, sages-2021-poem, acg-2020-achalasia, asge-2020-achala
 
 ## Overview
 
-Laparoscopic Heller myotomy (LHM) is the surgical anterior myotomy of the lower esophageal sphincter for [[achalasia]], typically paired with a [[antireflux-surgery|partial fundoplication]] (Dor or Toupet) to limit postoperative reflux. One of three equivalent definitive palliative therapies alongside [[pneumatic-dilation|pneumatic dilation (PD)]] and [[poem|peroral endoscopic myotomy (POEM)]]; treatment is palliative, not curative ([[acg-2020-achalasia]]).
+Laparoscopic Heller myotomy (LHM) is the surgical anterior myotomy of the lower esophageal sphincter (LES) for [[achalasia]], typically paired with a [[antireflux-surgery|partial fundoplication]] (Dor or Toupet) to limit postoperative reflux. One of three equivalent definitive palliative therapies alongside [[pneumatic-dilation|pneumatic dilation (PD)]] and [[poem|peroral endoscopic myotomy (POEM)]]; treatment is palliative, not curative ([[acg-2020-achalasia]]).
 
-- **Preoperative workup is the achalasia workup** — [[upper-endoscopy|upper endoscopy]] to exclude pseudoachalasia, [[high-resolution-manometry|HRM]] for subtyping, timed barium esophagram (TBE) for baseline emptying. It has one home: [[achalasia]] (and [[poem]] for the myotomy-specific pre-procedure checklist).
+- **Preoperative workup is the achalasia workup** — [[upper-endoscopy|upper endoscopy]] to exclude pseudoachalasia, [[high-resolution-manometry|high-resolution manometry (HRM)]] for subtyping, timed barium esophagram (TBE) for baseline emptying. It has one home: [[achalasia]] (and [[poem]] for the myotomy-specific pre-procedure checklist).
 - **Subtype drives the choice**, and subtypes are defined only on HRM by the [[chicago-classification-v4|Chicago Classification v4.0]] — see that page for the criteria.
-- **Response is measured by the Eckardt score** (clinical success = ES ≤3 in most trials cited below); the score's structure and bands are on [[achalasia]].
+- **Response is measured by the Eckardt score (ES)** (clinical success = ES ≤3 in most trials cited below); the score's structure and bands are on [[achalasia]].
 - ⚠ **Do not declare failure on symptoms or HRM alone** — TBE is the recommended first-line test to define treatment failure (*Strong, Very low*, [[acg-2020-achalasia]]).
 
 ## Technique
@@ -37,27 +37,27 @@ Laparoscopic Heller myotomy (LHM) is the surgical anterior myotomy of the lower 
 
 ### Fundoplication After Myotomy
 
-> **[[acg-2020-achalasia|ACG 2020]] Recommendation 7:** *"We recommend that myotomy with fundoplication is superior to myotomy without fundoplication in controlling distal esophageal acid exposure."*
+> **[[acg-2020-achalasia|American College of Gastroenterology (ACG) 2020]] Recommendation 7:** *"We recommend that myotomy with fundoplication is superior to myotomy without fundoplication in controlling distal esophageal acid exposure."*
 
 The numbers behind that recommendation — this is why an antireflux wrap is not optional:
 
-| Approach | GERD **without** fundoplication | GERD **with** fundoplication |
+| Approach | Gastroesophageal reflux disease (GERD) **without** fundoplication | GERD **with** fundoplication |
 |---|---|---|
 | Thoracotomy | 29% | **14%** |
 | Laparotomy | 28% | **8%** |
 | Laparoscopy | 31% | **9%** |
 | Thoracoscopy | 28% | *no study* |
 
-- **Double-blind RCT (myotomy ± Dor fundoplication):** abnormal acid exposure on pH monitoring **47% without** vs **9% with** the wrap — **RR 0.11 (95% CI 0.02–0.59)**. At 11-year follow-up, reflux symptom control was similar for both arms, i.e. **the benefit is sustained long term** ([[acg-2020-achalasia]]).
+- **Double-blind randomized controlled trial (RCT; myotomy ± Dor fundoplication):** abnormal acid exposure on pH monitoring **47% without** vs **9% with** the wrap — **relative risk (RR) 0.11 (95% confidence interval [CI] 0.02–0.59)**. At 11-year follow-up, reflux symptom control was similar for both arms, i.e. **the benefit is sustained long term** ([[acg-2020-achalasia]]).
 - **Dor or Toupet are both acceptable**; the evidence base supporting the wrap is limited by study heterogeneity.
 
 ## Efficacy
 
 - **LHM + fundoplication: ~89% symptomatic success** (mean across 3,086 patients in laparoscopic-myotomy studies; range **77–100%**) ([[acg-2020-achalasia]]).
-- **[[asge-2020-achalasia|ASGE 2020]] meta-analysis (53 studies, 5,834 patients; 5 RCTs + 48 cohorts):** dysphagia improvement **87.7% (95% CI 87–88%)** at a mean 40-month follow-up; modelled **91.0% at 12 months** and **90.0% at 24 months**. Clinical success in this analysis was *dysphagia improvement*, **not** an Eckardt-score threshold, and objective manometric/esophagram endpoints were not included.
+- **[[asge-2020-achalasia|American Society for Gastrointestinal Endoscopy (ASGE) 2020]] meta-analysis (53 studies, 5,834 patients; 5 RCTs + 48 cohorts):** dysphagia improvement **87.7% (95% CI 87–88%)** at a mean 40-month follow-up; modelled **91.0% at 12 months** and **90.0% at 24 months**. Clinical success in this analysis was *dysphagia improvement*, **not** an Eckardt-score threshold, and objective manometric/esophagram endpoints were not included.
 - **Equivalent to PD and POEM for Type I/II achalasia** — *Strong/Moderate–High* ([[acg-2020-achalasia]]); ASGE concurs (*Recommend*, LHM vs PD; *Suggest*, LHM vs POEM — both by shared decision-making).
 - Werner 2019 RCT: POEM 83% vs LHM 82% at 2 years (noninferior).
-- POEM vs LHM meta-analysis: comparable [[dysphagia]] relief (POEM 93.5% vs LHM 91.0% at 12 months) but POEM has markedly higher GERD (OR 9.31 erosive esophagitis; 4.30 on [[ambulatory-reflux-monitoring|pH monitoring]]).
+- POEM vs LHM meta-analysis: comparable [[dysphagia]] relief (POEM 93.5% vs LHM 91.0% at 12 months) but POEM has markedly higher GERD (odds ratio [OR] 9.31 erosive esophagitis; 4.30 on [[ambulatory-reflux-monitoring|pH monitoring]]).
 
 ### By Achalasia Subtype
 
@@ -94,8 +94,8 @@ Rates depend entirely on **how GERD is defined** — symptoms, endoscopy, or pH 
 
 ## Selection vs POEM and Pneumatic Dilation
 
-- **Either myotomy approach acceptable; selection individualized** ([[sages-2024-poem]], conditional; foundational GRADE statements in [[sages-2021-poem]] — *conditional* for subtypes I/II, *conditional favoring POEM* for subtype III). POEM favored for **type III / spastic disorders** given a longer myotomy.
-- **Reflux is the principal trade-off.** The only **like-for-like** comparison is the 2018 meta-analysis ACG cites (1,542 POEM vs 2,581 LHM-with-fundoplication): **abnormal acid exposure on pH monitoring 39.0% (95% CI 24.5–55.8%) after POEM vs 16.8% (95% CI 10.2–26.4%) after LHM with fundoplication**; esophagitis **29.4% (18.5–43.3%) vs 7.6% (4.1–13.7%)** ([[acg-2020-achalasia]]). LHM's built-in antireflux component distinguishes the two. ⚠ The newer [[aga-2024-poem-advances|AGA 2024]] CPU puts post-POEM abnormal acid exposure higher, at **41–56%** — that is the figure [[poem]] asserts; **do not pair it with the 8–9% GERD number above**, which comes from a different dataset and a different (unspecified) GERD definition.
+- **Either myotomy approach acceptable; selection individualized** ([[sages-2024-poem]], conditional; foundational Grading of Recommendations Assessment, Development and Evaluation (GRADE) statements in [[sages-2021-poem]] — *conditional* for subtypes I/II, *conditional favoring POEM* for subtype III). POEM favored for **type III / spastic disorders** given a longer myotomy.
+- **Reflux is the principal trade-off.** The only **like-for-like** comparison is the 2018 meta-analysis ACG cites (1,542 POEM vs 2,581 LHM-with-fundoplication): **abnormal acid exposure on pH monitoring 39.0% (95% CI 24.5–55.8%) after POEM vs 16.8% (95% CI 10.2–26.4%) after LHM with fundoplication**; esophagitis **29.4% (18.5–43.3%) vs 7.6% (4.1–13.7%)** ([[acg-2020-achalasia]]). LHM's built-in antireflux component distinguishes the two. ⚠ The newer [[aga-2024-poem-advances|American Gastroenterological Association (AGA) 2024]] Clinical Practice Update (CPU) puts post-POEM abnormal acid exposure higher, at **41–56%** — that is the figure [[poem]] asserts; **do not pair it with the 8–9% GERD number above**, which comes from a different dataset and a different (unspecified) GERD definition.
 - **LHM vs PD — the advantage is early, not durable** (Cheng meta-analysis, 5 RCTs / 498 patients, [[asge-2020-achalasia]]):
 
 | Timepoint | Clinical success, LHM vs PD |
@@ -125,11 +125,11 @@ Rates depend entirely on **how GERD is defined** — symptoms, endoscopy, or pH 
   - 13-centre **prospective registry**, 51 patients with prior LHM (mean LHM→POEM interval 9.5 y): **94%** clinical success (Eckardt ≤3) at 12 months, mean ES change 6.25; 7 adverse events (2 mediastinitis managed conservatively, 6 periprocedural mucosal defects closed endoscopically).
   - 2018 single-centre **case series**, 46 patients with prior LHM: **95.7%** (Eckardt ≤3 and no further treatment) at median 28 months.
   - **Retrospective cohort**, 90 prior-LHM vs 90 LHM-naïve (median follow-up 8.5 mo): prior LHM **lowers** POEM's yield — clinical response **81% vs 94%** (P=0.01), with no difference in adverse events or symptomatic reflux/esophagitis.
-- ⚠ **The randomized number is much lower, and it is the one that supports a choice.** The newer [[aga-2024-poem-advances|AGA 2024]] CPU (BPA 12) reports the **only RCT** in this setting — **POEM vs [[pneumatic-dilation|PD]] after failed LHM, success 62% vs 27%**, with no difference in esophagitis, reflux symptoms, [[proton-pump-inhibitors|PPI]] use, or serious adverse events. Same tier, newer publication date, and a randomized comparator rather than a single arm → **this page follows AGA 2024 for the comparative claim** (POEM > PD after failed myotomy) and reads the 94–95.7% series as uncontrolled context, not as a rival estimate of the same quantity. Detail on [[poem]].
+- ⚠ **The randomized number is much lower, and it is the one that supports a choice.** The newer [[aga-2024-poem-advances|AGA 2024]] CPU (Best Practice Advice [BPA] 12) reports the **only RCT** in this setting — **POEM vs [[pneumatic-dilation|PD]] after failed LHM, success 62% vs 27%**, with no difference in esophagitis, reflux symptoms, [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] use, or serious adverse events. Same tier, newer publication date, and a randomized comparator rather than a single arm → **this page follows AGA 2024 for the comparative claim** (POEM > PD after failed myotomy) and reads the 94–95.7% series as uncontrolled context, not as a rival estimate of the same quantity. Detail on [[poem]].
 - ASGE (*Suggest*): after a failed initial myotomy, use **PD or redo myotomy by either technique** ([[asge-2020-achalasia]]).
 - **LHM before esophagectomy** — *"We recommend that Heller myotomy be considered before esophagectomy in patients who have failed PD and POEM if the anatomy is conducive and there is evidence of incomplete myotomy"* (ACG Rec 19; based only on small case series in heterogeneous populations).
   - **End-stage achalasia criteria** (what puts esophagectomy on the table): barium esophagram showing **severe dilatation, width >6 cm**, plus complicated anatomic distortion (**"sink-trap"** esophagus), with severe symptoms and life-threatening complications (aspiration, malnutrition).
-  - **Decide with a full workup** — barium esophagram for anatomy, endoscopy for esophagitis/stricture, and manometry or [[flip-panometry|FLIP]] for LES function. **Severe anatomy + significant bolus retention + evidence of a *complete* myotomy → esophagectomy; evidence of an *incomplete* myotomy → offer Heller myotomy.**
+  - **Decide with a full workup** — barium esophagram for anatomy, endoscopy for esophagitis/stricture, and manometry or [[flip-panometry|functional lumen imaging probe (FLIP)]] for LES function. **Severe anatomy + significant bolus retention + evidence of a *complete* myotomy → esophagectomy; evidence of an *incomplete* myotomy → offer Heller myotomy.**
   - Esophagectomy is a **last resort** (high complication rate, real mortality risk, diminished quality of life) and belongs at **high-volume referral centers** — outcomes track volume and expertise. Up to **5%** of achalasia patients ultimately require it.
 
 ## Contradictions

@@ -18,11 +18,11 @@ sources: []
 
 ## Summary
 
-This is the third AASLD guideline on [[liver-transplantation|liver transplantation]] (LT) — the first since 2013 — and focuses exclusively on **pre-transplant candidate evaluation** (not post-transplant management). It was developed by a multidisciplinary writing group over 24 months using the Oxford Centre for Evidence-Based Medicine grading system. Recommendations are graded as Strong or Weak with evidence levels 1–5. Literature was searched from January 2016 through August 2023 (with a refresher search through January 2025), yielding 261 studies informing the final recommendations.
+This is the third American Association for the Study of Liver Diseases (AASLD) guideline on [[liver-transplantation|liver transplantation]] (LT) — the first since 2013 — and focuses exclusively on **pre-transplant candidate evaluation** (not post-transplant management). It was developed by a multidisciplinary writing group over 24 months using the Oxford Centre for Evidence-Based Medicine grading system. Recommendations are graded as Strong or Weak with evidence levels 1–5. Literature was searched from January 2016 through August 2023 (with a refresher search through January 2025), yielding 261 studies informing the final recommendations.
 
 The guideline is organized into four sections: (1) referral for liver transplant; (2) the transplant evaluation (covering multidisciplinary workup, cardiac, pulmonary, infection, cancer, nutrition, bone health, physical function, dental, and psychosocial domains); (3) contraindications to liver transplant; and (4) special situations including living donor liver transplant (LDLT), nonhepatic malignancies with liver involvement, and multiple-organ transplantation.
 
-Key updates from 2013 guidance include: lower MELD threshold for referral (MELD ≥12 with [[portal-hypertension|portal hypertensive]] complications rather than ≥15); explicit rejection of fixed abstinence intervals for [[alcohol-associated-liver-disease|alcohol-associated liver disease]] (ALD); expanded acceptance of patients on medication-assisted therapy (MAT) for opioid use disorder; risk-factor-directed cardiac evaluation including coronary CT angiography (CCTA) as a primary tool; individualized psychosocial evaluation that de-emphasizes exclusion; and detailed guidance on LDLT considerations including graft-to-recipient weight ratio and upper MELD thresholds.
+Key updates from 2013 guidance include: lower Model for End-Stage Liver Disease (MELD) threshold for referral (MELD ≥12 with [[portal-hypertension|portal hypertensive]] complications rather than ≥15); explicit rejection of fixed abstinence intervals for [[alcohol-associated-liver-disease|alcohol-associated liver disease]] (ALD); expanded acceptance of patients on medication-assisted therapy (MAT) for opioid use disorder; risk-factor-directed cardiac evaluation including coronary computed tomography (CT) angiography (CCTA) as a primary tool; individualized psychosocial evaluation that de-emphasizes exclusion; and detailed guidance on LDLT considerations including graft-to-recipient weight ratio (GRWR) and upper MELD thresholds.
 
 The guideline emphasizes equity and access, noting that patients with ALD, African American race, and lower socioeconomic status are less likely to be referred or listed. It reframes contraindications as absolute (very few) versus case-by-case, urging transplant centers to maximize opportunities for evaluation rather than gatekeeping referral.
 
@@ -31,37 +31,37 @@ The guideline emphasizes equity and access, noting that patients with ALD, Afric
 **Referral (Section 1)**
 
 - Patients with chronic liver disease should be referred at first decompensation event; MELD ≥12 is a reasonable threshold in absence of portal hypertensive complications; MELD score alone should not be a barrier to referral
-- [[acute-on-chronic-liver-failure|ACLF]] patients should be referred promptly regardless of MELD
-- All [[acute-liver-failure|ALF]] patients require urgent referral; transplant centers must be able to accept urgent transfers
-- [[hepatocellular-carcinoma|HCC]]: all patients without extrahepatic metastases should be evaluated; AFP must be <1000 ng/mL (or <500 ng/mL if it ever exceeded 1000)
-- Perihilar [[cholangiocarcinoma|CCA]] <3 cm in radial diameter: eligible with neoadjuvant protocol and preoperative staging
+- [[acute-on-chronic-liver-failure|acute-on-chronic liver failure (ACLF)]] patients should be referred promptly regardless of MELD
+- All [[acute-liver-failure|acute liver failure (ALF)]] patients require urgent referral; transplant centers must be able to accept urgent transfers
+- [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]]: all patients without extrahepatic metastases should be evaluated; alpha-fetoprotein (AFP) must be <1000 ng/mL (or <500 ng/mL if it ever exceeded 1000)
+- Perihilar [[cholangiocarcinoma|cholangiocarcinoma (CCA)]] <3 cm in radial diameter: eligible with neoadjuvant protocol and preoperative staging
 - Intrahepatic CCA or mixed HCC-CCA <3 cm without extrahepatic disease: may be considered (Weak, Level 4)
 
 **Evaluation (Section 2)**
 
 - All evaluations should be multidisciplinary
-- Cardiac: ECG + comprehensive TTE for all; risk-factor-based coronary artery disease assessment; CCTA preferred noninvasive test; multidisciplinary management of significant asymptomatic CAD
-- Pulmonary: chest imaging for all; PFTs not routine unless lung disease risk factors; bubble echocardiography is most sensitive for [[hepatopulmonary-syndrome-portopulmonary-hypertension|HPS]] screening; right heart catheterization required when **RVSP >45 mm Hg** or RV abnormalities on TTE (screening threshold is stated as estimated **PASP >45 mm Hg**)
-- Portopulmonary hypertension (POPH): **mPAP 45 mm Hg with PVR >3 WU** on optimized therapy = contraindication to transplantation (Strong, Level 1)
+- Cardiac: electrocardiogram (ECG) + comprehensive transthoracic echocardiography (TTE) for all; risk-factor-based coronary artery disease (CAD) assessment; CCTA preferred noninvasive test; multidisciplinary management of significant asymptomatic CAD
+- Pulmonary: chest imaging for all; pulmonary function tests (PFTs) not routine unless lung disease risk factors; bubble echocardiography is most sensitive for [[hepatopulmonary-syndrome-portopulmonary-hypertension|hepatopulmonary syndrome (HPS)]] screening; right heart catheterization required when **right ventricular systolic pressure (RVSP) >45 mm Hg** or right ventricular (RV) abnormalities on TTE (screening threshold is stated as estimated **pulmonary artery systolic pressure (PASP) >45 mm Hg**)
+- Portopulmonary hypertension (POPH): **mean pulmonary artery pressure (mPAP) 45 mm Hg with pulmonary vascular resistance (PVR) >3 Wood units (WU)** on optimized therapy = contraindication to transplantation (Strong, Level 1)
 - **POPH standard MELD exception criteria** — requires a response to medical treatment, defined as **mPAP <35 mm Hg and PVR <5 WU**, *or* **mPAP 35–45 mm Hg and PVR <3 WU**. At least 50% of patients have resolution of POPH after LT; the greatest survival benefit is in medical-therapy responders with more advanced liver disease (MELD >15).
 - Infection: comprehensive screening per Table 1; age-appropriate vaccinations
 - Cancer: HCC q6mo surveillance; individualized breast, cervical, colorectal, lung, prostate screening
 - Nutrition: registered dietitian assessment for all; interventions in moderate-to-high malnutrition risk
-- Bone health: vitamin D and bone density for all; calcium + vitamin D + weight-bearing exercise for low BMD; bisphosphonates case-by-case for high fracture risk
-- Physical function: standardized tools (LFI or KPS) recommended in ambulatory patients
+- Bone health: vitamin D and bone density for all; calcium + vitamin D + weight-bearing exercise for low bone mineral density (BMD); bisphosphonates case-by-case for high fracture risk
+- Physical function: standardized tools (Liver Frailty Index [LFI] or Karnofsky Performance Status [KPS]) recommended in ambulatory patients
 - Dental evaluation for all (stable patients)
 - Psychosocial: evaluate adherence, mental health stability, social support; ALD patients should be referred early and not excluded by fixed abstinence intervals; MAT for opioid use disorder should not preclude listing; cessation of tobacco/marijuana expected
 
 **Contraindications (Section 3)**
 
 - Absolute contraindications are few: anatomical variations precluding transplant; advanced cardiopulmonary disease not amenable to heart-liver or lung-liver combination
-- Case-by-case: ACLF (not contraindicated by high MELD or ACLF grade alone); Yerdel grade IV [[portal-vein-thrombosis|PVT]] (relative); BMI >40 or <18.5 (requires screening, not exclusion); mental health disorders; current tobacco use
+- Case-by-case: ACLF (not contraindicated by high MELD or ACLF grade alone); Yerdel grade IV [[portal-vein-thrombosis|portal vein thrombosis (PVT)]] (relative); body mass index (BMI) >40 or <18.5 (requires screening, not exclusion); mental health disorders; current tobacco use
 - Physical frailty alone is not a contraindication; use standardized metric
 
 **Special situations (Section 4)**
 
 - LDLT: educate all patients about LDLT option; adequate GRWR ≥0.8% is important; caution with MELD >30
-- Neuroendocrine tumors: eligible with strict selection; HEHE: consider LT evaluation; colorectal liver metastases: may be considered within strict eligibility
+- Neuroendocrine tumors: eligible with strict selection; hepatic epithelioid hemangioendothelioma (HEHE): consider LT evaluation; colorectal liver metastases: may be considered within strict eligibility
 - Multiorgan transplant: evaluate via multidisciplinary consensus between organ-specific teams
 
 ## Recommendations
@@ -73,7 +73,7 @@ The guideline emphasizes equity and access, noting that patients with ALD, Afric
 | 3. All patients with ALF should be referred to a liver transplant center for urgent evaluation. | Strong | Level 2 |
 | 4. Liver transplant centers should be able to respond promptly to requests for the transfer of patients with ALF. | Strong | Level 5 |
 | 5. Patients diagnosed with HCC without extrahepatic metastases should be considered for LT. | Strong | Level 1 |
-| 6. Staging for HCC should be done with multiphasic contrast-enhanced abdominal CT or MRI, with interpretation of imaging at a transplant center, and a staging CT chest to rule out thoracic metastases. | Strong | Level 2 |
+| 6. Staging for HCC should be done with multiphasic contrast-enhanced abdominal CT or MRI [magnetic resonance imaging], with interpretation of imaging at a transplant center, and a staging CT chest to rule out thoracic metastases. | Strong | Level 2 |
 | 7. Milan criteria should be used as a guide for transplantation listing and the goal of downstaging therapies. Transplantation for patients beyond Milan should be reserved for patients demonstrating favorable tumor biology. | Strong | Level 2 |
 | 8. Patients with HCC being considered for LT should have an alpha fetoprotein (AFP) <1000 ng/mL or <500 ng/mL if the AFP was ever above 1000 ng/mL. | Strong | Level 2 |
 | 9. Patients with unresectable perihilar cholangiocarcinoma (CCA) that meet size criteria (<3 cm in radial diameter) should be considered for liver transplant evaluation. | Strong | Level 3 |

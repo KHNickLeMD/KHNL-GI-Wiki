@@ -36,11 +36,11 @@ sources: []
 
 ## Summary
 
-Baveno VII ("Personalized Care for Portal Hypertension") is the seventh international consensus workshop on portal hypertension, held virtually in October 2021 and endorsed by EASL. It extends the Baveno VI framework of **compensated advanced chronic liver disease (cACLD)** and stratifies compensated patients by the presence or absence of **clinically significant portal hypertension (CSPH)** — the pivotal determinant of decompensation risk, and therefore of what testing and treatment a patient needs.
+Baveno VII ("Personalized Care for Portal Hypertension") is the seventh international consensus workshop on portal hypertension, held virtually in October 2021 and endorsed by the European Association for the Study of the Liver (EASL). It extends the Baveno VI framework of **compensated advanced chronic liver disease (cACLD)** and stratifies compensated patients by the presence or absence of **clinically significant portal hypertension (CSPH)** — the pivotal determinant of decompensation risk, and therefore of what testing and treatment a patient needs.
 
-Nine topics were covered: HVPG methodology and interpretation; non-invasive tools (NITs) for cACLD and CSPH; management after removal/suppression of the primary aetiology; non-aetiological therapies (statins, aspirin, albumin, antibiotics, rifaximin, anticoagulants); prevention of first decompensation; acute variceal bleeding; prevention of further decompensation (including the new definition of **recompensation**); splanchnic vein thrombosis; and other vascular liver disorders (PSVD, anticoagulation in cirrhosis). Statements are GRADE-rated A–D (evidence) and 1–2 (strength) and flagged as **Unchanged / Changed / New** relative to Baveno VI.
+Nine topics were covered: hepatic venous pressure gradient (HVPG) methodology and interpretation; non-invasive tools (NITs) for cACLD and CSPH; management after removal/suppression of the primary aetiology; non-aetiological therapies (statins, aspirin, albumin, antibiotics, rifaximin, anticoagulants); prevention of first decompensation; acute variceal bleeding; prevention of further decompensation (including the new definition of **recompensation**); splanchnic vein thrombosis; and other vascular liver disorders (porto-sinusoidal vascular disorder [PSVD], anticoagulation in cirrhosis). Statements are Grading of Recommendations Assessment, Development and Evaluation (GRADE)-rated A–D (evidence) and 1–2 (strength) and flagged as **Unchanged / Changed / New** relative to Baveno VI.
 
-Three practice-shifting messages: (1) **NITs replace HVPG and endoscopy for most decisions** — the "rule of 5" for LSM by TE (10-15-20-25 kPa), LSM <15 kPa + platelets ≥150 rules out CSPH, LSM ≥25 kPa rules it in; (2) **the treatment target is decompensation, not varices** — carvedilol is the preferred NSBB in compensated cirrhosis with CSPH, and a patient started on an NSBB for decompensation prevention does not need screening endoscopy because the result will not change management; (3) **cirrhosis can recompensate**, with an explicit three-part definition requiring aetiological cure, sustained resolution of decompensating events, and stable improvement in liver function.
+Three practice-shifting messages: (1) **NITs replace HVPG and endoscopy for most decisions** — the "rule of 5" for liver stiffness measurement (LSM) by transient elastography (TE) (10-15-20-25 kPa), LSM <15 kPa + platelets ≥150 rules out CSPH, LSM ≥25 kPa rules it in; (2) **the treatment target is decompensation, not varices** — carvedilol is the preferred nonselective beta-blocker (NSBB) in compensated cirrhosis with CSPH, and a patient started on an NSBB for decompensation prevention does not need screening endoscopy because the result will not change management; (3) **cirrhosis can recompensate**, with an explicit three-part definition requiring aetiological cure, sustained resolution of decompensating events, and stable improvement in liver function.
 
 ## Key Findings / Claims
 
@@ -63,7 +63,7 @@ Three practice-shifting messages: (1) **NITs replace HVPG and endoscopy for most
 
 - **1.9** HVPG values >5 mmHg indicate sinusoidal portal hypertension. (A.1) (Unchanged)
 - **1.10** In patients with viral- and alcohol-related cirrhosis, HVPG measurement is the gold-standard method to determine the presence of "clinically significant portal hypertension" (CSPH), which is defined as an HVPG ≥10 mmHg. (A.1) (Changed)
-- **1.11** In patients with primary biliary cholangitis, there may be an additional pre-sinusoidal component of portal hypertension that cannot be assessed by HVPG. (B.1) As such, in these patients, HVPG may underestimate the prevalence and severity of PH. (B.1) (New)
+- **1.11** In patients with primary biliary cholangitis, there may be an additional pre-sinusoidal component of portal hypertension that cannot be assessed by HVPG. (B.1) As such, in these patients, HVPG may underestimate the prevalence and severity of PH [portal hypertension]. (B.1) (New)
 - **1.12** In patients with non-alcoholic steatohepatitis (NASH)-related cirrhosis, although an HVPG ≥10 mmHg remains strongly associated with the presence of clinical signs of portal hypertension, these signs can also be present in a small proportion of patients with HVPG values <10 mmHg. (C.2) (New)
 - **1.13** In patients with chronic liver disease and clinical signs of portal hypertension (gastro-oesophageal varices, ascites, portosystemic collateral vessels) but with HVPG <10 mmHg, porto-sinusoidal vascular disorder (PSVD) must be ruled out. (B.1) (New)
 - **1.14** In alcohol-related or viral cirrhosis, a decrease in HVPG in response to non-selective beta-blockers (NSBBs) is associated with a significant reduction in the risk of variceal bleeding or of other decompensating events. (A.1) (Changed)
@@ -79,7 +79,7 @@ Three practice-shifting messages: (1) **NITs replace HVPG and endoscopy for most
 - **1.18** The presence of CSPH, determined either by HVPG ≥10 mmHg or by clinical manifestations of portal hypertension, is associated with a higher risk of decompensation and mortality in patients with cirrhosis undergoing liver resection for hepatocellular carcinoma (HCC). (A.1) (New)
 - **1.19** In candidates for non-hepatic abdominal surgery, a HVPG ≥16 mmHg is associated with an increased risk of short-term mortality after surgery. (C.1) (New)
 
-**PPG in the setting of TIPS**
+**Portal pressure gradient (PPG) in the setting of transjugular intrahepatic portosystemic shunt (TIPS)**
 
 - **1.20** Portal pressure gradient (PPG) should be measured before and after transjugular intrahepatic portosystemic shunt (TIPS) insertion. (A.1) (New)
 - **1.21** Anatomic locations for post-TIPS PPG measurement should include the main portal vein and the IVC (at the shunt outflow). (B.1) (New)
@@ -129,18 +129,18 @@ Three practice-shifting messages: (1) **NITs replace HVPG and endoscopy for most
 
 **Spleen stiffness**
 
-- **2.21** Spleen stiffness measurement (SSM) by TE can be used in cACLD due to viral hepatitis (untreated HCV; untreated and treated HBV) to rule out and rule in CSPH (SSM <21 kPa and SSM >50 kPa, respectively). Validation of the best cut-off using a 100 Hz specific TE-probe, as well as using point-shear wave elastography and 2D-shear wave elastography is needed. (B.2) (New)
+- **2.21** Spleen stiffness measurement (SSM) by TE can be used in cACLD due to viral hepatitis (untreated HCV [hepatitis C virus]; untreated and treated HBV [hepatitis B virus]) to rule out and rule in CSPH (SSM <21 kPa and SSM >50 kPa, respectively). Validation of the best cut-off using a 100 Hz specific TE-probe, as well as using point-shear wave elastography and 2D-shear wave elastography is needed. (B.2) (New)
 - **2.22** In patients who are not candidates for NSBBs (contraindication/intolerance) and in whom endoscopy would be required according to the Baveno VI criteria (LSM by TE ≥20 kPa or platelet count ≤150×10⁹/L), SSM ≤40 kPa by TE can be used to identify those at low probability of high-risk varices, in whom endoscopy can be avoided. (C.2) (New)
 
 ### 3) Management of ACLD after removal/suppression of the primary aetiological factor
 
-- **3.1** Removal/suppression of the primary aetiological factor includes sustained virological response (SVR) in patients with HCV infection, HBV suppression in the absence of HDV co-infection in patients with chronic HBV infection, and long-term abstinence from alcohol in patients with alcohol-related liver disease. (A.1) (New)
-- **3.2** The definition and impact of the removal/suppression of the primary aetiological factor in other ACLDs is less well established. (A.1) (New)
+- **3.1** Removal/suppression of the primary aetiological factor includes sustained virological response (SVR) in patients with HCV infection, HBV suppression in the absence of HDV [hepatitis D virus] co-infection in patients with chronic HBV infection, and long-term abstinence from alcohol in patients with alcohol-related liver disease. (A.1) (New)
+- **3.2** The definition and impact of the removal/suppression of the primary aetiological factor in other ACLDs [advanced chronic liver diseases] is less well established. (A.1) (New)
 - **3.3** Overweight/obesity, diabetes, and alcohol consumption are important contributors to liver disease progression even after removal/suppression of the primary aetiological factor and should be addressed. (A.1) (Changed)
 - **3.4** Removal/suppression of the primary aetiological factor leads to potentially meaningful decreases in HVPG in most patients and substantially reduces the risk of hepatic decompensation. (A.1) (Changed)
 - **3.5** Absence/resolution of CSPH following removal/suppression of the primary aetiological factor prevents hepatic decompensation. (B.1) (Changed)
 - **3.6** The optimal percent/absolute decrease in HVPG associated with a reduction in hepatic decompensation following the removal/suppression of the primary aetiological factor in patients with cACLD and CSPH has yet to be established. (B.1) (New)
-- **3.7** In the absence of co-factors, patients with HCV-induced cACLD who achieve SVR and show consistent post-treatment improvements with LSM values of <12 kPa and PLT >150×10⁹/L can be discharged from portal hypertension surveillance (LSM and endoscopy), as they do not have CSPH and are at negligible risk of hepatic decompensation. In these patients, HCC surveillance should continue until further data is available. (B.1) (New)
+- **3.7** In the absence of co-factors, patients with HCV-induced cACLD who achieve SVR and show consistent post-treatment improvements with LSM values of <12 kPa and PLT [platelet count] >150×10⁹/L can be discharged from portal hypertension surveillance (LSM and endoscopy), as they do not have CSPH and are at negligible risk of hepatic decompensation. In these patients, HCC surveillance should continue until further data is available. (B.1) (New)
 - **3.8** The Baveno VI criteria (i.e., LSM <20 kPa and PLT >150×10⁹/L) can be used to rule out high-risk varices in patients with HCV- and HBV-induced cACLD who achieved SVR and viral suppression, respectively. (B.1) (New)
 - **3.9** Patients with cACLD on NSBB therapy with no evident CSPH (LSM <25 kPa) after removal/suppression of the primary aetiological factor, should be considered for repeat endoscopy, preferably after 1–2 years. In the absence of varices, NSBB therapy can be discontinued. (C.2) (New)
 
@@ -172,7 +172,7 @@ Three practice-shifting messages: (1) **NITs replace HVPG and endoscopy for most
 - **5.9** There is insufficient data to draw definitive conclusions on the impact of sarcopenia and frailty on the natural history of compensated cirrhosis. (D.1) (New)
 - **5.10** Bacterial infections are frequent in compensated patients with CSPH, can lead to decompensation (ascites, variceal bleeding, hepatic encephalopathy) and, consequently, adversely affect natural history. (B.1) (New)
 - **5.11** There is insufficient data as to whether infections are frequent in compensated cirrhosis without CSPH and whether they may impact prognosis per se. (D.1) (New)
-- **5.12** Superimposed liver damage, such as (acute) alcoholic hepatitis, acute viral hepatitis (HEV, HAV), HBV flares or drug-induced liver injury can precipitate decompensation. (A.1) (New)
+- **5.12** Superimposed liver damage, such as (acute) alcoholic hepatitis, acute viral hepatitis (HEV [hepatitis E virus], HAV [hepatitis A virus]), HBV flares or drug-induced liver injury can precipitate decompensation. (A.1) (New)
 - **5.13** Other factors such as HCC and major surgery can precipitate decompensation of cirrhosis in patients with CSPH. (B.1) (New)
 - **5.14** Treatment with NSBBs (propranolol, nadolol or carvedilol\*) should be considered for the prevention of decompensation in patients with CSPH. (B.1) (New) *\*In contrast with the traditional NSBBs (i.e. propranolol and nadolol), carvedilol has intrinsic anti-alpha adrenergic vasodilatory effects that contribute to its greater portal pressure reducing effect.*
 - **5.15** Carvedilol is the preferred NSBB in compensated cirrhosis, since it is more effective at reducing HVPG (A.1), has a tendency towards greater benefit in preventing decompensation and towards better tolerance than traditional NSBBs and has been demonstrated to improve survival (B.1) compared to no active therapy in compensated patients with CSPH. (Changed)
@@ -204,16 +204,16 @@ Three practice-shifting messages: (1) **NITs replace HVPG and endoscopy for most
 - **6.16** Child-Pugh and MELD scores are currently the most utilised severity scoring systems. (D.2) (Unchanged)
 - **6.17** Following haemodynamic resuscitation, patients with suspected AVB should undergo upper endoscopy within 12 h of presentation. (B.1) If the patient is unstable, endoscopy should be performed as soon as safely possible. (D.1) (Changed)
 - **6.18** The availability of an on-call GI endoscopist proficient in endoscopic haemostasis and on-call support staff with technical expertise in the usage of endoscopic devices, enabling performance of endoscopy on a 24/7 basis, is recommended. Trainees performing the procedure must always be closely supervised by the GI endoscopist. (D.1) (Changed)
-- **6.19** In the absence of contraindications (QT prolongation), pre-endoscopy infusion of erythromycin (250 mg IV 30-120 minutes before endoscopy) should be considered. (B.1) (Unchanged)
+- **6.19** In the absence of contraindications (QT prolongation), pre-endoscopy infusion of erythromycin (250 mg IV [intravenous] 30-120 minutes before endoscopy) should be considered. (B.1) (Unchanged)
 - **6.20** Patients with AVB should be managed in intensive or intermediate care units. (D.1) (Unchanged)
 - **6.21** Ligation is the recommended form of endoscopic therapy for acute oesophageal variceal bleeding. (A.1) (Unchanged)
 - **6.22** Endoscopic therapy with tissue adhesives (e.g. N-butyl-cyanoacrylate/thrombin) is recommended for acute bleeding from isolated gastric varices (A.1) and type 2 gastro-oesophageal varices that extend beyond the cardia. (D.2) (Unchanged)
 - **6.23** Endoscopic variceal ligation (EVL) or tissue adhesive can be used in bleeding from type 1 gastro-oesophageal varices. (D.1) (Unchanged)
 - **6.24** Based on current evidence, haemostatic powder cannot be recommended as first-line endoscopic therapy for AVB. (D.1) (New)
 - **6.25** Endoscopic therapy (argon plasma coagulation, radiofrequency ablation or band ligation for PHG and gastric antral vascular ectasia) may be used for local treatment of PHG bleeding. (C.2) (New)
-- **6.26** All patients with AVB should undergo abdominal imaging, preferably contrast-enhanced cross-sectional imaging (CT or MRI) to exclude splanchnic vein thrombosis, HCC and to map portosystemic collaterals in order to guide treatment. (D.1) (New)
+- **6.26** All patients with AVB should undergo abdominal imaging, preferably contrast-enhanced cross-sectional imaging (CT [computed tomography] or MRI [magnetic resonance imaging]) to exclude splanchnic vein thrombosis, HCC and to map portosystemic collaterals in order to guide treatment. (D.1) (New)
 - **6.27** Pre-emptive TIPS with polytetrafluoroethylene (PTFE)-covered stents within 72 h (ideally <24 h) is indicated in patients bleeding from oesophageal varices and type 1/2 gastro-oesophageal varices who meet any of the following criteria: Child-Pugh class C <14 points or Child-Pugh class B >7 with active bleeding at initial endoscopy or HVPG >20 mmHg at the time of haemorrhage. (A.1) (Changed)
-- **6.28** In patients fulfilling the criteria for pre-emptive TIPS, ACLF, hepatic encephalopathy at admission and hyperbilirubinemia at admission should not be considered contraindications. (B.1) (New)
+- **6.28** In patients fulfilling the criteria for pre-emptive TIPS, ACLF [acute-on-chronic liver failure], hepatic encephalopathy at admission and hyperbilirubinemia at admission should not be considered contraindications. (B.1) (New)
 - **6.29** In refractory variceal bleeding, balloon tamponade or self-expandable metal stents (SEMS) should be used as a bridge therapy to a more definite treatment such as PTFE-covered TIPS. SEMS are as efficacious as balloon tamponade and are a safer option. (B.1) (Changed)
 - **6.30** Failure to control variceal bleeding despite combined pharmacological and endoscopic therapy is best managed by salvage PTFE-covered TIPS. (B.1) (Changed)
 - **6.31** TIPS may be futile in patients with Child-Pugh ≥14 cirrhosis, or with a MELD score >30 and lactate >12 mmol/L, unless liver transplantation is envisioned in the short-term. (B.1) The decision to perform TIPS in such patients should be taken on a case-by-case basis. (D.1) (New)
@@ -225,7 +225,7 @@ Three practice-shifting messages: (1) **NITs replace HVPG and endoscopy for most
 - **6.37** In the setting of AVB, there is no evidence that platelet count and fibrinogen levels are correlated with the risk of failure to control bleeding or rebleeding. However, in case of failure to control bleeding, the decision to correct the haemostatic abnormalities should be considered on a case-by-case basis. (D.2) (New)
 - **6.38** Recombinant factor VIIa and tranexamic acid are not recommended in AVB. (A.1) (New)
 - **6.39** In patients with AVB who are on anticoagulants, these should be temporarily discontinued until the haemorrhage is under control. Length of discontinuation should be individualised based on the strength of the indication for anticoagulation. (D.2) (New)
-- **6.40** In patients with GOV2, type 1 isolated gastric varices, and ectopic varices, BRTO could be considered as an alternative to endoscopic treatment or TIPS, provided it is feasible (type and diameter of shunt) and local expertise is available, as it has been shown to be safe and effective. (D.2) (New)
+- **6.40** In patients with GOV2 [gastroesophageal varices type 2], type 1 isolated gastric varices, and ectopic varices, BRTO could be considered as an alternative to endoscopic treatment or TIPS, provided it is feasible (type and diameter of shunt) and local expertise is available, as it has been shown to be safe and effective. (D.2) (New)
 - **6.41** Either endovascular or endoscopic treatment should be considered in patients with ectopic varices. (D.1) (New)
 - **6.42** TIPS may be combined with embolisation to control bleeding or to reduce the risk of recurrent variceal bleeding from gastric or ectopic varices, particularly in cases when, despite a decrease in portosystemic pressure gradient, portal flow remains diverted to collaterals. (D.2) (New)
 - **6.43** In patients with cirrhosis and PVT, management of AVB should be performed according to the guidelines for patients without PVT, when possible. (D.1) (New)
@@ -236,7 +236,7 @@ Three practice-shifting messages: (1) **NITs replace HVPG and endoscopy for most
 
 - **7.1** Further decompensation in cirrhosis represents a prognostic stage associated with an even higher mortality than that associated with first decompensation. Specific events that define further decompensation are any of the following: (B.1) (New)
   - a) Development of a second portal hypertension-driven decompensating event (ascites, variceal haemorrhage or hepatic encephalopathy) and/or jaundice;
-  - b) Development of recurrent variceal bleeding, recurrent ascites (requirement of ≥3 large-volume paracenteses within 1 year), recurrent encephalopathy, development of SBP and/or HRS-AKI;
+  - b) Development of recurrent variceal bleeding, recurrent ascites (requirement of ≥3 large-volume paracenteses within 1 year), recurrent encephalopathy, development of SBP and/or HRS-AKI [hepatorenal syndrome–acute kidney injury];
   - c) In patients presenting with bleeding alone, development of ascites, encephalopathy, or jaundice after recovery from bleeding but not if these events occur around the time of bleeding.
 
 **Preventing further decompensation in patients with ascites**
@@ -332,7 +332,7 @@ Three practice-shifting messages: (1) **NITs replace HVPG and endoscopy for most
 
 **PVT and portal cavernoma in the absence of cirrhosis — diagnosis**
 
-- **8.30** For diagnosis of PVT or cavernoma, Doppler ultrasound, CT or MR angiography should demonstrate solid intraluminal material not showing enhancement after injection of vascular contrast agents (for PVT) or a network of porto-portal collaterals (for cavernoma). (B.1) If diagnosed by Doppler ultrasound, confirmation with contrast-enhanced CT or MR angiography is needed. (D.1) (Changed)
+- **8.30** For diagnosis of PVT or cavernoma, Doppler ultrasound, CT or MR [magnetic resonance] angiography should demonstrate solid intraluminal material not showing enhancement after injection of vascular contrast agents (for PVT) or a network of porto-portal collaterals (for cavernoma). (B.1) If diagnosed by Doppler ultrasound, confirmation with contrast-enhanced CT or MR angiography is needed. (D.1) (Changed)
 - **8.31** A standardised documentation (as proposed in Table 1) of initial site, extent/degree of luminal obstruction, and chronicity of clot formation is required to enable subsequent evaluation of the spontaneous course and/or response to treatment. (D.1) (New)
 - **8.32** PVT and portal cavernoma in adults are frequently associated with ≥1 risk factor(s) for thrombosis, which may be occult at presentation and should be investigated. (B.1) (Unchanged)
 - **8.33** In patients with PVT following abdominal surgery or pancreatitis, invasive procedures (e.g., bone marrow biopsy and liver biopsy) should be discussed on an individual basis considering the expected low diagnostic yield in such populations and the risk of morbidity associated with these procedures. (C.2) (New)
@@ -379,7 +379,7 @@ Three practice-shifting messages: (1) **NITs replace HVPG and endoscopy for most
 | **Completely occlusive** | No persistent lumen |
 | **Partially occlusive** | Clot obstructing >50% of original vessel lumen |
 | **Minimally occlusive** | Clot obstructing <50% of original vessel lumen |
-| **Cavernous transformation** | Gross porto-portal collaterals without original PV seen |
+| **Cavernous transformation** | Gross porto-portal collaterals without original PV [portal vein] seen |
 | **Response — Progressive** | Thrombus increases in size or progresses to more complete occlusion |
 | **Response — Stable** | No appreciable change in size or occlusion |
 | **Response — Regressive** | Thrombus decreases in size or degree of occlusion |
@@ -453,10 +453,10 @@ Three practice-shifting messages: (1) **NITs replace HVPG and endoscopy for most
 
 - **[[portal-hypertension]]** — primary page updated: Baveno VII "rule of 5" LSM staging and the CSPH rule-out/rule-in criteria (2.15/2.16), ANTICIPATE thresholds (2.17), spleen stiffness cut-offs (2.21/2.22), the endoscopy-avoidance logic for patients started on NSBBs (5.17) vs. the LSM ≥20 kPa / platelet ≤150 endoscopy trigger for NSBB-ineligible patients (2.19/2.20), NSBB de-escalation after aetiological cure (3.7–3.9), and Figure 1 embedded.
 - **[[cirrhosis]]** — compensated/decompensated staging (5.1–5.4), the events defining decompensation, further decompensation (7.1), and the new **recompensation** definition (7.22–7.25).
-- **[[noninvasive-liver-disease-assessment]]** — cACLD LSM criteria (2.4–2.13), serum-marker confirmation cut-offs for a false-positive TE (FIB-4 ≥2.67, ELF ≥9.8, FibroTest ≥0.58/≥0.48), clinically significant LSM change (2.13).
-- **[[variceal-upper-gi-bleeding]]** — AVB bundle (6.1–6.43): pre-emptive TIPS criteria, TIPS futility thresholds, no FFP/rFVIIa/TXA, PPI stop rule, lactulose for blood clearance.
+- **[[noninvasive-liver-disease-assessment]]** — cACLD LSM criteria (2.4–2.13), serum-marker confirmation cut-offs for a false-positive TE (fibrosis-4 [FIB-4] ≥2.67, enhanced liver fibrosis [ELF] ≥9.8, FibroTest ≥0.58/≥0.48), clinically significant LSM change (2.13).
+- **[[variceal-upper-gi-bleeding]]** — AVB bundle (6.1–6.43): pre-emptive TIPS criteria, TIPS futility thresholds, no fresh frozen plasma (FFP)/recombinant factor VIIa (rFVIIa)/tranexamic acid (TXA), proton pump inhibitor (PPI) stop rule, lactulose for blood clearance.
 - **[[portal-vein-thrombosis]]** — standardised PVT nomenclature (Table 1), non-cirrhotic PVT anticoagulation duration (8.35–8.49), cirrhotic PVT indications (9.3–9.13).
-- **[[budd-chiari-syndrome]]** — definitions (8.6–8.8), diagnosis (8.9–8.17), stepwise management and BCS-TIPS PI >7 transplant trigger (8.18–8.26).
+- **[[budd-chiari-syndrome]]** — definitions (8.6–8.8), diagnosis (8.9–8.17), stepwise management and BCS-TIPS prognostic index >7 transplant trigger (8.18–8.26).
 - **[[porto-sinusoidal-vascular-disorder]]** — new page; entity defined here (9.14–9.30).
 - **[[hepatic-encephalopathy]]**, **[[spontaneous-bacterial-peritonitis]]**, **[[ascites]]**, **[[rifaximin]]**, **[[albumin]]**, **[[antibiotic-prophylaxis-cirrhosis]]** — non-aetiological therapy statements (4.4–4.10).
 
@@ -464,8 +464,8 @@ Three practice-shifting messages: (1) **NITs replace HVPG and endoscopy for most
 
 - **HVPG threshold for CSPH is stated as ≥10 mmHg in both Baveno VII (1.10) and [[aasld-2023-portal-hypertension]]** — no conflict, but note Baveno VII flags 1.10 as "Changed" (from >10 to ≥10).
 - **Carvedilol dosing is not specified by Baveno VII.** It names carvedilol the preferred NSBB (5.15) but gives no dose; the 6.25–12.5 mg/day maintenance dose on [[portal-hypertension]] comes from [[aasld-2023-portal-hypertension]].
-- **Pre-emptive TIPS criteria differ in wording between the two documents.** Baveno VII 6.27: Child-Pugh C <14 points, **or** Child-Pugh B >7 *with active bleeding at initial endoscopy*, **or HVPG >20 mmHg at the time of haemorrhage**. AASLD 2023 (GS 32) states CTP B >7 with active bleeding or CTP C 10–13 and does not include the HVPG limb. Baveno VII additionally states (6.28) that ACLF, HE at admission, and hyperbilirubinaemia are *not* contraindications.
+- **Pre-emptive TIPS criteria differ in wording between the two documents.** Baveno VII 6.27: Child-Pugh C <14 points, **or** Child-Pugh B >7 *with active bleeding at initial endoscopy*, **or HVPG >20 mmHg at the time of haemorrhage**. American Association for the Study of Liver Diseases (AASLD) 2023 (guidance statement [GS] 32) states Child-Turcotte-Pugh (CTP) B >7 with active bleeding or CTP C 10–13 and does not include the HVPG limb. Baveno VII additionally states (6.28) that ACLF, hepatic encephalopathy at admission, and hyperbilirubinaemia are *not* contraindications.
 - **Screening-endoscopy logic differs in emphasis.** Baveno VII 2.19 makes LSM ≥20 kPa **or** platelets ≤150×10⁹/L the endoscopy trigger *specifically for patients who cannot take NSBBs*, and 5.17 dispenses with screening endoscopy entirely for patients started on an NSBB. AASLD 2023 frames the same Baveno VI criteria (LSM <20 kPa + platelets >150) as a general endoscopy-avoidance rule.
-- **NSBBs in decompensated cirrhosis with ascites:** Baveno VII 7.7 gives explicit stop/restart haemodynamic thresholds (SBP <90 mmHg or MAP <65 mmHg, or HRS-AKI) that are more granular than the AASLD 2023 statement (SBP <90 mmHg).
-- **Terminology:** Baveno VII predates the MASLD nomenclature change and uses NASH/NAFLD throughout; statements referencing NASH apply to [[nafld-masld|MASLD/MASH]] (see [[aasld-2023-masld-nomenclature]]).
+- **NSBBs in decompensated cirrhosis with ascites:** Baveno VII 7.7 gives explicit stop/restart haemodynamic thresholds (systolic blood pressure <90 mmHg or mean arterial pressure <65 mmHg, or HRS-AKI) that are more granular than the AASLD 2023 statement (SBP <90 mmHg).
+- **Terminology:** Baveno VII predates the metabolic dysfunction–associated steatotic liver disease (MASLD) nomenclature change and uses NASH/nonalcoholic fatty liver disease (NAFLD) throughout; statements referencing NASH apply to [[nafld-masld|MASLD/metabolic dysfunction–associated steatohepatitis (MASH)]] (see [[aasld-2023-masld-nomenclature]]).
 - **Open questions flagged by the faculty** (research agenda): NASH-specific HVPG cut-offs; validation of LSM/SSM thresholds on non-TE devices; whether NSBBs prevent further (non-rebleeding) decompensation; timeframe for true recompensation; stopping rules for anticoagulation in cirrhotic PVT.

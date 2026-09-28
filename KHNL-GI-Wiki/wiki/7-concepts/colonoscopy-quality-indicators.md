@@ -7,7 +7,7 @@ updated: 2026-09-23
 sources: [aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy]
 ---
 
-Colonoscopy's efficacy varies among endoscopists, and lower-quality colonoscopies are associated with higher interval CRC incidence and mortality. Quality has three components: **effectiveness** (detecting [[colorectal-cancer|CRC]] and its precursors), **safety**, and **value** (avoiding unnecessary costs). [[aga-2021-colonoscopy-quality]]
+Colonoscopy's efficacy varies among endoscopists, and lower-quality colonoscopies are associated with higher interval colorectal cancer (CRC) incidence and mortality. Quality has three components: **effectiveness** (detecting [[colorectal-cancer|CRC]] and its precursors), **safety**, and **value** (avoiding unnecessary costs). [[aga-2021-colonoscopy-quality]]
 
 ## Contents
 - [[#The Benchmark Set]]
@@ -30,7 +30,7 @@ Colonoscopy's efficacy varies among endoscopists, and lower-quality colonoscopie
 
 ## The Benchmark Set
 
-*[[aga-2021-colonoscopy-quality|AGA 2021]] — 15 Best Practice Advice statements, ungraded (the update assigns no evidence grade or strength of recommendation to any statement).*
+*[[aga-2021-colonoscopy-quality|American Gastroenterological Association (AGA) 2021]] — 15 Best Practice Advice statements, ungraded (the update assigns no evidence grade or strength of recommendation to any statement).*
 
 | Metric | Goal | Aspirational target | Measured at |
 |---|---|---|---|
@@ -56,13 +56,13 @@ Colonoscopy's efficacy varies among endoscopists, and lower-quality colonoscopie
 | **SDR** | Total screening colonoscopies in the period | Screening colonoscopies with **≥1 sessile serrated lesion** | Denominator of **≥500 screening colonoscopies, or annually**, preferred |
 | **Cecal intubation rate** | **All screening and surveillance** colonoscopies | Cecum reached | — |
 | **Withdrawal time** | An endoscopist's **normal cases only** (no biopsies or [[polypectomy]]) | Time from **cecal intubation to procedure completion**, reported as the **mean** | — |
-| **Bowel prep adequacy** | Screening and surveillance colonoscopies | BBPS **≥6 with each segment score ≥2** | At a minimum **annually** |
+| **Bowel prep adequacy** | Screening and surveillance colonoscopies | Boston Bowel Preparation Scale (BBPS) **≥6 with each segment score ≥2** | At a minimum **annually** |
 
 ---
 
 ## Bowel Preparation Adequacy
 
-- **Adequate = Boston Bowel Preparation Scale (BBPS) total ≥6 *and* every segment score ≥2.** Both halves are required — a total of 6 built on a segment scoring 0 or 1 is not adequate.
+- **Adequate = BBPS total ≥6 *and* every segment score ≥2.** Both halves are required — a total of 6 built on a segment scoring 0 or 1 is not adequate.
 - BBPS scores each segment (right, transverse, left) **0 (unprepared colon) to 3 (entire segment well seen)**. It is **preferred over the modified Aronchick score** (single global excellent/good/fair/poor/inadequate rating) because it is applied **after cleaning** and has been rigorously validated.
 - Suboptimal cleansing causes failed detection of **flat or otherwise subtle polyps**; the impact is **most pronounced in the proximal colon**, reducing detection of both adenomas and sessile serrated lesions.
 - Preparation regimens, salvage maneuvers, indication-specific adequacy wording, and the full scale anchors live on [[colonoscopy#Bowel Preparation|colonoscopy]].
@@ -127,7 +127,7 @@ Colonoscopy's efficacy varies among endoscopists, and lower-quality colonoscopie
 
 Advice statements without a measurable rate attached:
 
-- **High-definition colonoscopes for screening and surveillance.** Meta-analysis of RCTs confirms a **definite but modest** impact on adenoma, serrated polyp, and advanced adenoma detection. Many legacy lower-definition instruments remain in circulation; upgrading is an effective unit-level strategy.
+- **High-definition (HD) colonoscopes for screening and surveillance.** Meta-analysis of randomized controlled trials (RCTs) confirms a **definite but modest** impact on adenoma, serrated polyp, and advanced adenoma detection. Many legacy lower-definition instruments remain in circulation; upgrading is an effective unit-level strategy.
 - **Second look of the right colon, retroflexed or forward view.** The right colon is the **most frequent location for missed CRCs and polyps** — largely flat and serrated lesions that are hard to see even with adequate prep. A second look **increases ADR by 5%–20%**. *Technique:* insert to the base of the cecum, withdraw to the hepatic flexure inspecting and removing polyps, then **reintubate the cecum** and examine the proximal colon a second time. **Retroflexion and forward view are equally effective**; the second look matters most if polyps were found on first pass or the completeness of the first inspection is in doubt.
 - **Cold snare polypectomy for nonpedunculated polyps 3–9 mm**, aiming for a **small rim of normal tissue** around the polyp — equally efficacious to hot snare, **substantially reduces delayed post-polypectomy bleeding**, avoids thermal injury. Technique details for every size band: [[polypectomy]].
 - **Forceps limits.** Avoid forceps generally for polyps **>2 mm**; **standard cold forceps** carry a high rate of residual neoplasia and **hot biopsy forceps should not be used** (deep thermal injury). Narrow exceptions: **jumbo forceps for diminutive polyps ≤2 mm**, or **polyps ≤5 mm in locations that preclude a snare**. **Never the primary modality for polyps >5 mm.** Residual neoplasia is found at roughly **14% of post-polypectomy sites**.
@@ -159,7 +159,7 @@ A detailed report covering **indication, extent of examination, bowel preparatio
 - **After endoscopic resection of large polyps: bleeding 4.3%–7.6%, perforation 0.2%–0.6%** — rates that predominantly reflect polypectomy by high-volume experts.
 - **Most adverse events occur within 14 days**; risk rises with **age, comorbidity, and performance of polypectomy**.
 - Every patient is counselled by the colonoscopist on possible events and their symptoms, and given **contact information** with instructions to call or seek emergency care for **severe abdominal pain, fever, significant bleeding, or other worrisome symptoms**.
-- Optional unit-level systematic monitoring of **delayed** events: scheduled phone calls; administrative data on post-procedure bleeding and perforation, hospital readmission or ED visits, patient deaths, and interval CRC. **Perforations, deaths, and interval CRC cases should be reviewed for quality improvement.**
+- Optional unit-level systematic monitoring of **delayed** events: scheduled phone calls; administrative data on post-procedure bleeding and perforation, hospital readmission or emergency department (ED) visits, patient deaths, and interval CRC. **Perforations, deaths, and interval CRC cases should be reviewed for quality improvement.**
 - Complication management and the ≤1 per 100 colonoscopies post-polypectomy bleeding benchmark are on [[colonoscopy#Complications|colonoscopy]].
 
 ---
@@ -179,7 +179,7 @@ Assigning the guideline-concordant interval is itself a quality indicator — no
 ```mermaid
 flowchart TD
     A["Measure — at the right level<br/>Unit: prep adequacy, adverse events<br/>Endoscopist: cecal intubation, withdrawal time<br/>Both: ADR, SDR"] --> B{"ADR ≥30%<br/>(aspirational ≥35%)?"}
-    B -- "No (<30%, certainly <25%)" --> C["Extend withdrawal time<br/>Self-learning: mucosal inspection, polyp ID<br/>Peer feedback and report cards<br/>Hands-on training with local leaders"]
+    B -- "No (<30%, certainly <25%)" --> C["Extend withdrawal time<br/>Self-learning: mucosal inspection, polyp identification<br/>Peer feedback and report cards<br/>Hands-on training with local leaders"]
     B -- "Yes" --> D{"SDR ≥7%<br/>(aspirational ≥10%)?"}
     D -- "No" --> E["Remediate colonoscopists<br/>AND reading pathologists"]
     D -- "Yes" --> F{"Prep adequacy ≥90%<br/>at unit level?"}
@@ -198,7 +198,7 @@ flowchart TD
 | **Bowel preparation** | High risk of inadequate prep | Variable | Adequate for all patient groups | Adequate for all patient groups |
 | **Withdrawal** | Insufficient withdrawal quality and time | Variable withdrawal quality and time, occasionally insufficient | Average withdrawal time and quality meets minimal standards | Average withdrawal time and quality **exceeds** minimal standards |
 | **Polyp detection** | Suboptimal | Suboptimal | Meets benchmark levels | **Exceeds** benchmarks, may meet aspirational targets |
-| **Polypectomy** | — | Improved documentation, but may lack important details | Low rate of incomplete or inadequate polypectomy | Performed with high degree of skill and accuracy; appropriate referral for EMR of large polyps and avoidance of surgery for benign polyps |
+| **Polypectomy** | — | Improved documentation, but may lack important details | Low rate of incomplete or inadequate polypectomy | Performed with high degree of skill and accuracy; appropriate referral for endoscopic mucosal resection (EMR) of large polyps and avoidance of surgery for benign polyps |
 | **Documentation** | Poor | Improved but may lack important details | Meets minimal standards | Detailed, including photodocumentation and polyp details |
 | **Surveillance intervals** | Inappropriate recommendations | May vary from guidelines | Low rate of inappropriate recommendations | Appropriate for all patients |
 
@@ -216,7 +216,7 @@ flowchart TD
 
 Same metrics, different numbers and denominators across ingested guidelines. Audit against the document whose population matches your exam, and say which one you used.
 
-| Metric | [[aga-2021-colonoscopy-quality\|AGA 2021 CPU]] | [[acg-2021-crc-screening\|ACG 2021]] | [[usmstf-2020-followup-colonoscopy\|USMSTF 2020]] |
+| Metric | [[aga-2021-colonoscopy-quality\|AGA 2021 Clinical Practice Update (CPU)]] | [[acg-2021-crc-screening\|American College of Gastroenterology (ACG) 2021]] | [[usmstf-2020-followup-colonoscopy\|US Multi-Society Task Force (USMSTF) 2020]] |
 |---|---|---|---|
 | **ADR** | **≥30%** for an individual endoscopist (aspirational ≥35%), one threshold for both sexes; sex-based ADR only for a markedly sex-skewed practice | **≥25%** overall is the remedial-training trigger | **≥30% men / ≥20% women** as the high-quality-exam prerequisite |
 | **Cecal intubation** | **≥90%** of screening + surveillance exams; **≥95%** when inadequately prepped exams are excluded | **≥90% overall, ≥95% in screening subjects** | Complete to cecum with photodocumented landmark |

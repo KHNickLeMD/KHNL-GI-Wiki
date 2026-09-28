@@ -7,7 +7,7 @@ updated: 2026-09-22
 sources: [baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension]
 ---
 
-> **[[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] rewrote this entity.** It renames it (PSVD **or** NCPF), replaces the Baveno VII criteria with a **point-scoring system**, relaxes the biopsy-adequacy standard, and — for the first time — allows **screening endoscopy to be avoided** on non-invasive grounds. The Baveno VII positions are kept below only where they are explicitly labelled as superseded, so the change is visible.
+> **[[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] rewrote this entity.** It renames it — porto-sinusoidal vascular disorder (PSVD) **or** non-cirrhotic portal fibrosis (NCPF) —, replaces the Baveno VII criteria with a **point-scoring system**, relaxes the biopsy-adequacy standard, and — for the first time — allows **screening endoscopy to be avoided** on non-invasive grounds. The Baveno VII positions are kept below only where they are explicitly labelled as superseded, so the change is visible.
 
 ## Contents
 - [[#Assessment]]
@@ -31,18 +31,18 @@ sources: [baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertens
 
 **PSVD or NCPF** is a broad clinico-pathological entity of the intrahepatic portal/sinusoidal vasculature that **can lead to portal hypertension in the absence of [[cirrhosis|cirrhosis]]** — but may also exist without any features of portal hypertension. It overlaps with **idiopathic portal hypertension / non-cirrhotic intrahepatic portal hypertension** and encompasses a range of histological lesions (8.38). [[baveno-viii-2026-portal-hypertension]]
 
-**Both names are now correct.** Following a **2026 multi-society nomenclature agreement**, "porto-sinusoidal vascular disorder (PSVD)" and "non-cirrhotic portal fibrosis (NCPF)" are **both accepted and share the same definition and diagnostic criteria** (8.39). [[baveno-vii-2022-portal-hypertension|Baveno VII]] used PSVD alone and listed **nodular regenerative hyperplasia**, **obliterative portal venopathy**, hepatoportal sclerosis, and incomplete septal cirrhosis as the older labels it absorbed (9.14).
+**Both names are now correct.** Following a **2026 multi-society nomenclature agreement**, "porto-sinusoidal vascular disorder" and "non-cirrhotic portal fibrosis" are **both accepted and share the same definition and diagnostic criteria** (8.39). [[baveno-vii-2022-portal-hypertension|Baveno VII]] used PSVD alone and listed **nodular regenerative hyperplasia**, **obliterative portal venopathy**, hepatoportal sclerosis, and incomplete septal cirrhosis as the older labels it absorbed (9.14).
 
 **Key framing points (8.40):**
 
 - **Absence of portal hypertension does not rule out PSVD/NCPF.**
 - **Concomitant causes of cirrhosis do not rule it out** — viral hepatitis, excessive alcohol, metabolic syndrome; both can coexist. (This costs a point in the scoring system; see below.)
-- **[[portal-vein-thrombosis|PVT]] does not rule it out** — both can coexist.
+- **[[portal-vein-thrombosis|Portal vein thrombosis (PVT)]] does not rule it out** — both can coexist.
 
 **When to suspect it:**
 
-- **[[hepatic-venous-pressure-gradient|HVPG]] <10 mmHg** despite clinical signs of portal hypertension (gastro-oesophageal varices, ascites, portosystemic collaterals) — HVPG measures only the sinusoidal gradient and **underestimates** the pre-sinusoidal component here
-- **[[liver-stiffness-measurement|LSM]] <10 kPa with clinical or imaging signs of portal hypertension** should raise the suspicion of a **vascular liver disease** (Baveno VIII 1.6, new). Baveno VII 1.13 framed the same trigger as "rule out PSVD"
+- **[[hepatic-venous-pressure-gradient|Hepatic venous pressure gradient (HVPG)]] <10 mmHg** despite clinical signs of portal hypertension (gastro-oesophageal varices, ascites, portosystemic collaterals) — HVPG measures only the sinusoidal gradient and **underestimates** the pre-sinusoidal component here
+- **[[liver-stiffness-measurement|Liver stiffness measurement (LSM)]] <10 kPa with clinical or imaging signs of portal hypertension** should raise the suspicion of a **vascular liver disease** (Baveno VIII 1.6, new). Baveno VII 1.13 framed the same trigger as "rule out PSVD"
 - Other atypical-for-cirrhosis features: smooth liver surface with no atrophy of segment IV; hepatic vein-to-vein communications — **none is pathognomonic**
 - Liver-test abnormalities or portal hypertension in a patient with a **condition known to be associated with PSVD/NCPF** (immune/inflammatory/systemic, haematological, genetic, or specific drug/toxin exposure)
 - **Unexplained liver blood-test abnormalities even without any signs of portal hypertension**
@@ -51,7 +51,7 @@ sources: [baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertens
 
 - Prognosis is generally better than cirrhosis when liver function is preserved; complications derive from portal hypertension ([[variceal-upper-gi-bleeding|variceal bleeding]], [[ascites]]) and from associated [[portal-vein-thrombosis|PVT]].
 - Standard cirrhosis scores are not validated here; management of complications follows [[portal-hypertension|cirrhosis/portal-hypertension guidance]] except where noted below.
-- **Nodules develop, less often than in [[budd-chiari-syndrome|BCS]]**; most are benign, but **suspected [[hepatocellular-carcinoma|HCC]] requires histological confirmation** (8.52).
+- **Nodules develop, less often than in [[budd-chiari-syndrome|Budd-Chiari syndrome (BCS)]]**; most are benign, but **suspected [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] requires histological confirmation** (8.52).
 
 ### Classification / Typing
 
@@ -97,18 +97,18 @@ PSVD/NCPF is defined **histologically + clinically**, not by a stage. Baveno VII
 - **Total ≥5 → definite PSVD or NCPF.**
 - **Total 3–4 → possible PSVD or NCPF** → pursue further investigation (e.g. repeat liver biopsy, LSM), **refer to a centre expert in vascular liver disease**, and follow the patient for new signs.
 
-> ⚠ **Baveno VII's criteria are superseded.** VII 9.19 required exclusion of cirrhosis and other causes of PH *plus one of*: ≥1 feature **specific** for PH; or ≥1 histologic lesion **specific** for PSVD; or ≥1 **non-specific** PH feature **together with** ≥1 **compatible** histologic lesion. Baveno VIII discards the specific/compatible histology split for a **major/minor** one with new content — muscularized portal venules and quantified portal venule stenosis are new; **incomplete septal fibrosis** (assessable only on explants) has dropped out of the criteria — and it now **subtracts** a point for a competing chronic liver disease rather than ignoring it.
+> ⚠ **Baveno VII's criteria are superseded.** VII 9.19 required exclusion of cirrhosis and other causes of portal hypertension (PH) *plus one of*: ≥1 feature **specific** for PH; or ≥1 histologic lesion **specific** for PSVD; or ≥1 **non-specific** PH feature **together with** ≥1 **compatible** histologic lesion. Baveno VIII discards the specific/compatible histology split for a **major/minor** one with new content — muscularized portal venules and quantified portal venule stenosis are new; **incomplete septal fibrosis** (assessable only on explants) has dropped out of the criteria — and it now **subtracts** a point for a competing chronic liver disease rather than ignoring it.
 
 ### Adjunct workup
 
 - **Screen for associated diseases** at diagnosis (8.45): immune/inflammatory/systemic diseases, haematological disorders, genetic disorders, and exposure to specific drugs/toxins.
-- **Contrast-enhanced cross-sectional imaging at diagnosis** (8.49) — evaluate the anatomy and patency of the portal venous system, spontaneous portosystemic collaterals, **hepatic veno-venous communications**, and nodules. (Baveno VII 9.25 named CT specifically; VIII broadens to contrast-enhanced cross-sectional imaging and adds veno-venous communications and nodules to what is being looked for.)
-- **HVPG** is typically <10 mmHg and **underestimates** the true portal pressure because of the pre-sinusoidal component. Where a pre-sinusoidal cause is suspected, [[interventional-eus-vascular|EUS-guided portosystemic pressure gradient]] measures portal pressure directly rather than through the wedged proxy.
+- **Contrast-enhanced cross-sectional imaging at diagnosis** (8.49) — evaluate the anatomy and patency of the portal venous system, spontaneous portosystemic collaterals, **hepatic veno-venous communications**, and nodules. (Baveno VII 9.25 named computed tomography (CT) specifically; VIII broadens to contrast-enhanced cross-sectional imaging and adds veno-venous communications and nodules to what is being looked for.)
+- **HVPG** is typically <10 mmHg and **underestimates** the true portal pressure because of the pre-sinusoidal component. Where a pre-sinusoidal cause is suspected, [[interventional-eus-vascular|endoscopic ultrasound (EUS)-guided portosystemic pressure gradient]] measures portal pressure directly rather than through the wedged proxy.
 
 ### Limits of the source
 
 - **The lower band of the diagnostic score is unlabeled here.** Figure 4's total-score axis prints tick marks at 0–1, 2, 3–4 and 5+, but only ≥5 ("definite") and 3–4 ("possible") are legible; consult the source figure for what a score of ≤2 is called.
-- **The exclusion criteria are in Supplementary Table S2**, and the associated-conditions list in Supplementary Table S3; the **EASL Clinical Practice Guidelines on Vascular Liver Diseases**, cited by statement 8.3, carry the full aetiological workup.
+- **The exclusion criteria are in Supplementary Table S2**, and the associated-conditions list in Supplementary Table S3; the **European Association for the Study of the Liver (EASL) Clinical Practice Guidelines on Vascular Liver Diseases**, cited by statement 8.3, carry the full aetiological workup.
 
 ---
 
@@ -124,11 +124,11 @@ PSVD/NCPF is defined **histologically + clinically**, not by a stage. Baveno VII
 
 **Portal hypertension complications** — managed according to [[portal-hypertension|cirrhosis/portal-hypertension guidance]], with these vascular-liver-disease caveats (Panel 8 general statements):
 
-- **No evidence favours EVL over [[nonselective-beta-blockers|NSBB]]** for primary prophylaxis of variceal bleeding in vascular liver disease (8.8), and **evidence is insufficient to prefer carvedilol over other conventional NSBBs** (8.9) — unlike in cirrhosis, where carvedilol is preferred.
-- **Acute portal-hypertension bleeding and secondary prophylaxis are managed as in cirrhosis** (8.12); **[[tips|TIPS]] should be considered for refractory or recurrent portal-hypertensive bleeding** (8.13).
-- **There is no data supporting pre-emptive TIPS in vascular liver disease** (8.14) — do not extrapolate the cirrhosis p-TIPS criteria here.
+- **No evidence favours endoscopic variceal ligation (EVL) over [[nonselective-beta-blockers|nonselective beta-blockers (NSBBs)]]** for primary prophylaxis of variceal bleeding in vascular liver disease (8.8), and **evidence is insufficient to prefer carvedilol over other conventional NSBBs** (8.9) — unlike in cirrhosis, where carvedilol is preferred.
+- **Acute portal-hypertension bleeding and secondary prophylaxis are managed as in cirrhosis** (8.12); **[[tips|transjugular intrahepatic portosystemic shunt (TIPS)]] should be considered for refractory or recurrent portal-hypertensive bleeding** (8.13).
+- **There is no data supporting pre-emptive TIPS (p-TIPS) in vascular liver disease** (8.14) — do not extrapolate the cirrhosis p-TIPS criteria here.
 - **Anticoagulation must not be delayed for endoscopic prophylaxis.** When anticoagulation is indicated it should be **started without delay and not postponed pending endoscopic variceal prophylaxis** (8.10). ⚠ **This reverses Baveno VII 8.47**, which directed starting anticoagulation *after* bleeding prophylaxis had been initiated in patients with high-risk varices.
-- **EVL may be performed safely without stopping LMWH or vitamin K antagonists**; **data are lacking for DOACs** (8.11).
+- **EVL may be performed safely without stopping low-molecular-weight heparin (LMWH) or vitamin K antagonists**; **data are lacking for direct oral anticoagulants (DOACs)** (8.11).
 
 **PVT surveillance and treatment:**
 
@@ -141,7 +141,7 @@ PSVD/NCPF is defined **histologically + clinically**, not by a stage. Baveno VII
 - **[[tips|TIPS]]** can be considered for severe complications of portal hypertension; associated conditions that worsen post-TIPS outcome must be weighed (Baveno VII 9.29, not revised in VIII and therefore still valid).
 - **[[liver-transplantation|Liver transplantation]]** should be considered for **severe and refractory complications of portal hypertension, [[hepatopulmonary-syndrome-portopulmonary-hypertension|hepatopulmonary syndrome]], HCC, or advanced liver dysfunction**; discuss at transplant centres with vascular-liver-disease expertise (8.53). Baveno VIII adds hepatopulmonary syndrome and HCC to the Baveno VII indications.
 
-**General vascular-liver-disease care (8.1–8.2):** manage in close collaboration with a **centre experienced in vascular liver disease**, particularly when endovascular treatment is contemplated; encourage **vaccination (including viral hepatitis and SARS-CoV-2)**, physical activity, a healthy diet, and alcohol abstinence; and systematically assess psychological and social needs, which are commonly overlooked.
+**General vascular-liver-disease care (8.1–8.2):** manage in close collaboration with a **centre experienced in vascular liver disease**, particularly when endovascular treatment is contemplated; encourage **vaccination (including viral hepatitis and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2))**, physical activity, a healthy diet, and alcohol abstinence; and systematically assess psychological and social needs, which are commonly overlooked.
 
 **Pregnancy and contraception (8.15–8.20)** apply to PSVD/NCPF as to all vascular liver disease — non-oestrogen contraception, replacement of oral anticoagulants with therapeutic-dose LMWH once pregnancy is detected, **variceal screening in the second trimester** unless screened within the preceding year, **propranolol** for prophylaxis, and vaginal delivery preferred over caesarean provided **platelets >20 G/L**. Details on [[liver-disease-in-pregnancy]].
 

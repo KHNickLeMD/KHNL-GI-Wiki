@@ -16,13 +16,13 @@ sources: []
 - **DOI:** none (NCCN web publication)
 - **Type:** Guideline (algorithm-based; NCCN categories of evidence — all recommendations category 2A unless otherwise indicated)
 
-> **Note on content & licensing.** NCCN content is copyrighted and its End-User License Agreement prohibits redistribution and use of the content with AI tools. This source page therefore **summarizes and cites** the guideline rather than reproducing its proprietary algorithm pages verbatim. The entity pages built from it are written in original language with NCCN cited as the source. Consult the original NCCN algorithm pages (GIST-1 … and Principles) for the authoritative, citable pathways.
+> **Note on content & licensing.** NCCN content is copyrighted and its End-User License Agreement prohibits redistribution and use of the content with artificial intelligence (AI) tools. This source page therefore **summarizes and cites** the guideline rather than reproducing its proprietary algorithm pages verbatim. The entity pages built from it are written in original language with NCCN cited as the source. Consult the original NCCN algorithm pages (GIST-1 … and Principles) for the authoritative, citable pathways.
 
 ## Summary
 
-The NCCN GIST guideline covers the diagnosis, risk stratification, and management of gastrointestinal stromal tumors — the most common mesenchymal tumors of the GI tract, arising from the interstitial cells of Cajal and typically expressing **KIT (CD117) and DOG1**. Most are driven by activating **KIT** mutations (exon 11 most common) or **PDGFRA** mutations (including the imatinib-resistant **D842V** variant); a minority are **SDH-deficient ("wild-type") GISTs** (often gastric, in younger patients, associated with Carney triad and Carney-Stratakis syndrome). **Mutational testing is essential** because it predicts response to tyrosine kinase inhibitors and guides drug/dose selection.
+The NCCN guideline on gastrointestinal stromal tumors (GISTs) covers the diagnosis, risk stratification, and management of these tumors — the most common mesenchymal tumors of the gastrointestinal (GI) tract, arising from the interstitial cells of Cajal and typically expressing **KIT (CD117) and DOG1**. Most are driven by activating **KIT** mutations (exon 11 most common) or **PDGFRA** mutations (including the imatinib-resistant **D842V** variant); a minority are **succinate dehydrogenase (SDH)-deficient ("wild-type") GISTs** (often gastric, in younger patients, associated with Carney triad and Carney-Stratakis syndrome). **Mutational testing is essential** because it predicts response to tyrosine kinase inhibitors (TKIs) and guides drug/dose selection.
 
-Management is risk- and resectability-based. Localized, resectable GISTs are treated with **surgical resection** (negative margins; routine lymphadenectomy is not required). Very small (<2 cm) gastric GISTs without high-risk endoscopic-ultrasound features may be followed with surveillance. **Neoadjuvant imatinib** is used to downsize marginally resectable tumors or preserve organ function (e.g., at the EGJ, rectum, duodenum), with mutational testing first to confirm imatinib sensitivity. After resection, **adjuvant imatinib for at least 3 years** is recommended for high-risk tumors (risk estimated by size, mitotic rate, and primary site, with tumor rupture conferring high risk). For unresectable/metastatic disease, **imatinib is first-line** (with a higher dose for KIT exon 9 mutations), followed by **sunitinib, regorafenib, and ripretinib** in sequence; **avapritinib** is used for PDGFRA D842V-mutant disease.
+Management is risk- and resectability-based. Localized, resectable GISTs are treated with **surgical resection** (negative margins; routine lymphadenectomy is not required). Very small (<2 cm) gastric GISTs without high-risk endoscopic ultrasound (EUS) features may be followed with surveillance. **Neoadjuvant imatinib** is used to downsize marginally resectable tumors or preserve organ function (e.g., at the esophagogastric junction, rectum, duodenum), with mutational testing first to confirm imatinib sensitivity. After resection, **adjuvant imatinib for at least 3 years** is recommended for high-risk tumors (risk estimated by size, mitotic rate, and primary site, with tumor rupture conferring high risk). For unresectable/metastatic disease, **imatinib is first-line** (with a higher dose for KIT exon 9 mutations), followed by **sunitinib, regorafenib, and ripretinib** in sequence; **avapritinib** is used for PDGFRA D842V-mutant disease.
 
 ## Key Findings / Claims
 
@@ -36,10 +36,10 @@ Management is risk- and resectability-based. Localized, resectable GISTs are tre
 
 ## Relevance to Wiki
 
-- Creates [[gastrointestinal-stromal-tumor]] (new disease script, ADDT) — the first dedicated GIST page; resolves links from [[gastric-adenocarcinoma]] and [[esophageal-cancer]] differentials.
-- Connects to [[endoscopic-ultrasound]] (subepithelial-lesion evaluation/sampling), [[upper-endoscopy]] (gastric GISTs), and [[gastroenteropancreatic-neuroendocrine-tumors]] (subepithelial differential). Complements the ACG subepithelial-lesions guideline.
+- Creates [[gastrointestinal-stromal-tumor]] (new disease script, Assessment/Differential Diagnosis/Diagnostics/Therapeutics [ADDT] format) — the first dedicated GIST page; resolves links from [[gastric-adenocarcinoma]] and [[esophageal-cancer]] differentials.
+- Connects to [[endoscopic-ultrasound]] (subepithelial-lesion evaluation/sampling), [[upper-endoscopy]] (gastric GISTs), and [[gastroenteropancreatic-neuroendocrine-tumors]] (subepithelial differential). Complements the American College of Gastroenterology (ACG) subepithelial-lesions guideline.
 
 ## Contradictions / Open Questions
 
-- Algorithm-based guideline (category 2A by default), not a GRADE systematic review.
+- Algorithm-based guideline (category 2A by default), not a Grading of Recommendations Assessment, Development and Evaluation (GRADE) systematic review.
 - Optimal adjuvant imatinib duration beyond 3 years and management of SDH-deficient/wild-type GIST (less TKI-responsive) remain active questions.

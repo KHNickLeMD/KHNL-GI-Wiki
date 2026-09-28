@@ -7,7 +7,7 @@ updated: 2026-09-05
 sources: [aasld-2009-liver-biopsy, aga-2021-cirrhosis-coagulation, acg-2025-eus-quality, aga-2023-nafld-noninvasive-biomarkers]
 ---
 
-Liver biopsy is the procedural acquisition of hepatic tissue for histological assessment. Per the AASLD 2009 position paper ([[aasld-2009-liver-biopsy]]), it serves three major roles: **diagnosis**, **prognosis (disease staging, chiefly fibrosis)**, and **guiding therapeutic management**. Although it remains a reference standard, noninvasive tools — serum panels and [[liver-stiffness-measurement|elastography]] ([[noninvasive-liver-disease-assessment|NILDA]]) — increasingly replace it for fibrosis staging, and biopsy is now reserved largely for diagnostic uncertainty or when histology will change management.
+Liver biopsy is the procedural acquisition of hepatic tissue for histological assessment. Per the American Association for the Study of Liver Diseases (AASLD) 2009 position paper ([[aasld-2009-liver-biopsy]]), it serves three major roles: **diagnosis**, **prognosis (disease staging, chiefly fibrosis)**, and **guiding therapeutic management**. Although it remains a reference standard, noninvasive tools — serum panels and [[liver-stiffness-measurement|elastography]] ([[noninvasive-liver-disease-assessment|noninvasive liver disease assessment (NILDA)]]) — increasingly replace it for fibrosis staging, and biopsy is now reserved largely for diagnostic uncertainty or when histology will change management.
 
 ## Contents
 - [[#Indications]]
@@ -27,9 +27,9 @@ Liver biopsy is the procedural acquisition of hepatic tissue for histological as
 ## Indications
 Liver biopsy should be considered when the diagnosis is in question and knowledge of a specific diagnosis is likely to alter management (Rec 1, Class I/B), and as a prognostic adjunct when fibrosis stage may guide treatment (Rec 2, Class I/B). Common indications (AASLD Tables 3-4):
 - **Abnormal liver tests of unclear etiology** after thorough history, exam, serologic and imaging workup.
-- **Multiple/coexisting parenchymal diseases** (e.g. steatosis plus [[hepatitis-c|HCV]] or [[hereditary-hemochromatosis|hemochromatosis]]; overlap syndromes).
-- **Disease-specific roles** — diagnosis, staging, prognosis, or management for [[autoimmune-hepatitis]] (diagnosis, staging, and pre-immunosuppression decisions; portal plasma cell score may predict relapse), [[nafld-masld|NAFLD/MASLD]] (distinguishes steatohepatitis from simple steatosis, stages fibrosis), [[primary-biliary-cholangitis|PBC]] (AMA-negative or suspected overlap; advanced fibrosis predicts poorer UDCA response), [[primary-sclerosing-cholangitis|PSC]] (small-duct disease or overlap), [[wilson-disease|Wilson disease]] (quantitative hepatic copper), hemochromatosis ([[iron-overload-and-iron-metabolism|iron quantification]], fibrosis staging), and [[drug-induced-liver-injury|DILI]].
-- **Focal/mass lesions** — image-guided biopsy when imaging is indeterminate; core (not aspirate) preferred when neoplasia is suspected. Concerns include sampling error and small tumor-track seeding risk (~0.13%) in [[hepatocellular-carcinoma|HCC]] and [[cholangiocarcinoma]].
+- **Multiple/coexisting parenchymal diseases** (e.g. steatosis plus [[hepatitis-c|hepatitis C virus (HCV)]] or [[hereditary-hemochromatosis|hemochromatosis]]; overlap syndromes).
+- **Disease-specific roles** — diagnosis, staging, prognosis, or management for [[autoimmune-hepatitis]] (diagnosis, staging, and pre-immunosuppression decisions; portal plasma cell score may predict relapse), [[nafld-masld|nonalcoholic fatty liver disease/metabolic dysfunction-associated steatotic liver disease (NAFLD/MASLD)]] (distinguishes steatohepatitis from simple steatosis, stages fibrosis), [[primary-biliary-cholangitis|primary biliary cholangitis (PBC)]] (antimitochondrial antibody [AMA]-negative or suspected overlap; advanced fibrosis predicts poorer ursodeoxycholic acid (UDCA) response), [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]] (small-duct disease or overlap), [[wilson-disease|Wilson disease]] (quantitative hepatic copper), hemochromatosis ([[iron-overload-and-iron-metabolism|iron quantification]], fibrosis staging), and [[drug-induced-liver-injury|drug-induced liver injury (DILI)]].
+- **Focal/mass lesions** — image-guided biopsy when imaging is indeterminate; core (not aspirate) preferred when neoplasia is suspected. Concerns include sampling error and small tumor-track seeding risk (~0.13%) in [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] and [[cholangiocarcinoma]].
 - **[[acute-liver-failure|Acute liver failure]]**, post–[[liver-transplantation|liver transplant]] allograft dysfunction, and evaluation of cryptogenic [[cirrhosis]].
 
 ## Approaches
@@ -55,21 +55,21 @@ Transvenous biopsy yields smaller specimens (typically 3 cores with a 19-gauge n
 Performed under direct vision (needle device or wedge resection) when the liver is being operated on or visualized. Allows direct hemostatic control and high diagnostic accuracy for cirrhosis, but wedge specimens may overestimate fibrosis (subcapsular) and the approach requires anesthesia and expertise.
 
 ### EUS-Guided
-The AASLD 2009 paper predates routine EUS-guided liver biopsy and does not address it (it notes only experimental NOTES transgastric biopsy), so the percutaneous/transvenous recommendations above remain the AASLD-graded standards. [[endoscopic-ultrasound|EUS]]-guided liver biopsy has since become established enough to carry its own **quality benchmarks** ([[acg-2025-eus-quality|ACG/ASGE 2025 EUS quality indicators]]) — the numbers to audit against:
+The AASLD 2009 paper predates routine endoscopic ultrasound (EUS)-guided liver biopsy and does not address it (it notes only experimental natural orifice transluminal endoscopic surgery (NOTES) transgastric biopsy), so the percutaneous/transvenous recommendations above remain the AASLD-graded standards. [[endoscopic-ultrasound|EUS]]-guided liver biopsy has since become established enough to carry its own **quality benchmarks** ([[acg-2025-eus-quality|American College of Gastroenterology (ACG)/American Society for Gastrointestinal Endoscopy (ASGE) 2025 EUS quality indicators]]) — the numbers to audit against:
 
 | Benchmark | Target | Grade |
 |---|---|---|
 | Diagnostically adequate EUS-guided liver biopsy (indicator 8) | **≥85%** | 1B — Strong / Moderate |
 | Clinically significant bleeding after EUS liver biopsy (indicator 19) | **<5%** | 1C¹ — Strong / Low |
 
-> The guidelines cited here do not state the *technique* of EUS-LB (needle gauge/type, number of passes, which lobe(s), portal-tract yield) or compare it head-to-head with the percutaneous or transvenous routes; see the ASGE technology review on EUS-guided liver biopsy for those.
+> The guidelines cited here do not state the *technique* of EUS-guided liver biopsy (EUS-LB) (needle gauge/type, number of passes, which lobe(s), portal-tract yield) or compare it head-to-head with the percutaneous or transvenous routes; see the ASGE technology review on EUS-guided liver biopsy for those.
 
 ## Pre-Procedure Coagulation Assessment
-A central message: **conventional coagulation tests poorly predict post-biopsy bleeding.** There is **no PT-INR or platelet count cutoff** at/above which adverse bleeding can be reliably predicted (Rec 18, Class I/C). Standard US practice often withholds percutaneous biopsy at **PT-INR >1.5**, but the evidence base is weak, and the PT-INR is derived from coumadin-treated reference ranges that don't apply to the rebalanced hemostasis of liver disease (see [[cirrhosis-hemostasis]]).
+A central message: **conventional coagulation tests poorly predict post-biopsy bleeding.** There is **no prothrombin time-international normalized ratio (PT-INR) or platelet count cutoff** at/above which adverse bleeding can be reliably predicted (Rec 18, Class I/C). Standard US practice often withholds percutaneous biopsy at **PT-INR >1.5**, but the evidence base is weak, and the PT-INR is derived from coumadin-treated reference ranges that don't apply to the rebalanced hemostasis of liver disease (see [[cirrhosis-hemostasis]]).
 - **Platelets:** transfuse for counts <50,000-60,000/mL (Rec 20, Class I/C); in vitro thrombin-generation data suggest ~56,000 may suffice in cirrhosis, but in vivo validation is lacking.
 - **Hyperfibrinolysis** occurs in ~10%-15% of chronic liver disease patients and is undetectable by conventional tests — suspect it with late post-procedure bleeding; thromboelastography may help.
 - Prophylactic/rescue plasma, fibrinolysis inhibitors, or recombinant factors may be considered in specific situations but effectiveness is unproven (Rec 21, Class IIa/C).
-- **Renal failure:** DDAVP may be considered (Rec 22, IIa/B), generally unnecessary on stable dialysis; dialyze well and avoid heparin (Rec 23). Known congenital bleeding disorders (factor VIII/IX deficiency, vWD, sickle cell) warrant definitive factor replacement before biopsy.
+- **Renal failure:** Desmopressin (DDAVP) may be considered (Rec 22, IIa/B), generally unnecessary on stable dialysis; dialyze well and avoid heparin (Rec 23). Known congenital bleeding disorders (factor VIII/IX deficiency, von Willebrand disease [vWD], sickle cell) warrant definitive factor replacement before biopsy.
 
 ## Medication Management
 - **Antiplatelet agents:** discontinue several to 10 days before (Rec 5, Class I/C); may restart 48-72 hours after (Rec 7).
@@ -90,12 +90,12 @@ Adequacy is essential to justify the procedural risk:
 - **Recommended:** biopsy ≥2-3 cm length and 16-gauge caliber for nonneoplastic diffuse parenchymal disease (Rec 25, Class I/C); ideal is ~3 cm after formalin fixation, 16-gauge.
 - **Portal tracts:** >11 complete portal tracts is the proposed adequacy target; the pathology report should note when **fewer than 11 complete portal tracts** are present, since grading/staging may then be incorrect (Rec 26, Class I/C).
 - Formalin fixation shrinks specimens (e.g. ~19.6 → 18.3 mm). Short specimens (<2-2.5 cm) under-grade/stage and miss cirrhosis in up to 20% of cases. Thin (<18-gauge) needles cause diagnostic error in up to two-thirds of cases for diffuse disease.
-- **Scoring:** use a simple system — Metavir or Batts-Ludwig (or IASL) — rather than complex Ishak in clinical practice (Rec 28, Class I/C). Sampling variability (discordance by ≥1 stage in ~33% of paired lobes) is a key limitation.
+- **Scoring:** use a simple system — Metavir or Batts-Ludwig (or International Association for the Study of the Liver [IASL]) — rather than complex Ishak in clinical practice (Rec 28, Class I/C). Sampling variability (discordance by ≥1 stage in ~33% of paired lobes) is a key limitation.
 
 ## Noninvasive Alternatives
-Serum fibrosis panels and elastography (transient/MR) increasingly assess fibrosis without biopsy. At the time of the 2009 paper these were insufficiently precise to replace histology (Rec 29 recommends biopsy "until clearly superior methodologies are developed and validated," Class IIB/C). The two-tier NIT pathway (**FIB-4 first → if ≥1.3, add a second NIT: VCTE or MRE preferred, ELF if elastography unavailable**) has since displaced biopsy as the routine first step; all cut-offs live on [[noninvasive-liver-disease-assessment]].
+Serum fibrosis panels and elastography (transient/magnetic resonance) increasingly assess fibrosis without biopsy. At the time of the 2009 paper these were insufficiently precise to replace histology (Rec 29 recommends biopsy "until clearly superior methodologies are developed and validated," Class IIB/C). The two-tier noninvasive test (NIT) pathway (**Fibrosis-4 (FIB-4) first → if ≥1.3, add a second NIT: vibration-controlled transient elastography (VCTE) or magnetic resonance elastography (MRE) preferred, Enhanced Liver Fibrosis (ELF) if elastography unavailable**) has since displaced biopsy as the routine first step; all cut-offs live on [[noninvasive-liver-disease-assessment]].
 
-**When to biopsy anyway — the three triggers** ([[aga-2023-nafld-noninvasive-biomarkers]], BPA 6):
+**When to biopsy anyway — the three triggers** ([[aga-2023-nafld-noninvasive-biomarkers]], Best Practice Advice [BPA] 6):
 
 - NITs are **indeterminate or discordant** with each other
 - NIT results **conflict** with other clinical, laboratory, or radiologic findings

@@ -7,7 +7,7 @@ updated: 2026-09-02
 sources: []
 ---
 
-> **⚠ This source is a STUDY PROTOCOL, not a results paper.** It reports no outcomes. ENDURO cannot be cited for the efficacy or safety of EUS-guided gastroenterostomy. What it legitimately supplies is trial design, eligibility, standardized procedural technique, and outcome definitions.
+> **⚠ This source is a STUDY PROTOCOL, not a results paper.** It reports no outcomes. ENDURO cannot be cited for the efficacy or safety of endoscopic ultrasound (EUS)-guided gastroenterostomy. What it legitimately supplies is trial design, eligibility, standardized procedural technique, and outcome definitions.
 
 ## Bibliographic Info
 - **Article:** [Kastelijn JB, van de Pavert YL, Besselink MG, Fockens P, Voermans RP, van Wanrooij RLJ, et al., for the Dutch Pancreatic Cancer Group. Endoscopic ultrasonography-guided gastroenterostomy versus surgical gastrojejunostomy for palliation of malignant gastric outlet obstruction (ENDURO): study protocol for a randomized controlled trial. Trials. 2023;24:608.](https://doi.org/10.1186/s13063-023-07522-7)
@@ -15,13 +15,13 @@ sources: []
 - **Year:** 2023
 - **Journal/Publisher:** *Trials* (BMC)
 - **DOI:** [10.1186/s13063-023-07522-7](https://doi.org/10.1186/s13063-023-07522-7)
-- **Type:** Study protocol for an RCT (SPIRIT-formatted; ICTRP NL9592; protocol version 4, 2022-01-10)
+- **Type:** Study protocol for a randomized controlled trial (RCT; SPIRIT-formatted; ICTRP NL9592; protocol version 4, 2022-01-10)
 
 ---
 
 ## Summary
 
-Protocol for a **multicentre, open-label, parallel-group randomized controlled trial** in the Netherlands (Dutch Pancreatic Cancer Group) comparing **EUS-guided gastroenterostomy (EUS-GE)** against **laparoscopic surgical gastrojejunostomy (SGJ)** for palliation of malignant gastric outlet obstruction. Ninety-six patients will be randomized 1:1. The trial targets precisely the population in which the choice is genuinely uncertain: patients who **would qualify for surgery under current practice** — expected survival beyond 2 months with adequate performance status — rather than the short-prognosis patients already assigned to stenting.
+Protocol for a **multicentre, open-label, parallel-group randomized controlled trial** in the Netherlands (Dutch Pancreatic Cancer Group) comparing **EUS-guided gastroenterostomy (EUS-GE)** against **laparoscopic surgical gastrojejunostomy (SGJ)** for palliation of malignant gastric outlet obstruction (GOO). Ninety-six patients will be randomized 1:1. The trial targets precisely the population in which the choice is genuinely uncertain: patients who **would qualify for surgery under current practice** — expected survival beyond 2 months with adequate performance status — rather than the short-prognosis patients already assigned to stenting.
 
 The rationale as stated in the protocol is that the two established options each fail in a different direction. **Enteral stenting** relieves symptoms fast but carries high reintervention rates, with stent obstruction in **up to 30%** of cases, and is therefore recommended only when estimated survival is **under two months**. **Surgical gastrojejunostomy** has a high success rate and low reintervention rate but significant post-operative morbidity including gastroparesis, and is recommended when estimated survival exceeds **two months** with adequate performance status. EUS-GE — a **lumen-apposing metal stent (LAMS)** placed endoscopically between the stomach and a jejunal loop distal to the obstruction — is proposed as combining the speed of stenting with the durability of surgery. The protocol is candid that EUS-GE is **technically demanding** and that in inexperienced hands **LAMS misdeployment can cause jejunal perforation and peritonitis**.
 
@@ -40,7 +40,7 @@ Its practical value is procedural, not comparative: both arms are **protocolized
 | Inclusion | Exclusion |
 |---|---|
 | Adult, **symptomatic** malignant GOO — nausea, vomiting, and/or inability to eat | Radiological or clinical suspicion of **other strictures/obstructions distal to the ligament of Treitz**, with small-intestinal dilation/ileus |
-| **GOOSS score 0 (no oral intake) or 1 (liquids only)** | |
+| **Gastric Outlet Obstruction Scoring System (GOOSS) score 0 (no oral intake) or 1 (liquids only)** | |
 | Obstruction from **irresectable or metastatic** malignancy, no curative option | |
 | Radiologically or endoscopically **confirmed** GOO | |
 | Obstruction located from the **pyloric region to the third part of the duodenum** | |
@@ -51,7 +51,7 @@ Its practical value is procedural, not comparative: both arms are **protocolized
 - **Co-primary:** proportion of patients with **persisting or recurring GOO symptoms requiring a reintervention**.
 - **Secondary:** technical success, clinical success, quality of life, gastroenterostomy dysfunction, reintervention and time to reintervention, adverse events, time to start chemotherapy, length of stay, readmission, weight, survival, costs. *(Precise definitions of technical and clinical success are in the article's Additional file 3.)*
 - **Sample size:** powered on an assumed median time to GOOSS ≥2 of **3 days after SGJ versus 1 day after EUS-GE** (from a retrospective study) — 21 per arm for 90% power, two-sided alpha 0.05, 6-month follow-up; total inflated to 96 to serve the co-primary endpoint.
-- **Stratified by WHO performance status**, deliberately **not** by centre (would compromise allocation concealment, and some patients transfer for EUS-GE).
+- **Stratified by World Health Organization (WHO) performance status**, deliberately **not** by centre (would compromise allocation concealment, and some patients transfer for EUS-GE).
 
 **EUS-GE technique (protocolized):**
 - **Preferentially performed by two advanced endoscopists**; deep sedation with propofol.
@@ -66,7 +66,7 @@ Its practical value is procedural, not comparative: both arms are **protocolized
 - Created with a **60-mm stapler**, closed with a 3-0 barbed suture or equivalent.
 - **Biliary limb (bile duct to gastrojejunostomy) must be at least 50 cm.**
 - A surgical feeding jejunostomy is **not** routinely constructed; a tattoo may mark the efferent limb to guide later nasojejunal tube placement. All patients receive a nasogastric tube post-operatively.
-- No learning curve assumed — SGJ is a routine procedure, performed in centres experienced in upper GI or hepatopancreatobiliary surgery.
+- No learning curve assumed — SGJ is a routine procedure, performed in centres experienced in upper gastrointestinal or hepatopancreatobiliary surgery.
 
 **Procedural and post-procedural rules (clinically usable, and sourced):**
 - **Excessive gastric residual volume** preventing safe sedation → **reschedule after extensive gastric decompression**; this is explicitly **not** counted as technical failure.
@@ -93,4 +93,4 @@ Its practical value is procedural, not comparative: both arms are **protocolized
 - **The comparative question is open.** ENDURO exists precisely because the EUS-GE-versus-surgery question is unanswered, and it reports nothing; EUS-GE cannot be called superior, equivalent, or inferior to surgical gastrojejunostomy until the results are published.
 - **The trial's own power assumption is not evidence.** The "3 days SGJ versus 1 day EUS-GE" figure is a planning assumption drawn from a retrospective study, used to size the trial. It must not be quoted as an observed result.
 - **No society guideline covers malignant GOO palliation.** The "<2 months → stent, ≥2 months → surgery" rule rests on a tier-2 RCT ([[jeurnink-2010-sustent-goo]]) and this protocol's background restatement of it, **not** on a tier-1 source.
-- **Tension with the older trial's comparator:** SUSTENT's surgical arm was 16/18 **open** GJJ, while ENDURO standardizes a **laparoscopic** SGJ. The surgical penalty in time-to-eating and length of stay observed in 2010 likely overstates what a modern laparoscopic bypass costs.
+- **Tension with the older trial's comparator:** SUSTENT's surgical arm was 16/18 **open** gastrojejunostomy, while ENDURO standardizes a **laparoscopic** SGJ. The surgical penalty in time-to-eating and length of stay observed in 2010 likely overstates what a modern laparoscopic bypass costs.

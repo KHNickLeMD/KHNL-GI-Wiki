@@ -28,7 +28,7 @@ This guidance integrates **palliative care** — multidisciplinary care focused 
 ## Key Points
 
 - **Introduce palliative care early and concurrently**, at any disease stage, including in transplant candidates — not reserved for end-of-life.
-- **Symptom-based management** of the cirrhosis symptom burden: pain (avoid hepatotoxic/renally-cleared agents and NSAIDs), pruritus, [[hepatic-encephalopathy]], muscle cramps, [[ascites]]-related discomfort, dyspnea, depression/anxiety, and poor sleep.
+- **Symptom-based management** of the cirrhosis symptom burden: pain (avoid hepatotoxic/renally-cleared agents and nonsteroidal anti-inflammatory drugs [NSAIDs]), pruritus, [[hepatic-encephalopathy]], muscle cramps, [[ascites]]-related discomfort, dyspnea, depression/anxiety, and poor sleep.
 - **Advance care planning**, goals-of-care discussions, and caregiver support are core components.
 - Use both **primary palliative care** (by the hepatology team) and **specialty palliative care** referral for complex needs; coordinate with transplant evaluation rather than viewing them as mutually exclusive.
 

@@ -37,7 +37,7 @@ Nonabsorbable disaccharide. Mechanism is described as controversial ([[acg-2026-
 - **Presumed prebiotic effect** → inhibits ammoniagenic bacteria, promotes acidophilic urease-lacking bacteria (lactobacilli) that produce less ammonia
 - **Inhibits intestinal glutamine uptake** → decreased ammoniagenesis
 
-[[aasld-easl-2014-hepatic-encephalopathy]] notes culture-independent studies have not borne out the prebiotic/acidifying claims beyond the laxative effect, and that a large meta-analysis did not completely support lactulose for overt HE (it excluded the largest trials for technical reasons); most recent trials are open-label. It remains the least expensive, most cost-effective HE treatment.
+[[aasld-easl-2014-hepatic-encephalopathy]] notes culture-independent studies have not borne out the prebiotic/acidifying claims beyond the laxative effect, and that a large meta-analysis did not completely support lactulose for overt hepatic encephalopathy (HE; it excluded the largest trials for technical reasons); most recent trials are open-label. It remains the least expensive, most cost-effective HE treatment.
 
 ---
 
@@ -45,17 +45,17 @@ Nonabsorbable disaccharide. Mechanism is described as controversial ([[acg-2026-
 
 | Setting | Statement | Grade as printed |
 |---|---|---|
-| **Overt HE — treatment** | Lactulose to improve patient outcomes and prevent recurrence of OHE episodes (ACG 2026 Rec 7) | Strong; moderate certainty |
-| | Lactulose is the first choice for treatment of episodic OHE (2014 Rec 19) | GRADE II-1, B, 1 |
+| **Overt HE — treatment** | Lactulose to improve patient outcomes and prevent recurrence of overt HE (OHE) episodes (American College of Gastroenterology [ACG] 2026 Rec 7) | Strong; moderate certainty |
+| | Lactulose is the first choice for treatment of episodic OHE (2014 Rec 19) | Grading of Recommendations Assessment, Development and Evaluation (GRADE) II-1, B, 1 |
 | **Secondary prophylaxis after first OHE** | Lactulose titrated to 2–3 soft bowel movements daily as outpatient first-line therapy for prevention of HE recurrence (ACG 2026 Rec 10) | Strong; **high** certainty |
 | | Lactulose for prevention of recurrent episodes of HE after the initial episode (2014 Rec 25) | GRADE II-1, A, 1 |
 | **Minimal / covert HE** | Treatment with lactulose vs no treatment (ACG 2026 Rec 3) | Conditional; low certainty |
-| **MHE/CHE treated to prevent OHE** | Insufficient evidence to recommend for or against routine treatment (ACG 2026 Rec 4) | Insufficient evidence — **no recommendation** |
-| **HE in [[acute-on-chronic-liver-failure\|ACLF]] / critical illness** | Lactulose orally or rectally, or polyethylene glycol if at risk of ileus/abdominal distention (AASLD 2024 GS 8) | Guidance statement |
-| **Acute variceal bleeding** | Lactulose orally or by enemas to prevent **or** treat overt HE by accelerating blood elimination from the GI tract (Baveno VIII 5.22) | LoE 2; SoR strong; 91% agreement |
-| **Chronic idiopathic constipation** | In adults with CIC who **fail or are intolerant to OTC therapies**, suggest lactulose over management without lactulose (AGA/ACG 2023 Rec 4) | Conditional; very low certainty |
+| **Minimal HE (MHE)/covert HE (CHE) treated to prevent OHE** | Insufficient evidence to recommend for or against routine treatment (ACG 2026 Rec 4) | Insufficient evidence — **no recommendation** |
+| **HE in [[acute-on-chronic-liver-failure\|acute-on-chronic liver failure (ACLF)]] / critical illness** | Lactulose orally or rectally, or polyethylene glycol (PEG) if at risk of ileus/abdominal distention (American Association for the Study of Liver Diseases [AASLD] 2024 Guidance Statement [GS] 8) | Guidance statement |
+| **Acute variceal bleeding** | Lactulose orally or by enemas to prevent **or** treat overt HE by accelerating blood elimination from the gastrointestinal (GI) tract (Baveno VIII 5.22) | Level of evidence (LoE) 2; strength of recommendation (SoR) strong; 91% agreement |
+| **Chronic idiopathic constipation (CIC)** | In adults with CIC who **fail or are intolerant to over-the-counter (OTC) therapies**, suggest lactulose over management without lactulose (American Gastroenterological Association [AGA]/ACG 2023 Rec 4) | Conditional; very low certainty |
 | **Primary prophylaxis of OHE** | **Not required**, except in cirrhosis with a known high risk to develop HE (2014 Rec 12) | GRADE II-3, C, 2 |
-| **Post-[[tips\|TIPS]] prophylaxis** | Routine prophylactic therapy (lactulose or rifaximin) is **not** recommended to prevent post-TIPS HE (2014 Rec 27) | GRADE III, B, 1 |
+| **Post-[[tips\|transjugular intrahepatic portosystemic shunt (TIPS)]] prophylaxis** | Routine prophylactic therapy (lactulose or rifaximin) is **not** recommended to prevent post-TIPS HE (2014 Rec 27) | GRADE III, B, 1 |
 
 - The MHE/CHE position moved: the 2014 guideline held that treatment of MHE and CHE is not routinely recommended apart from case-by-case (Rec 29, GRADE II-2, B, 1); ACG 2026 now suggests treating. Follow ACG 2026.
 - ACG 2026 makes a peri-TIPS recommendation for [[rifaximin]] only (start 14 days before elective TIPS, continue ≥6 months) — it makes no equivalent recommendation for lactulose.
@@ -72,7 +72,7 @@ Nonabsorbable disaccharide. Mechanism is described as controversial ([[acg-2026-
 | **Nasogastric tube** (grade 3–4, unable to swallow, or aspiration risk) | Same dosing as oral | Same |
 | **Enema** (grade 3–4 with preserved anal sphincter tone) | See below | Improvement in mental status |
 
-*[[aasld-easl-2014-hepatic-encephalopathy]] gives a different induction schedule — **25 mL of syrup every 1–2 h** until at least two soft or loose bowel movements, then titrate down to 2–3 BMs/day. The maintenance endpoint is the same in both guidelines; use the ACG 2026 induction dose.*
+*[[aasld-easl-2014-hepatic-encephalopathy]] gives a different induction schedule — **25 mL of syrup every 1–2 h** until at least two soft or loose bowel movements (BMs), then titrate down to 2–3 BMs/day. The maintenance endpoint is the same in both guidelines; use the ACG 2026 induction dose.*
 
 ### Lactulose enema
 
@@ -97,7 +97,7 @@ Nonabsorbable disaccharide. Mechanism is described as controversial ([[acg-2026-
 
 ## Titration Endpoint and Monitoring
 
-- **The endpoint is 2–3 bowel movements per day** — in acute treatment, in secondary prophylaxis, and in the ICU.
+- **The endpoint is 2–3 bowel movements per day** — in acute treatment, in secondary prophylaxis, and in the intensive care unit (ICU).
 - Target stool consistency **Bristol 3–4**; explicitly **avoid diarrhea and hypernatremia** (ACG 2026 inpatient flowchart).
 - **Bristol ≥5 (>3 loose BMs) on lactulose** → cut lactulose back, or consider [[rifaximin]] monotherapy ± low-dose lactulose.
 - **Bristol ≥5 *before* lactulose is started** → consider an alternative, non-laxative therapy rather than initiating lactulose, to protect adherence.
@@ -129,7 +129,7 @@ Nonabsorbable disaccharide. Mechanism is described as controversial ([[acg-2026-
 | Dehydration / diarrhea-associated hypovolemia | Named precipitant of HE recurrence |
 | **Hypernatremia** | Monitor actively, especially in the ICU |
 | **Hypokalemia** | Also reported with significant diarrhea in the constipation literature |
-| Aspiration | Risk is the reason for NG or enema routes in grade 3–4 HE |
+| Aspiration | Risk is the reason for nasogastric (NG) or enema routes in grade 3–4 HE |
 | Perianal skin irritation / infection | 2014 guideline describes it as severe with overuse |
 | Ileus, gas distension, abdominal discomfort | Trigger to switch to PEG |
 
@@ -137,11 +137,11 @@ Nonabsorbable disaccharide. Mechanism is described as controversial ([[acg-2026-
 
 ## Combination with Rifaximin
 
-- **Acute OHE:** suggest **adding [[rifaximin]] to lactulose** vs lactulose alone (ACG 2026 Rec 9, *conditional, low certainty*). An RCT of the combination showed a higher rate of complete HE reversal, reduced hospital stay, and reduced mortality.
+- **Acute OHE:** suggest **adding [[rifaximin]] to lactulose** vs lactulose alone (ACG 2026 Rec 9, *conditional, low certainty*). A randomized controlled trial (RCT) of the combination showed a higher rate of complete HE reversal, reduced hospital stay, and reduced mortality.
 - **Recurrent episodes despite lactulose maintenance:** **add rifaximin** (ACG 2026 Rec 13, *strong, high certainty*). The 2014 guideline placed this add-on after the **second** episode (Rec 26, GRADE I, A, 1).
 - Rifaximin is an effective **add-on** to lactulose for prevention of OHE recurrence (2014 Rec 20, GRADE I, A, 1). The pivotal maintenance trial ran on a background of **91% lactulose use**; **no solid data support rifaximin alone**.
 - **ACLF/ICU:** the role of rifaximin as an add-on to lactulose or PEG warrants further investigation (AASLD 2024 GS 8); its value in the ICU is limited, especially in patients already on broad-spectrum antibiotics.
-- **BCAAs added to standard of care (lactulose + rifaximin)** in cirrhosis with HE — recommended, *strong / moderate* ([[acg-2025-liver-nutrition]]); see [[nutrition-in-liver-disease]].
+- **Branched-chain amino acids (BCAAs) added to standard of care (lactulose + rifaximin)** in cirrhosis with HE — recommended, *strong / moderate* ([[acg-2025-liver-nutrition]]); see [[nutrition-in-liver-disease]].
 
 ---
 
@@ -151,7 +151,7 @@ Nonabsorbable disaccharide. Mechanism is described as controversial ([[acg-2026-
 - **PEG in ACLF/critical illness** when the patient is at risk of ileus or abdominal distention (AASLD 2024 GS 8).
 - **Lactitol** is preferred to lactulose in some centres on the basis of small meta-analyses, and acidifying agents outperform tap-water enemas.
 - Simple laxatives alone lack the prebiotic properties of the disaccharides.
-- Other second-line agents for HE (zinc, BCAAs, LOLA, l-carnitine, neomycin, metronidazole) are tabulated on [[hepatic-encephalopathy]].
+- Other second-line agents for HE (zinc, BCAAs, L-ornithine L-aspartate (LOLA), l-carnitine, neomycin, metronidazole) are tabulated on [[hepatic-encephalopathy]].
 
 ---
 
@@ -168,9 +168,9 @@ Nonabsorbable disaccharide. Mechanism is described as controversial ([[acg-2026-
 
 | Situation | Guidance |
 |---|---|
-| **[[acute-liver-failure\|Acute liver failure]]** | In early stages of encephalopathy, lactulose may be used orally or rectally to effect a bowel purge, but **should not be administered to the point of diarrhea**, and may interfere with the surgical field by increasing bowel distention during liver transplantation (AASLD 2011 Rec 26, level III). [[acg-2023-alf]] finds **no conclusive evidence for or against** lactulose or rifaximin in ALF — use is extrapolated from cirrhosis |
+| **[[acute-liver-failure\|Acute liver failure (ALF)]]** | In early stages of encephalopathy, lactulose may be used orally or rectally to effect a bowel purge, but **should not be administered to the point of diarrhea**, and may interfere with the surgical field by increasing bowel distention during liver transplantation (AASLD 2011 Rec 26, level III). [[acg-2023-alf]] finds **no conclusive evidence for or against** lactulose or rifaximin in ALF — use is extrapolated from cirrhosis |
 | **[[variceal-upper-gi-bleeding\|Acute variceal bleeding]]** | Oral or enema lactulose to prevent or treat overt HE by accelerating removal of blood from the gut (Baveno VIII 5.22) |
-| **Perioperative [[cirrhosis]]** | Avoiding constipation is a priority to minimize postoperative HE flares; daily PEG may be used for regularity. Absent comparative trials, **rifaximin may be preferable to lactulose before primary bowel surgery** because it causes **less bowel distension** ([[aga-2018-surgical-risk-perioperative-cirrhosis]] BPA 10) |
+| **Perioperative [[cirrhosis]]** | Avoiding constipation is a priority to minimize postoperative HE flares; daily PEG may be used for regularity. Absent comparative trials, **rifaximin may be preferable to lactulose before primary bowel surgery** because it causes **less bowel distension** ([[aga-2018-surgical-risk-perioperative-cirrhosis]] Best Practice Advice [BPA] 10) |
 | **Pregnancy** | Lactulose is among the listed treatment options for constipation in pregnancy, with osmotic laxatives (PEG, lactulose) described as safe ([[aga-2024-pregnancy-gi-liver]] BPA 5); [[aga-acg-2023-constipation]] calls it the only osmotic agent studied in pregnancy. See [[liver-disease-in-pregnancy]] |
 | **Post-TIPS** | Lactulose/lactitol prophylaxis did not prevent post-TIPS HE; treat established post-TIPS HE as any other HE — see [[tips]] |
 
@@ -179,8 +179,8 @@ Nonabsorbable disaccharide. Mechanism is described as controversial ([[acg-2026-
 ## Diagnostic Use — Breath Testing Substrate
 
 - **10 g lactulose** with ~250 mL water is the standardized lactulose dose for hydrogen/methane breath testing ([[acg-2020-sibo]]); glucose 75 g is the alternative substrate.
-- Performance for [[small-intestinal-bacterial-overgrowth|SIBO]]: **sensitivity 31–68%, specificity 44–100%**, with a high false-positive rate from accelerated colonic fermentation — lactulose over-calls relative to glucose or culture.
-- Also the substrate option for diagnosing [[intestinal-methanogen-overgrowth|IMO]] in symptomatic patients with constipation. Protocol and thresholds live on [[small-intestinal-bacterial-overgrowth]].
+- Performance for [[small-intestinal-bacterial-overgrowth|small intestinal bacterial overgrowth (SIBO)]]: **sensitivity 31–68%, specificity 44–100%**, with a high false-positive rate from accelerated colonic fermentation — lactulose over-calls relative to glucose or culture.
+- Also the substrate option for diagnosing [[intestinal-methanogen-overgrowth|intestinal methanogen overgrowth (IMO)]] in symptomatic patients with constipation. Protocol and thresholds live on [[small-intestinal-bacterial-overgrowth]].
 
 ---
 

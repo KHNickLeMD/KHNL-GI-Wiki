@@ -25,11 +25,11 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 
 ## Overview
 
-- Enteral tubes deliver nutrition/medications OR provide **GI decompression** (malignant obstruction, impaired motility).
+- Enteral tubes deliver nutrition/medications OR provide **gastrointestinal (GI) decompression** (malignant obstruction, impaired motility).
 - >255,000 US patients/yr require enteral nutrition support during hospitalization.
 - Access types:
-  - **Oral/nasal flexible tubes** — OG, NG, NJ.
-  - **Percutaneous tubes** — surgical, radiologic, or endoscopic (PEG, PEGJ, DPEJ).
+  - **Oral/nasal flexible tubes** — orogastric (OG), nasogastric (NG), nasojejunal (NJ).
+  - **Percutaneous tubes** — surgical, radiologic, or endoscopic (percutaneous endoscopic gastrostomy [PEG], PEG with jejunal extension [PEGJ], direct percutaneous endoscopic jejunostomy [DPEJ]).
 - Endoscopically placed tubes: favorable safety profile vs surgical or radiologic placement.
 - **PEG is the preferred initial gastrostomy technique over interventional-radiology gastrostomy (IR-G)** in patients with **normal foregut anatomy** needing enteral access (Rec 1, [[asge-2025-gastrostomy-tubes]]).
 - Multidisciplinary team advised: speech pathology, dietitians, nutrition nurses, gastroenterologists, co-managing physicians, palliative care when appropriate.
@@ -48,7 +48,7 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 | Upper GI obstruction / motility disorder | Head & neck cancer; head/maxillofacial/mandibular/dental/neck trauma; radiation stomatitis; [[esophageal-cancer\|esophageal cancer]]; esophageal stricture; esophageal dysmotility; chronic intestinal pseudo-obstruction; [[gastroparesis]]; superior mesenteric artery syndrome |
 | Altered intestinal anatomy | [[bariatric-surgery\|Bariatric]] or foregut surgery with impaired intake |
 | Psychiatric | Anorexia nervosa |
-| Increased metabolic requirements | Critical illness, cancer, burn/trauma, cystic fibrosis / chronic lung disease, [[inflammatory-bowel-disease\|IBD]], [[nutrition-in-liver-disease\|liver disease]], [[acute-pancreatitis\|pancreatitis]], renal disease |
+| Increased metabolic requirements | Critical illness, cancer, burn/trauma, cystic fibrosis / chronic lung disease, [[inflammatory-bowel-disease\|inflammatory bowel disease (IBD)]], [[nutrition-in-liver-disease\|liver disease]], [[acute-pancreatitis\|pancreatitis]], renal disease |
 | Increased intestinal losses | [[short-bowel-syndrome\|Short bowel syndrome]] |
 
 **Severe dementia — special caution:**
@@ -80,7 +80,7 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 
 ### Small-Bowel Access Options
 
-- NJ tube; jejunal extension through a PEG (**PEGJ**); unitized transgastric jejunostomy tube; **DPEJ** (direct percutaneous endoscopic jejunostomy).
+- NJ tube; jejunal extension through a PEG (**PEGJ**); unitized transgastric jejunostomy tube; **DPEJ**.
 - **DPEJ > PEGJ** for tube patency and fewer reinterventions (jejunal extensions only **9F–12F**, small caliber).
 - BUT DPEJ placement more complex, and **peristomal leakage increased with DPEJ** (larger-caliber tubes, bumpers in the small bowel).
 
@@ -94,7 +94,7 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 | Expected duration **≥4 weeks** | Percutaneous (PEG / PEGJ / DPEJ) |
 | Intact gastric emptying, no aspiration concern | **Gastric** (NG or PEG) |
 | Aspiration refractory to prokinetics/rate/agent changes | Small-bowel (NJ / PEGJ / DPEJ) |
-| Altered anatomy (RYGB, sleeve, gastrectomy) | Small-bowel (required) |
+| Altered anatomy (Roux-en-Y gastric bypass [RYGB], sleeve, gastrectomy) | Small-bowel (required) |
 | Gastric outlet obstruction | Small-bowel (required) |
 | Severely delayed gastric emptying | Small-bowel (required) |
 | Long-term small-bowel, minimize reintervention | **DPEJ** (better patency; but harder, more leak) |
@@ -112,7 +112,7 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 
 **Special situations:**
 - **[[ascites]]:** impairs wound healing and gastric–abdominal wall apposition → **drain via paracentesis or intraperitoneal drain**; use T-tacks to improve tract formation.
-- **VP shunt:** place gastrostomy **concurrently with or before** VP shunt, rather than within **15 days after** shunt placement; consider longer perioperative antibiotics with an existing shunt.
+- **Ventriculoperitoneal (VP) shunt:** place gastrostomy **concurrently with or before** VP shunt, rather than within **15 days after** shunt placement; consider longer perioperative antibiotics with an existing shunt.
 - **Peritoneal dialysis:** converting to (or maintaining) **hemodialysis for 6 weeks** reduces — but does not eliminate — peritonitis risk.
 
 ## Preprocedural Considerations
@@ -125,10 +125,10 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 - **[[anticoagulation-gi-bleeding|Antithrombotics]]:**
   - **Antiplatelets — do NOT routinely withhold** before PEG (Rec 2a, [[asge-2025-gastrostomy-tubes]]); increasing data support PEG placement **without interruption of dual-antiplatelet therapy** (no significant increase in bleeding).
   - **Anticoagulants — individualize** periprocedural management, balancing thrombotic against bleeding risk; they are handled differently from antiplatelets (Rec 2b, [[asge-2025-gastrostomy-tubes]]).
-  - If antithrombotics held, resume ASAP considering indication, in consultation with initiating service.
-- **Laboratory thresholds:** platelets **>50,000/mL**; INR **<1.5** — [[preprocedure-testing|preprocedural workup]] is full blood count + coagulation testing ([[aga-2025-endoscopic-enteral-access]]). *(`/mL` is the unit as printed in the source; reproduced verbatim rather than silently converted.)*
+  - If antithrombotics held, resume as soon as possible considering indication, in consultation with initiating service.
+- **Laboratory thresholds:** platelets **>50,000/mL**; international normalized ratio (INR) **<1.5** — [[preprocedure-testing|preprocedural workup]] is full blood count + coagulation testing ([[aga-2025-endoscopic-enteral-access]]). *(`/mL` is the unit as printed in the source; reproduced verbatim rather than silently converted.)*
   - **Unfractionated heparin:** hold for percutaneous placement; can give **2–6 h after** procedure.
-  - **DOACs:** hold for placement; resume with the **evening dose** after placement.
+  - **Direct oral anticoagulants (DOACs):** hold for placement; resume with the **evening dose** after placement.
 
 ## Technique
 
@@ -166,7 +166,7 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 
 - **NG/NJ:** use immediately after confirmation (usually abdominal radiography).
 - **PEG: medications immediately; tube feeds after 4 hours** ([[aga-2025-endoscopic-enteral-access]]).
-  - ⚠ **Two 2025 tier-1 sources word this differently and are not reconciled:** [[aga-2025-endoscopic-enteral-access|AGA 2025]] says feeds **after** 4 hours; [[asge-2025-gastrostomy-tubes|ASGE 2025]] states tube feeding can be **safely started within 4 hours** of gastrostomy. Both permit feeding on the day of placement; ASGE is the more permissive of the two.
+  - ⚠ **Two 2025 tier-1 sources word this differently and are not reconciled:** [[aga-2025-endoscopic-enteral-access|American Gastroenterological Association (AGA) 2025]] says feeds **after** 4 hours; [[asge-2025-gastrostomy-tubes|American Society for Gastrointestinal Endoscopy (ASGE) 2025]] states tube feeding can be **safely started within 4 hours** of gastrostomy. Both permit feeding on the day of placement; ASGE is the more permissive of the two.
 - **External bumper:** tightening it for **~24 h** after placement is reasonable (Rec 3, [[asge-2025-gastrostomy-tubes]]) — then restore the **1-cm** skin-to-bumper breadth to avoid a buried bumper (see [[#Complications]]).
 - Multidisciplinary follow-up (dietitians for formula/volume/free water/delivery; nursing/APCs for site assessment).
 - **Bridling** transnasal tubes reduces dislodgement, allows greater caloric intake.

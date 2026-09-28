@@ -14,17 +14,17 @@ sources: []
 - **Year:** 2020
 - **Journal/Publisher:** *Gastroenterology* 2020;159(3):1120–1128
 - **DOI:** [10.1053/j.gastro.2020.05.095](https://doi.org/10.1053/j.gastro.2020.05.095)
-- **Type:** guideline (AGA Institute Clinical Practice Update — Expert Review)
+- **Type:** guideline (American Gastroenterological Association [AGA] Institute Clinical Practice Update — Expert Review)
 
-**Methodology note.** Commissioned and approved by the AGA Institute Clinical Practice Updates Committee and the AGA Governing Board; internal peer review by the CPU Committee plus external peer review through *Gastroenterology*. Framed around **10 Best Practice Advice statements**. As an Expert Review, the BPA statements are **ungraded by design** — there is no GRADE strength or evidence-quality rating attached to any statement.
+**Methodology note.** Commissioned and approved by the AGA Institute Clinical Practice Updates (CPU) Committee and the AGA Governing Board; internal peer review by the CPU Committee plus external peer review through *Gastroenterology*. Framed around **10 Best Practice Advice (BPA) statements**. As an Expert Review, the BPA statements are **ungraded by design** — there is no Grading of Recommendations Assessment, Development and Evaluation (GRADE) strength or evidence-quality rating attached to any statement.
 
 ---
 
 ## Summary
 
-Tier-1 AGA Clinical Practice Update covering the endoscopic treatment of **non-variceal upper GI bleeding (NVUGIB)** — incidence ~61–78 per 100,000 persons in the US (2009–2012), mortality 2–10%. It is a device-and-technique document: where [[acg-2021-ugib|ACG 2021]] answers *which* modality by GRADE-rated comparison, this CPU answers *how to actually use* each one, with generator settings, catheter sizes, deployment distances, and the failure modes of each device.
+Tier-1 AGA Clinical Practice Update covering the endoscopic treatment of **non-variceal upper gastrointestinal (GI) bleeding (NVUGIB)** — incidence ~61–78 per 100,000 persons in the US (2009–2012), mortality 2–10%. It is a device-and-technique document: where [[acg-2021-ugib|American College of Gastroenterology (ACG) 2021]] answers *which* modality by GRADE-rated comparison, this CPU answers *how to actually use* each one, with generator settings, catheter sizes, deployment distances, and the failure modes of each device.
 
-The update covers the full arc: pre-endoscopic triage and resuscitation (including the three risk scores in Table 1), timing tiers for endoscopy, technique for conventional thermal therapy and hemoclips, then the three newer and more expensive tools — **monopolar hemostatic forceps (MHF)**, **over-the-scope clips (OTSC)**, and **sprayed hemostatic powder (TC-325 / Hemospray)** — each with its specific niche and its specific way of failing. It closes with hemostasis in advanced-endoscopy settings (EMR, ESD, sphincterotomy) and the transcatheter arterial embolization (TAE)-versus-surgery decision in refractory bleeding.
+The update covers the full arc: pre-endoscopic triage and resuscitation (including the three risk scores in Table 1), timing tiers for endoscopy, technique for conventional thermal therapy and hemoclips, then the three newer and more expensive tools — **monopolar hemostatic forceps (MHF)**, **over-the-scope clips (OTSC)**, and **sprayed hemostatic powder (TC-325 / Hemospray)** — each with its specific niche and its specific way of failing. It closes with hemostasis in advanced-endoscopy settings (endoscopic mucosal resection [EMR], endoscopic submucosal dissection [ESD], sphincterotomy) and the transcatheter arterial embolization (TAE)-versus-surgery decision in refractory bleeding.
 
 Two contributions make this source disproportionately useful. First, **Table 1 prints the components and point values of the Glasgow-Blatchford, Rockall and AIMS-65 scores side by side** — the Rockall and AIMS-65 components used on [[upper-gi-bleeding]] come from here. Second, it supplies the **operative electrosurgical and device parameters** (heater probe joules per pulse and total, bipolar wattage, contact duration, soft-coagulation settings, powder spray distance and burst length) that a proceduralist needs and that a modality-selection guideline does not print.
 
@@ -60,8 +60,8 @@ Two contributions make this source disproportionately useful. First, **Table 1 p
 
 | Scoring system | Components | No. of points | Key concepts |
 |---|---|---|---|
-| **Glasgow-Blatchford** | Systolic BP | 1, 2, 3 | Score ranges **0–23**; calculated on admission |
-| | BUN | 2, 3, 4, 6 | Patients with a score of **0 or 1 can be managed as an outpatient** |
+| **Glasgow-Blatchford** | Systolic blood pressure (BP) | 1, 2, 3 | Score ranges **0–23**; calculated on admission |
+| | Blood urea nitrogen (BUN) | 2, 3, 4, 6 | Patients with a score of **0 or 1 can be managed as an outpatient** |
 | | Hemoglobin | 1, 3, 6 (men); 1, 6 (women) | Superior in predicting a combined end point of intervention and death |
 | | Tachycardia | 1 | Potentially leads to overadmission (ie, has low sensitivity) |
 | | Melena | 1 | |
@@ -74,7 +74,7 @@ Two contributions make this source disproportionately useful. First, **Table 1 p
 | | Endoscopic diagnosis | 0, 2 | |
 | | Stigmata of recent hemorrhage and/or presence of blood on endoscopy | 0, 2 | |
 | **AIMS-65** | **A**lbumin <3 mg/dL | 0, 1 | Easy to calculate; **can be calculated pre-endoscopy** |
-| | **I**NR >1.5 | 0, 1 | Less sensitive than Glasgow-Blatchford and Rockall |
+| | **I**NR (international normalized ratio) >1.5 | 0, 1 | Less sensitive than Glasgow-Blatchford and Rockall |
 | | Altered **M**ental status | 0, 1 | **% inpatient mortality by score:** 0 → 0.3%, 1 → 3.2%, 2 → 5.3%, 3 → 10.3%, 4 → 16.5%, 5 → 24.5% |
 | | **S**ystolic BP <100 mm Hg | 0, 1 | |
 | | Age >**65** years | 0, 1 | |
@@ -86,11 +86,11 @@ Two contributions make this source disproportionately useful. First, **Table 1 p
 ### Initial management, before the scope
 
 - **Transfusion target:** generally **9 g/dL in patients with significant cardiovascular disease** and **7 g/dL for all others**. A cited international consensus recommended transfusion for **Hgb <8 g/dL** with a higher threshold in cardiovascular disease.
-- **IV PPI to all patients with suspected NVUGIB** — downgrades stigmata of recent hemorrhage at subsequent endoscopy — **but must not delay endoscopic intervention**. **High-dose IV PPI continued post-endoscopy**, which is associated with decreased rebleeding risk.
+- **Intravenous (IV) proton pump inhibitor (PPI) to all patients with suspected NVUGIB** — downgrades stigmata of recent hemorrhage at subsequent endoscopy — **but must not delay endoscopic intervention**. **High-dose IV PPI continued post-endoscopy**, which is associated with decreased rebleeding risk.
 - **Prokinetic before endoscopy:** a single IV dose of **erythromycin or metoclopramide** in selected patients, to empty clot and improve visualization (especially the gastric fundus). Associated with reduced need for repeat endoscopy; **published data favor erythromycin**. Both used **cautiously in prolonged QT**.
 - **Octreotide is not recommended in NVUGIB**, but a low threshold for use if there is concern for underlying [[portal-hypertension|portal hypertension]].
 - **Prophylactic antibiotics are not indicated in NVUGIB.**
-- **Antithrombotic reversal:** decide with intensivists/cardiology/neurology/hematology. Explicit stance — *"When there is doubt, it is usually better to err on the side of not reversing AT medication because a cardiopulmonary or neurologic thromboembolic event is usually far more devastating than ongoing NVUGIB."*
+- **Antithrombotic reversal:** decide with intensivists/cardiology/neurology/hematology. Explicit stance — *"When there is doubt, it is usually better to err on the side of not reversing AT [antithrombotic] medication because a cardiopulmonary or neurologic thromboembolic event is usually far more devastating than ongoing NVUGIB."*
 - **Nasogastric tube:** controversial, does not affect clinical outcomes. Lavage can clear blood and a return of continuous copious bright red blood suggests emergent endoscopy — but a **negative lavage should not delay endoscopy**.
 - **Airway:** endotracheal intubation for suspected ongoing/massive NVUGIB, active hematemesis, or suspected retained gastric contents, to reduce aspiration risk.
 
@@ -103,8 +103,8 @@ Two contributions make this source disproportionately useful. First, **Table 1 p
 | **Elective** | may wait **>24 hours** | Hemodynamically stable, no ongoing hematemesis, melena only — can generally be deferred to the following morning |
 
 - **Caveat on emergent endoscopy:** patients undergoing emergent endoscopy **may have worse outcomes**, possibly from inadequate resuscitation.
-- Cites the RCT in which patients with **GBS ≥12** randomized to urgent (<6 h) vs early (next morning, within 24 h) endoscopy showed **no 30-day mortality difference**.
-- **GBS 0–1** may be discharged from the ED for timely outpatient management.
+- Cites the randomized controlled trial (RCT) in which patients with **Glasgow-Blatchford score (GBS) ≥12** randomized to urgent (<6 h) vs early (next morning, within 24 h) endoscopy showed **no 30-day mortality difference**.
+- **GBS 0–1** may be discharged from the emergency department (ED) for timely outpatient management.
 
 ### Conventional therapy — the operative parameters
 
@@ -128,7 +128,7 @@ Two contributions make this source disproportionately useful. First, **Table 1 p
 - **RCT (n=112), Forrest Ia/Ib/IIa gastric or duodenal ulcers:** initial hemostasis **98% with MHF soft coagulation vs 80% with hemoclips (P = .004)**.
 - **Advantages:** ease and flexibility of targeting; smaller forceps reach difficult locations and rigid fibrotic bases; current is controlled by the endoscopist rather than fixed-duration, making retreatment more controlled with less tissue injury.
 - **Fails when:** a large blood clot dissipates the coagulation effect; a large area needs treatment (repeated applications required).
-- **Cheaper substitutes are unstudied:** snare-tip soft coagulation, APC conducted through already-placed clips, and closed hot biopsy forceps "have not been formally studied" — to be used only by endoscopists very familiar with them. Switching to **forced coagulation** mode can overcome liquid/blood pools but risks treating a larger area with less control of depth. Monitor the coagulum for deep tissue injury, perforation, or delayed bleeding.
+- **Cheaper substitutes are unstudied:** snare-tip soft coagulation, argon plasma coagulation (APC) conducted through already-placed clips, and closed hot biopsy forceps "have not been formally studied" — to be used only by endoscopists very familiar with them. Switching to **forced coagulation** mode can overcome liquid/blood pools but risks treating a larger area with less control of depth. Monitor the coagulum for deep tissue injury, perforation, or delayed bleeding.
 
 ### Over-the-scope clips (OTSC)
 
@@ -157,7 +157,7 @@ Two contributions make this source disproportionately useful. First, **Table 1 p
 
 - Higher-risk interventions: **EMR, ESD, endoscopic sphincterotomy**. Bleeding may be immediate/intraprocedural or delayed/postprocedural.
 - **During EMR or ESD:** thermal therapy — **particularly hemostatic forceps — may be preferable to hemoclips, because clips may interfere with completing the resection.**
-- **Post-sphincterotomy bleeding:** biliary stents may tamponade the site; clips and thermal therapy can be used, but clip placement through a duodenoscope is difficult and thermal therapy or errant clips risk pancreatitis. **When clips or thermal coagulation are used for post-sphincterotomy bleeding, keep a low threshold for placing a prophylactic pancreatic duct stent.** Be prepared to perform ERCP for all delayed post-sphincterotomy bleeds — biliary and/or pancreatic stenting may be required.
+- **Post-sphincterotomy bleeding:** biliary stents may tamponade the site; clips and thermal therapy can be used, but clip placement through a duodenoscope is difficult and thermal therapy or errant clips risk pancreatitis. **When clips or thermal coagulation are used for post-sphincterotomy bleeding, keep a low threshold for placing a prophylactic pancreatic duct stent.** Be prepared to perform endoscopic retrograde cholangiopancreatography (ERCP) for all delayed post-sphincterotomy bleeds — biliary and/or pancreatic stenting may be required.
 - **Prophylaxis of postprocedural bleeding:** clip closure of **right-sided colonic EMR** sites may reduce post-polypectomy bleeding, but **there is no similar high-level evidence for upper GI interventions.** For upper GI EMR/ESD sites, options are MHF to visible vessels, clip closure, or endosuturing — no comparative trials; consider closing sites, when amenable, in patients needing immediate resumption of antithrombotics. **No data at all** on post-sphincterotomy bleeding prophylaxis; a fully covered metallic biliary stent may be used in patients needing immediate antithrombotic resumption.
 
 ### Recurrent and refractory bleeding
@@ -170,7 +170,7 @@ Two contributions make this source disproportionately useful. First, **Table 1 p
 
 ### Figures in this source (not yet captured)
 
-- **Figure 1** — "Approach to the initial management, clinical triage, and endoscopic decision making in treating patients with acute NVUGIB" (labels: ETT, GBS, IV, PPI).
+- **Figure 1** — "Approach to the initial management, clinical triage, and endoscopic decision making in treating patients with acute NVUGIB" (labels: endotracheal tube [ETT], GBS, IV, PPI).
 - **Figure 2** — "Flow diagram incorporating hemostatic powder therapy as an option for the management of acute NVUGIB."
 
 Both are decision algorithms and therefore fall under the Style Guide's figure-capture rule. **Not captured — figure-extraction tooling is unavailable in this environment** (see the standing block noted on [[upper-gi-bleeding]]). Their decision content has been transcribed into text on [[endoscopic-hemostasis]] and [[upper-gi-bleeding]] so no clinical content is lost; capture the images when tooling is available.

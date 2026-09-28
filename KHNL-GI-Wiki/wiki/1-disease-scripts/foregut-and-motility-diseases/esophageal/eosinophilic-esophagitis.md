@@ -7,7 +7,7 @@ updated: 2026-09-05
 sources: [acg-2025-eoe, aga-2020-eoe, acg-2013-eoe, aga-2024-esophageal-immunity-infection, asge-2011-foreign-body-ingestion]
 ---
 
-Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal symptoms + eosinophilic inflammation confined to the esophagus. Food antigen-driven in most; part of the atopic march.
+Eosinophilic esophagitis (EoE): chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal symptoms + eosinophilic inflammation confined to the esophagus. Food antigen-driven in most; part of the atopic march.
 
 ## Contents
 - [[#Assessment]]
@@ -39,10 +39,10 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 **Diagnostic criteria (all 3 required):**
 
 1. Symptoms of esophageal dysfunction
-2. **≥15 eos/hpf** in at least 1 hpf on esophageal biopsy
+2. **≥15 eosinophils per high-power field (eos/hpf)** in at least 1 hpf on esophageal biopsy
 3. Exclusion of other causes of esophageal eosinophilia
 
-- **The hpf threshold is the operative one; the density equivalent is not yet the standard.** Counts vary with microscope high-power-field size, so reporting **eosinophil density** would compare better across labs — in which case the threshold is **~60 eos/mm²** — but [[acg-2025-eoe|ACG 2025]] states this change "has not currently been made in practice." Diagnose on **15 eos/hpf**; treat 60 eos/mm² as the equivalent, not a second criterion.
+- **The hpf threshold is the operative one; the density equivalent is not yet the standard.** Counts vary with microscope high-power-field size, so reporting **eosinophil density** would compare better across labs — in which case the threshold is **~60 eos/mm²** — but [[acg-2025-eoe|American College of Gastroenterology (ACG) 2025]] states this change "has not currently been made in practice." Diagnose on **15 eos/hpf**; treat 60 eos/mm² as the equivalent, not a second criterion.
 
 **Typical symptoms by age:**
 
@@ -63,7 +63,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 | **C** | Chew excessively | Chewing to a mush-like consistency before swallowing |
 | **T** | Turn away tablets/pills | Pill dysphagia — often the only sign of swallowing dysfunction |
 
-**Endoscopic findings (EREFS scoring, 0–9 scale):**
+**Endoscopic findings (EoE Endoscopic Reference Score [EREFS], 0–9 scale):**
 
 - **E**dema (decreased vascular markings, mucosal pallor)
 - **R**ings (trachealization/corrugation)
@@ -85,9 +85,9 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 
 *The I-SEE components and point values are not reproduced in [[acg-2025-eoe]]; see the original index paper (Dellon ES, Khoury P, Muir AB, et al. A clinical severity index for EoE, 2022) to score.*
 
-**Fibrostenotic phenotype:** rings + strictures; transmural inflammation + fibrosis; requires dilation in addition to medical therapy. Endoscopy badly underestimates stricture severity — esophagram (and [[flip-panometry|EndoFLIP]]) are more accurate; the sensitivity data are under Adjunct: Esophageal Dilation.
+**Fibrostenotic phenotype:** rings + strictures; transmural inflammation + fibrosis; requires dilation in addition to medical therapy. Endoscopy badly underestimates stricture severity — esophagram (and [[flip-panometry|functional lumen imaging probe (EndoFLIP)]]) are more accurate; the sensitivity data are under Adjunct: Esophageal Dilation.
 
-**Persistent symptoms despite histologic + endoscopic remission** → evaluate for a subtle **stricture** (esophagram) or an esophageal **motility disorder**; some patients with EoE develop dysmotility, and EoE carries an increased risk of [[achalasia]]. Consider further motility evaluation. ([[aga-2024-esophageal-immunity-infection|AGA 2024]])
+**Persistent symptoms despite histologic + endoscopic remission** → evaluate for a subtle **stricture** (esophagram) or an esophageal **motility disorder**; some patients with EoE develop dysmotility, and EoE carries an increased risk of [[achalasia]]. Consider further motility evaluation. ([[aga-2024-esophageal-immunity-infection|American Gastroenterological Association (AGA) 2024]])
 
 ### Classification / Typing
 
@@ -103,15 +103,15 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 
 | Condition | Distinguishing features |
 |---|---|
-| [[gerd\|GERD]] | No eosinophils on biopsy or responds to [[proton-pump-inhibitors\|PPI]] (but PPI response ≠ exclude EoE) |
+| [[gerd\|gastroesophageal reflux disease (GERD)]] | No eosinophils on biopsy or responds to [[proton-pump-inhibitors\|proton pump inhibitor (PPI)]] (but PPI response ≠ exclude EoE) |
 | Proton pump inhibitor-responsive esophageal eosinophilia (PPIREE) | Now considered subset of EoE, not separate entity |
 | [[achalasia\|Achalasia]] / motility disorders | [[high-resolution-manometry\|Manometry]] abnormal; esophageal body aperistalsis |
 | Eosinophilic gastroenteritis | Eosinophilia extends beyond esophagus |
 | Hypereosinophilic syndrome | Peripheral eosinophilia >1500 with multi-organ involvement |
 | Pill esophagitis | History of medication, focal injury |
-| [[infectious-esophagitis\|Infectious esophagitis]] (Candida, HSV) | Immunocompromise, systemic symptoms; biopsy shows organisms |
-| [[celiac-disease\|Celiac disease]] | Duodenal findings; anti-TTG; responds to gluten-free diet |
-| [[inflammatory-bowel-disease\|IBD]] ([[crohns-disease\|Crohn's]]) | Perianal, small bowel involvement; [[colonoscopy]] findings |
+| [[infectious-esophagitis\|Infectious esophagitis]] (Candida, herpes simplex virus [HSV]) | Immunocompromise, systemic symptoms; biopsy shows organisms |
+| [[celiac-disease\|Celiac disease]] | Duodenal findings; anti–tissue transglutaminase (anti-TTG); responds to gluten-free diet |
+| [[inflammatory-bowel-disease\|inflammatory bowel disease (IBD)]] ([[crohns-disease\|Crohn's]]) | Perianal, small bowel involvement; [[colonoscopy]] findings |
 | Drug hypersensitivity | Temporal association with new medication |
 
 ---
@@ -137,12 +137,12 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 
 1. [[upper-endoscopy|Upper endoscopy]] off treatment + biopsies — **≥6 total from ≥2 levels** (proximal/mid and distal), targeting endoscopic findings where possible (Rec 3, low quality / **strong**)
 2. **Quantify** the peak eosinophil count at every endoscopy (Rec 4, low / **strong**); **≥15 eos/hpf in ≥1 hpf** satisfies criterion 2 (Rec 1, low / **strong**)
-3. Evaluate for non-EoE disorders that cause or contribute to esophageal eosinophilia (see DDx above) before finalizing the diagnosis
+3. Evaluate for non-EoE disorders that cause or contribute to esophageal eosinophilia (see Differential Diagnosis above) before finalizing the diagnosis
 4. Choose a first-line therapy — PPI, topical steroid, or diet, all of equal standing (see Therapeutics)
 
 ### Tests NOT Recommended
 
-- **Serum IgE, IgG food panels** — do NOT order; do not predict EoE food triggers
+- **Serum immunoglobulin E (IgE), immunoglobulin G (IgG) food panels** — do NOT order; do not predict EoE food triggers
 - **Skin prick testing / patch testing** — do NOT use to direct dietary elimination
 - EoE is a delayed-type hypersensitivity (IgE-independent)
 
@@ -175,7 +175,7 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 
 - **Split the dose — this is the decision, not a detail.** In 305 newly diagnosed patients (overall histologic remission 42.3%), remission was **53–54% with omeprazole 20–40 mg twice daily vs only 10–12% with 20–40 mg once daily** (P<0.0001). ACG still permits once-daily or divided dosing on adherence grounds because "dosing efficacy data are variable," but the once-daily arm performs far worse in the one cohort that compared them.
 - Duration: 8–12 weeks → endoscopy with biopsies
-- Histologic remission **50.5%** (95% CI 42.2–58.7) in the 2016 meta-analysis of 33 studies
+- Histologic remission **50.5%** (95% confidence interval [CI] 42.2–58.7) in the 2016 meta-analysis of 33 studies
 - Maintain indefinitely if effective; 70–85% sustain response at 1y
 - **Stepping down to once daily after remission:** ~30% of initial responders relapsed but regained histologic remission on re-escalation to twice daily; a separate prospective cohort found >80% maintained remission after step-down. Re-scope if you step down.
 
@@ -187,10 +187,10 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 | Agent | Children | Adults |
 |---|---|---|
 | Budesonide (any formulation) | **1–2 mg/day** (by age/height/weight; may be divided b.i.d.) | **2–4 mg/day** (may be divided b.i.d.) |
-| Fluticasone (swallowed MDI, off-label) | **110–880 µg/day** in a divided dose | **1,760 µg/day** in a divided dose |
+| Fluticasone (swallowed metered-dose inhaler [MDI], off-label) | **110–880 µg/day** in a divided dose | **1,760 µg/day** in a divided dose |
 
-- **Budesonide oral suspension (BOS):** approved dosing **2 mg b.i.d.** — FDA-approved 2024 ✓
-- **Budesonide orodispersible tablet (BOT):** 1 mg b.i.d. — EMA-approved ✓
+- **Budesonide oral suspension (BOS):** approved dosing **2 mg b.i.d.** — US Food and Drug Administration (FDA)-approved 2024 ✓
+- **Budesonide orodispersible tablet (BOT):** 1 mg b.i.d. — European Medicines Agency (EMA)-approved ✓
 - Off-label viscous budesonide is compounded to the same total daily dose. **How to compound it** ([[acg-2025-eoe]] Table 6, footnote): when an asthma preparation is adapted for EoE, mix the **aqueous budesonide to a syrup-like consistency** with sucralose, honey, maple syrup or similar, to a **goal total volume ~10 mL**
 - Side effects: candidal esophagitis (4–24%); adrenal insufficiency uncommon — identified in **≤5%** in induction trials — test cortisol with long-term multi-steroid use
 - Check response at 8–12 weeks
@@ -202,7 +202,7 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 
 | Step | Diet | Efficacy |
 |---|---|---|
-| 1 | 1FED (dairy only) | 35–45% |
+| 1 | 1-food elimination diet (1FED; dairy only) | 35–45% |
 | 2 | 2FED (dairy + wheat) | 40–45% |
 | 3 | 4FED (dairy, wheat, egg, soy) | 40–50% |
 | 4 | 6FED (dairy, wheat, egg, soy, nuts, seafood) | 40–70% |
@@ -216,21 +216,21 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 
 ### Second-Line / Refractory
 
-**Dupilumab (anti-IL-4Rα)**
+**Dupilumab (anti–interleukin-4 receptor α [anti-IL-4Rα])**
 
 - Indication: PPI nonresponder; moderate-severe EoE
 - **Dosing:**
 
 | Weight | Dose | Frequency |
 |---|---|---|
-| ≥40 kg | 300 mg SQ | Weekly |
+| ≥40 kg | 300 mg subcutaneous (SQ) | Weekly |
 | 30–<40 kg | 300 mg SQ | Every 2 weeks |
 | 15–<30 kg | 200 mg SQ | Every 2 weeks |
 
 - FDA-approved: ≥12y (2022), 1–11y (≥15kg, 2024)
-- 60% histologic remission (≤6 eos/hpf) vs 5% placebo (phase 3 RCT)
+- 60% histologic remission (≤6 eos/hpf) vs 5% placebo (phase 3 randomized controlled trial [RCT])
 - Improves symptoms, EREFS, esophageal distensibility (EndoFLIP)
-- No TB/HIV/hepatitis screening required
+- No tuberculosis (TB)/human immunodeficiency virus (HIV)/hepatitis screening required
 - Check response at 12–24 weeks
 - Cost/access: main barrier; prior auth typically required
 
@@ -290,7 +290,7 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 - Esophagram recommended before dilation to detect unrecognized strictures
 - Feeding dysfunction common (up to 17%); maladaptive behaviors persist even in remission
 - Refer to feeding therapist if avoidant-restrictive food intake disorder or feeding dysfunction present
-- Growth monitoring (height, weight, BMI) required — failure to thrive in up to 1/3 at presentation
+- Growth monitoring (height, weight, body mass index [BMI]) required — failure to thrive in up to 1/3 at presentation
 - Topical steroids generally safe; STC as monotherapy rarely causes clinical adrenal insufficiency
 - Dupilumab (1–11y, ≥15kg): 68% histologic response (16 weeks); weight-based dosing q2w
 - Unsedated transnasal endoscopy: option to minimize [[endoscopy-sedation|sedation]]/anesthesia exposure

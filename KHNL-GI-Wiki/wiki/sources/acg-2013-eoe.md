@@ -7,7 +7,7 @@ updated: 2026-06-09
 sources: []
 ---
 
-> ⚠ **Historical / superseded source.** Captured for landmark and historical reference. Superseded by [[acg-2025-eoe|ACG Clinical Guideline: Diagnosis and Management of Eosinophilic Esophagitis (2025)]]. Do not use for current drug positioning or diagnostic criteria — see the superseding guideline(s).
+> ⚠ **Historical / superseded source.** Captured for landmark and historical reference. Superseded by [[acg-2025-eoe|American College of Gastroenterology (ACG) Clinical Guideline: Diagnosis and Management of Eosinophilic Esophagitis (2025)]]. Do not use for current drug positioning or diagnostic criteria — see the superseding guideline(s).
 
 ## Bibliographic Info
 - **Article:** [Dellon ES, Gonsalves N, Hirano I, Furuta GT, Liacouras CA, Katzka DA. ACG Clinical Guideline: Evidenced Based Approach to the Diagnosis and Management of Esophageal Eosinophilia and Eosinophilic Esophagitis (EoE). Am J Gastroenterol 2013;108:679–692.](https://doi.org/10.1038/ajg.2013.71)
@@ -18,9 +18,9 @@ sources: []
 - **Type:** guideline
 
 ## Summary
-The 2013 ACG guideline established the clinicopathologic framework for [[eosinophilic-esophagitis|eosinophilic esophagitis]] (EoE): symptoms of esophageal dysfunction plus eosinophil-predominant inflammation (peak ≥15 eos/hpf) isolated to the esophagus and persisting after a PPI trial, with secondary causes excluded. It required 2–4 biopsies from both proximal and distal esophagus, and antral/duodenal biopsies in children and selected adults.
+The 2013 ACG guideline established the clinicopathologic framework for [[eosinophilic-esophagitis|eosinophilic esophagitis]] (EoE): symptoms of esophageal dysfunction plus eosinophil-predominant inflammation (peak ≥15 eosinophils per high-power field [eos/hpf]) isolated to the esophagus and persisting after a proton pump inhibitor (PPI) trial, with secondary causes excluded. It required 2–4 biopsies from both proximal and distal esophagus, and antral/duodenal biopsies in children and selected adults.
 
-A defining contribution was the now-historical entity of PPI-responsive esophageal eosinophilia (PPI-REE) — patients with symptomatic and histologic response to a 2-month PPI course, considered distinct from both EoE and [[gerd|GERD]] at the time. (Later guidance, including the [[acg-2025-eoe|ACG Clinical Guideline: Diagnosis and Management of Eosinophilic Esophagitis (2025)]], abandoned the PPI-trial requirement and folded PPI-responsive disease into EoE, treating PPIs as a therapy rather than a diagnostic filter.)
+A defining contribution was the now-historical entity of PPI-responsive esophageal eosinophilia (PPI-REE) — patients with symptomatic and histologic response to a 2-month PPI course, considered distinct from both EoE and [[gerd|gastroesophageal reflux disease (GERD)]] at the time. (Later guidance, including the [[acg-2025-eoe|ACG Clinical Guideline: Diagnosis and Management of Eosinophilic Esophagitis (2025)]], abandoned the PPI-trial requirement and folded PPI-responsive disease into EoE, treating PPIs as a therapy rather than a diagnostic filter.)
 
 For treatment the guideline positioned swallowed topical steroids (fluticasone or budesonide, 8 weeks) as first-line pharmacotherapy, dietary elimination (elemental, empiric, or targeted) as an effective alternative, and conservative esophageal dilation for fibrostenotic strictures, counseling patients about post-dilation chest pain. It is foundational but superseded for diagnostic criteria and drug positioning.
 

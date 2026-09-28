@@ -20,9 +20,9 @@ sources: [acg-2022-celiac, aga-2022-refractory-celiac]
 
 ## Summary
 
-Expert review defining the modalities used to **diagnose and then monitor** [[celiac-disease|celiac disease]] in adults, children, and adolescents. Its argument is that serology has become good enough to carry more of the diagnostic weight — to the point of allowing a biopsy-avoiding pathway in selected children — while remaining **weak for the different job of monitoring**, where it detects continued intestinal injury poorly.
+Expert review defining the modalities used to **diagnose and then monitor** [[celiac-disease|celiac disease (CD)]] in adults, children, and adolescents. Its argument is that serology has become good enough to carry more of the diagnostic weight — to the point of allowing a biopsy-avoiding pathway in selected children — while remaining **weak for the different job of monitoring**, where it detects continued intestinal injury poorly.
 
-Diagnostically, the update anchors on **TG2-IgA plus total IgA**, with EMA as a second-line confirmatory test and DGP-IgG/TG2-IgG reserved for IgA deficiency. A TG2-IgA above **10× the upper normal limit**, confirmed by a **positive EMA in a second blood sample**, gives a positive predictive value for celiac disease that is "virtually 100%," which is what licenses the biopsy-avoiding pathway in children (Figure 1) and reduces the need for EGD by **30%–50%**. HLA-DQ2/DQ8 is demoted to a second-line test used mainly for its negative predictive value.
+Diagnostically, the update anchors on **tissue transglutaminase–immunoglobulin A (TG2-IgA) plus total IgA**, with endomysial antibody (EMA) as a second-line confirmatory test and deamidated gliadin peptide (DGP)-IgG/TG2-IgG reserved for IgA deficiency. A TG2-IgA above **10× the upper normal limit**, confirmed by a **positive EMA in a second blood sample**, gives a positive predictive value for celiac disease that is "virtually 100%," which is what licenses the biopsy-avoiding pathway in children (Figure 1) and reduces the need for esophagogastroduodenoscopy (EGD) by **30%–50%**. HLA-DQ2/DQ8 is demoted to a second-line test used mainly for its negative predictive value.
 
 The monitoring half is the more consequential contribution. **Negative serology in a treated patient does not guarantee mucosal healing**, and the numbers are stark: persistently positive TG2-IgA/EMA detects persistent villous atrophy with a sensitivity of only **0.38 in adults** (0.70 in children). Serology therefore gets a fixed schedule — **6 and 12 months after diagnosis, then yearly** — but symptoms and antibodies together still cannot substitute for histology. Persistent or relapsing symptoms without another explanation warrant **endoscopic biopsies even when TG2-IgA is negative**, and if **Marsh ≥2** damage is still present on a follow-up biopsy, another biopsy is required **after 12 months**.
 
@@ -66,7 +66,7 @@ The update is candid that "the utility of serology vs histology in follow-up has
 
 ### Serology
 
-- TG2-IgA (ELISA) is the screening test; **EMA** is well suited to second-line confirmation because of its high specificity, but is labor-intensive and judgment-dependent.
+- TG2-IgA (enzyme-linked immunosorbent assay [ELISA]) is the screening test; **EMA** is well suited to second-line confirmation because of its high specificity, but is labor-intensive and judgment-dependent.
 - **DGP** antibody assays have reasonably high accuracy but are **inferior to TG2-IgA**.
 - Commercial TG2-IgA assays are not uniformly standardized; laboratories are encouraged to participate in national/international quality control.
 
@@ -86,11 +86,11 @@ The update is candid that "the utility of serology vs histology in follow-up has
 
 ### Biopsy-avoiding diagnostic pathway (Figure 1)
 
-- ESPGHAN 2012 first-line screening with quantitative TG2-IgA. In a **symptomatic** patient with titer **>10× ULN** and normal IgA, further tests (TG2-IgA, EMA, HLA-DQ2/DQ8) on a **second blood sample**; if all confirmatory, the child may be diagnosed **provided symptoms subside after starting a GFD**.
+- European Society for Paediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN) 2012 first-line screening with quantitative TG2-IgA. In a **symptomatic** patient with titer **>10× upper limit of normal (ULN)** and normal IgA, further tests (TG2-IgA, EMA, HLA-DQ2/DQ8) on a **second blood sample**; if all confirmatory, the child may be diagnosed **provided symptoms subside after starting a GFD**.
 - TG2-IgA **<10× ULN, or low IgA** → biopsy; **Marsh 2–3** confirms CD, otherwise **potential celiac disease** with further follow-up.
 - The **asymptomatic / at-risk** arm always goes to biopsy — a positive TG2-IgA there leads to biopsy and histological analysis.
 - In practice the strategy **reduces the need for EGD by 30%–50%**.
-- Adults: all guidelines (including ACG) recommend serology first and biopsy if positive where CD prevalence is low (**<5%**).
+- Adults: all guidelines (including the American College of Gastroenterology [ACG]) recommend serology first and biopsy if positive where CD prevalence is low (**<5%**).
 - In unclear cases histology matters, and a **gluten challenge** approach may be warranted.
 
 ### Monitoring — the core of the update
@@ -146,8 +146,8 @@ The update is candid that "the utility of serology vs histology in follow-up has
 
 ## Contradictions / Open Questions
 
-- **Definition of intraepithelial lymphocytosis — different denominators.** This update defines it as **>25 lymphocytes per high-power field**; [[acg-2022-celiac]] defines Marsh I as **≥25 IELs per 100 epithelial cells**. The counts are not interchangeable. ACG 2022 is the newer guideline, so the entity page asserts the per-100-epithelial-cells threshold and names the AGA per-HPF wording alongside it.
-- **Positive predictive value of a high TG2-IgA.** This update calls the PPV "virtually 100%" for TG2-IgA **>10× ULN plus a positive EMA on a second sample**; [[acg-2022-celiac]] states a **95% PPV in adults** for a ≥10-fold TG2-IgA elevation and argues that is too low to commit an adult to a lifelong GFD. The conditions differ (with vs without EMA confirmation), so the two are reconcilable, but the newer ACG figure is the one the entity page uses for the adults nonbiopsy question.
+- **Definition of intraepithelial lymphocytosis — different denominators.** This update defines it as **>25 lymphocytes per high-power field (HPF)**; [[acg-2022-celiac]] defines Marsh I as **≥25 intraepithelial lymphocytes (IELs) per 100 epithelial cells**. The counts are not interchangeable. ACG 2022 is the newer guideline, so the entity page asserts the per-100-epithelial-cells threshold and names the American Gastroenterological Association (AGA) per-HPF wording alongside it.
+- **Positive predictive value (PPV) of a high TG2-IgA.** This update calls the PPV "virtually 100%" for TG2-IgA **>10× ULN plus a positive EMA on a second sample**; [[acg-2022-celiac]] states a **95% PPV in adults** for a ≥10-fold TG2-IgA elevation and argues that is too low to commit an adult to a lifelong GFD. The conditions differ (with vs without EMA confirmation), so the two are reconcilable, but the newer ACG figure is the one the entity page uses for the adults nonbiopsy question.
 - **Nutritional monitoring in children.** This update says routine vitamin/mineral testing is unnecessary in children attending registered follow-up who grow normally without symptoms; [[acg-2022-celiac]] frames micronutrient repletion and monitoring more broadly. The newer guideline governs; the pediatric qualifier is recorded as this update's narrower claim.
 - **No conflict with [[aga-2022-refractory-celiac]].** The 2019 update predates it and does not define refractory CD beyond noting that types 1 and 2 exist and that type 2 carries considerable mortality after 5 years. The 2022 update's definition, subtyping, and treatment claims stand.
 - **Explicitly unsettled by the authors:** "The utility of serology vs histology in follow-up has not been definitively settled," and the correlation between symptoms, mucosal healing, and later outcome is not clear.

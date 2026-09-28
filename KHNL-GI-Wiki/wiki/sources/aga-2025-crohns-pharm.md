@@ -16,13 +16,13 @@ sources: []
 - **Year:** 2025
 - **Journal:** Gastroenterology (AGA Living Clinical Practice Guideline)
 - **DOI:** [10.1053/j.gastro.2025.09.038](https://doi.org/10.1053/j.gastro.2025.09.038)
-- **Type:** GRADE-based living guideline
+- **Type:** Grading of Recommendations Assessment, Development and Evaluation (GRADE)-based living guideline
 
 ---
 
 ## Summary
 
-This living guideline ranks advanced therapies for moderate-to-severe [[crohns-disease]] and pushes two practice-changing principles: use a **higher-efficacy agent first** and favor **initial advanced therapy over step-up ("step") therapy**. It positions the newer IL-23 inhibitors (risankizumab, mirikizumab, guselkumab) and the JAK inhibitor upadacitinib alongside established anti-TNF and ustekinumab options. Part of the broader [[inflammatory-bowel-disease]] treatment framework.
+This American Gastroenterological Association (AGA) living guideline ranks advanced therapies for moderate-to-severe [[crohns-disease]] and pushes two practice-changing principles: use a **higher-efficacy agent first** and favor **initial advanced therapy over step-up ("step") therapy**. It positions the newer IL-23 inhibitors (risankizumab, mirikizumab, guselkumab) and the Janus kinase (JAK) inhibitor upadacitinib alongside established anti–tumor necrosis factor (TNF) and ustekinumab options. Part of the broader [[inflammatory-bowel-disease]] treatment framework.
 
 ---
 
@@ -32,9 +32,9 @@ This living guideline ranks advanced therapies for moderate-to-severe [[crohns-d
 - **Rec 2 (Conditional):** Certolizumab pegol or vedolizumab over no treatment.
 - **Recs 3–4 (Conditional):** In **advanced-therapy–naïve** patients, prefer a **higher-efficacy** agent (e.g., infliximab, adalimumab, ustekinumab, risankizumab, upadacitinib) over lower-efficacy options; after prior anti-TNF exposure, again favor higher-efficacy agents (adalimumab, risankizumab, upadacitinib) over lower-efficacy (vedolizumab, certolizumab).
 - **Step vs early advanced therapy:** Suggests **initial advanced therapy over step therapy**.
-- **Immunomodulators:** Suggests *against* **thiopurine monotherapy** for induction; thiopurines may be used for **maintenance** of remission; prefer **subcutaneous/IM methotrexate** over oral; **infliximab + thiopurine combination** over infliximab monotherapy. No recommendation on infliximab + methotrexate (knowledge gap).
+- **Immunomodulators:** Suggests *against* **thiopurine monotherapy** for induction; thiopurines may be used for **maintenance** of remission; prefer **subcutaneous/intramuscular (IM) methotrexate** over oral; **infliximab + thiopurine combination** over infliximab monotherapy. No recommendation on infliximab + methotrexate (knowledge gap).
 
-**Implementation:** biosimilars equivalent to originators; SC infliximab/vedolizumab comparable to IV maintenance; dose escalation/extended induction for partial responders.
+**Implementation:** biosimilars equivalent to originators; subcutaneous (SC) infliximab/vedolizumab comparable to intravenous (IV) maintenance; dose escalation/extended induction for partial responders.
 
 ---
 

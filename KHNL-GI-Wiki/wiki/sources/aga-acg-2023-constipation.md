@@ -18,9 +18,9 @@ sources: []
 
 ## Summary
 
-This joint AGA-ACG guideline gives **10 numbered recommendations** (Recommendation 1–10) for pharmacologic management of [[chronic-idiopathic-constipation|chronic idiopathic constipation]] (CIC) in adults, graded with GRADE as **strength of recommendation** (strong = "recommends" / conditional = "suggests") and **certainty of evidence** (high / moderate / low / very low). Excluded populations: [[irritable-bowel-syndrome|IBS-C]], opioid-induced constipation, malignancy, pregnancy, and secondary causes such as hypothyroidism and [[celiac-disease|celiac disease]]. Of 54 full-text studies reviewed, **28 were included in the evidence synthesis**. The approach is stepwise: OTC agents first (fiber, osmotic laxatives, stimulant laxatives), then prescription secretagogues and the prokinetic when OTC agents fail.
+This joint American Gastroenterological Association (AGA)–American College of Gastroenterology (ACG) guideline gives **10 numbered recommendations** (Recommendation 1–10) for pharmacologic management of [[chronic-idiopathic-constipation|chronic idiopathic constipation]] (CIC) in adults, graded with Grading of Recommendations Assessment, Development and Evaluation (GRADE) as **strength of recommendation** (strong = "recommends" / conditional = "suggests") and **certainty of evidence** (high / moderate / low / very low). Excluded populations: [[irritable-bowel-syndrome|irritable bowel syndrome with constipation (IBS-C)]], opioid-induced constipation, malignancy, pregnancy, and secondary causes such as hypothyroidism and [[celiac-disease|celiac disease]]. Of 54 full-text studies reviewed, **28 were included in the evidence synthesis**. The approach is stepwise: over-the-counter (OTC) agents first (fiber, osmotic laxatives, stimulant laxatives), then prescription secretagogues and the prokinetic when OTC agents fail.
 
-Five agents get **strong** recommendations — PEG, bisacodyl/sodium picosulfate, [[linaclotide|linaclotide]], [[plecanatide]], and [[prucalopride]] — and each of those five rests on **moderate** certainty. Five get **conditional** recommendations: fiber (low), magnesium oxide (very low), lactulose (very low), senna (low), and [[lubiprostone|lubiprostone]] (low). Docusate was among the interventions the panel set out to review, but the guideline issues no recommendation on it.
+Five agents get **strong** recommendations — polyethylene glycol (PEG), bisacodyl/sodium picosulfate, [[linaclotide|linaclotide]], [[plecanatide]], and [[prucalopride]] — and each of those five rests on **moderate** certainty. Five get **conditional** recommendations: fiber (low), magnesium oxide (very low), lactulose (very low), senna (low), and [[lubiprostone|lubiprostone]] (low). Docusate was among the interventions the panel set out to review, but the guideline issues no recommendation on it.
 
 Cost was an explicit Evidence-to-Decision consideration: every OTC agent is estimated at **<$50/month** (PEG $10–$45), while the secretagogues and prucalopride run **$374–$563/month**.
 
@@ -28,7 +28,7 @@ Cost was an explicit Evidence-to-Decision consideration: every OTC agent is esti
 
 **Outcome definitions used across the recommendations**
 
-- **CSBM** = complete spontaneous bowel movement. **Responder** = CSBM/week ≥3 **and** an increase of ≥1 from baseline. Critical outcomes were CSBMs/week, SBMs/week, and diarrhea leading to discontinuation.
+- **CSBM** = complete spontaneous bowel movement. **Responder** = CSBM/week ≥3 **and** an increase of ≥1 from baseline. Critical outcomes were CSBMs/week, spontaneous bowel movements (SBMs)/week, and diarrhea leading to discontinuation.
 - Studies had to run **≥4 weeks**; single-dose and head-to-head-only comparisons were excluded, so the guideline has **no head-to-head data** between agents.
 
 **Implementation detail beyond the graded statements**
@@ -39,10 +39,10 @@ Cost was an explicit Evidence-to-Decision consideration: every OTC agent is esti
 - **Lactulose** — 15 g daily; no clear maximum, but hypernatremia and hypokalemia can occur with significant diarrhea. The **only osmotic agent studied in pregnancy**. Dose-dependent bloating and flatulence limit use.
 - **Bisacodyl / sodium picosulfate** — bisacodyl 5 mg daily, **maximum 10 mg orally daily**; recommended for **short-term use or as rescue therapy**, where short-term = **daily use for ≤4 weeks**. Long-term safety and efficacy unknown; prolonged or excessive use can cause diarrhea and electrolyte imbalance.
 - **Senna** — 8.6–17.2 mg daily; no clear maximum, often capped at 4 tablets twice daily. The trial dose is **higher than doses commonly used in practice** — start lower and increase if no response. Long-term safety and efficacy unknown.
-- **Lubiprostone** — chloride-channel-type-2 secretagogue; 24 µg BID, also the maximum. Trials ran **4 weeks**; the label sets no duration limit. Nausea is dose-dependent and lower when taken with food and water. Also approved for IBS-C at 8 µg BID.
+- **Lubiprostone** — chloride-channel-type-2 secretagogue; 24 µg twice daily (BID), also the maximum. Trials ran **4 weeks**; the label sets no duration limit. Nausea is dose-dependent and lower when taken with food and water. Also approved for IBS-C at 8 µg BID.
 - **Linaclotide** — guanylate cyclase-C agonist; **72–145 µg daily**, maximum **290 µg daily** (the 290 µg dose is the IBS-C dose). Trials ran **12 weeks**.
 - **Plecanatide** — guanylate cyclase-C agonist; 3 mg daily, also the maximum. Trials ran **12 weeks**.
-- **Prucalopride** — 5-HT₄ agonist; 1–2 mg daily, maximum 2 mg daily. Trials ran **4–24 weeks**. Headache, abdominal pain, nausea, and diarrhea may lead to discontinuation.
+- **Prucalopride** — 5-hydroxytryptamine-4 (5-HT₄) agonist; 1–2 mg daily, maximum 2 mg daily. Trials ran **4–24 weeks**. Headache, abdominal pain, nausea, and diarrhea may lead to discontinuation.
 - Each prescription agent **may be used as a replacement for or as an adjunct to** OTC agents.
 
 **Estimated monthly cost (US dollars, at publication)**

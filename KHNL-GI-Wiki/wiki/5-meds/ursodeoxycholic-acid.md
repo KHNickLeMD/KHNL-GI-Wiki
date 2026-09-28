@@ -28,9 +28,9 @@ sources: [aasld-2018-pbc, aasld-2021-pbc, aasld-2022-psc, acg-2015-psc, aga-2024
 
 ## What It Is
 
-- Oral hydrophilic bile acid; the only first-line drug therapy for [[primary-biliary-cholangitis|PBC]].
+- Oral hydrophilic bile acid; the only first-line drug therapy for [[primary-biliary-cholangitis|primary biliary cholangitis (PBC)]].
 - **Mechanisms** (PBC): choleretic, cytoprotective, anti-inflammatory, immunomodulatory. ([[aasld-2018-pbc]])
-- **In PBC, UDCA does:** improve liver biochemistries · slow histologic progression · reduce the risk of developing esophageal varices · lower LDL cholesterol · improve transplant-free survival (meta-analysis data on [[primary-biliary-cholangitis]]).
+- **In PBC, ursodeoxycholic acid (UDCA) does:** improve liver biochemistries · slow histologic progression · reduce the risk of developing esophageal varices · lower low-density lipoprotein (LDL) cholesterol · improve transplant-free survival (meta-analysis data on [[primary-biliary-cholangitis]]).
 - **In PBC, UDCA does NOT:** improve fatigue, pruritus, bone disease, or associated autoimmune features — these need separate, symptom-directed therapy. ([[aasld-2018-pbc]])
 - **Timing of effect:** liver tests improve within a few weeks; ~90% of the improvement occurs within **6–9 months**; ~**20%** normalize liver biochemistries after **2 years**. ([[aasld-2018-pbc]])
 
@@ -41,10 +41,10 @@ sources: [aasld-2018-pbc, aasld-2021-pbc, aasld-2022-psc, acg-2015-psc, aga-2024
 | Indication | Dose | Basis |
 |---|---|---|
 | **[[primary-biliary-cholangitis\|PBC]]** — abnormal liver enzymes, **any** histologic stage | **13–15 mg/kg/day** orally | [[aasld-2018-pbc]] Guidance Statement 5 |
-| **PBC–[[autoimmune-hepatitis\|AIH]] overlap** | **13–15 mg/kg/day** with prednisone + azathioprine | [[aasld-2020-autoimmune-hepatitis]] |
-| **[[primary-sclerosing-cholangitis\|PSC]]** — persistently elevated ALP/GGT, not eligible for or interested in a trial | **13–23 mg/kg/day** (*can be considered*, not recommended) | [[aasld-2022-psc]] Guidance Statement 12 |
+| **PBC–[[autoimmune-hepatitis\|autoimmune hepatitis (AIH)]] overlap** | **13–15 mg/kg/day** with prednisone + azathioprine | [[aasld-2020-autoimmune-hepatitis]] |
+| **[[primary-sclerosing-cholangitis\|primary sclerosing cholangitis (PSC)]]** — persistently elevated alkaline phosphatase (ALP)/gamma-glutamyl transferase (GGT), not eligible for or interested in a trial | **13–23 mg/kg/day** (*can be considered*, not recommended) | [[aasld-2022-psc]] Guidance Statement 12 |
 | **PSC — high dose** | **≥28 mg/kg/day — do not use** (see harm signal below) | [[aasld-2022-psc]]; [[acg-2015-psc]] Rec 6 (*strong, high*) |
-| **[[intrahepatic-cholestasis-of-pregnancy\|ICP]]** | **10–15 mg/kg/day** total daily dose, divided | [[aga-2024-pregnancy-gi-liver]] BPA 10; [[acg-2016-liver-disease-pregnancy]] Rec 13 (*strong, moderate*) |
+| **[[intrahepatic-cholestasis-of-pregnancy\|intrahepatic cholestasis of pregnancy (ICP)]]** | **10–15 mg/kg/day** total daily dose, divided | [[aga-2024-pregnancy-gi-liver]] Best Practice Advice (BPA) 10; [[acg-2016-liver-disease-pregnancy]] Rec 13 (*strong, moderate*) |
 | **PBC in pregnancy** | Continue the patient's existing UDCA — do not stop | [[acg-2016-liver-disease-pregnancy]] Rec 32 (*strong, very low*) |
 | **Recurrent PBC after [[liver-transplantation\|liver transplant]]**, histologically proven | **10–15 mg/kg/day** | [[aasld-2012-liver-transplant-long-term]] Rec 84 (*grade 2, level B*) |
 
@@ -70,10 +70,10 @@ UDCA is indicated for every PBC patient with abnormal liver enzyme values regard
 
 | Criteria (arranged by year) | Response definition |
 |---|---|
-| Rochester I | ALP ≤2× ULN |
+| Rochester I | ALP ≤2× upper limit of normal (ULN) |
 | Barcelona | Reduction in ALP ≥40% from baseline, or normalization of ALP |
-| Paris I | ALP ≤3× ULN; AST ≤2× ULN; **and** total bilirubin ≤1 mg/dL |
-| Rotterdam | Total bilirubin <1× ULN **and** albumin >1× LLN |
+| Paris I | ALP ≤3× ULN; aspartate aminotransferase (AST) ≤2× ULN; **and** total bilirubin ≤1 mg/dL |
+| Rotterdam | Total bilirubin <1× ULN **and** albumin >1× lower limit of normal (LLN) |
 | Toronto | ALP ≤1.67× ULN |
 | Paris II | ALP ≤1.5× ULN; AST ≤1.5× ULN; **and** total bilirubin ≤1 mg/dL |
 | Rochester II | ALP ≤2× ULN |
@@ -95,20 +95,20 @@ flowchart TD
     C -->|"Adequate response"| D["Continue UDCA indefinitely<br/>liver tests every 3-6 months"]
     C -->|"Inadequate response (up to 40%)"| E["First exclude non-adherence,<br/>sequestrant mistiming,<br/>superimposed liver disease"]
     E --> F["Add second-line agent to UDCA"]
-    F --> G["OCA 5 mg/day, up to 10 mg/day<br/>after 3 months if liver tests still abnormal<br/>CONTRAINDICATED in advanced cirrhosis"]
+    F --> G["Obeticholic acid (OCA) 5 mg/day, up to 10 mg/day<br/>after 3 months if liver tests still abnormal<br/>CONTRAINDICATED in advanced cirrhosis"]
     F --> H["Fibrate, off-label: bezafibrate 400 mg/day<br/>or fenofibrate 160 mg/day<br/>discouraged in decompensated liver disease"]
 ```
 
 ### Second-Line Agents
 
-Both are added for **inadequate response to UDCA**; obeticholic acid (OCA) may also be used as monotherapy in patients intolerant of UDCA.
+Both are added for **inadequate response to UDCA**; OCA may also be used as monotherapy in patients intolerant of UDCA.
 
 | Agent | Dose | Caveat that gates its use |
 |---|---|---|
-| **Obeticholic acid (OCA)** — FXR agonist | Start **5 mg/day**; after **3 months** may increase to **10 mg/day** if liver chemistries remain abnormal and it is tolerated | **Contraindicated in advanced cirrhosis.** Careful monitoring of **any** cirrhotic on OCA, even if not advanced. ([[aasld-2021-pbc]] Revised Guidance Statement 10) |
-| **Fibrates** — PPAR agonists, **off-label** (approved only as lipid-lowering drugs) | **Bezafibrate 400 mg/day** or **fenofibrate 160 mg/day** | **Discouraged in decompensated liver disease**; not studied there. ([[aasld-2021-pbc]] Revised Guidance Statement 9) |
+| **OCA** — farnesoid X receptor (FXR) agonist | Start **5 mg/day**; after **3 months** may increase to **10 mg/day** if liver chemistries remain abnormal and it is tolerated | **Contraindicated in advanced cirrhosis.** Careful monitoring of **any** cirrhotic on OCA, even if not advanced. ([[aasld-2021-pbc]] Revised Guidance Statement 10) |
+| **Fibrates** — peroxisome proliferator-activated receptor (PPAR) agonists, **off-label** (approved only as lipid-lowering drugs) | **Bezafibrate 400 mg/day** or **fenofibrate 160 mg/day** | **Discouraged in decompensated liver disease**; not studied there. ([[aasld-2021-pbc]] Revised Guidance Statement 9) |
 
-- **"Advanced cirrhosis"** = [[cirrhosis]] with **current or prior** evidence of liver decompensation (e.g. [[hepatic-encephalopathy|encephalopathy]], coagulopathy) **or** [[portal-hypertension|portal hypertension]] (e.g. [[ascites]], gastroesophageal varices, or persistent thrombocytopenia). A single resolved decompensating event still counts. [[aasld-2021-pbc]] sets no platelet cutoff for "persistent thrombocytopenia" and no INR cutoff for "coagulopathy."
+- **"Advanced cirrhosis"** = [[cirrhosis]] with **current or prior** evidence of liver decompensation (e.g. [[hepatic-encephalopathy|encephalopathy]], coagulopathy) **or** [[portal-hypertension|portal hypertension]] (e.g. [[ascites]], gastroesophageal varices, or persistent thrombocytopenia). A single resolved decompensating event still counts. [[aasld-2021-pbc]] sets no platelet cutoff for "persistent thrombocytopenia" and no international normalized ratio (INR) cutoff for "coagulopathy."
 - **What changed:** [[aasld-2018-pbc]] discouraged OCA **and** fibrates in decompensated liver disease defined as **Child-Pugh-Turcotte B or C** (after a September 2017 FDA warning). [[aasld-2021-pbc]], following a **May 2021** FDA warning, makes OCA **contraindicated** and redefines the trigger as advanced cirrhosis — a broader net, since a Child-Pugh A patient with varices or persistent thrombocytopenia now qualifies.
 - Efficacy data for OCA (POISE) and the fibrates (BEZURSO and the open-label series) are on [[primary-biliary-cholangitis]].
 - **Doubling the UDCA dose** — and adding colchicine, methotrexate, or silymarin — gave no benefit beyond UDCA alone. ([[aasld-2018-pbc]])
@@ -119,9 +119,9 @@ Both are added for **inadequate response to UDCA**; obeticholic acid (OCA) may a
 
 No approved pharmacotherapy exists for PSC; all patients should be considered for a clinical trial first. ([[aasld-2022-psc]] Guidance Statement 11)
 
-- **High dose is harmful — do not use.** [[aasld-2022-psc]] avoids **≥28 mg/kg/day**; [[acg-2015-psc]] Rec 6 states **>28 mg/kg/day should not be used** (*strong recommendation, high quality of evidence*). The controlled trial of **28–30 mg/kg/day** vs placebo (150 patients) was terminated early for futility, with excess serious adverse events (transplant, varices, death) and increased colorectal neoplasia in PSC–[[ulcerative-colitis|UC]].
+- **High dose is harmful — do not use.** [[aasld-2022-psc]] avoids **≥28 mg/kg/day**; [[acg-2015-psc]] Rec 6 states **>28 mg/kg/day should not be used** (*strong recommendation, high quality of evidence*). The controlled trial of **28–30 mg/kg/day** vs placebo (150 patients) was terminated early for futility, with excess serious adverse events (transplant, varices, death) and increased colorectal neoplasia in PSC–[[ulcerative-colitis|ulcerative colitis (UC)]].
 - **13–23 mg/kg/day *can be considered*** — not recommended — in patients not eligible for or not interested in a trial who have **persistently elevated ALP or GGT**. Confirm the elevation is persistent by **observing 6 months** before starting; continue only if there is meaningful reduction or normalization of ALP (GGT in children) and/or symptom improvement **within 12 months** of treatment. ([[aasld-2022-psc]] Guidance Statement 12)
-- The two guidelines differ in emphasis: ACG 2015 recommends against high-dose UDCA and takes no supportive position on lower doses; the newer AASLD 2022 keeps the high-dose prohibition but softens to "can be considered" at 13–23 mg/kg/day. The newer guidance governs. No data favor the low over the intermediate dose.
+- The two guidelines differ in emphasis: American College of Gastroenterology (ACG) 2015 recommends against high-dose UDCA and takes no supportive position on lower doses; the newer American Association for the Study of Liver Diseases (AASLD) 2022 keeps the high-dose prohibition but softens to "can be considered" at 13–23 mg/kg/day. The newer guidance governs. No data favor the low over the intermediate dose.
 - UDCA has **not** been shown effective for pruritus in PSC. ([[aasld-2022-psc]])
 - **Withdrawal** of UDCA in PSC has been associated with increases in fatigue, pruritus, liver biochemistries, and the Revised Mayo Risk Score. ([[aasld-2022-psc]])
 - Safe in pregnancy and lactation; may be continued. ([[aasld-2022-psc]])
@@ -131,7 +131,7 @@ No approved pharmacotherapy exists for PSC; all patients should be considered fo
 ## Intrahepatic Cholestasis of Pregnancy
 
 - **UDCA 10–15 mg/kg/day**, total daily dose, divided — **first-line** once ICP is diagnosed (serum bile acids >10 μmol/L with pruritus). ([[aga-2024-pregnancy-gi-liver]] BPA 10; [[acg-2016-liver-disease-pregnancy]] Rec 13)
-- Improves pruritus and lowers serum bile acids and ALT; meta-analysis found **decreased preterm birth and stillbirth**. ([[aga-2024-pregnancy-gi-liver]])
+- Improves pruritus and lowers serum bile acids and alanine aminotransferase (ALT); meta-analysis found **decreased preterm birth and stillbirth**. ([[aga-2024-pregnancy-gi-liver]])
 - **More effective than cholestyramine or dexamethasone** for pruritus control; increases bile salt export pump expression and placental bile transporters. ([[acg-2016-liver-disease-pregnancy]])
 - UDCA is **pregnancy category B**. Data in the first trimester are limited, so caution is warranted with first-trimester *initiation*. ([[acg-2016-liver-disease-pregnancy]])
 - Delivery-timing thresholds by bile acid level are on [[intrahepatic-cholestasis-of-pregnancy]] and [[liver-disease-in-pregnancy]].
@@ -150,11 +150,11 @@ No approved pharmacotherapy exists for PSC; all patients should be considered fo
 
 | Setting | Position |
 |---|---|
-| **[[nafld-masld\|NASH/MASH]]** | **Should not be used.** Well studied; no meaningful histologic benefit. ([[aasld-2023-nafld]] Guidance Statement 28) |
+| **[[nafld-masld\|nonalcoholic steatohepatitis/metabolic dysfunction-associated steatohepatitis (NASH/MASH)]]** | **Should not be used.** Well studied; no meaningful histologic benefit. ([[aasld-2023-nafld]] Guidance Statement 28) |
 | **PSC at ≥28 mg/kg/day** | Harmful — see above ([[aasld-2022-psc]]; [[acg-2015-psc]] Rec 6) |
 | **PBC after transplant with normal allograft histology** | No prophylaxis ([[aasld-2012-liver-transplant-long-term]] Rec 84) |
 | **Recurrent PSC after transplant** | Not proven effective; not routinely recommended ([[aasld-2012-liver-transplant-long-term]]) |
-| **Secondary sclerosing cholangitis in [[hereditary-hemorrhagic-telangiectasia\|HHT]]** | May be used, but **no data support it** ([[acg-2020-hepatic-mesenteric-circulation]]) |
+| **Secondary sclerosing cholangitis in [[hereditary-hemorrhagic-telangiectasia\|hereditary hemorrhagic telangiectasia (HHT)]]** | May be used, but **no data support it** ([[acg-2020-hepatic-mesenteric-circulation]]) |
 | **Fatigue, pruritus, or bone disease in PBC** | Ineffective — treat these separately ([[aasld-2018-pbc]]) |
 
 ---
@@ -174,12 +174,12 @@ No approved pharmacotherapy exists for PSC; all patients should be considered fo
 | What | When | Setting |
 |---|---|---|
 | Liver tests | Every **3–6 months** | PBC on UDCA ([[aasld-2018-pbc]] Table 2) |
-| Formal biochemical response (criteria table above) | At **12 months** after initiation | PBC — decides second-line therapy ([[aasld-2018-pbc]] GS 7) |
+| Formal biochemical response (criteria table above) | At **12 months** after initiation | PBC — decides second-line therapy ([[aasld-2018-pbc]] Guidance Statement (GS) 7) |
 | ALP (or GGT in children) ± symptoms | Within **12 months** of starting; observe **6 months** before starting to confirm persistent elevation | PSC — decides whether to continue UDCA ([[aasld-2022-psc]] GS 12) |
 | Liver function, on OCA | "Careful monitoring" of **any** patient with cirrhosis, even if not advanced | PBC second-line ([[aasld-2021-pbc]]) — no specific test or interval is given |
 | Liver biopsy | **Not indicated** to monitor treatment response | PBC ([[aasld-2018-pbc]]) |
 
-The full PBC follow-up schedule (TSH, bone density, fat-soluble vitamins, variceal screening, [[hcc-surveillance|HCC surveillance]]) is on [[primary-biliary-cholangitis]].
+The full PBC follow-up schedule (thyroid-stimulating hormone (TSH), bone density, fat-soluble vitamins, variceal screening, [[hcc-surveillance|hepatocellular carcinoma (HCC) surveillance]]) is on [[primary-biliary-cholangitis]].
 
 ---
 

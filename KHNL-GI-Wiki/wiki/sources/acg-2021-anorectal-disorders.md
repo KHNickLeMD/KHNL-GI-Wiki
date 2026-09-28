@@ -14,7 +14,7 @@ sources: []
 - **Year:** 2021
 - **Journal/Publisher:** Am J Gastroenterol 2021;116:1987–2008
 - **DOI:** [10.14309/ajg.0000000000001507](https://doi.org/10.14309/ajg.0000000000001507)
-- **Type:** Clinical practice guideline (ACG); GRADE methodology + consensus statements; covers defecation disorders, proctalgia syndromes, hemorrhoids, anal fissures, fecal incontinence
+- **Type:** Clinical practice guideline (American College of Gastroenterology [ACG]); Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology + consensus statements; covers defecation disorders, proctalgia syndromes, hemorrhoids, anal fissures, fecal incontinence
 
 ## Summary
 
@@ -30,7 +30,7 @@ A unifying theme is the primacy of conservative management (dietary modification
 - Diagnostic: ARM + BET required to diagnose DD; DRE recommended for all patients with suspected DD (75% sensitivity, 87% specificity for dyssynergia)
 - Differential: distinguish DD from slow-transit constipation (colonic transit study if BET normal or biofeedback fails); up to 50% of DD patients have delayed colonic transit (usually secondary)
 - Treatment:
-  - **Anorectal biofeedback: Strong recommendation, moderate quality, minimal risk of harm** — superior to sham, diazepam, PEG in RCTs; cornerstone of DD management. The 4–6 sessions (each several weeks apart) figure is a key concept, not part of the graded recommendation
+  - **Anorectal biofeedback: Strong recommendation, moderate quality, minimal risk of harm** — superior to sham, diazepam, polyethylene glycol (PEG) in randomized controlled trials (RCTs); cornerstone of DD management. The 4–6 sessions (each several weeks apart) figure is a key concept, not part of the graded recommendation
   - **Full-thickness [[rectal-prolapse|rectal prolapse]] often requires surgery** — abdominal rectopexy, or a perineal procedure in selected cases: Conditional/Very low, moderate risk of harm
   - Biofeedback protocol: education, abdominal breathing, manometric-guided relaxation, balloon expulsion retraining, sensory retraining
   - Surgery (key concepts): most patients with structural abnormalities do **not** need surgery — these findings are highly prevalent in asymptomatic people, efficacy evidence is low-level, and surgical risk is moderate; counsel benefit vs risk carefully. Rectocele repair selection depends on symptoms — size and degree of non-emptying and/or a vaginal bulge/prolapse with defecatory symptoms is a stronger indication than symptoms alone
@@ -60,7 +60,7 @@ A unifying theme is the primacy of conservative management (dietary modification
 
 - Definition: ulcer-like longitudinal tear in anal canal, distal to dentate line; >8–12 weeks = chronic
 - Pathophysiology: hypertonic internal anal sphincter → ischemia → non-healing
-- Lateral position fissures: suggest [[crohns-disease|Crohn's disease]], TB, syphilis, HIV, malignancy — evaluate
+- Lateral position fissures: suggest [[crohns-disease|Crohn's disease]], tuberculosis (TB), syphilis, human immunodeficiency virus (HIV), malignancy — evaluate
 - Medical management (chronic fissure):
   - **Topical calcium channel blocker (CCB, e.g., topical diltiazem 2%, nifedipine): Strong/Low** — first-line; healing ~67–90%; headache in 20%
   - Topical nitroglycerine: marginally superior to placebo (48.9% vs 35.5%); headache is dose-limiting; second choice to CCB
@@ -71,14 +71,14 @@ A unifying theme is the primacy of conservative management (dietary modification
 
 - Definition: involuntary loss of solid or liquid feces (including staining)
 - Prevalence: 2.2–25% community; ~9% age-adjusted in US (underreported)
-- Diagnosis: Bristol Stool Scale + symptom diary; DRE + ARM + BET for moderate-severe FI; endoanal US or MRI if surgery considered
+- Diagnosis: Bristol Stool Scale + symptom diary; DRE + ARM + BET for moderate-severe FI; endoanal ultrasound (US) or magnetic resonance imaging (MRI) if surgery considered
 - Conservative treatment (first-line for all):
   - **Antidiarrheal drugs when FI is accompanied by diarrhea: Strong/Low** — loperamide, diphenoxylate with atropine, bile salt binding agents, anticholinergic agents, clonidine
-  - **Biofeedback (pelvic floor rehabilitation): Strong/Moderate** — for patients not controlled with education/medication; 20% may not need further treatment with conservative measures + PF exercises
+  - **Biofeedback (pelvic floor rehabilitation): Strong/Moderate** — for patients not controlled with education/medication; 20% may not need further treatment with conservative measures + pelvic floor (PF) exercises
 - Advanced interventions:
   - Anal plugs, vaginal balloons: Conditional/Very Low — selected patients
-  - Injectable bulking agents (dextranomer, NASHA Dx): Conditional/Low — for conservative/biofeedback failures; 52% vs 31% ≥50% reduction in episodes (RCT)
-  - **Sacral nerve stimulation (SNS): Strong/Low** — moderate-severe FI failing conservative measures; 90% responder rate at 2-3 weeks temporary trial; 50% complete continence at 3 years; device complications include pain (28%), paresthesias (15%), infection (10%)
+  - Injectable bulking agents (dextranomer in stabilized hyaluronic acid [NASHA Dx]): Conditional/Low — for conservative/biofeedback failures; 52% vs 31% ≥50% reduction in episodes (RCT)
+  - **SNS: Strong/Low** — moderate-severe FI failing conservative measures; 90% responder rate at 2-3 weeks temporary trial; 50% complete continence at 3 years; device complications include pain (28%), paresthesias (15%), infection (10%)
   - Anal sphincteroplasty: Conditional/Low — for acute injuries to anal sphincter; short-term improvement 85%, deteriorates to 50% at 40–60 months
   - End stoma: Conditional/Low — for severe FI not responding to other treatments
   - Dynamic graciloplasty: NOT recommended — significant morbidity and mortality
@@ -138,14 +138,14 @@ The guideline numbers recommendations within each disorder (Tables 2, 7, 9, 12, 
 
 - Creates [[hemorrhoids]], [[anal-fissure]], [[fecal-incontinence]], [[defecation-disorders]], and [[proctalgia-syndromes]] disease scripts
 - Cross-references: [[anorectal-manometry]], [[biofeedback-therapy]], [[sacral-nerve-stimulation]] concept pages
-- Informs colorectal procedure pages for LIS, RBL, SNS
+- Informs colorectal procedure pages for LIS, rubber band ligation (RBL), SNS
 
 ## Contradictions / Open Questions
 
 - Biofeedback for levator syndrome: only one key RCT underpins this Strong recommendation — guideline acknowledges no independent replication in 10 years
 - LIS and incontinence risk: literature estimates 0–16% incontinence; guideline counsels using with caution when anal pressures not high
 - Stapled hemorrhoidectomy (STARR): guideline notes higher complications and recurrence; not widely used in US — avoid
-- SNS for FI: long-term device complications substantial (61% device-related AEs at 60 months in one study)
+- SNS for FI: long-term device complications substantial (61% device-related adverse events (AEs) at 60 months in one study)
 
 ## See Also
 

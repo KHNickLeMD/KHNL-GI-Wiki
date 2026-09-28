@@ -7,7 +7,7 @@ updated: 2026-09-03
 sources: [aga-2022-obesity-pharm, aga-2024-glp1-endoscopy]
 ---
 
-Drug **class** of incretin mimetics used for type 2 diabetes and chronic weight management, with two GI-relevant consequences: they are **anti-obesity medications (AOMs) an AGA guideline endorses**, and they **slow gastric emptying**, which drives their GI side effects and the periprocedural aspiration debate. For the agent-level detail on the most-used member, see **[[semaglutide]]**.
+Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are a drug **class** of incretin mimetics used for type 2 diabetes mellitus (T2DM) and chronic weight management, with two gastrointestinal (GI)-relevant consequences: they are **anti-obesity medications (AOMs) an American Gastroenterological Association (AGA) guideline endorses**, and they **slow gastric emptying**, which drives their GI side effects and the periprocedural aspiration debate. For the agent-level detail on the most-used member, see **[[semaglutide]]**.
 
 **Agents:** semaglutide, tirzepatide, exenatide, liraglutide, albiglutide, dulaglutide, lixisenatide ([[aga-2024-glp1-endoscopy]]).
 
@@ -44,7 +44,7 @@ Population for all statements: **adults with [[obesity]], or overweight with wei
 - **Semaglutide 2.4 mg may be prioritized over other approved AOMs** for long-term treatment of obesity in most patients, given the magnitude of net benefit.
 - Both agents have **glucoregulatory benefit** and are also approved for T2DM.
 - AOMs generally need to be used **chronically**; agent choice turns on comorbidities, patient preference, cost, and access.
-- Non-GLP-1 AOMs in the same guideline (phentermine-topiramate ER, naltrexone-bupropion ER, phentermine, diethylpropion) are all conditional suggestions; Gelesis100 hydrogel — **no recommendation** (use only in a trial).
+- Non-GLP-1 AOMs in the same guideline (phentermine-topiramate extended-release (ER), naltrexone-bupropion ER, phentermine, diethylpropion) are all conditional suggestions; Gelesis100 hydrogel — **no recommendation** (use only in a trial).
 
 ### Dosing and Titration
 
@@ -52,7 +52,7 @@ Population for all statements: **adults with [[obesity]], or overweight with wei
 
 | Agent | Route | Start | Escalation | Maintenance dose | Time to maintenance |
 |---|---|---|---|---|---|
-| [[semaglutide]] | SC weekly | **0.25 mg weekly × first 4 weeks** | **0.5 → 1.0 → 1.7 mg weekly**, 4 weeks at each dose | **2.4 mg weekly** | **16 weeks** |
+| [[semaglutide]] | Subcutaneous (SC) weekly | **0.25 mg weekly × first 4 weeks** | **0.5 → 1.0 → 1.7 mg weekly**, 4 weeks at each dose | **2.4 mg weekly** | **16 weeks** |
 | Liraglutide | SC daily | **0.6 mg daily × first 7 days** | **1.2 → 1.8 → 2.4 mg daily**, 7 days at each dose | **3.0 mg daily** | **4 weeks** |
 
 - **Adjust the schedule to the individual** — clinical judgment governs pace, based on response, tolerance, and adverse effects.
@@ -63,18 +63,18 @@ Population for all statements: **adults with [[obesity]], or overweight with wei
 
 **Co-prescribing cautions** ([[aga-2022-obesity-pharm]]):
 
-- **Do not combine** liraglutide or semaglutide with another GLP-1 RA or with a **DPP-4 inhibitor**.
+- **Do not combine** liraglutide or semaglutide with another GLP-1 RA or with a **dipeptidyl peptidase-4 (DPP-4) inhibitor**.
 - **Delayed gastric emptying may impair absorption of oral drugs that require rapid onset** — use caution.
 - **With insulin or an insulin secretagogue (e.g. sulfonylurea):** adjust doses as clinically indicated, counsel and monitor for **hypoglycemia**. Alone, GLP-1 RAs stimulate insulin **glucose-dependently** and carry very low hypoglycemia risk.
-- **Thyroid C-cell tumors** in rodents, dose- and duration-dependent (basis for the medullary thyroid cancer / MEN2 contraindication below).
+- **Thyroid C-cell tumors** in rodents, dose- and duration-dependent (basis for the medullary thyroid cancer / multiple endocrine neoplasia type 2 (MEN2) contraindication below).
 
 ### Magnitude of Weight Loss
 
-| Outcome (vs placebo) | Semaglutide 2.4 mg (8 RCTs, 52–72 wk) | Liraglutide 3.0 mg (11 RCTs, ≥52 wk) |
+| Outcome (vs placebo) | Semaglutide 2.4 mg (8 randomized controlled trials [RCTs], 52–72 wk) | Liraglutide 3.0 mg (11 RCTs, ≥52 wk) |
 |---|---|---|
-| Mean difference, % total body weight loss | **10.76%** (95% CI 8.73–12.80) | **4.81%** (95% CI 4.23–5.39) |
-| Mean weight loss (kg) | MD **10.81 kg** (8.19–13.43) | MD **−5.3 kg** (−5.9 to −4.7) |
-| ≥5% TBWL | 82.3% vs 30.6% (RR 2.74) | RR 2.09 (1.80–2.42) |
+| Mean difference, % total body weight loss | **10.76%** (95% confidence interval [CI] 8.73–12.80) | **4.81%** (95% CI 4.23–5.39) |
+| Mean weight loss (kg) | mean difference (MD) **10.81 kg** (8.19–13.43) | MD **−5.3 kg** (−5.9 to −4.7) |
+| ≥5% total body weight loss (TBWL) | 82.3% vs 30.6% (relative risk [RR] 2.74) | RR 2.09 (1.80–2.42) |
 | ≥10% TBWL | 64.9% vs 12.3% (RR 5.25) | RR 2.67 (2.14–3.34) |
 | ≥15% TBWL | 46.1% vs 5.4% (RR 7.82) | RR 3.04 (2.25–4.12) |
 
@@ -85,8 +85,8 @@ Population for all statements: **adults with [[obesity]], or overweight with wei
 ## GI and Other Adverse Effects
 
 - **Delayed gastric emptying** with [[nausea-and-vomiting|nausea and vomiting]] is a class effect; other GI effects include diarrhea and constipation ([[aga-2024-glp1-endoscopy]]).
-- **Increased risk of [[acute-pancreatitis|pancreatitis]] and gallbladder disease** is attributed to the class ([[aga-2022-obesity-pharm]]). Liraglutide FAERS data (~29,277 patients, 2015–2018): 40 cases of acute pancreatitis (<0.1%) and 17 symptomatic gallstones (<0.05%).
-- **Liraglutide** nausea **40%** and vomiting **16%** (vs 14.8% and 4.3% placebo); no significant excess of serious AEs (RR 1.22, 95% CI 1.00–1.50) but discontinuation for AEs was higher (RR 2.31, 1.85–2.88).
+- **Increased risk of [[acute-pancreatitis|pancreatitis]] and gallbladder disease** is attributed to the class ([[aga-2022-obesity-pharm]]). Liraglutide FDA Adverse Event Reporting System (FAERS) data (~29,277 patients, 2015–2018): 40 cases of acute pancreatitis (<0.1%) and 17 symptomatic gallstones (<0.05%).
+- **Liraglutide** nausea **40%** and vomiting **16%** (vs 14.8% and 4.3% placebo); no significant excess of serious adverse events (AEs) (RR 1.22, 95% CI 1.00–1.50) but discontinuation for AEs was higher (RR 2.31, 1.85–2.88).
 - **Semaglutide** 38% higher risk of serious AEs vs placebo (95% CI 1.10–1.73); discontinuation for AEs **6.4% vs 3.1%** (RR 2.10, 1.54–2.86). **Contraindicated** with personal/family history of **medullary thyroid cancer** or **MEN type 2** (animal data). Full agent-level safety and monitoring: [[semaglutide]].
 
 ---
@@ -95,7 +95,7 @@ Population for all statements: **adults with [[obesity]], or overweight with wei
 
 Slowed gastric emptying raises concern for retained gastric contents and aspiration under sedation. AGA advises an **individualized approach — not routine cessation** — and endorses the multisociety position that there are **no data supporting stopping GLP-1 RAs before elective endoscopy** ([[aga-2024-glp1-endoscopy]]).
 
-The full periprocedural algorithm (standard fast, symptom assessment, gastric ultrasound, rapid-sequence intubation, clear-liquid day before, and how it compares with the ASA consensus hold) lives on **[[endoscopy-sedation]]** — see that page rather than duplicating it here.
+The full periprocedural algorithm (standard fast, symptom assessment, gastric ultrasound, rapid-sequence intubation, clear-liquid day before, and how it compares with the American Society of Anesthesiologists (ASA) consensus hold) lives on **[[endoscopy-sedation]]** — see that page rather than duplicating it here.
 
 ---
 

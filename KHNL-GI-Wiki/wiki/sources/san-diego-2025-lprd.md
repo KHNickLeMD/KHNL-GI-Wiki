@@ -14,11 +14,11 @@ sources: []
 - **Year:** 2025
 - **Journal:** American Journal of Gastroenterology (Publish Ahead of Print)
 - **DOI:** [10.14309/ajg.0000000000003482](https://doi.org/10.14309/ajg.0000000000003482)
-- **Type:** International interdisciplinary consensus (RAND Appropriateness Method; ≥80% agreement threshold; not GRADE)
+- **Type:** International interdisciplinary consensus (RAND Appropriateness Method; ≥80% agreement threshold; not Grading of Recommendations Assessment, Development and Evaluation [GRADE])
 
 ## Summary
 
-The San Diego Consensus (SD-LPRD) addresses a long-standing clinical conundrum: the term "laryngopharyngeal reflux" (LPR) has been applied for decades to aerodigestive symptoms (cough, voice change, throat clearing, throat phlegm, throat pain) despite frequent absence of objective reflux evidence. Up to 60% of patients diagnosed with "LPR" have normal [[ambulatory-reflux-monitoring|ambulatory reflux monitoring]], and LPR accounts for up to 10% of ENT and GI visits with healthcare costs 5.4× higher than [[gerd|GERD]] — primarily from prolonged acid suppression trials and diagnostic uncertainty.
+The San Diego Consensus (SD-LPRD) addresses a long-standing clinical conundrum: the term "laryngopharyngeal reflux" (LPR) has been applied for decades to aerodigestive symptoms (cough, voice change, throat clearing, throat phlegm, throat pain) despite frequent absence of objective reflux evidence. Up to 60% of patients diagnosed with "LPR" have normal [[ambulatory-reflux-monitoring|ambulatory reflux monitoring]], and LPR accounts for up to 10% of laryngology (ENT) and gastroenterology (GI) visits with healthcare costs 5.4× higher than [[gerd|gastroesophageal reflux disease (GERD)]] — primarily from prolonged acid suppression trials and diagnostic uncertainty.
 
 The consensus draws a critical distinction between **[[laryngopharyngeal-symptoms|laryngopharyngeal symptoms]] (LPS)** — a symptomatic descriptor without mechanistic implication — and **laryngopharyngeal reflux disease (LPRD)** — a diagnosis requiring both LPS and objective evidence of GERD. This distinction drives the entire diagnostic and management framework.
 
@@ -44,9 +44,9 @@ The document is organized into six domains: definition/terminology, initial diag
 
 **LPS with concurrent esophageal reflux symptoms (heartburn, regurgitation, chest pain):**
 
-- Trial of PPI BID × 3 months ± alginate therapy + lifestyle modification
+- Trial of proton pump inhibitor (PPI) BID × 3 months ± alginate therapy + lifestyle modification
 - Lifestyle: weight loss, upright posture 2–3h post-meals, head of bed elevation, left lateral sleep position, avoid triggers
-- If unresponsive → [[upper-endoscopy|EGD]] + ambulatory reflux monitoring
+- If unresponsive → [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] + ambulatory reflux monitoring
 
 **Isolated LPS (no esophageal symptoms):**
 
@@ -55,8 +55,8 @@ The document is organized into six domains: definition/terminology, initial diag
 
 ### Upper GI Endoscopy
 
-- Conclusive GERD evidence on EGD: LA grade B, C, D esophagitis OR biopsy-proven [[barretts-esophagus|Barrett's esophagus]]
-- Hiatal hernia and disrupted EGJ serve as adjunctive evidence
+- Conclusive GERD evidence on EGD: Los Angeles (LA) grade B, C, D esophagitis OR biopsy-proven [[barretts-esophagus|Barrett's esophagus]]
+- Hiatal hernia and disrupted esophagogastric junction (EGJ) serve as adjunctive evidence
 - Up to 47% of LPS patients demonstrate erosive findings and/or hiatal hernia on EGD
 - Transnasal esophagoscopy (TNE) is comparably diagnostic for Barrett's and can serve as point-of-care screening but requires specialized training
 - Cervical inlet patch: associated with LPS and globus; ablation has reduced LPS in small series; panel could not reach agreement on routine evaluation/treatment (insufficient evidence)
@@ -66,9 +66,9 @@ The document is organized into six domains: definition/terminology, initial diag
 - **Reference standard for LPRD diagnosis** (when EGD is non-diagnostic)
 - Required before invasive anti-reflux management (endoscopic or surgical)
 - Perform OFF acid suppression in patients with unproven GERD
-- AET >6.0% = proven GERD; AET <4.0% = physiologic (especially on all 4 days of 96h wireless study)
+- Acid exposure time (AET) >6.0% = proven GERD; AET <4.0% = physiologic (especially on all 4 days of 96h wireless study)
 
-**24h pH-impedance (HEMII-pH):**
+**24h pH-impedance (hypopharyngeal-esophageal multichannel intraluminal impedance with dual pH [HEMII-pH]):**
 
 - Detects proximal and hypopharyngeal reflux events, including weakly-acidic and non-acidic reflux
 - Best for understanding reflux mechanism in isolated LPS
@@ -78,7 +78,7 @@ The document is organized into six domains: definition/terminology, initial diag
 
 - Captures day-to-day AET variability; superior diagnostic accuracy for pathologic GERD
 - AET <4.0% on all 4 days predicts 10× higher odds of stopping PPI
-- AET elevated on ≥2 days: OR 5.3 for predicting continued PPI need
+- AET elevated on ≥2 days: odds ratio (OR) 5.3 for predicting continued PPI need
 - Diagnostic yield of GERD in LPS: 50% on prolonged monitoring vs. 27% on 24h pH-impedance
 - Better tolerated than catheter-based monitoring; can place wireless capsule at time of EGD (cost-effective)
 - Limitation: no proximal/pharyngeal reflux data; no baseline impedance
@@ -88,13 +88,13 @@ The document is organized into six domains: definition/terminology, initial diag
 ### Laryngeal Hyperresponsiveness and Hypervigilance
 
 - Laryngeal hyperresponsiveness and hypervigilance commonly contribute to LPS — independent of whether LPRD is present
-- **Laryngeal Cognitive Affective Tool (LCAT):** validated PRO instrument to identify patients with symptom-specific anxiety/hypervigilance who benefit from behavioral intervention
-- **Laryngeal Recalibration Therapy (LRT):** structured SLP intervention combining voice therapy techniques, vagal biofeedback, and acceptance/commitment therapy
+- **Laryngeal Cognitive Affective Tool (LCAT):** validated patient-reported outcome (PRO) instrument to identify patients with symptom-specific anxiety/hypervigilance who benefit from behavioral intervention
+- **Laryngeal Recalibration Therapy (LRT):** structured speech-language pathologist (SLP) intervention combining voice therapy techniques, vagal biofeedback, and acceptance/commitment therapy
 - **Cognitive behavioral therapy (CBT):** targets cognitive, emotional, physiological, and behavioral processes; delivered by health psychologist (not generalist mental health); for incomplete response to LRT
 - **Neuromodulators:**
   - Gabapentin/pregabalin: best evidence for chronic cough via vagal hypersensitivity
-  - TCAs: caution — anticholinergic effects may worsen LPS
-  - SSRIs/SNRIs: consider with concomitant anxiety/depression
+  - Tricyclic antidepressants (TCAs): caution — anticholinergic effects may worsen LPS
+  - Selective serotonin reuptake inhibitors (SSRIs)/serotonin–norepinephrine reuptake inhibitors (SNRIs): consider with concomitant anxiety/depression
 
 ### PRO Instruments
 
@@ -135,7 +135,7 @@ The document is organized into six domains: definition/terminology, initial diag
 - Inlet patch: association with LPS and globus is recognized but no consensus on screening or treatment strategy
 - Specific hypopharyngeal reflux event thresholds on HEMII-pH (>80 esophageal, >10 pharyngeal) did not reach consensus — interpretation of these values remains unsettled
 - Role of PCABs (potassium-competitive acid blockers) in LPS not yet established
-- LRT efficacy data primarily from case series and non-RCT data; RCT validation needed
+- LRT efficacy data primarily from case series and non-randomized data; randomized controlled trial validation needed
 - Risk stratification tools (HAS-BEER, COuGH RefluX) require larger validation studies
 
 ## See Also

@@ -14,17 +14,17 @@ sources: []
 - **Year:** 2025 (received Sep 19 2024; accepted Nov 2 2024)
 - **Journal/Publisher:** Gastroenterology 2025;168:405–416
 - **DOI:** [10.1053/j.gastro.2024.11.001](https://doi.org/10.1053/j.gastro.2024.11.001)
-- **Type:** AGA Clinical Practice Update (CPU) — Expert Review. 15 Best Practice Advice statements. **No formal ratings** — best practice advice drawn from literature review and expert opinion; no systematic review, no GRADE strength/quality ratings.
+- **Type:** American Gastroenterological Association (AGA) Clinical Practice Update (CPU) — Expert Review. 15 Best Practice Advice (BPA) statements. **No formal ratings** — best practice advice drawn from literature review and expert opinion; no systematic review, no Grading of Recommendations Assessment, Development and Evaluation (GRADE) strength/quality ratings.
 
 ## Summary
 
-First US-focused best-practice framework for **who to screen and how to survey** for noncardia intestinal-type gastric cancer (GC) in individuals at increased risk. Scope: primary prevention (Helicobacter pylori eradication) + secondary prevention (endoscopic screening/surveillance of premalignant conditions — atrophic gastritis [AG], gastric intestinal metaplasia [GIM], dysplasia). **Cardia GC is explicitly out of scope** (mirrors distal esophageal/GEJ adenocarcinoma epidemiology). Hereditary diffuse gastric cancer is out of scope for the clinical pathway (Figure 1 footnote).
+First US-focused best-practice framework for **who to screen and how to survey** for noncardia intestinal-type gastric cancer (GC) in individuals at increased risk. Scope: primary prevention (Helicobacter pylori eradication) + secondary prevention (endoscopic screening/surveillance of premalignant conditions — atrophic gastritis [AG], gastric intestinal metaplasia [GIM], dysplasia). **Cardia GC is explicitly out of scope** (mirrors distal esophageal/gastroesophageal junction (GEJ) adenocarcinoma epidemiology). Hereditary diffuse gastric cancer is out of scope for the clinical pathway (Figure 1 footnote).
 
-Core framing: there are **no established US GC screening guidelines** and the evidence base is limited/indirect (mostly East Asian data), so guidance rests on epidemiology + expert opinion rather than direct RCT evidence. Endoscopy (not any noninvasive test) is the only currently acceptable screening modality in the US — simple age-based universal screening is not cost-effective. GC in the US is defined by **disparity**: >40% of the US population is non-White (2020 census); noncardia GC incidence is 2- to >10-fold higher in the 10 most populous non-White groups vs non-Hispanic White; Korean Americans ≥50 have up to 14.5-fold higher incidence; total GC incidence in Korean Americans (25.9/100,000) approaches combined colon+rectal incidence in non-Hispanic White Americans (29.8/100,000).
+Core framing: there are **no established US GC screening guidelines** and the evidence base is limited/indirect (mostly East Asian data), so guidance rests on epidemiology + expert opinion rather than direct randomized controlled trial (RCT) evidence. Endoscopy (not any noninvasive test) is the only currently acceptable screening modality in the US — simple age-based universal screening is not cost-effective. GC in the US is defined by **disparity**: >40% of the US population is non-White (2020 census); noncardia GC incidence is 2- to >10-fold higher in the 10 most populous non-White groups vs non-Hispanic White; Korean Americans ≥50 have up to 14.5-fold higher incidence; total GC incidence in Korean Americans (25.9/100,000) approaches combined colon+rectal incidence in non-Hispanic White Americans (29.8/100,000).
 
-US 5-year GC survival is a dismal 32% (<25% diagnosed early); contrast Japan/South Korea where programmatic screening drove early-stage diagnosis to 60%–70% and survival >70% overall (95%–99% for early GC). A meta-analysis of 10 Asian observational studies (342,013 individuals) found endoscopic screening associated with a **42% reduction in GC mortality** (RR 0.58; 95% CI 0.48–0.70).
+US 5-year GC survival is a dismal 32% (<25% diagnosed early); contrast Japan/South Korea where programmatic screening drove early-stage diagnosis to 60%–70% and survival >70% overall (95%–99% for early GC). A meta-analysis of 10 Asian observational studies (342,013 individuals) found endoscopic screening associated with a **42% reduction in GC mortality** (relative risk [RR] 0.58; 95% confidence interval [CI] 0.48–0.70).
 
-**Age of screening initiation:** not clearly established; **45 years may be an optimal age** — aligns with average-risk CRC screening initiation (allowing EGD at time of screening colonoscopy) and mirrors screening-eligible age in high-risk countries (South Korea ≥40, Japan 40–50). Individualize earlier for first-degree family history of GC (start 10 years earlier than youngest affected relative) and for hereditary syndromes.
+**Age of screening initiation:** not clearly established; **45 years may be an optimal age** — aligns with average-risk colorectal cancer (CRC) screening initiation (allowing esophagogastroduodenoscopy [EGD] at time of screening colonoscopy) and mirrors screening-eligible age in high-risk countries (South Korea ≥40, Japan 40–50). Individualize earlier for first-degree family history of GC (start 10 years earlier than youngest affected relative) and for hereditary syndromes.
 
 ## Key Findings / Claims
 
@@ -48,7 +48,7 @@ US 5-year GC survival is a dismal 32% (<25% diagnosed early); contrast Japan/Sou
 
 9. **BEST PRACTICE ADVICE 9:** Endoscopists should ensure that all individuals with confirmed gastric atrophy with or without GIM undergo risk stratification. Individuals with severe atrophic gastritis and/or multifocal/incomplete GIM are likely to benefit from endoscopic surveillance, particularly if they have other risk factors for GC (eg, family history). Endoscopic surveillance should be considered every 3 years; however, intervals are not well defined and shorter intervals may be advisable in those with multiple risk factors, such as severe GIM that is anatomically extensive.
 
-10. **BEST PRACTICE ADVICE 10:** Indefinite and low-grade dysplasia (LGD) can be difficult to reproducibly identify by endoscopy and accurately diagnose on histopathology. Accordingly, all dysplasia should be confirmed by an experienced GI pathologist, and clinicians should refer patients with visible or nonvisible dysplasia to an endoscopist or center with expertise in the diagnosis and management of gastric neoplasia. Individuals with indefinite or LGD who are infected with H pylori should be treated and have eradication confirmed, followed by repeat endoscopy and biopsies by an experienced endoscopist, as visual and histologic discernment may improve once inflammation subsides.
+10. **BEST PRACTICE ADVICE 10:** Indefinite and low-grade dysplasia (LGD) can be difficult to reproducibly identify by endoscopy and accurately diagnose on histopathology. Accordingly, all dysplasia should be confirmed by an experienced GI [gastrointestinal] pathologist, and clinicians should refer patients with visible or nonvisible dysplasia to an endoscopist or center with expertise in the diagnosis and management of gastric neoplasia. Individuals with indefinite or LGD who are infected with H pylori should be treated and have eradication confirmed, followed by repeat endoscopy and biopsies by an experienced endoscopist, as visual and histologic discernment may improve once inflammation subsides.
 
 11. **BEST PRACTICE ADVICE 11:** Individuals with suspected high-grade dysplasia (HGD) or early GC should undergo endoscopic submucosal dissection with the goal of en bloc, R0 resection to enable accurate pathologic staging with curative intent. Eradication of active H pylori infection is essential, but should not delay endoscopic intervention. Endoscopic submucosal dissection should be performed at a center with endoscopic and pathologic expertise.
 
@@ -68,20 +68,20 @@ US 5-year GC survival is a dismal 32% (<25% diagnosed early); contrast Japan/Sou
 | Absence of AG, GIM, or neoplasia — WITHOUT those factors | Further EGDs for GC screening **not advised** |
 | Mild AG and/or focal, complete-type GIM | Same branch as above (screen q3–5y if family history / persistent H pylori; otherwise not advised) |
 | Moderate to severe AG and/or multifocal or incomplete-type GIM (particularly if other GC risk factors exist) | Surveillance EGD every **3 years** (more frequent could be considered if multiple other GC risk factors present) |
-| Visible or nonvisible dysplasia / early GC (EGC) | Confirmation by GI pathologist + referral to center with endoscopic/pathologic expertise (ESD). IND/LGD → repeat EGD in **6 months**; HGD/EGC → repeat EGD **as soon as possible** |
+| Visible or nonvisible dysplasia / early GC (EGC) | Confirmation by GI pathologist + referral to center with endoscopic/pathologic expertise (endoscopic submucosal dissection [ESD]). Indefinite for dysplasia (IND)/LGD → repeat EGD in **6 months**; HGD/EGC → repeat EGD **as soon as possible** |
 
 **After second-look confirms residual NONvisible dysplasia (then surveillance EGD):**
 
 | Finding | Interval |
 |---|---|
-| IND (indefinite for dysplasia) | EGD in **1 year** (12 months) |
+|| IND || EGD in **1 year** (12 months) |
 | LGD | EGD in **6–12 months** |
 | HGD | EGD in **3 months** |
 | Nonvisible GC | Multidisciplinary discussion; **consider surgery** |
 
-- If dysplasia or EGC is endoscopically visualized → **en bloc endoscopic resection** (typically ESD; in select scenarios — lesions <1 cm or confirmed IND histology — EMR may be considered). Refer to AGA CPU on ESD for post-curative-ESD surveillance intervals.
+- If dysplasia or EGC is endoscopically visualized → **en bloc endoscopic resection** (typically ESD; in select scenarios — lesions <1 cm or confirmed IND histology — endoscopic mucosal resection [EMR] may be considered). Refer to AGA CPU on ESD for post-curative-ESD surveillance intervals.
 
-**Second-look ("rescue") endoscopy for nonvisible dysplasia (text):** IEE second-look (virtual/dye chromoendoscopy) detects focal neoplasia in ~90% of patients. Nonvisible IND/LGD → repeat high-quality EGD with IEE within **6 months** (ideally after H pylori eradicated). Nonvisible HGD → second-look **as soon as possible** (high risk of synchronous cancer). If second-look again confirms nonvisible dysplasia → repeat in **3 months (HGD), 6–12 months (LGD), 12 months (IND)**.
+**Second-look ("rescue") endoscopy for nonvisible dysplasia (text):** Image-enhanced endoscopy (IEE) second-look (virtual/dye chromoendoscopy) detects focal neoplasia in ~90% of patients. Nonvisible IND/LGD → repeat high-quality EGD with IEE within **6 months** (ideally after H pylori eradicated). Nonvisible HGD → second-look **as soon as possible** (high risk of synchronous cancer). If second-look again confirms nonvisible dysplasia → repeat in **3 months (HGD), 6–12 months (LGD), 12 months (IND)**.
 
 **High-risk groups / risk factors (Table 1 — personalized screening among individuals ≥45):**
 
@@ -94,39 +94,39 @@ US 5-year GC survival is a dismal 32% (<25% diagnosed early); contrast Japan/Sou
 **H pylori (primary prevention):**
 
 - Most common infectious carcinogen worldwide; responsible for ~90% of global GC burden
-- Non-US RCT meta-analysis: eradication → **46% reduction in GC incidence** (RR 0.54; NNT 72) and **39% reduction in GC mortality** (RR 0.61; NNT 135)
+- Non-US RCT meta-analysis: eradication → **46% reduction in GC incidence** (RR 0.54; number needed to treat [NNT] 72) and **39% reduction in GC mortality** (RR 0.61; NNT 135)
 - **All adults** diagnosed with H pylori warrant eradication, irrespective of symptoms, barring contraindications/limited life expectancy. Confirm eradication in all people ≥4 weeks after treatment course.
-- **Familial-based testing:** whole-family test-and-treat had 3-fold higher eradication success (OR 2.93) and ~70% lower recurrence (OR 0.3) vs single-patient treatment
+- **Familial-based testing:** whole-family test-and-treat had 3-fold higher eradication success (odds ratio [OR] 2.93) and ~70% lower recurrence (OR 0.3) vs single-patient treatment
 - Taipei Global Consensus suggests screening H pylori between ages 20 and 40 for primary GC prevention (optimal age for diverse US population not established)
 - H pylori eradication is an adjunct, not stand-alone — individuals with more advanced histologic changes remain at neoplastic risk even after eradication and should still be considered for endoscopic screening/surveillance
 
 **High-quality endoscopy specifics (BPA 3 text):**
 
 - Endoscopic miss rate for early GC is consistently ~10%, higher among inexperienced endoscopists
-- Components: HD white-light + image enhancement (e.g., narrow-band imaging, linked color imaging), mucosal cleansing, insufflation for complete visualization, adequate inspection time, photodocumentation, systematic biopsy protocol when appropriate
+- Components: high-definition white-light + image enhancement (e.g., narrow-band imaging [NBI], linked color imaging [LCI]), mucosal cleansing, insufflation for complete visualization, adequate inspection time, photodocumentation, systematic biopsy protocol when appropriate
 - NBI/LCI without magnification: sensitivity/specificity for GIM exceeding 85%–90%
 
 **Biopsy protocol (BPA 5 text):** Updated Sydney System — minimum 5 total biopsies; antrum/incisura and corpus in ≥2 separately labeled jars; suspicious areas described and biopsied separately.
 
 **Type I gastric carcinoids / NETs (BPA 13 text):**
 
-- Type I gNETs account for 70%–80% of all gNETs; typically small (<1 cm), benign, low mitotic/Ki67 indices; arise in corpus atrophy → hypergastrinemia (parietal cell loss–mediated achlorhydria)
+- Type I gastric neuroendocrine tumors (gNETs) account for 70%–80% of all gNETs; typically small (<1 cm), benign, low mitotic/Ki67 indices; arise in corpus atrophy → hypergastrinemia (parietal cell loss–mediated achlorhydria)
 - Serum gastrin (elevated vs normal), surrounding mucosa histology, anatomic location, and focality determine type (I/II/III)
-- <1 cm: may consider resecting. 1–2 cm: endoscopically resect (by endoscopist with resection expertise; EUS for larger). >2 cm or unfavorable histology (WHO grade ≥II): risk of metastasis → EUS + cross-sectional imaging + multidisciplinary tumor board; surgical resection if submucosa/LN invasion. Type II (Zollinger-Ellison) and type III gNETs out of scope.
+- <1 cm: may consider resecting. 1–2 cm: endoscopically resect (by endoscopist with resection expertise; endoscopic ultrasound [EUS] for larger). >2 cm or unfavorable histology (World Health Organization [WHO] grade ≥II): risk of metastasis → EUS + cross-sectional imaging + multidisciplinary tumor board; surgical resection if submucosa/lymph node invasion. Type II (Zollinger-Ellison) and type III gNETs out of scope.
 
 ## Relevance to Wiki
 
 - Creates the new concept page [[gastric-cancer-screening]] — the who/how/when framework for GC screening & surveillance, tying together AG, GIM, and dysplasia intervals.
 - Third major US guidance on this Correa-cascade cluster alongside [[aga-2020-gastric-intestinal-metaplasia]], [[aga-2021-atrophic-gastritis]], and [[acg-2025-gastric-premalignant]] — this CPU is the **screening/case-finding** framework (who enters surveillance at all), whereas the others focus on managing an established lesion.
 - Directly relevant to [[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[helicobacter-pylori-infection]], [[gastric-adenocarcinoma]], and [[upper-endoscopy]].
-- Notable **shift vs AGA 2020 GIM:** AGA 2020 recommended *against* routine GIM surveillance (favoring shared decision-making); this 2025 CPU explicitly endorses surveillance q3y for individuals with confirmed AG/GIM who are risk-stratified as high-risk (severe AG and/or multifocal/incomplete GIM), aligning AGA more closely with ACG 2025 GPMC and ESGE.
+- Notable **shift vs AGA 2020 GIM:** AGA 2020 recommended *against* routine GIM surveillance (favoring shared decision-making); this 2025 CPU explicitly endorses surveillance q3y for individuals with confirmed AG/GIM who are risk-stratified as high-risk (severe AG and/or multifocal/incomplete GIM), aligning AGA more closely with American College of Gastroenterology (ACG) 2025 gastric premalignant conditions (GPMC) guidance and the European Society of Gastrointestinal Endoscopy (ESGE).
 
 ## Contradictions / Open Questions
 
 - **No formal ratings** — best practice advice only; no GRADE strength/quality. Evidence is largely indirect (East Asian observational/RCT data extrapolated to the diverse US population).
 - **Optimal screening initiation age not established** for the diverse US population (45 proposed but not evidence-established); optimal H pylori screening age for US likewise unknown.
 - **Intervals "not well defined"** is a recurring caveat: screening intervals when index EGD is normal but risk factors present (BPA 8); surveillance <3y for multiple risk factors / extensive severe GIM (BPA 9); post-resection surveillance (BPA 12); type I carcinoid surveillance (BPA 13) — all stated as not well defined.
-- **AI tools** for early gastric neoplasia detection: promising but data too preliminary for routine use (BPA 6).
+- **Artificial intelligence (AI) tools** for early gastric neoplasia detection: promising but data too preliminary for routine use (BPA 6).
 - **Biennial EGD** (South Korea/Japan population strategy) is being re-evaluated in the context of declining H pylori prevalence; a risk-stratified approach is now favored over uniform biennial screening.
 - **Convergence vs prior AGA 2020 GIM stance** on surveillance (see Relevance) — this CPU moves AGA toward endorsing risk-stratified surveillance of GIM/GPMC.
 

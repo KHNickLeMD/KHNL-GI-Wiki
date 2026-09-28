@@ -17,11 +17,11 @@ sources: [acg-2020-ibs, aga-2022-ibs-d]
 - [[#Sources]]
 
 ## Class / Mechanism
-- Selective **5-HT3 receptor antagonist**.
-- Mechanism believed to be **both centrally and peripherally mediated** ([[aga-2022-ibs-d|AGA 2022]]).
+- Selective **5-hydroxytryptamine type 3 (5-HT3) receptor antagonist**.
+- Mechanism believed to be **both centrally and peripherally mediated** ([[aga-2022-ibs-d|American Gastroenterological Association (AGA) 2022]]).
 
 ## Indication & Population Restriction
-- **Women with severe [[irritable-bowel-syndrome|IBS-D]]** who have **not responded to conventional therapy** ([[acg-2020-ibs|ACG 2020]], Conditional/Low; [[aga-2022-ibs-d|AGA 2022]], Conditional, moderate certainty).
+- **Women with severe [[irritable-bowel-syndrome|diarrhea-predominant irritable bowel syndrome (IBS-D)]]** who have **not responded to conventional therapy** ([[acg-2020-ibs|American College of Gastroenterology (ACG) 2020]], Conditional/Low; [[aga-2022-ibs-d|AGA 2022]], Conditional, moderate certainty).
 - **"Severe" defined as ≥1 of** (AGA 2022):
   - Frequent and severe abdominal pain/discomfort
   - Frequent bowel urgency or [[fecal-incontinence|fecal incontinence]]
@@ -39,20 +39,20 @@ Per [[aga-2022-ibs-d|AGA 2022]]:
 | If constipation occurs | Stop until symptoms resolve; may restart at **0.5 mg once daily** |
 | If constipation recurs at lower dose | **Discontinue** |
 | If symptoms uncontrolled after 4 weeks | May increase to **1 mg twice daily** |
-| If symptoms persist after 4 weeks at 1 mg BID | **Discontinue** |
+| If symptoms persist after 4 weeks at 1 mg twice daily (BID) | **Discontinue** |
 
 ## Efficacy
-- Evidence: **8 RCTs, 4227 patients** (alosetron n=2517; placebo n=1710); seven 12-week trials + one 48-week trial ([[aga-2022-ibs-d|AGA 2022]]).
+- Evidence: **8 randomized controlled trials (RCTs), 4227 patients** (alosetron n=2517; placebo n=1710); seven 12-week trials + one 48-week trial ([[aga-2022-ibs-d|AGA 2022]]).
 - Superior to placebo for:
 
-| Outcome | Relative Risk (95% CI) |
+| Outcome | Relative Risk (RR; 95% confidence interval [CI]) |
 |---|---|
 | Global symptom improvement | RR 0.60 (0.54–0.67) |
 | IBS pain and discomfort | RR 0.83 (0.79–0.88) |
 
 > **Reading the direction:** [[aga-2022-ibs-d|AGA 2022]] states alosetron "was superior to placebo in improving global symptoms" with these risk ratios — i.e. **RR <1 favors alosetron** (the pooled outcome is non-response). Do not read RR 0.60 as reduced improvement.
 
-- Also improved **urgency, stool consistency, and IBS-QOL** (individual studies).
+- Also improved **urgency, stool consistency, and IBS quality of life (IBS-QOL)** (individual studies).
 - Overall certainty in evidence: **moderate** (AGA 2022).
 
 ## Safety / REMS

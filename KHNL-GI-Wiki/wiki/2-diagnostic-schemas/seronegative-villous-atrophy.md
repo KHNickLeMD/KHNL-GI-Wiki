@@ -7,7 +7,7 @@ updated: 2026-09-23
 sources: [aga-2021-seronegative-enteropathies, aga-2022-refractory-celiac, aga-2019-celiac-monitoring, acg-2022-celiac]
 ---
 
-Villous atrophy on duodenal or jejunal biopsy **with negative celiac serology** (tTG, DGP, and EMA all negative). A histologic finding, not a diagnosis — it carries a wide differential across immune-mediated, infectious, iatrogenic, and inflammatory causes, and distinct, highly effective therapy exists for many of them. Prognosis is **poor compared with classic [[celiac-disease|celiac disease]]**, so the point of the workup is to name the cause rather than default to a gluten-free diet.
+Villous atrophy on duodenal or jejunal biopsy **with negative celiac serology** (tissue transglutaminase [tTG], deamidated gliadin peptide [DGP], and endomysial antibody [EMA] all negative). A histologic finding, not a diagnosis — it carries a wide differential across immune-mediated, infectious, iatrogenic, and inflammatory causes, and distinct, highly effective therapy exists for many of them. Prognosis is **poor compared with classic [[celiac-disease|celiac disease]]**, so the point of the workup is to name the cause rather than default to a gluten-free diet.
 
 ## Contents
 - [[#Definition / Scope]]
@@ -29,11 +29,11 @@ Villous atrophy on duodenal or jejunal biopsy **with negative celiac serology** 
 
 ## Definition / Scope
 
-| Term | Definition ([[aga-2021-seronegative-enteropathies\|AGA 2021]]) |
+| Term | Definition ([[aga-2021-seronegative-enteropathies\|American Gastroenterological Association (AGA) 2021]]) |
 |---|---|
 | **Seronegative enteropathy** | Some degree of villous atrophy **and** negative tTG, DGP, and anti-EMA |
-| **Seronegative celiac disease** | With or without GI signs/symptoms, **villous atrophy + compatible HLA genetics**, **negative** IgA/IgG tTG, IgA/IgG DGP and IgA/IgG EMA, **clinical and histologic response to a gluten-free diet (GFD)**, other etiologies examined |
-| **CeD with selective IgA deficiency** | Total IgA below the lower limit of detection **plus** positive IgG tTG, IgG DGP, or EMA, with villous atrophy — the IgA-based tests are *falsely* negative. **Not** seronegative disease |
+| **Seronegative celiac disease** | With or without gastrointestinal (GI) signs/symptoms, **villous atrophy + compatible human leukocyte antigen (HLA) genetics**, **negative** immunoglobulin A (IgA)/immunoglobulin G (IgG) tTG, IgA/IgG DGP and IgA/IgG EMA, **clinical and histologic response to a gluten-free diet (GFD)**, other etiologies examined |
+| **Celiac disease (CeD) with selective IgA deficiency** | Total IgA below the lower limit of detection **plus** positive IgG tTG, IgG DGP, or EMA, with villous atrophy — the IgA-based tests are *falsely* negative. **Not** seronegative disease |
 | **Idiopathic ("unspecified") villous atrophy** | Sprue-like histology with no etiology identified after a complete workup |
 
 - **Villous atrophy must be present.** Increased intraepithelial lymphocytes (IELs) with normal villi alone does **not** qualify as seronegative CeD or as a seronegative enteropathy.
@@ -49,7 +49,7 @@ Villous atrophy on duodenal or jejunal biopsy **with negative celiac serology** 
 | Category | Etiologies |
 |---|---|
 | **Immune-mediated** | Seronegative CeD · common variable immune deficiency (CVID) · autoimmune enteropathy · intestinal lymphoma · sarcoidosis |
-| **Infectious** | Parasitic infection (*[[giardiasis\|Giardia lamblia]]*) · tropical sprue / environmental enteropathy · Whipple disease · [[small-intestinal-bacterial-overgrowth\|small intestinal bacterial overgrowth]] · tuberculosis · [[hiv-aids-related-diarrhea\|HIV enteropathy]] |
+| **Infectious** | Parasitic infection (*[[giardiasis\|Giardia lamblia]]*) · tropical sprue / environmental enteropathy · Whipple disease · [[small-intestinal-bacterial-overgrowth\|small intestinal bacterial overgrowth (SIBO)]] · tuberculosis · [[hiv-aids-related-diarrhea\|human immunodeficiency virus (HIV) enteropathy]] |
 | **Iatrogenic** | **Medications** — olmesartan, [[thiopurines\|azathioprine]], mefenamic acid, methotrexate, mycophenolate mofetil · chemotherapy · graft-vs-host disease · radiation enteritis · transplanted small intestine |
 | **Inflammatory** | [[crohns-disease\|Crohn's disease]] · collagenous sprue · eosinophilic enteritis |
 
@@ -59,18 +59,18 @@ Villous atrophy on duodenal or jejunal biopsy **with negative celiac serology** 
 
 | Condition | Pertinent history | Histology | Other tests | Treatment |
 |---|---|---|---|---|
-| [[giardiasis\|Giardiasis]] | Diarrhea, abdominal pain, weight loss | Trophozoites identified on villi | PCR from duodenal aspirate; positive stool specific immunoassay | Metronidazole |
+| [[giardiasis\|Giardiasis]] | Diarrhea, abdominal pain, weight loss | Trophozoites identified on villi | Polymerase chain reaction (PCR) from duodenal aspirate; positive stool specific immunoassay | Metronidazole |
 | Tropical sprue | Travel to endemic areas; vitamin B12 and folate deficiency | Increased plasma cells and eosinophils in lamina propria; changes in duodenum, jejunum and ileum | — | Tetracycline **or** doxycycline **+** folic acid |
 | Collagenous sprue | Diarrhea, abdominal pain, weight loss | **Subepithelial collagen deposition** | — | GFD ± immunosuppression (budesonide, prednisone, azathioprine) |
-| CVID | Onset **after age 2 y**, poor response to vaccines, recurrent infections, persistent diarrhea | **Absence of plasma cells**, polymorphonuclear infiltrate | **IgG <5 g/L** + low IgA or IgM | Budesonide |
+| CVID | Onset **after age 2 y**, poor response to vaccines, recurrent infections, persistent diarrhea | **Absence of plasma cells**, polymorphonuclear infiltrate | **IgG <5 g/L** + low IgA or immunoglobulin M (IgM) | Budesonide |
 | Autoimmune enteropathy | Intractable diarrhea and weight loss | Few IELs, lymphoplasmacytic infiltrate in lamina propria, **decreased goblet cells**, neutrophilic cryptitis | Anti-enterocyte antibody | Immunosuppression (steroids, azathioprine, infliximab) |
-| Intestinal lymphoma | Diarrhea, abdominal pain, fever, weight loss, bleeding, signs of obstruction or perforation | **Monoclonal population of T cells** | Inflammatory markers, CT, [[capsule-endoscopy\|capsule endoscopy]], PET | Hematology consultation |
+| Intestinal lymphoma | Diarrhea, abdominal pain, fever, weight loss, bleeding, signs of obstruction or perforation | **Monoclonal population of T cells** | Inflammatory markers, computed tomography (CT), [[capsule-endoscopy\|capsule endoscopy]], positron emission tomography (PET) | Hematology consultation |
 | [[small-intestinal-bacterial-overgrowth\|SIBO]] | Anatomical abnormalities, poor motility, other predisposing conditions | Increased IELs and neutrophils, increased plasma cells in lamina propria | H₂-glucose breath test, duodenal aspirate | Antibiotics |
-| [[crohns-disease\|Crohn's disease]] | Bloody diarrhea, fever, weight loss | Aphthous ulceration, skip lesions, **granulomas** | Elevated ESR, CRP | Immunosuppression, biologic agents |
+| [[crohns-disease\|Crohn's disease]] | Bloody diarrhea, fever, weight loss | Aphthous ulceration, skip lesions, **granulomas** | Elevated erythrocyte sedimentation rate (ESR), C-reactive protein (CRP) | Immunosuppression, biologic agents |
 | Eosinophilic gastroenteritis | Multiple allergies, atopy | Massive eosinophilic infiltration | Peripheral hypereosinophilia | Dietary therapy, glucocorticoids |
 | [[hiv-aids-related-diarrhea\|HIV enteropathy]] | Presence of opportunistic infections | Decreased CD4⁺ T lymphocytes, increase in CD8⁺ T lymphocytes | HIV antibody test | Antiretroviral therapy |
 | Tuberculosis | Cough, [[ascites\|ascites]], night sweats | Granulomatous disease | Interferon-gamma release assay, CT, ascitic fluid analysis | Anti-tuberculous therapy |
-| Whipple disease | Joint inflammation, hyperpigmentation of sun-exposed skin | **PAS⁺ macrophagic infiltration** of the lamina propria | Positive PCR for *Tropheryma whipplei* | Ceftriaxone or penicillin G, then TMP-SMX, hydroxychloroquine and doxycycline |
+| Whipple disease | Joint inflammation, hyperpigmentation of sun-exposed skin | **Periodic acid–Schiff (PAS)⁺ macrophagic infiltration** of the lamina propria | Positive PCR for *Tropheryma whipplei* | Ceftriaxone or penicillin G, then trimethoprim-sulfamethoxazole (TMP-SMX), hydroxychloroquine and doxycycline |
 | Radiation enteropathy | History of radiotherapy | Lamina propria fibrosis | — | — |
 | Graft-vs-host disease | Diarrhea, abdominal pain, nausea, vomiting, anorexia; prior bone marrow transplantation | Crypt cell necrosis, loss of epithelium | — | Prednisone or budesonide |
 
@@ -112,7 +112,7 @@ flowchart TD
 1. **Confirm the histology** with a pathologist who specializes in gastroenterology — that atrophy is genuinely present and the biopsies are **optimally oriented**. Have previous biopsies re-reviewed alongside the current ones to judge progression or improvement.
 2. **Complete the serologic panel**, including IgG isotypes if IgA-deficient.
 3. **Review the diet** — confirm gluten exposure at the time of testing, since reduction limits the accuracy of both serology and histology.
-4. **Take a detailed medication and travel history** — specifically angiotensin II receptor blockers such as olmesartan, and travel that would raise tropical sprue or *Giardia*.
+4. **Take a detailed medication and travel history** — specifically angiotensin II receptor blockers (ARBs) such as olmesartan, and travel that would raise tropical sprue or *Giardia*.
 5. **HLA-DQ2/DQ8 as the rule-out test** when no alternative etiology is suggested.
 6. **HLA-compatible → empiric GFD, then re-scope at 1–3 years** to document histologic improvement; that response is what retrospectively confirms seronegative CeD.
 
@@ -122,7 +122,7 @@ flowchart TD
 
 ### Histology
 
-- [[upper-endoscopy|EGD]] with **duodenal- and/or jejunal-oriented biopsies** showing villous atrophy is required.
+- [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] with **duodenal- and/or jejunal-oriented biopsies** showing villous atrophy is required.
 - **Total of 4–6 specimens** from the **second portion of the duodenum and the duodenal bulb**.
 - Read by an **experienced GI pathologist**. The **Corazza–Villanacci classification** should be considered for describing the findings; [[aga-2021-seronegative-enteropathies|AGA 2021]] names it without printing its grades, so the grade assignment cannot be made from this document alone.
 - **tTG-specific, gluten-dependent mucosal deposits** have been described but are **not available for clinical use**.
@@ -180,7 +180,7 @@ flowchart TD
 
 **Where the sources differ:**
 
-- **Biopsy count.** [[aga-2021-seronegative-enteropathies|AGA 2021]] asks for a **total of 4–6 specimens** from the second portion of the duodenum and the bulb; the newer [[acg-2022-celiac|ACG 2022]] guideline asks for **1–2 bulb specimens plus ≥4 postbulbar specimens (≥6 total)** in separately labeled jars. [[celiac-disease]] follows the ACG figure; when atrophy is already present and the question is its cause, 4–6 oriented specimens from both sites is the operative minimum.
+- **Biopsy count.** [[aga-2021-seronegative-enteropathies|AGA 2021]] asks for a **total of 4–6 specimens** from the second portion of the duodenum and the bulb; the newer [[acg-2022-celiac|American College of Gastroenterology (ACG) 2022]] guideline asks for **1–2 bulb specimens plus ≥4 postbulbar specimens (≥6 total)** in separately labeled jars. [[celiac-disease]] follows the ACG figure; when atrophy is already present and the question is its cause, 4–6 oriented specimens from both sites is the operative minimum.
 - **Budesonide taper.** [[aga-2021-seronegative-enteropathies|AGA 2021]] gives a **9-month slow taper** from 9 mg daily. The newer [[aga-2022-refractory-celiac|AGA 2022]] refractory-celiac update states that initial doses and taper recommendations for steroids have not been examined rigorously and supplies no schedule — the 9-month period is the only taper duration either document names.
 
 ---

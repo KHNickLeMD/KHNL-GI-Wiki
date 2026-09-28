@@ -16,13 +16,13 @@ sources: []
 - **Year:** 2022
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
 - **DOI:** [10.1053/j.gastro.2022.04.017](https://doi.org/10.1053/j.gastro.2022.04.017)
-- **Type:** GRADE-based guideline
+- **Type:** Grading of Recommendations Assessment, Development and Evaluation (GRADE)-based guideline
 
 ---
 
 ## Summary
 
-This guideline ranks drug therapy for diarrhea-predominant [[irritable-bowel-syndrome]] (IBS-D). All recommendations are conditional.
+This American Gastroenterological Association (AGA) guideline ranks drug therapy for [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]] with diarrhea (IBS-D). All recommendations are conditional.
 
 ---
 
@@ -37,15 +37,15 @@ Executive Summary of Recommendations (verbatim). *For all recommendation stateme
 | 2b | In patients with IBS-D with initial response to rifaximin who develop recurrent symptoms, the AGA suggests retreatment with rifaximin | Conditional | Moderate |
 | 3 | In patients with IBS-D, the AGA suggests using [[alosetron]] | Conditional | Moderate |
 | 4 | In patients with IBS-D, the AGA suggests using [[loperamide]] | Conditional | Very low |
-| 5 | In patients with IBS, the AGA suggests using TCAs | Conditional | Low |
-| 6 | In patients with IBS, the AGA suggests **against** using SSRIs | Conditional | Low |
+| 5 | In patients with IBS, the AGA suggests using TCAs [tricyclic antidepressants] | Conditional | Low |
+| 6 | In patients with IBS, the AGA suggests **against** using SSRIs [selective serotonin reuptake inhibitors] | Conditional | Low |
 | 7 | In patients with IBS, the AGA suggests using antispasmodics | Conditional | Low |
 
 ---
 
 ## Clinical Relevance
 
-[[rifaximin]] (with retreatment), eluxadoline, and alosetron are the disease-modifying options for IBS-D, layered with loperamide for symptom control and TCAs for pain. Mirrors the IBS-C guideline within the [[disorders-of-gut-brain-interaction]] framework.
+[[rifaximin]] (with retreatment), eluxadoline, and alosetron are the disease-modifying options for IBS-D, layered with loperamide for symptom control and TCAs for pain. Mirrors the IBS with constipation (IBS-C) guideline within the [[disorders-of-gut-brain-interaction]] framework.
 
 ---
 

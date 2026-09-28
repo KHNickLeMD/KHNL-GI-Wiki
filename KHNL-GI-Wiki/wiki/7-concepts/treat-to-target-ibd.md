@@ -7,7 +7,7 @@ updated: 2026-09-18
 sources: [ioibd-2021-stride-ii]
 ---
 
-Treat-to-target framework for [[crohns-disease|Crohn's disease]] and [[ulcerative-colitis]] from the IOIBD STRIDE-II consensus: treat to defined objective targets, re-assess at a defined time, and change treatment when the target is not reached. Written for **clinical practice, not the trial setting**; adapt to the individual patient and local resources.
+Treat-to-target framework for [[crohns-disease|Crohn's disease (CD)]] and [[ulcerative-colitis|ulcerative colitis (UC)]] from the International Organization for the Study of Inflammatory Bowel Disease (IOIBD) Selecting Therapeutic Targets in Inflammatory Bowel Disease (STRIDE)-II consensus: treat to defined objective targets, re-assess at a defined time, and change treatment when the target is not reached. Written for **clinical practice, not the trial setting**; adapt to the individual patient and local resources.
 
 ---
 
@@ -30,10 +30,10 @@ Treat-to-target framework for [[crohns-disease|Crohn's disease]] and [[ulcerativ
 
 ```mermaid
 flowchart LR
-    A["Active IBD"] -->|"Therapy according to risk"| B["Symptomatic response<br/>(short-term)"]
-    B --> C["Symptomatic remission +<br/>normalization of CRP<br/>(short-term)"]
+    A["Active inflammatory bowel disease (IBD)"] -->|"Therapy according to risk"| B["Symptomatic response<br/>(short-term)"]
+    B --> C["Symptomatic remission +<br/>normalization of C-reactive protein (CRP)<br/>(short-term)"]
     C --> D["Decrease in calprotectin to<br/>acceptable range;<br/>normal growth in children<br/>(intermediate)"]
-    D --> E["Endoscopic healing,<br/>normalized QoL,<br/>absence of disability<br/>(long-term)"]
+    D --> E["Endoscopic healing,<br/>normalized quality of life (QoL),<br/>absence of disability<br/>(long-term)"]
     E --> F["Consider, but NOT formal targets:<br/>CD — transmural healing<br/>UC — histological healing"]
     B -. "targets not reached" .-> A
     C -. "targets not reached" .-> A
@@ -51,14 +51,14 @@ flowchart LR
 
 ## Targets and Their Definitions
 
-*Agreement = mean score of all voters on a 1–10 scale (10 = complete agreement) / % of votes scoring 7–10. These are agreement scores, not GRADE ratings — STRIDE-II assigns no certainty-of-evidence grades.*
+*Agreement = mean score of all voters on a 1–10 scale (10 = complete agreement) / % of votes scoring 7–10. These are agreement scores, not GRADE (Grading of Recommendations Assessment, Development and Evaluation) ratings — STRIDE-II assigns no certainty-of-evidence grades.*
 
 | Target (timeframe) | [[crohns-disease\|Crohn's disease]] | [[ulcerative-colitis\|Ulcerative colitis]] | Agreement |
 |---|---|---|---|
-| **Clinical response** — *immediate*; consider changing treatment if not achieved | Decrease of **≥50% in PRO2** (abdominal pain and stool frequency); in children decrease in **PCDAI ≥12.5 points**, **wPCDAI ≥17.5 points** | Decrease of **≥50% in PRO2** (rectal bleeding and stool frequency); in children decrease in **PUCAI ≥20 points** | 9.0 / 94 · def. 8.3 / 84 |
-| **Clinical remission** — *intermediate (medium-term)*; consider changing treatment if not achieved | PRO2 (**abdominal pain ≤1 and stool frequency ≤3**) or **HBI <5**; in children **PCDAI <10** (or **<7.5** excluding the height item) or **wPCDAI <12.5** | PRO2 (**rectal bleeding = 0 and stool frequency = 0**) or **partial Mayo <3 with no individual subscore >1**; in children **PUCAI <10** | 8.7 / 94 · def. 8.5 / 81 |
-| **Normalization of CRP and fecal calprotectin** — *intermediate*; consider changing treatment if not achieved | CRP **below the upper limit of normal**; FC **to 100–250 μg/g** | CRP **below the upper limit of normal**; FC **to 100–250 μg/g** | 8.2 / 80 |
-| **Endoscopic healing** — *long-term*; consider changing treatment if not achieved | **SES-CD <3 points** *or* **absence of ulcerations** (e.g. SES-CD ulceration subscore = 0) | **Mayo endoscopic subscore = 0** *or* **UCEIS ≤1** | 8.7 / 87 · def. 8.5 / 85 |
+| **Clinical response** — *immediate*; consider changing treatment if not achieved | Decrease of **≥50% in 2-item patient-reported outcome (PRO2)** (abdominal pain and stool frequency); in children decrease in **Pediatric Crohn's Disease Activity Index (PCDAI) ≥12.5 points**, **weighted PCDAI (wPCDAI) ≥17.5 points** | Decrease of **≥50% in PRO2** (rectal bleeding and stool frequency); in children decrease in **Pediatric Ulcerative Colitis Activity Index (PUCAI) ≥20 points** | 9.0 / 94 · def. 8.3 / 84 |
+| **Clinical remission** — *intermediate (medium-term)*; consider changing treatment if not achieved | PRO2 (**abdominal pain ≤1 and stool frequency ≤3**) or **Harvey-Bradshaw Index (HBI) <5**; in children **PCDAI <10** (or **<7.5** excluding the height item) or **wPCDAI <12.5** | PRO2 (**rectal bleeding = 0 and stool frequency = 0**) or **partial Mayo <3 with no individual subscore >1**; in children **PUCAI <10** | 8.7 / 94 · def. 8.5 / 81 |
+| **Normalization of CRP and fecal calprotectin** — *intermediate*; consider changing treatment if not achieved | CRP **below the upper limit of normal**; fecal calprotectin (FC) **to 100–250 μg/g** | CRP **below the upper limit of normal**; FC **to 100–250 μg/g** | 8.2 / 80 |
+| **Endoscopic healing** — *long-term*; consider changing treatment if not achieved | **Simple Endoscopic Score for Crohn's Disease (SES-CD) <3 points** *or* **absence of ulcerations** (e.g. SES-CD ulceration subscore = 0) | **Mayo endoscopic subscore (MES) = 0** *or* **Ulcerative Colitis Endoscopic Index of Severity (UCEIS) ≤1** | 8.7 / 87 · def. 8.5 / 85 |
 | **Restoration of normal growth (children)** — *long-term*; consider changing treatment if not achieved | Applies to both diseases | Applies to both diseases | 9.3 / 98 |
 | **Absence of disability and normalized health-related quality of life** — *long-term*; consider changing treatment if not achieved | Applies to both diseases | Applies to both diseases | 7.7 / 75 |
 | **Clinical response or remission are insufficient as long-term targets** | — | — | 8.3 / 80 |
@@ -74,7 +74,7 @@ flowchart LR
   - **<250 μg/g** — reflects **less stringent outcomes** (e.g. MES of 0 or 1 in UC).
   - The systematic review and Delphi process separately supported **150 μg/g to identify endoscopic healing**.
 - **100–250 μg/g is a gray zone**, and even values **<600 μg/g** can still be associated with minimal inflammation — so a single mid-range value does not settle the question.
-- FC generally outperforms CRP: pooled **sensitivity 82%, specificity 72%, AUC 0.84** for reflecting endoscopic activity in CD. Elevated FC carries a **53%–83% probability of relapse over the next 2–3 months**. FC measured **12 weeks** after starting treatment predicts long-term clinical outcomes.
+- FC generally outperforms CRP: pooled **sensitivity 82%, specificity 72%, area under the curve (AUC) 0.84** for reflecting endoscopic activity in CD. Elevated FC carries a **53%–83% probability of relapse over the next 2–3 months**. FC measured **12 weeks** after starting treatment predicts long-term clinical outcomes.
 - CRP has the opposite profile — higher specificity, low sensitivity. Low CRP is associated with reduced relapse risk (**AUC 0.70–0.72**); **CRP normalization at 8–14 weeks** predicts remission at 1 year and anti-TNF success at 2 years; **CRP >5 mg/dL at week 22** predicts subsequent loss of response to anti-TNF.
 - **Combining targets beats any single one** ("the more the merrier"): CRP + FC together outperformed FC alone for predicting endoscopic healing after 48 weeks of adalimumab (CALM post hoc); adding CRP to FC raised specificity for mucosal inflammation from **87% to 100%**; combined lack of ulcerations *and* clinical remission (deep remission) was associated with fewer treatment adjustments, hospitalizations, and surgeries than endoscopic healing alone (EXTEND post hoc).
 
@@ -82,7 +82,7 @@ flowchart LR
 
 - **Sigmoidoscopy or [[colonoscopy]].** When not feasible, alternatives **in CD** are **[[capsule-endoscopy|capsule endoscopy]]** or **balloon enteroscopy**. *(agreement 8.3 / 86)*
 - Score definitions and the full index tables live on [[ibd-endoscopic-scoring]].
-- The supportive text carries a second, slightly different set of definitions that "prevailed" in the systematic review and Delphi group: **endoscopic response = >50% decrease in SES-CD or CDEIS**; **endoscopic remission = SES-CD ≤2 points, or CDEIS <3 and lack of ulcerations** (including aphthous ulcers). The balloted **SES-CD <3 points** is the target stated above.
+- The supportive text carries a second, slightly different set of definitions that "prevailed" in the systematic review and Delphi group: **endoscopic response = >50% decrease in SES-CD or Crohn's Disease Endoscopic Index of Severity (CDEIS)**; **endoscopic remission = SES-CD ≤2 points, or CDEIS <3 and lack of ulcerations** (including aphthous ulcers). The balloted **SES-CD <3 points** is the target stated above.
 - In UC, endoscopic healing "is commonly defined as **MES ≤1**, but complete endoscopic healing (**MES 0**) is associated with superior disease outcomes" — which is why the balloted UC target is MES 0.
 
 ---
@@ -93,7 +93,7 @@ Both were **explicitly rejected as formal treatment targets** in CD and UC, and 
 
 | | Why not a formal target |
 |---|---|
-| **Transmural healing** (assessed by CTE, MRE, or [[intestinal-ultrasound\|bowel ultrasound]]) | Ileocolonoscopy cannot be repeated frequently and may not be feasible in proximal small-bowel disease; in the prospective ImageKids study of 240 children with CD, **mismatch between endoscopic and transmural healing was not uncommon**; currently available treatments have limited ability to achieve transmural healing → cross-sectional imaging is an **adjuvant** assessment |
+| **Transmural healing** (assessed by computerized tomography enterography [CTE], magnetic resonance enterography [MRE], or [[intestinal-ultrasound\|bowel ultrasound]]) | Ileocolonoscopy cannot be repeated frequently and may not be feasible in proximal small-bowel disease; in the prospective ImageKids study of 240 children with CD, **mismatch between endoscopic and transmural healing was not uncommon**; currently available treatments have limited ability to achieve transmural healing → cross-sectional imaging is an **adjuvant** assessment |
 | **Histologic remission — CD** | No well-validated, reliable, accepted measuring tool; insufficient data to justify intensifying immunosuppression to reach it; treatments are of limited effectiveness — **only 13%** of patients with CD on long-term anti-TNF regimens achieved histologic remission |
 | **Histologic remission — UC** | Added benefit over macroscopic healing for long-term remission and cancer prevention has been shown, but it is a **high hurdle**: only **one-third** of patients with UC who had endoscopic healing in the ACT trials had histologic remission, and macroscopic–microscopic concordance held only at the extremes (remission and severe disease), reflecting poor interobserver reliability |
 
@@ -111,7 +111,7 @@ Mean number of **weeks** required to achieve each goal after starting treatment,
 
 | Treatment | Clinical response | Clinical remission | Normalization of CRP/ESR | Decrease of FC | Endoscopic healing |
 |---|---|---|---|---|---|
-| Oral steroids / EEN | 2 | 4 | 5 | 8 | 13 |
+| Oral steroids / exclusive enteral nutrition (EEN) | 2 | 4 | 5 | 8 | 13 |
 | Budesonide | 3 | 6 | 8 | 10 | 15 |
 | [[thiopurines\|Thiopurines]] | 11 | 15 | 15 | 17 | 24 |
 | Methotrexate | 9 | 14 | 14 | 15 | 24 |
@@ -123,7 +123,7 @@ Mean number of **weeks** required to achieve each goal after starting treatment,
 
 | Treatment | Clinical response | Clinical remission | Normalization of CRP/ESR | Decrease of FC | Endoscopic healing |
 |---|---|---|---|---|---|
-| Oral [[mesalamine-5-asa\|5-ASA]] | 4 | 8 | 8 | 10 | 13 |
+| Oral [[mesalamine-5-asa\|5-aminosalicylic acid (5-ASA)]] | 4 | 8 | 8 | 10 | 13 |
 | Oral steroids | 2 | 2 | 5 | 8 | 11 |
 | Locally active steroids (beclomethasone dipropionate, budesonide MMX) | 3 | 8 | 8 | 9 | 13 |
 | Thiopurines | 11 | 15 | 15 | 15 | 20 |

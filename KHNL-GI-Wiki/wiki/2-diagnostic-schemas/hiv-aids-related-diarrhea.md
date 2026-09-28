@@ -7,11 +7,11 @@ updated: 2026-09-05
 sources: [acg-2016-acute-diarrhea, asge-2010-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
-> This page covers the AIDS-specific pathogen panel and the endoscopy/empiric-therapy rules from [[idsa-2017-infectious-diarrhea|IDSA 2017]]. The CD4-stratified opportunistic-infection differential and pathogen-directed treatment of opportunistic infections are in the primary HIV opportunistic-infection guidelines (CDC/NIH/IDSA OI or BHIVA), not here.
+> This page covers the AIDS-specific pathogen panel and the endoscopy/empiric-therapy rules from [[idsa-2017-infectious-diarrhea|Infectious Diseases Society of America (IDSA) 2017]]. The CD4-stratified opportunistic-infection differential and pathogen-directed treatment of opportunistic infections are in the primary human immunodeficiency virus (HIV) opportunistic-infection guidelines (Centers for Disease Control and Prevention [CDC]/National Institutes of Health [NIH]/IDSA or British HIV Association [BHIVA]), not here.
 
 ## Definition / Scope
 
-Diarrhea in the HIV/AIDS host, where the differential widens with falling CD4 count and where endoscopy with biopsy — not stool testing alone — often makes the diagnosis. Scope here is limited to what the GI infectious-diarrhea guidelines cover.
+Diarrhea in the HIV/acquired immunodeficiency syndrome (AIDS) host, where the differential widens with falling CD4 count and where endoscopy with biopsy — not stool testing alone — often makes the diagnosis. Scope here is limited to what the gastrointestinal (GI) infectious-diarrhea guidelines cover.
 
 ## Differential Diagnosis
 
@@ -29,12 +29,12 @@ Diarrhea in the HIV/AIDS host, where the differential widens with falling CD4 co
 | **Cytomegalovirus (CMV)** | The most common opportunistic infectious cause in HIV/transplant/immunosuppressed hosts ([[asge-2010-diarrhea]]) |
 
 - Broader point (Rec 12, strong/moderate): a **broad differential** — culture, viral studies, *and* parasite examination — is required in anyone with moderate-to-severe primary or secondary immune deficiency and diarrhea.
-- **GVHD** (graft-versus-host disease, post-HSCT secretory diarrhea) — the non-HIV immunocompromised comparator carried by [[asge-2010-diarrhea]].
+- **GVHD** (graft-versus-host disease, post–hematopoietic stem cell transplantation [HSCT] secretory diarrhea) — the non-HIV immunocompromised comparator carried by [[asge-2010-diarrhea]].
 - General causes of [[acute-diarrhea|acute diarrhea]] and [[chronic-diarrhea|chronic diarrhea]] still apply.
 
 ## Diagnostic Algorithm
 
-*Timing language: [[idsa-2017-infectious-diarrhea|IDSA 2017]] defines **acute <7 days**, prolonged 7–13 days, **persistent 14–29 days**, chronic ≥30 days (the [[acute-diarrhea]] page uses the ACG cutoffs).*
+*Timing language: [[idsa-2017-infectious-diarrhea|IDSA 2017]] defines **acute <7 days**, prolonged 7–13 days, **persistent 14–29 days**, chronic ≥30 days (the [[acute-diarrhea]] page uses the American College of Gastroenterology (ACG) cutoffs).*
 
 **Step A — stool and blood testing ([[idsa-2017-infectious-diarrhea|IDSA 2017]]).**
 
@@ -46,7 +46,7 @@ Diarrhea in the HIV/AIDS host, where the differential widens with falling CD4 co
 
 1. **Stool testing first-line.** Endoscopy is indicated when diarrhea is **persistent** and stool tests are **nondiagnostic** — a pathogen may be found on biopsy despite negative stool studies.
 2. **HIV:** flexible sigmoidoscopy **or** [[colonoscopy]] when labs are nondiagnostic.
-3. If flexible sigmoidoscopy is nondiagnostic → **full colonoscopy with biopsy and/or [[upper-endoscopy|EGD]] with biopsy** for persistent diarrhea.
+3. If flexible sigmoidoscopy is nondiagnostic → **full colonoscopy with biopsy and/or [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] with biopsy** for persistent diarrhea.
 4. **GVHD:** flexible sigmoidoscopy with **distal-colon biopsy** is the preferred initial test; add EGD with biopsies if sigmoidoscopy is negative or upper-GI symptoms predominate.
 5. In **severe** diarrhea, bowel prep may be omitted.
 
@@ -56,12 +56,12 @@ Diarrhea in the HIV/AIDS host, where the differential widens with falling CD4 co
 |---|---|
 | [[colonoscopy\|Colonoscopy]] vs flexible sigmoidoscopy (HIV) | Higher yield and more cost-effective — **39% vs 22%**; proximal-colon biopsies capture pathogens and lymphomas beyond sigmoidoscope reach |
 | Colonoscopic biopsy yield by CD4 | Significantly higher with a **CD4 count <100 cells/mm³** — opportunistic infections are more common when CD4 is low ([[asge-2010-diarrhea]]) |
-| CMV PCR / culture / serology | A positive result does **not** confirm tissue-invasive disease — **endoscopic biopsy** (± in situ hybridization, IHC, tissue culture) may be required |
+| CMV polymerase chain reaction (PCR) / culture / serology | A positive result does **not** confirm tissue-invasive disease — **endoscopic biopsy** (± in situ hybridization, immunohistochemistry [IHC], tissue culture) may be required |
 | Distal-colon biopsy (GVHD) | Sensitivity **82–95%** |
 | Duodenal biopsy (GVHD) | Hematoma risk, especially acute GVHD + thrombocytopenia |
 | Blood cultures | Indicated in **any** immunocompromised person with diarrhea ([[idsa-2017-infectious-diarrhea\|IDSA 2017]] Rec 9) |
 | Duodenal aspirate | Select cases: *Giardia*, *Strongyloides*, *Cystoisospora*, microsporidia (Rec 24, weak/low) |
-| Serology, peripheral WBC, fecal leukocytes, stool lactoferrin | **Do not use** to establish the cause of acute infectious diarrhea (IDSA 2017) |
+| Serology, peripheral white blood cell (WBC) count, fecal leukocytes, stool lactoferrin | **Do not use** to establish the cause of acute infectious diarrhea (IDSA 2017) |
 
 ## Red Flags / Alarm Features
 
@@ -90,7 +90,7 @@ Diarrhea in the HIV/AIDS host, where the differential widens with falling CD4 co
 | Organism identified | Modify or discontinue the antimicrobial (Rec 38, strong/high) |
 
 - **[[loperamide]]** is endorsed only for **immunocompetent** adults with acute watery diarrhea (Rec 47, weak/moderate), and must be avoided at any age with **fever, inflammatory diarrhea, or [[toxic-megacolon|toxic megacolon]] risk** (strong/low). **[[probiotics]]** are likewise offered only to **immunocompetent** adults and children (Rec 49, weak/moderate).
-- Symptoms ≥14 days without an identified source → also consider **noninfectious** causes ([[inflammatory-bowel-disease|IBD]], [[irritable-bowel-syndrome|IBS]], lactose intolerance; Rec 27–28).
+- Symptoms ≥14 days without an identified source → also consider **noninfectious** causes ([[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]], lactose intolerance; Rec 27–28).
 
 ## See Also
 

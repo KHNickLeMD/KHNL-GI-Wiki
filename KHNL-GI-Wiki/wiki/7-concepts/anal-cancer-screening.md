@@ -7,7 +7,7 @@ updated: 2026-09-06
 sources: [asccp-2024-anal-cancer-screening]
 ---
 
-Screening defined high-risk populations for **anal high-grade squamous intraepithelial lesion (HSIL)** — the treatable precursor — rather than for anal cancer itself. Directly parallel to cervical cancer prevention: both cancers are HPV-mediated, and both screening programs triage to a magnified examination of the epithelium. Framework here is [[asccp-2024-anal-cancer-screening|ASCCP 2024]], which endorses and reconciles the IANS 2024 consensus and the 2024 NIH/CDC/IDSA guidelines for people with HIV.
+Screening defined high-risk populations for **anal high-grade squamous intraepithelial lesion (HSIL)** — the treatable precursor — rather than for anal cancer itself. Directly parallel to cervical cancer prevention: both cancers are human papillomavirus (HPV)-mediated, and both screening programs triage to a magnified examination of the epithelium. Framework here is [[asccp-2024-anal-cancer-screening|American Society for Colposcopy and Cervical Pathology (ASCCP) 2024]], which endorses and reconciles the International Anal Neoplasia Society (IANS) 2024 consensus and the 2024 National Institutes of Health (NIH)/Centers for Disease Control and Prevention (CDC)/Infectious Diseases Society of America (IDSA) guidelines for people with human immunodeficiency virus (HIV).
 
 ⚠ **Second-hand criteria.** The IANS 2024 consensus is cited here only as summarized by the ASCCP advisory. See [[asccp-2024-anal-cancer-screening]] → *Contradictions / Open Questions*.
 
@@ -40,8 +40,8 @@ Incidence **≥17 per 100,000 p-y** — at least **10×** the general population
 
 | Group | Incidence (per 100,000 p-y) | Start screening |
 |---|---|---|
-| MSM and transgender women **with HIV** | **>70** | Age **35** |
-| History of vulvar HSIL or vulvar cancer (VIN3) | **>40** | **Within 1 year of diagnosis** |
+| Men who have sex with men (MSM) and transgender women **with HIV** | **>70** | Age **35** |
+| History of vulvar HSIL or vulvar cancer (vulvar intraepithelial neoplasia grade 3 [VIN3]) | **>40** | **Within 1 year of diagnosis** |
 | Men who have sex with women (MSW) **with HIV** | **40** | Age **45** |
 | Women **with HIV** | **25** | Age **45** |
 | Solid organ transplant recipients | **>25** | **10 years post-transplant** |
@@ -55,7 +55,7 @@ Incidence **<10 per 100,000 p-y**. IANS calls for **shared decision-making, not 
 - Cervical or vaginal HSIL
 - Perianal warts
 - **Persistent cervical HPV 16**
-- Other immunosuppression — named examples: rheumatoid arthritis, lupus, **[[crohns-disease|Crohn's disease]]**, **[[ulcerative-colitis|ulcerative colitis]]** — [[inflammatory-bowel-disease|IBD]]-specific perianal/anal examination guidance lives on [[ibd-preventive-care]]
+- Other immunosuppression — named examples: rheumatoid arthritis, lupus, **[[crohns-disease|Crohn's disease]]**, **[[ulcerative-colitis|ulcerative colitis]]** — [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]-specific perianal/anal examination guidance lives on [[ibd-preventive-care]]
 
 ## Screening Tests
 
@@ -104,7 +104,7 @@ ASCCP adds no new criteria; its own recommendation is the implementable floor:
 
 - **Primary hrHPV in people with HIV — the two 2024 guidelines disagree.** IANS accepts primary hrHPV testing as a standalone strategy; the NIH/CDC/IDSA panel explicitly did not recommend it in persons with HIV. Same year, same tier — neither supersedes the other. [[asccp-2024-anal-cancer-screening|ASCCP]] reports both without adjudicating.
 - **Management after HRA is not covered** by the ASCCP advisory — what is done with biopsy-proven anal HSIL (ablation, topical therapy, surveillance interval) is in the IANS consensus itself.
-- **No evidence grades.** The ASCCP advisory is a narrative endorsement and carries no GRADE labels for its statements.
+- **No evidence grades.** The ASCCP advisory is a narrative endorsement and carries no GRADE (Grading of Recommendations Assessment, Development and Evaluation) labels for its statements.
 - **Screening intervals for Category A are not specified** by the ASCCP advisory beyond the repeat-testing windows attached to specific test results.
 
 ## See Also

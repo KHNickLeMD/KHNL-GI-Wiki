@@ -7,13 +7,13 @@ updated: 2026-09-08
 sources: [acg-2020-sibo, aga-2020-sibo]
 ---
 
-SIBO is a clinical syndrome of GI symptoms caused by the presence of excessive numbers of bacteria within the small intestine. The normal small bowel maintains relative sterility compared to the colon; SIBO represents a significant disruption of this balance. Bacteria are typically coliforms — predominantly Gram-negative aerobic and anaerobic species — that ferment carbohydrates, producing gas and short-chain fatty acids. SIBO is almost always an epiphenomenon of an underlying condition that leads to stasis, anatomic disruption, immune dysfunction, or altered motility in the small intestine. Both [[acg-2020-sibo]] and [[aga-2020-sibo]] use this definition; the AGA CPU adopts it by citing the ACG guideline.
+Small intestinal bacterial overgrowth (SIBO) is a clinical syndrome of gastrointestinal (GI) symptoms caused by the presence of excessive numbers of bacteria within the small intestine. The normal small bowel maintains relative sterility compared to the colon; SIBO represents a significant disruption of this balance. Bacteria are typically coliforms — predominantly Gram-negative aerobic and anaerobic species — that ferment carbohydrates, producing gas and short-chain fatty acids. SIBO is almost always an epiphenomenon of an underlying condition that leads to stasis, anatomic disruption, immune dysfunction, or altered motility in the small intestine. Both [[acg-2020-sibo]] and [[aga-2020-sibo]] use this definition; the American Gastroenterological Association (AGA) clinical practice update (CPU) adopts it by citing the American College of Gastroenterology (ACG) guideline.
 
-> **Read the definition as provisional.** [[aga-2020-sibo]] **Best Practice Advice 1**: "The definition of SIBO as a clinical entity lacks precision and consistency; it is a term generally applied to a clinical disorder in which symptoms, clinical signs, and/or laboratory abnormalities are attributed to changes in the numbers of bacteria or in the composition of the bacterial population in the small intestine." **BPA 5** explains why: normal small intestinal microbial populations are not yet characterized, so no threshold-based definition can currently be validated, and the definition will shift with the technique used (culture vs next-generation sequencing).
+> **Read the definition as provisional.** [[aga-2020-sibo]] **Best Practice Advice (BPA) 1**: "The definition of SIBO as a clinical entity lacks precision and consistency; it is a term generally applied to a clinical disorder in which symptoms, clinical signs, and/or laboratory abnormalities are attributed to changes in the numbers of bacteria or in the composition of the bacterial population in the small intestine." **BPA 5** explains why: normal small intestinal microbial populations are not yet characterized, so no threshold-based definition can currently be validated, and the definition will shift with the technique used (culture vs next-generation sequencing).
 >
 > **Practical rule of thumb** ([[aga-2020-sibo]] Table 3): consider SIBO **any time there is small intestinal stasis**.
 
-> **Note on IMO:** When methane is the predominant exhaled gas, the term **[[intestinal-methanogen-overgrowth|intestinal methanogen overgrowth (IMO)]]** is preferred, because methanogens are archaea (not bacteria). IMO is clinically associated with constipation rather than diarrhea.
+> **Note on methane:** When methane is the predominant exhaled gas, the term **[[intestinal-methanogen-overgrowth|intestinal methanogen overgrowth (IMO)]]** is preferred, because methanogens are archaea (not bacteria). IMO is clinically associated with constipation rather than diarrhea.
 
 ## Contents
 - [[#Assessment]]
@@ -45,7 +45,7 @@ SIBO is a clinical syndrome of GI symptoms caused by the presence of excessive n
 **Clinical presentation:**
 
 - Symptoms traditionally linked to SIBO: **bloating, diarrhea, abdominal pain/discomfort**; steatorrhea in more severe cases ([[aga-2020-sibo]] **BPA 2**). Also flatulence, distension, nausea, cramping.
-- **Which symptom actually points to SIBO — the two societies disagree, and the newer source reverses the older one.** [[aga-2020-sibo]] (Oct 2020): *"Contrary to common belief, **diarrhea and not bloating** has the strongest association with SIBO"*; in IBS, "diarrhea or 'gas,' but not bloating, seem to be the most predictive symptoms." [[acg-2020-sibo]] (Jan/Feb 2020) Key Concept 1: *"The most common symptom of SIBO is **bloating**"* (present in >2/3). The AGA CPU is the later 2020 publication, so **use diarrhea as the discriminating symptom** and treat [[abdominal-bloating-and-distention|bloating]] as sensitive but non-discriminating. Note the claims are not strictly identical — ACG describes symptom *frequency*, AGA describes *predictive strength*.
+- **Which symptom actually points to SIBO — the two societies disagree, and the newer source reverses the older one.** [[aga-2020-sibo]] (Oct 2020): *"Contrary to common belief, **diarrhea and not bloating** has the strongest association with SIBO"*; in irritable bowel syndrome (IBS), "diarrhea or 'gas,' but not bloating, seem to be the most predictive symptoms." [[acg-2020-sibo]] (Jan/Feb 2020) Key Concept 1: *"The most common symptom of SIBO is **bloating**"* (present in >2/3). The AGA CPU is the later 2020 publication, so **use diarrhea as the discriminating symptom** and treat [[abdominal-bloating-and-distention|bloating]] as sensitive but non-discriminating. Note the claims are not strictly identical — ACG describes symptom *frequency*, AGA describes *predictive strength*.
 - **In whom the symptom means most:** the association is strong in patients with a predisposing anatomic/pathologic/pharmacologic cause (stasis or recirculation of colonic contents, impaired resistance to bacteria) — there, SIBO "will lead to diarrhea and can progress to a full-blown malabsorption syndrome." Without an obvious predisposing factor, "symptoms are weakly predictive at best" ([[aga-2020-sibo]]).
 - **In the very elderly:** SIBO is an important cause of otherwise unexplained **diarrhea and weight loss**.
 - IMO pattern: constipation predominant.
@@ -57,7 +57,7 @@ SIBO is a clinical syndrome of GI symptoms caused by the presence of excessive n
 | Abnormal small intestinal motility | Anatomic abnormalities | Hypochlorhydria | Immune deficiency | Multifactorial | Relationship to SIBO unclear |
 |---|---|---|---|---|---|
 | Diabetic autonomic neuropathy | Small intestinal diverticulosis | Post-surgical | Inherited immune deficiencies (eg, common variable immunodeficiency) | [[chronic-pancreatitis\|Chronic pancreatitis]] | Rosacea |
-| Systemic sclerosis/scleroderma (see [[esophageal-dysfunction-systemic-disease\|GI involvement in systemic disease]]) | Surgically-induced alterations in anatomy (Billroth II gastrectomy, [[bariatric-surgery\|bariatric surgery]], end-to-side anastomosis) | Long-term acid suppression ([[proton-pump-inhibitors\|PPIs]]) | Acquired immune deficiency (eg, AIDS, severe malnutrition) | [[celiac-disease\|Celiac disease]] | Interstitial cystitis |
+| Systemic sclerosis/scleroderma (see [[esophageal-dysfunction-systemic-disease\|GI involvement in systemic disease]]) | Surgically-induced alterations in anatomy (Billroth II gastrectomy, [[bariatric-surgery\|bariatric surgery]], end-to-side anastomosis) | Long-term acid suppression ([[proton-pump-inhibitors\|proton pump inhibitors (PPIs)]]) | Acquired immune deficiency (eg, acquired immunodeficiency syndrome [AIDS], severe malnutrition) | [[celiac-disease\|Celiac disease]] | Interstitial cystitis |
 | Amyloidosis | Strictures ([[crohns-disease\|Crohn's disease]], radiation, surgery) | | | Diabetes mellitus | Restless legs syndrome |
 | Hypothyroidism | Blind loops | | | Tropical sprue | Parkinson's disease |
 | Idiopathic intestinal pseudo-obstruction (see [[acute-colonic-pseudo-obstruction]]) | Gastrocolic or jejunocolic fistula | | | Crohn's disease | [[gerd\|Erosive esophagitis]] |
@@ -68,9 +68,9 @@ SIBO is a clinical syndrome of GI symptoms caused by the presence of excessive n
 | Long-standing use of motility-suppressing drugs | | | | End-stage renal disease | |
 | | | | | The elderly | |
 
-- Additional entities listed by [[acg-2020-sibo]] (Table 4) but absent from the AGA table: **small bowel tumor, volvulus, intussusception, adhesions, Roux-en-Y and ileocolonic anastomosis, visceral myopathies, mitochondrial diseases, IgA deficiency**.
-- **Which risk factors are actually borne out by culture:** in a large retrospective duodenal-aspirate series, the main risk factors were **older age, steatorrhea, and narcotic use**; the significantly associated disorders were **[[inflammatory-bowel-disease|IBD]], chronic pancreatitis, and jejunal diverticulosis** ([[aga-2020-sibo]]).
-- **Disease-specific predictors** ([[aga-2020-sibo]]): in Crohn's disease — **fibrostenotic phenotype and prior surgery, especially ileocecal valve resection**; in cirrhosis — complications such as [[hepatic-encephalopathy|encephalopathy]] and [[spontaneous-bacterial-peritonitis|SBP]].
+- Additional entities listed by [[acg-2020-sibo]] (Table 4) but absent from the AGA table: **small bowel tumor, volvulus, intussusception, adhesions, Roux-en-Y and ileocolonic anastomosis, visceral myopathies, mitochondrial diseases, immunoglobulin A (IgA) deficiency**.
+- **Which risk factors are actually borne out by culture:** in a large retrospective duodenal-aspirate series, the main risk factors were **older age, steatorrhea, and narcotic use**; the significantly associated disorders were **[[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], chronic pancreatitis, and jejunal diverticulosis** ([[aga-2020-sibo]]).
+- **Disease-specific predictors** ([[aga-2020-sibo]]): in Crohn's disease — **fibrostenotic phenotype and prior surgery, especially ileocecal valve resection**; in cirrhosis — complications such as [[hepatic-encephalopathy|encephalopathy]] and [[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]].
 - Caution: across the Table 1 disorders, correlations between SIBO and nutritional status or outcomes are "far from consistent," and the classical structural causes account for only "a small minority of those diagnosed with SIBO today."
 
 **Mechanisms protecting small bowel ecology:**
@@ -107,15 +107,15 @@ No validated SIBO-specific patient-reported outcome (PRO) instrument currently e
 
 Symptoms of SIBO are non-specific. The differential includes:
 
-- [[irritable-bowel-syndrome]] — most important overlap; IBS is both a risk factor for and a mimic of SIBO. Meta-analysis: SIBO **OR 4.9** on breath testing vs matched controls, and **up to 33.5% of IBS subjects positive by culture vs 8.2% of controls** ([[aga-2020-sibo]]); [[acg-2020-sibo]] cites rates up to 78% on breath testing — the spread reflects the test used, since **lactulose breath testing over-calls relative to glucose or culture**. Whether SIBO actually causes IBS symptoms remains contested ([[aga-2020-sibo]] **BPA 6**)
+- [[irritable-bowel-syndrome]] — most important overlap; IBS is both a risk factor for and a mimic of SIBO. Meta-analysis: SIBO **odds ratio (OR) 4.9** on breath testing vs matched controls, and **up to 33.5% of IBS subjects positive by culture vs 8.2% of controls** ([[aga-2020-sibo]]); [[acg-2020-sibo]] cites rates up to 78% on breath testing — the spread reflects the test used, since **lactulose breath testing over-calls relative to glucose or culture**. Whether SIBO actually causes IBS symptoms remains contested ([[aga-2020-sibo]] **BPA 6**)
 - [[celiac-disease]] — malabsorptive symptoms, diarrhea, bloating; SIBO prevalence in [[celiac-disease|celiac disease]] similar to healthy subjects (lower than IBS)
 - [[chronic-pancreatitis]] / [[exocrine-pancreatic-insufficiency|exocrine pancreatic insufficiency]] — steatorrhea, malabsorption; pancreatic insufficiency is also a SIBO risk factor
-- [[inflammatory-bowel-disease|Inflammatory bowel disease]] — [[crohns-disease]]: 16.8% in endoscopic remission have SIBO; postsurgical anatomy (ileocolonic anastomosis, ileocecal valve resection) increases risk
+- [[inflammatory-bowel-disease|IBD]] — [[crohns-disease]]: 16.8% in endoscopic remission have SIBO; postsurgical anatomy (ileocolonic anastomosis, ileocecal valve resection) increases risk
 - Functional dyspepsia — bloating, nausea; part of [[disorders-of-gut-brain-interaction]] spectrum
 - [[microscopic-colitis|Microscopic colitis]] — chronic watery diarrhea
 - Lactose/fructose intolerance — symptoms triggered by specific carbohydrates; breath testing can be confounded
 - [[gastroparesis|Gastroparesis]] — delayed gastric emptying → altered small bowel motility
-- Intestinal pseudo-obstruction — [[acute-colonic-pseudo-obstruction|Ogilvie syndrome]], CIPO
+- Intestinal pseudo-obstruction — [[acute-colonic-pseudo-obstruction|Ogilvie syndrome]], chronic intestinal pseudo-obstruction (CIPO)
 - Small bowel dysmotility from systemic disease (scleroderma, diabetes, amyloidosis)
 
 ---
@@ -179,7 +179,7 @@ Symptoms of SIBO are non-specific. The differential includes:
 
 | | [[aga-2020-sibo\|AGA 2020 CPU]] | [[acg-2020-sibo\|ACG 2020]] |
 |---|---|---|
-| Threshold | **>10³ CFU/mL** | **≥10³ CFU/mL** |
+| Threshold | **>10³ colony-forming units (CFU)/mL** | **≥10³ CFU/mL** |
 | What is counted | **coliforms** | bacteria (not specified) |
 | Specimen | **fresh** aspirate culture | duodenal/jejunal aspirate |
 
@@ -207,7 +207,7 @@ Symptoms of SIBO are non-specific. The differential includes:
 - **Vitamin K cuts both ways — check before adjusting anticoagulation.** A vitamin-K–responsive coagulopathy has been described in SIBO, *but* bacterial vitamin K production plus enhanced absorption from increased permeability can sustain or even **raise** vitamin K levels enough that a **warfarin dose may need adjustment** to stay therapeutic
 - Thiamine and nicotinamide deficiency also described (bacterial utilization of vitamins)
 - Vitamin D, iron studies — low in severe malabsorptive SIBO; fat-soluble vitamins (A, E, K) deficient in severe structural/blind-loop SIBO via bile acid deconjugation → bile acid pool depletion → fat maldigestion
-- CBC — anemia ([[iron-deficiency-anemia|iron deficiency]] or B12)
+- Complete blood count (CBC) — anemia ([[iron-deficiency-anemia|iron deficiency]] or B12)
 - **Severe SIBO mucosal consequences:** loss of brush border enzymes → carbohydrate malabsorption; epithelial barrier damage → protein-losing enteropathy; bacterial competition for luminal protein → hypoproteinemia and edema
 - Celiac serology — to exclude [[celiac-disease]]
 - **Fecal calprotectin — use it to exclude IBD, not to detect SIBO.** [[aga-2020-sibo]] **BPA 3**: "There is insufficient evidence to support the use of inflammatory markers, such as fecal calprotectin, to detect SIBO." Results are mixed — one study found no elevation in SIBO, while studies in scleroderma and [[crohns-disease|Crohn's disease]] found elevated levels a valuable indicator. Not addressed by [[acg-2020-sibo]].
@@ -234,7 +234,7 @@ Symptoms of SIBO are non-specific. The differential includes:
 
 **[[aga-2020-sibo]] BPA 9 — set the goal correctly:** "The goal of antibiotic therapy in SIBO is **not to eradicate** small intestinal microbiota but to **modulate** them in a manner that leads to symptomatic improvement." There is "a limited database to guide the clinician in developing antibiotic strategies for SIBO, in any context"; therapy is "for the most part, empiric, but must be ever mindful of the potential risks of long-term broad-spectrum antibiotic therapy."
 
-Before initiating antibiotic therapy: make an objective effort to diagnose SIBO (breath test or culture). Consider [[clostridioides-difficile|CDI]] risk, antibiotic resistance, and adverse effects.
+Before initiating antibiotic therapy: make an objective effort to diagnose SIBO (breath test or culture). Consider [[clostridioides-difficile|Clostridioides difficile infection (CDI)]] risk, antibiotic resistance, and adverse effects.
 
 **Choosing the agent:**
 
@@ -256,12 +256,12 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 | Neomycin | 500 mg b.i.d. | 500 mg b.i.d. | 33–55% |
 | Norfloxacin | **800 mg daily** | 400 mg q.d. | 30–100% |
 | Tetracycline | 250 mg q.i.d. | 250 mg q.i.d. | 87.5% |
-| TMP-SMX | 1 double strength b.i.d. | 160/800 mg b.i.d. | 95% |
+| Trimethoprim-sulfamethoxazole (TMP-SMX) | 1 double strength b.i.d. | 160/800 mg b.i.d. | 95% |
 
 **[[rifaximin|Rifaximin]] specifics:**
 
 - Gut-selective, minimal systemic absorption, low resistance risk
-- Eradication ~**70%** by meta-analysis in both sources; ACG meta-analysis of 32 trials (n=1,331): 70.8% (CI 61.4–78.2%), adverse reactions 4.6%
+- Eradication ~**70%** by meta-analysis in both sources; ACG meta-analysis of 32 trials (n=1,331): 70.8% (confidence interval [CI] 61.4–78.2%), adverse reactions 4.6%
 - Trial dosing ranged from **800 mg/day × 4 weeks to 1200 mg/day × 7 days** ([[aga-2020-sibo]])
 - **US practical barrier:** SIBO is **not a recognized indication** for rifaximin and it "might not be covered by the patient's insurance carrier" ([[aga-2020-sibo]])
 
@@ -291,7 +291,7 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 
 ### Fecal Microbiota Transplant (FMT)
 
-- No basis for [[fmt|FMT]] in SIBO treatment currently (Key Concept 13)
+- No basis for [[fmt|fecal microbiota transplant (FMT)]] in SIBO treatment currently (Key Concept 13)
 - Concerns: FDA safety alerts re: multi-drug resistant organism transmission
 - Case report: FMT for C. difficile → recipient acquired constipation phenotype and methane-positive breath test from donor — possible donor-dependent complication
 

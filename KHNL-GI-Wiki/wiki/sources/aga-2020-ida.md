@@ -15,13 +15,13 @@ sources: []
 - **Year:** 2020
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
 - **DOI:** [10.1053/j.gastro.2020.06.046](https://doi.org/10.1053/j.gastro.2020.06.046)
-- **Type:** GRADE-based guideline
+- **Type:** American Gastroenterological Association (AGA) Grading of Recommendations Assessment, Development and Evaluation (GRADE)-based guideline
 
 ---
 
 ## Summary
 
-This guideline standardizes the GI workup of **iron-deficiency anemia (IDA)** — defining iron deficiency, when to scope, and adjunctive testing.
+This guideline standardizes the gastrointestinal (GI) workup of **iron-deficiency anemia (IDA)** — defining iron deficiency, when to scope, and adjunctive testing.
 
 ---
 

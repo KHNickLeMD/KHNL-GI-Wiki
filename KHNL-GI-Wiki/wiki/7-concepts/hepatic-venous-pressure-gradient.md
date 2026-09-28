@@ -7,9 +7,9 @@ updated: 2026-09-22
 sources: [baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2023-portal-hypertension, wang-2026-eus-ppg-delphi-consensus]
 ---
 
-The reference (gold-standard) method for measuring **sinusoidal portal pressure** and diagnosing/staging [[portal-hypertension|portal hypertension]] in cirrhosis. Obtained transjugularly (or transfemorally) at experienced centers.
+The hepatic venous pressure gradient (HVPG) is the reference (gold-standard) method for measuring **sinusoidal portal pressure** and diagnosing/staging [[portal-hypertension|portal hypertension (PH)]] in cirrhosis. Obtained transjugularly (or transfemorally) at experienced centers.
 
-> **Its role has narrowed.** [[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] did not revise the HVPG statements, reprinting them in a summary box of still-valid recommendations — but with an explicit caveat: they "**should be interpreted in the context of current Baveno VIII recommendations which favor [[noninvasive-liver-disease-assessment|non-invasive tests]] over routine HVPG measurements in daily clinical practice**." Statement 1.11 holds that validated NITs are **sufficiently accurate to exclude or identify CSPH and are similarly predictive of hepatic decompensation**, and 1.18 describes a paradigm moving from estimating CSPH probability toward **directly predicting decompensation**. HVPG remains the reference standard and the arbiter in specific decisions — see [[#Where HVPG is still the answer]].
+> **Its role has narrowed.** [[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] did not revise the HVPG statements, reprinting them in a summary box of still-valid recommendations — but with an explicit caveat: they "**should be interpreted in the context of current Baveno VIII recommendations which favor [[noninvasive-liver-disease-assessment|non-invasive tests (NITs)]] over routine HVPG measurements in daily clinical practice**." Statement 1.11 holds that validated NITs are **sufficiently accurate to exclude or identify clinically significant portal hypertension (CSPH) and are similarly predictive of hepatic decompensation**, and 1.18 describes a paradigm moving from estimating CSPH probability toward **directly predicting decompensation**. HVPG remains the reference standard and the arbiter in specific decisions — see [[#Where HVPG is still the answer]].
 
 ## Contents
 - [[#Definition]]
@@ -24,7 +24,7 @@ The reference (gold-standard) method for measuring **sinusoidal portal pressure*
 
 ## Definition
 
-- **HVPG = WHVP − FHVP** (wedged/occluded hepatic vein pressure − free hepatic vein pressure), reported in mmHg — an *indirect* estimate of the portocaval gradient (portal vein pressure − IVC pressure) ([[baveno-vii-2022-portal-hypertension]]).
+- **HVPG = WHVP − FHVP** (wedged/occluded hepatic vein pressure − free hepatic vein pressure), reported in mmHg — an *indirect* estimate of the portocaval gradient (portal vein pressure − inferior vena cava [IVC] pressure) ([[baveno-vii-2022-portal-hypertension]]).
 - WHVP (balloon-occluded) reflects sinusoidal pressure, which in sinusoidal cirrhosis equals portal pressure; FHVP serves as the internal zero.
 - Because it relies on the *wedged* pressure as a proxy, HVPG accurately reflects portal pressure only when the block is **sinusoidal** (i.e. [[cirrhosis]]) — see [[#Limitations — when HVPG misleads]].
 
@@ -47,14 +47,14 @@ Baveno VII methodology statements ([[baveno-vii-2022-portal-hypertension]], 1.1�
 | ≤5 | Normal |
 | >5 | Sinusoidal portal hypertension (Baveno VII 1.9) |
 | 6–9 | **Mild PH** — PH without CSPH ([[aasld-2023-portal-hypertension]] stage-specific management heading) |
-| **≥10** | **Clinically significant portal hypertension (CSPH)** — Baveno VII 1.10, *changed* from >10 to ≥10. **Qualifier: the gold-standard definition is stated for viral- and alcohol-related cirrhosis**; in MASH/PBC/PSVD the gradient can miss CSPH (see [[#Limitations — when HVPG misleads]]). Threshold above which varices, [[ascites]], and decompensation risk rise; predicts decompensation/death after liver resection for [[hepatocellular-carcinoma\|HCC]] (1.18) |
+| **≥10** | **CSPH** — Baveno VII 1.10, *changed* from >10 to ≥10. **Qualifier: the gold-standard definition is stated for viral- and alcohol-related cirrhosis**; in metabolic dysfunction-associated steatohepatitis (MASH)/primary biliary cholangitis (PBC)/porto-sinusoidal vascular disorder (PSVD) the gradient can miss CSPH (see [[#Limitations — when HVPG misleads]]). Threshold above which varices, [[ascites]], and decompensation risk rise; predicts decompensation/death after liver resection for [[hepatocellular-carcinoma\|hepatocellular carcinoma (HCC)]] (1.18) |
 | ≥16 | Increased **short-term mortality after non-hepatic abdominal surgery** (1.19) |
-| **≥20** | Measured **at the time of acute hemorrhage** → predicts treatment failure in acute variceal bleeding; a criterion for **pre-emptive [[tips\|TIPS]]**. ⚠ **[[baveno-viii-2026-portal-hypertension\|Baveno VIII]] 5.31 changed this from Baveno VII's ">20 mmHg" to "≥20 mmHg"** — the boundary value itself now qualifies |
-| **<10, measured off [[nonselective-beta-blockers\|carvedilol/cNSBB]]** | **Confirms resolution of CSPH in a recompensated patient** — the trigger to stop the beta-blocker (Baveno VIII 7.16, new). The "off the drug" qualifier is the decision; a gradient measured on an NSBB does not answer the question |
+| **≥20** | Measured **at the time of acute hemorrhage** → predicts treatment failure in acute variceal bleeding; a criterion for **pre-emptive [[tips\|transjugular intrahepatic portosystemic shunt (TIPS)]]**. ⚠ **[[baveno-viii-2026-portal-hypertension\|Baveno VIII]] 5.31 changed this from Baveno VII's ">20 mmHg" to "≥20 mmHg"** — the boundary value itself now qualifies |
+| **<10, measured off [[nonselective-beta-blockers\|carvedilol/conventional nonselective beta-blocker (cNSBB)]]** | **Confirms resolution of CSPH in a recompensated patient** — the trigger to stop the beta-blocker (Baveno VIII 7.16, new). The "off the drug" qualifier is the decision; a gradient measured on a nonselective beta-blocker (NSBB) does not answer the question |
 
-*Full noninvasive CSPH staging ([[liver-stiffness-measurement|LSM]] "rule of 5", spleen stiffness), and management by stratum, live on [[portal-hypertension]].*
+*Full noninvasive CSPH staging ([[liver-stiffness-measurement|liver stiffness measurement (LSM)]] "rule of 5", spleen stiffness), and management by stratum, live on [[portal-hypertension]].*
 
-> ⚠ **The "HVPG ≥12 mmHg = variceal bleeding threshold" is not stated by the guidelines.** [[baveno-vii-2022-portal-hypertension|Baveno VII]], [[aasld-2023-portal-hypertension|AASLD 2023]] and [[wang-2026-eus-ppg-delphi-consensus|the EUS-PPG consensus]] give **12 mmHg only as the post-TIPS portal pressure gradient target** (Baveno 1.23; AASLD: NSBB not required after TIPS if the gradient is under 12 mm Hg) — see [[#HVPG response to therapy]]. The bleeding-threshold figure comes from the primary hemodynamic literature (Groszmann/Garcia-Tsao portal-pressure threshold studies).
+> ⚠ **The "HVPG ≥12 mmHg = variceal bleeding threshold" is not stated by the guidelines.** [[baveno-vii-2022-portal-hypertension|Baveno VII]], [[aasld-2023-portal-hypertension|American Association for the Study of Liver Diseases (AASLD) 2023]] and [[wang-2026-eus-ppg-delphi-consensus|the endoscopic ultrasound (EUS)-guided portosystemic pressure gradient (EUS-PPG) consensus]] give **12 mmHg only as the post-TIPS portal pressure gradient (PPG) target** (Baveno 1.23; AASLD: NSBB not required after TIPS if the gradient is under 12 mm Hg) — see [[#HVPG response to therapy]]. The bleeding-threshold figure comes from the primary hemodynamic literature (Groszmann/Garcia-Tsao portal-pressure threshold studies).
 
 ## HVPG response to therapy
 
@@ -65,7 +65,7 @@ Baveno VII methodology statements ([[baveno-vii-2022-portal-hypertension]], 1.1�
   - ⚠ These are **response criteria for beta-blockade**, not a bleeding-risk threshold. The 12 mmHg figure appears in three unrelated roles across this literature — NSBB response target, post-TIPS PPG target, and (removed) bleeding threshold — so always state which one is meant.
 - The **optimal percent/absolute HVPG decrease** associated with reduced decompensation **after removal/suppression of the aetiology** **has not been established** (Baveno VII 3.6, retained in the Baveno VIII still-valid box) — do not carry the NSBB-response numbers over to the aetiological-cure setting.
 - Treat with NSBBs **when clinically indicated, independent of the ability to measure HVPG** (Baveno VI/VII, retained) — NITs have largely displaced HVPG for routine treatment decisions.
-- **Post-[[tips|TIPS]] portal pressure gradient (PPG)** — measure **before and after** insertion (1.20, A.1):
+- **Post-[[tips|TIPS]] PPG** — measure **before and after** insertion (1.20, A.1):
   - **Target: absolute PPG <12 mmHg** — near-complete protection from portal hypertensive bleeding, and the **preferred** target for hemodynamic success (1.23, **A.1**). A **relative reduction ≥50%** from pre-TIPS baseline "may also be useful" but carries a weaker grade (1.23, **B.2**) — not interchangeable with the absolute target.
   - **Where to measure:** main portal vein and IVC at the shunt outflow (1.21).
   - **When to measure:** the *immediate* post-TIPS PPG can be distorted by general anesthesia, vasoactive agents, or hemodynamic instability and may not represent the long-term PPG; measure in a **hemodynamically stable, non-sedated** patient (1.22).
@@ -81,8 +81,8 @@ Baveno VII methodology statements ([[baveno-vii-2022-portal-hypertension]], 1.1�
 
 Baveno VIII moves routine CSPH diagnosis to non-invasive tests, but the catheter still decides in three places:
 
-1. **Confirming CSPH resolution before stopping an NSBB in a recompensated patient** — **HVPG <10 mmHg measured off carvedilol/cNSBB** (7.16). Non-invasive alternatives exist (LSM <10 kPa; or LSM <15 + SSM <25 kPa) but carry weaker grades (7.19).
-2. **Investigating an inconclusive cirrhosis/cACLD workup, or suspected [[porto-sinusoidal-vascular-disorder|PSVD/NCPF]], in a patient with non-cirrhotic [[portal-vein-thrombosis|PVT]]** — [[liver-biopsy|liver biopsy]] **and** HVPG (9.4).
+1. **Confirming CSPH resolution before stopping an NSBB in a recompensated patient** — **HVPG <10 mmHg measured off carvedilol/cNSBB** (7.16). Non-invasive alternatives exist (LSM <10 kPa; or LSM <15 + spleen stiffness measurement (SSM) <25 kPa) but carry weaker grades (7.19).
+2. **Investigating an inconclusive cirrhosis/compensated advanced chronic liver disease (cACLD) workup, or suspected [[porto-sinusoidal-vascular-disorder|PSVD/non-cirrhotic portal fibrosis (NCPF)]], in a patient with non-cirrhotic [[portal-vein-thrombosis|portal vein thrombosis (PVT)]]** — [[liver-biopsy|liver biopsy]] **and** HVPG (9.4).
 3. **Clinical trials** — HVPG measurements should be encouraged in trials of novel therapies, though they are not essential where portal-hypertension endpoints are well defined (Baveno V/VI, retained).
 
 ## Limitations — when HVPG misleads
@@ -90,11 +90,11 @@ Baveno VIII moves routine CSPH diagnosis to non-invasive tests, but the catheter
 HVPG measures the **sinusoidal** gradient, so it **underestimates presinusoidal and prehepatic portal hypertension**:
 
 - **[[primary-biliary-cholangitis|Primary biliary cholangitis]]:** a presinusoidal component cannot be assessed by HVPG → HVPG may underestimate PH prevalence/severity (Baveno VII 1.11).
-- **[[nafld-masld|MASLD]]-related cACLD:** **HVPG may underestimate the true portal pressure gradient** ([[baveno-viii-2026-portal-hypertension]] 2.5, new). An HVPG ≥10 mmHg still marks a significantly increased decompensation risk, but the risk below 10 mmHg is **lower, not absent** — clinical signs of PH can occur at HVPG <10 mmHg in this population (Baveno VII 1.12, retained).
+- **[[nafld-masld|metabolic dysfunction-associated steatotic liver disease (MASLD)]]-related cACLD:** **HVPG may underestimate the true portal pressure gradient** ([[baveno-viii-2026-portal-hypertension]] 2.5, new). An HVPG ≥10 mmHg still marks a significantly increased decompensation risk, but the risk below 10 mmHg is **lower, not absent** — clinical signs of PH can occur at HVPG <10 mmHg in this population (Baveno VII 1.12, retained).
 - **[[porto-sinusoidal-vascular-disorder|PSVD/NCPF]]:** clinical signs of PH with HVPG <10 mmHg should prompt this diagnosis (Baveno VII 1.13). Baveno VIII 1.6 adds the elastographic version of the same trigger — **LSM <10 kPa with clinical or imaging signs of PH** should raise suspicion of vascular liver disease.
 - **Veno-venous communications** and outflow obstruction cause measurement error if not identified (Baveno VII 1.3, 1.8).
 
-Where a **presinusoidal/noncirrhotic** cause is suspected (or in MASH), expert consensus favors **[[interventional-eus-vascular|EUS-guided portosystemic pressure gradient (EUS-PPG)]]**, which measures hepatic *and* portal vein pressures **directly** by needle puncture rather than via the wedged proxy ([[wang-2026-eus-ppg-delphi-consensus]]).
+Where a **presinusoidal/noncirrhotic** cause is suspected (or in MASH), expert consensus favors **[[interventional-eus-vascular|EUS-PPG]]**, which measures hepatic *and* portal vein pressures **directly** by needle puncture rather than via the wedged proxy ([[wang-2026-eus-ppg-delphi-consensus]]).
 
 ---
 

@@ -15,18 +15,18 @@ sources: []
 - **Year:** 2023 (published online September 6, 2022)
 - **Volume/Pages:** 118:46–58
 - **DOI:** [10.14309/ajg.0000000000002100](https://doi.org/10.14309/ajg.0000000000002100)
-- **Type:** guideline (ACG Clinical Guideline, GRADE)
-- **Organization:** American College of Gastroenterology (ACG)
-- **Methodology:** GRADE (Grading of Recommendations Assessment, Development, and Evaluation)
+- **Type:** guideline (American College of Gastroenterology [ACG] Clinical Guideline, Grading of Recommendations Assessment, Development, and Evaluation [GRADE])
+- **Organization:** ACG
+- **Methodology:** GRADE
 - **Literature search:** EMBASE, PubMed, Cochrane, 2000–December 2020; 1,562 citations after deduplication; 444 reviewed; 11 final recommendations
 
 ---
 
 ## Summary
 
-This ACG clinical guideline addresses the diagnosis and management of gastrointestinal subepithelial lesions (SEL) — intramural masses or mass-like structures projecting into the GI lumen that arise from nonmucosal layers of the GI wall, or extraluminal structures causing extrinsic compression. SEL range from benign (lipoma, leiomyoma) to malignant-potential (GIST, neuroendocrine tumor) to frankly malignant (metastases). The guideline uses GRADE methodology and issues 11 recommendations across diagnosis and treatment.
+This ACG clinical guideline addresses the diagnosis and management of gastrointestinal (GI) subepithelial lesions (SEL) — intramural masses or mass-like structures projecting into the GI lumen that arise from nonmucosal layers of the GI wall, or extraluminal structures causing extrinsic compression. SEL range from benign (lipoma, leiomyoma) to malignant-potential (gastrointestinal stromal tumor [GIST], neuroendocrine tumor [NET]) to frankly malignant (metastases). The guideline uses GRADE methodology and issues 11 recommendations across diagnosis and treatment.
 
-Key diagnostic principle: [[endoscopic-ultrasound|EUS]] is the preferred modality for evaluating solid nonlipomatous SEL. EUS alone (without tissue acquisition) has only ~43–50% diagnostic accuracy; adding FNB or FNA with ROSE raises accuracy to 73–84%. Lipomas are the only SEL diagnosable by endoscopy alone (pillow sign, yellow appearance; 99% specificity but only 40% sensitivity).
+Key diagnostic principle: [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] is the preferred modality for evaluating solid nonlipomatous SEL. EUS alone (without tissue acquisition) has only ~43–50% diagnostic accuracy; adding fine-needle biopsy (FNB) or fine-needle aspiration (FNA) with rapid on-site evaluation (ROSE) raises accuracy to 73–84%. Lipomas are the only SEL diagnosable by endoscopy alone (pillow sign, yellow appearance; 99% specificity but only 40% sensitivity).
 
 Key management principle: Size thresholds and location govern resection decisions. Gastric GIST <2 cm — insufficient evidence for surveillance vs. resection. Gastric GIST >2 cm and all nongastric GIST — resect. Symptomatic SEL causing GI bleeding — resect regardless of size or confirmed diagnosis (except large GIST where neoadjuvant imatinib may first be needed).
 
@@ -36,7 +36,7 @@ Key management principle: Size thresholds and location govern resection decision
 
 ### Diagnosis
 
-1. **EUS preferred over endoscopy or cross-sectional CT/MRI** for nonlipomatous SEL (conditional; very low evidence). EUS correctly differentiates intramural from extramural lesions with 92% sensitivity and 100% specificity; endoscopy alone achieves 87% sensitivity but only 29% specificity for this distinction.
+1. **EUS preferred over endoscopy or cross-sectional computed tomography (CT)/magnetic resonance imaging (MRI)** for nonlipomatous SEL (conditional; very low evidence). EUS correctly differentiates intramural from extramural lesions with 92% sensitivity and 100% specificity; endoscopy alone achieves 87% sensitivity but only 29% specificity for this distinction.
 
 2. **No preference between echoendoscope types** (forward-viewing vs. oblique-viewing) — both have equivalent diagnostic yield (strong; low evidence). Forward-viewing may reduce procedure time.
 
@@ -44,7 +44,7 @@ Key management principle: Size thresholds and location govern resection decision
 
 4. **EUS with tissue acquisition** improves diagnostic accuracy of solid nonlipomatous SEL (conditional; very low evidence). EUS imaging alone: 43–50% accuracy; EUS + FNA/FNB: 73–84% accuracy.
 
-5. **EUS-FNB alone or EUS-FNA with ROSE preferred** over EUS-FNA without ROSE (conditional; low evidence). FNB achieves 90% vs. 52% accuracy in one RCT; when ROSE is used with FNA, yield approaches FNB levels. 19-gauge FNA needle superior to 22-gauge for fourth-layer gastric lesions (92% vs. 71% yield).
+5. **EUS-FNB alone or EUS-FNA with ROSE preferred** over EUS-FNA without ROSE (conditional; low evidence). FNB achieves 90% vs. 52% accuracy in one randomized controlled trial (RCT); when ROSE is used with FNA, yield approaches FNB levels. 19-gauge FNA needle superior to 22-gauge for fourth-layer gastric lesions (92% vs. 71% yield).
 
 6. **Unroofing technique** (mucosal incision-assisted biopsy [MIAB] or submucosal tunnel biopsy) when EUS-FNA/FNB is nondiagnostic (conditional; low evidence). Diagnostic yield 89–100%; caution — submucosal fibrosis may complicate future endoscopic resection.
 
@@ -61,16 +61,16 @@ Key management principle: Size thresholds and location govern resection decision
 
 ### Treatment
 
-1. **STER or surgical resection** for MP-layer SEL of esophagus and GEJ (conditional; very low evidence). STER achieves comparable en bloc resection rates with shorter procedure time and hospital stay vs. thoracoscopic enucleation; tumors >3.5 cm transverse diameter may be more challenging for STER.
+1. **Submucosal tunneling endoscopic resection (STER) or surgical resection** for muscularis propria (MP)-layer SEL of esophagus and gastroesophageal junction (GEJ) (conditional; very low evidence). STER achieves comparable en bloc resection rates with shorter procedure time and hospital stay vs. thoracoscopic enucleation; tumors >3.5 cm transverse diameter may be more challenging for STER.
 
 2. **GIST management:**
-   - <2 cm gastric GIST: insufficient evidence — surveillance or resection both acceptable; NCCN recommends surveillance if no high-risk features (irregular borders, cystic spaces, ulceration, echogenic foci, heterogeneity)
+   - <2 cm gastric GIST: insufficient evidence — surveillance or resection both acceptable; National Comprehensive Cancer Network (NCCN) recommends surveillance if no high-risk features (irregular borders, cystic spaces, ulceration, echogenic foci, heterogeneity)
    - >2 cm gastric GIST: resect (metastatic risk increases with size; up to 86% for >10 cm high-mitotic-rate lesions)
    - All nongastric GIST: resect
    - For GIST <2 cm if resecting: endoscopic methods are acceptable alternatives to surgery (no single endoscopic method proven superior)
    - Very large GIST: tissue confirmation first to permit neoadjuvant imatinib
 
-3. **Type 1 gastric NETs (gNETs):** EMR or ESD both acceptable (conditional; very low evidence). ESD has higher R0 rates (95% vs. 83%) and lower vertical margin involvement, but clinical significance unclear given indolent behavior.
+3. **Type 1 gastric NETs (gNETs):** endoscopic mucosal resection (EMR) or endoscopic submucosal dissection (ESD) both acceptable (conditional; very low evidence). ESD has higher R0 rates (95% vs. 83%) and lower vertical margin involvement, but clinical significance unclear given indolent behavior.
 
 4. **Type 3 gNETs** (small, low-grade, <1 cm, no lymphadenopathy): ESD preferred over EMR (conditional; very low evidence) given more aggressive biology — positive margins require surgical follow-up.
 
@@ -78,7 +78,7 @@ Key management principle: Size thresholds and location govern resection decision
 
 ### Key Concepts (non-GRADE statements)
 
-- KC1: Symptomatic SEL or GI bleeding → resect without preresection diagnosis (exception: large GIST → confirm first for neoadjuvant imatinib)
+- Key concept (KC) 1: Symptomatic SEL or GI bleeding → resect without preresection diagnosis (exception: large GIST → confirm first for neoadjuvant imatinib)
 - KC2: Cross-sectional imaging inferior to EUS; reserve CT/MRI for when EUS is unavailable
 - KC3: Without tissue diagnosis or resection, enroll patient in surveillance unless high confidence of zero malignant potential
 - KC4: No fixed size cutoff below which FNA/FNB cannot be attempted; individualize based on location, risk, and feasibility
@@ -121,7 +121,7 @@ This guideline is the primary ACG reference for the [[endoscopic-ultrasound]] ev
 - Insufficient evidence to recommend surveillance vs. resection for gastric GIST <2 cm — NCCN and ACG both acknowledge clinical uncertainty; patient preference and risk tolerance should guide decision
 - EUS imaging features do not reliably predict mitotic rate in 2–5 cm GIST; size alone is the best predictor
 - No head-to-head RCT data for most endoscopic vs. surgical resection comparisons — most evidence is retrospective
-- Role of AI in SEL diagnosis is an open future direction
+- Role of artificial intelligence (AI) in SEL diagnosis is an open future direction
 - Surveillance intervals for conservatively managed SEL are not defined by evidence
 
 ## See Also

@@ -9,7 +9,7 @@ sources: [aga-2021-gi-perforations-endoscopic-management]
 
 *What to do at the moment an endoscopist makes a hole — prevention, intraprocedural recognition, and closure, organ by organ. Single home for the size-keyed closure rule; the procedure pages ([[colonoscopy]], [[upper-endoscopy]], [[ercp]], [[polypectomy]], [[poem]]) link here rather than repeating it.*
 
-> ⚠ **Evidence quality is low throughout.** All 16 statements in [[aga-2021-gi-perforations-endoscopic-management|AGA 2021]] are **Best Practice Advice from expert opinion — no GRADE ratings**. The authors state that prospective outcome data on endoscopic therapy of perforations are limited and the literature is retrospective.
+> ⚠ **Evidence quality is low throughout.** All 16 statements in [[aga-2021-gi-perforations-endoscopic-management|American Gastroenterological Association (AGA) 2021]] are **Best Practice Advice (BPA) from expert opinion — no Grading of Recommendations Assessment, Development and Evaluation (GRADE) ratings**. The authors state that prospective outcome data on endoscopic therapy of perforations are limited and the literature is retrospective.
 
 ## Contents
 - [[#The Two Absolute Surgical Indications]]
@@ -39,7 +39,7 @@ sources: [aga-2021-gi-perforations-endoscopic-management]
 
 1. **Inform the staff** — trainees, colleagues, nurses, technicians, anesthesiologists.
 2. **Confirm CO₂ insufflation and adjust to low flow** (BPA 3 — CO₂ is encouraged for all endoscopic procedures, and should be used for all of them if available).
-3. **Keep the perforation clean** (BPA 2) — aspirate liquids to prevent spillage of GI contents into the defect; if needed **reposition the patient to bring the defect into a non-dependent location**; **minimize insufflation to avoid compartment syndrome**.
+3. **Keep the perforation clean** (BPA 2) — aspirate liquids to prevent spillage of gastrointestinal (GI) contents into the defect; if needed **reposition the patient to bring the defect into a non-dependent location**; **minimize insufflation to avoid compartment syndrome**.
 4. **Give IV antibiotics covering Gram-negative and anaerobic organisms.**
 5. Determine cause and morphology → the **vast majority can be addressed endoscopically if the tools and expertise are available**; a few types are better served by surgery with no endoscopic attempt (above).
 
@@ -51,7 +51,7 @@ sources: [aga-2021-gi-perforations-endoscopic-management]
 
 | Organ | <1 cm | 1–2 cm | 2–3 cm | >3 cm | Rescue |
 |---|---|---|---|---|---|
-| **Esophagus** (BPA 8) | TTSC or OTSC | TTSC or OTSC | Endoscopic suturing (**>2 cm**) | Endoscopic suturing | Fully covered SEMS **only when primary closure is not possible**; endoscopic vacuum therapy for large/persistent defects and fistulas |
+| **Esophagus** (BPA 8) | Through-the-scope clips (TTSC) or over-the-scope clips (OTSC) | TTSC or OTSC | Endoscopic suturing (**>2 cm**) | Endoscopic suturing | Fully covered self-expanding metal stent (SEMS) **only when primary closure is not possible**; endoscopic vacuum therapy for large/persistent defects and fistulas |
 | **Stomach** (BPA 9) | **TTSC optimal** | OTSC preferable (**1–3 cm**) | OTSC preferable | **Endoloop + TTSC** combination, or endoscopic suturing | Omental fat pulled into the lumen and clipped to the defect edges (selected cases) |
 | **Duodenum** (BPA 10, 11) | TTSC (**88%–100%** closure for defects <13 mm) | TTSC, OTSC, band ligation, endoloop | Suturing devices | **Type 1 >3 cm → urgent surgical consult** while feasibility of endoscopic closure is assessed | Covered SEMS across the ampulla for **type 2**; enteral SEMS is a last resort |
 | **Colon** (BPA 13, 14) | TTSC | TTSC or OTSC | OTSC or suturing | Suturing — **not** in the cecum/right colon | **Right colon and cecum: TTSC only** |
@@ -64,16 +64,16 @@ Know them before the case, so the consent conversation and team preparation happ
 
 - Any **dilation**; **foreign body removal** ([[ingested-foreign-body]]); any **per-oral endoscopic myotomy** (Zenker's, esophageal, pyloric — [[poem]]); **stricture incision**
 - **Thermal coagulation** for hemostasis or tumor ablation; **percutaneous endoscopic gastrostomy** ([[enteral-access]]); **ampullectomy**
-- **[[endoscopic-mucosal-resection|EMR]]**, **[[endoscopic-submucosal-dissection|ESD]]**, **[[endoscopic-full-thickness-resection|full-thickness endoscopic resection]]**
+- **[[endoscopic-mucosal-resection|endoscopic mucosal resection (EMR)]]**, **[[endoscopic-submucosal-dissection|endoscopic submucosal dissection (ESD)]]**, **[[endoscopic-full-thickness-resection|full-thickness endoscopic resection]]**
 - **Endoluminal stenting with SEMS** ([[colonic-stenting]])
-- **[[ercp|ERCP]] in surgically altered anatomy**; **[[endoscopic-ultrasound|EUS]]-guided biliary and pancreatic access**; **EUS-guided cystogastrostomy**; **endoscopic gastroenterostomy using a LAMS**
+- **[[ercp|Endoscopic retrograde cholangiopancreatography (ERCP)]] in surgically altered anatomy**; **[[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]–guided biliary and pancreatic access**; **EUS-guided cystogastrostomy**; **endoscopic gastroenterostomy using a lumen-apposing metal stent (LAMS)**
 
 ## Esophagus
 
 - **Non-iatrogenic causes:** caustic ingestion, sharp penetrating foreign bodies (e.g. fishbone), Boerhaave syndrome.
 - **Perforation rates:** esophageal dilation for simple rings or peptic strictures **0.09%–2.2%** (higher for caustic or radiation-induced strictures); **[[pneumatic-dilation|pneumatic dilation]] in [[achalasia]] 0.4%–14%**; EMR in [[barretts-esophagus|Barrett's esophagus]] **0%–3%**.
-- **In [[eosinophilic-esophagitis]]:** 10 perforations (**2.0%**) among 511 patients over 14 years; risk factors were a **history of food impaction (OR 14.9, 95% CI 1.7–129.2)** and **a focal stricture (OR 4.6, 95% CI 1.1–19.7)**. In a systematic review of 76 perforations in 70 EoE patients most were **non-iatrogenic**; pushing impacted food into the stomach caused 5 and dilation caused 8; 25/76 required surgery, 10 got a stent, 2 got clips.
-- **[[poem|POEM]]:** small intraprocedural mucosal-flap perforations are common and usually inconsequential → TTSC. The dangerous complication is **delayed barrier failure** → leak, mediastinitis, peritonitis; rate **0.2%–1.1%**. Prevention: control energy delivery from the knife tip at all times; maintain orientation in the tunnel (avoid spiraling); avoid excessive forward force tearing the mucosotomy; avoid "counter-coup" flipping of the knife during myotomy. **Prefer posterior orientation where feasible** — 3 of 4 RCTs and a meta-analysis of all 4 showed significantly more mucosal injuries with anterior POEM. Check this preference against the newer POEM and achalasia guidance on [[poem]] and [[achalasia]]. **Stenting after POEM is discouraged** — stent erosion through the myotomy, high migration rate, inadequate seal at the patulous post-POEM EGJ.
+- **In [[eosinophilic-esophagitis|eosinophilic esophagitis (EoE)]]:** 10 perforations (**2.0%**) among 511 patients over 14 years; risk factors were a **history of food impaction (odds ratio [OR] 14.9, 95% confidence interval [CI] 1.7–129.2)** and **a focal stricture (OR 4.6, 95% CI 1.1–19.7)**. In a systematic review of 76 perforations in 70 EoE patients most were **non-iatrogenic**; pushing impacted food into the stomach caused 5 and dilation caused 8; 25/76 required surgery, 10 got a stent, 2 got clips.
+- **[[poem|Peroral endoscopic myotomy (POEM)]]:** small intraprocedural mucosal-flap perforations are common and usually inconsequential → TTSC. The dangerous complication is **delayed barrier failure** → leak, mediastinitis, peritonitis; rate **0.2%–1.1%**. Prevention: control energy delivery from the knife tip at all times; maintain orientation in the tunnel (avoid spiraling); avoid excessive forward force tearing the mucosotomy; avoid "counter-coup" flipping of the knife during myotomy. **Prefer posterior orientation where feasible** — 3 of 4 randomized controlled trials (RCTs) and a meta-analysis of all 4 showed significantly more mucosal injuries with anterior POEM. Check this preference against the newer POEM and achalasia guidance on [[poem]] and [[achalasia]]. **Stenting after POEM is discouraged** — stent erosion through the myotomy, high migration rate, inadequate seal at the patulous post-POEM esophagogastric junction (EGJ).
 - **Clip technique:** begin placement **at the end of the defect distal to the endoscope**, to preserve the view of the remainder.
 - **OTSC performance:** effective for **1–2 cm** perforations; systematic-review clinical success **85.3% (399/468)**, with failure driven by **defects >2 cm** and **closure attempted >72 hours** after perforation. Mounting an OTSC increases scope tip diameter to **16.5–21 mm** and the cap edges are not smooth — introduce **gently** through the hypopharynx, especially after head-and-neck surgery or cervical radiation.
 - **SEMS:** primary closure is the goal; a fully covered stent diverting flow to allow healing by secondary intention is next best, and gives a longer, more drawn-out course. Diameter **slightly wider than the native esophagus** — seal the defect without expanding it. **Secure the proximal end** by endosuturing or a stent-fixing device to prevent migration — essential in fistula, where there is no stricture to hold the stent.
@@ -113,7 +113,7 @@ Know them before the case, so the consent conversation and team preparation happ
 
 - Caused by **overextension of a sphincterotomy beyond the intraduodenal portion of the ampulla**.
 - **Prevention:** minimize the length of cutting wire in contact with the ampulla; use **stepwise incisions**; direct the force and direction of the cut with the **right hand on the scope shaft creating counter-clockwise torque**, rather than lifting the elevator or bowing the sphincterotome; **terminate the sphincterotomy just before the flat transverse duodenal mucosa cephalad of the papillary mound**; use newer generators with controlled, pulsed-blended current to reduce "zipper cuts."
-- **Detection is the problem — these are subtle and easily missed** (BPA 11): carefully assess the **fluoroscopic gas pattern under the liver or around the right kidney**, and **request a CT** if concerned.
+- **Detection is the problem — these are subtle and easily missed** (BPA 11): carefully assess the **fluoroscopic gas pattern under the liver or around the right kidney**, and **request a computed tomography (CT) scan** if concerned.
 - ⚠ **Asymptomatic retroperitoneal air after ERCP may need no intervention** — **14% (7/50)** of post-ERCP patients had CT retroperitoneal air with uneventful recovery. But type 2 perforations can still lead to retroperitoneal abscess, peritonitis, and death.
 - **Closure:** TTSCs if feasible, and/or a **fully covered SEMS into the bile duct across the ampulla** — likely to seal the defect with high clinical success.
 - **Course:** patients declare within **24–48 h** whether they need surgery (worsening abdominal pain or systemic inflammatory response). If improving, at **2–4 days** obtain a water-soluble upper GI series or CT with oral contrast to confirm no extravasation before starting clear liquids.
@@ -157,7 +157,7 @@ Know them before the case, so the consent conversation and team preparation happ
 
 **All upper GI perforations** (BPA 6) — consider admission for observation, plus:
 
-- **IV fluids**, **NPO**, **broad-spectrum antibiotics** (Gram-negative and anaerobic coverage), **nasogastric tube** (with some exceptions), and **surgical consultation**.
+- **Intravenous (IV) fluids**, **nothing by mouth (NPO)**, **broad-spectrum antibiotics** (Gram-negative and anaerobic coverage), **nasogastric tube** (with some exceptions), and **surgical consultation**.
 - **Before starting clear liquids**, consider a **water-soluble upper GI series** to confirm the absence of a continuing leak at the perforation site (BPA 7).
 
 **Documentation (BPA 16)** — in any adverse event including perforation it is paramount to ensure **accurate documentation**, **prompt discussion with the patient and family**, and **swift reporting to the institution's quality officer (or equivalent) and risk management team** (in major adverse events).

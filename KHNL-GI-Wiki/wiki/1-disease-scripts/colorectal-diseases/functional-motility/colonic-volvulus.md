@@ -30,7 +30,7 @@ Mechanical **twisting (torsion) of a redundant colon segment along its mesenteri
 
 ### Severity Assessment
 
-**"Uncomplicated" is the word that decides scope vs. knife**, and [[asge-2020-acpo-volvulus|ASGE 2020]] defines it only by exclusion. Patients with **any** of the following **should be referred immediately for surgical management**:
+**"Uncomplicated" is the word that decides scope vs. knife**, and [[asge-2020-acpo-volvulus|American Society for Gastrointestinal Endoscopy (ASGE) 2020]] defines it only by exclusion. Patients with **any** of the following **should be referred immediately for surgical management**:
 
 - **Signs of peritonitis**
 - **Perforation**
@@ -40,7 +40,7 @@ Mechanical **twisting (torsion) of a redundant colon segment along its mesenteri
 
 - **Uncomplicated sigmoid volvulus** = none of the three above. "In the absence of these aforementioned adverse events," flexible sigmoidoscopic detorsion ± decompression tube is **first-line** *(ASGE Rec 1)*.
 - **Cecal volvulus does not enter this pathway** — surgery is recommended as the **initial** treatment modality with **avoidance of endoscopic intervention**, given the high risk of perforation *(ASGE Rec 3)*.
-- The guidelines do not grade volvulus severity beyond this complicated/uncomplicated split — there is **no staging system, no degree-of-torsion cutoff, and no colonic-diameter threshold** for volvulus (unlike the cecal-diameter rule in [[acute-colonic-pseudo-obstruction|ACPO]]).
+- The guidelines do not grade volvulus severity beyond this complicated/uncomplicated split — there is **no staging system, no degree-of-torsion cutoff, and no colonic-diameter threshold** for volvulus (unlike the cecal-diameter rule in [[acute-colonic-pseudo-obstruction|acute colonic pseudo-obstruction (ACPO)]]).
 
 ### Classification / Typing
 - **Sigmoid volvulus** — most common; adult men >70 yr, African Americans, diabetes/neuropsychiatric disorders, institutionalized/constipated
@@ -53,7 +53,7 @@ Mechanical **twisting (torsion) of a redundant colon segment along its mesenteri
 - Small-bowel obstruction
 
 ## Diagnostics
-- **Contrast-enhanced CT** — preferred study for both cecal and sigmoid volvulus (sigmoid: ~100% sensitivity, >90% specificity); shows the "whirl" sign / transition point and assesses ischemia/perforation
+- **Contrast-enhanced computed tomography (CT)** — preferred study for both cecal and sigmoid volvulus (sigmoid: ~100% sensitivity, >90% specificity); shows the "whirl" sign / transition point and assesses ischemia/perforation
 - Plain abdominal radiograph — diagnostic in ~60% of sigmoid volvulus ("coffee-bean" sign) but less reliable than CT
 
 ## Therapeutics

@@ -7,20 +7,20 @@ updated: 2026-09-07
 sources: [aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2021-ascites-sbp-hrs, asge-2015-antibiotic-prophylaxis, albhaisi-2025-prophylactic-antibiotics-cirrhosis]
 ---
 
-Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-bleeding|upper GI bleeding]] aim to prevent bacterial translocation-driven infections ([[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis]], bacteremia) that independently worsen short-term mortality. In the AASLD framework this is a form of **SBP primary prophylaxis** ([[aasld-2021-ascites-sbp-hrs]]).
+Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-bleeding|upper gastrointestinal (GI) bleeding]] aim to prevent bacterial translocation-driven infections ([[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]], bacteremia) that independently worsen short-term mortality. In the American Association for the Study of Liver Diseases (AASLD) framework this is a form of **SBP primary prophylaxis** ([[aasld-2021-ascites-sbp-hrs]]).
 
 ## Indications
 
-- **Acute GI hemorrhage in cirrhosis — give to all, from admission**, regardless of whether [[upper-endoscopy|endoscopy]] is performed. *(Baveno VII 6.7, A.1, unchanged; [[asge-2015-antibiotic-prophylaxis|ASGE 2015]] Rec 9, 4444)*
+- **Acute GI hemorrhage in cirrhosis — give to all, from admission**, regardless of whether [[upper-endoscopy|endoscopy]] is performed. *(Baveno VII 6.7, A.1, unchanged; [[asge-2015-antibiotic-prophylaxis|American Society for Gastrointestinal Endoscopy (ASGE) 2015]] Rec 9, 4444)*
   - **Rule out SBP and other active infection first** — prophylaxis is for the uninfected patient; an established infection is treated, not prophylaxed [[aasld-2021-ascites-sbp-hrs]].
-  - **[[cirrhosis|Child-Pugh A]]** (CTP point table on that page): risk of bacterial infection and mortality is *very low*; whether prophylaxis can be **avoided** in this subgroup is unresolved and needs prospective study — Baveno VII does **not** endorse omitting it *(6.8, B.2)*.
+  - **[[cirrhosis|Child-Pugh A]]** (Child-Turcotte-Pugh [CTP] point table on that page): risk of bacterial infection and mortality is *very low*; whether prophylaxis can be **avoided** in this subgroup is unresolved and needs prospective study — Baveno VII does **not** endorse omitting it *(6.8, B.2)*.
 - **Non-bleeding SBP primary prophylaxis** (a different indication): low [[ascites|ascitic]] protein **<1.5 g/dL** *plus* advanced hepatic/renal dysfunction — criteria live on [[spontaneous-bacterial-peritonitis]]. Baveno VII frames the same pair as "GI haemorrhage, **or** [[cirrhosis|Child-Pugh C]] cirrhosis with low protein ascites" *(4.6, B.1)*.
 
 ## Regimen — Acute GI Hemorrhage
 
 | Item | Value | Source |
 |---|---|---|
-| Agent | **Ceftriaxone 1 g IV every 24 h** — most commonly used | [[aasld-2023-portal-hypertension]] GS 27; [[baveno-vii-2022-portal-hypertension\|Baveno VII]] 6.9 (A.1) |
+| Agent | **Ceftriaxone 1 g intravenously (IV) every 24 h** — most commonly used | [[aasld-2023-portal-hypertension]] Guidance Statement (GS) 27; [[baveno-vii-2022-portal-hypertension\|Baveno VII]] 6.9 (A.1) |
 | When to start | **Immediately on presentation / from admission** | [[aasld-2023-portal-hypertension]]; Baveno VII 6.7 |
 | Duration | **2–5 days**; IV antimicrobials until **stability for discharge or 5 days, whichever is shorter**, in the absence of active infection | [[aasld-2023-portal-hypertension]] |
 | Stop rule | Discontinue **once bleeding is controlled** and no active infection | [[aasld-2023-portal-hypertension]] GS 27 |
@@ -28,7 +28,7 @@ Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-ble
 | Mandatory tailoring | Choice **must** follow local resistance patterns, antimicrobial stewardship policy, and patient allergies | Both (Baveno VII grades the tailoring D.2) |
 
 - **Note on norfloxacin.** [[aasld-2021-ascites-sbp-hrs|AASLD 2021]] records that norfloxacin was the antibiotic of choice for SBP prophylaxis **until it was withdrawn from the US market in 2014**; ASGE 2015 Rec 9 still lists **oral norfloxacin** as the example of "an antibiotic with equivalent microbial coverage" for patients **allergic to or intolerant of** ceftriaxone — now historical in the US.
-- **Oral ciprofloxacin 500 mg/day** is AASLD 2021's "reasonable alternative to norfloxacin" for **secondary SBP prophylaxis** — *not* for the GI-bleeding indication — and AASLD notes **direct evidence supporting that regimen is lacking**, with quinolones less effective in MDRO-colonized patients. Do not carry it into acute hemorrhage.
+- **Oral ciprofloxacin 500 mg/day** is AASLD 2021's "reasonable alternative to norfloxacin" for **secondary SBP prophylaxis** — *not* for the GI-bleeding indication — and AASLD notes **direct evidence supporting that regimen is lacking**, with quinolones less effective in multidrug-resistant organism (MDRO)-colonized patients. Do not carry it into acute hemorrhage.
 
 > **Gap — no dose is stated for a non-ceftriaxone alternative in acute hemorrhage.** Neither AASLD 2021, AASLD 2023, nor ASGE 2015 gives a dose for norfloxacin or any substitute in the bleeding setting. Take the substitute regimen from local stewardship policy, which is what all three guidelines direct you to.
 
@@ -38,7 +38,7 @@ Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-ble
 |---|---|---|
 | [[aasld-2023-portal-hypertension\|AASLD 2023]] (governs) | **2–5 days**, or until discharge-stable, whichever is shorter | Guidance statement 27 |
 | [[aasld-2021-ascites-sbp-hrs\|AASLD 2021]] | Until hemorrhage resolved **and vasoactive drugs discontinued**; the supporting meta-analysis used 5–7 d | Narrative |
-| [[albhaisi-2025-prophylactic-antibiotics-cirrhosis\|Prosty 2025]] (RCT-tier) | 2–3 d likely non-inferior to 5–7 d for mortality | Bayesian meta-analysis |
+| [[albhaisi-2025-prophylactic-antibiotics-cirrhosis\|Prosty 2025]] (randomized controlled trial [RCT]-tier) | 2–3 d likely non-inferior to 5–7 d for mortality | Bayesian meta-analysis |
 
 - **Which governs:** the two AASLD statements are the same society, so follow the **newer 2023 [[portal-hypertension|portal hypertension]] guideline — 2–5 days**; the older "5–7 days" figure was never AASLD's own recommendation but the duration used in the meta-analysis it cited. The commonly quoted "5–7 days" therefore overstates what the current guideline says.
 - **Do not drop the AASLD 2021 qualifier** where you use its stopping rule: antibiotics run until the hemorrhage has resolved **and vasoactive drugs are discontinued** — not simply until bleeding stops.

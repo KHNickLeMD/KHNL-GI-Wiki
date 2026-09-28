@@ -23,8 +23,8 @@ sources: [aga-2022-diet-ibs, acg-2020-ibs]
 ## Definition
 
 - **FODMAPs** = fermentable oligo-, di-, and monosaccharides and polyols — short-chain, poorly digestible, poorly absorbed sugars.
-- Carbohydrates are the **most common macronutrient trigger** in [[irritable-bowel-syndrome|IBS]]; fat content and total caloric intake enhance the gastrocolonic response and contribute to sensorimotor bowel dysfunction.
-- The low-FODMAP diet (LFD) is **the most evidence-based diet intervention for IBS** ([[aga-2022-diet-ibs]], BPA 6).
+- Carbohydrates are the **most common macronutrient trigger** in [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]]; fat content and total caloric intake enhance the gastrocolonic response and contribute to sensorimotor bowel dysfunction.
+- The low-FODMAP diet (LFD) is **the most evidence-based diet intervention for IBS** ([[aga-2022-diet-ibs]], Best Practice Advice [BPA] 6).
 - It is **not an open-ended restriction** — it is a structured 3-phase program with a defined endpoint (BPA 7).
 
 ---
@@ -34,7 +34,7 @@ sources: [aga-2022-diet-ibs, acg-2020-ibs]
 Prerequisites before starting (Figure 2, [[aga-2022-diet-ibs]]):
 
 - **Motivated patient**
-- **GI dietitian or high-quality teaching materials** available
+- **Gastrointestinal (GI) dietitian or high-quality teaching materials** available
 - **Willing and able to follow up**
 
 If these are not met → alternative treatment. Do not implement the diet solely on the basis of a brief handout or a mobile app.
@@ -79,7 +79,7 @@ flowchart TD
 ### Phase 3 — Personalization
 
 - Reintroduction results drive a diversified, individualized long-term diet — the goal is the **least restriction** that controls symptoms.
-- Reintroduction and personalization still lack RCT evidence; a **simplified version of the LFD** may be effective but remains unproven in RCTs.
+- Reintroduction and personalization still lack randomized controlled trial (RCT) evidence; a **simplified version of the LFD** may be effective but remains unproven in RCTs.
 
 ---
 
@@ -89,12 +89,12 @@ flowchart TD
 |---|---|
 | Meta-analysis, **7 RCTs (397 patients)** | LFD significantly reduced global IBS symptoms vs different control interventions |
 | Network meta-analysis, **13 RCTs** | LFD was the **most effective diet strategy** for global symptoms, abdominal pain, and bloating |
-| RCT, **100 patients with IBS-D** — LFD vs traditional dietary advice (NICE) | Both improved IBS-SSS and QOL vs baseline; primary outcome (**>50-point reduction in IBS-SSS**) favored LFD: **62.7% vs 40.8%, P = .04** |
+| RCT, **100 patients with IBS with diarrhea (IBS-D)** — LFD vs traditional dietary advice (National Institute for Health and Care Excellence [NICE]) | Both improved IBS Symptom Severity Score (IBS-SSS) and quality of life (QOL) vs baseline; primary outcome (**>50-point reduction in IBS-SSS**) favored LFD: **62.7% vs 40.8%, P = .04** |
 | Crossover RCT, **42 patients** — LFD vs gluten-free vs "balanced"/Mediterranean | All 3 improved symptom severity, bloating, pain, and QOL (P < .05); LFD better **for bloating only** — not pain, IBS-SSS, or QOL. Needs a larger trial |
 | **2 comparative effectiveness trials** | LFD gave similar benefit to gut-directed hypnotherapy or yoga, sustained **up to 6 months** |
 
-- Benefit is best established in **IBS-D**; **studies in IBS-C are lacking**, and IBS-C patients instead benefit from a higher intake of **soluble fiber** ([[aga-2022-diet-ibs]]).
-- [[acg-2020-ibs|ACG]] recommends a **limited trial** of a low-FODMAP diet to improve global IBS symptoms — **Conditional, very-low-quality evidence**.
+- Benefit is best established in **IBS-D**; **studies in IBS with constipation (IBS-C) are lacking**, and IBS-C patients instead benefit from a higher intake of **soluble fiber** ([[aga-2022-diet-ibs]]).
+- [[acg-2020-ibs|American College of Gastroenterology (ACG)]] recommends a **limited trial** of a low-FODMAP diet to improve global IBS symptoms — **Conditional, very-low-quality evidence**.
 
 ---
 

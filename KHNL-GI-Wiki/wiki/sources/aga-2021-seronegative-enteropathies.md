@@ -14,15 +14,15 @@ sources: []
 - **Year:** 2021
 - **Journal/Publisher:** *Gastroenterology* 2021;160(1):437–444
 - **DOI:** [10.1053/j.gastro.2020.08.061](https://doi.org/10.1053/j.gastro.2020.08.061)
-- **Type:** guideline (AGA Clinical Practice Update — expert review)
+- **Type:** guideline (American Gastroenterological Association [AGA] Clinical Practice Update — expert review)
 
 **Evidence base:** the update states its methods as collected findings from published cohort, case–control, and cross-sectional studies of diagnosis, and case series and descriptive studies of management. The 8 Best Practice Advice statements carry **no evidence grade or strength rating**.
 
 ## Summary
 
-Expert review on the patient whose duodenal biopsy shows **villous atrophy while celiac serology is negative** — seronegative enteropathy. The update's central move is to separate three things that are routinely conflated: seronegative **celiac disease** (CeD), CeD with **selective IgA deficiency** (IgA-based tests are falsely negative — this is *not* seronegative disease), and the wide range of **non-celiac causes of villous atrophy** (immune-mediated, infectious, iatrogenic, inflammatory).
+Expert review on the patient whose duodenal biopsy shows **villous atrophy while celiac serology is negative** — seronegative enteropathy. The update's central move is to separate three things that are routinely conflated: seronegative **celiac disease** (CeD), CeD with **selective immunoglobulin A (IgA) deficiency** (IgA-based tests are falsely negative — this is *not* seronegative disease), and the wide range of **non-celiac causes of villous atrophy** (immune-mediated, infectious, iatrogenic, inflammatory).
 
-Seronegative enteropathy is defined by *some degree of villous atrophy* plus negative tTG, DGP, and EMA. **Villous atrophy must be present**: increased intraepithelial lymphocytes (IELs) with normal villi alone does not qualify as either seronegative CeD or seronegative enteropathy. Seronegative CeD is defined as patients with or without GI signs and symptoms of CeD, in the presence of villous atrophy and compatible HLA genetics, and without IgA/IgG tTG, IgA/IgG DGP, and IgA/IgG EMA, who show clinical and histologic response to the gluten-free diet (GFD) and for whom other etiologies have been examined. It comprises roughly **1.7%–5% of all patients with CeD**, but is the single most common cause of seronegative enteropathy — **up to one-third of cases in White patients**.
+Seronegative enteropathy is defined by *some degree of villous atrophy* plus negative tissue transglutaminase (tTG), deamidated gliadin peptide (DGP), and endomysial antibody (EMA). **Villous atrophy must be present**: increased intraepithelial lymphocytes (IELs) with normal villi alone does not qualify as either seronegative CeD or seronegative enteropathy. Seronegative CeD is defined as patients with or without gastrointestinal (GI) signs and symptoms of CeD, in the presence of villous atrophy and compatible human leukocyte antigen (HLA) genetics, and without IgA/immunoglobulin G (IgG) tTG, IgA/IgG DGP, and IgA/IgG EMA, who show clinical and histologic response to the gluten-free diet (GFD) and for whom other etiologies have been examined. It comprises roughly **1.7%–5% of all patients with CeD**, but is the single most common cause of seronegative enteropathy — **up to one-third of cases in White patients**.
 
 The diagnostic sequence is: confirm the histology with an experienced GI pathologist (orientation and mimics matter), complete the serologic panel including IgG isotypes if IgA deficient, take a detailed medication and travel history, then use **HLA-DQ2/DQ8 genotyping as the rule-out test** — a genuinely negative HLA result excludes seronegative CeD and spares the patient a gluten challenge and an empiric GFD. HLA-compatible seronegative patients with villous atrophy are treated with an empiric GFD and **re-scoped after 1–3 years** to confirm histologic improvement, which is what retrospectively establishes the diagnosis.
 
@@ -60,7 +60,7 @@ Where an alternative etiology is found it is treated on its own terms (Table 2 o
 
 ### Histologic evaluation
 
-- Diagnosis requires **EGD with duodenal- and/or jejunal-oriented biopsies showing villous atrophy**.
+- Diagnosis requires **esophagogastroduodenoscopy (EGD) with duodenal- and/or jejunal-oriented biopsies showing villous atrophy**.
 - **A total of 4–6 biopsy specimens should be submitted from the second portion of the duodenum and the duodenal bulb.**
 - Findings should be reviewed with an **experienced GI pathologist** to confirm villous atrophy is present and that biopsies are **optimally oriented**.
 - Clinicians should consider using the **Corazza–Villanacci classification** to describe duodenal histologic findings. (The update names the classification but does not print its grades.)
@@ -119,7 +119,7 @@ Where an alternative etiology is found it is treated on its own terms (Table 2 o
 
 ## Contradictions / Open Questions
 
-- **Biopsy count vs [[acg-2022-celiac|ACG 2022]].** This update asks for a **total of 4–6 specimens** from the second portion of the duodenum and the bulb; ACG 2022 asks for **1–2 bulb specimens plus ≥4 postbulbar specimens (≥6 total)** in separately labeled jars. [[celiac-disease]] follows the newer ACG figure; when villous atrophy is already present and the question is its cause, 4–6 oriented specimens from both sites is the operative minimum here.
+- **Biopsy count vs [[acg-2022-celiac|American College of Gastroenterology (ACG) 2022]].** This update asks for a **total of 4–6 specimens** from the second portion of the duodenum and the bulb; ACG 2022 asks for **1–2 bulb specimens plus ≥4 postbulbar specimens (≥6 total)** in separately labeled jars. [[celiac-disease]] follows the newer ACG figure; when villous atrophy is already present and the question is its cause, 4–6 oriented specimens from both sites is the operative minimum here.
 - **Budesonide taper vs [[aga-2022-refractory-celiac|AGA 2022]].** This update gives a defined **9-month slow taper** from 9 mg daily; the 2022 refractory-CeD update states that initial doses and taper recommendations for steroids "have not been examined rigorously" and supplies no schedule. Both are AGA expert reviews without evidence grades; the 2022 statement is the newer characterization of the evidence, and the 9-month period here is the only taper duration either document names.
 - **Mild enteropathy without villous atrophy in HLA-compatible relatives** — the update reports the view that this may represent CeD, then states the optimal management is unknown. Unresolved.
 - **The Corazza–Villanacci grades themselves are not printed** in this update, so the histologic strata it endorses cannot be applied from this document alone.

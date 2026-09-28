@@ -15,21 +15,21 @@ sources: []
 - **Year:** 2021
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
 - **DOI:** [10.1053/j.gastro.2021.08.015](https://doi.org/10.1053/j.gastro.2021.08.015)
-- **Type:** GRADE-based guideline
+- **Type:** American Gastroenterological Association (AGA) Grading of Recommendations Assessment, Development and Evaluation (GRADE)-based guideline
 
 ---
 
 ## Summary
 
-This guideline addresses the **rebalanced hemostasis** of cirrhosis — abnormal PT/INR and platelet counts do **not** reliably predict bleeding — and discourages routine correction of lab abnormalities before procedures. It anchors the vault's [[cirrhosis-hemostasis]] concept.
+This guideline addresses the **rebalanced hemostasis** of cirrhosis — abnormal prothrombin time (PT)/international normalized ratio (INR) and platelet counts do **not** reliably predict bleeding — and discourages routine correction of lab abnormalities before procedures. It anchors the vault's [[cirrhosis-hemostasis]] concept.
 
 ---
 
 ## Key Recommendations
 
-- Before **common GI procedures**, the AGA makes **no recommendation** for extensive preprocedural testing; **suggests against routine FFP or platelet transfusion** to correct INR/thrombocytopenia in stable patients ("low-risk" procedures such as paracentesis, thoracentesis, ERCP, liver biopsy).
+- Before **common gastrointestinal (GI) procedures**, the AGA makes **no recommendation** for extensive preprocedural testing; **suggests against routine fresh frozen plasma (FFP) or platelet transfusion** to correct INR/thrombocytopenia in stable patients ("low-risk" procedures such as paracentesis, thoracentesis, endoscopic retrograde cholangiopancreatography (ERCP), liver biopsy).
 - **Suggests against** routine use of **thrombopoietin receptor agonists** solely to raise platelets before most procedures (individualize for higher-risk situations).
-- In **hospitalized patients with cirrhosis**, suggests **standard VTE pharmacologic prophylaxis** — cirrhosis is not protective against venous thromboembolism.
+- In **hospitalized patients with cirrhosis**, suggests **standard venous thromboembolism (VTE) pharmacologic prophylaxis** — cirrhosis is not protective against VTE.
 - **Suggests against routine** anticoagulation testing-driven correction; base decisions on clinical bleeding risk, not INR alone.
 
 ---

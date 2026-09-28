@@ -17,15 +17,15 @@ sources: []
 
 ## Summary
 
-Commentary on therapeutic endoscopy in IBD — strictures, fistulas/abscesses, and dysplasia — as an opportunity to delay or prevent surgery in selected patients.
+Commentary on therapeutic endoscopy in inflammatory bowel disease (IBD) — strictures, fistulas/abscesses, and dysplasia — as an opportunity to delay or prevent surgery in selected patients.
 
 ## Key Findings / Claims (narrative)
 
-- **Strictures — endoscopic balloon dilation (EBD)** is first-line: easy, available, technical/clinical success 74%–100%. Best for **short (≤4–5 cm), simple** strictures without deep ulcers or fistula. Target diameter **18–20 mm**; use **wire-guided CRE balloons**; reassess after each dilation (perforation can occur even with smaller balloons — no convincing balloon-size/perforation link). **No benefit from intralesional steroids**. Stricture length **≤5 cm** strongly predicts surgery-free survival (surgery risk ↑ ~8% per additional 1 cm). Less likely to succeed: length >4–5 cm, prestenotic dilation >5 cm, high CRP, multiple strictures.
-- **Endoscopic stricturotomy (EST)** and **stents (FCSEMS)** are alternatives in selected cases (stents limited by migration/ingrowth).
-- **Periprocedural:** hold antithrombotics (incl. aspirin), systemic corticosteroids, and GLP-1 receptor agonists before therapeutic endoscopy; **prophylactic antibiotics are not required prior to EBD**.
+- **Strictures — endoscopic balloon dilation (EBD)** is first-line: easy, available, technical/clinical success 74%–100%. Best for **short (≤4–5 cm), simple** strictures without deep ulcers or fistula. Target diameter **18–20 mm**; use **wire-guided controlled radial expansion (CRE) balloons**; reassess after each dilation (perforation can occur even with smaller balloons — no convincing balloon-size/perforation link). **No benefit from intralesional steroids**. Stricture length **≤5 cm** strongly predicts surgery-free survival (surgery risk ↑ ~8% per additional 1 cm). Less likely to succeed: length >4–5 cm, prestenotic dilation >5 cm, high C-reactive protein (CRP), multiple strictures.
+- **Endoscopic stricturotomy (EST)** and **stents (fully covered self-expanding metal stents [FCSEMS])** are alternatives in selected cases (stents limited by migration/ingrowth).
+- **Periprocedural:** hold antithrombotics (incl. aspirin), systemic corticosteroids, and glucagon-like peptide-1 (GLP-1) receptor agonists before therapeutic endoscopy; **prophylactic antibiotics are not required prior to EBD**.
 - **Fistulas:** optimize medical management first; obtain preprocedure imaging; choose **short and simple** fistulas for endotherapy; **prioritize drainage over closure**; drain complex fistulas endoscopically (incl. stent drainage) and close the exit/internal opening when appropriate.
-- **Dysplasia:** visible dysplasia amenable to endoscopic resection (EMR/ESD) in expert hands (see SCENIC surveillance principles).
+- **Dysplasia:** visible dysplasia amenable to endoscopic resection (endoscopic mucosal resection [EMR]/endoscopic submucosal dissection [ESD]) in expert hands (see SCENIC surveillance principles).
 
 ## Relevance to Wiki
 - [[crohns-disease]] — strengthens the endoscopic stricture-dilation pathway and adds fistula endotherapy + periprocedural drug holds.

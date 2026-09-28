@@ -22,7 +22,7 @@ sources: []
 
 ## Summary
 
-This guideline defines the role of **therapeutic [[endoscopic-ultrasound|EUS]]** for biliary access and gallbladder drainage when conventional [[ercp]] fails or is not feasible. It positions EUS-guided biliary drainage (EUS-BD) — via choledochoduodenostomy (EUS-CDS) or hepaticogastrostomy (EUS-HGS) — and EUS-guided gallbladder drainage (EUS-GBD) as effective alternatives to percutaneous (PTBD) approaches in selected patients.
+This guideline defines the role of **therapeutic [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]** for biliary access and gallbladder drainage when conventional [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] fails or is not feasible. It positions EUS-guided biliary drainage (EUS-BD) — via choledochoduodenostomy (EUS-CDS) or hepaticogastrostomy (EUS-HGS) — and EUS-guided gallbladder drainage (EUS-GBD) as effective alternatives to percutaneous transhepatic biliary drainage (PTBD) approaches in selected patients.
 
 ---
 

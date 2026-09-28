@@ -8,7 +8,7 @@ sources: [aga-2024-poem-advances, sages-2024-poem, sages-2021-poem, acg-2020-ach
 ---
 # POEM (Peroral Endoscopic Myotomy)
 
-Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal muscle via a submucosal tunnel. Mainstream therapy for [[achalasia]]; the same technique underlies [[g-poem]] (pyloromyotomy for [[gastroparesis]]). Content below is for esophageal POEM.
+Peroral endoscopic myotomy (POEM): endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal muscle via a submucosal tunnel. Mainstream therapy for [[achalasia]]; the same technique underlies [[g-poem|gastric POEM (G-POEM)]] (pyloromyotomy for [[gastroparesis]]). Content below is for esophageal POEM.
 
 ## Contents
 - [[#Preprocedure Evaluation]]
@@ -23,13 +23,13 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 
 ## Preprocedure Evaluation
 
-*Comprehensive workup is required to confirm the diagnosis before POEM (AGA 2024 BPA 1).*
+*Comprehensive workup is required to confirm the diagnosis before POEM (American Gastroenterological Association [AGA] 2024 Best Practice Advice [BPA] 1).*
 
 - **Clinical history + medication review** — establish quality/severity of symptoms; exclude opiate-induced dysmotility
-- **[[upper-endoscopy|Upper endoscopy]]** — retained frothy secretions, puckered GE junction suggest poor clearance; **retroflexed exam mandatory to exclude pseudoachalasia**
-- **Timed barium esophagram (TBE)** — confirms outflow obstruction; a 13-mm barium tablet elicits subtle EGJ narrowing; monitors severity and post-treatment effect
-- **[[high-resolution-manometry|HRM]]** — gold standard for achalasia; subtype by [[chicago-classification-v4|Chicago Classification v4.0]] for phenotype-directed treatment
-- **[[flip-panometry|FLIP]]** — useful adjunct when diagnosis equivocal; low EGJ distensibility index suggests achalasia when manometry inconclusive
+- **[[upper-endoscopy|Upper endoscopy]]** — retained frothy secretions, puckered gastroesophageal (GE) junction suggest poor clearance; **retroflexed exam mandatory to exclude pseudoachalasia**
+- **Timed barium esophagram (TBE)** — confirms outflow obstruction; a 13-mm barium tablet elicits subtle esophagogastric junction (EGJ) narrowing; monitors severity and post-treatment effect
+- **[[high-resolution-manometry|high-resolution manometry (HRM)]]** — gold standard for achalasia; subtype by [[chicago-classification-v4|Chicago Classification v4.0]] for phenotype-directed treatment
+- **[[flip-panometry|functional lumen imaging probe (FLIP)]]** — useful adjunct when diagnosis equivocal; low EGJ distensibility index suggests achalasia when manometry inconclusive
 
 ## Indications
 
@@ -37,17 +37,17 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 
 | Indication | Role of POEM |
 |---|---|
-| [[achalasia\|Achalasia]] type I & II | One of three effective options (POEM, [[heller-myotomy\|LHM]], [[pneumatic-dilation\|pneumatic dilation]]); choose by shared decision making, patient/disease characteristics, preferences, local expertise (AGA 2024 BPA 2) |
+| [[achalasia\|Achalasia]] type I & II | One of three effective options (POEM, [[heller-myotomy\|laparoscopic Heller myotomy (LHM)]], [[pneumatic-dilation\|pneumatic dilation]]); choose by shared decision making, patient/disease characteristics, preferences, local expertise (AGA 2024 BPA 2) |
 | Achalasia type III (spastic) | **Preferred treatment** — POEM allows tailored, unlimited proximal myotomy to cover the spastic segment (AGA 2024 BPA 2) |
-| [[esophagogastric-junction-outflow-obstruction\|EGJOO]] alone | Case-by-case only, after less invasive options exhausted; long-term success ~80–85% (lower than classic achalasia) (AGA 2024 BPA 3) |
-| Nonachalasia spastic disorders ([[distal-esophageal-spasm\|DES]], [[hypercontractile-esophagus\|hypercontractile esophagus]]) | Case-by-case only, after medical therapy / botulinum toxin / dilation exhausted (AGA 2024 BPA 3) |
+| [[esophagogastric-junction-outflow-obstruction\|EGJ outflow obstruction (EGJOO)]] alone | Case-by-case only, after less invasive options exhausted; long-term success ~80–85% (lower than classic achalasia) (AGA 2024 BPA 3) |
+| Nonachalasia spastic disorders ([[distal-esophageal-spasm\|distal esophageal spasm (DES)]], [[hypercontractile-esophagus\|hypercontractile esophagus]]) | Case-by-case only, after medical therapy / botulinum toxin / dilation exhausted (AGA 2024 BPA 3) |
 
-- POEM is **superior to pneumatic dilation and noninferior to [[heller-myotomy|LHM]]** in separate multicenter RCTs.
-- EGJOO is a **manometric finding, not a diagnosis** — must exclude mimics ([[obesity]], [[hiatal-hernia|hiatal hernia]], [[gerd|GERD]], external compression, [[subepithelial-lesion|submucosal mass]], opiates, artifact) and confirm symptomatic delayed emptying before intervention.
+- POEM is **superior to pneumatic dilation and noninferior to [[heller-myotomy|LHM]]** in separate multicenter randomized controlled trials (RCTs).
+- EGJOO is a **manometric finding, not a diagnosis** — must exclude mimics ([[obesity]], [[hiatal-hernia|hiatal hernia]], [[gerd|gastroesophageal reflux disease (GERD)]], external compression, [[subepithelial-lesion|submucosal mass]], opiates, artifact) and confirm symptomatic delayed emptying before intervention.
 
 ## Technique
 
-- Mucosal incision → submucosal tunnel with an [[endoscopic-submucosal-dissection|ESD]] knife → selective myotomy → mucosal closure with clips.
+- Mucosal incision → submucosal tunnel with an [[endoscopic-submucosal-dissection|endoscopic submucosal dissection (ESD)]] knife → selective myotomy → mucosal closure with clips.
 - **Tunnel orientation** (AGA 2024 BPA 5): anterior (2 o'clock) vs posterior (5 o'clock) — **equivalent** clinical success, adverse events, and post-POEM reflux (meta-analysis 18 studies, 1247 patients); posterior slightly shorter procedure time. For **prior LHM or POEM, choose the approach opposite the prior surgery** (avoids dense fibrosis plane).
 - **Myotomy length** (AGA 2024 BPA 6): optimal length **undetermined**.
   - Original Inoue technique: 7–8 cm esophageal + 2–3 cm gastric.
@@ -62,17 +62,17 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 
 - **Routine post-POEM esophagram/endoscopy** (AGA 2024 BPA 7): unclear benefit; high false-positive rate and poor correlation with clinically significant outcomes. Most complications are identified at the time of the procedure → **postprocedural testing should be driven by clinical suspicion / intraprocedural events**, not routine.
 - **Same-day discharge** (AGA 2024 BPA 8): feasible in select patients (achieved in 62–79% without post-discharge complications in retrospective series). Criteria: no intraprocedural issues requiring observation, tolerates oral fluids, minimal nausea/pain manageable orally; **contact within 24–48 h**. Consider **admission** for advanced age, significant comorbidities, poor social support, and/or limited access to specialized care — irrespective of symptoms.
-- **Acid suppression** (AGA 2024 BPA 9): strongly consider empiric [[proton-pump-inhibitors|PPI]] in the immediate post-POEM healing period given high reflux/esophagitis risk; continue **≥3–6 months** until re-evaluation.
+- **Acid suppression** (AGA 2024 BPA 9): strongly consider empiric [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] in the immediate post-POEM healing period given high reflux/esophagitis risk; continue **≥3–6 months** until re-evaluation.
 
 ## Post-POEM Reflux
 
 *GERD is the main concern after any LES-disrupting myotomy — common, and often asymptomatic.*
 
 - Abnormal acid exposure **41–56%**; esophagitis **41–65%** after POEM; **~one-quarter asymptomatic** → symptoms alone insufficient (AGA 2024 BPA 10 — *"The rate of abnormal acid exposure and esophagitis after POEM ranges between 41%–56% and 41%–65%, respectively"*).
-  - ⚠ **Contradiction — same measure, lower older estimate.** [[acg-2020-achalasia|ACG 2020]] cites a 2018 systematic review/meta-analysis (1,542 POEM vs 2,581 [[heller-myotomy|LHM]]-with-fundoplication patients) pooling **abnormal acid exposure at pH monitoring at 39.0% (95% CI 24.5–55.8%)** after POEM, and esophagitis at **29.4% (95% CI 18.5–43.3%)**. Both are tier-1; **AGA 2024 is newer, so this page asserts 41–56% / 41–65%** — and ACG's confidence intervals overlap the AGA ranges, so the two are compatible rather than truly conflicting. The paired post-LHM comparators from that same meta-analysis are on [[heller-myotomy]].
+  - ⚠ **Contradiction — same measure, lower older estimate.** [[acg-2020-achalasia|American College of Gastroenterology (ACG) 2020]] cites a 2018 systematic review/meta-analysis (1,542 POEM vs 2,581 [[heller-myotomy|LHM]]-with-fundoplication patients) pooling **abnormal acid exposure at pH monitoring at 39.0% (95% confidence interval [CI] 24.5–55.8%)** after POEM, and esophagitis at **29.4% (95% CI 18.5–43.3%)**. Both are tier-1; **AGA 2024 is newer, so this page asserts 41–56% / 41–65%** — and ACG's confidence intervals overlap the AGA ranges, so the two are compatible rather than truly conflicting. The paired post-LHM comparators from that same meta-analysis are on [[heller-myotomy]].
 - **Objective [[reflux-testing|reflux testing]] generally 6–12 months post-POEM:**
   - **Off-PPI** pH monitoring if presence of [[gerd|GERD]] is in question.
-  - **On-PPI** testing if GERD already established or esophagitis **LA grade B or higher** — assesses adequacy of acid suppression.
+  - **On-PPI** testing if GERD already established or esophagitis **Los Angeles (LA) grade B or higher** — assesses adequacy of acid suppression.
   - The **Los Angeles grade A–D mucosal-break criteria** are shown in [[acg-2025-egd-quality|ACG/ASGE 2025]] **Figure 2, "Los Angeles classification scheme for erosive esophagitis"** (and [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2); see [[reflux-testing]] for the LA grade.
 - Reflux symptoms after POEM may **not** be acid-related (food stasis, acid fermentation, visceral hypersensitivity) — objective testing discriminates.
 - **Management ladder:** confirm PPI adherence (take 30–60 min before meals) → diet/lifestyle + alginates for mild/breakthrough → [[potassium-competitive-acid-blockers|potassium-competitive acid blocker]] (e.g., [[vonoprazan]]) a possible future preferred option for difficult erosive esophagitis → **[[antireflux-surgery|antireflux procedure]]** (endoscopic or surgical fundoplication) in a small subset after confirming GERD, excluding other etiologies, and failing optimization.
@@ -83,7 +83,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 *Long-term surveillance encouraged for disease progression and GERD complications (AGA 2024 BPA 11).*
 
 - [[achalasia|Achalasia]] is chronic → endoscopic surveillance to detect disease progression and complications of asymptomatic GERD; specific intervals not established. FLIP may be integrated to assess EGJ opening; some programs alternate esophagram and endoscopy.
-- **[[esophageal-cancer|Esophageal cancer]]:** achalasia patients had **5-fold higher risk** (HR 4.6; 95% CI 2.3–9.2) vs non-achalasia in a 9314-patient cohort — supports (but is not a routine endorsement of) endoscopic surveillance.
+- **[[esophageal-cancer|Esophageal cancer]]:** achalasia patients had **5-fold higher risk** (hazard ratio [HR] 4.6; 95% CI 2.3–9.2) vs non-achalasia in a 9314-patient cohort — supports (but is not a routine endorsement of) endoscopic surveillance.
 - Follow-up endoscopy and/or pH monitoring to objectively evaluate abnormal acid exposure; screen for erosive esophagitis and [[barretts-esophagus|Barrett's esophagus]].
 
 ## Adverse Events
@@ -95,8 +95,8 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 ## Management After Failed Myotomy
 
 - ~**10–15%** of achalasia patients have persistent/recurrent symptoms (AGA 2024 BPA 12).
-- Re-evaluate comprehensively: repeat [[upper-endoscopy|EGD]], [[high-resolution-manometry|HRM]], and timed barium esophagram (use TBE as first-line for recurrent symptoms).
-- **POEM may be superior to pneumatic dilation for failed initial POEM or LHM** (AGA 2024 BPA 12) — **the only randomized comparison**: 1 RCT of **POEM vs [[pneumatic-dilation|PD]] after failed LHM**, success **62% vs 27%**; no difference in esophagitis, reflux symptoms, PPI use, or serious adverse events. Individualize by etiology of failure, local expertise, patient characteristics, and preferences.
+- Re-evaluate comprehensively: repeat [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]], [[high-resolution-manometry|HRM]], and timed barium esophagram (use TBE as first-line for recurrent symptoms).
+- **POEM may be superior to pneumatic dilation for failed initial POEM or LHM** (AGA 2024 BPA 12) — **the only randomized comparison**: 1 RCT of **POEM vs [[pneumatic-dilation|pneumatic dilation (PD)]] after failed LHM**, success **62% vs 27%**; no difference in esophagitis, reflux symptoms, PPI use, or serious adverse events. Individualize by etiology of failure, local expertise, patient characteristics, and preferences.
 - ⚠ **Read that against the uncontrolled series, which are not the same statistic.** [[acg-2020-achalasia|ACG 2020]] reports **single-arm** salvage-POEM success (no comparator): a 13-centre prospective registry of **51** post-LHM patients — **94%** clinical success (Eckardt ≤3) at 12 months; a 2018 single-centre series of **46** post-LHM patients — **95.7%** (Eckardt ≤3 and no further treatment) at median 28 months. **The RCT's 62% is the number that supports a choice between POEM and PD; the 90s are what a case series reports when everyone gets POEM.** ACG's own graded statement is about **safety**, not efficacy: *"We suggest that POEM is a safe option in patients with achalasia who have previously undergone PD or LHM"* (*Strong; Low*).
 
 ## Outcomes
@@ -110,7 +110,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 | [[esophagogastric-junction-outflow-obstruction\|EGJOO]] | ~80–85% long-term |
 | POEM after failed LHM | **62% vs PD 27%** — RCT, randomized comparator ([[aga-2024-poem-advances\|AGA 2024]]); **94%–95.7%** in uncontrolled single-arm series ([[acg-2020-achalasia\|ACG 2020]]) |
 
-*G-POEM (pyloromyotomy for gastroparesis) outcomes live on [[g-poem]] — the dedicated AGA 2023 CPU reports durable clinical success ~50–60%, and explicitly flags the older short-term pooled figures (71–82%) as overestimates.*
+*G-POEM (pyloromyotomy for gastroparesis) outcomes live on [[g-poem]] — the dedicated AGA 2023 Clinical Practice Update (CPU) reports durable clinical success ~50–60%, and explicitly flags the older short-term pooled figures (71–82%) as overestimates.*
 
 ---
 

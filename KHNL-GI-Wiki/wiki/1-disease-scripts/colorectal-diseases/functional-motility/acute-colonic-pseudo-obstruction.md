@@ -42,25 +42,25 @@ Massive **colonic dilatation without mechanical obstruction**, from altered auto
 - [[toxic-megacolon|Toxic megacolon]] ([[clostridioides-difficile]], [[ulcerative-colitis]])
 
 ## Diagnostics
-- **Contrast-enhanced CT** — preferred; excludes mechanical obstruction and assesses cecal diameter/ischemia (plain films cannot always distinguish functional from mechanical)
+- **Contrast-enhanced computed tomography (CT)** — preferred; excludes mechanical obstruction and assesses cecal diameter/ischemia (plain films cannot always distinguish functional from mechanical)
 - Plain abdominal film — shows colonic dilatation; serial films track cecal diameter
 - Water-soluble contrast enema — alternative to exclude distal mechanical obstruction
 - Labs: electrolytes (Mg, K, Ca, phosphate), assess infection, review medications
 
 ## Therapeutics
 
-**Stepwise algorithm ([[asge-2020-acpo-volvulus|ASGE 2020]]):**
+**Stepwise algorithm ([[asge-2020-acpo-volvulus|American Society for Gastrointestinal Endoscopy (ASGE) 2020]]):**
 
 ```mermaid
 flowchart TD
-    A["ACPO suspected<br/>(exclude mechanical obstruction by CT)"] --> B{"Complicated?<br/>ischemia / peritonitis /<br/>cecal Ø >12 cm / severe pain"}
+    A["Acute colonic pseudo-obstruction (ACPO) suspected<br/>(exclude mechanical obstruction by CT)"] --> B{"Complicated?<br/>ischemia / peritonitis /<br/>cecal Ø >12 cm / severe pain"}
     B -- Yes --> S["Surgical management"]
-    B -- No --> C["Conservative therapy up to 48–72 h:<br/>correct metabolic/infectious/drug factors,<br/>NPO, NG decompression, ambulation"]
+    B -- No --> C["Conservative therapy up to 48–72 h:<br/>correct metabolic/infectious/drug factors,<br/>nothing by mouth (NPO), nasogastric (NG) decompression, ambulation"]
     C --> D{"Resolved?"}
-    D -- Yes --> E["Continue supportive care<br/>± daily PEG via NG to reduce recurrence"]
-    D -- No / poor candidate / perforation risk --> F["Neostigmine 2 mg IV over 3–5 min<br/>(cardiac monitoring)"]
+    D -- Yes --> E["Continue supportive care<br/>± daily polyethylene glycol (PEG) via NG to reduce recurrence"]
+    D -- No / poor candidate / perforation risk --> F["Neostigmine 2 mg intravenous (IV) over 3–5 min<br/>(cardiac monitoring)"]
     F --> G{"Response?"}
-    G -- No --> H["2nd dose → alternative routes<br/>(SC / continuous IV infusion)"]
+    G -- No --> H["2nd dose → alternative routes<br/>(subcutaneous (SC) / continuous IV infusion)"]
     G -- Refractory / contraindicated --> I["Endoscopic decompression<br/>+ decompression-tube placement"]
 ```
 *Figure — ACPO management algorithm. ([[asge-2020-acpo-volvulus]])*
@@ -71,9 +71,9 @@ flowchart TD
 - Dose **2 mg IV over 3–5 min** with **continuous cardiovascular monitoring** (bradycardia/asystole risk); atropine at bedside
 - Effective in ~85–94%; non-response associated with male sex, younger age, postsurgical status, electrolyte imbalance
 - No response, partial response, or recurrence → **second dose** (clinical response 40–100%)
-- Refractory to bolus → **subcutaneous** neostigmine, or **continuous IV infusion 0.4 mg/h** (5 mg in 50 mL 0.9% saline; 0.4–0.8 mg/h over 24 h in the original critical-illness protocol). Initial clinical response similar to bolus (62.2% vs 81.6%, NS), but **time to response is longer with infusion** (510 vs 165 min); infusion gave greater 24-h bowel-diameter reduction and possibly fewer side effects
+- Refractory to bolus → **subcutaneous** neostigmine, or **continuous IV infusion 0.4 mg/h** (5 mg in 50 mL 0.9% saline; 0.4–0.8 mg/h over 24 h in the original critical-illness protocol). Initial clinical response similar to bolus (62.2% vs 81.6%, not significant (NS)), but **time to response is longer with infusion** (510 vs 165 min); infusion gave greater 24-h bowel-diameter reduction and possibly fewer side effects
 - **Absolute contraindications:** mechanical bowel/urinary obstruction, known hypersensitivity
-- **Relative contraindications:** bradycardia, asthma, renal insufficiency, [[peptic-ulcer-disease|peptic ulcer disease]], recent MI, acidosis
+- **Relative contraindications:** bradycardia, asthma, renal insufficiency, [[peptic-ulcer-disease|peptic ulcer disease]], recent myocardial infarction (MI), acidosis
 
 **Recurrence prophylaxis:** **daily PEG via NG tube** reduces recurrence ([[asge-2020-acpo-volvulus|ASGE 2020]]) — not specific to any one treatment arm.
 

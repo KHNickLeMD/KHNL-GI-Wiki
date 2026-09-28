@@ -16,13 +16,13 @@ sources: []
 - **Year:** 2023
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
 - **DOI:** [10.1053/j.gastro.2022.12.007](https://doi.org/10.1053/j.gastro.2022.12.007)
-- **Type:** GRADE-based guideline
+- **Type:** Grading of Recommendations Assessment, Development and Evaluation (GRADE)-based guideline
 
 ---
 
 ## Summary
 
-The UC companion guideline defines the role of **CRP, fecal calprotectin, and fecal lactoferrin** in monitoring established [[ulcerative-colitis]], supporting a biomarker- and symptom-based strategy over symptom monitoring alone.
+The American Gastroenterological Association (AGA) ulcerative colitis (UC) companion guideline defines the role of **C-reactive protein (CRP), fecal calprotectin, and fecal lactoferrin** in monitoring established [[ulcerative-colitis]], supporting a biomarker- and symptom-based strategy over symptom monitoring alone.
 
 ---
 

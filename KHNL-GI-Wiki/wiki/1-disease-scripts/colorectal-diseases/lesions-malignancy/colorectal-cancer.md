@@ -7,7 +7,7 @@ updated: 2026-09-08
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc, kanaka-2022-colonic-stent-bts-right-sided, aga-2020-young-adult-onset-crc, aga-2021-crc-chemoprevention]
 ---
 
-*Screening is covered in [[colorectal-cancer-screening]] and in detail below (FIT). **CRC diagnosed at 18 – <50 years of age** has its own presentation, germline yield, fertility and surveillance considerations — see [[early-onset-colorectal-cancer]]. Hereditary syndromes (workup: [[colorectal-polyposis]]): [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy]] and [[colonoscopy]].*
+*Screening is covered in [[colorectal-cancer-screening]] and in detail below (fecal immunochemical test [FIT]). **Colorectal cancer (CRC) diagnosed at 18 – <50 years of age** has its own presentation, germline yield, fertility and surveillance considerations — see [[early-onset-colorectal-cancer]]. Hereditary syndromes (workup: [[colorectal-polyposis]]): [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy]] and [[colonoscopy]].*
 
 ## Contents
 - [[#Assessment]]
@@ -49,13 +49,13 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015
 ### Establishing the Diagnosis
 
 - [[colonoscopy|Colonoscopy]] with biopsy is the diagnostic standard
-- CT C/A/P + CEA for staging
-- MRI pelvis + [[endoscopic-ultrasound|EUS]] for rectal cancer local staging
-- **Age is not a reason to defer the diagnostic exam.** Diagnostic evaluation of the colon and rectum is encouraged for **all patients, irrespective of age**, presenting with symptoms that may be consistent with CRC — rectal bleeding, weight loss, change in bowel habit, abdominal pain, [[iron-deficiency-anemia|iron deficiency anemia]] ([[aga-2020-young-adult-onset-crc]] BPA 1). This is a **diagnostic** rule and is independent of the average-risk **screening** start age; the delay it exists to prevent averages **6 months** in patients under 50 ([[early-onset-colorectal-cancer]])
+- computed tomography (CT) chest/abdomen/pelvis + carcinoembryonic antigen (CEA) for staging
+- magnetic resonance imaging (MRI) pelvis + [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] for rectal cancer local staging
+- **Age is not a reason to defer the diagnostic exam.** Diagnostic evaluation of the colon and rectum is encouraged for **all patients, irrespective of age**, presenting with symptoms that may be consistent with CRC — rectal bleeding, weight loss, change in bowel habit, abdominal pain, [[iron-deficiency-anemia|iron deficiency anemia]] ([[aga-2020-young-adult-onset-crc]] Best Practice Advice (BPA) 1). This is a **diagnostic** rule and is independent of the average-risk **screening** start age; the delay it exists to prevent averages **6 months** in patients under 50 ([[early-onset-colorectal-cancer]])
 
 ### Severity Assessment / Staging
 
-**TNM 8th edition (AJCC, 2017)** — as reproduced in [[nccn-2026-colon-cancer]]. **LN (N) status drives adjuvant therapy** (stage III and high-risk stage II).
+**TNM 8th edition (American Joint Committee on Cancer (AJCC), 2017)** — as reproduced in [[nccn-2026-colon-cancer]]. **Lymph node (LN, N) status drives adjuvant therapy** (stage III and high-risk stage II).
 
 | T | Definition |
 |---|---|
@@ -93,11 +93,11 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015
 | IIIC | T4a · T3–T4a · T4b | N2a · N2b · N1–N2 | M0 |
 | IVA / IVB / IVC | Any T | Any N | M1a / M1b / M1c |
 
-**High-risk stage II** — historical high-risk factors for recurrence (**exclusive of MSI-H** cancers); **any one** qualifies: poorly differentiated/undifferentiated histology · lymphatic/vascular invasion · bowel obstruction · **<12 lymph nodes examined** · perineural invasion · localized perforation · close, indeterminate, or positive margins · high-tier tumor budding. No data correlate which risk feature should drive **choice** of chemotherapy; ctDNA is **prognostic, not predictive** (not for de-escalation outside a trial). [[nccn-2026-colon-cancer]]
+**High-risk stage II** — historical high-risk factors for recurrence (**exclusive of microsatellite instability-high (MSI-H)** cancers); **any one** qualifies: poorly differentiated/undifferentiated histology · lymphatic/vascular invasion · bowel obstruction · **<12 lymph nodes examined** · perineural invasion · localized perforation · close, indeterminate, or positive margins · high-tier tumor budding. No data correlate which risk feature should drive **choice** of chemotherapy; circulating tumor DNA (ctDNA) is **prognostic, not predictive** (not for de-escalation outside a trial). [[nccn-2026-colon-cancer]]
 
-- **≥12 nodes** must be examined for adequate staging (AJCC/CAP); if <12 in stage II (pN0), the specimen should be re-examined for additional nodes.
+- **≥12 nodes** must be examined for adequate staging (AJCC/College of American Pathologists (CAP)); if <12 in stage II (pN0), the specimen should be re-examined for additional nodes.
 
-**Tumor budding — the criteria behind "high-tier"** *(ITBCC 2016, as adopted by [[nccn-2026-colon-cancer]])*. This is one of the high-risk stage II factors above and also bears on whether a malignant polyp was adequately treated endoscopically, so the tier must be counted, not eyeballed:
+**Tumor budding — the criteria behind "high-tier"** *(International Tumor Budding Consensus Conference (ITBCC) 2016, as adopted by [[nccn-2026-colon-cancer]])*. This is one of the high-risk stage II factors above and also bears on whether a malignant polyp was adequately treated endoscopically, so the tier must be counted, not eyeballed:
 
 - **Definition:** a single cell or a cluster of **≤4 neoplastic cells** on H&E at the **advancing edge** of the invasive carcinoma.
 - **How to count:** report the total number of buds from **one selected hot spot measuring 0.785 mm²**.
@@ -114,7 +114,7 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015
 
 *Workup: see [[acute-lower-gi-bleeding]].*
 
-- **[[inflammatory-bowel-disease|IBD]]-associated dysplasia** — long-standing [[ulcerative-colitis]] or colonic [[crohns-disease|Crohn's]]; surveyed and resected by SCENIC technique rather than treated as sporadic adenoma
+- **[[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]-associated dysplasia** — long-standing [[ulcerative-colitis]] or colonic [[crohns-disease|Crohn's]]; surveyed and resected by SCENIC technique rather than treated as sporadic adenoma
 - **Large adenoma / [[polypectomy|malignant polyp]]** — the key distinction is depth of submucosal invasion and adverse histology, which decides endoscopic vs surgical management (criteria on [[polypectomy]])
 - **[[gastroenteropancreatic-neuroendocrine-tumors|Neuroendocrine tumor]]** — submucosal, yellowish, often rectal; graded by Ki-67/mitotic rate, not by TNM alone
 - **Lymphoma**, **anal canal squamous cell carcinoma**, and **metastatic disease** to the colon
@@ -132,15 +132,15 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015
 
 ### Oncologic Management (NCCN 2026)
 
-Per [[nccn-2026-colon-cancer]]. **Universal MMR/MSI testing** is recommended for all colon cancers (Lynch screening — see [[lynch-syndrome]] — and immunotherapy candidacy). For metastatic disease, profile **RAS (KRAS/NRAS), BRAF V600E, HER2 (ERBB2), and NTRK**; **DPYD** testing informs fluoropyrimidine toxicity risk before treatment.
+Per [[nccn-2026-colon-cancer]]. **Universal mismatch repair (MMR)/microsatellite instability (MSI) testing** is recommended for all colon cancers (Lynch screening — see [[lynch-syndrome]] — and immunotherapy candidacy). For metastatic disease, profile **RAS (KRAS/NRAS), BRAF V600E, HER2 (ERBB2), and NTRK**; **DPYD** testing informs fluoropyrimidine toxicity risk before treatment.
 
-**Localized disease** is treated with endoscopic resection (selected favorable T1 cancers) or colectomy with regional lymphadenectomy (≥12 nodes for adequate staging). **Adjuvant FOLFOX or CAPOX** is given for stage III and high-risk stage II disease, with duration (3 vs 6 months) **risk-stratified per IDEA**; MSI-H stage II tumors generally do not benefit from single-agent fluoropyrimidine.
+**Localized disease** is treated with endoscopic resection (selected favorable T1 cancers) or colectomy with regional lymphadenectomy (≥12 nodes for adequate staging). **Adjuvant folinic acid, fluorouracil, and oxaliplatin (FOLFOX) or capecitabine and oxaliplatin (CAPOX)** is given for stage III and high-risk stage II disease, with duration (3 vs 6 months) **risk-stratified per IDEA**; MSI-H stage II tumors generally do not benefit from single-agent fluoropyrimidine.
 
 **IDEA duration stratification (stage III):**
 
 | Risk group | Definition | Preferred adjuvant duration |
 |---|---|---|
-| **Low-risk stage III** | **T1–3, N1** | CAPEOX **3 mo**, or FOLFOX **3–6 mo** |
+| **Low-risk stage III** | **T1–3, N1** | capecitabine and oxaliplatin (CAPEOX) **3 mo**, or FOLFOX **3–6 mo** |
 | **High-risk stage III** | **T4, N1–2** *or* **any T, N2** | CAPEOX **3–6 mo**, or FOLFOX **6 mo** |
 
 - Alternatives in either group: capecitabine or fluorouracil/leucovorin × 6 mo.
@@ -151,14 +151,14 @@ Per [[nccn-2026-colon-cancer]]. **Universal MMR/MSI testing** is recommended for
 - **Anti-EGFR (cetuximab/panitumumab)** only for **RAS-wild-type, BRAF-wild-type, left-sided** primaries.
 - **Bevacizumab** added to chemotherapy backbones broadly.
 - **BRAF V600E** → **encorafenib + cetuximab**.
-- **MSI-H/dMMR** → **pembrolizumab** first-line (or nivolumab ± ipilimumab).
+- **MSI-H/deficient MMR (dMMR)** → **pembrolizumab** first-line (or nivolumab ± ipilimumab).
 - **HER2-amplified, RAS-wild-type** → HER2-directed therapy (trastuzumab + tucatinib/pertuzumab, or trastuzumab deruxtecan).
 - **KRAS G12C** → G12C inhibitor (adagrasib/sotorasib) + anti-EGFR in later lines.
 - **Resectable oligometastatic disease** (especially liver-limited) → curative-intent resection/ablation integrated with systemic therapy.
 
 ```mermaid
 flowchart TD
-    A["Colon adenocarcinoma<br/>(colonoscopy + biopsy)"] --> B["Stage: CT C/A/P, CEA, TNM;<br/>universal MMR/MSI; if metastatic add<br/>RAS, BRAF V600E, HER2, NTRK, DPYD"]
+    A["Colon adenocarcinoma<br/>(colonoscopy + biopsy)"] --> B["Stage: CT chest/abdomen/pelvis, CEA, TNM;<br/>universal MMR/MSI; if metastatic add<br/>RAS, BRAF V600E, HER2, NTRK, DPYD"]
     B --> C{"Stage?"}
     C -->|"Early T1 (favorable, in polyp)"| ER["Endoscopic resection"]
     C -->|"Localized (II–III)"| S["Colectomy + regional lymphadenectomy"]
@@ -167,39 +167,39 @@ flowchart TD
     ADJ -->|"No / low-risk II"| OBS["Observation"]
     C -->|"Metastatic"| M{"Biomarkers + sidedness"}
     M -->|"MSI-H / dMMR"| IO["Pembrolizumab (or nivo±ipi)"]
-    M -->|"RAS-WT, BRAF-WT, left-sided"| EGFR["Chemo + anti-EGFR (cetuximab/panitumumab) ± bevacizumab"]
+    M -->|"RAS wild-type (WT), BRAF-WT, left-sided"| EGFR["Chemo + anti-EGFR (cetuximab/panitumumab) ± bevacizumab"]
     M -->|"BRAF V600E"| BR["Encorafenib + cetuximab"]
     M -->|"HER2-amplified, RAS-WT"| H2["HER2-directed therapy"]
     M -->|"Resectable oligomets (liver)"| RES["Resection/ablation + systemic therapy"]
 ```
 
-*Algorithm — NCCN colon cancer management, recreated in original form (not an NCCN figure). ([[nccn-2026-colon-cancer]])*
+*Algorithm — National Comprehensive Cancer Network (NCCN) colon cancer management, recreated in original form (not an NCCN figure). ([[nccn-2026-colon-cancer]])*
 
 ### Endoscopic Staging & Management (ASGE 2013)
 
 [[asge-2013-crc-staging-management]] — endoscopic-specific guidance, complementary to NCCN.
 
-- **EUS for rectal staging:** preoperative locoregional [[endoscopic-ultrasound|EUS]] guides therapy. T-staging sensitivity 80–96%, specificity 75–98% (T0–T3); T-accuracy generally higher than other cross-sectional imaging. Nodal staging modest (67% sens, 78% spec) — not significantly better than CT/MRI. EUS-FNA samples suspicious perirectal nodes. Goal: separate T1–2N0 from T3/N1–2 (latter gets chemoradiation).
+- **EUS for rectal staging:** preoperative locoregional [[endoscopic-ultrasound|EUS]] guides therapy. T-staging sensitivity 80–96%, specificity 75–98% (T0–T3); T-accuracy generally higher than other cross-sectional imaging. Nodal staging modest (67% sens, 78% spec) — not significantly better than CT/MRI. EUS-guided fine-needle aspiration (EUS-FNA) samples suspicious perirectal nodes. Goal: separate T1–2N0 from T3/N1–2 (latter gets chemoradiation).
 - **Malignant polyp — endoscopic vs surgical:**
   - **Endoscopic** management for pedunculated polyps with cancer confined to submucosa of polyp/stalk **and favorable histology** (the favorable-vs-unfavorable criteria — depth of submucosal invasion, margin, grade, budding, lymphovascular invasion — live on [[polypectomy]]).
   - **Surgery** for any malignant polyp with **unfavorable histology**, for sessile/flat neoplasia with submucosal invasion, or for sessile/flat lesions found malignant after **piecemeal** resection (if surgical candidate).
-  - Attempt EMR only if complete resection is anticipated (see [[endoscopic-mucosal-resection]]).
-  - **Early (T1) CRC, AGA 2025:** suspected T1 CRC should be removed **en bloc** ([[colorectal-esd|ESD]] preferred; [[endoscopic-full-thickness-resection|eFTR]] for select <2 cm with deep SMI). For high-risk T1 CRC surgery is standard, but >80% have no LNM at surgery — individualize against operative morbidity; deep submucosal invasion *as a solitary feature* carries only ~2.6% LNM risk. Detailed criteria, LNM data, and post-resection surveillance: [[polypectomy]].
-- **Malignant colonic obstruction:** endoscopic options are SEMS, tumor debulking, or decompression tube. Colonic SEMS as **bridge to surgery** → single-stage elective surgery succeeds in 60–85%. SEMS major adverse events: obstruction, migration, perforation. Obtain early surgical consultation even after successful decompression; avoid endoscopy with peritoneal signs or suspected perforation.
+  - Attempt endoscopic mucosal resection (EMR) only if complete resection is anticipated (see [[endoscopic-mucosal-resection]]).
+  - **Early (T1) CRC, American Gastroenterological Association (AGA) 2025:** suspected T1 CRC should be removed **en bloc** ([[colorectal-esd|endoscopic submucosal dissection (ESD)]] preferred; [[endoscopic-full-thickness-resection|endoscopic full-thickness resection (eFTR)]] for select <2 cm with deep submucosal invasion (SMI)). For high-risk T1 CRC surgery is standard, but >80% have no lymph node metastasis (LNM) at surgery — individualize against operative morbidity; deep submucosal invasion *as a solitary feature* carries only ~2.6% LNM risk. Detailed criteria, LNM data, and post-resection surveillance: [[polypectomy]].
+- **Malignant colonic obstruction:** endoscopic options are self-expandable metal stent (SEMS), tumor debulking, or decompression tube. Colonic SEMS as **bridge to surgery** → single-stage elective surgery succeeds in 60–85%. SEMS major adverse events: obstruction, migration, perforation. Obtain early surgical consultation even after successful decompression; avoid endoscopy with peritoneal signs or suspected perforation.
 
 ### Malignant Large Bowel Obstruction — Bridge to Surgery vs Emergency Resection
 
 **Two distinct indications — do not merge them.** *Bridge to surgery* (BTS) = preoperative SEMS decompression then **elective** resection, in **resectable** disease where every patient goes on to surgery. *Palliative stenting* of incurable obstruction is a different decision (the stomach's version of that question is [[jeurnink-2010-sustent-goo|SUSTENT]], on [[gastric-outlet-obstruction]]). The comparator for BTS is **emergency one-stage resection (ER)**.
 
-**Why side matters.** BTS is the established approach for **left-sided** obstruction; right-sided disease has been managed by emergency resection with primary anastomosis on the assumption that this is safe. Right-sided is **32–54% of malignant large bowel obstruction**, yet only **~5%** of reported BTS cases. Right-sided SEMS is technically harder — right-colon tumour site independently predicted technical difficulty (OR 2.5, 95% CI 1.61–4.01). ([[kanaka-2022-colonic-stent-bts-right-sided]])
+**Why side matters.** BTS is the established approach for **left-sided** obstruction; right-sided disease has been managed by emergency resection with primary anastomosis on the assumption that this is safe. Right-sided is **32–54% of malignant large bowel obstruction**, yet only **~5%** of reported BTS cases. Right-sided SEMS is technically harder — right-colon tumour site independently predicted technical difficulty (odds ratio (OR) 2.5, 95% confidence interval (CI) 1.61–4.01). ([[kanaka-2022-colonic-stent-bts-right-sided]])
 
 **Right-sided outcomes — BTS vs ER** (meta-analysis, 7 non-randomized comparative studies, n=5136; [[kanaka-2022-colonic-stent-bts-right-sided]]):
 
-| Outcome | BTS | ER | Effect | GRADE |
+| Outcome | BTS | ER | Effect | Grading of Recommendations Assessment, Development and Evaluation (GRADE) |
 |---|---|---|---|---|
 | Postoperative complications | **19.3%** | 31.3% | OR 0.78 (0.66–0.92) | ⊕OOO very low |
 | Postoperative mortality | **0.9%** | 5.2% | OR 0.51 (0.28–0.92) | ⊕⊕OO low |
-| **Severe complications** (Clavien–Dindo ≥III / reintervention) | — | — | **OR 0.98 (0.68–1.41) — NS** | — |
+| **Severe complications** (Clavien–Dindo ≥III / reintervention) | — | — | **OR 0.98 (0.68–1.41) — not significant (NS)** | — |
 | Primary anastomosis | **97.8%** | 85.9% | P=0.04 | very low |
 | [[ostomy-management\|Stoma construction]] | **2.0%** | 11.0% | P<0.01 | low |
 | Laparoscopic surgery | **48.5%** | 15.7% | P<0.01 (I²=67% — weakest finding) | low |
@@ -209,9 +209,9 @@ flowchart TD
 
 - **Read the rates, not the odds ratios,** for primary anastomosis / stoma / laparoscopic surgery — those ORs are computed on the complement and the source's own prose misstates their direction.
 - **Timing after stenting does not change the benefit** — complication reduction held both **<20 days** (OR 0.45, 0.22–0.92) and **≥20 days** (OR 0.81, 0.68–0.96). Reported SEMS-to-surgery intervals across studies: **7.5–28.1 days** (medians).
-- **Three qualifiers travel with every number above.** (1) **Severe complications did not differ** — the benefit sits in overall/milder morbidity. (2) Evidence is **very low to low GRADE, no RCTs**; the authors' dominant concern is selection toward "easy-to-stent cases." (3) **"Right-sided" was defined inconsistently** — 5 of 7 studies included the *entire transverse colon*.
+- **Three qualifiers travel with every number above.** (1) **Severe complications did not differ** — the benefit sits in overall/milder morbidity. (2) Evidence is **very low to low GRADE, no randomized controlled trials (RCTs)**; the authors' dominant concern is selection toward "easy-to-stent cases." (3) **"Right-sided" was defined inconsistently** — 5 of 7 studies included the *entire transverse colon*.
 - **Baseline risk that motivates the question:** emergency right hemicolectomy 30-day mortality **6.0% vs 0.7% elective**; previously reported ER outcomes for right-sided obstruction, mortality 8.8–14.5% and morbidity 32–54.3%.
-- ⚠ **The left-sided half of this topic is not covered here.** The ESGE 2020 SEMS guideline (van Hooft, *Endoscopy* 2020;52:389–407) is not summarized on this site; its left-sided BTS recommendation is known here only secondhand through the above meta-analysis's introduction.
+- ⚠ **The left-sided half of this topic is not covered here.** The European Society of Gastrointestinal Endoscopy (ESGE) 2020 SEMS guideline (van Hooft, *Endoscopy* 2020;52:389–407) is not summarized on this site; its left-sided BTS recommendation is known here only secondhand through the above meta-analysis's introduction.
 
 ### Chemoprevention After CRC
 
@@ -219,10 +219,10 @@ flowchart TD
 
 | Agent | Advice | Evidence |
 |---|---|---|
-| **Aspirin** | **BPA 2 — should consider** aspirin to prevent recurrent colorectal neoplasia in individuals with a history of CRC | US trial (n = 517), **325 mg daily → adenoma recurrence RR 0.65 (0.46–0.91)** at 1 y, **no difference in advanced adenomas**. Japanese trial (n = 311, 25% with CRC), **100 mg daily × 2 y → OR 0.60 (0.36–0.98)**. **Survival after CRC diagnosis:** meta-analysis found **no** CRC-specific survival benefit (HR 0.77; 0.52–1.14) but **improved overall survival** (HR 0.84; 0.75–0.94) — ⚠ benefit *"appeared restricted to individuals with **PIK3CA-mutant and COX-2 expressing** tumors."* ⚠ **No chemopreventive dose is stated by the CPU** |
+| **Aspirin** | **BPA 2 — should consider** aspirin to prevent recurrent colorectal neoplasia in individuals with a history of CRC | US trial (n = 517), **325 mg daily → adenoma recurrence relative risk (RR) 0.65 (0.46–0.91)** at 1 y, **no difference in advanced adenomas**. Japanese trial (n = 311, 25% with CRC), **100 mg daily × 2 y → OR 0.60 (0.36–0.98)**. **Survival after CRC diagnosis:** meta-analysis found **no** CRC-specific survival benefit (hazard ratio (HR) 0.77; 0.52–1.14) but **improved overall survival** (HR 0.84; 0.75–0.94) — ⚠ benefit *"appeared restricted to individuals with **PIK3CA-mutant and COX-2 [cyclooxygenase-2] expressing** tumors."* ⚠ **No chemopreventive dose is stated by the clinical practice update (CPU)** |
 | **Metformin** | **BPA 5 — may consider** metformin to reduce mortality in individuals with **CRC and type 2 diabetes** | Meta-analysis of 17 observational studies (n = 269,417): cancer-specific survival **HR 0.75 (0.59–0.94)**, overall survival **HR 0.69 (0.61–0.77)**. ⚠ The CPU cautions these are *"susceptible to confounding by diabetes severity and time-related biases"* — hence "may," and only in patients who already have diabetes |
 | **Statins** | **BPA 9 — should not** use statins to reduce mortality in individuals with a history of CRC | Mortality data after CRC are inconclusive and observational studies suffer selection bias; in a large SEER-Medicare case-control study, statins started **within 6 months of diagnosis** were **not** associated with reduced 3-year CRC-related or all-cause mortality |
-| **Non-aspirin NSAIDs** | Not recommended (BPA 3 covers average risk) | **VICTOR** (rofecoxib in stage II/III CRC, n = 2434): no effect on CRC-specific mortality (HR 0.98), overall survival (HR 0.97), or recurrence (HR 0.89); terminated early on the worldwide rofecoxib withdrawal |
+| **Non-aspirin nonsteroidal anti-inflammatory drugs (NSAIDs)** | Not recommended (BPA 3 covers average risk) | **VICTOR** (rofecoxib in stage II/III CRC, n = 2434): no effect on CRC-specific mortality (HR 0.98), overall survival (HR 0.97), or recurrence (HR 0.89); terminated early on the worldwide rofecoxib withdrawal |
 
 ---
 
@@ -243,8 +243,8 @@ flowchart TD
 
 ### Universal Lynch Syndrome Testing
 
-- Per [[usmstf-2014-lynch-syndrome|USMSTF 2014]] and confirmed in this guideline: all CRCs should be studied for evidence of [[lynch-syndrome]] (MMR/MSI tumor testing)
-- **Scope and rationale ([[aga-2020-young-adult-onset-crc]]).** Tumor testing for **MSI**, or **IHC for MLH1, MSH2, MSH6 and PMS2**, should be performed on **all CRC regardless of age of onset** — not only as a screen for [[lynch-syndrome|Lynch syndrome]], but because the result is:
+- Per [[usmstf-2014-lynch-syndrome|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2014]] and confirmed in this guideline: all CRCs should be studied for evidence of [[lynch-syndrome]] (MMR/MSI tumor testing)
+- **Scope and rationale ([[aga-2020-young-adult-onset-crc]]).** Tumor testing for **MSI**, or **immunohistochemistry (IHC) for MLH1, MSH2, MSH6 and PMS2**, should be performed on **all CRC regardless of age of onset** — not only as a screen for [[lynch-syndrome|Lynch syndrome]], but because the result is:
   - **Prognostic** among early stages (**stage I and II**) — and it is why adjuvant chemotherapy is **recommended against in MSI stage II CRC**
   - **Predictive** of response to **immunotherapy in stage IV** disease
 - Patients with known or suspected [[lynch-syndrome|Lynch syndrome]] must follow Lynch-specific surveillance intervals, not those below
@@ -305,15 +305,15 @@ Lifelong q5y until benefit < risk
 **High-risk patients** — those meeting ANY of the following criteria are at increased risk for local recurrence:
 
 1. Surgery **without** total mesorectal excision (TME)
-2. Transanal local excision (transanal excision or transanal endoscopic microsurgery / TEM)
-3. [[endoscopic-submucosal-dissection|Endoscopic submucosal dissection (ESD)]] for rectal cancer
+2. Transanal local excision (transanal excision or transanal endoscopic microsurgery [TEM])
+3. [[endoscopic-submucosal-dissection|ESD]] for rectal cancer
 4. Locally advanced rectal cancer that did **not** receive neoadjuvant chemoradiation + TME
 
 **For high-risk rectal patients:** Local surveillance with **flexible sigmoidoscopy or EUS every 3–6 months for the first 2–3 years after surgery**, in addition to the standard colonoscopic surveillance schedule above.
 
-- EUS can detect extraluminal recurrence before intraluminal endoscopic findings; allows FNA of suspicious nodes/lesions; ~10% of rectal cancer recurrences are diagnosed by EUS only
+- EUS can detect extraluminal recurrence before intraluminal endoscopic findings; allows fine-needle aspiration (FNA) of suspicious nodes/lesions; ~10% of rectal cancer recurrences are diagnosed by EUS only
 - No RCTs compare sigmoidoscopy vs. EUS or determine ideal intervals
-- Optimal luminal surveillance requires multidisciplinary collaboration (GI, colorectal surgery, oncology)
+- Optimal luminal surveillance requires multidisciplinary collaboration (gastroenterology [GI], colorectal surgery, oncology)
 
 ### Fecal Testing in Post-Resection Surveillance
 
@@ -333,14 +333,14 @@ Lifelong q5y until benefit < risk
 
 ### Overview and Rationale
 
-Fecal immunochemical tests (FITs) measure human hemoglobin directly in stool using antibodies against the globin moiety. Unlike guaiac-based FOBT (gFOBT), FIT:
+FITs measure human hemoglobin directly in stool using antibodies against the globin moiety. Unlike the guaiac-based fecal occult blood test (gFOBT), FIT:
 
 - Is not confounded by dietary peroxidase activity — **no dietary restriction required** (Strong; Moderate)
 - Requires fewer samples (typically 1 vs. 3 for gFOBT)
 - Has superior sensitivity for CRC and advanced neoplasia
 - Has superior adherence (~20% higher participation than gFOBT in RCTs and meta-analyses)
 
-Both ACG 2021 and USMSTF 2021 position annual FIT as a **co-equal preferred non-invasive screening modality** alongside colonoscopy. [[acg-2021-crc-screening]]
+Both American College of Gastroenterology (ACG) 2021 and USMSTF 2021 position annual FIT as a **co-equal preferred non-invasive screening modality** alongside colonoscopy. [[acg-2021-crc-screening]]
 
 ### FIT Performance Characteristics — Single Application
 
@@ -402,14 +402,14 @@ Both ACG 2021 and USMSTF 2021 position annual FIT as a **co-equal preferred non-
 - CT colonography and colon [[capsule-endoscopy|capsule endoscopy]] have been evaluated but have limitations (sensitivity, specificity, and access issues)
 - **A positive FIT + negative colonoscopy should NOT prompt upper GI evaluation** in the absence of signs/symptoms of upper GI pathology or [[iron-deficiency-anemia|iron-deficiency anemia]] — **Weak recommendation; very low quality evidence**
 - **A positive FIT in a patient with a recent negative colonoscopy** (before due for repeat): generally offer repeat colonoscopy — **Weak recommendation; low-quality evidence**
-- PPV for cancer from positive FIT: 2.9–7.8% (range across programs, round 1); PPV for advanced neoplasia: 33–54% (round 1)
+- positive predictive value (PPV) for cancer from positive FIT: 2.9–7.8% (range across programs, round 1); PPV for advanced neoplasia: 33–54% (round 1)
 
 ### Practical Considerations
 
 | Issue | Recommendation | Strength | Evidence |
 |---|---|---|---|
 | Dietary/medication adjustment | Not required — instruct patients explicitly | Strong | Moderate |
-| Sample collection | Spontaneously passed stool; NOT in-office DRE sample | Weak | Very Low |
+| Sample collection | Spontaneously passed stool; NOT in-office digital rectal examination (DRE) sample | Weak | Very Low |
 | Sample return time | Up to 10 days does not significantly affect performance; encourage return within 24h | Weak | Very Low |
 | Ambient temperature during mailing | Need not adjust distribution/mailing based on temperature | Weak | Low |
 | Seasonal timing | No strong evidence of clinically meaningful seasonal effect; adhere to manufacturer storage specs | Weak | Low |
@@ -421,7 +421,7 @@ Both ACG 2021 and USMSTF 2021 position annual FIT as a **co-equal preferred non-
 | FIT completion rate among those offered testing | ≥60% |
 | Proportion of returned FITs unprocessable by lab | <5% |
 | Colonoscopy completion rate for FIT-positive individuals | ≥80% |
-| ADR on follow-up colonoscopy (using ≤20 µg/g threshold) | >45% in men; >35% in women |
+| adenoma detection rate (ADR) on follow-up colonoscopy (using ≤20 µg/g threshold) | >45% in men; >35% in women |
 
 *Note: ADR targets for FIT-positive colonoscopies are higher than the general screening ADR benchmarks (≥25% overall per ACG 2021) because the pre-test probability of adenoma is enriched in FIT-positive individuals.*
 

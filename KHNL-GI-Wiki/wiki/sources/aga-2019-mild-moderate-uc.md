@@ -17,11 +17,11 @@ sources: []
 
 ## Summary
 
-AGA Institute clinical practice guideline on the **medical management of mild-to-moderate [[ulcerative-colitis|ulcerative colitis]]**, developed with GRADE methodology and accompanied by a separate technical review (Singh et al., *Gastroenterology* 2018). It is scoped narrowly to **oral and topical 5-ASA, rectal corticosteroids, and oral budesonide**, plus three less-conventional therapies (probiotics, curcumin, FMT). **Biologic and immunomodulator therapy is explicitly not addressed.**
+American Gastroenterological Association (AGA) Institute clinical practice guideline on the **medical management of mild-to-moderate [[ulcerative-colitis|ulcerative colitis (UC)]]**, developed with Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology and accompanied by a separate technical review (Singh et al., *Gastroenterology* 2018). It is scoped narrowly to **oral and topical 5-aminosalicylates (5-ASA), rectal corticosteroids, and oral budesonide**, plus three less-conventional therapies (probiotics, curcumin, fecal microbiota transplantation [FMT]). **Biologic and immunomodulator therapy is explicitly not addressed.**
 
 The guideline is built on three definitional axes that must be applied before any recommendation can be selected: a **severity definition** (mild–moderate = <4–6 bowel movements/day, mild–moderate rectal bleeding, no constitutional symptoms, low overall inflammatory burden, no features of high inflammatory activity — anchored on the Truelove and Witts criteria and the Mayo Clinic score), a **three-tier anatomic extent** (extensive / left-sided / proctitis), and a **three-tier oral mesalamine dose band** (low <2 g/d, standard 2–3 g/d, high >3 g/d). Recommendations are indexed by extent and by prior response, so the extent and dose definitions are the operative inputs, not background.
 
-Thirteen numbered recommendations are issued. Ten are actionable; **three are explicit "No recommendation — knowledge gap" statements** (probiotics, curcumin, and FMT outside a clinical trial). Two are Strong recommendations (standard-dose oral 5-ASA for extensive disease; mesalamine suppositories for proctitis); the remaining eight are Conditional. Effect estimates throughout are expressed as **relative risk of *failure* to induce or maintain remission, so RR <1 favours the agent under evaluation** — the inverse of the usual reading direction.
+Thirteen numbered recommendations are issued. Ten are actionable; **three are explicit "No recommendation — knowledge gap" statements** (probiotics, curcumin, and FMT outside a clinical trial). Two are Strong recommendations (standard-dose oral 5-ASA for extensive disease; mesalamine suppositories for proctitis); the remaining eight are Conditional. Effect estimates throughout are expressed as **relative risk (RR) of *failure* to induce or maintain remission, so RR <1 favours the agent under evaluation** — the inverse of the usual reading direction.
 
 A recurring theme is that **topical therapy is under-used and outperforms oral therapy in distal disease**: rectal mesalamine is added to oral 5-ASA in extensive and left-sided disease, and replaces it outright in proctosigmoiditis and proctitis. Rectal 5-ASA is preferred over rectal corticosteroids for induction. Budesonide preparations are positioned *below* 5-ASA, not above it.
 
@@ -77,7 +77,7 @@ Clinicians should **avoid repeated courses of corticosteroids**, even in mild–
 | 2 | In patients with extensive or left-sided mild–moderate UC, the AGA suggests adding rectal mesalamine to oral 5-ASA. | Conditional | Moderate |
 | 3 | In patients with mild–moderate UC with suboptimal response to standard-dose mesalamine or diazo-bonded 5-ASA or with moderate disease activity, the AGA suggests using high-dose mesalamine (>3 g/d) with rectal mesalamine. | Conditional | Moderate (induction of remission); Low (maintenance of remission) |
 | 4 | In patients with mild–moderate UC being treated with oral mesalamine, the AGA suggests using once-daily dosing rather than multiple times per day dosing. | Conditional | Moderate |
-| 5 | In patients with mild–moderate UC, the AGA suggests using standard-dose oral mesalamine or diazo-bonded 5-ASA, rather than budesonide MMX or controlled ileal release budesonide for induction of remission. | Conditional | Low |
+| 5 | In patients with mild–moderate UC, the AGA suggests using standard-dose oral mesalamine or diazo-bonded 5-ASA, rather than budesonide MMX [Multi-Matrix System] or controlled ileal release budesonide for induction of remission. | Conditional | Low |
 | 6 | In patients with left-sided mild–moderate ulcerative proctosigmoiditis or proctitis, the AGA suggests using mesalamine enemas (or suppositories) rather than oral mesalamine. | Conditional | Very low |
 | | *Comment: patients who place a higher value on convenience of oral medication administration and a lower value on effectiveness could reasonably choose oral mesalamine* | | |
 | 7 | In patients with mild–moderate ulcerative proctosigmoiditis who choose rectal therapy over oral therapy, the AGA suggests using mesalamine enemas rather than rectal corticosteroids. | Conditional | Moderate |
@@ -104,7 +104,7 @@ Clinicians should **avoid repeated courses of corticosteroids**, even in mild–
 
 **Sulfasalazine**
 - 5-ASA bonded to sulfapyridine; the **5-ASA moiety is the active compound, sulfapyridine is thought to contribute most adverse effects**.
-- Induction doses of 2–6 g/d were more effective than placebo (RR 0.62; 95% CI 0.45–0.87); **sulfasalazine 2 g/d** for maintenance (RR 0.45; 95% CI 0.23–0.89).
+- Induction doses of 2–6 g/d were more effective than placebo (RR 0.62; 95% confidence interval [CI] 0.45–0.87); **sulfasalazine 2 g/d** for maintenance (RR 0.45; 95% CI 0.23–0.89).
 - Poorly tolerated — **start at a low dose with gradual escalation as tolerated**. High discontinuation rate in induction trials (RR for treatment discontinuation 5.14; 95% CI 0.95–27.93).
 - **Interferes with folate metabolism — patients should take a folic acid supplement.** Causes male infertility. Rare serious cutaneous reactions (Stevens–Johnson syndrome), anemia, leukopenia, thrombocytopenia, pneumonitis, hepatitis.
 - **Monitoring: complete blood count and liver function tests periodically.**
@@ -116,7 +116,7 @@ Clinicians should **avoid repeated courses of corticosteroids**, even in mild–
 - Rectal corticosteroid trials used budesonide (all trials), hydrocortisone, prednisolone, or beclomethasone; rectal 5-ASA was superior to topical corticosteroids for induction (RR 0.74; 95% CI 0.61–0.90).
 
 **Budesonide**
-- **Budesonide MMX 9 mg daily** — designed for release throughout the colon, approved by the FDA for UC.
+- **Budesonide MMX 9 mg daily** — designed for release throughout the colon, approved by the US Food and Drug Administration (FDA) for UC.
 - **Controlled ileal release (CIR) budesonide is released in the distal ileum and right colon and has not been specifically approved for UC.**
 - **Budesonide is unsuitable for maintenance therapy** — no long-term efficacy or safety data, given the potential for corticosteroid-related adverse effects.
 - Budesonide MMX 9 mg vs mesalamine 2.4 g (CORE-I): no significant difference for induction (RR 0.94; 95% CI 0.85–1.04). CIR-budesonide was **less effective** than high-dose mesalamine (RR 1.34; 95% CI 1.09–1.64) with higher discontinuation rates.
@@ -154,13 +154,13 @@ Clinicians should **avoid repeated courses of corticosteroids**, even in mild–
 | FMT vs control | Endoscopic remission | 0.77 (0.63–0.93) |
 
 ### Why the three "no recommendation" statements were issued
-- **Probiotics** — 7 RCTs, 585 patients; not more effective than placebo for induction, with inconsistent formulations (*Bifidobacterium* species, *Lactobacillus acidophilus*, VSL#3, *Escherichia coli* Nissle 1917). Evidence rated **very low**. Probiotics should **not be used instead of therapies known to be effective**; the effectiveness of adding them on top of proven therapy is unknown.
+- **Probiotics** — 7 randomized controlled trials (RCTs), 585 patients; not more effective than placebo for induction, with inconsistent formulations (*Bifidobacterium* species, *Lactobacillus acidophilus*, VSL#3, *Escherichia coli* Nissle 1917). Evidence rated **very low**. Probiotics should **not be used instead of therapies known to be effective**; the effectiveness of adding them on top of proven therapy is unknown.
 - **Curcumin** — 3 RCTs, 169 patients, doses varying widely from **150 mg to 3 g/d**; trend only, considerable heterogeneity; the one strongly positive study had an exceptionally low placebo response (12.5%) and remission rates (0%). Evidence **very low**.
 - **FMT** — 4 RCTs, 281 patients, favourable pooled estimates, but highly heterogeneous in route and inclusion criteria and **no maintenance RCTs**. Considered **experimental**; the FDA does not currently allow FMT for indications other than *C difficile* infection unless conducted as part of a clinical trial. A meta-analysis of 50 FMT studies showed serious adverse events in **9.2%**, including death (3.5%) and infection (2.5%).
 
 ## Relevance to Wiki
 
-- **[[ulcerative-colitis]]** — supplies a full mild-to-moderate treatment algorithm indexed by anatomic extent, which the wiki previously carried only from the ACG side. Adds the AGA severity definition, the three extent definitions with their centimetre qualifiers, and the high-risk-features list.
+- **[[ulcerative-colitis]]** — supplies a full mild-to-moderate treatment algorithm indexed by anatomic extent, which the wiki previously carried only from the American College of Gastroenterology (ACG) side. Adds the AGA severity definition, the three extent definitions with their centimetre qualifiers, and the high-risk-features list.
 - **[[mesalamine-5-asa]]** — the low/standard/high dose bands, the balsalazide and sulfasalazine 5-ASA equivalences, once-daily dosing, topical dosing regimens, formulation-switching guidance, and per-agent monitoring.
 - **[[corticosteroids-ibd]]** — budesonide MMX 9 mg vs CIR-budesonide, the "unsuitable for maintenance" statement, and the second-generation-vs-prednisone adverse-event data.
 - **[[probiotics]]** and **[[fmt]]** — both receive explicit AGA "no recommendation, knowledge gap" statements for UC, which is a stronger and more citable position than silence.
@@ -169,6 +169,6 @@ Clinicians should **avoid repeated courses of corticosteroids**, even in mild–
 
 - **Source priority: [[acg-2025-uc]] is newer and governs where the two disagree.** This guideline is 2019 and within the same tier (society guideline), so under the newer-wins rule it supplements rather than overrides ACG 2025. Its distinctive contribution is the granular mild-to-moderate 5-ASA algorithm, which ACG treats more briefly.
 - **Scope limit stated by the document itself:** the use of biologic therapies and immunomodulators is **not** addressed here. Any biologic or immunomodulator claim on a UC page must come from another source.
-- **The 2019 AGA guideline predates the current UC drug landscape** — no JAK inhibitor, S1P modulator, or IL-23 inhibitor is considered, because the scope excludes that whole class of therapy rather than because it evaluated and rejected them.
+- **The 2019 AGA guideline predates the current UC drug landscape** — no Janus kinase (JAK) inhibitor, sphingosine-1-phosphate (S1P) modulator, or interleukin (IL)-23 inhibitor is considered, because the scope excludes that whole class of therapy rather than because it evaluated and rejected them.
 - **Effect-estimate direction is inverted relative to most guidelines** (RR of *failure*). Any figure copied from this source onto a wiki page must preserve that reading or be converted explicitly.
 - **Curcumin has no wiki page and no other ingested source.** The dose range trialled (150 mg – 3 g/d) is recorded here only.

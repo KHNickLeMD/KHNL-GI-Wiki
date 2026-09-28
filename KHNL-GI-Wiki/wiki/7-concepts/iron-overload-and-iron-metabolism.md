@@ -29,7 +29,7 @@ Mechanisms of iron handling and the laboratory thresholds used to detect overloa
 - Hepcidin: 25-amino acid peptide hormone synthesized in the liver; key regulator of body iron stores
 - Binds FPN1 on enterocytes, hepatocytes, and macrophages → FPN1 internalization and degradation → reduced iron export → decreased circulating iron
 - Hepcidin upregulated by: iron loading, inflammation (IL-6), infection
-- Hepcidin downregulated by: [[iron-deficiency-anemia|iron deficiency]], increased erythropoietic demand, alcohol (ethanol-mediated downregulation of transcription factor regulating hepcidin), low hepcidin levels in [[nafld-masld|NAFLD]]/dysmetabolic iron overload
+- Hepcidin downregulated by: [[iron-deficiency-anemia|iron deficiency]], increased erythropoietic demand, alcohol (ethanol-mediated downregulation of transcription factor regulating hepcidin), low hepcidin levels in [[nafld-masld|nonalcoholic fatty liver disease (NAFLD)]]/dysmetabolic iron overload
 
 ## Primary Iron Overload (Inherited)
 
@@ -40,20 +40,20 @@ Mechanisms of iron handling and the laboratory thresholds used to detect overloa
 
 ## Secondary Iron Overload
 
-- Acquired hepcidin deficiency from disorders of erythropoiesis or increased RBC turnover (iron-loading anemias)
+- Acquired hepcidin deficiency from disorders of erythropoiesis or increased red blood cell (RBC) turnover (iron-loading anemias)
 - Parenteral iron loading (transfusions, iron-dextran) — chronic [[hemin]] therapy is another parenteral iron source (9% iron by weight)
 - Chronic liver disease (reduced hepatic hepcidin synthesis)
 - Insulin resistance / NAFLD (dysmetabolic iron overload syndrome) — hepcidin downregulation via insulin signaling pathways
-- Histologic distinction from HFE-related HH: iron in Kupffer cells/reticuloendothelial system (secondary) vs. periportal hepatocytes sparing Kupffer cells (HFE-HH)
+- Histologic distinction from HFE-related hereditary hemochromatosis (HH): iron in Kupffer cells/reticuloendothelial system (secondary) vs. periportal hepatocytes sparing Kupffer cells (HFE-HH)
 
 ## Relevant Lab Tests
 
 | Test | How it is derived | Threshold and what it means |
 |---|---|---|
-| **Transferrin saturation (TS)** | serum iron ÷ TIBC × 100 | **Preferred initial screening test; fasting not required.** **>45%** identifies **97.9%–100%** of C282Y homozygotes — but a small proportion of [[hereditary-hemochromatosis\|HH]] patients (younger, earlier-stage) have TS **<45%**, and iron overload can exist with an **elevated SF and a normal TS**, particularly in non–HFE iron overload |
-| **Serum ferritin (SF)** | intracellular iron-storage protein | **Normal = <200 ng/mL in premenopausal women, <300 ng/mL in men and postmenopausal women.** A normal SF **plus** TS <45% has a **97% negative predictive value** for excluding iron overload. Excellent predictor of advanced fibrosis but **lacks specificity as a screening test** — hyperferritinemia also occurs in [[alcohol-associated-liver-disease\|alcoholic liver disease]], [[hepatitis-c\|HCV]], [[nafld-masld\|NAFLD]], and neoplastic disease |
+| **Transferrin saturation (TS)** | serum iron ÷ total iron-binding capacity (TIBC) × 100 | **Preferred initial screening test; fasting not required.** **>45%** identifies **97.9%–100%** of C282Y homozygotes — but a small proportion of [[hereditary-hemochromatosis\|HH]] patients (younger, earlier-stage) have TS **<45%**, and iron overload can exist with an **elevated serum ferritin (SF) and a normal TS**, particularly in non–HFE iron overload |
+| **SF** | intracellular iron-storage protein | **Normal = <200 ng/mL in premenopausal women, <300 ng/mL in men and postmenopausal women.** A normal SF **plus** TS <45% has a **97% negative predictive value** for excluding iron overload. Excellent predictor of advanced fibrosis but **lacks specificity as a screening test** — hyperferritinemia also occurs in [[alcohol-associated-liver-disease\|alcoholic liver disease]], [[hepatitis-c\|hepatitis C virus (HCV)]], [[nafld-masld\|NAFLD]], and neoplastic disease |
 | **SF >1,000 ng/mL** | — | In C282Y homozygotes, SF **>1,000 ng/mL** *with* elevated aminotransferases *and* a low platelet count predicts [[cirrhosis\|cirrhosis]] in **>80%** — all three together. The [[liver-biopsy\|biopsy]] decision that hangs off this threshold lives on [[hereditary-hemochromatosis]] |
-| **UIBC** | inverse of TS; one-step automated test | **<26 µmol/L** → sensitivity 90%, specificity 90% for C282Y homozygosity; comparable to TS as an alternative screening test |
+| **Unsaturated iron-binding capacity (UIBC)** | inverse of TS; one-step automated test | **<26 µmol/L** → sensitivity 90%, specificity 90% for C282Y homozygosity; comparable to TS as an alternative screening test |
 | **Hepatic iron concentration (HIC)** | direct measurement on [[liver-biopsy\|liver biopsy]], µmol/g dry weight | **>71 µmol/g** distinguishes homozygous HH from heterozygotes/secondary overload |
 | **Hepatic iron index (HII)** | HIC ÷ age in years | **≥1.9** distinguishes homozygotes from heterozygotes and secondary overload |
 

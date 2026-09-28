@@ -17,7 +17,7 @@ sources: []
 
 ## Summary
 
-Commentary on sclerosing mesenteritis (SM) — a rare idiopathic fibroinflammatory disorder of the bowel mesentery (spectrum includes mesenteric panniculitis, "misty mesentery," retractile/liposclerotic mesenteritis). Found on ~0.6%–1.1% of CT scans; up to ~60% of patients with CT findings are asymptomatic. Most patients identified on imaging never require treatment; management is presentation-based.
+Commentary on sclerosing mesenteritis (SM) — a rare idiopathic fibroinflammatory disorder of the bowel mesentery (spectrum includes mesenteric panniculitis, "misty mesentery," retractile/liposclerotic mesenteritis). Found on ~0.6%–1.1% of computed tomography (CT) scans; up to ~60% of patients with CT findings are asymptomatic. Most patients identified on imaging never require treatment; management is presentation-based.
 
 ## Key Findings / Claims (narrative)
 
@@ -26,7 +26,7 @@ Commentary on sclerosing mesenteritis (SM) — a rare idiopathic fibroinflammato
 - **Differential:** lymphoma, carcinoid, peritoneal carcinomatosis, desmoid, IgG4-related disease, treatment-related changes (e.g., after immune checkpoint inhibitors).
 - **Biopsy:** consider when atypical features raise malignancy concern (e.g., a mesenteric mass, calcified mass with bowel retraction, new/accompanying lymphadenopathy); surgical biopsy with IgG4 staining may be preferred when needed.
 - **Treatment thresholds:** only ~1%–6% of patients with SM imaging findings require treatment; asymptomatic → observe.
-- **Pharmacotherapy:** **prednisone** monotherapy 30–40 mg/day (typically start 40 mg/day × 3–4 months, then taper ~5 mg/week); **tamoxifen 10 mg twice daily** is the most commonly used therapy, alone or with prednisone (prednisone tapered after ~3 months, tamoxifen continued). Alternatives: thalidomide, cyclophosphamide, methotrexate. Treat concomitant GI disorders.
+- **Pharmacotherapy:** **prednisone** monotherapy 30–40 mg/day (typically start 40 mg/day × 3–4 months, then taper ~5 mg/week); **tamoxifen 10 mg twice daily** is the most commonly used therapy, alone or with prednisone (prednisone tapered after ~3 months, tamoxifen continued). Alternatives: thalidomide, cyclophosphamide, methotrexate. Treat concomitant gastrointestinal (GI) disorders.
 - **Severe disease:** bowel obstruction managed nonoperatively when feasible; surgical bypass if refractory. Surgery does not cure SM; complete resection often impossible due to vascular involvement. Recurrence can occur; surveillance imaging detects it.
 
 ## Relevance to Wiki

@@ -16,17 +16,17 @@ sources: []
 - **Year:** 2022
 - **Journal/Publisher:** *Clinical Gastroenterology and Hepatology* 2022;20(10):2185–2194 (AGA Institute — Clinical Practice Update, Expert Review)
 - **DOI:** [10.1016/j.cgh.2022.05.032](https://doi.org/10.1016/j.cgh.2022.05.032)
-- **Type:** Guideline-tier — AGA Institute **Clinical Practice Update (Expert Review)**. Commissioned and approved by the AGA Institute Clinical Practice Updates Committee and the AGA Governing Board; internal CPUC peer review + external peer review. **Not based on a formal systematic review; no GRADE ratings.** Scope is **adult** SBS and SBS-IF (some overlap with pediatric management).
+- **Type:** Guideline-tier — American Gastroenterological Association (AGA) Institute **Clinical Practice Update (Expert Review)**. Commissioned and approved by the AGA Institute Clinical Practice Updates Committee (CPUC) and the AGA Governing Board; internal CPUC peer review + external peer review. **Not based on a formal systematic review; no Grading of Recommendations Assessment, Development and Evaluation (GRADE) ratings.** Scope is **adult** short bowel syndrome (SBS) and SBS with intestinal failure (SBS-IF) (some overlap with pediatric management).
 
 ---
 
 ## Summary
 
-Short bowel syndrome (SBS) is a clinicopathological syndrome resulting from loss of intestinal length due to disease or surgical resection. The update opens by fixing the two definitional anchors that drive everything downstream: **residual small intestinal length of 200 cm or less** meets criteria for SBS (with reports suggesting **150 cm or less** may be more appropriate), and **residual — not resected — length** is what dictates outcome, measured at surgery along the **antimesenteric border of unstretched bowel from the duodenojejunal flexure to the ileocecal junction, the site of any small bowel–colon anastomosis, or the end-ostomy**. It also separates SBS from **intestinal failure (IF)** — IF is a functional definition (gut function below the minimum needed to absorb macronutrients or water/electrolytes, such that intravenous supplementation is required); most IF is caused by SBS, but IF also arises from chronic intestinal pseudo-obstruction and refractory malabsorptive syndromes. The document is restricted to SBS.
+SBS is a clinicopathological syndrome resulting from loss of intestinal length due to disease or surgical resection. The update opens by fixing the two definitional anchors that drive everything downstream: **residual small intestinal length of 200 cm or less** meets criteria for SBS (with reports suggesting **150 cm or less** may be more appropriate), and **residual — not resected — length** is what dictates outcome, measured at surgery along the **antimesenteric border of unstretched bowel from the duodenojejunal flexure to the ileocecal junction, the site of any small bowel–colon anastomosis, or the end-ostomy**. It also separates SBS from **intestinal failure (IF)** — IF is a functional definition (gut function below the minimum needed to absorb macronutrients or water/electrolytes, such that intravenous supplementation is required); most IF is caused by SBS, but IF also arises from chronic intestinal pseudo-obstruction and refractory malabsorptive syndromes. The document is restricted to SBS.
 
 Residual anatomy is then used as the organizing prognostic scheme: **group 1** (end-jejunostomy), **group 2** (jejunum anastomosed to partial colon — jejunocolonic), **group 3** (jejuno-ileo-colic anastomosis retaining entire colon and ileocecal valve). Group 3 is the most favorable phenotype and group 1 the most severe; high-output end-jejunostomy patients are the most difficult to manage. Any surgical opportunity that converts a group 1 patient toward group 2 or 3 generally improves prognosis, subject to underlying active bowel disease (e.g. Crohn's disease, radiation enteritis).
 
-Management advice spans 12 Best Practice Advice topics: comprehensive dietitian-led nutrition assessment with lifelong laboratory, fluid-balance, weight, micronutrient and bone-density monitoring; a **hyperphagic** diet (intake increased by at least 50% over estimated needs, divided into 5–6 meals) with fat restriction only where it helps (colon in continuity), plus mandatory oxalate restriction in those with a colon; **glucose–electrolyte oral rehydration solution** for net-secretor jejunostomy patients; parenteral nutrition (PN) initiation, catheter choice and weaning; antisecretory and antimotility pharmacotherapy; drug-dosing pitfalls in a short gut; autologous reconstructive surgery (LILT/Bianchi and STEP); **teduglutide** (GLP-2 analogue) as a carefully-selected, late, malignancy-screened option; prevention of PN- and anatomy-related complications; and **early referral for intestinal transplantation** before PN failure produces the need for a simultaneous liver graft.
+Management advice spans 12 Best Practice Advice topics: comprehensive dietitian-led nutrition assessment with lifelong laboratory, fluid-balance, weight, micronutrient and bone-density monitoring; a **hyperphagic** diet (intake increased by at least 50% over estimated needs, divided into 5–6 meals) with fat restriction only where it helps (colon in continuity), plus mandatory oxalate restriction in those with a colon; **glucose–electrolyte oral rehydration solution** for net-secretor jejunostomy patients; parenteral nutrition (PN) initiation, catheter choice and weaning; antisecretory and antimotility pharmacotherapy; drug-dosing pitfalls in a short gut; autologous reconstructive surgery (longitudinal intestinal lengthening and tapering [LILT]/Bianchi and serial transverse enteroplasty [STEP]); **teduglutide** (glucagon-like peptide-2 [GLP-2] analogue) as a carefully-selected, late, malignancy-screened option; prevention of PN- and anatomy-related complications; and **early referral for intestinal transplantation** before PN failure produces the need for a simultaneous liver graft.
 
 The overarching message is that SBS care is multidisciplinary — dietitians, nurses, surgeons, gastroenterologists/internists, and social workers — and that the timing of referral (surgical rehabilitation, growth-factor therapy, transplantation) matters as much as the individual therapies.
 
@@ -54,19 +54,19 @@ The overarching message is that SBS care is multidisciplinary — dietitians, nu
 | Hyperphagic diet | intake increased **by at least 50%** above estimated needs |
 | Meal pattern | divided into **5–6 meals**/day |
 | Colon-in-continuity diet composition | high-carbohydrate (**60%**), low-fat (**20%**) |
-| EN (tube feeding) candidacy | stable SBS-IF, insufficient oral intake despite appetite stimulant, **stool output <2 L/d** |
+| Enteral nutrition (EN; tube feeding) candidacy | stable SBS-IF, insufficient oral intake despite appetite stimulant, **stool output <2 L/d** |
 | PN weaning | **>50%** of adults wean completely within **5 years** of diagnosis; probability of eliminating PN is **<6%** if not achieved in the **first 2 years** after the last bowel resection |
 | Net secretor / high-output jejunostomy | typically **<100 cm** residual jejunum; daily jejunostomy output can be **>4 L** |
 | Gastric hypersecretion / hypergastrinemia after massive enterectomy | lasts **6–12 months** postoperatively |
-| Acid suppression duration | use **sparingly beyond 12 months**, particularly with documented SIBO, unless clear persistent benefit |
+| Acid suppression duration | use **sparingly beyond 12 months**, particularly with documented small intestinal bacterial overgrowth (SIBO), unless clear persistent benefit |
 | Loperamide dose | high doses frequently needed — **up to 16 tablets (32 mg)/d** |
 | Antidiarrheal timing | ~**30 minutes** before meals and at bedtime |
 | Ox bile rationale | depleted bile salt pool from loss of **>100 cm** ileum |
 | PN cycling | over **10–14 hours** overnight |
-| IV lipid dose (hepatobiliary complication prevention) | limit to **<1 g/kg/d** |
+| Intravenous (IV) lipid dose (hepatobiliary complication prevention) | limit to **<1 g/kg/d** |
 | Teduglutide + malignancy | avoid with active or recent (**arbitrarily, 5 years**) malignancy, irrespective of location |
-| PN weaning after autologous GI reconstruction (LILT/STEP) | **50%–60%** may eventually wean off PN |
-| ITX referral timing signal | nearly **50%** of patients considered for ITX also require simultaneous liver replacement → indicates late referral |
+| PN weaning after autologous gastrointestinal (GI) reconstruction (LILT/STEP) | **50%–60%** may eventually wean off PN |
+| Intestinal transplantation (ITX) referral timing signal | nearly **50%** of patients considered for ITX also require simultaneous liver replacement → indicates late referral |
 | ITX outcome | **5-year survival routinely exceeding 65%** at experienced centers |
 | Central venous port | needs to be accessed and exchanged on a **weekly** basis (hence tunneled catheter preferred) |
 
@@ -74,8 +74,8 @@ The overarching message is that SBS care is multidisciplinary — dietitians, nu
 
 | Micronutrient | Lab measurement | Typical supplementation |
 |---|---|---|
-| Vitamin A | Serum retinol | Oral: 5000–50,000 IU daily (sometimes more); IM administration also available |
-| Vitamin B12 | Serum vitamin B12, methylmalonic acid | SC/IM: 300–1000 mg monthly*; oral and intranasal administration also available |
+| Vitamin A | Serum retinol | Oral: 5000–50,000 IU daily (sometimes more); intramuscular (IM) administration also available |
+| Vitamin B12 | Serum vitamin B12, methylmalonic acid | Subcutaneous (SC)/IM: 300–1000 mg monthly*; oral and intranasal administration also available |
 | Vitamin C | Serum vitamin C (ascorbic acid) | Oral: 200–500 mg daily; IV administration also available |
 | Vitamin D | Serum 25-hydroxyvitamin D, parathyroid hormone | Oral: 50,000 IU once weekly (or calcitriol 0.25–2 mg daily*); IM administration also available |
 | Vitamin E | Serum alpha-tocopherol | Oral: 400 IU up to 3 times daily |
@@ -114,14 +114,14 @@ The overarching message is that SBS care is multidisciplinary — dietitians, nu
 | **Hepatobiliary** — steatosis, cholestasis, cirrhosis, cholelithiasis | Avoid excesses and deficiencies in PN formula; limit intravenous lipid dose to <1 g/kg/d; reduce/eliminate soybean-based intravenous lipid emulsion; use non–soybean-based intravenous lipid emulsion; cycle PN; increase oral/enteral intake; identify/treat sepsis or small intestinal bacterial overgrowth; prophylactic cholecystectomy when abdominal surgery is being undertaken for other reasons |
 | **Metabolic bone disease** — osteoporosis, osteopenia, osteomalacia | Periodic assessment of bone mineral density; monitor calcium, magnesium, and vitamin D status and supplement as needed; correct metabolic acidosis when present; specific osteoporosis treatments |
 | **Kidney injury** — nephrolithiasis, oxalosis, acute kidney disease, chronic kidney disease | Monitor urine output periodically and maintain adequate urine output with increased fluid intake; low-fat, low-oxalate diet; potassium citrate supplementation; calcium carbonate supplementation |
-| **Chronic diarrhea** | Diet/oral fluid modifications; oral rehydration solution; antidiarrheal agents; antisecretory agents (PPI, H2RA); somatostatin analogs; intestinotrophic factor |
+| **Chronic diarrhea** | Diet/oral fluid modifications; oral rehydration solution; antidiarrheal agents; antisecretory agents (proton pump inhibitor [PPI], histamine-2 receptor antagonist [H2RA]); somatostatin analogs; intestinotrophic factor |
 | **Protein energy malnutrition, dehydration, and electrolyte/micronutrient deficiencies** | Monitor vitamin, mineral and electrolyte levels and supplement as needed; optimize oral diet and fluid intake; parenteral support (hydration, nutrition); intestinotrophic factor |
 
 ---
 
 ## Best Practice Advice statements (near-verbatim)
 
-*Format note: this CPU presents its 12 Best Practice Advice items as **titled narrative sections**, not as short numbered sentences, and assigns **no GRADE strength or evidence quality**. Each item below reproduces the advisory content of its section near-verbatim, under the source's own number and title.*
+*Format note: this Clinical Practice Update (CPU) presents its 12 Best Practice Advice items as **titled narrative sections**, not as short numbered sentences, and assigns **no GRADE strength or evidence quality**. Each item below reproduces the advisory content of its section near-verbatim, under the source's own number and title.*
 
 ### Best Practice Advice 1: Bowel Anatomy
 
@@ -212,8 +212,8 @@ The overarching message is that SBS care is multidisciplinary — dietitians, nu
 - **Creates** the disease script [[short-bowel-syndrome]] — the first source here that defines SBS, its residual-length measurement convention, its anatomic classification and prognosis, and its full management pathway.
 - **Supplies the dosing/safety detail for teduglutide on [[glp-2-agonists]]**: route (daily subcutaneous injection), malignancy contraindication and the 5-year "recent malignancy" caution, mandatory pre-treatment and periodic [[colonoscopy|colonoscopic]] screening, positioning after diet/conventional therapy optimization, and prescriber-experience requirement. (The source still gives **no mg or mg/kg dose** — see Contradictions/Open Questions.)
 - Adds SBS-specific context to [[ostomy-management]] (high-output end-jejunostomy as the most challenging phenotype; <100 cm residual jejunum net secretors; ORS rather than water; PN electrolyte losses with high ostomy output).
-- Adds an SBS-specific indication and technique caveat to [[enteral-access]] (percutaneous gastrostomy technically difficult in SBS; trial NG feeding first; slow continuous gastric infusion, not bolus or direct small-bowel infusion).
-- Supports [[nutrition-in-ibd]] and [[nutrition-in-hospitalized-patients]] with adult SBS PN weaning probabilities and PN complication prevention.
+- Adds an SBS-specific indication and technique caveat to [[enteral-access]] (percutaneous gastrostomy technically difficult in SBS; trial nasogastric (NG) feeding first; slow continuous gastric infusion, not bolus or direct small-bowel infusion).
+- Supports [[nutrition-in-ibd|nutrition in inflammatory bowel disease (IBD)]] and [[nutrition-in-hospitalized-patients]] with adult SBS PN weaning probabilities and PN complication prevention.
 - Links to [[small-intestinal-bacterial-overgrowth]] (acid suppression beyond 12 months; dilated bowel segments; antimotility agents in dilated bowel), [[bile-acid-diarrhea]] (terminal ileal resection; bile acid sequestrants generally avoided), [[loperamide]], [[proton-pump-inhibitors]], [[somatostatin-analogs]], [[exocrine-pancreatic-insufficiency]], [[crohns-disease]], [[acute-mesenteric-ischemia]], [[cirrhosis]], [[liver-transplantation]], [[post-transplant-lymphoproliferative-disorder]], [[chronic-diarrhea]].
 
 ---

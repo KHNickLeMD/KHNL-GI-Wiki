@@ -24,13 +24,13 @@ sources: [asge-2023-post-ercp-pancreatitis, azuma-2026-cryoprevention-pep]
 
 ## Summary
 
-A prospective observational cohort at **five high-volume centers in Kyoto and Shiga prefectures, western Japan (February 2015 – May 2016)** that asked a definitional question: **how much post-ERCP pancreatitis does the standard Cotton consensus definition miss?** Every patient undergoing an ERCP-related procedure had serum enzymes drawn at a fixed 2 h and 18 h (the following morning) post-procedure, and the same events were then classified twice — once by the **diagnostic criteria for acute pancreatitis** (the same 2-of-3 construct used for [[acute-pancreatitis|AP]] generally) and once by the **Cotton consensus criteria for PEP**.
+A prospective observational cohort at **five high-volume centers in Kyoto and Shiga prefectures, western Japan (February 2015 – May 2016)** that asked a definitional question: **how much post–endoscopic retrograde cholangiopancreatography (ERCP) pancreatitis (PEP) does the standard Cotton consensus definition miss?** Every patient undergoing an ERCP-related procedure had serum enzymes drawn at a fixed 2 h and 18 h (the following morning) post-procedure, and the same events were then classified twice — once by the **diagnostic criteria for acute pancreatitis (AP)** (the same 2-of-3 construct used for [[acute-pancreatitis|AP]] generally) and once by the **Cotton consensus criteria for PEP**.
 
-Of 2078 registered patients, 1932 were analyzed after excluding those who already had AP at the time of ERCP (74), those with prior biliary reconstruction (63), and those in whom the endoscope could not reach the papilla (9). **PEP occurred in 142 patients (7.3%) by AP criteria but only 87 (4.5%) by Cotton criteria** — a **38.7% shortfall**: more than a third of the patients who met the general definition of acute pancreatitis after ERCP were not counted as having PEP at all. Of the 55 missed, **45 failed the Cotton requirement for abdominal pain persisting beyond 24 h** and **10 failed the enzyme threshold** — they were captured by CT findings instead.
+Of 2078 registered patients, 1932 were analyzed after excluding those who already had AP at the time of ERCP (74), those with prior biliary reconstruction (63), and those in whom the endoscope could not reach the papilla (9). **PEP occurred in 142 patients (7.3%) by AP criteria but only 87 (4.5%) by Cotton criteria** — a **38.7% shortfall**: more than a third of the patients who met the general definition of acute pancreatitis after ERCP were not counted as having PEP at all. Of the 55 missed, **45 failed the Cotton requirement for abdominal pain persisting beyond 24 h** and **10 failed the enzyme threshold** — they were captured by computed tomography (CT) findings instead.
 
 Severity moved in the opposite direction from what the incidence gap would suggest. Graded by the **Japanese Ministry of Health, Labour and Welfare (MHLW) severity scoring system for AP**, severe PEP was **1.3% (25 patients)**, against **0.7% (13 patients)** by Cotton — because the MHLW system evaluates prognostic factors and CT grade **in the early phase and on repeated assessment**, whereas the Cotton severity bands are anchored to length of stay and therefore cannot grade a patient early. The two systems disagreed in both directions at the patient level: of the 117 rated **mild** by MHLW criteria, 50 were **not pancreatitis at all** by Cotton and 2 were **severe**; of the 25 rated **severe** by MHLW criteria, 5 were **not pancreatitis** by Cotton.
 
-Multivariable analysis identified six independent risk factors, several of which are not on the conventional list: **female sex, naïve papilla, surgically altered GI anatomy, procedure time after reaching the papilla, pancreatic duct injection, and intraductal ultrasonography (IDUS)**. Notably, younger age, previous AP, normal serum bilirubin, and pancreatic guidewire passage — all conventional risk factors — were **not** independently significant in this cohort.
+Multivariable analysis identified six independent risk factors, several of which are not on the conventional list: **female sex, naïve papilla, surgically altered gastrointestinal (GI) anatomy, procedure time after reaching the papilla, pancreatic duct injection, and intraductal ultrasonography (IDUS)**. Notably, younger age, previous AP, normal serum bilirubin, and pancreatic guidewire passage — all conventional risk factors — were **not** independently significant in this cohort.
 
 ---
 
@@ -60,17 +60,17 @@ Severity was graded by the **Japanese MHLW severity scoring system for AP (2008 
 
 | # | Factor |
 |---|---|
-| 1 | Base excess ≤ −3 mEq/L **or** shock (systolic BP <80 mmHg) |
+| 1 | Base excess ≤ −3 mEq/L **or** shock (systolic blood pressure <80 mmHg) |
 | 2 | PaO₂ ≤ 60 mmHg (room air) **or** respiratory failure (respiratory support needed) |
-| 3 | BUN ≥ 40 mg/dL (or creatinine ≥ 2.0 mg/dL) **or** oliguria (urine output <400 mL/day despite IV fluid resuscitation) |
-| 4 | LDH ≥ 2× upper limit of normal |
+| 3 | Blood urea nitrogen (BUN) ≥ 40 mg/dL (or creatinine ≥ 2.0 mg/dL) **or** oliguria (urine output <400 mL/day despite intravenous fluid resuscitation) |
+| 4 | Lactate dehydrogenase (LDH) ≥ 2× upper limit of normal |
 | 5 | Platelet count ≤ 100 000/mm³ |
 | 6 | Serum calcium ≤ 7.5 mg/dL |
-| 7 | CRP ≥ 15 mg/dL |
-| 8 | SIRS criteria met ≥ 3 |
+| 7 | C-reactive protein (CRP) ≥ 15 mg/dL |
+| 8 | Systemic inflammatory response syndrome (SIRS) criteria met ≥ 3 |
 | 9 | Age ≥ 70 years |
 
-*SIRS measures used: temperature >38 or <36 °C; heart rate >90/min; respiratory rate >20/min or PaCO₂ <32 torr; WBC >12 000/mm³, <4000/mm³, or >10% immature (band) forms.*
+*SIRS measures used: temperature >38 or <36 °C; heart rate >90/min; respiratory rate >20/min or PaCO₂ <32 torr; white blood cell count (WBC) >12 000/mm³, <4000/mm³, or >10% immature (band) forms.*
 
 **CT grade — on contrast-enhanced CT, sum of two components:**
 
@@ -99,18 +99,18 @@ Severity was graded by the **Japanese MHLW severity scoring system for AP (2008 
 - **38.7% of patients with PEP by AP criteria were not diagnosed with PEP by the Cotton consensus criteria.** Of those **55** patients: **45 did not have persistent abdominal pain**, and **10 did not have significantly elevated serum amylase** (i.e. were identified by CT).
 - **Patient-level disagreement, both directions.** Of the **117** patients rated **mild** by MHLW criteria: **50 were nonpancreatitis by Cotton**, 65 were mild–moderate, and **2 were severe**. Of the **25** rated **severe** by MHLW criteria: **5 were nonpancreatitis by Cotton**, 9 were mild–moderate, and 11 were severe.
 - Both incidence figures sit inside the **3.5%–9.7%** range reported by prior series, so neither definition is an outlier — they simply count different patients.
-- Context for the enzyme sampling: the morning after ERCP, amylase was **above the ULN in 576 patients (29.8%)** and **>3× ULN in 207 (10.7%)**. Abdominal CT was performed in **444 of those 576 (77.1%)**.
+- Context for the enzyme sampling: the morning after ERCP, amylase was **above the upper limit of normal (ULN) in 576 patients (29.8%)** and **>3× ULN in 207 (10.7%)**. Abdominal CT was performed in **444 of those 576 (77.1%)**.
 - The authors' conclusion is definitional, not therapeutic: **"the incidence of PEP was higher than that according to the Cotton criteria and the severity of PEP tended to be severe"** when AP criteria and the MHLW severity system are used.
 
 ### Independent risk factors for PEP (multivariable logistic regression, Table 6)
 
-| Risk factor | OR | 95% CI | P |
+| Risk factor | Odds ratio (OR) | 95% confidence interval (CI) | P |
 |---|---|---|---|
 | **Naïve papilla** | **3.047** | 1.803–5.150 | <0.001 |
 | **Pancreatic duct injection** | **2.396** | 1.565–3.669 | <0.001 |
 | **Female sex** | **2.239** | 1.546–3.243 | <0.001 |
 | **Surgically altered GI anatomy** | **2.538** | 1.342–4.802 | 0.004 |
-| **Intraductal ultrasonography (IDUS)** | **1.641** | 1.024–2.629 | 0.040 |
+| **IDUS** | **1.641** | 1.024–2.629 | 0.040 |
 | **Procedure time after reaching the papilla** (per minute) | **1.009** | 1.001–1.017 | 0.035 |
 
 - **"Naïve papilla" was defined as a major papilla that has not undergone a prior endoscopic procedure** such as endoscopic sphincterotomy or endoscopic papillary balloon dilation at the time of ERCP. 54.6% of the cohort. The mechanism the authors propose: deep cannulation is harder, the biliary and pancreatic orifices are not separated as they are post-sphincterotomy, so physical stimulation of the pancreatic orifice is stronger.
@@ -120,7 +120,7 @@ Severity was graded by the **Japanese MHLW severity scoring system for AP (2008 
 
 ### Cohort characteristics
 
-- 1932 analyzed; mean age 72.9; female 40.1%; ASA I–II 87.4%; prior AP 13.5%; obstructive jaundice 34.7%; acute cholangitis 30.6%; **naïve papilla 54.6%**; peripapillary diverticulum 25.8%; surgically altered GI anatomy 5.5% (Billroth-I 2.3%, Billroth-II 1.1%, Roux-en-Y 2.1%).
+- 1932 analyzed; mean age 72.9; female 40.1%; American Society of Anesthesiologists (ASA) class I–II 87.4%; prior AP 13.5%; obstructive jaundice 34.7%; acute cholangitis 30.6%; **naïve papilla 54.6%**; peripapillary diverticulum 25.8%; surgically altered GI anatomy 5.5% (Billroth-I 2.3%, Billroth-II 1.1%, Roux-en-Y 2.1%).
 - Indication: choledocholithiasis 46.0%; pancreatic cancer 13.5%; bile duct cancer 12.8%; malignant disease overall 36.5%.
 - Procedures: therapeutic ERCP 89.1%; emergency ERCP 22.7%; ERCP by trainees (<5 years' experience) 60.4%; mean procedure time 37.9 min; wire-guided cannulation 53.9% vs contrast-guided 45.0%; cannulation achieved in 1–3 attempts in 64.3%; pancreatic duct injection 30.8%; IDUS 11.6%; prophylactic pancreatic stenting 5.1%.
 
@@ -128,7 +128,7 @@ Severity was graded by the **Japanese MHLW severity scoring system for AP (2008 
 
 - **Observational design with no standardized ERCP protocol** across the five centers — incidence and risk-factor associations may be confounded by unmeasured variables.
 - **Hydration volume was not measured**, despite evidence that aggressive lactated Ringer's hydration reduces PEP — a potential confounder of PEP development.
-- **Rectal NSAIDs and prophylactic pancreatic stents were given only to high-risk patients at operator discretion.** The number receiving rectal NSAIDs was small, and **rectal NSAIDs were therefore excluded from the variables investigated altogether**.
+- **Rectal nonsteroidal anti-inflammatory drugs (NSAIDs) and prophylactic pancreatic stents were given only to high-risk patients at operator discretion.** The number receiving rectal NSAIDs was small, and **rectal NSAIDs were therefore excluded from the variables investigated altogether**.
 - **Selection bias possible**, though the authors note that hydration practice and high-risk case selection did not differ significantly among the five institutions at a pre-study meeting.
 
 ---
@@ -136,7 +136,7 @@ Severity was graded by the **Japanese MHLW severity scoring system for AP (2008 
 ## Relevance to Wiki
 
 - **[[ercp]] → Complications / PEP.** Supplies the operative **definition** content the page previously lacked: the three Cotton criteria in full, the AP-criteria alternative, and the measured consequence of choosing one over the other (7.3% vs 4.5%; 38.7% missed by Cotton). Definition lives on [[ercp]] as its one home.
-- **Extends the PEP risk-factor list** in [[asge-2023-post-ercp-pancreatitis|ASGE 2023]] with factors that guideline does not name — **naïve papilla, surgically altered GI anatomy, IDUS, and procedure time after reaching the papilla**. These are net-new and non-conflicting, so they are recorded on [[ercp]] alongside the guideline's list and attributed to this cohort.
+- **Extends the PEP risk-factor list** in [[asge-2023-post-ercp-pancreatitis|American Society for Gastrointestinal Endoscopy (ASGE) 2023]] with factors that guideline does not name — **naïve papilla, surgically altered GI anatomy, IDUS, and procedure time after reaching the papilla**. These are net-new and non-conflicting, so they are recorded on [[ercp]] alongside the guideline's list and attributed to this cohort.
 - **[[acute-pancreatitis]]** — the AP diagnostic criteria applied to the post-ERCP setting; pointer only, since the criteria themselves already live on that page.
 - Provides the denominator context for reading [[azuma-2026-cryoprevention-pep]], which used a **modified** Cotton definition and therefore counts PEP differently again.
 
@@ -145,7 +145,7 @@ Severity was graded by the **Japanese MHLW severity scoring system for AP (2008 
 ## Contradictions / Open Questions
 
 - **Prophylactic pancreatic stenting looked harmful on univariate analysis** (OR 2.399) — directly opposite to the strong recommendation in [[asge-2023-post-ercp-pancreatitis|ASGE 2023]]. It is **confounding by indication**, and the association vanished on multivariable adjustment (OR 0.935). **ASGE 2023 governs the wiki's recommendation**; this cohort does not overturn it and its authors do not claim it does.
-- **Conventional risk factors not reproduced.** Younger age, prior pancreatitis, normal bilirubin and pancreatic guidewire passage — all named as risk factors by ASGE and ESGE — were not independently significant here. The authors explicitly note this discrepancy without resolving it.
+- **Conventional risk factors not reproduced.** Younger age, prior pancreatitis, normal bilirubin and pancreatic guidewire passage — all named as risk factors by ASGE and the European Society of Gastrointestinal Endoscopy (ESGE) — were not independently significant here. The authors explicitly note this discrepancy without resolving it.
 - **No single agreed PEP definition exists**, and the choice materially changes measured incidence and severity. Comparisons of PEP rates across trials that use different definitions (Cotton vs AP criteria vs modified Cotton) are not like-for-like.
 - **The Revised Atlanta Classification is discussed but not used.** The authors note that Atlanta makes **persistent organ failure the key determinant of severity**, which "poses difficulties for evaluating the severity in the early phase and repeated assessment as with the Cotton criteria," and conclude that **unique severity criteria need to be established for the pathophysiology of PEP.**
 - **Single-country, five-center cohort**, high proportion of trainee-performed procedures (60.4%) and malignant indications (36.5%); rectal NSAID use was too infrequent to analyze.
