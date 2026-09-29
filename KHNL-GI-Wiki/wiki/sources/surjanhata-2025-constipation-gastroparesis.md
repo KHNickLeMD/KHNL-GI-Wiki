@@ -27,8 +27,8 @@ Core message: in patients presenting with gastroparesis-type symptoms, **identif
 - WMC detects extragastric (small-bowel/colonic) transit delays that scintigraphy alone misses.
 
 ## Relevance to Wiki
-- `[[gastroparesis]]` → Clinical Pearls / Diagnostics: primary-evidence support for whole-gut assessment (WMC) and for treating coexisting slow colonic transit to improve upper-GI symptoms.
+- [[gastroparesis]] → Clinical Pearls / Diagnostics: primary-evidence support for whole-gut assessment (WMC) and for treating coexisting slow colonic transit to improve upper-GI symptoms.
 
 ## Contradictions / Open Questions
-- Non-randomized secondary analysis (small n, open-label medication changes) — hypothesis-generating; no conflict with `[[acg-2022-gastroparesis]]` / `[[aga-2025-gastroparesis]]`.
+- Non-randomized secondary analysis (small n, open-label medication changes) — hypothesis-generating; no conflict with [[acg-2022-gastroparesis]] / [[aga-2025-gastroparesis]].
 - Constipation regimens were individualized, so the specific agent driving benefit is not defined.

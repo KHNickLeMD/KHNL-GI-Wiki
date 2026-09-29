@@ -3,7 +3,7 @@ title: "Irritable Bowel Syndrome"
 category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, diet, fiber, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-09-23
+updated: 2026-09-29
 sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d, aga-2020-sibo, aga-2022-diet-ibs]
 ---
 
@@ -94,6 +94,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 *Workup: see [[chronic-diarrhea]] for the diarrhea-predominant presentation, [[chronic-constipation]] for the constipation-predominant one.*
 
 - [[ulcerative-colitis]] / [[crohns-disease]] — calprotectin/lactoferrin + C-reactive protein (CRP) screen (Strong/Moderate, [[acg-2020-ibs]])
+  - **IBS and [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] coexist far more often than they exclude each other** — pooled IBS prevalence in IBD **39%**, odds ratio **4.89** vs controls. **Rome IV criteria cannot be strictly applied to IBD patients**, but addressing the functional pathophysiology is still important ([[aga-2018-functional-gi-symptoms-ibd]]). Do not read a coexisting IBD diagnosis as excluding functional symptoms, or persistent symptoms in quiescent IBD as proof of a flare — the stepwise rule-out and IBD-specific acquired mechanisms are on [[inflammatory-bowel-disease]].
 - [[celiac-disease]] — serology in IBS-D (Strong/Moderate; biopsy-proven celiac disease (CD) odds ratio (OR) 4.48 in IBS-D)
 - [[clostridioides-difficile]] / [[postinfectious-ibs|postinfection IBS]] ([[giardiasis|Giardia]], [[campylobacter-infection|Campylobacter]]) — selective testing
 - [[chronic-idiopathic-constipation]] — distinguished from IBS-C by absence of pain dominance
@@ -206,3 +207,4 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 6. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]
 7. [[aga-2022-diet-ibs|AGA Clinical Practice Update on the Role of Diet in Irritable Bowel Syndrome: Expert Review (2022)]]
 8. [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA Clinical Practice Guidelines on the Laboratory Evaluation of Functional Diarrhea and Diarrhea-Predominant Irritable Bowel Syndrome in Adults (IBS-D) (2019)]]
+9. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease: Expert Review]]

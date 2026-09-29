@@ -103,12 +103,12 @@ The grading system (Table 1, adapted from American College of Cardiology/America
 - **Noninvasive alternatives:** serum tests and transient elastography increasingly used for fibrosis but not yet sufficiently precise/validated to replace biopsy at time of writing.
 
 ## Relevance to Wiki
-- Anchors the new concept page `[[liver-biopsy]]` (indications, approaches, coagulation assessment, complications, specimen adequacy).
-- Reinforces `[[cirrhosis-hemostasis]]`: rebalanced hemostasis, poor predictive value of PT-INR, platelet transfusion threshold ~50-60k, hyperfibrinolysis.
-- Frames `[[noninvasive-liver-disease-assessment]]` as the increasingly preferred alternative (now substantially advanced by the 2024 noninvasive liver disease assessment (NILDA) guidance).
-- Provides the biopsy role for disease scripts: `[[autoimmune-hepatitis]]`, `[[nafld-masld]]`, `[[primary-biliary-cholangitis]]`, `[[primary-sclerosing-cholangitis]]`, `[[wilson-disease]]`, `[[hereditary-hemochromatosis]]`, `[[hepatocellular-carcinoma]]`, `[[cholangiocarcinoma]]`, `[[drug-induced-liver-injury]]`, `[[acute-liver-failure]]`.
+- Anchors the new concept page [[liver-biopsy]] (indications, approaches, coagulation assessment, complications, specimen adequacy).
+- Reinforces [[cirrhosis-hemostasis]]: rebalanced hemostasis, poor predictive value of PT-INR, platelet transfusion threshold ~50-60k, hyperfibrinolysis.
+- Frames [[noninvasive-liver-disease-assessment]] as the increasingly preferred alternative (now substantially advanced by the 2024 noninvasive liver disease assessment (NILDA) guidance).
+- Provides the biopsy role for disease scripts: [[autoimmune-hepatitis]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[drug-induced-liver-injury]], [[acute-liver-failure]].
 
 ## Contradictions / Open Questions
-- Predates and is partly superseded by the AASLD 2024 NILDA guidance (`[[aasld-2024-nilda-blood]]`, `[[aasld-2024-nilda-imaging]]`, `[[aasld-2024-nilda-portal-htn]]`), which positions elastography/serum tests as first-line for fibrosis staging in many settings — biopsy now reserved for diagnostic uncertainty.
-- Coagulation management overlaps with and is updated by `[[aga-2021-cirrhosis-coagulation]]` (avoid routine correction of INR/platelets before procedures; thresholds debated).
+- Predates and is partly superseded by the AASLD 2024 NILDA guidance ([[aasld-2024-nilda-blood]], [[aasld-2024-nilda-imaging]], [[aasld-2024-nilda-portal-htn]]), which positions elastography/serum tests as first-line for fibrosis staging in many settings — biopsy now reserved for diagnostic uncertainty.
+- Coagulation management overlaps with and is updated by [[aga-2021-cirrhosis-coagulation]] (avoid routine correction of INR/platelets before procedures; thresholds debated).
 - No validated PT-INR or platelet cutoff for bleeding risk remains an open question; the SHIP trial (plasma correction) closed early due to slow enrollment.

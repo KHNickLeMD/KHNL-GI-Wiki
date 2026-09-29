@@ -44,10 +44,10 @@ The central tension throughout the 9 Best Practice Advice (BPA) statements is **
 - **Ulcer bleeding:** post-hemostasis Thai RCT — oral vonoprazan noninferior to high-dose intravenous (IV) PPI for rebleeding at 3/7/30 days.
 
 ## Relevance to Wiki
-- Creates `[[potassium-competitive-acid-blockers]]` (drug-class page in `5-meds/`); complements the agent-specific `[[vonoprazan]]` page.
-- Updates the acid-suppression / therapeutics sections of `[[gerd]]`, `[[peptic-ulcer-disease]]`, and `[[helicobacter-pylori-infection]]`.
+- Creates [[potassium-competitive-acid-blockers]] (drug-class page in `5-meds/`); complements the agent-specific [[vonoprazan]] page.
+- Updates the acid-suppression / therapeutics sections of [[gerd]], [[peptic-ulcer-disease]], and [[helicobacter-pylori-infection]].
 - Supplies the LA grade A/B vs C/D decision split that governs when a P-CAB is reasonable in erosive esophagitis.
 
 ## Contradictions / Open Questions
-- On *H. pylori*, this AGA Clinical Practice Update (CPU) is more affirmatively pro–P-CAB (BPA 7: "should use P-CABs in place of PPIs") than `[[acg-2024-hp-treatment]]`, which frames vonoprazan regimens as recommended options among several. Both are guideline-tier; both post-2024 — no strong precedence, so both stances are surfaced.
+- On *H. pylori*, this AGA Clinical Practice Update (CPU) is more affirmatively pro–P-CAB (BPA 7: "should use P-CABs in place of PPIs") than [[acg-2024-hp-treatment]], which frames vonoprazan regimens as recommended options among several. Both are guideline-tier; both post-2024 — no strong precedence, so both stances are surfaced.
 - Long-term P-CAB safety data are immature; cost-effectiveness vs double-dose PPIs is unresolved.

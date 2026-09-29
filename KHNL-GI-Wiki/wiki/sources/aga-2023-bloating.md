@@ -51,9 +51,9 @@ Belching is separated from bloating/distention given differing location, pathoph
 - Bloating/fullness can be a presenting symptom of **ovarian cancer** (highest risk women ≥50) — alarm-feature imaging caveat.
 
 ## Relevance to Wiki
-- Creates `[[abdominal-bloating-and-distention]]` diagnostic schema (belching, bloating, distention; Rome IV criteria; symptom-driven workup; neuromodulator/behavioral therapy).
-- Links to `[[disorders-of-gut-brain-interaction]]`, `[[small-intestinal-bacterial-overgrowth]]`, `[[intestinal-methanogen-overgrowth]]`, `[[irritable-bowel-syndrome]]`, `[[celiac-disease]]`, `[[chronic-idiopathic-constipation]]`, `[[defecation-disorders]]`, `[[gastroparesis]]`, `[[dyspepsia]]`.
+- Creates [[abdominal-bloating-and-distention]] diagnostic schema (belching, bloating, distention; Rome IV criteria; symptom-driven workup; neuromodulator/behavioral therapy).
+- Links to [[disorders-of-gut-brain-interaction]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[gastroparesis]], [[dyspepsia]].
 
 ## Contradictions / Open Questions
-- SIBO breath-test cutoffs/substrate doses remain non-standardized and controversial; authors decline to endorse routine testing — consistent with `[[acg-2020-sibo]]` caution.
+- SIBO breath-test cutoffs/substrate doses remain non-standardized and controversial; authors decline to endorse routine testing — consistent with [[acg-2020-sibo]] caution.
 - No formal evidence grades (expert review); most treatment evidence is single-center or observational.

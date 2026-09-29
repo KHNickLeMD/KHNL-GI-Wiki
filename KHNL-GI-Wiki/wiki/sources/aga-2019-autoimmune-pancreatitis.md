@@ -122,8 +122,8 @@ Management is **primarily medical and steroid-based** — response to corticoste
 
 ## Relevance to Wiki
 
-- **Primary page:** `[[autoimmune-pancreatitis]]`.
-- **Should be linked from** — pages that currently mention AIP or IgG4 as unlinked plain text: `[[chronic-pancreatitis]]` (lists AIP type 1/2 in its etiology and differential diagnosis (DDx) sections), `[[acute-pancreatitis]]` (AIP type 1 row in its etiology table and IgG4 in its lab table), `[[pancreatic-cancer]]` (autoimmune/IgG4-related mass-forming pancreatitis as a mimic), `[[biliary-stricture]]`, `[[recurrent-acute-pancreatitis]]`, `[[jaundice]]`, `[[cholangiocarcinoma]]`, `[[choledocholithiasis]]`, `[[primary-sclerosing-cholangitis]]`, `[[abnormal-liver-chemistries]]`.
+- **Primary page:** [[autoimmune-pancreatitis]].
+- **Should be linked from** — pages that currently mention AIP or IgG4 as unlinked plain text: [[chronic-pancreatitis]] (lists AIP type 1/2 in its etiology and differential diagnosis (DDx) sections), [[acute-pancreatitis]] (AIP type 1 row in its etiology table and IgG4 in its lab table), [[pancreatic-cancer]] (autoimmune/IgG4-related mass-forming pancreatitis as a mimic), [[biliary-stricture]], [[recurrent-acute-pancreatitis]], [[jaundice]], [[cholangiocarcinoma]], [[choledocholithiasis]], [[primary-sclerosing-cholangitis]], [[abnormal-liver-chemistries]].
 - **Key numbers:** the serum IgG4 diagnostic cutoff with its test characteristics (53%/99%), the 1% false-positive rate in pancreatic cancer, the type 1 vs type 2 phenotype table, the ~35% focal-mass rate in IDCP, the UC→IDCP cumulative-incidence figures, and the up-to-60% vs <10% relapse split.
 - **IgG4-related disease / IgG4-sclerosing cholangitis** — this source lists the organ manifestations and ties IgG4-SC to relapse risk, but does not define IgG4-SC itself.
 
@@ -142,5 +142,5 @@ Management is **primarily medical and steroid-based** — response to corticoste
 6. **No guidance on exocrine insufficiency or diabetes**, which it names as the long-term sequelae — no screening test, interval, or treatment.
 
 **Against other pages**
-- No contradiction found. `[[chronic-pancreatitis]]` and `[[acute-pancreatitis]]` already describe AIP type 1 vs type 2 in one-line form (IgG4-related vs IBD-associated with granulocytic epithelial lesions); this source is consistent with them and far more specific.
-- `[[primary-sclerosing-cholangitis]]` carries IgG4 cutoffs in **g/L** from `[[aasld-2022-psc]]` (>5.6 g/L suggests IgG4-related sclerosing cholangitis [IgG4-SC]) for a different question — excluding IgG4-SC in a primary sclerosing cholangitis (PSC) workup. This source's cutoff is in **mg/dL** and is for diagnosing pancreatic AIP. Different units, different questions, no conflict; do not merge the two thresholds.
+- No contradiction found. [[chronic-pancreatitis]] and [[acute-pancreatitis]] already describe AIP type 1 vs type 2 in one-line form (IgG4-related vs IBD-associated with granulocytic epithelial lesions); this source is consistent with them and far more specific.
+- [[primary-sclerosing-cholangitis]] carries IgG4 cutoffs in **g/L** from [[aasld-2022-psc]] (>5.6 g/L suggests IgG4-related sclerosing cholangitis [IgG4-SC]) for a different question — excluding IgG4-SC in a primary sclerosing cholangitis (PSC) workup. This source's cutoff is in **mg/dL** and is for diagnosing pancreatic AIP. Different units, different questions, no conflict; do not merge the two thresholds.

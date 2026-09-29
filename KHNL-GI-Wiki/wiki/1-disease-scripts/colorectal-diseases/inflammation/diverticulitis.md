@@ -43,8 +43,18 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 - **Uncomplicated:** localized inflammation without abscess, perforation, stricture, or fistula.
 - **Complicated:** inflammation + **phlegmon, abscess, perforation, peritonitis, stricture, or fistula.** Abscess is the most common complication.
   - **Risk of complicated disease is highest at the *initial* presentation and falls with each subsequent recurrence** — the empirical basis for abandoning episode-count–driven surgery (see Therapeutics).
-- **High-risk features** predicting progression (~5% of uncomplicated cases complicate within 3 months, most in the first 10 days):
-  - Significant comorbidities · symptom duration **>5 days** · vomiting · **CRP >140 mg/L** · fluid collection on imaging · longer segment of colonic inflammation.
+- **High-risk features** predicting progression (~5% of uncomplicated cases complicate within 3 months, most in the first 10 days). **Any one of these → treat as high risk and give antibiotics** ([[aga-2021-colonic-diverticulitis|AGA 2021]] best practice advice [BPA] 7):
+
+| Feature | Cut-point |
+|---|---|
+| Comorbidity burden | American Society of Anesthesiologists (ASA) Physical Status Classification **III or IV**; frailty |
+| Symptom duration before presentation | **>5 days** |
+| Vomiting | present (also: refractory symptoms) |
+| **CRP** | **>140 mg/L** |
+| **White blood cell (WBC) count** | **baseline >15 × 10⁹ cells/L** |
+| CT findings | **fluid collection**, or a **longer segment of inflammation — 86 mm vs 65 mm** in those who progressed vs those who did not |
+
+- **"Longer segment" has a number** — do not read it as a subjective impression. Likewise **immunocompromise** is an antibiotic indication in its own right (BPA 8), independent of these cut-points.
 
 ### Classification / Typing
 

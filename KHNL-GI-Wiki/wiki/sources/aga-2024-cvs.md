@@ -53,11 +53,11 @@ CVS is diagnosed clinically by **Rome IV criteria** and unfolds in **4 phases** 
 **ED management:** treat all regardless of CHS suspicion; intravenous (IV) dextrose-containing fluids + IV antiemetics; **IV ketorolac as first-line non-narcotic analgesic**; benzodiazepines for sedation in a quiet, dark room; narcotics only in most severe refractory cases.
 
 ## Relevance to Wiki
-- Primary source for `[[cyclic-vomiting-syndrome]]` (previously leaned on `[[aga-2024-chs]]`).
-- Reinforces CVS-vs-CHS boundary on `[[cannabinoid-hyperemesis-syndrome]]`.
-- Lists `[[acute-hepatic-porphyria]]`, Addison's, and hypothyroidism as mimics — relevant to `[[nausea-and-vomiting]]` / `[[gastroparesis]]` differentials.
+- Primary source for [[cyclic-vomiting-syndrome]] (previously leaned on [[aga-2024-chs]]).
+- Reinforces CVS-vs-CHS boundary on [[cannabinoid-hyperemesis-syndrome]].
+- Lists [[acute-hepatic-porphyria]], Addison's, and hypothyroidism as mimics — relevant to [[nausea-and-vomiting]] / [[gastroparesis]] differentials.
 - Neuromodulator prophylaxis (TCAs first-line) overlaps the neuromodulator framing used elsewhere in the DGBI cluster.
 
 ## Contradictions / Open Questions
-- Diagnostic criteria are **Rome IV**; see also `[[rome-v-2026-dgbi]]` (Rome V, 2026). This CPU predates Rome V — where Rome V revises CVS criteria, the newer consensus governs.
+- Diagnostic criteria are **Rome IV**; see also [[rome-v-2026-dgbi]] (Rome V, 2026). This CPU predates Rome V — where Rome V revises CVS criteria, the newer consensus governs.
 - All CVS pharmacotherapy rests on case series / expert opinion (no RCTs) — evidence quality is low by design.

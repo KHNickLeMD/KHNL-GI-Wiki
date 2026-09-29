@@ -123,7 +123,7 @@ Key structural innovation: the framework now stratifies patients into **unproven
 
 This is the primary authoritative reference for GERD diagnosis standards. Key pages that cite this source:
 
-- `[[ambulatory-reflux-monitoring]]` — directly built from this source; covers all thresholds and test selection logic
+- [[ambulatory-reflux-monitoring]] — directly built from this source; covers all thresholds and test selection logic
 - GERD disease script — diagnostic criteria section
 - Any pages addressing [[laryngopharyngeal-symptoms]], [[hrm-antireflux-surgery]], or [[flip-panometry]] that touch on reflux quantification
 

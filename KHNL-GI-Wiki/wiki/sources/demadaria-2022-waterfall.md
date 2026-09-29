@@ -27,8 +27,8 @@ The trial was **halted early** at the first planned interim analysis (249 of a p
 - Bottom line: early aggressive fluid resuscitation caused more harm (fluid overload) without improving clinical outcomes.
 
 ## Relevance to Wiki
-- `[[acute-pancreatitis]]` → Therapeutics / Fluid Resuscitation: primary-evidence support for moderate, goal-directed LR resuscitation over aggressive hydration.
+- [[acute-pancreatitis]] → Therapeutics / Fluid Resuscitation: primary-evidence support for moderate, goal-directed LR resuscitation over aggressive hydration.
 
 ## Contradictions / Open Questions
-- Corroborates (does not conflict with) the existing `[[acg-2024-acute-pancreatitis]]` moderately-aggressive/goal-directed recommendation. Older observational data and small trials favoring vigorous hydration are superseded by this RCT.
+- Corroborates (does not conflict with) the existing [[acg-2024-acute-pancreatitis]] moderately-aggressive/goal-directed recommendation. Older observational data and small trials favoring vigorous hydration are superseded by this RCT.
 - Excluded severe organ failure at baseline in some strata; optimal resuscitation in patients presenting with established severe disease remains less defined.

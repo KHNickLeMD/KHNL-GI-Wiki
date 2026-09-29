@@ -3,8 +3,8 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-09-24
-sources: [acg-2025-uc, aga-2019-mild-moderate-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt, aga-2021-ibd-colorectal-dysplasia]
+updated: 2026-09-29
+sources: [aga-2018-functional-gi-symptoms-ibd, acg-2025-uc, aga-2019-mild-moderate-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt, aga-2021-ibd-colorectal-dysplasia]
 ---
 
 Idiopathic chronic inflammatory disorder of the large intestine. Continuous mucosal inflammation starting in rectum and extending proximally. Relapsing-remitting course; goal of therapy is sustained steroid-free endoscopic remission.
@@ -503,6 +503,10 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 **Anxiety/depression:** Screen all UC patients; associated with increased disease activity and health care utilization
 
+**Endoscopic healing does not guarantee symptom resolution** ([[aga-2018-functional-gi-symptoms-ibd]]): among patients reaching **MES 0**, normal stool frequency was reported by only **29% at 8 weeks** and **41% at 52 weeks**; up to **27%** of UC patients with **both endoscopic and histologic healing** may still have increased stool frequency. Before escalating anti-inflammatory therapy for persistent symptoms, work through the stepwise inflammation rule-out and the acquired-mechanism differential on [[inflammatory-bowel-disease]]. Two UC-specific contributors: **obstipation/constipation from fecal stasis in the uninflamed colon proximal to distal colitis** (abdominal x-ray; treat with laxation or a prokinetic), and **transmural fibrosis** — thickened muscularis mucosa and increased collagen deposition occur in UC and likely affect colonic motility and anorectal function **even without strictures or active mucosal disease**. Overall functional-symptom overlap is lower in UC than [[crohns-disease|CD]] (36% vs 46%).
+
+**Older adults (age ≥60):** age- and frailty-specific safety, surgical risk (including worse ileal pouch–anal anastomosis function with reduced sphincter tone) and drug-by-drug signals are on [[ibd-in-older-adults|IBD in older adults]].
+
 **Extent progression:** Up to 46% of proctitis and 70% of left-sided colitis extend proximally — reassess extent over time
 
 **5-ASA and advanced therapies:** Do NOT add 5-ASA for efficacy when using biologics/JAK inhibitors
@@ -519,7 +523,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ## See Also
 
-[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[immune-checkpoint-inhibitor-colitis]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[toxic-megacolon]], [[polypectomy]], [[ibd-pain-management]], [[iron-deficiency-anemia]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]]
+[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[immune-checkpoint-inhibitor-colitis]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[toxic-megacolon]], [[polypectomy]], [[ibd-pain-management]], [[iron-deficiency-anemia]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]], [[ibd-in-older-adults]], [[irritable-bowel-syndrome]]
 
 ---
 
@@ -542,3 +546,4 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 15. [[aga-2024-fmt|AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024)]]
 16. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
 17. [[aga-2019-mild-moderate-uc|AGA Clinical Practice Guidelines on the Management of Mild-to-Moderate Ulcerative Colitis (2019)]]
+18. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease: Expert Review]]

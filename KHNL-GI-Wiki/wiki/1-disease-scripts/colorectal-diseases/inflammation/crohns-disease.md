@@ -3,8 +3,8 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-09-25
-sources: [acg-2025-crohns, aga-2017-crohns-after-surgical-resection, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia]
+updated: 2026-09-29
+sources: [aga-2018-functional-gi-symptoms-ibd, acg-2025-crohns, aga-2017-crohns-after-surgical-resection, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia]
 ---
 
 Idiopathic, transmural, granulomatous inflammatory disorder of the gastrointestinal (GI) tract. Can involve any segment mouth-to-anus; discontinuous, skip lesions. Chronic progressive course with risk of stricture, fistula, abscess, and surgery.
@@ -484,6 +484,10 @@ Endoscopic assessment of the neoterminal ileum at **6–12 months** post-resecti
 
 **Mental health:** Depression/anxiety in ~25–33%; screen and manage; associated with increased disease activity and health care utilization.
 
+**Functional (IBS-like) symptom overlap — higher in CD than UC:** pooled IBS prevalence **46% in CD vs 36% in UC**, **OR 1.62 (95% confidence interval [CI] 1.21–2.18)** ([[aga-2018-functional-gi-symptoms-ibd]]). The Update's own caveat: IBS was defined by Manning, Rome I, Rome II, Rome III or other validated questionnaires, and the 4 case-control studies were of low quality — take the numbers with caution. **CD-specific acquired mechanisms to exclude before calling symptoms functional:** intestinal stenosis (obstructive pain, nausea/vomiting, distention), [[bile-acid-diarrhea|bile acid diarrhea]] with ileal disease or resection, and [[small-intestinal-bacterial-overgrowth|SIBO]]. Active small-bowel disease, stenosis and fistulas are missed by ileocolonoscopy alone without systematic cross-sectional small-bowel imaging. The full stepwise workup, biomarker limits and Figure 1 algorithm are on [[inflammatory-bowel-disease]].
+
+**Older adults (age ≥60):** efficacy ordering above is unchanged, but the safety profile, frailty assessment, surgical risk and drug-by-drug age signals are on [[ibd-in-older-adults|IBD in older adults]].
+
 **Malignancy risk:**
 
 - Colonic CD: CRC risk increased (same surveillance as UC); start at 8y if >30% colonic involvement
@@ -504,7 +508,7 @@ Endoscopic assessment of the neoterminal ileum at **6–12 months** post-resecti
 
 ## See Also
 
-[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[short-bowel-syndrome]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]]
+[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[short-bowel-syndrome]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]], [[ibd-in-older-adults]], [[irritable-bowel-syndrome]], [[bile-acid-diarrhea]], [[small-intestinal-bacterial-overgrowth]]
 
 ---
 
@@ -525,3 +529,4 @@ Endoscopic assessment of the neoterminal ileum at **6–12 months** post-resecti
 13. [[aga-2024-ibd-malignancy|AGA Clinical Practice Update on Management of IBD in Patients With Malignancy: Commentary (2024)]]
 14. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review (2024)]]
 15. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
+16. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease: Expert Review]]

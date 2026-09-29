@@ -85,9 +85,9 @@ For **active cancer**, if IBD activity must be controlled during oncologic treat
 *General principle: the greatest concern is with **thiopurines** and **anti-TNF**; there are insufficient data to alter management of the other IBD medication classes when a cancer develops.*
 
 ## Relevance to Wiki
-- New home page: `[[ibd-in-malignancy]]` (7-concepts) — the cancer-risk-by-drug data and Table 1.
-- Updates `[[crohns-disease]]`, `[[ulcerative-colitis]]` — cancer-risk-by-inflammation numbers + a pointer to the drug-management framework.
-- Relates to `[[immune-checkpoint-inhibitor-hepatitis]]` (ICI colitis is the gastrointestinal [GI]-toxicity counterpart), `[[colorectal-cancer]]`, `[[primary-sclerosing-cholangitis]]` (PSC → CRC/cholangiocarcinoma risk), `[[cholangiocarcinoma]]`, `[[ibd-preventive-care]]` (dermatologic/cervical screening).
+- New home page: [[ibd-in-malignancy]] (7-concepts) — the cancer-risk-by-drug data and Table 1.
+- Updates [[crohns-disease]], [[ulcerative-colitis]] — cancer-risk-by-inflammation numbers + a pointer to the drug-management framework.
+- Relates to [[immune-checkpoint-inhibitor-hepatitis]] (ICI colitis is the gastrointestinal [GI]-toxicity counterpart), [[colorectal-cancer]], [[primary-sclerosing-cholangitis]] (PSC → CRC/cholangiocarcinoma risk), [[cholangiocarcinoma]], [[ibd-preventive-care]] (dermatologic/cervical screening).
 
 ## Contradictions / Open Questions
 - Melanoma–anti-TNF association is inconsistent (one insurance-claims study ~2×; Danish cohort and a biologics meta-analysis null). Table 1 nonetheless advises stopping anti-TNF if melanoma develops.

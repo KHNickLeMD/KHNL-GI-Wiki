@@ -27,8 +27,8 @@ Relevant to gastrointestinal (GI)/hepatology given the rising burden of alcohol-
 - Interpretation: initial prospective evidence that low-dose semaglutide reduces craving and some drinking outcomes; larger trials needed.
 
 ## Relevance to Wiki
-- `[[semaglutide]]` → investigational/off-label use for alcohol use disorder (GLP-1RA effect on craving and consumption).
-- Tangential to `[[alcohol-associated-liver-disease]]` (emerging pharmacologic angle on alcohol reduction).
+- [[semaglutide]] → investigational/off-label use for alcohol use disorder (GLP-1RA effect on craving and consumption).
+- Tangential to [[alcohol-associated-liver-disease]] (emerging pharmacologic angle on alcohol reduction).
 
 ## Contradictions / Open Questions
-- Small phase 2 sample (n = 48), non–treatment-seeking population, 9-week duration — not practice-changing; off-label. No conflict with other pages (semaglutide's GI indication is metabolic dysfunction-associated steatohepatitis (MASH) per `[[aasld-2025-semaglutide-mash]]`).
+- Small phase 2 sample (n = 48), non–treatment-seeking population, 9-week duration — not practice-changing; off-label. No conflict with other pages (semaglutide's GI indication is metabolic dysfunction-associated steatohepatitis (MASH) per [[aasld-2025-semaglutide-mash]]).

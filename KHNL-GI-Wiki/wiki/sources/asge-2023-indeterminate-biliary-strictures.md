@@ -100,12 +100,12 @@ All three recommendations are **conditional ("we suggest…") with very low qual
 **Future directions identified:** RCTs; focus on PSC (where FISH plays a higher role); technologic developments (overtubes for intraductal biopsy, cholangioscopy platforms, CLE); adjunctive pathology (NGS, flow cytometry, FISH, digital image analysis); consecutive (vs selective) cholangioscopy/EUS; interval to next ERCP after nondiagnostic; AI-guided visual interpretation and sampling.
 
 ## Relevance to Wiki
-- Updates `[[biliary-stricture]]` — endoscopic tissue-acquisition algorithm by stricture location (distal vs nondistal/hilar), modality sensitivities, multimodality sampling rationale, and the hilar-mass EUS-FNA caution.
-- Updates `[[cholangiocarcinoma]]` — diagnostic approach, sensitivities of brush cytology/fluoroscopic biopsy/cholangioscopy/EUS, and the transplant-relevant needle-track seeding caution for hilar cholangiocarcinoma.
-- Provides content for `[[cholangioscopy]]` (new), `[[brush-cytology]]` (new), `[[ercp]]`, and `[[endoscopic-ultrasound]]`.
+- Updates [[biliary-stricture]] — endoscopic tissue-acquisition algorithm by stricture location (distal vs nondistal/hilar), modality sensitivities, multimodality sampling rationale, and the hilar-mass EUS-FNA caution.
+- Updates [[cholangiocarcinoma]] — diagnostic approach, sensitivities of brush cytology/fluoroscopic biopsy/cholangioscopy/EUS, and the transplant-relevant needle-track seeding caution for hilar cholangiocarcinoma.
+- Provides content for [[cholangioscopy]] (new), [[brush-cytology]] (new), [[ercp]], and [[endoscopic-ultrasound]].
 
 ## Contradictions / Open Questions
-- Consistent with the prior `[[acg-2023-biliary-strictures]]` content already on the biliary-stricture page; this ASGE document is more granular on the relative sensitivities of each tissue-acquisition modality and gives formal GRADE statements scoped by stricture location.
+- Consistent with the prior [[acg-2023-biliary-strictures]] content already on the biliary-stricture page; this ASGE document is more granular on the relative sensitivities of each tissue-acquisition modality and gives formal GRADE statements scoped by stricture location.
 - All three recommendations rest on **very low quality of evidence** (mostly observational); the single Q2 RCT supports cholangioscopy.
 - No formal recommendation on IDUS or CLE despite favorable test characteristics — adoption limited by availability/expertise/cost.
 

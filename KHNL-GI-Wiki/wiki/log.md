@@ -6,6 +6,26 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-29] lint | Second pass of the day — propagation debt cleared, AGA CPU items 40 + 42 ingested, three orphans closed, 2026-05-28 source cohort re-validated
+
+**Inbox check:** **No new arrivals.** `raw/` holds **449** non-asset files, matching the audited baseline exactly. `git status` clean; nothing untracked under `raw/` (its content subfolders are git-ignored, so this is expected and is never the detector).
+
+**Ingest slots claimed this pass (2 — the cap):** *(in progress)*
+
+**Propagation debt cleared:** *(in progress)*
+
+**Orphans closed:** *(in progress)*
+
+**Stalest-page validation:** *(in progress)*
+
+**Hygiene fixes:** *(in progress)*
+
+**Index:** *(in progress)*
+
+**Remaining for triage:** *(in progress)*
+
+---
+
 ## [2026-09-29] lint | AGA CPU items 41 + 43 ingested; the 2026-09-28 cron's abandoned entry reconciled against what it actually committed; 3 orphans closed; triage backlog worked
 
 **Inbox check:** **No new arrivals.** All 14 `raw/` subfolders counted and matched to the audited baseline exactly — AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, GI Other Studies 6, GI RCTs 12 = **449** non-asset files. `git status` was clean and stays useless for this: `raw/`'s content subfolders are git-ignored, so nothing under `raw/` was committable.

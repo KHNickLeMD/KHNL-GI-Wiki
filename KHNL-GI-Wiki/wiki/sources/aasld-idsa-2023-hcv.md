@@ -205,10 +205,10 @@ Retreatment for pediatric patients follows similar principles to adults (Table 4
 
 ## Relevance to Wiki
 
-- Creates `[[hepatitis-c]]` entity page (no prior page existed)
-- Source for the `[[direct-acting-antivirals]]` concept page
-- Supplies screening/treatment guidance to `[[hepatitis-c-in-pregnancy]]`
-- Cross-references: `[[chronic-hepatitis-b]]` (hepatitis B virus [HBV] reactivation risk with HCV DAA), `[[liver-transplantation]]` (post–liver transplant [LT] HCV, viremic donor organs), `[[portal-hypertension]]` (post-SVR varices surveillance), `[[liver-disease-in-pregnancy]]`
+- Creates [[hepatitis-c]] entity page (no prior page existed)
+- Source for the [[direct-acting-antivirals]] concept page
+- Supplies screening/treatment guidance to [[hepatitis-c-in-pregnancy]]
+- Cross-references: [[chronic-hepatitis-b]] (hepatitis B virus [HBV] reactivation risk with HCV DAA), [[liver-transplantation]] (post–liver transplant [LT] HCV, viremic donor organs), [[portal-hypertension]] (post-SVR varices surveillance), [[liver-disease-in-pregnancy]]
 
 ## Contradictions / Open Questions
 

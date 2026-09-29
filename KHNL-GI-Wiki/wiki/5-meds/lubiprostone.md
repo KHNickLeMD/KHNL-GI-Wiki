@@ -1,10 +1,10 @@
 ---
 title: "Lubiprostone"
 category: med
-tags: [lubiprostone, chloride-channel-activator, secretagogue, ibs-c, cic, constipation]
+tags: [lubiprostone, chloride-channel-activator, secretagogue, ibs-c, cic, constipation, oic, opioids]
 created: 2026-06-01
-updated: 2026-09-05
-sources: [acg-2020-ibs, aga-2022-ibs-c, aga-acg-2023-constipation]
+updated: 2026-09-29
+sources: [acg-2020-ibs, aga-2022-ibs-c, aga-acg-2023-constipation, aga-2017-opioids-in-gastroenterology]
 ---
 
 ## Class
@@ -16,7 +16,8 @@ Bicyclic fatty acid derived from prostaglandin E1; activates **type 2 chloride c
 | Indication | Dose (start = max) | Recommendation |
 |---|---|---|
 | [[chronic-idiopathic-constipation\|chronic idiopathic constipation (CIC)]], **only in adults who do not respond to over-the-counter (OTC) agents** | **24 µg orally (PO) twice daily (BID)** — also the **maximum** dose | Conditional, low certainty ([[aga-acg-2023-constipation]] Rec 7) |
-| [[irritable-bowel-syndrome\|Irritable bowel syndrome (IBS)]] with constipation (IBS-C) | **8 µg PO BID with meals** (FDA-approved in **adult women**; the dose used in the phase III randomized controlled trials [RCTs]) | American Gastroenterological Association (AGA): conditional, moderate certainty ([[aga-2022-ibs-c]] Rec 5); American College of Gastroenterology (ACG): Strong/Moderate ([[acg-2020-ibs]]) — see [[#Contradictions]] |
+| [[irritable-bowel-syndrome\|Irritable bowel syndrome (IBS)]] with constipation (IBS-C) | **8 µg PO BID with meals** (US Food and Drug Administration [FDA]-approved in **adult women**; the dose used in the phase III randomized controlled trials [RCTs]) | American Gastroenterological Association (AGA): conditional, moderate certainty ([[aga-2022-ibs-c]] Rec 5); American College of Gastroenterology (ACG): Strong/Moderate ([[acg-2020-ibs]]) — see [[#Contradictions]] |
+| [[opioid-induced-constipation\|Opioid-induced constipation (OIC)]] in **non-cancer** pain | **24 µg PO BID** — FDA-approved for this indication | [[aga-2017-opioids-in-gastroenterology]] |
 | Moderate or severe **hepatic impairment** | Reduce to **8 µg BID** | [[aga-acg-2023-constipation]] |
 
 - **"OTC agents" = the Step-2 ladder** — polyethylene glycol (PEG), bisacodyl, sodium picosulfate, psyllium, senna, magnesium oxide, lactulose; doses, maxima, and strengths of recommendation live on [[chronic-idiopathic-constipation]]. Lubiprostone can **replace or be added to** them.
@@ -34,6 +35,7 @@ Bicyclic fatty acid derived from prostaglandin E1; activates **type 2 chloride c
 | **CIC** — secondary | same | Stool form (0–4 scale) MD **1.09 better** (0.16–2.03); global relief (0–4 scale) MD **0.75 higher** (0.42–1.08); **Complete SBMs (CSBMs)/week not reported** |
 | **IBS-C**, 8 µg BID | 2 identically designed phase III RCTs, n=**1,171**, Rome II, 12 wk ([[acg-2020-ibs]]; [[aga-2022-ibs-c]] describes the same two trials as n=**1,154**) | Responder **17.9% vs 10.1%** placebo (P=0.0001) |
 | **IBS-C** — pooled | meta-analysis ([[acg-2020-ibs]]) | RR of symptom **persistence 0.91** (0.87–0.95); **number needed to treat (NNT) 12.5** |
+| **OIC**, 24 µg BID | 2 RCTs, 12 wk, n=431 and 418 ([[aga-2017-opioids-in-gastroenterology]]) | **Reduced time to first bowel movement by 50%**; ≥1 SBM improvement + ≥3 SBMs/wk for ≥9 wk in **27.1% vs 18.9%** placebo (P<.030); SBMs/wk at 8 wk **3.3 vs 2.4** (P=.005) |
 
 - **Delayed onset in IBS-C:** separation from placebo **did not reach significance until month 2**, then was maintained through month 3; response was maintained or increased over a **36-week open-label extension**.
 - **CIC certainty:** moderate for SBMs/week (imprecision), low for every other outcome → **overall low**.
@@ -46,6 +48,7 @@ Bicyclic fatty acid derived from prostaglandin E1; activates **type 2 chloride c
 - Diarrhea: 6%–14% at the IBS-C dose. In CIC, diarrhea leading to discontinuation is more likely than placebo (RR 5.30, 95% CI 1.53–18.44; 28 more per 1,000).
 - **All-cause withdrawal in IBS-C is much higher than the nausea-specific figure** — **12.8%** lubiprostone vs 12.3% placebo, i.e. no excess over placebo; gastrointestinal (GI)-specific AEs 19% vs 14% ([[aga-2022-ibs-c]]). Read the 1.2% above as nausea-driven discontinuation only.
 - **Contraindicated** in known or suspected **mechanical GI obstruction**.
+- ⚠ **Contraindicated in OIC associated with methadone use** — methadone inhibits lubiprostone-stimulated chloride secretion in vitro (T84 cell lines), abolishing the drug's mechanism. The opioid matters, not just the constipation [[aga-2017-opioids-in-gastroenterology]].
 - Little to no difference in serious adverse events vs placebo, though the CI was wide (RR 1.22, 95% CI 0.62–2.42) and increased risk could not be excluded.
 
 ## Place in Therapy
@@ -72,7 +75,7 @@ Bicyclic fatty acid derived from prostaglandin E1; activates **type 2 chloride c
 
 ## See Also
 
-[[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[linaclotide]], [[plecanatide]], [[tenapanor]], [[prucalopride]], [[tegaserod]], [[chronic-constipation]], [[disorders-of-gut-brain-interaction]]
+[[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[linaclotide]], [[plecanatide]], [[tenapanor]], [[prucalopride]], [[tegaserod]], [[chronic-constipation]], [[opioid-induced-constipation]], [[pamoras]], [[disorders-of-gut-brain-interaction]]
 
 ---
 
@@ -81,3 +84,4 @@ Bicyclic fatty acid derived from prostaglandin E1; activates **type 2 chloride c
 1. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]
 2. [[aga-2022-ibs-c|AGA Clinical Practice Guideline: Pharmacological Management of IBS-C (2022)]]
 3. [[aga-acg-2023-constipation|AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation]]
+4. [[aga-2017-opioids-in-gastroenterology|Opioids in Gastroenterology: Treating Adverse Effects and Creating Therapeutic Benefits]]

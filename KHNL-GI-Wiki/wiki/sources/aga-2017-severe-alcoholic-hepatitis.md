@@ -153,11 +153,11 @@ The concluding section is unusually candid that current anti-inflammatory therap
 
 ## Relevance to Wiki
 
-- **`[[alcohol-associated-hepatitis]]`** — primary target. The AGA 2017 CPU supplies the AH-specific content that the tier-1 ALD guidelines cover more thinly: SIRS-on-admission → MOF → death as the organizing pathophysiology; the mandatory blood/urine/ascites culture regardless of fever; fever and white blood cell (WBC) count as unreliable infection markers; iodinated contrast and diuretics as AKI risks; the 1–1.5 g/kg protein and 30–40 kcal/kg nutritional prescription; explicit management advice for **mild-to-moderate** AH (MELD <20 and MDF <32 → abstinence counseling, high-protein diet with B vitamins and folic acid); and the MELD >26 transplant-referral threshold.
-- **`[[alcohol-associated-liver-disease]]`** — corroborating detail only; the severity-score comparison, alcohol use disorder (AUD) pharmacotherapy, and fibrosis staging on that page come from newer tier-1 sources and are not changed by this update.
-- **`[[nutrition-in-liver-disease]]`** — the <21.5 kcal/kg/day mortality signal and the "normal-to-high protein does not precipitate encephalopathy" point.
-- **`[[aki-in-cirrhosis]]`** — AKI as the early manifestation of MOF in AH; contrast and diuretic avoidance.
-- **`[[liver-transplantation]]`** — MELD >26 referral threshold; LT outcomes in AH equal to other recipients at similar MELD; relapse no more frequent than in alcoholic cirrhosis.
+- **[[alcohol-associated-hepatitis]]** — primary target. The AGA 2017 CPU supplies the AH-specific content that the tier-1 ALD guidelines cover more thinly: SIRS-on-admission → MOF → death as the organizing pathophysiology; the mandatory blood/urine/ascites culture regardless of fever; fever and white blood cell (WBC) count as unreliable infection markers; iodinated contrast and diuretics as AKI risks; the 1–1.5 g/kg protein and 30–40 kcal/kg nutritional prescription; explicit management advice for **mild-to-moderate** AH (MELD <20 and MDF <32 → abstinence counseling, high-protein diet with B vitamins and folic acid); and the MELD >26 transplant-referral threshold.
+- **[[alcohol-associated-liver-disease]]** — corroborating detail only; the severity-score comparison, alcohol use disorder (AUD) pharmacotherapy, and fibrosis staging on that page come from newer tier-1 sources and are not changed by this update.
+- **[[nutrition-in-liver-disease]]** — the <21.5 kcal/kg/day mortality signal and the "normal-to-high protein does not precipitate encephalopathy" point.
+- **[[aki-in-cirrhosis]]** — AKI as the early manifestation of MOF in AH; contrast and diuretic avoidance.
+- **[[liver-transplantation]]** — MELD >26 referral threshold; LT outcomes in AH equal to other recipients at similar MELD; relapse no more frequent than in alcoholic cirrhosis.
 
 ---
 

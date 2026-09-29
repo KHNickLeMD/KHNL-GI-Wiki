@@ -179,8 +179,8 @@ Key areas: definition and prognosis (ACLF-specific scores vs. Model for End-Stag
 
 ## Relevance to Wiki
 
-- Creates new `[[acute-on-chronic-liver-failure]]` entity page
-- Cross-references: `[[acute-liver-failure]]` (distinct entity — acute liver failure [ALF] has no prior chronic liver disease [CLD]), `[[aki-in-cirrhosis]]` (HRS-AKI overlap), `[[spontaneous-bacterial-peritonitis]]`, `[[hepatic-encephalopathy]]`, `[[liver-transplantation]]`, `[[portal-hypertension]]`, `[[ascites]]`
+- Creates new [[acute-on-chronic-liver-failure]] entity page
+- Cross-references: [[acute-liver-failure]] (distinct entity — acute liver failure [ALF] has no prior chronic liver disease [CLD]), [[aki-in-cirrhosis]] (HRS-AKI overlap), [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[portal-hypertension]], [[ascites]]
 
 ## Contradictions / Open Questions
 

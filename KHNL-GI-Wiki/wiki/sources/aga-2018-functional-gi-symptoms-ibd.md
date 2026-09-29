@@ -3,7 +3,7 @@ title: "AGA 2018 Clinical Practice Update on Functional Gastrointestinal Symptom
 category: source
 tags: [ibd, crohns, ulcerative-colitis, ibs, functional-gi, dgbi, fecal-calprotectin, sibo, bile-acid-diarrhea, fodmap, psychogastroenterology, pelvic-floor, rifaximin, probiotics]
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-09-29
 sources: []
 ---
 
@@ -67,32 +67,9 @@ The three questions the Update sets out to answer: (1) what steps to take when a
 - Functional symptoms in IBD carry higher anxiety, depression and somatization scores and lower quality of life (QOL) (360-patient longitudinal study); anxiety and reduced vitality independently predict functional/IBS-like symptoms in IBD in remission.
 - Trial-design consequence: Crohn's Disease Activity Index (CDAI) can be as high in IBS as in IBD (SONIC — no difference between treatment arms for patients enrolled on CDAI only without objective inflammation). "No therapeutic decision should be taken based on clinical consideration alone."
 
-### Figure 1 — diagnostic algorithm (recreated)
+### Figure 1 — diagnostic algorithm
 
-```mermaid
-flowchart TD
-    A["Suspicion of functional gastrointestinal symptoms"] --> B["Clinical assessment<br/>Laboratory assessment for inflammatory markers<br/>(e.g. CRP, calprotectin)"]
-    B --> C["Unequivocal inflammation*"]
-    B --> D["Borderline inflammation*"]
-    B --> E["No evidence of active inflammation"]
-    C --> F["Endoscopic/histopathologic<br/>&/or imaging assessment"]
-    D --> F
-    F --> G["Active inflammatory disease"]
-    F --> H["Symptoms less consistent with<br/>degree of inflammation"]
-    G --> I["Optimize anti-inflammatory therapy"]
-    H -.-> I
-    H --> J["Non-inflammatory (functional) symptoms"]
-    E --> J
-    J --> K["Identify pathophysiologic contributors<br/>(Table 1)"]
-    K --> L["Treat as for IBS"]
-    K --> M["Specific, targeted therapy (Table 1)"]
-    L --> N["Dietary therapy"]
-    L --> O["Psychotherapy"]
-    L --> P["Pharmacotherapy"]
-    L --> Q["Physiotherapy"]
-```
-
-\*Per the figure's own footnote: **cut-off values for inflammatory markers such as calprotectin will vary according to the clinical scenario.** The Update gives no single decision threshold in the algorithm itself.
+**Recreated on [[inflammatory-bowel-disease]] → *Diagnostic Algorithm*, its single home page.** Per the figure's own footnote: **cut-off values for inflammatory markers such as calprotectin will vary according to the clinical scenario** — the Update gives no single decision threshold in the algorithm itself.
 
 ### Biomarker thresholds (the decision inputs behind BPA 1 and 2)
 

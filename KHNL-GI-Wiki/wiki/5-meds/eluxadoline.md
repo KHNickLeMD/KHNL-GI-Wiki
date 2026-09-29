@@ -3,8 +3,8 @@ title: "Eluxadoline"
 category: med
 tags: [ibs, ibs-d, mu-opioid-agonist, delta-opioid-antagonist, viberzi]
 created: 2026-07-26
-updated: 2026-09-05
-sources: [aga-2022-ibs-d, acg-2020-ibs]
+updated: 2026-09-29
+sources: [aga-2022-ibs-d, acg-2020-ibs, aga-2017-opioids-in-gastroenterology]
 ---
 
 Minimally absorbed, **peripherally acting mixed μ-/κ-opioid receptor agonist and δ-opioid receptor antagonist** — the δ-antagonism is designed to reduce constipation and increase analgesic potency vs a pure μ-agonist. FDA-approved for [[irritable-bowel-syndrome|diarrhea-predominant irritable bowel syndrome (IBS-D)]]. Both the [[aga-2022-ibs-d|American Gastroenterological Association (AGA) 2022]] and [[acg-2020-ibs|American College of Gastroenterology (ACG) 2020]] guidelines **suggest** it (conditional recommendation, **moderate** certainty). [[aga-2022-ibs-d]]
@@ -22,11 +22,19 @@ Eluxadoline is **contraindicated** in patients with any of: [[aga-2022-ibs-d]]
 
 > In the phase 3 program, all pancreatitis (5 cases) and SOS (8 events) occurred in patients **without a gallbladder or with a history of alcohol abuse** — and none in placebo. This is the basis for the contraindications. [[aga-2022-ibs-d]]
 
+**Where the no-gallbladder rule came from, and the postmarketing numbers** [[aga-2017-opioids-in-gastroenterology]]:
+
+- **FDA warning, March 15, 2017: eluxadoline should not be used in patients who do not have a gallbladder.** The review found **two deaths** in prior-cholecystectomy patients — one from pancreatitis with **symptom onset within 1 hour of a single dose**, one from sphincter of Oddi spasm presenting as severe abdominal pain and vomiting **shortly after the first dose**. Onset can be immediate; there is no safe trial period in this population.
+- **Rates in controlled trials: pancreatitis 0.3% and sphincter of Oddi spasm 0.3%** — these drove the exclusion criteria.
+- **~0.5%** of patients without a gallbladder developed SOD; confirmed in a study of nearly 2,000 patients with IBS-D in which **10 developed sphincter of Oddi spasm, most at the higher 100 mg dose**. This is a reason to prefer **75 mg BID** where benefit is very similar.
+- **Postmarketing:** the FDA Adverse Event Reporting System received **99 cases of pancreatitis and 39 of sphincter of Oddi spasm within 10 months** of US availability.
+
 ## Efficacy
 Two phase 3 randomized controlled trials (RCTs; 100 mg BID, ~808 vs 809 placebo; 26-week data): [[aga-2022-ibs-d]]
 - **FDA composite responder: 27.2% vs 16.7%** placebo (relative risk [RR] for failure of symptom relief 0.87, 95% confidence interval [CI] 0.83–0.92; **moderate** certainty). European Medicines Agency (EMA) responder 30.9% vs 19.5%.
 - Adequate relief for ≥6 of first 12 weeks: **38.4% vs 29.2%**.
 - Also superior for stool consistency (RR 0.84), 50% urgency-free days (RR 0.84), abdominal pain (RR 0.92), and clinically meaningful IBS quality of life (IBS-QOL) improvement.
+- **Number needed to treat ~8** on the primary endpoint (combined bowel function and pain) in the pivotal trials — but **abdominal pain scores alone were not significant for the 75 or 100 mg doses**; the composite is carried by the bowel-function component [[aga-2017-opioids-in-gastroenterology]].
 
 ## Adverse Effects / Monitoring
 - Most common: **constipation (~8%)**, nausea (**7.7%** per [[acg-2020-ibs]]; ~7% per [[aga-2022-ibs-d]]), abdominal pain (~7%, [[aga-2022-ibs-d]]); constipation tends to occur in the first 3 months.
@@ -43,3 +51,4 @@ Two phase 3 randomized controlled trials (RCTs; 100 mg BID, ~808 vs 809 placebo;
 
 1. [[aga-2022-ibs-d|AGA Clinical Practice Guideline: Pharmacological Management of Irritable Bowel Syndrome With Diarrhea (2022)]]
 2. [[acg-2020-ibs|ACG Clinical Guideline: Management of Irritable Bowel Syndrome (2020)]]
+3. [[aga-2017-opioids-in-gastroenterology|Opioids in Gastroenterology: Treating Adverse Effects and Creating Therapeutic Benefits]]

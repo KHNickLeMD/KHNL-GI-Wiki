@@ -33,9 +33,9 @@ AGA Clinical Practice Update (CPU) Commentary reviewing **intestinal ultrasound 
 - **Current Procedural Terminology (CPT):** no IUS-specific code yet; e.g. 76705 (limited abdominal ultrasound) used.
 
 ## Relevance to Wiki
-- Creates `[[intestinal-ultrasound]]` concept page (IUS technique, BWT/Doppler metrics, treat-to-target thresholds, special populations).
-- Updates `[[crohns-disease]]` and `[[ulcerative-colitis]]` monitoring sections with IUS thresholds; links from `[[inflammatory-bowel-disease]]`, `[[ibd-preventive-care]]`.
-- Relates to cross-sectional imaging `[[mri-mrcp]]` and biomarker monitoring (fecal calprotectin, C-reactive protein [CRP]).
+- Creates [[intestinal-ultrasound]] concept page (IUS technique, BWT/Doppler metrics, treat-to-target thresholds, special populations).
+- Updates [[crohns-disease]] and [[ulcerative-colitis]] monitoring sections with IUS thresholds; links from [[inflammatory-bowel-disease]], [[ibd-preventive-care]].
+- Relates to cross-sectional imaging [[mri-mrcp]] and biomarker monitoring (fecal calprotectin, C-reactive protein [CRP]).
 
 ## Contradictions / Open Questions
 - Multiple IUS scoring systems exist but **none is regularly used in clinical practice** — reporting not yet standardized.

@@ -3,8 +3,8 @@ title: "Loperamide"
 category: med
 tags: [loperamide, antimotility, antidiarrheal, opioid-agonist]
 created: 2026-07-07
-updated: 2026-09-07
-sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2022-ibs-d, acg-2021-anorectal-disorders, aga-2026-cdiff-ibd, aga-2026-cdiff-adults]
+updated: 2026-09-29
+sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2022-ibs-d, acg-2021-anorectal-disorders, aga-2026-cdiff-ibd, aga-2026-cdiff-adults, aga-2017-opioids-in-gastroenterology]
 ---
 
 ## Class
@@ -20,7 +20,12 @@ Peripheral μ-opioid receptor agonist; antimotility agent. First-line antimotili
 - **Mild watery diarrhea:** hydration only; may use loperamide 4 mg initially to control stooling.
 - **Moderate-to-severe watery, non-travel-associated, no/low-grade fever (≤100°F):** consider ≤48 h of loperamide.
 
-> **The acute-diarrhea regimen above does not transfer to [[irritable-bowel-syndrome|diarrhea-predominant irritable bowel syndrome (IBS-D)]].** [[aga-2022-ibs-d]] states plainly that "the optimal dose and method of using loperamide (eg, as needed, daily, or after a certain number of diarrheal stools) **is not known** and potentially can vary between patients based on their symptom patterns." Its recommendation rests on **2 small placebo-controlled trials, both published 1987**, neither of which defined IBS diagnostic criteria — hence *very low* certainty. Improvements appeared within **3–5 weeks**, though how that was determined was poorly described. The American Gastroenterological Association (AGA) also leaves open **whether loperamide should be used in IBS-mixed type** during diarrheal episodes. Titrate to symptoms; there is no guideline-specified IBS-D dose.
+> **The acute-diarrhea regimen above does not transfer to [[irritable-bowel-syndrome|diarrhea-predominant irritable bowel syndrome (IBS-D)]].** [[aga-2022-ibs-d]] states plainly that "the optimal dose and method of using loperamide (eg, as needed, daily, or after a certain number of diarrheal stools) **is not known** and potentially can vary between patients based on their symptom patterns." Its recommendation rests on **2 small placebo-controlled trials, both published 1987**, neither of which defined IBS diagnostic criteria — hence *very low* certainty. Improvements appeared within **3–5 weeks**, though how that was determined was poorly described. The American Gastroenterological Association (AGA) also leaves open **whether loperamide should be used in IBS-mixed type** during diarrheal episodes. Titrate to symptoms.
+
+- **Typical doses actually used in IBS** ([[aga-2017-opioids-in-gastroenterology]], which does supply them):
+  - **2 mg after each loose bowel movement, usually <8 mg/day** — the same ceiling as the general adult acute-diarrhea recommendation above.
+  - **2–4 mg preprandially** in patients with **prominent diarrhea after feeding** (postprandial diarrhea) — a scheduled, anticipatory dose rather than a reactive one.
+- **What it will and will not do in IBS:** delays intestinal transit, decreases stool frequency, increases water and ion absorption, improves stool consistency and urgency, and may improve **anal sphincter tone**. It does **not** significantly affect pain perception in IBS, although pain accompanying an attack of diarrhea may be reduced.
 
 ## Indications
 
@@ -58,3 +63,4 @@ Peripheral μ-opioid receptor agonist; antimotility agent. First-line antimotili
 4. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 5. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review]]
 6. [[aga-2026-cdiff-adults|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Adults: Expert Review (2026)]]
+7. [[aga-2017-opioids-in-gastroenterology|Opioids in Gastroenterology: Treating Adverse Effects and Creating Therapeutic Benefits]]

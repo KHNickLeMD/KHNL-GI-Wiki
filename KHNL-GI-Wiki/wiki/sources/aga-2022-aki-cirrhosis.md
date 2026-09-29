@@ -151,7 +151,7 @@ HRS-AKI diagnostic criteria (current):
 
 ## Relevance to Wiki
 
-Primary source for `[[aki-in-cirrhosis]]` disease script. Provides:
+Primary source for [[aki-in-cirrhosis]] disease script. Provides:
 
 - Current KDIGO/ICA-AKI diagnostic thresholds
 - Updated HRS-AKI vs. HRS-NAKI nomenclature (replaces HRS Type 1/2)

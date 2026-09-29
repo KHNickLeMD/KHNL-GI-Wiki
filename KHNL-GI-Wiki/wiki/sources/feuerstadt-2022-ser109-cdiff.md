@@ -27,8 +27,8 @@ SER-109 was later FDA-approved (2023) as the first orally administered fecal mic
 - SER-109 dose species detected as early as week 1, associated with bile-acid profiles that inhibit C. difficile spore germination.
 
 ## Relevance to Wiki
-- `[[clostridioides-difficile]]` → Therapeutics / Recurrent CDI: adds FDA-approved oral microbiome (live biotherapeutic) option alongside fecal microbiota transplantation (FMT) and bezlotoxumab.
+- [[clostridioides-difficile]] → Therapeutics / Recurrent CDI: adds FDA-approved oral microbiome (live biotherapeutic) option alongside fecal microbiota transplantation (FMT) and bezlotoxumab.
 
 ## Contradictions / Open Questions
-- Complements `[[aga-2024-fmt]]` (fecal microbiota-based therapies) — no conflict; SER-109 is a defined-consortium spore product rather than conventional donor stool FMT.
+- Complements [[aga-2024-fmt]] (fecal microbiota-based therapies) — no conflict; SER-109 is a defined-consortium spore product rather than conventional donor stool FMT.
 - Enrolled patients required prior antibiotic symptom resolution; efficacy as primary (non-recurrent) therapy not addressed.
