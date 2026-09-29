@@ -3,7 +3,7 @@ title: "MASLD: Update and Impact of New Nomenclature on the AASLD Practice Guida
 category: source
 tags: [masld, nafld, mash, nash, metald, sld, nomenclature, cmrf, steatosis, hpb, liver]
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-09-29
 sources: []
 ---
 
@@ -61,4 +61,4 @@ The core message: **all recommendations in the NAFLD Practice Guidance apply to 
 
 ## See Also
 
-[[aasld-2023-nafld]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[wilson-disease]], [[drug-induced-liver-injury]], [[celiac-disease]], [[hepatitis-c]]
+[[nafld-masld]], [[alcohol-associated-liver-disease]], [[wilson-disease]], [[drug-induced-liver-injury]], [[celiac-disease]], [[hepatitis-c]]

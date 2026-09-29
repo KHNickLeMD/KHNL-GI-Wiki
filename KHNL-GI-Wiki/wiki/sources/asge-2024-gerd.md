@@ -3,7 +3,7 @@ title: "ASGE 2024: Diagnosis and Management of GERD"
 category: source
 tags: [gerd, reflux, esophageal, asge]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-09-29
 sources: []
 ---
 
@@ -126,12 +126,12 @@ sources: []
 
 ## Relevance to Wiki
 
-- Primary source for `wiki/disease-scripts/foregut-and-motility-diseases/ge-junction/gerd.md`
+- Primary source for [[gerd]]
 - Informs therapeutics hierarchy: lifestyle → PPI → TIF/cTIF vs surgery based on hiatal hernia size and Hill grade
 - Endoscopy quality standards (LA grading, Prague classification, Hill/AFS grading) relevant to GEJ evaluation section
 - Post-SG and post-POEM surveillance protocols are newly codified in this guideline
-- Links conceptually to `[[achalasia]]` (post-POEM GERD risk), `[[laryngopharyngeal-symptoms]]` (cTIF data includes laryngopharyngeal reflux [LPR] cohort), and `[[hrm-antireflux-surgery]]` (manometry role pre-TIF)
-- Substantial reflux testing content supports a dedicated `wiki/concepts/reflux-testing.md` page
+- Links conceptually to [[achalasia]] (post-POEM GERD risk), [[laryngopharyngeal-symptoms]] (cTIF data includes laryngopharyngeal reflux [LPR] cohort), and [[hrm-antireflux-surgery]] (manometry role pre-TIF)
+- Substantial reflux testing content supports [[reflux-testing]]
 
 ## Contradictions / Open Questions
 

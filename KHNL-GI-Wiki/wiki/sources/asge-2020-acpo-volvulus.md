@@ -3,7 +3,7 @@ title: "ASGE Guideline on the Role of Endoscopy in the Management of Acute Colon
 category: source
 tags: [acpo, ogilvie, colonic-volvulus, sigmoid-volvulus, cecal-volvulus, neostigmine, colonoscopy, large-bowel-obstruction]
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-09-29
 sources: []
 ---
 
@@ -47,9 +47,9 @@ For **ACPO**, uncomplicated cases (no ischemia/peritonitis, cecal diameter <12 c
 - PEC (percutaneous endoscopic colostomy) / endoscopic sigmoidopexy for poor surgical candidates with recurrent sigmoid volvulus carry high adverse-event rates (PEC: ~21% morbidity, ~5% mortality).
 
 ## Relevance to Wiki
-- Creates `[[colonic-volvulus]]` and `[[acute-colonic-pseudo-obstruction]]` disease scripts.
-- `[[colonoscopy]]` / decompression — therapeutic endoscopy indications.
-- `[[chronic-idiopathic-constipation]]`, `[[small-intestinal-bacterial-overgrowth]]`, `[[nausea-and-vomiting]]` — share dysmotility / obstruction differential.
+- Creates [[colonic-volvulus]] and [[acute-colonic-pseudo-obstruction]] disease scripts.
+- [[colonoscopy]] / decompression — therapeutic endoscopy indications.
+- [[chronic-idiopathic-constipation]], [[small-intestinal-bacterial-overgrowth]], [[nausea-and-vomiting]] — share dysmotility / obstruction differential.
 
 ## Contradictions / Open Questions
 - Whether endoscopic colonic decompression is superior to neostigmine as initial ACPO therapy is unsettled — limited recent data suggest decompression may be superior, but the guideline calls for more study before a definitive recommendation.

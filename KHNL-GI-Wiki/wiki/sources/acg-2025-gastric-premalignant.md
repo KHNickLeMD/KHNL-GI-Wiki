@@ -3,7 +3,7 @@ title: "ACG 2025: Diagnosis and Management of Gastric Premalignant Conditions"
 category: source
 tags: [gastric, gpmc, gim, atrophic-gastritis, dysplasia, gastric-cancer, h-pylori, esd, surveillance, autoimmune-gastritis]
 created: 2026-05-07
-updated: 2026-05-28
+updated: 2026-09-29
 sources: []
 ---
 
@@ -143,8 +143,8 @@ Key conclusions: routine GC/GPMC screening in the general US population is not r
 
 ## Relevance to Wiki
 
-- Creates: `wiki/disease-scripts/foregut-and-motility-diseases/gastric/gastric-premalignant-conditions.md`
-- Updates: `wiki/disease-scripts/foregut-and-motility-diseases/gastric/helicobacter-pylori-infection.md` — H. pylori as dominant risk factor for GPMC/GC
+- Creates: [[gastric-premalignant-conditions]]
+- Updates: [[helicobacter-pylori-infection]] — H. pylori as dominant risk factor for GPMC/GC
 
 ## Contradictions / Open Questions
 

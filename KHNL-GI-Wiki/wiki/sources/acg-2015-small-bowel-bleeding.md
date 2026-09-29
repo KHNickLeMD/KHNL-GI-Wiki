@@ -3,7 +3,7 @@ title: "ACG 2015: Diagnosis and Management of Small Bowel Bleeding"
 category: source
 tags: [small-bowel, gi-bleeding, capsule-endoscopy, deep-enteroscopy, obscure-gi-bleeding, mid-gi-bleeding, angioectasia, vce, dbe]
 created: 2026-05-19
-updated: 2026-09-08
+updated: 2026-09-29
 sources: []
 ---
 
@@ -182,7 +182,7 @@ Recommendation 18's "slower rates of bleeding (0.1–0.2 ml/min)" sits at the bo
 - **VCE false-negative rate — the guideline gives two different numbers, in two different sections, and never reconciles them.** Both are quoted here because both are cited on wiki pages:
   - *VCE limitations section (p. 1271):* "The other limitations of VCE include a lack of specificity with 14% incidental findings in healthy volunteers (58) and a **10–36% false-negative rate** (59,60)."
   - *VCE-guided DBE section (p. 1273):* "However, the concept of CE-guided DBE may not be applicable in all patients. **VCE has a false-negative rate of 11% for all SB findings, and more importantly, up to 19% for neoplasms.**"
-  - **Resolution:** these are not the same statistic conflated — they are two independently cited estimates of the same quantity, drawn from different reference sets, and the guideline asserts both. The 11% / 19% pair is the one attached to a clinical action (*"in patients with a negative VCE, in whom there is a high clinical suspicion for an SB lesion, DBE should still be pursued, including consideration for total enteroscopy"*); the 10–36% range is a general statement about the test's limitations. **Pages should carry both, labelled by section, and never present either as *the* rate.** Applied to [[capsule-endoscopy]] and [[device-assisted-enteroscopy]] on 2026-09-08.
+  - **Resolution:** these are not the same statistic conflated — they are two independently cited estimates of the same quantity, drawn from different reference sets, and the guideline asserts both. The 11% / 19% pair is the one attached to a clinical action (*"in patients with a negative VCE, in whom there is a high clinical suspicion for an SB lesion, DBE should still be pursued, including consideration for total enteroscopy"*); the 10–36% range is a general statement about the test's limitations. Neither is *the* miss rate; quote each with the context it was given in ([[capsule-endoscopy]], [[device-assisted-enteroscopy]]).
 - **Celiac disease and SBB:** Prior guidelines listed celiac disease as a cause of SBB; this 2015 guideline explicitly removes it, citing evidence that celiac-associated IDA is from malabsorption rather than occult hemorrhage. The [[celiac-disease]] page does not currently address this distinction — update recommended.
 - **Hormonal therapy:** Pre-capsule era data (small Belgian RCT) suggested 78% reduction in transfusion with ethinyl estradiol + norethisterone, but the multicenter Spanish RCT found no benefit; this is definitively resolved against hormonal therapy.
 - **Anticoagulation discontinuation:** The guideline recommends stopping anticoagulation "if possible" but acknowledges no prospective data show benefit from withdrawal — contrast with [[anticoagulation-gi-bleeding]] page which may have more nuanced 2022 data.

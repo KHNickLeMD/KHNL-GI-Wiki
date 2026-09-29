@@ -3,8 +3,8 @@ title: "Narcotic Bowel Syndrome"
 category: disease-script
 tags: [narcotic-bowel-syndrome, opioids, chronic-pain, abdominal-pain, dgbi, opioid-induced-gi-dysfunction]
 created: 2026-09-28
-updated: 2026-09-28
-sources: [aga-2021-chronic-gi-pain-dgbi]
+updated: 2026-09-29
+sources: [aga-2017-opioids-in-gastroenterology, aga-2021-chronic-gi-pain-dgbi]
 ---
 
 ## Contents
@@ -62,4 +62,5 @@ sources: [aga-2021-chronic-gi-pain-dgbi]
 
 ## Sources
 
-1. [[aga-2021-chronic-gi-pain-dgbi|AGA Clinical Practice Update on Management of Chronic Gastrointestinal Pain in Disorders of Gut–Brain Interaction: Expert Review]]
+1. [[aga-2017-opioids-in-gastroenterology|Opioids in Gastroenterology: Treating Adverse Effects and Creating Therapeutic Benefits (2017)]]
+2. [[aga-2021-chronic-gi-pain-dgbi|AGA Clinical Practice Update on Management of Chronic Gastrointestinal Pain in Disorders of Gut–Brain Interaction: Expert Review]]

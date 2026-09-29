@@ -3,7 +3,7 @@ title: "Defecation Disorders (Dyssynergic Defecation)"
 category: disease-script
 tags: [defecation-disorder, dyssynergia, outlet-obstruction, biofeedback, anorectal-manometry, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-09-06
+updated: 2026-09-29
 sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-dgbi]
 ---
 
@@ -167,7 +167,8 @@ Severity based on symptom burden, laxative dependence, impact on quality of life
 |----------------|-----------|---------|
 | Full-thickness rectal prolapse | Laparoscopic rectopexy (posterior or ventral mesh preferred); Altemeier procedure for elderly/frail | 73–91% "some benefit" for rectopexy; 5–15% mesh erosion; 2–7% anatomic recurrence |
 | Symptomatic rectocele (selection criteria below) | Reinforcement of the rectovaginal wall — **vaginal or transanal**; the vaginal approach appears more favorable for pelvic-organ-prolapse syndromes. Avoid vaginal mesh (FDA withdrawn) | 30–50% improvement in constipation; 67–78% satisfactory outcomes; **7–17% occasional serious complications** |
-| No structural abnormality + dyssynergia fails biofeedback | Botulinum toxin A into puborectalis: limited evidence, not recommended long-term; STARR (stapled transanal rectal resection): NOT recommended (complications, no US adoption) | — |
+| Symptomatic rectocele — alternative to rectovaginal reinforcement | **Stapled transanal rectal resection (STARR)** — rectal excision procedure; efficacy shown in small RCTs, a large registry, and a systematic review, but baseline characterization of the defecatory disorder and the biofeedback comparator were criticized. Performed predominantly in Europe (Italy), never in Australia and seldom in the US; newer stapling devices may reduce complications | 68–76% moderate reduction in obstructed defecation syndrome; 73–80% good or satisfactory outcome; 4% recurrence, overall morbidity 16.9–23% (especially urgency); rarely serious: bleeding, perforation, stenosis |
+| No structural abnormality + dyssynergia fails biofeedback | Botulinum toxin A into puborectalis: limited evidence, not recommended long-term | Global improvement 29.2–100%; effect on constipation not reliably assessed; harm 14.2% |
 
 **Rectocele — read the indication in order** [[acg-2021-anorectal-disorders]]:
 

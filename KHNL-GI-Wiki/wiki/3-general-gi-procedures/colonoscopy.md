@@ -3,7 +3,7 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
-updated: 2026-09-23
+updated: 2026-09-29
 sources: [aga-2021-colonoscopy-quality, usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia, aga-2021-gi-perforations-endoscopic-management]
 ---
 
@@ -79,7 +79,7 @@ Procedure-level items that belong to this page:
 - **Second look of the right colon**, retroflexed or forward view (equally effective): withdraw to the hepatic flexure inspecting and clearing polyps, then reintubate the cecum and re-examine the proximal colon — increases ADR by **5%–20%**. [[aga-2021-colonoscopy-quality]]
 - **High-definition colonoscopes** for screening and surveillance — definite but modest gains in adenoma, serrated polyp, and advanced adenoma detection. [[aga-2021-colonoscopy-quality]]
 - **Post-polypectomy bleeding rate:** **≤1 per 100 colonoscopies** — see [[#Complications]].
-- **Complete polypectomy:** all visually detected polypoid tissue removed. ⚠ No numeric target rate is given in any source cited on this page.
+- **Complete polypectomy:** all visually detected polypoid tissue removed. ⚠ [[aga-2021-colonoscopy-quality|AGA 2021]] sets no numeric target rate for this indicator.
 - Document polyp size ≥10mm with comparison to open snare/forceps of known size
 - **Report contents** — indication, extent of examination, prep quality, findings and interventions, follow-up plan **with its rationale whenever the assigned interval deviates from guidelines** (eg, inadequate prep, incomplete resection); resumption of anticoagulants/antiplatelets; pathology and interval communicated to the patient and primary care provider. Full colonoscopy reporting and data system (CO-RADS) element list: [[colonoscopy-quality-indicators#Documentation|colonoscopy-quality-indicators]]. [[aga-2021-colonoscopy-quality]]
 
@@ -122,7 +122,7 @@ See [[artificial-intelligence-endoscopy]] for the full framework.
 
 ## Post-Polypectomy Surveillance
 
-**The full US Multi-Society Task Force (USMSTF) 2020 interval grids — adenomas, serrated polyps, and serial (second) surveillance — live on [[colonoscopy-surveillance]].** They are not reproduced here. [[usmstf-2020-followup-colonoscopy]]
+**The full US Multi-Society Task Force (USMSTF) 2020 interval grids — adenomas, serrated polyps, and serial (second) surveillance — live on [[colonoscopy-surveillance]].** [[usmstf-2020-followup-colonoscopy]]
 
 Two prerequisites that belong to the *procedure* rather than the interval table:
 
@@ -194,7 +194,7 @@ For detailed technique, see [[polypectomy]].
 
 [[glp-1-receptor-agonists|Glucagon-like peptide-1 receptor agonists (GLP-1 RAs)]] ([[semaglutide]], liraglutide, tirzepatide, etc.) delay gastric emptying and are associated with increased aspiration risk during [[endoscopy-sedation|procedural sedation]].
 
-- ⚠ **The bowel-prep guideline addresses GLP-1 RAs only in the aspiration / purgative-timing context** — *"newer agents such as GLP-1 receptor agonists that delay gastric emptying may also affect the timing of when to cease drinking a bowel preparation purgative."* GLP-1 use is **not** among the listed risk factors for inadequate preparation, and no source recommends applying high-risk prep modifications for it. (An earlier version of this page attributed the [[gastroparesis]] odds ratio (OR) 1.6 to GLP-1 RAs — that OR belongs to gastroparesis alone.)
+- ⚠ **The bowel-prep guideline addresses GLP-1 RAs only in the aspiration / purgative-timing context** — *"newer agents such as GLP-1 receptor agonists that delay gastric emptying may also affect the timing of when to cease drinking a bowel preparation purgative."* GLP-1 use is **not** among its listed risk factors for inadequate preparation, and it recommends no high-risk prep modification for it. The [[gastroparesis]] odds ratio (OR) **1.6** for inadequate preparation belongs to gastroparesis alone — do not apply it to GLP-1 RA use.
 - Follow anesthesia unit protocol for medication hold prior to sedation (American Society of Anesthesiologists [ASA] consensus: hold weekly GLP-1 agonists **1 week** before elective procedure; daily dosing hold day-of). **AGA 2024** favors an individualized approach over routine cessation — standard fast + no gastrointestinal (GI) symptoms → proceed; see [[endoscopy-sedation#GLP-1 Receptor Agonists Before Endoscopy|endoscopy-sedation]]. [[aga-2024-glp1-endoscopy]]
 - Provide enhanced counseling about aspiration risk and prep adherence
 

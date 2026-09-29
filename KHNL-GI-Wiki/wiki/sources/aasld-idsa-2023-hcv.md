@@ -3,7 +3,7 @@ title: "AASLD-IDSA 2023 Hepatitis C Guidance Update"
 category: source
 tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, glecaprevir, pibrentasvir, sofosbuvir, velpatasvir, screening, treatment, retreatment, transplant, pregnancy, PWID, HIV]
 created: 2026-05-28
-updated: 2026-09-23
+updated: 2026-09-29
 sources: []
 ---
 
@@ -218,4 +218,4 @@ Retreatment for pediatric patients follows similar principles to adults (Table 4
 
 ## See Also
 
-[[aasld-2023-portal-hypertension]], [[hepatitis-c]], [[direct-acting-antivirals]], [[hepatitis-c-in-pregnancy]], [[chronic-hepatitis-b]], [[liver-transplantation]], [[portal-hypertension]], [[liver-disease-in-pregnancy]]
+[[hepatitis-c]], [[direct-acting-antivirals]], [[hepatitis-c-in-pregnancy]], [[chronic-hepatitis-b]], [[liver-transplantation]], [[portal-hypertension]], [[liver-disease-in-pregnancy]]

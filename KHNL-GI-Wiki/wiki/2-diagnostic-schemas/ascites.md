@@ -3,7 +3,7 @@ title: "Ascites"
 category: diagnostic-schema
 tags: [ascites, cirrhosis, saag, paracentesis, diuretics, tips]
 created: 2026-05-15
-updated: 2026-09-22
+updated: 2026-09-29
 sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -59,7 +59,7 @@ Ascites can be graded by volume and classified by treatment response:
 
 **RA is defined as ascites that cannot be mobilized, or whose early recurrence after LVP cannot be satisfactorily prevented, despite dietary sodium restriction *and* diuretic therapy.** It then splits into two mechanisms — **diuretic-resistant** (no response to maximal diuretics) and **diuretic-intractable** (diuretic side effects preclude effective doses). The rows below are AASLD 2021 **Table 7's operative definitions of the terms used in that sentence**, not a checklist of co-requirements.
 
-⚠ *Corrected 2026-09-03 — this section previously read "All three of the following must be met," which misreads Table 7. The table is headed "Characteristics of RA" and lists four operative definitions plus the two mechanistic types; "early recurrence of ascites" is an **alternative entry route** into the definition, not a fourth co-requirement, and the diuretic-resistant vs diuretic-intractable split is an **either/or**.*
+⚠ *Do not read the table as "all of the following must be met." "Early recurrence of ascites" is an **alternative entry route** into the definition, not an additional co-requirement, and the diuretic-resistant vs diuretic-intractable split is an **either/or**.*
 
 | Criterion | Operative definition (AASLD 2021 Table 7) |
 |---|---|

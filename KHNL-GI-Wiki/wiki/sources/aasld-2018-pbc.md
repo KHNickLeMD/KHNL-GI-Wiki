@@ -3,7 +3,7 @@ title: "AASLD 2018 Practice Guidance: Primary Biliary Cholangitis"
 category: source
 tags: [pbc, primary-biliary-cholangitis, cholestatic, ama, udca, oca, obeticholic-acid, fibrates, pruritus, liver-transplantation, autoimmune-hepatitis, overlap, aasld]
 created: 2026-05-28
-updated: 2026-08-28
+updated: 2026-09-29
 sources: []
 ---
 
@@ -201,8 +201,7 @@ The guidance emphasizes that UDCA does not improve fatigue or pruritus; those re
 - Fatigue: ondansetron, fluoxetine, and modafinil all failed in trials — the guidance identifies **no** effective pharmacotherapy for PBC fatigue.
 - Bezafibrate is not FDA-approved for PBC (fibrates are approved only as lipid-lowering agents), and bezafibrate availability varies by country; BEZURSO is a European trial.
 - OCA survival benefit is unproven — efficacy studies were still ongoing; the projected reduction in 15-year decompensation/HCC/LT/liver-related death comes from **microsimulation modeling**, not trial outcomes.
-- **Table 1 caveat:** the ≤ / ≥ operators in the biochemical-response criteria are rendered inconsistently by text extraction from the source PDF; the response thresholds themselves (2×, 3×, 1.67×, 1.5× ULN etc.) are verbatim from Table 1.
 
 ## See Also
 
-[[aasld-2021-pbc]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[hepatocellular-carcinoma]], [[liver-transplantation]]
+[[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[ursodeoxycholic-acid]], [[hepatocellular-carcinoma]], [[liver-transplantation]]

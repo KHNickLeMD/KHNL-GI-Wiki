@@ -3,7 +3,7 @@ title: "Acute Lower Gastrointestinal Bleeding (LGIB)"
 category: diagnostic-schema
 tags: [lower-gi-bleeding, lgib, hematochezia, diverticular, colonoscopy, hemorrhage, cta, risk-stratification]
 created: 2026-05-15
-updated: 2026-09-18
+updated: 2026-09-29
 sources: [acg-2023-lgib, asge-2014-lgib, acg-2021-ugib]
 ---
 
@@ -336,7 +336,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 ### Immediate / Hemodynamic
 
-*Use the same numbers as [[#Hemodynamic Instability Criteria]] — HR **>100 bpm**, SBP **<90 mm Hg**, shock index ≥1. ⚠ **Corrected 2026-09-03:** this list previously read "HR ≥110 / SBP ≤90," which conflated the **Oakland score's** highest heart-rate band (>110 bpm = 3 points) with a hemodynamic-instability threshold. They are different instruments. [[acg-2023-lgib|ACG 2023]] **does not define hemodynamic instability numerically at all** — it says only to normalise blood pressure and heart rate before endoscopy — so the >100/<90 figures above are conventional, not guideline-set. Treat them as a prompt to resuscitate, not as a validated cutoff.*
+*Use the same numbers as [[#Hemodynamic Instability Criteria]] — HR **>100 bpm**, SBP **<90 mm Hg**, shock index ≥1 — and read them with the caveat stated there: they are conventional, not guideline-set, and are not the Oakland score's heart-rate bands.*
 
 - Tachycardia / hypotension / shock index ≥1 as above
 - Ongoing large-volume hematochezia despite initial resuscitation

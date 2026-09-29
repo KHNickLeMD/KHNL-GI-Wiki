@@ -3,7 +3,7 @@ title: "ACG 2022: Diagnosis and Management of Barrett's Esophagus"
 category: source
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-09-29
 sources: []
 ---
 
@@ -112,9 +112,9 @@ Comprehensive evidence-based guideline covering diagnosis, screening, surveillan
 
 This is the primary authoritative guideline for Barrett's esophagus diagnosis and management. It directly informs:
 
-- `[[barretts-esophagus]]` disease script (Prague criteria, dysplasia grading, surveillance intervals, EET protocols, post-CEIM surveillance)
-- Contextualizes `[[gerd]]` as the primary risk condition
-- Informs `[[upper-endoscopy]]` regarding BE-specific technique (chromoendoscopy, Seattle protocol, biopsy counts)
+- [[barretts-esophagus]] disease script (Prague criteria, dysplasia grading, surveillance intervals, EET protocols, post-CEIM surveillance)
+- Contextualizes [[gerd]] as the primary risk condition
+- Informs [[upper-endoscopy]] regarding BE-specific technique (chromoendoscopy, Seattle protocol, biopsy counts)
 
 ## Contradictions / Open Questions
 

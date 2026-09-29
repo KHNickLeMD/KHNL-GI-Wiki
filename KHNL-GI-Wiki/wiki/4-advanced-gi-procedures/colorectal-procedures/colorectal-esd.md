@@ -3,7 +3,7 @@ title: "Endoscopic Submucosal Dissection (Colorectal)"
 category: advanced-procedure
 tags: [esd, hybrid-esd, endoscopic-resection, en-bloc, colorectal, t1-crc, malignant-polyp, submucosal-invasion, eftr]
 created: 2026-08-11
-updated: 2026-09-27
+updated: 2026-09-29
 sources: [usmstf-2020-endoscopic-removal, aga-2025-endoscopic-resection-crc, asge-2020-endoscopic-removal, aga-2024-full-thickness-resection, aga-2018-esd-united-states, aga-2021-post-esd-surveillance]
 ---
 
@@ -114,7 +114,7 @@ Most colorectal neoplasms are benign and resectable by piecemeal [[endoscopic-mu
 
 - Deep SMI (≥1000 μm) has traditionally triggered surgery, but emerging data downgrade it **as a solitary criterion**: >95% of patients with deep SMI as the *only* high-risk feature have no LNM.
 - Meta-analysis (Zwager et al, 8 studies, 1146 pts): SMI as a solitary risk factor → absolute LNM risk **2.6%**, **pooled incidence rate 2.83 (95% confidence interval [CI] 1.66–4.78)**; deep SMI was **not** an independent predictor of LNM; 37.9% of deep-SMI cancers had no other high-risk feature.
-  - *⚠ Not a transcription error: the same Zwager meta-analysis yields **2.83** twice, in two different statistics — the **pooled incidence rate** for solitary deep SMI (here) and the **odds ratio for LNM with tumor budding** (criterion 5 above). Verified against the raw [[aga-2025-endoscopic-resection-crc]] PDF 2026-09-03. The "2.6% vs 2.83" pairing is likewise the source's own: an absolute risk and a pooled incidence rate, not two estimates of one quantity.*
+  - *The same Zwager meta-analysis yields **2.83** twice, in two different statistics — the **pooled incidence rate** for solitary deep SMI (here) and the **odds ratio for LNM with tumor budding** (criterion 5 above). The "2.6% vs 2.83" pairing is likewise the source's own: an absolute risk and a pooled incidence rate, not two estimates of one quantity.*
 - Operative reference: in 5170 surgical T1 CRC pts, 30-day mortality 1.7%, severe adverse events 8.3% — supporting individualized, organ-preserving decisions over automatic surgery.
 - *Contrasts with the historical "≥1 mm = unfavorable → surgery" framing in the histologic-criteria table on [[polypectomy]]; the 2025 clinical practice update (CPU) supports individualized decisions, especially when deep SMI is the only adverse feature.*
 

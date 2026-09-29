@@ -3,8 +3,8 @@ title: "Opioid-Induced Constipation"
 category: disease-script
 tags: [constipation, oic, opioids, pamora, naldemedine, naloxegol, methylnaltrexone, laxatives, colorectal, functional]
 created: 2026-09-26
-updated: 2026-09-26
-sources: [aga-2019-opioid-induced-constipation, aga-acg-2023-constipation, rome-v-2026-dgbi]
+updated: 2026-09-29
+sources: [aga-2019-opioid-induced-constipation, aga-acg-2023-constipation, rome-v-2026-dgbi, aga-2017-opioids-in-gastroenterology]
 ---
 
 ## Contents
@@ -205,5 +205,5 @@ Gaps the AGA panel named as research priorities [[aga-2019-opioid-induced-consti
 
 1. [[aga-2019-opioid-induced-constipation|American Gastroenterological Association Institute Guideline on the Medical Management of Opioid-Induced Constipation]]
 2. [[aga-acg-2023-constipation|AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation]]
-3. [[rome-v-2026-dgbi|Rome V: Disorders of Gut–Brain Interaction]]
 3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+4. [[aga-2017-opioids-in-gastroenterology|Opioids in Gastroenterology: Treating Adverse Effects and Creating Therapeutic Benefits (2017)]]

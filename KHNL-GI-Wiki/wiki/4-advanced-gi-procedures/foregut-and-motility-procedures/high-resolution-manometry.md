@@ -3,7 +3,7 @@ title: "High-Resolution Manometry (HRM)"
 category: advanced-procedure
 tags: [hrm, manometry, esophageal, motility, foregut, chicago-classification, hrem]
 created: 2026-05-16
-updated: 2026-09-03
+updated: 2026-09-29
 sources: [acg-2020-esophageal-physiologic-testing, acg-2021-gerd, asge-2024-gerd, afs-2023-transoral-incisionless-fundoplication, padova-2025-hrm-antireflux]
 ---
 
@@ -114,7 +114,7 @@ HRM has **higher sensitivity** than [[upper-endoscopy|endoscopy]] or barium radi
 |---|---|---|
 | Dysphagia workup | Identify achalasia, EGJOO, spastic disorders, IEM | Strong/Moderate — ACG 2020 |
 | Pre-[[antireflux-surgery\|anti-reflux surgery]] (laparoscopic fundoplication / magnetic sphincter augmentation [MSA]) | Mandatory to exclude a major motility disorder — see [[hrm-antireflux-surgery]] | Strong — [[acg-2021-gerd\|ACG 2021 GERD]], [[asge-2024-gerd\|American Society for Gastrointestinal Endoscopy (ASGE) GERD]] |
-| Pre-transoral incisionless fundoplication (TIF) / concomitant TIF (cTIF) | **Not routinely required.** ⚠ *Corrected 2026-09-03 — this row previously read "Required per ACG and ASGE guidelines," which is wrong for TIF.* [[afs-2023-transoral-incisionless-fundoplication\|American Foregut Society (AFS) 2023]]: *"GERD patients without dysphagia do not routinely require a manometry prior to TIF"* — unlike Nissen, where a manometric diagnosis of IEM may alter the type of fundoplication; TIF is a partial wrap over a 60 Fr device. **Do it if dysphagia is present** (HRM ± timed barium esophagram, strongly advised, to rule out [[achalasia\|achalasia]]); [[flip-panometry\|FLIP]] is an accepted screening alternative | Conditional — AFS 2023 |
+| Pre-transoral incisionless fundoplication (TIF) / concomitant TIF (cTIF) | **Not routinely required.** [[afs-2023-transoral-incisionless-fundoplication\|American Foregut Society (AFS) 2023]]: *"GERD patients without dysphagia do not routinely require a manometry prior to TIF"* — unlike Nissen, where a manometric diagnosis of IEM may alter the type of fundoplication; TIF is a partial wrap over a 60 Fr device. **Do it if dysphagia is present** (HRM ± timed barium esophagram, strongly advised, to rule out [[achalasia\|achalasia]]); [[flip-panometry\|FLIP]] is an accepted screening alternative | Conditional — AFS 2023 |
 | Post-surgical dysphagia | Padova Classification — see [[hrm-antireflux-surgery]] | [[padova-2025-hrm-antireflux\|Padova Consensus 2025]] |
 | [[gerd]] refractory workup | Not diagnostic for GERD; assesses gastroesophageal junction (GEJ) integrity, hiatal hernia, peristaltic reserve | Key concept — ACG 2020 |
 | Noncardiac chest pain | Complements diagnostic evaluation after cardiac causes excluded and PPI trial fails | Key concept — ACG 2020 |

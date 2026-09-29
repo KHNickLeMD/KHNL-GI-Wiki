@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on Management of Medically Refractory Gastr
 category: source
 tags: [gastroparesis, refractory-gastroparesis, gastric-emptying, prokinetics, antiemetics, neuromodulators, g-poem, gastric-electrical-stimulation, functional-dyspepsia, aga]
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-29
 sources: []
 ---
 
@@ -30,7 +30,7 @@ sources: []
 
 The first tier-1 source written specifically about **medically refractory** gastroparesis — the patient who has already failed the first-line pathway. Its central move is to supply the definition that the label had been missing: *"no precise definition or dedicated treatment algorithm for this diagnosis exists in the literature."*
 
-The update's governing idea is that **the diagnosis itself is frequently wrong**, so escalation to invasive therapy is often escalation against a mimic. Two facts carry this. First, gastroparesis and functional dyspepsia (FD) are substantially interchangeable over time: on repeat testing, **42% of gastroparesis patients were reclassified as FD and 37% of FD patients as gastroparesis within a year**. Second, **gastric emptying scans are commonly performed incorrectly**, with short measurement times causing misdiagnosis and mismanagement — hence BPA 2's insistence on verifying the methodology of the study before believing it. The clinical consequence is stated bluntly in the Summary: *"Pursuing invasive therapeutic options on the basis of a single GES without clinical context may close the door on potentially effective management options targeting FD and other mimics of gastroparesis."*
+The update's governing idea is that **the diagnosis itself is frequently wrong**, so escalation to invasive therapy is often escalation against a mimic. Two facts carry this. First, gastroparesis and functional dyspepsia (FD) are substantially interchangeable over time: on repeat testing, **42% of gastroparesis patients were reclassified as FD and 37% of FD patients as gastroparesis within a year**. Second, **gastric emptying scans are commonly performed incorrectly**, with short measurement times causing misdiagnosis and mismanagement — hence BPA 2's insistence on verifying the methodology of the study before believing it. The clinical consequence is stated bluntly in the Summary: *"Pursuing invasive therapeutic options on the basis of a single GES [gastric emptying study] without clinical context may close the door on potentially effective management options targeting FD and other mimics of gastroparesis."*
 
 From there the update is organized around **symptom-predominant phenotyping** (BPA 4): patients are split into **nausea/vomiting predominant** and **abdominal pain/discomfort predominant**, and treatment follows the predominant symptom rather than the emptying number — justified because *"there are no prospective, randomized controlled studies comparing different management strategies (eg, a central anti-emetic vs a prokinetic agent)."* Table 1 then supplies a complete dose list for both arms.
 
@@ -296,6 +296,7 @@ The update contains **two figures**:
 - **Nortriptyline:** BPA 6 endorses neuromodulators for pain while the only RCT of a neuromodulator in gastroparesis (NORIG, nortriptyline) was **negative**, and Table 1's own footnote says nortriptyline *"was not found to be effective in idiopathic gastroparesis."* The update resolves this by arguing for **tertiary** amines on FD-overlap grounds — an explicitly **extrapolated** rationale with no gastroparesis RCT behind it. Flag as low-quality evidence wherever the page recommends a TCA for pain.
 - **Severity banding is unvalidated.** The mild/moderate/severe retention bands are attributed to *"some investigators"* and are *"not validated in large, prospective studies"* — yet BPA 3 asks clinicians to classify and BPA 8 conditions on "severe delay." Reproduce with that caveat attached.
 - **Aprepitant dose** conflicts within the source itself (Table 1: 80 mg/day; text: 125 mg/day RCT dose).
+- **"GES" is used for two different things in the source.** Its abbreviation key defines GES as gastric electrical stimulation, which is the meaning everywhere in the treatment sections; the Summary sentence about acting "on the basis of a single GES" means the gastric emptying study. Read the abbreviation from the surrounding sentence.
 - **No grades exist.** No formal rating was performed, so this source carries no GRADE strength or certainty level.
 
 ---

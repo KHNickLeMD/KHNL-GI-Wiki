@@ -3,7 +3,7 @@ title: "Disconnected Pancreatic Duct (DPD) and DPD Syndrome"
 category: disease-script
 tags: [pancreas, disconnected-pancreatic-duct, dpds, necrotizing-pancreatitis, acute-pancreatitis, walled-off-necrosis, lams, double-pigtail-stent, ercp, eus, mrcp]
 created: 2026-08-28
-updated: 2026-09-05
+updated: 2026-09-29
 sources: [uspg-2025-disconnected-pancreatic-duct, aga-2020-cpu-pancreatic-necrosis, asge-2016-pancreatic-fluid-collections]
 ---
 
@@ -100,7 +100,7 @@ sources: [uspg-2025-disconnected-pancreatic-duct, aga-2020-cpu-pancreatic-necros
 | Upstream MPD | May be dilated **or** nondilated | May be dilated **or** nondilated |
 | Secretin-MRCP | Extravasation into the PFC / around the pancreas with viable upstream tissue | Same appearance, **but with an intact MPD still visible** |
 
-*Source: [[uspg-2025-disconnected-pancreatic-duct]]. ⚠ Figure 1 of the source (A: ERCP cutoff; B: CT body necrosis; C: MRCP; D: endoscopic ultrasound (EUS) showing 90° duct entry) could not be captured — PDF image tooling is unavailable in this environment.*
+*Source: [[uspg-2025-disconnected-pancreatic-duct]].*
 
 ---
 
@@ -144,7 +144,7 @@ flowchart TD
 |---|---|
 | **ERCP (pancreatography)** | **Gold standard**, and would be ideal for initial diagnosis — identifies complete ductal obstruction or a large leak at the level of the collection with absent filling of the upstream pancreas. **But early ERCP without established pancreatic drainage risks converting sterile to infected necrosis and worsening pancreatitis, and should be avoided** |
 | **MRCP ± secretin** | **88% sensitivity, 100% specificity** (systematic review and meta-analysis). In one series MRCP confirmed **21 of 23 (91%)** ERCP-proven disruptions, and every patient without disruption on ERCP was confirmed by MRCP. **If MRCP clearly delineates DPD, the diagnosis is secure enough to intervene** — ERCP is not required to confirm |
-| **[[endoscopic-ultrasound\|EUS]]** | **100% sensitivity vs ERCP** — ⚠ **a single prospective study (n = 31)**, stated conditionally ("if confirmed"). Would be especially useful because EUS-directed necrosectomy is now standard. Shows the MPD entering the necrotic area at 90° |
+| **[[endoscopic-ultrasound\|Endoscopic ultrasound (EUS)]]** | **100% sensitivity vs ERCP** — ⚠ **a single prospective study (n = 31)**, stated conditionally ("if confirmed"). Would be especially useful because EUS-directed necrosectomy is now standard. Shows the MPD entering the necrotic area at 90° |
 | **CT** | Few comparative studies. **Nonenhancement in the neck/body compared with head and tail strongly suggests disruption or disconnection**; a collection along the course of the MPD with viable enhancing upstream parenchyma is highly suggestive. In 26 surgically proven DPD, ERCP showed obstruction at the level of the collection with contrast extravasation in **54%** |
 | **Clinical** | **Recurrence of large fluid collections after transgastric stent removal** strongly suggests DPD or duct leak |
 

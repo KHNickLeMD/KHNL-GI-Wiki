@@ -3,7 +3,7 @@ title: "Alosetron"
 category: med
 tags: [ibs, ibs-d, 5-ht3-antagonist, serotonin]
 created: 2026-07-26
-updated: 2026-09-01
+updated: 2026-09-29
 sources: [acg-2020-ibs, aga-2022-ibs-d]
 ---
 
@@ -26,7 +26,7 @@ sources: [acg-2020-ibs, aga-2022-ibs-d]
   - Frequent and severe abdominal pain/discomfort
   - Frequent bowel urgency or [[fecal-incontinence|fecal incontinence]]
   - Disability or restriction of daily activities due to IBS
-- **Restricted-distribution risk-management program (REMS).** Originally FDA-approved 2000 for IBS-D in women; **voluntarily withdrawn** due to serious adverse events (**[[colon-ischemia|ischemic colitis]]**, complicated constipation — obstruction or perforation — and death); reintroduced **June 2002** under a **risk evaluation and mitigation strategy (REMS)**.
+- **Risk evaluation and mitigation strategy (REMS) restriction.** Originally US Food and Drug Administration (FDA)-approved 2000 for IBS-D in women; **voluntarily withdrawn** due to serious adverse events (**[[colon-ischemia|ischemic colitis]]**, complicated constipation — obstruction or perforation — and death); **reintroduced June 2002 under a REMS** ([[acg-2020-ibs|ACG 2020]]).
 - **REMS eligibility — all three required** ([[acg-2020-ibs|ACG 2020]]): **women**, **chronic (>6 months) severe IBS-D symptoms**, and **prior lack of response to traditional therapies**. ACG notes "traditional therapies" is **not further defined** in the REMS protocol.
 - REMS also caps prescribing at **0.5–1.0 mg b.i.d.**, which ACG credits for the low postmarketing event rates below.
 
@@ -56,7 +56,7 @@ Per [[aga-2022-ibs-d|AGA 2022]]:
 - Overall certainty in evidence: **moderate** (AGA 2022).
 
 ## Safety / REMS
-- 9-year postmarketing safety data under the risk-management program:
+- 9-year postmarketing safety data under the REMS:
   - **Ischemic colitis** — 1.03 cases per 1000 patient-years (stable over time).
   - **Serious complications of constipation** — 0.25 cases per 1000 patient-years (declined over time).
 - Careful patient selection and **education about risks/benefits are vital**; constipation triggers dose reduction or discontinuation (see Dosing).

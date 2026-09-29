@@ -3,7 +3,7 @@ title: "AASLD Practice Guidance on the Clinical Assessment and Management of Non
 category: source
 tags: [nafld, masld, nash, mash, steatosis, fibrosis, fib-4, elf, vcte, mre, nit, pioglitazone, vitamin-e, semaglutide, bariatric-surgery, statin, hpb, liver]
 created: 2026-05-31
-updated: 2026-08-30
+updated: 2026-09-29
 sources: []
 ---
 
@@ -115,4 +115,4 @@ The diagnostic core is a **two-tier [[noninvasive-liver-disease-assessment|nonin
 
 ## See Also
 
-[[aasld-2023-masld-nomenclature]], [[nafld-masld]], [[abnormal-liver-chemistries]], [[semaglutide]], [[hepatocellular-carcinoma]], [[portal-hypertension]], [[alcohol-associated-liver-disease]], [[aasld-2024-nilda-blood]], [[aasld-2024-resmetirom]], [[aasld-2025-semaglutide-mash]]
+[[nafld-masld]], [[abnormal-liver-chemistries]], [[resmetirom]], [[semaglutide]], [[hepatocellular-carcinoma]], [[portal-hypertension]], [[alcohol-associated-liver-disease]]

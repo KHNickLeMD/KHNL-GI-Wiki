@@ -3,7 +3,7 @@ title: "SAGES 2021 Guidelines for Surgical Treatment of Gastroesophageal Reflux 
 category: source
 tags: [gerd, antireflux-surgery, fundoplication, laparoscopic, robotic, foregut, surgical]
 created: 2026-05-16
-updated: 2026-05-28
+updated: 2026-09-29
 sources: []
 ---
 
@@ -98,7 +98,7 @@ This guideline should be read alongside [[acg-2021-gerd]] (comprehensive GERD ma
 
 ## Contradictions / Open Questions
 
-- Surgery vs. medical management: SAGES 2021 conditional recommendation predates the NordICC trial (2022) — may require re-evaluation of overall [[antireflux-surgery|antireflux procedure]] evidence
+- Surgery vs. medical management: the conditional recommendation favoring fundoplication rests on very low certainty evidence — 15 RCTs from one systematic review, a large portion at high risk of bias, with procedures often poorly described and performed by subspecialists at high-volume centers (limits generalizability). The guideline calls for large, well-designed RCTs comparing medical with surgical therapy before the [[antireflux-surgery|antireflux procedure]] evidence base can be considered settled
 - Robotic vs. laparoscopic: evidence base limited (4 small RCTs); long-term cost-effectiveness not studied
 - Short gastric vessel division: gas-bloat data suggest division may worsen long-term gas-bloat but improve symptom control — patient counseling crucial
 - MSA (magnetic sphincter augmentation / LINX): not addressed in this SAGES guideline; covered by American College of Gastroenterology (ACG) 2021 and American Society for Gastrointestinal Endoscopy (ASGE) 2024

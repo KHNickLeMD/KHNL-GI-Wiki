@@ -3,7 +3,7 @@ title: "AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Di
 category: source
 tags: [liver-transplant, liver-transplantation, graft-complications, immunosuppression, rejection, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, tacrolimus, mtor-inhibitor, aasld, ast, guidelines, 2025]
 created: 2026-05-25
-updated: 2026-08-14
+updated: 2026-09-29
 sources: []
 ---
 
@@ -178,4 +178,4 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
 
 ## See Also
 
-[[liver-transplantation]], [[tacrolimus]], [[calcineurin-inhibitors]], [[operational-tolerance]], [[hepatocellular-carcinoma]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[antibody-mediated-rejection-liver-transplant]], [[aasld-2012-liver-transplant-long-term]]
+[[liver-transplantation]], [[tacrolimus]], [[calcineurin-inhibitors]], [[operational-tolerance]], [[hepatocellular-carcinoma]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[antibody-mediated-rejection-liver-transplant]]

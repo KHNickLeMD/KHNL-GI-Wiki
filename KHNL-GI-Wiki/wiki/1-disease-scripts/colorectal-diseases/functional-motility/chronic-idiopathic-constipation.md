@@ -3,7 +3,7 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-09-26
+updated: 2026-09-29
 sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi, aga-2019-opioid-induced-constipation]
 ---
 
@@ -176,7 +176,7 @@ All from [[acg-2021-anorectal-disorders]]:
   - **Contraindicated** in intestinal **perforation or obstruction**, [[crohns-disease|Crohn's disease]], [[ulcerative-colitis]], and [[toxic-megacolon|toxic megacolon/megarectum]] — note this rules it out in active IBD, not just mechanical obstruction
   - **Label caution on mood/suicidality:** in a 4,476-subject safety database, 4 attempted and 2 completed suicides — both completed cases had stopped prucalopride >1 month before the event. Causality and mechanism are explicitly **unclear**; the label asks clinicians to watch for unusual changes in mood, behavior, and suicidal ideation
 - Lubiprostone: FDA-approved for CIC in adults ≥18 years; nausea in 20–30%; limited by cost and need for BID dosing
-- IBS-C note: [[linaclotide]] 290 mcg and [[tegaserod]] **6 mg BID** are IBS-C-specific regimens — do not apply this guideline to IBS-C. *(Corrected 2026-09-05: this line previously read "tegaserod (withdrawn in US)". Tegaserod was withdrawn in 2007 but **re-approved in 2019** for women <65 without cardiovascular (CV) ischemic events, and is recommended in that population by both [[acg-2020-ibs|ACG 2020]] and AGA 2022 — see [[tegaserod]].)* **[[plecanatide]] is the exception: 3 mg once daily is the approved dose for *both* CIC and IBS-C** (a "6 mg" IBS-C dose was studied but never approved)
+- IBS-C note: [[linaclotide]] 290 mcg and [[tegaserod]] **6 mg BID** are IBS-C-specific regimens — do not apply this guideline to IBS-C. *Tegaserod was withdrawn in 2007 but **re-approved in 2019** for women <65 without cardiovascular (CV) ischemic events, and is recommended in that population by both [[acg-2020-ibs|ACG 2020]] and AGA 2022.* **[[plecanatide]] is the exception: 3 mg once daily is the approved dose for *both* CIC and IBS-C** (a "6 mg" IBS-C dose was studied but never approved)
 
 ### Defecation Disorder: Biofeedback
 

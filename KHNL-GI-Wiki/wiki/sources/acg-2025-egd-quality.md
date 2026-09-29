@@ -3,7 +3,7 @@ title: "ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)"
 category: source
 tags: [egq, upper-endoscopy, quality-indicators, barrett-esophagus, ugib, peptic-ulcer, gpmc, celiac, quality-improvement]
 created: 2026-05-07
-updated: 2026-05-28
+updated: 2026-09-29
 sources: []
 ---
 
@@ -118,6 +118,6 @@ Key new or updated indicators: Eosinophilic Esophagitis Endoscopic Reference Sco
 
 ## Relevance to Wiki
 
-- Creates: `wiki/3-general-gi-procedures/upper-endoscopy.md`
-- Supplements: `wiki/disease-scripts/foregut-and-motility-diseases/gastric/gastric-premalignant-conditions.md`
-- Supplements: `wiki/disease-scripts/foregut-and-motility-diseases/esophageal/eosinophilic-esophagitis.md`
+- Creates: [[upper-endoscopy]]
+- Supplements: [[gastric-premalignant-conditions]]
+- Supplements: [[eosinophilic-esophagitis]]

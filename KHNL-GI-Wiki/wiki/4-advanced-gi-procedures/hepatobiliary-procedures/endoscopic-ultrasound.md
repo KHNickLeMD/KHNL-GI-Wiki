@@ -3,7 +3,7 @@ title: "Endoscopic Ultrasound (EUS)"
 category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
-updated: 2026-09-06
+updated: 2026-09-29
 sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -102,7 +102,7 @@ Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indicat
 
 ### FNA vs FNB — Diagnostic Yield
 
-**Needle choice (solid pancreatic masses):** use **EUS-FNB over FNA** — higher diagnostic yield/adequacy, more tissue for ancillary testing, fewer passes; **22-gauge** needles are reasonable, and **rapid on-site evaluation (ROSE) is not mandatory when FNB is used** (conditional recommendations, [[asge-2024-solid-pancreatic-masses]]). Needle-tip design, pass counts, and specimen media live on [[pancreatic-cancer]] — one home, not repeated here. For [[biliary-stricture|malignant distal biliary obstruction]] from a pancreatic head mass, prefer **self-expandable metal stents over plastic** for durable drainage (coordinate with ERCP).
+**Needle choice (solid pancreatic masses):** use **EUS-FNB over FNA** — higher diagnostic yield/adequacy, more tissue for ancillary testing, fewer passes; **22-gauge** needles are reasonable, and **rapid on-site evaluation (ROSE) is not mandatory when FNB is used** (conditional recommendations, [[asge-2024-solid-pancreatic-masses]]). Needle-tip design, pass counts, and specimen media live on [[pancreatic-cancer]]. For [[biliary-stricture|malignant distal biliary obstruction]] from a pancreatic head mass, prefer **self-expandable metal stents over plastic** for durable drainage (coordinate with ERCP).
 
 The ≥87% sampling target rests on these pooled figures ([[acg-2025-eus-quality]]):
 
@@ -158,13 +158,13 @@ From [[acg-2018-pancreatic-cysts]]:
 - Cyst fluid CEA cannot distinguish high-grade dysplasia or cancer from low-grade — do not use alone for surgical decision-making.
 - **Molecular testing is gated, not routine:** KRAS/GNAS is **costly and does not determine cancer risk**. ACG 2018 advises analysing these mutations only *"in cases in which the diagnosis is unclear, and a change in diagnosis will alter management."* Integrating molecular testing with cyst clinical features raises sensitivity/specificity for identifying IPMN/MCN.
 
-*Antibiotic prophylaxis for EUS-FNA of pancreatic cysts — one home, in [[#Preprocedure]] above; not repeated here.*
+*Antibiotic prophylaxis for EUS-FNA of pancreatic cysts: see [[#Preprocedure]] above.*
 
 **EUS as surveillance modality — the EUS-specific point:**
 
 - EUS is an acceptable **primary** surveillance tool for patients who cannot have, or prefer not to have, [[mri-mrcp|MRI/MRCP]]; above 3 cm the guideline pairs it with MRI in alternation rather than using either alone.
 
-> **The size-by-interval surveillance grid, the Rec 11 high-risk feature list, and the Rec 10 short-interval triggers all have one home: [[pancreatic-cysts]].** They were partially duplicated here until 2026-09-03; the copy was both lossy (it omitted the <2 cm row and the no-worrisome-feature column, so it could not be used on its own) and **wrong in one place** — it listed cyst growth rate among the Rec 11 referral triggers, whereas growth rate is a **Rec 10** trigger (short-interval imaging) and Rec 11 does *not* include it. That page also carries the numbers this one lacked: the **CA 19-9 >37 U/mL** cutoff behind "significantly elevated," and the **6-month** short-interval figure. Go there to decide; use this page for how the EUS itself is done.
+> **The size-by-interval surveillance grid, the Rec 11 high-risk feature list, and the Rec 10 short-interval triggers are on [[pancreatic-cysts]]** — along with the **carbohydrate antigen 19-9 (CA 19-9) >37 U/mL** cutoff behind "significantly elevated" and the **6-month** short-interval figure. Note that cyst **growth rate is a Rec 10 trigger** (short-interval imaging), **not** a Rec 11 referral trigger. Go there to decide; use this page for how the EUS itself is done.
 
 ---
 

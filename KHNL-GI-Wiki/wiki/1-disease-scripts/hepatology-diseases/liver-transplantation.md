@@ -3,7 +3,7 @@ title: "Liver Transplantation — Post-Transplant Management"
 category: disease-script
 tags: [liver-transplant, liver-transplantation, immunosuppression, tacrolimus, calcineurin-inhibitor, ckd, metabolic-syndrome, rejection, tcmr, pcr, amr, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, ead, hbv, hcv, pbc, psc, autoimmune-hepatitis, hcc, masld, ald, de-novo-malignancy, post-transplant, bone-health, vaccination, cmv, cancer-surveillance, glp-1, bariatric-surgery, aasld]
 created: 2026-05-19
-updated: 2026-09-18
+updated: 2026-09-29
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-non-graft-complications, asge-2023-post-transplant-biliary-strictures]
 ---
 
@@ -328,7 +328,7 @@ The post-transplant recipient requires lifelong structured monitoring for allogr
 ### HCC Surveillance Post-Transplant
 
 - Recipients transplanted for [[hepatocellular-carcinoma]]: continue cross-sectional surveillance — risk of recurrence persists, especially beyond Milan criteria. *The current modality (contrast-enhanced abdominal CT or MRI **plus chest CT**, cross-sectional over ultrasound), interval, and the recurrence-site rationale live on [[hepatocellular-carcinoma]] — do not read this bullet as the full protocol.*
-- ⚠ **What the 2012 guideline actually says** ([[aasld-2012-liver-transplant-long-term]]): **Rec 43** covers only **de novo HCC in a re-cirrhotic allograft** — imaging every **6–12 months**. Surveillance after LT performed *for* HCC is **not formally established** there; the stated "reasonable plan" is abdominal **+ chest CT every 6 months for 3 years**, with **serial AFP as an adjunct only if AFP was elevated before transplant/ablation**. Biopsy any suspicious lesion when the diagnosis is in doubt; [[radiofrequency-ablation|radiofrequency ablation (RFA)]] is the preferred treatment for a small solitary recurrence.
+- ⚠ **Per the 2012 guideline** ([[aasld-2012-liver-transplant-long-term]]): **Rec 43** covers only **de novo HCC in a re-cirrhotic allograft** — imaging every **6–12 months**. Surveillance after LT performed *for* HCC is **not formally established** there; the stated "reasonable plan" is abdominal **+ chest CT every 6 months for 3 years**, with **serial AFP as an adjunct only if AFP was elevated before transplant/ablation**. Biopsy any suspicious lesion when the diagnosis is in doubt; [[radiofrequency-ablation|radiofrequency ablation (RFA)]] is the preferred treatment for a small solitary recurrence.
 - mTOR inhibitor-based IS may reduce HCC recurrence (see Therapeutics)
 
 ---
@@ -547,7 +547,7 @@ Metabolic syndrome, CKD, bone disease, infection prophylaxis, vaccination, de no
 - Endoscopic management of dominant strictures: dilation ± stenting
 - [[inflammatory-bowel-disease|IBD]] management should continue post-LT; colonoscopic surveillance interval for PSC ± IBD recipients is in [[#Oncologic Surveillance]]
 - Re-transplantation: required in 5–10% with recurrent PSC causing graft failure
-- ⚠ *[[aasld-2012-liver-transplant-long-term]] carries only **one numbered PSC recommendation — Rec 85**: patients grafted for PSC in the presence of chronic ulcerative colitis should have **annual colonoscopy with mucosal biopsy** (grade 2, level B). The remaining bullets above are narrative content from that guideline, not numbered recommendations; earlier rec numbers on this block (73–76) were incorrect and have been removed (2026-09-06).*
+- ⚠ *[[aasld-2012-liver-transplant-long-term]] carries only **one numbered PSC recommendation — Rec 85**: patients grafted for PSC in the presence of chronic ulcerative colitis should have **annual colonoscopy with mucosal biopsy** (grade 2, level B). The remaining bullets above are narrative content from that guideline, not numbered recommendations.*
 
 **[[autoimmune-hepatitis|Autoimmune Hepatitis]] recurrence** ([[aasld-2012-liver-transplant-long-term]], Rec 86):
 

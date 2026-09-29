@@ -3,7 +3,7 @@ title: "ACG 2025: Malnutrition and Nutritional Recommendations in Liver Disease"
 category: source
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-05-28
+updated: 2026-09-29
 sources: []
 ---
 
@@ -88,7 +88,7 @@ Key practical recommendations: small frequent meals + nighttime snack (7–10 PM
 
 ## Relevance to Wiki
 
-- Creates: `wiki/disease-scripts/hepatology-diseases/nutrition-in-liver-disease.md`
+- Creates: [[nutrition-in-liver-disease]]
 
 ## Contradictions / Open Questions
 

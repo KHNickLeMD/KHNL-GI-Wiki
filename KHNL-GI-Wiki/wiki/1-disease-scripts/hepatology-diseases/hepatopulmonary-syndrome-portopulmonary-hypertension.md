@@ -3,7 +3,7 @@ title: "Hepatopulmonary Syndrome and Portopulmonary Hypertension"
 category: disease-script
 tags: [hepatopulmonary-syndrome, hps, portopulmonary-hypertension, poph, liver-transplant, portal-hypertension, pulmonary, cirrhosis]
 created: 2026-05-25
-updated: 2026-09-06
+updated: 2026-09-29
 sources: [aasld-ast-2025-liver-transplant-candidate-evaluation, baveno-viii-2026-portal-hypertension, aasld-2024-aclf]
 ---
 
@@ -30,7 +30,7 @@ Two pulmonary **vascular** complications of liver disease and [[portal-hypertens
 | Class | — | Pulmonary arterial hypertension, World Health Organization (WHO) **group 1** |
 | Criteria | **Both** required: (1) microbubbles in the left heart **≥3 cardiac cycles** after right-heart microbubbles, following **10 mL** agitated saline injected in a peripheral arm vein on bubble echocardiography; **and** (2) alveolar–arterial gradient **>15 mm Hg** (**>20 mm Hg** if age >64) | Screen by transthoracic echocardiography (TTE), **confirm by right heart catheterization (RHC)** — elevated mean pulmonary artery pressure (mPAP) with increased pulmonary vascular resistance (PVR) |
 
-> ⚠ **POPH hemodynamic definition.** [[aasld-ast-2025-liver-transplant-candidate-evaluation]] requires RHC to confirm "elevated mPAP and increased PVR" but never states the diagnostic mPAP / PVR / wedge-pressure cutoffs; only the *candidacy* thresholds below are given. The diagnostic cutoffs are in the International Liver Transplantation Society (ILTS) practice guideline on HPS and POPH (Krowka 2016, *Transplantation* 100:1440–52), which the American Association for the Study of Liver Diseases (AASLD) cites.
+> ⚠ *[[aasld-ast-2025-liver-transplant-candidate-evaluation|American Association for the Study of Liver Diseases (AASLD) 2025]] requires RHC to confirm "elevated mPAP and increased PVR" but does not state the diagnostic mPAP / PVR / wedge-pressure cutoffs; only the candidacy thresholds below are given.*
 
 ### Severity Assessment
 
@@ -38,7 +38,7 @@ Two pulmonary **vascular** complications of liver disease and [[portal-hypertens
   - PaO₂ **<60 mm Hg** with portal hypertension and no other pulmonary etiology → qualifies for **Model for End-Stage Liver Disease (MELD) exception points** (US; see Organ Procurement and Transplantation Network (OPTN) policy for the full non-malignancy exception list).
   - **No PaO₂ cutoff excludes LT** — select patients with PaO₂ **<50 mm Hg** have been transplanted successfully.
 
-  > ⚠ **Gap — HPS severity bands not sourced.** Rec 21 directs ABG "to determine severity and urgency," but the PaO₂ cutoffs defining the mild/moderate/severe/very-severe bands are not stated anywhere in [[aasld-ast-2025-liver-transplant-candidate-evaluation]]. Same ILTS source needed.
+  > ⚠ *Rec 21 directs ABG "to determine severity and urgency," but AASLD 2025 does not state the PaO₂ cutoffs defining the mild / moderate / severe / very-severe bands.*
 
 - **POPH** — graded by mPAP + PVR **on optimized therapy**, which is what sets candidacy (see [[#Therapeutics]]).
 
@@ -88,7 +88,7 @@ Pulmonary disease in the LT candidate falls into three groups; HPS/POPH are grou
 | 35–45 mm Hg | <3 WU | Standard **MELD exception** criteria |
 | 45 mm Hg ⚠ | >3 WU | **Contraindication to transplantation** (Strong, Level 1) |
 
-- ⚠ **The contraindication row is missing its operator in the source.** Rec 24 reads verbatim: *"a mean pulmonary artery pressure of 45 mm Hg with a pulmonary vascular resistance > 3 Wood units (WU) should be considered a contraindication to transplantation."* The `>` on PVR is present, but **no `≥` or `>` is printed before the 45 mm Hg** (and `≥` renders correctly elsewhere in the same PDF, so this is the guideline's own text, not an extraction artifact). Read alongside the exception rows, the intent is a ceiling at 45 — but do not assert `≥45` or `>45` as the sourced cutoff.
+- ⚠ **The contraindication row is missing its operator in the source.** Rec 24 reads verbatim: *"a mean pulmonary artery pressure of 45 mm Hg with a pulmonary vascular resistance > 3 Wood units (WU) should be considered a contraindication to transplantation."* The `>` on PVR is present, but **no `≥` or `>` is printed before the 45 mm Hg**. Read alongside the exception rows, the intent is a ceiling at 45 — but do not assert `≥45` or `>45` as the sourced cutoff.
 - **The rows are not exhaustive** — the guideline gives no status for mPAP 35–45 mm Hg with PVR 3–5 WU, nor for mPAP <35 mm Hg with PVR ≥5 WU. Those combinations fall outside both the exception criteria and the contraindication as written.
 - Optimization must be directed by a **pulmonary hypertension specialist**; subspecialty consultation is required once POPH is confirmed.
 - Sustained response to medical therapy → LT can be considered, **particularly with more advanced liver disease** (Weak, Level 2); the survival benefit of LT in responders is greatest at **MELD >15**.
@@ -96,7 +96,7 @@ Pulmonary disease in the LT candidate falls into three groups; HPS/POPH are grou
 - **≥50%** of POPH patients have resolution after LT, and long-term post-LT survival is excellent in medical-therapy responders — the basis for the standard MELD exception.
 - Intraoperative extracorporeal support to bridge higher-risk POPH patients is of increasing interest but has **not** shown long-term survival benefit (too few supported patients reaching LT).
 
-> ⚠ **POPH drug therapy.** [[aasld-ast-2025-liver-transplant-candidate-evaluation]] refers only to "multiple new targeted medications" and never names the pulmonary arterial hypertension (PAH) drug classes or agents; take agent selection from a PAH/ILTS guideline.
+> ⚠ *AASLD 2025 refers only to "multiple new targeted medications" and does not name the pulmonary arterial hypertension (PAH) drug classes or agents.*
 
 **Where HPS/POPH changes a decision *other than* LT candidacy**
 

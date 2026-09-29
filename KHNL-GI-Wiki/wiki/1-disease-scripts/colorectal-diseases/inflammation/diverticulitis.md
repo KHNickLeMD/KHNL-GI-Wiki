@@ -3,8 +3,8 @@ title: "Colonic Diverticulitis"
 category: disease-script
 tags: [diverticulitis, diverticular-disease, colorectal, antibiotics, hinchey, scad, sudd]
 created: 2026-07-23
-updated: 2026-09-26
-sources: [acg-2026-diverticulitis, aga-2015-acute-diverticulitis]
+updated: 2026-09-29
+sources: [acg-2026-diverticulitis, aga-2021-colonic-diverticulitis, aga-2015-acute-diverticulitis]
 ---
 
 Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% (women). **88%** present as acute *uncomplicated* disease. Two modern reversals define management: antibiotics are **selective, not routine** for low-risk uncomplicated disease, and the number of episodes no longer drives elective surgery.
@@ -171,4 +171,5 @@ Recurrence is common and rises with each episode (10-yr risk: ≥22% after 1st, 
 ## Sources
 
 1. [[acg-2026-diverticulitis|ACG Clinical Guideline: Colonic Diverticulitis (2026)]]
-2. [[aga-2015-acute-diverticulitis|American Gastroenterological Association Institute Guideline on the Management of Acute Diverticulitis (2015)]]
+2. [[aga-2021-colonic-diverticulitis|AGA Clinical Practice Update on Medical Management of Colonic Diverticulitis: Expert Review (2021)]]
+3. [[aga-2015-acute-diverticulitis|American Gastroenterological Association Institute Guideline on the Management of Acute Diverticulitis (2015)]]

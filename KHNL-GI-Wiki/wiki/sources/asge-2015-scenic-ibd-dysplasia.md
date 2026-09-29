@@ -3,7 +3,7 @@ title: "SCENIC International Consensus Statement on Surveillance and Management 
 category: source
 tags: [ibd, ulcerative-colitis, crohns, dysplasia, colorectal-cancer, surveillance, chromoendoscopy, colonoscopy]
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-09-29
 sources: []
 ---
 
@@ -49,10 +49,10 @@ For detection, the panel favored **high-definition over standard-definition** wh
 **Terminology (Table 1):** visible (polypoid: pedunculated/sessile; nonpolypoid: superficial elevated/flat/depressed; descriptors: ulcerated, distinct/indistinct border) vs invisible dysplasia; DALM/adenoma-like/non-adenoma-like abandoned.
 
 ## Relevance to Wiki
-- `[[ulcerative-colitis]]` and `[[crohns-disease]]` — defines how colorectal cancer (CRC)-dysplasia surveillance colonoscopy should be performed (HD + chromoendoscopy) and managed (resect-and-survey over colectomy for resectable visible dysplasia).
-- `[[colonoscopy]]` — IBD-surveillance technique (HD, dye-spray chromoendoscopy, targeted + random biopsy debate).
-- `[[colorectal-cancer]]` — IBD-related CRC pathway (dysplasia → cancer).
-- `[[primary-sclerosing-cholangitis]]` — primary sclerosing cholangitis (PSC)-IBD high-risk annual surveillance already cites chromoendoscopy when only SD available.
+- [[ulcerative-colitis]] and [[crohns-disease]] — defines how colorectal cancer (CRC)-dysplasia surveillance colonoscopy should be performed (HD + chromoendoscopy) and managed (resect-and-survey over colectomy for resectable visible dysplasia).
+- [[colonoscopy]] — IBD-surveillance technique (HD, dye-spray chromoendoscopy, targeted + random biopsy debate).
+- [[colorectal-cancer]] — IBD-related CRC pathway (dysplasia → cancer).
+- [[primary-sclerosing-cholangitis]] — primary sclerosing cholangitis (PSC)-IBD high-risk annual surveillance already cites chromoendoscopy when only SD available.
 
 ## Contradictions / Open Questions
 - SCENIC did not address **surveillance intervals** or risk stratification (timing left to other guidelines, e.g. American College of Gastroenterology [ACG]/AGA).

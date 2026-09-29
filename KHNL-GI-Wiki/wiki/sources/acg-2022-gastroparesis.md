@@ -3,7 +3,7 @@ title: "ACG 2022: Gastroparesis"
 category: source
 tags: [gastroparesis, gastric-motility, prokinetics, g-poem, gastric-emptying]
 created: 2026-05-15
-updated: 2026-09-24
+updated: 2026-09-29
 sources: []
 ---
 
@@ -167,10 +167,10 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 
 ## Relevance to Wiki
 
-- Creates/updates `[[gastroparesis]]` disease script: establishes Assessment, Differential Diagnosis, Diagnostics, Therapeutics (ADDT) content for assessment, diagnostics, and therapeutics
-- Relevant to `[[flip-panometry]]`: EndoFLIP role in pyloric assessment before G-POEM
-- Relevant to `[[upper-endoscopy]]`: retained gastric food PPV and limitations as diagnostic criterion
-- Relevant to `[[disorders-of-gut-brain-interaction]]`: GP-FD overlap, reclassification data, distinction by prognosis
+- Creates/updates [[gastroparesis]] disease script: establishes Assessment, Differential Diagnosis, Diagnostics, Therapeutics (ADDT) content for assessment, diagnostics, and therapeutics
+- Relevant to [[flip-panometry]]: EndoFLIP role in pyloric assessment before G-POEM
+- Relevant to [[upper-endoscopy]]: retained gastric food PPV and limitations as diagnostic criterion
+- Relevant to [[disorders-of-gut-brain-interaction]]: GP-FD overlap, reclassification data, distinction by prognosis
 
 ## Contradictions / Open Questions
 

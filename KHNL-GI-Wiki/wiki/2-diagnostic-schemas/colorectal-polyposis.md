@@ -3,7 +3,7 @@ title: "Colorectal Polyposis"
 category: diagnostic-schema
 tags: [polyposis, colorectal, hereditary-cancer, germline-testing, adenoma, hamartoma, serrated, apc, mutyh]
 created: 2026-08-27
-updated: 2026-08-30
+updated: 2026-09-29
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis, asge-2020-fap, usmstf-2020-followup-colonoscopy, usmstf-2017-bmmrd]
 ---
 
@@ -16,7 +16,6 @@ sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis, asge-
   - [[#Not a polyposis]]
 - [[#Diagnostic Algorithm]]
   - [[#Thresholds that trigger genetic evaluation]]
-  - [[#Serrated polyposis syndrome — clinical criteria]]
 - [[#Key Tests]]
   - [[#Which genes go on the panel]]
 - [[#Red Flags / Alarm Features]]
@@ -71,7 +70,7 @@ The patient found to have **multiple colorectal polyps** — how to sort that ph
 
 ### Serrated phenotype
 
-- [[serrated-polyposis-syndrome|Serrated polyposis syndrome (SPS)]] — criteria under [[#Serrated polyposis syndrome — clinical criteria]]. **No clear genetic etiology has been defined**, so routine germline testing is *not* recommended [[acg-2015-hereditary-gi-cancer]]
+- [[serrated-polyposis-syndrome|Serrated polyposis syndrome (SPS)]] — the polyp-count/size/landmark criteria, and the way they changed between the World Health Organization (WHO) 2010 and [[usmstf-2020-followup-colonoscopy|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2020]] versions, are on [[serrated-polyposis-syndrome]]. **No clear genetic etiology has been defined**, so routine germline testing is *not* recommended [[acg-2015-hereditary-gi-cancer]]
 - Sporadic serrated/hyperplastic polyps — do not meet SPS criteria; follow standard [[colonoscopy-surveillance]]
 
 ### Not a polyposis
@@ -111,24 +110,14 @@ flowchart TD
 | Adenomas | **Formal recommendation:** genetic counselling and testing for **"clinical polyposis" = ≥10 adenomas on a single endoscopy *and* ≥20 adenomas during their lifetime** *(low quality)*. The guideline's supporting text lists three *alternative* triggers — ≥10 cumulative adenomatous polyps on a single colonoscopy; **OR** ≥10 adenomas **and** a personal history of CRC; **OR** ≥20 adenomatous polyps in a lifetime. **The combination rule in the recommendation is stricter than the text** — read the recommendation as the bar to clear, and the alternatives as the practical triggers | [[asge-2020-fap]] |
 | Adenomas | **>10 adenomas at one exam** or **>10 cumulative lifetime adenomas** → *consider* testing, weighing absolute/cumulative number, patient age, family history of CRC, and personal polyposis features (desmoid tumour, hepatoblastoma, cribriform morular variant of papillary thyroid cancer, multifocal/bilateral CHRPE) | [[usmstf-2020-followup-colonoscopy]] |
 | Hamartomatous — any | **≥2 lifetime hamartomatous polyps**; **OR** a family history of hamartomatous polyps; **OR** a hamartomatous-polyposis-syndrome–associated cancer in a **first- or second-degree relative**. Test with a **multigene panel** *(Strong, low quality)* | [[aga-2022-hamartomatous-polyposis]] |
-| Peutz–Jeghers | Any **one** of: (1) **≥2 histologically confirmed** Peutz–Jeghers (PJ) polyps; (2) **any number** of PJ polyps + family history of Peutz–Jeghers syndrome (PJS) in a **first-degree relative**; (3) characteristic **mucocutaneous pigmentation** + family history of PJS; (4) **any number** of PJ polyps + the characteristic mucocutaneous pigmentation *(Strong, low quality)* | [[aga-2022-hamartomatous-polyposis]] |
-| Juvenile polyposis | Any **one** of: (1) **≥5 juvenile polyps of the colon or rectum**; (2) **≥2 juvenile polyps elsewhere in the GI tract**; (3) **any number** of juvenile polyps **+ ≥1 first-degree relative** with juvenile polyposis syndrome (JPS) *(Strong, low quality)* | [[aga-2022-hamartomatous-polyposis]] |
+| Peutz–Jeghers | Four alternative criteria, any one sufficient — polyp count, family history, and mucocutaneous pigmentation in combination *(Strong, low quality)*; stated in full on [[peutz-jeghers-syndrome]] | [[aga-2022-hamartomatous-polyposis]] |
+| Juvenile polyposis | Three alternative criteria, any one sufficient — colorectal polyp count, extracolonic polyp count, or any number plus an affected first-degree relative *(Strong, low quality)*; stated in full on [[juvenile-polyposis-syndrome]] | [[aga-2022-hamartomatous-polyposis]] |
 | PTEN hamartoma tumor syndrome | **Multiple GI hamartomas or ganglioneuromas** *(Strong, low quality)*. Full clinical criteria (major/minor) on [[cowden-syndrome]] | [[aga-2022-hamartomatous-polyposis]] |
-| Serrated | Meets SPS criteria (below). **No routine germline testing**; *MUTYH* may be considered when adenomas are concurrent and/or there is a family history of adenomas | [[acg-2015-hereditary-gi-cancer]] |
+| Serrated | Meets SPS criteria ([[serrated-polyposis-syndrome]]). **No routine germline testing**; *MUTYH* may be considered when adenomas are concurrent and/or there is a family history of adenomas | [[acg-2015-hereditary-gi-cancer]] |
 | Lynch | Tumour showing **MMR deficiency** without a *BRAF* mutation or *MLH1* hypermethylation; **OR** a known family mutation; **OR** **≥5% risk of Lynch** on a risk-prediction model | [[acg-2015-hereditary-gi-cancer]] |
 | BMMRD | Any clue in the red-flag list below — the phenotype is a **child or young adult**, and family history is usually **negative** because the parents are young and unaffected | [[usmstf-2017-bmmrd]] |
 
 > **Version note — the adenoma threshold moved, and so did the logic.** [[acg-2015-hereditary-gi-cancer]] sets a **single** trigger: >10 cumulative adenomas. Both 2020 documents add a **lifetime ≥20** element that American College of Gastroenterology (ACG) 2015 does not have — [[asge-2020-fap]] joins the two with **and** in its formal recommendation, while [[usmstf-2020-followup-colonoscopy]] keeps them as alternatives (>10 at one exam **or** >10 cumulative lifetime) and makes testing a judgement call weighted by age and family history rather than an automatic referral. Where they differ, follow the 2020 documents — same tier, newer publication date.
-
-### Serrated polyposis syndrome — clinical criteria
-
-Any **one** of the following makes the clinical diagnosis, as reproduced in [[acg-2015-hereditary-gi-cancer]]:
-
-- **≥5 serrated polyps proximal to the sigmoid colon, with ≥2 of these >10 mm** in diameter; **OR**
-- **Any number** of serrated polyps proximal to the sigmoid colon in an individual with a **first-degree relative with serrated polyposis**; **OR**
-- **>20 serrated polyps of any size**, distributed throughout the large intestine
-
-> The World Health Organization (WHO) revised the SPS criteria in 2019 (rectal polyps counted, thresholds changed); the criteria above are the pre-2019 version as printed in ACG 2015 — see [[serrated-polyposis-syndrome]].
 
 ---
 

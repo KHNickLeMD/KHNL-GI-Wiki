@@ -3,7 +3,7 @@ title: "Anti-TNF Agents (TNF-α Antagonists)"
 category: med
 tags: [anti-tnf, infliximab, adalimumab, certolizumab-pegol, golimumab, biologic, ibd, crohns, ulcerative-colitis, immunogenicity, therapeutic-drug-monitoring, biosimilar, immune-checkpoint-inhibitor]
 created: 2026-09-04
-updated: 2026-09-28
+updated: 2026-09-29
 sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis, aga-2018-biologic-biosimilar-switching-ibd]
 ---
 
@@ -162,7 +162,7 @@ From [[aga-2021-ici-colitis-hepatitis]] (Best Practice Advice 6; expert review �
 
 ### Acute Severe UC — Rescue Dosing Parameters
 
-The **ASUC pathway** (when to escalate, infliximab-vs-cyclosporine choice, bridging, colectomy) lives on [[ulcerative-colitis]] and [[toxic-megacolon]]; this page owns the **anti-TNF drug parameters** ([[acg-2025-uc]]):
+The **ASUC pathway** (when to escalate, infliximab-vs-cyclosporine choice, bridging, colectomy) lives on [[ulcerative-colitis]] and [[toxic-megacolon]]. The **anti-TNF drug parameters** ([[acg-2025-uc]]):
 
 | Parameter | Detail |
 |---|---|
@@ -314,8 +314,8 @@ If not already done before checkpoint-inhibitor therapy: test **hepatitis B (HBs
 
 - *The guidelines cited here do not cover **infusion reactions, injection-site reactions, drug-induced lupus, or paradoxical psoriasis** or their management; consult product labeling.*
 - *The guidelines do not give **certolizumab pegol or golimumab regulatory approval status by indication**. The class table above reports only which agents each guideline **recommends** for each disease, which is not the same thing.*
-- *[[aga-2025-crohns-pharm]] (AGA Living Guideline, 2025) is a **newer same-tier source** on Crohn's drug positioning and has **not** been reconciled into this page, which was built from [[acg-2025-crohns]] and [[aga-2021-crohns-pharm]]. Check it before relying on the CD positioning table — [[aga-2021-crohns-pharm]] predates interleukin-23 (IL-23) p19 inhibitors and Janus kinase (JAK) inhibitors entirely.*
-- *Anti-TNF use in **[[pouchitis]]** is not covered here; that page owns it, sourced separately.*
+- *The CD positioning table draws on [[acg-2025-crohns]] and [[aga-2021-crohns-pharm]]; the latter predates the [[il-23-and-il-12-23-inhibitors|interleukin-23 (IL-23) p19 inhibitors]] and [[jak-inhibitors|Janus kinase (JAK) inhibitors]] entirely. For newer Crohn's drug positioning see [[aga-2025-crohns-pharm]] (AGA Living Guideline, 2025).*
+- *Anti-TNF use in **[[pouchitis]]** is covered on that page, sourced separately.*
 
 ---
 

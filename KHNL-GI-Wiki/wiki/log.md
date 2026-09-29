@@ -6,19 +6,72 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
-## [2026-09-28] lint | AGA CPU items 39 + 43 ingested; the two carried-forward 2026-05-28 source pages validated; AGA 2018 functional-GI-in-IBD orphan propagated
+## [2026-09-29] lint | AGA CPU items 41 + 43 ingested; the 2026-09-28 cron's abandoned entry reconciled against what it actually committed; 3 orphans closed; triage backlog worked
 
-**Inbox check:** *(in progress — filled at end of pass)*
+**Inbox check:** **No new arrivals.** All 14 `raw/` subfolders counted and matched to the audited baseline exactly — AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, GI Other Studies 6, GI RCTs 12 = **449** non-asset files. `git status` was clean and stays useless for this: `raw/`'s content subfolders are git-ignored, so nothing under `raw/` was committable.
 
-**Ingest slots claimed this pass (2 — the cap):** *(in progress)*
+**Ingest slots claimed this pass (2 — the cap):**
 
-**Sources created:** *(in progress)*
+- Queue item **41** → [[aga-2017-opioids-in-gastroenterology]]. Taken first because the 2026-09-28 cron created [[narcotic-bowel-syndrome]] *without* the source that defines the syndrome; this closes that.
+- Queue item **43** → [[aga-2021-colonic-diverticulitis]]. The row the abandoned entry claimed and never opened.
 
-**Pages updated:** *(in progress)*
+**Sources created:**
 
-**Hygiene fixes:** *(in progress)*
+- [[aga-2017-opioids-in-gastroenterology]] — Camilleri, Lembo, Katzka, *Clin Gastroenterol Hepatol* 2017;15:1338–1349. ⚠ **A narrative Expert Review with no numbered Best Practice Advice and no evidence grades** — recorded explicitly on the page so it is never cited as graded. Carries the narcotic bowel syndrome definition (>100 mg morphine equivalent/day, >3 months, pain rising with dose escalation), the bowel function index (0–28.8 normal; >30 triggers prescription therapy), Rome IV opioid-induced constipation criteria verbatim, and the differential-tolerance mechanism that explains why constipation alone never abates.
+- [[aga-2021-colonic-diverticulitis]] — Peery, Shaukat, Strate, *Gastroenterology* 2021;160:906–911. All **14 Best Practice Advice captured verbatim**, unnumbered-grade status stated.
 
-**Remaining for triage:** *(in progress)*
+**Dose errors caught at extraction, before they reached a page:**
+
+- `pdftotext` rendered lubiprostone as **"24 mg twice daily"**; the PDF page reads **24 µg** — a 1000× error on a live dosing line. Confirmed by rendering the page with the Read tool. Dropped-µ corruption again.
+- Same extraction dropped × and ≥ throughout: "15 3 10⁹" and "15 10⁹" are both **>15 × 10⁹ cells/L**; "BFI 30" is **BFI ≥30**; "Bristol Stool Form Scale 12" is **types 1–2**. All verified against rendered pages, not the text layer.
+- **Not** corrected, because the source itself prints it: the opioids review states naloxegol is FDA-approved "at 12.5 or 25 mg **4 times a day**", which its own tabulated trials contradict. The strengths go on the pages; the frequency does not, and the inconsistency is recorded under Contradictions.
+
+**Pages updated:** [[diverticulitis]], [[narcotic-bowel-syndrome]], [[opioid-induced-constipation]] — new sources wired into frontmatter and `## Sources` (and a duplicated `rome-v-2026-dgbi` entry, numbered "3" twice, removed from the last).
+
+**Hygiene fixes (four parallel batches):**
+
+- **Source slugs removed from `## See Also`** on 5 AASLD source pages; every removed slug was already linked inline, so no cross-reference was lost.
+- **`[[links]]` unwrapped from code spans and stale `wiki/disease-scripts/` paths corrected** on 8 ASGE/ACG source pages — links inside backticks never resolve and never count as inbound, which is how source pages end up looking like orphans.
+- **Factual flags from the 2026-09-28 triage list adjudicated against the original PDFs.** Three were real and are fixed: **STARR** was mislabelled "stapled hemorrhoidectomy" (it is stapled transanal rectal resection, a *rectocele* procedure — and on [[defecation-disorders]] it had additionally been filed under "no structural abnormality" and called "not recommended", neither of which ACG 2021 says); **NordICC** was cited in a GERD-surgery context where SAGES 2021 names no trial at all (name removed, not replaced); the **"PPI/biologic choice"** label sat on an infliximab-vs-vedolizumab bullet. **REMS** was corrected to *risk evaluation and mitigation strategy* on the authority of the ingested ACG text, not from memory.
+- **Two flags were wrong — the wiki was faithful and the *sources* carry the errors.** The "OR 1.42; 95% CI 8.57–23.4" impossibility is printed that way in USMSTF 2020 itself (verified on two rendered pages), and "H2 agonists" is printed that way in AGA 2023 CPU Ostomies Table 1. Both left untouched: reproducing a source's error faithfully beats silently "fixing" it from memory.
+- **Zero broken links maintained** — `lintscan.py` re-run after the link batches confirms `total broken tokens: 0`.
+
+**Tooling:** `website_files/scripts/lintscan.py`, added undocumented by the 2026-09-28 cron, is now the standard opener for a pass — broken links, orphans, per-folder counts, missing `## See Also`/`## Sources`, stubs, code-span aware. Index counts are now derived from it instead of by hand (they were 1 source and 1 disease script stale).
+
+**Index:** counts corrected 326/630 → **329 sources / 634 pages**; queue rows **39, 41, 43** struck (39 backfilled on the cron's behalf).
+
+**Remaining for triage:**
+
+- **~27 further source pages still have `[[links]]` inside backticks** — same defect class as the 8 fixed here; named examples include `hendershot-2025-semaglutide-aud`, `aga-2022-aki-cirrhosis`, `aasld-2024-aclf`, `lyon-2024-gerd-diagnosis`, `feuerstadt-2022-ser109-cdiff`. One stale `wiki/disease-scripts/` path remains in `acg-2020-achalasia`.
+- **3 orphans still open:** source pages `aga-2018-functional-gi-symptoms-ibd` (its Figure 1 algorithm and 14 BPA have now gone two passes without reaching an entity page) and `nejm-2023-fever-returning-traveler`; concept page `ibd-in-older-adults`.
+- **Banned maintainer note** in `aga-2019-lab-evaluation-functional-diarrhea-ibs-d` (cites a `raw/` path).
+- **Propagation debt from this pass:** both new sources are wired into their primary entity pages, but the opioids review's region-by-region content has **not** yet reached [[achalasia]], [[gastroparesis]], [[sphincter-of-oddi-dysfunction]], [[pamoras]], [[lubiprostone]], [[eluxadoline]] or [[loperamide]], and the diverticulitis BPA have not been worked into the body of [[diverticulitis]] beyond the source wiring. The `## Relevance to Wiki` sections name every target. **This is the first item for the next pass.**
+- `defecation-disorders` cites ACG "Table 4" where the guideline labels it Table 5 (the guideline's own narrative mis-cross-references it too). `alosetron` claims "9-year postmarketing safety data" with no window stated in the ACG text.
+- **Unusable file unchanged:** `Other/IANS 2024 Anal Cancer Screening Consensus.pdf` is a 6 KB saved HTML page, not a PDF.
+- **Gated and untouched:** 60 lecture/chalk-talk transcripts. Never auto-ingested — Nick must name them.
+
+**Queue after this pass:** **9** older AGA Clinical Practice Updates (items 38, 40, 42, 44–48) + **N13** (AGA 2012 NAFLD, deliberately last) = **10 tier-1 files**, plus 1 tier-2 narrative review (`CGH 2025 Microscopic Colitis` — no Anki cards from it).
+
+---
+
+## [2026-09-28] lint | AGA CPU item 39 ingested (chronic GI pain in DGBI); `narcotic-bowel-syndrome` created; two carried-forward 2026-05-28 source pages validated — *entry abandoned mid-pass, reconciled 2026-09-29*
+
+> ⚠ **This entry was written as a header-plus-placeholders by the 13:11 cron pass and never filled in** — every label still read *(in progress)* when the next pass opened the log. The pass's own title also over-claimed: it announced **items 39 + 43** and an *AGA 2018 functional-GI-in-IBD orphan propagated*, but commit `4a0bfea` contains **one** new source page, item 43 was never touched, and that orphan was still an orphan a day later. Reconstructed below **strictly from the diff of `4a0bfea`**, not from the abandoned title. The record-as-you-go rule exists for exactly this failure; this is its ninth instance.
+
+**Ingest slots claimed (1 of 2 — the pass stopped before the second):**
+
+- Queue item **39** — `AGA 2021 CPU Chronic GI Pain in Disorders of Gut-Brain Interaction` → [[aga-2021-chronic-gi-pain-dgbi]]. **Struck in `index.md` 2026-09-29**, not by the ingesting pass.
+- Queue item **43** (`AGA 2021 CPU Colonic Diverticulitis`) was announced in the title but **never opened** — the row stayed live and the file stayed uningested. Taken on the 2026-09-29 pass.
+
+**Sources created:** [[aga-2021-chronic-gi-pain-dgbi]] — never added to `index.md` by the ingesting pass; row added 2026-09-29.
+
+**Pages created:** [[narcotic-bowel-syndrome]] (`1-disease-scripts/other/`) — likewise unindexed until 2026-09-29.
+
+**Pages updated:** [[disorders-of-gut-brain-interaction]] (the substantive propagation target), [[brca-pathogenic-variants]], [[ibd-pain-management]].
+
+**Tooling added:** `website_files/scripts/lintscan.py` — whole-wiki link scanner (broken `[[links]]`, orphans, per-folder page counts, missing `## See Also` / `## Sources`, stubs), code-span and fenced-block aware. Undocumented by the pass that added it; it is now the first thing a lint pass should run.
+
+**Not done by this pass, and carried into 2026-09-29:** its `index.md` rows, its queue strike, its own log entry, and the second ingest slot.
 
 ---
 

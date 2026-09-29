@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on Diagnosis and Management of Immune Check
 category: source
 tags: [immune-checkpoint-inhibitor, irae, ici-colitis, ici-hepatitis, enterocolitis, immunotherapy, ctcae, infliximab, vedolizumab, budesonide, microscopic-colitis, oncology]
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-29
 sources: []
 ---
 
@@ -179,7 +179,7 @@ ICI hepatitis is less common (<5% with monotherapy, rising to ~25% with ipilimum
 - **Infliximab, opposite directions in the two organs.** Infliximab is a first-choice rescue for glucocorticoid-refractory ICI **colitis** but is to be used with **caution** in ICI **hepatitis**. In a patient with both, the CPU explicitly defers to case-by-case judgment.
 - **Infliximab and cancer outcomes.** One report suggests worse cancer outcomes with infliximab; the CPU cautions that steroid dose and duration were not adequately controlled for.
 - **Steroid dosing is unvalidated in both organs.** The 0.5–2 mg/kg / 4–6 week taper (colitis) and the methylprednisolone doses (hepatitis) are stated to be empirically derived and never rigorously examined. Treat these numbers as low-quality evidence wherever they appear.
-- **PPI/biologic choice not resolved.** No data distinguish infliximab from vedolizumab as initial biologic for steroid-refractory ICI colitis; the recommendation is explicitly risk-factor-based, not efficacy-based.
+- **Infliximab vs vedolizumab — choice not resolved.** No data distinguish infliximab from vedolizumab as initial biologic for steroid-refractory ICI colitis; the recommendation is explicitly risk-factor-based, not efficacy-based.
 - **No validated severity index exists** for ICI colitis. Two competing endoscopic tools (MD Anderson, Mayo) are presented side by side without a preference.
 - **Open questions named in the source:** optimal endoscopic examination for diagnosis is not established; the importance of tissue diagnosis has not been rigorously evaluated; treatment after failing both biologics is not established; the relationship between ICI-hepatitis histologic subtypes and outcome/treatment response is uncertain; long-term safety of maintenance immunosuppression during ongoing ICI therapy is undetermined. AIM-NIVO (NCT03816345) was enrolling to provide the first prospective data on ICI treatment in IBD patients.
 

@@ -3,7 +3,7 @@ title: "Sclerosing Mesenteritis"
 category: disease-script
 tags: [sclerosing-mesenteritis, mesenteric-panniculitis, misty-mesentery, igg4, tamoxifen, corticosteroids, colchicine, azathioprine]
 created: 2026-06-27
-updated: 2026-09-06
+updated: 2026-09-29
 sources: [aga-2025-sclerosing-mesenteritis]
 ---
 
@@ -147,11 +147,9 @@ flowchart TD
     RX --> CX["Obstruction → nonoperative first,<br/>surgical bypass if refractory"]
 ```
 
-*Algorithm — evaluation and treatment of sclerosing mesenteritis, recreated in text form from the narrative of [[aga-2025-sclerosing-mesenteritis]]. The source's own Figure 2 flowchart is a raster image and has not been captured (see note below).*
+*Algorithm — evaluation and treatment of sclerosing mesenteritis, recreated from the narrative of [[aga-2025-sclerosing-mesenteritis]] (its Figure 2).*
 
 > ⚠ **Evidence quality — all of the above is expert opinion.** [[aga-2025-sclerosing-mesenteritis]] is an American Gastroenterological Association (AGA) Clinical Practice Update *Commentary*: it carries **no formal Best Practice Advice statements and no evidence ratings**. The **optimal drug regimen and treatment duration are not established**, and the evidence that any of these agents relieves symptoms is limited.
-
-> ⚠ **Figures not captured.** The source's Figure 1 (four CT images: A classic halo/pseudocapsule, B calcified mass with bowel retraction, C "misty mesentery," D calcified mass with retraction and bowel thickening) and Figure 2 (management algorithm) are raster figures in the PDF and are not yet embedded — PDF image-extraction tooling was unavailable on this pass.
 
 ---
 

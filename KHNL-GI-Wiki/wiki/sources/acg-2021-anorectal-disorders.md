@@ -3,7 +3,7 @@ title: "ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders"
 category: source
 tags: [anorectal, hemorrhoids, anal-fissure, fecal-incontinence, defecation-disorder, proctalgia, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-09-24
+updated: 2026-09-29
 sources: []
 ---
 
@@ -144,7 +144,7 @@ The guideline numbers recommendations within each disorder (Tables 2, 7, 9, 12, 
 
 - Biofeedback for levator syndrome: only one key RCT underpins this Strong recommendation — guideline acknowledges no independent replication in 10 years
 - LIS and incontinence risk: literature estimates 0–16% incontinence; guideline counsels using with caution when anal pressures not high
-- Stapled hemorrhoidectomy (STARR): guideline notes higher complications and recurrence; not widely used in US — avoid
+- Stapled hemorrhoidectomy (for grade 3 hemorrhoids): guideline notes higher complication and long-term recurrence rates; used less frequently in recent years. Distinct from stapled transanal rectal resection (STARR), the rectal excision procedure for rectocele — performed predominantly in Europe (Italy), never in Australia and seldom in the United States
 - SNS for FI: long-term device complications substantial (61% device-related adverse events (AEs) at 60 months in one study)
 
 ## See Also
