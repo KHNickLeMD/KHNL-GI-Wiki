@@ -6,6 +6,56 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-30] lint | Second pass — 2 of the 3 fabricated-recommendation-scheme source pages rebuilt from their PDFs; pass ended on budget exhaustion mid-flight
+
+⚠ **This pass ran out of its credit budget before finishing.** What is written below is what is actually on disk and committed — nothing here is a claim of intent. Two workers were still running when the budget ended; their state is recorded honestly under *Unfinished* so the next pass does not have to re-derive it.
+
+**Inbox check:** **No new arrivals.** `raw/` holds **449** non-asset files, matching the audited baseline exactly across all 14 subfolders — AGA 189, ACG 61, Lectures 60, ASGE 50, AASLD 35, Other 20, RCTs 12, NCCN 7, `GI Other Studies` 6, SAGES 3, EASL 2, AFS 2, USPG 1, APA 1. `git status` clean; nothing untracked under `raw/`, which is expected (content subfolders are git-ignored) and is never the detector.
+
+**Whole-wiki scan (`lintscan.py`):** 0 broken links · 0 non-source orphans · 0 stubs · counts reconcile exactly (331 sources / 637 pages / 51 concepts).
+
+**Stalest-page validation — the 2026-09-30 triage item, taken ahead of new ingest as that entry instructed:**
+
+- **[[acg-2017-liver-chemistries]] — rebuilt.** All five suspected fidelity errors were **real** and are fixed (myocardial infarction, not congestive heart failure; the invented ALT>AST ratio removed from the hemochromatosis biopsy rule; the systemic lupus erythematosus association restored with the document's own *"the association is not strong"* qualifier; "interface hepatitis" and "progressive granulomatous destruction" both deleted — neither phrase occurs in the document).
+  - The prior pass **undercounted**: beyond Table 1's **19 recommendations (every one "Strong recommendation, very low level of evidence")** there is a **20th graded recommendation** in the alkaline-phosphatase body section that is not in Table 1, plus **24 genuinely ungraded summary statements across 6 series**. All now verbatim, numbered, and kept separate from the graded set. The fabricated `Summary Statement | —` grade is gone.
+  - Seven further errors found and fixed on top of the five: Rec 7's screen had dropped the **iron level** and hardened "and/or" into "and"; Gilbert's three distinct bilirubin figures had been collapsed into one; biopsy *grading/staging* indications had been conflated with *diagnosis-confirming* ones; primary sclerosing cholangitis–inflammatory bowel disease downgraded from "strong" to the document's "common" association; Figure 4's two arms had been collapsed into one; and an **unsourced outside claim** (a USPSTF 2020 hepatitis C screening statement present in no ingested source) was removed.
+  - Decision-critical content added: Figure 4's alkaline-phosphatase branch points (>2× upper limit of normal → biopsy; 1–2× → observe; persistence at 6 months → biopsy or magnetic resonance cholangiopancreatography), the Table 2 upper-limit proposals, Table 3 mortality data, the drug-induced liver injury acetaminophen trigger, and the R-ratio formula verbatim.
+  - **Propagation checked and clean** — all 10 pages citing the slug were grepped; the errors were contained to the source page.
+
+- **[[acg-2020-esophageal-physiologic-testing]] — rebuilt.** Verified against rendered pages 1412–1424. True scheme: **16 numbered recommendations + 1 unnumbered but fully GRADE-labelled functional lumen imaging probe statement + 10 ungraded key concepts**; totals reconcile against Tables 2–4 (6+7+4 = 17 graded = 16 numbered + 1 unnumbered). The fabricated `Summary Statement` category is gone; dropped Recs 1, 12 and 16 restored; Key Concept 9 demoted back out of the recommendation series.
+  - All four suspected fidelity errors were **real**: the **0.69/0.50** sensitivity/specificity belongs to **barium esophagram**, not high-resolution manometry; the **32%** is **endoscopy's** hiatus-hernia false-positive rate (against manometry's 5%), not conventional manometry's; the acid exposure time "cardinal metric" predicts **GERD treatment outcome**, with the antireflux-surgery claim a separate sentence; and **"AET <4% = physiologic" is printed nowhere in the document** — removed. The document gives only the Lyon proposal (>6% pathologic, 4–6% borderline).
+  - Three new errors fixed: the 93.4%/75% supragastric-belching figures had been attributed to pH impedance monitoring when they are **bedside questioning's** performance *against* pH impedance; the GERDQ ≥9 definition had been truncated to one of its four limbs; laryngoscopy's 86% sensitivity and 44% accuracy were missing beside its 9% specificity.
+  - Stated plainly rather than invented: **the DeMeester score is not in this document**, and it prints no numeric symptom-index cut-point (only symptom association probability >95%).
+  - Also captured: the document's own internal inconsistency — Rec 1 and the FLIP statement read *"We recommend"* in their boxes and *"We suggest"* in Table 2 at identical grades.
+
+**Propagation fixes applied centrally:**
+
+- [[abnormal-liver-chemistries]] — hemochromatosis biopsy rule corrected from "elevated ALT" to the guideline's **"elevated AST/ALT levels"**.
+- [[high-resolution-manometry]] re-checked and is **clean** — it already credits 0.69/0.50 to barium esophagram and already carries the 5%-vs-32% comparison correctly. The bad numbers never propagated.
+
+**Hygiene fixes:**
+
+- `acg-2016-nutrition-hospitalized.md:90` — unescaped alias pipe in a table cell (`[[chronic-pancreatitis|…]]`) escaped; it would have split the cell in Obsidian. Whole-wiki grep now returns no unescaped alias pipes.
+
+**Unfinished — the next pass's first items, in this order:**
+
+1. **[[acg-2019-hereditary-hemochromatosis]] was NOT rebuilt.** It remains the last of the three fabricated-scheme pages and is still `updated: 2026-05-28`. Its known defects, from the 2026-09-30 first-pass validation, stand unaddressed: four invented `Summary Statement` rows against the document's **10 GRADE-rated recommendations and exactly one key concept**; Recs 7 and 8 merged; the **treatment-initiation threshold omitted entirely** (serum ferritin >300 ng/mL men / >200 ng/mL women **with** transferrin saturation ≥45%) while the target is given — a live decision gap; and a **fabricated contradiction** with AASLD 2011, which the ACG document actually cites supportively.
+2. **The two bariatric ingest slots are in an unknown state.** `wiki/sources/aga-2017-endoscopic-bariatric-therapies.md` exists on disk and is committed; `aga-2021-early-complications-bariatric-surgery.md` had not appeared when the budget ended. **Neither has an `index.md` row, neither is described in this entry's content, and their entity-page propagation is unverified.** Queue rows 44 and 45 were deliberately **left unstruck**. Verify both against their PDFs before trusting either.
+3. **`index.md` was not updated this pass** — no new rows, and the count line still reads 331/637/51, which is now stale by at least the one new source page. Reconcile with `lintscan.py`, do not hand-count.
+
+**Coverage gaps — deliberately none filled.** The pass was heavy on rebuilds and ingest, which the rule covers ("pass already heavy on ingest/stub expansion → 1 or none"). Two remain queued and are now supported by *verified* extractions rather than a second independent read: **`gilbert-syndrome`** (ACG 2017 gives prevalence, UGT1A1, all three bilirubin cut-points and the presumptive-diagnosis rule — enough for a real page) and **`alpha-1-antitrypsin-deficiency`** (Rec 10, a body section and a Table 4 row; probably a thin disease script from this source alone).
+
+**Newly surfaced creatable pages (ACG 2020, sources verified this pass):** `barium-esophagram` (Rec 4, Key concepts 2–3, the 8 oz/236 mL timed protocol with >5 cm at 1 min and >2 cm at 5 min, the 13-mm tablet data) and `supragastric-belching` (Rec 16, Rome IV criteria, episode counts). Also referenced without a target: `reflux-hypersensitivity`, `noncardiac-chest-pain`, `erosive-esophagitis`, `eckardt-score`, `high-resolution-impedance-manometry`.
+
+**Remaining for triage (carried forward, unchanged):**
+
+- Two soft issues on [[ambulatory-reflux-monitoring]], neither a hard fabrication, both left for the next pass: line 250 pins ">4%" onto the word "cardinal", which ACG 2020 does not, and merges the GERD-treatment-outcome and antireflux-surgery claims; line 255 reports 6% as ACG's own diagnostic cutoff when the document presents it as the Lyon consensus proposal.
+- **`nejm-2023-fever-returning-traveler` is still the wiki's only source-page orphan**, still records **Type: Unknown**, and still has no matching file in `raw/`. Nick's call: supply the article or retire the page.
+- **Queue remainder: 6 CPU rows + N13** — items 38 (IBD during COVID-19, low value), 44, 45 (both unstruck, see above), 46, 47, 48, and N13 (AGA 2012 NAFLD, oldest document in `raw/`, historical value only).
+- **Figure capture remains permission-blocked** — `pdftoppm` cannot be run, so pictorial figures stay unreachable; decision trees are recreated as Mermaid instead.
+
+---
+
 ## [2026-09-30] lint | The 2026-09-29 entry reconciled — item 42 was never ingested; psychogastroenterology de-orphaned into a new concept page; AGA CPU item 42 taken for real
 
 **Inbox check:** **No new arrivals.** All 14 `raw/` subfolder counts match the audited 2026-09-23 baseline exactly — AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, `GI Other Studies` 6, `GI RCTs` 12 = **449** non-asset files. `git status` clean; nothing untracked under `raw/`, which is expected (content subfolders are git-ignored) and is never the detector.

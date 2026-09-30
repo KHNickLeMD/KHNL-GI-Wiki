@@ -273,7 +273,7 @@ Biopsy is appropriate when (Strong recommendation, very low evidence) [[acg-2017
 - Staging of known liver disease is required (e.g., MASLD, hemochromatosis, Wilson's disease)
 - Multiple diagnoses are possible
 - Wilson's disease: quantitative hepatic copper
-- Hemochromatosis: hepatic iron index (if C282Y homozygous or compound heterozygous with elevated ALT or ferritin >1,000 µg/l)
+- Hemochromatosis: hepatic iron index (if C282Y homozygous or compound heterozygous with elevated AST/ALT levels or ferritin >1,000 µg/l)
 - Alpha-1 antitrypsin deficiency: PAS-positive globules (periodic acid–Schiff)
 - AIH: interface hepatitis, rosette formation, plasma cell infiltrate (required before immunosuppression)
 - Nonalcoholic steatohepatitis (NASH): required to distinguish NASH from simple steatosis
