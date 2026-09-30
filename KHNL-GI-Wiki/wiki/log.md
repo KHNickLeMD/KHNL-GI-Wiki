@@ -6,23 +6,86 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
-## [2026-09-29] lint | Second pass of the day — propagation debt cleared, AGA CPU items 40 + 42 ingested, three orphans closed, 2026-05-28 source cohort re-validated
+## [2026-09-30] lint | The 2026-09-29 entry reconciled — item 42 was never ingested; psychogastroenterology de-orphaned into a new concept page; AGA CPU item 42 taken for real
+
+**Inbox check:** **No new arrivals.** All 14 `raw/` subfolder counts match the audited 2026-09-23 baseline exactly — AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, `GI Other Studies` 6, `GI RCTs` 12 = **449** non-asset files. `git status` clean; nothing untracked under `raw/`, which is expected (content subfolders are git-ignored) and is never the detector.
+
+**Reconciling the 2026-09-29 second pass:**
+
+- Its entry was left as **eight `*(in progress)*` placeholders** — the same abandonment as the 2026-09-28 cron, two passes later.
+- Its **title overclaimed**: "AGA CPU items 40 + 42 ingested". Commit `4c3cb39` contains **only item 40** (`aga-2018-psychogastroenterology`). There is no `wiki/sources/` page for item 42, and `raw/GI Guidelines/AGA/AGA 2017 CPU Surgical and Device-Aided Therapy for Fecal Incontinence.pdf` was untouched. **Item 42 was never ingested**; its row stayed unstruck, correctly.
+- Placeholders replaced with what the commit actually contains; title corrected to item 40 alone.
+
+**Ingest slots claimed this pass (1 of 2):**
+
+- `AGA 2017 CPU Surgical & Device-Aided Therapy for Fecal Incontinence` → `wiki/sources/aga-2017-surgical-device-fecal-incontinence.md` (queue item 42 — the slot the previous pass claimed in its title but never used). **15 Best Practice Advice captured verbatim; ungraded** — no GRADE, strength or quality rating anywhere in the document, and several claims are explicitly the authors' experience.
+- Only 1 of the 2 slots was spent: the rest of the pass went to the propagation debt the 2026-09-29 cron left behind.
+
+**Propagation debt cleared:**
+
+- **[[aga-2018-psychogastroenterology]] — ingested 2026-09-29, propagated 2026-09-30.** Created its missing home page **[[brain-gut-behavioral-therapy]]** (`7-concepts/`), which closes the wiki's only broken link. Content routed to [[disorders-of-gut-brain-interaction]] (the 2 pathways + the candidacy contradiction), [[irritable-bowel-syndrome]] (quality of life below end-stage renal disease and diabetes; the 1242-patient symptom-specific-anxiety survey), [[inflammatory-bowel-disease]] (15% of patients = ~50% of expenditures), [[functional-heartburn]] (the harm framing behind stopping the proton pump inhibitor) and [[narcotic-bowel-syndrome]] (psychosocial factors coupled with opiate use raise risk; IBS can progress to centrally mediated abdominal pain syndrome).
+- The new concept page deliberately **links rather than copies** for facts already homed on [[disorders-of-gut-brain-interaction]] and [[ibd-pain-management]] — neuromodulator dosing, the modality evidence table, the open-ended quality-of-life question.
+
+**Pages updated from the new ingest:**
+
+- [[fecal-incontinence]] — Figure 1 recreated as a Mermaid flowchart (its one home); the ~25% conservative-benefit figure; the four-part definition of an optimal conservative trial; **the loperamide dose the page had declared missing** (2 mg, 1 tablet 30 min before breakfast, titrate to 16 mg/d); magnetic anal sphincter, artificial sphincter, graciloplasty, percutaneous tibial nerve stimulation and Secca data; the treatment-cost table.
+- [[sacral-nerve-stimulation]] — **closed the trial-phase decision gap the page had flagged open**: a ≥50% fall in FI frequency on the 2–3 week external trial is the gate to permanent implantation. Added ~7-year battery replacement.
+- [[defecation-disorders]] — Best Practice Advice 13–15: the placebo-controlled cross-over trial behind the against-SNS statement, the anterograde-colonic-enema failure rates (~50% adult vs 80% pediatric success, >50% failing by 3 years), the STARR harm data and the weak symptom–anatomy correlation, plus the grade 1–2 vs 3–4 rectal-prolapse operative threshold.
+
+**Contradictions surfaced:**
+
+- **Dynamic graciloplasty** — AGA 2017 Best Practice Advice 8 keeps it as a last-line option; [[acg-2021-anorectal-disorders]] calls its morbidity and mortality unacceptable. **ACG 2021 governs the page** (same tier, newer). Recorded on [[fecal-incontinence]].
+- **Barrier devices** — AGA says they *should be offered*; ACG rates them conditional/very low. ACG 2021 governs; both cite the same 12.5–68% drop-out data.
+- **Brain–gut psychotherapy candidacy** — AGA 2018 says comorbid psychopathology makes these therapies less effective and should be treated first; [[aga-2021-chronic-gi-pain-dgbi]] says raise them at the outset. Both ungraded; 2021 governs *when to raise*, 2018 supplies the *comorbidity sequencing* 2021 does not address.
+
+**Orphans closed:**
+
+- `aga-2018-psychogastroenterology` — was a whole-wiki orphan with 0 inbound links; now cited from 6 entity pages.
+- Whole-wiki broken-link count is **0** (`lintscan.py`), down from 1.
+
+**Hygiene fixes:**
+
+- `aga-2018-esd-united-states` had **no `index.md` row** — ingested at some point without being indexed. Added.
+- Index counts corrected: **331 sources, 637 pages, 51 concepts** (was 329/634/50, stale by this pass's and the previous pass's additions).
+
+**Index:**
+
+- Queue rows **40** and **42** struck, each recording what actually happened rather than what was claimed.
+- New rows for [[brain-gut-behavioral-therapy]], [[aga-2018-psychogastroenterology]], [[aga-2017-surgical-device-fecal-incontinence]], [[aga-2018-esd-united-states]].
+
+**Remaining for triage:**
+
+- **`nejm-2023-fever-returning-traveler` is still a source-page orphan**, and its own *Relevance to Wiki* section is stale: it claims [[fever-returning-traveler]] names it as that page's only source, but the page's frontmatter now lists three other slugs and not this one. The source page also records **Type: Unknown** — it appears to have been written without the document in hand, and no matching file is in `raw/`. Nick's call: supply the article or retire the page.
+- **⚠ The three stalest pages all fabricate the guideline's recommendation scheme — validated this pass, not yet fixed.** `acg-2017-liver-chemistries`, `acg-2019-hereditary-hemochromatosis` and `acg-2020-esophageal-physiologic-testing` (all `updated: 2026-05-28`) were checked line-by-line against their PDFs. Each document numbers and GRADE-rates every recommendation; each page replaced that with an unnumbered paraphrase table carrying the label **`Summary Statement | —`**, a grade category **none of the three documents contains**. This is the `asge-2020-endoscopic-removal` failure mode again.
+  - **`acg-2017-liver-chemistries`** — the document has **19 recommendations, every one "Strong recommendation, very low level of evidence"** (Table 1), plus a separate real *ungraded* "Summary statements" series. The page borrowed the summary-statement name and used it as a grade on 12 paraphrased rows; **none of the 19 appears verbatim or numbered.** Five hard fidelity errors alongside it (congestive heart failure for myocardial infarction; an invented ALT>AST ratio in the hemochromatosis biopsy rule; an SLE association the document explicitly calls *not strong*; "interface hepatitis" and "progressive granulomatous destruction", neither of which is in the text).
+  - **`acg-2019-hereditary-hemochromatosis`** — **10 GRADE-rated recommendations and exactly one key concept**; the page invents four `Summary Statement` rows, merges Recs 7 and 8, and says "several key concepts". It also **omits the treatment-initiation threshold entirely** (serum ferritin >300 ng/mL men / >200 ng/mL women **with** transferrin saturation ≥45%) while giving the target — a decision gap of exactly the kind the Content Guide names.
+  - **`acg-2020-esophageal-physiologic-testing`** — **16 numbered recommendations + 1 deliberately unnumbered FLIP statement + 10 key concepts**; the page drops Recs 1 and 16, mislabels 7 graded recommendations as `Summary Statement`, and promotes Key Concept 9 to a recommendation. Four hard fidelity errors: barium esophagram's 0.69/0.50 performance is **attributed to HRM**; a 32% figure that is **endoscopy's false-positive rate** is attributed to conventional manometry; "AET >4% predicts antireflux surgery outcomes" when the document says *GERD treatment outcome*; and **"AET <4% = physiologic", a cut-point the document never prints**.
+  - **Not fixed this pass — the rewrites are large and the pass ended first.** They are the next pass's first item, ahead of any new ingest. Verbatim replacement text for all three recommendation sets was produced and is reproducible from the PDFs.
+  - **Check for propagation**: the bad numbers may already sit on [[high-resolution-manometry]] (the 0.69/0.50 and 32% figures), [[ambulatory-reflux-monitoring]] (the AET <4% cut-point and the mislabelled grades) and [[autoimmune-hepatitis]] ("interface hepatitis", the SLE association).
+  - Two creatable-from-ingested-sources entity pages surfaced: **`alpha-1-antitrypsin-deficiency`** and **`gilbert-syndrome`**, both referenced in body text with no target, both substantively covered by ACG 2017.
+  - One unsupported claim to delete: `acg-2019-hereditary-hemochromatosis` asserts a conflict with AASLD 2011 "in some threshold nuances"; the ACG document cites AASLD 2011 **supportively** and states no conflict.
+- **Figure capture is still permission-blocked** — `pdftoppm` could not be run, so AGA 2017 Figure 1 was recreated as Mermaid instead of screenshotted. This is the better output for a pure decision tree, but a genuinely pictorial figure would still be unreachable.
+- **Queue remainder: 7 CPU rows + N13.** Items 38 (IBD during COVID-19, low value), 44, 45, 46, 47, 48, and N13 (AGA 2012 NAFLD, oldest document in `raw/`, historical value only). Item 38 was skipped this pass as the lowest-value target, per the high-value-targets rule.
+
+---
+
+## [2026-09-29] lint | Second pass of the day — AGA CPU item 40 ingested (psychogastroenterology); the AGA 2018 functional-GI-symptoms-in-IBD propagation debt cleared; 2026-05-28 source cohort re-validated
+
+*Entry abandoned mid-pass as eight `*(in progress)*` placeholders and reconciled 2026-09-30 against what commit `4c3cb39` actually contains. The original title claimed "items 40 + 42"; only item 40 was ingested.*
 
 **Inbox check:** **No new arrivals.** `raw/` holds **449** non-asset files, matching the audited baseline exactly. `git status` clean; nothing untracked under `raw/` (its content subfolders are git-ignored, so this is expected and is never the detector).
 
-**Ingest slots claimed this pass (2 — the cap):** *(in progress)*
+**Ingest slots claimed (1, not the 2 the title claimed):**
 
-**Propagation debt cleared:** *(in progress)*
+- `AGA 2018 CPU Psychogastroenterology` → `wiki/sources/aga-2018-psychogastroenterology.md` (queue item 40). Five verbatim Best Practice Advice, ungraded; Tables 1–4 captured including the two lay-language patient-education scripts and the CBT-vs-hypnotherapy comparison. **Left unpropagated, unindexed, unstruck and a whole-wiki orphan with a broken `[[brain-gut-behavioral-therapy]]` link — all closed 2026-09-30.**
 
-**Orphans closed:** *(in progress)*
+**Propagation debt cleared:**
 
-**Stalest-page validation:** *(in progress)*
+- [[aga-2018-functional-gi-symptoms-ibd]] — the Figure 1 algorithm and 14 Best Practice Advice reached [[inflammatory-bowel-disease]] (+107 lines), [[crohns-disease]], [[ulcerative-colitis]], [[irritable-bowel-syndrome]].
+- Drug-page propagation from the same source: [[eluxadoline]], [[loperamide]], [[lubiprostone]], [[pamoras]].
+- [[diverticulitis]] updated from [[aga-2021-colonic-diverticulitis]].
 
-**Hygiene fixes:** *(in progress)*
-
-**Index:** *(in progress)*
-
-**Remaining for triage:** *(in progress)*
+**Stalest-page validation:** 24 source pages from the 2026-05-28 cohort re-validated with small corrections (abbreviation first-use expansions, link and citation fixes) — `aasld-2009-liver-biopsy`, `acg-2016-nutrition-hospitalized` (substantially rebuilt, +222 lines), `aga-2019-autoimmune-pancreatitis`, `aga-2024-cvs`, `aga-2024-ibd-malignancy`, `aga-2024-intestinal-ultrasound`, `aga-2024-pcab`, `asge-2023-indeterminate-biliary-strictures`, `wang-2026-eus-ppg-delphi-consensus` and others.
 
 ---
 

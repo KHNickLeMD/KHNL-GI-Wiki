@@ -3,8 +3,8 @@ title: "Irritable Bowel Syndrome"
 category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, diet, fiber, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-09-29
-sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d, aga-2020-sibo, aga-2022-diet-ibs]
+updated: 2026-09-30
+sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d, aga-2020-sibo, aga-2022-diet-ibs, aga-2018-psychogastroenterology]
 ---
 
 ## Contents
@@ -71,6 +71,8 @@ Symptom onset ≥6 months prior to diagnosis.
 > [[rome-v-2026-dgbi|Rome V]] gives the FBDSI / IBS-SSS severity cut-points but not their item weights; assign the stratum from the clinical profile in the table.
 
 - Impact on quality of life (QoL), work, and food avoidance more clinically meaningful than randomized controlled trial (RCT) global response metrics
+- **How far QoL falls:** IBS patients demonstrate **lower QoL than patients with end-stage renal disease and than patients with diabetes** ([[aga-2018-psychogastroenterology]]). Most pronounced impacts: **fatigue, limitation of life activities, pain**.
+- **Symptom-specific anxiety amplifies the burden** and drives higher health care utilization — in a survey of **1242 IBS patients, 43% thought the disorder could develop into colitis and 21% into cancer** ([[aga-2018-psychogastroenterology]]).
 
 ### Classification / Typing
 
@@ -145,7 +147,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 | Antispasmodics (global symptoms) | Against (Conditional/Low) |
 | **tricyclic antidepressants (TCAs)** (amitriptyline 50–100, desipramine 25–100, nortriptyline 25–75) | Strong/Moderate — *also* AGA 2022: suggests using TCAs (Conditional/Low) |
 | selective serotonin reuptake inhibitors (SSRIs) | — (ACG silent); **AGA 2022 suggests AGAINST** (Conditional/Low) |
-| **Gut-directed psychotherapy** (cognitive behavioral therapy (CBT), hypnotherapy, mindfulness) | Conditional/VLow |
+| **[[brain-gut-behavioral-therapy\|Gut-directed psychotherapy]]** (cognitive behavioral therapy (CBT), hypnotherapy, mindfulness) | Conditional/VLow |
 | [[probiotics\|Probiotics]] | Against (Conditional/VLow) |
 | **[[fmt\|fecal microbiota transplantation (FMT)]]** | Strong AGAINST (Strong/VLow) |
 
@@ -193,7 +195,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 ---
 
 ## See Also
-[[disorders-of-gut-brain-interaction]], [[chronic-constipation]], [[abdominal-bloating-and-distention]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[celiac-disease]], [[alpha-gal-syndrome]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[tenapanor]], [[alosetron]], [[eluxadoline]], [[tegaserod]], [[loperamide]], [[probiotics]], [[anorectal-manometry]], [[colonoscopy]], [[fmt]], [[acute-pancreatitis]], [[colon-ischemia]]
+[[disorders-of-gut-brain-interaction]], [[chronic-constipation]], [[abdominal-bloating-and-distention]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[celiac-disease]], [[alpha-gal-syndrome]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[tenapanor]], [[alosetron]], [[eluxadoline]], [[tegaserod]], [[loperamide]], [[probiotics]], [[anorectal-manometry]], [[colonoscopy]], [[fmt]], [[acute-pancreatitis]], [[colon-ischemia]], [[brain-gut-behavioral-therapy]]
 
 ---
 
@@ -208,3 +210,4 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 7. [[aga-2022-diet-ibs|AGA Clinical Practice Update on the Role of Diet in Irritable Bowel Syndrome: Expert Review (2022)]]
 8. [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA Clinical Practice Guidelines on the Laboratory Evaluation of Functional Diarrhea and Diarrhea-Predominant Irritable Bowel Syndrome in Adults (IBS-D) (2019)]]
 9. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease: Expert Review]]
+10. [[aga-2018-psychogastroenterology|Best Practice Update: Incorporating Psychogastroenterology Into Management of Digestive Disorders]]

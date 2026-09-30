@@ -3,8 +3,8 @@ title: "Disorders of Gut–Brain Interaction (DGBI)"
 category: concept
 tags: [DGBI, functional-gi, IBS, rome-criteria, biopsychosocial, brain-gut-axis, motility, visceral-hypersensitivity]
 created: 2026-05-15
-updated: 2026-09-28
-sources: [rome-v-2026-dgbi, aga-2021-chronic-gi-pain-dgbi]
+updated: 2026-09-30
+sources: [rome-v-2026-dgbi, aga-2021-chronic-gi-pain-dgbi, aga-2018-psychogastroenterology]
 ---
 
 ## Contents
@@ -226,6 +226,10 @@ Four messages the patient must hear: (1) chronic DGBI pain is **real**; (2) pain
 
 Brief, evidence-based, highly customizable, well-tolerated with minimal side effects; usable across painful DGBI including IBS, FD, and CAPS. **Raise them at the outset of care** — uptake is better when they do not feel like a last-ditch effort or a punishment for not improving. Identify a few mental health providers to collaborate with; defer the **choice** of modality to them.
 
+- **Two pathways they act on:** (1) abdominal pain, visceral hypersensitivity and GI motility; and/or (2) improved coping, resilience and self-regulation skills ([[aga-2018-psychogastroenterology]]).
+- Structure and core features of each therapy, who delivers them, the referral and communication loop, candidacy, and cost: [[brain-gut-behavioral-therapy]].
+- **Candidacy is the one point on which the two updates differ.** [[aga-2018-psychogastroenterology]] holds these therapies are **less effective with comorbid psychopathology**, and that very pronounced emotional symptoms should be treated **before** GI-focused psychological treatment; the guidance above raises them at the outset regardless. Sequencing detail on [[brain-gut-behavioral-therapy]].
+
 | Therapy | Target / delivery | Evidence |
 |---|---|---|
 | CBT | **4–12 sessions**; remediates pain catastrophizing, pain hypervigilance, visceral anxiety via cognitive reframing, exposure, relaxation training, flexible problem solving | >30 randomized controlled trials (RCTs) in IBS — self-administered, web-based, group, individual |
@@ -305,7 +309,7 @@ Low-dose antidepressants used for their **pain-modifying properties**, independe
 
 ## See Also
 
-[[irritable-bowel-syndrome]], [[dyspepsia]], [[abdominal-bloating-and-distention]], [[gastroparesis]], [[test-and-treat]], [[chronic-idiopathic-constipation]], [[rumination-syndrome]], [[postinfectious-ibs]], [[defecation-disorders]], [[proctalgia-syndromes]], [[fecal-incontinence]], [[nausea-and-vomiting]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[dysphagia]], [[loperamide]], [[biofeedback-therapy]], [[narcotic-bowel-syndrome]], [[ibd-pain-management]], [[functional-heartburn]], [[linaclotide]], [[tenapanor]], [[alosetron]], [[eluxadoline]], [[rifaximin]], [[tegaserod]], [[proton-pump-inhibitors]]
+[[irritable-bowel-syndrome]], [[dyspepsia]], [[abdominal-bloating-and-distention]], [[gastroparesis]], [[test-and-treat]], [[chronic-idiopathic-constipation]], [[rumination-syndrome]], [[postinfectious-ibs]], [[defecation-disorders]], [[proctalgia-syndromes]], [[fecal-incontinence]], [[nausea-and-vomiting]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[dysphagia]], [[loperamide]], [[biofeedback-therapy]], [[narcotic-bowel-syndrome]], [[ibd-pain-management]], [[functional-heartburn]], [[linaclotide]], [[tenapanor]], [[alosetron]], [[eluxadoline]], [[rifaximin]], [[tegaserod]], [[proton-pump-inhibitors]], [[brain-gut-behavioral-therapy]]
 
 ---
 
@@ -313,3 +317,4 @@ Low-dose antidepressants used for their **pain-modifying properties**, independe
 
 1. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
 2. [[aga-2021-chronic-gi-pain-dgbi|AGA Clinical Practice Update on Management of Chronic Gastrointestinal Pain in Disorders of Gut–Brain Interaction: Expert Review]]
+3. [[aga-2018-psychogastroenterology|Best Practice Update: Incorporating Psychogastroenterology Into Management of Digestive Disorders]]

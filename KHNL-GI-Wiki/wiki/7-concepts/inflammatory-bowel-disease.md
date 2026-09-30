@@ -3,8 +3,8 @@ title: "Inflammatory Bowel Disease (IBD) — Overview"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, biologic, immunotherapy]
 created: 2026-05-16
-updated: 2026-09-29
-sources: [aga-2026-inpatient-ibd, aga-2018-functional-gi-symptoms-ibd]
+updated: 2026-09-30
+sources: [aga-2026-inpatient-ibd, aga-2018-functional-gi-symptoms-ibd, aga-2018-psychogastroenterology]
 ---
 
 ## Overview
@@ -52,6 +52,7 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 - Persistent diarrhea and abdominal pain in **16.3%** of IBD patients despite mucosal healing, associated with increased intestinal permeability.
 - An IBS diagnosis in IBD tracked **higher narcotic use** — **17% vs 11% in CD** and **9% vs 5% in UC/indeterminate colitis** (both P < .001).
 - **The stake is overtreatment.** Escalating anti-inflammatory therapy for symptoms driven by functional pathophysiology adds adverse-event risk with no symptomatic benefit. The Crohn's Disease Activity Index (CDAI) can be as high in IBS as in IBD — "no therapeutic decision should be taken based on clinical consideration alone."
+- **Cost concentrates in the psychosocially burdened few: 15% of IBD patients account for approximately 50% of health care expenditures**, apparently driven by concomitant chronic pain, depression and poor social support ([[aga-2018-psychogastroenterology]]).
 
 ### Is It Inflammation? (BPA 1–4)
 
@@ -127,7 +128,7 @@ Therapy is borrowed from IBS — the Update notes "a paucity of randomized contr
 | # | Best practice advice (verbatim) | Where the detail lives |
 |---|---|---|
 | **5** | A low FODMAP diet may be offered for management of functional GI symptoms in IBD with careful attention to nutritional adequacy. | [[low-fodmap-diet]] |
-| **6** | Psychological therapies (cognitive behavioural therapy, hypnotherapy, mindfulness therapy) should be considered in IBD patients with functional symptoms. | [[ibd-pain-management]] |
+| **6** | Psychological therapies (cognitive behavioural therapy, hypnotherapy, mindfulness therapy) should be considered in IBD patients with functional symptoms. | [[ibd-pain-management]], [[brain-gut-behavioral-therapy]] |
 | **7** | Osmotic and stimulant laxative should be offered to IBD patients with chronic constipation. | [[chronic-constipation]] |
 | **8** | Hypomotility agents or bile-acid sequestrants may be used for chronic diarrhea in quiescent IBD. | [[bile-acid-diarrhea]], [[loperamide]] |
 | **9** | Antispasmodics, neuropathic-directed agents, and anti-depressants should be used for functional pain in IBD while use of opiates should be avoided. | [[ibd-pain-management]] |
@@ -143,7 +144,7 @@ Therapy is borrowed from IBS — the Update notes "a paucity of randomized contr
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[thiopurines]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[ibd-in-malignancy]], [[nutrition-in-ibd]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[disorders-of-gut-brain-interaction]], [[drug-induced-liver-injury]], [[nutrition-in-hospitalized-patients]], [[colorectal-cancer]], [[pouchitis]], [[uc-vs-crohns-comparison]], [[probiotics]], [[anticoagulation-gi-bleeding]], [[anal-cancer-screening]], [[colonoscopy]], [[calcineurin-inhibitors]], [[jak-inhibitors]], [[ibd-in-older-adults]], [[irritable-bowel-syndrome]], [[low-fodmap-diet]], [[bile-acid-diarrhea]], [[small-intestinal-bacterial-overgrowth]], [[exocrine-pancreatic-insufficiency]], [[defecation-disorders]], [[chronic-constipation]], [[celiac-disease]], [[fmt]], [[loperamide]]
+[[crohns-disease]], [[ulcerative-colitis]], [[thiopurines]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[ibd-in-malignancy]], [[nutrition-in-ibd]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[disorders-of-gut-brain-interaction]], [[drug-induced-liver-injury]], [[nutrition-in-hospitalized-patients]], [[colorectal-cancer]], [[pouchitis]], [[uc-vs-crohns-comparison]], [[probiotics]], [[anticoagulation-gi-bleeding]], [[anal-cancer-screening]], [[colonoscopy]], [[calcineurin-inhibitors]], [[jak-inhibitors]], [[ibd-in-older-adults]], [[irritable-bowel-syndrome]], [[low-fodmap-diet]], [[bile-acid-diarrhea]], [[small-intestinal-bacterial-overgrowth]], [[exocrine-pancreatic-insufficiency]], [[defecation-disorders]], [[chronic-constipation]], [[celiac-disease]], [[fmt]], [[loperamide]], [[brain-gut-behavioral-therapy]]
 
 ---
 
@@ -151,3 +152,4 @@ Therapy is borrowed from IBS — the Update notes "a paucity of randomized contr
 
 1. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review (2026)]]
 2. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease: Expert Review]]
+3. [[aga-2018-psychogastroenterology|Best Practice Update: Incorporating Psychogastroenterology Into Management of Digestive Disorders]]

@@ -3,8 +3,8 @@ title: "Functional Heartburn"
 category: disease-script
 tags: [functional-heartburn, reflux-hypersensitivity, gerd, nerd, dgbi, esophageal, acid-exposure-time, neuromodulators]
 created: 2026-09-10
-updated: 2026-09-10
-sources: [aga-2020-functional-heartburn, aga-2022-personalized-gerd]
+updated: 2026-09-30
+sources: [aga-2020-functional-heartburn, aga-2022-personalized-gerd, aga-2018-psychogastroenterology]
 ---
 
 ## Contents
@@ -160,6 +160,7 @@ Acid suppression is not the ladder. Neuromodulators are, with behavioral and com
 ### What Not to Do
 
 - **[[proton-pump-inhibitors\|PPIs]] have no therapeutic value** in functional heartburn — the sole exception being proven GERD that overlaps with it. Where no conclusive GERD evidence exists, **an attempt to discontinue PPI therapy is warranted**; where overlap is demonstrated on endoscopy and/or reflux monitoring, PPI can be **maintained** while targeted therapy is started.
+  - Continuing anyway is not neutral — in functional heartburn and reflux hypersensitivity patients **acquire risk from unnecessary long-term PPI use** when esophageal hypervigilance overshadows the symptom–reflux correlation ([[aga-2018-psychogastroenterology]]).
 - **[[antireflux-surgery\|Anti-reflux surgery]] and endoscopic GERD treatment modalities have no therapeutic benefit and should not be recommended.** Normal preoperative esophageal acid exposure is itself a risk factor for poor outcome after surgical fundoplication.
 
 ### Neuromodulators — First-Line
@@ -185,7 +186,7 @@ Despite the limited number of trials, neuromodulators are considered to have a t
 - **Acupuncture and hypnotherapy** may have benefit as **monotherapy**, or as **adjunctive** therapy combined with other modalities.
   - Acupuncture: 30 heartburn patients failing standard-dose PPI randomised to add-on acupuncture (**10 sessions over 4 weeks**) vs double-dose PPI — significant decrease in mean daytime heartburn, night-time heartburn, and acid regurgitation scores vs double-dose PPI; mean general health score improved only in the acupuncture arm. What proportion of participants had functional heartburn alone vs overlapping GERD is unclear.
   - Hypnotherapy: 9 patients, **7 weekly** esophageal-directed sessions — well tolerated, with significant improvement in heartburn symptoms, visceral anxiety, and quality of life, and a trend toward improvement in catastrophizing.
-- Pharmacologic neuromodulation and/or referral to a **behavioral therapist** for hypnotherapy, **cognitive behavioral therapy**, **diaphragmatic breathing**, and relaxation strategies is advised in functional heartburn and in reflux disease associated with esophageal hypervigilance, reflux hypersensitivity, and/or behavioral disorders ([[aga-2022-personalized-gerd]]). These are administered by clinical health psychologists or other mental health professionals with specialized training.
+- Pharmacologic neuromodulation and/or referral to a **[[brain-gut-behavioral-therapy|behavioral therapist]]** for hypnotherapy, **cognitive behavioral therapy**, **diaphragmatic breathing**, and relaxation strategies is advised in functional heartburn and in reflux disease associated with esophageal hypervigilance, reflux hypersensitivity, and/or behavioral disorders ([[aga-2022-personalized-gerd]]). These are administered by clinical health psychologists or other mental health professionals with specialized training.
 
 ### Lifestyle
 
@@ -203,7 +204,7 @@ Despite the limited number of trials, neuromodulators are considered to have a t
 
 ## See Also
 
-[[gerd]], [[dyspepsia]], [[disorders-of-gut-brain-interaction]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[high-resolution-manometry]], [[upper-endoscopy]], [[eosinophilic-esophagitis]], [[achalasia]], [[ineffective-esophageal-motility]], [[barretts-esophagus]], [[proton-pump-inhibitors]], [[tegaserod]], [[antireflux-surgery]], [[irritable-bowel-syndrome]], [[extraesophageal-reflux]]
+[[gerd]], [[dyspepsia]], [[disorders-of-gut-brain-interaction]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[high-resolution-manometry]], [[upper-endoscopy]], [[eosinophilic-esophagitis]], [[achalasia]], [[ineffective-esophageal-motility]], [[barretts-esophagus]], [[proton-pump-inhibitors]], [[tegaserod]], [[antireflux-surgery]], [[irritable-bowel-syndrome]], [[extraesophageal-reflux]], [[brain-gut-behavioral-therapy]]
 
 ---
 
@@ -211,3 +212,4 @@ Despite the limited number of trials, neuromodulators are considered to have a t
 
 1. [[aga-2020-functional-heartburn|AGA Clinical Practice Update on Functional Heartburn: Expert Review (2020)]]
 2. [[aga-2022-personalized-gerd|AGA Clinical Practice Update on the Personalized Approach to the Evaluation and Management of GERD: Expert Review (2022)]]
+3. [[aga-2018-psychogastroenterology|Best Practice Update: Incorporating Psychogastroenterology Into Management of Digestive Disorders]]

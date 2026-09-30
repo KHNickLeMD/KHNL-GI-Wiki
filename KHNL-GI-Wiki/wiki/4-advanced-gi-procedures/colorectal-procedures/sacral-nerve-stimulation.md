@@ -4,7 +4,7 @@ category: advanced-procedure
 tags: [sacral-nerve-stimulation, sns, neuromodulation, fecal-incontinence, constipation, pelvic-floor, anorectal, implantable-device]
 created: 2026-06-01
 updated: 2026-09-03
-sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation]
+sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation, aga-2017-surgical-device-fecal-incontinence]
 ---
 
 *Implanted sacral neuromodulation device — peripheral nerve stimulation of the **S3 or S4 nerve roots** in the sacral foramina ([[acg-2021-anorectal-disorders]]). **Strong recommendation for moderate–severe [[fecal-incontinence|fecal incontinence (FI)]] failing conservative measures; explicitly NOT recommended for constipation.** A temporary trial phase precedes permanent implantation.*
@@ -67,7 +67,11 @@ These are the patients in whom the Strong recommendation is *not* supported by t
 1. **Temporary trial** (2–3 weeks) — **90% responder rate** at this stage ([[acg-2021-anorectal-disorders]]).
 2. **Permanent implantation** in responders — *"patients whose symptoms respond to temporary SNS for 2–3 weeks have the device implanted in their abdomen."*
 
-> **"Responder" is not defined for the trial phase.** [[acg-2021-anorectal-disorders]] states the two-stage rule but **never gives a numeric threshold for responding to the temporary lead**. The **≥50% reduction in incontinent episodes/week** figure in [[#Outcomes]] is the guideline's definition of *therapeutic success at 3-year follow-up in already-implanted patients* — it is **not** stated as the implantation gate. The trial-phase criterion comes from the pivotal North American multicenter study (Wexner/Hull). Practically, keep a symptom diary across the trial period and document the comparison you used.
+**The implantation gate:** stimulation is provided by an **external stimulator for 2 to 3 weeks**; **if the frequency of FI decreases by 50% or more, a stimulator is implanted permanently beneath the skin** ([[aga-2017-surgical-device-fecal-incontinence]]). Keep a symptom diary across the trial period to make the comparison.
+
+> ACG 2021 states the two-stage rule without a numeric trial-phase threshold; the ≥50% gate above is AGA 2017's. The separate **≥50% reduction in incontinent episodes/week** figure in [[#Outcomes]] is *therapeutic success at 3-year follow-up in already-implanted patients* — the same cut-point used for a different question.
+
+- **Battery life:** batteries must be replaced after approximately **7 years** ([[aga-2017-surgical-device-fecal-incontinence]]).
 
 ---
 
@@ -127,3 +131,4 @@ For FI failing conservative therapy ([[acg-2021-anorectal-disorders]]):
 
 1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 2. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review]]
+3. [[aga-2017-surgical-device-fecal-incontinence|Surgical Interventions and the Use of Device-Aided Therapy for the Treatment of Fecal Incontinence and Defecatory Disorders]]

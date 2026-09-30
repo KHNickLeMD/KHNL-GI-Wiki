@@ -3,8 +3,8 @@ title: "Defecation Disorders (Dyssynergic Defecation)"
 category: disease-script
 tags: [defecation-disorder, dyssynergia, outlet-obstruction, biofeedback, anorectal-manometry, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-09-29
-sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-dgbi]
+updated: 2026-09-30
+sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-dgbi, aga-2017-surgical-device-fecal-incontinence]
 ---
 
 ## Contents
@@ -179,7 +179,24 @@ Severity based on symptom burden, laxative dependence, impact on quality of life
 - *Caveat printed in the guideline: others hold that **size alone is not a criterion** for surgery.*
 - Rectoceles are commonly found in **asymptomatic** women and usually need no surgery.
 
-**[[sacral-nerve-stimulation|Sacral nerve stimulation]] (SNS) for constipation:** NOT effective (Strong/Low from RCT data) — do not use for DD or slow-transit constipation.
+**[[sacral-nerve-stimulation|Sacral nerve stimulation]] (SNS) for constipation:** NOT effective (Strong/Low from RCT data) — do not use for DD or slow-transit constipation. **AGA 2017 Best Practice Advice 13 agrees**: based on limited evidence, SNS should not be used for managing defecatory disorders in clinical practice ([[aga-2017-surgical-device-fecal-incontinence]]). The decisive trial was an 18-week randomized, double-blind, placebo-controlled cross-over study in 55 patients with medically refractory slow-transit constipation and normal anorectal function, in which **neither subsensory nor suprasensory SNS increased the proportion of complete bowel movements versus sham**.
+
+**Anterograde colonic enemas — not an effective long-term solution in adults (Best Practice Advice 14)** ([[aga-2017-surgical-device-fecal-incontinence]]):
+
+- Delivered via a Malone appendicostomy or a **button cecostomy device** placed colonoscopically/percutaneously
+- Adult success ~**50%**, versus **80% in children**; follow-up in the published series was short
+- **>50% fail to effectively treat symptoms by 3 years**, requiring revision, reversal or conversion to a formal stoma; stoma stenosis and leakage are the other long-term complications
+- Does not address the primary dysfunction (pelvic floor dysfunction) — the stated reason it fails
+
+**STARR — why AGA 2017 advises against routine use (Best Practice Advice 15).** Read alongside the STARR row above, which reports the European efficacy data ([[aga-2017-surgical-device-fecal-incontinence]]):
+
+- Multicenter RCT, 119 patients with rectal intussusception or rectocele: **82% (44/54) STARR vs 33% (13/39) biofeedback achieved >50% reduction in obstructed-defecation scores at 1 year** — but **25% of biofeedback patients withdrew** before finishing treatment
+- **15% (8/52) of STARR patients had adverse events** (infection, pain, incontinence, bleeding, urinary tract infection, depression), occasionally severe and requiring further surgery, vs **1 biofeedback patient** with anal pain; fistula, peritonitis and bowel perforation also reported
+- **Correlation between symptoms and rectocele size is weak, and between symptom improvement and anatomic improvement also weak** — in both directions
+- The structural lesions are probably **caused** by the underlying functional disorder (impaired pelvic floor relaxation, excessive straining), **which the procedure does not correct**
+- **Surgery is needed in <5% of patients with DD** in the authors' experience — generally those with considerable pelvic organ and/or rectal prolapse
+
+**Grading [[rectal-prolapse|rectal prolapse]] for surgery** ([[aga-2017-surgical-device-fecal-incontinence]]): **asymptomatic grades 1–2 do not require surgery** — manage conservatively and/or with biofeedback to correct underlying dyssynergia. **Symptomatic grades 3–4 require surgery.** Bowel resection during rectopexy lowers constipation rates but **should be avoided with pre-existing diarrhea or incontinence**, which it may worsen.
 
 ---
 
@@ -193,3 +210,4 @@ Severity based on symptom burden, laxative dependence, impact on quality of life
 1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 2. [[aga-acg-2023-constipation|AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation]]
 3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+4. [[aga-2017-surgical-device-fecal-incontinence|Surgical Interventions and the Use of Device-Aided Therapy for the Treatment of Fecal Incontinence and Defecatory Disorders]]
