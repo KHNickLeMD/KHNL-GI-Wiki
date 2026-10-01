@@ -3,7 +3,7 @@ title: "Drug-Induced Liver Injury (Idiosyncratic)"
 category: disease-script
 tags: [dili, drug-induced-liver-injury, hepatotoxicity, hds, ici, immune-checkpoint, hpb, liver]
 created: 2026-05-16
-updated: 2026-09-06
+updated: 2026-10-01
 sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
 ---
 
@@ -48,7 +48,7 @@ Corollary: if drug-induced hepatocellular injury causes [[jaundice]], **~1 in 10
 
 **Outcome benchmarks** ([[acg-2021-dili]]): outcomes of idiosyncratic DILI are relatively favorable — only ~10% reach the ALF threshold (coagulopathy + encephalopathy) and <20% develop chronic liver injury. Once DILI causes ALF the prognosis is poor: **40% require liver transplant, 42% die**; advanced coma grade and high MELD predict poor outcome. In the US ALF Study Group, 11% of ALF cases were adjudicated as DILI, with 3-week transplant-free survival of only 27%.
 
-> ⚠ **No formal DILI severity grading scale is reproduced here.** The Drug-Induced Liver Injury Network (DILIN) 1–5 severity grades are referenced widely in practice, but neither [[acg-2021-dili]] nor [[aasld-2022-dili]] prints the grade definitions; they are in the original DILIN severity-scale paper.
+Neither [[acg-2021-dili]] nor [[aasld-2022-dili]] prints the Drug-Induced Liver Injury Network (DILIN) 1–5 severity grade definitions. Grade severity instead from Hy's law, jaundice, coagulopathy plus encephalopathy (the ALF threshold), MELD, and the models above.
 
 ### Classification / Typing
 
@@ -102,7 +102,7 @@ Corollary: if drug-induced hepatocellular injury causes [[jaundice]], **~1 in 10
 
 ### Causality Assessment — RUCAM
 
-Roussel Uclaf Causality Assessment Method — **point sum**, not an "any one of" checklist. Updated RUCAM score range **−9 to +14** ([[aasld-2022-dili]], Table 5):
+Roussel Uclaf Causality Assessment Method — **point sum**, not an "any one of" checklist. Updated (2016) RUCAM score range **−9 to +14** ([[aasld-2022-dili]], Table 5); the original RUCAM form, which [[acg-2021-dili]] scores, runs **−10 to +14**. The likelihood bands below are identical on both versions:
 
 | RUCAM total | DILI likelihood |
 |---|---|
@@ -148,9 +148,11 @@ All thresholds below are judged **despite having stopped the suspected offending
 
 ### Corticosteroids
 
-- No RCT evidence for or against corticosteroids in DILI
-- **May be considered for DILI exhibiting AIH-like features**: Conditional/Low
-- Early ALT response to steroids may help distinguish AIH from DILI-AIH overlap
+- **There are no well-conducted studies to either recommend or refute corticosteroid therapy in DILI** (Rec 9, Conditional / Low) — a deliberate non-recommendation, not an endorsement. No randomized trial has evaluated efficacy or safety; a limited number of retrospective studies suggested improvement, while others found no improvement and/or increased adverse events ([[acg-2021-dili]])
+- The one affirmative clause: steroids **may be considered in the subset of patients with DILI exhibiting AIH-like features**
+- No dose, route, or duration for corticosteroids in DILI is given
+- Early ALT response to corticosteroid therapy may help distinguish DILI from AIH
+- Chronic DILI may resemble AIH and might respond to corticosteroids
 
 ### Rechallenge
 
@@ -188,7 +190,7 @@ Common Terminology Criteria for Adverse Events (CTCAE) grade criteria (ALT / bil
 - **American Association for the Study of Liver Diseases (AASLD) guidance statement 57:** **annual liver elastography** is recommended to monitor hepatotoxicity of drugs like methotrexate that cause *silent fibrosis* — explicitly **not** generalizable to most other DILI-causing drugs.
 - 2021 ACR guidance restricts methotrexate in suspected [[nafld-masld|nonalcoholic fatty liver disease (NAFLD)]] to those with **normal liver tests and no advanced fibrosis (stage 3–4)** on noninvasive testing.
 - Liver biopsy otherwise reserved for abnormal elastography or persistent liver test elevations.
-- ⚠ [[acg-2021-dili]] names the **Roenigk Classification System** as the recognized histologic grading system for methotrexate-induced fibrosis/fatty change but does not give the grade criteria; they are in the original Roenigk paper.
+- The **Roenigk Classification System** is the recognized histologic grading system for methotrexate-induced fibrosis and fatty change ([[acg-2021-dili]]); ACG 2021 does not print its grade criteria. For other agents, risk stratification rests on the degree of necrosis and fibrosis — hepatic eosinophils and lesser degrees of necrosis predict greater likelihood of recovery.
 
 ### Isoniazid — monitoring ([[aasld-2022-dili]])
 

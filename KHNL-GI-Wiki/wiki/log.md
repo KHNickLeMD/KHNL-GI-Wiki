@@ -6,6 +6,16 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-01] lint | Second pass — tier-1 ingest queue worked to its last row; USMSTF surveillance + AGA GIM source pages validated; the prior entry's triage list cleared
+
+**Inbox check:** **No new arrivals.** All 14 `raw/` subfolder counts match the audited baseline exactly — AGA 189, ACG 61, Lectures 60, ASGE 50, AASLD 35, Other 20, RCTs 12, NCCN 7, `GI Other Studies` 6, SAGES 3, EASL 2, AFS 2, USPG 1, APA 1 = **449** non-asset files. `git status` clean; nothing untracked under `raw/` (content subfolders are git-ignored — never the detector). No files sit loose directly in `raw/`.
+
+**Whole-wiki scan (`lintscan.py`):** **0 broken links · 0 non-source orphans · 0 stubs · 0 unescaped alias pipes · no OS artifacts.** 644 pages / 335 sources.
+
+*(entry in progress — bullets appended as each item lands)*
+
+---
+
 ## [2026-10-01] lint | Bariatric ingest propagated and indexed; the 2026-09-30 "unfinished" list reconciled against disk; ACG/CAG dyspepsia rebuilt verbatim; queue items 46+47 ingested
 
 **Inbox check:** **No new arrivals.** All 14 `raw/` subfolder counts match the audited baseline exactly — AGA 189, ACG 61, Lectures 60, ASGE 50, AASLD 35, Other 20, RCTs 12, NCCN 7, `GI Other Studies` 6, SAGES 3, EASL 2, AFS 2, USPG 1, APA 1 = **449** non-asset files. `git status` clean; nothing untracked under `raw/`, which is expected (content subfolders are git-ignored) and is never the detector. No files sit loose directly in `raw/`.

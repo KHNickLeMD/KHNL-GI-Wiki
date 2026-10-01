@@ -90,7 +90,13 @@ A low-quality exam warrants earlier repeat rather than the interval below.
 
 **HP counts that cross into [[serrated-polyposis-syndrome|serrated polyposis syndrome]]** — and so out of these tables — are >20 cumulative HPs throughout the colon with ≥5 proximal to the rectum, or 5 serrated polyps proximal to the rectum >5 mm with ≥2 being ≥10 mm.
 
-Piecemeal removal of a ≥20 mm lesion is the one finding that overrides the size/histology grid above — the 6-month exam is to confirm the [[endoscopic-mucosal-resection|endoscopic mucosal resection (EMR)]] site is clear, not to re-stratify risk.
+Piecemeal removal of a ≥20 mm lesion is the one finding that overrides the size/histology grid above — the 6-month exam is to confirm the [[endoscopic-mucosal-resection|endoscopic mucosal resection (EMR)]] site is clear, not to re-stratify risk. **It is a three-exam sequence, not a single catch-up scope:**
+
+- **First surveillance at ~6 months**
+- **Second surveillance 1 year after the first**
+- **Third surveillance 3 years after the second**
+
+USMSTF writes this threshold as **>20 mm** in the recommendation text and **≥20 mm** in Tables 4 and 5, and does not reconcile the two. Recurrent neoplasia after piecemeal resection is 20% vs 3% after en bloc resection (meta-analysis, 33 studies); for 10–20 mm polyps removed piecemeal by EMR the risk is 18%, similar to the 19% seen at 20–30 mm and >30 mm.
 
 ## Serial (Second) Surveillance
 

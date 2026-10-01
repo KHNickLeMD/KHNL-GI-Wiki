@@ -3,7 +3,7 @@ title: "Gastric Intestinal Metaplasia"
 category: disease-script
 tags: [gastric-intestinal-metaplasia, gim, gastric-cancer, h-pylori, correa-cascade, premalignant, foregut, gastric]
 created: 2026-05-16
-updated: 2026-09-03
+updated: 2026-10-01
 sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant, aga-2021-atrophic-gastritis, aga-2026-gastric-polyps]
 ---
 
@@ -42,10 +42,11 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant,
 
 **GIM extent and type:**
 
-- **Limited GIM:** antrum only → lower risk
-- **Extensive (corpus-involving) GIM:** ~2-fold increased gastric cancer (GC) risk vs. limited
-- **Complete-type (type I):** small intestinal phenotype; lower risk
-- **Incomplete-type (types IIa/IIb/III):** colonic phenotype; ~3-fold increased GC risk vs. complete-type; associated with progression to dysplasia
+- **Limited GIM:** gastric **antrum and/or incisura only** → lower risk
+- **Extensive GIM:** involving the **gastric body plus either antrum and/or incisura** → **RR 2.07 (95% CI 0.97–4.42)** for incident gastric cancer (GC) vs limited, 2 studies, very low quality ([[aga-2020-gastric-intestinal-metaplasia]])
+- **Complete type:** small intestinal phenotype; lower risk
+- **Incomplete type:** at least partial **colonic** phenotype; **RR 3.33 (95% CI 1.96–5.64)** for incident GC vs complete type, 7 studies, low quality — the strongest GIM-specific risk factor. None of those studies were from the US, and US pathologists rarely report subtype in routine practice
+- **Family history of GC in a first-degree relative:** **RR 4.53 (95% CI 1.33–15.46)**, 3 studies, very low quality
 
 **Histologic severity — a third axis, graded by proportion of glands involved** ([[acg-2025-gastric-premalignant]]): **mild ≤1/3**, **moderate ≤2/3**, **severe >2/3**, assessed within individual biopsies from **each** compartment (antrum, incisura, corpus). Severity predicts progression **independently of anatomic extent** — do not downgrade moderate-to-severe antrum-limited GIM to low risk.
 
@@ -110,8 +111,10 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant,
 
 **Strong recommendation, Moderate evidence (AGA 2020):**
 
-- H. pylori eradication in GIM patients → pooled relative risk (RR) 0.68 (32% reduction) in GC incidence; RR 0.67 in GC mortality
-- Test all GIM patients; treat if positive
+- Eradication in individuals **with or without GIM** → pooled RR **0.68 (95% CI 0.48–0.96)**, a 32% reduction in incident GC; GC mortality RR **0.67 (95% CI 0.38–1.17)**
+- Restricted to **confirmed GIM**, the effect is directionally similar but not significant — RR **0.76 (95% CI 0.36–1.61)**; mortality data in confirmed GIM were insufficient. This is why the evidence is graded moderate rather than high
+- Test all GIM patients; treat if positive; **confirm eradication** (failure rates with current therapies are high)
+- Whether GIM itself regresses after eradication is unsettled — some studies show improvement or reversal, others show persistence or continued progression
 - Refer to [[helicobacter-pylori-infection]] for current eradication regimens. **Note the regimen landscape changed after AGA 2020:** ACG 2024 makes optimized [[bismuth-quadruple-therapy|bismuth quadruple therapy]] the only Strong first-line recommendation and removes empiric proton pump inhibitor (PPI)–clarithromycin triple therapy given US clarithromycin resistance
 
 ### 2. Surveillance Endoscopy — Guideline Disagreement
@@ -120,7 +123,7 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant,
 
 | Guideline | Recommendation |
 |-----------|---------------|
-| **AGA 2020** | AGAINST routine surveillance (Conditional/Very Low); shared decision-making for high-risk patients; if surveillance done, q3–5y with antrum + body biopsies |
+| **AGA 2020** | AGAINST routine surveillance (Conditional/Very Low); shared decision-making for high-risk patients; if surveillance done, q3–5y with careful mucosal visualization and biopsies of antrum + body + any concerning lesion. Also AGAINST routine short-interval (<1y) repeat endoscopy with biopsies for risk stratification (Conditional/Very Low), with shared decision-making where there are high-risk stigmata (e.g. nodularity), concerns about completeness of the baseline exam, or overall increased GC risk. AGA separates **GIM-specific** risk (incomplete type, extensive, family history) from **overall** GC risk (racial/ethnic minorities, immigrants from high-incidence regions) and does not use OLGA/OLGIM in its own recommendations |
 | **ACG 2025 GPMC** | Surveillance **q3y for high-risk GIM** and for severe GIM/atrophic gastritis (AG) in antrum or corpus (both Conditional/Very Low); **against surveillance for low-risk GIM or mild AG** |
 | **AGA 2021 Atrophic Gastritis** | Surveillance at 3 years for OLGA/OLGIM III/IV |
 | **European Society of Gastrointestinal Endoscopy (ESGE)** *(as summarized in [[aga-2020-gastric-intestinal-metaplasia]])* | Strong rec: surveillance **every 3 years** for severe gastric atrophy or GIM in **both antrum and body** and/or OLGA/OLGIM III–IV. Weak rec: surveillance at 3 years for **single-location GIM plus** family history of GC, incomplete GIM, or persistent H. pylori gastritis. Weak rec: consider **1–2-year** surveillance for family history plus those findings. GIM at a single location alone does **not** justify surveillance in most cases |

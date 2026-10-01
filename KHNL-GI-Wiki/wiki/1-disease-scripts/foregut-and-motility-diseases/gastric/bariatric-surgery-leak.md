@@ -3,7 +3,7 @@ title: "Staple-Line Leak After Bariatric Surgery"
 category: disease-script
 tags: [bariatric, staple-line-leak, sleeve-gastrectomy, gastric-bypass, stent, endoscopic-vacuum-therapy, septotomy, obesity]
 created: 2026-09-30
-updated: 2026-09-30
+updated: 2026-10-01
 sources: [aga-2021-early-complications-bariatric-surgery]
 ---
 
@@ -49,7 +49,7 @@ sources: [aga-2021-early-complications-bariatric-surgery]
 | Axis | Strata | Why it decides |
 |---|---|---|
 | **Defect size** | **<10 mm** vs **>10 mm** | Larger orifices favor septotomy over double pigtail stents |
-| **Interval since surgery** | **<6 weeks** (early/acute) vs **>6 weeks** (mature) | Endoscopic approaches are generally **more successful for early and acute leaks**; after 6 weeks the leak site is mature and epithelialized, so keeping the fistula open beats closing it |
+| **Interval since surgery** | **<6 weeks** (early/acute) vs **>6 weeks** (mature) | Endoscopic approaches are generally **more successful for early and acute leaks**; attempts to close the leak site may not be ideal after 6 weeks, when it is mature and epithelialized, so internal drainage ("keeping the fistula open") **may be a superior approach** to closing the orifice |
 | **Downstream stenosis** | **Negligible** vs **present** | Stenosis must be dilated or stented or internal drainage cannot work |
 
 ---
@@ -81,6 +81,12 @@ Other early (<90 day) complications of bariatric/metabolic surgery ([[bariatric-
 ## Therapeutics
 
 **The goal is not initial closure of the leak site.** It is to make intragastric pressure lower than pressure in the perigastric collection so contents drain preferentially into the stomach and the leak closes by **secondary intention** ([[aga-2021-early-complications-bariatric-surgery]], Best Practice Advice 7). Oral contents likewise flow down the stomach rather than against a pressure gradient through the leak.
+
+**Why primary closure fails.** Historically treatment aimed at percutaneous drainage (interventional radiology or surgical) followed by endoscopic closure of the leak — endoscopic suturing and over-the-scope clip (OTSC). **Recurrent leak is frequent when primary-closure methods are used in isolation**, for three reasons:
+
+- **Poor integrity of the tissue surrounding the leak**, from ischemia and inflammation.
+- **Difficulty obtaining a perpendicular endoscopic view** of the leak for optimal repair.
+- **Failure to address high intraluminal pressure** caused by downstream gastric stenosis or anastomotic stricture.
 
 Care is delivered **multidisciplinary** — interventional radiology and bariatric/metabolic surgery co-managing, with **daily communication** advised.
 
@@ -139,7 +145,7 @@ Adjuncts before or alongside any of the three techniques:
 |---|---|---|
 | **Double pigtail stents** through the leak | **7F × 3 cm or 7F × 5 cm** (short, small-caliber, to limit gastric and extragastric damage); 1 or 2 stents depending on orifice size; **routine exchange every 2–4 weeks** until the cavity has contracted and is too small to accommodate a stent (**usually <2 cm**) | Small-caliber tract connecting the leak to the collection. Frequent exchanges also give repeat chances to treat downstream stenosis or a GJ anastomotic stricture |
 | **Septotomy** (as for a Zenker's diverticulum) — cut the septum along the staple line to the **base** of the perigastric cavity to equalize gastric and perigastric pressures | **Cautery-enhanced through-the-scope (TTS) scissors** are the current best accessory; ideally the entire septum is cut in a single session. Bleeding at the staple line is rare; safe **as long as the cut does not extend beyond the base of the cavity** | Large leak orifices, and collections in immediate proximity to the stomach — may be superior to double pigtail stenting here |
-| **Endoscopic vacuum therapy (EVT)** — sponge on a nasogastric tube, **success rates exceeding 80%** | **Intracavitary:** sponge placed through the leak orifice into the cavity; negative pressure drains infection and improves tissue perfusion; a traditional sponge must be **replaced every 3 days** to avoid adherence to tissue. **Handmade open-pore film drainage system** (gauze wrapped around a nasogastric tube, then wrapped in thin plastic film) is smaller, less adhesive, reduces tissue ingrowth and bleeding on removal, and is **replaced every 7 days**. **Intraluminal:** sponge sits in the gastric lumen overlying the leak, avoiding the need to dilate a small leak orifice to place the sponge | Increasingly used for both early and mature leaks; intraluminal form preferred for small defects |
+| **Endoscopic vacuum therapy (EVT)** — sponge on a nasogastric tube, **success rates exceeding 80%** | **Intracavitary:** sponge placed through the leak orifice into the cavity; negative pressure drains infection and improves tissue perfusion; a traditional sponge must be **replaced every 3 days** to avoid adherence to tissue. **Handmade open-pore film drainage system** (gauze wrapped around a nasogastric tube, then wrapped in thin plastic film) is smaller, less adhesive, reduces tissue ingrowth and bleeding on removal, and is **replaced every 7 days**. **Intraluminal:** sponge sits in the gastric lumen overlying the leak — **avoids the need to dilate the leak orifice to place the sponge system when the defect is small** | Increasingly used. Offered in both the <6-week and >6-week arms of the algorithm above; AGA 2021 gives no head-to-head comparison against the other two techniques |
 
 ### Salvage and Surgery
 

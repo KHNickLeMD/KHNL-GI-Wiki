@@ -330,7 +330,7 @@ All **16 numbered recommendations** reproduced verbatim or near-verbatim with th
 | 6 | "We recommend promptly stopping suspected agent(s) in individuals with suspected DILI, especially when liver biochemistries are rising rapidly or there is evidence of liver dysfunction." | Strong | Low |
 | 7 | "Although no definitive therapies are available either for idiosyncratic DILI with or without ALF, we suggest consideration of NAC treatment in adults with early stage ALF, given its good safety profile and some evidence for efficacy in early coma stage patients." | Conditional | Low |
 | 8 | "We suggest against using NAC for children with severe DILI leading to ALF." | Conditional | Low |
-| 9 | "**There are no well-conducted studies to either recommend or refute corticosteroid therapy in patients with DILI.** However, they may be considered in a subset of patients with DILI exhibiting AIH-like features." | Conditional | **Very low** |
+| 9 | "**There are no well-conducted studies to either recommend or refute corticosteroid therapy in patients with DILI.** However, they may be considered in a subset of patients with DILI exhibiting AIH-like features." | Conditional | Low |
 
 ### 10–13. HDS-induced liver injury
 
@@ -411,7 +411,8 @@ Ungraded by design — 7 boxes, 23 statements, renumbered within each box.
 ## Contradictions / Open Questions
 
 - **Internal inconsistency in the *R*-value cut-points.** Table 3 defines hepatocellular *R* > 5, mixed *R* = 2–5, cholestatic *R* < 2; Figure 1 strata are *R* ≥ 5, 2 < *R* < 5, and *R* ≤ 2. The figure caption concedes the cutoffs "serve only as a guideline." Table 3's boundaries (*R* > 5 / 2–5 / *R* < 2) are the form used throughout this page.
-- **RUCAM score range.** This guideline gives **−10 to +14**; [[aasld-2022-dili]] gives the updated RUCAM range as **−9 to +14**. Band labels agree (≤0 excluded, 1–2 unlikely, 3–5 possible, 6–8 probable, ≥9 highly probable).
+- **RUCAM score range — two versions of the instrument, not a disagreement.** This guideline scores the **original RUCAM, range −10 to +14**; [[aasld-2022-dili]] scores the **2016 updated RUCAM, range −9 to +14**, and itself states the original ran −10 to +14. Band labels are identical in both (≤0 excluded, 1–2 unlikely, 3–5 possible, 6–8 probable, ≥9 highly probable), so causality grading is unaffected; only the floor of the scale differs.
+- **Recommendation 1d is graded differently in two places in the document.** Table 1 (summary of recommendations) grades "evaluation for Wilson disease and Budd-Chiari syndrome when clinically appropriate" as **strong, very low quality**; the in-text Recommendations box grades the identical statement **strong, low quality**. The in-text box is the form used on this page. All other 24 statements are graded identically in both places.
 - **NAC in DILI-ALF:** the parent RCT's primary outcome was negative; benefit is a subgroup finding (early coma grade I–II), confounded by transplant availability rescuing ~40% of non-APAP ALF. Not studied for non-ALF DILI. **No dose is given.**
 - **Corticosteroids:** Recommendation 9 is explicitly a non-recommendation — "no well-conducted studies to either recommend or refute." It should not be read as endorsement; the only affirmative content is "may be considered in a subset of patients with DILI exhibiting AIH-like features." **No dose, route, or duration anywhere in the document.**
 - **No severity grading scale.** The guideline never prints a DILI severity grading scheme (no DILIN 1–5 grade definitions); severity decisions rest on Hy's law, jaundice, the ALF threshold, MELD, and the Ghabril model.
