@@ -146,9 +146,9 @@ density (14.6 notes/1,000 page words) full coverage was ~8,800 notes ≈ 15,000 
 many. **Rejected: page tiers or per-page note budgets** — a page gets as many notes as its
 high-yield content needs, never a number set in advance; it gets none only when nothing on it
 passes the test or every fact is owned by another page. **Card queue order unchanged** (Nick,
-2026-10-01) — these rules decide what goes on a card, not which page is carded next. Recorded here
-only, **not yet in `CLAUDE.md`** — the cron card pass does not follow these rules until they are
-moved there.
+2026-10-01) — these rules decide what goes on a card, not which page is carded next. **Moved into
+`KHNL-GI-Wiki/CLAUDE.md` → Cards → *Deck size* on 2026-10-01** (Nick's OK), so the cron card pass
+follows them; `build-anki.mjs` reports notes with >3 cloze numbers.
 
 1. **High-yield test.** A fact earns a note only if knowing it changes what a GI physician **or an
    advanced endoscopist** does — in clinic, on consult, or in the endoscopy suite: order,

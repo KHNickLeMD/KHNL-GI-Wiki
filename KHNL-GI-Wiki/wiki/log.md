@@ -15,11 +15,14 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - Cloze cap per note raised from ≤2 to **≤3, fewer preferred**.
 - Card queue order stays as in `CLAUDE.md` — no reprioritization toward common or advanced-endoscopy pages.
 
-**Open:**
+**Done (Nick's OK, same day):**
 
-- Rules still not in `CLAUDE.md`, so the cron card pass ignores them. The GIM file below was carded under the old rules: 10 notes with 3–4 cloze numbers and some yield-test failures (`c31aac` tests which recommendation was graded strong).
-- Notes over the new ≤3 cap: `c31a24` and `c31b23` ([[gastric-intestinal-metaplasia]]), `a1c0ea` ([[endoscopic-submucosal-dissection]]).
-- `build-anki.mjs` does not yet report the cloze cap as a problem.
+- Rules moved into `CLAUDE.md` → Cards → *Deck size* (high-yield test, one owner page per fact, ≤3 cloze numbers); length-cap line updated. The cron card pass now follows them.
+- `website_files/scripts/build-anki.mjs` reports notes with >3 distinct cloze numbers; `--test` passes with three new asserts.
+- Over-cap notes regrouped, ids kept, no facts added or dropped: `c31a24` (5 report items → 2 reveal groups) and `c31b23` (4 low-risk criteria → 2 groups) on [[gastric-intestinal-metaplasia]]; `a1c0ea` (4 curative-ESD criteria → 2 groups) on [[endoscopic-submucosal-dissection]]. Their old c3/c4 cards become empty in Anki → Tools → Empty Cards after import.
+- Deck rebuilt: 1,424 notes; 0 cloze-cap problems; the 43 remaining are the standing "cards stale" backlog.
+
+**Still open:** the rest of the GIM file was carded under the old rules this morning (e.g. `c31aac` tests which AGA 2020 recommendation was graded strong) and has not been re-checked against the yield test.
 
 ---
 

@@ -361,6 +361,15 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
 - **Cards come from the `.md`, only the `.md`.** Re-import overwrites Text and Back Extra. Never tell the user to fix a card inside Anki — fix the card file, rebuild.
 - **When written:** every ingest writes/updates the card file for each page it touched, same run. Editing a page's clinical content edits its card file in the same change.
 
+**Deck size — high yield, one owner, ≤3 clozes** (Nick, 2026-10-01). Full-wiki projection was ~15,000 Anki cards; the cut comes from yield and dedup, **never page tiers or per-page note budgets** — a page gets as many notes as its high-yield content needs, zero only when nothing passes or every fact is owned elsewhere. Rationale + re-check record: `.claude/PLAN-anki-decks.md` §11.
+- **High-yield test:** a note only if knowing it changes what a **GI physician or an advanced endoscopist** does — order, prescribe, scope, resect, refer, stop, schedule.
+  - **Keep (general GI):** indications/contraindications, doses of drugs GI prescribes, action thresholds, surveillance intervals, management-driving classifications, red flags.
+  - **Keep (advanced endoscopy), even when too technical for general GI:** lesion assessment/selection for resection (Paris, NICE, JNET, Kudo, depth — visual on the front), curative-resection criteria + surgical referral, technique/device choice (cold vs hot snare, injection, en bloc vs piecemeal, electrosurgical settings, stents), adverse-event prevention/management, ERCP / EUS / ESD / POEM indications and tissue sampling.
+  - **Cut:** prevalence/incidence, trial names/designs/results, NNTs, recommendation numbers or evidence grades as the tested item, guideline version history, "no recommendation" stances, mechanism (Back Extra at most), other-specialty management (chemotherapy/TKI regimens, transplant allocation and surgical detail).
+- **One owner page per fact, deck-wide:** dose → drug page · drug choice for a disease → disease page · score/classification → page holding its table · technique and procedure indications → procedure page. Before carding, search `<cards>/dist/khnl-gi-wiki.json` for the fact on another page. Owner page not yet carded → the fact waits; don't card it on a non-owner page.
+- **≤3 cloze numbers per note, fewer is better.** Each distinct `cN` is one Anki card; reuse `c1`/`c2` to group list items into reveal batches, or split the note. The build reports >3 as a problem.
+- Restoring a retired note: its block holds only a one-line reason — copy the original from `<cards>/dist/cards-backup-2026-10-01-pre-recheck.tar.gz`.
+
 **Card queue order — one page at a time, finished before the next** (Nick, 2026-09-23); applies to every pass that picks its own pages:
 1. **Finish the unfinished page first.** Card file with no `page_updated:` line = started, not finished (e.g. pass ran out of credits). Resume it; start nothing else until done. **Write `page_updated:` as the very last edit, only once every guideline-backed fact on the page has its card** — the only "done" marker. Never early, never on a partly carded page.
 2. **Then ingest priority order** (Content Guide → *Source priority*): guideline/CPU/consensus-sourced pages first, **most recent source publication year first**; then RCT/primary-research pages; then older. Lecture/chalk-talk-only pages are never carded. Stale card files (`page_updated` older than the page) join at their page's tier. *Guideline-sourced only* still decides what goes on a card; this order only picks the next page.
@@ -379,7 +388,7 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
 11. **Don't hand-write `<hr>`.** The builder opens Back Extra with one, above extra notes, figures, and the source footer.
 
 - **Killing a card is an edit, not a delete.** An imported card quizzes forever if its block vanishes. Move the block under `# Retired` with a one-line reason replacing its text, keeping its `[id]` — export blanks the note and tags it `khnl::retired` for the saved-search sweep.
-- Enforced/described in `.claude/PLAN-anki-decks.md`: length caps (≤40 words, ≤5 bullets, ≤12 words/bullet); one-source-per-card footer (page title · `ORG YEAR Topic` read off the source slug, e.g. `AGA 2025 Endoscopic Resection CRC` — add to `ACRONYMS` when a slug word reads wrong); `# Retired` / `# Draft` sections; cross-page concept ownership.
+- Enforced/described in `.claude/PLAN-anki-decks.md`: length caps (≤40 words, ≤5 bullets, ≤12 words/bullet, ≤3 cloze numbers); one-source-per-card footer (page title · `ORG YEAR Topic` read off the source slug, e.g. `AGA 2025 Endoscopic Resection CRC` — add to `ACRONYMS` when a slug word reads wrong); `# Retired` / `# Draft` sections; cross-page concept ownership.
 - `node website_files/scripts/build-anki.mjs --test` after touching the exporter; rebuild the deck after touching any card file.
 
 ## Log Format

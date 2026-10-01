@@ -21,7 +21,7 @@ const CARDS_DIRS = [
   '/Users/nickel/Desktop/KHNL Drive/##3Resources/#KHNL GI Wiki/cards',
   '/mnt/LeStorage/Drive/KHNL/##3Resources/#KHNL GI Wiki/cards'
 ].filter(Boolean)
-const CAPS = { words: 40, bullets: 5, bulletWords: 12 }
+const CAPS = { words: 40, bullets: 5, bulletWords: 12, clozes: 3 }
 
 // ponytail: acronym fixups only; add entries when a deck name reads wrong
 const ACRONYMS = { and: 'and', non: 'non', vs: 'vs', glp1: 'GLP-1', tg18: 'TG18',
@@ -98,6 +98,9 @@ export function lint (note, page) {
     if (wordCount(b) > CAPS.bulletWords) errs.push(`bullet ${wordCount(b)} words: ${plain(b).trim().slice(0, 40)}`)
   }
   if (!/\{\{c\d+::/.test(text) && note.section === 'active') errs.push('no cloze')
+  // each distinct cN is its own Anki card, so the cap is on numbers, not cloze count
+  const clozes = new Set(text.match(/\{\{c\d+::/g)).size
+  if (clozes > CAPS.clozes && note.section !== 'retired') errs.push(`${clozes} cloze numbers (max ${CAPS.clozes})`)
   return errs.map(e => `${page} [${note.id}]: ${e}`)
 }
 
@@ -226,6 +229,10 @@ async function test () {
   assert.equal(wordCount('a {{c1::b::a long hint here}} d'), 3)
   assert.equal(lint(notes[0], 'p.md').length, 0)
   assert.equal(lint({ ...notes[0], text: ['- ' + 'w '.repeat(20)] }, 'p.md').length, 2)
+  // cloze cap counts distinct numbers: c1 reused four times is one card
+  assert.equal(lint({ ...notes[1], text: ['{{c1::a}} {{c1::b}} {{c1::c}} {{c1::d}}'] }, 'p.md').length, 0)
+  assert.equal(lint({ ...notes[1], text: ['{{c1::a}} {{c2::b}} {{c3::c}}'] }, 'p.md').length, 0)
+  assert.equal(lint({ ...notes[1], text: ['{{c1::a}} {{c2::b}} {{c3::c}} {{c4::d}}'] }, 'p.md').length, 1)
 
   // khnl::new only for guids missing from an existing manifest
   assert.equal(isNew(new Set(['a']), 'b'), true)
