@@ -3,7 +3,7 @@ title: "Ambulatory Reflux Monitoring"
 category: concept
 tags: [gerd, ph-monitoring, impedance, diagnosis, lyon-consensus]
 created: 2026-05-15
-updated: 2026-09-03
+updated: 2026-10-01
 sources: [lyon-2024-gerd-diagnosis, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -247,12 +247,12 @@ The American College of Gastroenterology (ACG) 2020 guideline [[acg-2020-esophag
 
 ### ACG 2020 Antireflux Surgery Predictors
 
-- **AET >4%** off PPI: cardinal metric predicting symptom improvement from medical or surgical antireflux therapy
-- In 187 subjects: AET >4% and RSA with impedance-detected reflux events off PPI predicted treatment success; in 33 patients undergoing laparoscopic fundoplication, only positive RSA on PPI predicted successful outcome
+- Distal esophageal AET is the **cardinal reflux metric that predicts GERD treatment outcome** — stated without a number attached.
+- Separately, abnormal AET and RSA also predict treatment success from antireflux surgery: in 187 subjects referred for pH impedance before medical or surgical management, **AET >4%**, RSA with impedance-detected reflux events, and testing performed **off PPI** predicted treatment success; in 33 patients undergoing laparoscopic fundoplication, the **only** predictor of successful postoperative outcome was **positive RSA on pH impedance performed on PPI**.
 - **MNBI <2,292 Ω**: predicts symptomatic response to antireflux therapy — adjunctive metric when AET is inconclusive
 - Phenotyping by AET + RSA: (1) abnormal AET + negative RSA = good GERD evidence; (2) abnormal AET + positive RSA = strong GERD evidence; (3) normal AET + positive RSA = reflux hypersensitivity; (4) normal AET + negative RSA = no evidence of GERD
 
-> Note: ACG 2020 references an AET threshold of approximately 4.0% in some contexts (outcome prediction) and 6% as the diagnostic cutoff, consistent with the Lyon Consensus framework at the time. Lyon 2.0 (2024) [[lyon-2024-gerd-diagnosis]] has since formalized AET >6% (off PPI, ≥2 days wireless or 24h catheter) as conclusive, and AET 4–6% as borderline. No fundamental contradiction — the ACG 2020 guidance on AET >4% for outcome prediction (not diagnosis) remains distinct from the diagnostic threshold.
+> Note: ACG 2020 does not set a diagnostic AET cutoff of its own. It reports the **Lyon consensus proposal** — AET **>6% pathologic**, **4%–6% borderline** (requiring additional GERD evidence) — and separately notes that many studies used approximately **4.0%** to designate GERD. It prints **no "<4% = physiologic" cut-point**; "physiologic AET" appears only as a phenotype label. Lyon 2.0 (2024) [[lyon-2024-gerd-diagnosis]] is the later and higher-priority framework for the diagnostic thresholds and formalizes AET >6% (off PPI, ≥2 days wireless or 24 h catheter) as conclusive with 4–6% borderline. No contradiction — the >4% figure above belongs to outcome prediction, not diagnosis.
 
 ---
 

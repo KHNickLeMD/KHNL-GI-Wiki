@@ -3,8 +3,8 @@ title: "Intragastric Balloon (IGB)"
 category: advanced-procedure
 tags: [obesity, intragastric-balloon, endoscopic-bariatric-therapy, weight-management, bariatric]
 created: 2026-06-04
-updated: 2026-09-05
-sources: [aga-2021-intragastric-balloons, aga-2022-obesity-pharm]
+updated: 2026-10-01
+sources: [aga-2021-intragastric-balloons, aga-2022-obesity-pharm, aga-2017-endoscopic-bariatric-therapies]
 ---
 
 # Intragastric Balloon (IGB)
@@ -48,6 +48,19 @@ Versus standard of care (SOC)/lifestyle alone (pooled randomized controlled tria
 ## Device Types
 
 A meta-analysis of 22 RCTs found **fluid-filled IGBs achieve ~3% more weight loss** than gas-filled balloons, but with **numerically higher adverse-event rates and lower tolerability**; gas-filled balloons appear better tolerated and safer. The AGA makes **no recommendation on a specific device**, leaving the trade-off to shared decision-making.
+
+Per-device detail ([[aga-2017-endoscopic-bariatric-therapies|AGA 2017]], ungraded — this is the device data, not a recommendation):
+
+| Device | Fill | Dwell | Efficacy | Key adverse events |
+|---|---|---|---|---|
+| **Orbera** | Silicone, saline **450–700 mL** | 6 mo | %TBWL **13.2% at 6 mo** (95% CI 12.4–13.95; 55 studies / 6645 implantations). Pivotal US RCT completers **10.7% ± 6.8% (n = 116) vs 4.7% ± 5% (n = 99)** | Abdominal pain 33.7%, nausea 29.0%, early removal ~7.5%, migration 1.4%, **gastric perforation 0.1%** |
+| **ReShape Duo** | Dual balloons, **independent channels**; **900 mL** total saline/methylene blue (**450 mL per balloon**) | 6 mo, endoscopic removal | Pivotal blinded sham RCT completers **7.6% ± 5.5% (n = 167) vs 3.6% ± 6.3% (n = 126)** | Early retrieval 15%; spontaneous deflation 6% **without migration**; ulcers/erosions **39.6% → 10.3% after device redesign**, ulcer size 1.6 → 0.8 cm |
+| **Obalon** | **Gas-filled, swallowed gelatin capsule**, inflated via thin catheter; up to **3 balloons**; fluoroscopy confirms gastric entry | **12–26 wk**, endoscopic removal | Pivotal blinded sham RCT **6.9% ± 5 vs 3.6% ± 5** | Better tolerated as a gas-filled device (see above) |
+| **Spatz** (adjustable) | Saline, **extractable inflation tube allows volume adjustment in situ** | Up to **12 mo** (approved outside the US) | %TBWL **14 at 6 mo, 20 at 12 mo** | — |
+| **Elipse** | Swallowed capsule, **550 mL**; **no endoscopy for placement or removal** | **Valve opens at ~4 mo**, balloon excreted spontaneously | %TBWL **10 ± 6.6% at 4 mo** | — |
+
+- **Prior gastric surgery is a selection signal, not a footnote:** **4 of the 8 (50%) gastric perforations with Orbera occurred in patients who had undergone previous gastric surgery.**
+- **Methylene blue safety mechanism:** traditionally mixed with the saline fill — on inadvertent rupture it is systemically absorbed and **changes urine color, alerting that the balloon has deflated**.
 
 ## Periprocedural Management
 
