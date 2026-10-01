@@ -287,7 +287,7 @@ High-risk = any of: surgery without total mesorectal excision (TME); transanal l
 
 ## See Also
 
-[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-quality-indicators]], [[colonoscopy-surveillance]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[artificial-intelligence-endoscopy]], [[endoscopy-sedation]], [[endoscopic-ultrasound]], [[anticoagulation-gi-bleeding]], [[endoscopic-hemostasis]], [[capsule-endoscopy]], [[iron-deficiency-anemia]], [[endoscopic-management-of-perforation]], [[endoscopic-full-thickness-resection]]
+[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-quality-indicators]], [[colonoscopy-surveillance]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[artificial-intelligence-endoscopy]], [[endoscopy-sedation]], [[endoscopic-ultrasound]], [[anticoagulation-gi-bleeding]], [[endoscopic-hemostasis]], [[capsule-endoscopy]], [[iron-deficiency-anemia]], [[endoscopic-management-of-perforation]], [[endoscopic-full-thickness-resection]], [[endoscope-reprocessing]]
 
 ---
 
