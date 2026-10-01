@@ -139,6 +139,50 @@ lint/ingest pass), then runs
 `CARDS_DIR=/cards node /repo/website_files/scripts/build-anki.mjs`. Commits nothing — the `giwiki`
 container bind-mounts the Nextcloud cards dir at `/cards`.
 
+### 11. Deck size — yield test, owner pages, ≤3 cloze numbers (added 2026-10-01)
+
+Projection on 2026-10-01: 66/304 pages carded (1,394 notes = 2,418 Anki cards); at the then-current
+density (14.6 notes/1,000 page words) full coverage was ~8,800 notes ≈ 15,000 Anki cards. Nick: too
+many. **Rejected: page tiers or per-page note budgets** — a page gets as many notes as its
+high-yield content needs, never a number set in advance; it gets none only when nothing on it
+passes the test or every fact is owned by another page. **Card queue order unchanged** (Nick,
+2026-10-01) — these rules decide what goes on a card, not which page is carded next. Recorded here
+only, **not yet in `CLAUDE.md`** — the cron card pass does not follow these rules until they are
+moved there.
+
+1. **High-yield test.** A fact earns a note only if knowing it changes what a GI physician **or an
+   advanced endoscopist** does — in clinic, on consult, or in the endoscopy suite: order,
+   prescribe, scope, resect, refer, stop, schedule.
+   - **Keep (general GI):** indications/contraindications, doses of drugs GI prescribes,
+     action thresholds, surveillance intervals, management-driving classifications, red flags.
+   - **Keep (advanced endoscopy), even when too technical for general GI:** lesion assessment and
+     selection for resection (Paris, NICE, JNET, Kudo, depth of invasion — visual on the front),
+     curative-resection criteria and surgical referral, technique and device choices (cold vs hot
+     snare, injection, en bloc vs piecemeal, electrosurgical settings, stent choice), adverse-event
+     prevention and management (perforation, bleeding, post-ERCP pancreatitis), ERCP / EUS / ESD /
+     POEM indications and tissue-sampling technique.
+   - **Cut:** prevalence/incidence, trial names/designs/results, NNTs, recommendation numbers and
+     evidence grades as the tested item, guideline version history ("what Rome V changed"),
+     "no recommendation" stances, mechanism/pathophysiology (Back Extra at most), management owned
+     by another specialty (chemotherapy regimens, transplant surgery detail).
+2. **One owner page per fact, deck-wide.** Dose → the drug page · which drug for a disease → the
+   disease page · score/classification → the page holding its table · technique and procedure
+   indications → the procedure page. Before carding a page, check the built deck
+   (`/cards/dist/khnl-gi-wiki.json`) for the same fact on another page. A fact whose owner page has
+   no card file yet waits for that page — don't card it on the non-owner page in the meantime.
+   `dedup-lint.mjs` (decision 8) is still unbuilt.
+3. **≤3 cloze numbers per note; fewer is better** (Nick, 2026-10-01; first set at ≤2 the same
+   morning). Each distinct `cN` is one Anki card, so a 5-item list with c1–c5 is five reviews.
+   Group list items into reveal groups by reusing `c1`/`c2`, or split into two notes when one
+   recall would be too large. Overrides decision 4's open-ended reveal batches.
+4. **Existing deck re-checked against 1–3 on 2026-10-01** (at the then-≤2 cap): 1,394 → 984 live
+   notes (−29%), 2,418 → 1,447 Anki cards (−40%). ~340 notes retired as low yield, ~70 as
+   cross-page duplicates, ~200 regrouped; ids kept. Retired blocks keep only a one-line reason, so
+   **restoring one means copying its original text back from
+   `/cards/dist/cards-backup-2026-10-01-pre-recheck.tar.gz`**. Projection under these rules at the
+   measured cut: ~6,000 notes ≈ 8,500–9,000 Anki cards for the whole wiki (rough — scaled from the
+   8,800-note trajectory, not re-estimated page by page).
+
 ---
 
 ## Card file format

@@ -6,6 +6,44 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-01] update | Anki deck-size rules restored; cloze cap raised to 3
+
+**Plan:** `.claude/PLAN-anki-decks.md` §11 re-written after it was lost uncommitted (see the re-check entry below).
+
+**Nick's changes (2026-10-01):**
+
+- Cloze cap per note raised from ≤2 to **≤3, fewer preferred**.
+- Card queue order stays as in `CLAUDE.md` — no reprioritization toward common or advanced-endoscopy pages.
+
+**Open:**
+
+- Rules still not in `CLAUDE.md`, so the cron card pass ignores them. The GIM file below was carded under the old rules: 10 notes with 3–4 cloze numbers and some yield-test failures (`c31aac` tests which recommendation was graded strong).
+- Notes over the new ≤3 cap: `c31a24` and `c31b23` ([[gastric-intestinal-metaplasia]]), `a1c0ea` ([[endoscopic-submucosal-dissection]]).
+- `build-anki.mjs` does not yet report the cloze cap as a problem.
+
+---
+
+## [2026-10-01] update | Anki cards — gastric intestinal metaplasia (23 cards, drafted)
+
+**Page carded:** `wiki/1-disease-scripts/foregut-and-motility-diseases/gastric/gastric-intestinal-metaplasia.md` → `cards/1-disease-scripts/foregut-and-motility-diseases/gastric/gastric-intestinal-metaplasia.md`. Highest-priority eligible page by the card queue order: no card file, all four sources tier-1, newest source year 2026. Done alone (long page).
+
+**Card file:**
+
+- 23 cards, all under `# Draft` → export tagged `khnl::unreviewed`; `page_updated: 2026-10-01` written last.
+- Tag: bare `GI::Organs::Stomach` — sixth use of a bare organ parent. Nick's tree still has no gastric-cancer/premalignant node (only `::CHS`, `::Dyspepsia`, `::GIST`, `::Gastroparesis`, `::Rumination`); same gap flagged for [[endoscopic-submucosal-dissection]] on 2026-09-27. **Ask Nick** whether he wants `GI::Organs::Stomach::GastricCancer` or `::GIM`.
+- Source split: ACG 2025 ×11, AGA 2020 ×8, AGA 2021 ×2, AGA 2026 ×2. All tier-1, so the guideline-only card rule excluded nothing on this page.
+- Covered: Sydney 5-biopsy protocol, ACG containering, the 5 report items, limited/extensive, complete/incomplete phenotypes, first-degree relative, severity cut-points (≤1/3, ≤2/3, >2/3) and their independence from extent, unifocal vs multifocal count, OLGA/OLGIM bands, AGA 2020 Rec 1–3 with grades, eradication RR 0.68, regression unsettled, ACG high-risk mucosal + demographic criteria, low-risk criteria, q1–2y stacking, AGA 2026 demography contradiction and its q3y triggers, chemoprevention, biomarkers, enhanced imaging.
+
+**Deliberately not carded (owner page elsewhere, per cross-page concept ownership):** Correa cascade and the 5 components of a quality gastric exam → `[[gastric-premalignant-conditions]]`; dysplasia pathway → same; OLGA/OLGIM staging criteria and pepsinogen cut-points → `[[atrophic-gastritis]]`; eradication regimens and test-of-cure timing → `[[helicobacter-pylori-infection]]`. Cut on yield: GIM prevalence among biopsied patients (4.8%), the ESGE rows (non-US, and a summary-of-a-summary inside AGA 2020), the differential-diagnosis table.
+
+**Flagged for triage:**
+
+- The page's endoscopic-appearance line (*"pale, slightly raised mucosal patches with fine villous surface texture"*) carries **no inline citation** and the page has **no endoscopic figure** — so it was not carded (Card rule 10 wants the picture on the front, and no card may be sourced outside the wiki). A GIM endoscopic-appearance figure would also satisfy the endoscopic-appearance capture rule on this page; candidate for `wiki/needed-sources.md` once a source with the images is identified.
+
+**Build:** `CARDS_DIR=/cards node website_files/scripts/build-anki.mjs` → 1424 notes. Zero problems on this page (no cap, cloze, tag, or unknown-source errors). The 43 remaining problems are all `cards stale` on other pages — the standing backlog. Nothing committed or pushed.
+
+---
+
 ## [2026-10-01] lint | Second pass — tier-1 ingest queue worked to its last row; USMSTF surveillance + AGA GIM source pages validated; the prior entry's triage list cleared
 
 **Inbox check:** **No new arrivals.** All 14 `raw/` subfolder counts match the audited baseline exactly — AGA 189, ACG 61, Lectures 60, ASGE 50, AASLD 35, Other 20, RCTs 12, NCCN 7, `GI Other Studies` 6, SAGES 3, EASL 2, AFS 2, USPG 1, APA 1 = **449** non-asset files. `git status` clean; nothing untracked under `raw/` (content subfolders are git-ignored — never the detector). No files sit loose directly in `raw/`.
@@ -13,6 +51,48 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 **Whole-wiki scan (`lintscan.py`):** **0 broken links · 0 non-source orphans · 0 stubs · 0 unescaped alias pipes · no OS artifacts.** 644 pages / 335 sources.
 
 *(entry in progress — bullets appended as each item lands)*
+
+---
+
+## [2026-10-01] update | Anki deck re-checked against new size rules — 1,394 → 984 live notes, 2,418 → 1,447 Anki cards
+
+**Restored:** this entry was written at ~06:45 UTC, left uncommitted, and was gone by the 13:06 scheduled lint commit (the same happened to `.claude/PLAN-anki-decks.md` §11). Re-entered from the session transcript.
+
+**Why:** full-wiki projection at the current carding density was ~8,800 notes ≈ 15,000 Anki cards. Nick asked for a smaller deck that still covers the high-yield content for a general GI physician and an advanced endoscopist. He rejected page tiers and per-page note budgets. Rules are recorded in `.claude/PLAN-anki-decks.md` §11 only; `CLAUDE.md` is unchanged, so the cron card pass still follows the old rules.
+
+**Rules applied to all 66 card files:**
+
+- High-yield test: keep a note only if knowing it changes what a GI physician or advanced endoscopist does. Cut prevalence, trial results and NNTs, recommendation numbers and grades as the tested item, version history, "no recommendation" stances, mechanism, and other-specialty management (oncology systemic therapy, transplant and surgical detail).
+- One owner page per fact: dose → drug page; drug choice → disease page; score → the page holding its table; technique and procedure indications → procedure page.
+- At most 2 cloze numbers per note (raised to 3 later the same day — see the entry above).
+
+**Result:**
+
+- 410 notes moved to `# Retired` with their ids kept: about 340 low yield and about 70 cross-page duplicates.
+- About 200 notes regrouped or recut. No new notes and no new ids.
+- Off-page facts fixed: Crohn's ornidazole and the budesonide "4 months" limit; C diff Back Extra brand names; the plecanatide dose; choledocholithiasis `a1c4e2` (<24 h ERCP is for septic shock only).
+- The deck was rebuilt; the 43 remaining build problems are the pre-existing "cards stale" backlog.
+- A subagent accidentally ran the build once mid-pass. The note set was unchanged, so the manifest is unaffected.
+- Pre-pass backup: `/cards/dist/cards-backup-2026-10-01-pre-recheck.tar.gz`.
+
+**Wiki contradictions surfaced (not fixed — triage):**
+
+- PSC + IBD colonoscopic surveillance: [[ulcerative-colitis]] says start at UC diagnosis, then annually (ACG 2019). [[primary-sclerosing-cholangitis]] says from age 15, every 1–2 years (AASLD 2022 GS 22), and calls the annual interval superseded. Under source priority the newer guideline should win on the UC page.
+- NBI in IBD surveillance: [[crohns-disease]] says do not use it (ACG 2018). [[ulcerative-colitis]] accepts it on an HD scope (ACG 2019). AGA 2021 treats virtual chromoendoscopy as equivalent.
+- TCA dosing for gut-brain pain: [[irritable-bowel-syndrome]] says amitriptyline target 50–100 mg (ACG). [[disorders-of-gut-brain-interaction]] says max 30–50 mg at night (AGA 2021).
+- Grade 3 ICI hepatitis steroid dose: card `bd2005` tests AGA's 1–2 mg/kg, but [[immune-checkpoint-inhibitor-hepatitis]] leads with AASLD 2022's 1–1.5 mg/kg/day.
+
+**Calls Nick may want to reverse:**
+
+- Revised Bethesda criteria
+- Montreal codes
+- ORAL Surveillance notes
+- Hepatopulmonary syndrome PaO₂ <60 exception points
+- HVPG technique and formula
+- Fecal incontinence etiology lists
+- All GIST tyrosine kinase inhibitor (TKI) management
+
+Restoring one = copy its original block back from the backup tarball (the retired block holds only a one-line reason).
 
 ---
 
