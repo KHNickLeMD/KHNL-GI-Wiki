@@ -3,7 +3,7 @@ title: "Needed Sources — Download List"
 category: overview
 tags: [maintenance, sources]
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-10-02
 sources: []
 ---
 
@@ -93,6 +93,8 @@ Papers, guidelines, tables, and figures that would close a specific gap on a wik
 | ASGE/ACG training & credentialing document; Chang 2024 editorial full text (*GIE Clin N Am* 34(1):xv) | case-volume thresholds for ESD / EUS-FNA / complex biliary | [[endoscopic-oncology]], [[chang-2024-endoscopic-oncologist]] |
 | Dedicated difficult-bile-duct-stone guideline | criteria defining a "difficult" stone | [[cholangioscopy]] |
 | ASGE technology review — EUS-guided liver biopsy | technique and route comparison | [[liver-biopsy]] |
+| *Fever in a Returning Traveler*, *N Engl J Med* 2023 — full text (author, volume, pages, DOI all unknown; citation record at [[nejm-2023-fever-returning-traveler]]) | the non-GI differential the three ingested diarrhea/pregnancy guidelines explicitly do not cover — malaria, dengue, leptospirosis, schistosomiasis/Katayama fever, visceral leishmaniasis, yellow fever — plus incubation windows and test performance | [[fever-returning-traveler]] |
+| Statin label / a lipid or liver society statement on statin use in chronic liver disease | would support a `5-meds/statins` page: hepatotoxicity monitoring, use in cirrhosis, the NAFLD/NASH safety position. The only ingested statement is AGA-AASLD-ACG 2012 Recs 30–31 ([[aga-aasld-acg-2012-nafld]]) — safe for dyslipidemia, not a NASH therapy — which is too thin for a drug page on its own | [[nafld-masld]], [[cirrhosis]] |
 | Later ASGE/ESGE papillectomy guidance | updated technical detail | [[asge-2015-ampullary-duodenal-adenomas]] |
 | SAGES hiatal hernia guideline | type I–IV, natural history, asymptomatic PEH repair, incarceration / volvulus; Cameron lesions | [[hiatal-hernia]] |
 | ASMBS/IFSO metabolic-surgery indications; ASMBS/SAGES or Brazilian intragastric-balloon consensus | bariatric eligibility criteria; IGB contraindications and age/BMI criteria | [[bariatric-surgery]], [[intragastric-balloon]] |

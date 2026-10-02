@@ -3,7 +3,7 @@ title: "FISH (Fluorescence In Situ Hybridization)"
 category: concept
 tags: [fish, cytology, biliary-stricture, cholangiocarcinoma, primary-sclerosing-cholangitis, polysomy, tissue-acquisition]
 created: 2026-06-04
-updated: 2026-08-30
+updated: 2026-10-02
 sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-strictures]
 ---
 
@@ -12,10 +12,9 @@ sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-stricture
 ## Principle
 
 - Fluorescently labeled DNA probes assess brushed cells for **chromosomal abnormalities**, which are associated with malignancy ([[acg-2023-biliary-strictures]]).
-- **Polysomy** is the FISH abnormality that carries the association with carcinoma in the same ~500-patient series ([[acg-2023-biliary-strictures]]).
-- Applied to the same specimen as routine cytology — no additional pass or device is required beyond the standard brushing.
+- **Polysomy** is the FISH abnormality that carries the association with carcinoma — odds ratio (OR) **>77** for malignancy ([[acg-2023-biliary-strictures]]).
 
-> Neither [[acg-2023-biliary-strictures|American College of Gastroenterology (ACG) 2023]] nor [[asge-2023-indeterminate-biliary-strictures|American Society for Gastrointestinal Endoscopy (ASGE) 2023]] states how many cells or which probe gains define a polysomic result — the cytogenetic criteria for calling polysomy come from the primary FISH validation studies.
+> Neither [[acg-2023-biliary-strictures|American College of Gastroenterology (ACG) 2023]] nor [[asge-2023-indeterminate-biliary-strictures|American Society for Gastrointestinal Endoscopy (ASGE) 2023]] defines polysomy cytogenetically — neither states how many cells or which probe gains are required to call a result polysomic.
 
 ## Test Performance
 
@@ -26,8 +25,7 @@ Per [[acg-2023-biliary-strictures]] (study of ~500 consecutive patients undergoi
 | Brush cytology alone | 20.1% |
 | Brush cytology + FISH | 42.9% |
 
-- Multiple additional studies and a meta-analysis confirm FISH **adds substantial diagnostic value over brush cytology alone**.
-- For comparison, the pooled sensitivity of brush cytology alone across the [[asge-2023-indeterminate-biliary-strictures|ASGE 2023]] meta-analysis is ~0.40 — see [[brush-cytology]] for the full modality comparison.
+- Brush cytology alone pools at a sensitivity of ~**0.40** in the [[asge-2023-indeterminate-biliary-strictures|ASGE 2023]] meta-analysis — full modality comparison: [[brush-cytology]].
 
 ## Limitations — what FISH cannot decide
 
@@ -40,7 +38,7 @@ Two caveats are decision-critical ([[acg-2023-biliary-strictures]]):
 
 ## Role in Multimodality Sampling
 
-- Fluoroscopy-directed biopsies, [[cholangioscopy|cholangioscopy]]-directed biopsies, and FISH **each** add diagnostic value to brush cytology alone.
+- Fluoroscopy-directed biopsies, [[cholangioscopy]]-directed biopsies, and FISH **each** add diagnostic value over brush cytology alone.
 - On that basis ACG 2023 **Rec 3** (Strong, low quality): *"In patients with suspected malignant perihilar stricture, we recommend multimodality sampling over brush cytology alone at the time of the index ERCP."* The narrative operationalizes this as **at least 2 diagnostic sampling modalities** at the time of ERCP-based biliary stricture evaluation, and the same principles **also apply to extrahepatic strictures without an associated mass**.
 - **How many modalities:** there is a rationale to use **3–4** of these modalities at the initial evaluation if they can be performed safely; **trimodality sampling is supported by retrospective data only** ([[acg-2023-biliary-strictures]]).
 - The strong recommendation despite low-quality evidence is justified by the **safety of adding another sampling modality** during ERCP set against the **low yield of brush cytology alone**.

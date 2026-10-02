@@ -23,7 +23,58 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
-## [2026-10-02] lint | Tier-1 ingest queue emptied (items 38 + N13); the 2026-10-01 cron's unstruck/unindexed telemedicine ingest reconciled
+## [2026-10-02] lint | Tier-1 ingest queue emptied for real — items 38 + N13 ingested; 2 orphans de-orphaned; 3 stalest pages validated
+
+**Inbox check:** **No new arrivals.** All 14 `raw/` subfolder counts match the audited baseline exactly — AGA 189, ACG 61, Lectures 60, ASGE 50, AASLD 35, Other 20, RCTs 12, NCCN 7, `GI Other Studies` 6, SAGES 3, EASL 2, AFS 2, USPG 1, APA 1 = **449** non-asset files. Nothing loose directly in `raw/`. Counted by the new `website_files/scripts/rawcount.py`, which prints each folder against its baseline and flags deltas — so the check no longer depends on eyeballing 14 numbers. `git status` clean, which is expected and is never the detector (content subfolders are git-ignored).
+
+**⚠ Correction to the entry below (same date, earlier pass).** Its title claims items 38 and N13 were ingested. **They were not** — no `aga-2020-ibd-covid-19` or `aga-2012-nafld` page existed in `wiki/sources/`, and the entry itself stopped at *"entry in progress"*. That pass also announced the telemedicine reconciliation without performing it: the row was still unstruck, and neither [[aga-2023-telemedicine]] nor [[telemedicine-in-gastroenterology]] had an `index.md` entry. All three items are done in **this** entry; the earlier title has been corrected to what it actually did.
+
+**Whole-wiki scan (`lintscan.py`):** 0 broken links · 0 stubs · 0 unescaped alias pipes · 0 missing See Also/Sources · no OS artifacts. 646 → **648 pages / 338 sources**. 2 orphans found, both resolved.
+
+---
+
+### 🎉 The tier-1 ingest queue is empty
+
+**Every guideline, CPU, consensus statement, RCT and primary-research file in `raw/` is now ingested** — 389 non-lecture, non-asset files across 14 subfolders. The audited backlog ran from 51 files on 2026-09-06 to zero today.
+
+**Sources created (2 — the last two tier-1 files):**
+
+- [[aga-2020-ibd-covid-19]] — *AGA CPU on Management of IBD During the COVID-19 Pandemic: Expert Commentary* (Rubin, Feuerstein, Wang, Cohen. Gastroenterology 2020;159:350–357). Queue item **38**. ⚠ **Expert Commentary — no numbered Best Practice Advice, no GRADE ratings**; its only numbered list is 6 Take-Home Points, captured verbatim. Figure 1's COVID-19 severity strata (the decision inputs that select the therapy column) recreated as a table.
+- [[aga-aasld-acg-2012-nafld]] — *The Diagnosis and Management of Non-alcoholic Fatty Liver Disease: Practice Guideline by the AGA, AASLD, and ACG* (Chalasani et al. Gastroenterology 2012;142:1592–1609). Queue item **N13**, the **oldest document in the corpus**. Unlike most AGA material it is fully GRADE-rated and numbers its own **45 recommendations** — all 45 captured verbatim with their strength/quality ratings.
+
+**Pages updated:**
+
+- [[inflammatory-bowel-disease]] — new section *IBD Therapy During an Acute Systemic Viral Illness*: the three-scenario hold/continue table (not infected / infected without illness / confirmed illness) across six agent classes, the infusion-centre screening protocol (6-foot chair spacing, no elective switch to injectables, no home infusion), the exclude-enteric-infection-then-confirm-nonendoscopically rule, the **3-day IV steroid limit** before calcineurin inhibitor or infliximab, serum CMV PCR instead of colonoscopy, and the N95/N99/PAPR + double-gloving endoscopy rule applied regardless of infection status.
+- [[nafld-masld]] — new *What Changed Since the 2012 Tri-Society Guideline* table (name/definition, case finding, fibrosis staging, pharmacotherapy, statins, HCC risk), plus the one thing still worth carrying from 2012: the weight-loss dose–response (3–5% steatosis, up to 10% necroinflammation). Also records the 2012 document's **internal inconsistency** — its NAFLD-defining alcohol threshold (Rec 1, rated 2C) is more permissive than the at-risk-drinking definition quoted in its own alcohol section.
+
+**Orphans resolved (2):**
+
+- [[telemedicine-in-gastroenterology]] — created by the 2026-10-01 cron and left a whole-wiki orphan with no index row. Linked from [[inflammatory-bowel-disease]]'s *Where Each Topic Lives* table; both it and [[aga-2023-telemedicine]] added to `index.md`; queue row 48 struck.
+- [[nejm-2023-fever-returning-traveler]] — a citation-only record whose text still claimed [[fever-returning-traveler]] used it as its sole source. That page was rebuilt on three ingested guidelines and no longer cites it. Text corrected to say it supports no clinical claim anywhere, and a row added to [[needed-sources]] naming what the full text would fill. *(`lintscan.py` still reports it as a source orphan — the scanner does not count outbound links from `needed-sources.md`. The inbound link exists; this one is expected and can be ignored next pass.)*
+
+**Stalest pages validated (3 — oldest `updated:` first):**
+
+- [[cryptosporidiosis]] (was 2026-08-31) — **the serious find of this pass: roughly ten clinical claims were asserted, several with explicit citations to [[acg-2016-acute-diarrhea]], that appear nowhere in any of the page's three sources.** ACG 2016 mentions *Cryptosporidium* once (nitazoxanide); IDSA 2017 only in Rec 12. Removed as unsourced: chlorine-resistant-oocyst/waterborne-outbreak epidemiology, the symptom cluster, the "~1–2 weeks in the immunocompetent" course, AIDS cholangiopathy, severity tracking immunosuppression, stool antigen EIA, modified acid-fast stain, the routine-O&P-misses-it claim, and the filtration/UV/ozone water-treatment advice. Replaced with what the two guidelines do support (the molecular-panel recommendation, the broad immunocompromised workup, oral rehydration, the occupational/recreational-water public-health rule). Also removed 2 banned maintainer notes, de-duplicated the test list and the postinfectious-IBS figures to their owner pages, fixed a re-expanded abbreviation, added `## Contents`.
+- [[fish]] (was 2026-08-30) — trimmed the ACG Rec 3 multimodality algorithm to a pointer at its home page [[biliary-stricture]]; added the polysomy effect size (OR >77) the source page carries; dropped an untraceable "~500-patient series" attribution and a vague "multiple additional studies" bullet; rewrote the PSC contradiction as a skimmable sub-section and removed the wiki-internal word "tier-1" from reader-facing text; fixed a redundant self-alias; added `## Contents`.
+- [[alpha-gal-syndrome]] (was 2026-08-31) — structurally the strongest of the three (ADDT order, Contents nesting, doses and intervals all correct). Converted the prose intro to bullets, expanded "US" on first use, rewrote the meta line about sourcing as a reader-facing evidence-quality note, removed a maintainer parenthetical on the mechanism figure, and de-duplicated the referral triggers and the red-flag rule.
+
+**Coverage gaps:** **none filled this pass** — the rule caps a pass already heavy on ingest at 1 or none, and this one carried 2 ingests plus 2 substantial propagations. Queue is unchanged and next in line is `5-meds/hbv-nucleoside-analogs`.
+
+**Added to [[needed-sources]] (2):** the *Fever in a Returning Traveler* full text (would supply the non-GI differential the three ingested guidelines explicitly exclude); and a statin label or liver/lipid society statement — a `5-meds/statins` page is wanted but AGA-AASLD-ACG 2012 Recs 30–31 are the only ingested statement and are too thin to build a drug page on. A `[[statins]]` link was de-linked rather than left broken.
+
+**Tooling:** added `website_files/scripts/rawcount.py` — prints each `raw/` subfolder against its audited baseline and flags deltas, so the new-arrival check no longer depends on eyeballing 14 numbers. Confirms **449 files, zero drift, nothing loose in `raw/`**.
+
+**Remaining for triage:**
+
+- **Lectures are the only corpus left.** 60 gated transcripts in `raw/GI Lectures+Chalk Talks/`, never auto-ingested. Nick needs to name which ones; until then no pass has tier-1 ingest work.
+- `CGH 2025 Review on Microscopic Colitis.pdf` (tier-2 narrative review) and the broken `IANS 2024 Anal Cancer Screening Consensus.pdf` (6 KB Cloudflare page) are the only non-lecture files left.
+- The cryptosporidiosis findings suggest **other early pages may carry the same fabrication pattern** — confident clinical detail cited to a guideline that does not contain it. Worth a targeted sweep of the pages created in the first weeks, not just the stalest-by-`updated:` rotation.
+- Duplicate source-page pairs noted in the 2026-09-06 audit are still unmerged: [[acg-2025-bowel-prep]] / [[usmstf-2025-bowel-prep]] (identical DOI) and [[asge-2020-endoscopic-removal]] / [[usmstf-2020-endoscopic-removal]].
+- No Anki card files were written or rebuilt this pass.
+
+---
+
+## [2026-10-02] lint | The 2026-10-01 cron's unstruck/unindexed telemedicine ingest reconciled
 
 **Inbox check:** **No new arrivals.** All 14 `raw/` subfolder counts match the audited baseline exactly — AGA 189, ACG 61, Lectures 60, ASGE 50, AASLD 35, Other 20, RCTs 12, NCCN 7, `GI Other Studies` 6, SAGES 3, EASL 2, AFS 2, USPG 1, APA 1 = **449** non-asset files. Nothing loose directly in `raw/`. `git status` clean, which is expected and is never the detector (content subfolders are git-ignored).
 

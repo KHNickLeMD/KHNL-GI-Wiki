@@ -3,8 +3,8 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-09-26
-sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, baveno-viii-2026-portal-hypertension, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-non-graft-complications, aga-2023-nafld-noninvasive-biomarkers, aga-2021-lifestyle-modification-nafld, aga-2022-lean-nafld, aga-2017-elastography-liver-fibrosis]
+updated: 2026-10-02
+sources: [aga-aasld-acg-2012-nafld, aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, baveno-viii-2026-portal-hypertension, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-non-graft-complications, aga-2023-nafld-noninvasive-biomarkers, aga-2021-lifestyle-modification-nafld, aga-2022-lean-nafld, aga-2017-elastography-liver-fibrosis]
 ---
 
 ## Contents
@@ -26,6 +26,7 @@ sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom
     - [[#Liver Transplantation]]
   - [[#Cardiometabolic Risk Management in MASLD]]
   - [[#Post-Liver-Transplant MASLD Management]]
+  - [[#What Changed Since the 2012 Tri-Society Guideline]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -370,6 +371,22 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD pos
 
 - Re-LT may be required for recurrent MASLD progressing to allograft failure; MASLD-associated recirrhosis becoming an increasingly common re-LT indication
 
+### What Changed Since the 2012 Tri-Society Guideline
+
+*The founding AGA–AASLD–ACG guideline ([[aga-aasld-acg-2012-nafld]], 45 GRADE-rated recommendations) is superseded by the AASLD guidance above on every overlapping claim. It is summarized here only because clinicians trained in that era still carry its positions; the full recommendation set lives on the source page.*
+
+| Topic | 2012 position | Current position on this page |
+|---|---|---|
+| Name and definition | NAFLD, defined by **exclusion** of alcohol and other causes | MASLD, defined by the **presence** of cardiometabolic criteria |
+| Case finding | **Against** screening in primary care, diabetes, and obesity clinics (Rec 5) and against family screening (Rec 6) | Risk-stratified case finding in T2DM and other high-risk groups |
+| Fibrosis staging | Metabolic syndrome + NAFLD fibrosis score select patients for biopsy; transient elastography called commercially unavailable in the US | Two-tier noninvasive pathway (FIB-4 → VCTE/MRE/ELF); biopsy reserved for indeterminate or discordant results |
+| Pharmacotherapy | **Vitamin E 800 IU/day first-line** in non-diabetic biopsy-proven NASH (Rec 21), explicitly **not** in diabetics, NASH cirrhosis, or NAFLD without biopsy (Rec 22); pioglitazone permitted (Rec 20); **metformin rejected** (Rec 19); **[[ursodeoxycholic-acid\|UDCA]] rejected** (Rec 23) | [[resmetirom]] and [[semaglutide]] for MASH F2–F3; the 2012 agents predate every approval |
+| Statins | Safe in NAFLD/NASH for dyslipidemia (Rec 30) but **not** a NASH therapy (Rec 31) | Unchanged in substance — see *Cardiometabolic Risk Management* above |
+| HCC risk | Confined to advanced fibrosis and cirrhosis | Surveillance in non-cirrhotic MASLD also addressed — [[hcc-surveillance]] |
+
+- **Still useful from 2012:** the weight-loss dose–response remains the clearest statement of its kind — **3%–5% body weight loss to improve steatosis, up to 10% to improve necroinflammation** (Rec 17), with fibrosis unimproved even at 9.3% mean loss in the source trial. Lifestyle detail lives under *Lifestyle Modification* above.
+- **A caution carried from that document:** its alcohol threshold *defining* NAFLD (>21 drinks/week in men, >14 in women) is **more permissive** than the at-risk-drinking definition it quotes in the same text (>4 drinks/day or >14/week in men; >3/day or >7/week in women). A man drinking 20 drinks weekly is at-risk by one and still diagnosable by the other. That recommendation carries the document's weakest rating (strength 2, quality C).
+
 ---
 
 ## See Also
@@ -393,3 +410,4 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD pos
 11. [[aga-2021-lifestyle-modification-nafld|AGA Clinical Practice Update on Lifestyle Modification Using Diet and Exercise to Achieve Weight Loss in the Management of Nonalcoholic Fatty Liver Disease: Expert Review (2021)]]
 12. [[aga-2022-lean-nafld|AGA Clinical Practice Update: Diagnosis and Management of Nonalcoholic Fatty Liver Disease in Lean Individuals: Expert Review (2022)]]
 13. [[aga-2017-elastography-liver-fibrosis|American Gastroenterological Association Institute Guideline on the Role of Elastography in the Evaluation of Liver Fibrosis (2017)]]
+14. [[aga-aasld-acg-2012-nafld|The Diagnosis and Management of Non-alcoholic Fatty Liver Disease: Practice Guideline by the AGA, AASLD, and ACG (2012)]]

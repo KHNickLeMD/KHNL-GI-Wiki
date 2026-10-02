@@ -9,7 +9,7 @@ sources: []
 
 > ⚠️ **Full text unavailable.** No copy of this article is on file, and its authors, DOI, volume, and pages are unknown.
 >
-> [[fever-returning-traveler]] lists this as its sole source, so that page's clinical content is effectively uncited; verify against a primary source before acting.
+> This page is a citation record only — it supports no clinical claim anywhere in the wiki. [[fever-returning-traveler]] once named it as its sole source; that page has since been rebuilt on [[idsa-2017-infectious-diarrhea]], [[acg-2016-acute-diarrhea]], and [[acg-2016-liver-disease-pregnancy]] and no longer cites it. The article is listed on [[needed-sources]] in case it is obtained later.
 
 ## Bibliographic Info
 
@@ -30,7 +30,7 @@ Full text is not available; this page records the citation only.
 
 ## Relevance to Wiki
 
-- [[fever-returning-traveler]] names this as its only source. That page's incubation windows, test-performance figures, and percentages are **unverified**.
+- **None at present.** [[fever-returning-traveler]] was rebuilt on three ingested guidelines and no longer draws on this citation. If the full text is obtained, it would mainly extend that page's non-GI differential (malaria, dengue, leptospirosis, schistosomiasis), which the current sources explicitly do not cover.
 
 ## Contradictions / Open Questions
 

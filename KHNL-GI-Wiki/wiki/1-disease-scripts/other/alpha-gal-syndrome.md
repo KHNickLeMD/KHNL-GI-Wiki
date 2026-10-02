@@ -3,13 +3,13 @@ title: "Alpha-Gal Syndrome"
 category: disease-script
 tags: [alpha-gal-syndrome, food-allergy, mammalian-meat-allergy, ige, tick-bite, abdominal-pain, diarrhea, anaphylaxis]
 created: 2026-07-20
-updated: 2026-08-31
+updated: 2026-10-02
 sources: [aga-2023-alpha-gal-syndrome]
 ---
 
 Immunoglobulin E (IgE)-mediated allergy to **galactose-alpha-1,3-galactose (alpha-gal)**, an oligosaccharide on the cells of all nonprimate mammals. Reactions occur **1 to several hours after** ingesting mammalian meat or mammalian-derived products (delayed because the antigen is absorbed bound to fat via chylomicrons, ~2 h to circulation, before binding gastrointestinal (GI) mast-cell IgE). Sensitization follows a **tick bite** (US: Lone Star tick, *Amblyomma americanum*) or parasitic infection. An increasingly recognized **GI phenotype** presents with abdominal pain, diarrhea, [[nausea-and-vomiting|nausea, and vomiting]] **without** predominant skin, respiratory, or circulatory symptoms — and is frequently mislabeled as [[irritable-bowel-syndrome]].
 
-*Every clinical claim on this page comes from [[aga-2023-alpha-gal-syndrome|American Gastroenterological Association (AGA) 2023 Clinical Practice Update (CPU) on Alpha-Gal Syndrome for the GI Clinician]] — the only GI guideline document covering the condition. It is a **commentary/expert review**, so its advice carries **no Grading of Recommendations Assessment, Development and Evaluation (GRADE) strength or evidence quality**; treat thresholds below as expert opinion.*
+*Evidence quality: the [[aga-2023-alpha-gal-syndrome|American Gastroenterological Association (AGA) 2023 Clinical Practice Update (CPU) on Alpha-Gal Syndrome for the GI Clinician]] is a commentary — no systematic review was performed, so it carries **no Grading of Recommendations Assessment, Development and Evaluation (GRADE) strength or evidence quality**. Treat every threshold below as expert opinion.*
 
 ## Contents
 - [[#Assessment]]
@@ -48,7 +48,7 @@ Immunoglobulin E (IgE)-mediated allergy to **galactose-alpha-1,3-galactose (alph
 - Phenotype spectrum: **GI-only** (this CPU's focus) → delayed **hives/anaphylaxis** (blood-pressure drop 3–5 h after mammalian meat) → asymptomatic sensitization.
 - Among oral-food-challenge–proven patients: abdominal pain 71%, vomiting 22%; **40.7% had GI symptoms alone**.
 - **Reactions are inconsistent** — a sensitized person who tolerates meat once can still be allergic. **Cofactors** that increase reaction risk/severity: fatty cuts of meat, nonsteroidal anti-inflammatory drugs (NSAIDs), exercise, alcohol.
-- **Systemic/high-severity features** (mandate allergist referral): facial/throat swelling, voice changes, difficulty breathing, hives, fainting → anaphylaxis risk.
+- **Systemic features mandate allergist referral** — triggers listed under [[#Referral to allergist]].
 - **Asymptomatic sensitization** may still carry cardiovascular risk — continued mammalian-meat intake is associated with **coronary artery disease (CAD)** (noncalcified plaque, obstructive CAD).
 
 ## Differential Diagnosis
@@ -57,7 +57,7 @@ Immunoglobulin E (IgE)-mediated allergy to **galactose-alpha-1,3-galactose (alph
 
 - [[irritable-bowel-syndrome]] and other functional GI illness — the most common misdiagnosis; recognizing alpha-gal as an IgE-mediated cause of GI symptoms is a departure from functional-GI paradigms.
 - Other food allergies/intolerances.
-- **Red-flag symptoms argue against alpha-gal:** anemia, GI bleeding, or weight loss are **not** caused by the allergy — consider **not** testing for alpha-gal and pursue an organic workup instead.
+- **Anemia, GI bleeding, or weight loss argue against alpha-gal** — the allergy does not cause them; pursue an organic workup (testing guidance under [[#Diagnostics]]).
 
 ## Diagnostics
 
@@ -66,7 +66,7 @@ Immunoglobulin E (IgE)-mediated allergy to **galactose-alpha-1,3-galactose (alph
 - **Do not test** patients whose picture is dominated by red flags (anemia, GI bleeding, weight loss).
 - **Follow-up titers:** repeat alpha-gal IgE at **6–12 months** if tick bites are avoided (levels may fall).
 
-**Mechanism (Figure 1, source — not reproduced here):** ingested alpha-gal binds fat in a glycolipid → absorbed, incorporated into chylomicrons → enters circulation ~2 h → binds IgE on GI mast cells → degranulation releasing histamine/mediators acting on sensory nerves (pain), smooth muscle (contraction), and mucous glands.
+**Why the reaction is delayed:** ingested alpha-gal binds fat in a glycolipid → absorbed, incorporated into chylomicrons → enters circulation ~2 h → binds IgE on GI mast cells → degranulation releasing histamine/mediators acting on sensory nerves (pain), smooth muscle (contraction), and mucous glands.
 
 ## Therapeutics
 

@@ -3,8 +3,8 @@ title: "Inflammatory Bowel Disease (IBD) — Overview"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, biologic, immunotherapy]
 created: 2026-05-16
-updated: 2026-09-30
-sources: [aga-2026-inpatient-ibd, aga-2018-functional-gi-symptoms-ibd, aga-2018-psychogastroenterology]
+updated: 2026-10-02
+sources: [aga-2026-inpatient-ibd, aga-2018-functional-gi-symptoms-ibd, aga-2018-psychogastroenterology, aga-2020-ibd-covid-19]
 ---
 
 ## Overview
@@ -29,6 +29,7 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 | Age- and frailty-specific safety overlay (age ≥60) | [[ibd-in-older-adults]] |
 | Transmural monitoring | [[intestinal-ultrasound]] |
 | Pouch disorders | [[pouchitis]] |
+| Virtual follow-up, visit-type selection, remote monitoring | [[telemedicine-in-gastroenterology]] |
 | Immunomodulator positioning, dosing, thiopurine methyltransferase (TPMT)/NUDT15 testing | [[thiopurines]] |
 | Thiopurine / methotrexate hepatotoxicity | [[drug-induced-liver-injury]] |
 
@@ -142,6 +143,27 @@ Therapy is borrowed from IBS — the Update notes "a paucity of randomized contr
 - **BPA 13:** moderate exercise is safe in quiescent or mildly active IBD and improves well-being without detectable effect on inflammatory activity; higher exercise levels tracked with decreased risk of active disease in CD patients in remission. Whether it helps the *functional* symptoms specifically is untested.
 - **BPA 14:** the complementary/alternative data (marijuana, curcumin, aloe vera, acupuncture, moxibustion) were not directed at functional symptoms and "have generally been of low quality."
 
+## IBD Therapy During an Acute Systemic Viral Illness
+
+*Framework from [[aga-2020-ibd-covid-19|AGA 2020 CPU on Management of IBD During the COVID-19 Pandemic]], written for coronavirus disease 2019 (COVID-19) and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Its epidemiology and investigational-therapy content is of historical interest only; the hold-versus-continue ladder below is the part that generalizes. **Ungraded expert commentary** — no numbered Best Practice Advice, no evidence grades.*
+
+**Baseline position:** patients with IBD are **not** at increased risk of acquiring the infection. Do not pre-emptively stop therapy — relapse "strains available medical resources, may require steroid therapy, or necessitate hospitalization, outcomes that are all much worse than the known risks of existing IBD therapies."
+
+| Agent class | Not infected | Infected, no symptoms | Confirmed illness |
+|---|---|---|---|
+| [[mesalamine-5-asa\|Aminosalicylates]], topical rectal therapy, diet, antibiotics | Continue | Continue | **Continue — considered safe** |
+| Oral budesonide | Continue | Switch to it from prednisone where feasible | Likely safe; may continue if needed for control |
+| Systemic [[corticosteroids-ibd\|corticosteroids]] | Continue | Reduce to **prednisone <20 mg/day** | **Avoid; discontinue quickly** — watch for adrenal insufficiency |
+| [[thiopurines]], [[methotrexate]], [[jak-inhibitors\|tofacitinib]] | Continue | **Hold** | **Hold** |
+| [[anti-tnf-agents\|Anti-TNF agents]], [[il-23-and-il-12-23-inhibitors\|ustekinumab]] | Continue | **Delay dosing 2 weeks** while monitoring | **Hold** |
+| [[vedolizumab]] | Continue | Delay dosing 2 weeks | Hold if the IBD is stable (consensus was uncertain it is necessary) |
+
+- **Restart** after 2 weeks if no illness develops; after confirmed illness, restart on complete symptom resolution, negative repeat viral testing, or serologic evidence of convalescence. No interval or threshold is defined for any of the three — the trigger is left to clinical judgement.
+- **Infusion centres stay open.** Continue scheduled infusions where the centre prescreens for exposure and symptoms, checks temperatures at the door, spaces chairs **at least 6 feet apart**, uses and supplies masks and gloves, and deep-cleans after each patient. **Do not electively switch to an injectable** to avoid the centre — switching from infliximab to adalimumab was associated with relapse. **Home infusion is not recommended** (a travelling nurse can become a vector).
+- **New digestive symptoms during the viral illness:** first exclude [[clostridioides-difficile|C. difficile]] and other enteric pathogens; then confirm active inflammation **nonendoscopically** — C-reactive protein, fecal calprotectin, or cross-sectional imaging — reading all three with caution, since the viral illness itself can raise them.
+- **Hospitalized with severe IBD and the viral illness:** limit intravenous steroids to **3 days**, then decide between a [[calcineurin-inhibitors|calcineurin inhibitor]] and infliximab. Cytomegalovirus can be assessed by **serum polymerase chain reaction** to avoid [[colonoscopy]]. Surgical consultation as per standard practice.
+- **Endoscopy:** urgent and emergent indications only — procedures that will "urgently change management." In IBD that means biopsies to diagnose new severe disease, excluding cytomegalovirus when noninvasive tests are equivocal, or mucosal inspection that would direct surgery. Use **N95, N99, or powered air-purifying respirators rather than surgical masks, plus double-gloving**, for both [[upper-endoscopy|upper]] and lower endoscopy **regardless of the patient's infection status**.
+
 ## See Also
 
 [[crohns-disease]], [[ulcerative-colitis]], [[thiopurines]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[ibd-in-malignancy]], [[nutrition-in-ibd]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[disorders-of-gut-brain-interaction]], [[drug-induced-liver-injury]], [[nutrition-in-hospitalized-patients]], [[colorectal-cancer]], [[pouchitis]], [[uc-vs-crohns-comparison]], [[probiotics]], [[anticoagulation-gi-bleeding]], [[anal-cancer-screening]], [[colonoscopy]], [[calcineurin-inhibitors]], [[jak-inhibitors]], [[ibd-in-older-adults]], [[irritable-bowel-syndrome]], [[low-fodmap-diet]], [[bile-acid-diarrhea]], [[small-intestinal-bacterial-overgrowth]], [[exocrine-pancreatic-insufficiency]], [[defecation-disorders]], [[chronic-constipation]], [[celiac-disease]], [[fmt]], [[loperamide]], [[brain-gut-behavioral-therapy]]
@@ -153,3 +175,4 @@ Therapy is borrowed from IBS — the Update notes "a paucity of randomized contr
 1. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review (2026)]]
 2. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease: Expert Review]]
 3. [[aga-2018-psychogastroenterology|Best Practice Update: Incorporating Psychogastroenterology Into Management of Digestive Disorders]]
+4. [[aga-2020-ibd-covid-19|AGA Clinical Practice Update on Management of Inflammatory Bowel Disease During the COVID-19 Pandemic: Expert Commentary]]
