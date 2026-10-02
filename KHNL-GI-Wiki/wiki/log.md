@@ -6,6 +6,33 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-02] update | Anki cards — gastric intestinal metaplasia re-checked against the deck-size rules (23 → 15 live notes)
+
+**Why:** the 2026-10-01 cron pass carded [[gastric-intestinal-metaplasia]] before the deck-size rules reached `CLAUDE.md`. Nick asked for the recheck. No other card file was written since.
+
+**Retired (ids kept, under `# Retired`):**
+
+- Low yield: `c31a24` (pathology report checklist), `c31a46` (subtype phenotype definitions), `c31a68` (severity cut-points; mild ≤1/3 stays on `c31b23`), `c31abd` (trial RR), `c31ace` (regression — no position), `c31b89` (descriptive, no action).
+- Owned elsewhere, waiting for the owner page to be carded: `c31a02` (Sydney 5-site map → [[upper-endoscopy]], the page's declared home for it); `c31a9b` (OLGA/OLGIM bands → [[atrophic-gastritis]], which holds the full staging).
+
+**Recut:** `c31aac` now tests the action (test for H. pylori, eradicate if positive), not which recommendation was graded strong; grade and RR 0.68 moved to Back Extra.
+
+**Kept (14):** containers, limited vs extensive, first-degree relative, severity independent of extent, unifocal vs multifocal, AGA 2020 against routine surveillance and against <1y repeat, ACG high-risk mucosal and demographic criteria, low-risk criteria, stacked-risk 1–2y interval, the two AGA 2026 notes, chemoprevention, serum pepsinogens.
+
+**Build:** 1,424 notes; 0 problems on this page; 43 standing "cards stale".
+
+---
+
+## [2026-10-02] lint | Tier-1 ingest queue emptied (items 38 + N13); the 2026-10-01 cron's unstruck/unindexed telemedicine ingest reconciled
+
+**Inbox check:** **No new arrivals.** All 14 `raw/` subfolder counts match the audited baseline exactly — AGA 189, ACG 61, Lectures 60, ASGE 50, AASLD 35, Other 20, RCTs 12, NCCN 7, `GI Other Studies` 6, SAGES 3, EASL 2, AFS 2, USPG 1, APA 1 = **449** non-asset files. Nothing loose directly in `raw/`. `git status` clean, which is expected and is never the detector (content subfolders are git-ignored).
+
+**Whole-wiki scan (`lintscan.py`):** 0 broken links · 0 stubs · 0 unescaped alias pipes · 0 missing See Also/Sources · no OS artifacts · no literal `\n` in Mermaid labels. 646 pages / 336 sources. **2 orphans found** (see below).
+
+*(entry in progress — bullets appended as each item lands)*
+
+---
+
 ## [2026-10-01] update | Anki deck-size rules restored; cloze cap raised to 3
 
 **Plan:** `.claude/PLAN-anki-decks.md` §11 re-written after it was lost uncommitted (see the re-check entry below).
