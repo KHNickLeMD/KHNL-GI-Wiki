@@ -72,7 +72,7 @@ Selection among the three preferred NAs is driven by: availability/cost · age �
 ## Dosing and Administration
 
 - **Administration:** tenofovir (TDF, TAF) is taken **with food**; ETV is taken **on an empty stomach**. Confirming that the drug is being taken correctly is the first step in any suboptimal virologic response. ([[aasld-idsa-2025-chb-treatment]])
-- **The ingested guidelines do not print adult milligram doses or renal dose-adjustment cut-points for entecavir, TDF or TAF** — they state only that ETV and TDF require adjustment for renal dysfunction or dialysis. The only NA dose any ingested source gives is **telbivudine 600 mg daily**, from the pregnancy trial ACG 2016 cites (gestational weeks 20–32, HBeAg-positive, HBV DNA >7 log₁₀ copies/mL). ([[acg-2016-liver-disease-pregnancy]])
+- **AASLD/IDSA 2025 does not print adult milligram doses or renal dose-adjustment cut-points for entecavir, TDF or TAF** — it states only that ETV and TDF require adjustment for renal dysfunction or dialysis. Dose from the product label. The one NA dose these guidelines do give is **telbivudine 600 mg daily**, from the pregnancy trial ACG 2016 cites (gestational weeks 20–32, HBeAg-positive, HBV DNA >7 log₁₀ copies/mL). ([[acg-2016-liver-disease-pregnancy]])
 - Pill burden and long-term adherence are explicit considerations: therapy is anticipated to last **many years**, and a switch is generally preferred over add-on therapy because of lower pill burden.
 
 ---

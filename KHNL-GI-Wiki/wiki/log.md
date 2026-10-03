@@ -6,11 +6,58 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
-## [2026-10-03] lint | Last non-lecture raw file ingested; HBV antivirals page created; 3 stalest pages validated
+## [2026-10-03] lint | 01:08 cron reconciled; 2 coverage-gap med pages created; 3 stalest pages validated
 
-**Inbox check:** **No new arrivals.** `rawcount.py` reports all 14 `raw/` subfolder counts matching the audited baseline exactly — AGA 189, ACG 61, Lectures 60, ASGE 50, AASLD 35, Other 20, RCTs 12, NCCN 7, `GI Other Studies` 6, SAGES 3, EASL 2, AFS 2, USPG 1, APA 1 = **449** non-asset files, zero drift, nothing loose directly in `raw/`. `git status` clean, which is expected and is never the detector.
+**Inbox check:** **No new arrivals.** `rawcount.py` reports all 14 `raw/` subfolder counts matching the audited baseline exactly — AGA 189, ACG 61, Lectures 60, ASGE 50, AASLD 35, Other 20, RCTs 12, NCCN 7, `GI Other Studies` 6, SAGES 3, EASL 2, AFS 2, USPG 1, APA 1 = **449** non-asset files, zero drift, nothing loose directly in `raw/`. `git status` clean, which is expected and is never the detector (content subfolders are git-ignored, and the rsync rewrites mtimes so `find -newermt` is useless too).
+
+**No ingest work was available this pass.** The tier-1 queue has been empty since 2026-10-02, and the 01:08 cron took the last non-lecture file. What remains in `raw/` is **60 gated lecture transcripts** (never auto-ingested — Nick must name them) and the unusable `IANS 2024 Anal Cancer Screening Consensus.pdf` (6 KB Cloudflare page, not a PDF). See *Remaining for triage*.
+
+**Cron reconciliation (the shared-file edits the 01:08 pass skipped):**
+
+- `index.md` — added the missing rows for both pages the cron wrote: [[hbv-nucleoside-analogs]] (Meds) and [[peery-2025-microscopic-colitis]] (Sources → Other).
+- Gap-queue item **12** struck → [[hbv-nucleoside-analogs]]; the `CGH 2025 Review on Microscopic Colitis.pdf` row struck in all **three** places the index still listed it as outstanding (the new-arrivals note, the tier-1-empty banner, the ingest-backlog paragraph).
+- **De-orphaned [[hbv-nucleoside-analogs]]** — and in doing so fixed a **one-home-per-fact duplication**: [[chronic-hepatitis-b]] carried its own preferred-NA agent-selection table, the same avoid rules the new drug page owns. Replaced with a pointer; the disease page keeps only the three-agent list. Linked from its `## See Also`, `updated:` bumped.
+- **Removed wiki-internal phrasing from [[hbv-nucleoside-analogs]]** — a dosing bullet opened *"The ingested guidelines do not print…"*. Rewritten reader-facing as *"AASLD/IDSA 2025 does not print adult milligram doses… Dose from the product label."*
+- `index.md` frontmatter `updated:` was stale at 2026-09-04 → 2026-10-03.
+- **[[needed-sources]]** — added the entecavir / TDF / TAF product labels (adult milligram doses, renal cut-points, TDF renal and bone monitoring intervals) against [[hbv-nucleoside-analogs]].
+
+**Stalest-page rotation note:** `overview.md` is nominally the stalest page (`updated: 2026-08-29`) but is a two-line pointer deferring to `README.md` as the single source of truth — there is nothing on it to validate, so the rotation advanced to the two stalest substantive pages below.
+
+**Stalest pages validated:**
+
+- `wiki/7-concepts/ostomy-management.md` (was `updated: 2026-08-31`) validated against the `aga-2023-ostomies` original PDF — **no fabricated guideline content found**, unlike cryptosporidiosis. Removed 4 unsupported items: [[ulcerative-colitis]] as an ostomy *indication* (the update names only IBD and Crohn's disease), "table sugar" for stomal edema (the source says *a cup of sugar left in place 20 minutes* — the dose was the load-bearing part, and it was missing), a `variceal-upper-gi-bleeding` link asserting a portal-hypertension relationship for peristomal varices that the source never makes, and the >2000 mL/24 h parenteral-nutrition threshold owned by [[nutrition-in-ibd]]. Deleted a trailing *"what the update does not cover"* maintainer block and a duplicated output-expectations bullet. **Restored 7 facts the page had dropped from its own source** (folliculitis, leakage timing with weight change and pregnancy, Hartmann's pouch as the end-ostomy distal end, loop-ostomy detail). Restructured high ostomy output into a definitions table + early/chronic/ladder subsections, added the missing lede and nested `## Contents`, expanded intravenous (IV) on first use, added [[diverticulitis]] / [[short-bowel-syndrome]] / [[nutrition-in-ibd]] inline links.
+
+- [[esophageal-dysfunction-systemic-disease]] (was `updated: 2026-08-31`) validated against the AGA 2024 CPU original PDF — **no fabricated claims** (every figure re-verified), but **the source's Table 1 evaluation grid had never reached any wiki page**: recreated natively as `## Evaluation by Pertinent History`, which supplies the decision inputs the page had been missing entirely — EoE biopsy counts and off-PPI interval (3–4 distal + 3–4 proximal, off proton pump inhibitor ≥2–4 weeks), routine H&E *plus* separate direct immunofluorescence (DIF) biopsies for bullous/lichen-planus disease, timed barium esophagram with pill for post-COVID-19 dysmotility, and the systemic-sclerosis manometric signature. Expanded secondary achalasia from a 3-bullet stub into the full framework this page is the declared home for (autoimmune odds ratios with confidence intervals, EoE relative risk 32.9, Chagas serology, post-COVID-19, paraneoplastic); added **pemphigus vulgaris's negative-DIF caveat** (12 of 26 DIF-positive — a negative DIF does not exclude it), the esophageal-lichen-planus fibrinogen finding, and a new DIF tissue-handling subsection. Added `## Contents`, converted two prose sections to tables, expanded ~25 abbreviations on first use, de-duplicated BPA 3 to a pointer at [[infectious-esophagitis]].
+- **Cross-page dedup from that validation:** [[achalasia]]'s secondary-achalasia bullet restated the same content including "OR up to 3.6"; shrunk to a pointer at the owner page per one-home-per-fact.
+
+**Coverage gaps filled (queue item 14):**
+
+- Created `wiki/5-meds/eoe-therapies.md` from [[acg-2025-eoe]] + [[aga-2020-eoe]] — agent-by-agent dosing (PPI at double the approved reflux dose with the divided-dosing evidence, budesonide/fluticasone formulations plus the compounding recipe, dupilumab weight bands with the **weekly**-not-q2w rule at ≥40 kg), 8–12 wk induction, the <15 eos/hpf and EREFS ≤2 response targets, maintenance doses with their remission rates, and candidiasis/adrenal-insufficiency safety. ACG 2025 given priority over AGA 2020 on allergy-test-directed diet, dupilumab and step-up-vs-6FED, with all three contradictions surfaced on the page. Added to `index.md`; queue row struck.
+
+**⚠ Serious find for triage — a source page invents the guideline's numbering and grades.** [[acg-2025-eoe]]'s *Recommendations Summary* table does not match the document: Rec 4 is *quantify eosinophil counts at every endoscopy* (low/strong); **Rec 5 (PPIs as a treatment) is low/conditional, not "moderate/strong first-line"**; and there is **no recommendation "PPI regardless of reflux symptoms"** at all. Recs 6–19 check out, and the disease page [[eosinophilic-esophagitis]] has Recs 3/4 right — the defect is confined to the source page's summary table. **This is the same failure mode as `asge-2020-endoscopic-removal` (2026-09-08), where 23 of 34 invented grades contradicted a document that numbers nothing.** Not fixed this pass — it needs a recommendation-by-recommendation re-read of the PDF, which is its own unit of work. **Next pass should take this first.**
 
 *(entry in progress — bullets appended as each item lands)*
+
+---
+
+## [2026-10-03] lint | 01:08 cron pass — CGH 2025 microscopic colitis review ingested; HBV antivirals page created; 3 stalest pages validated
+
+⚠ **This entry was finished retroactively by the manual pass above**, which also applied the shared-file edits the cron skipped. The cron's page work was sound; its bookkeeping was not — **it wrote 2 new pages, added neither to `index.md`, struck nothing in the gap queue, left [[hbv-nucleoside-analogs]] a whole-wiki orphan, and stopped mid-entry.** Same failure mode as the 2026-09-20/21/22/23, 09-26 and 10-01 crons; the standing instruction to write the index row and log bullet the moment a page is written is still not being followed by the scheduled pass.
+
+**Source ingested (1 — the last non-lecture file in `raw/`):**
+
+- [[peery-2025-microscopic-colitis]] — *CGH 2025 Review on Microscopic Colitis*. **Tier-2 narrative review, not a guideline** — it adds non-conflicting detail only and never overrides [[aga-2016-microscopic-colitis]]. ⚠ **No Anki cards may be written from it** (guideline-sourced-cards-only rule).
+
+**Pages created (1):**
+
+- [[hbv-nucleoside-analogs]] — *HBV Nucleos(t)ide Analogs (Entecavir, TDF, TAF)*, gap-queue item 12. Built on 7 ingested sources: agent-selection avoid-rules table (pregnancy, prior lamivudine, renal/bone disease, HIV co-infection), renal dose-adjustment and dialysis rules, treatment targets, suboptimal-virologic-response switch/add-on logic, pregnancy and breastfeeding, stopping rules, monitoring.
+
+**Pages updated (3 — the then-stalest):**
+
+- [[microscopic-colitis]] — histologic thresholds and therapy detail from the newly ingested review.
+- [[focal-nodular-hyperplasia]] — **source-fidelity corrections**: removed the unsupported claim that *"OCP use does not increase FNH risk; discontinuation does not cause FNH regression"*; rewrote the hepatocellular-adenoma and hypervascular-metastasis differentials to what ACG 2024 actually says; expanded OATP and fixed a re-expanded MRI abbreviation.
+- [[acg-2020-sibo]] — dropped a duplicated `#` title, corrected the citation line to standard author format, and tightened the breath-test thresholds to the North American Consensus wording (≥20 ppm within **90** minutes, the first-peak-within-90-minutes rule for lactulose, the unconfirmed methane-*rise* alternative); replaced an overstated vitamin-deficiency bullet with the source's own subtle/extreme split.
+- [[anti-tnf-agents]] — minor abbreviation fix.
 
 ---
 

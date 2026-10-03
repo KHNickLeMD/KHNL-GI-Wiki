@@ -299,7 +299,7 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 
 ## See Also
 
-[[dysphagia]], [[gerd]], [[achalasia]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[celiac-disease]], [[barretts-esophagus]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[upper-endoscopy]], [[colonoscopy]], [[proton-pump-inhibitors]], [[flip-panometry]], [[high-resolution-manometry]], [[endoscopy-sedation]], [[ingested-foreign-body]]
+[[eoe-therapies]], [[dysphagia]], [[gerd]], [[achalasia]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[celiac-disease]], [[barretts-esophagus]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[upper-endoscopy]], [[colonoscopy]], [[proton-pump-inhibitors]], [[flip-panometry]], [[high-resolution-manometry]], [[endoscopy-sedation]], [[ingested-foreign-body]]
 
 ---
 

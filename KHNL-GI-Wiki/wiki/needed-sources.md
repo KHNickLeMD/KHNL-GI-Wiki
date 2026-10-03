@@ -65,6 +65,9 @@ Papers, guidelines, tables, and figures that would close a specific gap on a wik
 | Johnson & DeMeester — DeMeester score | components and abnormal cut-off | [[reflux-testing]] |
 | Revicki 2012, *Neurogastroenterol Motil* 24:456 — GCSI-DD | items and averaging rule | [[gastroparesis]] |
 | Rao — dyssynergic defecation types I–IV; London Classification (anorectal manometry) | subtype definitions; manometric pattern classification | [[defecation-disorders]], [[biofeedback-therapy]], [[anorectal-manometry]] |
+| Rowe KM, Schiller LR. *Ileostomy diarrhea: pathophysiology and management.* Proc (Bayl Univ Med Cent) 2020;33:218–226 | altered oral drug absorption after ileostomy / with short bowel, and quantitative daily ileostomy output volumes — AGA 2023 covers neither | [[ostomy-management]] |
+| Davis BR et al. *ASCRS Clinical Practice Guidelines for Ostomy Surgery.* Dis Colon Rectum 2022;65:1173–1190 | operative and technical criteria, stoma siting, hernia-prevention grading | [[ostomy-management]] |
+| Antoniou SA et al. *European Hernia Society guidelines on prevention and treatment of parastomal hernias.* Hernia 2018;22:183–198 | parastomal hernia classification + repair criteria | [[ostomy-management]] |
 | Wexner / Cleveland Clinic score; Fecal Incontinence Severity Index | FI severity items and points | [[fecal-incontinence]] |
 | Gage 2001 — CHADS2; Lip 2010 — CHA2DS2-VASc; Barbar 2010 — Padua; Decousus 2011 — IMPROVE | items and points behind the ACG/CAG 2022 thrombotic-risk bands | [[anticoagulation-gi-bleeding]], [[cirrhosis-hemostasis]] |
 | Kastrinos 2011 — PREMM1,2,6 | regression coefficients / points | [[lynch-syndrome]] |
@@ -157,6 +160,7 @@ Papers, guidelines, tables, and figures that would close a specific gap on a wik
 | Ustekinumab, guselkumab, mirikizumab, risankizumab labels; UNIFI, UNITI, LUCENT, GRAVITI, QUASAR, ADVANCE/MOTIVATE reports | efficacy vs placebo, reaction rates, TB/HBV screening, TDM, escalation, pregnancy / pouchitis use | [[il-23-and-il-12-23-inhibitors]] |
 | Tenapanor, plecanatide, linaclotide labels | contraindications, pediatric limits, renal / hepatic adjustment | [[tenapanor]], [[plecanatide]], [[linaclotide]] |
 | Tacrolimus label | neurotoxicity / adverse-effect detail | [[tacrolimus]] |
+| Entecavir, tenofovir disoproxil fumarate and tenofovir alafenamide labels | adult milligram doses and the renal dose-adjustment / dialysis cut-points — AASLD/IDSA 2025 states only *that* ETV and TDF need adjustment, and prints no numbers; also the renal and bone monitoring intervals on TDF | [[hbv-nucleoside-analogs]] |
 | Givosiran label or ENVISION report | mg/kg dose | [[givosiran]] |
 | Albendazole label | mg/kg dose for hepatic echinococcosis | [[hepatic-cysts]] |
 | Rebyota / Vowst labels | dosing | [[fmt]] |
@@ -169,6 +173,7 @@ Papers, guidelines, tables, and figures that would close a specific gap on a wik
 | ACG 2025 gastric premalignant Figure 4; AGA 2021 atrophic gastritis Supplementary Figure 1A/B | OLGA/OLGIM stage-assignment grid | [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]] |
 | ACG/ASGE 2025 EGD quality Figure 2; AGA 2024 upper-endoscopy quality Figure 2 | LA, Hill, Prague, Paris, Forrest, EREFS panels | [[upper-endoscopy]], [[upper-gi-bleeding]], [[reflux-testing]] |
 | ACG 2025 EoE Figure 2 (EREFS with example scoring) | per-feature EREFS points | [[eosinophilic-esophagitis]] |
+| AGA 2024 CPU *Esophageal Dysfunction from Immunity & Infection* Figure 1 | 6-panel endoscopic appearances — (A) Sjögren's with stricture, (B) Crohn's disease, (C) lichen planus with edema/exudates, (D) candida esophagitis, (E) pemphigus with sloughing tissue, (F) EoE with rings/furrows/edema/exudates. This is an endoscopic-appearance page, so the pictures are required, not optional | [[esophageal-dysfunction-systemic-disease]] |
 | AGA 2019 AIP Figure 1 | treatment algorithm | [[autoimmune-pancreatitis]] |
 | AGA 2022 refractory gastroparesis Figure 2 | management algorithm | [[aga-2021-medically-refractory-gastroparesis]] |
 | AGA 2022 refractory celiac Figure 1 | diagnostic / management algorithm | [[aga-2022-refractory-celiac]] |
@@ -200,4 +205,4 @@ Papers, guidelines, tables, and figures that would close a specific gap on a wik
 
 ## Topics with no page and no source
 
-Pyogenic / amebic liver abscess · hepatitis A · hepatitis E · small bowel obstruction · chronic intestinal pseudo-obstruction · Zenker's diverticulum · Dieulafoy lesion · Mallory-Weiss · caustic / pill esophagitis · Zollinger-Ellison · gallbladder polyps · choledochal cysts · acalculous cholecystitis · alpha-1 antitrypsin deficiency · ischemic / congestive hepatopathy · CMV colitis · Whipple disease · anorectal abscess / fistula (non-IBD) · pruritus ani · aortoenteric fistula · Cameron lesions · Schatzki ring · GI GVHD · solitary rectal ulcer syndrome (colorectal-surgery / pelvic-floor guideline; currently a section of [[rectal-prolapse]]) · all of `6-anatomy/`.
+Pyogenic / amebic liver abscess · hepatitis A · hepatitis E · small bowel obstruction · chronic intestinal pseudo-obstruction · Zenker's diverticulum · Dieulafoy lesion · Mallory-Weiss · caustic / pill esophagitis · Zollinger-Ellison · gallbladder polyps · choledochal cysts · acalculous cholecystitis · alpha-1 antitrypsin deficiency · ischemic / congestive hepatopathy · CMV colitis · Whipple disease · anorectal abscess / fistula (non-IBD) · pruritus ani · aortoenteric fistula · Cameron lesions · Schatzki ring · GI GVHD · solitary rectal ulcer syndrome (colorectal-surgery / pelvic-floor guideline; currently a section of [[rectal-prolapse]]) · pyoderma gangrenosum (named on [[ostomy-management]] and the IBD pages; the only ingested mention is a single sentence in AGA 2023 Ostomies — needs a dermatology or IBD extraintestinal-manifestation source) · all of `6-anatomy/`.

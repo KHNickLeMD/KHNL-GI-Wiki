@@ -109,7 +109,7 @@ Disease progresses: Type III → Type II → Type I as esophagus dilates over ti
 - [[esophagogastric-junction-outflow-obstruction|esophagogastric junction outflow obstruction (EGJOO)]] — elevated IRP but preserved (or only partially disordered) peristalsis; a manometric finding with many mimics, not a diagnosis in itself
 - [[esophageal-dysfunction-systemic-disease|Scleroderma esophagus]] (absent peristalsis but low LES pressure)
 - Chagas disease (secondary achalasia from T. cruzi — clinically indistinguishable)
-- **Secondary ("mimic") achalasia** — consider infectious/inflammatory causes at initial evaluation: recent coronavirus disease 2019 (COVID-19) infection, Chagas risk, and eosinophilic/mast-cell disease; achalasia is hypothesized to be autoimmune (↑ odds of autoimmune conditions, OR up to 3.6). (American Gastroenterological Association [AGA] 2024)
+- **Secondary ("mimic") achalasia** — consider infectious/inflammatory causes at initial evaluation: recent coronavirus disease 2019 (COVID-19) infection, Chagas risk, eosinophilic/mast-cell disease, and paraneoplastic causes. *The full framework — the autoimmune, eosinophilic, Chagas, post-COVID-19 and paraneoplastic categories with their effect sizes and the tests that separate them — lives on [[esophageal-dysfunction-systemic-disease]].*
 
 ---
 
