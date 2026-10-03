@@ -64,7 +64,7 @@ Monoclonal tumor necrosis factor-α (TNF-α) antagonists — **infliximab, adali
 *CD dosing from [[acg-2025-crohns]]; UC dosing from [[acg-2025-uc]].*
 
 > **Three cells in the table above are not guideline-stated** — verify against labeling before dosing:
-> - **Certolizumab pegol induction (400 mg at weeks 0, 2, 4)** — neither [[acg-2025-crohns]] nor [[aga-2021-crohns-pharm]] states an induction schedule for certolizumab; both discuss the agent only qualitatively. Confirm against FDA labeling.
+> - **Certolizumab pegol induction (400 mg at weeks 0, 2, 4)** — neither [[acg-2025-crohns]] nor [[aga-2021-crohns-pharm]] states an induction schedule for certolizumab; both discuss the agent only qualitatively. Confirm against US Food and Drug Administration (FDA) labeling.
 > - **Golimumab maintenance interval (q4wk)** — [[acg-2025-uc]] sources the **100 mg** dose (PURSUIT week-54 data) but never states the every-4-week interval; [[acg-2019-uc]] gives no doses and [[aga-2024-uc-pharm]]'s "200 mg q4w" belongs to guselkumab, not golimumab.
 > - **Adalimumab induction in CD** — the 160 → 80 loading is sourced from the **UC** guideline (ULTRA-2) only; [[acg-2025-crohns]] gives no adalimumab induction regimen. The maintenance figures (40 mg q2wk or weekly) *are* from the CD guideline.
 >
@@ -179,7 +179,7 @@ The **ASUC pathway** (when to escalate, infliximab-vs-cyclosporine choice, bridg
 
 ## Combination Therapy with Immunomodulators
 
-**Why it exists:** antidrug antibodies against anti-TNF agents — **particularly infliximab and adalimumab** — can develop **as early as the first 100 days** of treatment, particularly on anti-TNF **monotherapy**. Adding a thiopurine or methotrexate improves pharmacokinetics and reduces immunogenicity ([[acg-2025-crohns]] Key Concept 43).
+**Why it exists:** antidrug antibodies against anti-TNF agents — **particularly infliximab and adalimumab** — can develop **as early as the first 100 days** of treatment, particularly on anti-TNF **monotherapy**. Adding a thiopurine or [[methotrexate]] improves pharmacokinetics and reduces immunogenicity ([[acg-2025-crohns]] Key Concept 43).
 
 | Question | Answer | Strength / evidence |
 |---|---|---|

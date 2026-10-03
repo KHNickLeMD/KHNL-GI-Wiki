@@ -3,7 +3,7 @@ title: "Focal Nodular Hyperplasia"
 category: disease-script
 tags: [fnh, liver, hpb, focal-liver-lesion, benign-liver, gadoxetate, mri]
 created: 2026-05-07
-updated: 2026-09-06
+updated: 2026-10-03
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -62,11 +62,11 @@ Key concern is distinguishing FNH from [[hepatocellular-adenoma|HCA]] (very diff
 
 *Workup & imaging comparison: see [[focal-liver-lesions]].*
 
-- **[[hepatocellular-adenoma|Hepatocellular adenoma]]** — most important distinction; HCA lacks central scar; lacks hepatobiliary phase gadoxetate uptake in typical pattern; management is very different (see [[hepatocellular-adenoma]])
-- **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]]** — in [[cirrhosis|cirrhotic]] background; arterial phase hyperenhancement (APHE) + washout; [[li-rads|Liver Imaging Reporting and Data System (LI-RADS)]] ≥4; no central scar
-- **Hypervascular metastasis** — (e.g. from [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], renal cell carcinoma [RCC], thyroid cancer); multiple lesions; clinical context
-- **[[hepatic-hemangioma|Hepatic hemangioma]]** — T2 hyperintense; centripetal fill-in; no central scar; no hepatobiliary phase uptake
-- **Fibrolamellar HCC (FLHCC)** — <1% of US primary liver tumors; highest incidence in White men <40 y; arises in a **non-cirrhotic** liver; large, often solitary, heterogeneous early enhancement ± calcification. **A central scar is present in up to half of cases, so it is confused with FNH** — the discriminator is the hepatobiliary phase (HBP): **FLHCC is HBP-hypointense, FNH is HBP-hyperintense**. Unlike conventional [[hepatocellular-carcinoma|HCC]], FLHCC **must be diagnosed by biopsy** ([[acg-2024-focal-liver-lesions]])
+- **[[hepatocellular-adenoma|Hepatocellular adenoma]]** — most important distinction; on hepatobiliary phase (HBP) [[mri-mrcp|magnetic resonance imaging (MRI)]] HCA is **usually devoid of signal**, in contradistinction to FNH; management is very different (see [[hepatocellular-adenoma]])
+- **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]]** — any lesion arising in a [[cirrhosis|cirrhotic]] liver must be considered HCC until proven otherwise; follow American Association for the Study of Liver Diseases (AASLD) HCC guidance rather than this pathway
+- **Hypervascular metastasis** — consider with a known or suspected extrahepatic primary; MRI with hepatobiliary contrast + diffusion-weighted imaging (DWI) is the recommended modality for suspected liver metastases (Key Concept [KC] 32)
+- **[[hepatic-hemangioma|Hepatic hemangioma]]** — light-bulb bright on T2; peripheral nodular enhancement with centripetal fill-in; HBP-hypointense
+- **Fibrolamellar HCC (FLHCC)** — <1% of US primary liver tumors; highest incidence in White men <40 y; arises in a **non-cirrhotic** liver; large, often solitary, heterogeneous early enhancement ± calcification. **A central scar is present in up to half of cases, so it is confused with FNH** — the discriminator is the HBP: **FLHCC is HBP-hypointense, FNH is HBP-hyperintense**. Unlike conventional [[hepatocellular-carcinoma|HCC]], FLHCC **must be diagnosed by biopsy** ([[acg-2024-focal-liver-lesions]])
 
 ---
 
@@ -74,7 +74,7 @@ Key concern is distinguishing FNH from [[hepatocellular-adenoma|HCA]] (very diff
 
 ### Imaging
 
-**[[mri-mrcp|Magnetic resonance imaging (MRI)]] with hepatobiliary contrast agent (e.g. gadoxetic acid) — preferred modality** (Rec 9, Conditional / Low) [[acg-2024-focal-liver-lesions]]:
+**MRI with hepatobiliary contrast agent (e.g. gadoxetic acid) — preferred modality** (Rec 9, Conditional / Low) [[acg-2024-focal-liver-lesions]]:
 
 - Correctly classifies FNH vs [[hepatocellular-adenoma|HCA]] with accuracy **>90%**; **specificity ~100%** for FNH
 - Lesion: well-circumscribed, **homogeneously arterial hyperenhancing**, becoming **isoenhancing** on portal venous and delayed phases
@@ -84,9 +84,9 @@ Key concern is distinguishing FNH from [[hepatocellular-adenoma|HCA]] (very diff
 
 **Contrast-enhanced ultrasound (CEUS):** can be used to diagnose FNH; **diagnostic accuracy increases in lesions <3 cm**.
 
-**[[liver-biopsy|Biopsy]]:** not routinely needed once advanced imaging is diagnostic (Key Concept [KC] 19). If FNH cannot be diagnosed by imaging, biopsy may be considered **after multidisciplinary tumor board discussion** — interpretation is difficult (case-series diagnostic yield as low as **58%**) and is aided by immunohistochemistry.
+**[[liver-biopsy|Biopsy]]:** not routinely needed once advanced imaging is diagnostic (KC 19). If FNH cannot be diagnosed by imaging, biopsy may be considered **after multidisciplinary tumor board discussion** — interpretation is difficult (case-series diagnostic yield as low as **58%**) and is aided by immunohistochemistry.
 
-**Diagnostic pitfall — HBP hyperintensity is not unique to FNH** ([[acg-2024-focal-liver-lesions]]): **11% of inflammatory** and **59% of β-catenin–mutated** [[hepatocellular-adenoma|HCA]] express the biliary transporter **OATP1B1/B3**, retain gadoxetic acid, and appear HBP-hyperintense. Rule: **any lesion with an atypical dynamic-imaging appearance for FNH that is HBP-hyperintense should be closely followed** — do not call it FNH and discharge it. Management of indeterminate lesions is below.
+**Diagnostic pitfall — HBP hyperintensity is not unique to FNH** ([[acg-2024-focal-liver-lesions]]): **11% of inflammatory** and **59% of β-catenin–mutated** [[hepatocellular-adenoma|HCA]] express the biliary transporter **organic anion transporter polypeptide (OATP) 1B1/B3**, retain gadoxetic acid, and appear HBP-hyperintense. Rule: **any lesion with an atypical dynamic-imaging appearance for FNH that is HBP-hyperintense should be closely followed** — do not call it FNH and discharge it. Management of indeterminate lesions is below.
 
 ---
 
@@ -102,8 +102,7 @@ Key concern is distinguishing FNH from [[hepatocellular-adenoma|HCA]] (very diff
 
 **OCP use (Rec 10, Conditional / Very low):**
 
-- **Do not routinely discontinue oral contraceptives** in a patient diagnosed with FNH
-- OCP use does not increase FNH risk; discontinuation does not cause FNH regression (unlike [[hepatocellular-adenoma|HCA]])
+- **Do not routinely discontinue oral contraceptives** in a patient diagnosed with FNH — no indication that patients should avoid or discontinue OCPs or hormonal therapy
 
 **Sex and pregnancy:** men with FNH need **no different** evaluation, monitoring, or treatment than women (KC 23); FNH does **not require monitoring during pregnancy** (no evidence of change in FNH during pregnancy).
 

@@ -3,15 +3,13 @@ title: "ACG 2020: Small Intestinal Bacterial Overgrowth"
 category: source
 tags: [sibo, imo, small-bowel, breath-testing, rifaximin, ibs, motility, microbiome]
 created: 2026-05-19
-updated: 2026-05-28
+updated: 2026-10-03
 sources: []
 ---
 
-# ACG 2020: Small Intestinal Bacterial Overgrowth
-
 ## Bibliographic Info
 
-- **Article:** [Mark Pimentel, MD, FRCP(C), FACG; Richard J. Saad, MD, FACG; Millie D. Long, MD, MPH, FACG (GRADE Methodologist); Satish S. C. Rao, MD, PhD, FRCP, FACG. ACG 2020: Small Intestinal Bacterial Overgrowth. The American Journal of Gastroenterology 2020;115:165–178.](https://doi.org/10.14309/ajg.0000000000000501)
+- **Article:** [Pimentel M, Saad RJ, Long MD, Rao SSC. ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth. The American Journal of Gastroenterology 2020;115:165–178.](https://doi.org/10.14309/ajg.0000000000000501)
 - **Authors:** Mark Pimentel, MD, FRCP(C), FACG; Richard J. Saad, MD, FACG; Millie D. Long, MD, MPH, FACG (GRADE Methodologist); Satish S. C. Rao, MD, PhD, FRCP, FACG
 - **Year:** 2020 (received February 13, 2019; accepted November 12, 2019; published online January 8, 2020)
 - **Journal/Publisher:** The American Journal of Gastroenterology 2020;115:165–178
@@ -22,7 +20,7 @@ sources: []
 
 ## Summary
 
-This American College of Gastroenterology (ACG) Clinical Guideline defines small intestinal bacterial overgrowth (SIBO) as a clinical syndrome of gastrointestinal (GI) symptoms caused by the presence of excessive numbers of bacteria within the small intestine, with the most recent North American Consensus supporting a colony count of ≥10³ CFU/mL in a duodenal/jejunal aspirate as diagnostic. Because clinical definitions are unclear in the absence of validated patient-reported outcomes and because GRADE-eligible evidence is limited, the guideline relies on 6 formal GRADE recommendations (all conditional, low or very low evidence) plus 15 key concepts based on expert consensus.
+This American College of Gastroenterology (ACG) Clinical Guideline defines small intestinal bacterial overgrowth (SIBO) as a clinical syndrome of gastrointestinal (GI) symptoms caused by the presence of excessive numbers of bacteria within the small intestine, with the most recent North American Consensus supporting a colony count of ≥10³ colony-forming units per milliliter (CFU/mL) in a duodenal/jejunal aspirate as diagnostic. Because clinical definitions are unclear in the absence of validated patient-reported outcomes and because GRADE-eligible evidence is limited, the guideline relies on 6 formal GRADE recommendations (all conditional, low or very low evidence) plus 15 key concepts based on expert consensus.
 
 For diagnosis, breath testing using glucose or lactulose hydrogen/methane is the recommended non-invasive approach. Small bowel aspirate and culture remains the historical gold standard but is invasive and impractical. The guideline introduces the term **[[intestinal-methanogen-overgrowth|intestinal methanogen overgrowth]] (IMO)** to describe methane-predominant breath test patterns, since methanogens (archaea) are not bacteria. A positive hydrogen breath test is defined as a rise ≥20 ppm from baseline within 90 minutes; a positive methane test is ≥10 ppm at any point. Testing is suggested against in asymptomatic patients on proton pump inhibitors (PPIs).
 
@@ -84,18 +82,23 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 ### Symptoms
 
 - Most common: bloating (most prominent), abdominal pain, flatulence, distension, diarrhea — present in >2/3 of patients
-- Severe cases: fat-soluble vitamin deficiency (B12, D, iron); Folate may be *elevated* (produced by bacteria)
-- Symptoms overlap significantly with [[irritable-bowel-syndrome|IBS]], functional [[dyspepsia]], bloating
+- Severe cases: nutritional deficiencies — vitamin B12, vitamin D, iron — but in most cases these are subtle or undetectable; some patients report fatigue and poor concentration
+- Extreme cases: steatorrhea, weight loss, anemia, fat-soluble vitamin deficiency, mucosal inflammation of the small bowel — usually with extraordinary causes (iatrogenic postsurgical blind loop, scleroderma)
+- Folate may be *elevated* (produced by bacteria)
+- Symptoms overlap significantly with [[irritable-bowel-syndrome|IBS]], functional [[dyspepsia]], bloating — no single symptom is specific to SIBO
 
 ### Breath Testing
 
 - Principle: bacteria ferment carbohydrates → H₂/CH₄ → absorbed → exhaled
 - Substrates: glucose (75 g) or lactulose (10 g) with 1 cup water (~250 mL)
-- Preparation: nothing by mouth (NPO) 8–12h before test; avoid antibiotics 4 weeks prior; avoid promotility agents and laxatives 1 week prior; avoid fermentable foods day before
-- Positive H₂ test: rise ≥20 ppm above baseline within 90–120 minutes
-- Positive CH₄ test: ≥10 ppm at any point during testing
+- Preparation: nothing by mouth (NPO) 8–12h before test; avoid antibiotics 4 weeks prior; avoid promotility agents and laxatives ≥1 week prior; avoid fermentable foods (e.g., complex carbohydrates) the day before; during the test avoid smoking and minimize physical exertion
+- Positive H₂ test: rise ≥20 ppm above baseline — within 90 minutes per the North American Consensus; ≥20 ppm within 90–120 minutes has also been used
+- Positive CH₄ test: ≥10 ppm at any point during testing (North American Consensus). Some experts instead recommend a *rise* of 10 ppm in methane; that criterion requires confirmation
+- Lactulose: a second peak is not required, but the first peak must occur within 90 minutes of substrate administration for the test to be positive
+- A change in, or measured level of, hydrogen or methane that stays below these thresholds is a negative test
 - Lactulose sensitivity 31–68%; specificity 44–100%
 - Glucose sensitivity 20–93%; specificity 30–86%
+- Lactulose is criticized for high false-positive rates (accelerated transit, colonic fermentation); glucose is absorbed in the proximal small bowel and has low sensitivity for distal SIBO
 - H₂S (hydrogen sulfide) testing exists but cutoff not yet validated
 - H₂ and CH₄ are incomplete — future studies examining H₂S (3 gas measurement) may improve accuracy
 
@@ -119,12 +122,14 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 - Motility: IBS, pseudo-obstruction, visceral myopathies, mitochondrial diseases
 - Medications: opiates, potent antisecretory agents (PPIs)
 - Malabsorptive: pancreatic insufficiency, cirrhosis (altered bile acid composition), other
-- Immune-related: human immunodeficiency virus (HIV), common variable immunodeficiency, IgA deficiency
+- Immune-related: human immunodeficiency virus (HIV), common variable immunodeficiency, immunoglobulin A (IgA) deficiency
 - Other: aging (elderly), small bowel diverticulosis
 - Colectomy with loss of ileocecal valve → retrograde movement of colonic flora → SIBO risk
 - PPI use: meta-analysis of 19 studies (>7,000 subjects) showed up to 3-fold higher SIBO risk; but evidence is conflicting and one large sequencing study found no change in microbial diversity with PPI use
-- [[celiac-disease|Celiac disease]]: SIBO prevalence similar in celiac and healthy subjects, lower in IBS
+- [[celiac-disease|Celiac disease]]: patients with celiac disease are also known to have SIBO
 - [[crohns-disease|Crohn's disease]]: 16.8% of those in endoscopic remission had SIBO; SIBO associated with ongoing GI complaints
+- Also associated, mechanism unclear: [[cirrhosis]] and [[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis]], [[chronic-pancreatitis|chronic pancreatitis]], cystic fibrosis, fibromyalgia, alcoholism, multiple sclerosis
+- Other systemic diseases altering motility: Parkinson disease, chronic renal failure, amyloidosis, systemic sclerosis, hypothyroidism — multicenter randomized controlled trials of diagnosis and treatment in these conditions are lacking
 
 ### Treatment
 
@@ -135,7 +140,7 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 | Rifaximin (nonabsorbable) | 550 mg three times daily (t.i.d.) | 61–78% |
 | Amoxicillin-clavulanic acid | 875 mg twice daily (b.i.d.) | 50% |
 | Ciprofloxacin | 500 mg b.i.d. | 43–100% |
-| Doxycycline | 100 mg once daily (q.d.) to b.i.d. | (not specified) |
+| Doxycycline | 100 mg once daily (q.d.) to b.i.d. | Not reported — the study did no repeat testing to reassess SIBO, although all participants had other objective measures of improvement |
 | Metronidazole | 250 mg t.i.d. | 43–87% |
 | Neomycin | 500 mg b.i.d. | 33–55% |
 | Norfloxacin | 400 mg q.d. | 30–100% |
@@ -143,9 +148,10 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 | TMP-SMX | 160/800 mg b.i.d. | 95% |
 
 - Rifaximin meta-analysis (32 trials, n=1,331): overall success rate 70.8% (CI 61.4–78.2%), adverse reactions 4.6%
-- IMO treatment: neomycin alone (500 mg b.i.d.) or rifaximin alone (400 mg t.i.d.) or combination → combination most effective (87% methane reduction to <3 ppm vs. 33% neomycin alone, 28% rifaximin alone)
+- IMO treatment: neomycin alone (500 mg b.i.d.), rifaximin alone (400 mg t.i.d.), or both, for 10 days → combination most effective (methane reduced to undetectable <3 ppm in 87% with both, vs 33% neomycin alone, 28% rifaximin alone). Both neomycin studies defined methane positivity as ≥3 ppm, not the ≥10 ppm recommended by the North American Consensus
 - SIBO frequently recurs: recurrence rates 12.6% at 3 months, 27.5% at 6 months, 43.7% at 9 months
-- No universally accepted retreatment protocol; retreatment after recurrence based on expert opinion
+- No universally accepted retreatment protocol; retreatment after recurrence based on anecdotal evidence and expert opinion. In systemic sclerosis, 7 days of norfloxacin 400 mg b.i.d. alternating monthly with 7 days of metronidazole 250 mg t.i.d. for 3 consecutive months eradicated SIBO in 52%
+- Objectively diagnose SIBO before committing to antibiotic therapy — rising antibiotic use drives resistance, adverse reactions, and opportunistic infection including *Clostridioides difficile*
 
 **Diet:**
 
@@ -161,8 +167,9 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 
 **FMT:**
 
-- No basis for FMT in SIBO treatment currently
-- FDA safety alerts re: multi-drug resistant organism transmission; case report: FMT for C. difficile → recipient acquired constipation phenotype and methane-positive breath test from donor
+- No basis for [[fmt|FMT]] in SIBO treatment currently
+- U.S. Food and Drug Administration (FDA) safety alerts re: multi-drug resistant organism transmission; case report: FMT for *C. difficile* → recipient acquired constipation phenotype and methane-positive breath test from donor
+- Donor screening for SIBO is not established: a positive donor breath test did not preclude donation, though recipients of stool from donors with a positive lactulose breath test had more GI symptoms after FMT (not statistically significant)
 
 ### Guidance for Trial Design (Table 6)
 

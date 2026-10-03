@@ -3,24 +3,27 @@ title: "Microscopic Colitis"
 category: disease-script
 tags: [colon, chronic-diarrhea, collagenous-colitis, lymphocytic-colitis, watery-diarrhea]
 created: 2026-06-04
-updated: 2026-09-24
-sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2020-ibs, acg-2022-celiac, aga-2016-microscopic-colitis]
+updated: 2026-10-03
+sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2020-ibs, acg-2022-celiac, aga-2016-microscopic-colitis, peery-2025-microscopic-colitis]
 ---
-
-> **Histologic thresholds are not stated on this page.** Collagenous and lymphocytic colitis are separated only on biopsy, but [[aga-2016-microscopic-colitis]] addresses medical management only and explicitly does not cover diagnosis — it gives no collagen band thickness and no intraepithelial lymphocyte count. Treatment is the same for both subtypes, so the distinction does not change management.
 
 ## Contents
 - [[#Assessment]]
+  - [[#Risk Factors]]
   - [[#Establishing the Diagnosis]]
   - [[#Who to Scope — Deciding When to Look for It]]
   - [[#Classification / Typing]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
+  - [[#Treatment Target]]
+  - [[#First Step — Contributing Factors]]
   - [[#Induction of Clinical Remission]]
   - [[#Maintenance of Clinical Remission]]
   - [[#Ongoing or Refractory Symptoms]]
+  - [[#Advanced Therapy]]
   - [[#Recommended Against]]
+  - [[#Health Maintenance]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -29,7 +32,32 @@ sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2020-ibs, acg-2022-ce
 - Microscopic colitis is a cause of **chronic watery diarrhea** caused by inflammation in the colon and **diagnosed by colonic biopsy**; it comprises two subtypes — **collagenous colitis** and **lymphocytic colitis** — distinguished only by **histology**. [[asge-2010-diarrhea]], [[aga-2016-microscopic-colitis]]
 - **Predilection for age ≥60**; **female predominance in collagenous colitis**. Reported prevalence **48–219 per 100,000**. [[aga-2016-microscopic-colitis]]
 - Accounts for **~10% of chronic-diarrhea referrals** [[asge-2010-diarrhea]]; occurs in **7.5% of patients undergoing evaluation for chronic diarrhea** [[aga-2016-microscopic-colitis]].
-- **Not associated with increased mortality**, and there is no evidence that persistent histologic inflammation portends [[colorectal-cancer|colorectal cancer]] or need for surgery — symptoms nonetheless impair quality of life. This is why the treatment goal is **symptom relief and quality of life with minimal drug toxicity**, not histologic healing. [[aga-2016-microscopic-colitis]]
+- **Not associated with increased mortality**, and there is no evidence that persistent histologic inflammation portends [[colorectal-cancer|colorectal cancer]] or need for surgery — symptoms nonetheless impair quality of life. This is why the treatment goal is **symptom relief and quality of life with minimal drug toxicity**, not histologic healing. [[aga-2016-microscopic-colitis]] Mortality is unsettled in later data: two cohorts found a small excess (comorbidity burden; smoking-related disease) and a US study found none, the excess likely residual confounding by smoking. [[peery-2025-microscopic-colitis]]
+- **Symptom profile:** fecal urgency **93%**, fecal incontinence **68%**, weight loss **65%**, nocturnal bowel movements **62%**, abdominal pain **52%**. Fatigue is common and may reflect sleep disturbance from nocturnal stools. Symptoms are **worse after cholecystectomy**. [[peery-2025-microscopic-colitis]]
+- **Natural history:** **40% have a relapsing or chronic course at 5 years**, with worse quality of life than those with a quiescent course. [[peery-2025-microscopic-colitis]]
+- **Outpatient follow-up after diagnosis is critical** — in a cohort of newly diagnosed patients, some were unaware of the diagnosis, some were never treated, and many remained symptomatic at 1 year. [[peery-2025-microscopic-colitis]]
+
+### Risk Factors
+
+*All from [[peery-2025-microscopic-colitis]].*
+
+| Factor | Direction / magnitude |
+|---|---|
+| **Age** | Risk rises with age; mean age at diagnosis **60–64 y**. Reported at all ages, including children |
+| **Female sex** | **~3× more likely** than men |
+| **Smoking** | Current smokers **3× the odds**; also associated with reduced treatment response |
+| **Alcohol** | Increased risk, **dose-dependent** |
+| **Obesity / adult weight gain** | **Reduced** risk in women |
+| **Diet** | **No** association (protein, carbohydrate, fat, fiber, diet quality, gluten) |
+| **[[celiac-disease\|Celiac disease]]** | The most important autoimmune association. **6.7% of patients with celiac disease will be diagnosed with microscopic colitis**; risk highest in the **first year** after celiac diagnosis but still elevated at **10 y** |
+| **Other autoimmune disease** | Ankylosing spondylitis, type 1 diabetes, Graves disease, Hashimoto thyroiditis, rheumatoid arthritis, multiple sclerosis, [[crohns-disease\|Crohn's disease]], [[ulcerative-colitis\|ulcerative colitis]] |
+| **Predominant antibody deficiency** (esp. common variable immunodeficiency) | Increased risk — **consider it in younger patients with refractory symptoms** |
+| **Antecedent gastrointestinal infection** | [[clostridioides-difficile\|*Clostridium difficile*]], *Norovirus*, *Escherichia* species in one cohort; [[campylobacter-infection\|*Campylobacter concisus*]] in another. Risk highest in the **first year**, elevated for years |
+| **Immune checkpoint inhibitors** | Induce a type of microscopic colitis that **may be more severe and may require different treatment** — see [[immune-checkpoint-inhibitor-colitis]] |
+| **Family history** | Higher risk in one cross-sectional study; genetic contribution not well defined |
+| **Race** | Limited research suggests it is less common in Black, Asian, and Hispanic patients, but it is described worldwide — **consider it in patients of all races and ethnicities** |
+
+- **Medications — the classic teaching is contested.** Aspirin, NSAIDs, PPIs and SSRIs have been associated with increased risk, but the evidence is low-certainty, and **two recent studies using chronic-diarrhea comparators found most previously implicated medications were not associated** (NSAIDs the exception in one). This narrows the action — see *First Step — Contributing Factors*. [[peery-2025-microscopic-colitis]]
 
 ### Establishing the Diagnosis
 
@@ -53,7 +81,18 @@ The common indication "colonoscopy to rule out microscopic colitis" in suspected
 
 ### Classification / Typing
 
-- Two subtypes — **lymphocytic** and **collagenous** colitis. **Medical management is identical:** outcomes did not differ between the subtypes in the American Gastroenterological Association (AGA) technical review, so the guideline's recommendations **do not distinguish between them**. [[aga-2016-microscopic-colitis]]
+- Two subtypes — **lymphocytic** and **collagenous** colitis. **Medical management is identical:** outcomes did not differ between the subtypes in the American Gastroenterological Association (AGA) technical review, so the guideline's recommendations **do not distinguish between them**. [[aga-2016-microscopic-colitis]], [[peery-2025-microscopic-colitis]]
+
+**Histologic criteria** [[peery-2025-microscopic-colitis]]
+
+| Subtype | Defining feature | Shared features |
+|---|---|---|
+| **Collagenous colitis** | Thickened subepithelial **collagen band >10 µm** | Lymphoplasmacytic lamina propria infiltration (lymphocytes, plasma cells, eosinophils, rare neutrophils); **minimal or no crypt architectural distortion** |
+| **Lymphocytic colitis** | **>20 intraepithelial lymphocytes per 100 surface epithelial cells** | As above |
+| **Incomplete microscopic colitis** | Chronic diarrhea **plus either** intraepithelial lymphocytes **5–20 per 100 epithelial cells** **or** a collagen band **5–10 µm** — below the thresholds for a classic diagnosis | — |
+
+- **The subtype can change over time** — **1.6%** converted from lymphocytic to collagenous colitis and **0.5%** the other way in a large study. [[peery-2025-microscopic-colitis]]
+- **Histologic severity does not track symptoms:** lamina propria lymphocyte density and collagen band thickness are **not associated with symptom burden** — which is why histologic response is not a treatment target. [[peery-2025-microscopic-colitis]]
 
 ## Differential Diagnosis
 

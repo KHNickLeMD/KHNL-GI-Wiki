@@ -6,6 +6,14 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-03] lint | Last non-lecture raw file ingested; HBV antivirals page created; 3 stalest pages validated
+
+**Inbox check:** **No new arrivals.** `rawcount.py` reports all 14 `raw/` subfolder counts matching the audited baseline exactly — AGA 189, ACG 61, Lectures 60, ASGE 50, AASLD 35, Other 20, RCTs 12, NCCN 7, `GI Other Studies` 6, SAGES 3, EASL 2, AFS 2, USPG 1, APA 1 = **449** non-asset files, zero drift, nothing loose directly in `raw/`. `git status` clean, which is expected and is never the detector.
+
+*(entry in progress — bullets appended as each item lands)*
+
+---
+
 ## [2026-10-02] update | Anki cards — gastric intestinal metaplasia re-checked against the deck-size rules (23 → 15 live notes)
 
 **Why:** the 2026-10-01 cron pass carded [[gastric-intestinal-metaplasia]] before the deck-size rules reached `CLAUDE.md`. Nick asked for the recheck. No other card file was written since.
