@@ -4,7 +4,7 @@ category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
 updated: 2026-09-29
-sources: [aga-2021-colonoscopy-quality, usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia, aga-2021-gi-perforations-endoscopic-management]
+sources: [aga-2021-colonoscopy-quality, usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia, aga-2021-gi-perforations-endoscopic-management]
 ---
 
 # Colonoscopy
@@ -74,7 +74,7 @@ All surveillance recommendations assume high-quality examination. [[usmstf-2020-
 
 Procedure-level items that belong to this page:
 
-- **Adequate bowel prep:** able to visualize polyps >5mm; **target >90%** at endoscopist and unit level [[usmstf-2025-bowel-prep]]. Segment-level adequacy cutoff: see [[#Preparation Quality Scales]].
+- **Adequate bowel prep:** able to visualize polyps >5mm; **target ≥90%** at endoscopist and unit level [[usmstf-2025-bowel-prep]]. Segment-level adequacy cutoff: see [[#Preparation Quality Scales]].
 - **Photodocument the cecal landmarks** — appendiceal orifice and ileocecal valve (or terminal ileum) — in the report. [[aga-2021-colonoscopy-quality]]
 - **Second look of the right colon**, retroflexed or forward view (equally effective): withdraw to the hepatic flexure inspecting and clearing polyps, then reintubate the cecum and re-examine the proximal colon — increases ADR by **5%–20%**. [[aga-2021-colonoscopy-quality]]
 - **High-definition colonoscopes** for screening and surveillance — definite but modest gains in adenoma, serrated polyp, and advanced adenoma detection. [[aga-2021-colonoscopy-quality]]
@@ -190,7 +190,7 @@ For detailed technique, see [[polypectomy]].
 
 ### GLP-1 Receptor Agonists
 
-[[acg-2025-bowel-prep]]
+[[usmstf-2025-bowel-prep]]
 
 [[glp-1-receptor-agonists|Glucagon-like peptide-1 receptor agonists (GLP-1 RAs)]] ([[semaglutide]], liraglutide, tirzepatide, etc.) delay gastric emptying and are associated with increased aspiration risk during [[endoscopy-sedation|procedural sedation]].
 
@@ -223,8 +223,8 @@ Grade prep **after** all washing/suctioning is complete ([[asge-2015-bowel-prepa
 | **Ottawa Bowel Preparation Scale** | Each of 3 segments (right, transverse/descending, sigmoid/rectum) 0–4, **plus** whole-colon fluid score (0 small, 1 moderate, 2 large) | **0** (excellent) – **14** (very poor) | Per segment: 0 excellent (mucosal detail clearly visible); 1 good (minimal turbid fluid); 2 fair (must suction to view); 3 poor (must wash and suction); 4 inadequate (solid stool not cleared) |
 | **Aronchick Scale** | Whole colon (segments not evaluated) | **1**–**5** | 1 excellent (>95% mucosa seen); 2 good (clear liquid over ≤25% mucosa, >90% seen); 3 fair (semisolid stool not suctionable, >90% seen); 4 poor (semisolid stool not suctionable, <90% seen); 5 inadequate (repeat prep needed) |
 
-- **Adequacy cutoff (the actionable rule, [[acg-2025-bowel-prep]]):** a **BBPS segment score of 2 or 3 in *all* segments = adequate** (validated against the ability to detect adenomas **>5 mm**). Consider a **total BBPS <6 caused by any segment scoring <2 to be inadequate, requiring repeat colonoscopy as soon as feasible within 12 months.**
-- **Adequacy is indication-specific, and must be worded that way** ([[acg-2025-bowel-prep]]):
+- **Adequacy cutoff (the actionable rule, [[usmstf-2025-bowel-prep]]):** a **BBPS segment score of 2 or 3 in *all* segments = adequate** (validated against the ability to detect adenomas **>5 mm**). Consider a **total BBPS <6 caused by any segment scoring <2 to be inadequate, requiring repeat colonoscopy as soon as feasible within 12 months.**
+- **Adequacy is indication-specific, and must be worded that way** ([[usmstf-2025-bowel-prep]]):
   - Score **all segments** on a screening/surveillance exam. For a small region of mucosa that cannot be cleared, the endoscopist may exercise judgment based on the **overall likelihood of missing a clinically meaningful lesion**.
   - On a **non-screening/surveillance** colonoscopy the prep may be **adequate for that indication** (e.g. [[chronic-diarrhea|diarrhea]], hematochezia) while still **inadequate for screening/surveillance** — the report must state the distinction so the right interval is assigned.
   - The word **"fair" is not an adequacy statement** — whenever it is used it must be accompanied by an explicit statement of whether standard screening/surveillance intervals can be assigned.
@@ -297,15 +297,14 @@ High-risk = any of: surgery without total mesorectal excision (TME); transanal l
 2. [[usmstf-2021-crc-screening-age|USMSTF 2021: Updates on Age to Start and Stop CRC Screening]]
 3. [[usmstf-2020-endoscopic-removal|USMSTF 2020: Endoscopic Removal of Colorectal Lesions]]
 4. [[usmstf-2025-bowel-prep|USMSTF 2025: Optimizing Bowel Preparation Quality for Colonoscopy]]
-5. [[acg-2025-bowel-prep|ACG 2025: Optimizing Bowel Preparation Quality for Colonoscopy]]
-6. [[acg-2014-bowel-cleansing|Optimizing Adequacy of Bowel Cleansing for Colonoscopy: Recommendations from the US Multi-Society Task Force on Colorectal Cancer (2014)]]
-7. [[asge-2015-bowel-preparation|ASGE 2015: Bowel Preparation Before Colonoscopy]]
-8. [[usmstf-2015-crc-surveillance|USMSTF 2015: Colonoscopy Surveillance after Colorectal Cancer Resection]]
-9. [[aga-2025-cade-colonoscopy|AGA Living Guideline: Computer-Aided Detection (CADe)-Assisted Colonoscopy (2025)]]
-10. [[aga-2023-ai-colon-polyp|AGA Clinical Practice Update on the Role of Artificial Intelligence in Colon Polyp Diagnosis and Management: Commentary]]
-11. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in Inflammatory Bowel Disease (2015)]]
-12. [[aga-2024-glp1-endoscopy|AGA Rapid Clinical Practice Update on the Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy: Communication (2024)]]
-13. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary]]
-14. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
-15. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review (2021)]]
-16. [[aga-2021-colonoscopy-quality|AGA Clinical Practice Update on Strategies to Improve Quality of Screening and Surveillance Colonoscopy: Expert Review (2021)]]
+5. [[acg-2014-bowel-cleansing|Optimizing Adequacy of Bowel Cleansing for Colonoscopy: Recommendations from the US Multi-Society Task Force on Colorectal Cancer (2014)]]
+6. [[asge-2015-bowel-preparation|ASGE 2015: Bowel Preparation Before Colonoscopy]]
+7. [[usmstf-2015-crc-surveillance|USMSTF 2015: Colonoscopy Surveillance after Colorectal Cancer Resection]]
+8. [[aga-2025-cade-colonoscopy|AGA Living Guideline: Computer-Aided Detection (CADe)-Assisted Colonoscopy (2025)]]
+9. [[aga-2023-ai-colon-polyp|AGA Clinical Practice Update on the Role of Artificial Intelligence in Colon Polyp Diagnosis and Management: Commentary]]
+10. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in Inflammatory Bowel Disease (2015)]]
+11. [[aga-2024-glp1-endoscopy|AGA Rapid Clinical Practice Update on the Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy: Communication (2024)]]
+12. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary]]
+13. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
+14. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review (2021)]]
+15. [[aga-2021-colonoscopy-quality|AGA Clinical Practice Update on Strategies to Improve Quality of Screening and Surveillance Colonoscopy: Expert Review (2021)]]

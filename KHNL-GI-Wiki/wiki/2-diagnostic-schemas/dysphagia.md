@@ -3,7 +3,7 @@ title: "Dysphagia"
 category: diagnostic-schema
 tags: [dysphagia, esophageal, oropharyngeal, motility, achalasia, eosinophilic-esophagitis, odynophagia, globus]
 created: 2026-06-04
-updated: 2026-09-07
+updated: 2026-10-04
 sources: [acg-2020-esophageal-physiologic-testing, chicago-v4-2021-esophageal-dysmotility, acg-2025-egd-quality, aga-2024-esophageal-immunity-infection, acg-2020-achalasia, rome-v-2026-dgbi]
 ---
 
@@ -114,7 +114,7 @@ flowchart TD
 
 ## Key Tests
 
-- **[[upper-endoscopy|EGD]]** — first-line for esophageal dysphagia; direct visualization, biopsy (mucosal disease, EoE, malignancy), and therapeutic dilation of strictures/rings.
+- **[[upper-endoscopy|EGD]]** — first-line for esophageal dysphagia; direct visualization, biopsy (mucosal disease, EoE, malignancy), and therapeutic [[esophageal-dilation|dilation]] of strictures/rings.
 - **Esophageal biopsies for EoE** — **≥6 biopsies from ≥2 levels (proximal/mid *and* distal)** for dysphagia without an endoscopic etiology; required even with normal-appearing mucosa. This is a formal EGD quality indicator with a **>90% performance target** ([[acg-2025-egd-quality]]).
 - **Modified barium swallow / videofluoroscopy** — test of choice for **oropharyngeal** dysphagia; assesses transfer mechanics and aspiration.
 - **Barium esophagram / timed barium esophagram** — structural and functional overview; sensitive for rings, webs, subtle strictures, extrinsic compression; timed barium quantifies achalasia emptying.

@@ -3,7 +3,7 @@ title: "Eosinophilic Esophagitis"
 category: disease-script
 tags: [eoe, esophageal, dysphagia, food-impaction, eosinophil, atopic, biologic, dupilumab]
 created: 2026-05-07
-updated: 2026-09-05
+updated: 2026-10-04
 sources: [acg-2025-eoe, aga-2020-eoe, acg-2013-eoe, aga-2024-esophageal-immunity-infection, asge-2011-foreign-body-ingestion]
 ---
 
@@ -277,7 +277,7 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 1. Confirm adherence (STC technique, diet compliance)
 2. Consider switching to another first-line modality
 3. Step up to dupilumab if PPI/STC/diet failed
-4. Add esophageal dilation if fibrostenotic component
+4. Add [[esophageal-dilation|esophageal dilation]] if fibrostenotic component
 5. Refer to specialty center
 
 **Adrenal function testing:** not routine for short-term STC; consider with long-term use or multiple concurrent corticosteroids.

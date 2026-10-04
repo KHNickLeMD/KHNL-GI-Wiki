@@ -3,7 +3,7 @@ title: "Endoscopic Management of GI Perforation"
 category: general-procedure
 tags: [perforation, adverse-events, endoscopic-closure, clips, otsc, ttsc, endoscopic-suturing, sems, endoscopic-vacuum-therapy, ercp, esd, emr, poem]
 created: 2026-09-08
-updated: 2026-09-18
+updated: 2026-10-04
 sources: [aga-2021-gi-perforations-endoscopic-management]
 ---
 
@@ -71,7 +71,7 @@ Know them before the case, so the consent conversation and team preparation happ
 ## Esophagus
 
 - **Non-iatrogenic causes:** caustic ingestion, sharp penetrating foreign bodies (e.g. fishbone), Boerhaave syndrome.
-- **Perforation rates:** esophageal dilation for simple rings or peptic strictures **0.09%–2.2%** (higher for caustic or radiation-induced strictures); **[[pneumatic-dilation|pneumatic dilation]] in [[achalasia]] 0.4%–14%**; EMR in [[barretts-esophagus|Barrett's esophagus]] **0%–3%**.
+- **Perforation rates:** [[esophageal-dilation|esophageal dilation]] for simple rings or peptic strictures **0.09%–2.2%** (higher for caustic or radiation-induced strictures); **[[pneumatic-dilation|pneumatic dilation]] in [[achalasia]] 0.4%–14%**; EMR in [[barretts-esophagus|Barrett's esophagus]] **0%–3%**.
 - **In [[eosinophilic-esophagitis|eosinophilic esophagitis (EoE)]]:** 10 perforations (**2.0%**) among 511 patients over 14 years; risk factors were a **history of food impaction (odds ratio [OR] 14.9, 95% confidence interval [CI] 1.7–129.2)** and **a focal stricture (OR 4.6, 95% CI 1.1–19.7)**. In a systematic review of 76 perforations in 70 EoE patients most were **non-iatrogenic**; pushing impacted food into the stomach caused 5 and dilation caused 8; 25/76 required surgery, 10 got a stent, 2 got clips.
 - **[[poem|Peroral endoscopic myotomy (POEM)]]:** small intraprocedural mucosal-flap perforations are common and usually inconsequential → TTSC. The dangerous complication is **delayed barrier failure** → leak, mediastinitis, peritonitis; rate **0.2%–1.1%**. Prevention: control energy delivery from the knife tip at all times; maintain orientation in the tunnel (avoid spiraling); avoid excessive forward force tearing the mucosotomy; avoid "counter-coup" flipping of the knife during myotomy. **Prefer posterior orientation where feasible** — 3 of 4 randomized controlled trials (RCTs) and a meta-analysis of all 4 showed significantly more mucosal injuries with anterior POEM. Check this preference against the newer POEM and achalasia guidance on [[poem]] and [[achalasia]]. **Stenting after POEM is discouraged** — stent erosion through the myotomy, high migration rate, inadequate seal at the patulous post-POEM esophagogastric junction (EGJ).
 - **Clip technique:** begin placement **at the end of the defect distal to the endoscope**, to preserve the view of the remainder.

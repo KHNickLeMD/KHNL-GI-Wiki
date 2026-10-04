@@ -3,7 +3,7 @@ title: "EoE Therapies (Topical Steroids, PPIs, Dupilumab, Diet)"
 category: med
 tags: [eoe, eosinophilic-esophagitis, topical-steroid, budesonide, fluticasone, dupilumab, ppi, dietary-elimination, biologic, esophageal]
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-04
 sources: [acg-2025-eoe, aga-2020-eoe]
 ---
 
@@ -32,7 +32,7 @@ Drug and diet therapy for [[eosinophilic-esophagitis|eosinophilic esophagitis (E
 
 - **One agent at a time.** [[acg-2025-eoe|American College of Gastroenterology (ACG) 2025]]: select a single anti-inflammatory therapy — there are no data on combination therapy ([[proton-pump-inhibitors|proton pump inhibitor (PPI)]] + topical steroid, drug + diet).
 - **No head-to-head comparative efficacy across classes** → choice is by shared decision-making (burden, cost, coverage, patient preference).
-- Esophageal dilation treats stricture, not inflammation, and is always paired with an anti-inflammatory therapy (see [[eosinophilic-esophagitis]]).
+- [[esophageal-dilation|Esophageal dilation]] treats stricture, not inflammation, and is always paired with an anti-inflammatory therapy (see [[eosinophilic-esophagitis]]).
 - Ratings below are from ACG 2025 and from the [[aga-2020-eoe|American Gastroenterological Association (AGA) / Joint Task Force 2020]] guideline.
 
 | Therapy | ACG 2025 | AGA 2020 |

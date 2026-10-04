@@ -3,7 +3,7 @@ title: "Lymphocytic Esophagitis"
 category: disease-script
 tags: [esophagus, lymphocytic-esophagitis, dysphagia, esophageal-rings, histology]
 created: 2026-07-28
-updated: 2026-09-05
+updated: 2026-10-04
 sources: [aga-2024-esophageal-immunity-infection]
 ---
 
@@ -57,7 +57,7 @@ Histologically defined esophageal disorder characterized by a **dense peripapill
 ## Therapeutics
 
 - **PPI therapy**, or **swallowed topical corticosteroids** (topical steroids not well studied in LyE). (Best Practice Advice [BPA] 5)
-- **Esophageal dilation** as needed for rings/strictures causing dysphagia.
+- **[[esophageal-dilation|Esophageal dilation]]** as needed for rings/strictures causing dysphagia.
 
 ## See Also
 

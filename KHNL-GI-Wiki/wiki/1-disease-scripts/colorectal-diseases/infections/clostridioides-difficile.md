@@ -3,7 +3,7 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-09-10
+updated: 2026-10-04
 sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff]
 ---
 
@@ -144,9 +144,11 @@ flowchart TD
     L --> M
     F --> M
 ```
-*Figure 2 — CDI management pathway, recreated from the narrative of [[aga-2026-cdiff-adults]] (its Figures 2A–C could not be extracted). Doses, thresholds, and eligibility criteria are in the sections below.*
+*Figure 2 — CDI management pathway, after [[aga-2026-cdiff-adults]] Figures 2A–C. Doses, thresholds, and eligibility criteria are in the sections below.*
 
 ### Choosing Initial Therapy (nonfulminant)
+
+*Agent-level detail — spectrum, pharmacology, renal and hepatic handling, adverse effects, cost and access — is on [[cdiff-antibiotics|antibiotics for Clostridioides difficile infection]]; this page carries the choice between them.*
 
 **[[aga-2026-cdiff-adults|AGA 2026]] favors fidaxomicin first-line for *all* nonfulminant CDI**, not only high-recurrence-risk patients — narrower spectrum, preserves anaerobic commensals, **6%–11% fewer recurrences** than vancomycin. Vancomycin remains acceptable; choose by shared decision-making around recurrence risk, dosing convenience, access, and cost.
 
@@ -391,7 +393,7 @@ Patients become **less contagious once diarrhea resolves** — formed stool spre
 
 ## See Also
 
-[[acute-diarrhea]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[norovirus]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[microscopic-colitis]], [[colon-ischemia]], [[toxic-megacolon]], [[ostomy-management]], [[pouchitis]], [[fmt]], [[probiotics]], [[loperamide]], [[rifaximin]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]]
+[[acute-diarrhea]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[norovirus]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[microscopic-colitis]], [[colon-ischemia]], [[toxic-megacolon]], [[ostomy-management]], [[pouchitis]], [[fmt]], [[cdiff-antibiotics]], [[probiotics]], [[loperamide]], [[rifaximin]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]]
 
 ---
 
