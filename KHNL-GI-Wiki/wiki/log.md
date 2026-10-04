@@ -6,6 +6,18 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-04] lint | acg-2020-hepatic-mesenteric-circulation validated (carried item); TIF page created
+
+*(entry in progress — bullets appended as each item lands)*
+
+**Inbox check:** **No new arrivals.** `rawcount.py` reports all 14 `raw/` subfolder counts matching the audited baseline exactly — AGA 189, ACG 61, Lectures 60, ASGE 50, AASLD 35, Other 20, RCTs 12, NCCN 7, `GI Other Studies` 6, SAGES 3, EASL 2, AFS 2, USPG 1, APA 1 = **449** non-asset files, zero drift, nothing loose directly in `raw/`. `git status` clean with no untracked files anywhere in the tree, including under `raw/`.
+
+**Whole-wiki scan (`lintscan.py`):** 0 broken links · 0 stubs · 0 unescaped alias pipes · 0 missing See Also/Sources · no OS artifacts. **652 pages / 338 sources** (339 → 338 after yesterday's bowel-prep merge). 1 orphan.
+
+**No ingest work was available.** The tier-1 queue has been empty since 2026-10-02. `raw/` holds **60 gated lecture transcripts** (never auto-ingested — Nick must name them) and the unusable `IANS 2024 Anal Cancer Screening Consensus.pdf` (6 KB Cloudflare page, not a PDF).
+
+---
+
 ## [2026-10-04] lint | acg-2025-eoe recommendation table rebuilt from the PDF; stalest-page rotation moved to source pages
 
 **Inbox check:** **No new arrivals.** `rawcount.py` reports all 14 `raw/` subfolder counts matching the audited baseline exactly — AGA 189, ACG 61, Lectures 60, ASGE 50, AASLD 35, Other 20, RCTs 12, NCCN 7, `GI Other Studies` 6, SAGES 3, EASL 2, AFS 2, USPG 1, APA 1 = **449** non-asset files, zero drift, nothing loose directly in `raw/`. `git status` clean with no untracked files anywhere in the tree, including under `raw/`.
