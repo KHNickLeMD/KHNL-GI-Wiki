@@ -3,7 +3,7 @@ title: "Needed Sources — Download List"
 category: overview
 tags: [maintenance, sources]
 created: 2026-09-08
-updated: 2026-10-02
+updated: 2026-10-04
 sources: []
 ---
 
@@ -21,7 +21,7 @@ Papers, guidelines, tables, and figures that would close a specific gap on a wik
 | Lewis & Heaton 1997 — Bristol Stool Form Scale | the 7 stool types (used by ≥6 pages, defined nowhere) | [[chronic-constipation]], [[irritable-bowel-syndrome]], [[hepatic-encephalopathy]], [[rifaximin]], [[sacral-nerve-stimulation]], [[chronic-diarrhea]] |
 | Rockall 1996 | cut-points assigning age / BP / comorbidity to points | [[upper-gi-bleeding]], [[aga-2020-nvugib-endoscopic-therapies]] |
 | Saltzman 2011 — AIMS65 derivation | albumin unit / threshold | [[upper-gi-bleeding]] |
-| Forrest 1974 | class criteria + class-specific rebleeding rates | [[peptic-ulcer-disease]] |
+| Forrest 1974 | natural-history (untreated) rebleeding rate per class — class criteria and post-hemostasis rebleeding rates are now on [[upper-gi-bleeding]] from ACG/ASGE 2025 | [[peptic-ulcer-disease]] |
 | Banks 2012 — revised Atlanta; original Marshall score paper | modified Marshall per-domain cut-points | [[acute-pancreatitis]] |
 | Wu 2008 — BISAP derivation | component list and points | [[acute-pancreatitis]] |
 | Balthazar / Bollen — CT Severity Index | CTSI points and severity threshold | [[acute-pancreatitis]] |
@@ -60,8 +60,7 @@ Papers, guidelines, tables, and figures that would close a specific gap on a wik
 | Lewis score derivation paper | per-parameter points and severity bands | [[capsule-endoscopy]] |
 | Eckardt 1992, *Gastroenterology* | Eckardt per-item anchors | [[achalasia]] |
 | Dellon 2022 — I-SEE (EoE clinical severity index) | components and points | [[eosinophilic-esophagitis]] |
-| Lundell 1999 — Los Angeles classification | LA grade A–D mucosal-break criteria (also capturable from ACG/ASGE 2025 EGD-quality Fig 2 or AGA 2024 upper-endoscopy-quality Fig 2) | [[reflux-testing]], [[gerd]], [[upper-endoscopy]], [[antireflux-surgery]], [[extraesophageal-reflux]], [[ambulatory-reflux-monitoring]], [[barretts-esophagus]], [[poem]], [[flip-panometry]], [[laryngopharyngeal-symptoms]] |
-| Hill & Kozarek 1996, *J Clin Gastroenterol*; AFS hiatus-grade white paper | Hill flap-valve grades I–IV and AFS hiatus grades with retroflexed images | [[reflux-testing]], [[gerd]], [[antireflux-surgery]], [[hiatal-hernia]], [[upper-endoscopy]], [[afs-2024-ge-valve-after-antireflux-surgery]] |
+| AFS hiatus-grade white paper | American Foregut Society hiatus grades with retroflexed images (Hill I–IV criteria are now on [[reflux-testing]] from AGA 2024 Figure 2) | [[reflux-testing]], [[antireflux-surgery]], [[hiatal-hernia]], [[afs-2024-ge-valve-after-antireflux-surgery]] |
 | Johnson & DeMeester — DeMeester score | components and abnormal cut-off | [[reflux-testing]] |
 | Revicki 2012, *Neurogastroenterol Motil* 24:456 — GCSI-DD | items and averaging rule | [[gastroparesis]] |
 | Rao — dyssynergic defecation types I–IV; London Classification (anorectal manometry) | subtype definitions; manometric pattern classification | [[defecation-disorders]], [[biofeedback-therapy]], [[anorectal-manometry]] |
@@ -86,6 +85,7 @@ Papers, guidelines, tables, and figures that would close a specific gap on a wik
 
 | Resource | Fills | Page(s) |
 |---|---|---|
+| A dysphagia guideline — e.g. ASGE *The role of endoscopy in the evaluation and management of dysphagia* (Gastrointest Endosc 2014) or an equivalent ACG/AGA document | oropharyngeal vs esophageal localization and workup (videofluoroscopy), the solids-vs-liquids history, the oropharyngeal and esophageal differential, and the dysphagia alarm features — currently stated on the page without a supporting ingested source | [[dysphagia]] |
 | Rome V full volume — bowel, gastroduodenal, anorectal chapters | numbered symptom items and frequency thresholds for constipation, FD, CVS, CHS, rumination (B4), FI, F4 | [[chronic-constipation]], [[chronic-idiopathic-constipation]], [[dyspepsia]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[rumination-syndrome]], [[fecal-incontinence]], [[defecation-disorders]], [[aga-2024-cvs]] |
 | NCCN Pancreatic Adenocarcinoma | resectable / borderline / locally advanced contact criteria; AJCC 8th T changes; chemo doses | [[pancreatic-cancer]] |
 | NCCN Genetic/Familial High-Risk Assessment (Colorectal, Endometrial, Gastric); ESPGHAN 2019 hamartomatous polyposis; IGCLC HDGC consensus | Cowden major/minor criteria; PHTS / JPS surveillance; HDGC prophylactic gastrectomy | [[cowden-syndrome]], [[juvenile-polyposis-syndrome]], [[hereditary-diffuse-gastric-cancer]], [[aga-2022-hamartomatous-polyposis]] |
@@ -171,7 +171,6 @@ Papers, guidelines, tables, and figures that would close a specific gap on a wik
 | Resource | Fills | Page(s) |
 |---|---|---|
 | ACG 2025 gastric premalignant Figure 4; AGA 2021 atrophic gastritis Supplementary Figure 1A/B | OLGA/OLGIM stage-assignment grid | [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]] |
-| ACG/ASGE 2025 EGD quality Figure 2; AGA 2024 upper-endoscopy quality Figure 2 | LA, Hill, Prague, Paris, Forrest, EREFS panels | [[upper-endoscopy]], [[upper-gi-bleeding]], [[reflux-testing]] |
 | ACG 2025 EoE Figure 2 (EREFS with example scoring) | per-feature EREFS points | [[eosinophilic-esophagitis]] |
 | AGA 2024 CPU *Esophageal Dysfunction from Immunity & Infection* Figure 1 | 6-panel endoscopic appearances — (A) Sjögren's with stricture, (B) Crohn's disease, (C) lichen planus with edema/exudates, (D) candida esophagitis, (E) pemphigus with sloughing tissue, (F) EoE with rings/furrows/edema/exudates. This is an endoscopic-appearance page, so the pictures are required, not optional | [[esophageal-dysfunction-systemic-disease]] |
 | AGA 2019 AIP Figure 1 | treatment algorithm | [[autoimmune-pancreatitis]] |
@@ -203,6 +202,9 @@ Papers, guidelines, tables, and figures that would close a specific gap on a wik
 | **Multi-Society Task Force 2016 reprocessing guideline** — *Multisociety guideline on reprocessing flexible GI endoscopes: 2016* (ASGE/SHEA/AAMI/ACG/AGA et al., *Gastrointest Endosc* 2017;85:282–294) | the **41 numbered reprocessing recommendations themselves**. The wiki has only AGA's 2017 *commentary* on this document, which reports the counts (2003 = 34, 2011 = 39, 2016 = 41) and names recommendations #2, #3 and #24 but reproduces none of them — so [[endoscope-reprocessing]] can state what changed between versions but cannot state the steps a unit must actually follow | [[endoscope-reprocessing]], [[aga-2017-mstf-endoscope-reprocessing-commentary]], [[ercp]] |
 | **Boston Bowel Preparation Scale scoring paper** — Calderwood AH, Jacobson BC. *Boston Bowel Preparation Scale scores provide a standardized definition of adequate for describing bowel cleanliness.* Gastrointest Endosc 2014;80(2):269–76 | the **0–3 per-segment scoring descriptors**. [[usmstf-2025-bowel-prep]] validates and uses BBPS but reproduces no scale's criteria; [[colonoscopy]] currently states the descriptors attributed to [[asge-2015-bowel-preparation]], which needs verifying. The Ottawa, Aronchick, Harefield and Chicago scales are named with no criteria anywhere | [[colonoscopy]], [[colonoscopy-quality-indicators]] |
 | ECCO definitions paper (steroid dependence / steroid refractoriness) — e.g. ECCO consensus on definitions of IBD treatment outcomes | time-based criteria for steroid dependence (relapse on taper below X mg within Y months; inability to stop within Z months) and steroid refractoriness in CD; ACG 2018/2025 define dependence only as "unable to taper without symptom recrudescence" and give no CD refractoriness definition | [[corticosteroids-ibd]] |
+| **Padova consensus Supplemental Digital Content Tables 1–3** (Am J Gastroenterol 2025, online supplement to the Padova HRM-for-antireflux-surgery consensus) | post-antireflux-surgery HRM normative values and the full Padova classification table, which the main article only references | [[hrm-antireflux-surgery]], [[padova-2025-hrm-antireflux]] |
+| **Chicago Classification v4.0 working-group technical reviews** (EGJ outflow obstruction; HRM protocol; EGJ metrics — Neurogastroenterol Motil 2021 companion papers) | the evidence and derivation behind the EGJOO, protocol and EGJ-metric statements summarized in the main CCv4.0 paper | [[chicago-classification-v4]], [[esophagogastric-junction-outflow-obstruction]] |
+| Post-antireflux-surgery IBP, neo-LES basal pressure and FLIP normative values (no ingested source gives cutoffs) | numeric post-fundoplication thresholds for intrabolus pressure, neo-LES pressure and FLIP metrics | [[hrm-antireflux-surgery]], [[flip-panometry]] |
 
 ## Topics with no page and no source
 

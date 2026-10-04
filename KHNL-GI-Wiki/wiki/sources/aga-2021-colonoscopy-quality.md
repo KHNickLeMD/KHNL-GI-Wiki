@@ -3,7 +3,7 @@ title: "AGA 2021 Clinical Practice Update on Strategies to Improve Quality of Sc
 category: source
 tags: [colonoscopy, quality, adr, sdr, withdrawal-time, cecal-intubation, bowel-prep, polypectomy, crc-screening, colorectal, aga]
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-10-04
 sources: []
 ---
 
@@ -180,7 +180,7 @@ A four-step ladder from poor → variable → adequate → optimal colonoscopy q
 ## Contradictions / Open Questions
 
 - **ADR threshold — 30% vs 25%, and sex-specific vs overall.** This update sets the individual-endoscopist goal at **≥30% (aspirational ≥35%)** and explicitly says colonoscopists with an ADR <30% (and certainly <25%) should undergo focused improvement. [[acg-2021-crc-screening]] uses an **overall minimum of 25%** as its remedial-training trigger, and the sex-specific **≥30% men / ≥20% women** thresholds carried on [[colonoscopy-surveillance]] come from [[usmstf-2020-followup-colonoscopy]]. This update keeps a **single 30% threshold for both sexes**, adding only that sex-based ADRs *may be needed* in a significantly male- or female-predominant practice.
-- **Cecal intubation rate — 90% or 95%?** This update sets **≥90%, aspirational ≥95%**, with ≥95% suggested specifically when inadequately prepped exams are excluded. [[acg-2021-crc-screening]] frames the same pair of numbers differently: ≥90% overall and **≥95% in screening subjects**. The two documents use the same numbers with different denominators — state which denominator is being audited.
+- **Cecal intubation rate — 90% or 95%?** This update sets **≥90%, aspirational ≥95%**, with ≥95% suggested specifically when inadequately prepped exams are excluded. [[acg-2021-crc-screening]] frames the same pair of numbers differently: it grades **≥95% in screening subjects** (Rec 16, Strong / Low) and cites ≥90% overall as the current US recommendation. The two documents use the same numbers with different denominators — state which denominator is being audited.
 - **1–2 small adenomas.** This update says to **consider a 10-year interval**; the [[usmstf-2020-followup-colonoscopy]] grid on [[colonoscopy-surveillance]] assigns **7–10 years**. The CPU is the newer document and suggests, rather than instructs, the longer interval.
 - **Bowel preparation adequacy definition.** This update defines adequate as **BBPS ≥6 with each segment ≥2**, measured at the unit level with a ≥90% target. Later bowel-prep guidance on [[colonoscopy]] adds that a total BBPS <6 caused by any segment scoring <2 is inadequate and that adequacy statements are indication-specific — consistent with, and more granular than, this update.
 - **Serrated lesion detection rate has no counterpart elsewhere in the wiki** — this is the only ingested source giving an SDR benchmark (≥7%, aspirational ≥10%) and its denominator rule (≥500 screening colonoscopies or annually).

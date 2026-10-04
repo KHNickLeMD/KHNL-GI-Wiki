@@ -3,8 +3,8 @@ title: "Sphincter of Oddi Dysfunction"
 category: disease-script
 tags: [sphincter-of-oddi, biliary, pancreatic, ercp, manometry, sphincterotomy, post-cholecystectomy-pain, idiopathic-recurrent-pancreatitis, episod]
 created: 2026-07-17
-updated: 2026-09-01
-sources: [asge-2015-ercp-benign-biliary, asge-2015-benign-pancreatic-disease, asge-2023-post-ercp-pancreatitis]
+updated: 2026-10-04
+sources: [asge-2015-ercp-benign-biliary, asge-2015-benign-pancreatic-disease, asge-2023-post-ercp-pancreatitis, rome-v-2026-dgbi]
 ---
 
 ## Contents
@@ -31,6 +31,7 @@ sources: [asge-2015-ercp-benign-biliary, asge-2015-benign-pancreatic-disease, as
 - Clinical (biliary- or pancreatic-type pain) **plus** objective evidence: abnormal liver or pancreatic enzymes documented on ≥2 occasions, and/or a dilated bile or pancreatic duct.
 - **Exclude structural disease first** — stones, sludge, [[chronic-pancreatitis|chronic pancreatitis (CP)]], malignancy — with cross-sectional imaging, [[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]], and/or [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] before invasive testing. ([[asge-2015-benign-pancreatic-disease]])
 - **Sphincter of Oddi manometry (SOM)** at [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] is the reference test for sphincter hypertension but is invasive and itself raises post-ERCP pancreatitis risk — reserved for selected type II cases, not needed for type I. ([[asge-2015-ercp-benign-biliary]])
+  - ⚠ **Newer change:** [[rome-v-2026-dgbi|Rome V]] (2026) removed sphincter manometry from the supportive diagnostic criteria for both biliary and pancreatic SOD, for lack of sensitivity and reproducibility. Rome V is newer than ASGE 2015.
 - **Do not pursue diagnostic [[ercp|ERCP]] for pancreaticobiliary-type pain when other imaging/labs are normal** — this is the type III scenario, where ERCP has no benefit and real harm (grade under *Therapeutics*). ([[asge-2015-ercp-benign-biliary]])
 
 ### Classification / Typing
@@ -104,3 +105,4 @@ Two parallel 3-type schemes — **biliary** (Rome III revision of the Milwaukee 
 1. [[asge-2015-ercp-benign-biliary|ASGE Guideline: The Role of ERCP in Benign Diseases of the Biliary Tract (2015)]]
 2. [[asge-2015-benign-pancreatic-disease|ASGE Guideline: The Role of Endoscopy in Benign Pancreatic Disease (2015)]]
 3. [[asge-2023-post-ercp-pancreatitis|ASGE Guideline: Post-ERCP Pancreatitis Prevention (2023)]]
+4. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

@@ -3,7 +3,7 @@ title: "Achalasia"
 category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-09-08
+updated: 2026-10-04
 sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-poem, aga-2024-poem-advances, aga-2024-esophageal-immunity-infection, chicago-v4-2021-esophageal-dysmotility]
 ---
 
@@ -85,7 +85,7 @@ All subtypes share **impaired EGJ relaxation**; distinguished by esophageal body
 |---------|-----------|---------|----------|----------------------|
 | **Type I** | 20–40% (2nd most common) | 100% aperistalsis, **no** panesophageal pressurization | [[heller-myotomy\|laparoscopic Heller myotomy (LHM)]] 81% | pneumatic dilation (PD), LHM, or [[poem\|per-oral endoscopic myotomy (POEM)]] |
 | **Type II** | 50–70% (most common) | 100% aperistalsis + **panesophageal pressurization >30 mmHg** (Chicago Classification v4.0 [CCv4.0]: in **≥20% of swallows**) | LHM 92% — best of all subtypes | PD, LHM, or [[poem\|POEM]] — any works well |
-| **Type III** | 5% (least common) | **Premature/spastic contractions** (CCv4.0: **≥20% of swallows**, *no* evidence of normal peristalsis) ± panesophageal pressurization | Worst with lower esophageal sphincter (LES)-only therapy — LHM **71%** vs POEM **93%** (odds ratio [OR] 3.50, 1.39–8.77; P=0.007) | POEM preferred; tailored long myotomy |
+| **Type III** | 5% (least common) | **Premature/spastic contractions** (CCv4.0: **≥20% of swallows**, *no* evidence of peristalsis — no normal or ineffective swallows) ± panesophageal pressurization | Worst with lower esophageal sphincter (LES)-only therapy — LHM **71%** vs POEM **93%** (odds ratio [OR] 3.50, 1.39–8.77; P=0.007) | POEM preferred; tailored long myotomy |
 
 - Subtype success rates for types I/II/III (81% / 92% / 71%) come from **one meta-analysis of 1,575 patients, all LHM** ([[acg-2020-achalasia]]) — they are not head-to-head vs PD.
 - The only **PD**-specific type III figure is a separate 18-patient subgroup of the European achalasia trial: **LHM 86% vs PD 40%, P=0.12 — not statistically significant** (underpowered). Do not quote 40% against the 71% above; they are different studies.
@@ -283,4 +283,4 @@ flowchart TD
 4. [[sages-2024-poem|SAGES Guideline Update: Peroral Endoscopic Myotomy (POEM) for Achalasia (2024)]]
 5. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review (2024)]]
 6. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
-7. [[chicago-v4-2021-esophageal-dysmotility|Chicago Classification v4.0: Esophageal Motility Disorders]]
+7. [[chicago-v4-2021-esophageal-dysmotility|Esophageal Motility Disorders on High-Resolution Manometry: Chicago Classification Version 4.0]]

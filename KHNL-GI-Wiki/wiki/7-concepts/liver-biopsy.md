@@ -3,7 +3,7 @@ title: "Liver Biopsy"
 category: concept
 tags: [liver-biopsy, hepatology, fibrosis-staging, percutaneous, transjugular, eus-guided, coagulation, complications, specimen-adequacy]
 created: 2026-06-04
-updated: 2026-09-05
+updated: 2026-10-04
 sources: [aasld-2009-liver-biopsy, aga-2021-cirrhosis-coagulation, acg-2025-eus-quality, aga-2023-nafld-noninvasive-biomarkers]
 ---
 
@@ -59,10 +59,17 @@ The AASLD 2009 paper predates routine endoscopic ultrasound (EUS)-guided liver b
 
 | Benchmark | Target | Grade |
 |---|---|---|
-| Diagnostically adequate EUS-guided liver biopsy (indicator 8) | **≥85%** | 1B — Strong / Moderate |
-| Clinically significant bleeding after EUS liver biopsy (indicator 19) | **<5%** | 1C¹ — Strong / Low |
+| Diagnostically adequate EUS-guided liver biopsy (indicator 8) | **>85%** | 1B (strong; randomized trials with important limitations) |
+| Clinically significant bleeding after EUS liver biopsy (indicator 19) | **<5%** | 1C+ (strong; overwhelming observational evidence) |
 
-> The guidelines cited here do not state the *technique* of EUS-guided liver biopsy (EUS-LB) (needle gauge/type, number of passes, which lobe(s), portal-tract yield) or compare it head-to-head with the percutaneous or transvenous routes; see the ASGE technology review on EUS-guided liver biopsy for those.
+What [[acg-2025-eus-quality|ACG/ASGE 2025]] adds on EUS-guided liver biopsy (EUS-LB) technique and yield:
+- **Adequacy definition used in EUS-LB studies:** total specimen length **>15 mm** with **>6 complete portal triads** (stricter society definition: >2 cm and >11 triads, often hard to achieve).
+- **Yield:** pooled diagnostic yield ~94%–95%, adequacy 84%, adverse events 3%; target set at >85% because published series come from experienced, high-volume centers.
+- **Needle:** **19-gauge fine-needle biopsy (FNB)** (fork-tip or Franseen) gives longer specimens and more portal triads than fine-needle aspiration (FNA) (2.09 vs 1.47 cm; 42.6 vs 18.1 triads) — favored for EUS-LB, though adverse events (AEs) were higher than with FNA (6% vs 1%). Franseen diagnostic yield 99% vs 88% for other FNB needles.
+- **Technique:** flushing the needle with heparin and wet suction improve yield over dry suction.
+- **Advantages:** real-time needle visualization with Doppler to avoid vessels; access to both lobes; can be combined with endoscopic screening, [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]], or EUS-guided portal pressure measurement.
+- **Vs other routes:** equivalent or superior to transjugular biopsy; data vs percutaneous biopsy conflict, with no clear winner.
+- Number of passes is not specified.
 
 ## Pre-Procedure Coagulation Assessment
 A central message: **conventional coagulation tests poorly predict post-biopsy bleeding.** There is **no prothrombin time-international normalized ratio (PT-INR) or platelet count cutoff** at/above which adverse bleeding can be reliably predicted (Rec 18, Class I/C). Standard US practice often withholds percutaneous biopsy at **PT-INR >1.5**, but the evidence base is weak, and the PT-INR is derived from coumadin-treated reference ranges that don't apply to the rebalanced hemostasis of liver disease (see [[cirrhosis-hemostasis]]).

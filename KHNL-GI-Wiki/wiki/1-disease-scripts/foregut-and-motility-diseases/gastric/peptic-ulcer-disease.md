@@ -3,7 +3,7 @@ title: "Peptic Ulcer Disease"
 category: disease-script
 tags: [pud, peptic-ulcer, h-pylori, nsaid, upper-gi-bleeding, gastric-ulcer, duodenal-ulcer]
 created: 2026-05-19
-updated: 2026-09-06
+updated: 2026-10-04
 sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab, acg-2024-hp-treatment]
 ---
 
@@ -31,7 +31,7 @@ sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab, acg-2024-hp-treatment]
 ### Severity Assessment
 
 - Bleeding ulcers are stratified endoscopically by their **bleeding stigmata** (active spurting, active oozing, nonbleeding visible vessel, adherent clot, flat spot, clean base), which drives the decision to apply [[endoscopic-hemostasis|endoscopic hemostasis]] — see [[upper-gi-bleeding]] for the stigma-by-stigma therapy recommendations and the American College of Gastroenterology (ACG)-sourced further-bleeding data
-  - The **Forrest classification** labels (Ia/Ib/IIa/IIb/IIc/III) are the familiar shorthand for those same stigmata, but [[acg-2021-ugib|ACG 2021]] does **not** use or define Forrest and prints **no** class-specific rebleeding percentages; the class criteria and rebleed rates are in the Forrest 1974 paper.
+  - The **Forrest classification** labels (Ia/Ib/IIa/IIb/IIc/III) are the familiar shorthand for those same stigmata, but [[acg-2021-ugib|ACG 2021]] does **not** use or define Forrest and prints **no** class-specific rebleeding percentages. Class definitions, endoscopic images, and post-hemostasis rebleeding rates per class are on [[upper-gi-bleeding#Step 5: Endoscopic Evaluation — Ulcer Stigmata|upper GI bleeding]] (from ACG/ASGE 2025 and American Gastroenterological Association [AGA] 2024).
 
 ## Differential Diagnosis
 

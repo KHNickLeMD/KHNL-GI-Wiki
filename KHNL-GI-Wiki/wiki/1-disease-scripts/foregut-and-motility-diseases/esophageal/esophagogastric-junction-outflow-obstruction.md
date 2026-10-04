@@ -3,7 +3,7 @@ title: "Esophagogastric Junction Outflow Obstruction (EGJOO)"
 category: disease-script
 tags: [egjoo, esophageal-motility, dysphagia, hrm, chicago-classification, foregut]
 created: 2026-07-29
-updated: 2026-09-06
+updated: 2026-10-04
 sources: [aga-2024-poem-advances, chicago-v4-2021-esophageal-dysmotility, padova-2025-hrm-antireflux]
 ---
 A **manometric finding, not a diagnosis** — impaired esophagogastric junction (EGJ) relaxation with preserved (or only partially disordered) peristalsis, distinguishing it from [[achalasia]]. In isolation it should **not** justify any permanent intervention; it has many mimics and requires correlation with symptoms and confirmatory testing.
@@ -74,7 +74,7 @@ EGJOO is associated with a multitude of alternative causes that must be excluded
 - **First, exhaust less invasive options** — many cases are self-limited, artifactual, or explained by a mimic.
 - **Medical therapy, botulinum toxin injection, endoscopic dilation** — try before any myotomy.
 - **[[poem|per-oral endoscopic myotomy (POEM)]]:** evidence limited; consider **only case-by-case in very selected patients** after less invasive approaches are exhausted and symptomatic obstruction is confirmed. Long-term success for POEM in EGJOO ~**80–85%** (lower than for classic [[achalasia]] subtypes); studies limited by disease rarity ([[aga-2024-poem-advances|American Gastroenterological Association (AGA) 2024]] Best Practice Advice (BPA) 3).
-- **An EGJOO found before [[antireflux-surgery|antireflux surgery (ARS)]] must be addressed first** — e.g. [[pneumatic-dilation|pneumatic dilation]] or POEM evaluation — rather than wrapping over it (**86% consensus**, [[padova-2025-hrm-antireflux|Padova consensus]]); the full pre-ARS motor-disorder framework is on [[hrm-antireflux-surgery]].
+- **Lower esophageal sphincter obstruction meeting CCv4.0 EGJOO criteria must be addressed before [[antireflux-surgery|antireflux surgery (ARS)]]** (**86% agreement**, [[padova-2025-hrm-antireflux|Padova consensus]]) — evaluate with confirmatory testing first and act only if obstruction is definitively identified; the full pre-ARS motor-disorder framework is on [[hrm-antireflux-surgery]].
 
 ## See Also
 
@@ -85,5 +85,5 @@ EGJOO is associated with a multitude of alternative causes that must be excluded
 ## Sources
 
 1. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review (2024)]]
-2. [[chicago-v4-2021-esophageal-dysmotility|Chicago Classification v4.0: Esophageal Motility Disorders]]
+2. [[chicago-v4-2021-esophageal-dysmotility|Esophageal Motility Disorders on High-Resolution Manometry: Chicago Classification Version 4.0]]
 3. [[padova-2025-hrm-antireflux|Padova Consensus: High-Resolution Manometry Before and After Antireflux Surgery]]

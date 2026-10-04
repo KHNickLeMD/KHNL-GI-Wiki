@@ -3,8 +3,8 @@ title: "Reflux Testing"
 category: concept
 tags: [gerd, reflux, ph-monitoring, impedance, manometry, endoscopy, diagnostics]
 created: 2026-05-15
-updated: 2026-09-05
-sources: [acg-2021-gerd, asge-2024-gerd, acg-2020-esophageal-physiologic-testing]
+updated: 2026-10-04
+sources: [acg-2021-gerd, asge-2024-gerd, acg-2020-esophageal-physiologic-testing, aga-2024-upper-endoscopy-quality, acg-2025-egd-quality]
 ---
 
 *Which objective test to order for suspected or refractory [[gerd|gastroesophageal reflux disease (GERD)]], when to order it, and whether to test on or off antisecretory therapy — plus the endoscopic grading systems used to characterise the antireflux barrier.*
@@ -113,7 +113,7 @@ Careful endoscopic evaluation, reporting, and **photo-documentation** of the fol
 | Erosive esophagitis | LA grade A–D | Below |
 | [[barretts-esophagus\|Barrett's esophagus]] | Prague C&M | [[barretts-esophagus]] |
 | Peptic stricture | Present / absent | — |
-| [[hiatal-hernia\|Hiatal hernia]] | Axial length in cm (GEJ to diaphragmatic impression) | [[hiatal-hernia]] |
+| [[hiatal-hernia\|Hiatal hernia]] | Axial length in cm (gastroesophageal junction [GEJ] to diaphragmatic impression) | [[hiatal-hernia]] |
 | Flap valve morphology | Hill grade I–IV or American Foregut Society (AFS) grade, in **forward view and retroflexion** | Below (Hill); AFS not defined by these guidelines |
 | GEJ landmarks | Top of gastric folds, Z-line, diaphragmatic impression | — |
 | Prior fundoplication | Describe if present | — |
@@ -123,15 +123,34 @@ Careful endoscopic evaluation, reporting, and **photo-documentation** of the fol
 
 ### Erosive Esophagitis: Los Angeles (LA) Grade
 
-> [[acg-2021-gerd]], [[asge-2024-gerd]], [[acg-2020-esophageal-physiologic-testing]] and Lyon 2.0 all *use* LA grades A–D without defining them. The A–D criteria come from the original Lundell 1999 LA-classification paper.
->
-> What *is* sourced: grade-specific significance (LA A borderline, LA B conclusive per Lyon 2.0) on [[ambulatory-reflux-monitoring]]; and **LA C/D as sufficient objective evidence of GERD** (see the test-selection table above — do not test off therapy).
+| LA grade | Criterion (modified LA, as printed in the figure panels) |
+|---|---|
+| **A** | ≥1 mucosal breaks, **<5 mm** long, not extending between the tops of 2 folds |
+| **B** | ≥1 mucosal breaks, **>5 mm** long, not extending between the tops of 2 folds |
+| **C** | ≥1 mucosal breaks **continuous between the tops of 2 folds**, **<75%** of the circumference |
+| **D** | ≥1 mucosal breaks continuous between the tops of 2 folds, **≥75%** of the circumference |
+
+![[upper-endoscopy-2024-la-classification-06.png|700x122]]
+*Figure 1 — Modified Los Angeles classification of erosive esophagitis, grades A–D: endoscopic view (circle) and longitudinal schematic for each grade. ([[aga-2024-upper-endoscopy-quality]])*
+
+- Source: [[aga-2024-upper-endoscopy-quality|American Gastroenterological Association (AGA) 2024]] Figure 2. The [[acg-2025-egd-quality|American College of Gastroenterology (ACG)/American Society for Gastrointestinal Endoscopy (ASGE) 2025]] Figure 2 prints grade A as **≤5 mm**; the AGA panel prints **<5 mm**, so a break of exactly 5 mm is grade A in one figure and unassigned in the other.
+- The GERD guidelines ([[acg-2021-gerd]], [[asge-2024-gerd]], [[acg-2020-esophageal-physiologic-testing]]) use the grades without printing the criteria.
+- Grade-specific significance (LA A borderline, LA B conclusive per Lyon 2.0) is on [[ambulatory-reflux-monitoring]]; **LA C/D is sufficient objective evidence of GERD** (test-selection table above — do not test off therapy).
 
 ### Gastroesophageal Flap Valve: Hill Grade
 
-> [[asge-2024-gerd]] grades the flap valve by Hill classification and drives a real decision off it, but **cites Hill & Kozarek, *J Clin Gastroenterol* 1996 rather than reproducing the criteria**; neither the Hill I–IV nor the American Foregut Society (AFS) grade definitions are given by these guidelines.
->
-> What *is* sourced and decision-bearing: **hiatal hernia ≤2 cm + Hill I/II** vs **>2 cm + Hill III/IV** routes the patient between endoscopic and surgical antireflux therapy ([[asge-2024-gerd]]) — that pathway lives on [[antireflux-surgery]].
+| Hill grade | Criterion (as printed in the figure panels) |
+|---|---|
+| **1 (I)** | Prominent fold of the cardia along the lesser curve, closely apposed to the endoscope |
+| **2 (II)** | Gastroesophageal flap valve (GEFV) present but transiently opens and closes with respiration |
+| **3 (III)** | GEFV barely visible; fails to close around the endoscope |
+| **4 (IV)** | GEFV absent; GEJ continuously open; hiatal hernia always present |
+
+![[upper-endoscopy-2024-hill-classification-06.png|700x134]]
+*Figure 2 — Hill classification of the gastroesophageal flap valve, grades 1–4, retroflexed view. ([[aga-2024-upper-endoscopy-quality]])*
+
+- Source: [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2. [[asge-2024-gerd]] grades the valve by Hill (written I–IV) and cites the original paper without reproducing the criteria.
+- **Decision-bearing:** **hiatal hernia ≤2 cm + Hill I/II** vs **>2 cm + Hill III/IV** routes the patient between endoscopic and surgical antireflux therapy ([[asge-2024-gerd]]) — pathway on [[antireflux-surgery]].
 
 ### Mucosal Cleanliness
 
@@ -198,3 +217,5 @@ flowchart TD
 1. [[acg-2021-gerd|ACG 2021 Clinical Guideline: Diagnosis and Management of GERD]]
 2. [[asge-2024-gerd|ASGE 2024: Diagnosis and Management of GERD]]
 3. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]
+4. [[aga-2024-upper-endoscopy-quality|AGA Clinical Practice Update on High-Quality Upper Endoscopy: Expert Review (2024)]]
+5. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy]]

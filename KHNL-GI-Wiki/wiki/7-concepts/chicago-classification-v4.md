@@ -3,7 +3,7 @@ title: "Chicago Classification v4.0 — Esophageal Motility Disorders"
 category: concept
 tags: [manometry, hrm, chicago-classification, esophageal-motility, achalasia, egjoo, iem, des, dysphagia]
 created: 2026-05-16
-updated: 2026-09-07
+updated: 2026-10-04
 sources: [chicago-v4-2021-esophageal-dysmotility, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -32,9 +32,14 @@ Key advances over v3.0:
 
 1. Standardized protocol with supine + upright swallows + multiple rapid swallows (MRS) + rapid drink challenge (RDC)
 2. Manufacturer-specific integrated relaxation pressure (IRP) thresholds (Medtronic vs. Laborie/Diversatek)
-3. [[esophagogastric-junction-outflow-obstruction|esophagogastric junction outflow obstruction (EGJOO)]] reclassified as always manometrically inconclusive — clinical and ancillary test correlation required
+3. [[esophagogastric-junction-outflow-obstruction|Esophagogastric junction outflow obstruction (EGJOO)]] redefined — a manometric EGJOO is always clinically inconclusive; symptoms plus supportive testing required
 4. Fragmented peristalsis eliminated as standalone diagnosis — incorporated into ineffective esophageal motility (IEM)
-5. IEM diagnostic criteria revised
+5. IEM threshold raised; no major vs minor disorder distinction
+6. Diagnoses labelled conclusive vs inconclusive; baseline esophagogastric junction (EGJ) metrics described
+
+**Scope:** normal foregut anatomy only — not after foregut surgery or intervention, or with large hiatal/paraesophageal hernias. Do a careful index endoscopy first; mechanical obstruction precludes CC v4.0. After [[antireflux-surgery|antireflux surgery]] use [[hrm-antireflux-surgery|the Padova Classification]].
+
+**Grading used below:** Strong recommendation = ≥85% panel agreement, Conditional = 80–85%; evidence level by Grading of Recommendations Assessment, Development and Evaluation (GRADE).
 
 ---
 
@@ -42,22 +47,31 @@ Key advances over v3.0:
 
 | Component | Details |
 |-----------|---------|
-| Supine swallows | 10 × 5-mL water swallows |
-| Upright swallows | ≥5 × 5-mL water swallows |
-| MRS | 5 × 2-mL rapid swallows (assesses deglutitive inhibition) |
-| RDC | 200 mL free drinking (assesses esophagogastric junction (EGJ) relaxation under volume load) |
-| Solid swallows | Optional; suggested for symptom provocation |
+| Preparation | Fast ≥4 h (small amounts of clear fluid allowed) |
+| Supine (start) | ≥60 s adaptation, ≥3 deep inspirations, ≥30 s baseline, then **10 × 5-mL wet swallows** ≥30 s apart, then 1 MRS sequence |
+| Upright (sitting ≥80°) | ≥60 s adaptation, ≥3 deep inspirations, ≥30 s baseline, then **≥5 × 5-mL wet swallows**, then 1 RDC |
+| If no conclusive major disorder or findings don't fit symptoms | Solid test swallows / solid test meal / pharmacologic provocation (suspected missed EGJ obstruction); post-prandial impedance observation (suspected rumination or belching) |
+| Equivocal, or obstruction not meeting achalasia criteria | Timed barium esophagram (TBE, preferably with tablet) and/or [[flip-panometry\|functional lumen imaging probe (FLIP)]] |
+
+- **Classify from the primary position** (where the 10 wet swallows were done, supine or upright); the secondary position and provocation are supportive — except EGJOO and absent contractility, which require both positions.
+- Catheter: solid-state, sensor spacing <2 cm; impedance recommended, not required. Labs starting upright should do 10 upright swallows.
+
+![[chicago-2021-ccv4-hierarchical-algorithm-27.png|700x395]]
+*Figure 3 — Chicago Classification v4.0 hierarchical classification scheme: step 1, 10 wet swallows in the primary position; step 2, secondary position + MRS/RDC. \* = manometric pattern of unclear clinical relevance; PEP = panesophageal pressurization; IBP = intrabolus pressure. ([[chicago-v4-2021-esophageal-dysmotility]])*
 
 ---
 
 ## IRP Thresholds (Integrated Relaxation Pressure)
 
-| Position | Medtronic | Laborie/Diversatek |
-|----------|-----------|-------------------|
-| Supine | ≤15 mmHg | ≤22 mmHg |
-| Upright | ≤12 mmHg | ≤15 mmHg |
+Abnormal median IRP (CC v4.0 Table 1):
 
-Elevated IRP (above these thresholds) = impaired EGJ relaxation = potential obstruction.
+| Position | Medtronic | Laborie/Diversatek | Grade |
+|----------|-----------|-------------------|-------|
+| Supine | **≥15 mmHg** | **≥22 mmHg** | Moderate, Strong |
+| Upright | **≥12 mmHg** | **≥15 mmHg** | Low, Strong |
+
+- IRP = mean of the 4 s of maximal deglutitive relaxation in the 10-s window after upper esophageal sphincter relaxation, referenced to gastric pressure.
+- Thresholds are higher supine than upright; distal contractile integral and distal latency thresholds are the same in both positions.
 
 ---
 
@@ -83,7 +97,7 @@ Elevated IRP (above these thresholds) = impaired EGJ relaxation = potential obst
 | **RDC** | 200 mL water, as fast as possible through a straw | Absent body contractility (DCI <100) with complete deglutitive LES inhibition during RDC and no major motility disorder post-RDC |
 | **Solid test swallow** | 10 × ~1 cm³ soft solid (bread, soft-boiled rice, marshmallow) | >20% of pharyngeal swallows followed by an effective contraction (DCI >1,000) without a >5 cm break |
 
-**Outflow-obstruction criteria on provocation** (Medtronic software): IRP **>12 mmHg** over the first 30 s of the RDC, **and/or** panesophageal pressurization **>20 mmHg** during RDC (Low GRADE [Grading of Recommendations Assessment, Development and Evaluation], Conditional); IRP **>25 mmHg** with solid swallows. These are *supportive*, not required, for [[esophagogastric-junction-outflow-obstruction|EGJOO]].
+**Outflow-obstruction criteria on provocation** (Medtronic software): IRP **>12 mmHg** over the first 30 s of the RDC, **and/or** panesophageal pressurization **>20 mmHg** during RDC (Low GRADE, Conditional); IRP **>25 mmHg** with solid swallows. These are *supportive*, not required, for [[esophagogastric-junction-outflow-obstruction|EGJOO]].
 
 ---
 
@@ -111,12 +125,14 @@ Elevated IRP (above these thresholds) = impaired EGJ relaxation = potential obst
 
 | Disorder | Full diagnostic definition | Inconclusive band |
 |----------|---------------------------|-------------------|
-| **Absent contractility** | Normal median IRP **in both supine and upright** & 100% failed peristalsis (DCI <100); [[esophageal-dysfunction-systemic-disease\|scleroderma]] pattern; exclude achalasia | — |
+| **Absent contractility** | Normal median IRP **in both supine and upright** & 100% failed peristalsis (DCI <100) (Accepted Clinical Observation) | Borderline supine median IRP **10–15 mmHg** (Medtronic) → consider type I achalasia; TBE (tablet) and FLIP if dysphagia dominates |
 | **[[distal-esophageal-spasm\|DES]]** \* | Normal median IRP & ≥20% swallows with premature/spastic contraction (DL <4.5 s **with DCI ≥450**) | ≥20% swallows with DL <4.5 s but **DCI <450** → inconclusive for DES |
-| **[[hypercontractile-esophagus\|Hypercontractile esophagus]] (Jackhammer)** \* | Normal median IRP & ≥20% hypercontractile swallows (DCI >8,000) | — |
+| **[[hypercontractile-esophagus\|Hypercontractile esophagus]]** \* | Normal median IRP & **≥20% hypercontractile supine swallows** (DCI >8,000); only when achalasia and DES criteria are not met and mechanical obstruction is excluded. Subgroups: single-peaked, **jackhammer** (repetitive prolonged contractions), vigorous LES after-contraction | — |
 | **[[ineffective-esophageal-motility\|IEM]]** | Normal median IRP & **>70% ineffective swallows** *or* **≥50% failed peristalsis** | **50–70% ineffective swallows → inconclusive** for IEM |
 
-\* Denotes a manometric pattern of **unclear clinical relevance** — a conclusive diagnosis requires clinically relevant symptoms and/or supportive testing.
+\* Denotes a manometric pattern of **unclear clinical relevance** — a conclusive diagnosis requires clinically relevant symptoms and/or supportive testing. For DES and hypercontractile esophagus, clinically relevant symptoms = dysphagia and non-cardiac chest pain.
+
+- Disorders of peristalsis are considered only once an EGJ outflow disorder is excluded. **Overlapping features → classify DES first, then hypercontractile esophagus, then IEM**, noting the overlap.
 
 ### Normal Motility
 
@@ -136,7 +152,7 @@ All metrics within normal ranges; no criteria for above disorders met.
 
 ⚠ **Isolated abnormalities are inconclusive, not EGJOO** (Low GRADE, Strong) — isolated elevated supine IRP, isolated elevated upright IRP, or isolated elevated supine IBP each fail the definition on their own. The combination rule is the diagnosis.
 
-**Clinically relevant conclusive** EGJOO (Moderate GRADE, Conditional) = manometric EGJOO **+** clinically relevant symptoms ([[dysphagia]] and/or non-cardiac chest pain) **+** ≥1 supportive investigation showing obstruction — timed barium esophagram (TBE, preferably with tablet) and/or [[flip-panometry|functional lumen imaging probe (FLIP)]]. Without symptoms and supportive testing, the finding is documented but the entity is not diagnosed and no treatment is indicated.
+**Clinically relevant conclusive** EGJOO (Moderate GRADE, Conditional) = manometric EGJOO **+** clinically relevant symptoms ([[dysphagia]] and/or non-cardiac chest pain) **+** ≥1 supportive investigation showing obstruction — TBE (preferably with tablet) and/or FLIP. Without symptoms and supportive testing, the finding is documented but the entity is not diagnosed and no treatment is indicated.
 
 **Not required but supportive:** outflow obstruction/esophageal pressurization on RDC; outflow obstruction on solid test meal, especially if temporally associated with symptoms; abnormal EGJ function after pharmacologic provocation.
 
@@ -148,7 +164,7 @@ All metrics within normal ranges; no criteria for above disorders met.
 
 **IEM** = normal median IRP with **>70% ineffective swallows** OR **≥50% failed peristalsis** (Very Low GRADE, Strong). An *ineffective* swallow is weak (DCI 100–<450), failed (DCI <100), **or fragmented**.
 
-**50–70% ineffective swallows is inconclusive** for IEM — it is not a diagnosis.
+**50–70% ineffective swallows is inconclusive** for IEM — it is not a diagnosis; supportive testing strengthens confidence (Very Low GRADE, Conditional). Supportive (not required): poor bolus transit on impedance or barium esophagram; lack of contraction reserve on MRS (each Very Low GRADE, Conditional).
 
 **Fragmented peristalsis** (TZ defect >5 cm under the 20 mmHg isobaric contour with DCI ≥450) is **no longer a standalone disorder** (Very Low GRADE, Strong) — it now counts as one flavor of ineffective swallow feeding the IEM thresholds above.
 
@@ -169,7 +185,8 @@ All metrics within normal ranges; no criteria for above disorders met.
 
 ## Historical Note: ACG 2020 and Chicago Classification
 
-The American College of Gastroenterology (ACG) 2020 guideline [[acg-2020-esophageal-physiologic-testing]] predates CC v4.0 and references CC v3.0 in its recommendations. The key conceptual difference is that in 2020, EGJOO was not yet mandated to require ancillary testing (TBE or FLIP) for clinical confirmation. The CC v4.0 (2021) subsequently reclassified EGJOO as always "manometrically inconclusive," requiring symptom correlation and ancillary testing before a clinical EGJOO diagnosis is rendered. For current practice, use CC v4.0 criteria.
+- The American College of Gastroenterology (ACG) 2020 guideline [[acg-2020-esophageal-physiologic-testing]] predates CC v4.0 and cites CC v3.0.
+- CC v4.0 (2021) introduced the rule that a manometric EGJOO is always clinically inconclusive and needs symptoms plus TBE and/or FLIP for a conclusive diagnosis. For current practice, use CC v4.0 criteria.
 
 ---
 
@@ -181,5 +198,5 @@ The American College of Gastroenterology (ACG) 2020 guideline [[acg-2020-esophag
 
 ## Sources
 
-1. [[chicago-v4-2021-esophageal-dysmotility|Chicago Classification v4.0: Esophageal Motility Disorders]]
+1. [[chicago-v4-2021-esophageal-dysmotility|Esophageal Motility Disorders on High-Resolution Manometry: Chicago Classification Version 4.0]]
 2. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]

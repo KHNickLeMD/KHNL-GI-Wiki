@@ -3,7 +3,7 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-09-29
+updated: 2026-10-04
 sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi, aga-2019-opioid-induced-constipation]
 ---
 
@@ -50,7 +50,7 @@ sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-con
 2. **Loose stools are rarely present without the use of laxatives.**
 3. **Insufficient criteria for [[irritable-bowel-syndrome|irritable bowel syndrome]].**
 
-> **Version note:** the criteria list above is **Rome III** ([[asge-2014-constipation]]); [[rome-v-2026-dgbi]] supplies the Rome V *nomenclature* change (above) but not the criteria items. Do not assume the six items or the timing qualifier are unchanged in Rome IV/V — check the Rome V criteria volume.
+> **Version note:** the criteria list above is **Rome III** ([[asge-2014-constipation]]); [[rome-v-2026-dgbi]] supplies the Rome V *nomenclature* change (above) but not the criteria items. The Rome IV/V wording of the six items and the timing qualifier may differ.
 
 **Exclusions (not CIC):**
 

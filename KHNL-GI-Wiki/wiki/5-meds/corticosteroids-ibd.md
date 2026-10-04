@@ -3,7 +3,7 @@ title: "Corticosteroids in IBD (systemic, budesonide CIR, budesonide MMX)"
 category: med
 tags: [ibd, crohns-disease, ulcerative-colitis, corticosteroids, budesonide, prednisone, methylprednisolone, hydrocortisone, induction, steroid-dependence, autoimmune-hepatitis]
 created: 2026-09-20
-updated: 2026-09-24
+updated: 2026-10-04
 sources: [acg-2025-crohns, acg-2025-uc, acg-2018-crohns, acg-2019-uc, acg-2025-ibd-preventive-care, aasld-2020-autoimmune-hepatitis]
 ---
 
@@ -130,10 +130,12 @@ The "against maintenance" recommendations are among the strongest in both guidel
 
 | Exposure | Fracture risk |
 |---|---|
-| **Long-term corticosteroid use** | **30%–50%** fracture risk |
-| **As low as prednisone 2.5 mg/day** | Increased **spinal** fracture risk |
-| **High-dose, >7.5 mg/day** | **5-fold** higher spine/hip fracture risk |
-| **After discontinuation** | Risk decreases **3–6 months** after stopping |
+| **Long-term corticosteroid use** | **30%–50%** of patients develop fractures; risk tracks **daily** dose, not cumulative dose |
+| **Prednisone 3–10 mg/day** | Already raises fracture risk |
+| **As low as prednisone 2.5 mg/day** | **1.55-fold** **spinal** fracture risk |
+| **>7.5 mg/day** | **5-fold** higher spine/hip fracture risk |
+| **Onset** | Fractures appear **3–6 months** after starting |
+| **After discontinuation** | Risk falls as early as **3 months** after stopping; back to baseline within **1–2 years** |
 
 - Background IBD risk (independent of steroids): overall fracture **relative risk (RR) 1.38 (95% confidence interval [CI] 1.11–1.73)**; vertebral fracture **RR 2.26 (95% CI 1.04–4.90)**.
 - **Rec 11 — adults with IBD and conventional bone mineral density (BMD) risk factors: dual-energy X-ray absorptiometry (DEXA) at the time of diagnosis and periodically** *(Conditional, very low)*.

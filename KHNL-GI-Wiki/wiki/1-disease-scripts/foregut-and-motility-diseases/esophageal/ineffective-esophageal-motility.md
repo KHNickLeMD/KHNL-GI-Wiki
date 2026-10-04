@@ -3,7 +3,7 @@ title: "Ineffective Esophageal Motility"
 category: disease-script
 tags: [iem, motility, esophageal, dysphagia, gerd, chicago-classification]
 created: 2026-05-16
-updated: 2026-09-05
+updated: 2026-10-04
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -44,7 +44,7 @@ Note the two signs differ: **>70%** for ineffective, **≥50%** for failed.
 
 **The inconclusive band — don't call it IEM at 50–70%.** CCv4.0: **50–70% ineffective swallows is inconclusive** for IEM (Very Low GRADE, conditional); supportive testing is required to strengthen confidence. Supportive (not required) evidence: **poor bolus transit on impedance or barium esophagram**.
 
-**Chicago v4.0 revision:** Fragmented peristalsis was **eliminated** as a standalone disorder and folded into the definition of an ineffective swallow (above). The thresholds replaced the prior v3.0 criterion (≥50% ineffective), which is why a study read as "IEM" under v3.0 may be inconclusive under v4.0.
+**Chicago v4.0 revision:** Fragmented peristalsis was **eliminated** as a standalone disorder and folded into the definition of an ineffective swallow (above). CCv4.0 also made the IEM criteria more stringent (a higher threshold), so a study read as "IEM" under v3.0 may be inconclusive under v4.0; and v4.0 no longer separates major from minor motility disorders.
 
 ### Severity Assessment
 
@@ -73,7 +73,7 @@ Note the two signs differ: **>70%** for ineffective, **≥50%** for failed.
 ## Diagnostics
 
 - **HRM:** Chicago v4.0 criteria — see [[high-resolution-manometry]]
-- **[[flip-panometry|functional lumen imaging probe (FLIP) panometry]]:** Hypocontractility pattern
+- **[[flip-panometry|functional lumen imaging probe (FLIP) panometry]]:** absent or diminished contractile response with normal esophagogastric junction (EGJ) opening → **consider HRM if hypocontractility is suspected**. Absent contractile response occurs in **23%–43%** of patients with normal primary peristalsis on HRM, so with normal EGJ opening it does not by itself indicate a distinct motor disorder ([[aga-2025-flip-esophageal]])
 - Rule out obstruction and [[achalasia]] before labeling as IEM
 
 ---
@@ -96,6 +96,6 @@ Note the two signs differ: **>70%** for ineffective, **≥50%** for failed.
 
 ## Sources
 
-1. [[chicago-v4-2021-esophageal-dysmotility|Chicago Classification v4.0: Esophageal Motility Disorders]]
+1. [[chicago-v4-2021-esophageal-dysmotility|Esophageal Motility Disorders on High-Resolution Manometry: Chicago Classification Version 4.0]]
 2. [[aga-2025-flip-esophageal|AGA Clinical Practice Update on Incorporating Functional Lumen Imaging Probe Into Esophageal Clinical Practice: Expert Review]]
 3. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]

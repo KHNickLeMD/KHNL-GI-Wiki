@@ -3,7 +3,7 @@ title: "Chronic Constipation"
 category: diagnostic-schema
 tags: [constipation, colorectal, functional, dgbi, anorectal-manometry, colonic-transit, defecation-disorder]
 created: 2026-08-27
-updated: 2026-09-26
+updated: 2026-10-04
 sources: [aga-2026-refractory-constipation, aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, rome-v-2026-dgbi, acg-2021-crc-screening, aga-2019-opioid-induced-constipation]
 ---
 
@@ -38,7 +38,7 @@ The adult presenting with **infrequent and/or unsatisfactory defecation** — ho
     4. Insufficient improvement of another sign or symptom of CC on current treatment
   - This matters because RC is what triggers the whole downstream arm — repeat transit on a maximal laxative regimen, defecography, off-label agents, and the surgical conversation below
 
-> The Rome V process/overview paper prints the **taxonomy** and the **changes** from Rome IV, but not the numbered symptom items and their ≥25%-of-defecations thresholds; those are in the full *Rome V Criteria* volume (bowel-disorders chapter). The symptom list on [[chronic-idiopathic-constipation]] should be verified against it.
+> The Rome V process/overview paper prints the **taxonomy** and the **changes** from Rome IV, but not the numbered symptom items and their ≥25%-of-defecations thresholds; those are in the full *Rome V Criteria* volume (bowel-disorders chapter).
 
 ### What counts as abnormal
 

@@ -6,6 +6,40 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-04] lint | All 13 remaining 2026-05-28 source pages + 3 more rebuilt from their PDFs; capture rule reworded; LA/Hill/Forrest criteria now sourced
+
+**Schema change (Nick's instruction):** CLAUDE.md → *Guidelines — recommendation capture* reworded. #1 priority = meaning identical; verbatim/near-verbatim when short, condensed and simplified when long; always reword rather than copy long passages (content filter); every qualifier and the document's own grade kept; write big rebuilds section by section; **don't reword existing pages that are already accurate and verbatim.**
+
+**Method:** 7 parallel subagents, one per topic group, each owning its entity pages; cross-group proposals, cards, index and log applied centrally. Every page re-read from the PDF with the Read tool.
+
+**Finding — same pattern everywhere:** all 16 source pages had invented or wrong grade schemes (Strong/Moderate/Low or "Consensus Statement" columns on documents that use Guyatt 1A–3, RAND % agreement, GRADE+ACO, or ungraded BPAs), invented numbering, fabricated rows, or dropped qualifiers. **Not confined to 2026-05-28 pages:** `acg-2021-crc-screening` (updated 2026-08-27) and `acg-2025-egd-quality` / `aga-2025-flip-esophageal` had it too. Errors had spread to entity pages in most groups.
+
+**Source pages rebuilt (all `updated: 2026-10-04`):**
+
+- CRC: [[usmstf-2015-crc-surveillance]] (invented Rec 1–6 numbering; rectal criterion garbled), [[usmstf-2016-fit-screening]] (3 graded statements missing; IDA exemption dropped), [[usmstf-2021-crc-screening-age]] (">85 Strong" fabricated; "or life expectancy <10 y" dropped), [[acg-2021-crc-screening]] (21 recs now; Recs 4/7 Strong/Low not Strong/Moderate; family history Conditional/Very low not Strong/Moderate; invented "Summary Statement" rows)
+- Polyps: [[usmstf-2020-malignant-colorectal-polyps]] (9 recs were correct; commentary statistics wrong — LST-NG deep-SMI figures mislabelled, size OR cutoffs, merged studies)
+- Motility: [[chicago-v4-2021-esophageal-dysmotility]] (IRP cutoffs inverted to "≤15 normal"; type II/III criteria incomplete), [[dallas-2025-flip-panometry]] (wrong title/authors; 6→7 categories; 40 statements), [[padova-2025-hrm-antireflux]] (15 statements with median/%), [[aga-2025-flip-esophageal]] (10→11 BPAs; AGA vs Dallas 40 mm Hg boundary surfaced)
+- Other: [[san-diego-2025-lprd]] (~60 statements with RAND %), [[rome-v-2026-dgbi]] (prints no full criteria — only changes; invented rec table removed), [[aga-2021-atrophic-gastritis]] (12 BPAs; BPA 10 missing; ASGE interval misattributed), [[acg-2025-eus-quality]] (Guyatt grades; > vs ≥ targets), [[aga-2024-upper-endoscopy-quality]] (CPU expert review, not QIs; invented targets and GLP-1 BPA), [[acg-2025-ibd-preventive-care]] (12 recs + 11 key concepts; 2017→2025 change table), [[acg-2025-egd-quality]] (Guyatt 1C+ not "1C¹"; 29 indicators, strict ">" targets)
+
+**Entity pages corrected (claims attributed to these sources that the documents don't make):** [[colorectal-cancer]], [[colonoscopy]], [[colorectal-cancer-screening]], [[colonoscopy-quality-indicators]], [[polypectomy]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[chicago-classification-v4]], [[flip-panometry]], [[achalasia]], [[distal-esophageal-spasm]], [[esophagogastric-junction-outflow-obstruction]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[laryngopharyngeal-symptoms]], [[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]], [[abdominal-bloating-and-distention]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[liver-biopsy]], [[ibd-preventive-care]], [[corticosteroids-ibd]], [[upper-gi-bleeding]], [[esophageal-dilation]], [[dysphagia]], [[reflux-testing]], [[peptic-ulcer-disease]], [[antibiotic-prophylaxis-endoscopy]], [[anorectal-manometry]], [[biofeedback-therapy]], [[sphincter-of-oddi-dysfunction]], [[acg-2017-ibd-preventive-care]].
+
+**Gaps closed:** LA grade A–D and Hill 1–4 criteria tabulated with figures on [[reflux-testing]] (from AGA 2024 Figure 2; ACG/ASGE 2025 prints LA A as ≤5 mm vs AGA <5 mm — surfaced); Forrest endoscopic images embedded on [[upper-gi-bleeding]]; Forrest class criteria + post-hemostasis rebleeding rates now sourced (ACG/ASGE 2025). [[needed-sources]]: Lundell LA row and the Figure-2 capture row removed; Hill row narrowed to AFS; Forrest row narrowed to natural-history rates.
+
+**Figures captured (20, `raw/assets/`):** FIT program flow; malignant-polyp JNET 2B, LST-G, LST-NG, specimen pinning; Chicago v4 algorithm; Dallas EGJ opening / CR hierarchy / v2.0 classification; AGA FLIP CR patterns + clinical algorithm; Padova classification; San Diego LPS algorithm; atrophic gastritis endoscopic appearance + Kimura-Takemoto/Sydney; AGA 2024 classification composite, biopsy locations, LA, Hill, Forrest crops.
+
+**Anki:** cards checked against every removed claim. Corrected (ids kept): polypectomy `c6e831` (Tis/Vienna 4), `f18d63` (deep-SMI figures mislabelled), `7b5019` (Haggitt "endoscopic + surveillance" invented); colorectal-cancer `cc1013`, `cc1018`, `cc1019`, `cc101a`; colonoscopy `b4c1b6` (FAP/SPS exclusion invented); DGBI `b10016` (not "any severity"), `b10007`; IBS `7b5006`; bloating `c4a005`. Colonoscopy `b4c1a8`/`b4c1b1` repointed to `usmstf-2025-bowel-prep`. Motility, upper-endoscopy, EUS, IBD-preventive pages have no card files. Deck rebuilt: 1461 notes; only the stale-cards backlog remains (47, grown by today's page edits).
+
+**Raw duplicates noticed (not touched — raw is immutable):** identical PDF pairs for Padova, Dallas, Rome V, Chicago v4 and San Diego in `GI Guidelines/Other/`.
+
+**Remaining for triage:**
+
+- [[dysphagia]]: oropharyngeal arm, solids-vs-liquids discriminator, most of the differential and the whole Red Flags list have no ingested source — needs Nick's call (remove vs ingest a dysphagia guideline; row added to [[needed-sources]]).
+- The fabrication pattern is not limited to 2026-05-28 pages — the stalest-page rotation should keep running across `wiki/sources/` (next: 2026-05-31 and 2026-06-04 pages).
+- Post-CRC-resection surveillance lives on both [[colorectal-cancer]] and [[colonoscopy]] (one-home rule) — left to avoid breaking cards.
+- Card staleness: 47 stale card files for the nightly pass.
+
+---
+
 ## [2026-10-04] update | acg-2020-hepatic-mesenteric-circulation rebuilt in small edits after two content-filter aborts
 
 **Why it kept failing:** both the 18:00 subagent and the 06:00 run died at the same step — a single Write of the whole page reproducing all 23 recommendations and 28 key concepts word for word. The guideline PDF carries "Unauthorized reproduction of this article is prohibited"; a full-length verbatim copy most likely tripped the model's output filter for reproducing copyrighted text. This pass wrote the page section by section **and condensed** the commentary — each recommendation keeps its operative statement, every decision qualifier, and its grade, but not the guideline's supporting paragraphs verbatim. The point was to stop copying at length, not to slip the same text past the filter in smaller pieces.

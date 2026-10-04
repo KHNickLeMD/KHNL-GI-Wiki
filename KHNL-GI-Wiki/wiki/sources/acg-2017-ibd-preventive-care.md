@@ -3,7 +3,7 @@ title: "ACG Clinical Guideline: Preventive Care in Inflammatory Bowel Disease (2
 category: source
 tags: [ibd, crohns, ulcerative-colitis, preventive-care, vaccination, health-maintenance, immunosuppression]
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-10-04
 sources: []
 ---
 
@@ -22,7 +22,7 @@ This was the first ACG clinical guideline dedicated to preventive care / health 
 
 The guideline covers six domains: vaccinations (influenza, pneumococcal, herpes zoster, varicella, yellow fever, meningococcal, tetanus, diphtheria, and acellular pertussis (Tdap)/hepatitis A virus (HAV)/hepatitis B virus (HBV)/HPV, and household-contact considerations), cervical cancer screening, skin cancer screening (melanoma independent of biologic use; non-melanoma skin cancer (NMSC) on thiopurines), screening for depression and anxiety, osteoporosis screening with bone mineral density testing, and smoking cessation (emphasized in [[crohns-disease|Crohn's disease (CD)]]). Colorectal dysplasia surveillance was explicitly out of scope.
 
-Nearly all recommendations were *conditional* with *very low / low* quality of evidence, reflecting the sparse trial base in this area at the time. The 2025 update ([[acg-2025-ibd-preventive-care]]) supersedes the specific vaccine products and schedules (notably the shift to recombinant/adjuvanted zoster vaccine and updated pneumococcal sequencing) and should be used for current practice.
+12 of the 16 statements are *conditional* and 4 *strong*, all on *very low / low* quality of evidence, reflecting the sparse trial base in this area at the time. The 2025 update ([[acg-2025-ibd-preventive-care]]) supersedes the specific vaccine products and schedules (notably the shift to recombinant/adjuvanted zoster vaccine and updated pneumococcal sequencing) and should be used for current practice.
 
 ## Key Findings / Claims — Recommendations
 All 14 recommendation statements (with sub-parts) captured near-verbatim, with GRADE strength and quality of evidence:

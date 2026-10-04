@@ -3,7 +3,7 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
-updated: 2026-09-29
+updated: 2026-10-04
 sources: [aga-2021-colonoscopy-quality, usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia, aga-2021-gi-perforations-endoscopic-management]
 ---
 
@@ -98,25 +98,25 @@ See [[artificial-intelligence-endoscopy]] for the full framework.
 
 | Age | Recommendation | Strength |
 |---|---|---|
-| 45–49, average risk | Offer CRC screening | Weak |
-| ≥50, not yet screened | Recommend CRC screening | Strong |
+| 45–49, average risk | Suggest offering CRC screening | Weak / low |
+| ≥50, not yet screened | Recommend offering CRC screening | Strong / high |
 | 75, up-to-date with negative prior screens | Consider stopping **at age 75 or when life expectancy is <10 years** | Weak / low |
 | 76–85, **no prior screening** | Consider **screening up to age 85**, depending on age and comorbidities | Weak / low |
-| >85 | Do not screen | — |
+| >85 | Screening not recommended | Ungraded summary statement |
 
-**Average risk** = no personal/family history of CRC or colorectal neoplasia, no IBD, no hereditary syndrome
+**Average risk** = no personal or family history of CRC or colorectal neoplasia and no clinical features of CRC (e.g., gastrointestinal bleeding, iron deficiency anemia, abnormal imaging); IBD and hereditary syndromes are outside this guidance
 
-**Preferred tests (Tier 1):**
+**Preferred tests (Tier 1)** — strong recommendation, moderate-quality evidence:
 
 - Colonoscopy every 10 years
 - Annual FIT
 
-**Acceptable alternatives:**
+**Alternatives for people who decline colonoscopy and FIT:**
 
-- FIT–fecal DNA (Cologuard) q3y
-- Computed tomography (CT) colonography (CTC) q5y
-- Flexible sigmoidoscopy q5–10y
-- **[[capsule-endoscopy|Capsule colonoscopy]] q5y** (weak recommendation, low-quality evidence)
+- Flexible sigmoidoscopy q5–10y (strong, high-quality)
+- Computed tomography (CT) colonography (CTC) q5y (strong, low-quality)
+- FIT–fecal DNA (Cologuard) q3y (strong, low-quality)
+- **[[capsule-endoscopy|Capsule colonoscopy]] q5y**, if available, only when all of the above are declined (weak recommendation, low-quality evidence)
 
 ---
 
@@ -237,7 +237,7 @@ Grade prep **after** all washing/suctioning is complete ([[asge-2015-bowel-prepa
 
 [[usmstf-2015-crc-surveillance]]
 
-> Applies to patients after curative-intent resection of colon or rectal cancer (TNM stages I–III). Does NOT apply to [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], or other hereditary CRC syndromes — those require their own syndrome-specific intervals.
+> Applies to patients after curative-intent resection of colon or rectal cancer (TNM stages I–III, plus selected resected stage IV). The intervals do NOT apply to Lynch syndrome; SPS needs more frequent colonoscopy (below). Studies in hereditary syndromes, IBD, and prior CRC were excluded from the evidence review.
 
 A "high-quality" colonoscopy in this context requires: **cecum or anastomosis reached, adequate bowel preparation, and meticulous examination by an appropriately trained operator meeting adenoma-detection benchmarks — i.e. conventional ADR >25% in average-risk screening colonoscopies** ([[usmstf-2015-crc-surveillance]]; [[usmstf-2021-crc-screening-age]] likewise uses "a colonoscopist with a ≥25% overall adenoma detection rate"). All surveillance intervals assume high-quality examinations. ⚠ This **>25% overall** figure and the **sex-specific 30%/20%** thresholds in [[#Quality Metrics]] come from different documents and are not reconciled by either.
 
@@ -276,12 +276,12 @@ High-risk = any of: surgery without total mesorectal excision (TME); transanal l
 
 ### Fecal Testing Post-Resection
 
-- **Insufficient evidence** to recommend routine FIT or fecal DNA after CRC resection — do not use as substitute for colonoscopic surveillance
+- **Insufficient evidence** to recommend routine FIT or fecal DNA for surveillance after CRC resection (ungraded statement)
 
 ### Serrated Polyposis Syndrome (SPS) Consideration
 
-- [[serrated-polyposis-syndrome]] is the most common polyp syndrome; often recognized at perioperative clearing colonoscopy
-- SPS patients with CRC require more frequent colonoscopy intervals per SPS-specific guidelines, not the standard post-resection schedule above
+- SPS is described as the most common polyp syndrome; usually recognized at the colonoscopy that diagnoses CRC or during post-resection surveillance
+- SPS needs more frequent colonoscopy than the schedule above → consider SPS when serrated lesions are multiple and/or large
 
 ---
 

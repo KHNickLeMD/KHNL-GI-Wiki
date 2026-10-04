@@ -3,7 +3,7 @@ title: "Colorectal Cancer Screening"
 category: concept
 tags: [crc, colorectal-cancer, screening, colonoscopy, fit, gfobt, multitarget-stool-dna, septin-9, colonoscopy-quality, adenoma, colorectal]
 created: 2026-05-16
-updated: 2026-09-23
+updated: 2026-10-04
 sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-screening-risk-stratification, aga-2025-crc-blood-tests, aga-2021-crc-chemoprevention, aga-2022-noninvasive-crc-screening, usmstf-2016-fit-screening]
 ---
 
@@ -75,7 +75,7 @@ sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-sc
 | Ages 76–85 | Individualize — most appropriate for the never-screened, those healthy enough for CRC treatment, and those without substantially limited life expectancy | *US Preventive Services Task Force (USPSTF) position as reported by [[acg-2021-crc-screening]]* |
 | Ages ≥86 | Not recommended (competing causes of mortality) | *USPSTF position as reported by [[acg-2021-crc-screening]]* |
 
-The age-45 start was first advanced by the **American Cancer Society (ACS, 2018)** as a **qualified** recommendation; American College of Gastroenterology (ACG) likewise makes it conditional given very-low-quality direct evidence in this group. [[usmstf-2021-crc-screening-age|US Multi-Society Task Force (USMSTF) 2021]] independently recommends **offering** screening at 45–49 (weak recommendation, low-quality evidence) and **not screening** beyond age 85 (strong).
+The age-45 start was first advanced by the **American Cancer Society (ACS, 2018)** as a **qualified** recommendation; American College of Gastroenterology (ACG) likewise makes it conditional given very-low-quality direct evidence in this group. [[usmstf-2021-crc-screening-age|US Multi-Society Task Force (USMSTF) 2021]] independently **suggests offering** screening at 45–49 (weak recommendation, low-quality evidence) and states that screening is **not recommended after age 85** (ungraded summary statement).
 
 **Why the direct evidence is very low quality — the modelling behind 45** ([[aga-2020-young-adult-onset-crc]], reporting on ACS and USPSTF):
 
@@ -129,10 +129,12 @@ Which average-risk options each body endorses, with the interval ([[aga-2022-non
 
 | Modality | Interval | Strength | Notes |
 |----------|----------|---------|-------|
-| **[[colonoscopy\|Colonoscopy]]** | Every 10 years | Strong | High-sensitivity structural test; diagnostic and therapeutic |
-| **Annual FIT** | Annually | Strong | Preferred non-invasive test; quantitative, no dietary restrictions; if positive → colonoscopy |
+| **[[colonoscopy\|Colonoscopy]]** | Every 10 years | Strong / Low (ACG Recs 4, 7) | High-sensitivity structural test; diagnostic and therapeutic |
+| **Annual FIT** | Annually | Strong / Low (ACG Recs 4, 7) | Primary non-invasive test; no dietary or medication restrictions; if positive → colonoscopy |
 
 ### Acceptable Alternative Modalities (conditional)
+
+For individuals **unable or unwilling** to undergo colonoscopy or FIT — [[acg-2021-crc-screening|ACG 2021]] Rec 5 (choice) and Rec 8 (intervals), both Conditional / Very low.
 
 | Modality | Interval | Strength | Notes |
 |----------|----------|---------|-------|
@@ -155,7 +157,7 @@ Which average-risk options each body endorses, with the interval ([[aga-2022-non
 
 FIT measures **human hemoglobin**, so it is unaffected by dietary peroxidase. It is reported either **quantitatively, in µg hemoglobin per g of stool**, or — as FDA-approved — **qualitatively as positive/negative against a threshold value**. The threshold is the decision: lowering it buys sensitivity and costs specificity and colonoscopies.
 
-- **Positivity threshold: ≤20 µg hemoglobin (Hb)/g feces** (USMSTF), supported by two meta-analyses for detection of CRC and advanced adenoma. This is also the threshold of the commonly available US quantitative tests.
+- **Positivity threshold: ≤20 µg hemoglobin (Hb)/g feces** (USMSTF 2016 favors this lower cut-off — weak recommendation, low-quality evidence), supported by two meta-analyses for detection of CRC and advanced adenoma. This is also the threshold of the commonly available US quantitative tests.
 - ⚠ **FIT has no utility for serrated colorectal lesion detection.** A patient whose risk is serrated-pathway risk is not served by FIT.
 
 Sensitivity and specificity, % (95% confidence interval [CI]). *AA = advanced adenoma. The source prints `NR` where a value is not given.*
@@ -266,7 +268,7 @@ What [[acg-2021-crc-screening]] itself recommends (the fuller metric set lives o
 | Rec 13 | **Measure** your individual cecal intubation rate (CIR), adenoma detection rate (ADR), and withdrawal time (WT) | Strong / Moderate for ADR; Low for WT and CIR |
 | Rec 14 | ADR **below the recommended minimum threshold (<25%)** → undertake remedial training | Conditional / Very low |
 | Rec 15 | Spend **≥6 minutes** inspecting mucosa during withdrawal | Strong / Low |
-| Rec 16 | Achieve **CIR ≥90% overall and ≥95% in screening subjects** | Strong / Low |
+| Rec 16 | Achieve **CIR ≥95% in screening subjects** (the discussion also cites the current US recommendation of ≥90% overall, ungraded) | Strong / Low |
 
 - **ADR thresholds — which number applies where** (the three co-exist; Rec 14's `<25%` is the *overall* floor, not a different rule):
 
@@ -357,8 +359,8 @@ What [[acg-2021-crc-screening]] itself recommends (the fuller metric set lives o
 |-------|----------|-------------|
 | Age 45–49 start | **Suggest** screening — Conditional / Very low (Rec 2) | **Offer** screening — Weak / Low |
 | Age 50+, not yet screened | Recommend — Strong / Moderate (Rec 1) | Recommend — Strong / High |
-| Stopping age | Individualize beyond **75** — Conditional / Very low (Rec 3) | Consider stopping at **75** if up to date with negative prior screens (weak); individualize **76–85**; **do not screen >85** (strong) |
-| Preferred (tier-1) modality | Colonoscopy q10y **+** annual FIT — Strong / Low (Rec 7) | Colonoscopy q10y **+** annual FIT (unchanged from 2017) |
+| Stopping age | Individualize beyond **75** — Conditional / Very low (Rec 3) | Consider stopping at **75** or when life expectancy **<10 years**, if up to date with negative prior screens — Weak / Low; never-screened considered **up to 85** depending on age and comorbidities — Weak / Low; individualize **76–85**; not recommended **>85** (ungraded) |
+| Preferred (tier-1) modality | Colonoscopy **and** FIT as the primary modalities — Strong / Low (Rec 4); intervals FIT every 1 y, colonoscopy every 10 y — Strong / Low (Rec 7) | Colonoscopy q10y **or** annual FIT — Strong / Moderate (unchanged from 2017) |
 | Aspirin chemoprevention | **Suggest** low-dose aspirin, ages 50–69, ≥10% 10-y CVD risk, not bleeding-prone, willing ×≥10 y — Conditional / Low (Rec 17); **never as a substitute for screening** — Strong / Low (Rec 18) | Not addressed |
 | Septin-9 | **Suggest against** — Conditional / Very low (Rec 6) | Not addressed |
 

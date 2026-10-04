@@ -3,7 +3,7 @@ title: "Antireflux Surgery"
 category: advanced-procedure
 tags: [gerd, antireflux-surgery, fundoplication, nissen, msa, linx, tif, ctif, stretta, foregut, hiatal-hernia]
 created: 2026-06-01
-updated: 2026-09-08
+updated: 2026-10-04
 sources: [sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hrm-antireflux, afs-2023-transoral-incisionless-fundoplication, afs-2024-ge-valve-after-antireflux-surgery]
 ---
 
@@ -51,7 +51,7 @@ The hiatal hernia size + Hill grade pair is the operative decision point ([[asge
 | **≤2 cm** | **I or II** | TIF 2.0 (Conditional / Low) — or Stretta if TIF and surgical fundoplication are unavailable/infeasible (Best Practice Advice only) |
 | **>2 cm** | **III or IV** | cTIF after multidisciplinary review (Conditional / Very Low), or surgical fundoplication |
 
-- ⚠ **Hill grade definitions are not printed in [[asge-2024-gerd]]** — it drives the TIF-vs-cTIF choice off Hill grade but cites Hill & Kozarek 1996 for grades I–IV (see [[reflux-testing]]). The **hernia-size limb** is fully specified (measured two ways, below). The Los Angeles A–D criteria, which govern indications, mucosal contraindications, and when pH testing may be skipped, are shown in [[acg-2025-egd-quality|ACG/American Society for Gastrointestinal Endoscopy (ASGE) 2025]] **Figure 2, "Los Angeles classification scheme for erosive esophagitis"** and [[aga-2024-upper-endoscopy-quality|American Gastroenterological Association (AGA) 2024]] Figure 2.
+- **Hill grade I–IV criteria** are tabulated, with the figure, on [[reflux-testing#Gastroesophageal Flap Valve: Hill Grade|reflux testing]] (from American Gastroenterological Association [AGA] 2024 Figure 2); [[asge-2024-gerd]] drives the TIF-vs-cTIF choice off Hill grade but cites Hill & Kozarek 1996 without printing the grades. The **hernia-size limb** is fully specified (measured two ways, below). The Los Angeles A–D criteria, which govern indications, mucosal contraindications, and when pH testing may be skipped, are shown in [[acg-2025-egd-quality|ACG/American Society for Gastrointestinal Endoscopy (ASGE) 2025]] **Figure 2, "Los Angeles classification scheme for erosive esophagitis"** and [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2.
 - TIF 2.0 candidates must also meet **≥1** of: chronic GERD ≥6 months, long-term [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] use ≥6 months, refractory GERD, regurgitation-predominant GERD, or patient preference to avoid long-term PPI ([[asge-2024-gerd]]).
 - **Measure the hernia in two dimensions** — axial length **and** greatest transverse diameter of the diaphragmatic hiatus; either one >2 cm pushes to cTIF/LARS ([[afs-2023-transoral-incisionless-fundoplication]]).
 - **Sizing caution:** hernia size at laparoscopic repair is **often larger than it appeared endoscopically** — apply extra caution even when it measures <2 cm on [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] ([[afs-2023-transoral-incisionless-fundoplication]]).
@@ -76,9 +76,8 @@ Conditions of specific or relative contraindication to TIF with the EsophyX devi
 
 ## Mandatory Preoperative Workup
 
-- **HRM before any antireflux surgical procedure** — Strong ([[acg-2021-gerd]]); ~3% of patients referred for antireflux surgery (ARS) with GERD-like symptoms have [[achalasia|achalasia spectrum disorders]] ([[padova-2025-hrm-antireflux]]).
-- Wrapping an achalasic esophagus → pseudoachalasia and severe [[dysphagia]].
-- The full pre-ARS motor-disorder decision framework (achalasia = contraindicated; [[esophagogastric-junction-outflow-obstruction|EGJ outflow obstruction (EGJOO)]] = treat first; [[hypercontractile-esophagus|jackhammer]], [[distal-esophageal-spasm|distal esophageal spasm (DES)]], [[ineffective-esophageal-motility|ineffective esophageal motility (IEM)]] handling) lives on [[hrm-antireflux-surgery]] — not duplicated here.
+- **HRM before any antireflux surgical procedure** — Strong ([[acg-2021-gerd]]); in >1000 patients having HRM before antireflux surgery (ARS), **3%** had esophagogastric junction obstruction suspicious for [[achalasia|achalasia-spectrum disorders]], where a standard wrap would have significantly worsened esophageal transit ([[padova-2025-hrm-antireflux]]).
+- The full pre-ARS motor-disorder decision framework ([[esophagogastric-junction-outflow-obstruction|EGJ outflow obstruction (EGJOO)]] = address before ARS; [[hypercontractile-esophagus|hypercontractile esophagus]] and [[distal-esophageal-spasm|distal esophageal spasm (DES)]] = conditions for referral; no agreement on tailoring the wrap to [[ineffective-esophageal-motility|ineffective esophageal motility (IEM)]]) lives on [[hrm-antireflux-surgery]] — not duplicated here.
 
 ### TIF-Specific Workup
 
@@ -209,9 +208,9 @@ Retching and vomiting can **disrupt the hiatus and the new valve** — hence the
 
 ## Postoperative Evaluation
 
-- New dysphagia + normal endoscopy after ARS → **timed barium esophagram (TBE) + [[flip-panometry|FLIP]]** first (93% consensus), then HRM interpreted with the **Padova Classification** ([[hrm-antireflux-surgery]]).
-- **Post-ARS integrated relaxation pressure (IRP) norms differ** — standard [[chicago-classification-v4|Chicago Classification]] thresholds do not apply after a wrap.
-- **No single manometric finding alone mandates reoperation** (96% consensus).
+- New dysphagia + normal endoscopy after ARS → **timed barium swallow (with tablet) and [[flip-panometry|FLIP]] may help clarify the cause, particularly if manometry is equivocal** (93% agreement); HRM interpreted with the **Padova Classification** ([[hrm-antireflux-surgery]]).
+- **Post-ARS integrated relaxation pressure (IRP) runs higher than surgery-naive** — any IRP <15 mmHg (Medtronic) is consistent with normal, but a higher value may still be normal; no post-ARS upper limit is set ([[padova-2025-hrm-antireflux]]).
+- **No manometric finding is an absolute indication for reoperation**; HRM aids the decision alongside endoscopy, pH monitoring, and barium studies (96% agreement).
 
 ### Endoscopic Assessment of the Post-Surgical GE Valve
 

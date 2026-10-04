@@ -3,7 +3,7 @@ title: "Colonoscopy Quality Indicators"
 category: concept
 tags: [colonoscopy, quality, adr, sdr, withdrawal-time, cecal-intubation, bowel-prep, polypectomy, crc-screening, colorectal]
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-10-04
 sources: [aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy]
 ---
 
@@ -218,12 +218,19 @@ Same metrics, different numbers and denominators across ingested guidelines. Aud
 
 | Metric | [[aga-2021-colonoscopy-quality\|AGA 2021 Clinical Practice Update (CPU)]] | [[acg-2021-crc-screening\|American College of Gastroenterology (ACG) 2021]] | [[usmstf-2020-followup-colonoscopy\|US Multi-Society Task Force (USMSTF) 2020]] |
 |---|---|---|---|
-| **ADR** | **≥30%** for an individual endoscopist (aspirational ≥35%), one threshold for both sexes; sex-based ADR only for a markedly sex-skewed practice | **≥25%** overall is the remedial-training trigger | **≥30% men / ≥20% women** as the high-quality-exam prerequisite |
-| **Cecal intubation** | **≥90%** of screening + surveillance exams; **≥95%** when inadequately prepped exams are excluded | **≥90% overall, ≥95% in screening subjects** | Complete to cecum with photodocumented landmark |
-| **Withdrawal time** | Mean **≥6 min** in normal exams, aspirational **≥9 min** | **≥6 min** of mucosal inspection | Not specified |
+| **ADR** | **≥30%** for an individual endoscopist (aspirational ≥35%), one threshold for both sexes; sex-based ADR only for a markedly sex-skewed practice | **<25%** → remedial training (Rec 14, Conditional / Very low); discussion treats 30% men / 20% women as minimums, aspirational 45%–50% | **≥30% men / ≥20% women** as the high-quality-exam prerequisite |
+| **Cecal intubation** | **≥90%** of screening + surveillance exams; **≥95%** when inadequately prepped exams are excluded | **≥95% in screening subjects** (Rec 16, Strong / Low); ≥90% overall cited as the current US recommendation, ungraded | Complete to cecum with photodocumented landmark |
+| **Withdrawal time** | Mean **≥6 min** in normal exams, aspirational **≥9 min** | **≥6 min** of mucosal inspection (Rec 15, Strong / Low) | Not specified |
 | **1–2 small adenomas** | **Consider 10 y** | — | **7–10 y** (see [[colonoscopy-surveillance]]) |
 
 The AGA and ACG documents publish the same pair of cecal-intubation numbers against **different denominators** — a 95% target earned by excluding poorly prepped exams is not the same as a 95% target in screening exams. The ADR figures are not reconciled by any of the three documents.
+
+
+Other USMSTF ADR figures, each tied to its own population:
+
+- **Post-CRC-resection surveillance:** a "high-quality" exam requires conventional adenoma detection **>25%** overall ([[usmstf-2015-crc-surveillance|USMSTF 2015]])
+- **Screening start/stop modeling:** "high-quality" colonoscopy assumes ADR **≥25%** overall ([[usmstf-2021-crc-screening-age|USMSTF 2021]])
+- **Colonoscopy after a positive fecal immunochemical test (FIT)** (cut-off ≤20 µg/g): ADR **>45% men, >35% women** ([[usmstf-2016-fit-screening|USMSTF 2016]])
 
 ---
 

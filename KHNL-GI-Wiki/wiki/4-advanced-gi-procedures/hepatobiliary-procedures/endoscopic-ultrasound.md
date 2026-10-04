@@ -3,7 +3,7 @@ title: "Endoscopic Ultrasound (EUS)"
 category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
-updated: 2026-09-29
+updated: 2026-10-04
 sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -29,12 +29,14 @@ Endoscopic ultrasound (EUS) quality standards from American College of Gastroent
 
 **Diagnostic:**
 
-- Staging upper gastrointestinal (GI) malignancies ([[esophageal-cancer|esophageal]], [[gastric-adenocarcinoma|gastric]], [[colorectal-cancer|rectal]] cancers)
+- Staging gastrointestinal (GI) tract malignancies — mainstay for primary staging of [[esophageal-cancer|esophageal]] and [[gastric-adenocarcinoma|gastric]] cancer when no distant metastasis; [[colorectal-cancer|rectal]] cancer is best staged with endorectal ultrasound **plus** magnetic resonance imaging (MRI)
 - Characterization of [[subepithelial-lesion|subepithelial lesions]] (SELs)
 - Evaluation of pancreaticobiliary disorders (pancreatic masses, cysts, biliary dilation, [[choledocholithiasis]])
 - **Evaluation of unexplained [[acute-pancreatitis|acute]] / [[recurrent-acute-pancreatitis|recurrent acute pancreatitis]]** — preferred test after unrevealing initial workup (American Gastroenterological Association [AGA] 2022, Best Practice Advice [BPA] 1); yields etiology in 29–88% (most often occult biliary lithiasis); perform 2–6 wk after acute pancreatitis (AP) resolution
 - EUS-guided fine-needle aspiration (EUS-FNA) or fine-needle biopsy (EUS-FNB) of pancreatic masses, lymph nodes (LN), or other lesions
 - [[pancreatic-cancer-screening|Pancreatic cancer screening]] in high-risk individuals (new indication vs prior)
+- Evaluation of GI wall abnormalities and adjacent structures; abdominal or pelvic abnormalities; biliary tree abnormalities
+- Perianal and perirectal disorders (anal sphincter injuries, fistulae, abscesses)
 
 **Therapeutic:**
 
@@ -46,7 +48,10 @@ Endoscopic ultrasound (EUS) quality standards from American College of Gastroent
 - EUS-guided [[liver-biopsy|liver biopsy]]
 - EUS-guided portosystemic pressure gradient (EUS-PPG) — direct hepatic + portal vein pressure measurement for [[portal-hypertension|portal hypertension]]; see [[interventional-eus-vascular]] ([[wang-2026-eus-ppg-delphi-consensus]])
 - Celiac plexus block/neurolysis (EUS-CPB/CPN) — for [[chronic-pancreatitis|chronic pancreatitis (CP)]] pain, **not routine** (AGA 2022, BPA 8): case-by-case for debilitating refractory pain; pain relief 50–60% lasting ≤6 mo, almost all still need analgesics; major adverse events (AEs) <1%
-- Fiducial placement, ablation
+- EUS-guided coil placement for gastric varices; access to extrahepatic bile duct or pancreatic duct (alone or as an adjunct to ERCP)
+- Fiducial (radiologic marker) placement, EUS-guided ablation
+
+*Diagnostic and therapeutic indication lists follow Table 3 of [[acg-2025-eus-quality]]; the AGA 2022 pancreatitis items are from [[aga-2022-recurrent-pancreatitis-endoscopy]].*
 
 Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indication target is >90% (not >95%) to allow latitude for novel interventional EUS applications.
 
@@ -56,49 +61,69 @@ Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indicat
 
 ### Preprocedure
 
-| Indicator ([[acg-2025-eus-quality]]) | Target |
-|---|---|
-| Appropriate, documented indication (**priority indicator**) | **>90%** |
-| **Informed consent** obtained and fully documented | **>98%** |
-| **Prophylactic antibiotics** administered for appropriate indications *(level 1B)* | **>98%** |
-| EUS performed or supervised by a **fully trained, credentialed endosonographer** | **>98%** |
+Grades use the document's own scale (1A strongest → 3 expert opinion; scale on [[acg-2025-eus-quality]]).
 
-- **Informed consent** must include EUS-specific risks (pancreatitis, infection, bile leak, perforation, bleeding based on procedure type)
+| Indicator ([[acg-2025-eus-quality]]) | Grade | Target |
+|---|---|---|
+| Appropriate, documented indication (**priority indicator**) | 1C+ | **>90%** |
+| **Informed consent** obtained, including EUS-specific risks, and documented | 3 | **>98%** |
+| **Prophylactic antibiotics** administered for appropriate indications | 1B | **>98%** |
+| EUS performed or supervised by a **fully trained, credentialed endosonographer** | 3 | **>98%** |
+
+- **Informed consent** must include EUS-specific risks (pancreatitis, infection, bile leak, perforation — depending on procedure type); where relevant, discuss pivoting to an EUS-guided salvage approach after failed ERCP
 - **[[antibiotic-prophylaxis-endoscopy|Prophylactic antibiotics]]:**
   - **NOT routinely needed** for EUS-FNA of [[pancreatic-cysts|pancreatic cysts]] (randomized controlled trial [RCT] [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020]]: infection 0.44%, no difference with vs without ciprofloxacin). **Guideline conflict:** ASGE 2015 still *suggests* prophylaxis here (44BB); [[acg-2025-eus-quality|ACG/ASGE 2025]] and the RCT do not — follow the newer document
   - Consider antibiotics in: immunosuppressed patients, multiple comorbidities, incomplete cyst aspiration, [[ascites]]
   - Mediastinal cysts: do NOT routinely sample (mediastinitis risk even with antibiotics)
-  - Rectal EUS-FNA/FNB: ~15% infection risk despite antibiotics; reserved for cases where benefit outweighs risk
-  - Therapeutic EUS (transumural interventions): prophylactic intravenous (IV) broad-spectrum antibiotics recommended
+  - Rectal ultrasound-guided FNA/FNB and lower GI tract lesions: infection risk (incl. perirectal abscess) ~15% despite antibiotics — same caution as mediastinal cysts
+  - Interventional EUS: data limited; a 2022 European Society of Gastrointestinal Endoscopy (ESGE) review recommended intravenous (IV) broad-spectrum prophylaxis for all therapeutic EUS (weak, low-quality evidence)
+
+**Need for prophylactic antibiotics by indication** (Table 4, [[acg-2025-eus-quality]]; most entries are consensus expert opinion):
+
+| Indication | Prophylactic antibiotics |
+|---|---|
+| Pancreatic solid lesion | Not indicated |
+| Pancreatic cystic lesion | Not routinely indicated |
+| Pancreatic pseudocyst | Case by case |
+| Pancreatic necrosis (FNA or debridement) | Should administer |
+| EUS-guided pancreatic fluid collection drainage | Strongly consider |
+| EUS-guided gallbladder drainage | Strongly consider |
+| EUS-guided biliary drainage | Strongly consider |
+| EUS-guided gastroenterostomy | Strongly consider |
+| EUS-directed transgastric ERCP | Strongly consider |
 
 ### Intraprocedure
 
-| Standard | Target |
-|---|---|
-| Relevant structures visualized and documented (indication-specific) | >98% |
-| Luminal GI cancers: American Joint Committee on Cancer (AJCC)/Union for International Cancer Control (UICC) TNM staging documented | >98% |
-| Subepithelial masses: echogenicity + wall layer of origin documented (priority) | >98% |
-| EUS-guided liver biopsy: diagnostically adequate sample | >85% |
-| Pancreatic mass ≥10mm: identification | ≥90% |
-| Pancreatic mass: measurements, vascular/LN, liver mets, ascites documented | ≥90% |
-| EUS-guided sampling of malignant pancreatic mass: diagnostic specimen (priority) | ≥87% |
+| Standard | Grade | Target |
+|---|---|---|
+| Relevant structures visualized and documented (indication-specific) | 3 | >98% |
+| Luminal GI cancers: American Joint Committee on Cancer (AJCC)/Union for International Cancer Control (UICC) TNM staging documented | 3 | >98% |
+| Subepithelial masses: echogenicity + wall layer of origin documented (priority) | 3 | >98% |
+| EUS-guided liver biopsy: diagnostically adequate sample | 1B | >85% |
+| Pancreatic mass ≥10 mm: identification | 2C | ≥90% |
+| Pancreatic mass: measurements, vascular/LN, liver mets, ascites documented | 3 | ≥90% |
+| EUS-guided sampling of malignant pancreatic mass: diagnostic specimen (priority) | 1C+ | ≥87% |
 
 ### Technical Success Benchmarks (Interventional EUS)
 
-| Procedure | Target |
-|---|---|
-| EUS-guided pancreatic fluid collection drainage (priority) | ≥92% |
-| EUS-GBD | >90% |
-| EUS-BD | >85% |
-| EUS-GE | >85% |
-| EDGE | >92% |
+| Procedure | Grade | Target |
+|---|---|---|
+| EUS-guided pancreatic fluid collection drainage (priority) | 1B | ≥92% |
+| EUS-GBD | 2B | >90% |
+| EUS-BD | 1B | >85% |
+| EUS-GE | 2C | >85% |
+| EDGE | 1C | >92% |
+
+- Targets for EUS-GBD, EUS-BD, and EUS-GE sit deliberately below published success rates (published series come from expert centers).
 
 ### Postprocedure
 
-| Indicator ([[acg-2025-eus-quality]]) | Target |
-|---|---|
-| Complete procedure report created | **>98%** |
-| **Adverse events after diagnostic and interventional EUS documented** (**priority indicator**) | **>98%** |
+| Indicator ([[acg-2025-eus-quality]]) | Grade | Target |
+|---|---|---|
+| Complete procedure report created | 3 | **>98%** |
+| **Adverse events after diagnostic and interventional EUS documented** (**priority indicator**) | 3 | **>98%** |
+
+- 15%–45% of AEs go unrecognized or unreported → actively contact patients, ideally **2 weeks** after the procedure.
 
 ### FNA vs FNB — Diagnostic Yield
 
@@ -110,14 +135,16 @@ The ≥87% sampling target rests on these pooled figures ([[acg-2025-eus-quality
 |---|---|
 | Pooled diagnostic accuracy — **FNB** | **87% (95% confidence interval [CI] 85–89)** |
 | Pooled diagnostic accuracy — **FNA** | **80% (95% CI 78–82)** |
-| Pooled sensitivity / specificity (EUS-guided sampling) | **85% (84–86) / 98% (97–99)**; in a later analysis **86.8% (85.5–87.9) / 95.8% (94.6–96.7)** |
+| Pooled sensitivity / specificity (EUS-FNA, 33 studies; then 41 studies) | **85% (84–86) / 98% (97–99)**; in a later analysis **86.8% (85.5–87.9) / 95.8% (94.6–96.7)** |
 | EUS detection of pancreatic cancer | sensitivity **93–100%**, specificity **53–100%** |
-| EUS in suspected pancreatic cancer with **indeterminate multidetector computed tomography (CT)** (meta-analysis, 206 subjects; mean lesion 2.1 ± 0.12 cm) | sensitivity **85% (69–94)**, specificity **58% (40–74)** — the specificity collapse is why EUS resolves a CT-indeterminate gland only in one direction |
+| EUS in suspected pancreatic cancer with **indeterminate multidetector computed tomography (CT)** (meta-analysis, 206 subjects; mean lesion 2.1 ± 0.12 cm) | sensitivity **85% (69–94)**, specificity **58% (40–74)** |
 | EUS-FNA in [[chronic-pancreatitis\|chronic pancreatitis]] | **sensitivity is lower** — stated qualitatively only; no number given by the source (elastography is being explored for this setting) |
+
+- [[acg-2025-eus-quality|ACG/ASGE 2025]]: FNB was **not** superior to FNA in the RCT subanalysis where ROSE was available → **FNA with ROSE is acceptable; favor FNB when ROSE is unavailable or core tissue is needed**. Needle gauge (22 vs 25) — meta-analyses conflict; most show no difference.
 
 ### Adverse Event Rate Benchmarks
 
-**Diagnostic EUS (including FNA/FNB):**
+**Diagnostic EUS (including FNA/FNB/fine-needle injection/liver biopsy)** — indicator 19, grade 1C+:
 
 - Perforation: <0.5%
 - Infection: <1%
@@ -125,7 +152,7 @@ The ≥87% sampling target rests on these pooled figures ([[acg-2025-eus-quality
 - Clinically significant bleeding: <1%
 - Clinically significant bleeding after liver biopsy: <5%
 
-**Interventional EUS:**
+**Interventional EUS** (overall AEs) — indicator 20, grade 2C:
 
 - Pancreatic fluid collection drainage: overall AEs <10%
 - EUS-GBD: overall AEs <20%

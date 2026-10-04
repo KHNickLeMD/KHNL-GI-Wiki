@@ -3,7 +3,7 @@ title: "Hypercontractile Esophagus (Jackhammer Esophagus)"
 category: disease-script
 tags: [hypercontractile, jackhammer, esophageal, motility, dysphagia, chest-pain, chicago-classification]
 created: 2026-05-16
-updated: 2026-09-05
+updated: 2026-10-04
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia, aga-2024-poem-advances, padova-2025-hrm-antireflux]
 ---
 
@@ -68,7 +68,7 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **CCv4.0** on [[
 ## Diagnostics
 
 - **HRM:** DCI >8,000 mmHg·s·cm in ≥20% swallows — see [[high-resolution-manometry]]
-- **[[flip-panometry|FLIP panometry]]:** distinguishes Spastic Obstruction from other patterns
+- **[[flip-panometry|FLIP panometry]]:** reduced EGJ opening (EGJ distensibility index <2.0 mm²/mmHg **and** maximum EGJ diameter <12 mm) with a spastic or disordered contractile response → **spastic achalasia likely**; spastic responses with normal EGJ opening → consider HRM; spastic responses can also be secondary to [[hiatal-hernia|hiatus hernia]] or mucosal inflammation (e.g., [[eosinophilic-esophagitis|eosinophilic esophagitis]]) ([[aga-2025-flip-esophageal]])
 
 ---
 
@@ -76,7 +76,7 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **CCv4.0** on [[
 
 - **Be conservative — CCv4.0 explicitly cautions against treating contractile vigor as an endpoint** and advocates conservative medical therapy before any endoscopic or surgical intervention
 - Exclude EGJ obstruction and [[achalasia]] spectrum before treating (elevated IRP → investigate with TBE/FLIP)
-- Treat co-existent [[gerd|gastroesophageal reflux disease (GERD)]]; hypercontractile esophagus is **not** an absolute contraindication to [[antireflux-surgery|anti-reflux surgery (ARS)]] when the patient has objective GERD and partial [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] response — evaluate carefully pre-operatively ([[padova-2025-hrm-antireflux|Padova consensus]] — see [[hrm-antireflux-surgery]])
+- Treat co-existent [[gerd|gastroesophageal reflux disease (GERD)]]; with objective GERD, hypercontractile esophagus with **typical reflux symptoms and at least partial improvement on acid-suppression medication** **can be referred for [[antireflux-surgery|anti-reflux surgery (ARS)]]** (**81% agreement**) ([[padova-2025-hrm-antireflux|Padova consensus]] — see [[hrm-antireflux-surgery]])
 - [[poem|per-oral endoscopic myotomy (POEM)]] considered for refractory dysphagia-predominant disease ([[acg-2020-achalasia]] frames longer myotomy for spastic disease)
 - **American Gastroenterological Association (AGA) 2024 Clinical Practice Update (CPU) caveat:** for **nonachalasia** spastic disorders, POEM evidence is limited — reserve for **case-by-case** use after less invasive options (medical therapy, botulinum toxin, endoscopic dilation) are exhausted, with symptoms correlated to manometry ([[aga-2024-poem-advances|AGA 2024]] Best Practice Advice (BPA) 3)
 
@@ -86,13 +86,13 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **CCv4.0** on [[
 
 ## See Also
 
-[[chicago-classification-v4]], [[high-resolution-manometry]], [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]], [[achalasia]], [[flip-panometry]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[poem]], [[dysphagia]], [[gerd]], [[proton-pump-inhibitors]], [[esophagogastric-junction-outflow-obstruction]]
+[[chicago-classification-v4]], [[high-resolution-manometry]], [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]], [[achalasia]], [[flip-panometry]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[poem]], [[dysphagia]], [[gerd]], [[proton-pump-inhibitors]], [[esophagogastric-junction-outflow-obstruction]], [[hiatal-hernia]], [[eosinophilic-esophagitis]]
 
 ---
 
 ## Sources
 
-1. [[chicago-v4-2021-esophageal-dysmotility|Chicago Classification v4.0: Esophageal Motility Disorders]]
+1. [[chicago-v4-2021-esophageal-dysmotility|Esophageal Motility Disorders on High-Resolution Manometry: Chicago Classification Version 4.0]]
 2. [[aga-2025-flip-esophageal|AGA Clinical Practice Update on Incorporating Functional Lumen Imaging Probe Into Esophageal Clinical Practice: Expert Review]]
 3. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
 4. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review (2024)]]

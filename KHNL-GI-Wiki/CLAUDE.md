@@ -242,7 +242,16 @@ Trigger: user provides a new source (article, guideline, chapter, paper, transcr
 8. Append to `wiki/log.md`.
 9. Site (`#KHNL GI Wiki/index.html`) fetches `wiki/index.md` and `README.md` live from GitHub — after any lint/ingest that changes them or any page, no HTML rebuild is needed. HTML changes themselves (icons, layout) go directly in `#KHNL GI Wiki/index.html`.
 
-**Guidelines — recommendation capture (required):** guideline / CPU / consensus source page **must** list every named recommendation, guidance statement, or GRADE/evidence-rated statement verbatim or near-verbatim — full text, evidence grade/strength, number/label as given. Never summarize or abbreviate. Entity pages updated by the guideline incorporate all relevant recommendations, not just highlights.
+**Guidelines — recommendation capture (required; reworded Nick, 2026-10-04):** guideline / CPU / consensus source page **must** list **every** named recommendation, guidance statement, or GRADE/evidence-rated statement — none dropped, merged, or invented. For each:
+- **#1 priority: the meaning stays exactly the same.** Rewording may simplify the wording but never the content: same direction and force (*recommend* vs *suggest*; "we do not make a recommendation" stays a non-recommendation), same population, same scope.
+- **Wording: verbatim or near-verbatim where the statement is short; condensed and simplified where it is long** — make it digestible (plain clinical phrasing, telegraphic, split into bullets), as long as the meaning is unchanged. Reword whenever verbatim copying would be long, and always when a write is blocked by the content filter (below).
+- **Every decision qualifier kept** — population, thresholds with units, criteria, durations, doses, exceptions, combination rules. Condensing never drops one.
+- **Grade/strength and number/label exactly as the document gives them** — its own vocabulary (Conditional ≠ Weak); if it numbers nothing, say the numbering is the wiki's.
+- **Supporting commentary/rationale condensed** to telegraphic bullets — not pasted.
+- **Content filter:** multi-paragraph verbatim copying trips the model's output filter (`API Error: Output blocked by content filtering policy`) and kills the run — two cron passes died this way on 2026-10-03/04. Never paste long passages; write large rebuilds **section by section** (several edits), not one giant Write.
+- **Existing pages already written verbatim are fine — don't reword them** just to match this rule; fix them only for accuracy.
+
+Ungraded key concepts / best-practice statements get the same treatment, condensed, marked ungraded. Entity pages updated by the guideline incorporate all relevant recommendations, not just highlights.
 
 **Source page template:**
 ```markdown

@@ -3,7 +3,7 @@ title: "Irritable Bowel Syndrome"
 category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, diet, fiber, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-09-30
+updated: 2026-10-04
 sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d, aga-2020-sibo, aga-2022-diet-ibs, aga-2018-psychogastroenterology]
 ---
 
@@ -42,31 +42,33 @@ Irritable bowel syndrome (IBS) is a [[disorders-of-gut-brain-interaction|disorde
 3. Change in stool form
 Symptom onset ≥6 months prior to diagnosis.
 
-**Rome V (2026) modifications** ([[rome-v-2026-dgbi]]) — each change *widens* the diagnosis except the last, which *narrows* it:
+**Rome V (2026) modifications** ([[rome-v-2026-dgbi]]) — the non-continuous-pain rule *narrows* the diagnosis; the other changes *widen* it:
 
 - **Pain frequency lowered** to **≥3 days per month in the last 3 months** (Rome IV: ≥1 day/week in the previous 3 months). Rationale: the Rome IV threshold cut measured IBS prevalence from ~**10% to 4%**, defining a population more severe than what is seen in practice.
 - **"Abdominal discomfort" re-added** to the criteria after removal in Rome IV — patients in some countries experience discomfort without pain.
 - **Abdominal pain and discomfort must NOT be continuous.** This is a **new exclusion**, not a relaxation: continuous pain points to **centrally mediated abdominal pain syndrome (Rome V D1)**, not IBS. A patient with unremitting daily pain is not diagnosed with IBS on these criteria.
-- **6-month duration is no longer required** for clinical (as opposed to research) use — Rome V suggests an **8-week** duration to allow exclusion of other diagnoses, with exceptions when the clinician is satisfied that evaluation has excluded other disorders.
+- **6-month duration is no longer required** for clinical (as opposed to research) use — the Rome Clinical Criteria suggest an **8-week** duration to allow exclusion of other diagnoses, with exceptions when the clinician is satisfied that evaluation has excluded other disorders; frequency below the research threshold is permitted if symptoms are bothersome and the qualitative features are met (Rome Clinical Criteria — see the disorder of gut–brain interaction page linked above).
 
 ### Severity Assessment
 
-**Severity should guide treatment intensity** — [[rome-v-2026-dgbi|Rome V]] Table 4 gives the profile that assigns the stratum (not the score alone):
+**Choice of treatment is often driven by symptom severity** — [[rome-v-2026-dgbi|Rome V]] Table 4 (a Rome Working Team *proposed* clinical profile) assigns the stratum from the whole profile, not the score alone; severity-matched treatment is on the disorder of gut–brain interaction page:
 
-| Feature | Mild | Moderate | Severe |
+| Clinical feature | Mild | Moderate | Severe |
 |---|---|---|---|
 | Estimated proportion | 40% | 35% | 25% |
-| **Functional Bowel Disorder Severity Index (FBDSI)** | <36 | 36–109 | >109 |
-| **IBS Symptom Severity Score (IBS-SSS)** | 75–175 | 176–300 | >300 |
-| Physiology | Primarily bowel dysfunction | Bowel dysfunction + central nervous system (CNS) pain dysregulation | Primarily CNS pain dysregulation |
-| Psychosocial | None/mild distress | Moderate distress | High distress, psychiatric comorbidity, catastrophizing, trauma history |
+| **Functional Bowel Disorder Severity Scale (FBDSI)** | <36 | 36–109 | >109 |
+| **IBS Symptom Severity Scale (IBS-SSS)** | 75–175 | 176–300 | >300 |
+| Physiological factors | Primarily bowel dysfunction | Bowel dysfunction + central nervous system (CNS) pain dysregulation | Primarily CNS pain dysregulation |
+| Psychosocial difficulties | None or mild psychological distress | Moderate psychological distress | Severe: high psychological distress, psychological comorbidity, catastrophizing, trauma history |
+| Gender | Equal men and women | More women than men | Many more women than men |
 | Abdominal pain | Mild/intermittent | Moderate, frequent | Severe/very frequent |
-| Other symptoms (n) | 1–3 | 4–6 | ≥7 |
-| Health-care utilization | 0–1/y | 2–4/y | ≥5/y |
-| Activity restriction | 0–15 d | 15–50 d | >50 d |
+| No. of other symptoms | Low (1–3) | Medium (4–6) | High (≥7) |
+| Health-related quality of life | Good | Fair | Poor |
+| Health care utilization | 0–1/y | 2–4/y | ≥5/y |
+| Activity restriction | Occasional (0–15 d) | More often (15–50 d) | Frequent/constant (>50 d) |
 | Work disability | <5% | 6–10% | ≥11% |
 
-*FBDSI = Functional Bowel Disorder Severity Index; IBS-SSS = IBS Symptom Severity Scale. ([[rome-v-2026-dgbi]])*
+*Table 4 — Proposed clinical profile for patient-rated severity in IBS. ([[rome-v-2026-dgbi]])*
 
 > [[rome-v-2026-dgbi|Rome V]] gives the FBDSI / IBS-SSS severity cut-points but not their item weights; assign the stratum from the clinical profile in the table.
 

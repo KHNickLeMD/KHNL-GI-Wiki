@@ -3,7 +3,7 @@ title: "Disorders of Gut–Brain Interaction (DGBI)"
 category: concept
 tags: [DGBI, functional-gi, IBS, rome-criteria, biopsychosocial, brain-gut-axis, motility, visceral-hypersensitivity]
 created: 2026-05-15
-updated: 2026-09-30
+updated: 2026-10-04
 sources: [rome-v-2026-dgbi, aga-2021-chronic-gi-pain-dgbi, aga-2018-psychogastroenterology]
 ---
 
@@ -17,7 +17,6 @@ sources: [rome-v-2026-dgbi, aga-2021-chronic-gi-pain-dgbi, aga-2018-psychogastro
   - [[#Rome Clinical Criteria (New in Rome V)]]
 - [[#Biopsychosocial Model]]
 - [[#Brain–Gut Axis]]
-- [[#IBS Severity Classification (Rome V, Table 4)]]
 - [[#Treatment Framework]]
 - [[#Managing Persistent Pain]]
   - [[#Visceral vs Centrally Mediated Pain]]
@@ -45,7 +44,7 @@ sources: [rome-v-2026-dgbi, aga-2021-chronic-gi-pain-dgbi, aga-2018-psychogastro
 | Altered gut microbiota | Dysbiosis, reduced microbial diversity |
 | Altered central nervous system (CNS) processing | Impaired descending pain modulation |
 
-The term DGBI replaced "functional gastrointestinal disorder" (FGID) when Rome IV introduced it in 2016. With **Rome V (2026)**, "functional GI disorder" is formally retired and should no longer be used. The word "functional" is also removed from individual diagnoses where possible (e.g., "functional constipation" → "[[chronic-constipation|chronic constipation]]").
+Rome IV (2016) introduced DGBI to replace "functional gastrointestinal disorder" (FGID), with both terms acceptable. **Rome V (2026)** recommends that FGID no longer be used. The word "functional" is also removed from individual diagnoses where possible (e.g., "functional constipation" → "[[chronic-constipation|chronic constipation]]").
 
 **Source:** [[rome-v-2026-dgbi]]
 
@@ -62,16 +61,17 @@ Rome V (2026) classifies **34 adult** and **22 pediatric** DGBI across anatomic 
 | **A. Esophageal** | Functional chest pain (A1), [[functional-heartburn\|Functional heartburn]] (A2), Reflux hypersensitivity (A3), Globus (A4), Functional [[dysphagia]] (A5) |
 | **B. Gastroduodenal** | Functional [[dyspepsia]] — postprandial distress syndrome (PDS; B1a), epigastric pain syndrome (EPS; B1b); [[nausea-and-vomiting\|Nausea/vomiting]]: chronic nausea vomiting syndrome (CNVS; B2a), [[cyclic-vomiting-syndrome\|cyclic vomiting syndrome (CVS)]] (B2b), [[cannabinoid-hyperemesis-syndrome\|cannabinoid hyperemesis syndrome (CHS)]] (B2c); Belching: supragastric (B3a), gastric (B3b), **inability to belch** (B3c, *new*); [[rumination-syndrome\|Rumination]] (B4) |
 | **C. Bowel** | [[irritable-bowel-syndrome\|irritable bowel syndrome (IBS)]] with subtypes (C1a–d); [[chronic-idiopathic-constipation\|Chronic constipation]] (C2); Functional diarrhea (C3); [[abdominal-bloating-and-distention\|Functional abdominal bloating]] (C4); Unclassified bowel disorders (C5); Opioid-induced constipation (C6) |
-| **D. Centrally mediated GI pain** | Centrally mediated abdominal pain syndrome (CAPS; D1); **Abdominal migraine** (D2, *new adult diagnosis*); Narcotic bowel syndrome (D3) |
-| **E. Gallbladder and [[sphincter-of-oddi-dysfunction\|sphincter of Oddi dysfunction (SOD)]]** | Biliary-type pain (E1); Dysfunctional gallbladder disorder (E2); Biliary SOD (E3); Pancreatic SOD (E4) |
-| **F. Anorectal** | [[fecal-incontinence\|Fecal incontinence]] (F1); [[proctalgia-syndromes\|Anorectal pain]] (F2a–c); [[defecation-disorders\|Dyssynergic defecation]] (F3); **Anorectal sensory dysfunction** (F4, *new*): rectal hyposensitivity (F4a), rectal hypersensitivity (F4b) |
+| **D. Centrally mediated GI pain** | Centrally mediated abdominal pain syndrome (CAPS; D1); **Abdominal migraine** (D2, *new adult diagnosis*); [[narcotic-bowel-syndrome\|Narcotic bowel syndrome]] / opioid-induced GI hyperalgesia (D3) |
+| **E. Gallbladder and [[sphincter-of-oddi-dysfunction\|sphincter of Oddi dysfunction (SOD)]]** | Biliary-type abdominal pain (E1); Dysfunctional gallbladder disorder (E2); Biliary SOD (E3); Pancreatic SOD (E4) |
+| **F. Anorectal** | [[fecal-incontinence\|Fecal incontinence]] (F1); [[proctalgia-syndromes\|Anorectal pain disorders]] (F2a levator ani syndrome, F2b unexplained anorectal pain, F2c proctalgia fugax); [[defecation-disorders\|Dyssynergic defecation]] (F3); **Anorectal sensory dysfunction** (F4, *new*): rectal hyposensitivity (F4a), rectal hypersensitivity (F4b) |
 
 ### Pediatric DGBI (Categories G–H)
 
 Reorganized in Rome V from age-based (neonate/toddler vs. child/adolescent) to anatomically based:
 
-- **G. Pediatric upper DGBI:** Esophageal (G1), feeding disorders (G2), gastroduodenal (G3)
-- **H. Pediatric lower and biliary DGBI:** Abdominal pain disorders (H1), defecation/anorectal (H2), discomfort disorders (H3)
+- **G. Pediatric upper DGBI:** Esophageal (G1), functional pediatric feeding disorders (G2), gastroduodenal (G3)
+- **H. Pediatric lower and biliary DGBI:** Abdominal pain disorders (H1), defecation and anorectal disorders (H2), discomfort disorders (H3)
+- Full pediatric list: [[rome-v-2026-dgbi]]
 
 ---
 
@@ -79,20 +79,20 @@ Reorganized in Rome V from age-based (neonate/toddler vs. child/adolescent) to a
 
 ### Standard Rome V Research Criteria
 
-Used for clinical trials and research; require specific symptom frequency and 6-month duration threshold.
+Used for clinical trials and research (a well-defined, sufficiently symptomatic cohort); require the specified symptom frequency and 6-month duration. The individual criteria items are in the Rome V chapters, not the overview article.
 
 ### Rome Clinical Criteria (New in Rome V)
 
-Designed for clinical practice. More inclusive than research criteria.
+**Rome V recommends the Rome Clinical Criteria over the research criteria in clinical practice.** When organic disease is sufficiently ruled out, the qualitative features are met, and patient and provider judge symptoms bothersome, the frequency and duration criteria can be eliminated or reduced.
 
 | Criterion | Rome Clinical Criteria Rule |
 |---|---|
 | Qualitative symptoms | Must meet qualitative features of Rome V (symptom type/character) |
-| Bothersomeness | Symptoms must interfere with daily activities or prompt healthcare seeking |
+| Bothersomeness | Symptoms bothersome enough to seek medical care or interfere with daily activity and quality of life |
 | Frequency | Lower than research threshold is permitted |
-| Duration | 8 weeks suggested (not 6 months); exceptions: organic disease excluded, or infrequent-episode disorders (CVS, proctalgia fugax) |
+| Duration | 6 months not required; **8 weeks suggested** to exclude other diagnoses. Exceptions: clinician satisfied that evaluation excludes other disorders, or infrequent-episode disorders (CVS, proctalgia fugax) |
 
-**Clinical implication:** Approximately 25% of the population has bothersome GI symptoms but does not meet full Rome research criteria — these patients have poor quality of life (QoL), high anxiety/depression scores, and significant healthcare utilization. The Rome Clinical Criteria are designed to capture this group.
+**Clinical implication:** about one-fourth of a >50,000-person global sample had GI symptoms without meeting Rome criteria — with poorer quality of life (QoL) and more anxiety, depression, health care use, and life/work impairment than people without GI symptoms. They must still be evaluated when clinically needed and treated according to symptom burden; the Rome Clinical Criteria can be used to diagnose and justify treatment in subdiagnostic or overlapping presentations.
 
 ---
 
@@ -108,13 +108,14 @@ flowchart TD
     C <--> D
     B <--> C
     D --> E["DGBI clinical presentation<br/>symptoms, severity,<br/>comorbidity, behaviors"]
-    E --> F["Outcome<br/>healthcare use, daily function,<br/>QoL, costs"]
+    E <--> F["Outcome<br/>healthcare use, daily function,<br/>QoL, costs"]
 ```
 
 **Key psychosocial principles:**
 
 1. Psychological stress exacerbates GI symptoms and may contribute to DGBI development (e.g., [[postinfectious-ibs|post-infection IBS]])
-2. Psychological distress is strongly associated with DGBI — global study (N>54,000): 4.45× higher odds of DGBI in patients with psychological distress
+2. Psychological distress is strongly associated with DGBI — global study (N>54,000): psychological distress and somatic symptom severity in 37.5%, with 4.45× higher odds of ≥1 DGBI
+   - Psychosocial disturbance is **not required for diagnosis**
 3. DGBI itself creates psychosocial consequences (chronic illness as stressor)
 4. Maladaptive cognitions (catastrophizing, hypervigilance) perpetuate and amplify symptoms → visceral anxiety → lower pain threshold → need for brain–gut behavioral treatments
 
@@ -138,48 +139,33 @@ The neuroanatomic substrate connecting CNS (brain, spinal cord) and ENS (myenter
 - **Abnormal motility:** Exaggerated motor response to psychological/physiological stressors
 - **Immune dysregulation/barrier dysfunction:** Mast cell activation, increased inflammatory cytokines → altered receptor sensitivity → visceral hypersensitivity; mucosal barrier dysfunction is a potential treatment target
 - **Microbiome:** Reduced microbial diversity, altered bacterial flora composition implicated in IBS pathogenesis; duodenal microbiota involved in dyspeptic symptoms
-- **Food/diet:** Low-FODMAP and gluten restriction may benefit subsets; role of diet increasingly recognized (patients have long attributed food as a major trigger)
-
----
-
-## IBS Severity Classification (Rome V, Table 4)
-
-| Feature | Mild (~40%) | Moderate (~35%) | Severe (~25%) |
-|---|---|---|---|
-| Functional Bowel Disorder Severity Scale (FBDSI) | <36 | 36–109 | >109 |
-| IBS Symptom Severity Scale (IBS-SSS) | 75–175 | 176–300 | >300 |
-| Physiology | Primarily bowel dysfunction | Bowel + CNS dysregulation | Primarily CNS dysregulation |
-| Psychosocial | None or mild distress | Moderate distress | Severe distress, comorbidity, catastrophizing, trauma |
-| Pain | Mild/intermittent | Moderate, frequent | Severe/very frequent |
-| QoL | Good | Fair | Poor |
-| Healthcare use | 0–1/year | 2–4/year | ≥5/year |
-| Work disability | <5% | 6–10% | ≥11% |
+- **Food/diet:** Low fermentable oligo-, di-, monosaccharides and polyols (FODMAP) or gluten restriction may benefit some patients; no single diet suits all; food is a well-established trigger in postprandial distress syndrome; role of diet increasingly recognized (patients have long attributed food as a major trigger)
 
 ---
 
 ## Treatment Framework
 
-Severity-guided biopsychosocial approach:
+Severity-guided biopsychosocial approach ([[rome-v-2026-dgbi]]; written for IBS, may apply to other DGBI). Assign mild / moderate / severe from the Rome V Table 4 clinical profile on the IBS page (Functional Bowel Disorder Severity Scale [FBDSI] and IBS Symptom Severity Scale [IBS-SSS] bands, pain, psychosocial distress, health care use, activity restriction, work disability).
 
-**Mild:**
+**Mild (~40%):**
 
-- Education (GI system is overly responsive to food, stress, hormones — legitimate disorder)
-- Reassurance based on patient concerns
-- Dietary modification; dietitian referral
+- Education (IBS is a genuine disorder; GI system overly responsive to food, hormonal changes, medication, stress)
+- Reassurance matched to the patient's concerns — not perfunctory, not before necessary tests are done
+- Identify and reduce or eliminate offending foods and medications; dietitian referral may be considered
 
-**Moderate:**
+**Moderate (~30–35%):**
 
 - Symptom diary (1–3 weeks) to identify dietary/lifestyle/stress triggers
-- Pharmacotherapy directed at predominant symptoms (antispasmodics, [[loperamide]] acutely; secretagogues, neuromodulators continuously)
-- Brain–gut behavioral treatments: cognitive behavioral therapy (CBT), hypnosis, mindfulness
+- Pharmacotherapy for distressing or impairing episodes, chosen by predominant symptom (antispasmodics, [[loperamide]] during exacerbations; secretagogues, neuromodulators continuously)
+- **Brain–gut behavioral treatments recommended for motivated patients with moderate-to-severe symptoms**: cognitive behavioral therapy (CBT), hypnosis, mindfulness, others
 
-**Severe:**
+**Severe (~20–25%):**
 
-- Ongoing therapeutic relationship; realistic treatment goals (improved QoL, not cure)
-- Central neuromodulators: TCAs (pain + depression), SNRIs; selective serotonin reuptake inhibitors (SSRIs) ancillary (anxiety/depression but less effective for pain)
+- Ongoing relationship with brief repeated visits: act on objective findings, not patient demands; realistic goals (improved QoL, not cure); shift responsibility to the patient by offering options; focus on adjustment to chronic illness
+- **Central neuromodulators recommended** for chronic pain with impaired daily functioning, coexisting major or atypical depression, symptom anxiety, or panic attacks — and may help without depression when pain dominates: TCAs, SNRIs; selective serotonin reuptake inhibitors (SSRIs) ancillary (help anxiety/depression, less effective for pain); poor response may reflect underdosing or failure to titrate
 - Multidisciplinary DGBI treatment center referral
 
-**Brain–gut behavioral treatments (all severities):**
+**Brain–gut behavioral treatments (moderate-to-severe, motivated patients):**
 
 - Cognitive behavioral therapy
 - Gut-directed hypnotherapy
@@ -275,7 +261,7 @@ Low-dose antidepressants used for their **pain-modifying properties**, independe
 
 - **Do not prescribe opioids for chronic GI pain caused by a DGBI** — ineffective and potentially harmful. **Tramadol counts as an opioid.**
 - Referred already on opioids → prescribe responsibly in a **multidisciplinary setting with monitoring for efficacy, side effects, and abuse potential**, until they can be discontinued.
-- Suspect **[[narcotic-bowel-syndrome|narcotic bowel syndrome]]** in any patient whose pain escalates with the opioid dose (~6% of long-term users in this population).
+- Suspect **narcotic bowel syndrome** in any patient whose pain escalates with the opioid dose (~6% of long-term users in this population).
 - Patients with overlapping [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] and DGBI are more likely to use opioids than those without a DGBI — pain management in that group is on [[ibd-pain-management]].
 - Non-responders to these measures may require a **pain management specialist**.
 
@@ -288,10 +274,13 @@ Low-dose antidepressants used for their **pain-modifying properties**, independe
 | Terminology | FGID acceptable | FGID retired; DGBI only |
 | New adult diagnoses | None in these categories | Inability to belch (B3c), Abdominal migraine (D2), Anorectal sensory dysfunction (F4a/b) |
 | IBS criteria | ≥1 day/week abdominal pain; 6-month duration; no discomfort | ≥3 days/month; "not continuous" criterion added; discomfort re-added |
-| Clinical criteria | Not formalized | Rome Clinical Criteria introduced (8-wk duration, bother-someness) |
+| Clinical criteria | Not formalized | Rome Clinical Criteria introduced (8-wk duration, bothersomeness, lower frequency allowed) |
 | Pediatric classification | Age-based (neonate/toddler vs. child/adolescent) | Anatomically based (upper vs. lower DGBI) |
-| Dyssynergic defecation | ≥2 abnormal tests required | Only 1 of 3 tests required; electromyography (EMG) dropped |
-| Gallbladder disorder | Cholescintigraphy recommended | Cholescintigraphy no longer required; watchful waiting preferred |
+| Dyssynergic defecation | 2 abnormal tests required | Difficult-evacuation symptoms + 1 of 3 abnormal tests (balloon expulsion, manometry, imaging); electromyography (EMG) dropped |
+| Fecal incontinence | "Recurrent" uncontrolled passage | ≥2 episodes of uncontrolled passage of fecal material |
+| Bowel names | Functional constipation; functional abdominal bloating and distention; unspecified bowel disorders | Chronic constipation; functional abdominal bloating; unclassified bowel disorders |
+| Esophageal | — | Rome and Lyon consensuses synchronized for gastroesophageal reflux disease (GERD) and esophageal DGBI; mean nocturnal baseline impedance; Chicago v4.0 esophagogastric junction outflow obstruction criteria |
+| Gallbladder disorder | Cholescintigraphy to identify low ejection fraction | Typical biliary pain suffices — cholescintigraphy no longer recommended; watchful waiting rather than surgery when symptoms are transient |
 | SOD criteria | Sphincter manometry included | Manometry dropped (poor sensitivity/reproducibility) |
 | CAPS | Single category | Two subcategories: A (not associated with physiological events) and B (modified by physiological events but pain remains continuous) |
 
@@ -301,9 +290,9 @@ Low-dose antidepressants used for their **pain-modifying properties**, independe
 
 - **41.4%** of >50,000 worldwide respondents met Rome criteria for ≥1 DGBI
 - **33.4%** had no GI symptoms
-- **~25%** had subdiagnostic GI symptoms — similarly impaired QoL as DGBI patients
-- **35%** of general population met Rome criteria for 1 DGBI; >1/3 of those had ≥1 co-occurring DGBI in a different region
-- Psychological distress reported in **37.5%** of global sample; 4.45× higher odds of DGBI
+- **~25%** had subdiagnostic GI symptoms — poorer QoL and more anxiety, depression, and health care use than those without GI symptoms
+- **35%** of 5931 adults (3 countries) met Rome criteria for 1 DGBI; >1/3 of those had ≥1 co-occurring DGBI in a different region — more overlaps, worse QoL and more treatments/surgeries
+- Psychological distress and somatic symptom severity in **37.5%** of a >54,000 global sample; 4.45× higher odds of ≥1 DGBI
 
 ---
 

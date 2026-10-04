@@ -3,7 +3,7 @@ title: "Upper GI Bleeding"
 category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
-updated: 2026-09-18
+updated: 2026-10-04
 sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2020-nvugib-endoscopic-therapies]
 ---
 
@@ -180,7 +180,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 ### Step 5: Endoscopic Evaluation — Ulcer Stigmata
 
-[[acg-2021-ugib|ACG 2021]] does **not** use or define the Forrest classification — it stratifies by *descriptive* stigmata only. The **class definitions and the class-specific rebleeding percentages come from [[acg-2025-egd-quality|ACG/American Society for Gastrointestinal Endoscopy (ASGE) 2025]]** (quality indicator [QI] 13), which requires that every ulcer seen at [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] be classified by Forrest class in the procedure report (Strong/1A, performance target >98%) precisely because the class dictates the need for endoscopic therapy and the post-intervention PPI dose.
+[[acg-2021-ugib|ACG 2021]] does **not** use or define the Forrest classification — it stratifies by *descriptive* stigmata only. The **class definitions and the class-specific rebleeding percentages come from [[acg-2025-egd-quality|ACG/American Society for Gastrointestinal Endoscopy (ASGE) 2025]]** (discussion of quality indicator [QI] 13), which states that ulcers seen at [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] should be classified by Forrest class in the procedure documentation because the class dictates the need for endoscopic therapy and the post-intervention PPI dose. The indicator itself measures documentation of **at least 1 stigma** (active bleeding, nonbleeding visible vessel, adherent clot, flat spot, or clean base): grade 1A, performance target >98%.
 
 | Forrest class | Stigma (as defined by [[acg-2025-egd-quality]]) | Rebleeding **after** successful endoscopic hemostasis ᵃ | Endoscopic therapy | Supporting ACG 2021 data |
 |---|---|---|---|---|
@@ -195,9 +195,13 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 ᵃ Post-hoc analysis of an RCT of IV esomeprazole vs placebo in ulcer bleeding, reporting recurrent bleeding **after successful endoscopic hemostasis** — not the natural history of untreated stigmata. Read alongside the ACG 2021 column, which reports further bleeding *without* therapy ([[acg-2025-egd-quality]]).
 
 - **Read the ordering carefully — it is not monotonic.** FIb (oozing) carries a *lower* post-hemostasis rebleeding rate than FIIa (nonbleeding visible vessel); active spurting (FIa) is significantly higher than oozing. Grouping "spurting + oozing" as one active-bleeding category, as older trials did, hides this ([[acg-2025-egd-quality]]).
-- **Actionable split:** FIa / FIb / FIIa → endoscopic hemostatic therapy (QI 14, Strong/1A, target >90%). FIIc / FIII → no endoscopic therapy. FIIb → irrigate vigorously to expose the underlying stigma; if the clot resists, no recommendation could be reached (see above).
+- **Actionable split:** FIa / FIb / FIIa → endoscopic hemostatic therapy (QI 14, grade 1A, target >90%). FIIc / FIII → no endoscopic therapy. FIIb → irrigate vigorously to expose the underlying stigma; if the clot resists, no recommendation could be reached (see above).
 - **Definition caveat:** "the definition of oozing may vary widely among endoscopists"; some trials require continuous bleeding over 5 minutes of observation to call it active oozing ([[acg-2021-ugib]]).
-- [[aga-2024-upper-endoscopy-quality|American Gastroenterological Association (AGA) 2024]] **Figure 2, "Endoscopic classification systems for selected upper gastrointestinal pathology,"** depicts the Forrest classes alongside Los Angeles (LA), Prague, Paris, Hill, and Eosinophilic Esophagitis Endoscopic Reference System (EREFS); [[acg-2025-egd-quality|ACG/ASGE 2025]] prints no Forrest figure.
+- Endoscopic appearance of each Forrest class, from [[aga-2024-upper-endoscopy-quality|American Gastroenterological Association (AGA) 2024]] Figure 2 (no Forrest figure in [[acg-2025-egd-quality|ACG/ASGE 2025]]):
+
+![[upper-endoscopy-2024-forrest-classification-06.png|700x143]]
+*Figure 2b — Forrest classification of peptic ulcers: Ia spurting bleed, Ib oozing bleed, IIa nonbleeding visible vessel, IIb adherent clot, IIc flat spot in ulcer, III clean-based ulcer. ([[aga-2024-upper-endoscopy-quality]])*
+
 - **Adherent clot:** high-dose PPI alone is a reasonable option when the clot resists irrigation.
 
 ### Step 6: Choice of Endoscopic Hemostatic Therapy (Ulcer Bleeding)

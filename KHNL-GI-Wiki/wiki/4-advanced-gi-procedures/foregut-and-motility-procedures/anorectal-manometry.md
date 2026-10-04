@@ -3,7 +3,7 @@ title: "Anorectal Manometry (ARM)"
 category: advanced-procedure
 tags: [arm, anorectal-manometry, defecation, biofeedback, dyssynergia, fecal-incontinence, balloon-expulsion-test]
 created: 2026-05-19
-updated: 2026-09-06
+updated: 2026-10-04
 sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi]
 ---
 
@@ -26,7 +26,7 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
 - Measures **rectal sensation** and **anorectal pressures** at rest, during anal/pelvic-floor contraction (squeeze), during evacuation, and on cough or Valsalva. ([[acg-2021-anorectal-disorders]])
 - Anorectal manometry (ARM) **plus** a [[#Balloon Expulsion Test (BET)|balloon expulsion test (BET)]] is the standard functional workup for [[defecation-disorders|defecation disorders (DD)]] — American College of Gastroenterology (ACG) key concept: *"ARM and balloon expulsion are required to diagnose DD."*
 - **No single test is a gold standard.** ARM, BET, and magnetic resonance (MR) defecography are concordant at levels of agreement **>70%**, but individual patients may disagree across tests.
-- **How many abnormal tests it takes has changed — and the two live rules disagree.** Rome IV required **≥2 abnormal tests**; **[[rome-v-2026-dgbi|Rome V]] (2026) requires only 1 of 3** — balloon expulsion, manometry, **or** imaging — and has **dropped anal electromyography (EMG)** as a criterion. [[acg-2021-anorectal-disorders|ACG 2021]] still requires **ARM *and* BET** (key concept above). Same tier; Rome V is the newer publication, so this page follows the looser 1-of-3 bar, while ACG's both-tests rule remains the stricter operating standard in an ACG-following lab. Version table: [[defecation-disorders]].
+- **How many abnormal tests it takes has changed — and the two live rules disagree.** Rome IV required **≥2 abnormal tests**; **[[rome-v-2026-dgbi|Rome V]] (2026) requires difficult-evacuation symptoms (e.g., straining, digital maneuvers) plus only 1 of 3 abnormal tests** — balloon expulsion, manometry, **or** imaging — and has **dropped anal electromyography (EMG)** as a criterion. [[acg-2021-anorectal-disorders|ACG 2021]] still requires **ARM *and* BET** (key concept above). Same tier; Rome V is the newer publication, so this page follows the looser 1-of-3 bar, while ACG's both-tests rule remains the stricter operating standard in an ACG-following lab. Version table: [[defecation-disorders]].
 - Sequencing, the DD diagnostic algorithm, and defecography indications live on [[defecation-disorders]]; incontinence workup on [[fecal-incontinence]]. Do not read this page as the algorithm — it covers the test itself.
 - **Digital rectal examination should be performed before referral for ARM.** ([[acg-2021-anorectal-disorders]])
 

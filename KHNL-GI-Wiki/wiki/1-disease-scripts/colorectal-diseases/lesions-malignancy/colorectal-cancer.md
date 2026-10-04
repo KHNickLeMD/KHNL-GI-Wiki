@@ -3,7 +3,7 @@ title: "Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
-updated: 2026-09-08
+updated: 2026-10-04
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc, kanaka-2022-colonic-stent-bts-right-sided, aga-2020-young-adult-onset-crc, aga-2021-crc-chemoprevention]
 ---
 
@@ -26,7 +26,6 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015
   - [[#Step 1 — Perioperative Clearing Colonoscopy]]
   - [[#Step 2 — First Postoperative Surveillance Colonoscopy]]
   - [[#Step 3 — Subsequent Surveillance Intervals]]
-  - [[#Post-Resection Surveillance Summary Schedule]]
   - [[#Additional Considerations for Rectal Cancer]]
   - [[#Fecal Testing in Post-Resection Surveillance]]
 - [[#FIT Screening for CRC — Primary Screening (Average-Risk)]]
@@ -230,7 +229,7 @@ flowchart TD
 
 [[usmstf-2015-crc-surveillance]]
 
-> Applies to TNM stages I–III (curative-intent resection). Hereditary syndromes ([[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]]) follow their own surveillance intervals — these recommendations do not apply to them.
+> Applies to curative-intent resection of TNM stage I–III CRC and selected resected stage IV. The intervals **do not apply to Lynch syndrome**; serrated polyposis syndrome (SPS) needs more frequent colonoscopy. Studies in hereditary syndromes, IBD, and prior CRC were excluded from the evidence review.
 
 ### Epidemiology of Post-Resection Risk
 
@@ -258,13 +257,13 @@ flowchart TD
 - Goals: (1) detect synchronous cancers (prevalence 0.7–7%); (2) detect and completely resect precancerous polyps
 - For obstructive CRC precluding complete colonoscopy: use **CT colonography (CTC)** as the best alternative; double-contrast barium enema is acceptable if CTC unavailable (*Strong recommendation, moderate-quality evidence*)
   - However, choose colonoscopy (not CTC) for the first **postoperative** examination in cases where CTC was used perioperatively — CTC misses flat, diminutive, and serrated lesions that may be clinically significant in CRC patients
-- **[[serrated-polyposis-syndrome|Serrated polyposis syndrome]] (SPS):** Actively consider this diagnosis when multiple and/or large serrated lesions are found — SPS requires more frequent colonoscopy intervals
+- **SPS:** Actively consider this diagnosis when multiple and/or large serrated lesions are found — SPS requires more frequent colonoscopy intervals
 
 ### Step 2 — First Postoperative Surveillance Colonoscopy
 
 **Strong recommendation, low-quality evidence** [[usmstf-2015-crc-surveillance]]
 
-- **1 year after surgery** (or 1 year after the perioperative clearing colonoscopy, whichever is later)
+- **1 year after surgery** (or 1 year after the perioperative clearing colonoscopy)
 - Applies to both colon and rectal cancer
 
 ### Step 3 — Subsequent Surveillance Intervals
@@ -279,22 +278,8 @@ flowchart TD
 | Subsequent | **Every 5 years** | Until benefit outweighed by diminished life expectancy |
 
 - If **neoplastic polyps detected** at any examination: shorten interval per published [[colonoscopy-surveillance|post-polypectomy surveillance]] guidelines (see [[colonoscopy]])
-- Surveillance continues lifelong or until age/comorbidity outweigh benefit
+- After year 9, intervals **should not exceed 5 years**; surveillance continues long term until age/comorbidity outweigh benefit
 - **These intervals do not apply to patients with [[lynch-syndrome]]**
-
-### Post-Resection Surveillance Summary Schedule
-
-```
-Perioperative clearing colonoscopy
-    ↓  (1 year)
-Year 1 surveillance colonoscopy
-    ↓  (3 years, i.e., 4 years from surgery)
-Year 4 surveillance colonoscopy
-    ↓  (5 years, i.e., 9 years from surgery)
-Year 9 surveillance colonoscopy
-    ↓  (every 5 years thereafter)
-Lifelong q5y until benefit < risk
-```
 
 ### Additional Considerations for Rectal Cancer
 
@@ -312,14 +297,14 @@ Lifelong q5y until benefit < risk
 **For high-risk rectal patients:** Local surveillance with **flexible sigmoidoscopy or EUS every 3–6 months for the first 2–3 years after surgery**, in addition to the standard colonoscopic surveillance schedule above.
 
 - EUS can detect extraluminal recurrence before intraluminal endoscopic findings; allows fine-needle aspiration (FNA) of suspicious nodes/lesions; ~10% of rectal cancer recurrences are diagnosed by EUS only
-- No RCTs compare sigmoidoscopy vs. EUS or determine ideal intervals
+- Unclear which modality (sigmoidoscopy or EUS) is better or what interval is ideal; no controlled trials show intensive EUS improves survival
 - Optimal luminal surveillance requires multidisciplinary collaboration (gastroenterology [GI], colorectal surgery, oncology)
 
 ### Fecal Testing in Post-Resection Surveillance
 
-**Insufficient evidence statement** [[usmstf-2015-crc-surveillance]]
+**Ungraded statement** [[usmstf-2015-crc-surveillance]]
 
-- **Do not recommend routine use of FIT or fecal DNA** for surveillance after CRC resection (insufficient evidence)
+- **Insufficient evidence to recommend routine FIT or fecal DNA** for surveillance after CRC resection
 - FIT showed earlier detection in one study (n=1,736) but applicability to post-resection surveillance unclear
 - Fecal DNA abnormalities clear from stool after resection; role in post-CRC surveillance not yet investigated
 
@@ -336,11 +321,11 @@ Lifelong q5y until benefit < risk
 FITs measure human hemoglobin directly in stool using antibodies against the globin moiety. Unlike the guaiac-based fecal occult blood test (gFOBT), FIT:
 
 - Is not confounded by dietary peroxidase activity — **no dietary restriction required** (Strong; Moderate)
-- Requires fewer samples (typically 1 vs. 3 for gFOBT)
+- Requires fewer samples (usually 1 or 2 vs. 3 for gFOBT)
 - Has superior sensitivity for CRC and advanced neoplasia
-- Has superior adherence (~20% higher participation than gFOBT in RCTs and meta-analyses)
+- Has superior adherence (~10% absolute increase in ≥4 RCTs; ~20% greater participation in 2 meta-analyses)
 
-Both American College of Gastroenterology (ACG) 2021 and USMSTF 2021 position annual FIT as a **co-equal preferred non-invasive screening modality** alongside colonoscopy. [[acg-2021-crc-screening]]
+American College of Gastroenterology (ACG) 2021 recommends **colonoscopy and FIT as the primary screening modalities** (Strong; low-quality evidence), with **FIT every 1 y** and colonoscopy every 10 y (Strong; low-quality evidence) [[acg-2021-crc-screening]]; USMSTF 2021 positions colonoscopy every 10 y or annual FIT as tier-1 options.
 
 ### FIT Performance Characteristics — Single Application
 
@@ -349,26 +334,26 @@ Both American College of Gastroenterology (ACG) 2021 and USMSTF 2021 position an
 - Pooled sensitivity: **~79%** (95% CI, 0.69–0.86)
 - Pooled specificity: **~94%** (95% CI, 0.92–0.95)
 - With colonoscopy as reference standard only: sensitivity 77%, specificity 94%
-- OC FIT CHEK (large US study, n=9,989): sensitivity 74%, specificity 96%
+- OC FIT-CHEK (large US study, n=9,989 undergoing colonoscopy): sensitivity 74%, specificity 96%
 
 **For advanced adenoma (single application):** [[usmstf-2016-fit-screening]]
 
-- Sensitivity: **~20–30%** across studies (range 6–56% depending on brand and cut-off)
-- Specificity: **~94–97%** for commonly used cut-offs
+- Sensitivity: **~20–30%** typical (range 6–56% depending on brand and cut-off); specificity 68–99% across studies
 - Implication: single-application FIT is a poor screen for advanced adenomas; repeated annual application is required to meaningfully accumulate detection of precancerous lesions
 
-**Summary from USMSTF 2016:** "With 1-time application, FIT tests are approximately 80% sensitive for cancer detection and approximately 20–30% sensitive for advanced neoplasia detection. To enhance advanced adenoma detection, repeated applications of FIT are required." — **Strong recommendation; moderate-quality evidence.**
+**USMSTF 2016:** because one-time FIT is ~80% sensitive for cancer but only ~20–30% for advanced neoplasia, **we recommend repeated testing**; patients choosing FIT should understand that testing recurs and that a positive result needs colonoscopy — **Strong recommendation; moderate-quality evidence.** When FIT is positive, do colonoscopy, **not a repeat FIT** — **Strong; moderate.** [[usmstf-2016-fit-screening]]
 
 ### Threshold (Hemoglobin Cut-off Value)
 
 | Cut-off range | Effect on sensitivity (CRC) | Effect on specificity | Positivity rate (1-sample) |
 |---|---|---|---|
 | <20 µg Hgb/g feces | 0.86 (95% CI, 0.75–0.92) | 0.91 (0.89–0.93) | 5.3–14.2% |
-| 20–50 µg/g | Intermediate | Intermediate | 1.4–7.5% |
-| >50 µg/g | 0.67 (95% CI, 0.59–0.74) | 0.96 (0.94–0.98) | Lower |
+| 20–50 µg/g | Not reported | Not reported | 1.4–7.5% |
+| >50 µg/g | 0.67 (95% CI, 0.59–0.74) | 0.96 (0.94–0.98) | Not reported |
 
-- **Task Force favors cut-off ≤20 µg/g** as best combination of sensitivity and specificity — **Weak recommendation; low-quality evidence** [[usmstf-2016-fit-screening]]
-- The 20 µg/g threshold is also the threshold of the most commonly available US quantitative FIT (OC-Sensor Diana / OC-Auto Micro 80, Polymedco)
+- In the meta-analysis, <20 µg/g gave the best combination of sensitivity and specificity for CRC
+- **Task Force favors a lower cut-off** (Table 7: "20 µg/g or lower"; text: <20 µg/g), weighing performance, cost-effectiveness, FIT device, and the program's colonoscopy resources — **Weak recommendation; low-quality evidence** [[usmstf-2016-fit-screening]]
+- Including 20 µg/g partly reflects the threshold of the commonly available US quantitative test
 - Individuals with fecal hemoglobin >177 µg/g are ~4x more likely to harbor advanced neoplasia (OR 3.80; 95% CI, 3.07–4.71)
 
 ### Qualitative vs. Quantitative FIT
@@ -386,23 +371,23 @@ Both American College of Gastroenterology (ACG) 2021 and USMSTF 2021 position an
 
 ### Interval
 
-- **Annual** — consistent with gFOBT RCT data demonstrating mortality reduction with annual (not biennial) screening
+- **Annual** (part of the 1-sample annual suggestion above)
 - Programmatic annual gFOBT reduces CRC-related mortality by up to 33%
-- Optimal interval for FIT not established by RCT; annual interval recommended by analogy and cost-effectiveness modeling
+- Optimal FIT interval unclear — 2 RCTs of annual vs biennial ongoing at publication; modeling: annual high-sensitivity FIT gives life-years similar to colonoscopy every 10 years; Dutch program: advanced neoplasia detection unaffected by intervals of 1–3 years
 
 ### FIT vs. gFOBT
 
-- FIT superior to gFOBT for both CRC detection and advanced neoplasia detection — **Strong recommendation; high-quality evidence** [[usmstf-2016-fit-screening]]
-- Meta-analysis: adherence RR 1.16 (95% CI, 1.03–1.30); advanced neoplasia detection RR 2.28 (95% CI, 1.68–3.10)
+- **Use FIT over gFOBT** — **Strong recommendation; high-quality evidence** [[usmstf-2016-fit-screening]]
+- Meta-analysis: cancer detection RR 1.96 (1.2–3.2); advanced neoplasia detection RR 2.28 (95% CI, 1.68–3.10); adherence RR 1.16 (95% CI, 1.03–1.30)
 - FIT sensitivity for CRC ~2x gFOBT (73.3% vs. 33.3%) with similar specificity (>95%)
 
 ### Follow-up of a Positive FIT
 
 - **Colonoscopy is the recommended test for follow-up of a positive FIT** in screen-eligible individuals — **Strong recommendation; moderate-quality evidence** [[usmstf-2016-fit-screening]]
-- CT colonography and colon [[capsule-endoscopy|capsule endoscopy]] have been evaluated but have limitations (sensitivity, specificity, and access issues)
+- CTC (sensitivity ≥6 mm 89%, specificity 75.4%) and colon [[capsule-endoscopy|capsule endoscopy]] (sensitivity 95%, specificity 65%; complete in 73%) have been studied after a positive stool test; specificity is the weakness
 - **A positive FIT + negative colonoscopy should NOT prompt upper GI evaluation** in the absence of signs/symptoms of upper GI pathology or [[iron-deficiency-anemia|iron-deficiency anemia]] — **Weak recommendation; very low quality evidence**
-- **A positive FIT in a patient with a recent negative colonoscopy** (before due for repeat): generally offer repeat colonoscopy — **Weak recommendation; low-quality evidence**
-- positive predictive value (PPV) for cancer from positive FIT: 2.9–7.8% (range across programs, round 1); PPV for advanced neoplasia: 33–54% (round 1)
+- **A positive FIT after a recent colonoscopy** (before repeat endoscopy is due): generally offer repeat colonoscopy, weighing clinical context, patient factors (advanced-neoplasia risk, preference), and prior exam quality (prep, endoscopist adenoma detection rate [ADR]) — **Weak recommendation; low-quality evidence**
+- positive predictive value (PPV) for cancer from positive FIT: 2.9–7.8% (range across programs, round 1); PPV for advanced neoplasia: 33.9–54% (round 1)
 
 ### Practical Considerations
 
@@ -410,9 +395,8 @@ Both American College of Gastroenterology (ACG) 2021 and USMSTF 2021 position an
 |---|---|---|---|
 | Dietary/medication adjustment | Not required — instruct patients explicitly | Strong | Moderate |
 | Sample collection | Spontaneously passed stool; NOT in-office digital rectal examination (DRE) sample | Weak | Very Low |
-| Sample return time | Up to 10 days does not significantly affect performance; encourage return within 24h | Weak | Very Low |
-| Ambient temperature during mailing | Need not adjust distribution/mailing based on temperature | Weak | Low |
-| Seasonal timing | No strong evidence of clinically meaningful seasonal effect; adhere to manufacturer storage specs | Weak | Low |
+| Sample return time | No strong evidence that delays up to 10 days harm performance; tell participants to return the kit promptly (preferably within 24 h of sampling); programs monitor return times and request a repeat sample when outside the manufacturer's limit | Weak | Very Low |
+| Ambient temperature / season | Need not adjust distribution or mailing for temperature; follow manufacturer storage and transport specifications | Weak | Low |
 
 ### Programmatic Quality Targets (USMSTF 2016)
 
@@ -421,9 +405,12 @@ Both American College of Gastroenterology (ACG) 2021 and USMSTF 2021 position an
 | FIT completion rate among those offered testing | ≥60% |
 | Proportion of returned FITs unprocessable by lab | <5% |
 | Colonoscopy completion rate for FIT-positive individuals | ≥80% |
-| adenoma detection rate (ADR) on follow-up colonoscopy (using ≤20 µg/g threshold) | >45% in men; >35% in women |
+| ADR on follow-up colonoscopy (using ≤20 µg/g threshold) | >45% in men; >35% in women |
 
-*Note: ADR targets for FIT-positive colonoscopies are higher than the general screening ADR benchmarks (≥25% overall per ACG 2021) because the pre-test probability of adenoma is enriched in FIT-positive individuals.*
+*These FIT-positive ADR targets are separate from screening-colonoscopy ADR benchmarks — see [[colonoscopy-quality-indicators]].*
+
+![[fit-2016-program-quality-process-flow-50.png|600x662]]
+*Figure 1 — Key steps in a FIT-based program and the quality measure at each step; FIT-negative and non-completers re-enter the recall queue for 1 year later. ([[usmstf-2016-fit-screening]])*
 
 ### Conflict with 2021 Guidelines
 

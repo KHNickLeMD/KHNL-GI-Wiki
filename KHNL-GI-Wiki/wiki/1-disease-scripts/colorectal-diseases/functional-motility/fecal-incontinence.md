@@ -3,7 +3,7 @@ title: "Fecal Incontinence"
 category: disease-script
 tags: [fecal-incontinence, anorectal, biofeedback, sacral-nerve-stimulation, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-09-30
+updated: 2026-10-04
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, rome-v-2026-dgbi, aga-2017-surgical-device-fecal-incontinence]
 ---
 
@@ -34,7 +34,7 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, rome-v-20
 
 - **Diagnostic threshold changed in [[rome-v-2026-dgbi|Rome V]] (2026):** FI ([[disorders-of-gut-brain-interaction|disorder of gut-brain interaction (DGBI)]] category **F1**) now requires **"two or more episodes of uncontrolled passage of fecal material"**, replacing Rome IV's qualitative **"recurrent uncontrolled passage"** — the stated purpose is to give the diagnosis an explicit **threshold frequency**. [[rome-v-2026-dgbi]]
   - Rome V does not state the **time window** over which the ≥2 episodes must occur.
-- **Rome V also added anorectal sensory dysfunction disorders (F4)** alongside FI: **F4b rectal hypersensitivity** presents with **increased urge to defecate** and prolonged/frequent toilet times, and **F4a rectal hyposensitivity** with a blunted urge — both are diagnosed by **rectal sensitivity testing** and treated with **balloon sensory training**, so an abnormal rectal sensation on anorectal manometry (ARM) is a treatable finding, not an incidental one. Overview and the criteria gap: [[defecation-disorders]]. [[rome-v-2026-dgbi]]
+- **Rome V also added anorectal sensory dysfunction disorders (F4)** alongside FI: **F4b rectal hypersensitivity** presents with **increased urge to defecate** and prolonged/frequent toilet times, and **F4a rectal hyposensitivity** with a blunted urge — both are diagnosed by **rectal sensitivity testing** and treated with **biofeedback and balloon sensory training**, so an abnormal rectal sensation on anorectal manometry (ARM) is a treatable finding, not an incidental one. Overview and the criteria gap: [[defecation-disorders]]. [[rome-v-2026-dgbi]]
 
 **Prevalence:** 2.2–25% community; ~9% age-adjusted in US. **Significantly underreported** — physicians must actively ask, particularly in patients with predisposing conditions.
 

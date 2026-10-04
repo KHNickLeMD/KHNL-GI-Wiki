@@ -115,7 +115,7 @@ flowchart TD
 ## Key Tests
 
 - **[[upper-endoscopy|EGD]]** — first-line for esophageal dysphagia; direct visualization, biopsy (mucosal disease, EoE, malignancy), and therapeutic [[esophageal-dilation|dilation]] of strictures/rings.
-- **Esophageal biopsies for EoE** — **≥6 biopsies from ≥2 levels (proximal/mid *and* distal)** for dysphagia without an endoscopic etiology; required even with normal-appearing mucosa. This is a formal EGD quality indicator with a **>90% performance target** ([[acg-2025-egd-quality]]).
+- **Esophageal biopsies for EoE** — a total of **≥6 biopsies from ≥2 levels (proximal/mid *and* distal)** of the esophagus in patients reporting dysphagia when there is **no endoscopically evident etiology**. EGD quality indicator 4: performance target **>90%**, grade 2B (weak recommendation), process measure ([[acg-2025-egd-quality]]).
 - **Modified barium swallow / videofluoroscopy** — test of choice for **oropharyngeal** dysphagia; assesses transfer mechanics and aspiration.
 - **Barium esophagram / timed barium esophagram** — structural and functional overview; sensitive for rings, webs, subtle strictures, extrinsic compression; timed barium quantifies achalasia emptying.
 - **[[high-resolution-manometry|High-resolution manometry]]** — gold standard for esophageal motility disorders; interpreted by [[chicago-classification-v4|Chicago Classification v4.0]].
@@ -148,7 +148,7 @@ Prompt expedited [[upper-endoscopy|EGD]] (and raise concern for malignancy):
 ## Sources
 
 1. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]
-2. [[chicago-v4-2021-esophageal-dysmotility|Chicago Classification v4.0: Esophageal Motility Disorders]]
+2. [[chicago-v4-2021-esophageal-dysmotility|Esophageal Motility Disorders on High-Resolution Manometry: Chicago Classification Version 4.0]]
 3. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)]]
 4. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
 5. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
