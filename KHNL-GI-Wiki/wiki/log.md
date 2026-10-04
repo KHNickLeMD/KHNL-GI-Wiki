@@ -6,9 +6,35 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
-## [2026-10-04] lint | acg-2020-hepatic-mesenteric-circulation validated (carried item); TIF page created
+## [2026-10-04] update | acg-2020-hepatic-mesenteric-circulation rebuilt in small edits after two content-filter aborts
 
-*(entry in progress — bullets appended as each item lands)*
+**Why it kept failing:** both the 18:00 subagent and the 06:00 run died at the same step — a single Write of the whole page reproducing all 23 recommendations and 28 key concepts word for word. The guideline PDF carries "Unauthorized reproduction of this article is prohibited"; a full-length verbatim copy most likely tripped the model's output filter for reproducing copyrighted text. This pass wrote the page section by section **and condensed** the commentary — each recommendation keeps its operative statement, every decision qualifier, and its grade, but not the guideline's supporting paragraphs verbatim. The point was to stop copying at length, not to slip the same text past the filter in smaller pieces.
+
+**Log repair:** the 06:00 cron entry below was retitled and marked aborted — its header claimed a validation and a TIF page that never happened.
+
+**[[acg-2020-hepatic-mesenteric-circulation]] validated against the PDF (stalest page, carried item cleared).** Same pattern as `acg-2025-eoe` / `usmstf-2025-bowel-prep`:
+
+- **Recommendations table was invented in structure:** 27 rows vs the document's 23 numbered recommendations. Fabricated or ungraded-content-given-a-grade rows: "initiate promptly to achieve recanalization" (Strong), "LMWH or VKA ≥3–6 months" (Strong/Low — the real Recs 7/9/10 are all Conditional/Very low and say ≥6 mo / indefinite), "TIPS for recanalization when anticoagulation insufficient" (no such rec), "anticoagulate all BCS" as a separate Strong/Moderate rec (part of Rec 17), "seek thrombophilia in all BCS" (key concept 16, ungraded), "LT for refractory HHT" (Conditional/Very low; actually part of Rec 23, Conditional/Low). Recs 14 and 15 were missing.
+- **Clinically wrong rows:** mesenteric aneurysm <2 cm was "observe" — Rec 19 actually says **treat at any size** for pancreaticoduodenal/gastroduodenal arcade, intraparenchymal hepatic, childbearing-age women, and transplant recipients. Platelet rec gave "renal dysfunction or active bleeding" — document says creatinine >2.5 mg/dL **or sepsis**.
+- **Wrong numbers in Key Findings:** PVT prevalence in LT-listed "25%" (document: 20%); "recanalization 40–75% with LMWH; DOAC equivalent" (the 42%/75% are LT-listed cirrhotic studies; noncirrhotic data are patency 13→33% PV, 42→73% SMV; DOAC experience "limited"); BCS "thrombophilia in 75%, 5-y survival 50–90%" (79–84% / ≥2 in 25–46%; no such survival range); HHT "LVMs 32–73%, symptomatic 1–8%" (55%; 8–14%); "SMA aneurysms most common (60%)" (**splenic** ~60%).
+- Rebuilt: all 23 recommendations with grades and qualifiers; 28 key concepts condensed; Tables 3–6 recreated; Contradictions rewritten with real conflicts against Baveno VIII and AGA 2025 (agent choice, variceal screening before anticoagulation, partial PVT, duration) — the old list held four open questions the document never raises.
+
+**[[portal-vein-thrombosis]] — the defect had propagated (the 06:00 run said entity pages were clean; they were not):**
+
+- Noncirrhotic block credited ACG 2020 with "40–75% recanalization", enoxaparin 1 mg/kg BID, warfarin INR 2–3, DOAC "comparable efficacy", and "≥3–6 months (Strong)" — none in the document or any other ingested source. Replaced with Recs 5–10; ACG agent choice flagged as superseded by Baveno VIII inline.
+- Cirrhotic block said partial PVT = "clinical judgment" — Figure 3 says **no anticoagulation for acute partial PVT except transplant-listed**. Replaced with Recs 11–15.
+- **Figure 3 (PVT algorithm) captured** — `raw/assets/pvt-2020-management-algorithm-13.png` via `pdftoppm -x/-y/-W/-H` crop (works in this container; PyMuPDF and ffmpeg are absent). Embedded on [[portal-vein-thrombosis]].
+- Abbreviation first-uses restored after the rewrite (LMWH, DOAC, PT, VKA, INR, GFR).
+
+**Anki:** card `f10020` (PVT page) tested the fabricated "3–6 months, Strong" claim → moved to `# Retired` with reason, id kept. Deck rebuilt: 1461 notes; exit 1 is the standing stale-cards backlog + `acg-2025-bowel-prep` slug on 2 colonoscopy cards (from yesterday's merge — needs repointing to `usmstf-2025-bowel-prep`). PVT card file now stale vs page (normal backlog).
+
+**Remaining:** the other `updated: 2026-05-28` source pages likely carry the same invented-table pattern — keep the rotation on `wiki/sources/`, and write large rebuilds in sections with condensed commentary so the cron doesn't abort. Colonoscopy card slugs above.
+
+---
+
+## [2026-10-04] lint | 06:00 cron pass ABORTED — content-filter API error; no pages changed
+
+**Outcome:** the run died at 06:05 Pacific with `API Error: Output blocked by content filtering policy` while writing the full rewrite of `wiki/sources/acg-2020-hepatic-mesenteric-circulation.md` in one Write — the same step and error that killed the 18:00 pass's subagent. Nothing was validated and no transoral incisionless fundoplication (TIF) page was created (this entry's original title claimed both; corrected by the 2026-10-04 update entry above). Only this log entry reached `main` (`cfa9256`).
 
 **Inbox check:** **No new arrivals.** `rawcount.py` reports all 14 `raw/` subfolder counts matching the audited baseline exactly — AGA 189, ACG 61, Lectures 60, ASGE 50, AASLD 35, Other 20, RCTs 12, NCCN 7, `GI Other Studies` 6, SAGES 3, EASL 2, AFS 2, USPG 1, APA 1 = **449** non-asset files, zero drift, nothing loose directly in `raw/`. `git status` clean with no untracked files anywhere in the tree, including under `raw/`.
 

@@ -3,7 +3,7 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-09-22
+updated: 2026-10-04
 sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
 ---
 
@@ -164,28 +164,33 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 
 ### Noncirrhotic Acute PVT/MVT — Anticoagulation
 
-**Anticoagulate all noncirrhotic patients with acute symptomatic PVT or MVT** (Strong, Low evidence) [[acg-2020-hepatic-mesenteric-circulation]]:
+**American College of Gastroenterology (ACG) 2020 algorithm** [[acg-2020-hepatic-mesenteric-circulation]]:
 
-- Goal: recanalization (40–75% with low-molecular-weight heparin [LMWH]) and prevention of bowel ischemia
-- Initial: **LMWH** (enoxaparin 1 mg/kg subcutaneously [SC] twice daily [BID]) — flexible, predictable; preferred in acute setting
-- Transition: vitamin K antagonist (VKA) (warfarin, target international normalized ratio [INR] 2–3) after stabilization; or direct oral anticoagulant (DOAC) (apixaban, rivaroxaban) — comparable efficacy in noncirrhotic patients
-- Minimum duration: **≥3–6 months** (Strong, Low evidence)
-- Extended indefinite anticoagulation: for underlying thrombophilia without reversible etiology (especially MPN, antiphospholipid syndrome, unprovoked thrombosis)
+![[pvt-2020-management-algorithm-13.png|700x430]]
+*Figure 1 — Approach to management of PVT, with and without cirrhosis. TP = thrombophilia; MV = mesenteric vein; EVL = endoscopic variceal ligation; NSBB = nonselective beta-blockers. \*No anticoagulation for acute partial thrombosis except in liver transplant–listed candidates. \*\*Duration 3–6 months if a discrete precipitant; indefinite if thrombophilia or transplant-listed. ([[acg-2020-hepatic-mesenteric-circulation]])*
 
-**Variceal prophylaxis** while anticoagulating [[acg-2020-hepatic-mesenteric-circulation]]:
+**Anticoagulate all noncirrhotic patients with acute symptomatic PVT or MVT** absent contraindication — anticoagulation, not thrombolysis, first (Strong, Low evidence) [[acg-2020-hepatic-mesenteric-circulation]]:
 
-- [[nonselective-beta-blockers|Non-selective beta-blockers (NSBBs)]] (propranolol, carvedilol) are first-line for variceal bleeding prophylaxis in noncirrhotic PVT patients receiving anticoagulation (Strong, Low evidence)
-- Endoscopic ligation for acute variceal bleeding
+- Effect: in 95 anticoagulated patients, portal vein patency rose 13% → 33% and superior mesenteric vein 42% → 73% over ~8 months
+- **Initial agent:** unfractionated heparin or low-molecular-weight heparin (LMWH) — weigh pros and cons (Conditional, Very Low evidence)
+- **Maintenance:** LMWH or warfarin (Conditional, Very Low evidence). Direct oral anticoagulant (DOAC) experience limited; absorption may fall with intestinal edema → monitor (normal thrombin time + activated partial thromboplastin time [aPTT] for dabigatran; normal prothrombin time (PT) or anti-Xa for apixaban/rivaroxaban rule out substantial effect); factor in reversal-agent availability
+  - ⚠ Superseded on agent choice by the newer [[baveno-viii-2026-portal-hypertension|Baveno VIII]] statements below: LMWH first (unfractionated heparin only for glomerular filtration rate [GFR] <30 mL/min or a pending procedure) and DOACs as the primary oral option
+- **Duration:** **≥6 months** if no demonstrable thrombophilia and a reversible etiology; **indefinite** with thrombophilia (Conditional, Very Low evidence)
+- Progression despite anticoagulation with risk of intestinal ischemia → thrombolysis may be considered; infarction/gangrene → surgical resection
+
+**Variceal prophylaxis** in chronic PVT requiring anticoagulation [[acg-2020-hepatic-mesenteric-circulation]]:
+
+- **High-risk varices → [[nonselective-beta-blockers|nonselective beta-blockers (NSBBs)]]**; endoscopic variceal ligation if NSBB contraindicated or not tolerated — anticoagulation may need interrupting around the procedure (Strong, Low evidence)
 
 **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] — recent (<6 mo) noncirrhotic PVT**
 
 *Start:*
 
 - Recent PVT **rarely resolves spontaneously**, and **recanalisation correlates with early initiation** → start **therapeutic-dose anticoagulation immediately at diagnosis** (9.6)
-- **LMWH first, then transition to an oral anticoagulant** (8.5). Avoid unfractionated heparin (heparin-induced thrombocytopenia [HIT] risk) except glomerular filtration rate (GFR) <30 mL/min or a pending invasive procedure
-- **DOACs may now be the primary oral choice** (8.6) — unless there is **double/triple-positive antiphospholipid syndrome**, **pregnancy**, **severely impaired liver function (Child-Pugh C–equivalent)**, or **GFR <30 mL/min**. ⚠ **Changed from Baveno VII 8.37**, which said to switch to a **vitamin K antagonist** when possible and reserved DOACs for "selected cases"
+- **LMWH first, then transition to an oral anticoagulant** (8.5). Avoid unfractionated heparin (heparin-induced thrombocytopenia [HIT] risk) except GFR <30 mL/min or a pending invasive procedure
+- **DOACs may now be the primary oral choice** (8.6) — unless there is **double/triple-positive antiphospholipid syndrome**, **pregnancy**, **severely impaired liver function (Child-Pugh C–equivalent)**, or **GFR <30 mL/min**. ⚠ **Changed from Baveno VII 8.37**, which said to switch to a **vitamin K antagonist (VKA)** when possible and reserved DOACs for "selected cases"
 - **Do not wait for endoscopic variceal prophylaxis.** Anticoagulation "should be initiated without delay and should not be postponed pending endoscopic prophylaxis for variceal bleeding" (8.10). ⚠ **This reverses Baveno VII 8.47**, which sequenced bleeding prophylaxis first in patients with high-risk varices
-- **Endoscopic variceal ligation (EVL) is safe without stopping LMWH or VKA**; **data are lacking for DOACs** (8.11)
+- **EVL is safe without stopping LMWH or VKA**; **data are lacking for DOACs** (8.11)
 
 *Duration — Baveno VIII rebuilds the whole framework around the risk factor (9.5, 9.8–9.10):*
 
@@ -239,10 +244,12 @@ flowchart TD
 
 **Indications for anticoagulation in cirrhosis** [[acg-2020-hepatic-mesenteric-circulation]]:
 
-- **Complete main PVT**, thrombus extending into mesenteric veins, or MVT: anticoagulate (Strong, Low evidence)
-- Acute PVT in cirrhosis: ≥6 months AC (Conditional, Very Low evidence)
-- Partial/segmental PVT in cirrhosis without mesenteric extension: clinical judgment; risk/benefit discussion
-- Chronic PVT in cirrhosis: anticoagulate only for thrombophilia, progression, or bowel ischemia (Conditional, Very Low evidence)
+- **Acute complete main PVT**, MVT, or extension into mesenteric veins: anticoagulate, weighing bleeding risk — e.g., platelets <50,000/µL or hepatic encephalopathy with fall risk (Strong, Low evidence)
+- **Acute partial PVT:** no anticoagulation except in liver transplant–listed candidates (Figure 1)
+- Duration for acute PVT/MVT without inherited thrombophilia: **6 months**; continue beyond while on the transplant waiting list (Conditional, Very Low evidence)
+- Chronic PVT in cirrhosis: anticoagulate **only** for inherited thrombophilia, thrombus progression, or prior bowel ischemia from mesenteric extension; may also be considered while awaiting transplant (Conditional, Very Low evidence)
+- Initial agent: **unfractionated heparin with renal insufficiency, LMWH with thrombocytopenia** (Conditional, Very Low evidence)
+- HCC tumor thrombus: no benefit from anticoagulation
 
 **American Gastroenterological Association (AGA) 2025 chronicity/occlusion stratification** (newest guideline-tier source; Best Practice Advice [BPA], unrated) [[aga-2025-pvt-cirrhosis]]. "Recent" = **<6 months**; "chronic" = **>6 months** (PVTs not recanalized by 6 months are unlikely to recanalize with AC) — concordant with the Baveno VIII / VALDIG standardised nomenclature under [[#Classification / Typing]] above:
 
@@ -261,7 +268,7 @@ flowchart TD
 
 | Agent | CTP class A | CTP class B | CTP class C |
 |---|---|---|---|
-| VKA (warfarin) | ✔ (INR unreliable in cirrhosis) | ✔ | Avoid (unreliable INR) |
+| VKA (warfarin) | ✔ (international normalized ratio [INR] unreliable in cirrhosis) | ✔ | Avoid (unreliable INR) |
 | LMWH | ✔ | ✔ | ✔ (preferred near transplant / high MELD) |
 | Apixaban | ✔ | Caution | **Not advised** |
 | Rivaroxaban | ✔ | **Not advised** | **Not advised** |
