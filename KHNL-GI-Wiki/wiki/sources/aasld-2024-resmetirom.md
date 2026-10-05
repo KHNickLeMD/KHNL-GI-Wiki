@@ -1,9 +1,9 @@
 ---
-title: "Resmetirom Therapy for MASLD: October 2024 Updates to AASLD Practice Guidance"
+title: "Resmetirom Therapy for Metabolic Dysfunction-Associated Steatotic Liver Disease: October 2024 Updates to AASLD Practice Guidance"
 category: source
 tags: [resmetirom, rezdiffra, masld, mash, nash, thr-beta, fibrosis, nilda, vcte, mre, maestro-nash, pharmacotherapy, hpb, liver]
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-10-05
 sources: []
 ---
 
@@ -25,6 +25,8 @@ sources: []
 **Whom to treat:** adults with MASH and F2–F3 identified preferentially by **imaging-based NILDA** (vibration-controlled transient elastography [VCTE] liver stiffness measurement [LSM] 8–15 kPa, magnetic resonance elastography [MRE] 3.1–4.4 kPa) or historical biopsy. Enhanced Liver Fibrosis (ELF) 9.2–10.4 (MAESTRO interquartile range [IQR]) may be used where imaging unavailable. NOT recommended in cirrhosis (VCTE >20 kPa or MRE >5 kPa), concomitant active liver disease, excess alcohol (>20 g/d ♀ / >30 g/d ♂), or active thyroid disease.
 
 ## Practice Recommendations (verbatim)
+
+*The guidance numbers none of its recommendations and assigns no strength or evidence grade; the headings below are its own.*
 
 ### Patient selection
 
@@ -77,4 +79,4 @@ sources: []
 
 ## See Also
 
-[[drug-induced-liver-injury]], [[nafld-masld]], [[resmetirom]], [[semaglutide]], [[aasld-2024-nilda-blood]]
+[[drug-induced-liver-injury]], [[nafld-masld]], [[resmetirom]], [[semaglutide]], [[noninvasive-liver-disease-assessment]], [[cirrhosis]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[acute-cholecystitis]], [[liver-biopsy]]

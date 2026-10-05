@@ -6,6 +6,35 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-05] lint | Ingest queue re-verified empty by file count; 3 stalest source pages validated; coverage-gap queue items 15–16 created
+
+**Ingest check — no new arrivals, and the queue really is empty.**
+
+- Working tree clean; **no untracked files under `raw/`** (expected — the content subfolders are gitignored).
+- Non-lecture, non-asset raw files: **389**. Reconciles exactly against the 2026-09-18 baseline in this log (374 non-lecture) **+14** AGA guidelines (2026-09-23 delivery) **+1** `GI Other Studies/CGH 2025 Review on Microscopic Colitis.pdf`. **No new inbox delivery since 2026-10-03.**
+- Per-folder: AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Other Studies 6, RCTs 12, Lectures 60.
+- Every file in the three folders that have changed since the 2026-09-06 audit (`Other/`, `GI RCTs/`, `GI Other Studies/`) was matched to an existing `wiki/sources/` slug one by one. **All ingested.** `Other/`'s 20 files are 8 documents stored twice under two naming conventions + 4 singletons, as `index.md` already records.
+- **Nothing was ingested this pass because nothing ingestable remains.** What is left in `raw/`: the **60 gated lecture/chalk-talk transcripts** and the broken 6 KB `IANS 2024 Anal Cancer Screening Consensus.pdf` (saved HTML, not a PDF). Lectures are never auto-ingested — see *Gated lectures* below.
+
+**Gated lectures — reported, not ingested.** All 60 transcripts in `raw/GI Lectures+Chalk Talks/` remain uningested by design. They are the only remaining readable material in `raw/`, which means **every future pass will face this same choice**: the ingest slots have no tier-1/tier-2 work left, and lectures require Nick to name specific files. Presented to Nick this pass for selection; nothing taken. Candidates with the clearest page impact if he wants to pick: `Positioning_Therapies_in_IBD_by_David_Rubin.md`, `IBS_by_Dr_Lin_Chang.md`, `Anorectal_Manometry_by_Phillip_Zhang.md`, `Hamartomatous_Syndromes_by_Greg_Idos.md`, `Devices_and_techniques_for_ERCP_in_surgically_altered_GI_tract.md`. Reminder for whoever takes them: tier-3, so they **add only non-conflicting detail and never override a guideline**; **no Anki cards**; and **no patient-specific detail may reach the wiki**.
+
+**Whole-wiki hygiene — clean, by the repo's own scanners.**
+
+- `website_files/scripts/rawcount.py`: all 14 subfolder counts **equal** baseline, total 449 = 449, **no loose files directly in `raw/`**.
+- `website_files/scripts/lintscan.py`: **0 broken link tokens**, **0 non-source orphans**, **0 stubs**, **0 substantive pages missing `## See Also` / `## Sources`**.
+- Independent re-scan confirmed the same, and separately confirmed **0 unescaped alias pipes inside table cells** (`[[slug|Alias]]` in a `|` row) wiki-wide.
+- No OS artifacts (`.DS_Store`, `Thumbs.db`, `._*`) anywhere in the repo.
+- Index footer counts verified against disk rather than trusted: **338 sources, 652 pages**, category counts all match. Footer's "no new arrivals" date advanced 2026-10-03 → 2026-10-05.
+
+**The one orphan is intentional — stop re-investigating it.** `lintscan.py` reports exactly one source-page orphan, [[nejm-2023-fever-returning-traveler]]. This is **not** the usual "content never reached the entity pages" failure. The article's full text is not on file (authors, volume, pages, DOI all unknown); the page is a deliberate citation record that supports no clinical claim anywhere, and [[fever-returning-traveler]] was **intentionally rebuilt** off it onto [[idsa-2017-infectious-diarrhea]], [[acg-2016-acute-diarrhea]] and [[acg-2016-liver-disease-pregnancy]]. It is already listed twice on [[needed-sources]]. **Do not manufacture an inbound link to clear the warning** — that would fabricate a citation. Expect this single orphan on every future pass until the full text is obtained.
+
+**Coverage-gap queue — two stale rows struck (pages already existed).** Neither was a real gap; both creating passes failed to strike their row, so the queue was overstating remaining work by two:
+
+- #21 `alcohol-associated-hepatitis` — page created **2026-09-15**, indexed and linked.
+- #27 `endoscopic-hemostasis` — page created **2026-09-06**, indexed and linked.
+
+---
+
 ## [2026-10-04] lint | All 13 remaining 2026-05-28 source pages + 3 more rebuilt from their PDFs; capture rule reworded; LA/Hill/Forrest criteria now sourced
 
 **Schema change (Nick's instruction):** CLAUDE.md → *Guidelines — recommendation capture* reworded. #1 priority = meaning identical; verbatim/near-verbatim when short, condensed and simplified when long; always reword rather than copy long passages (content filter); every qualifier and the document's own grade kept; write big rebuilds section by section; **don't reword existing pages that are already accurate and verbatim.**
