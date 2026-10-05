@@ -3,7 +3,7 @@ title: "Mesalamine and the 5-Aminosalicylates (5-ASA)"
 category: med
 tags: [5-asa, mesalamine, sulfasalazine, olsalazine, aminosalicylate, ibd, ulcerative-colitis, crohns, proctitis, topical-therapy, oral, rectal]
 created: 2026-09-08
-updated: 2026-09-24
+updated: 2026-10-05
 sources: [acg-2025-uc, acg-2025-crohns, acg-2019-uc, acg-2018-crohns, aga-2024-uc-pharm, aga-2021-crohns-pharm, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia, aga-2024-pouchitis, aga-2022-refractory-celiac, acg-2026-diverticulitis]
 ---
 
@@ -166,7 +166,7 @@ Three separate rules apply the moment a patient is not responding, and they are 
 | Fistulizing CD | Mesalamine and corticosteroids are **ineffective** |
 
 - **The reason the drug persists anyway, stated by the guideline:** *"5-aminosalicylates (5-ASAs) remain widely prescribed for the treatment of CD, despite considerable evidence demonstrating their lack of efficacy"* — one of the *"largely ineffective agents whose use cannot be justified by clinical evidence."*
-- **[[aga-2021-crohns-pharm]] agrees and goes further** — Rec 9: recommends **against** 5-aminosalicylates or sulfasalazine over no treatment for induction **or** maintenance in moderate-to-severe CD (**Strong**, moderate certainty); 5-ASA/sulfasalazine *did not reach the 10% minimal clinically important difference (MCID) for induction*. Rec 7 suggests **early introduction of a biologic rather than delaying until after failure of 5-ASA** and/or corticosteroids (Conditional, low).
+- **[[aga-2021-crohns-pharm]] agrees and goes further** — Rec 9: recommends **against** 5-aminosalicylates or sulfasalazine over no treatment for induction **or** maintenance in moderate-to-severe CD (**Strong**, moderate certainty); **5-ASA** did not reach the 10% minimal clinically important difference (MCID) for induction (risk ratio [RR] 0.90; 95% confidence interval [CI] 0.81–1.00), but **sulfasalazine did beat placebo for induction over 6–17 weeks** (RR 0.78; 0.65–0.93) — discounted by the panel because it was unclear that those patients had moderate-to-severe luminal disease. The strong recommendation rests on absent moderate-to-severe induction data **plus** clear maintenance failure (sulfasalazine RR 0.98, 0.82–1.17; 5-ASA RR 1.02, 0.92–1.16). Rec 7 suggests **early introduction of a biologic rather than delaying until after failure of 5-ASA** and/or corticosteroids (Conditional, low).
 - **Sulfasalazine is the only survivor, and it is graded weakly.** [[acg-2018-crohns]] Rec 10 called it *effective for treating symptoms of colonic CD that is mild to moderately active* (**Conditional / Low**); ACG 2025 demotes it from a recommendation to a **key concept**.
 
 ---

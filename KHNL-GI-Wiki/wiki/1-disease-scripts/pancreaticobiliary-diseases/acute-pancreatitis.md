@@ -3,7 +3,7 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-09-24
+updated: 2026-10-05
 sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis, aga-2018-initial-management-acute-pancreatitis]
 ---
 
@@ -289,11 +289,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 | Question | Answer (BPA) |
 |---|---|
-| **Percutaneous or transmural endoscopic drainage of WON?** | **Both are appropriate first-line, nonsurgical approaches.** Transmural endoscopic drainage **may be preferred — it avoids creating a pancreatocutaneous fistula** (BPA 7). One large prospective study: fistula **32% (percutaneous/VARD) vs 5% (endoscopic)**, P<.01 |
-| **When is percutaneous drainage the right first move?** | Infected or symptomatic necrotic collections in the **early, acute period (<2 weeks)**; **WON in a patient too ill** for endoscopic or surgical intervention. Also strongly consider it **as an adjunct** to endoscopic drainage when WON extends **deep into the paracolic gutters and pelvis** (dependent portions won't drain through a superiorly placed transmural stent), or as **salvage after endoscopic/surgical debridement leaves residual necrosis** (BPA 8) |
-| **What caliber percutaneous drain?** | Series used **8F–24F**. **Choose ≥24F if VARD is anticipated** — a 24F-or-larger drain reduces the dissection needed at VARD, because its tract becomes the entry portal for the debridement |
-| **Which transmural stent, and what size?** | **Lumen-apposing metal stents (LAMS) appear superior to plastic stents** (BPA 9). Sizing that drives the choice: **large-diameter self-expanding metal stents (SEMS) = 15 mm** (better egress of necrotic material, and wide enough to pass the scope for necrosectomy); **LAMS length ~1 cm**, vs covered esophageal SEMS which are **no shorter than 6–7 cm**. Consider **double-pigtail plastic stents placed through the LAMS** to reduce early occlusion by necrotic tissue and LAMS migration. ⚠ **BPA 9 conflicts with the same document's body text**, which states a **randomised trial did not show LAMS superiority over plastic stents**; "superior" rests on a *non-randomised* comparison of egress. Treat BPA 9 as expert opinion, not settled evidence |
-| **When is direct endoscopic necrosectomy (DEN) indicated rather than drainage alone?** | **Reserve DEN** for **limited necrosis that does not respond adequately** to transmural drainage with large-bore SEMS/LAMS alone, or plastic stents plus irrigation. DEN is also an option for **large amounts of infected necrosis** — but only **at referral centers** with the endoscopic expertise plus **interventional-radiology and surgical backup** (BPA 10). Risks: **air embolism, intracavitary bleeding, perforation** |
+| **Percutaneous or transmural endoscopic drainage of WON?** | **Both are appropriate first-line, nonsurgical approaches.** Transmural endoscopic drainage **may be preferred — it avoids creating a pancreatocutaneous fistula** (BPA 7). One large prospective study: fistula **32% (percutaneous/VARD) vs 5% (endoscopic)**, P<.01. *Route selection, drain caliber, stent choice and when to necrosectomize: [[pancreatic-fluid-collection-drainage]]* |
 | **Which minimally invasive operation?** | **VARD, laparoscopic transgastric debridement, and open transgastric debridement** are all feasible and effective; choose by **pattern of disease, patient physiology, team experience/expertise, and available resources** (BPA 12). **The anatomy picks the operation:** VARD suits a **central distribution of necrosis extending down into the *left* paracolic gutter** (accessed via the left flank) and can be **ineffective at reaching necrosis right of the mesenteric vessels**; **transgastric** approaches suit **centrally located** necrosis, and **extension into *either* paracolic gutter can leave the debridement incomplete** |
 | **Is there still a role for open debridement?** | **Yes** — for cases **not amenable to less invasive endoscopic and/or surgical procedures** (BPA 13); best undertaken with a **large burden of necrosis distributed diffusely** through the abdomen |
 | **Disconnected left pancreatic remnant** after mid-body necrosis | **Distal pancreatectomy** in patients with **reasonable operative candidacy**. **Insufficient evidence** supports managing it with **long-term transenteric endoscopic stenting** (BPA 14) — EUS-guided transmural stenting is a **temporizing** measure. *Definitions, diagnostic modalities and stent strategy — including a newer (2025) consensus statement — live on [[disconnected-pancreatic-duct-syndrome\|disconnected pancreatic duct (DPD/DPDS)]]; consult it before acting on this 2020 BPA* |
@@ -306,6 +302,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 - Endoscopic (transmural) drainage is preferred over surgery as *initial* therapy for pseudocysts
 - Use [[endoscopic-ultrasound|EUS]] for transmural drainage when there is no luminal bulge or [[portal-hypertension|portal hypertension]] is suspected; routine FNA is *not* required to diagnose infected necrosis
 - WON: step-up — transmural/percutaneous drainage before transmural necrosectomy or surgery; lower success and higher adverse-event rates than pseudocyst drainage; perform only with surgical and interventional radiology (IR) backup
+- **Technique, stents, necrosectomy, after-care, adverse events and outcomes — and the full graded recommendation set — live on [[pancreatic-fluid-collection-drainage]].**
 
 ### 7. Gallstone Pancreatitis — Definitive Management
 

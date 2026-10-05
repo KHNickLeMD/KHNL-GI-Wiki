@@ -6,6 +6,43 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-05] lint | Both pages the earlier pass created finished and de-orphaned; stalest-source rotation continues
+
+**Ingest check:** no new arrivals — `rawcount.py` all 14 subfolder counts = baseline, total 449, no loose files in `raw/`; `git status -uall` clean (nothing untracked under `raw/` to commit). No ingestable material left: 60 gated lectures + the broken `IANS 2024 Anal Cancer Screening Consensus.pdf`.
+
+**Both pages the 06:00 cron created were left unfinished — fixed.** Queue items 15–16 were created but never indexed, never struck from the queue, and left as whole-wiki orphans; one was also cut off mid-build.
+
+- [[pancreatic-fluid-collection-drainage]] — the cron's body **stopped at §Recognizing Infected Necrosis** with 10 of its own `## Contents` sections unwritten and no `## See Also` / `## Sources`. Finished from the ASGE 2016 PDF (read page by page with the Read tool): Before the Procedure, Step-Up Approach (with Mermaid), transmural vs transpapillary vs percutaneous route selection, stent selection and dwell time, direct endoscopic necrosectomy, after-care, disconnected duct, adverse events, outcomes, and all **12 graded ASGE recommendations** with the document's own quality ratings (verified against the PDF's ⊕ symbols — Recs 1, 5, 9, 11 High; 2, 3, 6, 8, 10 Moderate; 4, 7, 12 Low).
+- [[transoral-incisionless-fundoplication]] — complete as written, but orphaned. De-orphaned and indexed.
+
+**One home per fact — duplicated content moved, not copied.** Creating these two pages duplicated material that already lived elsewhere; the older copies are now pointers:
+
+- [[antireflux-surgery]]: §*TIF — Relative Contraindications*, §*TIF-Specific Workup*, §*TIF 2.0 — Technical Safety Points* and §*Post-TIF Care* removed (all four are on the TIF page); the TIF 2.0 / cTIF outcome bullets condensed to positioning + cost. `## Contents` updated so the right-rail outline still matches.
+- [[acute-pancreatitis]]: the five endoscopic rows of the AGA BPA table (route, drain caliber, stent choice, when to necrosectomize) and the technique detail removed; surgical rows and disease-level step-up principles kept.
+
+**Inbound links added (de-orphaning):** [[acute-pancreatitis]], [[disconnected-pancreatic-duct-syndrome]] (its "technique lives on acute-pancreatitis" pointer repointed), [[endoscopic-ultrasound]] → PFC drainage; [[gerd]], [[hiatal-hernia]], [[reflux-testing]], [[antireflux-surgery]] → TIF.
+
+**Source-priority conflict surfaced on the new page:** [[uspg-2025-disconnected-pancreatic-duct]] (long-term double-pigtail transmural stenting) vs [[aga-2020-cpu-pancreatic-necrosis]] BPA 14 (stenting only temporizing; distal pancreatectomy definitive). Same tier, USPG newer → the 2025 strategy is what the page asserts, with the conflict stated inline.
+
+**Stalest-page rotation (source pages, continuing from 2026-06-04).**
+
+- [[aga-2021-crohns-pharm]] validated against the PDF and rebuilt in sections. **The invented-numbering/grade defect was *not* present** — the document numbers its own recommendations 1A–11 in Table 3, all 24 statements were present with correct strength and certainty, and both "No recommendation / Knowledge gap" entries were intact. What was wrong: **methotrexate doses dropped entirely** (SC 25 mg/wk induction, SC 15 mg/wk maintenance after 16–25 wk, oral 12.5 mg/wk the dose that failed — the whole 3C-vs-3D split is a route-and-dose distinction and was unreproducible); corticosteroid induction RR given without the **prednisone-equivalent up to 60 mg/d**; **sulfasalazine wrongly lumped with 5-ASA as failing induction** (sulfasalazine RR 0.78, 0.65–0.93 beat placebo); DIAMOND comparator 63.8% vs the printed **63.2%**; Summary upgraded two **conditional** "suggests against" statements (natalizumab, thiopurine monotherapy) to "recommends against"; thiopurine population qualifier (corticosteroid-free remission in corticosteroid-dependent patients) dropped; budesonide indirectness caveat dropped; early-combined-immunosuppression evidence misattributed (**Cosnes was negative**, REACT negative at 12 mo). Added: scope/severity definitions, the document's grade vocabulary, perianal-fistula evidence table, the 2–3× lymphoma risk of adding a thiopurine.
+- Propagated error corrected centrally: [[mesalamine-5-asa]] carried the same 5-ASA/sulfasalazine conflation; now split, with both maintenance RRs.
+- [[asge-2019-barretts-screening-surveillance]] validation was dispatched in the same pass and had not reported when this entry was written — **next pass should confirm it landed before moving on**, then continue with the remaining 2026-06-04 source pages (`aasld-2009-liver-biopsy`, `aga-2020-probiotics`, `aga-2021-intragastric-balloons`, `asge-2022-pancreatic-cancer-screening`, `asge-2023-ergonomics`, `asge-2023-indeterminate-biliary-strictures`, `asge-2023-post-transplant-biliary-strictures`).
+
+**Hygiene:** `lintscan.py` after the pass — **0 broken links · 0 non-source orphans (was 2) · 0 stubs · 0 pages missing See Also/Sources (was 1) · 0 unescaped alias pipes**. Index footer corrected to **654 pages / 30 advanced procedures** (was 652 / 28). The single source-page orphan [[nejm-2023-fever-returning-traveler]] remains intentional — do not manufacture an inbound link.
+
+**Coverage-gap queue:** no new page created this pass — the pass was already heavy (one large page finished, two pages de-duplicated, two source validations), which the schema allows. Next from the top: #17 `eus-guided-biliary-drainage`.
+
+**Not done this pass — Anki.** The server cards directory `/mnt/LeStorage/Drive/KHNL/##3Resources/#KHNL GI Wiki/cards/` is **not mounted in this environment**, so no card file could be read, written or rebuilt. [[pancreatic-fluid-collection-drainage]] (guideline-sourced, so cardable) and the [[mesalamine-5-asa]] correction are owed cards/edits on the next pass that has `/cards`.
+
+**Remaining for triage:**
+
+- [[crohns-disease]] lists `aga-2021-crohns-pharm` in `## Sources` but has **zero inline citations** to it — the classic "content never reached the entity page" signature. The recovered methotrexate and corticosteroid doses are the obvious things it should pull.
+- Gated lectures: all 60 still uningested by design, and they remain the only readable material left in `raw/`. Nick must name files.
+
+---
+
 ## [2026-10-05] lint | Ingest queue re-verified empty by file count; 3 stalest source pages validated; coverage-gap queue items 15–16 created
 
 **Ingest check — no new arrivals, and the queue really is empty.**

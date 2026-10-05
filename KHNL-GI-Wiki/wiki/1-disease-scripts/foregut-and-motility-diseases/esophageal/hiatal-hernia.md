@@ -3,7 +3,7 @@ title: "Hiatal Hernia"
 category: disease-script
 tags: [hiatal-hernia, gerd, foregut, ge-junction, hill-grade, antireflux-surgery, tif, ctif, cameron-lesions]
 created: 2026-08-29
-updated: 2026-09-01
+updated: 2026-10-05
 sources: [asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, acg-2020-esophageal-physiologic-testing, sages-2021-gerd-surgery]
 ---
 
@@ -41,7 +41,7 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation �
 
 ### Severity Assessment
 
-**Size is graded in two dimensions, and either one alone can disqualify a patient from transoral incisionless fundoplication (TIF)** ([[afs-2023-transoral-incisionless-fundoplication]]):
+**Size is graded in two dimensions, and either one alone can disqualify a patient from [[transoral-incisionless-fundoplication|transoral incisionless fundoplication (TIF)]]** ([[afs-2023-transoral-incisionless-fundoplication]]):
 
 | Dimension | Threshold | What crossing it means |
 |---|---|---|
@@ -83,7 +83,7 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation �
 
 ### The hernia selects the procedure
 
-**Hernia size + Hill grade is the operative decision point.** The full selection table, TIF eligibility criteria, contraindications, and perioperative protocols live on **[[antireflux-surgery]]** — not reproduced here. In brief:
+**Hernia size + Hill grade is the operative decision point.** The full selection table lives on **[[antireflux-surgery]]**; TIF eligibility criteria, contraindications, and perioperative protocols on **[[transoral-incisionless-fundoplication]]** — not reproduced here. In brief:
 
 - **≤2 cm, Hill I/II** → TIF 2.0 is on the table
 - **>2 cm (length *or* transverse diameter), Hill III/IV** → **cTIF** (laparoscopic hernia repair, then TIF in the same anesthetic) or surgical fundoplication

@@ -3,7 +3,7 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-09-23
+updated: 2026-10-05
 sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd, acg-2020-esophageal-physiologic-testing, afs-2024-ge-valve-after-antireflux-surgery, aga-2022-personalized-gerd, aga-2020-functional-heartburn]
 ---
 
@@ -87,7 +87,7 @@ Objective severity is assessed endoscopically and with [[reflux-testing|reflux t
 |----------|----------|
 | Erosive reflux disease (ERD) | Visible mucosal breaks on esophagogastroduodenoscopy (EGD); LA grade A–D |
 | Non-erosive reflux disease (NERD) | Symptoms without mucosal breaks; may have abnormal AET on pH study |
-| Heartburn-predominant GERD | Responds well to PPI; transoral incisionless fundoplication (TIF) and combined TIF + hiatal hernia repair (cTIF) applicable |
+| Heartburn-predominant GERD | Responds well to PPI; [[transoral-incisionless-fundoplication\|transoral incisionless fundoplication (TIF)]] and combined TIF + hiatal hernia repair (cTIF) applicable |
 | Regurgitation-predominant GERD | Often less PPI-responsive; a specific TIF indication |
 | Refractory GERD | Persistent symptoms on double-dose PPI ≥8 weeks with confirmed pathologic reflux |
 | Complicated GERD | Peptic stricture, Barrett's esophagus, erosive esophagitis LA-C/D |
@@ -211,7 +211,7 @@ Recommend for all patients with GERD symptoms:
 
 ### Step 3: Endoscopic Anti-Reflux Therapies
 
-*Full procedure comparison — TIF 2.0, cTIF, Stretta, and the investigational techniques, with their efficacy, safety, and cost data — lives on [[antireflux-surgery]]. Only the eligibility gate is stated here.*
+*Full procedure comparison — TIF 2.0, cTIF, Stretta, and the investigational techniques, with their efficacy, safety, and cost data — lives on [[antireflux-surgery]]; TIF-specific selection, technique and aftercare on [[transoral-incisionless-fundoplication]]. Only the eligibility gate is stated here.*
 
 **The gate — all three required before any endoscopic antireflux therapy:**
 

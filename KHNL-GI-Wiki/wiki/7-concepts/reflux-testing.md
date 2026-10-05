@@ -3,7 +3,7 @@ title: "Reflux Testing"
 category: concept
 tags: [gerd, reflux, ph-monitoring, impedance, manometry, endoscopy, diagnostics]
 created: 2026-05-15
-updated: 2026-10-04
+updated: 2026-10-05
 sources: [acg-2021-gerd, asge-2024-gerd, acg-2020-esophageal-physiologic-testing, aga-2024-upper-endoscopy-quality, acg-2025-egd-quality]
 ---
 
@@ -118,7 +118,7 @@ Careful endoscopic evaluation, reporting, and **photo-documentation** of the fol
 | GEJ landmarks | Top of gastric folds, Z-line, diaphragmatic impression | — |
 | Prior fundoplication | Describe if present | — |
 
-- **Hiatal hernia size + Hill grade is the procedural decision point** (≤2 cm with Hill I/II vs >2 cm with Hill III/IV) — the transoral incisionless fundoplication (TIF) / combined TIF + hiatal hernia repair (cTIF) / surgery table and the TIF eligibility criteria live on [[antireflux-surgery]].
+- **Hiatal hernia size + Hill grade is the procedural decision point** (≤2 cm with Hill I/II vs >2 cm with Hill III/IV) — the [[transoral-incisionless-fundoplication|transoral incisionless fundoplication (TIF)]] / combined TIF + hiatal hernia repair (cTIF) / surgery table lives on [[antireflux-surgery]], and the TIF eligibility criteria on [[transoral-incisionless-fundoplication]].
 - HRM detects hiatal hernia with higher sensitivity than endoscopy (see below).
 
 ### Erosive Esophagitis: Los Angeles (LA) Grade
