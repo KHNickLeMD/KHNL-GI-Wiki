@@ -3,7 +3,7 @@ title: "Needed Sources — Download List"
 category: overview
 tags: [maintenance, sources]
 created: 2026-09-08
-updated: 2026-10-04
+updated: 2026-10-06
 sources: []
 ---
 
@@ -95,6 +95,7 @@ Papers, guidelines, tables, and figures that would close a specific gap on a wik
 | ASGE/ACG Quality Indicators — ERCP, colonoscopy, and "common to all endoscopy" companion | cannulation / PEP / withdrawal-time / delayed-bleeding benchmarks; consent, antithrombotic, time-out, sedation indicators | [[ercp]], [[colonoscopy]], [[upper-endoscopy]], [[endoscopic-mucosal-resection]] |
 | ASGE/ACG training & credentialing document; Chang 2024 editorial full text (*GIE Clin N Am* 34(1):xv) | case-volume thresholds for ESD / EUS-FNA / complex biliary | [[endoscopic-oncology]], [[chang-2024-endoscopic-oncologist]] |
 | Dedicated difficult-bile-duct-stone guideline | criteria defining a "difficult" stone | [[cholangioscopy]] |
+| Brazilian Intragastric Balloon Consensus Statement — Neto MG et al, *Surg Obes Relat Dis* 2018;14:151–159 (>40,000 cases); named by AGA 2021 as the document covering this ground | intragastric balloon **contraindications** (AGA 2021 gives none), indications beyond BMI 30–40 kg/m², and pre-/post-procedure evaluation | [[intragastric-balloon]], [[endoscopic-bariatric-therapies]], [[aga-2021-intragastric-balloons]] |
 | ASGE technology review — EUS-guided liver biopsy | technique and route comparison | [[liver-biopsy]] |
 | *Fever in a Returning Traveler*, *N Engl J Med* 2023 — full text (author, volume, pages, DOI all unknown; citation record at [[nejm-2023-fever-returning-traveler]]) | the non-GI differential the three ingested diarrhea/pregnancy guidelines explicitly do not cover — malaria, dengue, leptospirosis, schistosomiasis/Katayama fever, visceral leishmaniasis, yellow fever — plus incubation windows and test performance | [[fever-returning-traveler]] |
 | Statin label / a lipid or liver society statement on statin use in chronic liver disease | would support a `5-meds/statins` page: hepatotoxicity monitoring, use in cirrhosis, the NAFLD/NASH safety position. The only ingested statement is AGA-AASLD-ACG 2012 Recs 30–31 ([[aga-aasld-acg-2012-nafld]]) — safe for dyslipidemia, not a NASH therapy — which is too thin for a drug page on its own | [[nafld-masld]], [[cirrhosis]] |

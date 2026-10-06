@@ -3,7 +3,7 @@ title: "ERCP (Endoscopic Retrograde Cholangiopancreatography)"
 category: advanced-procedure
 tags: [ercp, biliary, pancreatic, hepatobiliary, sphincterotomy, stent, stone-extraction]
 created: 2026-05-16
-updated: 2026-10-01
+updated: 2026-10-06
 sources: [asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, aga-2026-electrosurgery, aga-2021-gi-perforations-endoscopic-management, aga-2016-infection-ercp-endoscopes, aga-2017-mstf-endoscope-reprocessing-commentary]
 ---
 
@@ -65,9 +65,9 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endo
 | Anatomy | First approach | If it fails / exceptions |
 |---|---|---|
 | **[[bariatric-surgery\|Roux-en-Y gastric bypass]]** | **EDGE** (EUS-directed transgastric ERCP) over enteroscopy-assisted (E-ERCP) or laparoscopy-assisted (LA-ERCP) ERCP — *low quality* | EDGE especially preferred for a suspected ampullary lesion, malignant disease, or when repeat ERCP is expected. **LA-ERCP may be preferred if surgery (e.g. cholecystectomy) is needed in the near future** |
-| **Non–gastric-bypass altered anatomy** — Roux-en-Y hepaticojejunostomy, pancreaticoduodenectomy, Billroth II | **E-ERCP as the initial approach** — *very low quality* | If unsuccessful → **EUS-guided biliary drainage or percutaneous biliary drainage**. **Review the operative report for Roux-limb length** before starting |
+| **Non–gastric-bypass altered anatomy** — Roux-en-Y hepaticojejunostomy, pancreaticoduodenectomy, Billroth II | **E-ERCP as the initial approach** — *very low quality* | If unsuccessful → **[[eus-guided-biliary-drainage\|EUS-guided biliary drainage (EUS-BD)]] or percutaneous biliary drainage**. **Review the operative report for Roux-limb length** before starting |
 
-- **Failed ERCP in native anatomy:** EUS-guided biliary drainage (EUS-BD) is suggested **over PTBD** — but the **rendezvous** technique is preferred over EUS-guided choledochoduodenostomy (EUS-CDS)/hepaticogastrostomy (EUS-HGS) in *suspected benign* disease, and **PTBD is preferred** when the patient is **hemodynamically unstable, cannot tolerate general anesthesia, or has suspected malignancy as the cause of obstruction** (or EUS-BD expertise is unavailable). Drainage-route detail lives on [[biliary-stricture]]. ([[asge-2024-therapeutic-eus-biliary]])
+- **Failed ERCP in native anatomy:** EUS-BD is suggested **over PTBD** — but the **rendezvous** technique is preferred over EUS-guided choledochoduodenostomy (EUS-CDS)/hepaticogastrostomy (EUS-HGS) in *suspected benign* disease, and **PTBD is preferred** when the patient is **hemodynamically unstable, cannot tolerate general anesthesia, or has suspected malignancy as the cause of obstruction** (or EUS-BD expertise is unavailable). Route selection, outcomes and adverse events live on [[eus-guided-biliary-drainage]]. ([[asge-2024-therapeutic-eus-biliary]])
 - **Sphincterotomy energy delivery — PEP risk is primarily *technique*-related, not energy-setting-related** ([[aga-2026-electrosurgery]] BPA 12). Keep wire–tissue contact small and the wire **unburied, applied to the surface with minimal tension**, for high current density and minimal collateral thermal injury. Waveform choice (pure cut vs blended), settings by manufacturer, and the underlying physics are on **[[electrosurgery#ERCP Sphincterotomy]]**.
 
 ---
@@ -139,7 +139,7 @@ Benchmarks stated in [[asge-2015-ercp-benign-biliary]]:
 
 ## See Also
 
-[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[biliary-stricture]], [[choledocholithiasis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]], [[acute-cholecystitis]], [[anticoagulation-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[device-assisted-enteroscopy]], [[electrosurgery]], [[endoscopic-hemostasis]], [[bariatric-surgery]], [[ampullary-adenoma]], [[fish]], [[endoscopic-management-of-perforation]], [[endoscope-reprocessing]]
+[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[biliary-stricture]], [[choledocholithiasis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[eus-guided-biliary-drainage]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]], [[acute-cholecystitis]], [[anticoagulation-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[device-assisted-enteroscopy]], [[electrosurgery]], [[endoscopic-hemostasis]], [[bariatric-surgery]], [[ampullary-adenoma]], [[fish]], [[endoscopic-management-of-perforation]], [[endoscope-reprocessing]]
 
 ---
 

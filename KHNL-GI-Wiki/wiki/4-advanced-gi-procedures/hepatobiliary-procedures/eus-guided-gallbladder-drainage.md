@@ -3,7 +3,7 @@ title: "EUS-Guided Gallbladder Drainage (EUS-GBD)"
 category: advanced-procedure
 tags: [eus-gbd, lams, acute-cholecystitis, gallbladder-drainage, cholecystoscopy, percutaneous-cholecystostomy, transpapillary-drainage, therapeutic-eus]
 created: 2026-07-23
-updated: 2026-09-06
+updated: 2026-10-06
 sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality, tg18-2018-cholangitis-flowchart]
 ---
 
@@ -28,7 +28,7 @@ EUS-guided gallbladder drainage (EUS-GBD) is transmural gallbladder decompressio
 
 1. **Gallbladder drainage in high-surgical-risk patients with [[acute-cholecystitis|acute cholecystitis]]** (the core indication)
 2. **Conversion of percutaneous cholecystostomy to internal drainage** in patients who will never be cholecystectomy candidates (removes the external drain)
-3. **Rescue drainage of [[biliary-stricture|malignant biliary obstruction]]** in select patients after failed [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] *and* failed EUS-guided biliary drainage
+3. **Rescue drainage of [[biliary-stricture|malignant biliary obstruction]]** in select patients after failed [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] *and* failed [[eus-guided-biliary-drainage|EUS-guided biliary drainage (EUS-BD)]]
 
 ## Patient Selection
 
@@ -110,7 +110,7 @@ From [[acg-2025-eus-quality|American College of Gastroenterology (ACG)/ASGE 2025
 
 ## See Also
 
-[[acute-cholecystitis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[ercp]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[ascites]], [[interventional-eus-vascular]], [[endoscopy-sedation]]
+[[acute-cholecystitis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[eus-guided-biliary-drainage]], [[ercp]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[ascites]], [[interventional-eus-vascular]], [[endoscopy-sedation]]
 
 ---
 

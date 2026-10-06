@@ -3,7 +3,7 @@ title: "Obesity"
 category: disease-script
 tags: [obesity, weight-management, metabolic, semaglutide, glp1, intragastric-balloon]
 created: 2026-06-04
-updated: 2026-09-06
+updated: 2026-10-06
 sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 ---
 
@@ -48,7 +48,8 @@ sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 ## Therapeutics
 
 ### Lifestyle Modification
-- Foundation of all therapy. AGA **strongly** recommends **moderate- to high-intensity lifestyle modification** concomitant with any device/drug to maintain and augment weight loss.
+- Foundation of all therapy — every pharmacologic and endoscopic option below is **added to** lifestyle modification, never substituted for it.
+- During intragastric balloon therapy (below), AGA **strongly** recommends **moderate- to high-intensity concomitant lifestyle modification** to maintain and augment weight loss ([[aga-2021-intragastric-balloons]]); a moderate- to high-intensity diet continued **for 6 months after** balloon therapy kept weight falling even after removal.
 
 ### Pharmacotherapy
 
@@ -64,7 +65,7 @@ sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 | **liraglutide 3.0 mg** | Suggested (moderate) | Glucoregulatory benefit; also approved for T2DM | Same GLP-1 class risks (pancreatitis, gallbladder disease, delayed gastric emptying) | — |
 | **phentermine-topiramate extended-release (ER)** | Suggested (moderate) | Comorbid **migraine** (topiramate treats migraine) | **Avoid with a history of cardiovascular disease or uncontrolled hypertension.** Topiramate is **teratogenic** — counsel women of childbearing potential to use effective contraception consistently | **Blood pressure (BP) and heart rate periodically** (true of any phentermine-containing regimen) |
 | **naltrexone-bupropion ER** | Suggested (moderate) | Patient **attempting smoking cessation**; patient with **depression** | **Avoid in seizure disorders**, use with caution if at risk of seizures. **Do not use concomitantly with opiates** | BP and heart rate periodically, **especially the first 12 weeks** |
-| **phentermine** monotherapy | Suggested (low) | Short-term use | FDA approval is for **12 weeks only** — ⚠ longer use is **off-label** (though common in practice, given that weight management is chronic). Avoid with a history of cardiovascular disease | BP and heart rate periodically |
+| **phentermine** monotherapy | Suggested (low) | Short-term use | US Food and Drug Administration (FDA) approval is for **12 weeks only** — ⚠ longer use is **off-label** (though common in practice, given that weight management is chronic). Avoid with a history of cardiovascular disease | BP and heart rate periodically |
 | **diethylpropion** monotherapy | Suggested (low) | Short-term use | FDA approval is for **12 weeks only** — ⚠ longer use is **off-label**. Avoid with a history of cardiovascular disease | BP and heart rate periodically |
 | **orlistat** | **Suggested *against*** (moderate) | Only for the patient who places high value on a small weight-loss benefit and low value on GI adverse effects | Modest efficacy, GI adverse effects | **Daily multivitamin containing fat-soluble vitamins (A, D, E, K), taken 2 hours apart from orlistat** |
 | **Gelesis100** oral superabsorbent hydrogel | **No recommendation — knowledge gap** | BMI 25–40 kg/m²: use **only in the context of a clinical trial** | — | — |
@@ -73,15 +74,15 @@ sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 - Tirzepatide post-dates this 2022 guideline and is not covered by it.
 
 ### Endoscopic Bariatric Therapy — Intragastric Balloons
-*Full device detail: [[intragastric-balloon]].* Endoscopically placed restrictive device over a 6–12 month implantation period; augments lifestyle modification ([[aga-2021-intragastric-balloons]]).
-- **Suggested** over lifestyle alone in patients who **failed conventional weight-loss strategies** (conditional; US trials limited to BMI 30–40). Greatest percent total body weight loss (%TBWL) at **6–8 months**, incrementally smaller benefit thereafter.
-- **Responder rates (6–8 mo):** ≥5% TBWL 85.1% vs 34.6% standard of care (SOC) (relative risk [RR] 2.44); ≥10% TBWL 61.9% vs 13.7% (RR 4.31).
-- **Peri-procedural (per AGA):**
-  - **Strong:** [[proton-pump-inhibitors|Proton pump inhibitor (PPI)]] prophylaxis during implantation.
-  - Lowest-nausea anesthetic + perioperative antiemetics; **scheduled antiemetics × 2 weeks** post-placement.
-  - **Suggests against** routine perioperative nutritional-deficiency lab screening; suggests **1–2 adult multivitamins daily**.
-- **Safety:** serious adverse event (AE) 5.6% vs 1.1% SOC (RR 3.07) — perforation 0.3%, esophageal mucosal injury 0.8%, gastric ulcer/bleeding 0.76%, obstruction 0.12%; early removal for intolerance 9.4%. Fluid-filled ~3% more weight loss than gas-filled but higher AE / lower tolerability (device choice = shared decision-making).
-- **After removal:** subsequent maintenance via diet, pharmacotherapy, repeat intragastric balloon (IGB), or bariatric surgery (shared decision-making).
+
+*Eligibility, device choice, periprocedural orders, safety rates, and post-removal strategy: [[intragastric-balloon]]. Other endoscopic devices: [[endoscopic-bariatric-therapies]].*
+
+The positioning decision at this level ([[aga-2021-intragastric-balloons]]):
+
+- **Who:** **suggested** — with lifestyle modification, over lifestyle modification alone — in patients who have **failed a trial of conventional weight-loss strategies** (conditional, moderate certainty). The **only selection criterion the guideline gives is BMI 30–40 kg/m²** (the range US trials enrolled).
+- **What it buys:** greatest percent total body weight loss (%TBWL) at **6–8 months**, incrementally smaller benefit thereafter; **no efficacy data beyond 1 year**. An intragastric balloon (IGB) augments lifestyle modification — it is not a standalone cure, and the guideline prescribes **no implantation duration**.
+- **What it costs:** serious adverse events are **higher than with lifestyle alone**, and intolerance takes a minority of balloons out early — the rates, the relative risk, and the periprocedural orders are on the intragastric balloon page linked above.
+- **Required alongside it:** the concomitant lifestyle modification above (**strong**), [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] prophylaxis (**strong**), and a planned maintenance intervention for after removal — diet, pharmacotherapy, repeat IGB, or [[bariatric-surgery|bariatric surgery]], by shared decision-making.
 
 ### Bariatric Surgery
 - Definitive option for eligible patients; see [[bariatric-surgery]]. Also a post-IGB maintenance pathway.
@@ -90,7 +91,7 @@ sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 
 ## See Also
 
-[[semaglutide]], [[glp-1-receptor-agonists]], [[intragastric-balloon]], [[bariatric-surgery]], [[nafld-masld]], [[proton-pump-inhibitors]], [[acute-pancreatitis]], [[acute-cholecystitis]], [[gastroparesis]]
+[[semaglutide]], [[glp-1-receptor-agonists]], [[intragastric-balloon]], [[endoscopic-bariatric-therapies]], [[bariatric-surgery]], [[nafld-masld]], [[proton-pump-inhibitors]], [[acute-pancreatitis]], [[acute-cholecystitis]], [[gastroparesis]]
 
 ---
 

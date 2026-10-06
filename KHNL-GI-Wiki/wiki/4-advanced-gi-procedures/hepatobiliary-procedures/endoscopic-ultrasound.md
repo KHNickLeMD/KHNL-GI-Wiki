@@ -3,7 +3,7 @@ title: "Endoscopic Ultrasound (EUS)"
 category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
-updated: 2026-10-05
+updated: 2026-10-06
 sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -42,7 +42,7 @@ Endoscopic ultrasound (EUS) quality standards from American College of Gastroent
 
 - [[pancreatic-fluid-collection-drainage|EUS-guided pancreatic fluid collection drainage]] (pseudocyst, walled-off necrosis — see also [[disconnected-pancreatic-duct-syndrome]], the complication that drives whether the stent can ever come out)
 - [[eus-guided-gallbladder-drainage|EUS-guided gallbladder drainage (EUS-GBD)]]
-- EUS-guided biliary drainage (EUS-BD)
+- [[eus-guided-biliary-drainage|EUS-guided biliary drainage (EUS-BD)]] — route selection, outcomes vs percutaneous drainage, and adverse events live there
 - EUS-guided gastroenterostomy (EUS-GE) — for [[gastric-outlet-obstruction|gastric outlet obstruction]]; technique and the palliation decision live there
 - EUS-directed transgastric [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] (EDGE) — for altered anatomy ([[bariatric-surgery|Roux-en-Y]])
 - EUS-guided [[liver-biopsy|liver biopsy]]
@@ -216,7 +216,7 @@ From [[asge-2011-eus-mediastinal-adenopathy]]:
 
 ## See Also
 
-[[pancreatic-cysts]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[ercp]], [[cholangioscopy]], [[subepithelial-lesion]], [[liver-biopsy]], [[choledocholithiasis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[chronic-pancreatitis]], [[biliary-stricture]], [[eus-guided-gallbladder-drainage]], [[pancreatic-fluid-collection-drainage]], [[interventional-eus-vascular]], [[antibiotic-prophylaxis-endoscopy]], [[mri-mrcp]], [[gastric-outlet-obstruction]], [[bariatric-surgery]]
+[[pancreatic-cysts]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[ercp]], [[cholangioscopy]], [[subepithelial-lesion]], [[liver-biopsy]], [[choledocholithiasis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[chronic-pancreatitis]], [[biliary-stricture]], [[eus-guided-biliary-drainage]], [[eus-guided-gallbladder-drainage]], [[pancreatic-fluid-collection-drainage]], [[interventional-eus-vascular]], [[antibiotic-prophylaxis-endoscopy]], [[mri-mrcp]], [[gastric-outlet-obstruction]], [[bariatric-surgery]]
 
 ---
 

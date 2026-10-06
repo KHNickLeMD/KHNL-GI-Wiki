@@ -3,7 +3,7 @@ title: "Biliary Stricture"
 category: diagnostic-schema
 tags: [biliary-stricture, ercp, eus, cholangioscopy, obstructive-jaundice, cholangiocarcinoma, hepatobiliary]
 created: 2026-05-15
-updated: 2026-09-04
+updated: 2026-10-06
 sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-strictures, asge-2023-post-transplant-biliary-strictures]
 ---
 
@@ -121,7 +121,7 @@ The two principal management goals are: **(1) diagnosis** — confirm or exclude
 
 1. **Endoscopic ultrasound–guided fine-needle aspiration/biopsy (EUS-FNA/B) is preferred over ERCP-based sampling** (Strong, Moderate evidence)
    - EUS sensitivity: 75–100%; ERCP-based sampling sensitivity: 38–55%
-   - The American Society for Gastrointestinal Endoscopy (ASGE) ([[asge-2023-indeterminate-biliary-strictures]]) suggests adding [[endoscopic-ultrasound|EUS]] to ERCP for **distal** strictures, when prior ERCP was nondiagnostic, or when there is lymphadenopathy/metastatic disease on imaging. EUS + ERCP combined sensitivity ~0.88 vs ~0.61 for ERCP alone; EUS has a lower adverse-event rate, and is especially superior for distal strictures (.82 vs .62) and pancreatic masses (.82 vs .46)
+   - The American Society for Gastrointestinal Endoscopy (ASGE) ([[asge-2023-indeterminate-biliary-strictures]]) suggests adding [[endoscopic-ultrasound|EUS]] to ERCP for **distal** strictures, when prior ERCP was nondiagnostic, or when there is lymphadenopathy/metastatic disease on imaging. EUS + ERCP combined sensitivity ~0.88 vs ~0.61 for ERCP alone; EUS has a lower adverse-event rate, and is especially superior for distal strictures (.82, 95% CI .76–.87, vs .62, .55–.69) and pancreatic masses (.82, .62–1.02, vs .46, .40–.51 — the upper bound genuinely crosses 1.0 in the source)
    - Prefer **EUS-FNB** (core needle — fork-tip or Franseen geometry) or **EUS-FNA + rapid on-site evaluation (ROSE)** over FNA alone (Conditional, Very Low evidence)
    - FNB enables genomic profiling and microsatellite instability testing
 2. In minimally symptomatic patients, arrange **single-session EUS + ERCP** at a capable center rather than ERCP alone with plastic stent as a temporizing measure
@@ -132,7 +132,7 @@ The two principal management goals are: **(1) diagnosis** — confirm or exclude
 1. **ERCP with multimodality intraductal sampling** at the index procedure (Strong, Low evidence):
    - Use **at least 2 modalities**; rationale supports 3–4 if feasible:
      - [[brush-cytology|Brush cytology]] (baseline, always included). Per [[asge-2023-indeterminate-biliary-strictures]] sensitivity alone is only ~0.40 (miss rate ~58%)
-     - **Fluoroscopy-directed forceps biopsy** — the ASGE ([[asge-2023-indeterminate-biliary-strictures]]) suggests adding fluoroscopic-guided biopsy to brush cytology over brush cytology alone (conditional, very low quality): biopsy alone sensitivity ~0.52, combined with brushings ~0.66 (incremental yield ~20%). Best performed at tertiary/expert centers — more technically demanding, more time-consuming, and 2 severe adverse events (prolonged bleeding, perforation) occurred in the biopsy group
+     - **Fluoroscopy-directed forceps biopsy** — the ASGE ([[asge-2023-indeterminate-biliary-strictures]]) suggests adding fluoroscopic-guided biopsy to brush cytology over brush cytology alone (conditional, very low quality): biopsy alone sensitivity ~0.52, combined with brushings ~0.66 (incremental yield ~20%). Best performed at tertiary/expert centers — more technically demanding, more time-consuming, and 2 severe adverse events (prolonged bleeding, perforation) occurred in the biopsy group — total adverse events were only 2 vs 5 out of >500 patients per arm
      - [[cholangioscopy|Cholangioscopy]]-directed biopsy — the ASGE suggests cholangioscopic biopsy for **nondistal** strictures (with adequate critical-segment drainage), after a prior nondiagnostic ERCP without [[cholangioscopy]], and at centers with expertise/access. Adding cholangioscopy raises sensitivity to ~0.72 vs ~0.61 (incremental yield ~27–41%); suboptimal for very distal common bile duct (CBD) strictures
      - [[fish|Fluorescence in situ hybridization (FISH)]] (improves sensitivity from ~20% to ~43%; attenuated in PSC, though the ASGE notes FISH plays a relatively higher role in [[primary-sclerosing-cholangitis|PSC]])
 2. For suspected perihilar **cholangiocarcinoma** (Key Concept):
@@ -297,7 +297,7 @@ Biliary strictures are a common adverse outcome after [[liver-transplantation|li
 
 ### Failed ERCP
 
-- EUS-guided biliary drainage (choledochoduodenostomy, hepaticogastrostomy, or rendezvous) preferred over PTBD (Conditional, Very Low evidence) — equivalent efficacy, fewer adverse events and reinterventions
+- [[eus-guided-biliary-drainage|EUS-guided biliary drainage (EUS-BD)]] — choledochoduodenostomy, hepaticogastrostomy, or rendezvous — preferred over PTBD (Conditional, Very Low evidence): equivalent efficacy, fewer adverse events and reinterventions. *Route selection, outcomes and adverse events: see [[eus-guided-biliary-drainage]].*
 - Requires substantial endoscopist experience — adverse events including fatalities reported, particularly earlier in the learning curve
 - Repeat ERCP on a subsequent day (same or different provider) is successful in the large majority of cases and is a reasonable first alternative in non-urgent settings
 
@@ -305,7 +305,7 @@ Biliary strictures are a common adverse outcome after [[liver-transplantation|li
 
 ## See Also
 
-[[chronic-pancreatitis]], [[acute-pancreatitis]], [[pancreatic-cancer]], [[cholangiocarcinoma]], [[gallbladder-cancer]], [[hepatocellular-carcinoma]], [[colorectal-cancer]], [[choledocholithiasis]], [[acute-cholangitis]], [[acute-cholecystitis]], [[jaundice]], [[abnormal-liver-chemistries]], [[ercp]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[primary-sclerosing-cholangitis]], [[portal-hypertension]], [[liver-transplantation]], [[mri-mrcp]], [[radiofrequency-ablation]], [[antibiotic-prophylaxis-endoscopy]], [[tacrolimus]]
+[[chronic-pancreatitis]], [[acute-pancreatitis]], [[pancreatic-cancer]], [[cholangiocarcinoma]], [[gallbladder-cancer]], [[hepatocellular-carcinoma]], [[colorectal-cancer]], [[choledocholithiasis]], [[acute-cholangitis]], [[acute-cholecystitis]], [[jaundice]], [[abnormal-liver-chemistries]], [[ercp]], [[endoscopic-ultrasound]], [[eus-guided-biliary-drainage]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[primary-sclerosing-cholangitis]], [[portal-hypertension]], [[liver-transplantation]], [[mri-mrcp]], [[radiofrequency-ablation]], [[antibiotic-prophylaxis-endoscopy]], [[tacrolimus]]
 
 ---
 

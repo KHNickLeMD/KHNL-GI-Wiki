@@ -3,7 +3,7 @@ title: "High-Risk Pancreatic Cancer Surveillance"
 category: concept
 tags: [pancreatic-cancer, screening, surveillance, genetics, brca, eus, mri]
 created: 2026-06-04
-updated: 2026-09-05
+updated: 2026-10-06
 sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer, aga-2020-pancreas-cancer-screening]
 ---
 
@@ -137,7 +137,7 @@ Screen with [[endoscopic-ultrasound|EUS]], MRI/[[mri-mrcp|magnetic resonance cho
 
 ## Yield and Harms
 
-- **Yield** (25 studies): any high-risk lesion **3.1%** (95% CI 2.2%–4.3%); resectable/borderline-resectable lesion **2.1%** (95% CI 1.4%–3.1%). In BRCA1/2 carriers specifically, pooled yield **8.6%** (not reported separately for BRCA1 vs BRCA2).
+- **Yield** (25 studies): any high-risk lesion **3.1%** (95% CI 2.2%–4.3%); resectable/borderline-resectable lesion **2.1%** (95% CI 1.4%–3.1%). In BRCA1/2 carriers specifically, pooled yield **8.6%** (95% CI 4.5%–16.0%; 8 studies, n = 375 — not reported separately for BRCA1 vs BRCA2).
 - **Stage shift: 60%** of screen-detected cancers were resectable/borderline-resectable (95% CI 43.7%–74.4%) vs ~**20%** of symptom-detected (30% locally advanced, 50% metastatic). One study: 3-year survival **85%** (screen-detected) vs **25%** (symptomatic, noncompliant with screening).
 - **Harms.** No adverse events were reported from the screening EUS or MRI themselves. The harm is downstream surgery:
   - **Low-yield pancreatic surgery** (surgery yielding no cancer, high-grade dysplasia, or grade III PanIN): **2.8%** of everyone screened, but **46.6%** of the 181 patients who were operated on.
@@ -153,8 +153,6 @@ Screen with [[endoscopic-ultrasound|EUS]], MRI/[[mri-mrcp|magnetic resonance cho
 - **Other risk factors** — how age, male sex, [[obesity]], smoking, and alcohol interact with genetic susceptibility is unknown; risk models incorporating them are needed.
 - **Biomarkers** — neither EUS nor MRI reliably detects high-grade PanIN; noninvasive biomarkers and circulating tumor cells/DNA remain unvalidated.
 - ASGE guidelines are reviewed for update roughly every 5 years.
-
-*No decision algorithm or figure exists in [[asge-2022-pancreatic-cancer-screening|ASGE 2022]] (its content is carried in Table 1, recreated above); nothing to capture as an image.*
 
 ## See Also
 

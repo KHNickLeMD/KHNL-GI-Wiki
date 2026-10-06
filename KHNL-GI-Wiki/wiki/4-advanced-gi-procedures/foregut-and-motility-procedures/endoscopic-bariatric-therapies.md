@@ -3,7 +3,7 @@ title: "Endoscopic Bariatric Therapies (EBTs)"
 category: advanced-procedure
 tags: [obesity, endoscopic-bariatric-therapy, bariatric, weight-management, endoscopic-sleeve-gastroplasty, aspiration-therapy, duodenojejunal-bypass-sleeve]
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-06
 sources: [aga-2017-endoscopic-bariatric-therapies, aga-2021-early-complications-bariatric-surgery, aga-2021-intragastric-balloons]
 ---
 
@@ -34,7 +34,7 @@ sources: [aga-2017-endoscopic-bariatric-therapies, aga-2021-early-complications-
 - **Four EBTs were US Food and Drug Administration (FDA)-approved** as of the 2017 review.
 - Central message is **programmatic, not device-specific**: weight loss after an EBT is variable and can be temporary — especially with removable, anatomy-preserving devices — so weight recidivism should be anticipated and managed. Obesity is a chronic disease and **no single intervention, device, or operation cures it**.
 
-> **The AGA 2017 Clinical Practice Update is ungraded.** Its 7 Best Practice Advice statements carry no evidence grade, strength rating, or GRADE assessment; the authors describe it as a consensus summary of expert opinion without a formal systematic evidence review. Do not cite it as graded evidence. The balloon *recommendations* on this topic are governed by the newer, formally graded [[aga-2021-intragastric-balloons|AGA 2021 intragastric balloon guideline]].
+> **The AGA 2017 Clinical Practice Update is ungraded.** Its 7 Best Practice Advice statements carry no evidence grade, strength rating, or GRADE assessment; the authors describe it as a consensus summary of expert opinion without a formal systematic evidence review. Do not cite it as graded evidence. The balloon *recommendations* on this topic are governed by the newer, formally graded [[aga-2021-intragastric-balloons|AGA 2021 intragastric balloon guideline]] — which graded **endoscopically placed balloons only**, leaving swallowable (non-endoscopic) balloons ungraded (scope and eligibility detail on [[intragastric-balloon]]).
 
 ## Classification and Mechanism
 
