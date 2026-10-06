@@ -3,8 +3,8 @@ title: "Small Intestinal Bacterial Overgrowth (SIBO)"
 category: disease-script
 tags: [sibo, imo, small-bowel, breath-testing, rifaximin, ibs, motility, microbiome, malabsorption]
 created: 2026-05-19
-updated: 2026-09-08
-sources: [acg-2020-sibo, aga-2020-sibo]
+updated: 2026-10-06
+sources: [acg-2020-sibo, aga-2020-sibo, aga-2018-functional-gi-symptoms-ibd]
 ---
 
 Small intestinal bacterial overgrowth (SIBO) is a clinical syndrome of gastrointestinal (GI) symptoms caused by the presence of excessive numbers of bacteria within the small intestine. The normal small bowel maintains relative sterility compared to the colon; SIBO represents a significant disruption of this balance. Bacteria are typically coliforms — predominantly Gram-negative aerobic and anaerobic species — that ferment carbohydrates, producing gas and short-chain fatty acids. SIBO is almost always an epiphenomenon of an underlying condition that leads to stasis, anatomic disruption, immune dysfunction, or altered motility in the small intestine. Both [[acg-2020-sibo]] and [[aga-2020-sibo]] use this definition; the American Gastroenterological Association (AGA) clinical practice update (CPU) adopts it by citing the American College of Gastroenterology (ACG) guideline.
@@ -110,7 +110,7 @@ Symptoms of SIBO are non-specific. The differential includes:
 - [[irritable-bowel-syndrome]] — most important overlap; IBS is both a risk factor for and a mimic of SIBO. Meta-analysis: SIBO **odds ratio (OR) 4.9** on breath testing vs matched controls, and **up to 33.5% of IBS subjects positive by culture vs 8.2% of controls** ([[aga-2020-sibo]]); [[acg-2020-sibo]] cites rates up to 78% on breath testing — the spread reflects the test used, since **lactulose breath testing over-calls relative to glucose or culture**. Whether SIBO actually causes IBS symptoms remains contested ([[aga-2020-sibo]] **BPA 6**)
 - [[celiac-disease]] — malabsorptive symptoms, diarrhea, bloating; SIBO prevalence in [[celiac-disease|celiac disease]] similar to healthy subjects (lower than IBS)
 - [[chronic-pancreatitis]] / [[exocrine-pancreatic-insufficiency|exocrine pancreatic insufficiency]] — steatorrhea, malabsorption; pancreatic insufficiency is also a SIBO risk factor
-- [[inflammatory-bowel-disease|IBD]] — [[crohns-disease]]: 16.8% in endoscopic remission have SIBO; postsurgical anatomy (ileocolonic anastomosis, ileocecal valve resection) increases risk
+- [[inflammatory-bowel-disease|IBD]] — [[crohns-disease]]: 16.8% in endoscopic remission have SIBO; postsurgical anatomy (ileocolonic anastomosis, ileocecal valve resection) increases risk. Reported prevalence in CD overall reaches **up to 30%**, highest in the **stricturing or fistulizing phenotype** and where there is **hypomotility or loss of the ileocecal valve** ([[aga-2018-functional-gi-symptoms-ibd]]). In [[ulcerative-colitis]] prevalence is lower and the symptom contribution less clear. Consider SIBO whenever IBD symptoms persist despite controlled inflammation
 - Functional dyspepsia — bloating, nausea; part of [[disorders-of-gut-brain-interaction]] spectrum
 - [[microscopic-colitis|Microscopic colitis]] — chronic watery diarrhea
 - Lactose/fructose intolerance — symptoms triggered by specific carbohydrates; breath testing can be confounded
@@ -275,6 +275,8 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 - Individualize the decision against the risks of **diarrhea, *[[clostridioides-difficile|C. difficile]]* infection, intolerance, and cost** ([[aga-2020-sibo]])
 - Prevention is the primary strategy: identify and address the underlying cause
 
+**Treating presumed SIBO in IBD — the evidence base is one small trial.** [[aga-2018-functional-gi-symptoms-ibd]]: [[rifaximin]] is often given empirically for presumed SIBO in IBD, but formal evaluation is limited to a **randomized study of 14 CD patients with inactive ileal disease and breath-test–diagnosed SIBO — all 7 on rifaximin had a negative follow-up breath test vs 2 of 7 on placebo**. The mechanism of benefit remains uncertain. Where suspicion is high enough, that Update accepts **empiric therapy without confirmatory testing**.
+
 ### Dietary Management
 
 - Low FODMAP (Fermentable Oligo-, Di-, Mono-saccharides and Polyols) diet: reduces hydrogen fermentation and may reduce SIBO symptoms; evidence extrapolated from IBS — "very low quality evidence" in IBS meta-analysis, not directly studied in SIBO
@@ -322,3 +324,4 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 
 1. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
 2. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]
+3. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update: Functional Gastrointestinal Symptoms in Patients with Inflammatory Bowel Disease (2018)]]

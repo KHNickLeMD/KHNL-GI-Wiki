@@ -3,7 +3,7 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-09-29
+updated: 2026-10-06
 sources: [aga-2018-functional-gi-symptoms-ibd, acg-2025-crohns, aga-2017-crohns-after-surgical-resection, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia]
 ---
 
@@ -190,7 +190,7 @@ No single pathognomonic test. Diagnosis = integration of:
 - Prevention of complications (stricture, fistula, surgery)
 - Deep remission (all 3 domains) — ideal goal
 
-**Top-down therapy preferred:** [[acg-2025-crohns|ACG 2025]] rec 3 **suggests against requiring failure of conventional therapy before starting advanced therapy** *(Conditional / Low)*, and calls top-down treatment **the standard of care for newly diagnosed active CD**. Basis: PROFILE (open-label randomized controlled trial (RCT)) — early combined immunosuppression (infliximab + immunomodulator) vs accelerated step-up gave **79% vs 15%** sustained steroid-free, surgery-free remission at week 48; biomarker stratification added nothing. Anti-TNF agents also work better given **within 2 years of disease onset**. American Gastroenterological Association (AGA) 2021 first formalized this anti–step-up stance: suggests **early introduction of a biologic** (± immunomodulator) rather than delaying until after failure of 5-aminosalicylic acid (5-ASA) and/or corticosteroids (Conditional), and recommends **biologic monotherapy over thiopurine monotherapy** for induction (Strong); supported by REACT (lower major disease-related complications at 24 mo, hazard ratio (HR) 0.73).
+**Top-down therapy preferred:** [[acg-2025-crohns|ACG 2025]] rec 3 **suggests against requiring failure of conventional therapy before starting advanced therapy** *(Conditional / Low)*, and calls top-down treatment **the standard of care for newly diagnosed active CD**. Basis: PROFILE (open-label randomized controlled trial (RCT)) — early combined immunosuppression (infliximab + immunomodulator) vs accelerated step-up gave **79% vs 15%** sustained steroid-free, surgery-free remission at week 48; biomarker stratification added nothing. Anti-TNF agents also work better given **within 2 years of disease onset**. [[aga-2021-crohns-pharm|American Gastroenterological Association (AGA) 2021]] first formalized this anti–step-up stance: suggests **early introduction of a biologic** (± immunomodulator) rather than delaying until after failure of 5-aminosalicylic acid (5-ASA) and/or corticosteroids (Conditional), and recommends **biologic monotherapy over thiopurine monotherapy** for induction (Strong); supported by REACT (lower major disease-related complications at 24 mo, hazard ratio (HR) 0.73).
 
 ---
 
@@ -202,6 +202,9 @@ No single pathognomonic test. Diagnosis = integration of:
 | [[mesalamine-5-asa\|Mesalamine]] | NOT RECOMMENDED | No efficacy in CD (multiple RCTs) |
 | Sulfasalazine | Only mild colonic CD (weak) | Modestly effective for symptoms; no mucosal healing |
 | Dietary therapy | Low-risk, mild CD | [[nutrition-in-ibd#CDED (Partial Enteral Nutrition)\|CD exclusion diet]], [[nutrition-in-ibd#Background / Maintenance Diet\|Mediterranean diet]]; not durable; monitor closely |
+
+- **Sulfasalazine does not carry into moderate-to-severe disease.** AGA 2021 rec 9 recommends **against** 5-ASA *or* sulfasalazine for induction or maintenance (*Strong*). The stance is strong despite a positive induction signal (sulfasalazine beat placebo over 6–17 wk) because the trials' severity was unclear and maintenance clearly failed — and because starting an ineffective drug delays effective therapy.
+- **Budesonide CIR is weaker than systemic steroids, and that is an accepted trade.** Inferior for inducing remission head-to-head, but reasonable in disease limited to the **distal ileum and/or ascending colon** when avoiding systemic corticosteroid effects matters more than maximum efficacy.
 
 ---
 
@@ -238,7 +241,7 @@ No single pathognomonic test. Diagnosis = integration of:
 - **Route matters for methotrexate:** oral bioavailability is variable at higher doses, especially with malabsorption → **parenteral preferred**. [[aga-2025-crohns-pharm|AGA 2025]] suggests **subcutaneous (SC)/IM methotrexate monotherapy** over no treatment *(Conditional/Moderate)* but **against oral methotrexate monotherapy** *(Conditional/Very low)*; give **daily folic acid** with it.
 - Monitor CBC and LFTs routinely on [[thiopurines]] and methotrexate.
 - **TPMT testing required before AZA/6-MP** (Strong)
-- Combo AZA + anti-TNF: more effective than monotherapy; but risk of hepatosplenic T-cell lymphoma (rare, young males). AGA 2021 *suggests* combination infliximab or adalimumab + thiopurine over anti-TNF monotherapy in biologic- and immunomodulator-naïve patients (Conditional); makes no recommendation on combining [[vedolizumab]]/[[il-23-and-il-12-23-inhibitors|ustekinumab]] with an immunomodulator (knowledge gap), nor on withdrawing the immunomodulator vs the biologic once quiescent on combination therapy
+- Combo AZA + anti-TNF: more effective than monotherapy; but risk of hepatosplenic T-cell lymphoma (rare, young males). **Quantified harm of adding a thiopurine to an anti-TNF: more infections and a 2- to 3-fold higher lymphoma risk** vs anti-TNF monotherapy — the number to quote when consenting for combination therapy. AGA 2021 *suggests* combination infliximab or adalimumab + thiopurine over anti-TNF monotherapy in biologic- and immunomodulator-naïve patients (Conditional); makes no recommendation on combining [[vedolizumab]]/[[il-23-and-il-12-23-inhibitors|ustekinumab]] with an immunomodulator (knowledge gap), nor on withdrawing the immunomodulator vs the biologic once quiescent on combination therapy
 - methotrexate (MTX) preferred when AZA/6-MP toxicity is a concern; as an **adjunct to reduce anti-TNF immunogenicity** a reduced dose is used — methotrexate **12.5–15 mg PO once weekly** (or a thiopurine at reduced dose)
 
 ---

@@ -3,8 +3,8 @@ title: "Low-FODMAP Diet"
 category: concept
 tags: [ibs, diet, fodmap, low-fodmap, dietitian, dgbi, functional]
 created: 2026-09-10
-updated: 2026-09-10
-sources: [aga-2022-diet-ibs, acg-2020-ibs]
+updated: 2026-10-06
+sources: [aga-2022-diet-ibs, acg-2020-ibs, aga-2018-functional-gi-symptoms-ibd]
 ---
 
 ## Contents
@@ -15,6 +15,7 @@ sources: [aga-2022-diet-ibs, acg-2020-ibs]
   - [[#Phase 2 — Reintroduction (6–10 weeks)]]
   - [[#Phase 3 — Personalization]]
 - [[#Efficacy]]
+- [[#In Inflammatory Bowel Disease]]
 - [[#Nutritional Adequacy and Risks]]
 - [[#Predicting Response]]
 - [[#See Also]]
@@ -98,6 +99,18 @@ flowchart TD
 
 ---
 
+## In Inflammatory Bowel Disease
+
+*All from [[aga-2018-functional-gi-symptoms-ibd]] (Best Practice Advice 5).*
+
+- **The LFD may be offered for functional GI symptoms in [[inflammatory-bowel-disease|IBD]]** — i.e. symptoms persisting when inflammation is controlled — **with careful attention to nutritional adequacy**. The nutritional-adequacy clause is part of the advice, not a footnote: undernutrition is common in IBD, so **dietary instruction should be delivered by a dietitian**.
+- **Expected yield:** benefit in **at least 50%** of patients with IBD who have ongoing symptoms despite controlled inflammation.
+- **Related restrictive diets that improved functional GI symptoms in IBD:** lactose-reduced, FODMAP-reduced, gluten-free, and specific-carbohydrate diets. The common denominator is **reduced intake of indigestible and slowly absorbed carbohydrates**, acting through osmotic effects and fermentability — not any one culprit food group.
+- **Gluten is usually not the culprit.** In self-reported non-celiac sensitivity, double-blind crossover challenge provoked significantly more symptoms with **fructans than with gluten**; a concomitant fall in FODMAP intake is the likely mechanism behind gluten-free diet responses, since fructans coexist with gluten in cereals.
+- **Counter-consideration:** cutting carbohydrates with prebiotic action could in principle harm the gut microbiota — though a feeding study in [[crohns-disease|Crohn's disease]] did not bear this out.
+
+---
+
 ## Nutritional Adequacy and Risks
 
 - **Short-term** FODMAP restriction has little impact on micronutrient intake; taught by a dietitian it may actually **improve overall diet quality** relative to the habitual diets of most patients with IBS.
@@ -118,7 +131,7 @@ flowchart TD
 ---
 
 ## See Also
-[[irritable-bowel-syndrome]], [[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[chronic-diarrhea]], [[celiac-disease]], [[confocal-laser-endomicroscopy]]
+[[irritable-bowel-syndrome]], [[inflammatory-bowel-disease]], [[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[chronic-diarrhea]], [[celiac-disease]], [[confocal-laser-endomicroscopy]]
 
 ---
 
@@ -126,3 +139,4 @@ flowchart TD
 
 1. [[aga-2022-diet-ibs|AGA Clinical Practice Update on the Role of Diet in Irritable Bowel Syndrome: Expert Review (2022)]]
 2. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]
+3. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update: Functional Gastrointestinal Symptoms in Patients with Inflammatory Bowel Disease (2018)]]

@@ -6,6 +6,47 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-06] lint | AGA 2018 IBD-functional-symptoms propagation closed; AGA 2021 balloons validated; EUS-BD page started
+
+**Ingest check:** no new arrivals — `rawcount.py` all 14 subfolder counts = baseline, total 449, no loose files in `raw/`; `git status` clean (nothing untracked under `raw/` to commit). No tier-1 ingest work exists: 60 gated lectures + the broken `IANS 2024 Anal Cancer Screening Consensus.pdf` are all that is left unread.
+
+**Carry-over confirmed:** [[asge-2019-barretts-screening-surveillance]] validation from the 2026-10-05 pass did land (`updated: 2026-10-05`).
+
+**Carry-over propagation closed — [[crohns-disease]] ↔ [[aga-2021-crohns-pharm]].** The 2026-10-05 triage note said the page listed the slug in `## Sources` with zero inline citations. Re-check: the *content* was in fact present (early-biologic stance, combination therapy, the primary-vs-secondary-nonresponse framework) but **every attribution was plain-text "AGA 2021"**, so the slug had no inline link — the un-linked-mention defect rather than a propagation failure. Fixed, plus three decision inputs the page lacked:
+
+- First mention now linked `[[aga-2021-crohns-pharm|American Gastroenterological Association (AGA) 2021]]`; later mentions left plain per link-on-first-mention.
+- **Thiopurine + anti-TNF harm quantified** — more infections and a **2- to 3-fold higher lymphoma risk** vs anti-TNF monotherapy; the figure to quote at consent, previously only "rare hepatosplenic T-cell lymphoma".
+- **Sulfasalazine's limit stated** — rec 9 is *Strong* against 5-ASA or sulfasalazine in moderate-to-severe CD despite a positive induction signal (unclear trial severity + clear maintenance failure + the delay-of-effective-therapy argument). The mild-colonic-CD table row stands; the populations differ.
+- **Budesonide CIR positioned** — inferior to systemic corticosteroids head-to-head, accepted in distal-ileal/ascending-colon disease when avoiding systemic steroid effects outweighs efficacy.
+
+**AGA 2018 functional-GI-symptoms-in-IBD propagation CLOSED (was 4 of 7).** The index had flagged since 2026-09-28 that this Update's Figure 1 and 14 BPA never reached the entity pages. Re-audit: 4 of the 7 named targets had in fact been done. The last three this pass:
+
+- [[small-intestinal-bacterial-overgrowth]] — CD prevalence **up to 30%**, highest in the **stricturing/fistulizing phenotype** and with **hypomotility or loss of the ileocecal valve**; lower and less clearly symptomatic in UC. Added the only trial evidence for treating presumed SIBO in IBD: **14 CD patients with inactive ileal disease, 7/7 rifaximin vs 2/7 placebo** negative on follow-up breath test, and the Update's acceptance of **empiric therapy** where suspicion is high.
+- [[bile-acid-diarrhea]] — partially closes the page's own declared test gap: **48-hour fecal bile acid excretion** is the practical first test where **SeHCAT is unavailable** (most countries); **serum C4 and FGF-19 need further validation**. Added the IBD mechanism (ileal disease/resection) and that BAD is also a common cause of functional diarrhea and IBS-D. Numeric cutoffs remain unsourced — unchanged.
+- [[low-fodmap-diet]] — new `## In Inflammatory Bowel Disease` section (BPA 5): offer with **attention to nutritional adequacy, dietitian-delivered**; benefit in **≥50%** of patients with IBD symptomatic despite controlled inflammation; the lactose-reduced/FODMAP-reduced/gluten-free/specific-carbohydrate family and their shared mechanism; **fructans provoked more symptoms than gluten** on double-blind crossover. `## Contents` updated.
+
+**Stalest-page rotation — source pages, continuing the 2026-06-04 group.** Three dispatched in parallel.
+
+- [[aga-2021-intragastric-balloons]] validated against the full 10-page PDF. **The invented-numbering/grade defect was *not* present** — it is a true GRADE-based AGA *guideline* (not a CPU), numbers its own recommendations 1–7 in Table 3, and all 7 strength/certainty pairs matched; both genuine non-recommendations (no specific device, no specific antiemetic regimen) were intact; filename year = published year (2021). What was wrong: an **invented 6–12 month dwell time** (the document prescribes none); **units stripped from two thresholds** (glucose >100 **mg/dL**, BMI >40 **kg/m²**); relative risks without confidence intervals or trial counts; a **narrowed adverse-event outcome** (device/non-procedure-related serious AEs → "serious upper GI bleeding"); **sibutramine 10 mg/day dropped and its null result implied positive** (RR 1.50, 0.81–2.78); Rec 4's entire evidence base absent; Rec 5's "clinical judgment on an individual basis" caveat omitted, making a suggestion-against read as absolute; Rec 6 micronutrient data absent; **Table 3 flattened to prose** — recreated natively; the expansion "glycated hemoglobin" invented where the source writes "hemoglobin A1c"; a **source slug in `## See Also`** removed.
+
+**Stalest-source validations 2 and 3 — [[aasld-2009-liver-biopsy]] and [[aga-2020-probiotics]]** were dispatched in the same parallel batch and both wrote their pages, but the pass ran out of budget before their reports could be read and summarised here. **Next pass must read both pages and record what changed** before rotating on to the remaining 2026-06-04 group (`asge-2022-pancreatic-cancer-screening`, `asge-2023-ergonomics`, `asge-2023-indeterminate-biliary-strictures`, `asge-2023-post-transplant-biliary-strictures`).
+
+**Coverage-gap queue item #17 STARTED, NOT FINISHED — [[eus-guided-biliary-drainage]] is mid-build.** Created in `4-advanced-gi-procedures/hepatobiliary-procedures/` from [[asge-2024-therapeutic-eus-biliary]] (the primary source; the queue named only [[acg-2023-biliary-strictures]] and [[acg-2025-eus-quality]], which are supporting). Written so far: `## Contents`, *Definition and Techniques*, *Indications and Contraindications*, *Route Selection*. **Missing: outcomes by route, adverse events and their management, quality indicators, `## See Also`, `## Sources`** — and its `## Contents` lists sections that do not yet exist. Deliberately **not indexed and queue row #17 left unstruck** so it is not mistaken for finished; it is a whole-wiki orphan until completed. Finish it from the ASGE 2024 PDF next pass.
+
+**Not done this pass:**
+
+- **Anki** — the server cards directory is not mounted in this environment, so nothing could be read, written or rebuilt. Still owed from 2026-10-05: [[pancreatic-fluid-collection-drainage]] cards and the [[mesalamine-5-asa]] correction.
+- **[[intragastric-balloon]] / [[obesity]] / [[endoscopic-bariatric-therapies]] propagation.** The AGA 2021 validation recovered a long list of facts those three pages should carry — eligibility **BMI 30–40 kg/m²** (the only selection criterion the guideline gives), the adverse-event grid (serious AE **5.6% vs 1.1%**, RR 3.07 [1.16–8.11]; perforation 0.3%; early removal **9.4%**), **PPI prophylaxis as a *Strong* recommendation** with no named agent or dose, scheduled antiemetics for 2 weeks, 1–2 adult-dose multivitamins, the fluid- vs gas-filled trade-off with **no device recommendation**, and the scope limit that swallowable balloons were not assessed. Budget ran out first.
+
+**Remaining for triage:**
+
+- **IGB contraindications are a real decision gap** — AGA 2021 gives none, and names the **Brazilian Intragastric Balloon Consensus Statement** (Neto MG et al, *Surg Obes Relat Dis* 2018;14:151–159, >40,000 cases) as the document that does cover indications, contraindications and pre-/post-procedure evaluation. That citation belongs on [[needed-sources]] (not added this pass).
+- Gated lectures: all 60 still uningested by design; Nick must name files.
+
+
+
+---
+
 ## [2026-10-05] lint | Both pages the earlier pass created finished and de-orphaned; stalest-source rotation continues
 
 **Ingest check:** no new arrivals — `rawcount.py` all 14 subfolder counts = baseline, total 449, no loose files in `raw/`; `git status -uall` clean (nothing untracked under `raw/` to commit). No ingestable material left: 60 gated lectures + the broken `IANS 2024 Anal Cancer Screening Consensus.pdf`.

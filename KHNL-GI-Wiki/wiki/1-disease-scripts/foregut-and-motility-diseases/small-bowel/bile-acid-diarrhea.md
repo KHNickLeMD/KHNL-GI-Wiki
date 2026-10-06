@@ -3,8 +3,8 @@ title: "Bile Acid Diarrhea"
 category: disease-script
 tags: [small-bowel, chronic-diarrhea, bile-acid-malabsorption, secretory-diarrhea, ibs-d, sehcat, bile-acid-sequestrant]
 created: 2026-06-04
-updated: 2026-09-06
-sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ostomies]
+updated: 2026-10-06
+sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ostomies, aga-2018-functional-gi-symptoms-ibd]
 ---
 
 > **This page draws on the bile acid malabsorption (BAM) sections of general gastrointestinal (GI) guidelines** — principally [[acg-2020-ibs]] — rather than a dedicated bile acid diarrhea guideline. Numeric test cutoffs (23-seleno-25-homotaurocholic acid [SeHCAT] % retention, serum 7α-hydroxy-4-cholesten-3-one [C4], fibroblast growth factor 19 [FGF-19]) are not given in those guidelines (see [[#Diagnostics]]).
@@ -46,6 +46,8 @@ sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ost
 | **Altered timing of bile delivery** | **Cholecystectomy** changes the timing of bile delivery to the small intestine — a potentially important cause of worsening irritable bowel syndrome (IBS) symptoms, since IBS carries an increased risk of cholecystectomy (**odds ratio [OR] 2.09, 95% CI 1.89–2.31**) |
 | **Idiopathic** | Differential potential for bile acid reabsorption between individuals |
 
+- **In [[inflammatory-bowel-disease|IBD]]:** bile acid diarrhea arises as a consequence of altered small-bowel structure or function — relevant above all in [[crohns-disease|Crohn's disease]] with **ileal disease or ileal resection** — and is a named cause of diarrhea persisting despite controlled inflammation. It is also a common cause of functional diarrhea and [[irritable-bowel-syndrome|diarrhea-predominant IBS (IBS-D)]] outside IBD. Treatment is a **bile salt sequestrant**. [[aga-2018-functional-gi-symptoms-ibd]]
+
 > The commonly used **Type 1 / Type 2 / Type 3** nomenclature for these mechanisms is not defined in [[acg-2020-ibs]]; see a dedicated bile acid diarrhea review for it.
 
 ## Differential Diagnosis
@@ -70,6 +72,11 @@ sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ost
 All rows from [[acg-2020-ibs]].
 
 > The operative **numeric cutoffs** — SeHCAT % retention at 7 days, serum C4 (ng/mL), FGF-19 (pg/mL), 48-hour fecal bile acid excretion — are not given in [[acg-2020-ibs]]; take them from the local laboratory's reference ranges or a dedicated bile acid diarrhea source.
+
+**Which test to reach for first** ([[aga-2018-functional-gi-symptoms-ibd]]):
+
+- **48-hour fecal bile acid excretion** has reasonable diagnostic yield and is the practical choice where **SeHCAT retention is unavailable** — which is most countries, including routine US practice.
+- **Serum C4 and FGF-19** may be practical alternatives but **require further clinical validation** before they can stand alone.
 
 ## Therapeutics
 
@@ -100,3 +107,4 @@ All rows from [[acg-2020-ibs]].
 2. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 3. [[aga-2023-epi|AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency: Expert Review]]
 4. [[aga-2023-ostomies|AGA 2023 Clinical Practice Update on Management of Ostomies]]
+5. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update: Functional Gastrointestinal Symptoms in Patients with Inflammatory Bowel Disease (2018)]]
