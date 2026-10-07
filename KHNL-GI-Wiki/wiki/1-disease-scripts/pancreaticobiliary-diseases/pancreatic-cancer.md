@@ -3,7 +3,7 @@ title: "Pancreatic Ductal Adenocarcinoma (Pancreatic Cancer)"
 category: disease-script
 tags: [pancreatic-cancer, pdac, oncology, screening, genetics, brca, eus, hpb]
 created: 2026-06-04
-updated: 2026-09-16
+updated: 2026-10-07
 sources: [jeurnink-2010-sustent-goo, kastelijn-2023-enduro-protocol, asge-2022-pancreatic-cancer-screening, asge-2024-solid-pancreatic-masses, asge-2016-solid-pancreatic-neoplasia, acg-2018-pancreatic-cysts, acg-2015-hereditary-gi-cancer]
 ---
 
@@ -183,7 +183,7 @@ flowchart TD
 
 The full outcome table, its statistical caveats, the Gastric Outlet Obstruction Scoring System (GOOSS) score, and EUS-guided gastroenterostomy (EUS-GE) technique live on [[gastric-outlet-obstruction]].
 
-**Pain — celiac plexus neurolysis (CPN).** In unresectable pancreatic cancer with abdominal pain, ASGE 2024 suggests CPN as an **adjunct to** medical analgesic therapy (conditional/low):
+**Pain — [[celiac-plexus-block|celiac plexus neurolysis (CPN)]].** In unresectable pancreatic cancer with abdominal pain, ASGE 2024 suggests CPN as an **adjunct to** medical analgesic therapy (conditional/low):
 
 - **When:** pain refractory to medical therapy, or opioid adverse effects not well tolerated.
 - **How:** by EUS or percutaneously. If EUS — use a **≥22-gauge FNA needle** (not the same needle used for EUS-TA); central or bilateral injection of **10–20 mL of 99% alcohol**; give **1 L intravenous (IV) normal saline** periprocedurally; monitor **~2 hours** post-procedure with vital signs and orthostatic parameters.
@@ -196,7 +196,7 @@ Weigh before enrolling a high-risk individual: across screened cohorts, low-yiel
 
 ## See Also
 
-[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[jaundice]], [[biliary-stricture]], [[pancreatic-cysts]], [[chronic-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[cholangiocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[hereditary-pancreatitis]], [[obesity]], [[gastric-outlet-obstruction]], [[acute-cholangitis]]
+[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[jaundice]], [[biliary-stricture]], [[pancreatic-cysts]], [[chronic-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[cholangiocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[hereditary-pancreatitis]], [[obesity]], [[gastric-outlet-obstruction]], [[acute-cholangitis]], [[celiac-plexus-block]]
 
 ---
 

@@ -3,8 +3,8 @@ title: "Endoscopic Ultrasound (EUS)"
 category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
-updated: 2026-10-06
-sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, wang-2026-eus-ppg-delphi-consensus]
+updated: 2026-10-07
+sources: [asge-2023-ergonomics, acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, wang-2026-eus-ppg-delphi-consensus]
 ---
 
 # Endoscopic Ultrasound (EUS)
@@ -47,7 +47,7 @@ Endoscopic ultrasound (EUS) quality standards from American College of Gastroent
 - EUS-directed transgastric [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] (EDGE) — for altered anatomy ([[bariatric-surgery|Roux-en-Y]])
 - EUS-guided [[liver-biopsy|liver biopsy]]
 - EUS-guided portosystemic pressure gradient (EUS-PPG) — direct hepatic + portal vein pressure measurement for [[portal-hypertension|portal hypertension]]; see [[interventional-eus-vascular]] ([[wang-2026-eus-ppg-delphi-consensus]])
-- Celiac plexus block/neurolysis (EUS-CPB/CPN) — for [[chronic-pancreatitis|chronic pancreatitis (CP)]] pain, **not routine** (AGA 2022, BPA 8): case-by-case for debilitating refractory pain; pain relief 50–60% lasting ≤6 mo, almost all still need analgesics; major adverse events (AEs) <1%
+- [[celiac-plexus-block|Celiac plexus block/neurolysis (EUS-CPB/CPN)]] — for [[chronic-pancreatitis|chronic pancreatitis (CP)]] pain, **not routine** (AGA 2022, BPA 8): case-by-case for debilitating refractory pain; pain relief 50–60% lasting ≤6 mo, almost all still need analgesics; major adverse events (AEs) <1%
 - EUS-guided coil placement for gastric varices; access to extrahepatic bile duct or pancreatic duct (alone or as an adjunct to ERCP)
 - Fiducial (radiologic marker) placement, EUS-guided ablation
 
@@ -159,6 +159,8 @@ The ≥87% sampling target rests on these pooled figures ([[acg-2025-eus-quality
 - EUS-BD: overall AEs <25%
 - EUS-GE and EDGE: overall AEs <15%
 
+**Operator injury (endoscopist, not patient):** EUS-guided biliary interventions are done under fluoroscopy in a lead apron, which adds load to the trunk muscles and intervertebral discs — a commonly reported source of [[endoscopy-ergonomics|endoscopy-related injury (ERI)]]. Rates, the 2-piece apron, and the neutral monitor/bed-height setup are on that page. [[asge-2023-ergonomics]]
+
 ---
 
 ## EUS in Pancreatic Cyst Evaluation
@@ -216,7 +218,7 @@ From [[asge-2011-eus-mediastinal-adenopathy]]:
 
 ## See Also
 
-[[pancreatic-cysts]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[ercp]], [[cholangioscopy]], [[subepithelial-lesion]], [[liver-biopsy]], [[choledocholithiasis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[chronic-pancreatitis]], [[biliary-stricture]], [[eus-guided-biliary-drainage]], [[eus-guided-gallbladder-drainage]], [[pancreatic-fluid-collection-drainage]], [[interventional-eus-vascular]], [[antibiotic-prophylaxis-endoscopy]], [[mri-mrcp]], [[gastric-outlet-obstruction]], [[bariatric-surgery]]
+[[pancreatic-cysts]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[ercp]], [[cholangioscopy]], [[subepithelial-lesion]], [[liver-biopsy]], [[choledocholithiasis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[chronic-pancreatitis]], [[biliary-stricture]], [[eus-guided-biliary-drainage]], [[eus-guided-gallbladder-drainage]], [[pancreatic-fluid-collection-drainage]], [[interventional-eus-vascular]], [[antibiotic-prophylaxis-endoscopy]], [[mri-mrcp]], [[gastric-outlet-obstruction]], [[bariatric-surgery]], [[celiac-plexus-block]], [[endoscopy-ergonomics]]
 
 ---
 
@@ -229,3 +231,4 @@ From [[asge-2011-eus-mediastinal-adenopathy]]:
 5. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis: Expert Review]]
 6. [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Antibiotic Prophylaxis Is Not Required for EUS-Guided Fine-Needle Aspiration of Pancreatic Cystic Lesions, Based on a Randomized Trial]]
 7. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on Endoscopic Ultrasound-guided Portosystemic Pressure Gradient: Best Practices and Future Directions]]
+8. [[asge-2023-ergonomics|ASGE Guideline on the Role of Ergonomics for Prevention of Endoscopy-Related Injury: Summary and Recommendations (2023)]]

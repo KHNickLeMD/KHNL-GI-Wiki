@@ -3,8 +3,8 @@ title: "ERCP (Endoscopic Retrograde Cholangiopancreatography)"
 category: advanced-procedure
 tags: [ercp, biliary, pancreatic, hepatobiliary, sphincterotomy, stent, stone-extraction]
 created: 2026-05-16
-updated: 2026-10-06
-sources: [asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, aga-2026-electrosurgery, aga-2021-gi-perforations-endoscopic-management, aga-2016-infection-ercp-endoscopes, aga-2017-mstf-endoscope-reprocessing-commentary]
+updated: 2026-10-07
+sources: [asge-2023-ergonomics, asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, aga-2026-electrosurgery, aga-2021-gi-perforations-endoscopic-management, aga-2016-infection-ercp-endoscopes, aga-2017-mstf-endoscope-reprocessing-commentary]
 ---
 
 *Referenced in [[acute-pancreatitis]] (indications/timing) and [[biliary-stricture]] (tissue sampling, drainage). See [[endoscopic-ultrasound]] for combined endoscopic ultrasound (EUS) + endoscopic retrograde cholangiopancreatography (ERCP) approach. Now almost exclusively therapeutic — successful cholangiography with relief of obstruction is achievable in >90% of patients [[asge-2015-ercp-benign-biliary]].*
@@ -99,6 +99,7 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endo
   - **In surgically altered anatomy, start with a forward-viewing upper endoscope** to identify and mark the entrance of the pancreatobiliary limb before advancing the side-viewing duodenoscope.
   - *Generic closure algorithm, device-by-size table, and the two absolute surgical indications: [[endoscopic-management-of-perforation]].*
 - **Cholecystitis** (cystic duct occlusion by stent)
+- **Operator injury (endoscopist, not patient):** the lead apron worn for fluoroscopy adds load to the trunk muscles and intervertebral discs, and is a commonly reported source of [[endoscopy-ergonomics|endoscopy-related injury (ERI)]] — rates, the 2-piece apron, and the neutral monitor/bed-height setup are on that page. [[asge-2023-ergonomics]]
 
 ---
 
@@ -139,7 +140,7 @@ Benchmarks stated in [[asge-2015-ercp-benign-biliary]]:
 
 ## See Also
 
-[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[biliary-stricture]], [[choledocholithiasis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[eus-guided-biliary-drainage]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]], [[acute-cholecystitis]], [[anticoagulation-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[device-assisted-enteroscopy]], [[electrosurgery]], [[endoscopic-hemostasis]], [[bariatric-surgery]], [[ampullary-adenoma]], [[fish]], [[endoscopic-management-of-perforation]], [[endoscope-reprocessing]]
+[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[biliary-stricture]], [[choledocholithiasis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[eus-guided-biliary-drainage]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]], [[acute-cholecystitis]], [[anticoagulation-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[device-assisted-enteroscopy]], [[electrosurgery]], [[endoscopic-hemostasis]], [[bariatric-surgery]], [[ampullary-adenoma]], [[fish]], [[endoscopic-management-of-perforation]], [[endoscope-reprocessing]], [[endoscopy-ergonomics]]
 
 ---
 
@@ -160,3 +161,4 @@ Benchmarks stated in [[asge-2015-ercp-benign-biliary]]:
 13. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review (2021)]]
 14. [[aga-2016-infection-ercp-endoscopes|AGA Clinical Practice Update: Commentary — Infection Using ERCP Endoscopes (2016)]]
 15. [[aga-2017-mstf-endoscope-reprocessing-commentary|AGA Clinical Practice Update: Commentary on the 2016 Multi-Society Task Force Endoscope Reprocessing Guidelines (2017)]]
+16. [[asge-2023-ergonomics|ASGE Guideline on the Role of Ergonomics for Prevention of Endoscopy-Related Injury: Summary and Recommendations (2023)]]

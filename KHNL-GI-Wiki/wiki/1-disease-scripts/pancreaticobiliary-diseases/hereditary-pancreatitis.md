@@ -3,7 +3,7 @@ title: "Hereditary Pancreatitis"
 category: disease-script
 tags: [pancreas, genetics, pancreatitis, prss1, spink1, cftr, ctrc, hereditary-cancer, pancreatic-cancer, tigar-o]
 created: 2026-06-04
-updated: 2026-09-06
+updated: 2026-10-07
 sources: [asge-2022-pancreatic-cancer-screening, acg-2020-chronic-pancreatitis, acg-2015-hereditary-gi-cancer, acg-2024-acute-pancreatitis]
 ---
 
@@ -92,7 +92,7 @@ Per source priority (guidelines tier; newer publication date wins), **ASGE 2022'
 The guidelines give no HP-specific management — manage as [[chronic-pancreatitis]]:
 
 - **Alcohol and smoking cessation** (both Strong / Very Low) — smoking is separately synergistic with CTRC.
-- **Pain:** stepwise ladder (non-opioid → antioxidants → neuromodulators → celiac plexus block → endoscopic decompression → surgical drainage → opiates last). **Pancreatic enzyme replacement therapy (PERT) does not improve pain.**
+- **Pain:** stepwise ladder (non-opioid → antioxidants → neuromodulators → [[celiac-plexus-block|celiac plexus block]] → endoscopic decompression → surgical drainage → opiates last). **Pancreatic enzyme replacement therapy (PERT) does not improve pain.**
 - **[[exocrine-pancreatic-insufficiency|Exocrine insufficiency]]:** PERT 40,000–50,000 United States Pharmacopeia (USP) lipase units per meal (half with snacks).
 - **Endocrine (type 3c diabetes mellitus [DM]):** annual hemoglobin A1c (HbA1c).
 - **Total pancreatectomy with islet autotransplantation (TPIAT)** — highly selected patients with refractory pain after medical therapy exhausted (Key Concept 8).
@@ -105,7 +105,7 @@ The guidelines give no HP-specific management — manage as [[chronic-pancreatit
 
 ## See Also
 
-[[chronic-pancreatitis]], [[acute-pancreatitis]], [[autoimmune-pancreatitis]], [[recurrent-acute-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[pancreas-divisum]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[pancreatic-cysts]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[ercp]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]]
+[[chronic-pancreatitis]], [[acute-pancreatitis]], [[autoimmune-pancreatitis]], [[recurrent-acute-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[pancreas-divisum]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[pancreatic-cysts]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[ercp]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[celiac-plexus-block]]
 
 ---
 

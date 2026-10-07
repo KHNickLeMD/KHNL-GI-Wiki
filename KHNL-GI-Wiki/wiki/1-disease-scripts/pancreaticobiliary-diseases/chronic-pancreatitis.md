@@ -3,7 +3,7 @@ title: "Chronic Pancreatitis"
 category: disease-script
 tags: [pancreatitis, chronic, pancreas, hpb, exocrine-insufficiency, pain]
 created: 2026-05-16
-updated: 2026-09-06
+updated: 2026-10-07
 sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancreatitis-endoscopy, apa-2014-chronic-pancreatitis, aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
@@ -261,19 +261,19 @@ Indicated when etiology unclear, family history, early onset, or pediatric/young
 | **1** | Lifestyle (alcohol + smoking cessation) and **non-opioid analgesics** | — |
 | **2** | **Antioxidants** | Cond/Moderate. Selenium 600 µg · ascorbic acid 0.54 g · β-carotene 9000 IU · α-tocopherol 270 IU · methionine 2 g **daily**. Modest effect, mainly early disease |
 | **3** | Adjuncts — **pregabalin/gabapentin, tricyclic antidepressant (TCA)** | Extrapolated from the chronic-pain literature |
-| **4** | **Celiac plexus block** | Cond/Very Low — route and expectations in the note below |
+| **4** | **[[celiac-plexus-block\|Celiac plexus block]]** | Cond/Very Low — route and expectations in the note below |
 | **5** | **Endoscopic decompression** — [[ercp\|ERCP]] ± extracorporeal shock wave lithotripsy (ESWL) for stones, stricture dilation, PD stent | First-line for *obstructive* CP |
 | **6** | **Surgical drainage** — Puestow / Frey / Beger / Whipple | Strong/Moderate. **Superior to endoscopy** for long-term pain in obstructive CP, and the fallback if endoscopy fails (Cahen RCT: 75% pain relief with surgery vs 32% endoscopy at 2 y; Dite study mirrors) |
 | **7** | **Opiates** | Only when all other options are exhausted (Key Concept 7) |
 | **8** | **TPIAT** (total pancreatectomy + islet autotransplant) | Highly selected; refractory pain after medical therapy exhausted (Key Concept 8) |
 | — | *Experimental, research only:* spinal cord stimulation, transmagnetic stimulation, radiation | Key Concept 9 |
 
-**Celiac plexus block — route and expectations** ([[asge-2024-chronic-pancreatitis-endoscopy|American Society for Gastrointestinal Endoscopy (ASGE) 2024]] Rec 2, conditional / low):
+**Celiac plexus block — when to take this step** ([[asge-2024-chronic-pancreatitis-endoscopy|American Society for Gastrointestinal Endoscopy (ASGE) 2024]] Rec 2, conditional / low; [[aga-2022-recurrent-pancreatitis-endoscopy|American Gastroenterological Association (AGA) 2022]] best practice advice [BPA] 8, ungraded):
 
-- **If a block is going to be done, use the [[endoscopic-ultrasound|EUS]]-guided route over the percutaneous one.**
-- **Set the expectation before consenting: fewer than 60% of patients get pain relief, and it is not sustained (<6 months).**
-- **Who it is for:** CP patients **nonresponsive to medical therapy**, or when **no endoscopic or surgical option exists** (i.e. **nonobstructive** CP) — and patients with opioid side effects or who wish to avoid opioids. It is not a step for the patient with an obstructed duct, who should be routed to Rec 1 instead.
-- Concordant [[aga-2022-recurrent-pancreatitis-endoscopy|American Gastroenterological Association (AGA) 2022]] detail (best practice advice [BPA] 8): **not routine** — case-by-case for debilitating pain refractory to other measures; relief 50%–60% lasting ≤6 mo, almost all still need analgesics; adverse events (AEs) are diarrhea and orthostatic hypotension (major AEs <1%).
+- **Who it is for:** CP **nonresponsive to medical therapy** with **no endoscopic or surgical decompression option** — i.e. **nonobstructive (small-duct)** disease — and patients with opioid side effects or who wish to avoid opioids. An obstructed main duct belongs in Step 5/6 instead, not here.
+- **Not routine.** Case-by-case in selected patients with debilitating pain after other measures have failed.
+- **Set the expectation before consenting: fewer than 60% of patients get pain relief, and it is not sustained (<6 months)** — almost all still require analgesics afterwards.
+- Route selection, injectate, technique, efficacy figures and adverse-event rates live on [[celiac-plexus-block]].
 
 ⚠ Active alcohol consumption is a relative contraindication to elective interventional procedures (Key Concept 6) — urgent/emergent procedures still warranted for complications.
 

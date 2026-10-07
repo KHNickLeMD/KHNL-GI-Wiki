@@ -3,14 +3,15 @@ title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-10-04
-sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy, asge-2011-foreign-body-ingestion, aga-2021-gi-perforations-endoscopic-management, aga-2015-upper-gi-biopsy-dyspepsia]
+updated: 2026-10-07
+sources: [asge-2023-ergonomics, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy, asge-2011-foreign-body-ingestion, aga-2021-gi-perforations-endoscopic-management, aga-2015-upper-gi-biopsy-dyspepsia]
 ---
 
 # Upper Endoscopy (EGD)
 
 Primary quality indicator framework from American College of Gastroenterology (ACG)/American Society for Gastrointestinal Endoscopy (ASGE) 2025. [[acg-2025-egd-quality]]
 Supplementary best practice guidance from American Gastroenterological Association (AGA) 2024 Clinical Practice Update (9 ungraded Best Practice Advice [BPA] statements; no numeric targets). [[aga-2024-upper-endoscopy-quality]]
+Operator-side setup for the same procedure — neutral monitor position and bed height, micro- and macrobreaks, and the [[endoscopy-ergonomics|endoscopy-related injury (ERI)]] they are meant to prevent. [[asge-2023-ergonomics]]
 
 ## Contents
 - [[#Indications (Appropriate — >95% of EGDs should have a documented indication)]]
@@ -311,7 +312,7 @@ Document the number and location of every biopsy in the report.
 
 ## See Also
 
-[[gastric-premalignant-conditions]], [[gastric-cancer-screening]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[colonoscopy]], [[celiac-disease]], [[upper-gi-bleeding]], [[endoscopic-hemostasis]], [[gerd]], [[dysphagia]], [[dyspepsia]], [[nausea-and-vomiting]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[endoscopy-sedation]], [[antibiotic-prophylaxis-endoscopy]], [[artificial-intelligence-endoscopy]], [[reflux-testing]], [[ingested-foreign-body]], [[endoscopic-management-of-perforation]], [[endoscope-reprocessing]]
+[[gastric-premalignant-conditions]], [[gastric-cancer-screening]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[colonoscopy]], [[celiac-disease]], [[upper-gi-bleeding]], [[endoscopic-hemostasis]], [[gerd]], [[dysphagia]], [[dyspepsia]], [[nausea-and-vomiting]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[endoscopy-sedation]], [[antibiotic-prophylaxis-endoscopy]], [[artificial-intelligence-endoscopy]], [[reflux-testing]], [[ingested-foreign-body]], [[endoscopic-management-of-perforation]], [[endoscope-reprocessing]], [[endoscopy-ergonomics]]
 
 ---
 
@@ -323,3 +324,4 @@ Document the number and location of every biopsy in the report.
 4. [[asge-2011-foreign-body-ingestion|ASGE Guideline: Management of Ingested Foreign Bodies and Food Impactions (2011)]]
 5. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review (2021)]]
 6. [[aga-2015-upper-gi-biopsy-dyspepsia|AGA Institute Guideline on the Role of Upper Gastrointestinal Biopsy to Evaluate Dyspepsia in the Adult Patient in the Absence of Visible Mucosal Lesions]]
+7. [[asge-2023-ergonomics|ASGE Guideline on the Role of Ergonomics for Prevention of Endoscopy-Related Injury: Summary and Recommendations (2023)]]

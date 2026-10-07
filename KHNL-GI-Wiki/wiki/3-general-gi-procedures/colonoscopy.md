@@ -3,8 +3,8 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
-updated: 2026-10-04
-sources: [aga-2021-colonoscopy-quality, usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia, aga-2021-gi-perforations-endoscopic-management]
+updated: 2026-10-07
+sources: [asge-2023-ergonomics, aga-2021-colonoscopy-quality, usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia, aga-2021-gi-perforations-endoscopic-management]
 ---
 
 # Colonoscopy
@@ -157,6 +157,7 @@ For detailed technique, see [[polypectomy]].
 - **Post-polypectomy bleeding:** pooled **9.8 per 1000 colonoscopies (95% CI 7.7–12.1)**; immediate or delayed (up to 30d); risk higher with large lesions, right colon, [[anticoagulation-gi-bleeding|antithrombotics]]. **Benchmark: post-polypectomy bleeding rate should be ≤1 per 100 colonoscopies** (ASGE/ACG Task Force on Quality in Endoscopy, as cited by [[usmstf-2020-endoscopic-removal]]). Device selection for treating it is on [[endoscopic-hemostasis]].
 - **Coagulation syndrome (post-polypectomy syndrome):** fever, localized pain without free air — manage conservatively
 - **Inadequate prep:** document; consider same-day or next-day repeat if unable to visualize >5mm polyps
+- **Operator injury (endoscopist, not patient):** procedure volume and hours drive [[endoscopy-ergonomics|endoscopy-related injury (ERI)]] — **>20 endoscopies/week** and **>16 endoscopy hours/week** are independent risk factors, and small-handed endoscopists had longer colonoscope insertion times (9.4 vs 8.2 min) and more injury sites. Neutral monitor and bed height, microbreaks, and ergonomics education are the countermeasures. [[asge-2023-ergonomics]]
 
 ---
 
@@ -287,7 +288,7 @@ High-risk = any of: surgery without total mesorectal excision (TME); transanal l
 
 ## See Also
 
-[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-quality-indicators]], [[colonoscopy-surveillance]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[artificial-intelligence-endoscopy]], [[endoscopy-sedation]], [[endoscopic-ultrasound]], [[anticoagulation-gi-bleeding]], [[endoscopic-hemostasis]], [[capsule-endoscopy]], [[iron-deficiency-anemia]], [[endoscopic-management-of-perforation]], [[endoscopic-full-thickness-resection]], [[endoscope-reprocessing]]
+[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-quality-indicators]], [[colonoscopy-surveillance]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[artificial-intelligence-endoscopy]], [[endoscopy-sedation]], [[endoscopic-ultrasound]], [[anticoagulation-gi-bleeding]], [[endoscopic-hemostasis]], [[capsule-endoscopy]], [[iron-deficiency-anemia]], [[endoscopic-management-of-perforation]], [[endoscopic-full-thickness-resection]], [[endoscope-reprocessing]], [[endoscopy-ergonomics]]
 
 ---
 
@@ -308,3 +309,4 @@ High-risk = any of: surgery without total mesorectal excision (TME); transanal l
 13. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
 14. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review (2021)]]
 15. [[aga-2021-colonoscopy-quality|AGA Clinical Practice Update on Strategies to Improve Quality of Screening and Surveillance Colonoscopy: Expert Review (2021)]]
+16. [[asge-2023-ergonomics|ASGE Guideline on the Role of Ergonomics for Prevention of Endoscopy-Related Injury: Summary and Recommendations (2023)]]
