@@ -3,7 +3,7 @@ title: "EUS-Guided Biliary Drainage (EUS-BD)"
 category: advanced-procedure
 tags: [eus, eus-bd, eus-cds, eus-hgs, edge, biliary-drainage, biliary-obstruction, ercp, ptbd, lams, interventional-eus, asge]
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-07
 sources: [asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality, acg-2023-biliary-strictures, aga-2021-malignant-alimentary-tract-obstruction]
 ---
 
@@ -163,7 +163,7 @@ Numbering is the document's own. Developed with the Grading of Recommendations A
 | 2 | Distal malignant biliary obstruction + failed ERCP → **either EUS-HGS or EUS-CDS** should be performed to resolve biliary obstruction | Conditional recommendation | Low |
 | 3 | RYGB surgery needing biliary drainage → **EDGE over E-ERCP or LA-ERCP** in resolving biliary obstruction | Conditional recommendation | Low *(table)* / very low *(recommendation box)* |
 | 4 | Biliary obstruction + non–gastric-bypass surgically altered anatomy (prior Roux-en-Y hepaticojejunostomy, pancreaticoduodenectomy, or Billroth II reconstruction) → **E-ERCP as the initial approach**; if unsuccessful → **EUS-BD or percutaneous biliary drainage** | Conditional recommendation | Very low *(table)* / low *(recommendation box)* |
-| 5a | Nonsurgical candidates with [[acute-cholecystitis|acute cholecystitis]] → **EUS-GBD over percutaneous gallbladder drainage (PT-GBD)** | Conditional recommendation | Moderate |
+| 5a | Nonsurgical candidates with [[acute-cholecystitis\|acute cholecystitis]] → **EUS-GBD over percutaneous gallbladder drainage (PT-GBD)** | Conditional recommendation | Moderate |
 | 5b | Patients with acute cholecystitis who cannot undergo cholecystectomy → **EUS-GBD over ET-GBD** | Conditional recommendation | Very low |
 
 - ASGE 2024's summary table and its recommendation boxes give **different certainty ratings for Recommendations 3 and 4**; both are shown above.
