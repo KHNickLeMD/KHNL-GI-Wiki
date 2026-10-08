@@ -97,7 +97,7 @@ Underlying etiologies of toxic megacolon named in the guidelines:
 - Treat **CMV colitis** if identified in refractory disease — ganciclovir **IV then oral, 14-day course** (response ~**70%**); **valganciclovir** may be appropriate in selected patients. Do **not** withhold colitis therapy while treating CMV, and **do not defer colectomy** to complete the antiviral course in nonresponders.
 
 **Fulminant CDI substrate:**
-- **Vancomycin 500 mg by mouth (PO) q6h** × first 48–72 h; if improving, step down to **125 mg q6h × additional 10 days**.
+- **[[cdiff-antibiotics|Vancomycin]] 500 mg by mouth (PO) q6h** × first 48–72 h; if improving, step down to **125 mg q6h × additional 10 days**.
 - **Add IV metronidazole 500 mg q8h** (conditional) — particularly if ileus impairs oral drug delivery.
 - **If ileus: add vancomycin enemas 500 mg in 100 mL saline q6h** (conditional).
 - Reassess at 48–72 h with the multidisciplinary team if no improvement.
@@ -132,7 +132,7 @@ flowchart TD
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[clostridioides-difficile]], [[colon-ischemia]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[diverticulitis]], [[ibd-endoscopic-scoring]], [[ostomy-management]], [[fmt]], [[loperamide]], [[acute-diarrhea]], [[nutrition-in-ibd]], [[ibd-pain-management]], [[jak-inhibitors]]
+[[ulcerative-colitis]], [[crohns-disease]], [[clostridioides-difficile]], [[colon-ischemia]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[diverticulitis]], [[ibd-endoscopic-scoring]], [[ostomy-management]], [[fmt]], [[loperamide]], [[acute-diarrhea]], [[nutrition-in-ibd]], [[ibd-pain-management]], [[jak-inhibitors]], [[cdiff-antibiotics]]
 
 ---
 

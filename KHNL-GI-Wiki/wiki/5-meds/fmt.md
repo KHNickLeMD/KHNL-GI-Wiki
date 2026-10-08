@@ -50,7 +50,7 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
   - **[[aga-2026-cdiff-adults|AGA 2026]] names the high-risk criteria that license earlier use** (after an initial infection or first recurrence): **age >65 years**, **immunocompromised**, or **resident of a skilled nursing facility**. Per product labeling, both FDA-approved products are approved to prevent CDI **regardless of the number of recurrences**.
   - [[aga-2026-cdiff-adults|AGA 2026]] gives the washout as **1–4 days** off antibacterial therapy before microbiota restoration, and specifies the bridge as suppressive oral vancomycin **at least 125 mg daily** until the therapy is approved and accessible.
 - Caution in patients needing frequent or long-term antibiotics — ongoing antibiotics may diminish efficacy.
-- Alternatives for patients who decline: vancomycin taper or tapered-pulsed fidaxomicin. *(AGA 2024 also lists bezlotoxumab; [[aga-2026-cdiff-adults|AGA 2026]] reports it is **no longer commercially available**.)*
+- Alternatives for patients who decline: [[cdiff-antibiotics|vancomycin taper or tapered-pulsed fidaxomicin]]. *(AGA 2024 also lists bezlotoxumab; [[aga-2026-cdiff-adults|AGA 2026]] reports it is **no longer commercially available**.)*
 
 *Severe/fulminant CDI not responding to antimicrobials:*
 - **Which patients qualify** — AGA defines severe CDI by a white blood cell count (WBC) and creatinine threshold and fulminant CDI as severe disease plus shock, ileus, or [[toxic-megacolon|megacolon]]; the full criteria table (and how it changed between the 2010 and 2018 Infectious Diseases Society of America (IDSA) versions) lives on [[clostridioides-difficile]]. Read it before invoking Rec 3.
@@ -79,7 +79,7 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 
 ## See Also
 
-[[clostridioides-difficile]], [[probiotics]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[pouchitis]], [[irritable-bowel-syndrome]], [[colonoscopy]], [[toxic-megacolon]]
+[[clostridioides-difficile]], [[probiotics]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[pouchitis]], [[irritable-bowel-syndrome]], [[colonoscopy]], [[toxic-megacolon]], [[cdiff-antibiotics]]
 
 ---
 
