@@ -6,6 +6,14 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-08] lint | New tier-1 arrival ingested (multi-society 2012 Sedation); three carry-over source rewrites verified; Crohn's perianal reduction closed
+
+**Ingest check — ONE NEW ARRIVAL, the first since 2026-09-23.** `.rawcount.py` against the audited baseline: 13 of 14 `raw/` subfolder counts unchanged (AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, SAGES 3, USPG 1, Lectures 60, Other Studies 6, RCTs 12) but **`GI Guidelines/Other/` is 21, baseline 20** → `AGA ACG ASGE AASLD 2012 Sedation for Endoscopy.pdf`, synced 06:07 today. Non-asset total **450** (was 449); assets 90; total 540. No loose files directly in `raw/`. **Nothing to commit for it** — `raw/GI Guidelines/` is gitignored (`git status --porcelain --ignored=matching` confirms; only `raw/assets/` is tracked), so the count-vs-baseline method remains the only arrival detector.
+
+(entry in progress — see bullets appended below)
+
+---
+
 ## [2026-10-08] lint | Three stalest 2011/2019 source pages validated; perianal fistulizing CD created; PFC drainage card file written
 
 **Ingest check — no new arrivals.** `rawcount.py` method: all 14 `raw/` subfolder counts = audited baseline (AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 20, SAGES 3, USPG 1, Lectures 60, Other Studies 6, RCTs 12) = **449** non-asset files, **539** with `raw/assets/` (90). No loose files directly in `raw/`; working tree clean with nothing untracked under `raw/` to commit (content subfolders are gitignored, so `git status` could never see an arrival — count-vs-baseline is the only detection method). No tier-1/tier-2 ingest work exists: the 60 gated lectures and the broken `IANS 2024 Anal Cancer Screening Consensus.pdf` are all that remains unread. Both ingest slots spent on stale-page validation, a coverage-gap page and the owed card file.

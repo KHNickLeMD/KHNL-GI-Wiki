@@ -3,7 +3,7 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-10-06
+updated: 2026-10-08
 sources: [aga-2018-functional-gi-symptoms-ibd, acg-2025-crohns, aga-2017-crohns-after-surgical-resection, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia]
 ---
 
@@ -167,7 +167,7 @@ No single pathognomonic test. Diagnosis = integration of:
 - **magnetic resonance enterography (MRE) preferred:** young patients (<35y), expected serial imaging; no radiation; sensitivity ~similar to computed tomography enterography (CTE)
 - **CTE:** sensitivity ~90% for SB lesions; use when MRE unavailable or emergent
 - **[[intestinal-ultrasound|Intestinal ultrasound (IUS)]]:** noninvasive, no radiation; point-of-care; comparable to MRE for ileal activity; sonographic response = ≥25% bowel wall thickness (BWT) reduction, response identifiable within 3 months of biologic; postop recurrence if neo-TI BWT ≥3 mm + FC ≥50 µg/g (positive predictive value (PPV) 74%); growing use in US
-- **Pelvic magnetic resonance imaging (MRI) or [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]:** for perianal fistula mapping; >90% accuracy; MRI preferred for complex fistulas
+- **Pelvic magnetic resonance imaging (MRI) and/or [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]:** to further characterize perianal CD and perirectal abscesses — EUS **>90%** accuracy for diagnosing perianal fistulizing disease, pelvic MRI **comparable**. ACG 2025 offers either and states no preferred modality.
 
 ### Pre-Biologic Screening
 
@@ -336,35 +336,9 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ### Perianal Fistulizing CD
 
-**Simple vs complex — the classification that drives the pathway** ([[acg-2025-crohns|ACG 2025]]):
+*Full page — simple vs complex criteria, drainage/seton sequencing before immunosuppression, antibiotic dosing, biologic strength table, fistula surgery by rectal mucosal status, diversion/proctectomy, internal fistulas and intra-abdominal abscess: [[perianal-fistulizing-crohns-disease]].*
 
-| | Definition |
-|---|---|
-| **Simple** | **Distal to the dentate line**, primarily in the anal sphincter region, **single tract** |
-| **Complex** | **Trans-, supra-, or intersphincteric** location; may have **multiple tracts**; or involving the anal sphincter or vagina, or accompanied by an abscess |
-
-- **Asymptomatic simple** perianal fistulas may need **no medical or surgical treatment**.
-- Any fistula **with an abscess**, and any **complex** fistula, must be **drained** — seton is the usual method — **before** immunosuppression. (Smaller abscesses may not require surgical drainage.)
-- Symptomatic or complex fistula → **surgical consult for examination under anesthesia (EUA)** before advanced therapy.
-- **Simple fistula, no active rectal mucosal involvement** → may respond to **fistulotomy or mucosal advancement flap**. **With** rectal mucosal involvement → **seton rather than fistulotomy**, plus concomitant advanced therapy.
-- **Refractory disease:** proximal diversion (long-term success very low), then proctectomy/total proctocolectomy with a [[ostomy-management|permanent stoma]] in the most severe scenarios; advancement flaps improve long-term healing when combined with anti-TNF.
-- **Internal fistulas** (rectovaginal, enterovesical/colovesical, enteroenteric) — limited trial data; **infliximab ± an immunomodulator** is the usual initial approach before surgery (ACCENT II included rectovaginal fistulae).
-
-**Step 1: Examination under anesthesia** — classify fistula, drain abscess, place seton
-**Step 2: Biologic therapy** (do NOT start before drainage)
-**Step 3: Assess response** — fistula closure, seton removal
-
-| Biologic (induction of remission) | [[acg-2025-crohns\|ACG 2025]] strength / evidence |
-|---|---|
-| Infliximab | **Strong** / Moderate — highest-quality data (rec 24) |
-| Adalimumab | Conditional / Low (rec 25) |
-| Vedolizumab | Conditional / Very low (rec 27) |
-| Ustekinumab | Conditional / Very low (rec 28) |
-| Upadacitinib | Conditional / Very low (rec 29) |
-
-- **Antibiotics combined with infliximab or adalimumab** to improve clinical response *(Conditional / Very low, rec 26)* — and adjunctively to treat the pelvic sepsis of complex fistulas. Antibiotics **alone** only for simple, superficial fistulas with minimal sphincter involvement: metronidazole **10–20 mg/kg/day PO**, and/or ciprofloxacin **500 mg PO twice daily (BID)**, or levofloxacin **500–750 mg daily** — each **for 4–8 weeks**. Mesalamine and corticosteroids are ineffective for fistulizing CD. **Antibiotics rarely replace surgical drainage when an abscess is present.**
-- Higher anti-TNF trough levels associated with better fistula healing (use TDM)
-- **Intra-abdominal abscess >2 cm:** treat with antibiotics **plus a drainage procedure**, and **hold immunosuppression until drainage is achieved** (radiologic or surgical) *(Conditional / Low, rec 35)*. Complex fistula + abscess may still require resection.
+- **What perianal disease means for the luminal disease:** it is a **high-risk severity marker** — its presence excludes mild CD by definition and places the patient in the moderate–severe band (see [[#Severity Assessment]]), and it is one of the named high-risk features for disease progression.
 
 ---
 
@@ -457,7 +431,7 @@ Endoscopic assessment of the neoterminal ileum at **6–12 months** post-resecti
 
 - **Intestinal obstruction:** distinguish fibrotic vs inflammatory stricture vs adhesions; rule out perforation. IV corticosteroids if **active inflammation** present; surgery for predominantly fibrotic stricture or perforating/abscess disease. No clear role for endoscopic dilation in acute obstruction. If on steroids preop, taper toward ≤prednisone 20 mg/day to reduce postoperative infection.
 - **Intra-abdominal abscess:** infection control with **drainage** (by size/location) + systemic antibiotics, then decide on further medical vs surgical management.
-- **Active perianal disease:** multidisciplinary medical + surgical approach — EUA with incision & drainage of abscess + **seton** placement; contrast cross-sectional imaging (CT/magnetic resonance (MR)) for complex fistula tracts.
+- **Active perianal disease:** multidisciplinary medical + surgical approach; get **contrast** cross-sectional imaging (CT/magnetic resonance (MR)) to map complex fistula tracts. Inpatient drainage/seton and drug sequencing: [[perianal-fistulizing-crohns-disease]].
 
 ---
 
@@ -511,7 +485,7 @@ Endoscopic assessment of the neoterminal ileum at **6–12 months** post-resecti
 
 ## See Also
 
-[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[short-bowel-syndrome]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]], [[ibd-in-older-adults]], [[irritable-bowel-syndrome]], [[bile-acid-diarrhea]], [[small-intestinal-bacterial-overgrowth]]
+[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[perianal-fistulizing-crohns-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[short-bowel-syndrome]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]], [[ibd-in-older-adults]], [[irritable-bowel-syndrome]], [[bile-acid-diarrhea]], [[small-intestinal-bacterial-overgrowth]]
 
 ---
 

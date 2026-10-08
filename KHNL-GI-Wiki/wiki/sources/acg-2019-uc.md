@@ -7,7 +7,7 @@ updated: 2026-10-08
 sources: []
 ---
 
-> ⚠ **Historical / superseded edition.** Superseded by [[acg-2025-uc|ACG Clinical Guideline: Ulcerative Colitis in Adults (2025)]]; moderate-to-severe drug positioning is further updated by [[aga-2024-uc-pharm|AGA Clinical Practice Guideline on the Pharmacological Management of Moderate-to-Severe Ulcerative Colitis (2024)]]. Kept because it records what the 2019 edition actually said — see [[#Contradictions / Open Questions]] for what changed.
+> ⚠ **Historical / superseded edition.** Superseded by [[acg-2025-uc|ACG Clinical Guideline: Ulcerative Colitis in Adults (2025)]]; moderate-to-severe drug positioning is further updated by [[aga-2024-uc-pharm|AGA Clinical Practice Guideline on the Pharmacological Management of Moderate-to-Severe Ulcerative Colitis (2024)]]. Records the positions the 2019 edition took — see [[#Contradictions / Open Questions]] for what changed.
 
 ## Contents
 - [[#Bibliographic Info]]
@@ -215,6 +215,7 @@ The 2025 edition reproduces all five tables, so the full criteria live on the en
 | Table 8 — Poor prognostic factors | Age <40 y at diagnosis · extensive colitis · severe endoscopic disease (Mayo endoscopic subscore 3, UCEIS ≥7) · hospitalization for colitis · elevated CRP · low serum albumin | [[ulcerative-colitis]] |
 
 - **2019's Table 4 has no [[intestinal-ultrasound|intestinal ultrasound (IUS)]] row** — that was added in the 2025 edition. Footnote: except for remission, a patient need not have all factors to be placed in a category.
+- Table 8 footnote: the **greater the number of poor prognostic factors, the worse the prognosis**, measured by likelihood of colectomy. Key concept 18 adds that the factors are not equally weighted.
 - **Figure 1** — sample endoscopic images pairing Mayo endoscopic subscore 0/1/2/3 with UCEIS 0 / 1–3 / 4–6 / 7–8, three examples per row: normal · erythema, decreased vascular pattern, mild friability · marked erythema, absent vascular pattern, friability, erosions · spontaneous bleeding, ulceration.
 - **Truelove and Witts (1955)**, as quoted here: **mild** = <4 bowel movements/d with normal temperature, normal heart rate, hemoglobin >11 g/dL, ESR <20 mm/hr; **severe** = >6 bowel movements/d plus fever, tachycardia, anemia, or elevated ESR. Useful for deciding on hospitalization; gives no quantitative or longitudinal measure and ignores nocturnal symptoms, extraintestinal manifestations, and endoscopic severity.
 - Extent follows the Montreal system: proctitis (E1), left-sided (E2), extensive (E3, proximal to the splenic flexure).
@@ -228,23 +229,25 @@ The 2025 edition reproduces all five tables, so the full criteria live on the en
 - Children: **PUCAI >45 at day 3** or **>70 at day 5** predicted IVCS failure. Other failure predictors: hypoalbuminemia, colonic dilation, **ESR >75 mm/hr**, **temperature >38 °C**.
 - **UCEIS ≥5** → 50% rescue therapy, 33% colectomy (vs 27% and 9% at UCEIS ≤4). **UCEIS ≥7** outperformed Mayo endoscopic subscore 3 for predicting colectomy.
 - Plain film: thickened wall, loss of haustration, mucosal islands; **transverse colon diameter >5.5 cm** predicts worse outcome. CT only for suspected extraluminal complication/perforation or unclear CD vs UC.
-- Toxic megacolon occurs in **<5%** of ASUC. Preferred operation: **subtotal or total colectomy with end ileostomy**.
+- Toxic megacolon occurs in **<5%** of ASUC. Absolute indications for surgery in ASUC: toxic megacolon, perforation, uncontrolled severe hematochezia, multiorgan dysfunction. Preferred operation: **subtotal or total colectomy with end ileostomy**.
 - VTE prophylaxis = **low-molecular-weight heparin**, apparently safe despite active bleeding.
 - IVCS response usually by **3–5 days**; further response after **7 days** unlikely, so prolonging IVCS beyond that without rescue cannot be recommended. No benefit above **60 mg methylprednisolone**; single, divided, or continuous dosing equivalent.
 
 **Dosing the source gives**
 
-- **Cyclosporine** ASUC target **2 mg/kg** (equivalent to 4 mg/kg with fewer adverse events); levels **200–400**. Prefer infliximab after immunomodulator failure and when **albumin <23 g/L**; low cholesterol/magnesium raises neurologic risk.
+- **Cyclosporine** ASUC target **2 mg/kg** (comparable response and colectomy rate to 4 mg/kg, fewer adverse events); drug levels **200–400** — ACG 2019 gives the range without units. Infliximab **may be preferred** instead in patients who previously failed immunomodulator therapy and in those with **albumin <23 g/L**; low serum cholesterol or magnesium raises the risk of neurologic adverse events from cyclosporine.
 - **Infliximab** rescue **5 mg/kg** at weeks **0, 2, 6**.
 - Combination induction: infliximab **5 mg/kg** (0, 2, 6 wk) + **azathioprine 2.5 mg/kg orally** — superior to either alone at 16 wk in anti-TNF- and immunomodulator-naive patients with normal thiopurine methyltransferase activity.
 - **Vedolizumab** maintenance **300 mg intravenously every 8 weeks**; **tofacitinib** maintenance **5 or 10 mg b.i.d.**; **methotrexate** parenteral **25 mg/wk** (not superior to placebo for maintenance).
-- **[[tacrolimus|Tacrolimus]]** trough **10–15 ng/mL** in steroid-refractory UC — described, not recommended.
-- **CMV colitis** in up to one-third of steroid-refractory ASUC; biopsy the **ulcer base**; immunohistochemistry, rapid culture, or polymerase chain reaction preferred over hematoxylin-eosin. **Ganciclovir, intravenous then oral, 14-day course**; do not defer colectomy to finish it in nonresponders.
+- **[[tacrolimus|Tacrolimus]]** optimal target trough **10–15 ng/mL** in steroid-refractory UC; long-term outcome and colectomy data are limited. ACG 2019 discusses tacrolimus in the text but makes no recommendation or key concept statement on it.
+- **CMV colitis** in up to one-third of steroid-refractory ASUC; biopsy the **ulcer base**; immunohistochemistry, rapid culture, or polymerase chain reaction preferred over hematoxylin-eosin. **Ganciclovir, intravenous then oral, 14-day course** — response rate around **70%**; oral **valganciclovir** may be appropriate in selected patients. Do not defer colectomy to finish the course in nonresponders.
 
 **CRC, surgery, biomarkers**
 
 - Cumulative CRC risk **1%, 2%, 5%** at **10, 20, >20 years**. Risk factors: longer duration, greater inflammatory activity, younger age at diagnosis, greater extent, PSC, first-degree relative with CRC. Inflammatory pseudopolyps may **not** be a risk factor on newer data.
 - Colectomy indications: ASUC; chronic refractory UC; dysplasia/carcinoma. **Chronic refractory UC** = refractory to induction with biologics, corticosteroids, or small molecules, *or* corticosteroid dependent.
+- Elective operation of choice for refractory UC: **restorative proctocolectomy with ileal pouch–anal anastomosis (IPAA)**, as a **2- or 3-stage** procedure — the pouch is not built at the first stage in a patient still on corticosteroids or other medical therapy, which minimizes complications and operating time. Stapled anastomosis gives better functional outcomes than handsewn with mucosectomy; reserve mucosectomy for neoplasia involving the rectum or higher recurrence risk.
+- **The term DALM (dysplasia-associated lesion or mass) should no longer be used** — describe size, shape, and pit pattern instead. "Invisible" dysplasia = found on nontargeted biopsies. Colitis-associated lesions are more often flat or spreading than sessile or pedunculated. Bowel-sparing segmental or subtotal resection is an option in selected patients (deep remission, poor IPAA candidates, proximal dysplasia not involving the rectum).
 - Postoperative mortality **1%**; early complications (≤30 d) 9%–65%, late (>30 d) 17%–55%. Preoperative anti-TNF raised infectious complications in CD but **not** UC.
 - [[nutrition-in-ibd|Malnutrition]] definitions used: weight loss **>10%–15%** over 6 months, body mass index **<18.5 kg/m²**, albumin **<30 g/L**.
 - FC vs endoscopic inflammation: sensitivity **87.3%**, specificity **77.1%**, area under the curve **0.91**; best sensitivity **90%** at **50 μg/g**, best specificity **78.2%** above **100 μg/g**. FC cutoffs for remission and the optimal target have not been studied prospectively and so are not amenable to the GRADE process.
@@ -258,6 +261,9 @@ Positions stated as *unable to recommend* — neither for nor against:
 - **Accelerated or high-dose infliximab induction in ASUC** — may suit a subgroup; routine use cannot be recommended on existing evidence.
 - **Routine medical salvage after infliximab or cyclosporine failure** — cannot be recommended; significant risk of adverse outcomes.
 - **Histologic healing as a management end point** — not recommended at this time.
+- **Probiotic VSL#3 as an adjunct to 5-ASA** — quality of evidence too low to recommend for or against in UC.
+- ***Escherichia coli* Nissle for induction** — insufficient evidence to recommend for or against.
+- **FMT** — variability in donors, delivery, duration, and end points makes the trials hard to interpret; not currently a recommended treatment option for UC.
 - **Routine disability/QoL scores in practice**, and **genetic or serologic markers to predict severity and course** — insufficient data.
 - Key concept 47 leaves **segmental random biopsies during surveillance** explicitly unresolved.
 

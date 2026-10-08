@@ -72,10 +72,10 @@ The content is now of historical interest only: both agents were withdrawn and t
 | Scenario | Total duration |
 |---|---|
 | Boceprevir, **no cirrhosis**, HCV RNA undetectable at weeks 8 **and** 24 | 28 weeks total (4 weeks lead-in + 24 weeks triple therapy) |
-| Boceprevir, slow virologic response | Boceprevir stopped; SOC continued an additional 20 weeks (48 weeks total). FDA alternative, based on modeling: 4 weeks SOC lead-in → 32 weeks triple therapy → 12 weeks PegIFN/RBV alone (differs from the phase 3 design) |
+| Boceprevir, slow virologic response | Boceprevir stopped; SOC continued an additional 20 weeks (48 weeks total). Food and Drug Administration (FDA) alternative, based on modeling: 4 weeks SOC lead-in → 32 weeks triple therapy → 12 weeks PegIFN/RBV alone (differs from the phase 3 design) |
 | Telaprevir, **no cirrhosis**, eRVR (undetectable weeks 4 **and** 12) | 24 weeks total |
 | Telaprevir, no eRVR | 48 weeks total |
-| Either PI **with cirrhosis** | 48 weeks. The Food and Drug Administration (FDA) recommends that patients with compensated cirrhosis **not** receive RGT (limited data) |
+| Either PI **with cirrhosis** | 48 weeks. The FDA recommends that patients with compensated cirrhosis **not** receive RGT (limited data) |
 
 ### Response-Guided Therapy — Treatment-Experienced
 | Scenario | Total duration |
@@ -114,7 +114,10 @@ All 18 numbered recommendations, near-verbatim (American College of Cardiology/A
 9. Stop all three drugs (telaprevir, peginterferon, ribavirin) if HCV RNA is >1,000 IU/mL at weeks 4 or 12 and/or detectable at week 24. (Class 2a, Level B)
 10. (Treatment-experienced) Re-treatment with boceprevir or telaprevir + peginterferon + weight-based ribavirin can be recommended for prior relapsers or partial responders to standard/peginterferon ± ribavirin. (Class 1, Level A)
 11. Re-treatment with telaprevir + peginterferon + ribavirin may be considered for prior null responders. (Class 2b, Level B)
-12. Response-guided therapy in treatment-experienced patients can be considered for relapsers, may be considered for partial responders, but cannot be recommended for null responders. (Class 2a–3, Levels B–C as detailed)
+12. Response-guided therapy of treatment-experienced patients using either a boceprevir- or telaprevir-based regimen:
+    - **can be considered for relapsers** — Class 2a, Level B for boceprevir; Class 2b, Level C for telaprevir
+    - **may be considered for partial responders** — Class 2b, Level B for boceprevir; Class 3, Level C for telaprevir
+    - **cannot be recommended for null responders** — Class 3, Level C
 13. Withdraw all therapy in patients re-treated with boceprevir triple therapy who still have HCV RNA >100 IU/mL at week 12 (high resistance risk). (Class 1, Level B)
 14. Withdraw all therapy in patients re-treated with telaprevir triple therapy who still have HCV RNA >1,000 IU/mL at weeks 4 or 12 (high resistance risk). (Class 1, Level B)
 15. Manage anemia on protease-inhibitor therapy by reducing the ribavirin dose. (Class 2a, Level A)
@@ -123,7 +126,7 @@ All 18 numbered recommendations, near-verbatim (American College of Cardiology/A
 18. IL28B genotype is a robust pretreatment predictor of SVR (to peginterferon/ribavirin and to PI triple therapy) in genotype 1; testing may be considered when additional information on probability of response or likely treatment duration is desired. (Class 2a, Level B)
 
 ## Relevance to Wiki
-- Documents the transitional first-generation-PI chapter in the [[hepatitis-c]] story. Added to that page's history/Sources only — **current HCV therapeutics on the entity page reflect the interferon-free DAA era ([[aasld-idsa-2023-hcv]]) and were not altered.**
+- Documents the transitional first-generation-PI chapter in the [[hepatitis-c]] story: the origins of response-guided therapy, PI futility rules, and IL28B-based prognostication. **Current HCV therapy is interferon-free DAA treatment ([[aasld-idsa-2023-hcv]]); nothing here applies to care today.**
 
 ## Contradictions / Open Questions
 - Wholly superseded. Every regimen here (peginterferon, ribavirin, boceprevir, telaprevir, RGT, stopping rules) conflicts with modern interferon-free DAA practice and must not be applied. IL28B testing is also no longer clinically used given near-universal SVR with DAAs.

@@ -23,7 +23,10 @@ This USMSTF guideline established the modern, evidence-based framework for optim
 The guideline defined **adequate preparation** as cleansing that permits a screening/surveillance interval appropriate to the findings, and set a quality benchmark that ≥85% of examinations should achieve adequate prep on a per-physician basis, with routine measurement of adequate-cleansing rates. It addressed agent selection (4 L polyethylene glycol–electrolyte lavage solution [PEG-ELS] as a high-quality reference; low-volume and over-the-counter [OTC] agents with split dosing for tolerability), special populations (avoid magnesium-based and sodium phosphate [NaP] preparations in chronic kidney disease [CKD], inflammatory bowel disease [IBD], and the elderly), risk factors for inadequate prep (prior poor prep, constipation, opioids, diabetes, prior colon resection, spinal cord injury), and salvage strategies for the inadequately prepped patient presenting on the day of the procedure.
 
 ## Key Findings / Claims — Recommendations
-All 23 recommendations, near-verbatim (strength + evidence quality as stated):
+
+All **30** recommendations. The document **numbers its recommendations only within each topic section**, restarting at 1; the continuous 1–30 numbering below is the wiki's, in document order. Strength and evidence quality are the document's own wording.
+
+**Effect of inadequate preparation on polyp/adenoma detection and recommended follow-up intervals**
 
 1. Preliminary assessment of preparation quality should be made in the rectosigmoid colon; if the indication is screening or surveillance and the prep clearly is inadequate to allow polyp detection >5 mm, the procedure should be terminated and rescheduled, or additional bowel-cleansing strategies delivered without cancelling the procedure that day. (Strong recommendation, low-quality evidence)
 2. A same-day regimen is an acceptable alternative to split dosing, especially for patients undergoing an afternoon examination. (Strong recommendation, high-quality evidence)

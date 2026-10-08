@@ -47,7 +47,7 @@ The guideline uses the GRADE classification with minor modifications, as adopted
 
 ## Recommendations
 
-All 16 recommendations, numbered 1–16 **by the document itself**, near-verbatim. Grades are reproduced exactly as printed. Where a recommendation carries two separately graded clauses, both grades are shown.
+All 16 recommendations, numbered 1–16 **by the document itself**, near-verbatim, with the document's own GRADE ratings. Where a recommendation carries two separately graded clauses, both grades are shown.
 
 1. We recommend that patients with abnormal iron studies should be evaluated as patients with hemochromatosis, even in the absence of symptoms. **(A)** — the document prints a quality grade only for this statement, with no strength number.
 2. All patients with evidence of liver disease should be evaluated for hemochromatosis. (1B)
@@ -62,7 +62,7 @@ All 16 recommendations, numbered 1–16 **by the document itself**, near-verbati
 11. Patients with end-organ damage due to iron overload should undergo regular phlebotomy to the same endpoints as indicated above. (1A)
 12. During treatment for HH, dietary adjustments are unnecessary. Vitamin C supplements and iron supplements should be avoided. (1C)
 13. Patients with hemochromatosis and iron overload should be monitored for reaccumulation of iron and undergo maintenance phlebotomy (1A); target levels of phlebotomy should be a ferritin level of 50–100 µg/L. (1B)
-14. We recommend treatment by phlebotomy of patients with non-HFE iron overload who have an elevated hepatic iron concentration (HIC). (1B)
+14. We recommend treatment by phlebotomy of patients with non-*HFE* iron overload who have an elevated HIC. (1B)
 15. Iron chelation with either deferoxamine mesylate or deferasirox is recommended in iron-overloaded patients with dyserythropoietic syndromes or chronic hemolytic anemia. (1A)
 16. Average-risk population screening for HH is not recommended. (1B)
 
@@ -96,6 +96,23 @@ flowchart TD
 
 *Figure 3 — testing and treatment algorithm, recreated from the figure; modified from the version used in the previous AASLD guideline. ([[aasld-2011-hemochromatosis]])*
 
+### Who to suspect — symptoms (Table 5) and physical findings (Table 6)
+
+| Category | Symptoms | Physical findings |
+|---|---|---|
+| Asymptomatic | Abnormal iron studies on a routine screening chemistry panel; evaluation of abnormal liver tests; identified by family screening | None, or hepatomegaly |
+| Nonspecific, systemic | Weakness, fatigue, lethargy, apathy, weight loss | — |
+| Liver | Abdominal pain (hepatomegaly) | Hepatomegaly, splenomegaly, cutaneous stigmata of chronic liver disease; liver failure (ascites, encephalopathy and associated features) |
+| Joints | Arthralgias (arthritis) | Arthritis, joint swelling, chondrocalcinosis |
+| Endocrine | Diabetes (pancreas); amenorrhea (cirrhosis); loss of libido, impotence (pituitary, cirrhosis) | Testicular atrophy, hypogonadism, hypothyroidism |
+| Heart | Congestive heart failure, arrhythmias | Dilated cardiomyopathy, congestive heart failure |
+| Skin | — | Increased pigmentation, porphyria cutanea tarda (PCT) |
+
+- Arthralgias are typically in the **second and third metacarpophalangeal joints**; chondrocalcinosis also occurs.
+- Of patients identified through abnormal routine chemistries or family screening, **~75% had no symptoms** and none of the end-stage manifestations.
+- **Sex differences.** In older symptom-detected series, women presented approximately **10 years later** than men and there were roughly **10 times as many men as women**; with screening-based diagnosis the ages and numbers have equalised, but definite disease manifestations (liver disease, arthritis) remain far less common in C282Y homozygous women — **1% vs 25% in men**.
+- Fully established disease is the classic triad of cirrhosis, diabetes, and skin pigmentation ("bronze diabetes").
+
 ### Iron study thresholds
 
 - Initial approach is by **indirect markers of iron stores — TS (or unsaturated iron-binding capacity) and serum ferritin**. TS is calculated from the ratio of serum iron to total iron-binding capacity.
@@ -111,7 +128,7 @@ flowchart TD
 - **C282Y homozygotes account for 80%–85% of typical HH patients**; approximately **85%–90%** of patients with inherited iron overload are C282Y homozygous, a small minority are compound heterozygotes, and the remaining **10%–15%** most likely have mutations in other iron-regulatory genes.
 - **H63D and S65C are generally not associated with iron loading unless seen with C282Y** as a compound heterozygote — C282Y/H63D or C282Y/S65C.
 - **C282Y heterozygotes and H63D heterozygotes can be reassured that they are not at risk of developing progressive or symptomatic iron overload.** Occasional **H63D homozygotes can develop mild iron overload**.
-- Any of these genotypes **can act as a cofactor for liver disease** when they occur alongside porphyria cutanea tarda (PCT), hepatitis C, ALD, or NAFLD.
+- Any of these genotypes **can act as a cofactor for liver disease** when they occur alongside PCT, hepatitis C, ALD, or NAFLD.
 - C282Y homozygosity ("genetic susceptibility") is found in approximately **1 in 250 Caucasians**, yet fully expressed disease with end-organ manifestations is seen in **fewer than 10%** of them; full clinical manifestations occur in roughly 1 in 2500. The **C282Y/wild-type heterozygote genotype is found in about 1 in 10 individuals** and may be associated with elevated serum iron markers but without associated tissue iron overload or damage.
 - Non–*HFE* forms: **juvenile HH** from *HJV* (hemojuvelin, chromosome 1q — the more common) or *HAMP* (hepcidin — much less common), characterised by rapid iron accumulation; **type 2 transferrin receptor (*TFR2*)** disease, autosomal recessive and clinically similar to *HFE*-related HH with iron primarily in hepatic parenchymal cells; **ferroportin (*SLC40A1*)** disease, autosomal dominant — loss-of-function mutations deposit iron primarily in macrophages, whereas gain-of-function mutations abolish hepcidin-induced ferroportin internalisation and distribute iron in parenchymal cells as in *HFE*-related HH; and **African iron overload**, a non–*HFE* genetic abnormality exacerbated by dietary iron loading (iron-rich fermented beverage), which also occurs in people who do not drink the beverage.
 - Non–*HFE*-related HH accounts for **<5% of cases** encountered and genetic testing for it is largely unavailable outside research laboratories.
