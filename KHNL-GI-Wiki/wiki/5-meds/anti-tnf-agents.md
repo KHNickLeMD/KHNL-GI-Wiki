@@ -3,7 +3,7 @@ title: "Anti-TNF Agents (TNF-α Antagonists)"
 category: med
 tags: [anti-tnf, infliximab, adalimumab, certolizumab-pegol, golimumab, biologic, ibd, crohns, ulcerative-colitis, immunogenicity, therapeutic-drug-monitoring, biosimilar, immune-checkpoint-inhibitor]
 created: 2026-09-04
-updated: 2026-09-29
+updated: 2026-10-09
 sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis, aga-2018-biologic-biosimilar-switching-ibd]
 ---
 
@@ -236,7 +236,7 @@ If not already done before checkpoint-inhibitor therapy: test **hepatitis B (HBs
 
 ## Loss of Response — Therapeutic Drug Monitoring
 
-**Minimal therapeutic target trough levels** ([[acg-2025-crohns]]):
+**Minimal therapeutic target trough levels** — ACG 2025 relays these as *published guidance*, not as its own graded recommendation ([[acg-2025-crohns]]):
 
 | Agent | Target trough |
 |---|---|

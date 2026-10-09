@@ -143,7 +143,7 @@ flowchart TD
 | Stage | Definition |
 |---|---|
 | **Compensated** | Absence of **current or past** decompensation (3.1); subdivided by presence/absence of CSPH (3.2a). The main therapeutic goal in the CSPH substage is to **prevent decompensation** (3.2e) |
-| **Decompensated (first decompensation)** | Clinically evident [[ascites]] **or hepatic hydrothorax** caused by portal hypertension, [[variceal-upper-gi-bleeding\|variceal bleeding]], and/or overt [[hepatic-encephalopathy\|HE]] (**West Haven grade ≥II**) (3.3) |
+| **Decompensated (first decompensation)** | Clinically evident [[ascites]] **or [[hepatic-hydrothorax|hepatic hydrothorax]]** caused by portal hypertension, [[variceal-upper-gi-bleeding\|variceal bleeding]], and/or overt [[hepatic-encephalopathy\|HE]] (**West Haven grade ≥II**) (3.3) |
 | **Further decompensation** | Event-specific — see the table below (4.1). Higher mortality than first decompensation |
 | **Recompensation** | See [[#Recompensation (Baveno VIII)]] |
 

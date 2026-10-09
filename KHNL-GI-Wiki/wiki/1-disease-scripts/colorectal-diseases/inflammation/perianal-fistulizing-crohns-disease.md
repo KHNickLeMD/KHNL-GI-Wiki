@@ -3,7 +3,7 @@ title: "Perianal Fistulizing Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, perianal-fistula, fistula, perianal-abscess, seton, anti-tnf, infliximab, antibiotics]
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 sources: [acg-2025-crohns, aga-2021-crohns-pharm, asge-2015-ibd]
 ---
 
@@ -232,6 +232,7 @@ flowchart TD
 - **Fistula response = >50% closure on clinical assessment**; the maintenance endpoint in the pivotal infliximab trial was **maintenance of complete closure and of response** ([[acg-2025-crohns]]).
 - **With standard medical therapy there is a high relapse rate of fistulous drainage** — plan for maintenance, not a course.
 - **Serial EUS examinations may be used to guide therapeutic intervention, including seton removal and discontinuation of medical therapy.**
+- **Do not treat to an anti-TNF trough target for fistula healing.** Higher anti-tumor necrosis factor (anti-TNF) drug levels are *suggested* to associate with better fistula-healing rates across numerous trials, but the quality is limited by subjective outcomes and observational design, and **there are no high-quality interventional data** ([[acg-2025-crohns]]). The general loss-of-response trough targets — a separate question — live on [[anti-tnf-agents]].
 - Neither guideline sets a numeric perianal imaging target or a surveillance interval for repeat perianal imaging.
 
 ---

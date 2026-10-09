@@ -3,7 +3,7 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-10-08
+updated: 2026-10-09
 sources: [aga-2018-functional-gi-symptoms-ibd, acg-2025-crohns, aga-2017-crohns-after-surgical-resection, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia]
 ---
 
@@ -272,7 +272,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ### Anti-TNF Agents (Strong Recommendation)
 
-*Drug-class parameters — immunogenicity, [[therapeutic-drug-monitoring-ibd|therapeutic drug monitoring]], pre-treatment TB/HBV screening, biosimilars: see [[anti-tnf-agents]].*
+*Drug-class parameters — immunogenicity, [[therapeutic-drug-monitoring-ibd|therapeutic drug monitoring (TDM)]], pre-treatment TB/HBV screening, biosimilars: see [[anti-tnf-agents]].*
 
 | Drug | Induction | Maintenance |
 |---|---|---|
@@ -283,7 +283,6 @@ No single pathognomonic test. Diagnosis = integration of:
 
 - Combo infliximab (IFX) + thiopurine preferred in biologic-naive (SONIC trial; PROFILE trial)
 - Biosimilars available for IFX, adalimumab (ADA), ustekinumab (UST) — equivalent efficacy/safety; FDA-approved for de novo use and switching
-- therapeutic drug monitoring (TDM) trough targets: IFX >5 μg/mL; ADA >7.5 μg/mL; certolizumab pegol (CZP) >20 μg/mL
 - Pre-biologic screening: TB (IGRA), HBV, vaccines
 
 ---

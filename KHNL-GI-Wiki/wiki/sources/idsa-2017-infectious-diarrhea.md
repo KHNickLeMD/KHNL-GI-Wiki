@@ -3,7 +3,7 @@ title: "IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management 
 category: source
 tags: [diarrhea, infectious-diarrhea, gastroenteritis, dysentery, stec, hus, enteric-fever, typhoid, salmonella, shigella, campylobacter, cryptosporidium, giardia, travelers-diarrhea, ors, loperamide, probiotics, zinc, vaccine, public-health, idsa]
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-10-09
 sources: []
 ---
 
@@ -30,9 +30,9 @@ The guideline adds management points absent from the ACG acute-diarrhea guidelin
 
 ---
 
-## All Recommendations (Complete Verbatim Text)
+## All Recommendations (1–60)
 
-> Each recommendation is graded *(strength, quality of evidence)* as published.
+> The guideline answers 21 clinical questions with 60 numbered recommendations. Each carries IDSA's own grade *(strength of recommendation, quality of evidence)* — strength **strong** or **weak**; quality **high**, **moderate**, **low**, or **very low**. Numbering and grades below are exactly as published; short statements are kept near-verbatim, long ones condensed.
 
 ### Clinical, Demographic, and Epidemiologic Features
 
@@ -180,6 +180,139 @@ The guideline adds management points absent from the ACG acute-diarrhea guidelin
 
 ---
 
+## Guideline Tables
+
+*Table 1 is a resource list of external guideline URLs (travel, immunocompromised hosts, foodborne/waterborne, C. difficile, childcare, long-term care, zoonoses) and is not reproduced.*
+
+### Table 2 — Exposure or Condition Associated With Pathogens Causing Diarrhea
+
+| Exposure or condition | Pathogen(s) |
+|---|---|
+| **Foodborne** | |
+| Foodborne outbreaks in hotels, cruise ships, resorts, restaurants, catered events | Norovirus, nontyphoidal *Salmonella*, *Clostridium perfringens*, *Bacillus cereus*, *Staphylococcus aureus*, *Campylobacter* spp, enterotoxigenic *Escherichia coli* (ETEC), STEC, *Listeria*, *Shigella*, *Cyclospora cayetanensis*, *Cryptosporidium* spp |
+| Unpasteurized milk or dairy products | *Salmonella*, *Campylobacter*, *Yersinia enterocolitica*, *S. aureus* toxin, *Cryptosporidium*, STEC. *Listeria* infrequently associated with diarrhea; *Brucella* (goat milk cheese), *Mycobacterium bovis*, *Coxiella burnetii* |
+| Raw or undercooked meat or poultry | STEC (beef), *C. perfringens* (beef, poultry), *Salmonella* (poultry), *Campylobacter* (poultry), *Yersinia* (pork, chitterlings), *S. aureus* (poultry), *Trichinella* spp (pork, wild game meat) |
+| Fruits, unpasteurized fruit juices, vegetables, leafy greens, sprouts | STEC, nontyphoidal *Salmonella*, *Cyclospora*, *Cryptosporidium*, norovirus, hepatitis A, *Listeria monocytogenes* |
+| Undercooked eggs | *Salmonella*, *Shigella* (egg salad) |
+| Raw shellfish | *Vibrio* species, norovirus, hepatitis A, *Plesiomonas* |
+| **Exposure or contact** | |
+| Swimming in or drinking untreated fresh water | *Campylobacter*, *Cryptosporidium*, *Giardia*, *Shigella*, *Salmonella*, STEC, *Plesiomonas shigelloides* |
+| Swimming in treated recreational water | *Cryptosporidium* and other waterborne pathogens when disinfectant concentrations inadequately maintained |
+| Healthcare, long-term care, prison exposure or employment | Norovirus, *Clostridium difficile*, *Shigella*, *Cryptosporidium*, *Giardia*, STEC, rotavirus |
+| Child care center attendance or employment | Rotavirus, *Cryptosporidium*, *Giardia*, *Shigella*, STEC |
+| Recent antimicrobial therapy | *C. difficile*, multidrug-resistant *Salmonella* |
+| Travel to resource-challenged countries | *Escherichia coli* (enteroaggregative, enterotoxigenic, enteroinvasive), *Shigella*, Typhi and nontyphoidal *Salmonella*, *Campylobacter*, *Vibrio cholerae*, *Entamoeba histolytica*, *Giardia*, *Blastocystis*, *Cyclospora*, *Cystoisospora*, *Cryptosporidium* |
+| House pets with diarrhea | *Campylobacter*, *Yersinia* |
+| Pig feces in certain parts of the world | *Balantidium coli* |
+| Contact with young poultry or reptiles | Nontyphoidal *Salmonella* |
+| Visiting a farm or petting zoo | STEC, *Cryptosporidium*, *Campylobacter* |
+| **Host condition** | |
+| Age group | Rotavirus (6–18 mo), nontyphoidal *Salmonella* (birth to 3 mo of age, and >50 y with a history of atherosclerosis), *Shigella* (1–7 y), *Campylobacter* (young adults) |
+| Underlying immunocompromising condition | Nontyphoidal *Salmonella*, *Cryptosporidium*, *Campylobacter*, *Shigella*, *Yersinia* |
+| Hemochromatosis or hemoglobinopathy | *Y. enterocolitica*, *Salmonella* |
+| AIDS, immunosuppressive therapies | *Cryptosporidium*, *Cyclospora*, *Cystoisospora*, microsporidia, *Mycobacterium avium*–intracellulare complex, cytomegalovirus |
+| Anal-genital, oral-anal, or digital-anal contact | *Shigella*, *Salmonella*, *Campylobacter*, *E. histolytica*, *Giardia lamblia*, *Cryptosporidium*, plus sexually transmitted infections |
+
+### Table 3 — Clinical Presentations Suggestive of Infectious Diarrhea Etiologies
+
+| Finding | Likely pathogens |
+|---|---|
+| Persistent or chronic diarrhea | *Cryptosporidium* spp, *Giardia lamblia*, *Cyclospora cayetanensis*, *Cystoisospora belli*, *Entamoeba histolytica* |
+| Visible blood in stool | STEC, *Shigella*, *Salmonella*, *Campylobacter*, *E. histolytica*, noncholera *Vibrio* species, *Yersinia*, *Balantidium coli*, *Plesiomonas* |
+| Fever | Not highly discriminatory — viral, bacterial, and parasitic infections all cause fever. Higher temperatures suggest bacterial etiology or *E. histolytica*. Patients with STEC are usually **not** febrile at time of presentation |
+| Abdominal pain | STEC, *Salmonella*, *Shigella*, *Campylobacter*, *Yersinia*, noncholera *Vibrio* species, *C. difficile* |
+| Severe abdominal pain, often grossly bloody stools (occasionally nonbloody), minimal or no fever | STEC, *Salmonella*, *Shigella*, *Campylobacter*, *Yersinia enterocolitica* |
+| Persistent abdominal pain and fever | *Y. enterocolitica*, *Y. pseudotuberculosis*; may mimic appendicitis |
+| Nausea and vomiting lasting ≤24 h | Ingestion of *Staphylococcus aureus* enterotoxin or *Bacillus cereus* (short-incubation emetic syndrome) |
+| Diarrhea and abdominal cramping lasting 1–2 d | Ingestion of *Clostridium perfringens* or *B. cereus* (long-incubation emetic syndrome) |
+| Vomiting and nonbloody diarrhea lasting 2–3 d or less | Norovirus (low-grade fever usually present during the first 24 h in 40%) |
+| Chronic watery diarrhea, often lasting a year or more | Brainerd diarrhea (etiologic agent not identified); postinfectious irritable bowel syndrome |
+
+### Table 4 — Postinfectious Manifestations Associated With Enteric Pathogens
+
+| Manifestation | Organism(s) |
+|---|---|
+| Erythema nodosum | *Yersinia*, *Campylobacter*, *Salmonella*, *Shigella* |
+| Glomerulonephritis | *Shigella*, *Campylobacter*, *Yersinia* |
+| Guillain-Barré syndrome | *Campylobacter* |
+| Hemolytic anemia | *Campylobacter*, *Yersinia* |
+| Hemolytic uremic syndrome | STEC, *Shigella dysenteriae* serotype 1 |
+| Immunoglobulin A nephropathy | *Campylobacter* |
+| Reactive arthritis (includes Reiter syndrome) | *Salmonella*, *Shigella*, *Campylobacter*, *Yersinia*, rarely *Giardia*, *Cyclospora cayetanensis* |
+| Postinfectious irritable bowel syndrome | *Campylobacter*, *Salmonella*, *Shigella*, STEC, *Giardia* |
+| Meningitis | *Listeria*, *Salmonella* (infants ≤3 mo of age are at highest risk) |
+| Intestinal perforation | *Salmonella* including *Salmonella* Typhi, *Shigella*, *Campylobacter*, *Yersinia*, *Entamoeba histolytica* |
+| Ekiri syndrome (lethal toxic encephalopathy and/or seizure) | *Shigella* |
+| Aortitis, osteomyelitis, extravascular deep tissue focus | *Salmonella*, *Yersinia* |
+
+### Table 5 — Laboratory Diagnostics by Organism
+
+| Etiologic agent | Diagnostic procedure | Optimal specimen |
+|---|---|---|
+| *Clostridium difficile* | NAAT; or glutamate dehydrogenase (GDH) antigen with or without toxin detection followed by cytotoxin or *C. difficile* toxin or toxigenic *C. difficile* strain | Stool |
+| *Salmonella enterica*, *Shigella* spp, *Campylobacter* spp | Routine stool enteric pathogen culture or NAAT | Stool |
+| *S. enterica* serovars Typhi and Paratyphi (enteric fever) | Routine culture | Stool, blood, bone marrow, duodenal fluid |
+| STEC | Culture for *E. coli* O157:H7 **and** Shiga toxin immunoassay or NAAT for Shiga toxin genes | Stool |
+| *Yersinia* spp, *Plesiomonas* spp, *Edwardsiella tarda*, *S. aureus*, *E. coli* (enterotoxigenic, enteroinvasive, enteropathogenic, enteroaggregative) | Specialized stool culture or molecular assays, or NAAT | Stool |
+| *Clostridium perfringens* | Specialized procedure for toxin detection | Stool |
+| *Bacillus cereus*, *S. aureus* | Specialized procedure for toxin detection | Food |
+| *Clostridium botulinum* | Mouse lethality assay (state public health laboratory or Centers for Disease Control and Prevention [CDC]) | Serum, stool, gastric contents, vomitus |
+| *E. histolytica*, *Blastocystis hominis*, *Dientamoeba fragilis*, *Balantidium coli*, *Giardia lamblia*, nematodes (*Ascaris*, *Strongyloides*, *Trichuris*, hookworms), cestodes, trematodes | Ova and parasite examination including permanent stained smear, or NAAT | Stool; duodenal fluid for *Giardia* and *Strongyloides* |
+| *E. histolytica* | Species-specific immunoassay or NAAT | Stool |
+| *G. lamblia* | Enzyme immunoassay (EIA) or NAAT | Stool |
+| *Cryptosporidium* spp | Direct fluorescent immunoassay, EIA, or NAAT | Stool |
+| *Cyclospora cayetanensis*, *Cystoisospora belli* | Modified acid-fast stain on concentrated specimen, ultraviolet fluorescence microscopy, or NAAT | Stool |
+| Microsporidia (now classified as a fungus) | Modified trichrome stain on concentrated specimen; histologic examination with electron microscopic confirmation | Stool; small bowel biopsy |
+| Calicivirus (norovirus, sapovirus), enteric adenovirus, enterovirus/parechovirus, rotavirus | NAAT | Stool |
+| Rotavirus, enteric adenovirus | EIA | Stool |
+| Enteric adenovirus, enterovirus/parechovirus | Viral culture | Stool |
+| Cytomegalovirus | Histopathological examination; cytomegalovirus culture | Biopsy |
+
+- Routine stool culture in most laboratories = *Salmonella*, *Shigella*, *Campylobacter*, and *E. coli* O157 or Shiga toxin–producing *E. coli* — confirm with the testing laboratory.
+- Laboratories are recommended to process all stool specimens submitted for bacterial culture for the presence of STEC including O157:H7; in some laboratories O157:H7 testing is done only by specific request.
+- Specialized cultures/molecular assays may be required — notify the laboratory when one of these pathogens is suspected.
+- Detection of *Strongyloides* in stool may require the Baermann technique or agar plate culture.
+
+### Table 6 — Recommended Antimicrobial Agents by Pathogen
+
+*The guideline names agents only; Table 6 gives no doses or durations.*
+
+| Indication | First choice | Alternative | Comments / considerations |
+|---|---|---|---|
+| **Bacteria** | | | |
+| *Campylobacter* | Azithromycin | Ciprofloxacin | |
+| *C. difficile* | Oral vancomycin | Fidaxomicin | Fidaxomicin not currently recommended for people <18 y. Metronidazole still acceptable for nonsevere CDI in children, and second-line for adults with nonsevere CDI (eg, who cannot obtain vancomycin or fidaxomicin at reasonable cost) |
+| Nontyphoidal *S. enterica* | Usually **not** indicated for uncomplicated infection | Not applicable | Treat groups at increased risk of invasive infection: neonates (up to 3 mo old), persons >50 y with suspected atherosclerosis, immunosuppression, cardiac disease (valvular or endovascular), or significant joint disease. If susceptible — ceftriaxone, ciprofloxacin, trimethoprim-sulfamethoxazole (TMP-SMX), or amoxicillin |
+| *S. enterica* Typhi or Paratyphi | Ceftriaxone or ciprofloxacin | Ampicillin, or TMP-SMX, or azithromycin | If invasive disease suspected or confirmed, ceftriaxone preferred over ciprofloxacin (increasing ciprofloxacin resistance) |
+| *Shigella* | Azithromycin, or ciprofloxacin, or ceftriaxone | TMP-SMX or ampicillin if susceptible | Avoid fluoroquinolones if the ciprofloxacin minimum inhibitory concentration (MIC) is ≥0.12 µg/mL, even if the laboratory reports the isolate as susceptible. Most laboratories do not test azithromycin susceptibility |
+| *Vibrio cholerae* | Doxycycline | Ciprofloxacin, azithromycin, or ceftriaxone | Primary therapy is aggressive rehydration; antibiotics are adjunctive |
+| Non–*V. cholerae* | Usually not indicated for noninvasive disease; single-agent therapy if noninvasive disease is treated. Invasive disease: ceftriaxone **plus** doxycycline | Usually not indicated for noninvasive disease; single agent if treated. Invasive disease: TMP-SMX plus an aminoglycoside | |
+| *Y. enterocolitica* | TMP-SMX | Cefotaxime or ciprofloxacin | |
+| **Parasites** | | | |
+| *Cryptosporidium* spp | Nitazoxanide (human immunodeficiency virus [HIV]–uninfected; in HIV-infected, combined with effective combination antiretroviral therapy [cART]) | Effective cART — immune reconstitution may produce microbiologic and clinical response | Not applicable |
+| *Cyclospora cayetanensis* | TMP-SMX | Nitazoxanide (limited data) | HIV-infected patients may need higher doses or longer TMP-SMX durations |
+| *Giardia lamblia* | Tinidazole; or nitazoxanide (data from HIV-uninfected children) | Metronidazole (data from HIV-uninfected children) | Tinidazole approved in the US for children ≥3 y; tablets can be crushed. Metronidazole has frequent gastrointestinal side effects, no commercial pediatric suspension (can be compounded), and is not US Food and Drug Administration (FDA)–approved for giardiasis |
+| *Cystoisospora belli* | TMP-SMX | Pyrimethamine; potential second-line ciprofloxacin or nitazoxanide | |
+| *Trichinella* spp | Albendazole | Mebendazole | Less effective in late-stage infection, once larvae encapsulate in muscle |
+| **Fungus** | | | |
+| Microsporidia | Disseminated (non-ocular) and intestinal infection from microsporidia other than *Enterocytozoon bieneusi* or *Vittaforma corneae*: albendazole after starting cART and resolution of signs/symptoms. *E. bieneusi* or *V. corneae*: fumagillin | Not applicable | Effective cART — immune reconstitution may produce response. Fumagillin for systemic use is unavailable in the US and pediatric dosing data are lacking. Expert consultation recommended |
+
+*For US susceptibility patterns, see the National Antimicrobial Resistance Monitoring System (NARMS); susceptibility testing should be considered when selecting an agent.*
+
+### Table 7 — Fluid and Nutritional Management of Diarrhea
+
+| Degree of dehydration | Rehydration therapy | Replacement of losses during maintenance |
+|---|---|---|
+| Mild to moderate | Infants and children: ORS 50–100 mL/kg over 3–4 h.<br/>Adolescents and adults (≥30 kg): ORS 2–4 L | Infants and children — <10 kg body weight: 60–120 mL ORS per diarrheal stool or vomiting episode, up to ~500 mL/day; >10 kg: 120–240 mL ORS per episode, up to ~1 L/day.<br/>Adolescents and adults: ad libitum, up to ~2 L/day.<br/>Replace losses as long as diarrhea or vomiting continues |
+| Severe | Infants: malnourished infants may benefit from smaller-volume, frequent boluses of 10 mL/kg (reduced capacity to increase cardiac output with larger-volume resuscitation).<br/>Children, adolescents, adults: isotonic crystalloid boluses IV per current fluid resuscitation guidelines until pulse, perfusion, and mental status return to normal — up to 20 mL/kg body weight. Adjust electrolytes and give dextrose based on chemistry values | As above. If unable to drink, administer via nasogastric tube, or give 5% dextrose in 0.25 normal saline with 20 mEq/L potassium chloride intravenously |
+
+- Low-osmolarity ORS may be given at all ages for any cause of diarrhea; safe in hypernatremia and in hyponatremia (except when edema is present). Reduced-osmolarity ORS ≤270 mmol/L vs standard WHO-ORS 311 mmol/L.
+- Breastfed infants continue nursing throughout the illness.
+- After rehydration is complete, resume maintenance fluids with an age-appropriate normal diet offered every 3–4 h. Children previously on a lactose-containing formula can usually tolerate the same product; diluted formula confers no benefit.
+- No single validated scale grades dehydration severity in young children, and signs of dehydration may be masked when a child is hypernatremic.
+
+---
+
 ## Key Findings / Claims
 
 - **Temporal definitions (differ from ACG 2016):** acute <7 days; prolonged 7–13 days; persistent 14–29 days; chronic ≥30 days. WHO diarrhea definition = ≥3 loose/liquid stools per 24 h (or more than normal); loose "pasty" stools in breastfed infants are not diarrhea.
@@ -191,8 +324,20 @@ The guideline adds management points absent from the ACG acute-diarrhea guidelin
 - **Molecular caveat:** multiplex NAAT/GI panels detect nucleic acid, not necessarily viable organisms; positive bacterial results requiring public-health reporting should be reflex-cultured for subtyping and susceptibility.
 - **Supportive care:** reduced-osmolarity ORS is first-line for mild-moderate dehydration of any cause; isotonic IV fluids (lactated Ringer's [LR], normal saline [NS]) for severe dehydration/shock/ileus; continue breastfeeding and resume age-appropriate diet early.
 - **Age-specific ancillary care:** loperamide contraindicated <18 years (and in fever/inflammatory diarrhea/toxic-megacolon risk at any age); ondansetron may aid ORS tolerance in children >4 years; oral zinc shortens diarrhea in children 6 months–5 years in zinc-deficient/malnourished settings; probiotics may modestly reduce severity/duration.
-- **Vaccines:** rotavirus vaccine for all infants; typhoid vaccine for select travelers/contacts/lab staff with boosters; oral cholera vaccine for adults 18–64 traveling to affected areas.
-- **Public health:** notifiable enteric diseases (*Salmonella*, STEC, *Shigella*, *Listeria*, etc.) must be reported with isolate submission; outbreak specimens tested per public-health guidance; defer CDI management to IDSA/SHEA *C. difficile* guidelines.
+- **Vaccines — schedules and age limits:**
+  - Rotavirus: two live attenuated oral vaccines in the US — pentavalent (3-dose schedule) and monovalent (2-dose schedule); all infants without a contraindication.
+  - Typhoid: Ty21a live attenuated oral (enteric capsules), licensed for immunocompetent people including children ≥6 y, boost every 5 y. Parenteral Vi-polysaccharide, licensed for children ≥2 y and adults, boost every 2 y. Each gives 50%–80% protection; neither protects against *Salmonella* Paratyphi A, B, or C.
+  - Cholera: CVD 103-HgR live attenuated single-dose oral, for adults 18–64 y traveling to cholera-affected areas (endemic transmission, outbreak, or activity within the past year). Not required for entry to the US from a cholera-affected area; no country requires it for entry.
+- **Return to child care, work, or group activities (Rec 26 operative detail; jurisdictional rules vary — consult local public health):**
+  - *Salmonella* Typhi: 3 negative stool cultures obtained at least 24 h apart, at least 48 h after cessation of antimicrobial therapy, and not earlier than 1 month after symptom onset, for readmission of children and staff. If any culture grows *S.* Typhi — monthly stool cultures for the subsequent 12 months until 3 consecutive cultures are negative.
+  - Nontyphoidal *S. enterica* serovars: negative stool cultures typically **not** required for return to childcare.
+  - STEC: children excluded from child care until diarrhea resolves; 2 stool cultures negative for the organism typically required for readmission. Some jurisdictions now base exclusion on observed virulence and the virulence gene profile of the infecting strain.
+  - When repeat testing is required, use traditional culture — culture-independent tests do not show that living organisms are present and are not validated as proof of cure.
+- **Blood cultures — volume matters:** median magnitude of bacteremia is low (0.3 colony-forming units/mL in enteric fever, 1.0 in invasive nontyphoidal *S. enterica*), so 2–3 × 20-mL blood cultures are adequate in adults; lower volumes may suffice in infants and children, who have higher-magnitude bacteremia. Draw before antimicrobials. Aerobic blood culture sensitivity for enteric fever is ~50% compared with bone marrow culture.
+- **STEC risk signals and HUS monitoring detail:** ~10% of patients with laboratory-confirmed STEC who develop HUS do **not** have bloody diarrhea; abdominal tenderness and absence of fever at first evaluation independently raise the likelihood of STEC O157; ~65% of people infected with *E. coli* O157 have a peripheral WBC count >10 000 cells/µL. A single CBC does not define risk — monitor the platelet count trend daily during days 1–14 of illness; monitoring can stop once the platelet count begins to increase or stabilize in a patient with resolved or resolving symptoms. Rising creatinine, rising blood pressure, and volume overload warrant care in a center able to manage acute renal failure. Intravenous fluid given during the diarrhea phase reduces the risk of oligoanuric renal failure in those who subsequently develop HUS.
+- **Worsening course on or after antimicrobials:** consider antibiotic-associated (non–*C. difficile*) diarrhea; if hospitalized or healthcare-exposed, consider *C. difficile*, particularly with fever or leukocytosis >20 000 cells/µL, and send stool for toxin or a toxigenic strain plus culture and susceptibility.
+- **Traveler's diarrhea specifics:** most is self-limited and lasts <7 days; ~10% is parasitic (giardiasis most common), which can persist for weeks to months. Fluoroquinolone resistance in *Campylobacter* ranges from 56% in Mexico to >92% in Thailand while macrolide resistance stays <5% among US human isolates — hence azithromycin as primary therapy for traveler's diarrhea acquired in Thailand and first-line for *Campylobacter* in travelers elsewhere unless fluoroquinolone susceptibility is confirmed.
+- **Public health:** notifiable enteric diseases must be reported with isolate submission; outbreak specimens tested per public-health guidance; defer CDI management to IDSA/SHEA *C. difficile* guidelines. The 13 diarrhea-associated nationally notifiable conditions (2017) are campylobacteriosis, cholera, cryptosporidiosis, cyclosporiasis, giardiasis, postdiarrheal HUS, salmonellosis, STEC, shigellosis, trichinellosis (trichinosis), typhoid fever, vibriosis, and foodborne disease outbreak.
 
 ---
 
@@ -210,14 +355,15 @@ The guideline adds management points absent from the ACG acute-diarrhea guidelin
 
 - **Temporal cutoffs differ from ACG 2016:** IDSA defines acute as <7 days (with a separate "prolonged" 7–13 day band) and persistent as 14–29 days, whereas [[acg-2016-acute-diarrhea|ACG 2016]] uses acute <14 days and persistent 14–30 days. The wiki [[acute-diarrhea]] page uses the ACG framing; both are noted.
 - This is a 2017 guideline; multiplex GI polymerase chain reaction (PCR) panels (eg, BioFire FilmArray, 22 targets) have since become widespread and largely standard, amplifying Recommendation 14's caveat about interpreting positive nucleic-acid results (colonization vs infection, multiple detections).
-- CDI recommendations defer to the IDSA/SHEA *C. difficile* guidelines, which were "in development" at publication and have since been updated; see [[acg-2021-cdiff]].
+- **CDI therapy in Table 6 is superseded.** IDSA 2017 lists oral vancomycin first-line with fidaxomicin as the alternative, and calls metronidazole acceptable for nonsevere CDI in children and second-line in adults. Newer guidelines win: [[acg-2021-cdiff|ACG 2021]] and, more recently, [[aga-2026-cdiff-adults|AGA 2026]]. Use those for CDI management; IDSA 2017 itself defers to the separate IDSA/SHEA *C. difficile* document, which was "in development" at publication.
+- **Fidaxomicin age limit:** IDSA 2017 states fidaxomicin is "not currently recommended" for people <18 years — a 2017 labeling position, not a durable safety claim; check the newer CDI guidelines before applying it.
 - Probiotic guidance (Rec 49, weak) predates later, more cautious analyses (eg, [[aga-2020-probiotics|American Gastroenterological Association (AGA) 2020 probiotics guidance]] generally recommends against routine probiotics for most GI indications) — note the divergence.
 
 ---
 
 ## See Also
 
-[[acute-diarrhea]], [[salmonella-infection]], [[shigellosis]], [[campylobacter-infection]], [[clostridioides-difficile]], [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[fever-returning-traveler]], [[postinfectious-ibs]], [[irritable-bowel-syndrome]]
+[[acute-diarrhea]], [[salmonella-infection]], [[shigellosis]], [[campylobacter-infection]], [[clostridioides-difficile]], [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[norovirus]], [[rotavirus]], [[enterotoxigenic-e-coli]], [[loperamide]], [[probiotics]], [[nitazoxanide]], [[fever-returning-traveler]], [[postinfectious-ibs]], [[irritable-bowel-syndrome]]
 
 ---
 
