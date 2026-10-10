@@ -3,7 +3,7 @@ title: "Endoscopic Ultrasound (EUS)"
 category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
-updated: 2026-10-07
+updated: 2026-10-10
 sources: [asge-2023-ergonomics, acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -218,7 +218,7 @@ From [[asge-2011-eus-mediastinal-adenopathy]]:
 
 ## See Also
 
-[[pancreatic-cysts]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[ercp]], [[cholangioscopy]], [[subepithelial-lesion]], [[liver-biopsy]], [[choledocholithiasis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[chronic-pancreatitis]], [[biliary-stricture]], [[eus-guided-biliary-drainage]], [[eus-guided-gallbladder-drainage]], [[pancreatic-fluid-collection-drainage]], [[interventional-eus-vascular]], [[antibiotic-prophylaxis-endoscopy]], [[mri-mrcp]], [[gastric-outlet-obstruction]], [[bariatric-surgery]], [[celiac-plexus-block]], [[endoscopy-ergonomics]]
+[[pancreatic-cysts]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[ercp]], [[cholangioscopy]], [[subepithelial-lesion]], [[liver-biopsy]], [[choledocholithiasis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[chronic-pancreatitis]], [[biliary-stricture]], [[eus-guided-biliary-drainage]], [[eus-guided-gallbladder-drainage]], [[pancreatic-fluid-collection-drainage]], [[interventional-eus-vascular]], [[antibiotic-prophylaxis-endoscopy]], [[mri-mrcp]], [[gastric-outlet-obstruction]], [[bariatric-surgery]], [[celiac-plexus-block]], [[endoscopy-ergonomics]], [[endoscopy-sedation]]
 
 ---
 

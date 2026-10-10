@@ -22,6 +22,7 @@ sources: [asge-2023-ergonomics, aga-2021-colonoscopy-quality, usmstf-2020-follow
   - [[#Standard Regimen (Average-Risk Ambulatory Patient)]]
   - [[#GLP-1 Receptor Agonists]]
   - [[#High-Risk Patients (Prior Inadequate Prep or Risk Factors)]]
+  - [[#Agent Safety and Special Populations]]
   - [[#Quality and Tracking]]
   - [[#Preparation Quality Scales]]
 - [[#Post-CRC Resection Surveillance]]
@@ -187,7 +188,15 @@ For detailed technique, see [[polypectomy]].
 
 **Salvage options when the prep is inadequate on insertion:** concerted washing/suctioning (converted 75% of poor/fair preps to good/excellent in one prospective series of 525 patients); right-colon **enema** instillation with the patient in right lateral decubitus, then recovery, spontaneous evacuation and repeat colonoscopy later the same day (**polyethylene glycol (PEG) 500–1000 mL or bisacodyl 10 mg**; success **53–100%**); or waking the patient fully and giving further oral purgative — **an additional 2 L PEG beat a 1 L PEG enema, 82% vs 53%** — with same-day colonoscopy (allowing 2 h from the last purgative dose) or, more often feasibly, next-day.
 
+**Salvage regimens with their doses** ([[acg-2014-bowel-cleansing]] — no single salvage strategy has enough evidence to be recommended over the others):
+
+- **Through-the-scope enema** — pass the colonoscope as proximally as possible, then instil through the accessory channel either a **phosphate enema (133 mL / 19 g)** followed by a **bisacodyl enema (37 mL / 10 mg)**, or **2 bisacodyl enemas**: colon well prepared in all 21 adults. A **500 mL PEG–electrolyte lavage solution (PEG-ELS) rescue enema** instilled at the **hepatic flexure** through the biopsy channel cleansed **96% (25/26)**. Recover the patient from propofol and let them evacuate before completing the examination.
+- **Intensive re-preparation before a repeat colonoscopy**, after a previously failed outpatient exam (51 patients): low-fiber diet **72 h**, liquid diet the day before, **bisacodyl 10 mg + 1.5 L PEG-ELS the evening before**, then a **second 1.5 L PEG-ELS on the day** of the colonoscopy → **90% (46/51)** adequate (**Boston Bowel Preparation Scale (BBPS) ≥2 in every segment**).
+- **Ask about effluent before sedation** — brown liquid or solid effluent on arrival carries a **54%** chance of a fair or poor preparation, and identifying it early is what makes salvage possible. A second colonoscopy done specifically for inadequate preparation fails again for the same reason in **23% (54/235)**; **next-day** timing carried the lowest risk of repeat failure (odds ratio [OR] 0.31; 95% CI 0.1–0.92).
+
 **Against:** Hyperosmotic agents in volume overload/electrolyte disturbance risk (Strong/High); non-simethicone adjuncts routinely (Weak/Low).
+
+⚠ **The adjunct stance reversed between the two documents.** [[acg-2014-bowel-cleansing|USMSTF 2014]] recommended **against routine adjunctive agents** (weak, moderate): simethicone cleared intraluminal bubbles (OR 39.3; 11.4–135.9) without improving overall cleansing efficacy (OR 2.06; 0.56–7.53; *P* = 0.27) at the **120–240 mg, or 45 mL of a 30% solution**, doses then studied. The 2025 **≥320 mg** suggestion in the table above is what this page follows.
 
 ### GLP-1 Receptor Agonists
 
@@ -195,7 +204,7 @@ For detailed technique, see [[polypectomy]].
 
 [[glp-1-receptor-agonists|Glucagon-like peptide-1 receptor agonists (GLP-1 RAs)]] ([[semaglutide]], liraglutide, tirzepatide, etc.) delay gastric emptying and are associated with increased aspiration risk during [[endoscopy-sedation|procedural sedation]].
 
-- ⚠ **The bowel-prep guideline addresses GLP-1 RAs only in the aspiration / purgative-timing context** — *"newer agents such as GLP-1 receptor agonists that delay gastric emptying may also affect the timing of when to cease drinking a bowel preparation purgative."* GLP-1 use is **not** among its listed risk factors for inadequate preparation, and it recommends no high-risk prep modification for it. The [[gastroparesis]] odds ratio (OR) **1.6** for inadequate preparation belongs to gastroparesis alone — do not apply it to GLP-1 RA use.
+- ⚠ **The bowel-prep guideline addresses GLP-1 RAs only in the aspiration / purgative-timing context** — *"newer agents such as GLP-1 receptor agonists that delay gastric emptying may also affect the timing of when to cease drinking a bowel preparation purgative."* GLP-1 use is **not** among its listed risk factors for inadequate preparation, and it recommends no high-risk prep modification for it. The [[gastroparesis]] OR **1.6** for inadequate preparation belongs to gastroparesis alone — do not apply it to GLP-1 RA use.
 - Follow anesthesia unit protocol for medication hold prior to sedation (American Society of Anesthesiologists [ASA] consensus: hold weekly GLP-1 agonists **1 week** before elective procedure; daily dosing hold day-of). **AGA 2024** favors an individualized approach over routine cessation — standard fast + no gastrointestinal (GI) symptoms → proceed; see [[endoscopy-sedation#GLP-1 Receptor Agonists Before Endoscopy|endoscopy-sedation]]. [[aga-2024-glp1-endoscopy]]
 - Provide enhanced counseling about aspiration risk and prep adherence
 
@@ -205,7 +214,46 @@ For detailed technique, see [[polypectomy]].
 
 **Modifications (Strong/Moderate):** ≥1 of — improved instruction delivery, increased navigation, restrict vegetables/legumes 2–3 days prior, clear liquids only day before, promotility agents, treat [[chronic-constipation|constipation]], hold anticholinergic/opioid meds, switch to high-volume prep.
 
-**Specific high-risk regimen (Weak/Low):** Split-dose 4L PEG–electrolyte lavage solution (PEG-ELS) + bisacodyl 15mg afternoon before + low-residue diet 3 and 2 days prior + clear liquids day before.
+**Specific high-risk regimen (Weak/Low):** Split-dose 4L PEG-ELS + bisacodyl 15mg afternoon before + low-residue diet 3 and 2 days prior + clear liquids day before.
+
+**Additional independent predictors** ([[acg-2014-bowel-cleansing]]; 10 multivariate studies, 25,376 participants, preparation inadequate 23.8% overall):
+
+- **≥8 prescription medications — OR 6.52 (5.12–8.56)**; the strongest single factor
+- **Prior colorectal surgery — OR 1.6 (1.2–2.2)**, and OR 7.5 (3.4–17.6) in one prospective study. Inadequate in **59.7%** after colonic and **64%** after gastric resection despite 4 L PEG-ELS on the morning of the exam
+- **ASA physical status class III–V vs class I — OR 0.51 (0.32–0.73)** for achieving a high-quality preparation
+- **Inpatient status** — significant in 4 studies
+- ⚠ Once split dosing is used the best multivariate model discriminates only modestly (**area under the receiver operating characteristic curve 0.63** in validation) — apply the modifications above rather than relying on a risk score.
+
+### Agent Safety and Special Populations
+
+[[acg-2014-bowel-cleansing]]
+
+**Sodium phosphate (NaP) — not recommended** in any of:
+
+| Contraindication | Threshold |
+|---|---|
+| Renal insufficiency | **Creatinine clearance <60 mL/min/1.73 m²** |
+| Pre-existing electrolyte disturbance | — |
+| Congestive heart failure | **New York Heart Association (NYHA) class III or IV**, or **ejection fraction <50%** |
+| Cirrhosis, or ascites | — |
+
+- **Caution rather than a bar:** elderly, hypertensive, or taking angiotensin-converting enzyme inhibitors, nonsteroidal anti-inflammatory drugs (NSAIDs), or diuretics.
+- **Also avoid NaP** in children **<12 y**, in anyone with risk factors for complications from it, and in **known or suspected IBD**.
+- **NaP-induced acute phosphate nephropathy — risk factors:** female sex, pre-existing renal insufficiency, **inadequate hydration during the preparation**, **<12 h between the 2 NaP doses**, hypertension, older age, and diuretics / NSAIDs / renin–angiotensin inhibitors. Oral NaP left the United States over-the-counter market in 2008; a prescription tablet remains, carrying a boxed warning.
+
+**NaP and sodium picosulfate can produce mucosal lesions that mimic early IBD.** Preparation-induced mucosal inflammation was **10-fold greater** with either agent than with PEG (*P* = 0.03 for each); aphthoid-like lesions in **24.5%** after NaP vs **2.3%** after PEG; mucosal lesions in **3.3%** of 730 patients with no known IBD. The changes can resemble Crohn's disease endoscopically, but the **histologic appearance is distinctive and separates them from idiopathic IBD** — biopsy before letting a prep-day finding become an IBD diagnosis.
+
+**Other agent limits:**
+
+- **Magnesium-based preparations — avoid in chronic kidney disease** (all formulations); a PEG-ELS–based regimen is preferred. Magnesium citrate **300 mL ×3** added to NaP **45 mL ×2** gave good or excellent cleansing in **94%** (right) and **97%** (left) colon, with a transient rise in serum magnesium.
+- **PEG-ELS is iso-osmotic** → often preferred where fluid shifts are poorly tolerated: renal insufficiency, congestive heart failure, advanced liver disease.
+- **Senna** — high dose = **24 tablets of 12 mg** (as effective as 4 L PEG-ELS, but significantly more cramping and abdominal pain); low dose = **3–12 tablets** with 2 L PEG-ELS.
+
+**Special populations:**
+
+- **After [[bariatric-surgery|bariatric surgery]]:** low-volume preparations, or **extended-time delivery** of a high-volume preparation.
+- **Pregnancy:** colonoscopy is rarely indicated — defer to the **second trimester** where possible. **Tap water enemas** to prepare for sigmoidoscopy. PEG-ELS and NaP are both United States pregnancy category C; AGA recommends avoiding NaP, ASGE advises caution with it because of possible fluid and electrolyte abnormalities.
+- **Elderly** and **spinal cord injury:** no regimen has sufficient evidence to be specified; consider additional bowel purgatives — and no NaP in the elderly.
 
 ### Quality and Tracking
 
@@ -213,14 +261,16 @@ For detailed technique, see [[polypectomy]].
 - Document prep quality (adequate vs inadequate) in procedure report; note descriptors after all washing/suctioning
 - If patient reports incomplete adherence: insert scope to sigmoid before aborting
 - Inadequate prep → reschedule: within **12 months** for screening/surveillance; within **3 months** for positive non-colonoscopy CRC test
+- **Advanced neoplasia detected *and* the preparation inadequate → repeat sooner than 1 year**, generally with a more aggressive regimen [[acg-2014-bowel-cleansing]]
+- Make the preliminary judgement **in the rectosigmoid**: on a screening/surveillance exam, prep clearly inadequate for detecting polyps **>5 mm** → terminate and reschedule, **or** deliver additional cleansing and continue the same day [[acg-2014-bowel-cleansing]]
 
 ### Preparation Quality Scales
 
-Grade prep **after** all washing/suctioning is complete ([[asge-2015-bowel-preparation]]).
+Grade prep **after** all washing/suctioning is complete ([[asge-2015-bowel-preparation]]). The criteria for all three scales are reproduced by both [[asge-2015-bowel-preparation]] and [[acg-2014-bowel-cleansing]]; a usable scale must be both **valid** (measures what it intends, by expert assessment) and **reliable** (reproducible between observers).
 
 | Scale | Scored on | Range | Anchors |
 |---|---|---|---|
-| **Boston Bowel Preparation Scale (BBPS)** | Each of 3 segments (right, transverse, left), 0–3 each, **after all cleansing maneuvers** | **0** (very poor) – **9** (excellent) | 0 unprepared, stool cannot be cleared; 1 portion of mucosa seen, rest obscured; 2 minor residual material, mucosa generally well seen; 3 entire mucosa well seen |
+| **BBPS** | Each of 3 segments (right, transverse, left), 0–3 each, **after all cleansing maneuvers** | **0** (very poor) – **9** (excellent) | 0 unprepared, stool cannot be cleared; 1 portion of mucosa seen, rest obscured; 2 minor residual material, mucosa generally well seen; 3 entire mucosa well seen |
 | **Ottawa Bowel Preparation Scale** | Each of 3 segments (right, transverse/descending, sigmoid/rectum) 0–4, **plus** whole-colon fluid score (0 small, 1 moderate, 2 large) | **0** (excellent) – **14** (very poor) | Per segment: 0 excellent (mucosal detail clearly visible); 1 good (minimal turbid fluid); 2 fair (must suction to view); 3 poor (must wash and suction); 4 inadequate (solid stool not cleared) |
 | **Aronchick Scale** | Whole colon (segments not evaluated) | **1**–**5** | 1 excellent (>95% mucosa seen); 2 good (clear liquid over ≤25% mucosa, >90% seen); 3 fair (semisolid stool not suctionable, >90% seen); 4 poor (semisolid stool not suctionable, <90% seen); 5 inadequate (repeat prep needed) |
 
@@ -230,6 +280,9 @@ Grade prep **after** all washing/suctioning is complete ([[asge-2015-bowel-prepa
   - On a **non-screening/surveillance** colonoscopy the prep may be **adequate for that indication** (e.g. [[chronic-diarrhea|diarrhea]], hematochezia) while still **inadequate for screening/surveillance** — the report must state the distinction so the right interval is assigned.
   - The word **"fair" is not an adequacy statement** — whenever it is used it must be accompanied by an explicit statement of whether standard screening/surveillance intervals can be assigned.
 - **BBPS** is validated and reliable; **Aronchick** is a global rating best suited to *comparing preparations* (quality on initial inspection); **Ottawa** was validated against Aronchick ([[asge-2015-bowel-preparation]])
+- **Why only BBPS is recommended for practice** ([[acg-2014-bowel-cleansing]]): BBPS intra-observer weighted κ **0.77**, interobserver intraclass correlation **0.74** — the best data of any scale, and the only one that does **not** downgrade for retained fluid. **Aronchick** intraclass correlations run **0.79 (cecum) to 0.31 (distal colon)** and it penalises retained fluid → **not recommended for clinical practice**. **Ottawa** correlates better than Aronchick (Pearson 0.89 vs 0.62; κ/intraclass 0.94 vs 0.77) but **scores the preparation before washing and suctioning** → also **not recommended for clinical practice**; observers need a calibration exercise before using it for a study or audit.
+- **Examination aborted for inadequate preparation → score the unseen proximal segments 0** ([[acg-2014-bowel-cleansing]])
+- ⚠ **The 2014 and 2025 cut-points are not the same rule.** The scale's developers set **total BBPS <5 = inadequate** *a priori* and [[acg-2014-bowel-cleansing|USMSTF 2014]] operated at **≥5** — so a total of 5 built from segment scores 3/2/0 is adequate by that threshold and **inadequate** by the 2025 segment rule above. **Use the segment rule.**
 - USMSTF definition of an **adequate examination**: one allowing confidence that lesions other than small (≤5 mm) polyps were generally not obscured by residual colonic contents ([[asge-2015-bowel-preparation]])
 
 ---

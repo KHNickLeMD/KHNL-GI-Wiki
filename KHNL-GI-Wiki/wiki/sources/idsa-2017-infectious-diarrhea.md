@@ -3,8 +3,39 @@ title: "IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management 
 category: source
 tags: [diarrhea, infectious-diarrhea, gastroenteritis, dysentery, stec, hus, enteric-fever, typhoid, salmonella, shigella, campylobacter, cryptosporidium, giardia, travelers-diarrhea, ors, loperamide, probiotics, zinc, vaccine, public-health, idsa]
 created: 2026-06-11
-updated: 2026-10-09
+updated: 2026-10-10
 sources: []
+---
+
+## Contents
+- [[#Bibliographic Info]]
+- [[#Summary]]
+- [[#All Recommendations (1–60)]]
+  - [[#Clinical, Demographic, and Epidemiologic Features]]
+  - [[#Diagnostics]]
+  - [[#Follow-up Evaluation]]
+  - [[#Empiric Management — Bloody Diarrhea]]
+  - [[#Empiric Management — Watery Diarrhea]]
+  - [[#Directed Management]]
+  - [[#Supportive Treatment — Rehydration]]
+  - [[#Feeding]]
+  - [[#Ancillary Management]]
+  - [[#Probiotics and Zinc]]
+  - [[#Treatment of Asymptomatic Carriers]]
+  - [[#Prevention]]
+- [[#Guideline Tables]]
+  - [[#Table 2 — Exposure or Condition Associated With Pathogens Causing Diarrhea]]
+  - [[#Table 3 — Clinical Presentations Suggestive of Infectious Diarrhea Etiologies]]
+  - [[#Table 4 — Postinfectious Manifestations Associated With Enteric Pathogens]]
+  - [[#Table 5 — Laboratory Diagnostics by Organism]]
+  - [[#Table 6 — Recommended Antimicrobial Agents by Pathogen]]
+  - [[#Table 7 — Fluid and Nutritional Management of Diarrhea]]
+- [[#Key Findings / Claims]]
+- [[#Relevance to Wiki]]
+- [[#Contradictions / Open Questions]]
+- [[#See Also]]
+- [[#Sources]]
+
 ---
 
 ## Bibliographic Info
@@ -32,7 +63,7 @@ The guideline adds management points absent from the ACG acute-diarrhea guidelin
 
 ## All Recommendations (1–60)
 
-> The guideline answers 21 clinical questions with 60 numbered recommendations. Each carries IDSA's own grade *(strength of recommendation, quality of evidence)* — strength **strong** or **weak**; quality **high**, **moderate**, **low**, or **very low**. Numbering and grades below are exactly as published; short statements are kept near-verbatim, long ones condensed.
+> The guideline answers 21 clinical questions (I–XXI) with 60 numbered recommendations. Each carries IDSA's own grade *(strength of recommendation, quality of evidence)* — strength **strong** or **weak**; quality **high**, **moderate**, **low**, or **very low**. Recommendation numbers and grades below are the document's own; short statements are kept near-verbatim, long ones condensed. Subsection headings group the recommendations by the guideline's question sequence.
 
 ### Clinical, Demographic, and Epidemiologic Features
 
@@ -100,7 +131,7 @@ The guideline adds management points absent from the ACG acute-diarrhea guidelin
 
 ### Empiric Management — Bloody Diarrhea
 
-**30.** In immunocompetent children and adults, empiric antimicrobial therapy for bloody diarrhea while awaiting results is NOT recommended *(strong, low)*, except: (a) infants <3 months with suspicion of bacterial etiology; (b) ill immunocompetent people with documented fever, abdominal pain, bloody diarrhea, and bacillary dysentery presumptively due to *Shigella*; (c) people recently traveled internationally with temperature ≥38.5°C and/or signs of sepsis *(weak, low)*.
+**30.** In immunocompetent children and adults, empiric antimicrobial therapy for bloody diarrhea while awaiting results is NOT recommended *(strong, low)*, except: (a) infants <3 months with suspicion of bacterial etiology; (b) ill immunocompetent people with fever documented in a medical setting, abdominal pain, bloody diarrhea, and bacillary dysentery (frequent scant bloody stools, fever, abdominal cramps, tenesmus) presumptively due to *Shigella*; (c) people who have recently travelled internationally with body temperature ≥38.5°C and/or signs of sepsis *(weak, low)*.
 
 **31.** Empiric antimicrobial therapy in adults should be either a fluoroquinolone (eg, ciprofloxacin) or azithromycin, depending on local susceptibility patterns and travel history *(strong, moderate)*. Empiric therapy for children includes a third-generation cephalosporin for infants <3 months and others with neurologic involvement, or azithromycin, depending on local susceptibility and travel history *(strong, moderate)*.
 
@@ -156,7 +187,7 @@ The guideline adds management points absent from the ACG acute-diarrhea guidelin
 
 ### Treatment of Asymptomatic Carriers
 
-**51.** Asymptomatic people who practice hand hygiene and live/work in low-risk settings do not need treatment, except asymptomatic people with *Salmonella* Typhi in their stool who may be treated empirically to reduce transmission *(weak, low)*. Those in high-risk settings (healthcare, child/elderly care, food service) should be treated per local public health guidance *(strong, high)*.
+**51.** Asymptomatic people who practice hand hygiene and live/work in low-risk settings (do not provide healthcare or child or elderly adult care, and are not food service employees) do not need treatment, except asymptomatic people with *Salmonella* Typhi in their stool who may be treated empirically to reduce potential for transmission *(weak, low)*. Those who live/work in high-risk settings (provide healthcare or child or elderly adult care, or are food service employees) should be treated per local public health guidance *(strong, high)*.
 
 ### Prevention
 
@@ -182,7 +213,7 @@ The guideline adds management points absent from the ACG acute-diarrhea guidelin
 
 ## Guideline Tables
 
-*Table 1 is a resource list of external guideline URLs (travel, immunocompromised hosts, foodborne/waterborne, C. difficile, childcare, long-term care, zoonoses) and is not reproduced.*
+*Table 1 ("Modes of Acquisition of Enteric Organisms and Sources of Guidelines") holds no clinical criteria — it is a directory of external guideline URLs covering international travel, immunocompromised hosts, foodborne and waterborne disease, C. difficile, healthcare-associated infection, child care and long-term care settings, and zoonoses.*
 
 ### Table 2 — Exposure or Condition Associated With Pathogens Causing Diarrhea
 
@@ -206,7 +237,7 @@ The guideline adds management points absent from the ACG acute-diarrhea guidelin
 | Pig feces in certain parts of the world | *Balantidium coli* |
 | Contact with young poultry or reptiles | Nontyphoidal *Salmonella* |
 | Visiting a farm or petting zoo | STEC, *Cryptosporidium*, *Campylobacter* |
-| **Host condition** | |
+| **Exposure or condition** | |
 | Age group | Rotavirus (6–18 mo), nontyphoidal *Salmonella* (birth to 3 mo of age, and >50 y with a history of atherosclerosis), *Shigella* (1–7 y), *Campylobacter* (young adults) |
 | Underlying immunocompromising condition | Nontyphoidal *Salmonella*, *Cryptosporidium*, *Campylobacter*, *Shigella*, *Yersinia* |
 | Hemochromatosis or hemoglobinopathy | *Y. enterocolitica*, *Salmonella* |
@@ -295,7 +326,7 @@ The guideline adds management points absent from the ACG acute-diarrhea guidelin
 | *Cystoisospora belli* | TMP-SMX | Pyrimethamine; potential second-line ciprofloxacin or nitazoxanide | |
 | *Trichinella* spp | Albendazole | Mebendazole | Less effective in late-stage infection, once larvae encapsulate in muscle |
 | **Fungus** | | | |
-| Microsporidia | Disseminated (non-ocular) and intestinal infection from microsporidia other than *Enterocytozoon bieneusi* or *Vittaforma corneae*: albendazole after starting cART and resolution of signs/symptoms. *E. bieneusi* or *V. corneae*: fumagillin | Not applicable | Effective cART — immune reconstitution may produce response. Fumagillin for systemic use is unavailable in the US and pediatric dosing data are lacking. Expert consultation recommended |
+| Microsporidia | Disseminated (not ocular) and intestinal infection attributed to microsporidia other than *Enterocytozoon bieneusi* or *Vittaforma corneae*: albendazole after starting cART and resolution of signs/symptoms. *E. bieneusi* or *V. corneae* infections: fumagillin (recommended for *E. bieneusi* infection in HIV-infected adults) | Not applicable | Effective cART — immune reconstitution may produce response. Fumagillin for systemic use is unavailable in the US and pediatric dosing data are lacking. Expert consultation recommended |
 
 *For US susceptibility patterns, see the National Antimicrobial Resistance Monitoring System (NARMS); susceptibility testing should be considered when selecting an agent.*
 
@@ -334,7 +365,8 @@ The guideline adds management points absent from the ACG acute-diarrhea guidelin
   - STEC: children excluded from child care until diarrhea resolves; 2 stool cultures negative for the organism typically required for readmission. Some jurisdictions now base exclusion on observed virulence and the virulence gene profile of the infecting strain.
   - When repeat testing is required, use traditional culture — culture-independent tests do not show that living organisms are present and are not validated as proof of cure.
 - **Blood cultures — volume matters:** median magnitude of bacteremia is low (0.3 colony-forming units/mL in enteric fever, 1.0 in invasive nontyphoidal *S. enterica*), so 2–3 × 20-mL blood cultures are adequate in adults; lower volumes may suffice in infants and children, who have higher-magnitude bacteremia. Draw before antimicrobials. Aerobic blood culture sensitivity for enteric fever is ~50% compared with bone marrow culture.
-- **STEC risk signals and HUS monitoring detail:** ~10% of patients with laboratory-confirmed STEC who develop HUS do **not** have bloody diarrhea; abdominal tenderness and absence of fever at first evaluation independently raise the likelihood of STEC O157; ~65% of people infected with *E. coli* O157 have a peripheral WBC count >10 000 cells/µL. A single CBC does not define risk — monitor the platelet count trend daily during days 1–14 of illness; monitoring can stop once the platelet count begins to increase or stabilize in a patient with resolved or resolving symptoms. Rising creatinine, rising blood pressure, and volume overload warrant care in a center able to manage acute renal failure. Intravenous fluid given during the diarrhea phase reduces the risk of oligoanuric renal failure in those who subsequently develop HUS.
+- **STEC risk signals and HUS monitoring detail:** consider STEC in any patient with bloody diarrhea, even when fever is present and particularly when it is absent. ~10% of patients with laboratory-confirmed STEC who develop HUS do **not** have bloody diarrhea; abdominal tenderness and absence of fever at first evaluation independently raise the likelihood of STEC O157; ~65% of people infected with *E. coli* O157 have a peripheral WBC count >10 000 cells/µL. A single CBC does not define risk — monitor the platelet count trend daily during days 1–14 of illness; monitoring can stop once the platelet count begins to increase or stabilize in a patient with resolved or resolving symptoms. Rising creatinine, rising blood pressure, and volume overload warrant care in a center able to manage acute renal failure. Intravenous fluid given during the diarrhea phase reduces the risk of oligoanuric renal failure among children who subsequently develop HUS. After diarrhea-associated HUS, follow up regularly until laboratory and clinical parameters normalize — renal function, anemia, thrombocytopenia; the guideline sets no follow-up interval.
+- **Which antibiotics to avoid in STEC (Rec 35 rationale):** fluoroquinolones, β-lactams, TMP-SMX, and metronidazole are to be avoided at all ages in STEC O157 and in likely non-O157 STEC producing Shiga toxin 2, because of evidence of harm. Data on macrolides are very limited — insufficient evidence of benefit and some evidence of harm avoidance. For less virulent STEC (not producing Shiga toxin 2) data are insufficient; because the Shiga toxin profile is often unknown when treatment is considered, and no clear benefit exists, avoidance of antibiotics is recommended.
 - **Worsening course on or after antimicrobials:** consider antibiotic-associated (non–*C. difficile*) diarrhea; if hospitalized or healthcare-exposed, consider *C. difficile*, particularly with fever or leukocytosis >20 000 cells/µL, and send stool for toxin or a toxigenic strain plus culture and susceptibility.
 - **Traveler's diarrhea specifics:** most is self-limited and lasts <7 days; ~10% is parasitic (giardiasis most common), which can persist for weeks to months. Fluoroquinolone resistance in *Campylobacter* ranges from 56% in Mexico to >92% in Thailand while macrolide resistance stays <5% among US human isolates — hence azithromycin as primary therapy for traveler's diarrhea acquired in Thailand and first-line for *Campylobacter* in travelers elsewhere unless fluoroquinolone susceptibility is confirmed.
 - **Public health:** notifiable enteric diseases must be reported with isolate submission; outbreak specimens tested per public-health guidance; defer CDI management to IDSA/SHEA *C. difficile* guidelines. The 13 diarrhea-associated nationally notifiable conditions (2017) are campylobacteriosis, cholera, cryptosporidiosis, cyclosporiasis, giardiasis, postdiarrheal HUS, salmonellosis, STEC, shigellosis, trichinellosis (trichinosis), typhoid fever, vibriosis, and foodborne disease outbreak.
@@ -354,6 +386,7 @@ The guideline adds management points absent from the ACG acute-diarrhea guidelin
 ## Contradictions / Open Questions
 
 - **Temporal cutoffs differ from ACG 2016:** IDSA defines acute as <7 days (with a separate "prolonged" 7–13 day band) and persistent as 14–29 days, whereas [[acg-2016-acute-diarrhea|ACG 2016]] uses acute <14 days and persistent 14–30 days. The wiki [[acute-diarrhea]] page uses the ACG framing; both are noted.
+- **The guideline is internally inconsistent on the acute band.** Its text defines acute diarrhea as lasting <7 days with a separate prolonged category of 7–13 days, while Figure 1 labels acute diarrhea "0 through 13 days" (collapsing acute and prolonged). Persistent (14–29 days) and chronic (≥30 days) agree in both. Use the text bands when the 7-day distinction matters.
 - This is a 2017 guideline; multiplex GI polymerase chain reaction (PCR) panels (eg, BioFire FilmArray, 22 targets) have since become widespread and largely standard, amplifying Recommendation 14's caveat about interpreting positive nucleic-acid results (colonization vs infection, multiple detections).
 - **CDI therapy in Table 6 is superseded.** IDSA 2017 lists oral vancomycin first-line with fidaxomicin as the alternative, and calls metronidazole acceptable for nonsevere CDI in children and second-line in adults. Newer guidelines win: [[acg-2021-cdiff|ACG 2021]] and, more recently, [[aga-2026-cdiff-adults|AGA 2026]]. Use those for CDI management; IDSA 2017 itself defers to the separate IDSA/SHEA *C. difficile* document, which was "in development" at publication.
 - **Fidaxomicin age limit:** IDSA 2017 states fidaxomicin is "not currently recommended" for people <18 years — a 2017 labeling position, not a durable safety claim; check the newer CDI guidelines before applying it.

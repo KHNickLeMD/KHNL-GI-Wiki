@@ -3,7 +3,7 @@ title: "ERCP (Endoscopic Retrograde Cholangiopancreatography)"
 category: advanced-procedure
 tags: [ercp, biliary, pancreatic, hepatobiliary, sphincterotomy, stent, stone-extraction]
 created: 2026-05-16
-updated: 2026-10-07
+updated: 2026-10-10
 sources: [asge-2023-ergonomics, asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, aga-2026-electrosurgery, aga-2021-gi-perforations-endoscopic-management, aga-2016-infection-ercp-endoscopes, aga-2017-mstf-endoscope-reprocessing-commentary]
 ---
 
@@ -140,7 +140,7 @@ Benchmarks stated in [[asge-2015-ercp-benign-biliary]]:
 
 ## See Also
 
-[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[biliary-stricture]], [[choledocholithiasis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[eus-guided-biliary-drainage]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]], [[acute-cholecystitis]], [[anticoagulation-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[device-assisted-enteroscopy]], [[electrosurgery]], [[endoscopic-hemostasis]], [[bariatric-surgery]], [[ampullary-adenoma]], [[fish]], [[endoscopic-management-of-perforation]], [[endoscope-reprocessing]], [[endoscopy-ergonomics]]
+[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[biliary-stricture]], [[choledocholithiasis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[eus-guided-biliary-drainage]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]], [[acute-cholecystitis]], [[anticoagulation-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[device-assisted-enteroscopy]], [[electrosurgery]], [[endoscopic-hemostasis]], [[bariatric-surgery]], [[ampullary-adenoma]], [[fish]], [[endoscopic-management-of-perforation]], [[endoscope-reprocessing]], [[endoscopy-ergonomics]], [[endoscopy-sedation]]
 
 ---
 

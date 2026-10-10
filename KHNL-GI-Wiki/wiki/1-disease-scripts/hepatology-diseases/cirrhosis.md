@@ -3,7 +3,7 @@ title: "Cirrhosis"
 category: disease-script
 tags: [cirrhosis, liver, hpb, decompensation, compensated, meld, child-pugh, vocal-penn, csph, portal-hypertension, fibrosis, f4, nilda, fib-4, elastography, perioperative, frailty, palliative-care, liver-transplant]
 created: 2026-07-16
-updated: 2026-09-22
+updated: 2026-10-10
 sources: [aasld-2023-portal-hypertension, aasld-2024-nilda-blood, aasld-2024-nilda-portal-htn, acg-2025-perioperative-cirrhosis, aasld-2021-ascites-sbp-hrs, aasld-2021-malnutrition-cirrhosis, aasld-2024-aclf, aga-2021-cirrhosis-coagulation, aasld-2022-palliative-cirrhosis, nccn-2026-hcc, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-ast-2025-liver-transplant-candidate-evaluation]
 ---
 
@@ -143,7 +143,7 @@ flowchart TD
 | Stage | Definition |
 |---|---|
 | **Compensated** | Absence of **current or past** decompensation (3.1); subdivided by presence/absence of CSPH (3.2a). The main therapeutic goal in the CSPH substage is to **prevent decompensation** (3.2e) |
-| **Decompensated (first decompensation)** | Clinically evident [[ascites]] **or [[hepatic-hydrothorax|hepatic hydrothorax]]** caused by portal hypertension, [[variceal-upper-gi-bleeding\|variceal bleeding]], and/or overt [[hepatic-encephalopathy\|HE]] (**West Haven grade ≥II**) (3.3) |
+| **Decompensated (first decompensation)** | Clinically evident [[ascites]] **or [[hepatic-hydrothorax\|hepatic hydrothorax]]** caused by portal hypertension, [[variceal-upper-gi-bleeding\|variceal bleeding]], and/or overt [[hepatic-encephalopathy\|HE]] (**West Haven grade ≥II**) (3.3) |
 | **Further decompensation** | Event-specific — see the table below (4.1). Higher mortality than first decompensation |
 | **Recompensation** | See [[#Recompensation (Baveno VIII)]] |
 
