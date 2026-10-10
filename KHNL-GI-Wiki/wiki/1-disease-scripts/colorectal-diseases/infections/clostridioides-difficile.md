@@ -3,8 +3,8 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-10-04
-sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff]
+updated: 2026-10-10
+sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff, idsa-2017-infectious-diarrhea]
 ---
 
 ## Contents
@@ -34,6 +34,9 @@ sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ib
 **Clostridioides difficile infection (CDI) is a clinical diagnosis** — compatible symptoms (typically acute diarrhea following antibiotics) **plus** supportive laboratory testing. An organism alone never makes the diagnosis. [[aga-2026-cdiff-adults]]
 
 **Who to test:** Only patients with ≥3 unformed stools in 24 hours with unexplained new-onset diarrhea. Do NOT test patients with formed stool. Test of cure (retesting after treatment in asymptomatic patients) is not recommended — C. difficile shedding persists up to 4 weeks after symptom resolution.
+
+- **One explicit extra trigger, easily missed:** test for *C. difficile* in a **traveler with diarrhea who received antimicrobials within the preceding 8–12 weeks** — the exposure window, not the travel itself, is what prompts the test *(strong, moderate)*. [[idsa-2017-infectious-diarrhea]]
+- Healthcare, long-term-care and prison exposure or employment are recognized exposure settings for *C. difficile* in a diarrheal illness. [[idsa-2017-infectious-diarrhea]]
 
 **Preferred two-step testing algorithm:**
 
@@ -404,3 +407,4 @@ Patients become **less contagious once diarrhea resolves** — formed stool spre
 3. [[aga-2026-cdiff-adults|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Adults: Expert Review (2026)]]
 4. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review (2026)]]
 5. [[feuerstadt-2022-ser109-cdiff|SER-109, an Oral Microbiome Therapy for Recurrent Clostridioides difficile Infection (ECOSPOR III)]]
+6. [[idsa-2017-infectious-diarrhea|IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea]]

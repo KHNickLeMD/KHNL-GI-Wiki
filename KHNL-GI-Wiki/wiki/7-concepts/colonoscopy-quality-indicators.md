@@ -3,8 +3,8 @@ title: "Colonoscopy Quality Indicators"
 category: concept
 tags: [colonoscopy, quality, adr, sdr, withdrawal-time, cecal-intubation, bowel-prep, polypectomy, crc-screening, colorectal]
 created: 2026-09-23
-updated: 2026-10-04
-sources: [aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy]
+updated: 2026-10-10
+sources: [aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy, acg-2014-bowel-cleansing, usmstf-2025-bowel-prep]
 ---
 
 Colonoscopy's efficacy varies among endoscopists, and lower-quality colonoscopies are associated with higher interval colorectal cancer (CRC) incidence and mortality. Quality has three components: **effectiveness** (detecting [[colorectal-cancer|CRC]] and its precursors), **safety**, and **value** (avoiding unnecessary costs). [[aga-2021-colonoscopy-quality]]
@@ -66,6 +66,16 @@ Colonoscopy's efficacy varies among endoscopists, and lower-quality colonoscopie
 - BBPS scores each segment (right, transverse, left) **0 (unprepared colon) to 3 (entire segment well seen)**. It is **preferred over the modified Aronchick score** (single global excellent/good/fair/poor/inadequate rating) because it is applied **after cleaning** and has been rigorously validated.
 - Suboptimal cleansing causes failed detection of **flat or otherwise subtle polyps**; the impact is **most pronounced in the proximal colon**, reducing detection of both adenomas and sessile serrated lesions.
 - Preparation regimens, salvage maneuvers, indication-specific adequacy wording, and the full scale anchors live on [[colonoscopy#Bowel Preparation|colonoscopy]].
+
+**How to measure it, and what to do below benchmark** ([[acg-2014-bowel-cleansing|US Multi-Society Task Force (USMSTF) 2014]], which established the adequate-preparation rate as a routinely measured indicator):
+
+- **Assess adequacy only after all appropriate efforts to clear residual debris** — washing and suctioning — are complete (strong, low). Grading before cleansing measures the purgative, not the examination.
+- **Measure the rate of adequate colon cleansing routinely** (strong, moderate).
+- **Below the benchmark → undertake an improvement initiative.** The expectation is explicit, not implied.
+- **Submit procedure reports to a data registry** that benchmarks performance against minimally accepted thresholds and against peer means.
+- Framing that motivates the indicator: up to **20%–25% of all colonoscopies** are reported to have an inadequate preparation, which lowers adenoma detection, lengthens procedural time, lowers cecal intubation rates, raises electrocautery risk, and shortens the interval to the next examination.
+
+⚠ **The benchmark and the level it is measured at both changed.** USMSTF 2014 set **≥85% of all examinations, on a per-physician basis**; [[usmstf-2025-bowel-prep|USMSTF 2025]] sets **≥90% at the individual endoscopist *and* the endoscopy-unit level**, which is what the table above follows. Readers auditing against an older benchmark will pass at a rate the current documents call inadequate.
 
 **Two prep practices carried as advice rather than as a measured rate:**
 
@@ -216,7 +226,7 @@ flowchart TD
 
 Same metrics, different numbers and denominators across ingested guidelines. Audit against the document whose population matches your exam, and say which one you used.
 
-| Metric | [[aga-2021-colonoscopy-quality\|AGA 2021 Clinical Practice Update (CPU)]] | [[acg-2021-crc-screening\|American College of Gastroenterology (ACG) 2021]] | [[usmstf-2020-followup-colonoscopy\|US Multi-Society Task Force (USMSTF) 2020]] |
+| Metric | [[aga-2021-colonoscopy-quality\|AGA 2021 Clinical Practice Update (CPU)]] | [[acg-2021-crc-screening\|American College of Gastroenterology (ACG) 2021]] | [[usmstf-2020-followup-colonoscopy\|USMSTF 2020]] |
 |---|---|---|---|
 | **ADR** | **≥30%** for an individual endoscopist (aspirational ≥35%), one threshold for both sexes; sex-based ADR only for a markedly sex-skewed practice | **<25%** → remedial training (Rec 14, Conditional / Very low); discussion treats 30% men / 20% women as minimums, aspirational 45%–50% | **≥30% men / ≥20% women** as the high-quality-exam prerequisite |
 | **Cecal intubation** | **≥90%** of screening + surveillance exams; **≥95%** when inadequately prepped exams are excluded | **≥95% in screening subjects** (Rec 16, Strong / Low); ≥90% overall cited as the current US recommendation, ungraded | Complete to cecum with photodocumented landmark |
@@ -245,3 +255,5 @@ Other USMSTF ADR figures, each tied to its own population:
 1. [[aga-2021-colonoscopy-quality|AGA 2021 Clinical Practice Update on Strategies to Improve Quality of Screening and Surveillance Colonoscopy: Expert Review]]
 2. [[acg-2021-crc-screening|ACG Clinical Guidelines: Colorectal Cancer Screening 2021]]
 3. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]
+4. [[acg-2014-bowel-cleansing|Optimizing Adequacy of Bowel Cleansing for Colonoscopy: Recommendations from the US Multi-Society Task Force on Colorectal Cancer (2014)]]
+5. [[usmstf-2025-bowel-prep|USMSTF 2025: Optimizing Bowel Preparation Quality for Colonoscopy]]

@@ -3,20 +3,40 @@ title: "NCCN Clinical Practice Guidelines in Oncology: Colon Cancer (Version 2.2
 category: source
 tags: [colon-cancer, colorectal-cancer, adenocarcinoma, mmr, msi, ras, kras, nras, braf, her2, ntrk, dpyd, folfox, capox, folfiri, bevacizumab, cetuximab, panitumumab, pembrolizumab, encorafenib, adjuvant, metastatic, nccn, oncology]
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-10-10
 sources: []
 ---
+
+## Contents
+- [[#Bibliographic Info]]
+- [[#Summary]]
+- [[#Key Findings / Claims]]
+  - [[#How this document labels its recommendations]]
+  - [[#Clinical Presentation and Workup]]
+  - [[#Endoscopically Removed Malignant Polyps]]
+  - [[#Pathologic Review and Reporting]]
+  - [[#Lymph Node Evaluation]]
+  - [[#Biomarker Testing]]
+  - [[#Staging]]
+  - [[#Primary Treatment of Non-Metastatic Disease]]
+  - [[#Adjuvant Treatment by Pathologic Stage]]
+  - [[#Metastatic Disease]]
+  - [[#Surveillance After Treatment]]
+  - [[#Survivorship and Pharmacogenetics]]
+- [[#Relevance to Wiki]]
+- [[#Contradictions / Open Questions]]
+- [[#See Also]]
 
 ## Bibliographic Info
 
 - **Article:** [NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®): Colon Cancer, Version 2.2026 — April 7, 2026. National Comprehensive Cancer Network.](https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1428)
 - **Authors:** NCCN Colon/Rectal/Anal Cancers Panel
-- **Year:** 2026 (Version 2.2026)
+- **Year:** 2026 (Version 2.2026, dated 04/07/26)
 - **Journal/Publisher:** National Comprehensive Cancer Network (NCCN.org)
 - **DOI:** none (NCCN web publication)
-- **Type:** Guideline (algorithm-based; NCCN categories of evidence — all recommendations category 2A unless otherwise indicated)
+- **Type:** Guideline (algorithm + "Principles of…" pages; NCCN categories of evidence and consensus)
 
-> **Note on content & licensing.** NCCN content is copyrighted and its End-User License Agreement prohibits redistribution and use of the content with artificial intelligence (AI) tools. This source page therefore **summarizes and cites** the guideline rather than reproducing its proprietary algorithm pages verbatim. The disease and procedure pages built from it are written in original language with NCCN cited as the source. Consult the original NCCN algorithm pages (COL-1 … and Principles COL-A … COL-F) for the authoritative, citable pathways.
+> NCCN content is copyrighted and may not be reproduced without permission. The original algorithm and principles pages (COL-1 … COL-16, COL-A … COL-I, ST-1/ST-2) are the authoritative reference.
 
 ## Summary
 

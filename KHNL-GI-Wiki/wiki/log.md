@@ -6,6 +6,12 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-10] lint | NCCN trio verified against the PDFs; ACG 2014 bowel-prep propagation applied; Mallampati figure captured
+
+(entry in progress — bullets appended below as work lands)
+
+---
+
 ## [2026-10-10] lint | 2012 Sedation propagation applied; IDSA 2017 validation closed; ACG 2014 bowel-prep propagation; stalest NCCN source pages validated
 
 **Ingest check — no new arrivals.** Per-subfolder counts against the audited baseline: all 14 unchanged (AASLD 35, ACG 61, AFS 2, AGA 189, APA 1, ASGE 50, EASL 2, NCCN 7, Other 21, SAGES 3, USPG 1, Lectures 60, Other Studies 6, RCTs 12). Non-asset total **450**, assets 90, 540 on disk. No loose files directly in `raw/`. `git status --porcelain --ignored=matching -- raw/` shows the four content subfolders ignored by `/repo/.gitignore:7` as designed and **nothing untracked under `raw/assets/`** — nothing to commit for raw.

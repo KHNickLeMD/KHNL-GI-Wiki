@@ -14,7 +14,7 @@ sources: []
 - **Year:** 2026 (Version 1.2026, 03/10/26; Discussion text last updated October 22, 2025)
 - **Journal/Publisher:** National Comprehensive Cancer Network (NCCN.org)
 - **DOI:** none assigned — NCCN web publication; the article link above is the publisher page.
-- **Type:** Guideline (algorithm + principles pages, HCC-1 … HCC-6 and HCC-A … HCC-J)
+- **Type:** Guideline (algorithm pages HCC-1 … HCC-6; principles pages HCC-A … HCC-J; staging ST-1 … ST-2; categories page CAT-1; abbreviations ABBR-1; Discussion MS-1 … MS-44)
 
 ## How This Document Grades and Labels Recommendations
 
