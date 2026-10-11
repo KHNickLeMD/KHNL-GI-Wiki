@@ -15,17 +15,6 @@ The biliary manifestation of immunoglobulin G4 (IgG4)-related disease, and **the
   - [[#Who Gets Tested for It]]
   - [[#Severity Assessment]]
   - [[#Classification / Typing]]
-- [[#Differential Diagnosis]]
-  - [[#IgG4-SC vs PSC vs Cholangiocarcinoma]]
-- [[#Diagnostics]]
-  - [[#Serum IgG4]]
-  - [[#Histology]]
-  - [[#Imaging and Cholangiography]]
-  - [[#Tissue Acquisition]]
-- [[#Therapeutics]]
-  - [[#Corticosteroids]]
-  - [[#Relapse and Maintenance]]
-  - [[#Biliary Drainage]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -70,3 +59,18 @@ IgG4-SC sits on the spectrum of IgG4-related disease. The full list of other org
 
 - Isolated pancreatic involvement occurs in ~50% of AIP; ~50% have OOI — so **a biliary stricture may be the only expression of the disease, or one organ among several.**
 - Obstructive jaundice in AIP arises either from **distal biliary ductal compression by pancreatic head swelling** or from a **proximal biliary stricture** — the second is IgG4-SC proper.
+
+## See Also
+
+[[primary-sclerosing-cholangitis]], [[autoimmune-pancreatitis]], [[cholangiocarcinoma]], [[biliary-stricture]], [[abnormal-liver-chemistries]], [[jaundice]], [[primary-biliary-cholangitis]], [[chronic-pancreatitis]], [[sclerosing-mesenteritis]], [[ercp]], [[endoscopic-ultrasound]], [[liver-transplantation]]
+
+---
+
+## Sources
+
+1. [[aasld-2022-psc|AASLD 2022 Practice Guidance on Primary Sclerosing Cholangitis and Cholangiocarcinoma]]
+2. [[acg-2015-psc|ACG 2015 Clinical Guideline: Primary Sclerosing Cholangitis]]
+3. [[aga-2019-autoimmune-pancreatitis|Management of Autoimmune Pancreatitis (Here and Now: Clinical Practice)]]
+4. [[asge-2023-indeterminate-biliary-strictures|ASGE Guideline on the Role of Endoscopy in the Diagnosis of Malignancy in Biliary Strictures of Undetermined Etiology: Summary and Recommendations (2023)]]
+5. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
+6. [[nccn-2026-biliary-tract-cancers|NCCN Clinical Practice Guidelines in Oncology: Biliary Tract Cancers (Version 1.2026)]]

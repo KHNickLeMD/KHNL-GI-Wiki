@@ -70,7 +70,7 @@ Primary sclerosing cholangitis (PSC) is a chronic, cholestatic liver disease lik
 | **Large-duct PSC** (~95%) | Classic multifocal biliary strictures on cholangiogram | Standard course |
 | **Small-duct PSC** (~5%) | Normal MRCP; biopsy-proven PSC histology; associated with IBD | Better — lower [[hepatocellular-carcinoma\|hepatocellular carcinoma (HCC)]] risk, longer LT-free survival; 23% progress to large-duct disease over 5–14 years; monitor MRI/MRCP every 3–5 years ([[aasld-2022-psc]] GS 7) |
 | **PSC-AIH overlap** | Concurrent PSC cholangiographic + AIH biochemical/histological features; 35% of children, 5% of adults | Managed with AIH immunosuppression per AASLD AIH guidelines (GS 14) |
-| **IgG4-sclerosing cholangitis** | IgG4-positive plasma cells in tissue + elevated serum IgG4 + pancreatic involvement | Distinct entity; steroid-responsive; exclude in all PSC patients (GS 4) |
+| **[[igg4-related-cholangitis\|IgG4-sclerosing cholangitis]]** | IgG4-positive plasma cells in tissue + elevated serum IgG4 + pancreatic involvement | Distinct entity; steroid-responsive; exclude in all PSC patients (GS 4) |
 | **Secondary sclerosing cholangitis** | Identifiable biliary etiology (Table 2: infectious, ischemic, malignant, autoimmune, anatomic, drug-induced including [[immune-checkpoint-inhibitor-hepatitis\|immune checkpoint inhibitors]]) | Depends on etiology |
 
 ---
