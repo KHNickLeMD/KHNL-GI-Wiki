@@ -6,9 +6,24 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
-## [2026-10-10] lint | NCCN trio verified against the PDFs; ACG 2014 bowel-prep propagation applied; Mallampati figure captured
+## [2026-10-11] lint | Carry-over closed: IgG4-SC finished and de-orphaned; four stalest NCCN source pages validated
 
 (entry in progress — bullets appended below as work lands)
+
+---
+
+## [2026-10-10] lint | NCCN trio source pages verified; ACG 2014 bowel-prep propagation landed on both targets; IgG4-SC page started
+
+*Entry reconstructed and closed on the 2026-10-11 pass — the 10-10 pass wrote only this header and stopped, so the work below was committed (`cfbdafa`) with no record. Its title also over-claimed: the Mallampati figure was **not** captured.*
+
+**Pages that actually landed:**
+
+- **[[nccn-2026-biliary-tract-cancers]], [[nccn-2026-colon-cancer]], [[nccn-2026-hcc]] verified against the PDFs** and the standing NCCN failure mode corrected on all three: the grading note now renders NCCN's **two separate vocabularies** as the document defines them on page CAT-1 — categories of evidence and consensus (1 / 2A / 2B / 3, "all recommendations are category 2A unless otherwise indicated") and categories of preference (*Preferred* / *Other recommended* / *Useful in certain circumstances*, "all recommendations are considered appropriate"). No GRADE, no numbered recommendations. Specific fidelity fixes: the biliary document runs **three** parallel algorithms over **four** subsites (perihilar and distal eCCA are separately staged), and its core-biopsy-over-FNA preference is scoped to the **gallbladder** pathways, not the whole document; colon subsequent-line gained the *Useful in certain circumstances* arm (nivolumab, category 2B); the *NTRK* row now carries the real restriction (**entrectinib and larotrectinib must not be used after progression on a prior TRK inhibitor**), which the previous wording inverted into "same"; MSI-H/dMMR dostarlimab scoped to recurrent/advanced disease progressing on prior treatment; *FGFR2* row restored erdafitinib as an option while keeping the futibatinib/pemigatinib preference. The licensing note on the colon page was shortened to the copyright statement and the authoritative page ranges.
+- **[[acg-2014-bowel-cleansing]] propagation COMPLETED on both targets — the debt carried since 2026-10-08 is closed.** [[colonoscopy]] took the regimens, salvage maneuvers, scale anchors and the Appendix B criteria (2026-10-07); [[colonoscopy-quality-indicators]] took the measurement half this pass: grade adequacy **only after all washing and suctioning is complete** (strong, low), measure the adequate-cleansing rate routinely (strong, moderate), below-benchmark → improvement initiative, registry submission, and the 20%–25% inadequate-prep framing. ⚠ **Benchmark change surfaced inline:** 2014 set ≥85% per physician; [[usmstf-2025-bowel-prep]] sets **≥90% at endoscopist *and* unit level** — a practice auditing against the old number passes at a rate the current documents call inadequate.
+- **[[clostridioides-difficile]] now cites [[idsa-2017-infectious-diarrhea]]** — one of the three missing citations the 2026-10-10 pass flagged. Net-new: test for *C. difficile* in a **traveler with diarrhea who received antimicrobials in the preceding 8–12 weeks** *(strong, moderate)* — the exposure window, not the travel, is the trigger; plus healthcare/long-term-care/prison exposure as recognized settings.
+- **[[needed-sources]] line 204 narrowed** (owed since 2026-10-09): the Boston Bowel Preparation Scale, Ottawa and Aronchick requests were **removed** — ACG 2014 Appendix B reproduces all three and they are now on [[colonoscopy]]. Only the **Harefield** and **Chicago** scale papers remain genuinely unsourced.
+- **[[igg4-related-cholangitis]] created but NOT finished** — coverage-gap queue item 23. Body stopped after §Classification / Typing with Differential Diagnosis, Diagnostics, Therapeutics, See Also and Sources all unwritten though `## Contents` promised them; page was a whole-wiki orphan and was not indexed. Same stop-mid-build pattern as [[hepatic-hydrothorax]] (10-08) and [[pancreatic-fluid-collection-drainage]] (10-05). Finished on the 2026-10-11 pass.
+- **Mallampati figure still NOT captured** — `raw/assets/` is unchanged at 90 files. The tooling blocker recorded on 2026-10-10 stands; measured geometry is preserved in that entry.
 
 ---
 

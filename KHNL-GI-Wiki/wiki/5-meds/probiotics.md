@@ -3,8 +3,8 @@ title: "Probiotics"
 category: med
 tags: [probiotics, microbiome, dysbiosis, cdiff, ibd, pouchitis, ibs, nec, infectious-diarrhea]
 created: 2026-06-04
-updated: 2026-09-24
-sources: [aga-2020-probiotics, acg-2020-sibo, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, acg-2021-cdiff]
+updated: 2026-10-11
+sources: [aga-2020-probiotics, acg-2020-sibo, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, acg-2021-cdiff, idsa-2017-infectious-diarrhea]
 ---
 
 Probiotics are live microorganisms that, when administered in adequate amounts, confer a health benefit on the host (Food and Agriculture Organization [FAO]/World Health Organization [WHO] definition). Their effects are **strain-specific and dose-specific** — different strains, and combinations of strains, have widely different biologic activities, so results from one formulation cannot be generalized to "probiotics" as a class. Because probiotics are sold as supplements (not drugs) in the US and Europe, the industry is largely unregulated, marketing is direct-to-consumer, and product viability/manufacturing details are frequently unavailable. These features make pooled meta-analyses across heterogeneous strains/populations potentially misleading.
@@ -22,6 +22,8 @@ The American Gastroenterological Association (AGA) 2020 guideline ([[aga-2020-pr
 ### Conditional recommendation AGAINST
 
 - **Acute infectious gastroenteritis in children** — conditional **AGAINST** probiotics, **moderate** quality. Two high-quality North American randomized controlled trials (RCTs) (*L rhamnosus* GG; *L rhamnosus* R0011 + *L helveticus* R0052) showed no benefit. This conflicts with earlier European Society for Paediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN)/Infectious Diseases Society of America (IDSA) positions that predate those trials. See [[acute-diarrhea]].
+  - **The IDSA position, stated exactly:** probiotics **may be offered** to reduce symptom severity and duration in **immunocompetent adults and children** with infectious or antimicrobial-associated diarrhea *(weak, moderate)* — Rec 49, [[idsa-2017-infectious-diarrhea]]. It names no strain, dose or duration.
+  - ⚠ **AGA 2020 governs this page** — newer within the same tier, and its recommendation runs the other way in children. The two are not reconcilable by population: IDSA's weak "may be offered" covers the same immunocompetent children AGA 2020 conditionally recommends against.
 
 ### No recommendation (knowledge gap — trial only)
 
@@ -79,3 +81,4 @@ Not covered by the AGA guideline; per [[acg-2020-sibo]]:
 3. [[aga-2026-cdiff-adults|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Adults: Expert Review (2026)]]
 4. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review (2026)]]
 5. [[acg-2021-cdiff|ACG 2021: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections]]
+6. [[idsa-2017-infectious-diarrhea|IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea]]
