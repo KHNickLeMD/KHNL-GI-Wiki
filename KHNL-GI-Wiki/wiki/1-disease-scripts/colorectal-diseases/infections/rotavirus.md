@@ -3,7 +3,7 @@ title: "Rotavirus Gastroenteritis"
 category: disease-script
 tags: [rotavirus, viral-gastroenteritis, diarrhea, infectious-diarrhea, vaccine]
 created: 2026-05-19
-updated: 2026-09-10
+updated: 2026-10-12
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -43,7 +43,7 @@ Exposure/host features that raise the pretest probability of rotavirus. [[idsa-2
 |---|---|
 | Age | **6–18 months** — the peak-incidence window |
 | Setting exposure | Child care center attendance or employment; healthcare, long-term care, or prison exposure/employment |
-| Inoculum | Low-inoculum pathogen (like [[norovirus]], *Giardia*, [[shigellosis\|*Shigella*]], Shiga toxin–producing *E. coli* (STEC)) → person-to-person spread is efficient |
+| Inoculum | Low-inoculum pathogen (like [[norovirus]], *Giardia*, [[shigellosis\|*Shigella*]], [[shiga-toxin-producing-e-coli\|Shiga toxin–producing *E. coli* (STEC)]]) → person-to-person spread is efficient |
 | Immunodeficiency | **Persistent** rotavirus diarrhea — both non-vaccine and vaccine strain — reported in young children with **primary immunodeficiency** |
 
 - Pre-vaccine US burden in children <5 y: ~3 million episodes, >500,000 outpatient visits, 27,000 hospitalizations, ~25 deaths annually; [[norovirus]] took the lead after vaccine introduction.

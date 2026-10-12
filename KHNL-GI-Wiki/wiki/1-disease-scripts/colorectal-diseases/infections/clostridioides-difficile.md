@@ -3,7 +3,7 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-10-10
+updated: 2026-10-12
 sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff, idsa-2017-infectious-diarrhea]
 ---
 
@@ -91,7 +91,7 @@ Additional markers of severe/poor-outcome disease (not formal criteria): low ser
 
 *Workup: see [[acute-diarrhea]].*
 
-- Infectious colitis (bacterial: [[salmonella-infection|Salmonella]], [[campylobacter-infection|Campylobacter]], [[shigellosis|Shigella]], Shiga toxin–producing *E. coli* (STEC) — **not** to be treated with antimicrobials, unlike the others; viral: [[norovirus]], cytomegalovirus (CMV) in immunocompromised). *(For the watery, noninvasive pathotype see [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]].)*
+- Infectious colitis (bacterial: [[salmonella-infection|Salmonella]], [[campylobacter-infection|Campylobacter]], [[shigellosis|Shigella]], [[shiga-toxin-producing-e-coli|Shiga toxin–producing *E. coli* (STEC)]] — **not** to be treated with antimicrobials, unlike the others; viral: [[norovirus]], cytomegalovirus (CMV) in immunocompromised). *(For the watery, noninvasive pathotype see [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]].)*
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare ([[ulcerative-colitis]], [[crohns-disease]]) — note: CDI colonization is common in inflammatory bowel disease (IBD) and concurrent CDI + IBD flare must be distinguished from CDI alone or IBD alone
 - [[microscopic-colitis|Microscopic colitis]] (collagenous or lymphocytic)
 - Antibiotic-associated diarrhea without CDI (disrupted microbiome, osmotic)

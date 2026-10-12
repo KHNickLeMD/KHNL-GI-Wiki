@@ -3,7 +3,7 @@ title: "Colon Ischemia"
 category: disease-script
 tags: [colon-ischemia, ischemic-colitis, mesenteric-ischemia, hematochezia, colonoscopy, surgery, vascular]
 created: 2026-05-21
-updated: 2026-09-05
+updated: 2026-10-12
 sources: [acg-2015-colon-ischemia]
 ---
 
@@ -123,7 +123,7 @@ Severity classification and management (Table 6, American College of Gastroenter
 *Workup: see [[acute-lower-gi-bleeding]].*
 
 - **[[acute-mesenteric-ischemia|AMI]]** — involves small bowel; abrupt severe pain; CT angiography required urgently; does not cause hematochezia early
-- **Infectious colitis** — [[campylobacter-infection|Campylobacter]], Shiga toxin–producing *Escherichia coli* (STEC) O157:H7, [[clostridioides-difficile|Clostridioides difficile]]; stool cultures, *C. difficile* infection (CDI) testing; younger patients, exposure history
+- **Infectious colitis** — [[campylobacter-infection|Campylobacter]], [[shiga-toxin-producing-e-coli|Shiga toxin–producing *Escherichia coli* (STEC)]] O157:H7, [[clostridioides-difficile|Clostridioides difficile]]; stool cultures, *C. difficile* infection (CDI) testing; younger patients, exposure history
 - **[[crohns-disease]]** — may have right colon predominance like IRCI; chronic course; may have terminal ileal involvement; biopsy shows transmural inflammation + granulomas
 - **[[ulcerative-colitis]]** — continuous disease from rectum; not segmental; usually no abrupt onset
 - **[[radiation-proctopathy|Radiation proctocolitis]]** — history of pelvic radiation; telangiectasias on endoscopy

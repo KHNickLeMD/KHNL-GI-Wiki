@@ -3,7 +3,7 @@ title: "Fever in a Returning Traveler"
 category: diagnostic-schema
 tags: [travel-medicine, fever, tropical-infections, travelers-diarrhea, enteric-fever, viral-hepatitis, parasites]
 created: 2026-05-15
-updated: 2026-09-18
+updated: 2026-10-12
 sources: [idsa-2017-infectious-diarrhea, acg-2016-acute-diarrhea, acg-2016-liver-disease-pregnancy]
 ---
 
@@ -77,7 +77,7 @@ Tests for malaria, dengue, leptospirosis, and schistosomiasis are outside the sc
 ## Red Flags / Alarm Features
 
 - **Clinical features of sepsis + suspected enteric fever** → draw blood, stool and urine cultures, then start **broad-spectrum empiric** antimicrobials (IDSA rec 34, strong/low). Stupor is part of IDSA's own description of the enteric fever syndrome ([[idsa-2017-infectious-diarrhea]])
-- **Bloody diarrhea (dysentery), moderate-to-severe disease, or symptoms >7 days** → obtain stool diagnostic studies; higher temperature favours a bacterial etiology or *E. histolytica* ([[acg-2016-acute-diarrhea]], [[idsa-2017-infectious-diarrhea]]). Do **not** give antimicrobials for suspected Shiga toxin–producing *Escherichia coli* (STEC) O157 / Shiga-toxin-2 producers (strong, moderate)
+- **Bloody diarrhea (dysentery), moderate-to-severe disease, or symptoms >7 days** → obtain stool diagnostic studies; higher temperature favours a bacterial etiology or *E. histolytica* ([[acg-2016-acute-diarrhea]], [[idsa-2017-infectious-diarrhea]]). Do **not** give antimicrobials for suspected [[shiga-toxin-producing-e-coli|Shiga toxin–producing *Escherichia coli* (STEC)]] O157 / Shiga-toxin-2 producers (strong, moderate)
 - **[[liver-disease-in-pregnancy|Pregnancy]] + acute hepatitis** → test HAV/HBV/**HEV**/HSV IgM and start **empiric acyclovir** if HSV hepatitis is suspected (strong, very low). HEV in pregnancy is associated with acute liver failure and **high maternal and infant mortality** reported in Southeast Asia ([[acg-2016-liver-disease-pregnancy]])
   - The guideline gives no HEV mortality percentage (the only mortality figure it gives in this section is **up to 74% for HSV hepatitis**, a different disease).
 - **Eosinophilia in a returning traveler** → parasitic infection with a tissue phase ([[idsa-2017-infectious-diarrhea]]). IDSA gives no numeric eosinophil threshold, only "an increased eosinophil count."

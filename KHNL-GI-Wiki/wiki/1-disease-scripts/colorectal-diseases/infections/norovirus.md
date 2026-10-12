@@ -3,7 +3,7 @@ title: "Norovirus Gastroenteritis"
 category: disease-script
 tags: [norovirus, viral-gastroenteritis, diarrhea, infectious-diarrhea, outbreak]
 created: 2026-05-19
-updated: 2026-09-06
+updated: 2026-10-12
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -22,7 +22,7 @@ Most common cause of epidemic gastroenteritis in the US. Very low infectious ino
 |---|---|
 | Hotels, cruise ships, resorts, restaurants, catered events | Classic foodborne-outbreak setting |
 | Raw shellfish | Also *Vibrio* species, hepatitis A, *Plesiomonas* |
-| Fruits, unpasteurized juices, vegetables, leafy greens, sprouts | Shared with Shiga toxin–producing *E. coli* (STEC), *Salmonella*, *Cyclospora* |
+| Fruits, unpasteurized juices, vegetables, leafy greens, sprouts | Shared with [[shiga-toxin-producing-e-coli\|Shiga toxin–producing *E. coli* (STEC)]], *Salmonella*, *Cyclospora* |
 | Healthcare, long-term care, prison exposure or employment | Shared with [[clostridioides-difficile\|*C. difficile*]], [[shigellosis\|*Shigella*]], [[rotavirus]] |
 
 - **Very low infectious inoculum** — noroviruses and *Shigella* are the most contagious enteric pathogens, from low inoculum requirements plus environmental stability. [[acg-2016-acute-diarrhea]]

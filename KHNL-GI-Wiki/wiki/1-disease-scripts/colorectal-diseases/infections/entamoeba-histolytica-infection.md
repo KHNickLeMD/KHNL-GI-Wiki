@@ -3,7 +3,7 @@ title: "Entamoeba histolytica Infection (Amebiasis)"
 category: disease-script
 tags: [entamoeba, amebiasis, amebic-dysentery, parasitic-diarrhea, liver-abscess, travelers-diarrhea, metronidazole]
 created: 2026-05-19
-updated: 2026-09-05
+updated: 2026-10-12
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -31,7 +31,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 *Workup: see [[acute-diarrhea]].*
 
-- Bacterial dysentery — [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]], and **Shiga toxin–producing / enterohemorrhagic *E. coli* (STEC/EHEC)** — the last of which must **not** be given antimicrobials (STEC O157, Shiga-toxin-2 producers, or unknown toxin genotype) *(strong, moderate)* [[idsa-2017-infectious-diarrhea]] (Rec 35); it is a different organism from [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]]
+- Bacterial dysentery — [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]], and **[[shiga-toxin-producing-e-coli|Shiga toxin–producing / enterohemorrhagic *E. coli* (STEC/EHEC)]]** — the last of which must **not** be given antimicrobials; it is a different organism from [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]]
 - [[clostridioides-difficile|*C. difficile*]] colitis
 - Other protozoa — [[giardiasis]] (watery, non-bloody), [[cryptosporidiosis]]
 - [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] flare ([[ulcerative-colitis]]) — a key mimic before immunosuppression is started

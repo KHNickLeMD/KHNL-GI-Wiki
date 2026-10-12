@@ -3,7 +3,7 @@ title: "Management of Autoimmune Pancreatitis (Here and Now: Clinical Practice)"
 category: source
 tags: [autoimmune-pancreatitis, aip, idcp, igg4, igg4-related-disease, pancreas, pancreatic-cancer, corticosteroids, rituximab, icdc]
 created: 2026-09-04
-updated: 2026-09-29
+updated: 2026-10-12
 sources: []
 ---
 
@@ -23,7 +23,7 @@ The central clinical problem is that AIP is a chronic, steroid-responsive fibroi
 
 Management is **primarily medical and steroid-based** — response to corticosteroids approaches 100% in both types — with close follow-up for occult malignancy. Endoscopic retrograde cholangiopancreatography (ERCP) and biliary stenting are **rarely indicated**: the international consensus advises treating mild jaundice without signs of infection with steroids alone. Surgery is reserved for suspected malignancy. After treatment, serum IgG4 has **no value** for predicting relapse or diagnosing recurrence, and histologic re-evaluation is not recommended. Relapse is the dominant long-term problem in type 1 (up to 60%, vs <10% in IDCP), occurring during the steroid taper or after discontinuation; elevated pre-treatment IgE and other-organ involvement with proximal bile duct stricture or IgG4-sclerosing cholangitis mark the high-relapse-risk group who may warrant long-term maintenance with steroids or an immunomodulator. Steroid intolerance or relapse is treated with steroids plus an immunomodulator, or with rituximab.
 
-**Two important limits of this source:** (1) it *names* the ICDC and says what its cardinal features are, but **does not print the ICDC's level 1 / level 2 component criteria**, so the criteria set cannot be applied from this paper alone; (2) the entire treatment algorithm — **drug, dose, duration, taper, response-assessment interval, maintenance regimen, rituximab schedule** — appears only in **Figure 1**; none of those numbers appear anywhere in the article's prose. See *Contradictions / Open Questions*.
+**Two important limits of this source:** (1) it *names* the ICDC and says what its cardinal features are, but **does not print the ICDC's level 1 / level 2 component criteria**, so the criteria set cannot be applied from this paper alone; (2) the entire treatment algorithm — **drug, dose, duration, taper, maintenance regimen** — appears only in **Figure 1** and nowhere in the article's prose; the figure is transcribed in full below, but it still withholds the immunomodulator and rituximab doses, the maintenance duration, and the response-assessment interval. See *Contradictions / Open Questions*.
 
 ## Key Findings / Claims
 
@@ -94,6 +94,29 @@ Management is **primarily medical and steroid-based** — response to corticoste
 - **Higher risk of relapse:** patients with **elevated pre-treatment immunoglobulin E levels** and **OOI with proximal bile duct stricture or IgG4-sclerosing cholangitis**. These patients **can be considered for long-term maintenance with steroids or immunomodulator regimens** (as described in Figure 1).
 - Take-home message: **intolerance to steroids or relapse is treated with a combination of steroids and immunomodulators, or rituximab.**
 
+### Figure 1 — Management of initial presentation and of relapse in AIP and IDCP
+
+The entire treatment regimen lives in this figure; no milligram or interval appears anywhere in the article's prose.
+
+| Node | Content |
+|---|---|
+| Entry | Initial diagnosis of AIP **or** IDCP → **clinical symptoms (abdominal pain, obstructive jaundice) or other organ involvement** |
+| Induction | **Prednisone (40 mg/day × 4 weeks)** |
+| → No response | **Consider alternative diagnosis** |
+| → Steroid intolerance **or** incomplete remission | **Rituximab induction** |
+| → Complete remission | **Prednisone taper by 5 mg per week** |
+| → High risk of relapse with proximal IgG4-SC | **Consider one of these regimens** (four, below) |
+| → Relapse, AIP | **Consider one of these regimens** (same four) |
+| → Relapse, IDCP | **Prednisone (40 mg/day × 4 weeks) and taper by 5 mg per week** |
+
+**The four regimens, as printed:**
+1. Prednisone 40 mg/day for 4–6 weeks and gradual taper, or low-dose maintenance steroids
+2. Prednisone 40 mg/day + immunomodulators MMF/6-MP/AZA and steroid taper followed by discontinuation of steroids
+3. Rituximab induction
+4. Rituximab induction and maintenance
+
+*Figure legend as published: "Management of initial presentation as well as relapse of AIP and IDCP. AIP, autoimmune pancreatitis; IDCP, idiopathic duct centric pancreatitis; IgG4, immunoglobulin subclass 4-related sclerosing cholangitis."*
+
 ### Table 1 — Characteristic Differences Between Autoimmune Pancreatitis and Idiopathic Duct Centric Pancreatitis
 
 | Feature | Autoimmune pancreatitis (type 1 / lymphoplasmacytic sclerosing) | Idiopathic duct centric pancreatitis (type 2 / IDCP) |
@@ -134,7 +157,7 @@ Management is **primarily medical and steroid-based** — response to corticoste
 - The article says the **ICDC has the greatest sensitivity** among proposed criteria sets, but reports **no sensitivity figure** for ICDC itself, nor the figures for the criteria sets it is being compared with.
 
 **Content this source names but does not supply**
-1. **The management algorithm appears only as Figure 1.** The figure carries the **corticosteroid agent, induction dose, induction duration, taper schedule, the interval at which response is reassessed, the definition of non-response, the specific immunomodulator regimens and their doses, the rituximab regimen, the maintenance duration, and the relapse branch of the algorithm.** The prose gives only the *categories* ("steroids and immunomodulators, or rituximab") and never a milligram or a week. For the regimen consult the article's Figure 1 or the underlying treatment consensus, **Okazaki K, Chari ST, Frulloni L, et al. International consensus for the treatment of autoimmune pancreatitis. Pancreatology 2017;17:1–6** (this article's ref 3).
+1. **What Figure 1 still does not give.** The algorithm itself is now recorded above and on [[autoimmune-pancreatitis]]. What it genuinely omits: **doses for the immunomodulators (MMF / 6-MP / AZA)**, the **rituximab regimen** (dose, schedule, number of cycles), the **maintenance duration**, the **interval at which response to induction is reassessed**, the **definition of "complete" vs "incomplete" remission and of non-response**, and any **criterion for choosing among the four maintenance/relapse regimens** it presents as alternatives. For those, the underlying treatment consensus is **Okazaki K, Chari ST, Frulloni L, et al. International consensus for the treatment of autoimmune pancreatitis. Pancreatology 2017;17:1–6** (this article's ref 3).
 2. **The ICDC component criteria are not printed.** The article names the five cardinal features (imaging of parenchyma/ducts, serology, OOI, histology, steroid response) and says a serum IgG4 ≥2× ULN is "level 1," but it never gives the **level 1 vs level 2 definitions for the other four features**, nor the **combination rules** by which the ICDC assigns *definite* / *probable* type 1, *definite* / *probable* type 2, or *AIP not otherwise specified*. The criteria set therefore **cannot be applied from this article alone**; see **Shimosegawa T, Chari ST, Frulloni L, et al. International consensus diagnostic criteria for autoimmune pancreatitis. Pancreas 2011;40:352–358** (this article's ref 10).
 3. **The steroid trial as a diagnostic test is unspecified.** "Response to steroid therapy" is one of the five ICDC cardinal features, but this source gives no dose, no trial duration, and no definition of what counts as a response — the very parameters that make a steroid trial safe to run in a patient who might have pancreatic cancer.
 4. **Histologic criteria are qualitative only.** Table 1 grades features as present/absent/characteristic; apart from the IgG4 cells/HPF cutoff, no counts, thresholds, or definitions (e.g. what constitutes a granulocyte epithelial lesion) are given.

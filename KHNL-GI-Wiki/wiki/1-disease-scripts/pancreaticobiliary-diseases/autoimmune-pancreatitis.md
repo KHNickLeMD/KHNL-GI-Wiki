@@ -3,7 +3,7 @@ title: "Autoimmune Pancreatitis (AIP / IDCP)"
 category: disease-script
 tags: [autoimmune-pancreatitis, aip, idcp, igg4, igg4-related-disease, pancreas, obstructive-jaundice, corticosteroids, rituximab, icdc, pancreatic-cancer]
 created: 2026-09-04
-updated: 2026-09-06
+updated: 2026-10-12
 sources: [aga-2019-autoimmune-pancreatitis]
 ---
 
@@ -25,6 +25,7 @@ A **chronic, steroid-responsive fibroinflammatory disease of the pancreas** whos
 - [[#Therapeutics]]
   - [[#Who Is Treated]]
   - [[#Corticosteroids]]
+  - [[#Management Algorithm]]
   - [[#Biliary Drainage and Surgery]]
   - [[#Monitoring After Treatment]]
   - [[#Relapse and Maintenance]]
@@ -190,15 +191,38 @@ Management of both AIP and IDCP is **primarily medical**, with **close follow-up
 
 - **Response to steroids is ~100% in both AIP and IDCP** — near-universal steroid responsiveness is the defining therapeutic feature of the disease.
 - **Steroids alone treat the jaundice** in the mild, uninfected case — no stent (see below).
-- **The steroid regimen is not given on this page.** [[aga-2019-autoimmune-pancreatitis]] carries its treatment algorithm in **Figure 1**, and no milligram or interval appears in the article's prose. Not specified here:
-  - corticosteroid **agent, induction dose, and induction duration**
-  - the **taper schedule**
-  - the **interval at which response is reassessed**, and the **definition of non-response**
-  - the specific **immunomodulator regimens and doses**
-  - the **rituximab regimen**
-  - the **maintenance duration**, and the relapse branch of the algorithm
 
-  For the regimen, consult Figure 1 of the American Gastroenterological Association (AGA) update or the underlying treatment consensus: Okazaki K, Chari ST, Frulloni L, et al. International consensus for the treatment of autoimmune pancreatitis. *Pancreatology* 2017;17:1–6.
+**Induction and taper ([[aga-2019-autoimmune-pancreatitis]], Figure 1):**
+
+| Step | Regimen |
+|---|---|
+| **Induction** (AIP and IDCP alike) | **Prednisone 40 mg/day × 4 weeks** |
+| **Taper**, after complete remission | **Reduce by 5 mg per week** |
+| **No response** to induction | **Consider an alternative diagnosis** — not dose escalation |
+| **Steroid intolerance, or incomplete remission** | **Rituximab induction** |
+
+- **The entry condition is symptoms or OOI**, not the diagnosis alone — the algorithm starts the steroid only once there are clinical symptoms (abdominal pain, obstructive jaundice) or OOI, consistent with [[#Who Is Treated]].
+- **Failure to respond is a diagnostic event, not a dosing one.** The algorithm's only branch for non-response is to reconsider the diagnosis — in a disease whose chief mimic is [[pancreatic-cancer|pancreatic cancer]], that is the point.
+- The article prints the agent, dose and taper **only in Figure 1**; its prose names no milligram or interval.
+
+### Management Algorithm
+
+```mermaid
+flowchart TD
+    A1["Initial diagnosis of AIP"] --> C["Clinical symptoms<br/>(abdominal pain, obstructive jaundice)<br/>or other organ involvement"]
+    A2["Initial diagnosis of IDCP"] --> C
+    C --> D["Prednisone 40 mg/day × 4 weeks"]
+    D -->|"No response"| E["Consider alternative diagnosis"]
+    D -->|"Steroid intolerance or<br/>incomplete remission"| F["Rituximab induction"]
+    D -->|"Complete remission"| G["Prednisone taper by 5 mg per week"]
+    G -->|"High risk of relapse<br/>with proximal IgG4-SC"| H["Consider one of these regimens:<br/>• Prednisone 40 mg/day for 4–6 weeks,<br/>then gradual taper or low-dose maintenance steroids<br/>• Prednisone 40 mg/day + immunomodulator<br/>(MMF / 6-MP / AZA), steroid taper, then stop steroids<br/>• Rituximab induction<br/>• Rituximab induction and maintenance"]
+    G -->|"Relapse"| I["AIP"]
+    G -->|"Relapse"| J["IDCP"]
+    I --> H
+    J --> K["Prednisone 40 mg/day × 4 weeks,<br/>then taper by 5 mg per week"]
+```
+
+*Figure 1 — management of initial presentation and of relapse in AIP and IDCP. MMF, mycophenolate mofetil; 6-MP, 6-mercaptopurine; AZA, azathioprine. ([[aga-2019-autoimmune-pancreatitis]])*
 
 ### Biliary Drainage and Surgery
 
@@ -224,10 +248,22 @@ Management of both AIP and IDCP is **primarily medical**, with **close follow-up
 - **Who is at higher risk (the two stated markers):**
   1. **Elevated pre-treatment immunoglobulin E (IgE) levels**
   2. **Other organ involvement with a proximal bile duct stricture, or IgG4-sclerosing cholangitis**
-- **What high risk buys:** these patients **can be considered for long-term maintenance with steroids or immunomodulator regimens.**
+- **What high risk buys:** these patients **can be considered for long-term maintenance with steroids or immunomodulator regimens** — one of four, below.
 - **Treatment of relapse or steroid intolerance:** **a combination of steroids and immunomodulators, or rituximab.**
+
+**The four maintenance / relapse regimens — choose one** (Figure 1; offered to the high-relapse-risk group and to relapsed AIP alike):
+
+| # | Regimen |
+|---|---|
+| 1 | **Prednisone 40 mg/day for 4–6 weeks**, then gradual taper **or** low-dose maintenance steroids |
+| 2 | **Prednisone 40 mg/day + an immunomodulator** (mycophenolate mofetil [MMF], 6-mercaptopurine [6-MP] or azathioprine [AZA]), steroid taper, then **discontinuation of steroids** |
+| 3 | **Rituximab induction** |
+| 4 | **Rituximab induction and maintenance** |
+
+- ⚠ **Relapsed IDCP is handled differently** — it goes back to **prednisone 40 mg/day × 4 weeks and taper by 5 mg per week**, i.e. a repeat of induction, not one of the four regimens above. The four are the AIP branch.
+- **The source gives no immunomodulator or rituximab doses, and no maintenance duration** — the figure names the agents and the steroid milligrams only. For those, the underlying treatment consensus is Okazaki K, Chari ST, Frulloni L, et al. International consensus for the treatment of autoimmune pancreatitis. *Pancreatology* 2017;17:1–6.
+- **No criterion is given for choosing among the four** — the figure presents them as alternatives.
 - ⚠ Note the asymmetry that makes IgE and OOI worth checking: **serum IgG4 is useless for predicting relapse**, so the relapse-risk decision rests on the pre-treatment IgE and the OOI phenotype, not on the marker that made the diagnosis.
-- ⚠ The doses, agents (beyond the class names), and durations for maintenance, immunomodulator, and rituximab therapy are in the uncaptured Figure 1 — see [[#Corticosteroids]].
 
 ---
 

@@ -3,7 +3,7 @@ title: "Shigellosis"
 category: disease-script
 tags: [shigella, bacterial-gastroenteritis, dysentery, diarrhea, travelers-diarrhea, azithromycin]
 created: 2026-05-19
-updated: 2026-09-06
+updated: 2026-10-12
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -30,7 +30,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 *Workup: see [[acute-diarrhea]].*
 
 - Other inflammatory bacterial enteritides — [[campylobacter-infection]], [[salmonella-infection]], *Yersinia enterocolitica*
-- **Shiga toxin–producing / enterohemorrhagic *E. coli* (STEC/EHEC)** — the critical look-alike: also bloody diarrhea, but **antimicrobials must be avoided** (STEC O157, any Shiga-toxin-2 producer, or unknown toxin genotype) *(strong, moderate)*, whereas shigellosis is one of the few dysenteries you *do* treat empirically. [[idsa-2017-infectious-diarrhea]] (Rec 35). Note *S. dysenteriae* type 1 makes Shiga toxin itself. Distinct from [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]] (watery, noninvasive).
+- **[[shiga-toxin-producing-e-coli|Shiga toxin–producing / enterohemorrhagic *E. coli* (STEC/EHEC)]]** — the critical look-alike: also bloody diarrhea, but **antimicrobials must be avoided**, whereas shigellosis is one of the few dysenteries you *do* treat empirically. Note *S. dysenteriae* type 1 makes Shiga toxin itself. Distinct from [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]] (watery, noninvasive).
 - Amebic dysentery — [[entamoeba-histolytica-infection|*Entamoeba histolytica*]] (species-level enzyme immunoassay (EIA)/PCR required; *E. dispar* is non-pathogenic). [[acg-2016-acute-diarrhea]]
 - [[clostridioides-difficile|*C. difficile*]] colitis (antibiotic/healthcare exposure)
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare

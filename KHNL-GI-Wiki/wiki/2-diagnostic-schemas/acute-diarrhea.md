@@ -3,7 +3,7 @@ title: "Acute Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, acute, dysentery, loperamide, antibiotic, prevention]
 created: 2026-05-19
-updated: 2026-09-04
+updated: 2026-10-12
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2020-probiotics, acg-2021-cdiff]
 ---
 
@@ -59,7 +59,7 @@ Acute diarrhea is defined as an increase in stool frequency or looseness above t
 ### Stool Character Classification
 
 - **Watery diarrhea** — suggests noninflammatory, secretory, or osmotic etiology; typically viral or toxin-mediated bacterial (enterotoxigenic *E. coli* [ETEC], enteropathogenic *E. coli* [EPEC], enteroaggregative *E. coli* [EAEC])
-- **Dysenteric diarrhea** — passage of grossly bloody stools; suggests invasive/inflammatory bacterial pathogen (Shigella, Campylobacter, Shiga toxin–producing *E. coli* [STEC], Salmonella, Entamoeba)
+- **Dysenteric diarrhea** — passage of grossly bloody stools; suggests invasive/inflammatory bacterial pathogen (Shigella, Campylobacter, [[shiga-toxin-producing-e-coli|Shiga toxin–producing *E. coli* (STEC)]], Salmonella, Entamoeba)
 
 ---
 
@@ -236,7 +236,7 @@ The following features should prompt microbiologic assessment, consideration of 
 - **Elderly patients** — higher risk of dehydration and complications; balanced ORS preferred
 - **High-risk occupations** (food handler, healthcare worker, daycare) — microbiologic assessment and public health reporting required
 - **Outbreak setting** — requires culture-based assessment for public health subtyping (Recommendation 1, Strong/Low)
-- **Suspected STEC** (bloody diarrhea, outbreak setting, hamburger exposure, hemolytic uremic syndrome signs: thrombocytopenia, microangiopathic hemolytic anemia, renal failure) — **NO antibiotics** for O157 or Shiga toxin 2 producers (HUS risk), arrange culture with Shiga toxin testing (sorbitol-MacConkey/chromogenic agar for O157), nephrology consultation. Per [[idsa-2017-infectious-diarrhea|IDSA 2017]] (Rec 23), frequently monitor hemoglobin, platelets, electrolytes, blood urea nitrogen (BUN)/creatinine, and examine a peripheral smear for schistocytes to catch early HUS, which precedes overt renal injury.
+- **Suspected [[shiga-toxin-producing-e-coli|STEC]]** (bloody diarrhea, outbreak setting, hamburger exposure, hemolytic uremic syndrome signs: thrombocytopenia, microangiopathic hemolytic anemia, renal failure) — **NO antibiotics** for O157 or Shiga toxin 2 producers (HUS risk); arrange culture with Shiga toxin testing, and nephrology consultation. Testing route and the HUS monitoring panel are on [[shiga-toxin-producing-e-coli]].
 
 ---
 
@@ -362,7 +362,7 @@ Adult empiric agent = a fluoroquinolone (eg, ciprofloxacin) **or** azithromycin 
 
 ## See Also
 
-[[clostridioides-difficile]], [[fever-returning-traveler]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[chronic-diarrhea]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[celiac-disease]], [[microscopic-colitis]], [[colon-ischemia]], [[toxic-megacolon]], [[disorders-of-gut-brain-interaction]], [[norovirus]], [[rotavirus]], [[enterotoxigenic-e-coli]], [[salmonella-infection]], [[shigellosis]], [[campylobacter-infection]], [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[hiv-aids-related-diarrhea]], [[colonoscopy]], [[loperamide]], [[nitazoxanide]], [[rifaximin]], [[probiotics]], [[proton-pump-inhibitors]]
+[[clostridioides-difficile]], [[fever-returning-traveler]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[chronic-diarrhea]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[celiac-disease]], [[microscopic-colitis]], [[colon-ischemia]], [[toxic-megacolon]], [[disorders-of-gut-brain-interaction]], [[norovirus]], [[rotavirus]], [[enterotoxigenic-e-coli]], [[shiga-toxin-producing-e-coli]], [[salmonella-infection]], [[shigellosis]], [[campylobacter-infection]], [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[hiv-aids-related-diarrhea]], [[colonoscopy]], [[loperamide]], [[nitazoxanide]], [[rifaximin]], [[probiotics]], [[proton-pump-inhibitors]]
 
 ---
 

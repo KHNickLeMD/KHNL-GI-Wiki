@@ -3,7 +3,7 @@ title: "Primary Sclerosing Cholangitis"
 category: disease-script
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant, dominant-stricture, igg4, udca, mrcp, fish, liver-stiffness]
 created: 2026-05-19
-updated: 2026-09-22
+updated: 2026-10-12
 sources: [acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, aga-2019-psc-cancer-surveillance, baveno-viii-2026-portal-hypertension]
 ---
 
@@ -28,7 +28,7 @@ Primary sclerosing cholangitis (PSC) is a chronic, cholestatic liver disease lik
 - Elevated aminotransferases are common and do not suggest AIH overlap unless predominant or >5× upper limit of normal (ULN) ([[aasld-2022-psc]])
 - Autoantibodies (antineutrophil cytoplasmic antibody [ANCA], antinuclear antibody [ANA]/anti-smooth muscle antibody [SMA]) present but nonspecific and minimal diagnostic implications
 - Anti-mitochondrial antibody (AMA) negative (distinguishes from primary biliary cholangitis [PBC])
-- Immunoglobulin G4 (IgG4): elevated in up to 15% of PSC patients; high-titer IgG4 >5.6 g/L strongly suggests IgG4-related sclerosing cholangitis (IgG4-SC); IgG4/IgG1 ratio <0.24 can exclude IgG4-SC when serum IgG4 is 1.4–2.8 g/L ([[aasld-2022-psc]] guidance statement [GS] 4)
+- Immunoglobulin G4 (IgG4): elevated in **up to 15% of PSC patients**, so an elevation does not by itself reclassify the disease ([[aasld-2022-psc]] guidance statement [GS] 4). Titer cut-points and the IgG4/IgG1 ratio rule are on [[igg4-related-cholangitis|IgG4-related sclerosing cholangitis (IgG4-SC)]]
 
 **Diagnostic Algorithm (Figure 2, [[aasld-2022-psc]]):**
 
@@ -96,7 +96,7 @@ Primary sclerosing cholangitis (PSC) is a chronic, cholestatic liver disease lik
 | **ERCP** | Reserved for tissue sampling and/or therapy of relevant strictures; **avoid for diagnosis** (GS 3) | 1–9% post-ERCP [[acute-pancreatitis\|pancreatitis]] risk in PSC; bacterial [[acute-cholangitis\|cholangitis]] post-ERCP in 2–8%; always precede with MRI/MRCP |
 | **Liver biopsy** | Not required for typical large-duct PSC (GS 5); required for small-duct PSC or AIH overlap concern (GS 2) | "Onion-skin" periductal fibrosis is pathognomonic but infrequent and also seen in other obstructive cholangiopathies |
 | **Liver stiffness (TE/MRE)** | Preferred fibrosis staging method (GS 9); NOT liver biopsy (GS 10) | TE cutoffs: 9.6 kPa = F3; 14.4 kPa = F4; affected by inflammation/cholestasis — interpret in context |
-| **Serum IgG4** | Measure in all patients with possible PSC (GS 4) | IgG4 >5.6 g/L = IgG4-SC likely; IgG4/IgG1 <0.24 can exclude IgG4-SC |
+| **Serum IgG4** | Measure in all patients with possible PSC (GS 4); test established PSC at least once — *Conditional, moderate* ([[acg-2015-psc]]) | Interpretation cut-points on [[igg4-related-cholangitis]] |
 | **AMA** | Test to exclude PBC | Negative in PSC |
 | **CA 19-9 + MRI/MRCP** | Annual CCA surveillance (GS 18) | CA 19-9 alone must NOT diagnose CCA (GS 32); FUT2/FUT3 genotype affects CA 19-9 sensitivity; up to 10% of population does not express CA 19-9 |
 | **[[fish\|FISH (fluorescence in situ hybridization)]]** | Performed routinely during ERCP for relevant strictures (GS 19) | Pancreaticobiliary probe set: 93% sensitivity/100% specificity for malignancy; polysomy = ≥5 cells with gains in ≥2 probes; serial polysomy in dominant stricture = probable CCA |
@@ -138,7 +138,7 @@ Primary sclerosing cholangitis (PSC) is a chronic, cholestatic liver disease lik
 **Overlap syndromes:**
 
 - PSC-AIH overlap → treat per AASLD AIH guidelines (prednisone + [[thiopurines|azathioprine]] or budesonide + azathioprine) (GS 14)
-- IgG4-SC → corticosteroids (steroid-responsive; unlike classical PSC)
+- IgG4-SC → corticosteroids (steroid-responsive; unlike classical PSC) — regimen on [[igg4-related-cholangitis]]
 
 **[[portal-hypertension|Portal hypertension]]/cirrhosis management:**
 
