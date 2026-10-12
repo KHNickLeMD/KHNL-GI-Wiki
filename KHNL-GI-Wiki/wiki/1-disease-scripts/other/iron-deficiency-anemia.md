@@ -3,7 +3,7 @@ title: "Iron-Deficiency Anemia"
 category: disease-script
 tags: [iron-deficiency-anemia, ida, iron, ferritin, oral-iron, intravenous-iron, gi-bleeding, ibd, gave, celiac, angioectasia, bariatric]
 created: 2026-07-24
-updated: 2026-09-02
+updated: 2026-10-12
 sources: [aga-2020-ida, aga-2024-ida-management]
 ---
 
@@ -122,8 +122,8 @@ Per AGA 2020 [[aga-2020-ida]]:
 |---|---|
 | **Post-bariatric** (esp. Roux-en-Y) | **IV iron preferred** (duodenal bypass disrupts absorption) when no chronic GI blood-loss source; EGD to exclude anastomotic ulcer |
 | **[[inflammatory-bowel-disease\|IBD]]** | First determine intake/absorption vs. loss; **treat active inflammation**. **IV iron** if active inflammation with compromised absorption — IV superior to oral (efficacy odds ratio [OR] 1.57; discontinuation OR 0.27); ECCO: IV first-line if **Hgb <10 g/dL**. Oral acceptable in mild, clinically inactive disease |
-| **Portal hypertensive gastropathy (PHG)** | **Oral iron first** (no malabsorptive defect); IV iron if ongoing bleeding/non-response. Consider **nonselective β-blockers** to reduce portal pressure when no other blood-loss source (also [[cirrhosis]]/[[portal-hypertension]]) |
-| **Gastric antral vascular ectasia (GAVE)** | Iron repletion + **endoscopic therapy** if inadequate response — **endoscopic band ligation (EBL)** or thermal ([[argon-plasma-coagulation\|argon plasma coagulation (APC)]]); EBL favored (fewer sessions, greater transfusion reduction, +0.59 g/dL Hgb) |
+| **[[portal-hypertensive-gastropathy\|Portal hypertensive gastropathy (PHG)]]** | **Oral iron first** (no malabsorptive defect); IV iron if ongoing bleeding/non-response. Consider **nonselective β-blockers** to reduce portal pressure when no other blood-loss source (also [[cirrhosis]]/[[portal-hypertension]]) |
+| **[[gastric-antral-vascular-ectasia\|Gastric antral vascular ectasia (GAVE)]]** | Iron repletion + **endoscopic therapy** if inadequate response — **endoscopic band ligation (EBL)** or thermal ([[argon-plasma-coagulation\|argon plasma coagulation (APC)]]); EBL favored — the head-to-head numbers are on that page |
 | **[[celiac-disease\|Celiac disease]]** | **Gluten-free diet (GFD)** is central (restores absorption); oral iron by severity, then **IV iron if stores don't recover**; up to 20% remain iron-deficient despite strict GFD |
 | **Small-bowel [[angioectasia\|angioectasias]]** | **[[device-assisted-enteroscopy\|Deep enteroscopy]] with a distal cap attachment** (improves detection/therapy); treat with **APC or hemostatic clips + iron repletion**. [[somatostatin-analogs\|Somatostatin analogues]] (octreotide > lanreotide) / thalidomide only for **refractory** cases (rebleed: small-bowel 45%) |
 
@@ -131,7 +131,7 @@ Per AGA 2020 [[aga-2020-ida]]:
 
 ## See Also
 
-[[small-bowel-bleeding]], [[celiac-disease]], [[helicobacter-pylori-infection]], [[test-and-treat]], [[inflammatory-bowel-disease]], [[angioectasia]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[argon-plasma-coagulation]], [[somatostatin-analogs]], [[colonoscopy]], [[upper-endoscopy]], [[bariatric-surgery]], [[obesity]], [[cirrhosis]], [[portal-hypertension]], [[iron-overload-and-iron-metabolism]]
+[[small-bowel-bleeding]], [[celiac-disease]], [[helicobacter-pylori-infection]], [[test-and-treat]], [[inflammatory-bowel-disease]], [[angioectasia]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[argon-plasma-coagulation]], [[somatostatin-analogs]], [[colonoscopy]], [[upper-endoscopy]], [[bariatric-surgery]], [[obesity]], [[cirrhosis]], [[portal-hypertension]], [[portal-hypertensive-gastropathy]], [[gastric-antral-vascular-ectasia]], [[iron-overload-and-iron-metabolism]]
 
 ---
 

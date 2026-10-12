@@ -3,7 +3,7 @@ title: "NCCN Clinical Practice Guidelines in Oncology: Gastric Cancer (Version 3
 category: source
 tags: [gastric-cancer, gastric-adenocarcinoma, her2, pd-l1, msi-h, dmmr, claudin-18.2, zolbetuximab, trastuzumab, trastuzumab-deruxtecan, nivolumab, pembrolizumab, dostarlimab, flot, perioperative-chemotherapy, gastrectomy, endoscopic-resection, nccn, oncology]
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-10-12
 sources: []
 ---
 
@@ -17,6 +17,31 @@ sources: []
 - **Type:** Guideline (algorithm-based; NCCN categories of evidence — all recommendations category 2A unless otherwise indicated)
 
 > **Note on content & licensing.** NCCN content is copyrighted and its End-User License Agreement prohibits redistribution and use of the content with artificial intelligence (AI) tools. This source page therefore **summarizes and cites** the guideline rather than reproducing its proprietary algorithm pages verbatim. Pages built from it are written in original language with NCCN cited as the source. Consult the original NCCN algorithm pages (GAST-1 … and Principles GAST-A … GAST-F) for the authoritative, citable pathways.
+
+## How This Guideline Rates Things — Two Separate Vocabularies
+
+NCCN uses **two** schemes, both defined on document page CAT-1, and neither is GRADE. **The document numbers no recommendations**, so any numbering used on wiki pages is the wiki's own.
+
+**1. Categories of evidence and consensus** — how strong the backing is:
+
+| Category | Meaning |
+|---|---|
+| Category 1 | High-level evidence (≥1 randomized phase 3 trial, or high-quality robust meta-analysis) + uniform NCCN consensus (≥85% panel support) |
+| Category 2A | Lower-level evidence + uniform NCCN consensus (≥85%) |
+| Category 2B | Lower-level evidence + NCCN consensus ≥50% but <85% |
+| Category 3 | Any level of evidence, with major NCCN disagreement |
+
+**All recommendations are category 2A unless otherwise indicated** — printed on every algorithm page. Where a wiki page gives no category, the document gave none (i.e., 2A by default).
+
+**2. Categories of preference** — how an intervention ranks among appropriate options:
+
+| Label | Meaning |
+|---|---|
+| **Preferred** | Superior efficacy, safety and evidence; and, where relevant, affordability |
+| **Other recommended** | Possibly somewhat less efficacious, more toxic, or on less mature data; or significantly less affordable for similar outcomes |
+| **Useful in certain circumstances** | For selected patient populations, defined with the recommendation |
+
+**All recommendations listed are considered appropriate** — the preference label ranks options, it does not make the lower ones inappropriate. ⚠ The two schemes are **independent**: a regimen can be *Preferred* and category 2A, or *Useful in certain circumstances* and category 1 (and in v3.2026 fam-trastuzumab deruxtecan is *Preferred* **and** moved from category 2A to **category 1**). Never collapse them into a single strength.
 
 ## Summary
 
@@ -42,4 +67,6 @@ Version 3.2026 reorganizes the systemic-therapy principles around HER2 status, m
 ## Contradictions / Open Questions
 
 - Algorithm-based guideline (category 2A by default), not a Grading of Recommendations Assessment, Development and Evaluation (GRADE) systematic review; complements the American College of Gastroenterology (ACG) gastric-premalignant-conditions guideline (which governs precursor-lesion screening/surveillance).
+- **Staging and expanded endoscopic-resection criteria overlap with other sources rather than conflicting.** The expanded ESD indication set NCCN attributes to Japanese and American guidelines is the same set [[asge-2023-esd]] gives, and that page owns it — [[gastric-adenocarcinoma]] cites ASGE for it, not NCCN. NCCN adds the surgical-adequacy framing: endoscopic resection of a cancer that is poorly differentiated, shows lymphovascular invasion (LVI), invades the deep submucosa, or has positive lateral/deep margins **counts as incomplete**, and gastrectomy with lymphadenectomy should be considered.
+- **NCCN's own caution on EUS before endoscopic resection:** EUS is **not reliable for distinguishing superficial from deep submucosal invasion**, so endoscopic resection is itself the staging manoeuvre. EUS performed **after** chemotherapy or radiation also loses accuracy for post-treatment stage, and post-treatment biopsies may miss residual disease while still being informative.
 - Reliability of imaging/endoscopy to confirm pathologic complete response in MSI-H/dMMR tumors is an open question; organ-preservation remains investigational.

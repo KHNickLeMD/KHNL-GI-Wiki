@@ -3,7 +3,7 @@ title: "Gastric Adenocarcinoma"
 category: disease-script
 tags: [gastric-cancer, gastric-adenocarcinoma, gastric, malignancy, her2, pd-l1, msi-h, dmmr, claudin-18.2, flot, gastrectomy, endoscopic-resection, trastuzumab, zolbetuximab, nccn, oncology]
 created: 2026-06-01
-updated: 2026-09-22
+updated: 2026-10-12
 sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant, asge-2023-esd, aga-2018-esd-united-states]
 ---
 
@@ -15,6 +15,7 @@ sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant, asge-2023-es
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
   - [[#Biomarker Testing]]
+    - [[#What Makes a HER2 IHC Score — and When ISH Is Needed]]
 - [[#Therapeutics]]
   - [[#NCCN Treatment Algorithm]]
 - [[#See Also]]
@@ -100,11 +101,26 @@ Every systemic-therapy recommendation below is conditional on one of these cutof
 
 | Biomarker | "Positive" defined as | When to test |
 |---|---|---|
-| **HER2 (ERBB2)** | **immunohistochemistry (IHC) 3+**, or **IHC 2+ with in situ hybridization (ISH)/fluorescence in situ hybridization (FISH)-positive** | Advanced/metastatic disease |
+| **HER2 (ERBB2)** | **immunohistochemistry (IHC) 3+**, or **IHC 2+ with in situ hybridization (ISH)/fluorescence in situ hybridization (FISH)-positive** — the IHC score criteria and the ISH cutoffs are below | Advanced/metastatic disease |
 | **PD-L1 combined positive score (CPS)** | **CPS ≥1**. CPS = PD-L1–stained cells (tumor cells, lymphocytes, macrophages) ÷ total viable tumor cells × 100. **≥100 tumor cells** must be present for the slide to be evaluable | Universal IHC testing in all newly diagnosed patients who are candidates for a PD-1/PD-L1 inhibitor; Clinical Laboratory Improvement Amendments (CLIA)-approved lab, companion diagnostic assay |
 | **Tumor area positivity (TAP) score** | **TAP ≥1%** — visual determinant of positivity (stained tumor + immune cells ÷ whole tumor area) rather than cell counting. **CPS and TAP have high concordance and may be used interchangeably** (v3.2026), so TAP ≥1% satisfies the CPS ≥1 gate. Tumor proportion score (TPS) is **not** used in these guidelines | As for CPS |
 | **Claudin 18.2 (CLDN18.2)** | **≥75% of viable tumor cells** with **moderate-to-strong membranous staining (2+ or 3+ intensity)** by qualitative IHC on formalin-fixed paraffin-embedded (FFPE) tissue | Untreated unresectable locally advanced, recurrent, or metastatic disease when **zolbetuximab** is being considered |
 | **Microsatellite instability–high (MSI-H) / mismatch repair deficient (dMMR)** | By IHC/polymerase chain reaction (PCR)/next-generation sequencing (NGS) as per assay | Advanced disease (directs immunotherapy); also triggers consideration of perioperative immunotherapy |
+
+#### What Makes a HER2 IHC Score — and When ISH Is Needed
+
+**Order IHC first; send only the 2+ (equivocal) cases for ISH.** A 3+ (positive) or 0/1+ (negative) IHC result needs no ISH ([[nccn-2026-gastric-cancer]]).
+
+⚠ **The criteria differ between a surgical specimen and a biopsy** — a biopsy is scored on a **cluster of ≥5 cancer cells**, with **no percentage requirement at all**, whereas a surgical specimen needs the reactivity in **≥10% of cancer cells**. Applying the surgical 10% rule to a biopsy will under-call HER2.
+
+| IHC score | Surgical specimen | Biopsy specimen | HER2 status |
+|---|---|---|---|
+| **0** | No reactivity, or membranous reactivity in **<10%** of cancer cells | No membranous reactivity in any cancer cell | Negative |
+| **1+** | **Faint/barely perceptible** membranous reactivity in **≥10%**; only part of the membrane reactive | **Cluster of ≥5** cancer cells with faint/barely perceptible membranous reactivity, **any percentage** | Negative |
+| **2+** | **Weak-to-moderate** complete, basolateral or lateral membranous reactivity in **≥10%** | **Cluster of ≥5** cancer cells with weak-to-moderate complete/basolateral/lateral reactivity, **any percentage** | **Equivocal → reflex to ISH** |
+| **3+** | **Strong** complete, basolateral or lateral membranous reactivity in **≥10%** | **Cluster of ≥5** cancer cells with strong complete/basolateral/lateral reactivity, **any percentage** | Positive |
+
+**ISH/FISH is positive at either** of (it does not need both): **HER2 (ERBB2):CEP17 ratio ≥2**, **or** average **HER2 copy number ≥6.0 signals/cell**.
 
 ## Therapeutics
 

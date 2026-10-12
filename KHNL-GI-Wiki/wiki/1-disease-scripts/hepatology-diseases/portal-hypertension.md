@@ -3,7 +3,7 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-09-22
+updated: 2026-10-12
 sources: [baveno-viii-2026-portal-hypertension, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis, wang-2026-eus-ppg-delphi-consensus, aga-2021-bleeding-gastric-varices, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
 ---
 
@@ -383,11 +383,11 @@ Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP cl
 
 ### Portal Hypertensive Gastropathy (PHG) and GAVE
 
-- Portal hypertensive gastropathy (PHG) >mild: presumed CSPH; consider prophylactic NSBB (GS 48)
-- Acute PHG bleeding: vasoactive therapy × 2–5 days (GS 49)
-- **Baveno VIII 5.44 orders the options explicitly:** management of PHG focuses **primarily on reducing portal pressure with NSBB**; for severe or refractory PHG bleeding, **[[tips|TIPS]] is the most effective rescue therapy**. Because endoscopic therapies do not lower portal pressure, they **provide limited benefit and are reserved for focal bleeding lesions or salvage** — a demotion from Baveno VII 7.14, which said endoscopic therapy (argon plasma coagulation [APC], hemospray) "may be used"
-- **Gastric antral vascular ectasia (GAVE) with serial transfusion requirement → EVL is recommended over [[argon-plasma-coagulation|argon plasma coagulation]]** (Baveno VIII 5.43, LoE 1, strong): higher eradication rates, fewer treatment sessions, and reductions in recurrent bleeding, hospitalisations and transfusion requirement. Baveno VII 6.25 had listed APC, [[radiofrequency-ablation|radiofrequency ablation (RFA)]] and band ligation as interchangeable options
-- **PHG must be distinguished from GAVE** — the treatments differ (Baveno VI/VII, retained in the Baveno VIII still-valid box)
+*Severity grading, prevalence, natural history and the full treatment sequence are on [[portal-hypertensive-gastropathy]] and [[gastric-antral-vascular-ectasia|gastric antral vascular ectasia (GAVE)]]. The portal-hypertension-side decisions only:*
+
+- **Greater-than-mild PHG → presume CSPH → consider prophylactic NSBB** to prevent decompensation (GS 48). The Baveno III score that defines "greater than mild" is on [[portal-hypertensive-gastropathy]]
+- Acute bleeding from severe PHG: vasoactive therapy × 2–5 days (GS 49); NSBB to prevent rebleeding from PHG and PH-related polyps (GS 50); **[[tips|TIPS]] for transfusion-dependent PHG despite NSBB** (GS 51, and Baveno VIII 5.44 calls TIPS the most effective rescue therapy)
+- ⚠ **PHG must be distinguished from GAVE** — the treatments differ (Baveno VI/VII, retained in the Baveno VIII still-valid box). PHG responds to portal-pressure reduction; **GAVE requiring serial transfusion gets band ligation, recommended over [[argon-plasma-coagulation|argon plasma coagulation]]** (Baveno VIII 5.43), and no ingested source recommends NSBB for it. The head-to-head numbers behind that preference are on [[gastric-antral-vascular-ectasia]]
 
 ### Special Situations
 
@@ -420,7 +420,7 @@ Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP cl
 
 ## See Also
 
-[[cirrhosis]], [[variceal-upper-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[nafld-masld]], [[upper-endoscopy]], [[acute-on-chronic-liver-failure]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[abnormal-liver-chemistries]], [[liver-biopsy]], [[antibiotic-prophylaxis-cirrhosis]], [[proton-pump-inhibitors]], [[somatostatin-analogs]], [[enteral-access]], [[tips]], [[rifaximin]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]], [[obesity]], [[endoscopic-ultrasound]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[direct-acting-antivirals]], [[autoimmune-hepatitis]], [[argon-plasma-coagulation]], [[radiofrequency-ablation]], [[nonselective-beta-blockers]], [[terlipressin]]
+[[cirrhosis]], [[variceal-upper-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[nafld-masld]], [[upper-endoscopy]], [[acute-on-chronic-liver-failure]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[abnormal-liver-chemistries]], [[liver-biopsy]], [[antibiotic-prophylaxis-cirrhosis]], [[proton-pump-inhibitors]], [[somatostatin-analogs]], [[enteral-access]], [[tips]], [[rifaximin]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]], [[obesity]], [[endoscopic-ultrasound]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[direct-acting-antivirals]], [[autoimmune-hepatitis]], [[argon-plasma-coagulation]], [[radiofrequency-ablation]], [[nonselective-beta-blockers]], [[terlipressin]], [[portal-hypertensive-gastropathy]], [[gastric-antral-vascular-ectasia]]
 
 ---
 

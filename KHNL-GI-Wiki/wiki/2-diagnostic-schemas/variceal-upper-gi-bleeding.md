@@ -3,11 +3,11 @@ title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-09-22
+updated: 2026-10-12
 sources: [baveno-viii-2026-portal-hypertension, albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-tips, aga-2021-bleeding-gastric-varices]
 ---
 
-> **[[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] supersedes [[baveno-vii-2022-portal-hypertension|Baveno VII]].** Where they differ this page states the VIII position and names what changed. Notable for this page: the pre-emptive transjugular intrahepatic portosystemic shunt (TIPS) band, a **24-hour** vasoactive option, individualized antibiotic duration, the removal of the numeric salvage-TIPS futility rule, endoscopic ultrasound (EUS)–guided coil + glue for cardiofundal varices, and endoscopic variceal ligation (EVL) over argon plasma coagulation (APC) for gastric antral vascular ectasia (GAVE).
+> **[[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] supersedes [[baveno-vii-2022-portal-hypertension|Baveno VII]].** Where they differ this page states the VIII position and names what changed. Notable for this page: the pre-emptive transjugular intrahepatic portosystemic shunt (TIPS) band, a **24-hour** vasoactive option, individualized antibiotic duration, the removal of the numeric salvage-TIPS futility rule, endoscopic ultrasound (EUS)–guided coil + glue for cardiofundal varices, and endoscopic variceal ligation (EVL) over argon plasma coagulation (APC) for [[gastric-antral-vascular-ectasia|gastric antral vascular ectasia (GAVE)]].
 
 ## Definition / Scope
 
@@ -36,7 +36,7 @@ In a cirrhotic patient with UGIB, consider:
 - **Portal hypertensive gastropathy (PHG)** — diffuse oozing, not brisk hemorrhage; may cause chronic blood loss
 - **[[peptic-ulcer-disease|Peptic ulcer disease]]** — cirrhosis increases risk ([[helicobacter-pylori-infection|H. pylori]], nonsteroidal anti-inflammatory drugs [NSAIDs], impaired mucosal defense)
 - **Mallory-Weiss tear** — especially with retching/vomiting
-- **GAVE** — chronic occult loss, watermelon stomach appearance
+- **GAVE** — antral lesion, usually chronic occult loss presenting as iron-deficiency anemia
 
 ## Diagnostic Algorithm
 
@@ -174,9 +174,11 @@ Bleeding from **GOV2 or IGV1 is a high-risk event** requiring **rapid, structure
 
 ## Portal Hypertensive Gastropathy and GAVE
 
-- **PHG (Baveno VIII 5.44):** management focuses **primarily on reducing portal pressure with NSBB**. For severe or refractory PHG bleeding, **TIPS is the most effective rescue therapy**. Because endoscopic therapies do not lower portal pressure, **they provide limited benefit and are reserved for focal bleeding lesions or salvage**. ⚠ Baveno VII 7.14 had said endoscopic therapy ([[argon-plasma-coagulation|argon plasma coagulation]], hemospray) "may be used"
-- **GAVE (Baveno VIII 5.43):** in patients **requiring serial transfusion**, **EVL is recommended over argon plasma coagulation** (level of evidence [LoE] 1, strong) — higher eradication rates, fewer treatment sessions, and reductions in recurrent bleeding, hospitalisation and transfusion requirement. ⚠ Baveno VII 6.25 listed APC, [[radiofrequency-ablation|radiofrequency ablation (RFA)]] and band ligation as interchangeable options for PHG/GAVE
-- **PHG must be distinguished from GAVE** — the treatments differ (Baveno VI/VII, retained as still valid in Baveno VIII)
+*Both lesions have their own pages — grading, prevalence and the full treatment sequence live there: [[portal-hypertensive-gastropathy]] and [[gastric-antral-vascular-ectasia|GAVE]]. What matters for a patient presenting with suspected variceal bleeding:*
+
+- **Neither is a variceal lesion, and the pathways diverge** — **PHG** is diffuse and responds to portal-pressure reduction with NSBB (Baveno VIII 5.44, with [[tips|TIPS]] as the most effective rescue therapy for severe or refractory bleeding); **GAVE** is antral and responds to endoscopic ligation (Baveno VIII 5.43).
+- ⚠ **PHG must be distinguished from GAVE at the index endoscopy** — the treatments differ (Baveno VI/VII, retained as still valid in Baveno VIII).
+- **Acute bleeding from severe PHG** gets the same vasoactive therapy as variceal bleeding, for 2–5 days ([[aasld-2023-portal-hypertension]] GS 49) — so the resuscitation bundle above is not wasted if the source turns out to be PHG.
 
 ## Antibiotic Prophylaxis
 
@@ -195,13 +197,13 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 
 **Current recommendation**: The 5–7 day duration recommendation is not supported by high-quality evidence. An individualized approach is reasonable — consider patient-specific factors (liver disease severity, local resistance patterns). Shorter durations (2–3 days) may be acceptable in lower-risk patients if prophylaxis is used.
 
-**[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.10 now says this in a guideline.** Antibiotics remain **recommended at presentation** (LoE 1, strong), but **duration and need could be individualized based on infection risk and cirrhosis severity, "as Child-Pugh A patients may only require a shorter course or no therapy"** (LoE 2, weak). Baveno VII 6.8 had said only that prospective studies were still needed before antibiotics could be avoided in Child-Pugh A. An RCT of preventive antibiotics vs none in Child-Pugh A remains a research-agenda item (RA5.2) — so **do not omit prophylaxis outside a Child-Pugh A patient**, and document the reasoning when you do.
+**[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.10 now says this in a guideline.** Antibiotics remain **recommended at presentation** (level of evidence [LoE] 1, strong), but **duration and need could be individualized based on infection risk and cirrhosis severity, "as Child-Pugh A patients may only require a shorter course or no therapy"** (LoE 2, weak). Baveno VII 6.8 had said only that prospective studies were still needed before antibiotics could be avoided in Child-Pugh A. An RCT of preventive antibiotics vs none in Child-Pugh A remains a research-agenda item (RA5.2) — so **do not omit prophylaxis outside a Child-Pugh A patient**, and document the reasoning when you do.
 
 ---
 
 ## See Also
 
-[[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[tips]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[somatostatin-analogs]], [[nutrition-in-liver-disease]], [[cirrhosis-hemostasis]], [[rifaximin]], [[upper-endoscopy]], [[hepatic-venous-pressure-gradient]], [[acute-on-chronic-liver-failure]], [[portal-vein-thrombosis]], [[endoscopy-sedation]], [[anticoagulation-gi-bleeding]], [[endoscopic-ultrasound]], [[hepatocellular-carcinoma]], [[proton-pump-inhibitors]], [[endoscopic-hemostasis]], [[argon-plasma-coagulation]], [[nonselective-beta-blockers]], [[terlipressin]]
+[[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[tips]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[somatostatin-analogs]], [[nutrition-in-liver-disease]], [[cirrhosis-hemostasis]], [[rifaximin]], [[upper-endoscopy]], [[hepatic-venous-pressure-gradient]], [[acute-on-chronic-liver-failure]], [[portal-vein-thrombosis]], [[endoscopy-sedation]], [[anticoagulation-gi-bleeding]], [[endoscopic-ultrasound]], [[hepatocellular-carcinoma]], [[proton-pump-inhibitors]], [[endoscopic-hemostasis]], [[argon-plasma-coagulation]], [[nonselective-beta-blockers]], [[terlipressin]], [[portal-hypertensive-gastropathy]], [[gastric-antral-vascular-ectasia]]
 
 ---
 

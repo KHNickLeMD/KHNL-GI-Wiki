@@ -3,7 +3,7 @@ title: "Upper GI Bleeding"
 category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
-updated: 2026-10-04
+updated: 2026-10-12
 sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2020-nvugib-endoscopic-therapies]
 ---
 
@@ -86,12 +86,13 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 | **[[angioectasia\|Angiodysplasia / arteriovenous malformation (AVM)]]** | Older patients; anticoagulant use; often right-sided gastric or duodenal lesions; vascular ectasia on endoscopy |
 | **Aortoenteric fistula** | History of aortic graft surgery; sentinel bleed followed by massive exsanguination; computed tomography (CT) imaging urgently |
 | **Cameron lesions** | Erosions at the diaphragmatic hiatus in a [[hiatal-hernia\|hiatal hernia]]; chronic iron-deficiency more than overt bleeding |
-| **GAVE (gastric antral vascular ectasia)** | Chronic occult or overt bleeding; "watermelon stomach" pattern; associated with [[portal-hypertension\|portal hypertension]] and autoimmune disease |
+| **[[gastric-antral-vascular-ectasia\|GAVE (gastric antral vascular ectasia)]]** | Antral lesion; chronic occult blood loss more than overt bleeding; associated with cirrhosis, chronic kidney disease and systemic sclerosis |
 
 ### Variceal / Portal Hypertensive
 
 - **Esophageal varices**: Most common variceal source; high-volume hematemesis; associated stigmata of cirrhosis
 - **Gastric varices**: Less common; may bleed more severely; see [[variceal-upper-gi-bleeding]] for detailed management
+- **[[portal-hypertensive-gastropathy|Portal hypertensive gastropathy (PHG)]]**: diffuse "snakeskin" mosaic mucosa; chronic blood loss far commoner than acute bleeding; treated by lowering [[portal-hypertension|portal pressure]], not endoscopically
 
 ### Less Common
 
@@ -376,7 +377,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 ## See Also
 
-[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[endoscopic-hemostasis]], [[upper-endoscopy]], [[colonoscopy]], [[portal-hypertension]], [[cirrhosis]], [[anticoagulation-gi-bleeding]], [[angioectasia]], [[gastric-adenocarcinoma]], [[esophageal-cancer]], [[argon-plasma-coagulation]], [[electrosurgery]], [[proton-pump-inhibitors]], [[test-and-treat]], [[iron-deficiency-anemia]], [[dysphagia]], [[jaundice]], [[ascites]], [[gerd]]
+[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[endoscopic-hemostasis]], [[upper-endoscopy]], [[colonoscopy]], [[portal-hypertension]], [[portal-hypertensive-gastropathy]], [[gastric-antral-vascular-ectasia]], [[cirrhosis]], [[anticoagulation-gi-bleeding]], [[angioectasia]], [[gastric-adenocarcinoma]], [[esophageal-cancer]], [[argon-plasma-coagulation]], [[electrosurgery]], [[proton-pump-inhibitors]], [[test-and-treat]], [[iron-deficiency-anemia]], [[dysphagia]], [[jaundice]], [[ascites]], [[gerd]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Nonselective Beta-Blockers (NSBBs)"
 category: med
 tags: [nsbb, carvedilol, propranolol, nadolol, portal-hypertension, csph, cirrhosis, varices, variceal-bleeding, decompensation, cacld]
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-12
 sources: [aasld-2023-portal-hypertension, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -81,7 +81,7 @@ The extra α-1 blockade is why carvedilol produces a **markedly greater [[hepati
 | Decompensated, never bled, **not** on NSBB | Annual screening endoscopy; if high-risk varices found → NSBB preferred over band ligation (benefits beyond bleeding prevention) | [[aasld-2023-portal-hypertension]] GS 22, 23 |
 | **Secondary prophylaxis** after oesophageal variceal bleed | **NSBB + endoscopic variceal ligation (EVL)**, carvedilol preferred over cNSBB — regardless of what was used for primary prophylaxis | [[baveno-viii-2026-portal-hypertension]] 4.8; [[aasld-2023-portal-hypertension]] GS 38 |
 | After [[variceal-upper-gi-bleeding\|acute variceal haemorrhage]], no transjugular intrahepatic portosystemic shunt (TIPS) | Start NSBB **at discontinuation of vasoactive therapy**. A short vasoactive course (even 24 h) after successful endoscopic haemostasis is acceptable **provided NSBB is then initiated** | [[aasld-2023-portal-hypertension]] GS 33; [[baveno-viii-2026-portal-hypertension]] 5.8 |
-| Portal hypertensive gastropathy | **NSBB first-line** to prevent rebleeding; [[tips\|TIPS]] is the most effective rescue if transfusion-dependent | [[baveno-viii-2026-portal-hypertension]] 5.44; [[aasld-2023-portal-hypertension]] GS 50, 51 |
+| [[portal-hypertensive-gastropathy\|Portal hypertensive gastropathy]] | **NSBB first-line** to prevent rebleeding; [[tips\|TIPS]] is the most effective rescue if transfusion-dependent | [[baveno-viii-2026-portal-hypertension]] 5.44; [[aasld-2023-portal-hypertension]] GS 50, 51 |
 | [[hepatocellular-carcinoma\|hepatocellular carcinoma (HCC)]] with CSPH | NSBB for primary prophylaxis and decompensation prevention, absent contraindications | [[aasld-2023-portal-hypertension]] GS 53 |
 | Occlusive bland or malignant [[portal-vein-thrombosis\|portal vein thrombosis (PVT)]] with varices | NSBB preferred over band ligation | [[aasld-2023-portal-hypertension]] GS 54 |
 | **Pregnancy** | Prophylaxis follows non-pregnant principles, **including the use of propranolol** | [[baveno-viii-2026-portal-hypertension]] 8.18 |

@@ -3,7 +3,7 @@ title: "Endoscopic Hemostasis"
 category: general-procedure
 tags: [hemostasis, gi-bleeding, ugib, lgib, clips, thermal, hemostatic-powder, over-the-scope-clip, hemostatic-forceps, band-ligation, endoscopy]
 created: 2026-09-06
-updated: 2026-09-18
+updated: 2026-10-12
 sources: [aga-2020-nvugib-endoscopic-therapies, acg-2021-ugib, acg-2023-lgib, acg-2025-egd-quality]
 ---
 
@@ -42,7 +42,7 @@ This page covers the **hemostatic devices themselves** — mechanism, settings, 
 | Timing of endoscopy, transfusion thresholds, pre-endoscopic proton pump inhibitor (PPI) and prokinetics | [[upper-gi-bleeding]] |
 | Which modality for diverticular hemorrhage, angioectasia, or postpolypectomy bleeding | [[acute-lower-gi-bleeding]] |
 | Variceal band ligation, glue injection, and the portal-hypertensive algorithm | [[variceal-upper-gi-bleeding]] |
-| Argon plasma coagulation (APC) in [[radiation-proctopathy\|radiation proctopathy]], gastric antral vascular ectasia (GAVE), and non-bleeding indications | [[argon-plasma-coagulation]] |
+| Argon plasma coagulation (APC) in [[radiation-proctopathy\|radiation proctopathy]], [[gastric-antral-vascular-ectasia\|gastric antral vascular ectasia (GAVE)]], and non-bleeding indications | [[argon-plasma-coagulation]] |
 | Electrosurgical current modes and generator principles | [[electrosurgery]] |
 
 **Scope.** Everything below is assembled from bleeding-management guidelines and one device-focused clinical practice update; there is no dedicated hemostasis guideline.
