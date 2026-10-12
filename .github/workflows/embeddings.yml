@@ -8,6 +8,12 @@ on:
       - 'KHNL-GI-Wiki/wiki/**/*.md'
       - 'website_files/scripts/build-embeddings.mjs'
 
+# A newer push supersedes an in-flight rebuild (it rebuilds from newer main);
+# without this the older run's push is rejected as non-fast-forward (2026-10-12).
+concurrency:
+  group: embeddings
+  cancel-in-progress: true
+
 jobs:
   rebuild:
     runs-on: ubuntu-latest
@@ -16,10 +22,10 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '20'
           cache: 'npm'
@@ -42,8 +48,13 @@ jobs:
       - name: Wait out the triggering push's Pages deploy
         run: sleep 120
 
+      # Pushes outside the paths filter (cards, log) can still land during the
+      # sleep; fast-forward onto them so the commit below isn't rejected.
+      - name: Catch up with main
+        run: git pull --ff-only origin main
+
       - name: Commit updated embeddings
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: 'chore: rebuild search embeddings [skip ci]'
           file_pattern: 'website_files/search/chunks.json website_files/search/embeddings.b64 website_files/search/wiki-bundle.json'
