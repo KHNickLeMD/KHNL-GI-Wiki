@@ -3,8 +3,8 @@ title: "Proton Pump Inhibitors (PPIs)"
 category: med
 tags: [ppi, acid-suppression, gerd, erosive-esophagitis, peptic-ulcer-disease, h-pylori, eoe, omeprazole, esomeprazole]
 created: 2026-07-21
-updated: 2026-09-06
-sources: [acg-2021-gerd, acg-2024-hp-treatment, acg-2025-eoe, acg-2022-barretts, aga-2026-cdiff-adults, aga-2022-ppi-deprescribing]
+updated: 2026-10-13
+sources: [acg-2021-gerd, acg-2024-hp-treatment, acg-2025-eoe, acg-2022-barretts, aga-2026-cdiff-adults, aga-2022-ppi-deprescribing, nccn-2026-net]
 ---
 
 Proton pump inhibitors (PPIs) are the drug class that inhibits the gastric H⁺/K⁺-ATPase (proton pump); the mainstay medical acid-suppressant for [[gerd|gastroesophageal reflux disease (GERD)]], erosive esophagitis, [[peptic-ulcer-disease|peptic ulcer disease (PUD)]], and [[helicobacter-pylori-infection|H. pylori]] eradication regimens. Contrast with [[potassium-competitive-acid-blockers|potassium-competitive acid blockers (P-CABs)]] (e.g. [[vonoprazan]]).
@@ -187,6 +187,7 @@ Warn every patient stopping long-term PPI that they may develop **transient uppe
 - **Putative serious associations** (chronic use): intestinal infections, pneumonia, [[gastric-adenocarcinoma|stomach cancer]], osteoporosis-related fractures, chronic kidney disease, vitamin/mineral deficiencies, myocardial infarction, stroke, dementia, early death. High-quality studies found PPIs do **not** significantly increase risk of any of these **except intestinal infections**; a small increase in others cannot be fully excluded. Benefits generally far outweigh theoretical risks.
 - **[[clostridioides-difficile|C. difficile]] — the decision is binary, and dose reduction is not an option** ([[aga-2026-cdiff-adults]], BPA 13). During C. difficile infection (CDI) treatment or recurrence prevention, **evaluate the indication**: if a legitimate one exists (ulcer prevention, severe GERD), **do not discontinue** — benefit outweighs the CDI risk. If none exists, discuss cessation. **No evidence supports reducing the dose.**
   - Magnitude of risk: pooled observational recurrent CDI **24% in PPI users vs 18% in nonusers**; the largest RCT (>17,000 patients, 3 years) found no significant increase (**11 vs 4 cases; number needed to harm (NNH) 1800** with daily pantoprazole); recent meta-analyses found no significant difference vs placebo, H2RA, or [[potassium-competitive-acid-blockers|P-CAB]]. Proposed mechanism: enhanced spore survival in a less acidic stomach plus altered colonization resistance.
+- **Gastric neuroendocrine tumors (gNETs) — a separate, oncology-side signal** ([[nccn-2026-net]]). Increasing evidence that long-term PPI therapy raises the risk of gNETs, via sustained hypergastrinemia driving enterochromaffin-like-cell hyperplasia. Two things keep this from being a reason to stop the drug: these lesions have a **much lower propensity to metastasize** than sporadic (type 3) gNETs, and they are routed to endoscopic treatment. What it does change is **interpretation** — a gNET found in a long-term PPI user with high gastrin and **no** gastrinoma is a PPI-associated lesion, not a type 3, and that reassignment changes its management. It also means serum gastrin drawn on a PPI is uninterpretable — the gNET page holds the subtyping protocol with the washout rule and its exception.
 - **No routine monitoring/supplementation** in patients without other risk factors: calcium/vitamin D/BMD; vitamin B12; serum creatinine.
 - **[[anticoagulation-gi-bleeding|Clopidogrel]]:** for LA grade C/D esophagitis or inadequately controlled GERD, benefits outweigh the proposed (highly questionable) cardiovascular risk.
 - **Renal insufficiency:** PPIs may be used with monitoring of renal function / nephrology input.
@@ -214,3 +215,4 @@ Warn every patient stopping long-term PPI that they may develop **transient uppe
 4. [[acg-2022-barretts|ACG 2022: Diagnosis and Management of Barrett's Esophagus]]
 5. [[aga-2026-cdiff-adults|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Adults: Expert Review (2026)]]
 6. [[aga-2022-ppi-deprescribing|AGA Clinical Practice Update on De-Prescribing of Proton Pump Inhibitors: Expert Review]]
+7. [[nccn-2026-net|NCCN Clinical Practice Guidelines in Oncology: Neuroendocrine and Adrenal Tumors (Version 1.2026)]]

@@ -3,7 +3,7 @@ title: "Gastroenteropancreatic Neuroendocrine Tumors (GEP-NETs)"
 category: disease-script
 tags: [neuroendocrine-tumor, net, gep-net, pannet, carcinoid, gastrinoma, insulinoma, glucagonoma, vipoma, zollinger-ellison, men1, prrt]
 created: 2026-06-18
-updated: 2026-09-05
+updated: 2026-10-13
 sources: [nccn-2026-net]
 ---
 
@@ -31,7 +31,7 @@ Diagnosis requires **histology** with neuroendocrine immunohistochemical markers
 
 Biochemical workup is **site- and syndrome-directed** rather than universal:
 
-- **Gastric:** [[upper-endoscopy|Esophagogastroduodenoscopy (EGD)]] with mapped biopsies, fasting serum gastrin (off [[proton-pump-inhibitors|proton pump inhibitor (PPI)]], which falsely elevates it), and gastric pH; vitamin B12 in suspected [[atrophic-gastritis]].
+- **Gastric:** [[upper-endoscopy|Esophagogastroduodenoscopy (EGD)]] with mapped biopsies, serum gastrin (off [[proton-pump-inhibitors|proton pump inhibitor (PPI)]]) and gastric pH — the subtyping protocol and its caveats are under [[#Classification / Typing]]; plus vitamin B12 in suspected [[atrophic-gastritis]].
 - **Pancreatic, functioning:** syndrome-specific hormones — gastrin (gastrinoma/[[peptic-ulcer-disease|Zollinger-Ellison]]), insulin/proinsulin/C-peptide during supervised fasting (insulinoma), glucagon (glucagonoma), vasoactive intestinal peptide (VIP) (VIPoma).
 - **Midgut / suspected carcinoid syndrome:** 24-h urinary 5-hydroxyindoleacetic acid (5-HIAA; serotonin metabolite); chromogranin A as a nonspecific adjunct.
 
@@ -56,16 +56,26 @@ Grade (Ki-67 / mitotic rate) is the dominant driver and is fully specified below
 
 - **Grade-assignment rule (the part that decides):** mitotic rate is counted per **2 mm²** (= 10 high-power fields [HPF] at 40×, ocular field 0.5 mm) over a total area of 10 mm²; Ki-67 is counted in ≥500 cells in the **hot spot**. **The final grade is whichever of the two indexes places the tumor in the *higher* grade category** — they are not averaged and Ki-67 does not automatically win.
 - Report the **exact** Ki-67 percentage, not a range, and repeat Ki-67 on every metachronously sampled specimen (grade drifts over time).
-- **Ki-67 55% is a separate, therapy-level cutoff**, not a grading boundary — see [[#Well-Differentiated G3 — the 55% Split]].
+- ⚠ **"High G2" is a defined threshold — Ki-67 >10%** — and it does not appear in the WHO table above. G2 spans Ki-67 3%–20%, and NCCN splits that band in half: **low G2 (≤10%)** keeps a rectal NET in endoscopic/transanal territory, **high G2 (>10%)** sends it to multidisciplinary review and surgical evaluation. A pathology report saying only "G2" is not sufficient to run the rectal pathway — the exact percentage is required.
+- **Ki-67 55% is a third, therapy-level cutoff**, not a grading boundary — see [[#Well-Differentiated G3 — the 55% Split]]. Three different Ki-67 numbers therefore decide three different things: **3% / 20%** assign WHO grade, **10%** splits G2 for the rectal pathway, **55%** splits well-differentiated G3 by biology.
 
-**Gastric NET subtypes** — the National Comprehensive Cancer Network (NCCN) describes **four** categories (types 1, 2, 3, and "other"); the first three are mechanistically distinct and dictate therapy:
+**Gastric NET (gNET) subtypes.** The National Comprehensive Cancer Network (NCCN) sorts them first by **whether a cause is identifiable**, then by mechanism — the organizing distinction, because it is what the background mucosal biopsies are for:
 
-| Type | Gastrin | Mechanism / setting | Behavior |
-|---|---|---|---|
-| **Type 1** | High | Antrum-sparing [[atrophic-gastritis\|chronic atrophic gastritis]] → high gastric pH → loss of acid feedback on antral G cells → hypergastrinemia → enterochromaffin-like (ECL) hyperplasia. Supportive findings (not all required): atrophic gastritis on biopsy, elevated gastric pH, B-12 deficiency, positive anti-intrinsic factor antibodies | Indolent, typically **multifocal**; metastases **<5%** |
-| **Type 2** | High | Gastrinoma / [[peptic-ulcer-disease\|Zollinger-Ellison]] with **low** gastric pH (acid hypersecretion), frequently multiple endocrine neoplasia type 1 (MEN1)-associated | Rare; multifocal |
-| **Type 3** | **Normal** | Sporadic, unifocal | More aggressive; usually surgical |
-| **"Other"** | — | Residual NCCN category | — |
+- **Secondary** — arising in gastric **body** mucosa with an underlying etiology: types 1, 2, and "other."
+- **Primary** — no underlying etiology, arising in **normal** background mucosa (body *or* antrum): type 3.
+
+| Type | Gastrin | Mechanism / setting | Background mucosa | Behavior |
+|---|---|---|---|---|
+| **Type 1** (secondary) | High | Antrum-sparing [[atrophic-gastritis\|chronic atrophic gastritis]] → high gastric pH → loss of acid feedback on antral G cells → hypergastrinemia → enterochromaffin-like (ECL)-cell hyperplasia. **The atrophy may be autoimmune *or* from chronic [[helicobacter-pylori-infection\|*Helicobacter pylori*]] infection** — both routes count. Supportive findings (not all required): atrophic gastritis on biopsy, elevated gastric pH, B-12 deficiency, positive anti-intrinsic factor antibodies | Atrophy + ECL hyperplasia | Indolent, typically **multifocal**; metastases **<5%** |
+| **Type 2** (secondary) | High | Gastrinoma / [[peptic-ulcer-disease\|Zollinger-Ellison]] with **low** gastric pH (acid hypersecretion), frequently multiple endocrine neoplasia type 1 (MEN1)-associated | Parietal-cell + ECL hyperplasia | Rare; multifocal |
+| **"Other"** (secondary) — **consider PPI-associated gNET** | High | Hypergastrinemia **without** a gastrinoma. Long-term PPI therapy is the usual explanation; rarely, insufficient proton-pump activity from an underlying mutation. Not a leftover bucket — it is the PPI branch, and NCCN routes it to endoscopic treatment | Parietal-cell + ECL hyperplasia | **Much lower propensity to metastasize than sporadic type 3**; managed as for type 1 (direct data limited) |
+| **Type 3** (primary) | **Normal** | Sporadic, unifocal | **Normal** (body or antrum) | More aggressive; usually surgical |
+
+**Separating the subtypes is a three-test protocol, done before any resection decision** ([[nccn-2026-net]]) — subtype not apparent → multidisciplinary discussion:
+
+1. **Serum gastrin** — ideally **fasting, AM, off PPI for >1 week**, since PPI use falsely elevates it. ⚠ **Exception: continue the PPI** in a patient with overt clinical gastrinoma symptoms or complication risk — the diagnostic washout does not outrank the acid control.
+2. **Gastric pH**, measured **at the time of endoscopy** (it is the test that separates type 1's high pH from type 2's low pH).
+3. **Random mapping biopsies** to exclude atrophy, *H. pylori*, and intestinal metaplasia and to determine disease extent. **Minimum standard: five biopsies** — two antral (lesser + greater curvature), one incisura angularis, two gastric body (lesser + greater curvature).
 
 ### Staging (AJCC Version 9, 2023)
 
@@ -129,16 +139,27 @@ By presentation:
 
 | Site | Endoscopic / local resection | Surgical resection | Surveillance after resection |
 |---|---|---|---|
-| **Gastric, type 1** (hypergastrinemic) | Endoscopic resection of tumors **>1 cm**; smaller lesions managed endoscopically/observed | Rare; type 1 tumors **>2 cm** need multiphasic CT/MRI workup first | EGD at **1 y**, then every **1–3 y**. Gastrin and chromogranin A are **uninformative** in type 1 (gastrin stays high) — after baseline, don't follow them |
-| **Gastric, type 2** (gastrinoma) | Endoscopic resection of tumors **>1 cm** | Per gastrinoma pathway — find and treat the gastrin-producing tumor | EGD at **1 y**, then as clinically indicated (if endoscopically resected) |
-| **Gastric, type 3** (normal gastrin) | Only for **small (<1 cm), superficial, low-grade** tumors; wedge resection also an option if **no** regional lymphadenopathy on [[endoscopic-ultrasound\|EUS]]/imaging | Partial or total gastrectomy with regional lymphadenectomy (**preferred**), by tumor location | — |
-| **Rectal** | **<1 cm incidental** → complete endoscopic resection with negative margins may suffice. **≤2 cm or T1 (minimally invasive)** → endoscopic or transanal excision. For **1–2 cm**, consider exam under anesthesia (EUA) and/or EUS *before* the procedure — go to radical resection if muscularis propria invasion or node-positive | **>2 cm, node-positive, or T2–T4** → low anterior resection (rarely abdominoperineal resection [APR]); neoadjuvant/definitive chemoradiotherapy (chemoRT) in selected cases | If margins indeterminate + **G1** → endoscopy at **6–12 mo** for residual disease; residual or **G2** → follow the all-other-rectal-tumors pathway. **1–2 cm:** imaging at 6 and 12 mo, then as indicated |
-| **Appendiceal** | **≤2 cm** → simple appendectomy is sufficient for most (metastases uncommon) | **>2 cm**, or *any* size with incomplete resection or positive nodes/margins → stage with multiphasic CT/MRI ± SSTR imaging, then **right hemicolectomy**. For **1–2 cm with poor prognostic features** (lymphovascular or mesoappendiceal invasion, atypical histology) some NCCN institutions also do right hemicolectomy | **<1 cm:** none. **1–2 cm:** optional multiphasic imaging q2–5 y by clinicopathologic features. **>2 cm:** multiphasic CT/MRI at 12 wk–12 mo post-resection, then q12–24 mo for **10 years** |
+| **Gastric, type 1** (hypergastrinemic) | **≤1 cm, G1/2** → **surveillance *or* endoscopic resection** are both acceptable; [[polypectomy\|polypectomy]] or [[endoscopic-mucosal-resection\|endoscopic mucosal resection (EMR)]] for mucosal lesions. **>1–≤2 cm, G1/2 not involving the muscle layer** → same choice, but **EMR for mucosal, [[endoscopic-submucosal-dissection\|endoscopic submucosal dissection (ESD)]] or [[endoscopic-full-thickness-resection\|endoscopic full-thickness resection (eFTR)]] once the submucosa is involved** | **>2 cm** → EUS **should** be done, cross-sectional imaging **recommended**, then multidisciplinary discussion including surgical evaluation. **Muscle layer (T2) or concerning nodes on EUS at any size** → same. **G3 at any size** → surgical resection; place a clip, ink, or tattoo to help the surgeon localize it | Endoscopy **every 12–24 mo** after clearance of the larger/dominant lesions; the interval may be lengthened after several negative exams. **Cross-sectional imaging is not necessary.** Can be run by a gastroenterologist once oncology has seen the patient once. Gastrin and chromogranin A are **uninformative** in type 1 (gastrin stays high by mechanism) — after baseline, don't follow them |
+| **Gastric, type 2** (gastrinoma) | Endoscopic treatment as for the size bands above | Per gastrinoma pathway — find and treat the gastrin-producing tumor; cross-sectional **and** PET-dotatate imaging first | As for type 1 after endoscopic resection |
+| **Gastric, type 3** (normal gastrin) | **≤1.5 cm, G1, not involving the muscle layer, no concerning nodes** → endoscopic resection may be considered (EMR mucosal; ESD/eFTR submucosal). ⚠ **The document contradicts itself here** — its gastric algorithm footnote instead reserves endoscopic resection for **<1 cm**, superficial, low-grade tumors. Both thresholds are NCCN v1.2026; treat the 1–1.5 cm band as unsettled and decide it in multidisciplinary discussion. Wedge resection is the other option when EUS/imaging shows **no** regional lymphadenopathy | **>1.5 cm, G2/G3, muscle-layer involvement, or concerning nodes** → multidisciplinary discussion including surgical evaluation. Partial or total gastrectomy with regional lymphadenectomy (**preferred**), by tumor location. Staging for distant metastases is recommended | After margin-negative (R0) resection, surveillance is **not well established** — consider endoscopy **every 12 mo**. Margin-positive (R1) → surgical evaluation if repeat endoscopic resection is not an option |
+| **Gastric, PPI-associated** ("other") | Routed to endoscopic treatment; approach **extrapolated from type 1**, since direct data are limited | Per the type 1 bands | As for type 1 |
+| **Rectal** | **The grade split, not size alone, decides** — **G1 or *low* G2 (Ki-67 ≤10%) with negative LVI** is the endoscopic/transanal group at **both** size bands. **≤1 cm** → endoscopic resection or transanal surgical excision, pending local expertise; get EUS and/or MRI first once the lesion is **≥0.5 cm**. **>1–<2 cm** → EMR, ESD, eFTR, or transanal excision; EUS and/or MRI plus staging cross-sectional imaging **and** PET-dotatate first. Consider exam under anesthesia (EUA) in the 1–2 cm band | **High G2 (Ki-67 >10%), G3, LVI-positive, or ≥T2 at any size** → multidisciplinary discussion including surgical evaluation — not a snare lesion. **≥2 cm** → the same, with EUS and/or MRI and staging imaging + PET-dotatate recommended; low anterior resection (rarely abdominoperineal resection [APR]), with neoadjuvant/definitive chemoradiotherapy (chemoRT) in selected cases | See the post-resection branching below. For a **<1 cm incidental tumor already completely resected**: negative margins → endoscopic surveillance; indeterminate margins + **G1** → endoscopy at **6–12 mo** for residual disease; residual, or **G2** → follow the all-other-rectal-tumors pathway |
+| **Appendiceal** | **≤2 cm** → simple appendectomy is sufficient for most (metastases uncommon) | **>2 cm**, or *any* size with incomplete resection or positive nodes/margins → stage with multiphasic CT/MRI ± SSTR imaging, then **right hemicolectomy**. For **1–2 cm with poor prognostic features** (lymphovascular or mesoappendiceal invasion, atypical histology) some NCCN institutions also do right hemicolectomy | **<1 cm:** none. **1–2 cm:** optional multiphasic imaging q2–5 y by clinicopathologic features. **>2 cm:** the general post-resection imaging schedule below |
 | **Pancreatic (PanNET), nonfunctioning** | — | Enucleation or formal pancreatectomy | **G1 PanNET <2 cm can be safely observed — that is the recommended course**; **G2** PanNETs of the same size should be considered for **surgery**. Grade, not size alone, is the decision |
-| **Duodenal, non-ampullary** | **≤1 cm, G1/G2, lymphovascular invasion (LVI)-negative** → consider endoscopic resection. Technique by size: **<0.5 cm** → [[polypectomy\|polypectomy]] or [[endoscopic-mucosal-resection\|endoscopic mucosal resection (EMR)]]; **0.5–1 cm** → EMR, [[endoscopic-submucosal-dissection\|endoscopic submucosal dissection (ESD)]], or [[endoscopic-full-thickness-resection\|endoscopic full-thickness resection (eFTR)]] pending local expertise | **>1 cm, G3, LVI-positive, or NEC** → multidisciplinary discussion including surgical evaluation. **R1** resection → surgical evaluation if repeat endoscopic resection is not an option | **R0:** surveillance not well established — consider **annual endoscopy for 5 years** |
+| **Duodenal, non-ampullary** | **≤1 cm, G1/G2, lymphovascular invasion (LVI)-negative** → consider endoscopic resection. Technique by size: **<0.5 cm** → polypectomy or EMR; **0.5–1 cm** → EMR, ESD, or eFTR pending local expertise | **>1 cm, G3, LVI-positive, or NEC** → multidisciplinary discussion including surgical evaluation. **R1** resection → surgical evaluation if repeat endoscopic resection is not an option | **R0:** surveillance not well established — consider **annual endoscopy for 5 years** |
 | **Duodenal, periampullary** | Not a straight-to-endoscopy lesion — **multidisciplinary discussion including surgical evaluation** | Per that discussion | — |
 
-- **When to get EUS first in a duodenal NET** ([[nccn-2026-net]]) — EUS to determine depth of invasion for **any** duodenal NET (dNET) with: periampullary involvement, **size >1 cm**, extension beyond the submucosa on initial sampling or EUS, functional dNET, ulceration, **Grade 3**, or **positive LVI** on initial sampling. Any one of these is enough.
+**The three rules that cut across every luminal site** ([[nccn-2026-net]]):
+
+1. **Every** gastric, duodenal, and rectal NET starts with **high-definition white-light endoscopy plus video chromoendoscopy and biopsy** for grade and Ki-67 — before any resection decision.
+2. **Technique follows depth, not size:** **EMR for mucosal lesions · ESD or eFTR once the submucosa is involved · muscle layer (T2) or concerning nodes → surgery, not endoscopy.** Size bands only decide *who gets staged first*.
+3. **R0 vs R1 branches the follow-up, and R1 is not automatically re-scoped.** R0 → the surveillance interval in the table. R1 → repeat endoscopy at **6 mo** (gastric) or repeat endoscopy with biopsy (rectal); **residual disease** → repeat endoscopic resection only if the depth still allows it, otherwise surgical evaluation; **no residual disease** → endoscopy at **12 mo**. ⚠ **After an R0 resection of a high G2/G3, LVI-positive, or ≥T2 rectal NET, further endoscopic removal should not be attempted at all** — that lesion has left endoscopic territory.
+
+- **When to get EUS first — each site has an explicit trigger list, not a judgment call.** Any single trigger is enough.
+  - **Gastric NETs:** the size threshold for that subtype, **or** ulceration, **or** grade 3, **or** positive LVI on initial sampling.
+  - **Duodenal NETs (dNETs):** periampullary involvement, **size >1 cm**, extension beyond the submucosa on initial sampling or EUS, a functional dNET, ulceration, **grade 3**, or positive LVI on initial sampling.
+  - **Rectal NETs:** consider EUS and/or MRI once the lesion is **≥0.5 cm**.
+- **General post-resection surveillance, on top of the site-specific endoscopy above** — history/physical plus multiphasic abdomen ± pelvis CT or MRI (chest CT as indicated) at **12 weeks to 12 months**, then **every 12–24 months out to 10 years**, then as clinically indicated. Biochemical markers are followed only in **functioning** tumors. ⚠ **SSTR-based imaging and fluorodeoxyglucose (FDG)-PET/CT are explicitly *not* recommended for routine surveillance** — they are staging and biology tools, not follow-up tools. If initial scans are negative the frequency may decrease; image earlier for symptoms.
 - **Rectal NETs are not uniformly benign despite the best overall prognosis of any NET site** — a retrospective review found metastases in **66% of 87** patients with well-differentiated rectal NETs measuring **11–19 mm**, which is why the 1–2 cm band gets pre-procedure EUS/EUA rather than reflex snare.
 - **Somatostatin analogs (SSAs)** (octreotide long-acting release [LAR], lanreotide) — first-line for symptom control in functioning tumors and for antiproliferative tumor-growth control in SSTR-positive metastatic disease.
 - **PRRT** — lutetium **Lu 177 dotatate** for progressive SSTR-positive disease; the NETTER-2 trial supports first-line use in advanced grade 2–3 GEP-NETs.
@@ -156,7 +177,7 @@ For **locally advanced / metastatic well-differentiated G3 NETs**, NCCN routes b
 | **Favorable** | Relatively **low Ki-67 (<55%)**, slow growing, **SSTR-PET positive** | NET-directed pathway (SSA, PRRT, targeted agents) |
 | **Unfavorable** | Relatively **high Ki-67 (≥55%)**, faster growing, **SSTR-PET negative** | Behaves like NEC — chemotherapy-led pathway; neoadjuvant chemo considered case-by-case |
 
-NCCN flags the 55% cutoff explicitly as **data-limited**: Ki-67 is heterogeneous within a tumor and drifts across serial biopsies, so pathologic *and* clinical features must both inform the decision. Consider both fluorodeoxyglucose (FDG)-PET and DOTATATE-PET when PRRT is on the table.
+NCCN flags the 55% cutoff explicitly as **data-limited**: Ki-67 is heterogeneous within a tumor and drifts across serial biopsies, so pathologic *and* clinical features must both inform the decision. Consider both FDG-PET and DOTATATE-PET when PRRT is on the table.
 
 ### NCCN Treatment Algorithm
 
@@ -179,7 +200,7 @@ flowchart TD
 
 ## See Also
 
-[[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[peptic-ulcer-disease]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[colorectal-cancer]], [[gastrointestinal-stromal-tumor]], [[subepithelial-lesion]], [[somatostatin-analogs]], [[proton-pump-inhibitors]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[colonoscopy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[endoscopic-full-thickness-resection]], [[polypectomy]]
+[[atrophic-gastritis]], [[helicobacter-pylori-infection]], [[gastric-premalignant-conditions]], [[peptic-ulcer-disease]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[colorectal-cancer]], [[gastrointestinal-stromal-tumor]], [[subepithelial-lesion]], [[somatostatin-analogs]], [[proton-pump-inhibitors]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[colonoscopy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[endoscopic-full-thickness-resection]], [[polypectomy]]
 
 ---
 
