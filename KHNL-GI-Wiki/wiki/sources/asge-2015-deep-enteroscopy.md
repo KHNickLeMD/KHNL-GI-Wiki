@@ -3,7 +3,7 @@ title: "ASGE 2015: The Role of Deep Enteroscopy in the Management of Small-Bowel
 category: source
 tags: [deep-enteroscopy, dbe, sbe, spiral-enteroscopy, small-bowel, gi-bleeding, asge]
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-10-14
 sources: []
 ---
 

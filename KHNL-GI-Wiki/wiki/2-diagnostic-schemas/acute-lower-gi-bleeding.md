@@ -3,7 +3,7 @@ title: "Acute Lower Gastrointestinal Bleeding (LGIB)"
 category: diagnostic-schema
 tags: [lower-gi-bleeding, lgib, hematochezia, diverticular, colonoscopy, hemorrhage, cta, risk-stratification]
 created: 2026-05-15
-updated: 2026-09-29
+updated: 2026-10-14
 sources: [acg-2023-lgib, asge-2014-lgib, acg-2021-ugib]
 ---
 
@@ -169,6 +169,8 @@ AUROC 0.83 in derivation; an external validation of 251 patients **misclassified
 **Neither tool is yet proven as an ED discharge strategy** — ACG notes the absence of prospective multicenter data on using either score to manage LGIB patients as outpatients.
 
 Scores supplement but do not replace clinical judgment. Low-risk patients (Oakland ≤8) without ongoing bleeding who have had a high-quality colonoscopy within 12 months can be considered for early discharge with outpatient follow-up.
+
+**These two instruments predict *discharge safety*. They are not the severity-prediction rules.** The older **Strate rule**, together with the Velayos predictors and the BLEED criteria, predicts severe bleeding rather than disposition, and its seven criteria and three-stratum risk table live on [[asge-2014-lgib|ASGE 2014: Role of Endoscopy in the Patient with Lower GI Bleeding]] — the same page carries that document's endoscopic device settings by lesion type. Do not substitute one class of score for the other.
 
 ### Step 3: Resuscitation and Stabilization
 

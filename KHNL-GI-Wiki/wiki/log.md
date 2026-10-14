@@ -6,6 +6,16 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-14] lint | Stalest rotation: three 2026-06-22 ASGE source pages
+
+**Ingest check — no new arrivals.** `rawcount.py`: all 14 `raw/` subfolder counts equal the audited baseline = **450** non-asset files; no loose files directly in `raw/`. Working tree clean at session start; `git status --porcelain -uall raw/` returns nothing, which is **structural** — `raw/`'s content subfolders are gitignored (only `raw/assets/` is tracked, 90 files), so a newly synced PDF can never surface as untracked. Count-vs-baseline is the only arrival detector. Nothing to commit under `raw/`.
+
+**No tier-1/tier-2 ingest work exists — re-verified by parsing the table.** The queue under [[#Coverage Gaps]] → *Blocked on ingest* has **69 table rows and 0 unstruck content rows**. Unread remainder unchanged: the broken `Other/IANS 2024 Anal Cancer Screening Consensus.pdf` (6 KB saved HTML, not a PDF) and the **60 gated lecture/chalk-talk transcripts**, which are never auto-ingested. Per lecture gating this pass **reports them and stops**. Both ingest slots therefore went to carry-over debt.
+
+**Wiki health is clean.** `lintscan.py` over all **663** pages: **0 broken link tokens**, **0 stubs**, no page missing `## See Also` / `## Sources`, **0 unescaped alias pipes**, no OS artifacts. **Orphans: 1**, [[nejm-2023-fever-returning-traveler]], the intentional citation record settled 2026-10-11 — not re-opened.
+
+---
+
 ## [2026-10-13] lint | NCCN NET debt + stalest rotation
 
 **Ingest check — no new arrivals.** rawcount.py: all 14 `raw/` subfolder counts equal the audited baseline = **450** non-asset files; no loose files directly in `raw/`. Working tree clean at session start. `raw/` content subfolders are gitignored, so nothing untracked under `raw/` can exist to commit (structural — settled 2026-10-12).

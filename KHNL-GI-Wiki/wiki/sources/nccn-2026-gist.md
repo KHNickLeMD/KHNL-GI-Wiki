@@ -3,7 +3,7 @@ title: "NCCN Clinical Practice Guidelines in Oncology: Gastrointestinal Stromal 
 category: source
 tags: [gist, gastrointestinal-stromal-tumor, kit, pdgfra, cd117, dog1, sdh-deficient, imatinib, sunitinib, regorafenib, ripretinib, avapritinib, mitotic-rate, risk-stratification, nccn, oncology]
 created: 2026-06-18
-updated: 2026-10-11
+updated: 2026-10-14
 sources: []
 ---
 
@@ -205,6 +205,7 @@ Management is resectability- and genotype-based. Localized resectable disease is
 - **Optimal adjuvant imatinib duration is unresolved within the document itself** — 3 years is supported by overall survival, 6 years by disease-free survival, and no single duration is recommended.
 - SDH-deficient/wild-type GIST is largely imatinib-resistant and its management rests on category 2A/2B options; observation is an accepted preoperative choice for some.
 - The document gives the **metastasis rates** behind each risk band but does not restate the four-tier "none/low/moderate/high" labels as independent criteria — the band follows directly from the size × mitotic-rate × site cell.
+- **What the percentages in Tables 1 and 2 actually count is not what the original paper counted.** NCCN labels the column *metastasis rate*, but its own footnote records that in Miettinen & Lasota 2006 the percentages referred to the **proportion of patients with progressive disease**, while *low / moderate / high* referred to the risk of metastases. Read a cell as a band assignment, not as a transferable metastasis probability.
 
 ## See Also
 
