@@ -261,7 +261,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 **Diverticular hemorrhage:**
 
 - Through-the-scope clips (direct clipping onto vessel preferred over indirect/zipper)
-- EBL: lower early rebleeding (8% vs. 19%) and late rebleeding (9% vs. 29%) vs. clipping; may be preferred for durable outcomes
+- [[endoscopic-band-ligation|EBL]]: lower early rebleeding (8% vs. 19%) and late rebleeding (9% vs. 29%) vs. clipping; may be preferred for durable outcomes (technique, the device-diameter feasibility criterion, and the perforation rate are on [[endoscopic-band-ligation]])
 - Bipolar/multipolar coagulation
 - Initial hemostasis rates 99–100% for all modalities
 - Despite hemostasis, early rebleeding 17.4%, late rebleeding 32.0%

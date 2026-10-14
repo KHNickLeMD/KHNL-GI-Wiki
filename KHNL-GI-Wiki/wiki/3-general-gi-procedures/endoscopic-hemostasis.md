@@ -61,7 +61,7 @@ This page covers the **hemostatic devices themselves** — mechanism, settings, 
 | [[argon-plasma-coagulation\|APC]] | Noncontact thermal | Flat vascular lesions, diffuse oozing | Superficial; ACG **conditional** for ulcers |
 | Through-the-scope clips | Mechanical | Definitive; first-line for postpolypectomy bleeding | Hard to place on fibrotic bases and awkward angles |
 | Over-the-scope clips (OTSC) | Mechanical | Recurrent bleeding; large fibrotic ulcer with big visible vessel | Requires scope withdrawal to load; no comparative data between devices |
-| Endoscopic band ligation (EBL) | Mechanical | Diverticular hemorrhage; varices | Not for the right colon without care (thin wall) |
+| [[endoscopic-band-ligation\|Endoscopic band ligation (EBL)]] | Mechanical | Diverticular hemorrhage; varices | Not for the right colon without care (thin wall) |
 | TC-325 hemostatic powder | Topical | Rescue; massive/diffuse bleeding; malignant bleeding | **Present <24 h** — not durable monotherapy for high-risk stigmata |
 
 **There is no definitively superior modality.** Meta-analysis subgroup analyses show **no difference between hemoclips and thermal treatment** in peptic-ulcer rebleeding rates; data showing superiority of one over the other are largely lacking. Choice rests on lesion location, ulcer characteristics, and operator familiarity ([[aga-2020-nvugib-endoscopic-therapies]]).

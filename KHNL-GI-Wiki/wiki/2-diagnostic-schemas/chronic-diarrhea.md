@@ -156,7 +156,9 @@ flowchart TD
 
 *Endoscopy is reserved for chronic, unexplained, or treatment-refractory diarrhea — stool/labs come first. ([[asge-2010-diarrhea]])*
 
-- **Colonoscopy + random biopsies of BOTH right and left colon** — required even when mucosa is normal; microscopic colitis is patchy and left-sided-only sampling misses it. Sigmoidoscopy is an alternative but may miss right-sided organic disease.
+- **Colonoscopy + random biopsies of BOTH right and left colon** — required even when mucosa is normal; microscopic colitis is patchy and left-sided-only sampling misses it.
+  - **Flexible sigmoidoscopy is the reasonable first test in three situations** — pregnancy, significant comorbidity, or predominantly left-sided symptoms (tenesmus, urgency) — but may miss right-sided organic disease ([[asge-2010-diarrhea]]).
+  - **Escalate to full colonoscopy for any of:** inconclusive findings, persistent symptoms, large-volume blood loss, or suspected inflammatory bowel disease or colorectal cancer ([[asge-2010-diarrhea]]).
 - **Intubate the terminal ileum (TI)** during colonoscopy; routine biopsy of normal-appearing TI is low yield (0–4.2%).
 - **[[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] + small-bowel biopsy** when colonoscopy is inconclusive, malabsorption is suspected, or [[celiac-disease|celiac]] serology is positive; obtain **≥4 duodenal biopsies** for suspected celiac (even if endoscopically normal).
 - **[[capsule-endoscopy|Capsule endoscopy]] and enteroscopy are NOT recommended** for routine chronic-diarrhea evaluation (modest yield, no tissue, retention risk); reserve [[device-assisted-enteroscopy|enteroscopy]] for nondiagnostic small-bowel disease.

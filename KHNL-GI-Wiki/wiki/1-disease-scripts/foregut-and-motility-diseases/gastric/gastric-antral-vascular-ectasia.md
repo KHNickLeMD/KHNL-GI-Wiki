@@ -69,7 +69,7 @@ sources: [baveno-viii-2026-portal-hypertension, aga-2024-ida-management, aasld-2
 
 ### When to Add Endoscopic Therapy
 
-- **IDA secondary to GAVE with an inadequate response to iron replacement → consider endoscopic therapy** with **endoscopic band ligation (EBL)** or a thermal method such as **[[argon-plasma-coagulation|argon plasma coagulation (APC)]]** (BPA 12).
+- **IDA secondary to GAVE with an inadequate response to iron replacement → consider endoscopic therapy** with **[[endoscopic-band-ligation|endoscopic band ligation (EBL)]]** or a thermal method such as **[[argon-plasma-coagulation|argon plasma coagulation (APC)]]** (BPA 12).
 - **GAVE requiring serial transfusion → endoscopic therapy, and specifically ligation** (Baveno VIII 5.43, below).
 - Endoscopic therapy with EBL or a thermal method (APC or [[radiofrequency-ablation|radiofrequency ablation (RFA)]]) **decreases blood loss and reduces red-blood-cell transfusion requirements**.
 

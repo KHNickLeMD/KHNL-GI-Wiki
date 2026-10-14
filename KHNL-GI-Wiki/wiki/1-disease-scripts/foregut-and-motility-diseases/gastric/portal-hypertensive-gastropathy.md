@@ -68,7 +68,7 @@ sources: [aasld-2023-portal-hypertension, baveno-viii-2026-portal-hypertension, 
 
 - **Progression is frequent; regression is rare.** In the HALT-C cohort over 4 years: **97/170 (57%)** with cirrhosis and no baseline PHG developed it, and **115/174 (66%)** with baseline PHG worsened in grade.
 - **Strongest predictors of progression:** presence of varices and/or **Child-Turcotte-Pugh (CTP) class B/C** cirrhosis.
-- PHG features can **worsen transiently after sclerotherapy or band ligation of esophageal varices**, and that worsening correlates with poorer clinical outcomes.
+- PHG features can **worsen transiently after sclerotherapy or [[endoscopic-band-ligation|band ligation]] of esophageal varices**, and that worsening correlates with poorer clinical outcomes.
 
 ## Differential Diagnosis
 

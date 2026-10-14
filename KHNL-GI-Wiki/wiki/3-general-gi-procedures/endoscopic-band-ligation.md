@@ -46,19 +46,19 @@ The decision algorithms that *lead* to banding live on the syndrome pages; this 
 ```mermaid
 flowchart TD
     A["Lesion identified at endoscopy"] --> B{"What is it?"}
-    B -->|"Esophageal varices or GOV1"| C["Band — therapy of choice"]
-    B -->|"Cardiofundal varices<br/>(GOV2 / IGV1)"| D["Do NOT band as definitive therapy<br/>→ cyanoacrylate / EUS-guided coil + glue / TIPS"]
+    B -->|"Esophageal varices or gastroesophageal<br/>varices type 1 (GOV1)"| C["Band — therapy of choice"]
+    B -->|"Cardiofundal varices<br/>(gastroesophageal varices type 2 [GOV2] /<br/>isolated gastric varices type 1 [IGV1])"| D["Do NOT band as definitive therapy<br/>→ cyanoacrylate / endoscopic ultrasound<br/>(EUS)-guided coil + glue / TIPS"]
     B -->|"Lesser-curve gastric varices"| E["Band — often the best definitive therapy"]
-    B -->|"GAVE requiring serial transfusion"| F["Band — preferred over APC"]
+    B -->|"Gastric antral vascular ectasia (GAVE)<br/>requiring serial transfusion"| F["Band — preferred over argon<br/>plasma coagulation (APC)"]
     B -->|"Bleeding colonic diverticulum"| G["Band — lower rebleeding than clipping"]
-    B -->|"Portal hypertensive gastropathy"| H["Do NOT band<br/>→ lower portal pressure"]
+    B -->|"Portal hypertensive gastropathy (PHG)"| H["Do NOT band<br/>→ lower portal pressure"]
 ```
 
 ### Esophageal Varices and GOV1
 
 | Setting | Position | Source |
 |---|---|---|
-| **Acute bleeding** from esophageal varices or gastroesophageal varices type 1 (GOV1) | **EVL is the endoscopic therapy of choice**, preferred over sclerotherapy | [[aasld-2023-portal-hypertension]] guidance statement (GS) 31; [[baveno-viii-2026-portal-hypertension]] 5.29 |
+| **Acute bleeding** from esophageal varices or GOV1 | **EVL is the endoscopic therapy of choice**, preferred over sclerotherapy | [[aasld-2023-portal-hypertension]] guidance statement (GS) 31; [[baveno-viii-2026-portal-hypertension]] 5.29 |
 | Acute bleeding — alternatives | **Not first-line:** hemoclips, over-the-scope clips, topical hemostatic agents/powders, fibrin | [[baveno-viii-2026-portal-hypertension]] 5.28 |
 | **Primary prophylaxis**, compensated cirrhosis with **large** esophageal varices or GOV1, NSBB-ineligible | EVL to prevent a first variceal bleed | [[baveno-viii-2026-portal-hypertension]] 3.19; [[aasld-2023-portal-hypertension]] GS 19 |
 | Primary prophylaxis, **small** high-risk varices | EVL is **not technically feasible** — NSBB is the only option | [[aasld-2023-portal-hypertension]] |
@@ -75,16 +75,16 @@ flowchart TD
 
 *Lesion types and the two-phase cardiofundal pathway: [[variceal-upper-gi-bleeding]].*
 
-- **Cardiofundal varices (gastroesophageal varices type 2 [GOV2] / isolated gastric varices type 1 [IGV1]):** band ligation achieves initial hemostasis in **45%–93%** but is **inferior to cyanoacrylate for long-term control** → a reasonable **temporizing** measure only, and must be followed by definitive therapy ([[aga-2021-bleeding-gastric-varices]]).
+- **Cardiofundal varices (GOV2 / IGV1):** band ligation achieves initial hemostasis in **45%–93%** but is **inferior to cyanoacrylate for long-term control** → a reasonable **temporizing** measure only, and must be followed by definitive therapy ([[aga-2021-bleeding-gastric-varices]]).
 - **Lesser-curve gastric varices:** banding **is often the best definitive therapy**, because these varices behave like esophageal varices ([[aga-2021-bleeding-gastric-varices]]).
 - Classify the esophageal varices as well as the gastric ones at the index exam — the definitive gastric-varix therapies differ in their effect on later esophageal variceal bleeding ([[aga-2021-bleeding-gastric-varices]]).
 
 ### GAVE
 
-- **[[gastric-antral-vascular-ectasia|Gastric antral vascular ectasia (GAVE)]] requiring serial transfusion → EVL is recommended over [[argon-plasma-coagulation|argon plasma coagulation (APC)]]** — higher eradication rates, fewer treatment sessions, less recurrent bleeding, fewer hospitalizations and transfusions ([[baveno-viii-2026-portal-hypertension]] 5.43; level of evidence [LoE] 1, strong).
+- **[[gastric-antral-vascular-ectasia|GAVE]] requiring serial transfusion → EVL is recommended over [[argon-plasma-coagulation|APC]]** — higher eradication rates, fewer treatment sessions, less recurrent bleeding, fewer hospitalizations and transfusions ([[baveno-viii-2026-portal-hypertension]] 5.43; level of evidence [LoE] 1, strong).
 - The head-to-head transfusion, hemoglobin and session-count figures are on [[gastric-antral-vascular-ectasia]].
 - ⚠ **This changed direction.** [[baveno-vii-2022-portal-hypertension]] 6.25 treated APC, radiofrequency ablation and banding as interchangeable local options; Baveno VIII makes ligation the recommendation and APC the comparator it beats.
-- **Do not band [[portal-hypertensive-gastropathy|portal hypertensive gastropathy (PHG)]]** — it is diffuse and portal-pressure-driven, so it is treated by lowering portal pressure, not by local ablation ([[baveno-viii-2026-portal-hypertension]] 5.44). Distinguishing PHG from GAVE at the index endoscopy is what decides which pathway the patient enters.
+- **Do not band [[portal-hypertensive-gastropathy|PHG]]** — it is diffuse and portal-pressure-driven, so it is treated by lowering portal pressure, not by local ablation ([[baveno-viii-2026-portal-hypertension]] 5.44). Distinguishing PHG from GAVE at the index endoscopy is what decides which pathway the patient enters.
 
 ### Colonic Diverticular Hemorrhage
 

@@ -64,7 +64,7 @@ In a cirrhotic patient with UGIB, consider:
 
 5. **Endoscopy within 12 hours** of presentation (GS 30; Baveno VIII 5.18 — if haemodynamically unstable, as soon as possible depending on local availability):
    - IV erythromycin before [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] improves visualization. **Baveno VIII 5.20 specifies a single IV dose of 250 mg, 30–90 minutes before endoscopy** (Baveno VII 6.19 said 30–120 min; AASLD gives 125–250 mg over 30–120 min). Contraindicated with QT prolongation; benefit includes reduced transfusion requirement
-   - **Esophageal varices and GOV1 → EVL** (band ligation; GS 31, Baveno VIII 5.29); preferred over sclerotherapy
+   - **Esophageal varices and GOV1 → EVL** ([[endoscopic-band-ligation|band ligation]]; GS 31, Baveno VIII 5.29); preferred over sclerotherapy
    - **Gastric/fundal varices (GOV2/IGV1)** → do NOT band; see [[#Cardiofundal Varices (GOV2/IGV1) — the Bimodal Pathway]]
    - **Not first-line for AVB:** haemoclips, over-the-scope clips, **topical haemostatic agents/powders**, and fibrin (Baveno VIII 5.28)
    - Obtain **contrast-enhanced cross-sectional imaging (computed tomography [CT] or magnetic resonance imaging [MRI]) in every AVB** — to exclude portal/splanchnic vein thrombosis and [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] and to map portosystemic collaterals (Baveno VIII 5.30); AASLD GS 44 requires it specifically for gastric/ectopic bleeds

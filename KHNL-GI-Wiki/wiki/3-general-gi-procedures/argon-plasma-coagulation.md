@@ -15,7 +15,7 @@ Non-contact thermal ablation: monopolar current delivered to tissue through a je
 
 - **Power** sets the current conducted into tissue — **higher power and longer duration → deeper ablation**.
 - **Flow rate** sets the *volume* of plasma available to carry that current. It must be high enough to reach the target, but ⚠ **too high a flow disperses the current → low current density at the target**. **0.8–1.0 L/min is typically sufficient for most clinical settings.**
-- General electrosurgical principles (current density, waveforms, dispersive pad, cardiac devices) are on **[[electrosurgery]]**; the other hemostatic modalities argon plasma coagulation (APC) is weighed against — injection, contact thermal, clips, band ligation, TC-325 — are on **[[endoscopic-hemostasis]]**.
+- General electrosurgical principles (current density, waveforms, dispersive pad, cardiac devices) are on **[[electrosurgery]]**; the other hemostatic modalities argon plasma coagulation (APC) is weighed against — injection, contact thermal, clips, [[endoscopic-band-ligation|band ligation]], TC-325 — are on **[[endoscopic-hemostasis]]**.
 
 ## Contents
 - [[#Why APC]]
