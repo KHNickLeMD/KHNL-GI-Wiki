@@ -127,7 +127,9 @@ Most colorectal neoplasms are benign and resectable by piecemeal [[endoscopic-mu
 
 - Timing of recurrences: 60% within 36 months, 96% within 72 months.
 - **Rectal** T1 CRC: higher local-recurrence and LNM risk than colon, but rectal surgery is more morbid → favor organ-preserving options and consider sooner/more frequent surveillance (NCCN recommends more frequent surveillance for rectal than colon).
-- **R1/Rx margins without other risk factors:** intramural residual cancer risk 5%–11%, LNM 8%–9%. ESGE/JSCCR recommend endoscopic surveillance at 3–6 months for isolated lateral margin positivity. **Full-thickness scar resection** (eFTR / transanal minimally invasive surgery [TAMIS] / combined endoscopic-laparoscopic) is an emerging alternative to completion surgery — retrospective long-term data: recurrence 2.2% (adjuvant surgery) vs 9.0% (eFTR) with similar 5-year metastasis-free and overall survival.
+- **R1/Rx margins without other risk factors:** intramural residual cancer risk 5%–11%, LNM 8%–9%. ESGE/JSCCR recommend endoscopic surveillance at 3–6 months for isolated lateral margin positivity; ⚠ **NCCN instead recommends adjuvant surgery for *any* positive margin, irrespective of location** (lateral, vertical, or both) ([[aga-2025-endoscopic-resection-crc]]). **Full-thickness scar resection** (eFTR / transanal minimally invasive surgery [TAMIS] / combined endoscopic-laparoscopic) is an emerging alternative to completion surgery — retrospective long-term data: recurrence 2.2% (adjuvant surgery) vs 9.0% (eFTR) with similar 5-year metastasis-free and overall survival (median follow-up 64 mo; disease-free survival was *lower* after eFTR, **96.8% vs 89.9%, P = .019**, but 5 of 8 recurrences were salvaged by adjuvant surgery).
+
+*Post-resection management algorithm (AGA 2025 Figure 2): see [[aga-2025-endoscopic-resection-crc]].*
 
 ---
 
