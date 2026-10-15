@@ -343,7 +343,7 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
 - **Block format:** `[6-hex id]{source-slug}` opens a note; `>` lines = Back Extra; blank line separates notes. GUID = `sha1(page + id)` — **reword freely, never change an id** (preserves scheduling).
 
 **Decks and tags** (2026-08-10):
-- Deck comes from the wiki path — `KHNL GI Wiki::4. Advanced GI Procedures::Colorectal Procedures::<page title>` — so the deck tree is the wiki index; section number kept because Anki sorts A–Z.
+- Deck comes from the wiki path — `Digestpedia Anki::4. Advanced GI Procedures::Colorectal Procedures::<page title>` — so the deck tree is the wiki index; section number kept because Anki sorts A–Z.
 - Tags are **hand-written per card file**, required space-separated `tags:` frontmatter line, in Nick's own tag tree: `GI::Organs::<Organ>::<Topic>`, `GI::Procedures::General|Interventional`, `GI::Meds::<Class>` — matching names already in his collection (`UC`, `GERD`, `H_Pylori`, `ColorectalCancer`). **Never derive from the page slug.** Every card in the file gets them, on top of automatic `khnl::<section>` and `khnl::<slug>`. Missing `tags:` still exports; build reports it as a problem.
   ```markdown
   tags: GI::Organs::Colon::ColorectalPolyps GI::Procedures::Interventional

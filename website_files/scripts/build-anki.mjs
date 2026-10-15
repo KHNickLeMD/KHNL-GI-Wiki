@@ -143,7 +143,7 @@ function main () {
     }
 
     const slug = page.split('/').pop().replace(/\.md$/, '')
-    const deck = ['KHNL GI Wiki',
+    const deck = ['Digestpedia Anki',
       ...page.split('/').slice(0, -1).map((p, i) => titleCase(p, i === 0)), pageFm.title].join('::')
     // Hand-authored topic tags (GI::Organs::Colon::ColorectalPolyps …) — the tag tree is Nick's
     // own naming, so it is written per file, not derived from slugs.

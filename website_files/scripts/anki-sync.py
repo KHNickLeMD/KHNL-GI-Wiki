@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Two-way sync between the card .md files and the "KHNL GI Wiki" deck, straight through AnkiWeb.
+"""Two-way sync between the card .md files and the "Digestpedia Anki" deck, straight through AnkiWeb.
 
   anki-sync.py login        one-time: prompts for the AnkiWeb password, stores only the sync key
   anki-sync.py [--dry-run]  each cron pass: pull AnkiWeb → reconcile with /cards → push AnkiWeb
@@ -10,7 +10,7 @@ tells which side changed each note since:
   edited / deleted in Anki, or khnl::unreviewed removed  → written back into the card .md
   card added / edited / deleted in the .md               → applied to the Anki note
 Both sides edited one note → Anki wins (that edit was made by hand) and the run logs it.
-Only notes in the "KHNL GI Wiki" deck tree are ever read or written.
+Only notes in the "Digestpedia Anki" deck tree are ever read or written.
 """
 import getpass
 import html
@@ -22,7 +22,7 @@ import sys
 import time
 from pathlib import Path
 
-DECK = 'KHNL GI Wiki'
+DECK = 'Digestpedia Anki'
 DATA = Path(os.environ.get('ANKI_SYNC_DIR', Path.home() / 'anki-sync'))
 CARDS = Path(os.environ.get('CARDS_DIR', '/cards'))
 BUILD = Path(__file__).with_name('build-anki.mjs')
