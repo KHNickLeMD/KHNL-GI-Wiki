@@ -80,4 +80,4 @@ Two strong recommendations (rectal NSAIDs in unselected and high-risk patients; 
 
 ## See Also
 
-[[ercp]], [[acute-pancreatitis]], [[endoscopic-ultrasound]], [[asge-2015-benign-pancreatic-disease]], [[asge-2015-ercp-benign-biliary]]
+[[ercp]], [[acute-pancreatitis]], [[endoscopic-ultrasound]]

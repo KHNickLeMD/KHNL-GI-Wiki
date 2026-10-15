@@ -70,7 +70,7 @@ Objective severity is assessed endoscopically and with [[reflux-testing|reflux t
   - LA-A/B: mild-to-moderate esophagitis
   - LA-C/D: severe esophagitis; LA-D is associated with Barrett's
 - [[barretts-esophagus|Barrett's esophagus]]: describe by Prague C&M classification
-- Peptic stricture
+- [[esophageal-stricture|Peptic stricture]]
 - [[hiatal-hernia|Hiatal hernia]]: measure axial length in cm; classify by Hill grade or AFS grade
 - Gastroesophageal junction (GEJ) landmarks: top of gastric folds, Z-line, diaphragmatic impression (forward view and retroflexion)
 

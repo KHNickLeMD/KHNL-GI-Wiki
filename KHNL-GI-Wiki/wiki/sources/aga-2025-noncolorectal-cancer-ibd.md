@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on Noncolorectal Cancer Screening and Vacci
 category: source
 tags: [ibd, crohns-disease, ulcerative-colitis, preventive-care, vaccinations, cancer-screening, cervical-cancer, skin-cancer, anal-cancer, osteoporosis, mental-health]
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-10-15
 sources: []
 ---
 

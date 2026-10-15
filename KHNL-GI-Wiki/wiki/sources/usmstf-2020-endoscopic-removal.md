@@ -105,4 +105,4 @@ Two facts to carry when citing this document anywhere:
 
 ## See Also
 
-[[asge-2020-endoscopic-removal]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[colonoscopy]]
+[[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[colonoscopy]]

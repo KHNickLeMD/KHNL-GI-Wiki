@@ -3,7 +3,7 @@ title: "Endoscopic Mucosal Resection (Colorectal)"
 category: advanced-procedure
 tags: [emr, endoscopic-resection, polypectomy, cold-snare, underwater-emr, hot-avulsion, lifting-agents, colorectal, post-emr-surveillance]
 created: 2026-08-11
-updated: 2026-09-08
+updated: 2026-10-15
 sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, aga-2025-lifting-agents, usmstf-2020-followup-colonoscopy, aga-2026-electrosurgery]
 ---
 
@@ -33,7 +33,7 @@ Snare resection over a submucosal cushion (or under water), the first-line techn
 
 | Statement | Strength / evidence |
 |---|---|
-| Use a **viscous** submucosal injectant for inject-and-cut EMR of lesions **≥20 mm** (hydroxyethyl starch, Eleview, ORISE Gel) — fewer pieces, faster | Conditional; moderate |
+| Use a **viscous** submucosal injectant for inject-and-cut EMR of lesions **≥20 mm** (hydroxyethyl starch, Eleview, ORISE Gel) — fewer pieces, faster. ⚠ **ORISE was withdrawn from the world market by Boston Scientific in December 2022** — distorted post-resection scars were misread as submucosal tumor ([[aga-2025-lifting-agents]]) | Conditional; moderate |
 | Add **indigo carmine or methylene blue** to the injectant for tissue-plane visualization | Conditional; moderate |
 | Do **NOT** use tattoo (carbon particles) as the injectant — causes submucosal fibrosis and impairs future resection | **Strong**; low |
 
@@ -46,7 +46,7 @@ Snare resection over a submucosal cushion (or under water), the first-line techn
 *Source: [[aga-2025-lifting-agents|American Gastroenterological Association (AGA) 2025 clinical practice update (CPU) on endoscopic lifting agents]].*
 
 - Injection creates a cushion separating the lesion from the **muscularis propria (MP)**; adding a **blue contrast** (indigo carmine or methylene blue) demarcates margins and reveals MP injury during EMR.
-- **Saline ± contrast ("homemade") remains acceptable**; saline dissipates fast, prompting viscous/FDA-approved agents. Saline was non-inferior to other injection-based methods for relevant outcomes.
+- **Saline ± contrast ("homemade") remains acceptable**; saline dissipates fast, prompting viscous/FDA-approved agents. **Cold snare polypectomy *without* submucosal injection** was non-inferior to injection-based resection methods for non-pedunculated colorectal lesions **≤15 mm** ([[aga-2025-lifting-agents]]).
 - **Sessile serrated lesions** lift well with **any** agent (incl. saline) given minimal fibrosis.
 - **[[endoscopic-submucosal-dissection|ESD]] requires submucosal injection** regardless of agent; avoid intralesional injection during ESD (obscuring bleeding). [[poem|Peroral endoscopic myotomy (POEM)]] typically uses normal saline.
 - Add **dilute epinephrine** for cold EMR / EMR with electrocautery to reduce bleeding.

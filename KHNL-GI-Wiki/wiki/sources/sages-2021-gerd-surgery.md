@@ -105,4 +105,4 @@ This guideline should be read alongside [[acg-2021-gerd]] (comprehensive GERD ma
 
 ## See Also
 
-[[acg-2021-gerd]], [[asge-2024-gerd]], [[antireflux-surgery]], [[gerd]]
+[[antireflux-surgery]], [[gerd]]

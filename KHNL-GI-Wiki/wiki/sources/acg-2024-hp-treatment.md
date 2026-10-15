@@ -115,4 +115,4 @@ Susceptibility-guided therapy is strongly advocated before using clarithromycin-
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[vonoprazan]], [[acg-2017-hp-guidelines]]
+[[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[vonoprazan]]

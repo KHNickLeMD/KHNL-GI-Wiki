@@ -178,4 +178,4 @@ Because there were no head-to-head trials, positioning relied on **network meta-
 
 ## See Also
 
-[[crohns-disease]], [[aga-2025-crohns-pharm]], [[acg-2025-crohns]], [[aga-2023-biomarkers-cd]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]]
+[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]]

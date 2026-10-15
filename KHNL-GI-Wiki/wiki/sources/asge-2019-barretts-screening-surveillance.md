@@ -115,4 +115,4 @@ Points where the in-text recommendation box differs from Table 4 — both wordin
 
 ## See Also
 
-[[barretts-esophagus]], [[upper-endoscopy]], [[endoscopic-eradication-therapy]], [[endoscopic-ultrasound]], [[esophageal-adenocarcinoma]], [[gerd]], [[asge-2018-barretts-eet]], [[acg-2022-barretts]], [[aga-2025-barretts-surveillance]], [[aga-2024-barretts-eet]]
+[[barretts-esophagus]], [[upper-endoscopy]], [[endoscopic-eradication-therapy]], [[endoscopic-ultrasound]], [[esophageal-adenocarcinoma]], [[gerd]]

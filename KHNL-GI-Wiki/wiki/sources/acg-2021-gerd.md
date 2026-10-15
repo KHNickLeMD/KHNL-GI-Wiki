@@ -193,4 +193,4 @@ Verbatim from Table 1 unless noted; section numbering is the guideline's own (ea
 
 ## See Also
 
-[[gerd]], [[asge-2024-gerd]], [[barretts-esophagus]], [[antireflux-surgery]], [[high-resolution-manometry]], [[gastroparesis]], [[laryngopharyngeal-symptoms]]
+[[gerd]], [[barretts-esophagus]], [[antireflux-surgery]], [[high-resolution-manometry]], [[gastroparesis]], [[laryngopharyngeal-symptoms]]

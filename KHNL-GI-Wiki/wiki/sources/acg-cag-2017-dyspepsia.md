@@ -194,4 +194,4 @@ All 14 recommendations as printed in Table 1, with the source's own strength and
 
 ## See Also
 
-[[dyspepsia]], [[test-and-treat]], [[helicobacter-pylori-infection]], [[disorders-of-gut-brain-interaction]], [[gastroparesis]], [[proton-pump-inhibitors]], [[rome-v-2026-dgbi]]
+[[dyspepsia]], [[test-and-treat]], [[helicobacter-pylori-infection]], [[disorders-of-gut-brain-interaction]], [[gastroparesis]], [[proton-pump-inhibitors]]

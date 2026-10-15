@@ -65,7 +65,7 @@ The reference for *how confidently* CP can be diagnosed at each rung of the work
 
 ## See Also
 
-[[chronic-pancreatitis]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[exocrine-pancreatic-insufficiency]], [[acg-2020-chronic-pancreatitis]]
+[[chronic-pancreatitis]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[exocrine-pancreatic-insufficiency]]
 
 ## Relevance to Wiki
 

@@ -6,6 +6,46 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-15] lint | Coverage-gap builds (esophageal stricture, bowel preparation); stalest 2026-06-27 source pages validated
+
+**Ingest check — no new arrivals.** `rawcount.py`: all 14 `raw/` subfolder counts equal the audited baseline = **450** non-asset files; no loose files directly in `raw/`. Working tree clean at session start; `raw/` content subfolders are gitignored, so no untracked raw file can exist to commit (structural — settled 2026-10-12). **0 uningested tier-1/tier-2 files**, so both ingest slots went unused this pass; the only uningested material in `raw/` is the 60 gated lectures/chalk talks (never auto-ingested — human must name them) and `Other/IANS 2024 Anal Cancer Screening Consensus.pdf`, which is a 6 KB saved HTML page, not a PDF.
+
+**Link hygiene — clean, nothing to fix.** Whole-wiki scan: **0** orphan pages, **0** broken alias pipes (`| … [[slug|Alias]]` unescaped), **0** broken page links. The only unresolved `[[…]]` targets in the wiki are 5 historical references inside `log.md` itself (incl. `acg-2025-bowel-prep`, merged away 2026-10-04) — correct as written.
+
+**Hygiene fixes:**
+
+- **Source slugs stripped from `## See Also` on 10 source pages** (Style Guide → *Cross-references*: "No source slugs in See Also"). Fixed: `asge-2020-endoscopic-removal`, `usmstf-2020-endoscopic-removal` (each named the other — both bodies already state they are the same co-published document, so the See Also link was redundant), `acg-2024-hp-treatment`, `asge-2023-post-ercp-pancreatitis`, `apa-2014-chronic-pancreatitis`, `sages-2021-gerd-surgery`, `acg-cag-2017-dyspepsia`, `acg-2021-gerd`, `asge-2019-barretts-screening-surveillance`, `aga-2021-crohns-pharm`. Verified after the edit that removing those inbound links **orphaned nothing** (`lintscan.py` still reports the same single source-page orphan). `updated:` deliberately **not** bumped on these ten — the edit is one line of link hygiene, not a content validation, and bumping would eject them from the stalest-page rotation without anyone having checked their clinical content.
+- **`.DS_Store`/OS artifacts:** none present. **Banned maintainer-note phrases on clinician-facing pages:** none (only `index.md`, which is the maintenance catalog, and `log.md`/`needed-sources.md`, where they are allowed).
+- **`## Related Pages` / `Cross-References` heading variants:** none.
+- **Index counts verified against disk** — `index.md` claims 339 sources / 154 disease scripts / 27 schemas / 9 general procedures / 32 advanced procedures / 45 meds / 53 concepts / 1 synthesis / 664 pages; `lintscan.py` returns exactly those. No correction needed.
+
+**Coverage gaps cleared (2 of 2, queue rows 26 and 28 struck):**
+
+- **[[esophageal-stricture]]** created (disease script, ADDT). Built on **6** sources, not the 2 the queue named. ⚠ **The queue mis-attributed one of them:** `AGA/quality egd.pdf` is *not* the ACG 2025 EGD-quality paper but a byte-identical duplicate of `AGA 2024 Quality Upper Endoscopy.pdf`, already ingested as [[aga-2024-upper-endoscopy-quality]], and it mentions stenosis exactly once — the stricture content came from [[acg-2025-egd-quality]]. Dilation technique was **not** duplicated: [[esophageal-dilation]] keeps it, the new page links out. Linked inline from [[dysphagia]], [[gerd]] and [[esophageal-dilation]] so it is not an orphan.
+- **[[bowel-preparation]]** created. **A move, not a copy** — the whole `## Bowel Preparation` section of [[colonoscopy]] (regimens, risk factors, salvage, repeat intervals, quality scales) collapsed to a 4-bullet pointer in the same change. Adequacy *rate* (≥90%) deliberately left on [[colonoscopy-quality-indicators]]. **Closed a real decision gap:** the BBPS per-segment criteria existed only as bare anchors, and the **2014 total-≥5 rule and the 2025 per-segment-≥2 rule are not the same test** — a 3/2/0 colon is adequate by the old threshold, inadequate by the new one. Confirmed the `acg-2025-bowel-prep` → [[usmstf-2025-bowel-prep]] merge was right (one document, three journals, joint-publication statement).
+
+**Stalest-page validation (three 2026-06-27 AGA CPU source pages, lowest inbound links):**
+
+- **The "few inbound links ⇒ content never propagated" heuristic held for only one of the three.** [[sclerosing-mesenteritis]] and [[ibd-preventive-care]] already carry nearly all of their CPU's content; the defects were in the *source pages*.
+- **Invented numbering/GRADE — all three clean.** [[aga-2025-lifting-agents]] and [[aga-2025-sclerosing-mesenteritis]] issue **0** Best Practice Advice statements and both pages say so correctly; [[aga-2025-noncolorectal-cancer-ibd]]'s 1–13 numbering is **the document's own**, and its 13/13 statements are verbatim-faithful with nothing dropped or invented.
+- **Two factual errors fixed:**
+  - [[aga-2025-lifting-agents]] (and the copy of the same sentence on [[endoscopic-mucosal-resection]]) claimed *saline* was non-inferior to other injection-based methods. The source says **cold snare polypectomy *without* submucosal injection** was non-inferior to injection-based methods, for lesions **≤15 mm** — a different comparison, and the size qualifier had been dropped.
+  - [[aga-2025-sclerosing-mesenteritis]] gave "fever (5%–15%)". That figure belongs to **nausea and vomiting**; the document gives no frequency for fever. Replaced with the full symptom-frequency set (pain up to 75%, bloating 10%–25%, diarrhea/constipation 10%–25%, nausea/vomiting 5%–15%, weight loss 20%).
+- **Stale recommendation corrected:** [[endoscopic-mucosal-resection]] still recommended **ORISE Gel** per USMSTF 2020. AGA 2025 reports Boston Scientific **withdrew ORISE from the world market in December 2022** after distorted post-resection scars were misread as submucosal tumor. Flagged in place on the graded table.
+
+**Carried forward — reported, not fixed (budget ran out; next pass should take these in order):**
+
+- **Two tables never recreated anywhere:** the 14-row lifting-agents table (agent · components · cushion duration · benefits · disadvantages) → [[endoscopic-mucosal-resection]]; the AGA 2025 adult immunization schedule with its **dosing intervals** (Shingrix 8–12 wk vs 4–8 wk on immune-modifying therapy; HPV 0/1–2/6 mo; HEPLISAV-B 2-dose vs ENGERIX-B 3-dose) and the pneumococcal regimen by prior-series status → [[ibd-preventive-care]].
+- **Four figures never captured** (`pdftoppm -x/-y/-W/-H` is the known-working route): type 3 muscularis propria injury (thick parallel white bands → reinforce with clips) and the 4-panel EMR sequence; the sclerosing-mesenteritis CT panel behind the Coulier criteria and its Figure 2 algorithm; the IBD healthcare-maintenance checklist. The MP-injury and CT images fall under *endoscopic/radiologic appearance — always capture the pictures*.
+- **[[aga-2025-lifting-agents]] decision gaps:** epinephrine dilutions (1:200,000–1:500,000 for cold EMR), the three injection strategies by lesion size, ESD thermal markings 2–5 mm with injection started outside them, lift durations, the ERBEJET 2 device-assisted section, and the document's two explicit directives — none on the page.
+- **[[ibd-preventive-care]] gaps:** no mental-health instrument is named (PHQ-9/PHQ-8/GAD-7/Beck), the AGA bone-density repeat interval ("no more frequently than annually"), travel/yellow-fever vaccination, and the HEPLISAV-B preference. Also an **internal inconsistency in the CPU itself** — BPA 10 says RSV vaccine for all IBD ≥60, while that document's own Table 1 and narrative give the ACIP position (≥75, or 60–74 with risk factors); the page's current "ACG vs AGA differ" framing rests on the ≥60 figure.
+- **Three source pages lack `## See Also` and `## Sources`** (all three validated pages). `sclerosing-mesenteritis.md` links `[[autoimmune-pancreatitis|IgG4-related disease]]` — IgG4-related disease is a discrete entity, not a synonym for autoimmune pancreatitis; the alias is clinically wrong.
+- Pre-existing duplication: the stricture detection-sensitivity block (14.7%/25%/71%) sits on both [[esophageal-dilation]] and [[eosinophilic-esophagitis]]; and `eosinophilic-esophagitis.md` claims the per-feature EREFS ranges are unavailable when [[acg-2025-egd-quality]] prints them.
+
+**Standing false alarm — do not re-flag.** `lintscan.py` reports `nejm-2023-fever-returning-traveler` as a source-page orphan on every pass. **It is orphaned by design and is correct as written:** no copy of the article is on file, the page is an explicit citation-record-only stub that supports no clinical claim, and [[fever-returning-traveler]] was deliberately rebuilt off it onto three ingested guidelines. Leave it alone unless the full text is obtained.
+
+---
+
 ## [2026-10-14] lint | 12 pages missing from the master catalog; band-ligation page de-orphaned; stalest rotation
 
 **Ingest check — no new arrivals.** `rawcount.py`: all 14 `raw/` subfolder counts equal the audited baseline = **450** non-asset files; no loose files directly in `raw/`. Working tree clean at session start. `raw/` content subfolders are gitignored, so nothing untracked under `raw/` can exist to commit (structural — settled 2026-10-12).

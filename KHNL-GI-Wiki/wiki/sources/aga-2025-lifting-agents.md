@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on Endoscopic Lifting Agents: Commentary"
 category: source
 tags: [lifting-agents, submucosal-injection, emr, esd, polypectomy, indigo-carmine, epinephrine]
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-10-15
 sources: []
 ---
 
@@ -22,7 +22,7 @@ Practical commentary on submucosal lifting (injection) agents for endoscopic res
 ## Key Findings / Claims (narrative)
 
 - **Purpose:** cushion separates lesion from MP; contrast (**indigo carmine** or **methylene blue**) demarcates lesion margins and signals MP injury.
-- **Agent choice:** "homemade" normal saline ± contrast remains acceptable; saline dissipates quickly, prompting viscous/FDA-approved agents (the first FDA-approved agent and later proprietary gels). In a non-inferiority context, saline was non-inferior to other injection-based resection methods for relevant outcomes.
+- **Agent choice:** "homemade" normal saline ± contrast remains acceptable; saline dissipates quickly, prompting viscous/FDA-approved agents (the first FDA-approved agent and later proprietary gels). **Cold snare polypectomy *without* submucosal injection** was non-inferior to resection methods that used submucosal injection, for non-pedunculated colorectal lesions **≤15 mm**.
 - **Sessile serrated lesions (SSLs):** minimal submucosal fibrosis — lift adequately with **any** solution, including saline.
 - **ESD requires submucosal injection regardless of agent**; injecting into the lesion is avoided during ESD to reduce obscuring submucosal bleeding. **POEM** typically uses normal saline.
 - **Adjuncts:** dilute **epinephrine** added for cold EMR and EMR with electrocautery to reduce bleeding/improve visualization.

@@ -62,7 +62,7 @@ The single most useful historical discriminator in esophageal dysphagia is **sol
 
 **Mechanical / structural:**
 
-- **Peptic stricture** — distal, from chronic [[gerd|gastroesophageal reflux disease (GERD)]]; progressive solid-food dysphagia
+- **[[esophageal-stricture|Peptic stricture]]** — distal, from chronic [[gerd|gastroesophageal reflux disease (GERD)]]; progressive solid-food dysphagia
 - **[[eosinophilic-esophagitis]]** — leading cause in younger adults (esp. men); food impaction, rings ("trachealization"), atopy
 - **Schatzki ring** — intermittent solid-food dysphagia, classic "steakhouse syndrome"
 - **[[esophageal-cancer]]** — progressive solids → liquids, weight loss, anemia (alarm presentation)

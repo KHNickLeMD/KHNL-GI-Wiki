@@ -219,4 +219,4 @@ Glossary (Table 2) defines eFTR as *"technique involving the use of a full-thick
 
 ## See Also
 
-[[usmstf-2020-endoscopic-removal]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[colonoscopy]]
+[[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[colonoscopy]]

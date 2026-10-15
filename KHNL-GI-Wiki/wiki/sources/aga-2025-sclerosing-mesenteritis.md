@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on Sclerosing Mesenteritis: Commentary"
 category: source
 tags: [sclerosing-mesenteritis, mesenteric-panniculitis, misty-mesentery, igg4, tamoxifen, corticosteroids]
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-10-15
 sources: []
 ---
 
@@ -21,7 +21,7 @@ Commentary on sclerosing mesenteritis (SM) — a rare idiopathic fibroinflammato
 
 ## Key Findings / Claims (narrative)
 
-- **Clinical features:** abdominal pain most common; fever (5%–15%), unintentional weight loss (~20%); palpable mass often absent. Complications: bowel obstruction, mesenteric vascular compromise, protein-losing enteropathy, ascites.
+- **Clinical features:** abdominal pain most common (up to **75%**); bloating **10%–25%**; diarrhea or constipation **10%–25%**; nausea and vomiting **5%–15%**; weight loss **20%**; palpable mass often absent. Complications: bowel obstruction, mesenteric vascular compromise, protein-losing enteropathy, ascites.
 - **Diagnosis (imaging-led):** CT signs — "misty mesentery," **fat ring sign** (preserved fat halos around central mesenteric vessels), and a **tumoral/fibrotic pseudocapsule**. No single sign is diagnostic; diagnosis is usually made on characteristic CT in the right clinical context **without biopsy**.
 - **Differential:** lymphoma, carcinoid, peritoneal carcinomatosis, desmoid, IgG4-related disease, treatment-related changes (e.g., after immune checkpoint inhibitors).
 - **Biopsy:** consider when atypical features raise malignancy concern (e.g., a mesenteric mass, calcified mass with bowel retraction, new/accompanying lymphadenopathy); surgical biopsy with IgG4 staining may be preferred when needed.
