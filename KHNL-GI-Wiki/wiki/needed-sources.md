@@ -47,7 +47,8 @@ Papers, guidelines, tables, and figures that would close a specific gap on a wik
 | ANTICIPATE / ANTICIPATE-NASH / NICER calculators | CSPH-probability coefficients | [[portal-hypertension]] |
 | Groszmann / Garcia-Tsao portal-pressure studies | HVPG ≥12 mmHg bleeding-threshold evidence | [[hepatic-venous-pressure-gradient]] |
 | Mehta 2017 — RETREAT derivation | point values per variable | [[hepatocellular-carcinoma]] |
-| PAGE-B / REACH-B / REAL-B derivation papers | HBV-HCC risk score variables and points | [[hcc-surveillance]] |
+| PAGE-B / REACH-B / REAL-B / AASL-HCC derivation papers | **Point values only** — the variables and band cut-points are now sourced from [[aga-2026-hcc-surveillance]] Table 3 | [[hcc-surveillance]] |
+| Fetzer 2022 (AJR 218:1010–1020) or the ACR US LI-RADS document | Ultrasound visualization-score categories — AGA 2026 names LI-RADS but defines no categories | [[hcc-surveillance]] |
 | Oken 1982 — ECOG performance status; mRECIST / RECIST 1.1 papers | ECOG grade definitions; response categories | [[hepatocellular-carcinoma]] |
 | Liver Cancer Study Group of Japan — Vp classification | Vp1–Vp4 definitions | [[hepatocellular-carcinoma]] |
 | ACR LI-RADS core document / lexicon; LI-RADS US algorithm | LR-1/2/M/TIV criteria; threshold-growth definition; US visualization score A/B/C | [[li-rads]], [[hepatocellular-carcinoma]], [[hcc-surveillance]] |

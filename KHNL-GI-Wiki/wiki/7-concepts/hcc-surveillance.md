@@ -68,7 +68,8 @@ Surveillance is targeted to those who **would be candidates for HCC treatment** 
 - **HBsAg loss at unknown timing** — individualize, weighing cirrhosis and family history.
 - **Children/adolescents with HBV/HDV co-infection** — HCC risk is largely unknown; individualize on age, family history, and fibrosis stage (the "all adults" rule does not extend to them).
 - **What changed:** the incidence threshold for initiating surveillance in cirrhosis is now modeled at **~1.0%/y**, *lower* than the traditional **1.5%/y** cutoff readers may still carry.
-- The PAGE-B / REACH-B / REAL-B component variables and point values are not given in the guidances, which state only the PAGE-B ≥10 threshold; use an external calculator or the derivation papers.
+- **Component variables and risk bands** ([[aga-2026-hcc-surveillance]], Table 3) — **PAGE-B:** age, sex, platelet count (low <10 · intermediate 10–17 · high ≥18). **REAL-B:** age, male sex, alcohol use, cirrhosis, diabetes, platelet count, alpha-fetoprotein (low <4 · intermediate 4–7 · high 8–13). **AASL-HCC:** age, male sex, albumin, cirrhosis (low ≤5 · intermediate 6–19 · high ≥20). **aMAP:** age, gender, platelet count, albumin-bilirubin grade — C-index 0.78, incidence 0.98 / 7.05 / 29.1 per 1000 person-years across the low/moderate/high bands.
+- The **point value assigned to each variable** is in the derivation papers, not the guidances — use a calculator for the arithmetic.
 
 ## Surveillance Modality
 

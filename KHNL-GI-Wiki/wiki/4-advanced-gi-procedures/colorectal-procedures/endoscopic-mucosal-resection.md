@@ -14,6 +14,8 @@ Snare resection over a submucosal cushion (or under water), the first-line techn
 ## Contents
 - [[#Inject-and-Cut (Standard)]]
   - [[#Submucosal Lifting Agents]]
+    - [[#Injection strategy by lesion size and visibility]]
+    - [[#Lifting agents — properties and trade-offs]]
 - [[#Post-Resection]]
 - [[#Underwater EMR]]
 - [[#Cold Snare EMR]]
@@ -46,11 +48,51 @@ Snare resection over a submucosal cushion (or under water), the first-line techn
 *Source: [[aga-2025-lifting-agents|American Gastroenterological Association (AGA) 2025 clinical practice update (CPU) on endoscopic lifting agents]].*
 
 - Injection creates a cushion separating the lesion from the **muscularis propria (MP)**; adding a **blue contrast** (indigo carmine or methylene blue) demarcates margins and reveals MP injury during EMR.
-- **Saline ± contrast ("homemade") remains acceptable**; saline dissipates fast, prompting viscous/FDA-approved agents. **Cold snare polypectomy *without* submucosal injection** was non-inferior to injection-based resection methods for non-pedunculated colorectal lesions **≤15 mm** ([[aga-2025-lifting-agents]]).
+- **Saline ± contrast ("homemade") remains acceptable**; saline dissipates fast, prompting viscous solutions. **Cold snare polypectomy *without* submucosal injection** was non-inferior to injection-based resection methods for non-pedunculated colorectal lesions **≤15 mm** ([[aga-2025-lifting-agents]]).
 - **Sessile serrated lesions** lift well with **any** agent (incl. saline) given minimal fibrosis.
-- **[[endoscopic-submucosal-dissection|ESD]] requires submucosal injection** regardless of agent; avoid intralesional injection during ESD (obscuring bleeding). [[poem|Peroral endoscopic myotomy (POEM)]] typically uses normal saline.
-- Add **dilute epinephrine** for cold EMR / EMR with electrocautery to reduce bleeding.
+- **[[endoscopic-submucosal-dissection|ESD]] requires submucosal injection** regardless of anatomic location; avoid intralesional injection during ESD (obscuring bleeding, and seeding risk if cancer is present). Place **thermal markings 2–5 mm** around a foregut lesion and **start the injection outside them**, where the incision begins. Never use saline + contrast as the *only* agent for ESD. [[poem|Peroral endoscopic myotomy (POEM)]] typically uses normal saline with blue contrast.
+- Add **dilute epinephrine** for cold EMR / EMR with electrocautery — cleaner field, less intraprocedural oozing. Usual dilution for cold EMR **1:200,000 to 1:500,000** (the agent table spans 1:50,000–1:500,000). ⚠ Serial dilute-epinephrine injections may cause **post-procedure abdominal pain** that mimics perforation or post-polypectomy syndrome in the first hour.
 - Technique: prime needle (avoid air); **dynamic injection** shapes the mound and maximizes MP separation; serial inject-and-snare for large lesions. Papillectomy generally needs no injection.
+- **Contrast reads MP injury:** submucosa stains blue, MP stays white. **Thick parallel white bands = type 3 MP injury → reinforce with clips** to prevent delayed perforation.
+- **Lift duration:** shortest with saline + epinephrine (**<3 min**), longest with hyaluronic acid (**22 min**) in colonic EMR. Saline gives fewer en bloc resections and more residual lesion than viscous agents, with **no difference in adverse events**.
+- Submucosal fibrosis (prior partial resection, biopsy, tattoo) creates an **iatrogenic non-lifting sign**; a **25-gauge rather than 23-gauge** needle may help. Approach **tangentially, not en face**.
+- **No ideal solution exists** — choose by planned resection method, predicted histology, local expertise, and cost.
+
+#### Injection strategy by lesion size and visibility
+
+| Situation | Strategy |
+|---|---|
+| Flat lesion **10–30 mm**, entirely visible | **Central injection through the lesion** — domes it over the fluid. Contraindicated **only** if features suggesting cancer are present |
+| Sessile lesion, or a dominant nodule | Start on the **most accessible side** |
+| Lesion **>30–40 mm** | Raise a portion → snare-resect → repeat systematically side to side, usually **rectal side → cecal side** to keep the field clear |
+| Significant portion hidden (e.g. behind a haustral fold on the cecal side) | **Proximal (cecal) edge injection** first, aided by retroflexion |
+
+- Retroflexion is generally safe with a colonoscope in **cecum, ascending, transverse, rectum**; in **sigmoid and descending colon use an upper endoscope** instead.
+- Size-based positions: injection **optional** for lesions **10–19 mm**; **EMR first-line with viscous agents preferred ≥20 mm**; **cold snare without injection** non-inferior **≤15 mm**; pedunculated polyps at the endoscopist's discretion.
+- Sessile serrated lesions often need **no** injection at all, especially **<20 mm** or when margins are already clearly visible.
+
+#### Lifting agents — properties and trade-offs
+
+*Table — the 14 agents and adjuvants, after Table 1 of [[aga-2025-lifting-agents]]. "Longer"/"shorter" are the document's own cushion-duration terms, not measured intervals.*
+
+| Agent / adjuvant | Components | Cushion duration | Used for | Benefits | Disadvantages |
+|---|---|---|---|---|---|
+| Normal saline | 0.9% saline in water | Shorter | EMR, POEM, ESD dissection | Lower price; widely available | Quick dissipation of the lift |
+| Contrast agent | Methylene blue or indigo carmine | — (adjuvant) | EMR, ESD, POEM | Shows lesion border; identifies muscular injury | — |
+| Epinephrine | Diluted **1:50,000–1:500,000** | — (adjuvant) | EMR (cold and hot) | Limits immediate/acute bleeding; clear resection field | Post-procedure pain, depending on concentration, site and quantity |
+| Eleview (SIC-8000) | Water, sodium chloride, poloxamer 188, polyoxyl-15-hydroxystearate, medium-chain triglycerides, methylene blue | Longer | EMR, ESD | Sustained lift; non-toxic; pre-packaged 5- and 10-mL vials | Expensive; bubble formation may obscure ESD visibility |
+| EndoClot SIS | Absorbable modified polymers from plant starch particles | Longer | EMR, ESD | Potential hemostatic effect; sustained lift | Expensive; needs contrast added and in-room compounding |
+| EverLift | Water, glycerin, hydroxyethyl cellulose, benzyl alcohol, sodium and potassium phosphate, methylene blue | Longer | EMR, ESD | Pre-packaged vials; sustained lift | Expensive |
+| Blue Boost | Premixed sodium hyaluronate with methylene blue | Longer | EMR, ESD | Pre-packaged 10-mL vials; sustained lift | Expensive; **50 mL maximum per patient** |
+| LiftUp | Water, poloxamers, sodium chloride, methylene blue | Longer | EMR, ESD | Pre-packaged 20-mL vials; usable with an inflation device; sustained lift | Expensive; easier injection if refrigerated — **turns to gel at warm temperatures** |
+| Succinylated gelatin | Colloidal solution, oncotic pressure similar to albumin | Longer than saline | EMR | Widely available; non-toxic; inexpensive | Contraindicated in gelatin hypersensitivity. **Not available in the United States** |
+| Hydroxyethyl starch | Colloidal volume expander, 6% solution | Longer than saline | EMR | Inexpensive; longer lift with less volume than saline for polyps **≥30 mm**; non-toxic | Needs contrast added and in-room compounding |
+| Hyaluronic acid | High-viscosity glycosaminoglycan | — | — | — | Limited by risk of **residual tumor-cell growth** |
+| Hydroxypropyl methylcellulose | Cellulose derivative, viscoelastic | — | — | — | Limited by risk of **antigen–antibody reactions** |
+| Fibrinogen mixture | — | — | — | — | Limited by risk of **viral contamination and transmission** |
+| 50% dextrose | Hypertonic solution | — | — | — | Painful inflammatory response resembling post-coagulation syndrome if injected into the pericolonic mesentery |
+
+**Device-assisted lifting** — the ERBEJET 2 adjustable high-pressure water jet; common in POEM, usable in submucosal tunneling and ESD, and with a HybridKnife creates lift *and* tissue separation by hydrosurgery. Most useful in third-space endoscopy, especially with submucosal fibrosis.
 
 ---
 
