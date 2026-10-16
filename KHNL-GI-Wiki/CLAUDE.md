@@ -343,8 +343,8 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
 - **Block format:** `[6-hex id]{source-slug}` opens a note; `>` lines = Back Extra; blank line separates notes. GUID = `sha1(page + id)` — **reword freely, never change an id** (preserves scheduling).
 
 **Decks and tags** (2026-08-10):
-- Deck comes from the wiki path — `Digestpedia Anki::4. Advanced GI Procedures::Colorectal Procedures::<page title>` — so the deck tree is the wiki index; section number kept because Anki sorts A–Z.
-- Tags are **hand-written per card file**, required space-separated `tags:` frontmatter line, in Nick's own tag tree: `GI::Organs::<Organ>::<Topic>`, `GI::Procedures::General|Interventional`, `GI::Meds::<Class>` — matching names already in his collection (`UC`, `GERD`, `H_Pylori`, `ColorectalCancer`). **Never derive from the page slug.** Every card in the file gets them, on top of automatic `khnl::<section>` and `khnl::<slug>`. Missing `tags:` still exports; build reports it as a problem.
+- **Deck tree = the website sidebar** (Nick, 2026-10-15): same sections, order and labels, read by `build-anki.mjs` from `index.html` (`SECTION_ORDER`, `SECTION_META`, `SUBSECTION_LABELS`) — e.g. `Digestpedia Anki::3. Advanced Procedures::Colorectal Procedures::<page title>`. Section number = sidebar position (Anki sorts A–Z). Change a sidebar label/order in `index.html` and the decks follow at the next sync; the sync moves cards (scheduling kept) and removes the emptied old decks.
+- **Tags link related topics across the tree; they never repeat the deck.** Section and page are the deck, so there are no section/page tags. Tags are **hand-written per card file**, required space-separated `tags:` frontmatter line, in Nick's own tag tree: `GI::Organs::<Organ>::<Topic>`, `GI::Procedures::General|Interventional`, `GI::Meds::<Class>` — matching names already in his collection (`UC`, `GERD`, `H_Pylori`, `ColorectalCancer`). **Never derive from the page slug.** Every card in the file gets them. Missing `tags:` still exports; build reports it as a problem.
   ```markdown
   tags: GI::Organs::Colon::ColorectalPolyps GI::Procedures::Interventional
   ```
@@ -371,9 +371,10 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
 
 - Drug page takes its `GI::Meds::<Class>` tag **and** a disease tag when one fits (`mesalamine-5-asa` → `GI::Meds::Aminosalicylates GI::Organs::Colon::UC`); meds tag alone is correct when no disease node covers it. Renaming a class = `sed` over the `tags:` lines + rebuild (Anki replaces a note's tags on update).
 
-**New cards arrive suspended** (Nick, 2026-08-11):
-- TSV import has no suspended column, so any note whose GUID isn't in `<cards>/dist/khnl-gi-wiki.guids` (previous build's manifest, rewritten every build) gets `khnl::new`. After import: Browse → `tag:khnl::new` → Ctrl+A → Ctrl+J; unsuspend as ready. Tag disappears at the next build (tags replaced on update), so the search holds only the latest batch. Retired notes never get it.
-- **Don't delete the manifest** — missing manifest → build tags nothing (not the whole deck), so one batch's marks are lost rather than a mass-suspend.
+**Automatic tags — `digestpedia::` only** (Nick, 2026-10-15; replaced `khnl::section/slug/new/unreviewed`, which the sync strips on sight):
+- `digestpedia::retired` — block under `# Retired` (build).
+- `digestpedia::reviewed` — Nick has answered the card at least once in Anki (revlog learn/review/relearn/filtered; manual reschedules don't count). Set by `anki-sync.py` from the synced collection, so it lives in Anki only, not in the shared `.txt`. A reviewed card still under `# Draft` is moved to the active cards in its `.md` the same run.
+- No "new" tag: Nick adds batches faster than a latest-batch tag can track.
 
 **Source rules:**
 - **Guideline-sourced cards only** (Nick, 2026-08-11): cards come from **tier-1 sources only** — society guideline, CPU, consensus statement. **No cards from RCTs, cohorts, meta-analyses, abstracts, lectures/chalk talks** — "not yet" (may relax later); binds every ingest, page edit, and nightly pass. Deck-only rule: RCT/abstract content still reaches wiki pages. Mixed-tier page → card only the guideline-backed facts. Test = the card's `{source-slug}`: not a guideline/CPU/consensus page → no card.
@@ -407,7 +408,7 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
 10. **Visual finding → show it on the front.** Endoscopic/radiologic/histologic findings are recognized, not recited: page has a figure of the tested thing → front carries it. Build it by **cropping the wiki's own asset**: pull the relevant panel(s) from the classification table/figure and **crop away the answer-naming labels** (`VI`/`VN` column, "Paris 0-IIa" caption) — keep the pictures, drop the answer key. Save beside the parent in `raw/assets/`, named for parent + crop (`malignant-polyp-2020-kudo-vi-vn-unlabeled.png`); **full labelled figure in Back Extra** as the answer key. `ffmpeg -i parent.png -filter_complex "crop=w:h:x:y…"`; verify by reading the output image, not trusting coordinates. A crop is a derived wiki asset — **never source a card image outside the wiki**, never hand-draw or generate one.
 11. **Don't hand-write `<hr>`.** The builder opens Back Extra with one, above extra notes, figures, and the source footer.
 
-- **Killing a card is an edit, not a delete.** An imported card quizzes forever if its block vanishes. Move the block under `# Retired` with a one-line reason replacing its text, keeping its `[id]` — export blanks the note and tags it `khnl::retired` for the saved-search sweep.
+- **Killing a card is an edit, not a delete.** An imported card quizzes forever if its block vanishes. Move the block under `# Retired` with a one-line reason replacing its text, keeping its `[id]` — export blanks the note and tags it `digestpedia::retired` for the saved-search sweep.
 - Enforced/described in `.claude/PLAN-anki-decks.md`: length caps (≤40 words, ≤5 bullets, ≤12 words/bullet, ≤3 cloze numbers); one-source-per-card footer (page title · `ORG YEAR Topic` read off the source slug, e.g. `AGA 2025 Endoscopic Resection CRC` — add to `ACRONYMS` when a slug word reads wrong); `# Retired` / `# Draft` sections; cross-page concept ownership.
 - `node website_files/scripts/build-anki.mjs --test` after touching the exporter; rebuild the deck after touching any card file.
 

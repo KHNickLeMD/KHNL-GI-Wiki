@@ -45,8 +45,28 @@ const frontmatter = src => {
   return [fm, src.slice(m[0].length)]
 }
 
-// Anki sorts decks alphabetically, so the top-level section keeps its wiki number and the
-// deck list reads in index order (1. Disease Scripts … 5. Meds) instead of A–Z.
+// The deck tree is the website's sidebar: same sections, same order, same labels. They are read
+// out of index.html (SECTION_ORDER / SECTION_META / SUBSECTION_LABELS) so the two can't drift.
+// Anki sorts decks A–Z, so each section is numbered by its sidebar position.
+const siteNav = () => {
+  const html = readFileSync(join(ROOT, '..', 'index.html'), 'utf8')
+  const grab = name => {
+    const m = html.match(new RegExp(`const ${name} = ([\\[{][\\s\\S]*?[\\]}]);\\n`))
+    if (!m) throw new Error(`index.html: const ${name} not found`)
+    return Function(`return ${m[1]}`)()
+  }
+  return { order: grab('SECTION_ORDER'), meta: grab('SECTION_META'), labels: grab('SUBSECTION_LABELS') }
+}
+
+export function deckOf (page, title, nav) {
+  const [sec, ...subs] = page.split('/').slice(0, -1)
+  const n = nav.order.indexOf(sec)
+  if (n < 0 || !nav.meta[sec]) throw new Error(`${page}: section ${sec} is not in the site sidebar`)
+  // same fallback the sidebar uses for a folder with no label
+  const sub = k => nav.labels[k] ?? k.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
+  return ['Digestpedia Anki', `${n + 1}. ${nav.meta[sec].label}`, ...subs.map(sub), title].join('::')
+}
+
 const titleCase = (s, keepNum) => (keepNum && /^\d+-/.test(s) ? s.match(/^\d+/)[0] + '. ' : '')
   + s.replace(/^\d+-/, '').split('-')
     .map(w => ACRONYMS[w] ?? w[0].toUpperCase() + w.slice(1)).join(' ')
@@ -106,12 +126,6 @@ export function lint (note, page) {
 
 const tsv = s => s.replace(/\t/g, ' ').replace(/\n/g, '<br>')
 
-// The TSV format has no suspended flag, so new notes get tagged instead and you suspend
-// `tag:khnl::new` once after import. The next build drops the tag (Anki replaces tags on
-// update), so the search only ever holds cards from the latest deck.
-// No manifest yet (first run, or it was deleted) → tag nothing, or the whole deck reads as new.
-const isNew = (prev, guid) => !!prev && !prev.has(guid)
-
 // Rule sits above everything on the back, extra notes included — not just the source line.
 const backExtra = (extra, footer) => '<hr>' + (extra ? extra + '<br>' : '') + footer
 
@@ -125,10 +139,7 @@ function main () {
   const notes = []   // same rows as JSON, plus where each card lives — anki-sync.py reads this
   const problems = []
   const seen = new Set()
-  const manifest = join(cardsDir, 'dist', 'khnl-gi-wiki.guids')
-  const prev = existsSync(manifest)
-    ? new Set(readFileSync(manifest, 'utf8').split('\n').filter(Boolean))
-    : null
+  const nav = siteNav()
 
   for (const file of walk(cardsDir)) {
     const [fm, body] = frontmatter(readFileSync(file, 'utf8'))
@@ -143,10 +154,9 @@ function main () {
     }
 
     const slug = page.split('/').pop().replace(/\.md$/, '')
-    const deck = ['Digestpedia Anki',
-      ...page.split('/').slice(0, -1).map((p, i) => titleCase(p, i === 0)), pageFm.title].join('::')
-    // Hand-authored topic tags (GI::Organs::Colon::ColorectalPolyps …) — the tag tree is Nick's
-    // own naming, so it is written per file, not derived from slugs.
+    const deck = deckOf(page, pageFm.title, nav)
+    // Tags link related topics across the deck tree (GI::Organs::Colon::ColorectalPolyps …) —
+    // Nick's own tree, written per file. Section and page are the deck, so they aren't tags.
     const pageTags = (fm.tags || '').split(/\s+/).filter(Boolean)
     if (!pageTags.length) problems.push(`${page}: frontmatter missing 'tags:'`)
     // One source per card, not the page's whole source list — 7 slugs on every card was
@@ -163,10 +173,8 @@ function main () {
       seen.add(guid)
       problems.push(...lint(note, page))
 
-      const tags = [`khnl::${page.split('/')[0].replace(/^\d+-/, '')}`, `khnl::${slug}`, ...pageTags]
-      if (note.section === 'retired') tags.push('khnl::retired')
-      else if (isNew(prev, guid)) tags.push('khnl::new')
-      if (note.section === 'draft') tags.push('khnl::unreviewed')
+      const tags = [...pageTags]
+      if (note.section === 'retired') tags.push('digestpedia::retired')
 
       if (!existsSync(join(ROOT, 'wiki', 'sources', `${note.source}.md`))) {
         problems.push(`${page} [${note.id}]: unknown source ${note.source}`)
@@ -188,7 +196,6 @@ function main () {
     '#guid column:1', '#deck column:2', '#tags column:3',
     '#columns:guid\tdeck\ttags\tText\tBack Extra', ''
   ].join('\n') + '\n' + rows.join('\n') + '\n')
-  writeFileSync(manifest, [...seen].join('\n') + '\n')
   writeFileSync(join(cardsDir, 'dist', 'khnl-gi-wiki.json'), JSON.stringify(notes))
 
   if (problems.length) {
@@ -234,10 +241,13 @@ async function test () {
   assert.equal(lint({ ...notes[1], text: ['{{c1::a}} {{c2::b}} {{c3::c}}'] }, 'p.md').length, 0)
   assert.equal(lint({ ...notes[1], text: ['{{c1::a}} {{c2::b}} {{c3::c}} {{c4::d}}'] }, 'p.md').length, 1)
 
-  // khnl::new only for guids missing from an existing manifest
-  assert.equal(isNew(new Set(['a']), 'b'), true)
-  assert.equal(isNew(new Set(['a']), 'a'), false)
-  assert.equal(isNew(null, 'b'), false)
+  // deck tree follows the sidebar's order and labels, not the folder numbers
+  const nav = { order: ['1-ds', '5-meds', '2-schemas'], meta: { '1-ds': { label: 'Disease Scripts' }, '5-meds': { label: 'Medications' }, '2-schemas': { label: 'Diagnostic Schemas' } }, labels: { 'colorectal-diseases': 'Colorectal' } }
+  assert.equal(deckOf('5-meds/x.md', 'X', nav), 'Digestpedia Anki::2. Medications::X')
+  assert.equal(deckOf('1-ds/colorectal-diseases/lesions-malignancy/y.md', 'Y', nav), 'Digestpedia Anki::1. Disease Scripts::Colorectal::Lesions Malignancy::Y')
+  assert.throws(() => deckOf('9-nope/z.md', 'Z', nav), /sidebar/)
+  // and the real sidebar parses
+  assert.ok(siteNav().order.includes('5-meds'))
 
   assert.equal(titleCase('4-advanced-gi-procedures'), 'Advanced GI Procedures')
   assert.equal(titleCase('4-advanced-gi-procedures', true), '4. Advanced GI Procedures')

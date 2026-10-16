@@ -7,8 +7,9 @@
 
 The server keeps its own copy of the collection. A base snapshot (what the last run left in Anki)
 tells which side changed each note since:
-  edited / deleted in Anki, or khnl::unreviewed removed  → written back into the card .md
-  card added / edited / deleted in the .md               → applied to the Anki note
+  edited / deleted in Anki                → written back into the card .md
+  card added / edited / deleted in the .md → applied to the Anki note
+  studied in Anki (any answered review)    → tagged digestpedia::reviewed; a # Draft card moves to the active cards
 Both sides edited one note → Anki wins (that edit was made by hand) and the run logs it.
 Only notes in the "Digestpedia Anki" deck tree are ever read or written.
 """
@@ -26,6 +27,8 @@ DECK = 'Digestpedia Anki'
 DATA = Path(os.environ.get('ANKI_SYNC_DIR', Path.home() / 'anki-sync'))
 CARDS = Path(os.environ.get('CARDS_DIR', '/cards'))
 BUILD = Path(__file__).with_name('build-anki.mjs')
+REVIEWED = 'digestpedia::reviewed'
+MANAGED = ('digestpedia::', 'khnl::')   # tags this script owns; khnl:: is the old prefix, cleared on sight
 MAX_DELETE = int(os.environ.get('ANKI_MAX_DELETE', 25))   # per side per run; more than this is far likelier a broken sync than a real cleanup
 
 
@@ -149,10 +152,41 @@ def anki_side(col):
     return notes
 
 
+def studied(col):
+    """Guids of notes you have answered at least once (learn, review, relearn or filtered-deck study).
+    Manual reschedules and resets don't count; they aren't a review."""
+    return set(col.db.list('select distinct n.guid from revlog r join cards c on c.id = r.cid '
+                           'join notes n on n.id = c.nid where r.ease > 0 and r.type in (0, 1, 2, 3)'))
+
+
+def prune_decks(col, keep, dry, log):
+    """Moving a page or renaming a sidebar section leaves the old deck behind, empty. Remove those:
+    only under DECK, only normal decks, only with no cards in them or below them. Deepest first."""
+    names = sorted((d.name for d in col.decks.all_names_and_ids() if d.name.startswith(DECK + '::')),
+                   key=lambda n: -n.count('::'))
+    gone = 0
+    for name in names:
+        if any(k == name or k.startswith(name + '::') for k in keep):
+            continue
+        did = col.decks.id_for_name(name)
+        if not did or col.decks.is_filtered(did):
+            continue
+        ids = col.decks.deck_and_child_ids(did)
+        if col.db.scalar(f'select count() from cards where did in ({",".join(map(str, ids))}) '
+                         f'or odid in ({",".join(map(str, ids))})'):
+            continue
+        log(f'  → anki remove empty deck: {name}')
+        gone += 1
+        if not dry:
+            col.decks.remove([did])
+    return gone
+
+
 def reconcile(col, base, load, cards=CARDS, dry=False, log=print):
     """One pass. `base` is {} on a first run (md wins everywhere). Returns the new base."""
     md = load()
     anki = anki_side(col)
+    seen = studied(col)
     elsewhere = lambda g: col.db.scalar('select id from notes where guid=?', g) is not None
 
     # 1. Anki → md
@@ -178,7 +212,7 @@ def reconcile(col, base, load, cards=CARDS, dry=False, log=print):
             if not same(m['text'], b['text']) or not same(m['extra'], b['extra']):
                 log(f'  {m["file"]} [{m["id"]}]: edited on both sides; keeping the Anki version')
             edits[g] = (text, extra)
-        if 'khnl::unreviewed' in b['tags'] and 'khnl::unreviewed' not in low(n.tags) and m['section'] == 'draft':
+        if g in seen and m['section'] == 'draft':
             undrafts.append(g)
     if len(deletes) > MAX_DELETE:
         raise Fail(f'{len(deletes)} notes vanished from Anki in one run (cap {MAX_DELETE}); not deleting their cards. '
@@ -231,8 +265,9 @@ def reconcile(col, base, load, cards=CARDS, dry=False, log=print):
             continue
         n, deck = anki[g]
         # Anki tags are case-insensitive and keep the case first seen in the collection, so compare lowered.
-        ours = low(base.get(g, {}).get('tags', [])) | low(m['tags'])   # everything else is yours
-        tags = list(m['tags']) + [t for t in n.tags if t.lower() not in ours and not t.lower().startswith('khnl::')]
+        want = list(m['tags']) + ([REVIEWED] if g in seen else [])
+        ours = low(base.get(g, {}).get('tags', [])) | low(want)   # everything else is yours
+        tags = want + [t for t in n.tags if t.lower() not in ours and not t.lower().startswith(MANAGED)]
         if not same(n['Text'], m['text']) or not same(n['Back Extra'], m['extra']) or low(n.tags) != low(tags):
             n['Text'], n['Back Extra'], n.tags = m['text'], m['extra'], tags
             changed.append(n)
@@ -245,9 +280,10 @@ def reconcile(col, base, load, cards=CARDS, dry=False, log=print):
         log(f'  → anki delete: {len(gone)} note(s) whose card was removed')
         if not dry:
             col.remove_notes([anki[g][0].id for g in gone])
+    pruned = prune_decks(col, {m['deck'] for m in md.values()}, dry, log)
 
     log(f'anki-sync: md ← {len(edits)} edit(s), {len(undrafts)} reviewed, {len(deletes)} delete(s); '
-        f'anki ← {adds} add(s), {updates} update(s), {len(gone)} delete(s); {len(held)} held'
+        f'anki ← {adds} add(s), {updates} update(s), {len(gone)} delete(s), {pruned} empty deck(s); {len(held)} held'
         + (' [dry run]' if dry else ''))
     new = {g: {k: m[k] for k in ('text', 'extra', 'tags', 'deck')} for g, m in md.items() if g not in held}
     new.update({g: base[g] for g in held if g in base})   # held notes keep their old base → retried next run
@@ -353,7 +389,7 @@ def test():
             cid = card[0][1:7]
             text = [re.sub(CARD_LINE, '', card[0])] + [l for l in card[1:] if not l.startswith('>')]
             extra = [l[2:] for l in card[1:] if l.startswith('>')]
-            tags = ['khnl::t'] + (['khnl::unreviewed'] if section == 'draft' else [])
+            tags = ['GI::T']
             out['g' + cid] = {'file': 'p.md', 'id': cid, 'section': section, 'deck': deck, 'tags': tags,
                               'text': '<br>'.join(text), 'extra': '<hr>' + ''.join(e + '<br>' for e in extra) + '<small>f</small>'}
         return out
@@ -366,7 +402,8 @@ def test():
     assert by('gaaaaaa')['Back Extra'] == '<hr>ex<br><small>f</small>'
 
     n = by('gaaaaaa'); n['Text'] = '<div>{{c1::ONE}}</div><div>- new</div>'; n.tags += ['marked']; col.update_note(n)
-    n = by('gcccccc'); n.remove_tag('khnl::unreviewed'); col.update_note(n)
+    n = by('gcccccc'); n.tags += ['khnl::old']; col.update_note(n)
+    col.db.execute('insert into revlog values (?,?,?,?,?,?,?,?,?)', 1, n.card_ids()[0], -1, 3, 1, 0, 2500, 5000, 0)   # you studied it
     col.remove_notes([by('gbbbbbb').id])
     base = reconcile(col, base, load, tmp, log=quiet)
     md = (tmp / 'p.md').read_text()
@@ -374,10 +411,18 @@ def test():
     assert md.index('cccccc') < md.index('# Draft'), md
     assert same(by('gaaaaaa')['Text'], '{{c1::ONE}}<br>- new')
     assert 'marked' in by('gaaaaaa').tags               # your own tags survive a push
+    assert REVIEWED in by('gcccccc').tags and 'khnl::old' not in by('gcccccc').tags
+    assert REVIEWED not in by('gaaaaaa').tags
 
     (tmp / 'p.md').write_text(md_delete(md_edit(md, 'cccccc', ['{{c1::THREE}}'], []), 'aaaaaa'))
     base = reconcile(col, base, load, tmp, log=quiet)
     assert set(anki_side(col)) == {'gcccccc'} and by('gcccccc')['Text'] == '{{c1::THREE}}'
+    assert REVIEWED in by('gcccccc').tags               # reviewed survives an md edit
+    # a page moved to a new deck: its notes follow, the emptied deck goes
+    deck = f'{DECK}::U'
+    base = reconcile(col, base, load, tmp, log=quiet)
+    names = {d.name for d in col.decks.all_names_and_ids()}
+    assert deck in names and f'{DECK}::T' not in names, names
     assert reconcile(col, base, load, tmp, log=quiet) == base   # converged: nothing left to do
     # Anki's case for a tag and its import escaping are not changes (no update loop)
     n = by('gcccccc'); n.tags = [t.upper() for t in n.tags]; n['Text'] += '&nbsp;'
