@@ -348,7 +348,8 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
   ```markdown
   tags: GI::Organs::Colon::ColorectalPolyps GI::Procedures::Interventional
   ```
-- **`GI::Meds` branch (Nick, 2026-09-22):** third top-level branch beside Organs and Procedures, for drugs whose disease has no node (IBD drugs stalled the queue two weeks — tree has `Colon::UC`, nothing for Crohn's/IBD). Exactly five nodes; **never invent a sixth** — no fit → closest disease tag + flag the missing class in `log.md`:
+- **`GI::Meds` branch (Nick, 2026-09-22):** third top-level branch beside Organs and Procedures. **Every `5-meds/` card file gets one** (Nick, 2026-10-15 — replaces the old five-node cap).
+- **New nodes may be created**, built like the Organs topics are from the wiki outline: one node per drug class at the breadth of the nodes below (a class several `5-meds/` pages could share, not one drug). Name = the class word the page itself uses (its wiki `tags:` line or opening sentence), CamelCase plural. Reuse an existing node before creating one; never two nodes for one class. Log each new node in `log.md`.
 
   | node | covers |
   |---|---|
@@ -357,6 +358,16 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
   | `GI::Meds::Immunomodulators` | methotrexate, thiopurines |
   | `GI::Meds::Aminosalicylates` | mesalamine and the other 5-ASAs |
   | `GI::Meds::Corticosteroids` | systemic and budesonide-type steroids |
+  | `GI::Meds::AcidSuppressants` | PPIs, P-CABs |
+  | `GI::Meds::Antimicrobials` | C. diff antibiotics, rifaximin, other antibiotics/antiprotozoals |
+  | `GI::Meds::Microbiome` | FMT, probiotics |
+  | `GI::Meds::Laxatives` | lactulose and other osmotics |
+  | `GI::Meds::Secretagogues` | GC-C agonists, lubiprostone |
+  | `GI::Meds::Prokinetics` | 5-HT4 agonists |
+  | `GI::Meds::Antidiarrheals` | loperamide |
+  | `GI::Meds::BetaBlockers` | nonselective beta-blockers |
+  | `GI::Meds::Vasoconstrictors` | terlipressin |
+  | `GI::Meds::SomatostatinAnalogs` | octreotide, lanreotide |
 
 - Drug page takes its `GI::Meds::<Class>` tag **and** a disease tag when one fits (`mesalamine-5-asa` → `GI::Meds::Aminosalicylates GI::Organs::Colon::UC`); meds tag alone is correct when no disease node covers it. Renaming a class = `sed` over the `tags:` lines + rebuild (Anki replaces a note's tags on update).
 

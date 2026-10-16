@@ -48,6 +48,10 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-15] cards | GI::Meds tag nodes opened up; all 14 drug card files tagged
+
+Nick lifted the five-node cap on `GI::Meds`: new class nodes are built from the wiki's own drug-class wording, at the breadth of the existing nodes (CLAUDE.md → Decks and tags). Every `5-meds/` card file now carries one. **New nodes:** `AcidSuppressants` (proton-pump-inhibitors), `Antimicrobials` (cdiff-antibiotics, rifaximin), `Microbiome` (fmt, probiotics), `Laxatives` (lactulose), `Secretagogues` (plecanatide), `Prokinetics` (prucalopride), `Antidiarrheals` (loperamide), `BetaBlockers` (nonselective-beta-blockers), `Vasoconstrictors` (terlipressin), `SomatostatinAnalogs` (somatostatin-analogs). mesalamine-5-asa got its missing `Aminosalicylates` tag. Disease tags unchanged. Takes effect at the next card build.
+
 ## [2026-10-15] lint | The 12 missing catalog rows written; carry-forward table debt; 2026-06-27 AGA CPU rotation
 
 **Ingest check — no new arrivals.** `rawcount.py`: all 14 `raw/` subfolder counts equal the audited baseline = **450** non-asset files; no loose files directly in `raw/`. Working tree clean at session start; `git status --porcelain -uall raw/` returns nothing, which is **structural** — `raw/`'s content subfolders are gitignored, so a newly synced PDF can never surface as untracked. Count-vs-baseline is the only arrival detector. **Nothing to commit under `raw/`.**
