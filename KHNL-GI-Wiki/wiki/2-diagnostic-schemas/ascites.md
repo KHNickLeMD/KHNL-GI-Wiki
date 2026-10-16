@@ -3,7 +3,7 @@ title: "Ascites"
 category: diagnostic-schema
 tags: [ascites, cirrhosis, saag, paracentesis, diuretics, tips]
 created: 2026-05-15
-updated: 2026-09-29
+updated: 2026-10-16
 sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -199,6 +199,9 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 | Spironolactone | 100 mg/day | 400 mg/day | First-line for first episode; dose changes q72h (long half-life); painful gynecomastia → switch to eplerenone (50 mg per 100 mg spiro) or amiloride (10 mg per 100 mg spiro) |
 | Furosemide | 40 mg/day | 160 mg/day | Add for long-standing ascites; combine with spironolactone |
 | Torsemide / bumetanide | — | — | Alternative loop diuretics if suboptimal furosemide response |
+
+- **Give the two together, not one then the other** — combined furosemide and spironolactone in a **40:100 ratio** enhances natriuresis and diuresis **while maintaining normokalemia**, and **outperforms mineralocorticoid-receptor-antagonist monotherapy or sequential use**. Give spironolactone as a **once-daily morning dose** — its long half-life makes divided dosing unnecessary, and evening dosing causes nocturia. **Asymptomatic ascites may be managed with low-dose diuretics or sodium restriction alone.** ([[aga-2025-ascites-cirrhosis]])
+- ⚠ **Refer for liver transplantation evaluation on the *first* ascites, not on refractoriness.** [[aga-2025-ascites-cirrhosis]] Best Practice Advice 4 prints two different populations in the same document — "all patients with **refractory** ascites and/or hepatic hydrothorax" in its statement list, but "all patients with ascites and/or hepatic hydrothorax" in the body, where the rationale is unambiguous: annual mortality rises from **<5% to 20%** once ascites develops, 1-year mortality with hepatic hydrothorax is **20%–50% regardless of MELD**, and **ascites independently predicts mortality beyond MELD**. **Consider every patient with cirrhosis and ascites for transplant evaluation, regardless of Model for End-Stage Liver Disease (MELD) score.**
 
 **Monitoring:** Body weight, serum creatinine, sodium (especially in first weeks)
 

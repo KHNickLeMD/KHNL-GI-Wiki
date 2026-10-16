@@ -3,8 +3,8 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-10-12
-sources: [baveno-viii-2026-portal-hypertension, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis, wang-2026-eus-ppg-delphi-consensus, aga-2021-bleeding-gastric-varices, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
+updated: 2026-10-16
+sources: [asge-2026-esophageal-gastric-varices, baveno-viii-2026-portal-hypertension, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis, wang-2026-eus-ppg-delphi-consensus, aga-2021-bleeding-gastric-varices, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
 ---
 
 > **[[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] supersedes [[baveno-vii-2022-portal-hypertension|Baveno VII (2022)]].** Where the two differ, this page states the Baveno VIII position and names what changed. The full old-value → new-value table lives on the source page under *What changed from Baveno VII*.
@@ -184,6 +184,14 @@ Cirrhosis stages (per clinical features and HVPG):
 - Baveno VI criteria can avoid endoscopy: LSM <20 kPa + platelets >150 K/mm³ = very low probability of high-risk varices (GS 14-16) [[aasld-2023-portal-hypertension]]
 - When TE IS available and shows CSPH: NSBB initiation can obviate need for screening endoscopy (GS 14)
 - Patients on NSBB therapy: screening EGD generally unnecessary (GS 16)
+
+**[[asge-2026-esophageal-gastric-varices|ASGE 2026]] endorses Baveno VI, and supplies the two things the rule has been missing on this page — who is excluded from it, and how well it performs** (conditional recommendation, low certainty):
+
+- **The rule as ASGE states it:** LSM by TE **<20 kPa *and* platelets >150,000/µL** → screening endoscopy may be avoided. **Reassess annually. Perform endoscopy when LSM is ≥20 kPa or platelets are ≤150,000/µL.** ⚠ Note the boundary differs from Baveno VIII's phrasing above by one symbol — ASGE triggers endoscopy at **platelets ≤150**, Baveno exempts at **platelets ≥150**; at exactly 150 ×10⁹/L, ASGE scopes and Baveno does not.
+- **The exclusion list — do not apply Baveno VI to any of these:** history of **decompensated cirrhosis** (especially significant [[ascites]] or prior variceal bleeding) · prior **variceal bleeding** · current **NSBB** treatment · **[[hepatocellular-carcinoma|hepatocellular carcinoma]]** · prior **splenectomy** · **liver transplant** · **body mass index (BMI) ≥40 kg/m²**. **Not validated in pediatric or adolescent patients** — those undergo endoscopic surveillance as indicated.
+- **Performance** (meta-analysis, 30 studies): **sensitivity 0.97** (95% CI, 0.95–0.98) — this is what carries the recommendation; **specificity 0.32** (95% CI, 0.26–0.39), which ASGE's own evidence table judges as arguing *against* the criteria. Both rated low certainty. **Baveno VI is a rule-out test and nothing else.**
+- **The BMI qualifier is the practical trap.** TE has limited diagnostic accuracy at high BMI; content experts put the usable range at **BMI <40 kg/m²**. Above that, **magnetic resonance (MR) elastography can measure liver stiffness — but the Baveno VI criteria were never validated with MR elastography**, so ASGE makes **no recommendation** on using it to screen. Decide with the multidisciplinary team in the higher-BMI patient.
+- ⚠ **ASGE 2026 declines to adopt the Baveno VII splenic-stiffness escape** (SSM ≤40 kPa) that this page carries above, despite it being the newer criteria set. Its reasons: comparative studies showed Baveno VII yields fewer endoscopies but **a prospective study found the "miss rate" for higher-risk varices was *lower* with Baveno VI than Baveno VII**, those comparisons carried notable exclusions, and SSM itself is limited by splenectomy, small spleen volume/length, high BMI, and [[portal-vein-thrombosis|portal vein thrombosis]]. Baveno VIII 1.19 remains this page's position because it is the portal-hypertension consensus document; **when applying the SSM limb, know that the endoscopy society did not endorse it.**
 
 **Does this patient need a screening EGD? (Baveno VIII — the NSBB question comes first)**
 
@@ -426,12 +434,13 @@ Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP cl
 
 ## Sources
 
-1. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
-2. [[aasld-2023-portal-hypertension|AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis]]
-3. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
-4. [[acg-2025-perioperative-cirrhosis|ACG Clinical Guideline: Perioperative Risk Assessment and Management in Cirrhosis (2025)]]
-5. [[aasld-2024-tips|AASLD Practice Guidance: TIPS, Variceal Embolization, and Retrograde Transvenous Obliteration (2024)]]
-6. [[aasld-2022-palliative-cirrhosis|AASLD Practice Guidance: Palliative Care and Symptom-Based Management for Decompensated Cirrhosis (2022)]]
-7. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on EUS-guided Portosystemic Pressure Gradient: Best Practices and Future Directions (2026)]]
-8. [[aga-2021-bleeding-gastric-varices|AGA Clinical Practice Update on Management of Bleeding Gastric Varices: Expert Review (2021)]]
-9. [[puente-2025-cirroxaban-rivaroxaban-cirrhosis|Rivaroxaban to prevent complications of portal hypertension in cirrhosis: The CIRROXABAN study (2025)]]
+1. [[asge-2026-esophageal-gastric-varices|ASGE Guideline on Management of Esophageal and Gastric Varices in Patients With Cirrhosis (2026)]]
+2. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+3. [[aasld-2023-portal-hypertension|AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis]]
+4. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+5. [[acg-2025-perioperative-cirrhosis|ACG Clinical Guideline: Perioperative Risk Assessment and Management in Cirrhosis (2025)]]
+6. [[aasld-2024-tips|AASLD Practice Guidance: TIPS, Variceal Embolization, and Retrograde Transvenous Obliteration (2024)]]
+7. [[aasld-2022-palliative-cirrhosis|AASLD Practice Guidance: Palliative Care and Symptom-Based Management for Decompensated Cirrhosis (2022)]]
+8. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on EUS-guided Portosystemic Pressure Gradient: Best Practices and Future Directions (2026)]]
+9. [[aga-2021-bleeding-gastric-varices|AGA Clinical Practice Update on Management of Bleeding Gastric Varices: Expert Review (2021)]]
+10. [[puente-2025-cirroxaban-rivaroxaban-cirrhosis|Rivaroxaban to prevent complications of portal hypertension in cirrhosis: The CIRROXABAN study (2025)]]

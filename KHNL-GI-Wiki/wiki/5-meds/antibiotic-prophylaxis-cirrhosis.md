@@ -3,8 +3,8 @@ title: "Antibiotic Prophylaxis in Cirrhosis (GI Bleeding)"
 category: med
 tags: [cirrhosis, antibiotic-prophylaxis, ceftriaxone, norfloxacin, variceal-bleeding, sbp-prevention]
 created: 2026-05-15
-updated: 2026-09-07
-sources: [aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2021-ascites-sbp-hrs, asge-2015-antibiotic-prophylaxis, albhaisi-2025-prophylactic-antibiotics-cirrhosis]
+updated: 2026-10-16
+sources: [asge-2026-esophageal-gastric-varices, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2021-ascites-sbp-hrs, asge-2015-antibiotic-prophylaxis, albhaisi-2025-prophylactic-antibiotics-cirrhosis]
 ---
 
 Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-bleeding|upper gastrointestinal (GI) bleeding]] aim to prevent bacterial translocation-driven infections ([[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]], bacteremia) that independently worsen short-term mortality. In the American Association for the Study of Liver Diseases (AASLD) framework this is a form of **SBP primary prophylaxis** ([[aasld-2021-ascites-sbp-hrs]]).
@@ -44,6 +44,20 @@ Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-ble
 - **Do not drop the AASLD 2021 qualifier** where you use its stopping rule: antibiotics run until the hemorrhage has resolved **and vasoactive drugs are discontinued** — not simply until bleeding stops.
 - [[albhaisi-2025-prophylactic-antibiotics-cirrhosis|Prosty 2025]] is tier-2 evidence and does not override the guidelines, but it undercuts the confidence behind any fixed number: only **2 of its 14 RCTs** actually compared short vs long courses. Shorter durations were **inferior for bacterial infections overall**, but that inferiority sits almost entirely in the prophylaxis-vs-*nothing* trials — the short-vs-long cephalosporin comparison favored the shorter course. Read it as "*giving* prophylaxis matters; *how long* is genuinely uncertain," not as license to omit it.
 
+## Whether to Give It at All — the weakening mortality case
+
+**[[asge-2026-esophageal-gastric-varices|ASGE 2026]] still suggests prophylaxis, but only conditionally and on very low certainty, and it rests the recommendation on *infection*, not survival.** The 2025 meta-analysis it assessed (15 RCTs, 1322 patients, 1995–2023):
+
+| Outcome | Data | Risk difference | 95% CI | Certainty | Judgment |
+|---|---|---|---|---|---|
+| **Bacterial infection** | 12 RCT | **18.8** | 8.6–29.4 | Very low | **Prophylaxis** |
+| All-cause mortality | 12 RCT | 2.1 | −1.9 to 6.6 | Low | Neither |
+| Early recurrent bleeding | 9 RCT | 4.0 | −4.2 to 12.3 | Very low | Neither |
+
+- **The mortality signal is fading with time, not holding.** Noninferiority of *no* prophylaxis for mortality carried an **89.8% probability** overall, but splitting by era gives **98.9% for RCTs after 2004 versus 72.4% before 2004** — and **the most recent RCT (2023) showed no mortality benefit at all.** ASGE's panel judged the evidence insufficient to change current practice, which is a different statement from judging the practice effective.
+- ⚠ **The counterweight ASGE asks clinicians to carry: *[[clostridioides-difficile|Clostridioides difficile]]*.** Prophylaxis is now usually a **third-generation cephalosporin** (the class this page recommends above), and those are associated with **increasing rates of *C difficile* infection**. Weigh the possible decreased benefit against that risk in each patient.
+- **Where this leaves the page:** keep giving prophylaxis at presentation — all three tier-1 sources still say so, and the infection reduction is the one effect that survives scrutiny. But the honest framing of the current evidence is *fewer infections, no demonstrated survival benefit in the modern era, and a real antibiotic-harm counterweight* — which is also why [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.10 now permits individualizing duration and need by Child-Pugh class (see [[variceal-upper-gi-bleeding]]). **Research to clarify whether prophylaxis helps this population at all is on ASGE's own future-directions list.**
+
 See [[variceal-upper-gi-bleeding]] for full clinical context and [[antibiotic-prophylaxis-endoscopy]] for how this sits among the endoscopy prophylaxis indications.
 
 ## See Also
@@ -54,8 +68,9 @@ See [[variceal-upper-gi-bleeding]] for full clinical context and [[antibiotic-pr
 
 ## Sources
 
-1. [[aasld-2023-portal-hypertension|AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis]]
-2. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
-3. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and Hepatorenal Syndrome]]
-4. [[asge-2015-antibiotic-prophylaxis|ASGE Guideline: Antibiotic Prophylaxis for GI Endoscopy (2015)]]
-5. [[albhaisi-2025-prophylactic-antibiotics-cirrhosis|Prophylactic Antibiotics for Upper GI Bleeding in Patients With Cirrhosis — Journal Club (Albhaisi)]]
+1. [[asge-2026-esophageal-gastric-varices|ASGE Guideline on Management of Esophageal and Gastric Varices in Patients With Cirrhosis (2026)]]
+2. [[aasld-2023-portal-hypertension|AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis]]
+3. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+4. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and Hepatorenal Syndrome]]
+5. [[asge-2015-antibiotic-prophylaxis|ASGE Guideline: Antibiotic Prophylaxis for GI Endoscopy (2015)]]
+6. [[albhaisi-2025-prophylactic-antibiotics-cirrhosis|Prophylactic Antibiotics for Upper GI Bleeding in Patients With Cirrhosis — Journal Club (Albhaisi)]]
