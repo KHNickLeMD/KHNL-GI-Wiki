@@ -106,7 +106,7 @@ Acute-on-chronic liver failure (ACLF) is a syndrome in patients with chronic liv
 | Creatinine, blood urea nitrogen (BUN), urinalysis + urine culture | Renal failure staging; hepatorenal syndrome–acute kidney injury (HRS-AKI) vs. acute tubular necrosis (ATN) |
 | Complete blood count (CBC) | Cytopenias, thrombocytopenia, WBC (NACSELD score) |
 | Lactate | Prognostic (MELD-LA, CLIF-C ACLF lactate); severity of tissue hypoperfusion |
-| Blood cultures × 2, urine culture, paracentesis (ascites polymorphonuclear (PMN) count + culture) | Infection workup (GS 29) |
+| Blood cultures × 2, urine culture, [[paracentesis]] (ascites polymorphonuclear (PMN) count + culture) | Infection workup (GS 29) |
 | Chest X-ray | Pneumonia, pulmonary edema, hepatic hydrothorax |
 | CLIF-C ACLF, NACSELD-ACLF, AARC scores | Serial prognostic assessment (GS 2–3) |
 | Bedside transthoracic echocardiography (TTE)/point-of-care ultrasonography (POCUS) | Volume status, cardiac function, inferior vena cava (IVC) diameter/compressibility, right ventricular (RV)/left ventricular (LV) function (GS 13) |

@@ -29,7 +29,7 @@ The net effect: hemostasis may be near-normal, impaired, or hypercoagulable depe
 
 ## Periprocedural Management — AGA 2021 Recommendations
 
-Scope — the guideline's "common gastrointestinal procedures" are exactly six: **paracentesis, thoracentesis, variceal banding ([[variceal-upper-gi-bleeding|endoscopic variceal ligation (EVL)]]), colonic [[polypectomy]], [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]], and [[liver-biopsy|liver biopsy]]** ([[aga-2021-cirrhosis-coagulation]]). Every recommendation below is scoped to **stable** cirrhosis undergoing those procedures.
+Scope — the guideline's "common gastrointestinal procedures" are exactly six: **[[paracentesis]], thoracentesis, variceal banding ([[variceal-upper-gi-bleeding|endoscopic variceal ligation (EVL)]]), colonic [[polypectomy]], [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]], and [[liver-biopsy|liver biopsy]]** ([[aga-2021-cirrhosis-coagulation]]). Every recommendation below is scoped to **stable** cirrhosis undergoing those procedures.
 
 | Population, Intervention, Comparison, Outcome (PICO) | Recommendation (stable cirrhosis, common gastrointestinal [GI] procedures) | Strength / certainty |
 |---|---|---|

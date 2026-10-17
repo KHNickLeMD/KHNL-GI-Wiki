@@ -66,7 +66,7 @@ sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-asci
 
 *What makes ascites "refractory" — the diuretic-resistant vs diuretic-intractable split, the maximum-diuretic-dose and sodium-restriction prerequisites, and the early-recurrence criterion — has one home: **[[ascites]]**. Confirm the label there before applying anything below; TIPS is not an alternative to an inadequate medical trial.*
 
-- TIPS **preferred over repeated large-volume paracentesis** in well-selected refractory ascites patients — **MELD <18**, no advanced cardiopulmonary disease, no severe [[hepatic-encephalopathy|encephalopathy]]; **8–10 mm covered stent** preferred ([[aasld-2021-ascites-sbp-hrs]])
+- TIPS **preferred over repeated large-volume [[paracentesis]]** in well-selected refractory ascites patients — **MELD <18**, no advanced cardiopulmonary disease, no severe [[hepatic-encephalopathy|encephalopathy]]; **8–10 mm covered stent** preferred ([[aasld-2021-ascites-sbp-hrs]])
 - Well-selected patients with refractory ascites, hepatic hydrothorax, volume overload, or hyponatremia **should be referred for TIPS** (American Gastroenterological Association [AGA] Best Practice Advice [BPA] 7, [[aga-2025-ascites-cirrhosis]])
 - Refractory ascites and/or hydrothorax should also prompt [[liver-transplantation|liver transplant]] evaluation **regardless of MELD** (AGA BPA 4). **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 6.4 goes further — TIPS and liver transplantation (LT) should be *discussed together*, not sequentially**
 

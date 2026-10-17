@@ -3,7 +3,7 @@ title: "Ascites"
 category: diagnostic-schema
 tags: [ascites, cirrhosis, saag, paracentesis, diuretics, tips]
 created: 2026-05-15
-updated: 2026-10-16
+updated: 2026-10-17
 sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -129,19 +129,7 @@ Perform in ALL patients with new-onset ascites accessible for sampling; also per
 - Any patient with ascites who develops signs/symptoms/labs suggesting infection
 - Any cirrhotic patient with ascites and [[aki-in-cirrhosis|acute kidney injury (AKI)]] (to exclude [[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]] as precipitant)
 
-**Routine ascitic fluid analysis:**
-
-- Polymorphonuclear leukocyte (PMN; neutrophil) count
-- Total protein
-- Albumin (to calculate SAAG with simultaneous serum albumin)
-- Culture (bedside inoculation into blood culture bottles, ≥10 mL each aerobic + anaerobic, before antibiotics)
-
-**Selective tests (not routine):**
-
-- Amylase: only if pancreatic ascites suspected
-- Cytology: only if non-cirrhotic etiology suspected
-- Lactate dehydrogenase (LDH) / glucose: only if secondary bacterial peritonitis suspected
-- Acid-fast bacilli (AFB) culture / adenosine deaminase (ADA): only if tuberculosis suspected
+Send a **polymorphonuclear leukocyte (PMN; neutrophil) count, total protein, ascitic albumin with a simultaneous serum albumin** (without the paired serum sample there is no SAAG), **Gram stain and culture**. The full routine and selective panels, bedside culture-bottle inoculation and periprocedural management are on [[paracentesis]].
 
 ### Step 3: SAAG Calculation
 
@@ -213,16 +201,9 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 
 ### Large-Volume Paracentesis (LVP) — Grade 3 and Refractory Ascites
 
-- Defined as drainage >5 L per session
-- **[[albumin|Albumin]] replacement mandatory when >5 L drained:** 6–8 g albumin per liter of ascites removed
-  - After 5 L: ~40 g albumin
-  - After 8 L: ~64 g albumin
-- Limit to <8 L per session if possible (risk of postparacentesis circulatory dysfunction [PPCD] increases above 8 L)
-- Strongly consider albumin even for smaller volumes if hemodynamic instability (**systolic blood pressure (BP) <90 mm Hg** — note "SBP" elsewhere on this page means *spontaneous bacterial peritonitis*), **hyponatremia (Na <130 mEq/L)**, or [[aki-in-cirrhosis|AKI]] present
-- Coagulopathy and thrombocytopenia are NOT contraindications; blood product transfusion not recommended pre-procedure
-- After LVP, start/resume sodium restriction and diuretics
-
-**PPCD:** Clinically manifest as renal impairment, dilutional hyponatremia, [[hepatic-encephalopathy|hepatic encephalopathy]], or death; prevented by adequate albumin replacement
+- **LVP (drainage >5 L) is first-line for grade 3 ascites and for refractory ascites.** After it, start or resume sodium restriction and diuretics.
+- **[[albumin|Albumin]] 6–8 g per liter removed is mandatory above 5 L**, and is strongly considered below 5 L with systolic blood pressure <90 mm Hg, Na <130 mmol/L, or [[aki-in-cirrhosis|AKI]].
+- Volume limits, post-paracentesis circulatory dysfunction, the no-prophylactic-transfusion rule and the rest of the procedure are on [[paracentesis]].
 
 **When albumin and vasoconstrictors are NOT indicated (AGA 2024 Clinical Practice Update [CPU]):**
 
@@ -304,7 +285,7 @@ Two alternatives that [[baveno-vii-2022-portal-hypertension|Baveno VII]] could n
 
 ## See Also
 
-[[cirrhosis]], [[tips]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]], [[noninvasive-liver-disease-assessment]], [[albumin]], [[hepatocellular-carcinoma]], [[variceal-upper-gi-bleeding]], [[nonselective-beta-blockers]]
+[[paracentesis]], [[cirrhosis]], [[tips]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]], [[noninvasive-liver-disease-assessment]], [[albumin]], [[hepatocellular-carcinoma]], [[variceal-upper-gi-bleeding]], [[nonselective-beta-blockers]]
 
 ---
 

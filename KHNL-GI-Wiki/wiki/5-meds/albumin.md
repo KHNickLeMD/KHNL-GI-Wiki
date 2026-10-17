@@ -12,7 +12,7 @@ sources: [aga-2024-vasoactive-albumin-cirrhosis, aasld-2021-ascites-sbp-hrs]
 - Intravenous (IV) albumin is a **plasma volume expander** used in [[cirrhosis]] to expand effective arterial blood volume in the vasodilatory–hyperdynamic circulatory state that drives decompensation.
 - Distinct from vasoconstrictors ([[terlipressin]], [[somatostatin-analogs|octreotide]], norepinephrine, midodrine), which lower [[portal-hypertension|portal pressure]] via splanchnic vasoconstriction — albumin works by volume expansion. Adverse effects of the **vasoactive** drugs are tabled on [[somatostatin-analogs]].
 - Guidance below is from the **American Gastroenterological Association (AGA) 2024 Clinical Practice Update (CPU)** (Best Practice Advice [BPA] — Expert Review; **no formal evidence/strength ratings**; many statements rest on expert opinion / society guidelines).
-- Core roles: at large-volume paracentesis, in [[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]], and as the volume expander of choice for [[aki-in-cirrhosis|acute kidney injury (AKI) in cirrhosis]]. **Not** for uncomplicated [[ascites]].
+- Core roles: at large-volume [[paracentesis]], in [[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]], and as the volume expander of choice for [[aki-in-cirrhosis|acute kidney injury (AKI) in cirrhosis]]. **Not** for uncomplicated [[ascites]].
 
 ## Indications & Dosing by Indication
 

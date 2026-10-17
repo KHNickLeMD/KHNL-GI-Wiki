@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on GI Manifestations and Autonomic or Immun
 category: source
 tags: [hypermobile-ehlers-danlos, heds, hsd, dgbi, pots, mcas, dysautonomia, gastroparesis, motility, celiac-disease, pelvic-floor]
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-10-17
 sources: []
 ---
 
@@ -17,19 +17,21 @@ sources: []
 
 ## Summary
 
-AGA Clinical Practice Update describing the evaluation and management of gastrointestinal (GI) symptoms in patients with hypermobile Ehlers-Danlos syndrome (hEDS) or hypermobility spectrum disorders (HSDs) and their frequently coexisting conditions: postural orthostatic tachycardia syndrome (POTS) and mast cell activation syndrome (MCAS). hEDS is the most common Ehlers-Danlos syndrome (EDS) subtype (80–90% of EDS) and a heritable connective tissue disorder defined by joint hypermobility, tissue fragility, and musculoskeletal symptoms; GI symptoms are highly prevalent and overlap with disorders of gut-brain interaction (DGBI). 16 Best Practice Advice statements, no formal evidence grading.
+AGA Clinical Practice Update describing the evaluation and management of gastrointestinal (GI) symptoms in patients with [[hypermobile-ehlers-danlos-syndrome|hypermobile Ehlers-Danlos syndrome (hEDS)]] or hypermobility spectrum disorders (HSDs) and their frequently coexisting conditions: postural orthostatic tachycardia syndrome (POTS) and mast cell activation syndrome (MCAS). hEDS is the most common Ehlers-Danlos syndrome (EDS) subtype (80–90% of EDS) and a heritable connective tissue disorder defined by joint hypermobility, tissue fragility, and musculoskeletal symptoms; GI symptoms are highly prevalent and overlap with [[disorders-of-gut-brain-interaction|disorders of gut-brain interaction (DGBI)]].
+
+**16 Best Practice Advice (BPA) statements.** The update states that systematic reviews were not performed and that the statements **do not carry formal ratings** of the quality of evidence or the strength of the considerations — there is no GRADE or equivalent scheme, and the document's own numbering (BPA 1–16) is used below. It carries one figure and two tables: **Figure 1** (Beighton scoring system, reproduced from the Ehlers-Danlos Society), **Table 1** (MCAS classification + consensus diagnostic criteria), **Table 2** (treatment considerations by symptom).
 
 The mechanistic link between hEDS/HSDs, POTS, and MCAS is theoretical and evolving (altered collagen/extracellular-matrix stiffness, mast-cell–mediated visceral sensitization, autonomic dysfunction, autoimmunity, post-infectious dysautonomia including post–coronavirus disease 2019 [COVID-19]). The update stresses that POTS/MCAS testing should be targeted to clinical presentation, not applied universally. Gastroenterologists seeing DGBI patients should screen for joint hypermobility with the Beighton score and apply the 2017 hEDS diagnostic criteria (or refer). GI evaluation should otherwise mirror the general-population DGBI approach (positive symptom-based diagnosis, limited noninvasive testing), with select extras: earlier celiac testing, anorectal manometry/balloon expulsion/defecography for evacuation symptoms (high pelvic floor dysfunction prevalence, especially rectal hyposensitivity), and earlier gastric motor testing in those with coexisting POTS (abnormal gastric emptying may be more common).
 
-Management is largely supportive, symptom-focused, and multidisciplinary, following general DGBI/motility principles plus targeted treatment of POTS (fluid/salt, exercise, compression garments, and pharmacotherapy — fludrocortisone, midodrine, beta-blockers) and MCAS (H1/H2 antagonists and mast-cell stabilizers, trigger avoidance). Opioids should be avoided. Diet (gastroparesis/small-particle diet for upper-GI–predominant symptoms; low–fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAP) or gluten/dairy-free for lower-GI; low-histamine) is used with nutritional counseling to avoid restrictive eating.
+Management is largely supportive, symptom-focused, and multidisciplinary, following general DGBI/motility principles plus targeted treatment of POTS (fluid 2 L/d, salt 10 g/d, exercise training, compression garments, and — for non-responders — pharmacotherapy with fludrocortisone, midodrine, beta-blockers) and MCAS (nonsedating histamine H1 and H2 receptor antagonists first-line; oral cromolyn mast-cell stabilizers or a leukotriene receptor antagonist second-line; trigger avoidance). Opioids should be avoided for chronic pain and never used specifically for abdominal pain. Diet (gastroparesis/small-particle diet for upper-GI–predominant symptoms; low–fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAP) or gluten/dairy-free for lower-GI; low-histamine) is used with nutritional counseling to avoid restrictive eating.
 
 ## Key Findings / Claims
 
-**Verbatim Best Practice Advice statements (no evidence grade per source):**
+**All 16 Best Practice Advice statements, verbatim, in the document's own numbering. The document assigns no evidence grade or strength rating to any of them.**
 
 1. Clinicians should be aware of the observed associations between hEDS or HSDs and POTS and/or MCAS and their overlapping GI manifestations; while theoretical explanations exist, experimental evidence of the biological mechanisms that explain relationships is limited and evolving.
 2. Testing for POTS/MCAS should be targeted to patients presenting with clinical manifestations of POTS/MCAS, but universal testing for POTS/MCAS in all patients with hEDS/HSDs is not supported by the current evidence.
-3. Gastroenterologists seeing patients with DGBI should inquire about joint hypermobility and strongly consider incorporating the Beighton score for assessing joint hypermobility into their practice as a screening tool; if the screen is positive, gastroenterologists may consider applying 2017 diagnostic criteria to diagnose hEDS or offer appropriate referral to a specialist where resources are available.
+3. Gastroenterologists seeing patients with DGBI should inquire about joint hypermobility and strongly consider incorporating the Beighton score for assessing joint hypermobility into their practice as a screening tool; if the screen is positive, gastroenterologists may consider applying 2017 diagnostic criteria to diagnose hEDS ([Ehlers-Danlos Society hEDS diagnostic criteria checklist](https://www.ehlers-danlos.com/wp-content/uploads/2017/05/hEDS-Dx-Criteria-checklist-1.pdf)) or offer appropriate referral to a specialist where resources are available.
 4. Testing for POTS through postural vital signs (eg, symptomatic increase in heart rate of 30 beats/min or more with 10 minutes of standing during an active stand or head-up tilt table test in the absence of orthostasis) and referral to specialty practices (eg, cardiology or neurology) for autonomic testing should be considered in patients with hEDS/HSDs and refractory GI symptoms who also report orthostatic intolerance after exclusion of medication side effects and appropriate lifestyle or behavioral modifications (eg, adequate hydration and physical exercise) have been attempted, but is not required for all patients with hEDS/HSDs who report GI symptoms alone.
 5. In patients presenting to gastroenterology providers, testing for mast cell disorders including MCAS should be considered in patients with hEDS/HSDs and DGBI who also present with episodic symptoms that suggest a more generalized mast cell disorder (eg, visceral and somatic pain, pruritus, flushing, sweating, urticaria, angioedema, wheezing, tachycardia, abdominal cramping, vomiting, nausea, diarrhea, urogynecological and neurological complaints) involving 2 or more physiological systems (eg, cutaneous, GI, cardiac, respiratory, and neuropsychiatric), but current data do not support the use of these tests for routine evaluation of GI symptoms in all patients with hEDS/HSDs without clinical or laboratory evidence of a primary or secondary mast cell disorder.
 6. If MCAS is suspected, diagnostic testing with serum tryptase levels collected at baseline and 1–4 hours following symptom flares may be considered by the gastroenterologist; increases of 20% above baseline plus 2 ng/mL are necessary to demonstrate evidence of mast cell activation.
@@ -44,17 +46,69 @@ Management is largely supportive, symptom-focused, and multidisciplinary, follow
 15. Besides general nutritional support, special diets including a gastroparesis diet (ie, small particle diet) and various elimination diets (eg, low fermentable carbohydrates, gluten- or dairy-free, low-histamine diets) can be considered for improving GI symptoms. Dietary interventions should be delivered with appropriate nutritional counseling or guidance to avoid the pitfalls of restrictive eating.
 16. Management of chronic GI symptoms in patients with hEDS/HSDs who do not exhibit symptoms consistent with POTS or MCAS should align with existing approaches to management of DGBI and GI motility disorders in the general population, including integrated multidisciplinary care involving multiple specialties, where appropriate (eg, cardiology, rheumatology, dietician, psychology).
 
-**Supporting data / definitions:**
-- hEDS = 80–90% of all EDS; part of broader HSD spectrum. 2017 international consensus criteria: (1) generalized hypermobility by Beighton score; (2) ≥2 of connective-tissue features / family history / musculoskeletal complications; (3) absence of unusual skin fragility (exclude other EDS/connective tissue/joint disorders).
-- POTS = heart rate (HR) increase ≥30 bpm within 10 min of upright posture (≥40 bpm in adolescents 12–19) without orthostatic hypotension; symptoms ≥6 months. GI symptoms (nausea, pain, early satiety) most predictive of abnormal GI motility.
-- MCAS classification: primary (clonal, CD25+/KIT D816V), secondary (immunoglobulin E [IgE]-mediated/other), idiopathic. Activation = serum tryptase rise of baseline +20% + 2 ng/mL collected 1–4 h post-flare.
-- Association data: in 139 MCAS patients with refractory GI symptoms — 23.7% had EDS, 25.2% POTS, 15.1% both; 37.5% of hEDS/HSD patients reported POTS (survey, n=616); >60% of hEDS/HSDs had ≥1 GI symptom (those with POTS more likely to have fibromyalgia, irritable bowel syndrome [IBS], gastroesophageal reflux disease [GERD], dysmotility). Up to 40% of POTS patients self-report preceding viral upper respiratory infection (URI)/GI infection; acute and long COVID-19 associated with POTS.
-- Endoscopy: complication rates (eg, perforation) NOT increased in hEDS/HSDs except vascular EDS.
+### Decision inputs behind the statements
+
+**Beighton score — age-adjusted cutoff for a positive screen (Figure 1).** Nine points: fifth fingers, thumbs, elbows and knees score 1 point per side; forward spinal flexion with palms flat on the floor scores 1. Maneuver-by-maneuver detail is on [[hypermobile-ehlers-danlos-syndrome|the hEDS page]].
+
+| Age band | Positive Beighton score |
+|---|---|
+| Children (pre-puberty) | ≥6/9 |
+| Puberty up to age 50 | ≥5/9 |
+| ≥50 years | ≥4/9 |
+
+**2017 international consensus criteria for hEDS — all 3 required** (BPA 3 turns on these):
+1. Generalized joint hypermobility by Beighton score (cutoffs above).
+2. **≥2 of 3** feature groups — other manifestations of a connective tissue disorder (soft/velvety skin, striae, or pelvic organ or [[rectal-prolapse|rectal prolapse]] in children, men, or nulliparous women) · family history · musculoskeletal complications (joint instability, widespread pain).
+3. **Absence** of unusual skin fragility; fragility should prompt exclusion of other EDS forms, other heritable and acquired connective tissue disorders, and other joint disorders involving hypotonia and/or connective tissue laxity.
+
+- **HSD** = pain + joint hypermobility that does not satisfy the full hEDS criteria.
+
+**POTS — diagnostic criteria (adults)** (BPA 4 turns on these):
+- Heart rate rise **≥30 beats/min within 10 min** of upright posture (**≥40 beats/min** in adolescents **12–19 years**), with **absence of orthostatic hypotension**.
+- Orthostatic-intolerance symptoms present **≥6 months**, **not** explained by dehydration, medications, diet, primary anxiety disorder, eating disorders, or other medical conditions.
+- Other symptoms: palpitations, tremulousness, lightheadedness, fatigue, blurred vision, generalized weakness; cognitive and bladder dysfunction are not uncommon.
+- GI symptoms in POTS: nausea, abdominal pain, vomiting, diarrhea, bloating, severe constipation — **nausea, pain, and early satiety are the most predictive of abnormal GI motility**.
+- Phenotypes: hypovolemic, neuropathic, primary hyperadrenergic.
+- Once POTS is confirmed: autonomic function testing (tilt table or sudomotor) plus expanded laboratory testing with autoantibodies.
+
+**MCAS — criteria and thresholds** (BPA 5–7 turn on these). Table 1 gives the consensus criteria (A + B + C) and the primary/secondary/idiopathic classification; both are recreated on [[hypermobile-ehlers-danlos-syndrome|the hEDS page]].
+- **Mast-cell activation threshold:** serum tryptase rise from the individual's own baseline to **baseline + 20% + 2 ng/mL**, with samples drawn at baseline and **1–4 h after a symptom flare**.
+- Other mediator markers have been proposed but are less specific: histamine and histamine metabolites, prostaglandin D2, leukotriene C4 metabolites.
+- Counting mast cells per high-power field on intestinal biopsies has been proposed, but the threshold separating normal from abnormal is debated; CD-117 immunohistochemical staining in the second portion of the duodenum or ileum is thought to be more sensitive. Consensus on these criteria is controversial even among allergists.
+
+**Treatment detail (Table 2 — options by symptom: POTS, diarrhea, constipation, nausea/vomiting, abdominal pain, autoimmunity, MCAS; recreated on [[hypermobile-ehlers-danlos-syndrome|the hEDS page]]):**
+- POTS conservative measures: fluid **2 L/d**, salt **10 g/d**, exercise training, compression garments; more severely affected patients may need fludrocortisone, midodrine, or beta-blockers with integrated cardiology/neurology care.
+- MCAS: nonsedating H1 and H2 receptor antagonists first-line; oral cromolyn mast-cell stabilizers or leukotriene receptor antagonists second-line. Estimated antimediator response rates 75% in patients with MCAS and 82% for symptoms such as diarrhea and abdominal pain — no well-designed randomized trials; recommendations rest on expert opinion. The role of immunotherapy is under active study.
+- **Opioids:** avoid in chronic pain; opiates should not be used specifically to treat abdominal pain. Already-prescribed patients need a careful multidisciplinary approach with facilitation of cessation where possible.
+- Early brain-gut behavioral therapy / hypnotherapy where symptoms worsen with stress or coping is maladaptive.
+- Pelvic floor symptoms are common — treat per general anorectal disorder principles.
+- Screen for weight loss and disordered eating; involve a dietitian. Severe symptoms with weight loss or dehydration despite optimal medical management may need parenteral fluid and/or enteral or parenteral nutrition as a stabilizing measure, delivered through a multidisciplinary model.
+
+**Association and epidemiology data (observational; no rigorous diagnostic criteria in most studies):**
+- hEDS = 80–90% of all EDS; part of the broader HSD spectrum.
+- **98%** of >600 individuals with hEDS/HSD met diagnostic criteria for a DGBI (cross-sectional survey).
+- Among 139 patients with MCAS and refractory GI symptoms: **23.7%** had EDS, **25.2%** POTS, **15.1%** both.
+- **37.5%** of 616 surveyed hEDS/HSD patients reported a POTS diagnosis; **>60%** of hEDS/HSD patients had ≥1 GI symptom (those with concomitant POTS were more likely to have fibromyalgia, [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]], [[gerd|gastroesophageal reflux disease (GERD)]], or dysmotility).
+- One-third of POTS patients in a small study reported an IBS diagnosis.
+- Up to **40%** of POTS patients self-report a preceding viral upper respiratory or GI infection; both acute and long COVID-19 are associated with POTS.
+- hEDS/HSD was often **not** diagnosed by the 2017 criteria in these studies, and POTS/MCAS were not always categorically established.
+- **Endoscopy safety:** rates of endoscopy-related complications such as perforation do not appear to be increased among adults with hEDS/HSDs, **with the exception of vascular EDS**. Age- and indication-appropriate endoscopic evaluation should be performed.
 
 ## Relevance to Wiki
-- Creates the disease-script page [[hypermobile-ehlers-danlos-syndrome]] (1-disease-scripts/other).
-- Connects to [[disorders-of-gut-brain-interaction]] (DGBI overlap, shared evaluation/management framework), [[gastroparesis]] (gastric emptying testing in coexisting POTS; gastroparesis/small-particle diet), [[celiac-disease]] (earlier serologic testing), [[irritable-bowel-syndrome]] (IBS overlap; low-FODMAP diet), and [[anorectal-manometry]] (functional defecation disorder testing).
+- Sole source for [[hypermobile-ehlers-danlos-syndrome]], which holds this update's three visuals: the Beighton maneuvers (Figure 1), the MCAS classification and consensus criteria (Table 1), and the symptom-by-symptom treatment options (Table 2).
+- [[disorders-of-gut-brain-interaction]] — DGBI overlap; evaluation and management follow the general-population DGBI framework (BPA 8, 16).
+- [[gastroparesis]] — timely gastric emptying/accommodation testing when POTS coexists (BPA 11); gastroparesis/small-particle diet (BPA 15).
+- [[celiac-disease]] — consider serology earlier and not only with diarrhea (BPA 9).
+- [[irritable-bowel-syndrome]] — IBS overlap; low-FODMAP and wheat/gluten-free diets (BPA 15).
+- [[anorectal-manometry]] and [[defecation-disorders]] — anorectal manometry, balloon expulsion, or defecography for incomplete evacuation, given high pelvic floor dysfunction prevalence and especially rectal hyposensitivity (BPA 10).
 
 ## Contradictions / Open Questions
-- No direct contradictions with existing wiki content (net-new disease entity). POTS, MCAS, and dysautonomia do not yet have dedicated wiki pages (referenced as plain text on the new disease script).
-- Mechanistic links between hEDS/HSDs, POTS, and MCAS are explicitly described as theoretical and evolving; most management is expert opinion with few clinical trials.
+- No direct contradictions with existing wiki content.
+- Mechanistic links between hEDS/HSDs, POTS, and MCAS are explicitly described as theoretical and evolving; the supporting data are observational and lack rigorous diagnostic criteria for all three conditions.
+- Few clinical trials guide management; most treatment advice is expert opinion, and MCAS antimediator response estimates come from uncontrolled data.
+- GI motility testing in hEDS/HSDs: reports conflict on whether abnormal gastric emptying, transit, and anorectal function are genuinely more common than in referral patients without hEDS/HSDs.
+- MCAS diagnostic thresholds — the normal/abnormal cutoff for intestinal mast-cell counts and consensus on the criteria generally remain disputed.
+
+## See Also
+
+[[hypermobile-ehlers-danlos-syndrome]], [[disorders-of-gut-brain-interaction]], [[gastroparesis]], [[celiac-disease]], [[irritable-bowel-syndrome]], [[anorectal-manometry]], [[defecation-disorders]], [[dyspepsia]], [[gerd]], [[rectal-prolapse]]

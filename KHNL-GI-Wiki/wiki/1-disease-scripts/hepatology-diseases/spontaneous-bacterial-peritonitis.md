@@ -37,7 +37,7 @@ This threshold is chosen for maximal sensitivity to avoid undertreating SBP, as 
 | Ascitic Fluid Finding | Interpretation |
 |----------------------|----------------|
 | PMN ≥250/mm³ | Diagnostic of SBP (or spontaneous bacterial empyema [SBE] if pleural fluid) — start antibiotics |
-| PMN <250/mm³ + positive culture + no signs of infection | Bacterascites — do NOT treat; repeat paracentesis to monitor for progression |
+| PMN <250/mm³ + positive culture + no signs of infection | Bacterascites — do NOT treat; repeat [[paracentesis]] to monitor for progression |
 | PMN ≥250/mm³ + multimicrobial or secondary peritonitis features | Evaluate for secondary bacterial peritonitis (surgical cause) |
 
 **Culture-negative SBP (culture-negative neutrocytic ascites):**

@@ -87,7 +87,7 @@ Reconsider the diagnosis — and look harder for another cause — when the albu
 ### Pleural Fluid Analysis
 
 - **Tap every hospitalized patient with cirrhosis and new-onset HH — even with no signs of infection**, because of the risk of spontaneous bacterial empyema (SBE) ([[aga-2025-ascites-cirrhosis]]). Also tap hospitalized HH with symptoms, hepatic encephalopathy, or unexplained liver decompensation.
-- **AASLD's trigger is narrower:** tap when there is **no ascites**, or when diagnostic paracentesis has already excluded [[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]] but bacterial infection is still suspected ([[aasld-2021-ascites-sbp-hrs]] Guidance Statement [GS] 37). AGA 2025 is newer and broader — tap on admission.
+- **AASLD's trigger is narrower:** tap when there is **no ascites**, or when diagnostic [[paracentesis]] has already excluded [[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]] but bacterial infection is still suspected ([[aasld-2021-ascites-sbp-hrs]] Guidance Statement [GS] 37). AGA 2025 is newer and broader — tap on admission.
 - Send: **polymorphonuclear (PMN) leukocyte count**, culture, pleural albumin + **simultaneous serum albumin**.
 - **Inoculate culture bottles at the bedside, before the first antibiotic dose** — aerobic *and* anaerobic, **≥10 mL** per bottle raises sensitivity to **>90%**; draw blood cultures at the same time ([[aasld-2021-ascites-sbp-hrs]]).
 - **Pleural fluid protein may exceed that of the concurrent ascites** (hydrostatic pressure gradient) — a higher protein than the ascites does **not** argue against HH.

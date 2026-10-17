@@ -221,7 +221,7 @@ flowchart TD
 | **[[liver-biopsy\|Liver biopsy]]** | Reserved for diagnostic uncertainty; imperfect reference standard [[aasld-2024-nilda-blood]] |
 | **[[upper-endoscopy\|Upper endoscopy]]** | Variceal screening — can often be deferred when LSM <15 kPa with platelets >150 ×10⁹/L [[aasld-2024-nilda-portal-htn]] |
 | **Cross-sectional imaging** | Identifies portosystemic collaterals and complications of portal hypertension; supports preoperative CSPH assessment [[acg-2025-perioperative-cirrhosis]] |
-| **Diagnostic paracentesis** | All new-onset [[ascites]]: polymorphonuclear (PMN) count, total protein, albumin (serum-ascites albumin gradient [SAAG]), culture [[aasld-2021-ascites-sbp-hrs]] |
+| **Diagnostic [[paracentesis]]** | All new-onset [[ascites]]: polymorphonuclear (PMN) count, total protein, albumin (serum-ascites albumin gradient [SAAG]), culture [[aasld-2021-ascites-sbp-hrs]] |
 | **HVPG** | Gold standard for portal pressure; consider when LSM ~14–25 kPa without decompensation and confirming absence of CSPH would change management [[acg-2025-perioperative-cirrhosis]] |
 
 **Do not use** blood-based NILDA to follow progression, stability, or regression of histologic fibrosis stage over time (ungraded statement) [[aasld-2024-nilda-blood]].

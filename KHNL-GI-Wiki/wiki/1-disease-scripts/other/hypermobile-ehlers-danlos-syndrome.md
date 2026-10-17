@@ -68,6 +68,7 @@ Nine points; **test both sides** for A–D (1 point per side), spine scores 1. [
 - **GI clues:** nausea, abdominal pain, vomiting, diarrhea, [[abdominal-bloating-and-distention|bloating]], severe [[chronic-idiopathic-constipation|constipation]] — of which **nausea, pain, and early satiety are the most predictive of abnormal GI motility**.
 - Phenotypes: hypovolemic, neuropathic, primary hyperadrenergic.
 - Up to **40%** of POTS patients self-report a preceding viral upper respiratory infection (URI)/GI infection; acute and long coronavirus disease 2019 (COVID-19) are both associated with POTS.
+- **Once POTS is confirmed:** autonomic function testing (tilt table or sudomotor) plus expanded laboratory testing with autoantibodies.
 
 ### When to Suspect MCAS
 

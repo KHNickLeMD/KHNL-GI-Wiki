@@ -176,7 +176,7 @@ Cirrhosis stages (per clinical features and HVPG):
 | [[upper-endoscopy\|Upper endoscopy (EGD)]] | Varices detection; high-risk features (large size, red wale marks); needed when TE unavailable or NSBB contraindicated |
 | Child-Pugh score / Model for End-Stage Liver Disease (MELD) | Liver synthetic function; prognosis; TIPS candidacy (scoring components: see [[cirrhosis]]) |
 | Labs | Liver function tests (LFTs), international normalized ratio (INR), albumin, bilirubin, creatinine, complete blood count (CBC) (thrombocytopenia = PH marker) |
-| Diagnostic paracentesis | Polymorphonuclear (PMN) count, culture, albumin (serum-ascites albumin gradient [SAAG]), total protein for ascites evaluation |
+| Diagnostic [[paracentesis]] | Polymorphonuclear (PMN) count, culture, albumin (serum-ascites albumin gradient [SAAG]), total protein for ascites evaluation |
 
 **When to perform EGD for varices (AASLD 2023):**
 

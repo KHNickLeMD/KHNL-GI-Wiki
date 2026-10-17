@@ -3,7 +3,7 @@ title: "Colorectal Cancer Screening"
 category: concept
 tags: [crc, colorectal-cancer, screening, colonoscopy, fit, gfobt, multitarget-stool-dna, septin-9, colonoscopy-quality, adenoma, colorectal]
 created: 2026-05-16
-updated: 2026-10-04
+updated: 2026-10-17
 sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-screening-risk-stratification, aga-2025-crc-blood-tests, aga-2021-crc-chemoprevention, aga-2022-noninvasive-crc-screening, usmstf-2016-fit-screening]
 ---
 
@@ -207,7 +207,7 @@ Sensitivity and specificity, % (95% confidence interval [CI]). *AA = advanced ad
 
 ## Blood-Based CRC Screening (AGA 2025 CPU)
 
-*Source: [[aga-2025-crc-blood-tests]]. Liquid-biopsy tests detect circulating tumor / cell-free DNA shed by colorectal lesions. Centers for Medicare & Medicaid Services (CMS) covers acceptable blood tests **every 3 years**; CMS minimum threshold = CRC sensitivity 74%, specificity 90% (~10% advanced precursor lesion [APL] positivity).*
+*Source: [[aga-2025-crc-blood-tests]]. Liquid-biopsy tests detect circulating tumor / cell-free DNA shed by colorectal lesions. Centers for Medicare & Medicaid Services (CMS) covers acceptable blood tests in **average-risk individuals every 3 years**; CMS minimum threshold = CRC sensitivity 74%, specificity 90% (~10% advanced precursor lesion [APL] positivity).*
 
 ### Validated Tests — Diagnostic Performance
 
@@ -216,7 +216,7 @@ Sensitivity and specificity, % (95% confidence interval [CI]). *AA = advanced ad
 | **Guardant Shield** (cfDNA methylation) | 83.1% | 89.6% | 13.2% | 55% | FDA-approved May 2024, CMS-covered; list price $1450 |
 | **Freenome** (cfDNA methylation) | 79.2% | 91.5% | 12.5% | 57% | Validated; expected to seek FDA/CMS approval |
 
-- **Key limitation:** both detect APLs and stage 1 CRC **poorly** vs stool tests → reduced cancer prevention (poor APL detection) and curative-stage detection. (APL = adenoma or sessile serrated lesion [SSL] ≥10 mm, villous, high-grade dysplasia, or carcinoma in situ.) Figures are one-time performance; optimal repeat interval unknown.
+- **Key limitation:** both detect APLs and stage 1 CRC **poorly** vs stool tests → reduced cancer prevention (poor APL detection) and curative-stage detection. (APL = adenoma or sessile serrated lesion [SSL] ≥10 mm, villous, high-grade dysplasia, or carcinoma in situ.) Figures are one-time performance; optimal repeat interval unknown. Neither validation study was powered to detect stage-specific differences in CRC sensitivity.
 
 ### Effectiveness vs Established Tests (decision-analytic modeling, 4 validated models)
 
@@ -229,13 +229,14 @@ Sensitivity and specificity, % (95% confidence interval [CI]). *AA = advanced ad
 
 - Freenome projections ≈ Shield. Triennial Shield at $1450 = cost-effective vs no screening ($74,800–$102,300/QALY) but **less effective and more costly** than FIT/colonoscopy; even at $300 it stays inferior to FIT/colonoscopy.
 - To match annual FIT, a triennial blood test would need APL sensitivity ~50%–80% **and** cost <$125–$140.
+- Alternatively, comparable effectiveness would need **APL detection of ≥30%–50%, or annual testing** — requiring technical improvement of the tests or changes in coverage decisions.
 
 ### Positioning and Caveats
 
 - **Substitution vs supplementation:** if blood tests *substitute* for FIT/colonoscopy, population outcomes are inferior. To equal FIT/colonoscopy, participation must be ≥35% higher; outcomes similar only if for every 3 substituters there are 2 net-new screenees.
 - **Adherence is the main attraction:** only 60%–65% of eligible U.S. adults are up to date; offering a blood test to those who declined other screening raised uptake 17.5% in one study (randomized controlled trial [RCT]: ~11% higher adherence vs stool).
 - **Programmatic requirement:** abnormal blood test → must complete colonoscopy; normal → repeat at appropriate interval. ~50% of patients do not complete colonoscopy within 3–6 months of a positive stool test; whether decliners of screening colonoscopy will complete it after a positive blood test is unknown.
-- **Multicancer detection tests (e.g., Galleri):** sensitivity 51.5%, specificity 99.5% — investigational; mortality benefit unproven; premature for CRC screening. Interval blood tests between colonoscopies also premature.
+- **Multicancer detection tests (e.g., Galleri):** sensitivity 51.5%, specificity 99.5% — investigational; mortality benefit unproven; premature for CRC screening. Available in the United States as a laboratory-developed test at out-of-pocket cost; the National Health Service (NHS) validation study is recruiting 150,000 participants. Interval blood tests between colonoscopies also premature.
 - **Bottom line:** blood tests may improve participation but could cause **net harm if substituted** for more effective tests; for patients who decline all other screening, they are an acceptable option.
 
 ---

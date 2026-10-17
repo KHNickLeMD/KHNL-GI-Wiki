@@ -109,11 +109,11 @@ flowchart TD
 
 - **Pegylated interferon-α (peg-IFN-α-2a/2b)** — the **only US-available** therapy; weekly subcutaneous (SC).
   - **Indication (AASLD HBV guidance): elevated HDV RNA *and* elevated ALT → peg-IFN-α weekly for 12 months.**
-    - ⚠ **Neither input is quantified, and neither is the dose.** [[aga-2025-hepatitis-delta]] reproduces this recommendation verbatim as "elevated HDV RNA levels and elevated ALT" with **no IU/mL threshold and no ×upper limit of normal (ULN) or U/L threshold**, and gives peg-IFN's route and frequency ("weekly SC injection") but **no µg dose**. Contrast the nucleos(t)ide analogue (NA) rule two bullets down, where EASL *does* give a number. Take the treatment trigger from the AASLD HBV guidance and the dose from the peg-IFN label.
+    - ⚠ **"Elevated" is not quantified and the dose is not given** — no HDV RNA IU/mL threshold, no ×upper limit of normal (ULN) or U/L alanine aminotransferase (ALT) threshold, and no µg peg-IFN dose, only its weekly subcutaneous route.
   - 48-week SVR **23%–57%** (undetectable HDV RNA + normal ALT in 21%–50% at 48 wk); treatment >2 y may raise response rates. **Relapse ~50%** even after prolonged therapy, up to **9 years** after completing therapy. Responders have improved survival and fewer liver-related events.
   - **Contraindicated** in advanced liver disease and in major extrahepatic disease; significant **neuropsychiatric and hematologic** toxicity limits use.
 - **Nucleos(t)ide analogue** — controls HBV only; **no efficacy against HDV**. See [[chronic-hepatitis-b]].
-  - AASLD: add an NA **if HBV DNA is elevated** — again unquantified in [[aga-2025-hepatitis-delta]].
+  - AASLD: add an NA **if HBV DNA is elevated** — no HBV DNA cut-point is given.
   - **EASL sets an explicit threshold:** NA therapy only in patients with **HBV DNA >2000 IU/mL and/or cirrhosis**.
 - **After treatment:** close ongoing laboratory *and* imaging surveillance, given the ~50% relapse rate.
 
