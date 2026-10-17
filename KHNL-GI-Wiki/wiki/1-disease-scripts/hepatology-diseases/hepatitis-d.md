@@ -3,7 +3,7 @@ title: "Hepatitis D (Delta)"
 category: disease-script
 tags: [hepatitis-delta, hdv, hepatitis-b, cirrhosis, bulevirtide, peg-interferon, hcc, viral-hepatitis]
 created: 2026-06-27
-updated: 2026-09-07
+updated: 2026-10-17
 sources: [aga-2025-hepatitis-delta]
 ---
 
@@ -56,7 +56,7 @@ US Veterans Affairs cohort (adjusted hazard ratios [HRs]): HCC 3.61 (2.35–5.54
 
 ### Severity Assessment
 
-- Assess for **cirrhosis** with [[noninvasive-liver-disease-assessment|noninvasive testing]] — **[[liver-stiffness-measurement|vibration-controlled transient elastography (VCTE)]]** is most accurate (area under the receiver operating characteristic curve [AUROC] 0.90) vs **Fibrosis-4 index (FIB-4)** 0.88 and aspartate aminotransferase-to-platelet ratio index (APRI) 0.83.
+- Assess for **cirrhosis** with **imaging and** [[noninvasive-liver-disease-assessment|noninvasive testing]] — **[[liver-stiffness-measurement|vibration-controlled transient elastography (VCTE)]]** is most accurate (area under the receiver operating characteristic curve [AUROC] 0.90) vs **Fibrosis-4 index (FIB-4)** 0.88 and aspartate aminotransferase-to-platelet ratio index (APRI) 0.83.
   - **VCTE ≥14.0 kPa** for cirrhosis in HDV: sensitivity 0.78, specificity 0.86, **negative predictive value (NPV) 0.93, positive predictive value (PPV) 0.64**.
 - **[[hcc-surveillance|HCC surveillance]] in all HDV patients** given elevated risk (see [[hepatocellular-carcinoma]]).
 
@@ -84,13 +84,13 @@ flowchart TD
     B -->|Positive| C["HDV RNA<br/>(confirm active viremia)"]
     B -->|Negative| D["No active HDV<br/>(retest if new risk/ALT rise)"]
     C -->|Detectable| E["Active HDV infection<br/>→ stage fibrosis, HCC surveillance, treat"]
-    C -->|Undetectable| F["Prior/cleared exposure"]
+    C -->|Undetectable| F["No active HDV infection<br/>repeat testing if risk factors present"]
 ```
 
 - **Initial test:** anti-HDV antibody. **~50–70% of anti-HDV–positive patients have detectable HDV RNA** (active infection).
 - **Confirm viremia:** reflex **HDV RNA** in all anti-HDV–positive patients. **Double-reflex** laboratory protocols (anti-HDV on all HBsAg+, HDV RNA on all anti-HDV+) dramatically raise cascade completion (anti-HDV testing 8% → 93% with automated reflex).
 - **Not advised:** HDV antigen and anti-HDV IgM (limited availability, sensitivity, and specificity). HDV antigen is only transiently detectable in *acute* infection and is undetectable in chronic infection, because it forms immune complexes with anti-HDV.
-- US HDV RNA testing is **send-out** (Quest, ARUP, LabCorp, Centers for Disease Control and Prevention [CDC]); assay variability is a recognized limitation.
+- US HDV RNA testing is **send-out** (Quest, ARUP, LabCorp, Mayo Clinic Laboratories, Centers for Disease Control and Prevention [CDC]); assay variability is a recognized limitation.
 
 > **Care gap:** HDV testing rates among people with CHB are low (often <11%), and many anti-HDV–positive patients never complete HDV RNA testing — a major reason HDV is underdiagnosed.
 

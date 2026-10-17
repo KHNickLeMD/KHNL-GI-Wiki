@@ -3,7 +3,7 @@ title: "Gastric Polyps"
 category: disease-script
 tags: [gastric-polyps, fundic-gland-polyp, hyperplastic-polyp, gastric-adenoma, g-net, gim, atrophic-gastritis, helicobacter-pylori, endoscopy, surveillance]
 created: 2026-06-27
-updated: 2026-09-06
+updated: 2026-10-17
 sources: [aga-2026-gastric-polyps, asge-2015-gastric-premalignant, acg-2024-hp-treatment]
 ---
 
@@ -130,7 +130,7 @@ flowchart TD
     G --> H
 ```
 
-*Figure — proposed management strategy for newly visualized gastric polyps, recreated from Figure 2 of [[aga-2026-gastric-polyps]] (figure screenshot unavailable — see figure gap above).*
+*Figure 1 — management strategy for newly visualized gastric polyps, after Figure 2 of [[aga-2026-gastric-polyps]]. Resection technique by size is in the table above; surveillance after histology is in [[#Surveillance]].*
 
 ### Background Mucosa and Acid Suppression
 

@@ -61,7 +61,7 @@ Four phases — recognizing the phase guides treatment (see Figure 1 of [[aga-20
 - **Triggers** (migraine-like): stress (70–80%; positive *and* negative events), sleep deprivation, menses, travel/motion, infection/surgery; less often fasting or intense exercise.
 - **Hot-water bathing/showering** relieves ~48% of *non-cannabis* users → **not specific for CHS**.
 - Self-induced vomiting/large water intake is self-soothing — not malingering.
-- **Comorbidities** (support the diagnosis, guide management): mood/anxiety/panic (50–60%), migraine (20–30%), seizure (~3%), postural orthostatic tachycardia syndrome (POTS)/autonomic imbalance. Treating anxiety or POTS improves CVS outcomes.
+- **Comorbidities** (support the diagnosis, guide management): mood/anxiety/panic (50–60%), migraine (20–30%), seizure (~3%), [[postural-orthostatic-tachycardia-syndrome|postural orthostatic tachycardia syndrome (POTS)]]/autonomic imbalance. Treating anxiety or POTS improves CVS outcomes.
 
 ## Differential Diagnosis
 

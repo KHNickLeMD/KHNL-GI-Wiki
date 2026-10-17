@@ -111,7 +111,7 @@ Immunoglobulin E (IgE)-mediated allergy to **galactose-alpha-1,3-galactose (alph
 
 ## See Also
 
-[[irritable-bowel-syndrome]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[colonoscopy]], [[colorectal-cancer]], [[exocrine-pancreatic-insufficiency]]
+[[irritable-bowel-syndrome]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[mast-cell-activation-syndrome]], [[colonoscopy]], [[colorectal-cancer]], [[exocrine-pancreatic-insufficiency]]
 
 ---
 

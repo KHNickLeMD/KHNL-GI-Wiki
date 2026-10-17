@@ -3,7 +3,7 @@ title: "Hypermobile Ehlers-Danlos Syndrome (GI Manifestations)"
 category: disease-script
 tags: [hypermobile-ehlers-danlos, heds, hsd, dgbi, pots, mcas, dysautonomia, motility, gastroparesis, pelvic-floor, celiac-disease]
 created: 2026-06-27
-updated: 2026-09-05
+updated: 2026-10-17
 sources: [aga-2025-heds-gi]
 ---
 
@@ -63,32 +63,13 @@ Nine points; **test both sides** for A–D (1 point per side), spine scores 1. [
 
 ### When to Suspect POTS
 
-- **Definition (all required):** symptomatic **heart rate (HR) rise ≥30 bpm within 10 min of upright posture** (**≥40 bpm** in adolescents **12–19 y**), with **absence of orthostatic hypotension**; orthostatic-intolerance symptoms present **≥6 months**; **not explained** by dehydration, medications, diet, primary anxiety disorder, eating disorder, or another medical condition.
-- Other features: palpitations, tremulousness, lightheadedness, fatigue, blurred vision, generalized weakness, cognitive and bladder dysfunction.
-- **GI clues:** nausea, abdominal pain, vomiting, diarrhea, [[abdominal-bloating-and-distention|bloating]], severe [[chronic-idiopathic-constipation|constipation]] — of which **nausea, pain, and early satiety are the most predictive of abnormal GI motility**.
-- Phenotypes: hypovolemic, neuropathic, primary hyperadrenergic.
-- Up to **40%** of POTS patients self-report a preceding viral upper respiratory infection (URI)/GI infection; acute and long coronavirus disease 2019 (COVID-19) are both associated with POTS.
-- **Once POTS is confirmed:** autonomic function testing (tilt table or sudomotor) plus expanded laboratory testing with autoantibodies.
+- **Diagnostic criteria, phenotypes and confirmatory testing live on [[postural-orthostatic-tachycardia-syndrome]].** What matters here is that the heart-rate criterion is checked at the bedside with postural vital signs in any hEDS/HSD patient reporting orthostatic intolerance.
+- **GI clues in this population:** nausea, abdominal pain, vomiting, diarrhea, [[abdominal-bloating-and-distention|bloating]], severe [[chronic-idiopathic-constipation|constipation]] — of which **nausea, pain, and early satiety are the most predictive of abnormal GI motility**.
 
 ### When to Suspect MCAS
 
-**Consensus diagnostic criteria — A + B + C.** [[aga-2025-heds-gi]] (Table 1, modified from Valent et al)
-
-| | Criterion |
-|---|---|
-| **A** | Typical clinical signs of **severe, recurrent (episodic), systemic** mast-cell activation involving **≥2 organ systems** (often as anaphylaxis) |
-| **B** | Mast-cell involvement documented biochemically: rise in **serum tryptase** from the individual's baseline to **baseline + 20% + 2 ng/mL** (preferred marker; histamine metabolites, prostaglandin D2 (PGD2), leukotriene C4 (LTC4) metabolites are less specific) |
-| **C** | **Response of symptoms** to mast-cell–stabilizing agents, drugs against mediator production, or mediator blockers |
-
-**Classification once criteria are met:**
-
-| Type | Main diagnostic features |
-|---|---|
-| **Primary (clonal)** | Most mast cells display **CD25** and/or **KIT D816V** is detected — (A) with confirmed cutaneous or systemic mastocytosis, or (B) with only 2 minor systemic-mastocytosis criteria |
-| **Secondary** | Immunoglobulin E (IgE)-mediated, or driven by another hypersensitivity reaction / immunologic disorder — **no** neoplastic mast cells and **no** KIT D816V |
-| **Idiopathic** | MCAS criteria met with **neither** clonal mast cells **nor** IgE-mediated allergy |
-
-- **GI clues:** nausea, vomiting, heartburn, [[dysphagia]], abdominal pain, atypical chest pain, bowel dysfunction — heavily overlapping DGBI. Systemic clues: fatigue, tinnitus, conjunctivitis, headache/migraine, brain fog, palpitations, flushing, pruritus, urticaria, myalgias, lymphadenopathy.
+- **The A + B + C consensus criteria, the primary/secondary/idiopathic classification and the tryptase protocol live on [[mast-cell-activation-syndrome]].**
+- **What triggers the suspicion here:** **episodic** symptoms spanning **≥2 physiologic systems** — GI clues (nausea, vomiting, heartburn, [[dysphagia]], abdominal pain, atypical chest pain, bowel dysfunction) heavily overlap DGBI, so the systemic clues carry the signal: fatigue, tinnitus, conjunctivitis, headache/migraine, brain fog, palpitations, flushing, pruritus, urticaria, myalgias, lymphadenopathy.
 
 **Association data (observational, limited):** among 139 MCAS patients with refractory GI symptoms — 23.7% EDS, 25.2% POTS, 15.1% both; 37.5% of hEDS/HSD patients report a POTS diagnosis; >60% of hEDS/HSD patients have ≥1 GI symptom (those with POTS more often had fibromyalgia, irritable bowel syndrome (IBS), [[gerd|gastroesophageal reflux disease (GERD)]], or dysmotility). In most of these studies hEDS/HSD was **not** diagnosed by the 2017 criteria and POTS/MCAS were not categorically established.
 
@@ -114,8 +95,8 @@ Nine points; **test both sides** for A–D (1 point per side), spine scores 1. [
 - **Celiac (BPA 9):** consider [[celiac-disease|celiac]] serology **earlier**, and not only in those with diarrhea. Insufficient evidence to routinely test for disaccharidase deficiencies or other diet-mediated mechanisms.
 - **Functional defecation disorders (BPA 10):** [[anorectal-manometry]], balloon expulsion test, or defecography for incomplete-evacuation symptoms — high pelvic floor dysfunction prevalence, **especially rectal hyposensitivity**.
 - **Gastric motor function (BPA 11):** in coexisting POTS with chronic upper-GI symptoms, perform **timely** gastric emptying and/or accommodation testing after excluding anatomical/structural disease (abnormal gastric emptying may be more common than in the general population).
-- **POTS (BPA 4):** postural vital signs (active stand or head-up tilt — see the HR criteria above); refer to cardiology or neurology for autonomic testing in patients with **refractory GI symptoms plus orthostatic intolerance**, after excluding medication side effects and after adequate hydration and exercise have been tried. **Not required** for GI symptoms alone.
-- **MCAS (BPA 5–7):** test when **episodic** symptoms across **≥2 physiologic systems** (cutaneous, GI, cardiac, respiratory, neuropsychiatric) suggest a generalized mast-cell disorder — serum tryptase at baseline and **1–4 h after a symptom flare**, applying the +20% + 2 ng/mL rule. If supported, refer to allergy or a mast-cell center for expanded testing (urinary N-methylhistamine, leukotriene E4, 11β-prostaglandin F2). **Do not** test routinely for isolated GI symptoms without clinical or laboratory evidence of a mast-cell disorder.
+- **POTS (BPA 4):** postural vital signs (active stand or head-up tilt); refer to cardiology or neurology for autonomic testing in patients with **refractory GI symptoms plus orthostatic intolerance**, after excluding medication side effects and after adequate hydration and exercise have been tried. **Not required** for GI symptoms alone. Criteria and confirmatory testing: [[postural-orthostatic-tachycardia-syndrome]].
+- **MCAS (BPA 5–7):** test when **episodic** symptoms across **≥2 physiologic systems** (cutaneous, GI, cardiac, respiratory, neuropsychiatric) suggest a generalized mast-cell disorder; if supported, refer to allergy or a mast-cell center. **Do not** test routinely for isolated GI symptoms without clinical or laboratory evidence of a mast-cell disorder. The tryptase protocol and expanded-testing panel: [[mast-cell-activation-syndrome]].
 
 ---
 
@@ -133,8 +114,8 @@ Nine points; **test both sides** for A–D (1 point per side), spine scores 1. [
 | **Abdominal pain** | Acid suppression (histamine-2 receptor antagonist [H2RA], [[proton-pump-inhibitors\|proton pump inhibitor (PPI)]]); antispasmodics (dicyclomine, hyoscyamine, peppermint oil); neuromodulators (tricyclic antidepressant [TCA], selective serotonin reuptake inhibitor [SSRI], serotonin-norepinephrine reuptake inhibitor [SNRI], neuroleptics, anticonvulsants — incl. pregabalin, gabapentin); psychological therapies (cognitive behavioral therapy [CBT], hypnotherapy, relaxation). **Opioids: avoid — do not use to treat abdominal pain; facilitate cessation if already prescribed.** |
 | **Constipation** | Fiber (psyllium, methylcellulose); osmotic laxatives (polyethylene glycol [PEG] 3350, lactulose, milk of magnesia); stimulants (bisacodyl, senna); chloride-channel activator [[lubiprostone]]; guanylate cyclase-C agonists [[linaclotide]] and [[plecanatide]]; 5-hydroxytryptamine-4 (5-HT4) agonist [[prucalopride]]; NHE3 inhibitor [[tenapanor]] |
 | **Diarrhea** | Dietary (low fermentable oligosaccharide, disaccharide, monosaccharide, and polyol [FODMAP], gluten-free, soluble fiber); microbiome ([[rifaximin]], *Bifidobacterium infantis* 35624 — see [[probiotics]]); antidiarrheals ([[loperamide]], diphenoxylate); bile acid sequestrants (cholestyramine, colesevelam, colestipol); [[eluxadoline]]*; 5-HT3 antagonist [[alosetron]] (female patients only) |
-| **MCAS** | H2RA (famotidine, nizatidine, ranitidine); second-generation H1 antagonist (cetirizine, levocetirizine, fexofenadine, loratadine); mast-cell stabilizer (cromolyn sodium, ketotifen — not FDA-approved, can be compounded); leukotriene receptor antagonist (montelukast) |
-| **POTS** | Lifestyle (exercise, dietary fluid/salt, salt tablets, compression garment, rarely intravenous [IV] hydration); volume expanders (fludrocortisone, desmopressin, erythropoietin); rate-lowering agents (propranolol, ivabradine); central nervous system (CNS) sympatholytics (clonidine, methyldopa); other (midodrine, pyridostigmine, droxidopa, modafinil) |
+| **MCAS** | Agent list on [[mast-cell-activation-syndrome]] |
+| **POTS** | Agent list on [[postural-orthostatic-tachycardia-syndrome]] |
 | **Autoimmunity** | Corticosteroids or immunoglobulins — refer to allergy/immunology or a mast-cell specialist to manage |
 
 \* [[eluxadoline]] is contraindicated with ≥3 alcoholic drinks/day, post-cholecystectomy, and moderate-to-severe hepatic insufficiency.
@@ -144,8 +125,8 @@ Nine points; **test both sides** for A–D (1 point per side), spine scores 1. [
 
 ### POTS and MCAS Treatment
 
-- **POTS (BPA 13) — conservative first:** fluid **≈2 L/d**, salt **≈10 g/d**, exercise training, compression garments. Pharmacologic volume expansion / rate control / vasoconstriction (agents above) with integrated cardiology–neurology care **only if conservative measures fail**.
-- **MCAS (BPA 14):** nonsedating **H1 + H2** histamine receptor antagonists are **first-line**; oral **cromolyn** mast-cell stabilizers and/or a **leukotriene receptor antagonist** are **second-line**. Avoid triggers — certain foods, alcohol, strong smells, temperature changes, mechanical/friction stimuli, antigens (pollen, mold), emotional distress, and specific drugs (opioids, nonsteroidal anti-inflammatory drugs [NSAIDs], iodinated contrast). Antimediator response rates have been estimated at 75% (diarrhea) and 82% (abdominal pain), but come from uncontrolled data.
+- **POTS (BPA 13):** conservative measures first, pharmacologic treatment with integrated cardiology–neurology care only if they fail — targets and agents on [[postural-orthostatic-tachycardia-syndrome]].
+- **MCAS (BPA 14):** trigger avoidance plus histamine receptor antagonists and/or mast cell stabilizers — the line-by-line ladder and the trigger list are on [[mast-cell-activation-syndrome]].
 
 ### Nutrition and Diet
 
@@ -159,7 +140,7 @@ Nine points; **test both sides** for A–D (1 point per side), spine scores 1. [
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[gastroparesis]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[gerd]], [[rectal-prolapse]], [[anorectal-manometry]], [[defecation-disorders]], [[dysphagia]], [[dyspepsia]], [[nausea-and-vomiting]], [[abdominal-bloating-and-distention]], [[chronic-idiopathic-constipation]], [[proton-pump-inhibitors]], [[lubiprostone]], [[linaclotide]], [[plecanatide]], [[tenapanor]], [[prucalopride]], [[alosetron]], [[eluxadoline]], [[loperamide]], [[rifaximin]], [[probiotics]]
+[[postural-orthostatic-tachycardia-syndrome]], [[mast-cell-activation-syndrome]], [[disorders-of-gut-brain-interaction]], [[gastroparesis]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[gerd]], [[rectal-prolapse]], [[anorectal-manometry]], [[defecation-disorders]], [[dysphagia]], [[dyspepsia]], [[nausea-and-vomiting]], [[abdominal-bloating-and-distention]], [[chronic-idiopathic-constipation]], [[proton-pump-inhibitors]], [[lubiprostone]], [[linaclotide]], [[plecanatide]], [[tenapanor]], [[prucalopride]], [[alosetron]], [[eluxadoline]], [[loperamide]], [[rifaximin]], [[probiotics]]
 
 ---
 

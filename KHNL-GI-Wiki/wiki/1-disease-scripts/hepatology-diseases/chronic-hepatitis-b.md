@@ -3,8 +3,8 @@ title: "Chronic Hepatitis B"
 category: disease-script
 tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection, hbv-reactivation, antiviral-prophylaxis]
 created: 2026-05-15
-updated: 2026-10-03
-sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver]
+updated: 2026-10-17
+sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver, aga-2025-hepatitis-delta]
 ---
 
 ## Assessment
@@ -269,3 +269,4 @@ Goal: HBV DNA <lower limit of quantification. HBV not transmitted by casual cont
 2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
 3. [[aga-2025-hbv-reactivation|AGA Clinical Practice Guideline: Prevention and Treatment of HBV Reactivation (2025)]]
 4. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
+5. [[aga-2025-hepatitis-delta|AGA Clinical Practice Update on Management of Hepatitis Delta: Commentary]]

@@ -3,7 +3,7 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-10-12
+updated: 2026-10-17
 sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff, idsa-2017-infectious-diarrhea]
 ---
 
@@ -366,7 +366,7 @@ Patients become **less contagious once diarrhea resolves** — formed stool spre
 - **Initial CDI in IBD → prefer fidaxomicin** (lower recurrence rates; vancomycin if fidaxomicin unavailable/cost-prohibitive); **metronidazole should not be used** (newer same-tier guidance — see Contradiction note below)
 - **Duration/regimen (AGA 2026, Table 1):** typically **10 days**; consider the **fidaxomicin EXTEND regimen — 200 mg PO BID × 5 days, then 200 mg once every other day on days 7–25**. Alternatives: **prolonged vancomycin 21–42 days** for initial infection, or **vancomycin taper-pulse** for complicated/recurrent cases
 - Use a **multistep toxin-based assay** (NAAT alone over-diagnoses colonization, which is common in IBD)
-- Exclude/treat CDI in patients with an **end ileostomy or [[pouchitis|ileo-anal pouch]]** and worsening diarrhea; retest if diarrhea recurs after successful treatment
+- Exclude/treat CDI in patients with an **end ileostomy or [[pouchitis|ileo-anal pouch]]** and worsening diarrhea; retest if diarrhea recurs after successful treatment — **at least 72 h after stopping vancomycin**, or the test may be falsely negative
 - Strongly consider **hospitalization** for severe colitis/systemic toxicity (>6 bowel movements [BM]/day, severe pain, marked leukocytosis, hemodynamic instability, sepsis)
 - **Continue immunosuppressive IBD therapy** during acute CDI (immunomodulators, biologics, small molecules; steroids may be continued/initiated if concern for concurrent moderate–severe flare, with close monitoring) — **no class or mechanism of action has a differential CDI risk**, so choose the therapy best for the IBD *(Best Practice Advice 6)*
   - **Exception — fulminant CDI:** consider a **temporary hold of nonessential immunosuppressants** until there is some clinical improvement of the CDI
@@ -374,7 +374,7 @@ Patients become **less contagious once diarrhea resolves** — formed stool spre
 - **Loperamide** may be considered when inflammation/infection are improving but diarrhea persists
 - After **≥1 recurrence** → offer microbiome-based therapy: FDA-approved fecal microbiota live-jslm (RBL), fecal microbiota spores live-brpk (VOS), or unapproved FMT
 - **No probiotics** for primary or secondary prevention
-- Consider **oral vancomycin prophylaxis** as secondary prevention in those with prior CDI receiving systemic antibiotics
+- May consider **oral vancomycin prophylaxis** as secondary prevention in those with prior CDI receiving systemic antibiotics — **125 mg once to twice daily, started with the systemic antibiotics and continued until 5 days after they finish**, after informed decision-making. The IBD CPU calls its own evidence weak: in the single randomized trial (n=81, IBD excluded) rCDI was 43.6% vs 57.1% with placebo — **not significant** — and vancomycin-resistant *Enterococcus* carriage was higher with prophylaxis (50% vs 24% at 8 weeks). See the reversal note under *Prevention*
 
 > **Guidelines differ.** [[acg-2021-cdiff]] lists vancomycin 125 mg QID (≥14 days) as IBD first-line, whereas the newer [[aga-2026-cdiff-ibd|AGA 2026 CPU]] prefers **fidaxomicin** for initial CDI in IBD. **Start fidaxomicin** per the newer guideline; the ACG vancomycin pathway remains acceptable when fidaxomicin is unavailable or cost-prohibitive.
 
