@@ -5,6 +5,8 @@
   fetch-paper.py <id> --lookup      print the citation + canonical link only, download nothing
   fetch-paper.py --search 'AUTH:"Lewis SJ" AND PUB_YEAR:1997 AND TITLE:stool'   top 5 Europe PMC hits,
                                     to find the DOI (fielded queries; bare words rank badly)
+  fetch-paper.py --label "<brand or generic>" --out "raw/Drug Labels" --name "<Brand> Label"
+                                    FDA prescribing information from DailyMed (official NLM API)
   fetch-paper.py --test
 
 Only the PMC Open Access bucket (pmc-oa-opendata on AWS, NIH's documented route for automated
@@ -26,6 +28,7 @@ from pathlib import Path
 
 EPMC = 'https://www.ebi.ac.uk/europepmc/webservices/rest/search'
 BUCKET = 'https://pmc-oa-opendata.s3.amazonaws.com'
+DAILYMED = 'https://dailymed.nlm.nih.gov/dailymed'
 UA = 'digestpedia-fetch-paper/1.0 (GI wiki source fetch; one request per paper)'
 MIN_BYTES = 60_000   # a saved challenge page or abstract stub is ~5-30 KB (IANS 2024 was 6 KB)
 
@@ -113,6 +116,26 @@ def fetch(ident, out, name):
     return {'status': 'downloaded', 'file': str(dest), 'bytes': len(data), **meta}, 0
 
 
+def label(drug, out, name):
+    """Newest DailyMed SPL for the drug name, saved as its prescribing-information PDF."""
+    q = urllib.parse.urlencode({'drug_name': drug, 'pagesize': 5})
+    hits = json.loads(get(f'{DAILYMED}/services/v2/spls.json?{q}'))['data']
+    if not hits:
+        return {'status': 'error', 'error': f'no DailyMed label for {drug}'}, 1
+    h = hits[0]
+    meta = {'title': h['title'], 'setid': h['setid'],
+            'link': f"{DAILYMED}/drugInfo.cfm?setid={h['setid']}", 'others': [x['title'] for x in hits[1:]]}
+    dest = Path(out) / f'{name}.pdf'
+    if dest.exists():
+        return {'status': 'exists', 'file': str(dest), **meta}, 0
+    data = get(f"{DAILYMED}/downloadpdffile.cfm?setId={h['setid']}")
+    if not data.startswith(b'%PDF') or len(data) < MIN_BYTES:
+        return {'status': 'error', 'error': f'not a full PDF ({len(data)} bytes)', **meta}, 1
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_bytes(data)
+    return {'status': 'downloaded', 'file': str(dest), 'bytes': len(data), **meta}, 0
+
+
 def test():
     assert query_for('PMC123') == 'PMCID:PMC123'
     assert query_for('8675081') == 'EXT_ID:8675081 AND SRC:MED'
@@ -131,11 +154,16 @@ def main(argv):
     p.add_argument('--name')
     p.add_argument('--lookup', action='store_true')
     p.add_argument('--search', action='store_true', help='treat ident as free-text search terms')
-    if argv[:1] == ['--search']:
-        argv = argv[1:] + ['--search']
+    p.add_argument('--label', action='store_true', help='treat ident as a drug name (DailyMed)')
+    if argv[:1] in (['--search'], ['--label']):
+        argv = argv[1:2] + argv[2:] + argv[:1]
     a = p.parse_args(argv)
     try:
-        if a.search:
+        if a.label:
+            if not (a.out and a.name):
+                p.error('--out and --name are required with --label')
+            res, rc = label(a.ident, a.out, a.name)
+        elif a.search:
             hits = epmc(a.ident, 5)
             res, rc = {'status': 'found' if hits else 'error', 'hits': hits}, 0 if hits else 1
         elif a.lookup:
