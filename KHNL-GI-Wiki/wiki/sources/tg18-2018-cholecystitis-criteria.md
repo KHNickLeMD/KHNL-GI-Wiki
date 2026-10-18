@@ -212,4 +212,4 @@ Multivariate analysis of 30-day mortality in Grade III patients (survivors n = 5
 
 ## See Also
 
-[[acute-cholecystitis]], [[acute-cholangitis]], [[tg18-2018-cholangitis-flowchart]], [[mri-mrcp]], [[eus-guided-gallbladder-drainage]], [[choledocholithiasis]]
+[[acute-cholecystitis]], [[acute-cholangitis]], [[mri-mrcp]], [[eus-guided-gallbladder-drainage]], [[choledocholithiasis]]

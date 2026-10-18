@@ -173,3 +173,9 @@ The article poses numbered clinical questions and answers each with a boxed stat
 - **Grade III carries no demonstrated drainage benefit in this dataset**, which sits awkwardly beside the flowchart's instruction to drain severe cholangitis as soon as the patient is stabilised. The article attributes this to the 24-h definition of "urgent" possibly being too late for Grade III, not to drainage being unnecessary.
 - **Severity grade does not track mortality in malignant obstruction.** No correlation between TG13 grade and 30-day mortality was observed in cholangitis caused by malignant tumours — consistent with [[jagtap-2026-urgent-vs-early-ercp-cholangitis]], where malignant obstruction rather than drainage timing dominated 30-day mortality.
 - **Question numbering in the article is discontinuous** (Q1–Q3, Q5, Q8–Q10 appear; Q4, Q6 and Q7 are not printed), and the recommendation numbers restart by topic. The article prints no legend for its `Recommendation 1/2` labels or its `level A–D` evidence grades.
+
+---
+
+## See Also
+
+[[acute-cholangitis]], [[acute-cholecystitis]], [[choledocholithiasis]], [[ercp]], [[jaundice]], [[abnormal-liver-chemistries]]

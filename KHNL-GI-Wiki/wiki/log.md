@@ -8,13 +8,52 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ## [2026-10-18] lint | Tokyo Guidelines 2018 criteria papers ingested — the cholangitis and cholecystitis grading gaps close
 
-**IN PROGRESS — entry opened before the first edit per the record-as-you-go rule.**
+**⚠ The pass stopped before it closed this entry** (cron committed the tree as `9d0fc9b`, 13:10 UTC). Everything below the *Both ingest slots* line was reconstructed afterwards from that commit's diff, in a manual `update` session the same day, and the bookkeeping the pass left undone was completed then (see *Completed after the run*). Cause of the stop is not visible from the container — the cron output lives on the host.
 
 **Ingest check — 11 uningested files, and for the first time since 2026-10-02 they are tier-1/tier-2, not lectures.** `rawcount.py`: `GI Guidelines/Other` **have=28 baseline=21 (+7)** and `GI Other Studies` **have=10 baseline=6 (+4)** — the 11 files the 2026-10-18 `update` pass downloaded and left for ingest. `git status --porcelain -uall` empty, no loose files directly in `raw/`; nothing to commit as a new arrival. None of the 11 has a `wiki/sources/` page.
 
 **Daily source fetch (06:00) — 0 downloaded, by design.** The ingest budget is **≤2 raw files per pass** and there are already **11 qualifying downloaded files waiting**, so a new download could only be ingested by displacing a higher-priority backlog file. Per *Quality over quota*, nothing was fetched and no `needed-sources.md` row was tried. **Verdict: dropped — no free ingest slot; backlog takes precedence.** No row marked 🔒, nothing added to `/repo/.fetch-manual.md`. The daily fetch should resume once the 11-file backlog is drained.
 
 **Both ingest slots went to the two Tokyo Guidelines 2018 criteria papers**, chosen because they are the only files in the backlog that close decision gaps *the clinical pages themselves declare open in prose*.
+
+**Sources created:**
+
+- [[tg18-2018-cholangitis-criteria]] — Kiriyama 2018; prints the diagnostic criteria (Table 2) and severity criteria (Table 4) that [[tg18-2018-cholangitis-flowchart]] only cross-references.
+- [[tg18-2018-cholecystitis-criteria]] — Yokoe 2018; diagnostic criteria (Table 1), severity grading (Table 7), imaging Q1–Q8 with the document's own `Recommendation N, level X` labels (the article defines neither scale; the page says so).
+
+**Pages updated (TG18 ingest):**
+
+- [[acute-cholangitis]] — full TG18 A/B/C criteria with numeric cut-points and the Grade I/II/III table; corrected platelet threshold (<100,000/mm³), WBC units, cardiovascular criterion; Charcot's triad sensitivity.
+- [[acute-cholecystitis]] — TG18 diagnostic criteria + severity table; new imaging sections (findings, test choice, gangrenous, emphysematous cholecystitis).
+- Card files for both pages rewritten and closed with `page_updated: 2026-10-18`.
+
+**Owed work from the previous pass, applied:**
+
+- [[aga-2026-therapeutic-endoscopy-ibd]] — rebuilt (36 → 314 lines): Methods and Grading, Table 1 (do's and don'ts), Figure 1 stricture approach, Key Guidance, Table 2 notable studies. Was the stalest page in the wiki (`updated: 2026-06-27`).
+- [[toxic-megacolon]] — false "no guideline gives a dilation criterion" statement replaced: AGA 2026 >6 cm + loss of haustra (diagnostic) vs ACG 2025 >5.5 cm (poor-outcome predictor) table; CT + early colorectal-surgery discussion.
+- [[ulcerative-colitis]] — inpatient block from [[aga-2026-inpatient-ibd]]: methylprednisolone 40–60 mg/day with >60 mg ceiling, CRP ≥1.2 mg/dL trigger, 7-day stop, rescue selection incl. protein-losing colopathy, JAK rescue doses with the ACG 2025 contradiction surfaced, CMV ≥5-inclusion threshold, discharge without CRP/imaging normalization.
+- [[chronic-idiopathic-constipation]] — senna 35 mg twice daily FDA ceiling replaces "no clear maximum"; chronic stimulant use stance; transit-test washout (laxatives ≥7 days, transit-slowing drugs ≥2 weeks) and on-laxative interpretation; combination therapy; staged ileostomy-first colectomy.
+- [[defecation-disorders]] — AGA 2026 2-of-3 row with a "question it answers" column; rectocele >4 cm (clinically relevant) vs >5 cm (surgical) table; ~40% slow-transit overlap; treat-DD-before-colectomy rule.
+- [[biofeedback-therapy]] — 3–6-month time to benefit; BET normalisation as response marker; biofeedback required before colectomy.
+- [[anorectal-manometry]] — ≥1 min BET cut-point; new barium vs MR defecography section (home of the modality choice).
+
+**Other:**
+
+- [[nejm-2023-fever-returning-traveler]] — re-cited to the likely referent, Thwaites & Day *N Engl J Med* 2017 (review, unconfirmed); still a citation record supporting no claim. Retire or re-slug → Nick.
+
+**Completed after the run:**
+
+- `index.md`: rows added for both new sources; [[tg18-2018-cholangitis-flowchart]] row no longer says it "needs Kiriyama 2018"; [[acute-cholangitis]] / [[acute-cholecystitis]] descriptions and source counts (6 / 5) updated; footer → **342 sources, 673 pages** (`lintscan.py`); `updated:` bumped.
+- [[tg18-2018-cholangitis-criteria]] given its missing `## See Also`; source slug removed from [[tg18-2018-cholecystitis-criteria]]'s See Also.
+- `lintscan.py` after the fixes: 0 broken links, 0 non-source orphans, no page missing See Also/Sources.
+
+**⚠ Still owed (not touched by this pass):**
+
+- Propagation from [[aga-2026-inpatient-ibd]] to [[crohns-disease]] (CT with IV not oral contrast, 20 mg preoperative taper, <5 cm dilation rule, abscess drainage vs ACG 2025 Rec 35), [[perianal-fistulizing-crohns-disease]] (EUA + I&D + seton; surgery + antibiotics + anti-TNF) and [[jak-inhibitors]] (ASUC inpatient doses, varicella sequencing); accelerated-infliximab no-advantage data on [[ulcerative-colitis]] not confirmed applied.
+- Propagation from the rebuilt [[aga-2026-therapeutic-endoscopy-ibd]] to entity pages (stricture/fistula endotherapy on [[crohns-disease]] etc.) — none made.
+- Two needed-sources candidates from the previous pass (Travis 2011 Oxford index; pyridostigmine-vs-bisacodyl trial) — vet against *What belongs on the download list* before adding.
+- 9 downloaded raw files still uningested (Mori, Gomi, I-SEE 2022, London 2020, HHT 2020, Stapfer, Darwish Murad, De Martin, Mehta).
+- Leads from the 2026-10-18 `update` entry (OCA withdrawal, AIMS65 albumin units, statins, methotrexate interval, microscopic-colitis histology).
 
 ---
 
