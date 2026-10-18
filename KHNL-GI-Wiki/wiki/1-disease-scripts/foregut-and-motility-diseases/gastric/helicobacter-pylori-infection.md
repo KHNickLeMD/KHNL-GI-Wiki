@@ -38,7 +38,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab, aga-2021
 | Ulcer disease | [[peptic-ulcer-disease\|Peptic ulcer disease]] — **prior history or active disease** |
 | Lymphoma | Marginal zone B-cell lymphoma, mucosa-associated lymphoid tissue (MALT) type ([[gastric-malt-lymphoma\|gastric MALT lymphoma]]) |
 | Dyspepsia | **Uninvestigated dyspepsia age <60 y** → [[test-and-treat]]. **In populations at high risk for gastric cancer, test and treat at age 45–50 y** |
-| | **Functional dyspepsia** |
+| | **[[functional-dyspepsia\|Functional dyspepsia]]** |
 | Household | **Adult household members** of a person with a **positive non-serological test** |
 | Drugs | Long-term nonsteroidal anti-inflammatory drugs (NSAIDs), **or starting long-term low-dose aspirin** |
 | Hematologic | Unexplained [[iron-deficiency-anemia\|iron deficiency anemia]]; idiopathic (autoimmune) thrombocytopenic purpura (ITP) |

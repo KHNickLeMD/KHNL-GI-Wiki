@@ -3,13 +3,13 @@ title: "Fecal Microbiota Transplantation (Fecal Microbiota-Based Therapies)"
 category: med
 tags: [fmt, microbiome, cdiff, recurrent-cdi]
 created: 2026-07-26
-updated: 2026-09-05
-sources: [aga-2024-fmt, aga-2026-cdiff-adults]
+updated: 2026-10-18
+sources: [aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd]
 ---
 
 ## Overview
 
-Fecal microbiota transplantation (FMT): transfer of stool-derived microbiota to restore a disrupted gut microbiome. Delivered as **conventional FMT** (donor stool, via [[colonoscopy]], capsule, or enema) or **FDA-approved live biotherapeutic products** — fecal microbiota live-jslm (RBL, rectal) and fecal microbiota spores live-brpk (oral). Established evidence-based role: **recurrent [[clostridioides-difficile|C. difficile]] infection (CDI)** after standard-of-care antibiotics ([[aga-2024-fmt]]).
+Fecal microbiota transplantation (FMT): transfer of stool-derived microbiota to restore a disrupted gut microbiome. Delivered as **conventional FMT** (donor stool, via [[colonoscopy]], capsule, or enema) or **US Food and Drug Administration (FDA)-approved live biotherapeutic products** — fecal microbiota live-jslm (RBL, rectal) and fecal microbiota spores live-brpk (VOS, oral). Established evidence-based role: **recurrent [[clostridioides-difficile|C. difficile]] infection (CDI)** after standard-of-care antibiotics ([[aga-2024-fmt]]).
 
 ## Indications & AGA 2024 Recommendations
 
@@ -46,6 +46,11 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 - **Bridge** with suppressive anti-CDI antibiotics (e.g. vancomycin) until the therapy is given.
 - Stop CDI antibiotics **1–3 days before conventional FMT** for washout: **1 day** if a bowel purge is given, **3 days** if not. Rapid recurrence within 1–2 days of stopping antibiotics is a risk when setting the window.
 - Screened donor stool required; **no specific delivery route is recommended** (insufficient evidence to favor one).
+- **Administration schedule for the two FDA-approved products** ([[aga-2026-cdiff-ibd|AGA 2026, CDI in IBD]]) — the only schedules any ingested guideline prints:
+  - **RBL** — a broad consortium given as a **single-dose rectal enema, 1–3 days after completing antimicrobials**.
+  - **VOS** — an encapsulated selective group of *Firmicutes* spores, **4 capsules once daily for 3 consecutive days, started 2–4 days after antimicrobials and after a bowel lavage**.
+  - Both prevent recurrence rather than treat active infection, so both follow the antibiotic course and its washout.
+- **Product choice when the patient has [[inflammatory-bowel-disease|IBD]]:** RBL has IBD-specific data (phase 3 open-label study including 74 patients with IBD — **treatment success 78.9% at 8 weeks**, **sustained clinical response 91.1% at 6 months**, comparable with non-IBD participants); **there are no VOS data in CDI with IBD**, but either product is reasonable on mild-to-moderate immunocompromising medications given the similar mechanism and response. RBL and VOS are now the main routes to microbiota restoration because major United States stool banks no longer supply specimens.
 - Consider after the **second recurrence (third episode)**, or earlier in selected patients at high risk of recurrent or morbid recurrence (recovered from severe/fulminant/treatment-refractory CDI, significant comorbidities).
   - **[[aga-2026-cdiff-adults|AGA 2026]] names the high-risk criteria that license earlier use** (after an initial infection or first recurrence): **age >65 years**, **immunocompromised**, or **resident of a skilled nursing facility**. Per product labeling, both FDA-approved products are approved to prevent CDI **regardless of the number of recurrences**.
   - [[aga-2026-cdiff-adults|AGA 2026]] gives the washout as **1–4 days** off antibacterial therapy before microbiota restoration, and specifies the bridge as suppressive oral vancomycin **at least 125 mg daily** until the therapy is approved and accessible.
@@ -70,7 +75,7 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 
 - **Conventional FMT:** no dose, volume, or route is specified — the guideline states there is **insufficient evidence to recommend a specific route**.
 - **FDA-approved products:** AGA gives **no dosing at all** and directs the reader to the **manufacturer's package insert** for fecal microbiota spores live-brpk and fecal microbiota live-jslm. The only quantitative statement in the guideline is descriptive: per its package insert, each **150-mL dose of fecal microbiota live-jslm contains 1×10⁸–5×10¹⁰ CFU/mL**, a microbial content **less than that in 1 g of stool**, whereas all published conventional-FMT studies used far greater dosing.
-- Dosing for either product is not given in the guideline; take it from the package insert.
+- Product dosing is absent from the 2024 guideline; the **administration schedules above** come from [[aga-2026-cdiff-ibd|AGA 2026]], and the per-dose microbial content from the package insert.
 
 ## Place in Therapy
 
@@ -87,3 +92,4 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 
 1. [[aga-2024-fmt|AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024)]]
 2. [[aga-2026-cdiff-adults|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Adults: Expert Review (2026)]]
+3. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review (2026)]]

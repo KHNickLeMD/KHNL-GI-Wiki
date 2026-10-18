@@ -3,7 +3,7 @@ title: "Dyspepsia"
 category: diagnostic-schema
 tags: [dyspepsia, functional, stomach, foregut, dgbi, test-and-treat]
 created: 2026-05-16
-updated: 2026-09-07
+updated: 2026-10-18
 sources: [acg-cag-2017-dyspepsia, rome-v-2026-dgbi, acg-2022-gastroparesis]
 ---
 
@@ -26,23 +26,16 @@ Dyspepsia refers to one or more of: postprandial fullness, early satiation, epig
 
 **Uninvestigated dyspepsia:** Symptoms present without prior [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]]. The test-and-treat strategy for H. pylori (see [[test-and-treat]]) applies in patients **<60** without alarm features (ACG/CAG 2017 raised the age threshold from <55 to <60 in older ACG guidance).
 
-**Functional dyspepsia subtypes** — Rome V classifies FD as **B1**, with two subtypes [[rome-v-2026-dgbi]]:
+**Functional dyspepsia** is the endpoint of this schema, and has its own page: the Rome V **B1 / B1a-PDS / B1b-EPS** taxonomy, the Rome Clinical-Criteria-vs-research-criteria threshold, the diagnostic criteria and the whole treatment ladder are on [[functional-dyspepsia]]. Subtype-guided therapy is **not recommended** — no evidence that postprandial distress vs epigastric pain predicts treatment response [[acg-cag-2017-dyspepsia]].
 
-- **B1a — Postprandial Distress Syndrome (PDS):** meal-induced postprandial fullness / early satiation
-- **B1b — Epigastric Pain Syndrome (EPS):** epigastric pain or burning unrelated to meals
-
-Subtype-guided therapy is **not recommended** — no evidence that PDS vs. EPS predicts treatment response [[acg-cag-2017-dyspepsia]].
-
-**Which threshold to apply — research vs clinic.** Rome V pairs its research criteria with **Rome Clinical Criteria** for practice: the qualitative symptom features are unchanged and the symptoms must be **bothersome** (interfere with daily life or prompt care-seeking), but the frequency requirement is **lower** than the research threshold and the 6-month duration is replaced by a suggested **8-week** minimum. This is intended to capture the ~25% of the population with subdiagnostic-but-morbid GI symptoms [[rome-v-2026-dgbi]].
-
-> The Rome V overview article prints the taxonomy above and the Clinical-Criteria framework, but not the numbered B1/B1a/B1b symptom items or their frequency thresholds for functional dyspepsia; those are in the full *Rome V Criteria* volume (gastroduodenal chapter). The same applies on [[chronic-constipation]].
+> The Rome V overview article prints the taxonomy and the Clinical-Criteria framework, but not the numbered symptom items or their frequency thresholds; those are in the full *Rome V Criteria* volume. The same applies on [[chronic-constipation]].
 
 ---
 
 ## Differential Diagnosis
 
 - [[helicobacter-pylori-infection]] — most common treatable cause
-- [[gastroparesis]] — significant overlap with PDS; on repeat scintigraphic gastric emptying, **42%** of patients initially labelled gastroparesis and **37%** labelled FD were reclassified by the presence/absence of delay, despite unchanged symptoms ([[acg-2022-gastroparesis]]). Abnormal gastric accommodation is present in up to **40%** of FD ([[acg-cag-2017-dyspepsia]])
+- [[gastroparesis]] — significant overlap with postprandial-distress-type symptoms, and the two labels are unstable on repeat emptying studies; the reclassification and accommodation data are on [[functional-dyspepsia]]
 - [[peptic-ulcer-disease|Peptic ulcer disease]] — structural; detected on EGD
 - [[gastric-intestinal-metaplasia]] / [[gastric-premalignant-conditions]] — upper endoscopy if alarm features
 - [[gerd|gastroesophageal reflux disease (GERD)]] — heartburn/regurgitation predominant
@@ -67,19 +60,9 @@ Subtype-guided therapy is **not recommended** — no evidence that PDS vs. EPS p
 
 ### Functional Dyspepsia (post-EGD with no structural lesion)
 
-![[dyspepsia-2017-functional-algorithm-09.png|700x394]]
-*Figure 2 — Algorithm for the treatment of functional dyspepsia. ([[acg-cag-2017-dyspepsia]])*
+A normal EGD closes this schema and opens the FD page. **ACG/CAG 2017 Statements 7–14 — the eradication → PPI → TCA → prokinetic → psychological-therapy ladder, its grades, effect sizes and stopping rules, the treatment algorithm figure, and the motility-testing rules — are on [[functional-dyspepsia]].**
 
-- **Statement 7 (Strong/High):** FD + HP+ → eradication therapy
-- **Statement 8 (Strong/Moderate):** FD + HP− → PPI
-- **Statement 9 (Cond/Moderate):** Failure → TCA (NOT selective serotonin reuptake inhibitor [SSRI])
-- **Statement 10 (Cond/Very Low):** Failure → prokinetic
-- **Statement 11 (Cond/Very Low):** Failure → psychological therapy
-- **Statement 12:** Do not routinely recommend complementary/alternative medicine (CAM)
-- **Statement 13:** Against routine motility studies
-- **Statement 14:** Motility studies in selected FD where [[gastroparesis]] strongly suspected
-
-*FD subtypes (PDS / EPS) and why they do not steer therapy: see [[#Definition / Scope]].*
+- One ordering point worth carrying across: **in FD the guideline puts TCA before prokinetic**, whereas Statements 5–6 above state no preference between them in uninvestigated dyspepsia.
 
 ---
 
@@ -87,7 +70,7 @@ Subtype-guided therapy is **not recommended** — no evidence that PDS vs. EPS p
 
 - **H. pylori noninvasive testing:** urea breath test or stool antigen — hold [[proton-pump-inhibitors|PPIs]] ≥2 weeks and antibiotics ≥4 weeks before testing. Test operating characteristics live on [[helicobacter-pylori-infection]]
 - **Upper endoscopy:** Age ≥60, high-risk demographics, prominent/multiple alarm features, or empiric-therapy failure
-- **Gastric emptying scintigraphy:** Only for selected FD with predominant severe/refractory nausea-vomiting (Statement 14) — routine motility testing not recommended (Statement 13)
+- **Gastric emptying scintigraphy:** not part of this workup — it is reserved for selected post-EGD patients, per the rules on [[functional-dyspepsia]]
 - **Pancreatic imaging:** Not routinely indicated <60 ([[pancreatic-cancer|pancreatic cancer]] prevalence <0.01% in this group), but consider if pain radiates to back
 
 ---
@@ -115,7 +98,7 @@ ACG/CAG 2017 reviewed associations between long-term PPI and hip fracture, commu
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[test-and-treat]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[gastroparesis]], [[gastric-intestinal-metaplasia]], [[gastric-premalignant-conditions]], [[gerd]], [[celiac-disease]], [[upper-endoscopy]], [[proton-pump-inhibitors]], [[nausea-and-vomiting]], [[dysphagia]], [[jaundice]], [[iron-deficiency-anemia]], [[pancreatic-cancer]], [[clostridioides-difficile]], [[chronic-constipation]]
+[[functional-dyspepsia]], [[disorders-of-gut-brain-interaction]], [[test-and-treat]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[gastroparesis]], [[gastric-intestinal-metaplasia]], [[gastric-premalignant-conditions]], [[gerd]], [[celiac-disease]], [[upper-endoscopy]], [[proton-pump-inhibitors]], [[nausea-and-vomiting]], [[dysphagia]], [[jaundice]], [[iron-deficiency-anemia]], [[pancreatic-cancer]], [[clostridioides-difficile]], [[chronic-constipation]]
 
 ---
 

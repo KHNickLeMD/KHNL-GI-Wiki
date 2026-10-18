@@ -37,7 +37,7 @@ sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab, acg-2024-hp-treatment]
 
 *Workup: see [[dyspepsia]].*
 
-- [[gastric-adenocarcinoma|Gastric adenocarcinoma]] (esp non-healing GU), [[gastric-malt-lymphoma|gastric lymphoma (mucosa-associated lymphoid tissue [MALT]/diffuse large B-cell lymphoma [DLBCL])]], erosive gastritis, functional dyspepsia, [[gastroparesis]], biliary pain, [[atrophic-gastritis|atrophic gastritis]] / [[helicobacter-pylori-infection|H. pylori]] gastritis without ulcer
+- [[gastric-adenocarcinoma|Gastric adenocarcinoma]] (esp non-healing GU), [[gastric-malt-lymphoma|gastric lymphoma (mucosa-associated lymphoid tissue [MALT]/diffuse large B-cell lymphoma [DLBCL])]], erosive gastritis, [[functional-dyspepsia|functional dyspepsia]], [[gastroparesis]], biliary pain, [[atrophic-gastritis|atrophic gastritis]] / [[helicobacter-pylori-infection|H. pylori]] gastritis without ulcer
 
 ## Diagnostics
 

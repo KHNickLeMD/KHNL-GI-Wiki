@@ -111,7 +111,7 @@ Symptoms of SIBO are non-specific. The differential includes:
 - [[celiac-disease]] — malabsorptive symptoms, diarrhea, bloating; SIBO prevalence in [[celiac-disease|celiac disease]] similar to healthy subjects (lower than IBS)
 - [[chronic-pancreatitis]] / [[exocrine-pancreatic-insufficiency|exocrine pancreatic insufficiency]] — steatorrhea, malabsorption; pancreatic insufficiency is also a SIBO risk factor
 - [[inflammatory-bowel-disease|IBD]] — [[crohns-disease]]: 16.8% in endoscopic remission have SIBO; postsurgical anatomy (ileocolonic anastomosis, ileocecal valve resection) increases risk. Reported prevalence in CD overall reaches **up to 30%**, highest in the **stricturing or fistulizing phenotype** and where there is **hypomotility or loss of the ileocecal valve** ([[aga-2018-functional-gi-symptoms-ibd]]). In [[ulcerative-colitis]] prevalence is lower and the symptom contribution less clear. Consider SIBO whenever IBD symptoms persist despite controlled inflammation
-- Functional dyspepsia — bloating, nausea; part of [[disorders-of-gut-brain-interaction]] spectrum
+- [[functional-dyspepsia|Functional dyspepsia]] — bloating, nausea; part of [[disorders-of-gut-brain-interaction]] spectrum
 - [[microscopic-colitis|Microscopic colitis]] — chronic watery diarrhea
 - Lactose/fructose intolerance — symptoms triggered by specific carbohydrates; breath testing can be confounded
 - [[gastroparesis|Gastroparesis]] — delayed gastric emptying → altered small bowel motility

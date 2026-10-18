@@ -83,7 +83,7 @@ Other conditions that produce PPI-refractory retrosternal burning and are exclud
 | Erosive esophagitis | Prevalence **<10%** in PPI-refractory patients; when found it indicates poorly controlled acid reflux or true refractory GERD |
 | [[achalasia\|Achalasia]] | Heartburn reported in **up to 35%**; may be suspected at endoscopy but requires HRM — the reason manometry is mandatory rather than optional |
 | Stricture, web, pill esophagitis, neoplasia | Structural findings on endoscopy |
-| [[irritable-bowel-syndrome\|Irritable bowel syndrome (IBS)]] and functional dyspepsia | Frequently coexist and **negatively impact symptom response to therapy**; concurrent functional gastrointestinal (GI) disorders and somatization should be considered |
+| [[irritable-bowel-syndrome\|Irritable bowel syndrome (IBS)]] and [[functional-dyspepsia\|functional dyspepsia]] | Frequently coexist and **negatively impact symptom response to therapy**; concurrent functional gastrointestinal (GI) disorders and somatization should be considered |
 
 ---
 

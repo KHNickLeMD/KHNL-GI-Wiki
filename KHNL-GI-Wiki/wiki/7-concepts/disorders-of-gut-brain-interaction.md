@@ -176,7 +176,7 @@ Severity-guided biopsychosocial approach ([[rome-v-2026-dgbi]]; written for IBS,
 
 ## Managing Persistent Pain
 
-Applies to pain that **persists after first-line therapy directed at visceral stimuli** (food, bowel movements; [[proton-pump-inhibitors|proton pump inhibitors (PPIs)]] for esophageal/gastroduodenal DGBI such as [[functional-heartburn]] or functional dyspepsia (FD)). Dietary treatment, antidiarrheals, and laxatives are used frequently in IBS but have **limited evidence for abdominal pain**. Four components run in parallel: the patient–provider relationship, explaining pain, nonpharmacologic therapy, and pharmacologic therapy — with opioids avoided throughout. Not addressed: complementary/alternative therapies including marijuana, and abdominal wall or pelvic pain syndromes. [[aga-2021-chronic-gi-pain-dgbi]]
+Applies to pain that **persists after first-line therapy directed at visceral stimuli** (food, bowel movements; [[proton-pump-inhibitors|proton pump inhibitors (PPIs)]] for esophageal/gastroduodenal DGBI such as [[functional-heartburn]] or [[functional-dyspepsia|functional dyspepsia]] (FD)). Dietary treatment, antidiarrheals, and laxatives are used frequently in IBS but have **limited evidence for abdominal pain**. Four components run in parallel: the patient–provider relationship, explaining pain, nonpharmacologic therapy, and pharmacologic therapy — with opioids avoided throughout. Not addressed: complementary/alternative therapies including marijuana, and abdominal wall or pelvic pain syndromes. [[aga-2021-chronic-gi-pain-dgbi]]
 
 **The relationship is the platform** — collaborative, empathic, culturally sensitive:
 
