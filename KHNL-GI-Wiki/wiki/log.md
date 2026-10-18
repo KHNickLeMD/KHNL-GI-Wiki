@@ -6,6 +6,35 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-18] update | Download list vetted against Nick's selection rules; 11 sources added to raw/; daily source fetch set up
+
+**Rules (Nick, 2026-10-17):** new `CLAUDE.md` → LINT → *What belongs on the download list*, *Daily source fetch* (06:00 server pass, 0–2 items, `website_files/scripts/fetch-paper.py`: PMC open-access bucket + DailyMed only) and Operations → *Quality over quota*. Stale-page reviews now add missing qualifying sources to [[needed-sources]].
+
+**Added to `raw/` (await ingest):**
+- `GI Guidelines/Other/`: Tokyo Guidelines 2018 — Kiriyama (cholangitis criteria/severity), Yokoe (cholecystitis criteria/severity), Mori (gallbladder drainage), Gomi (antimicrobials); I-SEE 2022 (Dellon); London Classification 2020 (Carrington); HHT 2020 Second International Guidelines (Faughnan).
+- `GI Other Studies/`: Stapfer 2000 (ERCP perforation types); Darwish Murad 2004 (Rotterdam BCS score); De Martin 2021 (SURFASA); Mehta 2017 (RETREAT).
+
+**[[needed-sources]] rebuilt:**
+- Every row now links the article; 🔒 = paywalled, 🌐 = free but bot-blocked (kept for a Chrome session with Nick).
+- Removed — not cited by any guideline in `raw/`: Rockall 1996, Marshall 1995, DeMeester, Wexner, FISI, CHADS₂/CHA₂DS₂-VASc, Joensuu 2008, Runyon secondary peritonitis, Jalan, Curaçao, SGA, Sandborn PDAI, Roenigk, APACHE II, SOFA, Clinical Frailty Scale.
+- Removed — wrong type (review / cohort): Rowe & Schiller 2020, Bollen 2011, Fetzer 2022, Rodgers 2019, Tandon 2016, Barr Fritcher 2011, Eaton 2015, Jaeger 2012, Thwaites 2017.
+- Removed — guideline already prints what the clinician acts on, or calculator-based: FBDSI, IBS-SSS, AIMS65, Forrest, CTSI, MELD, MELD-Na, Lille, UK-PBC, ANTICIPATE, ANTICIPATE-NASH, NICER, Garcia-Tsao 1985, Kleiner NAS, GCSI-DD, PREMM.
+- Removed — non-GI score / other specialty, pediatric, superseded or low-yield: ECOG, RECIST/mRECIST, Banff, Ishak/METAVIR, Yerdel, Vp, GLIM, ASPEN/AND, NUTRIC, Padua, IMPROVE, SCOPE, Mayo PBC, ABIC, GAHS, CDAI, SCCAI, Rao, Blumgart, DILIN, ESPGHAN polyposis, ACIP rotavirus, CDC perinatal HCV, ESC/ERS PAH, AHA HF, ENT hoarseness, ESMO MZL, PTLD, CTCAE, ESVS AMI, OPTN Policy 9, HRS/ASA devices, EASL VLD (AASLD 2021 covers), ACG 2017 *H. pylori* (ACG 2024 supersedes), JSGE PUD, USPSTF aspirin, Endocrine Society vitamin D, the PPI-gastroprotection set (AGA 2022 Table 2 suffices), ASCRS ostomy, EHS parastomal, albendazole label.
+- Removed — does not exist as listed: ASGE EUS-guided liver biopsy technology review; NEJM 2023 *Fever in the Returning Traveler* (the real article is Thwaites & Day NEJM 2017, a review); joint ACG/AGA dysphagia, ACG/AGA chronic diarrhea, ESGE malignant GOO, ASGE/ACG credentialing documents; DES/IEM pharmacotherapy guideline; longer-term MAESTRO-NASH data; a numeric OCA thrombocytopenia threshold.
+- Removed — already answered by files in `raw/`: IBD dysplasia interval (AGA 2021 CPU), SF >1,000 triad cut-offs (AASLD 2011 HH), EUS sensitivity in CP (ACG 2020 CP), SNS responder threshold (AGA 2017 FI CPU), IUS wall-thickness cut-offs (ACG 2025 UC), FDA IBS-C responder (AGA 2022 IBS-C), DPDS stenting (USPG 2025), AP fluid rates, restrictive transfusion (AASLD 2023), methotrexate monitoring interval (AASLD 2022 DILI).
+- Vague rows replaced with named documents (BSG 2017 CBD stones, BSG 2018 chronic diarrhoea, UEG 2021 microscopic colitis, ESGE 2021 ampullary, ESGE 2016 foreign body, IDSA 2016 candidiasis, ASPEN/SCCM 2016, SIS 2024, ASCO 2021 irAE, Halland 2018 AGA CPU); citations corrected (Banks = *Gut* 2013; Preidis pages 708–738; "ACP 2010/2019" = Barkun consensus).
+
+**Leads for later lint passes (found while vetting):**
+- ⚠ Obeticholic acid (Ocaliva) was reported withdrawn from the US market on 2025-09-11 at FDA request — verify, then update [[primary-biliary-cholangitis]], [[aasld-2021-pbc]] and any OCA drug page.
+- AGA 2020 NVUGIB prints the AIMS65 albumin cut-off as "<3 mg/dL" (should be g/dL) — check [[upper-gi-bleeding]] did not copy it.
+- Statins in chronic liver disease are covered by AASLD 2023 NAFLD and AASLD 2023 portal hypertension (in `raw/`) — fill [[nafld-masld]] / [[cirrhosis]] from them.
+- Methotrexate monitoring interval is quoted in AASLD 2022 DILI — fill [[methotrexate]] from it.
+- Microscopic-colitis histology thresholds are in the CGH 2025 review already in `raw/GI Other Studies/`.
+- `raw/GI Guidelines/Other/Tokyo Guidelines 2018 Acute Cholangitis.pdf` is Miura's flowchart paper (TG18 initial management), not the criteria paper — source page title should say so.
+- [[nejm-2023-fever-returning-traveler]] mis-dates and mis-cites the article (Thwaites & Day, *N Engl J Med* 2017;376:548–60).
+
+---
+
 ## [2026-10-18] lint | Three 2026-06-27 AGA 2026 CPU source pages validated; C. difficile propagation debt closed
 
 **Ingest check — no new arrivals.** `rawcount.py`: all 14 `raw/` subfolder counts equal the audited baseline, **total 451**, no loose files directly in `raw/`. `git status --porcelain -uall` is empty — **nothing untracked anywhere, including under `raw/`** (structural: `raw/`'s content subfolders are gitignored, so count-vs-baseline is the only arrival detector). 0 uningested tier-1/tier-2 files remain; what is left is the **60 gated lecture/chalk-talk transcripts** (never auto-ingested) and the unreadable `Other/IANS 2024 Anal Cancer Screening Consensus.pdf`. Both ingest slots therefore went to carry-over debt, as on the two 2026-10-17 passes.
