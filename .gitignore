@@ -12,3 +12,5 @@ KHNL-GI-Wiki/cards/
 
 # daily source fetch: paywalled picks, emailed to Nick then deleted by lint-cron.sh
 .fetch-manual.md
+# daily source fetch: every file fetch-paper.py saved; anything else uningested in raw/ is Nick's
+.fetched-files

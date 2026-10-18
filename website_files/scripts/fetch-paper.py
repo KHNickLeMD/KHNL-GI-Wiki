@@ -30,6 +30,9 @@ EPMC = 'https://www.ebi.ac.uk/europepmc/webservices/rest/search'
 BUCKET = 'https://pmc-oa-opendata.s3.amazonaws.com'
 DAILYMED = 'https://dailymed.nlm.nih.gov/dailymed'
 UA = 'digestpedia-fetch-paper/1.0 (GI wiki source fetch; one request per paper)'
+# Every file this script saves is listed here (repo root, gitignored). Uningested raw/ files NOT
+# listed are Nick's own drops, which the lint pass ingests first (CLAUDE.md, Nick 2026-10-18).
+MANIFEST = Path(__file__).resolve().parents[2] / '.fetched-files'
 MIN_BYTES = 60_000   # a saved challenge page or abstract stub is ~5-30 KB (IANS 2024 was 6 KB)
 
 
@@ -37,6 +40,14 @@ def get(url):
     req = urllib.request.Request(url, headers={'User-Agent': UA})
     with urllib.request.urlopen(req, timeout=60) as r:
         return r.read()
+
+
+def record_fetch(dest):
+    """Append the saved file's path relative to raw/ (falls back to the full path) to the manifest."""
+    parts = dest.resolve().parts
+    rel = '/'.join(parts[parts.index('raw') + 1:]) if 'raw' in parts else str(dest)
+    with open(MANIFEST, 'a') as f:
+        f.write(rel + '\n')
 
 
 def query_for(ident):
@@ -113,6 +124,7 @@ def fetch(ident, out, name):
         tmp.unlink()
         return {'status': 'error', 'error': 'downloaded PDF does not match the title', **meta}, 1
     tmp.rename(dest)
+    record_fetch(dest)
     return {'status': 'downloaded', 'file': str(dest), 'bytes': len(data), **meta}, 0
 
 
@@ -133,6 +145,7 @@ def label(drug, out, name):
         return {'status': 'error', 'error': f'not a full PDF ({len(data)} bytes)', **meta}, 1
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_bytes(data)
+    record_fetch(dest)
     return {'status': 'downloaded', 'file': str(dest), 'bytes': len(data), **meta}, 0
 
 
