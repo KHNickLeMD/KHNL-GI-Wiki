@@ -9,3 +9,6 @@ KHNL-GI-Wiki/raw/*
 
 # Anki cards live in the Nextcloud folder beside raw/, not in git
 KHNL-GI-Wiki/cards/
+
+# daily source fetch: paywalled picks, emailed to Nick then deleted by lint-cron.sh
+.fetch-manual.md
