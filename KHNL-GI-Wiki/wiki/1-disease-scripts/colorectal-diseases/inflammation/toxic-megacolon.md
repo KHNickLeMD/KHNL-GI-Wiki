@@ -3,8 +3,8 @@ title: "Toxic Megacolon"
 category: disease-script
 tags: [toxic-megacolon, colitis, cdiff, ibd, ulcerative-colitis, asuc, surgical-emergency]
 created: 2026-07-26
-updated: 2026-09-08
-sources: [acg-2025-uc, acg-2021-cdiff]
+updated: 2026-10-18
+sources: [acg-2025-uc, acg-2021-cdiff, aga-2026-inpatient-ibd]
 ---
 
 Life-threatening total or segmental **colonic dilation with systemic toxicity**, complicating severe colitis — most often fulminant [[clostridioides-difficile|C. difficile]] infection or acute severe [[ulcerative-colitis]] (ASUC) (also [[crohns-disease|Crohn's]] colitis, [[colon-ischemia|ischemic]], and other infectious colitis). A **surgical emergency**: toxic megacolon, colonic perforation, severe refractory hemorrhage, or failure of maximal medical therapy are indications for [[ulcerative-colitis|colectomy]]. Occurs in <5% of ASUC.
@@ -26,12 +26,19 @@ Life-threatening total or segmental **colonic dilation with systemic toxicity**,
 Toxic megacolon = **colonic dilation + systemic toxicity** in a patient with severe colitis. Diagnosis is clinical + radiographic; assess the underlying colitis in parallel.
 
 - **Assess actively.** All ASUC patients should be assessed for the presence of toxic megacolon during admission (American College of Gastroenterology [ACG] ulcerative colitis [UC] key concept). In fulminant [[clostridioides-difficile|Clostridioides difficile infection (CDI)]], maintain a **low threshold for cross-sectional imaging** to assess colitis severity and **rule out megacolon or perforation**.
-- **Radiographic dilation (decision-critical):** on plain abdominal film, colonic dilation defined as **transverse colon diameter > 5.5 cm** predicts a worse outcome (ACG UC).
+- **Radiographic dilation — the diagnostic criterion:** acute colonic dilation, i.e. **transverse colon dilation >6 cm with loss of the haustral pattern**, suspected in the setting of **systemic toxicity without intestinal obstruction**. ([[aga-2026-inpatient-ibd]])
   - Other severe-colitis film features: thickened colonic wall, loss of haustration, mucosal islands (edematous mucosa surrounded by ulceration), and **≥3 dilated gas-filled small-bowel loops** (high likelihood of medical-therapy nonresponse and colectomy).
 - **Systemic toxicity** — the same signs that define severe/fulminant colitis (see Severity Assessment): tachycardia, fever, anemia, elevated inflammatory markers; in fulminant CDI, hypotension/shock or ileus.
 - **Physical exam:** abdominal distension, tenderness, rebound, guarding, tympany, ileus.
 
-> Neither guideline (ACG 2025 UC, ACG 2021 C. difficile) states a formal consensus/Jalan diagnostic criteria set for toxic megacolon (e.g. colonic dilation ≥6 cm *plus* a defined number of systemic toxicity criteria). The **> 5.5 cm transverse-colon** figure above is presented by ACG UC as a poor-outcome predictor in severe colitis, not as an explicit toxic-megacolon cut-point; the classic ≥6 cm threshold comes from the Jalan criteria, not from either guideline.
+**Two transverse-colon numbers are in circulation and they answer different questions — do not substitute one for the other:**
+
+| Cut-point | What it is | Source |
+|---|---|---|
+| **>6 cm** + loss of haustral pattern | **diagnostic** definition of acute colonic dilation, in systemic toxicity without obstruction | [[aga-2026-inpatient-ibd]] |
+| **>5.5 cm** diameter | **poor-outcome predictor** in severe colitis — not a diagnostic cut-point | [[acg-2025-uc]] |
+
+- Neither document attaches a required *number* of systemic-toxicity criteria to the dilation measurement, so the toxicity half of the diagnosis is a clinical judgement rather than a scored threshold.
 
 ### Severity Assessment
 
@@ -77,8 +84,9 @@ Underlying etiologies of toxic megacolon named in the guidelines:
 
 ## Diagnostics
 
-- **Plain abdominal radiograph** — first-line for dilation: transverse colon >5.5 cm, thickened wall, loss of haustration, mucosal islands, ≥3 dilated gas-filled small-bowel loops.
+- **Plain abdominal radiograph** — first-line for dilation: transverse colon >6 cm with loss of the haustral pattern (diagnostic), >5.5 cm (poor-outcome predictor), thickened wall, mucosal islands, ≥3 dilated gas-filled small-bowel loops.
 - **Cross-sectional computed tomography (CT)** — restrict to suspected extraluminal complication or perforation, and newly diagnosed patients where Crohn's disease (CD) vs UC is unclear; low threshold in fulminant CDI to rule out megacolon/perforation.
+  - **UC with concern for toxic dilation:** timely abdominal film **and/or CT abdomen and pelvis with intravenous contrast**, plus **discussion with colorectal surgery** — the morbidity risk is high enough that the surgical conversation happens alongside the imaging, not after it. ([[aga-2026-inpatient-ibd]])
 - **Endoscopy** — **flexible sigmoidoscopy within 72 h (preferably 24 h)** of admission, minimal insufflation by an experienced operator, to grade inflammation and biopsy for CMV. **Avoid full [[colonoscopy]]** in severe inflammation — associated with higher rates of colonic dilation and perforation.
 - **Labs:** complete blood count (CBC; WBC ≥15,000 = severe CDI; anemia hemoglobin [Hgb] <10.5), serum creatinine (>1.5 = severe CDI), **albumin** (hypoalbuminemia predicts steroid failure; <2.5 g/dL → intensify [[anti-tnf-agents|infliximab]]), C-reactive protein (CRP) and ESR.
 - **C. difficile testing** in all ASUC — two-step algorithm (nucleic acid amplification test (NAAT)/glutamate dehydrogenase (GDH) → toxin enzyme immunoassay (EIA)); UC + CDI carries 4-fold higher mortality and higher colectomy rates.
@@ -140,3 +148,4 @@ flowchart TD
 
 1. [[acg-2025-uc|ACG 2025: Ulcerative Colitis in Adults (Guideline Update)]]
 2. [[acg-2021-cdiff|ACG Clinical Guideline: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections (2021)]]
+3. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review]]

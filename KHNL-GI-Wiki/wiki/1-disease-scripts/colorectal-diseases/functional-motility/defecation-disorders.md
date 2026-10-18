@@ -3,8 +3,8 @@ title: "Defecation Disorders (Dyssynergic Defecation)"
 category: disease-script
 tags: [defecation-disorder, dyssynergia, outlet-obstruction, biofeedback, anorectal-manometry, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-09-30
-sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-dgbi, aga-2017-surgical-device-fecal-incontinence]
+updated: 2026-10-18
+sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-dgbi, aga-2017-surgical-device-fecal-incontinence, aga-2026-refractory-constipation]
 ---
 
 ## Contents
@@ -32,12 +32,14 @@ sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-d
 
 **How many abnormal tests? — the rule changed:**
 
-| Source | Test requirement |
-|---|---|
-| [[rome-v-2026-dgbi\|Rome V]] (2026, current) | **1 of 3** abnormal tests — balloon expulsion, anorectal manometry, **or** imaging (defecography). **electromyography (EMG) dropped** as a criterion |
-| [[acg-2021-anorectal-disorders\|American College of Gastroenterology (ACG) 2021]] | **≥2** abnormal tests (anorectal manometry (ARM) **and** balloon expulsion test (BET) both required; a single test held insufficient) |
+| Source | Test requirement | Question it answers |
+|---|---|---|
+| [[rome-v-2026-dgbi\|Rome V]] (2026, current) | **1 of 3** abnormal tests — balloon expulsion, anorectal manometry, **or** imaging (defecography). **electromyography (EMG) dropped** as a criterion | Does this patient **have** a DD (diagnostic criteria) |
+| [[acg-2021-anorectal-disorders\|American College of Gastroenterology (ACG) 2021]] | **≥2** abnormal tests (anorectal manometry (ARM) **and** balloon expulsion test (BET) both required; a single test held insufficient) | Diagnosing DD in the anorectal physiology lab |
+| [[aga-2026-refractory-constipation\|American Gastroenterological Association (AGA) 2026]] | **2 of 3** abnormal tests typically required — **reduced rectoanal gradient** on ARM (supportive: elevated anal resting pressure, reduced anal relaxation), **prolonged BET ≥1 minute**, **inadequate rectal evacuation** on defecography | May this patient be called **refractory** and move toward **surgery** — the stricter bar guarding colectomy |
 
-- ⚠ **The two criteria sets differ.** Rome V is the newer consensus, so **use the 1-of-3 rule**. ACG 2021's two-test requirement is kept in view because the test descriptions under [[#Required Tests for Diagnosis]] are written against it and many labs still apply it. [[rome-v-2026-dgbi]]
+- ⚠ **These are not three answers to one question — read the right-hand column.** Rome V is the newest consensus, so **the diagnosis follows the 1-of-3 rule**. ACG 2021's two-test requirement is kept in view because the test descriptions under [[#Required Tests for Diagnosis]] are written against it and many labs still apply it; AGA 2026's 2-of-3 is the operating standard before labelling constipation refractory or offering an operation. [[rome-v-2026-dgbi]]
+- **ARM with BET alone is generally sufficient** to diagnose a DD and also predicts who benefits from biofeedback ([[aga-2026-refractory-constipation]]); defecography is added when the two are inconclusive.
 - **Symptoms are now a required limb, not just the tests:** Rome V requires **difficult-evacuation symptoms** (e.g. straining, digital maneuvers) **plus** the 1 abnormal test — an abnormal test alone does not make the diagnosis. [[rome-v-2026-dgbi]]
 - **What was dropped and what replaced it:** **EMG** is no longer a criterion (infrequently used); the diagnosis now leans on **specific manometric patterns of abnormal evacuation, including the rectoanal gradient**. [[rome-v-2026-dgbi]]
 - **Nomenclature:** Rome V **removed the umbrella category "functional defecation disorders"** (too broad — it swept in structural conditions such as [[rectal-prolapse|rectal prolapse]] and perineal descent); the retained [[disorders-of-gut-brain-interaction|disorder of gut-brain interaction (DGBI)]] entity is **F3 dyssynergic defecation**, now listed separately. [[rome-v-2026-dgbi]]
@@ -53,7 +55,7 @@ sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-d
 1. **Dyssynergic defecation:** paradoxical contraction (or failure to relax) of the external anal sphincter and/or puborectalis muscle during straining/defecation — the most common mechanism
 2. **Inadequate rectal propulsive force:** reduced rectal pressure generation on push effort; normal sphincter relaxation but insufficient propulsion
 
-**Epidemiology:** 3× more common in women; greatest incidence in women ages 20–29 and 80–89; incidence of diagnosis increasing with greater availability of anorectal physiology testing.
+**Epidemiology:** **~37% of chronic-constipation patients who undergo pelvic floor testing have dyssynergic defecation** ([[aga-2026-refractory-constipation]]); 3× more common in women; greatest incidence in women ages 20–29 and 80–89; incidence of diagnosis increasing with greater availability of anorectal physiology testing.
 
 **Associated conditions:** [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]], anxiety, depression; prior pelvic surgery, trauma, sexual/physical abuse; eating disorders.
 
@@ -117,16 +119,24 @@ Severity based on symptom burden, laxative dependence, impact on quality of life
 
 **Defecography (barium or magnetic resonance imaging (MRI)) — for structural evaluation:**
 
-- Indicated when: ARM + BET discordant, biofeedback fails, structural abnormality suspected (rectocele, prolapse, enterocele), or [[rectal-prolapse|rectal prolapse]] not seen on physical exam
-- MRI defecography: no radiation; superior for pelvic organ prolapse and levator assessment; more expensive, less available
-- Barium defecography: detects internal intussusception, [[rectal-prolapse#Solitary Rectal Ulcer Syndrome|solitary rectal ulcer]], rectocele, anorectal angle
+- Indicated when: ARM + BET discordant or inconclusive, biofeedback fails, structural abnormality suspected (rectocele, prolapse, enterocele), or [[rectal-prolapse|rectal prolapse]] not seen on physical exam. **Most helpful when the ARM rectoanal gradient is abnormal but the BET is normal** ([[aga-2026-refractory-constipation]])
+- Findings: inadequate or excessive widening of the **anorectal angle** and/or **perineal descent** during defecation; internal intussusception; [[rectal-prolapse#Solitary Rectal Ulcer Syndrome|solitary rectal ulcer]]; rectocele; enterocele; bladder and uterovaginal prolapse
+- **Barium vs MRI modality choice** (seated vs supine, radiation, prolapse detail, availability): [[anorectal-manometry]]
+- **Two rectocele size numbers — different questions:**
+
+| Threshold | Question it answers |
+|---|---|
+| **>4 cm** ([[aga-2026-refractory-constipation]]) | Is this **imaging finding likely clinically relevant**? (as is normal ARM with impaired contrast evacuation) |
+| **>5 cm** plus trapping/non-emptying on dynamic assessment ([[acg-2021-anorectal-disorders]]) | Is this patient a **surgical candidate** after biofeedback failure? See [[#Step 3: Surgery (After Biofeedback Failure with Structural Abnormality)]] |
+
+- Not a conflict: one grades the relevance of a finding, the other selects for an operation — do not read the smaller number as an operative indication.
 
 **Colon transit study:**
 
 - Ordered only if ARM + BET are normal (to rule out slow-transit constipation) OR if patient fails biofeedback despite confirmed dyssynergia
 - Radiopaque marker study (Sitz-Mark capsules) at day 5; wireless motility capsule for simultaneous upper gastrointestinal (GI) transit
 - Up to 50% of DD patients have delayed colonic transit — usually secondary to outlet dysfunction, normalizes with successful biofeedback
-
+- **Slow-transit constipation and DD overlap in as many as 40%** — stool held in the rectosigmoid colon activates rectocolonic inhibitory reflexes that delay colon transit, so a slow transit study does not exclude an outlet problem ([[aga-2026-refractory-constipation]])
 ---
 
 ## Therapeutics
@@ -157,6 +167,8 @@ Severity based on symptom burden, laxative dependence, impact on quality of life
 **Contraindications/poor candidates:** short-term memory impairment, dementia, severe psychiatric illness, complete spinal cord injury above sacral level.
 
 ### Step 3: Surgery (After Biofeedback Failure with Structural Abnormality)
+
+**Sequence rule — treat the DD first** ([[aga-2026-refractory-constipation]]): diagnose and treat the DD **before** labelling constipation refractory and **before any colectomy**. ARM + BET plus a completed biofeedback course gate the refractory label, and **only patients with no evidence of an ongoing DD should be offered colectomy with ileorectal anastomosis** — slow-transit/DD overlap reaches 40%, and colectomy outcomes are better without a DD. Why biofeedback comes first: [[biofeedback-therapy]].
 
 **Principle: structural correction alone does not restore function.** Surgical intervention is considered only when:
 
@@ -211,3 +223,4 @@ Severity based on symptom burden, laxative dependence, impact on quality of life
 2. [[aga-acg-2023-constipation|AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation]]
 3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
 4. [[aga-2017-surgical-device-fecal-incontinence|Surgical Interventions and the Use of Device-Aided Therapy for the Treatment of Fecal Incontinence and Defecatory Disorders]]
+5. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review]]

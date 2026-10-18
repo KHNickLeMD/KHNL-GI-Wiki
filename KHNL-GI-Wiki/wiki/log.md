@@ -6,6 +6,18 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-18] lint | Tokyo Guidelines 2018 criteria papers ingested — the cholangitis and cholecystitis grading gaps close
+
+**IN PROGRESS — entry opened before the first edit per the record-as-you-go rule.**
+
+**Ingest check — 11 uningested files, and for the first time since 2026-10-02 they are tier-1/tier-2, not lectures.** `rawcount.py`: `GI Guidelines/Other` **have=28 baseline=21 (+7)** and `GI Other Studies` **have=10 baseline=6 (+4)** — the 11 files the 2026-10-18 `update` pass downloaded and left for ingest. `git status --porcelain -uall` empty, no loose files directly in `raw/`; nothing to commit as a new arrival. None of the 11 has a `wiki/sources/` page.
+
+**Daily source fetch (06:00) — 0 downloaded, by design.** The ingest budget is **≤2 raw files per pass** and there are already **11 qualifying downloaded files waiting**, so a new download could only be ingested by displacing a higher-priority backlog file. Per *Quality over quota*, nothing was fetched and no `needed-sources.md` row was tried. **Verdict: dropped — no free ingest slot; backlog takes precedence.** No row marked 🔒, nothing added to `/repo/.fetch-manual.md`. The daily fetch should resume once the 11-file backlog is drained.
+
+**Both ingest slots went to the two Tokyo Guidelines 2018 criteria papers**, chosen because they are the only files in the backlog that close decision gaps *the clinical pages themselves declare open in prose*.
+
+---
+
 ## [2026-10-18] update | Download list vetted against Nick's selection rules; 11 sources added to raw/; daily source fetch set up
 
 **Rules (Nick, 2026-10-17):** new `CLAUDE.md` → LINT → *What belongs on the download list*, *Daily source fetch* (06:00 server pass, 0–2 items, `website_files/scripts/fetch-paper.py`: PMC open-access bucket + DailyMed only) and Operations → *Quality over quota*. Stale-page reviews now add missing qualifying sources to [[needed-sources]].

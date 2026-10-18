@@ -3,7 +3,7 @@ title: "Anorectal Manometry (ARM)"
 category: advanced-procedure
 tags: [arm, anorectal-manometry, defecation, biofeedback, dyssynergia, fecal-incontinence, balloon-expulsion-test]
 created: 2026-05-19
-updated: 2026-10-04
+updated: 2026-10-18
 sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi]
 ---
 
@@ -15,6 +15,7 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
   - [[#Patient Position]]
 - [[#Interpretation — Reference Values and Pitfalls]]
 - [[#Balloon Expulsion Test (BET)]]
+- [[#Defecography — Barium vs Magnetic Resonance (MR)]]
 - [[#Adjunct — Anal EMG]]
 - [[#Parameters That Matter, by Indication]]
 - [[#Limitations]]
@@ -25,6 +26,7 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
 
 - Measures **rectal sensation** and **anorectal pressures** at rest, during anal/pelvic-floor contraction (squeeze), during evacuation, and on cough or Valsalva. ([[acg-2021-anorectal-disorders]])
 - Anorectal manometry (ARM) **plus** a [[#Balloon Expulsion Test (BET)|balloon expulsion test (BET)]] is the standard functional workup for [[defecation-disorders|defecation disorders (DD)]] — American College of Gastroenterology (ACG) key concept: *"ARM and balloon expulsion are required to diagnose DD."*
+- **ARM with BET is generally sufficient to diagnose a DD**, and also **predicts who will benefit from [[biofeedback-therapy|biofeedback]]** — American Gastroenterological Association (AGA) 2026. The same document applies a stricter bar where the decision is to call constipation *refractory* and move toward surgery: **2 of 3 abnormal tests (ARM, BET, defecography)**. ([[aga-2026-refractory-constipation]])
 - **No single test is a gold standard.** ARM, BET, and magnetic resonance (MR) defecography are concordant at levels of agreement **>70%**, but individual patients may disagree across tests.
 - **How many abnormal tests it takes has changed — and the two live rules disagree.** Rome IV required **≥2 abnormal tests**; **[[rome-v-2026-dgbi|Rome V]] (2026) requires difficult-evacuation symptoms (e.g., straining, digital maneuvers) plus only 1 of 3 abnormal tests** — balloon expulsion, manometry, **or** imaging — and has **dropped anal electromyography (EMG)** as a criterion. [[acg-2021-anorectal-disorders|ACG 2021]] still requires **ARM *and* BET** (key concept above). Same tier; Rome V is the newer publication, so this page follows the looser 1-of-3 bar, while ACG's both-tests rule remains the stricter operating standard in an ACG-following lab. Version table: [[defecation-disorders]].
 - Sequencing, the DD diagnostic algorithm, and defecography indications live on [[defecation-disorders]]; incontinence workup on [[fecal-incontinence]]. Do not read this page as the algorithm — it covers the test itself.
@@ -37,7 +39,7 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
 | Suspected DD / refractory constipation | ARM + BET **required** to diagnose DD ([[acg-2021-anorectal-disorders]]) |
 | [[irritable-bowel-syndrome\|Irritable bowel syndrome (IBS)]] with pelvic-floor symptoms | *"We suggest that anorectal physiology testing be performed in patients with IBS and symptoms suggestive of a pelvic floor disorder and/or refractory constipation not responsive to standard medical therapy."* **Consensus recommendation; unable to assess using Grading of Recommendations Assessment, Development and Evaluation (GRADE)** ([[acg-2020-ibs]]). Anorectal dysfunction occurs in **all IBS subtypes**, prevalence estimated **up to 40%** in tertiary care |
 | [[fecal-incontinence\|Fecal incontinence (FI)]] | ARM, rectal BET, and rectal sensation **should be performed in patients who fail to respond to conservative measures**; anal canal imaging and anal EMG added for anal weakness ([[acg-2021-anorectal-disorders]]) |
-| Levator syndrome ([[proctalgia-syndromes]]) | ARM and BET **should be performed** in levator syndrome to identify patients eligible for [[biofeedback-therapy\|biofeedback]] — **strongly recommended despite low-quality evidence**; *not* indicated in idiopathic chronic proctalgia syndrome ([[acg-2021-anorectal-disorders]]) |
+| Levator syndrome ([[proctalgia-syndromes]]) | ARM and BET **should be performed** in levator syndrome to identify patients eligible for biofeedback — **strongly recommended despite low-quality evidence**; *not* indicated in idiopathic chronic proctalgia syndrome ([[acg-2021-anorectal-disorders]]) |
 | Before labelling constipation **refractory** | *"Most patients with CC [chronic constipation] should be evaluated with anorectal manometry (ARM) with balloon expulsion testing (BET) and complete a course of pelvic floor biofeedback therapy, when indicated, before being labeled as having RC [refractory constipation]."* **Best practice advice (BPA) 2** ([[aga-2026-refractory-constipation]]) — i.e. ARM+BET is a gate on the refractory-constipation diagnosis itself, not just a workup option. Pathway: [[chronic-constipation]] |
 | Suspected Hirschsprung disease | *"Suspected Hirschsprung's disease requires anorectal manometry and deep biopsy to examine for the absence of myenteric neurons."* ([[asge-2014-constipation]]) |
 
@@ -88,9 +90,24 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
 | Party or **commercial balloon** (Mui Scientific) — *most widely used and preferred* | **1 minute** | The reference standard technique |
 | **Foley catheter** inflated to 50 mL | **2 minutes** | 50 mL is **above the manufacturer's recommended 30 mL limit**; even at the 2-min cutoff **25% of healthy people are misclassified as abnormal** → **ACG discourages Foley balloons** |
 
+- **AGA 2026 uses the same bar** — a **prolonged BET (≥1 minute)** is one of its three abnormal tests for DD, alongside a reduced rectoanal gradient on ARM and inadequate rectal evacuation on defecography. ([[aga-2026-refractory-constipation]])
 - ⚠ The cutoff is meaningless without its balloon type — a 1-minute threshold applied to a Foley study, or a 2-minute threshold applied to a commercial balloon, misclassifies patients.
 - **Performance** (vs defecography, 106 functional constipation + 24 DD patients): sensitivity and specificity **~88%**; **positive predictive value (PPV) 64%, negative predictive value (NPV) 97%**.
 - **Alternative filling:** rather than a fixed volume, inflate until the patient feels the desire to defecate (**averaged 183 mL**) — may compensate for the reduced rectal sensation seen in some DD patients.
+
+## Defecography — Barium vs Magnetic Resonance (MR)
+
+*Indications and findings: [[defecation-disorders]]. This section is the modality choice.* All from [[aga-2026-refractory-constipation]].
+
+- Order either modality when **clinical features suggest a structural abnormality**, or when **ARM and BET are inconclusive**.
+- Each abnormal anorectal test — lower rectoanal gradient on manometry, prolonged BET, reduced evacuation on defecography — is **highly specific** for DD.
+
+| | Barium defecography | MR defecography |
+|---|---|---|
+| Position | **Seated** — preferable when the primary question is rectal evacuation | **Supine** |
+| Radiation | Yes | **None** |
+| Strengths | Real-time evacuation assessment | More precise pelvic organ prolapse and pelvic floor motion; **especially useful for pelvic floor dysfunction in patients with clinical DD features and a normal BET** — a group that includes **>90% of patients with a large rectocele, enterocele and/or peritoneocele** |
+| Availability / cost | Wider | **Less widely available, more expensive** |
 
 ## Adjunct — Anal EMG
 
@@ -105,7 +122,7 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
 | **[[defecation-disorders\|Defecation disorder]]** | Rectal and anal pressures on evacuation, anal relaxation, **rectoanal gradient**, rectal sensation |
 | **[[fecal-incontinence\|Fecal incontinence]]** | **Anal sphincter resting and squeeze pressures are the key parameters.** Resting pressure largely reflects **internal** anal sphincter; squeeze pressure reflects **external** anal sphincter. FI patients typically show reduced squeeze pressure, reduced squeeze duration, and/or reduced rectal capacity with rectal hypersensitivity; incontinent patients have lower resting pressures. Rectal sensation in FI may be **normal, increased, or decreased**. The **anal cough reflex** is qualitatively useful for lower-motor-neuron integrity of the external anal sphincter |
 
-- Baseline ARM + BET **predict outcome and guide [[biofeedback-therapy|biofeedback therapy]]** ([[acg-2021-anorectal-disorders]] key concept 7).
+- Baseline ARM + BET **predict outcome and guide biofeedback therapy** ([[acg-2021-anorectal-disorders]] key concept 7).
 
 ## Limitations
 

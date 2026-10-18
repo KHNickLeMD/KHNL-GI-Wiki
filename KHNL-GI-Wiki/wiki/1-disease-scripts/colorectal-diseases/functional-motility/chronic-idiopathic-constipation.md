@@ -3,7 +3,7 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-10-04
+updated: 2026-10-18
 sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi, aga-2019-opioid-induced-constipation]
 ---
 
@@ -152,11 +152,18 @@ All from [[acg-2021-anorectal-disorders]]:
 | **Bisacodyl** | 5 mg daily | **10 mg orally daily** | Strong/Moderate | OTC stimulant; recommended for short-term use |
 | **Sodium picosulfate (SPS)** | 5 mg daily | **10 mg orally daily** | Strong/Moderate | OTC stimulant; grouped with bisacodyl in the guideline |
 | **Psyllium (fiber supplement)** | As tolerated | — | Conditional/Low | Start low, titrate; best evidence among fibers |
-| **Senna** | 8.6–17.2 mg daily | **No clear maximum** | Conditional/Low | Inexpensive stimulant; also present in many combination laxatives |
+| **Senna** | 8.6–17.2 mg daily | **35 mg twice daily (Food and Drug Administration (FDA) maximum)** | Conditional/Low | Inexpensive stimulant; also present in many combination laxatives. **Ceiling changed:** [[aga-acg-2023-constipation\|AGA-ACG 2023]] gave *"no clear maximum"*; [[aga-2026-refractory-constipation\|AGA 2026]] supplies the FDA maximum, and reports **up to 1.0 g/day for up to 8 weeks as safe** — senna teas and similar products often exceed the FDA dose without reported adverse events |
 | **Magnesium oxide** | 400–500 mg daily | **No clear maximum** | Conditional/Low | Use with caution / avoid in renal insufficiency |
 | **Lactulose** | 15 g daily | **No clear maximum** | Conditional/Very Low | The only osmotic agent studied in the elderly; bloating limits tolerability |
 
 *Titrate every agent per symptom response, not on a fixed schedule ([[aga-acg-2023-constipation|AGA-ACG 2023]] Table 1).*
+
+**Chronic stimulant laxative use** ([[aga-2026-refractory-constipation]]):
+
+- **Concerns about chronic stimulant laxative use in refractory adult constipation are unfounded** — a firmer stance than the Conditional/Low senna row above; **selected patients benefit from regular stimulant use**.
+- **Bisacodyl** stimulates high-amplitude propagating contractions and appears particularly effective at increasing spontaneous bowel movements.
+- **Suppositories and enemas** can help, particularly with pelvic floor dysfunction; data guiding their use are limited.
+- **Bowel cleanouts** clarify constipation's contribution to symptoms or precede maintenance therapy, especially with a large stool burden — **use sparingly**, to avoid setting an expectation of repeat treatment.
 
 ### Step 3: Prescription Agents (when OTC fails)
 
@@ -194,12 +201,15 @@ If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-thera
 
 **Confirming the diagnosis:**
 
-- **Colonic transit testing off treatment** to document slow transit, **and ideally on a maximal laxative regimen** to document refractoriness.
-- **Consider defecography.**
+- **Colonic transit testing off treatment** to document slow transit, **and ideally on a maximal laxative regimen** to document refractoriness. Modalities: scintigraphy or radiopaque markers (validated, minimal radiation, quantify overall *and* regional transit); wireless motility capsules also give regional transit.
+- **Washout before testing off treatment: stop laxatives for ≥7 days and medications that delay colon transit for ≥2 weeks.**
+- Day-to-day reproducibility is poor in defecatory disorders and colonic inertia → **repeat testing may be needed**, and in some patients testing while on laxatives.
+- **Reading a study done on laxatives:** **normal** transit → symptoms driven by other factors (defecatory disorder, visceral hypersensitivity, laxative side effects); **slow** transit → colonic dysmotility is contributing, and colectomy may be considered in select cases once a defecatory disorder has been excluded.
+- **Consider defecography** — barium or MRI; modality choice on the ARM page.
 
 **Escalation of therapy:**
 
-- Trial **all** standard OTC and FDA-approved agents — as monotherapy and **in combination**.
+- Trial **all** standard OTC and FDA-approved agents — as monotherapy and **in combination**, pairing different mechanisms of action when monotherapy fails (e.g. PEG with bisacodyl, or PEG with prucalopride); the combination data are anecdotal.
 - **Off-label** agents (e.g. **pyridostigmine**) when OTC/FDA-approved agents fail.
 - Non-pharmacologic adjuncts: **transanal irrigation** (neurogenic bowel dysfunction), **vibrating capsule**, or **electroacupuncture**.
 
@@ -207,9 +217,9 @@ If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-thera
 
 - Only after **confirming slow-transit constipation and excluding pelvic floor dysfunction**.
 - Preoperative work-up: **regional gut transit testing** + **psychological evaluation**.
-- **Colectomy with ileorectal anastomosis** only in patients without ongoing defecatory disorder.
-- Relative contraindications: severe untreated psychiatric disease (incl. active eating disorders, unresolved sexual trauma), bloating/abdominal-pain–predominant symptoms, reversible secondary causes, significant upper-gut dysmotility.
-- A **[[ostomy-management|diverting loop ileostomy]]** can serve as a reversible **diagnostic trial** of surgery when efficacy or contraindications are uncertain.
+- **Colectomy with ileorectal anastomosis** is the most evidence-based operation for slow-transit constipation, but **only patients with no evidence of an ongoing defecatory disorder should be offered it**.
+- Relative contraindications: severe untreated psychiatric disease (incl. active eating disorders, unresolved sexual trauma), bloating/abdominal-pain–predominant symptoms, reversible secondary causes, significant upper-gut (multiregional) dysmotility.
+- **Staged pathway — ileostomy first:** a reversible **[[ostomy-management|diverting loop ileostomy]]** serves as a **diagnostic trial** of surgery where efficacy, relative contraindications, or risk of a poor functional outcome are the concern → **completion colectomy with ileorectal anastomosis potentially offered 6–12 months later** in those with significant symptom improvement. It may also mitigate colectomy's high complication rates, and many patients opt to keep the stoma because it improved their quality of life.
 
 ---
 

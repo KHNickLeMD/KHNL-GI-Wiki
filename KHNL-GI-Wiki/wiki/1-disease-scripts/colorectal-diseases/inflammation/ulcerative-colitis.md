@@ -3,7 +3,7 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-09-29
+updated: 2026-10-18
 sources: [aga-2018-functional-gi-symptoms-ibd, acg-2025-uc, aga-2019-mild-moderate-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt, aga-2021-ibd-colorectal-dysplasia]
 ---
 
@@ -353,8 +353,10 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
    - No total parenteral nutrition (TPN)/bowel rest
    - Nutrition support as needed
 5. **Induction:** IV corticosteroids
-   - Methylprednisolone 60 mg/day IV, OR
+   - **Methylprednisolone 40–60 mg/day IV or equivalent** — bolus, split through the day, or continuous infusion. **>60 mg/day equivalent confers no additional benefit and increases adverse events** — the range has a ceiling, not an "as much as needed" top end. ([[aga-2026-inpatient-ibd]])
    - Hydrocortisone 100 mg three times daily (TID) or four times daily (QID)
+   - **When to start them — the CRP trigger:** in a hospitalized patient with **≥6 bloody bowel movements daily *and* ≥1 systemic sign** (anemia, fever, tachycardia), a **CRP ≥1.2 mg/dL (≥12 mg/L)** should trigger IV corticosteroids absent contraindications. That cut-point has an **85% positive predictive value, 95% sensitivity and 82% accuracy** for an ESR >30 mm/h as used in the Truelove and Witts criteria — CRP is the real-time inpatient substitute for an ESR that returns too slowly to act on. ([[aga-2026-inpatient-ibd]])
+   - **Hard stop at 7 days:** continuing IV corticosteroids **beyond 7 days in a nonresponder provides no incremental benefit** and increases complications and mortality. ([[aga-2026-inpatient-ibd]])
 6. **Day 3 assessment — the criteria that define "inadequate response":**
 
    Monitor daily: vital signs, exam for abdominal distension/tenderness, **stool frequency**, visible blood, abdominal pain, systemic symptoms.
@@ -374,7 +376,10 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
      - IFX preferred if: prior immunomodulator failure; no prior anti-TNF use; albumin normal
      - Cyclosporine preferred if: no prior thiopurine; need bridging; provider experience
      - **IFX dose intensification** (10 mg/kg, or accelerated dosing) if albumin <2.5 g/dL
-     - Insufficient data for tofacitinib/upadacitinib as rescue after IVCS failure
+     - **What selects between them** (AGA 2026): prior inadequate treatment responses · inflammatory burden · **evidence of protein-losing colopathy — small molecules (cyclosporine or a JAK inhibitor) may be preferred** · treating physician's experience
+     - **JAK inhibitor rescue doses — optimal dose in ASUC is not known**, but these have been used effectively with reasonable safety: **standard** tofacitinib 10 mg twice daily, upadacitinib 45 mg daily; **off-label high-intensity inpatient** tofacitinib 10 mg three times daily for 9 doses, upadacitinib 30 mg twice daily. **Give the recombinant zoster vaccine before starting if possible, but do not delay treatment for it** — it can be given after the JAK inhibitor is started and the patient discharged. ([[aga-2026-inpatient-ibd]])
+     - ⚠ **The two 2026 guidelines disagree here.** [[acg-2025-uc]] finds **insufficient data** for tofacitinib/upadacitinib after IVCS or infliximab failure in ASUC; [[aga-2026-inpatient-ibd]] lists JAK inhibitors as a rescue option **and prints the doses above**. AGA 2026 is the newer same-tier source, so the doses are carried here — but the evidence behind them is experience, not trial data.
+     - **CMV — treat only above a threshold:** anti-CMV therapy only in clinically active disease with **high-density histologic involvement (≥5 inclusions)** *and* corticosteroid nonresponse. Nonpathogenic CMV detection is common; serum CMV polymerase chain reaction and immune titers may be sent when there is a systemic symptom, fever or transaminitis, but are **neither indicated routinely nor sufficient to rule CMV out**. ([[aga-2026-inpatient-ibd]])
 7. **Maintenance after rescue:**
    - IFX → continue IFX
    - Cyclosporine → bridge to thiopurine (preferred) or vedolizumab
@@ -385,7 +390,9 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
    - Refractory to all medical therapy
    - IFX/cyclosporine do NOT increase postoperative complications — do not delay surgery
 
-*Inpatient practice points — [[aga-2026-inpatient-ibd|AGA 2026 clinical practice update (CPU)]]:* counsel on potential **colectomy** and obtain **timely surgical consultation** early; all hospitalized patients receive **VTE prophylaxis**; rescue options are **infliximab, cyclosporine, or a JAK inhibitor** (growing interest in JAK inhibitors as initial, corticosteroid-sparing inpatient therapy — optimal dosing not yet established). Optimal inpatient infliximab dosing for ASUC is unknown — a multicenter study found **no significant day-7 response difference between accelerated (10 mg/kg) and standard infliximab dosing**.
+*Inpatient practice points — [[aga-2026-inpatient-ibd|AGA 2026 clinical practice update (CPU)]]:* counsel on potential **colectomy** and obtain **timely surgical consultation** early; all hospitalized patients receive **VTE prophylaxis**; rescue options are **infliximab, cyclosporine, or a JAK inhibitor** (growing interest in JAK inhibitors as initial, corticosteroid-sparing inpatient therapy — optimal dosing not yet established). Optimal inpatient infliximab dosing for ASUC is unknown — a multicenter study found **no significant day-7 response difference between accelerated (10 mg/kg) and standard infliximab dosing**, and no difference at day 14 or in colectomy at 3 months for accelerated (5 mg/kg at weeks 0, 1, 3) vs standard (weeks 0, 2, 6) induction. Those findings **do not generalize to every ASUC patient**: 10 mg/kg is still used where infliximab is likely to fail from **protein-losing colopathy (low albumin, high CRP, deep colonic ulcers)** — a practice that deliberately runs ahead of the trial result.
+
+*Discharge — what it does and does not require:* discharge is appropriate once the **acute admission indication has resolved or stabilized**, and **does not require normalization of inflammatory biomarkers (e.g. CRP) or of imaging findings**. Establish a clear transition plan. ([[aga-2026-inpatient-ibd]])
 
 ---
 

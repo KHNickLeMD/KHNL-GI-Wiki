@@ -3,7 +3,7 @@ title: "Biofeedback Therapy"
 category: advanced-procedure
 tags: [biofeedback, pelvic-floor, dyssynergic-defecation, defecation-disorders, fecal-incontinence, levator-ani, constipation, anorectal]
 created: 2026-06-01
-updated: 2026-10-04
+updated: 2026-10-18
 sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation, rome-v-2026-dgbi]
 ---
 
@@ -49,6 +49,8 @@ Suggested treatment protocol for anorectal biofeedback — American College of G
 | **Sensory retraining** | For hyposensitivity: rectal balloon inflated, patient told the volume in mL and trained to detect progressively smaller volumes |
 
 - **Initial measures come first** — normalize stool form and give toileting position/behavior advice before or alongside the course.
+- **Time to benefit: often up to 3–6 months of consistent practice** before benefit manifests. ([[aga-2026-refractory-constipation]])
+- **Confirming response: normalisation of the BET after biofeedback suggests the defecatory disorder (DD) has resolved.** ([[aga-2026-refractory-constipation]])
 - **In fecal incontinence (FI) the same protocol is re-aimed:** increase strength and coordination of the external anal sphincter without contracting the abdominal wall, and correct rectal sensation — in rectal hypersensitivity the goal is to *reduce* sensation so defecation can be postponed. Tailor to the specific anorectal dysfunction.
 
 ---
@@ -73,6 +75,8 @@ Biofeedback is a **gate** that must be passed before the "refractory" label ([[a
 - **Best practice advice (BPA) 2:** most patients with [[chronic-constipation|chronic constipation]] should be evaluated with ARM + BET and **complete a course of pelvic floor biofeedback therapy, when indicated, before being labeled as having refractory constipation.**
 - **BPA 1:** refractory constipation is defined by infrequent and/or unsatisfactory bowel habits, with or without abdominal pain, **despite an adequate trial of lifestyle, dietary, medical, and/or pelvic floor biofeedback therapy when indicated** in adults meeting criteria for chronic constipation or constipation-predominant [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]].
 - **BPA 10:** surgical therapy for refractory constipation only after confirming slow-transit constipation **and excluding pelvic floor dysfunction** — i.e. an untreated defecation disorder must be excluded by ARM/BET ± biofeedback before an operation is considered.
+
+- **A biofeedback trial is required before colectomy.** It may normalise colonic transit in many patients with a DD; there is ample evidence and strong consensus for addressing the DD before colectomy with ileorectal anastomosis. Failure to address it first gives poor functional outcomes — persistent abdominal pain and constipation — and low satisfaction.
 
 See [[chronic-idiopathic-constipation]] for the full refractory pathway.
 

@@ -3,21 +3,22 @@ title: "Fever in a Returning Traveler (NEJM 2023)"
 category: source
 tags: [travel-medicine, fever, tropical-infections, enteric-fever, no-full-text, unverified]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-10-18
 sources: []
 ---
 
-> ⚠️ **Full text unavailable.** No copy of this article is on file, and its authors, DOI, volume, and pages are unknown.
+> ⚠️ **No such 2023 article could be confirmed, and no full text is on file.** The slug's "2023" date appears to be wrong: the New England Journal of Medicine article on this topic is **Thwaites GE, Day NPJ. Approach to Fever in the Returning Traveler. *N Engl J Med* 2017;376:548–60** — a **narrative review**, not a 2023 publication.
 >
-> This page is a citation record only — it supports no clinical claim anywhere in the wiki. [[fever-returning-traveler]] once named it as its sole source; that page has since been rebuilt on [[idsa-2017-infectious-diarrhea]], [[acg-2016-acute-diarrhea]], and [[acg-2016-liver-disease-pregnancy]] and no longer cites it. The article is listed on [[needed-sources]] in case it is obtained later.
+> This page is a citation record only — it supports no clinical claim anywhere in the wiki. [[fever-returning-traveler]] once named it as its sole source; that page has since been rebuilt on [[idsa-2017-infectious-diarrhea]], [[acg-2016-acute-diarrhea]], and [[acg-2016-liver-disease-pregnancy]] and no longer cites it. Because a narrative review is not an eligible source type, it is **not** on [[needed-sources]].
 
 ## Bibliographic Info
 
-- **Article:** Fever in a Returning Traveler. *N Engl J Med* 2023. *(Authors, DOI, volume, and pages unknown.)*
-- **Authors:** Unknown
-- **Year:** 2023
-- **Journal/Publisher:** New England Journal of Medicine — *unconfirmed*
-- **Type:** Unknown (the title suggests a clinical problem-solving vignette)
+- **Article:** [Thwaites GE, Day NPJ. Approach to Fever in the Returning Traveler. *N Engl J Med* 2017;376:548–60](https://doi.org/10.1056/NEJMra1508435) — *the likely referent of this page's title; identification unconfirmed against a copy of the text.*
+- **Authors:** Thwaites GE, Day NPJ *(unconfirmed)*
+- **Year:** 2017 *(not 2023, as this page's slug states)*
+- **Journal/Publisher:** New England Journal of Medicine
+- **DOI:** [10.1056/NEJMra1508435](https://doi.org/10.1056/NEJMra1508435) *(unconfirmed)*
+- **Type:** review
 - **Notion page:** <https://www.notion.so/8214b4f26a5f4d1a90e741da438fb6a7>
 
 ## Summary
