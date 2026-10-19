@@ -31,9 +31,9 @@ sources: [acg-2015-small-bowel-bleeding]
 - [[acg-2015-small-bowel-bleeding|American College of Gastroenterology (ACG) 2015]] calls the aortic-stenosis/[[angioectasia]] link a **controversial association**, thought to be secondary to an **acquired type 2 von Willebrand deficiency**.
 - Support for the relationship: some patients with aortic stenosis have resolution of GI bleeding after **aortic valve replacement**.
 - **Left ventricular assist device (LVAD) patients are likewise at risk** for angioectasia and recurrent bleeding, again secondary to an acquired von Willebrand deficiency syndrome.
-- Pilot studies: **decreased von Willebrand factor (vWF) levels predict recurrent bleeding** from small bowel angioectasia.
-
-> The guideline does not describe the shear-stress → high-molecular-weight (HMW) multimer-cleavage cascade in more detail; see a hematology reference for the mechanism.
+- Pilot studies: **decreased von Willebrand factor (vWF) levels predict recurrent bleeding** from small bowel angioectasia **in LVAD patients**.
+- Aortic stenosis is itself listed as a risk factor for angioectasia, and cardiac valvular disease as a risk factor for recurrent bleeding from small bowel angioectasia.
+- The upstream shear-stress/multimer mechanism is not described further in the guideline.
 
 ## Differential Diagnosis
 
@@ -52,7 +52,8 @@ sources: [acg-2015-small-bowel-bleeding]
 ## Therapeutics
 
 - **Aortic valve replacement (AVR)** for Heyde's syndrome with **ongoing bleeding**. *(Conditional recommendation, moderate level of evidence.)* [[acg-2015-small-bowel-bleeding]]
-  - AVR resolves the vWF deficiency and reduces rebleeding risk — pooled event rate **0.16 (95% confidence interval [CI] 0.05–0.38)** in meta-analysis.
+  - Meta-analysis of two studies: reduced bleeding risk after AVR, pooled rebleeding event rate **0.16 (95% confidence interval [CI] 0.05–0.38)**.
+- Bleeding lesions themselves are treated as for [[angioectasia]] — endoscopic therapy, with high rebleeding rates; AVR is the step specific to this syndrome.
 
 ## See Also
 

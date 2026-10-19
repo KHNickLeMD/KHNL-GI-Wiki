@@ -3,7 +3,7 @@ title: "Mesalamine and the 5-Aminosalicylates (5-ASA)"
 category: med
 tags: [5-asa, mesalamine, sulfasalazine, olsalazine, aminosalicylate, ibd, ulcerative-colitis, crohns, proctitis, topical-therapy, oral, rectal]
 created: 2026-09-08
-updated: 2026-10-05
+updated: 2026-10-19
 sources: [acg-2025-uc, acg-2025-crohns, acg-2019-uc, acg-2018-crohns, aga-2024-uc-pharm, aga-2021-crohns-pharm, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia, aga-2024-pouchitis, aga-2022-refractory-celiac, acg-2026-diverticulitis]
 ---
 
@@ -109,7 +109,7 @@ flowchart TD
 | 9 | Proctitis or left-sided colitis — rectal 5-ASA enemas **at least 1 g/daily** **preferred over rectal steroids** for induction | Strong / Moderate |
 | 10 | Left-sided UC — rectal 5-ASA enemas **≥1 g/daily combined with** oral 5-ASA **≥2.0 g/daily**, over oral 5-ASA alone, for induction | Conditional / Low |
 | 12 | Extensive colitis — oral 5-ASA **at least 2.0 g daily** to induce remission | Strong / Moderate |
-| 13 | **UC of any extent failing 5-ASA** → oral systemic corticosteroids to induce remission | Strong / Low |
+| 13 | **UC of any extent failing 5-ASA** → oral systemic [[corticosteroids-ibd\|corticosteroids]] to induce remission | Strong / Low |
 | 14 | Failing appropriately dosed 5-ASA (**at least 2–4.8 g daily oral mesalamine and/or at least 1 g daily rectal mesalamine**) → **suggest against changing to an alternate 5-ASA formulation**; alternative therapeutic classes should be considered | Conditional / Low |
 | 15 | **Mildly** active UC, any extent — **low dose (2.0–2.4 g)** over higher dose (4.8 g); no difference in remission rate | Conditional / Very low |
 | 16 | Any extent **not responding to oral 5-ASA** → **add budesonide multimatrix (MMX) 9 mg/d** to induce remission | Strong / Moderate |
@@ -117,7 +117,7 @@ flowchart TD
 | 18 | **Mildly** active ulcerative proctitis — rectal 5-ASA **1 g daily** for **maintenance** | Strong / Moderate |
 | 19 | **Mildly** active left-sided or extensive UC — oral 5-ASA **at least 1.5 g/d** for **maintenance** | Strong / Moderate |
 | 32 | Moderately-severely active UC who **failed** 5-ASA and are starting a biologic or [[jak-inhibitors\|Janus kinase (JAK) inhibitor]] for induction → **suggest against** 5-ASA for added clinical efficacy | Conditional / Very low |
-| 34 | Prior moderately-severely active UC in remission, previously failed 5-ASA, now on [[anti-tnf-agents\|anti-TNF]] → **suggest against** concomitant 5-ASA for maintenance efficacy | Conditional / Low |
+| 34 | Prior moderately-severely active UC in remission, previously failed 5-ASA, now on [[anti-tnf-agents\|anti-tumor necrosis factor (anti-TNF)]] → **suggest against** concomitant 5-ASA for maintenance efficacy | Conditional / Low |
 
 **Related recommendations that bound the class** (not 5-ASA itself, but they are what you do when it fails): Rec 11 — left-sided UC intolerant or nonresponsive to **oral and rectal 5-ASA at appropriate doses (oral at least 2.0 g daily and rectal at least 1 g daily)** → **oral budesonide MMX 9 mg/d** (Strong / Moderate). Rec 7 — proctitis not responsive to topical 5-ASA → **[[tacrolimus|tacrolimus]] suppository or beclomethasone suppository** over no treatment (Conditional / Low).
 
@@ -161,12 +161,12 @@ Three separate rules apply the moment a patient is not responding, and they are 
 | Oral mesalamine, induction or maintenance | **Recommend against** (Strong / Moderate) — *not more effective compared with placebo for induction of remission and achieving mucosal healing in patients with active CD* |
 | Sulfasalazine | **3–6 g daily in divided doses** — *may be a modestly effective therapy for treatment of **symptoms*** of patients with **mild colonic CD and/or ileocolonic CD**, but **not isolated small bowel disease**. It was **not** more effective than placebo for **mucosal healing**, even combined with corticosteroids |
 | Topical (rectal) mesalamine in CD | *"the role of topical mesalamine in CD, although commonly used, is of **limited benefit**"* |
-| Maintenance of medically induced remission | **5-ASAs are not recommended.** 11 placebo-controlled trials (1–4 g/day, 4–36 months): 4 reported a significant decrease in relapse, **the other 7 showed no prevention of relapse**. Across 5 meta-analyses the therapeutic advantage over control was **<10%**, with an **number needed to treat (NNT) of over 15** |
+| Maintenance of medically induced remission | **5-ASAs are not recommended.** 11 placebo-controlled trials (1–4 g/day, 4–36 months): 4 reported a significant decrease in relapse, **the other 7 showed no prevention of relapse**. Across 5 meta-analyses the therapeutic advantage over control was **<10%**, with a **number needed to treat (NNT) of over 15** |
 | Postoperative recurrence prophylaxis | **Neither 5-ASAs nor antibiotics as monotherapy was effective over placebo.** Anti-TNF monotherapy was the most effective intervention (clinical relapse RR 0.04, endoscopic relapse RR 0.01 vs placebo in a 21-trial network meta-analysis) |
 | Fistulizing CD | Mesalamine and corticosteroids are **ineffective** |
 
 - **The reason the drug persists anyway, stated by the guideline:** *"5-aminosalicylates (5-ASAs) remain widely prescribed for the treatment of CD, despite considerable evidence demonstrating their lack of efficacy"* — one of the *"largely ineffective agents whose use cannot be justified by clinical evidence."*
-- **[[aga-2021-crohns-pharm]] agrees and goes further** — Rec 9: recommends **against** 5-aminosalicylates or sulfasalazine over no treatment for induction **or** maintenance in moderate-to-severe CD (**Strong**, moderate certainty); **5-ASA** did not reach the 10% minimal clinically important difference (MCID) for induction (risk ratio [RR] 0.90; 95% confidence interval [CI] 0.81–1.00), but **sulfasalazine did beat placebo for induction over 6–17 weeks** (RR 0.78; 0.65–0.93) — discounted by the panel because it was unclear that those patients had moderate-to-severe luminal disease. The strong recommendation rests on absent moderate-to-severe induction data **plus** clear maintenance failure (sulfasalazine RR 0.98, 0.82–1.17; 5-ASA RR 1.02, 0.92–1.16). Rec 7 suggests **early introduction of a biologic rather than delaying until after failure of 5-ASA** and/or corticosteroids (Conditional, low).
+- **[[aga-2021-crohns-pharm]] agrees and goes further** — Rec 9: recommends **against** 5-aminosalicylates or sulfasalazine over no treatment for induction **or** maintenance in moderate-to-severe CD (**Strong**, moderate certainty); **5-ASA** did not reach the 10% minimal clinically important difference (MCID) for induction (RR 0.90; 95% CI 0.81–1.00), but **sulfasalazine did beat placebo for induction over 6–17 weeks** (RR 0.78; 0.65–0.93) — discounted by the panel because it was unclear that those patients had moderate-to-severe luminal disease. The strong recommendation rests on absent moderate-to-severe induction data **plus** clear maintenance failure (sulfasalazine RR 0.98, 0.82–1.17; 5-ASA RR 1.02, 0.92–1.16). Rec 7 suggests **early introduction of a biologic rather than delaying until after failure of 5-ASA** and/or corticosteroids (Conditional, low).
 - **Sulfasalazine is the only survivor, and it is graded weakly.** [[acg-2018-crohns]] Rec 10 called it *effective for treating symptoms of colonic CD that is mild to moderately active* (**Conditional / Low**); ACG 2025 demotes it from a recommendation to a **key concept**.
 
 ---
@@ -209,7 +209,7 @@ A genuine trade-off, and the guideline states both halves:
 | **Chronic antibiotic-refractory pouchitis** | Mesalamine — **no recommendation** (explicit knowledge gap, Rec 10) | [[aga-2024-pouchitis]] |
 | **Refractory [[celiac-disease\|celiac disease]] type 1** | **Small-intestinal-release mesalamine 2–4 g/d** — 75% clinical response alone; **33% complete response** combined with budesonide | [[aga-2022-refractory-celiac]] |
 | **[[diverticulitis]] — recurrence prevention** | **Recommend against mesalamine** — **Strong, moderate certainty**. American College of Physicians (ACP) 2022 meta-analysis, 6 RCTs, n = 1,898: no recurrence reduction (**OR 1.15**, 0.92–1.44) and **more discontinuation for adverse events** (OR 1.59, 1.12–2.27) | [[acg-2026-diverticulitis]] |
-| **[[colorectal-cancer\|colorectal cancer (CRC)]] chemoprevention in inflammatory bowel disease (IBD)** | **Unresolved.** *"There is uncertainty regarding the independent chemopreventive benefit of mesalamine therapy"* — meta-analyses of population-based studies have yielded **conflicting results**. Do not treat 5-ASA as a chemopreventive indication | [[aga-2021-ibd-colorectal-dysplasia]] |
+| **[[colorectal-cancer\|colorectal cancer (CRC)]] chemoprevention in [[inflammatory-bowel-disease\|inflammatory bowel disease (IBD)]]** | **Unresolved.** *"There is uncertainty regarding the independent chemopreventive benefit of mesalamine therapy"* — meta-analyses of population-based studies have yielded **conflicting results**. Do not treat 5-ASA as a chemopreventive indication | [[aga-2021-ibd-colorectal-dysplasia]] |
 | **[[primary-sclerosing-cholangitis\|primary sclerosing cholangitis (PSC)]]** | 5-ASA *may* reduce CRC risk — stated without a grade | [[acg-2015-psc]] |
 
 ---

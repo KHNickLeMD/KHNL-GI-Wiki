@@ -3,7 +3,7 @@ title: "Anti-TNF Agents (TNF-α Antagonists)"
 category: med
 tags: [anti-tnf, infliximab, adalimumab, certolizumab-pegol, golimumab, biologic, ibd, crohns, ulcerative-colitis, immunogenicity, therapeutic-drug-monitoring, biosimilar, immune-checkpoint-inhibitor]
 created: 2026-09-04
-updated: 2026-10-09
+updated: 2026-10-19
 sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis, aga-2018-biologic-biosimilar-switching-ibd]
 ---
 
@@ -38,7 +38,7 @@ Monoclonal tumor necrosis factor-α (TNF-α) antagonists — **infliximab, adali
 
 | Agent | Route(s) | Recommended in guidelines for |
 |---|---|---|
-| **Infliximab** | Intravenous (IV); **subcutaneous (SC) for maintenance** after IV induction response | [[crohns-disease\|Crohn's disease (CD)]] induction + maintenance, perianal fistulizing CD, [[ulcerative-colitis\|ulcerative colitis (UC)]] induction + maintenance, acute severe UC (ASUC) rescue |
+| **Infliximab** | Intravenous (IV); **subcutaneous (SC) for maintenance** after IV induction response | [[crohns-disease\|Crohn's disease (CD)]] induction + maintenance, [[perianal-fistulizing-crohns-disease\|perianal fistulizing CD]], [[ulcerative-colitis\|ulcerative colitis (UC)]] induction + maintenance, acute severe UC (ASUC) rescue |
 | **Adalimumab** | SC | CD induction + maintenance, perianal fistulizing CD (conditional), UC induction + maintenance |
 | **Certolizumab pegol** | SC | CD induction + maintenance **only** — not recommended for UC in [[acg-2025-uc]]; evidence suggests it **may not be effective** for induction of fistula remission ([[aga-2021-crohns-pharm]] Rec 10B comment) |
 | **Golimumab** | SC | UC induction + maintenance **only** — not among the agents recommended for CD in [[acg-2025-crohns]] |
@@ -166,7 +166,7 @@ The **ASUC pathway** (when to escalate, infliximab-vs-cyclosporine choice, bridg
 
 | Parameter | Detail |
 |---|---|
-| Indication | Rescue in ASUC **failing to respond adequately to IV corticosteroids by day 3** — infliximab **or** [[calcineurin-inhibitors\|cyclosporine]] (Rec 51, Strong/moderate) |
+| Indication | Rescue in ASUC **failing to respond adequately to IV [[corticosteroids-ibd\|corticosteroids]] by day 3** — infliximab **or** [[calcineurin-inhibitors\|cyclosporine]] (Rec 51, Strong/moderate) |
 | Standard rescue dose | Infliximab **5 mg/kg** at weeks 0, 2, 6 (CySIF regimen) |
 | **Dose intensification** | Open-label RCT (138 patients) of intensified **10 mg/kg** vs standard **5 mg/kg** first dose showed **no difference** in day-7/14 clinical response, clinical remission, or colectomy at month 3 — **except** in patients with **serum albumin <2.5 g/dL**, where 10 mg/kg gave a higher day-7 clinical response. **Reserve intensified dosing for ASUC with low serum albumin**, with careful ongoing monitoring |
 | Accelerated induction | Retrospective study (50 patients) of 3 induction doses within a median 24 days: lower colectomy rate (**7% vs 40%**) than standard dosing, but **3-month colectomy rates were similar** — short-term benefit may not translate to long-term outcome |
@@ -217,7 +217,7 @@ Screen with a **full panel — hepatitis B surface antigen (HBsAg), hepatitis B 
 | Serology | Action |
 |---|---|
 | **Seronegative** for hepatitis B | **Vaccinate** (recombinant vaccine), ideally **before** starting biologic therapy; check serologic response after vaccination |
-| **HBsAg positive** (carrier) | Start **antiviral prophylaxis (nucleoside/nucleotide analog) before** the biologic, to avoid hepatitis B flare and liver failure; continue before and during biologic/immunomodulator therapy |
+| **HBsAg positive** (carrier) | Start **antiviral prophylaxis ([[hbv-nucleoside-analogs\|nucleoside/nucleotide analog]]) before** the biologic, to avoid hepatitis B flare and liver failure; continue before and during biologic/immunomodulator therapy |
 | **Actively infected** | **Defer** biologic initiation until an adequate duration of HBV antiviral therapy has been initiated |
 | **anti-HBc positive, HBsAg negative** | Further evaluation with **HBV DNA** to assess reactivation risk (reactivation risk **3.6%** in anti-HBc-positive patients with non-hematologic disease in a meta-analysis). Quantifying anti-HBc helps distinguish **occult** HBV from past infection; check HBV DNA at the time anti-HBc positivity is found and **periodically thereafter**, plus routine liver chemistries |
 
@@ -305,7 +305,7 @@ If not already done before checkpoint-inhibitor therapy: test **hepatitis B (HBs
 - Commercial **therapeutic drug assays perform on the biosimilar as they do on the originator**; an antidrug-antibody result against one product applies to the other. See [[therapeutic-drug-monitoring-ibd]].
 - **New start vs switch are different decisions.** Data support biosimilars for **new starts** of infliximab; transitioning a patient **already in remission** (either direction) is an individualized decision by the IBD provider, with the patient informed and involved ([[aga-2018-biologic-biosimilar-switching-ibd]]).
 - **NOR-SWITCH detail** — 482 patients (155 CD, 93 UC), 52 wk, randomized double-blind noninferiority. Disease worsening **26.2% originator vs 29.6% CT-P13** overall; **CD 21.2% vs 36.5%** (risk difference **−14.3%; 95% CI −29.3 to 0.7**), **UC 9.1% vs 11.9%** (**−2.6%; 95% CI −15.2 to 10.0**). ⚠ The trial was **not powered for the CD and UC subgroups**, and its "disease worsening" endpoint is **not validated**. **SECURE:** infliximab levels 16 wk after switch were noninferior to baseline in both CD and UC.
-- **No primary equivalence study of any biosimilar has been performed in an IBD population** — IBD use rests on extrapolation from rheumatology (PLANETAS in ankylosing spondylitis, PLANETRA in rheumatoid arthritis). All IBD switch evidence is **infliximab CT-P13 only**; adalimumab-biosimilar switching and **multiple or serial switching are unstudied**.
+- **No primary equivalence study of any biosimilar has been performed in an IBD population** — IBD use rests on extrapolation from rheumatology (PLANETAS in ankylosing spondylitis, PLANETRA in RA). All IBD switch evidence is **infliximab CT-P13 only**; adalimumab-biosimilar switching and **multiple or serial switching are unstudied**.
 - **Pregnancy and children:** pharmacokinetic (PK), immunogenicity, efficacy and safety data are limited in children and in pregnant women in stable remission → **avoid nonmedical switching during the antenatal period**.
 
 ---

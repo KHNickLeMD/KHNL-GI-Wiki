@@ -3,7 +3,7 @@ title: "Antibiotics for Clostridioides difficile Infection"
 category: med
 tags: [cdiff, clostridioides-difficile, vancomycin, fidaxomicin, metronidazole, antibiotics, colitis, recurrence]
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-19
 sources: [acg-2021-cdiff, aga-2026-cdiff-adults, aga-2026-cdiff-ibd]
 ---
 
@@ -203,7 +203,7 @@ Antibiotics here are a **bridge to microbiota restoration**, not the definitive 
 >
 > **Instead:** close observation for diarrhea during and after antibiotics, with prompt testing and treatment; a **standing order for *C. difficile* testing** expedites the workup. [[aga-2026-cdiff-adults]]
 >
-> [[aga-2026-cdiff-ibd|AGA 2026's IBD-specific CPU]] (BPA 12) still says OVP **may be considered** as secondary prevention in patients with inflammatory bowel disease (IBD) and a history of CDI who are receiving systemic antibiotics — narrower guidance for that population only.
+> [[aga-2026-cdiff-ibd|AGA 2026's IBD-specific CPU]] (BPA 12) still says OVP **may be considered** as secondary prevention in patients with [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] and a history of CDI who are receiving systemic antibiotics — narrower guidance for that population only.
 
 **Transplant-specific prophylaxis data** cited by [[acg-2021-cdiff]], for context — note AGA 2026 advises against prophylactic vancomycin generally:
 

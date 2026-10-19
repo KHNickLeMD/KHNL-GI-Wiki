@@ -3,7 +3,7 @@ title: "Direct-Acting Antivirals (DAAs)"
 category: med
 tags: [HCV, hepatitis-c, direct-acting-antivirals, DAA, sofosbuvir, velpatasvir, glecaprevir, pibrentasvir, ledipasvir, NS5A, NS5B, NS3-4A, pangenotypic]
 created: 2026-05-28
-updated: 2026-09-15
+updated: 2026-10-19
 sources: [aasld-idsa-2023-hcv, aga-2025-hbv-reactivation, aga-2019-daa-hcc]
 ---
 
@@ -53,7 +53,7 @@ DAA-treated HCV is one of the exposures the American Gastroenterological Associa
 | **HBsAg-negative / anti-HBc-positive** | **2 per 1,000 (0.2%)** | **Low** | **Monitoring alone over prophylaxis** — Rec 3, *conditional*, moderate certainty |
 
 - **Risk-category thresholds:** low **<1%**, moderate **1–10%**, high **>10%**.
-- **Prophylaxis duration is DAA-specific and outlasts the DAA course.** Start **before** the DAA, and continue **6–12 months after** DAA cessation — longer than the guideline's general ≥6-month rule, because the one randomized controlled trial (RCT) in this setting saw **no HBVr during entecavir but >90% cumulative HBVr by 12 weeks after stopping it**. Use an agent with a **high barrier to resistance**.
+- **Prophylaxis duration is DAA-specific and outlasts the DAA course.** Start **before** the DAA, and continue **6–12 months after** DAA cessation — longer than the guideline's general ≥6-month rule, because the one randomized controlled trial (RCT) in this setting saw **no HBVr during [[hbv-nucleoside-analogs|entecavir]] but >90% cumulative HBVr by 12 weeks after stopping it**. Use an agent with a **high barrier to resistance**.
 - **If monitoring instead of prophylaxis:** every **1–3 months**, and it must include **HBV DNA, not ALT alone**.
 - Risk was assessed at **12 weeks** from DAA initiation in 9 of 11 pooled studies (24 weeks in 2).
 

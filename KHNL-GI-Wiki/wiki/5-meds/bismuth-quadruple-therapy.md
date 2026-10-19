@@ -3,7 +3,7 @@ title: "Bismuth Quadruple Therapy (BQT)"
 category: med
 tags: [h-pylori, eradication, bismuth, tetracycline, metronidazole, ppi, pylera]
 created: 2026-05-07
-updated: 2026-09-05
+updated: 2026-10-19
 sources: [acg-2024-hp-treatment, acg-2017-hp-guidelines]
 ---
 
@@ -22,7 +22,7 @@ Four drugs × 14 days. **Optimized** bismuth quadruple therapy (BQT) = appropria
 
 > **Internal discrepancy in ACG 2024 — bismuth dose.** Tables 5 and 6 both list bismuth subcitrate **120–300 mg** or subsalicylate **300 mg** q.i.d. The Recommendation 6 narrative instead defines optimized BQT as bismuth **"300 mg 4 times daily at least."** Both appear in the same guideline; the tables are identical for first-line and salvage, so this is **not** a first-line-vs-salvage difference. Dosing at **300 mg q.i.d.** satisfies both readings.
 
-**Commercial formulations (FDA-approved only as combination packs; individual-component BQT is not FDA-approved):**
+**Commercial formulations (US Food and Drug Administration (FDA)-approved only as combination packs; individual-component BQT is not FDA-approved):**
 - **Pylera** — bismuth subcitrate + metronidazole + tetracycline per capsule; FDA-approved combined with omeprazole; **dispensed only as a 10-day regimen**. Combination formulations are given with a PPI taken b.i.d.
 - **Helidac** — bismuth subsalicylate + metronidazole + tetracycline; dispensed as a 14-day regimen (originally approved with a histamine-2 receptor antagonist [H2RA], but ACG 2024 does **not** recommend H2RAs in eradication regimens).
 

@@ -3,7 +3,7 @@ title: "Calcineurin Inhibitors"
 category: med
 tags: [calcineurin-inhibitor, tacrolimus, cyclosporine, immunosuppression, transplant, liver-transplant, nephrotoxicity, basiliximab, induction, cni-minimization]
 created: 2026-05-19
-updated: 2026-09-08
+updated: 2026-10-19
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, acg-2025-uc]
 ---
 
@@ -64,7 +64,7 @@ The other GI use of a CNI, and the reason the [[ulcerative-colitis|ulcerative co
 
 | Parameter | Value |
 |---|---|
-| Indication | Medical **rescue** in ASUC **failing to respond adequately to intravenous (IV) corticosteroids by day 3** — infliximab **or** cyclosporine (Rec 51, **Strong**) |
+| Indication | Medical **rescue** in ASUC **failing to respond adequately to intravenous (IV) [[corticosteroids-ibd\|corticosteroids]] by day 3** — infliximab **or** cyclosporine (Rec 51, **Strong**) |
 | Target dose | **2 mg/kg** — preferred over 4 mg/kg: comparable clinical response and colectomy rates with **fewer adverse events** |
 | Route / duration | **CySIF regimen: 2 mg/kg for 1 week, then oral cyclosporine**; responders started azathioprine from day 7. (American College of Gastroenterology [ACG] prints only "2 mg/kg for 1 week, followed by oral cyclosporine" — the initial **IV** route is implied by "followed by oral", not stated) |
 | Drug level | **200–400** for efficacy (the source states the range without units) |

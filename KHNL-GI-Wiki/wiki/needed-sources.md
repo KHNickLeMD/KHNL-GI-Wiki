@@ -3,7 +3,7 @@ title: "Needed Sources — Download List"
 category: overview
 tags: [maintenance, sources]
 created: 2026-09-08
-updated: 2026-10-17
+updated: 2026-10-19
 sources: []
 ---
 
@@ -22,6 +22,7 @@ Guidelines, papers, labels and figures that would close a specific gap on a wiki
 | 🔒 [Lewis SJ, Heaton KW. Stool form scale as a useful guide to intestinal transit time. *Scand J Gastroenterol* 1997;32:920–4](https://doi.org/10.3109/00365529709011203) | the 7 Bristol stool types (used by ≥6 pages, defined nowhere) | [[chronic-constipation]], [[irritable-bowel-syndrome]], [[hepatic-encephalopathy]], [[rifaximin]], [[sacral-nerve-stimulation]], [[chronic-diarrhea]] |
 | 🌐 [Banks PA et al. Classification of acute pancreatitis — 2012: revision of the Atlanta classification. *Gut* 2013;62:102–11](https://doi.org/10.1136/gutjnl-2012-302779) | modified Marshall per-domain cut-points (Table 1); collection definitions | [[acute-pancreatitis]] |
 | 🌐 [Wu BU et al. The early prediction of mortality in acute pancreatitis (BISAP). *Gut* 2008;57:1698–703](https://doi.org/10.1136/gut.2008.152702) | BISAP components and points | [[acute-pancreatitis]] |
+| 🔒 [Shovlin CL, Guttmacher AE, Buscarini E, et al. Diagnostic criteria for hereditary haemorrhagic telangiectasia (Rendu-Osler-Weber syndrome). *Am J Med Genet* 2000;91:66–7](https://pubmed.ncbi.nlm.nih.gov/10751092/) | the four Curaçao criteria themselves — [[hht-2020-second-international-guidelines]] diagnoses HHT by them (G1) and asks clinicians to consider HHT with one or more of them (G2), but prints them only in its Supplement 1 | [[hereditary-hemorrhagic-telangiectasia]] |
 | 🔒 [Catalano MF et al. EUS-based criteria for the diagnosis of chronic pancreatitis: the Rosemont classification. *Gastrointest Endosc* 2009;69:1251–61](https://doi.org/10.1016/j.gie.2008.07.043) | operational feature definitions; suggestive / indeterminate / normal splits | [[chronic-pancreatitis]] |
 | 🔒 [Shimosegawa T et al. International consensus diagnostic criteria for autoimmune pancreatitis. *Pancreas* 2011;40:352–8](https://doi.org/10.1097/MPA.0b013e3182142fd2) | ICDC level 1 / level 2 definitions and combination rules | [[autoimmune-pancreatitis]], [[aga-2019-autoimmune-pancreatitis]] |
 | 🔒 [Okazaki K et al. International consensus for the treatment of autoimmune pancreatitis. *Pancreatology* 2017;17:1–6](https://doi.org/10.1016/j.pan.2016.12.003) | steroid agent, induction dose, taper, reassessment interval, immunomodulator / rituximab regimens | [[autoimmune-pancreatitis]], [[aga-2019-autoimmune-pancreatitis]] |

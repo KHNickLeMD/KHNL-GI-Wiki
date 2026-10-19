@@ -3,11 +3,11 @@ title: "Eluxadoline"
 category: med
 tags: [ibs, ibs-d, mu-opioid-agonist, delta-opioid-antagonist, viberzi]
 created: 2026-07-26
-updated: 2026-09-29
+updated: 2026-10-19
 sources: [aga-2022-ibs-d, acg-2020-ibs, aga-2017-opioids-in-gastroenterology]
 ---
 
-Minimally absorbed, **peripherally acting mixed μ-/κ-opioid receptor agonist and δ-opioid receptor antagonist** — the δ-antagonism is designed to reduce constipation and increase analgesic potency vs a pure μ-agonist. FDA-approved for [[irritable-bowel-syndrome|diarrhea-predominant irritable bowel syndrome (IBS-D)]]. Both the [[aga-2022-ibs-d|American Gastroenterological Association (AGA) 2022]] and [[acg-2020-ibs|American College of Gastroenterology (ACG) 2020]] guidelines **suggest** it (conditional recommendation, **moderate** certainty). [[aga-2022-ibs-d]]
+Minimally absorbed, **peripherally acting mixed μ-/κ-opioid receptor agonist and δ-opioid receptor antagonist** — the δ-antagonism is designed to reduce constipation and increase analgesic potency vs a pure μ-agonist. US Food and Drug Administration (FDA)-approved for [[irritable-bowel-syndrome|diarrhea-predominant irritable bowel syndrome (IBS-D)]]. Both the [[aga-2022-ibs-d|American Gastroenterological Association (AGA) 2022]] and [[acg-2020-ibs|American College of Gastroenterology (ACG) 2020]] guidelines **suggest** it (conditional recommendation, **moderate** certainty). [[aga-2022-ibs-d]]
 
 ## Dosing
 - **100 mg orally (PO) twice daily (BID)** — standard/generally recommended dose. [[aga-2022-ibs-d]]

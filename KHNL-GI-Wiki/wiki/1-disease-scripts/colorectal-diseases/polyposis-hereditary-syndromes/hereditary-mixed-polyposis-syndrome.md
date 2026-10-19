@@ -3,7 +3,7 @@ title: "Hereditary Mixed Polyposis Syndrome (HMPS)"
 category: disease-script
 tags: [hmps, grem1, mixed-polyposis, hereditary-crc, colorectal-cancer, polyposis, genetic-testing]
 created: 2026-08-27
-updated: 2026-09-01
+updated: 2026-10-19
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -28,14 +28,8 @@ sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 
 **Defining polyp spectrum — the mix is the diagnosis:**
 
-| Polyp type found in HMPS |
-|---|
-| **Mixed juvenile–adenomatous** polyps (the characteristic admixed lesion) |
-| Adenomatous |
-| Hyperplastic |
-| Serrated adenomas |
-| Mixed hyperplastic–adenomatous |
-| Adenocarcinoma |
+- **The characteristic lesion: a single polyp with an admixture of histologies** — adenomatous, hyperplastic, juvenile, mixed (described as mixed juvenile–adenomatous, and as mixed with features of adenoma, hyperplastic and inflammatory polyps)
+- Plus, across the kindred: adenomatous, hyperplastic, serrated adenomas, mixed hyperplastic–adenomatous polyps, and adenocarcinoma
 
 **Genetics** [[acg-2015-hereditary-gi-cancer]] [[aga-2022-hamartomatous-polyposis]]:
 
@@ -46,7 +40,8 @@ sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 
 ### Severity Assessment
 
-> **Not answerable from the guidelines.** Neither [[acg-2015-hereditary-gi-cancer|American College of Gastroenterology (ACG) 2015]] nor [[aga-2022-hamartomatous-polyposis|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2022]] gives a lifetime CRC risk figure, a penetrance estimate, or an extraintestinal cancer risk for HMPS: *"There are not enough data to know the optimal surveillance intervals or whether extraintestinal neoplasia is a risk."*
+- **Colon is the only organ listed at risk.** [[aga-2022-hamartomatous-polyposis|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2022]] grades the colorectal risk only as **"increased"** against a 4.3% general-population lifetime colon cancer risk — no penetrance figure, no lifetime risk percentage, no youngest age of onset
+- **Whether extraintestinal neoplasia is a risk is unknown** — there are not enough data, and no extraintestinal surveillance protocol is given by [[acg-2015-hereditary-gi-cancer|American College of Gastroenterology (ACG) 2015]] either
 
 ---
 
@@ -58,7 +53,7 @@ sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 - **[[serrated-polyposis-syndrome]]** — same two-way misdiagnosis risk; serrated polyposis syndrome (SPS) is defined by serrated polyp count/distribution ([[serrated-polyposis-syndrome|World Health Organization (WHO) criteria]]) without the admixed juvenile–adenomatous lesion
 - **[[familial-adenomatous-polyposis|familial adenomatous polyposis (FAP)]] / attenuated FAP (AFAP)** — purely adenomatous; APC
 - **[[mutyh-associated-polyposis]]** — recessive; adenomas ± serrated polyps; MUTYH
-- **[[lynch-syndrome]]** — few polyps, MMR deficiency; relevant because the *GREM1* duplication is found in a small fraction of Ashkenazi kindreds **meeting Lynch clinical criteria** with no MMR variant
+- **[[lynch-syndrome]]** — few polyps, mismatch repair (MMR) deficiency; relevant because the *GREM1* duplication is found in a small fraction of Ashkenazi kindreds **meeting Lynch clinical criteria** with no MMR variant
 
 ---
 
@@ -66,15 +61,15 @@ sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 
 - **[[colonoscopy]] with [[polypectomy]] and histology** of multiple polyps — the diagnosis is suggested when **more than one polyp histology** occurs in the same patient/kindred
 - **Genetic testing for *GREM1* mutation and expression** *may be considered* in families with **adenomatous and hamartomatous polyposis in which an etiology cannot be determined** [[acg-2015-hereditary-gi-cancer]]
-- No tumour molecular test distinguishes HMPS; no extraintestinal screening protocol is defined
+- Neither guideline defines a tumour molecular test for HMPS or an extraintestinal screening protocol
 
 ---
 
 ## Therapeutics
 
 - **Begin colonoscopic surveillance in the late 20s** — the age at which polyposis begins in the largest series [[aga-2022-hamartomatous-polyposis]]
-- **Optimal surveillance interval is unknown** (explicitly stated by the source) — do not quote one
-- Management "from what is now known should probably be **similar to that for [[familial-adenomatous-polyposis|FAP]]**, depending on polyp number, size, and histology" [[acg-2015-hereditary-gi-cancer]] — i.e. endoscopic clearance while feasible, colectomy when the polyp burden is no longer endoscopically controllable or cancer/high-grade dysplasia appears
+- **Optimal surveillance interval is unknown** — there are not enough data to set one
+- Management "from what is now known should probably be **similar to that for [[familial-adenomatous-polyposis|FAP]]**, depending on polyp number, size, and histology" [[acg-2015-hereditary-gi-cancer]] — see that page for the polyp-burden thresholds that drive endoscopic clearance vs colectomy
 
 ---
 

@@ -3,7 +3,7 @@ title: "Corticosteroids in IBD (systemic, budesonide CIR, budesonide MMX)"
 category: med
 tags: [ibd, crohns-disease, ulcerative-colitis, corticosteroids, budesonide, prednisone, methylprednisolone, hydrocortisone, induction, steroid-dependence, autoimmune-hepatitis]
 created: 2026-09-20
-updated: 2026-10-04
+updated: 2026-10-19
 sources: [acg-2025-crohns, acg-2025-uc, acg-2018-crohns, acg-2019-uc, acg-2025-ibd-preventive-care, aasld-2020-autoimmune-hepatitis]
 ---
 
@@ -49,7 +49,7 @@ Corticosteroids in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)
 | **Rec 6** — **Against budesonide for maintenance** of remission in ileocecal CD | Strong | Low |
 | **Rec 7** — **Oral corticosteroids for short-term induction** in **moderate–severe** CD | Strong | Low |
 | **Rec 9** — [[thiopurines\|azathioprine (AZA)/6-mercaptopurine (6-MP)]] for **maintenance after steroid induction** | Conditional | Low |
-| **Rec 11** — Methotrexate **≤25 mg subcutaneously (SQ)/intramuscularly (IM) weekly** for maintenance after steroid induction | Conditional | Moderate |
+| **Rec 11** — [[methotrexate\|Methotrexate]] **≤25 mg subcutaneously (SQ)/intramuscularly (IM) weekly** for maintenance after steroid induction | Conditional | Moderate |
 
 **[[acg-2018-crohns|ACG 2018]] adds (older guideline, non-conflicting):**
 

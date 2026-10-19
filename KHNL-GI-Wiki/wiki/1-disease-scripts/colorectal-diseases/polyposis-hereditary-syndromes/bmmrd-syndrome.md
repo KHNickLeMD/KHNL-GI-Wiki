@@ -3,7 +3,7 @@ title: "Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome"
 category: disease-script
 tags: [bmmrd, cmmrd, mismatch-repair, hereditary-crc, colorectal-cancer, brain-tumor, lymphoma, pediatric-cancer, genetic-testing, mmr, cafe-au-lait, pms2, msh6, mlh1, msh2]
 created: 2026-05-24
-updated: 2026-09-01
+updated: 2026-10-19
 sources: [usmstf-2017-bmmrd]
 ---
 
@@ -47,8 +47,10 @@ Unlike [[lynch-syndrome]], which is caused by monoallelic MMR mutations and requ
 - Any cancer with abnormal MMR protein immunohistochemistry (IHC) in normal AND tumor tissue (see Diagnostics)
 - History of brain cancer, lymphoma, or leukemia without prior radiation
 - Any child or adult with a hypermutated tumor
+- Colon cancer + café-au-lait macules presumed to be FAP with **no APC mutation found** — re-evaluate for BMMRD
+- Early-onset uterine cancer — examine for café-au-lait macules
 
-> **No formal scoring system is given here.** The list above is [[usmstf-2017-bmmrd|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2017]] Table 2, which is **unweighted and unscored**. The guideline states that "diagnostic criteria are proposed for the evaluation of a child or young adult cancer patient based on the phenotypic presentation" and **cites** the European consortium *Care for CMMRD* (C4CMMRD) weighted scoring system (Wimmer *et al.*, *J Med Genet* 2014) — but never reproduces it. For the point values and score threshold, see the C4CMMRD paper (Wimmer *et al.*, *J Med Genet* 2014). Diagnosis in any case **requires confirmation of biallelic deleterious germline MMR mutations**.
+The list above is [[usmstf-2017-bmmrd|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2017]] Table 2 — clues to raise suspicion, **unweighted and unscored**. USMSTF 2017 cites the European consortium *Care for CMMRD* (C4CMMRD) diagnostic criteria but does not reproduce their point values or score threshold. Diagnosis in any case **requires confirmation of biallelic deleterious germline MMR mutations**.
 
 ### Severity Assessment
 
@@ -79,7 +81,7 @@ BMMRD is characterized by three major tumor domains, all with childhood onset [[
 
 **Other tumors**: endometrial cancer (<10% penetrance; age 19–44) and urinary tract cancer (<10%; age 10–22). "Other sites" (<10%; age range 1–35 y) are those with **fewer than 5 reported cases each**: neuroblastoma, Wilms tumor, rhabdomyosarcoma, osteosarcoma, breast cancer, melanoma, ovarian neuroectodermal tumor, pilomatricoma, and [[hepatocellular-adenoma|hepatic adenoma]].
 
-The rate of adenoma-to-cancer progression in BMMRD is the most rapid of any inherited colorectal cancer syndrome — BMMRD tumours acquire early somatic mutations in the polymerase proofreading genes **POLE and POLD1**, which on top of the underlying MMR defect produce **ultra-hypermutated** tumours with a massive substitution burden. Left-sided CRC predominates (in contrast to the right-sided predominance in LS), probably reflecting the preponderance of PMS2 genotypes. Colonic adenomatous **oligo**polyposis is typically diagnosed between ages 5 and 10, which can be mistaken for [[familial-adenomatous-polyposis|FAP]].
+The rate of adenoma-to-cancer progression in BMMRD is the most rapid of any inherited colorectal cancer syndrome — BMMRD tumours acquire early somatic mutations in the polymerase proofreading genes **POLE and POLD1**, which on top of the underlying MMR defect produce **ultra-hypermutated** tumours with a massive substitution burden. More than half of BMMRD colorectal cancers are pediatric-onset. Left-sided CRC predominates (in contrast to the right-sided predominance in LS), probably reflecting the preponderance of PMS2 genotypes. Colonic adenomatous **oligo**polyposis is typically diagnosed between ages 5 and 10, which can be mistaken for [[familial-adenomatous-polyposis|FAP]]. Small-bowel adenomas appear later — typically in the second decade.
 
 Synchronous and metachronous gastrointestinal (GI) cancers are frequent:
 
@@ -92,11 +94,11 @@ Synchronous and metachronous gastrointestinal (GI) cancers are frequent:
 
 BMMRD is classified by the causative gene (all autosomal recessive):
 
-- **PMS2**: most common BMMRD genotype; low heterozygous penetrance means parents are often undiagnosed LS carriers; 20 pseudogenes complicate molecular testing
-- **MSH6**: also over-represented in BMMRD; later-onset LS in heterozygous parents
+- **PMS2**: most common BMMRD genotype; low heterozygous penetrance means parents are often undiagnosed LS carriers
+- **MSH6**: also over-represented in BMMRD; later-onset LS in heterozygous parents — the child usually develops neoplasia before either parent
 - **MLH1** and **MSH2**: biallelic mutations are *under*-represented in BMMRD relative to their dominance in LS
 
-> **Open question, not an established fact** — [[usmstf-2017-bmmrd|USMSTF 2017]] lists the reason for the PMS2/MSH6 skew as unresolved and poses two candidate explanations: biallelic *MSH2* and *MLH1* mutations may be **embryonic lethal**, *or* the population prevalence of low-penetrance PMS2/MSH6 mutations may simply be much higher than appreciated. The guideline does not settle it.
+Why PMS2 and MSH6 predominate is unresolved: biallelic *MSH2* and *MLH1* mutations may be embryonic lethal, or low-penetrance PMS2/MSH6 mutations may simply be far more prevalent than appreciated.
 
 ---
 
@@ -121,14 +123,13 @@ In BMMRD, **all tissues lack MMR protein expression**, unlike in LS where MMR pr
 
 - Standard tumor IHC will show MMR protein loss — but this pattern alone cannot distinguish BMMRD from LS
 - The **diagnostic clue is MMR protein loss in normal (non-neoplastic) tissue** alongside tumor tissue — a pattern not seen in LS, and one pathologists may misread because they expect full protein expression in non-neoplastic cells
-- **Some BMMRD cancers fail to show MSI** on standard testing — the reason is unresolved and is listed by the guideline as an open research question, so a negative MSI result does not exclude BMMRD
+- **Some BMMRD cancers fail to show MSI** on standard testing — the reason is unknown, so a negative MSI result does not exclude BMMRD
 - Because family history is usually non-contributory, [[usmstf-2017-bmmrd|USMSTF 2017]] considers it reasonable to perform **universal IHC + MSI testing on all small- and large-bowel cancers in children**
-- Diagnosis **requires confirmation of biallelic deleterious germline MMR mutations**
 
 ### Germline Testing
 
-- Sequencing and deletion/duplication analysis of all four MMR genes (MLH1, MSH2, MSH6, PMS2) — biallelic mutations must be confirmed (both alleles affected)
-- PMS2 testing requires specialized assays designed to distinguish true PMS2 from its 20 pseudogenes
+- Sequencing and deletion/duplication analysis of all four MMR genes (MLH1, MSH2, MSH6, PMS2) — **biallelic** mutations must be confirmed, and confirming the two variants sit on separate alleles can be difficult (homozygous and compound-heterozygous patients both occur)
+- PMS2 testing requires specialized assays designed to distinguish true PMS2 from its pseudogenes
 - Variants of unknown significance (VUS) are common in MMR genes — functional assays (lymphocyte tolerance to methylating agents, mutation signatures) may be needed
 - Parental testing confirms both parents are obligate heterozygous LS carriers
 
@@ -141,11 +142,13 @@ In BMMRD, **all tissues lack MMR protein expression**, unlike in LS where MMR pr
 
 ### Other Tests
 
-- **complete blood count (CBC) with differential**: hematologic malignancy screening (q6 months from age 1)
-- **Brain magnetic resonance imaging (MRI)**: high-grade glioma screening (q6 months from age 2)
-- **[[upper-endoscopy|Upper endoscopy]] and video [[capsule-endoscopy|capsule endoscopy]] (VCE)**: small-bowel cancer surveillance (annually from age 8); **hemoglobin every 6 months, also from age 8**
-- **Urinalysis**: urinary tract cancer (annually from age 10); MRI an alternative
-- **transvaginal ultrasound (TVUS) + pelvic exam + endometrial sampling**: endometrial cancer (annually from age 20)
+*Modality and purpose below; ages and intervals in the surveillance table under Therapeutics.*
+
+- **complete blood count (CBC) with differential**: leukemia/lymphoma screening — no surveillance modality has been proven for either
+- **Brain magnetic resonance imaging (MRI)**: high-grade glioma and other central nervous system tumor screening; surveillance MRI has found asymptomatic resectable tumors. Emerging MRI phenotype: agenesis of the corpus callosum, vascular changes, gray-matter heterotopias
+- **[[upper-endoscopy|Upper endoscopy]] and video [[capsule-endoscopy|capsule endoscopy]] (VCE)**: small-bowel cancer surveillance, with hemoglobin monitoring. VCE and magnetic resonance enterography are the modalities used; VCE sensitivity for small-bowel polyps in BMMRD has not been evaluated
+- **Urinalysis**: urinary tract cancer; MRI an alternative. Urine cytology is of no value for screening high-risk individuals
+- **transvaginal ultrasound (TVUS) + pelvic exam + endometrial sampling**: endometrial cancer (women)
 
 ---
 
@@ -153,52 +156,55 @@ In BMMRD, **all tissues lack MMR protein expression**, unlike in LS where MMR pr
 
 ### Surveillance Protocol
 
-All surveillance recommendations are **weak, low to very low quality evidence** given absence of controlled trials [[usmstf-2017-bmmrd]]:
+No controlled trials exist, so every recommendation is weak [[usmstf-2017-bmmrd]]:
 
-| Intervention | Recommendation | Alternative |
-|---|---|---|
-| [[colonoscopy\|Colonoscopy]] | Annually beginning at age 6; every 6 months once polyps identified | — |
-| [[upper-endoscopy\|Upper endoscopy]] + VCE | Annually beginning at age 8 (plus hemoglobin q6 mo from age 8) | — |
-| Brain MRI | Every 6 months beginning at age 2 | Head ultrasound **from 6 months** until fusion of the fontanel |
-| CBC | Every 6 months beginning at age 1 | Optional abdominal ultrasound q6 mo **from age 1** (European Consortium) |
-| TVUS + pelvic exam + endometrial sampling | Annually beginning at age 20 (women) | — |
-| Urinalysis | Annually beginning at age 10 | MRI |
-| Total-body MRI | Uncertain; not yet recommended | — |
-| Hepatic adenoma surveillance | Not recommended (only 3 reported patients) | — |
+| Intervention | Recommendation | Alternative | Strength / evidence |
+|---|---|---|---|
+| [[colonoscopy\|Colonoscopy]] | Annually beginning at age 6; every 6 months once polyps identified | — | Weak, low |
+| [[upper-endoscopy\|Upper endoscopy]] + VCE | Annually beginning at age 8 (plus hemoglobin q6 mo from age 8) | — | Weak, very low |
+| Brain MRI | Every 6 months beginning at age 2 | Head ultrasound **from 6 months** until fusion of the fontanel | Weak, low |
+| CBC | Every 6 months beginning at age 1 | Optional abdominal ultrasound q6 mo **from age 1** (European Consortium) | Weak, very low |
+| TVUS + pelvic exam + endometrial sampling | Annually beginning at age 20 (women) | — | Weak, very low |
+| Urinalysis | Annually beginning at age 10 | MRI | Weak, very low |
+| Total-body MRI | Uncertain; not yet recommended | — | — |
+| Hepatic adenoma surveillance | Not recommended (only 3 reported patients) | — | Weak, very low |
 
 **Where the two consortia differ** — [[usmstf-2017-bmmrd|USMSTF 2017]] adopts the earlier start age in each case:
 
 | Item | International BMMRD Consortium | European Consortium Care for CMMRD | USMSTF 2017 |
 |---|---|---|---|
 | [[colonoscopy\|Colonoscopy]] start | Age **6** | Age **8** | **Age 6**, annually |
+| [[upper-endoscopy\|Upper endoscopy]] + VCE start | Age **8** | Age **10** | **Age 8**, annually |
 | Urinalysis start | Age **10** | Age **20** | **Age 10**, annually |
 
-- Brain MRI (q6 mo from age 2), upper endoscopy + VCE (annual from age 8), and endometrial surveillance (annual from age 20) are **concordant** across both consortia
+- Brain MRI (q6 mo from age 2) and endometrial surveillance (annual from age 20) are **concordant** across both consortia
 - Recognise [[hepatocellular-adenoma|hepatic adenoma]] so it is not misread as metastatic disease — use abdominal MRI to distinguish; hepatic adenomatosis with nodules up to 5 cm occurs, natural history unknown
 
 ### Surgical Management of Colorectal Neoplasia
 
-- **Total or subtotal colectomy with ileorectal anastomosis (IRA)**: preferred approach for CRC or colonic polyps with high-grade dysplasia, or when polyp burden is too great for endoscopic control [[usmstf-2017-bmmrd]]
+- **Assess the entire GI tract for synchronous tumors before settling on a treatment plan** [[usmstf-2017-bmmrd]]
+- **Total or subtotal colectomy with ileorectal anastomosis (IRA)**: preferred approach for CRC or colonic polyps with high-grade dysplasia, or when polyp burden is too great for endoscopic control
 - **Proctocolectomy with ileal pouch-anal anastomosis (IPAA)**: may be necessary for rectal cancer
 - **Close rectal surveillance every 6–12 months** after IRA is essential given the high rate of metachronous rectal cancer
-- Small-bowel resection is treatment of choice for small-bowel cancers amenable to resection; survival is favorable for localized tumors
+- **Remove small-bowel polyps** when found
+- Small-bowel resection is treatment of choice for small-bowel cancers amenable to resection; survival is favorable for localized tumors. Continue aggressive small-bowel surveillance after resection — the metachronous GI tumor rate is extremely high
 
 ### Chemoprevention
 
 - **Aspirin**: [[usmstf-2017-bmmrd|USMSTF 2017]] cites the LS aspirin data — **600 mg/day**, and those who took it **for at least 2 years** had a **>60% reduction in CRC incidence** (median age of treated patients 45; no excess aspirin-related toxicity vs placebo). Whether any benefit carries over to BMMRD is **unknown** — the biology differs — and the guideline proposes a controlled prevention trial rather than recommending aspirin
-  - **Contradiction with [[lynch-syndrome]] (surfaced):** that page reports the same CAPP2 trial from [[acg-2015-hereditary-gi-cancer|American College of Gastroenterology (ACG) 2015]] as **intention-to-treat (ITT) hazard ratio (HR) 0.63 (95% confidence interval (CI) 0.35–1.13, P=0.12) — not significant for CRC alone**. The ">60%" figure is the ≥2-years-of-aspirin analysis; the HR 0.63 is ITT. Both are faithful to their source; the two guidelines quote different analyses of one trial, and neither recommends routine aspirin
-- **Dose, optimal agent, and starting age in BMMRD are all listed by the guideline as open research questions.** No established chemoprevention regimen specific to BMMRD at this time
+  - Other guidelines read the same trial differently (the >60% figure is the ≥2-years-of-aspirin analysis, not the intention-to-treat result) — the Lynch syndrome page sets the analyses side by side. None recommends routine aspirin
+- **Dose, optimal agent, and starting age in BMMRD are unknown.** No established chemoprevention regimen specific to BMMRD at this time
 
 ### Immunotherapy Considerations
 
 - BMMRD tumors are ultra-hypermutated, making them potential candidates for immune checkpoint inhibition
-- **Pembrolizumab** (anti-PD-1): approved for microsatellite instability-high (MSI-H)/deficient MMR (dMMR) tumors; showed 78% clinical improvement in patients with MSI CRC; not yet formally evaluated in BMMRD
+- **Pembrolizumab** (anti–programmed death-1 (PD-1) antibody): improved clinical outcome in 78% of patients with microsatellite instability-high (MSI-H)/deficient MMR (dMMR) CRC; **no benefit in CRC without MSI**; not yet systematically applied to BMMRD
 - Note: BMMRD tumors may not be identified as MSI-H by standard testing — alternative molecular characterization (e.g., tumor mutational burden, IHC) may be needed to establish immunotherapy eligibility
 - Frameshift peptide vaccination (explored in LS) has not yet been applied to BMMRD
 
 ### Genetic Counseling
 
-- Both parents of a BMMRD proband are obligate LS carriers — they should follow LS surveillance guidelines regardless of personal cancer history [[usmstf-2017-bmmrd]]
+- Both parents of a BMMRD proband are obligate LS carriers — screening for LS-associated cancers is recommended in them and in at-risk first-degree relatives, following the LS guidelines, regardless of personal cancer history *(weak recommendation, moderate-quality evidence)* [[usmstf-2017-bmmrd]]
 - Siblings of the proband may have **BMMRD, Lynch syndrome, or neither** — germline testing is required to determine which surveillance protocol applies (they differ in both the type of screening and the age to start)
 - Small family sizes, parental consanguinity, and low-penetrance heterozygous mutations (especially PMS2) may make the syndrome appear sporadic
 - Prenatal and preimplantation genetic diagnosis options should be discussed given the severity of the syndrome

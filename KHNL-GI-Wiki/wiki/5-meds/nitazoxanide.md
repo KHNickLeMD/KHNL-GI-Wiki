@@ -3,7 +3,7 @@ title: "Nitazoxanide"
 category: med
 tags: [nitazoxanide, antiparasitic, antiprotozoal, cryptosporidium, giardia, cyclospora, cystoisospora]
 created: 2026-07-07
-updated: 2026-09-03
+updated: 2026-10-19
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -20,7 +20,7 @@ Role assignments below are [[idsa-2017-infectious-diarrhea]] Table 6 (Recommende
 | Pathogen | Nitazoxanide's role | Comparators / qualifiers |
 |---|---|---|
 | ***Cryptosporidium*** ([[cryptosporidiosis]]) | **First choice** — in human immunodeficiency virus (HIV)-uninfected hosts, and in HIV-infected hosts **only in combination with effective combination antiretroviral therapy (cART)** | Alternative is effective cART alone: immune reconstitution may itself produce microbiologic and clinical response |
-| ***Giardia lamblia*** ([[giardiasis]]) | **First choice**, alongside tinidazole | Metronidazole is the *alternative* (high gastrointestinal [GI] side-effect rate; not FDA-approved for giardiasis). The Infectious Diseases Society of America's (IDSA's) giardiasis choices are based on data from HIV-uninfected **children** |
+| ***Giardia lamblia*** ([[giardiasis]]) | **First choice**, alongside tinidazole | Metronidazole is the *alternative* (high gastrointestinal [GI] side-effect rate; not Food and Drug Administration (FDA)-approved for giardiasis). The Infectious Diseases Society of America's (IDSA's) giardiasis choices are based on data from HIV-uninfected **children** |
 | *Cyclospora cayetanensis* | **Alternative** — limited data | Trimethoprim-sulfamethoxazole (TMP-SMX) is first choice; HIV-infected patients may need higher doses / longer TMP-SMX courses |
 | *Cystoisospora belli* | **Potential second-line alternative** (with ciprofloxacin) | TMP-SMX first choice; pyrimethamine the alternative |
 

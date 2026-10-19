@@ -3,7 +3,7 @@ title: "Nonselective Beta-Blockers (NSBBs)"
 category: med
 tags: [nsbb, carvedilol, propranolol, nadolol, portal-hypertension, csph, cirrhosis, varices, variceal-bleeding, decompensation, cacld]
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-19
 sources: [asge-2026-esophageal-gastric-varices, aasld-2023-portal-hypertension, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -50,14 +50,14 @@ The extra α-1 blockade is why carvedilol produces a **markedly greater [[hepati
 
 ### Step 1 — Establish CSPH
 
-**CSPH = clinically significant portal hypertension = [[hepatic-venous-pressure-gradient\|HVPG]] ≥10 mm Hg** ([[aasld-2023-portal-hypertension]] GS 4; [[baveno-vii-2022-portal-hypertension]] 1.10). Both guidelines treat non-invasive testing — not the catheter — as the working route.
+**CSPH = [[hepatic-venous-pressure-gradient\|HVPG]] ≥10 mm Hg** ([[aasld-2023-portal-hypertension]] GS 4; [[baveno-vii-2022-portal-hypertension]] 1.10). Both guidelines treat non-invasive testing — not the catheter — as the working route.
 
 **Any one of these establishes CSPH without HVPG:**
 
 | Route | Criterion | Source |
 |---|---|---|
 | Clinical/endoscopic | Clinical decompensation, **gastro-oesophageal varices at endoscopy**, or portosystemic collaterals / hepatofugal flow on imaging | [[aasld-2023-portal-hypertension]] GS 6 |
-| Predictive model | **ANTICIPATE** (or **ANTICIPATE-NASH** if metabolic dysfunction-associated steatotic liver disease (MASLD) + body mass index (BMI) ≥30 kg/m²) or **NICER** estimated CSPH probability **≥75%** | [[baveno-viii-2026-portal-hypertension]] 1.16a |
+| Predictive model | **ANTICIPATE** (or **ANTICIPATE-NASH** if [[nafld-masld\|metabolic dysfunction-associated steatotic liver disease (MASLD)]] + body mass index (BMI) ≥30 kg/m²) or **NICER** estimated CSPH probability **≥75%** | [[baveno-viii-2026-portal-hypertension]] 1.16a |
 | [[liver-stiffness-measurement\|Liver stiffness]] | **Liver stiffness measurement (LSM) ≥25 kPa** — in virus- and/or alcohol-related compensated advanced chronic liver disease (cACLD) and **non-obese (BMI <30 kg/m²)** MASLD-related cACLD | [[baveno-viii-2026-portal-hypertension]] 1.16b |
 | Spleen stiffness | **Spleen stiffness measurement (SSM; 100 Hz probe) >55 kPa** — aetiology-agnostic | [[baveno-viii-2026-portal-hypertension]] 1.16c |
 
@@ -124,11 +124,11 @@ All doses below are from [[aasld-2023-portal-hypertension]] (Table 3 and GS 2). 
 ### Titration targets and their qualifiers
 
 - **Heart rate 55–60 bpm applies to propranolol and nadolol only, and only "if tolerated."** Carvedilol has **no heart rate target** — do not titrate carvedilol to pulse.
-- **Systolic blood pressure (BP) ≥90 mm Hg is the floor for all three agents.** It is a floor to *maintain*, not a target to reach.
+- **SBP ≥90 mm Hg is the floor for all three agents.** It is a floor to *maintain*, not a target to reach.
 - **The maximum dose halves in the presence of ascites** for both conventional agents (propranolol 320 → 160 mg/day; nadolol 160 → 80 mg/day). Carvedilol's cap does not change with ascites.
 - **Maintenance is indefinite** — or until [[tips\|TIPS]] or [[liver-transplantation\|liver transplant]].
-- ⚠ **[[asge-2026-esophageal-gastric-varices|ASGE 2026]] adds a mean arterial pressure (MAP) floor the AASLD table omits: titrate upward as blood pressure allows, keeping SBP >90 mm Hg *and* MAP >65 mm Hg.** It also gives a **lower alternative starting dose — 3.125 mg twice daily, or 6.25 mg daily** — and states the cap as **12.5 mg per day for this indication**, raisable only if a **nonhepatic** reason justifies it. The contrast it draws is the useful part: other beta-blockers are titrated to a resting heart rate of **55–60 beats/min**; carvedilol is titrated to **blood pressure**.
-- ⚠ **Whether endoscopy continues on therapy is genuinely disputed, and it is a decision.** [[aasld-2023-portal-hypertension]] finds no indication for routine upper endoscopy while on NSBB therapy. **[[asge-2026-esophageal-gastric-varices|ASGE 2026]] pairs carvedilol with surveillance endoscopy at least every 12 months** in compensated advanced chronic liver disease (cACLD) with clinically significant portal hypertension (CSPH) — and the pairing is not decorative: in the two newer randomized controlled trials (RCTs) that produced carvedilol's decompensation and mortality benefit, **patients also underwent surveillance endoscopy at 6- to 12-month intervals with [[endoscopic-band-ligation|band ligation]] if high-risk varices appeared, and 16%–20% of patients on carvedilol developed high-risk varices and required banding.** The benefit was demonstrated *with* surveillance, not instead of it. ASGE is the newer tier-1 source and states a number, so the page carries **endoscopy at least every 12 months**; do not quote the carvedilol recommendation without it.
+- ⚠ **[[asge-2026-esophageal-gastric-varices|ASGE 2026]] adds a mean arterial pressure (MAP) floor the AASLD table omits: titrate upward as blood pressure (BP) allows, keeping SBP >90 mm Hg *and* MAP >65 mm Hg.** It also gives a **lower alternative starting dose — 3.125 mg twice daily, or 6.25 mg daily** — and states the cap as **12.5 mg per day for this indication**, raisable only if a **nonhepatic** reason justifies it. The contrast it draws is the useful part: other beta-blockers are titrated to a resting heart rate of **55–60 beats/min**; carvedilol is titrated to **blood pressure**.
+- ⚠ **Whether endoscopy continues on therapy is genuinely disputed, and it is a decision.** [[aasld-2023-portal-hypertension]] finds no indication for routine [[upper-endoscopy|upper endoscopy]] while on NSBB therapy. **[[asge-2026-esophageal-gastric-varices|ASGE 2026]] pairs carvedilol with surveillance endoscopy at least every 12 months** in cACLD with CSPH — and the pairing is not decorative: in the two newer randomized controlled trials (RCTs) that produced carvedilol's decompensation and mortality benefit, **patients also underwent surveillance endoscopy at 6- to 12-month intervals with [[endoscopic-band-ligation|band ligation]] if high-risk varices appeared, and 16%–20% of patients on carvedilol developed high-risk varices and required banding.** The benefit was demonstrated *with* surveillance, not instead of it. ASGE is the newer tier-1 source and states a number, so the page carries **endoscopy at least every 12 months**; do not quote the carvedilol recommendation without it.
 
 ### Carvedilol — the up-titration in words
 
@@ -167,12 +167,12 @@ Why:
 |---|---|
 | Asthma | Psoriasis |
 | **2nd- and 3rd-degree atrioventricular block** (in absence of an implanted pacemaker) | Peripheral arterial disease |
-| Sick sinus syndrome | Chronic obstructive pulmonary disease |
+| Sick sinus syndrome | Chronic obstructive pulmonary disease (COPD) |
 | **Extreme bradycardia (<50 bpm)** | Pulmonary artery hypertension (controversial) |
 | | Insulin-dependent diabetes mellitus (interferes with symptoms of hypoglycaemia) |
 | | Raynaud syndrome |
 
-**[[asge-2026-esophageal-gastric-varices|ASGE 2026]] gives a shorter list with different numbers, undivided into absolute and relative** — carvedilol and other NSBBs are contraindicated in **hypotension (SBP <90 mm Hg)**, **severe asthma**, **severe chronic obstructive pulmonary disease**, **acute kidney injury**, and **bradycardia (resting heart rate <55 beats/min)**.
+**[[asge-2026-esophageal-gastric-varices|ASGE 2026]] gives a shorter list with different numbers, undivided into absolute and relative** — carvedilol and other NSBBs are contraindicated in **hypotension (SBP <90 mm Hg)**, **severe asthma**, **severe COPD**, **acute kidney injury**, and **bradycardia (resting heart rate <55 beats/min)**.
 
 - ⚠ **The bradycardia cut-point differs: ASGE says <55 bpm, AASLD says <50 bpm.** ASGE is the newer tier-1 source, but the higher threshold is also the more conservative one; it is the number a patient already on a conventional NSBB is being titrated *toward* (55–60 bpm), so apply it as the floor for starting rather than as a reason to stop an established, tolerated regimen.
 - ASGE adds **hypotension and acute kidney injury** as contraindications, which the AASLD box does not list, and demotes plain COPD to **severe** COPD. It also notes patients may simply be **unable to tolerate dizziness and fatigue**.
@@ -223,7 +223,7 @@ The trial behind "treat CSPH, not varices" ([[aasld-2023-portal-hypertension]]):
 - **201 patients**, compensated cirrhosis, **HVPG-confirmed CSPH**, **without high-risk varices**; beta-blocker (propranolol or carvedilol, assigned by acute haemodynamic response to propranolol) vs placebo.
 - Titrated to tolerance, **pulse ≥55 bpm and SBP ≥90 mm Hg**, planned upper limits **160 mg propranolol / 25 mg carvedilol**. **Mean achieved doses: 95 mg/day propranolol, 19 mg/day carvedilol.**
 - At 2 years: decompensation **HR 0.51 (95% CI 0.26–0.97)**, predominantly by preventing ascites.
-- Caveats the guideline attaches: all participants had HVPG-confirmed CSPH (none selected non-invasively); most had untreated hepatitis C predating all-oral direct-acting antivirals (DAAs); ongoing alcohol use was not assessed.
+- Caveats the guideline attaches: all participants had HVPG-confirmed CSPH (none selected non-invasively); most had untreated [[hepatitis-c|hepatitis C]] predating all-oral [[direct-acting-antivirals|direct-acting antivirals (DAAs)]]; ongoing alcohol use was not assessed.
 
 **HVPG response** — a decrease of **≥10% from baseline, or to ≤12 mm Hg** after chronic treatment — is the haemodynamic definition of a responder, though neither current guideline requires measuring it to prescribe.
 

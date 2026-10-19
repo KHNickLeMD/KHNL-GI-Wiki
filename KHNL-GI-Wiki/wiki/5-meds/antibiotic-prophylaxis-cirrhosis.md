@@ -3,7 +3,7 @@ title: "Antibiotic Prophylaxis in Cirrhosis (GI Bleeding)"
 category: med
 tags: [cirrhosis, antibiotic-prophylaxis, ceftriaxone, norfloxacin, variceal-bleeding, sbp-prevention]
 created: 2026-05-15
-updated: 2026-10-16
+updated: 2026-10-19
 sources: [asge-2026-esophageal-gastric-varices, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2021-ascites-sbp-hrs, asge-2015-antibiotic-prophylaxis, albhaisi-2025-prophylactic-antibiotics-cirrhosis]
 ---
 
@@ -36,7 +36,7 @@ Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-ble
 
 | Position | Duration | Basis |
 |---|---|---|
-| [[aasld-2023-portal-hypertension\|AASLD 2023]] (governs) | **2–5 days**, or until discharge-stable, whichever is shorter | Guidance statement 27 |
+| [[aasld-2023-portal-hypertension\|AASLD 2023]] (governs) | **2–5 days**, or until discharge-stable, whichever is shorter | GS 27 |
 | [[aasld-2021-ascites-sbp-hrs\|AASLD 2021]] | Until hemorrhage resolved **and vasoactive drugs discontinued**; the supporting meta-analysis used 5–7 d | Narrative |
 | [[albhaisi-2025-prophylactic-antibiotics-cirrhosis\|Prosty 2025]] (randomized controlled trial [RCT]-tier) | 2–3 d likely non-inferior to 5–7 d for mortality | Bayesian meta-analysis |
 
@@ -48,7 +48,7 @@ Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-ble
 
 **[[asge-2026-esophageal-gastric-varices|ASGE 2026]] still suggests prophylaxis, but only conditionally and on very low certainty, and it rests the recommendation on *infection*, not survival.** The 2025 meta-analysis it assessed (15 RCTs, 1322 patients, 1995–2023):
 
-| Outcome | Data | Risk difference | 95% CI | Certainty | Judgment |
+| Outcome | Data | Risk difference | 95% confidence interval (CI) | Certainty | Judgment |
 |---|---|---|---|---|---|
 | **Bacterial infection** | 12 RCT | **18.8** | 8.6–29.4 | Very low | **Prophylaxis** |
 | All-cause mortality | 12 RCT | 2.1 | −1.9 to 6.6 | Low | Neither |

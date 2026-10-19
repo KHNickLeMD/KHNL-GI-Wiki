@@ -6,6 +6,44 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-19] lint | HHT 2020 and the London Classification — two declared decision gaps close
+
+**Entry opened before any other edit** (per LINT → *Record as you go*).
+
+**New arrivals:** none. `git status --porcelain -uall` empty at session start; no untracked files under `raw/`, nothing to commit as an arrival.
+
+**Daily source fetch:** **not run — out of scope for this pass.** The fetch is the 06:00 server-cron step and runs only when its prompt says so; this prompt did not. No `needed-sources.md` row was tried, nothing marked 🔒, nothing added to `/repo/.fetch-manual.md`.
+
+**Ingest check — 6 uningested tier-1/tier-2 files, plus 8 byte-identical duplicate filenames.** Both ingest slots went to the two files that close decision gaps the clinical pages themselves declare open in prose.
+
+**Sources created:**
+
+- `wiki/sources/hht-2020-second-international-guidelines.md` — Faughnan et al., *Ann Intern Med* 2020;173:989–1001. All **56** recommendations captured: 36 new (epistaxis A1–A6, GI bleeding B1–B6, anemia/anticoagulation C1–C6, liver VMs D1–D6, pediatric E1–E6, pregnancy F1–F6) plus the 20 carried forward unreassessed from the First Guidelines (A7–A10, D7–D8, G1–G5, H1–H4, I1–I5). ⚠ **The document uses two rating vocabularies and they are not interchangeable** — new recommendations carry *Quality of evidence* + *Strength*; carried-forward ones carry *Level of evidence* I/II/III + *Strength*. Lettering is the document's own.
+
+**Pages updated:**
+
+- [[hereditary-hemorrhagic-telangiectasia]] — **both gaps the page declared open in its own prose are now addressed.** (1) *GI bleeding*: the page previously said the guideline gives "no endoscopic or pharmacologic management algorithm specific to HHT-related GI bleeding"; it now carries the EGD-first-line/colonoscopy/capsule sequence (B1–B2), the ***SMAD4*-HHT colonoscopy schedule** (start 15 y, q3y if no polyps, annually with EGD if polyps), the **B3 mild/moderate/severe severity framework keyed to iron requirement** — which is what selects antifibrinolytics (mild) vs IV bevacizumab (moderate–severe) — the sparing-APC rule with its 1–3 mm nonbleeding-lesion target, and the C1–C6 iron/transfusion/anticoagulation set (oral iron 35–65 mg daily, the <10 g/L inadequate-response rule, 1 g total IV dose, DOACs less well tolerated than heparins/VKA, avoid dual antiplatelet + anticoagulant). (2) *Diagnosis*: G1–G5 supply the decision rule and the genetic-testing pathway. Also added D2/D5/D6/D8 to the liver sections and the **<3 Woods units** pulmonary-vascular-resistance threshold permitting transplantation despite pulmonary hypertension.
+
+**Contradiction surfaced, deliberately NOT collapsed:**
+
+- **Liver VM screening in the asymptomatic patient.** [[acg-2020-hepatic-mesenteric-circulation]] recommends **against** routine screening (strong, low); [[hht-2020-second-international-guidelines]] **D1 offers** it (weak, low). Both are tier-1 and **both published in 2020** — ACG *Am J Gastroenterol* 2020;115:18–40, HHT *Ann Intern Med* 2020;173:989–1001 — so neither supersedes the other by publication date. Carried side by side on the entity page with HHT's own two hedges noted (rationale is partly diagnostic confirmation, not hard outcomes; the "screen" may be clinical where Doppler is unavailable). **Do not silently resolve this to one position on a future pass.** Second, narrower disagreement: HHT D8 avoids hepatic artery embolization in *any* patient with liver VMs, where ACG proscribes it only with biliary disease or portal hypertension — both stated.
+
+**Decision gap only PARTLY closed — the Curaçao criteria are still not in the corpus:**
+
+- The guideline **diagnoses HHT by the Curaçao criteria (G1) and asks clinicians to consider HHT with ≥1 criterion (G2), but prints the four criteria only in its Supplement 1**, which is not part of the file in `raw/`. The page states this plainly for the reader and does **not** supply the criteria from memory. Added a `needed-sources.md` row for the primary paper (Shovlin et al., *Am J Med Genet* 2000;91:66–7, PMID 10751092 — PMID taken from this guideline's own reference list).
+
+**Hygiene / whole-wiki checks:**
+
+- Unescaped alias pipes in table cells: **0**. `.DS_Store` and other OS artifacts: **none**. Stub pages (`*Stub — to be expanded.*`): **none anywhere in `wiki/`**.
+- **Stub-expansion step did nothing — nothing qualified.** There are no stubs left in the wiki.
+- **Daily source fetch: not run** — it is the 06:00 cron step and runs only when its prompt says so; this prompt did not.
+
+**Duplicate filenames in `raw/GI Guidelines/Other/` — 8 files, byte-identical to files already ingested.** `md5sum` shows pairs: `2026 Rome V Criteria` = `Rome Foundation 2026 Rome V Criteria`; `2021 Chicago Classification v4.0 - …` = `Chicago Classification 2021 v4.0 …`; `2018 Tokyo Guidelines on Cholangitis ` = `Tokyo Guidelines 2018 Acute Cholangitis`; `2025 Padova Consensus - HRM…` = `Padova Consensus 2025 HRM…`; `2025 San Diego Consensus - LPR` = `San Diego Consensus 2025 Laryngopharyngeal Reflux`; `2024 Lyon Consensus 2.0…` = `Lyon Consensus 2024 2.0…`; `2025 Dallas Consensus EndoFLIP` = `Dallas Consensus 2025 EndoFLIP`; `Delphi Consensus 2026 EUS-guided…` = `International Expert Delphi Consensus on …`. **These are re-downloads under the fetch script's naming convention, not new documents — they inflate any filename-based uningested count.** Not deleted (`raw/` is immutable); recorded here so the next pass does not treat them as 8 uningested files.
+
+**Uningested backlog after this pass (verified file-by-file against `wiki/sources/`, not token-matched):** `Tokyo Guidelines 2018 Antimicrobial Therapy (Gomi)`, `Tokyo Guidelines 2018 Gallbladder Drainage (Mori)`, `Cotton Consensus`, `I-SEE 2022 EoE Clinical Severity Index Consensus (Dellon)` — plus the tier-2 score papers `Darwish Murad 2004 Rotterdam`, `De Martin 2021 SURFASA`, `Mehta 2017 RETREAT`, `Stapfer 2000 Duodenal Perforation`, and the still-broken `IANS 2024 Anal Cancer Screening Consensus.pdf`. The 60 gated lecture/chalk-talk transcripts were **not** touched — lectures are never auto-ingested.
+
+---
+
 ## [2026-10-18] lint | Tokyo Guidelines 2018 criteria papers ingested — the cholangitis and cholecystitis grading gaps close
 
 **⚠ The pass stopped before it closed this entry** (cron committed the tree as `9d0fc9b`, 13:10 UTC). Everything below the *Both ingest slots* line was reconstructed afterwards from that commit's diff, in a manual `update` session the same day, and the bookkeeping the pass left undone was completed then (see *Completed after the run*). Cause of the stop is not visible from the container — the cron output lives on the host.
