@@ -57,7 +57,7 @@ Framework for the **esophageal manifestations of systemic autoimmune, eosinophil
 | **MCTD** | **Both striated and smooth** | Overlap syndrome (features of SSc, systemic lupus erythematosus [SLE], polymyositis, and/or rheumatoid arthritis); can resemble SSc; manifests **proximally and distally**; involvement may be **more variable and less severe than SSc** |
 | **Sjögren's** | Secretory (sicca) dysfunction from lacrimal/salivary gland destruction, plus dysmotility | Extraglandular manifestations common — up to **80%** report dysphagia |
 | **SLE** | Dysmotility, mechanism unclear | Variable findings on objective testing |
-| **Myositis** — polymyositis, dermatomyositis, inclusion body myositis | **Proximal striated muscle**, with the **cricopharyngeus (CP)** often involved | **30–80%** experience dysphagia; CP-directed endoscopic therapy — **dilation, botulinum toxin injection, or myotomy** — often has an important role |
+| **Myositis** — polymyositis, dermatomyositis, inclusion body myositis | **Proximal striated muscle**, with the **cricopharyngeus (CP)** often involved | **30–80%** experience dysphagia; CP-directed endoscopic therapy — **dilation, [[botulinum-toxin\|botulinum toxin]] injection, or myotomy** — often has an important role |
 
 - Literature on the esophageal manifestations of MCTD, Sjögren's, SLE, and myositis is sparse compared with SSc.
 

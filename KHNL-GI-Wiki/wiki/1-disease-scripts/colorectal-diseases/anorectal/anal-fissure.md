@@ -107,7 +107,7 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-
 
 **Recurrence after topical therapy** *(head-to-head trial)*: **nifedipine 12%**, **nitroglycerine 32%**, **placebo 50%** — the durability gap, not the healing rate, is the main argument for CCB first.
 
-**Botulinum toxin A injection (Conditional recommendation / low quality, [[acg-2021-anorectal-disorders]] Table 9 — after CCB failure):**
+**[[botulinum-toxin|Botulinum toxin]] A injection (Conditional recommendation / low quality, [[acg-2021-anorectal-disorders]] Table 9 — after CCB failure):**
 
 - **5–100 units** injected into the internal anal sphincter. **No consensus on dosage, precise site of administration, or number of injections** — and there is **little evidence that efficacy is dose-related**, or that dose relates to incontinence risk. One described technique: palpate the internal anal sphincter and inject a **total of 20 U through a 27-gauge needle in divided doses on either side of the fissure**. [[asge-2010-anorectal-disorders]]
 - Healing: **60–80%**, higher than placebo (reported range across series **37–92%**). Cochrane counters that it is only **marginally better than placebo**.

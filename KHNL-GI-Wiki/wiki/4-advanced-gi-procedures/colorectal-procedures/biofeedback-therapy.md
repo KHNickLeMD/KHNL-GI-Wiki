@@ -88,7 +88,7 @@ See [[chronic-idiopathic-constipation]] for the full refractory pathway.
 - Availability of trained therapists and manometric equipment limits delivery; galvanic stimulation is the named fallback for levator syndrome only, and was **less effective than biofeedback but superior to conservative treatment**.
 - **Predictors of poor response (FI):** short-term memory loss from dementia, depression, and central nervous system (CNS) etiologies (spinal cord or head injury). The course requires a motivated patient, reinforcement over time, and a skilled therapist.
 - In FI trials, biofeedback was **not superior to conservative measures / pelvic floor exercises alone or to education** — a likely explanation is that trial patients had not first been treated with conservative measures. Labor intensive and highly expertise-dependent.
-- **Not recommended** for dyssynergia: botulinum toxin (poor evidence, short-lived, impractical long-term).
+- **Not recommended** for dyssynergia: [[botulinum-toxin|botulinum toxin]] (poor evidence, short-lived, impractical long-term).
 - **[[sacral-nerve-stimulation|Sacral nerve stimulation (SNS)]] is not recommended for constipation** (no benefit in RCTs) — biofeedback does not compete with SNS in this indication.
 
 ---

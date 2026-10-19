@@ -85,7 +85,7 @@ Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pa
 
 **Not recommended:**
 
-- Botulinum toxin injection: insufficient evidence; no RCT data in levator syndrome
+- [[botulinum-toxin|Botulinum toxin]] injection: insufficient evidence; no RCT data in levator syndrome
 - Digital rectal massage: no evidence
 
 **Idiopathic chronic proctalgia / Rome V F2b unexplained anorectal pain (no levator tenderness):**

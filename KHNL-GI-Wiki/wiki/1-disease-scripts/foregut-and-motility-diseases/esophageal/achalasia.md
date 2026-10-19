@@ -221,12 +221,11 @@ flowchart TD
 
 ### Botulinum Toxin Injection
 
-- 100 U injected above SCJ in 0.5–1 mL aliquots using sclerotherapy needle
-- Symptom relief: 78.7% at 30 days → 70% at 3 months → 53% at 6 months → **40.6% at 12 months**
-- Short-lived; 46.6% require additional injections; 30% need more definitive therapy
-- Previous botulinum toxin (BT) does not significantly affect POEM outcomes but may increase fibrosis risk with LHM (conflicting data)
-
 > **Recommendation:** Botulinum toxin is first-line therapy only for patients **unfit for definitive therapy**. (Strong; Moderate evidence)
+
+- **Short-lived — relief falls to 40.6% by 12 months**, and 30% go on to need definitive therapy anyway. That decay is why it is restricted to the unfit.
+- Previous botulinum toxin does not significantly affect POEM outcomes but may increase fibrosis risk with LHM (conflicting data).
+- Dose, injection technique, the full relief-over-time table, the head-to-head comparison with PD, and the FLIP predictor of response live on [[botulinum-toxin]].
 
 ### Pharmacotherapy
 

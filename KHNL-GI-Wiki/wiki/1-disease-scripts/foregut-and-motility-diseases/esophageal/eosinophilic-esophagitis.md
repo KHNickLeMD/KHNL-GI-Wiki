@@ -3,8 +3,8 @@ title: "Eosinophilic Esophagitis"
 category: disease-script
 tags: [eoe, esophageal, dysphagia, food-impaction, eosinophil, atopic, biologic, dupilumab]
 created: 2026-05-07
-updated: 2026-10-04
-sources: [acg-2025-eoe, aga-2020-eoe, acg-2013-eoe, aga-2024-esophageal-immunity-infection, asge-2011-foreign-body-ingestion]
+updated: 2026-10-19
+sources: [acg-2025-eoe, aga-2020-eoe, acg-2013-eoe, aga-2024-esophageal-immunity-infection, asge-2011-foreign-body-ingestion, i-see-2022-eoe-severity-index]
 ---
 
 Eosinophilic esophagitis (EoE): chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal symptoms + eosinophilic inflammation confined to the esophagus. Food antigen-driven in most; part of the atopic march.
@@ -13,6 +13,7 @@ Eosinophilic esophagitis (EoE): chronic, immune/antigen-mediated esophageal dise
 - [[#Assessment]]
   - [[#Establishing the Diagnosis]]
   - [[#Severity Assessment]]
+    - [[#I-SEE scoring]]
   - [[#Classification / Typing]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
@@ -81,9 +82,41 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 
 - **Peak eosinophil count must be quantified, not just reported as ">15 eos/hpf"** — the number is needed to gauge treatment effect (200 → 150 is no meaningful response; 200 → 20 is). But the count does **not** scale with clinical severity: a patient with 200 eos/hpf is not twice as severe as one with 100.
 - **Report other histologic features** alongside the count — basal zone hyperplasia, dilated intercellular spaces, lamina propria fibrosis — which can indicate ongoing activity despite a low eosinophil count.
-- **I-SEE (Index of Severity in EoE):** ACG 2025 advises providers **could consider** using I-SEE to assess baseline severity; it is developed but still undergoing validation, and its role in matching severity to treatment/monitoring is an explicit knowledge gap.
+- **I-SEE (Index of Severity for Eosinophilic Esophagitis):** ACG 2025 advises providers **could consider** using I-SEE to assess baseline severity; it is developed but still undergoing validation, and its role in matching severity to treatment/monitoring is an explicit knowledge gap. The index itself is defined in [[i-see-2022-eoe-severity-index]] and scored below.
 
-*The I-SEE components and point values are not reproduced in [[acg-2025-eoe]]; see the original index paper (Dellon ES, Khoury P, Muir AB, et al. A clinical severity index for EoE, 2022) to score.*
+#### I-SEE scoring
+
+Assess at initial diagnosis and **at every subsequent visit, with the recall covering only the interval since the last visit**. Select the box the patient fits in each row; **where a box lists more than one element, each selected element scores.** Scoring presupposes the diagnosis (isolated esophageal eosinophilia ≥15 eos/hpf, other etiologies excluded). ([[i-see-2022-eoe-severity-index]])
+
+| Domain / feature | 1 point | 2 points | 4 points | 15 points |
+|---|---|---|---|---|
+| **Symptoms** | Weekly | Daily | Multiple times per day **or** disrupting social functioning | — |
+| **Complications** | — | Food impaction with emergency-room visit or endoscopy (*≥18 years*) | • Food impaction with emergency-room visit or endoscopy (*<18 years*)<br/>• Hospitalization due to EoE | • Esophageal perforation<br/>• Malnutrition with body mass <5th percentile or decreased growth trajectory<br/>• Persistent inflammation requiring elemental formula, systemic corticosteroid, or immunomodulatory treatment |
+| **Inflammatory — endoscopy** (edema, furrows and/or exudates) | Localized | Diffuse | — | — |
+| **Inflammatory — histology** | 15–60 eos/hpf | >60 eos/hpf | — | — |
+| **Fibrostenotic — endoscopy** (rings, strictures) | Present, endoscope passes easily | Present, but requires dilation **or** a snug fit passing a standard endoscope | — | Cannot pass a standard upper endoscope; repeated dilations (*adult ≥18 years*); **or any dilation** (*child <18 years*) |
+| **Fibrostenotic — histology** | — | Basal zone hyperplasia (BZH) **or** lamina propria fibrosis (LPF) — or dyskeratotic epithelial cells (DEC) / surface epithelial alteration (SEA) if no lamina propria | — | — |
+
+**Bands: <1 inactive · 1–6 mild active · 7–14 moderate active · ≥15 severe active.**
+
+Scoring rules that decide the box:
+
+- **A single 15-point box makes the patient severe** regardless of the rest of the index.
+- **"Snug fit" means a 10–14 mm endoscope** in the esophagus. Diameter may instead be established by balloon-sizing, dilation effect, or barium esophagram.
+- **After any esophageal dilation, dysphagia and food impaction can no longer be reliably assessed** — which is why dilation history, not symptom report, carries the fibrostenotic weight.
+- **Any dilation in a child or adolescent scores 15**; in an adult only *repeated* dilations do.
+- **Food impaction scores higher in children** (4 points) than adults (2 points) — impactions are less common in children and may mark early-onset fibrostenosis.
+- **Social disruption is a 4-point symptom**: missed work or school, fear of eating in public, social isolation.
+- **Score the worst overall finding for the esophagus** on endoscopy; if a stricture is present, estimate the diameter. **Immunomodulatory** treatment includes biologics, azathioprine/6-mercaptopurine, and other immune-targeted agents.
+- **If lamina propria is absent or crushed, DEC/SEA substitute for LPF** — but they predict the *presence*, not the severity, of fibrosis.
+
+Worked examples from the index paper: a 12-year-old with daily abdominal pain, localized inflammatory endoscopy and 45 eos/hpf scores **4 (mild)**; a 17-year-old with symptoms multiple times daily causing social isolation, diffuse inflammation, 100 eos/hpf, rings the scope passes easily and BZH + LPF scores **11 (moderate)**; a 32-year-old with daily dysphagia, two food-impaction emergency visits, diffuse inflammation, 35 eos/hpf, BZH and a stricture that will not admit a standard endoscope scores **24 (severe)**. ([[i-see-2022-eoe-severity-index]])
+
+**Reading the histology section of I-SEE** — the index paper's five sequential questions: (1) Is BZH exceeding one-third of total epithelial thickness present? (2) Is lamina propria present and not crushed? *If yes → answer question 3 only; if no → skip 3 and answer 4 and 5.* (3) Is any lamina propria fibrosis present? (4) Is surface epithelial alteration present, with or without admixed eosinophils, attached or partially/completely detached? (5) Are dyskeratotic epithelial cells present? ([[i-see-2022-eoe-severity-index]])
+
+**What I-SEE does not do:** it classifies, but **attaches no treatment to any band** — linking severity to therapy and monitoring is named as a future goal, and the index is explicitly unvalidated. Domain weighting, the mild/moderate and moderate/severe boundaries, and whether children and adults need separate indices are all open. ([[i-see-2022-eoe-severity-index]])
+
+*Luminal-diameter ranges were discussed at the consensus conference (normal ≥20 mm, mildly decreased 15–19 mm, moderate 10–14 mm, severe 5–9 mm, critical <5 mm) but deliberately left out of the index in favour of the three endoscope-passage categories.*
 
 **Fibrostenotic phenotype:** rings + strictures; transmural inflammation + fibrosis; requires dilation in addition to medical therapy. Endoscopy badly underestimates stricture severity — esophagram (and [[flip-panometry|functional lumen imaging probe (EndoFLIP)]]) are more accurate; the sensitivity data are under Adjunct: Esophageal Dilation.
 
@@ -310,3 +343,4 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 3. [[acg-2013-eoe|ACG 2013: Esophageal Eosinophilia and Eosinophilic Esophagitis (historical)]]
 4. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
 5. [[asge-2011-foreign-body-ingestion|ASGE Guideline: Management of Ingested Foreign Bodies and Food Impactions (2011)]]
+6. [[i-see-2022-eoe-severity-index|A Clinical Severity Index for Eosinophilic Esophagitis: Development, Consensus, and Future Directions (I-SEE, 2022)]]

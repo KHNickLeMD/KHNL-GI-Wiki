@@ -72,7 +72,7 @@ EGJOO is associated with a multitude of alternative causes that must be excluded
 ## Therapeutics
 
 - **First, exhaust less invasive options** — many cases are self-limited, artifactual, or explained by a mimic.
-- **Medical therapy, botulinum toxin injection, endoscopic dilation** — try before any myotomy.
+- **Medical therapy, [[botulinum-toxin|botulinum toxin]] injection, endoscopic dilation** — try before any myotomy.
 - **[[poem|per-oral endoscopic myotomy (POEM)]]:** evidence limited; consider **only case-by-case in very selected patients** after less invasive approaches are exhausted and symptomatic obstruction is confirmed. Long-term success for POEM in EGJOO ~**80–85%** (lower than for classic [[achalasia]] subtypes); studies limited by disease rarity ([[aga-2024-poem-advances|American Gastroenterological Association (AGA) 2024]] Best Practice Advice (BPA) 3).
 - **Lower esophageal sphincter obstruction meeting CCv4.0 EGJOO criteria must be addressed before [[antireflux-surgery|antireflux surgery (ARS)]]** (**86% agreement**, [[padova-2025-hrm-antireflux|Padova consensus]]) — evaluate with confirmatory testing first and act only if obstruction is definitively identified; the full pre-ARS motor-disorder framework is on [[hrm-antireflux-surgery]].
 

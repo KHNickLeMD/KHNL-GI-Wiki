@@ -29,7 +29,7 @@ Three prevalent, often-overlapping symptoms; when frequent/severe enough to impa
   - **Gastric belching** — physiologic: transient lower esophageal sphincter (TLES) relaxation → gastric air vented; often associated with [[gerd|gastroesophageal reflux disease (GERD)]].
   - **Supragastric belching** — a *learned behavior*: air sucked/injected into esophagus and immediately expelled, independent of peristalsis; associated with anxiety; **stops during sleep, distraction, or speaking**.
   - **Aerophagia** — excess air swallowing → air reaches intestine/colon → bloating and flatulence (not belching predominant).
-  - **Inability to belch syndrome** — the mirror-image complaint, and a **new Rome V diagnosis (B3c)**. Also called retrograde cricopharyngeal dysfunction; common in practice with a variable presentation. The diagnosis **can be confirmed by esophageal impedance manometry with sparkling-water provocation**, and successful treatment with **botulinum toxin injection into the upper esophageal sphincter (UES)** has been demonstrated [[rome-v-2026-dgbi]].
+  - **Inability to belch syndrome** — the mirror-image complaint, and a **new Rome V diagnosis (B3c)**. Also called retrograde cricopharyngeal dysfunction; common in practice with a variable presentation. The diagnosis **can be confirmed by esophageal impedance manometry with sparkling-water provocation**, and successful treatment with **[[botulinum-toxin|botulinum toxin]] injection into the upper esophageal sphincter (UES)** has been demonstrated [[rome-v-2026-dgbi]].
 - **Abdominal bloating** — *subjective* sensation of fullness, trapped gas, or tightness in any abdominal region.
 - **Abdominal distention** — *objective, visible* increase in abdominal girth ("like being pregnant").
 

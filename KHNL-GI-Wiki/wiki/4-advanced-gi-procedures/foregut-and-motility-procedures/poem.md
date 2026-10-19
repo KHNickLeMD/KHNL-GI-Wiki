@@ -40,7 +40,7 @@ Peroral endoscopic myotomy (POEM): endoscopic myotomy of the lower esophageal sp
 | [[achalasia\|Achalasia]] type I & II | One of three effective options (POEM, [[heller-myotomy\|laparoscopic Heller myotomy (LHM)]], [[pneumatic-dilation\|pneumatic dilation]]); choose by shared decision making, patient/disease characteristics, preferences, local expertise (AGA 2024 BPA 2) |
 | Achalasia type III (spastic) | **Preferred treatment** — POEM allows tailored, unlimited proximal myotomy to cover the spastic segment (AGA 2024 BPA 2) |
 | [[esophagogastric-junction-outflow-obstruction\|EGJ outflow obstruction (EGJOO)]] alone | Case-by-case only, after less invasive options exhausted; long-term success ~80–85% (lower than classic achalasia) (AGA 2024 BPA 3) |
-| Nonachalasia spastic disorders ([[distal-esophageal-spasm\|distal esophageal spasm (DES)]], [[hypercontractile-esophagus\|hypercontractile esophagus]]) | Case-by-case only, after medical therapy / botulinum toxin / dilation exhausted (AGA 2024 BPA 3) |
+| Nonachalasia spastic disorders ([[distal-esophageal-spasm\|distal esophageal spasm (DES)]], [[hypercontractile-esophagus\|hypercontractile esophagus]]) | Case-by-case only, after medical therapy / [[botulinum-toxin\|botulinum toxin]] / dilation exhausted (AGA 2024 BPA 3) |
 
 - POEM is **superior to pneumatic dilation and noninferior to [[heller-myotomy|LHM]]** in separate multicenter randomized controlled trials (RCTs).
 - EGJOO is a **manometric finding, not a diagnosis** — must exclude mimics ([[obesity]], [[hiatal-hernia|hiatal hernia]], [[gerd|gastroesophageal reflux disease (GERD)]], external compression, [[subepithelial-lesion|submucosal mass]], opiates, artifact) and confirm symptomatic delayed emptying before intervention.

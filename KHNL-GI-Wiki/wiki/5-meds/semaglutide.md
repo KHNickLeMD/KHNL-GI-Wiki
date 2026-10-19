@@ -3,7 +3,7 @@ title: "Semaglutide (Wegovy, Ozempic, Rybelsus)"
 category: med
 tags: [semaglutide, wegovy, ozempic, glp-1, glp1-ra, mash, masld, obesity, diabetes, t2dm, cardiovascular, ckd, weight-loss, essence-trial, select-trial, step-trials, hpb]
 created: 2026-05-25
-updated: 2026-09-01
+updated: 2026-10-19
 sources: [aasld-2025-semaglutide-mash, aga-2022-obesity-pharm, hendershot-2025-semaglutide-aud, aga-2024-glp1-endoscopy]
 ---
 
@@ -27,7 +27,7 @@ sources: [aasld-2025-semaglutide-mash, aga-2022-obesity-pharm, hendershot-2025-s
 
 Semaglutide is a [[glp-1-receptor-agonists|glucagon-like peptide-1 receptor agonist (GLP-1 RA)]] — a long-acting analogue of human GLP-1 that incorporates structural modifications to slow dipeptidyl peptidase-4 (DPP-4) cleavage and prolong receptor activation. It shares 94% sequence homology with human GLP-1 and has a half-life of ~5–7 days, enabling once-weekly subcutaneous dosing. [[aasld-2025-semaglutide-mash]]
 
-**Formulations and FDA-approved indications:**
+**Formulations and US Food and Drug Administration (FDA)-approved indications:**
 
 | Brand | Route | Dose | Approved Indications |
 |---|---|---|---|

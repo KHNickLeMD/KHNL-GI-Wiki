@@ -3,7 +3,7 @@ title: "Tegaserod"
 category: med
 tags: [ibs, ibs-c, 5-ht4-agonist, serotonin]
 created: 2026-07-26
-updated: 2026-09-01
+updated: 2026-10-19
 sources: [acg-2020-ibs, aga-2022-ibs-c]
 ---
 
@@ -27,7 +27,7 @@ The two societies gate tegaserod differently — and **the American College of G
 | Source | Eligible population | Grade |
 |---|---|---|
 | [[acg-2020-ibs\|ACG 2020]] (Rec 18) | **Women <65 y with ≤1 cardiovascular risk factor** who have **not adequately responded to secretagogues** ([[linaclotide]], [[plecanatide]], [[lubiprostone]]) | **Conditional, low quality of evidence** |
-| [[aga-2022-ibs-c\|AGA 2022]] | Women <65 y **without a history of cardiovascular (CV) ischemic events** (myocardial infarction [MI], stroke, transient ischemic attack [TIA], or angina) — the FDA limited-reapproval wording; **no risk-factor count** | Conditional, moderate certainty |
+| [[aga-2022-ibs-c\|AGA 2022]] | Women <65 y **without a history of cardiovascular (CV) ischemic events** (myocardial infarction [MI], stroke, transient ischemic attack [TIA], or angina) — the US Food and Drug Administration (FDA) limited-reapproval wording; **no risk-factor count** | Conditional, moderate certainty |
 
 - **Two separate gates, both must clear under ACG:** no prior CV ischemic event **and** ≤1 CV risk factor. AGA states only the first; ACG adds the second and makes ≥2 risk factors an outright contraindication (see below).
 - **Cardiovascular risk factors** that define the count ([[aga-2022-ibs-c]]): hypertension, tobacco use, diabetes, hypercholesterolemia, **age ≥55 y**, [[obesity]]. ACG defines its own list in its Supplemental Table 2; the list above is AGA's.
@@ -42,11 +42,11 @@ The two societies gate tegaserod differently — and **the American College of G
 
 ## Dosing
 - **6 mg twice daily** — the currently approved dose ([[acg-2020-ibs|ACG 2020]]; [[aga-2022-ibs-c|AGA 2022]]).
-- **2 mg b.i.d. was also studied and is not the recommended dose:** at 12 weeks only the 6 mg arm showed improvement in individual symptoms of pain/discomfort; 9 of the 11 trials in the Ford meta-analysis used 6 mg b.i.d. ([[acg-2020-ibs]]).
+- **2 mg twice daily was also studied and is not the recommended dose:** at 12 weeks only the 6 mg arm showed improvement in individual symptoms of pain/discomfort; 9 of the 11 trials in the Ford meta-analysis used 6 mg twice daily ([[acg-2020-ibs]]).
 - **Duration:** the pivotal and pooled randomized controlled trials (RCTs) ran **12 weeks**; neither guideline sets a stopping rule.
 
 ## Efficacy
-- Evidence: **4 phase-3, 12-week RCTs** (Rome I IBS-C). AGA analysis limited to **women on 6 mg twice daily (BID) (n=1450) vs placebo (n=1433)** ([[aga-2022-ibs-c|AGA 2022]]).
+- Evidence: **4 phase-3, 12-week RCTs** (Rome I IBS-C). AGA analysis limited to **women on 6 mg twice daily (n=1450) vs placebo (n=1433)** ([[aga-2022-ibs-c|AGA 2022]]).
 
 | Outcome | Tegaserod vs Placebo | Relative Risk (RR; 95% confidence interval [CI]) |
 |---|---|---|

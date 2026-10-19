@@ -108,7 +108,7 @@ Rates depend entirely on **how GERD is defined** — symptoms, endoscopy, or pH 
 - Reflux rates, LES pressures, and quality-of-life scores did **not** differ between LHM and PD.
 - **Serious mucosal injury favors LHM:** major inadvertent mucosal tears requiring intervention at LHM were significantly *lower* than esophageal perforations requiring medical/endoscopic/surgical therapy after PD — **RR 0.25 (95% CI 0.08–0.81), P=.02**.
 - **LHM vs POEM** (Awaiz meta-analysis, 7 trials / 483 patients — LHM 250, POEM 233, [[asge-2020-achalasia]]): no difference in adverse events (OR 1.25), GERD (OR 1.27), length of stay, postoperative pain, or long-term GERD; procedure time longer for LHM (NS). **Short-term clinical treatment failure was higher with LHM — 13% vs 0.85% (OR 9.82, 95% CI 2.06–46.80, P<.01).** Both are acceptable first-line therapies.
-- **Botulinum toxin** is not a comparator for surgical candidates — reserved for patients unfit for definitive therapy (*Recommend against* as definitive therapy, [[asge-2020-achalasia]]).
+- **[[botulinum-toxin|Botulinum toxin]]** is not a comparator for surgical candidates — reserved for patients unfit for definitive therapy (*Recommend against* as definitive therapy, [[asge-2020-achalasia]]).
 
 ## Adverse Events
 

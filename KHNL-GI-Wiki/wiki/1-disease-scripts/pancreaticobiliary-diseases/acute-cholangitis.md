@@ -3,8 +3,8 @@ title: "Acute Cholangitis"
 category: disease-script
 tags: [cholangitis, biliary-infection, tokyo-guidelines, severity-grading, biliary-drainage, ercp, choledocholithiasis, sepsis]
 created: 2026-08-25
-updated: 2026-10-18
-sources: [tg18-2018-cholangitis-criteria, tg18-2018-cholangitis-flowchart, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, asge-2019-choledocholithiasis]
+updated: 2026-10-19
+sources: [tg18-2018-cholangitis-criteria, tg18-2018-antimicrobial-therapy, tg18-2018-cholangitis-flowchart, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, asge-2019-choledocholithiasis]
 ---
 
 # Acute Cholangitis
@@ -19,6 +19,7 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 - [[#Diagnostics]]
 - [[#Therapeutics]]
   - [[#Initial Treatment — All Grades]]
+  - [[#Antimicrobial Therapy]]
   - [[#Biliary Drainage — Timing]]
   - [[#Grade-Specific Management]]
   - [[#Treating the Underlying Cause]]
@@ -156,12 +157,55 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 ### Initial Treatment — All Grades
 
 - **Sufficient intravenous (IV) fluids, antibiotics, and analgesia**, monitoring BP, heart rate, and urine volume. **In shock, start before the definitive diagnosis.** ([[tg18-2018-cholangitis-flowchart]])
-  - *Drainage and antibiotics are the two pillars of treatment*, but the TG18 flowchart article defers all agent choice, dose, and duration to its companion paper — **Gomi H. *TG18: Antimicrobial therapy for acute cholangitis and cholecystitis*, J Hepatobiliary Pancreat Sci 2018** — and [[asge-2021-cholangitis]] does not give a regimen either.
+  - *Drainage and antibiotics are the two pillars of treatment.* The TG18 flowchart article defers all agent choice and duration to its companion paper, [[tg18-2018-antimicrobial-therapy]], and [[asge-2021-cholangitis]] gives no regimen; the regimen section below is from that companion paper.
 - **When acute cholecystitis coexists** (it sometimes does), decide the strategy on the **severity of both diseases plus the patient's general status** — not on the cholangitis grade alone. ([[tg18-2018-cholangitis-flowchart]])
 - **Fast the patient in principle**, so emergency drainage can proceed immediately. *(No high-quality evidence either way.)*
 - **Give analgesia proactively and early.** A randomized controlled trial (RCT) of IV morphine vs placebo in emergency room (ER) abdominal pain found **no difference in diagnostic accuracy** — fear of masking physical signs should not delay it.
   - ⚠ **Caution:** opioids (morphine, pentazocine, and similar non-opioids) **contract the sphincter of Oddi** and may raise biliary pressure.
 - **Escalate to emergency drainage** with organ support if the patient deteriorates: shock (hypotension), disturbance of consciousness, acute dyspnea, acute renal dysfunction, hepatic dysfunction, or disseminated intravascular coagulation (DIC) (falling platelet count).
+
+### Antimicrobial Therapy
+
+**When to give the first dose:** ([[tg18-2018-antimicrobial-therapy]])
+
+- **Septic shock → within 1 hour of recognition.**
+- **Otherwise within 6 hours of diagnosis** — as long as 6 h may be spent on definitive diagnostic studies first.
+- **Always before any drainage procedure**, endoscopic, percutaneous or operative.
+
+**Empiric agents by severity and setting** (TG18 Table 3; "healthcare-associated" applies to all grades): ([[tg18-2018-antimicrobial-therapy]])
+
+| Class | Community-acquired **Grade I** | Community-acquired **Grade II** | Community-acquired **Grade III** | **Healthcare-associated** |
+|---|---|---|---|---|
+| **Penicillin** | Ampicillin/sulbactam — **not recommended where the resistance rate is >20%** | Piperacillin/tazobactam | Piperacillin/tazobactam | Piperacillin/tazobactam |
+| **Cephalosporin** | Cefazolin, cefotiam, cefuroxime, ceftriaxone, cefotaxime ± metronidazole; cefmetazole, cefoxitin, flomoxef, cefoperazone/sulbactam | Ceftriaxone, cefotaxime, cefepime, cefozopran, ceftazidime ± metronidazole; cefoperazone/sulbactam | Cefepime, ceftazidime, cefozopran ± metronidazole | Cefepime, ceftazidime, cefozopran ± metronidazole |
+| **Carbapenem** | Ertapenem | Ertapenem | Imipenem/cilastatin, meropenem, doripenem, ertapenem | Imipenem/cilastatin, meropenem, doripenem, ertapenem |
+| **Monobactam** | — | — | Aztreonam ± metronidazole | Aztreonam ± metronidazole |
+| **Fluoroquinolone** | Ciprofloxacin, levofloxacin, pazufloxacin ± metronidazole; moxifloxacin | Same as Grade I | — | — |
+
+**The rules that override the table:** ([[tg18-2018-antimicrobial-therapy]])
+
+- **Local antibiogram beats the table.** Cover a resistant organism empirically once it exceeds roughly **10–20% of community isolates**; TG18 recommends empiric coverage of resistant isolates occurring in **>20% of patients**.
+- **Fluoroquinolones only if the susceptibility of the cultured isolate is known**, or as the alternative in β-lactam allergy — Gram-negative resistance is rising significantly.
+- **Ampicillin/sulbactam is not empiric therapy where local susceptibility is <80%** (its activity against *Escherichia coli* has fallen); it is reasonable as **definitive** therapy once susceptibility is proven.
+- **Add anti-anaerobic cover (metronidazole, tinidazole or clindamycin) if a biliary-enteric anastomosis is present** (Recommendation 2, level C). The carbapenems, piperacillin/tazobactam, ampicillin/sulbactam, cefmetazole, cefoxitin, flomoxef and cefoperazone/sulbactam already carry it. **Clindamycin and cefoxitin are no longer recommended** for intra-abdominal infection elsewhere because of *Bacteroides* resistance.
+- **Cover *Enterococcus* with vancomycin in Grade III community-acquired and in healthcare-associated disease.** Ampicillin if the isolate is susceptible; **linezolid or daptomycin** if vancomycin-resistant *Enterococcus* (VRE) is colonizing, if vancomycin was used previously, or if VRE is common locally.
+- **Extended-spectrum β-lactamase (ESBL)-producing *Enterobacteriaceae*** → carbapenems, piperacillin/tazobactam or aminoglycosides. ***Pseudomonas aeruginosa*** with >20% ceftazidime resistance → the same, pending susceptibilities. **Colistin** is the salvage agent for multidrug-resistant epidemic strains — toxic, dosing uncertain, involve infectious diseases.
+- **Estimate renal function before dosing**, by the equation TG18 prints: creatinine clearance = (140 − age) × optimum body weight (kg) / 72 × serum creatinine (mg/dL).
+- **De-escalate once susceptibilities return.** Agents with high resistance prevalence among *Enterobacteriaceae* are safe to use as targeted therapy once susceptibility is proven.
+- **Biliary penetration is no longer a selection criterion** — as obstruction develops, secretion of antimicrobials into bile stops.
+
+**Duration (TG18 Table 5):** ([[tg18-2018-antimicrobial-therapy]])
+
+| Situation | Duration |
+|---|---|
+| **Source controlled** (any grade) | **4–7 days** (Recommendation 1, level C) |
+| **Bacteremia with Gram-positive cocci** — *Enterococcus* spp., *Streptococcus* spp. | **Minimum 2 weeks** — these organisms cause infective endocarditis. Endocarditis occurred in 17/6,147 (0.3%) cholangitis patients |
+| **Residual stones or persisting obstruction** | **Continue until resolved** |
+| **Liver abscess** | **Continue until follow-up shows complete resolution** clinically, biochemically and radiologically |
+
+- **Convert to oral** once the patient tolerates oral feeding, guided by susceptibilities: amoxicillin/clavulanic acid; cephalexin ± metronidazole; ciprofloxacin or levofloxacin ± metronidazole; moxifloxacin.
+
+**Cultures:** send **bile for culture at the beginning of any procedure performed** (Recommendation 1, level C); blood cultures preferably before antibiotics where high fever is present. Bile cultures are positive in **28–93%** of acute cholangitis, blood cultures in **21–71%** (15.2% / 21% / 25.7% by Grade I / II / III). Most frequent bile isolates: *E. coli* 31–44%, *Klebsiella* spp. 9–20%, *Enterococcus* spp. 3–34%, anaerobes 4–20%. ([[tg18-2018-antimicrobial-therapy]])
 
 ### Biliary Drainage — Timing
 
@@ -234,4 +278,5 @@ flowchart TD
 3. [[asge-2021-cholangitis|ASGE Guideline: Management of Acute Cholangitis (2021)]]
 4. [[jagtap-2026-urgent-vs-early-ercp-cholangitis|Urgent versus Early ERCP in Mild-to-Moderate Acute Cholangitis: A Randomised Controlled Trial (Jagtap 2026)]]
 5. [[aloysius-2026-ercp-timing-septic-shock-cholangitis|Vasopressor-Indexed Timing of ERCP and Survival in Septic Shock from Tokyo Grade III Cholangitis (Aloysius 2026, DDW abstract)]]
+6. [[tg18-2018-antimicrobial-therapy|Tokyo Guidelines 2018: Antimicrobial Therapy for Acute Cholangitis and Cholecystitis]]
 6. [[asge-2019-choledocholithiasis|ASGE 2019: Endoscopic Management of Choledocholithiasis]]

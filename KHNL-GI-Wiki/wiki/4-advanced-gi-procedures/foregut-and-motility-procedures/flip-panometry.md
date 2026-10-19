@@ -175,7 +175,7 @@ AGA 2025: **EGJ metrics drive the final diagnosis** of obstruction vs no obstruc
 - Among **202** patients with diminished/absent CR **and** REO, **92% (185/202)** had HRM findings consistent with **achalasia or conclusive (TBE-confirmed) EGJOO**; **77%** had abnormal emptying on TBE.
 - Positive predictive value (PPV) **>75%** for a manometric EGJ outflow disorder when EGJ-DI <2 **and** diameter <12 mm; NPV **>90%** when those criteria are not met.
 - One study: EGJ-DI <2 mm²/mmHg had **sensitivity 80%**, diameter <12 mm had **specificity 90%**, for an abnormal TBE.
-- Prospective data: **odds ratio (OR) 22.5 (95% confidence interval [CI] 2.5–206.7)** for symptomatic response to LES botulinum toxin in patients with diminished/absent CR.
+- Prospective data: **odds ratio (OR) 22.5 (95% confidence interval [CI] 2.5–206.7)** for symptomatic response to LES [[botulinum-toxin|botulinum toxin]] in patients with diminished/absent CR.
 - Among 139 patients meeting manometric EGJOO criteria, **72%** with conclusive FLIP for an EGJ outflow disorder had diminished/absent CR — and these had more abnormal TBE emptying and higher success with sphincter-directed therapy.
 
 ### Obstruction with Normal Contractility (REO + Normal CR)

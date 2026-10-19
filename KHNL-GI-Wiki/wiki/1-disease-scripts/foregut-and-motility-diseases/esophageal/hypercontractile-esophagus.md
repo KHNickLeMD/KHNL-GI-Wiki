@@ -78,7 +78,7 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **CCv4.0** on [[
 - Exclude EGJ obstruction and [[achalasia]] spectrum before treating (elevated IRP → investigate with TBE/FLIP)
 - Treat co-existent [[gerd|gastroesophageal reflux disease (GERD)]]; with objective GERD, hypercontractile esophagus with **typical reflux symptoms and at least partial improvement on acid-suppression medication** **can be referred for [[antireflux-surgery|anti-reflux surgery (ARS)]]** (**81% agreement**) ([[padova-2025-hrm-antireflux|Padova consensus]] — see [[hrm-antireflux-surgery]])
 - [[poem|per-oral endoscopic myotomy (POEM)]] considered for refractory dysphagia-predominant disease ([[acg-2020-achalasia]] frames longer myotomy for spastic disease)
-- **American Gastroenterological Association (AGA) 2024 Clinical Practice Update (CPU) caveat:** for **nonachalasia** spastic disorders, POEM evidence is limited — reserve for **case-by-case** use after less invasive options (medical therapy, botulinum toxin, endoscopic dilation) are exhausted, with symptoms correlated to manometry ([[aga-2024-poem-advances|AGA 2024]] Best Practice Advice (BPA) 3)
+- **American Gastroenterological Association (AGA) 2024 Clinical Practice Update (CPU) caveat:** for **nonachalasia** spastic disorders, POEM evidence is limited — reserve for **case-by-case** use after less invasive options (medical therapy, [[botulinum-toxin|botulinum toxin]], endoscopic dilation) are exhausted, with symptoms correlated to manometry ([[aga-2024-poem-advances|AGA 2024]] Best Practice Advice (BPA) 3)
 
 *Medical management specific to hypercontractile esophagus (smooth-muscle relaxants, neuromodulators) is not covered by the cited guidelines.*
 

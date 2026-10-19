@@ -9,7 +9,7 @@ sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2024-poem, aga-2024-poe
 
 Pneumatic dilation (PD) is the forceful, balloon-mediated disruption of the **muscularis propria** of the lower esophageal sphincter (LES) — the only dilation that works in [[achalasia|achalasia]]. **Standard (through-the-scope / bougie) dilators are not effective**, because they do not disrupt the muscularis propria ([[acg-2020-achalasia]]).
 
-Where PD sits among the three definitive achalasia therapies — and how it compares with [[heller-myotomy|laparoscopic Heller myotomy (LHM)]], [[poem|peroral endoscopic myotomy (POEM)]], and botulinum toxin — is a treatment-selection decision and lives on **[[achalasia#Therapeutics|achalasia]]**. This page owns the **procedure**: candidacy, technique, recovery, adverse events, and retreatment.
+Where PD sits among the three definitive achalasia therapies — and how it compares with [[heller-myotomy|laparoscopic Heller myotomy (LHM)]], [[poem|peroral endoscopic myotomy (POEM)]], and [[botulinum-toxin|botulinum toxin]] — is a treatment-selection decision and lives on **[[achalasia#Therapeutics|achalasia]]**. This page owns the **procedure**: candidacy, technique, recovery, adverse events, and retreatment.
 
 ## Contents
 - [[#Indications and Candidacy]]

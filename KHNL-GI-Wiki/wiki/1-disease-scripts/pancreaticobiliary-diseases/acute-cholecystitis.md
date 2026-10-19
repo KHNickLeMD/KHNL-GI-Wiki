@@ -3,8 +3,8 @@ title: "Acute Cholecystitis"
 category: disease-script
 tags: [acute-cholecystitis, gallbladder, cholecystectomy, eus-gbd, percutaneous-cholecystostomy, transpapillary-drainage, lams, high-surgical-risk]
 created: 2026-07-23
-updated: 2026-10-18
-sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver, tg18-2018-cholangitis-flowchart, tg18-2018-cholecystitis-criteria]
+updated: 2026-10-19
+sources: [tg18-2018-antimicrobial-therapy, aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver, tg18-2018-cholangitis-flowchart, tg18-2018-cholecystitis-criteria]
 ---
 
 # Acute Cholecystitis
@@ -20,6 +20,7 @@ sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, 
   - [[#Gangrenous cholecystitis]]
   - [[#Emphysematous cholecystitis]]
 - [[#Therapeutics]]
+  - [[#Antimicrobial Therapy]]
   - [[#Cholecystectomy — definitive treatment]]
   - [[#Who is a nonsurgical candidate?]]
   - [[#Gallbladder drainage in high-surgical-risk patients]]
@@ -153,6 +154,25 @@ The findings that satisfy **criterion C**, with the size cut-points TG18 prints 
 
 ## Therapeutics
 
+### Antimicrobial Therapy
+
+**The duration rule is the decision here, and it is grade-dependent.** ([[tg18-2018-antimicrobial-therapy]])
+
+| Severity | Duration |
+|---|---|
+| **Grade I and II** | **Only before and at the time of surgery** — discontinue **within 24 h after cholecystectomy**. (Recommendation 1, level B — the strongest-graded statement in the source) |
+| **Grade III** | **4–7 days** once the source of infection is controlled. (Recommendation 2, level D) |
+| **Perforation, emphysematous changes, or necrosis of the gallbladder** found during cholecystectomy | **4–7 days** |
+| **Pericholecystic abscess or gallbladder perforation** | Treat with a severity-appropriate regimen and **continue until the patient is afebrile, with a normalized white count, and without abdominal findings.** (Recommendation 1, level D) |
+| **Bacteremia with Gram-positive cocci** (*Enterococcus* spp., *Streptococcus* spp.) | **Minimum 2 weeks** — endocarditis risk |
+
+- **Why Grade I/II needs nothing postoperatively:** cholecystectomy removes the infection and little infected tissue remains. In early, non-severe cholecystitis it is not obvious that bacteria drive the pathology at all — antimicrobials there are **at best prophylactic**, becoming therapeutic only once a systemic inflammatory response is present.
+- **Timing of the first dose:** septic shock → **within 1 hour of recognition**; otherwise **within 6 hours of diagnosis**, and always **before any drainage or operative procedure**.
+- **Empiric agents** are chosen by severity grade and by community-acquired vs healthcare-associated setting; the agent table, the local-antibiogram rules, and the oral step-down options are shared with cholangitis and live on [[acute-cholangitis#Antimicrobial Therapy]] — one home, not repeated.
+- **Cultures:** **send gallbladder bile for culture in all cases except Grade I** (Recommendation 1, level C), obtained at the beginning of any procedure performed. Also send **bile and tissue** when perforation, emphysematous changes or necrosis are seen during cholecystectomy (Recommendation 2, level D). **Blood cultures are not routinely recommended for Grade I community-acquired disease** (Recommendation 2, level D) — positive in only 7.7–15.8% of cholecystitis overall. ([[tg18-2018-antimicrobial-therapy]])
+
+> ⚠ **The Grade III duration is weakly held by its own authors.** At the consensus meeting a member stated there were insufficient data to support it and that it was difficult to recommend. The Grade I/II rule is also not formally a non-inferiority result: the two randomized trials pooled by the guideline gave a risk difference for postoperative infection of **0.01 (95% confidence interval −0.04 to 0.06)**, with non-inferiority unproven in either trial but no clinically significant difference seen. ([[tg18-2018-antimicrobial-therapy]])
+
 ### Cholecystectomy — definitive treatment
 
 - **Cholecystectomy is the definitive treatment** of acute cholecystitis. Nonoperative drainage is reserved for patients deemed inoperable. ([[aga-2023-eus-gallbladder-drainage]])
@@ -232,3 +252,4 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 3. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
 4. [[tg18-2018-cholangitis-flowchart|Tokyo Guidelines 2018: Initial Management of Acute Biliary Infection and Flowchart for Acute Cholangitis]]
 5. [[tg18-2018-cholecystitis-criteria|Tokyo Guidelines 2018: Diagnostic Criteria and Severity Grading of Acute Cholecystitis]]
+6. [[tg18-2018-antimicrobial-therapy|Tokyo Guidelines 2018: Antimicrobial Therapy for Acute Cholangitis and Cholecystitis]]

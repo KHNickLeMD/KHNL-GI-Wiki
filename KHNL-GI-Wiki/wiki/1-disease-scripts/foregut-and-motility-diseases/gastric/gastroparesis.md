@@ -251,7 +251,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, aga-2021-medically-ref
 | 7.1 | **Against** nortriptyline as first-line | Conditional | Low |
 | 7.2 | **Against** buspirone as first-line | Conditional | Low |
 | 8 | **Against** cannabidiol (CBD) except in a clinical trial | Conditional | Very low |
-| 9 | **Against routine** pyloric botulinum toxin injection (BTI) | Conditional | Very low |
+| 9 | **Against routine** pyloric [[botulinum-toxin\|botulinum toxin]] injection (BTI) | Conditional | Very low |
 | 10 | **Against routine** [[g-poem\|G-POEM]] | Conditional | Low |
 | 11 | **No recommendation** on surgical pyloric interventions (pyloromyotomy / pyloroplasty) | None | Knowledge gap |
 | 12 | **Against routine** gastric electrical stimulation (GES) | Conditional | Very low |

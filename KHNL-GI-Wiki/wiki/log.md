@@ -6,6 +6,59 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-19] lint | 06:00 pass — TG18 antimicrobial therapy and the I-SEE severity index
+
+**Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands.
+
+**New arrivals:** none. `git status --porcelain` empty at session start — no untracked files under `raw/`, nothing to commit as an arrival.
+
+**Daily source fetch (06:00 step) — 0 downloaded, nothing qualified.**
+
+- *Scores and classification instruments* is the first-priority block in `wiki/needed-sources.md` and **every one of its 21 rows is already marked 🔒 (paywalled) or 🌐 (bot-blocked)** — zero fetchable candidates in the priority block.
+- Independently, there is **no free ingest slot**: 9 already-downloaded tier-1/tier-2 files remain uningested and the pass budget is ≤2 raw files, so a new download could only displace higher-priority backlog. Per *Quality over quota*, nothing was fetched.
+- **Verdict: dropped.** No row newly marked 🔒, nothing added to `/repo/.fetch-manual.md`.
+
+**Ingest check — 9 uningested tier-1/tier-2 files** (verified file-by-file against `wiki/sources/`, not token-matched): `Tokyo Guidelines 2018 Antimicrobial Therapy (Gomi)`, `Tokyo Guidelines 2018 Gallbladder Drainage (Mori)`, `Cotton Consensus`, `I-SEE 2022 EoE Clinical Severity Index Consensus (Dellon)`, the tier-2 score papers `Darwish Murad 2004 Rotterdam` / `De Martin 2021 SURFASA` / `Mehta 2017 RETREAT` / `Stapfer 2000 Duodenal Perforation`, and the still-broken `IANS 2024 Anal Cancer Screening Consensus.pdf`. The 8 byte-identical duplicate filenames in `raw/GI Guidelines/Other/` recorded on 2026-10-19 are still present and were again not counted. 60 gated lecture/chalk-talk transcripts untouched — lectures are never auto-ingested.
+
+**Both ingest slots went to the two files that close decision gaps the clinical pages declare open in their own prose:** Gomi 2018 (the cholangitis page says agent/dose/duration is "deferred to its companion paper") and I-SEE 2022 (the EoE page says the components and point values are not reproduced in ACG 2025).
+
+**Sources created:**
+
+- [[tg18-2018-antimicrobial-therapy]] — Gomi H, Solomkin JS, Schlossberg D, et al. *J Hepatobiliary Pancreat Sci* 2018;25:3–16. All **7** named recommendations captured with the document's own labels (it writes "Recommendation *N*, level *X*" and numbers nothing sequentially; the Q1–Q4 grouping is the paper's own clinical-question structure). Grading vocabulary recorded: strength **1 = strong / 2 = weak**, quality **A high / B moderate / C low / D very low**. Tables 1–6 carried: bile and blood culture organisms, the Table 3 agent grid, the Table 4 high-resistance agents, the Table 5 duration grid, the Table 6 oral step-down agents.
+- [[i-see-2022-eoe-severity-index]] — Dellon ES, Khoury P, Muir AB, et al. *Gastroenterology* 2022;163:59–76. Consensus statement, not a graded guideline — it issues **no numbered or graded recommendations**, so none were invented. Table 1 (the index), Table 2 (the three worked examples) and the scoring footnotes captured in full.
+
+**Pages updated:**
+
+- [[acute-cholangitis]] — **the regimen gap the page declared for a month is closed.** New `### Antimicrobial Therapy` section: the Table 3 empiric agent grid by severity grade × community-acquired vs healthcare-associated; the six rules that override the grid (local antibiogram at the 10–20% / >20% thresholds, fluoroquinolones only with known susceptibility, ampicillin/sulbactam out below 80% local susceptibility, anaerobic cover for biliary-enteric anastomosis, vancomycin for *Enterococcus* in Grade III and healthcare-associated, ESBL/*Pseudomonas*/colistin escalation); the Table 5 duration grid (**4–7 days source-controlled; minimum 2 weeks for Gram-positive-cocci bacteremia; until resolution for residual stones and liver abscess**); the **1 h septic shock / 6 h otherwise** initiation windows; oral step-down agents; culture yields. The old prose pointer naming the un-ingested companion paper is gone.
+- [[acute-cholecystitis]] — the page had **no antimicrobial content at all**. New `### Antimicrobial Therapy` section leading Therapeutics, built around the grade-dependent duration rule: **Grade I/II antibiotics only before and at the time of surgery, stopped within 24 h of cholecystectomy** (Recommendation 1, level B — the strongest statement in the source); Grade III 4–7 days; 4–7 days if perforation/emphysematous change/necrosis is found at surgery; the pericholecystic-abscess "until afebrile, normal white count, no abdominal findings" endpoint; the grade-keyed bile- and blood-culture rules. Agent grid deliberately **not** duplicated — linked to [[acute-cholangitis]] per *one home per fact*.
+- [[eosinophilic-esophagitis]] — the `*components and point values are not reproduced…*` line is replaced by the index itself: the full I-SEE table, the four bands, the eight scoring rules that decide the box (15-point auto-severe, snug fit = 10–14 mm, post-dilation symptoms uninterpretable, any dilation in a child scores 15, impaction weighted higher in children, social disruption = 4 points, worst-finding rule, DEC/SEA substituting for LPF), the three worked examples, and the five-question histology reading sequence. The unvalidated status and the absence of any band-to-treatment link are stated for the reader.
+
+**⚠ Carried forward — two required figure captures could not be made this pass.** [[i-see-2022-eoe-severity-index]] Figure 1 (localized vs diffuse inflammatory endoscopic findings, six panels) and Figure 3 (the three fibrostenotic endoscopy categories, three panels) are **endoscopic grading made by looking**, so Content Guide requires them on [[eosinophilic-esophagitis]]. The image-rendering tooling (`pdftoppm`, PyMuPDF) is permission-blocked in this session's sandbox and every invocation was refused, including writes to a scratch directory. The text criteria are on the page; **the next pass with image tooling should crop pages 8 and 9 of the I-SEE PDF to `raw/assets/eoe-2022-isee-inflammatory-endoscopy-08.png` and `eoe-2022-isee-fibrotic-endoscopy-09.png` and embed them under *I-SEE scoring*.** Figure 2 (histology panels) is optional by the same rule — histology, not endoscopic appearance — but the five reading questions it anchors are already on the page in text.
+
+**Stale-page validation — 3 pages, the 3 least-recently-updated clinical pages** (`wiki/overview.md` is stalest at 2026-08-29 but is the field-level synthesis, not a page the decision-sufficiency test applies to; left for a pass with room to re-synthesise it):
+
+- [[heydes-syndrome]] (was 2026-09-01) — decision-sufficient already; the gap was a **missing ingested source**. [[asge-2014-lgib]] carries non-conflicting net-new detail the page never cited: lesion morphology and distribution (**2 mm to several centimetres, radiating vessels from a central feeder, predominantly cecum and ascending colon**), **colonoscopy sensitivity 80%**, the **narcotic-sedation caveat** (reduces mucosal blood flow and can hide the lesion — a real procedural decision), and the explicit "high rebleeding despite endoscopic treatment → definitive management may require aortic valve replacement" link. Added as source 2; the two previously bare omission notes merged into one plain reader-facing sentence.
+- [[semaglutide]] (was 2026-09-01) — decision-sufficient and well-structured; **no clinical change needed**. One abbreviation fix: FDA was used from the first line of the formulations block without ever being expanded.
+- [[tegaserod]] (was 2026-09-01) — decision-sufficient; the two-gate ACG-vs-AGA eligibility table is exactly the pattern the Content Guide asks for. Fixes: FDA expanded at first use; `b.i.d.` / `BID` used inconsistently for the same dose, normalised to "twice daily". **Noted but deliberately not acted on:** the operative gate is ACG's ≤1 cardiovascular risk factor, and ACG defines its own risk-factor list in its Supplemental Table 2 while the page prints AGA's list. The page already says so, a clinician can count from the list given, and no verified link to that supplement could be confirmed — so **no `needed-sources.md` row was invented** (*Quality over quota*; a row needs a link verified to exist).
+
+**Coverage-gap queue — 1 page created, not 2** (the pass was already heavy on ingest):
+
+- **Queue #35 → [[botulinum-toxin]]**, `5-meds/`. Built on **8** ingested sources rather than the 2 the row named. The page's point is that one agent carries a **different stance at every site**, so the stance table leads: unfit-patients-only at the LES (Strong/Moderate), **recommended against at the pylorus (Strong/Moderate — its firmest grading anywhere)**, conditional second-line at the anal sphincter, and explicitly unsupported in defecation disorders and chronic proctalgia. Executed as a **MOVE** for the dose/technique/decay data off [[achalasia]]; the PD-vs-botulinum comparison **stays** on [[achalasia]] because the treatment choice is a disease decision, and the med page points to it. Linked inline from **15** pages that previously named the drug in plain text. Queue row struck with the detail.
+- Queue #32 (`7-concepts/bristol-stool-form-scale`) **left alone, correctly**: its own row says to check whether an ingested source prints all 7 types, and `needed-sources.md` already carries Lewis & Heaton 1997 as 🔒. It is corpus-blocked, not fillable.
+
+**Hygiene / whole-wiki checks:**
+
+- **Broken links: 0 on content pages** (676 pages parsed, wiki-links and image embeds both resolved by basename). The only unresolved targets are 7 inside `wiki/log.md` itself — historical entries and documentation examples (`[[wiki-links]]`, `[[x]]`), not page content.
+- **Orphans: 1** — [[nejm-2023-fever-returning-traveler]], the known citation-of-record with no clinical claim behind it. Already escalated to Nick on 2026-10-18 (retire or re-slug); **not actioned unilaterally**, still awaiting his call.
+- Unescaped alias pipes in table cells: **0**. OS artifacts (`.DS_Store`, `Thumbs.db`, AppleDouble files): **none**. Stub pages: **none anywhere in `wiki/`**.
+- **Stub-expansion step did nothing — nothing qualified.** There are no stubs left in the wiki.
+
+**⚠ Card files owed — not written this pass.** Four pages took new guideline-backed clinical content ([[acute-cholangitis]], [[acute-cholecystitis]], [[eosinophilic-esophagitis]], [[botulinum-toxin]]) and all four are tier-1-sourced, so all four are cardable; the ingest rule says their card files are written in the same run. They were not — the pass ran out of budget after the wiki work. **All four card files are stale or missing and should be taken first by the next card pass**, ahead of its own queue order. The highest-yield items: the cholangitis 4–7-day / 2-week-for-Gram-positive-bacteremia duration split, the **Grade I/II cholecystitis "nothing after surgery"** rule, the I-SEE bands and the 15-point auto-severe boxes, and the **Strong-Moderate recommendation against intrapyloric botulinum toxin**.
+
+**Uningested backlog after this pass:** `Tokyo Guidelines 2018 Gallbladder Drainage (Mori)`, `Cotton Consensus`, the tier-2 score papers `Darwish Murad 2004 Rotterdam` / `De Martin 2021 SURFASA` / `Mehta 2017 RETREAT` / `Stapfer 2000 Duodenal Perforation`, and the still-broken `IANS 2024 Anal Cancer Screening Consensus.pdf` — **7 files, down from 9**. The 8 byte-identical duplicate filenames in `raw/GI Guidelines/Other/` and the 60 gated lecture transcripts are not counted and were not touched.
+
+---
+
 ## [2026-10-19] lint | HHT 2020 and the London Classification — two declared decision gaps close
 
 **Entry opened before any other edit** (per LINT → *Record as you go*).

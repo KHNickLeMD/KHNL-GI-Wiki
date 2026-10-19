@@ -3,8 +3,8 @@ title: "Heyde's Syndrome"
 category: disease-script
 tags: [heydes-syndrome, aortic-stenosis, angioectasia, von-willebrand, gi-bleeding, small-bowel, vascular-lesion]
 created: 2026-05-19
-updated: 2026-09-01
-sources: [acg-2015-small-bowel-bleeding]
+updated: 2026-10-19
+sources: [acg-2015-small-bowel-bleeding, asge-2014-lgib]
 ---
 
 ## Contents
@@ -46,21 +46,24 @@ sources: [acg-2015-small-bowel-bleeding]
 ## Diagnostics
 
 - Bleeding source localized by the standard small bowel bleeding algorithm; see [[small-bowel-bleeding]] for the sequence and diagnostic yields.
+- **What the lesion looks like and where to look:** red flat lesions, **2 mm to several centimetres**, with ectatic vessels radiating from a central feeding vessel; **predominantly cecum and ascending colon**. [[colonoscopy]] sensitivity for angioectasia is **80%**. ([[asge-2014-lgib]])
+- ⚠ **Narcotic sedation can hide the lesion** — it reduces mucosal blood flow, so angioectasias may not be seen. Factor this into [[endoscopy-sedation|sedation]] choice when the indication is a hunt for a vascular lesion. ([[asge-2014-lgib]])
 
-> [[acg-2015-small-bowel-bleeding]] does not specify a vWF/multimer assay threshold or an echocardiographic severity cutoff for making the diagnosis.
+Neither guideline specifies a von Willebrand factor or multimer assay threshold, or an echocardiographic aortic-stenosis severity cutoff, for making the diagnosis — it rests on the clinical association.
 
 ## Therapeutics
 
 - **Aortic valve replacement (AVR)** for Heyde's syndrome with **ongoing bleeding**. *(Conditional recommendation, moderate level of evidence.)* [[acg-2015-small-bowel-bleeding]]
   - Meta-analysis of two studies: reduced bleeding risk after AVR, pooled rebleeding event rate **0.16 (95% confidence interval [CI] 0.05–0.38)**.
-- Bleeding lesions themselves are treated as for [[angioectasia]] — endoscopic therapy, with high rebleeding rates; AVR is the step specific to this syndrome.
+- Bleeding lesions themselves are treated as for [[angioectasia]] — endoscopic therapy, with **high rebleeding rates despite endoscopic treatment**, which is why definitive management may require AVR. ([[asge-2014-lgib]]) AVR is the step specific to this syndrome.
 
 ## See Also
 
-[[angioectasia]], [[small-bowel-bleeding]], [[upper-gi-bleeding]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[somatostatin-analogs]], [[anticoagulation-gi-bleeding]]
+[[angioectasia]], [[small-bowel-bleeding]], [[acute-lower-gi-bleeding]], [[upper-gi-bleeding]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[colonoscopy]], [[endoscopy-sedation]], [[argon-plasma-coagulation]], [[somatostatin-analogs]], [[anticoagulation-gi-bleeding]]
 
 ---
 
 ## Sources
 
 1. [[acg-2015-small-bowel-bleeding|ACG 2015: Diagnosis and Management of Small Bowel Bleeding]]
+2. [[asge-2014-lgib|ASGE Guideline: The Role of Endoscopy in the Patient with Lower GI Bleeding (2014)]]
