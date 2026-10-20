@@ -3,8 +3,8 @@ title: "Anorectal Manometry (ARM)"
 category: advanced-procedure
 tags: [arm, anorectal-manometry, defecation, biofeedback, dyssynergia, fecal-incontinence, balloon-expulsion-test]
 created: 2026-05-19
-updated: 2026-10-18
-sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi]
+updated: 2026-10-20
+sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi, london-2020-anorectal-classification]
 ---
 
 ## Contents
@@ -13,7 +13,11 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
 - [[#Technique]]
   - [[#Catheters]]
   - [[#Patient Position]]
+  - [[#IAPWG Standardized Protocol]]
+  - [[#Equipment Specifications]]
+- [[#Measurements Reported]]
 - [[#Interpretation — Reference Values and Pitfalls]]
+  - [[#Assigning a Pattern — the London Classification]]
 - [[#Balloon Expulsion Test (BET)]]
 - [[#Defecography — Barium vs Magnetic Resonance (MR)]]
 - [[#Adjunct — Anal EMG]]
@@ -66,6 +70,60 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
 ### Patient Position
 
 - Recent studies suggest **seated manometry may discriminate healthy people from DD better than left-lateral**; confirmatory studies awaited, but ACG states performance in the **seated position might be considered** if feasible.
+- The **International Anorectal Physiology Working Group (IAPWG)** protocol instead specifies **left lateral, hips and knees flexed**, for both manometry and rectal sensory testing. ([[london-2020-anorectal-classification]])
+
+### IAPWG Standardized Protocol
+
+*The sequence as a whole reached level 1 consensus (>90% unanimity). Total study time for manometry + rectal sensory test (RST) + BET is expected to be **15–20 minutes**. Maneuver durations and the recovery intervals between maneuvers are themselves part of the protocol.* All from [[london-2020-anorectal-classification]].
+
+| Order | Maneuver | Duration / number | Recovery interval | What it measures |
+|---|---|---|---|---|
+| 1 | **Stabilization** | 3 min | — | Lets anal tone return to baseline after intubation; **no maneuver before it** |
+| 2 | **Rest** | 60 s | — | Basal anal tone; patient reminded to relax and stay quiet (movement artifact). Ultraslow waves 0.5–2 cycles/min may appear |
+| 3 | **Short squeeze** | 3 × 5 s | 30 s between squeezes | Voluntary anal/pelvic-floor contraction; **best of three** analyzed |
+| 4 | **Long (endurance) squeeze** | 1 × 30 s | 60 s after | **Fatigue over time**, not contractile strength |
+| 5 | **Cough** | 2 | 30 s between | Reflex anal pressure rise on abrupt intra-abdominal pressure change. Each must be a **single** cough; **best = greatest rise in rectal pressure** |
+| 6 | **Push** | 3 × 15 s | 30 s between | Simulated defecation. Rectal balloon insufflation **not mandated**. Because false positives are common, the **most qualitatively normal** attempt is analyzed |
+| 7 | **Rectal sensory testing** | — | — | FCSV, DDV, MTV (see below) |
+| 8 | **RAIR** | 1, starting volume **≥30 mL** | — | Reflex anal pressure fall on rapid rectal distension. **If megarectum is suspected, repeat with increasing volumes** — a low distending volume in a large-capacity rectum can fail to elicit it |
+
+- **BET is performed immediately before or after** this manometry/RST block.
+- Push duration (3 × 15 s) is the **one element that reached no consensus** (<75% unanimity); everything else above is level 1 or 2.
+- **Digital rectal examination before intubation** (also an ACG recommendation, above) — assess pelvic floor structure/function/sensitivity, exclude local pathology and fecal loading, and confirm the patient understands "squeeze" and "push".
+- **Preparation:** continue all medications; eat and drink up to the time of the test; bowel preparation optional; a pre-procedure enema is **not contraindicated but must be documented** because it can alter function. Document any medication that affects anorectal function, **including analgesics**.
+
+### Equipment Specifications
+
+*IAPWG minimum standards ([[london-2020-anorectal-classification]]).*
+
+| Component | Specification |
+|---|---|
+| Manometry sensors | **Circumferential, not unidirectional**, recording. **Minimum 6 cm longitudinal recording length.** Thin flexible catheters; rigid high-definition catheters **may** be used but are not standard |
+| Manometry system | Recommendations are based on **solid-state systems — the single element that reached no consensus (<75%)** — and also apply to water-perfused high-resolution systems (moderate consensus) |
+| Rectal balloon placement | Base **3–5 cm above the upper border of the anal canal**, so it cannot impinge on the anal canal during inflation; **most distal sensor outside the anal verge** |
+| RST balloon | Capacity **≥400 mL** (maximum tolerated volume in health is no greater than 350 mL); **latex-free** |
+| RST distension | Ramp **1–5 mL/s** or phasic **10 mL/s**, always **with air**. ⚠ **Ramp and phasic results are not interchangeable** |
+| BET catheter | Flexible, **up to 16 Fr**, non-latex compliant balloon; **50 mL tepid water**; inserted left lateral, then **seated, ideally on a toilet in privacy** |
+
+## Measurements Reported
+
+*The IAPWG minimum reporting set ([[london-2020-anorectal-classification]]). Values are compared against the lab's own limits — see below.*
+
+| Test | Measurement | Definition |
+|---|---|---|
+| ARM — rest | **Anal resting pressure** | Mean maximum pressure across the whole anal canal over the 60-s recording (mmHg) |
+| ARM — rest | **Ultraslow waves** | Repeated anal pressure oscillations at 1–2/min (present/absent) |
+| ARM — squeeze | **Anal squeeze pressure** | Maximum incremental pressure during the 5-s short squeeze (mmHg) |
+| ARM — long squeeze | **Endurance squeeze pressure** | Time the patient sustains an anal pressure increase **>50% of maximum incremental squeeze pressure** over the 30-s squeeze (s) |
+| ARM — push | **Rectal and anal pressure change during push** | Maximum pressure change in rectum and in anal canal during push (mmHg) |
+| ARM — cough | **Rectal and anal pressure during cough** | Maximum pressure in rectum and anal canal during cough (mmHg) |
+| ARM | **RAIR** | Reflex fall in maximum anal pressure on rapid rectal distension (present/absent) — **also record the volume that elicited it** |
+| BET | **Balloon expulsion time** | Seconds to expel the balloon — **also record whether a desire to defecate was present** |
+| RST | **FCSV** — first constant sensation volume | Minimum insufflation volume eliciting a sensory response (mL) |
+| RST | **DDV** — desire to defecate volume | Volume eliciting a sustained desire to defecate (mL) |
+| RST | **MTV** — maximum tolerated volume | Volume causing an intolerable desire to defecate (mL) |
+
+- A fourth sensory threshold, **sustained urgency volume** (volume eliciting a sense of fecal urgency), is **optional**.
 
 ## Interpretation — Reference Values and Pitfalls
 
@@ -79,7 +137,15 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
 - The same caution applies to decreased rectal pressures, paradoxical anal contraction, high anal pressure during evacuation, and high anal resting pressure.
 - **Interpret with the clinical features** — false-positive and false-negative results are not uncommon.
 
-> The guidelines give no **manometric classification of dyssynergic/defecatory patterns** — [[acg-2021-anorectal-disorders|ACG 2021]] contains no classification or subtype scheme, and neither it nor Rome V reproduces the **London Classification** of anorectal manometry or the numbered dyssynergia subtypes — so this page can say a study is *abnormal* but cannot assign a pattern; see the London Classification consensus for that.
+### Assigning a Pattern — the London Classification
+
+- **[[acg-2021-anorectal-disorders|ACG 2021]] and [[rome-v-2026-dgbi|Rome V]] say whether a study is abnormal; the [[london-classification|London Classification]] says what to call the pattern.** Neither guideline contains a manometric classification scheme, so the IAPWG consensus is where the named diagnoses come from. ([[london-2020-anorectal-classification]])
+- Four parts — rectoanal inhibitory reflex, anal tone and contractility, rectoanal coordination, rectal sensation — and **one study may return a diagnosis under more than one**. Findings are tiered **major** (not seen in controls), **minor** (seen in patients and controls) or **inconclusive**. Full decision logic: [[london-classification]].
+- Two consequences that change how this page's numbers are used:
+  - **The classification publishes no reference values at all.** Every decision point is "above the upper limit of normal" or "below the lower limit of normal", referred to the lab's own data or to published data acquired with **identical equipment and protocol**, adjusted for sex, parity and age. This is the same technique-specific caution stated above, now a formal rule.
+  - **Cough and long squeeze are recorded but excluded from the classification.** Both remain in the protocol; the consensus did not consider them justifiable as diagnostic criteria. An abnormal cough response may mark a more severe phenotype and a preserved one a biofeedback target — neither is a criterion.
+- **Dyssynergia never rises above a minor finding** in this scheme, and an abnormal manometric coordination pattern with a *normal* balloon expulsion is only **inconclusive** — the practical statement of the false-positive problem listed above. It is the **BET**, not the manometric pattern, that carries the weight.
+- The numbered **Rao dyssynergia types I–IV** are not part of the London Classification and are not in any ingested source; this page can assign a London diagnosis but not a Rao type.
 
 ## Balloon Expulsion Test (BET)
 
@@ -134,7 +200,7 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
 
 ## See Also
 
-[[defecation-disorders]], [[fecal-incontinence]], [[chronic-constipation]], [[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[biofeedback-therapy]], [[high-resolution-manometry]], [[proctalgia-syndromes]], [[rectal-prolapse]], [[sacral-nerve-stimulation]]
+[[defecation-disorders]], [[fecal-incontinence]], [[chronic-constipation]], [[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[biofeedback-therapy]], [[high-resolution-manometry]], [[london-classification]], [[proctalgia-syndromes]], [[rectal-prolapse]], [[sacral-nerve-stimulation]]
 
 ---
 
@@ -145,3 +211,4 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
 3. [[asge-2014-constipation|ASGE 2014: The Role of Endoscopy in the Management of Constipation]]
 4. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review]]
 5. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+6. [[london-2020-anorectal-classification|The International Anorectal Physiology Working Group (IAPWG) Recommendations: Standardized Testing Protocol and the London Classification for Disorders of Anorectal Function]]

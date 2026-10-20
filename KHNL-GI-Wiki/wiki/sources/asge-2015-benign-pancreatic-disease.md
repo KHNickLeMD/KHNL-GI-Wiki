@@ -3,7 +3,7 @@ title: "ASGE Guideline: The Role of Endoscopy in Benign Pancreatic Disease (2015
 category: source
 tags: [acute-pancreatitis, idiopathic-pancreatitis, chronic-pancreatitis, sphincter-of-oddi, autoimmune-pancreatitis, pancreatic-duct-leak, ercp, eus, eswl, post-ercp-pancreatitis, asge]
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-10-20
 sources: []
 ---
 
@@ -23,7 +23,7 @@ Key themes: endoscopic retrograde cholangiopancreatography (ERCP) is **not** a d
 
 ## Key Findings / Claims
 
-**Recommendations (verbatim, with GRADE quality of evidence; 4444 = high, 444B = moderate, 44BB = low, 4BBB = very low):**
+**Recommendations (verbatim, with GRADE quality of evidence; the document marks it with filled and open circles — ⊕⊕⊕⊕ high, ⊕⊕⊕◯ moderate, ⊕⊕◯◯ low, ⊕◯◯◯ very low):**
 
 1. We suggest EUS for the evaluation of idiopathic AP for patients older than 40 years of age if history, physical examination, laboratory testing, and abdominal imaging with MRI [magnetic resonance imaging] or CT [computed tomography] are unrevealing. (Low)
 2. We recommend against diagnostic ERCP for a single episode of AP. (Moderate)

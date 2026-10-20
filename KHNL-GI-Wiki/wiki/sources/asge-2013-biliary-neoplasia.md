@@ -3,7 +3,7 @@ title: "ASGE Guideline: The Role of Endoscopy in the Evaluation and Treatment of
 category: source
 tags: [biliary-neoplasia, cholangiocarcinoma, ampullary-adenocarcinoma, gallbladder-cancer, gallbladder-polyp, eus, ercp, idus, indeterminate-biliary-stricture, asge]
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-10-20
 sources: []
 ---
 
@@ -23,7 +23,7 @@ Once biliary neoplasia is suspected (jaundice, abnormal liver function tests (LF
 
 ## Key Findings / Claims
 
-**Recommendations (verbatim, with GRADE quality of evidence; QQQQ = high, QQQŒ = moderate, QQŒŒ = low, QŒŒŒ = very low):**
+**Recommendations (verbatim, with GRADE quality of evidence; the document marks it with filled and open circles — ⊕⊕⊕⊕ high, ⊕⊕⊕◯ moderate, ⊕⊕◯◯ low, ⊕◯◯◯ very low):**
 
 1. We recommend that EUS be performed in patients with suspected ampullary adenocarcinoma or cholangiocarcinoma if the EUS findings or positive FNA results would change management. (Moderate)
 2. We recommend MRC to assess for resectability if a CT [computed tomography] scan suggests cholangiocarcinoma, particularly of the bifurcation. If the lesion is unresectable, endoscopic palliation of jaundice should be performed by using MRC as a guide for unilateral drainage to minimize the risk of cholangitis. (High)

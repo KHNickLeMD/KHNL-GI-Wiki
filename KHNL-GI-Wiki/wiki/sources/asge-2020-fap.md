@@ -3,7 +3,7 @@ title: "ASGE Guideline: The Role of Endoscopy in Familial Adenomatous Polyposis 
 category: source
 tags: [fap, afap, map, mutyh, polyposis, duodenal-adenoma, spigelman, ampullary-adenoma, pouch-surveillance, endoscopy, asge]
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-10-20
 sources: []
 ---
 
@@ -23,7 +23,7 @@ Colorectal management has changed little — colectomy remains standard of care 
 
 ## Key Findings / Claims
 
-**Recommendations (verbatim, with GRADE quality of evidence; 4444 = high, 444B = moderate, 44BB = low, 4BBB = very low):**
+**Recommendations (verbatim, with GRADE quality of evidence; the document marks it with filled and open circles — ⊕⊕⊕⊕ high, ⊕⊕⊕◯ moderate, ⊕⊕◯◯ low, ⊕◯◯◯ very low):**
 
 1. We recommend genetic counseling and testing in patients with clinical polyposis defined as 10 or more adenomas found on a single endoscopy and 20 or more adenomas during their lifetime. (Low)
 2. We recommend genetic counseling and testing in all first-degree relatives of confirmed polyposis syndrome patients. Suspected FAP individuals should be tested at ages 10 to 12 years, whereas suspected AFAP and MAP should be tested at ages 18 to 20 years. (Low)

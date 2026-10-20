@@ -3,7 +3,7 @@ title: "Familial Adenomatous Polyposis"
 category: disease-script
 tags: [fap, apc, afap, map, mutyh, hereditary-crc, polyposis, duodenal-adenoma, desmoid, spigelman, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-09-06
+updated: 2026-10-20
 sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
@@ -37,7 +37,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Presence of FAP-type extracolonic manifestations: [[nonampullary-duodenal-adenoma|duodenal]]/[[ampullary-adenoma|ampullary adenomas]], desmoid tumors (abdominal > peripheral), papillary thyroid cancer, CHRPE (congenital hypertrophy of the retinal pigment epithelium), epidermal cysts, osteomas (Gardner syndrome)
 - **MUTYH testing specifically** should be considered if **any one** of the following is met [[asge-2020-fap]]: (1) **≥20 colorectal adenomas over multiple [[colonoscopy|colonoscopies]]**; (2) known family history of MAP; (3) **≥10 adenomas on a single colonoscopy**; or (4) meets [[serrated-polyposis-syndrome|serrated polyposis syndrome]] criteria **with at least some adenomas** on the exam. Genetic testing of children for MAP is postponed to adulthood (later disease onset; screening begins in adulthood)
 
-**American Society for Gastrointestinal Endoscopy (ASGE) 2020 Rec 1** *(44BB)*: refer for genetic counseling and testing when there is **clinical polyposis**, defined as **≥10 adenomas on a single endoscopy** *and* **≥20 adenomas over a lifetime**. **Rec 2** *(44BB)*: test **all first-degree relatives** of a confirmed polyposis-syndrome patient [[asge-2020-fap]].
+**American Society for Gastrointestinal Endoscopy (ASGE) 2020 Rec 1** *(Low quality)*: refer for genetic counseling and testing when there is **clinical polyposis**, defined as **≥10 adenomas on a single endoscopy** *and* **≥20 adenomas over a lifetime**. **Rec 2** *(Low quality)*: test **all first-degree relatives** of a confirmed polyposis-syndrome patient [[asge-2020-fap]].
 
 **When to test the relative — the age depends on the suspected syndrome** [[asge-2020-fap]]:
 

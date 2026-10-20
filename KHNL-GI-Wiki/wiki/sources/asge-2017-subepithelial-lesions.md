@@ -3,11 +3,9 @@ title: "ASGE 2017: The Role of Endoscopy in Subepithelial Lesions of the GI Trac
 category: source
 tags: [subepithelial-lesion, gist, leiomyoma, lipoma, net, carcinoid, granular-cell-tumor, pancreatic-rest, duplication-cyst, eus, eus-fna, eus-fnb, ster, eftr, esd]
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-10-20
 sources: []
 ---
-
-# ASGE 2017: The Role of Endoscopy in Subepithelial Lesions of the GI Tract
 
 ## Bibliographic Info
 
@@ -32,19 +30,19 @@ Tissue acquisition is challenging because SELs lie deep to the epithelium. Techn
 
 ## All Recommendations (Verbatim, with GRADE Evidence Quality)
 
-Evidence-quality symbols (GRADE): 4444 = High; 444B = Moderate; 44BB = Low; 4BBB = Very low. Recommendation strength: "we recommend" = stronger; "we suggest" = weaker.
+The document marks evidence quality with filled and open circles — **⊕⊕⊕⊕ high, ⊕⊕⊕◯ moderate, ⊕⊕◯◯ low, ⊕◯◯◯ very low**; it is written out in words below. Recommendation strength is carried by the verb: **"we recommend" = stronger, "we suggest" = weaker.**
 
-1. We suggest that EUS be used to further characterize indeterminate SELs. **(Moderate — 444B)**
-2. We suggest surveillance EUS for gastric GI stromal tumors <2 cm in size. **(Low — 44BB)**
-3. We recommend surgery for gastric and colorectal GI stromal tumors >2 cm in size and those with high-risk features. **(Moderate — 444B)**
-4. We recommend that rectal GI neuroendocrine neoplasms <1 cm in size may be managed by local endoscopic or transanal excision. **(Moderate — 444B)**
-5. We suggest EUS for staging of rectal GI neuroendocrine neoplasms >1 cm. Endoscopic or transanal excision may be considered for rectal tumors 1 to 2 cm in diameter that do not invade the muscularis propria. **(Low — 44BB)**
-6. We recommend surgical resection for GI neuroendocrine neoplasms identified in the jejunum and ileum. **(Moderate — 444B)**
-7. We recommend that asymptomatic leiomyomas do not require endoscopic surveillance or therapy unless symptomatic. **(Moderate — 444B)**
-8. We recommend that GI lipomas do not require follow-up or therapy unless symptomatic. **(Moderate — 444B)**
-9. We suggest that lesions arising from the muscularis propria be sampled with FNA or fine-needle biopsy for histologic evaluation. **(Low — 44BB)**
-10. We suggest that a firm, round subepithelial lesion with central umbilication along the greater curve of the antrum of the stomach be considered diagnostic for a pancreatic rest. Further investigation with EUS and follow-up is not required. **(Low — 44BB)**
-11. We suggest that lesions with malignant potential requiring treatment can be removed either endoscopically or surgically based on the type of lesion, size, location, patient preference, and available expertise. **(Low — 44BB)**
+1. We suggest that EUS be used to further characterize indeterminate SELs. **(Moderate — Moderate quality)**
+2. We suggest surveillance EUS for gastric GI stromal tumors <2 cm in size. **(Low — Low quality)**
+3. We recommend surgery for gastric and colorectal GI stromal tumors >2 cm in size and those with high-risk features. **(Moderate — Moderate quality)**
+4. We recommend that rectal GI neuroendocrine neoplasms <1 cm in size may be managed by local endoscopic or transanal excision. **(Moderate — Moderate quality)**
+5. We suggest EUS for staging of rectal GI neuroendocrine neoplasms >1 cm. Endoscopic or transanal excision may be considered for rectal tumors 1 to 2 cm in diameter that do not invade the muscularis propria. **(Low — Low quality)**
+6. We recommend surgical resection for GI neuroendocrine neoplasms identified in the jejunum and ileum. **(Moderate — Moderate quality)**
+7. We recommend that asymptomatic leiomyomas do not require endoscopic surveillance or therapy unless symptomatic. **(Moderate — Moderate quality)**
+8. We recommend that GI lipomas do not require follow-up or therapy unless symptomatic. **(Moderate — Moderate quality)**
+9. We suggest that lesions arising from the muscularis propria be sampled with FNA or fine-needle biopsy for histologic evaluation. **(Low — Low quality)**
+10. We suggest that a firm, round subepithelial lesion with central umbilication along the greater curve of the antrum of the stomach be considered diagnostic for a pancreatic rest. Further investigation with EUS and follow-up is not required. **(Low — Low quality)**
+11. We suggest that lesions with malignant potential requiring treatment can be removed either endoscopically or surgically based on the type of lesion, size, location, patient preference, and available expertise. **(Low — Low quality)**
 
 ---
 

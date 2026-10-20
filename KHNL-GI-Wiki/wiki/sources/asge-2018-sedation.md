@@ -3,7 +3,7 @@ title: "ASGE Guidelines for Sedation and Anesthesia in GI Endoscopy (2018)"
 category: source
 tags: [sedation, anesthesia, propofol, moderate-sedation, deep-sedation, capnography, asa-class, endoscopy, asge, guideline]
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-10-20
 sources: []
 ---
 
@@ -15,7 +15,7 @@ sources: []
 - **DOI:** [10.1016/j.gie.2017.07.018](https://doi.org/10.1016/j.gie.2017.07.018)
 - **Type:** guideline (GRADE-based clinical practice guideline)
 
-Endorsed by AASLD, ACG, and AGA. Update of 3 prior ASGE sedation documents; literature search through August 2017. Recommendations graded by GRADE quality of evidence (4444 high, 444B moderate, 44BB low, 4BBB very low).
+Endorsed by AASLD, ACG, and AGA. Update of 3 prior ASGE sedation documents; literature search through August 2017. Recommendations graded by GRADE quality of evidence (High quality high, Moderate quality moderate, Low quality low, Very low quality very low).
 
 ## Summary
 American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice Committee guideline on sedation and anesthesia across the full continuum used for gastrointestinal (GI) endoscopy. Sedation is a drug-induced depression of consciousness on a continuum from minimal sedation (anxiolysis) → moderate ("conscious") sedation → deep sedation → general anesthesia. Because patients move unpredictably along this continuum, providers must be able to **rescue** a patient who becomes more deeply sedated than intended.
@@ -47,14 +47,14 @@ Propofol-mediated sedation (non-anesthesiologist–administered propofol [NAAP]/
 - Increased airway-obstruction risk from an anatomic variant
 
 ### Recommendations (GRADE)
-1. We recommend that all patients undergoing endoscopic procedures be evaluated to assess their risk of sedation related to pre-existing medical conditions. **(4444 — high)**
-2. We recommend that the combination of an opioid and benzodiazepine is a safe and effective regimen for achieving minimal to moderate sedation for upper endoscopy and colonoscopy in patients without risk factors for sedation-related adverse events. **(4444 — high)**
-3. We suggest using an appropriate adjunctive agent (eg, diphenhydramine, promethazine, or droperidol) in combination with conventional sedative drugs in select clinical circumstances. **(44BB — low)**
-4. We recommend that providers undergo specific training in the administration of endoscopic sedation and possess the skills necessary for the diagnosis and management of sedation-related adverse events, including rescue from a level of sedation deeper than that intended. **(4444 — high)**
-5. We recommend the routine monitoring of blood pressure, oxygen saturation, and heart rate in addition to clinical observation for changes in cardiopulmonary status during all endoscopic procedures using sedation. Supplemental oxygen should be considered for moderate sedation and should be administered during deep sedation; supplemental oxygen should be administered if hypoxemia is anticipated or develops. **(4444 — high)**
-6. We suggest that capnography monitoring be considered for patients undergoing endoscopy targeting deep sedation. **(44BB — low)**
-7. We recommend anesthesia provider–administered sedation be considered for complex endoscopic procedures or patients with multiple medical comorbidities or at risk for airway compromise. **(444B — moderate)**
-8. We suggest that endoscopists use propofol-based sedation (endoscopist-directed or anesthesia-provider administered) when it is expected to improve patient safety, comfort, procedural efficiency, and/or successful procedure completion. **(44BB — low)**
+1. We recommend that all patients undergoing endoscopic procedures be evaluated to assess their risk of sedation related to pre-existing medical conditions. **(High quality — high)**
+2. We recommend that the combination of an opioid and benzodiazepine is a safe and effective regimen for achieving minimal to moderate sedation for upper endoscopy and colonoscopy in patients without risk factors for sedation-related adverse events. **(High quality — high)**
+3. We suggest using an appropriate adjunctive agent (eg, diphenhydramine, promethazine, or droperidol) in combination with conventional sedative drugs in select clinical circumstances. **(Low quality — low)**
+4. We recommend that providers undergo specific training in the administration of endoscopic sedation and possess the skills necessary for the diagnosis and management of sedation-related adverse events, including rescue from a level of sedation deeper than that intended. **(High quality — high)**
+5. We recommend the routine monitoring of blood pressure, oxygen saturation, and heart rate in addition to clinical observation for changes in cardiopulmonary status during all endoscopic procedures using sedation. Supplemental oxygen should be considered for moderate sedation and should be administered during deep sedation; supplemental oxygen should be administered if hypoxemia is anticipated or develops. **(High quality — high)**
+6. We suggest that capnography monitoring be considered for patients undergoing endoscopy targeting deep sedation. **(Low quality — low)**
+7. We recommend anesthesia provider–administered sedation be considered for complex endoscopic procedures or patients with multiple medical comorbidities or at risk for airway compromise. **(Moderate quality — moderate)**
+8. We suggest that endoscopists use propofol-based sedation (endoscopist-directed or anesthesia-provider administered) when it is expected to improve patient safety, comfort, procedural efficiency, and/or successful procedure completion. **(Low quality — low)**
 
 ### Additional points
 - **NPO/aspiration:** ASA — minimum 2 h after clear liquids, 6 h after a light meal; no universally accepted fasting standard. With impaired gastric emptying or emergencies, weigh aspiration risk in choosing target sedation depth, delaying the procedure, or protecting the airway with intubation.

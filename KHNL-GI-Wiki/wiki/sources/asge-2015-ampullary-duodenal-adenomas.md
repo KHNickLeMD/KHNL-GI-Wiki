@@ -3,7 +3,7 @@ title: "ASGE 2015: The Role of Endoscopy in Ampullary and Duodenal Adenomas"
 category: source
 tags: [ampullary-adenoma, duodenal-adenoma, papilla-of-vater, endoscopic-papillectomy, fap, ercp, eus, post-ercp-pancreatitis, surveillance]
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-10-20
 sources: []
 ---
 
@@ -34,14 +34,14 @@ For **nonampullary duodenal polyps**, the approach mirrors right-colon polypecto
 
 ## All Recommendations (Verbatim, with GRADE Evidence Quality)
 
-Evidence-quality symbols (GRADE): 4444 = High; 444B = Moderate; 44BB = Low; 4BBB = Very low. Recommendation strength: "we recommend" = stronger; "we suggest" = weaker.
+The document marks evidence quality with filled and open circles — **⊕⊕⊕⊕ high, ⊕⊕⊕◯ moderate, ⊕⊕◯◯ low, ⊕◯◯◯ very low**; it is written out in words below. Recommendation strength is carried by the verb: **"we recommend" = stronger, "we suggest" = weaker.**
 
-1. We recommend that biopsy specimens be obtained and evaluated from ampullary lesions suspicious for neoplasia before attempted endoscopic resection. **(Moderate — 444B)**
-2. We recommend EUS for large ampullary lesions or duodenal polyps with features concerning for malignancy before endoscopic or surgical resection. **(Moderate — 444B)**
-3. We suggest ERCP with both biliary and pancreatic duct evaluation at the time of endoscopic papillectomy to assess for evidence of extension into either ductal system. **(Low — 44BB)**
-4. We recommend prophylactic pancreatic duct stent placement and rectal indomethacin during papillectomy to reduce the risk of postprocedural pancreatitis. **(Moderate — 444B)**
-5. We recommend that patients undergoing endoscopic removal of ampullary and duodenal neoplasms be included in an endoscopic surveillance program to ensure complete tissue removal and assess for disease recurrence. **(Moderate — 444B)**
-6. We suggest that patients with sporadic ampullary or duodenal adenomas be offered screening colonoscopy. **(Low — 44BB)**
+1. We recommend that biopsy specimens be obtained and evaluated from ampullary lesions suspicious for neoplasia before attempted endoscopic resection. **(Moderate — Moderate quality)**
+2. We recommend EUS for large ampullary lesions or duodenal polyps with features concerning for malignancy before endoscopic or surgical resection. **(Moderate — Moderate quality)**
+3. We suggest ERCP with both biliary and pancreatic duct evaluation at the time of endoscopic papillectomy to assess for evidence of extension into either ductal system. **(Low — Low quality)**
+4. We recommend prophylactic pancreatic duct stent placement and rectal indomethacin during papillectomy to reduce the risk of postprocedural pancreatitis. **(Moderate — Moderate quality)**
+5. We recommend that patients undergoing endoscopic removal of ampullary and duodenal neoplasms be included in an endoscopic surveillance program to ensure complete tissue removal and assess for disease recurrence. **(Moderate — Moderate quality)**
+6. We suggest that patients with sporadic ampullary or duodenal adenomas be offered screening colonoscopy. **(Low — Low quality)**
 
 ---
 

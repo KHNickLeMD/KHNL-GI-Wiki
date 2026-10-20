@@ -3,7 +3,7 @@ title: "Endoscopic Ultrasound (EUS)"
 category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
-updated: 2026-10-10
+updated: 2026-10-20
 sources: [asge-2023-ergonomics, acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -72,7 +72,7 @@ Grades use the document's own scale (1A strongest → 3 expert opinion; scale on
 
 - **Informed consent** must include EUS-specific risks (pancreatitis, infection, bile leak, perforation — depending on procedure type); where relevant, discuss pivoting to an EUS-guided salvage approach after failed ERCP
 - **[[antibiotic-prophylaxis-endoscopy|Prophylactic antibiotics]]:**
-  - **NOT routinely needed** for EUS-FNA of [[pancreatic-cysts|pancreatic cysts]] (randomized controlled trial [RCT] [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020]]: infection 0.44%, no difference with vs without ciprofloxacin). **Guideline conflict:** ASGE 2015 still *suggests* prophylaxis here (44BB); [[acg-2025-eus-quality|ACG/ASGE 2025]] and the RCT do not — follow the newer document
+  - **NOT routinely needed** for EUS-FNA of [[pancreatic-cysts|pancreatic cysts]] (randomized controlled trial [RCT] [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020]]: infection 0.44%, no difference with vs without ciprofloxacin). **Guideline conflict:** ASGE 2015 still *suggests* prophylaxis here (Low quality); [[acg-2025-eus-quality|ACG/ASGE 2025]] and the RCT do not — follow the newer document
   - Consider antibiotics in: immunosuppressed patients, multiple comorbidities, incomplete cyst aspiration, [[ascites]]
   - Mediastinal cysts: do NOT routinely sample (mediastinitis risk even with antibiotics)
   - Rectal ultrasound-guided FNA/FNB and lower GI tract lesions: infection risk (incl. perirectal abscess) ~15% despite antibiotics — same caution as mediastinal cysts

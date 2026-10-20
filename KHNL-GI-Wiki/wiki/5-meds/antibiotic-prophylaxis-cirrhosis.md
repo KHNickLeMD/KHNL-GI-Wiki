@@ -3,7 +3,7 @@ title: "Antibiotic Prophylaxis in Cirrhosis (GI Bleeding)"
 category: med
 tags: [cirrhosis, antibiotic-prophylaxis, ceftriaxone, norfloxacin, variceal-bleeding, sbp-prevention]
 created: 2026-05-15
-updated: 2026-10-19
+updated: 2026-10-20
 sources: [asge-2026-esophageal-gastric-varices, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2021-ascites-sbp-hrs, asge-2015-antibiotic-prophylaxis, albhaisi-2025-prophylactic-antibiotics-cirrhosis]
 ---
 
@@ -11,7 +11,7 @@ Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-ble
 
 ## Indications
 
-- **Acute GI hemorrhage in cirrhosis — give to all, from admission**, regardless of whether [[upper-endoscopy|endoscopy]] is performed. *(Baveno VII 6.7, A.1, unchanged; [[asge-2015-antibiotic-prophylaxis|American Society for Gastrointestinal Endoscopy (ASGE) 2015]] Rec 9, 4444)*
+- **Acute GI hemorrhage in cirrhosis — give to all, from admission**, regardless of whether [[upper-endoscopy|endoscopy]] is performed. *(Baveno VII 6.7, A.1, unchanged; [[asge-2015-antibiotic-prophylaxis|American Society for Gastrointestinal Endoscopy (ASGE) 2015]] Rec 9, High quality)*
   - **Rule out SBP and other active infection first** — prophylaxis is for the uninfected patient; an established infection is treated, not prophylaxed [[aasld-2021-ascites-sbp-hrs]].
   - **[[cirrhosis|Child-Pugh A]]** (Child-Turcotte-Pugh [CTP] point table on that page): risk of bacterial infection and mortality is *very low*; whether prophylaxis can be **avoided** in this subgroup is unresolved and needs prospective study — Baveno VII does **not** endorse omitting it *(6.8, B.2)*.
 - **Non-bleeding SBP primary prophylaxis** (a different indication): low [[ascites|ascitic]] protein **<1.5 g/dL** *plus* advanced hepatic/renal dysfunction — criteria live on [[spontaneous-bacterial-peritonitis]]. Baveno VII frames the same pair as "GI haemorrhage, **or** [[cirrhosis|Child-Pugh C]] cirrhosis with low protein ascites" *(4.6, B.1)*.

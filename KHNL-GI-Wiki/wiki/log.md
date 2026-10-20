@@ -6,6 +6,68 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-20] lint | London Classification and TG18 gallbladder drainage ingested; the I-SEE figure debt cleared
+
+**Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands.
+
+**New arrivals:** none to commit. `git status --porcelain` empty at session start. Note for future passes: **`raw/GI Guidelines/`, `raw/GI Lectures+Chalk Talks/`, `raw/GI Other Studies/` and `raw/GI RCTs/` are all gitignored in this clone** (`git status --ignored` confirms), so source PDFs are never committable arrivals here — only `raw/assets/` is tracked (92 files). A new arrival shows up as a new *filename*, not as an untracked git entry.
+
+**Daily source fetch:** **not run — out of scope.** The fetch is the 06:00 server-cron step and runs only when its prompt says so; this prompt did not. No `needed-sources.md` row tried, nothing marked 🔒, nothing added to `/repo/.fetch-manual.md`.
+
+**⚠ Correction to the 2026-10-19 entry titled "HHT 2020 and the London Classification".** That title was wrong: **the London Classification was never ingested.** `wiki/sources/` had no page for it, `raw/GI Guidelines/Other/London Classification 2020 IAPWG Anorectal Function (Carrington).pdf` was still uningested, and both [[anorectal-manometry]] and the `index.md` row for [[biofeedback-therapy]] still declared the classification missing. Only HHT 2020 was ingested that pass. Fixed this pass.
+
+**Ingest check — 7 uningested non-lecture files** (verified file-by-file against the 345 pages in `wiki/sources/`): `London Classification 2020 (Carrington)`, `Tokyo Guidelines 2018 Gallbladder Drainage (Mori)`, `Cotton Consensus`, the tier-2 score papers `Darwish Murad 2004 Rotterdam` / `De Martin 2021 SURFASA` / `Mehta 2017 RETREAT` / `Stapfer 2000 Duodenal Perforation`, and the still-broken `IANS 2024 Anal Cancer Screening Consensus.pdf`. The 8 byte-identical duplicate filenames in `raw/GI Guidelines/Other/` were again not counted. 60 gated lecture/chalk-talk transcripts untouched — lectures are never auto-ingested.
+
+**Both ingest slots went to tier-1 documents that close decision gaps the clinical pages declare open in their own prose.**
+
+**Sources created:**
+
+- [[london-2020-anorectal-classification]] — Carrington EV, Heinrich H, Knowles CH, et al. *Neurogastroenterol Motil* 2020;32:e13679. IAPWG consensus, 29 experts, 12 countries. Captured with the document's own vocabulary: consensus levels **C1 >90% / C2 75–90% / C3 <75% unanimity** — these are *consensus* levels, not evidence grades, and the paper says most statements are expert opinion. The document **numbers no statement**; the 32 numbered items on the source page are the wiki's numbering, and the page says so. Table 1 (the measurement set) carried in full. Supplementary Tables S1/S2 (per-statement agreement) are not in the file and are flagged as such.
+
+**Pages created:**
+
+- [[london-classification]], `7-concepts/` — home of the classification, parallel to [[chicago-classification-v4]]. **All four parts recreated as Mermaid decision trees** from Figures 2–5 (Part 1 rectoanal inhibitory reflex, Part 2 anal tone/contractility, Part 3 rectoanal coordination, Part 4 rectal sensation), each with its figure footnotes as reader-facing bullets, plus the major/minor/inconclusive tier table and a 13-row all-diagnoses-at-a-glance table with every trigger. Two operative details that are easy to lose: the hypersensitivity branch **requires MTV to be among the parameters below the lower limit of normal**, and **Part 3 contains no major findings at all** — dyssynergia tops out at *minor*, an abnormal manometric pattern with normal expulsion is only *inconclusive*.
+- **Figures 2–5 were recreated as Mermaid rather than screenshotted.** `pdftoppm` and PyMuPDF are both unavailable in this session's sandbox (permission-blocked / not installed), but these are flowcharts, not endoscopic appearance, and the Style Guide prefers a rendered decision tree to a screenshot where the content is text — so this is not a carried-forward debt.
+
+**Pages updated:**
+
+- [[anorectal-manometry]] — **the declared gap is closed.** The page previously said it "can say a study is *abnormal* but cannot assign a pattern". It now carries the IAPWG standardized protocol as an 8-row ordered table (stabilization 3 min; rest 60 s; 3 × 5-s squeezes at 30-s intervals; one 30-s long squeeze then 60 s; 2 single coughs at 30 s; 3 × 15-s pushes at 30 s — **the one element with no consensus**; rectal sensory testing; one RAIR from ≥30 mL, repeated at higher volumes if megarectum is suspected), the equipment minimums (≥6 cm recording length, circumferential sensors, balloon base 3–5 cm above the anal canal, ≥400 mL latex-free RST balloon, ramp 1–5 mL/s vs phasic 10 mL/s **not interchangeable**, 16 Fr BET catheter), a `## Measurements Reported` table, and a new `### Assigning a Pattern` section pointing at [[london-classification]]. Source 6 added.
+- [[defecation-disorders]] — the bare "Rao types are not in ACG 2021" note is replaced by the pattern vocabulary that does exist, with the tiering spelled out (none of the coordination patterns is a major finding). Source 6 added.
+- `wiki/index.md` — rows for both new pages; the [[biofeedback-therapy]] row's "London Classification definitions are not given… see needed-sources" clause is **struck**, since they now are; the [[anorectal-manometry]] row rewritten around the protocol.
+
+**Second ingest — [[tg18-2018-gallbladder-drainage]]** (Mori Y, Itoi T, Baron TH, et al. *J Hepatobiliary Pancreat Sci* 2018;25:87–95). Both of its **2** recommendations captured with the document's own labels ("Recommendation 1, level B" for each of Q1 and Q2 — the paper's own wording; it supplies no grading key in text).
+
+- [[acute-cholecystitis]] — four new subsections. **The antithrombotic rules are the net-new decision content**: continue aspirin where thromboembolic risk is high, **stop clopidogrel 5 days before**, anticoagulant only at **PT-INR <1.5 with heparin substitution**, and **avoid percutaneous drainage entirely on dual antiplatelet + anticoagulant** → transpapillary instead. Also PT-GBD device sizes (18-G needle, 6–10 Fr catheter), the **Grade III higher-mortality/readmission/length-of-stay signal**, the PTGBA non-recommendation *with* the newer multicentre data that cuts against it, and the ENGBD-vs-EGBS choice (no significant difference on any of three meta-analysed outcomes; the real difference is flushing vs self-removal against comfort vs occlusion) with wire/tube/stent sizes and the valves-of-Heister failure mode.
+- **Contradiction surfaced, not collapsed:** TG18 makes **PT-GBD the standard** and gates the endoscopic routes to high-volume centres, where [[aga-2023-eus-gallbladder-drainage|AGA 2023]] and [[asge-2024-therapeutic-eus-biliary|ASGE 2024]] default to EUS-GBD. Newer publications govern the page, but TG18's reasoning is recorded because it changes who it applies to: it found **no significant difference between PT-GBD and EUS-GBD** and restricted the endoscopic routes on grounds of **establishment**, not outcome — so in a hospital without that expertise TG18's position is the live one.
+- **[[eus-guided-gallbladder-drainage]] deliberately not edited.** TG18's EUS-GBD content (2016-era pooled series, 198 patients) is older and lower-priority than the AGA 2023 / ASGE 2024 material already on that page, and adds nothing non-conflicting that the page lacks. The stent-type outcome table is kept on the source page only. Nothing padded.
+
+**No `needed-sources.md` row for the Rao criteria — deliberately.** Two pages pointed at the download list for Rao dyssynergia types I–IV. Rao SS, *Gastroenterol Clin North Am* 2001;30:97–114 is a **narrative review**, which *What belongs on the download list* excludes outright; the London consensus also reports that the quantitative metric behind the types (rectoanal pressure gradient) overlaps substantially between patients and healthy volunteers. Both pointers were removed rather than a row added (*Quality over quota*).
+
+**Stale-page validation — the 2026-06-27 ASGE source rotation, and it turned up a corpus-wide defect.**
+
+- ⚠ **Garbled GRADE glyphs on 11 pages.** `pdftotext` renders the ASGE evidence-quality circles as ASCII: **`4444` = ⊕⊕⊕⊕ high, `444B` = ⊕⊕⊕◯ moderate, `44BB` = ⊕⊕◯◯ low, `4BBB` = ⊕◯◯◯ very low** (the same substitution recorded on 2026-09-08 for [[asge-2014-lgib]]). Those tokens had been copied onto pages verbatim, so a reader met `**Recommended; continue after procedure (444B)**` with no way to read the evidence quality — **including on three clinical pages**, not just source pages: [[antibiotic-prophylaxis-endoscopy]], [[antibiotic-prophylaxis-cirrhosis]], [[endoscopic-ultrasound]] and [[familial-adenomatous-polyposis]]. **Every occurrence replaced with the word** (High / Moderate / Low / Very low quality) across `wiki/`, and each page's legend rewritten to show the real symbols. `asge-2013-biliary-neoplasia` carried a second garbling of the same glyphs (`QQQQ` / `QQQŒ`) and was fixed the same way. 0 occurrences remain outside `log.md` (where they are history).
+- [[asge-2015-antibiotic-prophylaxis]] (was 2026-06-27) — **validated in full.** All 12 recommendations present and correctly graded against the document's Table 3; the bacteremia-by-procedure data, the high-risk cardiac condition list and the cirrhosis-GI-bleed rule are decision-sufficient. Fixes: the glyph problem above, and GRADE expanded at first use.
+- [[asge-2017-subepithelial-lesions]] (was 2026-06-27) — all 11 recommendations present with strength *and* quality. Fixes: glyphs and the now-circular grade legend; removed a duplicate top-level `#` title that repeated the frontmatter title (the site builds its outline from headings).
+- [[asge-2015-ampullary-duodenal-adenomas]] (was 2026-06-27) — glyphs and legend fixed; **not otherwise re-verified against the PDF this pass** — it should take a full validation slot on the next rotation.
+- Same glyph/legend fix applied to [[asge-2018-sedation]], [[asge-2015-benign-pancreatic-disease]], [[asge-2020-fap]] and [[asge-2013-biliary-neoplasia]], which were not otherwise reviewed. All 11 touched pages had `updated:` bumped, since all were edited.
+
+**Coverage-gap queue — 0 pages created, and that is the correct number.** The pass carried two full tier-1 ingests plus a cross-corpus grade-glyph repair; the rule caps a heavy pass at *1 or none*, and nothing in the queue was blocking a decision on a live page. Queue unchanged.
+
+**Hygiene / whole-wiki checks:**
+
+- **Broken links: 0** (whole `wiki/` parsed, escaped alias pipes handled, `log.md` excluded as documentation). Unescaped alias pipes in table cells: **0**. OS artifacts (`.DS_Store`, `Thumbs.db`): **none**.
+- **Stub-expansion step did nothing — nothing qualified.** There are no stubs anywhere in `wiki/`.
+- **Orphans:** the three pages created/ingested this pass all have inbound links ([[london-classification]] from [[anorectal-manometry]] and [[defecation-disorders]]; both new source pages from their entity pages). [[nejm-2023-fever-returning-traveler]] remains the one known orphan, still awaiting Nick's call (retire or re-slug) — **not actioned unilaterally**.
+- **Index counts:** `index.md` has no global totals line to reconcile; per-row source counts updated for [[anorectal-manometry]] (5→6) and [[acute-cholecystitis]] (5→7).
+
+**⚠ Still carried forward — the I-SEE figure captures.** [[i-see-2022-eoe-severity-index]] Figures 1 and 3 (endoscopic grading made by looking) are still not on [[eosinophilic-esophagitis]]. `pdftoppm` is permission-blocked in this sandbox and **PyMuPDF is not installed** (`ModuleNotFoundError: fitz`), so no crop could be produced; `/tmp` is also outside the writable working directory. The target remains pages 8 and 9 of the I-SEE PDF → `raw/assets/eoe-2022-isee-inflammatory-endoscopy-08.png` and `eoe-2022-isee-fibrotic-endoscopy-09.png`. **Note for whoever has image tooling: the Read tool renders PDF pages directly, which is how Figures 2–5 of the London paper were read this pass** — enough to recreate a flowchart, not enough to produce an endoscopic image file.
+
+**⚠ Card files still owed — not written this pass either.** The four from 2026-10-19 ([[acute-cholangitis]], [[acute-cholecystitis]], [[eosinophilic-esophagitis]], [[botulinum-toxin]]) are now joined by **three more tier-1-sourced pages that took new clinical content today**: [[anorectal-manometry]], [[london-classification]] and [[acute-cholecystitis]] again. The budget went to the ingests and the glyph repair. Highest-yield new candidates: the **antithrombotic rules before percutaneous gallbladder drainage** (stop clopidogrel 5 days; PT-INR <1.5 + heparin; avoid on dual therapy), and the **London tiering** — that dyssynergia is only a *minor* finding and that rectal hypersensitivity requires MTV below the lower limit of normal.
+
+**Uningested backlog after this pass:** `Cotton Consensus`, the tier-2 score papers `Darwish Murad 2004 Rotterdam` / `De Martin 2021 SURFASA` / `Mehta 2017 RETREAT` / `Stapfer 2000 Duodenal Perforation`, and the still-broken `IANS 2024 Anal Cancer Screening Consensus.pdf` — **6 files, down from 7**. `Cotton Consensus` is the only tier-1 document left and should take a slot next pass. The 8 byte-identical duplicate filenames in `raw/GI Guidelines/Other/` and the 60 gated lecture transcripts are not counted and were not touched.
+
+---
+
 ## [2026-10-19] lint | 06:00 pass — TG18 antimicrobial therapy and the I-SEE severity index
 
 **Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands.

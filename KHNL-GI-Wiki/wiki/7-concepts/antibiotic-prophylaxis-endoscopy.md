@@ -3,7 +3,7 @@ title: "Antibiotic Prophylaxis for GI Endoscopy"
 category: concept
 tags: [antibiotic-prophylaxis, infective-endocarditis, ercp, peg, eus-fna, cirrhosis, gi-bleeding, bacteremia, endoscopy]
 created: 2026-06-27
-updated: 2026-10-04
+updated: 2026-10-20
 sources: [asge-2015-antibiotic-prophylaxis, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics]
 ---
 
@@ -22,9 +22,9 @@ Framework for when periprocedural antibiotics are — and are not — indicated 
 - [[#Sources]]
 
 ## Key Principle — Not for IE
-- **Do not give antibiotic prophylaxis solely to prevent infective endocarditis (IE)** for any GI endoscopic procedure, regardless of cardiac lesion (aligns with the American Heart Association [AHA]). *(Rec 1, 444B)*
+- **Do not give antibiotic prophylaxis solely to prevent infective endocarditis (IE)** for any GI endoscopic procedure, regardless of cardiac lesion (aligns with the American Heart Association [AHA]). *(Rec 1, Moderate quality)*
 - No causal link between endoscopy and IE; ~25 temporally associated IE cases across millions of procedures; routine daily activity (brushing/flossing/chewing) causes bacteremia often exceeding endoscopy rates.
-- **Exception:** high-risk cardiac patients with an **established GI infection** in which enterococci may be part of the flora may receive coverage — directed at treating the infection, not the procedure. *(Rec 2, 44BB)*
+- **Exception:** high-risk cardiac patients with an **established GI infection** in which enterococci may be part of the flora may receive coverage — directed at treating the infection, not the procedure. *(Rec 2, Low quality)*
 
 ### Highest-Risk Cardiac Conditions (the exception list)
 
@@ -49,9 +49,9 @@ The exception is conditional on this list, so the list is the decision ([[asge-2
   - Why incomplete drainage is the trigger: it predicted **91%** of all post-ERCP sepsis in one study; and in the few trials showing benefit, antibiotics were **continued for several days after** the procedure.
   - **Already in [[acute-cholangitis|cholangitis]]?** Treat the cholangitis with antibiotics — **additional single-dose ERCP prophylaxis is not recommended** on top of treatment.
   - Even with prophylaxis, **liver transplant recipients remain at higher risk** (1.2% infection rate vs 0.28% overall).
-- **[[enteral-access|PEG/PEJ placement]]** → parenteral **cefazolin 1 g intravenous (IV) 30 minutes before** the procedure (or an antibiotic with equivalent coverage of cutaneous organisms); pooled odds ratio (OR) for peristomal infection **0.36** (95% confidence interval [CI] 0.26–0.50). Where **methicillin-resistant *Staphylococcus aureus* (MRSA) is endemic**, preprocedure screening (nose, throat, perineum, broken skin) with decolonization of positives reduces MRSA peristomal infection. PEJ is unstudied but treated the same. *(Rec 8, 4444)*
-- **EUS-FNA of cystic lesions** (mediastinal and pancreatic/peripancreatic [[pancreatic-cysts|cysts]]) → antibiotics before, often continued 3–5 days, to prevent cyst infection. **Contested for pancreatic cysts:** the first randomized controlled trial (RCT) ([[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020]], n=226) found infection risk low (0.44%) and **not** reduced by ciprofloxacin — arguing prophylaxis is **not** routinely needed for pancreatic-cyst FNA. The American Society for Gastrointestinal Endoscopy (ASGE) 2015 guideline still *suggests* it (44BB); duplication/mediastinal cysts were excluded from the RCT, so it does not address them.
-  - **Mediastinal cysts — conflict:** ASGE 2015 *suggests* prophylaxis for their FNA (44BB); the newer [[acg-2025-eus-quality|ACG/ASGE 2025 EUS quality indicators]] advise against routinely sampling them at all, because antibiotics have not been shown to prevent cyst infection or mediastinitis.
+- **[[enteral-access|PEG/PEJ placement]]** → parenteral **cefazolin 1 g intravenous (IV) 30 minutes before** the procedure (or an antibiotic with equivalent coverage of cutaneous organisms); pooled odds ratio (OR) for peristomal infection **0.36** (95% confidence interval [CI] 0.26–0.50). Where **methicillin-resistant *Staphylococcus aureus* (MRSA) is endemic**, preprocedure screening (nose, throat, perineum, broken skin) with decolonization of positives reduces MRSA peristomal infection. PEJ is unstudied but treated the same. *(Rec 8, High quality)*
+- **EUS-FNA of cystic lesions** (mediastinal and pancreatic/peripancreatic [[pancreatic-cysts|cysts]]) → antibiotics before, often continued 3–5 days, to prevent cyst infection. **Contested for pancreatic cysts:** the first randomized controlled trial (RCT) ([[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020]], n=226) found infection risk low (0.44%) and **not** reduced by ciprofloxacin — arguing prophylaxis is **not** routinely needed for pancreatic-cyst FNA. The American Society for Gastrointestinal Endoscopy (ASGE) 2015 guideline still *suggests* it (Low quality); duplication/mediastinal cysts were excluded from the RCT, so it does not address them.
+  - **Mediastinal cysts — conflict:** ASGE 2015 *suggests* prophylaxis for their FNA (Low quality); the newer [[acg-2025-eus-quality|ACG/ASGE 2025 EUS quality indicators]] advise against routinely sampling them at all, because antibiotics have not been shown to prevent cyst infection or mediastinitis.
 - **Cirrhosis admitted with acute GI bleeding** → antibiotics for **all** such patients **at admission, regardless of endoscopy** — IV **ceftriaxone** (or oral **norfloxacin** if intolerant). Reduces infections, rebleeding, and mortality. See [[antibiotic-prophylaxis-cirrhosis]], [[variceal-upper-gi-bleeding]], [[portal-hypertension|portal hypertensive]] bleeding, and [[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]].
 - **Continuous ambulatory peritoneal dialysis** → *suggested* before lower-GI endoscopy to prevent peritonitis. Risk of peritonitis after colonoscopy **without** prophylaxis was **6.3%** in a retrospective study (biopsy/[[polypectomy]] did not further increase it); no peritonitis occurred in those given antibiotics, though the difference was not statistically significant. *(Rec 12; based on observational data only)*
   - **Regimen (International Society for Peritoneal Dialysis):** **ampicillin 1 g** plus a **single dose of an aminoglycoside**, ± **metronidazole**, IV **immediately before** the procedure. Acceptable alternative: prophylactic antibiotics **intraperitoneally the night before**.
@@ -75,7 +75,7 @@ The only agents and doses ASGE 2015 actually specifies:
 - ERCP with complete drainage and no suspected obstruction.
 - Diagnostic EUS / EUS-FNA of **solid** lesions (upper or lower GI).
 - **Synthetic vascular grafts** or other nonvalvular cardiovascular devices (eg, implantable electronic devices) — any procedure.
-- **Orthopedic prostheses** — any procedure (American Academy of Orthopaedic Surgeons [AAOS] blanket-prophylaxis statement was withdrawn for lack of evidence). *(Rec 11, 444B)*
+- **Orthopedic prostheses** — any procedure (American Academy of Orthopaedic Surgeons [AAOS] blanket-prophylaxis statement was withdrawn for lack of evidence). *(Rec 11, Moderate quality)*
 
 ## Immunocompromise and Neutropenia
 
@@ -92,21 +92,21 @@ There is no ASGE recommendation here — the guidance is graded by neutrophil co
 ## Quick Reference Table
 | Scenario | Procedure | Prophylaxis | Grading of Recommendations Assessment, Development and Evaluation (GRADE) |
 |---|---|---|---|
-| Bile duct obstruction, complete drainage | ERCP | Not recommended | 4444 |
-| Bile duct obstruction, incomplete drainage | ERCP | **Recommended**, continue after | 444B |
-| Solid lesion (upper / lower) | EUS-FNA | Not recommended | 4444 / 444B |
-| Mediastinal cyst | EUS-FNA | **Suggested** | 44BB |
-| Pancreatic/peripancreatic cyst | EUS-FNA | **Suggested** (44BB) — but RCT ([[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics\|2020]]) shows not needed | 44BB |
-| All patients | PEG/PEJ placement | **Recommended** (cefazolin) | 4444 |
-| Cirrhosis + acute GI bleed | Any/none | **On admission** (ceftriaxone) | 4444 |
-| Synthetic vascular graft / nonvalvular cardiovascular (CV) device | Any | Not recommended | 4444 |
-| Prosthetic joint | Any | Not recommended | 444B |
-| Peritoneal dialysis | Lower GI endoscopy | **Suggested** (ampicillin 1 g + aminoglycoside) | 44BB* |
-| Solely to prevent IE | Any | Not recommended | 444B |
-| High-risk cardiac lesion **+ established GI infection** | Any | Include anti-enterococcal agent | 44BB |
+| Bile duct obstruction, complete drainage | ERCP | Not recommended | High quality |
+| Bile duct obstruction, incomplete drainage | ERCP | **Recommended**, continue after | Moderate quality |
+| Solid lesion (upper / lower) | EUS-FNA | Not recommended | High quality / Moderate quality |
+| Mediastinal cyst | EUS-FNA | **Suggested** | Low quality |
+| Pancreatic/peripancreatic cyst | EUS-FNA | **Suggested** (Low quality) — but RCT ([[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics\|2020]]) shows not needed | Low quality |
+| All patients | PEG/PEJ placement | **Recommended** (cefazolin) | High quality |
+| Cirrhosis + acute GI bleed | Any/none | **On admission** (ceftriaxone) | High quality |
+| Synthetic vascular graft / nonvalvular cardiovascular (CV) device | Any | Not recommended | High quality |
+| Prosthetic joint | Any | Not recommended | Moderate quality |
+| Peritoneal dialysis | Lower GI endoscopy | **Suggested** (ampicillin 1 g + aminoglycoside) | Low quality* |
+| Solely to prevent IE | Any | Not recommended | Moderate quality |
+| High-risk cardiac lesion **+ established GI infection** | Any | Include anti-enterococcal agent | Low quality |
 | ANC <500/µL, advanced heme malignancy, bone marrow transplant (BMT) | Any | **Insufficient evidence — individualize** | — |
 
-\* The guideline grades this inconsistently: **Table 3 lists 44BB**, while **Recommendation 12 lists 4BBB**. Treat it as the weakest-supported item on the list either way (observational data only).
+\* The guideline grades this inconsistently: **Table 3 lists Low quality**, while **Recommendation 12 lists Very low quality**. Treat it as the weakest-supported item on the list either way (observational data only).
 
 ## See Also
 [[ercp]], [[endoscopic-ultrasound]], [[colonoscopy]], [[upper-endoscopy]], [[pancreatic-cysts]], [[antibiotic-prophylaxis-cirrhosis]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[endoscopy-sedation]], [[preprocedure-testing]], [[primary-sclerosing-cholangitis]], [[nutrition-in-hospitalized-patients]], [[enteral-access]], [[acute-cholangitis]], [[cirrhosis]], [[polypectomy]], [[liver-transplantation]]

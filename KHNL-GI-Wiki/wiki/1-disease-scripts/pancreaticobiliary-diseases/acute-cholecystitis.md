@@ -3,8 +3,8 @@ title: "Acute Cholecystitis"
 category: disease-script
 tags: [acute-cholecystitis, gallbladder, cholecystectomy, eus-gbd, percutaneous-cholecystostomy, transpapillary-drainage, lams, high-surgical-risk]
 created: 2026-07-23
-updated: 2026-10-19
-sources: [tg18-2018-antimicrobial-therapy, aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver, tg18-2018-cholangitis-flowchart, tg18-2018-cholecystitis-criteria]
+updated: 2026-10-20
+sources: [tg18-2018-antimicrobial-therapy, aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver, tg18-2018-cholangitis-flowchart, tg18-2018-cholecystitis-criteria, tg18-2018-gallbladder-drainage]
 ---
 
 # Acute Cholecystitis
@@ -25,6 +25,9 @@ sources: [tg18-2018-antimicrobial-therapy, aga-2023-eus-gallbladder-drainage, as
   - [[#Who is a nonsurgical candidate?]]
   - [[#Gallbladder drainage in high-surgical-risk patients]]
   - [[#Choosing the drainage route]]
+  - [[#Antithrombotics and coagulopathy before percutaneous drainage]]
+  - [[#Percutaneous technique and its grade caveat]]
+  - [[#Transpapillary drainage — tube or stent?]]
   - [[#Follow-up after EUS-GBD]]
   - [[#Cholecystectomy in Pregnancy]]
 - [[#See Also]]
@@ -210,6 +213,7 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 
 - ⚠ **Avoid EUS-GBD in a potential [[liver-transplantation\|liver transplant]] candidate** — stated explicitly by ASGE 2024, and net-new versus [[aga-2023-eus-gallbladder-drainage|American Gastroenterological Association (AGA) 2023]]. The cholecystoenteric fistula it creates is the reason.
 - ⚠ **Contradiction — the "may be a surgical candidate later" patient.** [[aga-2023-eus-gallbladder-drainage|AGA 2023]]'s algorithm routes this patient to **ET-GBD** first. ASGE 2024 is **internally inconsistent**: its Rec 5a general concepts list this group under **PT-GBD**, while its own Table 2 lists them under **ET-GBD**. Both guidelines agree the patient should **not** get EUS-GBD; neither guideline settles which non-transmural route is used. **Confirm future surgical candidacy with the surgeon either way.**
+- ⚠ **Contradiction — the older Tokyo Guidelines make percutaneous drainage the standard.** [[tg18-2018-gallbladder-drainage|TG18]] recommends **PT-GBD as *the* standard drainage method** for the surgically high-risk patient (Recommendation 1, level B), and permits ET-GBD or EUS-GBD **only in high-volume institutes with skilled pancreaticobiliary endoscopists** (level B). Same tier; AGA 2023 and ASGE 2024 are the newer publications and govern this page. Note **why** TG18 differs: it reports **no significant difference between PT-GBD and EUS-GBD** in technical success, clinical success or adverse events, and restricts the endoscopic routes because nearly all the evidence came from expert centres — an **establishment** argument, not an outcome one. **Where that expertise is not available, TG18's position is the operative one** — which is also ASGE's own PT-GBD carve-out above.
 - ⚠ **Contradiction — the default route.** AGA 2023's figure sends several groups (uncontrolled ascites, ERCP needed anyway, gallbladder (GB) >10 mm from the GI wall) to **ET-GBD first**; ASGE 2024 makes **EUS-GBD** the general first choice with ascites/coagulopathy/malignant infiltration as the ET-GBD carve-outs. **ASGE 2024 governs** (newer, same tier, and a Grading of Recommendations Assessment, Development and Evaluation (GRADE) guideline vs a CPU) — but the AGA carve-outs it does not contradict (needs ERCP for coexisting [[choledocholithiasis|CBD stones]] or [[acute-cholangitis|cholangitis]]; GB >10 mm from the enteral wall, which makes LAMS deployment unsafe) still stand as reasons to choose ET-GBD.
 
 ### Choosing the drainage route
@@ -223,6 +227,34 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
   - **EUS-GBD initially** (after surgeon discussion) if: duodenal obstruction / [[gastric-outlet-obstruction|gastric outlet obstruction]]; in-dwelling metal stent occluding the cystic duct; large gallbladder stone burden. If fails → ET-GBD.
   - If both endoscopic routes fail → PT-GBD.
 - EUS-GBD is also an option to **internalize an existing percutaneous cholecystostomy** in permanent non-surgical candidates, and a rescue for malignant biliary obstruction after failed ERCP + failed EUS-guided biliary drainage (EUS-BD). ([[aga-2023-eus-gallbladder-drainage]])
+
+### Antithrombotics and coagulopathy before percutaneous drainage
+
+*The only antithrombotic rules any ingested source gives for gallbladder drainage, and they cover the **percutaneous** route only ([[tg18-2018-gallbladder-drainage]], adopting Society of Interventional Radiology guidance). For periprocedural management of antithrombotics in endoscopy generally, see [[anticoagulation-gi-bleeding]].*
+
+| Agent | Before PT-GBD |
+|---|---|
+| **Aspirin**, high thromboembolic risk | **Continue** — drainage may proceed without stopping it |
+| **Clopidogrel** | **Stop 5 days before** |
+| **Anticoagulant** | Proceed only with **prothrombin time international normalized ratio (PT-INR) <1.5 and heparin substitution** |
+| **Antiplatelet *and* anticoagulant together** | **Avoid PT-GBD** — no reliable data. Use **ET-GBD** where a skilled pancreaticobiliary endoscopist is available |
+
+- The transpapillary route is the one TG18 names as suited to **severe coagulopathy, thrombocytopenia, or an anatomically inaccessible gallbladder** — the same direction ASGE 2024 takes with its severe-coagulopathy carve-out above.
+
+### Percutaneous technique and its grade caveat
+
+- **PT-GBD:** ultrasound-guided transhepatic puncture with an **18-G needle**, guidewire, then a **6–10 Fr catheter** into the gallbladder under fluoroscopy. Technically easy for general clinicians — part of why TG18 keeps it as the fallback standard. ([[tg18-2018-gallbladder-drainage]])
+- ⚠ **In Grade III (severe) disease, PT-GBD is reported to carry higher mortality, higher readmission rates and longer stay.** TG18 states the signal without naming an alternative; read it against its own caution that **the severity grade does not measure surgical risk or difficulty** ([[tg18-2018-cholecystitis-criteria]]) — a Grade III patient is not automatically inoperable.
+- **Percutaneous aspiration without a catheter (PTGBA) is not a standard procedure** — aspiration can fail when bile has been replaced by dense sludge or pus. TG18 reports the opposing evidence openly: in the largest multicentre study, **clinical success at 3 days was higher than PT-GBD or stenting (no difference at 7 days) with a lower complication rate**, possibly because those series held more mild/moderate cases and used saline lavage. Unresolved.
+
+### Transpapillary drainage — tube or stent?
+
+*Route selection is above; this is the choice once ET-GBD is chosen.* ([[tg18-2018-gallbladder-drainage]])
+
+- **Either is acceptable** — endoscopic naso-gallbladder drainage (ENGBD) or endoscopic gallbladder stenting (EGBS), by patient background and endoscopist judgement (Recommendation 1, level B). A TG18 meta-analysis of the two randomized trials found **no significant difference** in technical success (odds ratio 1.18, 95% CI 0.36–3.89), clinical success (1.82, 0.40–8.26) or adverse events (1.04, 0.29–3.81).
+- **What separates them in practice:** ENGBD allows **bile flushing** through the transnasal tube but is sometimes **pulled out by the patient** for discomfort; EGBS is internal and more comfortable but can **occlude**.
+- **Devices:** after biliary cannulation, a **0.025- or 0.035-inch guidewire** into the cystic duct and gallbladder, then either a **5–8.5 Fr pigtail naso-gallbladder tube** (ENGBD; **sphincterotomy generally not required**) or a **6–10 Fr internal stent** (EGBS).
+- **Why it fails:** the cystic duct is often not seen on cholangiography; cystic duct stenosis or a stone impacted in the gallbladder neck blocks the wire; the **tortuous valves of Heister** resist standard guidewires. ⚠ Prolonged attempts risk **post-ERCP pancreatitis** (see [[ercp]]) and **cystic duct or gallbladder perforation**.
 
 ### Follow-up after EUS-GBD
 
@@ -253,3 +285,4 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 4. [[tg18-2018-cholangitis-flowchart|Tokyo Guidelines 2018: Initial Management of Acute Biliary Infection and Flowchart for Acute Cholangitis]]
 5. [[tg18-2018-cholecystitis-criteria|Tokyo Guidelines 2018: Diagnostic Criteria and Severity Grading of Acute Cholecystitis]]
 6. [[tg18-2018-antimicrobial-therapy|Tokyo Guidelines 2018: Antimicrobial Therapy for Acute Cholangitis and Cholecystitis]]
+7. [[tg18-2018-gallbladder-drainage|Tokyo Guidelines 2018: Management Strategies for Gallbladder Drainage in Patients with Acute Cholecystitis (with Videos)]]

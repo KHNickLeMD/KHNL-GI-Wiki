@@ -3,8 +3,8 @@ title: "Defecation Disorders (Dyssynergic Defecation)"
 category: disease-script
 tags: [defecation-disorder, dyssynergia, outlet-obstruction, biofeedback, anorectal-manometry, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-10-18
-sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-dgbi, aga-2017-surgical-device-fecal-incontinence, aga-2026-refractory-constipation]
+updated: 2026-10-20
+sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-dgbi, aga-2017-surgical-device-fecal-incontinence, aga-2026-refractory-constipation, london-2020-anorectal-classification]
 ---
 
 ## Contents
@@ -115,7 +115,7 @@ Severity based on symptom burden, laxative dependence, impact on quality of life
 - **A negative rectoanal gradient is likewise common in healthy people** — so the gradient that Rome V leans on cannot be used as a stand-alone rule-in. The same caveat applies to the other manometric features of DD: decreased rectal pressure, high anal pressure during evacuation, and high anal resting pressure.
 - **Position matters:** seated manometry may discriminate healthy people from DD patients better than left-lateral manometry, though confirmatory studies are awaited.
 
-> The widely used **Rao dyssynergia types I–IV** (the four rectal-pressure/anal-pressure permutation patterns) are **not defined in [[acg-2021-anorectal-disorders]]** — the guideline characterizes dyssynergia only as impaired relaxation/paradoxical contraction and/or inadequate propulsive force. The type definitions are in the original Rao classification paper.
+**Naming the pattern.** [[acg-2021-anorectal-disorders]] characterizes dyssynergia only as impaired relaxation/paradoxical contraction and/or inadequate propulsive force — it defines no subtypes. The named manometric patterns come from the **[[london-classification|London Classification]]**, which splits an abnormal balloon expulsion by propulsion and by anal relaxation into *dyssynergia*, *poor propulsion*, or *both* ([[london-2020-anorectal-classification]]). Note the tiering: **none of these is a major finding** in that scheme — exactly the false-positive problem above — and an abnormal manometric pattern with a normal expulsion is only *inconclusive*. The widely used **Rao dyssynergia types I–IV** are a different, older scheme and are in no ingested source.
 
 **Defecography (barium or magnetic resonance imaging (MRI)) — for structural evaluation:**
 
@@ -213,7 +213,7 @@ Severity based on symptom burden, laxative dependence, impact on quality of life
 ---
 
 ## See Also
-[[chronic-constipation]], [[chronic-idiopathic-constipation]], [[fecal-incontinence]], [[proctalgia-syndromes]], [[irritable-bowel-syndrome]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[anorectal-manometry]], [[high-resolution-manometry]], [[biofeedback-therapy]], [[sacral-nerve-stimulation]], [[disorders-of-gut-brain-interaction]], [[inflammatory-bowel-disease]]
+[[chronic-constipation]], [[chronic-idiopathic-constipation]], [[fecal-incontinence]], [[proctalgia-syndromes]], [[irritable-bowel-syndrome]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[anorectal-manometry]], [[high-resolution-manometry]], [[london-classification]], [[biofeedback-therapy]], [[sacral-nerve-stimulation]], [[disorders-of-gut-brain-interaction]], [[inflammatory-bowel-disease]]
 
 ---
 
@@ -224,3 +224,4 @@ Severity based on symptom burden, laxative dependence, impact on quality of life
 3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
 4. [[aga-2017-surgical-device-fecal-incontinence|Surgical Interventions and the Use of Device-Aided Therapy for the Treatment of Fecal Incontinence and Defecatory Disorders]]
 5. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review]]
+6. [[london-2020-anorectal-classification|The International Anorectal Physiology Working Group (IAPWG) Recommendations: Standardized Testing Protocol and the London Classification for Disorders of Anorectal Function]]
