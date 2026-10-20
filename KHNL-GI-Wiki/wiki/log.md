@@ -6,7 +6,44 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
-## [2026-10-20] lint | London Classification and TG18 gallbladder drainage ingested; the I-SEE figure debt cleared
+## [2026-10-20] lint | 06:00 pass — Stapfer classification completed; the wiki's first drug label
+
+**Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands.
+
+**New arrivals:** none to commit. `git status --porcelain` empty at session start, and `--untracked-files=all` also empty. As the 2026-10-20 entry below records, `raw/`'s content subfolders are gitignored in this clone (only `raw/assets/` is tracked), so a synced PDF never appears as an untracked file — a new arrival shows up as a new *filename*, not a git entry.
+
+**⚠ Two corrections to yesterday's entry, both the same class of error — a claim checked by filename instead of by content.**
+
+- **Its title claimed "the I-SEE figure debt cleared." It was not cleared** — its own body says so twice and carries it forward. Title amended in place to say NOT cleared. This is the second consecutive day a log title asserted an ingest that did not happen (the 2026-10-19 title claimed the London Classification, also corrected after the fact). **The debt is still open** (see below).
+- **`Cotton Consensus.pdf` is not uningested, and is not a consensus statement.** Four consecutive entries listed it as "the only tier-1 document left" and queued it for a slot. It is **already ingested** as [[suzuki-2021-pep-acute-pancreatitis-criteria]] — a prospective multicentre *cohort study* (Suzuki et al., *JGH Open* 2021;5:1391–1397) that cites and tests against the 1991 Cotton consensus without reproducing it. That source page has flagged the misnaming in its own text since it was written. The backlog line was produced by matching the filename, exactly the failure mode the index's own audit note warns about.
+
+**Daily source fetch (06:00 step) — 1 downloaded and ingested, 0 marked 🔒, 0 dropped silently.**
+
+- *Scores and classification instruments* is the first-priority block in `wiki/needed-sources.md`; **all 21 of its rows are still marked 🔒 or 🌐**, so there was again no fetchable candidate there.
+- Went to the **Product labels** block instead, which was untried. Picked **Baraclude (entecavir)** because it is the exact case CLAUDE.md names as qualifying: a drug GI prescribes, where **no ingested guideline gives the dose**. [[hbv-nucleoside-analogs]] declared the gap in its own prose — "AASLD/IDSA 2025 does not print adult milligram doses or renal dose-adjustment cut-points… Dose from the product label."
+- `python3 fetch-paper.py "Baraclude" --label --out "raw/Drug Labels"` → **`downloaded`**, 1,043,169 bytes, DailyMed Set ID `046e61c9-9298-4b2e-b76e-b26b81fecd20`. Ingested this pass, as the rule requires. **`raw/Drug Labels/` did not exist before today** — this is the wiki's first drug label.
+- **No second pick.** One slot was spoken for by the label and the other by a tier-2 score paper that closes a flagged gap; a second download could only have displaced it (*Quality over quota*).
+
+**Ingest check — 4 genuinely uningested non-lecture files, not the 6 yesterday claimed**, after removing `Cotton Consensus` (ingested, above): the tier-2 score papers `Darwish Murad 2004 Rotterdam`, `De Martin 2021 SURFASA`, `Mehta 2017 RETREAT`, `Stapfer 2000 Duodenal Perforation`, plus the still-broken `IANS 2024 Anal Cancer Screening Consensus.pdf`. **There is no uningested tier-1 document left in `raw/` at all** apart from that broken file. 60 gated lecture/chalk-talk transcripts untouched — lectures are never auto-ingested.
+
+**Sources created:**
+
+- [[stapfer-2000-duodenal-perforation-ercp]] — Stapfer M, Selby RR, Stain SC, et al. *Ann Surg* 2000;232:191–198. DOI verified by lookup before writing (`10.1097/00000658-200008000-00007`), not guessed. The derivation paper for the **Stapfer classification**. Chosen over the other three score papers because [[endoscopic-management-of-perforation]]'s own index row carried the warning "⚠ Stapfer types 3–4 are not printed in the source and **must not be supplied from memory**" — a flagged, named gap on a classification that decides whether a patient goes to the operating room.
+- [[baraclude-2019-entecavir-label]] — FDA prescribing information, rev. 11/2019. Labels issue no graded recommendations, so none were invented; captured as dosing tables plus the boxed warning. Flagged on the page that **a label is not a guideline** and sits outside the three-tier priority scheme — authoritative for dose, administration and labelled safety only.
+
+**Pages updated:**
+
+- [[endoscopic-management-of-perforation]] — **the declared gap is closed.** New `### Stapfer Classification of Post-ERCP Duodenal Perforation` section: all **four types** keyed to mechanism *and* anatomic location (I scope-induced duodenal wall → surgery; II peri-Vaterian from sphincterotomy; III distal bile duct from wire/basket against an obstructing stone; **IV retroperitoneal air alone, which the authors argue is not a true perforation**), the **five surgical indications**, and the **1-minute contrast rule** that the whole scheme rests on — large leak = contrast *persists past 1 minute*, minimal = *gone within 60 seconds* — plus the 8 h / 48 h double-contrast CT surveillance schedule. The "types 3 and 4 are not printed by the source" line is gone.
+  - **The explicit non-criteria were captured too, because they are the decision.** Fever and leukocytosis alone are **not** an indication for surgery (leukocytosis was present in 9 of 10 patients tested regardless of outcome); the abdominal examination is **unhelpful in the first few hours** and, because these injuries are retroperitoneal, **a benign abdomen does not exclude surgery**; *early* peritonitis should dictate surgery while late peritonitis marks a poor outcome. And **21% (3/14) of apparent "duodenal diverticula" seen at ERCP were large perforations.**
+  - ⚠ **Evidence quality stated plainly on the page, not buried:** a retrospective single-centre series of **14 patients** from 1993–1998 that predates over-the-scope clips, endoscopic suturing and covered stents entirely. **[[aga-2021-gi-perforations-endoscopic-management|AGA 2021]] is newer and higher-priority and governs management**; Stapfer is kept for *typing* and for the radiographic triage criteria AGA does not supply. Surfaced on the source page under `## Contradictions / Open Questions` rather than collapsed.
+- [[hbv-nucleoside-analogs]] — **the dose gap is closed for entecavir.** New `### Entecavir — Dose`: **0.5 mg once daily** naive, **1 mg once daily** for *either* lamivudine/telbivudine resistance *or* decompensated liver disease (two separate triggers for the same dose — the distinction is easy to lose), the **four-band creatinine-clearance table carried on both dose tracks**, the oral-solution requirement below 0.5 mg, dosing **after** hemodialysis, and **no adjustment for hepatic impairment** — worth stating outright on a hepatology page where the opposite assumption is natural. The empty-stomach rule gained its operative detail (≥2 h either side of a meal). Boxed warning added to Adverse Effects as a three-row action table. **TDF and TAF remain unfilled and the page says so.**
+- [[ercp]] — linked to the full classification rather than repeating it (*one home per fact*). Net-new ERCP-specific content only: types 3 and 4 in one line, and the **setting** — cannulation was rated difficult in 10 of 14, with the presumed instrument the sphincterotome in 6, the endoscope in 5 and the guidewire in 3.
+- `wiki/needed-sources.md` — entecavir struck from the HBV label row (Viread and Vemlidy remain, now individually linked to DailyMed searches); new row for **Stapfer Figures 1–5** under figures-needing-capture, since Figure 1 is the classification schematic and Figures 3–4 are the plain films behind the 1-minute rule.
+- `wiki/index.md` — rows for both new source pages; the two entity rows rewritten around what they now contain, and **both stale gap warnings struck** (the perforation row's "must not be supplied from memory", the HBV row's "points to the label").
+
+---
+
+## [2026-10-20] lint | London Classification and TG18 gallbladder drainage ingested (I-SEE figure debt NOT cleared — see body)
 
 **Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands.
 

@@ -91,7 +91,7 @@ FDA prescribing information from [DailyMed](https://dailymed.nlm.nih.gov/dailyme
 | Stelara (ustekinumab), Tremfya (guselkumab), Omvoh (mirikizumab), Skyrizi (risankizumab) labels | dosing, TB/HBV screening, reaction rates, pregnancy | [[il-23-and-il-12-23-inhibitors]] |
 | Ibsrela (tenapanor), Trulance (plecanatide), Linzess (linaclotide) labels | contraindications, pediatric limits, renal / hepatic adjustment | [[tenapanor]], [[plecanatide]], [[linaclotide]] |
 | Prograf (tacrolimus) label | neurotoxicity / adverse-effect detail | [[tacrolimus]] |
-| Baraclude (entecavir), Viread (tenofovir DF), Vemlidy (tenofovir AF) labels | adult mg doses; renal dose-adjustment / dialysis cut-points (AASLD/IDSA 2025 prints none); renal and bone monitoring on TDF | [[hbv-nucleoside-analogs]] |
+| [Viread (tenofovir DF)](https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=VIREAD), [Vemlidy (tenofovir AF)](https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=VEMLIDY) labels | adult mg doses; renal dose-adjustment / dialysis cut-points (AASLD/IDSA 2025 prints none); renal and bone monitoring on TDF. **Baraclude (entecavir) ingested 2026-10-20** — its doses and the four-band renal table are on the page | [[hbv-nucleoside-analogs]] |
 | Givlaari (givosiran) label | mg/kg dose | [[givosiran]] |
 | Rebyota / Vowst labels | dosing | [[fmt]] |
 | Gattex (teduglutide) label | mg/kg dose, monitoring | [[glp-2-agonists]], [[short-bowel-syndrome]] |
@@ -121,6 +121,7 @@ FDA prescribing information from [DailyMed](https://dailymed.nlm.nih.gov/dailyme
 | AGA 2026 electrosurgery Figures 1–2 | waveform / duty-cycle diagram; room layout and ESU safety checklist | [[electrosurgery]], [[aga-2026-electrosurgery]] |
 | AGA 2026 CDI Figures 1, 2A–C and online supplement | testing / management algorithms; donor-directed FMT procedure | [[aga-2026-cdiff-adults]] |
 | ACG 2018 pancreatic cysts Figure 2 | surveillance algorithm | [[acg-2018-pancreatic-cysts]] |
+| Stapfer 2000 Figures 1–5 | **Figure 1 is the classification schematic** for duodenal perforation types I–III (the paper notes type IV is not drawn); Figure 2 an endoscopic view of a type I tear; Figures 3–4 plain films contrasting a large (type I) vs minimal (type III) leak — the images behind the 1-minute contrast rule; Figure 5 a periduodenal collection on CT | [[endoscopic-management-of-perforation]] |
 | AASLD 2021 ascites Figures 2–4 | new-onset ascites, refractory ascites, AKI algorithms | [[aasld-2021-ascites-sbp-hrs]] |
 | AASLD 2022 Wilson disease Figures 2–5 | diagnostic, neurological, family-screening, treatment algorithms | [[aasld-2022-wilson-disease]] |
 | AASLD 2023 portal hypertension Figures 1–4 | staging schema, Rule of Five, AVH management | [[aasld-2023-portal-hypertension]] |

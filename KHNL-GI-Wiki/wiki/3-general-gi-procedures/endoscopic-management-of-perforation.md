@@ -3,8 +3,8 @@ title: "Endoscopic Management of GI Perforation"
 category: general-procedure
 tags: [perforation, adverse-events, endoscopic-closure, clips, otsc, ttsc, endoscopic-suturing, sems, endoscopic-vacuum-therapy, ercp, esd, emr, poem]
 created: 2026-09-08
-updated: 2026-10-04
-sources: [aga-2021-gi-perforations-endoscopic-management]
+updated: 2026-10-20
+sources: [aga-2021-gi-perforations-endoscopic-management, stapfer-2000-duodenal-perforation-ercp]
 ---
 
 *What to do at the moment an endoscopist makes a hole — prevention, intraprocedural recognition, and closure, organ by organ. Single home for the size-keyed closure rule; the procedure pages ([[colonoscopy]], [[upper-endoscopy]], [[ercp]], [[polypectomy]], [[poem]]) link here rather than repeating it.*
@@ -19,6 +19,7 @@ sources: [aga-2021-gi-perforations-endoscopic-management]
 - [[#Esophagus]]
 - [[#Stomach]]
 - [[#Duodenum and Periampullary]]
+  - [[#Stapfer Classification of Post-ERCP Duodenal Perforation]]
 - [[#Colon]]
 - [[#Aftercare and Documentation]]
 - [[#See Also]]
@@ -96,6 +97,34 @@ Know them before the case, so the consent conversation and team preparation happ
 
 **Why the duodenum is the highest-risk site:** thin wall; the anatomic challenge of the C-loop; paradoxical endoscope motion; and **luminal exposure to pancreatic proteolytic enzymes**, which pool in the duodenum and break down exposed muscle at an EMR/ESD base — the mechanism of **delayed** perforation.
 
+### Stapfer Classification of Post-ERCP Duodenal Perforation
+
+**Mechanism and anatomic location together define the type, and the type predicts the need for surgery** — in descending order of severity ([[stapfer-2000-duodenal-perforation-ercp]]). The wiki uses the paper's own roman numerals; AGA 2021 writes the same first two entities as "type 1" and "type 2".
+
+| Type | Location | Mechanism | Character |
+|---|---|---|---|
+| **I** | Lateral or **medial duodenal wall** | The **endoscope** (shaft or tip) | Large, **remote from the ampulla**; persistent retro- or intraperitoneal leak |
+| **II** | **Peri-Vaterian** (periampullary, retroperitoneal) | **Sphincterotomy** extended beyond the intraduodenal ampulla | Variable but usually **discrete**; often seals spontaneously |
+| **III** | **Distal bile duct** | **Guidewire or basket** near an obstructing entity (e.g. a stone) | Often **small** |
+| **IV** | **Retroperitoneal air alone** | Probably **compressed air** used to keep the lumen patent | **Not a true perforation** |
+
+- **Type I → surgery** in the original series; **types II and III tend to seal spontaneously** and are candidates for nonsurgical management; **type IV needs no treatment or workup** provided the abdominal examination is normal and no extravasation was seen at ERCP.
+- **Types II, III or IV with retained stones and unrelieved biliary obstruction, or with retained foreign bodies, should still be explored** even when no other indication is present.
+
+**Surgical indications — any one of five** ([[stapfer-2000-duodenal-perforation-ercp]]):
+
+1. **Large contrast extravasation at ERCP** — i.e. **contrast still present after 1 minute** on follow-up plain film. If the leak is **minimal** (contrast **completely dissipates within 60 seconds**), obtain a water-soluble upper gastrointestinal contrast study (UGI) at **2–8 h**; **extravasation on that study → explore.**
+2. **Follow-up CT showing a retroperitoneal or peritoneal fluid collection** consistent with perforation — **not** with pancreatitis.
+3. **Perforation with cholelithiasis, choledocholithiasis, or retained hardware** (stones, basket, wire).
+4. **Massive subcutaneous emphysema** after ERCP with what looked endoscopically like a **large duodenal diverticulum**.
+5. **Failure of nonsurgical management.**
+
+**Surveillance if managed nonsurgically:** repeat the **UGI within 8 h**; **double-contrast CT at 8 h and 48 h** to confirm the leak stays sealed and exclude a developing collection; repeat until recovery is certain. The decision not to operate is **dynamic** — reassess on any untoward development.
+
+> ⚠ **What does *not* decide management.** **Fever and leukocytosis alone are not an indication for surgery** (leukocytosis was present in 9 of 10 patients tested, regardless of outcome). **Abdominal examination is unhelpful in the first few hours** — 71% had only mild tenderness — and because these injuries are retroperitoneal, **a benign abdomen does not exclude surgery**. *Early* peritonitis should dictate surgery; peritonitis appearing late marked a poor outcome. And **21% (3/14) of apparent "duodenal diverticula" seen at ERCP were large perforations.**
+
+> **Why the triage is urgent:** of 8 patients managed nonsurgically at the outset, **3 (38%) failed** — mean **3.6** reoperations each, **median length of stay 111 days**, one death — against a median **17 days** for nonsurgical success and **14 days** for primary surgery. Antibiotics plus nasogastric suction alone "produced no significant improvement and possibly delayed definitive management" in 2 of the 3 failures. ⚠ This rests on a **single-center retrospective series of 14 patients from the 1990s that predates every modern closure device**; the endoscopic options below are newer and govern management.
+
 - **Iatrogenic causes:** duodenal stricture dilation, EMR (including ampullectomy), ESD, EUS, [[ercp|ERCP]].
 - **ERCP perforation:** overall risk **<1%**, with **mortality 7.8%–9.9%**. Mechanisms: duodenoscope-related trauma, sphincterotomy, intraductal guidewire manipulation. **Risk factors:** older age, longer procedure duration, [[sphincter-of-oddi-dysfunction|sphincter of Oddi dysfunction]], **non-dilated bile duct**, performance of a sphincterotomy/precut sphincterotomy, access papillotomy, and **altered anatomy** (e.g. Billroth II partial gastrectomy).
 - **Surgically altered anatomy tip:** start with a standard **forward-viewing upper endoscope** to identify and mark the entrance of the pancreatobiliary limb before advancing the side-viewing duodenoscope.
@@ -118,7 +147,8 @@ Know them before the case, so the consent conversation and team preparation happ
 - **Closure:** TTSCs if feasible, and/or a **fully covered SEMS into the bile duct across the ampulla** — likely to seal the defect with high clinical success.
 - **Course:** patients declare within **24–48 h** whether they need surgery (worsening abdominal pain or systemic inflammatory response). If improving, at **2–4 days** obtain a water-soluble upper GI series or CT with oral contrast to confirm no extravasation before starting clear liquids.
 - **Delayed recognition >6 hours after ERCP** is associated with increased length of stay, increased mortality, and more complicated surgery.
-- Types 3 and 4 of this classification are not printed by the source.
+
+**Types 3 and 4** — see the classification table above. Type 3 is a **distal bile duct** injury from guidewire or basket manipulation against an obstructing stone, usually small; type 4 is **retroperitoneal air alone**, which the classification's authors regard as not a true perforation.
 
 **Duodenal resection defects**
 
@@ -173,3 +203,4 @@ Know them before the case, so the consent conversation and team preparation happ
 ## Sources
 
 1. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review (2021)]]
+2. [[stapfer-2000-duodenal-perforation-ercp|Management of Duodenal Perforation After Endoscopic Retrograde Cholangiopancreatography and Sphincterotomy]]

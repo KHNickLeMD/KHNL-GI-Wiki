@@ -3,8 +3,8 @@ title: "HBV Nucleos(t)ide Analogs (Entecavir, TDF, TAF)"
 category: med
 tags: [hepatitis-b, hbv, antiviral, nucleoside-analogues, entecavir, tenofovir, tdf, taf, hepatology, pregnancy, hbv-reactivation, resistance]
 created: 2026-10-03
-updated: 2026-10-03
-sources: [aasld-idsa-2025-chb-treatment, aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aasld-ast-2025-liver-transplant-graft-complications, acg-2023-alf, aasld-2020-autoimmune-hepatitis]
+updated: 2026-10-20
+sources: [aasld-idsa-2025-chb-treatment, baraclude-2019-entecavir-label, aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aasld-ast-2025-liver-transplant-graft-complications, acg-2023-alf, aasld-2020-autoimmune-hepatitis]
 ---
 
 ## Contents
@@ -14,6 +14,7 @@ sources: [aasld-idsa-2025-chb-treatment, aga-2024-pregnancy-gi-liver, acg-2016-l
   - [[#Renal Function and Dialysis]]
   - [[#Non-Preferred and Legacy Agents]]
 - [[#Dosing and Administration]]
+  - [[#Entecavir — Dose]]
 - [[#Treatment Targets]]
 - [[#Suboptimal Virologic Response — Switch and Add-On]]
 - [[#Where These Drugs Are Used]]
@@ -71,9 +72,35 @@ Selection among the three preferred NAs is driven by: availability/cost · age �
 
 ## Dosing and Administration
 
-- **Administration:** tenofovir (TDF, TAF) is taken **with food**; ETV is taken **on an empty stomach**. Confirming that the drug is being taken correctly is the first step in any suboptimal virologic response. ([[aasld-idsa-2025-chb-treatment]])
-- **AASLD/IDSA 2025 does not print adult milligram doses or renal dose-adjustment cut-points for entecavir, TDF or TAF** — it states only that ETV and TDF require adjustment for renal dysfunction or dialysis. Dose from the product label. The one NA dose these guidelines do give is **telbivudine 600 mg daily**, from the pregnancy trial ACG 2016 cites (gestational weeks 20–32, HBeAg-positive, HBV DNA >7 log₁₀ copies/mL). ([[acg-2016-liver-disease-pregnancy]])
+- **Administration:** tenofovir (TDF, TAF) is taken **with food**; ETV is taken **on an empty stomach — at least 2 h after a meal and 2 h before the next meal** ([[baraclude-2019-entecavir-label]]). Confirming that the drug is being taken correctly is the first step in any suboptimal virologic response. ([[aasld-idsa-2025-chb-treatment]])
+- **AASLD/IDSA 2025 prints no adult milligram doses or renal dose-adjustment cut-points for entecavir, TDF or TAF** — it states only that ETV and TDF require adjustment for renal dysfunction or dialysis. Doses below come from the product labels. The one NA dose the guidelines themselves give is **telbivudine 600 mg daily**, from the pregnancy trial ACG 2016 cites (gestational weeks 20–32, HBeAg-positive, HBV DNA >7 log₁₀ copies/mL). ([[acg-2016-liver-disease-pregnancy]])
 - Pill burden and long-term adherence are explicit considerations: therapy is anticipated to last **many years**, and a switch is generally preferred over add-on therapy because of lower pill burden.
+
+### Entecavir — Dose
+
+**Two adult doses, and the 1 mg dose has two separate triggers** ([[baraclude-2019-entecavir-label]], adults and adolescents ≥16 y):
+
+| Situation | Dose |
+|---|---|
+| **Nucleoside-naïve**, compensated liver disease | **0.5 mg once daily** |
+| Prior **viremia on lamivudine**, or known **lamivudine/telbivudine resistance** substitutions (rtM204I/V ± rtL180M, rtL80I/V, rtV173L) | **1 mg once daily** |
+| **Decompensated liver disease** | **1 mg once daily** |
+
+- **No dosage adjustment for hepatic impairment** — the decompensated-disease dose increase is about virologic risk, not clearance.
+- Tablets are 0.5 mg and 1 mg; the **oral solution (0.05 mg/mL) is required for any dose below 0.5 mg**.
+
+**Renal adjustment — start at CrCl <50 mL/min**, including hemodialysis and continuous ambulatory peritoneal dialysis (CAPD). The table runs on **both** dose tracks; **once-daily regimens are preferred** over the interval-extension alternatives.
+
+| CrCl (mL/min) | Usual dose (0.5 mg track) | Lamivudine-refractory **or** decompensated (1 mg track) |
+|---|---|---|
+| **≥50** | 0.5 mg once daily | 1 mg once daily |
+| **30 to <50** | **0.25 mg** once daily *or* 0.5 mg every 48 h | **0.5 mg** once daily *or* 1 mg every 48 h |
+| **10 to <30** | **0.15 mg** once daily *or* 0.5 mg every 72 h | **0.3 mg** once daily *or* 1 mg every 72 h |
+| **<10**, or **hemodialysis / CAPD** | **0.05 mg** once daily *or* 0.5 mg every 7 days | **0.1 mg** once daily *or* 1 mg every 7 days |
+
+- **On a hemodialysis day, dose after the session.**
+- Pediatric renal impairment has **no specific recommendation** — consider a dose reduction or interval increase mirroring the adult table.
+- **TDF and TAF doses and renal cut-points are not yet in the wiki** — the Viread and Vemlidy labels are not ingested, and no ingested guideline prints them.
 
 ---
 
@@ -162,7 +189,18 @@ Selection among the three preferred NAs is driven by: availability/cost · age �
 - **TAF** — not used at CrCl <15 mL/min when not yet on dialysis.
 - **Decompensated cirrhosis** — monitor for **lactic acidosis**, a rare adverse effect that is likely more common with NA therapy in decompensation.
 - **Stopping therapy** is itself the major safety event: ALT flares, hepatic decompensation and death have been reported after NA withdrawal.
-- AASLD/IDSA 2025 does not quantify the degree of renal dysfunction that triggers dose adjustment, nor the renal and bone monitoring intervals on TDF.
+- AASLD/IDSA 2025 does not give the renal and bone monitoring intervals on TDF. The renal dose-adjustment thresholds it omits are now on this page for entecavir (see [[#Entecavir — Dose]]); TDF and TAF still lack them.
+
+**Entecavir boxed warning — three parts, each with an action** ([[baraclude-2019-entecavir-label]]):
+
+| Warning | What to do |
+|---|---|
+| **Severe acute exacerbation of hepatitis B after discontinuation** | Monitor hepatic function — clinical **and** laboratory follow-up — for **at least several months** after stopping; restart anti-HBV therapy if warranted |
+| **Resistance to HIV nucleoside reverse transcriptase inhibitors** if used for CHB in **untreated HIV** | **Offer HIV antibody testing to every patient before starting.** Not recommended in HIV/HBV co-infection unless the patient is also on antiretroviral therapy |
+| **Lactic acidosis and severe hepatomegaly with steatosis**, including fatal cases | **Suspend** entecavir for clinical or laboratory findings suggesting lactic acidosis or pronounced hepatotoxicity |
+
+- Lactic acidosis risk factors named on the label: **a majority of cases have been in women**; **obesity** and **prolonged nucleoside exposure**; **decompensated liver disease** confers higher risk. Cases have also occurred with no known risk factor.
+- **Entecavir has no listed contraindications.**
 
 ---
 
@@ -194,3 +232,4 @@ AASLD/IDSA 2025 is a focused update: it gives the intervals above and for untrea
 5. [[acg-2023-alf|ACG 2023: Acute Liver Failure]]
 6. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
 7. [[aasld-2020-autoimmune-hepatitis|AASLD Practice Guidance on Autoimmune Hepatitis (2020)]]
+8. [[baraclude-2019-entecavir-label|BARACLUDE (Entecavir) Tablets and Oral Solution — FDA Prescribing Information]]
