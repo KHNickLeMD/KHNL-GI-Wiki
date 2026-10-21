@@ -3,13 +3,13 @@ title: "Vonoprazan (PCAB)"
 category: med
 tags: [vonoprazan, pcab, h-pylori, acid-suppression, voquezna, potassium-competitive]
 created: 2026-05-16
-updated: 2026-09-02
+updated: 2026-10-21
 sources: [acg-2024-hp-treatment, aga-2024-pcab]
 ---
 
 Potassium-competitive acid blocker ([[potassium-competitive-acid-blockers|P-CAB]]) — the only agent of the class available in the US. Blocks the gastric H+/K+-ATPase competitively at the potassium-binding site. More potent and faster-acting acid suppression than [[proton-pump-inhibitors|proton pump inhibitors (PPIs)]]; not dependent on meal timing or CYP2C19 metabolism. For class-level indications and the American Gastroenterological Association (AGA) 2024 Best Practice Advice (BPA) on when to use a P-CAB, see [[potassium-competitive-acid-blockers]].
 
-**Brand name:** Voquezna (FDA-approved 2022 for [[helicobacter-pylori-infection|H. pylori]] eradication)
+**Brand name:** Voquezna (US Food and Drug Administration (FDA)-approved 2022 for [[helicobacter-pylori-infection|H. pylori]] eradication)
 
 *The full P-CAB-vs-PPI mechanism/property comparison lives on [[potassium-competitive-acid-blockers#Mechanism vs PPIs|the class page]] — not repeated here.*
 

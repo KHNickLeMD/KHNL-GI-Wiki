@@ -3,8 +3,8 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-09-22
-sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance, aasld-idsa-2025-chb-treatment]
+updated: 2026-10-21
+sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance, aasld-idsa-2025-chb-treatment, mehta-2017-retreat-hcc-recurrence-post-transplant]
 ---
 
 ## Contents
@@ -398,8 +398,37 @@ Post-LT patients: NEVER use ICI-based therapy (graft loss/death risk); use soraf
 
 - **RETREAT 0** = **no viable tumor on explant *and* no microvascular invasion *and* AFP <20 ng/mL** → **<3%** 5-year recurrence
 - **RETREAT ≥5** → **75%** 5-year recurrence
-- *[[aasld-2023-hcc]] names the components and both anchor bands but not the **point values** per variable, so intermediate RETREAT scores (1–4) cannot be computed from this page; the weights are in the Mehta 2017 derivation paper.*
 - Other post-LT recurrence scores named by AASLD but not reproduced: **post-MORAL** and the **University of California, Los Angeles (UCLA) prognostic nomogram** (both incorporate tumor differentiation).
+
+**RETREAT point values — add all three, range 0–8** [[mehta-2017-retreat-hcc-recurrence-post-transplant]]
+
+| Variable | Category | Points |
+|---|---|---|
+| **AFP at LT (ng/mL)** | 0–20 | **0** |
+| | 21–99 | **1** |
+| | 100–999 | **2** |
+| | ≥1000 | **3** |
+| **Microvascular invasion** | present | **2** |
+| **Largest viable tumor diameter (cm) + number of viable tumors** | 0 | **0** |
+| | 1.1–4.9 | **1** |
+| | 5.0–9.9 | **2** |
+| | ≥10 | **3** |
+
+- **Count only *viable* tumor.** Worked example from the derivation paper: an explant with two viable lesions of **4 cm** and **3 cm** plus one **completely necrotic 5 cm** lesion scores **6** — largest *viable* diameter 4, plus 2 *viable* lesions. **The necrotic lesion does not count**, so a complete pathologic response to locoregional therapy scores **0** on this variable.
+- Predicted recurrence: **RETREAT 0 → 1.0% at 1 y, 2.9% at 5 y**; **≥5 → 39.3% at 1 y, 75.2% at 5 y**. Risk rises with every point.
+- **C statistic 0.77** in derivation (vs **0.70** for explant Milan criteria) and **0.82** on external validation in a separate Toronto cohort; net reclassification index vs Milan **0.40** (*p* = .001).
+- Derived and validated **only in patients within Milan criteria by pre-transplant imaging** — in whom imaging understaged **22%**, who proved beyond Milan on explant.
+
+**Surveillance intervals by RETREAT score** — this is the derivation authors' proposed protocol (instituted at their centre), **not an AASLD recommendation**; AASLD GS 37 says optimal timing is uncertain and that risk scores *may* guide intervals. Most recurrences occur **within the first 2 years**. [[mehta-2017-retreat-hcc-recurrence-post-transplant]]
+
+| RETREAT | Proposed surveillance |
+|---|---|
+| **0** | **None** (5-year predicted recurrence <3%) — ~20% of recipients |
+| **1–3** | Every **6 months for 2 years** |
+| **4** | Every **6 months for 5 years** |
+| **≥5** | Every **3–4 months for 2 years**, then every **6 months through year 5** |
+
+- Modality at each interval: **multiphasic abdominal CT or MRI + chest CT + AFP**. **RETREAT ≥4** is the authors' proposed threshold for adjuvant-therapy trial eligibility.
 
 ---
 
@@ -481,3 +510,4 @@ Advance care planning (ACP) should be offered to all patients receiving palliati
 6. [[nccn-2026-hcc|NCCN Clinical Practice Guidelines in Oncology: Hepatocellular Carcinoma (Version 1.2026)]]
 7. [[aga-2026-hcc-surveillance|AGA Clinical Practice Update on Risk Stratification and Emerging Surveillance Strategies for Hepatocellular Carcinoma: Expert Review]]
 8. [[aasld-idsa-2025-chb-treatment|AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B]]
+9. [[mehta-2017-retreat-hcc-recurrence-post-transplant|Validation of a Risk Estimation of Tumor Recurrence After Transplant (RETREAT) Score for Hepatocellular Carcinoma Recurrence After Liver Transplant]]

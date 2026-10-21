@@ -3,7 +3,7 @@ title: "Post-Transplant Lymphoproliferative Disorder (PTLD)"
 category: disease-script
 tags: [ptld, lymphoma, ebv, transplant, liver-transplant, de-novo-malignancy, immunosuppression]
 created: 2026-05-19
-updated: 2026-09-02
+updated: 2026-10-21
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-non-graft-complications]
 ---
 
@@ -40,7 +40,7 @@ Post-transplant lymphoproliferative disorder (PTLD): spectrum of lymphoid prolif
 
 - **EBV-associated vs EBV-negative** — the association with EBV is variable in adult LT recipients; **later-onset PTLD is less likely to be EBV-associated**.
 - **Monomorphic vs non-monomorphic** is the only histologic split the AASLD guidelines use, and it carries both the prognosis and the treatment decision (chemotherapy for monomorphic disease).
-- ⚠ **The full histologic subclassification and staging are not on this page.** Neither AASLD guideline ([[aasld-2012-liver-transplant-long-term]], [[aasld-ast-2025-liver-transplant-non-graft-complications]]) gives the criteria that define the World Health Organization (WHO) PTLD categories (early lesions / polymorphic / monomorphic / classic Hodgkin-like) or a staging system — only the *name* "monomorphic". Those are in the hematology/oncology PTLD literature (WHO classification).
+- ⚠ **Neither AASLD guideline defines the World Health Organization (WHO) PTLD categories** (early lesions / polymorphic / monomorphic / classic Hodgkin-like) or gives a staging system — they use only the *name* "monomorphic". Subclassification and stage come from the reporting hematopathologist.
 
 ## Differential Diagnosis
 

@@ -3,8 +3,8 @@ title: "Acute Liver Failure"
 category: disease-script
 tags: [acute-liver-failure, alf, liver, hepatology, transplant, liver-transplant-referral]
 created: 2026-05-15
-updated: 2026-09-25
-sources: [acg-2023-alf, aga-2017-acute-liver-failure, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2011-alf]
+updated: 2026-10-21
+sources: [acg-2023-alf, aga-2017-acute-liver-failure, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2011-alf, de-martin-2021-surfasa-acute-severe-aih]
 ---
 
 ## Assessment
@@ -301,8 +301,26 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 **[[autoimmune-hepatitis|AIH]]:**
 
 - Acute severe AIH (AS-AIH) without ALF: **IV corticosteroids** (prednisone/prednisolone 0.5–1 mg/kg/day or 60 mg/day total)
-- SURFASA score (INR + bilirubin **within 3 days of initiating corticosteroids**; derived in 128 patients with acute severe AIH **without** ALF) predicts non-response — 88% specificity, 84% sensitivity for LT or death → refer non-responders for LT [[acg-2023-alf]]
-  - *[[acg-2023-alf]] gives the score's two inputs and its performance but **no formula and no cut-off value**, so SURFASA cannot be computed or applied from this page. The formula is in the De Martin 2021 derivation paper (J Hepatol 74:1325).*
+- SURFASA score (INR + bilirubin **within 3 days of initiating corticosteroids**) predicts non-response — 88% specificity, 84% sensitivity for LT or death → refer non-responders for LT [[acg-2023-alf]]
+
+**SURFASA — computing and applying it** [[de-martin-2021-surfasa-acute-severe-aih]]
+
+> **SURFASA = −6.80 + 1.92 × (D0-INR) + 1.94 × (∆%3-INR) + 1.64 × (∆%3-bilirubin)**
+
+- **D0** = the day corticosteroids are **started**, not the day of admission. **∆%3 = (D3 − D0) / D0** — the *fractional* change across the first three treatment days by the paper's own definition, so **an improvement enters the formula as a negative number**.
+- The score is **dynamic by design**: a single baseline value, MELD included, performed worse (SURFASA AUROC 0.91 vs D0-INR 0.87, D0-MELD 0.87, D0-bilirubin 0.66).
+
+| SURFASA | What it means | Action |
+|---|---|---|
+| **< −0.9** | **>75%** chance of responding to corticosteroids; LT-free survival **92%** | Continue corticosteroids |
+| **−0.9 to 1.75** | **Not discriminant** — the score does not decide this patient | Clinical judgement; do not rely on the score |
+| **≥ −0.9** | Non-response predicted; LT-free survival **23%** (*p* <0.001) | **Refer for LT** |
+| **> 1.75** | **85%–100%** probability of death or LT | Urgent LT |
+
+- At the **−0.9** cut-off: sensitivity **84%**, specificity **88%**, PPV **75%**, NPV **93%**; AUROC **0.93** (95% CI 0.88–0.98) in the 83-patient derivation set, **0.95** on internal validation in 42 patients.
+- **Transaminases do not measure response here** — response was not correlated with transaminase improvement, unlike in chronic AIH. Both cirrhosis (METAVIR F4) and absence of chronic hepatitis (F0–F1) correlated with non-response.
+- Corticosteroid dose (**1 mg/kg/d vs 0.5 mg/kg/d**) made **no difference** to transplant or death in this cohort.
+- ⚠ Retrospective, 23 European centres, bilirubin in µmol/L, validated only internally; the paper's own Results section gives the upper band as >1.5 and its Discussion as >1.75. ACG 2023 describes the derivation cohort as acute severe AIH **without** ALF; the paper reports that **19 of its 128 patients (15%) presented with ALF and hepatic encephalopathy**, though only 37% of that subgroup received corticosteroids.
 - AIH that has progressed to frank ALF: **early LT evaluation** (up to 48% ultimately require LT even with corticosteroids)
 - Vigilant infection surveillance with steroid use
 
@@ -376,3 +394,4 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 3. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
 4. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
 5. [[aasld-2011-alf|AASLD Position Paper: The Management of Acute Liver Failure — Update 2011]] (historical)
+6. [[de-martin-2021-surfasa-acute-severe-aih|Early Liver Transplantation for Corticosteroid Non-Responders with Acute Severe Autoimmune Hepatitis: The SURFASA Score]]

@@ -3,8 +3,8 @@ title: "Autoimmune Hepatitis"
 category: disease-script
 tags: [aih, autoimmune, hepatitis, liver, hpb, igg, immunosuppression, pregnancy, azathioprine, budesonide, mycophenolate-mofetil, mmf, tacrolimus, overlap-syndrome, pbc, psc, cirrhosis, liver-transplant]
 created: 2026-05-16
-updated: 2026-09-06
-sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, aasld-2018-pbc]
+updated: 2026-10-21
+sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, aasld-2018-pbc, de-martin-2021-surfasa-acute-severe-aih]
 ---
 
 ## Assessment
@@ -203,6 +203,9 @@ For treatment failure, incomplete response, or drug intolerance: [[aasld-2020-au
 - Do NOT use budesonide (or AZA) here
 - **Abandon ineffective treatment quickly — within 1–2 weeks.** Failure of *any* inflammation/function test to improve (especially bilirubin), or any clinical deterioration or new HE, mandates immediate LT consideration
 - Balance the benefit against the two harms the guidance names: infection and **delay of LT**
+- **The call can be made at day 3, not week 2.** The **SURFASA score** — baseline INR plus the *change* in INR and bilirubin over the first three days of steroids — predicted non-response with AUROC 0.93; below its −0.9 cut-off LT-free survival was 92%, at or above it 23%. Formula, bands and caveats: [[acute-liver-failure#Etiology-Specific Treatments|acute liver failure]]. [[de-martin-2021-surfasa-acute-severe-aih]]
+- **Do not judge response by transaminases in the acute severe setting** — response did not correlate with transaminase improvement, unlike in chronic AIH, where normal AST/ALT define remission. [[de-martin-2021-surfasa-acute-severe-aih]]
+- **Autoantibodies are often unimpressive in AS-AIH** — ANA ≥1:80 in 61% and ASMA ≥1:80 in 50% of a 128-patient cohort, which is why **histology is the anchor** here. [[de-martin-2021-surfasa-acute-severe-aih]]
 
 **AIH-related ALF (INR ≥2.0 + HE within 26 weeks):**
 
@@ -311,3 +314,4 @@ See [[liver-transplantation]] for broader post-LT context.
 2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
 3. [[aasld-2020-autoimmune-hepatitis|AASLD Practice Guidance on Autoimmune Hepatitis (2020)]]
 4. [[aasld-2018-pbc|AASLD 2018 Practice Guidance: Primary Biliary Cholangitis]]
+5. [[de-martin-2021-surfasa-acute-severe-aih|Early Liver Transplantation for Corticosteroid Non-Responders with Acute Severe Autoimmune Hepatitis: The SURFASA Score]]

@@ -52,7 +52,7 @@ The two limitations that govern how far this transfers: **no arm received rectal
 
 **Primary endpoint definition (modified Cotton criteria)**
 
-- **PEP = new abdominal pain within the first 24 h after ERCP *plus* serum amylase or lipase ≥3× the upper limit of normal.** Two deliberate modifications to the original [[ercp#Defining PEP|Cotton criteria]]: enzymes were sampled **within** 24 h (routine Japanese practice is the next morning) rather than strictly *after* 24 h, and the Cotton requirement for **≥2 nights of hospitalization was omitted**, since a 2-night stay is not unusual in Japanese practice regardless of PEP.
+- **PEP = new abdominal pain within the first 24 h after ERCP *plus* serum amylase or lipase ≥3× the upper limit of normal.** Two deliberate modifications to the original **Cotton consensus criteria** (PEP as the wiki defines it: [[ercp#Complications|ERCP complications]]): enzymes were sampled **within** 24 h (routine Japanese practice is the next morning) rather than strictly *after* 24 h, and the Cotton requirement for **≥2 nights of hospitalization was omitted**, since a 2-night stay is not unusual in Japanese practice regardless of PEP.
 - **Severity, by modified Cotton criteria:** **mild** = fasting required 2–3 days; **moderate** = fasting 4–10 days; **severe** = fasting ≥11 days. In addition, necrosis or pseudocyst formation, or percutaneous drainage or surgery, defined **severe**. The authors chose modified Cotton over the Marshall score because the latter "may not be adequately capturing certain clinical features specific to post-ERCP pancreatitis."
 
 **Trial's own high-risk definition (≥1 factor = high risk)**
