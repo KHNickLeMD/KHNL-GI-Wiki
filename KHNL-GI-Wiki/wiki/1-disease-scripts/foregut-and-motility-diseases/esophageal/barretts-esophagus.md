@@ -3,7 +3,7 @@ title: "Barrett's Esophagus"
 category: disease-script
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance, foregut]
 created: 2026-05-15
-updated: 2026-09-21
+updated: 2026-10-21
 sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, asge-2023-esd, aga-2020-endoscopic-treatment-barretts-dysplasia, aga-2020-post-endoscopy-esophageal-adenocarcinoma, aga-2016-low-grade-dysplasia-barretts, aga-2022-barretts-new-technology, aga-2018-barretts-screening-techniques]
 ---
 
@@ -22,7 +22,6 @@ Barrett's esophagus (BE) is a metaplastic condition in which the normal squamous
   - [[#Adjunct Staging Tests]]
 - [[#Therapeutics]]
   - [[#Screening (Who Should Be Screened)]]
-  - [[#Nonendoscopic Screening (Capsule Sponge + Biomarker)]]
   - [[#Medical Therapy / Chemoprevention]]
   - [[#Surveillance Intervals]]
   - [[#Endoscopic Eradication Therapy (EET)]]

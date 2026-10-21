@@ -3,7 +3,7 @@ title: "Gastric MALT Lymphoma"
 category: disease-script
 tags: [stomach, lymphoma, marginal-zone, helicobacter-pylori, malt, eradication]
 created: 2026-08-14
-updated: 2026-09-02
+updated: 2026-10-21
 sources: [acg-2024-hp-treatment, asge-2015-gastric-premalignant]
 ---
 
@@ -20,31 +20,26 @@ sources: [acg-2024-hp-treatment, asge-2015-gastric-premalignant]
 
 ## Assessment
 
-- **Gastric mucosa-associated lymphoid tissue (MALT) lymphoma = extranodal marginal zone B-cell lymphoma** arising in MALT. MALT lymphoma also occurs in lung, small bowel, and other organs. [[asge-2015-gastric-premalignant]]
-- **A low-grade B-cell lymphoma closely linked to chronic [[helicobacter-pylori-infection|H. pylori]] gastritis.** [[acg-2024-hp-treatment]]
-- **Nearly all patients with gastric MALT lymphoma have H. pylori infection.** Chronic H. pylori inflammation triggers B-cell clonal expansion, leading to MALT lymphoma. [[asge-2015-gastric-premalignant]]
-- **Pathologically distinct from [[gastric-adenocarcinoma|gastric adenocarcinoma]]** — but presents with overlapping symptoms. [[asge-2015-gastric-premalignant]]
+- **Gastric mucosa-associated lymphoid tissue (MALT) lymphoma = extranodal marginal zone B-cell lymphoma** — a low-grade B-cell lymphoma arising in MALT. Also occurs in lung, small bowel, and other organs. [[asge-2015-gastric-premalignant]]
+- **Closely linked to chronic [[helicobacter-pylori-infection|H. pylori]] gastritis** — nearly all patients with gastric MALT lymphoma have H. pylori infection; chronic H. pylori inflammation triggers B-cell clonal expansion. [[acg-2024-hp-treatment]], [[asge-2015-gastric-premalignant]]
 
 ### Establishing the Diagnosis
 
-- **Presenting symptoms:** [[dyspepsia]], weight loss, or [[upper-gi-bleeding|gastrointestinal (GI) bleeding]] — the same triad as gastric adenocarcinoma, so symptoms do not distinguish them. [[asge-2015-gastric-premalignant]]
-- **Endoscopic appearance is non-specific and spans a wide range — from subtle erosions to nodular masses.** A normal-looking or minimally abnormal mucosa does not exclude it. [[asge-2015-gastric-premalignant]]
-- **Diagnosis is confirmed with mucosal sampling** ([[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] with biopsy) — not by appearance. [[asge-2015-gastric-premalignant]]
-- **Test for H. pylori in every case** — marginal zone B-cell lymphoma, MALT type is a named indication to [[test-and-treat|test and treat]]. [[acg-2024-hp-treatment]]
+- **Presenting symptoms:** [[dyspepsia]], weight loss, or [[upper-gi-bleeding|gastrointestinal (GI) bleeding]]. [[asge-2015-gastric-premalignant]]
+- **Endoscopic appearance is non-specific and spans a wide range — from subtle erosions to nodular masses.** A normal-looking or minimally abnormal mucosa does not exclude it; the diagnosis rests on mucosal sampling, not appearance. [[asge-2015-gastric-premalignant]]
 
 ### Severity Assessment
 
-- **[[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] provides the prognostic information** — it permits accurate assessment of **the degree of infiltration of lymphoma in the gastric wall** and **regional lymph node involvement**. [[asge-2015-gastric-premalignant]]
-- This matters because the eradication-alone strategy below is established for **early-stage / low-grade** disease; depth and nodal status are what separate that group from the rest.
-
-> The GI guidelines do not give a formal staging system for gastric MALT lymphoma (e.g. Lugano, Ann Arbor, or the Paris/TNM staging), nor the criteria defining "early stage," nor management of eradication-refractory or high-grade/transformed disease (radiotherapy, rituximab, chemotherapy); those are in the lymphoma / European Society for Medical Oncology (ESMO) marginal-zone guidelines.
+- **[[endoscopic-ultrasound|Endoscopic ultrasound (EUS)]] provides the prognostic information** — it permits accurate assessment of **the degree of infiltration of lymphoma in the gastric wall** and **regional lymph node involvement**. [[asge-2015-gastric-premalignant]]
+- Eradication alone is the established strategy for **early-stage / low-grade** disease (see [[#Therapeutics]]).
+- Neither the American College of Gastroenterology (ACG) 2024 nor the American Society for Gastrointestinal Endoscopy (ASGE) 2015 document gives a staging system for gastric MALT lymphoma, the criteria that define "early stage," or the management of disease that is high grade or that fails to regress after eradication.
 
 ## Differential Diagnosis
 
 *Workup: see [[dyspepsia]].*
 
-- **[[gastric-adenocarcinoma]]** — same presenting symptoms (dyspepsia, weight loss, GI bleeding); **pathologically distinct**, separated only by mucosal sampling. [[asge-2015-gastric-premalignant]]
-- **[[helicobacter-pylori-infection|H. pylori]] gastritis without lymphoma** — the underlying driver; present in nearly all MALT cases, so a positive H. pylori test does not itself make the diagnosis. [[asge-2015-gastric-premalignant]]
+- **[[gastric-adenocarcinoma]]** — same presenting symptoms; **pathologically distinct**, separated only by mucosal sampling. [[asge-2015-gastric-premalignant]]
+- **[[helicobacter-pylori-infection|H. pylori]] gastritis without lymphoma** — the underlying driver, so a positive H. pylori test does not itself make the diagnosis. [[asge-2015-gastric-premalignant]]
 - **[[gastric-premalignant-conditions|Gastric premalignant conditions]]** ([[atrophic-gastritis|atrophic gastritis]], [[gastric-intestinal-metaplasia|intestinal metaplasia]]) — the other H. pylori-driven mucosal sequelae. [[acg-2024-hp-treatment]]
 - **[[subepithelial-lesion|Subepithelial lesions]]** — when the lymphoma presents as a nodular mass rather than erosions. [[asge-2015-gastric-premalignant]]
 - **[[peptic-ulcer-disease]]** — the other H. pylori sequela presenting with dyspepsia and bleeding. [[acg-2024-hp-treatment]]
@@ -53,13 +48,12 @@ sources: [acg-2024-hp-treatment, asge-2015-gastric-premalignant]
 
 | Test | Role |
 |---|---|
-| **[[upper-endoscopy\|EGD]] with mucosal sampling** | **Establishes the diagnosis.** Endoscopic findings range from subtle erosions to nodular masses — biopsy regardless of appearance [[asge-2015-gastric-premalignant]] |
-| **[[helicobacter-pylori-infection\|H. pylori]] testing** | **Required in all cases** — MALT-type marginal zone B-cell lymphoma is a named test-and-treat indication; H. pylori status drives the entire treatment plan [[acg-2024-hp-treatment]] |
-| **[[endoscopic-ultrasound\|EUS]]** | **Prognostic** — depth of lymphoma infiltration in the gastric wall + regional lymph node involvement [[asge-2015-gastric-premalignant]] |
-| **Post-treatment H. pylori test of cure** | **Mandatory.** Where EGD is needed shortly after treatment (as it is here), **histology and/or biopsy urease test** may be used to confirm post-treatment status [[acg-2024-hp-treatment]] |
+| **[[upper-endoscopy\|Esophagogastroduodenoscopy (EGD)]] with mucosal sampling** | **Establishes the diagnosis** — biopsy regardless of appearance [[asge-2015-gastric-premalignant]] |
+| **[[helicobacter-pylori-infection\|H. pylori]] testing** | **Required in all cases** — marginal zone B-cell lymphoma, MALT type is a named indication to [[test-and-treat\|test and treat]]; H. pylori status drives the entire treatment plan [[acg-2024-hp-treatment]] |
+| **[[endoscopic-ultrasound\|EUS]]** | **Prognostic** — see [[#Severity Assessment]] [[asge-2015-gastric-premalignant]] |
+| **Post-treatment H. pylori test of cure** | **Mandatory.** Because EGD is needed shortly after treatment here anyway, **histology and/or a biopsy urease test** can also be used to confirm post-treatment status [[acg-2024-hp-treatment]] |
 
-- **MALT-specific point:** because endoscopy is needed shortly after treatment here anyway, **histology and/or biopsy urease test** is an acceptable test-of-cure modality (rather than urea breath test [UBT]/stool antigen). [[acg-2024-hp-treatment]]
-- Test-of-cure **timing, drug-hold durations, the serology prohibition, and the caveat that a negative urease test alone does not prove eradication** are not MALT-specific — they live on [[helicobacter-pylori-infection#Post-Treatment Confirmation|helicobacter pylori infection]]. Apply them unchanged.
+- Test-of-cure **timing, drug-hold durations, the serology prohibition, and the caveat that a negative urease test alone does not prove eradication** are not MALT-specific — see [[helicobacter-pylori-infection#Post-Treatment Confirmation|H. pylori infection]]. Apply them unchanged.
 
 ## Therapeutics
 

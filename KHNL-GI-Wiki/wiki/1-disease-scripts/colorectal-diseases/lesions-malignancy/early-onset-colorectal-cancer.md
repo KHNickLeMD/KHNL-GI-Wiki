@@ -3,7 +3,7 @@ title: "Early-Onset (Young Adult–Onset) Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, early-onset-crc, young-onset-crc, germline-testing, lynch-syndrome, msi, mmr, fertility-preservation, survivorship]
 created: 2026-09-07
-updated: 2026-09-16
+updated: 2026-10-21
 sources: [aga-2020-young-adult-onset-crc]
 ---
 
@@ -72,7 +72,7 @@ Staging itself is TNM — see [[colorectal-cancer]]. What differs in young onset
 | Differentiation | More likely **poorly differentiated** | — |
 | Site | More likely **distal colon and rectum** | — |
 
-- Signet ring cell histology is most likely to be present in the **youngest** patients (the CPU's age qualifier is **30 years of age**, with the comparison operator lost in text extraction — see [[#Text-Extraction Caveats]]).
+- Signet ring cell histology is most likely to be present in the **youngest** patients (the CPU's age qualifier is **30 years of age**, with the comparison operator lost in text extraction — see [[#Operator Caveats]]).
 
 ### Classification / Typing
 

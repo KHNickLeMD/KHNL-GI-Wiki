@@ -106,6 +106,7 @@ FDA prescribing information from [DailyMed](https://dailymed.nlm.nih.gov/dailyme
 | ACG 2025 EoE Figure 2 (EREFS with example scoring) | per-feature EREFS points | [[eosinophilic-esophagitis]] |
 | AGA 2024 CPU *Esophageal Dysfunction from Immunity & Infection* Figure 1 | 6-panel endoscopic appearances — (A) Sjögren's with stricture, (B) Crohn's disease, (C) lichen planus with edema/exudates, (D) candida esophagitis, (E) pemphigus with sloughing tissue, (F) EoE with rings/furrows/edema/exudates. This is an endoscopic-appearance page, so the pictures are required, not optional | [[esophageal-dysfunction-systemic-disease]] |
 | AGA 2019 AIP Figure 1 | treatment algorithm | [[autoimmune-pancreatitis]] |
+| AGA 2019 T1b esophageal ESD Figures 1–4 | endoscopic/EUS appearances — Fig 1 early squamous cell carcinoma as a Lugol voiding lesion, Fig 2 Paris 0-IIa+c adenocarcinoma, Fig 3 radial EUS showing submucosal (T1b) invasion, Fig 4 post-ESD defect with central fibrosis and exposed muscularis propria fibers. Depth is judged by looking, so the pictures are required | [[esophageal-cancer]], [[esophageal-adenocarcinoma]] |
 | AGA 2022 refractory gastroparesis Figure 2 | management algorithm | [[aga-2021-medically-refractory-gastroparesis]] |
 | AGA 2022 refractory celiac Figure 1 | diagnostic / management algorithm | [[aga-2022-refractory-celiac]] |
 | AGA 2020 young-adult-onset CRC Figure 1 (p. 2419) and Table 1 | management pathway; two unreadable cells; exact ≤/≥ operators | [[early-onset-colorectal-cancer]], [[aga-2020-young-adult-onset-crc]] |

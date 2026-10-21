@@ -3,7 +3,7 @@ title: "NCCN Clinical Practice Guidelines in Oncology: Colon Cancer (Version 2.2
 category: source
 tags: [colon-cancer, colorectal-cancer, adenocarcinoma, mmr, msi, ras, kras, nras, braf, her2, ntrk, dpyd, folfox, capox, folfiri, bevacizumab, cetuximab, panitumumab, pembrolizumab, encorafenib, adjuvant, metastatic, nccn, oncology]
 created: 2026-06-18
-updated: 2026-10-10
+updated: 2026-10-21
 sources: []
 ---
 
@@ -11,21 +11,8 @@ sources: []
 - [[#Bibliographic Info]]
 - [[#Summary]]
 - [[#Key Findings / Claims]]
-  - [[#How this document labels its recommendations]]
-  - [[#Clinical Presentation and Workup]]
-  - [[#Endoscopically Removed Malignant Polyps]]
-  - [[#Pathologic Review and Reporting]]
-  - [[#Lymph Node Evaluation]]
-  - [[#Biomarker Testing]]
-  - [[#Staging]]
-  - [[#Primary Treatment of Non-Metastatic Disease]]
-  - [[#Adjuvant Treatment by Pathologic Stage]]
-  - [[#Metastatic Disease]]
-  - [[#Surveillance After Treatment]]
-  - [[#Survivorship and Pharmacogenetics]]
 - [[#Relevance to Wiki]]
 - [[#Contradictions / Open Questions]]
-- [[#See Also]]
 
 ## Bibliographic Info
 

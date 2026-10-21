@@ -3,7 +3,7 @@ title: "Microscopic Colitis"
 category: disease-script
 tags: [colon, chronic-diarrhea, collagenous-colitis, lymphocytic-colitis, watery-diarrhea]
 created: 2026-06-04
-updated: 2026-10-03
+updated: 2026-10-21
 sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2020-ibs, acg-2022-celiac, aga-2016-microscopic-colitis, peery-2025-microscopic-colitis]
 ---
 
@@ -16,14 +16,10 @@ sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2020-ibs, acg-2022-ce
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
-  - [[#Treatment Target]]
-  - [[#First Step — Contributing Factors]]
   - [[#Induction of Clinical Remission]]
   - [[#Maintenance of Clinical Remission]]
   - [[#Ongoing or Refractory Symptoms]]
-  - [[#Advanced Therapy]]
   - [[#Recommended Against]]
-  - [[#Health Maintenance]]
 - [[#See Also]]
 - [[#Sources]]
 

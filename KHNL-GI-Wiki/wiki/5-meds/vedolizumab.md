@@ -3,7 +3,7 @@ title: "Vedolizumab"
 category: med
 tags: [vedolizumab, anti-integrin, alpha4beta7, biologic, ibd, crohns, ulcerative-colitis, pouchitis, immune-checkpoint-inhibitor, gut-selective]
 created: 2026-09-04
-updated: 2026-09-24
+updated: 2026-10-21
 sources: [acg-2025-uc, acg-2025-crohns, acg-2019-uc, acg-2018-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2024-pouchitis, aga-2021-ici-colitis-hepatitis, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -28,7 +28,7 @@ A **gut-selective anti-integrin** monoclonal antibody for [[inflammatory-bowel-d
   - [[#ICI Colitis]]
 - [[#Safety and Monitoring]]
 - [[#Guideline Differences and Contradictions]]
-- [[#Gaps]]
+- [[#Not covered by the guidelines]]
 - [[#See Also]]
 - [[#Sources]]
 

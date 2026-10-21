@@ -3,7 +3,7 @@ title: "Irritable Bowel Syndrome"
 category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, diet, fiber, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-10-04
+updated: 2026-10-21
 sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d, aga-2020-sibo, aga-2022-diet-ibs, aga-2018-psychogastroenterology]
 ---
 
@@ -15,13 +15,6 @@ sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-202
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
-  - [[#Diet Therapy]]
-    - [[#Who Is a Candidate]]
-    - [[#Screening Before a Restrictive Diet]]
-    - [[#Fiber]]
-    - [[#Which Diet]]
-    - [[#Gluten-Free Diet]]
-    - [[#Biomarkers of Diet Response]]
   - [[#Cross-subtype (any IBS)]]
   - [[#IBS-C]]
   - [[#IBS-D]]

@@ -3,11 +3,11 @@ title: "ACG Clinical Guideline: Management of Crohn's Disease in Adults (2018)"
 category: source
 tags: [crohns-disease, ibd, anti-tnf, immunomodulator, biologics, fistula, natalizumab, vedolizumab, ustekinumab, postoperative-cd, montreal-classification]
 created: 2026-06-09
-updated: 2026-10-07
+updated: 2026-10-21
 sources: []
 ---
 
-> ⚠ **Historical / superseded source.** Captured for landmark and historical reference. Superseded by [[acg-2025-crohns|ACG Clinical Guideline: Management of Crohn's Disease in Adults (2025)]] and [[aga-2025-crohns-pharm|AGA Pharmacologic Management of Moderate–Severe Crohn's Disease (2025)]]. Where the two editions differ, the newer guideline governs — see [[#Contradictions / Open Questions]].
+> ⚠ **Historical / superseded source.** Captured for landmark and historical reference. Superseded by [[acg-2025-crohns|ACG Clinical Guideline: Management of Crohn's Disease in Adults (2025)]] and [[aga-2025-crohns-pharm|AGA Pharmacologic Management of Moderate–Severe Crohn's Disease (2025)]]. Where the two editions differ, the newer guideline governs.
 
 ## Bibliographic Info
 - **Article:** [Lichtenstein GR, Loftus EV Jr, Isaacs KL, Regueiro MD, Gerson LB, Sands BE. ACG Clinical Guideline: Management of Crohn's Disease in Adults. *Am J Gastroenterol* 2018;113:481–517.](https://doi.org/10.1038/ajg.2018.27)

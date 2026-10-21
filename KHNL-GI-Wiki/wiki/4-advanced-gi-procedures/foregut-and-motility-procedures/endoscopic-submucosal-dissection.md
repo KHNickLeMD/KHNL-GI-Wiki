@@ -3,11 +3,9 @@ title: "Endoscopic Submucosal Dissection (Esophagogastric)"
 category: advanced-procedure
 tags: [esd, endoscopic-resection, emr, early-gastric-cancer, early-esophageal-cancer, en-bloc, r0-resection, pathology, training, duodenal]
 created: 2026-06-27
-updated: 2026-09-27
-sources: [asge-2023-esd, aga-2026-electrosurgery, aga-2018-esd-united-states, aga-2021-post-esd-surveillance]
+updated: 2026-10-21
+sources: [asge-2023-esd, aga-2026-electrosurgery, aga-2018-esd-united-states, aga-2021-post-esd-surveillance, aga-2019-esd-t1b-esophageal-cancer]
 ---
-
-# Endoscopic Submucosal Dissection (Esophagogastric)
 
 En-bloc endoscopic resection of early gastrointestinal (GI) neoplasia using electrosurgical knives (rather than a snare), circumventing the size limit of endoscopic mucosal resection (EMR) and enabling accurate R0 assessment of larger lesions. First-line (over surgery) for many early-stage esophageal and gastric cancers; preferred over [[endoscopic-mucosal-resection|EMR]] for larger lesions where piecemeal EMR would prevent an R0 margin. Per [[asge-2023-esd]]. The definitions and principles below are generic to endoscopic submucosal dissection (ESD); **colorectal indications, hybrid ESD, and early-T1 colorectal cancer (CRC) resection are on [[colorectal-esd]]** — the colon has a narrower indication set and a thinner wall.
 
@@ -22,15 +20,10 @@ En-bloc endoscopic resection of early gastrointestinal (GI) neoplasia using elec
 - [[#Gastric ESD Appropriateness Criteria]]
 - [[#Duodenal ESD]]
 - [[#Post-Resection Coagulation and Closure]]
-- [[#Post-ESD Stricture Prevention]]
 - [[#Specimen Handling and Pathology]]
 - [[#Outcomes]]
 - [[#Adverse Events]]
 - [[#Surveillance]]
-  - [[#Surveillance Technique (every site)]]
-  - [[#Esophageal Dysplasia and Squamous Cell Carcinoma]]
-  - [[#Barrett's Dysplasia and Esophageal Adenocarcinoma]]
-  - [[#Gastric Dysplasia and Adenocarcinoma]]
 - [[#Training and Referral Practice]]
 - [[#See Also]]
 - [[#Sources]]
@@ -106,7 +99,7 @@ Per [[aga-2021-post-esd-surveillance]]:
 | **SM2** | Middle third of submucosa |
 | **SM3** | Lower third of submucosa |
 
-Deeper invasion → higher lymph-node metastasis risk → favors surgery.
+Deeper invasion → higher lymph-node metastasis risk → favors surgery. **In the esophagus the SM1 ceiling is histology-specific — 200 µm for squamous cell carcinoma, 500 µm for adenocarcinoma** — and the nodal risk at each level differs sharply by cell type: [[esophageal-cancer#T1b Substaging and Nodal Risk]] ([[aga-2019-esd-t1b-esophageal-cancer]]).
 
 ### Deep-Invasion Thresholds That Still Permit Cure
 
@@ -180,3 +173,5 @@ Meta-analysis (8 observational studies; 821 ESD vs 1306 EMR):
 1. [[asge-2023-esd|ASGE Guideline: ESD for Early Esophageal and Gastric Cancer (2023)]]
 2. [[aga-2026-electrosurgery|AGA Clinical Practice Update on the Use of Electrosurgery in Therapeutic Endoscopy: Expert Review (2026)]]
 3. [[aga-2018-esd-united-states|AGA Institute Clinical Practice Update: Endoscopic Submucosal Dissection in the United States]]
+4. [[aga-2021-post-esd-surveillance|AGA Clinical Practice Update on Surveillance After Pathologically Curative Endoscopic Submucosal Dissection of Early Gastrointestinal Neoplasia in the United States: Commentary]]
+5. [[aga-2019-esd-t1b-esophageal-cancer|AGA Clinical Practice Update on the Utility of Endoscopic Submucosal Dissection in T1b Esophageal Cancer: Expert Review (2019)]]

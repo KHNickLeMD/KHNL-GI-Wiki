@@ -3,8 +3,8 @@ title: "Esophageal Adenocarcinoma (EAC)"
 category: disease-script
 tags: [esophageal-adenocarcinoma, barretts-esophagus, dysplasia, intramucosal-carcinoma, eet, esophagectomy, foregut, oncology]
 created: 2026-06-04
-updated: 2026-09-04
-sources: [asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, acg-2022-barretts, nccn-2026-esophageal-egj-cancer]
+updated: 2026-10-21
+sources: [asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, acg-2022-barretts, nccn-2026-esophageal-egj-cancer, aga-2019-esd-t1b-esophageal-cancer]
 ---
 
 Esophageal adenocarcinoma (EAC) is a cancer of the distal esophagus/esophagogastric junction (EGJ) arising through the metaplasia–dysplasia–carcinoma sequence from [[barretts-esophagus|Barrett's esophagus (BE)]] (intestinal metaplasia → low-grade dysplasia [LGD] → high-grade dysplasia [HGD] → intramucosal carcinoma [IMC] → invasive EAC) — the only known precursor. Its incidence is among the fastest-rising in Western populations and overall 5-year survival is <20% (~40% present with distant disease). **Depth of invasion is the pivotal variable:** mucosal disease (HGD/T1a) carries very low lymph node (LN)-metastasis risk (~0%–2%) and is treated with [[endoscopic-eradication-therapy|endoscopic eradication therapy (EET)]], whereas deep submucosal (T1b sm2–3) invasion raises LN-metastasis risk to ≥20% and generally requires esophagectomy.
@@ -37,12 +37,14 @@ The central treatment decision follows depth of invasion and adverse histology, 
 |---|---|---|---|
 | **Tis** (HGD) | Malignant cells confined to the epithelium by the basement membrane | **0%** | [[endoscopic-eradication-therapy\|EET]] |
 | **T1a** (IMC) | Invades **lamina propria or muscularis mucosae** | **~0%–2%** | EET **preferred over esophagectomy** (strong rec) |
-| **T1b sm1** | **Superficial** submucosa — upper third, **<500 µm** | Low (not quantified in the guidelines) | EET only if **all four** low-risk features hold (below) |
+| **T1b sm1** | **Superficial** submucosa — upper third, **<500 µm** | **6%** ([[aga-2019-esd-t1b-esophageal-cancer\|AGA 2019]]) | EET only if **all four** low-risk features hold (below) |
 | **T1b sm2–3** | **Mid-to-deep** submucosa, **>500 µm** | **≥20%** (20%–30%) | Esophagectomy generally preferred |
 
 - **Adverse histology overrides depth.** Independent of sm level, **poorly differentiated** cancer or **lymphovascular invasion** carries the same ≥20% LN-metastasis risk and makes esophagectomy the treatment of choice ([[asge-2018-barretts-eet]]). The µm/sm depth thresholds themselves come from [[acg-2022-barretts|ACG 2022]], not from ASGE 2018.
 - **The sm1 exception — all four must hold** for EET to be a viable alternative to surgery: sm1 depth (**<500 µm**), **negative deep (vertical) margin**, **well or moderately differentiated**, and **no lymphovascular invasion** ([[acg-2022-barretts]]). With all four, post-EET LN-metastasis risk appears lower than the mortality of esophagectomy; miss any one and the patient goes to surgery. Criteria table: [[barretts-esophagus]].
-- Esophagectomy operative mortality **~2%**, with high morbidity even at high-volume centers ([[asge-2018-barretts-eet]]).
+- **Size is an independent nodal-risk factor at sm1.** Well-differentiated adenocarcinoma **<2 cm** had LN-metastasis risk of **4.2%** (782 esophagectomies); poorly differentiated and/or >2 cm tumors ran higher, and in a separate T1 series **75% of T1b tumors >1.2 cm** had nodal disease. So the ideal endoscopic candidate is **well-differentiated, <2 cm, sm1, no lymphovascular invasion** ([[aga-2019-esd-t1b-esophageal-cancer]]). Nodal risk by depth for both histologies: [[esophageal-cancer#T1b Substaging and Nodal Risk]].
+- ⚠ **Duplicated muscularis mucosae is a staging trap specific to [[barretts-esophagus|Barrett's]].** The muscularis mucosae can be duplicated or trifurcated, so EUS and EMR specimens **overstage**. In 99 esophagectomies for early adenocarcinoma (41 with duplication), nodal risk for tumor invading the space *between* the duplicated layers equalled that of mucosa-confined disease → **invasion into the duplicated muscularis mucosae space is classified T1a, not T1b** ([[aga-2019-esd-t1b-esophageal-cancer]]). Earlier work had held that space to be as lymphatic-rich as submucosa.
+- Esophagectomy operative mortality **~2%**, with high morbidity even at high-volume centers ([[asge-2018-barretts-eet]]). Contemporary surgical series put operative mortality for T1a disease at **4%** with a **34%** postoperative complication rate even at a high-volume centre (anastomotic leak or stricture, cardiopulmonary complications, feeding-jejunostomy leak), and most survivors carry reflux symptoms through an absent lower esophageal sphincter ([[aga-2019-esd-t1b-esophageal-cancer]]).
 
 ### Classification / Typing
 
@@ -96,3 +98,4 @@ Stage-directed; depth of invasion is the pivot.
 2. [[asge-2019-barretts-screening-surveillance|ASGE Guideline on Screening and Surveillance of Barrett's Esophagus (2019)]]
 3. [[acg-2022-barretts|ACG 2022: Diagnosis and Management of Barrett's Esophagus]]
 4. [[nccn-2026-esophageal-egj-cancer|NCCN Clinical Practice Guidelines in Oncology: Esophageal and Esophagogastric Junction Cancers (Version 3.2026)]]
+5. [[aga-2019-esd-t1b-esophageal-cancer|AGA Clinical Practice Update on the Utility of Endoscopic Submucosal Dissection in T1b Esophageal Cancer: Expert Review (2019)]]

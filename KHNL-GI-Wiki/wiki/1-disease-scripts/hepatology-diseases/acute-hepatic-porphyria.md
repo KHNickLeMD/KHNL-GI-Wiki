@@ -3,7 +3,7 @@ title: "Acute Hepatic Porphyria"
 category: disease-script
 tags: [porphyria, acute-hepatic-porphyria, aip, hcp, vp, alad, hepatology, metabolic, givosiran, hemin]
 created: 2026-07-20
-updated: 2026-09-02
+updated: 2026-10-21
 sources: [aga-2023-acute-hepatic-porphyria]
 ---
 
@@ -63,7 +63,7 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 
 ## Differential Diagnosis
 
-*Workup: see [[nausea-and-vomiting]] — the closest schema for the recurrent neurovisceral attack (severe abdominal pain with nausea/vomiting); there is no dedicated recurrent-abdominal-pain schema. The American Gastroenterological Association (AGA) Clinical Practice Update (CPU) frames AHP as a consideration only **after** an initial workup excludes common causes of recurrent severe abdominal pain.*
+*Workup: see [[nausea-and-vomiting]]. The American Gastroenterological Association (AGA) Clinical Practice Update (CPU) frames AHP as a consideration only **after** an initial workup excludes common causes of recurrent severe abdominal pain.*
 
 - **Common causes of recurrent/acute abdominal pain** — AHP is suspected when severe pain occurs **without peritoneal signs or cross-sectional imaging abnormalities** and is not ascribable to common etiologies.
 - **Secondary porphyrinurias** — mild, nondiagnostic elevations in urinary porphyrins are frequently misread as AHP and cause **overdiagnosis**; urine porphyrins alone must not be used to screen.
@@ -93,7 +93,7 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 
 | Diagnostic biochemical testing | Confirmatory testing | Annual monitoring | On hemin (add) | On givosiran (add) |
 |---|---|---|---|---|
-| Random urine PBG, ALA, and creatinine (normalize to creatinine; **>5-fold ULN** for diagnosis; ALAD = ALA only) | Genetic sequencing of *ALAD, HMBS, CPOX, PPOX* | Liver enzymes; creatinine and estimated glomerular filtration rate (eGFR); liver ultrasound and α-fetoprotein (AFP) **every 6 mo after age 50 y** | Iron, ferritin | Comprehensive metabolic panel, plasma homocysteine, urinalysis, urinary protein-to-creatinine ratio, B12/folate, amylase/lipase |
+| Random urine PBG, ALA, and creatinine | Genetic sequencing of *ALAD, HMBS, CPOX, PPOX* | Liver enzymes; creatinine and estimated glomerular filtration rate (eGFR); liver ultrasound and α-fetoprotein (AFP) **every 6 mo after age 50 y** | Iron, ferritin | Comprehensive metabolic panel, plasma homocysteine, urinalysis, urinary protein-to-creatinine ratio, B12/folate, amylase/lipase |
 
 *Table 2 — Testing recommendations for AHP. Givosiran labs: before start and again just before each monthly injection for 3 months; if stable and well-tolerated, repeat every 3 months for the next year and at least every 6 months thereafter. ([[aga-2023-acute-hepatic-porphyria]])*
 
@@ -120,7 +120,7 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 ### Prophylaxis for Recurrent Attacks
 - **BPA 7:** for recurrent attacks (**≥4/year**), consider outpatient prophylaxis with **[[hemin|prophylactic heme therapy]]** or **[[givosiran]]**.
 - **Prophylactic IV [[hemin]]:** off-label; effectiveness at preventing attacks less established than for aborting them; complications include indwelling catheters, infection, and **[[iron-overload-and-iron-metabolism|iron overload]]** (monitor — see below).
-- **[[givosiran]]:** ALAS1-specific small interfering RNA (siRNA) conjugated to N-acetylgalactosamine (GalNAc), **subcutaneous monthly**; FDA-approved for adults (US), European Medicines Agency (EMA) for ≥12 y (EU). Prescribe **only for biochemically AND genetically confirmed** recurrent attacks. **Avoid in pregnancy / pregnancy planning.** Monitor liver enzymes, blood urea nitrogen (BUN)/creatinine, homocysteine, amylase, lipase; may worsen eGFR in a subset.
+- **[[givosiran]]:** ALAS1-specific small interfering RNA (siRNA) conjugated to N-acetylgalactosamine (GalNAc), **subcutaneous monthly**; US Food and Drug Administration (FDA)–approved for adults, European Medicines Agency (EMA)–approved for ≥12 y in the European Union (EU). Prescribe **only for biochemically AND genetically confirmed** recurrent attacks. **Avoid in pregnancy / pregnancy planning.** Monitor liver enzymes, blood urea nitrogen (BUN)/creatinine, homocysteine, amylase, lipase; may worsen eGFR in a subset.
 
 ### Liver Transplantation
 - **BPA 8:** [[liver-transplantation|liver transplantation]] limited to **intractable symptoms with significantly decreased quality of life, refractory to pharmacotherapy.**

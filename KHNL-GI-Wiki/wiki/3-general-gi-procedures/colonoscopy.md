@@ -3,7 +3,7 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
-updated: 2026-10-15
+updated: 2026-10-21
 sources: [asge-2023-ergonomics, aga-2021-colonoscopy-quality, usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia, aga-2021-gi-perforations-endoscopic-management]
 ---
 
@@ -19,18 +19,14 @@ sources: [asge-2023-ergonomics, aga-2021-colonoscopy-quality, usmstf-2020-follow
 - [[#Polypectomy — Quick Reference]]
 - [[#Complications]]
 - [[#Bowel Preparation]]
-  - [[#Standard Regimen (Average-Risk Ambulatory Patient)]]
-  - [[#GLP-1 Receptor Agonists]]
-  - [[#High-Risk Patients (Prior Inadequate Prep or Risk Factors)]]
-  - [[#Agent Safety and Special Populations]]
-  - [[#Quality and Tracking]]
-  - [[#Preparation Quality Scales]]
 - [[#Post-CRC Resection Surveillance]]
   - [[#Perioperative Clearing]]
   - [[#Post-Resection Colonoscopy Schedule]]
   - [[#Rectal Cancer Additional Local Surveillance (High-Risk Patients)]]
   - [[#Fecal Testing Post-Resection]]
   - [[#Serrated Polyposis Syndrome (SPS) Consideration]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -75,7 +71,7 @@ All surveillance recommendations assume high-quality examination. [[usmstf-2020-
 
 Procedure-level items that belong to this page:
 
-- **Adequate bowel prep:** able to visualize polyps >5mm; **target ≥90%** at endoscopist and unit level [[usmstf-2025-bowel-prep]]. Segment-level adequacy cutoff: see [[#Preparation Quality Scales]].
+- **Adequate bowel prep:** able to visualize polyps >5mm; **target ≥90%** at endoscopist and unit level [[usmstf-2025-bowel-prep]]. Segment-level adequacy cutoff: see [[bowel-preparation#Preparation Quality Scales|bowel-preparation]].
 - **Photodocument the cecal landmarks** — appendiceal orifice and ileocecal valve (or terminal ileum) — in the report. [[aga-2021-colonoscopy-quality]]
 - **Second look of the right colon**, retroflexed or forward view (equally effective): withdraw to the hepatic flexure inspecting and clearing polyps, then reintubate the cecum and re-examine the proximal colon — increases ADR by **5%–20%**. [[aga-2021-colonoscopy-quality]]
 - **High-definition colonoscopes** for screening and surveillance — definite but modest gains in adenoma, serrated polyp, and advanced adenoma detection. [[aga-2021-colonoscopy-quality]]
