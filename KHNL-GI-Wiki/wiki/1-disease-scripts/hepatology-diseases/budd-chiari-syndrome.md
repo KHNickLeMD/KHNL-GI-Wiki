@@ -3,8 +3,8 @@ title: "Budd-Chiari Syndrome"
 category: disease-script
 tags: [budd-chiari, hepatic-vein, thrombosis, portal-hypertension, liver-failure, mpn, jak2, anticoagulation, tips]
 created: 2026-05-21
-updated: 2026-09-22
-sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, baveno-vii-2022-portal-hypertension, aasld-2021-vascular-pvt]
+updated: 2026-10-22
+sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, baveno-vii-2022-portal-hypertension, aasld-2021-vascular-pvt, darwish-murad-2004-rotterdam-bcs-score]
 ---
 
 ## Assessment
@@ -63,9 +63,34 @@ Prevalences below are the hepatic vein thrombosis (HVT)/BCS column of [[aasld-20
 
 > ⚠ **This resolves a standing contradiction on this page, against Baveno VII.** [[baveno-vii-2022-portal-hypertension|Baveno VII]] 8.24–8.25 endorsed the **BCS-TIPS prognostic index**, with a **score >7** as a trigger to consider **liver transplantation before [[tips|transjugular intrahepatic portosystemic shunt (TIPS)]] placement**. [[acg-2020-hepatic-mesenteric-circulation]] KC 26 said the opposite — that "prognostic scoring systems are not helpful in guiding choice of therapy," noting the **Rotterdam score** is validated for *intervention-free* but not *transplant-free* survival and "should not be used to dictate treatment in individual patients." **Baveno VIII now agrees with ACG.** The BCS-TIPS index >7 rule is **withdrawn as a management trigger**; transplant is instead considered for **uncontrolled clinical manifestations despite the stepwise approach** and for BCS presenting as acute liver failure.
 >
-> Neither guideline prints the component variables or point values of the **BCS-TIPS prognostic index** or the **Rotterdam score**, so neither can be computed from this page; this matters less now that Baveno VIII restricts both to research use.
+> Neither guideline prints the component variables or point values of the **BCS-TIPS prognostic index**, so that score cannot be computed from this page. The **Rotterdam score** can — its derivation paper is below — but Baveno VIII restricts it to research use all the same.
 
 Key predictors of poor outcome: [[hepatic-encephalopathy|hepatic encephalopathy]], [[ascites]] refractory to medical therapy, liver failure (coagulopathy, jaundice, international normalized ratio [INR] >1.5), failure to respond to anticoagulation + angioplasty within weeks.
+
+#### Rotterdam Prognostic Index
+
+Research tool, not a management trigger — see the Baveno VIII restriction above. Derived in 237 patients with non-malignant BCS, 1984–2001 ([[darwish-murad-2004-rotterdam-bcs-score]]).
+
+> **Score = (1.27 × encephalopathy) + (1.04 × ascites) + (0.72 × prothrombin time) + (0.004 × bilirubin)**
+
+| Variable | Coding |
+|---|---|
+| Encephalopathy | present = 1, absent = 0 (graded by Glasgow Coma Scale) |
+| Ascites | present = 1, absent = 0 |
+| Prothrombin time | INR **>2.3** = 1, INR **≤2.3** = 0 |
+| Bilirubin | continuous, **in µmol/L** — the coefficient is not calibrated for mg/dL |
+
+- Item weights are the **natural logarithms of the risk ratios** from the multivariate Cox model, not assigned points. Observed scores ran 0.02–4.03.
+- Class boundaries are the **quartiles of the score distribution** in the derivation cohort, not clinically chosen cut-points.
+
+| Class | Score | 5-year transplantation-free survival (95% CI) |
+|---|---|---|
+| **I** — good | 0 to 1.1 | **89%** (79–99) |
+| **II** — intermediate | >1.1 to 1.5 | **74%** (65–83) |
+| **III** — poor | ≥1.5 | **42%** (28–56) |
+
+- Whole-cohort survival: **82%** at 1 y, **69%** at 5 y, **62%** at 10 y, **59%** at 15 y.
+- The score was **derived and evaluated in the same cohort** — the paper contains no external validation, and treatment was not randomized.
 
 **HCC risk** — elevated, and occurs **without cirrhosis**, but the estimates differ by population and design:
 
@@ -166,6 +191,7 @@ flowchart TD
 - **[[tips|TIPS]]** patency important: use covered (polytetrafluoroethylene [PTFE]) stents
 - Post-TIPS: continue anticoagulation; monitor for encephalopathy
 - Bridges to [[liver-transplantation|liver transplantation]] if needed
+- **Do not let the decompression step drift.** In the Rotterdam cohort, mortality rose the longer shunting was delayed after diagnosis — relative risk 1.07 if shunted at <1 month, **3.05 at 1–6 months**, **4.15 at >6 months**. Surgical shunts and TIPS performed alike. Observational and confounded by indication, but the direction is consistent with the stepwise approach's intent ([[darwish-murad-2004-rotterdam-bcs-score]])
 
 ### Step 4 — Liver Transplantation
 
@@ -199,3 +225,4 @@ flowchart TD
 2. [[acg-2020-hepatic-mesenteric-circulation|ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation]]
 3. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
 4. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]
+5. [[darwish-murad-2004-rotterdam-bcs-score|Determinants of Survival and the Effect of Portosystemic Shunting in Patients With Budd-Chiari Syndrome (Hepatology 2004)]]

@@ -3,7 +3,7 @@ title: "ASGE Guideline: The Role of ERCP in Benign Diseases of the Biliary Tract
 category: source
 tags: [ercp, biliary, choledocholithiasis, biliary-stricture, bile-leak, sphincter-of-oddi, cholangioscopy, stent, asge]
 created: 2026-06-28
-updated: 2026-06-28
+updated: 2026-10-22
 sources: []
 ---
 

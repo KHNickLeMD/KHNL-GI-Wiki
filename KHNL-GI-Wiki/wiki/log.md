@@ -6,6 +6,12 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-22] lint | Rotterdam ingested — `raw/` is now fully ingested; the arrival baseline was stale by 11 and the stale-page rotation moved to `wiki/sources/`
+
+**Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands; title amended at the end to match what actually happened.
+
+---
+
 ## [2026-10-21] lint | 06:00 pass — SURFASA and RETREAT ingested, both closing declared score gaps; 0 downloads and the reason why
 
 **Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands; title amended at the end to match what actually happened.
