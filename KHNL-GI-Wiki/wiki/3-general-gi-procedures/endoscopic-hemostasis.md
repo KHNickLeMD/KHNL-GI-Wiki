@@ -3,7 +3,7 @@ title: "Endoscopic Hemostasis"
 category: general-procedure
 tags: [hemostasis, gi-bleeding, ugib, lgib, clips, thermal, hemostatic-powder, over-the-scope-clip, hemostatic-forceps, band-ligation, endoscopy]
 created: 2026-09-06
-updated: 2026-10-12
+updated: 2026-10-22
 sources: [aga-2020-nvugib-endoscopic-therapies, acg-2021-ugib, acg-2023-lgib, acg-2025-egd-quality]
 ---
 
@@ -72,12 +72,11 @@ This page covers the **hemostatic devices themselves** — mechanism, settings, 
 
 ### Dilute Epinephrine
 
-- **Concentration: 1:10,000 — equivalent to 100 µg/mL** ([[aga-2020-nvugib-endoscopic-therapies]]).
 - Injected at or near the bleeding site; achieves initial hemostasis by **inducing vasospasm**.
 - **This is a temporizing measure only**, used to improve visualization so definitive therapy can be targeted.
-- ⚠ **Epinephrine monotherapy must be avoided** — high rebleeding risk. If epinephrine is used, a **second hemostatic modality must follow** ([[acg-2021-ugib]], [[aga-2020-nvugib-endoscopic-therapies]]).
+- ⚠ **[[epinephrine|Epinephrine]] monotherapy must be avoided** — high rebleeding risk. If epinephrine is used, a **second hemostatic modality must follow** ([[acg-2021-ugib]], [[aga-2020-nvugib-endoscopic-therapies]]).
 - **But dual therapy is not itself superior:** epinephrine plus another therapy has **no advantage over properly applied thermal or mechanical monotherapy** ([[aga-2020-nvugib-endoscopic-therapies]]). The rule is *never alone*, not *always add it*.
-- No injection volume, site count, or maximum dose is stated in these guidelines.
+- **Concentration (1:10,000 = 100 µg/mL), the diverticular-bleeding aliquot rule, the comparative relative risks, and the lifting-solution use are on [[epinephrine]]** — that page is their home. No ingested guideline gives an injection volume, site count, or maximum dose for **upper** GI bleeding.
 
 ### Absolute Ethanol
 

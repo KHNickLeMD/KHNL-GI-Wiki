@@ -3,7 +3,7 @@ title: "ASGE Guideline: The Role of Endoscopy in the Management of Premalignant 
 category: source
 tags: [gastric-polyps, gastric-intestinal-metaplasia, atrophic-gastritis, pernicious-anemia, gastric-adenocarcinoma, gastric-carcinoid, gist, subepithelial-lesions, eus, endoscopic-resection, asge]
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-10-22
 sources: []
 ---
 
@@ -23,7 +23,7 @@ Core themes: gastric polyp histology cannot be predicted endoscopically → biop
 
 ## Key Findings / Claims
 
-**Recommendations (verbatim, with GRADE quality of evidence; ⊕⊕⊕⊕ high, ⊕⊕⊕◯ moderate, ⊕⊕◯◯ low, ⊕◯◯◯ very low; "recommend" = strong, "suggest" = conditional/weak):**
+**Recommendations (verbatim, with GRADE quality of evidence; ⊕⊕⊕⊕ high, ⊕⊕⊕◯ moderate, ⊕⊕◯◯ low, ⊕◯◯◯ very low; "recommend" = strong, "suggest" = conditional/weak).** The document numbers its own recommendations 1–16 and assigns each a quality grade; both are reproduced as published.
 
 1. We recommend solitary gastric polyps undergo biopsy or be resected when possible. (strong, ⊕⊕⊕⊕)
 2. We suggest polypectomy of fundic gland polyps 1 cm or larger, hyperplastic polyps 0.5 cm or larger, and adenomatous polyps of any size when possible. (conditional, ⊕⊕◯◯)
@@ -57,5 +57,5 @@ Core themes: gastric polyp histology cannot be predicted endoscopically → biop
 - Cross-links [[endoscopic-ultrasound]] and [[gastrointestinal-stromal-tumor|GIST/subepithelial lesions]] — EUS ± FNA for subepithelial lesions; annual EUS surveillance of GIST <2 cm if unresected.
 
 ## Contradictions / Open Questions
-- **Older than** the current gastric guidelines ([[acg-2025-gastric-premalignant|ACG 2025]], [[aga-2020-gastric-intestinal-metaplasia|AGA 2020 GIM]], [[aga-2021-atrophic-gastritis|AGA 2021]], [[aga-2026-gastric-polyps|AGA 2026 gastric polyps]]). Where they specify GIM risk-stratification, staging systems (OLGA/OLGIM), and surveillance intervals, those newer documents govern the page's primary recommendations; this 2015 source contributes endoscopic technique/sampling and staging/palliation detail only — it does not overwrite the newer surveillance schemes.
+- **Older than** the current gastric guidelines ([[acg-2025-gastric-premalignant|ACG 2025]], [[aga-2020-gastric-intestinal-metaplasia|AGA 2020 GIM]], [[aga-2021-atrophic-gastritis|AGA 2021]], [[aga-2026-gastric-polyps|AGA 2026 gastric polyps]]). Where they specify GIM risk-stratification, staging systems (Operative Link on Gastritis Assessment [OLGA] / Operative Link on Gastric Intestinal Metaplasia Assessment [OLGIM]), and surveillance intervals, those newer documents govern the page's primary recommendations; this 2015 source contributes endoscopic technique/sampling and staging/palliation detail only — it does not overwrite the newer surveillance schemes.
 - Predates routine endoscopic submucosal dissection (ESD) adoption for early gastric cancer in Western practice — see [[asge-2023-esd|ASGE 2023 ESD]] for current early-gastric-cancer resection criteria.

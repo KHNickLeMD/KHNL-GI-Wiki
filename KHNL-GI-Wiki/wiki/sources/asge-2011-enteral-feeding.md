@@ -3,7 +3,7 @@ title: "ASGE 2011: The Role of Endoscopy in Enteral Feeding"
 category: source
 tags: [enteral-nutrition, peg, pegj, dpej, nasoenteric, gastrostomy, feeding-tube, asge]
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-10-22
 sources: []
 ---
 
@@ -32,20 +32,25 @@ The document also frames PEG outcomes (high underlying-comorbidity mortality —
 - **Early feeding** (≤4 h after placement) equivalent to delayed/next-day feeding (meta-analysis of 6 randomized controlled trials [RCTs]).
 - Absolute contraindications: inability to appose gastric and abdominal walls, pharyngeal/esophageal obstruction precluding endoscope passage, uncorrectable coagulopathy.
 - PEG complication rate 4.9-10.3% (serious 1.5-4%); procedure-related mortality ~0.5%, 30-day all-cause mortality ~15% (comorbidity-driven). Tumor seeding after PEG in oropharyngeal tumors <1%.
+- **Where methicillin-resistant *Staphylococcus aureus* (MRSA) is endemic**, screening for MRSA and decolonization before PEG placement may decrease peristomal MRSA infection — separate from, and additional to, the single IV prophylactic dose of recommendation 5.
+- **DPEJ also covers anatomy that precludes PEG** (eg, post-surgical). PEGJ and DPEJ are additionally beneficial in **chronic pancreatitis with persistent nutritional compromise** — an indication beyond the reflux/gastroparesis/aspiration triad of recommendation 4.
 - A **mature fistulous tract** is required before non-endoscopic tube/button replacement (intraperitoneal spillage risk otherwise). Cut-and-push removal should not be used with distal GI strictures (obstruction risk).
 
-## Recommendations (verbatim)
+## Recommendations
 
-1. Suggest nasoenteric feeding as the preferred approach for patients expected to resume peroral nutrition within 30 days. (Low/conditional)
-2. Suggest a variety of factors — patient preferences, quality of life, and prognosis — be addressed with the patient and family before feeding-tube placement. (Low/conditional)
-3. In patients not predicted to resume peroral nutrition within 30 days, suggest nutrition be provided via a percutaneous endoscopic feeding tube. (Low/conditional)
-4. Suggest PEGJ or DPEJ are indicated in patients with severe gastroesophageal reflux, gastroparesis, or repeated tube-feeding-related aspirations. (Low/conditional)
-5. Recommend a prophylactic dose of antibiotic be given intravenously before percutaneous endoscopic feeding-tube placement. (High/strong)
-6. Suggest tube feeds may be safely started in most patients within 4 hours of endoscopic percutaneous tube placement. (Low/conditional)
+Verbatim, numbered 1–6 as the document numbers them, with its own GRADE quality symbols (⊕⊕⊕⊕ high, ⊕⊕◯◯ low); "recommend" = strong, "suggest" = conditional.
+
+1. "We suggest nasoenteric feeding as the preferred approach to feeding patients who are expected to resume peroral nutrition within 30 days." (⊕⊕◯◯, conditional)
+2. "We suggest that a variety of factors, including patient preferences, quality of life, and prognosis be addressed with the patient and the family before placement of feeding tubes." (⊕⊕◯◯, conditional)
+3. "In patients not predicted to resume peroral nutrition within 30 days, we suggest that nutrition be provided via a percutaneous endoscopic feeding tube." (⊕⊕◯◯, conditional)
+4. "We suggest that PEGJ or DPEJ are indicated in patients with severe gastroesophageal reflux, gastroparesis, or repeated tube feeding-related aspirations." (⊕⊕◯◯, conditional)
+5. "We recommend a prophylactic dose of antibiotic be given intravenously before percutaneous endoscopic feeding tube placement." (⊕⊕⊕⊕, strong)
+6. "We suggest that tube feeds may be safely started in most patients within 4 hours of endoscopic percutaneous tube placement." (⊕⊕◯◯, conditional)
 
 ## Relevance to Wiki
 
 - **[[nutrition-in-hospitalized-patients]]** — expanded the Enteral Access section with the 30-day nasoenteric-vs-percutaneous rule, PEGJ/DPEJ indications, periprocedural antibiotic prophylaxis, early feeding, and PEG complications (net-new to the ASGE 2025 gastrostomy content).
+- **[[enteral-access]]** — MRSA screening/decolonization where endemic (added to the prophylaxis section); DPEJ for anatomy precluding PEG and post-pyloric access for chronic pancreatitis with nutritional compromise (added to the route-selection table).
 
 ## Contradictions / Open Questions
 

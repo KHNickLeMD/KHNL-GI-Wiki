@@ -3,7 +3,7 @@ title: "Alpha-Gal Syndrome"
 category: disease-script
 tags: [alpha-gal-syndrome, food-allergy, mammalian-meat-allergy, ige, tick-bite, abdominal-pain, diarrhea, anaphylaxis]
 created: 2026-07-20
-updated: 2026-10-02
+updated: 2026-10-22
 sources: [aga-2023-alpha-gal-syndrome]
 ---
 
@@ -91,7 +91,7 @@ Immunoglobulin E (IgE)-mediated allergy to **galactose-alpha-1,3-galactose (alph
 
 - Inform a reliable person.
 - Take **1–2 diphenhydramine 25 mg tablets**.
-- Ensure access to **self-injectable epinephrine**, especially if respiratory compromise.
+- Ensure access to **self-injectable [[epinephrine]]**, especially if respiratory compromise.
 
 ### Tick-bite avoidance & medical products
 

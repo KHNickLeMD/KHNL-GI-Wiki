@@ -3,8 +3,8 @@ title: "Enteral Access"
 category: general-procedure
 tags: [enteral-nutrition, peg, peg-j, nutrition, nasoenteric, dpej, buried-bumper]
 created: 2026-07-23
-updated: 2026-09-06
-sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
+updated: 2026-10-22
+sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes, asge-2011-enteral-feeding]
 ---
 
 ## Contents
@@ -99,6 +99,8 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 | Severely delayed gastric emptying | Small-bowel (required) |
 | Long-term small-bowel, minimize reintervention | **DPEJ** (better patency; but harder, more leak) |
 | Head & neck cancer or upper GI stricture/obstruction | Transabdominal ("introducer"/Russell) gastrostomy |
+| Anatomy precluding PEG (eg, post-surgical) | **DPEJ** ([[asge-2011-enteral-feeding]]) |
+| [[chronic-pancreatitis\|Chronic pancreatitis]] with persistent nutritional compromise | Post-pyloric (**PEGJ or DPEJ**) ([[asge-2011-enteral-feeding]]) |
 
 ## Contraindications
 
@@ -122,6 +124,7 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
   - **Single dose of a first-generation cephalosporin immediately before** percutaneous access.
   - Not required if already on systemic antibiotics.
   - Cephalosporin allergy → **clindamycin or vancomycin**.
+  - **Where methicillin-resistant *Staphylococcus aureus* (MRSA) is endemic:** screening and decolonization before placement may further reduce peristomal MRSA infection — in addition to, not instead of, the single prophylactic dose ([[asge-2011-enteral-feeding]]).
 - **[[anticoagulation-gi-bleeding|Antithrombotics]]:**
   - **Antiplatelets — do NOT routinely withhold** before PEG (Rec 2a, [[asge-2025-gastrostomy-tubes]]); increasing data support PEG placement **without interruption of dual-antiplatelet therapy** (no significant increase in bleeding).
   - **Anticoagulants — individualize** periprocedural management, balancing thrombotic against bleeding risk; they are handled differently from antiplatelets (Rec 2b, [[asge-2025-gastrostomy-tubes]]).
@@ -203,3 +206,4 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 
 1. [[aga-2025-endoscopic-enteral-access|AGA 2025 Clinical Practice Update on Endoscopic Enteral Access]]
 2. [[asge-2025-gastrostomy-tubes|ASGE Guideline: Gastrostomy Feeding Tubes (2025)]]
+3. [[asge-2011-enteral-feeding|ASGE 2011: The Role of Endoscopy in Enteral Feeding]]

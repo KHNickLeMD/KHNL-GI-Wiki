@@ -3,7 +3,7 @@ title: "Upper GI Bleeding"
 category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
-updated: 2026-10-12
+updated: 2026-10-22
 sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2020-nvugib-endoscopic-therapies]
 ---
 
@@ -227,7 +227,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 - Hemostatic powder spray TC-325: for actively bleeding ulcers only (does not adhere to nonbleeding lesions); delivery catheter tip 1–2 cm from bleeding site, 1–2 second bursts; high cost limits use as first-line in U.S. (~$2,500 list price)
 - Over-the-scope clips: reserved for **recurrent ulcer bleeding** after previous successful endoscopic hemostasis; superior to standard therapy in this setting (further bleeding 15.2% vs. 57.6%)
 
-**Dual therapy** (epinephrine + a second modality) is standard practice for active bleeding to improve visibility and efficacy.
+**Dual therapy** ([[epinephrine]] + a second modality) is standard practice for active bleeding to improve visibility and efficacy.
 
 ### Step 7: Post-Endoscopic Management (Ulcer Bleeding)
 

@@ -3,7 +3,7 @@ title: "ASGE Guideline: The Role of Endoscopy in the Diagnosis and the Managemen
 category: source
 tags: [pancreatic-cancer, pancreatic-neuroendocrine-tumor, eus, eus-fna, ercp, biliary-obstruction, celiac-plexus-neurolysis, palliation, pancreatic-cancer-screening, asge]
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-10-22
 sources: []
 ---
 
@@ -23,7 +23,7 @@ This is an **older** ASGE document — superseded for tissue-acquisition techniq
 
 ## Key Findings / Claims
 
-**Recommendations (verbatim, with GRADE quality of evidence; ⊕⊕⊕⊕ high, ⊕⊕⊕◯ moderate, ⊕⊕◯◯ low, ⊕◯◯◯ very low; "recommend" = strong, "suggest" = conditional):**
+**Recommendations (verbatim, with GRADE quality of evidence; ⊕⊕⊕⊕ high, ⊕⊕⊕◯ moderate, ⊕⊕◯◯ low, ⊕◯◯◯ very low; "recommend" = strong, "suggest" = conditional).** The document presents these as an **unnumbered bulleted list** — the numbering below is this wiki's, for reference only; do not cite "Recommendation 5" to this guideline. The quality grades are the document's own.
 
 1. We recommend that imaging evaluation of patients with suspected solid pancreatic neoplasia include EUS and multidetector pancreas protocol CT scans with selective use of MRI and PET-CT when appropriate. (strong, ⊕⊕⊕⊕)
 2. We recommend that EUS be performed for evaluation of pancreatic masses and suspected malignancy, particularly when CT detection or evaluation of resectability is equivocal. (strong, ⊕⊕⊕⊕)

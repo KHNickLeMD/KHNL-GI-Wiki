@@ -3,7 +3,7 @@ title: "Acute Lower Gastrointestinal Bleeding (LGIB)"
 category: diagnostic-schema
 tags: [lower-gi-bleeding, lgib, hematochezia, diverticular, colonoscopy, hemorrhage, cta, risk-stratification]
 created: 2026-05-15
-updated: 2026-10-14
+updated: 2026-10-22
 sources: [acg-2023-lgib, asge-2014-lgib, acg-2021-ugib]
 ---
 
@@ -265,6 +265,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - Bipolar/multipolar coagulation
 - Initial hemostasis rates 99–100% for all modalities
 - Despite hemostasis, early rebleeding 17.4%, late rebleeding 32.0%
+- ⚠ **The older [[asge-2014-lgib|ASGE 2014]] guideline made dilute [[epinephrine|epinephrine]] injection *combined with* thermal coagulation or clip placement the preferred management (Rec 9, high quality)** — 1:10,000 or 1:20,000 in 1-mL aliquots up to 2 mL. [[acg-2023-lgib|ACG 2023]] is newer and lists clips, band ligation, and bipolar coagulation without epinephrine, so the modalities above are what the page asserts; epinephrine remains an adjunct for visibility and is **never used alone** (dose detail: [[epinephrine]]).
 
 **Colonic angioectasias:**
 

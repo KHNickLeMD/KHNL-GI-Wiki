@@ -6,9 +6,76 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
-## [2026-10-22] lint | Rotterdam ingested — `raw/` is now fully ingested; the arrival baseline was stale by 11 and the stale-page rotation moved to `wiki/sources/`
+## [2026-10-22] lint | 06:00 pass — 0 ingests because `raw/` is empty of work; epinephrine page closes queue #36; 2 download rows deleted as already-filled
 
 **Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands; title amended at the end to match what actually happened.
+
+**New arrivals:** none to commit. `git status --porcelain --untracked-files=all` empty at session start, and `raw/` holds **401 non-lecture PDFs**, unchanged from yesterday, plus 60 gated lecture transcripts, 2 PNGs and 92 assets. Per the standing note, `raw/`'s content subfolders are gitignored here, so a synced PDF never shows as untracked — a new arrival shows up as a new *filename*, and there are none.
+
+**Ingest: 0 files — and 0 is the correct number, not a skipped step.** Every one of the 401 non-lecture PDFs was matched against the 353 `wiki/sources/` pages by token overlap, and the 25 weakest matches were each resolved by hand. **All 401 are ingested.** Two findings worth keeping:
+
+- **`raw/GI Guidelines/Other/Cotton Consensus.pdf` is not the Cotton consensus.** Page 1 is **Suzuki et al., *J Gastroenterol Hepatol Open* 2021** (doi `10.1002/jgh3.12687`) — already ingested as [[suzuki-2021-pep-acute-pancreatitis-criteria]]. A misleading filename, not a gap; added to the standing false-alarm list so no future pass re-ingests it.
+- The remaining low-score names are all known lowercase-shorthand duplicates (`GLP1 before endo.pdf` → [[aga-2024-glp1-endoscopy]], `vasocontrictors and albumin in cirrhosis.pdf` → [[aga-2024-vasoactive-albumin-cirrhosis]], `tailed polypectomy.pdf` → [[aga-2024-tailored-polypectomy]], `cyclical vomiting.pdf` → [[aga-2024-cvs]], `FTR subepithelial lesions.pdf` → [[aga-2024-full-thickness-resection]], `eus gb drain cholecystitis.pdf` → [[aga-2023-eus-gallbladder-drainage]], `AGA 2022 IBS-C/IBS-D Pharm Mgmt.pdf` → [[aga-2022-ibs-c]]/[[aga-2022-ibs-d]]).
+- `IANS 2024 Anal Cancer Screening Consensus.pdf` is **still the 6 KB Cloudflare page**, not the paper. 60 gated lecture transcripts untouched — lectures are never auto-ingested.
+
+**Daily source fetch (06:00 step) — 0 downloaded, 4 rows marked 🔒, 2 rows deleted. Two real download attempts were made; both papers are paywalled.**
+
+- *Scores and classification instruments* is the first-priority block and **all of it is still 🔒 or 🌐** — the fifth consecutive pass with no fetchable candidate there.
+- **IDSA 2016 candidiasis** — the pick yesterday's pass explicitly deferred "so the next pass can take it knowingly". Taken knowingly, and it failed: PMC4725385 exists but sits **outside the open-access subset**, so `fetch-paper.py` returns `not_open_access`. ⚠ **The row's claim "Open-access in PMC" was wrong** and is corrected on the row.
+- **ASGE/ACG 2024 *Quality indicators for colonoscopy*** (Rex et al., `10.1016/j.gie.2024.04.2905`) — attempted because it is the one row whose gap is both wide and clinically live: [[colonoscopy-quality-indicators]] builds its whole benchmark set on AGA 2021 and ends with a section reconciling **three mutually inconsistent adenoma detection rate (ADR) and cecal-intubation figures** across documents. PMC13192241 is an author manuscript outside the OA subset → 🔒. The row now records why it is the highest-value unfilled item in its block.
+- **Also tried and unfetchable (no PMCID at all):** ESGE 2021 ampullary tumors, Brazilian Intragastric Balloon Consensus 2018, SIS 2024 intra-abdominal infection. First two marked 🔒.
+- **2 rows deleted — both named gaps that are already closed, and both were checked against the page *before* any download.** This is the second consecutive pass to find drift of exactly this kind in the download list:
+  - **Montreal classification (Satsangi 2006) — deleted.** The classes are already printed from ingested ACG guidelines: [[ulcerative-colitis]] carries **E1/E2/E3** with both ACG 2025 proctitis cut-points, and [[crohns-disease]] carries **A1, L1–L3, B1–B3** with the behaviour-progression rule. A classification paper is only eligible when neither guideline nor wiki prints what you act on.
+  - **CDC/MMWR hepatitis C screening (Schillie 2020) — deleted.** Its stated gap, "universal screening in each pregnancy", is on [[hepatitis-c-in-pregnancy]] from [[aasld-idsa-2023-hcv]] and [[aga-2024-pregnancy-gi-liver]], including the change from ACG 2016's risk-based stance. The page's genuine residual is **testing the perinatally exposed infant**, which is a pediatric decision — *What belongs* excludes pediatric-only material, so **no replacement row was written**.
+- **No third pick to reach 2** (*Quality over quota*).
+- ⚠ **`/repo/.fetch-manual.md` is still unreachable** — it sits outside this session's permitted working directory and both read and write are refused, as yesterday. The 🔒 rows each carry their own link in `needed-sources.md`, which is the durable record. **If the emailed manual list matters, the cron needs the repo root in its allowed paths.** Second consecutive pass reporting this.
+
+**Coverage-gap queue — 1 page created, queue #36.**
+
+- **[[epinephrine]]** (`5-meds/`) — built on **8** ingested sources, not the 2 the row named. It is the dose owner for three unrelated uses that were scattered across the wiki: hemostatic injection, lifting-solution adjunct, and the anaphylaxis autoinjector in [[alpha-gal-syndrome|alpha-gal syndrome]]. **Done as a MOVE, not a copy** — the 1:10,000 concentration left [[endoscopic-hemostasis]] and the cold-EMR dilutions left [[endoscopic-mucosal-resection]], each reduced to a pointer, while both pages keep their strategy content ("never alone", the dual-therapy counterweight, the agent table).
+  - **The page carries both halves of the epinephrine rule, which is the thing clinicians get wrong:** [[acg-2021-ugib]] Rec 10 forbids monotherapy (**strong**, very-low–moderate; RR 2.20 alone vs standard monotherapies, RR 0.34 when a second modality is added), *and* [[aga-2020-nvugib-endoscopic-therapies]] finds **dual therapy no better than properly applied thermal or mechanical monotherapy**. The rule is *never alone*, not *always add it*.
+  - ⚠ **Closed a real decision gap on [[acute-lower-gi-bleeding]]:** its Step 6 listed clips, band ligation and bipolar coagulation from [[acg-2023-lgib]] and **did not mention epinephrine at all**, even though [[asge-2014-lgib]] Rec 9 (**⊕⊕⊕⊕ high**) makes epinephrine *plus* thermal coagulation or a clip the preferred management of diverticular bleeding, and is the only ingested source in the corpus that prints an injection **volume** (1:10,000 or 1:20,000, 1-mL aliquots up to 2 mL). Newer ACG governs what the page asserts; the older position is now surfaced beside it rather than silently dropped.
+  - **Gaps stated plainly on the page, not filled:** no upper-GI injection volume, no cumulative-dose ceiling, no systemic adverse-effect threshold in any ingested source.
+- **Queue #32 (`bristol-stool-form-scale`) remains blocked and was re-verified, not retried** — [[aga-2017-opioids-in-gastroenterology]] says in its own text that the scale "is not printed in this source", and no other ingested source prints all 7 types. Lewis & Heaton 1997 is 🔒. **#37 (`intraductal-ultrasound`) is the next buildable row** and is untouched this pass.
+
+**Stale-page validation — 3 pages (the cap), all `wiki/sources/`, all checked recommendation-by-recommendation against their raw PDFs.** Continuing the rotation into `wiki/sources/` that the 01:11 pass began; see the open question below.
+
+- [[asge-2015-gastric-premalignant]] — **clean.** All **16** recommendations and all 16 GRADE symbols verified character-by-character against the PDF (`4444`/`444B`/`44BB` in `pdftotext` output = ⊕⊕⊕⊕/⊕⊕⊕◯/⊕⊕◯◯); **the document numbers its own recommendations 1–16**, so the page's numbering is the document's. Added a line saying so, to stop a future pass "correcting" it. One real style defect fixed: **OLGA/OLGIM unexpanded on first use** → now Operative Link on Gastritis Assessment / Operative Link on Gastric Intestinal Metaplasia Assessment. Propagation checked and sound — the rec 16 GIST surveillance and rec 10/11 gastric-carcinoid content is fully covered on [[gastrointestinal-stromal-tumor]] and [[gastroenteropancreatic-neuroendocrine-tumors]] from **newer** sources (NCCN 2026, AGA 2022, ACG 2023), which is the correct outcome for a 2015 document.
+- [[asge-2016-solid-pancreatic-neoplasia]] — **one real defect, the high-yield class.** All 9 quality grades verified exactly, but **the document presents its recommendations as an unnumbered bulleted list** — the page numbered them 1–9 with no indication the numbering was the wiki's. This is the same failure mode as the 2026-09-08 `asge-2020-endoscopic-removal` audit (23 of 34 invented grades on a document that numbers nothing), caught here before it propagated: nothing cites "Recommendation 5" of this guideline. Page now says the numbering is the wiki's and the grades are the document's.
+- [[asge-2011-enteral-feeding]] — grades verified (`QQŒŒ` = ⊕⊕◯◯ for 1/2/3/4/6, `QQQQ` = ⊕⊕⊕⊕ for 5), numbering is the document's, and the stroke and severe-pancreatitis claims check out verbatim. Two fixes: the recommendation block was **labelled "verbatim" but paraphrased** → restored to the document's actual wording with its GRADE symbols; and **two net-new decision items were on the source page's floor** — *MRSA screening and decolonization before PEG where MRSA is endemic* (separate from the single prophylactic dose) and *DPEJ for anatomy precluding PEG, plus post-pyloric access for chronic pancreatitis with persistent nutritional compromise* (an indication beyond the reflux/gastroparesis/aspiration triad). Both propagated to [[enteral-access]], which is their home page, and the slug added to its `sources:` and `## Sources`.
+- **Next rotation:** `asge-2014-lab-testing-endoscopy`, `asge-2016-antithrombotic`, and the three 2026-07-01 primary-research pages ([[demadaria-2022-waterfall]], [[feuerstadt-2022-ser109-cdiff]], [[hendershot-2025-semaglutide-aud]], [[surjanhata-2025-constipation-gastroparesis]]).
+
+**Hygiene / whole-wiki checks** (687 pages, 353 of them sources):
+
+- **Broken links: 0** outside `log.md` (the 16 hits there are history — superseded slugs quoted in old entries — and are left alone). **Dead `## Contents` / heading anchors: 0**, holding the corpus-wide repair of 44 + 2. **Unresolved image embeds: 0** (85 embeds). **Unescaped alias pipes in table cells: 0.** **Stubs: 0.** **OS artifacts: 0.** **Frontmatter: clean** on all 685 content pages; no future `updated:` dates.
+- ⚠ **Detector note, costing two false alarms this pass and worth writing down:** a naive extractor reports **101** broken links and **9** missing image embeds. Both are artifacts — `![[file.png]]` embeds are matched as page links unless you check the character *before* `[[`, and an embed carrying an escaped size hint (`![[file.png\|700x317]]`) parses as `file.png\`. Strip the trailing backslash and skip image extensions, or chase 100 phantoms. (This is the same class of error as the 1,479-phantom warning from 2026-10-21.)
+- **Orphans: 1, unchanged** — [[nejm-2023-fever-returning-traveler]], inbound from `index.md` and `log.md` only. **Not a defect to fix:** the page documents on its own face that it is a citation record with no full text, that its "2023" date is wrong, that the article is a narrative review and therefore ineligible, and that [[fever-returning-traveler]] was deliberately rebuilt off it. Still Nick's call — **retire it or re-slug it to Thwaites 2017** — and not actioned unilaterally for a third day.
+- **Card files — none written, none eligible.** This pass ingested nothing, and the pages it touched took no new guideline-backed facts that aren't owned elsewhere. The standing backlog is unchanged and still owed: [[acute-cholangitis]], [[acute-cholecystitis]], [[eosinophilic-esophagitis]], [[botulinum-toxin]], [[anorectal-manometry]], [[london-classification]]. **[[epinephrine]] is a legitimate future card target** (tier-1 sources throughout, and the "never alone / but not always add it" pair is exactly the kind of fact that changes what an endoscopist does) — not written this pass because the card queue picks its own pages in its own order.
+
+**⚠ Open questions carried forward, unchanged.**
+
+- **Should the stale-page rotation include `wiki/sources/`?** Asked by the 2026-10-21 pass, answered in the affirmative *by action* on 01:11 and again here — and on the evidence it is the right target: 1 of the 3 pages validated today had an invented-numbering defect, the highest-yield class this wiki has. But it has never been Nick's decision. **The literal stalest pages wiki-wide are all `wiki/sources/`**, so entity pages will not come up again for weeks unless he says otherwise.
+- **The I-SEE figure captures** ([[i-see-2022-eoe-severity-index]] Figures 1 and 3 → [[eosinophilic-esophagitis]]), plus the Stapfer and AGA 2019 T1b figure rows. `pdftoppm` is installed but permission-blocked unattended; PyMuPDF absent. **Will not clear itself on a cron pass** — needs an interactive session or a pre-approved `pdftoppm` rule.
+- **128 pages carry a body `#` H1**, 89 duplicating the frontmatter `title:` and giving the site outline a redundant top node. Not swept — an 89-file mechanical diff should be a deliberate decision. **Nick's call: sweep them, or adopt the H1 convention wiki-wide?**
+
+---
+
+## [2026-10-22] lint | Rotterdam ingested — `raw/` is now fully ingested; the stale-page rotation moved to `wiki/sources/`
+
+**Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands; title amended at the end to match what actually happened.
+
+**⚠ This entry's body was never written.** The 01:11 UTC pass committed its work (`a932943`) with only the header line above, then stopped — the exact failure *Record as you go* exists to prevent, except inverted: the header went in first as required, and the bullets that were supposed to follow each write never landed. The 06:00 pass reconstructed the record below **from the committed diff alone** — it is an inventory of what changed, not an account of what the pass considered.
+
+**Pages changed in `a932943`** (7 files, +373/−57):
+
+- `wiki/sources/darwish-murad-2004-rotterdam-bcs-score.md` — **new source page, 159 lines.** Darwish Murad S, Valla D-C, de Groen PC, et al. *Hepatology* 2004;39:500–8. The Rotterdam Budd-Chiari prognostic score derivation paper, the last uningested readable file in `raw/`.
+- [[budd-chiari-syndrome]] — +33 lines; the Rotterdam class I/II/III content the page had declared missing.
+- `wiki/sources/asge-2010-pud.md` — +132/−33, the largest single rewrite of the pass.
+- `wiki/sources/asge-2016-pancreatic-fluid-collections.md` — +85/−33.
+- `wiki/sources/asge-2015-ercp-benign-biliary.md` — 1 line.
+- `wiki/index.md` — +13/−6.
+
+**What this means for the record:** the three ASGE source pages were the stale-page rotation target this pass chose, answering the open question the 2026-10-21 pass left for Nick (*should the rotation include `wiki/sources/`?*) in the affirmative, by action rather than by a decision anyone recorded. The question is therefore **still formally open** — see the 06:00 entry above.
 
 ---
 

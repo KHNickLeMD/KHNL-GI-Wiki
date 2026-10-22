@@ -3,7 +3,7 @@ title: "Endoscopic Mucosal Resection (Colorectal)"
 category: advanced-procedure
 tags: [emr, endoscopic-resection, polypectomy, cold-snare, underwater-emr, hot-avulsion, lifting-agents, colorectal, post-emr-surveillance]
 created: 2026-08-11
-updated: 2026-10-15
+updated: 2026-10-22
 sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, aga-2025-lifting-agents, usmstf-2020-followup-colonoscopy, aga-2026-electrosurgery]
 ---
 
@@ -51,7 +51,7 @@ Snare resection over a submucosal cushion (or under water), the first-line techn
 - **Saline ± contrast ("homemade") remains acceptable**; saline dissipates fast, prompting viscous solutions. **Cold snare polypectomy *without* submucosal injection** was non-inferior to injection-based resection methods for non-pedunculated colorectal lesions **≤15 mm** ([[aga-2025-lifting-agents]]).
 - **Sessile serrated lesions** lift well with **any** agent (incl. saline) given minimal fibrosis.
 - **[[endoscopic-submucosal-dissection|ESD]] requires submucosal injection** regardless of anatomic location; avoid intralesional injection during ESD (obscuring bleeding, and seeding risk if cancer is present). Place **thermal markings 2–5 mm** around a foregut lesion and **start the injection outside them**, where the incision begins. Never use saline + contrast as the *only* agent for ESD. [[poem|Peroral endoscopic myotomy (POEM)]] typically uses normal saline with blue contrast.
-- Add **dilute epinephrine** for cold EMR / EMR with electrocautery — cleaner field, less intraprocedural oozing. Usual dilution for cold EMR **1:200,000 to 1:500,000** (the agent table spans 1:50,000–1:500,000). ⚠ Serial dilute-epinephrine injections may cause **post-procedure abdominal pain** that mimics perforation or post-polypectomy syndrome in the first hour.
+- Add **dilute [[epinephrine]]** for cold EMR / EMR with electrocautery — cleaner field, less intraprocedural oozing. **Dilutions, and the full set of epinephrine's own trade-offs, are on [[epinephrine]].** ⚠ Serial dilute-epinephrine injections may cause **post-procedure abdominal pain** that mimics perforation or post-polypectomy syndrome in the first hour.
 - Technique: prime needle (avoid air); **dynamic injection** shapes the mound and maximizes MP separation; serial inject-and-snare for large lesions. Papillectomy generally needs no injection.
 - **Contrast reads MP injury:** submucosa stains blue, MP stays white. **Thick parallel white bands = type 3 MP injury → reinforce with clips** to prevent delayed perforation.
 - **Lift duration:** shortest with saline + epinephrine (**<3 min**), longest with hyaluronic acid (**22 min**) in colonic EMR. Saline gives fewer en bloc resections and more residual lesion than viscous agents, with **no difference in adverse events**.
