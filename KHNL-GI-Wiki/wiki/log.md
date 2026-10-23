@@ -6,6 +6,43 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-22] sources | Chrome session, part 2: 105 more files into `raw/` (needed-sources rows + new-guideline sweep, 2024-07 → 2026-10)
+
+- Parallel Chrome agents went through the USC proxy (Nick was logged into it and into NCCN). Before filing into the Nextcloud `raw/`, every file was checked as a real PDF/DOCX: header, page count, page-1 title and first author. Nothing was overwritten.
+- **needed-sources rows (≈45 files):**
+  - Rome V chapters ×6
+  - NCCN Pancreatic, Rectal, and Genetic/Familial CRC-Endometrial-Esophageal-Gastric; Blair 2020 HDGC
+  - van Hooft, Jue, Faulx, Arasaradnam, Vande Casteele, Jeppesen STEPS, Preidis, Wolf + USPSTF 2021, Schneider, Huston, EASL HDV, Krowka, McClave
+  - ACG H. pylori / celiac / IBS supplements; USMSTF Appendix 4a/4b; Baveno VIII Suppl Tables S1–S4; ENDURO Additional file 3; AGA 2015 cyst decision tool; Padova SDC
+  - Petersen 2016 reprocessing; Gerard (Chicago BPS); Halphen (Harefield); Gomollón 2017 ECCO (steroid definitions); Chicago v4.0 technical reviews ×3
+  - 27 more rows flipped to 📥 (commit 59c7800).
+- **AASLD 2021 "Table 9 supplement" does not exist.** Table 9 is printed in the main article and lists agents only, with no doses. The row now says a dosing source is still needed.
+- **Citation corrections for whoever writes the source pages:**
+  - Chicago BPS: Gerard, *Clin Transl Gastroenterol* 2013;4:e43 (not GIE).
+  - ACG celiac: AJG **2023**;118:59–76.
+  - ACG IBS (Lacy): AJG **2021**. The existing file is mislabelled 2018.
+  - Padova consensus: *Annals of Surgery*.
+  - AGA 2015 cyst tool: p. 823 only (10.1053/j.gastro.2015.02.048).
+  - Reprocessing 2016: Petersen, GIE 2017;85:282–94.
+- **New guidelines and consensus, US (23):**
+  - ASGE 2026: ERCP adverse events, lower GI bleeding, remimazolam, colonic strictures, EoE consensus part 2 (plus the 2022 Aceves consensus), research quality measures
+  - ASGE 2025: IBD consensus, GLP-1/SGLT2. ASGE-ESGE 2024: bariatric therapies
+  - AASLD 2026 EXPO liver biopsy
+  - ACG 2026: polyposis, cirrhosis preventive care
+  - AGA 2026: ampullary neoplasms, MetALD, older-adult surveillance ×2
+  - Multisociety: alpha-1 antitrypsin guidance, USMSTF 2026 serrated polyposis, GLP-1 2024, PSVD 2026, reprocessing 2021 (Day), EASL-AASLD 2026 PBC surrogate endpoints
+- **New guidelines and consensus, international (40; included only where they are international consensus or no US guideline covers the topic):**
+  - Pancreatobiliary: IAP 2025 acute pancreatitis, Kyoto 2024 IPMN, WEO ERCP cannulation, ESGE 2026 biliary strictures, EUS-BD / EUS-GE / EUS-GBD / EUS-CDS consensus, cholangioscopy, AP pain, fatty pancreas, SAGES WON and bile duct injury
+  - Hepatology: ADQI-ICA AKI, cirrhosis organ failure, MASLD global, EASL AIH / extrahepatic CCA / genetic cholestasis / post-HCV cure, PBC-AIH variant
+  - IBD: ECCO-ESGAR diagnostics parts 1–2, ECCO infections, pregnancy in IBD
+  - Luminal GI: Maastricht VI, Taipei II, BSG 2026 coeliac, Fiesole diverticular, WEO LST and squamous neoplasia, ESD pathology reporting
+  - Other: IDSA 2024 cIAI ×2, LI-RADS 2024 treatment response, Leuven, UEG nausea/vomiting and malabsorption parts 1–2, biliary drainage trial-methods consensus
+  - Several are online-first or uncorrected proofs. Swap in the final version at ingest when one exists.
+- **Skipped by Nick's call:** ASGE technology status evaluation reports and training standards.
+- **Nick's own drop:** Chavan & Rajput 2023, *Pictorial Essay of Linear EUS Examination of Pancreas Anatomy*, J Digest Endosc 14:88–98, filed to `raw/GI Other Studies/`. It is mostly figures (13 images).
+- **Ingest load:** the queue grew by ~145 files tonight. At ≤2 per pass, prioritise by clinical yield.
+
+
 ## [2026-10-22] sources | Chrome session with Nick — 40 🔒/🌐 download-list papers pulled into `raw/` via USC libproxy; 31 rows marked 📥
 
 - Laptop Chrome session (Nick logged into the Keck library proxy). Replaced the IANS 2024 Cloudflare stub with the real 9-page Stier paper; downloaded 39 more 🔒/🌐 items. Each one was checked as a real PDF (`%PDF` header, page count, first-page title) and filed under `raw/GI Guidelines/` or `raw/GI Other Studies/`, in the Nextcloud raw drop.
