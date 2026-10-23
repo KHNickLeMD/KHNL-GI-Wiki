@@ -3,7 +3,7 @@ title: "ASGE 2011: Role of EUS-Guided Fine-Needle Aspiration in the Diagnosis of
 category: source
 tags: [eus, ebus, mediastinal-adenopathy, lung-cancer, staging, lymphoma, fna, asge]
 created: 2026-07-01
-updated: 2026-08-14
+updated: 2026-10-23
 sources: []
 ---
 
@@ -27,17 +27,21 @@ American Society for Gastrointestinal Endoscopy (ASGE) guideline on endoscopic u
 - Combined EUS-FNA/EBUS-FNA achieves a negative predictive value comparable to mediastinoscopy for NSCLC staging.
 - EUS-FNA is a safe, cost-effective first-line approach for station 5 (aortopulmonary window) nodes.
 - For suspected lymphoma, send specimens for flow cytometry and obtain core biopsy when technically possible (immunophenotyping/histology needed for diagnosis and subtyping).
+- For **suspected infected nodes**, send the aspirate for special stain and culture (eg, acid-fast stain, fungal culture) — the document's only *recommend*-strength statement.
 
-## Recommendations (verbatim)
+## Recommendations
 
-1. In patients with known or suspected potentially resectable lung cancer whose imaging reveals mediastinal adenopathy, suggest **EUS-FNA** for paraesophageal, posterior, and inferior mediastinal adenopathy (if expertise available); similarly suggest **EBUS-FNA** for paratracheal adenopathy if it adds to lung-cancer staging. EUS-FNA and EBUS-FNA are safe and potentially cost-effective vs mediastinoscopy, but each individually has a high false-negative rate warranting surgical confirmation before resection. (Low/conditional)
-2. In patients with known or suspected potentially resectable lung cancer whose imaging shows **no** mediastinal adenopathy, suggest **combined EUS-FNA/EBUS-FNA** for staging (NPV comparable to mediastinoscopy); expertise in both is not readily available at most institutions. (Low/conditional)
-3. In patients requiring evaluation of station 5 (aortopulmonary window) nodes, suggest **EUS-FNA** as a safe, cost-effective first-line approach. (Low/conditional)
-4. When EUS-FNA is performed for suspected **lymphoma**, suggest specimens be sent for **flow cytometry** and, if technically possible, **core biopsy** be obtained (immunophenotyping and histology are often required for diagnosis and subtyping). (Low/conditional)
+**The document numbers its own recommendations 1–5** and grades each with a Grading of Recommendations Assessment, Development and Evaluation (GRADE) evidence-quality symbol only: ⊕⊕⊕⊕ high · ⊕⊕⊕◯ moderate · ⊕⊕◯◯ low · ⊕◯◯◯ very low. Strength is carried by the verb — *recommend* is the stronger form, *suggest* the weaker. Wording below is condensed; qualifiers are the document's.
+
+1. In patients with known or suspected potentially resectable lung cancer whose imaging reveals mediastinal adenopathy, suggest **EUS-FNA** for paraesophageal, posterior, and inferior mediastinal adenopathy (if expertise available); similarly suggest **EBUS-FNA** for paratracheal adenopathy if it adds to lung-cancer staging. EUS-FNA and EBUS-FNA are safe and potentially cost-effective vs mediastinoscopy, but each individually has a high false-negative rate warranting surgical confirmation before resection. (⊕⊕◯◯)
+2. In patients with known or suspected potentially resectable lung cancer whose imaging shows **no** mediastinal adenopathy, suggest **combined EUS-FNA/EBUS-FNA** for staging (NPV comparable to mediastinoscopy); expertise in both is not readily available at most institutions. (⊕⊕◯◯)
+3. In patients requiring evaluation of station 5 (aortopulmonary window) nodes, suggest **EUS-FNA** as a safe, cost-effective first-line approach. (⊕⊕◯◯)
+4. When EUS-FNA is performed for suspected **lymphoma**, suggest specimens be sent for **flow cytometry** and, if technically possible, **core biopsy** be obtained (immunophenotyping and histology are often required for diagnosis and subtyping). (⊕⊕◯◯)
+5. When EUS-FNA of mediastinal adenopathy is performed for **suspected infected nodes**, **recommend** the aspirate be sent for **special stain and culture** (eg, acid-fast stain, fungal culture). (⊕◯◯◯)
 
 ## Relevance to Wiki
 
-- **[[endoscopic-ultrasound]]** — added a "EUS in Mediastinal Adenopathy / Lung-Cancer Staging" section (accessible vs inaccessible stations, EUS/EBUS complementarity, lymphoma sampling).
+- **[[endoscopic-ultrasound]]** — added a "EUS in Mediastinal Adenopathy / Lung-Cancer Staging" section (accessible vs inaccessible stations, EUS/EBUS complementarity, specimen handling for suspected lymphoma and for suspected infected nodes).
 
 ## Contradictions / Open Questions
 

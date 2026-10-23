@@ -69,7 +69,7 @@ Adenomas of the **major duodenal papilla (ampullary adenomas)** and of the **non
 |---|---|---|
 | Side-viewing duodenoscopy | Visualize/biopsy papilla | Standard forward-view esophagogastroduodenoscopy (EGD) ([[upper-endoscopy]]) may miss adenomatous change |
 | Forceps biopsy | Confirm adenoma, exclude cancer | Diagnostic (adenoma+carcinoma) rate 45–80%; false-negative for carcinoma 16–60%; ≥6 specimens or sample ≤10 d post-sphincterotomy |
-| [[endoscopic-ultrasound\|EUS]] / intraductal ultrasound (IDUS) | Large lesions or features concerning for malignancy | Superior to computed tomography (CT)/magnetic resonance imaging (MRI)/transabdominal ultrasound for **T staging**; assesses intraductal extension and depth beyond muscularis propria. IDUS may visualize tumor better but can overstage |
+| [[endoscopic-ultrasound\|EUS]] / [[intraductal-ultrasound\|intraductal ultrasound (IDUS)]] | Large lesions or features concerning for malignancy | Superior to computed tomography (CT)/magnetic resonance imaging (MRI)/transabdominal ultrasound for **T staging**; assesses intraductal extension and depth beyond muscularis propria. IDUS visualizes the tumor better but can overstage — figures on [[intraductal-ultrasound]] |
 | [[mri-mrcp\|MRI]] | Nodal (N) staging | Superior to EUS for nodal staging |
 | CT / positron emission tomography (PET) | Detect distant metastases | May detect small mets missed by EUS/IDUS |
 | [[ercp\|Endoscopic retrograde cholangiopancreatography (ERCP)]] (biliary + pancreatic duct) | At time of papillectomy | Assess ductal extension; ductography important if EUS not done |

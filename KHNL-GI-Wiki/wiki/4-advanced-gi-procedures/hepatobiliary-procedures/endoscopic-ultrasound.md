@@ -3,7 +3,7 @@ title: "Endoscopic Ultrasound (EUS)"
 category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
-updated: 2026-10-20
+updated: 2026-10-23
 sources: [asge-2023-ergonomics, acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -212,7 +212,12 @@ From [[asge-2011-eus-mediastinal-adenopathy]]:
 - **Combined EUS-FNA/EBUS-FNA** achieves a negative predictive value comparable to mediastinoscopy, and is safe/potentially more cost-effective — but dual expertise is not widely available.
 - **Station 5 (aortopulmonary window):** EUS-FNA is a safe, cost-effective first-line approach.
 
-**Suspected lymphoma:** send FNA specimens for **flow cytometry** and obtain **core biopsy** when technically possible (immunophenotyping and histology needed for diagnosis/subtyping).
+**Specimen handling by suspected diagnosis — decide before the needle passes:**
+
+| Suspected | Send the aspirate for |
+|---|---|
+| Lymphoma | **Flow cytometry**, plus **core biopsy** when technically possible — immunophenotyping and histology are needed for diagnosis and subtyping |
+| **Infected node** (granulomatous/mycobacterial/fungal disease) | **Special stain and culture** — eg, acid-fast stain, fungal culture |
 
 ---
 
