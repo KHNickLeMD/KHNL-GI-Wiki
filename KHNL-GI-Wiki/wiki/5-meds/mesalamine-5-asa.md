@@ -3,8 +3,8 @@ title: "Mesalamine and the 5-Aminosalicylates (5-ASA)"
 category: med
 tags: [5-asa, mesalamine, sulfasalazine, olsalazine, aminosalicylate, ibd, ulcerative-colitis, crohns, proctitis, topical-therapy, oral, rectal]
 created: 2026-09-08
-updated: 2026-10-19
-sources: [acg-2025-uc, acg-2025-crohns, acg-2019-uc, acg-2018-crohns, aga-2024-uc-pharm, aga-2021-crohns-pharm, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia, aga-2024-pouchitis, aga-2022-refractory-celiac, acg-2026-diverticulitis]
+updated: 2026-10-22
+sources: [acg-2025-uc, acg-2025-crohns, acg-2019-uc, acg-2018-crohns, aga-2024-uc-pharm, aga-2021-crohns-pharm, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia, aga-2024-pouchitis, aga-2022-refractory-celiac, acg-2026-diverticulitis, aga-2019-mild-moderate-uc]
 ---
 
 **Topical anti-inflammatory agents that act within the lumen of the intestine** ([[acg-2025-crohns]]). 5-Aminosalicylates (5-ASAs) are the first-line drug class for **mildly to moderately active [[ulcerative-colitis|ulcerative colitis (UC)]]** — and, in [[crohns-disease|Crohn's disease (CD)]], a class the guidelines **recommend against**. That asymmetry is the single most misremembered fact about this drug class, and it is the reason this page exists.
@@ -76,6 +76,9 @@ flowchart TD
 | **Ulcerative proctitis** | Rectal 5-ASA **1 g/daily** (Rec 6) | Rectal 5-ASA **1 g daily** (Rec 18) |
 | **Left-sided colitis** | Rectal 5-ASA enema **at least 1 g/daily** (Rec 9) **combined with** oral 5-ASA **at least 2.0 g/daily** (Rec 10) | Oral 5-ASA **at least 1.5 g/d** (Rec 19) |
 | **Extensive colitis** | Oral 5-ASA **at least 2.0 g daily** (Rec 12) | Oral 5-ASA **at least 1.5 g/d** (Rec 19) |
+
+- **AGA 2019 dose bands and equivalences** ([[aga-2019-mild-moderate-uc]]): oral mesalamine low **<2 g/d** · standard **2–3 g/d** · high **>3 g/d**. **6.75 g balsalazide ≈ 2.4 g 5-ASA; 4 g sulfasalazine ≈ 1.6 g 5-ASA.**
+- **Topical doses used in the trials** ([[aga-2019-mild-moderate-uc]]): mesalamine **enemas 4 g nightly** for induction, 4 g **2–3×/week or 1 week per month** for maintenance; **suppositories 1–1.5 g/d** for induction, **0.5–1 g once daily to 3×/week** for maintenance.
 
 - **The oral+rectal combination is the left-sided rule, and only the left-sided rule.** Rec 10 pairs the enema with oral therapy specifically in left-sided UC. In **extensive** colitis the guideline states oral 5-ASA at least 2.0 g daily **is preferred** to induce remission.
 - **Induction dose ≠ maintenance dose.** Oral induction is **≥2.0 g/day**; oral maintenance is **≥1.5 g/day**. Rectal is **1 g/day for both**.
@@ -255,7 +258,7 @@ Readers carry the old numbers in their heads, so the deltas matter:
 ## Gaps
 
 - *The guidelines give no **laboratory monitoring schedule** for 5-ASA — no renal function/creatinine interval, no complete blood count (CBC) interval — and do not mention interstitial nephritis.*
-- *None of the guidelines names **balsalazide**, gives a **pediatric** dose, or gives a **renal/hepatic dose adjustment**.*
+- *None of the guidelines gives a **pediatric** dose, or gives a **renal/hepatic dose adjustment**.*
 - *The guidelines give no **duration** for maintenance 5-ASA, or a rule for **when it may be stopped**.*
 - *No guideline states a **5-ASA dose for cuffitis or refractory pouchitis** — [[aga-2024-pouchitis]] names the drug but not the dose, and explicitly records "no recommendation" for mesalamine in chronic antibiotic-refractory pouchitis.*
 - *CRC chemoprevention is **explicitly unresolved** ([[aga-2021-ibd-colorectal-dysplasia]]) and the [[primary-sclerosing-cholangitis\|PSC]] statement ([[acg-2015-psc]], 2015) is ungraded and older — neither supports prescribing 5-ASA for chemoprevention.*
@@ -283,3 +286,4 @@ Readers carry the old numbers in their heads, so the deltas matter:
 9. [[aga-2024-pouchitis|AGA Clinical Practice Guideline: Management of Pouchitis and Inflammatory Pouch Disorders (2024)]]
 10. [[aga-2022-refractory-celiac|AGA Clinical Practice Update on Management of Refractory Celiac Disease: Expert Review]]
 11. [[acg-2026-diverticulitis|ACG Clinical Guideline: Colonic Diverticulitis (2026)]]
+12. [[aga-2019-mild-moderate-uc|AGA Clinical Practice Guidelines on the Management of Mild-to-Moderate Ulcerative Colitis]]

@@ -3,8 +3,8 @@ title: "Bariatric Surgery"
 category: advanced-procedure
 tags: [obesity, bariatric, weight-management, sleeve-gastrectomy, gastric-bypass, masld, gerd, iron-deficiency-anemia, cirrhosis, csph, portal-hypertension]
 created: 2026-06-04
-updated: 2026-10-01
-sources: [aga-2021-intragastric-balloons, aasld-2023-nafld, asge-2024-gerd, acg-2021-gerd, aga-2024-ida-management, aga-2022-obesity-pharm, aga-2020-bariatric-surgery-cirrhosis, aga-2018-surgical-risk-perioperative-cirrhosis, aga-2021-early-complications-bariatric-surgery, aga-2017-endoscopic-bariatric-therapies]
+updated: 2026-10-22
+sources: [aga-2021-intragastric-balloons, aasld-2023-nafld, asge-2024-gerd, acg-2021-gerd, aga-2024-ida-management, aga-2022-obesity-pharm, aga-2020-bariatric-surgery-cirrhosis, aga-2018-surgical-risk-perioperative-cirrhosis, aga-2021-early-complications-bariatric-surgery, aga-2017-endoscopic-bariatric-therapies, baveno-viii-2026-portal-hypertension]
 ---
 
 Surgical weight-loss procedures — laparoscopic **sleeve gastrectomy (SG)**, **Roux-en-Y gastric bypass (RYGB)**, adjustable gastric banding, duodenal switch — for [[obesity]]. Only ~**1.1% of eligible patients** receive primary bariatric surgery, and **<5%** of patients seeking weight loss are aware of endoscopic alternatives ([[aga-2021-intragastric-balloons]]).
@@ -74,6 +74,14 @@ Anchored to [[aga-2020-bariatric-surgery-cirrhosis]] (10 ungraded Best Practice 
 | **Compensated with CSPH** | Not a candidate on the standard pathway → assess [[liver-transplantation\|liver transplantation (LT)]] candidacy. [[aga-2018-surgical-risk-perioperative-cirrhosis\|American Gastroenterological Association (AGA) 2018]] states plainly that **clinically significant portal hypertension is a contraindication** to the operation |
 | **Decompensated** | **The only acceptable option is bariatric surgery concurrent with or after [[liver-transplantation\|liver transplantation]]** (BPA 10) |
 | **NASH cirrhosis** ([[aasld-2023-nafld\|AASLD 2023]]) | Decompensated cirrhosis is an **absolute contraindication**; compensated NASH cirrhosis only at high-volume centers or in the transplant context |
+
+**[[baveno-viii-2026-portal-hypertension|Baveno VIII]] Panel 2 — metabolic dysfunction-associated steatotic liver disease (MASLD)-related compensated advanced chronic liver disease (cACLD) gates on CSPH:**
+
+| Stage | Baveno VIII position | Statement |
+|---|---|---|
+| MASLD-related cACLD **without** CSPH | Only a **modest increase in surgical-complication risk**; may improve liver histology and liver-related events. MASLD-related cACLD **may itself be treated as an obesity-associated morbidity justifying surgery at a lower BMI threshold** | 2.14 |
+| Features suggestive of CSPH | **Surgical complications are increased** — multidisciplinary team at an expert centre | 2.15 |
+| Decompensated cirrhosis | **Generally contraindicated**, except in highly specialised settings such as **in conjunction with [[liver-transplantation\|liver transplantation]]**; multidisciplinary team at an expert centre | 2.16 |
 
 **Stage-dependent operative mortality** (US Nationwide Inpatient Sample) — this is the number that makes stage the decision:
 
@@ -259,3 +267,4 @@ Per [[aga-2024-ida-management|AGA 2024]] (Best Practice Advice 7, *unrated*):
 8. [[aga-2018-surgical-risk-perioperative-cirrhosis|AGA Clinical Practice Update on Surgical Risk Assessment and Perioperative Management in Cirrhosis: Expert Review (2019)]]
 9. [[aga-2021-early-complications-bariatric-surgery|AGA Clinical Practice Update on Evaluation and Management of Early Complications After Bariatric/Metabolic Surgery: Expert Review (2021)]]
 10. [[aga-2017-endoscopic-bariatric-therapies|AGA Clinical Practice Update: Expert Review on Endoscopic Bariatric Therapies (2017)]]
+11. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]

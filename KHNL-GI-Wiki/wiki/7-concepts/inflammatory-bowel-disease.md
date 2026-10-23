@@ -3,7 +3,7 @@ title: "Inflammatory Bowel Disease (IBD) — Overview"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, biologic, immunotherapy]
 created: 2026-05-16
-updated: 2026-10-02
+updated: 2026-10-22
 sources: [aga-2026-inpatient-ibd, aga-2018-functional-gi-symptoms-ibd, aga-2018-psychogastroenterology, aga-2020-ibd-covid-19]
 ---
 
@@ -23,7 +23,8 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 | Vaccination, cancer screening, bone/mental health in the cancer-free patient | [[ibd-preventive-care]] |
 | Cancer risk from inflammation/drugs; what to do with IBD drugs once a cancer develops or with a prior cancer | [[ibd-in-malignancy]] |
 | Anal cancer screening (general high-risk framework) | [[anal-cancer-screening]] |
-| Colitis-associated [[colorectal-cancer\|colorectal cancer (CRC)]] dysplasia surveillance | [[ulcerative-colitis]], [[crohns-disease]] (technique on [[colonoscopy]]) |
+| Colitis-associated [[colorectal-cancer\|colorectal cancer (CRC)]] dysplasia surveillance | [[ulcerative-colitis#Colorectal Cancer Surveillance]] (technique on [[colonoscopy]]) |
+| Pregnancy and IBD (drug safety, monitoring, delivery) | [[crohns-disease#Pregnancy]] |
 | Diet and nutritional therapy | [[nutrition-in-ibd]] |
 | Pain management | [[ibd-pain-management]] |
 | Age- and frailty-specific safety overlay (age ≥60) | [[ibd-in-older-adults]] |

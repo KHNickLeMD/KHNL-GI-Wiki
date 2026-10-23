@@ -3,7 +3,7 @@ title: "Resmetirom (Rezdiffra)"
 category: med
 tags: [resmetirom, rezdiffra, thr-beta, masld, mash, nash, fibrosis, pharmacotherapy, hpb, liver]
 created: 2026-05-31
-updated: 2026-09-20
+updated: 2026-10-22
 sources: [aasld-2024-resmetirom, aasld-2023-nafld]
 ---
 
@@ -11,7 +11,7 @@ sources: [aasld-2024-resmetirom, aasld-2023-nafld]
 
 ## Indication & candidacy
 
-- Adults with MASH and F2–F3; [[liver-biopsy|liver biopsy]] NOT required. Identify by imaging-based noninvasive liver disease assessment (NILDA; [[liver-stiffness-measurement|vibration-controlled transient elastography (VCTE)]] 8–15 kPa or magnetic resonance elastography [MRE] 3.1–4.4 kPa) or historical biopsy. See [[noninvasive-liver-disease-assessment]].
+- Adults with MASH and F2–F3; [[liver-biopsy|liver biopsy]] NOT required. Identify by imaging-based noninvasive liver disease assessment (NILDA; [[liver-stiffness-measurement|vibration-controlled transient elastography (VCTE)]] 8–15 kPa or magnetic resonance elastography [MRE] 3.1–4.4 kPa) or historical biopsy; Enhanced Liver Fibrosis (ELF) 9.2–10.4 (MAESTRO interquartile range) may be used where imaging is unavailable ([[aasld-2024-resmetirom]]). See [[noninvasive-liver-disease-assessment]].
 - **Efficacy (MAESTRO-NASH, 52 wk):** MASH resolution without worsening fibrosis 26–30% (vs 10% placebo); ≥1-stage fibrosis improvement 24–26% (vs 14%).
 
 ## Dosing

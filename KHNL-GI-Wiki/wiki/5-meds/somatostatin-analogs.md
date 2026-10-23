@@ -3,8 +3,8 @@ title: "Somatostatin Analogs"
 category: med
 tags: [somatostatin-analog, octreotide, lanreotide, net, carcinoid, variceal-bleeding, angioectasia]
 created: 2026-06-18
-updated: 2026-09-22
-sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bleeding, aga-2024-vasoactive-albumin-cirrhosis]
+updated: 2026-10-22
+sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bleeding, aga-2024-vasoactive-albumin-cirrhosis, asge-2026-esophageal-gastric-varices]
 ---
 
 Somatostatin analogs (SSAs) — **octreotide** (short-acting subcutaneous [SC]/intravenous [IV] and long-acting release [**LAR**]) and **lanreotide** — bind somatostatin receptors (SSTRs; chiefly SSTR2/5), suppressing splanchnic and endocrine secretion and exerting an antiproliferative effect on neuroendocrine cells. Three main gastrointestinal (GI)/hepatology uses: acute variceal bleeding, neuroendocrine tumors, and refractory small-bowel vascular bleeding.
@@ -42,6 +42,7 @@ Somatostatin analogs (SSAs) — **octreotide** (short-acting subcutaneous [SC]/i
 - After initial [[endoscopic-hemostasis|endoscopic hemostasis]], **continue 2–5 days** to prevent early rebleeding.
 - **Stop the drug if endoscopy shows a non-variceal upper GI source** — vasoactive drugs are not expected to work in e.g. [[peptic-ulcer-disease|peptic ulcer bleeding]].
 - Shortening to **2 days is reasonable only** in selected patients with **[[cirrhosis|Child-Pugh A or B cirrhosis]]** (Child-Turcotte-Pugh [CTP] point table on that page) and **no active bleeding seen at endoscopy**. Data are insufficient for a firm optimal-duration recommendation.
+- **[[asge-2026-esophageal-gastric-varices|American Society for Gastrointestinal Endoscopy (ASGE) 2026]]: 2–3 days is sufficient** (conditional, low certainty) — **except after sclerotherapy**, where shorter courses were associated with more rebleeding and mortality.
 
 - **Pregnancy:** avoid terlipressin (stimulates uterine contraction) — **somatostatin or octreotide may be used** instead ([[aasld-2023-portal-hypertension]]).
 
@@ -101,3 +102,4 @@ Additional effects tied to long-term SSA use in NETs:
 2. [[aasld-2023-portal-hypertension|AASLD 2023: Portal Hypertensive Bleeding in Cirrhosis — Risk Stratification, Diagnosis, and Management]]
 3. [[acg-2015-small-bowel-bleeding|ACG 2015: Diagnosis and Management of Small Bowel Bleeding]]
 4. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]
+5. [[asge-2026-esophageal-gastric-varices|ASGE Guideline on Management of Esophageal and Gastric Varices in Patients With Cirrhosis (2026)]]

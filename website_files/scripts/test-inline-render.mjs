@@ -10,7 +10,7 @@ import vm from 'node:vm';
 const html = readFileSync(join(dirname(fileURLToPath(import.meta.url)), '../../index.html'), 'utf8');
 
 // Pull the four functions under test straight out of the page so the test can't drift from it.
-const src = ['inlineRender', 'escHtml', 'unescHtml', 'jsStr', 'safeUrl', 'renderTable', 'renderList', 'renderMd']
+const src = ['inlineRender', 'escHtml', 'unescHtml', 'jsStr', 'safeUrl', 'renderTable', 'renderList', 'renderMd', 'renderCallout']
   .map(fn => {
     const start = html.indexOf(`\nfunction ${fn}(`);
     assert.notStrictEqual(start, -1, `${fn} not found in index.html`);
@@ -72,5 +72,18 @@ const emptyFirstCell = '\n| | A | B |\n|---|---|---|\n| x | 1 | 2 |\n';
 assert.strictEqual((renderMd(emptyFirstCell).match(/<td>/g) || []).length, 3);
 assert.match(renderMd('| a | b |\n|---|---|\n| x | y |\n\n> note\n| orphan | row |\n'), /orphan/);
 
+// Callouts: `> [!type] Title` → styled box; body is full Markdown; aliases map to kinds;
+// a plain `>` quote is untouched.
+const pearl = renderMd('> [!pearl] Have a high index of suspicion\n> Hard to see on [[crohns-disease|EGD]].\n');
+assert.match(pearl, /class="callout pearl"/);
+assert.match(pearl, /callout-title">Have a high index of suspicion</);
+assert.match(pearl, /<p>Hard to see on <a/);
+const howto = renderMd('> [!howto] Steps\n> 1. one\n> 2. two\n>\n> after\n');
+assert.match(howto, /callout howto[\s\S]*<ol>[\s\S]*<li>two<\/li>[\s\S]*<p>after<\/p>/);
+assert.match(renderMd('> [!warning] x\n> y\n'), /callout pitfall/);
+assert.match(renderMd('> [!whatever]\n> y\n'), /callout pearl/);
+assert.match(renderMd('> plain quote\n'), /<blockquote><p>plain quote<\/p><\/blockquote>/);
+
 console.log('inlineRender escaping OK');
 console.log('renderMd terminates OK');
+console.log('callouts OK');

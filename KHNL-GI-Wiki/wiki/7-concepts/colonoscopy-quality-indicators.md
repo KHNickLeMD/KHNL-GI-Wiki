@@ -3,7 +3,7 @@ title: "Colonoscopy Quality Indicators"
 category: concept
 tags: [colonoscopy, quality, adr, sdr, withdrawal-time, cecal-intubation, bowel-prep, polypectomy, crc-screening, colorectal]
 created: 2026-09-23
-updated: 2026-10-10
+updated: 2026-10-22
 sources: [aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy, acg-2014-bowel-cleansing, usmstf-2025-bowel-prep]
 ---
 
@@ -65,7 +65,7 @@ Colonoscopy's efficacy varies among endoscopists, and lower-quality colonoscopie
 - **Adequate = BBPS total ≥6 *and* every segment score ≥2.** Both halves are required — a total of 6 built on a segment scoring 0 or 1 is not adequate.
 - BBPS scores each segment (right, transverse, left) **0 (unprepared colon) to 3 (entire segment well seen)**. It is **preferred over the modified Aronchick score** (single global excellent/good/fair/poor/inadequate rating) because it is applied **after cleaning** and has been rigorously validated.
 - Suboptimal cleansing causes failed detection of **flat or otherwise subtle polyps**; the impact is **most pronounced in the proximal colon**, reducing detection of both adenomas and sessile serrated lesions.
-- Preparation regimens, salvage maneuvers, indication-specific adequacy wording, and the full scale anchors live on [[colonoscopy#Bowel Preparation|colonoscopy]].
+- Preparation regimens, salvage maneuvers, indication-specific adequacy wording, and the full scale anchors live on [[bowel-preparation]].
 
 **How to measure it, and what to do below benchmark** ([[acg-2014-bowel-cleansing|US Multi-Society Task Force (USMSTF) 2014]], which established the adequate-preparation rate as a routinely measured indicator):
 
@@ -108,6 +108,9 @@ Colonoscopy's efficacy varies among endoscopists, and lower-quality colonoscopie
 - **ADR varies up to 5-fold among colonoscopists**; unmeasured, a colonoscopist cannot know where they sit.
 - Prior guidelines set the bar at **25%**; recent data suggest interval CRC risk falls further at an ADR of **roughly 35% or higher**. **ADR <30% — and certainly <25% — calls for focused improvement.** The case for ≥35% rests on an apparent linear relationship across the range over which ADR improved from **19% to 33.5%** in prior research, and needs confirmation.
 - Measure and give feedback at **both endoscopist and unit level**, at minimum annually or per 250 accrued screening colonoscopies.
+- **[[acg-2021-crc-screening|ACG 2021]] Rec 13:** every screening colonoscopist should **measure** individual cecal intubation rate, ADR, and withdrawal time (Strong; moderate for ADR, low for withdrawal time and cecal intubation).
+- **ADR counting rules** ([[acg-2021-crc-screening|ACG 2021]], citing the 2015 USMSTF): only **conventional adenomas** count (sessile serrated lesions excluded); **exclude fecal immunochemical test (FIT)–positive and multitarget stool DNA (MTsDNA)–positive colonoscopies** from routine ADR and measure them separately (minimum 45% men / 35% women; aspirational may reach ≥75% in men). Aspirational ADR for a mixed-sex screening population **45%–50%**.
+- **Why ADR matters:** each **1% rise in ADR → 3% lower CRC incidence and 5% lower fatal CRC**; ADR <20% carried a >10-fold higher post-colonoscopy CRC risk ([[acg-2021-crc-screening]]).
 
 **Improvement levers (from the same update):**
 

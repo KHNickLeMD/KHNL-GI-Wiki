@@ -3,11 +3,11 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-10-09
-sources: [aga-2018-functional-gi-symptoms-ibd, acg-2025-crohns, aga-2017-crohns-after-surgical-resection, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia]
+updated: 2026-10-22
+sources: [aga-2018-functional-gi-symptoms-ibd, acg-2025-crohns, aga-2017-crohns-after-surgical-resection, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia]
 ---
 
-Idiopathic, transmural, granulomatous inflammatory disorder of the gastrointestinal (GI) tract. Can involve any segment mouth-to-anus; discontinuous, skip lesions. Chronic progressive course with risk of stricture, fistula, abscess, and surgery.
+Crohn's disease (CD): idiopathic transmural, granulomatous [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] of any gastrointestinal (GI) segment, mouth to anus — discontinuous skip lesions; progressive course toward stricture, fistula, abscess and surgery.
 
 ---
 
@@ -25,21 +25,14 @@ Idiopathic, transmural, granulomatous inflammatory disorder of the gastrointesti
 - [[#Therapeutics]]
   - [[#Treatment Goals]]
   - [[#Mild Ileocecal CD]]
-  - [[#Dietary & Nutritional Therapy]]
-  - [[#Moderate-Severe CD: Corticosteroids (Bridge Only)]]
-  - [[#Immunomodulators (Maintenance; Combo Only)]]
+  - [[#Corticosteroids and Immunomodulators]]
   - [[#Advanced Therapies: Biologic Positioning]]
-  - [[#Anti-TNF Agents (Strong Recommendation)]]
-  - [[#Anti-Integrin: Vedolizumab (Strong Recommendation)]]
-  - [[#Anti-IL-12/23 (Anti-p40): Ustekinumab (Strong Recommendation)]]
-  - [[#Anti-IL-23 (Anti-p19) Agents (All Strong Recommendations)]]
-  - [[#JAK Inhibitor: Upadacitinib (Strong Recommendation)]]
-  - [[#Perianal Fistulizing CD]]
   - [[#Postoperative CD Prevention]]
   - [[#Endoscopic Stricture Dilation]]
   - [[#Fulminant/Hospitalized CD]]
   - [[#Monitoring]]
   - [[#Special Considerations]]
+  - [[#Pregnancy]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -49,66 +42,43 @@ Idiopathic, transmural, granulomatous inflammatory disorder of the gastrointesti
 
 ### Establishing the Diagnosis
 
-No single pathognomonic test. Diagnosis = integration of:
+No single test — integrate:
+- **History:** [[chronic-diarrhea|chronic diarrhea]], abdominal pain, fatigue, weight loss, perianal disease, extraintestinal manifestations.
+- **Endoscopy:** aphthous, linear/serpiginous ulcers, cobblestoning, strictures, fistulas, skip areas, rectal sparing.
+- **Histology:** transmural inflammation, focal cryptitis; granulomas in **≤33%** — helpful, **not required**.
+- **Imaging:** mural thickening, mesenteric stranding, fistulas, abscesses.
 
-- **History:** [[chronic-diarrhea|chronic diarrhea]], abdominal pain, fatigue, weight loss; rectal sparing; perianal disease; extraintestinal manifestations (EIMs)
-- **Endoscopy:** aphthous ulcers, linear/serpiginous ulcers, cobblestoning, strictures, fistulas; skip areas; rectal sparing
-- **Histology:** transmural inflammation, granulomas (in a minority — **up to 33%**; helpful but **not required** for diagnosis), focal cryptitis
-- **Imaging:** mural thickening, mesenteric stranding, fistulas, abscesses
+**Montreal classification** ([[acg-2018-crohns]]):
 
-**Montreal classification (2005 revision of the Vienna classification) — age of onset + location + behavior** ([[acg-2018-crohns]]):
+| Axis | Categories |
+|---|---|
+| **Age at onset (A)** | A1 ≤16 y · A2 17–40 y · A3 >40 y |
+| **Location (L)** | L1 ileal · L2 colonic · L3 ileocolonic (~⅓ each) · **L4 upper GI** (modifier) |
+| **Behavior (B)** | B1 inflammatory (56–81% at diagnosis) · B2 stricturing · B3 penetrating · **p** perianal modifier |
 
-**Age at onset (A):**
-
-- A1: ≤16 years
-- A2: 17–40 years
-- A3: >40 years
-
-**Location (L):**
-
-- L1: Ileal (terminal ileum)
-- L2: Colonic
-- L3: Ileocolonic (~1/3 each at presentation)
-- L4: Upper GI (modifier). Prevalence looks low retrospectively (0.3–5%) but prospective evaluation finds endoscopic + histologic upper-GI Crohn's disease (CD) in **~16%**, of whom **only ~37% are symptomatic** — hence "occult." These mild changes carry no established clinical significance, so **scope the upper GI tract only for upper-GI signs/symptoms.**
-
-**Behavior (B):**
-
-- B1: Inflammatory (nonstricturing, nonpenetrating) — 56–81% at diagnosis
-- B2: Stricturing
-- B3: Penetrating (fistula/abscess)
-- p: Perianal modifier (appended to the B subtype)
-
-- **Location tends to remain stable; behavior tends to progress** B1 → B2 or B3 over the disease course. [[acg-2018-crohns]]
+- **Location stays stable; behavior progresses** B1 → B2/B3.
+- **L4 is often occult:** ~16% on prospective endoscopy + histology, only ~37% of them symptomatic, no proven significance → **scope the upper GI tract only for upper-GI symptoms**.
 
 ### Severity Assessment
 
-*Definitions per [[acg-2025-crohns|American College of Gastroenterology (ACG) 2025]]:*
+*[[acg-2025-crohns|American College of Gastroenterology (ACG) 2025]]:*
 
-| Severity | Clinical features |
+| Severity | Features |
 |---|---|
-| Mild | No systemic toxicity (no fever, unintentional weight loss, or inability to tolerate oral intake); C-reactive protein (CRP)/fecal calprotectin (FC) normal to slightly elevated; limited anatomic involvement — scattered aphthous erosions or few superficial ulcers; **no severe endoscopic lesions, strictures, fistulizing or perianal disease**. Lower risk of progression/surgery |
-| Moderate-severe | **Failed treatment for mild–moderate disease**, *or* more prominent symptoms — fever, significant weight loss, abdominal pain/tenderness, intermittent nausea/vomiting. Biomarkers (CRP, **albumin**, FC) more likely **abnormal** (albumin low, not high); anemia and vitamin/mineral deficiencies may be present. Greater endoscopic burden: larger/deeper ulcers, strictures, extensive disease, and/or stricturing, penetrating or perianal disease |
-| Severe / fulminant | Persistent symptoms **despite conventional corticosteroids and/or advanced therapies**, *or* high fevers, intestinal obstruction, peritoneal signs (involuntary guarding/rebound), cachexia, or abscess — **usually requiring hospitalization**; endoscopic or radiographic evidence of severe mucosal disease |
+| Mild | No systemic toxicity (fever, weight loss, intolerance of oral intake); C-reactive protein (CRP)/fecal calprotectin (FC) normal or slightly up; scattered aphthae or few superficial ulcers; **no severe endoscopic lesions, strictures, fistulizing or perianal disease** |
+| Moderate-severe | **Failed mild–moderate therapy**, or fever, significant weight loss, pain/tenderness, intermittent nausea/vomiting; abnormal CRP, **low albumin**, FC; anemia, micronutrient deficits; larger/deeper ulcers, extensive disease, stricturing/penetrating/perianal disease |
+| Severe/fulminant | Persistent symptoms **despite steroids and/or advanced therapy**, or high fever, obstruction, peritoneal signs, cachexia, abscess — **usually hospitalized** |
 
-**High-risk features for disease progression:**
-
-- Young age at diagnosis
-- Ileal/ileocolonic location
-- Perianal/severe rectal disease
-- Extensive bowel involvement
-- Deep ulcers
-- EIMs at diagnosis
-- Penetrating or stricturing phenotype at presentation
+- **High-risk features for progression:** young age at diagnosis · ileal/ileocolonic location · perianal/severe rectal disease · extensive involvement · deep ulcers · extraintestinal manifestations at diagnosis · stricturing/penetrating phenotype.
+- **Perianal disease excludes "mild"** → moderate-severe band. Management: [[perianal-fistulizing-crohns-disease]].
 
 ### Natural History Key Facts
 
-*Key concepts from [[acg-2025-crohns|ACG 2025]] — these carry the case for early advanced therapy:*
-
-- **Only 20–30% have a nonprogressive/indolent course** over long observation; most will need therapy that controls bowel inflammation (key concept (KC) 8)
-- **10-yr cumulative risk of major abdominal surgery 40–55%**, possibly down to **~30%** in the biologic era (KC 14); **10-yr risk of a second resection after the first 35%** (recent data closer to 30%)
-- Among those presenting with **inflammatory (B1) behavior**, cumulative risk of an intestinal complication (stricture/abscess/fistula) is **51% at 20 years**. Ileal, ileocolonic, or upper-GI location accelerates progression; **colonic disease is protective**
-- **5-yr symptomatic postoperative recurrence ~50%** (KC 15); 5-yr clinical recurrence after major abdominal surgery 40–50%; **endoscopic recurrence approaches 90%**
-- **Perianal fistulizing CD in up to one-quarter of patients** (KC 10): population-based frequency 10–26%, cumulative risk 26% at 20 y in one cohort; systematic review prevalence 18.7% with 10-y progression 18.9%. Perianal disease may **precede** luminal CD (3.8%)
+*[[acg-2025-crohns|ACG 2025]] key concepts (KC) — the case for early advanced therapy:*
+- Only **20–30%** have an indolent course (KC 8).
+- **10-y major abdominal surgery 40–55%** (~30% in the biologic era); **second resection 35%** at 10 y (KC 14).
+- B1 at presentation → **51%** complicated (stricture/abscess/fistula) by 20 y; ileal/ileocolonic/upper-GI location accelerates, **colonic is protective**.
+- After resection: symptomatic recurrence **~50% at 5 y**; **endoscopic recurrence approaches 90%** (KC 15).
 
 ---
 
@@ -116,19 +86,19 @@ No single pathognomonic test. Diagnosis = integration of:
 
 *Workup: see [[chronic-diarrhea]]. Feature-by-feature contrast with ulcerative colitis (UC): [[uc-vs-crohns-comparison]].*
 
-| Condition | Key distinguishing features |
+| Condition | Distinguishing features |
 |---|---|
-| [[ulcerative-colitis\|Ulcerative colitis]] | Continuous, rectal involvement, mucosal only (no transmural), no fistulas/abscesses |
-| Infectious colitis ([[salmonella-infection\|Salmonella]], [[campylobacter-infection\|Campylobacter]], Yersinia) | Acute onset; stool culture; resolves within weeks |
-| [[clostridioides-difficile\|Clostridioides difficile]] | Risk factors; toxin assay |
-| Intestinal tuberculosis (TB) | Exposure history; acid-fast bacilli (AFB) stain/culture; interferon-gamma release assay (IGRA); ileocecal location (mimics CD closely) |
-| nonsteroidal anti-inflammatory drug (NSAID) enteropathy | Medication history; small bowel diaphragms |
-| [[colon-ischemia\|Ischemic colitis]] | Vascular risk factors; watershed distribution (splenic flexure) |
-| [[celiac-disease\|Celiac disease]] | Proximal small bowel (SB) involvement; anti–tissue transglutaminase (TTG); responds to gluten-free diet (GFD) |
-| [[irritable-bowel-syndrome\|irritable bowel syndrome (IBS)]] | No objective inflammation; normal FC, CRP, endoscopy |
-| Appendicitis | right lower quadrant (RLQ) pain, fever; acute; computed tomography (CT) showing appendix |
+| [[ulcerative-colitis\|UC]] | Continuous, rectal involvement, mucosal only, no fistulas/abscesses |
+| Infectious colitis ([[salmonella-infection\|Salmonella]], [[campylobacter-infection\|Campylobacter]], Yersinia) | Acute; stool culture; resolves in weeks |
+| [[clostridioides-difficile\|*Clostridioides difficile*]] | Risk factors; toxin assay |
+| Intestinal tuberculosis (TB) | Exposure; acid-fast stain/culture; ileocecal — closest mimic |
+| Nonsteroidal anti-inflammatory drug (NSAID) enteropathy | Drug history; small-bowel diaphragms |
+| [[colon-ischemia\|Ischemic colitis]] | Vascular risk factors; watershed (splenic flexure) |
+| [[celiac-disease\|Celiac disease]] | Proximal small bowel; tissue transglutaminase antibody; gluten-free diet response |
+| [[irritable-bowel-syndrome\|Irritable bowel syndrome (IBS)]] | No objective inflammation — normal FC, CRP, endoscopy |
+| Appendicitis | Acute right lower quadrant pain, fever; appendix on computed tomography (CT) |
 | Lymphoma | Weight loss, mass; biopsy |
-| Endometriosis | Women; cyclical symptoms; pelvic imaging |
+| Endometriosis | Cyclical symptoms; pelvic imaging |
 
 ---
 
@@ -136,47 +106,34 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ### Initial Workup
 
-- **complete blood count (CBC):** anemia, thrombocytosis
-- **comprehensive metabolic panel (CMP):** albumin (malnutrition), liver function tests (LFTs)
-- **CRP:** elevated in **a subset** of CD patients (not all); short half-life (**19 h**) makes it responsive for detecting and monitoring inflammation. ⚠ **Up to 40% of inflammatory bowel disease (IBD) patients with mild inflammation have a normal CRP *and* erythrocyte sedimentation rate (ESR)** — a normal CRP does not exclude active disease.
-- **ESR:** nonspecific; does **not** discriminate IBD from IBS or healthy controls — of limited use except in an individual patient followed serially.
-- **Fecal calprotectin:** cutoff **>50–100 μg/g** to differentiate inflammatory from noninflammatory colonic disease *(Strong/Moderate)*. At **50 μg/g**, sensitivity **88%**, specificity **72%** for distinguishing [[inflammatory-bowel-disease|IBD]] from [[disorders-of-gut-brain-interaction|functional GI disease]]. Also used to monitor activity and treatment response.
-- **Stool cultures + C. diff testing:** rule out infectious triggers
-- **Do NOT order:** anti-Saccharomyces antibodies (ASCA), perinuclear antineutrophil cytoplasmic antibody (ANCA) routinely — not useful for diagnosis
-- **Do NOT order:** genetic testing for diagnosis
+- **Labs:** complete blood count (CBC; anemia, thrombocytosis), comprehensive metabolic panel (CMP; albumin, liver tests).
+- **CRP:** raised in only a subset; half-life **19 h** → tracks activity. Erythrocyte sedimentation rate (ESR) is nonspecific (serial use only).
+- **FC >50–100 μg/g** separates inflammatory from noninflammatory disease (Strong/Moderate); at 50 μg/g sensitivity **88%**, specificity **72%** vs [[disorders-of-gut-brain-interaction|functional GI disease]]. Also monitors activity.
+- **Stool cultures + *C. difficile* testing.**
+- **Don't order** anti-*Saccharomyces cerevisiae* (ASCA)/antineutrophil cytoplasmic antibodies or genetic testing for diagnosis.
+
+> [!pitfall] A normal CRP doesn't exclude active Crohn's
+> Up to **40%** of IBD patients with mild inflammation have normal CRP **and** ESR ([[acg-2025-crohns]]).
 
 ### Endoscopy
 
-- **[[colonoscopy|Ileocolonoscopy]] with biopsies (required):** intubate terminal ileum (TI); biopsy involved and uninvolved mucosa; photograph ileum
-- [[ibd-endoscopic-scoring|Simple Endoscopic Score for Crohn's Disease (SES-CD)]] for objective scoring — the simplest of the endoscopic indices to use:
-
-| SES-CD | Activity | What it looks like |
-|---|---|---|
-| 0–2 | Endoscopic remission | — |
-| 3–6 | Mild | Limited aphthous erosions <10% of surface area, and/or altered vascular pattern, erythema, edema affecting <50% of surface area |
-| 7–15 | Moderate | Erosions or superficial ulcers occupying >10% but <30% of surface area |
-| >15 | Severe | Large ulcers **>2 cm** |
-
-  - **Severe endoscopic lesions (Allez):** large, confluent, **deep** ulcers occupying **>10% of the surface area of at least one colonic segment** — especially in ileum and rectum, more refractory to medical therapy.
-- [[ibd-endoscopic-scoring|Rutgeerts score]] for postoperative assessment at neoterminal ileum
-- **[[upper-endoscopy|Upper endoscopy]]:** if upper GI symptoms
-- **[[capsule-endoscopy|Capsule endoscopy]]:** for suspected isolated SB disease; high sensitivity for mucosal lesions; negative predictive value (NPV) 96%; **must get patency capsule/SB imaging first if obstructive symptoms or known stricture**
+- **[[colonoscopy|Ileocolonoscopy]] + biopsies (required):** intubate the terminal ileum; biopsy involved and uninvolved mucosa.
+- **[[ibd-endoscopic-scoring|Simple Endoscopic Score for Crohn's Disease (SES-CD)]]:** **0–2** remission · **3–6** mild (aphthae <10% of surface; erythema/edema <50%) · **7–15** moderate (erosions/superficial ulcers 10–30%) · **>15** severe (ulcers **>2 cm**).
+  - **Severe endoscopic lesions:** large, confluent, **deep** ulcers covering **>10% of ≥1 segment** — more refractory, especially ileum and rectum.
+- [[ibd-endoscopic-scoring|Rutgeerts score]] at the neoterminal ileum after resection.
+- **[[upper-endoscopy|Upper endoscopy]]** only for upper-GI symptoms.
+- **[[capsule-endoscopy|Capsule endoscopy]]** for suspected isolated small-bowel disease (negative predictive value 96%) — **patency capsule/imaging first** if obstructive symptoms or known stricture.
 
 ### Cross-Sectional Imaging
 
-- **magnetic resonance enterography (MRE) preferred:** young patients (<35y), expected serial imaging; no radiation; sensitivity ~similar to computed tomography enterography (CTE)
-- **CTE:** sensitivity ~90% for SB lesions; use when MRE unavailable or emergent
-- **[[intestinal-ultrasound|Intestinal ultrasound (IUS)]]:** noninvasive, no radiation; point-of-care; comparable to MRE for ileal activity; sonographic response = ≥25% bowel wall thickness (BWT) reduction, response identifiable within 3 months of biologic; postop recurrence if neo-TI BWT ≥3 mm + FC ≥50 µg/g (positive predictive value (PPV) 74%); growing use in US
-- **Pelvic magnetic resonance imaging (MRI) and/or [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]:** to further characterize perianal CD and perirectal abscesses — EUS **>90%** accuracy for diagnosing perianal fistulizing disease, pelvic MRI **comparable**. ACG 2025 offers either and states no preferred modality.
+- **Magnetic resonance enterography (MRE) preferred** for patients <35 y or serial imaging (no radiation); **computed tomography enterography (CTE)** (~90% sensitivity for small-bowel lesions) when MRE unavailable or emergent.
+- **[[intestinal-ultrasound|Intestinal ultrasound (IUS)]]:** point-of-care, ≈ MRE for ileal activity ([[aga-2024-intestinal-ultrasound]]); response and postoperative-recurrence cutoffs on its page.
+- **Perianal disease:** pelvic magnetic resonance imaging (MRI) or [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] — no preferred modality ([[perianal-fistulizing-crohns-disease]]).
 
 ### Pre-Biologic Screening
 
-- TB: IGRA (preferred over tuberculin skin test (TST) especially if bacille Calmette-Guérin (BCG)-vaccinated) + chest X-ray (CXR); treat latent TB before starting biologic
-- [[chronic-hepatitis-b|Hepatitis B virus (HBV)]]: hepatitis B surface antigen (HBsAg), hepatitis B core antibody (anti-HBc), hepatitis B surface antibody (anti-HBs); vaccinate if seronegative; antiviral prophylaxis if HBsAg+
-- human immunodeficiency virus (HIV): if clinically indicated
-- Varicella immunoglobulin G (IgG); [[ibd-preventive-care|update all vaccines]] (live vaccines only before starting immunosuppression)
-- Consider: HLA-DQA1*05 if starting anti–tumor necrosis factor (TNF) therapy (higher immunogenicity risk)
-- **thiopurine methyltransferase (TPMT) testing before azathioprine (AZA) or 6-mercaptopurine (6-MP)** (identifies myelosuppression risk); consider NUDT15 (especially East Asian, Latino, Native American)
+- TB (interferon-gamma release assay [IGRA] preferred, esp. if bacille Calmette-Guérin [BCG]-vaccinated; + chest x-ray; treat latent TB first); [[chronic-hepatitis-b|hepatitis B virus (HBV)]] serologies; human immunodeficiency virus (HIV) if indicated; varicella immunoglobulin G (IgG); [[ibd-preventive-care|vaccines]] (live only before immunosuppression).
+- **Thiopurine methyltransferase (TPMT) before azathioprine/6-mercaptopurine** (± NUDT15); consider HLA-DQA1\*05 before anti–tumor necrosis factor (TNF) (immunogenicity) — [[thiopurines]], [[anti-tnf-agents]].
 
 ---
 
@@ -184,307 +141,179 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ### Treatment Goals
 
-- Clinical remission (Crohn's Disease Activity Index (CDAI) <150; symptom-free — i.e. no increased stool frequency or abdominal pain). **CDAI is a clinical-trial instrument, not a practice tool** ([[acg-2025-crohns]]): at the bedside grade activity by symptoms (abdominal pain, stool frequency) **plus** elevated biomarkers or activity on endoscopy/imaging. CDAI does **not** correlate with SES-CD, CRP, fecal calprotectin, or lactoferrin — do not treat symptoms alone (KC 9). *(The CDAI's 8 component variables and their weightings are not printed in the guideline; they are in the original Best 1976 index.)*
-- Endoscopic remission (no ulceration; SES-CD ≤2)
-- Steroid-free maintenance
-- Prevention of complications (stricture, fistula, surgery)
-- Deep remission (all 3 domains) — ideal goal
+*Target definitions and time to target by drug: [[treat-to-target-ibd]].*
 
-**Top-down therapy preferred:** [[acg-2025-crohns|ACG 2025]] rec 3 **suggests against requiring failure of conventional therapy before starting advanced therapy** *(Conditional / Low)*, and calls top-down treatment **the standard of care for newly diagnosed active CD**. Basis: PROFILE (open-label randomized controlled trial (RCT)) — early combined immunosuppression (infliximab + immunomodulator) vs accelerated step-up gave **79% vs 15%** sustained steroid-free, surgery-free remission at week 48; biomarker stratification added nothing. Anti-TNF agents also work better given **within 2 years of disease onset**. [[aga-2021-crohns-pharm|American Gastroenterological Association (AGA) 2021]] first formalized this anti–step-up stance: suggests **early introduction of a biologic** (± immunomodulator) rather than delaying until after failure of 5-aminosalicylic acid (5-ASA) and/or corticosteroids (Conditional), and recommends **biologic monotherapy over thiopurine monotherapy** for induction (Strong); supported by REACT (lower major disease-related complications at 24 mo, hazard ratio (HR) 0.73).
+- **Clinical remission** — no excess stool frequency or pain. Crohn's Disease Activity Index (CDAI) <150 is a **trial instrument**; at the bedside grade by symptoms **plus** biomarkers or endoscopy/imaging — CDAI doesn't track SES-CD, CRP or FC (KC 9).
+- **Endoscopic remission** (no ulceration; SES-CD ≤2); steroid-free maintenance; prevent stricture, fistula, surgery.
+
+**Top-down is standard of care for newly diagnosed active CD** ([[acg-2025-crohns|ACG 2025]] rec 3, Conditional/Low): don't require conventional-therapy failure before advanced therapy. PROFILE: early infliximab + immunomodulator vs accelerated step-up → **79% vs 15%** steroid- and surgery-free remission at 1 y. Anti-TNF works better **within 2 y** of onset. [[aga-2021-crohns-pharm|American Gastroenterological Association (AGA) 2021]]: early biologic ± immunomodulator rather than after 5-aminosalicylate (5-ASA)/steroid failure (Conditional); **biologic over thiopurine monotherapy** for induction (Strong).
 
 ---
 
 ### Mild Ileocecal CD
 
-| Treatment | Use | Notes |
-|---|---|---|
-| [[corticosteroids-ibd\|Budesonide controlled ileal release (CIR)]] 9mg/day | Induction only (mild-moderate ileocecal) | NOT for maintenance; not for colonic disease; ~10–20% bioavailability |
-| [[mesalamine-5-asa\|Mesalamine]] | NOT RECOMMENDED | No efficacy in CD (multiple RCTs) |
-| Sulfasalazine | Only mild colonic CD (weak) | Modestly effective for symptoms; no mucosal healing |
-| Dietary therapy | Low-risk, mild CD | [[nutrition-in-ibd#CDED (Partial Enteral Nutrition)\|CD exclusion diet]], [[nutrition-in-ibd#Background / Maintenance Diet\|Mediterranean diet]]; not durable; monitor closely |
+| Option | Use |
+|---|---|
+| [[corticosteroids-ibd\|Budesonide controlled ileal release (CIR)]] 9 mg/day | Induction only, mild–moderate **ileocecal** (distal ileum/ascending colon); weaker than prednisone but fewer systemic effects; **not** for colonic disease or maintenance |
+| [[mesalamine-5-asa\|Mesalamine]] | **Not recommended** — no efficacy in CD |
+| Sulfasalazine | Mild **colonic** CD only (symptoms, no healing); [[aga-2021-crohns-pharm\|AGA 2021]] rec 9 is **against** 5-ASA/sulfasalazine in moderate-severe CD (Strong) |
+| Diet | Low-risk mild CD: [[nutrition-in-ibd#CDED (Partial Enteral Nutrition)\|Crohn's disease exclusion diet (CDED)]] or Mediterranean; monitor closely |
 
-- **Sulfasalazine does not carry into moderate-to-severe disease.** AGA 2021 rec 9 recommends **against** 5-ASA *or* sulfasalazine for induction or maintenance (*Strong*). The stance is strong despite a positive induction signal (sulfasalazine beat placebo over 6–17 wk) because the trials' severity was unclear and maintenance clearly failed — and because starting an ineffective drug delays effective therapy.
-- **Budesonide CIR is weaker than systemic steroids, and that is an accepted trade.** Inferior for inducing remission head-to-head, but reasonable in disease limited to the **distal ileum and/or ascending colon** when avoiding systemic corticosteroid effects matters more than maximum efficacy.
-
----
-
-### Dietary & Nutritional Therapy
-*Full framework (diet by clinical state, exclusive enteral nutrition (EEN)/Crohn's disease exclusion diet (CDED) protocols, parenteral nutrition (PN)/[[short-bowel-syndrome|short bowel syndrome (SBS)]], malnutrition, micronutrients): [[nutrition-in-ibd]].* [[aga-2024-diet-nutrition-ibd]]
-
-- **[[nutrition-in-ibd#EEN|EEN]]** — induces clinical remission + endoscopic response (stronger evidence in children; remission 60–80%, ≈ corticosteroids); **first-line steroid-sparing** in pediatric CD; steroid-sparing **bridge** in adults (limited by adherence). Typically 6–8 wk of polymeric liquid formula only.
-- **[[nutrition-in-ibd#CDED (Partial Enteral Nutrition)|CDED]]** — partial enteral nutrition; effective induction in **mild–moderate CD of short duration**; better tolerated than EEN in children; may salvage biologic loss-of-response.
-- **Preoperative EEN** — in malnourished CD before elective surgery: optimizes nutrition and **reduces postoperative complications** ("prehabilitation").
-- **Malnutrition** — screen all patients (weight loss, fat/muscle loss); serum albumin no longer used to diagnose (nonspecific, inflammation-sensitive). Monitor **vitamin D, [[iron-deficiency-anemia|iron]]**; **vitamin B12** with ileal disease/resection >30 cm or [[pouchitis|ileoanal pouch]].
+- **Nutrition** ([[aga-2024-diet-nutrition-ibd]]; detail on [[nutrition-in-ibd]]): [[nutrition-in-ibd#EEN|exclusive enteral nutrition (EEN)]] 6–8 wk induces remission (first-line in children; adult steroid-sparing bridge); **preoperative EEN** in malnourished patients cuts complications; screen for malnutrition; check vitamin D, [[iron-deficiency-anemia|iron]], and **B12** after ileal resection >30 cm.
 
 ---
 
-### Moderate-Severe CD: Corticosteroids (Bridge Only)
+### Corticosteroids and Immunomodulators
 
-*Class page — formulations, tapers, steroid-dependence/refractoriness, adverse effects: [[corticosteroids-ibd]].*
+*Doses, tapers and monitoring: [[corticosteroids-ibd]], [[thiopurines]], [[methotrexate]].*
 
-- Prednisone 40–60mg/day by mouth (PO); taper 5mg/wk (total ≤3 months)
-- Intravenous (IV) methylprednisolone 40–60mg/day for hospitalized patients
-- NOT for maintenance; NOT for mucosal healing
-- If steroid-dependent: advance to biologic
+- **Steroids = bridge only:** prednisone 40–60 mg/day with taper (≤3 months); intravenous (IV) methylprednisolone if hospitalized. Not for maintenance or healing; **steroid-dependent → advance to a biologic**.
+- **Thiopurines are not induction agents** (ACG against, Strong/Moderate); maintenance after steroid induction (Conditional). **Methotrexate: parenteral** — AGA 2025 favors subcutaneous/intramuscular monotherapy (Conditional/Moderate) and is **against oral** monotherapy (Conditional/Very low) ([[aga-2025-crohns-pharm]]).
+- **Combination with anti-TNF:** AGA 2021 suggests infliximab or adalimumab + thiopurine over anti-TNF alone in naïve patients (Conditional); no recommendation for vedolizumab/ustekinumab + immunomodulator. Low-dose methotrexate or thiopurine can be added to curb anti-TNF immunogenicity.
 
----
-
-### Immunomodulators (Maintenance; Combo Only)
-
-| Drug | Dose | Use | [[acg-2025-crohns\|ACG 2025]] |
-|---|---|---|---|
-| Azathioprine | **1.5–2.5 mg/kg/day** | Maintenance after steroid induction; combo with anti-TNF to reduce immunogenicity | Maintenance *Conditional* (rec 9); **against induction Strong** (rec 8) |
-| 6-Mercaptopurine | **0.75–1.5 mg/kg/day** | Same as AZA | Same recs 8/9 |
-| Methotrexate | **Up to 25 mg subcutaneous (SQ)/intramuscular (IM) once weekly**; after 4 months of maintained remission may drop to **15 mg/week** | Maintenance; steroid-sparing; teratogenic — contraception required | Maintenance *Conditional* (rec 11) |
-
-- **Thiopurines are not induction agents** — ACG recommends *against* AZA/6-MP for induction (Strong/Moderate).
-- **Route matters for methotrexate:** oral bioavailability is variable at higher doses, especially with malabsorption → **parenteral preferred**. [[aga-2025-crohns-pharm|AGA 2025]] suggests **subcutaneous (SC)/IM methotrexate monotherapy** over no treatment *(Conditional/Moderate)* but **against oral methotrexate monotherapy** *(Conditional/Very low)*; give **daily folic acid** with it.
-- Monitor CBC and LFTs routinely on [[thiopurines]] and methotrexate.
-- **TPMT testing required before AZA/6-MP** (Strong)
-- Combo AZA + anti-TNF: more effective than monotherapy; but risk of hepatosplenic T-cell lymphoma (rare, young males). **Quantified harm of adding a thiopurine to an anti-TNF: more infections and a 2- to 3-fold higher lymphoma risk** vs anti-TNF monotherapy — the number to quote when consenting for combination therapy. AGA 2021 *suggests* combination infliximab or adalimumab + thiopurine over anti-TNF monotherapy in biologic- and immunomodulator-naïve patients (Conditional); makes no recommendation on combining [[vedolizumab]]/[[il-23-and-il-12-23-inhibitors|ustekinumab]] with an immunomodulator (knowledge gap), nor on withdrawing the immunomodulator vs the biologic once quiescent on combination therapy
-- methotrexate (MTX) preferred when AZA/6-MP toxicity is a concern; as an **adjunct to reduce anti-TNF immunogenicity** a reduced dose is used — methotrexate **12.5–15 mg PO once weekly** (or a thiopurine at reduced dose)
+> [!pitfall] Quote the cost of combination therapy
+> Adding a thiopurine to an anti-TNF means more infections and **2- to 3-fold higher lymphoma risk** vs anti-TNF alone ([[aga-2021-crohns-pharm]]); rare hepatosplenic T-cell lymphoma in young males ([[ibd-in-malignancy]]).
 
 ---
 
 ### Advanced Therapies: Biologic Positioning
 
-**Efficacy tiers — the current positioning framework** ([[aga-2025-crohns-pharm|AGA 2025]] recs 3–4; *Conditional*, low-to-high certainty). Pick the tier first, then individualize by age, comorbidity, frailty, pregnancy, adherence, and route:
+**Efficacy tiers** ([[aga-2025-crohns-pharm|AGA 2025]] recs 3–4; Conditional, low-to-high certainty) — pick the tier, then individualize (age, comorbidity, frailty, pregnancy, adherence, route):
 
-| Prior advanced therapy | Higher efficacy | Intermediate efficacy | Lower efficacy (avoid) |
+| Prior advanced therapy | Higher | Intermediate | Lower (avoid) |
 |---|---|---|---|
-| **Naïve** | Infliximab · adalimumab · vedolizumab · ustekinumab · risankizumab · mirikizumab · guselkumab | — | Certolizumab pegol · **[[jak-inhibitors\|upadacitinib]]** |
-| **≥1 prior advanced therapy (esp. anti-TNF)** | Adalimumab · risankizumab · guselkumab · **upadacitinib** | Ustekinumab · mirikizumab | **Vedolizumab** · certolizumab pegol |
+| **Naïve** | Infliximab · adalimumab · vedolizumab · ustekinumab · risankizumab · mirikizumab · guselkumab | — | Certolizumab pegol · upadacitinib |
+| **≥1 prior (esp. anti-TNF)** | Adalimumab · risankizumab · guselkumab · upadacitinib | Ustekinumab · mirikizumab | Vedolizumab · certolizumab pegol |
 
-- ⚠ **The tiers invert for two drugs.** **Upadacitinib** is *lower* efficacy in the naïve patient but *higher* after anti-TNF exposure (and the FDA label requires prior anti-TNF exposure anyway). **Vedolizumab** is the reverse — *higher* efficacy naïve, *lower* after anti-TNF failure. Prior exposure, not the drug alone, sets the ranking.
-- **Second-line anti-TNF** (infliximab or adalimumab) can work if the first anti-TNF was stopped for **immunogenicity or intolerance after an initial response**; it is unlikely to work after **primary non-response** or loss of response despite adequate troughs → switch mechanism instead.
-- **Risankizumab over ustekinumab** in anti-TNF–experienced patients *(Conditional / Low, [[acg-2025-crohns|ACG 2025]] rec 19; SEQUENCE)*.
-- **Two maintenance doses exist for risankizumab, guselkumab and upadacitinib** — prefer the **higher** dose with a high inflammatory burden, more severe disease, or prior anti-TNF failure.
-- Extended induction or dose escalation may rescue a partial responder before the agent is abandoned.
-- **Avoid Janus kinase (JAK) inhibitors** in women contemplating pregnancy, and in older adults with cardiovascular (CV) risk factors (smoking, hypertension, high-density lipoprotein (HDL) <40 mg/dL, diabetes, family history of premature coronary heart disease (CHD), extra-articular rheumatoid arthritis (RA), prior CV disease).
+> [!pearl] Prior anti-TNF exposure flips two drugs
+> **Upadacitinib** is lower-tier when naïve but higher after anti-TNF (US Food and Drug Administration [FDA] label requires prior anti-TNF anyway); **vedolizumab** is the reverse ([[aga-2025-crohns-pharm]]).
 
-**Original AGA positioning by anti-TNF response status** (AGA 2021; predates interleukin-23 (IL-23) inhibitors and JAK inhibitors — superseded for sequencing by [[aga-2025-crohns-pharm]] but still the basis for the primary-vs-secondary-nonresponse framework):
+- **Second anti-TNF** works if the first stopped for **immunogenicity or intolerance after a response**; not after primary nonresponse or loss of response with adequate troughs → switch mechanism (AGA 2021: primary nonresponse → ustekinumab [Strong] or vedolizumab; secondary → adalimumab or ustekinumab [Strong]).
+- **Risankizumab over ustekinumab** after anti-TNF (ACG rec 19, Conditional/Low; SEQUENCE).
+- **Higher maintenance dose** of risankizumab, guselkumab or upadacitinib with high inflammatory burden, severe disease, or prior anti-TNF failure; extended induction/escalation can rescue a partial responder.
+- **Avoid Janus kinase (JAK) inhibitors** when contemplating pregnancy and in older adults with cardiovascular risk factors.
 
-- **Biologic-naïve:** infliximab, adalimumab, or ustekinumab over certolizumab pegol for induction (Strong); vedolizumab over certolizumab pegol (Conditional). No significant first-line difference among adalimumab, ustekinumab, vedolizumab on network meta-analysis.
-- **Anti-TNF primary nonresponse** (never responded): ustekinumab (Strong); vedolizumab (Conditional).
-- **Anti-TNF secondary nonresponse** (initially responded to infliximab, then lost response): adalimumab or ustekinumab (Strong); vedolizumab (Conditional). If adalimumab was the first agent that failed, indirect evidence supports infliximab as second-line.
+**Agents** — doses, monitoring, safety on each drug page:
 
----
-
-### Anti-TNF Agents (Strong Recommendation)
-
-*Drug-class parameters — immunogenicity, [[therapeutic-drug-monitoring-ibd|therapeutic drug monitoring (TDM)]], pre-treatment TB/HBV screening, biosimilars: see [[anti-tnf-agents]].*
-
-| Drug | Induction | Maintenance |
+| Class | Agents | CD-specific point |
 |---|---|---|
-| Infliximab IV | 5 mg/kg wk 0, 2, 6 | 5 mg/kg q8wk |
-| Infliximab SC | (after IV induction) | 120 mg q2wk (escalate to 240 mg if needed) |
-| Adalimumab | 160→80→40 mg q2wk | 40 mg q2wk (or weekly) |
-| Certolizumab pegol | 400 mg wk 0, 2, 4 | 400 mg q4wk |
-
-- Combo infliximab (IFX) + thiopurine preferred in biologic-naive (SONIC trial; PROFILE trial)
-- Biosimilars available for IFX, adalimumab (ADA), ustekinumab (UST) — equivalent efficacy/safety; FDA-approved for de novo use and switching
-- Pre-biologic screening: TB (IGRA), HBV, vaccines
-
----
-
-### Anti-Integrin: Vedolizumab (Strong Recommendation)
-
-- **Mechanism:** α4β7 blockade → gut-selective; no progressive multifocal leukoencephalopathy (PML) risk (unlike natalizumab)
-- **Induction:** 300 mg IV at **wk 0 and wk 2** ([[acg-2025-crohns|ACG 2025]] Rec 16 — "2 intravenous induction doses"; GEMINI 2) → **Maintenance:** 300 mg IV q8wk OR 108 mg SQ q2wk. ⚠ There is **no week-6 vedolizumab induction dose for IBD** in the guideline (the wk 0/2/6 pattern is infliximab's). See [[vedolizumab]].
-- Slower onset in CD (vs anti-TNF); anti-TNF–naive respond faster
-- Monotherapy preferred (no benefit from adding immunomodulators — UNIFI/VARSITY extrapolation)
-- Favorable safety profile: no increased infection, no PML
-- **Natalizumab (α4-integrin)** is recommended *against* (AGA 2021, Conditional) given PML risk and availability of safer alternatives; only an option for JC virus antibody–negative patients valuing benefit over PML risk with ongoing JC virus (JCV) monitoring
-
----
-
-### Anti-IL-12/23 (Anti-p40): Ustekinumab (Strong Recommendation)
-
-- **Mechanism:** anti-p40 (blocks interleukin-12 (IL-12) + IL-23)
-- **Induction:** weight-based IV (~6 mg/kg) **Maintenance:** 90 mg SQ q8wk or q12wk
-- Effective in TNF-naive and TNF-failed patients
-- Low immunogenicity (antidrug antibodies <6%); no combination with immunomodulator needed
-- In anti-TNF-exposed: ustekinumab inferior to risankizumab for endoscopic remission (SEQUENCE)
-
----
-
-### Anti-IL-23 (Anti-p19) Agents (All Strong Recommendations)
-
-| Drug | Induction | Maintenance | Key Trial |
-|---|---|---|---|
-| Risankizumab | 600 mg IV wk 0, 4, 8 | 360 mg SQ q8wk | ADVANCE/MOTIVATE/FORTIFY; SEQUENCE (superior to UST) |
-| Mirikizumab | 900 mg SQ wk 0, 4, 8 | 300 mg SQ q4wk | VIVID-1 (noninferior to UST; superior to placebo) |
-| Guselkumab IV→SC | 200 mg IV wk 0, 4, 8 | 100 mg SQ q8wk | GALAXI-2/3 (superior to UST for endoscopic endpoints) |
-| Guselkumab SC→SC | 400 mg SQ q4wk | 100–200 mg SQ q4–8wk | GRAVITI |
-
-- **Risankizumab preferred over ustekinumab** in anti-TNF-experienced patients (SEQUENCE: endoscopic remission 32% vs 16%)
-- All IL-23 inhibitors: favorable safety profile; no TB screening requirement (but follow standard pre-biologic)
-
----
-
-### JAK Inhibitor: Upadacitinib (Strong Recommendation)
-
-- **Mechanism:** Selective JAK-1 inhibitor
-- **FDA requirement:** Prior anti-TNF exposure required for CD indication
-- **Induction:** 45 mg PO daily × 12 weeks
-- **Maintenance:** 15 mg or 30 mg PO daily (prefer 30 mg for refractory/progressive disease)
-- Safety class warning (JAK inhibitors): major adverse cardiovascular events (MACE), serious infections, venous thromboembolism (VTE), malignancy; primarily data from tofacitinib in RA patients ≥50 + cardiovascular risk factors — applicability to CD unclear
-- Avoid in: age >65 with CV risk factors, active smokers, prior malignancy
-
----
-
-### Perianal Fistulizing CD
-
-*Full page — simple vs complex criteria, drainage/seton sequencing before immunosuppression, antibiotic dosing, biologic strength table, fistula surgery by rectal mucosal status, diversion/proctectomy, internal fistulas and intra-abdominal abscess: [[perianal-fistulizing-crohns-disease]].*
-
-- **What perianal disease means for the luminal disease:** it is a **high-risk severity marker** — its presence excludes mild CD by definition and places the patient in the moderate–severe band (see [[#Severity Assessment]]), and it is one of the named high-risk features for disease progression.
+| [[anti-tnf-agents\|Anti-TNF]] | Infliximab (IV or subcutaneous [SC]), adalimumab, certolizumab pegol | Infliximab + thiopurine preferred when naïve (SONIC, PROFILE); biosimilars interchangeable |
+| [[vedolizumab\|Anti-integrin]] | Vedolizumab | Gut-selective; **2 IV induction doses (wk 0, 2)**; slower onset in CD; monotherapy. Natalizumab not recommended (progressive multifocal leukoencephalopathy risk) |
+| [[il-23-and-il-12-23-inhibitors\|Anti–interleukin-12/23 (IL-12/23) and anti–IL-23]] | Ustekinumab; risankizumab, mirikizumab, guselkumab (IV→SC or all-SC) | CD doses differ from UC — use the CD column on the drug page |
+| [[jak-inhibitors\|JAK inhibitor]] | Upadacitinib | Prior anti-TNF required; **45 mg × 12 wk** induction (not UC's 8 wk) |
 
 ---
 
 ### Postoperative CD Prevention
 
-*Applies to the **asymptomatic** patient with an **ileocolonic anastomosis** and **no macroscopic residual disease** after resection. Not applicable to small-bowel anastomoses out of reach of the colonoscope, residual disease after resection, or active clinical symptoms ([[aga-2017-crohns-after-surgical-resection]]).*
+*Scope: **asymptomatic**, **ileocolonic anastomosis**, **no residual disease** after resection ([[aga-2017-crohns-after-surgical-resection]]). Endpoint: endoscopic recurrence = **[[ibd-endoscopic-scoring|Rutgeerts ≥i2]]**.*
 
-**Endpoint:** endoscopic recurrence = **[[ibd-endoscopic-scoring|Rutgeerts score ≥i2]]** at the neoterminal ileum — it precedes clinical and surgical recurrence, and is the surrogate all the prophylaxis trials were powered on.
+**1 — Risk** (no validated score; illustrative groups, recurrence >18 months untreated):
 
-#### Step 1 — Stratify the risk
-
-No validated score predicts postoperative recurrence. [[aga-2017-crohns-after-surgical-resection]] instead publishes two **illustrative** risk groups with their recurrence rates **>18 months after surgery in the absence of any intervention**:
-
-| Risk group | Typical patient | Clinical recurrence | Endoscopic recurrence |
-|---|---|---|---|
-| **Lower** | Older than **50 y** · nonsmoker · **first** surgery, for a **short segment (<10–20 cm)** of **fibrostenotic** disease · disease duration **>10 y** | **20%** | **30%** |
-| **Higher** | Younger than **30 y** · **smoker** · **≥2 prior surgeries** for **penetrating** disease, ± perianal disease | **50%** | **80%** |
-
-#### Step 2 — Choose the strategy
-
-- **Early pharmacological prophylaxis** (started **within 8 weeks** of surgery) is suggested **over endoscopy-guided treatment** *(Conditional / Very low)* — most post-resection patients carry at least one risk factor.
-- **Endoscopy-guided treatment** (drug started only if the 6–12 month scope shows recurrence) is a reasonable alternative for **lower-risk** patients who weight drug adverse events more heavily than early recurrence. The one head-to-head trial (63 patients, azathioprine) was **null** for both endpoints — clinical relative risk (RR) 0.83 (95% confidence interval (CI) 0.46–1.50), endoscopic RR 0.91 (0.59–1.42) — so there is genuine equipoise.
-
-#### Step 3 — Pick the agent
-
-| Postoperative risk | Treatment | Strength |
+| Risk | Typical patient | Clinical / endoscopic recurrence |
 |---|---|---|
-| **Low** | Continued **observation** rather than immediate medical therapy | Conditional / Very low |
-| Any, after **small-intestinal resection** | Imidazole antibiotics (metronidazole) **1–2 g/day** | Conditional / Low |
-| **High** (prior resection, penetrating phenotype, smoking, short disease duration) | **[[anti-tnf-agents\|Anti-TNF]]** | **Strong** / Moderate |
-| **High** | **[[vedolizumab]]** | Conditional / Low |
-| Any | **[[anti-tnf-agents\|Anti-TNF]] and/or [[thiopurines]]** over other agents | Conditional / Moderate |
-| Any | **Against** [[mesalamine-5-asa\|mesalamine (or other 5-ASAs)]], **budesonide**, or **[[probiotics]]** | Conditional / Low; very low |
+| **Lower** | >50 y · nonsmoker · **first** surgery for **short (<10–20 cm) fibrostenotic** segment · disease >10 y | 20% / 30% |
+| **Higher** | <30 y · **smoker** · **≥2 prior surgeries** for **penetrating** disease ± perianal | 50% / 80% |
 
-- **Relative risk reductions vs placebo** ([[aga-2017-crohns-after-surgical-resection]]): anti-TNF **49% clinical / 76% endoscopic** at 18 months; thiopurines **65% / 60%**; antibiotics **~50%** for both — but antibiotics are probably inferior to anti-TNF by a large margin and modestly inferior to thiopurines.
-- **Nitroimidazoles are the only antibiotic class adequately studied** in this setting, so metronidazole is the one to use if antibiotics are chosen — and only for **3–12 months**, because cumulative dosing causes **peripheral neuropathy**. Expect recurrence within a couple of years of stopping.
-- Metronidazole is poorly tolerated — **~50% of patients were intolerant** in placebo-controlled trials, so it is not sustainable as a long-term strategy. Combining metronidazole **1 g/day × 3 months** with azathioprine **100–150 mg/day × 12 months** reduced endoscopic recurrence (Rutgeerts i2–4) at 1 year versus metronidazole alone.
-- The main harm of choosing 5-ASA, budesonide or probiotics is **disease recurrence from foregoing more effective therapy**.
+**2 — Strategy:** **early prophylaxis within 8 weeks** over endoscopy-guided treatment (Conditional/Very low); endoscopy-guided is reasonable for lower-risk patients who prioritize avoiding drug effects (head-to-head trial null).
 
-#### Step 4 — Scope at 6–12 months
+**3 — Agent:**
 
-Endoscopic assessment of the neoterminal ileum at **6–12 months** post-resection, rather than no monitoring — and the **strength depends on whether the patient is protected**:
-
-| Patient | Recommendation | Strength |
+| Risk | Treatment | Strength |
 |---|---|---|
-| **Receiving** pharmacological prophylaxis | Postoperative endoscopic monitoring at 6–12 mo | Conditional / Moderate |
-| **Not receiving** pharmacological prophylaxis | Postoperative endoscopic monitoring at 6–12 mo | **Strong** / Moderate |
+| Low | Observation | Conditional/Very low |
+| **High** (prior resection, penetrating, smoking, short duration) | **Anti-TNF** | **Strong**/Moderate |
+| High | Vedolizumab | Conditional/Low |
+| Any | Anti-TNF and/or thiopurine over other agents | Conditional/Moderate |
+| Any, after small-bowel resection | Metronidazole **1–2 g/day** for **3–12 months** only (neuropathy; ~50% intolerant) | Conditional/Low |
+| Any | **Against** 5-ASA, budesonide, [[probiotics]] | Conditional/Low–Very low |
 
-- The unprotected patient gets the strong recommendation because endoscopic recurrence reaches **as high as 90% within 1 year** of surgery with no prophylaxis.
-- How often to scope **after** that first postoperative colonoscopy is not established by any ingested source.
+- Relative risk reduction vs placebo at 18 months: anti-TNF 49% clinical/76% endoscopic; thiopurine 65%/60%; antibiotics ~50%.
 
-#### Step 5 — Act on asymptomatic endoscopic recurrence
+**4 — Colonoscopy at 6–12 months** (neoterminal ileum): **Strong**/Moderate if **unprotected** (endoscopic recurrence up to 90% at 1 y); Conditional/Moderate if on prophylaxis. Later interval not established.
 
-- **Initiate or optimize [[anti-tnf-agents\|anti-TNF]] and/or [[thiopurines|thiopurine]] therapy** rather than continue monitoring alone *(Conditional / Moderate)*.
-- **Thiopurine monotherapy** may suit **less severe** endoscopic recurrence (Rutgeerts **i2**), given slower onset and potentially lower efficacy.
-- Recurrence **while already on a thiopurine** → **step up by adding an anti-TNF**, as monotherapy or combination therapy.
+**5 — Asymptomatic endoscopic recurrence:** start/optimize anti-TNF and/or thiopurine (Conditional/Moderate); thiopurine alone may suit **i2**; recurrence **on a thiopurine → add anti-TNF**.
 
 ---
 
 ### Endoscopic Stricture Dilation
 
-- **Endoscopic balloon dilation** for symptomatic **benign** CD strictures (small bowel, colon, or ileocolonic anastomosis) **≤4 cm** in length, when feasible — durable clinical response ~58%, deferring surgery ([[asge-2015-ibd]]).
-- Biopsy strictures to exclude malignancy.
-**Who gets endoscopy vs surgery — the actual selection rule ([[aga-2026-therapeutic-endoscopy-ibd|AGA 2026 clinical practice update (CPU)]]):** the decision turns on **length, number, and a count of four named risk factors** — not on symptoms alone.
+*Endoscopic balloon dilation (EBD) for symptomatic **benign** strictures (small bowel, colon, anastomosis, ostomy site); biopsy to exclude malignancy. First-line endotherapy — technical/clinical success 74–100% ([[aga-2026-therapeutic-endoscopy-ibd]]); durable response ~58% ([[asge-2015-ibd]]).*
 
-| | Suitable for endoscopic therapy | Consider surgical intervention |
+**Endoscopy vs surgery** ([[aga-2026-therapeutic-endoscopy-ibd|AGA 2026]]):
+
+| | Endoscopic therapy | Consider surgery |
 |---|---|---|
-| **Stricture length** | **<4–5 cm** | **>4–5 cm** |
-| **Number of strictures** | Any number, if technically reachable | **>4** strictures |
-| **Risk-factor count** | **<3** of the four below | **≥3** of the four below |
+| Length | **<4–5 cm** | **>4–5 cm** |
+| Number | Any reachable | **>4** |
+| Risk factors (fistulizing disease · prestenotic dilation >5 cm · high CRP · prior anti-TNF) | **<3** | **≥3** |
 
-- **The four risk factors:** fistulizing disease · prestenotic dilation **>5 cm** · high CRP · prior **anti-TNF** exposure.
-- **Absolute contraindications to endoscopic balloon dilation (EBD):** associated **deep ulcers** or a **fistula** at the stricture (dilation may worsen the fistula).
-- **Factors predicting EBD failure** (not contraindications): length **>4–5 cm**, high body mass index (BMI), **proximal small-bowel** location, significant prestenotic dilation (**>5 cm** in small bowel), and **primary** (de novo, non-anastomotic) strictures.
-- **Durability:** symptomatic recurrence in ~**50%**; **two-thirds** eventually need repeat dilation or surgery over 20–144 months of follow-up.
+- **Absolute contraindications:** deep ulcers or a fistula at the stricture.
+- **Failure predictors:** length >4–5 cm (surgery risk ↑ ~8%/cm), high body mass index, proximal small bowel, prestenotic dilation >5 cm, de novo (non-anastomotic) stricture.
+- **Durability:** ~50% symptomatic recurrence; ⅔ eventually need repeat dilation or surgery.
 
-- **Technique details ([[aga-2026-therapeutic-endoscopy-ibd|AGA 2026 CPU]]):** EBD is first-line (technical/clinical success 74%–100%). Target **18–20 mm** with **wire-guided controlled radial expansion (CRE) balloons**, graded dilation with partial/complete deflation between expansions; **retrograde dilation preferred** when the scope can pass the stricture. Reassess after each dilation — perforation can occur even with smaller balloons, and no evidence links balloon size to perforation risk; **no benefit from intralesional steroids**. Stricture **≤5 cm** predicts surgery-free survival (risk ↑ ~**8% per added cm**). EBD works anywhere in the GI tract including anastomotic and **ostomy-site** strictures (tissue ingrowth, stoma retraction, Kock pouch). Alternatives: endoscopic stricturotomy, fully covered self-expanding metal stents (FCSEMS; limited by migration). **Hold [[anticoagulation-gi-bleeding|antithrombotics]], systemic steroids, and [[glp-1-receptor-agonists|glucagon-like peptide-1 receptor agonists (GLP-1 RAs)]]** before; **[[antibiotic-prophylaxis-endoscopy|prophylactic antibiotics]] not required** before EBD. **Fistulas:** optimize medical therapy, pick short/simple tracts, **prioritize drainage over closure**; endoscopic closure of *disease-associated* CD fistulas is usually ineffective, but **anastomotic-leak–associated** fistulas may respond. Visible dysplasia → [[endoscopic-mucosal-resection|endoscopic mucosal resection (EMR)]]/[[endoscopic-submucosal-dissection|endoscopic submucosal dissection (ESD)]] in expert hands (criteria on [[ulcerative-colitis]]).
+> [!howto] Crohn's stricture dilation
+> 1. Hold antithrombotics ([[anticoagulation-gi-bleeding]]), systemic steroids, and [[glp-1-receptor-agonists|glucagon-like peptide-1 receptor agonists]]; no [[antibiotic-prophylaxis-endoscopy|antibiotic prophylaxis]] needed.
+> 2. Wire-guided controlled radial expansion balloon, target **18–20 mm**.
+> 3. Graded dilation, deflating between expansions; **retrograde** if the scope traverses the stricture.
+> 4. Reassess after each step — perforation can occur even with small balloons. No intralesional steroids. ([[aga-2026-therapeutic-endoscopy-ibd]])
+
+- Alternatives: stricturotomy, fully covered metal stent (migration). **Fistulas:** optimize medical therapy, prioritize drainage over closure; disease-associated fistulas rarely close endoscopically (anastomotic-leak fistulas may). Visible dysplasia → [[endoscopic-mucosal-resection|endoscopic mucosal resection]]/[[endoscopic-submucosal-dissection|submucosal dissection]] (criteria on [[ulcerative-colitis#Colorectal Cancer Surveillance]]).
 
 ---
 
 ### Fulminant/Hospitalized CD
 
-- IV methylprednisolone 40–60 mg/day
-- Infliximab effective inpatient for severe-fulminant disease (weight-based dosing advantage)
-- Drain abscesses before escalating immunosuppression
-- Multidisciplinary: surgery evaluation early
-- All hospitalized IBD patients: **VTE prophylaxis** (prophylactic anticoagulation) — see [[inflammatory-bowel-disease]] inpatient framework
+*Cross-IBD inpatient care (venous thromboembolism prophylaxis, discharge): [[inflammatory-bowel-disease]].*
 
-*Inpatient CD complications — [[aga-2026-inpatient-ibd|AGA 2026 CPU]]:*
-
-- **Intestinal obstruction:** distinguish fibrotic vs inflammatory stricture vs adhesions; rule out perforation. IV corticosteroids if **active inflammation** present; surgery for predominantly fibrotic stricture or perforating/abscess disease. No clear role for endoscopic dilation in acute obstruction. If on steroids preop, taper toward ≤prednisone 20 mg/day to reduce postoperative infection.
-- **Intra-abdominal abscess:** infection control with **drainage** (by size/location) + systemic antibiotics, then decide on further medical vs surgical management.
-- **Active perianal disease:** multidisciplinary medical + surgical approach; get **contrast** cross-sectional imaging (CT/magnetic resonance (MR)) to map complex fistula tracts. Inpatient drainage/seton and drug sequencing: [[perianal-fistulizing-crohns-disease]].
+- IV methylprednisolone 40–60 mg/day; infliximab effective inpatient; **early surgical evaluation**.
+- **Drain abscesses before escalating immunosuppression** — drainage + antibiotics, then medical vs surgical plan ([[aga-2026-inpatient-ibd]]).
+- **Obstruction:** separate inflammatory vs fibrotic stricture vs adhesions; exclude perforation. IV steroids if inflamed; surgery for fibrotic or penetrating disease; no role for dilation acutely. Taper preoperative steroids toward **≤ prednisone 20 mg/day**.
+- **Active perianal disease:** contrast CT or MRI to map tracts; drainage/seton sequencing on [[perianal-fistulizing-crohns-disease]].
 
 ---
 
 ### Monitoring
 
-**Goals:** Clinical response within 2–4 weeks; maximal improvement by 12–16 weeks
-
 | Assessment | Timing | Measure |
 |---|---|---|
-| Clinical response | 2–4 weeks post-induction | Symptom improvement |
-| Objective response | 12–16 weeks | CRP, FC, endoscopy, imaging |
-| TDM (anti-TNF) | At loss of response | Trough levels + antidrug antibodies |
-| [[colorectal-cancer\|colorectal cancer (CRC)]] surveillance | From **8 y** of disease (extent criteria under Special Considerations); **[[primary-sclerosing-cholangitis\|primary sclerosing cholangitis (PSC)]] → from diagnosis**. Then **every 1–5 y, risk-stratified** — the interval table and its risk factors live on [[ulcerative-colitis\|UC → CRC surveillance]] ([[aga-2021-ibd-colorectal-dysplasia]]). ⚠ **Crohn's isolated to the small bowel carries no excess CRC risk vs the non-IBD population → average-risk CRC screening applies, not IBD surveillance.** For the "lowest risk / up to 5 y" band, short-segment colonic disease in CD means **less than one-third of the colon** | Same strategy as [[ulcerative-colitis\|UC]] — dysplasia progression rates are equivalent in UC and CD. high-definition (HD) + dye-spray chromoendoscopy preferred; **narrow-band imaging (NBI) should *not* be used** in CD surveillance ([[acg-2018-crohns]] rec 4). ⚠ **Guidelines differ on virtual chromoendoscopy:** [[aga-2021-ibd-colorectal-dysplasia\|AGA 2021]] (newer, same tier) puts **virtual chromoendoscopy (VCE) on equal footing with dye-spray on an HD scope** — meta-analysis of 11 RCTs, similar per-patient dysplasia detection with **shorter withdrawal times** — against ACG 2018's position here. Both are recorded; ACG 2018's CD-specific "not NBI" is the narrower claim |
-| Postoperative scope | 6–12 months | Rutgeerts score |
+| Clinical response | 2–4 wk after induction | Symptoms |
+| Objective response | 12–16 wk | CRP, FC, endoscopy, imaging |
+| [[therapeutic-drug-monitoring-ibd\|Drug levels]] (anti-TNF) | At loss of response | Trough + antidrug antibodies |
+| Postoperative colonoscopy | 6–12 months | Rutgeerts score |
 
-**Symptoms do not correlate with mucosal inflammation** — always confirm with objective assessment (endoscopy, CRP, FC) before treatment decisions.
+- **Symptoms don't track mucosal inflammation** — confirm objectively before any treatment change.
+- **Before escalating, exclude:** *C. difficile* (up to 5× general-population risk), cytomegalovirus, NSAIDs, [[small-intestinal-bacterial-overgrowth|small intestinal bacterial overgrowth (SIBO)]], dietary intolerance, anxiety/depression.
 
-**Exclude before escalating:** C. difficile (up to 5× risk vs general population), cytomegalovirus (CMV), NSAID use, [[small-intestinal-bacterial-overgrowth|small intestinal bacterial overgrowth (SIBO)]], dietary intolerance, anxiety/depression.
+**[[colorectal-cancer|Colorectal cancer (CRC)]] surveillance** — same strategy as UC (equal dysplasia progression); who/when, intervals, technique and dysplasia management on **[[ulcerative-colitis#Colorectal Cancer Surveillance]]** ([[aga-2021-ibd-colorectal-dysplasia]]). CD-specific:
+- Colonic CD: start at **8 y** if **>30% of the colon** involved; [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]] → from diagnosis. "Lowest risk" short-segment = **<⅓ of colon**.
+- **CD confined to the small bowel → average-risk CRC screening**, not IBD surveillance.
+- ⚠ Chromoendoscopy: [[acg-2018-crohns|ACG 2018]] rec 4 says **no narrow-band imaging** in CD; [[aga-2021-ibd-colorectal-dysplasia|AGA 2021]] (newer) puts virtual chromoendoscopy on par with dye-spray on a high-definition scope.
 
 ---
 
 ### Special Considerations
 
-**Smoking:** Worsens CD (penetrating phenotype, ↑relapse, ↑surgery); cessation counseling at every visit.
+- **Smoking** worsens CD (penetrating phenotype, relapse, surgery) — counsel cessation every visit. **NSAIDs** may flare CD; if needed short-term, cyclooxygenase-2 (COX-2)–selective. Depression/anxiety in ~25–33% — screen ([[ibd-preventive-care]]).
+- **Functional overlap** is higher in CD than UC (IBS-type symptoms 46% vs 36%; [[aga-2018-functional-gi-symptoms-ibd]]). Exclude CD-specific mechanisms first — stenosis, [[bile-acid-diarrhea|bile acid diarrhea]] after ileal disease/resection, SIBO; small-bowel disease needs cross-sectional imaging, not just ileocolonoscopy. Workup: [[inflammatory-bowel-disease#Functional GI Symptoms in Quiescent IBD]].
+- **Older adults (≥60):** [[ibd-in-older-adults]].
+- **Malignancy** ([[ibd-in-malignancy]]; [[aga-2024-ibd-malignancy]]): small-bowel adenocarcinoma (~18×, low absolute risk) — suspect with abrupt symptom change; anal squamous cell carcinoma with long-standing perianal disease; drug choice after a cancer on that page.
 
-**NSAIDs:** May exacerbate CD; avoid routine use; cyclooxygenase-2 (COX-2) selective agents preferred if needed short-term.
+### Pregnancy
 
-**Mental health:** Depression/anxiety in ~25–33%; screen and manage; associated with increased disease activity and health care utilization.
+*IBD-wide — [[ulcerative-colitis]] links here. [[aga-2024-pregnancy-gi-liver|AGA 2024]] best practice advice (BPA); context: [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]].*
 
-**Functional (IBS-like) symptom overlap — higher in CD than UC:** pooled IBS prevalence **46% in CD vs 36% in UC**, **OR 1.62 (95% confidence interval [CI] 1.21–2.18)** ([[aga-2018-functional-gi-symptoms-ibd]]). The Update's own caveat: IBS was defined by Manning, Rome I, Rome II, Rome III or other validated questionnaires, and the 4 case-control studies were of low quality — take the numbers with caution. **CD-specific acquired mechanisms to exclude before calling symptoms functional:** intestinal stenosis (obstructive pain, nausea/vomiting, distention), [[bile-acid-diarrhea|bile acid diarrhea]] with ileal disease or resection, and [[small-intestinal-bacterial-overgrowth|SIBO]]. Active small-bowel disease, stenosis and fistulas are missed by ileocolonoscopy alone without systematic cross-sectional small-bowel imaging. The full stepwise workup, biomarker limits and Figure 1 algorithm are on [[inflammatory-bowel-disease]].
-
-**Older adults (age ≥60):** efficacy ordering above is unchanged, but the safety profile, frailty assessment, surgical risk and drug-by-drug age signals are on [[ibd-in-older-adults|IBD in older adults]].
-
-**Malignancy risk:**
-
-- Colonic CD: CRC risk increased (same surveillance as UC); start at 8y if >30% colonic involvement
-- Small bowel CD: SB adenocarcinoma risk 18× increased (absolute risk low; AGA 2024 adjusted hazard ratio [aHR] 15.8); SB [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]] aHR 5.5; high suspicion for abrupt symptom change
-- Anal/perianal fistulizing CD: ↑ anal squamous cell carcinoma (SCC) (2.6 vs 0.8/10,000 person-years (PY)); risk factors (RF) = human papillomavirus (HPV), long-standing perianal disease
-- [[primary-sclerosing-cholangitis|PSC]]: CRC surveillance from diagnosis; ↑ [[cholangiocarcinoma]] (>150× vs no PSC)
-- **Managing IBD drugs when a cancer develops** — see [[ibd-in-malignancy]]. Key: thiopurines/anti-TNF are the drugs of concern (thiopurine → lymphoma/nonmelanoma skin cancer (NMSC); anti-TNF → melanoma; combo → hepatosplenic T-cell lymphoma); newer classes (vedolizumab, ustekinumab/anti–IL-23, JAK, sphingosine-1-phosphate (S1P)) show no malignancy signal. Prior-cancer history alone does **not** mandate withholding effective IBD therapy (reassuring registry data).
-
-**Pregnancy** (AGA 2024 CPU; full context [[liver-disease-in-pregnancy]], nausea and vomiting of pregnancy (NVP) overlap [[nausea-and-vomiting-of-pregnancy]]):
-
-- **Clinical remission before conception, throughout pregnancy, and postpartum is essential** — active CD → ↑ preterm birth, low birth weight, growth retardation, hypertensive disease, cesarean (Best Practice Advice (BPA) 7). Maternal-fetal medicine (MFM) consult for every pregnant IBD patient; coordinate complex births at a tertiary center (BPA 3).
-- **Continue biologics** throughout pregnancy/postpartum; **stop methotrexate, thalidomide, and ozanimod ≥6 months before conception** (BPA 7).
-- Med safety: mesalamine safe; sulfasalazine + folic acid 1 mg BID; 6-MP/azathioprine safe; **methotrexate contraindicated**. Anti-TNF (infliximab, adalimumab) cross placenta after ~20 wk → **no live vaccines to infant for first 6 months**; certolizumab does not cross placenta. Glucocorticoids OK for flares (caution 1st trimester — ↑ preterm/small for gestational age (SGA)). Most IBD meds compatible with breastfeeding.
-- Monitoring: fecal calprotectin each trimester; [[intestinal-ultrasound]] (84% sensitivity/98% specificity); MRI **without gadolinium**; **unsedated flexible sigmoidoscopy preferred** over colonoscopy; elective endoscopy deferred to postpartum, nonemergent → 2nd trimester (BPA 6).
-- Delivery: **avoid vaginal birth with active perianal CD, perianal abscess, or active rectal disease**; consider cesarean for prior complex fistulizing disease ± J-pouch.
+- **Remission before conception, through pregnancy and postpartum** — active disease → preterm birth, low birth weight, growth restriction, hypertensive disease, cesarean (BPA 7). Maternal-fetal medicine consult for all; complex births at a tertiary center (BPA 3).
+- **Continue biologics**; **stop methotrexate, thalidomide, ozanimod ≥6 months before conception** (BPA 7).
+- Safe: mesalamine; sulfasalazine + folic acid 1 mg twice daily; azathioprine/6-mercaptopurine; steroids for flares (caution first trimester — preterm/small for gestational age). **Methotrexate contraindicated.** Infliximab/adalimumab cross the placenta after ~20 wk → **no live vaccines to the infant for 6 months**; certolizumab doesn't cross. Most drugs compatible with breastfeeding.
+- **Monitoring:** FC each trimester; [[intestinal-ultrasound|IUS]] (84% sensitivity/98% specificity); MRI **without gadolinium**; **unsedated flexible sigmoidoscopy** over colonoscopy; elective endoscopy postpartum, nonemergent in 2nd trimester (BPA 6).
+- **Delivery:** avoid vaginal birth with active perianal disease, perianal abscess, or active rectal disease; consider cesarean after complex fistulizing disease ± J-pouch.
 
 ---
 
 ## See Also
 
-[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[perianal-fistulizing-crohns-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[short-bowel-syndrome]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]], [[ibd-in-older-adults]], [[irritable-bowel-syndrome]], [[bile-acid-diarrhea]], [[small-intestinal-bacterial-overgrowth]]
+[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[perianal-fistulizing-crohns-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[short-bowel-syndrome]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]], [[ibd-in-older-adults]], [[irritable-bowel-syndrome]], [[bile-acid-diarrhea]], [[small-intestinal-bacterial-overgrowth]], [[treat-to-target-ibd]], [[corticosteroids-ibd]], [[methotrexate]], [[endoscopic-ultrasound]]
 
 ---
 
@@ -496,13 +325,12 @@ Endoscopic assessment of the neoterminal ileum at **6–12 months** post-resecti
 4. [[aga-2021-crohns-pharm|AGA Clinical Practice Guidelines on the Medical Management of Moderate to Severe Luminal and Perianal Fistulizing Crohn's Disease (2021)]]
 5. [[aga-2023-biomarkers-cd|AGA Clinical Practice Guideline: Role of Biomarkers for the Management of Crohn's Disease (2023)]]
 6. [[acg-2018-crohns|ACG 2018: Management of Crohn's Disease in Adults (historical)]]
-7. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]
-8. [[asge-2015-ibd|ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (2015)]]
-9. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review (2026)]]
-10. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary (2026)]]
-11. [[aga-2024-intestinal-ultrasound|AGA Clinical Practice Update on the Role of Intestinal Ultrasound in Inflammatory Bowel Disease: Commentary (2024)]]
-12. [[aga-2024-diet-nutrition-ibd|AGA Clinical Practice Update on Diet and Nutritional Therapies in Patients With IBD: Expert Review (2024)]]
-13. [[aga-2024-ibd-malignancy|AGA Clinical Practice Update on Management of IBD in Patients With Malignancy: Commentary (2024)]]
-14. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review (2024)]]
-15. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
-16. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease: Expert Review]]
+7. [[asge-2015-ibd|ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (2015)]]
+8. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review (2026)]]
+9. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary (2026)]]
+10. [[aga-2024-intestinal-ultrasound|AGA Clinical Practice Update on the Role of Intestinal Ultrasound in Inflammatory Bowel Disease: Commentary (2024)]]
+11. [[aga-2024-diet-nutrition-ibd|AGA Clinical Practice Update on Diet and Nutritional Therapies in Patients With IBD: Expert Review (2024)]]
+12. [[aga-2024-ibd-malignancy|AGA Clinical Practice Update on Management of IBD in Patients With Malignancy: Commentary (2024)]]
+13. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review (2024)]]
+14. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
+15. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease: Expert Review]]

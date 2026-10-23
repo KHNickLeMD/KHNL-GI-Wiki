@@ -3,8 +3,8 @@ title: "G-POEM (Gastric Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [gastroparesis, poem, g-poem, pyloromyotomy, third-space-endoscopy, gcsi, gastric-emptying, pyloric-therapy]
 created: 2026-07-23
-updated: 2026-09-05
-sources: [aga-2025-gastroparesis, aga-2023-gpoem-gastroparesis]
+updated: 2026-10-22
+sources: [aga-2025-gastroparesis, aga-2023-gpoem-gastroparesis, aga-2021-medically-refractory-gastroparesis, acg-2022-gastroparesis]
 ---
 
 # G-POEM (Gastric Peroral Endoscopic Myotomy)
@@ -37,6 +37,8 @@ Gastric peroral endoscopic myotomy (G-POEM): endoscopic pyloromyotomy (peroral e
 1. Gastroparesis diagnosed on an **appropriately performed 4-hour gastric emptying study**, generally with **at least moderate delay — 20% retention at 4 hours with the Eggbeaters meal**.
 2. **At least 6–12 months of moderate symptoms**, with the cardinal symptoms of nausea, vomiting, and/or postprandial fullness.
 3. A **trial of other therapies** before G-POEM is considered.
+
+- **Setting** ([[aga-2021-medically-refractory-gastroparesis|AGA 2022 refractory CPU]] BPA 8): select refractory patients with **severe** emptying delay, at a center of excellence/tertiary center, with a team of motility specialists **and** advanced endoscopists experienced in refractory gastroparesis — *"G-POEM should not be considered first-line therapy."*
 
 Related AGA 2025 procedural positions: **gastric electrical stimulation** — suggests against routine use (Rec 12, Conditional, low); **surgical pyloromyotomy/pyloroplasty** — no recommendation, an explicit **knowledge gap** (Rec 11).
 
@@ -122,6 +124,8 @@ Related AGA 2025 procedural positions: **gastric electrical stimulation** — su
 - Single-center (n=97): 81.1% response at 3–6 mo but **loss of response 12.9%/year**.
 - Mexico City retrospective (n=374; 102 to 48 mo): **4-year success 77.5%**; diabetic gastroparesis had the best long-term outcomes / fewest recurrences.
 - A US sham-controlled trial (NCT04869670) in diabetic/idiopathic gastroparesis is planned.
+- **ACG 2022 pooled open-label data** (n=276, 14 studies): GE normalization 61.3% (95% CI 51.5%–70.8%); clinical improvement 88.2% (83.6%–93.1%); GCSI improvement maintained 90.2% at 1 mo, 83.3% at 3 mo, 70.3% at 6 mo, 52.4% at 12 mo, 57.1% at 18 mo; pooled adverse events 6.8%–12%, capnoperitoneum most common ([[acg-2022-gastroparesis]]).
+- ⚠ **Predictor conflict:** [[acg-2022-gastroparesis|ACG 2022]] lists **high preoperative 4-h retention as a predictor of failure**, whereas [[aga-2023-gpoem-gastroparesis]] reports 4-h retention >20% as an independent predictor of success.
 
 ## Adverse Events
 
@@ -158,3 +162,5 @@ Related AGA 2025 procedural positions: **gastric electrical stimulation** — su
 
 1. [[aga-2025-gastroparesis|AGA Clinical Practice Guideline on Management of Gastroparesis (2025)]]
 2. [[aga-2023-gpoem-gastroparesis|AGA 2023 Clinical Practice Update on Gastric Peroral Endoscopic Myotomy for Gastroparesis: Commentary]]
+3. [[aga-2021-medically-refractory-gastroparesis|AGA Clinical Practice Update on Management of Medically Refractory Gastroparesis: Expert Review]]
+4. [[acg-2022-gastroparesis|ACG 2022: Gastroparesis]]

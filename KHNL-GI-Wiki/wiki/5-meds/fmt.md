@@ -3,8 +3,8 @@ title: "Fecal Microbiota Transplantation (Fecal Microbiota-Based Therapies)"
 category: med
 tags: [fmt, microbiome, cdiff, recurrent-cdi]
 created: 2026-07-26
-updated: 2026-10-18
-sources: [aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd]
+updated: 2026-10-22
+sources: [aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, acg-2021-cdiff, feuerstadt-2022-ser109-cdiff]
 ---
 
 ## Overview
@@ -39,6 +39,8 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 
 **Mildly/moderately immunocompromised** = immunocompromised but **not** meeting the severe definition. In this group use **conventional FMT only** — there is insufficient evidence for the FDA-approved products (fecal microbiota live-jslm, fecal microbiota spores live-brpk) in any immunocompromised patient.
 
+- **AGA 2026 working triggers in recurrent CDI** ([[aga-2026-cdiff-adults]]): cytotoxic chemotherapy, recent stem cell transplant, absolute neutrophil count <500/µL, advanced or untreated HIV (CD4 <200/mm³). Severe immunocompromise is usually **transient** — **defer** microbiota therapy and continue suppressive vancomycin rather than abandon it.
+
 ## Administration (AGA 2024 implementation considerations)
 
 *Recurrent CDI (nonsevere, nonfulminant, outpatient):*
@@ -55,6 +57,10 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
   - **[[aga-2026-cdiff-adults|AGA 2026]] names the high-risk criteria that license earlier use** (after an initial infection or first recurrence): **age >65 years**, **immunocompromised**, or **resident of a skilled nursing facility**. Per product labeling, both FDA-approved products are approved to prevent CDI **regardless of the number of recurrences**.
   - [[aga-2026-cdiff-adults|AGA 2026]] gives the washout as **1–4 days** off antibacterial therapy before microbiota restoration, and specifies the bridge as suppressive oral vancomycin **at least 125 mg daily** until the therapy is approved and accessible.
 - Caution in patients needing frequent or long-term antibiotics — ongoing antibiotics may diminish efficacy.
+- **ACG 2021 delivery and repeat dosing** ([[acg-2021-cdiff]]): FMT for a second or further recurrence is a strong recommendation (moderate quality). Deliver by **colonoscopy or oral capsules** (both strong; equivalent — 96.2% vs 96.2% in one randomized trial); **enema** only if these are unavailable (conditional; lower efficacy in meta-analyses). Recurrence **within 8 weeks** of FMT → **repeat FMT** (conditional); most failures occur within 4 weeks, and <5% fail a second FMT. Before repeating, restart anti-CDI antibiotics to control symptoms; consider colonoscopic delivery if the first FMT was by enema or capsule.
+- **Guidelines differ — route.** [[aga-2024-fmt|AGA 2024]] finds insufficient evidence to recommend any route; [[acg-2021-cdiff|ACG 2021]] prefers colonoscopy or capsules over enema.
+- **VOS evidence — ECOSPOR III** ([[feuerstadt-2022-ser109-cdiff]]): purified *Firmicutes* spores, 4 capsules daily × 3 days after standard antibiotics resolve symptoms; 8-week recurrence **12% vs 40%** with placebo (relative risk 0.32, 95% CI 0.18–0.58), consistent across age and prior antibiotic (vancomycin or fidaxomicin); safety similar to placebo (mostly mild GI events). FDA-approved 2023.
+- **Pregnancy:** avoid FMT during pregnancy; defer to postpartum ([[acg-2021-cdiff]]).
 - Alternatives for patients who decline: [[cdiff-antibiotics|vancomycin taper or tapered-pulsed fidaxomicin]]. *(AGA 2024 also lists bezlotoxumab; [[aga-2026-cdiff-adults|AGA 2026]] reports it is **no longer commercially available**.)*
 
 *Severe/fulminant CDI not responding to antimicrobials:*
@@ -93,3 +99,5 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 1. [[aga-2024-fmt|AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024)]]
 2. [[aga-2026-cdiff-adults|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Adults: Expert Review (2026)]]
 3. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review (2026)]]
+4. [[acg-2021-cdiff|ACG 2021: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections]]
+5. [[feuerstadt-2022-ser109-cdiff|SER-109, an Oral Microbiome Therapy for Recurrent Clostridioides difficile Infection (ECOSPOR III)]]

@@ -65,6 +65,9 @@
     --blockquote-bg: #eef4ed;
     --stub-bg: #fbf2e3;
     --stub-border: #b5722a;
+    --pearl: #2f6b3f; --pearl-bg: #e8f1ea;
+    --pitfall: #a35f17; --pitfall-bg: #fbf2e3;
+    --howto: #2c5d8a; --howto-bg: #e9f0f7;
     --shadow: 0 1px 2px rgba(20,40,25,0.05), 0 1px 1px rgba(20,40,25,0.04);
     --shadow-md: 0 4px 14px rgba(20,40,25,0.08);
     --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
@@ -99,6 +102,9 @@
     --blockquote-bg: #122218;
     --stub-bg: #1c160a;
     --stub-border: #b5722a;
+    --pearl: #6fbf7b; --pearl-bg: #13261a;
+    --pitfall: #d99a4e; --pitfall-bg: #231a0c;
+    --howto: #7fb0de; --howto-bg: #0f1c28;
     --shadow: 0 1px 3px rgba(0,0,0,0.4);
     --shadow-md: 0 4px 14px rgba(0,0,0,0.5);
   }
@@ -1191,19 +1197,24 @@
   .page-meta-sep { width: 1px; height: 12px; background: var(--border); }
   .page-meta-byline { font-family: var(--font-serif); font-style: italic; color: var(--text-muted); }
 
-  /* Key-point callout (used in markdown via blockquote with class) */
-  .md-body .keypoint {
-    display: flex; gap: 14px; align-items: flex-start;
-    border-left: 3px solid var(--accent);
-    background: var(--accent-light);
-    padding: 12px 16px;
-    border-radius: 0 6px 6px 0;
-    margin: 0 0 18px;
+  /* Callouts — Obsidian syntax `> [!pearl] Title` (also pitfall, howto). See renderCallout. */
+  .md-body .callout {
+    --c: var(--pearl); --cbg: var(--pearl-bg);
+    border-left: 3px solid var(--c); background: var(--cbg);
+    border-radius: 0 8px 8px 0; padding: 11px 16px 12px; margin: 0 0 16px;
   }
-  .md-body .keypoint-label {
-    font-size: 10px; font-weight: 700; color: var(--accent);
-    letter-spacing: 0.06em; text-transform: uppercase; flex-shrink: 0; padding-top: 2px;
+  .md-body .callout.pitfall { --c: var(--pitfall); --cbg: var(--pitfall-bg); }
+  .md-body .callout.howto { --c: var(--howto); --cbg: var(--howto-bg); }
+  .md-body .callout-head { display: flex; align-items: baseline; gap: 10px; margin-bottom: 3px; }
+  .md-body .callout-tag {
+    font-size: 10.5px; font-weight: 700; letter-spacing: .07em; text-transform: uppercase;
+    color: var(--c); flex-shrink: 0; display: inline-flex; align-items: center; gap: 5px;
   }
+  .md-body .callout-tag svg { width: 13px; height: 13px; position: relative; top: 1px; }
+  .md-body .callout-title { font-weight: 600; color: var(--text); }
+  .md-body .callout-body > :last-child { margin-bottom: 0; }
+  .md-body .callout-body p { margin: 0 0 8px; }
+  .md-body .callout-body ul, .md-body .callout-body ol { margin: 4px 0 8px; }
 
   @media (max-width: 768px) {
     /* Use the same Obsidian-style panel button as desktop (not the ☰ hamburger). */
@@ -2944,6 +2955,13 @@ function renderMd(text) {
     if (hm) { html += `<h${hm[1].length}>${inlineRender(hm[2])}</h${hm[1].length}>\n`; i++; continue; }
     // HR
     if (line.match(/^---+\s*$/)) { html += '<hr>\n'; i++; continue; }
+    // Callout — `> [!type] Title`, body lines start with `>`
+    if (/^>\s*\[!\w+\]/.test(line)) {
+      const qLines = [line];
+      i++;
+      while (i < lines.length && lines[i].startsWith('>')) { qLines.push(lines[i]); i++; }
+      html += renderCallout(qLines); continue;
+    }
     // Blockquote
     if (line.startsWith('> ')) {
       const qLines = [];
@@ -3019,6 +3037,28 @@ function renderMd(text) {
     else { html += `<p>${inlineRender(line)}</p>\n`; i++; }
   }
   return html;
+}
+
+function renderCallout(qLines) {
+  // Obsidian aliases map onto the three styled kinds; anything else renders as a pearl.
+  const CALLOUT_KINDS = {
+    pearl: 'pearl', tip: 'pearl', hint: 'pearl', important: 'pearl', note: 'pearl', info: 'pearl',
+    pitfall: 'pitfall', warning: 'pitfall', caution: 'pitfall', danger: 'pitfall', attention: 'pitfall',
+    howto: 'howto', technique: 'howto', example: 'howto',
+  };
+  const CALLOUT_META = {
+    pearl: ['Pearl', '<path d="M6 12.5h4M6.5 14.5h3M8 1.5a4.5 4.5 0 0 0-2.6 8.2c.4.3.6.7.6 1.2v.6h4v-.6c0-.5.2-.9.6-1.2A4.5 4.5 0 0 0 8 1.5z"/>'],
+    pitfall: ['Pitfall', '<path d="M8 1.8 14.6 13.5H1.4z"/><path d="M8 6.2v3.3M8 11.6v.1"/>'],
+    howto: ['How to', '<path d="M3 4h10M3 8h10M3 12h6"/>'],
+  };
+  const m = qLines[0].match(/^>\s*\[!(\w+)\][-+]?\s*(.*)$/);
+  const kind = CALLOUT_KINDS[m[1].toLowerCase()] || 'pearl';
+  const [label, icon] = CALLOUT_META[kind];
+  const body = qLines.slice(1).map(l => l.replace(/^>\s?/, '')).join('\n');
+  const title = m[2].trim() ? `<span class="callout-title">${inlineRender(m[2].trim())}</span>` : '';
+  return `<div class="callout ${kind}"><div class="callout-head"><span class="callout-tag">` +
+    `<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">${icon}</svg>` +
+    `${label}</span>${title}</div><div class="callout-body">${renderMd(body)}</div></div>\n`;
 }
 
 function renderTable(lines) {

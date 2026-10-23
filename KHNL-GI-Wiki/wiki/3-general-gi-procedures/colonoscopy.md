@@ -1,30 +1,25 @@
 ---
 title: "Colonoscopy"
 category: general-procedure
-tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
+tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, cecal-intubation, withdrawal-time, technique]
 created: 2026-05-07
-updated: 2026-10-21
-sources: [asge-2023-ergonomics, aga-2021-colonoscopy-quality, usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia, aga-2021-gi-perforations-endoscopic-management]
+updated: 2026-10-22
+sources: [aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, asge-2023-ergonomics, aga-2021-gi-perforations-endoscopic-management, aga-2025-cade-colonoscopy, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia]
 ---
 
 # Colonoscopy
 
 ## Contents
 - [[#Indications]]
-  - [[#Chromoendoscopy Technique for IBD Surveillance]]
-- [[#Quality Metrics]]
-  - [[#Artificial Intelligence (CADe / CADx)]]
-- [[#CRC Screening — When to Start and Stop]]
-- [[#Post-Polypectomy Surveillance]]
-- [[#Polypectomy — Quick Reference]]
+- [[#Before the Procedure]]
+  - [[#Bowel Preparation]]
+- [[#Technique]]
+  - [[#Setup]]
+  - [[#Insertion and Cecal Intubation]]
+  - [[#Withdrawal and Inspection]]
+  - [[#Lesions Found on the Way Out]]
+- [[#Quality Targets]]
 - [[#Complications]]
-- [[#Bowel Preparation]]
-- [[#Post-CRC Resection Surveillance]]
-  - [[#Perioperative Clearing]]
-  - [[#Post-Resection Colonoscopy Schedule]]
-  - [[#Rectal Cancer Additional Local Surveillance (High-Risk Patients)]]
-  - [[#Fecal Testing Post-Resection]]
-  - [[#Serrated Polyposis Syndrome (SPS) Consideration]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -32,214 +27,129 @@ sources: [asge-2023-ergonomics, aga-2021-colonoscopy-quality, usmstf-2020-follow
 
 ## Indications
 
-- [[colorectal-cancer-screening|Colorectal cancer (CRC) screening]] (average risk: start at 45–50)
-- Positive non-colonoscopy screening test (fecal immunochemical test [FIT], Cologuard, fecal occult blood test [FOBT], flexible sig)
-- Surveillance after prior polypectomy or [[colorectal-cancer|CRC]] resection
-- Workup of symptoms (rectal bleeding, [[iron-deficiency-anemia|iron-deficiency anemia (IDA)]], change in bowel habits, weight loss)
-- [[inflammatory-bowel-disease|Inflammatory bowel disease (IBD)]] surveillance — perform with high-definition + dye-spray chromoendoscopy per [[asge-2015-scenic-ibd-dysplasia|SCENIC]]; describe lesions as visible (polypoid/nonpolypoid) vs invisible dysplasia. *Who to survey and how often: [[ulcerative-colitis]] / [[crohns-disease]]. Technique below.*
-- **Therapeutic endoscopy in IBD** — endoscopic balloon dilation of symptomatic benign strictures, fistula endotherapy, and resection of visible dysplasia. Selection criteria, target balloon diameter, and periprocedural drug holds live on [[crohns-disease#Endoscopic Stricture Dilation|crohns-disease]]. [[aga-2026-therapeutic-endoscopy-ibd]]
+- [[colorectal-cancer-screening|Colorectal cancer (CRC) screening]] — who, when to start and stop, and the alternatives live there.
+- Positive noninvasive screening test — [[colorectal-cancer-screening#Screening Modalities|fecal immunochemical test (FIT), multitarget stool DNA, computed tomography (CT) colonography]].
+- Surveillance after polypectomy ([[colonoscopy-surveillance]]) or after CRC resection ([[colorectal-cancer#Post-Resection Surveillance|colorectal-cancer]]).
+- Symptoms: rectal bleeding, [[iron-deficiency-anemia|iron-deficiency anemia]], change in bowel habit, weight loss.
+- [[inflammatory-bowel-disease|Inflammatory bowel disease (IBD)]] dysplasia surveillance — who, how often, and chromoendoscopy technique on [[ulcerative-colitis]] / [[crohns-disease]].
+- Therapeutic endoscopy in IBD — stricture dilation, fistula endotherapy, resection of visible dysplasia → [[crohns-disease#Endoscopic Stricture Dilation|crohns-disease]] ([[aga-2026-therapeutic-endoscopy-ibd]]).
 
-### Chromoendoscopy Technique for IBD Surveillance
+---
 
-*[[aga-2021-ibd-colorectal-dysplasia|American Gastroenterological Association (AGA) 2021]] — ungraded Best Practice Advice.*
+## Before the Procedure
 
-**Dye-spray chromoendoscopy (DCE) — the concentrations:**
+- **Sedation and fasting:** [[endoscopy-sedation]].
+- **[[glp-1-receptor-agonists|Glucagon-like peptide-1 receptor agonists (GLP-1 RAs)]]:** no routine hold; a clear/liquid diet the day before is preferred to stopping the drug ([[aga-2024-glp1-endoscopy]]) — detail on [[endoscopy-sedation#GLP-1 Receptor Agonists Before Endoscopy|endoscopy-sedation]].
+- **Antithrombotics:** [[anticoagulation-gi-bleeding]]. **Antibiotic prophylaxis:** [[antibiotic-prophylaxis-endoscopy]].
 
-| Purpose | Indigo carmine (contrast) | Methylene blue (absorptive) |
+### Bowel Preparation
+
+Regimens, timing, salvage, and repeat intervals: [[bowel-preparation]]. The two rules that shape the exam:
+
+- **Split dose**; second portion starts **4–6 h before** and finishes **≥2 h before** the procedure ([[usmstf-2025-bowel-prep]]).
+- **Inadequate screening/surveillance exam → repeat within 12 months**; after an abnormal stool test, generally within 3 months ([[usmstf-2025-bowel-prep]]) — adequacy cut-points on [[bowel-preparation#Adequacy Cut-Points and Wording|bowel-preparation]].
+
+---
+
+## Technique
+
+### Setup
+
+> [!howto] Set up the room before the first case
+> 1. Monitor **directly in front**, just below eye level — viewing angle **15–25° below horizontal**.
+> 2. Bed at **neutral height**: between elbow height and **10 cm below** it.
+> 3. Neutral neck and back, weight even on both legs, knees not locked.
+> 4. **Microbreaks** (30 s–2 min) through the list. ([[asge-2023-ergonomics]]; injury data on [[endoscopy-ergonomics]])
+
+- **High-definition (HD) colonoscope** for screening and surveillance — modest but definite gain in adenoma, serrated, and advanced-adenoma detection ([[aga-2021-colonoscopy-quality]]).
+- **CO₂ insufflation** for all endoscopic procedures where available ([[aga-2021-gi-perforations-endoscopic-management]]).
+
+### Insertion and Cecal Intubation
+
+- **Patient doubts the prep** (incomplete intake, dark effluent) → **insert to the sigmoid to confirm** inadequacy before aborting (weak, low) ([[usmstf-2025-bowel-prep]]).
+- **Wash and suction as you go**; irrigation pump suggested (weak, very low). Grade the prep only **after** all washing and suctioning ([[usmstf-2025-bowel-prep]]).
+- **Water exchange** — instil and suction water during insertion, no air or CO₂ — improves adenoma detection rate (ADR), likely through better cleansing ([[aga-2021-colonoscopy-quality]]).
+- **Struggling to reach the cecum:** loop reduction, CO₂, variable-stiffness scope (limited evidence) ([[aga-2021-colonoscopy-quality]]). Failure should be rare except with inadequate prep or an obstructing lesion.
+- **Cecal intubation = tip passed into the caput.** Photograph the **appendiceal orifice and ileocecal valve** (terminal ileum if intubated) ([[acg-2021-crc-screening]], [[aga-2021-colonoscopy-quality]]).
+
+> [!pitfall] Don't push through resistance in the sigmoid
+> The sigmoid accounts for **63.8% of 744 colon perforations**, from direct trauma during **forceful scope advancement** ([[aga-2021-gi-perforations-endoscopic-management]]).
+
+> [!pearl] Most "inadequate" preps can be rescued on the table
+> **75%** of preps rated poor or fair at insertion became good or excellent with concerted washing and suctioning ([[usmstf-2025-bowel-prep]]).
+
+### Withdrawal and Inspection
+
+- **Withdrawal time ≥6 min** (cecum → out, normal exam; aspirational ≥9) ([[aga-2021-colonoscopy-quality]]).
+- Time is a surrogate — what raises ADR is **looking behind folds, cleaning the colon, and recognizing subtle lesions** ([[aga-2021-colonoscopy-quality]]).
+- **Detection aids:** narrow-band imaging (NBI) on withdrawal (helps with flat lesions); distal-tip attachments (modest ADR gain) ([[aga-2021-colonoscopy-quality]]). Computer-aided detection (CADe): no recommendation for or against ([[aga-2025-cade-colonoscopy]]) → [[artificial-intelligence-endoscopy]].
+- **IBD surveillance:** HD scope with dye-spray or virtual chromoendoscopy ([[aga-2021-ibd-colorectal-dysplasia]]) — dyes, concentrations, and biopsy protocol on [[ulcerative-colitis]].
+
+> [!howto] Second look at the right colon (+5%–20% ADR)
+> 1. Insert to the base of the cecum.
+> 2. Withdraw to the **hepatic flexure**, inspecting and removing polyps.
+> 3. **Reintubate the cecum** and re-examine the proximal colon — **forward or retroflexed view** (equally effective).
+> The right colon is where cancers and polyps (flat, serrated) are most often missed ([[aga-2021-colonoscopy-quality]]).
+
+### Lesions Found on the Way Out
+
+- **Nonpedunculated 3–9 mm → cold snare** with a small rim of normal tissue; avoid forceps for polyps >2 mm ([[aga-2021-colonoscopy-quality]]). Method by size and type: [[polypectomy#Resection by Lesion Size and Type|polypectomy]].
+- **Large or complex polyp** without overt malignant features → offer endoscopic resection by an expert ([[aga-2021-colonoscopy-quality]]); tattoo placement on [[polypectomy#Lesion Marking / Tattoo|polypectomy]].
+- **Report:** indication, extent, prep quality, findings/interventions, follow-up plan **with rationale if the interval deviates** from guidelines, antithrombotic resumption → [[colonoscopy-quality-indicators#Documentation|colonoscopy-quality-indicators]].
+
+> [!pitfall] Don't sabotage the expert's resection
+> For a nonmalignant lesion you won't remove: **no partial removal, no tattoo underneath, no multiple biopsies** — each causes fibrosis that makes later endoscopic resection hard ([[aga-2021-colonoscopy-quality]]).
+
+---
+
+## Quality Targets
+
+Individual-endoscopist goals ([[aga-2021-colonoscopy-quality|American Gastroenterological Association (AGA) 2021]], ungraded); measurement, denominators, and remediation on [[colonoscopy-quality-indicators]].
+
+| Metric | Goal | Aspirational |
 |---|---|---|
-| **Panmucosal** application on withdrawal | **0.03%–0.1%** | **0.04%–0.1%** |
-| **More concentrated**, to define a suspicious lesion's border and topography | **0.13%** | **0.2%** |
+| Cecal intubation | ≥90% | ≥95% |
+| Mean withdrawal time (normal exams) | ≥6 min | ≥9 min |
+| ADR | ≥30% | ≥35% |
+| Serrated lesion detection rate | ≥7% | ≥10% |
+| Adequate bowel prep (unit level) | ≥90% | ≥95% |
+| Post-polypectomy bleeding | ≤1 per 100 colonoscopies ([[usmstf-2020-endoscopic-removal]]) | — |
 
-- Apply **liberally over the entire colonic mucosal surface during withdrawal**, via spray catheter or waterjet.
-- **Yield:** ~**2×** the dysplasia yield of standard-definition white-light endoscopy (WLE); **1.6×** that of high-definition (HD)-WLE (meta-analysis of 4 randomized controlled trials [RCTs]). Consider DCE in **all** patients with colonic IBD under surveillance, **particularly** with a standard-definition scope or a history of dysplasia.
-- ⚠ **No study has evaluated DCE's impact on long-term CRC risk or CRC-related death.**
-
-**Virtual chromoendoscopy (VCE)** — narrow-band imaging (NBI) (Olympus), i-scan (Pentax), Fuji intelligent color enhancement:
-
-- **A suitable alternative to DCE when using an HD endoscope.** Meta-analysis of **11 RCTs**: VCE performed **similarly** to DCE and HD-WLE for per-patient dysplasia detection, with **shorter withdrawal times**. Network meta-analyses find **no single technique statistically superior**, though with a trend favoring DCE.
-- ⚠ **Societies still disagree**, and the clinical practice update (CPU) does not pick a winner: the **American Society for Gastrointestinal Endoscopy (ASGE)** endorses **nontargeted biopsies** as the alternative to DCE when DCE expertise is unavailable or the mucosa is poorly visualized (significant inflammation, pseudopolyposis, poor prep); the **American College of Gastroenterology (ACG) and European Society of Gastrointestinal Endoscopy (ESGE)** endorse **VCE** as the alternative to DCE.
-- **When nontargeted biopsies are still required, and the ~4-biopsies-every-10-cm protocol:** see [[ulcerative-colitis]].
-- **Do not use DCE to hunt for flat lesions within a field of pseudopolyps.**
-
----
-
-## Quality Metrics
-
-All surveillance recommendations assume high-quality examination. [[usmstf-2020-followup-colonoscopy]]
-
-**The full indicator set — goals, aspirational targets, the level each is measured at, the adenoma detection rate (ADR)/serrated detection rate (SDR) denominators, and the remediation ladder — lives on [[colonoscopy-quality-indicators]].** Headline benchmarks ([[aga-2021-colonoscopy-quality|AGA 2021]], ungraded): **ADR ≥30%** (aspirational ≥35%), **serrated lesion detection rate ≥7%** (≥10%), **cecal intubation ≥90%** (≥95%), **mean withdrawal time ≥6 min** in normal exams (≥9 min), **bowel prep adequacy ≥90%** (≥95%). ⚠ These differ from the sex-specific **ADR ≥30% men / ≥20% women** ([[usmstf-2020-followup-colonoscopy]]) and the **overall ADR >25%** of [[usmstf-2015-crc-surveillance]] / [[usmstf-2021-crc-screening-age]]; the comparison table naming which applies where is on [[colonoscopy-quality-indicators]].
-
-Procedure-level items that belong to this page:
-
-- **Adequate bowel prep:** able to visualize polyps >5mm; **target ≥90%** at endoscopist and unit level [[usmstf-2025-bowel-prep]]. Segment-level adequacy cutoff: see [[bowel-preparation#Preparation Quality Scales|bowel-preparation]].
-- **Photodocument the cecal landmarks** — appendiceal orifice and ileocecal valve (or terminal ileum) — in the report. [[aga-2021-colonoscopy-quality]]
-- **Second look of the right colon**, retroflexed or forward view (equally effective): withdraw to the hepatic flexure inspecting and clearing polyps, then reintubate the cecum and re-examine the proximal colon — increases ADR by **5%–20%**. [[aga-2021-colonoscopy-quality]]
-- **High-definition colonoscopes** for screening and surveillance — definite but modest gains in adenoma, serrated polyp, and advanced adenoma detection. [[aga-2021-colonoscopy-quality]]
-- **Post-polypectomy bleeding rate:** **≤1 per 100 colonoscopies** — see [[#Complications]].
-- **Complete polypectomy:** all visually detected polypoid tissue removed. ⚠ [[aga-2021-colonoscopy-quality|AGA 2021]] sets no numeric target rate for this indicator.
-- Document polyp size ≥10mm with comparison to open snare/forceps of known size
-- **Report contents** — indication, extent of examination, prep quality, findings and interventions, follow-up plan **with its rationale whenever the assigned interval deviates from guidelines** (eg, inadequate prep, incomplete resection); resumption of anticoagulants/antiplatelets; pathology and interval communicated to the patient and primary care provider. Full colonoscopy reporting and data system (CO-RADS) element list: [[colonoscopy-quality-indicators#Documentation|colonoscopy-quality-indicators]]. [[aga-2021-colonoscopy-quality]]
-
-### Artificial Intelligence (CADe / CADx)
-
-See [[artificial-intelligence-endoscopy]] for the full framework.
-
-- **CADe (computer-aided detection):** raises ADR/adenomas per colonoscopy (APC) in RCT meta-analyses (ADR relative risk [RR] 1.43), but real-world/pragmatic data are inconsistent, and the [[aga-2025-cade-colonoscopy|AGA 2025 living guideline]] makes **no recommendation for or against** routine use (very low certainty). Gains are mostly small non-advanced adenomas → added polypectomy/surveillance burden. [[aga-2023-ai-colon-polyp]]
-- **CADx (optical diagnosis):** may enable resect-and-discard / diagnose-and-leave for diminutive polyps if it meets the ASGE Preservation and Incorporation of Valuable Endoscopic Innovations (PIVI) thresholds (≥90% negative predictive value [NPV] for adenoma in rectosigmoid hyperplastic polyps [HPs] <5 mm; >90% surveillance-interval agreement). Not yet standard of care.
-
----
-
-## CRC Screening — When to Start and Stop
-
-[[usmstf-2021-crc-screening-age]]
-
-| Age | Recommendation | Strength |
-|---|---|---|
-| 45–49, average risk | Suggest offering CRC screening | Weak / low |
-| ≥50, not yet screened | Recommend offering CRC screening | Strong / high |
-| 75, up-to-date with negative prior screens | Consider stopping **at age 75 or when life expectancy is <10 years** | Weak / low |
-| 76–85, **no prior screening** | Consider **screening up to age 85**, depending on age and comorbidities | Weak / low |
-| >85 | Screening not recommended | Ungraded summary statement |
-
-**Average risk** = no personal or family history of CRC or colorectal neoplasia and no clinical features of CRC (e.g., gastrointestinal bleeding, iron deficiency anemia, abnormal imaging); IBD and hereditary syndromes are outside this guidance
-
-**Preferred tests (Tier 1)** — strong recommendation, moderate-quality evidence:
-
-- Colonoscopy every 10 years
-- Annual FIT
-
-**Alternatives for people who decline colonoscopy and FIT:**
-
-- Flexible sigmoidoscopy q5–10y (strong, high-quality)
-- Computed tomography (CT) colonography (CTC) q5y (strong, low-quality)
-- FIT–fecal DNA (Cologuard) q3y (strong, low-quality)
-- **[[capsule-endoscopy|Capsule colonoscopy]] q5y**, if available, only when all of the above are declined (weak recommendation, low-quality evidence)
-
----
-
-## Post-Polypectomy Surveillance
-
-**The full US Multi-Society Task Force (USMSTF) 2020 interval grids — adenomas, serrated polyps, and serial (second) surveillance — live on [[colonoscopy-surveillance]].** [[usmstf-2020-followup-colonoscopy]]
-
-Two prerequisites that belong to the *procedure* rather than the interval table:
-
-- All intervals assume a **high-quality colonoscopy with complete polypectomy** — see [[#Quality Metrics]]. A low-quality exam warrants earlier repeat, not the published interval.
-- The grid does **not** apply to: IBD, hereditary syndromes ([[lynch-syndrome|Lynch]], [[familial-adenomatous-polyposis|familial adenomatous polyposis (FAP)]]), personal history of CRC (see [[#Post-CRC Resection Surveillance]]), [[serrated-polyposis-syndrome|serrated polyposis syndrome (SPS)]], or a malignant polyp (see [[polypectomy]]).
-
----
-
-## Polypectomy — Quick Reference
-
-For detailed technique, see [[polypectomy]].
-
-| Lesion | Method |
-|---|---|
-| ≤5mm | Cold snare (CSP) — preferred; NOT cold forceps |
-| 6–9mm | Cold snare |
-| 10–19mm non-pedunculated | Cold or hot snare ± injection; [[endoscopic-mucosal-resection\|endoscopic mucosal resection (EMR)]] for non-polypoid/serrated |
-| ≥20mm non-pedunculated | EMR — experienced endoscopist required |
-| Pedunculated ≥10mm | Hot snare |
-| Pedunculated (head ≥20mm or stalk ≥5mm) | Prophylactic loop/clips before hot snare |
-
-[[usmstf-2020-endoscopic-removal]]
+- Other documents set different ADR floors (≥30% men / ≥20% women; >25% overall) — which applies where: [[colonoscopy-quality-indicators#Where the Benchmarks Differ Between Documents|colonoscopy-quality-indicators]].
+- **Surveillance intervals assume a high-quality exam** — complete to cecum, adequate prep, adequate ADR, complete polyp excision ([[usmstf-2020-followup-colonoscopy]]); grids on [[colonoscopy-surveillance]].
 
 ---
 
 ## Complications
 
-- **Perforation:** **0.08% (95% confidence interval [CI] 0.06–0.1)** from polypectomy overall — rare but the most serious complication; **1.5% (95% CI 1.2–1.7)** for endoscopic resection of **≥20 mm** lesions (meta-analysis, 50 studies, 6779 lesions). Right colon highest risk with EMR/[[colorectal-esd|endoscopic submucosal dissection (ESD)]]. [[usmstf-2020-endoscopic-removal]]
-  - **Where it happens:** in *diagnostic* colonoscopy the dominant site is the **sigmoid — 63.8% of 744 colon perforations** — from **direct trauma on forceful scope advancement**; cecum 10%, transverse 9%, rectum 7%. [[aga-2021-gi-perforations-endoscopic-management]]
-  - **Closure at the time of the exam:** a recognized tear in a **stable** patient with a **clean** site → attempt closure. **Through-the-scope clips (TTSC) or over-the-scope clips (OTSC)** if the prep is good and the patient stable — ⚠ but **the cecum and right colon are limited to TTSC**, because a tortuous or unclean colon may make it impossible to reach the defect with an OTSC or a suturing device. **Full closure algorithm, device-by-size table, and the two absolute surgical indications: [[endoscopic-management-of-perforation]].**
-  - **Five-step EMR technique to avoid it:** viscous submucosal injectate (not saline); consider partially reopening and closing the snare before resection to let the muscularis propria drop back; **inspect the resection base for the target sign**; close muscularis propria injury early; consider [[endoscopic-full-thickness-resection|full-thickness resection]] when the polyp will not lift. [[aga-2021-gi-perforations-endoscopic-management]]
-- **Post-polypectomy bleeding:** pooled **9.8 per 1000 colonoscopies (95% CI 7.7–12.1)**; immediate or delayed (up to 30d); risk higher with large lesions, right colon, [[anticoagulation-gi-bleeding|antithrombotics]]. **Benchmark: post-polypectomy bleeding rate should be ≤1 per 100 colonoscopies** (ASGE/ACG Task Force on Quality in Endoscopy, as cited by [[usmstf-2020-endoscopic-removal]]). Device selection for treating it is on [[endoscopic-hemostasis]].
-- **Coagulation syndrome (post-polypectomy syndrome):** fever, localized pain without free air — manage conservatively
-- **Inadequate prep:** document; consider same-day or next-day repeat if unable to visualize >5mm polyps
-- **Operator injury (endoscopist, not patient):** procedure volume and hours drive [[endoscopy-ergonomics|endoscopy-related injury (ERI)]] — **>20 endoscopies/week** and **>16 endoscopy hours/week** are independent risk factors, and small-handed endoscopists had longer colonoscope insertion times (9.4 vs 8.2 min) and more injury sites. Neutral monitor and bed height, microbreaks, and ergonomics education are the countermeasures. [[asge-2023-ergonomics]]
-
----
-
-## Bowel Preparation
-
-**Full regimens, dosing and timing, quality scales, salvage and repeat intervals: [[bowel-preparation]].** In brief:
-
-- **Split-dose for everyone**; second portion begins **4-6 hr before** the colonoscopy and is finished **at least 2 hr before** the start.
-- **No purgative is superior** for adequacy in low-risk ambulatory patients; **2 L is suggested over 4 L** on tolerability. A **prior inadequate preparation is the exception** - there, 4 L wins.
-- **Adequate = Boston Bowel Preparation Scale (BBPS) segment score of 2 or 3 in every segment**, graded only after all washing and suctioning.
-- **Inadequate screening or surveillance examination -> repeat within 12 months**; sooner if the indication was an abnormal stool test or alarm symptoms.
-
-## Post-CRC Resection Surveillance
-
-[[usmstf-2015-crc-surveillance]]
-
-> Applies to patients after curative-intent resection of colon or rectal cancer (TNM stages I–III, plus selected resected stage IV). The intervals do NOT apply to Lynch syndrome; SPS needs more frequent colonoscopy (below). Studies in hereditary syndromes, IBD, and prior CRC were excluded from the evidence review.
-
-A "high-quality" colonoscopy in this context requires: **cecum or anastomosis reached, adequate bowel preparation, and meticulous examination by an appropriately trained operator meeting adenoma-detection benchmarks — i.e. conventional ADR >25% in average-risk screening colonoscopies** ([[usmstf-2015-crc-surveillance]]; [[usmstf-2021-crc-screening-age]] likewise uses "a colonoscopist with a ≥25% overall adenoma detection rate"). All surveillance intervals assume high-quality examinations. ⚠ This **>25% overall** figure and the **sex-specific 30%/20%** thresholds in [[#Quality Metrics]] come from different documents and are not reconciled by either.
-
-### Perioperative Clearing
-
-| Situation | Action | Strength |
+| Event | Rate | Notes |
 |---|---|---|
-| Preoperative colonoscopy feasible | Perform before surgery | Strong/Low |
-| Obstructive CRC (incomplete colonoscopy) | Defer clearing colonoscopy to **3–6 months postoperatively** | Strong/Low |
-| Obstructive CRC, colonoscopy not feasible preoperatively | **CTC** is best alternative; double-contrast barium enema if CTC unavailable | Strong/Moderate |
-| After CTC used perioperatively | Use **colonoscopy** (not CTC) for first postoperative exam — CTC misses flat/diminutive/serrated lesions | — |
+| Perforation, colonoscopy | 0.06% delayed, after routine colonoscopy ([[aga-2021-colonoscopy-quality]]); 4 per 10,000 overall ([[acg-2021-crc-screening]]) | Sigmoid is the usual site (see pitfall above); higher with polypectomy and older age |
+| Perforation, polypectomy | **0.08%** (95% confidence interval [CI] 0.06–0.1); **1.5%** (95% CI 1.2–1.7) for resection of **≥20 mm** lesions | Right colon highest with [[endoscopic-mucosal-resection\|endoscopic mucosal resection (EMR)]]/[[colorectal-esd\|endoscopic submucosal dissection (ESD)]] ([[usmstf-2020-endoscopic-removal]]) |
+| Bleeding, colonoscopy | 0.24% delayed, after routine colonoscopy ([[aga-2021-colonoscopy-quality]]); 8 per 10,000 overall ([[acg-2021-crc-screening]]) | Higher with polypectomy and older age |
+| Post-polypectomy bleeding | **9.8 per 1000** colonoscopies (95% CI 7.7–12.1); immediate or delayed up to 30 d | ↑ large lesions, right colon, [[anticoagulation-gi-bleeding\|antithrombotics]] ([[usmstf-2020-endoscopic-removal]]); treatment on [[endoscopic-hemostasis]] |
+| Splenic rupture / adjacent organ injury | Named among the most serious adverse events | [[aga-2021-colonoscopy-quality]] |
 
-### Post-Resection Colonoscopy Schedule
-
-| Examination | Timing | Strength |
-|---|---|---|
-| Perioperative clearing | Preoperatively, or 3–6 months post-op (obstructive CRC) | Strong/Low |
-| 1st surveillance | **1 year** after surgery (or 1 year after perioperative clearing colonoscopy) | Strong/Low |
-| 2nd surveillance | **3 years** after 1st surveillance (= 4 years from surgery) | Strong/Low |
-| 3rd surveillance | **5 years** after 2nd surveillance (= 9 years from surgery) | Strong/Low |
-| Subsequent | **Every 5 years** until benefit outweighed by diminished life expectancy | Strong/Low |
-
-- If neoplastic polyps found at any exam: shorten interval per the post-polypectomy grids on [[colonoscopy-surveillance]]
-- [[lynch-syndrome|Lynch syndrome]]: these intervals do NOT apply — see [[lynch-syndrome]] for gene-specific schedules
-- Cumulative metachronous CRC risk ~0.3–0.35%/year, lifelong; ~30% of metachronous cancers occur within 2 years of surgery
-
-### Rectal Cancer Additional Local Surveillance (High-Risk Patients)
-
-**Weak recommendation, low-quality evidence**
-
-High-risk = any of: surgery without total mesorectal excision (TME); transanal local excision (transanal excision [TAE] or transanal endoscopic microsurgery [TEM]); [[endoscopic-submucosal-dissection|ESD]] for rectal cancer; locally advanced rectal cancer without neoadjuvant chemoradiation + TME.
-
-- **Flexible sigmoidoscopy or [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] every 3–6 months for the first 2–3 years after surgery**, in addition to standard colonoscopic surveillance
-- EUS detects extraluminal recurrence before intraluminal findings; ~10% of rectal recurrences diagnosed by EUS only
-- Multidisciplinary collaboration required (GI, colorectal surgery, oncology)
-
-### Fecal Testing Post-Resection
-
-- **Insufficient evidence** to recommend routine FIT or fecal DNA for surveillance after CRC resection (ungraded statement)
-
-### Serrated Polyposis Syndrome (SPS) Consideration
-
-- SPS is described as the most common polyp syndrome; usually recognized at the colonoscopy that diagnoses CRC or during post-resection surveillance
-- SPS needs more frequent colonoscopy than the schedule above → consider SPS when serrated lesions are multiple and/or large
+- **Recognized perforation:** stable patient, clean site → close it at the exam; **cecum and right colon → through-the-scope clips only** (an over-the-scope clip or suturing device may not reach) ([[aga-2021-gi-perforations-endoscopic-management]]). Algorithm, device-by-size table, and EMR perforation-prevention steps: [[endoscopic-management-of-perforation]].
 
 ---
 
 ## See Also
 
-[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-quality-indicators]], [[colonoscopy-surveillance]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[artificial-intelligence-endoscopy]], [[endoscopy-sedation]], [[endoscopic-ultrasound]], [[anticoagulation-gi-bleeding]], [[endoscopic-hemostasis]], [[capsule-endoscopy]], [[iron-deficiency-anemia]], [[endoscopic-management-of-perforation]], [[endoscopic-full-thickness-resection]], [[endoscope-reprocessing]], [[endoscopy-ergonomics]]
+[[colorectal-cancer-screening]], [[colorectal-cancer]], [[colonoscopy-quality-indicators]], [[colonoscopy-surveillance]], [[polypectomy]], [[bowel-preparation]], [[endoscopy-sedation]], [[artificial-intelligence-endoscopy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-management-of-perforation]], [[endoscopic-hemostasis]], [[anticoagulation-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[endoscopy-ergonomics]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[iron-deficiency-anemia]], [[capsule-endoscopy]], [[endoscope-reprocessing]]
 
 ---
 
 ## Sources
 
-1. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]
-2. [[usmstf-2021-crc-screening-age|USMSTF 2021: Updates on Age to Start and Stop CRC Screening]]
-3. [[usmstf-2020-endoscopic-removal|USMSTF 2020: Endoscopic Removal of Colorectal Lesions]]
-4. [[usmstf-2025-bowel-prep|USMSTF 2025: Optimizing Bowel Preparation Quality for Colonoscopy]]
-5. [[acg-2014-bowel-cleansing|Optimizing Adequacy of Bowel Cleansing for Colonoscopy: Recommendations from the US Multi-Society Task Force on Colorectal Cancer (2014)]]
-6. [[asge-2015-bowel-preparation|ASGE 2015: Bowel Preparation Before Colonoscopy]]
-7. [[usmstf-2015-crc-surveillance|USMSTF 2015: Colonoscopy Surveillance after Colorectal Cancer Resection]]
+1. [[aga-2021-colonoscopy-quality|AGA Clinical Practice Update on Strategies to Improve Quality of Screening and Surveillance Colonoscopy: Expert Review (2021)]]
+2. [[acg-2021-crc-screening|ACG 2021 Colorectal Cancer Screening Guidelines]]
+3. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]
+4. [[usmstf-2020-endoscopic-removal|USMSTF 2020: Endoscopic Removal of Colorectal Lesions]]
+5. [[usmstf-2025-bowel-prep|USMSTF 2025: Optimizing Bowel Preparation Quality for Colonoscopy]]
+6. [[asge-2023-ergonomics|ASGE Guideline on the Role of Ergonomics for Prevention of Endoscopy-Related Injury: Summary and Recommendations (2023)]]
+7. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review (2021)]]
 8. [[aga-2025-cade-colonoscopy|AGA Living Guideline: Computer-Aided Detection (CADe)-Assisted Colonoscopy (2025)]]
-9. [[aga-2023-ai-colon-polyp|AGA Clinical Practice Update on the Role of Artificial Intelligence in Colon Polyp Diagnosis and Management: Commentary]]
-10. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in Inflammatory Bowel Disease (2015)]]
-11. [[aga-2024-glp1-endoscopy|AGA Rapid Clinical Practice Update on the Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy: Communication (2024)]]
-12. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary]]
-13. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
-14. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review (2021)]]
-15. [[aga-2021-colonoscopy-quality|AGA Clinical Practice Update on Strategies to Improve Quality of Screening and Surveillance Colonoscopy: Expert Review (2021)]]
-16. [[asge-2023-ergonomics|ASGE Guideline on the Role of Ergonomics for Prevention of Endoscopy-Related Injury: Summary and Recommendations (2023)]]
+9. [[aga-2024-glp1-endoscopy|AGA Rapid Clinical Practice Update on the Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy: Communication (2024)]]
+10. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary]]
+11. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]

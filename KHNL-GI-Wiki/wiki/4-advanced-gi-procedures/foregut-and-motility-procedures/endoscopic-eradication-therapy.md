@@ -3,8 +3,8 @@ title: "Endoscopic Eradication Therapy (EET)"
 category: advanced-procedure
 tags: [barretts-esophagus, eet, rfa, emr, esd, cryotherapy, dysplasia, esophageal-adenocarcinoma, foregut]
 created: 2026-06-04
-updated: 2026-09-20
-sources: [asge-2018-barretts-eet, aga-2024-barretts-eet, acg-2022-barretts, asge-2019-barretts-screening-surveillance, aga-2025-barretts-surveillance, aga-2020-endoscopic-treatment-barretts-dysplasia, aga-2020-post-endoscopy-esophageal-adenocarcinoma, aga-2016-low-grade-dysplasia-barretts]
+updated: 2026-10-22
+sources: [asge-2018-barretts-eet, aga-2024-barretts-eet, acg-2022-barretts, asge-2019-barretts-screening-surveillance, aga-2025-barretts-surveillance, aga-2020-endoscopic-treatment-barretts-dysplasia, aga-2020-post-endoscopy-esophageal-adenocarcinoma, aga-2016-low-grade-dysplasia-barretts, asge-2023-esd]
 ---
 
 Endoscopic eradication therapy (EET) is the minimally invasive, organ-sparing treatment for dysplastic [[barretts-esophagus|Barrett's esophagus]] and early esophageal neoplasia. It combines **endoscopic resection of visible lesions** with **ablation of the remaining flat Barrett's segment**, and has largely replaced esophagectomy for high-grade dysplasia (HGD) and intramucosal carcinoma (IMC/T1a esophageal adenocarcinoma [EAC]). The defining endpoint is **complete eradication of intestinal metaplasia (CE-IM)** — no endoscopically visible Barrett's esophagus (BE) and no intestinal metaplasia (IM) on surveillance biopsies.
@@ -52,6 +52,9 @@ EET is sequential: **resect, then ablate.** Routine complete endoscopic mucosal 
 - **[[endoscopic-submucosal-dissection|endoscopic submucosal dissection (ESD)]]** for larger lesions unsuitable for en-bloc EMR, post-ablation scarring, or suspected submucosal invasion.
 - [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] is **not** routinely used to differentiate T1a vs T1b before resection ([[asge-2019-barretts-screening-surveillance|ASGE 2019]] Rec 5; EUS T1a/T1b sensitivity only 41%) — resection-based histology is the staging step.
 
+- Resection **changes management in 30–40%** ([[acg-2022-barretts]]); ASGE 2018 notes the management-change outcome was not consistently reported.
+- **ESD vs EMR** ([[aga-2024-barretts-eet|AGA 2024]] Rec 5, conditional): most neoplastic lesions are managed with EMR; choose ESD for large bulky lesions, lesions highly suspicious for ≥T1b invasion (**depressed, Paris 0-IIc or 0-IIa+c**), or failed prior EMR. [[asge-2023-esd|ASGE 2023]] instead uses size (ESD over EMR **>20 mm** for well-differentiated, nonulcerated early EAC/nodular dysplasia; either ≤20 mm) — see [[esophageal-cancer]]. They diverge on large flat, nondepressed lesions.
+
 ### Step 2 — Ablation of Residual Flat Segment
 
 After EMR of all visible lesions, **ablate the remaining flat Barrett's segment** (ASGE 2018 Rec 5, conditional). Lack of ablation predicts recurrence (relative risk [RR] 2.5); metachronous neoplasia 16.5% (EMR + ablation) vs 29.9% (EMR alone).
@@ -59,6 +62,7 @@ After EMR of all visible lesions, **ablate the remaining flat Barrett's segment*
 - **[[radiofrequency-ablation|RFA]]** — preferred primary ablative modality (widest randomized controlled trial (RCT)/safety evidence).
 - **Cryotherapy** (spray liquid nitrogen or cryoballoon) — acceptable alternative, especially for RFA-refractory cases; no RCT vs RFA.
 - **Hybrid [[argon-plasma-coagulation|argon plasma coagulation (APC)]]** — one of several ablation options, but **RFA carries the highest-quality and most extensive RCT evidence** ([[aga-2024-barretts-eet]]); [[asge-2018-barretts-eet|ASGE 2018]] notes APC is **not** the current standard even though photodynamic therapy (PDT)/APC were the modalities in the trial underpinning the "ablate the residual segment" recommendation. Settings, technique, and adverse events on [[argon-plasma-coagulation]].
+- **Exception** ([[aga-2024-barretts-eet|AGA 2024]]): if only a small area of BE remains beyond the visible lesion, completion resection in the same session is acceptable and may be preferred over a second ablation procedure.
 
 ---
 
@@ -107,14 +111,20 @@ High-volume centers with access to expert GI pathology, advanced imaging, EMR/ES
 | Threshold | Denominator | Source |
 |---|---|---|
 | **≥10 new cases annually** | per **center** | [[aga-2020-endoscopic-treatment-barretts-dysplasia\|AGA 2020]] Best Practice Advice 8 |
-| ≥10 new HGD/early EAC cases per year | per **endoscopist** | European Society of Gastrointestinal Endoscopy (ESGE) threshold, via [[barretts-esophagus]] |
+| ≥10 new HGD/early EAC cases per year | per **endoscopist** | European Society of Gastrointestinal Endoscopy (ESGE) threshold, cited by [[acg-2022-barretts]] |
 | >10 ablation procedures annually vs <3 | per **facility** | AGA 2020 recurrence analysis — hazard ratio (HR) **0.19** (95% confidence interval [CI] 0.05–0.68) for BE recurrence at high- vs low-volume facilities |
 
 **Competence in esophageal endoscopic resection is not reached quickly.** [[aga-2016-low-grade-dysplasia-barretts|AGA 2016]] reports a 5% perforation rate across the first 120 esophageal endoscopic resections performed by 6 trainees despite an intensive structured program — evidence that 20 procedures are insufficient; increasing endoscopist/center experience (threshold of 30) was associated with fewer sessions to reach CE-IM, without a demonstrable case-volume effect on safety or efficacy outcomes.
 
 **Audit is part of the job** (AGA 2016): endoscopists performing EET should report audits of their **complete eradication of dysplasia (CE-D) and CE-IM rates and adverse events** in clinical practice. Its seven named quality indicators are: dysplasia confirmed by an expert GI pathologist · centers performing EET have high-definition white-light endoscopy (HD-WLE) · endoscopists perform both mucosal ablation and endoscopic resection · complete endoscopic resection is performed in patients with visible lesions · the rate at which CE-IM and CE-D are achieved **by 18 months** after embarking on EET · surveillance occurs after achieving CE-IM · adverse events are tracked and documented.
 
-**Treatment-phase ground rules and the ablation anatomic target** ([[aga-2020-endoscopic-treatment-barretts-dysplasia|AGA 2020]]) — ablate flat, healed, non-inflamed mucosa only; sessions at 2–3-month intervals; twice-daily [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] throughout; extend ablation 5–10 mm proximal to the squamocolumnar junction (SCJ) and 5–10 mm distal to the gastroesophageal junction (GEJ) with a focal device circumferentially. Full rules on [[barretts-esophagus]].
+**Treatment-phase ground rules and ablation target** ([[aga-2020-endoscopic-treatment-barretts-dysplasia|AGA 2020]]):
+- Ablate **all visible columnar mucosa + 5–10 mm proximal to the squamocolumnar junction (SCJ) + 5–10 mm distal to the gastroesophageal junction (GEJ)** (top of gastric folds) with a focal device, circumferentially. The GEJ is hardest to treat (folds and hernia reduce balloon contact, residual BE hard to judge) and is the commonest recurrence site.
+- Ablate only flat BE without inflammation or visible abnormality; start every session with HD-WLE, preferably plus optical chromoendoscopy, to exclude a lesion needing resection.
+- Incomplete healing → **postpone ablation ≥6 weeks**, verify acid suppression, **avoid biopsies** (reactive change mimics dysplasia).
+- No routine biopsies of flat BE before an ablation session — blood inhibits energy transfer.
+- Sessions every **2–3 months**; may extend beyond 1 year. **Twice-daily [[proton-pump-inhibitors|proton pump inhibitor (PPI)]]** throughout; this makes a baseline pH study unnecessary except selected cases (poor squamous regeneration, refractory BE, persistent erosive esophagitis).
+- EMR of **>50% of the circumference** raises stricture risk; radical stepwise EMR vs focal EMR + ablation stricture **88% vs 14%**.
 
 **Reading the first year after CE-IM.** Dysplasia detected in the first year after CE-IM carries RR **1.92** vs later years, and failure to achieve CE-IM carries RR **2.2** for recurrent HGD/EAC (6% vs 3%) — [[aga-2020-post-endoscopy-esophageal-adenocarcinoma|AGA 2020]] reads both as **incompletely treated prevalent disease** rather than true recurrence, and residual intestinal metaplasia as a marker of prevalent dysplasia. The post-endoscopy esophageal adenocarcinoma (PEEC) framework is on [[barretts-esophagus]].
 
@@ -136,3 +146,4 @@ High-volume centers with access to expert GI pathology, advanced imaging, EMR/ES
 6. [[aga-2020-endoscopic-treatment-barretts-dysplasia|AGA Clinical Practice Update on Endoscopic Treatment of Barrett's Esophagus With Dysplasia and/or Early Cancer: Expert Review (2020)]]
 7. [[aga-2020-post-endoscopy-esophageal-adenocarcinoma|AGA Clinical Practice Update on Reducing Rates of Post-Endoscopy Esophageal Adenocarcinoma: Commentary (2020)]]
 8. [[aga-2016-low-grade-dysplasia-barretts|AGA 2016 Clinical Practice Update: Diagnosis and Management of Low-Grade Dysplasia in Barrett's Esophagus (Expert Review)]]
+9. [[asge-2023-esd|ASGE Guideline: ESD for Early Esophageal and Gastric Cancer (2023)]]

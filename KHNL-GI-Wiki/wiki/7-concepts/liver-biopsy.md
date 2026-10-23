@@ -3,8 +3,8 @@ title: "Liver Biopsy"
 category: concept
 tags: [liver-biopsy, hepatology, fibrosis-staging, percutaneous, transjugular, eus-guided, coagulation, complications, specimen-adequacy]
 created: 2026-06-04
-updated: 2026-10-04
-sources: [aasld-2009-liver-biopsy, aga-2021-cirrhosis-coagulation, acg-2025-eus-quality, aga-2023-nafld-noninvasive-biomarkers]
+updated: 2026-10-22
+sources: [aasld-2009-liver-biopsy, aga-2021-cirrhosis-coagulation, acg-2025-eus-quality, aga-2023-nafld-noninvasive-biomarkers, aasld-2024-nilda-blood]
 ---
 
 Liver biopsy is the procedural acquisition of hepatic tissue for histological assessment. Per the American Association for the Study of Liver Diseases (AASLD) 2009 position paper ([[aasld-2009-liver-biopsy]]), it serves three major roles: **diagnosis**, **prognosis (disease staging, chiefly fibrosis)**, and **guiding therapeutic management**. Although it remains a reference standard, noninvasive tools — serum panels and [[liver-stiffness-measurement|elastography]] ([[noninvasive-liver-disease-assessment|noninvasive liver disease assessment (NILDA)]]) — increasingly replace it for fibrosis staging, and biopsy is now reserved largely for diagnostic uncertainty or when histology will change management.
@@ -98,6 +98,8 @@ Adequacy is essential to justify the procedural risk:
 - **Portal tracts:** >11 complete portal tracts is the proposed adequacy target; the pathology report should note when **fewer than 11 complete portal tracts** are present, since grading/staging may then be incorrect (Rec 26, Class I/C).
 - Formalin fixation shrinks specimens (e.g. ~19.6 → 18.3 mm). Short specimens (<2-2.5 cm) under-grade/stage and miss cirrhosis in up to 20% of cases. Thin (<18-gauge) needles cause diagnostic error in up to two-thirds of cases for diffuse disease.
 - **Scoring:** use a simple system — Metavir or Batts-Ludwig (or International Association for the Study of the Liver [IASL]) — rather than complex Ishak in clinical practice (Rec 28, Class I/C). Sampling variability (discordance by ≥1 stage in ~33% of paired lobes) is a key limitation.
+- **Don't convert stages between systems** — interchangeable use "is problematic": Scheuer 3 ≠ METAVIR F3; Ishak 5 (incomplete cirrhosis) ≠ cirrhosis. Metabolic dysfunction-associated steatotic liver disease (MASLD) uses Brunt-Kleiner (Nonalcoholic Steatohepatitis Clinical Research Network) — table on [[nafld-masld]] ([[aasld-2024-nilda-blood]]).
+- **Fibrosis pattern:** adult fatty liver disease (alcohol or metabolic) begins in **zone 3 (centrilobular), perisinusoidal/pericellular**; most other chronic liver disease is portal-based; pediatric nonalcoholic steatohepatitis is mainly **zone 1 (periportal)** ([[aasld-2024-nilda-blood]]).
 
 ## Noninvasive Alternatives
 Serum fibrosis panels and elastography (transient/magnetic resonance) increasingly assess fibrosis without biopsy. At the time of the 2009 paper these were insufficiently precise to replace histology (Rec 29 recommends biopsy "until clearly superior methodologies are developed and validated," Class IIB/C). The two-tier noninvasive test (NIT) pathway (**Fibrosis-4 (FIB-4) first → if ≥1.3, add a second NIT: vibration-controlled transient elastography (VCTE) or magnetic resonance elastography (MRE) preferred, Enhanced Liver Fibrosis (ELF) if elastography unavailable**) has since displaced biopsy as the routine first step; all cut-offs live on [[noninvasive-liver-disease-assessment]].
@@ -122,3 +124,4 @@ Serum fibrosis panels and elastography (transient/magnetic resonance) increasing
 2. [[aga-2021-cirrhosis-coagulation|AGA Clinical Practice Guideline: Coagulation Disorders in Cirrhosis (2021)]]
 3. [[acg-2025-eus-quality|ACG/ASGE 2025: Quality Indicators for EUS]]
 4. [[aga-2023-nafld-noninvasive-biomarkers|AGA Clinical Practice Update on the Role of Noninvasive Biomarkers in the Evaluation and Management of Nonalcoholic Fatty Liver Disease: Expert Review (2023)]]
+5. [[aasld-2024-nilda-blood|AASLD 2024 Practice Guideline: Blood-Based Noninvasive Liver Disease Assessment (NILDA) of Hepatic Fibrosis and Steatosis]]

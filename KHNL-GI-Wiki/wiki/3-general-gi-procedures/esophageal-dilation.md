@@ -3,7 +3,7 @@ title: "Esophageal Dilation"
 category: general-procedure
 tags: [esophagus, dilation, stricture, dysphagia, eoe, bougie, balloon, endoscopy, perforation]
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-22
 sources: [acg-2025-eoe, acg-2013-eoe, aga-2021-gi-perforations-endoscopic-management, asge-2015-antibiotic-prophylaxis, asge-2011-foreign-body-ingestion, acg-2025-egd-quality, aga-2022-personalized-gerd, acg-cag-2022-anticoag-gi-bleeding, afs-2023-transoral-incisionless-fundoplication]
 ---
 
@@ -13,9 +13,6 @@ sources: [acg-2025-eoe, acg-2013-eoe, aga-2021-gi-perforations-endoscopic-manage
 - [[#Before Dilating]]
 - [[#Dilator Choice]]
 - [[#Technique]]
-  - [[#Start Low and Go Slow]]
-  - [[#Dilation Effect — the Immediate Endpoint]]
-  - [[#Target Luminal Diameter]]
 - [[#Finding the Stricture]]
 - [[#Dilation Treats the Stricture, Not the Disease]]
 - [[#Adverse Events]]
@@ -41,13 +38,16 @@ sources: [acg-2025-eoe, acg-2013-eoe, aga-2021-gi-perforations-endoscopic-manage
 | Esophageal stricture present after **food bolus extraction** | In most circumstances safe to dilate at that session, to reduce recurrence | [[asge-2011-foreign-body-ingestion]] |
 | Before [[antireflux-surgery\|transoral incisionless fundoplication (TIF)]], to aid device passage | Empiric dilation at the upper esophageal sphincter: **57–60 Fr (18–20 mm) Savary-Gilliard dilator** over a wire, or an **18–20 mm TTS hydrostatic balloon** | [[afs-2023-transoral-incisionless-fundoplication]] |
 
-- **Have a high index of suspicion.** Advise a high level of suspicion for strictures and esophageal narrowing in EoE, especially in patients with dysphagia or dietary avoidance/modification behaviors — strictures and luminal narrowing can be difficult to detect on endoscopy ([[acg-2025-eoe]]).
+> [!pearl] Have a high index of suspicion
+> Strictures and luminal narrowing in EoE are hard to see on endoscopy — suspect them in patients with dysphagia or dietary avoidance/modification behaviors ([[acg-2025-eoe]]).
 
 ## Before Dilating
 
-- **Suspected EoE after a food bolus impaction → biopsy first, dilate later.** EoE is found in as many as **33%** of food bolus impactions; take biopsies of the **mid and distal esophagus** and **defer dilation pending pathology** ([[asge-2011-foreign-body-ingestion]]).
-- **Peptic stricture → start acid suppression.** Recommending acid suppression therapy after dilation of a peptic esophageal stricture, in patients without allergy or other contraindication, is quality indicator 23 for [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] — **performance target >98%**, grade 2B. The preferred agent is a [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] or another potent acid suppressant; PPIs lowered persistent stricture and redilation vs H2 receptor antagonists in a randomized trial ([[acg-2025-egd-quality]]). A biopsy-proven [[esophageal-stricture|peptic stricture]] is one of the stated exceptions to weaning acid suppression in [[gerd|gastroesophageal reflux disease (GERD)]]: these patients *"will require at least single-dose, long-term PPI therapy"* ([[aga-2022-personalized-gerd]]).
-- **Antibiotic prophylaxis is not indicated.** Esophageal dilation produces the highest transient bacteremia rate of any endoscopic procedure (bougienage **12%–22%**, higher with malignant strictures and with multiple dilators), yet routine antibiotic prophylaxis **solely to prevent infective endocarditis is recommended against** ([[asge-2015-antibiotic-prophylaxis]]; detail on [[antibiotic-prophylaxis-endoscopy]]).
+> [!pitfall] Food impaction with suspected EoE: biopsy before dilating
+> EoE is found in up to **33%** of food bolus impactions — biopsy the **mid and distal esophagus** and **defer dilation pending pathology** ([[asge-2011-foreign-body-ingestion]]).
+
+- **Peptic stricture → start acid suppression.** Recommending acid suppression after dilation of a peptic stricture (no allergy/contraindication) is quality indicator 23 for [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] — **performance target >98%**, grade 2B. Preferred: a [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] or other potent acid suppressant; PPIs lowered persistent stricture and redilation vs H2 receptor antagonists in a randomized trial ([[acg-2025-egd-quality]]). Biopsy-proven [[esophageal-stricture|peptic stricture]] is an exception to weaning acid suppression in [[gerd|gastroesophageal reflux disease (GERD)]]: *"will require at least single-dose, long-term PPI therapy"* ([[aga-2022-personalized-gerd]]).
+- **Antibiotic prophylaxis is not indicated.** Highest transient bacteremia rate of any endoscopic procedure (Adverse Events table), yet routine prophylaxis **solely to prevent infective endocarditis is recommended against** ([[asge-2015-antibiotic-prophylaxis]]; detail on [[antibiotic-prophylaxis-endoscopy]]).
 - **Consent for perforation.** Dilation is a named high-perforation-risk procedure ([[aga-2021-gi-perforations-endoscopic-management]]); counsel specifically about post-dilation chest pain, bleeding, and perforation (Recommendation 18, [[acg-2013-eoe]]).
 
 ## Dilator Choice
@@ -62,9 +62,7 @@ sources: [acg-2025-eoe, acg-2013-eoe, aga-2021-gi-perforations-endoscopic-manage
 
 ## Technique
 
-### Start Low and Go Slow
-
-- The guideline's stated approach is *"start low and go slow"* ([[acg-2025-eoe]]), operationalized as a **conservative** approach with **relatively small increases in diameter over multiple sessions**, because of the known esophageal mucosal fragility of EoE ([[acg-2013-eoe]]).
+- ACG: *"start low and go slow"* ([[acg-2025-eoe]]) — a **conservative** approach, **relatively small increases in diameter over multiple sessions**, because of EoE mucosal fragility ([[acg-2013-eoe]]).
 
 **ACG 2025 approach for esophageal dilation in EoE (Table 7)** — adapted by the guideline from Aceves et al., *Gastrointest Endosc* 2022;96(4):576–92.e1:
 
@@ -78,45 +76,40 @@ sources: [acg-2025-eoe, acg-2013-eoe, aga-2021-gi-perforations-endoscopic-manage
 | 6 | In patients with fibrostenotic EoE, dilation therapy should occur in conjunction with effective medical and/or diet elimination anti-inflammatory therapy because dilation alone does not impact EoE disease activity |
 | 7 | Empiric dilation may be performed for patients with EoE with persistent dysphagia in the presence of a normal-appearing esophageal diameter by endoscopy and histologic remission achieved with medical or dietary therapy |
 
-**Putting numbers on it:**
+> [!howto] Start low and go slow
+> 1. **Start size:** a dilator likely to *underestimate* the caliber — if the standard adult upper endoscope (**9–10 mm**) passes without resistance, start **just above that** ([[acg-2013-eoe]]).
+> 2. **Relook after each size** — mucosal assessment after every increment, balloon or bougie ([[acg-2013-eoe]]).
+> 3. **Step up** until **dilation effect** (mucosal disruption) or the target diameter is reached — the immediate endpoint ([[acg-2025-eoe]]).
+> 4. **Goal ≥16 mm** (adults/adolescents), reached over **≥1 sessions** per initial caliber and effect seen ([[acg-2025-eoe]]).
 
-- **Starting size** — pick a dilator that is likely to *underestimate* the esophageal caliber. If the **standard adult upper endoscope (typical diameter 9–10 mm) passes without resistance**, select an initial dilator size **just above that** ([[acg-2013-eoe]]).
-- **Reassess after every size** — perform mucosal assessment after **each** incremental dilator size, whether balloons or bougies are used.
-- **Stop rule for the session** — once a **mucosal rent, disruption, or laceration is seen, no further dilation is performed in that session**.
-- Neither ACG guideline sets a numeric increment per session or a maximum number of dilator sizes in one session; the dilation effect, or reaching the target diameter, is the stated stopping point.
+> [!pitfall] Rent seen = stop for today
+> Once a **mucosal rent, disruption, or laceration** is seen, **no further dilation in that session** ([[acg-2013-eoe]]).
 
-### Dilation Effect — the Immediate Endpoint
-
-- **"Dilation effect" = the appearance of a mucosal disruption.** It, or reaching the target diameter, is the **immediate endpoint** of the procedure ([[acg-2025-eoe]] Table 7).
-- Work upward in dilator sizes, **relooking after each dilation**, until the dilation effect is seen.
-
-### Target Luminal Diameter
-
-- **Adults and adolescents with EoE: a goal luminal diameter that relieves dysphagia and food impaction — typically ≥16 mm** — achieved **over ≥1 sessions**, based on the initial caliber of the lumen and the effect noted during dilation ([[acg-2025-eoe]]).
-- The earlier ACG guideline set the eventual goal at **15–18 mm**, from retrospective data and expert opinion, and noted it **typically requires multiple sessions** ([[acg-2013-eoe]]). The 2025 ≥16 mm target is the current one.
+- No numeric increment per session or maximum number of dilator sizes is set by either ACG guideline.
+- ACG 2013 goal was **15–18 mm** (retrospective data, expert opinion), typically over **multiple sessions** ([[acg-2013-eoe]]); the 2025 ≥16 mm target is current.
 
 ## Finding the Stricture
 
-**Endoscopy badly underestimates esophageal narrowing.** Strictures are obvious when the lumen precludes or hinders passage of a standard endoscope; when other techniques assess caliber more accurately, endoscopy performs poorly ([[acg-2025-eoe]]):
+**Endoscopy badly underestimates narrowing** — obvious only when the lumen hinders passage of a standard endoscope ([[acg-2025-eoe]]; all rows/bullets below):
 
 | Comparison | Sensitivity | Specificity |
 |---|---|---|
 | Endoscopy vs a **structured esophagram protocol**, for detection of a narrowed esophagus | **14.7%** (95% confidence interval [CI] 5.0%–31.1%) | 79.2% (95% CI 57.8%–92.9%) |
 | Endoscopy at a **cutoff diameter of ≤15 mm** | **25.0%** (95% CI 5.5%–57.2%) | — |
 
-- **71% symptomatic response rate to dilation in patients without perceived esophageal narrowing at endoscopy** — the clinical corroboration of that insensitivity, and the basis for empiric dilation.
-- **Children:** **55%** of strictures seen on barium esophagram were **not** detected endoscopically. A **barium-coated pill** detected clinically significant narrowing in 3 children in whom esophagram alone did not.
-- In children with EoE and dysphagia, **an esophagram is suggested for evaluation of fibrostenotic disease** (Recommendation 18; conditional, very-low-quality evidence).
-- **Limitation of barium esophagram:** it cannot control for intraesophageal luminal distension pressure.
-- **Impedance planimetry ([[flip-panometry|endolumenal functional lumen imaging probe (EndoFLIP)]])** measures esophageal wall compliance and appears **more sensitive than endoscopy** for esophageal fibrotic change; a **distensibility index <4.5 mm²** distinguished patients with and without endoscopically detected strictures — though only **23%** of those patients had strictures detected endoscopically. To date it has been used primarily at specialty centers and research settings.
+- **71% symptomatic response to dilation without perceived narrowing at endoscopy** — basis for empiric dilation.
+- **Children:** **55%** of esophagram-seen strictures missed endoscopically; a **barium-coated pill** found significant narrowing in 3 children whose esophagram did not. **Esophagram suggested** for fibrostenotic disease in children with EoE and dysphagia (Recommendation 18; conditional, very-low-quality evidence).
+- **Barium esophagram limit:** cannot control intraesophageal distension pressure.
+- **Impedance planimetry ([[flip-panometry|endolumenal functional lumen imaging probe (EndoFLIP)]])** — wall compliance; **more sensitive than endoscopy** for fibrotic change. **Distensibility index <4.5 mm²** separated patients with vs without endoscopic strictures, though only **23%** had strictures seen endoscopically. Mostly specialty/research centers so far.
 
 ## Dilation Treats the Stricture, Not the Disease
 
-- **Hard rule:** in fibrostenotic EoE, **dilation therapy should occur in conjunction with effective medical and/or diet elimination anti-inflammatory therapy, because dilation alone does not impact EoE disease activity** ([[acg-2025-eoe]] Table 7; agent-by-agent options on [[eoe-therapies]]).
-- Dilation improves esophageal caliber and the symptom of dysphagia but **does not impact the underlying EoE disease activity or pathogenesis**. The rationale for pairing is data showing a **decreased esophageal dilation requirement after histologic response**.
-- Short-term medical therapy can **increase esophageal caliber and reduce the need for dilation and the occurrence of food impactions** — a reason to treat the inflammation rather than dilate repeatedly.
-- **Dilation as monotherapy** has been reported in patients with strictures or narrowing refractory to all other treatments, but **this is not the preferred approach**; its role as primary monotherapy remains controversial and should be individualized ([[acg-2013-eoe]]).
-- Mechanistically, the esophageal wall thickening of EoE is composed of **both inflammation and fibrosis**, and **no imaging technique reliably differentiates the two** ([[acg-2025-eoe]]).
+> [!pearl] Always pair dilation with anti-inflammatory therapy
+> Dilation fixes caliber and dysphagia, **not EoE disease activity** — in fibrostenotic EoE, dilate alongside effective medical and/or diet elimination therapy ([[acg-2025-eoe]] Table 7; options on [[eoe-therapies]]).
+
+- Rationale: **decreased dilation requirement after histologic response**; short-term medical therapy can **increase caliber and reduce dilation need and food impactions** ([[acg-2025-eoe]]).
+- **Dilation monotherapy** — reported for strictures refractory to all other treatment, but **not preferred**; controversial, individualize ([[acg-2013-eoe]]).
+- EoE wall thickening = **inflammation + fibrosis**; **no imaging technique reliably separates the two** ([[acg-2025-eoe]]).
 
 ## Adverse Events
 
@@ -131,7 +124,7 @@ sources: [acg-2025-eoe, acg-2013-eoe, aga-2021-gi-perforations-endoscopic-manage
 | **Transient bacteremia** | **12%–22%** | Bougienage; higher with malignant strictures and multiple dilators ([[asge-2015-antibiotic-prophylaxis]]) |
 
 - **Who perforates in EoE:** across 511 patients over 14 years, 10 perforations (2.0%); risk factors were **a history of food impaction (odds ratio [OR] 14.9, 95% CI 1.7–129.2)** and **a focal stricture (OR 4.6, 95% CI 1.1–19.7)**. In a systematic review of 76 perforations in 70 EoE patients, **most were non-iatrogenic**; **esophageal dilation caused 8** and pushing impacted food into the stomach caused 5 ([[aga-2021-gi-perforations-endoscopic-management]]).
-- Early reports of severe complications overstated the risk: many of the initial perforations occurred in patients in whom EoE was **not recognized at the time**, and before the hazards of dilation in EoE were described. More recent series report **considerably lower** rates, likely reflecting the conservative approach now used ([[acg-2013-eoe]]).
+- Early reports overstated risk — many initial perforations were in **unrecognized EoE**, before its dilation hazards were described; recent series report **considerably lower** rates, likely from the conservative approach ([[acg-2013-eoe]]).
 - **Recognized perforation → management algorithm and closure-device-by-size table on [[endoscopic-management-of-perforation]].**
 
 ## Outcomes and Evidence

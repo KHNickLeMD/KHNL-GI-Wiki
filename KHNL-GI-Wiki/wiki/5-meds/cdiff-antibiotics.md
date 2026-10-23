@@ -3,7 +3,7 @@ title: "Antibiotics for Clostridioides difficile Infection"
 category: med
 tags: [cdiff, clostridioides-difficile, vancomycin, fidaxomicin, metronidazole, antibiotics, colitis, recurrence]
 created: 2026-10-03
-updated: 2026-10-19
+updated: 2026-10-22
 sources: [acg-2021-cdiff, aga-2026-cdiff-adults, aga-2026-cdiff-ibd]
 ---
 
@@ -190,7 +190,7 @@ Antibiotics here are a **bridge to microbiota restoration**, not the definitive 
 
 **Long-term suppression (secondary prophylaxis in multiply recurrent disease)** — [[aga-2026-cdiff-adults]] BPA 9, [[acg-2021-cdiff]] Rec 17 (conditional, very low quality):
 
-- **Who:** multiple recurrent episodes in a patient who is **not a candidate** for fecal microbiota–based therapy (ongoing comorbidity, limited life expectancy, ongoing or frequent systemic antibiotics) **or** who has failed multiple courses of it.
+- **Who:** multiple recurrent episodes in a patient who is **not a candidate** for fecal microbiota–based therapy (ongoing comorbidity, limited life expectancy, ongoing or frequent systemic antibiotics, pregnancy, severe immunosuppression, active chemotherapy, extreme frailty, or lack of access — [[aga-2026-cdiff-adults]]) **or** who has failed multiple courses of it. Fecal microbiota–based therapy remains more effective and should be pursued whenever feasible — suppression is the fallback.
 - **Dose: oral vancomycin 125 mg once daily**, prolonged or indefinite in selected patients. Some patients continue to pass loose stools at this dose — **twice or three times daily dosing may be necessary** in those cases. [[acg-2021-cdiff]]
 - In the ACG-cited series (n = 20, median age 80, median 4 prior episodes), suppression ran for a **minimum of 8 weeks**; one relapse occurred over 200 patient-months on therapy, and **31% relapsed within 6 weeks of stopping**.
 - Further recurrence **without** intervention exceeds **40%**; recurrence exceeds **30% after stopping** prophylaxis — hence "ongoing" rather than time-limited in some patients. [[aga-2026-cdiff-adults]]
@@ -204,6 +204,10 @@ Antibiotics here are a **bridge to microbiota restoration**, not the definitive 
 > **Instead:** close observation for diarrhea during and after antibiotics, with prompt testing and treatment; a **standing order for *C. difficile* testing** expedites the workup. [[aga-2026-cdiff-adults]]
 >
 > [[aga-2026-cdiff-ibd|AGA 2026's IBD-specific CPU]] (BPA 12) still says OVP **may be considered** as secondary prevention in patients with [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] and a history of CDI who are receiving systemic antibiotics — narrower guidance for that population only.
+>
+> **The underlying risk:** additional antibiotics within 60 days of nosocomial CDI carry **~5× the recurrence risk**; with age ≥65 plus prior severe CDI, recurrence after antibiotics reaches **87%** ([[acg-2021-cdiff]]) — AGA 2026 answers that risk with surveillance, not prophylaxis.
+>
+> **IBD regimen and evidence** ([[aga-2026-cdiff-ibd]]): **125 mg once to twice daily, started with the systemic antibiotics and continued until 5 days after they finish**, after informed decision-making. In the single randomized trial (n=81, IBD excluded), recurrence was 43.6% vs 57.1% with placebo — **not significant** — and vancomycin-resistant *Enterococcus* carriage was higher with prophylaxis (50% vs 24% at 8 weeks).
 
 **Transplant-specific prophylaxis data** cited by [[acg-2021-cdiff]], for context — note AGA 2026 advises against prophylactic vancomycin generally:
 

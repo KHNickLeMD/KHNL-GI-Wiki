@@ -3,7 +3,7 @@ title: "JAK Inhibitors"
 category: med
 tags: [tofacitinib, upadacitinib, filgotinib, jak-inhibitor, janus-kinase, small-molecule, oral, advanced-therapy, ibd, ulcerative-colitis, crohns, boxed-warning]
 created: 2026-09-07
-updated: 2026-09-24
+updated: 2026-10-22
 sources: [acg-2025-uc, acg-2025-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, acg-2025-ibd-preventive-care, aga-2024-ibd-malignancy, aga-2026-inpatient-ibd]
 ---
 
@@ -193,6 +193,7 @@ The EMA recommends **cautious use of JAK inhibitors as a first-line agent** in p
 
 - **ACG position ([[acg-2025-uc]] Key concept 56):** in ASUC failing to respond adequately to IV corticosteroids **by day 3** or to infliximab induction, there are **insufficient data to routinely recommend** tofacitinib or upadacitinib. Standard day-3 rescue remains **infliximab or [[calcineurin-inhibitors|cyclosporine]]**.
 - **AGA position ([[aga-2026-inpatient-ibd]], newer):** ASUC rescue options are **infliximab, cyclosporine, or a JAK inhibitor** — choice depends on prior treatment response, inflammatory burden, **protein-losing colopathy (small molecules may be preferred)**, and clinician experience. **Optimal role and dosing of JAK inhibitors as initial inpatient ASUC therapy remain an explicit open question.**
+- **AGA 2026 rescue doses** ([[aga-2026-inpatient-ibd]]; optimal dose not known): **standard** tofacitinib 10 mg twice daily, upadacitinib 45 mg daily; **off-label high-intensity inpatient** tofacitinib 10 mg three times daily for 9 doses, upadacitinib 30 mg twice daily. Give the recombinant zoster vaccine first if possible, but **do not delay treatment** for it.
 
 **The emerging data ACG reviewed, with the caveats that limit them ([[acg-2025-uc]]):**
 
@@ -311,7 +312,6 @@ Everything restricting this class traces to one trial in **rheumatoid arthritis*
 - *The IBD guidelines give no **dose-escalation or re-induction protocol for secondary loss of response** on a JAK inhibitor, nor a **primary-nonresponse assessment interval** beyond the generic 6–12 weeks.*
 - *The IBD guidelines state no **washout or sequencing interval** when switching from or to a JAK inhibitor, nor any data on **combining** a small molecule with a biologic (explicitly "no data" — [[aga-2024-ibd-malignancy]]).*
 - *The guidelines do not address this class in **[[pouchitis]]** beyond a 2-cohort tofacitinib series (n = 13) and extrapolation from UC guidelines, nor in **postoperative CD recurrence prophylaxis**, **paediatric IBD**, or **renal/hepatic dose adjustment**.*
-- *No **ASUC dose** for either agent is stated by any IBD guideline — every reported regimen (tofacitinib 10 mg TID, upadacitinib 30 mg BID) is explicitly off-label.*
 - *No **individual agent pages** exist — tofacitinib, upadacitinib, and filgotinib are covered only at class level here.*
 
 ---

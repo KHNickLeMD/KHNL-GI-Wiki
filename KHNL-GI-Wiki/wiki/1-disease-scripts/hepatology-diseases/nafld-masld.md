@@ -3,7 +3,7 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-10-02
+updated: 2026-10-22
 sources: [aga-aasld-acg-2012-nafld, aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, baveno-viii-2026-portal-hypertension, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-non-graft-complications, aga-2023-nafld-noninvasive-biomarkers, aga-2021-lifestyle-modification-nafld, aga-2022-lean-nafld, aga-2017-elastography-liver-fibrosis]
 ---
 
@@ -18,14 +18,12 @@ sources: [aga-aasld-acg-2012-nafld, aasld-2023-nafld, aasld-2023-masld-nomenclat
 - [[#Therapeutics]]
   - [[#Lifestyle Modification (First-Line for All Stages)]]
   - [[#Pharmacotherapy]]
-    - [[#Semaglutide (Wegovy) — FDA-Approved August 2025 for MASH F2–F3]]
-    - [[#Resmetirom (Rezdiffra) — FDA-Approved March 2024 for MASH F2–F3]]
-    - [[#Other Pharmacotherapy (no FDA approval for MASH; AASLD guidance statements)]]
-    - [[#Bariatric / Metabolic Surgery and Endoscopic Interventions]]
+    - [[#FDA-Approved for MASH F2–F3]]
+    - [[#Other Agents (AASLD Guidance Statements)]]
     - [[#Pharmacotherapy in MASLD-related cirrhosis — Baveno VIII]]
-    - [[#Liver Transplantation]]
+  - [[#Bariatric / Metabolic Surgery and Endoscopic Interventions]]
+  - [[#Liver Transplantation and Post-Transplant MASLD]]
   - [[#Cardiometabolic Risk Management in MASLD]]
-  - [[#Post-Liver-Transplant MASLD Management]]
   - [[#What Changed Since the 2012 Tri-Society Guideline]]
 - [[#See Also]]
 - [[#Sources]]
@@ -36,37 +34,49 @@ sources: [aga-aasld-acg-2012-nafld, aasld-2023-nafld, aasld-2023-masld-nomenclat
 
 ### Establishing the Diagnosis
 
-**MASLD (Metabolic dysfunction-Associated Steatotic Liver Disease)** — formerly nonalcoholic fatty liver disease (NAFLD) — is a highly prevalent condition (≈25–30% of US adults) associated with the metabolic syndrome, most commonly in patients with co-existing [[obesity]], diabetes mellitus, dyslipidemia, and hypertension. Nonalcoholic steatohepatitis (NASH)-related [[cirrhosis|cirrhosis]] is already the leading [[liver-transplantation|liver-transplant]] indication in women and in those >65 years, and is on par with alcohol overall; hepatic decompensation, [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]], and death are projected to rise 2–3 fold by 2030. [[aasld-2023-nafld]]
+- **Metabolic dysfunction-associated steatotic liver disease (MASLD)**, formerly nonalcoholic fatty liver disease (NAFLD): ≈25–30% of US adults; clusters with [[obesity]], diabetes, dyslipidemia, hypertension. Nonalcoholic steatohepatitis (NASH) [[cirrhosis]] = leading [[liver-transplantation|liver transplant]] indication in women and >65 y; [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] and decompensation projected to rise 2–3-fold by 2030 ([[aasld-2023-nafld]]).
 
-**Nomenclature (2023 multi-society Delphi consensus — American Association for the Study of Liver Diseases [AASLD]/European Association for the Study of the Liver [EASL]/Latin American Association for the Study of the Liver [ALEH]):** the overarching term is **Steatotic Liver Disease (SLD)**. [[aasld-2023-masld-nomenclature]]
+**Nomenclature** — 2023 Delphi consensus of the American Association for the Study of Liver Diseases (AASLD), European Association for the Study of the Liver (EASL), and Latin American Association for the Study of the Liver (ALEH); umbrella term **steatotic liver disease (SLD)** ([[aasld-2023-masld-nomenclature]]):
 
-- **MASLD** = hepatic steatosis + ≥1 cardiometabolic risk factor (CMRF) + no other discernible cause (replaces NAFLD)
-- **MASH** (metabolic dysfunction-associated steatohepatitis) = MASLD + steatohepatitis (replaces NASH); **MASL** (metabolic dysfunction-associated steatotic liver) = MASLD without steatohepatitis (replaces nonalcoholic fatty liver [NAFL])
-- **MetALD** = MASLD + increased alcohol (a continuum); alcohol-associated liver disease (ALD); specific-etiology SLD (drug-induced liver injury [DILI], lysosomal acid lipase deficiency [LALD], Wilson, hypobetalipoproteinemia, [[hepatitis-c|hepatitis C virus (HCV) genotype 3]], celiac, human immunodeficiency virus [HIV]); and cryptogenic SLD
-- The new nonexclusionary terminology permits **dual pathology** (e.g. MASLD + [[autoimmune-hepatitis|autoimmune hepatitis]] or viral hepatitis)
-- There is **>99% overlap** between NAFLD- and MASLD-defined populations with near-identical natural history; therefore all NAFLD/NASH guidance recommendations and natural-history/biomarker data apply directly to MASLD/MASH.
+| Term | Definition | Replaces |
+|---|---|---|
+| **MASLD** | Steatosis + ≥1 cardiometabolic risk factor (CMRF) + no other discernible cause | NAFLD |
+| **Metabolic dysfunction-associated steatohepatitis (MASH)** | MASLD + steatohepatitis | NASH |
+| **Metabolic dysfunction-associated steatotic liver (MASL)** | MASLD without steatohepatitis | Nonalcoholic fatty liver (NAFL) |
+| **MetALD** | MASLD + increased alcohol (thresholds below) | — |
+| Other SLD | [[alcohol-associated-liver-disease\|Alcohol-associated liver disease (ALD)]]; specific etiology — [[drug-induced-liver-injury\|drug-induced liver injury (DILI)]], lysosomal acid lipase deficiency (LALD), [[wilson-disease\|Wilson]], hypobetalipoproteinemia, [[hepatitis-c\|hepatitis C virus (HCV)]] genotype 3, [[celiac-disease\|celiac]], human immunodeficiency virus (HIV); cryptogenic | — |
 
-**Cardiometabolic risk factors (adult — ≥1 of 5, ethnicity-adjusted):** [[aasld-2023-masld-nomenclature]]
+- **Dual pathology** allowed (MASLD + [[autoimmune-hepatitis|autoimmune]] or viral hepatitis). **>99% overlap** with NAFLD populations → NAFLD/NASH guidance applies.
 
-1. Body mass index (BMI) ≥25 kg/m² (≥23 Asia) OR waist circumference >94 cm (M) / >80 cm (F) OR ethnicity-adjusted equivalent
-2. Fasting glucose ≥100 mg/dL OR 2-h post-load ≥140 mg/dL OR hemoglobin A1c (HbA1c) ≥5.7% OR type 2 diabetes mellitus (T2DM) (or its treatment)
-3. Blood pressure ≥130/85 mmHg OR antihypertensive treatment
-4. Triglycerides ≥150 mg/dL OR lipid-lowering treatment
-5. High-density lipoprotein (HDL)-cholesterol ≤40 mg/dL (M) / ≤50 mg/dL (F) OR lipid-lowering treatment
+**CMRFs (adult; ≥1 of 5, ethnicity-adjusted)** ([[aasld-2023-masld-nomenclature]]):
 
-MASLD/MASH remains a **diagnosis requiring exclusion of alternative etiologies**. Although many individuals with hepatic steatosis on imaging may have normal liver chemistries, the presence of abnormal liver chemistries in this setting increases the likelihood of MASH (with inflammation/fibrosis). Aminotransferases are frequently normal even in advanced fibrosis and **must not be used in isolation to exclude clinically significant fibrosis** (Guidance Statement [GS] 15). [[aasld-2023-nafld]]
+1. Body mass index (BMI) ≥25 kg/m² (≥23 Asian) or waist >94 cm (M) / >80 cm (F)
+2. Fasting glucose ≥100 mg/dL, 2-h post-load ≥140 mg/dL, hemoglobin A1c (HbA1c) ≥5.7%, or type 2 diabetes mellitus (T2DM) / its treatment
+3. Blood pressure ≥130/85 mmHg or antihypertensive treatment
+4. Triglycerides ≥150 mg/dL or lipid-lowering treatment
+5. High-density lipoprotein (HDL) cholesterol ≤40 mg/dL (M) / ≤50 mg/dL (F) or lipid-lowering treatment
 
-**Pattern of elevation:** Generally alanine aminotransferase (ALT) > aspartate aminotransferase (AST) (unlike alcoholic liver disease); AST/ALT levels rarely above 300 IU/L; no unique elevation pattern. [[acg-2017-liver-chemistries]]
+**Alcohol thresholds** — average intake ([[aasld-2023-masld-nomenclature]]):
 
-**Screening indication:** Patients with elevated BMI and features of metabolic syndrome (diabetes mellitus, overweight/obesity, hyperlipidemia, hypertension) with mild elevations of ALT should undergo screening for MASLD with ultrasound. [[acg-2017-liver-chemistries]]
+| Women | Men | Category |
+|---|---|---|
+| <20 g/d (<140 g/wk) | <30 g/d (<210 g/wk) | MASLD |
+| 20–50 g/d (140–350 g/wk) | 30–60 g/d (210–420 g/wk) | **MetALD** — continuum, MASLD- → ALD-predominant |
+| >50 g/d | >60 g/d | ALD |
 
-**Alcohol threshold (MetALD boundary):** MASLD requires intake below an average daily **20 g (♀) / 30 g (♂)** (weekly 140♀/210♂ g). Steatosis + CMRF + alcohol in the range **20–50 g/d (♀) / 30–60 g/d (♂)** (weekly 140–350♀ / 210–420♂ g) = **MetALD**, a continuum from MASLD-predominant (lower intake) to ALD-predominant (higher intake). Above 50 g/d (♀) / 60 g/d (♂) = [[alcohol-associated-liver-disease|ALD]]. [[aasld-2023-masld-nomenclature]]
+**Labs and case finding:**
 
-All the features that define fibrotic MASH — steatosis, ballooning, inflammation, and fibrosis — cannot be determined definitively without a [[liver-biopsy|liver biopsy]]; however, steatosis and fibrosis can be estimated with reasonable accuracy using non-invasive tests (NITs) and are widely used in clinical practice and for pharmacotherapy candidacy assessment. [[aasld-2025-semaglutide-mash]]
+- Still requires **exclusion of other etiologies**; abnormal liver chemistries ↑ likelihood of MASH ([[aasld-2023-nafld]]).
+- Alanine aminotransferase (ALT) > aspartate aminotransferase (AST); rarely >300 IU/L ([[acg-2017-liver-chemistries]]).
+- Elevated BMI + metabolic syndrome features + mild ALT elevation → screen with ultrasound ([[acg-2017-liver-chemistries]]).
+- MASH is definitive only on [[liver-biopsy]]; noninvasive tests (NITs) suffice for practice and drug candidacy ([[aasld-2025-semaglutide-mash]]).
+
+> [!pitfall] Normal aminotransferases don't exclude fibrosis
+> ALT/AST are often normal even in advanced fibrosis — never use them alone to exclude clinically significant fibrosis (Guidance Statement [GS] 15, [[aasld-2023-nafld]]).
 
 ### Severity Assessment
 
-**Fibrosis staging — use the MASLD-specific Brunt-Kleiner (NASH Clinical Research Network [CRN]) system**, not a viral-hepatitis system ([[aasld-2024-nilda-blood]] Table 3a):
+**Fibrosis staging — Brunt-Kleiner (NASH Clinical Research Network [CRN]) system**, not a viral-hepatitis system ([[aasld-2024-nilda-blood]] Table 3a):
 
 | Stage | Brunt-Kleiner (NAFLD) definition |
 |---|---|
@@ -76,83 +86,42 @@ All the features that define fibrotic MASH — steatosis, ballooning, inflammati
 | **F3** | Bridging fibrosis |
 | **F4** | Cirrhosis |
 
-- ⚠ **Do not convert between staging schemes.** [[aasld-2024-nilda-blood]] states that using scores interchangeably between schemes "is problematic" — e.g. Scheuer stage 3 is **not** equivalent to METAVIR F3, and Ishak 5 ("marked bridging with occasional nodules" / incomplete cirrhosis) is **not** cirrhosis. Full cross-disease comparison of the METAVIR, Scheuer/Batts-Ludwig, Knodell, Ishak, Ludwig (primary biliary cholangitis [PBC]/primary sclerosing cholangitis [PSC]), ALD, and Brunt-Kleiner systems lives on [[liver-biopsy]]
-- **Why the pattern differs here:** in adult fatty liver disease (alcohol- or metabolic-driven), fibrosis begins in **zone 3 (centrilobular)** in a perisinusoidal/pericellular pattern, whereas fibrosis in most other chronic liver disease is **portal-based**. In children with NASH the distribution is reversed — primarily **zone 1 (periportal)** [[aasld-2024-nilda-blood]]
-- Advanced fibrosis (F3–F4) carries significantly elevated liver-related mortality. MASH with stages F2–F3 is the target population for currently FDA-approved pharmacotherapy.
-
-"At-risk" MASH = MASH with **stage ≥2 fibrosis (F2)** — the population at increased risk of cirrhosis and liver-related complications. All-cause mortality rises by fibrosis stage: 0.32 (F0–2) → 0.89 (bridging) → 1.76 per 100 person-years (cirrhosis). [[aasld-2023-nafld]]
+- ⚠ **Don't convert between schemes** — "problematic": Scheuer 3 ≠ METAVIR F3; Ishak 5 (incomplete cirrhosis) ≠ cirrhosis ([[aasld-2024-nilda-blood]]).
+- **"At-risk" MASH = ≥F2**; **F2–F3 = target for US Food and Drug Administration (FDA)-approved drugs**. All-cause mortality/100 person-years: 0.32 (F0–2) → 0.89 (F3) → 1.76 (F4) ([[aasld-2023-nafld]]).
 
 #### Two-tier noninvasive pathway (AASLD)
 
-See [[noninvasive-liver-disease-assessment]] for the cross-disease noninvasive liver disease assessment (NILDA) framework and full cut-point detail.
+*All cut-points, confounders, and serial-monitoring rules: [[noninvasive-liver-disease-assessment|noninvasive liver disease assessment (NILDA)]].*
 
-**Step 1 — Fibrosis-4 index (FIB-4) as universal primary risk assessment** (age × AST / [platelet × √ALT]): [[aasld-2023-nafld]] [[aasld-2024-nilda-blood]]
+1. **Fibrosis-4 index (FIB-4) for everyone** (age × AST / [platelet × √ALT]) ([[aasld-2023-nafld]], [[aasld-2024-nilda-blood]]):
+   - **<1.3** → advanced fibrosis (F3–4) ruled out → primary care; **repeat every 1–2 y** if prediabetes/T2DM or ≥2 metabolic risk factors (GS 12).
+   - **≥1.3** → step 2. Inaccurate <35 y; use >2.0 if >65 y; not in acutely ill patients.
+2. **Secondary test (GS 19):** vibration-controlled transient elastography (VCTE), magnetic resonance elastography (MRE), or Enhanced Liver Fibrosis (ELF) ([[aasld-2023-nafld]]).
 
-- **FIB-4 <1.3** → rules OUT advanced fibrosis (F3–4) with high negative predictive value (NPV); manage in primary care, repeat every 1–2 y if prediabetes/T2DM or ≥2 metabolic risk factors (GS 12). (Alternative rule-out ≥1.45 has a higher diagnostic odds ratio.)
-- **FIB-4 1.3–2.67** → indeterminate; proceed to a secondary test.
-- **FIB-4 >2.67** → rules IN advanced fibrosis (≈94% specificity); consider specialist referral (alternative rule-in ≥3.25).
-- **Cirrhosis cut-points:** FIB-4 ≥3.48 rules in (90% specificity), <1.67 rules out (90% sensitivity).
-- **Age caveat:** FIB-4 is inaccurate <35 y (use secondary assessment) and loses specificity at older age — in patients >65 y use a FIB-4 cutoff >2.0. Not for use in acutely ill patients.
+- **Blood NITs rule out but don't reliably rule in** — FIB-4 alone must not select drug candidates in low-prevalence settings ([[aasld-2024-nilda-blood]]).
 
-**Step 2 — if FIB-4 ≥1.3, secondary test (vibration-controlled transient elastography [VCTE], magnetic resonance elastography [MRE], or Enhanced Liver Fibrosis [ELF]) to exclude advanced fibrosis (GS 19):** [[aasld-2023-nafld]]
+**MRE or VCTE? Depends on pretest risk of cirrhosis** — American Gastroenterological Association (AGA) 2017 ([[aga-2017-elastography-liver-fibrosis]]):
 
-| Modality | Rule out adv. fibrosis | Intermediate | Rule in adv. fibrosis | Cirrhosis range |
-|---|---|---|---|---|
-| VCTE (kPa) | <8 | 8–12 | ≥12 | ≥20 |
-| MRE (kPa) | <2.55 | — | ≥3.63 | ≥5.0 (~95% specificity) |
-| ELF | <7.7 | 7.7–9.8 | ≥9.8 | ≥11.3 |
-| NAFLD fibrosis score (NFS) | < −1.455 | indeterminate (~33%) | > 0.676 | — |
-
-- MRE is the most accurate imaging NIT (area under the receiver operating characteristic curve [AUROC] ~0.93) — superior to VCTE in central adiposity (BMI >35) or narrow rib space (~1400 US machines).
-- **ELF ≥11.3** independently predicts hepatic decompensation and is FDA-approved for prognostication (GS: should prompt cirrhosis screening). ELF had the highest diagnostic odds ratio (≈21.5) for advanced fibrosis among blood tests. [[aasld-2024-nilda-blood]]
-- **Blood NITs rule OUT (high NPV) but do not reliably rule IN (low positive predictive value [PPV])** — FIB-4 alone must not select pharmacotherapy candidates in low-prevalence settings. A primary-care FIB-4 → ELF pathway can cut secondary-care referrals ~80%. [[aasld-2024-nilda-blood]]
-- **Confounders of platelet-based scores (FIB-4/aspartate aminotransferase-to-platelet ratio index [APRI]/NFS):** falsely *lowered* by splenectomy; falsely *raised* by non-portal-hypertensive thrombocytopenia and active inflammation (high AST/ALT); chronic kidney disease (CKD) lowers estimates; NFS distorted by albumin (malnutrition) and postprandial glucose. AASLD **suggests against** blood-based NILDA for serial tracking of fibrosis progression/regression. [[aasld-2024-nilda-blood]]
-
-**MRE or VCTE? In MASLD the answer depends on pretest risk of cirrhosis** — [[aga-2017-elastography-liver-fibrosis]]:
-
-| Pretest risk | Defining features | Est. cirrhosis prevalence | American Gastroenterological Association (AGA) 2017 position |
+| Pretest risk | Features | Cirrhosis prevalence | Position |
 |---|---|---|---|
-| **Higher risk** (specialty referral) | advanced age · obesity, particularly central adiposity · diabetes · **ALT >2× upper limit of normal** | ~30% | **Use MRE rather than VCTE** to detect cirrhosis — conditional, low quality |
-| **Lower risk** (primary care) | signs of fatty liver on imaging only, no high-risk features | ≤5% | **No recommendation — knowledge gap** |
+| **Higher** (specialty referral) | Advanced age · central obesity · diabetes · **ALT >2× upper limit of normal** | ~30% | **MRE over VCTE** (conditional, low) — **119/1000 fewer falsely labeled cirrhotic** |
+| **Lower** (primary care) | Fatty liver on imaging only | ≤5% | **No recommendation** — 2.5× (MRE) to 6× (VCTE) more false than true positives |
 
-- **What MRE buys in the high-risk setting:** essentially **no difference in false negatives**, but **119 in 1000 fewer patients incorrectly classified as having cirrhosis** — patients who would otherwise go on to unnecessary further invasive testing. Head-to-head (2 studies): MRE sensitivity 0.84 / specificity 0.89 vs VCTE 0.83 / 0.72.
-- **Why the low-risk setting gets nothing:** both tests perform poorly there — **2.5× (MRE) to 6× (VCTE) as many false-positive as true-positive results**. Indiscriminate use is likely to cause more harm than benefit when false positives lead to biopsy or to more aggressive management such as bariatric surgery.
-- AGA 2017 also made **no recommendation on VCTE at all** for diagnosing cirrhosis in NAFLD; the bias in the underlying studies that produced that gap is set out on [[noninvasive-liver-disease-assessment]]. The VCTE/MRE/ELF cut-points in the table above are the later AASLD answer and are what the page uses.
+- **Meaningful change** ([[baveno-viii-2026-portal-hypertension|Baveno VIII]], prognostic): confirmed **≥30% liver stiffness measurement (LSM) change by VCTE**, ≥20% by MRE, 0.5-unit ELF; **≥10% weight loss ↔ ≥30% LSM drop** in compensated advanced chronic liver disease (cACLD) — detail on [[liver-stiffness-measurement]].
+- [[hepatic-venous-pressure-gradient|Hepatic venous pressure gradient (HVPG)]] **underestimates** portal pressure in MASLD cACLD — <10 mmHg doesn't exclude decompensation risk.
 
-> **The drug-candidacy NIT windows are a different set of numbers.** The narrower F2–F3 ranges that select patients for [[semaglutide]] and [[resmetirom]] — and the NIT signs of cirrhosis/[[portal-hypertension|portal hypertension]] that contraindicate both — are stated with the prescribing decision under [[#Pharmacotherapy]] below, not here. [[aasld-2025-semaglutide-mash]] [[aasld-2024-resmetirom]]
-
-**How much NIT change is meaningful in MASLD — [[baveno-viii-2026-portal-hypertension|Baveno VIII]] Panel 2, all new.** These are calibrated to the **risk of liver-related events**, which is what Baveno VIII says NITs should be calibrated to rather than fibrosis stage (2.8):
-
-| Test | Change | What it signals |
-|---|---|---|
-| **Liver stiffness measurement (LSM) by VCTE** | **Confirmed ≥30% relative change** | Clinically meaningful change in the risk of liver-related events, **particularly when it crosses the 15 kPa threshold** (2.9). In compensated advanced chronic liver disease (cACLD) **without clinically significant portal hypertension (CSPH)**, a ≥30% *reduction* may indicate **≥1 stage fibrosis regression** (2.6) |
-| **LSM + ELF together** | ≥30% relative LSM reduction **plus ≥0.5-unit absolute ELF reduction** | Assesses ≥1 stage regression better than LSM alone (2.7) |
-| **MRE** | **≥20% relative change** | Clinically meaningful risk change (2.11) |
-| **ELF** | **0.5-unit absolute change** | Clinically meaningful risk change (2.12) |
-| **Point shear wave elastography (pSWE) / two-dimensional shear wave elastography (2D-SWE)** | Probably comparable to VCTE | **Evidence insufficient to recommend them as monitoring tools** (2.10) |
-
-- **The lever: ≥10% weight reduction is associated with a ≥30% relative LSM reduction** in MASLD-related cACLD (2.13) — which ties the weight-loss ladder above to a measurable NIT endpoint.
-- **[[hepatic-venous-pressure-gradient|Hepatic venous pressure gradient (HVPG)]] underestimates the true portal pressure gradient in MASLD-related cACLD** (2.5). An HVPG ≥10 mmHg still marks a significantly increased decompensation risk, but the risk below 10 mmHg is **lower, not absent** — so a sub-threshold gradient in a MASLD patient does not exclude portal hypertension.
-- ⚠ These thresholds are **not** the [[semaglutide]] treatment-response criteria (VCTE ≥30%, MRE ≥20%, magnetic resonance imaging-proton density fat fraction (MRI-PDFF) ≥30%, ALT ≥17 U/L or ≥20%, ELF ≥0.5) under [[#Pharmacotherapy]], even where the numbers coincide. Baveno VIII's are prognostic; AASLD's decide whether to continue a drug.
-
-**Non-invasive steatosis assessment:** [[aasld-2023-nafld]]
-
-- AASLD **recommends AGAINST blood-based steatosis indices** (fatty liver index [FLI], hepatic steatosis index [HSI], NAFLD liver fat score [NLFS]) for routine practice — use imaging.
-- CAP (controlled attenuation parameter) on [[liver-stiffness-measurement|FibroScan]] ≥288 dB/m (point-of-care; GS 18); standard ultrasound NOT recommended to identify steatosis (low sensitivity, GS 17)
-- MRI-PDFF (≥5%) — most accurate; quantifies and tracks dynamic change
+**Steatosis** ([[aasld-2023-nafld]]): imaging, **not blood indices** — controlled attenuation parameter (CAP) ≥288 dB/m (GS 18) or magnetic resonance imaging–proton density fat fraction (MRI-PDFF) ≥5% (most accurate). **Standard ultrasound not recommended** (low sensitivity, GS 17) — newer than, and at odds with, American College of Gastroenterology (ACG) 2017's ultrasound screening above.
 
 ### Classification / Typing
 
-- **MASL:** Steatosis without significant inflammation or fibrosis; low risk of progression
-- **MASH:** Steatosis + lobular inflammation + hepatocyte ballooning ± fibrosis; risk of progression to cirrhosis and HCC
-  - **MASH F2–F3 (moderate-to-advanced fibrosis):** Target population for FDA-approved pharmacotherapy ([[resmetirom]], semaglutide)
-- **MASH-related cirrhosis (F4):** End-stage; HCC risk; decompensation events; semaglutide not approved for this stage
+| Type | Histology | Implication |
+|---|---|---|
+| **MASL** | Steatosis, no significant inflammation/fibrosis | Low progression risk |
+| **MASH** | Steatosis + lobular inflammation + hepatocyte ballooning ± fibrosis | Can progress to cirrhosis, HCC |
+| **MASH F2–F3** | Moderate–advanced fibrosis | Drug target ([[resmetirom]], [[semaglutide]]) |
+| **MASH cirrhosis (F4)** | Cirrhosis | No approved MASH drug |
 
-#### Lean MASLD (lean NAFLD)
-
-- **[[lean-nafld|Lean NAFLD]]** = NAFLD/MASLD with BMI **<25 kg/m² (non-Asian race)** or **<23 kg/m² (Asian race)**; **7%–20%** of people with NAFLD (≈8–10 million US adults). [[aga-2022-lean-nafld]]
-- It is **not a benign phenotype** — lower fibrosis stage at baseline but a higher risk of developing severe liver disease and of liver-related death than nonlean NAFLD, independent of weight gain.
-- The lean phenotype has its **own secondary-cause differential, its own sequential FIB-4 → ELF/VCTE staging cut-points, a lower 3%–5% weight-loss target, and biopsy-gated vitamin E / pioglitazone rules** — all on [[lean-nafld]].
+- **[[lean-nafld|Lean MASLD]]** — BMI **<25 kg/m² (non-Asian) / <23 kg/m² (Asian)**; **7%–20%** of NAFLD. **Not benign** — lower baseline fibrosis but higher risk of severe liver disease and liver death than nonlean. Own differential, staging cut-points, 3%–5% weight target, and drug rules on that page ([[aga-2022-lean-nafld]]).
 
 ---
 
@@ -160,43 +129,28 @@ See [[noninvasive-liver-disease-assessment]] for the cross-disease noninvasive l
 
 *Workup: see [[abnormal-liver-chemistries]].*
 
-*In a lean patient the secondary-cause differential is wider and is worked through stepwise — see [[lean-nafld]].*
+*Lean patient → wider, stepwise secondary-cause workup on [[lean-nafld]].*
 
-- [[alcohol-associated-liver-disease]] — alcohol history; AST:ALT ratio ≥2:1; gamma-glutamyltransferase (GGT) elevated; can coexist with MASLD; MetALD is the overlapping spectrum
-- [[drug-induced-liver-injury]] — steatohepatitis pattern DILI (amiodarone, tamoxifen, methotrexate, corticosteroids)
-- [[hereditary-hemochromatosis]] — elevated ferritin common in MASLD but transferrin saturation (TS) usually normal; HFE testing
-- [[wilson-disease]] — young patient; ceruloplasmin
-- [[autoimmune-hepatitis]] — antinuclear antibody (ANA)/anti-smooth muscle antibody (ASMA)/IgG; biopsy distinguishes (plasma cell infiltrate, interface hepatitis)
-- [[celiac-disease]] — modest transaminase elevation; tissue transglutaminase (TTG)-IgA
-- Thyroid disease — thyroid-stimulating hormone (TSH); both hypothyroidism and hyperthyroidism can cause elevated transaminases
+- ALD — AST:ALT ≥2:1, gamma-glutamyltransferase (GGT) ↑; coexists with MASLD (MetALD)
+- DILI — steatohepatitis pattern (amiodarone, tamoxifen, methotrexate, corticosteroids)
+- [[hereditary-hemochromatosis]] — ferritin often ↑ in MASLD but transferrin saturation usually normal; HFE testing
+- Wilson disease — young patient; ceruloplasmin
+- Autoimmune hepatitis — antinuclear antibody (ANA), anti-smooth muscle antibody (ASMA), IgG; biopsy (plasma cells, interface hepatitis)
+- Celiac disease — modest aminotransferase rise; tissue transglutaminase (TTG)-IgA
+- Thyroid disease — thyroid-stimulating hormone (TSH); hypo- or hyperthyroidism
 
 ---
 
 ## Diagnostics
 
-**Imaging:**
-
-- Ultrasound — screening for steatosis (hyperechoic liver); cannot reliably stage fibrosis
-- Computed tomography (CT) — hepatic attenuation assessment for steatosis; radiation exposure
-- MRI-PDFF — most accurate non-invasive quantification of liver fat content
-- MRE — most accurate imaging-based LSM; superior to VCTE in obesity and central adiposity
-- [[liver-stiffness-measurement|FibroScan (VCTE)]] — point-of-care LSM (fibrosis) + CAP (steatosis); widely available; limitations in severe obesity (BMI >40), narrow rib spaces
-
-**Laboratory:**
-
-- Basic metabolic panel, complete blood count (CBC) (platelet count for [[portal-hypertension|portal hypertension]] assessment)
-- FIB-4 index — first-line NIT; see Severity Assessment above
-- ELF score — second-line blood-based NIT for fibrosis staging
-- HbA1c, fasting glucose/insulin, lipid panel — metabolic comorbidity assessment
-- Phosphatidylethanol (PEth) + Alcohol Use Disorders Identification Test-Consumption (AUDIT-C) — alcohol use assessment prior to pharmacotherapy initiation [[aasld-2025-semaglutide-mash]]
+- **Imaging:** ultrasound (can't stage fibrosis); computed tomography (CT) attenuation; MRI-PDFF/CAP, VCTE/MRE as above (VCTE limited in BMI >40, narrow rib spaces).
+- **Labs:** complete blood count (CBC) (platelets for FIB-4, [[portal-hypertension]]), metabolic panel, HbA1c, fasting glucose/insulin, lipids; **phosphatidylethanol (PEth) + Alcohol Use Disorders Identification Test–Consumption (AUDIT-C)** before drug therapy ([[aasld-2025-semaglutide-mash]]).
 
 **Liver biopsy:**
 
-- Definitive for diagnosis and staging. The two most commonly used systems in steatotic liver disease are **Brunt** (4 grades, 0–3; 5 stages, 0–4) and the **NASH CRN NAFLD Activity Score (NAS)**. Both grade **steatosis by the percentage of steatotic hepatocytes**: normal **<5%** · mild **5%–33%** · moderate **34%–66%** · severe **>66%** [[aasld-2024-nilda-blood]]
-  - [[aasld-2023-nafld]] uses the "NAS ≥4" trial-entry threshold without printing the NAS **component point values** (steatosis/lobular inflammation/ballooning sub-scores summing to 0–8); score from the original NASH CRN instrument (Kleiner 2005).
-- Not routinely required for pharmacotherapy candidacy in most patients
-- **When to biopsy anyway** — reserve it for NITs that are **indeterminate or discordant**, NITs that **conflict** with other clinical/laboratory/radiologic findings, or **suspected alternative etiology**. Applying the sequential NIT pair instead of a single test (see [[noninvasive-liver-disease-assessment]]) cut biopsy need from 33% → 19%. [[aga-2023-nafld-noninvasive-biomarkers]]
-- If biopsy performed within prior 6–12 months without substantial interval weight change, disease stage can be used to inform pharmacotherapy decisions; obtaining a baseline NIT before initiating therapy remains beneficial for longitudinal monitoring [[aasld-2025-semaglutide-mash]]
+- Brunt (grades 0–3, stages 0–4) and NASH CRN NAFLD Activity Score (NAS) both grade **steatosis by % steatotic hepatocytes**: normal **<5%** · mild **5%–33%** · moderate **34%–66%** · severe **>66%** ([[aasld-2024-nilda-blood]]). AASLD 2023 cites NAS ≥4 (of 0–8) as trial entry; component points not printed.
+- **Not routinely needed for drug candidacy.** Biopsy only for indeterminate/discordant NITs, NITs conflicting with other findings, or suspected alternative etiology ([[aga-2023-nafld-noninvasive-biomarkers]]).
+- Biopsy ≤6–12 mo old without major weight change can set stage for drug decisions; still get a baseline NIT for monitoring ([[aasld-2025-semaglutide-mash]]).
 
 ---
 
@@ -204,194 +158,106 @@ See [[noninvasive-liver-disease-assessment]] for the cross-disease noninvasive l
 
 ### Lifestyle Modification (First-Line for All Stages)
 
-Lifestyle modification is the cornerstone of MASLD/MASH management regardless of pharmacotherapy status: caloric restriction, increased physical activity, behavioral modification, and optimization of metabolic comorbidities (T2DM, hypertension, dyslipidemia). [[aasld-2025-semaglutide-mash]]
+Cornerstone at every stage, with or without drugs ([[aasld-2025-semaglutide-mash]]).
 
-- **Weight-loss dose-response (GS 20):** **3–5%** improves steatosis; **7–10%** improves NASH/inflammation; **>10%** improves or reverses fibrosis. [[aasld-2023-nafld]] ([[aasld-2025-semaglutide-mash]] gives the same ladder as ≥5% / 7–10% / ≥10%.)
-  - [[aga-2021-lifestyle-modification-nafld]] states the ladder **among patients with NASH** as **≥5%** total body weight (TBW) → decreases steatosis · **≥7%** → NASH resolution · **≥10%** → fibrosis regression/stability, and sets **10% TBW as the goal** in overweight/obese NAFLD. In the pivotal 1-year intensive-lifestyle cohort: 5%–6.99% loss → 65% improved steatosis; 7%–8.99% → 64% NASH resolution; ≥10% → 45% regressed ≥1 fibrosis stage and the other 55% stabilized. A 48-week intensive-lifestyle randomized controlled trial (RCT) (mean 9.3% TBW lost) improved steatosis, lobular inflammation, ballooning, and NAS at ≥7% loss but **showed no change in fibrosis** — fibrosis moves only at the top of the ladder.
-  - **≥10% weight reduction is also the lever for a ≥30% relative LSM reduction** in MASLD-related cACLD — see [[#Severity Assessment]] above.
-- **Calorie prescription:** clinically significant weight loss generally requires a **hypocaloric diet targeting 1200–1500 kcal/d, or a reduction of 500–1000 kcal/d from baseline** — operationally **1200 kcal/d for women and 1400–1500 kcal/d for men**. Improvements in intrahepatic fat can persist even with weight regain 2 y later. Long-term data are lacking for very-low-calorie (~800 kcal/d) diets. Delivery should be a **team approach** with diet/exercise-trained personnel, and the plan culturally sensitive, socially appropriate, obtainable, and measurable. [[aga-2021-lifestyle-modification-nafld]]
-- **Diet:** **Mediterranean diet** preferred (limited carbs/saturated fat, high fiber/unsaturated fat) for added cardiovascular (CV) benefit; limit fructose/sugar-sweetened beverages. [[aasld-2023-nafld]]
-  - **Composition:** daily fresh vegetables, fruit, legumes, minimally processed whole grains, and fish; **olive oil, nuts, and seeds as the primary fat sources**; minimal-to-low dairy and red/processed meat. It reduces hepatic steatosis and raises insulin sensitivity **even without weight loss**. Each standard deviation (SD) rise in Mediterranean Diet Score → **26% lower risk of incident fatty liver**. [[aga-2021-lifestyle-modification-nafld]]
-  - **Meat intakes associated with NAFLD — limit these:** total meat ≥1.1 portions/d (≥7.7/wk) · red meat ≥0.33 portions/d (≥2.3/wk) · processed meat ≥0.10 portions/d (≥0.7/wk).
-  - **Fructose:** restrict *commercially produced* fructose (high-fructose corn syrup in sugar-sweetened beverages) — associated with higher fibrosis stage. **Fructose in fruit is not associated with NAFLD; do not restrict fruit.**
-  - **Not adequately studied for histologic end points** (individualize, don't prescribe by default): low-carbohydrate/high-protein diets, meal-replacement protocols, intermittent fasting/time-restricted eating, and vitamin supplementation.
-  - **Normal-weight / [[lean-nafld|lean NAFLD]]** gets the same hypocaloric diet at a **lower target of 3%–5% TBW loss** — see [[lean-nafld]] for that target, its trial basis, and the rest of the lean-specific plan.
-- **Exercise** strongly encouraged, benefit independent of weight loss (GS 21); **coffee ≥3 cups/day** associated with less advanced liver disease. [[aasld-2023-nafld]]
-  - **Dose:** **150–300 min/wk moderate-intensity** (3–6 metabolic equivalents [METs]) **or 75–150 min/wk vigorous-intensity** (>6 METs) aerobic exercise. **Resistance training is complementary, not a replacement** — it lowers steatosis at lower intensity, so it is an option with limited aerobic capacity, but **walking >3 h/wk** is what was associated with fewer cirrhosis-related deaths and less [[hepatocellular-carcinoma|HCC]]. Exercise alone (no diet change) lowers liver fat but gave only a nonsignificant ALT trend. Moderate activity **plus** the Mediterranean diet produced the most weight loss and the greatest fall in visceral adipose tissue and intrahepatic fat. [[aga-2021-lifestyle-modification-nafld]]
-- **Alcohol** is a cofactor for progression — assess regularly (GS 6); patients with ≥F2 fibrosis should **abstain completely** (GS 7). [[aasld-2023-nafld]]
-  - The dose behind restricting everyone else: in 8345 people with NAFLD followed a mean 11.1 y, **9–20 g/d of alcohol — or 0–9 g/d of non-wine alcohol — doubled the risk of adverse liver-related outcomes** vs lifetime abstainers. Any protective cardiovascular signal (up to 49 g/d) appeared **only in never-smokers**, so **current or prior smokers with NAFLD should avoid alcohol entirely**. [[aga-2021-lifestyle-modification-nafld]]
-- **Comorbidity screen (do it at every NAFLD visit):** [[obesity]], diabetes mellitus, hypertension, dyslipidemia, cardiovascular disease (CVD), **and obstructive sleep apnea** — manage aggressively and risk-stratify for CVD per American College of Cardiology (ACC)/American Heart Association (AHA). Prevalence in NAFLD vs NASH: obesity 51.3% / 81.8% · T2DM 22.5% / 43.6% · dyslipidemia 69.2% / 72.1% · hypertriglyceridemia 40.7% / 83.3% · hypertension 39.3% / 68.0% · metabolic syndrome 42.5% / 70.7%. Roughly **1 in 4** people with NAFLD have NASH. [[aga-2021-lifestyle-modification-nafld]]
+**Weight-loss dose–response** (% total body weight [TBW]; AASLD GS 20 [[aasld-2023-nafld]] / AGA [[aga-2021-lifestyle-modification-nafld]]):
 
-**Sarcopenia in MASH cirrhosis — the hypocaloric advice inverts.** [[aga-2021-lifestyle-modification-nafld]]
+| Loss | Effect |
+|---|---|
+| **3–5%** / **≥5%** | ↓ Steatosis |
+| **7–10%** / **≥7%** | NASH improvement / resolution |
+| **>10%** / **≥10%** | Fibrosis regression or stability — **10% TBW = AGA goal** if overweight/obese |
 
-- 59% of transplant-waitlisted cirrhotics are sarcopenic, and **MASH cirrhosis carries a 6-fold higher likelihood of sarcopenic obesity**; low muscle mass with obesity predicts higher mortality. The cirrhotic liver cannot store, synthesize, and mobilize carbohydrate, so patients shift rapidly into a catabolic state burning protein and fat.
-- **Avoid caloric deficits** — build an individualized plan meeting full caloric and nutritional requirements.
-- **Protein ≥1.2–1.5 g/kg/day**, with branched-chain amino acids from chicken, fish, eggs, nuts, lentils, and/or soy.
-- **Frequent small meals; never more than 4–6 hours between them.** Add a **bedtime snack with protein and ≥50 g of complex carbohydrate**.
-- **Moderate-intensity exercise ~150 min/wk**, and refer to a specialized nutritionist. See also [[nutrition-in-hospitalized-patients]].
+- Fibrosis moves only at the top — 9.3% mean loss improved activity but **not fibrosis** ([[aga-2021-lifestyle-modification-nafld]]). Lean target 3%–5% ([[lean-nafld]]).
+
+**Prescription** ([[aga-2021-lifestyle-modification-nafld]] unless noted):
+
+- **Calories:** 1200–1500 kcal/d or −500 to −1000 kcal/d (≈**1200 ♀ / 1400–1500 ♂**); team delivery. Very-low-calorie (~800 kcal/d) diets lack long-term data.
+- **Diet: Mediterranean** — vegetables, fruit, legumes, whole grains, fish; olive oil, nuts, seeds as main fats; little dairy/red/processed meat (total ≥1.1, red ≥0.33, processed ≥0.10 portions/d associated with NAFLD). ↓ Steatosis **even without weight loss**; also preferred for cardiovascular (CV) benefit ([[aasld-2023-nafld]]). Low-carb, meal replacement, intermittent fasting: not studied for histology.
+- **Exercise:** **150–300 min/wk moderate** (3–6 metabolic equivalents [METs]) **or 75–150 min/wk vigorous** (>6 METs); resistance training complements, doesn't replace; benefit independent of weight loss (GS 21, [[aasld-2023-nafld]]).
+- **Coffee ≥3 cups/d** — less advanced disease ([[aasld-2023-nafld]]).
+- **Alcohol:** assess regularly (GS 6); **≥F2 → abstain completely** (GS 7) ([[aasld-2023-nafld]]). In NAFLD, **9–20 g/d** (or 0–9 g/d non-wine) **doubled** adverse liver outcomes vs lifetime abstainers; **current/prior smokers → avoid alcohol entirely**.
+- **Comorbidity screen every visit:** obesity, diabetes, hypertension, dyslipidemia, cardiovascular disease (CVD), **obstructive sleep apnea**; CVD risk per American College of Cardiology (ACC)/American Heart Association (AHA).
+
+> [!pearl] Restrict commercial fructose, not fruit
+> High-fructose corn syrup in sugar-sweetened beverages is associated with higher fibrosis stage; **fructose in fruit is not associated with NAFLD — don't restrict fruit** ([[aga-2021-lifestyle-modification-nafld]]).
+
+> [!pitfall] MASH cirrhosis: no caloric deficit
+> MASH cirrhosis carries a **6-fold higher likelihood of sarcopenic obesity** — avoid caloric deficits; **protein ≥1.2–1.5 g/kg/d**; small meals **≤4–6 h apart** plus a **bedtime snack with protein and ≥50 g complex carbohydrate**; moderate exercise ~150 min/wk; refer to a nutritionist ([[aga-2021-lifestyle-modification-nafld]]; more on [[nutrition-in-liver-disease]]).
 
 ### Pharmacotherapy
 
-#### Semaglutide (Wegovy) — FDA-Approved August 2025 for MASH F2–F3
+#### FDA-Approved for MASH F2–F3
 
-[[semaglutide]] is a [[glp-1-receptor-agonists|glucagon-like peptide-1 receptor agonist (GLP-1 RA)]] approved for MASH with moderate-to-advanced fibrosis (consistent with stages F2–F3). See [[semaglutide]] for full drug page. [[aasld-2025-semaglutide-mash]]
+*Dosing, interactions, baseline workup, monitoring, and response/futility criteria live on each drug page.*
 
-**Candidacy (NIT-based selection):** [[aasld-2025-semaglutide-mash]]
-
-| NIT | Recommended range | May be used (individualized) | Cirrhosis — NOT recommended |
-|---|---|---|---|
-| VCTE (LSM, kPa) | 8–15 | 15–20 (exclude cirrhosis) | >20 |
-| MRE (LSM, kPa) | 3.1–4.4 | 4.4–5.0 (exclude cirrhosis) | >5.0 |
-| ELF score | 9.2–10.5 | 10.5–11.3 (exclude cirrhosis) | >11.3 |
-| Liver histology | MASH F2–F3 (biopsy ≤6–12 months ago) | | Cirrhosis |
-
-Sequential strategy: Calculate FIB-4 first → if ≥1.3, proceed to elastography or ELF → confirm F2–F3 range.
-
-**Contraindications:** Cirrhosis — **VCTE >20 kPa, MRE >5.0 kPa, ELF >11.3, nodular liver contour on cross-sectional imaging, or platelet count <150,000/mm³** (these same NIT signs of cirrhosis/portal hypertension also contraindicate [[resmetirom]]); personal/family history of medullary thyroid carcinoma (MTC) or multiple endocrine neoplasia type 2 (MEN2); pregnancy; active suicidal ideation at initiation.
-
-**Dosing:** 2.4 mg subcutaneous injection once weekly (titrated)
-
-**Efficacy (ESSENCE trial, 72 weeks):**
-
-- MASH resolution without fibrosis worsening: 62.9% vs. 34.3% placebo
-- ≥1 fibrosis stage reduction without MASH worsening: 36.8% vs. 22.4% placebo
-
-**Treatment response monitoring (at 72 weeks — using same NITs used for candidacy):**
-
-- Beneficial response: VCTE LSM decrease ≥30%; MRE LSM decrease ≥20%; MRI-PDFF decrease ≥30%; ALT decrease ≥17 U/L or ≥20%; ELF decrease ≥0.5 → continue semaglutide
-- Sub-threshold improvement without cirrhosis progression → benefit uncertain → re-evaluate strategy
-- Non-response (NITs worsening or suggesting cirrhosis progression) → stop semaglutide
-
-**Pre-treatment baseline assessment:** Hepatic function panel, NIT of fibrosis, NIT of steatosis, thyroid nodule evaluation, retinal exam in T2DM (if not done in past 12 months), active suicidal ideation screening, PEth + AUDIT-C.
-
-#### Resmetirom (Rezdiffra) — FDA-Approved March 2024 for MASH F2–F3
-
-Oral **thyroid hormone receptor-β (THR-β) agonist**; first FDA-approved pharmacotherapy for MASH (accelerated approval, contingent on long-term outcome verification). Approved for MASH with moderate-to-advanced fibrosis (F2–F3); liver biopsy NOT required for diagnosis. [[aasld-2024-resmetirom]]
-
-**Efficacy (MAESTRO-NASH, 52 wk):** MASH resolution without worsening fibrosis 26–30% (vs 10% placebo); ≥1-stage fibrosis improvement without worsening MASH 24–26% (vs 14% placebo).
-
-**Candidacy:** imaging-based NILDA preferred — VCTE 8–15 kPa or MRE 3.1–4.4 kPa (ELF 9.2–10.4 where imaging unavailable), or historical biopsy showing MASH F2–F3. [[aasld-2024-resmetirom]]
-
-**Dosing:** 100 mg/day (≥100 kg) or 80 mg/day (<100 kg). With a moderate CYP2C8 inhibitor (e.g. clopidogrel): 80 mg (≥100 kg) / 60 mg (<100 kg). Statin drug-drug interaction (DDI) max doses: rosuvastatin 20, simvastatin 20, atorvastatin 40, pravastatin 40 mg/day (resmetirom lowers low-density lipoprotein cholesterol [LDL-C]).
-
-**Pretreatment / not recommended in:** compensated or decompensated cirrhosis; uncontrolled active liver disease (autoimmune hepatitis [AIH], [[primary-biliary-cholangitis|PBC]]); alcohol >20 g/d (♀) / >30 g/d (♂); untreated thyroid dysfunction (optimize first — baseline TSH required); symptomatic gallstone disease (e.g. [[acute-cholecystitis|acute cholecystitis]]).
-
-**Monitoring & adverse events:** hepatic function panel at baseline, 3, 6, 12 mo — discontinue for hepatotoxicity per [[drug-induced-liver-injury]] thresholds. Common adverse events (AEs): diarrhea (24–34%), nausea (12–22%), increased symptomatic gallstones; one severe DILI/AIH-like case. Routine thyroid monitoring not needed if baseline normal.
-
-**Efficacy/futility at 12 mo:** repeat the candidacy NIT — VCTE improvement ≥25% or MRE ≥20% from baseline = significant improvement → continue; consistent ALT rise or NILDA fibrosis progression → consider stopping; <30% MRI-PDFF reduction at 52 wk = futility signal (CAP not useful for response). Fibrosis *stabilization* may still benefit advanced-fibrosis patients — lack of improvement should not mandate discontinuation. [[aasld-2024-resmetirom]]
-
-**Combination with semaglutide/GLP-1 RA:** not formally studied (MAESTRO-NASH excluded recent GLP-1 RA/thiazolidinedione (TZD)/vitamin E initiators); relative efficacy not established — individualize. [[aasld-2025-semaglutide-mash]] [[aasld-2024-resmetirom]]
-
-#### Other Pharmacotherapy (no FDA approval for MASH; AASLD guidance statements)
-
-*All guidance statements below from [[aasld-2023-nafld]].*
-
-- **Semaglutide (GS 24):** can be considered for its approved T2DM/obesity indications in patients with NASH (CV benefit + improves NASH); now FDA-approved for MASH F2–F3 (Aug 2025) — see [[semaglutide]].
-- **Pioglitazone 30–45 mg (GS 25):** improves NASH ± fibrosis; consider in NASH with T2DM (AEs: weight gain, heart failure, bone loss).
-- **Vitamin E (rrr-α) 800 IU/day (GS 26):** improves NASH in non-diabetics (PIVENS); possible hemorrhagic stroke / prostate cancer concerns.
-- **No antifibrotic benefit demonstrated** for semaglutide, pioglitazone, or vitamin E, and none studied in cirrhosis (GS 27).
-- **Do NOT use** metformin, [[ursodeoxycholic-acid|ursodeoxycholic acid (UDCA)]], dipeptidyl peptidase-4 (DPP-4) inhibitors, statins (for NASH per se), or silymarin to treat NASH — no meaningful histologic benefit (GS 28).
-- No established pharmacotherapy for simple steatosis (MASL).
-
-#### Bariatric / Metabolic Surgery and Endoscopic Interventions
-
-*AASLD positions below from [[aasld-2023-nafld]].*
-
-- [[bariatric-surgery|Bariatric surgery]] (Roux-en-Y gastric bypass [RYGB], sleeve gastrectomy) resolves NASH without worsening fibrosis in ~80% at 1 y (sustained at 5 y); reduces CV/malignancy mortality — consider for eligible non-cirrhotic patients (GS 22).
-- **Decompensated cirrhosis = absolute contraindication**; compensated NASH cirrhosis only at high-volume centers / combined with liver transplantation (LT).
-- Endoscopic sleeve gastroplasty / [[intragastric-balloon|intragastric balloon]] — emerging, less-invasive options.
-
-**[[baveno-viii-2026-portal-hypertension|Baveno VIII]] Panel 2 splits the decision by CSPH, not by cirrhosis** — the operative question becomes whether [[portal-hypertension|clinically significant portal hypertension]] is present, which is answerable non-invasively:
-
-| Stage | Baveno VIII position | Statement |
+| | [[semaglutide\|Semaglutide (Wegovy)]] ([[aasld-2025-semaglutide-mash]]) | [[resmetirom\|Resmetirom (Rezdiffra)]] ([[aasld-2024-resmetirom]]) |
 |---|---|---|
-| **MASLD-related cACLD *without* CSPH** | Metabolic and bariatric surgery carries **only a modest increase in surgical-complication risk** and may improve liver histology and liver-related events. **MASLD-related cACLD may itself be treated as an obesity-associated morbidity that justifies surgery at a *lower* BMI threshold** | 2.14 |
-| **Features suggestive of CSPH** | **Surgical complications are increased.** Manage with a **multidisciplinary team at an expert centre** | 2.15 |
-| **Decompensated cirrhosis** | **Generally contraindicated**, except in highly specialised settings such as **in conjunction with [[liver-transplantation\|liver transplantation]]**; multidisciplinary team at an expert centre | 2.16 |
+| Class | [[glp-1-receptor-agonists\|Glucagon-like peptide-1 receptor agonist (GLP-1 RA)]], 2.4 mg subcutaneous weekly | Oral thyroid hormone receptor-β (THR-β) agonist |
+| FDA approval | August 2025 | March 2024 (accelerated) |
+| Candidacy (F2–F3) | VCTE **8–15** kPa · MRE **3.1–4.4** kPa · ELF **9.2–10.5**; individualize at 15–20 / 4.4–5.0 / 10.5–11.3 after excluding cirrhosis; or biopsy F2–F3 | VCTE **8–15** kPa or MRE **3.1–4.4** kPa (ELF **9.2–10.4** if imaging unavailable); or biopsy F2–F3 |
+| Not for | Cirrhosis; personal/family medullary thyroid carcinoma (MTC) or multiple endocrine neoplasia type 2 (MEN2); pregnancy; active suicidal ideation | Cirrhosis; uncontrolled autoimmune hepatitis/[[primary-biliary-cholangitis\|primary biliary cholangitis (PBC)]]; alcohol >20 g/d ♀ / >30 g/d ♂; untreated thyroid dysfunction; symptomatic gallstones ([[acute-cholecystitis\|acute cholecystitis]]) |
 
-- Concordant with the AASLD position above, but adds the lower-BMI-threshold argument for cACLD without CSPH, and replaces "compensated cirrhosis at high-volume centres" with a CSPH-based gate. **Assess CSPH before referring** — criteria on [[portal-hypertension]].
+- **Sequence:** FIB-4 → if ≥1.3, elastography or ELF → confirm the F2–F3 window; PEth + AUDIT-C before starting ([[aasld-2025-semaglutide-mash]]).
+- **NIT signs of cirrhosis that exclude both drugs:** VCTE >20 kPa, MRE >5.0 kPa, ELF >11.3, nodular liver contour on cross-sectional imaging, or platelets <150,000/mm³ ([[aasld-2025-semaglutide-mash]]).
+- **Combination** resmetirom + GLP-1 RA not formally studied — individualize ([[aasld-2025-semaglutide-mash]], [[aasld-2024-resmetirom]]).
+
+#### Other Agents (AASLD Guidance Statements)
+
+All [[aasld-2023-nafld]]:
+
+| Agent | Position |
+|---|---|
+| **Pioglitazone 30–45 mg** | Improves NASH ± fibrosis; consider in NASH **with T2DM** (GS 25). Adverse effects: weight gain, heart failure, bone loss |
+| **Vitamin E (rrr-α) 800 IU/d** | Improves NASH in **non-diabetics** (GS 26); possible hemorrhagic stroke / prostate cancer concern |
+| Metformin, [[ursodeoxycholic-acid\|ursodeoxycholic acid (UDCA)]], dipeptidyl peptidase-4 (DPP-4) inhibitors, statins (as NASH therapy), silymarin | **Do not use** to treat NASH — no meaningful histologic benefit (GS 28) |
+
+- No antifibrotic benefit shown for semaglutide, pioglitazone, or vitamin E; none studied in cirrhosis (GS 27). No drug for MASL.
 
 #### Pharmacotherapy in MASLD-related cirrhosis — Baveno VIII
 
-> ⚠ **Do not extrapolate the F2–F3 trial data to a cirrhotic patient.** [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 2.17 (level of evidence [LoE] 2, strong): **there are currently no regulatory approved pharmacologic therapies for MASLD with established cirrhosis**, and **efficacy data from non-cirrhotic MASLD populations (moderate or advanced fibrosis) should not be extrapolated to established cirrhosis.** This is the same boundary the [[semaglutide]] and [[resmetirom]] candidacy tables draw with NIT cut-offs (VCTE >20 kPa, MRE >5.0 kPa, ELF >11.3, nodular contour, platelets <150,000/mm³) — Baveno VIII states it as a general rule.
+> [!pitfall] Don't extrapolate F2–F3 drug data to cirrhosis
+> No regulator-approved drug exists for MASLD with established cirrhosis; efficacy data from non-cirrhotic MASLD **should not be extrapolated** to it (Baveno VIII 2.17, level of evidence 2, strong; [[baveno-viii-2026-portal-hypertension]]).
 
-- **What to do instead (2.18):** optimise **lifestyle and metabolic comorbidities**, **prevent hepatic decompensation** (see [[portal-hypertension]]), and **refer for clinical trial participation**.
-- **[[glp-1-receptor-agonists|GLP-1-based therapies]] and sodium-glucose cotransporter-2 (SGLT2) inhibitors are safe in cACLD (2.19).** Both classes — including mono- and multi-receptor GLP-1 agonists — **can be safely used in patients with cACLD, absent contraindications, for their approved indications**: type 2 diabetes for both, and **obesity for the GLP-1–based therapies**. The distinction matters: this is a **safety** statement about treating the metabolic disease in a patient who happens to have cACLD, **not** an efficacy claim about treating the liver disease.
+- **Instead (2.18):** optimize lifestyle/metabolic comorbidities, prevent decompensation, refer for trials.
+- **GLP-1–based therapies and sodium-glucose cotransporter-2 (SGLT2) inhibitors are safe in cACLD** for approved indications (T2DM; obesity) — safety, not liver efficacy (2.19).
 
-#### Liver Transplantation
+### Bariatric / Metabolic Surgery and Endoscopic Interventions
 
-- Indicated for decompensated MASH cirrhosis; recurrent and de novo MASLD in the allograft is common — see [[#Post-Liver-Transplant MASLD Management]] below.
+- [[bariatric-surgery|Bariatric surgery]] resolves NASH without worsening fibrosis in ~80% at 1 y — consider in eligible non-cirrhotic patients (GS 22). **Decompensated cirrhosis = absolute contraindication**; compensated cirrhosis only at high-volume centers or with liver transplant (LT) ([[aasld-2023-nafld]]). Cirrhosis candidacy by stage and clinically significant portal hypertension (CSPH) on that page ([[baveno-viii-2026-portal-hypertension]]).
+- Endoscopic sleeve gastroplasty, [[intragastric-balloon|intragastric balloon]] — emerging options ([[aasld-2023-nafld]]).
+
+### Liver Transplantation and Post-Transplant MASLD
+
+- LT for decompensated MASH cirrhosis; MASLD is a leading LT and, in some series, re-LT indication ([[aasld-ast-2025-liver-transplant-graft-complications]]).
+- **Recurrent/de novo MASLD in 30–40%**, driven by weight gain and immunosuppression (steroids, [[calcineurin-inhibitors|calcineurin inhibitors (CNIs)]], mTOR inhibitors); can reach graft cirrhosis.
+- **Management = metabolic control** + early steroid withdrawal/CNI minimization; **GLP-1 RAs** for post-LT obesity (Rec 64) and high-risk T2DM (Rec 59) ([[aasld-ast-2025-liver-transplant-non-graft-complications]]). No MASH-specific post-LT drug proven. Detail on [[liver-transplantation]].
 
 ### Cardiometabolic Risk Management in MASLD
 
-Cardiovascular disease is the most common cause of death in patients with MASLD. Management targets include: [[aasld-2025-semaglutide-mash]]
+CVD is the most common cause of death in MASLD ([[aasld-2025-semaglutide-mash]]).
 
-- Dyslipidemia — **statins are safe and recommended** for CVD risk reduction across the MASLD spectrum including compensated cirrhosis (GS 1); careful-monitoring use possible in decompensated cirrhosis with high CV risk (GS 2). Hypertriglyceridemia → omega-3/icosapent ethyl/fibrates (GS 3). [[aasld-2023-nafld]]
-- Hypertension
-- T2DM — GLP-1 RAs (including semaglutide) dual benefit for weight loss and CV protection
-- Obesity — GLP-1 RAs/glucose-dependent insulinotropic polypeptide (GIP)-GLP-1 dual agonists, surgical/endoscopic options
-
-**Semaglutide's cardiometabolic benefits in MASLD context:**
-
-- SELECT trial: 1.5% absolute risk reduction in composite CV outcomes over 40 months in non-diabetic individuals with obesity/overweight and established CV disease
-- FLOW trial (T2DM + CKD): 24% relative risk reduction in kidney failure/CV death with semaglutide 1.0 mg/week
-- Benefits likely relevant to MASLD patients given high prevalence of overlapping metabolic comorbidities
-
----
-
-*For semaglutide prescribing details, dosing, and safety monitoring table, see [[semaglutide]]. For the NIT interpretation framework see [[aasld-2024-nilda-blood]] (blood-based) and [[aasld-2023-nafld]] (Table 5 cut-points); for resmetirom see [[aasld-2024-resmetirom]].*
-
----
-
-### Post-Liver-Transplant MASLD Management
-
-Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD post-LT recommendations):
-
-**Epidemiology:**
-
-- MASLD is now the leading or co-leading indication for LT in the United States
-- Recurrent and de novo MASLD post-LT occurs in 30–40% of recipients in some series
-- Metabolic risk factors (obesity, diabetes mellitus [DM], dyslipidemia, hypertension [HTN]) accumulate post-LT, driven by immunosuppression (corticosteroids, [[calcineurin-inhibitors|calcineurin inhibitors (CNIs)]], mTOR inhibitors)
-- Recurrent MASLD may progress to cirrhosis of the allograft
-
-**Post-LT Monitoring:**
-
-- Annual metabolic assessment: fasting glucose, HbA1c, fasting lipids, BMI, blood pressure
-- Liver biochemistries per standard post-LT protocol; abnormal tests may warrant Doppler US and liver biopsy to confirm recurrent MASLD vs. rejection or other cause
-
-**Management:**
-
-- **Weight management**: Structured diet and exercise program; caloric restriction; avoid excessive weight gain
-- **Metabolic control**: Tight management of DM, HTN, dyslipidemia
-- **Immunosuppression (IS) minimization**: early corticosteroid withdrawal where rejection risk allows reduces metabolic syndrome severity; minimize CNI exposure where feasible. The CNI switches run in opposite directions depending on the comorbidity — see [[liver-transplantation#Immunosuppression Optimization for Metabolic Comorbidities|liver transplantation]].
-- **Pharmacotherapy**: [[semaglutide|GLP-1 receptor agonists]] **are** now formally recommended post-LT by [[aasld-ast-2025-liver-transplant-non-graft-complications]] — for obesity when diet and exercise fail (Rec 64, Strong, Level 3) and as first-line for post-transplant T2DM at high atherosclerotic cardiovascular disease (ASCVD) risk / with heart failure, stroke, or CKD (Rec 59, Strong, Level 5). Dosing, targets, and the full cardiometabolic algorithm live on [[liver-transplantation]].
-- **Still no MASH-specific post-LT pharmacotherapy** is guideline-endorsed: neither [[resmetirom]] nor semaglutide's MASH indication has been studied in allograft MASLD, and both are contraindicated in cirrhosis — so recurrent-MASLD management remains metabolic risk-factor control.
-
-**Re-transplantation:**
-
-- Re-LT may be required for recurrent MASLD progressing to allograft failure; MASLD-associated recirrhosis becoming an increasingly common re-LT indication
+- **Statins safe and recommended** for CVD risk across MASLD incl. compensated cirrhosis (GS 1); usable with careful monitoring in decompensated cirrhosis at high CV risk (GS 2). Hypertriglyceridemia → omega-3 / icosapent ethyl / fibrates (GS 3) ([[aasld-2023-nafld]]).
+- T2DM/obesity → GLP-1 RAs, glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 dual agonists, surgical/endoscopic options ([[aasld-2025-semaglutide-mash]]).
+- HCC surveillance (cirrhotic vs non-cirrhotic MASLD): [[hcc-surveillance]].
 
 ### What Changed Since the 2012 Tri-Society Guideline
 
-*The founding AGA–AASLD–ACG guideline ([[aga-aasld-acg-2012-nafld]], 45 GRADE-rated recommendations) is superseded by the AASLD guidance above on every overlapping claim. It is summarized here only because clinicians trained in that era still carry its positions; the full recommendation set lives on the source page.*
+*AGA–AASLD–ACG 2012 ([[aga-aasld-acg-2012-nafld]]) is superseded on every overlapping claim.*
 
-| Topic | 2012 position | Current position on this page |
+| Topic | 2012 | Now |
 |---|---|---|
-| Name and definition | NAFLD, defined by **exclusion** of alcohol and other causes | MASLD, defined by the **presence** of cardiometabolic criteria |
-| Case finding | **Against** screening in primary care, diabetes, and obesity clinics (Rec 5) and against family screening (Rec 6) | Risk-stratified case finding in T2DM and other high-risk groups |
-| Fibrosis staging | Metabolic syndrome + NAFLD fibrosis score select patients for biopsy; transient elastography called commercially unavailable in the US | Two-tier noninvasive pathway (FIB-4 → VCTE/MRE/ELF); biopsy reserved for indeterminate or discordant results |
-| Pharmacotherapy | **Vitamin E 800 IU/day first-line** in non-diabetic biopsy-proven NASH (Rec 21), explicitly **not** in diabetics, NASH cirrhosis, or NAFLD without biopsy (Rec 22); pioglitazone permitted (Rec 20); **metformin rejected** (Rec 19); **[[ursodeoxycholic-acid\|UDCA]] rejected** (Rec 23) | [[resmetirom]] and [[semaglutide]] for MASH F2–F3; the 2012 agents predate every approval |
-| Statins | Safe in NAFLD/NASH for dyslipidemia (Rec 30) but **not** a NASH therapy (Rec 31) | Unchanged in substance — see *Cardiometabolic Risk Management* above |
-| HCC risk | Confined to advanced fibrosis and cirrhosis | Surveillance in non-cirrhotic MASLD also addressed — [[hcc-surveillance]] |
+| Definition | NAFLD, by **exclusion** of alcohol/other causes | MASLD, by **presence** of CMRFs |
+| Case finding | **Against** screening in primary care, diabetes, obesity clinics (Rec 5) and families (Rec 6) | Risk-stratified case finding in T2DM and other high-risk groups |
+| Fibrosis staging | Metabolic syndrome + NAFLD fibrosis score select for biopsy | FIB-4 → VCTE/MRE/ELF |
+| Drugs | **Vitamin E first-line** in non-diabetic biopsy-proven NASH (Rec 21–22); pioglitazone permitted; metformin, UDCA rejected | Resmetirom, semaglutide for MASH F2–F3 |
 
-- **Still useful from 2012:** the weight-loss dose–response remains the clearest statement of its kind — **3%–5% body weight loss to improve steatosis, up to 10% to improve necroinflammation** (Rec 17), with fibrosis unimproved even at 9.3% mean loss in the source trial. Lifestyle detail lives under *Lifestyle Modification* above.
-- **A caution carried from that document:** its alcohol threshold *defining* NAFLD (>21 drinks/week in men, >14 in women) is **more permissive** than the at-risk-drinking definition it quotes in the same text (>4 drinks/day or >14/week in men; >3/day or >7/week in women). A man drinking 20 drinks weekly is at-risk by one and still diagnosable by the other. That recommendation carries the document's weakest rating (strength 2, quality C).
 
 ---
 
 ## See Also
 
-[[lean-nafld]], [[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[semaglutide]], [[glp-1-receptor-agonists]], [[resmetirom]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[cirrhosis]], [[obesity]], [[bariatric-surgery]], [[intragastric-balloon]], [[calcineurin-inhibitors]], [[primary-biliary-cholangitis]], [[drug-induced-liver-injury]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[celiac-disease]], [[hepatitis-c]], [[abnormal-liver-chemistries]], [[hepatic-venous-pressure-gradient]], [[acute-cholecystitis]], [[hcc-surveillance]]
+[[lean-nafld]], [[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[semaglutide]], [[glp-1-receptor-agonists]], [[resmetirom]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[cirrhosis]], [[obesity]], [[bariatric-surgery]], [[intragastric-balloon]], [[calcineurin-inhibitors]], [[primary-biliary-cholangitis]], [[drug-induced-liver-injury]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[celiac-disease]], [[hepatitis-c]], [[abnormal-liver-chemistries]], [[hepatic-venous-pressure-gradient]], [[acute-cholecystitis]], [[hcc-surveillance]], [[nutrition-in-liver-disease]]
 
 ---
 

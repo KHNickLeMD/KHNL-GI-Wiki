@@ -3,7 +3,7 @@ title: "Botulinum Toxin (GI Indications)"
 category: med
 tags: [botulinum-toxin, botox, achalasia, anal-fissure, gastroparesis, sphincter, injection, les, pylorus]
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-22
 sources: [acg-2020-achalasia, aga-2024-poem-advances, asge-2020-achalasia, acg-2021-anorectal-disorders, acg-2022-gastroparesis, aga-2025-gastroparesis, dallas-2025-flip-panometry, aga-2024-esophageal-immunity-infection, rome-v-2026-dgbi]
 ---
 
@@ -76,6 +76,8 @@ Botulinum toxin injected into a gastrointestinal (GI) sphincter or muscle to rel
 
 - **Do not use it.** [[acg-2022-gastroparesis|ACG 2022]] recommends **against** intrapyloric botulinum toxin on the basis of **negative RCTs** — and it does so at **Strong strength, Moderate evidence**, the firmest grading botulinum toxin carries anywhere in the ingested guidelines. [[aga-2025-gastroparesis|AGA 2025]] likewise suggests against routine use, grouping it with gastric peroral endoscopic myotomy (G-POEM), gastric electrical stimulation and routine initial surgical pyloromyotomy/pyloroplasty.
 - Note the asymmetry within the same guideline: ACG 2022 recommends **against** botulinum toxin (Strong) while recommending **G-POEM** over no treatment in medically refractory disease (Conditional, Low). Pyloric-directed therapy is not rejected as a concept — this agent is.
+- AGA 2025 reasoning: published trials were **not specific to refractory gastroparesis**; retreatment as often as **every 3 months** limits cost-effectiveness and raises concern for diminishing effect; **repeat injections may scar the pylorus and complicate later [[g-poem|G-POEM]]** ([[aga-2025-gastroparesis]]).
+- French multicenter observational data: reduced pyloric distensibility index (<10 mm²/mm Hg) on [[flip-panometry|EndoFLIP]] may predict benefit (symptom score improved at 3 mo) — not validated in RCTs; does not override the negative RCTs ([[acg-2022-gastroparesis]]).
 
 ---
 

@@ -3,7 +3,7 @@ title: "Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
-updated: 2026-10-04
+updated: 2026-10-22
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc, kanaka-2022-colonic-stent-bts-right-sided, aga-2020-young-adult-onset-crc, aga-2021-crc-chemoprevention]
 ---
 
@@ -239,6 +239,8 @@ flowchart TD
 - In a Netherlands registry study (n=5,157 CRC patients), metachronous cancers attributed to: missed lesions 43%, nonadherence 43%, incomplete resection 5.4%, de novo only 5.4%
 - Surveillance colonoscopy associated with improved overall survival (OR=0.73, Cochrane meta-analysis; HR=0.75, 11-RCT meta-analysis) but NOT improved cancer-specific mortality
 - Increased intensity of colonoscopy frequency does not improve survival beyond the standard schedule and may increase harm
+- Pooled post-resection studies: 253 metachronous cancers in 15,803 patients (1.6%); **~30% within 2 years** of resection ([[usmstf-2015-crc-surveillance]])
+- **"High-quality" colonoscopy** for these intervals = cecum **or anastomosis** reached + adequate prep + operator meeting adenoma-detection benchmarks (conventional adenoma detection rate **>25%** in average-risk screening) ([[usmstf-2015-crc-surveillance]])
 
 ### Universal Lynch Syndrome Testing
 
@@ -257,7 +259,7 @@ flowchart TD
 - Goals: (1) detect synchronous cancers (prevalence 0.7–7%); (2) detect and completely resect precancerous polyps
 - For obstructive CRC precluding complete colonoscopy: use **CT colonography (CTC)** as the best alternative; double-contrast barium enema is acceptable if CTC unavailable (*Strong recommendation, moderate-quality evidence*)
   - However, choose colonoscopy (not CTC) for the first **postoperative** examination in cases where CTC was used perioperatively — CTC misses flat, diminutive, and serrated lesions that may be clinically significant in CRC patients
-- **SPS:** Actively consider this diagnosis when multiple and/or large serrated lesions are found — SPS requires more frequent colonoscopy intervals
+- **SPS:** Actively consider this diagnosis when multiple and/or large serrated lesions are found — SPS requires more frequent colonoscopy intervals. SPS is described as the most common polyp syndrome, usually recognized at the colonoscopy that diagnoses CRC or during post-resection surveillance ([[usmstf-2015-crc-surveillance]])
 
 ### Step 2 — First Postoperative Surveillance Colonoscopy
 

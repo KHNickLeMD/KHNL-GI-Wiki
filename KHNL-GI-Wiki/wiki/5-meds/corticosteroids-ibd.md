@@ -3,8 +3,8 @@ title: "Corticosteroids in IBD (systemic, budesonide CIR, budesonide MMX)"
 category: med
 tags: [ibd, crohns-disease, ulcerative-colitis, corticosteroids, budesonide, prednisone, methylprednisolone, hydrocortisone, induction, steroid-dependence, autoimmune-hepatitis]
 created: 2026-09-20
-updated: 2026-10-19
-sources: [acg-2025-crohns, acg-2025-uc, acg-2018-crohns, acg-2019-uc, acg-2025-ibd-preventive-care, aasld-2020-autoimmune-hepatitis]
+updated: 2026-10-22
+sources: [acg-2025-crohns, acg-2025-uc, acg-2018-crohns, acg-2019-uc, acg-2025-ibd-preventive-care, aasld-2020-autoimmune-hepatitis, aga-2026-inpatient-ibd]
 ---
 
 ## Contents
@@ -96,6 +96,8 @@ Corticosteroids in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)
 - **IV methylprednisolone 60 mg/day total, or hydrocortisone 100 mg three or four times daily** *(Rec 50 — Strong, Low)*. [[acg-2025-uc]]
 - **Day 3 is the decision point.** Inadequate response to IV corticosteroids → **medical rescue with [[anti-tnf-agents\|infliximab]] or [[calcineurin-inhibitors\|cyclosporine]]**. [[acg-2019-uc|ACG 2019]] Rec 43 gives the window as **3–5 days** *(strong, moderate)*. The objective day-3 nonresponder criteria (Oxford/Travis index), the endoscopic predictors, and the rescue algorithm live on [[ulcerative-colitis]].
 - **Adequate response:** continue IV steroids, then transition to an oral steroid plus advanced therapy.
+- **AGA 2026 dose ceiling and stop rule** ([[aga-2026-inpatient-ibd]]): methylprednisolone **40–60 mg/day IV or equivalent** (bolus, split, or infusion); **>60 mg/day adds no benefit and increases adverse events**. Continuing IV corticosteroids **beyond 7 days in a nonresponder** adds no benefit and increases complications and mortality.
+- **C-reactive protein (CRP) trigger:** hospitalized, **≥6 bloody bowel movements/day + ≥1 systemic sign**, and **CRP ≥1.2 mg/dL (≥12 mg/L)** → start IV corticosteroids ([[aga-2026-inpatient-ibd]]).
 - Response can be tracked earlier than day 3 by [[intestinal-ultrasound|intestinal ultrasound]] — a **≥20% reduction in bowel wall thickness within 48 h of IV steroids** predicts steroid response. [[acg-2025-uc]]
 
 ---
@@ -180,3 +182,4 @@ The same two drugs, a different rule set — and the one place where **budesonid
 4. [[acg-2019-uc|ACG Clinical Guideline: Ulcerative Colitis in Adults (2019)]]
 5. [[acg-2025-ibd-preventive-care|ACG 2025: Preventive Care in Inflammatory Bowel Disease]]
 6. [[aasld-2020-autoimmune-hepatitis|AASLD Practice Guidance on Autoimmune Hepatitis (2020)]]
+7. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review]]

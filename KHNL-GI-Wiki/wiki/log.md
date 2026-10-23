@@ -32,6 +32,52 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-22] update | Short pages + callout boxes: slimming the longest pages
+
+**Why:** Nick: no page should be crazy long — brief points here, detail on the page that owns it (CRC screening belongs on [[colorectal-cancer-screening]], not [[colonoscopy]]; AI is one line pointing to [[artificial-intelligence-endoscopy]]). Procedure pages should teach how to actually do the procedure. Tips and pearls should stand out in a box.
+
+**Site + schema:**
+
+- `index.html`: Obsidian callouts `> [!pearl|pitfall|howto] Title` render as green/amber/blue boxes (`renderCallout`; Obsidian aliases like `tip`/`warning` map onto them). Plain `>` quotes are unchanged. Regression cases added to `test-inline-render.mjs`.
+- `CLAUDE.md` Style Guide: *Short pages — brief here, detail on the owner page* (~2,500-word body ceiling, model page [[esophageal-dilation]], procedure pages get `## Technique`) and *Callouts* (when to use each, ≤5 per page). LINT: *Slim long pages* step, 1–2 pages per pass, longest first.
+- `README.md` How to Use: one line explaining the three boxes.
+
+**Pages slimmed (this session):** body words before → after, callouts added.
+
+- [[liver-transplantation]] 9,775 → 4,477 · 5 callouts. Immunosuppression levels, post-LT biliary strictures, AMR, HPS/POPH, recurrent ALD/MASLD and HCC surveillance moved to their owner pages. 2012 interferon-era HCV recs dropped as obsolete.
+- [[portal-hypertension]] 7,139 → 2,669 · 3 and [[variceal-upper-gi-bleeding]] 6,298 → 2,542 · 3. One home each: acute bleed → variceal page; CSPH/screening/primary prophylaxis → portal-hypertension. The variceal page was restructured into schema order and got a `## Contents` and gastric-variceal injection technique.
+- [[ulcerative-colitis]] 6,869 → 3,559 · 5 and [[crohns-disease]] 5,544 → 2,867 · 4. Doses moved to drug pages; IBD pregnancy now lives at [[crohns-disease#Pregnancy]]; dysplasia surveillance at [[ulcerative-colitis#Colorectal Cancer Surveillance]].
+- [[gastroparesis]] 6,364 → 2,640 · 5 and [[barretts-esophagus]] 6,339 → 2,624 · 4. G-POEM and EET detail moved to [[g-poem]] / [[endoscopic-eradication-therapy]].
+- [[clostridioides-difficile]] 5,888 → 2,598 · 5 and [[hepatocellular-carcinoma]] 5,816 → 3,502 · 3. Regimens moved to [[cdiff-antibiotics]] / [[fmt]].
+- [[colonoscopy]] 2,312 → 1,181 · 5. New `## Technique` section (setup, insertion, cecal landmarks, withdrawal, lesions found). CRC screening, surveillance, polypectomy and AI each reduced to one line plus a link.
+- [[colorectal-cancer-screening]] 5,523 → 2,513 · 3. ACG/USMSTF start-stop and modality tables merged into one table each.
+- [[nafld-masld]] 5,570 → 2,503 · 4.
+- [[esophageal-dilation]] 2,124 → 1,838 · 5 (the model page: callouts plus light trims).
+
+**Owner pages that received moved content:** [[bariatric-surgery]] (Baveno VIII 2.14–2.16), [[resmetirom]] (ELF window), [[liver-biopsy]] (stage-system conversion, zone-3 pattern; verified in the AASLD 2024 NILDA PDF), [[noninvasive-liver-disease-assessment]], [[somatostatin-analogs]] (ASGE 2026 2–3-day duration), [[interventional-eus-vascular]] (coil sizing), [[g-poem]], [[botulinum-toxin]], [[endoscopic-eradication-therapy]] (ablation ground rules, ESD vs EMR; ESGE volume row now cites [[acg-2022-barretts]]), [[fmt]], [[cdiff-antibiotics]], [[colonoscopy-quality-indicators]] (ACG ADR rules), [[colorectal-cancer]], [[mesalamine-5-asa]] (AGA 2019 dose bands), [[jak-inhibitors]] (AGA 2026 ASUC doses; removed the "no ASUC dose" gap line it contradicts), [[corticosteroids-ibd]], [[inflammatory-bowel-disease]] (routing rows).
+
+**Still over the ceiling — for triage:**
+
+- [[liver-transplantation]] (~4,500): carries three 2025 AASLD/AST guidelines with no other owner. Proposed split: `liver-transplant-candidate-evaluation` (Part I) and `liver-transplant-non-graft-complications` (Part III).
+- [[hepatocellular-carcinoma]] (~3,500): systemic therapy, TACE/TARE and RETREAT have no other page.
+- [[ulcerative-colitis]] (~3,550): holds IBD-wide dysplasia surveillance and the acute severe UC pathway. Proposed new page: `ibd-dysplasia-surveillance`.
+
+**Contradictions surfaced (not resolved):**
+
+- UDCA after LT for PBC: AASLD 2012 LT Rec 84 (no prophylaxis) vs [[primary-biliary-cholangitis]] guidance (post-LT UDCA lowers recurrence). The newer PBC guidance should govern.
+- Steroids after LT for AIH: 2025 LT guideline (keep low-dose) vs AASLD 2020 [[autoimmune-hepatitis]] (gradual withdrawal).
+- Ceftriaxone duration in variceal bleeding: [[variceal-upper-gi-bleeding]] "up to 5 d" vs [[antibiotic-prophylaxis-cirrhosis]] "2–5 days". A norfloxacin dose with no source was dropped from the variceal page.
+- Post-CEIM recurrence visibility: 60% invisible ([[barretts-esophagus]]) vs ~80% ([[radiofrequency-ablation]]).
+- G-POEM predictor: ACG 2022 (high 4-h retention predicts failure) vs AGA 2023 (>20% predicts success). Now stated on [[g-poem]].
+
+**Dropped as unsourced:** colonoscopy "coagulation syndrome: conservative" and "measure ≥10 mm against an open snare"; Crohn's ustekinumab antidrug-antibody rate, IL-23 TB-screening line, vedolizumab infection line; HCC post-LT "CT/MRI every 6–12 months" (no source found); the colorectal-cancer-screening USPSTF 2022 aspirin paragraph.
+
+**Colonoscopy technique gaps:** no ingested source teaches loop reduction maneuvers, rectal retroflexion or terminal-ileum intubation. `raw/GI Guidelines/…/ASGE-ACG 2024 Quality Indicators for Colonoscopy (Rex).pdf` is on disk but not ingested — a good next ingest. The Helen Xu colonoscopy lecture needs Nick's go-ahead (lecture gating).
+
+**Cards:** every slimmed page has `updated: 2026-10-22`, so the card pass treats their card files as stale. Facts that moved pages need their notes re-homed under the one-owner rule.
+
+---
+
 ## [2026-10-22] setup | Card passes now merge duplicate notes before writing new ones
 
 **Why:** Nick: slimming the deck is the highest-yield card work. Two notes testing the same fact become one card, with both pages named in the footer.
