@@ -1444,7 +1444,7 @@
             </div>
             <div class="gsp-slider-row">
               <span>Node size</span>
-              <input type="range" id="gsp-node-size" min="1" max="8" step="0.1" value="3" oninput="gspOnNodeSize()">
+              <input type="range" id="gsp-node-size" min="1" max="8" step="0.1" value="1" oninput="gspOnNodeSize()">
             </div>
             <div class="gsp-slider-row">
               <span>Link thickness</span>
@@ -1460,19 +1460,19 @@
           <div class="gsp-section-body">
             <div class="gsp-slider-row">
               <span>Center force</span>
-              <input type="range" id="gsp-center-force" min="0" max="1" step="0.01" value="0.05" oninput="gspOnForce()">
+              <input type="range" id="gsp-center-force" min="0" max="1" step="0.01" value="0" oninput="gspOnForce()">
             </div>
             <div class="gsp-slider-row">
               <span>Repel force</span>
-              <input type="range" id="gsp-repel-force" min="0" max="1" step="0.01" value="0.35" oninput="gspOnForce()">
+              <input type="range" id="gsp-repel-force" min="0" max="1" step="0.01" value="0.43" oninput="gspOnForce()">
             </div>
             <div class="gsp-slider-row">
               <span>Link force</span>
-              <input type="range" id="gsp-link-force" min="0" max="1" step="0.01" value="0.3" oninput="gspOnForce()">
+              <input type="range" id="gsp-link-force" min="0" max="1" step="0.01" value="0.06" oninput="gspOnForce()">
             </div>
             <div class="gsp-slider-row">
               <span>Link distance</span>
-              <input type="range" id="gsp-link-dist" min="10" max="300" step="5" value="80" oninput="gspOnForce()">
+              <input type="range" id="gsp-link-dist" min="10" max="300" step="5" value="10" oninput="gspOnForce()">
             </div>
           </div>
         </div>
@@ -3918,7 +3918,7 @@ function _renderGroupsList() {
 
 // ── Helpers ───────────────────────────────────────────────
 function _nodeR(n) {
-  const s = parseFloat(document.getElementById('gsp-node-size')?.value ?? 3);
+  const s = parseFloat(document.getElementById('gsp-node-size')?.value ?? 1);
   return s * (1 + Math.sqrt(n.linkCount) * 0.45);
 }
 function _nodeColor(n) {
@@ -3930,10 +3930,10 @@ function _nodeColor(n) {
 }
 function _gspLinkThickness() { return parseFloat(document.getElementById('gsp-link-thickness')?.value ?? 0.5); }
 function _gspTextFade()      { return parseFloat(document.getElementById('gsp-text-fade')?.value      ?? 1.5); }
-function _gspLinkDist()      { return parseFloat(document.getElementById('gsp-link-dist')?.value      ?? 80); }
-function _gspLinkForce()     { return parseFloat(document.getElementById('gsp-link-force')?.value     ?? 0.3); }
-function _gspRepelForce()    { return parseFloat(document.getElementById('gsp-repel-force')?.value    ?? 0.35); }
-function _gspCenterForce()   { return parseFloat(document.getElementById('gsp-center-force')?.value   ?? 0.05); }
+function _gspLinkDist()      { return parseFloat(document.getElementById('gsp-link-dist')?.value      ?? 10); }
+function _gspLinkForce()     { return parseFloat(document.getElementById('gsp-link-force')?.value     ?? 0.06); }
+function _gspRepelForce()    { return parseFloat(document.getElementById('gsp-repel-force')?.value    ?? 0.43); }
+function _gspCenterForce()   { return parseFloat(document.getElementById('gsp-center-force')?.value   ?? 0); }
 </script>
 <!-- KHNL social layer — Step 2: feedback bubble + form (see website repo social/STEP2-README.md) -->
 <script src="website_files/scripts/feedback-widget.js" defer></script>
