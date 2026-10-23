@@ -6,6 +6,12 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-22] sources | Chrome session with Nick — 40 🔒/🌐 download-list papers pulled into `raw/` via USC libproxy; 31 rows marked 📥
+
+- Laptop Chrome session (Nick logged into the Keck library proxy). Replaced the IANS 2024 Cloudflare stub with the real 9-page Stier paper; downloaded 39 more 🔒/🌐 items. Each one was checked as a real PDF (`%PDF` header, page count, first-page title) and filed under `raw/GI Guidelines/` or `raw/GI Other Studies/`, in the Nextcloud raw drop.
+- `needed-sources.md`: 31 rows flipped 🔒/🌐 → 📥 (downloaded, awaiting ingest). The legend explains the new mark. Ingest still follows the ≤2-per-pass rule, and each row is deleted when its file is ingested. Removed the "Broken file" IANS note. The US LI-RADS 2017 algorithm row is filled by US LI-RADS v2024 Core.
+- Not obtained: **Eckardt 1992**. ScienceDirect shows full-text access but has no PDF, ClinicalKey returns not-found, and gastrojournal.org redirect-loops through the proxy, so it needs a library scan request. **WHO Digestive System Tumours 5th ed** is a book and was not attempted. Both rows stay 🔒.
+
 ## [2026-10-23] lint | Manual pass — ASGE source pages were misreading ⊕⊕⊕◯ as *high*: 15 grades corrected on 2 pages, 1 dropped recommendation restored; IDUS page closes queue #37
 
 **Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands; title amended at the end to match what actually happened.
