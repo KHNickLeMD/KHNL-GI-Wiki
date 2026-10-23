@@ -398,6 +398,7 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
 - No "new" tag: Nick adds batches faster than a latest-batch tag can track.
 
 **Source rules:**
+- **Card topic pages only** (Nick, 2026-10-22): disease scripts, diagnostic schemas, procedures, meds, concepts, syntheses. **Never card a `wiki/sources/` summary page** — it is evidence for topic pages, not a deck topic; no `cards/sources/` file ever.
 - **Guideline-sourced cards only** (Nick, 2026-08-11): cards come from **tier-1 sources only** — society guideline, CPU, consensus statement. **No cards from RCTs, cohorts, meta-analyses, abstracts, lectures/chalk talks** — "not yet" (may relax later); binds every ingest, page edit, and nightly pass. Deck-only rule: RCT/abstract content still reaches wiki pages. Mixed-tier page → card only the guideline-backed facts. Test = the card's `{source-slug}`: not a guideline/CPU/consensus page → no card.
 - **Cards test the wiki and nothing else.** Every fact and image on a card must already exist on its page. No outside knowledge, web lookups, or invented examples. Card wants a fact the page lacks → fix the page first.
 - **Cards come from the `.md`, only the `.md`.** Re-import overwrites Text and Back Extra. Never tell the user to fix a card inside Anki — fix the card file, rebuild.
