@@ -182,9 +182,24 @@ def prune_decks(col, keep, dry, log):
     return gone
 
 
+def rehome_orphans(col, md, dry, log):
+    """A deck pruned here while desktop Anki, not yet synced, still studied its cards: the sync keeps the
+    newer card, which points at the deleted deck, and deck: search can no longer see it. Put our notes
+    (guid in the .md files, nothing else) back in their .md deck."""
+    live = ','.join(str(d.id) for d in col.decks.all_names_and_ids())
+    rows = col.db.all(f'select distinct n.guid, n.id from cards c join notes n on n.id = c.nid where c.did not in ({live})')
+    for g, nid in rows:
+        if g not in md:
+            continue
+        log(f'  → anki rehome orphaned note: {md[g]["file"]} [{md[g]["id"]}]')
+        if not dry:
+            col.set_deck(col.get_note(nid).card_ids(), col.decks.id(md[g]['deck']))
+
+
 def reconcile(col, base, load, cards=CARDS, dry=False, log=print):
     """One pass. `base` is {} on a first run (md wins everywhere). Returns the new base."""
     md = load()
+    rehome_orphans(col, md, dry, log)
     anki = anki_side(col)
     seen = studied(col)
     elsewhere = lambda g: col.db.scalar('select id from notes where guid=?', g) is not None
@@ -431,6 +446,10 @@ def test():
     n = by('gcccccc'); n.tags = [t.upper() for t in n.tags]; n['Text'] += '&nbsp;'
     col.update_note(n); mod = by('gcccccc').mod
     assert reconcile(col, base, load, tmp, log=quiet) == base and by('gcccccc').mod == mod
+    # a card left pointing at a deleted deck (pruned here, studied in Anki before it synced) is re-homed
+    col.db.execute('update cards set did = 999 where nid = ?', by('gcccccc').id)
+    assert 'gcccccc' not in anki_side(col)
+    assert reconcile(col, base, load, tmp, log=quiet) == base and anki_side(col)['gcccccc'][1] == deck
     col.close()
     print('ok')
 
