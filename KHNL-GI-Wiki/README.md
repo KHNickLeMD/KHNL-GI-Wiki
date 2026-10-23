@@ -6,9 +6,15 @@ This encyclopedia covers clinical gastroenterology and hepatology, with an empha
 
 ---
 
+## About Me - Khanh Hoang Nicholas Le
+
+Welcome to my website - call me Nick! I am a gastroenterology fellow at Keck USC/LA General Medical Center. Both in and outside of medicine, I love evolving technology, quality improvement, and productivity. In particular, I've developed a passion for medical education. I wanted to create a reliable, high quality, and ever-growing resource for healthcare professionals to learn, reference, and grow their knowledge in the beautiful field of GI and Hepatology.
+
+---
+
 ## How It Was Made
 
-This wiki was built using **Obsidian** as the backbone — a local markdown-based note-taking app that stores all content as markdown files. **Claude AI** acts as an LLM wiki agent that reads primary sources (guidelines, RCTs, review articles) and synthesizes them into structured knowledge pages.
+This wiki uses markdown files organized with Karpathy's LLM Wiki structure as the backbone that is stored on my server. **Claude AI** acts as an around the clock librarian and researcher that reads primary sources (guidelines, RCTs, review articles) and synthesizes them into structured, summarized knowledge pages. The website is hosted by Cloudflare and GitHub.
 
 For each ingested source, Claude extracts key findings, identifies which disease entities or concepts are affected, and creates or updates the relevant wiki pages — preserving full verbatim GRADE recommendations from guidelines. Cross-references between pages are maintained using Obsidian wiki-links (`[[page-slug]]`), creating a connected knowledge graph. A lint process periodically checks for contradictions, orphan pages, and missing links.
 
@@ -69,12 +75,6 @@ The result is a compounding, evidence-linked reference that grows with each new 
 
 ### ⚠️ Stubs
 Pages that have been created (because a wiki-link references them, or a source mentions the topic) but whose content has not yet been fully written. Stub pages are flagged visually in the website with a yellow warning banner. They are placeholders that will be expanded when a relevant source is ingested or when the topic is manually developed. A stub contains at minimum a title and frontmatter so the wiki-link graph is connected.
-
----
-## About Me - Khanh Hoang Nicholas Le
-
-Welcome to my website - call me Nick! I am a gastroenterology fellow at Keck USC/LA General Medical Center. Both in and outside of medicine, I love evolving technology, quality improvement, productivity, and medical education.
-With my passions, I wanted to create a reliable, high quality resource for healthcare professionals to learn, reference, and develop their knowledge in the beautiful field of GI and Hepatology. 
 
 ---
 ## Development Timeline

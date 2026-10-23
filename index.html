@@ -2402,11 +2402,11 @@ function showAbout()     { _showReadmeView('about', 'About This Wiki'); }
 function showHowToUse()  { _showReadmeView('howto', '🧭 How to Use'); }
 
 const DISCLAIMER_ABOUT =
-  '<div class="about-wrap"><div class="about-section" id="about-disclaimer"><h2>Disclaimer</h2>' +
+  '<div class="about-wrap md-body" id="about-disclaimer"><hr><h2>Disclaimer</h2>' +
   '<p>Digestpedia is an educational reference for clinicians. It is not medical advice, does not ' +
   'create a physician–patient relationship, and may contain errors or lag behind guideline updates. ' +
   'Always verify against the original society guideline and use your own clinical judgment before ' +
-  'making patient-care decisions.</p></div></div>';
+  'making patient-care decisions.</p></div>';
 
 function _showReadmeView(mode, crumb) {
   recordNav(mode);
