@@ -6,6 +6,32 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-23] update | Card pass — 10 pages carded (46 notes); new Anki node `GI::Meds::PAMORAs`
+
+**Card files written (all under `# Draft`, `page_updated` set):**
+
+- `4-advanced-gi-procedures/hepatobiliary-procedures/intraductal-ultrasound` — 3 notes
+- `2-diagnostic-schemas/chronic-diarrhea` — 8 notes
+- `4-advanced-gi-procedures/foregut-and-motility-procedures/device-assisted-enteroscopy` — 9 notes
+- `1-disease-scripts/foregut-and-motility-diseases/small-bowel/intestinal-methanogen-overgrowth` — 4 notes
+- `1-disease-scripts/colorectal-diseases/functional-motility/acute-colonic-pseudo-obstruction` — 9 notes
+- `1-disease-scripts/colorectal-diseases/functional-motility/colonic-volvulus` — 6 notes
+- `1-disease-scripts/colorectal-diseases/vascular/mesenteric-artery-aneurysm` — 5 notes
+- `1-disease-scripts/colorectal-diseases/polyposis-hereditary-syndromes/mutyh-associated-polyposis` — 3 notes
+- `1-disease-scripts/colorectal-diseases/polyposis-hereditary-syndromes/serrated-polyposis-syndrome` — 3 notes
+- `5-meds/pamoras` — 3 notes
+
+**New tag node:** `GI::Meds::PAMORAs` — created for `5-meds/pamoras` (class word the page itself uses; covers naloxegol, naldemedine, methylnaltrexone, alvimopan). Needs Nick's sign-off.
+
+**Nothing qualified:**
+
+- `1-disease-scripts/colorectal-diseases/vascular/acute-mesenteric-ischemia` — every cardable fact is owned elsewhere: the mesenteric-vein-thrombosis anticoagulation content by `[[portal-vein-thrombosis]]` (carded, and from newer sources), the colon-ischemia/isolated-right-colon-ischemia content by `[[colon-ischemia]]` (not yet carded, so those facts wait). No card file written.
+- `7-concepts/small-bowel-motility` — migrating-motor-complex phases and the bioprotective-mechanism table are mechanism, and the stasis risk factors belong to `[[small-intestinal-bacterial-overgrowth]]`. No card file written.
+
+**Build:** `build-anki.mjs` ends the pass with **0 problems** across all 291 card files (3,643 notes). Not committed, not pushed; no `occ files:scan` run from this pass.
+
+---
+
 ## [2026-10-22] setup | Card passes now merge duplicate notes before writing new ones
 
 **Why:** Nick: slimming the deck is the highest-yield card work. Two notes testing the same fact become one card, with both pages named in the footer.
