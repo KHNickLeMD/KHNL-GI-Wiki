@@ -94,12 +94,14 @@ export function parse (src, page) {
     if (/^#\s*Retired/i.test(lines[0])) { section = 'retired'; lines.shift() }
     else if (/^#\s*Draft/i.test(lines[0])) { section = 'draft'; lines.shift() }
     if (!lines.length) continue
-    const m = lines[0].match(/^\[([0-9a-f]{6})\]\{([a-z0-9-]+)\}\s*/)
+    // Optional {also:slug,slug} = pages a merged duplicate came from (2026-10-22); footer names them.
+    const m = lines[0].match(/^\[([0-9a-f]{6})\]\{([a-z0-9-]+)\}(?:\{also:([a-z0-9,-]+)\})?\s*/)
     if (!m) throw new Error(`${page}: block must start with [id]{source-slug} — ${lines[0].slice(0, 50)}`)
     lines[0] = lines[0].slice(m[0].length)
     notes.push({
       id: m[1],
       source: m[2],
+      also: m[3] ? m[3].split(',') : [],
       section,
       text: lines.filter(l => !l.startsWith('>')),
       extra: lines.filter(l => l.startsWith('>')).map(l => l.replace(/^>\s?/, ''))
@@ -140,6 +142,8 @@ function main () {
   const problems = []
   const seen = new Set()
   const nav = siteNav()
+  const titles = Object.fromEntries(walk(join(ROOT, 'wiki')).map(f =>
+    [f.split('/').pop().replace(/\.md$/, ''), frontmatter(readFileSync(f, 'utf8'))[0].title]))
 
   for (const file of walk(cardsDir)) {
     const [fm, body] = frontmatter(readFileSync(file, 'utf8'))
@@ -161,7 +165,8 @@ function main () {
     if (!pageTags.length) problems.push(`${page}: frontmatter missing 'tags:'`)
     // One source per card, not the page's whole source list — 7 slugs on every card was
     // noise. Which guideline said it is the useful bit, especially where they disagree.
-    const footerFor = src => `<small><a href="${SITE}/${slug}">${pageFm.title}</a>`
+    const footerFor = (src, also) => `<small><a href="${SITE}/${slug}">${pageFm.title}</a>`
+      + also.map(s => ` · <a href="${SITE}/${s}">${titles[s]}</a>`).join('')
       + ` · <a href="${SITE}/${src}">${srcLabel(src)}</a></small>`
 
     // Splitting a wiki page moves its cards to new files. `guid_page:` pins the hash to the path
@@ -179,11 +184,12 @@ function main () {
       if (!existsSync(join(ROOT, 'wiki', 'sources', `${note.source}.md`))) {
         problems.push(`${page} [${note.id}]: unknown source ${note.source}`)
       }
+      for (const s of note.also) if (!titles[s]) problems.push(`${page} [${note.id}]: unknown also page ${s}`)
 
       const text = note.section === 'retired'
         ? 'RETIRED — no longer maintained. {{c1::delete me}}'
         : note.text.join('\n')
-      const extra = backExtra(tsv(note.extra.join('\n')), footerFor(note.source))
+      const extra = backExtra(tsv(note.extra.join('\n')), footerFor(note.source, note.also))
       rows.push([guid, deck, tags.join(' '), tsv(text), extra].join('\t'))
       notes.push({ guid, file: relative(cardsDir, file), id: note.id, section: note.section, deck, tags, text: tsv(text), extra })
     }
@@ -212,7 +218,7 @@ async function test () {
 - two {{c1::y}}
 > extra line
 
-[d4e5f6]{aga-2024-other} Atomic {{c1::fact}}
+[d4e5f6]{aga-2024-other}{also:x-y,z} Atomic {{c1::fact}}
 
 # Retired
 
@@ -222,6 +228,9 @@ async function test () {
   assert.equal(notes.length, 3)
   assert.equal(notes[0].source, 'acg-2020-thing')
   assert.deepEqual(notes[0].extra, ['extra line'])
+  assert.deepEqual(notes[0].also, [])
+  assert.deepEqual(notes[1].also, ['x-y', 'z'])
+  assert.deepEqual(notes[1].text, ['Atomic {{c1::fact}}'])
   assert.throws(() => parse('[abc123] no source', 'p.md'), /source-slug/)
   assert.equal(notes[0].text.length, 3)
   assert.equal(notes[2].section, 'retired')

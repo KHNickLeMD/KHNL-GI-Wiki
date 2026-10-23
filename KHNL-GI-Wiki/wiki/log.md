@@ -6,6 +6,20 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-22] setup | Card passes now merge duplicate notes before writing new ones
+
+**Why:** Nick: slimming the deck is the highest-yield card work. Two notes testing the same fact become one card, with both pages named in the footer.
+
+**Changes:**
+
+- `website_files/scripts/anki-dupes.mjs` (new): lists likely-duplicate note pairs by TF-IDF cosine ≥0.4, most similar first, and `--mark` records each verdict in `<cards>/dedup-ledger.tsv`. 432 candidate pairs on tonight's 3,643-note deck; the top ones are real (e.g. thiopurine dosing on both `crohns-disease` and `thiopurines`).
+- `build-anki.mjs`: optional `{also:slug,…}` on a block header; the footer names those pages after the card's own page. Rebuild of the live deck without it is byte-identical (3,643 notes).
+- `anki-sync.py`: the card-line regex keeps `{also:…}` when an Anki edit is written back. Deleting retired notes in Anki no longer counts toward the 25-delete cap, so sweeping a batch of merged notes can't fail the sync.
+- `CLAUDE.md` CARDS: "Slim the deck — merge duplicates" procedure (judge, keeper choice, retire the other, mark the ledger).
+- `lint-cron.sh` card prompt: runs the dedup step first, then cards as before.
+
+---
+
 ## [2026-10-22] sources | Chrome session, part 2: 105 more files into `raw/` (needed-sources rows + new-guideline sweep, 2024-07 → 2026-10)
 
 - Parallel Chrome agents went through the USC proxy (Nick was logged into it and into NCCN). Before filing into the Nextcloud `raw/`, every file was checked as a real PDF/DOCX: header, page count, page-1 title and first author. Nothing was overwritten.

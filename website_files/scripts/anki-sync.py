@@ -66,7 +66,7 @@ def same(a, b):
 # before its [id]{source} line (build-anki.mjs parse()). Separators are kept verbatim so an edit
 # touches only its own block.
 
-CARD_LINE = r'\[[0-9a-f]{6}\]\{[a-z0-9-]+\}\s*'
+CARD_LINE = r'\[[0-9a-f]{6}\]\{[a-z0-9-]+\}(?:\{also:[a-z0-9,-]+\})?\s*'   # {also:…} = merged duplicate's pages
 
 
 def _blocks(src):
@@ -214,7 +214,8 @@ def reconcile(col, base, load, cards=CARDS, dry=False, log=print):
             edits[g] = (text, extra)
         if g in seen and m['section'] == 'draft':
             undrafts.append(g)
-    if len(deletes) > MAX_DELETE:
+    # Sweeping retired notes in Anki is the intended cleanup (dedup retires them by the dozen), not a broken sync.
+    if len([g for g in deletes if md[g]['section'] != 'retired']) > MAX_DELETE:
         raise Fail(f'{len(deletes)} notes vanished from Anki in one run (cap {MAX_DELETE}); not deleting their cards. '
                    'If that was really you, rerun once with ANKI_MAX_DELETE=<n>.')
 
@@ -365,6 +366,8 @@ def test():
     src = f'{fm}{A}\n\n# Draft\n{B}\n\n{C}\n'
     assert md_edit(src, 'aaaaaa', ['X', '- x'], []) == src.replace('{{c1::one}}\n> ex', 'X\n- x')
     assert md_edit(src, 'cccccc', ['X'], ['e']) == src.replace('{{c1::three}}', 'X\n> e')
+    merged = src.replace('[aaaaaa]{s}', '[aaaaaa]{s}{also:q-r}')
+    assert md_edit(merged, 'aaaaaa', ['X'], []) == merged.replace('{{c1::one}}\n> ex', 'X')
     assert md_delete(src, 'aaaaaa') == f'{fm}# Draft\n{B}\n\n{C}\n'
     assert md_delete(src, 'bbbbbb') == f'{fm}{A}\n\n# Draft\n{C}\n'
     assert md_delete(src, 'cccccc') == f'{fm}{A}\n\n# Draft\n{B}\n'

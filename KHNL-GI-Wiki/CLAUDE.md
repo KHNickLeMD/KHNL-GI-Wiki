@@ -361,7 +361,7 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
 - **Never inside `raw/`** — the lint cron rsyncs `raw/` into the repo and commits it (cards would hit GitHub). `KHNL-GI-Wiki/cards/` is gitignored as backstop.
 - Exporter `website_files/scripts/build-anki.mjs` (in repo) tries `$CARDS_DIR`, then the paths above; writes `<cards>/dist/khnl-gi-wiki.txt` — the single file to share (stock Cloze, `#guid column`).
 - `giwiki` container bind-mounts the server cards dir at `/cards` (2026-08-10); the 05:00 cron card pass drafts 5 pages/night under `# Draft` and rebuilds; commits/pushes nothing.
-- **Block format:** `[6-hex id]{source-slug}` opens a note; `>` lines = Back Extra; blank line separates notes. GUID = `sha1(page + id)` — **reword freely, never change an id** (preserves scheduling).
+- **Block format:** `[6-hex id]{source-slug}` opens a note, optionally `[id]{source-slug}{also:page-slug,page-slug}` on a merged duplicate (footer then names every page); `>` lines = Back Extra; blank line separates notes. GUID = `sha1(page + id)` — **reword freely, never change an id** (preserves scheduling).
 
 **Decks and tags** (2026-08-10):
 - **Deck tree = the website sidebar** (Nick, 2026-10-15): same sections, order and labels, read by `build-anki.mjs` from `index.html` (`SECTION_ORDER`, `SECTION_META`, `SUBSECTION_LABELS`) — e.g. `Digestpedia Anki::3. Advanced Procedures::Colorectal Procedures::<page title>`. Section number = sidebar position (Anki sorts A–Z). Change a sidebar label/order in `index.html` and the decks follow at the next sync; the sync moves cards (scheduling kept) and removes the emptied old decks.
@@ -431,6 +431,13 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
 11. **Don't hand-write `<hr>`.** The builder opens Back Extra with one, above extra notes, figures, and the source footer.
 
 - **Nothing eligible → stop.** No page left to card, or the remaining facts fail the high-yield test → the pass writes no cards (Quality over quota). Never lower the bar to keep a run busy.
+- **Slim the deck — merge duplicates** (Nick, 2026-10-22): the highest-yield card work; every card pass does it **before** writing new cards. Two notes testing the same fact (same question, same answer, any wording) become one.
+  1. `CARDS_DIR=<cards> node website_files/scripts/anki-dupes.mjs` → up to 20 unjudged candidate pairs, most similar first (TF-IDF over the fronts; a candidate, not a verdict).
+  2. Judge each: **same fact** → merge. A note whose clozes are a subset of the other's counts. **Different disease, population, drug or threshold** (HBV vs HCV in pregnancy; varix screening in PBC vs PSC) → distinct. Unsure → distinct.
+  3. **Keeper:** the note under the active cards (reviewed) if only one is; otherwise the owner page's note (one-owner rule above). Keep its id. It may absorb a cloze or Back Extra line only the other had, within the caps. Different page → add `{also:<other-page-slug>}` to the keeper's header, so the footer names both pages.
+  4. **The other note:** move its block under `# Retired` (always the file's last section; create it if missing), keeping `[id]{source}` and replacing its text with `merged into <keeper-page-slug> [keeper-id]`.
+  5. Record every verdict: `node website_files/scripts/anki-dupes.mjs --mark <guid> <guid> merged|distinct` (guids are printed with each pair). Ledger: `<cards>/dedup-ledger.tsv`; marked pairs never come back.
+  6. Rebuild and fix any problem the build reports on the touched files. Then write new cards as usual. No candidates → skip straight to cards.
 - **Killing a card is an edit, not a delete.** An imported card quizzes forever if its block vanishes. Move the block under `# Retired` with a one-line reason replacing its text, keeping its `[id]` — export blanks the note and tags it `digestpedia::retired` for the saved-search sweep.
 - Enforced/described in `.claude/PLAN-anki-decks.md`: length caps (≤40 words, ≤5 bullets, ≤12 words/bullet, ≤3 cloze numbers); one-source-per-card footer (page title · `ORG YEAR Topic` read off the source slug, e.g. `AGA 2025 Endoscopic Resection CRC` — add to `ACRONYMS` when a slug word reads wrong); `# Retired` / `# Draft` sections; cross-page concept ownership.
 - `node website_files/scripts/build-anki.mjs --test` after touching the exporter; rebuild the deck after touching any card file.
