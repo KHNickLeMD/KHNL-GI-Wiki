@@ -6,6 +6,36 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-24] update | Card pass — deck dedup (4 merges) and 7 pages carded
+
+**Dedup (every pass, before new cards):**
+
+- 20 candidate pairs judged, all verdicts marked in `dedup-ledger.tsv`: 4 merged, 16 distinct.
+- Merged: `calcineurin-inhibitors [ca1106]` → `liver-transplantation [1a3011]` (transplant induction agents; keeper absorbed the basiliximab cloze) · `hereditary-hemorrhagic-telangiectasia [bbe007]` → `juvenile-polyposis-syndrome [9b1003]` (SMAD4 → evaluate for HHT) · `crohns-disease [cd254e]` → `corticosteroids-ibd [c01004]` (prednisone dose + taper) · `atrophic-gastritis [a9c201]` → `upper-endoscopy [ed0005]` (updated Sydney biopsy sites).
+- Kept distinct where the population, drug or comparator differed — risankizumab UC vs CD dosing, loperamide adult vs under-18, portal vein thrombosis never-anticoagulated vs anticoagulation-stopped, uninvestigated vs functional dyspepsia.
+
+**Pages carded (guideline/CPU-sourced, newest source year first):**
+
+- [[hereditary-hemochromatosis]] — 24 cards (ACG 2019, AASLD 2011): screening thresholds, biopsy and cirrhosis triad, phlebotomy protocol and targets, chelation, transplant.
+- [[radiation-proctopathy]] — 4 cards (ASGE 2019): the anemia threshold that gates treatment, biopsy discouraged, four endorsed modalities, acute vs chronic split. APC settings/technique left with [[argon-plasma-coagulation]], which owns them.
+- [[brain-gut-behavioral-therapy]] — 6 cards (AGA 2018 CPU): candidacy and sequencing with comorbid psychopathology, screening, course length, who picks the therapy.
+- [[pancreatic-cysts]] — 13 cards (ACG 2018): referral triggers, size-based surveillance, stopping rules, post-resection surveillance. Cyst-fluid and EUS facts left with [[endoscopic-ultrasound]].
+- [[bmmrd-syndrome]] — 11 cards (USMSTF 2017): suspicion clues, the full surveillance protocol by age, colectomy and rectal surveillance, parental counseling.
+- [[campylobacter-infection]] — 3 cards (IDSA 2017): whom to treat, azithromycin over a fluoroquinolone with the resistance figures, Guillain-Barré. The azithromycin regimen and the rifaximin prohibition were left with the travel/acute-diarrhea cards that own them.
+- [[entamoeba-histolytica-infection]] — 3 cards (ACG 2016): species-level testing, metronidazole or tinidazole, a positive molecular test in an asymptomatic patient.
+
+**Pages reviewed and deliberately left uncarded:**
+
+- `small-bowel-motility`, `iron-overload-and-iron-metabolism` — mechanism only; their actionable thresholds are owned by [[small-intestinal-bacterial-overgrowth]] and [[hereditary-hemochromatosis]].
+- `nitazoxanide` — every pathogen indication already owned by [[cryptosporidiosis]], [[giardiasis]] and the Cyclospora card; no dose in either source.
+- `autoimmune-pancreatitis` — its only source is an AGA expert-review column, not a guideline or CPU, so nothing on the page is cardable.
+
+**Page edit:** `5-meds/corticosteroids-ibd.md` — added the ACG 2018 prednisone course limit (total course ≤3 months in moderate–severe CD) so the merged dose card keeps that cloze on the drug page that owns dosing.
+
+**Build:** `build-anki.mjs` clean after every page, 3,777 notes (64 new). Nothing committed or pushed; Nextcloud `occ files:scan` not run from here, so the web UI will serve the new deck after the next cron scan.
+
+---
+
 ## [2026-10-24] lint | 06:00 pass — backlog mode ON (38 files landed); 3 ingested, and the 2024 colonoscopy benchmarks the wiki was printing were all out of date
 
 **Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands; title amended at the end to match what actually happened.

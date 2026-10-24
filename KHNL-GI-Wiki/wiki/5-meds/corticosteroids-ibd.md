@@ -3,7 +3,7 @@ title: "Corticosteroids in IBD (systemic, budesonide CIR, budesonide MMX)"
 category: med
 tags: [ibd, crohns-disease, ulcerative-colitis, corticosteroids, budesonide, prednisone, methylprednisolone, hydrocortisone, induction, steroid-dependence, autoimmune-hepatitis]
 created: 2026-09-20
-updated: 2026-10-22
+updated: 2026-10-24
 sources: [acg-2025-crohns, acg-2025-uc, acg-2018-crohns, acg-2019-uc, acg-2025-ibd-preventive-care, aasld-2020-autoimmune-hepatitis, aga-2026-inpatient-ibd]
 ---
 
@@ -60,6 +60,8 @@ Corticosteroids in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)
 - Corticosteroids are **not effective for maintenance** of medically induced remission and should not be used long-term *(strong, moderate)*.
 
 **Sequencing:** steroids induce, something else maintains. [[acg-2025-crohns|ACG 2025]] Rec 3 suggests **against requiring failure of conventional therapy before advanced therapy** *(conditional, low)* — a steroid course is not a prerequisite for a biologic. Full positioning on [[crohns-disease]].
+
+**Course length:** the prednisone taper should bring the **total course to ≤3 months** in moderate–severe CD. [[acg-2018-crohns]]
 
 **Ineffective in fistulizing CD** — mesalamine and corticosteroids do not treat perianal fistulas. [[acg-2025-crohns]]
 
