@@ -3,8 +3,8 @@ title: "Polypectomy (Colorectal)"
 category: general-procedure
 tags: [polypectomy, cold-snare, colonoscopy, colorectal, paris-classification, nice-classification, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-10-04
-sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy, aga-2025-endoscopic-resection-crc, aga-2026-electrosurgery]
+updated: 2026-10-24
+sources: [asge-acg-2024-colonoscopy-quality-indicators, usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy, aga-2025-endoscopic-resection-crc, aga-2026-electrosurgery]
 ---
 
 # Polypectomy (Colorectal)
@@ -136,6 +136,7 @@ Single home for laterally spreading tumor (LST) submucosal-invasion risk — the
 - **Cold snare:** preferred; complete resection comparable to hot snare, lower delayed bleeding
 - Hot snare: acceptable; comparable complete resection rates
 - Cold snare advantage: no delayed bleeding or coagulation syndrome
+- **This is a measured quality indicator: ≥90% of 4–9 mm lesions resected with a cold snare** — and it carries grade **1A**, the only one in the 2024 task-force set ([[asge-acg-2024-colonoscopy-quality-indicators]]). Benchmarks: [[colonoscopy-quality-indicators]]
 
 ### 10–19mm Non-Pedunculated
 
@@ -390,3 +391,4 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 4. [[aga-2024-tailored-polypectomy|AGA Clinical Practice Update on Appropriate and Tailored Polypectomy: Expert Review (2024)]]
 5. [[aga-2025-endoscopic-resection-crc|AGA Clinical Practice Update on Endoscopic Resection for Early Colorectal Cancer: Commentary (2025)]]
 6. [[aga-2026-electrosurgery|AGA Clinical Practice Update on the Use of Electrosurgery in Therapeutic Endoscopy: Expert Review (2026)]]
+7. [[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators for Colonoscopy]]

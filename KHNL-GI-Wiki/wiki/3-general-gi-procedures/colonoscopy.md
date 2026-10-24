@@ -3,8 +3,8 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, cecal-intubation, withdrawal-time, technique]
 created: 2026-05-07
-updated: 2026-10-22
-sources: [aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, asge-2023-ergonomics, aga-2021-gi-perforations-endoscopic-management, aga-2025-cade-colonoscopy, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia]
+updated: 2026-10-24
+sources: [asge-acg-2024-colonoscopy-quality-indicators, aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, asge-2023-ergonomics, aga-2021-gi-perforations-endoscopic-management, aga-2025-cade-colonoscopy, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia]
 ---
 
 # Colonoscopy
@@ -80,7 +80,7 @@ Regimens, timing, salvage, and repeat intervals: [[bowel-preparation]]. The two 
 
 ### Withdrawal and Inspection
 
-- **Withdrawal time ≥6 min** (cecum → out, normal exam; aspirational ≥9) ([[aga-2021-colonoscopy-quality]]).
+- **Average withdrawal time ≥8 min** (appendiceal orifice → completion of rectal retroflexion, normal exam) ([[asge-acg-2024-colonoscopy-quality-indicators]]).
 - Time is a surrogate — what raises ADR is **looking behind folds, cleaning the colon, and recognizing subtle lesions** ([[aga-2021-colonoscopy-quality]]).
 - **Detection aids:** narrow-band imaging (NBI) on withdrawal (helps with flat lesions); distal-tip attachments (modest ADR gain) ([[aga-2021-colonoscopy-quality]]). Computer-aided detection (CADe): no recommendation for or against ([[aga-2025-cade-colonoscopy]]) → [[artificial-intelligence-endoscopy]].
 - **IBD surveillance:** HD scope with dye-spray or virtual chromoendoscopy ([[aga-2021-ibd-colorectal-dysplasia]]) — dyes, concentrations, and biopsy protocol on [[ulcerative-colitis]].
@@ -104,18 +104,20 @@ Regimens, timing, salvage, and repeat intervals: [[bowel-preparation]]. The two 
 
 ## Quality Targets
 
-Individual-endoscopist goals ([[aga-2021-colonoscopy-quality|American Gastroenterological Association (AGA) 2021]], ungraded); measurement, denominators, and remediation on [[colonoscopy-quality-indicators]].
+Current targets ([[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024]], the governing task-force set); full 15-indicator list, denominators, grades and remediation on [[colonoscopy-quality-indicators]].
 
-| Metric | Goal | Aspirational |
+| Metric | Target | Older figure now superseded ([[aga-2021-colonoscopy-quality\|AGA 2021]]) |
 |---|---|---|
-| Cecal intubation | ≥90% | ≥95% |
-| Mean withdrawal time (normal exams) | ≥6 min | ≥9 min |
-| ADR | ≥30% | ≥35% |
-| Serrated lesion detection rate | ≥7% | ≥10% |
-| Adequate bowel prep (unit level) | ≥90% | ≥95% |
+| Cecal intubation (intact colons, photodocumented) | **≥95%** | ≥90% |
+| Average withdrawal time (normal exams) | **≥8 min** | ≥6 min (aspirational ≥9) |
+| ADR (screening + surveillance + diagnostic, age ≥45) | **≥35%** | ≥30% (screening only, 50–75) |
+| Adenomas per colonoscopy | **≥0.6** | not measured |
+| Sessile serrated lesion detection rate | **≥6%** | ≥7% (aspirational ≥10) |
+| Adequate bowel prep | **≥90%** | ≥90% (aspirational ≥95) |
+| 4–9 mm lesions resected by cold snare | **≥90%** | advice only |
 | Post-polypectomy bleeding | ≤1 per 100 colonoscopies ([[usmstf-2020-endoscopic-removal]]) | — |
 
-- Other documents set different ADR floors (≥30% men / ≥20% women; >25% overall) — which applies where: [[colonoscopy-quality-indicators#Where the Benchmarks Differ Between Documents|colonoscopy-quality-indicators]].
+- ⚠ **The ADR denominator changed as well as the number** — comparing an ADR computed the old way against ≥35% is meaningless. Which document applies where: [[colonoscopy-quality-indicators#Where the Benchmarks Differ Between Documents|colonoscopy-quality-indicators]].
 - **Surveillance intervals assume a high-quality exam** — complete to cecum, adequate prep, adequate ADR, complete polyp excision ([[usmstf-2020-followup-colonoscopy]]); grids on [[colonoscopy-surveillance]].
 
 ---
@@ -153,3 +155,4 @@ Individual-endoscopist goals ([[aga-2021-colonoscopy-quality|American Gastroente
 9. [[aga-2024-glp1-endoscopy|AGA Rapid Clinical Practice Update on the Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy: Communication (2024)]]
 10. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary]]
 11. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
+12. [[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators for Colonoscopy]]

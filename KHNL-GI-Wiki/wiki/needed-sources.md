@@ -86,7 +86,6 @@ FDA prescribing information from [DailyMed](https://dailymed.nlm.nih.gov/dailyme
 | Stelara (ustekinumab), Tremfya (guselkumab), Omvoh (mirikizumab), Skyrizi (risankizumab) labels | dosing, TB/HBV screening, reaction rates, pregnancy | [[il-23-and-il-12-23-inhibitors]] |
 | Ibsrela (tenapanor), Trulance (plecanatide), Linzess (linaclotide) labels | contraindications, pediatric limits, renal / hepatic adjustment | [[tenapanor]], [[plecanatide]], [[linaclotide]] |
 | Prograf (tacrolimus) label | neurotoxicity / adverse-effect detail | [[tacrolimus]] |
-| [Viread (tenofovir DF)](https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=VIREAD), [Vemlidy (tenofovir AF)](https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=VEMLIDY) labels | adult mg doses; renal dose-adjustment / dialysis cut-points (AASLD/IDSA 2025 prints none); renal and bone monitoring on TDF. **Baraclude (entecavir) ingested 2026-10-20** — its doses and the four-band renal table are on the page | [[hbv-nucleoside-analogs]] |
 | Givlaari (givosiran) label | mg/kg dose | [[givosiran]] |
 | Rebyota / Vowst labels | dosing | [[fmt]] |
 | Gattex (teduglutide) label | mg/kg dose, monitoring | [[glp-2-agonists]], [[short-bowel-syndrome]] |

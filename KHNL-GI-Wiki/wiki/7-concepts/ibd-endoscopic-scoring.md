@@ -3,8 +3,8 @@ title: "IBD Endoscopic Scoring Indices"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, endoscopy, scoring, mayo-endoscopic-score, uceis, ses-cd, cdeis, rutgeerts-score]
 created: 2026-07-23
-updated: 2026-09-25
-sources: [aga-2024-ibd-endoscopic-scoring, aga-2017-crohns-after-surgical-resection]
+updated: 2026-10-24
+sources: [asge-acg-2024-colonoscopy-quality-indicators, aga-2024-ibd-endoscopic-scoring, aga-2017-crohns-after-surgical-resection]
 ---
 
 Standardized endoscopic scoring indices for [[ulcerative-colitis|ulcerative colitis (UC)]] (Mayo Endoscopic Subscore [MES], Ulcerative Colitis Endoscopic Index of Severity [UCEIS]) and [[crohns-disease|Crohn's disease (CD)]] (Crohn's Disease Endoscopic Index of Severity [CDEIS], Simple Endoscopic Score for Crohn's Disease [SES-CD], modified Rutgeerts), per the American Gastroenterological Association (AGA) 2024 Clinical Practice Update. They provide objectivity and uniformity of mucosal reporting and are advised for assessing prognosis and treatment efficacy.
@@ -27,6 +27,8 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis|ulcerative coli
 - **Why score:** endoscopic findings at presentation correlate with response to therapy and long-term prognosis; **severe endoscopic findings predict hospitalization and surgery in both UC and CD**. **Mucosal healing** predicts clinical remission, avoidance of surgery, and steroid-free remission.
 - **Clinical–endoscopic dissociation:** as many as **one-half of patients in clinical remission still have endoscopic evidence of active disease** (in SONIC, only half of those in clinical remission had endoscopic healing) — so patients are under- or over-treated when endoscopy is skipped.
 - **STRIDE-II (Selecting Therapeutic Targets in Inflammatory Bowel Disease; International Organization for the Study of Inflammatory Bowel Disease [IOIBD]) [[treat-to-target-ibd|treat-to-target]] sequence:** clinical response/remission → biomarker normalization → endoscopic healing. Reducing inflammation matters most **early**, before irreversible injury.
+- **Endoscopic healing — the numbers STRIDE-II attaches to each index** ([[asge-acg-2024-colonoscopy-quality-indicators]], reporting STRIDE-II): **UC — MES 0 and UCEIS ≤1**; **CD — SES-CD <3 points, or an SES-CD ulceration subscore of 0**. (MES 0 *and* 1 are both associated with positive patient outcomes in treatment trials; the healing target is the stricter one.)
+- **Recording a score is a measured colonoscopy quality indicator, target ≥90%** for both UC (MES, Modified MES, UCEIS or Ulcerative Colitis Colonoscopic Index of Severity) and CD (CDEIS, SES-CD or Rutgeerts) — grade 3, expert opinion ([[asge-acg-2024-colonoscopy-quality-indicators]]). Details: [[colonoscopy-quality-indicators#IBD Colonoscopy Indicators|colonoscopy quality indicators]].
 - **Histologic healing is not yet a recommended endpoint** requiring medical-therapy adjustment.
 - **Uptake problem:** MES and SES-CD are used by [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] specialists but **not universally by general gastroenterologists** — a problem when grading severity at presentation, judging response to therapy, or transferring care. Interobserver agreement for MES ranges from high to only fair/moderate, and CDEIS agreement for superficial vs deep ulceration is only fair. Dedicated training programs can raise less-experienced endoscopists to expert central-reader level, and endoscopy report writers (e.g. Provation) have the scoring systems built in.
 - **Trial central reading:** readers train via a contract research organization (CRO) module, then blindly and independently score videos from the onsite endoscopist; **discordance between onsite endoscopist and central reader triggers a second central reader to adjudicate**. Improves accuracy, adds cost.
@@ -165,3 +167,4 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis|ulcerative coli
 
 1. [[aga-2024-ibd-endoscopic-scoring|AGA 2024 Clinical Practice Update on Endoscopic Scoring Systems in Inflammatory Bowel Disease]]
 2. [[aga-2017-crohns-after-surgical-resection|AGA Institute Guideline on the Management of Crohn's Disease After Surgical Resection (2017)]]
+3. [[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators for Colonoscopy]]

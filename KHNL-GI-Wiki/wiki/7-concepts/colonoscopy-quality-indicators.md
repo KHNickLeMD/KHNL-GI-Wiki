@@ -3,8 +3,8 @@ title: "Colonoscopy Quality Indicators"
 category: concept
 tags: [colonoscopy, quality, adr, sdr, withdrawal-time, cecal-intubation, bowel-prep, polypectomy, crc-screening, colorectal]
 created: 2026-09-23
-updated: 2026-10-22
-sources: [aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy, acg-2014-bowel-cleansing, usmstf-2025-bowel-prep]
+updated: 2026-10-24
+sources: [asge-acg-2024-colonoscopy-quality-indicators, aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy, acg-2014-bowel-cleansing, usmstf-2025-bowel-prep]
 ---
 
 Colonoscopy's efficacy varies among endoscopists, and lower-quality colonoscopies are associated with higher interval colorectal cancer (CRC) incidence and mortality. Quality has three components: **effectiveness** (detecting [[colorectal-cancer|CRC]] and its precursors), **safety**, and **value** (avoiding unnecessary costs). [[aga-2021-colonoscopy-quality]]
@@ -17,7 +17,10 @@ Colonoscopy's efficacy varies among endoscopists, and lower-quality colonoscopie
 - [[#Cecal Intubation]]
 - [[#Withdrawal Time]]
 - [[#Adenoma Detection Rate (ADR)]]
-- [[#Serrated Lesion Detection Rate (SDR)]]
+  - [[#Adenomas per Colonoscopy (APC)]]
+- [[#Serrated Lesion Detection Rate (SSLDR)]]
+- [[#Resection Indicators]]
+- [[#IBD Colonoscopy Indicators]]
 - [[#Unnumbered Best Practices]]
 - [[#Documentation]]
 - [[#Adverse Events]]
@@ -30,18 +33,34 @@ Colonoscopy's efficacy varies among endoscopists, and lower-quality colonoscopie
 
 ## The Benchmark Set
 
-*[[aga-2021-colonoscopy-quality|American Gastroenterological Association (AGA) 2021]] — 15 Best Practice Advice statements, ungraded (the update assigns no evidence grade or strength of recommendation to any statement).*
+*The governing set is [[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024]] — 15 numbered indicators, each with the task force's own strength grade, a measure type and a single minimum performance target. It is the direct successor to the same task force's 2006 and 2015 documents and is newer than every other quality document on the wiki, so where numbers differ it governs (see [[#Where the Benchmarks Differ Between Documents]]). ⭐ = **priority indicator**, measurement of which is "considered essential".*
 
-| Metric | Goal | Aspirational target | Measured at |
-|---|---|---|---|
-| Bowel preparation adequacy rate | **≥90%** | ≥95% | Unit level |
-| Cecal intubation rate | **≥90%** | ≥95% | Endoscopist level |
-| Withdrawal time (mean, normal colonoscopies) | **≥6 min** | ≥9 min | Endoscopist level |
-| Adenoma detection rate (ADR) | **≥30%** | ≥35% | Endoscopist **and** unit level |
-| Serrated lesion detection rate (SDR) | **≥7%** | ≥10% | Endoscopist **and** unit level |
-| Adverse events | Measure and report; no numeric target is given | — | Unit level |
+| # | Indicator | Target | Strength | Type |
+|---|---|---|---|---|
+| 1 | Appropriate indication, documented | **≥95%** | 1C+ | Process |
+| 2 | ⭐ Bowel preparation adequacy rate | **≥90%** | 1C | Process |
+| 3 | ⭐ Cecal intubation rate | **≥95%** | 1C | Process |
+| 4 | ⭐ **Adenoma detection rate (ADR)** | **≥35%** | 1C+ | Outcome |
+| 5 | ADR after a **positive fecal test** (fecal blood or multitarget stool DNA, mt-sDNA) | **≥50%** | 1C | Outcome |
+| 6 | **Adenomas per colonoscopy (APC)** | **≥0.6** | 2C | Outcome |
+| 7 | ⭐ **Sessile serrated lesion detection rate (SSLDR)** | **≥6%** | 2C | Outcome |
+| 8 | Average withdrawal time, normal colonoscopies | **≥8 min** | 2A | Process |
+| 9 | Polyp resections documenting size, shape, location, method | **≥98%** | 3 | Process |
+| 10 | 4–9 mm lesions resected by **cold snare** | **≥90%** | **1A** | Process |
+| 11 | ⭐ Use of recommended screening / surveillance intervals | **≥90%** | 1C | Process |
+| 12 | Serious adverse events tracked, documented, **reviewed by a quality-improvement committee** | **≥95%** | 1C | Process |
+| 13 | [[ulcerative-colitis\|UC]]: formal extent **and** activity score recorded | **≥90%** | 3 | Process |
+| 14 | [[crohns-disease\|Crohn's disease]]: formal endoscopic activity score reported | **≥90%** | 3 | Process |
+| 15 | Appropriate next interval after dysplasia-negative UC / indeterminate colitis surveillance | **≥90%** | 3 | Process |
 
-**If resources are limited, measure these three first: cecal intubation rate, bowel preparation quality, and ADR.**
+> [!pearl] Three benchmarks went up in 2024 — an old audit can pass and still fail
+> **ADR ≥30% → ≥35%**, **withdrawal ≥6 → ≥8 min**, **cecal intubation ≥90% → ≥95%**, plus a new serrated indicator. And the **ADR denominator widened** from screening-only to screening + surveillance + diagnostic at age ≥45. A unit auditing against [[aga-2021-colonoscopy-quality|AGA 2021]] is not measuring the same thing ([[asge-acg-2024-colonoscopy-quality-indicators]]).
+
+- **Grades are the task force's own 8-level scheme, not GRADE:** **1A** randomized trials without important limitations · **1B** randomized trials with important limitations · **1C+** overwhelming observational evidence (strong) · **1C** observational (intermediate strength) · **2A** benefit unclear but good randomized data (intermediate) · **2B** weak · **2C** very weak · **3** expert opinion only. Indicator 10 is the document's **only 1A**.
+- Targets came from published benchmarking data. Where data were absent and failure would be a **"never event"**, the target is written **>98%**.
+- **Cecal intubation has a measurement carve-out:** measure it for everyone, but it **may be measured intermittently or not at all** for a colonoscopist with demonstrated consistent high performance — the only indicator with that allowance.
+- ⚠ **These targets are not the standard of care, credentialing requirements or training standards**, and the document states that applying them that way is a **misuse** of it.
+- **Earlier resource-triage advice (AGA 2021): if only three can be measured, take cecal intubation rate, bowel preparation quality and ADR.** The 2024 set's five priority indicators are the current answer to the same question.
 
 ### Which Level to Measure At, and Why
 
@@ -50,13 +69,25 @@ Colonoscopy's efficacy varies among endoscopists, and lower-quality colonoscopie
 
 ### Denominators — What Actually Goes in the Numerator and Denominator
 
-| Metric | Denominator | Numerator / definition | Measurement frequency |
-|---|---|---|---|
-| **ADR** | All **screening** colonoscopies in patients **aged 50–75 y**; surveillance and diagnostic exams **excluded** | Colonoscopies with **confirmed adenomas**; **serrated polyps excluded** | Intervals of **≥250 screening colonoscopies** — semi-annually if high volume, annually if lower volume |
-| **SDR** | Total screening colonoscopies in the period | Screening colonoscopies with **≥1 sessile serrated lesion** | Denominator of **≥500 screening colonoscopies, or annually**, preferred |
-| **Cecal intubation rate** | **All screening and surveillance** colonoscopies | Cecum reached | — |
-| **Withdrawal time** | An endoscopist's **normal cases only** (no biopsies or [[polypectomy]]) | Time from **cecal intubation to procedure completion**, reported as the **mean** | — |
-| **Bowel prep adequacy** | Screening and surveillance colonoscopies | Boston Bowel Preparation Scale (BBPS) **≥6 with each segment score ≥2** | At a minimum **annually** |
+**Current definitions** ([[asge-acg-2024-colonoscopy-quality-indicators]]). Indicators 4, 6, 7 and 8 share one denominator — **patients aged ≥45 y having colonoscopy for screening, surveillance *or* diagnostic indications** — and the same **four exclusions: positive non-colonoscopy screening tests** (fecal tests, CT colonography), **genetic cancer syndromes** (e.g. polyposis), **IBD**, and **colonoscopy for therapy of known neoplasms**.
+
+| Metric | Numerator / definition | Notes |
+|---|---|---|
+| **ADR** | **≥1 conventional adenoma** detected and **verified by pathology** | **No threshold adjustment** for including **45–49-year-olds**, and **second and subsequent screening colonoscopies count without adjustment** — both settled explicitly |
+| **APC** | **Number of conventional adenomas** detected per colonoscopy | Added because ADR ignores every adenoma after the first. ADR and APC correlate highly **but not always** — in one study **47.6% of endoscopists in the lowest APC quartile still had an ADR ≥25%** |
+| **SSLDR** | **≥1 sessile serrated lesion removed** and documented by pathology | Depends on pathologist interpretation; see [[#Serrated Lesion Detection Rate (SSLDR)]] |
+| **ADR after a positive fecal test** | ≥1 conventional adenoma resected and documented by pathology | **The same ≥50% threshold applies to mt-sDNA-positive and fecal immunochemical test (FIT)-positive patients** |
+| **Cecal intubation rate** | Patients **with intact colons** with full cecal intubation **and photodocumentation of cecal landmarks** | Photodocumentation is part of the definition, not an add-on |
+| **Withdrawal time** | **Average**, normal colonoscopies **without biopsy sampling or polypectomy**, from the **appendiceal orifice to completion of rectal retroflexion** | |
+| **Bowel prep adequacy** | **Boston Bowel Preparation Scale (BBPS) segment score ≥2 in each of the 3 segments**, *or* the prep described as **excellent, good or adequate** | The assigned interval must also be consistent with US Multi-Society Task Force (MSTF) recommendations |
+
+**Measurement frequency** — no interval is specified by the 2024 set; the figures below are AGA 2021's and remain the wiki's practical guidance ([[aga-2021-colonoscopy-quality]]):
+
+| Metric | Measure over |
+|---|---|
+| **ADR** | **≥250 screening colonoscopies** — semi-annually if high volume, annually if lower |
+| **SDR / SSLDR** | **≥500 screening colonoscopies, or annually** (lower lesion prevalence needs a bigger denominator) |
+| **Bowel prep adequacy** | At a minimum **annually** |
 
 ---
 
@@ -86,31 +117,41 @@ Colonoscopy's efficacy varies among endoscopists, and lower-quality colonoscopie
 
 ## Cecal Intubation
 
-- **≥90% of all screening and surveillance colonoscopies**; **≥95% if exams with inadequate bowel preparation are excluded** — that exclusion is the whole difference between the two numbers.
+- **≥95%** of patients **with intact colons**, with **photodocumentation of cecal landmarks** (appendiceal orifice and ileocecal valve) in the report — the photodocumentation is part of the definition ([[asge-acg-2024-colonoscopy-quality-indicators]]).
 - Failure to reach the cecum should be rare in skilled hands **except with inadequate preparation or an obstructing lesion**.
 - Low rates track with **diminished neoplasia detection, higher interval CRC incidence**, and the cost of repeat or alternative testing.
-- **Photodocument the cecal landmarks — appendiceal orifice and ileocecal valve — in the report.**
+- **Uniquely, this indicator may be measured intermittently or not at all** for a colonoscopist with demonstrated consistent high performance — justified by limited evidence of variable performance, evidence that high performance is sustained, and the ceiling effect at 100%.
 - Levers for low performers (limited evidence): **loop reduction technique, CO₂ insufflation, variable-stiffness endoscopes**.
 
 ---
 
 ## Withdrawal Time
 
-- **Mean ≥6 minutes in normal colonoscopies; aspirational ≥9 minutes.** Measured cecal intubation → procedure completion, on cases with no biopsy or polypectomy.
-- **≥6 min** differentiates endoscopists with higher detection of adenomas and advanced neoplasia and is linked to **lower risk of post-colonoscopy CRC**; **incremental gains in adenomas *and* sessile serrated lesions appear at ≥9 min**.
-- Withdrawal time is a **surrogate for inspection quality** and is most valuable **monitored alongside ADR** — lengthening withdrawal without a matching focus on inspection quality may not improve ADR. For an endoscopist with a substandard ADR *and* a low withdrawal time, improving the quality and time spent inspecting improves both.
+- **Average ≥8 minutes** in normal colonoscopies without biopsy sampling or polypectomy, measured **appendiceal orifice → completion of rectal retroflexion** ([[asge-acg-2024-colonoscopy-quality-indicators]]).
+- **The evidence is for 8–9 minutes, not 6.** The 6-minute figure dates from 2006 and a single private-practice study; evidence since 2015 shows optimal detection typically needs an average of **at least 8–9 min**, and that **PCCRC prevention is optimized** in that range. High-quality inspection — cleaning retained pools, systematically exposing mucosa behind every fold, flexure and valve, adequate distention, intraprocedural cleansing — takes that long.
+
+> [!pitfall] A low ADR plus a short withdrawal time is a technique diagnosis
+> The ≥8-min target is a benchmark for an **average**, and the document is explicit that **not every withdrawal must last 8 minutes**. But **ADR and/or SSLDR below threshold *with* an average withdrawal <8 min "could be construed as evidence of an inadequate withdrawal technique"** → evaluate and correct the inspection technique, don't just run the clock longer ([[asge-acg-2024-colonoscopy-quality-indicators]]).
+
+- Mucosal-exposure devices (Endocuff Vision) may allow faster withdrawal without losing detection; further study is needed.
 
 ---
 
 ## Adenoma Detection Rate (ADR)
 
-- **Goal ≥30% for an individual endoscopist; aspirational ≥35%.** A single threshold for both sexes — **sex-based ADRs may be needed only for a significantly male- or female-predominant practice**, since adenoma prevalence is significantly higher in males.
-- **ADR varies up to 5-fold among colonoscopists**; unmeasured, a colonoscopist cannot know where they sit.
-- Prior guidelines set the bar at **25%**; recent data suggest interval CRC risk falls further at an ADR of **roughly 35% or higher**. **ADR <30% — and certainly <25% — calls for focused improvement.** The case for ≥35% rests on an apparent linear relationship across the range over which ADR improved from **19% to 33.5%** in prior research, and needs confirmation.
-- Measure and give feedback at **both endoscopist and unit level**, at minimum annually or per 250 accrued screening colonoscopies.
+- **Target ≥35%** ([[asge-acg-2024-colonoscopy-quality-indicators]], grade 1C+). **No sex-specific thresholds** — the 2024 set does not split by sex at all, where AGA 2021 allowed it for markedly sex-skewed practices and USMSTF 2020 split outright.
+- **ADR is "the most clinically relevant and best validated quality indicator in colonoscopy"** — proposed in 2002, validated as a predictor of PCCRC.
+- **ADR varies up to 5-fold among colonoscopists**; unmeasured, a colonoscopist cannot know where they sit. The task force's position: given the consequences, **failure to measure performance is unacceptable**.
+- Measure and give feedback at **both endoscopist and unit level**, at minimum annually or per 250 accrued screening colonoscopies ([[aga-2021-colonoscopy-quality]]).
 - **[[acg-2021-crc-screening|ACG 2021]] Rec 13:** every screening colonoscopist should **measure** individual cecal intubation rate, ADR, and withdrawal time (Strong; moderate for ADR, low for withdrawal time and cecal intubation).
-- **ADR counting rules** ([[acg-2021-crc-screening|ACG 2021]], citing the 2015 USMSTF): only **conventional adenomas** count (sessile serrated lesions excluded); **exclude fecal immunochemical test (FIT)–positive and multitarget stool DNA (MTsDNA)–positive colonoscopies** from routine ADR and measure them separately (minimum 45% men / 35% women; aspirational may reach ≥75% in men). Aspirational ADR for a mixed-sex screening population **45%–50%**.
+- **Counting rules:** only **conventional adenomas** count — sessile serrated lesions are excluded and counted separately as SSLDR. Colonoscopies done for a **positive fecal test are excluded from routine ADR** and measured as their own indicator at **≥50%** (the same threshold for FIT-positive and mt-sDNA-positive patients) ([[asge-acg-2024-colonoscopy-quality-indicators]]).
 - **Why ADR matters:** each **1% rise in ADR → 3% lower CRC incidence and 5% lower fatal CRC**; ADR <20% carried a >10-fold higher post-colonoscopy CRC risk ([[acg-2021-crc-screening]]).
+
+### Adenomas per Colonoscopy (APC)
+
+- **Target ≥0.6** adenomas per colonoscopy, same denominator and exclusions as ADR ([[asge-acg-2024-colonoscopy-quality-indicators]], grade 2C, outcome measure). New in 2024.
+- **Why a second detection measure:** ADR **does not reward detecting any adenoma after the first**, and many patients have several. Higher APC, like higher ADR, is associated with **lower PCCRC risk**.
+- **ADR and APC correlate highly — but not reliably enough to drop one.** In one study **47.6% of endoscopists in the lowest APC quartile had an ADR ≥25%**: an acceptable ADR can sit on top of a poor APC, which means "find one and stop looking".
 
 **Improvement levers (from the same update):**
 
@@ -127,12 +168,40 @@ Colonoscopy's efficacy varies among endoscopists, and lower-quality colonoscopie
 
 ---
 
-## Serrated Lesion Detection Rate (SDR)
+## Serrated Lesion Detection Rate (SSLDR)
 
-- **Goal ≥7% for an individual endoscopist; aspirational ≥10%.** Calculated analogously to ADR: screening colonoscopies with **≥1 sessile serrated lesion** ÷ total screening colonoscopies.
-- **SDR depends on pathologist interpretation more than ADR does** — sessile serrated lesions are underdiagnosed by pathologists, so **remediation must target both the colonoscopist and the reading pathologists**.
-- ADR and SDR are **highly correlated; if only one can be collected, prioritize ADR.** SDR's practical limitation is the **larger denominator** needed for a confident estimate (lower lesion prevalence) — use **≥500 screening colonoscopies, or an annual window**.
-- There is a clear association between **withdrawal time and SDR**.
+- **Target ≥6%** — patients with **≥1 sessile serrated lesion removed and documented by pathology**, same denominator and exclusions as ADR ([[asge-acg-2024-colonoscopy-quality-indicators]], grade 2C). **A priority indicator**, new to that list in 2024.
+- **Pathology-dependent in a way ADR is not** — substantial interobserver variation among pathologists distinguishing sessile serrated lesions from hyperplastic polyps, which is not an issue for conventional adenomas. So **remediation must target both the colonoscopist and the reading pathologists**.
+- Two further design problems the task force names: an ideal serrated indicator should **not reward resecting diminutive distal hyperplastic polyps** (generally not precancerous), and any indicator relying on endoscopist-reported location **could be gamed**.
+- **Alternatives considered**, each tied to the lowest PCCRC risk at that level: **clinically significant serrated detection rate, benchmark 9%** (needs pathology, size and location) and **proximal serrated polyp detection rate, benchmark 17%** (location only — least pathology-dependent).
+- Practical limitation: the **larger denominator** needed for a confident estimate — **≥500 screening colonoscopies, or an annual window** ([[aga-2021-colonoscopy-quality]]). There is a clear association between **withdrawal time and serrated detection**.
+- ⚠ **AGA 2021 says that if only one of ADR/SDR can be collected, prioritize ADR. The 2024 set makes both priority indicators** and expects both.
+
+---
+
+## Resection Indicators
+
+Two indicators, both new in 2024 ([[asge-acg-2024-colonoscopy-quality-indicators]]).
+
+- **Cold snare for 4–9 mm lesions, ≥90%** (grade **1A** — the only 1A-graded indicator in the document). Technique and the other size bands: [[polypectomy]].
+- **Documentation of size, shape, location and method of resection, ≥98%** (grade 3) — see [[#Documentation]].
+
+---
+
+## IBD Colonoscopy Indicators
+
+Three indicators, all new in 2024, all grade 3 (expert opinion) with a **≥90%** target ([[asge-acg-2024-colonoscopy-quality-indicators]]).
+
+| # | Requirement |
+|---|---|
+| **13** | [[ulcerative-colitis\|UC]] colonoscopy records a **formal assessment of extent *and* activity** — Mayo Endoscopic Score (MES), Modified MES, Ulcerative Colitis Endoscopic Index of Severity (UCEIS), or Ulcerative Colitis Colonoscopic Index of Severity |
+| **14** | [[crohns-disease\|Crohn's disease]] colonoscopy reports a **formal endoscopic activity score** — Crohn's Disease Endoscopic Index of Severity (CDEIS), Simple Endoscopic Score for Crohn's Disease (SES-CD), or Rutgeerts score |
+| **15** | A dysplasia-negative UC / indeterminate colitis surveillance exam gets an **appropriate next interval** — the 1 y / 2–3 y / 3–5 y grid is on [[ulcerative-colitis#Colorectal Cancer Surveillance\|ulcerative colitis]] |
+
+- **Why a score rather than a description:** symptoms often do not correlate with endoscopic findings, and extent plus severity drive **severity classification, prognosis, choice of medical therapy, and colorectal neoplasia risk**.
+- Extent may be given by involved segments or by the **Montreal classification** — **E1** rectum only, **E2** left-sided, **E3** proximal to the splenic flexure.
+- Score anchors, inter-rater performance and the STRIDE-II endoscopic-healing targets (UC: MES 0 and UCEIS ≤1 · CD: SES-CD <3 or ulceration subscore 0) live on [[ibd-endoscopic-scoring]].
+- **Surveillance technique:** high-definition colonoscopy **plus one modality of chromoendoscopy** with targeted biopsy sampling of suspicious areas; whether dye-spray or electronic chromoendoscopy adds anything over high definition alone is **uncertain**.
 
 ---
 
@@ -142,7 +211,7 @@ Advice statements without a measurable rate attached:
 
 - **High-definition (HD) colonoscopes for screening and surveillance.** Meta-analysis of randomized controlled trials (RCTs) confirms a **definite but modest** impact on adenoma, serrated polyp, and advanced adenoma detection. Many legacy lower-definition instruments remain in circulation; upgrading is an effective unit-level strategy.
 - **Second look of the right colon, retroflexed or forward view.** The right colon is the **most frequent location for missed CRCs and polyps** — largely flat and serrated lesions that are hard to see even with adequate prep. A second look **increases ADR by 5%–20%**. *Technique:* insert to the base of the cecum, withdraw to the hepatic flexure inspecting and removing polyps, then **reintubate the cecum** and examine the proximal colon a second time. **Retroflexion and forward view are equally effective**; the second look matters most if polyps were found on first pass or the completeness of the first inspection is in doubt.
-- **Cold snare polypectomy for nonpedunculated polyps 3–9 mm**, aiming for a **small rim of normal tissue** around the polyp — equally efficacious to hot snare, **substantially reduces delayed post-polypectomy bleeding**, avoids thermal injury. Technique details for every size band: [[polypectomy]].
+- **Cold snare polypectomy for nonpedunculated polyps 3–9 mm**, aiming for a **small rim of normal tissue** around the polyp — equally efficacious to hot snare, **substantially reduces delayed post-polypectomy bleeding**, avoids thermal injury. (The 2024 *measured* indicator covers **4–9 mm**; the advice band starts at 3 mm.)
 - **Forceps limits.** Avoid forceps generally for polyps **>2 mm**; **standard cold forceps** carry a high rate of residual neoplasia and **hot biopsy forceps should not be used** (deep thermal injury). Narrow exceptions: **jumbo forceps for diminutive polyps ≤2 mm**, or **polyps ≤5 mm in locations that preclude a snare**. **Never the primary modality for polyps >5 mm.** Residual neoplasia is found at roughly **14% of post-polypectomy sites**.
 - **Refer benign complex polyps for endoscopic resection, not surgery.** Endoscopic resection of nonmalignant colon polyps is **more cost-effective with a lower adverse event rate** than surgery, yet many are still sent to surgery because a "large" polyp is misjudged as malignant. Colonoscopists should be educated on the endoscopic features of **covert malignancy — a depressed component, nongranular lesions**. With no overt features of deep invasion, offer [[endoscopic-mucosal-resection|endoscopic resection]] by an expert in polypectomy. **For a lesion you are referring, avoid partial removal, tattoo injected *underneath* the polyp, and multiple biopsies** — each induces fibrosis and makes later endoscopic resection technically difficult.
 
@@ -163,6 +232,14 @@ A detailed report covering **indication, extent of examination, bowel preparatio
 
 **If the assigned interval deviates from standard guidelines, the report must state the rationale** — eg, inadequate preparation or incomplete polyp resection.
 
+**Polyp reporting rules** (indicator 9, target ≥98%; [[asge-acg-2024-colonoscopy-quality-indicators]]):
+
+- Report for **every** polyp: **size · shape · location by segment** (or distance in cm from the anus for left-sided polyps) **· method of removal**.
+- **Shape:** the **Paris classification** is recommended (its types are on the polypectomy page); "sessile", "flat" and "pedunculated" are also acceptable.
+- **Sizing:** open biopsy forceps held over and against the polyp; for smaller polyps, the **snare sheath tip (2.4 mm)** against the polyp base.
+- **Grouping:** polyps in one segment may be reported as a range ("4 flat and sessile polyps 2–4 mm removed by cold snare"). **Polyps ≥10 mm are described individually**; several ≥10 mm from the same segment removed the same way with similar predicted histology may be grouped.
+- ⚠ **Any lesion of any size suggesting advanced histology or endoscopic features of submucosal-or-deeper invasion goes in its own pathology bottle** — never combined with polyps from another segment.
+
 ---
 
 ## Adverse Events
@@ -175,6 +252,12 @@ A detailed report covering **indication, extent of examination, bowel preparatio
 - Optional unit-level systematic monitoring of **delayed** events: scheduled phone calls; administrative data on post-procedure bleeding and perforation, hospital readmission or emergency department (ED) visits, patient deaths, and interval CRC. **Perforations, deaths, and interval CRC cases should be reviewed for quality improvement.**
 - Complication management and the ≤1 per 100 colonoscopies post-polypectomy bleeding benchmark are on [[colonoscopy#Complications|colonoscopy]].
 
+**The 2024 indicator makes the review mandatory, not optional** ([[asge-acg-2024-colonoscopy-quality-indicators]]):
+
+- **≥95% of serious adverse events tracked, documented *and* reviewed by a quality-improvement committee** to identify system and clinical areas for improvement.
+- The document's serious-adverse-event list is wider than the AGA set: **perforation, postpolypectomy bleeding, sedation-related cardiovascular events, unplanned hospitalization, mortality**.
+- Serious adverse events run **under 1%** across large integrated health systems.
+
 ---
 
 ## Interval Adherence
@@ -184,6 +267,7 @@ Assigning the guideline-concordant interval is itself a quality indicator — no
 - **Advanced adenoma → repeat colonoscopy in 3 years** (advanced precancerous lesions carry the highest risk of metachronous advanced neoplasia; follow-up ≤3 y after the index exam).
 - **Average-risk patient with a high-quality colonoscopy negative for precancerous polyps, or with only small distal hyperplastic polyps → do not rescreen before 10 years.**
 - **1–2 small adenomas (especially 1–2 diminutive adenomas):** increasing evidence that these patients are **not at significantly elevated CRC risk versus the general population**, and endoscopists **should consider assigning a 10-year interval** for this group — longer than the 7–10 y the surveillance grid assigns.
+- **The 2024 indicator puts a number on adherence: ≥90%**, covering post-polypectomy and post-cancer-resection intervals **and** the 10-year interval between screening colonoscopies in average-risk patients with a negative, adequately-prepped examination. **A shorter screening interval is appropriate only for inadequate bowel preparation.** Clinical decision support tools improve compliance. ([[asge-acg-2024-colonoscopy-quality-indicators]])
 
 ---
 
@@ -227,16 +311,22 @@ flowchart TD
 
 ## Where the Benchmarks Differ Between Documents
 
-Same metrics, different numbers and denominators across ingested guidelines. Audit against the document whose population matches your exam, and say which one you used.
+**[[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024]] is the governing set** — the current task-force document and the newest of the four. The older numbers are kept here because readers will have audited against them, not because they are live targets.
 
-| Metric | [[aga-2021-colonoscopy-quality\|AGA 2021 Clinical Practice Update (CPU)]] | [[acg-2021-crc-screening\|American College of Gastroenterology (ACG) 2021]] | [[usmstf-2020-followup-colonoscopy\|USMSTF 2020]] |
-|---|---|---|---|
-| **ADR** | **≥30%** for an individual endoscopist (aspirational ≥35%), one threshold for both sexes; sex-based ADR only for a markedly sex-skewed practice | **<25%** → remedial training (Rec 14, Conditional / Very low); discussion treats 30% men / 20% women as minimums, aspirational 45%–50% | **≥30% men / ≥20% women** as the high-quality-exam prerequisite |
-| **Cecal intubation** | **≥90%** of screening + surveillance exams; **≥95%** when inadequately prepped exams are excluded | **≥95% in screening subjects** (Rec 16, Strong / Low); ≥90% overall cited as the current US recommendation, ungraded | Complete to cecum with photodocumented landmark |
-| **Withdrawal time** | Mean **≥6 min** in normal exams, aspirational **≥9 min** | **≥6 min** of mucosal inspection (Rec 15, Strong / Low) | Not specified |
-| **1–2 small adenomas** | **Consider 10 y** | — | **7–10 y** (see [[colonoscopy-surveillance]]) |
+| Metric | **ASGE/ACG 2024 (governs)** | [[aga-2021-colonoscopy-quality\|AGA 2021 Clinical Practice Update (CPU)]] | [[acg-2021-crc-screening\|American College of Gastroenterology (ACG) 2021]] | [[usmstf-2020-followup-colonoscopy\|USMSTF 2020]] |
+|---|---|---|---|---|
+| **ADR** | **≥35%**, no sex split | **≥30%** (aspirational ≥35%); sex-based ADR only for a markedly sex-skewed practice | **<25%** → remedial training (Rec 14, Conditional / Very low); discussion treats 30% men / 20% women as minimums, aspirational 45%–50% | **≥30% men / ≥20% women** |
+| **ADR denominator** | Screening **+ surveillance + diagnostic**, age **≥45 y**; 4 exclusions | **Screening only, ages 50–75** | Screening | Screening |
+| **Cecal intubation** | **≥95%**, patients with intact colons, photodocumented | **≥90%** of screening + surveillance; **≥95%** excluding inadequately prepped exams | **≥95% in screening subjects** (Rec 16, Strong / Low) | Complete to cecum with photodocumented landmark |
+| **Withdrawal time** | **≥8 min** average | Mean **≥6 min**, aspirational **≥9 min** | **≥6 min** of mucosal inspection (Rec 15, Strong / Low) | Not specified |
+| **Serrated detection** | **SSLDR ≥6%**, a priority indicator | **SDR ≥7%** (aspirational ≥10%); prioritize ADR if only one | — | — |
+| **1–2 small adenomas** | — | **Consider 10 y** | — | **7–10 y** (see [[colonoscopy-surveillance]]) |
 
-The AGA and ACG documents publish the same pair of cecal-intubation numbers against **different denominators** — a 95% target earned by excluding poorly prepped exams is not the same as a 95% target in screening exams. The ADR figures are not reconciled by any of the three documents.
+> [!pitfall] The denominator mismatch is the dangerous one
+> The threshold changes are visible; the denominator change is silent. Two endoscopists each reporting "my ADR is 33%" — one on the 2024 definition (screening + surveillance + diagnostic, age ≥45) and one on AGA 2021's (screening only, 50–75) — are not measuring the same quantity. **Say which definition produced the number.**
+
+- **SSLDR ≥6% is *lower* than AGA 2021's SDR ≥7%** — the one benchmark that moved down, and the two documents also disagree on whether a serrated indicator is optional.
+- Cecal intubation now has a **third** denominator (intact colons, with photodocumentation) on top of the two the wiki already flagged. The 2024 definition is the current one.
 
 
 Other USMSTF ADR figures, each tied to its own population:
@@ -255,8 +345,9 @@ Other USMSTF ADR figures, each tied to its own population:
 
 ## Sources
 
-1. [[aga-2021-colonoscopy-quality|AGA 2021 Clinical Practice Update on Strategies to Improve Quality of Screening and Surveillance Colonoscopy: Expert Review]]
-2. [[acg-2021-crc-screening|ACG Clinical Guidelines: Colorectal Cancer Screening 2021]]
-3. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]
-4. [[acg-2014-bowel-cleansing|Optimizing Adequacy of Bowel Cleansing for Colonoscopy: Recommendations from the US Multi-Society Task Force on Colorectal Cancer (2014)]]
-5. [[usmstf-2025-bowel-prep|USMSTF 2025: Optimizing Bowel Preparation Quality for Colonoscopy]]
+1. [[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators for Colonoscopy]]
+2. [[aga-2021-colonoscopy-quality|AGA 2021 Clinical Practice Update on Strategies to Improve Quality of Screening and Surveillance Colonoscopy: Expert Review]]
+3. [[acg-2021-crc-screening|ACG Clinical Guidelines: Colorectal Cancer Screening 2021]]
+4. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]
+5. [[acg-2014-bowel-cleansing|Optimizing Adequacy of Bowel Cleansing for Colonoscopy: Recommendations from the US Multi-Society Task Force on Colorectal Cancer (2014)]]
+6. [[usmstf-2025-bowel-prep|USMSTF 2025: Optimizing Bowel Preparation Quality for Colonoscopy]]

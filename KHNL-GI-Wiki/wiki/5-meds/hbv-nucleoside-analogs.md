@@ -3,8 +3,8 @@ title: "HBV Nucleos(t)ide Analogs (Entecavir, TDF, TAF)"
 category: med
 tags: [hepatitis-b, hbv, antiviral, nucleoside-analogues, entecavir, tenofovir, tdf, taf, hepatology, pregnancy, hbv-reactivation, resistance]
 created: 2026-10-03
-updated: 2026-10-20
-sources: [aasld-idsa-2025-chb-treatment, baraclude-2019-entecavir-label, aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aasld-ast-2025-liver-transplant-graft-complications, acg-2023-alf, aasld-2020-autoimmune-hepatitis]
+updated: 2026-10-24
+sources: [aasld-idsa-2025-chb-treatment, baraclude-2019-entecavir-label, viread-2018-tenofovir-df-label, vemlidy-2024-tenofovir-alafenamide-label, aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aasld-ast-2025-liver-transplant-graft-complications, acg-2023-alf, aasld-2020-autoimmune-hepatitis]
 ---
 
 ## Contents
@@ -15,6 +15,8 @@ sources: [aasld-idsa-2025-chb-treatment, baraclude-2019-entecavir-label, aga-202
   - [[#Non-Preferred and Legacy Agents]]
 - [[#Dosing and Administration]]
   - [[#Entecavir — Dose]]
+  - [[#Tenofovir Disoproxil Fumarate (TDF) — Dose]]
+  - [[#Tenofovir Alafenamide (TAF) — Dose]]
 - [[#Treatment Targets]]
 - [[#Suboptimal Virologic Response — Switch and Add-On]]
 - [[#Where These Drugs Are Used]]
@@ -51,12 +53,11 @@ Selection among the three preferred NAs is driven by: availability/cost · age �
 | **Tenofovir alafenamide (TAF)** | Creatinine clearance (CrCl) **<15 mL/min and not yet on dialysis** | Renal or bone disease (used **instead of** TDF); pregnancy (co-recommended with TDF); prior lamivudine exposure |
 
 - The lamivudine rule is about **cross-resistance** — prior lamivudine exposure disqualifies ETV, not the tenofovirs.
-- In the **immune-tolerant phase**, resistance rates remain low with ETV/TDF/TAF but **may be increased** by the very high replication levels; HBV DNA may never become undetectable even on long-term therapy. In a 4-year study, TDF alone achieved HBV DNA <69 IU/mL in **55%** vs **76%** for TDF plus emtricitabine (odds ratio 2.60, 95% confidence interval 1.21–5.56), with **no** improvement in hepatitis B e antigen (HBeAg) or hepatitis B surface antigen (HBsAg) loss.
+- In the **immune-tolerant phase**, resistance rates remain low with ETV/TDF/TAF but **may be increased** by the very high replication levels; HBV DNA may never become undetectable even on long-term therapy. Adding emtricitabine to TDF improves DNA suppression but **not** hepatitis B e antigen (HBeAg) or hepatitis B surface antigen (HBsAg) loss.
 
 ### Renal Function and Dialysis
 
-- **All three agents require consideration of renal function and/or dialysis.**
-- **ETV and TDF need dose adjustment** for renal dysfunction or dialysis.
+- **All three agents require consideration of renal function and/or dialysis**, but only **ETV and TDF need dose adjustment** — TAF needs none above CrCl 15 mL/min or on hemodialysis. Thresholds and tables: [[#Dosing and Administration]].
 - For a person **on TDF with declining renal function, changing the NA is preferred** to dose-adjusting TDF.
 - **TAF is not recommended at CrCl <15 mL/min when not yet on dialysis.**
 
@@ -73,7 +74,8 @@ Selection among the three preferred NAs is driven by: availability/cost · age �
 ## Dosing and Administration
 
 - **Administration:** tenofovir (TDF, TAF) is taken **with food**; ETV is taken **on an empty stomach — at least 2 h after a meal and 2 h before the next meal** ([[baraclude-2019-entecavir-label]]). Confirming that the drug is being taken correctly is the first step in any suboptimal virologic response. ([[aasld-idsa-2025-chb-treatment]])
-- **AASLD/IDSA 2025 prints no adult milligram doses or renal dose-adjustment cut-points for entecavir, TDF or TAF** — it states only that ETV and TDF require adjustment for renal dysfunction or dialysis. Doses below come from the product labels. The one NA dose the guidelines themselves give is **telbivudine 600 mg daily**, from the pregnancy trial ACG 2016 cites (gestational weeks 20–32, HBeAg-positive, HBV DNA >7 log₁₀ copies/mL). ([[acg-2016-liver-disease-pregnancy]])
+- **AASLD/IDSA 2025 prints no adult milligram doses or renal dose-adjustment cut-points for entecavir, TDF or TAF** — it states only that ETV and TDF require adjustment for renal dysfunction or dialysis. All three doses below come from the product labels. The one NA dose the guidelines themselves give is **telbivudine 600 mg daily**, from the pregnancy trial ACG 2016 cites (gestational weeks 20–32, HBeAg-positive, HBV DNA >7 log₁₀ copies/mL). ([[acg-2016-liver-disease-pregnancy]])
+- **Food rules differ across the three agents and are easy to confuse:** ETV on an **empty stomach**, TAF **with food**, TDF **with or without food**.
 - Pill burden and long-term adherence are explicit considerations: therapy is anticipated to last **many years**, and a switch is generally preferred over add-on therapy because of lower pill burden.
 
 ### Entecavir — Dose
@@ -100,7 +102,40 @@ Selection among the three preferred NAs is driven by: availability/cost · age �
 
 - **On a hemodialysis day, dose after the session.**
 - Pediatric renal impairment has **no specific recommendation** — consider a dose reduction or interval increase mirroring the adult table.
-- **TDF and TAF doses and renal cut-points are not yet in the wiki** — the Viread and Vemlidy labels are not ingested, and no ingested guideline prints them.
+### Tenofovir Disoproxil Fumarate (TDF) — Dose
+
+**300 mg once daily, with or without food** ([[viread-2018-tenofovir-df-label]], adults and adolescents ≥12 y and ≥35 kg).
+
+**Renal adjustment extends the interval rather than cutting the dose — start at CrCl <50 mL/min.** CrCl is calculated with **ideal (lean) body weight**.
+
+| CrCl (mL/min) | 300 mg dosing interval |
+|---|---|
+| **≥50** | every **24 h** |
+| **30–49** | every **48 h** |
+| **10–29** | every **72–96 h** |
+| **Hemodialysis** | every **7 days**, or after ~12 h of cumulative dialysis (≈ once weekly on three ~4-h sessions/week) — **give after the session** |
+| **<10 and not on dialysis** | **no dosing recommendation exists** — pharmacokinetics never studied |
+
+> [!pitfall] The TDF renal intervals were never tested in kidney disease
+> They are modelled from single-dose pharmacokinetics in people without HBV or HIV, and the label says so. Monitor both virologic response and renal function if you use them — and this is why the guideline prefers **changing the agent** over dose-adjusting TDF ([[viread-2018-tenofovir-df-label]], [[aasld-idsa-2025-chb-treatment]]).
+
+- **No adjustment at CrCl 50–80 mL/min**, but estimated CrCl, serum phosphorus, urine glucose and urine protein should still be monitored routinely even in mild impairment.
+- **Do not combine** TDF with any other tenofovir-containing product (including TAF products) or with adefovir.
+
+### Tenofovir Alafenamide (TAF) — Dose
+
+**25 mg once daily, with food** ([[vemlidy-2024-tenofovir-alafenamide-label]], adults and children ≥6 y and ≥25 kg).
+
+**No renal dose adjustment at any level — one prohibition instead:**
+
+| Renal status | Action |
+|---|---|
+| CrCl **≥15 mL/min** | **No adjustment** |
+| **ESRD (CrCl <15 mL/min) on chronic hemodialysis** | **No adjustment**; give **after** the dialysis session |
+| **ESRD not on chronic hemodialysis** | **Not recommended** |
+
+- **Hepatic impairment:** no adjustment in Child-Pugh A; **not recommended in Child-Pugh B or C** — the label indicates TAF for **compensated** liver disease only. AASLD/IDSA 2025 nonetheless lists TAF among the three agents for decompensated cirrhosis; the guideline governs (see [[#Where These Drugs Are Used]] and [[vemlidy-2024-tenofovir-alafenamide-label]]).
+- The flat renal profile is the labelled reason TAF replaces TDF in renal disease: TDF needs interval extension from CrCl <50 mL/min and has **no recommendation at all** below 10 mL/min off dialysis.
 
 ---
 
@@ -115,9 +150,8 @@ Selection among the three preferred NAs is driven by: availability/cost · age �
 | Biochemical | Serum alanine aminotransferase (ALT) normal |
 | Histologic | Necroinflammation improved by ≥2 points with no worsening of fibrosis |
 
-- **Functional cure (HBsAg loss) is the desired endpoint** — associated with better clinical outcomes and long-term durability. Definitions of functional and partial cure: [[chronic-hepatitis-b]].
-- Other goals: reduced vertical and horizontal transmission, better patient-reported outcomes and quality of life, less stigma.
-- **When the indication is preventing onward transmission**, the target is HBV DNA **below the lower limit of quantification**. For healthcare workers performing Society for Healthcare Epidemiology of America (SHEA) category III exposure-prone procedures, SHEA guidance is to maintain **HBV DNA <1000 IU/mL**; thresholds differ between advisory bodies, and the American Association for the Study of Liver Diseases (AASLD)/Infectious Diseases Society of America (IDSA) guideline endorses no single number.
+- **Functional cure (HBsAg loss) is the desired endpoint** — better clinical outcomes and long-term durability. Definitions of functional and partial cure: [[chronic-hepatitis-b]].
+- **When the indication is preventing onward transmission**, the target is HBV DNA **below the lower limit of quantification**. For healthcare workers performing Society for Healthcare Epidemiology of America (SHEA) category III exposure-prone procedures, SHEA guidance is **HBV DNA <1000 IU/mL**; thresholds differ between advisory bodies and the American Association for the Study of Liver Diseases (AASLD)/Infectious Diseases Society of America (IDSA) guideline endorses no single number.
 
 ---
 
@@ -153,7 +187,7 @@ Selection among the three preferred NAs is driven by: availability/cost · age �
 |---|---|
 | CHB by phase (immune-active, immune-tolerant, indeterminate, inactive) | Phase definitions, ALT/HBV DNA thresholds and the treat-vs-monitor decision: [[chronic-hepatitis-b]] |
 | **Compensated cirrhosis**, HBsAg-positive, any HBV DNA level | Treat with ETV, TDF or TAF **until HBsAg loss** |
-| **Decompensated cirrhosis** (variceal hemorrhage, [[ascites]], [[hepatic-encephalopathy\|hepatic encephalopathy]], hepatorenal syndrome) | Treat with ETV, TDF or TAF **indefinitely**; monitor for **lactic acidosis** (rare, but likely more common with NA therapy when decompensated); refer for [[liver-transplantation\|transplant]] consideration |
+| **Decompensated cirrhosis** (variceal hemorrhage, [[ascites]], [[hepatic-encephalopathy\|hepatic encephalopathy]], hepatorenal syndrome) | Treat with ETV, TDF or TAF **indefinitely**; monitor for **lactic acidosis** (rare, but likely more common with NA therapy when decompensated); refer for [[liver-transplantation\|transplant]] consideration. ⚠ The **TAF label restricts TAF to compensated disease and does not recommend it in Child-Pugh B or C** — the guideline recommendation stands, but expect the question ([[vemlidy-2024-tenofovir-alafenamide-label]]) |
 | **[[acute-liver-failure\|Acute liver failure]] from HBV reactivation** | Start **entecavir or tenofovir** immediately (ACG 2023 — strong recommendation) ([[acg-2023-alf]]) |
 | **Prophylaxis before immunosuppression** | Use an NA with a **high barrier to resistance**; entecavir or tenofovir if HBsAg-positive ([[aasld-2020-autoimmune-hepatitis]]). Risk tiers, prophylaxis-vs-monitoring and duration: [[chronic-hepatitis-b]] ([[aga-2025-hbv-reactivation]]) |
 | **Liver transplantation** | Entecavir, tenofovir disoproxil or TAF, started **before transplant** in candidates with CHB and continued **indefinitely**; also indefinite prophylaxis for an HBsAg-negative recipient of an anti-hepatitis B core-positive graft. Hepatitis B immune globulin (HBIG) rules: [[liver-transplantation]] |
@@ -189,7 +223,24 @@ Selection among the three preferred NAs is driven by: availability/cost · age �
 - **TAF** — not used at CrCl <15 mL/min when not yet on dialysis.
 - **Decompensated cirrhosis** — monitor for **lactic acidosis**, a rare adverse effect that is likely more common with NA therapy in decompensation.
 - **Stopping therapy** is itself the major safety event: ALT flares, hepatic decompensation and death have been reported after NA withdrawal.
-- AASLD/IDSA 2025 does not give the renal and bone monitoring intervals on TDF. The renal dose-adjustment thresholds it omits are now on this page for entecavir (see [[#Entecavir — Dose]]); TDF and TAF still lack them.
+- AASLD/IDSA 2025 does not give the renal and bone monitoring intervals on TDF; the labels do, and they are below.
+
+**TDF — the renal and bone toxicity behind the avoid rule, in actionable form** ([[viread-2018-tenofovir-df-label]]):
+
+| Concern | What the label says to do |
+|---|---|
+| **Renal** — acute renal failure, **proximal renal tubulopathy**, **Fanconi syndrome** (tubular injury with severe hypophosphatemia) | Assess estimated CrCl in **everyone** before starting and as clinically appropriate on therapy. **In anyone at risk** — including a prior renal event on adefovir — also check **serum phosphorus, urine glucose and urine protein** before starting and periodically |
+| **Nephrotoxic co-medication** | **Avoid TDF with concurrent or recent nephrotoxic agents**, high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs) named specifically — acute renal failure (some needing dialysis) has followed NSAID initiation in patients who looked stable. **Offer an NSAID alternative** to at-risk patients |
+| **Bone** — small bone mineral density (BMD) losses, raised bone-turnover markers, parathyroid hormone and 1,25-vitamin D | **Consider BMD assessment** in anyone with a **prior pathologic fracture or other osteoporosis risk factor**. **Calcium and vitamin D** were not studied but may benefit all patients |
+| **Osteomalacia** from proximal renal tubulopathy | Consider it, with hypophosphatemia, in at-risk patients with persistent or worsening bone or muscle symptoms |
+
+> [!pitfall] Bone pain on TDF is a kidney sign until proven otherwise
+> Persistent or worsening bone pain, limb pain, fractures, arthralgia or muscle pain/weakness may be the presenting face of **proximal renal tubulopathy** — evaluate renal function rather than treating it as a primary bone problem ([[viread-2018-tenofovir-df-label]]).
+
+- **TAF has no BMD warning and no bone-monitoring instruction** on its label — the labelled counterpart of preferring TAF in bone disease. Its renal warning is the same family (acute renal failure, proximal renal tubulopathy, Fanconi syndrome, worse with nephrotoxic agents/NSAIDs), with the instruction to **discontinue TAF** for a clinically significant fall in renal function or evidence of Fanconi syndrome. ([[vemlidy-2024-tenofovir-alafenamide-label]])
+- **Most common adverse reaction on TAF** (≥10%, all grades): **headache**.
+- **Both tenofovir labels carry the same boxed warning as entecavir** — posttreatment severe acute exacerbation of hepatitis B, with clinical **and** laboratory follow-up for **at least several months** after stopping. Neither TDF nor TAF has any listed contraindication.
+- **HIV before starting, on every agent:** offer HIV antibody testing to every HBV-infected patient before any of the three NAs; TDF and TAF must be used in co-infection only as part of a full antiretroviral regimen, and the TDF label adds that every patient with HIV-1 should be tested for CHB before starting. ([[viread-2018-tenofovir-df-label]], [[vemlidy-2024-tenofovir-alafenamide-label]])
 
 **Entecavir boxed warning — three parts, each with an action** ([[baraclude-2019-entecavir-label]]):
 
@@ -212,8 +263,11 @@ Selection among the three preferred NAs is driven by: availability/cost · age �
 | Suspected plateau or breakthrough | More frequent HBV DNA testing to define the pattern; resistance testing if breakthrough |
 | On treatment, compensated or decompensated cirrhosis | HCC surveillance every 6 months — criteria on [[hcc-surveillance]] |
 | After stopping therapy (any indication) | Schedules are on [[chronic-hepatitis-b]] |
+| **On TDF or TAF — renal labs** | Serum creatinine and estimated CrCl in **all** patients before starting and "as clinically appropriate" / "on a clinically appropriate schedule" on therapy; **urine glucose and urine protein** too (all patients on TAF; at-risk patients on TDF), plus **serum phosphorus** in chronic kidney disease ([[viread-2018-tenofovir-df-label]], [[vemlidy-2024-tenofovir-alafenamide-label]]) |
+| **On TDF — bone** | No interval given; **consider BMD assessment** if prior pathologic fracture or other osteoporosis risk factors ([[viread-2018-tenofovir-df-label]]) |
+| After stopping any NA (boxed warning, all three labels) | Clinical **and** laboratory follow-up for **at least several months** |
 
-AASLD/IDSA 2025 is a focused update: it gives the intervals above and for untreated persons, but no routine on-treatment laboratory interval for the stable, suppressed patient.
+AASLD/IDSA 2025 is a focused update: it gives the intervals above and for untreated persons, but no routine on-treatment laboratory interval for the stable, suppressed patient. **Neither tenofovir label names a numeric interval either** — both say "as clinically appropriate".
 
 ---
 
@@ -233,3 +287,5 @@ AASLD/IDSA 2025 is a focused update: it gives the intervals above and for untrea
 6. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
 7. [[aasld-2020-autoimmune-hepatitis|AASLD Practice Guidance on Autoimmune Hepatitis (2020)]]
 8. [[baraclude-2019-entecavir-label|BARACLUDE (Entecavir) Tablets and Oral Solution — FDA Prescribing Information]]
+9. [[viread-2018-tenofovir-df-label|VIREAD (Tenofovir Disoproxil Fumarate) Tablets — FDA Prescribing Information]]
+10. [[vemlidy-2024-tenofovir-alafenamide-label|VEMLIDY (Tenofovir Alafenamide) Tablets — FDA Prescribing Information]]

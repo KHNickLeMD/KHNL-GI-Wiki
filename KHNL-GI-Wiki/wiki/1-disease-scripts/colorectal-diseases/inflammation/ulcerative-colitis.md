@@ -3,8 +3,8 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-10-22
-sources: [aga-2018-functional-gi-symptoms-ibd, acg-2025-uc, aga-2019-mild-moderate-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt, aga-2021-ibd-colorectal-dysplasia]
+updated: 2026-10-24
+sources: [asge-acg-2024-colonoscopy-quality-indicators, aga-2018-functional-gi-symptoms-ibd, acg-2025-uc, aga-2019-mild-moderate-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt, aga-2021-ibd-colorectal-dysplasia]
 ---
 
 Ulcerative colitis (UC): idiopathic chronic [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] of the large intestine — continuous mucosal inflammation from the rectum extending proximally; relapsing–remitting. Goal: sustained steroid-free endoscopic remission.
@@ -308,6 +308,19 @@ Ulcerative colitis (UC): idiopathic chronic [[inflammatory-bowel-disease|inflamm
 
 - Risk factors: current/prior inflammation burden (endoscopic + histologic), duration, family history of CRC, PSC, prior dysplasia, quality of prior exams, **post-inflammatory polyposis or scarring** that hides dysplasia.
 
+**Which stratum a patient lands in — the feature-by-feature grid** ([[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024]] Table 13, a synthesis of four guidelines; assigning the right interval here is itself a measured quality indicator, target ≥90%). Assumes a complete exam with adequate prep. **Any feature in a column sets that interval; take the shortest that applies.**
+
+| 1 y | 2–3 y | 3–5 y |
+|---|---|---|
+| **PSC**, including after [[liver-transplantation\|liver transplant]] | Prior resected **visible** dysplasia <5 y ago | **Mucosal healing** now **and 2 prior exams without dysplasia** |
+| Family history of CRC in a **first-degree relative aged <50 y** | Family history of CRC (no first-degree relative <50 y) | Disease extent **≤⅓ of the colon** |
+| Prior **invisible** dysplasia <5 y ago | **Mildly** active inflammation | |
+| Active inflammation **more than mild** | Pseudopolyps (**not dense**) | |
+| **Dense** pseudopolyps | | |
+| **Colonic stricture** | | |
+
+- ⚠ **3 vs 5 years is an unresolved disagreement the 2024 document surfaces itself:** ACG caps the maximum interval at **3 y**; three other guidelines/updates allow up to **5 y**, and Table 13 follows the 5-y option. The ASGE/ACG 2024 position is newer than [[aga-2021-ibd-colorectal-dysplasia|AGA 2021]] and governs the grid above; the AGA table's post-resection rows have no counterpart in it and still stand.
+
 **Technique:**
 - High-definition (HD) preferred. **Standard definition → dye-spray chromoendoscopy (DCE)** (Strong/Low, ACG 2019 rec 48). **HD → white light with narrow-band imaging (NBI) or DCE** (Conditional/Low, rec 49) — [[asge-2015-scenic-ibd-dysplasia|SCENIC 2015]] rejected NBI; follow ACG 2019.
 - HELIOS randomized controlled trial (RCT; n=563): HD white light with segmental re-inspection **noninferior** to HD-DCE ([[aga-2026-therapeutic-endoscopy-ibd]]).
@@ -382,3 +395,4 @@ Ulcerative colitis (UC): idiopathic chronic [[inflammatory-bowel-disease|inflamm
 16. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
 17. [[aga-2019-mild-moderate-uc|AGA Clinical Practice Guidelines on the Management of Mild-to-Moderate Ulcerative Colitis (2019)]]
 18. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease: Expert Review]]
+19. [[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators for Colonoscopy]]

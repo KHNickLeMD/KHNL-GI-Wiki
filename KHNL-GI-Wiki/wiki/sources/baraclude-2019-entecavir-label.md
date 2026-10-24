@@ -79,7 +79,7 @@ The label carries a **boxed warning with three parts**: severe acute exacerbatio
 ## Relevance to Wiki
 
 - **[[hbv-nucleoside-analogs]] → the declared dose gap is the reason this was fetched and is now closed for entecavir.** The page previously stated that AASLD/IDSA 2025 gives no adult milligram dose and no renal cut-point for ETV, TDF or TAF, and directed the reader to the product label. It now carries the entecavir doses, the two separate indications for the 1 mg dose, the four-band renal table on both dose tracks, the empty-stomach rule, the "no hepatic adjustment" statement, and the boxed-warning actions.
-- **Still open on that page:** the equivalent doses and renal cut-points for **tenofovir disoproxil fumarate (TDF)** and **tenofovir alafenamide (TAF)**, plus the renal and bone monitoring intervals on TDF. The Viread and Vemlidy labels remain on `needed-sources.md` for a later pass.
+- **Completed 2026-10-24:** the equivalent doses, renal cut-points and monitoring for **tenofovir disoproxil fumarate (TDF)** and **tenofovir alafenamide (TAF)** now come from [[viread-2018-tenofovir-df-label]] and [[vemlidy-2024-tenofovir-alafenamide-label]]. All three preferred agents are fully dosed on the page.
 - Corroborates, from the label side, two rules the wiki already carries from guidelines: the **lamivudine-exposure caveat** for entecavir, and the **lactic acidosis signal in decompensated cirrhosis** on nucleoside analog therapy.
 
 ## Contradictions / Open Questions
