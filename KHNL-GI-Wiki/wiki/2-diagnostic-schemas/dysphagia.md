@@ -3,8 +3,8 @@ title: "Dysphagia"
 category: diagnostic-schema
 tags: [dysphagia, esophageal, oropharyngeal, motility, achalasia, eosinophilic-esophagitis, odynophagia, globus]
 created: 2026-06-04
-updated: 2026-10-04
-sources: [acg-2020-esophageal-physiologic-testing, chicago-v4-2021-esophageal-dysmotility, acg-2025-egd-quality, aga-2024-esophageal-immunity-infection, acg-2020-achalasia, rome-v-2026-dgbi]
+updated: 2026-10-25
+sources: [asge-2014-dysphagia, acg-2020-esophageal-physiologic-testing, chicago-v4-2021-esophageal-dysmotility, acg-2025-egd-quality, aga-2024-esophageal-immunity-infection, acg-2020-achalasia, rome-v-2026-dgbi]
 ---
 
 ## Contents
@@ -104,7 +104,7 @@ flowchart TD
 ```
 
 1. **Localize** oropharyngeal vs. esophageal by history — this determines the first test.
-2. **Oropharyngeal** → **modified barium swallow (videofluoroscopic swallow study)** with speech-language pathology; pursue the underlying neuromuscular or structural cause (ENT, neurology). Nasendoscopy/fiberoptic endoscopic evaluation of swallowing (FEES) for aspiration assessment.
+2. **Oropharyngeal** → **modified barium swallow (videofluoroscopic swallow study)** with speech-language pathology; pursue the underlying neuromuscular or structural cause (ENT, neurology). Nasendoscopy/fiberoptic endoscopic evaluation of swallowing (FEES) for aspiration assessment. **Still perform [[upper-endoscopy|EGD]] in suspected oropharyngeal dysphagia** — to exclude alternative or additional pathology — **and include a complete examination of the UES and hypopharynx** ([[asge-2014-dysphagia]]).
 3. **Esophageal** → **[[upper-endoscopy|EGD]] first** in nearly all cases — it is diagnostic and therapeutic (dilation), and allows biopsy. **Obtain esophageal biopsies even when the mucosa looks normal** to exclude [[eosinophilic-esophagitis|EoE]] (≥6 biopsies, proximal + distal).
 4. If EGD is **normal** (including negative EoE biopsies), proceed to **[[high-resolution-manometry|HRM]]** to evaluate motility ([[chicago-classification-v4|Chicago Classification v4.0]]).
 5. **Barium esophagram** (incl. timed barium / tablet barium) is a useful adjunct — it can reveal subtle rings/webs, extrinsic compression, or a "bird's beak" of achalasia, and is sometimes done before EGD when a proximal lesion or Zenker's is suspected.
@@ -121,6 +121,15 @@ flowchart TD
 - **[[high-resolution-manometry|High-resolution manometry]]** — gold standard for esophageal motility disorders; interpreted by [[chicago-classification-v4|Chicago Classification v4.0]].
 - **[[flip-panometry|FLIP panometry]]** — adjunct measuring EGJ distensibility and secondary peristalsis; clarifies EGJOO and achalasia when HRM is inconclusive.
 - **Ambulatory [[reflux-testing|reflux testing]]** ([[ambulatory-reflux-monitoring]]) — when [[gerd|GERD]] is suspected as the driver of a peptic stricture or dysphagia.
+
+**Which causes dilation can fix** ([[asge-2014-dysphagia]]) — the question that decides whether the diagnostic EGD becomes a therapeutic one:
+
+| Amenable to [[esophageal-dilation\|dilation]] | **Not** amenable |
+|---|---|
+| [[esophageal-stricture\|Peptic stricture]] · Schatzki ring · esophageal web · [[eosinophilic-esophagitis\|EoE]] · caustic injury · anastomotic stricture · radiation injury · pill-induced stricture · post-endoscopic-therapy stricture · congenital anomalies (tracheoesophageal fistula) · cricopharyngeal bar · [[esophageal-adenocarcinoma\|esophageal adenocarcinoma]] · [[esophageal-cancer\|squamous cell carcinoma]] · pseudoachalasia · [[achalasia]] | **Extrinsic compression** · [[distal-esophageal-spasm\|diffuse esophageal spasm]] · **hypomotility secondary to connective-tissue disease** |
+
+- ⚠ **A big empiric bougie is not the answer to a normal endoscopy.** Several studies of **large-bore (50F) dilation** in dysphagia with normal endoscopic findings **failed to improve dysphagia scores**, and the perforation risk may outweigh the benefit — especially with undiagnosed [[eosinophilic-esophagitis|EoE]] ([[asge-2014-dysphagia]]).
+- **Dysphagia begins at a luminal diameter of ≤13 mm**; a modified diet is usually tolerated at **15 mm** and a regular diet at **18 mm** ([[asge-2014-dysphagia]]).
 
 ---
 
@@ -141,7 +150,7 @@ Prompt expedited [[upper-endoscopy|EGD]] (and raise concern for malignancy):
 
 ## See Also
 
-[[eosinophilic-esophagitis]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[achalasia]], [[gerd]], [[esophageal-cancer]], [[barretts-esophagus]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[upper-endoscopy]], [[laryngopharyngeal-symptoms]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]], [[ingested-foreign-body]]
+[[eosinophilic-esophagitis]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[achalasia]], [[gerd]], [[esophageal-cancer]], [[barretts-esophagus]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[upper-endoscopy]], [[laryngopharyngeal-symptoms]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]], [[ingested-foreign-body]], [[esophageal-dilation]], [[esophageal-stricture]], [[esophageal-adenocarcinoma]]
 
 ---
 
@@ -153,3 +162,4 @@ Prompt expedited [[upper-endoscopy|EGD]] (and raise concern for malignancy):
 4. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
 5. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
 6. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+7. [[asge-2014-dysphagia|ASGE 2014: The Role of Endoscopy in the Evaluation and Management of Dysphagia]]

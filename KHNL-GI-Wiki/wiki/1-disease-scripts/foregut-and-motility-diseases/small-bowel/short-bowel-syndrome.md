@@ -3,8 +3,8 @@ title: "Short Bowel Syndrome"
 category: disease-script
 tags: [short-bowel-syndrome, intestinal-failure, malabsorption, parenteral-nutrition, teduglutide, glp-2, oral-rehydration, micronutrients, metabolic-bone-disease, intestinal-transplantation, end-jejunostomy]
 created: 2026-09-04
-updated: 2026-09-04
-sources: [aga-2022-short-bowel-syndrome]
+updated: 2026-10-25
+sources: [aga-2022-short-bowel-syndrome, gattex-2025-teduglutide-label]
 ---
 
 Clinicopathological syndrome resulting from **loss of intestinal length** due to disease or surgical resection. Consequences are partly generic (diarrhea, dehydration, electrolyte abnormalities, weight loss from lost digestive/absorptive surface area) and partly **region-specific** — e.g. vitamin B12 deficiency or [[bile-acid-diarrhea|bile acid–induced diarrhea]] after terminal ileal resection. Those region-specific findings are the clinical clues that refine management. ([[aga-2022-short-bowel-syndrome]])
@@ -252,10 +252,12 @@ The AGA CPU gives no formal differential for SBS itself; what it distinguishes i
 - **Recombinant human growth hormone (Zorbtive) has largely been discontinued** — unacceptable side effects, questionable long-term efficacy.
 - **Effect:** improves intestinal absorptive function and allows PN weaning in SBS-IF; some patients achieve enteral autonomy.
 - **Malignancy rules (decision-critical):**
-  - **Contraindicated with active gastrointestinal malignancy** — teduglutide is a growth factor that can enhance growth of colonic and other GI polyps and accelerate cancer growth.
-  - **Screen by [[colonoscopy]] before initiating and periodically while on therapy.**
+  - **Contraindicated with active gastrointestinal malignancy** — teduglutide is a growth factor that can enhance growth of colonic and other GI polyps and accelerate cancer growth. ([[aga-2022-short-bowel-syndrome]]; the label itself lists **no formal contraindication**, but requires **discontinuation** if a GI cancer is diagnosed on therapy.)
+  - **Screen by [[colonoscopy]] before initiating and periodically while on therapy.** The label sets the actual intervals — colonoscopy **and** [[upper-endoscopy]] with polypectomy **within 6 mo before starting**, repeat **at 1 year**, then **≥ every 5 y** if no polyp. Full schedule and the pediatric variant: [[glp-2-agonists]]. ([[gattex-2025-teduglutide-label]])
   - Package insert: continuation in **non-GI malignancy** should be a benefit–risk decision.
   - **Authors' opinion:** do **not** use with **active or recent (arbitrarily, 5 years) malignancy, irrespective of location** — the confirmatory Phase 3 STEPS trial FDA report included **1 liver cancer and 2 lung cancers** among teduglutide-treated subjects.
+- **The two adverse events that interrupt therapy** ([[gattex-2025-teduglutide-label]]): **intestinal or stomal obstruction** (4% at the recommended dose, 9% at twice it, 0% on placebo) → hold and restart once resolved; **fluid overload / congestive heart failure** → adjust parenteral support and reassess. **Stoma complications occurred in 42% vs 14% on placebo.**
+- **What to expect:** at 24 wk, **63% vs 30%** achieved ≥20% reduction in weekly parenteral support and **54% vs 23%** dropped ≥1 infusion day per week; by 30 mo the mean reduction was **7.55 L/wk (66%)** and **10 of 30 completers came off parenteral support entirely**. ([[gattex-2025-teduglutide-label]])
 - **Positioning:** significant side effects and cost mean teduglutide is used **only after optimizing diet and conventional SBS treatment**, in **carefully selected SBS-IF patients**. It is **not "one more antidiarrheal."**
 - **Prescriber:** intestinal peptide hormones should only be prescribed by those experienced in SBS diagnosis and management, with the ability and facilities to objectively evaluate benefit vs detriment.
 - **Informed consent must cover:** probability of weaning from PN; probability of quality-of-life improvement; expected duration of treatment; expected course after cessation; potential adverse effects and risks; cost; and the need for careful, regular monitoring.
@@ -324,7 +326,7 @@ Surgery may be of value in **3 contexts**: (1) **recruit unused distal bowel**; 
 
 [[aga-2022-short-bowel-syndrome]] does not give:
 
-- **No teduglutide dose** (mg or mg/kg), treatment duration, or monitoring schedule — only "daily subcutaneous injection."
+- **No teduglutide dose** (mg or mg/kg), treatment duration, or monitoring schedule — only "daily subcutaneous injection." The dose, the renal adjustment and the surveillance schedule come from the product label and live on [[glp-2-agonists]]. **Treatment duration and a stopping rule for responders are still given nowhere** — trial patients stayed on the drug even after weaning off parenteral support entirely.
 - **No validated severity score or staging system** for SBS.
 - **No diagnostic testing thresholds for malabsorption** (no fecal fat, citrulline, or absorption-study cutoffs) — diagnosis is anatomic/clinical/biochemical.
 - **SIBO in SBS is not operationalized** — no diagnostic criteria or antibiotic regimens given.
@@ -337,10 +339,11 @@ Surgery may be of value in **3 contexts**: (1) **recruit unused distal bowel**; 
 
 ## See Also
 
-[[glp-2-agonists]], [[ostomy-management]], [[enteral-access]], [[nutrition-in-ibd]], [[nutrition-in-hospitalized-patients]], [[small-intestinal-bacterial-overgrowth]], [[bile-acid-diarrhea]], [[chronic-diarrhea]], [[loperamide]], [[proton-pump-inhibitors]], [[somatostatin-analogs]], [[exocrine-pancreatic-insufficiency]], [[crohns-disease]], [[acute-mesenteric-ischemia]], [[cirrhosis]], [[liver-transplantation]], [[post-transplant-lymphoproliferative-disorder]], [[colonoscopy]]
+[[glp-2-agonists]], [[ostomy-management]], [[enteral-access]], [[nutrition-in-ibd]], [[nutrition-in-hospitalized-patients]], [[small-intestinal-bacterial-overgrowth]], [[bile-acid-diarrhea]], [[chronic-diarrhea]], [[loperamide]], [[proton-pump-inhibitors]], [[somatostatin-analogs]], [[exocrine-pancreatic-insufficiency]], [[crohns-disease]], [[acute-mesenteric-ischemia]], [[cirrhosis]], [[liver-transplantation]], [[post-transplant-lymphoproliferative-disorder]], [[colonoscopy]], [[upper-endoscopy]]
 
 ---
 
 ## Sources
 
 1. [[aga-2022-short-bowel-syndrome|AGA Clinical Practice Update on Management of Short Bowel Syndrome: Expert Review (2022)]]
+2. [[gattex-2025-teduglutide-label|GATTEX (Teduglutide) for Injection — FDA Prescribing Information (Takeda, revised 9/2025)]]

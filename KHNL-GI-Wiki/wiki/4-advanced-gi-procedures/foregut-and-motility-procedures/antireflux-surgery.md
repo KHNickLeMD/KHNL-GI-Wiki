@@ -4,7 +4,7 @@ category: advanced-procedure
 tags: [gerd, antireflux-surgery, fundoplication, nissen, msa, linx, tif, ctif, stretta, foregut, hiatal-hernia]
 created: 2026-06-01
 updated: 2026-10-25
-sources: [sages-2024-hiatal-hernia-surgery, sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hrm-antireflux, afs-2023-transoral-incisionless-fundoplication, afs-2024-ge-valve-after-antireflux-surgery]
+sources: [sages-2024-hiatal-hernia-surgery, sages-2013-hiatal-hernia, sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hrm-antireflux, afs-2023-transoral-incisionless-fundoplication, afs-2024-ge-valve-after-antireflux-surgery]
 ---
 
 *Surgical and endoscopic mechanical therapy for [[gerd|gastroesophageal reflux disease (GERD)]] — fundoplication, magnetic sphincter augmentation (MSA), and incisionless endoscopic alternatives ([[transoral-incisionless-fundoplication|transoral incisionless fundoplication (TIF)]]/combined hiatal hernia repair + TIF [cTIF]). Selection turns on **objective GERD confirmation**, **hiatal hernia size**, and **[[reflux-testing|Hill grade]]**; technique choice is largely values-based.*
@@ -15,6 +15,8 @@ sources: [sages-2024-hiatal-hernia-surgery, sages-2021-gerd-surgery, acg-2021-ge
 - [[#Mandatory Preoperative Workup]]
 - [[#Surgery vs Medical Management]]
 - [[#Technique Decisions]]
+  - [[#Hiatal Hernia Repair — the Steps that Define an Adequate Operation]]
+    - [[#Postoperative Course after Hiatal Hernia Repair]]
 - [[#Endoscopic Alternatives]]
 - [[#Outcomes and Adverse Effects]]
 - [[#Postoperative Evaluation]]
@@ -95,6 +97,37 @@ All conditional recommendations — outcomes are broadly equivalent, so these ar
 | **Pediatric dissection extent** | Minimal dissection (minimal mobilization, **no violation of the phrenoesophageal membrane**) over maximal dissection (**circumferential division of the phrenoesophageal attachments**) — pediatric patients **without large hiatal hernia**. Single RCT: **18.1% less reoperation for wrap failure** (the outcome the panel graded on), 7.9% less endoscopic dilation, 5.0% fewer respiratory readmissions, 6.9% more weight gain; **no undesirable effects identified**. **No recommendation in adults** — no comparative evidence, and the panel judged the pediatric findings not generalizable | Conditional / Moderate |
 
 - Rule of thumb: prioritizing **reflux control** → complete wrap; prioritizing **dysphagia avoidance** → partial wrap.
+
+### Hiatal Hernia Repair — the Steps that Define an Adequate Operation
+
+*Indications, natural history and the type I–IV anatomy live on [[hiatal-hernia]]. These are the operative steps.* ([[sages-2013-hiatal-hernia]], grades in the document's own symbols: ⊕ very low → ⊕⊕⊕⊕ high)
+
+| Step | Position | Grade |
+|---|---|---|
+| **Approach** | Transabdominal **or** transthoracic both effective (⊕⊕⊕⊕, strong); **laparoscopic morbidity is markedly lower than open** (⊕⊕, strong), and laparoscopy is **preferred for the majority** (⊕⊕⊕⊕, strong) | see cell |
+| **Hernia sac** | **Dissect off mediastinal structures** (⊕⊕, strong), **then preferably excise** (⊕⊕, weak). Reduce the left gastric vessels before addressing the sac on the right of the esophagus | see cell |
+| **GEJ position** | **Return the GEJ below the diaphragm** — a necessary step | ⊕⊕⊕, strong |
+| **Esophageal length** | **≥2–3 cm of intra-abdominal esophagus at completion**, to cut recurrence (⊕⊕, weak); obtain it by **mediastinal dissection and/or gastroplasty** (⊕⊕⊕⊕, strong) | see cell |
+| **Fundoplication** | **Mandatory** in a sliding (type I) repair, to address reflux; **also important** in paraesophageal hernia (PEH) repair | ⊕⊕, weak |
+| **Tailoring to manometry** | Absent [[achalasia]], **tailoring the wrap to preoperative manometric data may not be necessary** | ⊕⊕, weak |
+| **Gastropexy** | **Safe as an addition** to hiatal repair (⊕⊕⊕⊕, strong). A **gastrostomy tube may facilitate postoperative care** in selected patients (⊕⊕, strong) | see cell |
+| **Gastropexy alone, no hiatal repair** | May be safe in the **high-risk** patient but carries **high recurrence** (⊕⊕, weak) — **formal repair is preferred** (⊕⊕⊕⊕, strong). One series: **22% radiologic recurrence at 3 months** | see cell |
+| **Revisional surgery** | **Can be done laparoscopically by experienced surgeons** (⊕⊕⊕, strong) — take the old wrap down entirely, expose both crura, excise the sac, restore intra-abdominal length. **Recurrence stays higher than after primary repair** | see cell |
+
+> [!pitfall] Mesh helps early and the benefit does not last
+> Primary sutured crural repair alone recurs in **42% and higher**, which is why mesh was proposed. Two randomized trials showed large early falls in radiographic recurrence (**22% → 0%** at 3.3 y with a defect >8 cm; **26% → 8%** at 1 y), but the longest trial found **59% vs 54% at 4.8 years (p=0.7)** with **both arms over 50%**. **No mesh-related complications occurred in any of the three.** **Avoid bridging synthetic mesh** — direct esophageal contact risks erosion. SAGES 2024 makes **no recommendation either way**. ([[sages-2013-hiatal-hernia]], [[sages-2024-hiatal-hernia-surgery]])
+
+- **Short esophagus:** extensive mediastinal mobilization alone usually achieves the 2–3 cm without tension and may remove the need for a lengthening procedure. If it does not, perform a **Collis gastroplasty** — but the gastric neoesophagus **does not peristalse**, so dysphagia is a real risk, and gastroplasty raised leak rates in some series. **Vagotomy as an alternative lengthening maneuver cannot be recommended** on the single available study.
+- **Recurrence predictors:** **obesity** (independent, for both development and recurrence); **hiatal surface area >5.6 cm²**, independent of height, weight and body mass index; early postoperative **gagging, belching and vomiting**.
+- **Mesh fixation:** no optimal technique is established, but **tacks must not breach the aorta or pericardium** when placed low on the left crus or near the anterior apex of the crura.
+
+#### Postoperative Course after Hiatal Hernia Repair
+
+- **Treat postoperative nausea and vomiting aggressively** (⊕, strong) — sudden rises in intra-abdominal pressure predispose to early anatomical failure and the need for revision.
+- **Early dysphagia occurs in up to 50%** — advance the diet slowly from liquids to soft solids, and attend to caloric and nutritional intake (⊕, strong).
+- Expect **10–15 lb (4.5–7 kg)** of weight loss. **Evaluate persistent dysphagia, or loss of more than 20 lb (>9 kg).**
+- **Routine postoperative contrast studies are not necessary in asymptomatic patients** (⊕⊕⊕, strong) — radiographic follow-up finds more recurrences than symptomatic follow-up, but most are small and not clinically significant.
+- **Decompress gastric distention early** — nasogastric tube, or venting through an intraoperatively placed gastrostomy.
 
 ---
 
@@ -197,3 +230,4 @@ Plus, after **any** procedure that included hiatal hernia repair: **the hiatal a
 5. [[afs-2023-transoral-incisionless-fundoplication|American Foregut Society White Paper on Transoral Incisionless Fundoplication (2023)]]
 6. [[afs-2024-ge-valve-after-antireflux-surgery|American Foregut Society White Paper on the Endoscopic Assessment of the Gastroesophageal Valve After Anti-Reflux Surgery (2024)]]
 7. [[sages-2024-hiatal-hernia-surgery|SAGES 2024: Guidelines for the Surgical Treatment of Hiatal Hernias]]
+8. [[sages-2013-hiatal-hernia|SAGES 2013: Guidelines for the Management of Hiatal Hernia]]

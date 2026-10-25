@@ -3,8 +3,8 @@ title: "Esophageal Stricture"
 category: disease-script
 tags: [esophagus, stricture, dysphagia, peptic-stricture, eoe, fibrostenotic, dilation, narrow-caliber-esophagus]
 created: 2026-10-15
-updated: 2026-10-15
-sources: [acg-2025-eoe, acg-2025-egd-quality, aga-2024-esophageal-immunity-infection, aga-2022-personalized-gerd, aga-2021-malignant-alimentary-tract-obstruction, aga-2021-gi-perforations-endoscopic-management]
+updated: 2026-10-25
+sources: [acg-2025-eoe, asge-2014-dysphagia, acg-2025-egd-quality, aga-2024-esophageal-immunity-infection, aga-2022-personalized-gerd, aga-2021-malignant-alimentary-tract-obstruction, aga-2021-gi-perforations-endoscopic-management]
 ---
 
 A fixed structural narrowing of the esophageal lumen causing dysphagia. Often a transmural and fibrotic process — not a mucosal one — which is why it persists after the inflammation that caused it has been treated.
@@ -48,7 +48,23 @@ A fixed structural narrowing of the esophageal lumen causing dysphagia. Often a 
 
 ### Classification / Typing
 
-Two morphologies, which behave and dilate differently ([[acg-2025-eoe]]):
+**Simple vs complex is the classification that drives the dilation technique** ([[asge-2014-dysphagia]]):
+
+| Type | Criteria | Why it matters |
+|---|---|---|
+| **Simple** | Short · **symmetric or concentric** lumen · **diameter ≥12 mm**, traversable by an endoscope | Dilates straightforwardly; incremental dilations **>3 mm may be safe** |
+| **Complex** | **>2 cm long** · may be **angulated or irregular** · **diameter <12 mm**. May be associated with a large [[hiatal-hernia\|hiatal hernia]], an esophageal diverticulum, or a tracheoesophageal fistula | **Higher recurrence and higher dilation-related adverse-event rate.** Dilate **wire-guided, preferably under fluoroscopy, or with a through-the-scope balloon** (⊕⊕⊕○, recommend) |
+
+**Refractory and recurrent are defined numerically, and are not the same thing** ([[asge-2014-dysphagia]]):
+
+| Term | Definition |
+|---|---|
+| **Refractory** | **Cannot be dilated to 14 mm over 5 sessions at 2-week intervals** |
+| **Recurrent** | **Cannot maintain 14 mm for 4 weeks** once that diameter has been achieved |
+
+- ⚠ **Neither definition includes an inflammatory stricture** — it will not resolve until the inflammation subsides, so repeated dilation is not the answer — **nor dysphagia from neuromuscular dysfunction.** Escalation ladder for the strictures that do qualify: [[esophageal-dilation]].
+
+Two further morphologies, which behave and dilate differently ([[acg-2025-eoe]]):
 
 | Type | Description |
 |---|---|
@@ -66,7 +82,10 @@ Two morphologies, which behave and dilate differently ([[acg-2025-eoe]]):
 
 | Cause | Pointers |
 |---|---|
-| **Peptic stricture** | Distal; chronic [[gerd\|gastroesophageal reflux disease (GERD)]]. Needs long-term acid suppression after dilation ([[acg-2025-egd-quality]], [[aga-2022-personalized-gerd]]) |
+| **Peptic stricture** | **Up to 80% of all benign esophageal strictures**, though falling with widespread proton pump inhibitor use. A **smooth, concentric, fixed narrowing**, most often in the lower esophagus, with or without esophagitis. Needs long-term acid suppression after dilation ([[acg-2025-egd-quality]], [[aga-2022-personalized-gerd]], [[asge-2014-dysphagia]]) |
+| **Schatzki ring** | A **diaphragm-like web at the squamocolumnar junction**, usually marking the **proximal margin of a [[hiatal-hernia\|hiatal hernia]]**. ⚠ **Best detected on barium swallow — it may disappear with air insufflation at endoscopy.** Associated with [[eosinophilic-esophagitis\|EoE]] in several studies, so **biopsy the esophagus if EoE is clinically suspected**. If it cannot be distinguished from a peptic stricture, use **graded stepwise dilation** ([[asge-2014-dysphagia]]) |
+| **Post-esophagectomy anastomotic stricture** | **9%–48%** after esophagectomy for cancer; diagnosed when a standard flexible esophagoscope **cannot be passed across the anastomosis**. Risk factors: **anastomotic leak · ischemia · a stapled rather than hand-sewn anastomosis · gastric pull-up rather than colonic interposition · cardiovascular disease · diabetes mellitus**. Endoscopy also evaluates **local recurrence of malignancy** ([[asge-2014-dysphagia]]) |
+| **Post-radiation stricture** | **2%–16%** after radiotherapy for head and neck or lung cancer; **the majority are complex** and proximal ([[asge-2014-dysphagia]]) |
 | **[[eosinophilic-esophagitis\|EoE]]** | Focal stricture and/or narrow-caliber esophagus; rings, furrows, exudates; food impaction ([[acg-2025-eoe]]) |
 | **[[lymphocytic-esophagitis\|Lymphocytic esophagitis]]** | Endoscopy abnormal in ~70–75%; rings, esophagitis and stricture are the commonest findings ([[aga-2024-esophageal-immunity-infection]]) |
 | **Esophageal lichen planus** | Narrowed caliber of the majority of the esophagus with **multiple** strictures; pale edematous mucosa that peels on scope contact; thick white exudates ([[aga-2024-esophageal-immunity-infection]]) |
@@ -76,7 +95,7 @@ Two morphologies, which behave and dilate differently ([[acg-2025-eoe]]):
 | **[[barretts-esophagus\|Barrett's]]-associated, [[infectious-esophagitis\|infectious]], and pill-induced strictures** | Considered by history and biopsy |
 
 - **A fixed narrowing must be distinguished from a motility disorder** — [[achalasia]] and other spastic disorders cause dysphagia without a structural stricture, and will not respond to standard dilation. EoE itself carries an increased risk of achalasia ([[aga-2024-esophageal-immunity-infection]]).
-- No ingested source covers **Schatzki ring** or **anastomotic strictures**; both are left out here rather than stated without support.
+- **Extrinsic compression**, [[distal-esophageal-spasm|diffuse esophageal spasm]] and **hypomotility secondary to connective-tissue disease** produce dysphagia that is **not amenable to dilation** ([[asge-2014-dysphagia]]).
 
 ---
 
@@ -115,6 +134,12 @@ Two morphologies, which behave and dilate differently ([[acg-2025-eoe]]):
 - Endoscopic dilation is the definitive treatment for the narrowing itself. **Indications, bougie-vs-balloon choice, the "start low and go slow" sizing rules, the dilation-effect endpoint, the ≥16 mm target, and adverse-event rates all live on [[esophageal-dilation]]** — including the finding that perforation risk is **higher for caustic or radiation-induced strictures** than for simple rings or peptic strictures ([[aga-2021-gi-perforations-endoscopic-management]]).
 - In EoE: *"We suggest the use of endoscopic dilation as an adjunct to medical therapy as a treatment for esophageal strictures causing dysphagia in patients with EoE"* (Recommendation 15; quality of evidence **low**, strength **conditional**; [[acg-2025-eoe]]).
 - Perforation recognized at or after dilation → [[endoscopic-management-of-perforation]].
+- **Match the technique to the type** ([[asge-2014-dysphagia]]): a **complex** stricture is dilated **wire-guided under fluoroscopy, or with a through-the-scope balloon** (⊕⊕⊕○, recommend); a **Schatzki ring** needs only a **single large 16–20 mm dilator**, which ruptures it with relief in almost all patients.
+- **Specific types, specific expectations** ([[asge-2014-dysphagia]]):
+  - **Peptic** — Maloney, push-type and balloon dilators perform similarly. Despite acid suppression, **up to 40% have recurrent dysphagia needing repeat dilation**; the usual culprits are a complex stricture, untreated reflux, or **undiagnosed EoE**.
+  - **Anastomotic** — success **up to 93%**, but high recurrence and a **median of 2–9 sessions** per patient. **Electrocautery needle-knife** for dilation-resistant ones: **<1 cm responds to a single treatment, longer strictures need multiple sessions.**
+  - **Post-radiation** — adequate relief of dysphagia in **84%**, usually over several bougie sessions. For complete proximal occlusion, a **combined antegrade–retrograde rendezvous approach** through an existing gastrostomy tract, leaving a small-caliber nasogastric tube to maintain patency.
+  - **EoE** — **do not exceed a maximal diameter of 18 mm** in the 2014 guidance; the current ACG target is ≥16 mm with "dilation effect" as the endpoint ([[acg-2025-eoe]], which governs — see [[esophageal-dilation]]).
 
 ### Treat the Underlying Disease
 
@@ -140,7 +165,7 @@ Two morphologies, which behave and dilate differently ([[acg-2025-eoe]]):
 
 ## See Also
 
-[[esophageal-dilation]], [[dysphagia]], [[eosinophilic-esophagitis]], [[eoe-therapies]], [[gerd]], [[proton-pump-inhibitors]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[barretts-esophagus]], [[infectious-esophagitis]], [[achalasia]], [[upper-endoscopy]], [[flip-panometry]], [[reflux-testing]], [[ingested-foreign-body]], [[endoscopic-management-of-perforation]], [[endoscopic-ultrasound]], [[crohns-disease]]
+[[esophageal-dilation]], [[dysphagia]], [[eosinophilic-esophagitis]], [[eoe-therapies]], [[gerd]], [[proton-pump-inhibitors]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[barretts-esophagus]], [[infectious-esophagitis]], [[achalasia]], [[upper-endoscopy]], [[flip-panometry]], [[reflux-testing]], [[ingested-foreign-body]], [[endoscopic-management-of-perforation]], [[endoscopic-ultrasound]], [[crohns-disease]], [[hiatal-hernia]], [[distal-esophageal-spasm]]
 
 ---
 
@@ -151,4 +176,5 @@ Two morphologies, which behave and dilate differently ([[acg-2025-eoe]]):
 3. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
 4. [[aga-2022-personalized-gerd|AGA Clinical Practice Update on the Personalized Approach to the Evaluation and Management of GERD: Expert Review (2022)]]
 5. [[aga-2021-malignant-alimentary-tract-obstruction|AGA 2021 Clinical Practice Update: Optimal Management of the Malignant Alimentary Tract Obstruction]]
+6. [[asge-2014-dysphagia|ASGE 2014: The Role of Endoscopy in the Evaluation and Management of Dysphagia]]
 6. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review]]

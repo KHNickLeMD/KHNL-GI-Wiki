@@ -3,8 +3,8 @@ title: "Barrett's Esophagus"
 category: disease-script
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance, foregut]
 created: 2026-05-15
-updated: 2026-10-22
-sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, aga-2020-endoscopic-treatment-barretts-dysplasia, aga-2020-post-endoscopy-esophageal-adenocarcinoma, aga-2016-low-grade-dysplasia-barretts, aga-2022-barretts-new-technology]
+updated: 2026-10-25
+sources: [acg-2022-barretts, aga-2018-barretts-screening-techniques, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, aga-2020-endoscopic-treatment-barretts-dysplasia, aga-2020-post-endoscopy-esophageal-adenocarcinoma, aga-2016-low-grade-dysplasia-barretts, aga-2022-barretts-new-technology]
 ---
 
 Barrett's esophagus (BE): distal esophageal squamous epithelium replaced by columnar epithelium with goblet cells (intestinal metaplasia [IM]) — the only known precursor of [[esophageal-adenocarcinoma|esophageal adenocarcinoma]] (EAC). Arises from chronic [[gerd|gastroesophageal reflux disease (GERD)]]; present in 5–12% with chronic GERD symptoms.
@@ -22,6 +22,7 @@ Barrett's esophagus (BE): distal esophageal squamous epithelium replaced by colu
   - [[#Adjunct Staging Tests]]
 - [[#Therapeutics]]
   - [[#Screening (Who Should Be Screened)]]
+    - [[#Nonendoscopic and Alternative-Endoscopic Screening Tools]]
   - [[#Medical Therapy / Chemoprevention]]
   - [[#Surveillance Intervals]]
   - [[#Endoscopic Eradication Therapy (EET)]]
@@ -177,7 +178,22 @@ Dysplasia grade drives risk and management. **Quote the right endpoint** — EAC
 - **Erosive esophagitis [[reflux-testing|Los Angeles (LA)]] grade B or worse** at index → repeat esophagogastroduodenoscopy (EGD) after 8–12 wk PPI to unmask BE
 
 > [!pitfall] Screening only GERD patients misses most cancers
-> Most EAC patients never had frequent GERD symptoms or a BE diagnosis — a GERD-negative patient with ≥3 other risk factors can still be offered screening ([[aga-2022-barretts-new-technology]], [[asge-2019-barretts-screening-surveillance]]).
+> Most EAC patients never had frequent GERD symptoms or a BE diagnosis — a GERD-negative patient with ≥3 other risk factors can still be offered screening ([[aga-2022-barretts-new-technology]], [[asge-2019-barretts-screening-surveillance]]). The size of the miss, quantified: **fewer than 10% of EAC patients carry a prior BE diagnosis**, **~40% describe no antecedent GERD at all**, **~50% of short-segment BE patients have no GERD symptoms**, and only about **10% of patients with recurrent GERD symptoms are scoped in a given year**. Capturing the GERD-negative 40% of cancers "would involve screening approximately 80% of the adult US population" ([[aga-2018-barretts-screening-techniques]]).
+
+#### Nonendoscopic and Alternative-Endoscopic Screening Tools
+
+**ACG 2022 governs the recommendation** — a nonendoscopic capsule sponge device plus a biomarker is an **acceptable alternative** screening modality (conditional, very low quality). The performance, mechanics and economics behind that come from [[aga-2018-barretts-screening-techniques]], whose own 2018 position was that **no alternative test was yet recommended** — a stance its own sub-recommendation anticipated would be overtaken.
+
+| Tool | How it works | Performance | Limits |
+|---|---|---|---|
+| **Capsule sponge (Cytosponge) + trefoil factor-3 (TFF3)** | Swallowed **gelatin capsule dissolves in ~5 min**, releasing a **3-cm mesh sponge on a string**; withdrawn by traction, scraping esophageal cells. TFF3 marks intestinalization | **BEST2** (1110 subjects): intention-to-treat sensitivity **79.9%**; **87.2%** with **≥3 cm circumferential BE**; **89.7%** on a **repeat** procedure. **99%** of >500 primary-care patients swallowed it safely; **82%** reported low pre-test anxiety | ⚠ **The widely quoted 91.5% came from an enriched 73-patient population with inadequate samples excluded** — the source says so explicitly. Rated only `+` for **surveillance** accuracy |
+| **Transnasal endoscopy (TNE)** | Thin sheathed endoscope via the nose; **no sedation, ambulatory, no sterilization between uses** | Recovery **18.5 vs 67.3 min** (*P*<.001); complete esophageal evaluation **96% vs 100%**; **~80%** would repeat it. In primary care, **422/426 (99%)** completed it and **38%** had a management-changing finding (34% erosive esophagitis, 4% BE) | **Biopsy success 83% vs 100%** (*P*=.001) — a **technical** shortfall from using a 4.7 mm sheath with no biopsy channel when the 5.8 mm biopsy-capable one would not pass. ⚠ **Not adequate for dysplasia surveillance** — optical quality below high-definition scopes, no virtual chromoendoscopy |
+| **Video [[capsule-endoscopy\|capsule endoscopy]]** | Swallowed imaging capsule | Pooled sensitivity **77%**, specificity **86%** (9 studies, 618 patients) | **No biopsy capability**; **esophageal capsule retention 0.7%–2.2%**, usually from an unsuspected stricture; the sedation-free cost saving is **negated by device cost** |
+| **Tethered capsule endomicroscopy · liquid biopsy (circulating microRNA) · serum adipokines · electronic nose breath testing** | — | Promising but **unvalidated**; a 4-microRNA panel gave 78%/86% in 41 BE vs 15 controls | None has a surveillance role; liquid biopsy and breath testing are scored as **unestablished** for both screening and surveillance accuracy |
+
+- **Cost:** capsule sponge screening versus no screening, **$26,358–$33,307 per quality-adjusted life-year** — below the **<$50,000** threshold cited. **Endoscopy versus capsule sponge costs $107,583–$330,361** per quality-adjusted life-year, above it. Unsedated TNE costs **3–4× less** than sedated endoscopy in the community ([[aga-2018-barretts-screening-techniques]]).
+- ⚠ **A cheap test does not automatically save money.** Applied to an expanded population, the positives it generates all funnel back into [[upper-endoscopy|endoscopy]], so the societal saving "could be reduced, eliminated, or even reversed." The tools are for **enriching** an already-defined high-risk population, not for widening it.
+- **Named harms of overdiagnosis:** psychological stress, higher health and life insurance premiums, and identification of innocuous lesions leading to potentially hazardous invasive treatment.
 
 ### Medical Therapy / Chemoprevention
 
@@ -288,3 +304,4 @@ Early post-endoscopy neoplasia is mostly **missed prevalent disease** ([[aga-202
 7. [[aga-2020-post-endoscopy-esophageal-adenocarcinoma|AGA Clinical Practice Update on Reducing Rates of Post-Endoscopy Esophageal Adenocarcinoma: Commentary (2020)]]
 8. [[aga-2016-low-grade-dysplasia-barretts|AGA 2016 Clinical Practice Update: Diagnosis and Management of Low-Grade Dysplasia in Barrett's Esophagus (Expert Review)]]
 9. [[aga-2022-barretts-new-technology|AGA Clinical Practice Update on New Technology and Innovation for Surveillance and Screening in Barrett's Esophagus: Expert Review (2022)]]
+10. [[aga-2018-barretts-screening-techniques|AGA Clinical Practice Update: New Screening Techniques in Barrett's Esophagus — Great Ideas or Great Practice? (2018)]]

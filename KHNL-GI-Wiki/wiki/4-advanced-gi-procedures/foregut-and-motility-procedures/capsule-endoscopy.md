@@ -3,8 +3,8 @@ title: "Capsule Endoscopy (Video Capsule Endoscopy)"
 category: advanced-procedure
 tags: [capsule-endoscopy, vce, small-bowel, gi-bleeding, crohns-disease, iron-deficiency-anemia, patency-capsule]
 created: 2026-05-19
-updated: 2026-09-08
-sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, acg-2025-crohns, aga-2022-hamartomatous-polyposis, asge-2020-fap]
+updated: 2026-10-25
+sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, acg-2025-crohns, aga-2022-hamartomatous-polyposis, asge-2020-fap, aga-2018-barretts-screening-techniques]
 ---
 
 ## Contents
@@ -13,6 +13,7 @@ sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, acg-202
   - [[#Small-Bowel Bleeding]]
   - [[#Crohn's Disease]]
   - [[#Polyposis Surveillance]]
+  - [[#Esophageal Capsule — not a recommended screening test]]
 - [[#Diagnostic Performance]]
 - [[#What Raises the Yield]]
 - [[#Limitations]]
@@ -55,6 +56,12 @@ sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, acg-202
 |---|---|
 | [[peutz-jeghers-syndrome\|Peutz-Jeghers]] | *"Baseline small bowel surveillance using **video capsule endoscopy or MRE [magnetic resonance enterography]** performed between ages **8–10 years** or earlier if symptomatic. If no polyps at the initial examination, surveillance resumes at **age 18**. Because of the risk of small bowel intussusception, small bowel surveillance in adulthood continues **throughout life every 2–3 years**."* **Strong recommendation, low quality of evidence** ([[aga-2022-hamartomatous-polyposis]]) |
 | [[familial-adenomatous-polyposis\|Familial adenomatous polyposis (FAP)]] | Capsule endoscopy (CE) or MRE for **index small-bowel screening**; jejunal/ileal polyps **>1 cm** found on CE or MRE → balloon enteroscopy for [[polypectomy]]. CE is the **preferred imaging modality** (false-negative rates up to **42%** for polyps >10 mm with contrast studies) and is **more sensitive than MRE for smaller polyps**; the two perform **equally for polyps >15 mm**, but MRE is more reliable for polyp location/size and images outside the GI tract. ([[asge-2020-fap]]) |
+
+### Esophageal Capsule — not a recommended screening test
+
+- **[[barretts-esophagus|Barrett's esophagus]] screening:** pooled **sensitivity 77%, specificity 86%** across 9 studies and 618 patients; specificity varies with the reference standard (**90%** against endoscopic confirmation, **73%** against histologic). Dedicated screening studies gave sensitivity **78%** and **60%**. ([[aga-2018-barretts-screening-techniques]])
+- ⚠ **Three disadvantages kill it as a screening tool:** **no biopsy capability**, limited control of the device even when tethered, and **esophageal capsule retention in 0.7%–2.2%** of patients — usually from an **unsuspected [[esophageal-stricture|esophageal stricture]]**. Its sedation-free cost advantage is **negated by the cost of the capsule and its equipment**.
+- **Not recommended for Barrett's screening** ([[aga-2018-barretts-screening-techniques]]); the accepted nonendoscopic alternative is the capsule **sponge** plus a biomarker — a different device entirely, detailed on [[barretts-esophagus]].
 
 ## Diagnostic Performance
 
@@ -121,7 +128,7 @@ Predictors of a positive capsule study ([[acg-2015-small-bowel-bleeding]]):
 
 ## See Also
 
-[[small-bowel-bleeding]], [[crohns-disease]], [[iron-deficiency-anemia]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[device-assisted-enteroscopy]], [[polypectomy]], [[upper-endoscopy]], [[colonoscopy]], [[angioectasia]], [[small-bowel-motility]]
+[[small-bowel-bleeding]], [[crohns-disease]], [[iron-deficiency-anemia]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[device-assisted-enteroscopy]], [[polypectomy]], [[upper-endoscopy]], [[colonoscopy]], [[angioectasia]], [[small-bowel-motility]], [[barretts-esophagus]], [[esophageal-stricture]]
 
 ---
 
@@ -132,3 +139,4 @@ Predictors of a positive capsule study ([[acg-2015-small-bowel-bleeding]]):
 3. [[acg-2025-crohns|ACG 2025: Management of Crohn's Disease in Adults]]
 4. [[aga-2022-hamartomatous-polyposis|US Multi-Society Task Force Guideline: GI Hamartomatous Polyposis Syndromes (2022)]]
 5. [[asge-2020-fap|ASGE Guideline: The Role of Endoscopy in Familial Adenomatous Polyposis Syndromes (2020)]]
+6. [[aga-2018-barretts-screening-techniques|AGA Clinical Practice Update: New Screening Techniques in Barrett's Esophagus — Great Ideas or Great Practice? (2018)]]

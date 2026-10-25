@@ -3,8 +3,8 @@ title: "Bariatric Surgery"
 category: advanced-procedure
 tags: [obesity, bariatric, weight-management, sleeve-gastrectomy, gastric-bypass, masld, gerd, iron-deficiency-anemia, cirrhosis, csph, portal-hypertension]
 created: 2026-06-04
-updated: 2026-10-22
-sources: [aga-2021-intragastric-balloons, aasld-2023-nafld, asge-2024-gerd, acg-2021-gerd, aga-2024-ida-management, aga-2022-obesity-pharm, aga-2020-bariatric-surgery-cirrhosis, aga-2018-surgical-risk-perioperative-cirrhosis, aga-2021-early-complications-bariatric-surgery, aga-2017-endoscopic-bariatric-therapies, baveno-viii-2026-portal-hypertension]
+updated: 2026-10-25
+sources: [sages-2013-hiatal-hernia, aga-2021-intragastric-balloons, aasld-2023-nafld, asge-2024-gerd, acg-2021-gerd, aga-2024-ida-management, aga-2022-obesity-pharm, aga-2020-bariatric-surgery-cirrhosis, aga-2018-surgical-risk-perioperative-cirrhosis, aga-2021-early-complications-bariatric-surgery, aga-2017-endoscopic-bariatric-therapies, baveno-viii-2026-portal-hypertension]
 ---
 
 Surgical weight-loss procedures — laparoscopic **sleeve gastrectomy (SG)**, **Roux-en-Y gastric bypass (RYGB)**, adjustable gastric banding, duodenal switch — for [[obesity]]. Only ~**1.1% of eligible patients** receive primary bariatric surgery, and **<5%** of patients seeking weight loss are aware of endoscopic alternatives ([[aga-2021-intragastric-balloons]]).
@@ -235,6 +235,7 @@ Sleeve gastrectomy is **refluxogenic**, and the resulting [[barretts-esophagus|B
 
 - **[[acg-2021-gerd|American College of Gastroenterology (ACG) 2021]]:** Roux-en-Y gastric bypass is recommended for obese patients with GERD (*conditional, low quality*) — i.e. in obesity, RYGB is the antireflux operation, distinct from the fundoplication pathway on [[antireflux-surgery]].
 - Contrast with SG above, which **causes** rather than treats reflux.
+- **Repair every [[hiatal-hernia|hiatal hernia]] found during a bariatric operation** — gastric bypass, sleeve gastrectomy or adjustable band placement alike (⊕⊕⊕, weak — [[sages-2013-hiatal-hernia]]). Detection is by **"dimpling" anterior to the esophagus** or a large hernia sac. In an adjustable-band series, repairing every sliding hernia found (posterior crural approximation; an anterior approximating stitch where only dimpling was seen) **significantly reduced reoperation for band prolapse and pouch dilatation**. Evidence for combining repair with gastric bypass or sleeve gastrectomy is small case series only.
 
 ---
 
@@ -251,7 +252,7 @@ Per [[aga-2024-ida-management|AGA 2024]] (Best Practice Advice 7, *unrated*):
 
 ## See Also
 
-[[obesity]], [[intragastric-balloon]], [[endoscopic-bariatric-therapies]], [[bariatric-surgery-leak]], [[semaglutide]], [[glp-1-receptor-agonists]], [[nafld-masld]], [[cirrhosis]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[portal-vein-thrombosis]], [[acute-on-chronic-liver-failure]], [[hepatocellular-carcinoma]], [[gerd]], [[barretts-esophagus]], [[antireflux-surgery]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[endoscopic-hemostasis]], [[gastric-outlet-obstruction]], [[proton-pump-inhibitors]], [[iron-deficiency-anemia]], [[liver-transplantation]]
+[[obesity]], [[intragastric-balloon]], [[endoscopic-bariatric-therapies]], [[bariatric-surgery-leak]], [[semaglutide]], [[glp-1-receptor-agonists]], [[nafld-masld]], [[cirrhosis]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[portal-vein-thrombosis]], [[acute-on-chronic-liver-failure]], [[hepatocellular-carcinoma]], [[gerd]], [[barretts-esophagus]], [[hiatal-hernia]], [[antireflux-surgery]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[endoscopic-hemostasis]], [[gastric-outlet-obstruction]], [[proton-pump-inhibitors]], [[iron-deficiency-anemia]], [[liver-transplantation]]
 
 ---
 
@@ -268,3 +269,4 @@ Per [[aga-2024-ida-management|AGA 2024]] (Best Practice Advice 7, *unrated*):
 9. [[aga-2021-early-complications-bariatric-surgery|AGA Clinical Practice Update on Evaluation and Management of Early Complications After Bariatric/Metabolic Surgery: Expert Review (2021)]]
 10. [[aga-2017-endoscopic-bariatric-therapies|AGA Clinical Practice Update: Expert Review on Endoscopic Bariatric Therapies (2017)]]
 11. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+12. [[sages-2013-hiatal-hernia|SAGES 2013: Guidelines for the Management of Hiatal Hernia]]

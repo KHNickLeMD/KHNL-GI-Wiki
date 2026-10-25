@@ -4,7 +4,7 @@ category: disease-script
 tags: [hiatal-hernia, gerd, foregut, ge-junction, hill-grade, antireflux-surgery, tif, ctif, cameron-lesions]
 created: 2026-08-29
 updated: 2026-10-25
-sources: [sages-2024-hiatal-hernia-surgery, asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, acg-2020-esophageal-physiologic-testing, sages-2021-gerd-surgery]
+sources: [sages-2024-hiatal-hernia-surgery, sages-2013-hiatal-hernia, asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, acg-2020-esophageal-physiologic-testing, sages-2021-gerd-surgery]
 ---
 
 *Herniation of the stomach through the diaphragmatic hiatus. In the gastroesophageal reflux disease (GERD) guidelines it appears almost entirely as **the anatomic variable that selects an antireflux procedure** — hernia size plus [[reflux-testing|Hill grade]] is the operative decision point in [[gerd|GERD]], and a paraesophageal hernia is a hard exclusion for endoscopic repair.*
@@ -20,6 +20,7 @@ sources: [sages-2024-hiatal-hernia-surgery, asge-2024-gerd, acg-2021-gerd, afs-2
 - [[#Therapeutics]]
   - [[#The hernia selects the procedure]]
   - [[#When repair is indicated]]
+    - [[#Gastric volvulus — the emergency]]
     - [[#Paraesophageal (type II–IV) hernia — the surgical questions]]
   - [[#What the guidelines deliberately do not say]]
 - [[#See Also]]
@@ -42,7 +43,12 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation �
 | **III** | **above** the hiatus | **both** the stomach and the GEJ |
 | **IV** | — | the stomach **plus any additional organ** |
 
-- Mechanism of the associated reflux: **loss of the "pinch" effect of the crural diaphragm**. The association runs through to [[barretts-esophagus|Barrett's esophagus]] and [[esophageal-adenocarcinoma|esophageal adenocarcinoma]] ([[sages-2024-hiatal-hernia-surgery]]).
+- **Distribution:** **>95% are type I**. Among the paraesophageal hernias (PEH, types II–IV), **>90% are type III** and **type II is the least common** ([[sages-2013-hiatal-hernia]]).
+- **"Giant PEH" has no consistent definition** — some authors mean all type III and IV, but most restrict it to a PEH with **more than a third to a half of the stomach in the chest** ([[sages-2013-hiatal-hernia]]).
+- Mechanism of the associated reflux: **loss of the "pinch" effect of the crural diaphragm**. The association runs through to [[barretts-esophagus|Barrett's esophagus]] and [[esophageal-adenocarcinoma|esophageal adenocarcinoma]] ([[sages-2024-hiatal-hernia-surgery]]). The anatomic lesion itself comes from **depletion of elastin fibers** stretching the phrenoesophageal ligament ([[sages-2013-hiatal-hernia]]).
+
+> [!pitfall] A paraesophageal hernia does not present like reflux
+> **Heartburn and regurgitation are uncommon with PEH.** What the patient describes is **postprandial chest fullness or shortness of breath** (pulmonary compression, reduced forced vital capacity), or **upper abdominal pain relieved by vomiting**. **[[iron-deficiency-anemia|Iron deficiency anemia]] occurs in up to 50%** from gastric mucosal ischemia and ulceration. ([[sages-2013-hiatal-hernia]])
 
 - **[[upper-endoscopy|Endoscopy]] is the routine detection and documentation tool.** Measure and record at every GERD endoscopy ([[asge-2024-gerd]], Strong / Very Low):
   - **Axial length in cm** — gastroesophageal junction (GEJ) to the diaphragmatic impression
@@ -86,6 +92,12 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation �
 | **Barium esophagram** | Presence, size, and type of hernia; **alerts to a short esophagus** | [[afs-2023-transoral-incisionless-fundoplication]] |
 | **[[high-resolution-manometry\|HRM]]** | Most sensitive detection (94.3% / 91.5%); mandatory before any antireflux procedure to exclude [[achalasia]] and absent contractility (criteria: [[chicago-classification-v4\|Chicago Classification v4.0]]) | [[acg-2020-esophageal-physiologic-testing]], [[acg-2021-gerd]] |
 | **[[ambulatory-reflux-monitoring\|pH monitoring off proton pump inhibitor (PPI)]]** | Objective GERD confirmation — required before procedural therapy unless Los Angeles (LA) C/D esophagitis or long-segment Barrett's is present | [[afs-2023-transoral-incisionless-fundoplication]] |
+| **Chest radiograph** | **A retrocardiac air–fluid level is pathognomonic for a PEH** | [[sages-2013-hiatal-hernia]] |
+| **Computed tomography (CT)** | Urgent setting only — suspected complications of a volvulized PEH, and which organs are herniated | [[sages-2013-hiatal-hernia]] |
+
+- **Order only investigations that will alter management** (⊕⊕⊕, strong — [[sages-2013-hiatal-hernia]]).
+- ⚠ **Avoid ionic water-soluble contrast** in a PEH presenting with acute gastric outlet obstruction — aspiration pneumonitis risk. Barium is the usual agent ([[sages-2013-hiatal-hernia]]).
+- ⚠ **Manometry is harder in PEH** — the catheter can be difficult to place across the lower esophageal sphincter and below the diaphragm, and a contrast swallow showing normal motility may substitute. A motility study is still **critical before antireflux surgery for a sliding hernia**, so the pH probe can be positioned ([[sages-2013-hiatal-hernia]]).
 
 > **Cameron lesions.** Erosions at the diaphragmatic hiatus in a hiatal hernia are a recognised cause of occult blood loss and [[iron-deficiency-anemia|iron-deficiency anemia]] (they are listed on [[upper-gi-bleeding]]), but none of the GERD, antireflux-surgery, upper gastrointestinal bleeding (UGIB), small-bowel-bleeding, or iron-deficiency-anemia guidelines describes their appearance, bleeding phenotype, prevalence, or management, so they are not detailed here.
 
@@ -102,6 +114,31 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation �
 - **Paraesophageal hernia** → **relative contraindication to TIF** with the EsophyX device, at any size ([[afs-2023-transoral-incisionless-fundoplication]])
 
 ### When repair is indicated
+
+**The type decides which question is being asked** ([[sages-2013-hiatal-hernia]]):
+
+| Situation | Position | Grade |
+|---|---|---|
+| **Type I, no reflux disease** | **Repair is not necessary.** GERD is the indication for the operation; the hernia is repaired as part of it, not for its own sake | ⊕⊕⊕, strong |
+| **Symptomatic PEH** | **Repair** — especially with acute obstructive symptoms or prior volvulus | ⊕⊕⊕⊕, strong |
+| **Completely asymptomatic PEH** | **Routine elective repair may not always be indicated**; weigh age and comorbidities | ⊕⊕⊕, weak |
+| **Acute gastric volvulus** | **Reduce the stomach**, limited resection if needed | ⊕⊕⊕⊕, strong |
+| **Hernia found during a [[bariatric-surgery\|bariatric operation]]** | **Repair all detected hiatal hernias** (gastric bypass, sleeve gastrectomy, adjustable band) | ⊕⊕⊕, weak |
+
+**The numbers behind watchful waiting** ([[sages-2013-hiatal-hernia]]):
+
+- Progression from **asymptomatic to symptomatic PEH ≈ 14% per year**.
+- Risk of developing acute symptoms **requiring emergency surgery <2% per year**.
+- **Emergency repair mortality 0–5.4%** in recent series, against an average mortality for emergency hiatal hernia surgery of about **17%**.
+- ⚠ **Decision modelling suggests elective repair of a completely asymptomatic PEH may *decrease* quality-adjusted life expectancy at age 65 and over.** The 2013 guideline reserves repair in this group for **gastric outlet obstruction symptoms, severe reflux or anemia, or possible gastric strangulation**.
+- **Only hernias in which the gastric fundus has migrated above the diaphragm — that is, PEH — are at risk of obstruction.**
+
+#### Gastric volvulus — the emergency
+
+- **Organoaxial** rotation (about the long axis, GEJ to pylorus) is the commonest; **mesenteroaxial** (about the short axis) is less common. Most secondary gastric volvulus is associated with PEH, connective-tissue disorders or anterior abdominal wall defects ([[sages-2013-hiatal-hernia]]).
+- **Borchardt triad — severe epigastric pain · unproductive retching · inability to pass a nasogastric tube** — represents total gastric obstruction. Acute intrathoracic volvulus presents with progressive chest pain, severe vomiting and epigastric distention.
+- **Decompress first:** nasogastric tube, then plain chest radiograph and endoscopy. **Excessive investigation delays treatment and worsens outcomes.** Assessing **gastric viability** is the priority at emergency surgery.
+- **No ingested source can predict who will volvulize** — see [[#What the guidelines deliberately do not say]].
 
 - **A large hiatal hernia is itself an indication for [[antireflux-surgery|antireflux surgery]]** in GERD — alongside LA grade C/D erosive esophagitis and troublesome regurgitation (**Strong / Moderate**, [[acg-2021-gerd]]).
 - **In cTIF, the target is intra-abdominal esophageal length, not a hernia-size cutoff** ([[afs-2023-transoral-incisionless-fundoplication]]): reduce the intrathoracic stomach, dissect as high in the mediastinum as possible to obtain **2–3 cm** of intra-abdominal esophagus. **Hard stop — if that length cannot be obtained, do not perform the TIF.** Published series span hernias up to **8 cm**; no randomized controlled trial (RCT) has defined a ceiling.
@@ -127,9 +164,10 @@ SAGES 2024 answered four, and only one produced a graded recommendation ([[sages
 ### What the guidelines deliberately do not say
 
 - **SAGES makes no wrap-type recommendation when a large hernia is present.** Its partial-vs-complete fundoplication guidance and its pediatric minimal-dissection guidance are both explicitly scoped to patients **without large hiatal hernia** ([[sages-2021-gerd-surgery]]) — the trials did not enroll them. The 2024 surgical guideline does not close this: it recommends *that* a fundoplication be done, not *which* one.
-- **No size threshold at which repair becomes indicated** is given by any ingested source, and SAGES 2024 names none.
-- **No body mass index threshold for weight loss before repair.** Obesity is a known risk factor for recurrence, and SAGES 2024 calls the threshold a research question rather than setting one.
+- **No size threshold at which repair becomes indicated** is given by any ingested source — neither SAGES 2024 nor SAGES 2013 names one. The only size figure in either is a **recurrence** predictor, not an indication: **hiatal surface area >5.6 cm², independent of height, weight and body mass index** ([[sages-2013-hiatal-hernia]]).
+- **No body mass index threshold for weight loss before repair.** Obesity is a known risk factor both for **developing** a hernia and for **recurrence** after repair ([[sages-2013-hiatal-hernia]]), and SAGES 2024 calls the threshold a research question rather than setting one.
 - **No way to predict who will develop gastric volvulus** — stated plainly; organo-axial rotation is the only feature named as concerning.
+- **Mesh:** SAGES 2013 recommended mesh for **short-term** recurrence (⊕⊕⊕, strong) while stating in the very next statement — **the only ungraded one in that document** — that the long-term data support **no recommendation either way**. SAGES 2024 then declined to recommend for or against. **The current society position is no recommendation.** Trial detail: [[sages-2013-hiatal-hernia]], [[antireflux-surgery]].
 - **Postoperative recurrence risk drives an activity restriction:** lifting **≤15 lbs for 8 weeks** after TIF/cTIF, because heavy lifting can cause hiatal recurrence ([[afs-2023-transoral-incisionless-fundoplication]]).
 
 ---
@@ -148,3 +186,4 @@ SAGES 2024 answered four, and only one produced a graded recommendation ([[sages
 4. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]
 5. [[sages-2021-gerd-surgery|SAGES 2021 Guidelines for Surgical Treatment of Gastroesophageal Reflux (GERD)]]
 6. [[sages-2024-hiatal-hernia-surgery|SAGES 2024: Guidelines for the Surgical Treatment of Hiatal Hernias]]
+7. [[sages-2013-hiatal-hernia|SAGES 2013: Guidelines for the Management of Hiatal Hernia]]

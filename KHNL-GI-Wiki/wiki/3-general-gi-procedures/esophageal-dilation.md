@@ -3,8 +3,8 @@ title: "Esophageal Dilation"
 category: general-procedure
 tags: [esophagus, dilation, stricture, dysphagia, eoe, bougie, balloon, endoscopy, perforation]
 created: 2026-10-04
-updated: 2026-10-22
-sources: [acg-2025-eoe, acg-2013-eoe, aga-2021-gi-perforations-endoscopic-management, asge-2015-antibiotic-prophylaxis, asge-2011-foreign-body-ingestion, acg-2025-egd-quality, aga-2022-personalized-gerd, acg-cag-2022-anticoag-gi-bleeding, afs-2023-transoral-incisionless-fundoplication]
+updated: 2026-10-25
+sources: [acg-2025-eoe, acg-2013-eoe, asge-2014-dysphagia, aga-2021-gi-perforations-endoscopic-management, asge-2015-antibiotic-prophylaxis, asge-2011-foreign-body-ingestion, acg-2025-egd-quality, aga-2022-personalized-gerd, acg-cag-2022-anticoag-gi-bleeding, afs-2023-transoral-incisionless-fundoplication]
 ---
 
 ## Contents
@@ -13,8 +13,11 @@ sources: [acg-2025-eoe, acg-2013-eoe, aga-2021-gi-perforations-endoscopic-manage
 - [[#Before Dilating]]
 - [[#Dilator Choice]]
 - [[#Technique]]
+  - [[#Wire-guided bougie and balloon mechanics]]
+  - [[#EoE-specific approach]]
 - [[#Finding the Stricture]]
 - [[#Dilation Treats the Stricture, Not the Disease]]
+- [[#When Dilation Alone Is Not Enough]]
 - [[#Adverse Events]]
 - [[#Outcomes and Evidence]]
 - [[#See Also]]
@@ -36,6 +39,9 @@ sources: [acg-2025-eoe, acg-2013-eoe, aga-2021-gi-perforations-endoscopic-manage
 | EoE, **persistent dysphagia with a normal-appearing esophageal diameter** on endoscopy **and** histologic remission on medical or dietary therapy | **Empiric dilation** may be performed | [[acg-2025-eoe]] |
 | EoE, **critical stricture or food impaction found at the index endoscopy** | Dilation may be performed before other therapies, rather than waiting to assess medical/dietary response | [[acg-2013-eoe]] |
 | Esophageal stricture present after **food bolus extraction** | In most circumstances safe to dilate at that session, to reduce recurrence | [[asge-2011-foreign-body-ingestion]] |
+| **Any benign intrinsic esophageal stricture causing dysphagia** | Dilate (⊕⊕⊕⊕, recommend) | [[asge-2014-dysphagia]] |
+| **Schatzki ring** | **A single large 16–20 mm dilator ruptures the ring**, with symptomatic relief in almost all patients | [[asge-2014-dysphagia]] |
+| **Extrinsic compression**; **[[distal-esophageal-spasm\|diffuse esophageal spasm]]**; **hypomotility from connective-tissue disease** | **Not amenable to dilation** | [[asge-2014-dysphagia]] |
 | Before [[antireflux-surgery\|transoral incisionless fundoplication (TIF)]], to aid device passage | Empiric dilation at the upper esophageal sphincter: **57–60 Fr (18–20 mm) Savary-Gilliard dilator** over a wire, or an **18–20 mm TTS hydrostatic balloon** | [[afs-2023-transoral-incisionless-fundoplication]] |
 
 > [!pearl] Have a high index of suspicion
@@ -49,6 +55,19 @@ sources: [acg-2025-eoe, acg-2013-eoe, aga-2021-gi-perforations-endoscopic-manage
 - **Peptic stricture → start acid suppression.** Recommending acid suppression after dilation of a peptic stricture (no allergy/contraindication) is quality indicator 23 for [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] — **performance target >98%**, grade 2B. Preferred: a [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] or other potent acid suppressant; PPIs lowered persistent stricture and redilation vs H2 receptor antagonists in a randomized trial ([[acg-2025-egd-quality]]). Biopsy-proven [[esophageal-stricture|peptic stricture]] is an exception to weaning acid suppression in [[gerd|gastroesophageal reflux disease (GERD)]]: *"will require at least single-dose, long-term PPI therapy"* ([[aga-2022-personalized-gerd]]).
 - **Antibiotic prophylaxis is not indicated.** Highest transient bacteremia rate of any endoscopic procedure (Adverse Events table), yet routine prophylaxis **solely to prevent infective endocarditis is recommended against** ([[asge-2015-antibiotic-prophylaxis]]; detail on [[antibiotic-prophylaxis-endoscopy]]).
 - **Consent for perforation.** Dilation is a named high-perforation-risk procedure ([[aga-2021-gi-perforations-endoscopic-management]]); counsel specifically about post-dilation chest pain, bleeding, and perforation (Recommendation 18, [[acg-2013-eoe]]).
+- **Fasting: no solids for 6 h, clear liquids until 2 h before.** ⚠ **Esophageal stasis — [[achalasia]], a diverticulum, or a tight stricture — may need a prolonged fast or a nasogastric tube** to cut aspiration risk ([[asge-2014-dysphagia]]).
+- **Absolute contraindication: esophageal perforation.** Dilate with **caution** after a recent healed perforation or upper gastrointestinal surgery ([[asge-2014-dysphagia]]).
+- **Have the kit ready before starting** when a complex stricture is anticipated: standard, pediatric **and ultrathin** endoscopes, fluoroscopy, rat-tooth forceps, a needle-knife papillotome, and triamcinolone ([[asge-2014-dysphagia]]).
+
+**Size the stricture before choosing a dilator** ([[asge-2014-dysphagia]]):
+
+| Luminal diameter | What the patient can eat |
+|---|---|
+| **18 mm** | Regular diet |
+| **15 mm** | Modified diet |
+| **≤13 mm** | **Dysphagia** |
+
+- **Bedside estimate by endoscope passage** — the diagnostic endoscope is about **9 mm** across. Passes **without resistance** = mild; **increased resistance** = moderate; **cannot be traversed** = severe. ⚠ **Limited by the endoscopist's subjective perception** — objective measurement is by barium radiography or the largest barium tablet that passes.
 
 ## Dilator Choice
 
@@ -60,7 +79,35 @@ sources: [acg-2025-eoe, acg-2013-eoe, aga-2021-gi-perforations-endoscopic-manage
 | **Bougie over a guidewire** (wire-guided system) | Axial + radial force; delivers shear stress along the stricture | **Multiple strictures**, and **long strictures** such as the diffusely narrowed esophagus of EoE. **Resistance to passage of the bougie estimates the degree of luminal compromise** — information that is hard to get endoscopically |
 | **TTS hydrostatic balloon** | Pure radial force; theoretical advantage of avoiding the shear-stress injury of bougie dilation | Allows **inspection of the underlying esophageal mucosa between serial dilations without reintroducing the endoscope** |
 
+**The three device families and their sizes** ([[asge-2014-dysphagia]]):
+
+| Device | Range | Notes |
+|---|---|---|
+| **Maloney** — weighted push type | **16F–60F** | Tactile resistance; can be passed blind or under fluoroscopy, **without sedation**, and used for **self-dilation**. ⚠ **Not for narrow, complex strictures** — may buckle above the stricture and perforate |
+| **Polyvinyl wire-guided** — Savary-Gilliard, American | **16F–60F** | More tapered, rigid tip with a central hollow core for the wire. Savary carries a radiopaque band at maximal diameter; American has a shorter taper and is barium-impregnated throughout |
+| **Balloon** — over-the-wire (OTW) or TTS | **up to 20 mm** (strictures); **30–40 mm** for [[pneumatic-dilation\|pneumatic dilation]] | **TTS needs a 2.8 mm working channel** — not compatible with most small-caliber or pediatric scopes |
+
+- **Shorter taper = more effective and safer bougie** — radial force is inversely proportional to shear force.
+- ⚠ **A larger balloon needs *less* pressure to dilate, and carries a *higher* perforation risk.** Dilating force is inversely proportional to balloon diameter. Force also rises with the stricture's surface area, so balloons are more effective in **longer** strictures.
+- **Guidewires:** large-caliber (0.89 mm) monofilament or coiled wires are standard; **smaller-caliber wires may help cannulate a severe stricture**.
+
 ## Technique
+
+### Wire-guided bougie and balloon mechanics
+
+([[asge-2014-dysphagia]])
+
+- **Wire-guided bougie:** position the wire tip in the antrum — about **60 cm from the incisors** in a patient without esophagogastric surgery. Pass the dilator over the wire in one smooth movement, then withdraw it while holding the wire in a **one-to-one exchange**. Withdraw dilator and wire together after the last size.
+- **Maloney (blind):** patient left lateral or upright; hold the shaft with the thumb and medial three fingers of the right hand — **better tactile perception than a closed-hand grip** — advance slowly with clockwise/counterclockwise rotation until the widest diameter is past the stricture, then withdraw in one slow movement.
+- **Balloon:** inflate and hold at pressure for **30–60 seconds**, or until a sudden drop in manometric pressure. **No data exist on optimal inflation time.** For OTW, center the balloon on the stricture by its radiopaque markers and keep slight retraction on the wire.
+
+> [!pitfall] The rule of 3 is convention, not evidence
+> Start with a dilator about the size of, and **no more than 1–2 mm larger than**, the stricture lumen. Once **moderate resistance** is met, pass **no more than 3 consecutive dilators in 1 mm increments** in that session. The guideline states in the same breath that the rule **"has been accepted but not formally studied for its safety."** It **does not apply to balloon dilation** — inflate one appropriately sized balloon — and **increments >3 mm may be safe for simple strictures**. ([[asge-2014-dysphagia]])
+
+> [!pitfall] Do not empirically dilate a normal-looking esophagus with a big bougie
+> Several studies of **large-bore (50F) dilation** in dysphagia with normal endoscopic findings **failed to improve dysphagia scores**, and the perforation risk may outweigh any benefit — **especially with undiagnosed EoE**. ([[asge-2014-dysphagia]]) This is distinct from ACG's empiric dilation in EoE with histologic remission, above.
+
+### EoE-specific approach
 
 - ACG: *"start low and go slow"* ([[acg-2025-eoe]]) — a **conservative** approach, **relatively small increases in diameter over multiple sessions**, because of EoE mucosal fragility ([[acg-2013-eoe]]).
 
@@ -111,6 +158,26 @@ sources: [acg-2025-eoe, acg-2013-eoe, aga-2021-gi-perforations-endoscopic-manage
 - **Dilation monotherapy** — reported for strictures refractory to all other treatment, but **not preferred**; controversial, individualize ([[acg-2013-eoe]]).
 - EoE wall thickening = **inflammation + fibrosis**; **no imaging technique reliably separates the two** ([[acg-2025-eoe]]).
 
+## When Dilation Alone Is Not Enough
+
+**Definitions first** — the two words are not interchangeable ([[asge-2014-dysphagia]]; see [[esophageal-stricture]] for the simple-vs-complex split):
+
+| Term | Definition |
+|---|---|
+| **Refractory** | **Cannot be dilated to 14 mm over 5 sessions at 2-week intervals** |
+| **Recurrent** | **Cannot maintain 14 mm for 4 weeks** once that diameter has been reached |
+| **Neither applies to** | **Inflammatory strictures** (they will not settle until the inflammation does) or dysphagia from **neuromuscular dysfunction** |
+
+**The escalation ladder** ([[asge-2014-dysphagia]]):
+
+1. **Repeat dilation.** The **maximal dilator size used at the prior session may be the starting dilator at the next**, and there is **no reported limit to the number of sessions** a patient can undergo.
+2. **Intralesional corticosteroid** — *suggest*, ⊕⊕○○. **Triamcinolone acetonide 40 mg/mL, 0.2–0.5 mL aliquots into 4 quadrants** of the stricture, immediately before or after dilation. Larger post-dilation diameter (**50F vs 40F** peptic, *P*=.027; **47F vs 42F** radiation, *P*=.004), **fewer repeat dilations (13% vs 60%, *P*=.02)** and a **longer interval between them (167 vs 23 days)**. Mechanism: inhibition of matrix protein genes → less collagen deposition. Injection under endoscopic ultrasound guidance has been described but **is not routinely performed**.
+3. **Esophageal stent** — *suggest*, ⊕⊕○○, and only for **refractory strictures that fail sequential dilation and/or steroid injection**. ⚠ **Fully covered metal and biodegradable stents are not FDA approved for benign esophageal strictures.**
+4. **Self-bougienage** for patients needing frequent dilations — a single **42F, 45F or 48F** Maloney dilator, **marked at the required insertion depth**, with the **first sessions supervised** until the patient has the technique.
+
+> [!pitfall] Benign stents migrate, and dysphagia returns when they come out
+> **Plastic stents:** placed successfully in 98% but **clinical success only 52%**, falling to **33% for cervical strictures** (vs 54% elsewhere, *P*<.05); **migration 24%**, **major adverse events 9%** including one death. **Fully covered metal stents:** **migration 80%**, tissue fistula 48%; in one series **60% were removed prematurely** and **recurrent dysphagia occurred in every patient** after removal. **Biodegradable stents:** median dysphagia-free period **90 days** after the first, **55** after a second, and **no clinical success in any patient** after a third. ([[asge-2014-dysphagia]])
+
 ## Adverse Events
 
 | Event | Rate | Denominator / setting |
@@ -121,7 +188,13 @@ sources: [acg-2025-eoe, acg-2013-eoe, aga-2021-gi-perforations-endoscopic-manage
 | **Perforation** | **0.09%–2.2%** | Dilation for **simple rings or peptic strictures**; **higher for caustic or radiation-induced strictures** ([[aga-2021-gi-perforations-endoscopic-management]]) |
 | **Post-procedural hospitalization** | **<1%** of dilations | EoE ([[acg-2025-eoe]]) |
 | **Major bleeding** (need for endoscopic hemostasis or a blood product) | **rare — 1 patient reported to date** | EoE ([[acg-2013-eoe]]) |
-| **Transient bacteremia** | **12%–22%** | Bougienage; higher with malignant strictures and multiple dilators ([[asge-2015-antibiotic-prophylaxis]]) |
+| **Transient bacteremia** | **12%–22%** | Bougienage; higher with malignant strictures and multiple dilators ([[asge-2015-antibiotic-prophylaxis]]). **Infective endocarditis is extremely rare** ([[asge-2014-dysphagia]]) |
+| **Perforation** | **0.1%–0.4%** | Benign esophageal strictures overall; **higher with complex and radiation-induced strictures** ([[asge-2014-dysphagia]]) |
+
+> [!pitfall] The operator is a risk factor
+> The perforation rate was **4 times greater** when the endoscopist had performed **fewer than 500 previous diagnostic upper endoscopies**. ([[asge-2014-dysphagia]])
+
+- **Suspect perforation** with severe or persistent chest or abdominal pain, dyspnea, tachycardia or fever after dilation; examine for **subcutaneous crepitus** of the chest or neck. ⚠ **A normal chest radiograph does not exclude it** — proceed to water-soluble contrast esophagram or contrast-enhanced computed tomography ([[asge-2014-dysphagia]]).
 
 - **Who perforates in EoE:** across 511 patients over 14 years, 10 perforations (2.0%); risk factors were **a history of food impaction (odds ratio [OR] 14.9, 95% CI 1.7–129.2)** and **a focal stricture (OR 4.6, 95% CI 1.1–19.7)**. In a systematic review of 76 perforations in 70 EoE patients, **most were non-iatrogenic**; **esophageal dilation caused 8** and pushing impacted food into the stomach caused 5 ([[aga-2021-gi-perforations-endoscopic-management]]).
 - Early reports overstated risk — many initial perforations were in **unrecognized EoE**, before its dilation hazards were described; recent series report **considerably lower** rates, likely from the conservative approach ([[acg-2013-eoe]]).
@@ -135,7 +208,7 @@ sources: [acg-2025-eoe, acg-2013-eoe, aga-2021-gi-perforations-endoscopic-manage
 
 ## See Also
 
-[[eosinophilic-esophagitis]], [[eoe-therapies]], [[pneumatic-dilation]], [[achalasia]], [[upper-endoscopy]], [[dysphagia]], [[gerd]], [[proton-pump-inhibitors]], [[flip-panometry]], [[endoscopic-management-of-perforation]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]], [[ingested-foreign-body]], [[lymphocytic-esophagitis]], [[antireflux-surgery]], [[barretts-esophagus]]
+[[eosinophilic-esophagitis]], [[eoe-therapies]], [[esophageal-stricture]], [[pneumatic-dilation]], [[achalasia]], [[upper-endoscopy]], [[dysphagia]], [[distal-esophageal-spasm]], [[gerd]], [[proton-pump-inhibitors]], [[flip-panometry]], [[endoscopic-management-of-perforation]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]], [[ingested-foreign-body]], [[lymphocytic-esophagitis]], [[antireflux-surgery]], [[barretts-esophagus]]
 
 ---
 
@@ -144,9 +217,10 @@ sources: [acg-2025-eoe, acg-2013-eoe, aga-2021-gi-perforations-endoscopic-manage
 1. [[acg-2025-eoe|ACG 2025: Diagnosis and Management of Eosinophilic Esophagitis]]
 2. [[acg-2013-eoe|ACG Clinical Guideline: Evidenced-Based Approach to the Diagnosis and Management of Esophageal Eosinophilia and Eosinophilic Esophagitis (2013)]]
 3. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review]]
-4. [[asge-2015-antibiotic-prophylaxis|ASGE Guideline: Antibiotic Prophylaxis for GI Endoscopy (2015)]]
-5. [[asge-2011-foreign-body-ingestion|ASGE Guideline: Management of Ingested Foreign Bodies and Food Impactions (2011)]]
-6. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)]]
-7. [[aga-2022-personalized-gerd|AGA Clinical Practice Update on the Personalized Approach to the Evaluation and Management of GERD: Expert Review (2022)]]
-8. [[acg-cag-2022-anticoag-gi-bleeding|ACG/CAG 2022: Management of Anticoagulants and Antiplatelets During Acute GI Bleeding and the Periendoscopic Period]]
-9. [[afs-2023-transoral-incisionless-fundoplication|American Foregut Society White Paper on Transoral Incisionless Fundoplication (2023)]]
+4. [[asge-2014-dysphagia|ASGE 2014: The Role of Endoscopy in the Evaluation and Management of Dysphagia]]
+5. [[asge-2015-antibiotic-prophylaxis|ASGE Guideline: Antibiotic Prophylaxis for GI Endoscopy (2015)]]
+6. [[asge-2011-foreign-body-ingestion|ASGE Guideline: Management of Ingested Foreign Bodies and Food Impactions (2011)]]
+7. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)]]
+8. [[aga-2022-personalized-gerd|AGA Clinical Practice Update on the Personalized Approach to the Evaluation and Management of GERD: Expert Review (2022)]]
+9. [[acg-cag-2022-anticoag-gi-bleeding|ACG/CAG 2022: Management of Anticoagulants and Antiplatelets During Acute GI Bleeding and the Periendoscopic Period]]
+10. [[afs-2023-transoral-incisionless-fundoplication|American Foregut Society White Paper on Transoral Incisionless Fundoplication (2023)]]
