@@ -3,8 +3,8 @@ title: "Sphincter of Oddi Dysfunction"
 category: disease-script
 tags: [sphincter-of-oddi, biliary, pancreatic, ercp, manometry, sphincterotomy, post-cholecystectomy-pain, idiopathic-recurrent-pancreatitis, episod]
 created: 2026-07-17
-updated: 2026-10-04
-sources: [asge-2015-ercp-benign-biliary, asge-2015-benign-pancreatic-disease, asge-2023-post-ercp-pancreatitis, rome-v-2026-dgbi]
+updated: 2026-10-25
+sources: [acg-asge-2026-ercp-quality-indicators, asge-2015-ercp-benign-biliary, asge-2015-benign-pancreatic-disease, asge-2023-post-ercp-pancreatitis, rome-v-2026-dgbi]
 ---
 
 ## Contents
@@ -83,6 +83,9 @@ Two parallel 3-type schemes — **biliary** (Rome III revision of the Milwaukee 
 
 > **EPISOD trial** (randomized controlled trial [RCT], National Institutes of Health [NIH], multicenter; 214 post-cholecystectomy patients with pain but no imaging/lab abnormality, no prior sphincter intervention or pancreatitis, randomized 2:1 to sphincterotomy vs sham). Treatment success (< 6 days pain-related disability over 90 days, no narcotics, no further intervention) was **23% with sphincterotomy vs 37% with sham** (adjusted risk difference 15.6% *favoring sham*, P < .01). Dual vs single sphincterotomy made no difference. Pancreatitis occurred in 11% (sphincterotomy) vs 15% (sham). **Conclusion: manometry and sphincterotomy do not benefit type III SOD and carry significant adverse-event rates.** ([[asge-2015-ercp-benign-biliary]])
 
+- **The result held at 5 years**, and **manometry was neither reproducible nor predictive of any outcome** in the trial. Type III is now regarded as a **[[disorders-of-gut-brain-interaction|disorder of gut–brain interaction]]**, not a sphincter disease. ([[acg-asge-2026-ercp-quality-indicators]])
+- **The one carve-out that remains:** **papillary stenosis obstructing the bile duct outlet** may be considered an indication for biliary sphincterotomy in a patient with biliary-type pain **and** elevated liver enzymes **or** a dilated bile duct. Evaluate such patients judiciously — the bile duct also dilates without obstructive pathology with **increasing age, cholecystectomy and opioid use**, and liver tests rise for many other reasons. ([[acg-asge-2026-ercp-quality-indicators]])
+
 ### Pancreatic SOD
 - **Type 1:** biliary and/or pancreatic sphincterotomy (Moderate). Because a biliary sphincterotomy also cuts the common sphincter, it may sufficiently lower pancreatic sphincter pressure depending on the common sphincter's contribution. ([[asge-2015-benign-pancreatic-disease]])
 - **Type 2 confirmed by manometry:** biliary and/or pancreatic sphincterotomy (Moderate). Approach varies by center — manometry-guided therapy, empiric biliary ± pancreatic sphincterotomy, or biliary sphincterotomy first with pancreatic SOM reserved for non-responders. In IRAP, biliary sphincterotomy alone (~51%) performed similarly to combined biliary + pancreatic sphincterotomy (~53%) for preventing recurrent acute pancreatitis. ([[asge-2015-benign-pancreatic-disease]])
@@ -106,3 +109,4 @@ Two parallel 3-type schemes — **biliary** (Rome III revision of the Milwaukee 
 2. [[asge-2015-benign-pancreatic-disease|ASGE Guideline: The Role of Endoscopy in Benign Pancreatic Disease (2015)]]
 3. [[asge-2023-post-ercp-pancreatitis|ASGE Guideline: Post-ERCP Pancreatitis Prevention (2023)]]
 4. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+5. [[acg-asge-2026-ercp-quality-indicators|ACG/ASGE 2026: Quality Indicators for ERCP]]

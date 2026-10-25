@@ -3,7 +3,7 @@ title: "Colonoscopy Quality Indicators"
 category: concept
 tags: [colonoscopy, quality, adr, sdr, withdrawal-time, cecal-intubation, bowel-prep, polypectomy, crc-screening, colorectal]
 created: 2026-09-23
-updated: 2026-10-24
+updated: 2026-10-25
 sources: [asge-acg-2024-colonoscopy-quality-indicators, aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy, acg-2014-bowel-cleansing, usmstf-2025-bowel-prep]
 ---
 
@@ -339,7 +339,7 @@ Other USMSTF ADR figures, each tied to its own population:
 
 ## See Also
 
-[[colonoscopy]], [[colonoscopy-surveillance]], [[polypectomy]], [[colorectal-cancer-screening]], [[colorectal-cancer]], [[artificial-intelligence-endoscopy]], [[endoscopic-mucosal-resection]], [[anticoagulation-gi-bleeding]], [[upper-endoscopy]]
+[[endoscopy-quality-indicators]], [[colonoscopy]], [[colonoscopy-surveillance]], [[polypectomy]], [[colorectal-cancer-screening]], [[colorectal-cancer]], [[artificial-intelligence-endoscopy]], [[endoscopic-mucosal-resection]], [[anticoagulation-gi-bleeding]], [[upper-endoscopy]]
 
 ---
 

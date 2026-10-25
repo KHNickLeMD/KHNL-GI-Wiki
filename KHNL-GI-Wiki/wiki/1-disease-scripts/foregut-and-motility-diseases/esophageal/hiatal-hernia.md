@@ -3,8 +3,8 @@ title: "Hiatal Hernia"
 category: disease-script
 tags: [hiatal-hernia, gerd, foregut, ge-junction, hill-grade, antireflux-surgery, tif, ctif, cameron-lesions]
 created: 2026-08-29
-updated: 2026-10-05
-sources: [asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, acg-2020-esophageal-physiologic-testing, sages-2021-gerd-surgery]
+updated: 2026-10-25
+sources: [sages-2024-hiatal-hernia-surgery, asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, acg-2020-esophageal-physiologic-testing, sages-2021-gerd-surgery]
 ---
 
 *Herniation of the stomach through the diaphragmatic hiatus. In the gastroesophageal reflux disease (GERD) guidelines it appears almost entirely as **the anatomic variable that selects an antireflux procedure** — hernia size plus [[reflux-testing|Hill grade]] is the operative decision point in [[gerd|GERD]], and a paraesophageal hernia is a hard exclusion for endoscopic repair.*
@@ -20,6 +20,7 @@ sources: [asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundopl
 - [[#Therapeutics]]
   - [[#The hernia selects the procedure]]
   - [[#When repair is indicated]]
+    - [[#Paraesophageal (type II–IV) hernia — the surgical questions]]
   - [[#What the guidelines deliberately do not say]]
 - [[#See Also]]
 - [[#Sources]]
@@ -31,6 +32,17 @@ sources: [asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundopl
 ### Establishing the Diagnosis
 
 Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation — not as a symptom diagnosis.
+
+**The four types are defined by what is herniated** ([[sages-2024-hiatal-hernia-surgery]]). Types II–IV are the paraesophageal hernias and are what the surgical guideline addresses; type I is the sliding hernia the GERD guidelines are about.
+
+| Type | GEJ | What is above the hiatus |
+|---|---|---|
+| **I** — *sliding* | **above** the hiatus | the GEJ itself |
+| **II** | **normal position** | the **gastric fundus** |
+| **III** | **above** the hiatus | **both** the stomach and the GEJ |
+| **IV** | — | the stomach **plus any additional organ** |
+
+- Mechanism of the associated reflux: **loss of the "pinch" effect of the crural diaphragm**. The association runs through to [[barretts-esophagus|Barrett's esophagus]] and [[esophageal-adenocarcinoma|esophageal adenocarcinoma]] ([[sages-2024-hiatal-hernia-surgery]]).
 
 - **[[upper-endoscopy|Endoscopy]] is the routine detection and documentation tool.** Measure and record at every GERD endoscopy ([[asge-2024-gerd]], Strong / Very Low):
   - **Axial length in cm** — gastroesophageal junction (GEJ) to the diaphragmatic impression
@@ -95,16 +107,36 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation �
 - **In cTIF, the target is intra-abdominal esophageal length, not a hernia-size cutoff** ([[afs-2023-transoral-incisionless-fundoplication]]): reduce the intrathoracic stomach, dissect as high in the mediastinum as possible to obtain **2–3 cm** of intra-abdominal esophagus. **Hard stop — if that length cannot be obtained, do not perform the TIF.** Published series span hernias up to **8 cm**; no randomized controlled trial (RCT) has defined a ceiling.
 - **Do not fixate the stomach to the crura** during a cTIF — it impedes the tissue mobility the TIF portion requires.
 
+#### Paraesophageal (type II–IV) hernia — the surgical questions
+
+SAGES 2024 answered four, and only one produced a graded recommendation ([[sages-2024-hiatal-hernia-surgery]]).
+
+- **Add a fundoplication to the repair** — *conditional, low certainty*. Objective reflux falls sharply (relative risk [RR] **0.31**; **321 fewer patients per 1000** with objective reflux), recurrence falls (RR **0.55**), leak rate falls (RR **0.33**). **The price is late dysphagia** (RR **2.94**; 25 more per 1000) — judged a small harm against a large benefit. All comparative data used a **complete** wrap; **partial may be better for dysphagia**, but only by indirect evidence from GERD patients without a hernia.
+- **Mesh: no recommendation either way.** The panel considered recommending against routine mesh and declined — the confidence intervals leave room for mesh being either beneficial or harmful. Only **late total dysphagia** reached significance (RR **0.49**, 108 fewer per 1000, favouring mesh); **no mesh erosions occurred** across 3 RCTs and 270 patients. It stays a joint surgeon–patient decision.
+- **Recurrence is defined as >2 cm in any direction *or* symptomatic** — the definition the outcome data above rest on.
+
+> [!pearl] Most "asymptomatic" paraesophageal hernias are not asymptomatic
+> Before accepting the label, look for **shortness of breath, exercise intolerance and abnormal echocardiogram findings** — non-gastrointestinal symptoms secondary to the hernia. Where they cannot be attributed to a comorbidity, **the patient is symptomatic and can be offered repair if medically fit.** In one 270-patient repair series, presenting features were anemia **24%–57%**, dyspnea **21%–67%**, chest pain **40%–60%**. ([[sages-2024-hiatal-hernia-surgery]])
+
+- **Truly asymptomatic hernia — repair or watch?** Expert opinion only; no literature exists on truly asymptomatic patients managed either way.
+  - **Objective reflux or findings of micro-aspiration → offer repair** if medically fit. Endoscopy is a good test for both. Some populations are at such high micro-aspiration risk that repair can be offered **without** objective findings — **lung transplant patients** are the named example.
+  - **No objective reflux or micro-aspiration → watchful waiting is reasonable**, after a thorough discussion of the risk of acute **gastric volvulus** and of the **inability to predict who is at high risk** for it. **Pre-existing organo-axial rotation is a concerning feature.**
+  - **Age alone must not disqualify a patient** from operative management — decide on operative risk and the patient's values.
+- **Recurrent type II–IV hernia in a patient *without* obesity — redo repair, or convert to Roux-en-Y gastric bypass (RYGB)?** Expert opinion. **After a previous uncomplicated repair with fundoplication, redo repair and fundoplication is appropriate.** Give **greater consideration to RYGB** for: **diabetes mellitus · severe esophageal dysmotility · short esophagus · [[gastroparesis|gastroparesis]] · a previous complicated repair leaving poor-quality fundal tissue · multiple recurrent failures by an expert surgeon**. **Evaluate multidisciplinarily before converting.** See [[bariatric-surgery]].
+
 ### What the guidelines deliberately do not say
 
-- **SAGES makes no wrap-type recommendation when a large hernia is present.** Its partial-vs-complete fundoplication guidance and its pediatric minimal-dissection guidance are both explicitly scoped to patients **without large hiatal hernia** ([[sages-2021-gerd-surgery]]) — the trials did not enroll them.
+- **SAGES makes no wrap-type recommendation when a large hernia is present.** Its partial-vs-complete fundoplication guidance and its pediatric minimal-dissection guidance are both explicitly scoped to patients **without large hiatal hernia** ([[sages-2021-gerd-surgery]]) — the trials did not enroll them. The 2024 surgical guideline does not close this: it recommends *that* a fundoplication be done, not *which* one.
+- **No size threshold at which repair becomes indicated** is given by any ingested source, and SAGES 2024 names none.
+- **No body mass index threshold for weight loss before repair.** Obesity is a known risk factor for recurrence, and SAGES 2024 calls the threshold a research question rather than setting one.
+- **No way to predict who will develop gastric volvulus** — stated plainly; organo-axial rotation is the only feature named as concerning.
 - **Postoperative recurrence risk drives an activity restriction:** lifting **≤15 lbs for 8 weeks** after TIF/cTIF, because heavy lifting can cause hiatal recurrence ([[afs-2023-transoral-incisionless-fundoplication]]).
 
 ---
 
 ## See Also
 
-[[gerd]], [[antireflux-surgery]], [[reflux-testing]], [[upper-endoscopy]], [[high-resolution-manometry]], [[ambulatory-reflux-monitoring]], [[barretts-esophagus]], [[achalasia]], [[esophagogastric-junction-outflow-obstruction]], [[hrm-antireflux-surgery]], [[chicago-classification-v4]], [[dysphagia]], [[upper-gi-bleeding]], [[iron-deficiency-anemia]], [[flip-panometry]]
+[[gerd]], [[antireflux-surgery]], [[reflux-testing]], [[upper-endoscopy]], [[high-resolution-manometry]], [[ambulatory-reflux-monitoring]], [[barretts-esophagus]], [[achalasia]], [[esophagogastric-junction-outflow-obstruction]], [[hrm-antireflux-surgery]], [[chicago-classification-v4]], [[dysphagia]], [[upper-gi-bleeding]], [[iron-deficiency-anemia]], [[flip-panometry]], [[bariatric-surgery]], [[esophageal-adenocarcinoma]]
 
 ---
 
@@ -115,3 +147,4 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation �
 3. [[afs-2023-transoral-incisionless-fundoplication|American Foregut Society White Paper on Transoral Incisionless Fundoplication (2023)]]
 4. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]
 5. [[sages-2021-gerd-surgery|SAGES 2021 Guidelines for Surgical Treatment of Gastroesophageal Reflux (GERD)]]
+6. [[sages-2024-hiatal-hernia-surgery|SAGES 2024: Guidelines for the Surgical Treatment of Hiatal Hernias]]

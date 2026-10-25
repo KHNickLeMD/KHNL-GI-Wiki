@@ -3,8 +3,8 @@ title: "Antibiotic Prophylaxis for GI Endoscopy"
 category: concept
 tags: [antibiotic-prophylaxis, infective-endocarditis, ercp, peg, eus-fna, cirrhosis, gi-bleeding, bacteremia, endoscopy]
 created: 2026-06-27
-updated: 2026-10-20
-sources: [asge-2015-antibiotic-prophylaxis, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics]
+updated: 2026-10-25
+sources: [acg-asge-2026-ercp-quality-indicators, asge-2015-antibiotic-prophylaxis, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics]
 ---
 
 Framework for when periprocedural antibiotics are — and are not — indicated for gastrointestinal (GI) endoscopy. Bottom line: prophylaxis is **not** given solely to prevent infective endocarditis; it is reserved for a handful of scenarios that prevent local infection (incomplete biliary drainage, percutaneous endoscopic gastrostomy or jejunostomy [PEG/PEJ], endoscopic ultrasound [EUS]-guided fine-needle aspiration [FNA] of cysts) plus [[cirrhosis|cirrhotics]] admitted with GI bleeding. Per [[asge-2015-antibiotic-prophylaxis]].
@@ -49,6 +49,8 @@ The exception is conditional on this list, so the list is the decision ([[asge-2
   - Why incomplete drainage is the trigger: it predicted **91%** of all post-ERCP sepsis in one study; and in the few trials showing benefit, antibiotics were **continued for several days after** the procedure.
   - **Already in [[acute-cholangitis|cholangitis]]?** Treat the cholangitis with antibiotics — **additional single-dose ERCP prophylaxis is not recommended** on top of treatment.
   - Even with prophylaxis, **liver transplant recipients remain at higher risk** (1.2% infection rate vs 0.28% overall).
+  - **Updated 2026 — three supported scenarios, and one of them is new.** The published literature most strongly supports prophylaxis for: **(i)** anticipated or actual **incomplete relief of biliary obstruction** (PSC, biliary cyst), **(ii)** **[[cholangioscopy]]**, and **(iii)** prior **orthotopic liver transplantation**. ASGE has since **moved the post-transplant indication from universal to conditional** — antibiotics for anticipated incomplete drainage (ischemic cholangiopathy, multiple intrahepatic strictures, contrast injection without stent placement) — on newer data showing low ERCP-associated infection rates in that group. **There are no data supporting routine prophylaxis for pancreatoscopy**; individualize on patient risk factors and the nature of the intervention. Prophylaxis may also be worthwhile when **extraluminal contamination is suspected** — concern for intraprocedural perforation or bile duct injury. ([[acg-asge-2026-ercp-quality-indicators]])
+  - **Withholding it where no benefit is likely is part of the same quality indicator** — inappropriate use drives antibiotic resistance and drug adverse events. Appropriate-indication prophylaxis is a measured ERCP indicator (target >98%; see [[ercp-quality-indicators]]).
 - **[[enteral-access|PEG/PEJ placement]]** → parenteral **cefazolin 1 g intravenous (IV) 30 minutes before** the procedure (or an antibiotic with equivalent coverage of cutaneous organisms); pooled odds ratio (OR) for peristomal infection **0.36** (95% confidence interval [CI] 0.26–0.50). Where **methicillin-resistant *Staphylococcus aureus* (MRSA) is endemic**, preprocedure screening (nose, throat, perineum, broken skin) with decolonization of positives reduces MRSA peristomal infection. PEJ is unstudied but treated the same. *(Rec 8, High quality)*
 - **EUS-FNA of cystic lesions** (mediastinal and pancreatic/peripancreatic [[pancreatic-cysts|cysts]]) → antibiotics before, often continued 3–5 days, to prevent cyst infection. **Contested for pancreatic cysts:** the first randomized controlled trial (RCT) ([[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020]], n=226) found infection risk low (0.44%) and **not** reduced by ciprofloxacin — arguing prophylaxis is **not** routinely needed for pancreatic-cyst FNA. The American Society for Gastrointestinal Endoscopy (ASGE) 2015 guideline still *suggests* it (Low quality); duplication/mediastinal cysts were excluded from the RCT, so it does not address them.
   - **Mediastinal cysts — conflict:** ASGE 2015 *suggests* prophylaxis for their FNA (Low quality); the newer [[acg-2025-eus-quality|ACG/ASGE 2025 EUS quality indicators]] advise against routinely sampling them at all, because antibiotics have not been shown to prevent cyst infection or mediastinitis.
@@ -117,3 +119,4 @@ There is no ASGE recommendation here — the guidance is graded by neutrophil co
 
 1. [[asge-2015-antibiotic-prophylaxis|ASGE Guideline: Antibiotic Prophylaxis for GI Endoscopy (2015)]]
 2. [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020: Antibiotic Prophylaxis Is Not Required for EUS-FNA of Pancreatic Cystic Lesions (RCT)]]
+3. [[acg-asge-2026-ercp-quality-indicators|ACG/ASGE 2026: Quality Indicators for ERCP]]

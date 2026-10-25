@@ -3,8 +3,8 @@ title: "Choledocholithiasis"
 category: disease-script
 tags: [biliary, gallstones, common-bile-duct, jaundice, cholangitis, ercp, eus, mrcp, gallstone-pancreatitis]
 created: 2026-06-04
-updated: 2026-09-06
-sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis]
+updated: 2026-10-25
+sources: [acg-asge-2026-ercp-quality-indicators, asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis]
 ---
 
 ## Contents
@@ -44,6 +44,7 @@ sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-
 - **Dilated CBD** = **>6 mm** in adults with gallbladder in situ; **>8 mm** after cholecystectomy. ([[asge-2019-choledocholithiasis]])
 - Bilirubin >4 mg/dL *alone* or a dilated duct *alone* is only **intermediate** risk — it's the **combination** that is high-risk (the combined criterion raised specificity from 74% to 94% and positive predictive value (PPV) from 64% to 85% in validation).
 - **What changed from American Society for Gastrointestinal Endoscopy (ASGE) 2010** (readers carry the old version): 2010 counted **total bilirubin 1.8–4.0 mg/dL *plus* duct dilation**, *or* **total bilirubin >4 mg/dL alone**, as high-risk; 2019 requires **both** bilirubin >4 mg/dL **and** duct dilation. The 2010 criteria sent 20–30% of patients to diagnostic ERCP. ([[asge-2019-choledocholithiasis]])
+- **How well each version performs**, measured: the **2010** criteria had a positive predictive value of just **62%**, and in one retrospective study the high-risk category actually held a stone only **73.6%** of the time. The **2019** revision achieves **sensitivity 96.87% (95% CI 95.37–97.98)** and **positive predictive value 89.57% (95% CI 85.20–92.75)**. Even so, the surest way to drive diagnostic-only ERCP toward zero is **definitive visualization of the stone** — transabdominal ultrasound, intraoperative cholangiogram, [[mri-mrcp|MRCP]] or [[endoscopic-ultrasound|EUS]] — and **EUS before any ERCP in which a stone has not been confidently identified** on prior imaging, where EUS is available. ([[acg-asge-2026-ercp-quality-indicators]])
 - **Gallstone [[acute-pancreatitis|pancreatitis]] was removed** as an **intermediate**-risk criterion in the 2019 revision — the panel cited a lack of correlation with persistent CBD stones. (It was an intermediate-risk criterion in 2010.)
   - ⚠ *Provenance note:* the guideline's own sentence is internally contradictory as printed — "**The exception was** that gallstone pancreatitis **did** correlate with increased risk of choledocholithiasis in these series" — after stating that the very strong/strong predictors *were* associated with increased odds. Read with its "the exception was" framing and with the panel's action (dropping the criterion), the intended sense is **did *not* correlate**; a "not" appears to be missing in the published text.
 - **EUS and MRCP have comparable high accuracy** for detecting CBD stones — choose by local availability/expertise. ([[asge-2019-choledocholithiasis]])
@@ -106,3 +107,4 @@ sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-
 3. [[asge-2021-cholangitis|ASGE Guideline: Management of Acute Cholangitis (2021)]]
 4. [[jagtap-2026-urgent-vs-early-ercp-cholangitis|Urgent versus Early ERCP in Mild-to-Moderate Acute Cholangitis: A Randomised Controlled Trial (Jagtap 2026)]]
 5. [[aloysius-2026-ercp-timing-septic-shock-cholangitis|Vasopressor-Indexed Timing of ERCP and Survival in Septic Shock from Tokyo Grade III Cholangitis (Aloysius 2026, DDW abstract)]]
+6. [[acg-asge-2026-ercp-quality-indicators|ACG/ASGE 2026: Quality Indicators for ERCP]]

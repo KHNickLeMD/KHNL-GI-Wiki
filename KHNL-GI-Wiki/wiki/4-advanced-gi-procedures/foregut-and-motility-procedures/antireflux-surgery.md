@@ -3,8 +3,8 @@ title: "Antireflux Surgery"
 category: advanced-procedure
 tags: [gerd, antireflux-surgery, fundoplication, nissen, msa, linx, tif, ctif, stretta, foregut, hiatal-hernia]
 created: 2026-06-01
-updated: 2026-10-05
-sources: [sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hrm-antireflux, afs-2023-transoral-incisionless-fundoplication, afs-2024-ge-valve-after-antireflux-surgery]
+updated: 2026-10-25
+sources: [sages-2024-hiatal-hernia-surgery, sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hrm-antireflux, afs-2023-transoral-incisionless-fundoplication, afs-2024-ge-valve-after-antireflux-surgery]
 ---
 
 *Surgical and endoscopic mechanical therapy for [[gerd|gastroesophageal reflux disease (GERD)]] — fundoplication, magnetic sphincter augmentation (MSA), and incisionless endoscopic alternatives ([[transoral-incisionless-fundoplication|transoral incisionless fundoplication (TIF)]]/combined hiatal hernia repair + TIF [cTIF]). Selection turns on **objective GERD confirmation**, **hiatal hernia size**, and **[[reflux-testing|Hill grade]]**; technique choice is largely values-based.*
@@ -152,6 +152,8 @@ All conditional recommendations — outcomes are broadly equivalent, so these ar
 
 Plus, after **any** procedure that included hiatal hernia repair: **the hiatal aperture should no longer be visible in the retroflexed view** (see [[hiatal-hernia]]).
 
+- **Repairing a type II–IV (paraesophageal) hernia is a different decision set** — whether to add a fundoplication at all, whether to use mesh, whether to operate on an asymptomatic hernia, and when to convert a recurrence to Roux-en-Y gastric bypass. SAGES 2024 answers all four; they live on **[[hiatal-hernia]]** ([[sages-2024-hiatal-hernia-surgery]]). The one graded position: **add a fundoplication** (conditional, low certainty) — objective reflux relative risk 0.31, recurrence 0.55, leak 0.33, at the cost of late dysphagia (relative risk 2.94). **All the comparative data used a complete wrap**; partial-versus-complete in this population rests on indirect evidence only.
+
 ⚠ **The radial reference point changes after surgery.** Endoscopic radial nomenclature is **anterior = 12 o'clock, posterior = 6 o'clock, greater curve = 3 o'clock, lesser curve = 9 o'clock**. The apex of the **angle of His sits at ~3–4 o'clock**, and every fundoplication begins there. The Collaborative adopted **the apex of the angle of His — not anatomic anterior/posterior — as the endoscopic point of reference**, which is why an operation called "posterior" laparoscopically does not map onto "posterior" endoscopically.
 
 **Technique — this is what prevents under-grading:**
@@ -194,3 +196,4 @@ Plus, after **any** procedure that included hiatal hernia repair: **the hiatal a
 4. [[padova-2025-hrm-antireflux|Padova Consensus: High-Resolution Manometry Before and After Antireflux Surgery]]
 5. [[afs-2023-transoral-incisionless-fundoplication|American Foregut Society White Paper on Transoral Incisionless Fundoplication (2023)]]
 6. [[afs-2024-ge-valve-after-antireflux-surgery|American Foregut Society White Paper on the Endoscopic Assessment of the Gastroesophageal Valve After Anti-Reflux Surgery (2024)]]
+7. [[sages-2024-hiatal-hernia-surgery|SAGES 2024: Guidelines for the Surgical Treatment of Hiatal Hernias]]

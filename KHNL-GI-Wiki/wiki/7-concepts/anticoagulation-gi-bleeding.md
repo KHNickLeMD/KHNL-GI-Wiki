@@ -3,8 +3,8 @@ title: "Anticoagulation Management in GI Bleeding and Periendoscopic Period"
 category: concept
 tags: [anticoagulation, antiplatelets, gi-bleeding, periendoscopic, doac, warfarin, bridging]
 created: 2026-05-15
-updated: 2026-09-06
-sources: [acg-cag-2022-anticoag-gi-bleeding, asge-2016-antithrombotic]
+updated: 2026-10-25
+sources: [asge-acg-2024-common-endoscopy-quality-indicators, acg-cag-2022-anticoag-gi-bleeding, asge-2016-antithrombotic]
 ---
 
 ## Contents
@@ -257,6 +257,9 @@ For patients at low thromboembolic risk on DOACs:
 
 Quick-reference duration-of-action, elective hold, and reversal by agent (American Society for Gastrointestinal Endoscopy [ASGE] 2016, Table 2 erratum-corrected). Complements the ACG/CAG framework above; the ACG/CAG bridging and reversal-agent stances govern where the two differ (see Sources note).
 
+> [!pitfall] Aspirin gets stopped before endoscopy when it should not be
+> **Almost every endoscopic procedure can be done safely on 81–325 mg of daily aspirin**, and current guidance is **against interrupting aspirin taken for secondary cardiovascular prevention**. The 2024 quality document names inappropriate aspirin cessation as a frequent, educable error and a ready quality-improvement target for an endoscopy unit. It likewise notes that **cold snare resection of small polyps on clopidogrel may not require cessation**. Having a documented antithrombotic plan before the procedure is itself a priority quality indicator — see [[endoscopy-quality-indicators]]. ([[asge-acg-2024-common-endoscopy-quality-indicators]])
+
 | Agent (class) | Duration of action | Elective (pre-procedure) | Urgent reversal |
 |---|---|---|---|
 | Aspirin (APA) | 7-10 d | NA in Table 2 — ASGE Rec: low-dose ASA may be **continued** periendoscopically | Hold; can give platelets |
@@ -331,7 +334,7 @@ The "1–2 days" in the ACG/CAG framework above is the typical case; **ASGE 2016
 
 ## See Also
 
-[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-ultrasound]], [[upper-gi-bleeding]], [[cirrhosis-hemostasis]], [[preprocedure-testing]], [[ercp]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[poem]], [[radiofrequency-ablation]], [[capsule-endoscopy]], [[argon-plasma-coagulation]], [[enteral-access]], [[endoscopic-hemostasis]]
+[[endoscopy-quality-indicators]], [[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-ultrasound]], [[upper-gi-bleeding]], [[cirrhosis-hemostasis]], [[preprocedure-testing]], [[ercp]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[poem]], [[radiofrequency-ablation]], [[capsule-endoscopy]], [[argon-plasma-coagulation]], [[enteral-access]], [[endoscopic-hemostasis]]
 
 ---
 
@@ -339,3 +342,4 @@ The "1–2 days" in the ACG/CAG framework above is the typical case; **ASGE 2016
 
 1. [[acg-cag-2022-anticoag-gi-bleeding|ACG/CAG 2022: Management of Anticoagulants and Antiplatelets During Acute GI Bleeding and the Periendoscopic Period]]
 2. [[asge-2016-antithrombotic|ASGE 2016: The Management of Antithrombotic Agents for Patients Undergoing GI Endoscopy]]
+3. [[asge-acg-2024-common-endoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators Common to All GI Endoscopic Procedures]]

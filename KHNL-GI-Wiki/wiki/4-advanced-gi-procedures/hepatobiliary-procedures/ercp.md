@@ -3,8 +3,8 @@ title: "ERCP (Endoscopic Retrograde Cholangiopancreatography)"
 category: advanced-procedure
 tags: [ercp, biliary, pancreatic, hepatobiliary, sphincterotomy, stent, stone-extraction]
 created: 2026-05-16
-updated: 2026-10-20
-sources: [asge-2023-ergonomics, asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, aga-2026-electrosurgery, aga-2021-gi-perforations-endoscopic-management, aga-2016-infection-ercp-endoscopes, aga-2017-mstf-endoscope-reprocessing-commentary, stapfer-2000-duodenal-perforation-ercp]
+updated: 2026-10-25
+sources: [acg-asge-2026-ercp-quality-indicators, asge-2023-ergonomics, asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, aga-2026-electrosurgery, aga-2021-gi-perforations-endoscopic-management, aga-2016-infection-ercp-endoscopes, aga-2017-mstf-endoscope-reprocessing-commentary, stapfer-2000-duodenal-perforation-ercp]
 ---
 
 *Referenced in [[acute-pancreatitis]] (indications/timing) and [[biliary-stricture]] (tissue sampling, drainage). See [[endoscopic-ultrasound]] for combined endoscopic ultrasound (EUS) + endoscopic retrograde cholangiopancreatography (ERCP) approach. Now almost exclusively therapeutic — successful cholangiography with relief of obstruction is achievable in >90% of patients [[asge-2015-ercp-benign-biliary]].*
@@ -127,7 +127,12 @@ sources: [asge-2023-ergonomics, asge-2024-therapeutic-eus-biliary, asge-2024-chr
 
 ## Quality Metrics
 
-Benchmarks stated in [[asge-2015-ercp-benign-biliary]]:
+**The measured indicator set lives on [[ercp-quality-indicators]]** — 13 indicators with their strength grades, measure types and targets, the cannulation and stone-extraction denominators, the adverse-event benchmarks and the consensus PEP definition ([[acg-asge-2026-ercp-quality-indicators]]). The five that matter most in daily practice:
+
+- **Accepted, documented indication >98%** · **deep cannulation of a native papilla >90%** · **extrahepatic stone extraction >90%** · **rectal NSAID with an intact papilla >90%** · **unplanned hospital visit within 30 days <15%**.
+- **Rectal indomethacin or diclofenac is now a 1A-graded indicator in *unselected* patients**, not just high-risk ones — the single biggest practice change in the 2026 revision, against current delivery to well under half of patients.
+
+Procedural-success benchmarks from [[asge-2015-ercp-benign-biliary]]:
 
 | Metric | Target |
 |---|---|
@@ -136,32 +141,31 @@ Benchmarks stated in [[asge-2015-ercp-benign-biliary]]:
 | Overall adverse-event rate (sphincterotomy + stone extraction, expert hands) | **~5%** |
 | Mortality (expert hands) | **<1%** |
 
-- The **native-papilla cannulation-rate** benchmark, appropriate-indication rate, and PEP-rate target are set in the ASGE/ACG *Quality Indicators for ERCP* document, not in the sources cited on this page.
-
 ---
 
 ## See Also
 
-[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[biliary-stricture]], [[choledocholithiasis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[eus-guided-biliary-drainage]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]], [[acute-cholecystitis]], [[anticoagulation-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[device-assisted-enteroscopy]], [[electrosurgery]], [[endoscopic-hemostasis]], [[bariatric-surgery]], [[ampullary-adenoma]], [[fish]], [[endoscopic-management-of-perforation]], [[endoscope-reprocessing]], [[endoscopy-ergonomics]], [[endoscopy-sedation]]
+[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[biliary-stricture]], [[choledocholithiasis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[eus-guided-biliary-drainage]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]], [[acute-cholecystitis]], [[anticoagulation-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[device-assisted-enteroscopy]], [[electrosurgery]], [[endoscopic-hemostasis]], [[bariatric-surgery]], [[ampullary-adenoma]], [[fish]], [[endoscopic-management-of-perforation]], [[endoscope-reprocessing]], [[endoscopy-ergonomics]], [[endoscopy-sedation]], [[ercp-quality-indicators]]
 
 ---
 
 ## Sources
 
-1. [[asge-2024-therapeutic-eus-biliary|ASGE Guideline: Role of Therapeutic EUS in Biliary Tract Disorders (2024)]]
-2. [[asge-2024-chronic-pancreatitis-endoscopy|ASGE Guideline: Role of Endoscopy in Management of Chronic Pancreatitis (2024)]]
-3. [[asge-2023-post-ercp-pancreatitis|ASGE Guideline: Post-ERCP Pancreatitis Prevention (2023)]]
-4. [[asge-2021-cholangitis|ASGE Guideline: Management of Acute Cholangitis (2021)]]
-5. [[asge-2019-choledocholithiasis|ASGE Guideline: Endoscopic Management of Choledocholithiasis (2019)]]
-6. [[asge-2023-post-transplant-biliary-strictures|ASGE Guideline on Management of Post–Liver Transplant Biliary Strictures: Summary and Recommendations (2023)]]
-7. [[asge-2015-ercp-benign-biliary|ASGE Guideline: The Role of ERCP in Benign Diseases of the Biliary Tract (2015)]]
-8. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
-9. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis: Expert Review]]
-10. [[jagtap-2026-urgent-vs-early-ercp-cholangitis|Urgent versus Early ERCP in Mild-to-Moderate Acute Cholangitis: A Randomised Controlled Trial (Jagtap 2026)]]
-11. [[aloysius-2026-ercp-timing-septic-shock-cholangitis|Vasopressor-Indexed Timing of ERCP and Survival in Septic Shock from Tokyo Grade III Cholangitis (Aloysius 2026, DDW abstract)]]
-12. [[aga-2026-electrosurgery|AGA Clinical Practice Update on the Use of Electrosurgery in Therapeutic Endoscopy: Expert Review (2026)]]
-13. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review (2021)]]
-14. [[aga-2016-infection-ercp-endoscopes|AGA Clinical Practice Update: Commentary — Infection Using ERCP Endoscopes (2016)]]
-15. [[aga-2017-mstf-endoscope-reprocessing-commentary|AGA Clinical Practice Update: Commentary on the 2016 Multi-Society Task Force Endoscope Reprocessing Guidelines (2017)]]
-16. [[asge-2023-ergonomics|ASGE Guideline on the Role of Ergonomics for Prevention of Endoscopy-Related Injury: Summary and Recommendations (2023)]]
-17. [[stapfer-2000-duodenal-perforation-ercp|Management of Duodenal Perforation After Endoscopic Retrograde Cholangiopancreatography and Sphincterotomy]]
+1. [[acg-asge-2026-ercp-quality-indicators|ACG/ASGE 2026: Quality Indicators for ERCP]]
+2. [[asge-2024-therapeutic-eus-biliary|ASGE Guideline: Role of Therapeutic EUS in Biliary Tract Disorders (2024)]]
+3. [[asge-2024-chronic-pancreatitis-endoscopy|ASGE Guideline: Role of Endoscopy in Management of Chronic Pancreatitis (2024)]]
+4. [[asge-2023-post-ercp-pancreatitis|ASGE Guideline: Post-ERCP Pancreatitis Prevention (2023)]]
+5. [[asge-2021-cholangitis|ASGE Guideline: Management of Acute Cholangitis (2021)]]
+6. [[asge-2019-choledocholithiasis|ASGE Guideline: Endoscopic Management of Choledocholithiasis (2019)]]
+7. [[asge-2023-post-transplant-biliary-strictures|ASGE Guideline on Management of Post–Liver Transplant Biliary Strictures: Summary and Recommendations (2023)]]
+8. [[asge-2015-ercp-benign-biliary|ASGE Guideline: The Role of ERCP in Benign Diseases of the Biliary Tract (2015)]]
+9. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
+10. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis: Expert Review]]
+11. [[jagtap-2026-urgent-vs-early-ercp-cholangitis|Urgent versus Early ERCP in Mild-to-Moderate Acute Cholangitis: A Randomised Controlled Trial (Jagtap 2026)]]
+12. [[aloysius-2026-ercp-timing-septic-shock-cholangitis|Vasopressor-Indexed Timing of ERCP and Survival in Septic Shock from Tokyo Grade III Cholangitis (Aloysius 2026, DDW abstract)]]
+13. [[aga-2026-electrosurgery|AGA Clinical Practice Update on the Use of Electrosurgery in Therapeutic Endoscopy: Expert Review (2026)]]
+14. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review (2021)]]
+15. [[aga-2016-infection-ercp-endoscopes|AGA Clinical Practice Update: Commentary — Infection Using ERCP Endoscopes (2016)]]
+16. [[aga-2017-mstf-endoscope-reprocessing-commentary|AGA Clinical Practice Update: Commentary on the 2016 Multi-Society Task Force Endoscope Reprocessing Guidelines (2017)]]
+17. [[asge-2023-ergonomics|ASGE Guideline on the Role of Ergonomics for Prevention of Endoscopy-Related Injury: Summary and Recommendations (2023)]]
+18. [[stapfer-2000-duodenal-perforation-ercp|Management of Duodenal Perforation After Endoscopic Retrograde Cholangiopancreatography and Sphincterotomy]]
