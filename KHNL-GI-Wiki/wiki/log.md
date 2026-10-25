@@ -6,6 +6,21 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-25] update | Card pass — deck slimming (20 dedup verdicts, 1 merge); no page eligible for new cards
+
+**Deck slimming (ran first, per CARDS → *Slim the deck*):** `anki-dupes.mjs` offered 20 unjudged candidate pairs (323 outstanding at >=0.4). All 20 judged and marked in `dedup-ledger.tsv`.
+
+- **1 merged** — `[f01003]` on `1-disease-scripts/.../gerd.md` and `[af1004]` on `7-concepts/reflux-testing.md` tested the same fact (which patient gets reflux monitoring off therapy vs on therapy, same source `acg-2021-gerd`). Keeper is the reflux-testing note (one-owner: the page holding the reflux-testing protocol); it gained `{also:gerd}` and one absorbed Back Extra line (confirm adherence and the pre-meal dosing window; stop the PPI if on-therapy testing is negative). The GERD note moved under `# Retired` as `merged into reflux-testing [af1004]`, id kept.
+- **19 distinct** — each pair separated by a different drug, population, gas, threshold or decision: infliximab vs certolizumab vs adalimumab dosing (Crohn's); guselkumab UC vs mirikizumab Crohn's; midazolam vs meperidine sedation dosing; TCA vs duloxetine/mirtazapine neuromodulator dosing; CSPH threshold vs normal/mild HVPG bands; adenoma detection rate >=35% routine vs >=50% after a positive stool test; hemochromatosis biopsy ferritin vs treatment-start ferritin; juvenile polyposis vs Peutz-Jeghers genetic-evaluation triggers; methane vs hydrogen breath-test cut-offs; cyanoacrylate preparation choice vs injection speed; carvedilol usual vs lower starting regimen; and the rest.
+
+**Rebuild:** `build-anki.mjs` exit 0, **3925 notes** written to `dist/khnl-gi-wiki.txt`; no problems reported on either touched file.
+
+**New cards written: none — nothing eligible.** 333 topic pages, 332 card files, every one carrying a `page_updated` equal to its page's `updated:` — no unfinished page to resume and no stale card file. The single page with no card file is `7-concepts/telemedicine-in-gastroenterology.md`, re-reviewed this pass and again left uncarded: its content is care delivery and practice management (visit-format selection, state licensure, coding and place-of-service modifiers, documentation items, clinic staffing, equity in video uptake), which does not change what a gastroenterologist orders, prescribes, scopes, resects, refers or stops, and no node in Nick's tag tree covers it. Per *Quality over quota*, the pass wrote no cards rather than lowering the bar.
+
+**Not done:** nothing committed or pushed (as instructed).
+
+---
+
 ## [2026-10-25] lint | Backlog mode, 06:00 pass — 3 ingests (teduglutide label, SAGES 2013 hiatal hernia, ASGE 2014 dysphagia) and the Barrett's screening commentary finally propagated
 
 **Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands; title amended at the end to match what actually happened.
