@@ -3,8 +3,8 @@ title: "Peutz-Jeghers Syndrome"
 category: disease-script
 tags: [peutz-jeghers, pjs, stk11, lkb1, hamartoma, hereditary-crc, pancreatic-cancer, small-bowel, intussusception, genetic-testing]
 created: 2026-05-19
-updated: 2026-09-08
-sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis, asge-2022-pancreatic-cancer-screening]
+updated: 2026-10-26
+sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis, asge-2022-pancreatic-cancer-screening, caps-2020-pancreatic-surveillance]
 ---
 
 ## Contents
@@ -114,6 +114,7 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 
 - Ideally **alternate MRCP and EUS** on an annual basis — they are complementary
 - **[[asge-2022-pancreatic-cancer-screening|American Society for Gastrointestinal Endoscopy (ASGE) 2022]] agrees on the age and supplies the qualifier USMSTF omits:** start at **age 35 *or* 10 years earlier than the youngest relative with pancreatic cancer** *(Rec 6f)*, screening **annually** *(Rec 4; conditional, very low)*. The family-history clause is absent from the USMSTF statement, so a kindred with an early pancreatic cancer is the case in which the two guidelines' start ages come apart
+- ⚠ **A third start age is in circulation.** [[caps-2020-pancreatic-surveillance|CAPS 2020]] puts it at **age 40** (67.2% consensus, grade 2 — "probably do it"), having voted down ages 30 and 35; surveillance is recommended **regardless of family history**. ASGE 2022 is the newer tier-1 document, so **35 stays** — but readers carry the CAPS number. Decision detail on [[pancreatic-cancer-screening]]
 - **Modality choice** [[asge-2022-pancreatic-cancer-screening]]: PJS is one of the two conditions ASGE names as **very high risk** (with [[fammm-syndrome|familial atypical multiple mole melanoma (FAMMM)]]), for which **EUS may be preferred as the initial test** — and preferred again when it can be combined with the screening EGD/colonoscopy the patient is already due. **MRI may be preferred** when it can be combined with **MR enterography** for the small-bowel surveillance above, or when the patient is at higher anesthesia/procedural risk. Technique when MRI is used: **intravenous (IV) contrast, minimum 1.5-T magnet** (3-T may add small-lesion detection)
 - The Cancer of the Pancreas Screening (CAPS) Consortium adds **fasting glucose + hemoglobin A1c (HbA1c)** at initiation; **USMSTF 2022 explicitly withholds a recommendation on this** pending definitive data — a non-recommendation, not a recommendation against
 - Comparators, **as reported inside [[aga-2022-hamartomatous-polyposis|USMSTF 2022]]**: the CAPS consortium recommends MRI/MRCP and/or EUS **every 1–2 years from age 40**; **National Comprehensive Cancer Network (NCCN) starts at 30–35** (its Table 4 prints `~30–35, q1–2 y`, with the qualifier that "based on clinical judgment, early initiation age may be considered, such as 10 years younger than the earliest age of onset in the family"). USMSTF chose **annual from 35** because pancreatic cancers have been reported in PJS **before age 40**
@@ -203,3 +204,4 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
 2. [[aga-2022-hamartomatous-polyposis|US Multi-Society Task Force Guideline: GI Hamartomatous Polyposis Syndromes (2022)]]
 3. [[asge-2022-pancreatic-cancer-screening|ASGE Guideline on Screening for Pancreatic Cancer in Individuals with Genetic Susceptibility: Summary and Recommendations (2022)]]
+4. [[caps-2020-pancreatic-surveillance|CAPS 2020: Management of Patients with Increased Risk for Familial Pancreatic Cancer — Updated Recommendations from the International Cancer of the Pancreas Screening (CAPS) Consortium]]

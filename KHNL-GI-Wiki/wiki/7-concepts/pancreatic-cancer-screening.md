@@ -3,8 +3,8 @@ title: "High-Risk Pancreatic Cancer Surveillance"
 category: concept
 tags: [pancreatic-cancer, screening, surveillance, genetics, brca, eus, mri]
 created: 2026-06-04
-updated: 2026-10-06
-sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer, aga-2020-pancreas-cancer-screening]
+updated: 2026-10-26
+sources: [asge-2022-pancreatic-cancer-screening, caps-2020-pancreatic-surveillance, acg-2015-hereditary-gi-cancer, aga-2020-pancreas-cancer-screening]
 ---
 
 Screening asymptomatic individuals with genetic susceptibility to [[pancreatic-cancer|pancreatic ductal adenocarcinoma]] (PDAC) to detect resectable disease or precursor lesions and shift the stage at diagnosis. The Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework here is [[asge-2022-pancreatic-cancer-screening|American Society for Gastrointestinal Endoscopy (ASGE) 2022]]; eligibility criteria, genetic testing, and management of findings draw additionally on [[acg-2015-hereditary-gi-cancer|American College of Gastroenterology (ACG) 2015]]. [[aga-2020-pancreas-cancer-screening|American Gastroenterological Association (AGA) 2020]] supplies the lesion-based surveillance-interval ladder, the new-onset-diabetes trigger, the stop rule, and the program requirements. For the disease itself (staging, tissue acquisition, treatment) see [[pancreatic-cancer]].
@@ -19,6 +19,7 @@ Screening asymptomatic individuals with genetic susceptibility to [[pancreatic-c
 - [[#Modality]]
 - [[#Frequency]]
 - [[#What an Abnormal Finding Triggers]]
+  - [[#What Each Finding Triggers — the CAPS thresholds]]
 - [[#Yield and Harms]]
 - [[#Open Questions]]
 - [[#See Also]]
@@ -83,6 +84,19 @@ Screening is suggested for individuals at increased risk **because of genetic su
 | Interval | Lesion-based ladder (below, BPA 9) | **Net-new** — ASGE gives only "annual"; adopted |
 | Stop rule, diabetes trigger, program requirements | BPA 12, 9, 4/10/11/13 | **Net-new** — adopted |
 
+**Where [[caps-2020-pancreatic-surveillance|CAPS 2020]] sits.** Tier-1 international consensus, **older than ASGE 2022** but newer than AGA 2020 and ACG 2015. It is the source of the lesion strata and the operative thresholds below; where it conflicts with ASGE 2022 on eligibility, ASGE wins.
+
+| Issue | [[caps-2020-pancreatic-surveillance\|CAPS 2020]] | Resolution |
+|---|---|---|
+| Family history for BRCA2, PALB2, ATM, Lynch | **Required** — ≥1 affected first-degree relative (BRCA2 also qualifies on ≥2 affected relatives of any degree) | Superseded for BRCA2/PALB2 — follow ASGE 2022 (screen all carriers). **Concordant** for ATM and Lynch |
+| Family history for BRCA1 | ⚠ **No recommendation** — the criterion reached only 69.6%, below CAPS's 75% threshold, so it is graded 3. Surveillance of BRCA1 carriers themselves *did* reach consensus | Follow ASGE 2022 (screen all carriers); CAPS supplies no competing rule |
+| Peutz-Jeghers start age | **40** | Superseded — ASGE 2022's **35** governs |
+| CDKN2A / FAMMM start age | **40**, and surveillance **regardless of family history** (77%, grade 1) | **Concordant** with ASGE 2022 |
+| Familial kindred, no mutation | **50 or 55**, or 10 y younger than the youngest affected relative | **Concordant**; CAPS adds that **age 45 was voted down** (grade 4) |
+| Hereditary pancreatitis | **40, or 20 years after the first pancreatitis attack**, irrespective of gene status | **Net-new** — ASGE gives age 40 only, with no post-attack clause |
+| Lesion strata, operative thresholds, test-selection rules | Statements 5–28 | **Net-new** — adopted below |
+| Age to stop surveillance | ⚠ **No consensus reached** | AGA 2020's stop rule stands unchallenged |
+
 ## When Not to Screen
 
 - **Average-risk adults** — US Preventive Services Task Force (USPSTF) 2019 recommends against screening; that statement explicitly does **not** apply to inherited genetic susceptibility. [[aga-2020-pancreas-cancer-screening|AGA 2020]] states it as a hard negative: *"Clinicians should not screen average-risk individuals for pancreas cancer"* (BPA 5).
@@ -97,6 +111,8 @@ Screen with [[endoscopic-ultrasound|EUS]], MRI/[[mri-mrcp|magnetic resonance cho
 > ⚠ **Contradiction — surfaced, not followed.** [[aga-2020-pancreas-cancer-screening|AGA 2020]] (BPA 7) directs that MRI and EUS be used **in combination** as the preferred modalities, on the reasoning that they are complementary rather than redundant — **MRI is more sensitive for cystic lesions, EUS for solid lesions**. [[asge-2022-pancreatic-cancer-screening|ASGE 2022]] is the newer tier-1 guideline and permits either alone or alternating; **that is what this page follows**. The complementarity argument still stands as the reason to alternate rather than repeat one modality.
 
 - **[[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] has been supplanted** as a screening modality because of pancreatitis risk ([[aga-2020-pancreas-cancer-screening|AGA 2020]]).
+- **CT and abdominal ultrasound are not surveillance tests** — [[caps-2020-pancreatic-surveillance|CAPS 2020]] graded CT **4 ("probably don't")** and abdominal ultrasound **5 ("definitely don't")** at both baseline and follow-up. CT has a role only *after* a finding (above). CAPS's baseline set is **MRI/MRCP + EUS + fasting glucose and/or HbA1c**; ⚠ it lists alternating MRI/MRCP and EUS in follow-up but states that **no consensus was reached on whether or how to alternate**, so no schedule is given here.
+- **Carbohydrate antigen 19-9 (CA 19-9) is not a routine surveillance test** — CAPS restricts it to individuals **with worrisome features on imaging** (76.5%, grade 2). **Fasting glucose and/or HbA1c, by contrast, are routine** (76.1%, grade 2).
 
 | | EUS may be preferred | MRI may be preferred |
 |---|---|---|
@@ -120,7 +136,18 @@ Screen with [[endoscopic-ultrasound|EUS]], MRI/[[mri-mrcp|magnetic resonance cho
 | **High-risk** lesion, *surgical resection not planned* | EUS within **3 months** |
 
 - ⚠ **New-onset diabetes in a high-risk individual is itself a trigger** — it should prompt additional diagnostic studies or a change in surveillance interval, independent of imaging findings (BPA 9). Background: new-onset diabetes typically **precedes** the cancer diagnosis by ~**36 months**.
-- ⚠ AGA 2020 does **not** define what makes a lesion low-risk vs indeterminate vs high-risk — the ladder's strata are named but not specified, and the Clinical Practice Update (CPU) defers the assignment to the multidisciplinary team. Neither ACG 2015 nor ASGE 2022 supplies the criteria either; they are in the CAPS consortium recommendations (Goggins 2020). The sporadic-cyst worrisome-feature criteria are not a substitute.
+- ⚠ AGA 2020 does **not** define what makes a lesion low-risk vs indeterminate vs high-risk — the ladder's strata are named but not specified, and the Clinical Practice Update (CPU) defers the assignment to the multidisciplinary team. Nor do ACG 2015 or ASGE 2022. **[[caps-2020-pancreatic-surveillance|CAPS 2020]] supplies the findings behind each interval** (consensus statements 9–14, 18, 22; its grades: **1** = definitely do it, **2** = probably do it):
+
+| Finding | Interval | Grade |
+|---|---|---|
+| No pancreatic abnormality | **12 months** | 2 |
+| **Low-risk:** pancreatic lobulation, or a cyst **without** worrisome features | **12 months** | 2 |
+| Small (**<1 cm**) non-functioning [[gastroenteropancreatic-neuroendocrine-tumors\|neuroendocrine tumour]] | **12 months** | 2 |
+| **CDKN2A p16 carrier** with new concerning findings not going to surgery — **mild main pancreatic duct (MPD) dilation, or a stricture without a mass** | **3–6 months** | 2 |
+| **Solid lesion of uncertain significance**, not referred for surgery | **3 months** | **1** |
+| **MPD stricture**, not referred for surgery | **within 3 months** | **1** |
+
+- CAPS adds two surveillance rules of its own: **smoking status does not change the interval** (76.8%, grade 2) — concordant with the smoking note below — and **new-onset diabetes in an individual already under surveillance prompts immediate investigation** (90.3%, grade 2), which is the same trigger AGA 2020 states.
 - Provide **smoking-cessation education** as part of the surveillance program — smoking is an independent PDAC risk factor in FPC families and smokers are diagnosed at an earlier age, though **no data support altering the surveillance strategy by smoking status**. In [[hereditary-pancreatitis|hereditary pancreatitis]], add a **low-fat diet** ([[acg-2015-hereditary-gi-cancer|ACG 2015]]).
 
 ## What an Abnormal Finding Triggers
@@ -132,7 +159,27 @@ Screen with [[endoscopic-ultrasound|EUS]], MRI/[[mri-mrcp|magnetic resonance cho
   - **What the program is aiming at** ([[aga-2020-pancreas-cancer-screening|AGA 2020]], BPA 8): *resectable stage I PDAC* and *high-risk precursor neoplasms* — IPMN with **high-grade dysplasia** and **some enlarged PanINs**. ⚠ The same CPU records that current imaging **cannot reliably detect or distinguish PanINs**, and lacks the specificity to separate low- from high-grade precursors — so part of the stated target is not reliably reachable with the recommended modalities.
 - **A pancreatic cystic lesion found in a hereditary-PDAC-prone family member carries a higher cancer risk than a sporadic cyst** and requires evaluation by a center experienced with high-risk individuals; the decision on **when to operate is difficult and is individualized after multidisciplinary assessment** ([[acg-2015-hereditary-gi-cancer|ACG 2015]], Rec 24, conditional/low).
 - **The one sourced operative threshold — branch-duct IPMN (BD-IPMN) ≥2 cm.** Cystic lesions are the **most common finding** on surveillance, and most are benign or low-grade dysplasia. ACG 2015 reports the CAPS consensus position: follow these patients **according to the international consensus guidelines for sporadic branch-duct IPMN**, with the **majority of the panel agreeing that surgery should be considered for branch-duct IPMN ≥2 cm**. The sporadic cyst criteria therefore *do* apply as the starting framework (they live on the pancreatic cysts page linked above), but ACG explicitly labels management of these cysts **"unclear."**
-- **Nothing beyond that.** None of the three guidelines gives a growth rate, main-duct threshold, or solid-lesion size that mandates surgery in a high-risk individual, and ASGE 2022 gives no operative guidance at all. [[aga-2020-pancreas-cancer-screening|AGA 2020]] scopes itself explicitly to *"primary screening rather than management of abnormal screening test results"* and states only that the decision belongs to a dedicated multidisciplinary team together with the individual and their family (BPA 10), with resection performed at **high-volume centers** (BPA 11). Operative thresholds in high-risk individuals are addressed by the CAPS consortium recommendations (Goggins 2020).
+- ⚠ **[[asge-2022-pancreatic-cancer-screening|ASGE 2022]] gives no operative guidance at all**, and [[aga-2020-pancreas-cancer-screening|AGA 2020]] scopes itself explicitly to *"primary screening rather than management of abnormal screening test results"* — the decision belongs to a dedicated multidisciplinary team with the individual and their family (BPA 10), with resection at **high-volume centers** (BPA 11).
+
+### What Each Finding Triggers — the CAPS thresholds
+
+*All from [[caps-2020-pancreatic-surveillance|CAPS 2020]]; grades are its own (**1** = definitely do it, **2** = probably do it, **4** = probably don't).*
+
+| Finding | Next test |
+|---|---|
+| **Solid lesion** | **CT** (grade 1) · **EUS-FNA** — always (70.1%, grade 2), or if **≥5 mm** (grade 1) |
+| **Cystic lesion with worrisome features** (mural nodule, solid component, duct dilation) | **EUS-FNA** (grade 2) |
+| **Asymptomatic MPD stricture *with* a suspicious mass** | **EUS-FNA** (grade 1); **surgery** (81.2%, grade 2) |
+| **Asymptomatic MPD stricture *without* a mass**, cause unknown | **CT** *and* **EUS-FNA** (grade 1 each) |
+
+**When to operate:**
+
+- **Solid lesion on [[endoscopic-ultrasound|EUS]]** (except biopsy-proven or highly suspicious neuroendocrine, autoimmune or other benign disease) → resect at **≥10 mm** (91.2%, grade 1) or **≥5 mm** (77.9%, grade 1). ⚠ **Resecting *regardless of size* was voted down** (64.7%, **grade 4 — probably don't**).
+- **[[pancreatic-cysts|IPMN]] in a high-risk individual** → resect for **any one** of six features, **all grade 1**: enhanced solid component (97.0%) · **MPD ≥10 mm** (97.0%) · symptoms — pancreatitis, jaundice, pain (95.5%) · mural nodule (91.0%) · abrupt MPD change with distal atrophy (91.0%) · thickened or enhanced cyst walls (76.1%). ⚠ **These are the high-risk-individual criteria, not the sporadic-cyst ones** on [[pancreatic-cysts]].
+- **Suspected cancer** → **oncological radical resection** (grade 1), **at a specialty centre** (grade 1). For a suspected small cancer (**max 1 cm, T1N0M0 on imaging**), **partial pancreatectomy is suitable** (89.6%, grade 2).
+
+> [!pearl] What the program is trying to catch, in CAPS's own words
+> A screen counts as a success when it finds and treats: a **resected cancer confined to the pancreas with negative margins** (grade 1, at baseline or at follow-up) · **IPMN with high-grade dysplasia** (grade 1) · **multifocal or unifocal PanIN-3** (grade 2) · a **pancreatic neuroendocrine tumour ≥10 mm** (grade 2) ([[caps-2020-pancreatic-surveillance]]).
 - **No management algorithm after a normal exam.** ASGE 2022 lists this explicitly as an unanswered question (below).
 
 ## Yield and Harms
@@ -156,12 +203,13 @@ Screen with [[endoscopic-ultrasound|EUS]], MRI/[[mri-mrcp|magnetic resonance cho
 
 ## See Also
 
-[[pancreatic-cancer]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[hereditary-pancreatitis]], [[pancreatic-cysts]], [[chronic-pancreatitis]], [[upper-endoscopy]], [[colonoscopy]], [[obesity]], [[hcc-surveillance]]
+[[pancreatic-cancer]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[hereditary-pancreatitis]], [[pancreatic-cysts]], [[chronic-pancreatitis]], [[upper-endoscopy]], [[colonoscopy]], [[obesity]], [[hcc-surveillance]], [[gastroenteropancreatic-neuroendocrine-tumors]]
 
 ---
 
 ## Sources
 
 1. [[asge-2022-pancreatic-cancer-screening|ASGE Guideline on Screening for Pancreatic Cancer in Individuals with Genetic Susceptibility: Summary and Recommendations (2022)]]
-2. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
-3. [[aga-2020-pancreas-cancer-screening|AGA Clinical Practice Update on Pancreas Cancer Screening in High-Risk Individuals: Expert Review (2020)]]
+2. [[caps-2020-pancreatic-surveillance|CAPS 2020: Management of Patients with Increased Risk for Familial Pancreatic Cancer — Updated Recommendations from the International Cancer of the Pancreas Screening (CAPS) Consortium]]
+3. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
+4. [[aga-2020-pancreas-cancer-screening|AGA Clinical Practice Update on Pancreas Cancer Screening in High-Risk Individuals: Expert Review (2020)]]

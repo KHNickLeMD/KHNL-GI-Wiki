@@ -3,8 +3,8 @@ title: "Botulinum Toxin (GI Indications)"
 category: med
 tags: [botulinum-toxin, botox, achalasia, anal-fissure, gastroparesis, sphincter, injection, les, pylorus]
 created: 2026-10-19
-updated: 2026-10-22
-sources: [acg-2020-achalasia, aga-2024-poem-advances, asge-2020-achalasia, acg-2021-anorectal-disorders, acg-2022-gastroparesis, aga-2025-gastroparesis, dallas-2025-flip-panometry, aga-2024-esophageal-immunity-infection, rome-v-2026-dgbi]
+updated: 2026-10-26
+sources: [ascrs-2023-anal-fissures, acg-2020-achalasia, aga-2024-poem-advances, asge-2020-achalasia, acg-2021-anorectal-disorders, acg-2022-gastroparesis, aga-2025-gastroparesis, dallas-2025-flip-panometry, aga-2024-esophageal-immunity-infection, rome-v-2026-dgbi]
 ---
 
 Botulinum toxin injected into a gastrointestinal (GI) sphincter or muscle to relax it. One drug, one technique, and a **sharply different recommendation at every site** — strongly recommended against at the pylorus, reserved for the unfit at the lower esophageal sphincter (LES), a graded second-line option at the anal sphincter.
@@ -86,6 +86,8 @@ Botulinum toxin injected into a gastrointestinal (GI) sphincter or muscle to rel
 - **Second-line, after a topical calcium channel blocker.** [[acg-2021-anorectal-disorders|ACG 2021]] suggests botulinum toxin A injection where CCB fails, or as an alternative to CCB (Conditional, Low).
 - **Healing 60–80%** — higher than placebo — but **recurrence up to 42%** and **temporary incontinence ~18%**.
 - It does not displace surgery: **lateral internal sphincterotomy remains the surgical treatment of choice** for chronic fissures that fail nonsurgical measures (Strong, High; healing 94–98%).
+- **[[ascrs-2023-anal-fissures|ASCRS 2023]] rates it first-line**, equivalent to topical therapy, with a modest healing gain second-line after topical failure (Strong/moderate, 1B) — a higher position than ACG's. Decision detail lives on [[anal-fissure]].
+- ⚠ **Dose does not buy healing here, and may cost continence.** Two meta-analyses: no dose dependency across 1,577 patients (healing 33%–96%, 5% transient incontinence); and with rising dose, healing fell slightly while **incontinence rose (RR 1.02) and recurrence rose (RR 1.04)** across 1,158 patients. Comparative trials used **20–60 units**; 20 units matched topical 2% diltiazem. ([[ascrs-2023-anal-fissures]])
 
 ---
 
@@ -113,3 +115,4 @@ No ingested source gives a dose, dilution, or number of injection sites for any 
 7. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
 8. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review]]
 9. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+10. [[ascrs-2023-anal-fissures|ASCRS 2023 Clinical Practice Guidelines for the Management of Anal Fissures]]
