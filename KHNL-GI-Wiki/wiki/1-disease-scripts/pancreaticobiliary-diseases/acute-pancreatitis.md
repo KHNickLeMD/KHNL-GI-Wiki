@@ -3,8 +3,8 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-10-05
-sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis, aga-2018-initial-management-acute-pancreatitis]
+updated: 2026-10-26
+sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis, aga-2018-initial-management-acute-pancreatitis, bsg-2017-common-bile-duct-stones]
 ---
 
 # Acute Pancreatitis
@@ -316,6 +316,8 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 - **Why same-admission:** among 998 patients discharged rather than undergoing early cholecystectomy, **18% were readmitted for recurrent biliary events vs 0%** (P < 0.0001), including **recurrent biliary pancreatitis in 8%**; many had severe disease.
 - **AGA makes this a Strong recommendation on moderate quality evidence** (Rec 7, [[aga-2018-initial-management-acute-pancreatitis]]), from the PONCHO RCT: same-admission cholecystectomy reduced the composite of mortality + gallstone-related complications (OR 0.24; 95% CI 0.09–0.61), readmission for recurrent pancreatitis (OR 0.25; 95% CI 0.07–0.90), and pancreaticobiliary complications (OR 0.24; 95% CI 0.09–0.61).
 - **The "operate later, operate more safely" argument does not hold:** same-admission surgery **did not differ from delayed surgery in conversion from laparoscopic to open, or in surgical difficulty**.
+- **Sphincterotomy for the patient who cannot have surgery is a partial substitute, and the page should say by how much.** Endoscopic sphincterotomy **significantly reduces recurrent pancreatitis but is less effective than cholecystectomy**, particularly at preventing *other* biliary complications; **the greatest risk reduction comes from having both**. ⚠ There is **insufficient evidence to perform routine sphincterotomy in everyone merely awaiting cholecystectomy** after mild gallstone pancreatitis. Consider elective [[ercp|ERCP]] with sphincterotomy in a patient who did not need ERCP acutely when there is **retained duct stone on imaging** *or* the patient is **unsuitable for cholecystectomy**. ([[bsg-2017-common-bile-duct-stones]])
+  - *⚠ On timing, [[bsg-2017-common-bile-duct-stones|BSG 2017]] allows cholecystectomy **within 2 weeks of presentation, preferably the same admission** (Moderate; weak) for mild gallstone pancreatitis. The table above follows the newer and stronger US recommendations — same admission.*
 
 ### 8. Alcohol Intervention
 
@@ -348,3 +350,4 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 7. [[asge-2023-post-ercp-pancreatitis|ASGE Guideline: Post-ERCP Pancreatitis Prevention (2023)]]
 8. [[aga-2020-cpu-pancreatic-necrosis|AGA Clinical Practice Update: Management of Pancreatic Necrosis (2020)]]
 9. [[aga-2018-initial-management-acute-pancreatitis|American Gastroenterological Association Institute Guideline on Initial Management of Acute Pancreatitis (2018)]]
+10. [[bsg-2017-common-bile-duct-stones|BSG 2017: Updated Guideline on the Management of Common Bile Duct Stones (CBDS)]]

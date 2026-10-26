@@ -3,8 +3,8 @@ title: "Ingested Foreign Body and Food Bolus Impaction"
 category: diagnostic-schema
 tags: [foreign-body, food-impaction, esophagus, button-battery, magnets, sharp-pointed-object, body-packing, coins, endoscopy]
 created: 2026-08-28
-updated: 2026-09-06
-sources: [asge-2011-foreign-body-ingestion]
+updated: 2026-10-26
+sources: [esge-2016-foreign-bodies, asge-2011-foreign-body-ingestion]
 ---
 
 ## Contents
@@ -51,7 +51,7 @@ sources: [asge-2011-foreign-body-ingestion]
 
 ### Where Objects Get Stuck
 
-- Impaction, perforation, or obstruction occurs at **GI angulations or narrowing**.
+- Impaction, perforation, or obstruction occurs at **GI angulations or narrowing**. **[[esge-2016-foreign-bodies|ESGE 2016]] names the full set:** physiological **narrowings** — upper esophageal sphincter, **aortic arch**, **left main stem bronchus**, lower esophageal sphincter, pylorus, **ileocecal valve**, anus — plus one physiological **angulation, the duodenal sweep**.
 - Named levels in the guideline:
   - **Cricopharyngeus / upper esophageal sphincter** — proximal impaction; ear, nose, and throat (ENT) consult advised at or above this level; direct laryngoscopy or rigid esophagoscopy may be needed.
   - **Esophagus** — the pressure point; anything lodged here has a 24-hour ceiling.
@@ -67,10 +67,16 @@ sources: [asge-2011-foreign-body-ingestion]
 
 ### Underlying Esophageal Pathology Behind a Food Bolus Impaction
 
-| Cause | Detail |
-|---|---|
-| [[eosinophilic-esophagitis\|Eosinophilic esophagitis]] | Reported in **as many as 33%** of patients with food bolus obstruction — must be actively looked for, not assumed absent |
-| Esophageal stricture | Present in a subset; dilation after extraction is generally safe when a stricture is found, and reduces recurrence |
+⚠ **An underlying esophageal pathology is found in more than 75% of adults presenting with a food bolus impaction** — the impaction is a presenting sign of disease, not an accident. ([[esge-2016-foreign-bodies]])
+
+| Cause | Frequency among food bolus impactions | Detail |
+|---|---|---|
+| **[[esophageal-stricture\|Esophageal stricture]]** (mainly peptic) | **>50%** | Dilation after extraction is generally safe when a stricture is found, and reduces recurrence. **Treat with a [[proton-pump-inhibitors\|proton pump inhibitor]] and dilate 2–4 weeks later** ([[esge-2016-foreign-bodies]]) |
+| **[[eosinophilic-esophagitis\|Eosinophilic esophagitis]]** | **~40%** ([[esge-2016-foreign-bodies]]); "as many as 33%" in the older [[asge-2011-foreign-body-ingestion\|ASGE 2011]] | Must be actively looked for, not assumed absent — biopsy at the same procedure |
+| **[[esophageal-cancer\|Esophageal cancer]]** | Less frequent | — |
+| **Motility disorder** — [[achalasia]], diffuse esophageal spasm, nutcracker esophagus | Less frequent | Workup: [[dysphagia]] |
+
+- **Therefore: a diagnostic work-up for the underlying disease, including histological evaluation, is part of the same episode of care as the therapeutic endoscopy** — not a follow-up item (strong recommendation, [[esge-2016-foreign-bodies]]).
 
 ### Conditions to Exclude at Presentation
 
@@ -116,7 +122,32 @@ flowchart TD
 
 ### Step 3 — Timing Triage
 
-*ASGE 2011, Table 2. "Urgent" is anchored numerically in the text: esophageal foreign objects and food impactions should be removed **within 24 hours** — delay reduces the likelihood of successful removal and increases complications including perforation. The guideline attaches **no hour value to "emergent"** (it is defined by indication, not by a clock).*
+**All three bands now have hour values** ([[esge-2016-foreign-bodies|ESGE 2016]], the newer guideline — [[asge-2011-foreign-body-ingestion|ASGE 2011]] defines "emergent" by indication only and gives it no clock):
+
+| Band | Window |
+|---|---|
+| **Emergent** | **preferably within 2 hours, at the latest within 6 hours** |
+| **Urgent** | **within 24 hours** |
+| **Nonurgent** | **within 72 hours** |
+
+> [!pitfall] The 24-hour esophageal ceiling is not arbitrary
+> **Major complications — perforation with or without mediastinitis, retropharyngeal abscess, aorto-esophageal fistula — are 14.1 times more frequent when a foreign body has been impacted in the esophagus for more than 24 hours.** Delay also lowers the chance of getting it out at all. ([[esge-2016-foreign-bodies]])
+
+**Object × location, at a glance** ([[esge-2016-foreign-bodies]] Table 3):
+
+| Object | Esophagus | Stomach / small bowel |
+|---|---|---|
+| **Battery** | **Emergent** | **Urgent** ⚠ *see the note below — this differs from ASGE 2011* |
+| **Magnet** | **Urgent** | **Urgent** |
+| **Sharp-pointed** | **Emergent** | **Urgent** |
+| **Blunt, small (<2–2.5 cm diameter)** | **Urgent** | **Nonurgent** |
+| **Blunt, medium (>2–2.5 cm diameter)** | **Urgent** | **Nonurgent** |
+| **Large (>5–6 cm)** | **Urgent** | **Urgent** |
+| **Food bolus** | **Emergent** — *urgent if asymptomatic or without complete obstruction* | — |
+
+> ⚠ **Contradiction: the gastric battery.** [[asge-2011-foreign-body-ingestion|ASGE 2011]] puts a battery in the stomach in the **nonurgent** band, observable **up to 48 hours** (and contradicts itself on the <20 mm battery — see the note in [[#Step 4 — Size and Length Thresholds]]). **[[esge-2016-foreign-bodies|ESGE 2016]] puts it in the urgent, within-24-hour band**, reasoning not from electrical burn — which it agrees is a low risk once past the esophagus — but from **liquefaction necrosis if the casing leaks**. **The page follows ESGE as the newer same-tier guideline: retrieve a gastric battery within 24 h.** Both positions are on the record; neither has been silently dropped.
+
+*The rest of this section is [[asge-2011-foreign-body-ingestion|ASGE 2011]] Table 2 detail, which remains the fuller account of the pediatric and coin scenarios ESGE does not cover (ESGE is an adults-only document).*
 
 | Urgency | Situation |
 |---|---|
@@ -142,7 +173,7 @@ flowchart TD
 | Threshold | Anatomic reason | Action |
 |---|---|---|
 | **Diameter >2.5 cm**, object in the stomach | Less likely to pass the **pylorus** | Endoscopic removal suggested (⊕◯◯◯ — "limited data exist to support this recommendation") |
-| **Length >6 cm**, at or above the proximal duodenum | Likely to have difficulty passing the **duodenum** | Endoscopic removal, urgent timing. Supporting data: 112 of 139 objects >6 cm remained proximal to the pylorus at endoscopy |
+| **Length >6 cm** ([[esge-2016-foreign-bodies\|ESGE 2016]]: **>5–6 cm**), at or above the proximal duodenum | Usually lodges **at the duodenal curve** | Endoscopic removal, **urgent**. ⚠ **Perforation risk 15%–35%** if left ([[esge-2016-foreign-bodies]]). Supporting data: 112 of 139 objects >6 cm remained proximal to the pylorus at endoscopy |
 | Battery in the stomach **>48 h** — see the ⚠ note below; the source gives two different rules | Large-diameter battery hangs up at the pylorus | Remove. **Unconditionally if >20 mm**; for <20 mm the guideline is self-contradictory |
 | Object failing to pass beyond the **stomach by 3–4 weeks** | — | Endoscopic removal |
 | Object **distal to the duodenum**, same location **>1 week**, not endoscopically reachable | — | Consider surgical removal |
@@ -188,8 +219,12 @@ flowchart TD
 - **Sharp objects: orient the point trailing** during extraction; that plus an overtube or protector hood minimizes mucosal injury.
 - **Do not use nonendoscopic retrieval** (fluoroscopic forceps, Foley catheter balloon, magnet-tipped nasogastric tube) — no airway protection, no direct view of the esophagus for underlying pathology or mucosal injury, no control of the object. Endoscopic approaches are recommended.
 - Objects not easily grasped in the esophagus may be **advanced into the stomach**, where retrieval is often easier — provided visualization is adequate.
-- **Push technique for food bolus:** gentle pressure on the **center** of the bolus. If advancement fails, reduce bolus size piecemeal, then reapply gentle pressure. Two large series reported **no perforations in 375 patients**; perforation remains a risk if excessive force is used.
-- **Glucagon 1.0 mg intravenous (IV)** — may relax the distal esophagus and allow spontaneous passage while endoscopy is being arranged. Effectiveness is contested (a single small randomized study showed no significant improvement over placebo); it is relatively safe and remains an acceptable option, but **must not delay definitive endoscopic removal**.
+- **Push technique for food bolus — the suggested first move**, not merely one of three options ([[esge-2016-foreign-bodies]]; ASGE 2011 treats en bloc, piecemeal and push as equally acceptable). **Success over 90%** with minimal complications.
+  - ⚠ **Try to pass the endoscope alongside the bolus first** to assess obstructive pathology beyond it. Where that is impossible, most boluses can still be pushed safely with **air insufflation and gentle pressure** on the **center** of the bolus. If advancement fails, reduce the bolus piecemeal, then reapply gentle pressure. Two large series reported **no perforations in 375 patients**; perforation remains a risk if excessive force is used.
+- **Glucagon 1.0 mg intravenous (IV)** — may relax the distal esophagus and allow spontaneous passage while endoscopy is being arranged. Effectiveness is contested (a single small randomized study showed no significant improvement over placebo); it is relatively safe and remains an acceptable option, but ⚠ **no medical treatment may delay endoscopy** (strong recommendation, [[esge-2016-foreign-bodies]]), and glucagon's common **nausea and vomiting could raise the risk of perforation and aspiration in a severe impaction**.
+- **Device choice by shape** ([[esge-2016-foreign-bodies]]): retrieval forceps (rat-tooth, alligator-tooth, shark-tooth); **2–5-prong graspers for soft objects only** — the grip is not secure enough for harder or heavier ones; [[polypectomy|polypectomy]] snares (widely available, inexpensive); baskets for round objects; nets or bags for a more secure grasp. ⚠ **Standard biopsy forceps cannot be recommended** — the jaw opening is too small and removal rarely succeeds.
+- **Overtube length is chosen by where the sharp object is** ([[esge-2016-foreign-bodies]]): a **standard-length** tube past the **upper** esophageal sphincter protects the airway and eases repeated passage; a **45–60 cm** tube past the **lower** esophageal sphincter is for sharp-pointed objects **distal to the esophagus**. **No overtube available → transparent cap or latex rubber hood.** A randomized trial of **cap-assisted endoscopy for upper-esophageal foreign bodies** found it safe and effective, with **significantly shorter operating time and a clearer visual field** than conventional endoscopy.
+- **Flexible endoscopy succeeds in >95% with complication rates of 0%–5%.** ([[esge-2016-foreign-bodies]])
 - **Papain and other proteolytic enzymes should never be used** — hypernatremia, mucosal erosion, and esophageal perforation have resulted.
 
 ### Step 7 — Post-Retrieval Obligations
@@ -248,10 +283,11 @@ flowchart TD
 
 ## See Also
 
-[[eosinophilic-esophagitis]], [[dysphagia]], [[upper-endoscopy]], [[endoscopy-sedation]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]], [[polypectomy]]
+[[eosinophilic-esophagitis]], [[esophageal-stricture]], [[esophageal-cancer]], [[achalasia]], [[dysphagia]], [[upper-endoscopy]], [[esophageal-dilation]], [[endoscopy-sedation]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]], [[polypectomy]], [[proton-pump-inhibitors]]
 
 ---
 
 ## Sources
 
-1. [[asge-2011-foreign-body-ingestion|ASGE Guideline: Management of Ingested Foreign Bodies and Food Impactions (2011)]]
+1. [[esge-2016-foreign-bodies|ESGE 2016: Removal of Foreign Bodies in the Upper Gastrointestinal Tract in Adults — European Society of Gastrointestinal Endoscopy Clinical Guideline]]
+2. [[asge-2011-foreign-body-ingestion|ASGE Guideline: Management of Ingested Foreign Bodies and Food Impactions (2011)]]

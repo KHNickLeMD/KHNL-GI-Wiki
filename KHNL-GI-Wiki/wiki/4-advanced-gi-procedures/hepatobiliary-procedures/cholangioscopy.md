@@ -3,8 +3,8 @@ title: "Cholangioscopy"
 category: advanced-procedure
 tags: [cholangioscopy, ercp, biliary-stricture, cholangiocarcinoma, hepatobiliary]
 created: 2026-06-04
-updated: 2026-09-04
-sources: [asge-2023-indeterminate-biliary-strictures, acg-2023-biliary-strictures, asge-2015-ercp-benign-biliary, asge-2019-choledocholithiasis]
+updated: 2026-10-26
+sources: [asge-2023-indeterminate-biliary-strictures, acg-2023-biliary-strictures, asge-2015-ercp-benign-biliary, asge-2019-choledocholithiasis, bsg-2017-common-bile-duct-stones]
 ---
 
 **Cholangioscopy** is direct endoscopic visualization of the biliary (or pancreatic) ductal lumen, most commonly performed as single-operator peroral cholangioscopy through the working channel of a duodenoscope during [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]. It permits targeted, image-directed mini-forceps biopsy of biliary lesions, visual characterization of strictures, and intraductal lithotripsy of stones that resist conventional extraction.
@@ -54,8 +54,20 @@ Benign strictures lack these features.
 
 Per [[asge-2015-ercp-benign-biliary|ASGE 2015]] (Rec 6, *low quality*): cholangioscopy is an **adjunctive technique for difficult bile duct stones not amenable to removal after sphincterotomy with or without balloon dilation or mechanical lithotripsy.**
 
-- ⚠ **"Difficult" is not defined by the guideline** — it gives no size, impaction, intrahepatic-location, altered-anatomy, or duct-taper criterion, and neither does [[choledocholithiasis]] or [[asge-2019-choledocholithiasis]]. The operative definition here is **functional: a stone that has failed the preceding rung of the ladder below.**
-- **Modality:** peroral cholangioscopy with **electrohydraulic or laser lithotripsy** under direct vision — clears **83–100%** of difficult extrahepatic stones.
+- ⚠ **"Difficult" means two different things in two tier-1 guidelines, and the difference is which rung of the ladder you are on.** Neither definition rests on size, impaction, intrahepatic location or duct taper — both are **functional**, and they sit one rung apart:
+
+| Source | A stone is "difficult" when… | What follows |
+|---|---|---|
+| [[asge-2015-ercp-benign-biliary\|ASGE 2015]] (Rec 6) | it is **not removable after sphincterotomy ± balloon dilation or mechanical lithotripsy** — i.e. *before* cholangioscopy | **Cholangioscopy-guided lithotripsy** |
+| [[bsg-2017-common-bile-duct-stones\|BSG 2017]] | standard extraction **plus mechanical lithotripsy, plus endoscopic papillary balloon dilation (EPBD) after sphincterotomy, plus cholangioscopy** (or extracorporeal shock wave lithotripsy where available) **have all failed** — "difficult **stone disease**" | **Percutaneous radiological extraction or open duct exploration** (major complications **3.6%–6.8%**) |
+
+- **What actually makes extraction difficult:** in most cases **size, shape and number** of stones; **altered anatomy from previous surgery** independently lowers the chance of success. ([[bsg-2017-common-bile-duct-stones]])
+- **Modality:** peroral cholangioscopy with **electrohydraulic lithotripsy (EHL) or laser lithotripsy (LL)** under direct vision — clears **83–100%** of difficult extrahepatic stones ([[asge-2015-ercp-benign-biliary]]); **73%–97%** in the series BSG reviewed, where every patient had already failed mechanical lithotripsy and EPBD-with-sphincterotomy ([[bsg-2017-common-bile-duct-stones]]).
+  - **How the energy works:** EHL generates a shock wave from the rapid thermal expansion of fluid around a high-voltage spark; LL focuses pulsed laser energy that the water in the stone absorbs, expanding it. Both **must be delivered under direct vision** for safe, precise targeting.
+  - ⚠ **Cholangitis follows cholangioscopy in up to 9%** — which is why prophylactic antibiotics are given for it, and why it is one of the named exceptions to the otherwise-avoid-prophylaxis rule at [[ercp|ERCP]]. Other complications are comparable to conventional ERCP. ([[bsg-2017-common-bile-duct-stones]])
+
+> [!pitfall] Turn the gas off for direct peroral cholangioscopy
+> In **direct** peroral cholangioscopy — an ultra-slim video endoscope steered through the sphincterotomy into the duct — **the air or carbon dioxide (CO₂) supply is switched off while the duct is being inspected, to reduce the risk of gas embolism**. Image quality is excellent; the limitation is scope stability against the duodenal loop. ([[bsg-2017-common-bile-duct-stones]])
 - **Position in the escalation ladder** for [[choledocholithiasis|choledocholithiasis]] (the ladder's home is [[ercp]]; repeated here only because it defines "difficult"): sphincterotomy → endoscopic papillary large-balloon (**≥12 mm**) dilation added to sphincterotomy (high clearance, post-ERCP pancreatitis rate **2.3%**) → mechanical lithotripsy → cholangioscopy-guided lithotripsy.
 - Same ASGE document (Rec 7, *low*) supports **cholangioscopy with directed biopsy for characterization of biliary strictures** — the diagnostic role detailed above.
 
@@ -81,3 +93,4 @@ The single figure that belongs to *this* procedure: **cholangioscopy-directed bi
 2. [[acg-2023-biliary-strictures|ACG 2023: Diagnosis and Management of Biliary Strictures]]
 3. [[asge-2015-ercp-benign-biliary|ASGE Guideline: The Role of ERCP in Benign Diseases of the Biliary Tract (2015)]]
 4. [[asge-2019-choledocholithiasis|ASGE Guideline: Endoscopic Management of Choledocholithiasis (2019)]]
+5. [[bsg-2017-common-bile-duct-stones|BSG 2017: Updated Guideline on the Management of Common Bile Duct Stones (CBDS)]]

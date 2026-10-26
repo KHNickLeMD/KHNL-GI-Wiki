@@ -3,8 +3,8 @@ title: "Acute Cholangitis"
 category: disease-script
 tags: [cholangitis, biliary-infection, tokyo-guidelines, severity-grading, biliary-drainage, ercp, choledocholithiasis, sepsis]
 created: 2026-08-25
-updated: 2026-10-19
-sources: [tg18-2018-cholangitis-criteria, tg18-2018-antimicrobial-therapy, tg18-2018-cholangitis-flowchart, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, asge-2019-choledocholithiasis]
+updated: 2026-10-26
+sources: [tg18-2018-cholangitis-criteria, tg18-2018-antimicrobial-therapy, tg18-2018-cholangitis-flowchart, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, asge-2019-choledocholithiasis, bsg-2017-common-bile-duct-stones]
 ---
 
 # Acute Cholangitis
@@ -222,6 +222,7 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 - **ASGE does *not* recommend <24 h for Grade III.** Its own reading of the evidence: "ERCP in <24 hours or 24 to 48 hours versus >48 hours appears to shorten the length of hospitalization but **does not impact inpatient or 30-day mortality, organ failure, or other core clinical outcomes.**" The one carve-out is narrower than "severe": **in septic shock *not responding to fluid resuscitation*, ERCP <24 h "may be considered"** — a suggestion, not a recommendation, and conditioned on refractoriness rather than on Tokyo grade. ([[asge-2021-cholangitis]])
 - **Mild-to-moderate (Grade I–II): do not reflexively rush to <24 h.** Urgent (<24 h) drainage is **not superior** to early (24–48 h): 30-day mortality **3.95% vs 6.58%** (hazard ratio [HR] 0.70, 95% CI 0.25–1.93, p=0.47), in-hospital mortality 1.97% vs 3.28%, day-30 organ failure 11.8% vs 17.1% — none significant. Post-ERCP adverse events were **more frequent with urgent ERCP: 17.1% vs 9.2%, relative risk (RR) 2.03 (95% CI 1.02–4.07)**, mainly **haemorrhage** (10.5% vs 3.3%), from sphincterotomy on an oedematous papilla in an under-resuscitated septic patient. ⚠ **Read the adverse event (AE) result with its caveat:** RR 2.03 is the **unadjusted** analysis (nominal p=0.042) and **did not retain significance after the trial's own Holm-Bonferroni correction** across secondary outcomes. **Resuscitate, then drain within 24–48 h.** ([[jagtap-2026-urgent-vs-early-ercp-cholangitis]])
 - **Malignant biliary obstruction — not timing — is the dominant predictor of 30-day mortality** (HR ~5). ([[jagtap-2026-urgent-vs-early-ercp-cholangitis]])
+- **A second society frames the urgent trigger the same way — by response, not by grade.** [[bsg-2017-common-bile-duct-stones|BSG 2017]] makes **urgent decompression** (within 24 h) the rule for patients who **fail to respond to antibiotic therapy or have signs of septic shock**, with percutaneous drainage as the alternative if [[ercp|ERCP]] is not possible (Moderate quality; **strong**). It sets no general numeric window, noting that high-quality timing data are lacking — but it prices the delay: **each day ERCP was postponed added 1.44 days of hospital stay** (95% CI 1.01–1.92) in 199 prospectively studied admissions, and **ERCP later than 72 h was associated with increased vasopressor requirement**.
 - *Under question in septic shock:* in Grade III cholangitis with septic shock, ERCP **<24 h of vasopressor initiation** gave **no survival advantage** over 24–48 h (30-d mortality HR 1.07, 95% CI 0.81–1.42) and looked worse than 48–72 h (HR 1.47, 1.00–2.16) — likely confounded by the sickest being drained first. ⚠ **Digestive Disease Week (DDW) 2026 abstract, retrospective** — below guideline and RCT evidence; hypothesis-generating, does **not** change the emergent-drainage recommendation. ([[aloysius-2026-ercp-timing-septic-shock-cholangitis]])
 
 > **Contradiction on the record.** TG18 (2018) cites observational Japan–Taiwan data favouring drainage **within 24 h for moderate cholangitis** (mortality **1.7% vs 3.4%**, p=0.0172; no difference in mild or severe) — its own clinical question (CQ) 1 answer is graded **Level D**. The newer same-tier guideline ([[asge-2021-cholangitis]]) sets the window at 48 h, and the 2026 RCT found harm in compressing it. The page follows the newer guideline; TG18's signal is recorded, not followed. ([[tg18-2018-cholangitis-flowchart]])
@@ -279,4 +280,5 @@ flowchart TD
 4. [[jagtap-2026-urgent-vs-early-ercp-cholangitis|Urgent versus Early ERCP in Mild-to-Moderate Acute Cholangitis: A Randomised Controlled Trial (Jagtap 2026)]]
 5. [[aloysius-2026-ercp-timing-septic-shock-cholangitis|Vasopressor-Indexed Timing of ERCP and Survival in Septic Shock from Tokyo Grade III Cholangitis (Aloysius 2026, DDW abstract)]]
 6. [[tg18-2018-antimicrobial-therapy|Tokyo Guidelines 2018: Antimicrobial Therapy for Acute Cholangitis and Cholecystitis]]
-6. [[asge-2019-choledocholithiasis|ASGE 2019: Endoscopic Management of Choledocholithiasis]]
+7. [[asge-2019-choledocholithiasis|ASGE 2019: Endoscopic Management of Choledocholithiasis]]
+8. [[bsg-2017-common-bile-duct-stones|BSG 2017: Updated Guideline on the Management of Common Bile Duct Stones (CBDS)]]
