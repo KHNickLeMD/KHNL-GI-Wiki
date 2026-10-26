@@ -6,6 +6,28 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-26] update | Card pass — deck slimming (20 dedup verdicts, 3 merges); no page eligible for new cards
+
+**Deck slimming (ran first, per CARDS -> *Slim the deck*):** `anki-dupes.mjs` offered 20 unjudged candidate pairs (282 outstanding at >=0.4). All 20 judged and marked in `dedup-ledger.tsv`; 262 remain for later passes.
+
+**3 merged:**
+
+- **Epstein-Barr virus PCR screening after liver transplant** — `[1a302c]` on `1-disease-scripts/hepatology-diseases/liver-transplantation.md` and `[d7c003]` on `1-disease-scripts/other/post-transplant-lymphoproliferative-disorder.md` asked the same question of the same source (`aasld-ast-2025-liver-transplant-non-graft-complications`) and gave the same answer. Keeper is the PTLD note (one-owner: screening for the disease belongs to the disease page) with `{also:liver-transplantation}`; the transplant-page note moved under `# Retired`, id kept.
+- **Vedolizumab induction schedule in checkpoint-inhibitor colitis** — `[4e0008]` on `5-meds/vedolizumab.md` tested the weeks 0/2/6 schedule, already a cloze inside `[ac1007]` on `1-disease-scripts/colorectal-diseases/inflammation/immune-checkpoint-inhibitor-colitis.md` (same source, `aga-2021-ici-colitis-hepatitis`). Keeper is the colitis note — it carries the second-line drug choice and both doses — now `{also:vedolizumab}`; the contrast with IBD induction (two doses, weeks 0 and 2) was absorbed as a Back Extra line. The IBD schedule itself stays carded on `[4e0001]`.
+- **Body-fluid culture handling for >90% sensitivity** — `[da0006]` on `1-disease-scripts/hepatology-diseases/hepatic-hydrothorax.md` and `[a10124]` on `2-diagnostic-schemas/ascites.md` (both `aasld-2021-ascites-sbp-hrs`) specify one identical technique — bedside inoculation of aerobic and anaerobic blood culture bottles, >=10 mL each, before the first antibiotic dose — differing only in which fluid fills the bottle. Keeper is the ascites note with `{also:hepatic-hydrothorax}`, absorbing "draw blood cultures at the same time".
+
+**17 distinct** — each pair separated by a different drug, formulation, population, threshold or decision: ileal-release budesonide (Crohn's) vs multimatrix budesonide (ulcerative colitis); large-balloon dilation >=12 mm after sphincterotomy vs 8 mm papillary dilation without one; artifactual outflow obstruction in a surgery-naive esophagus vs post-fundoplication obstruction; the 5-day definition of variceal treatment failure vs salvage-versus-rescue TIPS; CDH1 cascade-testing age 16 vs prophylactic gastrectomy after 20; universal tumour testing in colorectal cancer vs immunohistochemistry-first in Lynch screening; 72 hours of high-dose proton pump inhibitor vs twice-daily dosing through day 14; Rome V 1-of-3 abnormal tests to diagnose dyssynergia vs 2-of-3 to call constipation refractory; the two halves of the Barrett's ESD-over-EMR list, which cannot be one note inside the bullet and cloze caps; and the rest.
+
+- Kept **distinct** deliberately: tapping new hepatic hydrothorax vs tapping new ascites. The answer reads the same ("tap every one of them") but the population and the procedure differ — thoracentesis for occult spontaneous bacterial empyema, paracentesis for spontaneous bacterial peritonitis — so they are two decisions, unlike the single shared culture technique merged above.
+
+**Rebuild:** `build-anki.mjs` exit 0, **3954 notes** written to `dist/khnl-gi-wiki.txt`; no problems on any touched file. Two problems appeared on the first rebuild and were fixed: absorbing a Back Extra line had consumed the blank line separating the keeper from the next note, so each keeper was being parsed as one run-on note with its neighbour (word counts of 56 and 67 against the cap of 40). Blank lines restored; the same defect in the newly created `# Retired` block on the transplant page was fixed with it.
+
+**New cards written: none — nothing eligible.** 333 topic pages, 332 card files, every one carrying a `page_updated` equal to its page's `updated:` — no unfinished page to resume and no stale card file. The one page with no card file is again `7-concepts/telemedicine-in-gastroenterology.md`. Its source is genuinely tier-1 (an AGA Clinical Practice Update), so the source test passes, but the content is care delivery and practice management — visit-format selection, state licensure, billing, documentation items, clinic staffing, trainee supervision — and none of it changes what a gastroenterologist orders, prescribes, scopes, resects, refers or stops; the one outcome contrast it offers (acute illness does worse by telemedicine, chronic disease better) is cohort data, which the deck rules cut. No node in Nick's tag tree covers the topic either. Per *Quality over quota* the pass wrote no cards rather than lower the bar.
+
+**Not done:** nothing committed or pushed (as instructed).
+
+---
+
 ## [2026-10-26] lint | Backlog mode — 3 tier-1 ingests: "difficult" bile duct stones and "emergent" foreign bodies both finally get definitions, and ampullary papillectomy technique is rewritten
 
 **Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands; title amended at the end to match what actually happened.
