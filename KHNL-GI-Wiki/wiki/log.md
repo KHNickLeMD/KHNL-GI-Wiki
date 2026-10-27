@@ -46,6 +46,19 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
   - ⚠ **Internal contradiction recorded on the source page, not smoothed over:** the consensus lists *persistently high IgG4 after treatment* as a relapse predictor (level B) on Japanese data (30% vs 10%), while the international study it also cites found **no difference** (32.7% vs 31.4%).
   - `needed-sources.md`: the Okazaki row **deleted**. With the Shimosegawa row, that closes the autoimmune-pancreatitis pair entirely.
 
+- **`Wimmer 2014 C4CMMRD Diagnostic Criteria CMMRD.pdf`** → `wiki/sources/wimmer-2014-c4cmmrd-criteria.md`. Table 5 captured whole, both blocks.
+  - **[[bmmrd-syndrome]]** — the page said in its own text that USMSTF 2017 **cites C4CMMRD but does not reproduce the point values or the threshold**. **Closed:** the scored table and **≥3 points = test** now sit under the unscored USMSTF clue list, which is kept (it is a different instrument, not a worse one).
+  - **The structural rule is the decision, and it got a `[!pitfall]`:** the malignancy block is **mandatory**, so additional features alone never reach 3 — and "any malignancy <18 y" scores only **1**, so a child with cancer needs 2 points of additional features to qualify. A reader who treats the table as a flat checklist will test the wrong patients in both directions.
+  - **The LS-spectrum footnote travelled with the table** (colorectal, endometrial, small bowel, ureter, renal pelvis, biliary tract, stomach, bladder) — it governs four of the scored rows, and the score is unusable without it.
+  - `needed-sources.md`: the Wimmer row **deleted**.
+
+- **`Brazilian Intragastric Balloon Consensus 2018 (Neto).pdf`** → `wiki/sources/bibc-2018-intragastric-balloon-consensus.md`. Tables 3, 4 and 5 captured in full **with each statement's agreement percentage**, plus the adverse-event narrative. **The percentage is a vote, not an evidence grade** — the source page and the entity page both say so, because several statements cleared the 70% bar by a point or two.
+  - **[[intragastric-balloon]]** — two new sections. *Contraindications and Age* (absolute / relative / **explicitly not** a contraindication — Los Angeles A–B esophagitis, gastritis, benign polyps and *H. pylori* positivity are all **not** contraindications) and *When the Balloon Must Come Out*, a remove-vs-leave-in table. Periprocedural detail (fill volume, mandatory methylene blue, the 3–5-day adaptation drug set with PPI throughout, removal prep) went into the existing Periprocedural section rather than a new one. Page ends at **2,403 body words — under the ceiling**, which is why propagation stopped there.
+  - **This closes a gap AGA 2021 leaves open by design:** AGA assessed endoscopically placed balloons and gives **no contraindication list and no age criterion** at all. BIBC's **BMI floor >25** is also wider than AGA's 30–40 band and far below the surgical thresholds ingested earlier this pass.
+  - ⚠ **Recorded, not smoothed:** BIBC says **pre-placement endoscopy is not mandatory** (84.4%) while nearly every absolute contraindication on its own list is an endoscopic finding — the panel's answer is that the implanting endoscopist looks and aborts. Flagged on the page. Where AGA 2021 speaks on the same question it keeps the page (graded, newer, US).
+  - **No-consensus items are preserved as splits** (sedation, maximum fill volume, lab testing, air travel, alcohol, thromboembolism, fungal colonization) rather than written up as recommendations.
+  - `needed-sources.md`: the Neto row **deleted**.
+
 ---
 
 ## [2026-10-26] lint | Backlog mode, 06:00 pass — 5 ingests: two ASCRS guidelines, the CAPS consensus the wiki had been naming by author, the rumination CPU that fills an empty section, and the fetched Linzess label

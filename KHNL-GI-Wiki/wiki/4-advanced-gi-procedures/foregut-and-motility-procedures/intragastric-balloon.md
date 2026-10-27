@@ -3,8 +3,8 @@ title: "Intragastric Balloon (IGB)"
 category: advanced-procedure
 tags: [obesity, intragastric-balloon, endoscopic-bariatric-therapy, weight-management, bariatric]
 created: 2026-06-04
-updated: 2026-10-06
-sources: [aga-2021-intragastric-balloons, aga-2022-obesity-pharm, aga-2017-endoscopic-bariatric-therapies]
+updated: 2026-10-27
+sources: [aga-2021-intragastric-balloons, aga-2022-obesity-pharm, aga-2017-endoscopic-bariatric-therapies, bibc-2018-intragastric-balloon-consensus]
 ---
 
 # Intragastric Balloon (IGB)
@@ -12,10 +12,12 @@ sources: [aga-2021-intragastric-balloons, aga-2022-obesity-pharm, aga-2017-endos
 ## Contents
 - [[#Overview]]
 - [[#Indications and Patient Selection]]
+  - [[#Contraindications and Age (BIBC 2018)]]
 - [[#Efficacy]]
 - [[#Device Types]]
 - [[#Periprocedural Management]]
 - [[#Adverse Events]]
+  - [[#When the Balloon Must Come Out (BIBC 2018)]]
 - [[#After Removal]]
 - [[#See Also]]
 - [[#Sources]]
@@ -32,7 +34,23 @@ The **intragastric balloon (IGB)** is an [[upper-endoscopy|endoscopically]] plac
 ## Indications and Patient Selection
 
 - AGA suggests IGB **with lifestyle modification over lifestyle modification alone** in individuals with [[obesity]] who have **failed a trial of conventional weight-loss strategies** (Rec 1, conditional, moderate certainty).
-- **Eligibility — the only selection criterion the guideline gives is body mass index (BMI) 30–40 kg/m²**: US trials were limited to this range (international trials sometimes included patients outside it). AGA 2021 gives **no contraindication list, no age criterion, and no other patient-selection criteria**.
+- **Eligibility — the only selection criterion AGA 2021 gives is body mass index (BMI) 30–40 kg/m²**: US trials were limited to this range (international trials sometimes included patients outside it). It gives no contraindication list and no age criterion; those come from [[bibc-2018-intragastric-balloon-consensus|the Brazilian consensus]] below, whose BMI floor is wider.
+
+### Contraindications and Age (BIBC 2018)
+
+[[bibc-2018-intragastric-balloon-consensus|BIBC 2018]] is a 39-expert consensus over 41,863 cases; **consensus = ≥70% agreement**, and the percentage beside each item is **the vote, not an evidence grade**.
+
+| | Items |
+|---|---|
+| **Absolute contraindications** | Active gastric ulcer — **body/fundus** (83.3%), **antrum** (75.0%) — or **ulcer in any other location** (71.9%), all without signs of bleeding · **previous gastric surgery** (93.8%) · **esophageal varices** (84.4%) · **gastric varices** (90.6%) · **[[hiatal-hernia\|hiatal hernia]] >5 cm** (71.0%) · **anticoagulant use** (87.5%) |
+| **Relative** | Angioectasias without bleeding (75.0%) · [[eosinophilic-esophagitis\|eosinophilic esophagitis]] (81.3%) · HIV positive, immunocompetent (96.9%) · uncontrolled/untreated psychiatric disorder (75.8%) |
+| **Explicitly *not* a contraindication** | Esophagitis **Los Angeles grade A or B** (80.7%) · gastritis (83.3%) · hyperplastic or benign polyps (87.1%) · ***[[helicobacter-pylori-infection\|H. pylori]]* positive** (90.7%) |
+| **No consensus** | Congestive gastropathy · familial gastric polyposis · antiplatelet agents · **Los Angeles grade C or D esophagitis** (52.9% absolute vs 44.1% relative — the minority view being that it can be treated and the balloon placed afterwards) |
+
+- **Age: minimum ≥12 years** with established puberty, after failed clinical treatment and/or with co-morbidities, multidisciplinary evaluation and **written authorization from both parents** (84.9%). **No maximum age** if the patient can undergo endoscopy (96.8%).
+- **BMI floor >25 kg/m²** (overweight) with progressive weight gain and refractory to clinical treatment (84.4%) — **wider than the AGA 30–40 range and far below the surgical thresholds** in [[asmbs-ifso-2022-bariatric-indications]]. Balloon type is at the physician's discretion across every BMI band.
+- **A dietician is mandatory** on the team (100%) and should follow the patient throughout treatment (90.0%); psychologist (70.0%), endocrinologist (93.3%) and psychiatrist (96.8%) are **not** mandatory.
+- ⚠ **Pre-placement endoscopy is not mandatory** in this consensus (84.4%) — the implanting endoscopist is expected to inspect the stomach during the implant procedure and abort if a contraindication appears. Note that nearly every absolute contraindication above is an endoscopic finding.
 - Device choice (fluid- vs gas-filled) should follow **shared decision-making** — [[#Device Types]].
 - Compared against pharmacotherapy ([[aga-2022-obesity-pharm|AGA 2022 obesity pharmacotherapy]], e.g. [[semaglutide]]) and [[bariatric-surgery]], IGB occupies a middle ground for short-term weight loss and as a possible bridge to surgery.
 
@@ -75,6 +93,10 @@ Per-device detail ([[aga-2017-endoscopic-bariatric-therapies|AGA 2017]], ungrade
 | Supplementation | Suggested: **daily 1–2 adult-dose multivitamins** after placement | Conditional / very low | No formulation and no micronutrient targets given |
 
 - **Why the PPI:** gastric mucosa can erode and bleed during and after placement. No RCT has directly tested PPI use in IGB patients — the strong recommendation rests on indirect evidence (PPIs reduce rebleeding in high-risk [[upper-gi-bleeding|upper gastrointestinal (GI) bleeding]] stigmata; across 4 RCTs, IGB patients given a PPI had fewer device-related and non-procedure-related serious adverse events). Balance against PPI-associated risks — enteric infection including [[clostridioides-difficile|*Clostridium difficile*]], community-acquired pneumonia, bone fracture, kidney disease, micronutrient deficiency.
+**Adaptation-period prescription ([[bibc-2018-intragastric-balloon-consensus|BIBC 2018]]):** medication for **3–5 days** after implant (93.8%) — **ondansetron** (85.2%), **hyoscine/scopolamine** (88.9%), **dexamethasone** (70.4%), **dimenhydrinate** (82.8%), **analgesic** (92.6%) and a **[[proton-pump-inhibitors\|proton pump inhibitor (PPI)]]** (96.3%), the PPI **continued throughout the entire treatment** (87.5%). **Not recommended:** metoclopramide (70.4%, increases motility and may worsen symptoms), anti-inflammatory drugs (96.3%, gastric injury), anxiolytics/antidepressants (78.6%). Physical activity may resume after the adaptation period (87.1%).
+
+**Placement and removal ([[bibc-2018-intragastric-balloon-consensus|BIBC 2018]]):** fast **≥8 h** before implant (90.3%) — no prior liquid diet (83.9%) and no prior PPI (90.3%) needed; **minimum fill 500 mL** for nonadjustable liquid balloons (87.1%) with **saline plus methylene blue** (90.0%), methylene blue **always**, as a leak marker, except in allergy (100%). Before removal: **liquid diet ≥2 days** (90.9%), **fast ≥12 h** (80.7%), carbonated zero-sugar cola to clear residue (78.1%); the preferred accessory is a **hybrid jaw grasper (alligator + rat tooth)** (75.0%), with an **esophageal overtube** in selected difficult removals (74.1%). **Clinical follow-up for ≥6 months after removal** (89.7%). Sedation and maximum fill volume **reached no consensus**.
+
 - **Why the 2 weeks of antiemetics:** nausea, vomiting, and intolerance drive early removal. Midazolam + ondansetron vs ondansetron alone trended toward less nausea/vomiting (RR 0.57; 95% CI 0.32–1.02) with fewer early removals (0/29 vs 3/28).
 - **Supplementation context (bariatric cohorts, indirect):** prophylactic 1–3 multivitamin tablets/day left postoperative thiamine deficiency at 0%–9%; 1 tablet/day maintained normal folate for 3–12 mo, versus de novo folate deficiency 6%–9.2% without prophylaxis; hypomagnesemia persisted up to 5 y despite 1–2 multivitamins with minerals. Asymptomatic hypokalemia from vomiting occurred in 6.8%–8.5% at 1 week after placement.
 
@@ -95,6 +117,24 @@ Pooled across the 7 RCTs, over the 6- to 8-month period with the balloon in plac
 - **Early removal** is driven by device intolerance (sense of fullness) and symptomatic intolerance (epigastric pain, [[gerd|reflux]], [[nausea-and-vomiting|nausea, emesis]]) — the main reason therapy does not reach its endpoint.
 - Post-marketing surveillance adds rare **hyperinflation, [[acute-pancreatitis|acute pancreatitis]], and death** — not captured in the trial pool.
 - **Predictors of intolerance are not established**, so non-responders and higher-AE-risk patients cannot be identified in advance.
+
+### When the Balloon Must Come Out (BIBC 2018)
+
+| Remove | Leave it in |
+|---|---|
+| **Symptomatic hyperinflation** (96.9%) | **Mild pancreatitis** — removal not mandatory (76.7%) |
+| **Moderate or severe [[acute-pancreatitis\|acute pancreatitis]]** (90.6%) | **Gastrointestinal bleeding that stopped spontaneously** (84.4%) |
+| **Gastric ulcer with a nonadjustable balloon** (90.0%) | **Severe erosive esophagitis** — treat first; removing it risks esophageal tear or perforation (87.1%) |
+| **Recurrent antral impaction** (86.7%) — reposition on the first episode | **Mallory-Weiss syndrome** — treat with the balloon in place (bleeding risk on removal) |
+| **Pregnancy** — preferably in the **second trimester**, with the obstetrician (81.3%) | **Asymptomatic spontaneous hyperinflation** with no gastric lesion — conservative management (64.5%) |
+| **Recurrent hydroelectrolytic disorder** (76.7%) | **Fungal colonization of the balloon** — **0% recommended removal**; no consensus on what else to do |
+| **Bleeding controlled by endoscopic therapy alone** (76.5%) | |
+| **Patient request, for any reason** | |
+| **Suspected rupture (green urine)** — **mandatory, within 72 hours** | |
+
+- Adjustable balloon with an ulcer: 53.9% remove even over the patient's objection; if removal is declined, **reposition the filling catheter and treat — except a deep ulcer at high perforation risk, which must come out**.
+- **"Premature removal" = explant within 1 month** of implant, for an adverse event or patient request (84.4%).
+- BIBC's pooled series (41,863 balloons): **2.5% adverse events** after the adaptation period — most often hyperinflation (0.9%) and spontaneous deflation (0.8%) — **2.2% early removal for intolerance**, and **no esophageal or gastric perforation at implantation**. Mean total body weight loss **18.4% ± 2.9%**; **8.3% ± 6.7% non-responders** (<10% TBWL).
 
 ## After Removal
 
@@ -118,3 +158,4 @@ AGA suggests subsequent weight-loss/maintenance interventions — **dietary inte
 1. [[aga-2021-intragastric-balloons|AGA Clinical Practice Guidelines on Intragastric Balloons in the Management of Obesity (2021)]]
 2. [[aga-2022-obesity-pharm|AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)]]
 3. [[aga-2017-endoscopic-bariatric-therapies|AGA Clinical Practice Update: Expert Review on Endoscopic Bariatric Therapies (2017)]]
+4. [[bibc-2018-intragastric-balloon-consensus|Brazilian Intragastric Balloon Consensus Statement (BIBC): Practical Guidelines Based on Experience of Over 40,000 Cases (2018)]]

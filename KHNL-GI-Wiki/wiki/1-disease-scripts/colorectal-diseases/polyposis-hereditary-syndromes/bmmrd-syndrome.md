@@ -3,13 +3,14 @@ title: "Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome"
 category: disease-script
 tags: [bmmrd, cmmrd, mismatch-repair, hereditary-crc, colorectal-cancer, brain-tumor, lymphoma, pediatric-cancer, genetic-testing, mmr, cafe-au-lait, pms2, msh6, mlh1, msh2]
 created: 2026-05-24
-updated: 2026-10-19
-sources: [usmstf-2017-bmmrd]
+updated: 2026-10-27
+sources: [usmstf-2017-bmmrd, wimmer-2014-c4cmmrd-criteria]
 ---
 
 ## Contents
 - [[#Assessment]]
   - [[#Establishing the Diagnosis]]
+    - [[#C4CMMRD Score — Indication for Testing: ≥3 Points]]
   - [[#Severity Assessment]]
   - [[#Classification / Typing]]
 - [[#Differential Diagnosis]]
@@ -50,7 +51,42 @@ Unlike [[lynch-syndrome]], which is caused by monoallelic MMR mutations and requ
 - Colon cancer + café-au-lait macules presumed to be FAP with **no APC mutation found** — re-evaluate for BMMRD
 - Early-onset uterine cancer — examine for café-au-lait macules
 
-The list above is [[usmstf-2017-bmmrd|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2017]] Table 2 — clues to raise suspicion, **unweighted and unscored**. USMSTF 2017 cites the European consortium *Care for CMMRD* (C4CMMRD) diagnostic criteria but does not reproduce their point values or score threshold. Diagnosis in any case **requires confirmation of biallelic deleterious germline MMR mutations**.
+The list above is [[usmstf-2017-bmmrd|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2017]] Table 2 — clues to raise suspicion, **unweighted and unscored**. The European consortium *Care for CMMRD* (C4CMMRD) scores the same clues and sets a testing threshold; both are below. Diagnosis in either case **requires confirmation of biallelic deleterious germline MMR mutations**.
+
+#### C4CMMRD Score — Indication for Testing: ≥3 Points
+
+**Malignancies / premalignancies — one is mandatory; add the points if more than one is present** ([[wimmer-2014-c4cmmrd-criteria]])
+
+| Feature | Points |
+|---|---|
+| Carcinoma from the **Lynch syndrome (LS) spectrum\*** at age **<25 y** | **3** |
+| **Multiple bowel adenomas at age <25 y with no *APC*/*MUTYH* mutation**, or a **single high-grade dysplasia adenoma at age <25 y** | **3** |
+| **World Health Organization (WHO) grade III or IV glioma at age <25 y** | **2** |
+| **T-cell non-Hodgkin lymphoma (NHL)** or **supratentorial primitive neuroectodermal tumour (sPNET)** at age **<18 y** | **2** |
+| **Any malignancy at age <18 y** | **1** |
+
+**Additional features — optional; add the points if more than one is present**
+
+| Feature | Points |
+|---|---|
+| Clinical sign of **neurofibromatosis type 1 (NF1)** and/or **≥2 hyper- or hypopigmented skin lesions >1 cm** | **2** |
+| **Diagnosis of LS in a first- or second-degree relative** | **2** |
+| **LS-spectrum carcinoma\* before age 60** in a first-, second- or third-degree relative | **1** |
+| **A sibling with LS-spectrum carcinoma\*, high-grade glioma, sPNET or NHL** | **2** |
+| **A sibling with any childhood malignancy** | **1** |
+| **Multiple pilomatricomas** | **2** |
+| **One pilomatricoma** | **1** |
+| **Agenesis of the corpus callosum** or **non-therapy-induced cavernoma** | **1** |
+| **Consanguineous parents** | **1** |
+| **Deficient / reduced IgG2/4 and/or IgA** | **1** |
+
+\* **LS spectrum, as this table defines it:** colorectal, endometrial, small bowel, ureter, renal pelvis, biliary tract, stomach, bladder carcinoma.
+
+> [!pitfall] No tumour, no score
+> The malignancy block is **mandatory** — additional features alone never reach 3 points, however many are present. Conversely **"any malignancy <18 y" scores only 1**, so a child with cancer needs **2 points of additional features** (the ≥2 café-au-lait-type patches >1 cm, multiple pilomatricomas, a sibling with a qualifying tumour, or LS in a close relative) to cross the threshold ([[wimmer-2014-c4cmmrd-criteria]]).
+
+- **Skin findings are scored by number and size** — ≥2 lesions, each >1 cm — not by appearance.
+- Nearly all CMMRD patients reach **≥3 points** under this system. Age at first malignancy ranged **0.4–39 years**.
 
 ### Severity Assessment
 
@@ -221,3 +257,4 @@ No controlled trials exist, so every recommendation is weak [[usmstf-2017-bmmrd]
 ## Sources
 
 1. [[usmstf-2017-bmmrd|USMSTF 2017: Recommendations on Surveillance and Management of Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome]]
+2. [[wimmer-2014-c4cmmrd-criteria|Diagnostic Criteria for Constitutional Mismatch Repair Deficiency Syndrome: Suggestions of the European Consortium "Care for CMMRD" (C4CMMRD, 2014)]]
