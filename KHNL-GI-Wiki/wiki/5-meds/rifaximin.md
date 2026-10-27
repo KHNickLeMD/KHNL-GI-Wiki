@@ -3,7 +3,7 @@ title: "Rifaximin"
 category: med
 tags: [rifaximin, antibiotic, sibo, ibs, hepatic-encephalopathy, nonabsorbable, gut-selective]
 created: 2026-05-19
-updated: 2026-09-08
+updated: 2026-10-27
 sources: [acg-2020-sibo, acg-2020-ibs, aga-2022-ibs-d, acg-2026-hepatic-encephalopathy, baveno-vii-2022-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy, aga-2020-sibo]
 ---
 
@@ -49,7 +49,7 @@ A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal 
 
 - Pivotal randomized controlled trial (RCT) (n=299; cirrhosis with **≥2 OHE episodes in the preceding 6 months**, in remission at entry, **91% on background lactulose**): at 6 months, **58% risk reduction in breakthrough OHE (NNT 4)** and **50% reduction in HE-related hospitalization (NNT 9)**.
 - **Monotherapy vs combination:** rifaximin monotherapy *has* maintained remission and lowered hospitalization vs lactulose monotherapy — but only in **small or retrospective** studies. The preponderance of evidence favors **rifaximin + lactulose** in anyone who tolerates dual therapy, so combination is the default.
-- A **Bristol Stool Scale (BSS) score ≥5** on lactulose signals the need to cut lactulose back or add rifaximin; BSS ≥5 *before* lactulose is even started argues for a non-laxative therapy de novo. *(The guideline uses the Bristol scale without printing the 7 types — see [[chronic-constipation]].)*
+- A **[[bristol-stool-form-scale|Bristol Stool Scale]] (BSS) score ≥5** on lactulose signals the need to cut lactulose back or add rifaximin; BSS ≥5 *before* lactulose is even started argues for a non-laxative therapy de novo. *(The guideline uses the Bristol scale without printing the 7 types — see [[chronic-constipation]].)*
 
 **Where rifaximin is *not* indicated** — Baveno VII draws an explicit boundary [[baveno-vii-2022-portal-hypertension]]:
 

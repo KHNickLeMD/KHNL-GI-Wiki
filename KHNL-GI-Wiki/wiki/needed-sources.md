@@ -3,7 +3,7 @@ title: "Needed Sources — Download List"
 category: overview
 tags: [maintenance, sources]
 created: 2026-09-08
-updated: 2026-10-26
+updated: 2026-10-27
 sources: []
 ---
 
@@ -17,16 +17,12 @@ Guidelines, papers, labels and figures that would close a specific gap on a wiki
 
 | Resource | Fills | Page(s) |
 |---|---|---|
-| 📥 [Lewis SJ, Heaton KW. Stool form scale as a useful guide to intestinal transit time. *Scand J Gastroenterol* 1997;32:920–4](https://doi.org/10.3109/00365529709011203) | the 7 Bristol stool types (used by ≥6 pages, defined nowhere) | [[chronic-constipation]], [[irritable-bowel-syndrome]], [[hepatic-encephalopathy]], [[rifaximin]], [[sacral-nerve-stimulation]], [[chronic-diarrhea]] |
-| 📥 [Banks PA et al. Classification of acute pancreatitis — 2012: revision of the Atlanta classification. *Gut* 2013;62:102–11](https://doi.org/10.1136/gutjnl-2012-302779) | modified Marshall per-domain cut-points (Table 1); collection definitions | [[acute-pancreatitis]] |
-| 📥 [Wu BU et al. The early prediction of mortality in acute pancreatitis (BISAP). *Gut* 2008;57:1698–703](https://doi.org/10.1136/gut.2008.152702) | BISAP components and points | [[acute-pancreatitis]] |
-| 📥 [Shovlin CL, Guttmacher AE, Buscarini E, et al. Diagnostic criteria for hereditary haemorrhagic telangiectasia (Rendu-Osler-Weber syndrome). *Am J Med Genet* 2000;91:66–7](https://pubmed.ncbi.nlm.nih.gov/10751092/) | the four Curaçao criteria themselves — [[hht-2020-second-international-guidelines]] diagnoses HHT by them (G1) and asks clinicians to consider HHT with one or more of them (G2), but prints them only in its Supplement 1 | [[hereditary-hemorrhagic-telangiectasia]] |
 | 📥 [Catalano MF et al. EUS-based criteria for the diagnosis of chronic pancreatitis: the Rosemont classification. *Gastrointest Endosc* 2009;69:1251–61](https://doi.org/10.1016/j.gie.2008.07.043) | operational feature definitions; suggestive / indeterminate / normal splits | [[chronic-pancreatitis]] |
 | 📥 [Hennes EM et al. Simplified criteria for the diagnosis of autoimmune hepatitis. *Hepatology* 2008;48:169–76](https://doi.org/10.1002/hep.22322); 📥 [Alvarez F et al. IAIHG report: review of criteria for diagnosis of AIH. *J Hepatol* 1999;31:929–38](https://doi.org/10.1016/S0168-8278(99)80297-9) | simplified-score points and probable / definite bands; revised criteria for atypical cases | [[autoimmune-hepatitis]] |
 | 📥 [Garcia-Pagán JC et al. TIPS for Budd-Chiari syndrome: long-term results and prognostic factors (BCS-TIPS PI). *Gastroenterology* 2008;135:808–15](https://doi.org/10.1053/j.gastro.2008.05.051) | BCS-TIPS prognostic index variables and points (Rotterdam score now in `raw/`) | [[budd-chiari-syndrome]] |
 | 📥 [Moreau R et al. Acute-on-chronic liver failure is a distinct syndrome (CANONIC). *Gastroenterology* 2013;144:1426–37](https://doi.org/10.1053/j.gastro.2013.02.042) | CLIF-SOFA organ-failure definitions and ACLF grade counts | [[acute-on-chronic-liver-failure]] |
-| 📥 [Papatheodoridis G et al. PAGE-B predicts HCC risk in Caucasians with CHB on 5-year antiviral therapy. *J Hepatol* 2016;64:800–6](https://doi.org/10.1016/j.jhep.2015.11.035) | PAGE-B point values (variables and bands already from [[aga-2026-hcc-surveillance]] Table 3) | [[hcc-surveillance]] |
-| 📥 [LI-RADS lexicon](https://www.acr.org/-/media/ACR/Files/RADS/LI-RADS/LIRADS-Lexicon-Table.pdf); ACR US LI-RADS Surveillance v2024 Core | **US visualization score A/B/C only** — the CT/MRI v2018 Core is ingested ([[acr-2018-li-rads-ct-mri-core]]) and closed the LR-1/2/M/TIV criteria and threshold growth | [[li-rads]], [[hcc-surveillance]] |
+| 📥 [Papatheodoridis G et al. PAGE-B predicts HCC risk in Caucasians with CHB on 5-year antiviral therapy. *J Hepatol* 2016;64:800–6](https://doi.org/10.1016/j.jhep.2015.11.035) | **gap closed 2026-10-27** — the PAGE-B point values are printed in [[acr-2024-li-rads-us-surveillance-core]] footnote d and are now on the page. The paper is in `raw/` and is still ingested with the rest of the backlog, but nothing is waiting on it | [[hcc-surveillance]] |
+| 📥 [LI-RADS lexicon](https://www.acr.org/-/media/ACR/Files/RADS/LI-RADS/LIRADS-Lexicon-Table.pdf) | **the lexicon's own standardized term definitions.** Both Core documents are now ingested — [[acr-2018-li-rads-ct-mri-core]] closed the LR-1/2/M/TIV criteria and threshold growth, and [[acr-2024-li-rads-us-surveillance-core]] closed the US visualization score VIS-A/B/C. **Low priority:** each Core defines the terms it uses | [[li-rads]], [[hcc-surveillance]] |
 | 📥 [Ho GT et al. Predicting the outcome of severe ulcerative colitis: a novel risk score. *Aliment Pharmacol Ther* 2004;19:1079–87](https://doi.org/10.1111/j.1365-2036.2004.01945.x) | Ho index points and colectomy cut-point | [[ulcerative-colitis]] |
 | 📥 [Narula N et al. Categorising endoscopic severity of Crohn's disease using the MM-SES-CD. *J Crohns Colitis* 2022;16:1011–9](https://doi.org/10.1093/ecco-jcc/jjac018) | per-feature weights, range, bands | [[ibd-endoscopic-scoring]] |
 | 📥 [Gralnek IM et al. Development of a capsule endoscopy scoring index for small bowel mucosal inflammatory change (Lewis score). *Aliment Pharmacol Ther* 2008;27:146–54](https://doi.org/10.1111/j.1365-2036.2007.03556.x) | per-parameter points and severity bands | [[capsule-endoscopy]] |
@@ -68,7 +64,7 @@ FDA prescribing information from [DailyMed](https://dailymed.nlm.nih.gov/dailyme
 |---|---|---|
 | Cimzia (certolizumab), Simponi (golimumab), Humira (adalimumab) labels | induction schedules, intervals, reaction and lupus / paradoxical-psoriasis management | [[anti-tnf-agents]] |
 | Stelara (ustekinumab), Tremfya (guselkumab), Omvoh (mirikizumab), Skyrizi (risankizumab) labels | dosing, TB/HBV screening, reaction rates, pregnancy | [[il-23-and-il-12-23-inhibitors]] |
-| Ibsrela (tenapanor), Trulance (plecanatide) labels *(Linzess taken 2026-10-26 → [[linzess-2026-linaclotide-label]])* | contraindications, pediatric limits, renal / hepatic adjustment | [[tenapanor]], [[plecanatide]] |
+| Trulance (plecanatide) label *(Linzess taken 2026-10-26 → [[linzess-2026-linaclotide-label]]; Ibsrela taken 2026-10-27 → [[ibsrela-2025-tenapanor-label]])* | contraindications, pediatric limits, renal / hepatic adjustment | [[plecanatide]] |
 | Prograf (tacrolimus) label | neurotoxicity / adverse-effect detail | [[tacrolimus]] |
 | Givlaari (givosiran) label | mg/kg dose | [[givosiran]] |
 | Rebyota / Vowst labels | dosing | [[fmt]] |

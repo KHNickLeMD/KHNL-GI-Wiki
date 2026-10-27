@@ -3,7 +3,7 @@ title: "Hepatic Encephalopathy"
 category: disease-script
 tags: [hepatic-encephalopathy, HE, cirrhosis, ammonia, lactulose, rifaximin, TIPS, portal-hypertension, ACLF, minimal-HE, covert-HE, overt-HE, portosystemic-shunting, brain-dysfunction, west-haven, bristol-stool-scale, sarcopenia]
 created: 2026-05-28
-updated: 2026-09-06
+updated: 2026-10-27
 sources: [acg-2026-hepatic-encephalopathy, baveno-viii-2026-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -200,8 +200,7 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 - **First-line outpatient secondary prophylaxis after an initial OHE episode, titrated to 2–3 soft bowel movements daily** (ACG 2026, Rec 10, *strong, high certainty*; 2014 Rec 25, Grade II-1, A, 1)
 - **Acute dosing:** 10–20 g (15–30 mL) **every 2 h** until 2 soft bowel movements (BMs), then reduce to **2–4× daily** to maintain 2–3 BMs/day
 - **Grade 3–4 / unable to swallow / aspiration risk:** nasogastric administration at similar dosing, **or** lactulose enema with preserved anal sphincter tone — **200 g lactulose (or 300 mL solution) in 700 mL water or saline, retained 30–60 min, repeated every 4–6 h** until mental status improves
-- **Titrate with the Bristol Stool Scale (BSS) plus BM frequency** to reduce readmissions (ACG 2026, Rec 11, *conditional, very low certainty*). BSS ≥5 → cut back lactulose, or add [[rifaximin]] if already on lactulose. BSS ≥5 *before* starting lactulose → consider a non-laxative therapy de novo for adherence
-  - [[acg-2026-hepatic-encephalopathy]] uses the Bristol Stool Form Scale without reproducing the 7 types; the scale itself is in the primary Lewis–Heaton paper (see also [[chronic-constipation]] and [[chronic-diarrhea]])
+- **Titrate with the [[bristol-stool-form-scale|Bristol Stool Scale]] (BSS) plus BM frequency** to reduce readmissions (ACG 2026, Rec 11, *conditional, very low certainty*). BSS ≥5 → cut back lactulose, or add [[rifaximin]] if already on lactulose. BSS ≥5 *before* starting lactulose → consider a non-laxative therapy de novo for adherence
 - **Overuse harms:** perianal skin irritation/infection, ileus, aspiration, dehydration, hypernatremia, hypokalemia — each can itself precipitate HE
 - **ICU/intubated patients:** titrate on bowel movements (mental status not assessable); with a fecal management system, **hold lactulose and other laxatives if >300 mL stool/day**; watch for hypernatremia and aspiration
 - Breakthrough HE on lactulose is usually **nonadherence or dehydration**

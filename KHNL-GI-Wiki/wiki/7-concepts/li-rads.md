@@ -4,7 +4,7 @@ category: concept
 tags: [li-rads, hcc, liver, imaging, mri, ct, ceus, surveillance, cirrhosis, hpb]
 created: 2026-06-01
 updated: 2026-10-27
-sources: [aasld-2023-hcc, acg-2024-focal-liver-lesions, nccn-2026-hcc, acr-2018-li-rads-ct-mri-core]
+sources: [aasld-2023-hcc, acg-2024-focal-liver-lesions, nccn-2026-hcc, acr-2018-li-rads-ct-mri-core, acr-2024-li-rads-us-surveillance-core]
 ---
 
 **Liver Imaging Reporting and Data System (LI-RADS)** is the standardized framework for reporting liver observations on contrast-enhanced computed tomography (CT)/magnetic resonance imaging (MRI) in patients **at risk for [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]]**. Each observation gets a probability category (LR-1 → LR-5, plus LR-M and LR-TIV) that maps directly to a management action — allowing HCC to be diagnosed **noninvasively, without biopsy**, in the at-risk population ([[aasld-2023-hcc]] Guidance Statement [GS] 16a; [[nccn-2026-hcc]]).
@@ -152,7 +152,7 @@ Optional, at the radiologist's discretion, for detection, confidence or **catego
 - Extracellular and hepatobiliary MRI contrast agents equally recommended.
 - **Contrast-enhanced ultrasound (CEUS)** is second-line — acceptable specificity for LR-5, but limited by operator dependency, patient/tumor visualization factors, absent full staging data, and insufficient information for treatment planning; use when MRI/CT are unavailable, inconclusive, or contraindicated, particularly when biopsy is not feasible.
 - **CEUS is not recommended by NCCN** for whole-liver assessment, surveillance, or staging — only as a problem-solving tool for indeterminate nodules at centers of expertise ([[nccn-2026-hcc]]).
-- LI-RADS is the *diagnostic* step downstream of screening ultrasound; the ultrasound (US) visualization-score recall algorithm belongs on [[hcc-surveillance]].
+- LI-RADS is the *diagnostic* step downstream of screening ultrasound. The **surveillance** exam has its own companion system — **LI-RADS US Surveillance v2024** (US-1/2/3 categories and the VIS-A/B/C visualization scores) — which lives on [[hcc-surveillance]]. ⚠ Its tiebreak runs the **opposite** way to the diagnostic one above: unsure → take the category with **greater** suspicion, to maximize sensitivity ([[acr-2024-li-rads-us-surveillance-core]]).
 
 ---
 
@@ -176,3 +176,4 @@ Optional, at the radiologist's discretion, for detection, confidence or **catego
 2. [[acg-2024-focal-liver-lesions|ACG Clinical Guideline: Focal Liver Lesions (2024)]]
 3. [[nccn-2026-hcc|NCCN Clinical Practice Guidelines in Oncology: Hepatocellular Carcinoma (2026)]]
 4. [[acr-2018-li-rads-ct-mri-core|ACR CT/MRI LI-RADS v2018 Core]]
+5. [[acr-2024-li-rads-us-surveillance-core|ACR LI-RADS Ultrasound Surveillance v2024 Core]]

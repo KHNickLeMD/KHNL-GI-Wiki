@@ -3,7 +3,7 @@ title: "Lactulose"
 category: med
 tags: [lactulose, nonabsorbable-disaccharide, osmotic-laxative, hepatic-encephalopathy, cirrhosis, ammonia, constipation, acute-on-chronic-liver-failure, rifaximin, breath-testing]
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-10-27
 sources: [acg-2026-hepatic-encephalopathy, aasld-easl-2014-hepatic-encephalopathy, aasld-2024-aclf, baveno-viii-2026-portal-hypertension, aga-acg-2023-constipation, acg-2025-liver-nutrition, aasld-2011-alf, acg-2023-alf, aga-2018-surgical-risk-perioperative-cirrhosis, aga-2024-pregnancy-gi-liver, acg-2020-sibo]
 ---
 
@@ -85,7 +85,7 @@ Nonabsorbable disaccharide. Mechanism is described as controversial ([[acg-2026-
 ### Outpatient secondary prophylaxis
 
 - Dose and frequency titrated to **2–3 soft bowel movements daily** — the target that balances efficacy against diarrhea-associated hypovolemia
-- Use the **Bristol Stool Scale together with bowel-movement frequency** for outpatient titration, to reduce readmissions (ACG 2026 Rec 11, *conditional, very low certainty*)
+- Use the **[[bristol-stool-form-scale|Bristol Stool Scale]] together with bowel-movement frequency** for outpatient titration, to reduce readmissions (ACG 2026 Rec 11, *conditional, very low certainty*)
 
 ### Chronic idiopathic constipation
 

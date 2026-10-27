@@ -3,8 +3,8 @@ title: "Hereditary Hemorrhagic Telangiectasia (HHT)"
 category: disease-script
 tags: [hht, osler-weber-rendu, telangiectasia, avm, hepatic-vascular-malformation, lvm, bevacizumab, gi-bleeding, smad4]
 created: 2026-05-21
-updated: 2026-10-19
-sources: [hht-2020-second-international-guidelines, acg-2020-hepatic-mesenteric-circulation, acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis, acg-2015-small-bowel-bleeding]
+updated: 2026-10-27
+sources: [hht-2020-second-international-guidelines, acg-2020-hepatic-mesenteric-circulation, acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis, acg-2015-small-bowel-bleeding, shovlin-2000-curacao-criteria]
 ---
 
 ## Contents
@@ -51,7 +51,22 @@ Other presentations: **biliary ischemia** (secondary sclerosing cholangitis, bil
 
 **Two routes to the diagnosis** ([[hht-2020-second-international-guidelines]] G1): **the Curaçao criteria, or identification of a causative mutation.** **One or more Curaçao criteria should prompt consideration of the diagnosis** (G2). An **asymptomatic child of a parent with HHT is considered to have possible HHT unless excluded by genetic testing** (G3).
 
-> The Curaçao criteria are **named but not reproduced** in any ingested source — [[hht-2020-second-international-guidelines]] places the four criteria in a supplement, and [[acg-2020-hepatic-mesenteric-circulation]] addresses only hepatic/GI management of already-diagnosed HHT. This page therefore cannot list the individual criteria.
+**The Curaçao criteria** ([[shovlin-2000-curacao-criteria]]) — count the four; **3 or more = definite · 2 = possible or suspected · fewer than 2 = unlikely**.
+
+| # | Criterion | As specified |
+|---|---|---|
+| **1** | **Epistaxis** | **Spontaneous, recurrent** nose bleeds |
+| **2** | **Telangiectases** | **Multiple**, at characteristic sites — **lips, oral cavity, fingers, nose** |
+| **3** | **Visceral lesions** | GI telangiectasia (± bleeding) · **pulmonary**, **hepatic**, **cerebral** or **spinal** AVM |
+| **4** | **Family history** | A **first-degree relative** with HHT by these criteria |
+
+- **No numeric threshold for epistaxis** — it need only be **spontaneous and on more than one occasion**; night-time bleeds are particularly suspicious. Telangiectases are defined by **site, not count**.
+- **Anemia alone does not contribute** to the diagnosis.
+- **Exclude a coagulation disorder** before counting criteria.
+- **Within a known HHT family**, a firm diagnosis can rest on **two separate visceral manifestations** — this does **not** apply to the general population.
+
+> [!pitfall] "Unlikely" does not mean unlikely in a child
+> Fewer than two criteria rules HHT unlikely **in an adult only** — penetrance is age-dependent and the disease may not manifest until late in life, so every offspring of an affected person stays at risk. That is why G3 above treats an asymptomatic child of an affected parent as **possible HHT until genetic testing excludes it** ([[shovlin-2000-curacao-criteria]], [[hht-2020-second-international-guidelines]]).
 
 **Genetic testing** ([[hht-2020-second-international-guidelines]] G4–G5, all level III, weak):
 
@@ -224,3 +239,4 @@ flowchart TD
 3. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
 4. [[aga-2022-hamartomatous-polyposis|US Multi-Society Task Force Guideline: GI Hamartomatous Polyposis Syndromes (2022)]]
 5. [[acg-2015-small-bowel-bleeding|ACG Clinical Guideline: Diagnosis and Management of Small Bowel Bleeding]]
+6. [[shovlin-2000-curacao-criteria|Diagnostic Criteria for Hereditary Hemorrhagic Telangiectasia (Rendu-Osler-Weber Syndrome) — the Curaçao Criteria]]

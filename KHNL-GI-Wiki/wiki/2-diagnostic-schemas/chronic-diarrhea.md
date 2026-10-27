@@ -3,13 +3,13 @@ title: "Chronic Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, chronic, malabsorption, secretory, osmotic, inflammatory, steatorrhea, ibs]
 created: 2026-06-04
-updated: 2026-09-25
+updated: 2026-10-27
 sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, aga-2020-sibo, aga-2019-lab-evaluation-functional-diarrhea-ibs-d]
 ---
 
 ## Definition / Scope
 
-- **Definition:** decreased stool consistency (loose or watery) lasting **>4 weeks**. Defined by **stool consistency** (Bristol 6–7), not frequency alone.
+- **Definition:** decreased stool consistency (loose or watery) lasting **>4 weeks**. Defined by **stool consistency** ([[bristol-stool-form-scale|Bristol]] 6–7), not frequency alone.
 - **Why the duration matters:** it separates chronic diarrhea from [[acute-diarrhea]] (<14 days) and persistent diarrhea (14–30 days), and shifts the differential away from infection toward non-infectious causes.
 - **Must be distinguished from:**
   - **Pseudodiarrhea** — frequent small volumes with urgency, as in proctitis or [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]]
@@ -33,7 +33,7 @@ The most useful framework is to classify by **stool character** into watery, inf
 
 ### Mechanistic Classification
 
-> ⚠ No ingested guideline states the secretory/osmotic/inflammatory/fatty scheme, the stool osmotic-gap formula, or its **<50 / >75 mOsm/kg** cut-points; the same is true of the **Bristol 6–7** anchor above. Use the mechanistic table to organise the differential, not as a validated decision rule.
+> ⚠ No ingested guideline states the secretory/osmotic/inflammatory/fatty scheme, the stool osmotic-gap formula, or its **<50 / >75 mOsm/kg** cut-points, and none prints a numeric Bristol cut-off for diarrhea. Use the mechanistic table to organise the differential, not as a validated decision rule.
 
 | Type | Mechanism | Stool osmotic gap | Fasting response |
 |---|---|---|---|

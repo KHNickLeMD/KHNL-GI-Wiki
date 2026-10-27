@@ -3,8 +3,8 @@ title: "HCC Surveillance"
 category: concept
 tags: [hcc, hepatocellular-carcinoma, surveillance, cirrhosis, hepatitis-b, biomarker, afp, galad]
 created: 2026-06-01
-updated: 2026-09-05
-sources: [aga-2026-hcc-surveillance, aasld-2023-hcc, aasld-idsa-2025-chb-treatment, aga-2020-hcc-screening-nafld]
+updated: 2026-10-27
+sources: [aga-2026-hcc-surveillance, aasld-2023-hcc, aasld-idsa-2025-chb-treatment, aga-2020-hcc-screening-nafld, acr-2024-li-rads-us-surveillance-core]
 ---
 
 Framework for hepatocellular carcinoma (HCC) surveillance — who, how, how often, and emerging tools. **This page is the single home for the surveillance-indication table**; other pages link here rather than reproducing it. For tumor diagnosis/staging/treatment see [[hepatocellular-carcinoma]]; for imaging classification see [[li-rads]]; for the post-abnormal-test recall algorithm see [[hepatocellular-carcinoma]] → *Surveillance Recall Algorithm*.
@@ -15,6 +15,7 @@ Framework for hepatocellular carcinoma (HCC) surveillance — who, how, how ofte
   - [[#Insufficient Risk / Do Not Survey]]
   - [[#Qualifiers That Change the Answer]]
 - [[#Surveillance Modality]]
+- [[#Reporting the Surveillance Ultrasound (LI-RADS US Surveillance v2024)]]
 - [[#Interval]]
 - [[#Harms & Limitations]]
 - [[#Emerging Biomarkers]]
@@ -69,7 +70,18 @@ Surveillance is targeted to those who **would be candidates for HCC treatment** 
 - **Children/adolescents with HBV/HDV co-infection** — HCC risk is largely unknown; individualize on age, family history, and fibrosis stage (the "all adults" rule does not extend to them).
 - **What changed:** the incidence threshold for initiating surveillance in cirrhosis is now modeled at **~1.0%/y**, *lower* than the traditional **1.5%/y** cutoff readers may still carry.
 - **Component variables and risk bands** ([[aga-2026-hcc-surveillance]], Table 3) — **PAGE-B:** age, sex, platelet count (low <10 · intermediate 10–17 · high ≥18). **REAL-B:** age, male sex, alcohol use, cirrhosis, diabetes, platelet count, alpha-fetoprotein (low <4 · intermediate 4–7 · high 8–13). **AASL-HCC:** age, male sex, albumin, cirrhosis (low ≤5 · intermediate 6–19 · high ≥20). **aMAP:** age, gender, platelet count, albumin-bilirubin grade — C-index 0.78, incidence 0.98 / 7.05 / 29.1 per 1000 person-years across the low/moderate/high bands.
-- The **point value assigned to each variable** is in the derivation papers, not the guidances — use a calculator for the arithmetic.
+- **PAGE-B point values** ([[acr-2024-li-rads-us-surveillance-core]], footnote d) — add one from each column:
+
+| Age | Points | Sex | Points | Platelets (/µL) | Points |
+|---|---|---|---|---|---|
+| <30 | 0 | Female | 0 | ≥200,000 | 0 |
+| 30–39 | 2 | **Male** | **6** | 100,000–199,999 | 6 |
+| 40–49 | 4 | | | <100,000 | 9 |
+| 50–59 | 6 | | | | |
+| 60–69 | 8 | | | | |
+| ≥70 | 10 | | | | |
+
+- Point values for the other scores (REAL-B, AASL-HCC, aMAP) are in their derivation papers, not the guidances — use a calculator for the arithmetic.
 
 ## Surveillance Modality
 
@@ -83,6 +95,51 @@ Surveillance is targeted to those who **would be candidates for HCC treatment** 
   - ⚠ Countervailing signal in the same guidance: early data suggest MRI-based surveillance may have **poorer** performance in **Child-Pugh B or C** cirrhosis, a group where blood-based biomarkers may matter more. (The "CT/MRI may be preferred in obesity, alcohol/NASH cirrhosis, or Child-Pugh B–C" note is a footnote to the **recall** algorithm, not a surveillance-modality recommendation — see [[hepatocellular-carcinoma]].)
   - Abbreviated MRI protocols reached sensitivity 80–90% / specificity 91–98% in small cohorts; not yet guideline-endorsed.
 - A positive surveillance test triggers diagnostic recall imaging → see [[li-rads]] and [[hepatocellular-carcinoma]].
+
+## Reporting the Surveillance Ultrasound (LI-RADS US Surveillance v2024)
+
+*Every surveillance ultrasound carries **two whole-liver assessments** — what was seen (US category) and how well it could be seen (visualization score). Both drive management. ([[acr-2024-li-rads-us-surveillance-core]])*
+
+| US category | Definition |
+|---|---|
+| **US-1 Negative** | **No observation**, or only **definitely benign** observation(s) — simple cyst, focal fat sparing at the gallbladder fossa, previously confirmed hemangioma |
+| **US-2 Subthreshold** | Observation(s) **<10 mm**, not definitely benign |
+| **US-3 Positive** | Observation(s) **≥10 mm** not definitely benign, **including parenchymal distortion**, **or new thrombus in portal or hepatic vein** |
+
+- **Observation** = a distinctive area compared with background liver. **Parenchymal distortion** counts as US-3 only when it is **≥10 mm** and shows ill-defined heterogeneity, refractive edge shadows, or loss of normal hepatic architecture.
+
+| Visualization score | Definition | Typical cause |
+|---|---|---|
+| **VIS-A** No or minimal limitations | Limitations unlikely to meaningfully affect sensitivity | Liver homogeneous or mildly heterogeneous; visualized in near entirety |
+| **VIS-B** Moderate limitations | May obscure **small (<10 mm)** observations | Parenchymal heterogeneity; moderate beam attenuation; some liver or diaphragm not seen |
+| **VIS-C** Severe limitations | **Significantly lower** sensitivity for liver observations | Severely heterogeneous liver; severe attenuation; **>50% of a lobe or of the diaphragm not visualized** |
+
+**AFP positive** = **AFP ≥20 ng/mL**, **or** doubling (or more), **or** increasing on two consecutive tests — e.g. 10 → 15 → 19 ng/mL is positive ([[acr-2024-li-rads-us-surveillance-core]], aligned with [[aasld-2023-hcc]]).
+
+**Management — the first row that applies governs:**
+
+```mermaid
+flowchart TD
+    A["Surveillance US in patient<br/>at high risk for HCC"] --> B{"US-3 Positive?"}
+    B -->|Yes| B1["Diagnostic MRI, CT, or CEUS"]
+    B -->|No| C{"AFP positive?"}
+    C -->|Yes| C1["Diagnostic MRI or CT<br/>(not CEUS — no US correlate)"]
+    C -->|No| D{"VIS-C?"}
+    D -->|Yes| D1["Repeat US within 3 months x 1<br/>OR alternative surveillance modality"]
+    D -->|No| E{"US-2 Subthreshold?"}
+    E -->|Yes| E1["Repeat US in 3-6 months x 2"]
+    E -->|No| F["US-1, VIS-A or VIS-B<br/>Repeat US in 6 months"]
+```
+
+- **US-2 can be walked back down:** if the observation is no longer seen or stays <10 mm over **two** follow-up exams it is considered benign — recategorize **US-1** and return to 6-month surveillance.
+- **VIS-C — which branch depends on named risk factors for *repeat* VIS-C:** **MASH- or alcohol-related cirrhosis · Child-Turcotte-Pugh class B or C · body mass index ≥35 kg/m²**. None present → repeat the ultrasound within 3 months (the score often improves). **One or more present → consider an alternative strategy after the first VIS-C**, because the repeat is likely to be VIS-C again. Alternatives are full MRI, abbreviated MRI or multiphase CT, with **no evidence favoring one**.
+- **Alternative imaging is not recommended for VIS-A or VIS-B** — HCC detection sensitivity is **>75%** for both.
+- **Tiebreak runs toward suspicion:** unsure between two categories → take the higher (US-1 vs US-2 → US-2). ⚠ The **opposite** of the diagnostic tiebreak on [[li-rads]], which takes the lower-certainty category.
+
+> [!pitfall] VIS-B: the one place LI-RADS and AASLD disagree
+> [[aasld-2023-hcc]] suggests **two short-interval ultrasounds** for a VIS-B exam; **LI-RADS US v2024 keeps VIS-B on routine 6-month surveillance**, on evidence that VIS-B and VIS-A have similar sensitivity. The newer document carries this page. **VIS-B alone ≠ US-2** — a subthreshold *observation* still earns short-interval follow-up whatever the visualization score. ([[acr-2024-li-rads-us-surveillance-core]])
+
+**Getting a usable exam** — surveillance ultrasound should be done in **outpatients** whenever possible; in acutely ill inpatients visualization is more often limited, producing false negatives and falsely poor visualization scores. **Nil per os 4–6 hours**, adjust positioning, inspiration and acoustic window, use adequate probe pressure, and balance resolution against penetration. Document the **entire liver** plus main portal vein patency on grayscale and color Doppler; record each observation's size in **3 dimensions**, segment, and any **arterialized flow in an occluded vein** (which indicates tumor in vein). ([[acr-2024-li-rads-us-surveillance-core]])
 
 ## Interval
 
@@ -124,3 +181,4 @@ Surveillance is targeted to those who **would be candidates for HCC treatment** 
 2. [[aasld-2023-hcc|AASLD 2023 Practice Guidance: Prevention, Diagnosis, and Treatment of Hepatocellular Carcinoma]]
 3. [[aasld-idsa-2025-chb-treatment|AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B]]
 4. [[aga-2020-hcc-screening-nafld|AGA Clinical Practice Update on Screening and Surveillance for Hepatocellular Carcinoma in Patients with Nonalcoholic Fatty Liver Disease: Expert Review (2020)]]
+5. [[acr-2024-li-rads-us-surveillance-core|ACR LI-RADS Ultrasound Surveillance v2024 Core]]

@@ -3,8 +3,8 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-10-22
-sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance, aasld-idsa-2025-chb-treatment, mehta-2017-retreat-hcc-recurrence-post-transplant]
+updated: 2026-10-27
+sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance, aasld-idsa-2025-chb-treatment, mehta-2017-retreat-hcc-recurrence-post-transplant, acr-2024-li-rads-us-surveillance-core]
 ---
 
 ## Contents
@@ -102,7 +102,7 @@ sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-t
 | Lesion ≥1 cm | Diagnostic multiphasic MRI or CT |
 | **AFP ≥20 ng/mL** (even without a lesion), or rising on 2 consecutive tests / doubling | Diagnostic multiphasic MRI or CT |
 
-- Visualization score: from the radiology report (American College of Radiology LI-RADS US algorithm).
+- Visualization score: from the radiology report. **VIS-A / VIS-B / VIS-C and the US-1/2/3 categories are defined on [[hcc-surveillance]]**, which also carries the newer [[acr-2024-li-rads-us-surveillance-core|LI-RADS US Surveillance v2024]] algorithm — it keeps **VIS-B on routine 6-month surveillance** rather than the two short-interval exams in the AASLD row above.
 - **AFP high (≥200 or ≥400 ng/mL may count), no lesion:** other CT/MRI modality ± chest/pelvic CT → then positron emission tomography-CT.
 - **Recall by CT/MRI** may be preferred with [[obesity]], alcohol- or steatohepatitis-related cirrhosis, or Child-Pugh B/C (recall only, not routine surveillance). [[aasld-2023-hcc]]
 
@@ -356,3 +356,4 @@ flowchart TD
 7. [[aga-2026-hcc-surveillance|AGA Clinical Practice Update on Risk Stratification and Emerging Surveillance Strategies for Hepatocellular Carcinoma: Expert Review]]
 8. [[aasld-idsa-2025-chb-treatment|AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B]]
 9. [[mehta-2017-retreat-hcc-recurrence-post-transplant|Validation of a Risk Estimation of Tumor Recurrence After Transplant (RETREAT) Score for Hepatocellular Carcinoma Recurrence After Liver Transplant]]
+10. [[acr-2024-li-rads-us-surveillance-core|ACR LI-RADS Ultrasound Surveillance v2024 Core]]

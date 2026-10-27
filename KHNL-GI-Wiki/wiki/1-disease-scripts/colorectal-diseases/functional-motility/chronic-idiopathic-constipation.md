@@ -3,7 +3,7 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-10-18
+updated: 2026-10-27
 sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi, aga-2019-opioid-induced-constipation]
 ---
 
@@ -109,7 +109,7 @@ Assess impact on quality of life (QoL) with the **PAC-QOL** (Patient Assessment 
 ### Initial Workup
 
 - TSH, calcium, metabolic panel — to exclude secondary causes
-- Stool diary (Bristol Stool Form Scale, frequency, Bristol 1–2 stools confirm hard/lumpy)
+- Stool diary ([[bristol-stool-form-scale|Bristol Stool Form Scale]], frequency, Bristol 1–2 stools confirm hard/lumpy)
 - Review all medications
 
 ### Anorectal Physiology Testing (if outlet dysfunction suspected)

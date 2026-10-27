@@ -3,7 +3,7 @@ title: "Fecal Incontinence"
 category: disease-script
 tags: [fecal-incontinence, anorectal, biofeedback, sacral-nerve-stimulation, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-10-04
+updated: 2026-10-27
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, rome-v-2026-dgbi, aga-2017-surgical-device-fecal-incontinence]
 ---
 
@@ -83,7 +83,7 @@ Severity is graded from **symptom burden** (type, frequency, and amount of leaka
 
 ### Initial Assessment (All Patients)
 
-- **Bristol Stool Form Scale + bowel diary** — characterize stool consistency and frequency; soft/liquid stools worsen FI
+- **[[bristol-stool-form-scale|Bristol Stool Form Scale]] + bowel diary** — characterize stool consistency and frequency; soft/liquid stools worsen FI
 - **Digital rectal examination (DRE):** assess resting and squeeze tone, palpate for masses, check for fecal impaction, assess pelvic floor motion during simulated defecation
 - **Laboratory:** complete blood count (CBC), thyroid function if diarrhea-prominent or systemic features
 - **Structural endoscopic evaluation:** all FI patients should undergo flexible sigmoidoscopy or [[colonoscopy]] as indicated by age, family history, and prior endoscopic evaluation — to exclude mucosal disease (IBD, [[colorectal-cancer|neoplasia]], radiation proctopathy). *(American Society for Gastrointestinal Endoscopy (ASGE) 2010)* [[asge-2010-anorectal-disorders]]

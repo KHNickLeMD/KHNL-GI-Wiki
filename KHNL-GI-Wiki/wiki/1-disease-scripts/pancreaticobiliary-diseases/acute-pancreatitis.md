@@ -4,7 +4,7 @@ category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
 updated: 2026-10-27
-sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis, aga-2018-initial-management-acute-pancreatitis, bsg-2017-common-bile-duct-stones, idsa-2016-candidiasis]
+sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis, aga-2018-initial-management-acute-pancreatitis, bsg-2017-common-bile-duct-stones, idsa-2016-candidiasis, banks-2013-revised-atlanta-classification, wu-2008-bisap-score]
 ---
 
 # Acute Pancreatitis
@@ -82,7 +82,19 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 | Simple clinical terms | **Shock: systolic blood pressure (BP) <90 mm Hg**; **pulmonary insufficiency: arterial oxygen partial pressure (PaO₂) <60 mm Hg**; **renal failure: creatinine >2 mg/dL after rehydration**; and/or **gastrointestinal (GI) bleeding >500 mL/24 h** |
 | Modified Marshall score | **≥2 in any of the 3 accepted organ systems** (respiratory, renal, cardiovascular) |
 
-- ACG 2024 names the modified Marshall score but does not reproduce its per-domain point cut-points (they are in the Atlanta 2012 revision, Banks et al.); use the simple clinical criteria above.
+**Modified Marshall score — the per-domain cut-points** ([[banks-2013-revised-atlanta-classification]], Table 1). **≥2 in any one system = organ failure**; a score of 1 in all three is **not** organ failure.
+
+| Organ system | 0 | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|---|
+| Respiratory (PaO₂/FiO₂) | >400 | 301–400 | 201–300 | 101–200 | ≤101 |
+| Renal — creatinine (mg/dL) | <1.4 | 1.4–1.8 | 1.9–3.6 | 3.6–4.9 | >4.9 |
+| Renal — creatinine (µmol/L) | ≤134 | 134–169 | 170–310 | 311–439 | >439 |
+| Cardiovascular — systolic BP (mm Hg), **off inotropes** | >90 | <90, fluid responsive | <90, **not** fluid responsive | <90, pH <7.3 | <90, pH <7.2 |
+
+- **FiO₂ for non-ventilated patients:** room air 21% · 2 L/min 25% · 4 L/min 30% · 6–8 L/min 40% · 9–10 L/min 50%.
+- **Pre-existing chronic renal failure:** score on the **further deterioration from baseline** — no formal correction exists for a baseline creatinine ≥1.4 mg/dL (≥134 µmol/L).
+- **SOFA is preferred** when the patient is managed in critical care, where inotropic and respiratory support are accounted for.
+- **Re-score daily in the early phase** — convenient points are 24 h, 48 h and 7 days. Persistent SIRS means treating the patient as severe until organ failure declares itself.
 
 **Morphologic classification:** necrotizing AP (usually synonymous with moderately severe/severe) vs interstitial/edematous AP (usually mild). **Pancreatic necrosis** = diffuse or focal nonviable pancreatic parenchyma **>3 cm in size or >30% of the pancreas**.
 
@@ -97,7 +109,18 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 **How well prediction works — the caveat that governs use:** scoring systems and imaging alone are **not accurate** at determining who will develop moderately severe/severe AP (Key concept 7). At best **~50%** of cases predicted moderately severe/severe turn out to be so; prediction of **mild** AP is highly reliable (only ~3% progress), so the systems are chiefly useful to identify the mild patient for earlier discharge. Ranson, Imrie, and APACHE typically need 48 hours to become accurate, by which time the patient's condition is obvious regardless. **Bedside Index for Severity Scoring System (BISAP)** (which includes BUN and SIRS) has been consistently shown to be superior, **but may be no more accurate than simply monitoring BUN and the development of SIRS**.
 
-- ACG 2024 names BISAP but does not enumerate its components or point values (Wu 2008); use the Table 4 risk factors and the SIRS/BUN pair above.
+**BISAP — 1 point each, assessed within the first 24 h** ([[wu-2008-bisap-score]]). Estimates **in-hospital mortality**, not Atlanta severity grade.
+
+| | Component |
+|---|---|
+| **B** | **BUN >25 mg/dL** |
+| **I** | **Impaired mental status** — any disorientation, lethargy, somnolence, coma or stupor |
+| **S** | **SIRS ≥2** criteria |
+| **A** | **Age >60 y** |
+| **P** | **Pleural effusion** on chest radiograph or CT |
+
+- Mortality by score (validation): **0–1 → 0.1%–0.5% · 2 → 1.9% · 3 → 5.3% · 4 → 12.7% · 5 → 22.5%**. **≥3 marks the substantially increased-risk group**; ~60% of patients present with <2.
+- **No better than APACHE II** — area under the curve 0.82 vs 0.83, p = 0.2. Its advantage is being available **at 24 h from admission data**, not greater accuracy, which is why Key concept 7 above still governs.
 - In patients with **mild** disease, remain vigilant for severe disease and organ failure during the **initial 48 hours** (Key concept 8). Patients with organ failure and/or SIRS should preferably be admitted to a **monitored bed** (Key concept 6).
 
 ---
@@ -352,3 +375,5 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 9. [[aga-2018-initial-management-acute-pancreatitis|American Gastroenterological Association Institute Guideline on Initial Management of Acute Pancreatitis (2018)]]
 10. [[bsg-2017-common-bile-duct-stones|BSG 2017: Updated Guideline on the Management of Common Bile Duct Stones (CBDS)]]
 11. [[idsa-2016-candidiasis|Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America]]
+12. [[banks-2013-revised-atlanta-classification|Classification of Acute Pancreatitis — 2012: Revision of the Atlanta Classification and Definitions by International Consensus]]
+13. [[wu-2008-bisap-score|The Early Prediction of Mortality in Acute Pancreatitis: a Large Population-Based Study (BISAP)]]

@@ -3,7 +3,7 @@ title: "Irritable Bowel Syndrome"
 category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, diet, fiber, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-10-21
+updated: 2026-10-27
 sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d, aga-2020-sibo, aga-2022-diet-ibs, aga-2018-psychogastroenterology]
 ---
 
@@ -71,7 +71,7 @@ Symptom onset ≥6 months prior to diagnosis.
 
 ### Classification / Typing
 
-Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess off therapy, 2-week diary):
+Subtypes by [[bristol-stool-form-scale|Bristol Stool Form Scale]] **on days with abnormal stools** (assess off therapy, 2-week diary):
 
 | Subtype | Bristol Stool Form Scale (BSFS) 1–2 | BSFS 6–7 |
 |---|---|---|
@@ -81,8 +81,6 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 | IBS unclassified (IBS-U) | neither >25% nor matches above | |
 
 >50% of patients change predominant subtype over 1 year — re-classify periodically.
-
-> Subtyping runs entirely on the Bristol Stool Form Scale; the 7 Bristol types are not reproduced here or on [[chronic-constipation]].
 
 ---
 

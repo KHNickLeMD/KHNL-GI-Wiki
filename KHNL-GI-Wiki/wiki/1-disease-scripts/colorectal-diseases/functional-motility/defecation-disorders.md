@@ -3,7 +3,7 @@ title: "Defecation Disorders (Dyssynergic Defecation)"
 category: disease-script
 tags: [defecation-disorder, dyssynergia, outlet-obstruction, biofeedback, anorectal-manometry, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-10-20
+updated: 2026-10-27
 sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-dgbi, aga-2017-surgical-device-fecal-incontinence, aga-2026-refractory-constipation, london-2020-anorectal-classification]
 ---
 
@@ -143,7 +143,7 @@ Severity based on symptom burden, laxative dependence, impact on quality of life
 
 ### Step 1: Conservative Measures (Before Biofeedback)
 
-- Normalize stool form (Bristol 3–4): fiber supplement + adequate hydration + polyethylene glycol (PEG) if needed
+- Normalize stool form ([[bristol-stool-form-scale|Bristol]] 3–4): fiber supplement + adequate hydration + polyethylene glycol (PEG) if needed
 - Toileting behavior: scheduled defecation, footstool, avoid excessive straining
 - Treat concurrent anorectal conditions ([[anal-fissure|anal fissure]], [[hemorrhoids]]) that reinforce voluntary sphincter contraction
 - Address constipating medications

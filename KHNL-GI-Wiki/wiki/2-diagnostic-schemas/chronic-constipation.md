@@ -3,7 +3,7 @@ title: "Chronic Constipation"
 category: diagnostic-schema
 tags: [constipation, colorectal, functional, dgbi, anorectal-manometry, colonic-transit, defecation-disorder]
 created: 2026-08-27
-updated: 2026-10-04
+updated: 2026-10-27
 sources: [aga-2026-refractory-constipation, aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, rome-v-2026-dgbi, acg-2021-crc-screening, aga-2019-opioid-induced-constipation]
 ---
 
@@ -34,7 +34,7 @@ The adult presenting with **infrequent and/or unsatisfactory defecation** — ho
   - **The label needs one of four operational criteria, not just the narrative above.** International consensus definitions quoted by [[aga-2026-refractory-constipation]] require "infrequent and/or unsatisfactory bowel habits" **plus any one** of:
     1. Inadequate number of bowel movements most of the time, **and complete bowel movements on fewer than 3 days/week**
     2. **Straining on most occasions**, or worsening straining
-    3. **No improvement in stool consistency on current therapy, and Bristol stool scale score <3**
+    3. **No improvement in stool consistency on current therapy, and [[bristol-stool-form-scale|Bristol stool scale]] score <3**
     4. Insufficient improvement of another sign or symptom of CC on current treatment
   - This matters because RC is what triggers the whole downstream arm — repeat transit on a maximal laxative regimen, defecography, off-label agents, and the surgical conversation below
 
@@ -48,8 +48,6 @@ Most patients hold misconceptions about normal bowel habit, so the normal range 
 |---|---|
 | Stool frequency | **~95%** of individuals fall between **3 bowel movements/day and 3 bowel movements/week** |
 | Stool consistency | **90%** have an average **Bristol 3–5 (men)** and **Bristol 2–6 (women)** |
-
-> The guidelines use the Bristol Stool Form Scale without printing the 7 types; the consistency row above (and the Bristol <3 entry criterion used by [[aga-2026-refractory-constipation]]) requires the scale itself, which is in the primary Lewis–Heaton paper. The same applies on [[chronic-diarrhea]], where "Bristol 6–7" anchors the definition of diarrhea.
 
 ### The three physiologic subtypes
 
