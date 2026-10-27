@@ -6,17 +6,17 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
-## [2026-10-27] lint | Backlog mode — ingest pass
+## [2026-10-27] lint | Backlog mode — 7 ingests: the autoimmune-pancreatitis pair closes both of its page's declared gaps, LI-RADS finally gets its own criteria, and three pages stop saying "this source does not print the numbers"
 
 **Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands; title amended at the end to match what actually happened.
 
-**Backlog mode is ON**, carried forward from 2026-10-26. **22 of the 38 files that landed 2026-10-23 were still uningested at the start of this pass.** Per CLAUDE.md → LINT → *Missing source pages*, ingest takes the pass's budget and these steps are **paused: ingest backlog** — *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*, *Slim long pages*. Health check, git hygiene and this entry still run. **No daily source fetch** — that step belongs to the 06:00 server cron only, and this prompt is not that pass.
+**Backlog mode is ON**, carried forward from 2026-10-26. ⚠ **The hand-off said 22 uningested; a file-by-file check gives 24** — 11 in `raw/GI Guidelines/Other/` and **13** (not 11) in `raw/GI Other Studies/`. Every one of the 24 was checked by name against `wiki/sources/` before this pass picked anything, and none of the 13 score papers has a source page under any slug. **The count used from here is 24.** Per CLAUDE.md → LINT → *Missing source pages*, ingest takes the pass's budget and these steps are **paused: ingest backlog** — *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*, *Slim long pages*. Health check, git hygiene and this entry still run. **No daily source fetch** — that step belongs to the 06:00 server cron only, and this prompt is not that pass.
 
 **Git hygiene:** `git pull --rebase` → already up to date; working tree clean. **No untracked files anywhere, including under `raw/`** — and per the standing note in `index.md` that is *not* evidence of "no new arrivals", since `raw/`'s content subfolders are gitignored and the rsync rewrites mtimes. A direct per-subfolder count gives **505** non-asset files = the 463 of the 2026-10-22 audit + the 38 arrivals of 2026-10-23 + the 4 labels/guidelines fetched since, each already ingested. **No new delivery; nothing to commit from the inbox sync.**
 
 **Resume markers:** `grep -rln "^ingest: partial" wiki/sources/` → **0 hits. No source page is mid-ingest**, so this pass starts new files rather than finishing one.
 
-**Uningested backlog verified file-by-file, not by token match** (the method that produced the wrong counts of record). All 22 remaining are in `raw/GI Guidelines/Other/` (11) and `raw/GI Other Studies/` (11); each checked against `wiki/sources/` slugs before being picked.
+**Uningested backlog verified file-by-file, not by token match** (the method that produced the wrong counts of record).
 
 **Ingests (one file at a time, each finished before the next):**
 
@@ -58,6 +58,41 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
   - ⚠ **Recorded, not smoothed:** BIBC says **pre-placement endoscopy is not mandatory** (84.4%) while nearly every absolute contraindication on its own list is an endoscopic finding — the panel's answer is that the implanting endoscopist looks and aborts. Flagged on the page. Where AGA 2021 speaks on the same question it keeps the page (graded, newer, US).
   - **No-consensus items are preserved as splits** (sedation, maximum fill volume, lab testing, air travel, alcohol, thromboembolism, fungal colonization) rather than written up as recommendations.
   - `needed-sources.md`: the Neto row **deleted**.
+
+- **`ACR LI-RADS CT-MRI v2018 Core.pdf`** → `wiki/sources/acr-2018-li-rads-ct-mri-core.md`. **One of the three LI-RADS files on the row; the other two were not reached** (see the hand-off below).
+  - **[[li-rads]] — two declared gaps closed, both quoted from the page's own text.** (1) The boxed warning that *"LR-1, LR-2, LR-M and LR-TIV cannot be assigned from this page"* is **gone**, replaced by a *Categories Assigned Before the Table* section with the LR-M criteria, the LR-1/LR-2 entity lists and the distinctive-nodule definition (<20 mm, no major/LR-M/ancillary-malignant feature; ≥20 mm → LR-3 or higher). (2) The Major Features table said the **threshold-growth numeric definition** was in a document the wiki did not have — it is now printed: **≥50% size increase of a mass in ≤6 months**, the v2018 simplification that made **AASLD, OPTN and LI-RADS agree**.
+  - Also added: the full **ancillary-feature** table with the rule that matters — **ancillary features can never upgrade to LR-5**, the ceiling is LR-4, and *absence* of a feature is never grounds to adjust the other way — and the **tiebreak rules**, which all run to the lower-certainty category (unsure of hepatocellular origin → LR-M; unsure about tumor in vein → **not** LR-TIV; unsure about any feature → treat it as absent). A `[!pitfall]` on **FNH/adenoma never being LR-1**.
+  - **No contradiction with [[aasld-2023-hcc]]** — v2018 was deliberately harmonized with it, and the LR-3/4/5 table already on the page is the same grid.
+  - `needed-sources.md`: the LI-RADS row **amended, not deleted** — it now asks only for the **US visualization score A/B/C**, which lives in the separate US LI-RADS Surveillance v2024 Core. The Core itself names several LR-M sub-features (marked diffusion restriction, necrosis/severe ischemia) and defers their definitions to a manual that was pending at publication; the page says so rather than inventing them.
+
+**Ingest stopped here on budget — 7 files, all finished, none left mid-flight.**
+
+**Health check — clean.**
+
+- **714 pages** (was 707), **377 of them sources** (was 370) — the seven source pages written this pass, exactly. **No new entity or concept page was needed**; every target already existed.
+- **Broken links: 0** across the whole wiki outside `log.md`, resolved by basename with the four known detector caveats applied (skip `![[embeds]]`, split `[[page#Heading]]` on `#`, strip the trailing backslash from escaped alias pipes and size hints). Four links were checked before being written and three were **changed rather than created as stubs** — `type-2-diabetes`, `igg4-related-disease` and `igg4-sclerosing-cholangitis` do not exist, so the text was reworded (the first) or pointed at the page that does exist, [[igg4-related-cholangitis]] (the others). No speculative stub was created.
+- **`ingest: partial` markers: 0.** Set on each source page as it was created and cleared only after propagation, the `index.md` row, the `needed-sources.md` edit and this entry's bullet were all done for that file.
+- **Unescaped alias pipes in table cells: 0. Stubs: 0** (the only `Stub — to be expanded` hit is prose inside `log.md`). **`.DS_Store`: 0.**
+- **`needed-sources.md`: 5 rows deleted, 1 amended, 0 added.** Deleted: Pappas (IDSA candidiasis), Eisenberg (ASMBS-IFSO), Shimosegawa, Okazaki, Wimmer, Neto — the amended one is the three-document LI-RADS row, now reduced to the US visualization score.
+- **Page length:** [[intragastric-balloon]] finished at **2,403 body words**, under the 2,500 ceiling — propagation there was rationed to stay under it. The seven pages already flagged over the ceiling are unchanged and still queued for the first *Slim long pages* pass after backlog mode ends.
+
+**Paused this pass — backlog mode** (CLAUDE.md → LINT → *Missing source pages*): *Validate the stalest pages*, *Expand stubs* (0 stubs exist anyway), *Fill coverage gaps*, *Slim long pages*. **Nothing qualified for the daily source fetch** — it is a 06:00-cron-only step and this prompt is not that pass, so **0 downloads, by rule and not by shortage**.
+
+**Not done, and why:**
+
+- **No Anki cards and no deck rebuild.** Six of the seven files are tier-1 and their content **is** cardable, but card writing belongs to the nightly card pass. **No dedup sweep** either — no cards were written, so there was nothing to deduplicate against.
+- ⚠ **No figure screenshots — `pdftoppm` is permission-blocked in this session**, as in every unattended pass. **Both algorithm figures still reached their pages**: the Read tool renders PDF pages visually, so ICDC Figure 1 was read off the PDF and **recreated as a Mermaid flowchart**, and every table in all seven documents was **recreated natively** per the Style Guide. LI-RADS Figures and the Okazaki Figure 1 algorithm are summarized by the tables that carry the same content; no decision figure was dropped.
+- ⚠ **Operator-substitution hazard, now seen in three different publishers' PDFs in one pass.** `pdftotext` did not merely drop comparison operators, it **replaced them with characters that read as valid text**: Elsevier rendered `>` as `.` and `<` as `,` (ASMBS: "BMI .120%", "mortality ,1%"); Lippincott rendered `>` as `9`, `<` as `G` and `≤` as `e` (ICDC: "910 cells/HPF", "G5 mm", "e2 wk"); Elsevier again rendered `>` as `4` and en-dashes as `e` (BIBC: "hiatal hernia 45 cm", "0.6e1.0 mg/kg"). **Every threshold written to a page this pass was re-verified by reading the PDF page visually.** The standing memory note says "pdftotext silently drops ≥ ≤ ×" — that understates it; a dropped character is obvious, a substituted one is not.
+
+**Pick order for the next pass**, continuing the hand-off with the seven worked items removed. **17 of the 38 arrivals remain uningested; backlog mode stays on.**
+
+1. **LI-RADS Lexicon** and **ACR US LI-RADS Surveillance v2024 Core** — the other two thirds of the row opened this pass; the `needed-sources.md` row stays until the **US visualization score A/B/C** lands.
+2. **Lewis 1997 Bristol Stool Form Scale** — closes coverage-gap queue row **#32**, the last unstruck row; the 7 types are used by ≥6 pages and defined nowhere.
+3. **Banks 2013 Revised Atlanta Classification** (modified Marshall per-domain cut-points, a declared gap on [[acute-pancreatitis]]) with **Wu 2008 BISAP**, which pairs with it.
+4. **Shovlin 2000 Curaçao criteria** — [[hereditary-hemorrhagic-telangiectasia]] diagnoses HHT by them and no ingested source prints them.
+5. Then the remaining tier-2 score papers in `raw/GI Other Studies/`: the autoimmune-hepatitis pair (**Hennes 2008**, **Alvarez 1999**), the hepatology scores (**Moreau 2013** CANONIC/CLIF-SOFA, **Papatheodoridis 2016** PAGE-B, **Garcia-Pagan 2008** BCS-TIPS PI, **Borhofen 2016** RFH-NPT), **Catalano 2009** Rosemont, **Barr Fritcher 2015** FISH, **Gralnek 2008** Lewis capsule score, **Ho 2004** Ho index, **Narula 2022** MM-SES-CD.
+
+**Open questions carried forward, unchanged:** whether the stale-page rotation should formally include `wiki/sources/`; the **I-SEE / Stapfer / AGA 2019 T1b figure captures**, needing an interactive session or a pre-approved `pdftoppm` rule; the **128 pages carrying a body `#` H1**; whether to run a **targeted GRADE-symbol audit across all ~50 ASGE source pages**; whether **[[hbv-nucleoside-analogs]]** should split into three per-drug pages; **[[nejm-2023-fever-returning-traveler]]**, still the one orphan source page; and the **`5-meds/baclofen.md`** coverage-gap candidate.
 
 ---
 

@@ -3,8 +3,8 @@ title: "LI-RADS"
 category: concept
 tags: [li-rads, hcc, liver, imaging, mri, ct, ceus, surveillance, cirrhosis, hpb]
 created: 2026-06-01
-updated: 2026-09-05
-sources: [aasld-2023-hcc, acg-2024-focal-liver-lesions, nccn-2026-hcc]
+updated: 2026-10-27
+sources: [aasld-2023-hcc, acg-2024-focal-liver-lesions, nccn-2026-hcc, acr-2018-li-rads-ct-mri-core]
 ---
 
 **Liver Imaging Reporting and Data System (LI-RADS)** is the standardized framework for reporting liver observations on contrast-enhanced computed tomography (CT)/magnetic resonance imaging (MRI) in patients **at risk for [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]]**. Each observation gets a probability category (LR-1 → LR-5, plus LR-M and LR-TIV) that maps directly to a management action — allowing HCC to be diagnosed **noninvasively, without biopsy**, in the at-risk population ([[aasld-2023-hcc]] Guidance Statement [GS] 16a; [[nccn-2026-hcc]]).
@@ -17,6 +17,8 @@ sources: [aasld-2023-hcc, acg-2024-focal-liver-lesions, nccn-2026-hcc]
   - [[#LR-5 Criteria by Size]]
   - [[#What the Criteria Can and Cannot Do]]
 - [[#Categories and Management]]
+  - [[#Categories Assigned Before the Table]]
+  - [[#Ancillary Features and Tiebreaks]]
 - [[#Imaging Modality]]
 - [[#Pitfalls]]
 - [[#See Also]]
@@ -49,7 +51,7 @@ Four major features drive categorization; size is the fifth axis, because imagin
 | **Arterial phase hyperenhancement (APHE)** | **Nonrim** APHE — required for LR-5. Rim APHE points away from HCC (see LR-M) |
 | **Nonperipheral washout** | Hypoenhancement on portal venous or delayed phase, not peripheral |
 | **Enhancing capsule** | Enhancing rim around the observation on portal venous/delayed phase |
-| **Threshold growth** | Interval size increase vs. prior imaging — *the numeric definition (percentage and interval) is not stated in the AASLD or NCCN text; it is in the American College of Radiology (ACR) LI-RADS lexicon.* |
+| **Threshold growth** | **≥50% size increase of a mass in ≤6 months** ([[acr-2018-li-rads-ct-mri-core]]). Simplified in v2018, and now **the same definition in AASLD, OPTN and LI-RADS**. Growth falling short of it is **subthreshold growth** — not a major feature, but an ancillary feature favoring malignancy |
 
 - APHE + washout are the features **most strongly associated** with HCC, with high specificity and positive predictive value (PPV) in lesions **≥1 cm** ([[aasld-2023-hcc]]).
 - LI-RADS also supplies separate criteria for **major vascular invasion** (→ LR-TIV), because tumor in the vein may not show the parenchymal features ([[nccn-2026-hcc]]).
@@ -105,7 +107,39 @@ Read down the two APHE columns, across to the observation size, then down to the
 
 *Per [[aasld-2023-hcc]] (Figures 6/8; GS 19–22). LR-5 is the point at which HCC is treated as diagnosed — stage-directed therapy lives on [[hepatocellular-carcinoma]].*
 
-> ⚠ **LR-1, LR-2, LR-M and LR-TIV cannot be assigned from this page.** The [[#Assigning a Category — CT/MRI Diagnostic Table|diagnostic table]] above (AASLD 2023 Figure 6) assigns **LR-3, LR-4 and LR-5**, but Figure 6 does not define **LR-1 (definitely benign)** or **LR-2 (probably benign)**, and it does not give the ancillary/targetoid criteria that make an observation **LR-M** or the vascular criteria for **LR-TIV** — [[nccn-2026-hcc]] only notes that LI-RADS "provides imaging criteria to diagnose major vascular invasion" without printing them. Those criteria are in the ACR LI-RADS core document (the ancillary-features and LR-M/LR-TIV tables).
+*The diagnostic table above (AASLD 2023 Figure 6) assigns only LR-3, LR-4 and LR-5. **LR-1, LR-2, LR-M, LR-TIV and LR-NC are assigned before that table**, from the criteria below ([[acr-2018-li-rads-ct-mri-core]]).*
+
+### Categories Assigned Before the Table
+
+| If… | Category |
+|---|---|
+| Cannot be categorized because of **image degradation or omission** | **LR-NC** |
+| **Definite tumor in vein (TIV)** | **LR-TIV** |
+| **Definitely benign** | **LR-1** |
+| **Probably benign** | **LR-2** |
+| **Probably or definitely malignant but not HCC-specific** (e.g. targetoid) | **LR-M** |
+| None of the above | Use the diagnostic table |
+
+**LR-M criteria** — a **targetoid mass**, OR a **nontargetoid mass** with ≥1 of: **infiltrative appearance** · **marked diffusion restriction** · **necrosis or severe ischemia** · another feature the radiologist judges to suggest non-HCC malignancy (**specify in the report**) — with **no tumor in vein** and **not meeting LR-5 criteria**. A targetoid appearance **suggests non-HCC malignancy but does not exclude HCC**.
+
+**LR-1 / LR-2 entities** — cyst · hemangioma · perfusion alteration (e.g. arterioportal shunt) · hepatic fat deposition or sparing · hypertrophic pseudomass · confluent fibrosis or focal scar: **LR-1 when definite, LR-2 when probable**. **Spontaneous disappearance** is LR-1. LR-2 also covers a **distinctive nodule**: a **solid nodule <20 mm**, distinctive against the background nodules, with **no major HCC feature, no LR-M feature and no ancillary feature of malignancy** (commonly T1 hyperintense, T2 hypointense, siderotic, or hepatobiliary-phase hyperintense). **At ≥20 mm it becomes LR-3 or higher.** Neither list is exhaustive.
+
+> [!pitfall] Adenoma and FNH are not LR-1
+> Nodules with features suggestive of **focal nodular hyperplasia or hepatocellular adenoma usually should be LR-3**; with caution they may be LR-2; **they should never be LR-1** ([[acr-2018-li-rads-ct-mri-core]]).
+
+### Ancillary Features and Tiebreaks
+
+Optional, at the radiologist's discretion, for detection, confidence or **category adjustment** ([[acr-2018-li-rads-ct-mri-core]]):
+
+- **≥1 feature favoring malignancy → upgrade one category, ceiling LR-4.** **Ancillary features can never upgrade to LR-5.**
+- **≥1 feature favoring benignity → downgrade one category.**
+- **Both → do not adjust.** Absence of a feature is **never** grounds to adjust in the other direction.
+
+| Favoring malignancy (not HCC-specific) | Favoring HCC specifically | Favoring benignity |
+|---|---|---|
+| Ultrasound visibility as a discrete nodule · **subthreshold growth** · restricted diffusion · mild–moderate T2 hyperintensity · corona enhancement · fat sparing in a solid mass · iron sparing in a solid mass · transitional-phase hypointensity · hepatobiliary-phase hypointensity | Nonenhancing "capsule" · nodule-in-nodule · mosaic architecture · blood products in mass · fat in mass more than adjacent liver | **Size stability >2 years** · size reduction · parallels blood pool · undistorted vessels · iron in mass more than liver · marked T2 hyperintensity · hepatobiliary-phase isointensity |
+
+**Tiebreaks always go to the lower-certainty category:** unsure between LR-1 and LR-2 → **LR-2**; unsure between LR-4 and LR-5 → **LR-4**; unsure of hepatocellular origin → **LR-M**; **unsure about tumor in vein → do *not* call LR-TIV**. Unsure about any major or ancillary feature → **treat the feature as absent**.
 
 - Where biopsy is done: sensitivity **70–93%**, falling to **~60%** in tumors **<2 cm**; a negative biopsy does **not** exclude HCC and should be repeated if findings are inconclusive and the lesion is still not LR-5. Complication risk (seeding, bleeding) **~3%**, lower with coaxial needle technique ([[aasld-2023-hcc]]; see [[liver-biopsy]]).
 
@@ -141,3 +175,4 @@ Read down the two APHE columns, across to the observation size, then down to the
 1. [[aasld-2023-hcc|AASLD Practice Guidance: Prevention, Diagnosis, and Treatment of Hepatocellular Carcinoma (2023)]]
 2. [[acg-2024-focal-liver-lesions|ACG Clinical Guideline: Focal Liver Lesions (2024)]]
 3. [[nccn-2026-hcc|NCCN Clinical Practice Guidelines in Oncology: Hepatocellular Carcinoma (2026)]]
+4. [[acr-2018-li-rads-ct-mri-core|ACR CT/MRI LI-RADS v2018 Core]]
