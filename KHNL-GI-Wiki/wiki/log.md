@@ -6,6 +6,25 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-27] update | Card pass — deck slimming (20 dedup verdicts, 2 merges); deck fully current, no page eligible for new cards
+
+**Deck slimming (ran first, per CARDS → *Slim the deck*):** `anki-dupes.mjs` offered 20 unjudged candidate pairs (210 outstanding at ≥0.4). All 20 judged and marked in `dedup-ledger.tsv` (now 277 rows); 189 remain for later passes.
+
+**Merged (2):**
+
+- `acute-on-chronic-liver-failure [8299c0]` → `tips [a20005]` — both tested Baveno VIII 3.20 (pre-operative TIPS before major surgery in compensated cirrhosis with CSPH, and no role otherwise). Keeper is the procedure page by the one-owner rule, and already carried both limbs; its header now reads `{also:portal-hypertension,acute-on-chronic-liver-failure}`.
+- `tacrolimus [fc7006]` → `liver-transplantation [1a302d]` — both tested the tacrolimus → cyclosporine conversion for poor glycemic control after transplant. Keeper owns post-transplant metabolic management and already covered both switch directions; it absorbed the retired note's "tacrolimus is the more diabetogenic of the two" into Back Extra, and its header now reads `{also:tacrolimus}`.
+
+**Judged distinct (18):** separated by disease, population, drug or threshold — Crohn's vs pouchitis budesonide; tofacitinib vs upadacitinib extended induction; hepatic hydrothorax vs first-ascites transplant referral; Chicago v4.0 EGJOO criteria vs post-fundoplication obstruction (no post-operative cutoffs exist); sporadic pancreatic-cyst referral features (duct >5 mm) vs high-risk-individual IPMN resection criteria (duct ≥10 mm); checkpoint-inhibitor colitis vs acute severe autoimmune hepatitis steroid dosing; short bowel group 1 vs group 2 anatomy; the two Lynch risk-model cards; Barrett's <1 cm surveillance vs repeat-biopsy count; adenoma vs serrated lesion detection rate remediation; and the remaining list/threshold pairs.
+
+**No new cards written.** Of 333 topic pages, 332 have a card file whose `page_updated` matches the page's `updated:` date — the 01:38 card pass ran after the 01:24 ingest commits, so today's seven tier-1 ingests are already carded. No card file anywhere is missing `page_updated`, so no page was left part-carded by an earlier pass.
+
+**The one page with no card file stays uncarded:** `[[telemedicine-in-gastroenterology]]` (AGA 2023 Clinical Practice Update, tier-1, so source-eligible). Re-read in full this pass and it still fails the high-yield test — visit-modality selection, state licensure, documentation items, CPT codes and modifiers, clinic staffing, trainee supervision, plus satisfaction and trial-outcome data that *Deck size* cuts outright. Nothing on it changes what is ordered, prescribed, scoped, resected, referred, stopped or scheduled clinically, it carries no threshold ("no numeric or scored threshold defines 'moderate to severe' here"), and no node in Nick's tag tree covers practice management. Quality over quota: the pass wrote nothing rather than filling the budget.
+
+**Deck rebuilt:** 4022 notes → `/cards/dist/khnl-gi-wiki.txt`, no problems reported. Nothing committed or pushed.
+
+---
+
 ## [2026-10-27] lint | Backlog mode — 7 ingests: the autoimmune-pancreatitis pair closes both of its page's declared gaps, LI-RADS finally gets its own criteria, and three pages stop saying "this source does not print the numbers"
 
 **Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands; title amended at the end to match what actually happened.
