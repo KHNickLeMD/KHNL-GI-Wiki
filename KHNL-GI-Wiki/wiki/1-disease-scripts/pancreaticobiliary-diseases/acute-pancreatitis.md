@@ -3,8 +3,8 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-10-26
-sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis, aga-2018-initial-management-acute-pancreatitis, bsg-2017-common-bile-duct-stones]
+updated: 2026-10-27
+sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis, aga-2018-initial-management-acute-pancreatitis, bsg-2017-common-bile-duct-stones, idsa-2016-candidiasis]
 ---
 
 # Acute Pancreatitis
@@ -233,7 +233,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 - Clinical signs: fever, hemodynamic instability despite adequate support, rising WBC/CRP
 - CT finding: gas in necrotic collection (pathognomonic)
 - Use antibiotics **known to penetrate the necrosis — carbapenems, quinolones, cephalosporins, and metronidazole** — largely **to delay drainage beyond 4 weeks**; some patients avoid drainage altogether because the infection resolves on antibiotics (Key concept 16).
-- **Routine antifungal agents are not needed** alongside prophylactic or therapeutic antibiotics (Key concept 17).
+- **Routine antifungal agents are not needed** alongside prophylactic or therapeutic antibiotics (Key concept 17). ⚠ [[idsa-2016-candidiasis]] takes the opposite line in one narrower setting — it counts **necrotizing pancreatitis** as a risk factor that justifies **empiric** antifungal therapy *when there is clinical evidence of intra-abdominal infection*, with **source control (drainage/debridement) part of the treatment** and duration set by that source control rather than a fixed course. ACG 2024 is newer and is the gastroenterology society, so *no routine antifungal* stands as this page's position.
 
 ### 5. ERCP
 
@@ -351,3 +351,4 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 8. [[aga-2020-cpu-pancreatic-necrosis|AGA Clinical Practice Update: Management of Pancreatic Necrosis (2020)]]
 9. [[aga-2018-initial-management-acute-pancreatitis|American Gastroenterological Association Institute Guideline on Initial Management of Acute Pancreatitis (2018)]]
 10. [[bsg-2017-common-bile-duct-stones|BSG 2017: Updated Guideline on the Management of Common Bile Duct Stones (CBDS)]]
+11. [[idsa-2016-candidiasis|Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America]]

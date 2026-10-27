@@ -3,8 +3,8 @@ title: "Bariatric Surgery"
 category: advanced-procedure
 tags: [obesity, bariatric, weight-management, sleeve-gastrectomy, gastric-bypass, masld, gerd, iron-deficiency-anemia, cirrhosis, csph, portal-hypertension]
 created: 2026-06-04
-updated: 2026-10-25
-sources: [sages-2013-hiatal-hernia, aga-2021-intragastric-balloons, aasld-2023-nafld, asge-2024-gerd, acg-2021-gerd, aga-2024-ida-management, aga-2022-obesity-pharm, aga-2020-bariatric-surgery-cirrhosis, aga-2018-surgical-risk-perioperative-cirrhosis, aga-2021-early-complications-bariatric-surgery, aga-2017-endoscopic-bariatric-therapies, baveno-viii-2026-portal-hypertension]
+updated: 2026-10-27
+sources: [sages-2013-hiatal-hernia, aga-2021-intragastric-balloons, aasld-2023-nafld, asge-2024-gerd, acg-2021-gerd, aga-2024-ida-management, aga-2022-obesity-pharm, aga-2020-bariatric-surgery-cirrhosis, aga-2018-surgical-risk-perioperative-cirrhosis, aga-2021-early-complications-bariatric-surgery, aga-2017-endoscopic-bariatric-therapies, baveno-viii-2026-portal-hypertension, asmbs-ifso-2022-bariatric-indications]
 ---
 
 Surgical weight-loss procedures — laparoscopic **sleeve gastrectomy (SG)**, **Roux-en-Y gastric bypass (RYGB)**, adjustable gastric banding, duodenal switch — for [[obesity]]. Only ~**1.1% of eligible patients** receive primary bariatric surgery, and **<5%** of patients seeking weight loss are aware of endoscopic alternatives ([[aga-2021-intragastric-balloons]]).
@@ -12,6 +12,7 @@ Surgical weight-loss procedures — laparoscopic **sleeve gastrectomy (SG)**, **
 This page covers the **gastrointestinal (GI)/endoscopic consequences** of these operations, which is where gastroenterology owns the care. Perioperative surgical technique is outside the scope of the guidelines cited here.
 
 ## Contents
+- [[#Who Is a Candidate (ASMBS–IFSO 2022)]]
 - [[#Role Among Weight-Loss Options]]
 - [[#Bariatric Surgery in MASLD/MASH]]
 - [[#Bariatric Surgery in Cirrhosis]]
@@ -38,6 +39,33 @@ This page covers the **gastrointestinal (GI)/endoscopic consequences** of these 
 
 ---
 
+## Who Is a Candidate (ASMBS–IFSO 2022)
+
+[[asmbs-ifso-2022-bariatric-indications|ASMBS–IFSO 2022]] **replaces the 1991 National Institutes of Health (NIH) criteria** (body mass index [BMI] ≥40 kg/m², or ≥35 kg/m² with co-morbidities) that payers and referrers still widely apply. **Ungraded** — the statement numbers nothing and grades nothing.
+
+| Group | Threshold | Position |
+|---|---|---|
+| General population | **BMI ≥35 kg/m²** | **Recommended**, regardless of presence, absence or severity of co-morbidities |
+| Type 2 diabetes (T2D) | **BMI ≥30 kg/m²** | **Recommended** |
+| Metabolic disease, no T2D | **BMI 30–34.9 kg/m²** | **Consider** — after nonsurgical methods fail to achieve substantial or durable weight loss or co-morbidity improvement (medical weight loss is more durable below BMI 35 than above it) |
+| Asian populations | Clinical obesity at **BMI ≥25**; **offer MBS at BMI ≥27.5 kg/m²** | BMI understates cardiometabolic risk; access **must not be denied on traditional BMI zones alone** |
+| Children / adolescents | **BMI >120% of the 95th percentile + a major co-morbidity**, or **>140% of the 95th percentile** | Consider, **after multidisciplinary evaluation in a specialty center**. No Tanner stage or bone age is required — surgery does not impair puberty or linear growth |
+| Older adults | **No upper age limit** | Assess **frailty**, co-morbidities and end-organ function; frailty (not age) independently predicts complications |
+
+- **High surgical risk is not an automatic exclusion** — carefully selected higher-risk patients may benefit. **BMI >60 kg/m²:** MBS is the **preferred** route to clinically significant weight loss, though no consensus exists on which operation.
+- **Bridge indications:** joint arthroplasty, **large chronic abdominal wall hernia** (weight loss first, as a staged procedure before definitive repair), and **organ transplantation** — >50% of patients with end-stage renal disease and severe obesity are listed for kidney transplant within 5 years of MBS; MBS is safe and effective as a bridge to [[liver-transplantation|liver transplantation]] in selected otherwise-ineligible patients.
+- **Evaluation:** multidisciplinary team (medical, surgical, psychiatric, nutritional), with the **surgeon making the final call on surgical readiness**.
+
+> [!pitfall] Insurance-mandated preoperative weight loss is not a medical criterion
+> No data support it; ASMBS–IFSO calls the practice **discriminatory, arbitrary and scientifically unfounded**, driving attrition and delaying treatment ([[asmbs-ifso-2022-bariatric-indications]]).
+
+- **Perioperative mortality 0.03%–0.2%**; sleeve gastrectomy and Roux-en-Y gastric bypass are ~**90%** of operations performed worldwide.
+- **Severe obesity is chronic** — long-term management continues after the primary operation and may include **revisional surgery or adjuvant therapy**.
+
+⚠ These are **surgical-society** criteria. Where the liver is the limiting organ, the hepatology sources below govern — see [[#Bariatric Surgery in Cirrhosis]].
+
+---
+
 ## Role Among Weight-Loss Options
 
 - Definitive option for eligible patients; sits alongside dietary intervention, pharmacotherapy ([[glp-1-receptor-agonists|glucagon-like peptide-1 (GLP-1) receptor agonists]] such as [[semaglutide]]), and [[endoscopic-bariatric-therapies|endoscopic bariatric therapy]] — see [[obesity]] for the full menu.
@@ -53,7 +81,7 @@ Per [[aasld-2023-nafld|American Association for the Study of Liver Diseases (AAS
 
 > Bariatric surgery should be considered as a therapeutic option in patients who meet criteria for metabolic weight-loss surgery, as it effectively resolves NAFLD [nonalcoholic fatty liver disease] or NASH [nonalcoholic steatohepatitis] in the majority of patients without cirrhosis and reduces mortality from CVD [cardiovascular disease] and malignancy.
 
-- ⚠ *"Criteria for metabolic weight-loss surgery"* (the body mass index [BMI]/comorbidity eligibility thresholds) are **not defined by the guidelines on this page**. [[obesity]] carries only the **pharmacotherapy** thresholds (BMI ≥30, or ≥27 with a weight-related comorbidity, [[aga-2022-obesity-pharm]]) — those are **not** the surgical criteria and must not be read as such; take the surgical criteria from American Society for Metabolic and Bariatric Surgery (ASMBS)/International Federation for the Surgery of Obesity and Metabolic Disorders (IFSO) metabolic-surgery indications.
+- *"Criteria for metabolic weight-loss surgery"* = the American Society for Metabolic and Bariatric Surgery (ASMBS) / International Federation for the Surgery of Obesity and Metabolic Disorders (IFSO) thresholds in [[#Who Is a Candidate (ASMBS–IFSO 2022)]]. The **pharmacotherapy** thresholds on [[obesity]] (BMI ≥30, or ≥27 with a weight-related comorbidity, [[aga-2022-obesity-pharm]]) are **not** the surgical criteria and must not be read as such.
 - **Efficacy:** resolves NASH **without worsening fibrosis in ~80% at 1 year**, sustained at 5 years.
 - Sits within the lifestyle/weight-loss backbone of [[nafld-masld|metabolic dysfunction–associated steatotic liver disease (MASLD)]] management (weight-loss thresholds 3–5% for steatosis, 7–10% for steatohepatitis, ≥10% for fibrosis).
 - Once [[cirrhosis]] is present the stage of liver disease governs the decision — see below.
@@ -270,3 +298,4 @@ Per [[aga-2024-ida-management|AGA 2024]] (Best Practice Advice 7, *unrated*):
 10. [[aga-2017-endoscopic-bariatric-therapies|AGA Clinical Practice Update: Expert Review on Endoscopic Bariatric Therapies (2017)]]
 11. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
 12. [[sages-2013-hiatal-hernia|SAGES 2013: Guidelines for the Management of Hiatal Hernia]]
+13. [[asmbs-ifso-2022-bariatric-indications|2022 ASMBS and IFSO: Indications for Metabolic and Bariatric Surgery]]

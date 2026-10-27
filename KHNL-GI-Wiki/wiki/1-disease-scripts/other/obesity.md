@@ -3,8 +3,8 @@ title: "Obesity"
 category: disease-script
 tags: [obesity, weight-management, metabolic, semaglutide, glp1, intragastric-balloon]
 created: 2026-06-04
-updated: 2026-10-06
-sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
+updated: 2026-10-27
+sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons, asmbs-ifso-2022-bariatric-indications]
 ---
 
 ## Contents
@@ -85,7 +85,7 @@ The positioning decision at this level ([[aga-2021-intragastric-balloons]]):
 - **Required alongside it:** the concomitant lifestyle modification above (**strong**), [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] prophylaxis (**strong**), and a planned maintenance intervention for after removal — diet, pharmacotherapy, repeat IGB, or [[bariatric-surgery|bariatric surgery]], by shared decision-making.
 
 ### Bariatric Surgery
-- Definitive option for eligible patients; see [[bariatric-surgery]]. Also a post-IGB maintenance pathway.
+- Definitive option for eligible patients; see [[bariatric-surgery]] for the ASMBS–IFSO 2022 eligibility thresholds (BMI ≥35 regardless of comorbidity; ≥30 with type 2 diabetes; 30–34.9 after nonsurgical failure; ≥27.5 in Asian populations) — **not** the pharmacotherapy thresholds above. Also a post-IGB maintenance pathway.
 
 ---
 
@@ -99,3 +99,4 @@ The positioning decision at this level ([[aga-2021-intragastric-balloons]]):
 
 1. [[aga-2022-obesity-pharm|AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)]]
 2. [[aga-2021-intragastric-balloons|AGA Clinical Practice Guidelines on Intragastric Balloons in the Management of Obesity (2021)]]
+3. [[asmbs-ifso-2022-bariatric-indications|2022 ASMBS and IFSO: Indications for Metabolic and Bariatric Surgery]]

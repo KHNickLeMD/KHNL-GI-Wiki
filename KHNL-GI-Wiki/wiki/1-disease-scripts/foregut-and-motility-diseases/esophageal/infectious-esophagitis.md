@@ -3,8 +3,8 @@ title: "Infectious Esophagitis"
 category: disease-script
 tags: [esophagus, candida, hsv, cmv, odynophagia, dysphagia, immunocompromise, infectious-esophagitis]
 created: 2026-07-28
-updated: 2026-09-25
-sources: [aga-2024-esophageal-immunity-infection]
+updated: 2026-10-27
+sources: [aga-2024-esophageal-immunity-infection, idsa-2016-candidiasis]
 ---
 
 Esophageal infection causing dysphagia, odynophagia, and chest pain. Most common organisms: **Candida, herpes simplex virus (HSV), cytomegalovirus (CMV)**. More common in immunosuppressed hosts but can occur in the immunocompetent. Candida esophagitis is the **most commonly encountered** infectious esophagitis. ([[aga-2024-esophageal-immunity-infection]])
@@ -19,6 +19,7 @@ Esophageal infection causing dysphagia, odynophagia, and chest pain. Most common
 - [[#Diagnostics]]
   - [[#History-driven evaluation]]
 - [[#Therapeutics]]
+  - [[#Candida Esophagitis — Full Pathway]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -93,6 +94,26 @@ The source's Table 1 links the pertinent history to what to look for — the pra
 
 - **If symptoms do not improve after therapy**, evaluate for a resistant/refractory infection **or** an additional underlying esophageal or immunologic disorder. (BPA 3)
 
+### Candida Esophagitis — Full Pathway
+
+- **Systemic therapy is always required** — topical/oral-rinse agents do not treat esophageal disease. A **diagnostic trial of antifungal therapy is appropriate before endoscopy** ([[idsa-2016-candidiasis]]).
+- **First line:** oral fluconazole **200–400 mg (3–6 mg/kg) daily × 14–21 days**. ([[aga-2024-esophageal-immunity-infection]], [[idsa-2016-candidiasis]])
+
+| Situation | Regimen ([[idsa-2016-candidiasis]]) |
+|---|---|
+| **Cannot tolerate oral therapy** | IV fluconazole **400 mg (6 mg/kg) daily**, OR an echinocandin — micafungin **150 mg daily** / caspofungin **70 mg load → 50 mg daily** / anidulafungin **200 mg daily** |
+| Cannot tolerate oral therapy, less preferred | Amphotericin B (AmB) deoxycholate **0.3–0.7 mg/kg daily** |
+| Oral intake recovers | **De-escalate** to oral fluconazole 200–400 mg (3–6 mg/kg) daily |
+| **Fluconazole-refractory** | Itraconazole solution **200 mg daily**, OR voriconazole **200 mg (3 mg/kg) twice daily** IV or oral — **× 14–21 days** |
+| Fluconazole-refractory, alternatives | Echinocandin (micafungin 150 mg daily / caspofungin 70 mg load → 50 mg daily / anidulafungin 200 mg daily) × 14–21 days, OR AmB deoxycholate 0.3–0.7 mg/kg daily **× 21 days** |
+| Fluconazole-refractory, weak option | Posaconazole suspension **400 mg twice daily**, or extended-release tablets **300 mg once daily** |
+| **Recurrent esophagitis** | Chronic suppression: fluconazole **100–200 mg three times weekly** |
+
+> [!pitfall] Thrush doses do not treat the esophagus
+> Esophageal candidiasis takes **higher doses and longer courses** than oropharyngeal disease (fluconazole 200–400 mg × 14–21 d vs 100–200 mg × 7–14 d), and is **never** treated topically ([[idsa-2016-candidiasis]]).
+
+- **HIV infection:** antiretroviral therapy is itself part of treatment — it reduces recurrence ([[idsa-2016-candidiasis]]).
+
 ## See Also
 
 [[eosinophilic-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[esophageal-cancer]], [[achalasia]], [[crohns-disease]], [[dysphagia]], [[upper-endoscopy]], [[high-resolution-manometry]], [[gerd]], [[proton-pump-inhibitors]]
@@ -102,3 +123,4 @@ The source's Table 1 links the pertinent history to what to look for — the pra
 ## Sources
 
 1. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
+2. [[idsa-2016-candidiasis|Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America]]

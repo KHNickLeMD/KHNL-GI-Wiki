@@ -6,6 +6,35 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-27] lint | Backlog mode — ingest pass
+
+**Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands; title amended at the end to match what actually happened.
+
+**Backlog mode is ON**, carried forward from 2026-10-26. **22 of the 38 files that landed 2026-10-23 were still uningested at the start of this pass.** Per CLAUDE.md → LINT → *Missing source pages*, ingest takes the pass's budget and these steps are **paused: ingest backlog** — *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*, *Slim long pages*. Health check, git hygiene and this entry still run. **No daily source fetch** — that step belongs to the 06:00 server cron only, and this prompt is not that pass.
+
+**Git hygiene:** `git pull --rebase` → already up to date; working tree clean. **No untracked files anywhere, including under `raw/`** — and per the standing note in `index.md` that is *not* evidence of "no new arrivals", since `raw/`'s content subfolders are gitignored and the rsync rewrites mtimes. A direct per-subfolder count gives **505** non-asset files = the 463 of the 2026-10-22 audit + the 38 arrivals of 2026-10-23 + the 4 labels/guidelines fetched since, each already ingested. **No new delivery; nothing to commit from the inbox sync.**
+
+**Resume markers:** `grep -rln "^ingest: partial" wiki/sources/` → **0 hits. No source page is mid-ingest**, so this pass starts new files rather than finishing one.
+
+**Uningested backlog verified file-by-file, not by token match** (the method that produced the wrong counts of record). All 22 remaining are in `raw/GI Guidelines/Other/` (11) and `raw/GI Other Studies/` (11); each checked against `wiki/sources/` slugs before being picked.
+
+**Ingests (one file at a time, each finished before the next):**
+
+- **`IDSA 2016 Management of Candidiasis (Pappas).pdf`** → `wiki/sources/idsa-2016-candidiasis.md`. **17 clinical questions, 140 numbered GRADE recommendations, all captured** — GI questions (VIII intra-abdominal, XVI oropharyngeal, XVII esophageal, IV hepatosplenic, IX respiratory colonization) in full decision detail, the non-GI questions condensed to agent + dose + duration + grade so none is dropped. Grade vocabulary is the document's own (*strong/weak* × *high/moderate/low/very low*).
+  - **[[infectious-esophagitis]]** — the page's one open decision gap is **closed**: a new *Candida Esophagitis — Full Pathway* table carries recs 131–139 (refractory → itraconazole solution 200 mg/d or voriconazole 200 mg bid × 14–21 d; echinocandin or amphotericin B alternatives; posaconazole as the weak option; suppression 100–200 mg three times weekly for recurrent disease), plus the cannot-swallow IV options and de-escalation rule, and the "diagnostic antifungal trial before endoscopy" stance. A `[!pitfall]` box carries the dose asymmetry that actually causes errors — **thrush doses do not treat the esophagus**.
+  - **[[acute-pancreatitis]]** — one line, by design. Rec 54 names **necrotizing pancreatitis** as a risk factor justifying empiric antifungal therapy *with clinical evidence of intra-abdominal infection*, which **contradicts** ACG 2024 Key concept 17 ("routine antifungal agents are not needed"). **ACG keeps the page** — newer within tier 1 and the GI society — with the IDSA position stated beside it rather than silently dropped.
+  - `needed-sources.md`: the Pappas row **deleted** (it asked for the refractory pathway only, and that is now on the page). The NIH/CDC/IDSA opportunistic-infections row **stays** — it covers the HSV/CMV esophagitis doses, which this document does not give.
+
+- **`ASMBS-IFSO 2022 Indications for Metabolic and Bariatric Surgery (Eisenberg).pdf`** → `wiki/sources/asmbs-ifso-2022-bariatric-indications.md`. The joint statement that **replaces the 1991 NIH criteria**. **Ungraded and unnumbered** — it has a 5-bullet "Major updates" front box and an 11-bullet Conclusion, both captured whole; the conclusion numbering on the source page is flagged as the wiki's own, not the document's.
+  - **[[bariatric-surgery]]** — a new `## Who Is a Candidate (ASMBS–IFSO 2022)` table heads the page: BMI ≥35 regardless of comorbidity · ≥30 with type 2 diabetes · 30–34.9 after nonsurgical failure · Asian ≥25 clinical obesity / **≥27.5 offer surgery** · adolescents >120% of the 95th percentile **+ a major comorbidity** or >140% alone · **no upper age limit** (assess frailty, not age). Plus the bridge indications (arthroplasty, large chronic abdominal wall hernia, transplant) and a `[!pitfall]` on insurance-mandated preoperative weight loss.
+  - **The page's declared decision gap is closed.** It had said in its own reader-facing text that the "criteria for metabolic weight-loss surgery" AASLD 2023 Guidance Statement 22 defers to were *not defined by any source on the page*; that sentence is now a pointer to the table instead.
+  - ⚠ **Contradiction surfaced, not collapsed.** ASMBS–IFSO treats **compensated cirrhosis** as operable (perioperative mortality <1%) and reports only a "paucity of data" in clinically significant portal hypertension; [[aga-2018-surgical-risk-perioperative-cirrhosis]] calls **CSPH a contraindication** and [[aasld-2023-nafld]] makes decompensated cirrhosis absolute. **The hepatology sources keep the page** — more specific to the liver decision, AASLD newer, and ASMBS–IFSO is ungraded. Both positions are stated.
+  - **[[obesity]]** took **one line**, per *Short pages* — the thresholds with a pointer, and the explicit warning that the pharmacotherapy thresholds on that page (≥30, or ≥27 with a comorbidity) are **not** the surgical ones.
+  - **Operator-character hazard worth recording:** `pdftotext` on this Elsevier PDF rendered **`>` as `.` and `<` as `,`** and dropped `≥` entirely ("BMI 35", "BMI .120%", "mortality ,1%"). Every threshold was re-verified by **reading the PDF pages visually** before being written. This is a different failure from the known "pdftotext drops ≥ ≤ ×" note — here the operators were *substituted with punctuation that reads as valid text*.
+  - `needed-sources.md`: the Eisenberg row **deleted**.
+
+---
+
 ## [2026-10-26] lint | Backlog mode, 06:00 pass — 5 ingests: two ASCRS guidelines, the CAPS consensus the wiki had been naming by author, the rumination CPU that fills an empty section, and the fetched Linzess label
 
 **Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands; title amended at the end to match what actually happened.
