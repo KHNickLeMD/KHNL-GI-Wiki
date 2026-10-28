@@ -3,8 +3,8 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-10-24
-sources: [asge-acg-2024-colonoscopy-quality-indicators, aga-2018-functional-gi-symptoms-ibd, acg-2025-uc, aga-2019-mild-moderate-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt, aga-2021-ibd-colorectal-dysplasia]
+updated: 2026-10-28
+sources: [asge-acg-2024-colonoscopy-quality-indicators, aga-2018-functional-gi-symptoms-ibd, acg-2025-uc, aga-2019-mild-moderate-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt, aga-2021-ibd-colorectal-dysplasia, ho-2004-severe-uc-risk-score]
 ---
 
 Ulcerative colitis (UC): idiopathic chronic [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] of the large intestine — continuous mucosal inflammation from the rectum extending proximally; relapsing–remitting. Goal: sustained steroid-free endoscopic remission.
@@ -253,6 +253,25 @@ Ulcerative colitis (UC): idiopathic chronic [[inflammatory-bowel-disease|inflamm
 
    - Other steroid-failure predictors: **ESR >75 mm/hr**, **temperature >38 °C**, hypoalbuminemia, colonic dilation. Responder → oral steroid + advanced therapy.
 
+   - **Ho index** — same 3-day window, but triages into three bands rather than calling a single failure threshold, and was built to select patients for **rescue medical therapy** rather than straight to colectomy ([[ho-2004-severe-uc-risk-score]]):
+
+| Variable | Category | Points |
+|---|---|---|
+| **Mean** stool frequency over the first 3 days | <4/day · >4–6 · >6–9 · **>9** | **0 · 1 · 2 · 4** |
+| Colonic dilation (transverse colon **≥5.5 cm**, any time in the first 3 days) | present | **4** |
+| Albumin **<30 g/L** on day 1 | present | **1** |
+
+| Band | Score | Medical failure |
+|---|---|---|
+| Low | 0–1 | **11%** |
+| Intermediate | 2–3 | **45%** |
+| **High** | **≥4** | **85%** |
+
+   - Range 0–9; **every patient scoring ≥6 failed medical therapy**. At ≥4: sensitivity 85%, specificity 75%, area under the curve 0.876.
+
+> [!pitfall] Average the stool count — and dilation alone is already high-risk
+> Score the **3-day mean**, not today's number: the mean separated colectomy from no colectomy (8.05 vs 5.2/day) where single days did not. And **colonic dilation scores 4 on its own**, so a dilated transverse colon is in the high-risk band whatever the stool count — 15 of the 16 patients with dilation came to colectomy ([[ho-2004-severe-uc-risk-score]]). Derived retrospectively in 167 pre-biologic patients rescued with cyclosporine, never externally validated; an adjunct to judgement, not a trigger.
+
 > [!pitfall] Stop IV steroids at 7 days in a nonresponder
 > Beyond 7 days adds no benefit and raises complications and mortality — rescue or operate ([[aga-2026-inpatient-ibd]]).
 
@@ -396,3 +415,4 @@ Ulcerative colitis (UC): idiopathic chronic [[inflammatory-bowel-disease|inflamm
 17. [[aga-2019-mild-moderate-uc|AGA Clinical Practice Guidelines on the Management of Mild-to-Moderate Ulcerative Colitis (2019)]]
 18. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease: Expert Review]]
 19. [[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators for Colonoscopy]]
+20. [[ho-2004-severe-uc-risk-score|Predicting the Outcome of Severe Ulcerative Colitis: Development of a Novel Risk Score (Aliment Pharmacol Ther 2004)]]

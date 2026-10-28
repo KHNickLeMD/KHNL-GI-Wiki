@@ -3,8 +3,8 @@ title: "Acute-on-Chronic Liver Failure (ACLF)"
 category: disease-script
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, organ-failure, ICU, NACSELD, EASL-CLIF, terlipressin, HRS, hepatic-encephalopathy, infection, nutrition, liver-transplantation, palliative-care]
 created: 2026-05-28
-updated: 2026-09-22
-sources: [aasld-2024-aclf, baveno-viii-2026-portal-hypertension]
+updated: 2026-10-28
+sources: [aasld-2024-aclf, baveno-viii-2026-portal-hypertension, moreau-2013-canonic-aclf]
 ---
 
 ## Contents
@@ -47,14 +47,31 @@ Acute-on-chronic liver failure (ACLF) is a syndrome in patients with chronic liv
 | Definition | Applicable stage | Organ failure criteria |
 |---|---|---|
 | **North American Consortium for the Study of End-Stage Liver Disease (NACSELD)** | Advanced/preterminal | ≥2 extrahepatic organ failures (OFs): cardiovascular (shock), renal (renal replacement therapy [RRT]), respiratory (mechanical vent), brain ([[hepatic-encephalopathy\|hepatic encephalopathy (HE)]] Grade 3–4) |
-| **European Association for the Study of the Liver–Chronic Liver Failure (EASL-CLIF)** | Earlier onset; grades ACLF-1, -2, -3 | Six organ systems, each with its own cut-off (CLIF-C ACLF, Table 1): **liver** total bilirubin ≥12 mg/dL; **kidney** serum creatinine (sCr) ≥2 mg/dL or RRT; **brain** [[hepatic-encephalopathy\|HE]] grade 3–4; **respiratory** partial pressure of arterial oxygen (PaO₂)/fraction of inspired oxygen (FiO₂) ≤200 or peripheral oxygen saturation (SpO₂)/FiO₂ ≤214; **coagulation** INR ≥2.5; **cardiovascular** use of vasopressors |
+| **European Association for the Study of the Liver–Chronic Liver Failure (EASL-CLIF)** | Earlier onset; grades ACLF-1, -2, -3 | Six organ systems, each with its own cut-off on the chronic liver failure–sequential organ failure assessment (CLIF-SOFA) score — criteria and grade definitions immediately below |
 | **Asian Pacific Association for the Study of the Liver (APASL)** | Early; includes non-cirrhotic CLD | Acute hepatic insult + liver failure (bilirubin [Bi] ≥5, INR ≥1.5) + coagulopathy + clinical features ≤4 weeks in previously diagnosed or undiagnosed CLD; high sensitivity, lower specificity |
 
-**EASL-CLIF grade — what the grades mean (drives the [[terlipressin]] decision, GS 25):**
+**EASL-CLIF organ failure — the CLIF-SOFA cut-offs** ([[moreau-2013-canonic-aclf|CANONIC]], Table 1). Each system scores 0–4; organ failure is the top of the range:
 
-- **ACLF-1 / ACLF-2** — intermediate stage: patients *developing* extrahepatic organ failure
-- **ACLF-3** — late stage: **≥3 organ failures**; highest mortality; terlipressin contraindicated
-- *[[aasld-2024-aclf]] does not restate the EASL-CLIF numeric organ-failure counts separating ACLF-1 from ACLF-2; they are in the original EASL-CLIF/CANONIC paper.*
+| System | Organ failure |
+|---|---|
+| Liver | total bilirubin **≥12.0 mg/dL** |
+| Kidney | serum creatinine (sCr) **≥2.0 mg/dL**, or RRT at any creatinine |
+| Brain | HE **grade III–IV** |
+| Coagulation | INR **≥2.5**, **or platelets ≤20×10⁹/L** |
+| Circulation | **any vasopressor** (dopamine, dobutamine, [[terlipressin]], epinephrine or norepinephrine) |
+| Lungs | partial pressure of arterial oxygen (PaO₂)/fraction of inspired oxygen (FiO₂) **≤200**, or peripheral oxygen saturation (SpO₂)/FiO₂ **≤214** |
+
+**EASL-CLIF grade — the numeric definitions (drives the terlipressin decision, GS 25):**
+
+| Grade | Definition | 28-d / 90-d mortality (CANONIC derivation) |
+|---|---|---|
+| **No ACLF** | no organ failure · **or** a single *non-kidney* organ failure with sCr <1.5 mg/dL and no HE · **or** single brain failure with sCr <1.5 mg/dL | 4.7% / 14% |
+| **ACLF-1** | single **kidney** failure · **or** single failure of liver, coagulation, circulation or respiration **plus** sCr 1.5–1.9 mg/dL and/or HE grade I–II · **or** single **brain** failure **plus** sCr 1.5–1.9 mg/dL | 22.1% / 40.7% |
+| **ACLF-2** | **2 organ failures** | 32.0% / 52.3% |
+| **ACLF-3** | **≥3 organ failures**; terlipressin contraindicated | 76.7% / 79.1% |
+
+> [!pitfall] One organ failure can still be ACLF
+> Counting organ failures alone misgrades ACLF-1. A **sub-threshold** creatinine (1.5–1.9 mg/dL) or **mild-to-moderate HE (grade I–II)** — neither of which is itself an organ failure — upgrades a single non-kidney organ failure into ACLF-1, and roughly triples 28-day mortality (single liver failure **5.9% → 30.3%**). **Single kidney failure is ACLF-1 on its own**, with or without a modifier ([[moreau-2013-canonic-aclf]]).
 
 **Pre-ACLF:** Subgroup of decompensated cirrhosis at higher risk of developing ACLF (higher C-reactive protein (CRP), white blood cell count (WBC), Model for End-Stage Liver Disease (MELD)); characterized by progressive increase in severity scores. No individual biomarker predicts ACLF development.
 
@@ -83,7 +100,7 @@ Acute-on-chronic liver failure (ACLF) is a syndrome in patients with chronic liv
 
 **Futility threshold:** CLIF-C ACLF score >70 (range 0–100) at admission or Day 3 → ~90% 90-day mortality; lactate >9 mmol/L is likewise an absolute-contraindication-level pre–liver transplantation (LT) factor. Goals-of-care discussion warranted. Among patients with **≥4 organ failures at Days 3–7 after an ACLF-3 diagnosis** (CANONIC): **28-day mortality 90%, 90-day mortality 100%** (100% at 90 days once CLIF-C ACLF >64).
 
-**30-day mortality by EASL-CLIF grade** (CLIF–Sequential Organ Failure Assessment [CLIF-SOFA] validation cohort): no ACLF **3%**, ACLF-1 **10%**, ACLF-2 **37%**, ACLF-3 **76%**.
+**30-day mortality by EASL-CLIF grade** (CLIF-SOFA *validation* cohort): no ACLF **3%**, ACLF-1 **10%**, ACLF-2 **37%**, ACLF-3 **76%**. These are a different window and a different cohort from the 28-/90-day derivation figures beside the grade definitions above — not a disagreement.
 
 ---
 
@@ -180,7 +197,7 @@ Critically ill patients with cirrhosis and ACLF require multidisciplinary intens
 - Withdraw diuretics; treat precipitants (infection, GI bleed); volume challenge with **albumin 1 g/kg up to 100 g/day × 48h** (GS 23)
 - If meets HRS-AKI criteria after albumin challenge:
   - **Vasoconstrictors + albumin (20–40 g/day)** for [[aki-in-cirrhosis|International Club of Ascites–acute kidney injury (ICA-AKI)]] Stage 2+ HRS-AKI without contraindications (GS 24) — ICA-AKI stage definitions on [[aki-in-cirrhosis]]
-  - **[[terlipressin]] (0.5–2.0 mg IV q6h, or continuous infusion starting at 2 mg/24h):** indicated for Stage 2+ [[aki-in-cirrhosis|HRS-AKI]] without ACLF-3 (EASL-CLIF) or major cardiopulmonary/vascular disease (GS 25). Contraindicated in ACLF-3 due to CONFIRM trial respiratory failure signal. *AASLD 2024 GS 25 prints the infusion dose as "2 g/24h"; every other source gives it in **milligrams** — use 2 mg/24h.*
+  - **Terlipressin (0.5–2.0 mg IV q6h, or continuous infusion starting at 2 mg/24h):** indicated for Stage 2+ [[aki-in-cirrhosis|HRS-AKI]] without ACLF-3 (EASL-CLIF) or major cardiopulmonary/vascular disease (GS 25). Contraindicated in ACLF-3 due to CONFIRM trial respiratory failure signal. *AASLD 2024 GS 25 prints the infusion dose as "2 g/24h"; every other source gives it in **milligrams** — use 2 mg/24h.*
   - **Norepinephrine:** alternative to terlipressin; preferred in shock (GS 26)
   - Midodrine + [[somatostatin-analogs|octreotide]]: inferior to terlipressin continuous infusion; acceptable in non-ICU setting
 - **RRT:** individualized; recommended for HRS-AKI failing pharmacotherapy in LT candidates as bridge (GS 27); continuous RRT preferred over intermittent in hemodynamically unstable patients; no preemptive benefit
@@ -289,3 +306,4 @@ Palliative care is essential in ACLF management; frequently underutilized (GS 49
 
 1. [[aasld-2024-aclf|AASLD 2024 Practice Guidance on Acute-on-Chronic Liver Failure]]
 2. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+3. [[moreau-2013-canonic-aclf|Acute-on-Chronic Liver Failure Is a Distinct Syndrome That Develops in Patients With Acute Decompensation of Cirrhosis (CANONIC, 2013)]]

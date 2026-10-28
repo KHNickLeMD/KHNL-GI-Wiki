@@ -3,8 +3,8 @@ title: "LI-RADS"
 category: concept
 tags: [li-rads, hcc, liver, imaging, mri, ct, ceus, surveillance, cirrhosis, hpb]
 created: 2026-06-01
-updated: 2026-10-27
-sources: [aasld-2023-hcc, acg-2024-focal-liver-lesions, nccn-2026-hcc, acr-2018-li-rads-ct-mri-core, acr-2024-li-rads-us-surveillance-core]
+updated: 2026-10-28
+sources: [aasld-2023-hcc, acg-2024-focal-liver-lesions, nccn-2026-hcc, acr-2018-li-rads-ct-mri-core, acr-2024-li-rads-us-surveillance-core, acr-li-rads-lexicon]
 ---
 
 **Liver Imaging Reporting and Data System (LI-RADS)** is the standardized framework for reporting liver observations on contrast-enhanced computed tomography (CT)/magnetic resonance imaging (MRI) in patients **at risk for [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]]**. Each observation gets a probability category (LR-1 → LR-5, plus LR-M and LR-TIV) that maps directly to a management action — allowing HCC to be diagnosed **noninvasively, without biopsy**, in the at-risk population ([[aasld-2023-hcc]] Guidance Statement [GS] 16a; [[nccn-2026-hcc]]).
@@ -137,7 +137,24 @@ Optional, at the radiologist's discretion, for detection, confidence or **catego
 
 | Favoring malignancy (not HCC-specific) | Favoring HCC specifically | Favoring benignity |
 |---|---|---|
-| Ultrasound visibility as a discrete nodule · **subthreshold growth** · restricted diffusion · mild–moderate T2 hyperintensity · corona enhancement · fat sparing in a solid mass · iron sparing in a solid mass · transitional-phase hypointensity · hepatobiliary-phase hypointensity | Nonenhancing "capsule" · nodule-in-nodule · mosaic architecture · blood products in mass · fat in mass more than adjacent liver | **Size stability >2 years** · size reduction · parallels blood pool · undistorted vessels · iron in mass more than liver · marked T2 hyperintensity · hepatobiliary-phase isointensity |
+| Ultrasound visibility as a discrete nodule · **subthreshold growth** · restricted diffusion · mild–moderate T2 hyperintensity · corona enhancement · fat sparing in a solid mass · iron sparing in a solid mass · transitional-phase hypointensity · hepatobiliary-phase hypointensity | Nonenhancing "capsule" · nodule-in-nodule · mosaic architecture · blood products in mass · fat in mass more than adjacent liver | **Size stability ≥2 years** · size reduction · parallels blood pool · undistorted vessels · iron in mass more than liver · marked T2 hyperintensity · hepatobiliary-phase isointensity |
+
+**Definitions that change a call** — the full term list is on [[acr-li-rads-lexicon]]; these are the ones whose exact wording decides a category:
+
+| Term | Definition (2021 lexicon) |
+|---|---|
+| **Size** | **Largest outer-edge-to-outer-edge** dimension — not an inner-edge or mean diameter |
+| **Growth** | Definite size increase **not explicable by technique, artifact, measurement error, or interval hemorrhage** |
+| **Threshold growth** | **≥50% in ≤6 months** |
+| **Subthreshold growth** | **Any of** — increase **<50% over any time period** · **any** increase over **>6 months** · **a new mass of any size** |
+| **Size stability ≥2 years** | **No** change on serial exams **≥2 years apart** |
+| **Washout** | Hyper→hypo **or** iso→hypo relative to liver. **With a hepatobiliary agent it must be assessed *before* the transitional phase.** On CEUS a third pattern counts: **hypo → unequivocally more hypo** |
+| **Fade** | Hyper → **iso or minimally hyper** in all later phases. **Fade is not washout** and does not satisfy the washout feature |
+| **Capsule** | **Smooth, uniform, sharp** border around **most or all** of an observation |
+| **Mass** vs **nodule** vs **observation** vs **lesion** | Mass **distorts or destroys** parenchyma; **nodule = a spherical or oval mass**; an **observation** is merely an area distinctive at imaging; a **lesion** is an observation that represents a real pathologic abnormality |
+
+> [!pitfall] A new mass is subthreshold growth, not threshold growth
+> Appearing where there was nothing is explicitly one of the three limbs of **subthreshold** growth — an ancillary feature favouring malignancy — **not** the ≥50%-in-≤6-months major feature. The other trap is time, not size: a **60% increase measured over 8 months is subthreshold**, because any increase over an interval longer than 6 months is ([[acr-li-rads-lexicon]]).
 
 **Tiebreaks always go to the lower-certainty category:** unsure between LR-1 and LR-2 → **LR-2**; unsure between LR-4 and LR-5 → **LR-4**; unsure of hepatocellular origin → **LR-M**; **unsure about tumor in vein → do *not* call LR-TIV**. Unsure about any major or ancillary feature → **treat the feature as absent**.
 
@@ -177,3 +194,4 @@ Optional, at the radiologist's discretion, for detection, confidence or **catego
 3. [[nccn-2026-hcc|NCCN Clinical Practice Guidelines in Oncology: Hepatocellular Carcinoma (2026)]]
 4. [[acr-2018-li-rads-ct-mri-core|ACR CT/MRI LI-RADS v2018 Core]]
 5. [[acr-2024-li-rads-us-surveillance-core|ACR LI-RADS Ultrasound Surveillance v2024 Core]]
+6. [[acr-li-rads-lexicon|ACR LI-RADS Lexicon Table (2021 definitions)]]

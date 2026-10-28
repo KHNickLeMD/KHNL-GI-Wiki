@@ -3,8 +3,8 @@ title: "HCC Surveillance"
 category: concept
 tags: [hcc, hepatocellular-carcinoma, surveillance, cirrhosis, hepatitis-b, biomarker, afp, galad]
 created: 2026-06-01
-updated: 2026-10-27
-sources: [aga-2026-hcc-surveillance, aasld-2023-hcc, aasld-idsa-2025-chb-treatment, aga-2020-hcc-screening-nafld, acr-2024-li-rads-us-surveillance-core]
+updated: 2026-10-28
+sources: [aga-2026-hcc-surveillance, aasld-2023-hcc, aasld-idsa-2025-chb-treatment, aga-2020-hcc-screening-nafld, acr-2024-li-rads-us-surveillance-core, papatheodoridis-2016-page-b]
 ---
 
 Framework for hepatocellular carcinoma (HCC) surveillance — who, how, how often, and emerging tools. **This page is the single home for the surveillance-indication table**; other pages link here rather than reproducing it. For tumor diagnosis/staging/treatment see [[hepatocellular-carcinoma]]; for imaging classification see [[li-rads]]; for the post-abnormal-test recall algorithm see [[hepatocellular-carcinoma]] → *Surveillance Recall Algorithm*.
@@ -80,6 +80,11 @@ Surveillance is targeted to those who **would be candidates for HCC treatment** 
 | 50–59 | 6 | | | | |
 | 60–69 | 8 | | | | |
 | ≥70 | 10 | | | | |
+
+- **What the PAGE-B bands imply** — 5-year cumulative HCC incidence in the derivation / external validation cohorts ([[papatheodoridis-2016-page-b]]): **≤9 → 0% / 0% · 10–17 → 3% / 4% · ≥18 → 17% / 16%**. Score range 0–25; c-index 0.82 in both. The bands are the **25th and 75th percentiles** of the derivation distribution, not clinically chosen cut-points.
+
+> [!pearl] Why the surveillance trigger is 10 and not some other number
+> **10 is the highest cut-off with 100% sensitivity and 100% negative predictive value** — every patient scoring ≤10 was free of HCC at 5 years. It is a rule-out threshold, which is what surveillance needs. The cut-off that best balances sensitivity and specificity is a different number, **17** (76.0% / 77.3%), and answers a different question ([[papatheodoridis-2016-page-b]]).
 
 - Point values for the other scores (REAL-B, AASL-HCC, aMAP) are in their derivation papers, not the guidances — use a calculator for the arithmetic.
 
@@ -182,3 +187,4 @@ flowchart TD
 3. [[aasld-idsa-2025-chb-treatment|AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B]]
 4. [[aga-2020-hcc-screening-nafld|AGA Clinical Practice Update on Screening and Surveillance for Hepatocellular Carcinoma in Patients with Nonalcoholic Fatty Liver Disease: Expert Review (2020)]]
 5. [[acr-2024-li-rads-us-surveillance-core|ACR LI-RADS Ultrasound Surveillance v2024 Core]]
+6. [[papatheodoridis-2016-page-b|PAGE-B Predicts the Risk of Developing Hepatocellular Carcinoma in Caucasians with Chronic Hepatitis B on 5-Year Antiviral Therapy (J Hepatol 2016)]]
