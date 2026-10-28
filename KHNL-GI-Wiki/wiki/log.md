@@ -6,6 +6,31 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-28] update | Card pass — dedup queue cleared (5 merges, 76 verdicts); no page eligible for new cards
+
+**Deck slimming (`anki-dupes.mjs`, ran before any card writing):** worked the queue to empty — **76 candidate pairs judged at ≥0.4, 5 merged / 71 distinct.** `anki-dupes.mjs` now reports **0 unjudged candidates**; every verdict is in `dedup-ledger.tsv`, so none return.
+
+**Merges (keeper chosen by the one-owner rule; each keeper header gained an `{also:…}` so the footer names both pages):**
+
+- `7-concepts/inflammatory-bowel-disease` `[a31d0c]` (hospitalized IBD — analgesic to avoid) → `[[crohns-disease]]` `[cd256f]`, which tests the same NSAID avoidance plus the COX-2 preference.
+- `[[acute-on-chronic-liver-failure]]` `[093aa2]` (ACLF does not contraindicate pre-emptive TIPS) → `[[tips]]` `[a20001]`, which already lists ACLF among the non-contraindications — procedure page owns procedure contraindications.
+- `[[crohns-disease]]` `[cd2522]` (vedolizumab induction schedule) → `[[vedolizumab]]` `[4e0001]` — dose belongs to the drug page. Keeper absorbed the one line only the retired note had: there is no third induction infusion in IBD, unlike infliximab.
+- `[[crohns-disease]]` `[cd255a]` (anti-IL-23 maintenance regimens) → `[[il-23-and-il-12-23-inhibitors]]` `[1b2005]`; the drug page already owns all three Crohn's regimens individually (risankizumab, mirikizumab, guselkumab), so the disease-page note tested nothing of its own.
+- `[[functional-dyspepsia]]` `[fd2002]` (biopsy for *H. pylori* at a normal-looking dyspepsia endoscopy) → `[[upper-endoscopy]]` `[ed0009]`, whose by-segment biopsy note already contains it — procedure page owns the biopsy protocol.
+
+Each retired block keeps its `[id]` under `# Retired` with a one-line merge reason, so the import blanks the note rather than orphaning a card that would quiz forever.
+
+**Held distinct** — the recurring near-miss is a shared stem over a different population, drug or threshold: hepatic cyst vs hemangioma on oral contraceptives, Crohn's vs pouch stricture dilation contraindications, intrahepatic cholestasis of pregnancy vs recurrent PBC ursodeoxycholic acid dosing, Bristol ≥5 before vs on lactulose, toxic megacolon >6 cm vs ASUC >5.5 cm, gastric vs pancreatic cancer screening on the same "10 years before the youngest relative" rule, PBC HCC-surveillance vs PSC varix-screening thresholds, N-acetylcysteine in alcohol-associated hepatitis vs pediatric DILI.
+
+**New cards written: none — nothing qualified.** Full sweep of the 334 non-source wiki pages: **0 stubs, 0 card files missing `page_updated:` (no page left unfinished by an earlier pass), 0 card files stale against their page.** Only two pages have no card file, both deliberately unfiled and still failing the bar:
+
+- `[[bristol-stool-form-scale]]` — its substance is Lewis 1997, a primary paper, and *Guideline-sourced cards only* excludes it; every guideline threshold that uses the scale is delegated by the page itself to its owner page and is already carded there.
+- `[[telemedicine-in-gastroenterology]]` — AGA 2023 is a clinical practice update, so the tier passes, but the content is visit-modality selection, licensure, documentation, billing and clinic workflow. Nothing changes what is ordered, prescribed, scoped or scheduled, so it fails the high-yield test.
+
+**Deck rebuilt** after the merges: 4058 notes → `dist/khnl-gi-wiki.txt`, **no problems reported on any touched file**. Note count is unchanged because a retired note still exports — blanked and tagged `digestpedia::retired` for the saved-search sweep — which is what stops it quizzing. Nothing committed or pushed; `occ files:scan` not run from here (host-side), so the Nextcloud web UI may serve the previous file until the next cron build.
+
+---
+
 ## [2026-10-28] lint | raw/ fully ingested — backlog mode off. 6 files, the last of the queue: the LI-RADS Lexicon and the five score papers (CLIF-SOFA/ACLF grades, BCS-TIPS PI, Ho index, the FISH polysomy criteria, PAGE-B)
 
 **Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands; title amended at the end to match what actually happened.
