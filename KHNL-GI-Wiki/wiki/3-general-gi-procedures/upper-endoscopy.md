@@ -3,8 +3,8 @@ title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-10-07
-sources: [asge-2023-ergonomics, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy, asge-2011-foreign-body-ingestion, aga-2021-gi-perforations-endoscopic-management, aga-2015-upper-gi-biopsy-dyspepsia]
+updated: 2026-10-28
+sources: [asge-2023-ergonomics, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy, asge-2011-foreign-body-ingestion, aga-2021-gi-perforations-endoscopic-management, aga-2015-upper-gi-biopsy-dyspepsia, afs-2022-egj-integrity-classification]
 ---
 
 # Upper Endoscopy (EGD)
@@ -193,7 +193,7 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 | [[barretts-esophagus\|Barrett's esophagus]] | Prague C&M criteria | [[barretts-esophagus]] |
 | Bleeding [[peptic-ulcer-disease\|peptic ulcers]] | Forrest classification | [[upper-gi-bleeding]] — class definitions (FIa spurting → FIII clean based) and class-specific rebleeding rates are on that page, from [[acg-2025-egd-quality]] QI 13 |
 | Superficial neoplastic lesions | Paris classification | [[polypectomy]] |
-| Gastroesophageal flap valve | Hill grade classification | [[reflux-testing]] — grades I–IV are depicted in [[aga-2024-upper-endoscopy-quality\|AGA 2024]] Figure 2 |
+| Gastroesophageal flap valve | Hill grade classification; or the American Foregut Society (AFS) EGJ-integrity grade (**L**ength / **D**iameter / **F**lap valve) | [[reflux-testing]] — Hill grades I–IV are depicted in [[aga-2024-upper-endoscopy-quality\|AGA 2024]] Figure 2; AFS grades 1–4 from [[afs-2022-egj-integrity-classification]]. **Both require 30–45 s insufflation and retroflexed provocative maneuvers first, or the junction is under-graded** |
 | [[eosinophilic-esophagitis\|Eosinophilic esophagitis]] | EREFS; Index for Severity of Eosinophilic Esophagitis (I-SEE) (emerging standard for disease activity) | [[eosinophilic-esophagitis]] |
 
 - ⚠ **Scope note:** the 29 indicators on this page ([[acg-2025-egd-quality|ACG/ASGE 2025]] Table 1, QI 1–29) are the **EGD-specific** set. [[acg-2025-egd-quality|ACG/ASGE 2025]] explicitly places the indicators **common to all endoscopy** — informed consent, [[anticoagulation-gi-bleeding|antithrombotic management]], team pause/time-out, sedation monitoring, discharge criteria — in a **separate document**. Treat this list as complete for EGD only.
@@ -325,3 +325,4 @@ Document the number and location of every biopsy in the report.
 5. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review (2021)]]
 6. [[aga-2015-upper-gi-biopsy-dyspepsia|AGA Institute Guideline on the Role of Upper Gastrointestinal Biopsy to Evaluate Dyspepsia in the Adult Patient in the Absence of Visible Mucosal Lesions]]
 7. [[asge-2023-ergonomics|ASGE Guideline on the Role of Ergonomics for Prevention of Endoscopy-Related Injury: Summary and Recommendations (2023)]]
+8. [[afs-2022-egj-integrity-classification|The American Foregut Society White Paper on the Endoscopic Classification of Esophagogastric Junction Integrity (2022)]]

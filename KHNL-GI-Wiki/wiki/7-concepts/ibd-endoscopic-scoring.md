@@ -3,8 +3,8 @@ title: "IBD Endoscopic Scoring Indices"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, endoscopy, scoring, mayo-endoscopic-score, uceis, ses-cd, cdeis, rutgeerts-score]
 created: 2026-07-23
-updated: 2026-10-24
-sources: [asge-acg-2024-colonoscopy-quality-indicators, aga-2024-ibd-endoscopic-scoring, aga-2017-crohns-after-surgical-resection]
+updated: 2026-10-28
+sources: [asge-acg-2024-colonoscopy-quality-indicators, aga-2024-ibd-endoscopic-scoring, aga-2017-crohns-after-surgical-resection, narula-2022-mm-ses-cd-categories]
 ---
 
 Standardized endoscopic scoring indices for [[ulcerative-colitis|ulcerative colitis (UC)]] (Mayo Endoscopic Subscore [MES], Ulcerative Colitis Endoscopic Index of Severity [UCEIS]) and [[crohns-disease|Crohn's disease (CD)]] (Crohn's Disease Endoscopic Index of Severity [CDEIS], Simple Endoscopic Score for Crohn's Disease [SES-CD], modified Rutgeerts), per the American Gastroenterological Association (AGA) 2024 Clinical Practice Update. They provide objectivity and uniformity of mucosal reporting and are advised for assessing prognosis and treatment efficacy.
@@ -111,7 +111,38 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis|ulcerative coli
 
 - Modified Multiplier of the SES-CD — assigns **higher weight to certain features and locations** shown to be less likely to heal after 1 year of biologic therapy; established numerical cutoffs prognostic for 1-year endoscopic and clinical remission.
 - Narula et al: significantly more disease progression with **SES-CD ≥4** than <4; **MM-SES-CD <22.5** was the best threshold for predicting disease progression.
-- The Update names the tool and the <22.5 progression threshold but gives no per-feature/per-location weights, total range, or severity-band cutoffs; for those see the MM-SES-CD derivation paper (Narula et al, *J Crohns Colitis* 2022;16:1011–1019).
+
+**Multipliers** — each SES-CD parameter is scored **0–3 as usual**, then weighted by segment ([[narula-2022-mm-ses-cd-categories]]):
+
+| Segment | Ulcerations | Extent of ulcerations | Affected surface | Strictures |
+|---|---|---|---|---|
+| **Ileum** | ×1 | **×3** | **×5** | **×4** |
+| **Right colon** | ×3 | ×2 | ×1 | ×1 |
+| **Transverse colon** | ×1 | ×1 | ×1 | ×1 |
+| **Left colon** | ×3 | ×2 | ×1 | ×2 |
+| **Rectum** | ×3 | ×1 | **×0.5** | ×2 |
+
+Plus **number of segments with ulcerations × 4** (max 5 segments → 20).
+
+- **Category values:** ulcerations **none 0 · small 1 · medium 2 · large 3** · extent **0% 0 · <10% 1 · 10–30% 2 · >30% 3** · affected surface **0% 0 · <50% 1 · 50–75% 2 · >75% 3** · strictures **none 0 · single passable 1 · multiple passable 2 · non-passable 3**.
+
+**Severity bands and what they imply** — probability of **endoscopic remission at 1 year on active therapy** ([[narula-2022-mm-ses-cd-categories]]):
+
+| MM-SES-CD | Category | 1-y endoscopic remission |
+|---|---|---|
+| **<14** | Very mild / remission | **50.0%** |
+| **14–30** | Mild | **30.3%** |
+| **31–44** | Moderate | **21.7%** |
+| **≥45** | Severe | **8.8%** |
+
+- **Isolated ileal disease uses different cut-offs** — mild **<14** · moderate **14–32** · severe **≥33** (1-year ER 66.7% / 33.3% / 13.3%).
+- The gradient holds for **post-induction (week 8)** scores: 50.0% / 19.2% / 10.3% / 2.6%.
+
+> [!pitfall] The two MM-SES-CD thresholds answer different questions
+> **<22.5 predicts disease progression**; the **<14 / 31 / 45** bands predict **endoscopic remission on therapy at 1 year**. They come from different analyses with different endpoints — **do not merge them or treat one as a refinement of the other** ([[narula-2022-mm-ses-cd-categories]]).
+
+- ⚠ **Clinical remission does not track the bands.** One-year CDAI remission was only **numerically** higher at lower scores and was **not significant**; only **time to** clinical remission differed (log-rank p = 0.0492). The score grades **mucosa**, and predicts mucosal outcomes ([[narula-2022-mm-ses-cd-categories]]).
+- ⚠ Derived post-hoc from **moderate-to-severe biologic trials** (ustekinumab, adalimumab, infliximab biosimilar; n = 350, all baseline SES-CD ≥3); **no prospective validation**, and the very-mild band rests on 22 patients.
 
 ## Modified Rutgeerts Score
 
@@ -168,3 +199,4 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis|ulcerative coli
 1. [[aga-2024-ibd-endoscopic-scoring|AGA 2024 Clinical Practice Update on Endoscopic Scoring Systems in Inflammatory Bowel Disease]]
 2. [[aga-2017-crohns-after-surgical-resection|AGA Institute Guideline on the Management of Crohn's Disease After Surgical Resection (2017)]]
 3. [[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators for Colonoscopy]]
+4. [[narula-2022-mm-ses-cd-categories|Categorising Endoscopic Severity of Crohn's Disease Using the Modified Multiplier SES-CD (MM-SES-CD, 2022)]]

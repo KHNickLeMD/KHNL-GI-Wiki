@@ -3,8 +3,8 @@ title: "Transoral Incisionless Fundoplication (TIF)"
 category: advanced-procedure
 tags: [gerd, tif, ctif, esophyx, fundoplication, antireflux, hiatal-hernia, hill-classification, gastroesophageal-flap-valve, foregut, endoscopic-antireflux-therapy]
 created: 2026-10-05
-updated: 2026-10-05
-sources: [afs-2023-transoral-incisionless-fundoplication, asge-2024-gerd]
+updated: 2026-10-28
+sources: [afs-2023-transoral-incisionless-fundoplication, asge-2024-gerd, afs-2022-egj-integrity-classification]
 ---
 
 *Endoscopic, incisionless reconstruction of the gastroesophageal flap valve for [[gerd|gastroesophageal reflux disease (GERD)]]. Candidacy turns on three things: **objectively confirmed GERD**, **hiatal hernia size**, and **[[reflux-testing|Hill grade]]** — hernia ≤2 cm with Hill grade I/II can have transoral incisionless fundoplication (TIF) alone; hernia >2 cm with Hill grade III/IV needs the hernia repaired surgically first in the same session (concomitant TIF).*
@@ -93,7 +93,7 @@ flowchart TD
 - **Measure the hernia two ways** — **axial length** *and* **greatest diameter of the diaphragmatic hiatus**. A hernia **<2 cm in transverse diameter and in axial length** is the inclusion criterion for TIF ([[afs-2023-transoral-incisionless-fundoplication]]).
 - **Sizing caution:** hernia size observed at laparoscopic repair is **often larger than it looked on endoscopy** — apply extra caution even when the hernia measures under 2 cm endoscopically.
 - **Hill grade is the valve limb of the decision:** Hill Grade I and **some** Hill Grade II qualify for TIF 2.0 alone; **Hill Grade III and IV should be addressed through LARS or a concomitant approach.** Hill grade criteria with the figure live on [[reflux-testing]]; [[asge-2024-gerd]] drives the decision off Hill grade without printing the grades.
-- A newer **American Foregut Society (AFS) endoscopic classification of the EGJ** — axial hiatal hernia length (**L**), hiatal aperture diameter (**D**), presence or absence of the flap valve (**F**) — **may** be incorporated into antireflux procedure selection **after validation in independent studies**; it is not a selection criterion today.
+- A newer **American Foregut Society (AFS) endoscopic classification of the EGJ** — axial hiatal hernia length (**L**), hiatal aperture diameter (**D**), presence or absence of the flap valve (**F**) — **may** be incorporated into antireflux procedure selection **after validation in independent studies**; it is not a selection criterion today. Grades, measurements and technique: [[reflux-testing#EGJ Integrity: AFS Grade (LDF)|reflux testing]] ([[afs-2022-egj-integrity-classification]]).
 - The hernia-size threshold for **cTIF** has **not** been defined by any randomized trial; published series span hernias from 2–5 cm up to **8 cm** with no intraoperative complications and no adverse events reported.
 
 ### Relative Contraindications
@@ -271,3 +271,4 @@ All evidence is observational — **7 cohort studies (3 prospective, 4 retrospec
 
 1. [[afs-2023-transoral-incisionless-fundoplication|American Foregut Society White Paper on Transoral Incisionless Fundoplication (2023)]]
 2. [[asge-2024-gerd|American Society for Gastrointestinal Endoscopy Guideline on the Diagnosis and Management of GERD: Methodology and Review of Evidence]]
+3. [[afs-2022-egj-integrity-classification|The American Foregut Society White Paper on the Endoscopic Classification of Esophagogastric Junction Integrity (2022)]]

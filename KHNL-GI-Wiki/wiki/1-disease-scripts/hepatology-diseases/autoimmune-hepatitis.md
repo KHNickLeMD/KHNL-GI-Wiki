@@ -3,8 +3,8 @@ title: "Autoimmune Hepatitis"
 category: disease-script
 tags: [aih, autoimmune, hepatitis, liver, hpb, igg, immunosuppression, pregnancy, azathioprine, budesonide, mycophenolate-mofetil, mmf, tacrolimus, overlap-syndrome, pbc, psc, cirrhosis, liver-transplant]
 created: 2026-05-16
-updated: 2026-10-21
-sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, aasld-2018-pbc, de-martin-2021-surfasa-acute-severe-aih]
+updated: 2026-10-28
+sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, aasld-2018-pbc, de-martin-2021-surfasa-acute-severe-aih, hennes-2008-simplified-aih-criteria, alvarez-1999-iaihg-revised-criteria]
 ---
 
 ## Assessment
@@ -51,7 +51,54 @@ Autoimmune hepatitis (AIH) is an immune-mediated hepatitis characterized by elev
 - In children, simplified criteria: sensitivity 77%, specificity 95%; ~17% false negatives, associated with seronegative AIH
 - Reassess with the **revised** system whenever the simplified system yields a low score
 - **Neither system should be used to assess overlap syndromes**; both lack prospective validation and are inaccurate in concurrent [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]]/[[primary-biliary-cholangitis|primary biliary cholangitis (PBC)]]/[[nafld-masld|metabolic dysfunction-associated steatotic liver disease/steatohepatitis (MASLD-MASH)]], after liver transplantation (LT), or fulminant failure
-- *Neither score is computable from this page: the point values of the **simplified** score are in the guidance's Supporting Table S2 (Hennes 2008), and the **revised 1999** criteria — the fallback when the simplified score is low — and the numeric bands for "low score", "probable", and "definite" are in Alvarez 1999.*
+**Simplified score (2008), point values** ([[hennes-2008-simplified-aih-criteria]]):
+
+| Variable | Cutoff | Points |
+|---|---|---|
+| ANA or SMA | ≥1:40 | 1 |
+| ANA or SMA ≥1:80, **or** anti-LKM ≥1:40, **or** anti-SLA positive | — | 2 |
+| IgG | > upper normal limit (ULN) | 1 |
+| IgG | **>1.10 × ULN** | 2 |
+| Liver histology | Compatible with AIH | 1 |
+| Liver histology | **Typical** AIH | 2 |
+| Absence of viral hepatitis | Yes | 2 |
+
+- **≥6 = probable AIH · ≥7 = definite AIH** (maximum 8).
+- **The autoantibody block caps at 2 points** — antibodies are not additive beyond 2, however many are positive.
+- **Histologic evidence of hepatitis is a necessary condition**, not just a scoring line. *Typical* requires **all three** of interface hepatitis, **emperipolesis**, and **hepatic rosettes**; *compatible* = chronic hepatitis with lymphocytic infiltration lacking the full triad.
+
+> [!pitfall] The antibody titre you score depends on the assay
+> **ANA on HEp-2 cells reads higher than on tissue sections — halve a HEp-2 result before scoring it.** ELISA for ANA and SMA is not standardised enough to use with this score, and **anti-LKM should not be scored in a patient with [[hepatitis-c|hepatitis C]]**, where it occurs without AIH. ([[hennes-2008-simplified-aih-criteria]])
+
+- ⚠ **Type 2 AIH is systematically under-scored** — those patients often carry **only anti-LKM** ([[hennes-2008-simplified-aih-criteria]]).
+**Revised original score (1999), the fallback for complex cases** ([[alvarez-1999-iaihg-revised-criteria]]):
+
+| Parameter | Value → score |
+|---|---|
+| Female sex | **+2** |
+| ALP:AST (or ALT) ratio | <1.5 **+2** · 1.5–3.0 **0** · >3.0 **−2** |
+| Globulins *or* IgG above normal (× ULN) | >2.0 **+3** · 1.5–2.0 **+2** · 1.0–1.5 **+1** · <1.0 **0** |
+| ANA, SMA or anti-LKM-1 titre | >1:80 **+3** · 1:80 **+2** · 1:40 **+1** · <1:40 **0** |
+| AMA positive | **−4** |
+| Hepatitis viral markers | positive **−3** · negative **+3** |
+| Drug history | positive **−4** · negative **+1** |
+| Average alcohol | <25 g/day **+2** · >60 g/day **−2** |
+| Liver histology | interface hepatitis **+3** · lymphoplasmacytic infiltrate **+1** · rosettes **+1** · **none of these −5** · **biliary changes −3** · other changes **−3** |
+| Other autoimmune disease(s) | **+2** |
+| *Optional (only if ANA/SMA/anti-LKM-1 seronegative)* | other **defined** autoantibodies **+2** · HLA DR3 or DR4 **+1** |
+| Response to therapy | complete **+2** · relapse **+3** |
+
+| | Definite | Probable |
+|---|---|---|
+| **Pre-treatment** | **>15** | **10–15** |
+| **Post-treatment** | **>17** | **12–17** |
+
+> [!pitfall] The ALP:AST line is a ratio of elevations, not of raw values
+> Score **(ALP ÷ ULN ALP) ÷ (AST ÷ ULN AST)**. Using raw IU/L misassigns the commonest parameter on the sheet. Titres assume indirect immunofluorescence on rodent tissue (HEp-2 for ANA); **lower titres, especially anti-LKM-1, are significant in children and score at least +1**. ([[alvarez-1999-iaihg-revised-criteria]])
+
+- ⚠ **The IAIHG designed this score for research and validated it only at *initial presentation***. It is **not validated** for suspected recurrence after [[liver-transplantation|liver transplantation]] or for reassessing long-standing disease, and the point values are "to some extent arbitrary… qualitative… do not reflect overall severity" ([[alvarez-1999-iaihg-revised-criteria]]). For routine practice the IAIHG's position is that its **descriptive** criteria suffice.
+- The heavy negative weights — **AMA −4, biliary histology −3, drug history −4, no interface hepatitis −5** — exist because the 1993 version upgraded PSC/PBC and drug-injury patients into "probable AIH"; re-weighting raised specificity for excluding AIH in PSC from **64.9% to 89.5%**.
+- **Definite AIH should not be diagnosed without liver histology**, and **no morphological feature is pathognomonic** ([[alvarez-1999-iaihg-revised-criteria]]).
 
 **Key histologic features:**
 
@@ -71,7 +118,7 @@ Both definitions additionally require **no previously recognized liver disease**
 | International normalized ratio (INR) | **>1.5 and <2.0** | **≥2.0** |
 | [[hepatic-encephalopathy\|Hepatic encephalopathy]] | absent | present, **within 26 weeks of onset of illness** |
 | Prior liver disease | none recognized | none recognized |
-| Action | steroid trial, reassess 1–2 wk | evaluate directly for [[liver-transplantation\|liver transplantation]]; see [[acute-liver-failure]] |
+| Action | steroid trial, reassess 1–2 wk | evaluate directly for liver transplantation; see [[acute-liver-failure]] |
 
 **Fibrosis staging:** Ishak / METAVIR / Scheuer–Batts-Ludwig staging on [[liver-biopsy|biopsy]] — **Scheuer/Batts-Ludwig is the system derived for viral and autoimmune hepatitis**; stage definitions and the warning against converting between schemes live on [[liver-biopsy]]. Model for End-Stage Liver Disease (MELD) score for decompensated AIH [[cirrhosis|cirrhosis]]
 
@@ -93,7 +140,7 @@ Both definitions additionally require **no previously recognized liver disease**
 - [[drug-induced-liver-injury]] — drug-induced liver injury (DILI)/drug-induced AIH (DIAIH) can mimic AIH; DIAIH may require immunosuppression and drug withdrawal to distinguish; key DIAIH agents: nitrofurantoin, minocycline, [[anti-tnf-agents|infliximab, adalimumab]], alpha-methyldopa, halothane, dihydralazine
 - [[alcohol-associated-liver-disease]] — AST:ALT ratio ≥2:1; gamma-glutamyltransferase (GGT) elevated; history of significant alcohol use
 - [[wilson-disease]] — young patient (<40 years); Kayser-Fleischer rings; low ceruloplasmin; elevated 24h urine copper; may cause acute hepatitis mimicking AIH
-- Viral hepatitis ([[chronic-hepatitis-b|hepatitis B virus (HBV)]], [[hepatitis-c|hepatitis C virus (HCV)]], hepatitis E virus [HEV]) — serology; HEV can mimic acute AIH in endemic regions; HCV may induce low-titer ANA/SMA
+- Viral hepatitis ([[chronic-hepatitis-b|hepatitis B virus (HBV)]], hepatitis C virus (HCV), hepatitis E virus [HEV]) — serology; HEV can mimic acute AIH in endemic regions; HCV may induce low-titer ANA/SMA
 - [[primary-biliary-cholangitis]] — antimitochondrial antibody (AMA) positive (≥1:40); cholestatic pattern (alkaline phosphatase [ALP]/GGT dominant); can coexist as overlap syndrome
 - [[primary-sclerosing-cholangitis]] — [[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]]/[[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] with biliary stricturing; cholangiographic findings diagnostic
 - [[celiac-disease|Celiac]]-related hepatitis — tissue transglutaminase (TTG)-IgA; modest transaminase elevation; resolves with gluten-free diet
@@ -315,3 +362,5 @@ See [[liver-transplantation]] for broader post-LT context.
 3. [[aasld-2020-autoimmune-hepatitis|AASLD Practice Guidance on Autoimmune Hepatitis (2020)]]
 4. [[aasld-2018-pbc|AASLD 2018 Practice Guidance: Primary Biliary Cholangitis]]
 5. [[de-martin-2021-surfasa-acute-severe-aih|Early Liver Transplantation for Corticosteroid Non-Responders with Acute Severe Autoimmune Hepatitis: The SURFASA Score]]
+6. [[hennes-2008-simplified-aih-criteria|Simplified Criteria for the Diagnosis of Autoimmune Hepatitis (2008)]]
+7. [[alvarez-1999-iaihg-revised-criteria|International Autoimmune Hepatitis Group Report: Review of Criteria for Diagnosis of Autoimmune Hepatitis (1999)]]

@@ -3,8 +3,8 @@ title: "Capsule Endoscopy (Video Capsule Endoscopy)"
 category: advanced-procedure
 tags: [capsule-endoscopy, vce, small-bowel, gi-bleeding, crohns-disease, iron-deficiency-anemia, patency-capsule]
 created: 2026-05-19
-updated: 2026-10-25
-sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, acg-2025-crohns, aga-2022-hamartomatous-polyposis, asge-2020-fap, aga-2018-barretts-screening-techniques]
+updated: 2026-10-28
+sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, acg-2025-crohns, aga-2022-hamartomatous-polyposis, asge-2020-fap, aga-2018-barretts-screening-techniques, gralnek-2008-lewis-score]
 ---
 
 ## Contents
@@ -47,7 +47,32 @@ sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, acg-202
 - **Key concept 28:** *"Patients with **obstructive symptoms** should have small bowel imaging and/or **patency capsule** evaluation before video capsule endoscopy to decrease the risk of capsule retention."*
 - Incremental diagnostic yield of VCE over comparators in suspected CD: **32% vs barium studies, 47% vs CT enterography (CTE), 22% vs [[colonoscopy|ileocolonoscopy]].**
 - **Lewis score** — scores **3 endoscopic parameters: villous appearance, ulcers, and strictures**; built into some capsule software platforms; quantifies small-bowel inflammatory burden and assists CD diagnosis ([[acg-2025-crohns]]).
-  - The Lewis score's **per-parameter point values and score bands** (what total separates normal from mild vs moderate-to-severe inflammation) are not printed in ACG 2025, which describes the score's structure only, so the score cannot be computed or interpreted from this page; the values are in the Lewis score derivation paper (ACG 2025 cites Monteiro S, et al. *Inflamm Bowel Dis* 2015;21:2241–6 for its diagnostic accuracy).
+
+**Lewis score — how it is computed** ([[gralnek-2008-lewis-score]]). Divide the small bowel into **three tertiles by transit time** (if the capsule never reaches the colon, use the last image). Score each tertile:
+
+| Parameter | Number | Longitudinal extent | Descriptor |
+|---|---|---|---|
+| **Villous appearance** | Normal **0** · Oedematous **1** | Short **8** · Long **12** · Whole tertile **20** | Single **1** · Patchy **14** · Diffuse **17** |
+| **Ulcer** | None **0** · Single **3** · Few **5** · Multiple **10** | Short **5** · Long **10** · Whole tertile **15** | <¼ **9** · ¼–½ **12** · >½ **18** |
+
+Then score **stenosis once for the whole study**: number (none **0** · single **14** · multiple **20**) × ulcerated (**24**) or non-ulcerated (**2**) × traversed (**7**) or not traversed (**10**).
+
+> **Total = (worst tertile) + (stenosis).** Per tertile: (villous number × extent × descriptor) + (ulcer number × extent × size).
+
+| Score | Interpretation |
+|---|---|
+| **<135** | Normal / clinically insignificant |
+| **135–790** | **Mild** |
+| **≥790** | **Moderate to severe** |
+
+- **Definitions:** oedema = **villous width ≥ villous height**, distinct from (not contiguous with) an ulcer · ulcer = mucosal break with **white or yellow base and a red or pink collar** · ulcer size = **largest ulcer in that tertile, collar included**, as % of the capsule image · **few = 2–7, multiple = ≥8** · extent **short ≤10%, long 11–50%, whole >50%** of the tertile.
+
+> [!pitfall] Do not add the three tertiles together
+> The Lewis score carries **only the single worst tertile**, plus the stenosis score — summing all three turns three mildly affected tertiles into a higher number than one severe tertile, which is exactly what the authors designed against. ([[gralnek-2008-lewis-score]])
+
+- ⚠ **The bands overlap in the derivation data** — no disease ranged 0–271, mild 204–4050, moderate/severe 331–13,019. They are crossover points of frequency curves, not clean separations, so **a borderline score is not a diagnosis** ([[gralnek-2008-lewis-score]]).
+- ⚠ **Reader agreement is moderate at best** — κ **0.48** villous appearance, **0.66** ulcer, **0.58** stenosis. **Erythema was dropped from the index entirely** because agreement was κ **0.02** ([[gralnek-2008-lewis-score]]).
+- The score was optimised to reproduce **expert readers' perceived severity**, not any clinical outcome; ACG 2025 cites Monteiro S, et al. *Inflamm Bowel Dis* 2015;21:2241–6 for diagnostic accuracy.
 - ⚠ Specificity is questioned — **no consensus exists on which capsule findings constitute a diagnosis of CD.**
 
 ### Polyposis Surveillance
@@ -140,3 +165,4 @@ Predictors of a positive capsule study ([[acg-2015-small-bowel-bleeding]]):
 4. [[aga-2022-hamartomatous-polyposis|US Multi-Society Task Force Guideline: GI Hamartomatous Polyposis Syndromes (2022)]]
 5. [[asge-2020-fap|ASGE Guideline: The Role of Endoscopy in Familial Adenomatous Polyposis Syndromes (2020)]]
 6. [[aga-2018-barretts-screening-techniques|AGA Clinical Practice Update: New Screening Techniques in Barrett's Esophagus — Great Ideas or Great Practice? (2018)]]
+7. [[gralnek-2008-lewis-score|Development of a Capsule Endoscopy Scoring Index for Small Bowel Mucosal Inflammatory Change (Lewis Score, 2008)]]

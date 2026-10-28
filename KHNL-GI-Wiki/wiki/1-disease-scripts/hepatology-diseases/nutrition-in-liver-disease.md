@@ -3,8 +3,8 @@ title: "Nutrition in Liver Disease"
 category: disease-script
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, masld, ald, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-09-06
-sources: [acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis]
+updated: 2026-10-28
+sources: [acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis, borhofen-2016-rfh-npt-cirrhosis]
 ---
 
 Malnutrition (most commonly sarcopenia) is a common complication of liver disease, severity-dependent, and independently associated with higher mortality, waitlist mortality, post-transplant mortality, length of stay, and infections. Malnutrition is underrecognized because weight loss is masked by fluid retention ([[ascites]], edema), and [[obesity]] does not exclude sarcopenic obesity.
@@ -48,8 +48,14 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 2. Low body mass index (BMI), unexplained weight loss, **or** maintenance of volitional nutritional intake
 3. Whether fluid overload interferes with the ability to eat
 
-- **High risk** → worse outcomes: reduced survival, worsened liver function, reduced quality of life. **Improvement in the RFH-NPT is associated with improved survival** — so it is a repeatable measure, not a one-off.
-- [[aasld-2021-malnutrition-cirrhosis]] names the three domains and the three risk bands but does not print the scoring algorithm that maps answers to low/moderate/high; score it with the published RFH-NPT instrument (Borhofen 2016 / Amodio).
+**Risk bands by points** ([[borhofen-2016-rfh-npt-cirrhosis]]): **low = 0 · moderate = 1 · high = 2–7**. The tool is applied in **three steps, in order** — (1) **acute alcoholic hepatitis or tube feeding**, either of which makes the patient **high risk outright**; (2) separate by **presence or absence of ascites or oedema**; (3) compute the score and assign the band.
+
+> [!pitfall] Step 1 overrides the arithmetic
+> **Acute alcoholic hepatitis or tube feeding is high risk on its own** — do not score the weight-loss/intake/BMI items and arrive at a lower band ([[borhofen-2016-rfh-npt-cirrhosis]]).
+
+- **High risk** → worse outcomes: reduced survival, worsened liver function, reduced quality of life. **Improvement in the RFH-NPT is associated with improved survival** — so it is a repeatable measure, not a one-off. It is an **independent predictor of clinical deterioration and transplant-free survival** on multivariate analysis, and correlates with **Child score and MELD** ([[borhofen-2016-rfh-npt-cirrhosis]]). ⚠ Association only — no study has stratified treatment by the score.
+- *The item-level algorithm — exactly which answers score which points — is in the instrument as published by the International Society for Hepatic Encephalopathy and Nitrogen Metabolism (Amodio 2013); neither [[aasld-2021-malnutrition-cirrhosis]] nor [[borhofen-2016-rfh-npt-cirrhosis]] reprints it.*
+- **Comparator — Nutritional Risk Screening (NRS):** max **3 points** for dietary intake, weight loss, BMI and disease severity, **+1 for age >70 y**; **0 = no risk · 1–2 = low · 3–7 = medium-to-high**. ⚠ **Not validated specifically in cirrhosis** ([[borhofen-2016-rfh-npt-cirrhosis]]).
 - Also recommended as a screen: the two-item **Hunger Vital Sign** for food insecurity (abnormal if either item is true).
 
 ### Diagnostic Methods
@@ -197,3 +203,4 @@ Malnutrition in liver disease is multifactorial:
 
 1. [[acg-2025-liver-nutrition|ACG 2025: Malnutrition and Nutritional Recommendations in Liver Disease]]
 2. [[aasld-2021-malnutrition-cirrhosis|AASLD Practice Guidance: Malnutrition, Frailty, and Sarcopenia in Cirrhosis (2021)]]
+3. [[borhofen-2016-rfh-npt-cirrhosis|The Royal Free Hospital-Nutritional Prioritizing Tool Is an Independent Predictor of Deterioration of Liver Function and Survival in Cirrhosis (2016)]]

@@ -3,8 +3,8 @@ title: "Hiatal Hernia"
 category: disease-script
 tags: [hiatal-hernia, gerd, foregut, ge-junction, hill-grade, antireflux-surgery, tif, ctif, cameron-lesions]
 created: 2026-08-29
-updated: 2026-10-25
-sources: [sages-2024-hiatal-hernia-surgery, sages-2013-hiatal-hernia, asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, acg-2020-esophageal-physiologic-testing, sages-2021-gerd-surgery]
+updated: 2026-10-28
+sources: [sages-2024-hiatal-hernia-surgery, sages-2013-hiatal-hernia, asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, acg-2020-esophageal-physiologic-testing, sages-2021-gerd-surgery, afs-2022-egj-integrity-classification]
 ---
 
 *Herniation of the stomach through the diaphragmatic hiatus. In the gastroesophageal reflux disease (GERD) guidelines it appears almost entirely as **the anatomic variable that selects an antireflux procedure** — hernia size plus [[reflux-testing|Hill grade]] is the operative decision point in [[gerd|GERD]], and a paraesophageal hernia is a hard exclusion for endoscopic repair.*
@@ -55,7 +55,8 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation �
   - **Flap valve morphology** by **Hill grade** (or American Foregut Society [AFS] grade), in **both forward view and retroflexion**
   - The GEJ landmarks it is measured against: top of gastric folds, Z-line, diaphragmatic impression
 - **This documentation is routinely omitted** — in observational data, hiatal hernia was measured in only **51%** of endoscopy reports (esophagitis graded in only 42%) ([[asge-2024-gerd]]). A report without a hernia measurement cannot be used to select an antireflux procedure.
-- **Hill grade I–IV and AFS grade criteria are not defined in the GERD guidelines** — see [[reflux-testing]].
+- **Hill grade I–IV and AFS grade criteria** live on [[reflux-testing]] — the GERD guidelines use both scales without printing either.
+- **Measure it the way the AFS specifies, or you will under-measure it** ([[afs-2022-egj-integrity-classification]]): **insufflate 30–45 s** until the fundic rugal folds flatten, then **retroflex and pull gently along the lesser curvature** to provoke sliding herniation before reading the hiatal aperture; return to the **forward view** for axial length. **Real-time involution of the Z-line** during the maneuver is the sign of a sliding hernia. Hernia size at laparoscopy is often larger than it looked endoscopically ([[afs-2023-transoral-incisionless-fundoplication]]).
 
 ### Severity Assessment
 
@@ -187,3 +188,4 @@ SAGES 2024 answered four, and only one produced a graded recommendation ([[sages
 5. [[sages-2021-gerd-surgery|SAGES 2021 Guidelines for Surgical Treatment of Gastroesophageal Reflux (GERD)]]
 6. [[sages-2024-hiatal-hernia-surgery|SAGES 2024: Guidelines for the Surgical Treatment of Hiatal Hernias]]
 7. [[sages-2013-hiatal-hernia|SAGES 2013: Guidelines for the Management of Hiatal Hernia]]
+8. [[afs-2022-egj-integrity-classification|The American Foregut Society White Paper on the Endoscopic Classification of Esophagogastric Junction Integrity (2022)]]

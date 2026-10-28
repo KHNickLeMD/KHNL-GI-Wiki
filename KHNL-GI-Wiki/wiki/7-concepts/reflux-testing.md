@@ -3,8 +3,8 @@ title: "Reflux Testing"
 category: concept
 tags: [gerd, reflux, ph-monitoring, impedance, manometry, endoscopy, diagnostics]
 created: 2026-05-15
-updated: 2026-10-05
-sources: [acg-2021-gerd, asge-2024-gerd, acg-2020-esophageal-physiologic-testing, aga-2024-upper-endoscopy-quality, acg-2025-egd-quality]
+updated: 2026-10-28
+sources: [acg-2021-gerd, asge-2024-gerd, acg-2020-esophageal-physiologic-testing, aga-2024-upper-endoscopy-quality, acg-2025-egd-quality, afs-2022-egj-integrity-classification]
 ---
 
 *Which objective test to order for suspected or refractory [[gerd|gastroesophageal reflux disease (GERD)]], when to order it, and whether to test on or off antisecretory therapy — plus the endoscopic grading systems used to characterise the antireflux barrier.*
@@ -21,6 +21,7 @@ sources: [acg-2021-gerd, asge-2024-gerd, acg-2020-esophageal-physiologic-testing
 - [[#Endoscopic Evaluation of the GEJ]]
   - [[#Erosive Esophagitis: Los Angeles (LA) Grade]]
   - [[#Gastroesophageal Flap Valve: Hill Grade]]
+  - [[#EGJ Integrity: AFS Grade (LDF)]]
   - [[#Mucosal Cleanliness]]
 - [[#High-Resolution Manometry]]
 - [[#Rumination and Supragastric Belching]]
@@ -114,7 +115,7 @@ Careful endoscopic evaluation, reporting, and **photo-documentation** of the fol
 | [[barretts-esophagus\|Barrett's esophagus]] | Prague C&M | [[barretts-esophagus]] |
 | Peptic stricture | Present / absent | — |
 | [[hiatal-hernia\|Hiatal hernia]] | Axial length in cm (gastroesophageal junction [GEJ] to diaphragmatic impression) | [[hiatal-hernia]] |
-| Flap valve morphology | Hill grade I–IV or American Foregut Society (AFS) grade, in **forward view and retroflexion** | Below (Hill); AFS not defined by these guidelines |
+| Flap valve morphology | Hill grade I–IV or American Foregut Society (AFS) grade, in **forward view and retroflexion** | Below — both |
 | GEJ landmarks | Top of gastric folds, Z-line, diaphragmatic impression | — |
 | Prior fundoplication | Describe if present | — |
 
@@ -151,6 +152,45 @@ Careful endoscopic evaluation, reporting, and **photo-documentation** of the fol
 
 - Source: [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2. [[asge-2024-gerd]] grades the valve by Hill (written I–IV) and cites the original paper without reproducing the criteria.
 - **Decision-bearing:** **hiatal hernia ≤2 cm + Hill I/II** vs **>2 cm + Hill III/IV** routes the patient between endoscopic and surgical antireflux therapy ([[asge-2024-gerd]]) — pathway on [[antireflux-surgery]].
+- **Limitations the AFS names** ([[afs-2022-egj-integrity-classification]]): grades the valve only; hernia parameters vague and **not used to differentiate grades**; no definition of a *competent* valve; grades 1 and 2 both normal; **no endoscopic technique specified**, which is the main driver of interobserver variability.
+
+### EGJ Integrity: AFS Grade (LDF)
+
+The AFS revision grades the **whole esophagogastric junction (EGJ)**, not the valve alone, on three measured parameters — the **LDF components** ([[afs-2022-egj-integrity-classification]]):
+
+- **L** — hiatal hernia **axial length in cm**, Z-line to diaphragmatic imprint, measured in the **forward** view.
+- **D** — **largest hiatal aperture in cm**, in **retroflexion**, by comparison with the scope shaft (**1 conventional scope diameter ≈ 1 cm** — know your scope diameter).
+- **F** — flap valve **present (F+)** or **absent (F−)**.
+
+| | **Grade 1**<br/>Intact | **Grade 2**<br/>Partial disruption | **Grade 3**<br/>Moderate disruption | **Grade 4**<br/>Complete disruption |
+|---|---|---|---|---|
+| **Axial length (L)** | None (0 cm) | None (0 cm) | 0–2 cm | **>2 cm** |
+| **Aperture (D)** | Snug to scope, 1 cm | Loose, 1–2 cm | Open, 2–3 cm | Wide open, **>3 cm** |
+| **Flap valve (F)** | Present, full lip, **omega shape ~270°** (F+) | **Absent** — thinning, flattening of the lip (F−) | Absent (F−) | Absent (F−) |
+| **LDF notation** | **L0, D1, F+** | **L0, D1-2, F−** | **L0-2, D2-3, F−** | **L>2, D>3, F−** |
+| **Color code** | Green | Yellow | Orange | Red |
+
+**The two rules that assign the grade:**
+
+- **Grade by the *most* disrupted parameter**, not the average. Worked example from the paper: axial length 1.5 cm (grade 3) with a 4 cm aperture (grade 4) → **grade 4**.
+- **Any axial hernia length at all means grade 3 or worse** — once the hiatus gaps enough to let the stomach slide, intra-abdominal esophagus and flap valve are already lost.
+
+> [!pitfall] A hiatal hernia with a "normal" flap valve is not an AFS grade
+> The combination is routinely documented under Hill — a hernia length plus Hill grade I/II — but the AFS scheme forbids it: any axial length forces at least grade 3 ([[afs-2022-egj-integrity-classification]]). The two scales are **not interconvertible**; report one, with its measurements.
+
+- **Hill 1 and 2 both collapse into AFS grade 1.** AFS grade 2 has **no Hill equivalent** — it is the earliest disruption, defined by **loss of the flap valve with no herniation yet**. Hill 3 ≈ AFS 3.
+- ⚠ **Reporting nomenclature, not a selection criterion.** The classification is **unvalidated**; validation against the presence and severity of GERD is the society's own first stated future direction, and [[afs-2023-transoral-incisionless-fundoplication]] says it should not drive procedure choice until independent studies confirm it. The ≤2 cm/Hill routing rule above remains the decision rule.
+
+> [!howto] Grading the EGJ so it is reproducible
+> 1. **Insufflate 30–45 s**, or until the **gastric fundus rugal folds flatten**.
+> 2. **Retroflex**; pull the tip gently along the **lesser curvature** to provoke sliding herniation and widen the aperture.
+> 3. Read **D** off the scope shaft, and watch for **real-time involution of the Z-line** as the sign of herniation.
+> 4. **Return to forward view** and measure **L**, Z-line to diaphragmatic indentation.
+> 5. **Photo-document the view showing the greatest disruption.**
+>
+> Skipping steps 1–2 **systematically under-grades** the EGJ ([[afs-2022-egj-integrity-classification]]).
+
+- **Nomenclature for the report:** in retroflexion name greater and lesser curvature and the anterior/posterior gastric walls; the valve has a **lip** and a **body**; valve **length** = diaphragmatic impression to Z-line. Post-surgical valves use a separate scheme — [[antireflux-surgery]].
 
 ### Mucosal Cleanliness
 
@@ -219,3 +259,4 @@ flowchart TD
 3. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]
 4. [[aga-2024-upper-endoscopy-quality|AGA Clinical Practice Update on High-Quality Upper Endoscopy: Expert Review (2024)]]
 5. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy]]
+6. [[afs-2022-egj-integrity-classification|The American Foregut Society White Paper on the Endoscopic Classification of Esophagogastric Junction Integrity (2022)]]
