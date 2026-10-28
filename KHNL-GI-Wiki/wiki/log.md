@@ -6,6 +6,32 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-28] update | Card pass — dedup sweep (1 merge of 20 pairs) and the card queue cleared to the two pages that are uncardable on purpose
+
+**Deck slimming (ran first, per *Slim the deck*):** 129 unjudged candidate pairs at ≥0.4; the tool's 20 were each judged and marked in `dedup-ledger.tsv`.
+
+- **1 merge.** IBD dysplasia surveillance technique was carded twice — `ulcerative-colitis [c50037]` (ACG 2019, standard-definition vs high-definition scope) and `colonoscopy [b4c1d8]` (AGA 2021, the alternatives to dye spray). Keeper is the **colonoscopy** note, since technique belongs to the procedure page; it absorbed the standard-definition branch from its own source (AGA 2021 recommends dye spray *particularly* with a standard-definition scope) and gained `{also:ulcerative-colitis}`. The UC note moved to `# Retired`.
+- **19 distinct.** Mostly same-page neighbours with different answers (HHT bevacizumab dose vs pregnancy management; FAP surveillance interval vs operation choice) and same-answer/different-population pairs (sorafenib-or-lenvatinib after transplant vs in Child-Turcotte-Pugh B). The ALT upper-limit pair was kept distinct deliberately: hepatitis B treatment thresholds (35/25 U/L) are not the healthy-population reference range (29–33/19–25 IU/L).
+
+**Pages carded (eligible = no card file, or `page_updated` older than the page):** 10 pages were eligible; all 10 are now resolved, 8 new notes written. Deck 4,045 → 4,055 notes, build reports **0 problems**.
+
+- `[[antireflux-surgery]]` — 1 note: the American Foregut Society hiatus grade a successful repair must show (grade 1, L0/D1/F+), with grade 3–4 as anatomic failure.
+- `[[reflux-testing]]` — 2 notes: the three LDF parameters measured at endoscopy, and the two rules that assign the grade (most disrupted parameter, not the average; any axial hernia length forces grade ≥3). The per-grade criteria table was **not** carded — it is an endoscopic visual classification and the figure capture is still blocked, so there is no image for the front.
+- `[[hiatal-hernia]]` — 1 note: the two steps (30–45 s insufflation, retroflexed pull along the lesser curvature) without which the hernia is under-measured.
+- `[[chronic-pancreatitis]]` — 4 notes from the Rosemont consensus, which closed the page's declared gap: suggestive combinations; indeterminate and normal (incl. the four minor features the "normal" count excludes); the only three features scorable anywhere in the gland; and the ≥3 / ≥2 mm / ≥5 mm counts before a feature exists at all. `c91002`'s Back Extra lost its "splits are in the primary paper" pointer.
+- `[[autoimmune-hepatitis]]` — 2 notes from the IAIHG 1999 consensus: the definite/probable totals pre- and post-treatment, and that the alkaline-phosphatase-to-aminotransferase ratio is a ratio of multiples of the upper limit of normal, not of raw values.
+
+**Marker bumped, no notes written (new content is tier-2, so not cardable under *guideline-sourced cards only*):**
+
+- `[[nutrition-in-liver-disease]]` (Borhofen 2016 cohort), `[[capsule-endoscopy]]` (Gralnek 2008 Lewis-score derivation), `[[ibd-endoscopic-scoring]]` (Narula 2022 post-hoc trial analysis). The simplified autoimmune hepatitis score (Hennes 2008 derivation) is likewise on its page but off the deck.
+- `[[upper-endoscopy]]` and `[[transoral-incisionless-fundoplication]]` — their 2026-10-28 edits were cross-links to the AFS criteria plus an insufflation precondition already carded elsewhere; nothing net-new to own.
+
+**Nothing qualified, deliberately:** `[[bristol-stool-form-scale]]` (its own content is all Lewis 1997; every threshold is explicitly owned by another page) and `[[telemedicine-in-gastroenterology]]` (practice-management content, no tag node). Both stay card-file-free.
+
+**Not done:** nothing committed or pushed, per the run's instructions — `wiki/log.md` is the only modified repo file; the card files live outside the repo at `/cards`.
+
+---
+
 ## [2026-10-28] lint | Backlog mode — 7 ingests, and six pages stop saying the score can't be computed: the AFS hiatus grades, both autoimmune-hepatitis scores, Rosemont, the Lewis score, RFH-NPT and MM-SES-CD all land
 
 **Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands; title amended at the end to match what actually happened.
