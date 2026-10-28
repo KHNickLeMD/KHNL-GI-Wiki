@@ -6,6 +6,21 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-28] update | Card pass — second dedup sweep of the day, 20 pairs judged, no merges and no eligible page
+
+**Deck slimming (ran first, per *Slim the deck*):** 114 unjudged candidate pairs at ≥0.4; the tool's top 20 judged and marked in `dedup-ledger.tsv` (376 pairs judged cumulatively).
+
+- **0 merges.** Every pair tested a different fact. Four were same-page Rosemont band neighbours (consistent / suggestive / indeterminate-and-normal / features scorable anywhere) — adjacent rows of one table, different answers each. The rest split on population or instrument: native hiatal-hernia measurement vs post-fundoplication valve grading; the International Autoimmune Hepatitis Group alkaline-phosphatase-to-aminotransferase ratio vs the R ratio; warfarin plasma reversal vs direct oral anticoagulant reversal agents; risankizumab in ulcerative colitis vs mirikizumab in Crohn's disease.
+- The two esophagogastric-junction insufflation notes were kept distinct on purpose: the shared 30–45 s step is one of two clozes in each, and the manoeuvre that follows differs (lesser-curvature pull to measure a hernia vs rotate-and-pull along the grooves to grade a repaired valve).
+
+**Cards written:** none. Of 334 topic pages, 332 have a current card file and no file is missing `page_updated`, so nothing was left unfinished by an earlier pass.
+
+**Nothing qualified:** the only two uncarded pages are the two standing exclusions, both re-checked. `[[bristol-stool-form-scale]]` was updated 2026-10-27 and now lists four guideline sources, but they appear only as link targets in *Where It Drives a Decision* — every threshold stays with its owner page, and the content stated here is all Lewis 1997. `[[telemedicine-in-gastroenterology]]` is an AGA clinical practice update, so tier-1, but its content is visit-format selection, licensure, documentation and billing, with the outcome section being trial results; no *Keep* category applies and no tag node fits. Both stay card-file-free.
+
+**Build:** 4,055 notes, 0 problems.
+
+---
+
 ## [2026-10-28] update | Card pass — dedup sweep (1 merge of 20 pairs) and the card queue cleared to the two pages that are uncardable on purpose
 
 **Deck slimming (ran first, per *Slim the deck*):** 129 unjudged candidate pairs at ≥0.4; the tool's 20 were each judged and marked in `dedup-ledger.tsv`.
