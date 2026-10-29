@@ -6,6 +6,25 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-29] update | card pass — 5 dedup pairs judged distinct; nothing qualified for new cards
+
+**Dedup first:** `anki-dupes.mjs` surfaced **5 unjudged candidate pairs** at ≥0.4 (the earlier pass today saw 0; these are new since its notes were written). All **5 judged distinct and marked** in `dedup-ledger.tsv` — no merges:
+
+- [[rumination-syndrome]] `b70dcb` vs [[baclofen]] `ba0003` — drug choice vs dose; each on its owner page.
+- [[variceal-upper-gi-bleeding]] `9d0b37` vs [[tips]] `a20020` — role of band ligation by varix location vs the procedure after banding fails.
+- [[alcohol-associated-liver-disease]] `a1d00b` vs [[baclofen]] `ba0001` — which drug for alcohol use disorder vs its titration.
+- [[fecal-incontinence]] `f10025` vs [[sacral-nerve-stimulation]] `5e1005` — conservative-therapy trial length vs the sphincter-defect limit.
+- [[baclofen]] `ba0001` vs `ba0004` — alcohol use disorder dose vs cirrhosis muscle-cramp dose; different indication, different doses.
+
+**Cards written:** none — **nothing qualified**. 335 topic pages, 333 card files, no file missing `page_updated`, and no card file stale against its page. The only two uncarded pages both remain correctly unfiled:
+
+- [[bristol-stool-form-scale]] — every substantive fact is [[lewis-1997-bristol-stool-form-scale]], a primary paper, so not cardable; the page states outright that the clinical bands belong to the guideline pages that act on them, and those are already carded there.
+- [[telemedicine-in-gastroenterology]] — tier-1 CPU, but the content is practice management (visit formats, billing, licensure, documentation, staffing, satisfaction and equity data); nothing changes what is ordered, prescribed, scoped or prescribed-against, and no node in Nick's tag tree covers it.
+
+**Deck:** rebuilt unchanged at **4088 notes** → `/cards/dist/khnl-gi-wiki.txt`. Nothing committed or pushed.
+
+---
+
 ## [2026-10-29] update | card pass — deck caught up to every stale card file; 14 new notes, one new meds tag node
 
 **Dedup first:** `anki-dupes.mjs` returned **0 unjudged candidate pairs** at ≥0.4, so no merges and no ledger marks this pass.
