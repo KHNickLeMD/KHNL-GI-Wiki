@@ -6,6 +6,30 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-29] update | card pass — deck caught up to every stale card file; 14 new notes, one new meds tag node
+
+**Dedup first:** `anki-dupes.mjs` returned **0 unjudged candidate pairs** at ≥0.4, so no merges and no ledger marks this pass.
+
+**Queue:** no card file was missing `page_updated`, so nothing was mid-page. Eligible pages were the 6 whose card file was stale plus [[baclofen]] (no card file), worked in source-year order.
+
+**Pages carded:**
+
+- [[rumination-syndrome]] — recut the baclofen note: the dose left this page for the drug page, so the note now tests the drug only.
+- [[abdominal-bloating-and-distention]] — nothing new qualified; the Rome V Clinical Criteria added to the page are owned by [[disorders-of-gut-brain-interaction]], and the fructose/lactose intolerance prevalences fail the yield test. Marker bumped only.
+- [[sacral-nerve-stimulation]] — 3 new: the severity that qualifies and the explicitly-too-mild group, the 120° sphincter-defect limit, and the unchanged manometry after a response.
+- [[tips]] — 5 new: the anterograde-obliteration indication, balloon vs coil/plug obliteration, rifaximin for any elective candidate, bland portal vein thrombosis as no barrier, and TIPS for lesser-curve gastric varices.
+- [[baclofen]] — new file, 5 notes: the alcohol-use-disorder titration and its three other indication doses, the objective-GERD gate, and the mentation/encephalopathy caution.
+- [[jaundice]] — 1 new: ultrasound first in cholestasis and the three antibodies when the ducts are not dilated.
+- [[serrated-polyposis-syndrome]] — nothing new qualified; the MUTYH testing trigger is owned by [[mutyh-associated-polyposis]] and the family-screening stance is an explicit non-recommendation. Marker bumped only.
+
+**New Anki tag node:** `GI::Meds::GabaBAgonists` (baclofen) — the class word the page itself uses; no existing node fits a centrally acting GABA-B agonist (`SmoothMuscleRelaxants` is botulinum toxin). Needs Nick's sign-off at the next sync.
+
+**Not carded, on purpose:** [[bristol-stool-form-scale]] (all content is the 1997 primary paper; the guideline cut-points live on the pages that act on them) and [[telemedicine-in-gastroenterology]] (practice management, no clinical decision).
+
+**Build:** 4,088 notes, **0 problems**. Nextcloud `occ files:scan` not run from here — the shared `.txt` on disk is newer than what the web UI will serve until the next cron scan.
+
+---
+
 ## [2026-10-29] lint | 06:00 pass — the download list's 📥 marks were wrong on all 27 rows, silently disabling the daily fetch
 
 **Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands; title amended at the end to match what actually happened.
