@@ -88,7 +88,7 @@ Barium esophagography is explicitly excluded from discussion (reduced sensitivit
 | Category | Options |
 |---|---|
 | 1. Lifestyle modifications | Reduce weight; elevate head of bed; reduce offending food items (alcohol, soda, caffeine, smoking, trigger foods); avoid reflux-promoting drugs; eat small meals; avoid eating too close to going to bed |
-| 2. Medical therapy | Antacids; histamine 2 receptor antagonists; proton pump inhibitors; prokinetics; baclofen; alginates |
+| 2. Medical therapy | Antacids; histamine 2 receptor antagonists; proton pump inhibitors; prokinetics; [[baclofen]]; alginates |
 | 3. Endoscopic antireflux procedures | Transoral incisionless fundoplication ᵃ; radiofrequency ablation ᵃ; endoluminal anterior fundoplication ᵃ |
 | 4. Surgical | Fundoplication; Linx magnetic ring ᵃ |
 

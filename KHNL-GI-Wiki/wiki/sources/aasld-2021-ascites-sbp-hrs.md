@@ -45,7 +45,7 @@ Reproduced near-verbatim, grouped by the guidance's own boxed sections. The docu
 4. After ascites is adequately mobilized, attempts should be made to taper the diuretics to the lowest dose necessary to maintain minimal or no ascites to prevent the development of adverse effects.
 5. Fluid restriction is not necessary for ascites management unless there is concomitant moderate or severe hyponatremia (serum sodium ≤125 mmol/L).
 6. In patients receiving diuretics, body weight and serum creatinine and sodium should be regularly monitored to assess response and to detect the development of adverse effects.
-7. Human albumin solution (20–40 g/week) or baclofen administration (10 mg/day, with a weekly increase of 10 mg/day, up to 30 mg/day) can be considered in cases of severe muscle cramps.
+7. Human albumin solution (20–40 g/week) or [[baclofen]] administration (10 mg/day, with a weekly increase of 10 mg/day, up to 30 mg/day) can be considered in cases of severe muscle cramps.
 8. LVP [large-volume paracentesis] is the first-line treatment of grade 3 ascites. After paracentesis, sodium restriction and diuretics should be started.
 9. Referral for LT evaluation should be considered in patients with grade 2 or 3 ascites.
 

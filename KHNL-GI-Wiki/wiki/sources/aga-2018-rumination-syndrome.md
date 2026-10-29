@@ -100,7 +100,7 @@ Epidemiology (incidence, prevalence, risk factors) · quality-of-life impact · 
 ## Relevance to Wiki
 
 - **[[rumination-syndrome]]** — fills the page's **empty Therapeutics section**, exactly as its gap note requested: diaphragmatic breathing with the full technique, biofeedback with its trial data, baclofen 10 mg three times daily, the agents that disappointed, and the recommendation against surgery. Also adds the clinical-recognition advice (BPA 1–2), Figure 4's approach, the Rome IV criteria as printed, and the EMG pattern.
-- **Baclofen** has no page of its own in the wiki; the rumination indication and dose live on [[rumination-syndrome]], which owns the decision.
+- **[[baclofen]]** — supplies the rumination dose and the cross-over trial data for the drug page; [[rumination-syndrome]] keeps the decision to use it.
 - **[[disorders-of-gut-brain-interaction]]**, **[[nausea-and-vomiting]]** — no change needed; both already link the disease page.
 
 ## Contradictions / Open Questions

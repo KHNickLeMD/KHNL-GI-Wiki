@@ -22,7 +22,7 @@ This American College of Gastroenterology (ACG) clinical guideline covers the fu
 
 Alcohol-associated hepatitis is defined by the rapid onset of jaundice and liver failure in the setting of heavy ongoing alcohol use. Diagnosis is clinical in most cases (no liver biopsy required if criteria are met), and severity is stratified using the Maddrey Discriminant Function (MDF) or Model for End-Stage Liver Disease (MELD) score. Severe AH (MELD **>20** or MDF ≥32) carries substantial short-term mortality and warrants treatment with prednisolone 40 mg/day for 28 days. The Lille score at day 7 identifies non-responders (≥0.45), in whom steroids should be discontinued.
 
-N-acetylcysteine (NAC) added to corticosteroids in the first 5–7 days reduces infection rates and improves short-term (but not 90-day) mortality. Alcohol use disorder (AUD) treatment is emphasized for all ALD patients; baclofen has the most evidence for safety in cirrhosis.
+N-acetylcysteine (NAC) added to corticosteroids in the first 5–7 days reduces infection rates and improves short-term (but not 90-day) mortality. Alcohol use disorder (AUD) treatment is emphasized for all ALD patients; [[baclofen]] has the most evidence for safety in cirrhosis.
 
 Early liver transplantation (ELT) without requiring 6 months of abstinence is increasingly supported for selected severe AH non-responders with a first presentation of AH and favorable psychosocial profile. The traditional 6-month rule is being abandoned in specialized centers.
 

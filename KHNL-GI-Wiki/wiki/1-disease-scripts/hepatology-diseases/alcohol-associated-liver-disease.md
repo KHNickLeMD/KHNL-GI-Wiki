@@ -173,8 +173,8 @@ All ALD patients should receive AUD treatment [[acg-2024-ald]], [[aasld-2020-ald
 
 | Medication | Dosing | Metabolism | Evidence in ALD | Notes |
 |---|---|---|---|---|
-| **Baclofen** | 30–60 mg/day (10–20 mg three times daily [tid]) | Hepatic (limited), renal | Single RCT in AC (with AUD and/or HCV): improved abstinence vs. control at 12 months; hepatic encephalopathy (HE) patients excluded | Gamma-aminobutyric acid type B (GABA-B) agonist; best RCT evidence in ALD; may impair mentation — avoid if significant HE |
-| **Acamprosate** | 666 mg tid | None (renal excretion) | No RCT in ALD; no hepatotoxicity; probably safe | N-methyl-D-aspartate (NMDA) antagonist; avoid if renal failure |
+| **[[baclofen\|Baclofen]]** | *Dose and titration on the drug page* | Hepatic (limited), renal | Single RCT in AC (with AUD and/or HCV): improved abstinence vs. control at 12 months; hepatic encephalopathy (HE) patients excluded | Gamma-aminobutyric acid type B (GABA-B) agonist; best RCT evidence in ALD; may impair mentation — avoid if significant HE |
+| **Acamprosate** | 666 mg three times daily (tid) | None (renal excretion) | No RCT in ALD; no hepatotoxicity; probably safe | N-methyl-D-aspartate (NMDA) antagonist; avoid if renal failure |
 | **Naltrexone** | 50 mg/day oral or 380 mg/month subcutaneous (SQ) | Hepatic | Not studied in AH/AC; hepatotoxicity concerns | Opioid antagonist; NNT ~20; **use with caution in hepatic impairment; monitor LFTs**; avoid in hepatic insufficiency per ACG |
 | **Gabapentin** | 600–1,800 mg/day | Renal 75% | Not studied in ALD | Monitor for renal dysfunction and sedation |
 | **Topiramate** | 75–400 mg/day | Not extensively metabolized | Not studied in ALD | — |
@@ -237,7 +237,7 @@ Recurrent ALD after transplant ([[aasld-ast-2025-liver-transplant-graft-complica
 
 ## See Also
 
-[[alcohol-associated-hepatitis]], [[abnormal-liver-chemistries]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[liver-biopsy]], [[mri-mrcp]], [[upper-gi-bleeding]], [[rifaximin]], [[hcc-surveillance]], [[nutrition-in-liver-disease]], [[antibiotic-prophylaxis-cirrhosis]], [[enteral-access]], [[semaglutide]], [[glp-1-receptor-agonists]], [[albumin]], [[somatostatin-analogs]], [[liver-stiffness-measurement]], [[cirrhosis]]
+[[alcohol-associated-hepatitis]], [[abnormal-liver-chemistries]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[liver-biopsy]], [[mri-mrcp]], [[upper-gi-bleeding]], [[rifaximin]], [[hcc-surveillance]], [[nutrition-in-liver-disease]], [[antibiotic-prophylaxis-cirrhosis]], [[enteral-access]], [[semaglutide]], [[glp-1-receptor-agonists]], [[albumin]], [[somatostatin-analogs]], [[liver-stiffness-measurement]], [[cirrhosis]], [[baclofen]]
 
 ---
 

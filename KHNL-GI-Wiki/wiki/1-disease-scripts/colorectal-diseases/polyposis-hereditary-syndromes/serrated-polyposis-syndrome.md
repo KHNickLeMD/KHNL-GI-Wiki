@@ -3,7 +3,7 @@ title: "Serrated Polyposis Syndrome"
 category: disease-script
 tags: [serrated-polyposis, sps, hyperplastic-polyposis, sessile-serrated, colorectal-cancer, polyposis, mutyh]
 created: 2026-05-19
-updated: 2026-09-03
+updated: 2026-10-29
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2020-followup-colonoscopy, asge-2020-fap]
 ---
 
@@ -50,7 +50,7 @@ These are the **2010 (4th-edition) WHO** criteria — [[asge-2020-fap|American S
 | First limb polyp type | Serrated | **Hyperplastic** (as written) |
 | FDR-based limb | Present (criterion ii) | Not restated |
 
-> **WHO vs USMSTF wording.** USMSTF 2020 states its thresholds in a table footnote **without attributing them to WHO**, and its first limb specifies *hyperplastic* rather than serrated polyps. The **WHO 2019 (5th-edition)** revision itself is not reproduced here. Both formulations are printed above; where they conflict this page follows the newer USMSTF 2020 thresholds.
+> **WHO vs USMSTF wording.** USMSTF 2020 states its thresholds in a table footnote **without attributing them to WHO**, and its first limb specifies *hyperplastic* rather than serrated polyps. Neither guideline reproduces the **WHO 2019 (5th-edition)** revision of the criteria. Both formulations are printed above; where they conflict this page follows the newer USMSTF 2020 thresholds.
 
 **Polyp spectrum**:
 
@@ -69,12 +69,12 @@ These are the **2010 (4th-edition) WHO** criteria — [[asge-2020-fap|American S
 - Clear genetic etiology has not been defined for SPS; routine genetic testing is NOT currently recommended
 - Overlap with [[mutyh-associated-polyposis|MUTYH-associated polyposis (MAP)]] runs in one direction more than the other: **3 of 17 biallelic MUTYH carriers (18%) met SPS criteria**, whereas only **1 of 126 SPS patients (0.8%)** carried biallelic MUTYH. In both series the patients meeting SPS criteria also had a history of adenomas — hence testing MUTYH only when adenomas are concurrent and/or there is a family history of adenomas
 - GREM1 duplication has been described in [[hereditary-mixed-polyposis-syndrome|hereditary mixed polyposis syndrome (HMPS)]], which may overlap with SPS
-- Conventional adenomas are found in the majority of SPS patients (78–80%). In CRCs arising in SPS patients: **BRAF V600E in 18 of 39 (46%)**, **KRAS in 2 of 40 (5.0%)**, and **loss of MLH1/PMS2 expression on IHC in 17 of 45 (38%)**
+- Conventional adenomas are found in the majority of SPS patients (78–80%). In CRCs arising in SPS patients: **BRAF V600E in 18 of 39 (46%)**, **KRAS in 2 of 40 (5.0%)**, and **loss of MLH1/PMS2 expression on immunohistochemistry (IHC) in 17 of 45 (38%)**
 
 ### Severity Assessment
 
 - Lifetime CRC risk estimated **>50%**, but the specific risk is not well defined — cohorts are small, phenotypically diverse, and subject to referral bias, so this is likely an overestimate
-- In a retrospective series of 77 SPS patients: **22 (28.6%) already had CRC at the baseline [[colonoscopy]]**; a further **5 (6.5%) developed CRC on surveillance** (median follow-up 1.3 y), 4 of those 5 arising in serrated polyps <20 mm. **Estimated 5-year CRC risk under surveillance 7%**
+- In a retrospective series of 77 SPS patients: **22 (28.6%) already had CRC at the baseline colonoscopy**; a further **5 (6.5%) developed CRC on surveillance** (median follow-up 1.3 y), 4 of those 5 arising in serrated polyps <20 mm. **Estimated 5-year CRC risk under surveillance 7%**
 - Across two large descriptive series, 31–42% of index cases carried a CRC diagnosis; mean age at diagnosis ~48 years
 - CRCs in SPS are predominantly right-sided (5 of 7 CRCs in one small prospective series) and often flat/serrated in morphology
 - Synchronous adenomas are found in the majority of SPS patients; conventional adenomas more frequent in SPS patients with CRC
@@ -98,7 +98,7 @@ These are the **2010 (4th-edition) WHO** criteria — [[asge-2020-fap|American S
 - **Colonoscopy** with [[polypectomy]] is the diagnostic and surveillance tool — polyp-clearance goals and interval recommendations are detailed under [[#Endoscopic Management]] [[acg-2015-hereditary-gi-cancer]]
 - Consider **MUTYH** germline testing when adenomas are concurrently present and/or family history of adenomas exists
 - No established role for tumor molecular profiling in guiding management at this time
-- No extracolonic cancer surveillance is recommended (Conditional/Very Low (VLow)) — data are insufficient; familial extracolonic cancer risks have not been clearly established
+- **No extracolonic cancer surveillance** — ACG Rec 21 *(Conditional / Very Low)*: there is no evidence to support extracolonic cancer surveillance in SPS at this time. Data are insufficient; in the two largest series (115 patients, and 105 patients with 341 FDRs) no excess extracolonic malignancy was seen in patients or relatives
 
 ---
 
@@ -106,19 +106,21 @@ These are the **2010 (4th-edition) WHO** criteria — [[asge-2020-fap|American S
 
 ### Endoscopic Management
 
-- Colonoscopy every 1–3 years with attempted removal of all polyps >5 mm in diameter (Conditional/Low) [[acg-2015-hereditary-gi-cancer]]
-- Complete clearance of all polyps ≥1 cm at index colonoscopy is the goal
-- Subsequent intervals based on number/size of polyps and co-existing adenomas (general post-polypectomy intervals: [[colonoscopy-surveillance]])
+- **ACG Rec 19** *(Conditional / Low)*: colonoscopy every **1–3 years** with attempted removal of **all polyps >5 mm** in diameter [[acg-2015-hereditary-gi-cancer]]
+- **Complete clearance of all polyps ≥1 cm** should be done when possible
+- Set the next interval from the **number and size of polyps and the number of concurrent adenomas** — but generally still **every 1–3 years** (general post-polypectomy intervals: [[colonoscopy-surveillance]])
+- SPS is excluded from routine post-polypectomy surveillance intervals and "may require specialized management" ([[usmstf-2020-followup-colonoscopy]])
 
 ### Surgical Management
 
-**Indications for surgery** [[acg-2015-hereditary-gi-cancer]] (Conditional/Low):
+**ACG Rec 20** *(Conditional / Low)* [[acg-2015-hereditary-gi-cancer]] — indications for surgery:
 
-- Inability to endoscopically control the growth of serrated polyps
-- Development of CRC
-- High-grade dysplasia in a serrated polyp that cannot be removed in its entirety
+- Inability to control the growth of serrated polyps
+- Development of cancer
 
-**Colectomy with ileorectal anastomosis (IRA)** is a reasonable option given the risk of metachronous neoplasia; pancolonic distribution makes surgical planning important.
+The guideline's evidence summary adds a third: **high-grade dysplasia in a serrated polyp that cannot be removed in its entirety**.
+
+**Subtotal colectomy with ileorectal anastomosis (IRA)** is a reasonable option given the risk of metachronous neoplasia.
 
 ### Family Member Surveillance
 

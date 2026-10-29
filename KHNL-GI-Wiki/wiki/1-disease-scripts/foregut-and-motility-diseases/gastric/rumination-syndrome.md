@@ -3,7 +3,7 @@ title: "Rumination Syndrome"
 category: disease-script
 tags: [rumination-syndrome, regurgitation, dgbi, gastroduodenal, high-resolution-manometry, impedance, postprandial, foregut]
 created: 2026-06-08
-updated: 2026-10-26
+updated: 2026-10-29
 sources: [aga-2018-rumination-syndrome, rome-v-2026-dgbi, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -143,7 +143,7 @@ Rumination syndrome is a **clinical diagnosis**; objective testing confirms it i
 
 | Agent | Evidence | Verdict |
 |---|---|---|
-| **Baclofen 10 mg three times daily** | Randomized cross-over, 22 patients (16 with rumination): modest ↓ postprandial flow events; **symptom improvement 63% vs 26% placebo** | **BPA 7 — the named next step in refractory patients** |
+| **[[baclofen\|Baclofen]]** (dose and cautions on the drug page) | Randomized cross-over, 22 patients (16 with rumination): modest ↓ postprandial flow events; **symptom improvement 63% vs 26% placebo** | **BPA 7 — the named next step in refractory patients** |
 | **Levosulpiride** (dopamine D2 antagonist, prokinetic) | 21 adults, 8 months, with supportive psychotherapy | **38% improved, 48% unchanged, ⚠ 14% worsened** |
 | **Buspirone** (5-hydroxytryptamine 1A agonist, induces fundic relaxation) | ⚠ **No trials in rumination syndrome**; works in functional [[dyspepsia]] | "Reasonable" on mechanism (up to 50% have impaired fundic relaxation), but **anecdotal benefit appears limited** |
 | **Chewing gum** | **2 case reports**, both pediatric/adolescent | Reported as beneficial; nothing more |
@@ -155,7 +155,7 @@ Rumination syndrome is a **clinical diagnosis**; objective testing confirms it i
 
 ## See Also
 
-[[nausea-and-vomiting]], [[disorders-of-gut-brain-interaction]], [[gerd]], [[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[achalasia]], [[esophagogastric-junction-outflow-obstruction]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[high-resolution-manometry]], [[upper-endoscopy]], [[chicago-classification-v4]], [[dyspepsia]]
+[[nausea-and-vomiting]], [[disorders-of-gut-brain-interaction]], [[gerd]], [[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[achalasia]], [[esophagogastric-junction-outflow-obstruction]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[high-resolution-manometry]], [[upper-endoscopy]], [[chicago-classification-v4]], [[dyspepsia]], [[baclofen]]
 
 ---
 

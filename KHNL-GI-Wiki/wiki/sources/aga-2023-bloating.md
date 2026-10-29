@@ -45,7 +45,7 @@ Belching is separated from bloating/distention given differing location, pathoph
 - Rome IV **belching** = audible escape of air from esophagus/stomach into pharynx; "excessive belching" when bothersome and >3 days/week.
 - Rome IV **functional bloating/distention** = recurrent fullness/pressure or visible girth increase ≥1 day/week, active ≥3 months, onset ≥6 months prior, without predominant pain or altered bowel habits, and not meeting IBS/functional constipation/diarrhea/functional dyspepsia criteria.
 - Supragastric belching before reflux does **not** respond to PPI; after a reflux episode it may.
-- Baclofen not advocated for supragastric belching alone; may be considered for gastric belching due to GERD (reduces LES relaxations).
+- [[baclofen|Baclofen]] not advocated for supragastric belching alone; may be considered for gastric belching due to GERD (reduces LES relaxations).
 - Small intestinal bacterial overgrowth (SIBO) testing **not** advocated routinely for bloating/distention unless clear risk factors or severe symptoms (chronic watery diarrhea, malnutrition/weight loss, small-bowel dysmotility diseases — cystic fibrosis, Parkinson, scleroderma, diabetes).
 - Fructose intolerance (60%) more common than lactose (51%) across DGBIs.
 - Bloating/fullness can be a presenting symptom of **ovarian cancer** (highest risk women ≥50) — alarm-feature imaging caveat.

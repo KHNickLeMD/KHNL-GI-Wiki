@@ -59,7 +59,7 @@ Verbatim from Table 1 unless noted; section numbering is the guideline's own (ea
 | 10 | For patients with GERD who require maintenance therapy with PPIs, the PPIs should be administered in the lowest dose that effectively controls GERD symptoms and maintains healing of reflux esophagitis. | Conditional | Low |
 | 11 | We recommend against routine addition of medical therapies in PPI nonresponders. | Conditional | Moderate |
 | 12 | We recommend maintenance PPI therapy indefinitely or antireflux surgery for patients with LA grade C or D esophagitis. | Strong | Moderate |
-| 13 | We do not recommend baclofen in the absence of objective evidence of GERD. | Strong | Moderate |
+| 13 | We do not recommend [[baclofen]] in the absence of objective evidence of GERD. | Strong | Moderate |
 | 14 | We recommend against treatment with a prokinetic agent of any kind for GERD therapy unless there is objective evidence of [[gastroparesis]]. | Strong | Low |
 | 15 | We do not recommend sucralfate for GERD therapy except during pregnancy. | Strong | Low |
 | 16 | We suggest on-demand or intermittent PPI therapy for heartburn symptom control in patients with NERD [nonerosive reflux disease]. | Conditional | Low |

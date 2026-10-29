@@ -3,7 +3,7 @@ title: "TIPS (Transjugular Intrahepatic Portosystemic Shunt)"
 category: advanced-procedure
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, hepatic-encephalopathy, pspg, ptfe-stent, rto, brto, interventional-radiology]
 created: 2026-07-16
-updated: 2026-09-22
+updated: 2026-10-29
 sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus, baveno-vii-2022-portal-hypertension, aga-2021-bleeding-gastric-varices]
 ---
 
@@ -21,20 +21,14 @@ sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-asci
 - [[#Complications]]
 - [[#Follow-Up and Shunt Surveillance]]
 - [[#TIPS vs Variceal Obliteration (RTO / ATO)]]
-- [[#Guidance Statements (AASLD 2024)]]
-- [[#Open Questions]]
 - [[#See Also]]
 - [[#Sources]]
 
 ## Physiological Effects
 
-- Diverts portal flow to systemic circulation → ↓ portal venous pressure gradient
-- ↑ right atrial pressure, cardiac preload, central blood volume by **~50–100%**
-- ↑ cardiac output **~10–15%** (improved inotropy); ↓ systemic vascular resistance and afterload
-- ↑ right ventricular pressure, pulmonary arterial pressure, pulmonary capillary wedge pressure
-- Heart rate initially unchanged; may ↑ after several months
-- ↓ plasma copeptin, aldosterone, renin; ↑ norepinephrine
-- Renal function may improve via improved renal perfusion
+- Diverts portal flow to the systemic circulation → ↓ portal venous pressure gradient
+- **The shunt is a volume load on the right heart:** ↑ right atrial and right ventricular pressure, pulmonary arterial pressure and wedge pressure; central blood volume **↑ ~50–100%**, cardiac output **↑ ~10–15%**, systemic vascular resistance and afterload ↓ — which is why an echocardiogram is part of the workup
+- Renal perfusion and renal function may improve; plasma copeptin, aldosterone and renin fall, norepinephrine rises
 - **Core trade-off:** improvement in ascites, nutrition, renal function, and bleeding **vs** worsening [[hepatic-encephalopathy|hepatic encephalopathy]], cardiac overload, and liver function → create the **smallest-necessary caliber shunt**
 
 ## Indications
@@ -57,9 +51,9 @@ sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-asci
   - **Missed the 72 h window → TIPS may still benefit** (Baveno VIII 5.32, new): **within 2 weeks** for CTP C 10–13, **within 1 week** for CTP B >7 with active bleeding
   - Encephalopathy, hyperbilirubinemia, and/or [[acute-on-chronic-liver-failure|acute-on-chronic liver failure (ACLF)]] at time of bleeding had **no impact on survival** in observational data and should **not** contraindicate preemptive TIPS. **Baveno VIII 5.33 adds MELD score and severe [[alcohol-associated-liver-disease|alcohol-related hepatitis]]** to the list of things that are **not absolute contraindications**
   - Figure 3 of Baveno VIII qualifies the candidate profile as **age <75 y, creatinine <3 mg/dL, no heart failure**
-  - Caveats: preemptive-TIPS randomized controlled trials (RCTs) enrolled mainly [[alcohol-associated-liver-disease|alcohol-associated]] and [[chronic-hepatitis-b|hepatitis B]]–related cirrhosis — generalizability to [[nafld-masld|metabolic dysfunction-associated steatohepatitis (MASH)]]-related cirrhosis undetermined; a 2021 RCT (n=58) found similar 1-year survival vs standard of care, and the updated meta-analysis showed lower 6-week rebleeding but **no significant survival benefit**
+  - ⚠ **The survival benefit is not settled.** The trials enrolled mainly [[alcohol-associated-liver-disease|alcohol-associated]] and [[chronic-hepatitis-b|hepatitis B]]–related cirrhosis, leaving [[nafld-masld|metabolic dysfunction-associated steatohepatitis (MASH)]] cirrhosis untested; the updated meta-analysis shows **less 6-week rebleeding but no significant survival benefit**
 - **Secondary prevention:** TIPS is **second-line** — first-line remains [[nonselective-beta-blockers|nonselective beta-blockers (NSBB)]] (propranolol, nadolol, or carvedilol) + endoscopic variceal ligation; TIPS is treatment of choice for rebleeding despite that combination. RCTs consistently show TIPS prevents rebleeding but with **increased hepatic encephalopathy (HE) and no survival difference**
-- **No role in primary prevention** — of either esophageal or gastrofundal variceal bleeding
+- **No role in primary prevention** — of either esophageal or gastrofundal variceal bleeding. For gastrofundal varices **neither TIPS nor RTO** should be used to prevent a first hemorrhage
 - **Salvage/rescue:** controls bleeding in 80–100%, but 6-week mortality **27–55%** (deaths from liver failure, infection, renal failure)
 
 ### Refractory ascites and hepatic hydrothorax
@@ -76,7 +70,7 @@ sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-asci
 - **Refractory hepatic hydrothorax** despite standard medical treatment → consider TIPS (6.7)
 - **Older adults (≥70 years)** may be considered on a case-by-case basis, weighing benefit against risk (6.8) — a narrower age framing than the ">75 excluded from RCTs" note under [[#Contraindications]]
 - **Assess renal function systematically and stage chronic kidney disease (CKD) by estimated glomerular filtration rate (eGFR)** before TIPS for recurrent/refractory ascites, for risk stratification (6.9)
-- **Not a TIPS candidate → long-term [[albumin|albumin]] may be considered** to improve ascites control and reduce ascites-related complications (6.10); **contraindication or inadequate response to TIPS, and not an LT candidate → home-based drainage devices** (tunnelled peritoneal catheter or low-flow ascites pump) as an alternative to repeated large-volume paracentesis (6.11). See [[ascites]]
+- **Not a TIPS candidate →** long-term [[albumin|albumin]], or (if also not an LT candidate) a home drainage device instead of repeated large-volume paracentesis (6.10–6.11) — both live on [[ascites]]
 - **[[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] is not an absolute contraindication** to TIPS for recurrent/refractory ascites or hepatic hydrothorax **unless the tumour lies along the TIPS trajectory**; better decompensation control may in fact open access to effective oncological treatment (4.15)
 - **[[nutrition-in-liver-disease|Sarcopenia]] and frailty alone should neither indicate nor contraindicate TIPS** — weigh them alongside the rest of the pre-TIPS work-up (4.19)
 
@@ -84,12 +78,10 @@ sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-asci
 
 - **Bland (noncancerous) [[portal-vein-thrombosis|portal vein thrombosis (PVT)]], acute or chronic, does not preclude TIPS** — but shunt creation ± thrombectomy may need specialized skills (transhepatic, trans-splenic approaches); refer to experienced centers
   - **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 9.26–9.28:** TIPS for **main portal vein thrombosis not improving on anticoagulation** when there are complications of portal hypertension, or to facilitate a physiological anastomosis in a transplant candidate; **TIPS may be first-line when anticoagulation is contraindicated** (9.27, new); and **routine anticoagulation after TIPS is *not* recommended** in cirrhosis with PVT (9.28, new — level of evidence [LoE] 2, strong)
-  - In **non-cirrhotic** PVT, TIPS belongs to the chronic-PVT toolkit (with angioplasty ± stenting), while thrombolysis/thrombectomy address acute/recent clot; TIPS is specifically indicated where **intrahepatic resistance is increased** — [[porto-sinusoidal-vascular-disorder|porto-sinusoidal vascular disorder (PSVD)/noncirrhotic portal fibrosis (NCPF)]], or extension into the intrahepatic branches (9.12–9.13)
-  - Outcomes: **84%** 1-year TIPS stent patency, **78%** 1-year portal vein patency, **10%** major complications
-  - Portal vein recanalization + TIPS may improve [[liver-transplantation|transplant]] candidacy by restoring a portal vein suitable for anastomosis and graft perfusion
-  - In PVT with recurrent bleeding after failure of medical/endoscopic therapy, consider recanalization followed by TIPS ([[aasld-2021-vascular-pvt]]) — i.e. still **second-line**, as in patients without PVT
-- **[[budd-chiari-syndrome|Budd-Chiari syndrome (BCS)]]:** TIPS sits third in the stepwise ladder — anticoagulation → angioplasty/stenting of short-segment obstruction → TIPS → transplant for failure/decompensation ([[aasld-2021-vascular-pvt]]; [[baveno-viii-2026-portal-hypertension]] 8.31, 8.34). BCS presenting as [[acute-liver-failure|acute liver failure]] → **salvage TIPS if possible, independent of transplant listing** (8.37)
-- **[[porto-sinusoidal-vascular-disorder|PSVD/NCPF]] and other vascular liver disease:** TIPS for **refractory or recurrent portal-hypertensive bleeding** (8.13). ⚠ **There is no data supporting pre-emptive TIPS in vascular liver disease** (8.14) — do not extrapolate the cirrhosis p-TIPS criteria
+  - In **non-cirrhotic** PVT, TIPS is for the **chronic** clot where **intrahepatic resistance is increased** — [[porto-sinusoidal-vascular-disorder|porto-sinusoidal vascular disorder (PSVD)/noncirrhotic portal fibrosis (NCPF)]], or extension into the intrahepatic branches (9.12–9.13). Outcomes: **84%** 1-year stent patency, **78%** 1-year portal vein patency, **10%** major complications
+  - Recanalization + TIPS may restore a portal vein suitable for anastomosis and so improve [[liver-transplantation|transplant]] candidacy. For PVT with recurrent bleeding after medical and endoscopic failure, recanalization then TIPS — still **second-line**, as without PVT ([[aasld-2021-vascular-pvt]])
+- **[[budd-chiari-syndrome|Budd-Chiari syndrome (BCS)]]:** TIPS is the **third rung** of the ladder owned by [[budd-chiari-syndrome]] (anticoagulation → angioplasty/stenting → TIPS → transplant). BCS presenting as [[acute-liver-failure|acute liver failure]] → **salvage TIPS if possible, independent of transplant listing** (8.37)
+- **[[porto-sinusoidal-vascular-disorder|PSVD/NCPF]] and other vascular liver disease:** TIPS for **refractory or recurrent portal-hypertensive bleeding** (8.13). ⚠ **No data support pre-emptive TIPS in vascular liver disease** (8.14) — do not extrapolate the cirrhosis criteria above
 - **Pre-operative TIPS before major surgery** may be considered to reduce the risk of postoperative decompensation in compensated cirrhosis/compensated advanced chronic liver disease (cACLD) with clinically significant portal hypertension (CSPH); **TIPS is *not* recommended to prevent decompensation otherwise** ([[baveno-viii-2026-portal-hypertension]] 3.20)
 - **Sinistral (left-sided/segmental) portal hypertension** from isolated splenic vein thrombosis/compression **will not benefit from TIPS** — consider splenectomy, splenic embolization, or trans-splenic anterograde transvenous obliteration (ATO)
 
@@ -107,9 +99,8 @@ sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-asci
 - Risk–benefit differs when TIPS is a last-resort, life-saving procedure (uncontrolled hemorrhage) vs when alternatives exist (secondary prevention, refractory ascites)
 - **Futility (AASLD 2024 Guidance Statement [GS] 23 — superseded by Baveno VIII):** MELD **>30**, lactate **>12 mmol/L**, or Child-Pugh **>13** → do not use salvage/rescue TIPS unless as a **short-term bridge to transplant**
 
-> ⚠ **The numeric futility rule has been withdrawn by the consortium that wrote it.** [[aasld-2024-tips]] GS 23 inherited these thresholds from [[baveno-vii-2022-portal-hypertension|Baveno VII]] 6.31. **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.37 replaces them: "Salvage TIPS should be discussed for any refractory variceal bleeding, regardless of age, the Child-Pugh and MELD scores, on a case-by-case basis"** (LoE 3, strong) — and its research agenda calls for a **new externally validated futility score** (RA5.13). Both documents are tier-1 and Baveno VIII is newer, so this page follows Baveno VIII; the AASLD numbers are kept above because they are still in wide use and readers carry them, **not because they should gate the decision**.
->
-> **What survives:** a high MELD, a high lactate and a Child-Pugh >13 still describe a patient at very high risk of dying, and Baveno VIII 5.46 still asks for "futility criteria related to both liver function and tumour prognosis" to be accounted for where HCC is present. The change is that these numbers no longer function as an automatic exclusion.
+> [!pitfall] The numeric futility rule no longer excludes anyone
+> [[aasld-2024-tips]] GS 23 inherited its thresholds from [[baveno-vii-2022-portal-hypertension|Baveno VII]] 6.31, and **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.37 has replaced them: salvage TIPS should be discussed for any refractory variceal bleeding, regardless of age and of the Child-Pugh and MELD scores, case by case** (LoE 3, strong). Baveno VIII is newer, so this page follows it. Those numbers still describe a patient at very high risk of dying — and 5.46 still asks that futility account for liver function and tumour prognosis where HCC is present — but they are no longer an automatic exclusion.
 
 ## Technique
 
@@ -191,82 +182,22 @@ Retrograde transvenous obliteration (RTO) and ATO act **directly on varices and 
 | **Contraindications** | See table above | Severe sepsis, splenic/portal vein thrombosis, uncontrollable esophageal variceal bleeding (relative); difficult-to-control ascites (relative) | Coagulopathy (relative, percutaneous access); splenic/portal vein thrombosis; uncontrolled sepsis (absolute) |
 
 - **Gastrofundal varices (gastroesophageal varices type 2 [GOV2]/isolated gastric varices type 1 [IGV1] — [[portal-hypertension|Sarin classification criteria]]):** cyanoacrylate injection, TIPS, or RTO are all first-line. Choose by **vascular anatomy, clinical profile, and center expertise** — RTO favored with prior overt HE or poor liver function; TIPS favored with large esophageal varices, significant ascites, or PVT. RTO is first-line endovascular option when TIPS is contraindicated
-- Gastrorenal shunts (GRS) feeding gastric varices are often **larger in diameter than the TIPS**, so flow can persist through varices despite a low post-TIPS gradient → adjunctive obliteration of residual gastric varices matters
-- **Ectopic varices:** TIPS is first-line for most, but decompression by TIPS alone is often insufficient (the ectopic vessel–systemic gradient may be below the post-TIPS PSPG) → routinely combine with ATO/RTO. Manage via multidisciplinary team
+- **Ectopic varices:** TIPS is first-line for most, but decompression by TIPS alone is often insufficient (the ectopic vessel–systemic gradient may be below the post-TIPS PSPG) → routinely combine with ATO/RTO
+  - Decide in a **multidisciplinary team** (hepatology, GI, interventional radiology, surgery), after **comprehensive imaging** defining the functional vascular anatomy
+  - Endoscopic therapy, where feasible, is a **bridge** to definitive interventional radiology treatment — not the definitive step
+  - **Poor TIPS candidate, or small feeding collaterals → ATO or RTO alone** may control the bleeding without a shunt
+- **When to reach for ATO:** esophageal, gastric or ectopic variceal hemorrhage with a **large afferent vein or shunt, or high-flow varices**. Eradicate the **entire** variceal complex to minimise rebleeding; embolic/sclerosing agent by operator experience and availability
 - Traditional **BRTO** requires balloon inflation up to **36 h** with intensive care unit (ICU) monitoring (balloon rupture risk); **CARTO/PARTO** avoid sclerosants and complete in one session — comparable in duration to TIPS, preferable in uncontrolled bleeding
-- **Post-obliteration:** computed tomography (CT) abdomen or [[endoscopic-ultrasound|EUS]] within 72 h to confirm complete obliteration (partial obliteration can cause massive bleeding — the decompressing shunt is closed while varices persist); follow-up endoscopy at 1–2 months for new/progressive esophageal varices. *Post-treatment surveillance schedules for the gastric varix itself are on [[variceal-upper-gi-bleeding]].*
+- **Post-obliteration:** computed tomography (CT) abdomen or [[endoscopic-ultrasound|EUS]] within 72 h to confirm obliteration, then endoscopy at **1–2 months** for new or progressive esophageal varices. *Surveillance of the gastric varix itself is on [[variceal-upper-gi-bleeding]].*
 
-**Comparative performance in cardiofundal gastric varices** [[aga-2021-bleeding-gastric-varices]] *(ungraded expert Best Practice Advice; where it meets [[aasld-2024-tips]] or Baveno VIII, the newer document governs)*:
+**How TIPS performs in cardiofundal gastric varices (GV)** — *the full acute-bleeding pathway is on [[variceal-upper-gi-bleeding]]; what follows is only what changes the TIPS decision* ([[aga-2021-bleeding-gastric-varices]], ungraded):
 
-- **Anatomy is why RTO is on the table at all:** up to **85% of cardiofundal gastric varices (GV)** are associated with a left-sided spontaneous portosystemic shunt — a **gastrorenal shunt** draining into the left renal vein.
-- **TIPS is less efficacious in GV than in esophageal varices (EV).** Cardiofundal GV bleed at lower portal pressures, and **up to 50% may rebleed even after TIPS** — which is why TIPS for cardiofundal GV should be **combined with direct embolization or endovascular sclerosis**. TIPS risks (hepatic encephalopathy, hepatic ischemia) **may be greater when a GRS is present**, which is common precisely in cardiofundal GV. Against cyanoacrylate injection, TIPS gives similar initial hemostasis and slightly better long-term rebleeding, at **added cost and more complications (encephalopathy)**. **Favor TIPS for lesser-curve GV refractory to band ligation, or recurrent bleeding** — analogous to EV management.
-- **BRTO efficacy:** cessation of active bleeding in **>90%**; intention-to-treat GV rebleed rate consistently **<5%–7% at 1 year**. **No adequately sized RCTs.** Meta-analysis of TIPS vs BRTO for cardiofundal GV: **no difference in initial hemostasis or procedure-related complications, but BRTO had less rebleeding and less encephalopathy.**
-- **Hepatic encephalopathy *improves* after BRTO** — incidence **0%–5% at 1 year**; **type B (portosystemic-shunt-related) HE is itself an indication for BRTO**. Liver synthetic function may improve from increased portal inflow, though no outcome benefit has been demonstrated.
-- **Accelerated variants (CARTO, PARTO)** replace the balloon with permanent hardware — physiologically plausible but **not supported by the same volume of data** as conventional BRTO. ⚠ [[aasld-2024-tips]] GS 12 (newer) states they have **lower complication profiles** and may be preferred at experienced institutions — this page follows AASLD 2024 (newer).
+- Up to **85% of cardiofundal GV drain through a gastrorenal shunt** — which is both why RTO is possible and why TIPS is riskier here: hepatic encephalopathy and hepatic ischemia **may be worse when a GRS is present**.
+- **TIPS is less efficacious in GV than in esophageal varices** — cardiofundal GV bleed at lower portal pressures and **up to 50% rebleed even after TIPS** → combine TIPS with direct embolization or endovascular sclerosis. **Favor TIPS for lesser-curve GV** refractory to band ligation or rebleeding.
+- **Type B (shunt-related) HE is itself an indication for RTO**, which improves encephalopathy rather than causing it.
 
-## Guidance Statements (AASLD 2024)
-
-*Consensus guidance statements — this document was not GRADE-rated. Verbatim from [[aasld-2024-tips]].*
-
-**TIPS — technique and hemodynamics**
-1. PTFE-coated TIPS stents should be considered standard of care.
-2. When the indication for TIPS is variceal hemorrhage (treatment of acute hemorrhage or prevention of recurrence), TIPS should be progressively dilated (starting at 8 mm of diameter) to the minimum diameter needed to achieve a PSPG below 12 mm Hg.
-3. In patients whose PSPG does not decrease below 12 mm Hg despite maximum dilation of TIPS (10 mm), NSBBs should be added to further decrease portal pressure.
-4. Bland PVT does not preclude creation of a TIPS. Referral to experienced centers should be considered.
-5. In patients with large spontaneous portal systemic collaterals, collateral embolization at the time of TIPS placement may be considered because it may decrease the risk of hepatic encephalopathy.
-
-**TIPS — encephalopathy and follow-up**
-
-6. In patients undergoing elective TIPS for prevention of variceal rebleeding, rifaximin 550 mg BID started within 14 days before TIPS placement and maintained for 6 months may reduce the risk of post-TIPS hepatic encephalopathy and can be considered when feasible.
-7. In patients with refractory hepatic encephalopathy despite post-TIPS optimal medical therapy (combination of lactulose and rifaximin), endovascular reduction of TIPS diameter should be attempted.
-8. In TIPS placed for variceal hemorrhage, we suggest a frequency of follow-up Doppler-US at 1 week, 3 months, 6 months, and every 6 months thereafter to assess TIPS patency.
-9. A mean maximum flow velocity (mVPmax) at the portal vein <28 cm/s when flow is hepatofugal or mVPmax <39 cm/s when flow is hepatopetal should trigger venography and pressure measurements to confirm TIPS dysfunction. An absence of these positive findings should not preclude TIPS interrogation in patients with recurrent signs or symptoms of portal hypertension.
-
-**RTO**
-
-10. RTO should be considered as an alternative treatment to TIPS for bleeding gastric or ectopic varices with favorable anatomy (e.g., accessible and occludable GRS).
-11. RTO, by closing the flow through the varices, redirects portal venous flow to the liver and thereby increases the portal systemic pressure gradient. Close surveillance of complications of portal hypertension and potential additional treatment such as TIPS, beta-blockers, or endoscopic treatment of esophageal varices after RTOs is needed.
-12. CARTO or PARTO have lower complication profiles compared with those of traditional BRTO or mBRTO [modified BRTO] and may be the preferred methods at experienced institutions.
-13. Within 72 h after RTO, a CT of the abdomen or endoscopic US should be performed to confirm complete obliteration of the gastric or ectopic varices.
-14. Follow-up endoscopy should be performed 1–2 months after RTO to survey for the development or progression of esophageal varices. If no varices are seen, future surveillance should be performed according to existing guidance.
-
-**ATO**
-
-15. Percutaneous transhepatic or trans-splenic access or trans-TIPS ATO should be considered as a therapeutic option in esophageal, gastric, or ectopic variceal hemorrhage with a large afferent vein or shunt or with high flow varices.
-16. ATO with complete eradication of entire variceal complex is advisable to minimize recurrent bleeding. The choice of embolic or sclerosing agent should be determined by operator experience and agent availability.
-17. Abdominal CT or endoscopic US should be performed within 72 h after ATO to confirm complete obliteration of the varices.
-18. Follow-up endoscopy should be performed 1–2 months after ATO to evaluate the development or worsening of esophageal varices. If no varices are seen, future surveillance should be performed according to existing guidance.
-
-**Esophageal varices and gastroesophageal varices type 1 (GOV1)**
-
-19. TIPS should not be performed for the primary prevention of variceal bleeding.
-20. In patients with acute esophageal variceal hemorrhage, preemptive "early" TIPS with PTFE-covered stents within 72 h (ideally <24 h) of initial upper endoscopy should be considered in patients who meet any of the following criteria: Child-Pugh class C 10–13 points or Child-Pugh class B 8–9 points with active bleeding at initial endoscopy despite concomitant treatment with vasoactive agents.
-21. TIPS should be used as salvage treatment in patients in whom variceal bleeding cannot be controlled with medical and endoscopic therapy (failure of standard of care).
-22. TIPS should be used as rescue treatment in patients with early recurrent variceal bleeding despite medical and endoscopic therapy (failure of standard of care).
-23. In patients with a MELD score >30, lactate >12 mmol/L, or Child-Pugh >13, salvage/rescue TIPS should not be used unless TIPS is a bridge to liver transplantation in the short term.
-24. In patients who have recovered from an acute esophageal variceal hemorrhage and who did not have TIPS placed during admission, TIPS should be used as second-line treatment when rebleeding occurs despite adequate secondary prophylaxis with NSBBs and endoscopic therapy.
-
-**Gastrofundal varices (GOV2/IGV1)**
-
-25. Neither TIPS nor RTO should be used to prevent first hemorrhage in patients with gastrofundal varices.
-26. In patients with acute hemorrhage from gastrofundal varices (GOV2/IGV1), cyanoacrylate injection, TIPS, or RTO can be considered first-line therapies to control bleeding and prevent rebleeding.
-27. RTO is the first-line endovascular option for hemorrhage from gastrofundal varices in patients with contraindications to TIPS.
-28. In patients with hemorrhage from gastrofundal varices who are candidates for both RTO and TIPS, the choice of one modality versus the other depends on vascular anatomy, clinical profile, and center expertise.
-    - RTO would be favored in patients with histories of overt hepatic encephalopathy or poor liver function.
-    - TIPS would be favored in patients with other complications of portal hypertension, such as large esophageal varices or significant ascites, and in patients with PVT.
-29. On a case-by-case basis, TIPS can be complemented with variceal embolization because this may reduce hepatic encephalopathy and rebleeding.
-
-**Ectopic varices**
-
-30. Management of ectopic varices should be determined by a multidisciplinary team consisting of hepatologists, gastroenterologists, interventional radiologists, and surgeons.
-31. Patients with suspected bleeding from ectopic varices should be assessed with comprehensive imaging to define the functional vascular anatomy of the varices, allowing for an individualized treatment approach.
-32. Endoscopic therapy for ectopic varices, when feasible and available, may be used as a bridge to more definitive interventional radiology therapies.
-33. TIPS is the first-line treatment for most ectopic varices and, in most cases, should be performed together with anterograde or retrograde transvenous obliteration (ATO/RTO) of the varices.
-34. In patients who are poor candidates for TIPS or in patients in whom collaterals feeding varices are small, ATO or RTO alone (without TIPS) may provide sufficient control of ectopic variceal hemorrhage.
-
-## Open Questions
-
-Priority research areas named by [[aasld-2024-tips]]: optimal intraprocedural PSPG decrease by bleed source and the best way to measure it (internal zero — IVC vs right atrium — and timing of post-TIPS measurement); whether initial 8-mm placement independent of post-TIPS PSPG reduces complications while maintaining efficacy; TIPS + portomesenteric thrombectomy vs anticoagulation in PVT; NSBBs as adjuvant therapy to TIPS; optimal technical approach to RTO; whether TIPS results depend on cirrhosis etiology (extrapolation to MASH-related cirrhosis); larger trials to clarify preemptive-TIPS patient selection; optimal primary prophylaxis of gastrofundal varices; and TIPS vs RTO vs endoscopic therapy for secondary prevention of gastric variceal hemorrhage with a GRS.
+> [!pitfall] A good post-TIPS gradient does not mean the gastric varix is decompressed
+> The gastrorenal shunt is often **wider than the TIPS**, so flow persists through the varices despite a PSPG below target — and partial obliteration is dangerous, closing the decompressing shunt while the varices remain. Confirm obliteration with CT or EUS within 72 h ([[aasld-2024-tips]]).
 
 ---
 
