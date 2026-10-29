@@ -6,6 +6,27 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-29] update | Card pass — dedup queue empty, no page eligible; deck rebuilt to export yesterday's ownership moves
+
+**Deck slimming (`anki-dupes.mjs`, ran before any card writing):** **0 unjudged candidate pairs at ≥0.4.** The queue stayed empty after the 2026-10-28 sweep that judged it to exhaustion (76 pairs, 5 merges); every verdict is in `dedup-ledger.tsv`, so none return. No merges available, so the pass went straight to cards.
+
+**New cards written: none — nothing qualified.** Full sweep of the **334** non-source wiki pages against their card files:
+
+- **0 card files missing `page_updated:`** — no page was left unfinished by an earlier pass, so there was nothing to resume.
+- **0 card files stale against their page** — all **332** carded pages have `page_updated:` exactly equal to their page's frontmatter `updated:`, including the seven the lint pass touched earlier today.
+- **2 pages have no card file**, both deliberately unfiled, and both re-checked this pass rather than taken on trust from the standing note:
+  - `[[bristol-stool-form-scale]]` — re-read because the page gained four guideline sources on 2026-10-27 and so looked newly cardable. It is not: the substance (the seven types, the transit correlations, the pitfalls) is all [[lewis-1997-bristol-stool-form-scale]], a primary paper that *Guideline-sourced cards only* excludes, and the page's *Where It Drives a Decision* table explicitly delegates every guideline threshold that uses the scale to its owner page, where it is already carded. Carding it here would break one-owner-per-fact.
+  - `[[telemedicine-in-gastroenterology]]` — [[aga-2023-telemedicine]] is a clinical practice update, so the tier passes, but the content is visit-modality selection, licensure, documentation, CPT coding and clinic workflow. Nothing on it changes what is ordered, prescribed, scoped, resected, referred or stopped, and the outcome data on it (the IBD meta-analysis, the transplant trial, the satisfaction surveys) is exactly what the high-yield test cuts. Fails the bar, and no node in Nick's tag tree covers practice management.
+
+**Deck rebuilt — this was the pass's one real change. 4058 → 4074 notes** → `dist/khnl-gi-wiki.txt`, **no problems reported on any file.**
+
+- Yesterday's lint pass migrated **11 notes** between card files to follow an ownership move (the alcohol-associated-hepatitis / nutrition-in-liver-disease reversal), retiring each original with a one-line reason under `# Retired`, but logged "no deck rebuild". The card files were therefore correct on disk while the exported `.txt` still carried the notes on their old pages and had not exported a single one of the retirements — so the retired cards would have kept quizzing. The rebuild closes that.
+- `occ files:scan` **not run** from here (host-side), so the Nextcloud web UI may serve the previous file until the next cron build.
+
+**Nothing committed and nothing pushed.**
+
+---
+
 ## [2026-10-29] lint | First pass after backlog mode: two ownership fixes move ~1,800 words to their owner pages and delete ~1,900 of duplication, the stale-page rotation restarts, and the gap queue is refilled
 
 **Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands; title amended at the end to match what actually happened.
