@@ -1,15 +1,17 @@
 ---
 title: "GLP-1 Receptor Agonists (GLP-1 RAs)"
 category: med
-tags: [glp-1, glp1-ra, semaglutide, liraglutide, obesity, weight-loss, gastric-emptying, endoscopy, incretin]
+tags: [glp-1, glp1-ra, semaglutide, liraglutide, obesity, weight-loss, gastric-emptying, endoscopy, incretin, mash]
 created: 2026-08-14
-updated: 2026-09-03
-sources: [aga-2022-obesity-pharm, aga-2024-glp1-endoscopy]
+updated: 2026-10-29
+sources: [aga-2022-obesity-pharm, aga-2024-glp1-endoscopy, aasld-2025-semaglutide-mash]
 ---
 
 Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are a drug **class** of incretin mimetics used for type 2 diabetes mellitus (T2DM) and chronic weight management, with two gastrointestinal (GI)-relevant consequences: they are **anti-obesity medications (AOMs) an American Gastroenterological Association (AGA) guideline endorses**, and they **slow gastric emptying**, which drives their GI side effects and the periprocedural aspiration debate. For the agent-level detail on the most-used member, see **[[semaglutide]]**.
 
 **Agents:** semaglutide, tirzepatide, exenatide, liraglutide, albiglutide, dulaglutide, lixisenatide ([[aga-2024-glp1-endoscopy]]).
+
+**One member now has a liver indication:** [[semaglutide|semaglutide 2.4 mg]] received **accelerated FDA approval in August 2025** for [[nafld-masld|metabolic dysfunction-associated steatohepatitis (MASH)]] with moderate-to-advanced (F2–F3) fibrosis — a class member, not a class effect; the hepatoprotection is attributed mainly to weight loss rather than a direct hepatic action ([[aasld-2025-semaglutide-mash]]; detail on [[semaglutide]]).
 
 ## Contents
 - [[#Mechanism]]
@@ -109,3 +111,4 @@ The full periprocedural algorithm (standard fast, symptom assessment, gastric ul
 
 1. [[aga-2022-obesity-pharm|AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)]]
 2. [[aga-2024-glp1-endoscopy|AGA Rapid Clinical Practice Update on the Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy: Communication (2024)]]
+3. [[aasld-2025-semaglutide-mash|Semaglutide Therapy for Metabolic Dysfunction–Associated Steatohepatitis: November 2025 Updates to AASLD Practice Guidance]]

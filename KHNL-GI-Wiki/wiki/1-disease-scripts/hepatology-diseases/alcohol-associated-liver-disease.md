@@ -3,11 +3,13 @@ title: "Alcohol-Associated Liver Disease"
 category: disease-script
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, mdf, nac, pentoxifylline, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate, baclofen, peth, stopah]
 created: 2026-05-07
-updated: 2026-09-22
+updated: 2026-10-29
 sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis, lee-2018-accelerate-ah, hendershot-2025-semaglutide-aud]
 ---
 
 # Alcohol-Associated Liver Disease
+
+*Alcohol-associated hepatitis — its diagnostic criteria, severity scores, corticosteroid regimen and early transplantation — is owned by [[alcohol-associated-hepatitis]]. This page covers the spectrum, alcohol-use detection, fibrosis staging, alcohol-use-disorder treatment and transplantation for alcohol-associated cirrhosis.*
 
 ## Contents
 - [[#Assessment]]
@@ -20,16 +22,14 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
   - [[#Imaging]]
   - [[#Fibrosis Assessment (Noninvasive Tests)]]
   - [[#Liver Biopsy]]
-  - [[#AKI in AH]]
   - [[#Genetic Susceptibility Factors]]
 - [[#Therapeutics]]
-  - [[#1. Severe Alcoholic Hepatitis (MELD >20; historically MDF ≥32)]]
-  - [[#2. Moderate AH (MELD ≤20)]]
-  - [[#3. Nutritional Support]]
-  - [[#4. Alcohol Use Disorder Treatment]]
-  - [[#5. Management of Complications]]
-  - [[#6. Liver Transplantation]]
-  - [[#7. Post-Liver-Transplant ALD Management]]
+  - [[#1. Alcohol-Associated Hepatitis]]
+  - [[#2. Nutritional Support]]
+  - [[#3. Alcohol Use Disorder Treatment]]
+  - [[#4. Management of Complications]]
+  - [[#5. Liver Transplantation for Alcohol-Associated Cirrhosis]]
+  - [[#6. Post-Liver-Transplant ALD Management]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -41,13 +41,13 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 
 **Alcohol-associated liver disease (ALD) spectrum** [[acg-2024-ald]], [[aasld-2020-ald]]:
 
-- **Hepatic steatosis** — reversible; develops in 90% with >60g/day alcohol for 2 weeks; usually asymptomatic; reverses with 4–6 weeks abstinence
-- **Alcohol-associated steatohepatitis (ASH) / [[alcohol-associated-hepatitis|alcohol-associated hepatitis (AH)]]** — acute inflammatory injury; 10–35% of heavy drinkers; rapid onset [[jaundice]]; spectrum of severity; histological correlate is ASH
-- **Fibrosis** — 40–50% of those with steatohepatitis; 20–40% regress with abstinence
-- **[[cirrhosis|Cirrhosis]] (AC)** — 8–20% of heavy drinkers; may develop without prior recognized AH; 20–40% develop decompensation or [[acute-on-chronic-liver-failure|acute-on-chronic liver failure (ACLF)]]; 3–10% develop hepatocellular carcinoma (HCC)
-- **[[hepatocellular-carcinoma|HCC]]** — cirrhosis-associated risk; PNPLA3 and TM6SF2 variants increase HCC risk specifically in ALD [[aasld-2020-ald]]
+- **Hepatic steatosis** — in 90% drinking >60 g/day for 2 weeks; asymptomatic; **reverses with 4–6 weeks abstinence**
+- **Alcohol-associated steatohepatitis (ASH) / [[alcohol-associated-hepatitis|alcohol-associated hepatitis (AH)]]** — acute inflammatory injury in 10–35% of heavy drinkers; rapid-onset [[jaundice]]; ASH is its histological correlate
+- **Fibrosis** — 40–50% of those with steatohepatitis; **20–40% regress with abstinence**
+- **Alcohol-associated [[cirrhosis|cirrhosis]] (AC)** — 8–20% of heavy drinkers, often with no recognized prior AH; 20–40% decompensate or develop [[acute-on-chronic-liver-failure|acute-on-chronic liver failure (ACLF)]]
+- **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]]** — 3–10% of those with AC; PNPLA3 and TM6SF2 variants raise the risk specifically in ALD [[aasld-2020-ald]]
 
-*ALD is a leading indication for [[liver-transplantation|liver transplantation (LT)]] in the United States, surpassing [[hepatitis-c|hepatitis C virus (HCV)]] infection; accounted for 20% of all primary LT (>19,000 recipients) from 1988–2009.* [[aasld-2020-ald]]
+*ALD is a leading indication for [[liver-transplantation|liver transplantation (LT)]] in the United States, having surpassed [[hepatitis-c|hepatitis C virus (HCV)]] infection.* [[aasld-2020-ald]]
 
 **Defining heavy alcohol use:**
 
@@ -55,71 +55,14 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 - Women: >7 drinks/week or >3/occasion
 - Standard drink (US): 14 g ethanol (12 oz regular beer, 5 oz wine, 1.5 oz spirits)
 
-**Alcohol-Associated Hepatitis — Consensus Clinical Diagnosis (American Association for the Study of Liver Diseases [AASLD] 2020)** [[aasld-2020-ald]]:
-
-| Feature | Finding |
-|---|---|
-| Onset | Jaundice within **prior 8 weeks** |
-| Alcohol use | >40 g/day (female) or >60 g/day (male) for ≥6 months, with <60 days abstinence before jaundice |
-| Aspartate aminotransferase (AST) | **>50 IU/L**; usually <400 IU/L |
-| Alanine aminotransferase (ALT) | Usually <400 IU/L |
-| AST:ALT ratio | **>1.5** |
-| Total bilirubin | **>3.0 mg/dL** |
-
-**AASLD 2020 three-category classification** [[aasld-2020-ald]]:
-
-- **Definite AH** — clinically diagnosed AND [[liver-biopsy|biopsy]]-proven
-- **Probable AH** — clinically diagnosed WITHOUT potential confounding factors (no biopsy required)
-- **Possible AH** — clinically diagnosed WITH potential confounding factors (biopsy required for confirmation)
-
-*Potential confounding factors triggering biopsy:* possible ischemic hepatitis (severe upper gastrointestinal bleeding (UGIB), hypotension, or cocaine within 7 days); possible drug-induced liver injury (DILI) (suspect drug within 30 days of jaundice onset); uncertain alcohol use history; atypical labs (AST <50 or >400, AST/ALT <1.5, antinuclear antibody (ANA) >1:160 or smooth muscle antibody (SMA) >1:80).
-
-**Histology (when performed):**
-
-- Steatohepatitis: macrovesicular steatosis, lobular inflammation with neutrophil infiltration
-- Hepatocyte ballooning and Mallory-Denk bodies
-- Pericellular (chicken-wire) fibrosis, centrilobular injury
-- *Note: biopsy cannot distinguish ASH from nonalcoholic steatohepatitis (NASH) — role is to resolve diagnostic dilemmas and ensure consistency in clinical trials*
+**Diagnosing the acute syndrome:** the consensus clinical criteria for alcohol-associated hepatitis (jaundice within 8 weeks, aspartate aminotransferase (AST) >50 IU/L, AST:alanine aminotransferase (ALT) >1.5, bilirubin >3.0 mg/dL), the definite/probable/possible certainty categories that decide whether a [[liver-biopsy|biopsy]] is needed, and the histology are on [[alcohol-associated-hepatitis]].
 
 ### Severity Assessment
 
-**Model for End-Stage Liver Disease (MELD) is the operative score — MELD >20 defines severe AH** [[acg-2024-ald]] *(the MELD-variant comparison — which of original MELD / MELD-Na / MELD 3.0 each threshold uses, and which can be computed — plus the Child-Turcotte-Pugh point table live on [[cirrhosis]])*:
+Two different severity questions, and they use different instruments:
 
-- **Severe AH = MELD >20** → treat with corticosteroids if no contraindication (American College of Gastroenterology [ACG] 2024 **Rec 17**, *strong, moderate*). Use the **original MELD**, not MELD-Na — the recommendations were derived on original MELD
-- **Moderate AH = MELD ≤20** (ACG 2024 Key concept 21) — significant morbidity and mortality but no steroid indication
-- **MELD 25–39 derives maximum benefit** from corticosteroids; **weigh risks carefully if MELD >50** (Key concept 26)
-- MELD >20 carries ~20% 90-day mortality
-- MELD is the best available score for short-term mortality in AH (receiver operating characteristic [ROC] >0.77); MELD 3.0 performs equivalently but needs further validation
-- Continuous scale: trajectory (rising vs. declining MELD) is also prognostically important
-- MELD + Lille combination: MELD ≥21 AND Lille ≥0.45 = 1.9-fold higher risk of death at 2 months vs. MELD 21 and Lille 0.16 (23.7% vs. 12.5%) [[aasld-2020-ald]]
-
-**Maddrey Discriminant Function (MDF) — historical, now second-line:**
-
-- MDF = 4.6 × (PT_patient − PT_control) + total bilirubin (mg/dL), where PT is prothrombin time
-- **MDF ≥32** predicts ~20–50% 30-day mortality; historically the steroid-eligibility threshold, and still the entry criterion in most AH trials [[aasld-2020-ald]]
-- ⚠ **What changed:** in the STOPAH post-hoc analysis (n = 1,068), mDF was **inferior** (ROC 0.67) to MELD, Glasgow Alcoholic Hepatitis Score (GAHS), and age, bilirubin, international normalized ratio, and creatinine (ABIC) score (ROC 0.704–0.726) for 28- and 90-day mortality, and ACG 2024 accordingly recommends on MELD, not mDF [[acg-2024-ald]]. Readers carrying "MDF ≥32" in their heads should switch to MELD >20
-- All these scores rule *out* severe disease well (86–100%) but have **low positive predictive value (17–50%)**
-
-**Score comparison — which variables each score uses** ([[aasld-2020-ald]] Tables 7–8). The scores differ mainly in how many inputs they add on top of bilirubin + PT/international normalized ratio (INR); that is what makes GAHS (adds white blood cell count [WBC]) and Lille (adds albumin) distinct:
-
-| Score | Bili | PT/INR | Creatinine (Cr)/blood urea nitrogen (BUN) | Age | Albumin | WBC | Stratification | Clinical use |
-|---|---|---|---|---|---|---|---|---|
-| **MDF** | + | + | — | — | — | — | Severe ≥32 | Initiate corticosteroids |
-| **MELD** | + | + | + | — | — | — | Severe ≥21, but a continuous scale | Prognosis only |
-| **ABIC** | + | + | + | + | — | — | Low risk <6.71 (three-tiered) | Prognosis only |
-| **GAHS** | + | + | + | + | — | + | Poor prognosis ≥9 | Initiate corticosteroids **if ≥9 AND MDF ≥32** |
-| **Lille** | + | + | + | + | + | — | ≥0.45 nonresponse / <0.45 response | Day-7 (or day-4) cessation vs continuation of corticosteroids |
-
-- **ABIC** — uncertain threshold for initiating steroids; not verified outside Spain
-- **GAHS** — improves specificity of identifying which MDF ≥32 patients need corticosteroids (reduces number needed to treat [NNT]); **not validated outside the UK**
-- **Lille** — allows early cessation of corticosteroids, but **decision-making is uncertain with a partial response (Lille 0.46–0.56)** [[aasld-2020-ald]]
-- [[aasld-2020-ald]] names each score's variables and cutoffs (table above) but does not reproduce the ABIC, GAHS, or Lille coefficients, and directs readers to an online calculator (`lillemodel.com`) for the Lille score. Use a calculator to compute the scores.
-
-**Applying the Lille score** — the one *dynamic* score above; it is computed from paired **day-0 and day-7** values, so it answers "is this patient responding?", not "should steroids be started?" (ACG 2024 **Key concept 27**) [[acg-2024-ald]]:
-
-- **≥0.45 = non-responder** → discontinue prednisolone
-- **<0.45 = responder** → continue prednisolone to 28 days total
-- Day-4 Lille is as accurate as day-7 for predicting outcome, and spares 3 days of unnecessary steroid exposure in non-responders
+- **Acute AH severity** — Model for End-Stage Liver Disease (MELD) >20 defines severe AH and triggers corticosteroids; Maddrey discriminant function, Glasgow Alcoholic Hepatitis Score, age-bilirubin-international normalized ratio-creatinine score and the dynamic Lille score are compared on [[alcohol-associated-hepatitis]] [[acg-2024-ald]].
+- **Chronic ALD severity** — fibrosis stage (see [[#Fibrosis Assessment (Noninvasive Tests)]]) and, once cirrhotic, decompensation and MELD/Child-Turcotte-Pugh class, whose point tables live on [[cirrhosis]].
 
 ---
 
@@ -134,7 +77,7 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 - **Ischemic hepatitis** — rapid rise in aminotransferases (AST >1000), cardiac/hypotensive history; "shock liver"
 - **Acute biliary obstruction** — [[choledocholithiasis|common bile duct (CBD) stone]]; jaundice + cholestatic liver function tests (LFTs); ultrasound excludes
 - **[[wilson-disease|Wilson's disease]]** — in younger patients; Kayser-Fleischer rings, low ceruloplasmin, high urine copper
-- **[[hereditary-hemochromatosis]]** — ALD is a cofactor that markedly worsens hereditary hemochromatosis (HH) penetrance; alcohol is far more common than HH as the cause of elevated serum ferritin (SF) in non-C282Y patients; alcohol use disorder (AUD) screening recommended before treating secondary iron overload [[acg-2019-hereditary-hemochromatosis]]
+- **[[hereditary-hemochromatosis]]** — alcohol is far commoner than hereditary hemochromatosis (HH) as the cause of a raised ferritin in a non-C282Y patient, and is a cofactor that markedly worsens HH penetrance; **screen for alcohol use disorder (AUD) before treating secondary iron overload** [[acg-2019-hereditary-hemochromatosis]]
 
 ---
 
@@ -145,27 +88,26 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 | Test | Purpose |
 |---|---|
 | AST, ALT, bilirubin, alkaline phosphatase (ALP), gamma-glutamyltransferase (GGT) | Define pattern and severity |
-| PT/INR, albumin | Synthetic function; MDF calculation |
+| Prothrombin time (PT)/international normalized ratio (INR), albumin | Synthetic function; inputs to every severity score |
 | Complete blood count (CBC) | Thrombocytopenia (hypersplenism), macrocytosis (alcohol effect) |
 | Basic metabolic panel (BMP)/comprehensive metabolic panel (CMP) | Electrolytes, creatinine (renal failure = relative steroid contraindication) |
 | MELD score | Severity stratification |
-| Lipase/amylase | Exclude concomitant pancreatitis |
+| Lipase/amylase | Exclude concomitant [[acute-pancreatitis\|pancreatitis]] |
 | Hepatitis B surface antigen (HBsAg), anti-HCV, anti-HEV | Exclude viral coinfection |
-| ANA, anti-smooth muscle Ab, IgG | Exclude [[autoimmune-hepatitis\|autoimmune hepatitis]] |
-| Blood cultures | Before starting steroids; exclude active infection |
-| Procalcitonin, urinalysis | Screen for bacterial infection |
+| Antinuclear antibody (ANA), anti-smooth muscle antibody, IgG | Exclude [[autoimmune-hepatitis\|autoimmune hepatitis]] |
+| Blood cultures, urinalysis, procalcitonin | Screen for infection — **required before starting steroids** |
 
 ### Alcohol Use Screening and Biomarkers
 
-AASLD 2020 Guidance Statement (GS) 1: *"All patients receiving care in primary care and gastroenterology/hepatology outpatient clinics, emergency departments, and inpatient admissions should be screened routinely for alcohol use using validated questionnaires."* [[aasld-2020-ald]]
+**Screen every patient for alcohol use with a validated questionnaire** — primary care, gastroenterology/hepatology clinic, emergency department and inpatient admission alike (American Association for the Study of Liver Diseases [AASLD] 2020 Guidance Statement [GS] 1) [[aasld-2020-ald]].
 
 **Screening tools:**
 
 - **Alcohol Use Disorders Identification Test (AUDIT)** (10 questions): score >8 = hazardous/harmful use; >20 = probable alcohol dependence
 - **AUDIT-Consumption (AUDIT-C)** (3 questions): ≥4 = harmful alcohol use (more efficient; does not capture severe use patterns)
-- **National Institute on Alcohol Abuse and Alcoholism (NIAAA) single-item screen:** "How many times in the past year have you had 5 or more drinks in a day (men) or 4 or more drinks in a day (women)?" — if ≥1 episode, perform AUDIT
+- **National Institute on Alcohol Abuse and Alcoholism (NIAAA) single-item screen:** how many times in the past year did you have ≥5 drinks (men) or ≥4 drinks (women) in a day? **≥1 episode → do the AUDIT**
 
-**Alcohol biomarkers** — AASLD 2020 GS-3: *"Urine and hair ethyl glucuronide, urine ethyl sulfate, and PEth [phosphatidylethanol] are not affected by liver disease, and therefore are preferable."* [[aasld-2020-ald]]
+**Alcohol biomarkers** — urine and hair ethyl glucuronide, urine ethyl sulfate and PEth (phosphatidylethanol) are **not affected by liver disease and are therefore preferred** (GS-3) [[aasld-2020-ald]].
 
 | Biomarker | Source | Detection window | Sensitivity | Specificity | Notes |
 |---|---|---|---|---|---|
@@ -180,7 +122,7 @@ AASLD 2020 Guidance Statement (GS) 1: *"All patients receiving care in primary c
 ### Imaging
 
 - **Liver ultrasound (US):** first-line; evaluate echogenicity (steatosis), [[portal-hypertension|portal hypertension]] signs, exclude biliary obstruction, [[hcc-surveillance|screen for HCC]]
-- **Computed tomography (CT) abdomen with contrast:** evaluate for complications ([[ascites]], [[portal-vein-thrombosis|portal vein thrombosis]]), mass lesions; not required routinely
+- **Computed tomography with contrast:** complications ([[ascites]], [[portal-vein-thrombosis|portal vein thrombosis]]) and mass lesions; not routine
 - **[[mri-mrcp|Magnetic resonance cholangiopancreatography (MRCP)]]:** if biliary obstruction suspected
 
 ### Fibrosis Assessment (Noninvasive Tests)
@@ -190,7 +132,7 @@ AASLD 2020 Guidance Statement (GS) 1: *"All patients receiving care in primary c
 | Noninvasive test (NIT) | Performance in ALD | Caveat |
 |---|---|---|
 | **Fibrosis-4 index (FIB-4)** (blood, non-patented) | Sensitivity **80–90%**, specificity **60–70%** for excluding advanced fibrosis (F3–4) | Active alcohol use lowers platelets → degrades FIB-4 accuracy |
-| **[[liver-stiffness-measurement\|Vibration-controlled transient elastography (VCTE)]]** | **Liver stiffness measurement (LSM) ≥12.1 kPa** identifies advanced fibrosis (F3–F4), area under the ROC curve (AUROC) 0.90 (95% confidence interval [CI] 0.86–0.94; individual patient data [IPD] meta-analysis, n=1,026) | **AST >200 IU/L and/or elevated bilirubin overestimate LSM** — active steatohepatitis inflates the reading |
+| **[[liver-stiffness-measurement\|Vibration-controlled transient elastography (VCTE)]]** | **Liver stiffness measurement (LSM) ≥12.1 kPa** identifies advanced fibrosis (F3–F4), area under the receiver operating characteristic curve (AUROC) 0.90 (95% confidence interval 0.86–0.94; individual-patient-data meta-analysis, n=1,026) | **AST >200 IU/L and/or elevated bilirubin overestimate LSM** — active steatohepatitis inflates the reading |
 | Enhanced Liver Fibrosis (ELF) score, FibroTest (patented) | Higher specificity **80–90%** | Costly, limited availability; ELF less validated in ALD than in [[hepatitis-c\|HCV]]/[[nafld-masld\|MASLD]] |
 
 - FIB-4 + transient elastography are the **best initial NITs** in ALD (Key concept 13)
@@ -199,98 +141,27 @@ AASLD 2020 Guidance Statement (GS) 1: *"All patients receiving care in primary c
 
 ### Liver Biopsy
 
-- **Not required for fibrosis staging** — reserve for diagnostic uncertainty on noninvasive assessment ([[acg-2024-ald]] Key concept 15)
-- Not routinely required if clinical AH criteria met (probable AH per AASLD 2020 criteria)
-- Indicated when: diagnosis uncertain or confounding factors present (possible AH category), atypical features, pre-transplant evaluation in unclear cases
-- *Note: coagulopathy and thrombocytopenia may require transjugular approach*
-
-### AKI in AH
-
-- Acute kidney injury (AKI) is common in severe AH due to hemodynamic consequences of [[portal-hypertension|portal hypertension]] overlapping with systemic inflammatory response syndrome (SIRS) → [[aki-in-cirrhosis|hepatorenal syndrome (HRS)]] [[aasld-2020-ald]]
-- **Serum creatinine >2.5 mg/dL is a relative contraindication to corticosteroids** in most AH clinical trials (insufficient trial data for steroid efficacy with AKI)
-- If AKI resolves, corticosteroid treatment should be reconsidered
-- AKI-avoidance strategies: avoid intravenous (IV) contrast, aminoglycosides, and nonsteroidal anti-inflammatory drugs (NSAIDs); use diuretics cautiously; early treatment with [[albumin]] and vasoconstrictors if HRS develops
-- See [[aki-in-cirrhosis]] for HRS-AKI management details
+- **Not required for fibrosis staging** — reserve it for diagnostic uncertainty after noninvasive assessment ([[acg-2024-ald]] Key concept 15), atypical features, or an unclear pre-transplant evaluation. Not needed when the AH criteria are met without a confounder.
+- Coagulopathy or thrombocytopenia may force a transjugular approach.
 
 ### Genetic Susceptibility Factors
 
-ALD risk is influenced by genetic variants in lipid metabolism and alcohol oxidation genes ([[aasld-2020-ald]] Table 5):
-
-- **PNPLA3 I148M** — increased risk of ALD, ASH, AH; also associated with increased HCC risk in ALD
-- **TM6SF2** — increased risk of ALD and cirrhosis; also associated with HCC risk
-- **MBOAT7** — increased risk of ALD progression and cirrhosis
-- **HSD17B13** (truncating variant) — **protective** against progression from steatosis to steatohepatitis
-- **CYP2E1** polymorphisms — minor risk factor for ALD
-- **ADH2/ALDH2** variants — strongly linked to AUD risk; not independently linked to liver disease risk
-
-*Genetic testing for ALD susceptibility is not recommended in routine clinical practice.*
+**Do not test** — no ALD susceptibility genotyping is recommended in routine practice. The known variants ([[aasld-2020-ald]] Table 5): **PNPLA3 I148M** and **TM6SF2** raise the risk of ALD, cirrhosis and HCC; **MBOAT7** raises progression risk; **HSD17B13** truncating variants are **protective**; **CYP2E1** is a minor risk factor; **ADH2/ALDH2** track with AUD risk rather than liver risk.
 
 ---
 
 ## Therapeutics
 
-### 1. Severe Alcoholic Hepatitis (MELD >20; historically MDF ≥32)
+### 1. Alcohol-Associated Hepatitis
 
-![[ald-2024-aah-management-algorithm-12.png|700x475]]
-*Figure 3 — Algorithmic approach toward diagnosis and management of alcohol-associated hepatitis. ([[acg-2024-ald]])*
+**Severe AH (MELD >20) → prednisolone 40 mg/day × 28 days + intravenous N-acetylcysteine, with the day-4/7 Lille score deciding whether to continue.** The regimen, the contraindications, the abandoned agents, the management algorithm and early transplantation are all on **[[alcohol-associated-hepatitis]]** ([[acg-2024-ald]], [[aasld-2020-ald]]).
 
-**Prednisolone 40 mg/day orally × 28 days** [[acg-2024-ald]], [[aasld-2020-ald]]:
+### 2. Nutritional Support
 
-- First-line treatment for severe AH; AASLD 2020 GS-14: *"Prednisolone (40 mg/day) given orally should be considered to improve 28-day mortality in patients with severe AH (MDF ≥32) without contraindications to the use of corticosteroids."*
-- **Evidence base:** Mathurin et al. IPD meta-analysis (11 randomized controlled trials [RCTs], n=2,111): corticosteroids significantly reduced 28-day mortality vs. placebo (hazard ratio [HR] 0.64; 95% CI 0.48–0.86; 36% risk reduction). STOPAH trial (n=1,103): post hoc multivariable analysis showed odds ratio (OR) 0.609 (P=0.015) for 28-day survival; no benefit at 90 days or 1 year.
-- Even patients with MDF ≥68 (highest quartile) showed statistically similar corticosteroid responses in IPD meta-analysis — very high MDF does not preclude treatment, but requires careful assessment for occult infection and multiorgan failure.
+- Malnutrition is near-universal in AH and common across the ALD spectrum; AASLD 2020 GS-17 — address and treat it, **preferably with enteral nutrition** [[aasld-2020-ald]].
+- Caloric and protein targets, the oral → supplement → [[enteral-access|enteral]] escalation order, micronutrient replacement and feeding-tube safety in varices: **[[nutrition-in-liver-disease]]**.
 
-**Contraindications to prednisolone** [[aasld-2020-ald]]:
-
-- Uncontrolled infections ([[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]], pneumonia, cellulitis, urinary tract infection [UTI]) — screen before starting; treat infection first, re-evaluate; infection alone is NOT associated with short-term mortality in responders
-- **AKI with serum creatinine >2.5 mg/dL** (relative; if AKI resolves, reconsider steroids)
-- Uncontrolled [[upper-gi-bleeding|upper gastrointestinal (GI) bleeding]] — control first; GI bleeding (GIB) alone is NOT an absolute contraindication (prednisolone can be started ~5 days after GIB episode per retrospective data)
-- Concomitant disease: active HBV, HCV, DILI, HCC, [[acute-pancreatitis|acute pancreatitis]], human immunodeficiency virus (HIV), tuberculosis (TB)
-- Multiorgan failure or shock
-
-**N-Acetylcysteine (NAC) IV — add to prednisolone** [[aasld-2020-ald]]:
-
-- AASLD 2020 GS-15: *"The addition of intravenous NAC to prednisolone (40 mg/day) may improve the 30-day survival of patients with severe AH."*
-- Evidence: Nguyen-Khac RCT — prednisolone + IV NAC improved 1-month survival vs. prednisolone + placebo (8% vs. 24% mortality; P=0.006); no benefit at 3 or 6 months. Network meta-analysis (22 RCTs, n=2,621): NAC addition relative risk (RR) 0.28 (95% CI 0.10–0.69).
-- **AASLD 2020 classifies NAC as "potential benefit" — promising but requires further validation.** [[acg-2024-ald]] is firmer: **Rec 20 — *"We recommend use of IV N-acetylcysteine as an adjuvant to corticosteroids in patients with severe AH"* (strong recommendation, moderate level of evidence)**. Both guidelines agree on IV NAC addition to prednisolone; the newer ACG grading governs.
-- Dosing (hepatoprotective): Day 1: 150 mg/kg over 1h → 12.5 mg/kg/h × 4h → 6.25 mg/kg/h × 16h; continue reduced infusion for 5 days total
-
-**Pentoxifylline: explicitly abandoned** [[aasld-2020-ald]]:
-
-- AASLD 2020 GS-19: *"Pentoxifylline is no longer recommended in the treatment of AH."*
-- STOPAH trial: no survival benefit at any time point. IPD meta-analysis of individual patient data and two French rescue trials all failed to demonstrate benefit. *This is a major change from the 2010 AASLD guideline, which recommended pentoxifylline.*
-- [[acg-2024-ald]] **Rec 18** concurs: *"We recommend against the use of pentoxifylline for individuals with severe AH"* (strong recommendation, moderate level of evidence)
-
-**Antibiotic prophylaxis — do not give it universally** ([[acg-2024-ald]] **Rec 15**, *strong recommendation, moderate level of evidence*):
-
-- *"In hospitalized patients with severe AH, we recommend against universal administration of prophylactic antibiotics."*
-- Trial basis: prednisolone + antibiotic vs prednisolone + placebo × 30 days — antibiotics lowered cumulative infection (42 vs 59 events; HR 0.616, P=0.015) but did **not** change 60-day mortality (24 vs 31 deaths; HR 0.769, 95% CI 0.451–1.31). Treat documented infection; do not prophylax by default.
-
-**G-CSF and microbiome-based therapies — unresolved** ([[acg-2024-ald]] **Rec 19**, *conditional, moderate*): *"There are insufficient data to determine the role of granulocyte colony stimulating factor and microbiome-based therapies in the treatment of severe AH."*
-
-**Assess response with the [[#Severity Assessment|Lille score]] at day 4 or 7.** Non-response (≥0.45) → stop prednisolone; consider early LT referral or palliative care. **Four or more organ failures + steroid non-response + ineligible for early LT → engage palliative care** (ACG 2024 **Key concept 28**). [[acg-2024-ald]]
-
-### 2. Moderate AH (MELD ≤20)
-
-- No corticosteroid indication below MELD >20 — but ACG 2024 flags moderate AH as carrying **significant morbidity and mortality**, and as an under-studied phenotype (Key concept 21); do not read "moderate" as benign
-- Supportive care: alcohol abstinence, nutrition, management of complications
-- AUD treatment: initiate early
-
-### 3. Nutritional Support
-
-AASLD 2020 GS-17: *"Patients with AH should have malnutrition addressed and treated, preferably with enteral nutrition."* [[aasld-2020-ald]]
-
-- [[nutrition-in-liver-disease|Malnutrition]] is near-universal in AH; daily caloric intake <21.5 kcal/kg/day associated with increased infection and 6-month mortality (62.9% vs. 34.2%; P<0.001)
-- **Caloric goal: 35 kcal/kg/day with 1.2–1.5 g/kg/day protein** ([[acg-2024-ald]] Key concept 24). Patients taking **<21 kcal/kg/day** must receive nutritional support, preferably by oral/enteral route
-  - ⚠ **What changed:** the older AASLD 2020 algorithm framed the target as simply *>21 kcal/kg/day*. ACG 2024 (newer, tier 1) sets the goal at **35 kcal/kg/day** and reserves 21 as the *floor* that triggers support. ACG's goal is extrapolated from critical-illness populations, not AH-specific trials
-- **Escalation order** ([[acg-2024-ald]] **Rec 16**, *strong, moderate*): malnourished or unable to meet calories on oral diet alone → add **oral nutritional supplements (ONS)**; still short despite ONS → **[[enteral-access|enteral nutrition]] support**. Nasogastric (NG) tube if oral intake inadequate; feeding tubes can be placed safely with esophageal varices that are not actively bleeding and were not recently banded. Total parenteral nutrition (TPN) only if enteral feeding contraindicated (no short-term survival advantage)
-- *Intensive enteral nutrition (EN) compared with conventional nutrition in the STOPAH setting showed no additional survival benefit and poor NG tube tolerance — high-quality intensive EN does not replace corticosteroids*
-- **Thiamine, vitamin B12, and zinc** deficiencies are common in AH and **should be supplemented** ([[acg-2024-ald]] Key concept 25). 85% of AH patients are zinc-deficient; zinc deficiency independently predicted 28-day mortality (OR 10.6 per 1 µmol/L fall in serum zinc)
-- Antioxidant supplements (vitamins A, C, E, selenium, beta-carotene): meta-analysis showed no benefit; antioxidant arm had worse outcomes in one comparison — do NOT use routine antioxidant supplementation [[aasld-2020-ald]]
-- Correct electrolyte deficiencies (thiamine IV before dextrose; magnesium, zinc, phosphorus)
-- **Thiamine (vitamin B1) IV:** administer before any glucose-containing fluids to prevent Wernicke encephalopathy
-
-### 4. Alcohol Use Disorder Treatment
+### 3. Alcohol Use Disorder Treatment
 
 All ALD patients should receive AUD treatment [[acg-2024-ald]], [[aasld-2020-ald]]:
 
@@ -321,113 +192,46 @@ All ALD patients should receive AUD treatment [[acg-2024-ald]], [[aasld-2020-ald
 - Naltrexone (both short- and long-acting) may be used in **early ALD and compensated cirrhosis**, but must be **avoided in decompensated cirrhosis or liver failure**, and used cautiously in kidney disease. **No data** on acamprosate or naltrexone duration, or on their use in AH
 - **Alcohol withdrawal syndrome (AWS):** assess and manage per the **Clinical Institute Withdrawal Assessment for Alcohol, revised (CIWA-Ar)** protocol; differentiate from [[hepatic-encephalopathy|hepatic encephalopathy]] — the two can coexist (Key concept 12). For **severe** AWS, benzodiazepines are the treatment of choice but require **cautious use and careful monitoring** given their potential to precipitate or worsen HE (Rec 13, *strong / moderate*)
 
-- ⚠ **Investigational, not guideline-endorsed — [[semaglutide]] for AUD.** A phase-2 double-blind RCT (n=48 non–treatment-seeking adults with AUD, 9 weeks, 0.25→1.0 mg/week) found reduced laboratory alcohol self-administration, **fewer drinks per drinking day** (β −0.41; P=.04) and **lower weekly craving** (β −0.39; P=.01), with no change in drinking days. **Off-label and not practice-changing** — small, short, non–treatment-seeking sample; no guideline lists a [[glp-1-receptor-agonists|glucagon-like peptide-1 receptor agonist (GLP-1 RA)]] among AUD pharmacotherapy, so it does **not** enter the tables above. [[hendershot-2025-semaglutide-aud]]
-- Behavioral therapy: essential component; motivational interviewing (MI) has evidence for changing alcohol behavior; Alcoholics Anonymous (AA)/mutual aid societies
-- Integrated AUD treatment alongside medical providers in the liver clinic (not just referral outside) improves abstinence rates
-- Brief intervention: effective in early ALD and hospital-based settings
+- ⚠ **No [[glp-1-receptor-agonists|glucagon-like peptide-1 receptor agonist (GLP-1 RA)]] belongs in these tables.** One small phase-2 trial of [[semaglutide]] in AUD is off-label, investigational and not practice-changing; no guideline lists it as AUD pharmacotherapy ([[hendershot-2025-semaglutide-aud]], detail on [[semaglutide]]).
+- **Behavioural treatment is not optional:** motivational interviewing, mutual-aid societies, and brief intervention (effective in early ALD and in hospital). **Integrated** AUD treatment delivered in the liver clinic beats referral out of it.
 
 **AASLD 2020 GS-18:** *"Abstinence is key to long-term survival; methods discussed previously for treatment of AUDs should be used to increase abstinence."*
 
-### 5. Management of Complications
+### 4. Management of Complications
 
 - **[[ascites]]/[[spontaneous-bacterial-peritonitis|SBP]]:** diuretics (spironolactone ± furosemide), large-volume paracentesis, [[antibiotic-prophylaxis-cirrhosis|prophylactic norfloxacin]]
 - **[[hepatic-encephalopathy|Hepatic encephalopathy]]:** lactulose, [[rifaximin]]
-- **Hepatorenal syndrome:** midodrine + [[somatostatin-analogs|octreotide]] + albumin; norepinephrine preferred in intensive care unit (ICU)
-- **Esophageal varices:** [[nonselective-beta-blockers|non-selective beta-blockers (NSBB)]]; endoscopic band ligation (see [[variceal-upper-gi-bleeding|variceal bleeding]])
+- **Hepatorenal syndrome:** midodrine + [[somatostatin-analogs|octreotide]] + albumin; norepinephrine preferred in the intensive care unit — see [[aki-in-cirrhosis]]
+- **Esophageal varices:** [[nonselective-beta-blockers|non-selective beta-blockers]]; endoscopic band ligation (see [[variceal-upper-gi-bleeding|variceal bleeding]])
 
-### 6. Liver Transplantation
+### 5. Liver Transplantation for Alcohol-Associated Cirrhosis
 
-**AASLD 2020 LT guidance statements** [[aasld-2020-ald]]:
+**Referral thresholds** [[aasld-2020-ald]]:
 
-- GS-20: *"Patients with decompensated alcohol-associated cirrhosis, CPT [Child-Pugh-Turcotte] class C or MELD-Na of at least 21 should be referred and considered for [[liver-transplantation|liver transplantation]]."*
-- GS-21: *"Candidate selection for liver transplantation in alcohol-associated cirrhosis should not be based solely on a fixed interval of abstinence."*
-- GS-22: *"Liver transplantation may be considered in carefully selected patients with favorable psychosocial profiles in severe AH not responding to medical therapy."*
+- GS-20: decompensated alcohol-associated cirrhosis at **Child-Pugh-Turcotte (CPT) class C or MELD-Na ≥21** → refer and consider for LT.
+- GS-21: candidate selection **must not rest solely on a fixed interval of abstinence**.
+- **[[aasld-ast-2025-liver-transplant-candidate-evaluation]] Recs 37–39** (all *Strong, Level 3*): refer **early, before decompensation**, so psychosocial assessment and addiction-treatment goals can be set; a **fixed abstinence interval is not a listing exclusion**, particularly where disease severity makes it unreachable; **monitor abstinence while listed**. Refer to addiction rehabilitation — "to merely achieve a predetermined interval of abstinence without addressing addiction does not therapeutically address the addiction". Post-LT contracting for alcohol treatment is an option for patients too sick to complete rehabilitation first.
 
-**2025 AASLD/American Society of Transplantation Guideline Update on ALD Transplant Evaluation** ([[aasld-ast-2025-liver-transplant-candidate-evaluation]], Recs 37–39):
+> [!pitfall] The 6-month rule is not a selection criterion
+> It came from a 1997 consensus, to allow liver recovery and gauge commitment — but **abstinence duration alone does not predict post-LT drinking**, and applying it strictly excludes the patients who cannot survive six months (severe AH, CPT-C cirrhosis) ([[aasld-2020-ald]]).
 
-- Patients with ALD and indications for LT should be referred **early**, before decompensation, to allow psychosocial assessment and addiction treatment goal establishment (Strong, Level 3)
-- **Fixed abstinence interval (e.g., 6 months) should NOT be a listing exclusion criterion**, especially when liver disease severity prevents achieving a longer sobriety period (Strong, Level 3)
-- Ongoing monitoring for alcohol cessation should be performed in listed patients (Strong, Level 3)
-- Patients should be referred to addiction rehabilitation; "to merely achieve a predetermined interval of abstinence without addressing addiction does not therapeutically address the addiction" (2025 guideline language)
-- Post-LT contracting for alcohol treatment and counseling may be considered for patients too sick for pre-LT rehabilitation
+**Psychosocial evaluation** [[aasld-2020-ald]] — formal psychiatric/mental-health evaluation for every ALD candidate, with a structured instrument (Michigan Alcoholism Prognostic Scale, Stanford Integrated Psychosocial Assessment for Transplantation, Alcohol Relapse Risk Assessment) used to stratify risk, never to decide alone:
 
-**Psychosocial evaluation and the 6-month rule** [[aasld-2020-ald]]:
+- **Favorable:** insight into AUD, commitment to abstinence, strong social support (stable partner/"rehabilitation relationship"), stable home and work.
+- **Unfavorable:** failed rehabilitation attempts, pre-existing severe psychiatric disorder.
+- Ongoing alcohol use on the waitlist typically leads to **delisting**.
 
-- The 6-month rule originated from a 1997 AASLD/American Society of Transplantation consensus; rationale was: (1) time to assess liver recovery with abstinence; (2) ascertain commitment to abstinence. However, duration of abstinence alone is an inadequate predictor of post-LT drinking behavior.
-- Strict adherence to the 6-month rule penalizes patients unlikely to survive that duration (i.e., those with severe AH or CPT-C cirrhosis).
-- AASLD 2020 recommends formal psychiatric/mental health evaluation for potential LT candidates with ALD; structured psychosocial scoring (Michigan Alcoholism Prognostic Scale, Stanford Integrated Psychosocial Assessment for Transplantation [SIPAT], Alcohol Relapse Risk Assessment) to stratify to high-risk vs. lower-risk strata.
-- Key favorable psychosocial features: insight into AUD, commitment to abstinence, strong social support (stable partner/"rehabilitation relationship"), stable home and work.
-- Key unfavorable features: history of failed rehabilitation attempts, pre-existing severe psychiatric disorders.
-- Ongoing alcohol use on the waitlist typically leads to delisting.
+**Early LT for steroid-non-responsive severe AH** is supported in carefully selected patients ([[aasld-2020-ald]] GS-22); the candidate criteria, the ACCELERATE-AH outcomes and the Sustained Alcohol Use Post-Transplant (SALT) score are on [[alcohol-associated-hepatitis]].
 
-**Early Liver Transplantation (ELT) for severe AH** [[aasld-2020-ald]], [[acg-2024-ald]]:
+### 6. Post-Liver-Transplant ALD Management
 
-- AASLD 2020 GS-22 supports ELT in carefully selected severe AH non-responders with favorable psychosocial profiles.
-- **Mathurin et al. (France/Belgium) — a prospective multicenter study, *not* an RCT** (comparison was against historical controls). 26 patients transplanted after a rigorous process requiring complete consensus of multiple medical teams plus addiction-specialist psychosocial assessment; **6-month survival 77% ± 8% vs 23% ± 8%** (P <0.001); low relapse. **The selection number that frames the result: ~90% of steroid-non-responding severe AH patients were excluded for poor psychosocial profiles** before the 26 were transplanted. [[aasld-2020-ald]]
+Recurrent ALD after transplant ([[aasld-ast-2025-liver-transplant-graft-complications]]):
 
-**ACCELERATE-AH — the US multicenter cohort (retrospective, 147 patients, 12 centers / 8 United Network for Organ Sharing [UNOS] regions)** [[lee-2018-accelerate-ah]]:
-
-| | |
-|---|---|
-| Who was transplanted | Severe AH by **Maddrey discriminant function (DF) ≥32**, **no prior liver disease and no prior AH episode**; median DF 78, median day-7 Lille **0.82**, median **MELD-Na 39** at LT ⚠ |
-| Abstinence before LT | Median **55 days** (interquartile range [IQR] 36–91) — **no mandated interval** |
-| Survival | **94% at 1 y** (95% CI 89–97), **84% at 3 y** (95% CI 75–90) |
-| **Any** post-LT alcohol use | **25% at 1 y** (95% CI 18–34), **34% at 3 y** (95% CI 25–44); median time to first drink 160 days |
-| **Sustained** post-LT use | **10% at 1 y** (95% CI 6–18), **17% at 3 y** (95% CI 10–27) |
-| What actually costs lives | **Sustained** use, not a slip — HR **4.59** for death (95% CI 1.45–14.54, P=.01). 3-year survival 97% (no use) vs 75% (any use), P=.03 |
-| Who got selected | Of 432 severe-AH patients presented to committee, **35.9% listed, 29.1% transplanted**; between-center listing rates ranged **13%–100%** |
-
-- ⚠ **MELD vs MELD-Na:** the primary paper reports **MELD-Na** 39; [[aasld-2020-ald]] restates it as "median MELD score of 39." The steroid threshold on this page (MELD >20) is **original MELD** — do not mix the two scales.
-- ⚠ **Selection, not treatment effect.** These are outcomes of a rigorously selected, transplanted cohort — they cannot be transported to unselected severe AH.
-- **Adoption:** at least **one-quarter of all US centers** have performed at least one early AH LT — **but most fewer than five** — with representation from every UNOS region, so consultation with such a center can be considered for a minority of appropriate patients. [[aasld-2020-ald]]
-
-**Sustained Alcohol Use Post-Transplant (SALT) score** (4 pre-LT variables predicting **sustained** alcohol use post-LT; derived from the ACCELERATE-AH cohort, **requires validation**) [[aasld-2020-ald]]:
-
-| Variable | Points |
-|---|---|
-| >10 drinks/day at initial presentation | **4** |
-| Multiple prior rehabilitation attempts | **4** |
-| Prior alcohol-associated legal issues | **2** |
-| Prior illicit substance use | **1** |
-
-- **SALT <5 → 95% negative predictive value (NPV)** (95% CI 89%–98%) for sustained alcohol use post-LT.
-- ⚠ **The score rules out, it does not rule in.** [[acg-2024-ald]]: SALT's **NPV is 90%–95% but its positive predictive value (PPV) is only 25%–50%** — like the other psychosocial instruments, it is accurate at predicting a *low* likelihood of relapse and **not** accurate at identifying who is truly high-risk. ACG 2024 positions SALT (alongside SIPAT, the High Risk for Alcohol Relapse score, Michigan Alcoholism Prognostics Score and the Hopkins Psychosocial Score) as usable **"in addition to the addiction team's evaluation"** — an adjunct, never a substitute.
-- **Candidate criteria for ELT in severe AH** (not universal; center-dependent):
-  - Severe AH as first liver-decompensating event (no prior ALD diagnosis or prior AH episodes)
-  - Non-responder to medical therapy (Lille ≥0.45)
-  - No prior decompensation from cirrhosis
-  - Strong psychosocial support; insight into AUD; commitment to post-LT abstinence
-  - Absence of severe ongoing multiorgan failure precluding surgery
-  - Favorable psychosocial profile (requires addiction specialist evaluation)
-
-### 7. Post-Liver-Transplant ALD Management
-
-Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recommendations for recurrent ALD post-LT):
-
-**Monitoring:**
-
-- Sustained alcohol use screening with validated tools (e.g., AUDIT-C) at every post-LT visit
-- PEth testing for objective alcohol biomarker monitoring
-- Urine/blood alcohol levels in high-risk patients
-
-**Behavioral and Addiction Therapy:**
-
-- Referral to addiction medicine or structured addiction treatment program
-- Continued psychosocial support; involvement of social work and psychiatry
-- Tobacco cessation counseling (associated with cardiovascular mortality and aerodigestive cancer)
-
-**Pharmacotherapy for AUD post-LT:**
-
-- Naltrexone: opioid antagonist; reduces craving and alcohol consumption; use with caution if hepatic impairment (LFTs must be monitored)
-- Acamprosate: reduces alcohol cravings; renal dosing; no hepatotoxicity risk
-  - ⚠ *The two sources describe acamprosate's mechanism differently — [[aasld-2020-ald]] calls it an **NMDA antagonist** (table above), [[aasld-ast-2025-liver-transplant-graft-complications]] a **GABA modulator**. Neither reconciles the other; the clinical use is unaffected. (Both sources' original "(NAC)" abbreviation for acamprosate is dropped here — on this page NAC is N-acetylcysteine.)*
-- Disulfiram: generally avoided post-LT due to hepatotoxicity risk and compliance issues
-- Pharmacotherapy should be combined with behavioral therapy
-
-**Re-transplantation:**
-
-- Re-LT for alcohol relapse with graft failure is controversial; considered selectively at experienced centers with strong psychosocial evaluation
-- Increasingly accepted when supported by addiction medicine evaluation demonstrating durable sobriety and insight
+- **Monitor at every post-LT visit** — AUDIT-C or another validated tool, PEth as the objective biomarker, urine/blood alcohol in high-risk patients.
+- **Addiction care does not stop at transplant** — referral to addiction medicine or a structured program, continued social-work and psychiatry support, and tobacco cessation counselling (cardiovascular mortality, aerodigestive cancer).
+- **Pharmacotherapy, always combined with behavioural therapy:** naltrexone (monitor LFTs in hepatic impairment), acamprosate (renal dosing, no hepatotoxicity). **Disulfiram is avoided** — hepatotoxicity and adherence.
+  - ⚠ *The two sources describe acamprosate's mechanism differently — [[aasld-2020-ald]] an **NMDA antagonist**, [[aasld-ast-2025-liver-transplant-graft-complications]] a **GABA modulator**. Neither reconciles the other; clinical use is unaffected.*
+- **Re-transplantation** for relapse-related graft failure is controversial — selective, at experienced centers, and increasingly accepted when addiction-medicine evaluation demonstrates durable sobriety and insight.
 
 ---
 

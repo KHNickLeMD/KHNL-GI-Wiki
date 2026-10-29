@@ -3,8 +3,8 @@ title: "Nutrition in Liver Disease"
 category: disease-script
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, masld, ald, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-10-28
-sources: [acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis, borhofen-2016-rfh-npt-cirrhosis]
+updated: 2026-10-29
+sources: [acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis, borhofen-2016-rfh-npt-cirrhosis, acg-2024-ald, aasld-2020-ald]
 ---
 
 Malnutrition (most commonly sarcopenia) is a common complication of liver disease, severity-dependent, and independently associated with higher mortality, waitlist mortality, post-transplant mortality, length of stay, and infections. Malnutrition is underrecognized because weight loss is masked by fluid retention ([[ascites]], edema), and [[obesity]] does not exclude sarcopenic obesity.
@@ -163,6 +163,21 @@ Malnutrition in liver disease is multifactorial:
 - Lifestyle modification (diet + exercise): decreases adverse clinical outcomes; encourage **independent of MASH disease severity** (Key Concept 15). ⚠ Data that lifestyle modification **reverses hepatic fibrosis** are **limited** (Key Concept 16) — set expectations accordingly
 - Dysbiosis is associated with development/progression of many forms of liver disease (Key Concept 6)
 
+**[[alcohol-associated-hepatitis|Alcohol-associated hepatitis (AH)]]** — the one setting with its own caloric target and escalation rule ([[acg-2024-ald]]):
+
+| Element | Rule |
+|---|---|
+| Goal | **35 kcal/kg/day** + **1.2–1.5 g/kg/day protein** (Key concept 24) |
+| Floor that mandates support | Intake **<21 kcal/kg/day** |
+| Escalation (Rec 16, *strong, moderate*) | Oral diet → add **oral nutritional supplements (ONS)** → **enteral nutrition** if still short. [[enteral-access\|Nasogastric (NG) tube]] if oral intake inadequate; **parenteral nutrition only if enteral feeding is contraindicated** (no short-term survival advantage) |
+| Micronutrients (Key concept 25) | **Thiamine, vitamin B12 and zinc** — commonly deficient, supplement them. **Thiamine intravenously before any glucose-containing fluid** (Wernicke prevention) |
+| Antioxidants | **Do not** give routine vitamin A/C/E, selenium or beta-carotene — no benefit on meta-analysis, worse outcomes in one comparison ([[aasld-2020-ald]]) |
+
+- ⚠ **What changed:** [[aasld-2020-ald]] framed the target as simply *>21 kcal/kg/day*; ACG 2024 (newer, tier 1) makes **35 the goal** and **21 the floor** that triggers support. ACG's goal is extrapolated from critical-illness populations, not AH-specific trials.
+- **Feeding tubes are safe with esophageal varices** that are not actively bleeding and were not recently banded.
+- Why it matters: intake **<21.5 kcal/kg/day** carried higher infection rates and 6-month mortality (**62.9% vs 34.2%**, P <0.001); **85%** of AH patients are zinc-deficient, and zinc deficiency independently predicted 28-day mortality (odds ratio 10.6 per 1 µmol/L fall) ([[acg-2024-ald]]).
+- ⚠ **Intensive enteral nutrition does not substitute for corticosteroids** — in the STOPAH-era trial it added no survival benefit over conventional nutrition, with poor NG-tube tolerance.
+
 **[[hepatic-encephalopathy|Hepatic Encephalopathy]]:**
 
 - **Do NOT restrict dietary protein** in decompensated cirrhosis with HE (Conditional/Very low) — protein restriction worsens sarcopenia without improving HE
@@ -195,7 +210,7 @@ Malnutrition in liver disease is multifactorial:
 
 ## See Also
 
-[[hepatic-encephalopathy]], [[ascites]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[rifaximin]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[nutrition-in-hospitalized-patients]], [[hepatic-cysts]], [[obesity]], [[gastroparesis]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[enteral-access]], [[cirrhosis]], [[abnormal-liver-chemistries]]
+[[hepatic-encephalopathy]], [[ascites]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[alcohol-associated-hepatitis]], [[hepatocellular-carcinoma]], [[rifaximin]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[nutrition-in-hospitalized-patients]], [[hepatic-cysts]], [[obesity]], [[gastroparesis]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[enteral-access]], [[cirrhosis]], [[abnormal-liver-chemistries]]
 
 ---
 
@@ -204,3 +219,5 @@ Malnutrition in liver disease is multifactorial:
 1. [[acg-2025-liver-nutrition|ACG 2025: Malnutrition and Nutritional Recommendations in Liver Disease]]
 2. [[aasld-2021-malnutrition-cirrhosis|AASLD Practice Guidance: Malnutrition, Frailty, and Sarcopenia in Cirrhosis (2021)]]
 3. [[borhofen-2016-rfh-npt-cirrhosis|The Royal Free Hospital-Nutritional Prioritizing Tool Is an Independent Predictor of Deterioration of Liver Function and Survival in Cirrhosis (2016)]]
+4. [[acg-2024-ald|ACG Clinical Guideline: Alcohol-Associated Liver Disease (2024)]]
+5. [[aasld-2020-ald|AASLD 2019/2020 Practice Guidance: Diagnosis and Treatment of Alcohol-Associated Liver Diseases]]

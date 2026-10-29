@@ -3,7 +3,7 @@ title: "UC vs Crohn's Disease: Comparison"
 category: synthesis
 tags: [uc, crohns, ibd, comparison]
 created: 2026-05-16
-updated: 2026-09-02
+updated: 2026-10-29
 sources: [acg-2025-uc, acg-2025-crohns]
 ---
 
@@ -41,7 +41,7 @@ sources: [acg-2025-uc, acg-2025-crohns]
 | **Granulomas** | Not a feature | **Present in only a minority — up to 33%.** *Helpful but **not required** for diagnosis* [[acg-2025-crohns]] |
 | **Endoscopic appearance** | Loss of vascular markings, granularity, friability, erosions; deep ulceration + spontaneous bleeding if severe [[acg-2025-uc]] | Mucosal nodularity, edema, aphthous and linear ulceration, friability, stenosis [[acg-2025-crohns]] |
 | **Fistulas / strictures** | Not a diagnostic feature | **Clues to CD**; stricturing and penetrating phenotypes are high-risk for progression [[acg-2025-crohns]] |
-| **Perianal disease** | Not a feature | **Perianal fistulizing CD in up to one-quarter of patients** — population-based frequency **10%–26%**; cumulative risk **26% at 20 years** [[acg-2025-crohns]] |
+| **Perianal disease** | Not a feature | **[[perianal-fistulizing-crohns-disease\|Perianal fistulizing CD]] in up to one-quarter of patients** — population-based frequency **10%–26%**; cumulative risk **26% at 20 years** [[acg-2025-crohns]] |
 | **Smoking** | **Recent smoking *cessation* is a potential precipitant** of UC [[acg-2025-uc]] | **Cigarette smoking exacerbates disease activity and accelerates recurrence** [[acg-2025-crohns]] |
 | **Surgery** | **Proctocolectomy** for medically refractory disease; colectomy-sparing is an explicit treatment target [[acg-2025-uc]] | **Recurs after resection** — high-risk features drive postoperative prophylaxis [[acg-2025-crohns]] |
 | **[[colorectal-cancer\|Cancer]] risk** | Dysplasia risk falls with control of mucosal inflammation [[acg-2025-uc]] | Small-bowel adenocarcinoma risk **≥18-fold elevated**, though absolute risk is low (**0.3 cases per 1,000 patient-years**) [[acg-2025-crohns]] |
@@ -64,7 +64,7 @@ sources: [acg-2025-uc, acg-2025-crohns]
 
 ### CD disease location (the parallel classification)
 
-CD has no "extent" scheme equivalent to UC's proctitis/left-sided/extensive. What [[acg-2025-crohns]] gives instead is the distribution at presentation and how stable it is:
+[[acg-2025-crohns]] gives no "extent" scheme equivalent to UC's proctitis/left-sided/extensive — it reports the distribution at presentation and how stable it is. The formal **Montreal classification** (age at diagnosis, location L1–L4, behaviour B1–B3 ± p) is on [[crohns-disease]].
 
 | Location at presentation | Share of patients |
 |---|---|
@@ -90,7 +90,7 @@ These appear in textbooks but are **not stated in [[acg-2025-uc]] or [[acg-2025-
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[colorectal-cancer]], [[pouchitis]], [[microscopic-colitis]], [[inflammatory-bowel-disease]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[upper-endoscopy]]
+[[ulcerative-colitis]], [[crohns-disease]], [[perianal-fistulizing-crohns-disease]], [[colorectal-cancer]], [[pouchitis]], [[microscopic-colitis]], [[inflammatory-bowel-disease]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[upper-endoscopy]]
 
 ---
 

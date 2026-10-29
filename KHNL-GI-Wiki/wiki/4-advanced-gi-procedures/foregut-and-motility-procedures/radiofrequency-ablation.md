@@ -3,7 +3,7 @@ title: "Radiofrequency Ablation (RFA)"
 category: advanced-procedure
 tags: [barretts-esophagus, rfa, ablation, eet, dysplasia, radiation-proctopathy, biliary, foregut]
 created: 2026-06-04
-updated: 2026-09-03
+updated: 2026-10-29
 sources: [asge-2018-barretts-eet, acg-2022-barretts, aga-2024-barretts-eet, asge-2019-radiation-proctopathy, acg-2023-biliary-strictures, aasld-2023-hcc]
 ---
 
@@ -18,6 +18,8 @@ Radiofrequency ablation (RFA) delivers controlled thermal energy to destroy a th
 - [[#Outcomes]]
 - [[#Adverse Events]]
 - [[#Alternatives]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
