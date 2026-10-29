@@ -3,7 +3,7 @@ title: "Sacral Nerve Stimulation"
 category: advanced-procedure
 tags: [sacral-nerve-stimulation, sns, neuromodulation, fecal-incontinence, constipation, pelvic-floor, anorectal, implantable-device]
 created: 2026-06-01
-updated: 2026-09-03
+updated: 2026-10-29
 sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation, aga-2017-surgical-device-fecal-incontinence]
 ---
 
@@ -15,7 +15,6 @@ sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation, aga-20
   - [[#How "moderate–severe" is judged]]
   - [[#Who the evidence excludes]]
 - [[#Technique]]
-- [[#Two-Stage Approach]]
 - [[#Outcomes]]
 - [[#Adverse Events]]
 - [[#Where SNS Sits Among Alternatives]]
@@ -28,7 +27,7 @@ sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation, aga-20
 
 | Indication | Recommendation | Strength / Evidence |
 |---|---|---|
-| **Moderate–severe [[fecal-incontinence\|fecal incontinence]]** that has **failed conservative measures, biofeedback, and other low-cost, low-risk techniques** | Sacral nerve stimulation (SNS) | **Strong / Low** ([[acg-2021-anorectal-disorders]]) |
+| **Moderate–severe fecal incontinence** that has **failed conservative measures, biofeedback, and other low-cost, low-risk techniques** | Sacral nerve stimulation (SNS) | **Strong / Low** ([[acg-2021-anorectal-disorders]]) |
 | **Constipation** / [[defecation-disorders\|defecation disorders]] | **NOT recommended** — no benefit in randomized controlled trials (RCTs) | ([[acg-2021-anorectal-disorders]]) |
 
 ### What has to fail first
@@ -82,20 +81,11 @@ These are the patients in whom the Strong recommendation is *not* supported by t
 
 ---
 
-## Two-Stage Approach
-
-1. **Temporary trial** (2–3 weeks) — **90% responder rate** at this stage ([[acg-2021-anorectal-disorders]]).
-2. **Permanent implantation** in responders — *"patients whose symptoms respond to temporary SNS for 2–3 weeks have the device implanted in their abdomen."*
-
-**The implantation gate:** stimulation is provided by an **external stimulator for 2 to 3 weeks**; **if the frequency of FI decreases by 50% or more, a stimulator is implanted permanently beneath the skin** ([[aga-2017-surgical-device-fecal-incontinence]]). Keep a symptom diary across the trial period to make the comparison.
-
-> ACG 2021 states the two-stage rule without a numeric trial-phase threshold; the ≥50% gate above is AGA 2017's. The separate **≥50% reduction in incontinent episodes/week** figure in [[#Outcomes]] is *therapeutic success at 3-year follow-up in already-implanted patients* — the same cut-point used for a different question.
-
-- **Battery life:** batteries must be replaced after approximately **7 years** ([[aga-2017-surgical-device-fecal-incontinence]]).
-
----
-
 ## Outcomes
+
+- **Temporary trial success rate 90%** — 90% of the 133 pivotal-study patients proceeded from temporary to permanent stimulation ([[acg-2021-anorectal-disorders]], [[aga-2017-surgical-device-fecal-incontinence]]).
+
+> ACG 2021 states the two-stage rule without a numeric trial-phase threshold; the ≥50% implant gate is AGA 2017's. The **≥50% reduction in incontinent episodes/week** in the table below is a different question — *therapeutic success at 3-year follow-up in already-implanted patients*, not the gate.
 
 At **3-year** follow-up of implanted patients in the pivotal study ([[acg-2021-anorectal-disorders]]):
 
@@ -106,7 +96,8 @@ At **3-year** follow-up of implanted patients in the pivotal study ([[acg-2021-a
 | Incontinent episodes, baseline → 12 months | mean **9.4/week → 1.7/week** |
 | FI Quality of Life instrument | significant improvement in **all 4 scales** at 12, 24, and 36 months |
 
-- ⚠ **SNS has had no significant effect on measured anorectal function** ([[anorectal-manometry|ARM]] parameters) despite the symptom benefit — the mechanism is not sphincter strengthening, and the pivotal study was uncontrolled.
+- **Durability at 5 years** — among 76 of 120 patients (63%) with 5-year follow-up, **36% reported complete continence** and **89% were deemed a therapeutic success** ([[aga-2017-surgical-device-fecal-incontinence]]).
+- The pivotal study was **uncontrolled**, and in 6 cross-over studies patients had equal symptoms with the stimulator on or off ([[aga-2017-surgical-device-fecal-incontinence]]).
 
 ---
 
