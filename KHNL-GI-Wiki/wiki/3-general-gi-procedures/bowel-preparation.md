@@ -182,7 +182,7 @@ Everything below applies to **ambulatory patients at low risk for inadequate pre
   - Score **all segments** on a screening or surveillance examination. For a small region that cannot be cleared, the endoscopist may exercise judgement based on the **overall likelihood of missing a clinically meaningful lesion**.
   - On a **non-screening/surveillance** colonoscopy the preparation may be **adequate for that indication** (e.g. [[chronic-diarrhea|diarrhea]], hematochezia) while still **inadequate for screening or surveillance** — the report must state the distinction so the right interval is assigned.
   - **The word "fair" is not an adequacy statement.** Wherever it is used it must be accompanied by an explicit statement of whether standard intervals can be assigned.
-- **If the descending colon, sigmoid and rectum are well visualized** on an average-risk screening colonoscopy that is otherwise inadequate, it is reasonable to revisit screening options with the patient and referring clinician. A patient who elects to treat the limited examination as a flexible sigmoidoscopy should be rescreened by sigmoidoscopy or colonoscopy **in 5 y**, or with a nonendoscopic test — see [[colorectal-cancer-screening]].
+- **Descending colon, sigmoid and rectum well visualized** on an otherwise inadequate average-risk screening examination → reasonable to revisit screening options, treating it as a flexible sigmoidoscopy ([[colorectal-cancer-screening]]).
 - Neither document sets a numeric threshold for how much residual stool makes a segment inadequate, beyond the ">5 mm lesion" visibility test.
 
 > [!pitfall] The 2014 and 2025 cut-points are not the same rule
@@ -261,11 +261,10 @@ Odds ratios (ORs) for an inadequate preparation:
 ## Special Populations
 
 - **After [[bariatric-surgery|bariatric surgery]]:** low-volume preparations, or **extended-time delivery** of a high-volume preparation.
-- **Pregnancy:** colonoscopy is rarely indicated — defer to the **second trimester** where possible. **Tap water enemas** to prepare for sigmoidoscopy. The American Gastroenterological Association (AGA) recommends avoiding NaP; the American Society for Gastrointestinal Endoscopy (ASGE) advises caution with it because of possible fluid and electrolyte abnormalities.
-- **Children and adolescents:** no national standards and insufficient evidence to recommend a specific regimen; **NaP must not be used under 12 y**. Clear liquids for 24 h plus a normal saline enema **10 mL/kg** usually suffices for infants with normal or frequent bowel movements; **PEG-3350 1.5 g/kg/d for 4 days** before the procedure with clear liquids on day 4 is an alternative. Maintaining hydration throughout matters.
-- **Elderly:** insufficient evidence to specify a regimen; consider additional purgatives, and **no NaP**.
-- **Spinal cord injury:** insufficient evidence to specify a regimen; consider additional purgatives.
-- **Inpatients:** inpatient status is itself a risk factor, and a clear liquid diet before the purgative is the only dietary modification shown to improve quality in hospitalized patients — but none of the documents above specifies an inpatient regimen.
+- **Pregnancy:** colonoscopy is rarely indicated — defer to the **second trimester** where possible; **tap water enemas** to prepare for sigmoidoscopy. The American Gastroenterological Association (AGA) recommends avoiding NaP; the American Society for Gastrointestinal Endoscopy (ASGE) advises caution with it.
+- **Children and adolescents:** no national standards and insufficient evidence for a specific regimen; **NaP must not be used under 12 y**. Clear liquids for 24 h plus a normal saline enema **10 mL/kg** usually suffices for infants with normal or frequent bowel movements; alternatively **PEG-3350 1.5 g/kg/d for 4 days**, with clear liquids on day 4. Maintain hydration throughout.
+- **Elderly** and **spinal cord injury:** insufficient evidence to specify a regimen; consider additional purgatives — and **no NaP** in the elderly.
+- **Inpatients:** inpatient status is itself a risk factor, and a clear liquid diet before the purgative is the only dietary modification shown to improve quality in hospitalized patients; none of the documents above specifies an inpatient regimen.
 - **Suspected IBD:** use PEG-ELS, which does not alter mucosal histology; avoid NaP and sodium picosulfate.
 
 ---
