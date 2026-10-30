@@ -6,6 +6,27 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-30] update | card pass — one Crohn's abscess duplicate merged; still no page eligible for new cards
+
+**Dedup first:** `anki-dupes.mjs` returned **1 unjudged pair** (0.43) — intra-abdominal abscess in Crohn's disease, carded on two pages.
+
+- `[cd257a]` on [[crohns-disease]] (drainage plus antibiotics before escalating immunosuppression, [[aga-2026-inpatient-ibd]]) vs `[cf0011]` on [[perianal-fistulizing-crohns-disease]] (antibiotics plus drainage, hold immunosuppression until drainage, [[acg-2025-crohns]]).
+- **Verdict: merged.** Same question, same answer; the keeper's cloze is a subset of the other's.
+- **Keeper:** `[cd257a]` on [[crohns-disease]] — an intra-abdominal abscess is not perianal disease, so the disease page owns the fact (both notes were under `# Draft`, so the owner-page rule decided it). Gained `{also:perianal-fistulizing-crohns-disease}` and the two Back Extra details only the other had: the >2 cm size threshold with radiologic-or-surgical drainage and immunosuppression held until drainage, plus the cross-sectional imaging workup.
+- **Retired:** `[cf0011]` → `merged into crohns-disease [cd257a]` under a new `# Retired` section on the perianal file.
+- Verdict recorded in `dedup-ledger.tsv`; rescan now returns **0 unjudged pairs**.
+
+**Queue:** no card file was missing `page_updated:` — nothing mid-page. Only **2 of 336 topic pages** have no card file, and both are the same deliberate non-cards re-checked earlier today, re-verified again here:
+
+- [[telemedicine-in-gastroenterology]] — [[aga-2023-telemedicine]] is a CPU, but the content is practice management (licensure, billing, documentation, workflow, staffing, trainees). Nothing on it changes what is ordered, prescribed, scoped, resected, referred or stopped → fails the high-yield test.
+- [[bristol-stool-form-scale]] — re-read at its 2026-10-27 text. Every clinical claim is still [[lewis-1997-bristol-stool-form-scale]] (primary paper, not tier-1); the four guideline sources appear only as the link table in *Where It Drives a Decision*, and each of those thresholds is already carded on the page that owns it. Guideline-sourced-cards-only → no card.
+
+**Written:** no new cards. Quality over quota — nothing qualified.
+
+**Build:** `build-anki.mjs` → **4108 notes**, 0 problems reported on either touched file. Nothing committed or pushed.
+
+---
+
 ## [2026-10-30] lint | 06:00 pass — in progress
 
 **Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands.
