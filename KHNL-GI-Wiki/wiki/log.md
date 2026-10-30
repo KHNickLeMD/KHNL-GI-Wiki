@@ -6,6 +6,24 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-30] update | card pass — one duplicate merged; no page eligible for new cards
+
+**Dedup first:** `anki-dupes.mjs` returned **1 unjudged pair** (0.43) — polyp-resection documentation requirements, carded twice.
+
+- Judged **merged**: both test what the report must record for a resected polyp (size, shape/Paris, location, method of removal); the quality-indicator note's clozes were a subset.
+- **Keeper:** `3-general-gi-procedures/polypectomy.md` `[7c1a04]` (the only one under active cards) — gained `{also:colonoscopy-quality-indicators}` and one Back Extra line only the other had (shape may be given as sessile/flat/pedunculated; ASGE/ACG 2024 target ≥98%).
+- **Retired:** `7-concepts/colonoscopy-quality-indicators.md` `[c9101a]` → `merged into polypectomy [7c1a04]`. Verdict recorded in `dedup-ledger.tsv`.
+- Rebuild: **4099 notes**, no problems reported.
+
+**Queue:** no card file was missing `page_updated:` — nothing mid-page. Only **2 of 335 topic pages** have no card file, and both are deliberate non-cards, re-checked against their current text this pass:
+
+- `bristol-stool-form-scale` — every clinical claim on it is [[lewis-1997-bristol-stool-form-scale]] (primary paper, not tier-1); its *Where It Drives a Decision* section is a link table, and each guideline threshold is already carded on the page that owns it. Guideline-sourced-cards-only → no card.
+- `telemedicine-in-gastroenterology` — [[aga-2023-telemedicine]] is a CPU, so the source tier passes, but the content is licensure, documentation, billing codes, staffing and satisfaction data. Nothing changes what is ordered, prescribed, scoped or scheduled → fails the high-yield test.
+
+**Written:** no new cards. Quality over quota — the budget was a ceiling, and nothing qualified.
+
+---
+
 ## [2026-10-30] update | card pass — 11 new notes on the two pages today's lint actually changed; 18 stale markers were cosmetic
 
 **Dedup first:** `anki-dupes.mjs` returned **0 unjudged candidate pairs** at ≥0.4, so no merges and no ledger marks. Queue has stayed empty since the 2026-10-28 sweep.
