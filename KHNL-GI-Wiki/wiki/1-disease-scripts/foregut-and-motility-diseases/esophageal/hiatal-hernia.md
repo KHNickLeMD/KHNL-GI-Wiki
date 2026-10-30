@@ -3,7 +3,7 @@ title: "Hiatal Hernia"
 category: disease-script
 tags: [hiatal-hernia, gerd, foregut, ge-junction, hill-grade, antireflux-surgery, tif, ctif, cameron-lesions]
 created: 2026-08-29
-updated: 2026-10-28
+updated: 2026-10-30
 sources: [sages-2024-hiatal-hernia-surgery, sages-2013-hiatal-hernia, asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, acg-2020-esophageal-physiologic-testing, sages-2021-gerd-surgery, afs-2022-egj-integrity-classification]
 ---
 
@@ -97,7 +97,7 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation �
 | **Computed tomography (CT)** | Urgent setting only — suspected complications of a volvulized PEH, and which organs are herniated | [[sages-2013-hiatal-hernia]] |
 
 - **Order only investigations that will alter management** (⊕⊕⊕, strong — [[sages-2013-hiatal-hernia]]).
-- ⚠ **Avoid ionic water-soluble contrast** in a PEH presenting with acute gastric outlet obstruction — aspiration pneumonitis risk. Barium is the usual agent ([[sages-2013-hiatal-hernia]]).
+- ⚠ **Avoid ionic water-soluble contrast** in a PEH presenting with acute [[gastric-outlet-obstruction|gastric outlet obstruction]] — aspiration pneumonitis risk. Barium is the usual agent ([[sages-2013-hiatal-hernia]]).
 - ⚠ **Manometry is harder in PEH** — the catheter can be difficult to place across the lower esophageal sphincter and below the diaphragm, and a contrast swallow showing normal motility may substitute. A motility study is still **critical before antireflux surgery for a sliding hernia**, so the pH probe can be positioned ([[sages-2013-hiatal-hernia]]).
 
 > **Cameron lesions.** Erosions at the diaphragmatic hiatus in a hiatal hernia are a recognised cause of occult blood loss and [[iron-deficiency-anemia|iron-deficiency anemia]] (they are listed on [[upper-gi-bleeding]]), but none of the GERD, antireflux-surgery, upper gastrointestinal bleeding (UGIB), small-bowel-bleeding, or iron-deficiency-anemia guidelines describes their appearance, bleeding phenotype, prevalence, or management, so they are not detailed here.

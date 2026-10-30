@@ -3,7 +3,7 @@ title: "Botulinum Toxin (GI Indications)"
 category: med
 tags: [botulinum-toxin, botox, achalasia, anal-fissure, gastroparesis, sphincter, injection, les, pylorus]
 created: 2026-10-19
-updated: 2026-10-26
+updated: 2026-10-30
 sources: [ascrs-2023-anal-fissures, acg-2020-achalasia, aga-2024-poem-advances, asge-2020-achalasia, acg-2021-anorectal-disorders, acg-2022-gastroparesis, aga-2025-gastroparesis, dallas-2025-flip-panometry, aga-2024-esophageal-immunity-infection, rome-v-2026-dgbi]
 ---
 
@@ -34,7 +34,7 @@ Botulinum toxin injected into a gastrointestinal (GI) sphincter or muscle to rel
 | **Pylorus — refractory gastroparesis** | Suggests **against** routine use | — | [[aga-2025-gastroparesis]] |
 | **Internal anal sphincter — chronic [[anal-fissure\|anal fissure]]** | May be attempted **after topical calcium channel blocker (CCB) fails**, or as an alternative to CCB | Conditional · Low | [[acg-2021-anorectal-disorders]] (Table 9, Rec 2) |
 | **[[defecation-disorders\|Defecation disorders]]** | Evidence poor, results short-lived; **unlikely to be a practical long-term solution** | Key concept 13 (ungraded) | [[acg-2021-anorectal-disorders]] |
-| **Chronic proctalgia syndromes** | **No evidence** to support it | Ungraded statement | [[acg-2021-anorectal-disorders]] (Table, statement 3) |
+| **Chronic [[proctalgia-syndromes\|proctalgia syndromes]]** | **No evidence** to support it | Ungraded statement | [[acg-2021-anorectal-disorders]] (Table, statement 3) |
 | **Nonachalasia spastic disorders** — [[distal-esophageal-spasm\|distal esophageal spasm]], [[hypercontractile-esophagus\|hypercontractile esophagus]], [[esophagogastric-junction-outflow-obstruction\|EGJOO]] | One of the **less invasive options to exhaust before myotomy**, alongside medical therapy and endoscopic dilation | Best practice advice 3 (ungraded) | [[aga-2024-poem-advances]] |
 | **Upper esophageal sphincter — inability to belch syndrome (B3c)** | Successful treatment **has been shown** | Narrative, no grade | [[rome-v-2026-dgbi]] |
 | **Cricopharyngeus — myositis-related [[dysphagia\|dysphagia]]** | One of the cricopharyngeus-directed options alongside dilation and myotomy | Narrative, no grade | [[aga-2024-esophageal-immunity-infection]] |

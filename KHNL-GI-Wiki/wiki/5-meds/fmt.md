@@ -3,7 +3,7 @@ title: "Fecal Microbiota Transplantation (Fecal Microbiota-Based Therapies)"
 category: med
 tags: [fmt, microbiome, cdiff, recurrent-cdi]
 created: 2026-07-26
-updated: 2026-10-22
+updated: 2026-10-30
 sources: [aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, acg-2021-cdiff, feuerstadt-2022-ser109-cdiff]
 ---
 
@@ -59,7 +59,7 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 - Caution in patients needing frequent or long-term antibiotics — ongoing antibiotics may diminish efficacy.
 - **ACG 2021 delivery and repeat dosing** ([[acg-2021-cdiff]]): FMT for a second or further recurrence is a strong recommendation (moderate quality). Deliver by **colonoscopy or oral capsules** (both strong; equivalent — 96.2% vs 96.2% in one randomized trial); **enema** only if these are unavailable (conditional; lower efficacy in meta-analyses). Recurrence **within 8 weeks** of FMT → **repeat FMT** (conditional); most failures occur within 4 weeks, and <5% fail a second FMT. Before repeating, restart anti-CDI antibiotics to control symptoms; consider colonoscopic delivery if the first FMT was by enema or capsule.
 - **Guidelines differ — route.** [[aga-2024-fmt|AGA 2024]] finds insufficient evidence to recommend any route; [[acg-2021-cdiff|ACG 2021]] prefers colonoscopy or capsules over enema.
-- **VOS evidence — ECOSPOR III** ([[feuerstadt-2022-ser109-cdiff]]): purified *Firmicutes* spores, 4 capsules daily × 3 days after standard antibiotics resolve symptoms; 8-week recurrence **12% vs 40%** with placebo (relative risk 0.32, 95% CI 0.18–0.58), consistent across age and prior antibiotic (vancomycin or fidaxomicin); safety similar to placebo (mostly mild GI events). FDA-approved 2023.
+- **VOS evidence — ECOSPOR III** ([[feuerstadt-2022-ser109-cdiff]]): purified *Firmicutes* spores, 4 capsules daily × 3 days after standard antibiotics resolve symptoms; 8-week recurrence **12% vs 40%** with placebo (relative risk 0.32, 95% CI 0.18–0.58), consistent across age and prior antibiotic (vancomycin or fidaxomicin); safety similar to placebo (mostly mild GI events); sustained clinical response **88% vs 60%**, number needed to treat **3.6**. Dose **≈3 × 10⁷ spore colony-forming units (CFU)**. Give **10 oz magnesium citrate the night before dosing** — vancomycin and fidaxomicin persist 5–7 days and inactivate the dose species. [[aga-2024-fmt]] lists fecal microbiota spores, live-brpk among the fecal microbiota–based therapies for recurrent CDI.
 - **Pregnancy:** avoid FMT during pregnancy; defer to postpartum ([[acg-2021-cdiff]]).
 - Alternatives for patients who decline: [[cdiff-antibiotics|vancomycin taper or tapered-pulsed fidaxomicin]]. *(AGA 2024 also lists bezlotoxumab; [[aga-2026-cdiff-adults|AGA 2026]] reports it is **no longer commercially available**.)*
 

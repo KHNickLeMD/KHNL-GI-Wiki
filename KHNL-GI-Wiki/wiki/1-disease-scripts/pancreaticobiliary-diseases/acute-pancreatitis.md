@@ -3,7 +3,7 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-10-29
+updated: 2026-10-30
 sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis, aga-2018-initial-management-acute-pancreatitis, bsg-2017-common-bile-duct-stones, idsa-2016-candidiasis, banks-2013-revised-atlanta-classification, wu-2008-bisap-score]
 ---
 
@@ -196,6 +196,8 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 > The target is negative: **do not let the BUN or HCT rise in the first 24–48 h, and do not let SIRS or renal insufficiency appear.** Once either has happened the window is gone, and mild disease can progress ([[acg-2024-acute-pancreatitis]]).
 
 **Why moderate** — the **WATERFALL** randomized controlled trial (RCT), halted early for safety [[demadaria-2022-waterfall]]: aggressive LR (20 mL/kg bolus → 3 mL/kg/h) versus moderate (≤10 mL/kg → 1.5 mL/kg/h) gave **no reduction** in progression to moderately severe/severe disease (22.1% vs 17.3%) while **roughly tripling fluid overload** (20.5% vs 6.3%; adjusted relative risk 2.85, 95% confidence interval [CI] 1.36–5.94).
+- **Scope limit:** patients already meeting criteria for moderately severe or severe disease at baseline were **excluded**, so the trial does not address resuscitation of established severe AP.
+- **Stop rule:** fluids stopped once oral feeding is tolerated for 8 h — as early as **20 h** after randomization on the moderate protocol.
 
 **Do not use hydroxyethyl starch** ([[aga-2018-initial-management-acute-pancreatitis]] Rec 1B — conditional, very low): no mortality benefit, and **significantly more multiple organ failure** in one trial (odds ratio [OR] 3.86; 95% CI 1.24–12.04). AGA 2018's perfusion targets stand (heart rate, mean arterial pressure, central venous pressure, urine output, BUN, hematocrit — Rec 1A), but it made **no recommendation** on rate, volume, duration, or saline versus Ringer's lactate; the newer ACG 2024 rates and LR preference above govern.
 

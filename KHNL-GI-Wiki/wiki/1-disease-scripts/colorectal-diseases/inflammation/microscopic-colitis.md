@@ -3,7 +3,7 @@ title: "Microscopic Colitis"
 category: disease-script
 tags: [colon, chronic-diarrhea, collagenous-colitis, lymphocytic-colitis, watery-diarrhea]
 created: 2026-06-04
-updated: 2026-10-21
+updated: 2026-10-30
 sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2020-ibs, acg-2022-celiac, aga-2016-microscopic-colitis, peery-2025-microscopic-colitis]
 ---
 
@@ -29,7 +29,7 @@ sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2020-ibs, acg-2022-ce
 - **Predilection for age ≥60**; **female predominance in collagenous colitis**. Reported prevalence **48–219 per 100,000**. [[aga-2016-microscopic-colitis]]
 - Accounts for **~10% of chronic-diarrhea referrals** [[asge-2010-diarrhea]]; occurs in **7.5% of patients undergoing evaluation for chronic diarrhea** [[aga-2016-microscopic-colitis]].
 - **Not associated with increased mortality**, and there is no evidence that persistent histologic inflammation portends [[colorectal-cancer|colorectal cancer]] or need for surgery — symptoms nonetheless impair quality of life. This is why the treatment goal is **symptom relief and quality of life with minimal drug toxicity**, not histologic healing. [[aga-2016-microscopic-colitis]] Mortality is unsettled in later data: two cohorts found a small excess (comorbidity burden; smoking-related disease) and a US study found none, the excess likely residual confounding by smoking. [[peery-2025-microscopic-colitis]]
-- **Symptom profile:** fecal urgency **93%**, fecal incontinence **68%**, weight loss **65%**, nocturnal bowel movements **62%**, abdominal pain **52%**. Fatigue is common and may reflect sleep disturbance from nocturnal stools. Symptoms are **worse after cholecystectomy**. [[peery-2025-microscopic-colitis]]
+- **Symptom profile:** fecal urgency **93%**, [[fecal-incontinence|fecal incontinence]] **68%**, weight loss **65%**, nocturnal bowel movements **62%**, abdominal pain **52%**. Fatigue is common and may reflect sleep disturbance from nocturnal stools. Symptoms are **worse after cholecystectomy**. [[peery-2025-microscopic-colitis]]
 - **Natural history:** **40% have a relapsing or chronic course at 5 years**, with worse quality of life than those with a quiescent course. [[peery-2025-microscopic-colitis]]
 - **Outpatient follow-up after diagnosis is critical** — in a cohort of newly diagnosed patients, some were unaware of the diagnosis, some were never treated, and many remained symptomatic at 1 year. [[peery-2025-microscopic-colitis]]
 

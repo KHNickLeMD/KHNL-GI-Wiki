@@ -3,7 +3,7 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-10-05
+updated: 2026-10-30
 sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd, acg-2020-esophageal-physiologic-testing, afs-2024-ge-valve-after-antireflux-surgery, aga-2022-personalized-gerd, aga-2020-functional-heartburn]
 ---
 
@@ -103,7 +103,7 @@ Objective severity is assessed endoscopically and with [[reflux-testing|reflux t
 |-----------|----------------------------|
 | [[eosinophilic-esophagitis\|Eosinophilic esophagitis]] | Dysphagia-predominant; younger patients; rings/furrows/exudate on EGD; >15 eos/high-power field (HPF) on biopsy; often atopic; PPI trial may partially respond but diagnosis requires biopsy |
 | [[achalasia\|Achalasia]] | Regurgitation of undigested food; dysphagia to liquids and solids; bird-beak on barium; elevated lower esophageal sphincter (LES) pressure on high-resolution manometry (HRM); absent peristalsis |
-| Functional heartburn | Normal AET on pH study, normal impedance; symptom-reflux correlation absent; [[disorders-of-gut-brain-interaction\|Rome V]] criteria; PPI often ineffective |
+| [[functional-heartburn\|Functional heartburn]] | Normal AET on pH study, normal impedance; symptom-reflux correlation absent; [[disorders-of-gut-brain-interaction\|Rome V]] criteria; PPI often ineffective |
 | [[peptic-ulcer-disease\|Peptic ulcer disease]] | Epigastric pain; [[helicobacter-pylori-infection\|H. pylori]] association; EGD shows ulceration; not position-related |
 | [[chicago-classification-v4\|Esophageal dysmotility]] | Dysphagia, chest pain; manometry distinguishes; consider pre-TIF workup |
 | Laryngopharyngeal reflux / [[extraesophageal-reflux\|extraesophageal reflux]] | Throat-clearing, hoarseness, globus, chronic cough; see [[laryngopharyngeal-symptoms]]; diagnosis challenging, hypopharyngeal-esophageal multichannel intraluminal impedance with dual pH (HEMII-pH) may be required |

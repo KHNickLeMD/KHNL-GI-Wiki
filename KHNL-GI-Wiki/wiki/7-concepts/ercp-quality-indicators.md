@@ -3,7 +3,7 @@ title: "ERCP Quality Indicators"
 category: concept
 tags: [ercp, quality, quality-indicators, cannulation, post-ercp-pancreatitis, rectal-nsaid, pancreatic-stent, radiation, adverse-events, pancreaticobiliary]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-10-30
 sources: [acg-asge-2026-ercp-quality-indicators, asge-2015-ercp-benign-biliary, asge-2023-post-ercp-pancreatitis]
 ---
 
@@ -139,7 +139,7 @@ Procedural-success benchmarks from the older biliary guideline, still current fo
 3. **Either** admission **or** prolongation of an admission by **at least 2 days**.
 
 > [!pitfall] PEP rates are not comparable between endoscopists
-> The definition turns on two subjective judgments — whether the pain is pancreatic and whether to admit. A low admission threshold produces a higher measured PEP rate for identical care, and patients with pre-existing chronic pain can partly satisfy the criteria for unrelated reasons. Add case-mix (a referral centre taking failed ERCPs and recurrent acute pancreatitis will exceed a centre doing stones and cancer) and **between-provider comparison breaks down**. Compare against **your own prior performance**.
+> The definition turns on two subjective judgments — whether the pain is pancreatic and whether to admit. A low admission threshold produces a higher measured PEP rate for identical care, and patients with pre-existing chronic pain can partly satisfy the criteria for unrelated reasons. Add case-mix (a referral centre taking failed ERCPs and [[recurrent-acute-pancreatitis|recurrent acute pancreatitis]] will exceed a centre doing stones and cancer) and **between-provider comparison breaks down**. Compare against **your own prior performance**.
 
 ## Radiation Dose
 

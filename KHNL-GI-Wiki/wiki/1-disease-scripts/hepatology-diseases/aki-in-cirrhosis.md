@@ -3,7 +3,7 @@ title: "AKI in Cirrhosis (including HRS-AKI)"
 category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
-updated: 2026-09-22
+updated: 2026-10-30
 sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-aclf, baveno-viii-2026-portal-hypertension]
 ---
 
@@ -205,7 +205,7 @@ Vasopressin V1 receptor analog; reverses splanchnic vasodilatation.
 - **[[acute-on-chronic-liver-failure|ACLF-3]] (European Association for the Study of the Liver–Chronic Liver Failure [EASL-CLIF]; ≥3 organ failures) — CONTRAINDICATED**, not merely a caution. [[aasld-2024-aclf]] guidance statement (GS) 25 restricts terlipressin to Stage 2+ HRS-AKI **without ACLF-3**, on the CONFIRM-trial respiratory-failure signal; **norepinephrine is preferred in shock**. ⚠ This supersedes the softer "use with caution" framing carried by the older CPU — the newer guideline governs. Grade definitions on [[acute-on-chronic-liver-failure]].
 - **Benefit may not outweigh risk** when SCr >5 mg/dL, or in patients listed for transplant with **Model for End-Stage Liver Disease (MELD) ≥35** (low response rates). ⚠ The source does not say **which** MELD variant; the variants differ by several points around exactly this kind of cutoff — the formulas and the variant-selection table are on [[cirrhosis|cirrhosis → Severity Assessment]]
 
-**Response predictors (favorable):** bilirubin <10 mg/dL, SCr <5 mg/dL, lower ACLF grade, sustained mean arterial pressure (MAP) increase ≥5–10 mmHg with therapy, presence of systemic inflammatory response (systemic inflammatory response syndrome [SIRS]/sepsis/alcohol-associated hepatitis)
+**Response predictors (favorable):** bilirubin <10 mg/dL, SCr <5 mg/dL, lower ACLF grade, sustained mean arterial pressure (MAP) increase ≥5–10 mmHg with therapy, presence of systemic inflammatory response (systemic inflammatory response syndrome [SIRS]/sepsis/[[alcohol-associated-hepatitis|alcohol-associated hepatitis]])
 
 **Efficacy:** Randomized controlled trial (RCT) response rates 36–44%; CONFIRM trial (US/Canada): 29% reversed HRS and survived additional 10 days without renal replacement therapy (RRT) — may provide a bridge to [[liver-transplantation|liver transplantation]]
 

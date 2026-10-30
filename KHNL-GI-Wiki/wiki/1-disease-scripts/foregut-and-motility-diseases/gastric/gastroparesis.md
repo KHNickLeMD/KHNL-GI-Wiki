@@ -3,7 +3,7 @@ title: "Gastroparesis"
 category: disease-script
 tags: [gastroparesis, gastric-motility, prokinetics, g-poem, gastric-emptying, foregut]
 created: 2026-05-15
-updated: 2026-10-22
+updated: 2026-10-30
 sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, aga-2021-medically-refractory-gastroparesis, surjanhata-2025-constipation-gastroparesis]
 ---
 
@@ -251,7 +251,7 @@ Recs 9–12 apply only to refractory disease; the CPU adds trial durations and t
 - Tertiary-amine preference is extrapolated from FD, not GP data
 
 > [!pitfall] Opioids worsen gastroparesis
-> They further delay emptying, invalidate the emptying study, risk narcotic bowel syndrome, and **contraindicate gastric electrical stimulation** ([[aga-2021-medically-refractory-gastroparesis]], [[acg-2022-gastroparesis]]).
+> They further delay emptying, invalidate the emptying study, risk [[narcotic-bowel-syndrome|narcotic bowel syndrome]], and **contraindicate gastric electrical stimulation** ([[aga-2021-medically-refractory-gastroparesis]], [[acg-2022-gastroparesis]]).
 
 ### 6. Agents NOT Recommended
 

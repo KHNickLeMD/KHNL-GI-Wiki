@@ -3,7 +3,7 @@ title: "Abdominal Bloating, Distention, and Belching"
 category: diagnostic-schema
 tags: [bloating, distention, belching, aerophagia, dgbi, functional-gi, sibo, fodmap]
 created: 2026-07-19
-updated: 2026-10-29
+updated: 2026-10-30
 sources: [aga-2023-bloating, rome-v-2026-dgbi, aga-2020-sibo, acg-2020-sibo]
 ---
 
@@ -101,7 +101,7 @@ Order labs/imaging/endoscopy (BPA 6) when present:
 
 ## Therapeutics
 
-- **Supragastric belching / aerophagia** — brain–gut behavioral therapy (cognitive behavioral therapy [CBT], diaphragmatic breathing), speech therapy, central neuromodulators; **not PPI** (nonacidic). [[baclofen|Baclofen]] only for gastric belching due to GERD.
+- **Supragastric belching / aerophagia** — [[brain-gut-behavioral-therapy|brain–gut behavioral therapy]] (cognitive behavioral therapy [CBT], diaphragmatic breathing), speech therapy, central neuromodulators; **not PPI** (nonacidic). [[baclofen|Baclofen]] only for gastric belching due to GERD.
 - **Bloating/distention**:
   - **Dietary** — [[low-fodmap-diet|low–fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAP) diet]], fructan/gluten avoidance where indicated, with a **GI dietitian** (BPA 9).
   - **Pelvic floor disorder present** → **[[biofeedback-therapy|biofeedback]]** (BPA 11); treat coexisting constipation (BPA 13; see [[chronic-idiopathic-constipation]]).

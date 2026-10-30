@@ -3,7 +3,7 @@ title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-10-28
+updated: 2026-10-30
 sources: [asge-2023-ergonomics, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy, asge-2011-foreign-body-ingestion, aga-2021-gi-perforations-endoscopic-management, aga-2015-upper-gi-biopsy-dyspepsia, afs-2022-egj-integrity-classification]
 ---
 
@@ -283,7 +283,7 @@ Document the number and location of every biopsy in the report.
 #### Iron-Deficiency Anemia — AGA Position
 
 - **Celiac workup:** Serologic testing first; duodenal biopsy reserved for positive serology (cost saving; differs from some international guidelines that recommend duodenal biopsy at endoscopy). Serology beforehand is sometimes not feasible (e.g., open-access referral); **if endoscopy shows celiac features (e.g., scalloping), biopsy**
-- **H. pylori:** Noninvasive testing preferred (stool antigen); gastric biopsies for H. pylori and atrophic gastritis not routinely recommended in IDA without endoscopic findings (may still have a role in the right clinical scenario, e.g., family history of gastric cancer)
+- **H. pylori:** Noninvasive testing preferred (stool antigen); gastric biopsies for H. pylori and [[atrophic-gastritis|atrophic gastritis]] not routinely recommended in IDA without endoscopic findings (may still have a role in the right clinical scenario, e.g., family history of gastric cancer)
 - No noninvasive test with acceptable performance for gastric preneoplasia/neoplasia is routinely available in the US
 
 ### Postprocedure Documentation (BPA 8 and 9)

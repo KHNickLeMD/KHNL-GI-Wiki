@@ -3,7 +3,7 @@ title: "Alcohol-Associated Liver Disease"
 category: disease-script
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, mdf, nac, pentoxifylline, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate, baclofen, peth, stopah]
 created: 2026-05-07
-updated: 2026-10-29
+updated: 2026-10-30
 sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis, lee-2018-accelerate-ah, hendershot-2025-semaglutide-aud]
 ---
 
@@ -202,7 +202,7 @@ All ALD patients should receive AUD treatment [[acg-2024-ald]], [[aasld-2020-ald
 - **[[ascites]]/[[spontaneous-bacterial-peritonitis|SBP]]:** diuretics (spironolactone ± furosemide), large-volume paracentesis, [[antibiotic-prophylaxis-cirrhosis|prophylactic norfloxacin]]
 - **[[hepatic-encephalopathy|Hepatic encephalopathy]]:** lactulose, [[rifaximin]]
 - **Hepatorenal syndrome:** midodrine + [[somatostatin-analogs|octreotide]] + albumin; norepinephrine preferred in the intensive care unit — see [[aki-in-cirrhosis]]
-- **Esophageal varices:** [[nonselective-beta-blockers|non-selective beta-blockers]]; endoscopic band ligation (see [[variceal-upper-gi-bleeding|variceal bleeding]])
+- **Esophageal varices:** [[nonselective-beta-blockers|non-selective beta-blockers]]; [[endoscopic-band-ligation|endoscopic band ligation]] (see [[variceal-upper-gi-bleeding|variceal bleeding]])
 
 ### 5. Liver Transplantation for Alcohol-Associated Cirrhosis
 

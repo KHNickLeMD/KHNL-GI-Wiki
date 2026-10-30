@@ -3,7 +3,7 @@ title: "Corticosteroids in IBD (systemic, budesonide CIR, budesonide MMX)"
 category: med
 tags: [ibd, crohns-disease, ulcerative-colitis, corticosteroids, budesonide, prednisone, methylprednisolone, hydrocortisone, induction, steroid-dependence, autoimmune-hepatitis]
 created: 2026-09-20
-updated: 2026-10-24
+updated: 2026-10-30
 sources: [acg-2025-crohns, acg-2025-uc, acg-2018-crohns, acg-2019-uc, acg-2025-ibd-preventive-care, aasld-2020-autoimmune-hepatitis, aga-2026-inpatient-ibd]
 ---
 
@@ -163,7 +163,7 @@ The same two drugs, a different rule set — and the one place where **budesonid
 
 - **Why budesonide fails in cirrhosis:** portal-systemic shunting **bypasses the first-pass effect**, eliminating the systemic side-effect advantage that is its entire rationale.
 - **Acute severe AIH** (jaundice + INR 1.5–<2, no HE): initiate a **prednisone trial** and reassess at **1–2 weeks**; no biochemical improvement → evaluate for [[liver-transplantation|liver transplantation]].
-- **AIH-related acute liver failure** (INR ≥2 + HE): evaluate directly for transplantation — do not delay listing while awaiting a steroid response. Budesonide is contraindicated here as well.
+- **AIH-related [[acute-liver-failure|acute liver failure]]** (INR ≥2 + HE): evaluate directly for transplantation — do not delay listing while awaiting a steroid response. Budesonide is contraindicated here as well.
 - **94%–95%** of AIH patients are steroid-responsive; only **~30%** can discontinue all immunosuppression long-term.
 - **Monitoring on glucocorticoids:** **DEXA at baseline, repeated every 2–3 years**; **25-hydroxyvitamin D** at diagnosis and annually, supplement if deficient. Check **thiopurine methyltransferase (TPMT)** before AZA, **hepatitis B surface antigen (HBsAg)/hepatitis B core antibody (anti-HBc)** before immunosuppression, and give vaccines beforehand.
 - American Association for the Study of Liver Diseases (AASLD) 2020 states the prednisone/prednisolone regimen as a drug pairing without printing a starting dose or taper schedule; the budesonide dose (3 mg TID) is given.

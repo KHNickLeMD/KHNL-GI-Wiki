@@ -3,7 +3,7 @@ title: "Disorders of Gut–Brain Interaction (DGBI)"
 category: concept
 tags: [DGBI, functional-gi, IBS, rome-criteria, biopsychosocial, brain-gut-axis, motility, visceral-hypersensitivity]
 created: 2026-05-15
-updated: 2026-10-04
+updated: 2026-10-30
 sources: [rome-v-2026-dgbi, aga-2021-chronic-gi-pain-dgbi, aga-2018-psychogastroenterology]
 ---
 
@@ -60,7 +60,7 @@ Rome V (2026) classifies **34 adult** and **22 pediatric** DGBI across anatomic 
 |---|---|
 | **A. Esophageal** | Functional chest pain (A1), [[functional-heartburn\|Functional heartburn]] (A2), Reflux hypersensitivity (A3), Globus (A4), Functional [[dysphagia]] (A5) |
 | **B. Gastroduodenal** | Functional [[dyspepsia]] — postprandial distress syndrome (PDS; B1a), epigastric pain syndrome (EPS; B1b); [[nausea-and-vomiting\|Nausea/vomiting]]: chronic nausea vomiting syndrome (CNVS; B2a), [[cyclic-vomiting-syndrome\|cyclic vomiting syndrome (CVS)]] (B2b), [[cannabinoid-hyperemesis-syndrome\|cannabinoid hyperemesis syndrome (CHS)]] (B2c); Belching: supragastric (B3a), gastric (B3b), **inability to belch** (B3c, *new*); [[rumination-syndrome\|Rumination]] (B4) |
-| **C. Bowel** | [[irritable-bowel-syndrome\|irritable bowel syndrome (IBS)]] with subtypes (C1a–d); [[chronic-idiopathic-constipation\|Chronic constipation]] (C2); Functional diarrhea (C3); [[abdominal-bloating-and-distention\|Functional abdominal bloating]] (C4); Unclassified bowel disorders (C5); Opioid-induced constipation (C6) |
+| **C. Bowel** | [[irritable-bowel-syndrome\|irritable bowel syndrome (IBS)]] with subtypes (C1a–d); [[chronic-idiopathic-constipation\|Chronic constipation]] (C2); Functional diarrhea (C3); [[abdominal-bloating-and-distention\|Functional abdominal bloating]] (C4); Unclassified bowel disorders (C5); [[opioid-induced-constipation\|Opioid-induced constipation]] (C6) |
 | **D. Centrally mediated GI pain** | Centrally mediated abdominal pain syndrome (CAPS; D1); **Abdominal migraine** (D2, *new adult diagnosis*); [[narcotic-bowel-syndrome\|Narcotic bowel syndrome]] / opioid-induced GI hyperalgesia (D3) |
 | **E. Gallbladder and [[sphincter-of-oddi-dysfunction\|sphincter of Oddi dysfunction (SOD)]]** | Biliary-type abdominal pain (E1); Dysfunctional gallbladder disorder (E2); Biliary SOD (E3); Pancreatic SOD (E4) |
 | **F. Anorectal** | [[fecal-incontinence\|Fecal incontinence]] (F1); [[proctalgia-syndromes\|Anorectal pain disorders]] (F2a levator ani syndrome, F2b unexplained anorectal pain, F2c proctalgia fugax); [[defecation-disorders\|Dyssynergic defecation]] (F3); **Anorectal sensory dysfunction** (F4, *new*): rectal hyposensitivity (F4a), rectal hypersensitivity (F4b) |

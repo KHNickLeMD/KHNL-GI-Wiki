@@ -3,7 +3,7 @@ title: "Celiac Disease"
 category: disease-script
 tags: [celiac-disease, gluten, malabsorption, small-bowel, ttg, marsh, foregut]
 created: 2026-05-15
-updated: 2026-09-23
+updated: 2026-10-30
 sources: [acg-2022-celiac, aga-2019-celiac-monitoring, aga-2022-refractory-celiac]
 ---
 
@@ -323,7 +323,7 @@ Define: persistent symptoms/signs/labs after 6–12 months of GFD. Systematic st
    - Serology — but **negative serology does not exclude** intermittent or low-level ingestion, and antibody levels are often normal in RCD
    - **Gluten immunodominant peptides in stool or urine** — commercially available; not validated or widely available in Europe
 3. **Rule out alternative/coexisting conditions:**
-   - Lactose intolerance, fructose intolerance, FODMAP sensitivity (breath testing) — the **low-FODMAP diet is not indicated in all** nonresponsive CD
+   - Lactose intolerance, fructose intolerance, FODMAP sensitivity (breath testing) — the **[[low-fodmap-diet|low-FODMAP diet]] is not indicated in all** nonresponsive CD
    - [[exocrine-pancreatic-insufficiency|Exocrine pancreatic insufficiency]] — common here; treat with **gluten-free** pancreatic enzyme supplements
    - [[small-intestinal-bacterial-overgrowth|SIBO]] (breath testing)
    - [[microscopic-colitis|Microscopic colitis]] and [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] — **[[colonoscopy]] is indicated** for persistent or recurrent diarrhoea, as both are more common in CD and occur even with healed small-bowel mucosa
