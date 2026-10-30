@@ -6,6 +6,34 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-30] update | card pass — 11 new notes on the two pages today's lint actually changed; 18 stale markers were cosmetic
+
+**Dedup first:** `anki-dupes.mjs` returned **0 unjudged candidate pairs** at ≥0.4, so no merges and no ledger marks. Queue has stayed empty since the 2026-10-28 sweep.
+
+**Queue:** no card file was missing `page_updated:`, so nothing was mid-page. **20 card files were stale** against their page — all 20 because today's lint pass bumped `updated:` to 2026-10-30. Each one's `page_updated:` equalled its page's *pre-lint* date exactly, so the staleness was the lint's, not an unfinished page.
+
+**18 of the 20 gained no cardable content — markers bumped only.** Diffed every page against `43d5608^`: 16 changed nothing but the `updated:` line plus one inline `[[link]]` conversion. The two with real additions still yielded nothing:
+
+- [[acute-pancreatitis]] — gained the WATERFALL scope limit and its fluid stop rule, both [[demadaria-2022-waterfall]], an RCT → *Guideline-sourced cards only* excludes it.
+- [[fmt]] — gained ECOSPOR III dose, magnesium-citrate timing and sustained-response figures, all inside the [[feuerstadt-2022-ser109-cdiff]] bullet → same exclusion. The guideline-backed version of that course and its pre-dose lavage is already carded from [[aga-2026-cdiff-ibd]].
+
+**Pages carded:**
+
+- [[colonoscopy-quality-indicators]] — **6 new.** The page was slimmed *and* gained the full 15-indicator set; every existing card still matches it, so nothing was retired. New: the per-polyp report contents (size, shape, location by segment, method), the ≥10 mm threshold for describing a polyp individually rather than grouped, the **own-bottle rule** for any lesion with features of advanced histology or submucosal-or-deeper invasion, the two in-scope sizing references (open forceps, snare sheath tip 2.4 mm), the UC extent-*and*-activity vs Crohn's activity-score reporting requirements, and inadequate bowel preparation as the only thing justifying a repeat sooner than 10 years after a negative average-risk screening exam. Indicator 10 (cold snare 4–9 mm, ≥90%) was **not** carded — already owned by `ac2401`.
+- [[bowel-preparation]] — **5 new**, from the large USMSTF 2025 body the lint moved onto the page: the <2 L ultra-low-volume definition and that those regimens are not ready for general use, the 5-hour interval past which the split-dose advantage is gone, that a GLP-1 receptor agonist changes nothing about the prep itself, nasogastric PEG-ELS for the patient who cannot drink, and the loss of average-risk status once adenomas are found (a stool test is then no substitute).
+
+**Deliberately not carded:**
+
+- **Two facts dropped for unresolvable attribution** — the sodium picosulfate/magnesium citrate heart-failure and hypermagnesemia contraindications, and the "treat a well-seen left colon as a flexible sigmoidoscopy" option. Both sit in sections where two tier-1 documents are in play and neither bullet carries its own citation, so a card footer would have had to guess the source. Flagged here rather than guessed.
+- **Irrigation pumps for routine use** — reduces to a yes/no with no clinical discriminator; fewer cards, not weaker ones.
+- The two uncarded pages are still correctly unfiled: [[bristol-stool-form-scale]] (substance is [[lewis-1997-bristol-stool-form-scale]], a primary paper; guideline bands belong to the pages that act on them) and [[telemedicine-in-gastroenterology]] (tier-1 CPU, but practice-management content — nothing changes what is ordered, prescribed or scoped).
+
+**Build:** `build-anki.mjs` run after each page. One problem reported and fixed — `[c9101d]` had a 14-word bullet, recut to 8 with the detail moved to Back Extra. Final build **clean, 0 problems, 4099 notes** (from 4088).
+
+**Not done:** `occ files:scan` — `occ` is not reachable from the `giwiki` container, so the Nextcloud web UI will serve the previous `dist/khnl-gi-wiki.txt` until the host runs it. Nothing committed or pushed, per instruction.
+
+---
+
 ## [2026-10-30] lint | manual pass — three stalest source pages carried an unsourced FDA approval and a trial scope the trial excludes
 
 **Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write landed.
