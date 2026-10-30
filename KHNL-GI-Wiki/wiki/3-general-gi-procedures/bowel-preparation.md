@@ -4,7 +4,7 @@ category: general-procedure
 tags: [bowel-prep, colonoscopy, split-dose, peg, simethicone, preparation-quality, bbps, crc-screening, colorectal]
 created: 2026-10-15
 updated: 2026-10-30
-sources: [usmstf-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation]
+sources: [usmstf-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, aga-2021-colonoscopy-quality]
 ---
 
 # Bowel Preparation
@@ -46,6 +46,8 @@ Everything below applies to **ambulatory patients at low risk for inadequate pre
 | **Same-day** regimen | Entire purgative on the day of colonoscopy |
 | **High / low / ultra-low volume** | **≥4 L** / **≥2 to <4 L** / **<2 L** of purgative |
 
+- **The burden: up to 20%–25% of all colonoscopies are reported to have an inadequate preparation** — which lowers adenoma detection, lengthens procedural time, lowers cecal intubation rates, raises electrocautery risk and shortens the interval to the next examination ([[acg-2014-bowel-cleansing]]).
+- **Where the misses happen:** suboptimal cleansing causes failed detection of **flat or otherwise subtle polyps**, and the effect is **most pronounced in the proximal colon**, reducing detection of both adenomas and sessile serrated lesions ([[aga-2021-colonoscopy-quality]]). Adequacy as a measured quality indicator: [[colonoscopy-quality-indicators]].
 - The US Multi-Society Task Force on Colorectal Cancer (USMSTF) calls its 2025 statements **"Recommendations," not "Guidelines,"** and **numbers none of them**; strength is strong ("We recommend") or weak ("We suggest"), evidence high / moderate / low / very low.
 
 ---
@@ -288,3 +290,4 @@ Odds ratios (ORs) for an inadequate preparation:
 1. [[usmstf-2025-bowel-prep|Optimizing Bowel Preparation Quality for Colonoscopy: Consensus Recommendations by the US Multi-Society Task Force on Colorectal Cancer (2025)]]
 2. [[acg-2014-bowel-cleansing|Optimizing Adequacy of Bowel Cleansing for Colonoscopy: Recommendations from the US Multi-Society Task Force on Colorectal Cancer (2014)]]
 3. [[asge-2015-bowel-preparation|ASGE 2015: Bowel Preparation Before Colonoscopy]]
+4. [[aga-2021-colonoscopy-quality|AGA 2021 Clinical Practice Update on Strategies to Improve Quality of Screening and Surveillance Colonoscopy]]

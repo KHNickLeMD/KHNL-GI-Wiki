@@ -3,8 +3,8 @@ title: "Colorectal Cancer Screening"
 category: concept
 tags: [crc, colorectal-cancer, screening, colonoscopy, fit, gfobt, multitarget-stool-dna, septin-9, colonoscopy-quality, adenoma, colorectal]
 created: 2026-05-16
-updated: 2026-10-22
-sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-screening-risk-stratification, aga-2025-crc-blood-tests, aga-2021-crc-chemoprevention, aga-2022-noninvasive-crc-screening, usmstf-2016-fit-screening, aga-2020-young-adult-onset-crc]
+updated: 2026-10-30
+sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-screening-risk-stratification, aga-2025-crc-blood-tests, aga-2021-crc-chemoprevention, aga-2022-noninvasive-crc-screening, usmstf-2016-fit-screening, aga-2020-young-adult-onset-crc, usmstf-2025-bowel-prep]
 ---
 
 ## Contents
@@ -95,6 +95,7 @@ sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-sc
 - **MTsDNA interval:** USPSTF 1 y vs ACG/USMSTF 3 y — use **3 y**.
 - Flexible sigmoidoscopy: left colon only, less effective in women. CT colonography: needs prep, misses flat and sessile serrated lesions, extracolonic findings in 27%–69% ([[acg-2021-crc-screening]]).
 - FIT has replaced gFOBT (adherence, no diet restriction, fewer samples).
+- **An average-risk screening colonoscopy with an otherwise inadequate preparation but a well-visualized descending colon, sigmoid and rectum** (e.g. ascending or transverse colon inadequate) — reasonable to revisit screening options with the patient and the referring clinician. If the patient opts to treat the limited exam as a **flexible sigmoidoscopy** and prefers not to repeat the colonoscopy, **screen again by sigmoidoscopy or colonoscopy in 5 y**, or with a nonendoscopic test endorsed by USMSTF and USPSTF ([[usmstf-2025-bowel-prep]]). Repeat-colonoscopy intervals after an inadequate preparation: [[bowel-preparation]].
 
 ---
 
@@ -245,7 +246,7 @@ Colonoscopist metrics (ACG Recs 13–16, FIT-positive adenoma detection threshol
 
 ## See Also
 
-[[colonoscopy]], [[colorectal-cancer]], [[early-onset-colorectal-cancer]], [[lynch-syndrome]], [[polypectomy]], [[colonoscopy-surveillance]], [[familial-adenomatous-polyposis]], [[capsule-endoscopy]], [[serrated-polyposis-syndrome]], [[artificial-intelligence-endoscopy]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[obesity]], [[peptic-ulcer-disease]], [[upper-gi-bleeding]]
+[[colonoscopy]], [[colorectal-cancer]], [[early-onset-colorectal-cancer]], [[lynch-syndrome]], [[polypectomy]], [[colonoscopy-surveillance]], [[familial-adenomatous-polyposis]], [[capsule-endoscopy]], [[serrated-polyposis-syndrome]], [[artificial-intelligence-endoscopy]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[obesity]], [[peptic-ulcer-disease]], [[upper-gi-bleeding]], [[bowel-preparation]]
 
 ---
 
@@ -259,3 +260,4 @@ Colonoscopist metrics (ACG Recs 13–16, FIT-positive adenoma detection threshol
 6. [[aga-2022-noninvasive-crc-screening|AGA Clinical Practice Update on Approach to the Use of Noninvasive Colorectal Cancer Screening Options: Commentary (2022)]]
 7. [[usmstf-2016-fit-screening|USMSTF 2016 — Recommendations on Fecal Immunochemical Testing to Screen for Colorectal Neoplasia]]
 8. [[aga-2020-young-adult-onset-crc|AGA 2020 Clinical Practice Update: Young Adult–Onset Colorectal Cancer Diagnosis and Management]]
+9. [[usmstf-2025-bowel-prep|Optimizing Bowel Preparation Quality for Colonoscopy: Consensus Recommendations by the US Multi-Society Task Force on Colorectal Cancer]]

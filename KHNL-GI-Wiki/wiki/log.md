@@ -6,6 +6,80 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-30] lint | 06:00 pass — in progress
+
+**Entry opened before any other edit** (per LINT → *Record as you go*). Bullets added as each write lands.
+
+**Git hygiene:** `git pull --rebase` → already up to date; working tree clean at start. `raw/` holds **506** non-asset files, **identical to this morning's earlier pass** → no new inbox delivery; `git status --untracked-files=all -- raw/` returns nothing to commit.
+
+**Resume markers:** `grep -rl "ingest: partial" wiki/` → **0 source pages.** Nothing mid-ingest.
+
+**Daily source fetch — 2 of 2, both labels, both qualifying.** *Scores and classification instruments* screened first as the step requires: **all three rows are 🔒** (Eckardt 1992, WHO Blue Book 2019, Amodio 2013 ISHEN), so none was fetchable and the pass moved to the next section. Of the unmarked rows, the CDC Yellow Book / CDC parasite pages and the NIH/CDC/IDSA opportunistic-infections guidelines are **web documents outside the PMC and DailyMed buckets** the script is allowed to use, so they were skipped rather than scraped. The product-label rows are DailyMed-fetchable and two passed *What belongs* — a drug GI prescribes, with the dose or safety rule absent from every guideline:
+
+- **Trulance (plecanatide)** → `downloaded`, 293 KB, DailyMed Set ID `fe2895bf-71a6-493a-b0ca-e06b2dfefc82`. Qualifies because [[plecanatide]] says so in its own text: the three guidelines behind it print **no contraindication at all** and tell the reader to consult the label. Ingested this pass.
+- **Rebyota (fecal microbiota live-jslm)** → `downloaded`, 518 KB, DailyMed Set ID `7af8a7f6-a441-4dc6-a151-138a89166fbb`. Qualifies on [[fmt]]'s own line: [[aga-2024-fmt]] gives **no product dosing at all** and directs the reader to the manufacturer's package insert. Ingested this pass.
+- **Not fetched, and not for lack of trying to reach 2:** nothing else in the unmarked set passed. The **Vowst** row stays — same gap, separate document, next pass.
+
+**Download-list row deleted:** the Trulance row (its document is now ingested). The Rebyota/Vowst row was **narrowed to Vowst** rather than deleted — same gap, separate document. ⚠ A replacement **prucalopride (Motegrity) label row was drafted and then withdrawn** — [[aga-acg-2023-constipation]] already prints the renal adjustment (**1 mg daily if creatinine clearance <30 mL/min**), so the row fails *What belongs* on the "neither guideline nor wiki already prints what you act on" line. No row.
+
+**Ingest beyond the fetch: nothing qualified.** With both fetched labels ingested, `raw/` is again fully ingested. Still uningested and still correct: the **60 gated lectures/chalk talks** (never auto-ingested — reported, not taken; this pass is unattended, so they are reported and left) and `IANS 2024 Anal Cancer Screening Consensus.pdf` (6,417 bytes, a saved HTML page, not a real copy). Backlog mode stays **off**.
+
+**Coverage gap #44 built:** [[nsaid-enteropathy]] (~930 body words, ADDT, 7 sources, all read off the raw PDFs). Carries ACG 2025 Key concept 35's "ulcerations, erosions, and webs" morphology, ASGE 2014's "NSAID colopathy" diaphragm-like strictures (terminal ileum / right colon), and the corpus's only actionable rule — **discontinue NSAIDs 1–2 months before capsule endoscopy**. Therapeutics is withdrawal only, stated plainly: no ingested source gives a regimen, re-scope interval or dilation rule. Lewis score left owned by [[capsule-endoscopy]]. **Row #44 to be struck.** Three recorded defects fixed in the same pass: [[small-bowel-bleeding]] and [[meckels-diverticulum]] both aliased NSAID *small-bowel* ulcers to [[peptic-ulcer-disease]] (wrong entity) → repointed; [[crohns-disease]]'s unsupported "small-bowel diaphragms" → ACG 2025's own wording.
+
+⚠ **This pass hit its budget cap mid-flight.** Three parallel lint agents (unapplied-move backlog, [[portal-vein-thrombosis]] slim, stalest-page validation of [[surjanhata-2025-constipation-gastroparesis]] / [[asge-2023-post-ercp-pancreatitis]] / [[asge-2015-bowel-preparation]]) were dispatched and their edits are on disk but **their reports were not consolidated and their findings are not recorded here.** The next pass must re-verify those pages rather than assume the work landed complete.
+
+⚠ **Repo hygiene, reported not fixed:** nine tracked scratch files sit in the repo root — `.lint-pageslugs.txt`, `.lint-slugs.txt`, `.lint-source-titles.txt`, `.lint-sourceslugs.txt`, `.lint-updated.txt` (lint output dumps) and `.acg16.txt`, `.hcv.txt`, `.idsa.txt`, `.preg.txt` (`pdftotext` extractions of source PDFs). Both kinds are the on-disk lint artifacts LINT → *Lint reports are ephemeral* bans by name, and the PDF dumps are a live source-fidelity hazard given that `pdftotext` **substitutes** characters on ACG/LWW files. `git rm` was not approved this run; they remain for triage.
+
+**Health check — clean.** **737** pages. 0 unescaped alias pipes in tables (`grep -rnE '^\s*\|.*\[\[[^]]*[^\\]\|' wiki`), **0 orphan pages**, **0 broken links outside `log.md`**, 0 `.DS_Store`/OS artifacts, **0 stubs**, **0 `ingest: partial` markers**. The single grep hit for each of "Stub — to be expanded" and "ingest: partial" is `log.md` itself quoting them in prose, not a real page. ⚠ **Scanner bug found and fixed while running this:** the link scanner's target regex did not exclude the backslash in a pipe-escaped table alias (`[[slug\|Alias]]`), so it captured `slug\` and reported **~250 false broken links**. One-character fix (`rstrip`); the real count is 0. Any earlier pass that ran the unfixed scanner and reported broken links in table-heavy pages was reading the same artifact.
+
+---
+
+## [2026-10-30] ingest | TRULANCE (plecanatide) label — the obstruction contraindication the wiki had correctly refused to extrapolate
+
+**Source created:** [[trulance-2024-plecanatide-label]] — FDA prescribing information, rev. 3/2024, via DailyMed. Fetched by this pass's daily source fetch.
+
+**The gap it closes was one the page had declared itself.** [[plecanatide]]'s `## Contraindications` consisted of two blockquotes saying, correctly, that [[aga-acg-2023-constipation]] prints the mechanical-GI-obstruction contraindication for **[[linaclotide]] only**, that no ingested guideline states one for plecanatide, and that the reader should consult the label. The label states it directly, so the page now carries it **on plecanatide's own label's authority, not by class inference** — the distinction is kept explicit on the page.
+
+**Pages updated:**
+
+- [[plecanatide]] — new `## Use in Specific Populations`; `## Contraindications` rewritten from two "consult the label" notes into the two absolute contraindications; new `### Administration` subsection; `## Adverse Effects` gained the label's rate table. Added: the **boxed warning** and its two age bands (**contraindicated <6 y**, **avoid 6 to <18 y**, unestablished <18 y, **no pediatric indication at any age**), **no renal and no hepatic adjustment and no drug-interactions section at all**, the **severe-diarrhea rates with their timing** (1% IBS-C / 0.6% CIC, severe cases within the **first day** / **first 3 days** — so the counselling belongs at the first prescription, not at follow-up), the **suspend-and-rehydrate** rule, the missed-dose rule, and the **three tested crushed-tablet routes** as a table (applesauce · water · nasogastric/gastric tube, with swirl times and flush volumes; nothing else has been tested). Two callouts added: the avoid-vs-contraindicated age bands, and the 9 mg food effect.
+- **Contradiction surfaced:** the label's **1%** IBS-C severe-diarrhea rate against [[acg-2020-ibs]]'s **0%**. Different trial sets and ascertainment rather than a factual conflict; both figures are on the drug page, with the label's named as the one to quote when consenting.
+- **Cross-label difference recorded:** plecanatide's "avoid" band runs to **18 y**, [[ibsrela-2025-tenapanor-label|tenapanor]]'s to **12 y**. The labels genuinely differ and neither rests on clinical outcome data.
+
+**Index:** row added under `sources/`.
+
+**No Anki cards** — a product label is not a society guideline, CPU or consensus statement, so *Guideline-sourced cards only* excludes everything this source added. [[plecanatide]]'s card file is unchanged and is **not** stale in substance: every fact added this pass is label-sourced and therefore uncardable.
+
+---
+
+## [2026-10-30] ingest | REBYOTA (live-jslm) label — the rectal product's dose, technique and cold chain, none of which any guideline prints
+
+**Source created:** [[rebyota-2022-live-jslm-label]] — FDA prescribing information, rev. 11/2022, via DailyMed. Fetched by this pass's daily source fetch.
+
+**The gap it closes is stated on [[fmt]] in so many words:** "**FDA-approved products:** AGA gives **no dosing at all** and directs the reader to the **manufacturer's package insert**." That sentence has been on the page since the AGA 2024 ingest. The insert is now in `raw/`.
+
+**Pages updated:**
+
+- [[fmt]] — new `### RBL — product dosing and administration (label)` under the existing AGA-dosing subsection, deliberately placed so the guideline's "AGA specifies nothing" statement and the label's answer sit together. Added: the **single 150 mL rectal dose** and the **24–72 h post-antibiotic window**, the **Limitation of Use** (not indicated to *treat* CDI — only to prevent recurrence in adults ≥18 y), the single contraindication, the transmissible-agent and **food-allergen** warnings, the **8-week oral-antibiotic avoidance** counselling rule, the persistent-diarrhea reporting definition, the adverse-reaction rates, the specific-population statements, and the **cold chain** (ultracold −60 to −90 °C or 2–8 °C ≤5 days *including thaw time*; thaw ~24 h in a refrigerator, never with heat, never refreeze; administration set 10–34 °C and never frozen).
+- **Technique reached the page as a `[!howto]`, not as screenshots.** The label's Figures 1–10 are procedural illustrations rather than a decision algorithm, and every element is text-expressible, so they were recreated natively per Style Guide (*Tables: recreate, don't screenshot* — same logic): positioning, **12 cm (5 in) insertion angled toward the umbilicus**, **gravity flow only**, retain position **up to 15 min**. A `[!pitfall]` carries the three stated ways to lose the dose (tube sagging or looping, squeezing the bag, hanging it from an IV stand) and the label's note that residual product in the tube is **expected**.
+- **One existing line tightened:** the page gave the RBL schedule as "1–3 days after completing antimicrobials" from [[aga-2026-cdiff-ibd]]. The label's **24–72 hours** is the same window stated precisely; the AGA phrasing is kept with the label's figure beside it rather than overwritten, since the guideline remains the authority for *when in the course* and the label for *how*.
+- **Corroboration, not a new claim:** the **1×10⁸–5×10¹⁰ CFU/mL** per-dose content was already on the page second-hand through [[aga-2024-fmt]] quoting the insert. The insert confirms it verbatim, and adds >1×10⁵ CFU/mL *Bacteroides* and ≤5.97 g PEG 3350.
+
+**Contradictions and limits surfaced (three, all on the page):**
+
+- ⚠ **Efficacy splits by timepoint.** 8-week treatment success **70.6% vs 57.5%** (difference 13.1 points, 95% credible interval 2.3–24.0; posterior probability of superiority **0.991** against a pre-set 0.975) — but **6-month sustained clinical response 65.5% vs 56.5%, difference 9.1%, 95% CI −3.6% to 21.7%, not significant.** This is the **opposite pattern** to [[feuerstadt-2022-ser109-cdiff]]'s 88% vs 60% sustained response for the oral spore product. The two were **never compared head to head** and the page says so; neither result licenses a claim about the other product.
+- ⚠ **Label silence is not permission.** RBL's only contraindication is component allergy — it carries **no immunocompromise restriction**. [[aga-2024-fmt]] independently bars microbiota-based therapy in severe immunocompromise and allows only conventional FMT in mild/moderate. These are different instruments, not a conflict; the guideline governs patient selection and the wiki does not weaken it on the label's silence. Captured as a `[!pitfall]` because it is exactly the inference a reader would otherwise draw.
+- ⚠ **Mechanism of action is unestablished by the label's own statement**, and no nonclinical toxicology studies were conducted. Noted so no mechanistic account is later attributed to this source.
+- ⚠ **Trial population excludes the comorbidities most often asked about** — celiac disease, IBD, IBS and chronic diarrhea were excluded from both randomized studies, so the efficacy figures do not describe those patients. Stated beside the figures.
+
+**Index:** row added under `sources/`.
+
+**No Anki cards** — product label, so *Guideline-sourced cards only* excludes all of it. [[fmt]]'s card file will read as stale against the page's new `updated:` date; the staleness is cosmetic, exactly as on 2026-10-30's earlier card pass, because every fact added here is label-sourced and uncardable.
+
+**Download list:** the Rebyota row is **not deleted** — it reads "Rebyota / Vowst labels", and **Vowst is still outstanding**. Row narrowed to Vowst alone rather than removed.
+
+---
+
 ## [2026-10-30] update | card pass — one duplicate merged; no page eligible for new cards
 
 **Dedup first:** `anki-dupes.mjs` returned **1 unjudged pair** (0.43) — polyp-resection documentation requirements, carded twice.

@@ -58,7 +58,7 @@ Suitable as the **initial** investigation for:
 ### Terminal ileum
 
 - **Intubate the terminal ileum** during colonoscopy done for chronic diarrhea.
-- Differential for abnormal terminal ileal findings in acute or chronic diarrhea: [[crohns-disease|Crohn's disease]] · NSAID-induced enteropathy · carcinoid · tuberculosis · lymphoma · adenocarcinoma.
+- Differential for abnormal terminal ileal findings in acute or chronic diarrhea: [[crohns-disease|Crohn's disease]] · [[nsaid-enteropathy|NSAID-induced enteropathy]] · carcinoid · tuberculosis · lymphoma · adenocarcinoma.
 - **Yield of ileoscopy:** conclusive incidental diagnosis in 2.7% of asymptomatic patients scoped for polyp surveillance, rising to **18%** in patients with diarrhea (non-HIV).
 - **Where ileal biopsy earns its place:** inflammatory diarrhea; known or strongly suspected Crohn's disease; abnormal terminal ileum on imaging; endoscopically abnormal terminal ileal mucosa. In one report, microscopic ileal lesions were found in 125 (49%) of 257 patients with diarrhea and suspected IBD — biopsies were **essential** to the diagnosis in 15 (6%) and contributory in 53 (21%).
 - **Normal-appearing terminal ileum:** significant findings in only **0%–4.2%**; routine biopsy of normal-looking mucosa is controversial and probably low yield. The document does not settle the question.

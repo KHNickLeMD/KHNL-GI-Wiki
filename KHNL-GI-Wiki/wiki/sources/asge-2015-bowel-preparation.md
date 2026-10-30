@@ -3,7 +3,7 @@ title: "ASGE 2015: Bowel Preparation Before Colonoscopy"
 category: source
 tags: [bowel-prep, colonoscopy, split-dose, peg, bowel-cleansing, crc-screening, asge, historical]
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-10-30
 sources: []
 ---
 
@@ -108,7 +108,7 @@ All **9 recommendations, verbatim**, with GRADE quality of evidence as given. (T
 ## Relevance to Wiki
 
 - **[[colonoscopy]]** — the page's Bowel Preparation section already asserts the 2025 positions and should continue to. This source contributes only non-conflicting material: the **preparation-quality scales** (Aronchick / Ottawa / BBPS) and the **product-level preparation table**, which remain useful now that 2025 holds no single purgative superior and leaves agent selection to patient factors.
-- **[[acute-lower-gi-bleeding]]** — supports high-dose (6–8 L) PEG-ELS via NG tube as rapid preparation for urgent colonoscopy.
+- **[[acute-lower-gi-bleeding]]** — describes high-dose (6–8 L) PEG-ELS via NG tube as an effective rapid preparation for urgent colonoscopy. The newer [[acg-2023-lgib]] gives 4–6 L over 3–4 h and limits the NG route to when it is necessary, and governs that page.
 - **[[colonoscopy-surveillance]]** — corroborates repeat within 1 year after inadequate preparation, with a shorter interval when advanced neoplasia is found in an inadequately prepped colon; concordant with the 2025 12-month figure.
 - **[[inflammatory-bowel-disease]]** — PEG-ELS does not alter colonic mucosal histology and so may be used in suspected inflammatory bowel disease without compromising diagnosis or tissue analysis.
 - Historical anchor for the ASGE line of bowel-prep guidance alongside [[acg-2014-bowel-cleansing]]; both are superseded by the 2025 multi-society statement.

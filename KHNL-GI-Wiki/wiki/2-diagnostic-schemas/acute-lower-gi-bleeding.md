@@ -3,8 +3,8 @@ title: "Acute Lower Gastrointestinal Bleeding (LGIB)"
 category: diagnostic-schema
 tags: [lower-gi-bleeding, lgib, hematochezia, diverticular, colonoscopy, hemorrhage, cta, risk-stratification]
 created: 2026-05-15
-updated: 2026-10-22
-sources: [acg-2023-lgib, asge-2014-lgib, acg-2021-ugib]
+updated: 2026-10-30
+sources: [acg-2023-lgib, asge-2014-lgib, acg-2021-ugib, asge-2015-bowel-preparation]
 ---
 
 ## Contents
@@ -90,7 +90,7 @@ If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-
 | **[[inflammatory-bowel-disease\|Inflammatory bowel disease (IBD)]]** | [[crohns-disease]] or [[ulcerative-colitis]]; chronic course with diarrhea, tenesmus; may present acutely |
 | **Infectious colitis** | Fever, diarrhea, exposure history; stool cultures, [[clostridioides-difficile\|C. diff]] testing |
 | **[[radiation-proctopathy\|Radiation proctopathy]]** | History of pelvic radiation; rectal bleeding, telangiectasias on endoscopy; [[argon-plasma-coagulation\|argon plasma coagulation (APC)]] is the mainstay endoscopic therapy |
-| **Nonsteroidal anti-inflammatory drug (NSAID)-induced colitis / ulcers** | NSAID use history; ulcers especially in right colon and ileocecal region |
+| **[[nsaid-enteropathy\|Nonsteroidal anti-inflammatory drug (NSAID)-induced colitis / ulcers]]** | NSAID use history; ulcers especially in right colon and ileocecal region |
 
 ### Less Common / Rare
 
@@ -243,6 +243,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - Low-volume preparations (1 L same-day PEG) may be equivalent — emerging data
 - Unprepared colonoscopy and routine flexible sigmoidoscopy are NOT recommended unless anorectal source is confirmed
 - NG tube for prep administration: use only when necessary
+  - Older ASGE guidance called high-dose **6–8 L** PEG by NG tube an effective rapid preparation for acute LGIB ([[asge-2015-bowel-preparation]]); the 2023 ACG volume above (4–6 L over 3–4 h, NG route only when necessary) is the newer guideline and governs. Case reports describe severe, life-threatening adverse events including aspiration with NG instillation; prokinetics/antiemetics and avoiding over-rapid instillation improve tolerance ([[asge-2015-bowel-preparation]]).
 
 **Colonoscopy Technique:**
 
@@ -389,3 +390,4 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 1. [[acg-2023-lgib|ACG 2023: Management of Patients With Acute Lower Gastrointestinal Bleeding]]
 2. [[asge-2014-lgib|ASGE 2014: Role of Endoscopy in the Patient with Lower GI Bleeding]]
 3. [[acg-2021-ugib|ACG 2021: Upper Gastrointestinal and Ulcer Bleeding]]
+4. [[asge-2015-bowel-preparation|ASGE 2015: Bowel Preparation Before Colonoscopy]]

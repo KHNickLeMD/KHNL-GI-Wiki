@@ -33,7 +33,7 @@ It is the **newest** tier-1 source on this topic in the wiki — it postdates an
 - Small-bowel sources = only **5%** of all GI bleeding.
 - **Angiectasias: 20%–30%** of small-bowel bleeding; more common in older patients.
 - Small-bowel tumours ([[gastrointestinal-stromal-tumor|GI stromal tumours]], [[gastroenteropancreatic-neuroendocrine-tumors|carcinoid]], lymphoma, adenocarcinoma) — younger and older patients alike.
-- Other benign: nonsteroidal anti-inflammatory drug (NSAID) erosions/ulcers, [[crohns-disease|Crohn's disease]].
+- Other benign: [[nsaid-enteropathy|nonsteroidal anti-inflammatory drug (NSAID) erosions/ulcers]], [[crohns-disease|Crohn's disease]].
 - Rare: [[meckels-diverticulum|Meckel's diverticulum]]-associated ulceration (especially younger patients), radiation enteropathy, Dieulafoy's lesions, small-bowel varices, aortoenteric fistulas.
 
 ### Timing and triage

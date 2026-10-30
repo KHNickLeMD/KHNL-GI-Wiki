@@ -110,7 +110,7 @@ Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is f
 - SBB = ~5–10% of all GI bleeding presentations.
 - Most common cause overall: angioectasia. Across 10 studies the prevalence of **small-bowel vascular lesions was 24%** on both VCE (N=371) and DBE (N=364); **inflammatory findings 18%** (VCE) / **16%** (DBE); **mass lesions 11%**.
 - Geographic difference: DBE in Asian countries more often finds **neoplastic** lesions; angioectasia is more common in Western countries.
-- Under age 40: IBD and Meckel's diverticulum predominate; over age 40: angioectasia and NSAID ulcers.
+- Under age 40: IBD and Meckel's diverticulum predominate; over age 40: angioectasia and [[nsaid-enteropathy|NSAID ulcers]].
 - [[heydes-syndrome|Heyde's syndrome]]: aortic stenosis + angioectasia, mediated by acquired type 2 von Willebrand deficiency; aortic valve replacement may resolve bleeding.
 - Left ventricular assist device (LVAD)-associated von Willebrand deficiency causes recurrent angioectasia bleeding.
 

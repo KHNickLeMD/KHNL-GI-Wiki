@@ -3,11 +3,9 @@ title: "ASGE Guideline: Post-ERCP Pancreatitis Prevention (2023)"
 category: source
 tags: [ercp, post-ercp-pancreatitis, pep, rectal-nsaid, pancreatic-stent, wire-guided-cannulation, hydration, guideline, asge]
 created: 2026-06-04
-updated: 2026-07-09
+updated: 2026-10-30
 sources: []
 ---
-
-# ASGE Guideline: Post-ERCP Pancreatitis Prevention (2023)
 
 ## Bibliographic Info
 
@@ -25,7 +23,7 @@ sources: []
 
 First American Society for Gastrointestinal Endoscopy (ASGE) guideline dedicated to preventing **post–endoscopic retrograde cholangiopancreatography (ERCP) pancreatitis (PEP)** — the most feared and most frequent serious adverse event of [[ercp]], occurring in ~8% of average-risk and ~15% of high-risk procedures, with mortality in ~1 in 500 patients. Using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework, the panel answered five clinical questions covering four interventions across the periprocedural timeline: **rectal nonsteroidal anti-inflammatory drugs (NSAIDs)** (pre-procedure, all patients), **wire-guided cannulation** (intra-procedure), **prophylactic pancreatic-duct (PD) stents** (intra-procedure, high-risk), and **aggressive periprocedural hydration** (post-procedure).
 
-Two strong recommendations (rectal NSAIDs in unselected and high-risk patients; PD stents when the PD is repeatedly/deeply accessed) and three conditional ones (wire-guided cannulation; PD stents when access is easily achievable; aggressive hydration). All are backed by moderate-quality evidence. A recurring theme is the **underuse** of these proven measures in North American practice — PD stents are placed in <10% of high-risk patients — even as PEP incidence and PEP-related mortality have not fallen.
+Three strong recommendations (rectal NSAIDs in unselected patients; rectal NSAIDs in high-risk patients; PD stents when the PD is repeatedly/deeply accessed or after ampullectomy) and three conditional ones (wire-guided cannulation; PD stents when access is easily achievable; aggressive hydration). All are backed by moderate-quality evidence. A recurring theme is the **underuse** of these proven measures in North American practice — PD stents are placed in <10% of high-risk patients — even as PEP incidence and PEP-related mortality have not fallen.
 
 ---
 
@@ -40,20 +38,31 @@ Two strong recommendations (rectal NSAIDs in unselected and high-risk patients; 
 4b. **Otherwise, in high-risk groups (difficult cannulation, history of PEP, or precut sphincterotomy without fistulotomy technique), the ASGE suggests PD stent placement as long as PD access can be easily achieved** (Conditional / Moderate).
 5. **In unselected patients undergoing ERCP, the ASGE suggests aggressive periprocedural and postprocedural IV [intravenous] hydration to prevent PEP** (Conditional / Moderate).
 
+**What counts as "high risk" (the condition three of the recommendations turn on):**
+
+- The guideline **does not issue a standardized definition of high-, intermediate-, or low-risk populations** — producing consensus definitions is listed as an unmet research need. In the meta-analyses, "high risk" was whatever the trial authors called high risk, based on baseline characteristics and events during the procedure.
+- Features the document names as risk predictors or high-risk situations:
+  - **Procedural:** difficult, prolonged, and/or traumatic cannulation — particularly **repeated PD injection or deep guidewire access** (called the leading risk factor); **precut sphincterotomy without fistulotomy technique**; **ampullectomy**.
+  - **Patient:** **history of PEP**; **female sex**, **age <40 years**, **normal bilirubin** (predictors whose weight is less clear now that sphincter of Oddi dysfunction [SOD] is recognized as a suboptimal ERCP indication).
+  - Fully covered self-expanding metal stents have been associated with PEP and need further study.
+- **Unselected** = all patients presenting for ERCP without selection by risk factor. The guideline notes an "unselected" population containing scheduled stent exchanges is substantially lower risk than one with native papillae.
+
 **Summary of evidence (pooled effects):**
 
 - **Rectal NSAIDs, unselected patients** — 18 randomized controlled trials (RCTs), 4817 patients. PEP odds roughly halved (odds ratio [OR] 0.49; 95% confidence interval [CI] 0.37-0.65). Trend toward less moderately-severe/severe PEP (OR 0.47; 0.21-1.06), not significant. No excess renal failure or postsphincterotomy bleeding. Cost-effective (incremental cost-effectiveness ratio [ICER] ~$33,812/quality-adjusted life-year [QALY]); modeled to remain cost-effective up to ~$1134/suppository despite the wholesale price of rectal indomethacin rising from $2 to $340 (2005→2019).
 - **Rectal NSAIDs, high-risk patients** — 10 RCTs, 1008 patients. OR 0.49 (0.30-0.83), a 50% relative reduction. Trend toward less moderate/severe PEP (OR 0.53; 0.27-1.05). No excess renal failure or bleeding.
 - **Wire-guided vs contrast-guided cannulation** — updated Cochrane meta-analysis (Tse et al), 15 RCTs, 4426 patients. PEP reduced (relative risk [RR] 0.50; 0.31-0.72) with no increase in bleeding or perforation. Benefit was seen in trials that did **not** permit PD stents (RR 0.24) but not in trials that allowed stents (RR 0.78) — i.e., cannulation technique matters most before a stent is in play. Greatest benefit when the wire is used to *confirm* catheter position once the cannulatome is already seated in a duct (RR 0.29) rather than advancing the wire ahead to negotiate access (RR 0.66, not significant).
-- **Prophylactic PD stents, high-risk patients** — 17 RCTs, 1595 patients. Overall PEP reduced 65% (OR 0.35; 0.26-0.46). Uniquely among the interventions, stents also reduced **moderate** (OR 0.38) and **severe** (OR 0.20) PEP. Severe PEP: 1% (13/1303) no-stent vs 0/1292 stent. Technical success 97%. Cost-effective (ICER ~$9,316-11,766/QALY).
+- **Prophylactic PD stents, high-risk patients** — 17 RCTs, 1595 patients. Overall PEP reduced 65% (OR 0.35; 0.26-0.46). Uniquely among the interventions, stents also reduced **moderate** (OR 0.38; 0.23-0.63) and **severe** (OR 0.20; 0.06-0.65) PEP. Severe PEP: 1% (13/1303) no-stent vs 0/1292 stent. Technical success 97%. No excess bleeding, infection, or perforation. Cost-effective (ICER ~$9,316-11,766/QALY).
+  - Benefit held when high-SOD populations were excluded (OR 0.37; 0.27-0.49), and held **both** when the stent was placed as a final added step of the ERCP (OR 0.41; 0.25-0.67) **and** when placed only after the PD had already been accessed with the wire (OR 0.31; 0.18-0.53).
+  - Most trials used **short 5F** stents; a prior network meta-analysis favored 5F over longer 3F. Premature stent migration raises PEP risk, so confirm migration on follow-up imaging.
 - **Aggressive hydration, unselected patients** — 12 RCTs, 3524 patients. PEP reduced (OR 0.47; 0.34-0.66) vs moderate hydration, with no excess volume overload (OR 1.14; 0.49-2.67). Trend toward less moderately-severe/severe PEP (OR 0.60; 0.34-1.08). Cost-effective in high-risk (ICER ~$28,002/QALY) but **not** unselected (ICER ~$139,004/QALY) patients, given the assumed extra inpatient day. The FLUYT trial found no added PEP reduction when aggressive hydration was layered on NSAIDs (trend toward less severe PEP only).
 
-**Practical execution pearls (from Table 1 "General concepts"):**
+**Practical execution (Table 1 "General concepts", plus the per-question discussion):**
 
 - **Rectal NSAIDs** — use **indomethacin 100 mg** (or diclofenac 100 mg) in adults; give **>30 min before or during** the procedure (timing 90 min pre → recovery room did not change efficacy). Pediatric dosing per pediatrician. **Avoid** with recent peptic ulcer disease, renal insufficiency (creatinine >1.4), or aspirin/NSAID allergy. Oral/IV routes are **not** reliably effective — the rectal route is what the evidence supports.
 - **Wire-guided cannulation** — cannulate, then advance the wire; an experienced operator should manipulate the wire; avoid forceful or repeated wire advancement into the PD (side-branch perforation risk).
 - **PD stent** — use a **3F-5F stent (preferably 5F)** without internal flange, 3-7 cm long; if the wire cannot pass beyond the head, a short 2-3 cm stent may be used; obtain an **abdominal x-ray** to confirm spontaneous migration and **remove in 2-4 weeks** if retained. Imaging can be skipped if a follow-up ERCP is already planned.
-- **Aggressive hydration** — **lactated Ringer's (LR)**, periprocedural bolus **20 mL/kg** then **3 mL/kg/h for 8 h**. Most feasible for inpatients; a shorter, higher-rate 2-3 h protocol (Brown et al) may suit outpatients but is less well studied. **Avoid** in congestive heart failure, renal insufficiency, or advanced liver disease.
+- **Aggressive hydration** — **lactated Ringer's (LR)**, periprocedural bolus **20 mL/kg** then **3 mL/kg/h for 8 h**; may be started **preprocedure or intraprocedure**. Most feasible for inpatients, who are already in-house rather than held 8 h in the endoscopy unit; a shorter, higher-rate 2-3 h protocol (Brown et al) may suit outpatients but is not adequately studied. **Avoid** in congestive heart failure, renal insufficiency, or advanced liver disease.
 
 **Future directions flagged by the panel:** single-dose NSAID safety in currently excluded groups (peptic ulcer disease, renal insufficiency, prior pancreatitis) and true low-risk patients; NSAID mechanism/route; head-to-head of the two wire-cannulation techniques; timing/indications for PD stents (place regardless of prior PD access vs only after inadvertent access); shorter high-feasibility hydration protocols; combination vs single-agent prophylaxis (large ongoing NSAID ± stent trial); standardized high/intermediate/low-risk definitions; and a validated personalized PEP risk calculator.
 
@@ -64,7 +73,7 @@ Two strong recommendations (rectal NSAIDs in unselected and high-risk patients; 
 - **Directly governs PEP prophylaxis for [[ercp]]** — the four pillars: rectal indomethacin/diclofenac 100 mg for **all** comers, wire-guided cannulation, 5F PD stent for high-risk (especially after repeated/deep PD access or ampullectomy), and LR-based aggressive hydration. Supersedes the PEP-prophylaxis fragments in [[asge-2015-benign-pancreatic-disease]] and [[asge-2015-ercp-benign-biliary]].
 - **Reinforces the "difficult cannulation" risk pathway** — repeated/deep guidewire PD access is a leading modifiable PEP risk factor, which is why 4a is a *strong* stent recommendation.
 - **Hydration principle parallels [[acute-pancreatitis]]** — LR preferred over normal saline, mirroring early goal-directed fluid management in acute pancreatitis (AP) (and the moderation signal from the WATERFALL trial for established AP — aggressive resuscitation for *prevention* differs from *treatment* of established pancreatitis).
-- Cross-links [[endoscopic-ultrasound]] where endoscopic ultrasound (EUS) substitutes for diagnostic ERCP to avoid PEP risk entirely.
+- **Defines the PEP risk that drives indication-setting on [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]** — the baseline PEP rates (~8% average-risk, ~15% high-risk) are the figure weighed against a non-ERCP diagnostic route.
 
 ---
 
@@ -74,7 +83,8 @@ Two strong recommendations (rectal NSAIDs in unselected and high-risk patients; 
 - **Additivity of interventions:** FLUYT showed no incremental PEP reduction from aggressive hydration added to NSAIDs; whether NSAIDs + PD stent beats NSAIDs alone is being tested in a large ongoing RCT. The panel could not confirm combination benefit.
 - **When to place a PD stent:** debate persists over placing a stent regardless of prior PD access vs only after the PD has already been accessed — seeking out the PD purely to stent may itself provoke PEP.
 - **Underuse gap:** despite strong evidence, PD stents are used in <10% of high-risk patients and PEP incidence/mortality have not declined — an implementation problem the guideline explicitly calls out.
-- **Evolving "high-risk" definition:** older stent trials used risk definitions (heavily weighted to sphincter of Oddi dysfunction [SOD]) that predate current practice, where SOD is now recognized as a suboptimal ERCP indication (post-EPISOD).
+- **Evolving "high-risk" definition:** the contemporary definition differs from the one used in early pancreatic-stent trials and continues to evolve; SOD was the predominant indication in several of the larger NSAID trials that showed benefit, and SOD is now recognized as a suboptimal ERCP indication. No standardized high-, intermediate-, or low-risk definitions exist, and the panel calls for them.
+- **Pediatrics:** the benefit of prophylactic pancreatic stents in children is unclear and needs prospective study; pediatric NSAID dosing is left to the pediatrician.
 
 ---
 

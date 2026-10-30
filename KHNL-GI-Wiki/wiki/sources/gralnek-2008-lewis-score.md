@@ -93,7 +93,7 @@ and the stenosis score is **(number × ulcerated × traversed)**.
 - **[[capsule-endoscopy]]** — the page named the score's three parameters but stated that its **per-parameter point values and score bands "are not printed in ACG 2025, … so the score cannot be computed or interpreted from this page."** Table 1, the formula, the bands and the definitions now reach it.
 - **[[crohns-disease]]** — the score quantifies small-bowel inflammatory burden; most derivation studies were Crohn's.
 - **[[ibd-endoscopic-scoring]]** — the concept page for endoscopic activity indices in inflammatory bowel disease.
-- NSAID enteropathy — 12 of the 44 derivation studies; the score was explicitly built to cover NSAID injury as well as Crohn's. **No wiki page covers NSAID enteropathy yet.**
+- [[nsaid-enteropathy|NSAID enteropathy]] — 12 of the 44 derivation studies; the score was explicitly built to cover NSAID injury as well as Crohn's.
 
 ---
 

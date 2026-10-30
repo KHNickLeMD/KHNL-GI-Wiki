@@ -3,8 +3,8 @@ title: "Sedation and Anesthesia in GI Endoscopy"
 category: concept
 tags: [sedation, anesthesia, propofol, moderate-sedation, deep-sedation, capnography, asa-class, npo, reversal-agents, endoscopy, glp-1]
 created: 2026-06-27
-updated: 2026-10-25
-sources: [asge-acg-2024-common-endoscopy-quality-indicators, asge-2018-sedation, aga-2024-glp1-endoscopy, aga-acg-asge-aasld-2012-sedation-curriculum]
+updated: 2026-10-30
+sources: [asge-acg-2024-common-endoscopy-quality-indicators, asge-2018-sedation, aga-2024-glp1-endoscopy, aga-acg-asge-aasld-2012-sedation-curriculum, usmstf-2025-bowel-prep]
 ---
 
 Framework for procedural sedation across the full continuum used in gastrointestinal (GI) endoscopy — from anxiolysis to general anesthesia — including patient selection (American Society of Anesthesiologists [ASA] class), agents, monitoring, nil per os (NPO)/aspiration risk, and reversal. Per [[asge-2018-sedation]].
@@ -104,6 +104,8 @@ Airway management may also be difficult with:
 - ASA defaults cited by the American Society for Gastrointestinal Endoscopy (ASGE): **≥2 h after clear liquids, ≥6 h after a light meal**.
 - *Note the discrepancy:* [[aga-2024-glp1-endoscopy|American Gastroenterological Association (AGA) 2024]] describes the standard perioperative fast as **8 h solids / 2 h liquids** — solids differ (6 h vs 8 h), clear liquids agree at 2 h.
 - **The full ASA set** ([[asge-acg-2024-common-endoscopy-quality-indicators]]): clear liquids **2 h** · milk **6 h** · light meal **6 h** · **meal with fried or fatty food 8 h** — which reconciles the apparent 6-vs-8-hour conflict above, since the two documents are describing different meals. **[[gastroparesis|Gastroparesis]], [[achalasia|achalasia]] and bowel obstruction may require a longer fast.**
+- **What the 2023 ASA guidance allows in *healthy patients*:** clear liquids — **including up to 400 mL of clear liquids containing simple or complex carbohydrates — up to 2 h before** anesthesia or procedural sedation ([[usmstf-2025-bowel-prep]]).
+- ⚠ **"Healthy patients" is a defined term, and the exclusion list is long.** The ASA definition excludes anyone with a coexisting disease or condition that may raise aspiration risk: significant uncontrolled reflux, [[hiatal-hernia|hiatal hernia]], Zenker diverticulum, achalasia, stricture, previous gastric surgery (e.g. gastric bypass), gastroparesis, DM, opioid use, gastrointestinal obstruction or acute intraabdominal processes, pregnancy, obesity, and emergency procedures — **use clinical judgement in anyone meeting any of these criteria** ([[usmstf-2025-bowel-prep]]).
 - **The bowel preparation is not a fasting violation.** Prospective studies found **minimal residual gastric fluid (<25 mL)** before colonoscopy, whether the prep was **split** or taken **entirely the evening before**. Essential medications may likewise be taken, anticoagulation possibly excepted. ([[asge-acg-2024-common-endoscopy-quality-indicators]])
 - Documenting the sedation plan, the monitoring and any sedation-related interruption are each **measured quality indicators** — see [[endoscopy-quality-indicators]].
 - [[gastroparesis|Impaired gastric emptying]] or emergency → weigh aspiration risk when choosing (1) the target depth of sedation, (2) whether to delay the procedure, and (3) whether to protect the airway with endotracheal intubation; use a team approach.
@@ -292,7 +294,7 @@ Grading of Recommendations Assessment, Development and Evaluation (GRADE) eviden
 | 8 | **Suggest** propofol-based sedation (endoscopist-directed or anesthesia-provider administered) when it is expected to improve safety, comfort, procedural efficiency, and/or successful completion | ⊕⊕⊖⊖ |
 
 ## See Also
-[[upper-endoscopy]], [[colonoscopy]], [[ercp]], [[endoscopic-ultrasound]], [[device-assisted-enteroscopy]], [[antibiotic-prophylaxis-endoscopy]], [[preprocedure-testing]], [[endoscopy-ergonomics]], [[glp-1-receptor-agonists]], [[semaglutide]]
+[[upper-endoscopy]], [[colonoscopy]], [[ercp]], [[endoscopic-ultrasound]], [[device-assisted-enteroscopy]], [[antibiotic-prophylaxis-endoscopy]], [[preprocedure-testing]], [[endoscopy-ergonomics]], [[glp-1-receptor-agonists]], [[semaglutide]], [[bowel-preparation]], [[hiatal-hernia]]
 
 ---
 
@@ -302,3 +304,4 @@ Grading of Recommendations Assessment, Development and Evaluation (GRADE) eviden
 2. [[aga-2024-glp1-endoscopy|AGA 2024 Rapid Clinical Practice Update: Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy]]
 3. [[aga-acg-asge-aasld-2012-sedation-curriculum|Multisociety Sedation Curriculum for Gastrointestinal Endoscopy (AASLD/ACG/AGA/ASGE/SGNA, 2012)]]
 4. [[asge-acg-2024-common-endoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators Common to All GI Endoscopic Procedures]]
+5. [[usmstf-2025-bowel-prep|Optimizing Bowel Preparation Quality for Colonoscopy: Consensus Recommendations by the US Multi-Society Task Force on Colorectal Cancer]]

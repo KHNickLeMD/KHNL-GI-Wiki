@@ -120,7 +120,7 @@ GRADE terminology used by the document: a **strong** recommendation is made when
 
 **Disease modifiers**
 
-35. NSAIDs [nonsteroidal anti-inflammatory drugs] may exacerbate disease activity; routine use should be viewed with caution.
+35. NSAIDs [nonsteroidal anti-inflammatory drugs] may exacerbate disease activity; routine use should be viewed with caution. *(See [[nsaid-enteropathy]].)*
 36. Cigarette smoking exacerbates disease activity and accelerates disease recurrence. Active smokers should be counseled regarding smoking cessation.
 37. Assessment and management of stress, depression, and anxiety is recommended as part of comprehensive care because of increased risks of disease activity and health care utilization.
 

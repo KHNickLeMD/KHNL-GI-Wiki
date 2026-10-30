@@ -3,7 +3,7 @@ title: "Small Bowel Bleeding"
 category: diagnostic-schema
 tags: [small-bowel, gi-bleeding, obscure-gi-bleeding, mid-gi-bleeding, capsule-endoscopy, deep-enteroscopy, angioectasia, vce, dbe, iron-deficiency-anemia]
 created: 2026-05-19
-updated: 2026-09-06
+updated: 2026-10-30
 sources: [acg-2015-small-bowel-bleeding, aga-2020-ida, asge-2017-small-bowel-bleeding]
 ---
 
@@ -72,7 +72,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 | [[inflammatory-bowel-disease\|Inflammatory bowel disease]] ([[crohns-disease]]) | [[angioectasia\|Angioectasia]] | Henoch-Schönlein purpura |
 | Dieulafoy's lesions | Dieulafoy's lesions | Amyloidosis |
 | Neoplasia | Neoplasia | Blue rubber bleb nevus syndrome |
-| [[meckels-diverticulum]] | [[peptic-ulcer-disease\|nonsteroidal anti-inflammatory drug (NSAID) ulcers]] | Pseudoxanthoma elasticum |
+| [[meckels-diverticulum]] | [[nsaid-enteropathy\|nonsteroidal anti-inflammatory drug (NSAID) ulcers]] | Pseudoxanthoma elasticum |
 | Polyposis syndromes ([[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]]) | | [[hereditary-hemorrhagic-telangiectasia\|Osler-Weber-Rendu syndrome (HHT)]] |
 | | | Kaposi's sarcoma (AIDS) |
 | | | Plummer-Vinson syndrome |
@@ -92,7 +92,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 ### Inflammatory
 
 - [[crohns-disease]]: Small bowel (SB) Crohn's is a major cause in younger patients; computed tomography (CT) enterography (CTE) preferred before VCE if inflammatory bowel disease (IBD) suspected (risk of capsule retention).
-- NSAID ulcers: Major cause in older patients on NSAIDs/aspirin.
+- [[nsaid-enteropathy|NSAID ulcers]]: Major cause in older patients on NSAIDs/aspirin.
 
 ### Neoplastic
 
@@ -284,7 +284,7 @@ If bleeding persists or recurs and lesion cannot be localized: *(Strong/Moderate
 
 ## See Also
 
-[[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[angioectasia]], [[meckels-diverticulum]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[subepithelial-lesion]], [[celiac-disease]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[upper-endoscopy]], [[colonoscopy]], [[peptic-ulcer-disease]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[argon-plasma-coagulation]], [[endoscopic-hemostasis]], [[somatostatin-analogs]], [[anticoagulation-gi-bleeding]], [[iron-deficiency-anemia]]
+[[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[nsaid-enteropathy]], [[angioectasia]], [[meckels-diverticulum]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[subepithelial-lesion]], [[celiac-disease]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[upper-endoscopy]], [[colonoscopy]], [[peptic-ulcer-disease]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[argon-plasma-coagulation]], [[endoscopic-hemostasis]], [[somatostatin-analogs]], [[anticoagulation-gi-bleeding]], [[iron-deficiency-anemia]]
 
 ---
 

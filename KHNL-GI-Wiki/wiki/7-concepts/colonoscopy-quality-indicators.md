@@ -92,6 +92,7 @@ Indicators 4, 6, 7 and 8 share one denominator — **patients aged ≥45 y havin
 - **Adequate = Boston Bowel Preparation Scale (BBPS) total ≥6 *and* every segment score ≥2.** Both halves are required — a total of 6 built on a segment scoring 0 or 1 is not adequate. The 2024 indicator also accepts a preparation described as **excellent, good or adequate**.
 - **Grade adequacy only after all washing and suctioning are complete** (strong, low) — grading before cleansing measures the purgative, not the examination ([[acg-2014-bowel-cleansing]]).
 - **Measure the rate routinely** (strong, moderate). **Below the benchmark → undertake an improvement initiative** — explicit, not implied. **Submit procedure reports to a data registry** that benchmarks against minimally accepted thresholds and against peer means.
+- **Colonoscopies cancelled for presumed inadequate preparation — i.e. before colonoscope insertion — must be counted** in both the unit-level and the endoscopist-level adequacy rate, and in the denominator ([[usmstf-2025-bowel-prep]]).
 - ⚠ **The benchmark and the level it is measured at both changed.** USMSTF 2014 set **≥85% of all examinations, per physician**; [[usmstf-2025-bowel-prep|USMSTF 2025]] sets **≥90% at the individual endoscopist *and* the endoscopy-unit level**, which is what the table above follows. Auditing against the older benchmark passes at a rate the current documents call inadequate.
 - Scale anchors, preparation regimens, salvage maneuvers and patient-instruction practices: [[bowel-preparation]].
 

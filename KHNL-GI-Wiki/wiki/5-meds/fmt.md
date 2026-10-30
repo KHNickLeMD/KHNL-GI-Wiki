@@ -4,7 +4,7 @@ category: med
 tags: [fmt, microbiome, cdiff, recurrent-cdi]
 created: 2026-07-26
 updated: 2026-10-30
-sources: [aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, acg-2021-cdiff, feuerstadt-2022-ser109-cdiff]
+sources: [aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, acg-2021-cdiff, feuerstadt-2022-ser109-cdiff, rebyota-2022-live-jslm-label]
 ---
 
 ## Overview
@@ -49,7 +49,7 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 - Stop CDI antibiotics **1–3 days before conventional FMT** for washout: **1 day** if a bowel purge is given, **3 days** if not. Rapid recurrence within 1–2 days of stopping antibiotics is a risk when setting the window.
 - Screened donor stool required; **no specific delivery route is recommended** (insufficient evidence to favor one).
 - **Administration schedule for the two FDA-approved products** ([[aga-2026-cdiff-ibd|AGA 2026, CDI in IBD]]) — the only schedules any ingested guideline prints:
-  - **RBL** — a broad consortium given as a **single-dose rectal enema, 1–3 days after completing antimicrobials**.
+  - **RBL** — a broad consortium given as a **single-dose rectal enema, 1–3 days after completing antimicrobials**. Its label narrows this to **24–72 hours after the last antibiotic dose** ([[rebyota-2022-live-jslm-label]]); see [[#RBL — product dosing and administration (label)]].
   - **VOS** — an encapsulated selective group of *Firmicutes* spores, **4 capsules once daily for 3 consecutive days, started 2–4 days after antimicrobials and after a bowel lavage**.
   - Both prevent recurrence rather than treat active infection, so both follow the antibiotic course and its washout.
 - **Product choice when the patient has [[inflammatory-bowel-disease|IBD]]:** RBL has IBD-specific data (phase 3 open-label study including 74 patients with IBD — **treatment success 78.9% at 8 weeks**, **sustained clinical response 91.1% at 6 months**, comparable with non-IBD participants); **there are no VOS data in CDI with IBD**, but either product is reasonable on mild-to-moderate immunocompromising medications given the similar mechanism and response. RBL and VOS are now the main routes to microbiota restoration because major United States stool banks no longer supply specimens.
@@ -81,7 +81,38 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 
 - **Conventional FMT:** no dose, volume, or route is specified — the guideline states there is **insufficient evidence to recommend a specific route**.
 - **FDA-approved products:** AGA gives **no dosing at all** and directs the reader to the **manufacturer's package insert** for fecal microbiota spores live-brpk and fecal microbiota live-jslm. The only quantitative statement in the guideline is descriptive: per its package insert, each **150-mL dose of fecal microbiota live-jslm contains 1×10⁸–5×10¹⁰ CFU/mL**, a microbial content **less than that in 1 g of stool**, whereas all published conventional-FMT studies used far greater dosing.
-- Product dosing is absent from the 2024 guideline; the **administration schedules above** come from [[aga-2026-cdiff-ibd|AGA 2026]], and the per-dose microbial content from the package insert.
+- Product dosing is absent from the 2024 guideline; the **administration schedules above** come from [[aga-2026-cdiff-ibd|AGA 2026]], and the per-dose microbial content from the package insert — now ingested for RBL as [[rebyota-2022-live-jslm-label]].
+
+### RBL — product dosing and administration (label)
+
+From [[rebyota-2022-live-jslm-label]]. **Indication is narrower than "FMT"**: prevention of recurrence in adults **≥18 y following antibiotic treatment for recurrent CDI**, with an explicit Limitation of Use — **not indicated to treat CDI**.
+
+- **Single 150 mL dose, rectal only**, given **24–72 hours after the last CDI antibiotic dose**.
+- **Only contraindication: history of severe allergic reaction (e.g. anaphylaxis) to a product component.** Have treatment for anaphylaxis immediately available.
+- Made from human fecal matter → may transmit infectious agents, and **may contain food allergens** (donors have no dietary restrictions; the risk is unknown). Tell the patient both.
+- **Avoid oral antibiotics for up to 8 weeks afterwards** unless specifically directed.
+- Counsel the patient to report returning **persistent diarrhea — ≥3 loose stools in 24 h for 2 consecutive days**.
+- Each dose: **1×10⁸–5×10¹⁰ CFU/mL** (>1×10⁵ CFU/mL *Bacteroides*) in PEG 3350 and saline, **≤5.97 g PEG 3350**. **Mechanism of action is not established**, by the label's own statement.
+
+> [!howto] Giving an RBL enema
+> 1. Thaw in a **refrigerator (2–8 °C) over ~24 h** — never with heat; do not refreeze. Usable **≤5 days refrigerated, thaw time included**.
+> 2. Patient empties bladder and bowel; position **left side or knee-chest** on an underpad.
+> 3. Close the pinch clamp fully, then spike the bag. **Do not** bleed air from the tubing — product is lost.
+> 4. Lubricate and insert **~12 cm (5 in)**, angled slightly **toward the umbilicus**.
+> 5. Hold the tube steady, open the clamp, **raise the bag — gravity flow only**.
+> 6. Clamp, withdraw slowly, then keep the position **up to 15 min**. Restroom use is unrestricted.
+
+> [!pitfall] Three ways to lose the dose
+> **Do not** let the tube sag or loop (the full dose will not run in), **do not** squeeze the bag (painful), and **do not** hang it from an IV stand. Some product always remains in the tube — that is expected, not an incomplete dose ([[rebyota-2022-live-jslm-label]]).
+
+- **Storage:** ultracold freezer **−60 °C to −90 °C**, or refrigerator **2–8 °C for up to 5 days including thaw time**. The **administration set** is stored at **10–34 °C and never frozen**.
+- **Adverse reactions** (8 weeks, vs placebo): abdominal pain 8.9% vs 6.9%, diarrhea 7.2% vs 3.4%, distension 3.9% vs 2.3%, flatulence 3.3% vs 0, nausea 3.3% vs 1.1% — **mostly in the first 2 weeks**, mild to moderate, none life-threatening. Serious adverse events 10.1% vs 7.2% at 6 months, **none judged related**.
+- **Not established under 18 y.** Not absorbed systemically, so pregnancy and lactation exposure is not expected. Nearly half of recipients were ≥65 y, but the data cannot say whether they respond differently.
+
+> **Efficacy is proven at 8 weeks and unproven at 6 months.** Treatment success **70.6% vs 57.5%** (difference 13.1 points, 95% credible interval 2.3–24.0; posterior probability of superiority 0.991 against a 0.975 threshold). **Sustained clinical response at 6 months was 65.5% vs 56.5% — difference 9.1%, 95% CI −3.6% to 21.7%, not significant.** The randomized trials also **excluded** celiac disease, [[inflammatory-bowel-disease|IBD]], [[irritable-bowel-syndrome|IBS]] and chronic diarrhea, so those patients are not described by these numbers.
+
+> [!pitfall] A label contraindication is not the whole gate
+> RBL's label lists **no immunocompromise restriction** — its only contraindication is component allergy. **[[aga-2024-fmt]]'s restriction still governs patient selection**: conventional FMT only in mild/moderate immunocompromise, and no microbiota-based therapy in severe immunocompromise. Label silence is not permission.
 
 ## Place in Therapy
 
@@ -101,3 +132,4 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 3. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review (2026)]]
 4. [[acg-2021-cdiff|ACG 2021: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections]]
 5. [[feuerstadt-2022-ser109-cdiff|SER-109, an Oral Microbiome Therapy for Recurrent Clostridioides difficile Infection (ECOSPOR III)]]
+6. [[rebyota-2022-live-jslm-label|REBYOTA (Fecal Microbiota, Live — jslm) Rectal Suspension — FDA Prescribing Information]]

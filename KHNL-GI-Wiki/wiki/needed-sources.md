@@ -54,10 +54,9 @@ FDA prescribing information from [DailyMed](https://dailymed.nlm.nih.gov/dailyme
 |---|---|---|
 | Cimzia (certolizumab), Simponi (golimumab), Humira (adalimumab) labels | induction schedules, intervals, reaction and lupus / paradoxical-psoriasis management | [[anti-tnf-agents]] |
 | Stelara (ustekinumab), Tremfya (guselkumab), Omvoh (mirikizumab), Skyrizi (risankizumab) labels | dosing, TB/HBV screening, reaction rates, pregnancy | [[il-23-and-il-12-23-inhibitors]] |
-| Trulance (plecanatide) label *(Linzess taken 2026-10-26 → [[linzess-2026-linaclotide-label]]; Ibsrela taken 2026-10-27 → [[ibsrela-2025-tenapanor-label]])* | contraindications, pediatric limits, renal / hepatic adjustment | [[plecanatide]] |
 | Prograf (tacrolimus) label | neurotoxicity / adverse-effect detail | [[tacrolimus]] |
 | Givlaari (givosiran) label | mg/kg dose | [[givosiran]] |
-| Rebyota / Vowst labels | dosing | [[fmt]] |
+| Vowst (fecal microbiota spores, live-brpk) label *(Rebyota taken 2026-10-30 → [[rebyota-2022-live-jslm-label]])* | dosing and administration — [[aga-2024-fmt]] gives none and directs the reader to the package insert | [[fmt]] |
 | Pegasys (peginterferon alfa-2a) label | HBV dose (HDV use is off-label) | [[hepatitis-d]] |
 | 🌐 [ACG 2021 IBS guideline (Lacy) Supplemental Table 2](https://doi.org/10.14309/ajg.0000000000001036) | tegaserod cardiovascular risk-factor list | [[tegaserod]] |
 

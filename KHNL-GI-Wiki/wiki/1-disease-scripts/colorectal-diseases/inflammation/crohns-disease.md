@@ -3,7 +3,7 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-10-22
+updated: 2026-10-30
 sources: [aga-2018-functional-gi-symptoms-ibd, acg-2025-crohns, aga-2017-crohns-after-surgical-resection, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia]
 ---
 
@@ -92,7 +92,7 @@ No single test — integrate:
 | Infectious colitis ([[salmonella-infection\|Salmonella]], [[campylobacter-infection\|Campylobacter]], Yersinia) | Acute; stool culture; resolves in weeks |
 | [[clostridioides-difficile\|*Clostridioides difficile*]] | Risk factors; toxin assay |
 | Intestinal tuberculosis (TB) | Exposure; acid-fast stain/culture; ileocecal — closest mimic |
-| Nonsteroidal anti-inflammatory drug (NSAID) enteropathy | Drug history; small-bowel diaphragms |
+| [[nsaid-enteropathy\|Nonsteroidal anti-inflammatory drug (NSAID) enteropathy]] | Drug history; ulcerations, erosions and webs distal to the duodenum |
 | [[colon-ischemia\|Ischemic colitis]] | Vascular risk factors; watershed (splenic flexure) |
 | [[celiac-disease\|Celiac disease]] | Proximal small bowel; tissue transglutaminase antibody; gluten-free diet response |
 | [[irritable-bowel-syndrome\|Irritable bowel syndrome (IBS)]] | No objective inflammation — normal FC, CRP, endoscopy |
@@ -313,7 +313,7 @@ No single test — integrate:
 
 ## See Also
 
-[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[perianal-fistulizing-crohns-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[short-bowel-syndrome]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]], [[ibd-in-older-adults]], [[irritable-bowel-syndrome]], [[bile-acid-diarrhea]], [[small-intestinal-bacterial-overgrowth]], [[treat-to-target-ibd]], [[corticosteroids-ibd]], [[methotrexate]], [[endoscopic-ultrasound]]
+[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[nsaid-enteropathy]], [[perianal-fistulizing-crohns-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[short-bowel-syndrome]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]], [[ibd-in-older-adults]], [[irritable-bowel-syndrome]], [[bile-acid-diarrhea]], [[small-intestinal-bacterial-overgrowth]], [[treat-to-target-ibd]], [[corticosteroids-ibd]], [[methotrexate]], [[endoscopic-ultrasound]]
 
 ---
 

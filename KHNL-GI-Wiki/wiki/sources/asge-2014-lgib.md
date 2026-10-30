@@ -45,7 +45,7 @@ It corroborates the newer [[acg-2023-lgib|American College of Gastroenterology (
 | Postpolypectomy bleeding ([[polypectomy]]) | 2%–8%; 8.7 bleeds/1000 procedures in a 50,000-colonoscopy Medicare analysis |
 | [[inflammatory-bowel-disease\|Inflammatory bowel disease]] | LGIB requiring hospitalization is uncommon — 1.2%–6% of all admissions in Crohn's disease, 0.1%–4.2% in ulcerative colitis; more frequent with colonic Crohn's than isolated small-bowel disease; resolves spontaneously in up to 50%, recurs in up to 35%; biologics can be effective |
 | Infectious colitis | listed etiology |
-| NSAID colopathy | ulcerations + diaphragm-like strictures, terminal ileum and right colon; may be misdiagnosed as inflammatory bowel disease |
+| [[nsaid-enteropathy\|NSAID colopathy]] | ulcerations + diaphragm-like strictures, terminal ileum and right colon; may be misdiagnosed as inflammatory bowel disease |
 | [[radiation-proctopathy\|Radiation proctopathy]] | 4%–13% |
 | Stercoral ulcer | rectal ulcers in 8% of severe hematochezia; 32% of LGIB arising after intensive care unit admission |
 | Rectal varices | listed etiology |

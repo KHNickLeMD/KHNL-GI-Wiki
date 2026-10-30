@@ -3,8 +3,8 @@ title: "Polypectomy (Colorectal)"
 category: general-procedure
 tags: [polypectomy, cold-snare, colonoscopy, colorectal, paris-classification, nice-classification, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-10-24
-sources: [asge-acg-2024-colonoscopy-quality-indicators, usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy, aga-2025-endoscopic-resection-crc, aga-2026-electrosurgery]
+updated: 2026-10-30
+sources: [asge-acg-2024-colonoscopy-quality-indicators, usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy, aga-2025-endoscopic-resection-crc, aga-2026-electrosurgery, aga-2021-colonoscopy-quality]
 ---
 
 # Polypectomy (Colorectal)
@@ -49,6 +49,7 @@ Optical assessment and removal of colorectal polyps at [[colonoscopy]] — the t
 - Location, size (mm), Paris classification
 - Photo before removal; suggest photo of post-resection defect
 - Resection method in procedure report
+- **How to size it:** hold **open biopsy forceps over and against** the polyp; for smaller polyps use the **snare sheath tip (2.4 mm)** against the polyp base ([[asge-acg-2024-colonoscopy-quality-indicators]])
 
 ### Paris Classification (type 0 superficial lesions)
 
@@ -362,6 +363,9 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 
 - Endoscopy first-line for all benign colorectal lesions; refer to advanced endoscopist (not surgery) when unable to remove confidently
 - Use CO2 insufflation (reduces post-procedure pain, faster absorption if perforation)
+- **Why it matters — endoscopic resection of a nonmalignant colon polyp is more cost-effective, with a lower adverse-event rate, than surgical resection**, yet many such polyps are still sent to surgery because a colonoscopist who does not do complex polypectomy misjudges a "large" polyp as malignant ([[aga-2021-colonoscopy-quality]])
+- **Polypectomy quality is variable: residual neoplasia is found at approximately 14% of post-polypectomy sites** ([[aga-2021-colonoscopy-quality]])
+- **Forceps are never the primary modality for a polyp >5 mm** ([[aga-2021-colonoscopy-quality]]); the size-by-size forceps rules are above
 
 **Graded quality recommendations ([[usmstf-2020-endoscopic-removal]]):**
 
@@ -392,3 +396,4 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 5. [[aga-2025-endoscopic-resection-crc|AGA Clinical Practice Update on Endoscopic Resection for Early Colorectal Cancer: Commentary (2025)]]
 6. [[aga-2026-electrosurgery|AGA Clinical Practice Update on the Use of Electrosurgery in Therapeutic Endoscopy: Expert Review (2026)]]
 7. [[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators for Colonoscopy]]
+8. [[aga-2021-colonoscopy-quality|AGA 2021 Clinical Practice Update on Strategies to Improve Quality of Screening and Surveillance Colonoscopy]]

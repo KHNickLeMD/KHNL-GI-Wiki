@@ -3,8 +3,8 @@ title: "Endoscope Reprocessing and Duodenoscope-Transmitted Infection"
 category: concept
 tags: [endoscope-reprocessing, duodenoscope, infection-control, high-level-disinfection, cre, multidrug-resistant-organism, quality, endoscopy-unit]
 created: 2026-10-01
-updated: 2026-10-01
-sources: [aga-2016-infection-ercp-endoscopes, aga-2017-mstf-endoscope-reprocessing-commentary]
+updated: 2026-10-30
+sources: [aga-2016-infection-ercp-endoscopes, aga-2017-mstf-endoscope-reprocessing-commentary, usmstf-2025-bowel-prep]
 ---
 
 *Why flexible endoscopes transmit infection between patients, what reprocessing is supposed to achieve, and what a unit is actually held to.*
@@ -81,11 +81,12 @@ flowchart TD
 
 - **Manual cleaning is the most effective single step** — wiping the exterior, flushing the channels, and **brushing the elevator lever immediately after use and before the surfaces have become dried**.
 - **Biofilm only develops in a moist environment** → alcohol desiccation, forced air drying, and dry storage are "equally important steps," not optional finishing touches.
+- **Simethicone instilled through the scope.** Endoscope manufacturers, following US Food and Drug Administration (FDA) guidance, advise **against** instilling simethicone into endoscope accessory channels at all, because of crystal formation, residue and biofilm. If it is used for intraprocedural bubbles, use the **lowest possible dilution — 0.5 mL simethicone (20 mg/0.3 mL) in 99.5 mL water (0.5%)**, the lowest of three concentrations studied (0.5%, 1%, 3%) and the one leaving least residue in the accessory channel, and administer it **only through an instrument channel routinely brushed during reprocessing** ([[usmstf-2025-bowel-prep]]). Oral simethicone dosing and the bubble-prevention rationale: [[bowel-preparation]].
 - **Reprocessing (other than immediate pre-cleaning) must not be performed in patient care areas** — risk of patient exposure to contaminated surfaces and devices. Facilities are designed for **optimal flow of personnel, endoscopes and devices to avoid contamination between entering dirty instruments and reprocessed clean instruments** (Multi-Society Task Force [MSTF] 2016 recommendation #31, new in 2016).
 
 ## What the Unit Is Held To
 
-The **MSTF 2016 reprocessing guideline** — **41 recommendations** (2003: 34; 2011: 39), **officially endorsed by the AGA Institute** — governs flexible gastrointestinal endoscope reprocessing. Only **2 recommendations were new in 2016**; the major changes were language consistent with the 2015 US Food and Drug Administration (FDA) reprocessing communications, and statements requiring greater monitoring and tracking of the endoscope through the clinical units and cleaning rooms ([[aga-2017-mstf-endoscope-reprocessing-commentary]]).
+The **MSTF 2016 reprocessing guideline** — **41 recommendations** (2003: 34; 2011: 39), **officially endorsed by the AGA Institute** — governs flexible gastrointestinal endoscope reprocessing. Only **2 recommendations were new in 2016**; the major changes were language consistent with the 2015 FDA reprocessing communications, and statements requiring greater monitoring and tracking of the endoscope through the clinical units and cleaning rooms ([[aga-2017-mstf-endoscope-reprocessing-commentary]]).
 
 | Requirement | Operative detail | MSTF 2016 |
 |---|---|---|
@@ -142,7 +143,7 @@ In May 2015 a majority of the FDA's independent advisory panel judged reprocessi
 
 ## See Also
 
-[[ercp]], [[colonoscopy]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antibiotic-prophylaxis-endoscopy]], [[acute-cholangitis]], [[primary-sclerosing-cholangitis]], [[colonoscopy-quality-indicators]], [[preprocedure-testing]]
+[[ercp]], [[colonoscopy]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antibiotic-prophylaxis-endoscopy]], [[acute-cholangitis]], [[primary-sclerosing-cholangitis]], [[colonoscopy-quality-indicators]], [[bowel-preparation]], [[preprocedure-testing]]
 
 ---
 
@@ -150,3 +151,4 @@ In May 2015 a majority of the FDA's independent advisory panel judged reprocessi
 
 1. [[aga-2016-infection-ercp-endoscopes|AGA Clinical Practice Update: Commentary — Infection Using ERCP Endoscopes (2016)]]
 2. [[aga-2017-mstf-endoscope-reprocessing-commentary|AGA Clinical Practice Update: Commentary on the 2016 Multi-Society Task Force Endoscope Reprocessing Guidelines (2017)]]
+3. [[usmstf-2025-bowel-prep|Optimizing Bowel Preparation Quality for Colonoscopy: Consensus Recommendations by the US Multi-Society Task Force on Colorectal Cancer]]
