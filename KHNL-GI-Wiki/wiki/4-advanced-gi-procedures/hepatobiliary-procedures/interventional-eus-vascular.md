@@ -42,7 +42,7 @@ sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consens
 - Gastric variceal hemorrhage is less prevalent than esophageal but often more severe and higher-mortality. **Cardiofundal varices (isolated gastric varices type 1 [IGV1], gastroesophageal varices type 2 [GOV2] — [[portal-hypertension|Sarin classification criteria]])** are the hardest endoscopic targets — large, awkwardly located, requiring a clear retroflexed field of view; intravascular needle placement during direct endoscopic injection (DEI) may be inaccurate.
 - **Why EUS guidance:** better injection precision (including during active bleeding when direct visualization fails), expands options to **hemostatic coils**, and gives **real-time Doppler feedback of hemostasis**.
 - Coils: soft platinum wire with spaced synthetic fibers (interventional radiology [IR] embolization coils — Nester or MReye, Cook); intravascular placement is postulated to initiate thrombus and act as a scaffold for subsequently injected cyanoacrylate, minimizing postprocedure embolic events.
-- **Not FDA approved.** Treatment decisions should be multidisciplinary with hepatology and interventional radiology (which offers balloon-occluded retrograde transvenous obliteration (BRTO) and [[tips|transjugular intrahepatic portosystemic shunt (TIPS)]] for the same lesions — see [[variceal-upper-gi-bleeding]]).
+- **Not FDA approved.** Treatment decisions should be multidisciplinary with hepatology and interventional radiology (which offers [[variceal-obliteration|balloon-occluded retrograde transvenous obliteration (BRTO)]] and [[tips|transjugular intrahepatic portosystemic shunt (TIPS)]] for the same lesions — see [[variceal-upper-gi-bleeding]]).
 
 ### Technique — gastric variceal coiling
 

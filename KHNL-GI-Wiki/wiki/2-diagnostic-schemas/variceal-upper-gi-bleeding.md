@@ -41,7 +41,7 @@ sources: [asge-2026-esophageal-gastric-varices, baveno-viii-2026-portal-hyperten
 Upper gastrointestinal bleeding (UGIB) in cirrhosis — non-variceal workup: [[upper-gi-bleeding]].
 
 - **Esophageal varices** — ~70% of variceal bleeds
-- **Gastric varices** — cardiofundal (gastroesophageal varices type 2 [GOV2]/isolated gastric varices type 1 [IGV1]) rebleed more; need glue, retrograde transvenous obliteration (RTO) or TIPS, not bands
+- **Gastric varices** — cardiofundal (gastroesophageal varices type 2 [GOV2]/isolated gastric varices type 1 [IGV1]) rebleed more; need glue, [[variceal-obliteration|retrograde transvenous obliteration (RTO)]] or TIPS, not bands
 - **[[portal-hypertensive-gastropathy|Portal hypertensive gastropathy (PHG)]]** — diffuse oozing, chronic loss
 - **[[peptic-ulcer-disease|Peptic ulcer disease]]** — more common in cirrhosis ([[helicobacter-pylori-infection|H. pylori]], nonsteroidal anti-inflammatory drugs)
 - **Mallory-Weiss tear** — after retching

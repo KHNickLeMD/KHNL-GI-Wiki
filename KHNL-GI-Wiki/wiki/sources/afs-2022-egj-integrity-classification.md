@@ -3,7 +3,7 @@ title: "The American Foregut Society White Paper on the Endoscopic Classificatio
 category: source
 tags: [gerd, hiatal-hernia, egj, flap-valve, hill-grade, afs, upper-endoscopy, classification]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-31
 sources: []
 ---
 
@@ -151,4 +151,4 @@ Working-group survey identified 6 contributing factors; **3 rose to the top** (F
 - **Relationship to the Hill grade is a revision, not a contradiction.** Hill grades 1 and 2 both map to AFS grade 1; AFS grade 2 has no Hill equivalent; Hill 3 ≈ AFS 3. ⚠ The two scales are **not interconvertible at the top end** — a Hill grade documented alongside an axial hernia length is a combination the AFS scheme forbids.
 - **The classification is unvalidated.** The paper states this itself and makes validation its first future direction; [[afs-2023-transoral-incisionless-fundoplication]] independently says it should not drive procedure selection until validated in independent studies. The wiki therefore carries it as **reporting nomenclature, not a selection criterion**.
 - **Decision thresholds on the wiki still belong to the Hill grade.** The TIF/surgery routing rule on [[antireflux-surgery]] is stated as *hiatal hernia ≤2 cm with Hill I/II versus >2 cm with Hill III/IV* ([[asge-2024-gerd]]). **This paper supplies no AFS-based procedure-selection threshold**, so none was created.
-- **Figures not captured.** The published Figures 1, 3, 4 and 5 carry the retroflexed endoscopic photographs and line schematics of each grade. They are recreated here as tables; the images themselves were not extracted (see the pass log).
+- **Figures.** Figure 5 (the grade-by-grade photographs and schematics) and Figure 3 (the insufflation/provocative-maneuver sequence) are embedded on [[reflux-testing]]. Figures 1 (Hill grades) and 4 (flap-valve nomenclature) are carried as tables and text only.

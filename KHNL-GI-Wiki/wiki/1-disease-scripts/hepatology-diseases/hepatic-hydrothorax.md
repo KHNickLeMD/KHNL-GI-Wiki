@@ -143,7 +143,7 @@ Reconsider the diagnosis — and look harder for another cause — when the albu
 - **TIPS candidacy thresholds** (full table: [[tips]]) — absolute contraindications congestive heart failure, severe pulmonary hypertension, uncontrolled hepatic encephalopathy, sepsis; **avoid if ejection fraction <50%, severe diastolic/valvular dysfunction, or right ventricular systolic pressure >45 mm Hg**; echocardiography beforehand. **Hepatic encephalopathy in up to 50% post-TIPS**; cardiac decompensation in up to 20% within 1 year ([[aga-2025-ascites-cirrhosis]]).
 - **Indwelling tunneled pleural catheter — the numbers:** infection **4.5%**, fluid reaccumulation **20%**, spontaneous pleurodesis **31%** ([[aasld-2021-ascites-sbp-hrs]]). **Frequent drainage risks protein depletion and malnutrition.** AGA 2025 frames them as palliation for non-transplant candidates, or a **bridge to transplant where wait times are short**.
 - **Video-assisted thoracoscopic surgery (VATS) repair of diaphragmatic defects has been reported**; no recommendation is made for or against it ([[aasld-2021-ascites-sbp-hrs]]).
-- If **balloon-occluded retrograde transvenous obliteration (BRTO)** is being considered for gastric varices: new or worsened ascites **or hydrothorax requiring intervention in ~15% within 1 year** (present on imaging in 35%–40%) ([[aga-2021-bleeding-gastric-varices]]).
+- If **[[variceal-obliteration|balloon-occluded retrograde transvenous obliteration (BRTO)]]** is being considered for gastric varices: new or worsened ascites **or hydrothorax requiring intervention in ~15% within 1 year** (present on imaging in 35%–40%) ([[aga-2021-bleeding-gastric-varices]]).
 
 ### What Not To Do
 

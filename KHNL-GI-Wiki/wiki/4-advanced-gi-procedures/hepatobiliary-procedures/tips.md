@@ -3,7 +3,7 @@ title: "TIPS (Transjugular Intrahepatic Portosystemic Shunt)"
 category: advanced-procedure
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, hepatic-encephalopathy, pspg, ptfe-stent, rto, brto, interventional-radiology]
 created: 2026-07-16
-updated: 2026-10-29
+updated: 2026-10-31
 sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus, baveno-vii-2022-portal-hypertension, aga-2021-bleeding-gastric-varices]
 ---
 
@@ -171,33 +171,21 @@ sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-asci
 
 ## TIPS vs Variceal Obliteration (RTO / ATO)
 
-Retrograde transvenous obliteration (RTO) and ATO act **directly on varices and do not lower portal pressure** — obliterating large collaterals can actually **raise** portal pressure and PSPG. They are alternatives or complements to TIPS.
-
-| | TIPS | RTO (balloon-occluded [BRTO] / plug-assisted [PARTO] / coil-assisted [CARTO]) | ATO |
-|---|---|---|---|
-| **What it does** | Creates a new portosystemic shunt | Occludes a gastrorenal shunt (balloon + sclerosant / vascular plug / coils, + Gelfoam), obliterating gastrofundal varices | Percutaneous transhepatic, trans-splenic, or trans-TIPS embolization of the veins feeding the varices |
-| **Effect on portal pressure** | ↓ PSPG, ↑ cardiac output | ↑ PSPG; redirects flow to liver (may improve liver function and HE) | ↑ PSPG (magnitude depends on size/flow of occluded collateral) |
-| **Main advantage** | Treats coexisting ascites, hydrothorax, esophageal varices, PVT | **Less HE**; no new shunt; high MELD/CTP are **not** contraindications | Feasible when no gastrorenal shunt exists |
-| **Main downside** | HE, liver dysfunction, cardiac overload | New/worsened esophageal varices (up to 33–60%); worsened ascites/hydrothorax (~10%) | Invasive; multiple feeders may be missed (technical success 44–100%) |
-| **Contraindications** | See table above | Severe sepsis, splenic/portal vein thrombosis, uncontrollable esophageal variceal bleeding (relative); difficult-to-control ascites (relative) | Coagulopathy (relative, percutaneous access); splenic/portal vein thrombosis; uncontrolled sepsis (absolute) |
+*Retrograde transvenous obliteration (RTO) and ATO act **directly on varices and do not lower portal pressure** — obliterating large collaterals can actually **raise** portal pressure and PSPG. The modality comparison, technique, contraindications, complications and post-obliteration follow-up have one home: **[[variceal-obliteration]]**. What follows is only the TIPS-side decision — shunt or obliterate, and which.*
 
 - **Gastrofundal varices (gastroesophageal varices type 2 [GOV2]/isolated gastric varices type 1 [IGV1] — [[portal-hypertension|Sarin classification criteria]]):** cyanoacrylate injection, TIPS, or RTO are all first-line. Choose by **vascular anatomy, clinical profile, and center expertise** — RTO favored with prior overt HE or poor liver function; TIPS favored with large esophageal varices, significant ascites, or PVT. RTO is first-line endovascular option when TIPS is contraindicated
 - **Ectopic varices:** TIPS is first-line for most, but decompression by TIPS alone is often insufficient (the ectopic vessel–systemic gradient may be below the post-TIPS PSPG) → routinely combine with ATO/RTO
   - Decide in a **multidisciplinary team** (hepatology, GI, interventional radiology, surgery), after **comprehensive imaging** defining the functional vascular anatomy
   - Endoscopic therapy, where feasible, is a **bridge** to definitive interventional radiology treatment — not the definitive step
   - **Poor TIPS candidate, or small feeding collaterals → ATO or RTO alone** may control the bleeding without a shunt
-- **When to reach for ATO:** esophageal, gastric or ectopic variceal hemorrhage with a **large afferent vein or shunt, or high-flow varices**. Eradicate the **entire** variceal complex to minimise rebleeding; embolic/sclerosing agent by operator experience and availability
-- Traditional **BRTO** requires balloon inflation up to **36 h** with intensive care unit (ICU) monitoring (balloon rupture risk); **CARTO/PARTO** avoid sclerosants and complete in one session — comparable in duration to TIPS, preferable in uncontrolled bleeding
-- **Post-obliteration:** computed tomography (CT) abdomen or [[endoscopic-ultrasound|EUS]] within 72 h to confirm obliteration, then endoscopy at **1–2 months** for new or progressive esophageal varices. *Surveillance of the gastric varix itself is on [[variceal-upper-gi-bleeding]].*
 
 **How TIPS performs in cardiofundal gastric varices (GV)** — *the full acute-bleeding pathway is on [[variceal-upper-gi-bleeding]]; what follows is only what changes the TIPS decision* ([[aga-2021-bleeding-gastric-varices]], ungraded):
 
 - Up to **85% of cardiofundal GV drain through a gastrorenal shunt** — which is both why RTO is possible and why TIPS is riskier here: hepatic encephalopathy and hepatic ischemia **may be worse when a GRS is present**.
 - **TIPS is less efficacious in GV than in esophageal varices** — cardiofundal GV bleed at lower portal pressures and **up to 50% rebleed even after TIPS** → combine TIPS with direct embolization or endovascular sclerosis. **Favor TIPS for lesser-curve GV** refractory to band ligation or rebleeding.
-- **Type B (shunt-related) HE is itself an indication for RTO**, which improves encephalopathy rather than causing it.
 
 > [!pitfall] A good post-TIPS gradient does not mean the gastric varix is decompressed
-> The gastrorenal shunt is often **wider than the TIPS**, so flow persists through the varices despite a PSPG below target — and partial obliteration is dangerous, closing the decompressing shunt while the varices remain. Confirm obliteration with CT or EUS within 72 h ([[aasld-2024-tips]]).
+> The gastrorenal shunt is often **wider than the TIPS**, so flow persists through the varices despite a PSPG below target — and partial obliteration is dangerous, closing the decompressing shunt while the varices remain. Confirm obliteration on the post-procedure schedule in [[variceal-obliteration]] ([[aasld-2024-tips]]).
 
 ---
 

@@ -186,29 +186,23 @@ The type determines the serology, the histology to ask the pathologist for, the 
 | Response to steroids | **~100%** | **~100%** |
 | **Relapse risk** | **Up to 60%** | **<10%** |
 
-*Table 1 of [[aga-2019-autoimmune-pancreatitis]], recreated. The source footnotes it as adapted from Hart PA et al., Recent Advances in Autoimmune Pancreatitis, Gastroenterology 2015.*
+*Table 1 of [[aga-2019-autoimmune-pancreatitis]], recreated.*
 
-- **The two discriminating histologic findings are the granulocyte epithelial lesion (IDCP only) and obliterative phlebitis (AIP).** The other four histologic features are present in both and do not separate them.
-- ⚠ **Note the internal tension in the source:** the table gives serum IgG4 elevation in **~25% of IDCP**, while its prose states **"an elevated IgG4 is not characteristic of IDCP."** Read together: a minority of IDCP patients have a raised IgG4, but it carries no diagnostic weight for type 2. **There is no reliable serologic marker for IDCP** — type 2 is a tissue diagnosis.
-- Beyond the IgG4 cells/HPF cutoff, the guideline gives **no counts, thresholds, or definitions** for the histologic features (e.g. what constitutes a granulocyte epithelial lesion).
+- **The two discriminating histologic findings are the granulocyte epithelial lesion (IDCP only) and obliterative phlebitis (AIP).** The other four are present in both and do not separate them.
+- **No reliable serologic marker exists for IDCP** — type 2 is a tissue diagnosis. The table gives IgG4 elevation in ~25% of IDCP while the prose states an elevated IgG4 is not characteristic of it: a minority have one, and it carries no diagnostic weight.
+- Beyond the IgG4 cells/HPF cutoff, **no counts, thresholds or definitions** are given for the histologic features (e.g. what constitutes a granulocyte epithelial lesion).
 
 ## Differential Diagnosis
 
 *Workup: see [[jaundice]] and [[recurrent-acute-pancreatitis]].*
 
-- **[[pancreatic-cancer|Pancreatic adenocarcinoma]]** — the differential that defines this disease. See below.
-- **[[chronic-pancreatitis|Chronic pancreatitis]] of other cause** — AIP is estimated at 5%–6% of all chronic pancreatitis, and shares its long-term sequelae ([[exocrine-pancreatic-insufficiency|exocrine insufficiency]], diabetes).
-- **AIP vs IDCP** — the two types are each other's differential; separated by age, sex, serology, OOI, IBD association, and histology ([[#Classification / Typing]]).
-- **Other causes of a [[biliary-stricture|biliary stricture]]** — AIP produces both a distal stricture (head swelling) and a proximal stricture, so it enters the stricture differential from both ends.
+- **[[pancreatic-cancer|Pancreatic adenocarcinoma]]** — the differential that defines this disease ([[#AIP vs Pancreatic Cancer on CT/MRI]]). **Assume the mimic until excluded**; management warrants close follow-up and monitoring for underlying malignancy, and **surgery is indicated when malignancy is suspected**.
+- **Chronic pancreatitis of other cause** — shares the long-term sequelae (exocrine insufficiency, diabetes).
+- **AIP vs IDCP** — the two types are each other's differential; separated by age, sex, serology, OOI, IBD association and histology ([[#Classification / Typing]]).
+- **Other causes of a biliary stricture** — AIP produces both a distal stricture (head swelling) and a proximal one, so it enters that differential from both ends.
 
-### Not Missing Pancreatic Cancer
-
-The source's explicit safeguards, because AIP and IDCP are uncommon and their **common imitator is pancreatic cancer**:
-
-1. **Assume the mimic until it is excluded.** Management "warrants close follow-up and monitoring for the possibility of underlying malignancy."
-2. **Know how weak a positive IgG4 is on its own.** Pancreatic cancer patients **can** have an elevated IgG4 — though **only 1% exceed 2× the upper limit (280 mg/dL)**, which is what gives the ≥2× cutoff its **99% specificity**. A *mildly* raised IgG4 does not exclude cancer.
-3. **A focal mass raises the bar for tissue.** The ICDC recommend **core biopsy** in the setting of a **focal mass and/or obstructive jaundice, when cancer is excluded and the diagnosis is unclear**. Note that focal mass-like lesions are **more common in IDCP (~35%)**, the type with no serologic marker.
-4. **Surgery is indicated when malignancy is suspected** — the steroid-responsive diagnosis does not earn the patient an operation, but the suspicion of cancer does.
+> [!pitfall] A mildly raised IgG4 does not exclude cancer
+> Pancreatic cancer can elevate serum IgG4; **only 1% exceed 2× ULN (280 mg/dL)**, which is what gives the ≥2× cutoff its 99% specificity. Focal mass-like lesions are also **more common in IDCP (~35%)** — the type with no serologic marker ([[shimosegawa-2011-icdc-autoimmune-pancreatitis]], [[aga-2019-autoimmune-pancreatitis]]).
 
 ## Diagnostics
 
@@ -216,49 +210,38 @@ The source's explicit safeguards, because AIP and IDCP are uncommon and their **
 
 | | Value |
 |---|---|
-| ICDC **level 1** cutoff (for AIP) | **≥2× the upper limit of normal = 280 mg/dL** |
-| Sensitivity | **53%** |
-| Specificity | **99%** |
+| ICDC **level 1** cutoff (AIP) | **≥2× ULN = 280 mg/dL** |
+| Sensitivity / specificity | **53% / 99%** |
 | Elevated in AIP overall | **~66%** |
-| False positives in pancreatic cancer | **elevated IgG4 can occur; only 1% exceed 2× ULN (280 mg/dL)** |
-| Utility in **IDCP** | **None** — elevated IgG4 is not characteristic of IDCP; **no reliable serologic marker exists** for type 2 |
-| Utility **after** treatment | **None** — no value in following levels to predict relapse or diagnose recurrence |
+| False positives in pancreatic cancer | Elevated IgG4 can occur; **only 1% exceed 280 mg/dL** |
+| Utility in **IDCP** | **None** — no reliable serologic marker exists for type 2 |
+| Utility **after** treatment | **None** — no value for predicting relapse or diagnosing recurrence |
 
-- The **53% sensitivity is the operative number**: a normal IgG4 does not exclude AIP, and roughly half of AIP patients will not reach level 1 on serology alone — which is why the ICDC needs four other cardinal features.
-- ⚠ The [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]] page carries IgG4 cutoffs in **g/L** from a different guideline for a different question (excluding IgG4-sclerosing cholangitis during a PSC workup). Different units, different question — **do not merge the two thresholds**.
+- **The 53% sensitivity is the operative number:** a normal IgG4 does not exclude AIP, and about half of AIP patients never reach level 1 on serology — hence the four other cardinal features.
+- Biliary IgG4 cut-points (in g/L, for excluding IgG4-SC during a [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]] workup) answer a different question and live on [[igg4-related-cholangitis]] — **do not merge the thresholds**.
 
 ### Cross-Sectional Imaging
-
-Characteristic features on **computed tomography (CT) or magnetic resonance imaging (MRI)**:
 
 | Finding | Description | Frequency |
 |---|---|---|
 | **Diffuse parenchymal enlargement** | the **"sausage shape"** pancreas | Characteristic |
 | **Low-attenuating capsule** | the **capsule-like "rim enhancement"** | Characteristic |
-| **Focal mass-like lesion** | | **Less common** overall; **~35% in IDCP** |
+| **Focal mass-like lesion** | the dangerous one — overlaps pancreatic cancer, triggers the tissue pathway | **Less common** overall; **~35% in IDCP** |
 | **Diffuse pancreatic atrophy** | | Less common |
-
-- The two characteristic findings are the **diffuse** ones; the focal mass-like lesion is the *dangerous* one, because that is the picture that overlaps pancreatic cancer and triggers the tissue pathway above.
 
 ### Ductal Imaging
 
-- **[[mri-mrcp|Magnetic resonance cholangiopancreatography (MRCP)]] or [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]** may reveal **diffuse or multifocal narrowing of the pancreatic duct *without upstream dilatation*.**
-- **The absent upstream dilatation is the discriminator** — it is what separates the inflammatory duct narrowing of AIP from an obstructing tumour.
-- ERCP here is diagnostic imaging, not therapy; see [[#Biliary Drainage and Surgery]] for why the therapeutic side is rarely indicated.
+- **[[mri-mrcp|Magnetic resonance cholangiopancreatography (MRCP)]] or [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]** may show **diffuse or multifocal narrowing of the pancreatic duct *without upstream dilatation*.**
+- **Absent upstream dilatation is the discriminator** — it separates inflammatory duct narrowing from an obstructing tumour.
+- ERCP here is diagnostic imaging, not therapy ([[#Biliary Drainage and Surgery]]).
 
 ### Histology and Tissue Acquisition
 
-**Tissue procurement is not simple, and the needle choice matters.**
-
-| Technique | Performance |
-|---|---|
-| **[[endoscopic-ultrasound\|Endoscopic ultrasound (EUS)]]-guided fine-needle *aspiration* (cytology)** | **Poor sensitivity — even with larger-diameter needles.** Not adequate for this diagnosis |
-| **EUS-guided fine-needle *biopsy* (core)** | **Preserves gland architecture — this is what is needed for tissue diagnosis.** Despite concern for post-procedure complications, smaller cohort studies demonstrated **safety and efficacy** in diagnosing AIP |
-
-- **Why cytology fails:** the diagnosis is architectural — storiform fibrosis, obliterative phlebitis, periductal inflammation, granulocyte epithelial lesions — and a cytologic aspirate does not preserve architecture.
-- **When the ICDC ask for core biopsy:** in the setting of a **focal mass and/or obstructive jaundice, when cancer is excluded and the diagnosis is unclear.**
-- **IgG4 immunostaining** on the specimen separates the types: **≥10 cells/HPF (AIP)** vs **<10 cells/HPF (IDCP)**.
-- **Do not re-biopsy after treatment** — see [[#Monitoring After Treatment]].
+- **Needle choice decides the diagnosis.** EUS-guided fine-needle **aspiration** (cytology) has **poor sensitivity even with larger-diameter needles** — the diagnosis is architectural (storiform fibrosis, obliterative phlebitis, periductal inflammation, granulocyte epithelial lesions) and an aspirate does not preserve architecture.
+- **EUS-guided fine-needle *biopsy* (core) is what is needed** — preserves gland architecture; despite concern for post-procedure complications, smaller cohort studies showed safety and efficacy in AIP.
+- **When the ICDC ask for core biopsy:** **focal mass and/or obstructive jaundice, cancer excluded, diagnosis unclear.**
+- **IgG4 immunostaining** separates the types: **≥10 cells/HPF (AIP)** vs **<10 cells/HPF (IDCP)**.
+- **Do not re-biopsy after treatment** ([[#Monitoring After Treatment]]).
 
 ## Therapeutics
 

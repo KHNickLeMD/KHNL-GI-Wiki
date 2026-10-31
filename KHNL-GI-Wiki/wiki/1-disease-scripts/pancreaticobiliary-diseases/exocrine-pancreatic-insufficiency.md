@@ -3,7 +3,7 @@ title: "Exocrine Pancreatic Insufficiency (EPI)"
 category: disease-script
 tags: [exocrine-pancreatic-insufficiency, epi, pert, fecal-elastase, malabsorption, steatorrhea, pancreas, hpb]
 created: 2026-07-18
-updated: 2026-09-06
+updated: 2026-10-31
 sources: [aga-2023-epi]
 ---
 
@@ -127,22 +127,47 @@ Conditions that mimic EPI or blunt the response to enzyme therapy (consider when
 **PERT — required once EPI is diagnosed.** All formulations are porcine-derived and equally effective at equivalent doses.
 
 - **Dose:** start **≥40,000 United States Pharmacopeia (USP) units of lipase with each meal** (**40,000–50,000** is a reasonable initial dose); **one-half that amount with snacks**. Titrate **up** for larger or higher-fat meals, **down** for smaller or low-fat meals.
-  - **Ceiling:** doses **>120,000 USP units of lipase per meal are seldom required.**
-  - **Weight-based alternative** (children and adults with advanced [[chronic-pancreatitis|CP]], as in cystic fibrosis): **500 units lipase/kg/meal** and **250 units lipase/kg/snack** (≈40,000 and 20,000 units for an 80-kg patient). **Cystic-fibrosis maximum: <10,000 units lipase/kg/day, or <4,000 units per gram of dietary fat per day.**
-- **Timing:** take **during** the meal (not before/after) — maximizes mixing with the meal.
-- **Acid suppression:** non–enteric-coated preparations require a concurrent **H2 blocker or [[proton-pump-inhibitors|proton pump inhibitor (PPI)]]** (acid inactivates lipase).
-- **Diet:** low-to-moderate fat with frequent smaller meals; **avoid very-low-fat diets** (impair fat-soluble vitamin absorption). Routine fat-soluble vitamin supplementation.
+  - **Weight-based equivalent:** **500 units lipase/kg/meal** and **250 units lipase/kg/snack** (≈40,000 and 20,000 units for an 80-kg patient).
+  - **Maximum: 2,500 units lipase/kg/meal, or 10,000 units lipase/kg/day.** Doses **>120,000 USP units of lipase per meal are seldom required.**
+  - **Cystic fibrosis / advanced [[chronic-pancreatitis|CP]] ceiling:** **<10,000 units lipase/kg/day, or <4,000 units per gram of dietary fat per day.**
+  - *Anchor:* a normal pancreas delivers ≈**900,000 USP units of lipase per average meal**; ≈**90,000 units (10%)** prevents steatorrhea. Even at high doses PERT does not abolish steatorrhea entirely.
+- **Timing:** take **during** the meal (not before/after) — maximizes mixing with the meal. PERT treats the meal, not the pancreas.
+- **Acid suppression:** non–enteric-coated preparations require a concurrent **histamine-2 (H2) receptor antagonist or [[proton-pump-inhibitors|proton pump inhibitor (PPI)]]** (acid denatures lipase). **Not required for enteric-coated preparations.**
+- **Brand choice:** all products are equipotent at equal lipase doses — **no reason to switch brands for inadequate response**; switching is driven by formulary cost. **Do not use over-the-counter pancreatic enzyme products** — marketed as dietary supplements, with unstandardized, unregulated dosing and unknown efficacy and safety.
+- **Duration:** generally **lifelong**; dose reduction may be considered in patients doing well with acceptable nutritional parameters.
+- **Adverse effects:** nausea, abdominal cramping, bloating, diarrhea, constipation. Rare — **fibrosing colonopathy**, allergic reaction to porcine protein, hyperuricosuria.
+- **Diet:** low-to-moderate fat with frequent smaller meals; **avoid very-low-fat diets** (impair essential fatty acid and fat-soluble vitamin absorption). Routine fat-soluble vitamin supplementation. Avoid alcohol and tobacco; favor high-protein content.
+- Endoscopic or surgical pancreatic **ductal drainage does not prevent or improve EPI** (useful for pain only).
+
+**US Food and Drug Administration (FDA)-approved PERT formulations** ([[aga-2023-epi]]):
+
+| Brand | Type | Available lipase strengths (USP units) |
+|---|---|---|
+| Creon | Enteric-coated microspheres | 3,000 / 6,000 / 12,000 / 24,000 / 36,000 |
+| Zenpep | Enteric-coated beads | 3,000 / 5,000 / 10,000 / 15,000 / 20,000 / 25,000 / 40,000 |
+| Pancreaze | Enteric-coated microtablets | 2,600 / 4,200 / 10,500 / 16,800 / 21,000 |
+| Pertzye | Enteric-coated microspheres | 4,000 / 8,000 / 16,000 / 24,000 |
+| **Viokace** | **Non–enteric-coated tablets** — **requires acid suppression** | 10,444 / 20,880 |
+| Relizorb | In-line lipase cartridge | For enteral feeding formulas |
 
 **Monitoring**
 - **Response markers:** ↓ steatorrhea and gastrointestinal (GI) symptoms; gain of weight, muscle mass, and muscle function; improved fat-soluble vitamin levels.
-- **Nutritional surveillance:** baseline body mass index (BMI), quality-of-life measure, fat-soluble vitamin levels; **baseline dual-energy X-ray absorptiometry (DXA) scan, repeat every 1–2 years** (osteoporosis/fracture risk).
+- **Baseline (BPA 15):** BMI, a quality-of-life measure, fat-soluble vitamin levels, and a **dual-energy x-ray absorptiometry (DXA) scan — repeat every 1–2 years** (osteoporosis/fracture risk).
+- **Screen at diagnosis and annually:** vitamins **A, D, E, K, B12**, **folate, magnesium, selenium, zinc, iron**. In stable CP also check **prealbumin and retinol-binding protein, thiamine**, and **hemoglobin A1c** (type 3c diabetes). Reassess disease state and treatment effectiveness **at least annually**.
+- **Anthropometrics / muscle:** height, weight, **handgrip strength**, muscle mass (computed tomography or other), BMI; optional psoas muscle size at L3 or a timed up-and-go test.
+- Osteopenia/osteoporosis on DXA → calcium and vitamin D intake, weight-bearing exercise, avoid alcohol and smoking. **Vitamin D and K deficiency drives osteopathy and fracture in CP; treatment reduces fracture rates.**
+- **Referrals:** certified dietitian at diagnosis for nutritional assessment; endocrinologist if prediabetes or diabetes.
 - Untreated EPI → fat malabsorption, malnutrition, sarcopenia, osteoporosis/fracture, reduced quality of life, higher surgical complication and mortality rates.
+- **Cost is a real barrier** — prescription PERT is expensive at higher doses; check coverage and patient-assistance programs before assuming nonresponse.
+
+> [!pitfall] A failed PERT trial is usually a dosing or diagnosis problem
+> Before calling PERT ineffective, confirm it is taken **during** meals at an adequate dose, add acid suppression if the preparation is non–enteric-coated, check affordability/adherence, and re-screen for the mimics above ([[aga-2023-epi]]).
 
 ---
 
 ## See Also
 
-[[chronic-pancreatitis]], [[acute-pancreatitis]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[recurrent-acute-pancreatitis]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[hereditary-pancreatitis]], [[celiac-disease]], [[crohns-disease]], [[peptic-ulcer-disease]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[abdominal-bloating-and-distention]], [[bile-acid-diarrhea]], [[giardiasis]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[proton-pump-inhibitors]]
+[[chronic-pancreatitis]], [[acute-pancreatitis]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[recurrent-acute-pancreatitis]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[hereditary-pancreatitis]], [[autoimmune-pancreatitis]], [[celiac-disease]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[peptic-ulcer-disease]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[abdominal-bloating-and-distention]], [[bile-acid-diarrhea]], [[giardiasis]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[proton-pump-inhibitors]]
 
 ---
 

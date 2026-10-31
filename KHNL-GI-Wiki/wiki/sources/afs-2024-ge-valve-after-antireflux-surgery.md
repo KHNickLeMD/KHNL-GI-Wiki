@@ -3,7 +3,7 @@ title: "AFS 2024 White Paper: Endoscopic Assessment of the Gastroesophageal Valv
 category: source
 tags: [gerd, antireflux-surgery, fundoplication, ctif, magnetic-sphincter-augmentation, endoscopy, gej, afs]
 created: 2026-09-05
-updated: 2026-09-05
+updated: 2026-10-31
 sources: []
 ---
 
@@ -110,7 +110,7 @@ Net effect: reduce the occurrence of reflux **and** restrict the diameter of EGJ
 - **Hill and Collis esophageal-lengthening procedures were explicitly not examined** — the schema does not cover them.
 - **Groove depth is a three-level subjective scale** (shallow / moderate / deep) with no stated anchors, measurement, or interobserver data. The paper's own critique of the Jobe 2004 schema — unblinded evaluators, selected ideal cases — has not been answered for this schema either.
 - **Definition of pathologic reflux used here:** abnormal esophageal acid exposure on pH-metry **or** Los Angeles (LA) grade B, C, or D esophagitis on endoscopy. (The LA grade criteria are not defined in this paper — see [[reflux-testing]].)
-- **Figures 1–9** (including **Figure 9, the assessment algorithm**, and the endoscopic photographs of each valve type) are the visual core of this paper and are not reproduced here. The per-procedure table above is a text substitute; consult the original figures to recognise each valve endoscopically.
+- **Figures 1–9** are the visual core of this paper — the assessment algorithm (Figure 9), the orientation diagram (Figure 3), and the endoscopic photographs and geometry of each valve type (Figures 4–8), plus the two clinical sequences (Figures 1–2). All nine are embedded on [[antireflux-surgery]], where the per-procedure table sits beside them.
 
 ## See Also
 

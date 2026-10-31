@@ -3,7 +3,7 @@ title: "Antireflux Surgery"
 category: advanced-procedure
 tags: [gerd, antireflux-surgery, fundoplication, nissen, msa, linx, tif, ctif, stretta, foregut, hiatal-hernia]
 created: 2026-06-01
-updated: 2026-10-28
+updated: 2026-10-31
 sources: [sages-2024-hiatal-hernia-surgery, sages-2013-hiatal-hernia, sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hrm-antireflux, afs-2023-transoral-incisionless-fundoplication, afs-2024-ge-valve-after-antireflux-surgery, afs-2022-egj-integrity-classification]
 ---
 
@@ -227,11 +227,31 @@ Plus, after **any** procedure that included hiatal hernia repair: **the hiatal a
 | **MSA / LINX** | **No fundoplication is created** — device around the distal esophagus after crural repair | **Shallow** | **Shallow** | Resembles the **native flap valve**; implant hard to see, may look like a **"bulked-up" lip**. **Assess as in the non-operated patient** — revert to the AFS hiatus grade and denote **FV+ / FV−** (flap valve present/absent) |
 | **cTIF** | Started at the angle of His (3–4 o'clock); Esophyx rotated ~**135° posteriorly and 135° anteriorly**; ~**270°**, **omega-shaped** immediately post-op | **Moderate to deep** | **Deep** | Lip closely approximates the scope shaft (**partly edema**). **Fasteners** visible, and transmural fasteners also visible antegrade along the **distal 2–3 cm** of esophageal mucosa |
 
+*In Figures 4–8 the layout repeats: **left** = external wrap with a circular blow-up of the expected retroflexed view and a coronal/axial inset marking 12 o'clock, **centre** = a real retroflexed photograph, **right** = transverse geometry — **green** = fundus wrapped anteriorly, **blue** = wrapped posteriorly, **red** = uncovered lesser curve of the esophagus. All from [[afs-2024-ge-valve-after-antireflux-surgery]].*
+
+![[antireflux-2024-nissen-valve-06.png|700x400]]
+*Figure 4 — **Nissen 360° anterior/posterior.** Green and blue arrows meet all the way round, so both the anterior and the posterior groove are **deep**. The lesser-curve portion of the wrap (red) is **not visible endoscopically**. Esophageal mucosa is visible at the lip of the valve, confirming the wrap surrounds the distal esophagus.*
+
+![[antireflux-2024-toupet-valve-07.png|700x415]]
+*Figure 5 — **Toupet 270° posterior partial.** The blue (posterior) wrap is much larger than the green (anterior) one, giving a **deep posterior and shallow anterior groove**. It is "partial" because the esophagus stays exposed between 10 and 2 o'clock — in the photograph the valve is **loose around the scope with visible esophageal mucosa** there.*
+
+![[antireflux-2024-dor-watson-valve-08.png|600x690]]
+*Figure 6 — **Anterior partial fundoplications.** **(a)** Dor, 120°–180°; **(b)** Watson, 230°. Only the anterior fundus (green) is plicated; the posterior fundus (blue) is not — hence a **deep anterior and shallow posterior groove**, and a lip that is **loose around the scope posteriorly with visible esophageal mucosa** where there is no wrap.*
+
+![[antireflux-2024-msa-valve-09.png|700x395]]
+*Figure 7 — **Magnetic sphincter augmentation.** No fundoplication is made, so **both folds are shallow** and the valve resembles the native one; the inset at top right is the bead ring in place at laparoscopy. Esophageal mucosa visible at the lip of the valve confirms restored intra-abdominal esophageal length.*
+
+![[antireflux-2024-ctif-valve-09.png|700x430]]
+*Figure 8 — **cTIF.** Anterior (green) and posterior (blue) wrap are equal, with the esophagus exposed at 9 o'clock — a **reverse-C** in transverse section. Endoscopically the posterior groove is **deep** and the anterior groove **moderate to deep**; the rows of blue **fasteners** on the schematic are visible on the real valve.*
+
 - **Successful anti-reflux surgery is by definition equivalent to an AFS hiatus grade 1** — no hiatal hernia, snug fit to the scope, native SCJ at the lip of the valve (**L0, D1, F+**). **If no surgically constructed valve is found, the assessment reverts to the AFS hiatus grade** — criteria and the LDF measurements on [[reflux-testing]] ([[afs-2022-egj-integrity-classification]]). A **grade 3 or 4** on that scale after surgery means the repair has failed anatomically: any axial hernia length at all forces grade 3 or worse.
 - **The dilated distal esophagus is the classic misread.** As the distal esophagus dilates it takes on gastric characteristics — apparent **rugal folds and glandular mucosa** ("cardiac mucosa": glandular tissue **without intestinal metaplasia or parietal cells** — the paper calls this "a very controversial topic"). The **SCJ then appears proximally in the distal tubular esophagus, mimicking a distally placed fundoplication**, so a correctly placed wrap can be called malpositioned. **Remedy: document the anatomy intraoperatively, after esophageal dissection and before creating the wrap**, when the end of the esophageal tube can be compared directly with the SCJ.
 - **Routinely perform intraoperative endoscopy to record the baseline post-operative valve appearance** as the comparator for future exams.
+
+![[antireflux-2024-ctif-valve-over-time-03.png|700x215]]
+*Figure 9 — Why the baseline exam matters: one patient's EGJ over time. **(A)** Baseline, AFS hiatus grade IV. **(B)** Immediately after cTIF — a valve is present. **(C)** Two years later, with recurrent reflux symptoms: wide-open hiatus and complete loss of the gastroesophageal valve. **(D)** After reoperative laparoscopic hiatal hernia repair and partial fundoplication, the antireflux barrier is restored. ([[afs-2024-ge-valve-after-antireflux-surgery]])*
 - The three things the endoscopist is checking were achieved: **(1)** restoration of intra-abdominal esophageal length by hernia reduction and repair, **(2)** reapproximation of the crural diaphragm, **(3)** modification of gastroesophageal anatomy to restore valve function — **except in MSA**, where that function is left to the implant.
-- ⚠ **Scope limits:** descriptions are of the **classic, typical *immediate* post-operative** appearance and may change with time; **Hill and Collis lengthening procedures were not examined**; groove depth is a three-level subjective scale with **no stated anchors and no interobserver data**.
+- ⚠ **Scope limits:** descriptions are of the **classic, typical *immediate* post-operative** appearance and may change with time; **Hill and Collis lengthening procedures were not examined**; groove depth rests on the brief visual anchors tabulated above — "moderate", used for cTIF, is not among them — and **no interobserver data** are reported.
 
 ---
 

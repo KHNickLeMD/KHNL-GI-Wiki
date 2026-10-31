@@ -216,7 +216,7 @@ Acute variceal hemorrhage — resuscitation, vasoactive drugs, antibiotics, endo
 
 - **Gastric varices (GV)** ([[aga-2021-bleeding-gastric-varices]]): in **17%–25%** of PH; bleed less often than esophageal but **more severely** (**16%–45% at 3 y**). **Up to 85% of cardiofundal GV drain via a gastrorenal shunt** — basis for transvenous obliteration ([[tips]]). Record Sarin type, **size**, **stigmata** (discolored marks, platelet plugs); evidence weak, advice ungraded.
 - **GV = CSPH** → NSBB, particularly carvedilol, for decompensation prevention (Baveno VIII 3.21a); evaluate for PVT (GS 40). **Isolated splenic vein thrombosis** causing GV → splenectomy, splenic vein stenting or splenic artery embolization (GS 47).
-- **Primary prophylaxis, high-risk GOV2/IGV1, NSBB contraindicated/not tolerated** — in expert centres consider **endoscopic injection** (LoE 2 strong), **EUS-guided therapy** (LoE 4 weak) or **transvenous obliteration** (LoE 3 weak) (3.21b; new vs Baveno VII; matches AASLD GS 41). **Not on top of an NSBB** (3.21c). No TIPS or balloon-occluded retrograde transvenous obliteration for unbled fundal varices (GS 42).
+- **Primary prophylaxis, high-risk GOV2/IGV1, NSBB contraindicated/not tolerated** — in expert centres consider **endoscopic injection** (LoE 2 strong), **EUS-guided therapy** (LoE 4 weak) or **[[variceal-obliteration|transvenous obliteration]]** (LoE 3 weak) (3.21b; new vs Baveno VII; matches AASLD GS 41). **Not on top of an NSBB** (3.21c). No TIPS or balloon-occluded retrograde transvenous obliteration for unbled fundal varices (GS 42).
 - **Bleeding GV** (bimodal acute + definitive pathway, technique, follow-up): [[variceal-upper-gi-bleeding]].
 
 ### Portal Hypertensive Gastropathy (PHG) and GAVE

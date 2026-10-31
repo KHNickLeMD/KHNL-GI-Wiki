@@ -22,6 +22,17 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 **Coverage-gap row #44 struck.** [[nsaid-enteropathy]] was built and indexed on 2026-10-30 but its queue row was left open, still reading "ready to build, still unbuilt". Collapsed to a struck one-liner — the row's long verification brief was also maintainer prose that `index.md` is not allowed to carry.
 
+**Stalest page 3/3 — [[aga-2024-intestinal-ultrasound]]** (was `updated: 2026-07-19`).
+
+- **Numbering/grading claim verified and correct** (narrative Commentary; numbers and grades nothing) — now stated explicitly on the page.
+- **Fidelity fixes:** acute severe ulcerative colitis window `within 48 h` → the document's **48 ± 24 hours**; tofacitinib response `≥32%` → **"a 32% reduction"**; missing 95% CIs restored.
+- **Invented content removed from [[intestinal-ultrasound]]:** the page asserted a cross-cutting bowel-wall-thickness cut-off "from the scoring indices themselves (IBUS-SAS / Limberg)" — neither appears in this CPU's text. Replaced with what the document does and does not give, pointing to the real segment cut-offs on [[ulcerative-colitis]] (ACG 2025: colonic >3 mm, rectal >4 mm, modified Limberg >0).
+- **Table 1 recreation rebuilt** — it had dropped the Cost column, invented "Gd contrast" for magnetic resonance enterography, and misattributed upper-endoscopy/ileocolonoscopy's limitation to the capsule row.
+- ⚠ **Figure 1 not captured — tooling blocked.** The normal-vs-IBD bowel-wall-layer schematic with its paired labelled ultrasound images qualifies under *Endoscopic appearance — always capture the pictures*; `pdftoppm` was denied by the permission system this run and the container has no PyMuPDF. Belongs at `raw/assets/intestinal-ultrasound-2024-bowel-wall-layers-02.png` under *Activity Metrics*.
+- ⚠ **Duplicate raw file:** `AGA/intestinal ultrasound for ibd.pdf` is byte-identical to `AGA/AGA 2024 CPU Intestinal Ultrasound in IBD.pdf` (md5 `874c2b8a…`). Left in place — `raw/` is immutable.
+- ⚠ **Two items for triage:** [[intestinal-ultrasound]] is filed in `7-concepts/` but is a performed procedure with equipment, technique, certification and a CPT code → belongs in `3-general-gi-procedures/`; and `ulcerative-colitis.md`'s "transperineal approach" line cites this CPU, which does not say it.
+- **Needed-sources: nothing qualified.** Novak 2021 (IBUS-SAS) fails the test — this CPU states no IUS scoring system is regularly used and rests no decision on one.
+
 **Stalest page 1/3 — [[aga-2024-chs]]** (was `updated: 2026-07-18`, the oldest page in the wiki).
 
 - **Numbering/grading claim verified against the PDF and correct**: Commentary format, no Best Practice Advice statements, no numbered recommendations, no GRADE ratings. The only numbering in the document is 1–3 on the proposed CHS diagnostic criteria, which the page already carried. Nothing invented; a *Document format* block now says so explicitly for the reader.

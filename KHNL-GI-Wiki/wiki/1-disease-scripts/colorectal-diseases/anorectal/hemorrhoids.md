@@ -193,7 +193,7 @@ Large skin tags not associated with significant hemorrhoids can be removed witho
 | **Location** | Mid and **more proximal rectum** | Usually **distal**, and **cross the dentate line** |
 | **Setting** | Portosystemic collaterals of [[portal-hypertension\|portal hypertension]] — present in **30%** of cirrhotics with portal hypertension | Any patient |
 | **Bleeding** | Uncommon, but can be **life-threatening** | Common, usually minor |
-| **Treatment** | Endoscopic cyanoacrylate injection or coils often control bleeding but carry **embolism risk and high rebleeding**; treating the underlying portal hypertension is essential — transhepatic portosystemic shunting ([[tips\|transjugular intrahepatic portosystemic shunt (TIPS)]]) or, as an alternative, balloon-occluded retrograde transvenous obliteration (BRTO) by interventional radiology | Banding / IRC per grade, above |
+| **Treatment** | Endoscopic cyanoacrylate injection or coils often control bleeding but carry **embolism risk and high rebleeding**; treating the underlying portal hypertension is essential — transhepatic portosystemic shunting ([[tips\|transjugular intrahepatic portosystemic shunt (TIPS)]]) or, as an alternative, [[variceal-obliteration\|balloon-occluded retrograde transvenous obliteration (BRTO)]] by interventional radiology | Banding / IRC per grade, above |
 
 ---
 
