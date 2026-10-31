@@ -3,8 +3,8 @@ title: "Hepatitis D (Delta)"
 category: disease-script
 tags: [hepatitis-delta, hdv, hepatitis-b, cirrhosis, bulevirtide, peg-interferon, hcc, viral-hepatitis]
 created: 2026-06-27
-updated: 2026-10-17
-sources: [aga-2025-hepatitis-delta]
+updated: 2026-10-31
+sources: [aga-2025-hepatitis-delta, pegasys-2023-peginterferon-alfa-2a-label]
 ---
 
 Hepatitis delta virus (HDV) is a defective RNA virus that occurs **only in the setting of [[chronic-hepatitis-b|hepatitis B virus (HBV)]] infection** (it requires hepatitis B surface antigen [HBsAg] to assemble), as coinfection or superinfection. Concurrent HDV is a **particularly aggressive** infection — it substantially increases the risk of [[cirrhosis]], [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]], and liver-related mortality versus HBV monoinfection [[aga-2025-hepatitis-delta]].
@@ -109,9 +109,10 @@ flowchart TD
 
 - **Pegylated interferon-α (peg-IFN-α-2a/2b)** — the **only US-available** therapy; weekly subcutaneous (SC).
   - **Indication (AASLD HBV guidance): elevated HDV RNA *and* elevated ALT → peg-IFN-α weekly for 12 months.**
-    - ⚠ **"Elevated" is not quantified and the dose is not given** — no HDV RNA IU/mL threshold, no ×upper limit of normal (ULN) or U/L alanine aminotransferase (ALT) threshold, and no µg peg-IFN dose, only its weekly subcutaneous route.
+    - ⚠ **"Elevated" is not quantified** — no HDV RNA IU/mL threshold and no ×upper limit of normal (ULN) or U/L alanine aminotransferase (ALT) threshold. Treatment selection here rests on clinical judgement.
+  - **Dose — off-label, borrowed from the hepatitis B regimen.** [[peginterferon-alfa-2a]] is **not labelled for HDV at all**; its indications are chronic hepatitis C and [[chronic-hepatitis-b|chronic hepatitis B (CHB)]]. The labelled adult CHB regimen is **180 mcg subcutaneously once weekly for 48 weeks** ([[pegasys-2023-peginterferon-alfa-2a-label]]). ⚠ AASLD's HDV course is **12 months**, not 48 weeks; no document reconciles the two.
   - 48-week SVR **23%–57%** (undetectable HDV RNA + normal ALT in 21%–50% at 48 wk); treatment >2 y may raise response rates. **Relapse ~50%** even after prolonged therapy, up to **9 years** after completing therapy. Responders have improved survival and fewer liver-related events.
-  - **Contraindicated** in advanced liver disease and in major extrahepatic disease; significant **neuropsychiatric and hematologic** toxicity limits use.
+  - **Contraindicated** in advanced liver disease and in major extrahepatic disease; significant **neuropsychiatric and hematologic** toxicity limits use. *Contraindications, the boxed warning, cytopenia/renal/ALT/depression dose modifications, monitoring and the colitis and pancreatitis stop rules: [[peginterferon-alfa-2a]].*
 - **Nucleos(t)ide analogue** — controls HBV only; **no efficacy against HDV**. See [[chronic-hepatitis-b]].
   - AASLD: add an NA **if HBV DNA is elevated** — no HBV DNA cut-point is given.
   - **EASL sets an explicit threshold:** NA therapy only in patients with **HBV DNA >2000 IU/mL and/or cirrhosis**.
@@ -135,10 +136,11 @@ flowchart TD
 
 ## See Also
 
-[[chronic-hepatitis-b]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[liver-transplantation]], [[nutrition-in-liver-disease]], [[liver-stiffness-measurement]], [[cirrhosis]]
+[[chronic-hepatitis-b]], [[peginterferon-alfa-2a]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[liver-transplantation]], [[nutrition-in-liver-disease]], [[liver-stiffness-measurement]], [[cirrhosis]]
 
 ---
 
 ## Sources
 
 1. [[aga-2025-hepatitis-delta|AGA Clinical Practice Update on Management of Hepatitis Delta: Commentary (2025)]]
+2. [[pegasys-2023-peginterferon-alfa-2a-label|PEGASYS (Peginterferon Alfa-2a) Injection — FDA Prescribing Information]]

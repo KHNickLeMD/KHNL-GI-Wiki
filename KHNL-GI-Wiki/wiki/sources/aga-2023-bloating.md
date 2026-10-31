@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on Evaluation and Management of Belching, A
 category: source
 tags: [bloating, distention, belching, dgbi, functional-gi, sibo, aga, cpu]
 created: 2026-07-19
-updated: 2026-07-19
+updated: 2026-10-31
 sources: []
 ---
 

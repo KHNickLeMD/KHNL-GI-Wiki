@@ -3,8 +3,8 @@ title: "Fecal Microbiota Transplantation (Fecal Microbiota-Based Therapies)"
 category: med
 tags: [fmt, microbiome, cdiff, recurrent-cdi]
 created: 2026-07-26
-updated: 2026-10-30
-sources: [aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, acg-2021-cdiff, feuerstadt-2022-ser109-cdiff, rebyota-2022-live-jslm-label]
+updated: 2026-10-31
+sources: [aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, acg-2021-cdiff, feuerstadt-2022-ser109-cdiff, rebyota-2022-live-jslm-label, vowst-2025-live-brpk-label]
 ---
 
 ## Overview
@@ -50,7 +50,7 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 - Screened donor stool required; **no specific delivery route is recommended** (insufficient evidence to favor one).
 - **Administration schedule for the two FDA-approved products** ([[aga-2026-cdiff-ibd|AGA 2026, CDI in IBD]]) — the only schedules any ingested guideline prints:
   - **RBL** — a broad consortium given as a **single-dose rectal enema, 1–3 days after completing antimicrobials**. Its label narrows this to **24–72 hours after the last antibiotic dose** ([[rebyota-2022-live-jslm-label]]); see [[#RBL — product dosing and administration (label)]].
-  - **VOS** — an encapsulated selective group of *Firmicutes* spores, **4 capsules once daily for 3 consecutive days, started 2–4 days after antimicrobials and after a bowel lavage**.
+  - **VOS** — an encapsulated selective group of *Firmicutes* spores, **4 capsules once daily for 3 consecutive days, started 2–4 days after antimicrobials and after a bowel lavage**. Its label confirms the regimen and prints the preparation sequence ([[vowst-2025-live-brpk-label]]); see [[#VOS — product dosing and administration (label)]].
   - Both prevent recurrence rather than treat active infection, so both follow the antibiotic course and its washout.
 - **Product choice when the patient has [[inflammatory-bowel-disease|IBD]]:** RBL has IBD-specific data (phase 3 open-label study including 74 patients with IBD — **treatment success 78.9% at 8 weeks**, **sustained clinical response 91.1% at 6 months**, comparable with non-IBD participants); **there are no VOS data in CDI with IBD**, but either product is reasonable on mild-to-moderate immunocompromising medications given the similar mechanism and response. RBL and VOS are now the main routes to microbiota restoration because major United States stool banks no longer supply specimens.
 - Consider after the **second recurrence (third episode)**, or earlier in selected patients at high risk of recurrent or morbid recurrence (recovered from severe/fulminant/treatment-refractory CDI, significant comorbidities).
@@ -59,7 +59,7 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 - Caution in patients needing frequent or long-term antibiotics — ongoing antibiotics may diminish efficacy.
 - **ACG 2021 delivery and repeat dosing** ([[acg-2021-cdiff]]): FMT for a second or further recurrence is a strong recommendation (moderate quality). Deliver by **colonoscopy or oral capsules** (both strong; equivalent — 96.2% vs 96.2% in one randomized trial); **enema** only if these are unavailable (conditional; lower efficacy in meta-analyses). Recurrence **within 8 weeks** of FMT → **repeat FMT** (conditional); most failures occur within 4 weeks, and <5% fail a second FMT. Before repeating, restart anti-CDI antibiotics to control symptoms; consider colonoscopic delivery if the first FMT was by enema or capsule.
 - **Guidelines differ — route.** [[aga-2024-fmt|AGA 2024]] finds insufficient evidence to recommend any route; [[acg-2021-cdiff|ACG 2021]] prefers colonoscopy or capsules over enema.
-- **VOS evidence — ECOSPOR III** ([[feuerstadt-2022-ser109-cdiff]]): purified *Firmicutes* spores, 4 capsules daily × 3 days after standard antibiotics resolve symptoms; 8-week recurrence **12% vs 40%** with placebo (relative risk 0.32, 95% CI 0.18–0.58), consistent across age and prior antibiotic (vancomycin or fidaxomicin); safety similar to placebo (mostly mild GI events); sustained clinical response **88% vs 60%**, number needed to treat **3.6**. Dose **≈3 × 10⁷ spore colony-forming units (CFU)**. Give **10 oz magnesium citrate the night before dosing** — vancomycin and fidaxomicin persist 5–7 days and inactivate the dose species. [[aga-2024-fmt]] lists fecal microbiota spores, live-brpk among the fecal microbiota–based therapies for recurrent CDI.
+- **VOS evidence — ECOSPOR III** ([[feuerstadt-2022-ser109-cdiff]]): purified *Firmicutes* spores, 4 capsules daily × 3 days after standard antibiotics resolve symptoms; 8-week recurrence **12% vs 40%** with placebo (relative risk 0.32, 95% CI 0.18–0.58), consistent across age and prior antibiotic (vancomycin or fidaxomicin); safety similar to placebo (mostly mild GI events); sustained clinical response **88% vs 60%**, number needed to treat **3.6**; the trial reports the dose as **≈3 × 10⁷ spore colony-forming units (CFU)**. The **rationale for the magnesium citrate purge** is here: vancomycin and fidaxomicin persist 5–7 days and inactivate the dose species — the volume and timing are on the label, below. [[aga-2024-fmt]] lists fecal microbiota spores, live-brpk among the fecal microbiota–based therapies for recurrent CDI.
 - **Pregnancy:** avoid FMT during pregnancy; defer to postpartum ([[acg-2021-cdiff]]).
 - Alternatives for patients who decline: [[cdiff-antibiotics|vancomycin taper or tapered-pulsed fidaxomicin]]. *(AGA 2024 also lists bezlotoxumab; [[aga-2026-cdiff-adults|AGA 2026]] reports it is **no longer commercially available**.)*
 
@@ -112,7 +112,32 @@ From [[rebyota-2022-live-jslm-label]]. **Indication is narrower than "FMT"**: pr
 > **Efficacy is proven at 8 weeks and unproven at 6 months.** Treatment success **70.6% vs 57.5%** (difference 13.1 points, 95% credible interval 2.3–24.0; posterior probability of superiority 0.991 against a 0.975 threshold). **Sustained clinical response at 6 months was 65.5% vs 56.5% — difference 9.1%, 95% CI −3.6% to 21.7%, not significant.** The randomized trials also **excluded** celiac disease, [[inflammatory-bowel-disease|IBD]], [[irritable-bowel-syndrome|IBS]] and chronic diarrhea, so those patients are not described by these numbers.
 
 > [!pitfall] A label contraindication is not the whole gate
-> RBL's label lists **no immunocompromise restriction** — its only contraindication is component allergy. **[[aga-2024-fmt]]'s restriction still governs patient selection**: conventional FMT only in mild/moderate immunocompromise, and no microbiota-based therapy in severe immunocompromise. Label silence is not permission.
+> RBL's label lists **no immunocompromise restriction** — its only contraindication is component allergy; **VOS's label lists no contraindication at all**. **[[aga-2024-fmt]]'s restriction still governs patient selection**: conventional FMT only in mild/moderate immunocompromise, and no microbiota-based therapy in severe immunocompromise. Label silence is not permission.
+
+### VOS — product dosing and administration (label)
+
+From [[vowst-2025-live-brpk-label]]. Same narrow indication as the rectal product: prevention of recurrence in individuals **≥18 y following antibacterial treatment for recurrent CDI**, with the same explicit Limitation of Use — **not indicated to treat CDI**.
+
+- **4 capsules orally once daily for 3 consecutive days**, each dose **on an empty stomach before the first meal of the day**. Swallow whole — **do not crush, chew, or break**.
+- **Contraindications: none** (the label's own word).
+- **Antibacterials must not be given concurrently** — the capsules contain live spores. Counsel the patient directly.
+- Made from human fecal matter → may transmit infectious agents, and **may contain food allergens** (donors have no dietary restrictions; risk unknown). Tell the patient both.
+- **Each capsule holds 1×10⁶–3×10⁷ *Firmicutes* spore CFU** in 92 ± 4% glycerol in saline — a **per-capsule** figure, not the per-dose figure the trial reports. **Mechanism of action is not established**, by the label's own statement.
+
+> [!howto] Preparing a patient for VOS
+> 1. **Finish the antibacterial course 2–4 days before** the first capsule.
+> 2. The **day before**, and **≥8 h before** the first dose, drink **296 mL (10 oz) magnesium citrate**.
+> 3. **Nothing by mouth but small sips of water for ≥8 h** before the first dose.
+> 4. Day 1 dose on the empty stomach; **Days 2 and 3 in the morning before breakfast**.
+
+> [!pitfall] Magnesium citrate when the kidneys will not take it
+> The label prescribes magnesium citrate and prints **no approved alternative**. In the trials, participants with **impaired kidney function** received **250 mL polyethylene glycol electrolyte solution instead — explicitly not approved for this use**. No ingested guideline addresses the substitution ([[vowst-2025-live-brpk-label]]).
+
+- **Storage is ordinary: 2–25 °C (36–77 °F), refrigerator or room temperature, never the freezer** — no ultracold chain, unlike RBL. Supplied as bottles of 12 capsules imprinted "SER109".
+- **Adverse reactions** (8 weeks, vs placebo): abdominal distension 31.1% vs 29.3%, fatigue 22.2% vs 21.7%, constipation 14.4% vs 10.9%, chills 11.1% vs 7.6%, diarrhea 10.0% vs 4.3%. **Median duration ≤5 days** each; most begin **within 10 days** of starting and are mild to moderate. Across 349 recipients, **no serious adverse event was judged related**.
+- **Not established under 18 y.** **No pregnancy data and no animal reproductive studies**; excretion in human milk unknown. Half of recipients were ≥65 y, but the data cannot say whether they respond differently.
+
+> **Recurrence separation narrows but does not close.** **8 weeks 12.4% vs 39.8%** (relative risk 0.32, 95% CI 0.18–0.58) · **12 weeks 18.0% vs 46.2%** (0.40, 0.24–0.65) · **24 weeks 21.3% vs 47.3%** (0.46, 0.30–0.73). Entry required **≥3 CDI episodes in 12 months** and symptom resolution after 10–21 days of vancomycin or fidaxomicin. The trials **excluded neutropenia (absolute neutrophil count <500/mm³), [[toxic-megacolon|toxic megacolon]] and small bowel ileus**, so those patients are not described by these numbers.
 
 ## Place in Therapy
 
@@ -133,3 +158,4 @@ From [[rebyota-2022-live-jslm-label]]. **Indication is narrower than "FMT"**: pr
 4. [[acg-2021-cdiff|ACG 2021: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections]]
 5. [[feuerstadt-2022-ser109-cdiff|SER-109, an Oral Microbiome Therapy for Recurrent Clostridioides difficile Infection (ECOSPOR III)]]
 6. [[rebyota-2022-live-jslm-label|REBYOTA (Fecal Microbiota, Live — jslm) Rectal Suspension — FDA Prescribing Information]]
+7. [[vowst-2025-live-brpk-label|VOWST (Fecal Microbiota Spores, Live — brpk) Capsules — FDA Prescribing Information]]

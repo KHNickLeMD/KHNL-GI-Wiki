@@ -3,7 +3,7 @@ title: "Chronic Hepatitis B"
 category: disease-script
 tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection, hbv-reactivation, antiviral-prophylaxis]
 created: 2026-05-15
-updated: 2026-10-17
+updated: 2026-10-31
 sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver, aga-2025-hepatitis-delta]
 ---
 
@@ -103,7 +103,7 @@ Two classes; NAs strongly preferred:
 
 - **Three preferred NAs — entecavir (ETV), tenofovir disoproxil fumarate (TDF), tenofovir alafenamide (TAF)**: all high efficacy, low resistance, broadly applicable.
 - *Choosing between them — the avoid rules (pregnancy, prior lamivudine exposure, renal/bone disease, HIV co-infection), renal dose adjustment and dialysis, administration with or without food, the switch/add-on table for suboptimal response, and adverse effects: see [[hbv-nucleoside-analogs]].*
-- Peginterferon: rarely used (limited applicability, poor tolerability); higher rate of functional cure than NAs but overall still low.
+- **[[peginterferon-alfa-2a|Peginterferon alfa-2a]]**: rarely used (limited applicability, poor tolerability); higher rate of functional cure than NAs but overall still low. Labelled adult regimen **180 mcg subcutaneously weekly × 48 weeks**; dose modification, contraindications and monitoring are on its own page.
 
 ### Treatment Decisions by Phase
 
@@ -259,7 +259,7 @@ Goal: HBV DNA <lower limit of quantification. HBV not transmitted by casual cont
 
 ## See Also
 
-[[hbv-nucleoside-analogs]], [[hepatitis-d]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[liver-disease-in-pregnancy]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[wilson-disease]], [[direct-acting-antivirals]], [[liver-biopsy]], [[cirrhosis]], [[liver-stiffness-measurement]], [[variceal-upper-gi-bleeding]], [[anti-tnf-agents]], [[thiopurines]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]]
+[[hbv-nucleoside-analogs]], [[peginterferon-alfa-2a]], [[hepatitis-d]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[liver-disease-in-pregnancy]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[wilson-disease]], [[direct-acting-antivirals]], [[liver-biopsy]], [[cirrhosis]], [[liver-stiffness-measurement]], [[variceal-upper-gi-bleeding]], [[anti-tnf-agents]], [[thiopurines]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]]
 
 ---
 

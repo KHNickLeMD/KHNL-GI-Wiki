@@ -3,8 +3,8 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-10-22
-sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff, idsa-2017-infectious-diarrhea]
+updated: 2026-10-31
+sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff, idsa-2017-infectious-diarrhea, vowst-2025-live-brpk-label]
 ---
 
 ## Contents
@@ -191,7 +191,7 @@ flowchart TD
 - **Earlier (after initial infection or first recurrence)** if high risk of morbid recurrence — age >65, immunocompromised, skilled-nursing resident, or severe/fulminant/refractory prior episode. [[aga-2024-fmt]], [[aga-2026-cdiff-adults]]
 - **Route (ACG):** colonoscopy or capsules (equivalent, 96.2% each in one trial; both strong); enema only if neither available. AGA 2024 favors no route. [[acg-2021-cdiff]], [[aga-2024-fmt]]
 - **FMT failure** (recurrence within 8 weeks; most within 4): restart anti-CDI antibiotics, repeat FMT — colonoscopic if the first was enema/capsule; <5% fail a second. [[acg-2021-cdiff]]
-- **Oral spore product (SER-109, fecal microbiota spores live-brpk):** 8-week recurrence **12% vs 40%** placebo (ECOSPOR III). [[feuerstadt-2022-ser109-cdiff]]
+- **Oral spore product (SER-109, fecal microbiota spores live-brpk):** 8-week recurrence **12% vs 40%** placebo (ECOSPOR III). [[feuerstadt-2022-ser109-cdiff]] Dosing and the magnesium citrate prep are on [[fmt]] ([[vowst-2025-live-brpk-label]]).
 - **Bezlotoxumab:** no longer commercially available (supersedes ACG 2021 Rec 19). [[aga-2026-cdiff-adults]]
 
 **Suppressive vancomycin 125 mg daily (long-term)** — multiple recurrences and **not a candidate** for microbiota therapy (comorbidity, limited life expectancy, frequent systemic antibiotics, pregnancy, severe immunosuppression, active chemotherapy, extreme frailty, no access) **or** failed it repeatedly. Recurrence >40% without it and >30% after stopping; microbiota therapy stays preferred when feasible. [[aga-2026-cdiff-adults]]
@@ -250,3 +250,4 @@ flowchart TD
 4. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review (2026)]]
 5. [[feuerstadt-2022-ser109-cdiff|SER-109, an Oral Microbiome Therapy for Recurrent Clostridioides difficile Infection (ECOSPOR III)]]
 6. [[idsa-2017-infectious-diarrhea|IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea]]
+7. [[vowst-2025-live-brpk-label|VOWST (Fecal Microbiota Spores, Live — brpk) Capsules — FDA Prescribing Information]]

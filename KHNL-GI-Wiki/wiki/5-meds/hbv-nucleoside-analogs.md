@@ -3,7 +3,7 @@ title: "HBV Nucleos(t)ide Analogs (Entecavir, TDF, TAF)"
 category: med
 tags: [hepatitis-b, hbv, antiviral, nucleoside-analogues, entecavir, tenofovir, tdf, taf, hepatology, pregnancy, hbv-reactivation, resistance]
 created: 2026-10-03
-updated: 2026-10-24
+updated: 2026-10-31
 sources: [aasld-idsa-2025-chb-treatment, baraclude-2019-entecavir-label, viread-2018-tenofovir-df-label, vemlidy-2024-tenofovir-alafenamide-label, aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aasld-ast-2025-liver-transplant-graft-complications, acg-2023-alf, aasld-2020-autoimmune-hepatitis]
 ---
 
@@ -34,7 +34,7 @@ sources: [aasld-idsa-2025-chb-treatment, baraclude-2019-entecavir-label, viread-
 - Two drug classes are approved for [[chronic-hepatitis-b|chronic hepatitis B (CHB)]]: pegylated interferon (peg-IFN) and **nucleos(t)ide analogues (NAs)**. ([[aasld-idsa-2025-chb-treatment]])
 - **Three preferred NAs:** entecavir (ETV), tenofovir disoproxil fumarate (TDF), tenofovir alafenamide (TAF).
   - All three give high efficacy for hepatitis B virus (HBV) DNA suppression, **low rates of antiviral resistance**, are well tolerated, and are broadly applicable — including decompensated [[cirrhosis]] and immunocompromised persons.
-- **Peg-IFN is rarely used** — limited applicability, safety and tolerability compared with NA therapy. Functional cure is infrequent with all current therapies, though higher with peg-IFN than with NAs.
+- **Peg-IFN is rarely used** — limited applicability, safety and tolerability compared with NA therapy. Functional cure is infrequent with all current therapies, though higher with peg-IFN than with NAs. Dose, modifications and contraindications: [[peginterferon-alfa-2a]].
 - **ETV and TDF are generic**; cost/availability is an explicit selection factor and a factor in shared decision-making about starting therapy.
 - NAs suppress replication but **do not eradicate** HBV — therapy is long-term and in most cases lifelong (see [[#Stopping Therapy]]).
 
@@ -273,7 +273,7 @@ AASLD/IDSA 2025 is a focused update: it gives the intervals above and for untrea
 
 ## See Also
 
-[[chronic-hepatitis-b]], [[hepatitis-d]], [[cirrhosis]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[acute-liver-failure]], [[liver-disease-in-pregnancy]], [[direct-acting-antivirals]], [[noninvasive-liver-disease-assessment]], [[abnormal-liver-chemistries]]
+[[chronic-hepatitis-b]], [[peginterferon-alfa-2a]], [[hepatitis-d]], [[cirrhosis]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[acute-liver-failure]], [[liver-disease-in-pregnancy]], [[direct-acting-antivirals]], [[noninvasive-liver-disease-assessment]], [[abnormal-liver-chemistries]]
 
 ---
 

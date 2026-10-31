@@ -6,6 +6,113 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-31] lint | 06:00 pass — two labels fetched and ingested, peginterferon finally gets an owner page, and a porphyria page that over-tested for HCC
+
+**Entry opened before any other edit** (LINT → *Record as you go*); bullets added as each write landed, and closed at the end of the pass.
+
+**Git hygiene:** `git pull --rebase` → already up to date; working tree clean at start. `raw/` holds **508** non-asset files, unchanged from the earlier 2026-10-31 pass → **no new inbox delivery**; `git status --untracked-files=all` returns nothing under `raw/` to commit (the 14 AFS figure captures flagged this morning are now tracked and committed).
+
+**Resume markers:** `grep -rl "ingest: partial" wiki/sources/` → **0**. Nothing mid-ingest.
+
+**Daily source fetch — 2 of 2, both labels, both qualifying.** *Scores and classification instruments* screened first as the step requires: **all three rows are 🔒** (Eckardt 1992, WHO Blue Book 2019, Amodio 2013 ISHEN) → none fetchable. In *Guidelines and consensus*, the only unmarked rows are the CDC Yellow Book / CDC parasite pages and the NIH/CDC/IDSA opportunistic-infections guidelines — **web documents outside the PMC and DailyMed buckets** the script may use, so skipped, not scraped. Two product-label rows passed *What belongs* (a drug GI/hepatology prescribes, dose absent from every ingested guideline):
+
+- **Vowst (fecal microbiota spores, live-brpk)** → `downloaded`, 192 KB, DailyMed Set ID `99e5a37a-930c-4641-bcdd-7013ec1c15fe`. The row the 2026-10-30 pass narrowed rather than deleted; [[aga-2024-fmt]] gives no product dosing and directs the reader to the package insert.
+- **Pegasys (peginterferon alfa-2a)** → `downloaded`, 1.2 MB, DailyMed Set ID `d9290e5b-6d40-2318-e053-2995a90a9916`. Qualifies on [[hepatitis-d]]'s own flag: AASLD HBV guidance gives the indication and weekly subcutaneous route but **no µg dose**.
+- Nothing else in the unmarked set passed; no third pick was made to pad the count.
+
+**Ingest: both fetched labels, finished one at a time.** [[vowst-2025-live-brpk-label]] then [[pegasys-2023-peginterferon-alfa-2a-label]] — each with its own entry below, its source page, propagation, `index.md` row and the `ingest: partial` marker deleted only as its last edit. Beyond those two, **nothing qualified**: every tier-1/2 file in `raw/` has a source page. Still uningested and still correct — the **60 gated lectures/chalk talks** (never auto-ingested; this pass is unattended, so they are reported and left) and `IANS 2024 Anal Cancer Screening Consensus.pdf` (6,417 bytes, a saved HTML page, not a real copy). **Backlog mode stays off**, so the stalest-page, slim and coverage-gap steps all run.
+
+**Health check — clean.** **742** pages, **400** source pages. **0 broken links** (whole-wiki, not just outside `log.md`), **0 orphan pages**, **0 stubs** (so the stub-expansion step did nothing — nothing qualified), **0 unescaped alias pipes** in table cells, 0 `.DS_Store`/OS artifacts, **0 `ingest: partial` markers**, no lint report written to disk.
+
+**Stalest page 1/3 — [[aga-2023-bloating]]** (was `updated: 2026-07-19`, the oldest page in the wiki).
+
+- **Numbering and grading verified against the PDF and correct.** All **15** Best Practice Advice statements are present, verbatim, correctly numbered, and the page's "no formal GRADE ratings" claim matches the document's own sentence. Nothing invented. No fidelity edit was needed — this is the highest-risk axis and it was clean.
+- **Propagation verified complete:** [[abdominal-bloating-and-distention]] carries the symptom-driven algorithm, the Rome IV criteria, the alarm-feature imaging rule and the SIBO caveat; the page is decision-sufficient as it stands.
+- ⚠ **Figures 1–3 not captured — tooling blocked again.** The impedance-pH and high-resolution manometry **tracings that distinguish gastric from supragastric belching** are what Best Practice Advice 1 is decided on, and the entity page describes them in words only. `pdftoppm` was denied by the permission system this run. Added as a row to `needed-sources.md` → *Figures and tables… that need capture*. **This is the third consecutive pass blocked on image tooling** (2026-10-30, 2026-10-31 earlier, this one) — it is a standing blocker, not a one-off.
+- **Needed-sources: nothing else qualified.** The SIBO breath-test cut-off question is already open against [[acg-2020-sibo]], which issues no cut-off of its own; no specific resource would close it.
+
+**Stalest page 2/3 — [[aga-2023-acute-hepatic-porphyria]]** (was `updated: 2026-07-20`).
+
+- **Numbering and grading verified and correct** — all **12** Best Practice Advice statements verbatim and correctly numbered, ungraded claim accurate.
+- **Fidelity defect found and fixed on [[acute-hepatic-porphyria]]:** the *Key Tests* summary table listed surveillance as **"liver ultrasound and α-fetoprotein (AFP) every 6 mo after age 50 y"**. Best Practice Advice 10 is **liver ultrasound alone**, and the document states the role of AFP "is unclear, as α-fetoprotein elevation is not routinely observed in patients with high tumor burden" — which the same page says correctly 39 lines lower. The page contradicted itself and over-tested; the cell now reads ultrasound only and says AFP is not part of the recommendation.
+- **Checked and confirmed accurate, not invented:** the page's "HCC (and [[cholangiocarcinoma]]) may occur without fibrosis/cirrhosis" — the document does say "increased risk of HCC (and cholangiocarcinoma)". Table 1 is fully recreated natively on the entity page (type × gene × inheritance × age × sex predominance × acute vs cutaneous × ALA/PBG pattern), better than the source page's prose rendering.
+- **Banned maintainer note removed from [[givosiran]]:** its dosing block told the maintainer to "take the mg/kg dose from FDA labeling or the ENVISION phase 3 trial report". Rewritten for the reader — AGA 2023 states no weight-based dose, unlike hemin's 3–4 mg/kg/d, so check the product labeling before prescribing. The maintenance half already has its row on the download list (Givlaari label), which is **re-verified as still valid**: no ingested source gives the mg/kg dose.
+
+**Stalest page 3/3: not taken.** The cap is 2–3 and this pass ran two full ingests plus a new entity page; the third-stalest ([[aga-2023-alpha-gal-syndrome]], `updated: 2026-07-20`) goes to the next pass rather than being opened and left half-checked, which is the failure mode the 2026-10-30 entry recorded.
+
+**New entity page created during ingest — [[peginterferon-alfa-2a]].** Not a queue fill: three pages referenced peg-IFN and none owned it, so the Pegasys dose would have been written out three times. Created per LINT → *Missing entity pages — create them, don't ask*.
+
+**Coverage gaps: nothing qualified.** Every row in *Fillable now* is struck (0 unstruck rows) — the queue is empty, so per the rule the pass adds newly noticed gaps rather than filling any. **None was noticed that passes the test**: the health check found no orphans, no broken links and no unlinked entity with ingested sourcing behind it. No filler row was written to use the budget.
+
+**Stubs: nothing qualified** — 0 stub pages wiki-wide.
+
+**Slim long pages — 1 of 1–2, [[short-bowel-syndrome]] (the wiki's longest body).** Condensed from **4,245 to 3,511 body words** (−17%): prose to telegraphic bullets, paragraphs to tables, study narrative and evidence history cut.
+
+- **A move, not a copy:** teduglutide's **malignancy stance** and the **prescribing/consent** requirements went to their owner page [[glp-2-agonists]] — the AGA's "do not start in active GI malignancy" and its stricter expert-review opinion (avoid with active or recent malignancy of any location, arbitrarily 5 years; 1 liver and 2 lung cancers among treated subjects in the STEPS FDA report), against the label's own position (**no formal contraindication**, discontinue if GI cancer is diagnosed on therapy, benefit–risk call for non-GI malignancy). Also moved: experienced-prescriber-only, and the seven items informed consent must cover. `## Contents` and `updated:` fixed on both pages.
+- ⚠ **Still over the ~2,500-word ceiling at 3,511, so this page is not finished** — it stays the top slim candidate for the next pass. The run was **stopped at its budget cap** mid-task rather than left to overrun; everything on disk is complete and self-consistent (0 broken links, dates bumped on both pages, verified after the stop), but the remaining ~1,000 words of condensation were not done. Recording this explicitly so the next pass resumes rather than assumes the page was finished — the failure the 2026-10-30 entry logged.
+
+⚠ **Repo hygiene, reported not fixed for the second consecutive pass.** Nine tracked scratch files remain in the repo root — `.lint-pageslugs.txt`, `.lint-slugs.txt`, `.lint-source-titles.txt`, `.lint-sourceslugs.txt`, `.lint-updated.txt` (lint output dumps, banned by name under *Lint reports are ephemeral*) and `.acg16.txt`, `.hcv.txt`, `.idsa.txt`, `.preg.txt` (`pdftotext` extractions of source PDFs, a live fidelity hazard because `pdftotext` **substitutes** characters on ACG/LWW files). `git rm` was attempted and **denied by the permission system** again this run. Two `.py` lint scanners (`.lint-scan.py`, `.lintscan2.py`) also sit in the root; they are working tools, not reports, and are left alone. **These need a human `git rm` or a standing permission** — an unattended pass cannot clear them.
+
+---
+
+## [2026-10-31] ingest | PEGASYS label — the dose hepatitis D borrows, and the page it now has an owner on
+
+**Source created:** [[pegasys-2023-peginterferon-alfa-2a-label]] — PEGASYS (peginterferon alfa-2a) injection, FDA prescribing information, rev. 12/2023, initial US approval 2002. DailyMed Set ID `d9290e5b-6d40-2318-e053-2995a90a9916`; `raw/Drug Labels/Pegasys Label.pdf` (1.2 MB, read with the Read tool).
+
+**Why it qualified:** [[hepatitis-d]] carried an explicit flag — AASLD HBV guidance names the indication (elevated HDV RNA *and* elevated ALT → weekly subcutaneous peg-IFN-α for 12 months) but gives **no µg dose**. A drug hepatology prescribes, with the dose absent from every ingested guideline.
+
+**The honest limit, recorded on every page it touches:** **the label does not mention hepatitis D at all.** Its indications are chronic hepatitis C and chronic hepatitis B. The **180 mcg subcutaneously weekly** figure reaches [[hepatitis-d]] as an **off-label extrapolation from the adult CHB regimen**, labelled as such — and the two durations disagree (AASLD 12 months vs the labelled 48 weeks), which the page states rather than silently picking one. The HDV treatment *trigger* is still unquantified; a product label cannot supply a patient-selection threshold, so the **EASL 2023 delta row stays on the download list**, narrowed to that half.
+
+**New page created — [[peginterferon-alfa-2a]]** (`5-meds/`). Three pages referenced peg-IFN and none owned it, so the dose would otherwise have been written out three times. The page holds the regimen table, the dose-modification tables (ANC and platelet bands, creatinine clearance **<30 mL/min including hemodialysis → 135 mcg weekly**, the ALT-flare ladder, the depression ladder by severity and 8-week trajectory), the boxed warning, the contraindications, the monitoring schedule with the trials' acceptable baseline values, adverse effects, and the interactions.
+
+**Pages updated:**
+
+- [[hepatitis-d]] — dose line rewritten as the off-label extrapolation with the duration conflict named; the contraindication bullet now points at the drug page instead of restating it. The *"dose is not given"* half of its old flag is struck; the *"elevated is not quantified"* half stands.
+- [[chronic-hepatitis-b]] — the one-line peginterferon bullet now links the drug page and carries **180 mcg weekly × 48 weeks**.
+- [[hbv-nucleoside-analogs]] — its "peg-IFN is rarely used" line now links out for the dose.
+- `index.md` rows for the source and the new med page; `needed-sources.md` Pegasys row deleted and the EASL delta row narrowed.
+
+**Decision-critical content captured beyond the dose:**
+
+- **Contraindications:** autoimmune hepatitis · **hepatic decompensation Child-Pugh >6 (class B and C)**, ≥6 in cirrhotic CHC/HIV · alpha-interferon hypersensitivity · neonates and infants (benzyl alcohol). Not recommended in solid organ transplant recipients; graft rejection reported.
+- **Hepatitis B ALT flares are expected, not failure** — >10 × ULN in **12% HBeAg-negative and 18% HBeAg-positive** on treatment, 7% and 12% after stopping — with the discriminator that matters: **bilirubin, prothrombin time and albumin**, not the ALT value, separate an immune flare from incipient decompensation. Graded response captured (>5 × ULN → 135 mcg or hold; persistent >10 × ULN → consider stopping; progressive rise despite reduction, or with rising bilirubin or decompensation → **stop immediately**).
+- **Two GI toxicities with their own stop rules:** ulcerative and hemorrhagic/ischemic **colitis within 12 weeks** of starting (abdominal pain, bloody diarrhea, fever → stop immediately; resolves in 1–3 weeks) and **pancreatitis** — both sometimes fatal.
+- **Azathioprine interaction:** pancytopenia 3–7 weeks into concomitant pegylated interferon/ribavirin plus azathioprine; stop all three and do not reintroduce the combination.
+
+**No Anki cards** — guideline-sourced-cards-only. [[peginterferon-alfa-2a]] is label-sourced for every dose and threshold on it; the two guideline sources on the page contribute only the "rarely used" placement, which is not a card.
+
+---
+
+## [2026-10-31] ingest | VOWST (live-brpk) label — the oral spore product's prep sequence, and the follow-up the trial's headline stops short of
+
+**Source created:** [[vowst-2025-live-brpk-label]] — VOWST (fecal microbiota spores, live-brpk) capsules, FDA prescribing information, rev. 2/2025, initial US approval 2023. DailyMed Set ID `99e5a37a-930c-4641-bcdd-7013ec1c15fe`; `raw/Drug Labels/Vowst Label.pdf` (192 KB, 12 pages, read with the Read tool, not `pdftotext`).
+
+**Why it qualified:** the one row [[needed-sources]] carried for it, written off [[fmt]]'s own declared gap — [[aga-2024-fmt]] gives **no product dosing at all** and sends the reader to the package insert. The 2026-10-30 pass took the rectal product and narrowed the row to Vowst rather than deleting it; this closes the pair.
+
+**What it adds that no ingested guideline prints:**
+
+- **The preparation sequence**, which is the part that goes wrong at the bedside: finish the antibacterial course **2–4 days before** the first capsule · **296 mL (10 oz) magnesium citrate the day before and ≥8 h pre-dose** · **nothing by mouth but sips of water for ≥8 h** · Days 2 and 3 in the morning before breakfast.
+- **Contraindications: none** — the label's own word, against the rectal product's one.
+- **Storage is ordinary** — 2–25 °C, refrigerator or room temperature, never the freezer. No ultracold chain, which is a real difference in where the product can be held.
+- **Per-capsule content 1×10⁶–3×10⁷ *Firmicutes* spore CFU** in 92 ± 4% glycerol in saline, and **mechanism of action not established** by the label's own statement.
+- **The 12- and 24-week recurrence rates** the wiki did not carry: 12.4% vs 39.8% at 8 weeks (relative risk 0.32), **18.0% vs 46.2% at 12 weeks (0.40)**, **21.3% vs 47.3% at 24 weeks (0.46)**. The separation narrows and does not close.
+
+**Pages updated:**
+
+- [[fmt]] — new `### VOS — product dosing and administration (label)` section mirroring the RBL one: the regimen, the "no contraindications" line, the concurrent-antibacterial interaction, a `[!howto]` for the prep sequence, a `[!pitfall]` for the renal magnesium-citrate problem, storage, the adverse-reaction line with median durations, and the 8/12/24-week recurrence blockquote. The ECOSPOR III bullet was **rewritten rather than extended** — it now keeps the trial's efficacy and the *rationale* for the purge (vancomycin/fidaxomicin persist 5–7 days and inactivate the dose species) and hands the volume and timing to the label section, so the prep is stated once. The existing immunocompromise `[!pitfall]` gained VOS's "no contraindication at all".
+- [[clostridioides-difficile]] — one line and a link, per *one home per fact*; product detail stays on the drug page.
+- `index.md` row added; `needed-sources.md` Vowst row deleted.
+
+**Contradictions / cautions recorded on the source page:**
+
+- **"No contraindications" is not "no restrictions".** [[aga-2024-fmt]]'s severe-immunocompromise bar still governs selection, and the label's own trial exclusions agree — **neutropenia (absolute neutrophil count <500/mm³), toxic megacolon and small bowel ileus** were excluded, so no efficacy or safety figure here describes those patients.
+- **Per-capsule vs per-dose CFU.** The label gives a per-capsule range; [[feuerstadt-2022-ser109-cdiff]] gives ≈3 × 10⁷ per dose. Different denominators, so neither is restated as the other — each is attributed to its own document.
+- **The magnesium citrate prep has a renal caveat the guidelines lack.** The trials substituted **250 mL polyethylene glycol electrolyte solution** in impaired kidney function, and the label flags that as **not approved for this use**. Reported as a study practice, not an alternative.
+
+**No Anki cards** — guideline-sourced-cards-only; a product label is not a guideline, CPU or consensus statement. Same disposition as the other eight label pages.
+
+---
+
 ## [2026-10-31] update | Card pass — one EGJ-technique duplicate merged; all 335 carded pages current, no page eligible for new cards
 
 **Dedup (ran first, per CARDS → *Slim the deck*):** 5 candidate pairs at ≥0.4, all judged and marked in `dedup-ledger.tsv`.
@@ -23,9 +130,9 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
-## [2026-10-31] lint | pass in progress
+## [2026-10-31] lint | earlier manual pass — stalest-page validation of the two 2024 AGA Commentaries
 
-**Entry opened before any other edit** (LINT → *Record as you go*). Bullets added as each write lands.
+**Entry closed retroactively by the 06:00 pass of 2026-10-31**, which found it still titled "pass in progress". Its work (stalest pages 1/3 and 3/3, the coverage-gap row #44 strike, the health check) is recorded below and was complete; only the header was left open. Stalest page 2/3 was never taken by that pass.
 
 **Git hygiene:** `git pull --rebase` → already up to date. `raw/` holds **508** non-asset files, unchanged since the 2026-10-30 18:00 pass → **no new inbox delivery.** Untracked under `raw/`: **14 figure captures** from the three AFS ingests, on disk but embedded on no page (see below).
 

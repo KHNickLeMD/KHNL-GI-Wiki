@@ -3,7 +3,7 @@ title: "Givosiran"
 category: med
 tags: [porphyria, acute-hepatic-porphyria, sirna, alas1]
 created: 2026-07-20
-updated: 2026-09-07
+updated: 2026-10-31
 sources: [aga-2023-acute-hepatic-porphyria]
 ---
 
@@ -20,7 +20,7 @@ sources: [aga-2023-acute-hepatic-porphyria]
 ## Dosing
 
 - **Route/interval:** subcutaneous, **monthly**.
-  > [[aga-2023-acute-hepatic-porphyria]] specifies only "monthly subcutaneous givosiran" and never states a weight-based dose (contrast [[hemin]], where the Clinical Practice Update (CPU) gives 3–4 mg/kg/d); take the mg/kg dose from FDA labeling or the ENVISION phase 3 trial report.
+  > [[aga-2023-acute-hepatic-porphyria|AGA 2023]] gives only "monthly subcutaneous givosiran" and **states no weight-based dose** — unlike [[hemin]], for which it gives 3–4 mg/kg/d. Check the product labeling for the milligram-per-kilogram dose before prescribing.
 
 ## Cautions
 

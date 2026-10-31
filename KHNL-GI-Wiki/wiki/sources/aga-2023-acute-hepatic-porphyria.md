@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on Diagnosis and Management of Acute Hepati
 category: source
 tags: [porphyria, acute-hepatic-porphyria, aip, hepatology, metabolic, givosiran, hemin, cpu]
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-10-31
 sources: []
 ---
 

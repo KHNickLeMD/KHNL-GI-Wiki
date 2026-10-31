@@ -3,7 +3,7 @@ title: "Acute Hepatic Porphyria"
 category: disease-script
 tags: [porphyria, acute-hepatic-porphyria, aip, hcp, vp, alad, hepatology, metabolic, givosiran, hemin]
 created: 2026-07-20
-updated: 2026-10-21
+updated: 2026-10-31
 sources: [aga-2023-acute-hepatic-porphyria]
 ---
 
@@ -93,7 +93,7 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 
 | Diagnostic biochemical testing | Confirmatory testing | Annual monitoring | On hemin (add) | On givosiran (add) |
 |---|---|---|---|---|
-| Random urine PBG, ALA, and creatinine | Genetic sequencing of *ALAD, HMBS, CPOX, PPOX* | Liver enzymes; creatinine and estimated glomerular filtration rate (eGFR); liver ultrasound and α-fetoprotein (AFP) **every 6 mo after age 50 y** | Iron, ferritin | Comprehensive metabolic panel, plasma homocysteine, urinalysis, urinary protein-to-creatinine ratio, B12/folate, amylase/lipase |
+| Random urine PBG, ALA, and creatinine | Genetic sequencing of *ALAD, HMBS, CPOX, PPOX* | Liver enzymes; creatinine and estimated glomerular filtration rate (eGFR); **liver ultrasound every 6 mo after age 50 y** (ultrasound alone — α-fetoprotein is not part of the recommendation) | Iron, ferritin | Comprehensive metabolic panel, plasma homocysteine, urinalysis, urinary protein-to-creatinine ratio, B12/folate, amylase/lipase |
 
 *Table 2 — Testing recommendations for AHP. Givosiran labs: before start and again just before each monthly injection for 3 months; if stable and well-tolerated, repeat every 3 months for the next year and at least every 6 months thereafter. ([[aga-2023-acute-hepatic-porphyria]])*
 

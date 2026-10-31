@@ -3,7 +3,7 @@ title: "Needed Sources — Download List"
 category: overview
 tags: [maintenance, sources]
 created: 2026-09-08
-updated: 2026-10-29
+updated: 2026-10-31
 sources: []
 ---
 
@@ -41,7 +41,7 @@ Guidelines, papers, labels and figures that would close a specific gap on a wiki
 | 🔒 [Huston JM et al. SIS 2024 updated guidelines on intra-abdominal infection. *Surg Infect* 2024;25:419–35](https://doi.org/10.1089/sur.2024.137) | antibiotic regimen for colon ischemia | [[colon-ischemia]] |
 | [CDC Yellow Book](https://www.cdc.gov/yellow-book) and [CDC Parasites treatment pages](https://www.cdc.gov/parasites) (giardiasis, amebiasis, cryptosporidiosis) | drug, dose, route, duration | [[giardiasis]], [[entamoeba-histolytica-infection]], [[cryptosporidiosis]], [[shigellosis]], [[salmonella-infection]], [[acute-diarrhea]], [[nitazoxanide]] |
 | [Panel on Opportunistic Infections. Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV (NIH/CDC/IDSA)](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections) | CD4-stratified diarrhea differential; HSV / CMV esophagitis doses; cryptosporidiosis CD4 cut-off | [[hiv-aids-related-diarrhea]], [[cryptosporidiosis]], [[infectious-esophagitis]] |
-| 🔒 [EASL Clinical Practice Guidelines on hepatitis delta virus. *J Hepatol* 2023;79:433–60](https://doi.org/10.1016/j.jhep.2023.05.001) + Pegasys label (below) | HDV treatment triggers; peg-IFN dose (off-label for HDV) | [[hepatitis-d]] |
+| 🔒 [EASL Clinical Practice Guidelines on hepatitis delta virus. *J Hepatol* 2023;79:433–60](https://doi.org/10.1016/j.jhep.2023.05.001) | **HDV treatment triggers** — the HDV RNA IU/mL and ALT thresholds AASLD leaves as "elevated". *(The peg-IFN dose half of this row is closed: the Pegasys label was ingested 2026-10-31 → [[pegasys-2023-peginterferon-alfa-2a-label]], [[peginterferon-alfa-2a]]. A label cannot supply a patient-selection threshold.)* | [[hepatitis-d]] |
 | 🔒 [Krowka MJ et al. ILTS practice guidelines: hepatopulmonary syndrome and portopulmonary hypertension. *Transplantation* 2016;100:1440–52](https://doi.org/10.1097/TP.0000000000001229) | POPH mPAP / PVR / wedge cut-offs | [[hepatopulmonary-syndrome-portopulmonary-hypertension]] |
 | 🌐 [ACG 2022 celiac guideline Supplementary Table 1](https://doi.org/10.14309/ajg.0000000000002075) | Marsh IIIA/B/C and Corazza definitions | [[celiac-disease]] |
 | 🔒 [McClave SA et al. Guidelines for nutrition support therapy in the adult critically ill patient (ASPEN/SCCM). *JPEN* 2016;40:159–211](https://doi.org/10.1177/0148607115621863) | metoclopramide / erythromycin doses in EN intolerance | [[nutrition-in-hospitalized-patients]] |
@@ -56,8 +56,6 @@ FDA prescribing information from [DailyMed](https://dailymed.nlm.nih.gov/dailyme
 | Stelara (ustekinumab), Tremfya (guselkumab), Omvoh (mirikizumab), Skyrizi (risankizumab) labels | dosing, TB/HBV screening, reaction rates, pregnancy | [[il-23-and-il-12-23-inhibitors]] |
 | Prograf (tacrolimus) label | neurotoxicity / adverse-effect detail | [[tacrolimus]] |
 | Givlaari (givosiran) label | mg/kg dose | [[givosiran]] |
-| Vowst (fecal microbiota spores, live-brpk) label *(Rebyota taken 2026-10-30 → [[rebyota-2022-live-jslm-label]])* | dosing and administration — [[aga-2024-fmt]] gives none and directs the reader to the package insert | [[fmt]] |
-| Pegasys (peginterferon alfa-2a) label | HBV dose (HDV use is off-label) | [[hepatitis-d]] |
 | 🌐 [ACG 2021 IBS guideline (Lacy) Supplemental Table 2](https://doi.org/10.14309/ajg.0000000000001036) | tegaserod cardiovascular risk-factor list | [[tegaserod]] |
 
 ## Figures and tables in already-ingested PDFs that need capture (raster images, no text layer)
@@ -67,6 +65,7 @@ FDA prescribing information from [DailyMed](https://dailymed.nlm.nih.gov/dailyme
 | ACG 2025 gastric premalignant Figure 4; AGA 2021 atrophic gastritis Supplementary Figure 1A/B | OLGA/OLGIM stage-assignment grid | [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]] |
 | ACG 2025 EoE Figure 2 (EREFS with example scoring) | per-feature EREFS points | [[eosinophilic-esophagitis]] |
 | AGA 2024 CPU *Esophageal Dysfunction from Immunity & Infection* Figure 1 | 6-panel endoscopic appearances — (A) Sjögren's with stricture, (B) Crohn's disease, (C) lichen planus with edema/exudates, (D) candida esophagitis, (E) pemphigus with sloughing tissue, (F) EoE with rings/furrows/edema/exudates. This is an endoscopic-appearance page, so the pictures are required, not optional | [[esophageal-dysfunction-systemic-disease]] |
+| AGA 2023 belching/bloating Figures 1–3 (p. 793) | the impedance-pH and high-resolution manometry **tracings that distinguish gastric from supragastric belching** — Fig 1A/B gastric belching (transient lower esophageal sphincter relaxation, then air clearing from the esophagus); Fig 2A/B supragastric (proximal-then-distal impedance rise; upper esophageal sphincter opens *before* air influx); Fig 3 the expanded manometric view. Best Practice Advice 1 is a decision made by reading these tracings, and [[abdominal-bloating-and-distention]] currently describes them in words only | [[abdominal-bloating-and-distention]], [[aga-2023-bloating]], [[ambulatory-reflux-monitoring]] |
 | AGA 2019 AIP Figure 1 | treatment algorithm | [[autoimmune-pancreatitis]] |
 | AGA 2019 T1b esophageal ESD Figures 1–4 | endoscopic/EUS appearances — Fig 1 early squamous cell carcinoma as a Lugol voiding lesion, Fig 2 Paris 0-IIa+c adenocarcinoma, Fig 3 radial EUS showing submucosal (T1b) invasion, Fig 4 post-ESD defect with central fibrosis and exposed muscularis propria fibers. Depth is judged by looking, so the pictures are required | [[esophageal-cancer]], [[esophageal-adenocarcinoma]] |
 | AGA 2022 refractory gastroparesis Figure 2 | management algorithm | [[aga-2021-medically-refractory-gastroparesis]] |
