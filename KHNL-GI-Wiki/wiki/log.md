@@ -6,6 +6,23 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-31] update | Card pass — one EGJ-technique duplicate merged; all 335 carded pages current, no page eligible for new cards
+
+**Dedup (ran first, per CARDS → *Slim the deck*):** 5 candidate pairs at ≥0.4, all judged and marked in `dedup-ledger.tsv`.
+
+- **Merged (1):** the AFS 2022 two-step EGJ measurement technique (insufflate 30–45 s until the fundic rugal folds flatten → retroflex and pull along the lesser curvature) was carded twice, as `[7a1014]` on `[[hiatal-hernia]]` and `[af100e]` on `[[reflux-testing]]`. Keeper = `[af100e]`: `reflux-testing` owns the numbered technique sequence and Figure 4, while the hernia page carries it as a one-line pearl. Keeper header now `{also:hiatal-hernia}`; `[7a1014]` moved to `# Retired` on `hiatal-hernia.md` pointing at the keeper. Nothing absorbed — the retired note's "larger at laparoscopy" line is already `[7a1002]`.
+- **Distinct (4):** TIPS-plus-obliteration vs obliteration-alone for ectopic varices (different candidacy, not a subset) · AIP needle *type* vs biliary-stricture sampling *route* · AIP type 2 needing histology vs its IBD association · gastric-variceal EUS-injection-over-RTO vs the portal/splenic thrombosis contraindication to RTO.
+- Re-run after marking: **0 unjudged pairs.** Rebuild clean at **4,130 notes**, no problems reported.
+
+**New cards: nothing qualified.** 337 wiki topic pages, **335 carded**, and every card file's `page_updated` is current with its page (no `page_updated`-less file anywhere → no page left unfinished by an earlier pass). The 2 uncarded pages are both deliberate, re-verified this pass rather than taken on trust:
+
+- `[[bristol-stool-form-scale]]` — every clinical claim cites Lewis 1997, a primary paper, so *guideline-sourced only* excludes it. Its four guideline sources appear solely in the *Where It Drives a Decision* link table, which routes each threshold to the page that owns the recommendation; those facts are carded there.
+- `[[telemedicine-in-gastroenterology]]` — CPT codes, Place of Service modifiers, state licensure, documentation items and visit formats. Nothing here changes what is ordered, prescribed, scoped or scheduled, and no tag node covers it.
+
+**Not committed or pushed** (card files live outside the repo; this log entry is the only repo change).
+
+---
+
 ## [2026-10-31] lint | pass in progress
 
 **Entry opened before any other edit** (LINT → *Record as you go*). Bullets added as each write lands.
