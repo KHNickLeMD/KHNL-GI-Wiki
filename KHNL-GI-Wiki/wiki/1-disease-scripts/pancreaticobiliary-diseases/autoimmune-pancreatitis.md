@@ -252,25 +252,13 @@ Management of both AIP and IDCP is **primarily medical**, with **close follow-up
 | Patient | Treat? |
 |---|---|
 | **Symptomatic** — obstructive jaundice, [[acute-pancreatitis\|acute pancreatitis]], abdominal pain, back pain | **Considered for treatment** |
-| **Asymptomatic** | **Only** in the setting of a **persistent pancreatic mass on imaging**, **or** persistent liver function test abnormalities in the setting of **IgG4-sclerosing cholangitis / other organ involvement** |
+| **Asymptomatic** | **Only** for a **persistent pancreatic mass on imaging**, **or** persistent liver function test abnormalities in the setting of **IgG4-SC / other organ involvement** |
 
 ### Corticosteroids
 
-- **Response to steroids is ~100% in both AIP and IDCP** — near-universal steroid responsiveness is the defining therapeutic feature of the disease.
+- **Response to steroids is ~100% in both AIP and IDCP** — the defining therapeutic feature of the disease.
 - **Steroids alone treat the jaundice** in the mild, uninfected case — no stent (see below).
-
-**Induction and taper ([[aga-2019-autoimmune-pancreatitis]], Figure 1):**
-
-| Step | Regimen |
-|---|---|
-| **Induction** (AIP and IDCP alike) | **Prednisone 40 mg/day × 4 weeks** |
-| **Taper**, after complete remission | **Reduce by 5 mg per week** |
-| **No response** to induction | **Consider an alternative diagnosis** — not dose escalation |
-| **Steroid intolerance, or incomplete remission** | **Rituximab induction** |
-
-- **The entry condition is symptoms or OOI**, not the diagnosis alone — the algorithm starts the steroid only once there are clinical symptoms (abdominal pain, obstructive jaundice) or OOI, consistent with [[#Who Is Treated]].
-- **Failure to respond is a diagnostic event, not a dosing one.** The algorithm's only branch for non-response is to reconsider the diagnosis — in a disease whose chief mimic is [[pancreatic-cancer|pancreatic cancer]], that is the point.
-- The article prints the agent, dose and taper **only in Figure 1**; its prose names no milligram or interval.
+- **Failure to respond is a diagnostic event, not a dosing one** — the only branch for non-response is to reconsider the diagnosis, in a disease whose chief mimic is [[pancreatic-cancer|pancreatic cancer]]. Induction, taper and the non-response branches are in the [[#Management Algorithm]] ([[aga-2019-autoimmune-pancreatitis]], Figure 1).
 
 **Induction and taper ([[okazaki-2017-aip-treatment-consensus]], recommendation level in brackets):**
 
@@ -323,28 +311,12 @@ flowchart TD
 
 ### Relapse and Maintenance
 
-**Relapse is the dominant long-term problem in AIP and is largely absent in IDCP.**
-
-- **Frequency:** recurrence or relapse after initial response occurs in **up to 60% of AIP patients** — vs **<10% in IDCP**.
-- **Timing:** **during the steroid taper, or after discontinuation of corticosteroids.**
-- **Who is at higher risk (the two stated markers):**
-  1. **Elevated pre-treatment immunoglobulin E (IgE) levels**
-  2. **Other organ involvement with a proximal bile duct stricture, or IgG4-sclerosing cholangitis**
-- **What high risk buys:** these patients **can be considered for long-term maintenance with steroids or immunomodulator regimens** — one of four, below.
-- **Treatment of relapse or steroid intolerance:** **a combination of steroids and immunomodulators, or rituximab.**
-
-**The four maintenance / relapse regimens — choose one** (Figure 1; offered to the high-relapse-risk group and to relapsed AIP alike):
-
-| # | Regimen |
-|---|---|
-| 1 | **Prednisone 40 mg/day for 4–6 weeks**, then gradual taper **or** low-dose maintenance steroids |
-| 2 | **Prednisone 40 mg/day + an immunomodulator** (mycophenolate mofetil [MMF], 6-mercaptopurine [6-MP] or azathioprine [AZA]), steroid taper, then **discontinuation of steroids** |
-| 3 | **Rituximab induction** |
-| 4 | **Rituximab induction and maintenance** |
-
-- ⚠ **Relapsed IDCP is handled differently** — it goes back to **prednisone 40 mg/day × 4 weeks and taper by 5 mg per week**, i.e. a repeat of induction, not one of the four regimens above. The four are the AIP branch.
-- [[aga-2019-autoimmune-pancreatitis]] gives no immunomodulator or rituximab dose and **no criterion for choosing among the four** — it presents them as alternatives.
-- ⚠ Note the asymmetry that makes IgE and OOI worth checking: **serum IgG4 is useless for predicting relapse**, so the relapse-risk decision rests on the pre-treatment IgE and the OOI phenotype, not on the marker that made the diagnosis.
+- **Frequency:** **up to 60% of AIP after initial response — vs <10% in IDCP.**
+- **Timing:** **during the steroid taper, or after discontinuation.** **67% after discontinuation**, 15% during taper, 18% on maintenance; **56% within 1 year, 76% within 2, 92% within 3** ([[okazaki-2017-aip-treatment-consensus]]).
+- **The two stated high-risk markers:** **elevated pre-treatment immunoglobulin E (IgE)**; **OOI with a proximal bile duct stricture or IgG4-SC** (56.1% relapse with IgG4-SC vs 25.7% without).
+- **What high risk buys:** long-term maintenance with steroids or an immunomodulator — **one of the four regimens in the [[#Management Algorithm]]**, which [[aga-2019-autoimmune-pancreatitis]] presents as alternatives with **no immunomodulator or rituximab dose and no criterion for choosing among them**.
+- **Relapsed IDCP is handled differently** — repeat induction (**prednisone 40 mg/day × 4 weeks, taper 5 mg/week**), not one of the four; those are the AIP branch.
+- **The relapse-risk decision cannot rest on the marker that made the diagnosis** — serum IgG4 is useless for predicting relapse; use the pre-treatment IgE and the OOI phenotype.
 
 **Who needs maintenance, and who does not ([[okazaki-2017-aip-treatment-consensus]]):**
 
