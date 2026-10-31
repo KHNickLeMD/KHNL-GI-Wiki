@@ -3,7 +3,7 @@ title: "Transoral Incisionless Fundoplication (TIF)"
 category: advanced-procedure
 tags: [gerd, tif, ctif, esophyx, fundoplication, antireflux, hiatal-hernia, hill-classification, gastroesophageal-flap-valve, foregut, endoscopic-antireflux-therapy]
 created: 2026-10-05
-updated: 2026-10-28
+updated: 2026-10-31
 sources: [afs-2023-transoral-incisionless-fundoplication, asge-2024-gerd, afs-2022-egj-integrity-classification]
 ---
 
@@ -135,6 +135,9 @@ Conditions of specific or relative contraindication to TIF with the EsophyX devi
 
 Diagnostic EGD first — assess esophagitis, exclude strictures or webs that would prevent safe device passage, measure anatomic landmarks, document the Hill grade ([[afs-2023-transoral-incisionless-fundoplication]]).
 
+![[tif-2023-esophyx-device-04.png|700x265]]
+*Figure 1 — The single-use EsophyX device, assembled and loaded. **Left:** pistol handle with the trigger that fires the fasteners. **Centre:** the chassis shaft, which the endoscope passes through; the side tubing and stopcock is the stylet port. **Right:** the working end — tissue mold, invaginator and helical retractor, which grasp the fundus and fold it against the distal esophagus. ([[afs-2023-transoral-incisionless-fundoplication]])*
+
 | Step | Rule | Why it matters |
 |---|---|---|
 | **Insufflation** | **Carbon dioxide (CO₂) only, set to 15 mmHg.** Air insufflation is discouraged | — |
@@ -147,6 +150,9 @@ Diagnostic EGD first — assess esophagitis, exclude strictures or webs that wou
 | **Re-firing** | **Never place additional fasteners over prior fasteners** | Esophageal injury → mediastinal infection, abscess, fistula, perforation |
 | **Final valve** | **270°–320°** in circumference, **3–4 cm** long | — |
 | **Before withdrawal** | **Immediate post-TIF endoscopy** after the device is removed | Evaluate for bleeding or injury |
+
+![[tif-2023-plication-steps-05.png|700x380]]
+*Figure 2 — The TIF steps, all seen in retroflexion with the device straddling the EGJ. **(A)** Posterior plication — the helical retractor (thin wire) has engaged tissue and the tissue mold is closed. **(B)** Anterior plication after rotating the device. **(C)** Mid-valve plication, at the 8, 6 and 4 o'clock positions. **(D)** The completed TIF valve, endoscope alone, with the fastener lines visible on the new flap valve. ([[afs-2023-transoral-incisionless-fundoplication]])*
 
 ---
 
@@ -164,6 +170,9 @@ Laparoscopic repair of the hiatal hernia followed by TIF **under the same anesth
 - **Mesh** is at the operating surgeon's discretion (biologic or biosynthetic); it must not impact the TIF portion so long as it lies flat without folded edges. Bioabsorbable mesh does not appear to increase adverse events. **Use of mesh in cTIF remains an area to be further studied.**
 - Preferred hernia-repair approach is **minimally invasive (laparoscopic or robotic)** — less postoperative pain, faster recovery, reduced morbidity, shorter length of stay than open repair.
 - Minority view to disclose: some patients and gastroenterologists decline laparoscopic fundoplication over perceived long-term gas-bloat and dysphagia; the trade for cTIF is a perceived higher risk of esophageal injury when mixing laparoscopy with endoscopy.
+
+![[tif-2023-ctif-sequence-07.png|700x360]]
+*Figure 3 — Retroflexed view of the EGJ through the two stages of a cTIF, left to right. **Pre-hernia repair:** large hiatal disruption with Hill grade IV — the scope sits in a wide-open hiatus with no valve. **Post-hernia repair:** after laparoscopic crural repair the hiatal disruption has resolved and the folds hug the scope, but no valve has been built yet. **Post-cTIF:** the transorally created flap valve now wraps the scope, with fastener sites visible on the new valve. ([[afs-2023-transoral-incisionless-fundoplication]])*
 
 ---
 

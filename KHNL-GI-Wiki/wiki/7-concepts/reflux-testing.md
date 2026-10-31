@@ -3,7 +3,7 @@ title: "Reflux Testing"
 category: concept
 tags: [gerd, reflux, ph-monitoring, impedance, manometry, endoscopy, diagnostics]
 created: 2026-05-15
-updated: 2026-10-28
+updated: 2026-10-31
 sources: [acg-2021-gerd, asge-2024-gerd, acg-2020-esophageal-physiologic-testing, aga-2024-upper-endoscopy-quality, acg-2025-egd-quality, afs-2022-egj-integrity-classification]
 ---
 
@@ -170,6 +170,9 @@ The AFS revision grades the **whole esophagogastric junction (EGJ)**, not the va
 | **LDF notation** | **L0, D1, F+** | **L0, D1-2, F−** | **L0-2, D2-3, F−** | **L>2, D>3, F−** |
 | **Color code** | Green | Yellow | Orange | Red |
 
+![[egj-integrity-2022-afs-ldf-grades-08.png|700x400]]
+*Figure 3 — AFS endoscopic classification of EGJ integrity, grades 1 (intact, green) to 4 (complete disruption, red), left to right. Top row: retroflexed endoscopic view of each grade, scope shaft in the middle of each frame. Second row: matching schematic — the **red arc** is the crural diaphragm and the **yellow dash-dot line with the blue arrow** marks the level of the diaphragmatic hiatus; moving right, the intra-abdominal esophagus is progressively lost, the crural defect widens, and the flap valve flattens and disappears. Lower rows repeat the LDF values tabulated above. ([[afs-2022-egj-integrity-classification]])*
+
 **The two rules that assign the grade:**
 
 - **Grade by the *most* disrupted parameter**, not the average. Worked example from the paper: axial length 1.5 cm (grade 3) with a 4 cm aperture (grade 4) → **grade 4**.
@@ -189,6 +192,9 @@ The AFS revision grades the **whole esophagogastric junction (EGJ)**, not the va
 > 5. **Photo-document the view showing the greatest disruption.**
 >
 > Skipping steps 1–2 **systematically under-grades** the EGJ ([[afs-2022-egj-integrity-classification]]).
+
+![[egj-integrity-2022-insufflation-sequence-06.png|700x465]]
+*Figure 4 — What adequate insufflation and the provocative maneuver reveal in one patient. **(a)** EGJ on first entering the stomach, before full insufflation. **(b)** With further insufflation the gastric folds and the Z-line involute. **(c)** After full insufflation plus the retroflexed pull along the lesser curvature, a large diaphragmatic aperture is exposed — the grade read from (a) would have been too low. **(d)** The same patient at laparoscopy: wide crural separation, confirming the endoscopic finding. ([[afs-2022-egj-integrity-classification]])*
 
 - **Nomenclature for the report:** in retroflexion name greater and lesser curvature and the anterior/posterior gastric walls; the valve has a **lip** and a **body**; valve **length** = diaphragmatic impression to Z-line. Post-surgical valves use a separate scheme — [[antireflux-surgery]].
 

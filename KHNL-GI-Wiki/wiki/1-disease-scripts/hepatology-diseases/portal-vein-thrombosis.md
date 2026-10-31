@@ -3,7 +3,7 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-10-30
+updated: 2026-10-31
 sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
 ---
 
@@ -285,16 +285,7 @@ flowchart TD
 - Can achieve portal vein recanalization when anticoagulation insufficient
 - Reserved for those with **additional TIPS indications** (refractory [[ascites]], variceal bleeding) or to enable **transplant technical feasibility** (~98% revascularization in complete/near-complete occlusion in expert series; low-MELD, single-center data — limited generalizability)
 
-### Hemostasis in Cirrhosis — Key Principles
-
-Cirrhosis represents [[cirrhosis-hemostasis|rebalanced hemostasis]], not auto-anticoagulation [[acg-2020-hepatic-mesenteric-circulation]]:
-
-- Do NOT use fresh frozen plasma (FFP) prophylactically before routine procedures (Conditional, Low evidence)
-- Do NOT give prophylactic platelets for routine procedures outside renal dysfunction/active bleeding (Conditional, Very Low evidence)
-- Do NOT use antifibrinolytics without evidence of hyperfibrinolysis (Conditional, Very Low evidence)
-- **Thromboelastography (TEG)/rotational thromboelastometry (ROTEM)** (viscoelastic testing) can guide transfusion decisions better than prothrombin time (PT)/INR or platelet count (Conditional, Low evidence)
-
-### Surgical / Interventional Options
+### Interventional and Surgical Options
 
 - **[[tips|TIPS]]**: portal decompression; facilitates PVT resolution; bridges to transplant
 - **Bowel resection**: emergent when MVT causes bowel infarction

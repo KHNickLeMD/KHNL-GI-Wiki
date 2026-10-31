@@ -3,11 +3,11 @@ title: "Autoimmune Pancreatitis (AIP / IDCP)"
 category: disease-script
 tags: [autoimmune-pancreatitis, aip, idcp, igg4, igg4-related-disease, pancreas, obstructive-jaundice, corticosteroids, rituximab, icdc, pancreatic-cancer]
 created: 2026-09-04
-updated: 2026-10-27
+updated: 2026-10-31
 sources: [aga-2019-autoimmune-pancreatitis, shimosegawa-2011-icdc-autoimmune-pancreatitis, okazaki-2017-aip-treatment-consensus]
 ---
 
-A **chronic, steroid-responsive fibroinflammatory disease of the pancreas** whose whole clinical problem is that it **mimics [[pancreatic-cancer|pancreatic cancer]]** — it is found in **2%–3% of surgical resections done for presumed pancreatic cancer**. Incidence and prevalence are largely unknown; one Japanese study reported an incidence of **1 per 100,000**, with prevalence estimated at **5%–6% of all patients with [[chronic-pancreatitis|chronic pancreatitis]]**. Two distinct diseases sit under the name, and this page keeps the source's nomenclature: **autoimmune pancreatitis (AIP) = type 1** (lymphoplasmacytic sclerosing pancreatitis, an immunoglobulin G4 [IgG4]-related disorder) and **IDCP = type 2** (idiopathic duct centric pancreatitis).
+A **chronic, steroid-responsive fibroinflammatory disease of the pancreas** whose whole clinical problem is that it **mimics [[pancreatic-cancer|pancreatic cancer]]** — found in **2%–3% of surgical resections done for presumed pancreatic cancer**. Two distinct diseases sit under the name, and this page keeps the source's nomenclature: **autoimmune pancreatitis (AIP) = type 1** (lymphoplasmacytic sclerosing pancreatitis [LPSP], an immunoglobulin G4 [IgG4]-related disorder) and **IDCP = type 2** (idiopathic duct centric pancreatitis).
 
 ## Contents
 - [[#Assessment]]
@@ -22,7 +22,6 @@ A **chronic, steroid-responsive fibroinflammatory disease of the pancreas** whos
   - [[#Severity Assessment]]
   - [[#Classification / Typing]]
 - [[#Differential Diagnosis]]
-  - [[#Not Missing Pancreatic Cancer]]
 - [[#Diagnostics]]
   - [[#Serum IgG4]]
   - [[#Cross-Sectional Imaging]]
@@ -50,9 +49,9 @@ A **chronic, steroid-responsive fibroinflammatory disease of the pancreas** whos
 | Abdominal pain | **No or mild pain despite intense inflammation** | — |
 
 - Obstructive jaundice in AIP comes from either **distal biliary ductal compression by pancreatic head swelling** or a **proximal [[biliary-stricture\|biliary stricture]]**.
-- Diagnosis is **never a single test** — it is the combination of serology, imaging (parenchyma and ducts), other organ involvement, histology, and steroid response.
+- Diagnosis is **never a single test** — serology + cross-sectional imaging (computed tomography [CT] / magnetic resonance imaging [MRI]) + ductal imaging + other organ involvement + histology + steroid response.
 
-**Criteria set — the International Consensus Diagnostic Criteria (ICDC).** Multiple criteria sets exist; the **ICDC have the greatest sensitivity** among them. The ICDC uses **five cardinal features**:
+**Criteria set — the International Consensus Diagnostic Criteria (ICDC)**, the most sensitive of the published sets. **Five cardinal features:**
 
 | # | ICDC cardinal feature |
 |---|---|
@@ -62,10 +61,9 @@ A **chronic, steroid-responsive fibroinflammatory disease of the pancreas** whos
 | 4 | **Histology of the pancreas** |
 | 5 | **Response to steroid therapy** |
 
-- ICDC classifies the result as **type 1 AIP**, **type 2 AIP (IDCP)**, or **AIP not otherwise specified**.
-- Each feature is scored **level 1** (higher diagnostic reliability) or **level 2**; the combination, read against whether parenchymal imaging is *typical* or *indeterminate*, gives **definitive** or **probable** disease. An optional sixth criterion, **Rt (response to steroid)**, is used only in the indeterminate-imaging rows. ([[shimosegawa-2011-icdc-autoimmune-pancreatitis]])
-- Serum IgG4 **>2× ULN (280 mg/dL) = level 1**; **1–2× ULN = level 2** (see [[#Serum IgG4]]).
-- **Burnt-out AIP is outside these criteria** — the consensus says so explicitly.
+- Output: **type 1 AIP**, **type 2 AIP (IDCP)**, or **AIP not otherwise specified**.
+- Each feature scores **level 1** (higher reliability) or **level 2**; combined with whether parenchymal imaging is *typical* or *indeterminate*, this gives **definitive** or **probable** disease. An optional sixth criterion, **Rt (response to steroid)**, applies only in the indeterminate-imaging rows ([[shimosegawa-2011-icdc-autoimmune-pancreatitis]]).
+- **Burnt-out AIP is outside these criteria.**
 
 #### ICDC Level 1 vs Level 2 — Type 1 AIP
 
@@ -73,7 +71,7 @@ A **chronic, steroid-responsive fibroinflammatory disease of the pancreas** whos
 |---|---|---|---|
 | **P** | Parenchymal imaging | **Typical:** diffuse enlargement with delayed enhancement (± rim-like enhancement) | **Indeterminate** (incl. atypical): segmental/focal enlargement with delayed enhancement |
 | **D** | Ductal imaging (endoscopic retrograde pancreatography, ERP) | **Long (>1/3 the main pancreatic duct) or multiple strictures**, without marked upstream dilatation | Segmental/focal narrowing without marked upstream dilatation (**duct <5 mm**) |
-| **S** | Serology | **IgG4 >2× ULN** | IgG4 **1–2× ULN** |
+| **S** | Serology | **IgG4 >2× upper limit of normal (ULN)** — see [[#Serum IgG4]] | IgG4 **1–2× ULN** |
 | **OOI** | Other organ involvement | **a** Extrapancreatic histology, **any 3 of:** marked lymphoplasmacytic infiltration with fibrosis and no granulocytic infiltration · storiform fibrosis · obliterative phlebitis · **>10 IgG4-positive cells/high-power field (HPF)**. **b** Typical radiology, **≥1 of:** segmental/multiple proximal (hilar/intrahepatic), or proximal **and** distal, bile duct stricture · retroperitoneal fibrosis | **a** Extrapancreatic histology **including endoscopic bile-duct biopsy**, **both of:** marked lymphoplasmacytic infiltration without granulocytic infiltration · >10 IgG4-positive cells/HPF. **b** Physical/radiological, **≥1 of:** symmetrically enlarged salivary/lachrymal glands · renal involvement of the type described with AIP |
 | **H** | Pancreatic histology | **LPSP (core biopsy or resection), ≥3 of:** periductal lymphoplasmacytic infiltrate without granulocytic infiltration · obliterative phlebitis · storiform fibrosis · >10 IgG4-positive cells/HPF | **LPSP (core biopsy), any 2** of the same four |
 | **Rt** | Response to steroid | **Rapid (≤2 weeks) radiologically demonstrable resolution or marked improvement** of pancreatic/extrapancreatic manifestations | — |
@@ -104,7 +102,7 @@ A **chronic, steroid-responsive fibroinflammatory disease of the pancreas** whos
 | **AIP–not otherwise specified** | Typical / indeterminate | **D1/2 + Rt** — ductal evidence only |
 
 > [!pearl] Type 2 is the one that needs tissue
-> Definitive **type 1** can be reached on surrogate criteria with no histology; **definite IDCP requires histological confirmation**. Nothing else distinguishes the types either — imaging and steroid response do not; only **serology, other organ involvement and histology** do, and all three are type-1 features. A seronegative patient without other organ involvement is **not thereby type 2** ([[shimosegawa-2011-icdc-autoimmune-pancreatitis]]).
+> Definitive **type 1** can be reached on surrogate criteria with no histology; **definite IDCP requires histological confirmation**. Imaging and steroid response do not separate the types — only **serology, other organ involvement and histology** do, and all three are type-1 features, so a seronegative patient without other organ involvement is **not thereby type 2** ([[shimosegawa-2011-icdc-autoimmune-pancreatitis]]).
 
 #### ICDC Diagnostic Algorithm — Typical Imaging
 
@@ -126,10 +124,11 @@ flowchart TD
 
 #### The Diagnostic Steroid Trial
 
-- **Prednisone 0.6–1 mg/kg**, reassess **imaging and CA 19-9 at 2 weeks**. ([[shimosegawa-2011-icdc-autoimmune-pancreatitis]])
-- **The endpoint is radiological, not symptomatic** — definitive improvement of imaging abnormalities including biliary strictures and pancreatic enlargement. Symptomatic improvement and a sense of well-being do not count. **A rising CA 19-9 means the diagnosis is wrong.**
+- **Prednisone 0.6–1 mg/kg**; reassess **imaging and CA 19-9 at 2 weeks** ([[shimosegawa-2011-icdc-autoimmune-pancreatitis]]).
+- **Endpoint is radiological, not symptomatic** — definite improvement of imaging abnormalities including biliary strictures and pancreatic enlargement. Symptomatic improvement and a sense of well-being do not count.
+- **A rising CA 19-9 means the diagnosis is wrong.**
 - Full resolution may take **weeks to months**, sometimes with gland atrophy.
-- **Only after a negative cancer workup including [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]-guided fine-needle aspiration, and only by pancreatologists.** Two weeks was chosen on the single study examining the question, in which no patient with pancreatic cancer responded.
+- **Only after a negative cancer workup including [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]-guided fine-needle aspiration, and only by pancreatologists.**
 
 > [!pitfall] "If steroids work, it must be AIP" is not a diagnosis
 > The consensus says to use the trial **sparingly**; it is no substitute for a thorough search for an etiology, and the strategy is *"fraught with problems"* without collateral evidence ([[shimosegawa-2011-icdc-autoimmune-pancreatitis]]).
@@ -142,34 +141,34 @@ flowchart TD
 | **Low-density mass, ductal dilatation/cutoff, ± distal atrophy** | **Manage as [[pancreatic-cancer\|pancreatic cancer]]** unless the cancer workup is negative *and* collateral evidence for AIP is strong |
 | Neither pattern | **Investigate for cancer first**; consider AIP only if that workup is negative and collateral evidence is strong |
 
-- **Not suggestive of AIP:** marked cachexia, inability to eat, narcotic-requiring pain — these point to cancer and are rare in AIP. Typical idiopathic pancreatitis and painful chronic pancreatitis are likewise uncommon in histologically confirmed AIP.
+- **Not suggestive of AIP:** marked cachexia, inability to eat, narcotic-requiring pain — these point to cancer and are rare in AIP. Typical idiopathic pancreatitis and painful [[chronic-pancreatitis|chronic pancreatitis]] are likewise uncommon in histologically confirmed AIP.
 - A biopsy with **some but not all** features of LPSP or IDCP is **supportive**, not diagnostic.
-- ⚠ The **D criterion rests on ERP**, which Western endoscopists generally avoid in suspected AIP — a level 1 D finding is often unobtainable in US practice.
+- The **D criterion rests on ERP**, which Western endoscopists generally avoid in suspected AIP — a level 1 D finding is often unobtainable in US practice.
 
 ### IgG4-Related Disease and Other Organ Involvement
 
-AIP belongs to the spectrum of **IgG4-related disorders**. **~50% have other organ involvement; ~50% present with isolated pancreatic involvement.** OOI matters twice — it is an ICDC cardinal feature, and it marks relapse risk ([[#Relapse and Maintenance]]).
+AIP belongs to the spectrum of **IgG4-related disorders**: **~50% have OOI, ~50% isolated pancreatic involvement.** OOI matters twice — ICDC cardinal feature, and marker of relapse risk ([[#Relapse and Maintenance]]). Manifestations:
 
-- Bile duct stricture
+- Bile duct stricture ([[igg4-related-cholangitis|IgG4-sclerosing cholangitis (IgG4-SC)]])
 - Interstitial nephritis
 - Orbital pseudotumor
 - IgG4-related plasmacytic exocrinopathy of the salivary gland
 - Pulmonary interstitial fibrosis or nodules
 - Mediastinal or retroperitoneal fibrosis
 
-**IDCP has no IgG4-related disease association at all** — its systemic association is with **[[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]**, especially **[[ulcerative-colitis|ulcerative colitis (UC)]]**, which is *strongly* associated: a **majority of IDCP patients are diagnosed with IBD before or concurrently with IDCP**. Seen from the other direction the absolute risk is small — cumulative probability of an IDCP diagnosis after a UC diagnosis is **0.2% at 1 year, 0.6% at 5 years, 0.8% at 10 years**.
+**IDCP has no IgG4-related disease association** — its systemic association is **[[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]**, especially **[[ulcerative-colitis|ulcerative colitis]]**: a **majority of IDCP patients are diagnosed with IBD before or concurrently with IDCP**.
 
 ### Severity Assessment
 
-**The guideline gives no severity score or stage for AIP or IDCP.** Disease burden is carried instead by three things:
+**No severity score or stage is given for AIP or IDCP.** Disease burden is carried by three things instead:
 
-- **Relapse risk** — the dominant long-term problem, and the one feature that is stratified (see [[#Relapse and Maintenance]]): **up to 60% in AIP vs <10% in IDCP**.
-- **Long-term sequelae of persistent inflammation** — **[[exocrine-pancreatic-insufficiency|exocrine insufficiency]] and diabetes**, similar to other causes of chronic pancreatitis. The guideline gives no screening test, interval, or treatment for either in this population.
-- **Malignancy risk is *not* elevated** — there is **no clear evidence of an increased risk of pancreatic cancer** in AIP; available data suggest the risk is **similar to other causes of chronic pancreatitis**. (This is about future cancer risk; it does **not** relax the need to exclude a *prevalent* cancer at diagnosis — see below.)
+- **Relapse risk** — the dominant long-term problem and the only stratified feature ([[#Relapse and Maintenance]]).
+- **Long-term sequelae of persistent inflammation** — **[[exocrine-pancreatic-insufficiency|exocrine insufficiency]] and diabetes**, as in other causes of chronic pancreatitis. No screening test, interval or treatment is given for either in this population.
+- **Future malignancy risk is *not* elevated** — no clear evidence of increased pancreatic cancer risk; data suggest a risk similar to other causes of chronic pancreatitis. This does **not** relax the need to exclude a *prevalent* cancer at diagnosis.
 
 ### Classification / Typing
 
-The type determines the serology, the histology you must ask the pathologist for, the systemic associations, and — above all — the relapse risk and therefore whether maintenance therapy is on the table.
+The type determines the serology, the histology to ask the pathologist for, the systemic associations, and — above all — the relapse risk, and therefore whether maintenance therapy is on the table.
 
 | Feature | **AIP** (type 1, lymphoplasmacytic sclerosing) | **IDCP** (type 2, idiopathic duct centric) |
 |---|---|---|

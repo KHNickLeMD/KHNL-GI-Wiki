@@ -48,7 +48,28 @@ Failure of the pancreas to deliver a threshold level of digestive enzymes to the
 
 > Diagnosis rests on **FE-1** — see [[#Severity Assessment]] for the bands and [[#Diagnostics]] for test performance. Response to an empiric pancreatic enzyme replacement therapy (PERT) trial is **unreliable** for diagnosis (BPA 7).
 >
-> **Exception — when to skip the test:** with a **high pre-test probability** (e.g. steatorrhea in a patient with known pancreatic disease), **PERT may be started without FE-1 testing**.
+> **Exception — when to skip the test:** with a **high pre-test probability** (e.g. steatorrhea in a patient with known pancreatic disease), **PERT may be started without FE-1 testing**. With those conditions but **no symptoms**, measure FE-1 to confirm.
+
+**Whether to test at all — the differential tier decides** ([[aga-2023-epi]]):
+
+| Tier | Conditions | Action |
+|---|---|---|
+| **Expected and definite** | severe [[chronic-pancreatitis\|CP]], cystic fibrosis, pancreatic head malignancy, total pancreatectomy | **No further testing — initiate PERT** |
+| **Possible** | mild-to-moderate CP, severe [[acute-pancreatitis\|AP]], pancreatic malignancy of body/tail, bariatric surgery | Test with FE-1 |
+| **Less likely / overlapping** | [[celiac-disease\|celiac disease]], [[inflammatory-bowel-disease\|inflammatory bowel disease (IBD)]], diabetes mellitus | Test, and weigh the alternative diagnosis |
+
+**Approach to suspected EPI — overall algorithm** ([[aga-2023-epi]]):
+
+```mermaid
+flowchart TD
+    A["Suspected symptoms of EPI<br/>Late: steatorrhea, loose watery stools, undigested food<br/>Under-recognized: diarrhea, abdominal distention,<br/>abdominal pain, flatulence, unexplained weight loss"] --> B["History (medical + surgical), biomarkers,<br/>diet and lifestyle, nutrition assessment<br/>Weight and body mass index (BMI) · muscle mass and strength ·<br/>bone density · diabetes and thyroid disease · inflammatory indices"]
+    B --> C["Recognize malnutrition, maldigestion and<br/>malabsorption of nutrients"]
+    C --> D["Review the EPI differential diagnosis<br/>(tier table above)"]
+    D --> E["Indirect pancreatic function test<br/>FE-1 — most frequently used<br/>Direct testing — invasive, limited centers"]
+    E --> F["If positive, initiate PERT<br/>500 units lipase/kg/meal; 250 units/kg/snack<br/>Titrate up to control steatorrhea<br/>Max 2,500 units/kg/meal or 10,000 units/kg/day"]
+    F --> G["Dietary management, micronutrient and vitamin<br/>supplementation, follow-up assessments"]
+    G --> H["No improvement → re-evaluate the diagnosis and<br/>optimize PERT dose and administration"]
+```
 
 ### Severity Assessment
 
@@ -92,8 +113,10 @@ Conditions that mimic EPI or blunt the response to enzyme therapy (consider when
 
 | Test | Role | Notes / thresholds |
 |------|------|--------------------|
-| **FE-1** | **Initial test of choice** | Must be on a **semi-solid or solid** stool. **<100 µg/g = good evidence of EPI**; **100–200 µg/g = indeterminate**. Valid **while on PERT** (no cross-reaction with porcine enzymes). False-positive with watery/diarrheal stool (dilution). |
-| Fecal fat (quantitative) | Rarely needed | Must be on a high-fat diet; impractical for routine use. |
+| **FE-1** | **Initial test of choice** | Must be on a **semi-solid or solid** stool. **<100 µg/g = good evidence of EPI**; **100–200 µg/g = indeterminate**. Valid **while on PERT** (assay measures chymotrypsin-like elastases 3A/3B; humans do not secrete elastase-1, so no cross-reaction with porcine enzymes). False-positive with watery/diarrheal stool (dilution). **Do not repeat FE-1 to judge treatment response — PERT does not change it and serial values are not informative.** |
+| Fecal fat (quantitative) | Rarely needed | Known-fat diet **5 days**, stool collected over the **final 3 days**. **Steatorrhea = coefficient of fat absorption <93%** (>7% of ingested fat in stool). Burdensome; impractical for routine use. |
+| Qualitative stool fat (Sudan stain) | Adjunct only | **Nonspecific for EPI.** Use when clinical features are inconclusive or to assess an inadequate response to PERT. |
+| Serum pancreatic enzymes (e.g. trypsin) | Alternative indirect test | **Not affected by PERT**, but **unreliable during ongoing pancreatic inflammation**. |
 | Cross-sectional imaging (computed tomography [CT]/[[mri-mrcp\|magnetic resonance imaging (MRI)]]/[[endoscopic-ultrasound\|endoscopic ultrasound (EUS)]]) | **Cannot diagnose EPI** | Used to diagnose underlying benign/malignant pancreatic disease. |
 | Direct pancreatic function tests | Confirmatory (specialized) | Most accurate but invasive; mainly for early-stage CP. Not widely available in the US. |
 | Breath tests | Promising | Not widely available in the US. |

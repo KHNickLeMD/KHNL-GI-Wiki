@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on the Role of Intestinal Ultrasound in Inf
 category: source
 tags: [intestinal-ultrasound, ibd, crohns, ulcerative-colitis, monitoring, treat-to-target, aga, cpu]
 created: 2026-07-19
-updated: 2026-07-19
+updated: 2026-10-31
 sources: []
 ---
 
@@ -13,11 +13,13 @@ sources: []
 - **Year:** 2024
 - **Journal/Publisher:** Clinical Gastroenterology and Hepatology (AGA Institute)
 - **DOI:** [10.1016/j.cgh.2024.04.039](https://doi.org/10.1016/j.cgh.2024.04.039)
-- **Type:** guideline (American Gastroenterological Association [AGA] Clinical Practice Update — Commentary; narrative, no numbered advice statements)
+- **Type:** guideline (American Gastroenterological Association [AGA] Institute Clinical Practice Update (CPU) — **Commentary** format)
+
+> This CPU is written as a narrative expert commentary. It contains **no numbered Best Practice Advice statements, no key concepts, and no evidence or strength grades** — the document numbers and grades nothing. Commissioned and approved by the AGA Institute Clinical Practice Updates Committee and the AGA Governing Board; internal peer review by the Committee plus external peer review by *Clinical Gastroenterology and Hepatology*. Any numbering below is the wiki's.
 
 ## Summary
 
-AGA Clinical Practice Update (CPU) Commentary reviewing **intestinal ultrasound (IUS)** for monitoring inflammatory bowel disease (IBD). IUS is a noninvasive, radiation-free, point-of-care exam of the bowel wall, mesentery, and adjacent structures — performed transabdominally without bowel prep, fasting, or contrast. Used for over a decade in Europe, US adoption is rising rapidly. Because clinical remission poorly correlates with endoscopic healing and repeat endoscopy/biomarker sampling is burdensome, IUS offers an alternative objective activity indicator supporting a **treat-to-target** approach.
+CPU Commentary reviewing **intestinal ultrasound (IUS)** for monitoring inflammatory bowel disease (IBD). IUS is a noninvasive, radiation-free, point-of-care exam of the bowel wall, mesentery, and adjacent structures — performed transabdominally without bowel prep, fasting, or contrast. Used for over a decade in Europe, US adoption is rising rapidly. Because clinical remission poorly correlates with endoscopic healing and repeat endoscopy/biomarker sampling is burdensome, IUS offers an alternative objective activity indicator supporting a **treat-to-target** approach.
 
 **Technique:** high-resolution system with a low-frequency convex transducer (global survey) then a high-frequency linear transducer (activity assessment); linear alone often suffices in children/small body habitus. Primary activity measures = **bowel wall thickness (BWT)** and **bowel wall hyperemia (color Doppler)**. Inflammatory mesenteric fat, loss of wall stratification, and lymphadenopathy indicate more severe disease. IUS detects strictures, fistulae, sinus tracts, phlegmons, abscesses. Accurate for small-bowel and colonic inflammation but less accurate for mid/proximal small bowel location, disease length (esp. >10 cm), and proximal small-bowel and **rectal** inflammation.
 
@@ -28,9 +30,15 @@ AGA Clinical Practice Update (CPU) Commentary reviewing **intestinal ultrasound 
 ## Key Findings / Claims (decision-relevant thresholds)
 - **Postoperative CD recurrence:** neo-terminal ileum/adjacent colon **BWT ≥3 mm + FC ≥50 µg/g** → detects recurrence with **positive predictive value (PPV) 74%** (95% confidence interval [CI] 63–84), negative predictive value (NPV) 71% (95% CI 42–92).
 - **CD treatment response:** IUS improvement identifiable within **3 months** of biologic initiation. Higher baseline BWT predicts failure (42% less likely to reach transmural healing at 1 year). In a treat-to-target ustekinumab randomized controlled trial (RCT): **sonographic response** = ≥25% BWT reduction (46.3% at wk 48); **transmural healing** = normalization of all IUS parameters (24.1% at wk 48); lack of sonographic response at wk 4 → poor wk-48 endoscopic response (NPV 73%). Single-center: ≥18% BWT reduction at 4–8 wk post–anti–tumor necrosis factor (TNF) → 10× likelier wk-12–32 endoscopic response.
-- **Ulcerative colitis (UC) treatment response:** BWT normalization as early as **2 weeks** after treatment change. Tofacitinib: **absolute BWT <2.8 mm** predicts wk-8 endoscopic remission (sens 73%, spec 100%, area under the curve [AUC] 0.87); **≥32% BWT reduction** predicts wk-8 endoscopic response (sens 71%, spec 90%, AUC 0.87). **Acute severe UC:** **≥20% BWT reduction within 48 h** of intravenous (IV) steroids → more likely endoscopic response (odds ratio [OR] 22.6) and avoidance of rescue biologic (OR 6.3).
+- **Ulcerative colitis (UC) treatment response:** BWT normalization as early as **2 weeks** after treatment change (prospective multicenter study, 224 patients with active UC). Tofacitinib: **absolute BWT <2.8 mm** predicts wk-8 endoscopic remission (sens 73%, spec 100%, area under the receiver operating characteristic curve [AUC] 0.87, 95% CI 0.74–1.0); **32% BWT reduction** predicts wk-8 endoscopic response (sens 71%, spec 90%, AUC 0.87, 95% CI 0.74–1.0).
+- **Acute severe UC:** **≥20% BWT reduction within 48 ± 24 h** of starting intravenous (IV) corticosteroids → more likely endoscopic response (odds ratio [OR] 22.6; 95% CI 4.2–201.2) and avoidance of rescue biologic (OR 6.3; 95% CI 1.4–33.5), vs patients without a >20% reduction.
 - **Screening/rule-out:** IUS can rule out IBD akin to FC; positive findings (↑BWT or hyperemia) expedite ileocolonoscopy.
+- **IUS vs MRE as first-line:** multicentre randomized trial — MRE and IUS similar accuracy for terminal ileal activity in newly diagnosed or clinically active CD → **both are valid first-line tools for CD activity assessment**.
+- **No absolute BWT threshold for "abnormal" is given.** The CPU prints a millimetre BWT value only in the two contexts above (postoperative CD recurrence ≥3 mm; UC on tofacitinib <2.8 mm). It gives no cross-cutting normal/abnormal cut-off and no colour-Doppler hyperemia grading scheme; it states that although several IUS scoring systems exist to standardize reporting, **none is regularly used in clinical practice**, and it does not print the components of any of them.
+- **Training:** no United States–based certification for gastroenterologist-performed IUS at publication. IBUS 3-module pathway — Module 1 intensive introductory course (simulators + patients); Module 2 hands-on training with **at least 40 patients** at a certified IBUS training centre; Module 3 advanced workshop + final exam.
 - **Current Procedural Terminology (CPT):** no IUS-specific code yet; e.g. 76705 (limited abdominal ultrasound) used.
+- **Out of scope:** contrast-enhanced ultrasound modalities (which can optimize stricture detection and distinguish phlegmon from abscess) are explicitly not covered by this CPU.
+- Modality comparison table (preparation, procedural risk, relative cost, limitations for IUS / MRE / CTE / VCE / [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] + ileocolonoscopy) recreated on [[intestinal-ultrasound]].
 
 ## Relevance to Wiki
 - Creates [[intestinal-ultrasound]] concept page (IUS technique, BWT/Doppler metrics, treat-to-target thresholds, special populations).

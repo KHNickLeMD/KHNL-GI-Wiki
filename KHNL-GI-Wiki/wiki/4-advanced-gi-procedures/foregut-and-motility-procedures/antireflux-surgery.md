@@ -174,6 +174,9 @@ All conditional recommendations — outcomes are broadly equivalent, so these ar
 
 *[[afs-2024-ge-valve-after-antireflux-surgery|AFS 2024]] — the nomenclature for describing the valve **after** it has been surgically reconstructed. The Hill and AFS grades describe the **native, unoperated** valve; this schema is what makes one post-operative endoscopy comparable to the next in a patient with recurrent GERD or new late dysphagia. Consensus white paper, **no evidence grading** and **no validation data** — it establishes vocabulary, not accuracy.*
 
+![[antireflux-2024-hernia-repair-to-nissen-02.png|700x230]]
+*Figure 1 — What the operation does to the retroflexed view, in one patient, left to right. **Pre-hernia repair:** AFS hiatus grade III (L0 cm, D2.5 cm, flap valve absent) — the scope sits in an open hiatus with no valve around it. **Post-hernia repair:** crural reapproximation alone has closed the hiatus around the scope, but there is still no constructed valve. **Post-Nissen:** a surgically formed gastroesophageal valve now wraps the scope. ([[afs-2024-ge-valve-after-antireflux-surgery]])*
+
 **Four attributes, all assessed in retroflexion after adequate gastric insufflation:**
 
 | # | Attribute | How it is graded / measured |
@@ -185,9 +188,26 @@ All conditional recommendations — outcomes are broadly equivalent, so these ar
 
 Plus, after **any** procedure that included hiatal hernia repair: **the hiatal aperture should no longer be visible in the retroflexed view** (see [[hiatal-hernia]]).
 
+**The wording to use for each attribute** — the options the assessment algorithm offers, and the only descriptors the schema defines:
+
+| Attribute | Report it as one of |
+|---|---|
+| **No surgically constructed valve seen in retroflexion** | Stop and assign the **AFS hiatus grade** instead — graded I–IV on length from the SCJ to the diaphragm, hiatal diameter with distention in cm (scope diameters), and flap valve **+** or **−** (criteria on [[reflux-testing]]) |
+| **Hiatus visible** | **Completely open hiatus** · **partially open (crescent)** — if not visible, move on to the grooves |
+| **Anterior groove / posterior groove** (each scored separately) | **Absent** · **shallow — groove visible** · **deep — final depth hidden** |
+| **Apposition to the scope** | **Tight/snug to passage of the scope** · **loose with respiration** · **persistent gap along the length of the valve** |
+| **Valve length** | Measured **in cm, from the valve lip to the diaphragm at the apex of the angle of His** |
+| **SCJ at the lip of the valve?** | **Yes → intra-abdominal esophagus restored.** No → report the **distance in cm from the valve lip to the SCJ** |
+
+![[antireflux-2024-postop-egj-assessment-algorithm-10.png|700x400]]
+*Figure 2 — Assessment algorithm. The first branch point is whether a surgically constructed valve is seen in retroflexion: **no** (left limb) sends you to the AFS hiatus grade; **yes** runs down the centre through hiatus, grooves, apposition, length and SCJ position. The **blue boxes** are the permitted report wordings tabulated above. ([[afs-2024-ge-valve-after-antireflux-surgery]])*
+
 - **Repairing a type II–IV (paraesophageal) hernia is a different decision set** — whether to add a fundoplication at all, whether to use mesh, whether to operate on an asymptomatic hernia, and when to convert a recurrence to Roux-en-Y gastric bypass. SAGES 2024 answers all four; they live on **[[hiatal-hernia]]** ([[sages-2024-hiatal-hernia-surgery]]). The one graded position: **add a fundoplication** (conditional, low certainty) — objective reflux relative risk 0.31, recurrence 0.55, leak 0.33, at the cost of late dysphagia (relative risk 2.94). **All the comparative data used a complete wrap**; partial-versus-complete in this population rests on indirect evidence only.
 
 ⚠ **The radial reference point changes after surgery.** Endoscopic radial nomenclature is **anterior = 12 o'clock, posterior = 6 o'clock, greater curve = 3 o'clock, lesser curve = 9 o'clock**. The apex of the **angle of His sits at ~3–4 o'clock**, and every fundoplication begins there. The Collaborative adopted **the apex of the angle of His — not anatomic anterior/posterior — as the endoscopic point of reference**, which is why an operation called "posterior" laparoscopically does not map onto "posterior" endoscopically.
+
+![[antireflux-2024-intact-gefv-orientation-04.png|700x375]]
+*Figure 3 — Orientation and geometry of an intact gastroesophageal flap valve (GEFV), i.e. AFS hiatus grade 1. **Left:** schematic of the retroflexed scope hooked around the valve. **Centre:** the retroflexed photograph with the clock positions labelled — anterior 12, greater curve 3, lesser curve 9, posterior 6 o'clock; the yellow arrow marks the apex of the angle of His (AOH), which sits at ~3–4 o'clock. **Right:** transverse geometry — the fundus envelops the esophagus **anteriorly (green)** and **posteriorly (blue)** from the angle of His, leaving the **lesser curve of the esophagus (red)** uncovered. ([[afs-2024-ge-valve-after-antireflux-surgery]])*
 
 **Technique — this is what prevents under-grading:**
 

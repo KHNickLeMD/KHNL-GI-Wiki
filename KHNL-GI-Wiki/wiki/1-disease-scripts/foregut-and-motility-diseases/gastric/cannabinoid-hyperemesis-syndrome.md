@@ -3,7 +3,7 @@ title: "Cannabinoid Hyperemesis Syndrome (CHS)"
 category: disease-script
 tags: [cannabinoid-hyperemesis-syndrome, chs, cyclic-vomiting-syndrome, cannabis, dgbi, capsaicin, amitriptyline, foregut]
 created: 2026-07-18
-updated: 2026-09-05
+updated: 2026-10-31
 sources: [aga-2024-chs, aga-2024-cvs, rome-v-2026-dgbi]
 ---
 
@@ -82,7 +82,9 @@ Outpatient differential diagnosis (DDx) after excluding structural disease:
 ## Diagnostics
 
 - **Clinical diagnosis**; no confirmatory test.
-- Limited, suspicion-driven evaluation to exclude mimics: [[upper-endoscopy|upper endoscopy]] or computed tomography (CT) abdomen/pelvis (exclude obstruction); brain imaging if focal neurologic signs; pregnancy test.
+- There is **no consensus on a minimum test set** — evaluation is limited and driven by clinical suspicion, aimed only at excluding mimics ([[aga-2024-chs]]).
+- Anatomic evaluation: [[upper-endoscopy|upper endoscopy]] or computed tomography (CT) of abdomen or pelvis to exclude obstruction.
+- **Brain imaging** if focal neurologic symptoms and signs.
 
 ## Therapeutics
 

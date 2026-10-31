@@ -6,6 +6,34 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-10-31] lint | pass in progress
+
+**Entry opened before any other edit** (LINT → *Record as you go*). Bullets added as each write lands.
+
+**Git hygiene:** `git pull --rebase` → already up to date. `raw/` holds **508** non-asset files, unchanged since the 2026-10-30 18:00 pass → **no new inbox delivery.** Untracked under `raw/`: **14 figure captures** from the three AFS ingests, on disk but embedded on no page (see below).
+
+**Resume markers:** `grep -rl "ingest: partial" wiki/` → **0 source pages** (the only hit is `log.md` quoting the string). Nothing mid-ingest.
+
+**Ingest: nothing qualified.** Every tier-1/2 file in `raw/` has a source page. Still uningested and still correct: the **60 gated lectures/chalk talks** (never auto-ingested — this pass is unattended, so they are reported and left) and `IANS 2024 Anal Cancer Screening Consensus.pdf` (6,417 bytes — a saved HTML page, not a real copy). Backlog mode stays **off**, so the stalest-page, slim and coverage-gap steps all run.
+
+**Daily source fetch: not run** — that step is the 06:00 cron pass only, and this prompt is not it.
+
+**Health check — clean.** **738** pages, **398** source pages. 0 unescaped alias pipes in table cells, **0 orphan pages**, **0 broken links** outside `log.md`, 0 `.DS_Store`/OS artifacts, **0 stubs** (so the stub-expansion step did nothing — nothing qualified), 0 `ingest: partial`.
+
+**Coverage-gap row #44 struck.** [[nsaid-enteropathy]] was built and indexed on 2026-10-30 but its queue row was left open, still reading "ready to build, still unbuilt". Collapsed to a struck one-liner — the row's long verification brief was also maintainer prose that `index.md` is not allowed to carry.
+
+**Stalest page 1/3 — [[aga-2024-chs]]** (was `updated: 2026-07-18`, the oldest page in the wiki).
+
+- **Numbering/grading claim verified against the PDF and correct**: Commentary format, no Best Practice Advice statements, no numbered recommendations, no GRADE ratings. The only numbering in the document is 1–3 on the proposed CHS diagnostic criteria, which the page already carried. Nothing invented; a *Document format* block now says so explicitly for the reader.
+- **The defect was omission — the page captured ~40% of the document.** Added: **cannabinoid withdrawal syndrome** (pooled prevalence 47%; higher with daily use and concurrent tobacco/other substance use), the pregnancy/lactation directive (absent entirely), the evaluation section (**no consensus on a minimum test set**; upper endoscopy or CT abdomen/pelvis to exclude obstruction; brain imaging only with focal neurologic findings), the named-but-unvalidated strategies (lower Δ⁹-tetrahydrocannabinol/higher cannabidiol content, edibles, avoiding concentrates), pathophysiology, the >40% who stop all treatment with high recidivism, and the hot-water-bathing frequencies (44% vs 19%).
+- **Figure 1 recreated as a 4-row table** (phase × manifestations × management), per *Tables: recreate, don't screenshot*. It had been flattened to four phase names, which dropped the prodrome median **30–90 min**, the inter-episodic 30% dyspepsia/nausea figure and every phase-specific drug class.
+- **Dose corrected:** the page read "start 25 mg at bedtime" for amitriptyline; the document gives **starting 25 mg** and **maintenance 75–100 mg at bedtime**, with weekly increments and close monitoring.
+- **[[cannabinoid-hyperemesis-syndrome]] — an unsourced test removed.** "Pregnancy test" was listed as recommended workup and is in **no** ingested source (not this CPU, not [[aga-2024-cvs]], not [[rome-v-2026-dgbi]]); pregnancy stays in the differential. The no-consensus statement and the split imaging indications were added. Propagation was otherwise complete.
+- `index.md` row reworded: CHS is a **separate Rome V adult entity (B2c)** that the 2024 CPUs frame as a CVS subtype — the row had only the superseded framing.
+- **Needed-sources: nothing qualified.** Venkatesan 2019 and Stanghellini 2016 both fail because the CPU (and ingested Rome V) print the criteria in full; Fleisher 2005 is a case series; HaVOC is an RCT but is not named as the basis of a statement and is a small two-centre trial; the capsaicin/amitriptyline evidence is systematic reviews and a cohort. No row.
+
+---
+
 ## [2026-10-30] update | card pass — one Crohn's abscess duplicate merged; still no page eligible for new cards
 
 **Dedup first:** `anki-dupes.mjs` returned **1 unjudged pair** (0.43) — intra-abdominal abscess in Crohn's disease, carded on two pages.
