@@ -6,6 +6,39 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-01] update | Card pass — FIT cards follow the page split to their new owner; four "stale" flags were label-only and cleared without new cards
+
+**Dedup first, as required:** `anki-dupes.mjs` returned **0 unjudged candidate pairs at ≥0.4** → no merges from the script. One true duplicate surfaced instead from the one-owner check run at card-writing time, below.
+
+**Four stale flags cleared with no new cards — all four were label-only or link-only page edits.** Each was diffed against its card file's `page_updated` date before any decision, rather than re-read from scratch:
+
+- `[[anti-tnf-agents]]` (cards 2026-10-19 → page 2026-11-01): every addition since came from [[cimzia-2025-certolizumab-pegol-label]] — the aPTT artifact, the latex cap, the two-injection administration, the response-conditional maintenance. **A label is not a guideline, CPU or consensus statement** → no cards (*guideline-sourced cards only*).
+- `[[givosiran]]` and `[[acute-hepatic-porphyria]]` (both 2026-10-31 → 2026-11-01): same reason — the additions are [[givlaari-2025-givosiran-label]]. The only guideline-cited line added was a provenance note naming [[hemin]]'s 3–4 mg/kg/d, which is already carded **on the hemin page**, its owner.
+- `[[colorectal-cancer-screening]]` (2026-10-30 → 2026-11-01): the page's only change was two links repointed at the new FIT page. No content moved in.
+
+**Cards written — `[[fecal-immunochemical-test]]`, 7 notes.** Its facts were already carded, but on `[[colorectal-cancer]]` — the page they lived on until yesterday's split moved them out. Those cards therefore tested facts that **no longer exist on the page they were filed under**, which *Cards test the wiki and nothing else* forbids.
+
+- Relocated `cc1013`–`cc1019` to the FIT file as `fd1001`–`fd1007`, and retired each original with `merged into fecal-immunochemical-test [fd100N]`. **Nothing was lost:** all seven sat under `# Draft`, so none had review history to protect (the GUID is `sha1(page + id)`, so a cross-file move cannot keep scheduling — only unreviewed notes may be moved this way).
+- **One genuine duplicate merged:** `cc1014` (colorectal-cancer) and `c71017` (colorectal-cancer-screening) both tested the FIT hemoglobin cut-off, ≤20 µg/g. Keeper is the FIT page's `fd1002` — it holds the cut-off table, so it owns the fact — carrying `{also:colorectal-cancer-screening}` since that page still prints the threshold. Verdict recorded in `dedup-ledger.tsv` as `merged`.
+- **One cloze deliberately dropped in the move:** `cc1019`'s post-FIT adenoma detection rate targets (>45% men, >35% women, USMSTF 2016). They are both **owned elsewhere and superseded** — [[colonoscopy-quality-indicators]] carries the current ASGE/ACG 2024 benchmark of **≥50%, no sex split**, and already cards it. Re-porting the 2016 figures would have re-introduced a stale fact.
+- **Not carded, on purpose:** FIT-over-gFOBT (Strong/High). The recommendation is a two-option choice whose answer is the deck name itself — rule 6, *nothing else on the card may answer the cloze* — and the supporting 73% vs 33% sensitivity gap is comparative trial data, which the yield test cuts. The >177 µg/g odds ratio, the FDA-cleared device brands, and the CT colonography/capsule performance numbers are not actions.
+
+**Cards written — `[[chronic-hepatitis-b]]`, 1 note, closing the gap the 2026-11-01 lint entry left open.** That entry established the peginterferon claim is genuinely [[aasld-idsa-2025-chb-treatment]]'s and completed the source page, making the fact cardable.
+
+- The *drug-choice* half of that gap needed no card: **ETV / TDF / TAF as the three preferred agents is already carded on [[hbv-nucleoside-analogs]]**. What was uncarded was the stance — peginterferon rarely used, functional cure higher than with a nucleos(t)ide analogue but still low — now `b01018`, with the guideline's own framing of add-on/switch as an open research question in Back Extra so the "higher cure" line cannot be misread as an endorsement.
+
+**Nothing else was eligible.** Only three pages remain without a card file, and all three are **documented non-cardables, re-verified this pass rather than assumed**:
+
+- `[[peginterferon-alfa-2a]]` — label-sourced throughout; its one guideline-cited line is the CHB stance now owned by [[chronic-hepatitis-b]], and its hepatitis D indication is delegated to [[hepatitis-d]].
+- `[[bristol-stool-form-scale]]` — own content is Lewis 1997, a primary paper; the page explicitly routes every guideline threshold to the page that carries the recommendation.
+- `[[telemedicine-in-gastroenterology]]` — tier-1 AGA CPU, but practice-management content (visit format, billing, licensure, staffing), and **no node in Nick's tag tree fits it**. Tags are his vocabulary, so inventing one needs his sign-off. Left unfiled for the third pass running — flagging rather than forcing it.
+
+**Build:** `build-anki.mjs` → **4,166 notes**, **0 problems** on the touched files. The pre-existing staleness backlog on other pages was untouched by this pass.
+
+**Not committed and not pushed** — as instructed for this run. `wiki/log.md` is the only `wiki/` file changed; everything else lives under `/cards`, outside the repo.
+
+---
+
 ## [2026-11-01] lint | 06:00 pass — two labels fetched for dose gaps the pages had flagged themselves, the colorectal-cancer slim executed, and the CHB attribution question settled
 
 **Entry opened before any other edit** (LINT → *Record as you go*); bullets added as each write landed.
