@@ -6,6 +6,29 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-01] update | Card pass — 2 dedup pairs judged distinct; the 3 uncarded pages are all uncardable on purpose, and one CHB drug-choice fact has nowhere to go
+
+**Git hygiene:** `git pull --rebase` → already up to date. Nothing committed or pushed (pass is read-mostly; only this entry and the dedup ledger changed).
+
+**Dedup sweep — 2 candidate pairs, 0 merges.** Both judged **distinct** and marked in `dedup-ledger.tsv`; the queue is now empty at ≥0.4.
+
+- `variceal-obliteration` `[fb0001]` vs `[fb0005]` (0.48) — one tests *which* thrombosis contraindicates retrograde transvenous obliteration, the other tests what a high MELD/CTP score does to candidacy (nothing). Same page and overlapping Back Extra, but two different questions with two different answers; neither note's clozes are a subset of the other's.
+- `hemorrhoids` `[cf1005]` vs `[cf100a]` (0.40) — preferred office-based procedure (rubber band ligation) vs the patients in whom banding is avoided. Indication and contraindication are distinct facts.
+
+**Deck rebuilt:** 4,158 notes → `dist/khnl-gi-wiki.txt`. Build reported no problems.
+
+**No page eligible for new cards.** Checked two independent ways — mirrored card path, and the `page:` frontmatter each card file declares — which agree exactly: **335 card files, 0 missing `page_updated`** (so no page was left unfinished by an earlier pass), **0 stale card files**, and **0 orphan card files** pointing at a wiki page that no longer exists. Three wiki pages have no card file, and each is uncarded deliberately; all three were re-checked against the page rather than taken from the previous verdict, and none has changed since it was judged.
+
+- `5-meds/peginterferon-alfa-2a.md` (updated 2026-10-31) — the dosing, dose-modification, contraindication, monitoring and adverse-effect content is **all from the PEGASYS label**, which is not a guideline, CPU or consensus statement, so none of it is cardable. Same logic already leaves `fmt`, `hbv-nucleoside-analogs` and `glp-2-agonists` label content uncarded.
+- `7-concepts/bristol-stool-form-scale.md` (updated 2026-10-27) — every clinical claim is Lewis 1997, a primary paper. The page's own *Where It Drives a Decision* table deliberately holds no thresholds; each guideline cut-point lives on the page that acts on it, and is carded there.
+- `7-concepts/telemedicine-in-gastroenterology.md` (updated 2026-10-01) — tier-1 (AGA 2023 CPU), but the content is licensure, billing, documentation, staffing and visit logistics. It fails the high-yield test: nothing on it changes what is ordered, prescribed, scoped, resected or referred. No node in Nick's tag tree covers it either.
+
+**The one candidate fact was chased down and does not qualify.** The peginterferon page cites two tier-1 sources. The hepatitis D fact — peg-IFN-α is the only US-available therapy, 12 months — is already carded on `[[hepatitis-d]]` (`[da1005]`, with `[da1009]` for its contraindications). The other is that **peg-IFN is rarely used in chronic hepatitis B — limited applicability, poor tolerability, higher functional cure than nucleos(t)ide analogues but still low**, attributed to `[[aasld-idsa-2025-chb-treatment]]` on both the drug page and `[[chronic-hepatitis-b]]`. It is carded nowhere (grep of all 4,158 notes for *interferon* returns no CHB note), and by the one-owner rule its home would be the disease page, not the drug page. **It stays uncarded: the guideline's own source page contains no peg-IFN content whatsoever** (`grep -i interferon wiki/sources/aasld-idsa-2025-chb-treatment.md` → 0 hits), so there is no verified tier-1 statement to card from, and the accompanying 180 mcg × 48 wk regimen is explicitly the *labelled* one. Carding it would mean sourcing a card to a guideline summary that does not contain the claim.
+
+**For lint, not for the card queue:** that attribution gap is worth a look on a lint pass. Either the AASLD/IDSA 2025 source page is missing a peg-IFN section the guideline actually has — in which case the raw PDF should fill it and the fact becomes cardable on `[[chronic-hepatitis-b]]` — or the two pages are citing the guideline for a claim it does not make, which is a source-fidelity defect on both. **Not resolved here**, because settling it means reading the raw guideline, which is an ingest/lint job rather than a card job.
+
+---
+
 ## [2026-11-01] lint | Lint pass — the coverage queue was not empty after all, and the page-length ceiling is being measured wrong
 
 **Entry opened before any other edit** (LINT → *Record as you go*); bullets added as each write landed.
