@@ -4,10 +4,10 @@ category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
 updated: 2026-11-01
-sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc, kanaka-2022-colonic-stent-bts-right-sided, aga-2020-young-adult-onset-crc, aga-2021-crc-chemoprevention]
+sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015-crc-surveillance, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc, kanaka-2022-colonic-stent-bts-right-sided, aga-2020-young-adult-onset-crc, aga-2021-crc-chemoprevention]
 ---
 
-*Screening is covered in [[colorectal-cancer-screening]] and in detail below (fecal immunochemical test [FIT]). **Colorectal cancer (CRC) diagnosed at 18 – <50 years of age** has its own presentation, germline yield, fertility and surveillance considerations — see [[early-onset-colorectal-cancer]]. Hereditary syndromes (workup: [[colorectal-polyposis]]): [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy]] and [[colonoscopy]].*
+*Screening is covered in [[colorectal-cancer-screening]]; the fecal immunochemical test itself on [[fecal-immunochemical-test]]. **Colorectal cancer (CRC) diagnosed at 18 – <50 years of age** has its own presentation, germline yield, fertility and surveillance considerations — see [[early-onset-colorectal-cancer]]. Hereditary syndromes (workup: [[colorectal-polyposis]]): [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy]] and [[colonoscopy]].*
 
 ## Contents
 - [[#Assessment]]
@@ -18,28 +18,16 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015
 - [[#Therapeutics]]
   - [[#Oncologic Management (NCCN 2026)]]
   - [[#Endoscopic Staging & Management (ASGE 2013)]]
-  - [[#Malignant Large Bowel Obstruction — Bridge to Surgery vs Emergency Resection]]
+  - [[#Malignant Large Bowel Obstruction]]
   - [[#Chemoprevention After CRC]]
 - [[#Post-Resection Surveillance]]
-  - [[#Epidemiology of Post-Resection Risk]]
+  - [[#What the Intervals Rest On]]
   - [[#Universal Lynch Syndrome Testing]]
   - [[#Step 1 — Perioperative Clearing Colonoscopy]]
   - [[#Step 2 — First Postoperative Surveillance Colonoscopy]]
   - [[#Step 3 — Subsequent Surveillance Intervals]]
   - [[#Additional Considerations for Rectal Cancer]]
   - [[#Fecal Testing in Post-Resection Surveillance]]
-- [[#FIT Screening for CRC — Primary Screening (Average-Risk)]]
-  - [[#Overview and Rationale]]
-  - [[#FIT Performance Characteristics — Single Application]]
-  - [[#Threshold (Hemoglobin Cut-off Value)]]
-  - [[#Qualitative vs. Quantitative FIT]]
-  - [[#Number of Samples]]
-  - [[#Interval]]
-  - [[#FIT vs. gFOBT]]
-  - [[#Follow-up of a Positive FIT]]
-  - [[#Practical Considerations]]
-  - [[#Programmatic Quality Targets (USMSTF 2016)]]
-  - [[#Conflict with 2021 Guidelines]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -155,25 +143,6 @@ Per [[nccn-2026-colon-cancer]]. **Universal mismatch repair (MMR)/microsatellite
 - **KRAS G12C** → G12C inhibitor (adagrasib/sotorasib) + anti-EGFR in later lines.
 - **Resectable oligometastatic disease** (especially liver-limited) → curative-intent resection/ablation integrated with systemic therapy.
 
-```mermaid
-flowchart TD
-    A["Colon adenocarcinoma<br/>(colonoscopy + biopsy)"] --> B["Stage: CT chest/abdomen/pelvis, CEA, TNM;<br/>universal MMR/MSI; if metastatic add<br/>RAS, BRAF V600E, HER2, NTRK, DPYD"]
-    B --> C{"Stage?"}
-    C -->|"Early T1 (favorable, in polyp)"| ER["Endoscopic resection"]
-    C -->|"Localized (II–III)"| S["Colectomy + regional lymphadenectomy"]
-    S --> ADJ{"Stage III or high-risk II?"}
-    ADJ -->|"Yes"| AC["Adjuvant FOLFOX / CAPOX<br/>(3 vs 6 mo per IDEA)"]
-    ADJ -->|"No / low-risk II"| OBS["Observation"]
-    C -->|"Metastatic"| M{"Biomarkers + sidedness"}
-    M -->|"MSI-H / dMMR"| IO["Pembrolizumab (or nivo±ipi)"]
-    M -->|"RAS wild-type (WT), BRAF-WT, left-sided"| EGFR["Chemo + anti-EGFR (cetuximab/panitumumab) ± bevacizumab"]
-    M -->|"BRAF V600E"| BR["Encorafenib + cetuximab"]
-    M -->|"HER2-amplified, RAS-WT"| H2["HER2-directed therapy"]
-    M -->|"Resectable oligomets (liver)"| RES["Resection/ablation + systemic therapy"]
-```
-
-*Algorithm — National Comprehensive Cancer Network (NCCN) colon cancer management, recreated in original form (not an NCCN figure). ([[nccn-2026-colon-cancer]])*
-
 ### Endoscopic Staging & Management (ASGE 2013)
 
 [[asge-2013-crc-staging-management]] — endoscopic-specific guidance, complementary to NCCN.
@@ -183,45 +152,29 @@ flowchart TD
   - **Endoscopic** management for pedunculated polyps with cancer confined to submucosa of polyp/stalk **and favorable histology** (the favorable-vs-unfavorable criteria — depth of submucosal invasion, margin, grade, budding, lymphovascular invasion — live on [[polypectomy]]).
   - **Surgery** for any malignant polyp with **unfavorable histology**, for sessile/flat neoplasia with submucosal invasion, or for sessile/flat lesions found malignant after **piecemeal** resection (if surgical candidate).
   - Attempt endoscopic mucosal resection (EMR) only if complete resection is anticipated (see [[endoscopic-mucosal-resection]]).
-  - **Early (T1) CRC, American Gastroenterological Association (AGA) 2025:** suspected T1 CRC should be removed **en bloc** ([[colorectal-esd|endoscopic submucosal dissection (ESD)]] preferred; [[endoscopic-full-thickness-resection|endoscopic full-thickness resection (eFTR)]] for select <2 cm with deep submucosal invasion (SMI)). For high-risk T1 CRC surgery is standard, but >80% have no lymph node metastasis (LNM) at surgery — individualize against operative morbidity; deep submucosal invasion *as a solitary feature* carries only ~2.6% LNM risk. Detailed criteria, LNM data, and post-resection surveillance: [[polypectomy]].
-- **Malignant colonic obstruction:** endoscopic options are self-expandable metal stent (SEMS), tumor debulking, or decompression tube. Colonic SEMS as **bridge to surgery** → single-stage elective surgery succeeds in 60–85%. SEMS major adverse events: obstruction, migration, perforation. Obtain early surgical consultation even after successful decompression; avoid endoscopy with peritoneal signs or suspected perforation.
+  - **Early (T1) CRC ([[aga-2025-endoscopic-resection-crc|American Gastroenterological Association (AGA) 2025]]):** remove suspected T1 CRC **en bloc** — piecemeal resection both impairs histologic assessment and is an independent risk factor for recurrence. Technique choice ([[colorectal-esd|endoscopic submucosal dissection (ESD)]] vs [[endoscopic-full-thickness-resection|endoscopic full-thickness resection (eFTR)]]), the high-risk criteria, and the lymph-node-metastasis data that argue against reflex surgery are on [[colorectal-esd]]; the favorable/unfavorable histology set is on [[polypectomy]].
 
-### Malignant Large Bowel Obstruction — Bridge to Surgery vs Emergency Resection
+### Malignant Large Bowel Obstruction
 
-**Two distinct indications — do not merge them.** *Bridge to surgery* (BTS) = preoperative SEMS decompression then **elective** resection, in **resectable** disease where every patient goes on to surgery. *Palliative stenting* of incurable obstruction is a different decision (the stomach's version of that question is [[jeurnink-2010-sustent-goo|SUSTENT]], on [[gastric-outlet-obstruction]]). The comparator for BTS is **emergency one-stage resection (ER)**.
+- **Endoscopic options:** self-expandable metal stent (SEMS), tumor debulking, or decompression tube. SEMS as a bridge to surgery lets a **single-stage elective** operation succeed in **60–85%** ([[asge-2013-crc-staging-management]]). Major SEMS adverse events: obstruction, migration, perforation. **Obtain early surgical consultation even after a successful decompression.**
 
-**Why side matters.** BTS is the established approach for **left-sided** obstruction; right-sided disease has been managed by emergency resection with primary anastomosis on the assumption that this is safe. Right-sided is **32–54% of malignant large bowel obstruction**, yet only **~5%** of reported BTS cases. Right-sided SEMS is technically harder — right-colon tumour site independently predicted technical difficulty (odds ratio (OR) 2.5, 95% confidence interval (CI) 1.61–4.01). ([[kanaka-2022-colonic-stent-bts-right-sided]])
+- **Two distinct indications — do not merge them.** *Bridge to surgery* = preoperative self-expandable metal stent (SEMS) decompression then **elective** resection, in resectable disease. *Palliative stenting* of incurable obstruction is a different decision (the stomach's version is [[jeurnink-2010-sustent-goo|SUSTENT]], on [[gastric-outlet-obstruction]]).
+- **Bridge to surgery is established for left-sided obstruction.** Right-sided disease is **32–54%** of malignant large bowel obstruction but only ~5% of reported bridge-to-surgery cases, and has been managed by emergency resection with primary anastomosis on the assumption that this is safe — an assumption [[kanaka-2022-colonic-stent-bts-right-sided]] tests and [[aga-2021-malignant-alimentary-tract-obstruction]] Best Practice Advice 13 rejects.
+- **The outcome data for both sides, the GRADE caveats and the technical-difficulty figures live on [[colonic-stenting]]** — including the right-sided bridge-to-surgery vs emergency-resection meta-analysis in full.
 
-**Right-sided outcomes — BTS vs ER** (meta-analysis, 7 non-randomized comparative studies, n=5136; [[kanaka-2022-colonic-stent-bts-right-sided]]):
-
-| Outcome | BTS | ER | Effect | Grading of Recommendations Assessment, Development and Evaluation (GRADE) |
-|---|---|---|---|---|
-| Postoperative complications | **19.3%** | 31.3% | OR 0.78 (0.66–0.92) | ⊕OOO very low |
-| Postoperative mortality | **0.9%** | 5.2% | OR 0.51 (0.28–0.92) | ⊕⊕OO low |
-| **Severe complications** (Clavien–Dindo ≥III / reintervention) | — | — | **OR 0.98 (0.68–1.41) — not significant (NS)** | — |
-| Primary anastomosis | **97.8%** | 85.9% | P=0.04 | very low |
-| [[ostomy-management\|Stoma construction]] | **2.0%** | 11.0% | P<0.01 | low |
-| Laparoscopic surgery | **48.5%** | 15.7% | P<0.01 (I²=67% — weakest finding) | low |
-| Anastomotic leakage | **2.6%** | 5.6% | P=0.03 | very low |
-| Surgical site infection | **4.6%** | 5.8% | P<0.01 | very low |
-| Ileus | 6.7% | 3.1% | NS — **the one signal favouring ER** | very low |
-
-- **Read the rates, not the odds ratios,** for primary anastomosis / stoma / laparoscopic surgery — those ORs are computed on the complement and the source's own prose misstates their direction.
-- **Timing after stenting does not change the benefit** — complication reduction held both **<20 days** (OR 0.45, 0.22–0.92) and **≥20 days** (OR 0.81, 0.68–0.96). Reported SEMS-to-surgery intervals across studies: **7.5–28.1 days** (medians).
-- **Three qualifiers travel with every number above.** (1) **Severe complications did not differ** — the benefit sits in overall/milder morbidity. (2) Evidence is **very low to low GRADE, no randomized controlled trials (RCTs)**; the authors' dominant concern is selection toward "easy-to-stent cases." (3) **"Right-sided" was defined inconsistently** — 5 of 7 studies included the *entire transverse colon*.
-- **Baseline risk that motivates the question:** emergency right hemicolectomy 30-day mortality **6.0% vs 0.7% elective**; previously reported ER outcomes for right-sided obstruction, mortality 8.8–14.5% and morbidity 32–54.3%.
-- **Left-sided obstruction** is where bridge to surgery is established; the left-sided and unspecified-site data live on [[colonic-stenting]].
+> [!pitfall] Peritoneal signs end the endoscopy
+> Do not scope a malignant obstruction when there are **peritoneal signs or suspected perforation** ([[asge-2013-crc-staging-management]]). Stenting a perforated colon converts a surgical problem into a catastrophe.
 
 ### Chemoprevention After CRC
 
 *[[aga-2021-crc-chemoprevention|AGA 2021]] — ungraded Best Practice Advice; **"should" = more robust evidence, "may" = less robust**, the authors' own convention. Excludes hereditary syndromes and [[inflammatory-bowel-disease|IBD]]. The average-risk chemoprevention framework lives on [[colorectal-cancer-screening]] and is not repeated here.*
 
-| Agent | Advice | Evidence |
-|---|---|---|
-| **Aspirin** | **BPA 2 — should consider** aspirin to prevent recurrent colorectal neoplasia in individuals with a history of CRC | US trial (n = 517), **325 mg daily → adenoma recurrence relative risk (RR) 0.65 (0.46–0.91)** at 1 y, **no difference in advanced adenomas**. Japanese trial (n = 311, 25% with CRC), **100 mg daily × 2 y → OR 0.60 (0.36–0.98)**. **Survival after CRC diagnosis:** meta-analysis found **no** CRC-specific survival benefit (hazard ratio (HR) 0.77; 0.52–1.14) but **improved overall survival** (HR 0.84; 0.75–0.94) — ⚠ benefit *"appeared restricted to individuals with **PIK3CA-mutant and COX-2 [cyclooxygenase-2] expressing** tumors."* ⚠ **No chemopreventive dose is stated by the clinical practice update (CPU)** |
-| **Metformin** | **BPA 5 — may consider** metformin to reduce mortality in individuals with **CRC and type 2 diabetes** | Meta-analysis of 17 observational studies (n = 269,417): cancer-specific survival **HR 0.75 (0.59–0.94)**, overall survival **HR 0.69 (0.61–0.77)**. ⚠ The CPU cautions these are *"susceptible to confounding by diabetes severity and time-related biases"* — hence "may," and only in patients who already have diabetes |
-| **Statins** | **BPA 9 — should not** use statins to reduce mortality in individuals with a history of CRC | Mortality data after CRC are inconclusive and observational studies suffer selection bias; in a large SEER-Medicare case-control study, statins started **within 6 months of diagnosis** were **not** associated with reduced 3-year CRC-related or all-cause mortality |
-| **Non-aspirin nonsteroidal anti-inflammatory drugs (NSAIDs)** | Not recommended (BPA 3 covers average risk) | **VICTOR** (rofecoxib in stage II/III CRC, n = 2434): no effect on CRC-specific mortality (HR 0.98), overall survival (HR 0.97), or recurrence (HR 0.89); terminated early on the worldwide rofecoxib withdrawal |
+| Agent | Advice |
+|---|---|
+| **Aspirin** | **BPA 2 — should consider** aspirin to prevent recurrent colorectal neoplasia in a patient with a history of CRC. ⚠ **The update states no chemopreventive dose.** Overall survival improves (hazard ratio (HR) 0.84, 0.75–0.94) but CRC-specific survival does not, and the benefit *"appeared restricted to individuals with **PIK3CA-mutant and COX-2 [cyclooxygenase-2] expressing** tumors"* |
+| **Metformin** | **BPA 5 — may consider**, to reduce mortality, and **only in a patient who already has type 2 diabetes**. "May" rather than "should" because the observational data are susceptible to confounding by diabetes severity and time-related bias |
+| **Statins** | **BPA 9 — should not** use statins to reduce mortality after CRC |
+| **Non-aspirin NSAIDs** | Not recommended |
 
 ---
 
@@ -231,21 +184,17 @@ flowchart TD
 
 > Applies to curative-intent resection of TNM stage I–III CRC and selected resected stage IV. The intervals **do not apply to Lynch syndrome**; serrated polyposis syndrome (SPS) needs more frequent colonoscopy. Studies in hereditary syndromes, IBD, and prior CRC were excluded from the evidence review.
 
-### Epidemiology of Post-Resection Risk
+### What the Intervals Rest On
 
-- Up to 40% of patients with locoregional CRC develop recurrent cancer; 90% occur within 5 years
-- Cumulative incidence of metachronous CRC: ~0.3–0.35%/year, lifelong
-- In studies that explicitly excluded [[lynch-syndrome|Lynch syndrome]], **~33% of metachronous cancers were diagnosed within 3 years of surgery** — most plausibly prevalent cancers/advanced adenomas missed at the index exam, not true de novo lesions
-- In a Netherlands registry study (n=5,157 CRC patients), metachronous cancers attributed to: missed lesions 43%, nonadherence 43%, incomplete resection 5.4%, de novo only 5.4%
-- Surveillance colonoscopy associated with improved overall survival (OR=0.73, Cochrane meta-analysis; HR=0.75, 11-RCT meta-analysis) but NOT improved cancer-specific mortality
-- Increased intensity of colonoscopy frequency does not improve survival beyond the standard schedule and may increase harm
-- Pooled post-resection studies: 253 metachronous cancers in 15,803 patients (1.6%); **~30% within 2 years** of resection ([[usmstf-2015-crc-surveillance]])
-- **"High-quality" colonoscopy** for these intervals = cecum **or anastomosis** reached + adequate prep + operator meeting adenoma-detection benchmarks (conventional adenoma detection rate **>25%** in average-risk screening) ([[usmstf-2015-crc-surveillance]])
+- **The intervals below assume a *high-quality* colonoscopy**, which here means **cecum *or anastomosis* reached**, adequate [[bowel-preparation|preparation]], and an operator meeting detection benchmarks (conventional adenoma detection rate **>25%** in average-risk screening) ([[usmstf-2015-crc-surveillance]]). A lower-quality exam does not start the clock.
+- **Most metachronous cancers are missed or unresected lesions, not new ones** — in a Netherlands registry of 5,157 patients, 43% missed lesions and 43% nonadherence, against 5.4% de novo. This is why interval shortening is not the fix; exam quality and adherence are.
+- **More frequent colonoscopy than the schedule below does not improve survival and may add harm** ([[usmstf-2015-crc-surveillance]]).
 
 ### Universal Lynch Syndrome Testing
 
-- Per [[usmstf-2014-lynch-syndrome|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2014]] and confirmed in this guideline: all CRCs should be studied for evidence of [[lynch-syndrome]] (MMR/MSI tumor testing)
-- **Scope and rationale ([[aga-2020-young-adult-onset-crc]]).** Tumor testing for **MSI**, or **immunohistochemistry (IHC) for MLH1, MSH2, MSH6 and PMS2**, should be performed on **all CRC regardless of age of onset** — not only as a screen for [[lynch-syndrome|Lynch syndrome]], but because the result is:
+Universal MMR/MSI testing of every colon cancer is stated under [[#Oncologic Management (NCCN 2026)]]; it is also the standing recommendation of [[usmstf-2014-lynch-syndrome|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2014]]. What this section adds is the **assay and the reason**:
+
+- **Either MSI testing or immunohistochemistry (IHC) for MLH1, MSH2, MSH6 and PMS2**, on **all CRC regardless of age of onset** ([[aga-2020-young-adult-onset-crc]]) — not only as a screen for [[lynch-syndrome|Lynch syndrome]], but because the result is:
   - **Prognostic** among early stages (**stage I and II**) — and it is why adjuvant chemotherapy is **recommended against in MSI stage II CRC**
   - **Predictive** of response to **immunotherapy in stage IV** disease
 - Patients with known or suspected [[lynch-syndrome|Lynch syndrome]] must follow Lynch-specific surveillance intervals, not those below
@@ -309,124 +258,13 @@ flowchart TD
 - **Insufficient evidence to recommend routine FIT or fecal DNA** for surveillance after CRC resection
 - FIT showed earlier detection in one study (n=1,736) but applicability to post-resection surveillance unclear
 - Fecal DNA abnormalities clear from stool after resection; role in post-CRC surveillance not yet investigated
-
----
-
-## FIT Screening for CRC — Primary Screening (Average-Risk)
-
-[[usmstf-2016-fit-screening]] | [[acg-2021-crc-screening]]
-
-> This section covers FIT as a primary screening modality for average-risk individuals. For post-polypectomy and post-resection surveillance, see above.
-
-### Overview and Rationale
-
-FITs measure human hemoglobin directly in stool using antibodies against the globin moiety. Unlike the guaiac-based fecal occult blood test (gFOBT), FIT:
-
-- Is not confounded by dietary peroxidase activity — **no dietary restriction required** (Strong; Moderate)
-- Requires fewer samples (usually 1 or 2 vs. 3 for gFOBT)
-- Has superior sensitivity for CRC and advanced neoplasia
-- Has superior adherence (~10% absolute increase in ≥4 RCTs; ~20% greater participation in 2 meta-analyses)
-
-American College of Gastroenterology (ACG) 2021 recommends **colonoscopy and FIT as the primary screening modalities** (Strong; low-quality evidence), with **FIT every 1 y** and colonoscopy every 10 y (Strong; low-quality evidence) [[acg-2021-crc-screening]]; USMSTF 2021 positions colonoscopy every 10 y or annual FIT as tier-1 options.
-
-### FIT Performance Characteristics — Single Application
-
-**For CRC (meta-analysis of 19 studies, asymptomatic average-risk adults):** [[usmstf-2016-fit-screening]]
-
-- Pooled sensitivity: **~79%** (95% CI, 0.69–0.86)
-- Pooled specificity: **~94%** (95% CI, 0.92–0.95)
-- With colonoscopy as reference standard only: sensitivity 77%, specificity 94%
-- OC FIT-CHEK (large US study, n=9,989 undergoing colonoscopy): sensitivity 74%, specificity 96%
-
-**For advanced adenoma (single application):** [[usmstf-2016-fit-screening]]
-
-- Sensitivity: **~20–30%** typical (range 6–56% depending on brand and cut-off); specificity 68–99% across studies
-- Implication: single-application FIT is a poor screen for advanced adenomas; repeated annual application is required to meaningfully accumulate detection of precancerous lesions
-
-**USMSTF 2016:** because one-time FIT is ~80% sensitive for cancer but only ~20–30% for advanced neoplasia, **we recommend repeated testing**; patients choosing FIT should understand that testing recurs and that a positive result needs colonoscopy — **Strong recommendation; moderate-quality evidence.** When FIT is positive, do colonoscopy, **not a repeat FIT** — **Strong; moderate.** [[usmstf-2016-fit-screening]]
-
-### Threshold (Hemoglobin Cut-off Value)
-
-| Cut-off range | Effect on sensitivity (CRC) | Effect on specificity | Positivity rate (1-sample) |
-|---|---|---|---|
-| <20 µg Hgb/g feces | 0.86 (95% CI, 0.75–0.92) | 0.91 (0.89–0.93) | 5.3–14.2% |
-| 20–50 µg/g | Not reported | Not reported | 1.4–7.5% |
-| >50 µg/g | 0.67 (95% CI, 0.59–0.74) | 0.96 (0.94–0.98) | Not reported |
-
-- In the meta-analysis, <20 µg/g gave the best combination of sensitivity and specificity for CRC
-- **Task Force favors a lower cut-off** (Table 7: "20 µg/g or lower"; text: <20 µg/g), weighing performance, cost-effectiveness, FIT device, and the program's colonoscopy resources — **Weak recommendation; low-quality evidence** [[usmstf-2016-fit-screening]]
-- Including 20 µg/g partly reflects the threshold of the commonly available US quantitative test
-- Individuals with fecal hemoglobin >177 µg/g are ~4x more likely to harbor advanced neoplasia (OR 3.80; 95% CI, 3.07–4.71)
-
-### Qualitative vs. Quantitative FIT
-
-- **Quantitative FIT preferred** over qualitative — **Weak recommendation; low-quality evidence** [[usmstf-2016-fit-screening]]
-- Rationale: automated reading, adjustable thresholds, better quality control
-- Pooled sensitivity: quantitative 77% vs. qualitative 85% for CRC; specificity similar (~94% both)
-- FDA-cleared quantitative systems in the US (as of 2016): OC-Auto Micro 80, OC-Sensor Diana (Polymedco), i-Chroma (Boditech)
-
-### Number of Samples
-
-- **1-sample annual approach is suggested** — **Weak recommendation; low-quality evidence** [[usmstf-2016-fit-screening]]
-- 2-sample FIT associated with higher advanced neoplasia detection in some studies (4.1% vs. 3.1%), but 1-sample is simpler and cost-effectiveness modeling (MISCAN-Colon) favored 1-sample annually
-- Pooled sensitivities for CRC: 1-sample 0.79, 2-sample 0.77, 3-sample 0.80 — no meaningful difference by sample number
-
-### Interval
-
-- **Annual** (part of the 1-sample annual suggestion above)
-- Programmatic annual gFOBT reduces CRC-related mortality by up to 33%
-- Optimal FIT interval unclear — 2 RCTs of annual vs biennial ongoing at publication; modeling: annual high-sensitivity FIT gives life-years similar to colonoscopy every 10 years; Dutch program: advanced neoplasia detection unaffected by intervals of 1–3 years
-
-### FIT vs. gFOBT
-
-- **Use FIT over gFOBT** — **Strong recommendation; high-quality evidence** [[usmstf-2016-fit-screening]]
-- Meta-analysis: cancer detection RR 1.96 (1.2–3.2); advanced neoplasia detection RR 2.28 (95% CI, 1.68–3.10); adherence RR 1.16 (95% CI, 1.03–1.30)
-- FIT sensitivity for CRC ~2x gFOBT (73.3% vs. 33.3%) with similar specificity (>95%)
-
-### Follow-up of a Positive FIT
-
-- **Colonoscopy is the recommended test for follow-up of a positive FIT** in screen-eligible individuals — **Strong recommendation; moderate-quality evidence** [[usmstf-2016-fit-screening]]
-- CTC (sensitivity ≥6 mm 89%, specificity 75.4%) and colon [[capsule-endoscopy|capsule endoscopy]] (sensitivity 95%, specificity 65%; complete in 73%) have been studied after a positive stool test; specificity is the weakness
-- **A positive FIT + negative colonoscopy should NOT prompt upper GI evaluation** in the absence of signs/symptoms of upper GI pathology or [[iron-deficiency-anemia|iron-deficiency anemia]] — **Weak recommendation; very low quality evidence**
-- **A positive FIT after a recent colonoscopy** (before repeat endoscopy is due): generally offer repeat colonoscopy, weighing clinical context, patient factors (advanced-neoplasia risk, preference), and prior exam quality (prep, endoscopist adenoma detection rate [ADR]) — **Weak recommendation; low-quality evidence**
-- positive predictive value (PPV) for cancer from positive FIT: 2.9–7.8% (range across programs, round 1); PPV for advanced neoplasia: 33.9–54% (round 1)
-
-### Practical Considerations
-
-| Issue | Recommendation | Strength | Evidence |
-|---|---|---|---|
-| Dietary/medication adjustment | Not required — instruct patients explicitly | Strong | Moderate |
-| Sample collection | Spontaneously passed stool; NOT in-office digital rectal examination (DRE) sample | Weak | Very Low |
-| Sample return time | No strong evidence that delays up to 10 days harm performance; tell participants to return the kit promptly (preferably within 24 h of sampling); programs monitor return times and request a repeat sample when outside the manufacturer's limit | Weak | Very Low |
-| Ambient temperature / season | Need not adjust distribution or mailing for temperature; follow manufacturer storage and transport specifications | Weak | Low |
-
-### Programmatic Quality Targets (USMSTF 2016)
-
-| Metric | Target |
-|---|---|
-| FIT completion rate among those offered testing | ≥60% |
-| Proportion of returned FITs unprocessable by lab | <5% |
-| Colonoscopy completion rate for FIT-positive individuals | ≥80% |
-| ADR on follow-up colonoscopy (using ≤20 µg/g threshold) | >45% in men; >35% in women |
-
-*These FIT-positive ADR targets are separate from screening-colonoscopy ADR benchmarks — see [[colonoscopy-quality-indicators]].*
-
-![[fit-2016-program-quality-process-flow-50.png|600x662]]
-*Figure 1 — Key steps in a FIT-based program and the quality measure at each step; FIT-negative and non-completers re-enter the recall queue for 1 year later. ([[usmstf-2016-fit-screening]])*
-
-### Conflict with 2021 Guidelines
-
-The ACG 2021 and USMSTF 2021 guidelines do not supersede the FIT-specific operational guidance in this 2016 document. Where the guidelines differ on topics covered by both:
-
-- **Screening start age:** Use 2021 values (age 45–50; see [[colorectal-cancer-screening]])
-- **Modality ranking:** 2021 guidelines position colonoscopy and FIT as co-equal preferred options; 2016 document predates this framing but is consistent with it
-- **FIT performance data, cut-off recommendations, programmatic quality targets:** 2016 document remains the primary source — no conflicting 2021 data on these specific points
+- FIT as **primary average-risk screening** — performance, cut-off, sampling, positive-test follow-up and programmatic targets — is a different question with a different owner: [[fecal-immunochemical-test]].
 
 ---
 
 ## See Also
 
-[[colorectal-cancer-screening]], [[early-onset-colorectal-cancer]], [[colorectal-polyposis]], [[colonoscopy]], [[polypectomy]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[ibd-in-malignancy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[colorectal-esd]], [[endoscopic-submucosal-dissection]], [[capsule-endoscopy]], [[endoscopic-mucosal-resection]], [[endoscopic-full-thickness-resection]], [[acute-lower-gi-bleeding]], [[endoscopic-oncology]], [[gastric-outlet-obstruction]], [[ostomy-management]]
+[[colorectal-cancer-screening]], [[early-onset-colorectal-cancer]], [[colorectal-polyposis]], [[colonoscopy]], [[polypectomy]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]], [[fecal-immunochemical-test]], [[colonic-stenting]], [[colonoscopy-quality-indicators]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[ibd-in-malignancy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[colorectal-esd]], [[endoscopic-submucosal-dissection]], [[capsule-endoscopy]], [[endoscopic-mucosal-resection]], [[endoscopic-full-thickness-resection]], [[acute-lower-gi-bleeding]], [[endoscopic-oncology]], [[gastric-outlet-obstruction]], [[ostomy-management]]
 
 ---
 
@@ -434,12 +272,10 @@ The ACG 2021 and USMSTF 2021 guidelines do not supersede the FIT-specific operat
 
 1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
 2. [[usmstf-2015-crc-surveillance|USMSTF 2015: Colonoscopy Surveillance after Colorectal Cancer Resection]]
-3. [[usmstf-2016-fit-screening|USMSTF 2016 — Recommendations on Fecal Immunochemical Testing to Screen for Colorectal Neoplasia]]
-4. [[acg-2021-crc-screening|ACG 2021 Colorectal Cancer Screening Guidelines]]
-5. [[nccn-2026-colon-cancer|NCCN Clinical Practice Guidelines in Oncology: Colon Cancer (Version 2.2026)]]
-6. [[asge-2013-crc-staging-management|ASGE 2013: Role of Endoscopy in the Staging and Management of Colorectal Cancer]]
-7. [[aga-2025-endoscopic-resection-crc|AGA Clinical Practice Update on Endoscopic Resection for Early Colorectal Cancer: Commentary (2025)]]
-8. [[kanaka-2022-colonic-stent-bts-right-sided|Colonic stent as a bridge to surgery versus emergency resection for right-sided malignant large bowel obstruction: a meta-analysis]]
-9. [[usmstf-2014-lynch-syndrome|Genetic Evaluation and Management of Lynch Syndrome: A Practice Guideline from the American College of Gastroenterology]]
-10. [[aga-2020-young-adult-onset-crc|AGA 2020 Clinical Practice Update: Young Adult–Onset Colorectal Cancer Diagnosis and Management]]
-11. [[aga-2021-crc-chemoprevention|AGA Clinical Practice Update on Chemoprevention for Colorectal Neoplasia: Expert Review (2021)]]
+3. [[nccn-2026-colon-cancer|NCCN Clinical Practice Guidelines in Oncology: Colon Cancer (Version 2.2026)]]
+4. [[asge-2013-crc-staging-management|ASGE 2013: Role of Endoscopy in the Staging and Management of Colorectal Cancer]]
+5. [[aga-2025-endoscopic-resection-crc|AGA Clinical Practice Update on Endoscopic Resection for Early Colorectal Cancer: Commentary (2025)]]
+6. [[kanaka-2022-colonic-stent-bts-right-sided|Colonic stent as a bridge to surgery versus emergency resection for right-sided malignant large bowel obstruction: a meta-analysis]]
+7. [[usmstf-2014-lynch-syndrome|Genetic Evaluation and Management of Lynch Syndrome: A Practice Guideline from the American College of Gastroenterology]]
+8. [[aga-2020-young-adult-onset-crc|AGA 2020 Clinical Practice Update: Young Adult–Onset Colorectal Cancer Diagnosis and Management]]
+9. [[aga-2021-crc-chemoprevention|AGA Clinical Practice Update on Chemoprevention for Colorectal Neoplasia: Expert Review (2021)]]

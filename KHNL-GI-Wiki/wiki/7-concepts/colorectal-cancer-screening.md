@@ -3,7 +3,7 @@ title: "Colorectal Cancer Screening"
 category: concept
 tags: [crc, colorectal-cancer, screening, colonoscopy, fit, gfobt, multitarget-stool-dna, septin-9, colonoscopy-quality, adenoma, colorectal]
 created: 2026-05-16
-updated: 2026-10-30
+updated: 2026-11-01
 sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-screening-risk-stratification, aga-2025-crc-blood-tests, aga-2021-crc-chemoprevention, aga-2022-noninvasive-crc-screening, usmstf-2016-fit-screening, aga-2020-young-adult-onset-crc, usmstf-2025-bowel-prep]
 ---
 
@@ -108,7 +108,7 @@ sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-sc
 - FIT measures human hemoglobin (no diet restriction). **Lower threshold → more sensitivity, less specificity, more colonoscopies.**
 - **Use a positivity threshold ≤20 µg/g** — weak, low ([[usmstf-2016-fit-screening]]); also the threshold of common US quantitative tests.
 - ⚠ **FIT has no utility for serrated lesion detection.**
-- Sample number, quantitative vs qualitative, kit handling, and positive-FIT follow-up: [[colorectal-cancer#FIT Screening for CRC — Primary Screening (Average-Risk)|colorectal-cancer]].
+- Sample number, quantitative vs qualitative, kit handling, and positive-FIT follow-up: [[fecal-immunochemical-test]].
 
 Sensitivity / specificity, % (95% confidence interval [CI]); AA = advanced adenoma; NR = not reported.
 
@@ -169,7 +169,7 @@ Modelled effect of each program (4 validated models):
 
 ## Program Quality Metrics for Noninvasive Screening
 
-Targets from [[aga-2022-noninvasive-crc-screening]] ("aspirational, but attainable"). **Delay >6 months after a positive FIT → more advanced adenoma, CRC, and advanced-stage CRC.** USMSTF 2016 FIT-program targets: [[colorectal-cancer#Programmatic Quality Targets (USMSTF 2016)|colorectal-cancer]].
+Targets from [[aga-2022-noninvasive-crc-screening]] ("aspirational, but attainable"). **Delay >6 months after a positive FIT → more advanced adenoma, CRC, and advanced-stage CRC.** USMSTF 2016 FIT-program targets: [[fecal-immunochemical-test#Programmatic Quality Targets|fecal immunochemical test]].
 
 | Metric | Target |
 |---|---|
