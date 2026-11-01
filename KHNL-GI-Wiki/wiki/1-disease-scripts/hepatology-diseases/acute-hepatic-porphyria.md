@@ -3,8 +3,8 @@ title: "Acute Hepatic Porphyria"
 category: disease-script
 tags: [porphyria, acute-hepatic-porphyria, aip, hcp, vp, alad, hepatology, metabolic, givosiran, hemin]
 created: 2026-07-20
-updated: 2026-10-31
-sources: [aga-2023-acute-hepatic-porphyria]
+updated: 2026-11-01
+sources: [aga-2023-acute-hepatic-porphyria, givlaari-2025-givosiran-label]
 ---
 
 Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in which partially defective heme-synthesis enzymes cause accumulation of the porphyrin precursors **δ-aminolevulinic acid (ALA)** and **porphobilinogen (PBG)**, producing acute neurovisceral attacks. Consider AHP in any patient — especially a woman aged 15–50 years — with unexplained recurrent severe abdominal pain not ascribable to common causes. ([[aga-2023-acute-hepatic-porphyria]])
@@ -120,7 +120,10 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 ### Prophylaxis for Recurrent Attacks
 - **BPA 7:** for recurrent attacks (**≥4/year**), consider outpatient prophylaxis with **[[hemin|prophylactic heme therapy]]** or **[[givosiran]]**.
 - **Prophylactic IV [[hemin]]:** off-label; effectiveness at preventing attacks less established than for aborting them; complications include indwelling catheters, infection, and **[[iron-overload-and-iron-metabolism|iron overload]]** (monitor — see below).
-- **[[givosiran]]:** ALAS1-specific small interfering RNA (siRNA) conjugated to N-acetylgalactosamine (GalNAc), **subcutaneous monthly**; US Food and Drug Administration (FDA)–approved for adults, European Medicines Agency (EMA)–approved for ≥12 y in the European Union (EU). Prescribe **only for biochemically AND genetically confirmed** recurrent attacks. **Avoid in pregnancy / pregnancy planning.** Monitor liver enzymes, blood urea nitrogen (BUN)/creatinine, homocysteine, amylase, lipase; may worsen eGFR in a subset.
+- **[[givosiran]]:** ALAS1-specific small interfering RNA (siRNA) conjugated to N-acetylgalactosamine (GalNAc), **2.5 mg/kg subcutaneous monthly**; US Food and Drug Administration (FDA)–approved for adults, European Medicines Agency (EMA)–approved for ≥12 y in the European Union (EU). Prescribe **only for biochemically AND genetically confirmed** recurrent attacks. **Avoid in pregnancy / pregnancy planning.** Monitor liver enzymes, blood urea nitrogen (BUN)/creatinine, homocysteine, amylase, lipase; may worsen eGFR in a subset. Dose modification, administration technique and the CYP1A2/CYP2D6 interaction are on the drug page.
+
+> [!pitfall] Pregnancy cuts both ways in acute hepatic porphyria
+> Givosiran is avoided in pregnancy, but untreated disease is not benign: **attacks occur in 24–95% of pregnant AHP patients, with maternal mortality reported at 2–42%**, and pregnancy carries higher rates of spontaneous abortion, hypertension and low birth weight ([[givlaari-2025-givosiran-label]]). Plan the pregnancy with hepatology and obstetrics rather than simply stopping prophylaxis.
 
 ### Liver Transplantation
 - **BPA 8:** [[liver-transplantation|liver transplantation]] limited to **intractable symptoms with significantly decreased quality of life, refractory to pharmacotherapy.**
@@ -144,3 +147,4 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 ## Sources
 
 1. [[aga-2023-acute-hepatic-porphyria|AGA Clinical Practice Update on Diagnosis and Management of Acute Hepatic Porphyrias: Expert Review]]
+2. [[givlaari-2025-givosiran-label|GIVLAARI (Givosiran) Injection — FDA Prescribing Information]]

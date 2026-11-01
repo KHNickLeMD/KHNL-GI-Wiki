@@ -3,7 +3,7 @@ title: "AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B"
 category: source
 tags: [hepatitis-b, HBV, antiviral, pregnancy, HCC-surveillance, nucleoside-analogues, immune-tolerant, indeterminate, functional-cure]
 created: 2026-05-15
-updated: 2026-09-23
+updated: 2026-11-01
 sources: []
 ---
 
@@ -28,6 +28,16 @@ Shifts from 2018: (1) TAF is co-recommended with TDF in pregnancy, though TDF ha
 This is a focused update — the 2018 guidance remains applicable for children, immune-active CHB, low-level viremia and virologic breakthrough, cirrhosis, and special populations (transplant recipients, acute hepatitis B virus [HBV] infection, co-infections).
 
 ## Key Findings / Claims
+
+**The two approved drug classes, and why one of them is barely used:**
+
+- Two classes are approved for CHB: **peginterferon** and **nucleos(t)ide analogues (NAs)**. **Peginterferon is rarely used, given its limitations of applicability, safety and tolerability** compared with NA therapy.
+- Three NAs are **preferred**: **entecavir (ETV), tenofovir disoproxil fumarate (TDF), tenofovir alafenamide (TAF)** — all with high HBV DNA suppression, low resistance, good tolerability, and broad applicability including **decompensated cirrhosis and immunocompromised states**.
+- **Choosing among the three** turns on availability/cost, age, renal or bone disease (**avoid TDF**), pregnancy (**avoid ETV**), HIV coinfection (**avoid ETV unless HIV RNA is suppressed on antiretroviral therapy**) and prior lamivudine exposure (**avoid ETV**).
+- **Renal rules:** all three require attention to renal function and/or dialysis. **TAF is not recommended at creatinine clearance <15 mL/min when not yet on dialysis.** ETV and TDF need dose adjustment for renal dysfunction or dialysis — though for a patient on TDF with declining renal function, **changing the NA is preferred to adjusting the dose**.
+- **Functional cure (HBsAg loss) is increasingly the desired endpoint** because it is associated with reduced clinical events and is durable — but it is **infrequent with every approved therapy, albeit higher with peginterferon than with NAs.** That tension is the whole reason peginterferon has not disappeared.
+- **Treatment goals** are prevention of cirrhosis, HCC and liver-related death; because those take years to decades, **surrogate endpoints** are used — undetectable HBV DNA by PCR, HBeAg loss/seroconversion, HBsAg loss/seroconversion, normal ALT, and infrequently histology (necroinflammation improved ≥2 points with no fibrosis worsening). Secondary goals: reduced vertical and horizontal transmission, better patient-reported outcomes and quality of life, less stigma.
+- **Named research gap:** the role of **peginterferon as add-on or switch therapy to an NA** as a strategy to achieve functional cure is listed among the guideline's open questions — i.e. not a recommended strategy today.
 
 **PICO 1 — Prevention of mother-to-child transmission (MTCT):**
 
@@ -57,6 +67,7 @@ This is a focused update — the 2018 guidance remains applicable for children, 
 - If untreated: HBV DNA + ALT at least every 6 months to catch transition to immune-active CHB
 - Vibration-controlled transient elastography cutoff **7 kPa** for ≥F2 (sensitivity 69%, specificity 83%)
 - ETV/TDF/TAF have low resistance rates but DNA may not fully suppress given very high viral replication levels
+- **NA plus peginterferon for 1–1.5 years** in this phase gave a significant fall in HBV DNA but **limited effect on HBeAg and HBsAg loss/seroconversion** — one of the places the systematic review tested combination therapy and found no functional-cure benefit
 - No direct evidence NA therapy reduces HCC in immune-tolerant phase; benefits inferred
 
 **PICO 4 — HBeAg-negative indeterminate phase treatment:**
