@@ -3,7 +3,7 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-10-22
+updated: 2026-11-01
 sources: [asge-2026-esophageal-gastric-varices, baveno-viii-2026-portal-hypertension, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, wang-2026-eus-ppg-delphi-consensus, aga-2021-bleeding-gastric-varices, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
 ---
 
@@ -36,7 +36,7 @@ sources: [asge-2026-esophageal-gastric-varices, baveno-viii-2026-portal-hyperten
 - **Portal hypertension (PH):** portocaval pressure gradient (portal vein − inferior vena cava) **>5 mm Hg**, measured as the [[hepatic-venous-pressure-gradient|hepatic venous pressure gradient (HVPG)]]. Commonest cause **[[cirrhosis]]**; then [[portal-vein-thrombosis|portal vein thrombosis (PVT)]] and hepatic outflow obstruction — see [[#Classification / Typing]].
 - **Clinically significant portal hypertension (CSPH): HVPG ≥10 mm Hg** — above it, risk of varices, [[ascites]] and [[hepatic-encephalopathy|hepatic encephalopathy (HE)]] rises substantially (Baveno VII 1.10, changed from >10; retained in VIII) [[baveno-vii-2022-portal-hypertension]] [[aasld-2023-portal-hypertension]].
 - **Compensated advanced chronic liver disease (cACLD):** likely cirrhosis on [[liver-stiffness-measurement|liver stiffness measurement (LSM)]] + platelets, no histology needed. **Preferred term when the diagnosis rests on noninvasive tests (NITs)**; not interchangeable with "compensated cirrhosis" (Baveno VIII 1.2). "LSM" = vibration-controlled transient elastography (VCTE) unless stated. Cut-offs: [[#Noninvasive Staging — cACLD and CSPH]] [[baveno-viii-2026-portal-hypertension]].
-- **Decompensation:** clinically evident ascites **or hepatic hydrothorax** from PH, [[variceal-upper-gi-bleeding|variceal bleeding]], or overt HE (West Haven ≥II) (Baveno VIII 3.3). Median survival falls from **>12 y to <1.5 y**. Further decompensation (4.1, event-specific) and recompensation (7.1–7.19) criteria: [[cirrhosis]].
+- **Decompensation:** clinically evident ascites **or [[hepatic-hydrothorax|hepatic hydrothorax]]** from PH, [[variceal-upper-gi-bleeding|variceal bleeding]], or overt HE (West Haven ≥II) (Baveno VIII 3.3). Median survival falls from **>12 y to <1.5 y**. Further decompensation (4.1, event-specific) and recompensation (7.1–7.19) criteria: [[cirrhosis]].
 - Baveno VIII **favours NITs over routine HVPG** in practice (1.18).
 
 ### Severity Assessment

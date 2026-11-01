@@ -3,7 +3,7 @@ title: "Fecal Microbiota Transplantation (Fecal Microbiota-Based Therapies)"
 category: med
 tags: [fmt, microbiome, cdiff, recurrent-cdi]
 created: 2026-07-26
-updated: 2026-10-31
+updated: 2026-11-01
 sources: [aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, acg-2021-cdiff, feuerstadt-2022-ser109-cdiff, rebyota-2022-live-jslm-label, vowst-2025-live-brpk-label]
 ---
 
@@ -68,7 +68,7 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 - Consider generally **within 2–5 days** of initiating CDI treatment; multidisciplinary care (critical care, surgery, gastroenterology [GI], infectious diseases [ID]).
 - **First dose via colonoscopy or flexible sigmoidoscopy** — confirms the diagnosis and lets you grade severity. Insufficient evidence for enema or capsule here, and **no evidence** for the FDA-approved products in this setting.
 - **Nasoenteric tube is discouraged** — increased risk of fecal aspiration.
-- If a **bowel purge is not feasible or safe**, perform FMT **without** bowel preparation.
+- If a **bowel purge is not feasible or safe**, perform FMT **without** [[bowel-preparation|bowel preparation]].
 - **Stop other nonessential antibiotics** wherever possible (an ID-facing reason multidisciplinary care matters).
 - **Follow-up:** assess response by **stool output, WBC, and C-reactive protein (CRP)**. Most patients need repeat FMT; anti-CDI antibiotics may need to be continued or resumed around dosing. Repeat-dosing interval and the pseudomembrane-driven sequential protocol are on [[clostridioides-difficile]].
 - **At discharge:** after colitis resolves, continue **suppressive vancomycin** and perform a **final fecal microbiota–based therapy as an outpatient** to prevent recurrence — that last dose may be given by colonoscopy, capsule, or enema.

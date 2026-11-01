@@ -3,7 +3,7 @@ title: "Argon Plasma Coagulation (APC)"
 category: general-procedure
 tags: [argon-plasma-coagulation, apc, endoscopic-hemostasis, thermal-therapy, ablation, gave, angioectasia, radiation-proctopathy]
 created: 2026-07-24
-updated: 2026-10-12
+updated: 2026-11-01
 sources: [asge-2019-radiation-proctopathy, asge-2010-anorectal-disorders, asge-2014-lgib, acg-2023-lgib, acg-2021-ugib, acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, aga-2024-ida-management, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, asge-2015-ampullary-duodenal-adenomas, asge-2018-barretts-eet, aga-2024-barretts-eet, asge-2016-antithrombotic, aga-2026-electrosurgery]
 ---
 
@@ -83,7 +83,7 @@ Non-contact thermal ablation: monopolar current delivered to tissue through a je
 - **Suction frequently to clear smoke and reduce distension** during ulcer-bleeding APC ([[acg-2021-ugib]]).
 - **Target individual vessels — do not "paint."** Painting produces large confluent ulcers ([[asge-2019-radiation-proctopathy]]).
 - **Sessions:** proctopathy — mean/median 1–3.7 sessions to control bleeding; interval 2–8 weeks, most studies **3–4 weeks** to let injured mucosa heal ([[asge-2019-radiation-proctopathy]]).
-- **Adequate bowel preparation is required** before APC in the colon/rectum ([[asge-2019-radiation-proctopathy]]).
+- **Adequate [[bowel-preparation|bowel preparation]] is required** before APC in the colon/rectum ([[asge-2019-radiation-proctopathy]]).
 - **Suction the insufflated argon periodically** — relieves bowel distension and post-procedural pain ([[asge-2019-radiation-proctopathy]]). In the duodenum, a larger-channel therapeutic duodenoscope eases aspiration of insufflated air and argon gas with instruments in the channel ([[asge-2015-ampullary-duodenal-adenomas]]).
 - **Large right-colon angioectasias:** consider **submucosal injection of fluid before APC** to reduce [[endoscopic-management-of-perforation|perforation]] risk ([[acg-2023-lgib]]). Clips combined with APC have also been reported for angioectasia bleeding ([[asge-2014-lgib]]).
 - **Around the pancreatic duct orifice:** place a pancreatic duct stent **before** ablating ([[asge-2015-ampullary-duodenal-adenomas]]).

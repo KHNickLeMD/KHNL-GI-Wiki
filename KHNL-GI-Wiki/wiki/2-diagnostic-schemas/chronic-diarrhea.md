@@ -3,8 +3,8 @@ title: "Chronic Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, chronic, malabsorption, secretory, osmotic, inflammatory, steatorrhea, ibs]
 created: 2026-06-04
-updated: 2026-10-27
-sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, aga-2020-sibo, aga-2019-lab-evaluation-functional-diarrhea-ibs-d]
+updated: 2026-11-01
+sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, aga-2020-sibo, aga-2019-lab-evaluation-functional-diarrhea-ibs-d, aga-2023-alpha-gal-syndrome]
 ---
 
 ## Definition / Scope
@@ -57,6 +57,7 @@ The most useful framework is to classify by **stool character** into watery, inf
 - **[[postinfectious-ibs|Post-infectious IBS]]** — new-onset IBS-D following an episode of infectious gastroenteritis
 - Endocrine — hyperthyroidism, **[[gastroenteropancreatic-neuroendocrine-tumors|carcinoid syndrome]]**, VIPoma, gastrinoma ([[peptic-ulcer-disease|Zollinger-Ellison]]), Addison's disease, medullary thyroid carcinoma
 - Drugs/toxins — chronic laxative use, metformin, colchicine, SSRIs, alcohol, PPIs
+- **[[alpha-gal-syndrome|Alpha-gal syndrome]]** — immunoglobulin E (IgE)-mediated allergy to galactose-α-1,3-galactose in mammalian meat. Easy to miss because the GI-only phenotype has **no urticaria** and the reaction is **delayed 3–5 h** after eating, so the food link is not obvious; seroprevalence reaches 31–35% in Lone Star tick regions. Check serum alpha-gal IgE in a prevalent region ([[aga-2023-alpha-gal-syndrome]])
 - **[[small-intestinal-bacterial-overgrowth|small intestinal bacterial overgrowth (SIBO)]]** — post-surgical/dysmotility risk factors. **Diarrhea, not bloating, is the symptom most strongly associated with SIBO** ([[aga-2020-sibo]]), so chronic diarrhea is a stronger indication to look for it than bloating is. Aspirate-proven risk factors: **older age, steatorrhea, narcotic use**; associated disorders: [[inflammatory-bowel-disease|IBD]], [[chronic-pancreatitis]], jejunal diverticulosis. **In the very elderly, SIBO is an important cause of otherwise unexplained diarrhea and weight loss.**
 - Surgical/anatomic — post-cholecystectomy, ileal resection, short bowel
 

@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on Alpha-Gal Syndrome for the GI Clinician:
 category: source
 tags: [alpha-gal-syndrome, food-allergy, mammalian-meat-allergy, ige, tick-bite, abdominal-pain, diarrhea]
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-11-01
 sources: []
 ---
 

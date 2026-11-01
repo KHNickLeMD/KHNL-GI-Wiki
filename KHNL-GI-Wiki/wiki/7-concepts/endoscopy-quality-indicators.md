@@ -3,7 +3,7 @@ title: "Endoscopy Quality Indicators (Common to All Procedures)"
 category: concept
 tags: [quality, quality-indicators, endoscopy, sedation, antithrombotics, informed-consent, photodocumentation, adverse-events, specimen-handling]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-01
 sources: [asge-acg-2024-common-endoscopy-quality-indicators]
 ---
 
@@ -64,7 +64,7 @@ sources: [asge-acg-2024-common-endoscopy-quality-indicators]
 - **Even when an anesthesiologist sedates, endoscopist input can be critical** to clarify risk-to-benefit and inform the anesthesia approach.
 - **Monitoring:** pulse oximetry, heart rate and blood pressure in **all** sedated procedures, with **blood pressure and heart rate recorded at intervals of ≤5 minutes**. **Electrocardiographic monitoring is indicated for deep sedation and general anesthesia.** **Capnography** reduces apnea and hypoxemia in randomized trials of propofol deep sedation and **can be considered**.
 - **Fasting (ASA):** clear liquids **2 h** · milk **6 h** · light meal **6 h** · fried or fatty meal **8 h**. **Gastroparesis, achalasia and bowel obstruction may need longer** to minimize aspiration risk.
-- **Essential medications may be taken**, anticoagulation possibly excepted — and so may the bowel preparation. Residual gastric fluid after colonoscopy prep is **minimal (<25 mL)**, whether the prep was split or taken entirely the evening before.
+- **Essential medications may be taken**, anticoagulation possibly excepted — and so may the [[bowel-preparation|bowel preparation]]. Residual gastric fluid after colonoscopy prep is **minimal (<25 mL)**, whether the prep was split or taken entirely the evening before.
 - **No nothing-by-mouth rule is set for glucagon-like peptide-1 receptor agonists** or other weight-loss drugs that delay gastric emptying; the document says policy will evolve as data emerge.
 
 > [!pearl] Sedate to the level you can rescue from

@@ -3,7 +3,7 @@ title: "Anorectal Manometry (ARM)"
 category: advanced-procedure
 tags: [arm, anorectal-manometry, defecation, biofeedback, dyssynergia, fecal-incontinence, balloon-expulsion-test]
 created: 2026-05-19
-updated: 2026-10-20
+updated: 2026-11-01
 sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi, london-2020-anorectal-classification]
 ---
 
@@ -90,7 +90,7 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
 - **BET is performed immediately before or after** this manometry/RST block.
 - Push duration (3 × 15 s) is the **one element that reached no consensus** (<75% unanimity); everything else above is level 1 or 2.
 - **Digital rectal examination before intubation** (also an ACG recommendation, above) — assess pelvic floor structure/function/sensitivity, exclude local pathology and fecal loading, and confirm the patient understands "squeeze" and "push".
-- **Preparation:** continue all medications; eat and drink up to the time of the test; bowel preparation optional; a pre-procedure enema is **not contraindicated but must be documented** because it can alter function. Document any medication that affects anorectal function, **including analgesics**.
+- **Preparation:** continue all medications; eat and drink up to the time of the test; [[bowel-preparation|bowel preparation]] optional; a pre-procedure enema is **not contraindicated but must be documented** because it can alter function. Document any medication that affects anorectal function, **including analgesics**.
 
 ### Equipment Specifications
 

@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on Diagnosis and Management of Cyclic Vomit
 category: source
 tags: [cyclic-vomiting-syndrome, cvs, dgbi, vomiting, migraine, neuromodulators]
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-11-01
 sources: []
 ---
 
@@ -46,9 +46,10 @@ CVS is diagnosed clinically by **Rome IV criteria** and unfolds in **4 phases** 
 
 **Prophylaxis (moderate–severe only) — Table 1:**
 - **First-line: tricyclic antidepressants (TCAs)** (amitriptyline/nortriptyline/doxepin). Start 25 mg qhs → goal 75–150 mg or 1–1.5 mg/kg qhs; slow titration; nortriptyline less anticholinergic than amitriptyline.
-- **Second-line:** topiramate (start 25 mg → 100–150 mg/d; kidney stones, avoid in pregnancy, teratogenic), zonisamide (100 → 200–400 mg/d; kidney stones), levetiracetam (500 mg bid → 1000–2000 mg/d; safer in pregnancy), aprepitant (neurokinin-1 [NK-1] antagonist; 125 mg 2–3×/wk if >60 kg), coenzyme Q10 (CoQ10)/riboflavin supplements.
+- **Second-line:** topiramate (start 25 mg → 100–150 mg/d, titrate 25 mg weekly; kidney stones — do not use with a stone history; **must not be used during pregnancy**; monitor electrolytes and renal function twice annually), zonisamide (100 → 200–400 mg/d; kidney stones), levetiracetam (500 mg bid → 1000–2000 mg/d, titrate 500 mg q2wk; no therapeutic drug monitoring needed, monitor complete blood count (CBC)), aprepitant (neurokinin-1 [NK-1] antagonist; 125 mg 2–3×/wk if >60 kg, 80 mg 2–3×/wk if 40–60 kg; **safer in pregnancy**, may interfere with oral contraceptive pills; off-label, expensive, insurance hurdles), coenzyme Q10 (CoQ10) 300–400 mg/d / riboflavin 200 mg bid supplements.
+  - ⚠ Table 1 attributes **"safer in pregnancy" and the oral-contraceptive interaction to aprepitant**, not to levetiracetam, and says of topiramate only that it *"must not be used during pregnancy"* — it never uses the word teratogenic.
 
-**Abortive (mild or moderate–severe) — Table 1:** triptans (**sumatriptan** 20 mg intranasal or 6 mg subcutaneous (SC), may repeat ×1 at 2 h, max 2/24 h; avoid in ischemic heart disease/pregnancy) + antiemetic (**ondansetron** 8 mg sublingual (SL) q4–6h; promethazine/prochlorperazine; both available per rectum [PR]) ± sedatives (diphenhydramine, benzodiazepines — alprazolam available SL/PR). Nearly all patients need **2-agent combinations**.
+**Abortive (mild or moderate–severe) — Table 1:** triptans (**sumatriptan** 20 mg intranasal or 6 mg subcutaneous (SC), may repeat ×1 at 2 h, max 2/24 h; avoid in ischemic heart disease, stroke, peripheral vascular disease, or uncontrolled hypertension, and in pregnancy) + antiemetic (**ondansetron** 8 mg sublingual (SL) q4–6h; promethazine/prochlorperazine; both available per rectum [PR]) ± sedatives (diphenhydramine, benzodiazepines — alprazolam available SL/PR). Nearly all patients need **2-agent combinations**.
 
 **ED management:** treat all regardless of CHS suspicion; intravenous (IV) dextrose-containing fluids + IV antiemetics; **IV ketorolac as first-line non-narcotic analgesic**; benzodiazepines for sedation in a quiet, dark room; narcotics only in most severe refractory cases.
 

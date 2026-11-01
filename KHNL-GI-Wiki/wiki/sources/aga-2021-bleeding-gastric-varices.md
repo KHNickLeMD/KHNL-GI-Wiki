@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on Management of Bleeding Gastric Varices: 
 category: source
 tags: [gastric-varices, portal-hypertension, variceal-bleeding, cyanoacrylate, brto, tips, cirrhosis, aga, cpu]
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-11-01
 sources: []
 ---
 
@@ -135,7 +135,7 @@ Notably, the update **rejects primary prophylaxis**: endoscopic classification s
 - [[antibiotic-prophylaxis-cirrhosis]] — corroborates ceftriaxone 1 g IV q24h, ≤7 d.
 - [[cirrhosis-hemostasis]] — corroborates that no INR/platelet/fibrinogen cutoff is data-driven in this setting.
 - [[upper-gi-bleeding]] — restrictive transfusion 7 g/dL, erythromycin 250 mg IV 30–120 min pre-endoscopy with QT check, endoscopy within 12 h.
-- Supports a future `gastric-varices` entity page and a `balloon-occluded-retrograde-transvenous-obliteration` (BRTO) procedure page under `4-advanced-gi-procedures/hepatobiliary-procedures/`.
+- [[variceal-obliteration]] — the BRTO efficacy figures, the encephalopathy-improves-after-BRTO data, and the caveat that the accelerated CARTO/PARTO variants are not supported by the same volume of data as conventional BRTO (where [[aasld-2024-tips]] is newer and governs the page).
 
 ## Contradictions / Open Questions
 - **Timing of endoscopy.** This update says "within 12 h of presentation (as soon as possible)" for suspected portal hypertensive bleeding. Confirm against [[baveno-viii-2026-portal-hypertension]] and [[aasld-2023-portal-hypertension|American Association for the Study of Liver Diseases (AASLD) 2023]] — as a 2021 expert review it is **superseded by the newer consensus documents** where they differ.

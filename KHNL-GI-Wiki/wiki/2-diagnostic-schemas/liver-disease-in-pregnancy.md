@@ -3,7 +3,7 @@ title: "Liver Disease in Pregnancy"
 category: diagnostic-schema
 tags: [pregnancy, liver-disease, ihcp, intrahepatic-cholestasis, aflp, acute-fatty-liver, hellp, hyperemesis-gravidarum, preeclampsia, eclampsia, hepatitis-b, hepatitis-c, hpb, liver]
 created: 2026-05-19
-updated: 2026-09-22
+updated: 2026-11-01
 sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver]
 ---
 
@@ -186,7 +186,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 
 **Management:**
 
-- **Ursodeoxycholic acid (UDCA) 10–15 mg/kg/day** (total daily dose, divided): first-line for symptomatic improvement; normalizes serum bile acids; improves pruritus; safe for mother and fetus (Rec 13 — strong, moderate evidence); AGA 2024 BPA 10 confirms this dose and notes meta-analysis showing decreased preterm birth and stillbirth ([[aga-2024-pregnancy-gi-liver]]); superior to cholestyramine or dexamethasone for pruritus control. Additional pruritus control: cholestyramine, rifampicin.
+- **[[ursodeoxycholic-acid|Ursodeoxycholic acid]] (UDCA) 10–15 mg/kg/day** (total daily dose, divided): first-line for symptomatic improvement; normalizes serum bile acids; improves pruritus; safe for mother and fetus (Rec 13 — strong, moderate evidence); AGA 2024 BPA 10 confirms this dose and notes meta-analysis showing decreased preterm birth and stillbirth ([[aga-2024-pregnancy-gi-liver]]); superior to cholestyramine or dexamethasone for pruritus control. Additional pruritus control: cholestyramine, rifampicin.
 - Dexamethasone may be used adjunctively if needed for fetal lung maturity (higher prematurity rate in IHCP)
 - **Delivery timing by total bile acids** ([[aga-2024-pregnancy-gi-liver]], relaying the Society for Maternal-Fetal Medicine [SMFM] and the European Association for the Study of the Liver [EASL]):
 

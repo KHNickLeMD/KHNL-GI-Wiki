@@ -3,7 +3,7 @@ title: "Radiation Proctopathy"
 category: disease-script
 tags: [radiation-proctopathy, radiation-proctitis, rectal-bleeding, hematochezia, argon-plasma-coagulation, pelvic-radiation, telangiectasia]
 created: 2026-06-22
-updated: 2026-09-06
+updated: 2026-11-01
 sources: [asge-2019-radiation-proctopathy]
 ---
 
@@ -58,7 +58,7 @@ sources: [asge-2019-radiation-proctopathy]
 ## Diagnostics
 
 - **Endoscopy** (flexible sigmoidoscopy/[[colonoscopy|colonoscopy]]): establishes diagnosis and defines extent/severity; characteristic telangiectasias and friable, pale, edematous mucosa.
-- Bowel preparation is required before any planned endoscopic therapy (reduces explosion risk with thermal/argon plasma coagulation (APC) therapy).
+- [[bowel-preparation|Bowel preparation]] is required before any planned endoscopic therapy (reduces explosion risk with thermal/argon plasma coagulation (APC) therapy).
 - No validated diagnostic criterion or unified endoscopic grading system exists — see [[#Severity Assessment]].
 
 ## Therapeutics

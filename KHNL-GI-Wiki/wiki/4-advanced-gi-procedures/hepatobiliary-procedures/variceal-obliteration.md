@@ -3,7 +3,7 @@ title: "Variceal Obliteration (RTO and ATO)"
 category: advanced-procedure
 tags: [variceal-obliteration, rto, brto, carto, parto, ato, gastric-varices, gastrorenal-shunt, portal-hypertension, variceal-bleeding, interventional-radiology]
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-01
 sources: [aasld-2024-tips, aga-2021-bleeding-gastric-varices, asge-2026-esophageal-gastric-varices]
 ---
 
@@ -39,6 +39,7 @@ sources: [aasld-2024-tips, aga-2021-bleeding-gastric-varices, asge-2026-esophage
 ## Indications
 
 - **RTO as an alternative to TIPS** for bleeding gastric or ectopic varices with **favorable anatomy** — an accessible and occludable gastrorenal shunt (GRS) (GS 10). Up to **85% of cardiofundal gastric varices** drain through a GRS ([[aga-2021-bleeding-gastric-varices]])
+  - Shunt size is the gating technical criterion, but only the **upper** bound is quantified: the shunt must be smaller than the available plug (**<18 mm**) or coil (**<30 mm**). AASLD 2024 does not state a minimum GRS diameter, nor any flow or imaging cut-point for "accessible and occludable" — judge feasibility on the venogram with interventional radiology
 - **RTO is the first-line endovascular option** for hemorrhage from gastrofundal varices in patients with **contraindications to TIPS** (GS 27)
 - **Type B (shunt-related) HE is itself an indication for RTO** — closing the shunt treats the encephalopathy ([[aga-2021-bleeding-gastric-varices]])
 - **High MELD or Child-Turcotte-Pugh score is not a limitation**, in contrast to TIPS; poor liver function may improve with RTO
@@ -54,7 +55,7 @@ sources: [aasld-2024-tips, aga-2021-bleeding-gastric-varices, asge-2026-esophage
 | | TIPS | BRTO | PARTO | CARTO | ATO |
 |---|---|---|---|---|---|
 | **What it does** | Creates a portosystemic shunt between portal and hepatic vein | Balloon occlusion of the GRS + retrograde sclerosant injection | GRS occluded with a vascular plug; Gelfoam injected retrograde | GRS occluded with coils; Gelfoam injected retrograde | Transhepatic/trans-splenic embolization of the portomesenteric veins supplying the varices |
-| **Technical limitations** | Difficult with [[portal-vein-thrombosis\|portal vein thrombosis (PVT)]], biliary dilation, hepatic tumors, polycystic liver | Prolonged balloon occlusion (up to 36 h) with ICU monitoring; shunt larger than available balloon diameters | Shunt larger than available plugs (**<18 mm**); challenging anatomy such as a very tortuous IVC→renal vein→GRS course (Z-path) | Shunt larger than available coils (**<30 mm**); **no anatomical limitation** otherwise | May fail to embolize multiple collateral veins supplying the varices → early rebleeding from collaterals; more invasive than RTO (direct access through liver or spleen, or through a TIPS) |
+| **Technical limitations** | Difficult with [[portal-vein-thrombosis\|portal vein thrombosis (PVT)]], biliary dilation, hepatic tumors, polycystic liver | Prolonged balloon occlusion (up to 36 h) with intensive care unit (ICU) monitoring; shunt larger than available balloon diameters | Shunt larger than available plugs (**<18 mm**); challenging anatomy such as a very tortuous inferior vena cava (IVC)→renal vein→GRS course (Z-path) | Shunt larger than available coils (**<30 mm**); **no anatomical limitation** otherwise | May fail to embolize multiple collateral veins supplying the varices → early rebleeding from collaterals; more invasive than RTO (direct access through liver or spleen, or through a TIPS) |
 | **Clinical context** | Esophageal, GOV1, gastrofundal or ectopic varices; preemptive, salvage, rescue, secondary prevention | Gastrofundal variceal hemorrhage **with a GRS allowing retrograde access** — acute hemorrhage, prevention of rebleeding, ectopic varices with a large and accessible efferent shunt | Same as BRTO | Same as BRTO | Esophageal, gastric, or ectopic variceal hemorrhage |
 
 *Table — endovascular therapies in variceal hemorrhage ([[aasld-2024-tips]], Table 3). Physiological effects, contraindications and complications in the source table are expanded in the sections above and below.*
@@ -67,7 +68,7 @@ sources: [aasld-2024-tips, aga-2021-bleeding-gastric-varices, asge-2026-esophage
 
 ### Pre-procedure
 
-- **Comprehensive computed tomography (CT) or magnetic resonance (MR) venogram** with contrast and coronal reconstructions — map the afferent veins, gastric varices, efferent shunt (GRS), collaterals, renal vein and inferior vena cava (IVC)
+- **Comprehensive computed tomography (CT) or magnetic resonance (MR) venogram** with contrast and coronal reconstructions — map the afferent veins, gastric varices, efferent shunt (GRS), collaterals, renal vein and IVC
 - Usually **moderate sedation**; monitored anesthesia care or general anesthesia for the more critically ill
 
 ### RTO — BRTO and mBRTO
@@ -75,7 +76,7 @@ sources: [aasld-2024-tips, aga-2021-bleeding-gastric-varices, asge-2026-esophage
 1. Balloon catheter inflated in the **GRS** as a protectant measure, to stop sclerosant escaping into the systemic circulation
 2. **Sclerosing agent injected retrograde** into the GRS and gastrofundal varices through the balloon occlusion catheter — sodium tetradecyl sulfate in the United States, ethanolamine oleate in Asia
 3. **Embolization of small collateral vessels** is an essential part of BRTO, to prevent sclerosant leakage
-4. **Balloon left inflated up to 36 h**, with **intensive care unit (ICU) monitoring** — the indwelling balloon can rupture, with catastrophic consequences
+4. **Balloon left inflated up to 36 h**, with **ICU monitoring** — the indwelling balloon can rupture, with catastrophic consequences
 5. Repeated treatments may be needed to obliterate all existing collateral networks and varices
 
 - **mBRTO** adds embolic devices, vascular plugs, or coils to the balloon occlusion to improve protection against balloon rupture — but still uses sclerosants, and so still carries their toxicity

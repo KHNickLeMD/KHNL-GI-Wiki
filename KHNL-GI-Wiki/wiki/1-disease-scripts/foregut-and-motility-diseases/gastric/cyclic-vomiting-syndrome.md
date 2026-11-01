@@ -3,7 +3,7 @@ title: "Cyclic Vomiting Syndrome (CVS)"
 category: disease-script
 tags: [cyclic-vomiting-syndrome, cvs, dgbi, vomiting, migraine, foregut, motility]
 created: 2026-07-18
-updated: 2026-09-05
+updated: 2026-11-01
 sources: [aga-2024-cvs, aga-2024-chs, rome-v-2026-dgbi]
 ---
 
@@ -50,7 +50,7 @@ Severity (American Neurogastroenterology and Motility Society–Cyclic Vomiting 
 
 ### Phases
 
-Four phases — recognizing the phase guides treatment (see Figure 1 of [[aga-2024-cvs]]):
+Four phases — recognizing the phase guides treatment ([[aga-2024-cvs]]):
 1. **Inter-episodic** (well interval) — trigger mitigation + prophylaxis.
 2. **Prodromal** (~65% of patients, median 1 h) — **ideal window for abortive therapy** (earlier = higher abort probability).
 3. **Emetic** — uncontrollable retching/vomiting for hours–days; abortive + supportive care, rehydration.
@@ -97,10 +97,10 @@ Goal: lengthen the inter-episodic phase and/or reduce emetic severity.
 | Line | Agent | Dosing | Key considerations |
 |---|---|---|---|
 | **First-line** | **Tricyclic antidepressant (TCA)** (amitriptyline, nortriptyline, doxepin) | Start **25 mg qhs** → goal **75–150 mg or 1–1.5 mg/kg qhs**; titrate 10–25 mg q2wk | Nortriptyline less anticholinergic than amitriptyline; monitor corrected QT interval (QTc) |
-| Second-line | Topiramate | 25 mg/d → 100–150 mg/d divided | Kidney stones (avoid if stone history); **teratogenic — not in pregnancy**; some weight loss |
+| Second-line | Topiramate | 25 mg/d → 100–150 mg/d divided; titrate 25 mg weekly | Kidney stones — do not use with a stone history; **must not be used during pregnancy**; monitor electrolytes and renal function twice yearly; some weight loss |
 | Second-line | Zonisamide | 100 mg/d → 200–400 mg/d | Kidney stones; monitor electrolytes/renal fn twice yearly; weight loss |
-| Second-line | Levetiracetam | 500 mg bid → 1000–2000 mg/d divided | Safer in pregnancy; may interfere with oral contraceptive pills (OCPs); monitor CBC |
-| Second-line | Aprepitant (neurokinin-1 [NK-1] antagonist) | 125 mg 2–3×/wk (>60 kg); 80 mg (40–60 kg) | Off-label, expensive, insurance hurdles |
+| Second-line | Levetiracetam | 500 mg bid → 1000–2000 mg/d divided; titrate 500 mg q2wk | No therapeutic drug monitoring needed; monitor CBC |
+| Second-line | Aprepitant (neurokinin-1 [NK-1] antagonist) | 125 mg 2–3×/wk (>60 kg); 80 mg 2–3×/wk (40–60 kg) | **Safer in pregnancy** — the one prophylactic the source says this of; may interfere with oral contraceptive pills (OCPs); off-label, expensive, insurance hurdles |
 | Adjunct | Coenzyme Q10 / riboflavin | 300–400 mg/d / 200 mg bid | Supplements; monitor LFTs |
 
 ### Abortive Therapy (all severities)

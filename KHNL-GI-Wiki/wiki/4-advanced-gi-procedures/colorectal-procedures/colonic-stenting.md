@@ -3,7 +3,7 @@ title: "Colonic Stenting (SEMS for Malignant Colonic Obstruction)"
 category: advanced-procedure
 tags: [colonic-stent, sems, malignant-colonic-obstruction, bridge-to-surgery, palliation, colorectal-cancer, extracolonic-malignancy]
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-11-01
 sources: [aga-2021-malignant-alimentary-tract-obstruction, kanaka-2022-colonic-stent-bts-right-sided]
 ---
 
@@ -25,7 +25,7 @@ Endoscopic placement of a self-expanding metal stent (SEMS) across a **malignant
 
 ## Indications — the two distinct uses
 
-**The two indications have different decision rules — do not merge them.** In BTS every patient goes on to resection, so the stent buys staging, bowel preparation and an elective operation. In palliation the stent *is* the treatment, and the comparator is a stoma.
+**The two indications have different decision rules — do not merge them.** In BTS every patient goes on to resection, so the stent buys staging, [[bowel-preparation|bowel preparation]] and an elective operation. In palliation the stent *is* the treatment, and the comparator is a stoma.
 
 | Indication | Statement | Source |
 |---|---|---|

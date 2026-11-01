@@ -3,7 +3,7 @@ title: "Acute Lower Gastrointestinal Bleeding (LGIB)"
 category: diagnostic-schema
 tags: [lower-gi-bleeding, lgib, hematochezia, diverticular, colonoscopy, hemorrhage, cta, risk-stratification]
 created: 2026-05-15
-updated: 2026-10-30
+updated: 2026-11-01
 sources: [acg-2023-lgib, asge-2014-lgib, acg-2021-ugib, asge-2015-bowel-preparation]
 ---
 
@@ -236,7 +236,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - Bleeding has subsided AND
 - High-quality colonoscopy within 12 months with adequate prep showing diverticulosis and no colorectal neoplasia (Conditional recommendation)
 
-**Bowel Preparation:**
+**Bowel Preparation:** *(regimens and quality scales: [[bowel-preparation]])*
 
 - Elective inpatient colonoscopy: **split-dose PEG preparation** (adequacy 86% vs. 43% with evening-before dosing)
 - Urgent colonoscopy: 4–6 L PEG over 3–4 hours until rectal effluent is clear

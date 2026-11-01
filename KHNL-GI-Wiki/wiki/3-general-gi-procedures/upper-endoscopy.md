@@ -3,7 +3,7 @@ title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-10-30
+updated: 2026-11-01
 sources: [asge-2023-ergonomics, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy, asge-2011-foreign-body-ingestion, aga-2021-gi-perforations-endoscopic-management, aga-2015-upper-gi-biopsy-dyspepsia, afs-2022-egj-integrity-classification]
 ---
 
@@ -101,7 +101,7 @@ Document all of: esophagus, gastroesophageal junction (GEJ) (antegrade), gastric
 | Known BE with visible lesion | Visible lesion biopsied/resected separately from systematic biopsies | >90% |
 | Nondysplastic BE (no prior dysplasia hx), **if systematic surveillance biopsy sampling was performed** | Surveillance no sooner than 3 years | >80% |
 | LA grade C/D erosive esophagitis | Recommend repeat EGD after acid suppression course | >90% |
-| Peptic esophageal stricture dilation | Recommend acid suppression therapy, preferably PPI (if no allergy/contraindication) | >98% |
+| Peptic [[esophageal-stricture\|esophageal stricture]] dilation | Recommend acid suppression therapy, preferably PPI (if no allergy/contraindication) | >98% |
 | BE with dysplasia or intramucosal carcinoma (IMC) undergoing [[endoscopic-eradication-therapy\|endoscopic eradication therapy (EET)]] | Complete intestinal metaplasia (IM) eradication within 18 months | >75% |
 
 > The LA grade A–D criteria the two rows above turn on are tabulated, with the figure, on [[reflux-testing#Erosive Esophagitis: Los Angeles (LA) Grade|reflux testing]] (from [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2; [[acg-2025-egd-quality|ACG/ASGE 2025]] Figure 2 prints grade A as ≤5 mm rather than <5 mm). The full AGA 2024 figure is under [[#Standardized Classification Systems (BPA 6)]].

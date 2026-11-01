@@ -3,7 +3,7 @@ title: "ASGE Guideline on Management of Esophageal and Gastric Varices in Patien
 category: source
 tags: [varices, esophageal-varices, gastric-varices, cirrhosis, portal-hypertension, variceal-bleeding, eus, tips, carvedilol, asge, guideline]
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-11-01
 sources: []
 ---
 
@@ -278,6 +278,7 @@ Background epidemiology given: ~40% of patients with cACLD develop varices annua
 - **[[endoscopic-ultrasound]]** — EUS-I for gastric varices; coil sizing and needle-gauge compatibility; scope/needle protection.
 - **[[endoscopic-band-ligation]]** — GOV1 bandable, cardiofundal (IGV1/GOV2) not bandable; VBL as needed on 12-month surveillance.
 - **[[tips]]** — pre-emptive TIPS after gastric variceal hemostasis; TIPS vs BRTO by shunt anatomy.
+- **[[variceal-obliteration]]** — BPA 2, EUS-guided injection preferred over retrograde transvenous obliteration, the one head-to-head comparison between the two approaches.
 - **[[liver-stiffness-measurement]]** — the <20 kPa / >150,000 µL rule, annual reassessment, and the BMI ≥40 / MR elastography limit.
 
 ## Contradictions / Open Questions

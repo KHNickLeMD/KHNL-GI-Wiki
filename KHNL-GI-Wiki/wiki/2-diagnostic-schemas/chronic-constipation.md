@@ -3,7 +3,7 @@ title: "Chronic Constipation"
 category: diagnostic-schema
 tags: [constipation, colorectal, functional, dgbi, anorectal-manometry, colonic-transit, defecation-disorder]
 created: 2026-08-27
-updated: 2026-10-27
+updated: 2026-11-01
 sources: [aga-2026-refractory-constipation, aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, rome-v-2026-dgbi, acg-2021-crc-screening, aga-2019-opioid-induced-constipation]
 ---
 
@@ -148,7 +148,7 @@ Findings identified on defecography: inadequate or excessive widening of the **a
 - **Colonic transit:** stop **laxatives for ≥7 days** and **medications that delay colon transit for ≥2 weeks** before testing. Day-to-day reproducibility is poor in dyssynergic defecation and colonic inertia, so **repeat testing may be necessary** — in some patients while taking laxatives [[aga-2026-refractory-constipation]]
 - **Each abnormal anorectal test finding is highly specific** for a defecatory disorder — a lower rectoanal gradient on manometry, a prolonged BET, and reduced evacuation on defecography. Defecography is most useful in the patient with an **abnormal gradient on ARM and a normal BET** [[aga-2026-refractory-constipation]]
 - **Normalisation of the BET after biofeedback** suggests the defecatory disorder has resolved [[aga-2026-refractory-constipation]]
-- **Bowel preparation:** chronic constipation is an independent risk factor for inadequate prep — use a more aggressive cleansing regimen [[asge-2014-constipation]]
+- **[[bowel-preparation|Bowel preparation]]:** chronic constipation is an independent risk factor for inadequate prep — use a more aggressive cleansing regimen [[asge-2014-constipation]]
 
 ---
 

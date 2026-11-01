@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on Integrating Potassium-Competitive Acid B
 category: source
 tags: [pcab, vonoprazan, ppi, acid-suppression, gerd, h-pylori, peptic-ulcer-disease]
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-11-01
 sources: []
 ---
 
@@ -32,6 +32,7 @@ The central tension throughout the 9 Best Practice Advice (BPA) statements is **
 - **BPA 3:** Clinicians should generally **not use P-CABs as first-line therapy for uninvestigated heartburn or nonerosive reflux disease (NERD).** May use P-CABs in selected patients with documented acid-related reflux who **fail twice-daily PPIs.**
 - **BPA 4:** Although there is currently insufficient evidence to use P-CABs as first-line **on-demand** therapy for heartburn in patients who previously responded to antisecretory therapy, their rapid onset raises the possibility of utility in this population.
 - **BPA 5:** Clinicians should generally **not use P-CABs as first-line therapy in milder EE (LA grade A/B).** May use in selected patients with documented acid-related reflux who fail twice-daily PPIs.
+- **What counts as "documented acid-related reflux" (the gating criterion in BPA 3 and BPA 5):** P-CABs can be considered in PPI treatment failures (e.g. refractory esophagitis) when confirmatory GERD evidence is present — **LA grade B or greater EE**, **biopsy-proven Barrett's esophagus**, **peptic stricture**, or **ambulatory reflux monitoring with distal esophageal acid exposure time (AET) >6%**. The document gives this list in its discussion, not inside the BPA text.
 - **BPA 6:** Clinicians **may use P-CABs** for healing and maintenance of healing in **more severe EE (LA grade C/D)**. However, given markedly higher US costs and lack of randomized comparisons with double-dose PPIs, it is not clear the endoscopic benefit over standard-dose PPIs justifies routine first-line use.
 - **BPA 7:** Clinicians **should use P-CABs in place of PPIs in eradication regimens for most patients with *H. pylori* infection.**
 - **BPA 8:** Clinicians should generally **not use P-CABs as first-line therapy in the treatment or prophylaxis of PUD.**

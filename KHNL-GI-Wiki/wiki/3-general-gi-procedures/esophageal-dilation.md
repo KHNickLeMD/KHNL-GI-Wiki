@@ -3,7 +3,7 @@ title: "Esophageal Dilation"
 category: general-procedure
 tags: [esophagus, dilation, stricture, dysphagia, eoe, bougie, balloon, endoscopy, perforation]
 created: 2026-10-04
-updated: 2026-10-25
+updated: 2026-11-01
 sources: [acg-2025-eoe, acg-2013-eoe, asge-2014-dysphagia, aga-2021-gi-perforations-endoscopic-management, asge-2015-antibiotic-prophylaxis, asge-2011-foreign-body-ingestion, acg-2025-egd-quality, aga-2022-personalized-gerd, acg-cag-2022-anticoag-gi-bleeding, afs-2023-transoral-incisionless-fundoplication]
 ---
 
@@ -187,7 +187,7 @@ sources: [acg-2025-eoe, acg-2013-eoe, asge-2014-dysphagia, aga-2021-gi-perforati
 | **Perforation** | **0.3%** | EoE, two meta-analyses — achieved at **academic centers experienced in EoE dilation** ([[acg-2013-eoe]]) |
 | **Perforation** | **0.09%–2.2%** | Dilation for **simple rings or peptic strictures**; **higher for caustic or radiation-induced strictures** ([[aga-2021-gi-perforations-endoscopic-management]]) |
 | **Post-procedural hospitalization** | **<1%** of dilations | EoE ([[acg-2025-eoe]]) |
-| **Major bleeding** (need for endoscopic hemostasis or a blood product) | **rare — 1 patient reported to date** | EoE ([[acg-2013-eoe]]) |
+| **Major bleeding** (need for [[endoscopic-hemostasis\|endoscopic hemostasis]] or a blood product) | **rare — 1 patient reported to date** | EoE ([[acg-2013-eoe]]) |
 | **Transient bacteremia** | **12%–22%** | Bougienage; higher with malignant strictures and multiple dilators ([[asge-2015-antibiotic-prophylaxis]]). **Infective endocarditis is extremely rare** ([[asge-2014-dysphagia]]) |
 | **Perforation** | **0.1%–0.4%** | Benign esophageal strictures overall; **higher with complex and radiation-induced strictures** ([[asge-2014-dysphagia]]) |
 

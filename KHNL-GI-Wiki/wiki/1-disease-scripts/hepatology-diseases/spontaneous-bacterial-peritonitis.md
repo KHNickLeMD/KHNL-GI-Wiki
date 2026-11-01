@@ -3,7 +3,7 @@ title: "Spontaneous Bacterial Peritonitis"
 category: disease-script
 tags: [sbp, ascites, cirrhosis, peritonitis, cefotaxime, albumin]
 created: 2026-05-15
-updated: 2026-09-22
+updated: 2026-11-01
 sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2023-portal-hypertension]
 ---
 
@@ -49,7 +49,7 @@ This threshold is chosen for maximal sensitivity to avoid undertreating SBP, as 
 **SBE:**
 
 - Same diagnostic threshold: pleural fluid PMN ≥250/mm³
-- Complication of hepatic hydrothorax (HH) — pleural fluid PMN ≥250 in the setting of HH
+- Complication of [[hepatic-hydrothorax|hepatic hydrothorax]] (HH) — pleural fluid PMN ≥250 in the setting of HH
 - Managed with antibiotics same as SBP; chest tube placement should be avoided
 
 **When to perform diagnostic paracentesis:**

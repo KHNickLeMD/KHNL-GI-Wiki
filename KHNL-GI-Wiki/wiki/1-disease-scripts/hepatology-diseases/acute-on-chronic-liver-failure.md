@@ -3,7 +3,7 @@ title: "Acute-on-Chronic Liver Failure (ACLF)"
 category: disease-script
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, organ-failure, ICU, NACSELD, EASL-CLIF, terlipressin, HRS, hepatic-encephalopathy, infection, nutrition, liver-transplantation, palliative-care]
 created: 2026-05-28
-updated: 2026-10-28
+updated: 2026-11-01
 sources: [aasld-2024-aclf, baveno-viii-2026-portal-hypertension, moreau-2013-canonic-aclf]
 ---
 
@@ -124,7 +124,7 @@ Acute-on-chronic liver failure (ACLF) is a syndrome in patients with chronic liv
 | Complete blood count (CBC) | Cytopenias, thrombocytopenia, WBC (NACSELD score) |
 | Lactate | Prognostic (MELD-LA, CLIF-C ACLF lactate); severity of tissue hypoperfusion |
 | Blood cultures × 2, urine culture, [[paracentesis]] (ascites polymorphonuclear (PMN) count + culture) | Infection workup (GS 29) |
-| Chest X-ray | Pneumonia, pulmonary edema, hepatic hydrothorax |
+| Chest X-ray | Pneumonia, pulmonary edema, [[hepatic-hydrothorax\|hepatic hydrothorax]] |
 | CLIF-C ACLF, NACSELD-ACLF, AARC scores | Serial prognostic assessment (GS 2–3) |
 | Bedside transthoracic echocardiography (TTE)/point-of-care ultrasonography (POCUS) | Volume status, cardiac function, inferior vena cava (IVC) diameter/compressibility, right ventricular (RV)/left ventricular (LV) function (GS 13) |
 | Liver ultrasound + Doppler | [[portal-vein-thrombosis\|portal vein thrombosis (PVT)]], [[hepatocellular-carcinoma\|hepatocellular carcinoma (HCC)]], [[ascites]], portal hemodynamics |

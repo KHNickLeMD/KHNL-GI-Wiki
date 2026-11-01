@@ -3,7 +3,7 @@ title: "Endoscopic Eradication Therapy (EET)"
 category: advanced-procedure
 tags: [barretts-esophagus, eet, rfa, emr, esd, cryotherapy, dysplasia, esophageal-adenocarcinoma, foregut]
 created: 2026-06-04
-updated: 2026-10-22
+updated: 2026-11-01
 sources: [asge-2018-barretts-eet, aga-2024-barretts-eet, acg-2022-barretts, asge-2019-barretts-screening-surveillance, aga-2025-barretts-surveillance, aga-2020-endoscopic-treatment-barretts-dysplasia, aga-2020-post-endoscopy-esophageal-adenocarcinoma, aga-2016-low-grade-dysplasia-barretts, asge-2023-esd]
 ---
 
@@ -83,7 +83,7 @@ RFA ± EMR pooled (37 studies, 9200 patients):
 | Event | Rate |
 |---|---|
 | Overall serious adverse events | 8.8% (6.5%-11.9%) |
-| Esophageal stricture (most common) | 5.6% (4.2%-7.4%) |
+| [[esophageal-stricture\|Esophageal stricture]] (most common) | 5.6% (4.2%-7.4%) |
 | Bleeding | 1% (.8%-1.3%) |
 | Perforation | 0.6% (.4%-.9%) |
 

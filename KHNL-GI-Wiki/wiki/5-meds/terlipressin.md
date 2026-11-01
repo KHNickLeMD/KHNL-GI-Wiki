@@ -3,7 +3,7 @@ title: "Terlipressin"
 category: med
 tags: [terlipressin, vasoconstrictor, hepatorenal-syndrome, hrs-aki, aki, cirrhosis, albumin, variceal-bleeding, portal-hypertension, aclf]
 created: 2026-09-22
-updated: 2026-10-12
+updated: 2026-11-01
 sources: [aasld-2021-ascites-sbp-hrs, aasld-2024-aclf, aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, baveno-viii-2026-portal-hypertension, aasld-2011-alf]
 ---
 
@@ -130,7 +130,7 @@ Standard vasoactive therapy for [[variceal-upper-gi-bleeding|acute variceal hemo
 *Doses from [[aasld-2023-portal-hypertension]] Table 5 and [[aga-2024-vasoactive-albumin-cirrhosis]] Table 1.*
 
 - Start **as soon as variceal bleeding is suspected**, before diagnostic/therapeutic [[upper-endoscopy|endoscopy]] ([[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.7; [[aga-2024-vasoactive-albumin-cirrhosis]] BPA 1).
-- Baveno VIII 5.7 extends the endpoint: continue **2–5 days or until a TIPS (if indicated) is placed**. Baveno VIII 5.8 allows a **shorter course — even 24 h —** after successful endoscopic hemostasis **provided NSBB treatment is then started**.
+- Baveno VIII 5.7 extends the endpoint: continue **2–5 days or until a TIPS (if indicated) is placed**. Baveno VIII 5.8 allows a **shorter course — even 24 h —** after successful [[endoscopic-hemostasis|endoscopic hemostasis]] **provided NSBB treatment is then started**.
 - Same doses apply to acute bleeding from severe **[[portal-hypertensive-gastropathy|portal hypertensive gastropathy (PHG)]]** for 2–5 days ([[aasld-2023-portal-hypertension]] GS 49).
 - **Monitor serum sodium** — hyponatremia occurs on terlipressin, especially in patients with *preserved* liver function ([[baveno-vii-2022-portal-hypertension|Baveno VII]] 6.6; Baveno VIII 5.9).
 - **Pregnancy: avoid** — terlipressin stimulates uterine contraction. Use somatostatin or octreotide instead ([[aasld-2023-portal-hypertension]]).

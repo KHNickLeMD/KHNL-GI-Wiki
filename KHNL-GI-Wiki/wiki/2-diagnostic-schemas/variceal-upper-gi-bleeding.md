@@ -3,7 +3,7 @@ title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-10-22
+updated: 2026-11-01
 sources: [asge-2026-esophageal-gastric-varices, baveno-viii-2026-portal-hypertension, albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-tips, aga-2021-bleeding-gastric-varices]
 ---
 
@@ -61,7 +61,7 @@ Upper gastrointestinal bleeding (UGIB) in cirrhosis — non-variceal workup: [[u
 | Vasoactive duration | Rule |
 |---|---|
 | AASLD 2023 / AGA 2024 | **2–5 d** (2 d reasonable in Child-Pugh A/B without active bleeding) |
-| Baveno VIII 5.7–5.8 | **2–5 d or until TIPS**; **≥24 h** acceptable after endoscopic hemostasis **only if a nonselective beta-blocker (NSBB) is then started** |
+| Baveno VIII 5.7–5.8 | **2–5 d or until TIPS**; **≥24 h** acceptable after [[endoscopic-hemostasis\|endoscopic hemostasis]] **only if a nonselective beta-blocker (NSBB) is then started** |
 | ASGE 2026 | **2–3 d** sufficient (conditional, low; no NSBB proviso) — ASGE 2014 said 3–5 d |
 | After **sclerotherapy** | **5 d** — shorter courses → more rebleeding and death (ASGE 2026) |
 
@@ -184,7 +184,7 @@ flowchart TD
 |---|---|
 | **CYA** | EGD **q2–4 weeks** until obliterated — **palpate** treated cardiofundal varices (blunt probe/Doppler); dimpling/inverting areas → re-inject. Then **3–6 months, then yearly** |
 | **TIPS** | EGD at **1 month**; stable/enlarging cardiofundal GV → **BRTO** (preferred; CYA after TIPS ↑ embolization and portal vein thrombosis) or embolization through the shunt |
-| **BRTO/RTO** | Confirm obliteration — **CT or EUS ≤72 h** and EGD at **1–2 months** ([[aasld-2024-tips]], newer than AGA) → [[tips]]. **Esophageal varices progress in up to 30%–35%** after BRTO |
+| **BRTO/RTO** | Confirm obliteration — **CT or EUS ≤72 h** and EGD at **1–2 months** ([[aasld-2024-tips]], newer than AGA) → [[variceal-obliteration]]. **Esophageal varices progress in up to 30%–35%** after BRTO |
 | **New/recurrent GV >12 mo** | Repeat cross-sectional imaging + multidisciplinary review |
 
 ### Portal Hypertensive Gastropathy and GAVE

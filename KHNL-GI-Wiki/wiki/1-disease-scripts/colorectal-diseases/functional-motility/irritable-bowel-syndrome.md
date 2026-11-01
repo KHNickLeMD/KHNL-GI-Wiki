@@ -3,8 +3,8 @@ title: "Irritable Bowel Syndrome"
 category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, diet, fiber, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-10-27
-sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d, aga-2020-sibo, aga-2022-diet-ibs, aga-2018-psychogastroenterology]
+updated: 2026-11-01
+sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d, aga-2020-sibo, aga-2022-diet-ibs, aga-2018-psychogastroenterology, aga-2023-alpha-gal-syndrome]
 ---
 
 ## Contents
@@ -97,6 +97,7 @@ Subtypes by [[bristol-stool-form-scale|Bristol Stool Form Scale]] **on days with
 - [[microscopic-colitis|Microscopic colitis]] — older women, watery diarrhea, normal endoscopy with random biopsies
 - [[bile-acid-diarrhea|Bile acid diarrhea]] — consider in IBS-D non-responders
 - Lactose/fructose intolerance, food intolerances
+- [[alpha-gal-syndrome|Alpha-gal syndrome]] — an immunoglobulin E (IgE)-mediated allergy to galactose-α-1,3-galactose in mammalian meat that is **routinely mislabelled as IBS**, because the GI-only phenotype has no urticaria and the reaction is **delayed 3–5 h** after eating, so patients do not connect it to food. Check serum alpha-gal IgE where the Lone Star tick is prevalent ([[aga-2023-alpha-gal-syndrome]])
 
 ---
 

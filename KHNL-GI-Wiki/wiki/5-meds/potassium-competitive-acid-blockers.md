@@ -3,7 +3,7 @@ title: "Potassium-Competitive Acid Blockers (P-CABs)"
 category: med
 tags: [pcab, vonoprazan, tegoprazan, acid-suppression, ppi, gerd, h-pylori, peptic-ulcer-disease]
 created: 2026-07-21
-updated: 2026-09-05
+updated: 2026-11-01
 sources: [aga-2024-pcab, acg-2024-hp-treatment]
 ---
 
@@ -27,10 +27,11 @@ Potassium-competitive acid blockers (P-CABs) are a drug **class** of gastric aci
 |---|---|---|
 | Binding | Competitive, reversible at K⁺ site | Covalent, at cysteine residues |
 | Activation | None needed (active + inactive pumps) | Requires acid activation (active pumps only) |
-| Onset | Rapid (acid inhibition day 1) | Delayed (needs several doses) |
-| Meal timing | Not required | Premeal dosing needed |
+| Days to maximal acid suppression | **1** | **3–5** |
+| Meal timing | Independent of mealtimes | **30–60 min before meals** |
 | CYP2C19 variability | Minimal | Significant |
-| Duration | Longer | Shorter |
+| Half-life | **6–9 h** | **1–2 h** |
+| Acid stability | Acid-stable; not a prodrug | Acid-labile (enteric coated); prodrug |
 
 - Acid inhibition is **as potent or more potent than [[proton-pump-inhibitors|PPIs]]**, varying by agent/dose; at some studied doses (e.g. vonoprazan 20 mg, tegoprazan 50–100 mg) inhibition approximates standard PPI doses rather than exceeding them ([[aga-2024-pcab]]).
 
@@ -48,6 +49,11 @@ Potassium-competitive acid blockers (P-CABs) are a drug **class** of gastric aci
 | On-demand therapy (prior antisecretory responders) | Insufficient evidence to use first-line; rapid onset raises possibility of utility | 4 |
 | Milder erosive esophagitis (**[[reflux-testing\|Los Angeles (LA) grade]] A/B**) | Generally **not first-line**; use if documented reflux fails twice-daily PPIs | 5 |
 | Severe erosive esophagitis (**LA grade C/D**) | **May use** for healing + maintenance; benefit over standard-dose PPI may not justify routine first-line use given cost | 6 |
+
+> [!pitfall] "Documented acid-related reflux" is a defined bar, not a clinical impression
+> BPA 3 and BPA 5 both allow a P-CAB only in **documented** reflux failing twice-daily PPIs. AGA 2024 defines that as confirmatory evidence of GERD: **LA grade B or greater EE**, **biopsy-proven [[barretts-esophagus|Barrett's esophagus]]**, **peptic [[esophageal-stricture|stricture]]**, or **[[ambulatory-reflux-monitoring|ambulatory reflux monitoring]] with distal esophageal acid exposure time (AET) >6%** ([[aga-2024-pcab]]). Uninvestigated heartburn does not clear it.
+
+- If PPIs were used as initial therapy and **fail to maintain healing**, a P-CAB should be employed ([[aga-2024-pcab]]).
 
 - Severe-EE data — the single US/Europe trial (Laine 2023), **and the two phases used different doses** ([[aga-2024-pcab]] Table 2):
   - **Healing, 8 wk:** vonoprazan **20 mg** daily vs lansoprazole **30 mg** daily → Los Angeles (LA) grade C/D healing **92% vs 72%** (overall erosive esophagitis [EE] 93% vs 85%).
@@ -75,7 +81,7 @@ Potassium-competitive acid blockers (P-CABs) are a drug **class** of gastric aci
 ## Value / Safety Caveats
 
 - **Cost:** US P-CAB markedly more expensive than standard- or double-dose PPIs; often requires prior authorization.
-- **Safety:** long-term data less robust than PPIs; theoretical prolonged-acid-suppression concerns (hypomagnesemia, [[clostridioides-difficile|C. diff]], enteric infections) not yet well-characterized for the class.
+- **Safety:** long-term data less robust than PPIs. The prolonged-acid-suppression concerns AGA 2024 addresses are **[[clostridioides-difficile|*C. difficile*]] and other enteric infections** and **gastric cancer** — for both, the reported vonoprazan signal was **similar to that of PPIs, not beyond it**. Hypomagnesemia is not among the concerns this source raises for the class.
 - **Before [[test-and-treat|H. pylori urea breath / fecal antigen testing]]:** PPIs must be stopped **2 weeks** in advance; ACG states the same will *probably* apply to P-CABs but that **this has not been adequately studied** — do not assert it as established ([[acg-2024-hp-treatment]]).
 
 ---

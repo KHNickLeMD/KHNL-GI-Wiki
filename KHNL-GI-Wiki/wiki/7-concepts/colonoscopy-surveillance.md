@@ -3,7 +3,7 @@ title: "Colonoscopy Surveillance Intervals"
 category: concept
 tags: [colonoscopy, surveillance, adenoma, serrated-polyp, crc-screening, polypectomy]
 created: 2026-06-01
-updated: 2026-09-08
+updated: 2026-11-01
 sources: [usmstf-2020-followup-colonoscopy, aga-2021-ibd-colorectal-dysplasia]
 ---
 
@@ -40,7 +40,7 @@ All intervals **assume a high-quality exam**, defined by all four:
 | Component | USMSTF definition |
 |---|---|
 | Complete examination | To cecum, with photo documentation of a cecal landmark (appendiceal orifice, terminal ileum, or ileocecal valve) |
-| Adequate bowel preparation | Adequate to visualize polyps >5 mm |
+| Adequate [[bowel-preparation\|bowel preparation]] | Adequate to visualize polyps >5 mm |
 | Adequate adenoma detection rate (ADR) | ≥30% in men and ≥20% in women |
 | Complete polyp excision | Attention to complete resection |
 

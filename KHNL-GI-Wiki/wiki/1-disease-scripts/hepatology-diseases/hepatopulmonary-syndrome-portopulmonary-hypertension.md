@@ -3,7 +3,7 @@ title: "Hepatopulmonary Syndrome and Portopulmonary Hypertension"
 category: disease-script
 tags: [hepatopulmonary-syndrome, hps, portopulmonary-hypertension, poph, liver-transplant, portal-hypertension, pulmonary, cirrhosis]
 created: 2026-05-25
-updated: 2026-09-29
+updated: 2026-11-01
 sources: [aasld-ast-2025-liver-transplant-candidate-evaluation, baveno-viii-2026-portal-hypertension, aasld-2024-aclf]
 ---
 
@@ -53,7 +53,7 @@ Pulmonary disease in the LT candidate falls into three groups; HPS/POPH are grou
 3. **Pulmonary vascular complications of liver disease** — HPS and POPH.
 
 - For POPH specifically, RHC must exclude **left heart disease** as the cause of the elevated pressures.
-- Other cirrhosis-related causes of respiratory compromise (hepatic hydrothorax, tense [[ascites]]) are treated on their own terms — see [[acute-on-chronic-liver-failure]].
+- Other cirrhosis-related causes of respiratory compromise ([[hepatic-hydrothorax|hepatic hydrothorax]], tense [[ascites]]) are treated on their own terms — see [[acute-on-chronic-liver-failure]].
 
 ## Diagnostics
 

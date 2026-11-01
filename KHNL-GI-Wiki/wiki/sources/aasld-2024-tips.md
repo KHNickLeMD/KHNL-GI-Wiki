@@ -3,7 +3,7 @@ title: "AASLD Practice Guidance: TIPS, Variceal Embolization, and Retrograde Tra
 category: source
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, brto, rifaximin, guidance, aasld]
 created: 2026-06-04
-updated: 2026-10-29
+updated: 2026-11-01
 sources: []
 ---
 
@@ -119,3 +119,4 @@ Wiki pages built on or citing this source:
 
 - [[portal-hypertension|Portal Hypertension]]
 - [[tips|TIPS (Transjugular Intrahepatic Portosystemic Shunt)]]
+- [[variceal-obliteration]] — guidance statements 10–18 (retrograde and anterograde transvenous obliteration): indications, the Table 3 modality comparison with its device size limits, contraindications, technique per variant, and the post-obliteration confirmation schedule

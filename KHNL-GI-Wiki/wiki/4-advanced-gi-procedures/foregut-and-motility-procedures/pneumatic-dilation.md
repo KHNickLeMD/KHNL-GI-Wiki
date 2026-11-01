@@ -3,7 +3,7 @@ title: "Pneumatic Dilation"
 category: advanced-procedure
 tags: [achalasia, pneumatic-dilation, rigiflex, esophageal-motility, les, perforation, foregut]
 created: 2026-08-30
-updated: 2026-09-08
+updated: 2026-11-01
 sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2024-poem, aga-2024-poem-advances]
 ---
 
@@ -93,7 +93,7 @@ Cumulative good-to-excellent symptom relief, average follow-up **1.6 years** (ra
 
 - [[gerd|gastroesophageal reflux disease (GERD)]] occurs in **15%–35%** after PD → [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] therapy is indicated in those affected ([[acg-2020-achalasia]]).
 - [[asge-2020-achalasia|ASGE 2020]] pools **symptomatic** GERD lower, at **9% (95% CI 5–16%)** at ~6 months — the two figures use **different GERD definitions**, not different populations.
-- **Recurrent [[dysphagia|dysphagia]] after PD is not automatically recurrent achalasia** — consider a **GERD-related distal esophageal stricture** as a contributor.
+- **Recurrent [[dysphagia|dysphagia]] after PD is not automatically recurrent achalasia** — consider a **GERD-related distal [[esophageal-stricture|esophageal stricture]]** as a contributor.
 
 ## Retreatment and Salvage
 

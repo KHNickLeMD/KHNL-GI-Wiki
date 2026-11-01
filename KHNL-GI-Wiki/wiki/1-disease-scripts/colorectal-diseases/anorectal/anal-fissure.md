@@ -3,7 +3,7 @@ title: "Anal Fissure"
 category: disease-script
 tags: [anal-fissure, anorectal, lis, sphincterotomy, botulinum, colorectal]
 created: 2026-05-16
-updated: 2026-10-26
+updated: 2026-11-01
 sources: [ascrs-2023-anal-fissures, acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-hemorrhoids]
 ---
 
@@ -73,7 +73,7 @@ sources: [ascrs-2023-anal-fissures, acg-2021-anorectal-disorders, asge-2010-anor
 - **Bleeding occurs**
 - To **rule out associated [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]**
 - The patient is **due for a screening [[colorectal-cancer-screening|colonoscopy]]**
-- **Timing:** temporarily **deferring [[colonoscopy]] until after initial treatment of the fissure** avoids the discomfort of bowel preparation and scoping an acutely painful anal canal. [[asge-2010-anorectal-disorders]]
+- **Timing:** temporarily **deferring [[colonoscopy]] until after initial treatment of the fissure** avoids the discomfort of [[bowel-preparation|bowel preparation]] and scoping an acutely painful anal canal. [[asge-2010-anorectal-disorders]]
 - **Assessing sphincter tone before surgery:** ACG 2021 states the determination of whether anal pressures are high "is **usually made by digital examination only**" — the guideline does **not** position [[anorectal-manometry|anorectal manometry]] as a routine fissure test. This matters because low/normal pressure changes the operation (see Therapeutics).
 
 > No cited guideline, including the American Society of Colon and Rectal Surgeons (ASCRS) one, gives an examination-under-anesthesia rule, a biopsy rule for the non-healing fissure, or an age threshold for first-presentation colonoscopy. [[ascrs-2023-anal-fissures]] says only that **lateral or multiple fissures are atypical and warrant more comprehensive evaluation**.
