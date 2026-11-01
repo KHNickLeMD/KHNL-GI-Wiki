@@ -3,7 +3,7 @@ title: "Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
-updated: 2026-10-22
+updated: 2026-11-01
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc, kanaka-2022-colonic-stent-bts-right-sided, aga-2020-young-adult-onset-crc, aga-2021-crc-chemoprevention]
 ---
 
@@ -210,7 +210,7 @@ flowchart TD
 - **Timing after stenting does not change the benefit** — complication reduction held both **<20 days** (OR 0.45, 0.22–0.92) and **≥20 days** (OR 0.81, 0.68–0.96). Reported SEMS-to-surgery intervals across studies: **7.5–28.1 days** (medians).
 - **Three qualifiers travel with every number above.** (1) **Severe complications did not differ** — the benefit sits in overall/milder morbidity. (2) Evidence is **very low to low GRADE, no randomized controlled trials (RCTs)**; the authors' dominant concern is selection toward "easy-to-stent cases." (3) **"Right-sided" was defined inconsistently** — 5 of 7 studies included the *entire transverse colon*.
 - **Baseline risk that motivates the question:** emergency right hemicolectomy 30-day mortality **6.0% vs 0.7% elective**; previously reported ER outcomes for right-sided obstruction, mortality 8.8–14.5% and morbidity 32–54.3%.
-- ⚠ **The left-sided half of this topic is not covered here.** The European Society of Gastrointestinal Endoscopy (ESGE) 2020 SEMS guideline (van Hooft, *Endoscopy* 2020;52:389–407) is not summarized on this site; its left-sided BTS recommendation is known here only secondhand through the above meta-analysis's introduction.
+- **Left-sided obstruction** is where bridge to surgery is established; the left-sided and unspecified-site data live on [[colonic-stenting]].
 
 ### Chemoprevention After CRC
 
