@@ -3,7 +3,7 @@ title: "AGA 2025 Clinical Practice Update: Screening and Surveillance in Individ
 category: source
 tags: [gastric-cancer, gastric-cancer-screening, surveillance, gastric-intestinal-metaplasia, atrophic-gastritis, gastric-premalignant-conditions, h-pylori, esd, foregut, gastric]
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-11-01
 sources: []
 ---
 

@@ -3,7 +3,7 @@ title: "AGA 2025 Clinical Practice Update on Nonampullary Duodenal Lesions"
 category: source
 tags: [duodenal-adenoma, nonampullary-adenoma, endoscopic-mucosal-resection, cold-snare, familial-adenomatous-polyposis, spiegelman, surveillance, gi-bleeding, perforation]
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-11-01
 sources: []
 ---
 
