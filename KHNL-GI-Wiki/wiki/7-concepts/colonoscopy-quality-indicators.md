@@ -3,7 +3,7 @@ title: "Colonoscopy Quality Indicators"
 category: concept
 tags: [colonoscopy, quality, adr, sdr, withdrawal-time, cecal-intubation, bowel-prep, polypectomy, crc-screening, colorectal]
 created: 2026-09-23
-updated: 2026-10-30
+updated: 2026-11-02
 sources: [asge-acg-2024-colonoscopy-quality-indicators, aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy, acg-2014-bowel-cleansing, usmstf-2025-bowel-prep, usmstf-2015-crc-surveillance, usmstf-2021-crc-screening-age, usmstf-2016-fit-screening]
 ---
 
@@ -80,7 +80,7 @@ Indicators 4, 6, 7 and 8 share one denominator — **patients aged ≥45 y havin
 | **ADR** | **≥1 conventional adenoma** detected and **verified by pathology** | **No threshold adjustment** for including **45–49-year-olds**, and **second and subsequent screening colonoscopies count without adjustment** — both settled explicitly |
 | **APC** | **Number of conventional adenomas** detected per colonoscopy | Added because ADR ignores every adenoma after the first. ADR and APC correlate highly **but not always** — in one study **47.6% of endoscopists in the lowest APC quartile still had an ADR ≥25%** |
 | **SSLDR** | **≥1 sessile serrated lesion removed** and documented by pathology | Depends on pathologist interpretation |
-| **ADR after a positive fecal test** | ≥1 conventional adenoma resected and documented by pathology | **The same ≥50% threshold applies to mt-sDNA-positive and fecal immunochemical test (FIT)-positive patients** |
+| **ADR after a positive fecal test** | ≥1 conventional adenoma resected and documented by pathology | **The same ≥50% threshold applies to mt-sDNA-positive and [[fecal-immunochemical-test\|fecal immunochemical test (FIT)]]-positive patients** |
 | **Cecal intubation rate** | Patients **with intact colons** with full cecal intubation **and photodocumentation of cecal landmarks** | Photodocumentation is part of the definition, not an add-on |
 | **Withdrawal time** | **Average**, normal colonoscopies **without biopsy sampling or polypectomy**, from the **appendiceal orifice to completion of rectal retroflexion** | |
 | **Bowel prep adequacy** | See [[#Bowel Preparation Adequacy]] | The assigned interval must also be consistent with US Multi-Society Task Force (USMSTF) recommendations |

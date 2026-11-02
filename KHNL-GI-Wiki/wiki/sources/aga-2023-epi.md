@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on the Epidemiology, Evaluation, and Manage
 category: source
 tags: [exocrine-pancreatic-insufficiency, epi, pert, fecal-elastase, chronic-pancreatitis, malabsorption, steatorrhea]
 created: 2026-07-18
-updated: 2026-10-31
+updated: 2026-11-02
 sources: []
 ---
 
@@ -21,7 +21,7 @@ Expert Review on exocrine pancreatic insufficiency (EPI) — failure of the panc
 
 The update frames EPI as a syndrome to be **suspected** in high-risk conditions and **considered** in moderate-risk conditions, diagnosed primarily by **fecal human elastase-1 (FE-1)** on a formed stool, and treated with **pancreatic enzyme replacement therapy (PERT)** plus fat-soluble vitamin supplementation and nutritional monitoring. Imaging and a therapeutic enzyme trial are both explicitly rejected as diagnostic tests.
 
-**Fifteen Best Practice Advice (BPA) statements.** Because systematic reviews were not performed, the document states that these statements **carry no formal ratings for quality of evidence or strength of recommendation** — there is no Grading of Recommendations Assessment, Development and Evaluation (GRADE) scheme, no "strong/conditional" vocabulary, and no evidence levels anywhere in the document. The numbering below is the document's own.
+**Fifteen Best Practice Advice (BPA) statements**, numbered 1–15 by the document itself (the abstract and the body both print "BEST PRACTICE ADVICE *n*"). Because systematic reviews were not performed, the document states that these statements "**do not carry formal ratings regarding the quality of evidence or strength of the presented considerations**" — there is no Grading of Recommendations Assessment, Development and Evaluation (GRADE) scheme, no "strong/conditional" vocabulary, and no evidence levels anywhere in the document. The numbering below is the document's own.
 
 ## Key Findings / Claims
 
@@ -53,19 +53,20 @@ The update frames EPI as a syndrome to be **suspected** in high-risk conditions 
 
 ### Dosing detail beyond BPA 12 (Figure 1A and supporting text)
 
-The BPA statement gives only the floor dose. The figure and text give the full titration rule:
+The BPA statement gives only the floor dose. The figure and the body text give the full titration rule — and they attach the **weight-based** numbers to **different populations**, so each row below names where the value comes from:
 
-| Dosing parameter | Value |
-|---|---|
-| Typical adult starting dose (weight-based) | **500 units lipase/kg/meal** (≈40,000 U for an 80-kg patient) |
-| Starting dose with snacks | **250 units lipase/kg/snack** (≈20,000 U for an 80-kg patient) — i.e. one-half the meal dose |
-| Reasonable initial dose (stated as a range) | **40,000–50,000 USP units of lipase per meal**, one-half that with snacks |
-| Titration | **Up** as needed to reduce steatorrhea or GI symptoms of maldigestion; up for larger or higher-fat meals, **down** for smaller or low-fat meals |
-| **Maximum dose** | **2,500 units lipase/kg/meal**, or **10,000 units lipase/kg/day** |
-| Dose seldom required above | **120,000 USP units of lipase per meal** |
-| Cystic fibrosis / advanced CP ceiling | **<10,000 units lipase/kg body weight/day**, or **<4,000 units per gram of dietary fat per day** |
+| Dosing parameter | Value | Where stated |
+|---|---|---|
+| Reasonable initial dose (range) | **40,000–50,000 USP units of lipase per meal**, one-half that amount with snacks | Body text, BPA 11 section |
+| Weight-based starting dose | **500 units lipase/kg/meal** and **250 units lipase/kg/snack** (≈40,000 and 20,000 units for an 80-kg patient) | **Figure 1A — "for adults"** |
+| Same weight-based figures | **500 / 250 units lipase/kg** per meal / snack | **Body text — "for children and adults with advanced CP, as in cystic fibrosis"** |
+| Titration | **Up** as needed to reduce steatorrhea or GI symptoms of maldigestion; up for larger or higher-fat meals, **down** for smaller or low-fat meals | Figure 1A + body text |
+| **Maximal dose** | **2,500 units lipase/kg/meal**, or **10,000 units lipase/kg/day** | **Figure 1A only** (not restated in the text) |
+| **Maximum dose for cystic fibrosis** | **<10,000 units lipase/kg body weight/day**, or **<4,000 units per gram of dietary fat per day** | **Body text, BPA 11 section** |
+| Dose seldom required above | **120,000 USP units of lipase per meal** | Body text |
 
-- Physiologic anchor: a normal pancreas makes **≈900,000 USP units of lipase during an average meal**; **≈90,000 units (10% of normal)** are needed to prevent steatorrhea. Even at high doses PERT is less efficient than native secretion and does not abolish steatorrhea entirely.
+- The two **10,000 units/kg/day** figures are the **same daily ceiling** stated twice — once generally in Figure 1A, once for cystic fibrosis in the text (which adds the per-gram-of-fat limit). The text attaches **no** maximum to "advanced CP" specifically.
+- Physiologic anchor: a normal pancreas makes **≈900,000 USP units of lipase during an average meal**; **≈90,000 units (10% of normal)** are needed to prevent steatorrhea. Even at high doses PERT is less efficient than normal pancreatic secretion and does not correct steatorrhea entirely.
 - PERT must be taken **during** the meal — "PERT treats the meal, not the pancreas."
 - PERT is **generally lifelong**, though dose adjustment and even reduction can be considered in patients doing well with acceptable nutritional parameters.
 - **Over-the-counter pancreatic enzyme products should not be used** — classified as dietary supplements only; dosing and efficacy are neither standardized nor regulated, so utility and safety are unknown.
@@ -74,7 +75,7 @@ The BPA statement gives only the floor dose. The figure and text give the full t
 - Drugs are equipotent at similar lipase doses — generally no reason to switch between brands based on response; switching is usually driven by formulary/out-of-pocket cost.
 - Endoscopic or surgical pancreatic ductal drainage, while useful for pain, is **not effective in preventing or improving EPI**.
 
-**Table 3 — US Food and Drug Administration (FDA)-approved PERT formulations** is recreated on [[exocrine-pancreatic-insufficiency]] (its one home).
+**Table 3 — US Food and Drug Administration (FDA)-approved PERT formulations** is recreated on [[exocrine-pancreatic-insufficiency]] (its one home). Six products: Creon, Zenpep, Pancreaze, Pertzye (enteric-coated), Viokace (non–enteric-coated tablets), Relizorb (in-line lipase cartridge for enteral feeding formulas). Two of its lipase strengths are printed short — Creon "6,00" and Pancreaze "37,00" — and are reproduced as published.
 
 ### Diagnostic detail beyond BPA 4–9
 
@@ -124,6 +125,8 @@ The BPA statement gives only the floor dose. The figure and text give the full t
 - **No formal evidence ratings.** All 15 statements are ungraded expert opinion drawn from a literature review; the document performed no systematic review. Any grade or strength attached to these statements elsewhere would not be the document's.
 - **The document's own body text mislabels BPA 11.** The abstract gives BPA 11 as the statement about porcine-derived formulations and the need for acid suppression with non–enteric-coated preparations; the body heading for BPA 11 instead repeats the text of BPA 10 verbatim, even though the discussion that follows it is about PERT formulations. The abstract's wording is used above.
 - **DXA interval stated two ways:** BPA 15 and the bone-health discussion say **every 1–2 years**; the closing summary of that discussion says DXA **every 2 years**, and Figure 1B says **every 2 years**. The 1–2 year interval is the BPA.
+- **The weight-based dose is given for two different populations.** Figure 1A presents 500 units lipase/kg/meal as the typical starting dose "**for adults**"; the body text presents the identical figures for "**children and adults with advanced CP, as in cystic fibrosis**". The 2,500 units/kg/meal maximal dose appears **only in Figure 1A**; the body text gives a maximum only for cystic fibrosis. Both framings are carried on [[exocrine-pancreatic-insufficiency]] rather than one being picked.
+- **Table 3 misprints two lipase strengths** — Creon "6,00" and Pancreaze "37,00", each one digit short of a plausible value. The update gives no product labels, so the correct strengths cannot be established from this source.
 - **FE-1 thresholds are not internally consistent.** BPA 4 gives <100 µg/g as good evidence and 100–200 µg/g as indeterminate, while the text calls **<200 µg/g abnormal** and cites <50 µg/g as most reliable for severe EPI. The indeterminate band requires clinical correlation.
 - **Diet advice differs from [[acg-2020-chronic-pancreatitis]]**, which advises small frequent meals *without fat restriction*; this update advises a **low-moderate fat diet**. Both agree on avoiding very-low-fat diets. AGA 2023 is the newer tier-1 statement.
 - No head-to-head data support switching PERT brands for inadequate response; no non-porcine product is available.

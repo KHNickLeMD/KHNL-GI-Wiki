@@ -3,7 +3,7 @@ title: "Primary Biliary Cholangitis (PBC)"
 category: disease-script
 tags: [pbc, primary-biliary-cholangitis, cholestatic, ama, alkaline-phosphatase, ursodiol, udca, oca, obeticholic-acid, fibrates, pruritus, overlap, hpb, liver, autoimmune, pregnancy, cirrhosis]
 created: 2026-05-19
-updated: 2026-09-24
+updated: 2026-11-02
 sources: [aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, baveno-viii-2026-portal-hypertension]
 ---
 
@@ -59,7 +59,7 @@ Up to 40% of patients will have an inadequate response by one of these criteria 
 
 *Workup: see [[abnormal-liver-chemistries]] (cholestatic pattern — ALP + gamma-glutamyl transferase (GGT) elevation).*
 
-- [[primary-sclerosing-cholangitis|Primary sclerosing cholangitis (PSC)]] — cholangiographic findings ([[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]]); [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] association; male predominance; AMA-negative; immunoglobulin G4 (IgG4) testing to exclude IgG4-related sclerosing cholangitis (IgG4-SC)
+- [[primary-sclerosing-cholangitis|Primary sclerosing cholangitis (PSC)]] — cholangiographic findings ([[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]]); [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] association; male predominance; AMA-negative; immunoglobulin G4 (IgG4) testing to exclude [[igg4-related-cholangitis|IgG4-related sclerosing cholangitis (IgG4-SC)]]
 - [[autoimmune-hepatitis|Autoimmune hepatitis (AIH)]] — overlap syndrome (PBC-AIH overlap) possible; antinuclear antibody (ANA)/anti-smooth muscle antibody (SMA) elevated; immunoglobulin G (IgG) elevated; liver biopsy showing interface hepatitis
 - [[drug-induced-liver-injury]] — medication/herbal and dietary supplement (HDS) history; Roussel Uclaf Causality Assessment Method (RUCAM) causality; cholestatic R-ratio
 - Secondary biliary cirrhosis — extrinsic [[biliary-stricture|biliary obstruction]]; imaging (MRCP/computed tomography [CT]) distinguishes

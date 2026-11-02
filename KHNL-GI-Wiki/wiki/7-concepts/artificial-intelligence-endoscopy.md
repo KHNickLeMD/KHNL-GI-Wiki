@@ -3,7 +3,7 @@ title: "Artificial Intelligence in Endoscopy"
 category: concept
 tags: [artificial-intelligence, cade, cadx, colonoscopy, adenoma-detection, optical-diagnosis, resect-and-discard, quality]
 created: 2026-07-30
-updated: 2026-09-05
+updated: 2026-11-02
 sources: [aga-2023-ai-colon-polyp, aga-2025-cade-colonoscopy]
 ---
 
@@ -60,7 +60,7 @@ Framework for artificial intelligence (AI) computer-vision tools in gastrointest
 
 ### Effect Sizes — AGA 2025 Summary of Findings
 
-Population: adults undergoing [[colonoscopy]] for screening, surveillance, or positive fecal immunochemical test (FIT). Comparator: standard colonoscopy.
+Population: adults undergoing [[colonoscopy]] for screening, surveillance, or positive [[fecal-immunochemical-test|fecal immunochemical test (FIT)]]. Comparator: standard colonoscopy.
 
 | Outcome (timeframe) | Routine | CADe | Absolute difference (95% confidence interval [CI]) | Relative risk (RR) (95% CI) | Certainty |
 |---|---|---|---|---|---|

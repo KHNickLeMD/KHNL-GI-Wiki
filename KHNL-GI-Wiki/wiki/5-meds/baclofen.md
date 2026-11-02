@@ -3,7 +3,7 @@ title: "Baclofen"
 category: med
 tags: [baclofen, gaba-b-agonist, aud, ald, gerd, reflux-inhibitor, belching, rumination-syndrome, muscle-cramps, cirrhosis]
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-11-02
 sources: [acg-2024-ald, aasld-2020-ald, acg-2021-gerd, aga-2022-personalized-gerd, aga-2018-extraesophageal-gerd, aga-2018-rumination-syndrome, aga-2023-bloating, aasld-2021-ascites-sbp-hrs]
 ---
 
@@ -54,7 +54,7 @@ sources: [acg-2024-ald, aasld-2020-ald, acg-2021-gerd, aga-2022-personalized-ger
 > [!pearl] Objective GERD first, baclofen second
 > **ACG 2021 Recommendation 13 (strong, moderate):** *"We do not recommend baclofen in the absence of objective evidence of GERD."* The gate is objective documentation of continued symptomatic reflux despite optimal PPI therapy — not symptoms alone ([[acg-2021-gerd]]).
 
-- Short-term RCTs show symptomatic improvement. An RCT of medical therapy (including baclofen) vs antireflux surgery for PPI-refractory heartburn found **no significant benefit vs placebo at 1 year**, though it was not powered to detect a small but potentially important effect ([[acg-2021-gerd]]).
+- Short-term RCTs show symptomatic improvement. An RCT of medical therapy (including baclofen) vs [[antireflux-surgery|antireflux surgery]] for PPI-refractory heartburn found **no significant benefit vs placebo at 1 year**, though it was not powered to detect a small but potentially important effect ([[acg-2021-gerd]]).
 - **AGA 2022 BPA 10** — personalize adjunctive pharmacotherapy to the GERD phenotype rather than using it empirically: baclofen is the agent for **regurgitation- or belch-predominant symptoms**. Effective for belch-predominant symptoms and mild regurgitation, but **often limited by central nervous system (CNS) and gastrointestinal side effects** ([[aga-2022-personalized-gerd]]).
 - **Belching** ([[aga-2023-bloating]]): **not advocated for supragastric belching alone** — that is a behavioural disorder treated with brain–gut behavioural therapy and speech therapy. It may be considered to prevent LES relaxation in **gastric belching due to GERD**.
 - **[[extraesophageal-reflux|Extraesophageal reflux]]:** role uncertain ([[aga-2018-extraesophageal-gerd]]). Two studies in chronic cough — a 3-patient case series with improvement or resolution in all 3, and an 8-week add-on to omeprazole that improved cough in **56%** of patients who showed a reduction in acid reflux episodes. **No controlled studies show benefit in extraesophageal reflux.**

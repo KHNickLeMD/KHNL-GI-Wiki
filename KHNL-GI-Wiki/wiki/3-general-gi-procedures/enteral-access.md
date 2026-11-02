@@ -3,7 +3,7 @@ title: "Enteral Access"
 category: general-procedure
 tags: [enteral-nutrition, peg, peg-j, nutrition, nasoenteric, dpej, buried-bumper]
 created: 2026-07-23
-updated: 2026-10-22
+updated: 2026-11-02
 sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes, asge-2011-enteral-feeding]
 ---
 
@@ -45,7 +45,7 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes, asge-
 | Category | Examples |
 |---|---|
 | Impaired nutrient intake (neurologic) | Post-CVA, motor neuron disease, multiple sclerosis, Parkinson's, unconscious/ventilated, cerebral palsy, select dementia |
-| Upper GI obstruction / motility disorder | Head & neck cancer; head/maxillofacial/mandibular/dental/neck trauma; radiation stomatitis; [[esophageal-cancer\|esophageal cancer]]; esophageal stricture; esophageal dysmotility; chronic intestinal pseudo-obstruction; [[gastroparesis]]; superior mesenteric artery syndrome |
+| Upper GI obstruction / motility disorder | Head & neck cancer; head/maxillofacial/mandibular/dental/neck trauma; radiation stomatitis; [[esophageal-cancer\|esophageal cancer]]; [[esophageal-stricture\|esophageal stricture]]; esophageal dysmotility; chronic intestinal pseudo-obstruction; [[gastroparesis]]; superior mesenteric artery syndrome |
 | Altered intestinal anatomy | [[bariatric-surgery\|Bariatric]] or foregut surgery with impaired intake |
 | Psychiatric | Anorexia nervosa |
 | Increased metabolic requirements | Critical illness, cancer, burn/trauma, cystic fibrosis / chronic lung disease, [[inflammatory-bowel-disease\|inflammatory bowel disease (IBD)]], [[nutrition-in-liver-disease\|liver disease]], [[acute-pancreatitis\|pancreatitis]], renal disease |

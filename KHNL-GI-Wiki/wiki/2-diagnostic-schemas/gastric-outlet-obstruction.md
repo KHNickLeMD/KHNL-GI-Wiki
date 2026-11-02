@@ -3,8 +3,8 @@ title: "Gastric Outlet Obstruction"
 category: diagnostic-schema
 tags: [gastric-outlet-obstruction, goo, gooss, enteral-stent, gastrojejunostomy, eus-ge, lams, palliation, peptic-ulcer-disease, pancreatic-cancer]
 created: 2026-09-02
-updated: 2026-09-04
-sources: [jeurnink-2010-sustent-goo, kastelijn-2023-enduro-protocol, asge-2010-pud, aga-2025-endoscopic-enteral-access]
+updated: 2026-11-02
+sources: [aga-2021-malignant-alimentary-tract-obstruction, jeurnink-2010-sustent-goo, kastelijn-2023-enduro-protocol, asge-2010-pud, aga-2025-endoscopic-enteral-access]
 ---
 
 ## Contents
@@ -88,11 +88,13 @@ flowchart TD
     H -->|Yes| I["Curative resection<br/>(not a palliation decision)"]
     H -->|"Irresectable / metastatic"| J["Confirm no second obstruction<br/>distal to ligament of Treitz"]
     J --> K{"Estimated survival<br/>and performance status"}
-    K -->|"< 2 months, or poor<br/>performance status (PS)"| L["Enteral (duodenal) stent<br/>faster relief, more reinterventions"]
-    K -->|"≥ 2 months, adequate PS"| M["Surgical gastrojejunostomy<br/>durable, more up-front morbidity"]
+    K -->|"> 2 months, good functional<br/>status, surgically fit"| M["Surgical gastrojejunostomy<br/>(laparoscopic preferred)<br/>or EUS-GE where expertise exists"]
+    K -->|"not that, i.e. shorter survival<br/>or not surgically fit"| N{"Any stent contraindication?<br/>multiple luminal obstructions ·<br/>survival < a few weeks ·<br/>impaired gastric motility"}
+    N -->|No| L["Enteral (duodenal) stent<br/>faster relief, more reinterventions"]
+    N -->|Yes| O["Venting gastrostomy"]
 ```
 
-*Figure 1 — Workup and treatment-selection pathway. Endoscopy step from [[asge-2010-pud]]; the 2-month prognosis threshold from [[jeurnink-2010-sustent-goo]], restated as current standard of care in [[kastelijn-2023-enduro-protocol]].*
+*Figure 1 — Workup and treatment-selection pathway (wiki-recreated). Endoscopy step from [[asge-2010-pud]]; the selection rule and the stent contraindications from [[aga-2021-malignant-alimentary-tract-obstruction]] Best Practice Advice (BPA) 6–10; the trial behind the 2-month threshold is [[jeurnink-2010-sustent-goo]], restated as current standard of care in [[kastelijn-2023-enduro-protocol]].*
 
 ---
 
@@ -130,11 +132,27 @@ flowchart TD
 
 ### Malignant GOO — the prognosis threshold
 
-**The decision rule is keyed to expected survival, because the two options fail in opposite directions and their outcome curves cross at roughly 30–60 days.**
+**The governing rule is [[aga-2021-malignant-alimentary-tract-obstruction]] BPA 6–10** (tier-1 clinical practice update; it supersedes the trial-level framing below, which is the evidence behind it). The decision is keyed to expected survival, because the two options fail in opposite directions and their outcome curves cross at roughly 30–60 days.
+
+| Patient | Procedure |
+|---|---|
+| Life expectancy **>2 months** + good functional status + **surgically fit** | **Surgical gastrojejunostomy (GJ), laparoscopic preferred** (BPA 6, 7) |
+| Same, where the expertise exists | **EUS-GE** is an acceptable alternative to either surgery or stenting (BPA 10) |
+| Not that — shorter survival, or not surgically fit | **Enteral stent** (BPA 8) |
+| Any stent contraindication below | **Venting gastrostomy** instead of a stent (BPA 9) |
+
+> [!pitfall] Three situations where an enteral stent is the wrong answer
+> **Multiple luminal obstructions** (especially distal to the duodenum), life expectancy **less than a few weeks**, and **impaired gastric motility** (e.g. linitis plastica) are stated contraindications to enteral stenting — vent the stomach instead ([[aga-2021-malignant-alimentary-tract-obstruction]] BPA 9).
+
+- **Enteral stent outcomes** (systematic review): clinical success **89%**; early adverse events **7%** (migration, jaundice, bleeding); late adverse events **18%** (mostly migration, or occlusion from tumour ingrowth or food); mean hospital stay **7 days**; mean overall survival **105 days** after placement. Poor outcome predicted by poor baseline functional status, peritoneal dissemination, and no subsequent chemotherapy.
+- **Predictors of surgical-GJ clinical failure** (retrospective, 310 patients): **poor nutritional status, ascites, poor functional status** — the same three inputs that argue for a stent.
+- **Delayed gastric emptying follows up to 50% of gastrojejunostomies** when nothing is done at the obstruction site; **gastric partitioning** was developed for this, and its evidence is mixed (one retrospective series as safe as conventional GJ with only a trend toward better solid-diet tolerance; a meta-analysis showed better oral nutrition and emptying).
+- **Covered vs uncovered enteral stents is unsettled** — one pooled analysis found higher technical and clinical success with partially covered stents and more ingrowth-related recurrent obstruction with uncovered, but **more migration** with covered; another found no difference in success, with lower occlusion and higher migration for covered.
+
+**The trial-level comparison the rule rests on:**
 
 | | **Enteral (duodenal) stent** | **Surgical gastrojejunostomy** |
 |---|---|---|
-| **Choose when** | Expected survival **< 2 months** | Expected survival **≥ 2 months** *and* adequate performance status |
 | Median days to GOOSS ≥2 | **5** | 8 |
 | Food intake at 60 days | Worse | **Better** |
 | Median days alive with GOOSS ≥2 | 50 | **72** |
@@ -146,19 +164,23 @@ flowchart TD
 | Quality of life | No difference between arms | |
 | Mean total cost per patient | **$11,720** | $16,536 |
 
-*All figures from [[jeurnink-2010-sustent-goo]] (n = 39: 18 gastrojejunostomy [GJJ], 21 stent).*
+*All figures from [[jeurnink-2010-sustent-goo]] (n = 39: 18 gastrojejunostomy, 21 stent).*
 
-**Three qualifiers that must travel with these numbers:**
+**Three qualifiers that travel with these numbers:**
 
-1. **Statistical caveat, stated by the authors themselves.** The trial ran many comparisons on 39 patients. Bonferroni correction **would remove every nominally significant finding except those at P < .001** — i.e. only the cost differences survive. The efficacy and reintervention differences are **descriptive signals**, not established effects.
-2. **The major-complication difference is definitional.** Major complications were 6 (in 4 patients) after stenting versus 0 after surgery — but **when stent obstruction is not counted as a major complication, the rates do not differ** (P = .4).
-3. **The surgical arm was mostly open surgery.** 16 of 18 gastrojejunostomies were **open**, only 2 laparoscopic. The 8-day time-to-eating and 15-day stay therefore **overstate the penalty of a modern laparoscopic bypass**.
+- **Descriptive, not established.** Many comparisons on 39 patients; the authors state Bonferroni correction would leave only the findings at P < .001 — the cost differences.
+- **The major-complication gap is definitional** — 6 (in 4 patients) vs 0, but **excluding stent obstruction the rates do not differ** (P = .4).
+- **16 of 18 bypasses were open**, only 2 laparoscopic, so the 8-day time-to-eating and 15-day stay **overstate the penalty of a modern laparoscopic GJ** — which is the one BPA 7 prefers.
 
 **Why stents fail late:** obstruction by **food debris** and by **tumour ingrowth/overgrowth** through the uncovered mesh — the recognized weakness of uncovered designs. Covered stents trade ingrowth for a **higher migration** risk. Stent obstruction occurs in **up to 30%** of cases (ENDURO background).
 
-**Biliary access is part of the stent decision.** A duodenal stent deployed **across the ampulla of Vater can foreclose [[ercp|ERCP]] access to the bile duct**. Of 4 SUSTENT stent-arm patients who later developed common bile duct (CBD) obstruction, only 1 could be managed endoscopically; 2 required percutaneous drainage. **Consider placing a CBD stent up front** if biliary obstruction is anticipated — see [[biliary-stricture]].
+**Biliary access is part of the stent decision.** A duodenal stent deployed **across the ampulla of Vater** raises concern about later [[ercp|ERCP]] access to the bile duct. The two sources read differently and both are shown: of 4 SUSTENT stent-arm patients who later developed common bile duct (CBD) obstruction only 1 could be managed endoscopically and 2 needed percutaneous drainage ([[jeurnink-2010-sustent-goo]], n = 4), whereas a retrospective series cited by the newer, higher-tier [[aga-2021-malignant-alimentary-tract-obstruction]] still achieved **85% technical success** for biliary drainage by ERCP after enteral stent placement. The guideline's figure governs; the alternatives when it fails are percutaneous transhepatic drainage or [[eus-guided-biliary-drainage|EUS-guided biliary drainage]]. **Consider placing a CBD stent up front** if biliary obstruction is anticipated — see [[biliary-stricture]].
 
-**[[endoscopic-ultrasound|EUS]]-guided gastroenterostomy.** A **20-mm LAMS** placed endoscopically between the stomach and a jejunal loop distal to the obstruction, proposed as combining the speed of stenting with the durability of surgery. **Neither source reports outcome data comparing EUS-GE with surgery or with enteral stenting.** [[kastelijn-2023-enduro-protocol|ENDURO]] is the randomized trial designed to answer exactly this question and is a **protocol reporting no results**; this page therefore describes EUS-GE technique only, not its comparative efficacy or safety. Known hazard: EUS-GE is **technically demanding**, and **LAMS misdeployment can cause jejunal perforation and peritonitis**.
+**[[endoscopic-ultrasound|EUS]]-guided gastroenterostomy.** A **20-mm LAMS** placed endoscopically between the stomach and a jejunal loop distal to the obstruction, combining the speed of stenting with the durability of surgery; an **acceptable alternative to either** where the expertise exists ([[aga-2021-malignant-alimentary-tract-obstruction]] BPA 10).
+
+- **Outcomes** (systematic review/meta-analysis, 12 studies, 285 patients): **technical success 92%, clinical success 90%, adverse events 12%**, most commonly **stent misdeployment**.
+- **Versus enteral stent:** lower re-intervention and symptom recurrence across retrospective series. **Versus laparoscopic GJ:** similar efficacy with significantly **lower adverse events**. All of this comparative evidence is **retrospective or pooled, not randomized** — [[kastelijn-2023-enduro-protocol|ENDURO]] is the randomized trial designed to settle it and is a **protocol reporting no results**.
+- **Limits:** expertise-limited and not widely available, and there is **no dedicated US Food and Drug Administration (FDA)–approved device** for EUS-GE. **LAMS misdeployment can cause jejunal perforation and peritonitis.**
 
 ### Procedural specifications
 
@@ -183,13 +205,14 @@ flowchart TD
 
 ## See Also
 
-[[peptic-ulcer-disease]], [[pancreatic-cancer]], [[gastric-adenocarcinoma]], [[enteral-access]], [[endoscopic-ultrasound]], [[endoscopic-oncology]], [[upper-endoscopy]], [[ercp]], [[biliary-stricture]], [[jaundice]], [[acute-cholangitis]], [[nausea-and-vomiting]], [[gastroparesis]], [[helicobacter-pylori-infection]], [[proton-pump-inhibitors]]
+[[peptic-ulcer-disease]], [[pancreatic-cancer]], [[gastric-adenocarcinoma]], [[enteral-access]], [[endoscopic-ultrasound]], [[eus-guided-biliary-drainage]], [[endoscopic-oncology]], [[upper-endoscopy]], [[ercp]], [[biliary-stricture]], [[jaundice]], [[acute-cholangitis]], [[nausea-and-vomiting]], [[gastroparesis]], [[helicobacter-pylori-infection]], [[proton-pump-inhibitors]]
 
 ---
 
 ## Sources
 
-1. [[jeurnink-2010-sustent-goo|Surgical gastrojejunostomy or endoscopic stent placement for the palliation of malignant gastric outlet obstruction (SUSTENT study): a multicenter randomized trial]]
-2. [[kastelijn-2023-enduro-protocol|EUS-guided gastroenterostomy versus surgical gastrojejunostomy for palliation of malignant gastric outlet obstruction (ENDURO): study protocol for a randomized controlled trial]]
-3. [[asge-2010-pud|ASGE Guideline: The Role of Endoscopy in the Management of Patients With Peptic Ulcer Disease (2010)]]
-4. [[aga-2025-endoscopic-enteral-access|AGA 2025 Clinical Practice Update on Endoscopic Enteral Access]]
+1. [[aga-2021-malignant-alimentary-tract-obstruction|AGA Clinical Practice Update on Management of Malignant Alimentary Tract Obstruction: Expert Review (2021)]]
+2. [[jeurnink-2010-sustent-goo|Surgical gastrojejunostomy or endoscopic stent placement for the palliation of malignant gastric outlet obstruction (SUSTENT study): a multicenter randomized trial]]
+3. [[kastelijn-2023-enduro-protocol|EUS-guided gastroenterostomy versus surgical gastrojejunostomy for palliation of malignant gastric outlet obstruction (ENDURO): study protocol for a randomized controlled trial]]
+4. [[asge-2010-pud|ASGE Guideline: The Role of Endoscopy in the Management of Patients With Peptic Ulcer Disease (2010)]]
+5. [[aga-2025-endoscopic-enteral-access|AGA 2025 Clinical Practice Update on Endoscopic Enteral Access]]

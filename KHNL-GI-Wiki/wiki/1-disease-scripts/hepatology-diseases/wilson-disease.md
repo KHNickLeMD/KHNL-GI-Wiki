@@ -3,7 +3,7 @@ title: "Wilson's Disease"
 category: disease-script
 tags: [wilson-disease, copper, atp7b, hepatic, neuropsychiatric, kayser-fleischer, ceruloplasmin, hpb, liver, genetic, pregnancy, chelation, D-penicillamine, trientine, zinc, Leipzig-score, NWI]
 created: 2026-05-19
-updated: 2026-09-07
+updated: 2026-11-02
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2022-wilson-disease]
 ---
 
@@ -260,7 +260,7 @@ Transition after ≥1 year of treatment + clinical/biochemical stability:
 Effective copper removal often improves neurological symptoms but adjunctive therapy helps:
 
 - Parkinsonism: carbidopa/levodopa (may be limited efficacy), dopamine agonists
-- Dystonia (focal): botulinum toxin injection; trihexyphenidyl (anticholinergic effects limit use); clonazepam
+- Dystonia (focal): [[botulinum-toxin|botulinum toxin]] injection; trihexyphenidyl (anticholinergic effects limit use); clonazepam
 - Chorea: VMAT2 inhibitors (tetrabenazine, valbenazine)
 - Dysarthria/dysphagia: speech therapy, swallow evaluation for aspiration risk
 

@@ -3,7 +3,7 @@ title: "Portal Hypertensive Gastropathy"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, PHG, gastric, gi-bleeding, iron-deficiency-anemia, NSBB, TIPS, baveno]
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-11-02
 sources: [aasld-2023-portal-hypertension, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aga-2024-ida-management]
 ---
 
@@ -76,7 +76,7 @@ sources: [aasld-2023-portal-hypertension, baveno-viii-2026-portal-hypertension, 
 
 - ⚠ **[[gastric-antral-vascular-ectasia|GAVE]] must be distinguished from PHG — the treatments differ** (Baveno VI/VII, retained as still valid in Baveno VIII). PHG is diffuse and portal-pressure-driven; GAVE is antral and treated endoscopically.
 - *[[helicobacter-pylori-infection|H. pylori]]* gastritis — the principal mimic of mucosal granularity.
-- [[portal-hypertension|Portal hypertension]]–related gastric polyps (below).
+- [[portal-hypertension|Portal hypertension]]–related [[gastric-polyps|gastric polyps]] (below).
 - [[variceal-upper-gi-bleeding|Gastric varices]] — a separate lesion with a separate pathway.
 - [[angioectasia|Angioectasia]] elsewhere in the gastrointestinal (GI) tract.
 

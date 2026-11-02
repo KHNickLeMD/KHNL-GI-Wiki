@@ -3,7 +3,7 @@ title: "Antibiotic Prophylaxis for GI Endoscopy"
 category: concept
 tags: [antibiotic-prophylaxis, infective-endocarditis, ercp, peg, eus-fna, cirrhosis, gi-bleeding, bacteremia, endoscopy]
 created: 2026-06-27
-updated: 2026-10-25
+updated: 2026-11-02
 sources: [acg-asge-2026-ercp-quality-indicators, asge-2015-antibiotic-prophylaxis, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics]
 ---
 
@@ -41,7 +41,7 @@ The exception is conditional on this list, so the list is the decision ([[asge-2
 **What "coverage" means here:** when such a patient has an established GI infection (e.g. cholangitis), or is already receiving antibiotics to prevent wound infection/sepsis from a GI procedure, the regimen should **include an agent active against enterococci** — **penicillin, ampicillin, piperacillin, or vancomycin**. Enterococci are singled out because they are the only GI-tract organisms likely to cause IE; AHA reiterates that **no study has shown this prevents enterococcal IE**.
 
 ## Bacteremia Risk by Procedure
-- **High:** esophageal dilation (12–22%; higher with malignant strictures, multiple dilators), variceal sclerotherapy (up to 52%, mean ~14.6%), instrumentation of obstructed bile ducts.
+- **High:** [[esophageal-dilation|esophageal dilation]] (12–22%; higher with malignant strictures, multiple dilators), variceal sclerotherapy (up to 52%, mean ~14.6%), instrumentation of obstructed bile ducts.
 - **Low:** diagnostic [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] ± biopsy, [[colonoscopy]] ± biopsy/[[polypectomy]], [[endoscopic-ultrasound|EUS]]-FNA of solid lesions, [[variceal-upper-gi-bleeding|variceal band ligation]].
 
 ## When Prophylaxis IS Indicated

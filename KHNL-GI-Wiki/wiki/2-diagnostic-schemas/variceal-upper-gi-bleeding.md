@@ -3,7 +3,7 @@ title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-11-01
+updated: 2026-11-02
 sources: [asge-2026-esophageal-gastric-varices, baveno-viii-2026-portal-hypertension, albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-tips, aga-2021-bleeding-gastric-varices]
 ---
 
@@ -45,7 +45,7 @@ Upper gastrointestinal bleeding (UGIB) in cirrhosis — non-variceal workup: [[u
 - **[[portal-hypertensive-gastropathy|Portal hypertensive gastropathy (PHG)]]** — diffuse oozing, chronic loss
 - **[[peptic-ulcer-disease|Peptic ulcer disease]]** — more common in cirrhosis ([[helicobacter-pylori-infection|H. pylori]], nonsteroidal anti-inflammatory drugs)
 - **Mallory-Weiss tear** — after retching
-- **[[gastric-antral-vascular-ectasia|Gastric antral vascular ectasia (GAVE)]]** — antral; usually occult iron-deficiency anemia
+- **[[gastric-antral-vascular-ectasia|Gastric antral vascular ectasia (GAVE)]]** — antral; usually occult [[iron-deficiency-anemia|iron-deficiency anemia]]
 
 ## Diagnostic Algorithm
 

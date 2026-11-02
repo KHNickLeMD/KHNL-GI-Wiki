@@ -3,32 +3,28 @@ title: "Anti-TNF Agents (TNF-α Antagonists)"
 category: med
 tags: [anti-tnf, infliximab, adalimumab, certolizumab-pegol, golimumab, biologic, ibd, crohns, ulcerative-colitis, immunogenicity, therapeutic-drug-monitoring, biosimilar, immune-checkpoint-inhibitor]
 created: 2026-09-04
-updated: 2026-11-01
+updated: 2026-11-02
 sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis, aga-2018-biologic-biosimilar-switching-ibd, cimzia-2025-certolizumab-pegol-label]
 ---
 
-Monoclonal tumor necrosis factor-α (TNF-α) antagonists — **infliximab, adalimumab, certolizumab pegol, golimumab** — the longest-established advanced-therapy class in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], and the drugs behind most combination-therapy, immunogenicity, and pre-biologic-screening rules. **Onset is rapid — as early as the first 2 weeks** of treatment, and response/remission rates are higher when given **within 2 years of disease onset** ([[acg-2025-crohns]]). Also used outside IBD as rescue for glucocorticoid-refractory [[immune-checkpoint-inhibitor-colitis|immune checkpoint inhibitor (ICI) colitis]].
+Monoclonal tumor necrosis factor-α (TNF-α) antagonists — **infliximab, adalimumab, certolizumab pegol, golimumab** — the longest-established advanced-therapy class in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], and the drugs behind most combination-therapy, immunogenicity, and pre-biologic-screening rules. **Onset is rapid — as early as the first 2 weeks**, and response/remission rates are higher when given **within 2 years of disease onset** ([[acg-2025-crohns]]). Also used outside IBD as rescue for glucocorticoid-refractory [[immune-checkpoint-inhibitor-colitis|immune checkpoint inhibitor (ICI) colitis]].
 
 ## Contents
 - [[#Agents in the Class]]
 - [[#Dosing]]
   - [[#IBD Dosing]]
-  - [[#Non-IBD — Glucocorticoid-Refractory ICI Colitis]]
-- [[#Positioning — Crohn's Disease]]
-  - [[#Perianal Fistulizing CD]]
-  - [[#Postoperative Prophylaxis]]
-- [[#Positioning — Ulcerative Colitis]]
-  - [[#Acute Severe UC — Rescue Dosing Parameters]]
+  - [[#Switching IV to SC Infliximab]]
+  - [[#Glucocorticoid-Refractory ICI Colitis]]
+- [[#Positioning]]
+  - [[#ASUC — Anti-TNF Rescue Parameters]]
 - [[#Combination Therapy with Immunomodulators]]
 - [[#Before Starting — Pre-treatment Screening]]
   - [[#Tuberculosis]]
   - [[#Hepatitis B]]
-  - [[#Vaccination timing]]
-  - [[#Before a biologic in ICI colitis]]
-- [[#Loss of Response — Therapeutic Drug Monitoring]]
+  - [[#Vaccination]]
+- [[#Loss of Response]]
 - [[#Safety, Cautions, and Contraindications]]
 - [[#Biosimilars]]
-- [[#Gaps]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -36,16 +32,14 @@ Monoclonal tumor necrosis factor-α (TNF-α) antagonists — **infliximab, adali
 
 ## Agents in the Class
 
-| Agent | Route(s) | Recommended in guidelines for |
+| Agent | Route(s) | Guideline-recommended in |
 |---|---|---|
-| **Infliximab** | Intravenous (IV); **subcutaneous (SC) for maintenance** after IV induction response | [[crohns-disease\|Crohn's disease (CD)]] induction + maintenance, [[perianal-fistulizing-crohns-disease\|perianal fistulizing CD]], [[ulcerative-colitis\|ulcerative colitis (UC)]] induction + maintenance, acute severe UC (ASUC) rescue |
-| **Adalimumab** | SC | CD induction + maintenance, perianal fistulizing CD (conditional), UC induction + maintenance |
-| **Certolizumab pegol** | SC | CD induction + maintenance **only** — not recommended for UC in [[acg-2025-uc]]; evidence suggests it **may not be effective** for induction of fistula remission ([[aga-2021-crohns-pharm]] Rec 10B comment) |
-| **Golimumab** | SC | UC induction + maintenance **only** — not among the agents recommended for CD in [[acg-2025-crohns]] |
+| **Infliximab** | Intravenous (IV); **subcutaneous (SC) for maintenance** after IV induction response | [[crohns-disease\|Crohn's disease (CD)]] · [[perianal-fistulizing-crohns-disease\|perianal fistulizing CD]] · [[ulcerative-colitis\|ulcerative colitis (UC)]] · acute severe UC (ASUC) rescue |
+| **Adalimumab** | SC | CD · perianal fistulizing CD (conditional) · UC |
+| **Certolizumab pegol** | SC | CD **only** — not recommended for UC ([[acg-2025-uc]]); may **not be effective** for induction of fistula remission ([[aga-2021-crohns-pharm]] Rec 10B comment) |
+| **Golimumab** | SC | UC **only** — not among the agents recommended for CD ([[acg-2025-crohns]]) |
 
-- **Infliximab is the only anti-TNF available as either IV or SC maintenance** in CD ([[acg-2025-crohns]]).
-- Roughly **20%–30% of patients have primary nonresponse** to anti-TNF therapy and **30%–40% lose response** over time ([[acg-2025-crohns]]).
-- Moderate-to-severe CD was defined as **Crohn's Disease Activity Index (CDAI) ≥220** in [[aga-2021-crohns-pharm]]; clinical remission is **CDAI <150** ([[acg-2025-crohns]]).
+- **Infliximab is the only anti-TNF available as either IV or SC maintenance** in CD ([[acg-2025-crohns]]). Each recommendation above covers **induction and maintenance**.
 
 ---
 
@@ -57,150 +51,69 @@ Monoclonal tumor necrosis factor-α (TNF-α) antagonists — **infliximab, adali
 |---|---|---|
 | **Infliximab IV** | **5 mg/kg** at weeks **0, 2, 6** (in UC, **with a thiopurine** — [[acg-2025-uc]] Rec 33) | **5 mg/kg q8wk** |
 | **Infliximab SC** | — (given only after response to IV induction) | **120 mg q2wk**; escalate to **240 mg q2wk** if needed to achieve/recapture response |
-| **Adalimumab** | **160 mg → 80 mg → 40 mg q2wk** (UC trial regimen: 160 mg SC wk 0, 80 mg SC wk 2, then 40 mg every other week from wk 4) | **40 mg q2wk**, or **40 mg weekly** in CD |
-| **Certolizumab pegol** | **400 mg** at weeks **0, 2, 4** — each dose given as **two 200 mg SC injections at separate sites** | **400 mg q4wk**, **only if a clinical response was obtained** to induction ([[cimzia-2025-certolizumab-pegol-label]]) |
+| **Adalimumab** | **160 mg → 80 mg → 40 mg q2wk** (160 mg SC wk 0, 80 mg SC wk 2, then 40 mg every other week from wk 4) | **40 mg q2wk**, or **40 mg weekly** in CD |
+| **Certolizumab pegol** | **400 mg** at weeks **0, 2, 4** — each dose as **two 200 mg SC injections at separate sites** | **400 mg q4wk**, **only if a clinical response was obtained** to induction ([[cimzia-2025-certolizumab-pegol-label]]) |
 | **Golimumab** | **200 mg → 100 mg** | **100 mg q4wk** |
 
-*CD dosing from [[acg-2025-crohns]]; UC dosing from [[acg-2025-uc]]; certolizumab from [[cimzia-2025-certolizumab-pegol-label]].*
+*CD dosing from [[acg-2025-crohns]]; UC dosing from [[acg-2025-uc]]; certolizumab from [[cimzia-2025-certolizumab-pegol-label]]. Two figures are not guideline-stated — verify against product labeling before dosing: the **golimumab every-4-week maintenance interval** (the 100 mg dose is guideline-sourced, the interval is not) and the **adalimumab induction regimen in CD** (the loading sequence comes from the UC guideline; the CD guideline gives adalimumab maintenance only).*
 
-> **Two cells in the table above are not guideline-stated** — verify against labeling before dosing:
-> - **Golimumab maintenance interval (q4wk)** — [[acg-2025-uc]] sources the **100 mg** dose (PURSUIT week-54 data) but never states the every-4-week interval; [[acg-2019-uc]] gives no doses and [[aga-2024-uc-pharm]]'s "200 mg q4w" belongs to guselkumab, not golimumab.
-> - **Adalimumab induction in CD** — the 160 → 80 loading is sourced from the **UC** guideline (ULTRA-2) only; [[acg-2025-crohns]] gives no adalimumab induction regimen. The maintenance figures (40 mg q2wk or weekly) *are* from the CD guideline.
->
-> **Certolizumab is no longer one of them.** Neither [[acg-2025-crohns]] nor [[aga-2021-crohns-pharm]] states a schedule for it — both discuss the agent only qualitatively — but the **400 mg at weeks 0, 2, 4 → 400 mg q4wk** regimen is now sourced directly from [[cimzia-2025-certolizumab-pegol-label]], which also adds the response-conditional on maintenance.
->
-> Everything else in the table matches the cited guideline, including the infliximab IV/SC rows and the [[vedolizumab|vedolizumab]] 300 mg 0/2/6 schedule below.
-
-**Certolizumab administration ([[cimzia-2025-certolizumab-pegol-label]]).** Supplied two ways: a **200 mg lyophilized vial** reconstituted with 1 mL Sterile Water for Injection by a healthcare professional (swirl gently, never shake — full dissolution can take up to 30 min; use within 24 h at 2–8 °C), or a **200 mg/mL prefilled syringe** a trained patient may self-inject. Every 400 mg dose is **two injections at separate sites** in the thigh or abdomen, ≥2 inches from the navel and ≥1 inch from the previous site.
+**Certolizumab administration** ([[cimzia-2025-certolizumab-pegol-label]]): supplied as a **200 mg lyophilized vial** (reconstituted with 1 mL Sterile Water for Injection by a health care professional — swirl, never shake; use within 24 h at 2–8 °C) or a **200 mg/mL prefilled syringe** a trained patient may self-inject. Every 400 mg dose = **two injections at separate sites** in thigh or abdomen, ≥2 inches from the navel and ≥1 inch from the previous site.
 
 > [!pitfall] The prefilled syringe cap contains latex
 > The needle shield inside the removable cap of the certolizumab prefilled syringe is a **natural rubber latex derivative** — handle with caution in a latex-sensitive patient ([[cimzia-2025-certolizumab-pegol-label]]). The lyophilized vial kit is the alternative.
 
-**Dose optimization is an explicit option, not a last resort:** biologic therapy (anti-TNF, anti-IL-12/23, anti-integrin) **dose optimization may be considered** for inadequate or loss of response to that agent's induction and maintenance ([[acg-2025-crohns]] Key Concept 46).
+**Dose optimization is an explicit option, not a last resort:** biologic therapy (anti-TNF, anti-interleukin-12/23, anti-integrin) **dose optimization may be considered** for inadequate or loss of response to that agent's induction and maintenance ([[acg-2025-crohns]] Key Concept 46).
 
-**Switching IV → SC infliximab (REMSWITCH observational data, [[acg-2025-crohns]]).** Patients in steroid-free remission on stable IV dosing who transitioned to SC infliximab 120 mg q2wk relapsed at rates that tracked their prior IV intensity by weeks 16–24:
+### Switching IV to SC Infliximab
 
-| Prior IV regimen | Relapse after switch to SC 120 mg q2wk |
-|---|---|
-| 5 mg/kg q8wk | 10.2% |
-| 10 mg/kg q8wk | 7.3% |
-| 10 mg/kg q6wk | 16.7% |
-| 10 mg/kg q4wk | **66.7%** |
+Only in patients in steroid-free remission on stable IV dosing ([[acg-2025-crohns]]):
 
-- Dose escalation to **240 mg q2wk** recaptured clinical remission in **93.3%** and clinical + biomarker remission in **80%**.
-- Patients on **infliximab 10 mg/kg q4wk with fecal calprotectin >250 mg/g** were more likely to flare — these patients may need **240 mg SC q2wk from the start of the switch**.
+- Relapse by weeks 16–24 after switching to **SC 120 mg q2wk tracks prior IV intensity** and is far highest coming off **10 mg/kg q4wk**.
+- **Prior 10 mg/kg q4wk with fecal calprotectin >250 mg/g** → more likely to flare; may need **240 mg SC q2wk from the start of the switch**. Escalation to 240 mg q2wk recaptures remission in most who do relapse.
 
-### Non-IBD — Glucocorticoid-Refractory ICI Colitis
+### Glucocorticoid-Refractory ICI Colitis
 
-From [[aga-2021-ici-colitis-hepatitis]] (Best Practice Advice 6; expert review — **no formal evidence grading**, and management rests largely on retrospective series and expert opinion):
-
-- ⚠ **Off-label.** Neither agent is approved for ICI colitis; both regimens below are **imported from IBD**, and [[aga-2021-ici-colitis-hepatitis]] offers no ICI-colitis-specific dose-finding data.
-- **Infliximab 5 mg/kg IV at weeks 0, 2, 6** — the IBD-derived schedule, for glucocorticoid-refractory [[immune-checkpoint-inhibitor-colitis|ICI colitis]]. [[vedolizumab|Vedolizumab]] 300 mg IV on the same 0/2/6 schedule is the alternative; **no data distinguish them**, so the choice turns on malignancy type, infection risk, comorbidities, expected treatment duration, and other immune-related adverse events (irAEs).
-- **Trigger to escalate from glucocorticoids:** no response within **72 hours**, or no complete response within **1 week**, or recurrence during the steroid taper or after completing the course. About **one-third** of patients respond inadequately to first-line glucocorticoids.
-- **Response is typically <1 week** — a key contrast with IBD.
-- **Non-response to the first biologic → switch class** (infliximab ↔ vedolizumab). **Do not wait for a standard washout**; treat within a few weeks of the last infusion once non-response is evident.
-- Maintenance infliximab may reduce recurrence in patients continuing immunotherapy (small case series); long-term safety and effect on tumor response are **undetermined**.
-- ICI-specific cautions are in [[#Safety, Cautions, and Contraindications]].
+- ⚠ **Off-label** — neither agent is approved for ICI colitis; both regimens are imported from IBD and no ICI-colitis-specific dose-finding data exist ([[aga-2021-ici-colitis-hepatitis]], expert review, ungraded).
+- **Infliximab 5 mg/kg IV at weeks 0, 2, 6**; **[[vedolizumab]] 300 mg IV** on the same 0/2/6 schedule is the alternative.
+- Escalation triggers, response timing, class switching and maintenance live on [[immune-checkpoint-inhibitor-colitis]]; oncology cautions are under [[#Safety, Cautions, and Contraindications]].
 
 ---
 
-## Positioning — Crohn's Disease
+## Positioning
 
-| Setting | Recommendation | Strength / evidence |
-|---|---|---|
-| Induction **and** maintenance, moderate–severe CD | **Recommend** anti-TNF — IV infliximab, SC adalimumab, SC certolizumab pegol | Strong, moderate ([[acg-2025-crohns]] Rec 12); Strong, moderate ([[aga-2021-crohns-pharm]] Rec 1A — certolizumab evidence was only **low** certainty) |
-| Maintenance after response to IV infliximab induction | **Recommend** SC infliximab as an option | Strong, moderate ([[acg-2025-crohns]] Rec 14) |
-| Biologic-**naïve**, induction | **Recommend** infliximab, adalimumab, or [[il-23-and-il-12-23-inhibitors\|ustekinumab]] **over certolizumab pegol**; suggest vedolizumab over certolizumab pegol | Strong, moderate / Conditional, low ([[aga-2021-crohns-pharm]] Rec 2A) |
-| Biologic monotherapy vs [[thiopurines\|thiopurine]] monotherapy, induction | **Recommend** biologic monotherapy | Strong, moderate ([[aga-2021-crohns-pharm]] Rec 4) |
-| Newly diagnosed active CD | **Top-down** infliximab + immunomodulator should be considered **standard of care** — PROFILE: **79% vs 15%** steroid-free and surgery-free remission at 1 year vs accelerated step-up; biomarkers did not show clinical utility | [[acg-2025-crohns]]. [[aga-2021-crohns-pharm]] Rec 7 makes the same anti–step-up point (Conditional, low) |
-| Anti-TNF **primary** nonresponse (never responded) | **Recommend** ustekinumab; **suggest** vedolizumab | Strong, moderate / Conditional, low ([[aga-2021-crohns-pharm]] Rec 2B) |
-| **Secondary** nonresponse after prior response to infliximab | **Recommend** adalimumab or ustekinumab; **suggest** vedolizumab. *If adalimumab was first-line, indirect evidence supports infliximab as second-line* | Strong, moderate / Conditional, low ([[aga-2021-crohns-pharm]] Rec 2C) |
-| Anti-TNF–**experienced** | **Recommend** risankizumab over ustekinumab (Conditional, low — [[acg-2025-crohns]] Rec 19); **recommend** [[jak-inhibitors\|upadacitinib]] for induction + maintenance in patients with prior anti-TNF exposure (Strong, moderate — Rec 23) | — |
-| Hospitalized **severe to fulminant** CD | Anti-TNF agents are effective; **infliximab may be administered in the inpatient setting** | Key Concept 48 ([[acg-2025-crohns]]) |
+- **Moderate-to-severe CD** — anti-TNF **recommended for induction and maintenance**: IV infliximab, SC adalimumab, SC certolizumab pegol (Strong, moderate — [[acg-2025-crohns]] Rec 12; [[aga-2021-crohns-pharm]] Rec 1A, where the certolizumab evidence was only low certainty). "Moderate-to-severe" was **Crohn's Disease Activity Index (CDAI) ≥220** in the supporting trials ([[aga-2021-crohns-pharm]]).
+- **SC infliximab is a recommended maintenance option** after response to IV infliximab induction (Strong, moderate — [[acg-2025-crohns]] Rec 14).
+- **Moderate-to-severe UC** — infliximab **recommended** (Strong, high — [[acg-2025-uc]] Rec 28); adalimumab or golimumab **recommended** (Strong, moderate — Rec 29); maintenance **continues the inducing anti-TNF**, IV or SC (Strong, moderate — Rec 42).
+- **Hospitalized severe to fulminant CD:** anti-TNF agents are effective and **infliximab may be administered in the inpatient setting** ([[acg-2025-crohns]] Key Concept 48).
+- Where each agent sits against the newer classes, what to do after anti-TNF failure, combination vs monotherapy by disease, and postoperative prophylaxis live on [[crohns-disease]] and [[ulcerative-colitis]]; perianal fistula rules on [[perianal-fistulizing-crohns-disease]]; anti-TNF use in [[pouchitis]] on that page. [[aga-2021-crohns-pharm]] predates the [[il-23-and-il-12-23-inhibitors|interleukin-23 (IL-23) p19 inhibitors]] and [[jak-inhibitors|Janus kinase (JAK) inhibitors]] — for newer Crohn's positioning see [[aga-2025-crohns-pharm]].
 
-**Maintenance efficacy data** ([[acg-2025-crohns]]): in a meta-analysis of 5 trials (1,390 patients), relative risk (RR) of relapse at weeks 26–56 on anti-TNF vs placebo was **0.71 (95% confidence interval [CI] 0.65–0.76)**; **number needed to treat (NNT) = 4 (95% CI 3–5)** to prevent one relapse. Cochrane pooled analysis: infliximab 5 or 10 mg/kg q8wk superior to placebo at week 54; certolizumab 400 mg q4wk superior at week 26; adalimumab 40 mg q2wk or weekly superior at week 54.
-
-### Perianal Fistulizing CD
-
-| Step | Rule | Strength / evidence |
-|---|---|---|
-| **Before any biologic** | Drain perianal abscesses and place setons to facilitate drainage **before** treating perianal fistulizing disease with an anti-TNF | Key Concept 50 ([[acg-2025-crohns]]) |
-| Induction | **Recommend infliximab** — the only anti-TNF studied in a prospective randomized controlled trial (RCT) for fistula closure (5 mg/kg at weeks 0, 2, 6 → complete cessation of drainage in most patients; 5 mg/kg q8wk maintained complete closure and response, defined as **>50% closure** on clinical assessment) | Strong, moderate ([[acg-2025-crohns]] Rec 24); Strong, moderate ([[aga-2021-crohns-pharm]] Rec 10A; fistula closure RR **0.52**, 95% CI 0.34–0.78) |
-| Induction, alternative | **Suggest adalimumab** — fistula closure was not a primary endpoint in any adalimumab or certolizumab study; post hoc analysis of 2 adalimumab CD studies showed **no benefit over placebo** for fistula closure | Conditional, low ([[acg-2025-crohns]] Rec 25) |
-| Adjunct | **Add an antibiotic** to the biologic — antibiotics + infliximab or adalimumab improve clinical response (Conditional, very low — [[acg-2025-crohns]] Rec 26); the American Gastroenterological Association (AGA) **recommends** biologic + antibiotic over biologic alone (Strong, moderate — [[aga-2021-crohns-pharm]] Rec 11; anti-TNF + ciprofloxacin fistula closure RR **0.42**, 0.26–0.68) |
-| Antibiotics alone | **Suggest against** antibiotics alone (without abscess) for induction of fistula remission | Conditional, low ([[aga-2021-crohns-pharm]] Rec 10C) |
-
-- Higher anti-TNF drug levels are associated with better rates of fistula healing ([[acg-2025-crohns]]).
-
-### Postoperative Prophylaxis
-
-**Recommendation 33:** in **high-risk** CD, **recommend anti-TNF therapy to prevent postoperative endoscopic recurrence** (Strong, moderate — [[acg-2025-crohns]]). The risk criteria that drive that decision ([[acg-2025-crohns]] Key Concept 55 and discussion):
-
-| Postoperative risk profile | Management |
-|---|---|
-| **Low risk** — nonsmoker **and** no penetrating disease **and** never had a prior surgical resection | Reasonable to give **no treatment** after surgery, with [[colonoscopy]] at **6 months** to assess for recurrence |
-| Nonsmoker **with penetrating disease**, no prior resection, no prior medication | **Thiopurines ± metronidazole**, then colonoscopy at **6 months**; if endoscopic recurrence at **[[ibd-endoscopic-scoring\|Rutgeerts score]] i2b or higher** → **add anti-TNF** |
-| **Prior resection within a 10-year period** | **Postoperative anti-TNF therapy** |
-
-- Postoperative endoscopic assessment at **6–12 months** is suggested over no monitoring (Conditional — Rec 30). Risk factors for postoperative recurrence: **smoking, >1 resection, penetrating phenotype, short disease duration** ([[acg-2025-crohns]]).
-
----
-
-## Positioning — Ulcerative Colitis
-
-| Setting | Recommendation | Strength / evidence |
-|---|---|---|
-| Induction, moderate–severe UC | **Recommend infliximab** | Strong, **high** ([[acg-2025-uc]] Rec 28) |
-| Induction, moderate–severe UC | **Recommend adalimumab or golimumab** | Strong, moderate ([[acg-2025-uc]] Rec 29) |
-| When infliximab is used for induction | **Recommend combination therapy with a thiopurine** | Strong; moderate quality **for azathioprine** ([[acg-2025-uc]] Rec 33) |
-| Maintenance after anti-TNF induction | **Recommend continuing** adalimumab, golimumab, or infliximab (**IV or SC** dosing) | Strong, moderate ([[acg-2025-uc]] Rec 42) |
-| Adalimumab vs vedolizumab | **Recommend vedolizumab over adalimumab** for induction **and** maintenance (VARSITY) | Strong, moderate ([[acg-2025-uc]] Rec 45) |
-| Concomitant [[mesalamine-5-asa\|5-aminosalicylate (5-ASA)]], induction | **Suggest against** added 5-ASA for clinical efficacy when an advanced therapy is used after 5-ASA failure | Conditional, very low ([[acg-2025-uc]] Rec 32) |
-| Concomitant 5-ASA, maintenance | **Suggest against** concomitant 5-ASA for maintenance efficacy on anti-TNF | Conditional, low ([[acg-2025-uc]] Rec 34) |
-| Losing response | **Measure serum drug levels + antidrug antibodies** (if insufficient drug present) to determine the reason | Conditional, very low ([[acg-2025-uc]] Rec 44) |
-| **After** TNF-antagonist failure | Prefer a **higher-efficacy** agent (tofacitinib, upadacitinib, ustekinumab) **or an intermediate-efficacy** agent | [[aga-2024-uc-pharm]] Rec 4 |
-| De-escalation in remission | **Suggests against withdrawing** TNF antagonists in patients in remission | [[aga-2024-uc-pharm]] |
-| Primary nonresponse | **Switch class, not within-class cycling** ([[acg-2025-uc]] key positioning) | — |
-
-**Positioning nuance:** The American College of Gastroenterology (ACG) considers **infliximab the preferred anti-TNF** in UC ([[acg-2025-uc]] Key Concept 45), while **vedolizumab is preferred over adalimumab** (Rec 45) — no head-to-head data place vedolizumab against infliximab. Network meta-analyses showed a **trend** toward higher remission rates with infliximab than adalimumab or golimumab, but several comparisons did not reach statistical significance ([[acg-2025-uc]]).
-
-**What changed from the older guideline.** [[acg-2019-uc]] made the same core anti-TNF recommendations (Rec 22 adalimumab/golimumab/infliximab for induction, strong/high; Rec 24 infliximab **plus** a thiopurine; Rec 34 continue anti-TNF for maintenance), but the **ASUC rescue trigger moved from "by 3–5 days" (2019 Rec 43) to "by day 3" (2025 Rec 51)**. Readers carrying the 2019 window should use **day 3**.
-
-### Acute Severe UC — Rescue Dosing Parameters
-
-The **ASUC pathway** (when to escalate, infliximab-vs-cyclosporine choice, bridging, colectomy) lives on [[ulcerative-colitis]] and [[toxic-megacolon]]. The **anti-TNF drug parameters** ([[acg-2025-uc]]):
+### ASUC — Anti-TNF Rescue Parameters
 
 | Parameter | Detail |
 |---|---|
-| Indication | Rescue in ASUC **failing to respond adequately to IV [[corticosteroids-ibd\|corticosteroids]] by day 3** — infliximab **or** [[calcineurin-inhibitors\|cyclosporine]] (Rec 51, Strong/moderate) |
-| Standard rescue dose | Infliximab **5 mg/kg** at weeks 0, 2, 6 (CySIF regimen) |
-| **Dose intensification** | Open-label RCT (138 patients) of intensified **10 mg/kg** vs standard **5 mg/kg** first dose showed **no difference** in day-7/14 clinical response, clinical remission, or colectomy at month 3 — **except** in patients with **serum albumin <2.5 g/dL**, where 10 mg/kg gave a higher day-7 clinical response. **Reserve intensified dosing for ASUC with low serum albumin**, with careful ongoing monitoring |
-| Accelerated induction | Retrospective study (50 patients) of 3 induction doses within a median 24 days: lower colectomy rate (**7% vs 40%**) than standard dosing, but **3-month colectomy rates were similar** — short-term benefit may not translate to long-term outcome |
-| Choosing infliximab over cyclosporine | Prior **immunomodulator failure** (cyclosporine treatment-failure and colectomy rates are significantly higher in these patients); **albumin <23 g/L** (CySIF post hoc favored infliximab); low serum **cholesterol or magnesium** (greater cyclosporine neurologic risk). See [[calcineurin-inhibitors]] for the cyclosporine side |
-| Maintenance after rescue | **Continue infliximab** for maintenance after ASUC remission achieved with infliximab (Rec 52, Strong/moderate) |
-| Surgical safety | Infliximab exposure does **not** increase postoperative complications — do not defer needed colectomy on that basis |
-| Salvage after failing the other agent | Remission **30%–40%** in small retrospective series either direction; **~60% require colectomy by 12 months**; severe adverse outcomes in **16%** (including one death from sepsis) — monitor closely |
+| Indication | Rescue in ASUC **failing to respond adequately to IV [[corticosteroids-ibd\|corticosteroids]] by day 3** — infliximab **or** [[calcineurin-inhibitors\|cyclosporine]] (Strong, moderate — [[acg-2025-uc]] Rec 51). The trigger was **"by 3–5 days"** in [[acg-2019-uc]] Rec 43; use **day 3** |
+| Standard rescue dose | Infliximab **5 mg/kg** at weeks 0, 2, 6 |
+| Dose intensification | An intensified **10 mg/kg** first dose was no better than **5 mg/kg** on day-7/14 response, remission or month-3 colectomy — **except** with **serum albumin <2.5 g/dL**. **Reserve intensified dosing for ASUC with low serum albumin**, monitoring closely |
+| Maintenance after rescue | **Continue infliximab** after ASUC remission achieved with infliximab (Strong, moderate — Rec 52) |
+| Surgical safety | Infliximab exposure does **not** increase postoperative complications — do not defer a needed colectomy on that basis |
+
+The escalation pathway, the infliximab-vs-cyclosporine choice, bridging, sequential salvage and colectomy decisions live on [[ulcerative-colitis]] and [[toxic-megacolon]].
 
 ---
 
 ## Combination Therapy with Immunomodulators
 
-**Why it exists:** antidrug antibodies against anti-TNF agents — **particularly infliximab and adalimumab** — can develop **as early as the first 100 days** of treatment, particularly on anti-TNF **monotherapy**. Adding a thiopurine or [[methotrexate]] improves pharmacokinetics and reduces immunogenicity ([[acg-2025-crohns]] Key Concept 43).
+**Why it exists:** antidrug antibodies — **particularly against infliximab and adalimumab** — can develop **as early as the first 100 days**, especially on anti-TNF monotherapy. Adding a thiopurine or [[methotrexate]] improves pharmacokinetics and reduces immunogenicity ([[acg-2025-crohns]] Key Concept 43).
 
-| Question | Answer | Strength / evidence |
-|---|---|---|
-| IV infliximab + [[thiopurines\|thiopurine]] vs either alone, agent-naïve CD | **Recommend combination** | Strong, moderate ([[acg-2025-crohns]] Rec 13) — SONIC |
-| Infliximab + thiopurine vs infliximab monotherapy, biologic- and immunomodulator-naïve CD | **Suggest combination** for induction and maintenance (induction RR 0.77, 0.64–0.92; maintenance RR 0.74, 0.60–0.90) | Conditional, moderate ([[aga-2021-crohns-pharm]] Rec 5A) |
-| Adalimumab + thiopurine vs adalimumab monotherapy, naïve CD | **Suggest combination** (DIAMOND: higher endoscopic remission at wk 26, 48/57 [**84.2%**] vs 37/58 [**63.2%** as printed in the source; 37/58 computes to 63.8%], *P* = .02; **no clinical remission difference**) | Conditional, **very low** ([[aga-2021-crohns-pharm]] Rec 5B) |
-| Infliximab + thiopurine when infliximab used for **UC** induction | **Recommend combination** | Strong; moderate for azathioprine ([[acg-2025-uc]] Rec 33) |
-| Withdrawing the immunomodulator (or the biologic) from stable combination therapy | **No recommendation — knowledge gap.** No significant difference in relapse over 12–24 months (RR 1.02, 0.71–1.46) | ([[aga-2021-crohns-pharm]] Rec 6) |
-| Combining vedolizumab or ustekinumab with an immunomodulator | **No recommendation — knowledge gap** | ([[aga-2021-crohns-pharm]] Rec 5C) |
+- **Agent-naïve CD:** IV infliximab **+ [[thiopurines\|thiopurine]] recommended over either alone** (Strong, moderate — [[acg-2025-crohns]] Rec 13); adalimumab + thiopurine over adalimumab alone is **suggested** (Conditional, very low — [[aga-2021-crohns-pharm]] Rec 5B).
+- **UC:** combination with a thiopurine **recommended** when infliximab is used for induction (Strong; moderate quality for azathioprine — [[acg-2025-uc]] Rec 33).
+- **Adjunctive (immunogenicity-suppressing) dosing differs from disease-controlling dosing:** 6-mercaptopurine or azathioprine at **reduced doses**, and **methotrexate 12.5–15 mg orally once weekly** ([[acg-2025-crohns]]) — ⚠ **off-label**: immunogenicity suppression, below the disease-controlling range. Full thiopurine dosing, pharmacogenomic testing and monitoring live on [[thiopurines]].
+- **Risk factors for low drug levels and loss of response:** active smoking, increased body mass index (BMI), and anti-TNF monotherapy — all associated with lower drug levels at week 14.
+- **Start it early:** earlier combination therapy may protect against immunogenicity and allow greater treatment persistence, so combination may be preferred in **higher-risk CD without risk factors precluding its use**.
+- **When combination is judged higher-risk** (see [[#Safety, Cautions, and Contraindications]]): **optimized infliximab monotherapy with targeted [[therapeutic-drug-monitoring-ibd|therapeutic drug monitoring (TDM)]]** is the alternative, avoiding long-term thiopurine toxicity.
 
-- **Adjunctive (immunogenicity-suppressing) dosing** differs from disease-controlling dosing: 6-mercaptopurine or azathioprine typically at **reduced doses**, and **methotrexate 12.5–15 mg orally once weekly** ([[acg-2025-crohns]]) — ⚠ **off-label**: this is immunogenicity suppression, not an approved disease-controlling indication, and the dose is below the disease-controlling range. Full thiopurine dosing, pharmacogenomic testing, and monitoring live on [[thiopurines]].
-- **Risk factors for low drug levels and loss of response:** active smoking, increased body mass index (BMI), and anti-TNF monotherapy — all associated with lower drug levels at week 14 ([[acg-2025-crohns]]).
-- **Earlier initiation of combination therapy** may be protective against immunogenicity, allowing greater treatment persistence — so combination may be preferred in **higher-risk CD without risk factors precluding its use** ([[acg-2025-crohns]]).
-- **When combination is judged higher-risk** (see [[#Safety, Cautions, and Contraindications]]): **optimized infliximab monotherapy with targeted [[therapeutic-drug-monitoring-ibd|therapeutic drug monitoring]]** is the alternative, avoiding long-term thiopurine toxicity ([[acg-2025-crohns]]).
-- **Counter-evidence the guideline itself carries:** in a post hoc analysis, at **similar infliximab serum concentrations**, azathioprine combination was **not** more effective than infliximab monotherapy — suggesting the immunomodulator's main effect is non-specifically raising trough levels. A meta-analysis of RCTs comparing **proactive** therapeutic drug monitoring (TDM) with conventional approaches **did not identify a clinical benefit** in anti-TNF-treated patients ([[acg-2025-crohns]]).
+> [!pearl] The immunomodulator's main effect may just be the trough
+> At **similar infliximab serum concentrations**, azathioprine combination was **not** more effective than infliximab monotherapy, and a meta-analysis of proactive-TDM trials found **no clinical benefit** in anti-TNF-treated patients ([[acg-2025-crohns]]) — what matters is reaching an adequate drug level, however you get there.
 
 ---
 
@@ -210,136 +123,90 @@ The **ASUC pathway** (when to escalate, infliximab-vs-cyclosporine choice, bridg
 
 ### Tuberculosis
 
-- Test for **latent and active tuberculosis**, and assess patient **risk factors for exposure**.
-- **Interferon-γ release assays** are likely to complement the tuberculin skin test and are **preferred in bacille Calmette-Guérin (BCG)-vaccinated patients**, if available.
-- **If latent tuberculosis (TB) is detected:** start antituberculous chemoprophylaxis **several weeks before** administering anti-TNF.
-- In an immunocompromised host with an initial **negative** tuberculin skin test, it may be appropriate to **repeat the test, classically 1–3 weeks later**.
-- The same testing/treatment should be considered before **corticosteroids or other immunomodulators** in patients at high risk of TB.
-- **Where the guidelines leave the skin test unquantified, the certolizumab label gives the cut-point:** consider an **induration ≥5 mm a positive tuberculin skin test — even in a patient previously BCG-vaccinated** ([[cimzia-2025-certolizumab-pegol-label]]). The same label also directs anti-tuberculous therapy before starting in a patient with past latent or active TB whose adequate treatment cannot be confirmed, and in a **test-negative patient who has risk factors**.
-- **A negative test does not end the obligation.** Monitor for active TB throughout treatment even after a negative latent screen — latent-TB tests may also be **falsely negative while on anti-TNF therapy** ([[cimzia-2025-certolizumab-pegol-label]] boxed warning).
+- Test for **latent and active tuberculosis (TB)**, and assess patient **risk factors for exposure**.
+- **Interferon-γ release assays** likely complement the tuberculin skin test and are **preferred in bacille Calmette-Guérin (BCG)-vaccinated patients**, where available.
+- **A positive tuberculin skin test is an induration ≥5 mm** — even in a patient previously BCG-vaccinated ([[cimzia-2025-certolizumab-pegol-label]]).
+- **Latent TB detected → antituberculous chemoprophylaxis several weeks before** giving the anti-TNF. Treat first also when past latent or active TB cannot be confirmed as adequately treated, and in a **test-negative patient who has risk factors** ([[cimzia-2025-certolizumab-pegol-label]]).
+- Immunocompromised host with an initial **negative** tuberculin skin test → it may be appropriate to **repeat it, classically 1–3 weeks later**.
+- Consider the same testing and treatment before **corticosteroids or other immunomodulators** in patients at high TB risk.
+
+> [!pitfall] A negative latent screen does not end the obligation
+> Monitor for active TB throughout treatment even after a negative latent screen — latent-TB tests may also be **falsely negative while on anti-TNF therapy** ([[cimzia-2025-certolizumab-pegol-label]] boxed warning).
 
 ### Hepatitis B
 
-Screen with a **full panel — hepatitis B surface antigen (HBsAg), hepatitis B core antibody (anti-HBc), hepatitis B surface antibody (anti-HBs)** — before initiating most advanced CD therapies, because immunosuppression can cause **hepatitis B virus (HBV) reactivation** ([[acg-2025-crohns]]):
+Screen the **full panel — hepatitis B surface antigen (HBsAg), hepatitis B core antibody (anti-HBc), hepatitis B surface antibody (anti-HBs)** — before initiating most advanced CD therapies, because immunosuppression can cause **hepatitis B virus (HBV) reactivation** ([[acg-2025-crohns]]):
 
 | Serology | Action |
 |---|---|
-| **Seronegative** for hepatitis B | **Vaccinate** (recombinant vaccine), ideally **before** starting biologic therapy; check serologic response after vaccination |
-| **HBsAg positive** (carrier) | Start **antiviral prophylaxis ([[hbv-nucleoside-analogs\|nucleoside/nucleotide analog]]) before** the biologic, to avoid hepatitis B flare and liver failure; continue before and during biologic/immunomodulator therapy |
+| **Seronegative** | **Vaccinate before** the biologic — schedule and post-series anti-HBs check on [[ibd-preventive-care]] |
+| **HBsAg positive** (carrier) | **Antiviral prophylaxis ([[hbv-nucleoside-analogs\|nucleoside/nucleotide analog]]) before** the biologic, to avoid hepatitis B flare and liver failure; continue before and during biologic/immunomodulator therapy |
 | **Actively infected** | **Defer** biologic initiation until an adequate duration of HBV antiviral therapy has been initiated |
-| **anti-HBc positive, HBsAg negative** | Further evaluation with **HBV DNA** to assess reactivation risk (reactivation risk **3.6%** in anti-HBc-positive patients with non-hematologic disease in a meta-analysis). Quantifying anti-HBc helps distinguish **occult** HBV from past infection; check HBV DNA at the time anti-HBc positivity is found and **periodically thereafter**, plus routine liver chemistries |
+| **anti-HBc positive, HBsAg negative** | **HBV DNA** to assess reactivation risk (**3.6%** in anti-HBc-positive patients with non-hematologic disease). Quantifying anti-HBc helps separate **occult** HBV from past infection; check HBV DNA when anti-HBc positivity is found and **periodically thereafter**, with routine liver chemistries |
 
 See [[chronic-hepatitis-b]] for the underlying disease.
 
-### Vaccination timing
+### Vaccination
 
-- Pneumococcal, varicella, human papillomavirus (HPV), inactivated influenza, hepatitis A, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), and herpes zoster vaccines should be initiated **ideally before** biologic therapy; vaccination status should be reviewed and updated **at diagnosis** ([[acg-2025-crohns]]).
-- **Live attenuated vaccines are avoided** on immunomodulator or biologic therapy (measles-mumps-rubella [MMR], vaccinia, yellow fever, live attenuated nasal influenza, varicella, oral polio, BCG), and after starting systemic immunosuppression. The full IBD vaccination and screening schedule — including the anti-TNF-specific points (high-dose influenza, HBV seroprotection algorithm, annual skin exams) — lives on [[ibd-preventive-care]]; not repeated here.
-
-### Before a biologic in ICI colitis
-
-If not already done before checkpoint-inhibitor therapy: test **hepatitis B (HBsAg, anti-HBs, anti-HBc)** and **latent tuberculosis**; **human immunodeficiency virus (HIV) and [[hepatitis-c|hepatitis C virus (HCV)]]** testing are also suggested ([[aga-2021-ici-colitis-hepatitis]]).
+- Inactivated vaccines should be initiated **ideally before** biologic therapy; the full IBD vaccination schedule, including the anti-TNF-specific points, lives on [[ibd-preventive-care]].
+- **Live attenuated vaccines are avoided** on immunomodulator or biologic therapy and after starting systemic immunosuppression — measles-mumps-rubella, vaccinia, yellow fever, live attenuated nasal influenza, varicella, oral polio, BCG ([[acg-2025-crohns]]).
 
 ---
 
-## Loss of Response — Therapeutic Drug Monitoring
+## Loss of Response
 
-**Minimal therapeutic target trough levels** — ACG 2025 relays these as *published guidance*, not as its own graded recommendation ([[acg-2025-crohns]]):
-
-| Agent | Target trough |
-|---|---|
-| Infliximab | **>5 μg/mL** |
-| Adalimumab | **>7.5 μg/mL** |
-| Certolizumab pegol | **>20 μg/mL** |
-
-**Three failure patterns — the trough + antibody pair assigns the mechanism, and the mechanism assigns the action** ([[acg-2025-crohns]]):
-
-| Pattern | Trough level | Antidrug antibodies | Interpretation | Action |
-|---|---|---|---|---|
-| **Mechanistic failure** | Therapeutic | Absent | Active mucosal ulceration despite adequate drug — disease is not TNF-driven | **Switch to another class/mechanism** (e.g. anti-IL or anti-integrin) |
-| **Non-immune pharmacokinetic failure** | Subtherapeutic | Absent | Rapid drug clearance, classically with a high inflammatory burden | **Dose optimize** |
-| **Immune-mediated failure** | Low or undetectable | **High titer** | Immunogenicity | **Add an immunomodulator or switch** |
-
-- Patients with a **history of anti-TNF antibodies are at greater risk of developing antidrug antibodies to the next agent in the same class** — so combination with a thiopurine or methotrexate should be considered when switching within class ([[acg-2025-crohns]]).
-- **HLA-DQA1\*05** (2023 meta-analysis of 13 studies, immune-mediated inflammatory diseases on TNF-α antagonists): **75% higher risk of immunogenicity** and **123% higher risk of secondary loss of response** vs non-carriers; positive predictive value **30%**, negative predictive value **80%**. **Proactive TDM can modify** the association. HLA-DQA1\*05 sits inside [[acg-2025-crohns]] Key Concept 22, which says these variants "should be measured in **select patients**."
-- In UC, measuring serum drug levels and antidrug antibodies on loss of response is a **conditional, very-low-quality** recommendation ([[acg-2025-uc]] Rec 44; unchanged from [[acg-2019-uc]] Rec 29).
+- Trough targets by agent, the trough-plus-antibody failure patterns (mechanistic, non-immune pharmacokinetic, immune-mediated) and the action each assigns live on [[therapeutic-drug-monitoring-ibd]]. In UC, measuring serum drug levels and antidrug antibodies on loss of response is Conditional, very low ([[acg-2025-uc]] Rec 44).
+- **A history of antidrug antibodies carries forward:** these patients are at greater risk of developing antibodies to the **next agent in the same class** — so combination with a thiopurine or methotrexate should be considered when switching within class ([[acg-2025-crohns]]).
+- **HLA-DQA1\*05 carriers** have higher rates of immunogenicity and of secondary loss of response on TNF-α antagonists: positive predictive value **30%**, negative predictive value **80%**, and **proactive TDM can modify** the association. [[acg-2025-crohns]] Key Concept 22 states these variants "should be measured in **select patients**."
 
 ---
 
 ## Safety, Cautions, and Contraindications
 
-**Overall profile is favorable**, but a small percentage of patients experience severe adverse effects. A meta-analysis of **21 anti-TNF clinical trials (5,356 CD patients)** found **no increase in serious infection, malignancy, or death** vs placebo — with the caveat that **1-year trials may not be large or long enough** to detect adverse events ([[acg-2025-crohns]]).
+**Populations at increased risk on anti-TNF therapy** ([[acg-2025-crohns]]): prior **demyelinating disorders** (e.g. optic neuritis, multiple sclerosis) · **congestive heart failure** · history of **lymphoma or other malignancies**.
 
-**Populations at increased risk on anti-TNF therapy** ([[acg-2025-crohns]]):
-
-- Prior **demyelinating disorders** (e.g. optic neuritis, multiple sclerosis)
-- **Congestive heart failure**
-- History of **lymphoma or other malignancies**
-
-**Hold rules for undrained infection:**
+**Hold for undrained infection:**
 
 | Situation | Rule |
 |---|---|
 | Intra-abdominal abscess **>2 cm** | Antibiotics **+ a drainage procedure**, and **hold immunosuppression until drainage is achieved** radiographically or surgically (Conditional, low — [[acg-2025-crohns]] Rec 35) |
-| Perianal abscess | **Drain + place setons before** starting an anti-TNF for perianal fistulizing disease (Key Concept 50) |
+| Perianal abscess | **Drain + place setons before** starting an anti-TNF for perianal fistulizing disease ([[acg-2025-crohns]] Key Concept 50) |
 
-**Pregnancy:** anti-TNF agents are **safe to use during preconception planning, throughout pregnancy, and postpartum** ([[acg-2025-crohns]]).
+**Stop rules and class warnings** ([[cimzia-2025-certolizumab-pegol-label]]): discontinue for a **serious infection or sepsis**; discontinue for a **lupus-like syndrome** (autoantibody formation is common, the syndrome rare); **stop the drug and start antiviral therapy** for HBV reactivation, with the safety of resuming unknown. **Avoid live vaccines** during or immediately before therapy, and update immunizations first. **Combination with another biologic** — anakinra, abatacept, rituximab, natalizumab or a second TNF blocker — **is not recommended**.
 
-- **Certolizumab's placental transfer is negligible to low** — with the last dose a mean 19 days before delivery, infant plasma concentrations at birth were **at least 75% below maternal**, and **no dosage adjustment is required in pregnancy** ([[cimzia-2025-certolizumab-pegol-label]]).
-- **Disease activity is itself the exposure that matters:** active CD in pregnancy correlates with fetal loss, **preterm delivery (<37 wk)**, **low birth weight (<2500 g)** and small-for-gestational-age birth.
-- **Breastfeeding:** minimal certolizumab in breast milk, and **undetectable plasma levels in 9 breastfed infants at 4 weeks postpartum**.
-- ⚠ **Unresolved:** the safety of **live or live-attenuated vaccines in an infant exposed in utero** is unknown, and certolizumab may be **eliminated more slowly in infants than adults**. The label states this plainly; no ingested guideline answers it.
+**Pregnancy and lactation**
+- Anti-TNF agents are **safe during preconception planning, throughout pregnancy, and postpartum** ([[acg-2025-crohns]]).
+- **Certolizumab placental transfer is negligible to low** — with a last dose a mean 19 days before delivery, infant plasma concentrations at birth were **at least 75% below maternal**, and **no dosage adjustment is required in pregnancy**. Breast milk levels are minimal, with **undetectable plasma levels in breastfed infants at 4 weeks postpartum** ([[cimzia-2025-certolizumab-pegol-label]]).
+- ⚠ **Unresolved:** the safety of **live or live-attenuated vaccines in an infant exposed in utero** is unknown, and certolizumab may be **eliminated more slowly in infants than adults**.
 
-**Malignancy:** the class-level cancer risk figures (melanoma conflicting; lymphoma mostly not increased on monotherapy but consistently increased **combined with a thiopurine**; **hepatosplenic T-cell lymphoma** in young males on combination therapy, often fatal) and the drug-by-cancer-type stop/continue grid live on [[ibd-in-malignancy]] — not repeated here. [[acg-2025-crohns]] adds that where combination therapy is judged higher-risk, **optimized infliximab monotherapy with targeted TDM** is the alternative.
+**Malignancy.** Class-level cancer risk and the drug-by-cancer-type stop/continue grid live on [[ibd-in-malignancy]].
 
-**Oncology-specific cautions** ([[aga-2021-ici-colitis-hepatitis]]):
-
-| Situation | Guidance |
-|---|---|
-| **Hematologic malignancy** | **Avoid infliximab** — TNF-α inhibitors are associated with rare lymphomas; use vedolizumab instead |
-| **Severe congestive heart failure** | Use infliximab **with caution** |
-| **[[immune-checkpoint-inhibitor-hepatitis\|ICI hepatitis]]** | Use infliximab **with caution** — potential **idiosyncratic liver toxicity** and **no demonstrated clinical benefit** in this population |
-| **Both ICI hepatitis and enterocolitis** | **Case-by-case** — infliximab can itself induce a rare hepatitis |
-| Cancer outcomes | One report suggests **worse cancer outcomes** with infliximab, but steroid dose and duration were **not adequately controlled for** |
-
-*Note the internal tension the Clinical Practice Update (CPU) names explicitly: infliximab is a **first-choice rescue** for glucocorticoid-refractory ICI colitis but is to be used **with caution** in ICI hepatitis.*
+**Oncology cautions** ([[aga-2021-ici-colitis-hepatitis]]): **avoid infliximab in hematologic malignancy** — TNF-α inhibitors are associated with rare lymphomas, so use vedolizumab instead; **use with caution in severe congestive heart failure**; **use with caution in [[immune-checkpoint-inhibitor-hepatitis|ICI hepatitis]]** — potential **idiosyncratic liver toxicity** and **no demonstrated clinical benefit** in that population, even though infliximab is a first-choice rescue for glucocorticoid-refractory ICI colitis. Further ICI-specific cautions: [[immune-checkpoint-inhibitor-colitis]].
 
 > [!pitfall] A prolonged aPTT on certolizumab is usually an assay artifact
-> Certolizumab **falsely elevates the activated partial thromboplastin time (aPTT)** in patients with entirely normal coagulation — documented on the PTT–Lupus Anticoagulant and STA-PTT Automate (Diagnostica Stago) and HemosIL APTT-SP and lyophilized-silica (Instrumentation Laboratories) assays, and possibly others. **Prothrombin time and thrombin time are unaffected, and there is no effect on coagulation *in vivo*** ([[cimzia-2025-certolizumab-pegol-label]]). Confirm with PT/TT before cancelling a procedure or working up a coagulopathy.
+> Certolizumab **falsely elevates the activated partial thromboplastin time (aPTT)** in patients with entirely normal coagulation — documented on several commercial aPTT assays and possibly others. **Prothrombin time and thrombin time are unaffected, and there is no effect on coagulation *in vivo*** ([[cimzia-2025-certolizumab-pegol-label]]). Confirm with prothrombin time and thrombin time before cancelling a procedure or working up a coagulopathy.
 
-**Other class warnings the certolizumab label states as stop rules** ([[cimzia-2025-certolizumab-pegol-label]]): discontinue for a **serious infection or sepsis**; discontinue for a **lupus-like syndrome** (autoantibody formation is common, the syndrome rare); **stop the drug and start antiviral therapy** for HBV reactivation, with the safety of resuming unknown. **Avoid live vaccines** during or immediately before therapy, and **update immunizations first**. **Combination with another biologic** — anakinra, abatacept, rituximab, natalizumab or a second TNF blocker — **is not recommended**.
+*The guidelines cited here do not cover infusion reactions, injection-site reactions, or paradoxical psoriasis — consult product labeling.*
 
 ---
 
 ## Biosimilars
 
-- **Biosimilar infliximab, adalimumab, and ustekinumab are effective** in moderate-to-severe CD and **can be used for de novo induction** ([[acg-2025-crohns]] Key Concept 44).
-- Data **support transitioning or switching** to biosimilar infliximab or adalimumab in patients with CD in **stable disease** (Key Concept 45). NOR-SWITCH (randomized, non-inferiority, phase 4; CD, UC, spondyloarthritis, rheumatoid arthritis (RA), psoriatic arthritis, plaque psoriasis): switching from originator infliximab to CT-P13 was **not inferior** to continued originator therapy; the open-label extension showed no efficacy or safety differences through week 78. Pharmacokinetics and immunogenicity rates were similar.
-- [[acg-2025-uc]] states biosimilars (infliximab, adalimumab, ustekinumab) are **equivalent** and switching is acceptable.
-- **Interchangeable** biosimilars can be substituted at the pharmacy level without provider intervention; whether a pharmacist may substitute is determined by **each state's pharmacy board**, not by the FDA interchangeability designation ([[acg-2025-crohns]]).
+- **Biosimilar infliximab, adalimumab, and ustekinumab are effective** in moderate-to-severe CD and **can be used for de novo induction** ([[acg-2025-crohns]] Key Concept 44); [[acg-2025-uc]] states biosimilars are **equivalent** and switching is acceptable.
+- Data **support transitioning or switching** to biosimilar infliximab or adalimumab in patients with **stable disease** (Key Concept 45). All IBD switch evidence is **infliximab CT-P13 only**; no primary equivalence study of any biosimilar has been performed in an IBD population (it rests on extrapolation from rheumatology), and **adalimumab-biosimilar switching and multiple or serial switching are unstudied** ([[aga-2018-biologic-biosimilar-switching-ibd]]).
+- **New start and switch are different decisions.** Biosimilars are supported for **new starts** of infliximab; transitioning a patient **already in remission** (either direction) is an individualized decision by the IBD provider, with the patient informed and involved.
+- **Avoid nonmedical switching during the antenatal period** — pharmacokinetic, immunogenicity, efficacy and safety data are limited in children and in pregnant women in stable remission.
+- **Interchangeable** biosimilars can be substituted at the pharmacy level without provider intervention; whether a pharmacist may substitute is determined by **each state's pharmacy board**, not by the interchangeability designation ([[acg-2025-crohns]]).
+- Commercial therapeutic drug assays **perform on the biosimilar as they do on the originator**; an antidrug-antibody result against one product applies to the other.
 
-**⚠ Antidrug antibodies cross-react — do not switch across them.** Anti-originator-infliximab antibodies both **recognize and functionally inhibit CT-P13** to a similar degree (125 IBD patients). A patient with antidrug antibodies to originator infliximab must **not** be switched to the biosimilar, **or vice versa** — expect the same reaction, with risk of immediate hypersensitivity up to anaphylaxis ([[aga-2018-biologic-biosimilar-switching-ibd]]).
-
-- Commercial **therapeutic drug assays perform on the biosimilar as they do on the originator**; an antidrug-antibody result against one product applies to the other. See [[therapeutic-drug-monitoring-ibd]].
-- **New start vs switch are different decisions.** Data support biosimilars for **new starts** of infliximab; transitioning a patient **already in remission** (either direction) is an individualized decision by the IBD provider, with the patient informed and involved ([[aga-2018-biologic-biosimilar-switching-ibd]]).
-- **NOR-SWITCH detail** — 482 patients (155 CD, 93 UC), 52 wk, randomized double-blind noninferiority. Disease worsening **26.2% originator vs 29.6% CT-P13** overall; **CD 21.2% vs 36.5%** (risk difference **−14.3%; 95% CI −29.3 to 0.7**), **UC 9.1% vs 11.9%** (**−2.6%; 95% CI −15.2 to 10.0**). ⚠ The trial was **not powered for the CD and UC subgroups**, and its "disease worsening" endpoint is **not validated**. **SECURE:** infliximab levels 16 wk after switch were noninferior to baseline in both CD and UC.
-- **No primary equivalence study of any biosimilar has been performed in an IBD population** — IBD use rests on extrapolation from rheumatology (PLANETAS in ankylosing spondylitis, PLANETRA in RA). All IBD switch evidence is **infliximab CT-P13 only**; adalimumab-biosimilar switching and **multiple or serial switching are unstudied**.
-- **Pregnancy and children:** pharmacokinetic (PK), immunogenicity, efficacy and safety data are limited in children and in pregnant women in stable remission → **avoid nonmedical switching during the antenatal period**.
-
----
-
-## Gaps
-
-- *The guidelines cited here do not cover **infusion reactions, injection-site reactions, or paradoxical psoriasis** or their management; consult product labeling. Drug-induced lupus is now covered for certolizumab — discontinue if a lupus-like syndrome develops ([[cimzia-2025-certolizumab-pegol-label]]); the other three agents' labels are not ingested.*
-- *The guidelines do not give **certolizumab pegol or golimumab regulatory approval status by indication**. The class table above reports only which agents each guideline **recommends** for each disease, which is not the same thing.*
-- *The CD positioning table draws on [[acg-2025-crohns]] and [[aga-2021-crohns-pharm]]; the latter predates the [[il-23-and-il-12-23-inhibitors|interleukin-23 (IL-23) p19 inhibitors]] and [[jak-inhibitors|Janus kinase (JAK) inhibitors]] entirely. For newer Crohn's drug positioning see [[aga-2025-crohns-pharm]] (AGA Living Guideline, 2025).*
-- *Anti-TNF use in **[[pouchitis]]** is covered on that page, sourced separately.*
+> [!pitfall] Antidrug antibodies cross-react — do not switch across them
+> Antibodies to originator infliximab both **recognize and functionally inhibit CT-P13** to a similar degree. A patient with antidrug antibodies to originator infliximab must **not** be switched to the biosimilar, **or vice versa** — expect the same reaction, with risk of immediate hypersensitivity up to anaphylaxis ([[aga-2018-biologic-biosimilar-switching-ibd]]).
 
 ---
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[thiopurines]], [[calcineurin-inhibitors]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[immune-checkpoint-inhibitor-colitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[toxic-megacolon]], [[pouchitis]], [[chronic-hepatitis-b]], [[uc-vs-crohns-comparison]], [[ibd-endoscopic-scoring]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]]
+[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[perianal-fistulizing-crohns-disease]], [[thiopurines]], [[methotrexate]], [[vedolizumab]], [[calcineurin-inhibitors]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[immune-checkpoint-inhibitor-colitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[toxic-megacolon]], [[pouchitis]], [[chronic-hepatitis-b]], [[uc-vs-crohns-comparison]], [[ibd-endoscopic-scoring]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]]
 
 ---
 

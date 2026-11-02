@@ -3,8 +3,8 @@ title: "Small Bowel Motility"
 category: concept
 tags: [small-bowel, motility, mmc, migrating-motor-complex, sibo, dysmotility]
 created: 2026-05-19
-updated: 2026-09-05
-sources: [acg-2020-sibo]
+updated: 2026-11-02
+sources: [acg-2020-sibo, aga-2020-sibo]
 ---
 
 Small bowel motility is one of several mechanisms that keep the small intestine relatively sterile. Its failure produces stasis, and stasis is the common final pathway to [[small-intestinal-bacterial-overgrowth|small intestinal bacterial overgrowth (SIBO)]] — which [[acg-2020-sibo|American College of Gastroenterology (ACG) 2020]] frames as "in almost all instances an epiphenomenon related to something else."
@@ -30,20 +30,22 @@ Small bowel motility is one of several mechanisms that keep the small intestine 
 
 ## What Disturbs Motility (→ SIBO)
 
-- **Neuropathy or myopathy** — e.g. scleroderma (see [[esophageal-dysfunction-systemic-disease]]), diabetes
-- **Medications that reduce propulsive movement** — opioids, antidiarrheals, anticholinergics
+**Three mechanisms by which motility itself fails:**
+
+- **Neuropathy or myopathy** — e.g. scleroderma (see [[esophageal-dysfunction-systemic-disease]]), diabetic autonomic neuropathy
+- **Drugs that reduce propulsive movement** — opioids, antidiarrheals, anticholinergics
 - **Post-surgical** — gastrojejunostomy **with a blind loop**; injury to the **vagus nerve**
 
-## Anatomic / Stasis Risk Factors (non-motility)
+The full list of disorders that act through impaired motility — and the parallel anatomic, hypochlorhydric, immune and multifactorial columns — is [[aga-2020-sibo]] Table 1, which lives on [[small-intestinal-bacterial-overgrowth]]. **Anatomic and stasis risk factors are not motility failures** and belong there too, not here.
 
-- **Colectomy**, partial or complete, **especially with loss of the ileocecal valve** → retrograde colonization of the small bowel
-- Small bowel **diverticulosis**, **fistula**, post–**[[bariatric-surgery|Roux-en-Y]]**, **ileocolonic anastomosis**, post-radiation **stricture/adhesion** — all show higher SIBO prevalence
-- **Advanced age** and **female sex** are associated with higher SIBO likelihood
-- ⚠ **Strictures causing partial/fixed obstruction** are an obvious theoretical cause of stasis, but ACG 2020 states there are **no solid peer-reviewed publications validating** them as a SIBO risk factor.
+> [!pearl] "Consider SIBO any time there is small intestinal stasis"
+> The practical rule both societies converge on ([[aga-2020-sibo]] Table 3). Motility failure is one route to stasis; anatomy, surgery and strictures are others, and the rule does not care which produced it.
+
+⚠ **Strictures causing partial or fixed obstruction** are an obvious theoretical cause of stasis, but [[acg-2020-sibo]] states there are **no solid peer-reviewed publications validating** them as a SIBO risk factor — while [[aga-2020-sibo]] Table 1 lists strictures ([[crohns-disease\|Crohn's disease]], radiation, surgery) as an anatomic cause without that caveat. Both are 2020 and same-tier; the disagreement is unresolved.
 
 ## Association With IBS
 
-- Meta-analyses suggest up to **78%** of [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]] subjects have SIBO, though cause vs effect remains unresolved. ACG 2020 suggests breath testing for SIBO in IBS (conditional, very low quality). See [[small-intestinal-bacterial-overgrowth]] for test thresholds.
+- SIBO and [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]] overlap heavily, but **cause vs effect is unresolved** and the reported prevalence depends almost entirely on which test was used. [[acg-2020-sibo]] suggests breath testing for SIBO in IBS (conditional, very low quality). **The prevalence figures, the test-dependence that explains their spread, and the test thresholds are all on [[small-intestinal-bacterial-overgrowth]]** — read them there rather than from a single headline percentage.
 
 ## See Also
 
@@ -54,3 +56,4 @@ Small bowel motility is one of several mechanisms that keep the small intestine 
 ## Sources
 
 1. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
+2. [[aga-2020-sibo|AGA Clinical Practice Update on Small Intestinal Bacterial Overgrowth: Expert Review (2020)]]

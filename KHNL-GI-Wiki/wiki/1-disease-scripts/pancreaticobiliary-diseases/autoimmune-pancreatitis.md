@@ -3,7 +3,7 @@ title: "Autoimmune Pancreatitis (AIP / IDCP)"
 category: disease-script
 tags: [autoimmune-pancreatitis, aip, idcp, igg4, igg4-related-disease, pancreas, obstructive-jaundice, corticosteroids, rituximab, icdc, pancreatic-cancer]
 created: 2026-09-04
-updated: 2026-10-31
+updated: 2026-11-02
 sources: [aga-2019-autoimmune-pancreatitis, shimosegawa-2011-icdc-autoimmune-pancreatitis, okazaki-2017-aip-treatment-consensus]
 ---
 
@@ -63,6 +63,7 @@ A **chronic, steroid-responsive fibroinflammatory disease of the pancreas** whos
 
 - Output: **type 1 AIP**, **type 2 AIP (IDCP)**, or **AIP not otherwise specified**.
 - Each feature scores **level 1** (higher reliability) or **level 2**; combined with whether parenchymal imaging is *typical* or *indeterminate*, this gives **definitive** or **probable** disease. An optional sixth criterion, **Rt (response to steroid)**, applies only in the indeterminate-imaging rows ([[shimosegawa-2011-icdc-autoimmune-pancreatitis]]).
+- **A case that meets none of the combinations below — including histologically unconfirmed but clinically suspected type 2 — is categorised "probable AIP."**
 - **Burnt-out AIP is outside these criteria.**
 
 #### ICDC Level 1 vs Level 2 — Type 1 AIP
@@ -72,7 +73,7 @@ A **chronic, steroid-responsive fibroinflammatory disease of the pancreas** whos
 | **P** | Parenchymal imaging | **Typical:** diffuse enlargement with delayed enhancement (± rim-like enhancement) | **Indeterminate** (incl. atypical): segmental/focal enlargement with delayed enhancement |
 | **D** | Ductal imaging (endoscopic retrograde pancreatography, ERP) | **Long (>1/3 the main pancreatic duct) or multiple strictures**, without marked upstream dilatation | Segmental/focal narrowing without marked upstream dilatation (**duct <5 mm**) |
 | **S** | Serology | **IgG4 >2× upper limit of normal (ULN)** — see [[#Serum IgG4]] | IgG4 **1–2× ULN** |
-| **OOI** | Other organ involvement | **a** Extrapancreatic histology, **any 3 of:** marked lymphoplasmacytic infiltration with fibrosis and no granulocytic infiltration · storiform fibrosis · obliterative phlebitis · **>10 IgG4-positive cells/high-power field (HPF)**. **b** Typical radiology, **≥1 of:** segmental/multiple proximal (hilar/intrahepatic), or proximal **and** distal, bile duct stricture · retroperitoneal fibrosis | **a** Extrapancreatic histology **including endoscopic bile-duct biopsy**, **both of:** marked lymphoplasmacytic infiltration without granulocytic infiltration · >10 IgG4-positive cells/HPF. **b** Physical/radiological, **≥1 of:** symmetrically enlarged salivary/lachrymal glands · renal involvement of the type described with AIP |
+| **OOI** | Other organ involvement | ***a* or *b*.** **a** Extrapancreatic histology, **any 3 of:** marked lymphoplasmacytic infiltration with fibrosis and no granulocytic infiltration · storiform fibrosis · obliterative phlebitis · **>10 IgG4-positive cells/high-power field (HPF)**. **b** Typical radiology, **≥1 of:** segmental/multiple proximal (hilar/intrahepatic), or proximal **and** distal, bile duct stricture · retroperitoneal fibrosis | ***a* or *b*.** **a** Extrapancreatic histology **including endoscopic bile-duct biopsy**, **both of:** marked lymphoplasmacytic infiltration without granulocytic infiltration · >10 IgG4-positive cells/HPF. **b** Physical/radiological, **≥1 of:** symmetrically enlarged salivary/lachrymal glands · renal involvement of the type described with AIP |
 | **H** | Pancreatic histology | **LPSP (core biopsy or resection), ≥3 of:** periductal lymphoplasmacytic infiltrate without granulocytic infiltration · obliterative phlebitis · storiform fibrosis · >10 IgG4-positive cells/HPF | **LPSP (core biopsy), any 2** of the same four |
 | **Rt** | Response to steroid | **Rapid (≤2 weeks) radiologically demonstrable resolution or marked improvement** of pancreatic/extrapancreatic manifestations | — |
 
@@ -91,7 +92,7 @@ A **chronic, steroid-responsive fibroinflammatory disease of the pancreas** whos
 | | Criterion | **Level 1** | **Level 2** |
 |---|---|---|---|
 | **OOI** | Other organ involvement | — | **Clinically diagnosed [[inflammatory-bowel-disease\|inflammatory bowel disease]]** |
-| **H** | Pancreatic histology | **IDCP — both of:** granulocytic infiltration of the duct wall (granulocytic epithelial lesion, GEL) ± granulocytic acinar inflammation; **absent or scant (0–10 cells/HPF) IgG4-positive cells** | **Both of:** granulocytic **and** lymphoplasmacytic acinar infiltrate; absent/scant (0–10 cells/HPF) IgG4-positive cells |
+| **H** | Pancreatic histology (core biopsy or resection) | **IDCP — both of:** granulocytic infiltration of the duct wall (granulocytic epithelial lesion, GEL) ± granulocytic acinar inflammation; **absent or scant (0–10 cells/HPF) IgG4-positive cells** | **Both of:** granulocytic **and** lymphoplasmacytic acinar infiltrate; absent/scant (0–10 cells/HPF) IgG4-positive cells |
 
 *P, D and Rt are defined identically to type 1.*
 
@@ -127,6 +128,8 @@ flowchart TD
 - **Prednisone 0.6–1 mg/kg**; reassess **imaging and CA 19-9 at 2 weeks** ([[shimosegawa-2011-icdc-autoimmune-pancreatitis]]).
 - **Endpoint is radiological, not symptomatic** — definite improvement of imaging abnormalities including biliary strictures and pancreatic enlargement. Symptomatic improvement and a sense of well-being do not count.
 - **A rising CA 19-9 means the diagnosis is wrong.**
+- **A fall in IgG4 is also not an endpoint** — steroids lower IgG4 in AIP, but falsely elevated IgG4 in pancreatic cancer and other non-AIP states falls too, so an IgG4 "response" cannot diagnose AIP.
+- **Pancreatic cancer–induced pancreatitis can improve radiologically on its own** and be mistaken for steroid response.
 - Full resolution may take **weeks to months**, sometimes with gland atrophy.
 - **Only after a negative cancer workup including [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]-guided fine-needle aspiration, and only by pancreatologists.**
 
@@ -155,6 +158,8 @@ AIP belongs to the spectrum of **IgG4-related disorders**: **~50% have OOI, ~50%
 - IgG4-related plasmacytic exocrinopathy of the salivary gland
 - Pulmonary interstitial fibrosis or nodules
 - Mediastinal or retroperitoneal fibrosis
+
+**What does not count as OOI:** unrelated autoimmune disorders — rheumatoid arthritis, psoriatic arthropathy, true seropositive Sjögren — are not typically associated with AIP and must not be scored as OOI ([[shimosegawa-2011-icdc-autoimmune-pancreatitis]]). OOI may be established by **histology, by imaging** (proximal bile duct stricture, retroperitoneal fibrosis) **or by physical examination** (salivary gland enlargement).
 
 **IDCP has no IgG4-related disease association** — its systemic association is **[[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]**, especially **[[ulcerative-colitis|ulcerative colitis]]**: a **majority of IDCP patients are diagnosed with IBD before or concurrently with IDCP**.
 
@@ -186,7 +191,7 @@ The type determines the serology, the histology to ask the pathologist for, the 
 | Response to steroids | **~100%** | **~100%** |
 | **Relapse risk** | **Up to 60%** | **<10%** |
 
-*Table 1 of [[aga-2019-autoimmune-pancreatitis]], recreated.*
+*Table 1 of [[aga-2019-autoimmune-pancreatitis]], recreated; the source footnotes it as adapted from Hart PA et al., Recent Advances in Autoimmune Pancreatitis, Gastroenterology 2015.*
 
 - **The two discriminating histologic findings are the granulocyte epithelial lesion (IDCP only) and obliterative phlebitis (AIP).** The other four are present in both and do not separate them.
 - **No reliable serologic marker exists for IDCP** — type 2 is a tissue diagnosis. The table gives IgG4 elevation in ~25% of IDCP while the prose states an elevated IgG4 is not characteristic of it: a minority have one, and it carries no diagnostic weight.
@@ -196,8 +201,8 @@ The type determines the serology, the histology to ask the pathologist for, the 
 
 *Workup: see [[jaundice]] and [[recurrent-acute-pancreatitis]].*
 
-- **[[pancreatic-cancer|Pancreatic adenocarcinoma]]** — the differential that defines this disease ([[#AIP vs Pancreatic Cancer on CT/MRI]]). **Assume the mimic until excluded**; management warrants close follow-up and monitoring for underlying malignancy, and **surgery is indicated when malignancy is suspected**.
-- **Chronic pancreatitis of other cause** — shares the long-term sequelae (exocrine insufficiency, diabetes).
+- **[[pancreatic-cancer|Pancreatic adenocarcinoma]]** — the differential that defines this disease ([[#AIP vs Pancreatic Cancer on CT/MRI]]). **Assume the mimic until excluded**; management warrants close follow-up and monitoring for underlying malignancy ([[#Biliary Drainage and Surgery]]).
+- **Chronic pancreatitis of other cause** — AIP is estimated at **5%–6% of all chronic pancreatitis** and shares its long-term sequelae (exocrine insufficiency, diabetes).
 - **AIP vs IDCP** — the two types are each other's differential; separated by age, sex, serology, OOI, IBD association and histology ([[#Classification / Typing]]).
 - **Other causes of a biliary stricture** — AIP produces both a distal stricture (head swelling) and a proximal one, so it enters that differential from both ends.
 
@@ -210,13 +215,17 @@ The type determines the serology, the histology to ask the pathologist for, the 
 
 | | Value |
 |---|---|
-| ICDC **level 1** cutoff (AIP) | **≥2× ULN = 280 mg/dL** |
+| ICDC **level 1** cutoff (AIP) | **IgG4 >2× ULN** ([[shimosegawa-2011-icdc-autoimmune-pancreatitis]]); reported as **≥2× ULN = 280 mg/dL** by [[aga-2019-autoimmune-pancreatitis]] |
+| ICDC **level 2** | **IgG4 1–2× ULN** |
 | Sensitivity / specificity | **53% / 99%** |
 | Elevated in AIP overall | **~66%** |
 | False positives in pancreatic cancer | Elevated IgG4 can occur; **only 1% exceed 280 mg/dL** |
 | Utility in **IDCP** | **None** — no reliable serologic marker exists for type 2 |
-| Utility **after** treatment | **None** — no value for predicting relapse or diagnosing recurrence |
+| Utility **after** treatment | **None** for predicting relapse or diagnosing recurrence ([[aga-2019-autoimmune-pancreatitis]]) — but see [[#Relapse and Maintenance]] |
 
+- **Score the fold elevation, not the absolute value.** The ICDC uses fold elevation above the local upper limit of normal (ULN) precisely because the ULN varies between laboratories; the 280 mg/dL figure is the equivalent printed by [[aga-2019-autoimmune-pancreatitis]], not an ICDC cut-point.
+- **Only serum IgG4 counts.** IgG, IgG4 and antinuclear antibody titres are all commonly raised in AIP, but each is falsely raised in pancreatic cancer and other disorders — measured as a panel, false positivity reaches **up to 40%** — so the ICDC admits serum IgG4 alone as the serologic criterion.
+- **Serology is never enough on its own:** a raised marker does not diagnose AIP unless it sits alongside a typical imaging finding.
 - **The 53% sensitivity is the operative number:** a normal IgG4 does not exclude AIP, and about half of AIP patients never reach level 1 on serology — hence the four other cardinal features.
 - Biliary IgG4 cut-points (in g/L, for excluding IgG4-SC during a [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]] workup) answer a different question and live on [[igg4-related-cholangitis]] — **do not merge the thresholds**.
 
@@ -234,12 +243,13 @@ The type determines the serology, the histology to ask the pathologist for, the 
 - **[[mri-mrcp|Magnetic resonance cholangiopancreatography (MRCP)]] or [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]** may show **diffuse or multifocal narrowing of the pancreatic duct *without upstream dilatation*.**
 - **Absent upstream dilatation is the discriminator** — it separates inflammatory duct narrowing from an obstructing tumour.
 - ERCP here is diagnostic imaging, not therapy ([[#Biliary Drainage and Surgery]]).
+- **Where ERP earns its place in the West:** diagnostic pancreatograms are rarely done in obstructive jaundice, so the pancreatogram serves as **collateral evidence** when parenchymal imaging is not typical, or in a seronegative patient without OOI.
 
 ### Histology and Tissue Acquisition
 
 - **Needle choice decides the diagnosis.** EUS-guided fine-needle **aspiration** (cytology) has **poor sensitivity even with larger-diameter needles** — the diagnosis is architectural (storiform fibrosis, obliterative phlebitis, periductal inflammation, granulocyte epithelial lesions) and an aspirate does not preserve architecture.
 - **EUS-guided fine-needle *biopsy* (core) is what is needed** — preserves gland architecture; despite concern for post-procedure complications, smaller cohort studies showed safety and efficacy in AIP.
-- **When the ICDC ask for core biopsy:** **focal mass and/or obstructive jaundice, cancer excluded, diagnosis unclear.**
+- **When core biopsy is asked for:** **focal mass and/or obstructive jaundice, cancer excluded, diagnosis unclear** ([[aga-2019-autoimmune-pancreatitis]], citing the ICDC).
 - **IgG4 immunostaining** separates the types: **≥10 cells/HPF (AIP)** vs **<10 cells/HPF (IDCP)**.
 - **Do not re-biopsy after treatment** ([[#Monitoring After Treatment]]).
 
@@ -249,10 +259,15 @@ Management of both AIP and IDCP is **primarily medical**, with **close follow-up
 
 ### Who Is Treated
 
+*Recommendation levels in brackets are [[okazaki-2017-aip-treatment-consensus]]'s own: the panel states it could not apply GRADE and used the United States Preventive Services Task Force scale instead — **A** strongly recommendable · **B** ordinarily recommendable · **C** unrecommendable · **D** strongly unrecommendable · **I** conflicting benefits and harms.*
+
 | Patient | Treat? |
 |---|---|
-| **Symptomatic** — obstructive jaundice, [[acute-pancreatitis\|acute pancreatitis]], abdominal pain, back pain | **Considered for treatment** |
-| **Asymptomatic** | **Only** for a **persistent pancreatic mass on imaging**, **or** persistent liver function test abnormalities in the setting of **IgG4-SC / other organ involvement** |
+| **Symptomatic** — pancreatic: obstructive jaundice, [[acute-pancreatitis\|acute pancreatitis]], abdominal pain, back pain; **or** other organ involvement, e.g. jaundice from a bile-duct stricture | **Indication for treatment** [B] |
+| **Asymptomatic** | **Only** for a **persistent pancreatic mass on imaging**, **or** persistent liver function test abnormalities in the setting of **IgG4-SC / other organ involvement** [B] |
+| **Asymptomatic, neither of those** | **Watchful waiting** — about **10%–25% improve spontaneously** without any intervention |
+
+- **Urgent indications:** proximal biliary stricture with superimposed infectious cholangitis; irreversible hepatic fibrosis or cirrhosis; pancreatic involvement heading for irreversible exocrine and endocrine failure.
 
 ### Corticosteroids
 
@@ -260,7 +275,10 @@ Management of both AIP and IDCP is **primarily medical**, with **close follow-up
 - **Steroids alone treat the jaundice** in the mild, uninfected case — no stent (see below).
 - **Failure to respond is a diagnostic event, not a dosing one** — the only branch for non-response is to reconsider the diagnosis, in a disease whose chief mimic is [[pancreatic-cancer|pancreatic cancer]]. Induction, taper and the non-response branches are in the [[#Management Algorithm]] ([[aga-2019-autoimmune-pancreatitis]], Figure 1).
 
-**Induction and taper ([[okazaki-2017-aip-treatment-consensus]], recommendation level in brackets):**
+- **Steroid is the first-line agent in every patient with active untreated AIP unless it is contraindicated** [A]. Before starting, **control blood glucose and deal with biliary drainage** where indicated.
+- **Known or high risk of severe steroid intolerance → rituximab induction instead** (immunomodulators only if rituximab is unavailable).
+
+**Induction and taper ([[okazaki-2017-aip-treatment-consensus]]):**
 
 | Step | Regimen |
 |---|---|
@@ -296,11 +314,11 @@ flowchart TD
 
 ### Biliary Drainage and Surgery
 
-- **[[ercp|ERCP]] and biliary stenting are *rarely* indicated in the setting of obstructive jaundice.** This is the counterintuitive call and the reason the diagnosis is worth making.
-  - The case *for* stenting, which the source acknowledges: it **reduces the risk of [[acute-cholangitis|cholangitis]]** and **facilitates [[brush-cytology|cytologic brushings]]** to distinguish benign from malignant strictures.
-  - **The ICDC recommendation nonetheless: treat mild jaundice with no signs of infection with steroid therapy alone.**
-  - **The decision hinges on two qualifiers — *mild* jaundice and *no signs of infection*.** The guideline does **not** define "mild" (no bilirubin threshold) and does not state what to do for non-mild jaundice.
-- **Surgical interventions are indicated in the setting of suspected malignancy.**
+- **[[ercp|ERCP]] and biliary stenting are *rarely* indicated in the setting of obstructive jaundice** ([[aga-2019-autoimmune-pancreatitis]]). This is the counterintuitive call and the reason the diagnosis is worth making.
+  - The case *for* drainage: it **prevents biliary infection** and **brushing/[[brush-cytology|cytology]] separates IgG4-SC from biliary malignancy** [B].
+  - **Against it: "in some cases of mild jaundice without signs of infection, steroid treatment alone can be performed safely without biliary stenting"** [B] ([[okazaki-2017-aip-treatment-consensus]]). **71% of type 1 and 77% of type 2** jaundiced patients reached remission without a stent, and the starting prednisolone dose was the same with or without drainage (0.60 mg/kg/day in both).
+  - **The decision hinges on two qualifiers — *mild* jaundice and *no signs of infection*.** Neither source defines "mild" (no bilirubin threshold), and neither states what to do for non-mild jaundice. [[aga-2019-autoimmune-pancreatitis]] restates this as a flat recommendation to treat mild uninfected jaundice with steroids alone; the consensus statement it draws on is the weaker "in some cases … can be performed safely."
+- **Surgical interventions are indicated in the setting of suspected malignancy** ([[aga-2019-autoimmune-pancreatitis]]). Separately, **surgery may be useful in some refractory cases** [B] — realistically, poor medical response that would otherwise mean long-term biliary stenting for continuing obstructive jaundice.
 
 ### Monitoring After Treatment
 
@@ -313,10 +331,21 @@ flowchart TD
 
 - **Frequency:** **up to 60% of AIP after initial response — vs <10% in IDCP.**
 - **Timing:** **during the steroid taper, or after discontinuation.** **67% after discontinuation**, 15% during taper, 18% on maintenance; **56% within 1 year, 76% within 2, 92% within 3** ([[okazaki-2017-aip-treatment-consensus]]).
-- **The two stated high-risk markers:** **elevated pre-treatment immunoglobulin E (IgE)**; **OOI with a proximal bile duct stricture or IgG4-SC** (56.1% relapse with IgG4-SC vs 25.7% without).
+**Who relapses — the predictors, with their sources:**
+
+| Predictor | Source |
+|---|---|
+| **Remarkably high pre-treatment serum IgG4 — e.g. >4× ULN** | [[okazaki-2017-aip-treatment-consensus]] [B] |
+| **Persistently high serum IgG4 after steroid treatment** | [[okazaki-2017-aip-treatment-consensus]] [B] |
+| **Diffuse enlargement of the pancreas** | [[okazaki-2017-aip-treatment-consensus]] [B] |
+| **Proximal type of IgG4-SC** (56.1% relapse vs 25.7% without) | both |
+| **Extensive multi-organ involvement (≥2 OOI)** | [[okazaki-2017-aip-treatment-consensus]] [B] |
+| **Elevated pre-treatment immunoglobulin E (IgE)** | [[aga-2019-autoimmune-pancreatitis]] |
+
+- The consensus prefaces its own list with *"risk factors for relapsing remain poorly understood."*
+- **The sources disagree about serum IgG4 after treatment.** [[aga-2019-autoimmune-pancreatitis]] — the newer source, and the one this page follows — states there is **no value in following serum IgG4 to predict relapse or diagnose recurrence**. [[okazaki-2017-aip-treatment-consensus]] lists persistently high post-treatment IgG4 as a level-B predictor and makes **IgG4 >2× ULN after treatment** a maintenance indication, while noting its own evidence splits (Japanese data 30% vs 10% relapse by IgG4 status; the international study 32.7% vs 31.4%, no difference). **Do not make the relapse decision on IgG4 alone**; the pre-treatment IgE, the pancreatic morphology and the OOI/stricture phenotype carry it.
 - **What high risk buys:** long-term maintenance with steroids or an immunomodulator — **one of the four regimens in the [[#Management Algorithm]]**, which [[aga-2019-autoimmune-pancreatitis]] presents as alternatives with **no immunomodulator or rituximab dose and no criterion for choosing among them**.
 - **Relapsed IDCP is handled differently** — repeat induction (**prednisone 40 mg/day × 4 weeks, taper 5 mg/week**), not one of the four; those are the AIP branch.
-- **The relapse-risk decision cannot rest on the marker that made the diagnosis** — serum IgG4 is useless for predicting relapse; use the pre-treatment IgE and the OOI phenotype.
 
 **Who needs maintenance, and who does not ([[okazaki-2017-aip-treatment-consensus]]):**
 

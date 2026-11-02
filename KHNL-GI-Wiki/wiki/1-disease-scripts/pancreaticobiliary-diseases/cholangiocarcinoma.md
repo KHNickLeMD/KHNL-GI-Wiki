@@ -3,7 +3,7 @@ title: "Cholangiocarcinoma"
 category: disease-script
 tags: [cholangiocarcinoma, biliary-stricture, hepatobiliary, ercp, eus, cholangioscopy, liver-transplantation]
 created: 2026-06-01
-updated: 2026-09-06
+updated: 2026-11-02
 sources: [nccn-2026-biliary-tract-cancers, asge-2023-indeterminate-biliary-strictures, asge-2021-malignant-hilar-obstruction]
 ---
 
@@ -151,7 +151,7 @@ Per [[nccn-2026-biliary-tract-cancers]], for suspected extrahepatic CCA presenti
 - **Biliary-protocol imaging and cholangiography** — **magnetic resonance cholangiopancreatography (MRCP) is preferred** ([[mri-mrcp]]); [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]/percutaneous transhepatic cholangiography (PTC) are used more for *therapeutic* intervention.
 - **Perform imaging before biliary decompression** — decompression degrades local staging accuracy and therefore the surgical-candidacy assessment.
 - **LFTs**; consider **carcinoembryonic antigen (CEA)** and **CA 19-9** as *baseline* values only — neither should be used to confirm the diagnosis (CA 19-9 also rises with cholestasis/[[acute-cholangitis|cholangitis]]). Consider a baseline CA 19-9 **after** biliary decompression.
-- Consider **serum IgG4** to exclude IgG4-related sclerosing cholangitis (refer such patients to an expert center).
+- Consider **serum IgG4** to exclude [[igg4-related-cholangitis|IgG4-related sclerosing cholangitis]] (refer such patients to an expert center).
 - Consider **[[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] — after surgical consultation**, not before.
 
 ### Tissue Acquisition

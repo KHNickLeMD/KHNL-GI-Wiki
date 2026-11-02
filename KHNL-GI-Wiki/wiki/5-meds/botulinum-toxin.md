@@ -3,7 +3,7 @@ title: "Botulinum Toxin (GI Indications)"
 category: med
 tags: [botulinum-toxin, botox, achalasia, anal-fissure, gastroparesis, sphincter, injection, les, pylorus]
 created: 2026-10-19
-updated: 2026-11-01
+updated: 2026-11-02
 sources: [ascrs-2023-anal-fissures, acg-2020-achalasia, aga-2024-poem-advances, asge-2020-achalasia, acg-2021-anorectal-disorders, acg-2022-gastroparesis, aga-2025-gastroparesis, dallas-2025-flip-panometry, aga-2024-esophageal-immunity-infection, rome-v-2026-dgbi]
 ---
 
@@ -29,7 +29,7 @@ Botulinum toxin injected into a gastrointestinal (GI) sphincter or muscle to rel
 | Site / indication | Stance | Strength · Evidence | Source |
 |---|---|---|---|
 | **LES — [[achalasia\|achalasia]]** | First-line **only** in patients **unfit for definitive therapy** ([[pneumatic-dilation\|pneumatic dilation]], myotomy) | Strong · Moderate | [[acg-2020-achalasia]] |
-| **LES — achalasia, vs pneumatic dilation** | **Pneumatic dilation is superior** for long-term relief; **laparoscopic Heller myotomy preferred** in patients fit for surgery | Strong · Moderate | [[acg-2020-achalasia]] |
+| **LES — achalasia, vs pneumatic dilation** | **Pneumatic dilation is superior** for long-term relief; **laparoscopic [[heller-myotomy\|Heller myotomy]] preferred** in patients fit for surgery | Strong · Moderate | [[acg-2020-achalasia]] |
 | **Pylorus — [[gastroparesis\|gastroparesis]]** | **NOT recommended** — negative randomized controlled trials (RCTs) | **Strong · Moderate** | [[acg-2022-gastroparesis]] (Rec 19) |
 | **Pylorus — refractory gastroparesis** | Suggests **against** routine use | — | [[aga-2025-gastroparesis]] |
 | **Internal anal sphincter — chronic [[anal-fissure\|anal fissure]]** | May be attempted **after topical calcium channel blocker (CCB) fails**, or as an alternative to CCB | Conditional · Low | [[acg-2021-anorectal-disorders]] (Table 9, Rec 2) |

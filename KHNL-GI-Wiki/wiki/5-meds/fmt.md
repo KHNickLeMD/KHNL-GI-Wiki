@@ -3,7 +3,7 @@ title: "Fecal Microbiota Transplantation (Fecal Microbiota-Based Therapies)"
 category: med
 tags: [fmt, microbiome, cdiff, recurrent-cdi]
 created: 2026-07-26
-updated: 2026-11-01
+updated: 2026-11-02
 sources: [aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, acg-2021-cdiff, feuerstadt-2022-ser109-cdiff, rebyota-2022-live-jslm-label, vowst-2025-live-brpk-label]
 ---
 
@@ -109,7 +109,7 @@ From [[rebyota-2022-live-jslm-label]]. **Indication is narrower than "FMT"**: pr
 - **Adverse reactions** (8 weeks, vs placebo): abdominal pain 8.9% vs 6.9%, diarrhea 7.2% vs 3.4%, distension 3.9% vs 2.3%, flatulence 3.3% vs 0, nausea 3.3% vs 1.1% — **mostly in the first 2 weeks**, mild to moderate, none life-threatening. Serious adverse events 10.1% vs 7.2% at 6 months, **none judged related**.
 - **Not established under 18 y.** Not absorbed systemically, so pregnancy and lactation exposure is not expected. Nearly half of recipients were ≥65 y, but the data cannot say whether they respond differently.
 
-> **Efficacy is proven at 8 weeks and unproven at 6 months.** Treatment success **70.6% vs 57.5%** (difference 13.1 points, 95% credible interval 2.3–24.0; posterior probability of superiority 0.991 against a 0.975 threshold). **Sustained clinical response at 6 months was 65.5% vs 56.5% — difference 9.1%, 95% CI −3.6% to 21.7%, not significant.** The randomized trials also **excluded** celiac disease, [[inflammatory-bowel-disease|IBD]], [[irritable-bowel-syndrome|IBS]] and chronic diarrhea, so those patients are not described by these numbers.
+> **Efficacy is proven at 8 weeks and unproven at 6 months.** Treatment success **70.6% vs 57.5%** (difference 13.1 points, 95% credible interval 2.3–24.0; posterior probability of superiority 0.991 against a 0.975 threshold). **Sustained clinical response at 6 months was 65.5% vs 56.5% — difference 9.1%, 95% CI −3.6% to 21.7%, not significant.** The randomized trials also **excluded** [[celiac-disease|celiac disease]], [[inflammatory-bowel-disease|IBD]], [[irritable-bowel-syndrome|IBS]] and chronic diarrhea, so those patients are not described by these numbers.
 
 > [!pitfall] A label contraindication is not the whole gate
 > RBL's label lists **no immunocompromise restriction** — its only contraindication is component allergy; **VOS's label lists no contraindication at all**. **[[aga-2024-fmt]]'s restriction still governs patient selection**: conventional FMT only in mild/moderate immunocompromise, and no microbiota-based therapy in severe immunocompromise. Label silence is not permission.

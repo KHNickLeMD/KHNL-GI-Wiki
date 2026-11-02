@@ -3,7 +3,7 @@ title: "Celiac Plexus Block and Neurolysis (EUS-CPB / EUS-CPN)"
 category: advanced-procedure
 tags: [celiac-plexus-block, celiac-plexus-neurolysis, eus, pancreatic-pain, chronic-pancreatitis, pancreatic-cancer, pain-management, therapeutic-eus]
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-11-02
 sources: [acg-2020-chronic-pancreatitis, asge-2024-chronic-pancreatitis-endoscopy, asge-2024-solid-pancreatic-masses, asge-2016-solid-pancreatic-neoplasia, aga-2022-recurrent-pancreatitis-endoscopy, acg-2025-eus-quality]
 ---
 
@@ -89,7 +89,7 @@ Who the block is for (ASGE 2024 general concepts + panel discussion):
 
 ### Efficacy in Chronic Pancreatitis
 
-**EUS-guided vs percutaneous CPB** — meta-analysis of **2 randomized controlled trials (RCTs), 74 patients** with intractable abdominal pain unresponsive to medical therapy; trials excluded CP complicated by abscess, pseudocyst, or biliary stricture ([[asge-2024-chronic-pancreatitis-endoscopy]]):
+**EUS-guided vs percutaneous CPB** — meta-analysis of **2 randomized controlled trials (RCTs), 74 patients** with intractable abdominal pain unresponsive to medical therapy; trials excluded CP complicated by abscess, pseudocyst, or [[biliary-stricture|biliary stricture]] ([[asge-2024-chronic-pancreatitis-endoscopy]]):
 
 | Outcome | EUS-CPB vs percutaneous |
 |---|---|

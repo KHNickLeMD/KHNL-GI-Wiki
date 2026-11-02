@@ -3,7 +3,7 @@ title: "NSAID Enteropathy"
 category: disease-script
 tags: [nsaid, small-bowel, drug-induced-injury, nsaid-colopathy, gi-bleeding, capsule-endoscopy, ibd-mimic]
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-02
 sources: [acg-2025-crohns, asge-2014-lgib, asge-2015-ibd, acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, asge-2010-diarrhea, gralnek-2008-lewis-score]
 ---
 
@@ -31,7 +31,7 @@ Mucosal injury of the small bowel and right colon caused by nonsteroidal anti-in
 - **Typical presentations:**
   - **Bleeding** — a predominant cause of [[small-bowel-bleeding]] in patients **>40 years**, where [[angioectasia|angioectasias]] and NSAID ulcers displace [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] and [[meckels-diverticulum|Meckel's diverticulum]] ([[acg-2015-small-bowel-bleeding]]).
   - **[[acute-lower-gi-bleeding|Lower gastrointestinal (GI) bleeding]]** — NSAID use raises the risk, including diverticular bleeding; NSAID-use prevalence **as high as 86%** in patients with lower GI bleeding ([[asge-2014-lgib]]).
-  - **Chronic diarrhea with abdominal pain** — capsule endoscopy yield **13%–24%**, NSAID-induced enteropathy among the diagnoses found ([[asge-2010-diarrhea]]).
+  - **[[chronic-diarrhea|Chronic diarrhea]] with abdominal pain** — capsule endoscopy yield **13%–24%**, NSAID-induced enteropathy among the diagnoses found ([[asge-2010-diarrhea]]).
 
 > [!pitfall] Small-bowel mucosal breaks do not diagnose anything on their own
 > Up to **14% of healthy individuals** have mucosal breaks and other nonspecific lesions on capsule endoscopy, and a break is **not necessarily diagnostic of CD** — infection, ischemia, radiation injury and drug-induced injury all produce them ([[asge-2015-ibd]]).

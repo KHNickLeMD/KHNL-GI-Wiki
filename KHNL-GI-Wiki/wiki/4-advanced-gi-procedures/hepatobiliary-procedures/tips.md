@@ -3,11 +3,11 @@ title: "TIPS (Transjugular Intrahepatic Portosystemic Shunt)"
 category: advanced-procedure
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, hepatic-encephalopathy, pspg, ptfe-stent, rto, brto, interventional-radiology]
 created: 2026-07-16
-updated: 2026-10-31
+updated: 2026-11-02
 sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus, baveno-vii-2022-portal-hypertension, aga-2021-bleeding-gastric-varices]
 ---
 
-*Transjugular intrahepatic portosystemic shunt (TIPS): a percutaneously created portosystemic shunt for complications of [[portal-hypertension|portal hypertension]] — [[variceal-upper-gi-bleeding|variceal hemorrhage]], refractory [[ascites|ascites]], and hepatic hydrothorax. Placed by interventional radiology, not endoscopically; included here because selection, timing, and post-procedure management are hepatology/gastroenterology (GI) decisions. Evidence below is American Association for the Study of Liver Diseases (AASLD) **Practice Guidance** — consensus guidance statements from an expert panel, **not Grading of Recommendations Assessment, Development and Evaluation (GRADE)-rated recommendations** ([[aasld-2024-tips]]).*
+*Transjugular intrahepatic portosystemic shunt (TIPS): a percutaneously created portosystemic shunt for complications of [[portal-hypertension|portal hypertension]] — [[variceal-upper-gi-bleeding|variceal hemorrhage]], refractory [[ascites|ascites]], and [[hepatic-hydrothorax|hepatic hydrothorax]]. Placed by interventional radiology, not endoscopically; included here because selection, timing, and post-procedure management are hepatology/gastroenterology (GI) decisions. Evidence below is American Association for the Study of Liver Diseases (AASLD) **Practice Guidance** — consensus guidance statements from an expert panel, **not Grading of Recommendations Assessment, Development and Evaluation (GRADE)-rated recommendations** ([[aasld-2024-tips]]).*
 
 ## Contents
 - [[#Physiological Effects]]

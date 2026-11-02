@@ -3,7 +3,7 @@ title: "Inflammatory Bowel Disease (IBD) — Overview"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, biologic, immunotherapy]
 created: 2026-05-16
-updated: 2026-10-22
+updated: 2026-11-02
 sources: [aga-2026-inpatient-ibd, aga-2018-functional-gi-symptoms-ibd, aga-2018-psychogastroenterology, aga-2020-ibd-covid-19]
 ---
 
@@ -63,7 +63,7 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 | **1** | A stepwise approach to rule-out ongoing inflammatory activity should be followed in IBD patients with persistent GI symptoms (measurement of fecal calprotectin, endoscopy with biopsy, cross-sectional imaging). |
 | **2** | In those patients with indeterminate fecal calprotectin levels and mild symptoms, clinicians may consider serial calprotectin monitoring to facilitate anticipatory management. |
 | **3** | Anatomic abnormalities or structural complications should be considered in patients with obstructive symptoms including abdominal distention, pain, nausea and vomiting, obstipation or constipation. |
-| **4** | Alternative pathophysiologic mechanisms should be considered and evaluated (small intestinal bacterial overgrowth, bile acid diarrhea, carbohydrate intolerance, chronic pancreatitis) based on predominant symptom patterns. |
+| **4** | Alternative pathophysiologic mechanisms should be considered and evaluated (small intestinal bacterial overgrowth, bile acid diarrhea, carbohydrate intolerance, [[chronic-pancreatitis\|chronic pancreatitis]]) based on predominant symptom patterns. |
 
 **Clinical assessment that precedes any test:** bowel-pattern history with the presence *and severity* of associated pain, incontinence episodes, urgency and tenesmus; alarm features (weight loss, nocturnal symptoms, bleeding, high-volume or high-frequency diarrhea, fevers); recent antibiotic use; symptom duration. **Alarm features, or acute onset in previously well-controlled disease, keep suspicion for inflammation high.** Examine for distension and masses, inspect for perianal disease, and — absent obvious perianal pathology — perform a **careful digital rectal exam** for mass lesions and for a rectal evacuation disorder.
 
@@ -115,7 +115,7 @@ flowchart TD
 | Lactose or fructose malabsorption | Gas, bloating, diarrhea, IBS | Breath testing | Dietary restriction |
 | Obstipation/constipation from fecal stasis in uninflamed colon proximal to distal colitis (UC) | Constipation | Abdominal x-ray | Laxation, prokinetic |
 | Intestinal stenosis (CD) | Pain, obstruction | Imaging, endoscopy | Dilatation, surgery |
-| [[defecation-disorders\|Pelvic floor dyssynergia]] | Pain, constipation, IBS | Rectal exam, anorectal physiological studies | Biofeedback therapy |
+| [[defecation-disorders\|Pelvic floor dyssynergia]] | Pain, constipation, IBS | Rectal exam, anorectal physiological studies | [[biofeedback-therapy\|Biofeedback therapy]] |
 | [[celiac-disease\|Celiac disease]] (not IBD-specific) | Diarrhea, gas, malabsorption | Celiac serology, small intestinal biopsy | Gluten-free diet |
 
 \*⁷⁵SeHCAT (23-seleno-25-homotaurocholic acid) testing is not widely available in most countries outside Europe or Canada.
@@ -132,7 +132,7 @@ Therapy is borrowed from IBS — the Update notes "a paucity of randomized contr
 | **5** | A low FODMAP diet may be offered for management of functional GI symptoms in IBD with careful attention to nutritional adequacy. | [[low-fodmap-diet]] |
 | **6** | Psychological therapies (cognitive behavioural therapy, hypnotherapy, mindfulness therapy) should be considered in IBD patients with functional symptoms. | [[ibd-pain-management]], [[brain-gut-behavioral-therapy]] |
 | **7** | Osmotic and stimulant laxative should be offered to IBD patients with chronic constipation. | [[chronic-constipation]] |
-| **8** | Hypomotility agents or bile-acid sequestrants may be used for chronic diarrhea in quiescent IBD. | [[bile-acid-diarrhea]], [[loperamide]] |
+| **8** | Hypomotility agents or bile-acid sequestrants may be used for [[chronic-diarrhea\|chronic diarrhea]] in quiescent IBD. | [[bile-acid-diarrhea]], [[loperamide]] |
 | **9** | Antispasmodics, neuropathic-directed agents, and anti-depressants should be used for functional pain in IBD while use of opiates should be avoided. | [[ibd-pain-management]] |
 | **10** | Probiotics may be considered for treatment of functional symptoms in IBD. | [[probiotics]] |
 | **11** | Pelvic floor therapy should be offered to IBD patients with evidence of an underlying defecatory disorder. | [[defecation-disorders]] |
