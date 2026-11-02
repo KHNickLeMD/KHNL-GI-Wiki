@@ -223,7 +223,7 @@ The type determines the serology, the histology to ask the pathologist for, the 
 | Utility in **IDCP** | **None** — no reliable serologic marker exists for type 2 |
 | Utility **after** treatment | **None** for predicting relapse or diagnosing recurrence ([[aga-2019-autoimmune-pancreatitis]]) — but see [[#Relapse and Maintenance]] |
 
-- **Score the fold elevation, not the absolute value.** The ICDC uses fold elevation above the local upper limit of normal (ULN) precisely because the ULN varies between laboratories; the 280 mg/dL figure is the equivalent printed by [[aga-2019-autoimmune-pancreatitis]], not an ICDC cut-point.
+- **Score the fold elevation, not the absolute value.** The ICDC uses fold elevation above the local ULN precisely because the ULN varies between laboratories; the 280 mg/dL figure is the equivalent printed by [[aga-2019-autoimmune-pancreatitis]], not an ICDC cut-point.
 - **Only serum IgG4 counts.** IgG, IgG4 and antinuclear antibody titres are all commonly raised in AIP, but each is falsely raised in pancreatic cancer and other disorders — measured as a panel, false positivity reaches **up to 40%** — so the ICDC admits serum IgG4 alone as the serologic criterion.
 - **Serology is never enough on its own:** a raised marker does not diagnose AIP unless it sits alongside a typical imaging finding.
 - **The 53% sensitivity is the operative number:** a normal IgG4 does not exclude AIP, and about half of AIP patients never reach level 1 on serology — hence the four other cardinal features.
@@ -274,7 +274,6 @@ Management of both AIP and IDCP is **primarily medical**, with **close follow-up
 - **Response to steroids is ~100% in both AIP and IDCP** — the defining therapeutic feature of the disease.
 - **Steroids alone treat the jaundice** in the mild, uninfected case — no stent (see below).
 - **Failure to respond is a diagnostic event, not a dosing one** — the only branch for non-response is to reconsider the diagnosis, in a disease whose chief mimic is [[pancreatic-cancer|pancreatic cancer]]. Induction, taper and the non-response branches are in the [[#Management Algorithm]] ([[aga-2019-autoimmune-pancreatitis]], Figure 1).
-
 - **Steroid is the first-line agent in every patient with active untreated AIP unless it is contraindicated** [A]. Before starting, **control blood glucose and deal with biliary drainage** where indicated.
 - **Known or high risk of severe steroid intolerance → rituximab induction instead** (immunomodulators only if rituximab is unavailable).
 
@@ -322,7 +321,7 @@ flowchart TD
 
 ### Monitoring After Treatment
 
-- **Do not follow serum IgG4.** After treatment there is **no value** in following serum IgG4 levels to predict relapse or diagnose recurrence.
+- **Do not follow serum IgG4 as a relapse test** — see [[#Relapse and Maintenance]] for the disagreement between the sources on this.
 - **Do not re-biopsy.** **Histologic re-evaluation is not recommended after treatment.**
 - **Expect imperfect restitution.** Despite the efficacy of corticosteroid therapy, **normal pancreatic morphology and function may not be restored** — resolution of the inflammation makes the **fibro-atrophic component of the disease more prominent**. Persistent abnormal morphology after successful treatment is therefore not, by itself, treatment failure.
 - **No surveillance schedule is given.** The source requires "close follow-up and monitoring for the possibility of underlying malignancy" but specifies **no modality, no interval, and no duration**.
@@ -331,6 +330,7 @@ flowchart TD
 
 - **Frequency:** **up to 60% of AIP after initial response — vs <10% in IDCP.**
 - **Timing:** **during the steroid taper, or after discontinuation.** **67% after discontinuation**, 15% during taper, 18% on maintenance; **56% within 1 year, 76% within 2, 92% within 3** ([[okazaki-2017-aip-treatment-consensus]]).
+
 **Who relapses — the predictors, with their sources:**
 
 | Predictor | Source |
@@ -356,14 +356,10 @@ flowchart TD
 | **Maintenance regimen** | **Low-dose glucocorticoid 2.5–7.5 mg/day, up to 3 years**, stopping once radiological and serological improvement is established — or a steroid-sparing agent / rituximab |
 | **Relapse treatment** | No gold standard [B]. **Re-administer or increase steroid — usually the same dose as the initial course, tapered more slowly.** Immunomodulators (thiopurines, mycophenolate mofetil, methotrexate) **require 6–8 weeks of overlap with steroids** and are **not effective as single agents**; azathioprine added for relapse induced remission in **85%** |
 
-- **Relapse timing relative to the steroid course:** **67% after discontinuation**, 15% during the taper, 18% on maintenance. **56% of relapses occur within 1 year, 76% within 2, 92% within 3.**
-- **Type 1 relapses hit the biliary system or pancreas; type 2 relapses are confined to the pancreas** (31% vs 9% of patients).
-- **Proximal IgG4-SC is the strongest marker:** 56.1% relapsed with IgG4-related sclerosing cholangitis vs 25.7% without. **69% of relapsing patients re-elevate serum IgG4 before the relapse.**
+- **Type 1 relapses hit the biliary system or pancreas; type 2 relapses are confined to the pancreas** — at least one relapse in **31% of type 1 vs 9% of type 2**. **69% of relapsing patients re-elevate serum IgG4 before the relapse.**
 
 > [!pitfall] Check hepatitis B before immunosuppression
 > Anti-HBs or anti-HBc positive with a negative HBs antigen → **monitor HBV DNA** during rituximab, immunomodulator or steroid therapy; the virus can reactivate ([[okazaki-2017-aip-treatment-consensus]]).
-
-- **Surgery:** medical therapy first, but **resection or bypass may be useful in refractory cases** — realistically, where poor medical response would otherwise mean long-term biliary stenting for continuing obstructive jaundice [B].
 
 ---
 

@@ -3,7 +3,7 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-10-28
+updated: 2026-11-02
 sources: [asge-acg-2024-colonoscopy-quality-indicators, aga-2018-functional-gi-symptoms-ibd, acg-2025-uc, aga-2019-mild-moderate-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt, aga-2021-ibd-colorectal-dysplasia, ho-2004-severe-uc-risk-score]
 ---
 
@@ -279,12 +279,13 @@ Ulcerative colitis (UC): idiopathic chronic [[inflammatory-bowel-disease|inflamm
 
 | Favors infliximab | Favors cyclosporine / small molecule |
 |---|---|
-| Prior immunomodulator failure · anti-TNF–naïve · normal albumin | Thiopurine-naïve (bridge to thiopurine) · provider experience · **protein-losing colopathy** (cyclosporine or JAK inhibitor) |
+| Prior immunomodulator failure (higher cyclosporine failure and colectomy rates) · anti-TNF–naïve · normal albumin · **albumin <23 g/L** · low serum **cholesterol or magnesium** (greater cyclosporine neurologic risk) | Thiopurine-naïve (bridge to thiopurine) · provider experience · **protein-losing colopathy** (cyclosporine or JAK inhibitor) |
 
    - Infliximab **10 mg/kg or accelerated** if albumin <2.5 g/dL or protein-losing colopathy (low albumin, high CRP, deep ulcers); no proven benefit of accelerated dosing in unselected ASUC ([[aga-2026-inpatient-ibd]]).
    - **JAK rescue** ([[aga-2026-inpatient-ibd]]; optimal dose unknown): standard tofacitinib 10 mg twice daily, upadacitinib 45 mg daily; off-label high-intensity tofacitinib 10 mg three times daily ×9 doses, upadacitinib 30 mg twice daily. Give recombinant zoster vaccine if possible — **don't delay** treatment for it. ⚠ ACG 2025 finds **insufficient data** for JAK rescue; AGA 2026 (newer) is followed here.
    - **CMV:** treat only with **≥5 inclusions** (high-density histology) **plus** steroid nonresponse; serum CMV polymerase chain reaction (PCR) is neither routine nor able to exclude CMV.
 6. **After rescue:** infliximab → continue infliximab; cyclosporine → thiopurine (preferred) or vedolizumab.
+   - **Sequential salvage** (failing one rescue agent, then the other, either direction): remission **30%–40%** in small retrospective series, **~60% require colectomy by 12 months**, severe adverse outcomes in **16%** (including a sepsis death) — monitor closely ([[acg-2025-uc]]).
 7. **Surgery:** toxic megacolon, perforation, severe refractory hemorrhage, medical failure. Infliximab/cyclosporine don't raise postoperative complications — **don't delay**.
 
 ---

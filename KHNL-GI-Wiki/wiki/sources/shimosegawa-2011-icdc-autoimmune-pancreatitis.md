@@ -3,7 +3,7 @@ title: "International Consensus Diagnostic Criteria for Autoimmune Pancreatitis:
 category: source
 tags: [autoimmune-pancreatitis, aip, idcp, igg4, icdc, pancreas, diagnostic-criteria]
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-11-02
 sources: []
 ---
 
@@ -74,6 +74,16 @@ Two design decisions drive the whole document. First, **the enemy is pancreatic 
 - **Type 2 requires tissue.** "Definitive type 1" can be reached with surrogate criteria and no histology; **definite IDCP requires histological confirmation.**
 - AIP that meets none of these — including histologically unconfirmed but clinically suspected type 2 — is categorized as **"probable AIP."**
 
+### Serology — the panel's four points
+1. Elevation of **one or more of IgG, IgG4 and antinuclear antibody** is common in AIP, but each is **falsely elevated in pancreatic cancer and other disorders**; measured as a panel, **false positivity can be as high as 40%**.
+2. **Serum IgG4 is the single best marker**, so **only serum IgG4 is admitted as the serological criterion** in the ICDC. Because the **upper limit of normal varies between laboratories, the ICDC uses fold elevation above normal, never an absolute value** — the document prints **no mg/dL cut-point**.
+3. **Marked elevation (>2× ULN) is strongly suggestive of AIP** in the setting of obstructive jaundice or a pancreatic mass.
+4. **Serological elevation alone is not sufficient** to diagnose AIP unless it is seen with a typical imaging finding.
+
+### Other organ involvement — what does and does not count
+- OOI here is a manifestation of **IgG4-related systemic disease**. **Other unrelated autoimmune disorders — rheumatoid arthritis, psoriatic arthropathy, true seropositive Sjögren — are not typically associated with AIP and should not be counted as OOI.**
+- OOI may be established by **histology**, by **imaging** (proximal bile duct stricture, retroperitoneal fibrosis) or by **clinical examination** (salivary gland enlargement).
+
 ### Distinguishing type 1 from type 2
 - **Neither imaging nor steroid response distinguishes the types.** Only serology, OOI and histology do.
 - **Typical serological abnormalities and OOI are seen only in type 1.**
@@ -93,7 +103,14 @@ Two design decisions drive the whole document. First, **the enemy is pancreatic 
 - Resolution of imaging abnormalities **may take weeks to months** and may be accompanied by **gland atrophy**.
 - **Only after a negative cancer workup including endoscopic ultrasound-guided fine-needle aspiration**, and **only by pancreatologists**.
 - **Use sparingly.** A steroid trial is not a substitute for a thorough search for an etiology; *"if steroids work, it must be AIP"* **is fraught with problems when there is no collateral evidence**.
-- Symptomatic improvement and a sense of well-being are **not** the endpoint — the endpoint is radiological.
+- Symptomatic improvement and a sense of well-being are **not** the endpoint — they occur nonspecifically on steroids, including in pancreatic cancer patients. The endpoint is radiological.
+- **A fall in IgG4 is not an endpoint either.** Steroids lower IgG4 in AIP, but falsely elevated IgG4 in pancreatic cancer and other non-AIP states also falls on steroids, so **an IgG4 "response" cannot be used to diagnose AIP**.
+- **Spontaneous radiological improvement in pancreatic cancer–induced pancreatitis can be mistaken for steroid response.**
+
+### Diagnostic algorithms (Figures 1–3)
+- **Figure 1 — typical (level 1 P) imaging, type 1.** Recreated as a Mermaid flowchart on [[autoimmune-pancreatitis]].
+- **Figure 2 — indeterminate/atypical imaging, type 1.** Requires a negative cancer workup first; then review imaging/physical exam for OOI, measure IgG4, and if still insufficient add endoscopic pancreatogram, ampullary biopsies with IgG4 stain, and review of any previous biopsy/resection specimen. Two or more level 1 criteria (with level 2 D counting as level 1) → **definitive type 1**; otherwise pancreatic core biopsy, and failing that a steroid trial routed by whether level 1 S/OOI, level 1 D + level 2 S/OOI/H, or only level 2 S/OOI/H is present.
+- **Figure 3 — type 2.** Entered when there are no cardinal type 1 criteria on serology or OOI; negative cancer workup, then pancreatic core biopsy → level 1 H gives **definite type 2**, level 2 H goes to a steroid trial with the **presence of inflammatory bowel disease** deciding definite vs probable type 2; where biopsy is inconclusive or not performed, endoscopic pancreatogram with level 1/2 D plus steroid response gives **AIP–NOS** when IBD is absent.
 
 ### Histology notes
 - AIP can be diagnosed on resection **or** biopsy, provided the specimen shows the characteristic features.
@@ -110,7 +127,7 @@ Two design decisions drive the whole document. First, **the enemy is pancreatic 
 - **[[igg4-related-cholangitis]]** — the OOI criteria (bile-duct stricture pattern, retroperitoneal fibrosis, salivary/lachrymal enlargement, renal involvement) and the >10 IgG4 cells/HPF threshold.
 
 ## Contradictions / Open Questions
-- **No contradiction with [[aga-2019-autoimmune-pancreatitis]]**, which names the five cardinal features and grades only the serum IgG4 cutoff (≥2× ULN = level 1). This document is where that cutoff comes from; AGA 2019 remains the newer source and keeps the page on management.
+- **The serum IgG4 cut-point is written differently by the two sources.** This document's Table 2 gives level 1 serology as **IgG4 >2× ULN** and level 2 as **1–2× ULN**, deliberately in fold elevation only, because laboratory upper limits differ. [[aga-2019-autoimmune-pancreatitis]] reports it as **≥2× ULN** and attaches **280 mg/dL**; that absolute number is AGA's, not the ICDC's. Both are recorded on [[autoimmune-pancreatitis]] with their attributions. Otherwise no conflict: AGA 2019 names the same five cardinal features and remains the newer source on management.
 - **Western practice and ductal imaging.** The D criterion is built on endoscopic retrograde pancreatography, which the document itself notes Western endoscopists generally avoid in suspected AIP — so a level 1 D finding is often unobtainable in US practice, and the criteria are in effect applied without it.
 - **The 2-week steroid-trial duration rests on a single study** (Moon et al.), which the document states explicitly.
 - **Burnt-out AIP is out of scope** — the criteria do not apply to it and the document says diagnosis at that stage is not easy.

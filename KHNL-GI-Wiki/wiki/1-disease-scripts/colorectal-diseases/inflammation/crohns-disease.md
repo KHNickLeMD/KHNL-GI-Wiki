@@ -3,7 +3,7 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-10-30
+updated: 2026-11-02
 sources: [aga-2018-functional-gi-symptoms-ibd, acg-2025-crohns, aga-2017-crohns-after-surgical-resection, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia]
 ---
 
@@ -229,6 +229,14 @@ No single test — integrate:
 | Any | **Against** 5-ASA, budesonide, [[probiotics]] | Conditional/Low–Very low |
 
 - Relative risk reduction vs placebo at 18 months: anti-TNF 49% clinical/76% endoscopic; thiopurine 65%/60%; antibiotics ~50%.
+
+By patient profile ([[acg-2025-crohns]] KC 55):
+
+| Profile | Management |
+|---|---|
+| Nonsmoker **and** no penetrating disease **and** no prior resection | Reasonable to give **no treatment**, with [[colonoscopy]] at **6 months** |
+| Nonsmoker **with penetrating disease**, no prior resection, no prior medication | **Thiopurines ± metronidazole**, colonoscopy at **6 months**; endoscopic recurrence at **[[ibd-endoscopic-scoring\|Rutgeerts]] i2b or higher → add [[anti-tnf-agents\|anti-TNF]]** |
+| **Prior resection within a 10-year period** | **Postoperative anti-TNF** |
 
 **4 — Colonoscopy at 6–12 months** (neoterminal ileum): **Strong**/Moderate if **unprotected** (endoscopic recurrence up to 90% at 1 y); Conditional/Moderate if on prophylaxis. Later interval not established.
 

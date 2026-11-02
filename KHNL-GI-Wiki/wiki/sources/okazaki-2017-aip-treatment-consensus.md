@@ -3,7 +3,7 @@ title: "International Consensus for the Treatment of Autoimmune Pancreatitis (20
 category: source
 tags: [autoimmune-pancreatitis, aip, igg4, corticosteroids, rituximab, immunomodulators, treatment, consensus]
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-11-02
 sources: []
 ---
 
@@ -17,7 +17,7 @@ sources: []
 
 ## Summary
 
-The treatment companion to [[shimosegawa-2011-icdc-autoimmune-pancreatitis|ICDC 2011]], produced by a modified Delphi process at the 20th International Association of Pancreatology meeting (2016) from a PubMed review spanning 1963–2016. It answers **nine clinical questions (CQ-1 to CQ-9)** with short consensus statements, each carrying a **recommendation level A, B or C** — the panel states it could not apply a system such as GRADE to some statements and used a United States Preventive Services Task Force–style level instead.
+The treatment companion to [[shimosegawa-2011-icdc-autoimmune-pancreatitis|ICDC 2011]], produced by a modified Delphi process at the 20th International Association of Pancreatology meeting (2016) from a PubMed review spanning 1963–2016. It answers **nine clinical questions (CQ-1 to CQ-9)** with short consensus statements, each carrying a **recommendation level**. The panel states that because the clinical evidence is limited it **could not set a level according to an evidence-based system such as GRADE**, and used the grading proposed by the United States Preventive Services Task Force instead, in its own words: **level A** "strongly recommendable" · **level B** "ordinarily recommendable" · **level C** "unrecommendable" · **level D** "strongly unrecommendable" · **level I** "conflicting benefits and harms". Only **A, B and C** are used on the nine statements. The document **numbers nothing** — the CQ numbering below is the document's own question numbering, not a recommendation numbering.
 
 It supplies what the diagnostic criteria do not: **who to treat, what to start, how far to taper, how long, who needs maintenance, who will relapse, and what to do when they do.** The operative numbers are **prednisone 0.6–1.0 mg/kg/day** (minimum **20 mg/day**) for induction, taper **5–10 mg every 1–2 weeks to 20 mg/day, then 5 mg every 2 weeks**, **total induction ~12 weeks**, and **low-dose maintenance 2.5–7.5 mg/day for up to 3 years** in selected type 1 patients.
 
@@ -71,7 +71,7 @@ The panel states the recommendations are based on available evidence plus easter
 - **"Risk factors for relapsing remain poorly understood."**
 - **Predictors of relapse** (level B): **remarkably high pre-treatment serum IgG4 (e.g. >4× ULN)** · **persistently high serum IgG4 after steroid treatment** · **diffuse enlargement of the pancreas** · **proximal type of IgG4-SC** · **extensive multi-organ involvement (≥2 OOI)**.
 - **Timing:** of relapses after starting steroids, **56% within 1 year, 76% within 2 years, 92% within 3 years**.
-- **Type 1 vs type 2:** 31% of 978 type 1 relapsed at least once vs **8 of 90 (9%)** type 2. Type 1 relapses occur in the biliary system or pancreas; **type 2 relapses are limited to the pancreas**.
+- **Type 1 vs type 2:** **302 of 978 (31%)** type 1 relapsed at least once vs **8 (9%)** type 2 (the document gives no type 2 denominator). Type 1 relapses occur in the biliary system or pancreas; **type 2 relapses are limited to the pancreas**.
 - **Relative to steroid course:** 67% of relapses after discontinuation, 15% during taper, 18% on maintenance.
 - IgG4-SC is the strongest single marker in the international data: **56.1% of 171 with IgG4-related SC relapsed vs 25.7% of 551 without**. **69% of relapsed patients showed re-elevation of serum IgG4 before the relapse.**
 - ⚠ The Japanese and international studies **disagree** on persistently abnormal IgG4: Japan found 30% vs 10% relapse by IgG4 status; the international study found **no difference** (32.7% vs 31.4%).
@@ -96,4 +96,6 @@ The panel states the recommendations are based on available evidence plus easter
 - **Persistently elevated IgG4 after treatment as a relapse predictor is contradicted within this document.** The consensus statement lists it (level B), citing Japanese data (30% vs 10%); the international multicentre study it also cites found **no difference** (32.7% vs 31.4%). The statement stands as written, but the predictor is weaker than the list implies.
 - **Maintenance therapy has no high-level evidence** — the panel says so. The low-dose band (2.5–7.5 mg/day) and the up-to-3-years ceiling are Japanese expert practice, and the duration is openly "still debating".
 - **Eastern vs western practice differ on steroid-sparing agents** — more commonly used in western countries; Japanese use is constrained by insurance regulation, which the document notes affects the recommendations themselves.
-- **No contradiction with [[aga-2019-autoimmune-pancreatitis]]**, which is newer and governs the wiki's management page where the two overlap; this consensus supplies the dosing detail AGA 2019 omits rather than disputing it.
+- **Contradiction with [[aga-2019-autoimmune-pancreatitis]] on serum IgG4 after treatment.** AGA 2019 states flatly that **"after treatment, there is no value to following serum IgG4 levels to predict relapse or diagnose recurrence"** (its ref 11, Hart 2013). This consensus lists **"persistently high serum IgG4 levels after steroid treatment"** among its level-B relapse predictors and makes **IgG4 >2× ULN after treatment** an indication for maintenance therapy. AGA 2019 is the newer tier-1 source and keeps the page's headline statement; the disagreement is surfaced on [[autoimmune-pancreatitis]] → *Relapse and Maintenance*, which also carries the **>4× ULN pre-treatment** threshold AGA 2019 does not give.
+- **Force of the biliary-stenting statement.** This document says **"in some cases of mild jaundice without signs of infection, steroid treatment alone can be performed safely without biliary stenting"** (level B). [[aga-2019-autoimmune-pancreatitis]] renders the same content as **"ICDC recommend treating mild jaundice with no signs of infection with steroid therapy alone"** — a stronger, directive form, and attributed to the ICDC although its citation (its ref 3) is this document, not [[shimosegawa-2011-icdc-autoimmune-pancreatitis]].
+- Otherwise **no conflict with [[aga-2019-autoimmune-pancreatitis]]**: this consensus supplies the dosing detail AGA 2019 omits rather than disputing it.

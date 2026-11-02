@@ -3,7 +3,7 @@ title: "Management of Autoimmune Pancreatitis (Here and Now: Clinical Practice)"
 category: source
 tags: [autoimmune-pancreatitis, aip, idcp, igg4, igg4-related-disease, pancreas, pancreatic-cancer, corticosteroids, rituximab, icdc]
 created: 2026-09-04
-updated: 2026-10-12
+updated: 2026-11-02
 sources: []
 ---
 
@@ -166,4 +166,7 @@ The entire treatment regimen lives in this figure; no milligram or interval appe
 
 **Against other pages**
 - No contradiction found. [[chronic-pancreatitis]] and [[acute-pancreatitis]] already describe AIP type 1 vs type 2 in one-line form (IgG4-related vs IBD-associated with granulocytic epithelial lesions); this source is consistent with them and far more specific.
-- [[primary-sclerosing-cholangitis]] carries IgG4 cutoffs in **g/L** from [[aasld-2022-psc]] (>5.6 g/L suggests IgG4-related sclerosing cholangitis [IgG4-SC]) for a different question — excluding IgG4-SC in a primary sclerosing cholangitis (PSC) workup. This source's cutoff is in **mg/dL** and is for diagnosing pancreatic AIP. Different units, different questions, no conflict; do not merge the two thresholds.
+- [[igg4-related-cholangitis]] carries IgG4 cutoffs in **g/L** from [[aasld-2022-psc]] (>5.6 g/L suggests IgG4-related sclerosing cholangitis [IgG4-SC]) for a different question — excluding IgG4-SC in a primary sclerosing cholangitis (PSC) workup. This source's cutoff is in **mg/dL** and is for diagnosing pancreatic AIP. Different units, different questions, no conflict; do not merge the two thresholds.
+- **Two attributions in this article point elsewhere than its wording suggests.** Its statement that *"ICDC recommend treating mild jaundice with no signs of infection with steroid therapy alone"* cites its **ref 3 = Okazaki 2017**, the treatment consensus, not [[shimosegawa-2011-icdc-autoimmune-pancreatitis]]; the underlying statement there is the weaker *"in some cases of mild jaundice without signs of infection, steroid treatment alone can be performed safely without biliary stenting"* (level B). Its "who is treated" paragraph cites the same ref 3. Both are recorded on [[autoimmune-pancreatitis]] against [[okazaki-2017-aip-treatment-consensus]].
+- **Serum IgG4 as a relapse predictor.** This source states there is no value in following serum IgG4 after treatment; [[okazaki-2017-aip-treatment-consensus]] lists persistently high post-treatment IgG4 as a level-B relapse predictor and a maintenance indication. This source is newer and governs the page's headline statement, but the disagreement is surfaced on [[autoimmune-pancreatitis]].
+- **The ≥2× ULN wording is this source's.** The ICDC itself writes level 1 serology as **>2× ULN** in fold elevation only; **280 mg/dL is this article's absolute equivalent**, not an ICDC cut-point.
