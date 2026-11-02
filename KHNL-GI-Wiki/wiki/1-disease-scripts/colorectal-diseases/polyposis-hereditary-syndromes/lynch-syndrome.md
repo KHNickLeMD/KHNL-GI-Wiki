@@ -3,7 +3,7 @@ title: "Lynch Syndrome"
 category: disease-script
 tags: [lynch, hnpcc, mmr, msi, hereditary-crc, endometrial-cancer, oncology, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-09-28
+updated: 2026-11-02
 sources: [acg-2015-hereditary-gi-cancer, aga-2015-lynch-syndrome, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd, asge-2022-pancreatic-cancer-screening, nccn-2026-colon-cancer, aga-2020-young-adult-onset-crc]
 ---
 
@@ -86,7 +86,7 @@ Germline testing of MLH1, MSH2, MSH6, PMS2, and/or EPCAM (or the gene indicated 
   - **≥1** of the CRCs diagnosed **before age 50**
   - **Familial adenomatous polyposis (FAP) excluded**
   - Tumours **verified by pathologic examination**
-- **Amsterdam criteria II** — same five-part structure, with **one change**: the qualifying tumour widens from CRC alone to **any LS-associated cancer** (CRC, endometrial, small bowel, ureter/renal pelvis). All must be present: ≥3 relatives with an LS-associated cancer, **one a first-degree relative of the other two**; ≥2 successive generations affected; ≥1 relative diagnosed <50; FAP excluded in the CRC case(s) (if any); tumors verified pathologically whenever possible
+- **Amsterdam criteria II** — the same five requirements, with **one change**: the qualifying tumour widens from CRC alone to **any LS-associated cancer** (CRC, endometrial, small bowel, ureter/renal pelvis). FAP need only be excluded in the CRC case(s), if any
   - Both are **highly specific but poorly sensitive** — Amsterdam II misses ~4 in 5 LS families (sensitivity 0.22, specificity 0.98; see [[#Relevant Risk Prediction Tools]]), which is why universal tumour testing replaced criteria-driven referral
 - **Revised Bethesda guidelines** — test the tumour for MSI if **any one** applies ([[acg-2015-hereditary-gi-cancer]] Table 3):
 
@@ -101,7 +101,7 @@ Germline testing of MLH1, MSH2, MSH6, PMS2, and/or EPCAM (or the gene indicated 
   - \* **LS-related cancers** = colorectal, endometrial, gastric, ovarian, pancreas, ureter and renal pelvis, biliary tract, brain (usually glioblastoma), small intestinal, plus sebaceous gland adenomas and keratoacanthomas
   - † **MSI-high histology** = tumour-infiltrating lymphocytes, Crohn's-like lymphocytic reaction, mucinous/signet-ring differentiation, **or** medullary growth pattern
 
-- **3-question colorectal cancer risk assessment tool** — a "yes" to **any** question triggers a full family-history evaluation ([[acg-2015-hereditary-gi-cancer]] Table 3, adapted from Kastrinos *et al.*):
+- **3-question colorectal cancer risk assessment tool** — a quick screen for busy practice; a "yes" to **any** question triggers a full family-history evaluation. "Yes" to all 3 identified **95%** of germline-mutation carriers (cumulative sensitivity **77%**) ([[acg-2015-hereditary-gi-cancer]] Table 3, adapted from Kastrinos *et al.*):
   1. Do you have a **first-degree relative** (mother, father, brother, sister, child) diagnosed **before age 50** with colon/rectal cancer, **or** cancer of the uterus, ovary, stomach, small intestine, urinary tract (kidney, ureter, bladder), bile ducts, pancreas, or brain?
   2. Have **you** had colon/rectal cancer **or** colon/rectal polyps diagnosed **before age 50**?
   3. Do you have **≥3 relatives** with a history of colon or rectal cancer (parents, siblings, children, grandparents, aunts, uncles, cousins)?
@@ -199,7 +199,6 @@ LS is classified by the causative gene. Share of LS families and the identifying
   - **MMRpredict does not apply here** — it predicts a mutation in a patient with *known* cancer and requires details of that cancer
   - Evidence graded very low: the models were validated mainly in people **with** a personal cancer history, so applying them to unaffected individuals is indirect
 - **The >5% threshold carries an age qualifier.** The cost-effectiveness analysis behind it modelled **universal application to 25-year-olds**; in middle-aged adults, and as genetic testing gets cheaper, the appropriate threshold is **lower** [[aga-2015-lynch-syndrome]]. Above threshold → offer germline testing for MLH1, MSH2, MSH6, and PMS2.
-- **3-question CRC risk assessment tool** — a quick initial screen for busy practice; "yes" to all 3 identified 95% of germline-mutation carriers (cumulative sensitivity 77%).
 - Caveat: **specificity of both MSI and IHC falls with increasing age** because somatic MLH1 hypermethylation becomes more prevalent — above age 70, reflex BRAF testing on MLH1 loss is what separates sporadic from germline.
 
 - PREMM1,2,6 is not hand-calculable — the guidelines give the inputs and the 5% action threshold but not the regression weights. Use the online calculator.
@@ -215,7 +214,6 @@ LS is classified by the causative gene. Share of LS families and the identifying
 - **Rec 1:** in individuals at risk for or affected with LS, colonoscopy **at least every 2 years, beginning between ages 20 and 25** *(Strong recommendation; moderate quality of evidence for screening, very low quality for annual surveillance and for the age of initiation)*
 - **Later start in the low-penetrance genes — the two guidelines differ.** ACG 2015 says consideration could be given to starting surveillance at age **25–30 in both MSH6 and PMS2** carriers, unless an early-onset cancer exists in the family; [[usmstf-2014-lynch-syndrome|USMSTF 2014]] (Table 10) splits them — **age 30 in MSH6 families, age 35 in PMS2 families**. ACG 2015 adds that gene-specific alteration of surveillance has not been evaluated in clinical studies
 - **Annual colonoscopy** should be considered in confirmed mutation carriers
-- Observational cohorts: **62% fewer CRCs** in screened at-risk relatives (Järvinen) and an estimated **72% decrease in death from CRC** in those undergoing surveillance (Dove-Edwin)
 
 [[aga-2015-lynch-syndrome|AGA 2015]] on the same two decisions — *whether* and *how often*:
 
@@ -225,10 +223,10 @@ LS is classified by the causative gene. Share of LS families and the identifying
 | Interval | Every **1 to 2 years** vs less frequent intervals | Conditional · low |
 
 - **When to start:** age **20–25 years**, **or 5 years before the youngest age of CRC diagnosis in an affected family member — whichever comes first**
-- **Effect size** (technical review meta-analysis): decreased burden of CRC **odds ratio (OR) 0.23 (95% confidence interval (CI) 0.13–0.41)** and decreased CRC mortality **OR 0.06 (95% CI 0.00–0.93)**
-- Cost-effectiveness modelling: frequent surveillance of gene carriers **added 7 years of life expectancy**, and **cost less than no surveillance**
-- **Why 1–2 years and not gene-tailored:** the best interval is unknown and no study has directly compared intervals, but most CRCs found in LS patients under surveillance are detected on a 1–2 year cycle and usually at a treatable stage. MLH1, MSH2, MSH6, and PMS2 carry different long-term risks, yet **no data directly guide a mutation-specific interval or start age** — which is why the 25–30 start in MSH6/PMS2 above is an option rather than a rule
-- **Why the short interval:** LS patients develop few (usually <10) early-onset adenomas, but the adenoma–carcinoma sequence is accelerated — **polyp-to-cancer dwell time ~35 months vs 10–15 years sporadically**. Precursor lesions are often proximal, sometimes flat, with villous features, high-grade dysplasia, and tumor-infiltrating lymphocytes
+- **No data guide a gene-specific interval or start age** — no study has compared intervals directly, which is why the 25–30 start in MSH6/PMS2 above is an option rather than a rule
+
+> [!pearl] The short interval exists because the dwell time is short
+> LS patients develop **few adenomas (usually <10)**, but the adenoma–carcinoma sequence is accelerated — **polyp-to-cancer dwell time ~35 months, against 10–15 years sporadically** ([[acg-2015-hereditary-gi-cancer]]). Precursor lesions are often **proximal, sometimes flat**, with villous features, high-grade dysplasia and tumor-infiltrating lymphocytes — so a careful proximal exam matters as much as the interval.
 
 **Surgical management of CRC** [[acg-2015-hereditary-gi-cancer]]:
 
@@ -244,8 +242,8 @@ LS is classified by the causative gene. Share of LS families and the identifying
   - Across studies the **10-year** cumulative risk after partial colectomy is **16–19%**, even under vigilant colonoscopic surveillance [[usmstf-2014-lynch-syndrome]] — which is why total proctocolectomy + ileal pouch-anal anastomosis (IPAA) is an option to discuss in LS **rectal** cancer
 - **Consideration for less extensive surgery** should be given in patients **older than 60–65 years** and those with **underlying sphincter dysfunction** *(Strong; level III evidence / Grading of Recommendations Assessment, Development and Evaluation (GRADE) moderate)* [[usmstf-2014-lynch-syndrome]] — note National Comprehensive Cancer Network (NCCN) and the Mallorca group recommend colectomy + IRA **with no deference to patient age**
 - Prophylactic colectomy may be discussed with confirmed mutation carriers who have endoscopically normal colons, particularly in high-penetrance families
-- Life-expectancy modelling (Markov) — years gained with total colectomy vs hemicolectomy: **2.3 y at age 27, 1 y at age 47, 0.3 y at age 67**. Total colectomy is the preferred treatment, but hemicolectomy may be an option in older individuals
-- Quality of life after partial (n=51) vs subtotal colectomy (n=53) did not differ globally, but **functional outcome — stool frequency, stool-related aspects, social impact — was worse after subtotal colectomy**
+- **The benefit of total over segmental colectomy shrinks sharply with age** — years of life gained **2.3 at age 27, 1.0 at age 47, 0.3 at age 67** — which is the quantitative basis for offering hemicolectomy to older patients
+- **Counseling point:** global quality of life is similar after partial vs subtotal colectomy, but **functional outcome — stool frequency, stool-related symptoms, social impact — is worse after subtotal colectomy**
 
 ### Extracolonic Cancer Surveillance
 
@@ -263,8 +261,7 @@ Cumulative risk to age 70 and mean age at diagnosis (ACG 2015 Table 7; general-p
 - USMSTF 2014 (Table 4) gives the MSH6 endometrial range as **17–71%** and ovarian as **4–20%** — the ACG figures above are the newer statement
 - **Rec 4:** annual **endometrial biopsy** + **transvaginal ultrasound** starting age **30–35 years**, before undergoing risk-reducing surgery or if surgery is deferred *(Conditional; very low quality)*
 - **Hysterectomy and bilateral salpingo-oophorectomy** should be offered to women who are known LS mutation carriers and who have finished childbearing, **optimally at age 40–45 years** (Conditional/Low). [[usmstf-2014-lynch-syndrome|USMSTF 2014]] (Table 12) words the same decision as **"after childbearing or age 40"** (Recommendation; level IV observational; GRADE moderate) — ACG's upper bound of 45 is the newer statement
-- Retrospective data: 0% uterine/ovarian cancer in the surgical group vs. 33% and 5.5% respectively in the nonsurgical group at mean follow-up
-- Endometrial sampling is more sensitive than transvaginal ultrasound (TVUS) alone for detecting premalignant lesions
+- **Endometrial sampling is more sensitive than transvaginal ultrasound (TVUS) alone** for premalignant lesions — do not screen with imaging alone
 
 **Gastric and duodenal cancer** [[acg-2015-hereditary-gi-cancer]]:
 
@@ -277,13 +274,13 @@ Cumulative risk to age 70 and mean age at diagnosis (ACG 2015 Table 7; general-p
 **Urinary tract cancer** [[acg-2015-hereditary-gi-cancer]]:
 
 - Risk **0.2–25.5%**, mean age 52–57 — transitional cell carcinoma of ureter, renal pelvis, and bladder
-- Evidence for urinary screening is limited: urine cytology sensitivity **29%**, and **10× more** cytology exams led to a false-positive than to a urothelial cancer diagnosis. Benefit of ultrasound screening unknown
+- **Why ACG does not screen:** urine cytology sensitivity is only **29%**, and **10× more** cytology exams produce a false positive than find a urothelial cancer. Ultrasound benefit unknown
 - **Rec 6:** screening beyond population-based recommendations for **urinary tract, pancreas, prostate, and breast is not recommended unless there is a family history of the specific cancer** *(Conditional; low quality)*
   - **USMSTF 2014 does screen the urinary tract** — annual **urinalysis** starting age **30–35** (consideration; level V expert consensus; GRADE low), with no family-history condition. ACG 2015 is the newer statement and its family-history condition governs above
 
 **[[pancreatic-cancer|Pancreatic cancer]]** [[acg-2015-hereditary-gi-cancer]]:
 
-- **9- to 11-fold** relative risk vs general population; cumulative risk to age 70 **0.4–3.7%**, mean age 51.5–56.5. Two cohorts: standardized incidence ratio (SIR) **10.7** (95% CI 2.7–47.7) with a **10-year cumulative risk 0.95%**; and an **8.6-fold** increase (95% CI 4.7–15.7) with **cumulative risk 3.7% by age 70**
+- **9- to 11-fold** relative risk vs general population; cumulative risk to age 70 **0.4–3.7%**, mean age 51.5–56.5
 - Because LS carries a *lower* relative risk than [[peutz-jeghers-syndrome|Peutz-Jeghers syndrome (PJS)]]/[[fammm-syndrome|familial atypical multiple mole melanoma (FAMMM)]]/[[hereditary-pancreatitis|hereditary pancreatitis]], **surveillance is limited to carriers with a first- or second-degree relative affected by pancreatic cancer** *(Conditional; very low)* — and should be done at experienced centres, ideally under research conditions
 - When performed: **[[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] and/or magnetic resonance imaging (MRI) annually, starting age 50** — or **10 years younger than the earliest pancreatic cancer in the family** *(ACG 2015 Rec 23)*. See [[pancreatic-cancer-screening]]
 - **The newer [[asge-2022-pancreatic-cancer-screening|American Society for Gastrointestinal Endoscopy (ASGE) 2022]] guideline confirms both the restriction and the age** — its start-age statement is written for "**Lynch syndrome *with* a first- or second-degree relative with pancreatic cancer**," at **age 50 or 10 years earlier than the youngest relative with pancreatic cancer** *(Rec 6h)*, screened **annually** *(Rec 4; conditional, very low)*. LS is also one of the settings in which **EUS may be preferred** as the screening modality, because it can be combined with the screening EGD/colonoscopy the patient is already due *(Rec 2)*
@@ -296,39 +293,34 @@ Cumulative risk to age 70 and mean age at diagnosis (ACG 2015 Table 7; general-p
 
 ### Chemoprevention
 
-**Aspirin** [[acg-2015-hereditary-gi-cancer]]:
+**Aspirin — one trial (CAPP2), three guideline readings.** The only dose tested was **600 mg/d for ≤4 years**:
 
-- CAPP2 randomized placebo-controlled trial, 2×2 design (resistant starch 30 g/d and aspirin **600 mg/d** for ≤4 years); **693 randomized between aspirin and placebo** (727 to starch vs placebo)
-- At mean follow-up 29 months: **no** effect of aspirin, starch, or both on incidence of colorectal neoplasia
-- Longer follow-up (mean 55.7 months), intention-to-treat (ITT), time to first CRC: hazard ratio (HR) **0.63** (95% CI 0.35–1.13, P=0.12) — did not reach significance for CRC alone
-- All LS cancers (colorectal, endometrial, ovarian, pancreatic, small bowel, **gallbladder, ureter, stomach, kidney**, and brain), ITT: HR **0.65** (95% CI 0.42–1.00, P=0.05); no excess adverse events vs placebo
-- CAPP3 trial ongoing to establish optimal dose and duration
+| Source | Position |
+|---|---|
+| **[[aga-2015-lynch-syndrome|AGA 2015]]** | **Suggests aspirin be offered** for cancer prevention in LS *(Conditional, low quality)*. Downgraded for imprecision; **no mortality data** support long-term use |
+| **[[acg-2015-hereditary-gi-cancer|ACG 2015]]** | Aspirin may decrease risk, but evidence is **not sufficiently robust to recommend standard use** *(Conditional, moderate)* |
+| **[[usmstf-2017-bmmrd|USMSTF 2017]]** | Cites **>60% reduction in CRC incidence** in those taking aspirin **≥2 years**; see [[bmmrd-syndrome]] |
 
-**Where the guidelines land — three readings of one trial:**
+- **Harms** ([[aga-2015-lynch-syndrome]]): **1% excess gastrointestinal (GI) bleeding**, **<1% excess stroke** vs placebo — neither statistically significant.
+- ⚠ **Dose and frequency remain unknown.** 600 mg/d is a high dose with an uncertain risk–benefit balance — individualize by the patient's own bleeding risk. Cost-effectiveness in LS has never been studied.
 
-- **[[aga-2015-lynch-syndrome|AGA 2015]] suggests aspirin be offered for cancer prevention in patients with LS** *(Conditional recommendation, low quality of evidence)*. It reads CAPP2 as showing decreased CRC incidence **beyond colonoscopy surveillance alone — incidence rate ratio 0.56 (95% CI 0.32–0.99)** — plus a trend toward fewer other cancers. Downgraded for imprecision; **no mortality data** support long-term aspirin therapy (very low quality for that outcome)
-  - **Harms:** **1% excess gastrointestinal (GI) bleeding** and **<1% excess stroke** vs placebo — neither statistically significant
-  - **Dose and frequency are unknown.** The 600 mg/d tested is a high dose and the risk–benefit balance is uncertain, so individualize by the patient's own risk of adverse events. Cost-effectiveness of aspirin chemoprevention in LS has never been studied
-- **[[acg-2015-hereditary-gi-cancer|ACG 2015]]** concludes from the same trial that aspirin may decrease risk but the evidence **is not sufficiently robust to recommend standard use** *(Conditional/Moderate)* — it reports the intention-to-treat HR 0.63, whose confidence interval crosses 1
-- **[[usmstf-2017-bmmrd|USMSTF 2017]]** cites the same trial as a **>60% reduction in CRC incidence** among those who took aspirin **for at least 2 years**; see [[bmmrd-syndrome]]
+**Lifestyle counseling** — both risks are for colorectal adenoma in LS patients under surveillance [[acg-2015-hereditary-gi-cancer]]:
 
-**Lifestyle factors**:
-
-- Colorectal adenoma risk by smoking status (n=386 LS patients under surveillance): **current smokers HR 6.1 vs past smokers 3.0 vs never smokers 1.0**
-- [[obesity|Excess body weight]] (body mass index (BMI) **>25 kg/m²**) — adenoma **HR 8.7** vs normal weight, in **men** with LS; no elevated risk found in women
+- **Smoking:** current smokers **HR 6.1**, past smokers **3.0**, never smokers 1.0.
+- **[[obesity|Excess body weight]]** (body mass index (BMI) **>25 kg/m²**): adenoma **HR 8.7** — **in men only**; no elevated risk found in women.
 
 ### Advanced/Metastatic Disease
 
-- **Pembrolizumab** (anti-PD-1) is FDA-approved for advanced MSI-H/deficient MMR (dMMR) tumors regardless of tissue of origin — directly relevant to LS-associated cancers
-- Lynch syndrome tumors are MSI-H/dMMR by definition → high tumor mutational burden → favorable immunotherapy response
-- **[[nccn-2026-colon-cancer|NCCN 2026]] for MSI-H/dMMR metastatic colon cancer: pembrolizumab first-line, or nivolumab ± ipilimumab.** The same guideline is why every colon cancer gets MMR/MSI tested — the one test serves both LS screening and immunotherapy selection
-- **Adjuvant caveat:** **MSI-H stage II tumors generally do not benefit from single-agent fluoropyrimidine adjuvant therapy** [[nccn-2026-colon-cancer]] — the MMR result changes adjuvant treatment, not just the genetic referral. Full oncologic staging and systemic-therapy framework lives on the colorectal cancer page
+LS tumors are MSI-H/deficient MMR (dMMR) by definition → high tumor mutational burden → favorable immunotherapy response. **Systemic-therapy regimens and oncologic staging live on [[colorectal-cancer]]**; the two points that change what the gastroenterologist does:
+
+- **The MMR/MSI result serves two purposes from one test** — LS screening *and* immunotherapy selection. This is why every colon cancer is tested ([[nccn-2026-colon-cancer]]).
+- **It also changes adjuvant therapy, not just the genetic referral:** **MSI-H stage II tumors generally do not benefit from single-agent fluoropyrimidine adjuvant therapy** ([[nccn-2026-colon-cancer]]).
 
 ### Genetic Counseling
 
-- All genetic testing should occur in the context of pre- and post-test counseling [[usmstf-2014-lynch-syndrome]]
-- Once a pathogenic variant is identified in the proband, all at-risk relatives should be offered mutation-specific testing (Strong, Level III, GRADE Moderate)
-- 14-component informed consent framework includes: Genetic Information Nondiscrimination Act (GINA) protections, variant of uncertain significance (VUS) implications, psychological impact, data privacy, insurance implications, reproductive options, implications for blood relatives, and right not to know [[usmstf-2014-lynch-syndrome]]
+- All genetic testing should occur in the context of **pre- and post-test counseling** [[usmstf-2014-lynch-syndrome]]
+- Once a pathogenic variant is identified in the proband, **all at-risk relatives should be offered mutation-specific testing** *(Strong; level III; GRADE moderate)*
+- Informed consent is a **14-component framework** covering Genetic Information Nondiscrimination Act (GINA) protections, variant-of-uncertain-significance implications, psychological impact, privacy, insurance, reproductive options, implications for blood relatives, and the **right not to know** [[usmstf-2014-lynch-syndrome]]
 
 ---
 

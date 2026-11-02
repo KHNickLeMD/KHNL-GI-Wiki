@@ -3,7 +3,7 @@ title: "Needed Sources — Download List"
 category: overview
 tags: [maintenance, sources]
 created: 2026-09-08
-updated: 2026-10-31
+updated: 2026-11-02
 sources: []
 ---
 
@@ -52,7 +52,6 @@ FDA prescribing information from [DailyMed](https://dailymed.nlm.nih.gov/dailyme
 
 | Resource | Fills | Page(s) |
 |---|---|---|
-| Simponi (golimumab), Humira (adalimumab) labels | the **two dose cells [[anti-tnf-agents]] still flags as not guideline-stated** — golimumab's every-4-week maintenance interval (ACG 2025 UC sources the 100 mg dose but never the interval) and adalimumab's Crohn's induction loading (the 160 → 80 figures come from the UC guideline only). *(Cimzia is done — ingested 2026-11-01 → [[cimzia-2025-certolizumab-pegol-label]], which confirmed the certolizumab schedule and closed that third cell.)* | [[anti-tnf-agents]] |
 | 🌐 [ACG 2021 IBS guideline (Lacy) Supplemental Table 2](https://doi.org/10.14309/ajg.0000000000001036) | tegaserod cardiovascular risk-factor list | [[tegaserod]] |
 
 ## Figures and tables in already-ingested PDFs that need capture (raster images, no text layer)

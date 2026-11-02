@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on Diet and Nutritional Therapies in Patien
 category: source
 tags: [ibd, crohns, ulcerative-colitis, diet, nutrition, enteral-nutrition, parenteral-nutrition, cded, malnutrition, mediterranean-diet, cpu]
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-11-02
 sources: []
 ---
 

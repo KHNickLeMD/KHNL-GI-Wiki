@@ -4,7 +4,7 @@ category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, diet, fiber, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
 updated: 2026-11-01
-sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d, aga-2020-sibo, aga-2022-diet-ibs, aga-2018-psychogastroenterology, aga-2023-alpha-gal-syndrome]
+sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d, aga-2020-sibo, aga-2022-diet-ibs, aga-2019-lab-evaluation-functional-diarrhea-ibs-d, aga-2018-functional-gi-symptoms-ibd, aga-2018-psychogastroenterology, aga-2023-alpha-gal-syndrome]
 ---
 
 ## Contents
@@ -203,5 +203,6 @@ Subtypes by [[bristol-stool-form-scale|Bristol Stool Form Scale]] **on days with
 6. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]
 7. [[aga-2022-diet-ibs|AGA Clinical Practice Update on the Role of Diet in Irritable Bowel Syndrome: Expert Review (2022)]]
 8. [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA Clinical Practice Guidelines on the Laboratory Evaluation of Functional Diarrhea and Diarrhea-Predominant Irritable Bowel Syndrome in Adults (IBS-D) (2019)]]
-9. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease: Expert Review]]
+9. [[aga-2018-functional-gi-symptoms-ibd|AGA 2018 Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease]]
 10. [[aga-2018-psychogastroenterology|Best Practice Update: Incorporating Psychogastroenterology Into Management of Digestive Disorders]]
+11. [[aga-2023-alpha-gal-syndrome|AGA Clinical Practice Update on Alpha-Gal Syndrome for the GI Clinician: Commentary]]

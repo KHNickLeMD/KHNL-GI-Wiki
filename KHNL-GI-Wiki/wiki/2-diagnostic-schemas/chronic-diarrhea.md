@@ -195,3 +195,4 @@ Prompt structural evaluation (colonoscopy ± cross-sectional imaging) and lower 
 2. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]
 3. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]
 4. [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA Clinical Practice Guidelines on the Laboratory Evaluation of Functional Diarrhea and Diarrhea-Predominant Irritable Bowel Syndrome in Adults (IBS-D) (2019)]]
+5. [[aga-2023-alpha-gal-syndrome|AGA Clinical Practice Update on Alpha-Gal Syndrome for the GI Clinician: Commentary]]

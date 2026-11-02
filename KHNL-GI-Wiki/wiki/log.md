@@ -6,6 +6,75 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-02] lint | 06:00 pass — both anti-TNF dose cells closed from their labels, and the page-length ranking corrected after two passes of measuring it wrong
+
+**Raw-folder audit:**
+
+- `raw/` re-audited folder-by-folder against `wiki/sources/`: **no new arrivals.** Every file in the six folders whose counts had drifted from the recorded baseline (ASGE, Other, SAGES, AFS, AGA, GI Other Studies) matches an ingested source page.
+- The drift was a **stale baseline in the count script**, not new files — and its folder-key matching was aliasing `Other` onto `GI Other Studies`, inventing drift. Baseline reset to the audited truth (512 non-asset / 106 assets) and key matching made exact.
+- Backlog mode stays **off**: nothing uningested in `raw/` but the 60 gated lectures and the broken `IANS 2024 Anal Cancer Screening Consensus.pdf`.
+- Standing false-alarm list held up — `NIT in MASDL.pdf`, `Cotton Consensus.pdf`, `extraesoph gerd.pdf`, `tailed polypectomy.pdf` are all covered; `cannabis hyperemesis.pdf` and `cyclical vomiting.pdf` (not previously named on that list) are [[aga-2024-chs]] and [[aga-2024-cvs]].
+
+**Daily source fetch — 2 of 2, both ingested this pass:**
+
+- Screened `needed-sources.md` in the required order. *Scores and classification instruments* — all three rows 🔒, skipped. *Guidelines and consensus* — every fetchable row 🔒 or 🌐; the two unmarked rows (CDC Yellow Book / CDC parasite pages, NIH-CDC-IDSA opportunistic-infection guidelines) are **websites, not PMC or DailyMed documents**, so `fetch-paper.py` cannot take them — left unmarked rather than falsely marked 🔒.
+- **`downloaded`** — `Simponi Golimumab Label.pdf` and `Humira Adalimumab Label.pdf`, both from DailyMed. The one unmarked *Product labels* row named exactly these two, for the two dose cells [[anti-tnf-agents]] flags on its own page. Row deleted.
+- Both pass *What belongs on the download list*: labels for drugs GI prescribes, fetched for doses **no ingested guideline states**.
+
+**Sources created:**
+
+- [[simponi-2025-golimumab-label]] — SIMPONI (golimumab), rev. 10/2025.
+- [[humira-2025-adalimumab-label]] — HUMIRA (adalimumab), rev. 12/2025. Downloaded copy is the **Cordavis** distribution of AbbVie's label; same content, and the source page says so rather than implying AbbVie is the labeler.
+
+**Both flagged dose cells are now closed:**
+
+- **Golimumab interval confirmed, and the schedule corrected.** The wiki implied maintenance followed the week-2 dose. The label gives **200 mg wk 0 → 100 mg wk 2 → 100 mg at week 6, then q4wk** — a **4-week gap** between last induction and first maintenance dose. Imprecise rather than wrong, but it was the kind of imprecision that mis-times a dose.
+- **Adalimumab Crohn's induction confirmed in its own right** — the 160 → 80 → 40 mg sequence had been carried over from [[acg-2025-uc]] with no Crohn's source. Label anchors it to **Day 1 / Day 15 / Day 29** and permits **splitting the 160 mg over two consecutive days**.
+- ⚠ **One disagreement surfaced rather than smoothed over:** the page's **"40 mg weekly in CD"** maintenance option **is not in the adalimumab label**, which gives q2wk only for adult Crohn's (weekly appears solely as a rheumatoid-arthritis escalation). A label's silence does not override a guideline, so the figure stays — but it is now **attributed to [[acg-2025-crohns]] on the page** instead of reading as labelled dosing. Recorded in the source page's Contradictions.
+- ⚠ **New action threshold from a label, not a guideline:** **discontinue adalimumab in adult UC with no clinical remission by 8 weeks (Day 57)**. No ingested UC guideline states it. Added as a pitfall callout on [[anti-tnf-agents]].
+
+**Pages updated:**
+
+- [[anti-tnf-agents]] — dosing table rewritten for both agents, caveat footnote replaced with label attribution; pediatric weight bands, label-indication differences and adalimumab's **Limitation of Use** (effectiveness unestablished after anti-TNF loss of response/intolerance) added; week-8 UC stop rule boxed.
+- [[anti-tnf-agents]] pregnancy block — replaced a certolizumab-only bullet with a **three-agent placental-transfer table**. This is the one pharmacologic difference that drives agent choice in pregnancy and the three labels genuinely differ: certolizumab **negligible** transfer, adalimumab **actively transferred**/infant vaccine safety **unknown**, golimumab **transferred** with a **definite 6-month live-vaccine hold** in the exposed infant. All three labels are tier-equal, so this is carried as a drug-level difference, not resolved as a conflict.
+
+**Cards:** none written. Both sources are **FDA labels, not guidelines/CPUs/consensus** — the guideline-sourced-cards-only rule bars cards from them, so every fact added this pass is uncardable by source type. Same logic already recorded for the peginterferon and Vowst label ingests. No card file touched; [[anti-tnf-agents]]'s existing cards are unaffected because no guideline-backed fact on the page changed.
+
+**⚠ Page-length ranking corrected — the slim step has been aiming at the wrong pages.** The 2026-11-02 entry below says [[anti-tnf-agents]] "is now the wiki's longest page". **It is not, and was not.** Measured as body words excluding `## Sources`, it sits at **2850** (2685 before this pass's additions), while **12 pages exceed 4000**:
+
+- [[lynch-syndrome]] 4628 (now 4237) · [[jak-inhibitors]] 4578 · [[chronic-pancreatitis]] 4488 · [[liver-transplantation]] 4422 · [[autoimmune-pancreatitis]] 4395 · [[polypectomy]] 4382 · [[antireflux-surgery]] 4368 · [[hepatic-encephalopathy]] 4349 · [[celiac-disease]] 4323 · [[cirrhosis]] 4307 · [[acute-pancreatitis]] 4283 · [[endoscopy-sedation]] 4197.
+- **Root cause: there was no word-count script**, so each pass re-eyeballed the ranking. Added **`.pagelen.py`** — ranks entity pages by body words excluding `## Sources`, flags everything over 2500, and **skips `wiki/sources/` by default** because source pages are long by design (recommendation capture requires every named statement; the longest source page is **17,036** words and that is not a defect). `--all` lists every entity page, `--sources` includes source pages for auditing. **Rank with this before slimming; do not trust a previous entry's claim.**
+
+**⚠ The slim step cannot close this gap at its current rate — Nick's call needed.** `.pagelen.py` reports **102 of 339 entity pages over the 2500-word ceiling**, topping out at 4578. At the mandated 1–2 pages per pass that is 50–100 passes of slimming, and this pass's own experience suggests most of those pages are in [[lynch-syndrome]]'s position: long because they carry many decision-critical criteria, not because they are padded. Two options worth a decision rather than a default: **(a)** accept a higher ceiling for multi-organ syndrome and multi-indication drug-class pages, or **(b)** split the largest ones by subtopic (extracolonic surveillance off [[lynch-syndrome]], per-agent pages off [[jak-inhibitors]] and [[anti-tnf-agents]]). Splitting creates pages, so it is not something a lint pass should do unilaterally.
+
+**Slimmed (1 page):**
+
+- [[lynch-syndrome]] **4628 → 4237 words.** Cut: the CAPP2 trial narrative (2×2 design, randomization counts, two follow-up windows, four hazard ratios) condensed to a **three-row table of where AGA, ACG and USMSTF each land**, keeping the 600 mg/d dose tested, the harms (1% GI bleed, <1% stroke) and the "dose and duration unknown" caveat; the colonoscopy effect-size meta-analysis and cost-effectiveness modelling; the hysterectomy/BSO retrospective rates; the two pancreatic-cancer cohort SIRs (redundant with the 9–11-fold figure already stated). Converted the accelerated-dwell-time rationale into a `[!pearl]` and the metastatic section into two lines + a pointer to [[colorectal-cancer]], which owns systemic therapy.
+- **Internal duplication fixed:** Amsterdam II restated all five criteria immediately after saying it differs from Amsterdam I by one change — now states only the change; the 3-question risk tool appeared in both *Establishing the Diagnosis* and *Relevant Risk Prediction Tools* — merged into the first, with its sensitivity figures.
+- ⚠ **It is still over the ~2500 ceiling and was left there deliberately.** What remains is almost entirely decision-critical criteria this page's decisions rest on — Amsterdam I/II, revised Bethesda, gene-specific CRC and endometrial risk tables, the AGA tumour-testing algorithm, and organ-by-organ surveillance start ages and intervals **each carrying an ACG-vs-USMSTF split that must be preserved**. Content Guide protects those over the ceiling. **The structural fix is to split extracolonic surveillance onto its own page**, but that is core Lynch content rather than off-subject content, so it is left for Nick to approve rather than done unilaterally.
+
+**Hygiene fixes:**
+
+- `.srccheck.py` found **4 frontmatter/`## Sources` mismatches**, all fixed and re-verified to 0: [[chronic-diarrhea]] and [[irritable-bowel-syndrome]] were missing `aga-2023-alpha-gal-syndrome` from `## Sources`; [[microscopic-colitis]] was missing `peery-2025-microscopic-colitis`; [[irritable-bowel-syndrome]]'s frontmatter was missing two slugs its `## Sources` listed, and also carried **`aga-2020-sibo` twice**. One `## Sources` alias title was corrected to match the source page's actual title.
+- **`updated:` deliberately not bumped on those three pages.** The fixes were metadata-only, and bumping would have pushed them to the fresh end of the stalest-page queue — hiding them from the clinical review they have not had. Staleness should track clinical review, not list hygiene.
+- **Clean:** no unescaped alias pipes in any table, no `.DS_Store`/OS artifacts, index reconciles exactly (745 pages / 745 listed, both new source pages present), **zero orphan source pages** (the standing high-yield signal that an ingest never reached its entity pages).
+- **Broken links: 8, all inside `log.md` only** — historical entries naming pages since renamed or merged (`acg-2025-bowel-prep` → [[usmstf-2025-bowel-prep]], `acg-2024-h-pylori`, `malignant-polyp`, `esophageal-manometry`, `hrem`, `acg-2021-benign-anorectal`) plus two from the header's own example text (`wiki-links`, `x`). **No entity, concept, procedure, med or source page has a broken link.** Left as-is: the log is append-only and rewriting past entries would falsify the record.
+
+**Stalest-page validation (2 pages, both source pages, both passed):**
+
+- [[aga-2024-glp1-endoscopy]] (stale since 2026-07-22) — checked against `AGA 2024 CPU GLP-1 Agonists Prior to Endoscopy.pdf`. **No invented numbering or GRADE scheme**: the page states plainly that this is a Communication with no formal GRADE rating, and attributes the hold rules to the ASA rather than to AGA. Physiology anchors verified verbatim against the PDF — liquid emptying T½ **23 min**, abnormal solid emptying **>60% at 2 h and >10% at 4 h**, ASA **day-of** for daily dosing and **1 week prior** for weekly. Nothing to fix; `updated:` bumped.
+- [[aga-2024-diet-nutrition-ibd]] (stale since 2026-07-22) — checked against `AGA 2024 CPU Diet & Nutritional Therapies in IBD.pdf`. **All 12 Best Practice Advice statements present, in the document's own numbering** (the PDF numbers them `BEST PRACTICE ADVICE 1`–`12`), correctly marked not systematically graded. Nothing to fix; `updated:` bumped.
+
+**Steps that did nothing, and why (ceilings, not targets):**
+
+- **Ingest beyond the fetch:** nothing qualified. `raw/` holds no uningested readable non-lecture document — only the 60 **gated** lecture/chalk-talk transcripts (never auto-ingested; this is an unattended pass, so they are reported, not touched) and the broken IANS file. Backlog mode stays off.
+- **Stub expansion:** no `*Stub — to be expanded.*` page is substantively covered by an ingested source this pass; none expanded.
+- **Coverage gaps:** **none filled by design.** The pass was heavy on ingest (2 labels) plus a slim, which CLAUDE.md caps at "1 or none" — taken as none.
+- **Missing entity pages:** none found. One link written during the ingest (`hepatitis-b`) had no page; rather than stub it, the bullet was deleted — it duplicated a pre-biologic HBV-testing fact [[anti-tnf-agents]] already owns, so the correct fix was removal, not a new page.
+- **Needed-sources additions:** no new row qualified. The decisions touched this pass rest on labels now in `raw/`, not on absent primary papers.
+
+---
+
 ## [2026-11-02] lint | Lint pass — the four unverified rewrites from `456f108` audited at last, and `anti-tnf-agents` is now the wiki's longest page
 
 **Entry opened before any other edit** (LINT → *Record as you go*); bullets added as each write landed.

@@ -4,7 +4,7 @@ category: med
 tags: [anti-tnf, infliximab, adalimumab, certolizumab-pegol, golimumab, biologic, ibd, crohns, ulcerative-colitis, immunogenicity, therapeutic-drug-monitoring, biosimilar, immune-checkpoint-inhibitor]
 created: 2026-09-04
 updated: 2026-11-02
-sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis, aga-2018-biologic-biosimilar-switching-ibd, cimzia-2025-certolizumab-pegol-label]
+sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis, aga-2018-biologic-biosimilar-switching-ibd, cimzia-2025-certolizumab-pegol-label, humira-2025-adalimumab-label, simponi-2025-golimumab-label]
 ---
 
 Monoclonal tumor necrosis factor-α (TNF-α) antagonists — **infliximab, adalimumab, certolizumab pegol, golimumab** — the longest-established advanced-therapy class in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], and the drugs behind most combination-therapy, immunogenicity and pre-biologic-screening rules. **Onset is rapid — as early as the first 2 weeks**, and response/remission rates are higher when given **within 2 years of disease onset** ([[acg-2025-crohns]]). Outside IBD: rescue for glucocorticoid-refractory [[immune-checkpoint-inhibitor-colitis|immune checkpoint inhibitor (ICI) colitis]].
@@ -51,11 +51,19 @@ Monoclonal tumor necrosis factor-α (TNF-α) antagonists — **infliximab, adali
 |---|---|---|
 | **Infliximab IV** | **5 mg/kg** at weeks **0, 2, 6** (in UC, **with a thiopurine** — [[acg-2025-uc]] Rec 33) | **5 mg/kg q8wk** |
 | **Infliximab SC** | — (given only after response to IV induction) | **120 mg q2wk**; escalate to **240 mg q2wk** if needed to achieve/recapture response |
-| **Adalimumab** | **160 mg SC wk 0 → 80 mg wk 2 → 40 mg q2wk from wk 4** | **40 mg q2wk**, or **40 mg weekly** in CD |
+| **Adalimumab** | **160 mg SC Day 1** (one day, or **split over two consecutive days**) → **80 mg Day 15** → **40 mg q2wk from Day 29** | **40 mg q2wk**, or **40 mg weekly** in CD ([[acg-2025-crohns]] — the weekly option is not in the label) |
 | **Certolizumab pegol** | **400 mg** at weeks **0, 2, 4** — each dose as **two 200 mg SC injections at separate sites** | **400 mg q4wk**, **only if a clinical response was obtained** to induction ([[cimzia-2025-certolizumab-pegol-label]]) |
-| **Golimumab** | **200 mg → 100 mg** | **100 mg q4wk** |
+| **Golimumab** (UC only) | **200 mg wk 0 → 100 mg wk 2** | **100 mg at wk 6, then q4wk** ([[simponi-2025-golimumab-label]]) |
 
-*CD dosing from [[acg-2025-crohns]]; UC dosing from [[acg-2025-uc]]; certolizumab from [[cimzia-2025-certolizumab-pegol-label]]. Two figures are not guideline-stated — verify against product labeling: the **golimumab every-4-week interval** (the 100 mg dose is) and the **adalimumab CD induction regimen** (the loading sequence comes from the UC guideline).*
+*CD dosing from [[acg-2025-crohns]]; UC dosing from [[acg-2025-uc]]; adalimumab schedule confirmed against [[humira-2025-adalimumab-label]], certolizumab against [[cimzia-2025-certolizumab-pegol-label]], golimumab against [[simponi-2025-golimumab-label]].*
+
+- **Golimumab maintenance starts at week 6, not week 4** — there is a **4-week gap** between the week-2 induction dose and the first maintenance dose ([[simponi-2025-golimumab-label]]).
+- **Pediatric weight bands** (labels): golimumab **≥15 kg to <40 kg** = 100 mg wk 0 → 50 mg wk 2 → 50 mg q4wk. Adalimumab CD **17 kg to <40 kg** = 80 mg Day 1 → 40 mg Day 15 → 40 mg q2wk.
+
+> [!pitfall] Adalimumab in UC has a hard stop at week 8
+> **Discontinue adalimumab in adults with ulcerative colitis who have no evidence of clinical remission by 8 weeks (Day 57)** ([[humira-2025-adalimumab-label]]). No ingested UC guideline states this, and the label sets **no** analogous endpoint for Crohn's disease.
+
+**Label indications differ across the class, and they constrain agent choice:** adalimumab covers **both** CD (≥6 y) and UC (≥5 y); certolizumab pegol is **adult CD only**; golimumab is **UC only** (≥15 kg). Adalimumab's label adds a **Limitation of Use** — effectiveness **has not been established in patients who have lost response to or were intolerant of anti-TNF agents** ([[humira-2025-adalimumab-label]]).
 
 **Certolizumab administration** ([[cimzia-2025-certolizumab-pegol-label]]): supplied as a **200 mg lyophilized vial** (reconstituted with 1 mL Sterile Water for Injection by a health care professional — swirl, never shake; use within 24 h at 2–8 °C) or a **200 mg/mL prefilled syringe** a trained patient may self-inject. Every 400 mg dose = **two injections at separate sites** in thigh or abdomen, ≥2 inches from the navel and ≥1 inch from the previous site.
 
@@ -174,8 +182,17 @@ See [[chronic-hepatitis-b]].
 
 **Pregnancy and lactation**
 - Anti-TNF agents are **safe during preconception planning, throughout pregnancy, and postpartum** ([[acg-2025-crohns]]).
-- **Certolizumab placental transfer is negligible to low** — infant plasma at birth **≥75% below maternal** with a last dose a mean 19 days before delivery; **no dosage adjustment required in pregnancy**. Minimal in breast milk, **undetectable in breastfed infants at 4 weeks postpartum** ([[cimzia-2025-certolizumab-pegol-label]]).
-- ⚠ **Unresolved:** the safety of **live or live-attenuated vaccines in an infant exposed in utero** is unknown, and certolizumab may be **eliminated more slowly in infants than adults**.
+- **Placental transfer splits the class** — the one pharmacologic difference that drives agent choice in pregnancy. All three labels are tier-equal, so these are drug-level facts, not a conflict:
+
+| Agent | Third-trimester placental transfer | Live vaccines in the exposed infant |
+|---|---|---|
+| **Certolizumab pegol** | **Negligible to low** — infant plasma at birth **≥75% below maternal** (last dose a mean 19 d before delivery); **no dose adjustment in pregnancy** ([[cimzia-2025-certolizumab-pegol-label]]) | Safety **unknown**; may be **eliminated more slowly in infants than adults** |
+| **Adalimumab** | **Actively transferred**, rising as pregnancy progresses, greatest in the third trimester ([[humira-2025-adalimumab-label]]) | Safety **unknown** — weigh risks and benefits before vaccinating |
+| **Golimumab** | **Transported across the placenta**; another anti-TNF was detected in infant serum **up to 6 months**, so exposed infants may be at increased infection risk ([[simponi-2025-golimumab-label]]) | ⚠ **Not recommended for 6 months** after the mother's last dose in pregnancy — the only label giving an interval |
+
+- **Certolizumab in breast milk is minimal** and **undetectable in breastfed infants at 4 weeks postpartum** ([[cimzia-2025-certolizumab-pegol-label]]).
+- **Disease activity is itself the risk** — increased IBD activity in pregnancy is associated with **preterm delivery (<37 wk), low birth weight (<2500 g) and small-for-gestational-age** birth ([[humira-2025-adalimumab-label]], [[simponi-2025-golimumab-label]]).
+- Adalimumab pregnancy registry (OTIS/MotherToBaby, 221 first-trimester exposures vs 106 untreated): major birth defects **10% vs 7.5%**, with **no pattern of defects** — the label calls this reassuring ([[humira-2025-adalimumab-label]]).
 
 **Malignancy.** Class-level cancer risk and the drug-by-cancer-type stop/continue grid live on [[ibd-in-malignancy]].
 
@@ -218,3 +235,5 @@ See [[chronic-hepatitis-b]].
 6. [[aga-2021-ici-colitis-hepatitis|AGA Clinical Practice Update on Diagnosis and Management of Immune Checkpoint Inhibitor Colitis and Hepatitis: Expert Review]]
 7. [[aga-2018-biologic-biosimilar-switching-ibd|AGA Clinical Practice Update: Switching Between Biologics and Biosimilars in Inflammatory Bowel Disease]]
 8. [[cimzia-2025-certolizumab-pegol-label|CIMZIA (Certolizumab Pegol) — FDA Prescribing Information]]
+9. [[humira-2025-adalimumab-label|HUMIRA (Adalimumab) — FDA Prescribing Information]]
+10. [[simponi-2025-golimumab-label|SIMPONI (Golimumab) — FDA Prescribing Information]]

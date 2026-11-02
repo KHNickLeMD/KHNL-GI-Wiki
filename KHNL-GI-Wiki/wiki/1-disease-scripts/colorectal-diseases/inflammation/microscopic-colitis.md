@@ -177,3 +177,4 @@ flowchart TD
 3. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]
 4. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]
 5. [[acg-2022-celiac|ACG 2022: Diagnosis and Management of Celiac Disease]]
+6. [[peery-2025-microscopic-colitis|Update on the Epidemiology and Management of Microscopic Colitis]]

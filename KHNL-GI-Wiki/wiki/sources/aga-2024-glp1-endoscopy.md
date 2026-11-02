@@ -3,7 +3,7 @@ title: "AGA Rapid Clinical Practice Update on the Management of Patients Taking 
 category: source
 tags: [glp-1, semaglutide, endoscopy, sedation, aspiration, gastroparesis, periprocedural, cpu]
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-11-02
 sources: []
 ---
 
