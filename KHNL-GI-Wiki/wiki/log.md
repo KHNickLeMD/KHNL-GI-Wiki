@@ -6,6 +6,21 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-03] update | Card pass — deck has no duplicates and no eligible page left; the carried CHB attribution flag is closed
+
+**Deck slimming (ran first, per *Slim the deck*):** `anki-dupes.mjs` returned **0 unjudged candidate pairs** at ≥0.4 — every pair down to that threshold has a ledger verdict already. No merges, no retirements, nothing to mark.
+
+**New cards: nothing qualified.**
+
+- **No unfinished page to resume** — all **336** card files carry `page_updated`.
+- **No stale card file.** Both pages the 06:00 lint pass slimmed after the previous card entry ([[jak-inhibitors]], [[chronic-pancreatitis]]) already have card files at `page_updated: 2026-11-03`, so the slims did not orphan any card work.
+- The **only 3 eligible pages are the three standing skips**, each re-checked against the page as it now stands: `5-meds/peginterferon-alfa-2a` · `7-concepts/bristol-stool-form-scale` · `7-concepts/telemedicine-in-gastroenterology`. Verdicts unchanged — see the earlier entry today for the reasoning.
+- Deck rebuilt: **4,190 notes**, build reported **no problems**.
+
+**Carried flag from the earlier card entry — now closed, and it changes nothing for the deck.** That entry left the peg-interferon attribution question "still unresolved": both [[peginterferon-alfa-2a]] and [[chronic-hepatitis-b]] cite `aasld-idsa-2025-chb-treatment` for "rarely used in chronic hepatitis B, poorer tolerability than nucleos(t)ide analogues," and the source page appeared to say nothing about peg-interferon. The 06:00 lint pass settled it against the PDF: the guideline does say it (ungraded *Core Concepts* prose, no numbered recommendation), and the source page has carried the section since 2026-11-01. The claim is tier-1-backed and **already carded on its owner page** — `chronic-hepatitis-b` `[b01018]`, written 2026-10-31 — so the one-owner rule still keeps it off `peginterferon-alfa-2a`, which stays deliberately uncarded.
+
+---
+
 ## [2026-11-03] lint | 06:00 pass — the two carried-over slim jobs finished, and the peg-interferon mis-attribution run to ground
 
 **Pre-flight:**
