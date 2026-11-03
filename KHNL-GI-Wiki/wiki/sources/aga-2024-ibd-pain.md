@@ -3,7 +3,7 @@ title: "AGA 2024 Clinical Practice Update on Pain Management in Inflammatory Bow
 category: source
 tags: [ibd, crohns, ulcerative-colitis, pain, chronic-pain, neuromodulators, brain-gut-behavior-therapy, opioids, narcotic-bowel-syndrome, psychogastroenterology]
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-11-03
 sources: []
 ---
 
@@ -86,7 +86,7 @@ Management is multidisciplinary: an experienced pain psychologist for the initia
 
 **Table 2 (part 2) — Neuromodulator classes, dosing, adverse effects, timing, efficacy, indications (reproduced):**
 
-| Variable | Tricyclic antidepressants || Selective serotonin reuptake inhibitors (SSRIs) || Serotonin noradrenergic reuptake inhibitors | Miscellaneous |
+| Variable | Tricyclic antidepressants | Selective serotonin reuptake inhibitors (SSRIs) | Serotonin noradrenergic reuptake inhibitor | Miscellaneous |
 |---|---|---|---|---|
 | Classes/dosing (mg/d) | Amitriptyline (10–100); Imipramine (25–100); Nortriptyline (50–150); Desipramine (50–200) | Fluoxetine (20–80); Citalopram (20–40); Escitalopram (10–20); Sertraline (50–200); Paroxetine (20–50) | Venlafaxine extended-release (XR) (37.5–225); Duloxetine (30–120); Vortioxetine (5–20) | Mirtazapine (15–45); Bupropion sustained-release (SR)/extended-release (XL) (100–450) |
 | Reported adverse effects (minimized by individualized dosing) | Sedation; arrhythmia (high dose); dry mouth; sexual dysfunction | Gastrointestinal; headache; insomnia; akathisia; sexual dysfunction | Same as SSRIs; hypertension | Mirtazapine: sedation, nausea, weight gain. Bupropion: weight loss, tachycardia, dry mouth, headache |
@@ -115,20 +115,28 @@ Management is multidisciplinary: an experienced pain psychologist for the initia
 
 **Referral and team structure**
 
-- First contact for new-onset abdominal pain: primary care physician or gastroenterologist. **Once organic causes such as a flare are ruled out, the gastroenterologist should consider multidisciplinary, whole-person care early.**
+- First contact for new-onset abdominal pain: primary care physician or gastroenterologist. **Once organic causes for the persistent pain such as a disease flare are ruled out, the gastroenterologist should *always* consider multidisciplinary, whole person–centered care early in the treatment plan**; such referrals should be made **early in the course of patient–physician interactions**.
+- Patients appropriate for the **clinician-administered brain–gut behavior therapies** include those who recognize the cognitive and behavioral contributors to their chronic pain, and/or who require personalization of their treatment plan.
+- The gastroenterology provider must **remain fully involved in the care plan** — ideally through a shared electronic medical record or an established community referral pathway.
 - The initial comprehensive assessment should include a **psychologist experienced in chronic visceral pain**; nonpsychologists should yield to mental health professionals on modality choice.
 - Prescribable/manageable by gastroenterologists: **instruction in breathing techniques, low-dose TCAs, SNRIs**.
-- **Cognitive behavioral therapy** — for patients with no or limited response; works best in patients with insight into how thoughts, feelings, and behaviors relate to their pain.
+- **Cognitive behavioral therapy (CBT)** — for patients with no or limited response; works best in patients with insight into how thoughts, feelings, and behaviors relate to their pain.
 - **Hypnotherapy** — for patients with more visceral hypersensitivity or somatic symptoms, provided no severe post-traumatic stress disorder (PTSD) or other contraindication, and delivered by a certified clinical provider.
 - Significant psychiatric comorbidity requires psychologist or psychiatrist involvement.
-- Patients who benefit most from self-management have **milder symptoms, high motivation, and a sense of confidence**; digital cognitive behavioral therapy (CBT) and gut-directed hypnosis tools improve access.
+- Patients who benefit most from self-management have **milder symptoms, high motivation, and a sense of confidence**; digital CBT and gut-directed hypnosis tools improve access.
 - **Uptake of nonpharmacologic therapy increases considerably when the referral is made by the IBD provider**; schedule a follow-up visit after any outside referral to check on it.
 - Rome Foundation Psychogastroenterology Group is named as a route to find brain–gut-trained psychologists.
 
-**Figures (not reproduced here)**
+**Figure 1** (both panels recreated on [[ibd-pain-management]])
 
-- **Figure 1A** — Algorithm for the diagnostic workup of patients with IBD and abdominal pain.
-- **Figure 1B** — Diagram of the levels of intervention matched to levels of pain complexity.
+- **Figure 1A** — algorithm for the diagnostic workup of patients with IBD and abdominal pain. Entry node is *determine degree and correlation of inflammation, injury, and self-report of abdominal pain*, branching to three strata: **high pain-inflammation correlation**, **low pain-inflammation correlation**, **no inflammation**. High and low correlation → **optimize medical therapy** → low correlation additionally → **consider risk factors for development of brain–gut dysregulation**. No inflammation → **introduce concept of brain–gut dysregulation and consider/titrate neuromodulator (low dose TCA, gabapentin)**. Both arms converge on **re-assess self-report of pain — was there resolution or diminution of pain?**; *no* → **deploy integrated approach to chronic pain management**.
+- **Figure 1B** — levels of intervention matched to levels of pain complexity (vertical axis: *complexity and need for integrated care or multiple modalities*). Ascending: visceral hypersensitivity · overlapping disorder of gut–brain interaction including IBS and functional dyspepsia → **brain–gut behavior therapies** (cognitive behavior therapy, acceptance and commitment therapy, hypnosis, mindfulness/relaxation, wellness activities [exercise, sleep hygiene, stress management]); overlapping depression/anxiety · multiple pain sites/comorbidities → **augmentation with neuromodulators including SNRI and SSRI (if anxiety or depression present, combine with TCA)**; severe disability/impact on ability to work · central sensitization or centrally mediated abdominal pain syndrome (CAPS) → **intensive pain and psychological management programs**; opioid overuse/substance abuse → **substance abuse referral and psychiatric care**.
+
+**Conclusions (the Update's own summary)**
+
+- Acute abdominal pain during inflammation is common and **generally disappears rapidly with appropriate medical therapy**.
+- In the **moderate number** of patients whose pain persists and becomes chronic, central mechanisms of pain modulation likely play the primary role in persistence; some are shared with IBS and other chronic pain disorders.
+- In those patients, multidisciplinary care is most effective — address pain with **a combination of brain–gut behavioral therapies and neuromodulators early in the course of treatment**.
 
 ---
 
@@ -145,4 +153,7 @@ Management is multidisciplinary: an experienced pain psychologist for the initia
 - **No formal evidence grading** — commentary format; no Best Practice Advice numbering, no Grading of Recommendations Assessment, Development and Evaluation (GRADE) ratings.
 - **When an acute pain episode has "converted" to chronic pain in IBD is not resolvable** — the relapsing-remitting nature of inflammation and the lack of clarity about when the peripheral cause is resolved are named as an area of future research.
 - The 3–6 month chronicity window in the text vs the IASP >3 month definition in Table 1 are stated side by side without reconciliation.
+- **Internal contradiction on gabapentin.** Figure 1A names **gabapentin** (with low-dose TCA) as the neuromodulator to introduce and titrate in the *no inflammation* arm. The body text classes gabapentin as a **mood stabilizer not studied in patients with IBD**, supported by case reports only, to be considered **only with psychiatric consultation**. The document does not reconcile the two; [[ibd-pain-management]] carries the text's restriction and flags the figure.
+- Only *acute pain* and *chronic pain* in Table 1 are referenced to IASP; *pain acceptance*, *psychological flexibility*, *pain catastrophizing*, and *negative expectancy* are referenced to other primary literature, not IASP.
+- No pain severity/impact questionnaire is named, though the text acknowledges several exist.
 - Mood stabilizers, atypical antipsychotics, ketamine, and cannabis all lack IBD-specific evidence.

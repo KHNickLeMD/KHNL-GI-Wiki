@@ -42,12 +42,12 @@ sources: [acg-2015-hereditary-gi-cancer, nccn-2026-gastric-cancer, aga-2025-gast
 
 **Genetic etiology**:
 
-- CDH1 encodes E-cadherin, a cell-to-cell adhesion protein; high penetrance
+- CDH1 encodes E-cadherin, a cell-to-cell adhesion protein
 - Signet-ring cell cancer is the pathological hallmark; linitis plastica is the advanced form
 
 ### Severity Assessment
 
-Cancer risk profile — two consortium estimates are reported and they differ; the newer, higher one is what the ">80% risk by age 80" in the management recommendation rests on [[acg-2015-hereditary-gi-cancer]]:
+Cancer risk profile — ACG 2015 reports two consortium estimates and they differ; it does not say which to use [[acg-2015-hereditary-gi-cancer]]:
 
 | Source | Gastric cancer lifetime risk | Lobular breast cancer lifetime risk |
 |---|---|---|
@@ -63,7 +63,7 @@ Cancer risk profile — two consortium estimates are reported and they differ; t
 
 *Workup: see [[dyspepsia]].*
 
-- **Sporadic diffuse gastric cancer** — no CDH1 mutation; accounts for ~99% of diffuse gastric cancer cases
+- **Sporadic diffuse gastric cancer** — no CDH1 mutation; the large majority of diffuse gastric cancer, since only ~1–3% is attributable to HDGC
 - **Hereditary intestinal gastric cancer** — component tumor in [[lynch-syndrome]] and [[familial-adenomatous-polyposis]]
 - **[[peutz-jeghers-syndrome]]** — 29% gastric cancer risk; intestinal-type histology; STK11 mutations
 - **[[gastric-premalignant-conditions]]** — Correa cascade leading to intestinal-type gastric cancer; [[helicobacter-pylori-infection|H. pylori]] driven; not CDH1

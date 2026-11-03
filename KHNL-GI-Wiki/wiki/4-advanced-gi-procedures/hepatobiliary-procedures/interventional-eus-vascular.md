@@ -3,7 +3,7 @@ title: "Interventional EUS for Vascular Investigation and Therapy"
 category: advanced-procedure
 tags: [eus, gastric-varices, coil-embolization, cyanoacrylate, eus-ppg, portal-pressure-gradient, portal-vein-sampling, pseudoaneurysm, splenic-artery-embolization, rectal-varices, portal-hypertension]
 created: 2026-07-23
-updated: 2026-10-22
+updated: 2026-11-03
 sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consensus, asge-2026-esophageal-gastric-varices]
 ---
 
@@ -30,7 +30,7 @@ sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consens
 | Intervention | Status | Evidence base |
 |---|---|---|
 | Gastric variceal coil ± glue | Clinically available; **strongest case for adoption at centers of expertise** | 3 retrospective series, 2 small randomized controlled trials (RCTs), meta-analyses |
-| EUS-PPG | Clinically available (FDA-approved device); **53-statement international Delphi consensus now published** | Largest multicenter series **n=385** (zero bleeding events, no platelet/international normalized ratio [INR] exclusion); aggregate adverse events (AEs) **<1%** ([[wang-2026-eus-ppg-delphi-consensus]]) |
+| EUS-PPG | Clinically available (Food and Drug Administration [FDA]-approved device); **53-statement international Delphi consensus now published** | Largest multicenter series **n=385** (zero bleeding events, no platelet/international normalized ratio [INR] exclusion); aggregate adverse events (AEs) **<1%** ([[wang-2026-eus-ppg-delphi-consensus]]) |
 | Ectopic/rectal varices | Emerging | Case reports + 1 small series |
 | Splenic artery embolization | Emerging | 5-patient series |
 | Arterial bleeding / pseudoaneurysms | Emerging (salvage) | 6- and 8-patient series |
@@ -78,7 +78,7 @@ sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consens
 ## EUS-Guided Portal Pressure Gradient (EUS-PPG)
 
 - Standard **[[hepatic-venous-pressure-gradient|hepatic venous pressure gradient (HVPG)]]** (interventional radiology, transjugular) measures the portal gradient **indirectly**, as the difference between wedged and free hepatic vein pressure. Drawbacks: requires radiation and contrast; being indirect it can **misdiagnose noncirrhotic/presinusoidal portal hypertension**.
-  - ⚠ **Source wording:** [[aga-2023-interventional-eus-vascular|American Gastroenterological Association (AGA) 2023]] writes this as *"the difference between the free hepatic vein pressure and wedged hepatic vein pressure"* — the subtraction stated in that order yields a negative number. The definition used here is the one on **[[hepatic-venous-pressure-gradient]]** (HVPG = wedged hepatic vein pressure [WHVP] − free hepatic vein pressure [FHVP]); do not use the Clinical Practice Update's (CPU's) ordering.
+  - HVPG = wedged hepatic vein pressure (WHVP) − free hepatic vein pressure (FHVP); full definition and staging on [[hepatic-venous-pressure-gradient]].
 - Reference thresholds cited: **HVPG >10 mm Hg** correlates with development of esophageal varices; **HVPG >12 mm Hg** with increased risk of bleeding esophageal varices. (Full HVPG staging is on [[hepatic-venous-pressure-gradient]]; portal-hypertension staging context on [[portal-hypertension]].)
 - **EUS-PPG measures the hepatic vein–portal vein gradient directly**, using the FDA-approved EchoTip Insight system (Cook).
 

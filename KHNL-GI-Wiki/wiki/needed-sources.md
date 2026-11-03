@@ -74,7 +74,7 @@ FDA prescribing information from [DailyMed](https://dailymed.nlm.nih.gov/dailyme
 | AGA 2021 bleeding gastric varices Supplementary Figure 1 | cyanoacrylate injection technique | [[aga-2021-bleeding-gastric-varices]] |
 | AGA 2021 perforations Supplementary Table 1 | OTSC data for esophageal perforation | [[aga-2021-gi-perforations-endoscopic-management]] |
 | AGA 2022 SBS Figures 1–3, Supplementary Figure 1, published Table 1 | anatomic classification, LILT/STEP diagrams, PN algorithm; micronutrient units | [[short-bowel-syndrome]], [[aga-2022-short-bowel-syndrome]] |
-| AGA 2023 IBD pain Figure 1A/1B | workup algorithm; levels of intervention | [[ibd-pain-management]] |
+| AGA 2024 CPU IBD pain Figure 1A/1B (p. 1184) | the printed panels themselves. Both are now recreated as text on the entity page — 1A as a Mermaid flowchart of the pain–inflammation-correlation arms, 1B as a complexity→intervention table — so the clinical content is covered and only the images are outstanding | [[ibd-pain-management]], [[aga-2024-ibd-pain]] |
 | AGA 2023 AI colon polyp Figures 1–2 | CADe / CADx displays | [[artificial-intelligence-endoscopy]] |
 | AGA 2024 POEM Figures 1 and 3 | POEM role flow chart; anterior vs posterior tunnel | [[aga-2024-poem-advances]] |
 | AGA 2025 enteral access Figure 1 | access-site anatomy | [[enteral-access]] |

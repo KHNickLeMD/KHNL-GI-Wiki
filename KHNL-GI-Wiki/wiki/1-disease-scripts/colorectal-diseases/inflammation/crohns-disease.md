@@ -3,7 +3,7 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-11-02
+updated: 2026-11-03
 sources: [aga-2018-functional-gi-symptoms-ibd, acg-2025-crohns, aga-2017-crohns-after-surgical-resection, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia]
 ---
 
@@ -282,6 +282,8 @@ By patient profile ([[acg-2025-crohns]] KC 55):
 ---
 
 ### Monitoring
+
+- **60% of CD patients have persistent abdominal pain while endoscopy shows remission** — not automatically a flare; once inflammation, stricture, abscess and fistula are excluded, manage as chronic pain ([[ibd-pain-management]], [[aga-2024-ibd-pain]]).
 
 | Assessment | Timing | Measure |
 |---|---|---|

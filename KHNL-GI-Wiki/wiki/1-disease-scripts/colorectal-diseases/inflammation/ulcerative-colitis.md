@@ -3,7 +3,7 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-11-02
+updated: 2026-11-03
 sources: [asge-acg-2024-colonoscopy-quality-indicators, aga-2018-functional-gi-symptoms-ibd, acg-2025-uc, aga-2019-mild-moderate-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt, aga-2021-ibd-colorectal-dysplasia, ho-2004-severe-uc-risk-score]
 ---
 
@@ -291,6 +291,8 @@ Ulcerative colitis (UC): idiopathic chronic [[inflammatory-bowel-disease|inflamm
 ---
 
 ### Monitoring
+
+- **30% of UC patients have persistent abdominal pain while endoscopy shows remission** — not automatically a flare; once inflammation and complications are excluded, manage as chronic pain ([[ibd-pain-management]], [[aga-2024-ibd-pain]]).
 
 **After starting an advanced therapy** ([[aga-2024-uc-pharm|AGA 2024]]; ACG: assess each agent at a set point, **6–12 wk**):
 
