@@ -3,7 +3,7 @@ title: "Colonic Diverticulitis"
 category: disease-script
 tags: [diverticulitis, diverticular-disease, colorectal, antibiotics, hinchey, scad, sudd]
 created: 2026-07-23
-updated: 2026-09-29
+updated: 2026-11-03
 sources: [acg-2026-diverticulitis, aga-2021-colonic-diverticulitis, aga-2015-acute-diverticulitis]
 ---
 
@@ -104,7 +104,7 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 
 ### Acute episode — antibiotics
 
-- **Suggest against routine antibiotics for low-risk acute uncomplicated diverticulitis** (*conditional, moderate certainty*). randomized controlled trial (RCT) meta-analysis (4 trials, n=1,809): antibiotics had little/no effect on mortality, progression to complicated disease, surgery, readmission, or recurrence.
+- **Suggest against routine antibiotics for low-risk acute uncomplicated diverticulitis** (*conditional, moderate certainty*). Randomized controlled trial (RCT) meta-analysis (4 trials, n=1,809): antibiotics had little/no effect on mortality, progression to complicated disease, surgery, readmission, or recurrence.
 - **Low-risk = nonantibiotic candidate — ALL of the following must be present:**
   - Immunocompetent · outpatient · no evidence of complicated disease · hemodynamically stable · no systemic inflammatory response syndrome (SIRS: fever, tachycardia, leukocytosis) · not medically frail · tolerating oral intake · no recent antibiotic use · reliable follow-up + adequate social support.
 - **Antibiotics ARE reasonable when:** immunocompromise · frailty · significant comorbidities · clinical deterioration or persistent/worsening symptoms · unable to tolerate oral intake · vomiting · markedly elevated CRP · higher-risk imaging (fluid collection, longer inflamed segment) · inadequate outpatient support/follow-up.
@@ -148,7 +148,7 @@ Recurrence is common and rises with each episode (10-yr risk: ≥22% after 1st, 
 
 - **Refer for surgical consult** when **recurrent uncomplicated** diverticulitis **significantly impairs quality of life** — to discuss risks/benefits, individualized (*conditional, low certainty*).
 - **The number of episodes should NOT determine surgery** — the old "colectomy after 2 episodes" rule is abandoned; recurrence does not increase the risk of future complicated disease, and young age alone is not an indication.
-- **Trade-offs to counsel:** elective colectomy cuts 5-yr recurrence to ~15% (vs ~60% without) but does not eliminate it; DIRECT/LASER RCTs showed quality of life (QoL) gains, but QoL was unchanged/worse in 30% (DIRECT) and abdominal pain persisted in 63% at 6 months (LASER); major surgical complications 10–34%; nearly one-third report decision regret. Confirm diagnosis by CT before elective resection.
+- **Trade-offs to counsel:** elective colectomy cuts 5-yr recurrence to ~15% (vs ~60% without) but does not eliminate it; DIRECT/LASER RCTs showed quality of life (QoL) gains, but QoL was unchanged/worse in 30% (DIRECT), and in LASER 73% had abdominal pain at baseline with 63% still in pain at 6 months postoperatively; major surgical complications 10–34%; nearly one-third report decision regret. Confirm diagnosis by CT before elective resection.
 - **Does not apply to** strictures, fistulas, chronic/smoldering diverticulitis, or prior abscess/perforation.
 
 **After a FIRST episode of acute uncomplicated diverticulitis — suggest against elective colonic resection**; individualize (AGA 2015, *conditional, very-low quality*). The numbers behind that:

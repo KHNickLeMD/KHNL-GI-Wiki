@@ -3,7 +3,7 @@ title: "Needed Sources — Download List"
 category: overview
 tags: [maintenance, sources]
 created: 2026-09-08
-updated: 2026-11-02
+updated: 2026-11-03
 sources: []
 ---
 
@@ -45,14 +45,13 @@ Guidelines, papers, labels and figures that would close a specific gap on a wiki
 | 🔒 [Krowka MJ et al. ILTS practice guidelines: hepatopulmonary syndrome and portopulmonary hypertension. *Transplantation* 2016;100:1440–52](https://doi.org/10.1097/TP.0000000000001229) | POPH mPAP / PVR / wedge cut-offs | [[hepatopulmonary-syndrome-portopulmonary-hypertension]] |
 | 🌐 [ACG 2022 celiac guideline Supplementary Table 1](https://doi.org/10.14309/ajg.0000000000002075) | Marsh IIIA/B/C and Corazza definitions | [[celiac-disease]] |
 | 🔒 [McClave SA et al. Guidelines for nutrition support therapy in the adult critically ill patient (ASPEN/SCCM). *JPEN* 2016;40:159–211](https://doi.org/10.1177/0148607115621863) | metoclopramide / erythromycin doses in EN intolerance | [[nutrition-in-hospitalized-patients]] |
+| 🌐 [ACG 2021 IBS guideline (Lacy) Supplemental Table 2](https://doi.org/10.14309/ajg.0000000000001036) | tegaserod cardiovascular risk-factor list | [[tegaserod]] |
 
 ## Product labels
 
 FDA prescribing information from [DailyMed](https://dailymed.nlm.nih.gov/dailymed/) — the daily fetch downloads these with `fetch-paper.py --label`.
 
-| Resource | Fills | Page(s) |
-|---|---|---|
-| 🌐 [ACG 2021 IBS guideline (Lacy) Supplemental Table 2](https://doi.org/10.14309/ajg.0000000000001036) | tegaserod cardiovascular risk-factor list | [[tegaserod]] |
+*No outstanding label rows — every dose gap currently open on a wiki page is one no label would close.*
 
 ## Figures and tables in already-ingested PDFs that need capture (raster images, no text layer)
 

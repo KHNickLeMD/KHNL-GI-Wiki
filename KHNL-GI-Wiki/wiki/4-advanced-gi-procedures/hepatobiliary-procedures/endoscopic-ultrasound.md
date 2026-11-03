@@ -3,8 +3,8 @@ title: "Endoscopic Ultrasound (EUS)"
 category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
-updated: 2026-10-23
-sources: [asge-2023-ergonomics, acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, wang-2026-eus-ppg-delphi-consensus]
+updated: 2026-11-03
+sources: [asge-2023-ergonomics, acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, wang-2026-eus-ppg-delphi-consensus, apa-2014-chronic-pancreatitis, catalano-2009-rosemont-classification]
 ---
 
 # Endoscopic Ultrasound (EUS)
@@ -21,6 +21,9 @@ Endoscopic ultrasound (EUS) quality standards from American College of Gastroent
   - [[#FNA vs FNB — Diagnostic Yield]]
   - [[#Adverse Event Rate Benchmarks]]
 - [[#EUS in Pancreatic Cyst Evaluation]]
+- [[#EUS Criteria for Chronic Pancreatitis]]
+  - [[#Conventional (unweighted) criteria]]
+  - [[#Rosemont classification]]
 - [[#EUS in Mediastinal Adenopathy / Lung-Cancer Staging]]
 
 ---
@@ -194,6 +197,71 @@ From [[acg-2018-pancreatic-cysts]]:
 - EUS is an acceptable **primary** surveillance tool for patients who cannot have, or prefer not to have, [[mri-mrcp|MRI/MRCP]]; above 3 cm the guideline pairs it with MRI in alternation rather than using either alone.
 
 > **The size-by-interval surveillance grid, the Rec 11 high-risk feature list, and the Rec 10 short-interval triggers are on [[pancreatic-cysts]]** — along with the **carbohydrate antigen 19-9 (CA 19-9) >37 U/mL** cutoff behind "significantly elevated" and the **6-month** short-interval figure. Note that cyst **growth rate is a Rec 10 trigger** (short-interval imaging), **not** a Rec 11 referral trigger. Go there to decide; use this page for how the EUS itself is done.
+
+---
+
+## EUS Criteria for Chronic Pancreatitis
+
+EUS is the most sensitive test for early/minimal-change [[chronic-pancreatitis|chronic pancreatitis (CP)]] and the least specific — use it only when cross-sectional imaging is non-diagnostic, and **never as the sole basis for diagnosis**. Which CP decisions follow the grade: [[chronic-pancreatitis]].
+
+### Conventional (unweighted) criteria
+
+All features count equally and you count them; this is still what [[apa-2014-chronic-pancreatitis|APA 2014]] grades morphology from (Table 4).
+
+| # | Feature | Compartment |
+|---|---|---|
+| 1 | Hyperechoic foci | Parenchymal |
+| 2 | Hyperechoic strands | Parenchymal |
+| 3 | Lobular contour | Parenchymal |
+| 4 | Cysts | Parenchymal |
+| 5 | Main duct dilatation — **>3 mm head, >2 mm body, >1 mm tail** | Ductal |
+| 6 | Duct irregularity | Ductal |
+| 7 | Hyperechoic duct margins | Ductal |
+| 8 | Visible side branches | Ductal |
+| 9 | Stones | Ductal |
+
+- The list is **9** features; some endosonographers add **enlarged pancreas** and **narrowing of the pancreatic duct**.
+- **Counting:** **≥5 features reliably establishes** CP, **absence of all features reliably excludes** it. APA's caveat: some features are physiologic, so that threshold **may not be appropriate** — **1–2 features = normal gland**, **3–4 may indicate early/mild CP**; the ideal threshold has never been firmly established (strong recommendation, low-quality evidence).
+- **Most specific features regardless of age:** ductal or parenchymal calculi, duct narrowing, duct dilatation, or **>3 features**.
+- Morphology grade from these counts (APA Table 6): **0–2 = equivocal · 3–4 = mild · ≥5 = moderate.**
+
+### Rosemont classification
+
+Weighted consensus system (32 endosonographers, two-thirds agreement threshold) that replaced "count the features". Features are **Major A**, **Major B** or **minor**, and combinations map to four diagnostic categories.
+
+| Feature | Compartment | Definition ([[catalano-2009-rosemont-classification]]) | Weight |
+|---|---|---|---|
+| Hyperechoic foci **with** shadowing | Parenchymal | Echogenic structures **≥2 mm in length and width that shadow**; **≥3 needed** | **Major A** |
+| Main pancreatic duct (MPD) calculi | Ductal | Echogenic structure(s) **within the MPD, with acoustic shadowing** | **Major A** |
+| Lobularity **with** honeycombing | Parenchymal | **≥3 contiguous** lobules | **Major B** |
+| Lobularity with **non-contiguous** lobules | Parenchymal | **≥3 noncontiguous** lobules | Minor |
+| Hyperechoic foci **without** shadowing | Parenchymal | Echogenic foci **≥2 mm in both dimensions, no shadowing**; **≥3 needed** | Minor |
+| Hyperechoic stranding | Parenchymal | Hyperechoic lines **≥3 mm long in ≥2 different directions**; **≥3 strands needed** | Minor |
+| Cysts | Parenchymal | Anechoic, rounded/elliptical, **≥2 mm short axis**, ± septations | Minor |
+| MPD dilation — **body ≥3.5 mm** or **tail >1.5 mm** | Ductal | — | Minor |
+| Irregular MPD contour | Ductal | **Uneven or irregular outline and ectatic course** | Minor |
+| Dilated side branches **≥1 mm** | Ductal | **≥3 tubular anechoic structures**, each ≥1 mm wide, budding from the MPD | Minor |
+| Hyperechoic MPD margin | Ductal | Echogenic distinct structure in **>50% of the entire MPD in body and tail** | Minor |
+
+*Lobularity itself = **well-circumscribed, ≥5 mm structures with an enhancing rim and relatively echo-poor centre**; **≥3 lobules in body or tail** are required before the feature is present at all.*
+
+> [!pitfall] Where you look decides whether the feature counts
+> **Only three features may be assessed anywhere in the gland** — hyperechoic foci with shadowing, cysts, and ductal calculi. **Everything else is scored in the body and tail only**, because the normal head is relatively hypoechoic and generates false features. Stranding in the **ventral pancreas alone** is not a nonspecific finding; stranding in **both** dorsal and ventral is. ([[catalano-2009-rosemont-classification]])
+
+**Diagnostic categories** ([[catalano-2009-rosemont-classification]], Table 4 — made **in the appropriate clinical setting**):
+
+| Category | Qualifying combinations |
+|---|---|
+| **Consistent with CP** | **2 Major A** · **or** 1 Major A **+** Major B · **or** 1 Major A **+ ≥3 minor** |
+| **Suggestive of CP** † | 1 Major A **+ <3 minor** · **or** Major B **+ ≥3 minor** · **or** **≥5 minor (any)** |
+| **Indeterminate for CP** † | **3–4 minor, no major** · **or** **Major B alone** or with **<3 minor** |
+| **Normal** | **≤2 minor ‡, no major features** |
+
+- † **"Suggestive" and "indeterminate" are not diagnoses — both require confirmation** by another study ([[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]], computed tomography [CT], magnetic resonance imaging [MRI], or pancreatic function testing).
+- ‡ ⚠ **The "normal" count excludes four minor features** — **cysts, dilated MPD, hyperechoic non-shadowing foci, and dilated side branches.** They do not count toward the ≤2, so a patient carrying three of them and nothing else still reads **normal**.
+- Only two Major A features exist and both require **acoustic shadowing** — the same foci without shadowing drop to minor. Lobularity is **never** Major A. (APA 2014's text calls lobularity Major A; that contradicts the rest of its own paragraph and the primary consensus — the table above is correct.)
+- **Expert opinion only** — never validated against histology, not shown superior to the conventional criteria, and derived on **radial** EUS ([[apa-2014-chronic-pancreatitis]], [[catalano-2009-rosemont-classification]]).
+- **Low specificity:** aging, anatomic variants and asymptomatic non-diagnostic fibrosis all produce features — such fibrosis is in up to **60% of alcoholics with no clinical CP**, against a **2%–5%** lifetime CP risk. Interobserver agreement is good only for duct dilatation (**κ 0.60**) and lobularity (**κ 0.51**); final diagnosis of CP **κ 0.45**. APA's posture: **err toward more stringent criteria**, accepting missed diagnoses, to avoid over-diagnosis and risky therapy.
 
 ---
 

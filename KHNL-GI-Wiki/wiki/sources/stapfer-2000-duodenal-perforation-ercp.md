@@ -3,7 +3,7 @@ title: "Management of Duodenal Perforation After Endoscopic Retrograde Cholangio
 category: source
 tags: [ercp, perforation, duodenal-perforation, stapfer-classification, adverse-events, sphincterotomy, surgery, classification]
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-11-03
 sources: []
 ---
 
@@ -101,7 +101,7 @@ Outcomes drive the urgency. Eight patients were managed nonsurgically at the out
 
 ## Contradictions / Open Questions
 
-- **No contradiction with [[aga-2021-gi-perforations-endoscopic-management|AGA 2021]], but a 21-year gap in therapeutic options, and AGA 2021 governs management.** AGA 2021 is both newer and higher-priority (clinical practice update vs retrospective series), and its size-keyed endoscopic closure rule stands. Stapfer's "all type I to immediate surgery" predates over-the-scope clips, endoscopic suturing and covered self-expanding metal stents; AGA 2021 instead advises **urgent surgical consultation for type 1 >3 cm while the feasibility of endoscopic closure is assessed**, and reports **88%–100%** clip closure for duodenal defects <13 mm. The wiki asserts AGA's position for management and keeps Stapfer for **typing** and for the radiographic triage criteria AGA does not supply.
+- **No contradiction with [[aga-2021-gi-perforations-endoscopic-management|AGA 2021]], but a 21-year gap in therapeutic options, and AGA 2021 governs management.** AGA 2021 is both newer and higher-priority (clinical practice update vs retrospective series), and its size-keyed endoscopic closure rule stands. Stapfer's "all type I to immediate surgery" predates over-the-scope clips, endoscopic suturing and covered self-expanding metal stents; AGA 2021 instead advises **urgent surgical consultation for type 1 >3 cm while the feasibility of endoscopic closure is assessed**, and reports **88%–100%** clip closure for duodenal defects <13 mm. Manage by AGA 2021; use Stapfer for **typing** and for the radiographic triage criteria AGA 2021 does not supply.
 - **Type IV is a contested entity.** The authors argue retroperitoneal air alone is not a true perforation and needs nothing. This aligns with the **14% (7/50)** asymptomatic post-ERCP retroperitoneal air figure already on [[endoscopic-management-of-perforation]], but the same page records that type 2 injuries can still progress to retroperitoneal abscess, peritonitis and death — so the benign reading applies to **air alone with a normal examination and no extravasation**, not to retroperitoneal air generally.
 - **n=14 is the whole evidence base for a classification in routine use.** The per-type management rules rest on 1–6 patients each (type I: 5; type II: 6; type III: 3 by the published tables). No prospective validation is presented, and the authors revised their own surgical indications *during* the study after analysing their nonsurgical failures.
-- **Figures 1–5 are raster images with no text layer.** Figure 1 is the classification schematic (and the paper notes **type IV is not shown** in it); Figure 2 is an endoscopic view of a type I perforation; Figures 3 and 4 are plain films of a large (type I) and a minimal (type III) leak; Figure 5 is a periduodenal fluid collection on CT. Image tooling was unavailable in this session, so none could be captured — they are listed for a later pass.
+- **The paper's five figures are not reproduced here.** Figure 1 is the classification schematic — and the paper notes **type IV is not shown** in it; Figure 2 is an endoscopic view of a type I perforation; Figures 3 and 4 are plain films of a large (type I) and a minimal (type III) leak; Figure 5 is a periduodenal fluid collection on computed tomography (CT).

@@ -3,7 +3,7 @@ title: "An Optimized Set of Fluorescence In Situ Hybridization Probes for Detect
 category: source
 tags: [fish, cytology, biliary-stricture, cholangiocarcinoma, primary-sclerosing-cholangitis, polysomy, ercp]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-03
 sources: []
 ---
 
@@ -97,5 +97,5 @@ In validation, **PB FISH polysomy detected malignancy with 64.7% sensitivity aga
 - **Development study, retrospective, single institution (Mayo Clinic), and the authors say so:** "additional data from clinical practice are needed to confirm these preliminary results." Cut-offs were set in one cohort and tested in another from the same institution; there is no external validation.
 - **Funding:** the work was supported by **Abbott Molecular Inc.**, the manufacturer of both the UroVysion and the pancreatobiliary probes.
 - **Cancer status was defined by a composite reference standard** that itself includes **UroVysion polysomy plus imaging** as one route to "clinicopathologic proof of malignancy" — the comparator test partly defines the outcome it is measured against.
-- ⚠ **No figure captured.** Figure 3 pairs the criteria with a **FISH micrograph of each cell type**; the criteria and cut-offs are recreated as a native table per the Style Guide, but the example images are not on the page. `pdftoppm` and `pdfimages` remain permission-blocked and PyMuPDF is not installed in this container.
+- The paper's Figure 3 pairs each scoring criterion with a **fluorescence in situ hybridization (FISH) micrograph of the corresponding cell type**; the criteria and cut-offs are tabulated here, but the example micrographs are not reproduced.
 - ⚠ **Tier 2 (test-development study) → no Anki cards**, per *Guideline-sourced cards only*.

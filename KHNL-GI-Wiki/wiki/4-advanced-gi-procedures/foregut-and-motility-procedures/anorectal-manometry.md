@@ -3,7 +3,7 @@ title: "Anorectal Manometry (ARM)"
 category: advanced-procedure
 tags: [arm, anorectal-manometry, defecation, biofeedback, dyssynergia, fecal-incontinence, balloon-expulsion-test]
 created: 2026-05-19
-updated: 2026-11-01
+updated: 2026-11-03
 sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi, london-2020-anorectal-classification]
 ---
 
@@ -145,7 +145,7 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
   - **The classification publishes no reference values at all.** Every decision point is "above the upper limit of normal" or "below the lower limit of normal", referred to the lab's own data or to published data acquired with **identical equipment and protocol**, adjusted for sex, parity and age. This is the same technique-specific caution stated above, now a formal rule.
   - **Cough and long squeeze are recorded but excluded from the classification.** Both remain in the protocol; the consensus did not consider them justifiable as diagnostic criteria. An abnormal cough response may mark a more severe phenotype and a preserved one a biofeedback target — neither is a criterion.
 - **Dyssynergia never rises above a minor finding** in this scheme, and an abnormal manometric coordination pattern with a *normal* balloon expulsion is only **inconclusive** — the practical statement of the false-positive problem listed above. It is the **BET**, not the manometric pattern, that carries the weight.
-- The numbered **Rao dyssynergia types I–IV** are not part of the London Classification and are not in any ingested source; this page can assign a London diagnosis but not a Rao type.
+- The numbered **Rao dyssynergia types I–IV** are not part of the London Classification, and the classification does not define them — assign a London diagnosis rather than a Rao type.
 
 ## Balloon Expulsion Test (BET)
 

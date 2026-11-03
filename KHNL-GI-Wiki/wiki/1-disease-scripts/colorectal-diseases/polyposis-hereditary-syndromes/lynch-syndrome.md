@@ -3,7 +3,7 @@ title: "Lynch Syndrome"
 category: disease-script
 tags: [lynch, hnpcc, mmr, msi, hereditary-crc, endometrial-cancer, oncology, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-11-02
+updated: 2026-11-03
 sources: [acg-2015-hereditary-gi-cancer, aga-2015-lynch-syndrome, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd, asge-2022-pancreatic-cancer-screening, nccn-2026-colon-cancer, aga-2020-young-adult-onset-crc]
 ---
 
@@ -297,9 +297,9 @@ Cumulative risk to age 70 and mean age at diagnosis (ACG 2015 Table 7; general-p
 
 | Source | Position |
 |---|---|
-| **[[aga-2015-lynch-syndrome|AGA 2015]]** | **Suggests aspirin be offered** for cancer prevention in LS *(Conditional, low quality)*. Downgraded for imprecision; **no mortality data** support long-term use |
-| **[[acg-2015-hereditary-gi-cancer|ACG 2015]]** | Aspirin may decrease risk, but evidence is **not sufficiently robust to recommend standard use** *(Conditional, moderate)* |
-| **[[usmstf-2017-bmmrd|USMSTF 2017]]** | Cites **>60% reduction in CRC incidence** in those taking aspirin **≥2 years**; see [[bmmrd-syndrome]] |
+| **[[aga-2015-lynch-syndrome\|AGA 2015]]** | **Suggests aspirin be offered** for cancer prevention in LS *(Conditional, low quality)*. Downgraded for imprecision; **no mortality data** support long-term use |
+| **[[acg-2015-hereditary-gi-cancer\|ACG 2015]]** | Aspirin may decrease risk, but evidence is **not sufficiently robust to recommend standard use** *(Conditional, moderate)* |
+| **[[usmstf-2017-bmmrd\|USMSTF 2017]]** | Cites **>60% reduction in CRC incidence** in those taking aspirin **≥2 years**; see [[bmmrd-syndrome]] |
 
 - **Harms** ([[aga-2015-lynch-syndrome]]): **1% excess gastrointestinal (GI) bleeding**, **<1% excess stroke** vs placebo — neither statistically significant.
 - ⚠ **Dose and frequency remain unknown.** 600 mg/d is a high dose with an uncertain risk–benefit balance — individualize by the patient's own bleeding risk. Cost-effectiveness in LS has never been studied.

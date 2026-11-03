@@ -3,7 +3,7 @@ title: "EUS-Guided Gallbladder Drainage (EUS-GBD)"
 category: advanced-procedure
 tags: [eus-gbd, lams, acute-cholecystitis, gallbladder-drainage, cholecystoscopy, percutaneous-cholecystostomy, transpapillary-drainage, therapeutic-eus]
 created: 2026-07-23
-updated: 2026-10-06
+updated: 2026-11-03
 sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality, tg18-2018-cholangitis-flowchart]
 ---
 
@@ -103,7 +103,7 @@ From [[acg-2025-eus-quality|American College of Gastroenterology (ACG)/ASGE 2025
 ([[aga-2023-eus-gallbladder-drainage]])
 
 - Limited to high-volume centers with expertise in biliary disease and interventional EUS; requires advanced EUS training.
-- Published learning-curve estimates: competency at ~**19–25 procedures**.
+- Published learning-curve estimates: competency at ~**19–25 procedures** — but AGA 2023 declines to set a required case number, citing prior experience, model training and the individual trainee.
 - Authors' stepwise pathway: master LAMS deployment in pancreatic fluid collections (the FDA-approved indication; ≥10 independent successful deployments) → first EUS-GBD cases in significantly distended gallbladders with no intervening tissue. Prior experience, model training, and individual learning curves all modify progression.
 
 ---

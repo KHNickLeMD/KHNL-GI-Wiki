@@ -3,7 +3,7 @@ title: "Hereditary Diffuse Gastric Cancer"
 category: disease-script
 tags: [hdgc, cdh1, e-cadherin, diffuse-gastric-cancer, signet-ring-cell, lobular-breast-cancer, hereditary-cancer, prophylactic-gastrectomy, genetic-testing]
 created: 2026-05-19
-updated: 2026-09-05
+updated: 2026-11-03
 sources: [acg-2015-hereditary-gi-cancer, nccn-2026-gastric-cancer, aga-2025-gastric-cancer-screening]
 ---
 
@@ -38,20 +38,16 @@ sources: [acg-2015-hereditary-gi-cancer, nccn-2026-gastric-cancer, aga-2025-gast
 **CDH1 mutation yield** [[acg-2015-hereditary-gi-cancer]]:
 
 - 10.5–47% of individuals meeting these criteria carry a CDH1 mutation
-- Testing must include sequencing (3–50% of mutations are sequence changes) AND deletion/duplication analysis (4% are large rearrangements)
 - **Once a mutation has been identified in the family**, all at-risk individuals should be tested **beginning at age 16** — the precondition matters: age-16 cascade testing follows an identified familial mutation, it is not screening of unselected at-risk people
 
 **Genetic etiology**:
 
-- CDH1 encodes E-cadherin, a cell-to-cell adhesion protein; germline CDH1 mutations linked to HDGC in 1998
-- High penetrance
+- CDH1 encodes E-cadherin, a cell-to-cell adhesion protein; high penetrance
 - Signet-ring cell cancer is the pathological hallmark; linitis plastica is the advanced form
 
 ### Severity Assessment
 
-Cancer risk profile [[acg-2015-hereditary-gi-cancer]]:
-
-Two consortium estimates are reported, and they differ — the newer one is why the management recommendation is phrased as ">80% risk by age 80":
+Cancer risk profile — two consortium estimates are reported and they differ; the newer, higher one is what the ">80% risk by age 80" in the management recommendation rests on [[acg-2015-hereditary-gi-cancer]]:
 
 | Source | Gastric cancer lifetime risk | Lobular breast cancer lifetime risk |
 |---|---|---|
@@ -71,7 +67,7 @@ Two consortium estimates are reported, and they differ — the newer one is why 
 - **Hereditary intestinal gastric cancer** — component tumor in [[lynch-syndrome]] and [[familial-adenomatous-polyposis]]
 - **[[peutz-jeghers-syndrome]]** — 29% gastric cancer risk; intestinal-type histology; STK11 mutations
 - **[[gastric-premalignant-conditions]]** — Correa cascade leading to intestinal-type gastric cancer; [[helicobacter-pylori-infection|H. pylori]] driven; not CDH1
-- **Familial clustering without an identified mutation** — most families meeting the HDGC clinical criteria have **no** detectable CDH1 mutation (mutation yield only 10.5–47%) [[acg-2015-hereditary-gi-cancer]]
+- **Familial clustering without an identified mutation** — most families meeting the HDGC clinical criteria have **no** detectable CDH1 mutation, so a negative panel does not remove a family from the clinical diagnosis [[acg-2015-hereditary-gi-cancer]]
 
 ---
 
@@ -79,15 +75,15 @@ Two consortium estimates are reported, and they differ — the newer one is why 
 
 ### Genetic Testing
 
-- CDH1 gene sequencing + deletion/duplication analysis [[acg-2015-hereditary-gi-cancer]]
-- If CDH1 mutation identified: all at-risk family members should be offered mutation-specific testing
-- Testing should be initiated in an affected individual when possible
+- **Both methods are required** — CDH1 sequencing (3–50% of mutations are sequence changes) **and** deletion/duplication analysis (4% are large rearrangements) [[acg-2015-hereditary-gi-cancer]]
+- Test an **affected** individual first whenever one is available; cascade testing of at-risk relatives from age 16 follows an identified familial mutation
 
 ### Endoscopic Surveillance
 
 **For individuals who have a CDH1 mutation but decline or defer gastrectomy**, or for **pre-gastrectomy assessment** [[acg-2015-hereditary-gi-cancer]]:
 
 - Detailed 30-minute [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] with **multiple random biopsies** every 6–12 months beginning 5–10 years before the earliest cancer in the family
+  - ACG 2015 does not put a number on "multiple random biopsies" and gives no mucosal mapping protocol
 - Enhanced visualization techniques may improve detection: **indigo-carmine staining** or **pH-sensitive congo red dye** followed by **pentagastrin stimulation** — improves detection of early gastric cancer
 - Gastric cancer surveillance efficacy is uncertain; sensitivity of pre-gastrectomy EGD is limited — biopsies may be negative even when residual cancer is present (see the systematic-review data under [[#Prophylactic Gastrectomy]])
 
@@ -97,7 +93,7 @@ Two consortium estimates are reported, and they differ — the newer one is why 
 
 ### Prophylactic Gastrectomy
 
-**Recommended** for CDH1 mutation carriers after age 20, given >80% lifetime risk by age 80 (Conditional/Low) [[acg-2015-hereditary-gi-cancer]].
+**Recommended** for CDH1 mutation carriers after age 20, given >80% lifetime risk by age 80 *(Recommendation 25; conditional recommendation, low quality of evidence)* [[acg-2015-hereditary-gi-cancer]].
 
 Key data:
 
@@ -107,17 +103,17 @@ Key data:
 
 **Specimen handling**: identify **both the esophageal and duodenal mucosa at the ends of the surgical specimen** — gastric cancer after prophylactic gastrectomy has been reported [[acg-2015-hereditary-gi-cancer]].
 
-> **Extent of resection.** [[acg-2015-hereditary-gi-cancer]] recommends "prophylactic gastrectomy after age 20 years" but does not state total vs partial gastrectomy, reconstruction, or perioperative management. [[nccn-2026-gastric-cancer|National Comprehensive Cancer Network (NCCN) 2026 Gastric Cancer]] does not carry HDGC management itself — it defers to the separate **NCCN Guidelines for Genetic/Familial High-Risk Assessment: Colorectal, Endometrial, and Gastric** (*Testing Criteria for Hereditary Diffuse Gastric Cancer*, *CDH1 Gastric Cancer Risks*, *Management of Gastric Cancer Risk in CDH1 Pathogenic Variant Carriers*); consult that document or the IGCLC HDGC consensus. [[aga-2025-gastric-cancer-screening|American Gastroenterological Association (AGA) 2025 gastric cancer screening]] puts HDGC out of scope.
+**Extent of resection.** ACG 2015 Recommendation 25 says "prophylactic gastrectomy after age 20 years" and stops there — it does not state total vs partial gastrectomy, reconstruction, or perioperative management, and neither [[nccn-2026-gastric-cancer|National Comprehensive Cancer Network (NCCN) 2026 Gastric Cancer]] nor [[aga-2025-gastric-cancer-screening|American Gastroenterological Association (AGA) 2025 gastric cancer screening]] covers hereditary syndrome management.
 
-**Post-gastrectomy**:
+**Other-organ surveillance** — parts (ii) and (iii) of the same Recommendation 25, and **not conditional on having had gastrectomy**:
 
 - **Breast cancer surveillance in women beginning at age 35: annual mammography AND annual breast magnetic resonance imaging (MRI), plus clinical breast examination every 6 months.** Because data in HDGC are limited, these guidelines are **extrapolated from [[brca-pathogenic-variants|BRCA1/BRCA2]] protocols**; annual MRI is included specifically because **lobular breast cancers are difficult to detect by clinical examination and mammography**
-- [[colonoscopy]] beginning at age 40 in families that include colon cancer (Conditional/Low; based on limited evidence)
+- [[colonoscopy]] beginning at age 40 **in families that include colon cancer** — no interval is specified
 
 ### Surveillance for Those Declining Gastrectomy
 
-- Detailed EGD + random biopsies q6–12 months as described above
-- Surveillance is NOT a proven alternative to prophylactic gastrectomy; surveillance data are limited and outcomes have not been systematically studied
+- Same protocol as [[#Endoscopic Surveillance]] above.
+- Surveillance is **not** a proven alternative to prophylactic gastrectomy — the data are limited and outcomes have not been systematically studied.
 
 ---
 
