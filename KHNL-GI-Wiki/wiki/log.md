@@ -6,6 +6,25 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-03] update | Card pass — deck slimmed (no merges), nothing qualified for new cards
+
+**Deck slimming (ran first, per *Slim the deck*):**
+
+- `anki-dupes.mjs` returned **2 unjudged candidate pairs**; both judged **distinct**, no merges, both recorded in `dedup-ledger.tsv`. Re-run returns 0 unjudged.
+- `endoscopic-ultrasound` `[e50019]` vs `[e5001a]` (0.57) — one tests the Rosemont **Major A** criteria, the other **where in the gland** a feature may be scored. Different question and answer; cloze sets are not a subset (cysts appears only in the second).
+- `sphincter-of-oddi-dysfunction` `[50d104]` vs `disorders-of-gut-brain-interaction` `[b10008]` (0.40) — one tests the two **ERCP management strategies** for suspected type 2 pancreatic sphincter of Oddi dysfunction, the other **which test Rome V dropped from the diagnostic criteria**. Management versus criteria.
+
+**New cards: nothing qualified.**
+
+- **No unfinished page to resume** — all 336 card files carry `page_updated`.
+- **No stale card file** — every carded page's `page_updated` matches or postdates its page's `updated:`. 336 card files + 3 deliberately uncarded pages = all 339 topic pages, with no card/page path mismatches.
+- The **only 3 eligible pages are the three standing skips**, each re-confirmed against the page as it stands now (every verdict postdates its page's current `updated:` date, so none has changed since it was judged): `5-meds/peginterferon-alfa-2a` (label-sourced throughout; its tier-1 facts owned and already carded on `[[hepatitis-d]]`), `7-concepts/bristol-stool-form-scale` (all content from Lewis 1997, a primary paper; its guideline thresholds carded on their owner pages), `7-concepts/telemedicine-in-gastroenterology` (practice-management content — billing, licensure, staffing — fails the high-yield test; no tag node fits).
+- Per *Quality over quota*, the pass therefore **wrote no cards**. Deck rebuilt: **4187 notes**, build reported **no problems** (the long-standing "cards stale" backlog is now clear).
+
+**Carried for a lint/ingest pass, not cardable here:** `peginterferon-alfa-2a` and `chronic-hepatitis-b` both attribute "rarely used in chronic hepatitis B, poorer tolerability than nucleoside analogues" to `aasld-idsa-2025-chb-treatment`, whose source page has no peg-interferon content at all. Either the source page is missing a section the guideline has, or both pages cite it for a claim it does not make. Still unresolved.
+
+---
+
 ## [2026-11-03] lint | Stalest-source audit and page slimming — nothing to ingest, nothing to stub, queue empty
 
 **Pre-flight — nothing qualified for four of the pass's steps:**
