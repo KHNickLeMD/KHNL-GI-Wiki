@@ -3,8 +3,8 @@ title: "Chronic Hepatitis B"
 category: disease-script
 tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection, hbv-reactivation, antiviral-prophylaxis]
 created: 2026-05-15
-updated: 2026-10-31
-sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver, aga-2025-hepatitis-delta]
+updated: 2026-11-04
+sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver, aga-2025-hepatitis-delta, aasld-ast-2025-liver-transplant-graft-complications, aasld-2012-liver-transplant-long-term]
 ---
 
 ## Assessment
@@ -242,6 +242,22 @@ Switch options: ETV → TDF or TAF; TDF → TAF or ETV; TAF → ETV.
 - Newborn: HBIG + HBV vaccine at birth to reduce MTCT
 - **Breastfeeding not contraindicated** (on or off antiviral therapy)
 - Risk of **postpartum HBV flare** — continue monitoring after pregnancy
+
+### Post–Liver Transplant Prophylaxis
+
+Recurrence 80–100% without prophylaxis, <10% with it. The 2025 recommendations replace the 2012 fixed-dose HBIG protocol ([[aasld-ast-2025-liver-transplant-graft-complications]]). Candidacy, immunosuppression, and non-HBV post-transplant care: [[liver-transplantation]].
+
+- **All HBV recipients:** first-line NA — [[hbv-nucleoside-analogs|ETV, TDF, or TAF]] — from **before** transplant, **indefinitely** (Strong, Level 3).
+- **HBIG duration is risk-stratified** (Strong, Level 2); consider withdrawal once low-risk:
+
+| | Low risk → short-course or no HBIG | High risk → long-term HBIG |
+|---|---|---|
+| Patient | Good adherence | Limited adherence; HCC at high recurrence risk; HIV co-infection |
+| Virus | Low/undetectable HBV DNA | High HBV DNA at transplant; NA-resistant mutations |
+
+- **HBV + [[hepatitis-d|HDV]] co-infection:** HBIG **plus** NA in **all** recipients (Strong, Level 4).
+- **HBsAg-negative recipient of an anti-HBc-positive graft** (transmission up to 75%, highest when the recipient lacks both anti-HBs and anti-HBc): indefinite ETV or TDF from immediately post-transplant, **no HBIG** (Strong, Level 3). De novo HBV → lifelong first-line NA.
+- **Monitor:** HBV DNA yearly; anti-HBs every 3–6 months ([[aasld-2012-liver-transplant-long-term]]).
 
 ### HCC Surveillance
 

@@ -121,22 +121,17 @@ Asks three things: prognosis without LT, capacity for a successful LT, and the p
 
 ### Donor Type
 
-- **LDLT:** survival comparable to deceased-donor LT, earlier LT at lower MELD; **more biliary (odds ratio [OR] 2.23) and vascular (OR 2.0) complications** → closer postoperative vigilance. Biliary stricture/leak risk: multiple duct anastomoses, Roux-en-Y hepaticojejunostomy, prior abdominal surgery, and (strictures) blood loss **>1 L**.
-- **Donation after circulatory death (DCD):** with machine or normothermic regional perfusion, 1-year survival comparable to brain-death donors at experienced programs; static cold storage → more EAD and ischemic cholangiopathy; avoid with complex PVT.
-- **Machine perfusion** (hypothermic oxygenated, normothermic) ↓ EAD, non-anastomotic strictures, and acute cellular rejection vs static cold storage.
+- **LDLT:** survival comparable to deceased-donor LT, earlier LT at lower MELD; **more biliary (odds ratio 2.23) and vascular (2.0) complications** → closer postoperative vigilance. Biliary stricture/leak risk: multiple duct anastomoses, Roux-en-Y hepaticojejunostomy, prior abdominal surgery, and (strictures) blood loss **>1 L**.
+- **Donation after circulatory death (DCD):** 1-year survival comparable to brain-death donors at experienced programs when machine or normothermic regional perfusion is used; static cold storage → more EAD and ischemic cholangiopathy; avoid with complex PVT. Machine perfusion also ↓ non-anastomotic strictures and acute cellular rejection.
 
 ### Vascular Complications
 
-| Complication | Incidence | Management |
-|---|---|---|
-| Hepatic artery thrombosis (HAT) | 2–10%; most within 5 days | Early: surgical thrombectomy/revascularization ± anticoagulation, endovascular if surgery precluded. Late: endovascular ± anticoagulation, thrombolysis. Urgent re-transplant for progressive liver failure or biliary necrosis |
-| Hepatic artery stenosis | 2–9% | Early: surgical revision + anticoagulation. Late: anticoagulation, angioplasty, stent |
-| Portal vein thrombosis | 1–2.6% | Early: thrombectomy + surgical revision + anticoagulation. Late: anticoagulation, thrombolysis, stent, [[tips\|transjugular intrahepatic portosystemic shunt]] |
-| Portal vein stenosis | 2–3% | Angioplasty + stent + anticoagulation |
-| Hepatic vein / inferior vena cava outflow | <5% (piggy-back) | Angioplasty + stent ± anticoagulation ± surgical revision |
+Doppler US screens; CT or catheter angiography confirms. Arterial lesions → biliary leak, stricture, ischemic cholangiopathy; portal lesions → [[portal-hypertension|portal hypertension]].
 
-- Doppler US screens; CT or catheter angiography confirms. Arterial lesions → biliary leak, stricture, ischemic cholangiopathy; portal lesions → [[portal-hypertension|portal hypertension]].
-- HAT within 7 days → United Network for Organ Sharing status 1; relist promptly for severe graft injury or failure.
+- **Hepatic artery thrombosis** (2–10%, most within 5 days): surgical thrombectomy/revascularization ± anticoagulation, endovascular if surgery precluded or late. **Within 7 days → United Network for Organ Sharing status 1**; urgent re-transplant for progressive liver failure or biliary necrosis.
+- **Hepatic artery stenosis** (2–9%): surgical revision + anticoagulation early; anticoagulation, angioplasty, stent late.
+- **Portal vein thrombosis** (1–2.6%) or **stenosis** (2–3%): thrombectomy + surgical revision + anticoagulation; or anticoagulation, thrombolysis, angioplasty/stent, [[tips|transjugular intrahepatic portosystemic shunt]].
+- **Hepatic vein / inferior vena cava outflow obstruction** (<5%, piggy-back): angioplasty + stent ± anticoagulation ± surgical revision.
 
 ### Biliary Complications
 
