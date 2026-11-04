@@ -6,6 +6,31 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-04] update | Card pass — 7 dupe pairs judged, nothing qualified for new cards
+
+**Deck slimming (ran first):**
+
+- `anki-dupes.mjs` → **7 unjudged candidate pairs at ≥0.4**, all judged **distinct**, none merged. The similarity was lexical (parallel dose-and-top-up phrasing, shared "circumference" and "mPAP" wording), not factual:
+  - remimazolam ASA I–II dosing vs ASA III–IV/frail dosing — different population, different dose.
+  - remimazolam dosing vs midazolam dosing, and vs meperidine dosing — different drugs.
+  - portopulmonary hypertension mPAP ≥35 (start PAH therapy) vs mPAP 35–<45 (TIPS relative contraindication) — different decisions.
+  - endoscopic papillectomy's three-part post-ERCP-pancreatitis prophylaxis vs the ERCP hydration regimen itself — one tests the trio, the other the volumes.
+  - nonampullary duodenal adenoma >⅓ circumference (consider surgery) vs esophageal EMR >50% circumference (stricture risk) — different organ and threshold.
+  - acetaminophen vs non-acetaminophen King's College criteria — different populations.
+- Verdicts marked in `dedup-ledger.tsv`; re-run confirms **0 unjudged pairs**. Rebuild clean: **4231 notes**, no problems reported.
+
+**Pages carded:** none — nothing qualified.
+
+**Eligible pages reviewed and declined (3, the whole eligible set):**
+
+- `5-meds/peginterferon-alfa-2a.md` — label-sourced throughout, so not cardable; its only two guideline-backed facts are owner-page content and already carded there (peg-IFN's place in chronic hepatitis B on [[chronic-hepatitis-b]], the off-label hepatitis D indication and duration plus its contraindications on [[hepatitis-d]]).
+- `7-concepts/bristol-stool-form-scale.md` — all substantive content is the primary derivation paper ([[lewis-1997-bristol-stool-form-scale]]); the page deliberately holds no clinical bands, which live on the guideline pages that own them and are carded there.
+- `7-concepts/telemedicine-in-gastroenterology.md` — practice-management content, no high-yield fact that changes what a GI physician orders, prescribes or scopes.
+
+**Result:** every other wiki page's card file is current (`page_updated` ≥ page `updated`), and no card file lacks a `page_updated` marker, so no page was left unfinished by an earlier pass. Per *Quality over quota*, the pass wrote no cards rather than lowering the bar. Nothing committed or pushed.
+
+---
+
 ## [2026-11-04] update | Card pass — dedup swept clean, remimazolam carded
 
 **Deck slimming (ran first):**
