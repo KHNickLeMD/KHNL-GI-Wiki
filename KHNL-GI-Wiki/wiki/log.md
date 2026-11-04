@@ -6,6 +6,29 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-04] update | Card pass — one dedup pair judged distinct, no page eligible for new cards
+
+**Deck slimming (ran first, per *Slim the deck*):** `anki-dupes.mjs` returned **1 unjudged candidate pair** at 0.40 — the only one left above the threshold.
+
+- **Judged distinct, not merged:** [[diverticulitis]] `[dc0009]` (the two indications for colonoscopy after an uncomplicated episode — alarm symptoms, or not current with colorectal cancer screening) vs [[colorectal-cancer-screening]] `[c71005]` (what the screening start age means for a symptomatic patient under 50 — nothing, evaluate the colon regardless). Same vocabulary, different decisions: one is a post-episode follow-up indication, the other is that the screening age governs asymptomatic adults only. Neither note's clozes are a subset of the other's.
+- Verdict recorded in `dedup-ledger.tsv`; re-run confirms **0 unjudged pairs** remain.
+
+**New cards: nothing qualified.**
+
+- **No unfinished page to resume** — all **337** card files carry `page_updated`.
+- **No stale card file** across all 340 topic pages. The eight pages this morning's lint pass touched ([[lumen-apposing-metal-stents]] and the seven it reduced to pointers) were already carded at `page_updated: 2026-11-04`, which is also where the deck's growth to **4,195** notes came from.
+- The **only 3 eligible pages are the three standing skips**, each re-read in full against the page as it now stands rather than taken on the earlier verdict, since two had gained guideline sources:
+  - [[bristol-stool-form-scale]] — every fact on the page is Lewis 1997, a primary paper (not cardable). Its four guideline sources are cited only by the *Where It Drives a Decision* table, which states outright that each threshold belongs to the page carrying its recommendation. Nothing on this page to card.
+  - [[peginterferon-alfa-2a]] — label-sourced throughout bar two guideline lines, both drug-choice-for-a-disease, so the disease page owns them. Both verified already carded: `chronic-hepatitis-b` (rarely used, functional cure higher than a nucleos(t)ide analogue but still low) and `hepatitis-d` (only US-available treatment, 12 months).
+  - [[telemedicine-in-gastroenterology]] — practice management, regulation, licensure, billing, workflow and staffing, plus a trial-results section the high-yield test cuts outright. It also fits no node in Nick's tag tree, being neither organ, procedure nor med.
+- Deck rebuilt: **4,195 notes**, build reported **no problems**.
+
+**For Nick — the card queue is now empty except for one standing question.** The deck has covered every eligible page for three consecutive days; the only recurring candidate with tier-1 content is [[telemedicine-in-gastroenterology]], an AGA clinical practice update left unfiled by four passes now. Its *Best and Least Suited Patients* section is arguably a scheduling decision a general gastroenterologist makes. Carding it needs a new top-level tag branch, which is your call, not the pass's — say the word and it gets a node and a card file.
+
+**Housekeeping noted, not fixed:** the card pass that carded `lumen-apposing-metal-stents` and the seven pointer pages earlier today wrote no `log.md` entry, so the deck grew by 5 notes with no durable record of which facts landed where. Nothing is wrong with the files; the record is simply missing.
+
+---
+
 ## [2026-11-04] lint | Nothing to ingest; the slim backlog measured properly at 102 pages, two of the longest closed
 
 **Pre-flight:**
