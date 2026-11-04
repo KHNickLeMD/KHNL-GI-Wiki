@@ -3,8 +3,8 @@ title: "TIPS (Transjugular Intrahepatic Portosystemic Shunt)"
 category: advanced-procedure
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, hepatic-encephalopathy, pspg, ptfe-stent, rto, brto, interventional-radiology]
 created: 2026-07-16
-updated: 2026-11-02
-sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus, baveno-vii-2022-portal-hypertension, aga-2021-bleeding-gastric-varices]
+updated: 2026-11-04
+sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus, baveno-vii-2022-portal-hypertension, aga-2021-bleeding-gastric-varices, ilts-2016-hps-poph]
 ---
 
 *Transjugular intrahepatic portosystemic shunt (TIPS): a percutaneously created portosystemic shunt for complications of [[portal-hypertension|portal hypertension]] — [[variceal-upper-gi-bleeding|variceal hemorrhage]], refractory [[ascites|ascites]], and [[hepatic-hydrothorax|hepatic hydrothorax]]. Placed by interventional radiology, not endoscopically; included here because selection, timing, and post-procedure management are hepatology/gastroenterology (GI) decisions. Evidence below is American Association for the Study of Liver Diseases (AASLD) **Practice Guidance** — consensus guidance statements from an expert panel, **not Grading of Recommendations Assessment, Development and Evaluation (GRADE)-rated recommendations** ([[aasld-2024-tips]]).*
@@ -90,7 +90,7 @@ sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-asci
 | Absolute | Relative | Technically difficult |
 |---|---|---|
 | Congestive heart failure (**American College of Cardiology (ACC)/American Heart Association (AHA) stage C or D**, or documented **ejection fraction (EF) <50%**) — *ACC/AHA stage C/D definitions are not given in [[aasld-2024-tips]]; take the stage from the cardiology assessment or the ACC/AHA heart-failure guideline* | Untreated biliary obstruction | Polycystic liver disease ([[hepatic-cysts]]) |
-| Severe pulmonary arterial hypertension (**mean pulmonary arterial pressure [mPAP] >45 mm Hg**) — see [[hepatopulmonary-syndrome-portopulmonary-hypertension]] | Uncorrectable severe coagulopathy — see [[cirrhosis-hemostasis]] | Hepatic or portal vein occlusion |
+| Severe pulmonary arterial hypertension (**mean pulmonary arterial pressure [mPAP] >45 mm Hg**) — see [[hepatopulmonary-syndrome-portopulmonary-hypertension]] | **Moderate portopulmonary hypertension (35 ≤ mPAP < 45 mm Hg)** ([[ilts-2016-hps-poph\|ILTS 2016]]) · Uncorrectable severe coagulopathy — see [[cirrhosis-hemostasis]] | Hepatic or portal vein occlusion |
 | Severe **uncontrolled** hepatic encephalopathy | | Intrahepatic tumors |
 | Systemic infection or sepsis | | |
 
@@ -205,4 +205,5 @@ sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-asci
 6. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on Endoscopic Ultrasound-guided Portosystemic Pressure Gradient: Best Practices and Future Directions]]
 7. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
 8. [[aga-2021-bleeding-gastric-varices|AGA Clinical Practice Update on Management of Bleeding Gastric Varices: Expert Review (2021)]]
+9. [[ilts-2016-hps-poph|International Liver Transplant Society Practice Guidelines: Diagnosis and Management of Hepatopulmonary Syndrome and Portopulmonary Hypertension (2016)]]
 

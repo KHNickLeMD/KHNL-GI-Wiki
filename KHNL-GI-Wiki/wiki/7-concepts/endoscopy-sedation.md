@@ -3,8 +3,8 @@ title: "Sedation and Anesthesia in GI Endoscopy"
 category: concept
 tags: [sedation, anesthesia, propofol, moderate-sedation, deep-sedation, capnography, asa-class, npo, reversal-agents, endoscopy, glp-1]
 created: 2026-06-27
-updated: 2026-10-30
-sources: [asge-acg-2024-common-endoscopy-quality-indicators, asge-2018-sedation, aga-2024-glp1-endoscopy, aga-acg-asge-aasld-2012-sedation-curriculum, usmstf-2025-bowel-prep]
+updated: 2026-11-04
+sources: [asge-acg-2024-common-endoscopy-quality-indicators, asge-2018-sedation, aga-2024-glp1-endoscopy, aga-acg-asge-aasld-2012-sedation-curriculum, usmstf-2025-bowel-prep, asge-2026-remimazolam]
 ---
 
 Framework for procedural sedation across the full continuum used in gastrointestinal (GI) endoscopy — from anxiolysis to general anesthesia — including patient selection (American Society of Anesthesiologists [ASA] class), agents, monitoring, nil per os (NPO)/aspiration risk, and reversal. Per [[asge-2018-sedation]].
@@ -145,6 +145,8 @@ Airway management may also be difficult with:
 | Propofol | <1 | 1–2 | 4–8 | 10–40 mg | None | Respiratory depression, cardiovascular instability |
 
 *The table prints midazolam's peak as "3–3"; the document's pharmacology appendix gives **within 3–4 min**, used here. **Fospropofol** is an agent trainees must know but has no row in the table — a water-soluble propofol prodrug, moderate sedation in 84.6% at **6.5 mg/kg** in phase II dose-ranging, with no trial comparing it with propofol for endoscopic sedation.*
+
+- **[[remimazolam|Remimazolam]] is not in the table above and belongs in this list** — an ultra–short-acting benzodiazepine FDA-approved in **July 2020** for procedures **≤30 minutes**, cleared by tissue esterases rather than liver or kidney. With an opioid it is suggested for **minimal to moderate sedation**: **5 mg induction then 2.5 mg every 2 min** (ASA I–II), **2.5–3 mg then 1–2 mg every 2–3 min** in ASA III–IV, the elderly, the frail and end-stage liver disease; most procedures need **10–15 mg total**. Reversed by **flumazenil 0.2 mg IV, repeatable**. Versus propofol it trades about **1% of sedation success** for roughly **half the respiratory depression, hypotension and bradycardia** — the reason to reach for it in ASA III–IV, age ≥65, and cardiovascular, renal or mild-to-moderate hepatic impairment, against a substantially higher drug cost. ⚠ Contraindicated with hypersensitivity to **benzodiazepines or dextran 40**, and avoided in pregnancy and lactation. **Full dosing, hepatic/renal adjustment, the head-to-head data and the evidence gaps live on [[remimazolam]]** ([[asge-2026-remimazolam|ASGE 2026]], ungraded; it post-dates [[asge-2018-sedation|ASGE 2018]], which does not mention the drug).
 
 **Titration and dose-reduction rules** (same source):
 
@@ -294,7 +296,7 @@ Grading of Recommendations Assessment, Development and Evaluation (GRADE) eviden
 | 8 | **Suggest** propofol-based sedation (endoscopist-directed or anesthesia-provider administered) when it is expected to improve safety, comfort, procedural efficiency, and/or successful completion | ⊕⊕⊖⊖ |
 
 ## See Also
-[[upper-endoscopy]], [[colonoscopy]], [[ercp]], [[endoscopic-ultrasound]], [[device-assisted-enteroscopy]], [[antibiotic-prophylaxis-endoscopy]], [[preprocedure-testing]], [[endoscopy-ergonomics]], [[glp-1-receptor-agonists]], [[semaglutide]], [[bowel-preparation]], [[hiatal-hernia]]
+[[upper-endoscopy]], [[colonoscopy]], [[ercp]], [[endoscopic-ultrasound]], [[device-assisted-enteroscopy]], [[antibiotic-prophylaxis-endoscopy]], [[preprocedure-testing]], [[endoscopy-ergonomics]], [[glp-1-receptor-agonists]], [[semaglutide]], [[bowel-preparation]], [[hiatal-hernia]], [[remimazolam]]
 
 ---
 
@@ -305,3 +307,4 @@ Grading of Recommendations Assessment, Development and Evaluation (GRADE) eviden
 3. [[aga-acg-asge-aasld-2012-sedation-curriculum|Multisociety Sedation Curriculum for Gastrointestinal Endoscopy (AASLD/ACG/AGA/ASGE/SGNA, 2012)]]
 4. [[asge-acg-2024-common-endoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators Common to All GI Endoscopic Procedures]]
 5. [[usmstf-2025-bowel-prep|Optimizing Bowel Preparation Quality for Colonoscopy: Consensus Recommendations by the US Multi-Society Task Force on Colorectal Cancer]]
+6. [[asge-2026-remimazolam|Role of Remimazolam in Gastrointestinal Endoscopy: ASGE Clinical Practice Update (2026)]]

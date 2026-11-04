@@ -3,7 +3,7 @@ title: "Nonampullary Duodenal Adenoma"
 category: disease-script
 tags: [duodenal-adenoma, nonampullary-adenoma, endoscopic-mucosal-resection, cold-snare, familial-adenomatous-polyposis, spiegelman, surveillance, gi-bleeding, perforation]
 created: 2026-07-21
-updated: 2026-09-06
+updated: 2026-11-04
 sources: [aga-2025-nonampullary-duodenal, asge-2015-ampullary-duodenal-adenomas, acg-2015-hereditary-gi-cancer]
 ---
 
@@ -95,7 +95,11 @@ Describe every duodenal polyp by **(BPA 3):**
 - **Recurrence:** conventional hot-snare EMR 10%–15% at 6 mo, size-dependent. **CS-EMR recurrence is higher for large lesions (24.4% vs 2.3%)** and is related to primary-lesion size — so CS is most attractive for lesions **<15 mm**, particularly with significant comorbidities.
 - **[[endoscopic-submucosal-dissection|Endoscopic submucosal dissection (ESD)]] offers no clear advantage** over piecemeal EMR (covert adenocarcinoma within a DA is rare, ≤1%) and, given the **thin duodenal muscularis propria**, is associated with **high perforation rates** — not advised. [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015]] puts a number on it: **perforation rates as high as 23%–35%** with duodenal ESD in high-volume series, with **no perforations** reported by the same group using EMR — hence ESD is not recommended beyond the duodenal bulb.
 - **Clip closure** of the post-EMR defect is generally only effective for **defects ≤15 mm** (the thin, fixed retroperitoneal duodenal wall tears easily on the muscular layer; close **mucosa-to-mucosa**, avoid clipping the deep muscle). Hot-snare excision itself carries ~1% perforation risk.
-- **Surgery** is reserved for lesions not amenable to safe endoscopic resection; factor comorbidities and longevity.
+- **Surgery** is reserved for lesions not amenable to safe endoscopic resection; factor comorbidities and longevity. [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015]] gives the one anatomic trigger: **>33% circumferential involvement → consider surgery**.
+- **Think right-colon [[polypectomy|polypectomy]]** — the duodenal wall is thin, so [[endoscopic-mucosal-resection|EMR]] is the mainstay, with a submucosal injection cushion for flat lesions. ⚠ **Lack of lift suggests malignancy or prior manipulation** ([[asge-2015-ampullary-duodenal-adenomas]]).
+- **Giant (>3 cm) hemicircumferential laterally spreading tumors bleed far more** — **26.3% vs 3.2%** for lesions <3 cm ([[asge-2015-ampullary-duodenal-adenomas]]).
+- **Minor papilla adenomas and [[pancreas-divisum|pancreas divisum]]:** dorsal pancreatic duct stenting during resection is reported ([[asge-2015-ampullary-duodenal-adenomas]]).
+- **Residual or recurrent superficial tissue:** adjuvant [[argon-plasma-coagulation|argon plasma coagulation (APC)]] or electrocoagulation ([[asge-2015-ampullary-duodenal-adenomas]]).
 
 ### Complications & Periprocedural Care
 
@@ -134,7 +138,7 @@ Describe every duodenal polyp by **(BPA 3):**
 
 ## See Also
 
-[[ampullary-adenoma]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[cowden-syndrome]], [[juvenile-polyposis-syndrome]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[subepithelial-lesion]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[gastrointestinal-stromal-tumor]], [[iron-deficiency-anemia]], [[proton-pump-inhibitors]], [[anticoagulation-gi-bleeding]], [[endoscopic-hemostasis]]
+[[ampullary-adenoma]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[cowden-syndrome]], [[juvenile-polyposis-syndrome]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[subepithelial-lesion]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[gastrointestinal-stromal-tumor]], [[iron-deficiency-anemia]], [[proton-pump-inhibitors]], [[anticoagulation-gi-bleeding]], [[endoscopic-hemostasis]], [[argon-plasma-coagulation]], [[pancreas-divisum]]
 
 ---
 
