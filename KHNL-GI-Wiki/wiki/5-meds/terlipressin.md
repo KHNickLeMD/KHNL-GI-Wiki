@@ -3,7 +3,7 @@ title: "Terlipressin"
 category: med
 tags: [terlipressin, vasoconstrictor, hepatorenal-syndrome, hrs-aki, aki, cirrhosis, albumin, variceal-bleeding, portal-hypertension, aclf]
 created: 2026-09-22
-updated: 2026-11-01
+updated: 2026-11-04
 sources: [aasld-2021-ascites-sbp-hrs, aasld-2024-aclf, aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, baveno-viii-2026-portal-hypertension, aasld-2011-alf]
 ---
 
@@ -177,7 +177,7 @@ In [[acute-liver-failure]], vasopressin or terlipressin **can be added to norepi
 ## Administration and Monitoring
 
 - **No ICU required.** Terlipressin can be given through a **peripheral IV line** ([[aga-2024-vasoactive-albumin-cirrhosis]] BPA 11) — unlike norepinephrine, which needs ICU monitoring.
-- FDA label suggests **continuous pulse oximetry**; AGA 2024 accepts **vital signs including pulse oximetry every 2–4 h** as a substitute.
+- FDA label suggests **continuous pulse oximetry**; AGA 2024 accepts **vital signs including pulse oximetry every 2–4 h** as a substitute **only in patients at low risk of respiratory failure (ACLF grade <3)**. ACLF grade 3 (≥3 organ failures) carries increased respiratory-failure risk and is typically managed in the ICU with close monitoring.
 - **Daily serum creatinine** to stage response and drive escalation/stop decisions.
 - **Do not start or continue if SpO₂ <90%.**
 - Electrocardiogram (ECG)/cardiac monitoring while on therapy; monitor **serum sodium**.

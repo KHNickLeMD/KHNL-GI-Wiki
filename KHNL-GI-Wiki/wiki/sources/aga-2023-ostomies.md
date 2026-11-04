@@ -3,7 +3,7 @@ title: "AGA 2023 Clinical Practice Update on Management of Ostomies"
 category: source
 tags: [ostomy, stoma, colostomy, ileostomy, high-ostomy-output, parastomal-hernia, stomal-prolapse, peristomal-skin, dehydration, wound-ostomy-continence]
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-11-04
 sources: []
 ---
 
@@ -90,6 +90,6 @@ The update reviews stoma types and configurations (end vs loop vs mucus fistula 
 ## Contradictions / Open Questions
 
 - **No numbered Best Practice Advice (BPA) statements or evidence grades** — commentary format; advice reflects expert experience + literature review.
-- **Medication absorption after ostomy creation is not addressed** (e.g., altered absorption of oral drugs with ileostomy/short bowel) — gap; would need another source.
+- **Medication absorption after ostomy creation is not addressed** — this update says nothing about altered absorption of oral drugs with an ileostomy or short bowel.
 - Typical daily ileostomy output volumes are not quantified beyond the >1.5 L/d HOO threshold and emptying frequency.
 - Figure 1 (schematic of loop ostomy, end ostomy with Hartmann's pouch, end ostomy with mucus fistula, continent ileostomy) is an anatomic schematic, not a decision algorithm.

@@ -3,7 +3,7 @@ title: "Gastric Outlet Obstruction"
 category: diagnostic-schema
 tags: [gastric-outlet-obstruction, goo, gooss, enteral-stent, gastrojejunostomy, eus-ge, lams, palliation, peptic-ulcer-disease, pancreatic-cancer]
 created: 2026-09-02
-updated: 2026-11-02
+updated: 2026-11-04
 sources: [aga-2021-malignant-alimentary-tract-obstruction, jeurnink-2010-sustent-goo, kastelijn-2023-enduro-protocol, asge-2010-pud, aga-2025-endoscopic-enteral-access]
 ---
 
@@ -118,7 +118,7 @@ flowchart TD
 - **New [[jaundice]] or [[acute-cholangitis|cholangitis]] after duodenal stenting** — the stent may have crossed the ampulla and blocked endoscopic retrograde cholangiopancreatography (ERCP) access; anticipate percutaneous drainage.
 - **Suspicion of a second, more distal obstruction** (small-bowel dilation, ileus) — a proximal bypass will not work.
 - **WHO performance status 4** — outside the evidence base for either palliative procedure.
-- **Suspected perforation after balloon dilation or endoscopic ultrasound (EUS)–guided gastroenterostomy (EUS-GE)** — pyloric dilation carries a meaningful perforation rate ([[peptic-ulcer-disease]]); lumen-apposing metal stent (LAMS) misdeployment causes jejunal perforation and peritonitis.
+- **Suspected perforation after balloon dilation or endoscopic ultrasound (EUS)–guided gastroenterostomy (EUS-GE)** — pyloric dilation carries a meaningful perforation rate ([[peptic-ulcer-disease]]); [[lumen-apposing-metal-stents|lumen-apposing metal stent (LAMS)]] misdeployment causes jejunal perforation and peritonitis.
 
 ---
 
@@ -187,7 +187,7 @@ flowchart TD
 *Techniques as protocolized in [[kastelijn-2023-enduro-protocol]]; stent specification from [[jeurnink-2010-sustent-goo]].*
 
 - **Enteral stent:** uncovered Enteral Wallflex, **22 mm diameter**, 60 / 90 / 120 mm length; over a guidewire under combined endoscopic and fluoroscopic monitoring.
-- **EUS-GE:** deep [[endoscopy-sedation|sedation]] with propofol, **preferably two advanced endoscopists**. Clear residual gastric contents; place a feeding tube or nasobiliary drain distal to the stenosis. Identify the post-stenotic loop by flushing **saline mixed with indigo carmine**. **Direct puncture** with an **electrocautery-enhanced delivery system**; deploy a **20 × 10 mm LAMS**, distal flange first with traction against the bowel wall, then the proximal flange. Confirm by **backflow of dyed saline into the stomach**. **Do not balloon-dilate the stent immediately** — let it expand naturally.
+- **EUS-GE:** deep [[endoscopy-sedation|sedation]] with propofol, **preferably two advanced endoscopists**. Clear residual gastric contents; place a feeding tube or nasobiliary drain distal to the stenosis. Identify the post-stenotic loop by flushing **saline mixed with indigo carmine**. **Direct puncture** with an **electrocautery-enhanced delivery system**; deploy a **20 × 10 mm LAMS** (deployment sequence: [[lumen-apposing-metal-stents]]). Confirm by **backflow of dyed saline into the stomach**. **Do not balloon-dilate the stent immediately** — let it expand naturally.
 - **Surgical gastrojejunostomy:** laparoscopic, **antecolic side-to-side**, **no Roux-en-Y**; 60-mm stapler; **biliary limb (bile duct to anastomosis) at least 50 cm**; nasogastric tube post-operatively. A feeding jejunostomy is not routinely constructed.
 - **Excessive gastric residual volume** preventing safe sedation → **reschedule after extensive gastric decompression**. This is not a technical failure.
 - **Do not perform biliary intervention in the same session** as EUS-GE or surgical bypass.

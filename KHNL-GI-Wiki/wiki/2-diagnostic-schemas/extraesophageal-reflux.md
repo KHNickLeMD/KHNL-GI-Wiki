@@ -3,7 +3,7 @@ title: "Extraesophageal Reflux (EER)"
 category: diagnostic-schema
 tags: [gerd, extraesophageal-reflux, eer, lpr, chronic-cough, asthma, laryngitis, dental-erosions, ppi, reflux-testing, foregut]
 created: 2026-07-23
-updated: 2026-09-16
+updated: 2026-11-04
 sources: [aga-2023-extraesophageal-gerd, aga-2018-extraesophageal-gerd, acg-2021-gerd]
 ---
 
@@ -28,11 +28,9 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 
 | EER manifestation | Non-reflux differentials to exclude | Collaborating specialty |
 |---|---|---|
-| Chronic cough | Upper-airway cough syndrome/post-nasal drip, asthma, angiotensin-converting enzyme (ACE) inhibitor, non-asthmatic eosinophilic bronchitis, [[laryngopharyngeal-symptoms\|vagal hypersensitivity]] | Pulmonology, allergy |
-| Laryngitis / hoarseness / dysphonia | Vocal fold lesions, muscle tension dysphonia, malignancy, [[laryngopharyngeal-symptoms\|laryngeal hyperresponsiveness]] | Otolaryngology |
-| Asthma | Intrinsic/allergic asthma, vocal cord dysfunction | Pulmonology, allergy |
-| Dental erosions | Diet/acidic exposures, bruxism, xerostomia | Dentistry |
-| Sinus / ear disease, post-nasal drip, throat clearing, globus | Rhinosinusitis, allergy, functional/behavioral | Ear, nose, and throat (ENT), allergy |
+| **Laryngeal / ear, nose, and throat (ENT)** — laryngitis/hoarseness, globus, mucus in throat, throat clearing, throat pain, sinus inflammation, post-nasal drip | Postnasal drip, laryngeal allergy, functional dysphonia, laryngeal papilloma, muscle tension dysphonia, vocal cord paralysis, vocal cord polyps, occult sinusitis, gastric inlet patch | Otolaryngology, gastroenterology, allergy/immunology, speech pathology, behavioral psychology |
+| **Pulmonary** — asthma, chronic cough, pulmonary fibrosis, allograft failure | Post-nasal drip, asthma, vocal cord dysfunction, medication reaction (e.g., angiotensin-converting enzyme [ACE] inhibitors), lung transplant rejection | Pulmonology, otolaryngology, allergy/immunology, gastroenterology, primary care |
+| **Dentition** — dental erosions, dental caries | Poor dietary habits (acidic soft drinks, fruit juices), eating disorders with regurgitation (bulimia), xerostomia (Sjögren's), environmental exposure (acidic fumes) | Dentistry, gastroenterology, nutrition, primary care, psychology |
 
 **Strength of the attribution is not uniform.** Evidence is strongest for asthma, cough, and hoarseness; the wider set is linked by association only. AGA 2018 groups the full list as **laryngopharyngeal** (chronic throat clearing, globus sensation, throat pain, hoarseness, dysphonia, laryngeal cancer), **respiratory** (cough, pulmonary fibrosis, lung transplant rejection, asthma), and **other** (enamel erosion, otitis, sinusitis, postnasal drip). Because the cause is commonly multifactorial or not esophageal at all, non-GI evaluation by ENT, pulmonary, and/or allergy is essential and often should come **first** (AGA 2018 BPA 2); the gastroenterologist's role is to assess whether a gastroesophageal etiology contributes (BPA 1).
 
@@ -45,6 +43,28 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 5. **Initial objective testing, tailored to presentation** (BPA 7): [[upper-endoscopy|upper endoscopy]] + [[ambulatory-reflux-monitoring|ambulatory reflux monitoring]]. Perform monitoring **off** acid suppression **unless previous objective evidence of GERD (e.g. a positive pH study) already exists**. Strongest confidence in EER comes from pathologic acid exposure **plus** a positive symptom–reflux association for the EER symptom.
 6. **Established GERD not responding to high-dose acid suppression** → **pH-impedance monitoring *on* therapy** to assess ongoing acid vs non-acid reflux as the symptom driver (BPA 8).
 7. **Refractory / considering escalation** → alternative treatments (step below) and, only with objectively-defined GERD, shared decision-making about anti-reflux surgery.
+
+**AGA 2023 Figure 1 — algorithm for the evaluation of suspected EER.** Where an empiric trial is used in patients with concurrent typical reflux symptoms, the figure specifies **twice-daily PPI for 8–12 weeks**. Responders are titrated to the **lowest effective dose**, with endoscopy and reflux monitoring considered to support long-term PPI use.
+
+```mermaid
+flowchart TD
+    A["Patients with extraesophageal<br/>reflux symptoms"] -->|"With typical GERD sx"| B["Twice daily PPI therapy<br/>for 8-12 weeks"]
+    A -->|"Without typical GERD sx"| C["Consider evaluation of non-GI disorder<br/>by ENT, pulmonary, or allergy"]
+    C -->|"Non-GI disorder found"| D["Management of<br/>non-GI disorder"]
+    C -->|"Negative"| E["Endoscopy*"]
+    B -->|"Symptom resolved"| F["Lower PPI to lowest<br/>effective dose**"]
+    B -->|"Symptom persists"| E
+    E -->|"Positive"| G["Treat accordingly"]
+    E -->|"Negative"| H["Ambulatory reflux<br/>monitoring off-PPI"]
+    H -->|"Negative"| I["Management of potential<br/>functional symptoms"]
+    H -->|"Positive"| J["Optimize antireflux regimen<br/>(medication and lifestyle)"]
+    J -->|"Responsive"| F
+    J -->|"Unresponsive"| K["Consider on-therapy<br/>reflux testing"]
+    K -->|"Negative"| I
+    K -->|"Positive"| L["Consider antireflux surgery<br/>in select patients"]
+```
+
+*\*Look for evidence of GERD-related injury or complications and rule out alternative esophageal diseases. \*\*Consider endoscopy and reflux monitoring to support long-term use of PPI. (Figure 1, [[aga-2023-extraesophageal-gerd]])*
 
 **Choosing off vs on therapy — the operative criteria** (AGA 2018 BPA 6):
 

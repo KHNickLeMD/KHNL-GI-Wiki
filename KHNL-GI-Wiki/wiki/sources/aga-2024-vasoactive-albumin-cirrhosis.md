@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on the Use of Vasoactive Drugs and Intraven
 category: source
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, ascites, sbp, hepatorenal-syndrome, aki, terlipressin, octreotide, albumin, vasoconstrictors]
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-11-04
 sources: []
 ---
 
@@ -17,7 +17,7 @@ sources: []
 
 ## Summary
 
-This AGA Clinical Practice Update provides Best Practice Advice on vasoactive drugs and intravenous (IV) albumin across three scenarios of decompensated cirrhosis: **acute variceal hemorrhage (AVH), ascites/spontaneous bacterial peritonitis (SBP), and acute kidney injury (AKI)/hepatorenal syndrome (HRS)**. Because systematic reviews were not performed, the 12 Best Practice Advice (BPA) statements do not carry formal Grading of Recommendations Assessment, Development and Evaluation (GRADE) ratings.
+This AGA Clinical Practice Update provides Best Practice Advice on vasoactive drugs and intravenous (IV) albumin across three scenarios of decompensated cirrhosis: **acute variceal hemorrhage (AVH), ascites/spontaneous bacterial peritonitis (SBP), and acute kidney injury (AKI)/hepatorenal syndrome (HRS)**. Because systematic reviews were not performed, the 12 Best Practice Advice (BPA) statements — numbered 1–12 by the document itself — **do not carry formal ratings regarding the quality and evidence or strength** of the presented considerations; all are ungraded. Some statements are unchanged from published guidelines because of a lack of new evidence.
 
 For AVH, vasoactive drugs (octreotide, somatostatin, or — outside the US — terlipressin) should be started as soon as variceal bleeding is suspected, before endoscopy, and continued 2–5 days after hemostasis to prevent early rebleeding. Octreotide is the agent of choice in the US given its safety profile; terlipressin is not FDA-approved for AVH.
 
@@ -53,10 +53,22 @@ For HRS-AKI, vasoactive drugs (terlipressin, norepinephrine, or octreotide+midod
 ᵃ Terlipressin is a standard AVH regimen outside the US, but the FDA label does not include this indication.
 
 - Vasoactive drugs halt AVH in up to 80% of cases; a meta-analysis (3111 patients, 30 randomized controlled trials [RCTs]) showed reduced 7-day mortality (relative risk [RR] 0.74), improved hemostasis (RR 1.21), lower transfusion needs, and shorter hospitalization. Stop the drug if endoscopy reveals a non-variceal source.
-- Shortening vasoactive therapy to **2 days** may be reasonable in selected low-risk patients (no active bleeding at endoscopy) though data are limited.
-- **LVP albumin dose:** 6–8 g/L of ascites removed (lower doses ~4 g/L may suffice); albumin at LVP >5 L mitigates post-paracentesis circulatory dysfunction (PCD) and AKI.
-- **SBP albumin:** empirical regimen 1.5 g/kg on day 1 and 1 g/kg on day 3 (used in 4 of 5 supporting studies); greatest benefit with baseline bilirubin >4 mg/dL and AKI (creatinine >1.0 mg/dL, blood urea nitrogen [BUN] >30 mg/dL).
-- **HRS-AKI terlipressin (US regimen, CONFIRM):** start 1-mg IV boluses every 6 h (peripheral line, no ICU); increase to 2 mg every 6 h on day 4 if insufficient response; continuous infusion (starting 2 mg/d) had fewer complications with similar efficacy. Patients with SCr >5 mg/dL have low response rates. FDA label suggests continuous pulse oximetry; the Clinical Practice Update (CPU) notes vital-sign assessment (including pulse oximetry) every 2–4 h can substitute.
+- Shortening vasoactive therapy to **2 days** is reasonable **only in selected patients with Child-Pugh class A and B cirrhosis who had no active bleeding identified during endoscopy**; data are limited and studies on predictors of duration are lacking.
+- **LVP albumin dose:** 6–8 g/L of ascites removed (lower doses ~4 g/L may be sufficient); albumin at LVP >5 L mitigates post-paracentesis circulatory dysfunction (PCD) and AKI. **Exception — in ACLF, give albumin during paracentesis at 6–8 g/L regardless of the amount of ascites removed.**
+- **SBP albumin:** empirical regimen 1.5 g/kg of body weight on day 1 and 1 g/kg on day 3 (used in 4 of 5 supporting studies); greatest benefit with baseline bilirubin >4 mg/dL and AKI (creatinine >1.0 mg/dL, blood urea nitrogen [BUN] >30 mg/dL).
+- **Albumin is not advised in infections other than SBP unless associated with AKI** — 3 RCTs and a meta-analysis in non-SBP infections found no reduction in AKI or mortality, with more pulmonary edema.
+- **AKI volume expansion:** trial of volume expansion specifically with albumin at **1 g/kg of body weight daily for 2 consecutive days, capped at 100 g/d**. Lack of response to volume expansion with albumin is one of the diagnostic criteria of HRS-AKI. A fixed dose routinely given to any patient with AKI may be insufficient or cause volume overload/pulmonary edema.
+- **HRS-AKI terlipressin (US regimen, CONFIRM):** start **1-mg IV boluses every 6 h** (peripheral line, no ICU); increase to **2 mg every 6 h on day 4** if insufficient response (**<30% decrease in creatinine**). Treatment is maintained **up to 14 days** and discontinued **24 hours after creatinine falls to <1.5 mg/dL**. Continuous infusion (starting 2 mg/d) had a lower rate of complications with similar efficacy. Patients with SCr >5 mg/dL have low response rates and terlipressin is not advised.
+- **Respiratory safety:** terlipressin should **not** be given if **SpO₂ <90%**. CONFIRM showed respiratory failure 14% vs 5% and death related to respiratory failure 11% vs 2% versus placebo. FDA label suggests continuous pulse oximetry; the Clinical Practice Update (CPU) notes vital-sign assessment (including pulse oximetry) every **2–4 h** can substitute **in patients at low risk of respiratory failure (ACLF grade <3)**. ACLF grade 3 (≥3 organ failures) patients are at increased risk and are typically ICU-managed.
+
+**Table 2 — Adverse events related to vasoactive drugs and albumin** (adverse events are generally dose-dependent, but can still develop at lower doses):
+
+| Drug | Reported in ≥10% | Reported in <10% |
+|---|---|---|
+| Octreotide | Bradycardia; cardiac conduction abnormalities; diarrhea; loose stool; nausea; abdominal discomfort; hyperglycemia | Arrhythmia; abdominal distension; severe epigastric pain; hypoglycemia; headache; dizziness; fatigue |
+| Somatostatin | Diarrhea; abdominal pain; nausea | Constipation; flatulence; vomiting; loose stool; arthralgia; headache |
+| Terlipressin | Abdominal pain; nausea; respiratory failure; diarrhea; dyspnea | Fluid overload; pleural effusion; sepsis; bradycardia; skin discoloration; cyanosis; myocardial ischemia; stroke; intestinal ischemia |
+| Albumin | — | Fluid overload; pulmonary edema; rigors; hypotension/tachycardia; pyrexia; nausea/vomiting; rash/pruritus |
 - Terlipressin (continuous infusion) is superior to or comparable with norepinephrine; norepinephrine requires an ICU setting.
 
 ## Relevance to Wiki

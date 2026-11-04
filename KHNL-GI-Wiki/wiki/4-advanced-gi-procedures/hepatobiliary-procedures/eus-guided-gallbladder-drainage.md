@@ -3,13 +3,13 @@ title: "EUS-Guided Gallbladder Drainage (EUS-GBD)"
 category: advanced-procedure
 tags: [eus-gbd, lams, acute-cholecystitis, gallbladder-drainage, cholecystoscopy, percutaneous-cholecystostomy, transpapillary-drainage, therapeutic-eus]
 created: 2026-07-23
-updated: 2026-11-03
+updated: 2026-11-04
 sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality, tg18-2018-cholangitis-flowchart]
 ---
 
 # EUS-Guided Gallbladder Drainage (EUS-GBD)
 
-EUS-guided gallbladder drainage (EUS-GBD) is transmural gallbladder decompression: a stent (now standardly a **lumen-apposing metal stent [LAMS]**) is placed under [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] guidance from the duodenum or stomach into the gallbladder. Primary alternative to percutaneous transhepatic gallbladder drainage (PT-GBD) and endoscopic transpapillary drainage (ET-GBD) in high-surgical-risk [[acute-cholecystitis]]. ([[aga-2023-eus-gallbladder-drainage]])
+EUS-guided gallbladder drainage (EUS-GBD) is transmural gallbladder decompression: a stent (now standardly a [[lumen-apposing-metal-stents|lumen-apposing metal stent (LAMS)]]) is placed under [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] guidance from the duodenum or stomach into the gallbladder. Primary alternative to percutaneous transhepatic gallbladder drainage (PT-GBD) and endoscopic transpapillary drainage (ET-GBD) in high-surgical-risk [[acute-cholecystitis]]. ([[aga-2023-eus-gallbladder-drainage]])
 
 ## Contents
 - [[#Indications]]
@@ -60,20 +60,9 @@ EUS-guided gallbladder drainage (EUS-GBD) is transmural gallbladder decompressio
 
 ([[aga-2023-eus-gallbladder-drainage]])
 
-**Stent:** LAMS solved the failure modes (leak, contralateral wall injury/occlusion, migration from no flanges) of pigtail plastic stents and biliary self-expandable metal stents (SEMS) — short saddle, large bilateral flanges, large diameters permitting stone passage and endoscope passage for therapeutic cholecystoscopy. US-available LAMS (Axios, Boston Scientific): fully covered, 10.5F delivery system requiring a **3.7-mm working channel** therapeutic echoendoscope; saddle lengths **10 and 15 mm**; inner diameters **10, 15, 20 mm**; anchor flanges 21, 24, 29 mm (LAMS overall range 6–20 mm).
+**Stent:** LAMS — device specifications, the two delivery systems, the deployment sequence, the puncture-to-lumen distance rule, and deployment troubleshooting live on [[lumen-apposing-metal-stents]]. Use here is off-label (see [[#Informed Consent]]).
 
-**Two approaches:**
-
-| | Non–cautery-enhanced | Direct (cautery-enhanced LAMS) |
-|---|---|---|
-| Steps | 19-gauge fine-needle aspiration (FNA) needle puncture → guidewire → tract dilation → stent placement | Freehand cautery-tip entry and deployment — no guidewire or device exchange |
-| Imaging | Fluoroscopic guidance | Entirely EUS-guided; fluoroscopy only for salvage |
-
-- Deploy gallbladder flange under endosonographic guidance, pull back snugly, then deploy the enteric flange under EUS or endoscopic view.
-- **Enteral puncture site to gallbladder lumen must be <10 mm** for safe deployment.
-- Prefer an **over-the-wire technique** (maintains access if the stent misdeploys) when the gallbladder is fibrotic/contracted, a percutaneous drain already exists, or the scope position is difficult.
-- **Duodenum vs stomach:** no significant adverse event (AE) difference reported; authors prefer the **duodenal bulb** (prepyloric antral LAMS occlude with food more easily; higher inward-migration risk from antral contraction), but the deciding factor is the point of **closest gallbladder–gastrointestinal (GI) wall apposition**. Distal stomach is easier for surgeons to access if the drainage site later needs closure.
-- **Coaxial double-pigtail plastic stent through the LAMS** — routine in the authors' practice to mitigate bleeding, stent obstruction, and contralateral wall injury.
+**Access route — duodenum vs stomach:** no significant adverse event (AE) difference reported; authors prefer the **duodenal bulb** (prepyloric antral LAMS occlude with food more easily; higher inward-migration risk from antral contraction), but the deciding factor is the point of **closest gallbladder–gastrointestinal (GI) wall apposition**. Distal stomach is easier for surgeons to access if the drainage site later needs closure.
 
 ## Outcomes
 
@@ -104,13 +93,13 @@ From [[acg-2025-eus-quality|American College of Gastroenterology (ACG)/ASGE 2025
 
 - Limited to high-volume centers with expertise in biliary disease and interventional EUS; requires advanced EUS training.
 - Published learning-curve estimates: competency at ~**19–25 procedures** — but AGA 2023 declines to set a required case number, citing prior experience, model training and the individual trainee.
-- Authors' stepwise pathway: master LAMS deployment in pancreatic fluid collections (the FDA-approved indication; ≥10 independent successful deployments) → first EUS-GBD cases in significantly distended gallbladders with no intervening tissue. Prior experience, model training, and individual learning curves all modify progression.
+- Authors' stepwise pathway: complete the LAMS competency step in pancreatic fluid collections first ([[lumen-apposing-metal-stents]]) → first EUS-GBD cases in significantly distended gallbladders with no intervening tissue. Prior experience, model training, and individual learning curves all modify progression.
 
 ---
 
 ## See Also
 
-[[acute-cholecystitis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[eus-guided-biliary-drainage]], [[ercp]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[ascites]], [[interventional-eus-vascular]], [[endoscopy-sedation]]
+[[acute-cholecystitis]], [[acute-cholangitis]], [[lumen-apposing-metal-stents]], [[endoscopic-ultrasound]], [[eus-guided-biliary-drainage]], [[ercp]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[ascites]], [[interventional-eus-vascular]], [[endoscopy-sedation]]
 
 ---
 

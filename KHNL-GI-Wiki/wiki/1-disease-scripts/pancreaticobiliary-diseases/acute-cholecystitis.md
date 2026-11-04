@@ -3,7 +3,7 @@ title: "Acute Cholecystitis"
 category: disease-script
 tags: [acute-cholecystitis, gallbladder, cholecystectomy, eus-gbd, percutaneous-cholecystostomy, transpapillary-drainage, lams, high-surgical-risk]
 created: 2026-07-23
-updated: 2026-11-02
+updated: 2026-11-04
 sources: [tg18-2018-antimicrobial-therapy, aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver, tg18-2018-cholangitis-flowchart, tg18-2018-cholecystitis-criteria, tg18-2018-gallbladder-drainage]
 ---
 
@@ -113,7 +113,7 @@ sources: [tg18-2018-antimicrobial-therapy, aga-2023-eus-gallbladder-drainage, as
 - **Sludge / debris** within the gallbladder
 - **Sonographic Murphy's sign** — pain when the probe presses on the gallbladder
 
-**Imaging also answers the two drainage questions** ([[aga-2023-eus-gallbladder-drainage]]): is there **free gallbladder perforation** (contraindicates transmural endoscopic drainage), and what is the gallbladder-to-gastrointestinal (GI)-wall distance (**<10 mm required** for safe lumen-apposing metal stent (LAMS) deployment)?
+**Imaging also answers the two drainage questions** ([[aga-2023-eus-gallbladder-drainage]]): is there **free gallbladder perforation** (contraindicates transmural endoscopic drainage), and what is the gallbladder-to-gastrointestinal (GI)-wall distance (**<10 mm required** for safe [[lumen-apposing-metal-stents|lumen-apposing metal stent (LAMS)]] deployment)?
 
 ### Imaging findings of acute cholecystitis
 

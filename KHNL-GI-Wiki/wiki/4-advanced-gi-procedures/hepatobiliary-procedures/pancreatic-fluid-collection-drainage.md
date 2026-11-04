@@ -3,7 +3,7 @@ title: "Pancreatic Fluid Collection Drainage (Pseudocyst and WON)"
 category: advanced-procedure
 tags: [pancreatic-fluid-collection, pseudocyst, walled-off-necrosis, necrosectomy, lams, step-up, cystgastrostomy, eus, drainage, pancreatitis]
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-11-04
 sources: [asge-2016-pancreatic-fluid-collections, aga-2020-cpu-pancreatic-necrosis, acg-2024-acute-pancreatitis, uspg-2025-disconnected-pancreatic-duct]
 ---
 
@@ -157,10 +157,10 @@ Four factors decide the approach for a pseudocyst ([[asge-2016-pancreatic-fluid-
 | **Two double-pigtail plastic stents** | The traditional transmural construct for an **uncomplicated pseudocyst**. **Neither diameter nor number of plastic stents** is associated with the number of interventions needed for resolution of an uncomplicated pseudocyst |
 | **Plastic stents + nasocystic drain** | Traditional **WON** construct — the lavage catheter evacuates necrotic debris and improves success. Retrospective data in **debris-containing pseudocysts** show better short- and long-term success than transmural stents alone |
 | **Fully covered self-expandable metal stent (SEMS)** | One stent instead of two → shorter, simpler procedure; **lumen ≥10 mm** gives faster drainage, less occlusion, and lets a gastroscope re-enter the cavity. **Large-diameter SEMS = 15 mm** for necrosis. **Migration risk** → some anchor a plastic double-pigtail stent inside the covered SEMS |
-| **Lumen-apposing metal stent (LAMS)** | Broad anchoring flanges + large inner diameter → **no anchoring stent needed** and through-the-stent necrosectomy is easy. **Length ~1 cm**, vs covered esophageal SEMS which are **no shorter than 6–7 cm**. Cautery-enhanced delivery avoids tract dilation and shortens the procedure. Some place **double-pigtail plastic stents through the LAMS** to limit early occlusion by debris and LAMS migration |
+| **[[lumen-apposing-metal-stents\|Lumen-apposing metal stent (LAMS)]]** | The large-bore one-stent transmural construct — needs no anchoring stent, and the endoscope passes through it for **necrosectomy**. Device specifications, the cautery-enhanced delivery system, deployment and adverse events are on its own page |
 
 - **Metal is not proven better for pseudocysts.** [[asge-2016-pancreatic-fluid-collections]]: **no clear data support SEMS superiority over plastic stents** for PFC resolution, and SEMS adds direct procedure cost. [[aga-2020-cpu-pancreatic-necrosis]] BPA 9 states LAMS "appear to be superior to plastic stents" **for necrosis** — but the same document's text notes a randomized trial that **did not show superiority**. Treat BPA 9 as expert opinion.
-- **Dwell time:** plastic stents may stay until the collection resolves on cross-sectional imaging, and **potentially indefinitely** where the main pancreatic duct is disrupted. **Do not leave a LAMS or any SEMS long-term — delayed bleeding** is the concern beyond several weeks.
+- **Dwell time:** plastic stents may stay until the collection resolves on cross-sectional imaging, and **potentially indefinitely** where the main pancreatic duct is disrupted. **A LAMS or any SEMS, by contrast, is not left long-term** — dwell limits and the bleeding risk behind them are on [[lumen-apposing-metal-stents]].
 
 ## Direct Endoscopic Necrosectomy
 
@@ -240,7 +240,7 @@ Quality of evidence as graded in the document (GRADE); ASGE's Standards of Pract
 
 ## See Also
 
-[[acute-pancreatitis]], [[chronic-pancreatitis]], [[disconnected-pancreatic-duct-syndrome]], [[pancreatic-cysts]], [[endoscopic-ultrasound]], [[ercp]], [[recurrent-acute-pancreatitis]], [[eus-guided-gallbladder-drainage]], [[endoscopic-management-of-perforation]]
+[[acute-pancreatitis]], [[chronic-pancreatitis]], [[disconnected-pancreatic-duct-syndrome]], [[pancreatic-cysts]], [[lumen-apposing-metal-stents]], [[endoscopic-ultrasound]], [[ercp]], [[recurrent-acute-pancreatitis]], [[eus-guided-gallbladder-drainage]], [[endoscopic-management-of-perforation]]
 
 ---
 

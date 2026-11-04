@@ -3,7 +3,7 @@ title: "Endoscopic Management of GI Perforation"
 category: general-procedure
 tags: [perforation, adverse-events, endoscopic-closure, clips, otsc, ttsc, endoscopic-suturing, sems, endoscopic-vacuum-therapy, ercp, esd, emr, poem]
 created: 2026-09-08
-updated: 2026-10-20
+updated: 2026-11-04
 sources: [aga-2021-gi-perforations-endoscopic-management, stapfer-2000-duodenal-perforation-ercp]
 ---
 
@@ -67,7 +67,7 @@ Know them before the case, so the consent conversation and team preparation happ
 - **Thermal coagulation** for hemostasis or tumor ablation; **percutaneous endoscopic gastrostomy** ([[enteral-access]]); **ampullectomy**
 - **[[endoscopic-mucosal-resection|endoscopic mucosal resection (EMR)]]**, **[[endoscopic-submucosal-dissection|endoscopic submucosal dissection (ESD)]]**, **[[endoscopic-full-thickness-resection|full-thickness endoscopic resection]]**
 - **Endoluminal stenting with SEMS** ([[colonic-stenting]])
-- **[[ercp|Endoscopic retrograde cholangiopancreatography (ERCP)]] in surgically altered anatomy**; **[[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]–guided biliary and pancreatic access**; **EUS-guided cystogastrostomy**; **endoscopic gastroenterostomy using a lumen-apposing metal stent (LAMS)**
+- **[[ercp|Endoscopic retrograde cholangiopancreatography (ERCP)]] in surgically altered anatomy**; **[[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]–guided biliary and pancreatic access**; **EUS-guided cystogastrostomy**; **endoscopic gastroenterostomy using a [[lumen-apposing-metal-stents|lumen-apposing metal stent (LAMS)]]**
 
 ## Esophagus
 

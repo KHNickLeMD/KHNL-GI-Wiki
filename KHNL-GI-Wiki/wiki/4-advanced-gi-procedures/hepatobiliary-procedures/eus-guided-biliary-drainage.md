@@ -3,7 +3,7 @@ title: "EUS-Guided Biliary Drainage (EUS-BD)"
 category: advanced-procedure
 tags: [eus, eus-bd, eus-cds, eus-hgs, edge, biliary-drainage, biliary-obstruction, ercp, ptbd, lams, interventional-eus, asge]
 created: 2026-10-06
-updated: 2026-10-07
+updated: 2026-11-04
 sources: [asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality, acg-2023-biliary-strictures, aga-2021-malignant-alimentary-tract-obstruction]
 ---
 
@@ -32,7 +32,7 @@ Four EUS-BD techniques, plus two related access procedures:
 | **EUS-guided choledochoduodenostomy (EUS-CDS)** | Stent connecting the extrahepatic bile duct to the duodenum | Transmural, extrahepatic |
 | **EUS-guided hepaticogastrostomy (EUS-HGS)** | Stent connecting the liver / intrahepatic ducts to the stomach | Transmural, intrahepatic |
 | **EUS-guided antegrade intervention** | Stent passed from the stomach (intrahepatic access) or duodenal bulb (extrahepatic access) **across** the stricture, draining via the ampullary orifice | Antegrade, transpapillary outflow |
-| **EUS-directed transgastric ERCP (EDGE)** | Lumen-apposing metal stent (LAMS) placed between the gastric pouch (or jejunum) and the excluded stomach, so the duodenoscope can be advanced anterograde to the duodenum | Gastrogastrostomy / jejunogastrostomy, then conventional ERCP |
+| **EUS-directed transgastric ERCP (EDGE)** | [[lumen-apposing-metal-stents\|Lumen-apposing metal stent (LAMS)]] placed between the gastric pouch (or jejunum) and the excluded stomach, so the duodenoscope can be advanced anterograde to the duodenum | Gastrogastrostomy / jejunogastrostomy, then conventional ERCP |
 | **Endoscopic transpapillary transcystic gallbladder drainage (ET-GBD)** | Stent through the cystic duct into the gallbladder at ERCP | Transpapillary |
 
 *Gallbladder drainage ([[eus-guided-gallbladder-drainage|EUS-guided gallbladder drainage, EUS-GBD]]) is a separate procedure with its own indications and recommendations.*
@@ -213,9 +213,9 @@ Numbering is the document's own. Developed with the Grading of Recommendations A
 | Perforation | <1% |
 | Mortality | 0.5% |
 
-- **Stent misdeployment with perforation** is the dominant AE of LAMS-based transluminal procedures (~10% for EUS-guided gastroenterostomy and EDGE). Management where the distal flange sits in the peritoneum without an enterotomy — and often where there is one — is **stent removal plus closure**; keep the patient fasted for **≥24 hours** after such an event.
+- **Stent misdeployment with perforation** is the dominant AE of LAMS-based transluminal procedures — misdeployment types, their frequencies, and management on [[lumen-apposing-metal-stents]].
 - **Minimize capnoperitoneum** with minimal dilating force and carbon dioxide insufflation.
-- **Bleeding after LAMS placement** rises with prolonged dwell (~7% cumulative in pancreatic fluid collection drainage, associated with dwell >4 weeks).
+- **Bleeding after LAMS placement** rises with prolonged stent dwell ([[lumen-apposing-metal-stents]]).
 - Earlier guidance notes EUS-BD carries real risk including **fatalities**, particularly early in the learning curve, and demands substantial endoscopist experience ([[acg-2023-biliary-strictures]]).
 - Known downsides of the percutaneous alternative that EUS-BD avoids: external drain discomfort, and hospitalization for drains that become dislodged, blocked, or kinked.
 - **Actively contact patients about AEs**, ideally 2 weeks after the procedure — 15%–45% of AEs otherwise go unrecognized or unreported ([[acg-2025-eus-quality]]).
@@ -223,7 +223,7 @@ Numbering is the document's own. Developed with the Grading of Recommendations A
 ## Devices, Stents, and Quality Benchmarks
 
 - **Cautery-enhanced LAMS** and smaller-caliber LAMS have made EUS-CDS a single-step procedure; the lack of a comparable dedicated device for EUS-HGS in the United States is a practical driver of route choice.
-- **LAMS dwell time after EDGE drives fistula persistence:** dwell **≥40 days** carried an odds ratio of **4.5** for a persistent fistula, with an added **9.5% per extra 7 days** ([[acg-2025-eus-quality]]). ASGE 2024 lists whether LAMS placed for EUS-GBD need removal, when, and whether they should be exchanged for double-pigtail plastic stents as an **unanswered question for future study** — it gives no dwell or exchange interval for EUS-BD stents, and no stent diameter or length specifications for any EUS-BD route.
+- **LAMS dwell time after EDGE drives fistula persistence** — the dwell threshold and the per-week increment are on [[lumen-apposing-metal-stents]]. ASGE 2024 lists whether LAMS placed for EUS-GBD need removal, when, and whether they should be exchanged for double-pigtail plastic stents as an **unanswered question for future study** — it gives no dwell or exchange interval for EUS-BD stents, and no stent diameter or length specifications for any EUS-BD route.
 - ASGE 2024 also encourages manufacturers to develop dedicated **single-step stent delivery systems** for transluminal drainage and devices to steer guidewires for antegrade and rendezvous procedures.
 
 **ACG/ASGE 2025 quality targets** ([[acg-2025-eus-quality]]):
@@ -241,7 +241,7 @@ Numbering is the document's own. Developed with the Grading of Recommendations A
 
 ## See Also
 
-[[ercp]], [[endoscopic-ultrasound]], [[eus-guided-gallbladder-drainage]], [[biliary-stricture]], [[cholangiocarcinoma]], [[pancreatic-cancer]], [[choledocholithiasis]], [[acute-cholangitis]], [[gastric-outlet-obstruction]], [[acute-cholecystitis]], [[cholangioscopy]], [[bariatric-surgery]], [[pancreatic-fluid-collection-drainage]], [[antibiotic-prophylaxis-endoscopy]], [[ascites]], [[jaundice]]
+[[ercp]], [[endoscopic-ultrasound]], [[eus-guided-gallbladder-drainage]], [[biliary-stricture]], [[cholangiocarcinoma]], [[pancreatic-cancer]], [[choledocholithiasis]], [[acute-cholangitis]], [[gastric-outlet-obstruction]], [[acute-cholecystitis]], [[cholangioscopy]], [[bariatric-surgery]], [[pancreatic-fluid-collection-drainage]], [[lumen-apposing-metal-stents]], [[antibiotic-prophylaxis-endoscopy]], [[ascites]], [[jaundice]]
 
 ---
 

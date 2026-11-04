@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on the Diagnosis and Management of Extraeso
 category: source
 tags: [gerd, extraesophageal-reflux, lpr, chronic-cough, asthma, laryngitis, ppi, reflux-testing, ph-impedance]
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-11-04
 sources: []
 ---
 
@@ -25,7 +25,7 @@ Key management shifts: consider objective reflux testing **before** starting emp
 
 ## Key Findings / Claims
 
-**Best Practice Advice statements (verbatim):**
+**Best Practice Advice statements (verbatim).** The document numbers them 1–10, as below. It states that because systematic reviews were not performed, these Best Practice Advice (BPA) statements **do not carry formal ratings of the quality of evidence or strength** of the presented considerations — all 10 are ungraded.
 
 1. Gastroenterologists should be aware of potential extraesophageal manifestations of GERD and should inquire about such disorders including laryngitis, chronic cough, asthma, and dental erosions in GERD patients to determine whether GERD may be a contributing factor to these conditions.
 2. Development of a multidisciplinary approach to extraesophageal (EER) manifestations is an important consideration because the conditions are often multifactorial, requiring input from non-gastroenterology (GI) specialties. Results from diagnostic testing (ie, bronchoscopy, thoracic imaging, laryngoscopy, etc) from non-GI disciplines should be taken into consideration when gastroesophageal reflux (GER) is considered as a cause for extraesophageal symptoms.
@@ -39,8 +39,33 @@ Key management shifts: consider objective reflux testing **before** starting emp
 10. Shared decision-making should be performed before referral for anti-reflux surgery for EER when the patient has clear, objectively defined evidence of GERD. However, a lack of response to PPI therapy predicts lack of response to anti-reflux surgery and should be incorporated into the decision process.
 
 **Additional detail:**
-- Conditions commonly attributed to EER (Table 1): chronic cough, laryngeal hoarseness/dysphonia, pulmonary fibrosis, asthma, dental erosions, sinus disease, ear disease, post-nasal drip, throat clearing. Each has a large non-reflux differential and benefits from multidisciplinary evaluation (pulmonary, ear, nose, and throat [ENT], dentistry, allergy).
+**Table 1 — Different Postulated Manifestations of EER:**
+
+| Extraesophageal symptoms and manifestations | Differential diagnosis | Multidisciplinary team |
+|---|---|---|
+| **Laryngeal/ear, nose, and throat (ENT)** — laryngitis/hoarseness; globus; mucus in throat; throat clearing; throat pain; sinus inflammation; post-nasal drip | Postnasal drip; laryngeal allergy; functional dysphonia; laryngeal papilloma; muscle tension dysphonia; vocal cord paralysis; vocal cord polyps; sinusitis (occult); gastric inlet patch | Otolaryngology; gastroenterology; allergy/immunology; speech pathology; behavioral psychology |
+| **Pulmonary** — asthma; chronic cough; pulmonary fibrosis; allograft failure | Post-nasal drip; asthma; vocal cord dysfunction; medication reaction (ie, angiotensin converting enzyme inhibitors); lung transplant rejection | Pulmonology; otolaryngology; allergy/immunology; gastroenterology; primary care |
+| **Dentition** — dental erosions; dental caries | Poor dietary habits (ie, acidic soft drinks, fruit juices); eating disorders with regurgitation (bulimia); xerostomia (Sjogren's); environmental (ie, around acidic fumes) | Dentistry; gastroenterology; nutrition; primary care; psychology |
+
+*Table note: gastroenterologists should keep in mind all possible non-EER contributions to the symptoms and the potential multidisciplinary teams for collaborative evaluation.*
+
+**Table 2 — Modalities of Ambulatory Esophageal Reflux Monitoring:**
+
+| | pH impedance | pH catheter | Wireless pH capsule |
+|---|---|---|---|
+| Standard distal pH sensor positioning | 5 cm proximal to lower esophageal sphincter (LES) (manometrically identified) | 5 cm proximal to LES (manometrically identified) | 6 cm proximal to squamocolumnar junction (SCJ) (endoscopically identified) |
+| Test duration | 24 hours | 24 hours | 48–96 hours |
+| Test setting | Placed in awake patient | Placed in awake patient | Typically placed during sedated endoscopy |
+| Reflux composition detected | Acidic, weak-acidic, non-acidic | Acidic | Acidic |
+| Proximal reflux detected? | Yes | Possible | No |
+
+**Figure 1 — algorithm for the evaluation of suspected EER** (recreated on [[extraesophageal-reflux]]): branch on presence of typical GERD symptoms → with typical symptoms, twice-daily PPI for **8–12 weeks**; without typical symptoms, consider non-GI evaluation by ENT, pulmonary, or allergy → endoscopy → ambulatory reflux monitoring off PPI → optimize antireflux regimen → on-therapy reflux testing → antireflux surgery in select patients. Responders should be titrated to the lowest effective PPI dose to avoid long-term use for a placebo effect.
+
 - 50–60% of patients with EER symptoms will not have GERD and will not respond to anti-reflux therapies — the rationale for objective testing before/instead of prolonged empiric PPI.
+- **Empiric PPI trial performs poorly as a diagnostic test:** meta-analysis gives sensitivity **71%–78%** and specificity **41%–54%** in patients with *classic* reflux symptoms; performance in EER is expected to be substantially lower.
+- **Lifestyle measures** supported for EER: avoidance of refluxogenic foods, food avoidance for at least **2–3 hours before recumbency**, head-of-bed elevation, left lateral decubitus sleep position, and weight loss.
+- **External upper esophageal sphincter (UES) compression device** applies **20–30 mmHg of cricoid pressure**; symptom improvement rose from 31% (4-week PPI alone) to 55% when the device was added. Not currently widely available.
+- Antireflux surgery for EER: existing data are of generally low quality with **no randomized controlled trials** versus medical therapy. In patients unresponsive to acid suppression, heartburn plus a **high acid-reflux burden (acid exposure time >12%)** may predict response to surgery.
 - Excluding GERD lowers the probability that symptoms are reflux-caused; objectively supporting GERD keeps reflux as a possible causal factor but does not prove causation.
 
 ## Relevance to Wiki

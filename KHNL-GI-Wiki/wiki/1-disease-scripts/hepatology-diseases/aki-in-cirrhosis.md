@@ -3,7 +3,7 @@ title: "AKI in Cirrhosis (including HRS-AKI)"
 category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
-updated: 2026-10-30
+updated: 2026-11-04
 sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-aclf, baveno-viii-2026-portal-hypertension]
 ---
 
@@ -196,7 +196,7 @@ Vasopressin V1 receptor analog; reverses splanchnic vasodilatation.
 - **FDA-approved US schedule (CONFIRM):** 1 mg IV **q6h**, increased to **2 mg q6h on day 4** if response is insufficient (**<30%** decrease in creatinine); continue up to **14 days**; may stop **24 h after creatinine falls below 1.5 mg/dL** [[aga-2024-vasoactive-albumin-cirrhosis]]
 - **Start early — pretreatment creatinine drives failure.** Every 1 mg/dL fall in creatinine on treatment carries a **27% relative reduction in mortality**, so even small reductions are worth pursuing
 
-**Administration (AGA 2024 Clinical Practice Update [CPU]):** [[terlipressin|Terlipressin]] does **not require intensive care unit (ICU) monitoring** and can be given through a **peripheral IV line** (BPA 11). The FDA label suggests continuous pulse oximetry; the AGA 2024 CPU notes that vital-sign assessment including pulse oximetry **every 2–4 h** can substitute for continuous monitoring. [[aga-2024-vasoactive-albumin-cirrhosis]]
+**Administration (AGA 2024 Clinical Practice Update [CPU]):** [[terlipressin|Terlipressin]] does **not require intensive care unit (ICU) monitoring** and can be given through a **peripheral IV line** (BPA 11). The FDA label suggests continuous pulse oximetry; the AGA 2024 CPU notes that vital-sign assessment including pulse oximetry **every 2–4 h** can substitute for continuous monitoring **only in patients at low risk of respiratory failure (ACLF grade <3)**. [[aga-2024-vasoactive-albumin-cirrhosis]]
 
 **Contraindications / cautions:**
 
