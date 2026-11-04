@@ -6,6 +6,37 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-04] update | Card pass — dedup swept clean, remimazolam carded
+
+**Deck slimming (ran first):**
+
+- `anki-dupes.mjs` → **0 unjudged candidate pairs at ≥0.4**. Nothing to merge, nothing to mark; the pass went straight to writing cards.
+
+**Pages carded:**
+
+- `5-meds/remimazolam.md` — **9 new notes** from [[asge-2026-remimazolam]] (ASGE Clinical Practice Update, tier 1, ungraded): the opioid-plus-remimazolam regimen, ASA I–II and ASA III–IV/elderly/frail/end-stage-liver-disease dosing, usual 10–15 mg total with no absolute maximum, the ≤30-minute FDA approval window, renal and Child-Pugh C adjustment, the dextran 40 / pregnancy / lactation contraindications, the patients whose hemodynamics justify its cost over propofol, and the continuous-infusion alternative.
+- `7-concepts/endoscopy-sedation.md` — **no new notes**; its delta since the last card pass is the remimazolam paragraph (now owned by the drug page) and the 2023 ASA 400 mL carbohydrate-liquid allowance, already carded as `5ed028`. Marker bumped only.
+- `4-advanced-gi-procedures/hepatobiliary-procedures/tips.md` — **1 new note** from [[ilts-2016-hps-poph]]: moderate portopulmonary hypertension (mPAP 35 to under 45 mm Hg) as a *relative* contraindication, the only new content since the last pass. The absolute-contraindication note already carried mPAP >45.
+- `1-disease-scripts/hepatology-diseases/hepatopulmonary-syndrome-portopulmonary-hypertension.md` — **13 new notes**, all from [[ilts-2016-hps-poph]], closing what AASLD/AST 2025 had left unquantified: the POPH right-heart-catheterization triad (mPAP >25 · PVR >3 WU · PAWP <15), HPS PaO₂ severity bands, the <60 and <50 mm Hg MELD-exception thresholds, PAH therapy start at mPAP ≥35, the endothelin-receptor-antagonist liver warning, calcium-channel-blocker avoidance and band ligation over beta-blockade, the absence of any established HPS drug therapy, the oximetry <96% screen, MAA brain uptake >6%, Doppler pulmonary artery systolic pressure >30 mm Hg with its asymmetric predictive values, who gets screened, the numeric definition of orthodeoxia, and 1–2-cycle microbubbles as intracardiac shunting.
+- **Not carded on the HPS/POPH page:** the ILTS right-ventricular-systolic-pressure >50 mm Hg trigger for catheterization (AASLD/AST 2025's newer >45 is already carded, and carding both would teach two answers to one question); intraoperative and anesthesia management (pulmonary artery catheter, deferral at pre-incision mPAP >45–50, inhaled nitric oxide, no RV assist devices); and the POPH mPAP band labels, whose actionable content is already split across the therapy-start, TIPS-contraindication and transplant-candidacy notes.
+- `1-disease-scripts/pancreaticobiliary-diseases/ampullary-adenoma.md` — **9 new notes** from [[aga-2026-ampullary-neoplasms]] (AGA Clinical Practice Update, tier 1, ungraded best practice advice): at least 6 biopsies from ulcerated or indurated areas, the margin/probing features favouring papillectomy, the definitive contraindications, the reassuring versus samplable narrow-band-imaging villous patterns, surveillance-instead-of-excision as a real option in FAP, the relaxed and intensified surveillance tracks, who is scoped beyond 5 years, and the FAP intervals. **3 existing notes reworked for the newer guideline:** `[ab4007]` post-ERCP-pancreatitis prophylaxis rewritten from two parts to three (stent + rectal NSAID + lactated Ringer's, AGA 2026 asks for all three); `[ab4014]` recast so ESGE's 20 mm intraductal ceiling reads as the expert-centre exception to AGA 2026's 1 cm rule; `[ab4019]` **retired into `[ab4007]`** — it taught hydration as the stent-failure substitute, which AGA 2026 supersedes. Ids kept throughout, so scheduling is preserved.
+- **Not carded, by one-owner rule:** flumazenil reversal dosing. [[endoscopy-sedation]] already owns a flumazenil dose note from the 2012 multisociety curriculum (0.1–0.3 mg IV); a second note giving ASGE 2026's remimazolam-specific 0.2 mg would have been the same question with a different answer.
+- **Not carded, by yield:** mechanism, onset/half-life, the propofol head-to-head risk ratios, procedure-by-procedure noninferiority results, and the evidence-gap list — pharmacology and trial data, kept as Back Extra where they explain a dose.
+
+**New Anki tag node:** `GI::Meds::Benzodiazepines` — created for `remimazolam`, at the breadth of the existing class nodes (midazolam and diazepam would share it). No existing node covered sedative-hypnotics.
+
+**Eligible-page triage:** 9 pages had a stale or missing card file. Six were carded; the other three are deliberately uncardable and were re-checked rather than assumed, because two had gained 2026 sources since that call:
+
+- `bristol-stool-form-scale` — re-verified. The page is a hub by design: its own content is all Lewis 1997 (primary paper, not cardable) and every clinical cut-point is delegated by link to the guideline page that owns it. No card file is correct.
+- `peginterferon-alfa-2a` — re-verified. Label-sourced throughout; its single guideline-backed line (rarely used in chronic hepatitis B, AASLD/IDSA 2025) is a drug-choice fact owned by [[chronic-hepatitis-b]], and the hepatitis delta source contributes no text to the page.
+- `telemedicine-in-gastroenterology` — unchanged since 2026-10-01; practice-management content with no tag node.
+
+**Build:** `build-anki.mjs` ends the pass at **4231 notes with zero reported problems** — the "cards stale" backlog that has run at 5–6 files for several passes is now empty. Two length violations surfaced mid-pass (`[ab4014]` 41 words, `[ab4027]` a 13-word bullet) and were fixed before the file was marked done. `occ files:scan` is not reachable from this container, so Nextcloud will serve the new `.txt` after the cron's next scan.
+
+**Not committed or pushed** — card files live outside the repo by design.
+
+---
+
 ## [2026-11-04] lint | 06:00 pass — the inbox delivered 105 new raw files and backlog mode is ON again
 
 **Pre-flight:**
