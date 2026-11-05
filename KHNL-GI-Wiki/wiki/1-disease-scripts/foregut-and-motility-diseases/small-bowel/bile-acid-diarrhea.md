@@ -3,7 +3,7 @@ title: "Bile Acid Diarrhea"
 category: disease-script
 tags: [small-bowel, chronic-diarrhea, bile-acid-malabsorption, secretory-diarrhea, ibs-d, sehcat, bile-acid-sequestrant]
 created: 2026-06-04
-updated: 2026-10-06
+updated: 2026-11-05
 sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ostomies, aga-2018-functional-gi-symptoms-ibd]
 ---
 
@@ -46,7 +46,7 @@ sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ost
 | **Altered timing of bile delivery** | **Cholecystectomy** changes the timing of bile delivery to the small intestine — a potentially important cause of worsening irritable bowel syndrome (IBS) symptoms, since IBS carries an increased risk of cholecystectomy (**odds ratio [OR] 2.09, 95% CI 1.89–2.31**) |
 | **Idiopathic** | Differential potential for bile acid reabsorption between individuals |
 
-- **In [[inflammatory-bowel-disease|IBD]]:** bile acid diarrhea arises as a consequence of altered small-bowel structure or function — relevant above all in [[crohns-disease|Crohn's disease]] with **ileal disease or ileal resection** — and is a named cause of diarrhea persisting despite controlled inflammation. It is also a common cause of functional diarrhea and [[irritable-bowel-syndrome|diarrhea-predominant IBS (IBS-D)]] outside IBD. Treatment is a **bile salt sequestrant**. [[aga-2018-functional-gi-symptoms-ibd]]
+- **In [[inflammatory-bowel-disease|IBD]]:** bile acid diarrhea arises as a consequence of altered small-bowel structure or function — relevant above all in [[crohns-disease|Crohn's disease]] with **ileal disease or ileal resection** — and is a named cause of diarrhea persisting despite controlled inflammation. It is also a common cause of [[functional-diarrhea|functional diarrhea]] and [[irritable-bowel-syndrome|diarrhea-predominant IBS (IBS-D)]] outside IBD. Treatment is a **bile salt sequestrant**. [[aga-2018-functional-gi-symptoms-ibd]]
 
 > The commonly used **Type 1 / Type 2 / Type 3** nomenclature for these mechanisms is not defined in [[acg-2020-ibs]]; see a dedicated bile acid diarrhea review for it.
 

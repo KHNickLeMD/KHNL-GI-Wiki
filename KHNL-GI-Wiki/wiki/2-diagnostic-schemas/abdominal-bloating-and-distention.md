@@ -3,8 +3,8 @@ title: "Abdominal Bloating, Distention, and Belching"
 category: diagnostic-schema
 tags: [bloating, distention, belching, aerophagia, dgbi, functional-gi, sibo, fodmap]
 created: 2026-07-19
-updated: 2026-10-30
-sources: [aga-2023-bloating, rome-v-2026-dgbi, aga-2020-sibo, acg-2020-sibo]
+updated: 2026-11-05
+sources: [aga-2023-bloating, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, aga-2020-sibo, acg-2020-sibo]
 ---
 
 ## Contents
@@ -35,7 +35,17 @@ Three prevalent, often-overlapping symptoms; when frequent/severe enough to impa
 
 **Nomenclature — Rome V.** Belching disorders are Rome V category **B3** (B3a supragastric, B3b gastric, B3c inability to belch); bloating/distention is bowel-DGBI **C4**, renamed *functional abdominal bloating* (Rome IV: functional abdominal bloating and distention — bloating is the DGBI symptom; distention co-occurs without adding diagnostic value) [[rome-v-2026-dgbi]]. Rome V additionally offers **Rome Clinical Criteria** for practice — same qualitative features, symptoms must be **bothersome**, a lower frequency threshold, and a suggested **8-week** (not 6-month) duration.
 
-**Rome IV — primary functional bloating/distention:** recurrent fullness/pressure **or** visible girth increase, **≥1 day/week**, active **≥3 months** with onset **≥6 months** prior, **without** predominant pain or altered bowel habits — and **not** meeting criteria for [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]], functional constipation, functional diarrhea, or [[functional-dyspepsia|functional dyspepsia]] ([[dyspepsia]]). Primary prevalence ~3.5% (4.6% women, 2.4% men); but bloating/distention are **>50%** prevalent when overlapping other DGBIs.
+**Rome V criteria — functional abdominal bloating (C4)** ([[rome-v-2026-bowel-disorders]]) — fulfilled for the past 3 months, onset ≥6 months before diagnosis:
+
+> Must include **both**:
+> 1. Recurrent abdominal bloating and/or visible distension on average **at least 1 day per week**, **predominant over other symptoms**
+> 2. **Insufficient criteria** for [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]], chronic constipation, [[functional-diarrhea|functional diarrhea]], and the **postprandial distress syndrome** subtype of [[functional-dyspepsia|functional dyspepsia]] ([[dyspepsia]])
+>
+> Mild pain or discomfort related to the bloating, and minor bowel movement abnormalities, may be present but must not predominate.
+
+- **Bloating and distension are different things but are classified together** — bloating is the *subjective* sensation of pressure/fullness/gassiness, distension the *objective, measurable* increase in girth. Rome V keeps them under one diagnosis because there is insufficient research to separate them ([[rome-v-2026-bowel-disorders]]).
+- Primary prevalence ~3.5% (4.6% women, 2.4% men); bloating/distention are **>50%** prevalent when overlapping other DGBIs — **96.6%** of patients with IBS and **88.9%** with functional dyspepsia report them, vs 53.8% without a DGBI.
+- Evaluation follows the principles applied to IBS and chronic constipation; **evidence-based guidance for testing in functional abdominal bloating specifically is lacking**.
 
 ---
 
@@ -108,19 +118,22 @@ Order labs/imaging/endoscopy (BPA 6) when present:
   - **Central neuromodulators** (antidepressants) — reduce visceral hypersensitivity, raise sensation threshold (BPA 12).
   - **Brain–gut behavioral therapies** — hypnotherapy, CBT (BPA 14).
   - **Abdominophrenic dyssynergia** — diaphragmatic breathing + central neuromodulators (BPA 15).
-  - **[[probiotics|Probiotics]] — not recommended** (BPA 10).
+  - **[[probiotics|Probiotics]] — not recommended** (BPA 10). Rome V agrees the certainty of benefit is low and adds that **some patients report bloating worsening** on probiotics ([[rome-v-2026-bowel-disorders]]).
+  - **Drug options with trial data** ([[rome-v-2026-bowel-disorders]]): **[[rifaximin]]** 400 mg twice daily × 7 d (bloating with excessive flatulence and a negative lactulose breath test), 400 mg 3× daily × 10 d, or 550 mg 3× daily × 14 d (adequate relief 40% vs 30%) · **secretagogues** (superior to placebo for bloating on meta-analysis) · **[[prucalopride]] 2 mg once daily** (greater bloating improvement in post hoc analysis of chronic-constipation trials) · **peppermint oil** 2–4× daily · **simethicone** and **α-galactosidase** over the counter.
+  - **Abdominophrenic biofeedback** for meal-triggered *visible* distension — thoracoabdominal wall motion–guided biofeedback using inductance plethysmography improved distension scores in an RCT (n = 42), with no effect in the placebo arm ([[rome-v-2026-bowel-disorders]]). Distinct from pelvic floor biofeedback above.
 
 ---
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]], [[chronic-idiopathic-constipation]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[celiac-disease]], [[gastroparesis]], [[dyspepsia]], [[defecation-disorders]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[gerd]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[anorectal-manometry]], [[biofeedback-therapy]], [[small-bowel-motility]], [[inflammatory-bowel-disease]], [[chronic-pancreatitis]], [[ascites]], [[acute-colonic-pseudo-obstruction]], [[proton-pump-inhibitors]], [[probiotics]], [[baclofen]]
+[[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]], [[functional-diarrhea]], [[chronic-idiopathic-constipation]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[celiac-disease]], [[gastroparesis]], [[dyspepsia]], [[defecation-disorders]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[gerd]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[anorectal-manometry]], [[biofeedback-therapy]], [[small-bowel-motility]], [[inflammatory-bowel-disease]], [[chronic-pancreatitis]], [[ascites]], [[acute-colonic-pseudo-obstruction]], [[proton-pump-inhibitors]], [[probiotics]], [[baclofen]]
 
 ---
 
 ## Sources
 
 1. [[aga-2023-bloating|AGA Clinical Practice Update on Evaluation and Management of Belching, Abdominal Bloating, and Distention: Expert Review]]
-2. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
-3. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]
-4. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
+2. [[rome-v-2026-bowel-disorders|Bowel Disorders (Rome V, 2026)]]
+3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+4. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]
+5. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]

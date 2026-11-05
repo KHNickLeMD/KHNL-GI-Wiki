@@ -3,8 +3,8 @@ title: "Opioid-Induced Constipation"
 category: disease-script
 tags: [constipation, oic, opioids, pamora, naldemedine, naloxegol, methylnaltrexone, laxatives, colorectal, functional]
 created: 2026-09-26
-updated: 2026-09-29
-sources: [aga-2019-opioid-induced-constipation, aga-acg-2023-constipation, rome-v-2026-dgbi, aga-2017-opioids-in-gastroenterology]
+updated: 2026-11-05
+sources: [aga-2019-opioid-induced-constipation, aga-acg-2023-constipation, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, aga-2017-opioids-in-gastroenterology]
 ---
 
 ## Contents
@@ -36,14 +36,16 @@ sources: [aga-2019-opioid-induced-constipation, aga-acg-2023-constipation, rome-
 - **OIC vs opioid-induced bowel dysfunction (OIBD):** OIBD is the wider set of GI adverse effects of opioid therapy — constipation, [[gerd|gastroesophageal reflux disease]], [[nausea-and-vomiting|nausea and vomiting]], [[abdominal-bloating-and-distention|bloating]], and abdominal pain.
 - **Category:** [[rome-v-2026-dgbi|Rome V]] keeps OIC as a **separate bowel disorder of gut-brain interaction (DGBI) category (C6)**, not a subtype of [[chronic-idiopathic-constipation|chronic constipation]].
 
-**Rome IV symptom criteria**, as reproduced by [[aga-2019-opioid-induced-constipation]] — **new or worsening symptoms of constipation when initiating, changing, or increasing opioid therapy**, which must include **≥2** of:
+**Rome V symptom criteria (C6)** ([[rome-v-2026-bowel-disorders]]; items 1a–f unchanged from Rome IV, as reproduced by [[aga-2019-opioid-induced-constipation]]) — **must include both:**
 
-1. Straining **>25%** of defecations
-2. Lumpy or hard stools **>25%** of defecations
-3. Sensation of incomplete evacuation **>25%** of defecations
-4. Sensation of anorectal obstruction/blockage **>25%** of defecations
-5. Manual maneuvers to facilitate **>25%** of defecations (e.g. digital evacuation, support of the pelvic floor)
-6. Fewer than **3 spontaneous bowel movements (SBM) per week**
+1. **New, or worsening, symptoms of constipation when initiating, changing, or increasing opioid therapy**, that must include **≥2** of:
+   a. Straining **>25%** of defecations
+   b. Lumpy or hard stools (Bristol 1–2) **>25%** of defecations
+   c. Sensation of incomplete evacuation **>25%** of defecations
+   d. Sensation of anorectal obstruction/blockage **>25%** of defecations
+   e. Manual maneuvers to facilitate **>25%** of defecations (e.g. digital evacuation, support of the pelvic floor)
+   f. Fewer than **3 spontaneous bowel movements (SBM) per week**
+2. **Loose stools are rarely present without the use of laxatives** — new in Rome V, matching the chronic-constipation criteria.
 
 **Consensus definition** (broader, any-one-of): "a change when initiating opioid therapy from baseline bowel habits that is characterized by any of the following: **reduced bowel movement frequency, development or worsening of straining** to pass bowel movements, **a sense of incomplete rectal evacuation, or harder stool consistency**."
 
@@ -170,7 +172,15 @@ Laxatives are very safe, widely available over the counter, and inexpensive — 
 | **Methylnaltrexone** | **2c.** "In patients with laxative refractory OIC, the AGA suggests methylnaltrexone over no treatment." | **Conditional · Low** | 5 RCTs, but only 3 used **≥3 rescue-free BM/week** (the FDA-recommended outcome) and only 2 studied non-cancer pain. **RR 1.43 (95% CI 1.21–1.68)** = 43% improvement, **16 more patients per 100** achieving the outcome. "Laxation response" (a BM **within 4 hours** of the dose) **RR 3.16 (95% CI 2.18–4.58)** | No statistically significant increase in AEs leading to discontinuation. Quality rated down for **indirectness, inconsistency, imprecision**. **High cost relative to other agents**; the **subcutaneous** formulation may be an advantage in some situations |
 
 - **Class safety caveat:** avoid PAMORAs in conditions that **compromise the blood–brain barrier**, because of the potential for **serious withdrawal or reversal of anesthesia**.
-- **Dosing:** AGA 2019 does not print doses for naldemedine, naloxegol, or methylnaltrexone.
+- **Dosing** — AGA 2019 prints no PAMORA doses; these are the regimens [[rome-v-2026-bowel-disorders]] reports as trial-tested and approved:
+
+| Agent | Regimen |
+|---|---|
+| **Naldemedine** | **0.2 mg** daily — 2 twelve-week phase 3 RCTs in noncancer pain: endpoint met in 47.6% and 52.5% vs ~34% placebo |
+| **Naloxegol** | **12.5 mg or 25 mg** daily; **25 mg** met the primary endpoint in both 12-week phase 3 RCTs (44.4% and 39.7% vs 29.3%). An open-label crossover trial (n = 246) found **no difference between PEG and naloxegol** over 2 weeks and no patient preference |
+| **Methylnaltrexone** | **Subcutaneous 8 mg or 12 mg** daily or every other day; **oral 150 mg tablet**, with the recommended oral dose **450 mg daily** |
+
+- PAMORA adverse events as a class in these trials: diarrhea and abdominal pain.
 
 ### Agents with no AGA recommendation
 
@@ -205,5 +215,6 @@ Gaps the AGA panel named as research priorities [[aga-2019-opioid-induced-consti
 
 1. [[aga-2019-opioid-induced-constipation|American Gastroenterological Association Institute Guideline on the Medical Management of Opioid-Induced Constipation]]
 2. [[aga-acg-2023-constipation|AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation]]
-3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
-4. [[aga-2017-opioids-in-gastroenterology|Opioids in Gastroenterology: Treating Adverse Effects and Creating Therapeutic Benefits (2017)]]
+3. [[rome-v-2026-bowel-disorders|Bowel Disorders (Rome V, 2026)]]
+4. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+5. [[aga-2017-opioids-in-gastroenterology|Opioids in Gastroenterology: Treating Adverse Effects and Creating Therapeutic Benefits (2017)]]

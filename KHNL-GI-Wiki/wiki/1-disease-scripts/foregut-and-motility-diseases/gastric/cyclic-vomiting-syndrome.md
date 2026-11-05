@@ -3,8 +3,8 @@ title: "Cyclic Vomiting Syndrome (CVS)"
 category: disease-script
 tags: [cyclic-vomiting-syndrome, cvs, dgbi, vomiting, migraine, foregut, motility]
 created: 2026-07-18
-updated: 2026-11-01
-sources: [aga-2024-cvs, aga-2024-chs, rome-v-2026-dgbi]
+updated: 2026-11-05
+sources: [aga-2024-cvs, aga-2024-chs, rome-v-2026-gastroduodenal-disorders, rome-v-2026-dgbi]
 ---
 
 Chronic [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction (DGBI)]] of **stereotyped, recurrent discrete episodes of intense vomiting/retching separated by symptom-free intervals**; strong migraine association. Common (~2% US prevalence, more common in women) but markedly **under-diagnosed and under-treated** — most patients endure years of diagnostic delay and futile testing; half visit the emergency department (ED) ≥1×/yr and 1 in 3 become disabled ([[aga-2024-cvs]]). [[cannabinoid-hyperemesis-syndrome|Cannabinoid hyperemesis syndrome (CHS)]] is a proposed subtype.
@@ -28,15 +28,28 @@ Chronic [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction
 
 ### Establishing the Diagnosis
 
-**Rome IV criteria (adults):**
-- Stereotypical episodes of acute-onset vomiting lasting **<7 days**.
-- **≥3 discrete episodes in the prior year AND 2 in the past 6 months**, separated by **≥1 week of baseline health**.
-- **Absence of vomiting between episodes** (milder symptoms — nausea, occasional vomiting, [[dyspepsia]] — may persist).
-- *Supportive:* personal or family history of **migraine**.
+**Rome V criteria (B2b)** ([[rome-v-2026-gastroduodenal-disorders]]) — must include **all**:
 
-Diagnosis is **clinical** — consider cyclic vomiting syndrome (CVS) in any adult with episodic bouts of repetitive vomiting. ~15% have episodes lasting >7 days; **abdominal pain is present in most episodes and does not exclude CVS**.
+> 1. **Stereotypical episodes of repetitive vomiting** regarding onset (acute) and duration (**up to 10 days**)
+> 2. **At least 3 discrete episodes in the prior year and 2 episodes in the past 6 months**, occurring **at least 1 week apart**
+> 3. **Milder symptoms including nausea and isolated vomiting can be present between cycles**
+>
+> *Supportive remark:* history or family history of **migraine** headaches can be present.
 
-> **Rome V has moved on, but its criteria are not printed here.** [[rome-v-2026-dgbi|Rome V]] (2026 — newer than the 2024 clinical practice update [CPU]) keeps CVS as an adult nausea-and-vomiting disorder at **B2b** and splits [[cannabinoid-hyperemesis-syndrome|CHS]] out as a separate adult entity at **B2c**, and states that for both "timing of symptoms and intervals was specified based on **more recent cohort studies**." The Rome V overview article **does not print the B2b criteria**, so the **Rome IV thresholds above — carried by [[aga-2024-cvs]] — are what this page uses**. Whether the episode-duration, count, or well-interval numbers changed in Rome V is stated only in the Rome V gastroduodenal chapter.
+- **What Rome V changed from Rome IV**, which [[aga-2024-cvs]] carries: episode duration **<7 days → up to 10 days**, and the requirement for **absence of vomiting between episodes is gone** — minor interepisodic vomiting is now explicitly compatible with the diagnosis. The ≥3-in-a-year / 2-in-6-months / ≥1-week-apart counts are unchanged. Rome V is newer within tier 1, so these are the operative criteria.
+- Diagnosis is **clinical** — consider cyclic vomiting syndrome (CVS) in any adult with episodic bouts of repetitive vomiting. **Abdominal pain is present in most episodes and does not exclude CVS**; nearly two-thirds report abdominal pain and diarrhea during the emetic phase.
+
+**The four phases, with the numbers that identify them** ([[rome-v-2026-gastroduodenal-disorders]]):
+
+| Phase | What happens |
+|---|---|
+| **Prodrome** | Nausea, abdominal pain, fatigue, weakness — **stereotypical in timing** for that patient |
+| **Emetic** | Begins within minutes to hours; lasts **3–6 days**; unrelenting vomiting **>8 times hourly on average** |
+| **Recovery** | Up to **1 week**; nausea persists, with lightheadedness and meal intolerance in some |
+| **Interepisodic** | Weeks to months; **up to 63%** still have milder nausea, [[dyspepsia]] and intermittent vomiting |
+
+- **Compulsive hot bathing is reported by 48% of CVS patients who do not use cannabis** — it does not by itself point to [[cannabinoid-hyperemesis-syndrome|CHS]].
+- Acute complications: fluid loss, electrolyte abnormalities, hematemesis; **dental enamel damage** with repeated attacks. **78% screen positive for depression and 84% for anxiety.**
 
 ### Severity Assessment
 
@@ -136,4 +149,5 @@ Highest abort probability when taken **early in the prodrome**. **Nearly all pat
 
 1. [[aga-2024-cvs|AGA Clinical Practice Update on Diagnosis and Management of Cyclic Vomiting Syndrome (2024)]]
 2. [[aga-2024-chs|AGA Clinical Practice Update on Diagnosis and Management of Cannabinoid Hyperemesis Syndrome (2024)]]
-3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+3. [[rome-v-2026-gastroduodenal-disorders|Gastroduodenal Disorders (Rome V, 2026)]]
+4. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

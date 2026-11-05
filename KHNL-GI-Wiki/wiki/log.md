@@ -6,6 +6,55 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-05] lint | Backlog pass — ingest by budget from the 2026-11-04 inbox batch
+
+**Pre-flight:**
+
+- `git pull --rebase` → already up to date. `git status --untracked-files=all` → clean; **no untracked files under `raw/`** (the inbox sync's arrivals are gitignored, so git cannot see them — nothing to commit from that path).
+- **Resume markers:** `grep -rln "^ingest: partial" wiki/sources/` → **no hits**. No source page was left mid-ingest by the previous pass.
+- **Wiki size at start:** 407 source pages · 619 non-asset files in `raw/`.
+- **⚠ BACKLOG MODE ON** (unchanged since 2026-11-04). Per *Backlog mode*, ingest takes the whole budget and **_Validate the stalest pages_, _Expand stubs_ and _Fill coverage gaps_ are paused: ingest backlog.** Health check, git hygiene and this log entry still run. Not the 06:00 cron pass → **daily source fetch not run** (and with the backlog standing it would add to it, not close a gap).
+- **Carried forward, still unaddressed:** the four unverified stale pages ([[liver-transplantation]], [[test-and-treat]], [[iron-overload-and-iron-metabolism]], [[mutyh-associated-polyposis]]) and the [[autoimmune-pancreatitis]] structural-split question for Nick.
+
+**Backlog audit (method):** matched every non-lecture `raw/` filename against the full text and slugs of all 407 `wiki/sources/` pages on its **parenthetical surname** (the inbox convention is `SOCIETY YEAR Topic (FirstAuthor)`), never on topic tokens — token matching has produced wrong counts before. **31 author-bearing files name an author found nowhere in `wiki/sources/`.** Author-less files were checked by hand per society folder rather than scored: **6 more uningested** (`EASL 2023 Hepatitis Delta Virus CPG`, `EASL 2024 Genetic Cholestatic Liver Diseases`, `EASL 2025 Autoimmune Hepatitis`, `EASL 2025 Extrahepatic Cholangiocarcinoma`, `EASL AASLD 2026 PBC Surrogate Endpoints Delphi Consensus`, `NCCN 2026 Genetic Familial High-Risk Assessment`). **Total uningested tier-1: 37**, plus the 60 gated lectures and the unusable IANS 2024 file. The standing shorthand-filename false alarms (`NIT in MASDL.pdf`, `GLP1 before endo.pdf`, `cannabis hyperemesis.pdf`, `cyclical vomiting.pdf`, `potassium blockers.pdf`, `Cotton Consensus.pdf`, `eus gb drain cholecystitis.pdf`, `exocrine panc insufficiency.pdf`, `portal vein thrombosis.pdf`) all resolve to existing pages and were **not** re-flagged.
+
+**⚠ Correction to the 2026-11-04 count — the surname method has false *negatives* too.** Matching a filename's parenthetical surname against the full text of `wiki/sources/` marks a file ingested whenever that surname appears anywhere, including in another page's reference list. Common names slip through: `Rome V 2026 Anorectal Disorders (Rao)`, `Functional Esophageal Disorders (Gyawali)` and `Gallbladder and Sphincter of Oddi Disorders (Elmunzer)` were all counted as ingested and **none has a source page**. Same for `ESGE 2020 SEMS for Obstructing Colonic and Extracolonic Cancer (van Hooft)` (lowercase particle, so it fell into the author-less bucket). **37 is a floor; the real backlog is larger.** A reliable count needs filename-to-slug resolution, not substring matching.
+
+**Ingested (1 file, finished end to end):**
+
+- **`raw/GI Guidelines/Other/Rome V 2026 Bowel Disorders (Corsetti).pdf`** → [[rome-v-2026-bowel-disorders]]. Tier 1 (Rome Foundation consensus chapter, *Gastroenterology* 2026;170:1261–1282). This is the document that **prints the Rome V criteria the process overview withholds** — the gap [[chronic-constipation]] carried an explicit note about. Read in full (16 pages via the Read tool; the article body ends at p. 1275).
+  - **Source page** covers all six bowel disorders (C1 IBS · C2 chronic constipation · C3 functional diarrhea · C4 functional abdominal bloating · C5 unclassified bowel disorder · C6 opioid-induced constipation): each criteria box verbatim-to-near-verbatim, the Table 1 subtype rule, Figure 4's stepwise evaluation, and the treatment sections by predominant symptom with doses.
+  - **New page:** [[functional-diarrhea]] (`1-disease-scripts/colorectal-diseases/functional-motility/`) — the wiki had no page for it despite three schemas referencing it. ADDT; the IBS-D exclusion, loperamide 2–4 mg up to 4×/day without lab monitoring, empiric bile acid sequestrant ≥4 weeks, and the pitfall that neuromodulators are *not* initial therapy here.
+  - **[[irritable-bowel-syndrome]]** — Rome V criteria now stated as the operative box rather than a list of deltas from Rome IV; subtype table gained the four qualifiers that make it valid (abnormal-bowel-movement days only, ≥4/month, off laxatives and antidiarrheals, the Bristol-picture shortcut); Diagnostics gained the **calprotectin action bands (<100 / 100–<250 repeat off NSAIDs / ≥250)**, the microscopic-colitis colonoscopy triggers with the take-biopsies rule, and the explicit do-not-order list. Unclassified bowel disorder added to the differential with its 40%-at-1-year instability.
+  - **[[chronic-constipation]]** — the C2 criteria box **replaced the gap note** that said they were not in any ingested source; plus the occasional-constipation definition and Rome V's testing stances (imaging not recommended, anorectal testing after treatment failure, colonic manometry of uncertain relevance).
+  - **[[opioid-induced-constipation]]** — criteria relabelled Rome V C6 with its new second clause; **PAMORA doses added** (naldemedine 0.2 mg · naloxegol 12.5/25 mg · methylnaltrexone SC 8–12 mg, oral 450 mg daily), closing the page's own "AGA 2019 does not print doses" gap.
+  - **[[abdominal-bloating-and-distention]]** — C4 criteria box, the bloating-vs-distension distinction and why Rome V keeps them together, abdominophrenic biofeedback, and the drug options with trial data.
+  - **[[chronic-idiopathic-constipation]]** — Rome V dose detail (psyllium 7–20 g/d, lactulose 15–30 mL, magnesium electrolyte caution, PEG's 6-month evidence, why prucalopride stops at 2 mg) and the statement that **stimulant laxatives are not habit forming and do not damage the colon**.
+  - **[[chronic-diarrhea]]**, **[[microscopic-colitis]]**, **[[bile-acid-diarrhea]]** — differential entry and inline links to the new page.
+  - **`index.md`:** source row + [[functional-diarrhea]] row added.
+  - **`needed-sources.md`:** 2 rows deleted — the Rome V chapters row (all three named chapters are in `raw/`; Corsetti ingested here, Törnblom and Rao now in the ingest backlog rather than the download list) and the ESGE 2020 SEMS row (also already in `raw/`).
+
+**Cards (same run, as the ingest rule requires):** **13 notes added, 5 reworked, ids kept throughout.** New: calprotectin bands, take-biopsies-at-colonoscopy, and the do-not-order list on [[irritable-bowel-syndrome]]; PAMORA doses and the new C6 clause on [[opioid-induced-constipation]]; stimulant-laxative safety and the prucalopride 4-mg finding on [[chronic-idiopathic-constipation]]; the ≥1 day/week FAB threshold on [[abdominal-bloating-and-distention]]; imaging's non-role on [[chronic-constipation]]; and 4 notes on the new [[functional-diarrhea]] file. Reworked: the four chronic-constipation criteria notes were **labelled Rome III and sourced to ASGE 2014** — relabelled Rome V, re-sourced to the newer tier-1 chapter, and corrected to *spontaneous* bowel movements, Bristol 1–2 and *more than* 25%. Build ends at **4244 notes, zero problems**; `occ files:scan` is not reachable from this container, so Nextcloud serves the new `.txt` after the next cron scan.
+
+**Ingest 2 — started, NOT finished (budget cap). `ingest: partial` is set and must be cleared by the next pass:**
+
+- **`raw/GI Guidelines/Other/Rome V 2026 Gastroduodenal Disorders (Tornblom).pdf`** → [[rome-v-2026-gastroduodenal-disorders]]. Tier 1 (Rome Foundation consensus chapter, *Gastroenterology* 2026;170:1240–1260). Read in full (14 pages; body ends p. 1253). Source page complete — all five categories with their criteria boxes, both treatment algorithms, and the nausea/vomiting workup.
+- **Done:** [[functional-dyspepsia]] (B1/B1a/B1b boxes, the PDS-over-EPS reassignment of postprandial epigastric pain, the provisional meal-related EPS split, the no-routine-labs/imaging/motility stances) · [[cyclic-vomiting-syndrome]] (B2b box — **episode duration <7 d → up to 10 d**, and the Rome IV requirement for *no* interepisodic vomiting is gone — plus the four phases with their numbers) · [[cannabinoid-hyperemesis-syndrome]] (B2c box, now quantifying cannabis exposure at **≥4 days or ≥15 doses per week for 1 year**, and the 19%-abstinence roadblock) · [[rumination-syndrome]] (B5 box; **the page said Rome V B4 — corrected to B5**, B4 is inability to belch) · [[nausea-and-vomiting]] (B2a box with the new ≥2-nausea-days threshold and the four findings that warrant evaluation). All five gaps were ones the page itself had flagged as unprintable from the overview article.
+- **Still outstanding for the next pass:** [[dyspepsia]] (Figure 2's diagnostic approach, the *H. pylori*-status-in-everyone rule), [[gastroparesis]] (the Rome V boundary — the term is reserved for predominant nausea or recurrent vomiting, so delayed emptying with postprandial fullness is "PDS with delayed gastric emptying"), the **B3 belching** thresholds (>3 days/week; >13 supragastric belches/24 h; speech therapy's 83% response rate) and **B4 inability to belch** detail on [[abdominal-bloating-and-distention]], and **card files for every page this file touched**.
+
+**Steps that did nothing, and why:**
+
+- **Daily source fetch:** not run — this is not the 06:00 cron pass, and with 35 tier-1 files still uningested a download would add to the backlog rather than close a gap.
+- **Validate the stalest pages · Expand stubs · Fill coverage gaps:** **paused: ingest backlog** (per *Backlog mode*). [[functional-diarrhea]] was created as part of an ingest, not as a coverage-gap fill.
+- **New folders:** none created. **Lint report:** chat only, not written to disk.
+- **Hygiene:** no `.DS_Store` or other OS artifacts found; the pipe-escape grep over every page touched returned **0 unescaped alias pipes**; a link check across all 14 touched files found **0 broken `[[links]]`**.
+
+**Lectures:** 60 gated transcripts remain uningested. Not touched (never auto-ingested); available on request by name.
+
+**Wiki size at end:** **409 source pages** (407 + 2), 1 new entity page ([[functional-diarrhea]]), **14 pages edited**. Backlog after this pass: **35 tier-1 `raw/` files** (plus the gated lectures and the unusable IANS 2024 file) — **backlog mode stays ON.**
+
+---
+
 ## [2026-11-04] update | Card pass — 7 dupe pairs judged, nothing qualified for new cards
 
 **Deck slimming (ran first):**

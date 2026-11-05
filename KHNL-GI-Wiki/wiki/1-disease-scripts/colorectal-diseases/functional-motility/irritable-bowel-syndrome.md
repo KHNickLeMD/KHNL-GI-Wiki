@@ -3,8 +3,8 @@ title: "Irritable Bowel Syndrome"
 category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, diet, fiber, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-11-01
-sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d, aga-2020-sibo, aga-2022-diet-ibs, aga-2019-lab-evaluation-functional-diarrhea-ibs-d, aga-2018-functional-gi-symptoms-ibd, aga-2018-psychogastroenterology, aga-2023-alpha-gal-syndrome]
+updated: 2026-11-05
+sources: [acg-2020-ibs, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d, aga-2020-sibo, aga-2022-diet-ibs, aga-2019-lab-evaluation-functional-diarrhea-ibs-d, aga-2018-functional-gi-symptoms-ibd, aga-2018-psychogastroenterology, aga-2023-alpha-gal-syndrome]
 ---
 
 ## Contents
@@ -28,19 +28,22 @@ sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-202
 
 Irritable bowel syndrome (IBS) is a [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction]] defined by recurrent abdominal pain associated with altered bowel habits without structural or biochemical explanation. American College of Gastroenterology (ACG) 2020 endorses a **positive diagnostic strategy** using Rome criteria + a focused, limited testing panel rather than a diagnosis of exclusion ([[acg-2020-ibs]] Recs 5–6; Strong/High for cost-effectiveness).
 
-**Rome IV criteria** (used in ACG 2020): Recurrent abdominal pain on average ≥1 day/week in the last 3 months, associated with ≥2 of:
+**Rome V criteria (2026)** — the operative criteria ([[rome-v-2026-bowel-disorders]]):
 
-1. Related to defecation
-2. Change in stool frequency
-3. Change in stool form
-Symptom onset ≥6 months prior to diagnosis.
+> Recurrent, **but not continuous**, abdominal pain **or discomfort** on average **≥3 days per month in the past 3 months**, associated with **2 or more** of:
+> 1. Related to defecation
+> 2. Associated with a change in frequency of stool
+> 3. Associated with a change in form (appearance) of stool
+>
+> Symptom onset ≥6 months before diagnosis. **Supportive criterion:** pain/discomfort should not be *only* related to menses.
 
-**Rome V (2026) modifications** ([[rome-v-2026-dgbi]]) — the non-continuous-pain rule *narrows* the diagnosis; the other changes *widen* it:
+**What changed from Rome IV** (the criteria [[acg-2020-ibs|ACG 2020]] was written against: pain alone, ≥1 day/week) — the non-continuous-pain rule *narrows* the diagnosis, the others *widen* it:
 
-- **Pain frequency lowered** to **≥3 days per month in the last 3 months** (Rome IV: ≥1 day/week in the previous 3 months). Rationale: the Rome IV threshold cut measured IBS prevalence from ~**10% to 4%**, defining a population more severe than what is seen in practice.
-- **"Abdominal discomfort" re-added** to the criteria after removal in Rome IV — patients in some countries experience discomfort without pain.
-- **Abdominal pain and discomfort must NOT be continuous.** This is a **new exclusion**, not a relaxation: continuous pain points to **centrally mediated abdominal pain syndrome (Rome V D1)**, not IBS. A patient with unremitting daily pain is not diagnosed with IBS on these criteria.
-- **6-month duration is no longer required** for clinical (as opposed to research) use — the Rome Clinical Criteria suggest an **8-week** duration to allow exclusion of other diagnoses, with exceptions when the clinician is satisfied that evaluation has excluded other disorders; frequency below the research threshold is permitted if symptoms are bothersome and the qualitative features are met (Rome Clinical Criteria — see the disorder of gut–brain interaction page linked above).
+- **Frequency lowered to ≥3 days/month.** The Rome IV threshold is the main reason measured prevalence fell between Rome III and Rome IV — from ~**10% to 4%** — defining a population more severe than what is seen in practice.
+- **"Discomfort" re-added** after removal in Rome IV — patients in some countries experience discomfort without pain.
+- **Pain/discomfort must NOT be continuous** — a **new exclusion**: continuous pain points to **centrally mediated abdominal pain syndrome (Rome V D1)**, not IBS. A patient with unremitting daily pain is not diagnosed with IBS on these criteria.
+- **Menses supportive criterion added**, to separate IBS from menstrual-related symptoms.
+- **6-month duration is no longer required** for clinical (as opposed to research) use — the Rome Clinical Criteria suggest an **8-week** duration to allow exclusion of other diagnoses, with exceptions when the clinician is satisfied that evaluation has excluded other disorders; frequency below the research threshold is permitted if symptoms are bothersome and the qualitative features are met ([[rome-v-2026-dgbi]] — see the disorder of gut–brain interaction page linked above).
 
 ### Severity Assessment
 
@@ -80,6 +83,13 @@ Subtypes by [[bristol-stool-form-scale|Bristol Stool Form Scale]] **on days with
 | IBS with mixed bowel habits (IBS-M) | >25% | >25% |
 | IBS unclassified (IBS-U) | neither >25% nor matches above | |
 
+**Qualifiers that make the subtype valid** ([[rome-v-2026-bowel-disorders]]) — subtypes are **mutually exclusive**:
+
+- Count **only days with ≥1 abnormal bowel movement**; including normal-stool days lowers specificity.
+- **≥4 days of abnormal bowel habit per month** are needed for confidence.
+- Assess **off all therapies for bowel habit** (laxatives, antidiarrheals) — otherwise IBS-C/D/M cannot be established.
+- **Clinical-practice shortcut:** ask which Bristol picture the patient's *abnormal* stools usually look like (IBS-C usually 1–2 · IBS-D usually 6–7 · IBS-M both >25% · IBS-U abnormal stools are rare). Trials use ≥2 weeks of daily diary.
+
 >50% of patients change predominant subtype over 1 year — re-classify periodically.
 
 ---
@@ -93,6 +103,8 @@ Subtypes by [[bristol-stool-form-scale|Bristol Stool Form Scale]] **on days with
 - [[celiac-disease]] — serology in IBS-D (Strong/Moderate; biopsy-proven celiac disease (CD) odds ratio (OR) 4.48 in IBS-D)
 - [[clostridioides-difficile]] / [[postinfectious-ibs|postinfection IBS]] ([[giardiasis|Giardia]], [[campylobacter-infection|Campylobacter]]) — selective testing
 - [[chronic-idiopathic-constipation]] — distinguished from IBS-C by absence of pain dominance
+- [[functional-diarrhea|Functional diarrhea]] — loose/watery stools >25% of the time **without predominant pain**; the Rome V category patients fall into when IBS-D criteria are not met ([[rome-v-2026-bowel-disorders]])
+- **Unclassified bowel disorder (Rome V C5)** — bothersome bowel symptoms, no structural cause, and criteria for none of IBS, chronic constipation, functional diarrhea or functional abdominal bloating. A holding diagnosis, not a stable one: **only 40% still meet it at 1 year**, most transitioning to IBS ([[rome-v-2026-bowel-disorders]])
 - [[defecation-disorders]] — anorectal dyssynergia may mimic IBS-C; anorectal manometry (ARM) + balloon expulsion test (BET) if pelvic floor symptoms or refractory
 - [[microscopic-colitis|Microscopic colitis]] — older women, watery diarrhea, normal endoscopy with random biopsies
 - [[bile-acid-diarrhea|Bile acid diarrhea]] — consider in IBS-D non-responders
@@ -109,9 +121,21 @@ Subtypes by [[bristol-stool-form-scale|Bristol Stool Form Scale]] **on days with
 - Fecal calprotectin or lactoferrin + CRP in IBS-D — cut-points (calprotectin **50 µg/g**, lactoferrin **4.0–7.25 µg/g**) and why not to raise them live on [[chronic-diarrhea]]
 - ***Giardia*** antigen or polymerase chain reaction (PCR) — Strong/High in chronic diarrhea ([[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|American Gastroenterological Association (AGA) 2019]]); assay performance >95% sensitivity and specificity
 
+**Fecal calprotectin — how to act on the number** ([[rome-v-2026-bowel-disorders]] Figure 4):
+
+| Result | Action |
+|---|---|
+| <100 µg/g | Normal |
+| >100 but <250 µg/g | **Indeterminate — repeat off nonsteroidal anti-inflammatory drugs (NSAIDs)** |
+| ≥250 µg/g | Abnormal → [[colonoscopy]] |
+
+- **Colonoscopy also for suspected [[microscopic-colitis|microscopic colitis]]:** female, age ≥50 y, severe watery diarrhea, diarrhea duration <12 mo, co-existing autoimmune disease, nocturnal diarrhea, weight loss, or precipitating drugs (NSAIDs, [[proton-pump-inhibitors|proton pump inhibitors (PPIs)]]). **When colonoscopy is done for suspected IBS, take biopsies** — yield is otherwise only ~2%, and what it finds is microscopic colitis.
+
 **Recommended against (routine):**
 
 - Stool ova/parasites/pathogens — only if travel, exposure, or Giardia risk factors (Conditional/Low)
+- **Do not routinely order** ([[rome-v-2026-bowel-disorders]] Figure 4): erythrocyte sedimentation rate (ESR), anti-vinculin / anti-cytolethal distending toxin B (CdtB), malabsorption tests · fecal elastase, fecal fat, occult blood, ova and parasites, stool culture, microbiota assays. Fecal hemoglobin tests (fecal occult blood test, fecal immunochemical test, multitarget stool DNA) are [[colorectal-cancer-screening|CRC screening]] tests, not tests to separate IBS from structural disease.
+- **Lactose or [[small-intestinal-bacterial-overgrowth|SIBO]] breath testing and sucrase-isomaltase testing are not part of the initial evaluation** ([[rome-v-2026-bowel-disorders]]) — useful in selected patients only.
 - **erythrocyte sedimentation rate (ESR) or CRP as an *inflammatory bowel disease (IBD) screen*** — [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA 2019]] suggests against (Conditional/Low); use a fecal marker instead. CRP is a reasonable fallback only when calprotectin/lactoferrin is unavailable or uncovered. ⚠ This is narrower than it looks — ACG keeps CRP in the IBS-D panel above, and it is newer within tier 1, so the panel stands; AGA's objection is to CRP *as a substitute for* a fecal marker.
 - [[colonoscopy|Colonoscopy]] if age <45 without alarm features (Conditional/Low)
 - immunoglobulin E (IgE) food allergy panels unless reproducible food-specific symptoms (Consensus)
@@ -189,20 +213,21 @@ Subtypes by [[bristol-stool-form-scale|Bristol Stool Form Scale]] **on days with
 ---
 
 ## See Also
-[[disorders-of-gut-brain-interaction]], [[chronic-constipation]], [[abdominal-bloating-and-distention]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[celiac-disease]], [[alpha-gal-syndrome]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[tenapanor]], [[alosetron]], [[eluxadoline]], [[tegaserod]], [[loperamide]], [[probiotics]], [[anorectal-manometry]], [[colonoscopy]], [[fmt]], [[acute-pancreatitis]], [[colon-ischemia]], [[brain-gut-behavioral-therapy]]
+[[disorders-of-gut-brain-interaction]], [[chronic-constipation]], [[functional-diarrhea]], [[abdominal-bloating-and-distention]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[celiac-disease]], [[alpha-gal-syndrome]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[tenapanor]], [[alosetron]], [[eluxadoline]], [[tegaserod]], [[loperamide]], [[probiotics]], [[anorectal-manometry]], [[colonoscopy]], [[fmt]], [[acute-pancreatitis]], [[colon-ischemia]], [[brain-gut-behavioral-therapy]]
 
 ---
 
 ## Sources
 
 1. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]
-2. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
-3. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
-4. [[aga-2022-ibs-c|AGA Clinical Practice Guideline: Pharmacological Management of IBS-C (2022)]]
-5. [[aga-2022-ibs-d|AGA Clinical Practice Guideline: Pharmacological Management of IBS-D (2022)]]
-6. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]
-7. [[aga-2022-diet-ibs|AGA Clinical Practice Update on the Role of Diet in Irritable Bowel Syndrome: Expert Review (2022)]]
-8. [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA Clinical Practice Guidelines on the Laboratory Evaluation of Functional Diarrhea and Diarrhea-Predominant Irritable Bowel Syndrome in Adults (IBS-D) (2019)]]
-9. [[aga-2018-functional-gi-symptoms-ibd|AGA 2018 Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease]]
-10. [[aga-2018-psychogastroenterology|Best Practice Update: Incorporating Psychogastroenterology Into Management of Digestive Disorders]]
-11. [[aga-2023-alpha-gal-syndrome|AGA Clinical Practice Update on Alpha-Gal Syndrome for the GI Clinician: Commentary]]
+2. [[rome-v-2026-bowel-disorders|Bowel Disorders (Rome V, 2026)]]
+3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+4. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
+5. [[aga-2022-ibs-c|AGA Clinical Practice Guideline: Pharmacological Management of IBS-C (2022)]]
+6. [[aga-2022-ibs-d|AGA Clinical Practice Guideline: Pharmacological Management of IBS-D (2022)]]
+7. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]
+8. [[aga-2022-diet-ibs|AGA Clinical Practice Update on the Role of Diet in Irritable Bowel Syndrome: Expert Review (2022)]]
+9. [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA Clinical Practice Guidelines on the Laboratory Evaluation of Functional Diarrhea and Diarrhea-Predominant Irritable Bowel Syndrome in Adults (IBS-D) (2019)]]
+10. [[aga-2018-functional-gi-symptoms-ibd|AGA 2018 Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease]]
+11. [[aga-2018-psychogastroenterology|Best Practice Update: Incorporating Psychogastroenterology Into Management of Digestive Disorders]]
+12. [[aga-2023-alpha-gal-syndrome|AGA Clinical Practice Update on Alpha-Gal Syndrome for the GI Clinician: Commentary]]

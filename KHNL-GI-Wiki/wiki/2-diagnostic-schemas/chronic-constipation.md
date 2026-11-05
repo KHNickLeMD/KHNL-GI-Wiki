@@ -3,8 +3,8 @@ title: "Chronic Constipation"
 category: diagnostic-schema
 tags: [constipation, colorectal, functional, dgbi, anorectal-manometry, colonic-transit, defecation-disorder]
 created: 2026-08-27
-updated: 2026-11-01
-sources: [aga-2026-refractory-constipation, aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, rome-v-2026-dgbi, acg-2021-crc-screening, aga-2019-opioid-induced-constipation]
+updated: 2026-11-05
+sources: [aga-2026-refractory-constipation, aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, acg-2021-crc-screening, aga-2019-opioid-induced-constipation]
 ---
 
 ## Contents
@@ -38,7 +38,21 @@ The adult presenting with **infrequent and/or unsatisfactory defecation** — ho
     4. Insufficient improvement of another sign or symptom of CC on current treatment
   - This matters because RC is what triggers the whole downstream arm — repeat transit on a maximal laxative regimen, defecography, off-label agents, and the surgical conversation below
 
-> The Rome V process/overview paper prints the **taxonomy** and the **changes** from Rome IV, but not the numbered symptom items and their ≥25%-of-defecations thresholds; those are in the full *Rome V Criteria* volume (bowel-disorders chapter).
+**Rome V criteria for chronic constipation (C2)** ([[rome-v-2026-bowel-disorders]]) — fulfilled for the past 3 months, symptom onset ≥6 months before diagnosis:
+
+> Must include:
+> 1. **Two or more** of:
+>    a. Straining during **>25%** of defecations
+>    b. Lumpy or hard stools (Bristol 1–2) in **>25%** of defecations
+>    c. Sensation of incomplete evacuation in **>25%** of defecations
+>    d. Sensation of anorectal obstruction/blockage in **>25%** of defecations
+>    e. Manual maneuvers to facilitate **>25%** of defecations (digital evacuation, support of the pelvic floor)
+>    f. Fewer than **3 spontaneous bowel movements (SBMs) per week**
+> 2. Loose stools are rarely present without the use of laxatives
+> 3. **Insufficient criteria for IBS**
+
+- **CC vs IBS-C** turns on whether abdominal pain/discomfort is the *predominant* feature. Pain may occur in CC — it just does not dominate. The categories are mutually exclusive ([[irritable-bowel-syndrome]]).
+- **Occasional constipation** is a separate Rome Foundation Working Team label for the patient who does *not* meet CC: "at least 1 functional constipation symptom, in the absence of alarm signs or symptoms, occurring at irregular and infrequent intervals, which is bothersome enough to induce a patient to seek management" ([[rome-v-2026-bowel-disorders]]).
 
 ### What counts as abnormal
 
@@ -143,6 +157,13 @@ flowchart TD
 
 Findings identified on defecography: inadequate or excessive widening of the **anorectal angle** and/or **perineal descent** during defecation; internal intussusception; solitary rectal ulcer; rectocele; rectal prolapse; enterocele; bladder and uterovaginal prolapse. Anatomic findings are **more likely to be clinically relevant** when the ARM is normal with impaired contrast evacuation, or when the **rectocele is >4 cm** [[aga-2026-refractory-constipation]].
 
+**What Rome V says not to order** ([[rome-v-2026-bowel-disorders]]):
+
+- **Labs:** complete blood count (CBC) in all (anemia is an alarm feature); **thyroid-stimulating hormone (TSH) and serum calcium only when clinically indicated** — suspected hypothyroidism or a hypercalcemia-inducing disease, not routinely.
+- **Imaging** (barium enema, ultrasound, computed tomography, magnetic resonance) has **minimal diagnostic value in CC and is not generally recommended** absent alarm features or relevant comorbidity.
+- **Anorectal function testing is for the patient who has not responded to therapy**, not the initial evaluation — earlier only if the digital rectal examination strongly suggests a defecatory disorder.
+- **Colonic manometry** is not widely available outside academic centers and its relevance to CC management remains uncertain.
+
 ### Test conditions that change the answer
 
 - **Colonic transit:** stop **laxatives for ≥7 days** and **medications that delay colon transit for ≥2 weeks** before testing. Day-to-day reproducibility is poor in dyssynergic defecation and colonic inertia, so **repeat testing may be necessary** — in some patients while taking laxatives [[aga-2026-refractory-constipation]]
@@ -182,6 +203,7 @@ Findings identified on defecography: inadequate or excessive widening of the **a
 2. [[aga-acg-2023-constipation|AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation]]
 3. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 4. [[asge-2014-constipation|ASGE 2014: The Role of Endoscopy in the Management of Constipation]]
-5. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
-6. [[acg-2021-crc-screening|ACG 2021 Colorectal Cancer Screening Guidelines]]
-7. [[aga-2019-opioid-induced-constipation|American Gastroenterological Association Institute Guideline on the Medical Management of Opioid-Induced Constipation]]
+5. [[rome-v-2026-bowel-disorders|Bowel Disorders (Rome V, 2026)]]
+6. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+7. [[acg-2021-crc-screening|ACG 2021 Colorectal Cancer Screening Guidelines]]
+8. [[aga-2019-opioid-induced-constipation|American Gastroenterological Association Institute Guideline on the Medical Management of Opioid-Induced Constipation]]

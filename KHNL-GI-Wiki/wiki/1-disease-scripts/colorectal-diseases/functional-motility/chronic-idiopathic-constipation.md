@@ -3,8 +3,8 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-10-27
-sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi, aga-2019-opioid-induced-constipation]
+updated: 2026-11-05
+sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, aga-2019-opioid-induced-constipation]
 ---
 
 ## Contents
@@ -164,6 +164,9 @@ All from [[acg-2021-anorectal-disorders]]:
 - **Bisacodyl** stimulates high-amplitude propagating contractions and appears particularly effective at increasing spontaneous bowel movements.
 - **Suppositories and enemas** can help, particularly with pelvic floor dysfunction; data guiding their use are limited.
 - **Bowel cleanouts** clarify constipation's contribution to symptoms or precede maintenance therapy, especially with a large stool burden — **use sparingly**, to avoid setting an expectation of repeat treatment.
+- **There is no evidence that stimulant laxatives are habit forming or cause structural or functional damage to the colon** ([[rome-v-2026-bowel-disorders]]) — the specific reassurance patients ask for.
+
+**Dose detail [[rome-v-2026-bowel-disorders|Rome V]] adds to the table above:** psyllium is the best-studied fiber and is effective at **7–20 g/d** · **lactulose 15–30 mL once or twice daily**, frequently causing cramping and bloating · **magnesium products** are generally safe but risk **electrolyte imbalance at high doses in older adults or renal impairment** · PEG's high-quality randomized controlled trial (RCT) evidence runs **up to 6 months** · **prucalopride 4 mg was not better than 2 mg** for most endpoints and caused more gastrointestinal side effects, which is why only **1 mg and 2 mg** are approved.
 
 ### Step 3: Prescription Agents (when OTC fails)
 
@@ -234,5 +237,6 @@ If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-thera
 2. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 3. [[asge-2014-constipation|ASGE 2014: The Role of Endoscopy in the Management of Constipation]]
 4. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review]]
-5. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
-6. [[aga-2019-opioid-induced-constipation|American Gastroenterological Association Institute Guideline on the Medical Management of Opioid-Induced Constipation]]
+5. [[rome-v-2026-bowel-disorders|Bowel Disorders (Rome V, 2026)]]
+6. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+7. [[aga-2019-opioid-induced-constipation|American Gastroenterological Association Institute Guideline on the Medical Management of Opioid-Induced Constipation]]

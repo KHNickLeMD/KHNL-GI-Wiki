@@ -3,8 +3,8 @@ title: "Functional Dyspepsia"
 category: disease-script
 tags: [functional-dyspepsia, dyspepsia, dgbi, stomach, foregut, rome-v, neuromodulators]
 created: 2026-10-18
-updated: 2026-10-18
-sources: [acg-cag-2017-dyspepsia, rome-v-2026-dgbi, aga-2021-chronic-gi-pain-dgbi, acg-2022-gastroparesis]
+updated: 2026-11-05
+sources: [acg-cag-2017-dyspepsia, rome-v-2026-gastroduodenal-disorders, rome-v-2026-dgbi, aga-2021-chronic-gi-pain-dgbi, acg-2022-gastroparesis]
 ---
 
 ## Contents
@@ -40,7 +40,16 @@ Functional dyspepsia (FD) is dyspeptic symptoms — postprandial fullness, early
 
 **Which threshold to apply — research vs clinic.** Rome V pairs its research criteria with **Rome Clinical Criteria** for practice: the qualitative symptom features are unchanged and symptoms must be **bothersome** (interfere with daily life or prompt care-seeking), but the frequency requirement is **lower** than the research threshold and the 6-month duration is replaced by a suggested **8-week** minimum — intended to capture the ~25% of the population with subdiagnostic but morbid gastrointestinal (GI) symptoms ([[rome-v-2026-dgbi]]).
 
-> The Rome V overview article prints the taxonomy and the Clinical-Criteria framework but not the numbered B1 symptom items or their frequency thresholds; those are in the gastroduodenal chapter of the full *Rome V Criteria* volume.
+**Rome V criteria — functional dyspepsia (B1)** ([[rome-v-2026-gastroduodenal-disorders]]), fulfilled for the last 3 months with onset ≥6 months before diagnosis:
+
+> 1. **One or more** of: bothersome postprandial fullness · bothersome early satiation · bothersome epigastric pain · bothersome epigastric burning
+> 2. **No evidence of structural, systemic, or metabolic disease** likely to explain the symptoms
+>
+> **Must also fulfill criteria for PDS or EPS, or both** — see Classification / Typing below.
+
+- *H. pylori* **status should be determined in every patient with dyspeptic symptoms**; whether to test-and-treat depends on local positivity rates and national guidelines.
+- **Routine laboratory testing, including celiac serology, is not recommended** (low yield), nor is routine imaging, nor routine duodenal biopsy. **Motility studies are not part of the routine diagnosis.**
+- **Research vs clinic:** for research the diagnosis strictly requires a normal upper endoscopy; in clinical practice endoscopy is not compulsory absent risk or alarm features.
 
 ### Severity Assessment
 
@@ -48,10 +57,17 @@ Neither guideline grades FD severity or stages it. The only severity qualifier i
 
 ### Classification / Typing
 
-| Rome V code | Subtype | Defining pattern |
+**Rome V prefers the subtype label over the umbrella term** — report PDS or EPS, or both, guided by the symptom profile ([[rome-v-2026-gastroduodenal-disorders]]).
+
+| Rome V code | Subtype | Criteria |
 |---|---|---|
-| **B1a** | Postprandial distress syndrome (PDS) | Meal-induced postprandial fullness / early satiation |
-| **B1b** | Epigastric pain syndrome (EPS) | Epigastric pain or burning, unrelated to meals |
+| **B1a** | Postprandial distress syndrome (PDS) | **One or both at least 2 days/week:** bothersome postprandial fullness (severe enough to impact usual activities) · bothersome early satiation (severe enough to prevent finishing a regular-sized meal). **Other bothersome symptoms elicited or worsened by food — postprandial epigastric pain or burning, nausea, upper abdominal bloating, excessive belching — are part of PDS** when 1a or 1b is present |
+| **B1b** | Epigastric pain syndrome (EPS) | **One or both at least 1 day/week:** bothersome epigastric pain · bothersome epigastric burning, each severe enough to affect usual activities. Either may be **induced or worsened postprandially or occur independently of meals**, but **PDS criteria must not be fulfilled** |
+
+- **"Postprandial" = within 2 hours of the meal.** Symptoms starting later suggest a different mechanism. **"Epigastric" = the central abdomen above the navel.**
+- **Both subtypes are excluded by predominant nausea or persisting vomiting** → consider chronic nausea vomiting syndrome ([[nausea-and-vomiting]]) or [[gastroparesis]]. **Heartburn is not a gastroduodenal symptom** but often coexists. **Epigastric pain or burning consistently relieved by bowel movements → consider a bowel disorder** ([[irritable-bowel-syndrome]]).
+- **⚠ Changed from Rome IV: postprandial epigastric pain now counts as PDS, not EPS.** Rome IV let epigastric pain after meals sit in EPS, which created heavy overlap. A patient with postprandial fullness *and* postprandial epigastric pain is PDS.
+- **Provisional EPS split** (research-grade, only in the absence of PDS): **postprandial EPS** = pain/burning starts or worsens after meals **≥50%** of the time; **meal-unrelated EPS** = **<50%**.
 
 - **Subtype does not steer therapy.** There is **no evidence that EPS responds better to a [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] than PDS**; subgroup analysis suggests only that heartburn-predominant patients respond better ([[acg-cag-2017-dyspepsia]]). Do not pick a drug off the subtype.
 - The one place the subtype has shown a signal is **mirtazapine**, whose single small FD trial affected **early satiety more than epigastric pain** ([[aga-2021-chronic-gi-pain-dgbi]]).
@@ -160,6 +176,7 @@ Neither guideline grades FD severity or stages it. The only severity qualifier i
 ## Sources
 
 1. [[acg-cag-2017-dyspepsia|ACG/CAG 2017: Management of Dyspepsia]]
-2. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
-3. [[aga-2021-chronic-gi-pain-dgbi|AGA Clinical Practice Update on Management of Chronic Gastrointestinal Pain in Disorders of Gut–Brain Interaction (2021)]]
-4. [[acg-2022-gastroparesis|ACG 2022: Gastroparesis]]
+2. [[rome-v-2026-gastroduodenal-disorders|Gastroduodenal Disorders (Rome V, 2026)]]
+3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+4. [[aga-2021-chronic-gi-pain-dgbi|AGA Clinical Practice Update on Management of Chronic Gastrointestinal Pain in Disorders of Gut–Brain Interaction (2021)]]
+5. [[acg-2022-gastroparesis|ACG 2022: Gastroparesis]]

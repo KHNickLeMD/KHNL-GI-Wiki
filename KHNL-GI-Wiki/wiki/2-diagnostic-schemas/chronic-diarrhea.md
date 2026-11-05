@@ -3,8 +3,8 @@ title: "Chronic Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, chronic, malabsorption, secretory, osmotic, inflammatory, steatorrhea, ibs]
 created: 2026-06-04
-updated: 2026-11-01
-sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, aga-2020-sibo, aga-2019-lab-evaluation-functional-diarrhea-ibs-d, aga-2023-alpha-gal-syndrome]
+updated: 2026-11-05
+sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, aga-2020-sibo, aga-2019-lab-evaluation-functional-diarrhea-ibs-d, aga-2023-alpha-gal-syndrome, rome-v-2026-bowel-disorders]
 ---
 
 ## Definition / Scope
@@ -55,6 +55,7 @@ The most useful framework is to classify by **stool character** into watery, inf
 - **[[bile-acid-diarrhea|Bile acid diarrhea]]** — post-cholecystectomy, ileal disease/resection ([[crohns-disease]]), or idiopathic (overlaps IBS with predominant diarrhea [IBS-D])
 - **[[irritable-bowel-syndrome|IBS-D]]** — a positive Rome IV/V diagnosis, not pure exclusion; most common overall
 - **[[postinfectious-ibs|Post-infectious IBS]]** — new-onset IBS-D following an episode of infectious gastroenteritis
+- **[[functional-diarrhea|Functional diarrhea]]** — loose/watery stools in >25% of stools *without* predominant abdominal pain; the formal exclusion from IBS-D ([[rome-v-2026-bowel-disorders]])
 - Endocrine — hyperthyroidism, **[[gastroenteropancreatic-neuroendocrine-tumors|carcinoid syndrome]]**, VIPoma, gastrinoma ([[peptic-ulcer-disease|Zollinger-Ellison]]), Addison's disease, medullary thyroid carcinoma
 - Drugs/toxins — chronic laxative use, metformin, colchicine, SSRIs, alcohol, PPIs
 - **[[alpha-gal-syndrome|Alpha-gal syndrome]]** — immunoglobulin E (IgE)-mediated allergy to galactose-α-1,3-galactose in mammalian meat. Easy to miss because the GI-only phenotype has **no urticaria** and the reaction is **delayed 3–5 h** after eating, so the food link is not obvious; seroprevalence reaches 31–35% in Lone Star tick regions. Check serum alpha-gal IgE in a prevalent region ([[aga-2023-alpha-gal-syndrome]])
@@ -185,7 +186,7 @@ Prompt structural evaluation (colonoscopy ± cross-sectional imaging) and lower 
 
 ## See Also
 
-[[acute-diarrhea]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[clostridioides-difficile]], [[small-intestinal-bacterial-overgrowth]], [[exocrine-pancreatic-insufficiency]], [[chronic-pancreatitis]], [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[colon-ischemia]], [[colorectal-cancer]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[alpha-gal-syndrome]], [[fecal-incontinence]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[iron-deficiency-anemia]], [[hiv-aids-related-diarrhea]], [[disorders-of-gut-brain-interaction]], [[acute-mesenteric-ischemia]], [[proton-pump-inhibitors]], [[pouchitis]], [[postinfectious-ibs]], [[radiation-proctopathy]]
+[[acute-diarrhea]], [[irritable-bowel-syndrome]], [[functional-diarrhea]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[clostridioides-difficile]], [[small-intestinal-bacterial-overgrowth]], [[exocrine-pancreatic-insufficiency]], [[chronic-pancreatitis]], [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[colon-ischemia]], [[colorectal-cancer]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[alpha-gal-syndrome]], [[fecal-incontinence]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[iron-deficiency-anemia]], [[hiv-aids-related-diarrhea]], [[disorders-of-gut-brain-interaction]], [[acute-mesenteric-ischemia]], [[proton-pump-inhibitors]], [[pouchitis]], [[postinfectious-ibs]], [[radiation-proctopathy]]
 
 ---
 
@@ -196,3 +197,4 @@ Prompt structural evaluation (colonoscopy ± cross-sectional imaging) and lower 
 3. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]
 4. [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA Clinical Practice Guidelines on the Laboratory Evaluation of Functional Diarrhea and Diarrhea-Predominant Irritable Bowel Syndrome in Adults (IBS-D) (2019)]]
 5. [[aga-2023-alpha-gal-syndrome|AGA Clinical Practice Update on Alpha-Gal Syndrome for the GI Clinician: Commentary]]
+6. [[rome-v-2026-bowel-disorders|Bowel Disorders (Rome V, 2026)]]

@@ -3,8 +3,8 @@ title: "Cannabinoid Hyperemesis Syndrome (CHS)"
 category: disease-script
 tags: [cannabinoid-hyperemesis-syndrome, chs, cyclic-vomiting-syndrome, cannabis, dgbi, capsaicin, amitriptyline, foregut]
 created: 2026-07-18
-updated: 2026-10-31
-sources: [aga-2024-chs, aga-2024-cvs, rome-v-2026-dgbi]
+updated: 2026-11-05
+sources: [aga-2024-chs, aga-2024-cvs, rome-v-2026-gastroduodenal-disorders, rome-v-2026-dgbi]
 ---
 
 Chronic [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction (DGBI)]] of cyclic vomiting, nausea, and abdominal pain arising from chronic (years), heavy (daily/near-daily) cannabis use; predominantly male. Rising and underrecognized ([[aga-2024-chs]]). Included in the Rome classification of DGBI since Rome IV (2016).
@@ -33,13 +33,20 @@ Rome V is the newer consensus, so in adults **treat CHS as its own entity (B2c)*
 
 ### Establishing the Diagnosis
 
-Suspect in any patient with **chronic nausea/vomiting + cannabis use**. Diagnosis is clinical — proposed criteria (Venkatesan et al.):
+Suspect in any patient with **chronic nausea/vomiting + cannabis use**. Diagnosis is clinical.
 
-1. **Clinical features:** stereotypical episodic vomiting resembling [[cyclic-vomiting-syndrome|CVS]] in onset, frequency **≥3 times annually**.
-2. **Cannabis use pattern:** duration **>1 year** before symptom onset; frequency **>4 times per week** on average.
-3. **Cannabis cessation:** resolution of symptoms after abstinence for **≥6 months**, or ≥ the total duration of 3 typical vomiting cycles in that patient.
+**Rome V criteria (B2c)** ([[rome-v-2026-gastroduodenal-disorders]]) — must include **all**:
 
-> [[rome-v-2026-dgbi]] states that for CVS and CHS "timing of symptoms and intervals was specified based on more recent cohort studies," but its introduction/process article **does not print the B2c criteria**; the criteria above are the Venkatesan criteria carried by [[aga-2024-chs]]. Whether Rome V changed the thresholds is stated only in the Rome V gastroduodenal chapter.
+> 1. **Stereotypical episodic vomiting resembling [[cyclic-vomiting-syndrome|cyclic vomiting syndrome (CVS)]]** in onset, duration and frequency
+> 2. **Presentation after prolonged (1 year) and excessive (≥4 days per week or ≥15 doses per week, or both) cannabis use**
+> 3. **Relief of vomiting episodes by sustained cessation of cannabis use — at least 6 months or 3 typical emetic cycles**
+>
+> *Supportive remark:* may be associated with pathologic bathing behavior (prolonged hot baths or showers).
+
+- **Rome V quantified the exposure.** It is the first ingested source to put a **dose** figure on "excessive" — **≥15 doses per week** as an alternative to ≥4 days per week — where the older Venkatesan criteria carried by [[aga-2024-chs]] gave only frequency (>4 times/week) and an episode count (≥3 annually). Rome V is newer within tier 1; these are the operative criteria.
+- ⚠ **Criterion 3 is the practical roadblock, not a formality** — **only 19% of patients manage >4 weeks of abstinence** in one analysis, so the confirmatory step often cannot be completed. Do not withhold treatment waiting for it.
+- **Diagnostic testing is rarely indicated** except for complications (e.g. hemorrhage). **Urine drug testing for tetrahydrocannabinol (THC) metabolites** is considered for patients who do not admit to cannabis use, but **no metabolite profile is specific for CHS**, and metabolites persist ≥1 month.
+- Factors associated with the diagnosis in one review: cannabis use >1 year · daily use · at least weekly use · symptom resolution with cessation · compulsive bathing to relieve symptoms · **male sex** · **age <50 years**.
 
 - **Compulsive hot-water bathing** (long hot baths/showers) relieves symptoms — supportive but **not pathognomonic** (also seen in CVS); reported in ~71% of CHS cases.
 - No confirmatory test.
@@ -117,4 +124,5 @@ Outpatient differential diagnosis (DDx) after excluding structural disease:
 
 1. [[aga-2024-chs|AGA Clinical Practice Update on Diagnosis and Management of Cannabinoid Hyperemesis Syndrome (2024)]]
 2. [[aga-2024-cvs|AGA Clinical Practice Update on Diagnosis and Management of Cyclic Vomiting Syndrome (2024)]]
-3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+3. [[rome-v-2026-gastroduodenal-disorders|Gastroduodenal Disorders (Rome V, 2026)]]
+4. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

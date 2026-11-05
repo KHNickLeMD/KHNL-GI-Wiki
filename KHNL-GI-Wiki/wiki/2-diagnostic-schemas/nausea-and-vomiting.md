@@ -3,8 +3,8 @@ title: "Nausea and Vomiting"
 category: diagnostic-schema
 tags: [nausea, vomiting, gastroparesis, cyclic-vomiting, cannabinoid-hyperemesis, motility, foregut]
 created: 2026-06-04
-updated: 2026-09-06
-sources: [acg-2022-gastroparesis, aga-2024-cvs, aga-2024-chs, asge-2020-acpo-volvulus, rome-v-2026-dgbi]
+updated: 2026-11-05
+sources: [rome-v-2026-gastroduodenal-disorders, acg-2022-gastroparesis, aga-2024-cvs, aga-2024-chs, asge-2020-acpo-volvulus, rome-v-2026-dgbi]
 ---
 
 ## Definition / Scope
@@ -47,6 +47,18 @@ Rome V groups these as **B2 — nausea and vomiting disorders**, a gastroduodena
 - **B2a — chronic nausea vomiting syndrome (CNVS)** — chronic nausea and/or vomiting without a structural cause; diagnosed after exclusion
 - **B2b — [[cyclic-vomiting-syndrome|cyclic vomiting syndrome (CVS)]]** — stereotyped, recurrent discrete episodes of intense vomiting with symptom-free intervals; migraine association
 - **B2c — [[cannabinoid-hyperemesis-syndrome|cannabinoid hyperemesis syndrome (CHS)]]** — chronic cannabis use, cyclic vomiting relieved by hot showers/baths; resolves with cessation
+
+**Rome V criteria for chronic nausea vomiting syndrome (B2a)** ([[rome-v-2026-gastroduodenal-disorders]]) — must include **all**, fulfilled for the last 3 months with onset ≥6 months before diagnosis:
+
+> 1. **Bothersome nausea** (severe enough to affect usual activities) occurring **at least 2 days per week**, with or without **≥1 vomiting episode per week**
+> 2. Self-induced vomiting, eating disorders and regurgitation are **excluded** as a cause of vomiting
+> 3. No evidence of structural, systemic or metabolic disease likely to explain the symptoms on routine investigations
+> 4. **Symptoms predominantly due to postprandial distress syndrome exclude the diagnosis** ([[functional-dyspepsia]])
+> 5. **Predominant nausea or persistent vomiting with delayed gastric emptying should prompt a diagnosis of [[gastroparesis]]**
+
+- **Changed from Rome IV:** the frequency is now **≥2 nausea days weekly, with or without ≥1 weekly vomiting episode**.
+- **What warrants evaluation beyond the history** ([[rome-v-2026-gastroduodenal-disorders]]): **bilious vomiting · abdominal tenderness · abnormal neurologic findings · worsening vomiting.** Blood work excludes electrolyte and metabolic abnormalities; endoscopy or imaging evaluates for organic disease; specialized GI function tests are for selected settings.
+- **Treatment of CNVS is thinly evidenced** — antagonists of histamine-1, dopamine-2 and 5-hydroxytryptamine-3 receptors and cannabinoid CB₁ agonists have antiemetic action; tricyclic antidepressants and psychological measures help some; limited data support ginger, herbal remedies and electroacupuncture.
 
 ---
 
@@ -116,4 +128,5 @@ flowchart TD
 2. [[aga-2024-cvs|AGA Clinical Practice Update on Diagnosis and Management of Cyclic Vomiting Syndrome (2024)]]
 3. [[aga-2024-chs|AGA Clinical Practice Update on Diagnosis and Management of Cannabinoid Hyperemesis Syndrome: Commentary]]
 4. [[asge-2020-acpo-volvulus|ASGE Guideline on the Role of Endoscopy in the Management of Acute Colonic Pseudo-Obstruction and Colonic Volvulus (2020)]]
-5. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+5. [[rome-v-2026-gastroduodenal-disorders|Gastroduodenal Disorders (Rome V, 2026)]]
+6. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

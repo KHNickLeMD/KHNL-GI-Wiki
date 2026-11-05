@@ -3,8 +3,8 @@ title: "Rumination Syndrome"
 category: disease-script
 tags: [rumination-syndrome, regurgitation, dgbi, gastroduodenal, high-resolution-manometry, impedance, postprandial, foregut]
 created: 2026-06-08
-updated: 2026-10-29
-sources: [aga-2018-rumination-syndrome, rome-v-2026-dgbi, acg-2020-esophageal-physiologic-testing]
+updated: 2026-11-05
+sources: [rome-v-2026-gastroduodenal-disorders, aga-2018-rumination-syndrome, rome-v-2026-dgbi, acg-2020-esophageal-physiologic-testing]
 ---
 
 ## Contents
@@ -35,11 +35,22 @@ sources: [aga-2018-rumination-syndrome, rome-v-2026-dgbi, acg-2020-esophageal-ph
 - **No nausea, retching, or vomiting**
 - Regurgitant is **recognized food with a pleasant taste** (not acidic/digested)
 
-It is classified in **Rome V among the gastroduodenal [[disorders-of-gut-brain-interaction|disorders of gut–brain interaction]] (B4)** ([[rome-v-2026-dgbi]]) — a behavioral condition, not a primary structural or motility disease.
+It is classified in **Rome V among the gastroduodenal [[disorders-of-gut-brain-interaction|disorders of gut–brain interaction]] at B5** ([[rome-v-2026-gastroduodenal-disorders]]) — a behavioral condition, not a primary structural or motility disease.
+
+**Rome V criteria (B5)** — must include **all**, fulfilled for the last 3 months with onset ≥6 months before diagnosis:
+
+> 1. **Recurrent, seemingly effortless regurgitation of recently ingested food into the mouth**, with subsequent oral expulsion or swallowing
+> 2. **Regurgitation is not preceded by retching or nausea**
+>
+> *Supportive criteria:* regurgitated material contains recognizable food that might have a pleasant taste · the process tends to cease when the regurgitated material becomes acidic · **the presence of heartburn may help differentiate regurgitation in [[gerd|gastroesophageal reflux disease (GERD)]] from rumination** · combined manometry and impedance monitoring can establish an objective diagnosis.
+
+- **Changed from Rome IV:** "not preceded by nausea" was **promoted out of the supportive criteria into diagnostic criterion 2** — the committee judged it diagnostically decisive. A new supportive remark underlines that objective diagnosis by esophageal impedance monitoring with concurrent manometry is available, and a supportive criterion was added to separate reflux disease from rumination.
+- **Three event types** ([[rome-v-2026-gastroduodenal-disorders]]): most begin with an **intra-abdominal pressure rise from voluntary abdominal contraction**; a **secondary** subset has gastric contents entering the esophagus *before* straining, so the patient strains in response to a perceived reflux episode; a third is **immediately preceded by a supragastric belch**.
+- Prevalence **3.1%**, more common in women (54.5% vs 45.5%), mean age 44.5 y — **up to 12.8%** among patients evaluated for gastric symptoms. **Commonly misdiagnosed as GERD, [[gastroparesis]], unexplained vomiting, or an eating disorder.**
 
 ### Severity Assessment
 
-- **Neither guideline gives a severity score, stratum, or grading system for rumination syndrome** — [[acg-2020-esophageal-physiologic-testing]] covers diagnosis only, and the [[rome-v-2026-dgbi]] overview article places rumination at **B4** without printing the criteria.
+- **No ingested guideline gives a severity score, stratum, or grading system for rumination syndrome** — [[acg-2020-esophageal-physiologic-testing]] covers diagnosis only, and the Rome V criteria are present/absent, not graded.
 - The only ordinal element the guidelines give is the manometric bar itself — a **diagnostic threshold, not a severity grade** (criteria under [[#Postprandial High-Resolution Impedance Manometry (HRIM) — Diagnostic Standard]]).
 
 ### Pathophysiology
@@ -162,5 +173,6 @@ Rumination syndrome is a **clinical diagnosis**; objective testing confirms it i
 ## Sources
 
 1. [[aga-2018-rumination-syndrome|AGA Clinical Practice Update on the Diagnosis and Treatment of Rumination Syndrome: Expert Review (2018)]]
-2. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
-3. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]
+2. [[rome-v-2026-gastroduodenal-disorders|Gastroduodenal Disorders (Rome V, 2026)]]
+3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+4. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]
