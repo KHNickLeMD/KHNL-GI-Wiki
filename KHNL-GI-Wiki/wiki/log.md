@@ -6,6 +6,33 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-05] update | Card pass — previous pass's unbuilt cards validated, 4 stale pages closed, 5 notes added
+
+**Deck slimming (ran first):**
+
+- `anki-dupes.mjs` → **0 unjudged pairs** at the start of the pass. Nothing to merge or retire.
+- Re-run after the new cards → **4 pairs surfaced, all judged distinct** and marked: on-therapy pH-impedance *study choice* vs *what a negative study means for the PPI* · conclusive-GERD endoscopy **off** therapy vs refractory-GERD endoscopy **on** therapy (different therapy state, different conclusion) · the Rome V gastroparesis label vs the chronic nausea vomiting syndrome exclusions (different diagnoses' criteria) · making manometric esophagogastric junction outflow obstruction conclusive vs what to do about it **before antireflux surgery** (different population, and the pre-operative action is unique to it).
+- One new note (`c0d00f`) was **recut rather than merged**: written first with the endoscopic findings clozed, which gave the same answer as `c0d001`; rewritten to cloze the *conclusion* ("refractory GERD, no pH study needed"), so the pair now teaches two different things.
+
+**Build backlog from the 2026-11-05 ingest pass cleared.** That pass could not run `build-anki.mjs`; its hand-validated files built clean here apart from 4 length violations, all fixed with ids preserved: `e70003` and `e30001` (over 40 words, over-long bullets) · `f4e001` (43 words) · `e40004` (13-word bullet). Detail moved to Back Extra; no meaning changed.
+
+**Cards written: 5 notes across 4 pages** (every stale card file is now current):
+
+- **[[disorders-of-gut-brain-interaction]]** +1 — dietary treatment, antidiarrheals and laxatives are used frequently for IBS pain but have limited evidence *for the pain itself* ([[aga-2021-chronic-gi-pain-dgbi]]).
+- **[[ambulatory-reflux-monitoring]]** +2 — erosive oesophagitis or a recurrent peptic stricture **on** optimised PPI establishes refractory GERD without a pH study ([[lyon-2024-gerd-diagnosis]]); reflux monitoring is preferred over a symptom questionnaire, over PPI-response, and over a non-definitive endoscopy alone ([[acg-2020-esophageal-physiologic-testing]]).
+- **[[gerd]]** +2 — CYP2C19 genotyping for a poor PPI response despite adherence ([[asge-2024-gerd]]); stop the PPI when on-therapy impedance-pH finds no reflux ([[acg-2021-gerd]]).
+- **[[dysphagia]]** +0, marked current — every guideline-backed fact on it is already owned: the dilation-amenable table (`ed5018`), the 13/15/18 mm diameters (`ed500d`), the 50F empiric-dilation stance (`ed500f`), the ≥6-biopsy quality indicator (`ed0003`), and the algorithm itself (`d7f101`, `d7f113`). Its solids-vs-liquids discriminator and alarm-feature list carry **no source citation on the page**, so neither is cardable.
+
+**Declined, with reasons:** the Rome V postreflux swallow-induced peristaltic wave retirement and the Rome IV→V diagnosis changes (version history) · reflux-monitoring and dilation facts already owned by [[esophageal-dilation]], [[extraesophageal-reflux]], [[reflux-testing]], [[proton-pump-inhibitors]], [[transoral-incisionless-fundoplication]], [[antireflux-surgery]], [[defecation-disorders]] and [[eluxadoline]] · CYP2C19 genotype resolution percentages and every prevalence/trial figure (yield).
+
+**Nothing eligible left.** **344 card files for 347 topic pages**, no file missing `page_updated`, nothing stale. The 3 pages with no card file are the standing uncardable set, unchanged since the earlier re-check today: `5-meds/peginterferon-alfa-2a.md`, `7-concepts/bristol-stool-form-scale.md`, `7-concepts/telemedicine-in-gastroenterology.md`.
+
+**Build:** final rebuild **clean — 0 problems, 4280 notes**. The last recorded build was 4252; the previous pass's unbuilt card files account for **+23** (its log entry says it added 20 notes, so 3 more notes than that entry claims came from those files) and this pass for **+5**. Nothing committed or pushed. **`occ files:scan` not run** — this session is in the container, so Nextcloud's web UI may serve the previous `.txt` until the next cron build.
+
+**Noted for the wiki, not fixed here (card pass):** [[dysphagia]] defines functional dysphagia twice in `## Definition / Scope` (the Rome V **A5** bullet and the bullet immediately below it) — one-home-per-fact violation for the next lint.
+
+---
+
 ## [2026-11-05] lint | 06:00 backlog pass — Rome V gastroduodenal finished, functional esophageal disorders ingested
 
 **Pre-flight:**
