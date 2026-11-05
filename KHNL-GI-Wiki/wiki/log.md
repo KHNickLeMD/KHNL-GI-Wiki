@@ -6,6 +6,31 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-05] update | Card pass — one PAMORA-dose duplicate merged, and the Rome V gastroduodenal criteria carded across 5 pages
+
+**Deck slimming (ran first):**
+
+- `anki-dupes.mjs` → **7 unjudged candidate pairs at ≥0.4**: **1 merged, 6 distinct**.
+- **Merged:** the oral PAMORA doses on [[opioid-induced-constipation]] `[0c3010]` into the same fact on [[pamoras]] `[0f0001]` — doses belong to the drug page under the one-owner rule. Keeper got `{also:opioid-induced-constipation}`, and the stale clause "no ingested source prints a naldemedine dose" was dropped from its Back Extra. The retired block names the keeper.
+- **Distinct:** PAMORA *stance* (which agents are recommended) vs PAMORA *doses* — different tested item · central neuromodulators in [[functional-diarrhea]] (not first-line) vs [[functional-heartburn]] (first-line) — different disease, opposite stance · empiric bile acid sequestrant duration in functional diarrhea vs the sequestrant stance in [[irritable-bowel-syndrome|IBS-D]] — different population · the Rome V loose-stool clause in [[chronic-idiopathic-constipation]] vs [[opioid-induced-constipation]] — different diagnoses' criteria sets · small intestinal bacterial overgrowth after enzyme replacement in [[chronic-pancreatitis]] vs the [[inflammatory-bowel-disease]] non-inflammatory symptom differential — different disease · pediatric no-biopsy celiac serology vs why adults still get biopsied — different population.
+- One further pair surfaced after the new cards were written (functional dyspepsia subtype-vs-drug and subtype frequency thresholds) and was judged **distinct**. Re-run confirms **0 unjudged pairs**. Rebuild clean at **4252 notes**, no problems reported.
+
+**Pages carded (5, the whole eligible set — all bumped by the Rome V 2026 Gastroduodenal Disorders ingest):**
+
+- `2-diagnostic-schemas/nausea-and-vomiting.md` — 3 new: chronic nausea vomiting syndrome frequency criterion (bothersome nausea ≥2 days/week, vomiting not required); the two patterns that redirect the diagnosis to [[functional-dyspepsia]] or [[gastroparesis]]; the four findings warranting investigation beyond history and exam.
+- `1-disease-scripts/foregut-and-motility-diseases/gastric/functional-dyspepsia.md` — 2 new: the PDS (≥2 days/week) vs EPS (≥1 day/week) frequency thresholds; no routine blood work including celiac serology.
+- `1-disease-scripts/foregut-and-motility-diseases/gastric/cyclic-vomiting-syndrome.md` — criteria card `[c0a001]` rewritten from Rome IV to Rome V (episode duration <7 days → **up to 10 days**; the absence-of-interepisodic-vomiting requirement is gone). Same id, so scheduling is preserved.
+- `1-disease-scripts/foregut-and-motility-diseases/gastric/cannabinoid-hyperemesis-syndrome.md` — criteria card `[f20002]` rewritten to Rome V (adds the **≥15 doses/week** dose figure alongside ≥4 days/week); 2 new: why the cessation criterion should not delay treatment (only 19% reach >4 weeks abstinence), and what urine tetrahydrocannabinol metabolite testing can and cannot do.
+- `1-disease-scripts/foregut-and-motility-diseases/gastric/rumination-syndrome.md` — 1 new: the three event patterns by what starts the episode (primary voluntary abdominal contraction · secondary reflux-then-strain · supragastric belch).
+
+**Declined as not high-yield or owned elsewhere:** the CVS four-phase table and interepisodic/comorbidity prevalences · the Rome V subtype-assignment nuances in functional dyspepsia (its own card records that subtype does not pick the drug) · compulsive hot bathing in CVS (owned by the CHS note) · "no routine duodenal biopsy" (owned by [[upper-endoscopy]]) · *H. pylori* testing in dyspepsia (owned by [[dyspepsia]] and [[helicobacter-pylori-infection]]) · the gastric emptying protocol and drug holds (owned by [[gastroparesis]]) · Rome IV→V version history as a tested item.
+
+**Eligible but declined (3, unchanged from prior passes):** `5-meds/peginterferon-alfa-2a.md` (label-sourced; its one guideline fact is owned by [[chronic-hepatitis-b]]) · `7-concepts/bristol-stool-form-scale.md` (primary derivation paper; the clinical bands live on the guideline pages that own them) · `7-concepts/telemedicine-in-gastroenterology.md` (practice-management content).
+
+**Result:** no card file lacks a `page_updated` marker, so no page was left unfinished. Nothing committed or pushed.
+
+---
+
 ## [2026-11-05] lint | Backlog pass — ingest by budget from the 2026-11-04 inbox batch
 
 **Pre-flight:**
