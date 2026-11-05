@@ -3,8 +3,8 @@ title: "Functional Heartburn"
 category: disease-script
 tags: [functional-heartburn, reflux-hypersensitivity, gerd, nerd, dgbi, esophageal, acid-exposure-time, neuromodulators]
 created: 2026-09-10
-updated: 2026-09-30
-sources: [aga-2020-functional-heartburn, aga-2022-personalized-gerd, aga-2018-psychogastroenterology]
+updated: 2026-11-05
+sources: [rome-v-2026-functional-esophageal-disorders, aga-2020-functional-heartburn, aga-2022-personalized-gerd, aga-2018-psychogastroenterology]
 ---
 
 ## Contents
@@ -33,6 +33,22 @@ sources: [aga-2020-functional-heartburn, aga-2022-personalized-gerd, aga-2018-ps
 ### Establishing the Diagnosis
 
 Retrosternal burning **without** pathologic acid exposure, **without** a major motor disorder, **without** mucosal pathology, and **without** a reflux–symptom association. All six domains must be satisfied — the diagnosis is one of positive exclusion, not of proton pump inhibitor (PPI) failure alone.
+
+**Rome V criteria (A2)** ([[rome-v-2026-functional-esophageal-disorders]]):
+
+> Must include **all** of the following:
+> 1. **Burning retrosternal discomfort**
+> 2. **No symptom relief despite optimized antisecretory therapy for at least 8 weeks**
+> 3. Absence of evidence that **[[gerd|gastroesophageal reflux disease (GERD)]]** (abnormal endoscopy ≥Los Angeles [LA] grade B esophagitis, or reflux burden by Lyon Consensus 2.0; **a normal mean nocturnal baseline impedance [MNBI] is supportive of functional heartburn**) **or nonreflux esophagitis** is the cause of symptoms
+> 4. **Absence of disorders of esophagogastric junction (EGJ) obstruction and/or disorders of esophageal peristalsis** — except [[ineffective-esophageal-motility|IEM]], per [[chicago-classification-v4|Chicago Classification version 4.0]]
+>
+> Criteria fulfilled for the past 3 months, symptom onset ≥6 months before diagnosis, frequency **at least once a week**, despite ≥8 weeks of optimized antisecretory therapy.
+
+- **Rome V changed the reference frameworks, not the concept.** Rome IV excluded patients with abnormal acid exposure or positive reflux-symptom association; **Rome V keeps that approach but imports the thresholds from Lyon Consensus 2.0 and Chicago Classification version 4.0**, which is what now cleanly separates functional heartburn from [[reflux-hypersensitivity|reflux hypersensitivity]].
+- **Rome V's frequency bar is lower than the AGA table below** — *at least once a week* vs **≥2×/week** — and Rome V asks for **optimized antisecretory therapy** for ≥8 weeks rather than specifying double-dose PPI. Rome V is the newer document; both are tier-1 and the difference is a threshold, not a direction.
+- **Only 20%–30% of patients achieve relief with high-dose PPIs**; potassium-competitive acid blockers (PCABs) may offer better outcomes. **PPI nonresponse is central to the diagnosis**, and a poor PPI response carries **high negative predictive value for GERD**.
+- Patients often **mislabel throat symptoms or epigastric burning as heartburn** — careful history taking improves diagnostic accuracy. Functional heartburn and GERD patients are otherwise clinically similar.
+- **Detect baseline GERD by scoping off PPI therapy** — ideally **2 to 4 weeks off**. Endoscopy done on PPI has limited yield because mucosal healing rates are high.
 
 | Domain | Requirement |
 |---|---|
@@ -63,17 +79,17 @@ Two forms, separated by whether GERD was ever objectively proven — the distinc
 
 ## Differential Diagnosis
 
-*Workup: see [[dyspepsia]].*
+*Workup: see [[reflux-testing]].*
 
 **The three-way discrimination** — all with normal endoscopy, separated only by acid burden and symptom association:
 
 | Acid exposure time | SI / SAP | Diagnosis |
 |---|---|---|
 | **AET >6%** (pathologic) | either | **[[gerd\|nonerosive reflux disease (NERD) / true refractory GERD]]** |
-| **AET <4%** (physiologic) | **both positive** | **Reflux hypersensitivity** |
+| **AET <4%** (physiologic) | **both positive** | **[[reflux-hypersensitivity\|Reflux hypersensitivity]]** |
 | **AET <4%** (physiologic) | **both negative** | **Functional heartburn** |
 
-Reflux hypersensitivity is the near neighbour, not a variant: same normal endoscopy, same physiologic acid burden, opposite symptom association. It is the one entity in this table whose symptoms *do* track reflux events, and it is classified with the functional esophageal disorders rather than with GERD.
+[[reflux-hypersensitivity|Reflux hypersensitivity]] is the near neighbour, not a variant: same normal endoscopy, same physiologic acid burden, opposite symptom association. It is the one entity in this table whose symptoms *do* track reflux events, and it is classified with the functional esophageal disorders rather than with GERD.
 
 Other conditions that produce PPI-refractory retrosternal burning and are excluded by the workup above:
 
@@ -125,6 +141,21 @@ When AET falls in the borderline band, or SI and SAP are discrepant, the case tu
 | Esophagogastric junction (EGJ) and esophageal body motor profile on HRM | Normal |
 
 Both MNBI and the PSPW index may prove helpful in refractory heartburn, but more data are needed on inter-observer reproducibility, normal values, and relevant cut-offs before these metrics can be recommended for clinical use.
+
+**MNBI — two cut-offs in the wiki.** The 2292-ohm figure above is AGA 2020's. **Lyon Consensus 2.0, as reproduced in Rome V 2026, uses MNBI <1500 Ω to support GERD and >2500 Ω to reasonably exclude it**, leaving 1500–2500 Ω unresolved ([[rome-v-2026-functional-esophageal-disorders]]). Rome V is the newer source; use its bands when applying Lyon 2.0 criteria.
+
+**Lyon 2.0 reflux thresholds now built into the Rome V criteria:**
+
+| Metric | Value | Meaning |
+|---|---|---|
+| Acid exposure time | **<4%** on all days | Rules out GERD |
+| Acid exposure time | **4%–6%** | **Inconclusive** |
+| Acid exposure time | **>6%** | Supports GERD |
+| Reflux episodes | **<40** / **>80** | Supports non-GERD / suggests GERD |
+| Endoscopy | **LA grade B, C or D**, biopsy-proven Barrett's, peptic stricture | **Conclusive GERD** — grade B is newly conclusive in Lyon 2.0 |
+
+- **On double-dose PPI** the definitions shift: **refractory heartburn** = AET >4% with >80 reflux episodes; **functional heartburn** = AET <1%, <40 reflux episodes and MNBI >2500 Ω.
+- **Routine esophageal biopsies for eosinophilic esophagitis are not mandatory** unless dysphagia, chest pain with eating, or endoscopic signs are present — a narrowing of the "biopsies are not optional" rule stated above.
 
 ### Diagnostic Algorithm
 
@@ -197,6 +228,8 @@ Despite the limited number of trials, neuromodulators are considered to have a t
 ### Prognosis and Monitoring
 
 - No long-term pathologic consequences, but substantially **reduced quality of life** — the burden is functional, not organic.
+- **Generally persistent.** In a French follow-up study, **two-thirds of patients remained symptomatic at 2 years**, while about **20% experienced reduced symptom intensity and frequency** — modest improvement in a subset ([[rome-v-2026-functional-esophageal-disorders]]).
+- **Counsel accordingly:** provide reassurance, **discourage repeated invasive testing**, and watch for **excessive or disproportionate food avoidance**.
 - Because 24-hour monitoring can miss abnormal acid exposure through day-to-day variation, long-term GERD complications ([[barretts-esophagus\|Barrett's esophagus]], peptic stricture) can occasionally emerge in patients labelled functional heartburn. This is anticipated to be **rare**.
 - Mechanistic background that explains the treatment ladder: esophageal mucosal afferent nerves are **deeply localized** in functional heartburn (as in healthy volunteers) rather than superficially localized as in NERD; balloon distension shows a similar degree of visceral hypersensitivity in the **esophagus and the rectum**, supporting a generalized increase in perception of visceral stimuli. There is a high likelihood of **anxiety and other affective disorders**. Acid does not trigger functional heartburn symptoms.
 
@@ -204,12 +237,13 @@ Despite the limited number of trials, neuromodulators are considered to have a t
 
 ## See Also
 
-[[gerd]], [[dyspepsia]], [[disorders-of-gut-brain-interaction]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[high-resolution-manometry]], [[upper-endoscopy]], [[eosinophilic-esophagitis]], [[achalasia]], [[ineffective-esophageal-motility]], [[barretts-esophagus]], [[proton-pump-inhibitors]], [[tegaserod]], [[antireflux-surgery]], [[irritable-bowel-syndrome]], [[extraesophageal-reflux]], [[brain-gut-behavioral-therapy]]
+[[gerd]], [[dyspepsia]], [[disorders-of-gut-brain-interaction]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[high-resolution-manometry]], [[upper-endoscopy]], [[eosinophilic-esophagitis]], [[achalasia]], [[ineffective-esophageal-motility]], [[barretts-esophagus]], [[proton-pump-inhibitors]], [[tegaserod]], [[antireflux-surgery]], [[irritable-bowel-syndrome]], [[extraesophageal-reflux]], [[brain-gut-behavioral-therapy]], [[reflux-hypersensitivity]], [[functional-chest-pain]], [[globus]], [[functional-dysphagia]], [[noncardiac-chest-pain]], [[chicago-classification-v4]], [[potassium-competitive-acid-blockers]]
 
 ---
 
 ## Sources
 
-1. [[aga-2020-functional-heartburn|AGA Clinical Practice Update on Functional Heartburn: Expert Review (2020)]]
-2. [[aga-2022-personalized-gerd|AGA Clinical Practice Update on the Personalized Approach to the Evaluation and Management of GERD: Expert Review (2022)]]
-3. [[aga-2018-psychogastroenterology|Best Practice Update: Incorporating Psychogastroenterology Into Management of Digestive Disorders]]
+1. [[rome-v-2026-functional-esophageal-disorders|Functional Esophageal Disorders (Rome V, 2026)]]
+2. [[aga-2020-functional-heartburn|AGA Clinical Practice Update on Functional Heartburn: Expert Review (2020)]]
+3. [[aga-2022-personalized-gerd|AGA Clinical Practice Update on the Personalized Approach to the Evaluation and Management of GERD: Expert Review (2022)]]
+4. [[aga-2018-psychogastroenterology|Best Practice Update: Incorporating Psychogastroenterology Into Management of Digestive Disorders]]

@@ -3,7 +3,7 @@ title: "Dysphagia"
 category: diagnostic-schema
 tags: [dysphagia, esophageal, oropharyngeal, motility, achalasia, eosinophilic-esophagitis, odynophagia, globus]
 created: 2026-06-04
-updated: 2026-10-25
+updated: 2026-11-05
 sources: [asge-2014-dysphagia, acg-2020-esophageal-physiologic-testing, chicago-v4-2021-esophageal-dysmotility, acg-2025-egd-quality, aga-2024-esophageal-immunity-infection, acg-2020-achalasia, rome-v-2026-dgbi]
 ---
 
@@ -30,7 +30,8 @@ sources: [asge-2014-dysphagia, acg-2020-esophageal-physiologic-testing, chicago-
 Distinguish dysphagia from related symptoms:
 
 - **Odynophagia** — *painful* swallowing; suggests mucosal injury (infectious or pill esophagitis, severe reflux/erosive disease, malignancy).
-- **Globus** — persistent sensation of a lump in the throat *between* swallows, relieved by swallowing; not true dysphagia (Rome V esophageal disorder of gut–brain interaction [DGBI] **A4**; see [[laryngopharyngeal-symptoms]]).
+- **[[globus|Globus]]** — persistent sensation of a lump in the throat *between* swallows, relieved by swallowing; not true dysphagia (Rome V esophageal disorder of gut–brain interaction [DGBI] **A4**; see also [[laryngopharyngeal-symptoms]]). **The presence of dysphagia excludes the globus diagnosis.**
+- **[[functional-dysphagia|Functional dysphagia]]** — the Rome V **A5** endpoint of this schema when endoscopy with biopsy, barium study, high-resolution manometry and (where available) FLIP are all normal.
 - **Functional dysphagia** — a [[disorders-of-gut-brain-interaction|DGBI]] (Rome V esophageal category **A5**) diagnosed after structural, motility, and mucosal (eosinophilic) causes are excluded [[rome-v-2026-dgbi]].
   - Rome V also supplies **Rome Clinical Criteria** for use outside research: the qualitative symptom features are retained and symptoms must be **bothersome** (interfere with daily life or prompt care-seeking), but the frequency threshold is lowered and the 6-month duration is replaced by a suggested **8-week** minimum [[rome-v-2026-dgbi]].
 

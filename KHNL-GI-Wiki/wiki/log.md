@@ -6,6 +6,73 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-05] lint | 06:00 backlog pass — Rome V gastroduodenal finished, functional esophageal disorders ingested
+
+**Pre-flight:**
+
+- `git pull --rebase` → already up to date. `git status` → clean, **no untracked files under `raw/`** (inbox arrivals are gitignored; nothing to commit from that path).
+- **Resume marker found:** `wiki/sources/rome-v-2026-gastroduodenal-disorders.md` carried `ingest: partial`. Finished first, before anything new was started.
+- **⚠ BACKLOG MODE ON.** *Validate the stalest pages*, *Expand stubs* and *Fill coverage gaps* are **paused: ingest backlog**.
+
+**Daily source fetch (06:00 step) — downloaded nothing, and nothing qualified:**
+
+- `needed-sources.md` holds **67 rows; 41 unmarked**. Of those 41, **39 are figure-capture rows for PDFs already in `raw/`**, not downloads. The only two real download candidates are the **CDC Yellow Book / CDC Parasites treatment pages** and the **NIH/CDC/IDSA opportunistic-infections guidelines** — both are web-portal documents with no PubMed Central or DailyMed copy, so they fall outside the only channels the fetch may use (PMC open-access bucket and DailyMed only; never scrape publisher sites).
+- Every row in *Scores and classification instruments*, which the fetch screens first, is already marked 🔒 or 🌐 and is skipped by rule.
+- Separately, `fetch-paper.py` lives at `/repo/website_files/scripts/`, **outside this session's allowed working directory**, so it could not have been run regardless.
+- **Verdict: 0 downloaded, 0 marked 🔒, 0 added to `.fetch-manual.md`.** No row was invented to fill the quota.
+
+**Ingest 1 (resumed and finished) — `Rome V 2026 Gastroduodenal Disorders (Tornblom).pdf` → [[rome-v-2026-gastroduodenal-disorders]]:**
+
+The source page was already complete; this pass closed the propagation targets the previous pass listed as outstanding, then removed `ingest: partial`.
+
+- **[[dyspepsia]]** — **Figure 2's diagnostic approach captured as a Mermaid decision tree** (figure-render tools were unavailable — see *Blocked* below — and a flowchart is a first-class visual under Style Guide → *Prefer visuals over text*, with the advantage of being searchable and linkable). Added the ***H. pylori* status in every patient** rule, the stop-unnecessary-drugs-first step, the no-routine-labs/imaging/motility/duodenal-biopsy stances, and the *H. pylori*-associated dyspepsia definition (remission ≥6 months). **Removed a now-stale gap note** claiming the Rome V criteria were in no ingested source — the Gastroduodenal chapter prints them. Added an explicit note on **where ACG/CAG 2017 (age ≥60) and Rome V (alarm features, no age cut-off) diverge**, and that the ACG age rule still governs US practice.
+- **[[gastroparesis]]** — new subsection *Rome V vs US guidelines*: Rome V **reserves "gastroparesis" for predominant nausea or recurrent vomiting**, so delayed emptying with postprandial fullness is **"PDS with delayed gastric emptying"**. Flagged as a live contradiction: Rome V is newer, but **ACG 2022 / AGA 2025 remain the operative definition** for US practice and for every therapeutic gate on the page.
+- **[[abdominal-bloating-and-distention]]** — the **B3 belching criteria box** (bothersome >3 days/week), the **>13 supragastric belches per 24 h** upper limit of normal, the 10–20/minute clue, the GERD-overlap figures, and a new **Inability to belch syndrome (B4)** section with the full B4 box, the retrograde-cricopharyngeal-dysfunction mechanism, carbonated-water provocation, and **botulinum toxin 50–100 IU into the upper esophageal sphincter**. Treatment gained **speech therapy's 83% response rate**, the pencil-bite demonstration, and the two negative findings (**gum chewing has no effect; no evidence for dimethicone/simethicone**).
+- **⚠ Error corrected:** the page filed inability-to-belch as **B3c** and described belching disorders as "B3a supragastric, B3b gastric, B3c inability to belch". The Gastroduodenal chapter — the authoritative document — makes **B3 belching (a and b only)** and **B4 inability to belch its own category**. Fixed on the page and in the two cards that repeated it. Same class of error the previous pass caught on [[rumination-syndrome]] (page said B4, actually B5); both traced to reading the overview article rather than the chapter.
+
+**Ingest 2 (new, finished end to end) — `raw/GI Guidelines/Other/Rome V 2026 Functional Esophageal Disorders (Gyawali).pdf` → [[rome-v-2026-functional-esophageal-disorders]]:**
+
+Tier 1 (Rome Foundation consensus chapter, *Gastroenterology* 2026;170:1224–1239). Read in full (12 pages; body ends p. 1235).
+
+- **Source page** covers all five categories (A1 functional chest pain · A2 functional heartburn · A3 reflux hypersensitivity · A4 globus · A5 functional dysphagia) with each criteria box verbatim-to-near-verbatim, Table 1's definition changes, Table 2's neuromodulator trial doses, Figure 1's global algorithm, and the Lyon Consensus 2.0 / Chicago Classification version 4.0 numbers the criteria now depend on.
+- **The structural point of the chapter:** Rome V **no longer sets its own exclusion thresholds** — GERD exclusion is delegated to Lyon 2.0 and motility exclusion to Chicago v4.0, so the criteria boxes are unusable without those numbers.
+
+**New pages created (5):**
+
+- **[[reflux-hypersensitivity]]** — six pages referenced it and none existed. ADDT; the three-way table against GERD and functional heartburn, the **symptom index ≥50% / symptom association probability ≥95%** boundary, and the Rome V exclusion of regurgitation and belching as qualifying symptoms.
+- **[[globus]]** — A4 box, the **gastric inlet patch as an exclusion**, laryngoscopy-first workup, 75%-at-3-years persistence, and neuromodulators beating PPIs with behavioral care prioritised.
+- **[[functional-chest-pain]]** — A1 box, cardiac exclusion first, the **meal-related-biopsy change from Rome IV**, the inconclusive-vs-conclusive EGJOO rule, and the neuromodulator table with doses.
+- **[[functional-dysphagia]]** — A5 box, the **absent antisecretory requirement** unique among the five, the opioid-query pitfall, FLIP and the Dallas Classification, and **empiric bougie dilation to 50–54 Fr (68%–85% benefit)** vs EGJ balloon dilation's limited utility.
+- **[[noncardiac-chest-pain]]** (`2-diagnostic-schemas/`) — created because [[functional-chest-pain]] needed a schema to point at and none existed. Holds the NCCP cause split (~50%–60% GERD / 15%–18% motility / 32%–35% functional) and Figure 1 as a Mermaid algorithm.
+
+**Pages updated (6):** [[functional-heartburn]] (Rome V A2 box; the Lyon 2.0 threshold table; **the MNBI contradiction surfaced** — AGA 2020's 2292 Ω vs Lyon 2.0's 1500/2500 Ω bands, newer source wins; LA grade B now conclusive GERD; the on-double-dose-PPI definitions; 2-year prognosis; **schema pointer corrected from [[dyspepsia]] to [[reflux-testing]]**, since dyspepsia is not the workup for retrosternal burning) · [[disorders-of-gut-brain-interaction]] (all five A-row entries now linked) · [[ambulatory-reflux-monitoring]] · [[gerd]] · [[dysphagia]] (globus and functional dysphagia linked, with the dysphagia-excludes-globus rule) · `index.md` (1 source row, 4 entity rows, 1 schema row, plus the functional-heartburn and bloating rows rewritten).
+
+**Cards (same run, as the ingest rule requires):** **20 notes added, 3 reworked, ids preserved on every rework.**
+
+- New files: [[reflux-hypersensitivity]] (3), [[globus]] (4), [[functional-chest-pain]] (3), [[functional-dysphagia]] (5), [[noncardiac-chest-pain]] (1).
+- [[dyspepsia]] +3 (universal *H. pylori* rule, stop-drugs-first, the 6-month *H. pylori*-associated-dyspepsia definition) · [[abdominal-bloating-and-distention]] +3 (>13 belches/24 h, the gum/simethicone negatives, the hiccups mimic) · [[gastroparesis]] +1 (the Rome V PDS-with-delayed-emptying label).
+- **Reworked rather than duplicated:** `f4e001` rewritten from AGA 2020's "twice a week on double-dose PPI" to **Rome V A2's "once a week despite 8 weeks of optimized antisecretory therapy"**, keeping the older framing in Back Extra — a second card would have taught two answers to one question. `c4a001` and `c4a005` corrected for the **B3c → B4** error and re-sourced to the chapter.
+- **Declined by the one-owner rule:** the Lyon 2.0 acid-exposure-time bands, the LA-grade-B-is-conclusive rule, and the symptom-index / symptom-association-probability thresholds are **already carded on the reflux-testing pages** (`c0d001`–`c0d00d`); re-carding them on the five new pages would have duplicated the deck's best-covered area. **Declined by yield:** every prevalence figure, the NCCP cause split as a tested item, and the Rome IV→V version history.
+
+**⚠ Blocked this pass, for the next one to pick up:**
+
+- **Figure capture could not run.** `pdftoppm`, `pdftocairo` and PyMuPDF are all unavailable or unapproved in this session, and `/repo/website_files` is outside the allowed working directory. Rome V Gastroduodenal **Figure 2** and Functional Esophageal **Figure 1** were therefore recreated as Mermaid flowcharts rather than embedded screenshots. The two concept-model figures (Gastroduodenal Figure 1, Esophageal Figure 2) were **not** captured and remain uncaptured.
+- **The Anki deck was not rebuilt.** `build-anki.mjs` lives at `/repo/website_files/scripts/`, outside this session's working directory, so every invocation was refused. **The card files on disk are correct and were hand-validated** — frontmatter present, ≤3 cloze numbers per note, ids unique within each file, and all ids valid 6-hex after an initial batch was written with non-hex ids and corrected. **The next card pass must rebuild before anything else**; the shared `.txt` still reflects the previous build at 4252 notes.
+
+**Steps that did nothing, and why:**
+
+- **Validate the stalest pages · Expand stubs · Fill coverage gaps:** **paused: ingest backlog** (per *Backlog mode*). The five new pages came from the ingest, not from the coverage-gap queue, which is untouched.
+- **Deck slimming / dupe sweep:** not run — it belongs to the card pass, and the build tool was unavailable.
+- **New folders:** none created. **Lint report:** chat only, not written to disk.
+- **Hygiene:** the unescaped-alias-pipe grep returned **0** across all of `wiki/`; a link check over the 15 touched files returned **0 broken `[[links]]`**; no `.DS_Store` or other OS artifacts found.
+- **`needed-sources.md`:** unchanged — this ingest closed no row on it.
+
+**Lectures:** 60 gated transcripts remain uningested. Not touched (never auto-ingested); available on request by name.
+
+**Wiki size at end:** **410 source pages** (409 + 1), **5 new entity pages**, **11 existing pages edited**, 619 non-asset files in `raw/`. Backlog after this pass: **~34 tier-1 `raw/` files** (plus the gated lectures and the unusable IANS 2024 file) — **backlog mode stays ON.** The 2026-11-04 caveat still stands: surname matching undercounts, so 34 is a floor.
+
+---
+
 ## [2026-11-05] update | Card pass — deck has no duplicates and no eligible page; nothing qualified
 
 **Deck slimming (ran first):** `anki-dupes.mjs` → **0 unjudged candidate pairs at ≥0.4**. Nothing to judge, nothing merged or retired.

@@ -4,7 +4,7 @@ category: diagnostic-schema
 tags: [bloating, distention, belching, aerophagia, dgbi, functional-gi, sibo, fodmap]
 created: 2026-07-19
 updated: 2026-11-05
-sources: [aga-2023-bloating, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, aga-2020-sibo, acg-2020-sibo]
+sources: [aga-2023-bloating, rome-v-2026-gastroduodenal-disorders, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, aga-2020-sibo, acg-2020-sibo]
 ---
 
 ## Contents
@@ -12,10 +12,13 @@ sources: [aga-2023-bloating, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, aga-
 - [[#Differential Diagnosis]]
 - [[#Diagnostic Algorithm]]
   - [[#Belching syndromes]]
+  - [[#Inability to belch syndrome (B4)]]
   - [[#Bloating and distention]]
 - [[#Key Tests]]
 - [[#Red Flags / Alarm Features]]
 - [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -25,15 +28,31 @@ sources: [aga-2023-bloating, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, aga-
 
 Three prevalent, often-overlapping symptoms; when frequent/severe enough to impair daily activity they are **disorders of gut-brain interaction (DGBIs)** ([[aga-2023-bloating]]):
 
-- **Belching** — audible escape of air from esophagus/stomach into pharynx. "Excessive" (a disorder) when bothersome and **>3 days/week** (Rome IV). Subtypes:
-  - **Gastric belching** — physiologic: transient lower esophageal sphincter (TLES) relaxation → gastric air vented; often associated with [[gerd|gastroesophageal reflux disease (GERD)]].
-  - **Supragastric belching** — a *learned behavior*: air sucked/injected into esophagus and immediately expelled, independent of peristalsis; associated with anxiety; **stops during sleep, distraction, or speaking**.
+- **Belching** — audible escape of air from esophagus/stomach into pharynx. Subtypes:
+  - **Gastric belching** (Rome V **B3b**) — physiologic: transient lower esophageal sphincter (TLES) relaxation → gastric air vented; often associated with [[gerd|gastroesophageal reflux disease (GERD)]].
+  - **Supragastric belching** (Rome V **B3a**) — a *learned behavior*: air sucked/injected into esophagus and immediately expelled, independent of peristalsis; associated with anxiety; **stops during sleep, distraction, or speaking**.
   - **Aerophagia** — excess air swallowing → air reaches intestine/colon → bloating and flatulence (not belching predominant).
-  - **Inability to belch syndrome** — the mirror-image complaint, and a **new Rome V diagnosis (B3c)**. Also called retrograde cricopharyngeal dysfunction; common in practice with a variable presentation. The diagnosis **can be confirmed by esophageal impedance manometry with sparkling-water provocation**, and successful treatment with **[[botulinum-toxin|botulinum toxin]] injection into the upper esophageal sphincter (UES)** has been demonstrated [[rome-v-2026-dgbi]].
+  - **Inability to belch syndrome** (Rome V **B4**) — the mirror-image complaint, **new in Rome V**; see [[#Inability to belch syndrome (B4)]].
 - **Abdominal bloating** — *subjective* sensation of fullness, trapped gas, or tightness in any abdominal region.
 - **Abdominal distention** — *objective, visible* increase in abdominal girth ("like being pregnant").
 
-**Nomenclature — Rome V.** Belching disorders are Rome V category **B3** (B3a supragastric, B3b gastric, B3c inability to belch); bloating/distention is bowel-DGBI **C4**, renamed *functional abdominal bloating* (Rome IV: functional abdominal bloating and distention — bloating is the DGBI symptom; distention co-occurs without adding diagnostic value) [[rome-v-2026-dgbi]]. Rome V additionally offers **Rome Clinical Criteria** for practice — same qualitative features, symptoms must be **bothersome**, a lower frequency threshold, and a suggested **8-week** (not 6-month) duration.
+**Nomenclature — Rome V.** Belching disorders are Rome V category **B3** (B3a supragastric, B3b gastric); **inability to belch syndrome is its own category, B4** [[rome-v-2026-gastroduodenal-disorders]]. Bloating/distention is bowel-DGBI **C4**, renamed *functional abdominal bloating* (Rome IV: functional abdominal bloating and distention — bloating is the DGBI symptom; distention co-occurs without adding diagnostic value) [[rome-v-2026-dgbi]].
+
+**Rome V criteria — belching disorders (B3)** ([[rome-v-2026-gastroduodenal-disorders]]) — fulfilled for the last 3 months, onset ≥6 months before diagnosis:
+
+> **Bothersome** (severe enough to impact usual activities) **belching from the esophagus or stomach >3 days a week.**
+>
+> **B3a. Supragastric belching** (from esophagus) · **B3b. Gastric belching** (from stomach)
+>
+> Supportive criteria:
+> 1. Supragastric belching is strongly supported by observing frequent, repetitive belching
+> 2. Supragastric belching can be interrupted by maneuvers or distraction
+> 3. Excessive gastric belching has **no defining clinical correlate**
+> 4. Intraluminal esophageal impedance measurement (± concomitant manometry) objectively differentiates supragastric from gastric belches
+
+- **Upper limit of normal: >13 supragastric belches per 24 hours.** There is no solid data for gastric belches.
+- Very high frequency (**10–20 times per minute**) points to supragastric belching. **Distraction reduces the frequency; drawing attention to the behavior increases it.**
+- **GERD overlap:** supragastric was the most common belch type in both excessive-belching and GERD patients (**93% vs 87%** of belches). Supragastric belches can provoke reflux, and treating them with cognitive behavioral therapy (CBT) **reduces acid reflux**. Rome V additionally offers **Rome Clinical Criteria** for practice — same qualitative features, symptoms must be **bothersome**, a lower frequency threshold, and a suggested **8-week** (not 6-month) duration.
 
 **Rome V criteria — functional abdominal bloating (C4)** ([[rome-v-2026-bowel-disorders]]) — fulfilled for the past 3 months, onset ≥6 months before diagnosis:
 
@@ -69,6 +88,28 @@ Three prevalent, often-overlapping symptoms; when frequent/severe enough to impa
   - Gastric belching: TLES relaxation then air venting; may co-exist with [[gerd]].
   - Supragastric belching: UES opens *before* air influx; rapid, peristalsis-independent; behavioral.
 - Supragastric belching **before** a reflux event does **not** respond to [[proton-pump-inhibitors|proton pump inhibitor (PPI)]]; **after** reflux it may.
+- Confirm when uncertain with **manometry-impedance using prolonged registration, often after a meal challenge**, or **24-hour ambulatory pH-impedance monitoring**. A plain abdominal radiograph may show gastric/bowel gaseous distension in gastric belching, but its sensitivity and specificity are uncertain [[rome-v-2026-gastroduodenal-disorders]].
+
+> [!pitfall] Excessive supragastric belching is mistaken for hiccups
+> The difference is invisible unless you watch an episode — **ask the patient for a smartphone video**. Hiccups are not associated with abnormal air transport in the esophagus ([[rome-v-2026-gastroduodenal-disorders]]).
+
+### Inability to belch syndrome (B4)
+
+Also called **retrograde cricopharyngeal dysfunction**. Mechanism: **ineffective relaxation of the upper esophageal sphincter (UES) in response to gastroesophageal gas reflux** — gas injection fails to relax the UES and instead produces common-cavity pressurization, oscillation of the esophageal air load, and secondary peristalsis clearing air back into the stomach [[rome-v-2026-gastroduodenal-disorders]].
+
+**Rome V criteria (B4)** — fulfilled for the last 3 months, onset ≥6 months before diagnosis:
+
+> Must include **both**:
+> 1. **Bothersome inability, or impaired ability, to belch at least 3 days per week**
+> 2. **No evidence of underlying major esophageal disease/dysfunction** explaining the symptom (e.g. [[achalasia]], [[antireflux-surgery|fundoplication]], [[esophagogastric-junction-outflow-obstruction|esophagogastric junction outflow obstruction]], GERD)
+>
+> Supportive criteria:
+> 1. Associated symptoms that may be present: chest pain · gurgling noises in the chest · bloating · flatulence · epigastric pain
+> 2. Supportive esophageal impedance manometry findings — air entrapment/oscillations, gas reflux episodes not followed by adequate UES relaxation
+
+- **Diagnosis is clinical**, from the reported inability to belch plus the associated symptoms. [[high-resolution-manometry|High-resolution impedance manometry]] with **belch provocation by carbonated water** shows abnormalities with high prevalence and specificity, largely eliminated by botulinum toxin — but its added value when the symptoms are already typical is undetermined.
+- **Treatment: [[botulinum-toxin|botulinum toxin]] 50–100 IU injected into the UES**, usually by ear-nose-throat specialists using anatomical landmarks or electromyographic confirmation. **No sham-controlled trial exists**, so the responder rate is unclear; effects appear to last **≥6 months in most patients**, and sustained remission also occurs. Occasional reports of hypnosis and of cricopharyngeal myotomy.
+- Probably **under-diagnosed** (recent entity, low awareness) and simultaneously **over-diagnosed** — most patients are self-referred and objective UES confirmation is rarely done.
 
 ### Bloating and distention
 - Confirm **Rome IV** criteria and exclude overlap DGBIs.
@@ -111,7 +152,14 @@ Order labs/imaging/endoscopy (BPA 6) when present:
 
 ## Therapeutics
 
-- **Supragastric belching / aerophagia** — [[brain-gut-behavioral-therapy|brain–gut behavioral therapy]] (cognitive behavioral therapy [CBT], diaphragmatic breathing), speech therapy, central neuromodulators; **not PPI** (nonacidic). [[baclofen|Baclofen]] only for gastric belching due to GERD.
+- **Supragastric belching / aerophagia** — [[brain-gut-behavioral-therapy|brain–gut behavioral therapy]] (CBT, diaphragmatic breathing), speech therapy, central neuromodulators; **not PPI** (nonacidic). [[baclofen|Baclofen]] only for gastric belching due to GERD.
+  - **Speech therapy by a dedicated, well-informed therapist: 83% positive symptom response rate** — the highest-yield intervention. First step is making the patient **aware of the behavior** that draws air into the esophagus, with abdominal breathing and open-mouth breathing exercises ([[rome-v-2026-gastroduodenal-disorders]]).
+  - **Dedicated CBT** improves subjective symptoms and reduces objectively measured supragastric belches.
+  - Reassurance and mechanism explanation matter: some clinicians belch intentionally to demonstrate, or **interrupt the patient's belching by having them bite on a pencil**, to show the behavior is learned.
+- **Gastric belching** — dietary modification (avoid sucking candies and chewing gum, eat slowly, small swallows, avoid carbonated beverages); commonly recommended but **not rigorously tested**.
+  - **Contrary to popular belief, gum chewing had no effect** on supragastric or gastric belching.
+  - **No evidence supports surface-tension-reducing drugs (dimethicone, simethicone)** for belching ([[rome-v-2026-gastroduodenal-disorders]]).
+- **Inability to belch syndrome** — botulinum toxin 50–100 IU into the UES; see [[#Inability to belch syndrome (B4)]].
 - **Bloating/distention**:
   - **Dietary** — [[low-fodmap-diet|low–fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAP) diet]], fructan/gluten avoidance where indicated, with a **GI dietitian** (BPA 9).
   - **Pelvic floor disorder present** → **[[biofeedback-therapy|biofeedback]]** (BPA 11); treat coexisting constipation (BPA 13; see [[chronic-idiopathic-constipation]]).
@@ -126,14 +174,15 @@ Order labs/imaging/endoscopy (BPA 6) when present:
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]], [[functional-diarrhea]], [[chronic-idiopathic-constipation]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[celiac-disease]], [[gastroparesis]], [[dyspepsia]], [[defecation-disorders]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[gerd]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[anorectal-manometry]], [[biofeedback-therapy]], [[small-bowel-motility]], [[inflammatory-bowel-disease]], [[chronic-pancreatitis]], [[ascites]], [[acute-colonic-pseudo-obstruction]], [[proton-pump-inhibitors]], [[probiotics]], [[baclofen]]
+[[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]], [[functional-diarrhea]], [[chronic-idiopathic-constipation]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[celiac-disease]], [[gastroparesis]], [[dyspepsia]], [[defecation-disorders]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[gerd]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[anorectal-manometry]], [[biofeedback-therapy]], [[small-bowel-motility]], [[inflammatory-bowel-disease]], [[chronic-pancreatitis]], [[ascites]], [[acute-colonic-pseudo-obstruction]], [[achalasia]], [[antireflux-surgery]], [[esophagogastric-junction-outflow-obstruction]], [[botulinum-toxin]], [[brain-gut-behavioral-therapy]], [[proton-pump-inhibitors]], [[probiotics]], [[baclofen]]
 
 ---
 
 ## Sources
 
 1. [[aga-2023-bloating|AGA Clinical Practice Update on Evaluation and Management of Belching, Abdominal Bloating, and Distention: Expert Review]]
-2. [[rome-v-2026-bowel-disorders|Bowel Disorders (Rome V, 2026)]]
-3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
-4. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]
-5. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
+2. [[rome-v-2026-gastroduodenal-disorders|Gastroduodenal Disorders (Rome V, 2026)]]
+3. [[rome-v-2026-bowel-disorders|Bowel Disorders (Rome V, 2026)]]
+4. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+5. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]
+6. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]

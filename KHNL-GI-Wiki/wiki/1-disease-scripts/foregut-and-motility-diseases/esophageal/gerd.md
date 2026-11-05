@@ -3,7 +3,7 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-10-30
+updated: 2026-11-05
 sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd, acg-2020-esophageal-physiologic-testing, afs-2024-ge-valve-after-antireflux-surgery, aga-2022-personalized-gerd, aga-2020-functional-heartburn]
 ---
 
@@ -136,7 +136,7 @@ Perform [[upper-endoscopy|upper endoscopy]] per indications above. High-quality 
 - Endpoint: AET (% time esophageal pH <4); **Lyon Consensus 2.0 thresholds** ([[lyon-2024-gerd-diagnosis]]) — note the qualifiers, they carry the decision:
   - **AET >6% off PPI** = diagnostic of GERD (on wireless monitoring, requires ≥2 days above 6%)
   - **AET 4–6%** = inconclusive; requires adjunctive evidence
-  - **AET <4% on *all* recording days *with a negative* reflux-symptom association** = GERD excluded. **AET <4% on all days *with a positive* symptom association = reflux hypersensitivity**, not exclusion — the association is what separates the two
+  - **AET <4% on *all* recording days *with a negative* reflux-symptom association** = GERD excluded. **AET <4% on all days *with a positive* symptom association = [[reflux-hypersensitivity|reflux hypersensitivity]]**, not exclusion — the association is what separates the two
 - **LA grade B on endoscopy is now CONCLUSIVE for GERD** per Lyon 2.0 (upgraded from "borderline" in Lyon 1.0; ACG 2021 predates this update)
 - Reflux episode counts (off PPI): **>80/day** = adjunctive evidence *for* GERD; **40–80/day** = inconclusive as a stand-alone metric; **<40/day** = adjunctive evidence *against* pathologic GERD
 - **AET >4% *and* >80 reflux episodes on an optimized antisecretory regimen** = actionable refractory GERD (the combination, not either alone)

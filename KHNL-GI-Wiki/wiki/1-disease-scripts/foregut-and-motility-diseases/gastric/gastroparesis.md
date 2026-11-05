@@ -3,13 +3,14 @@ title: "Gastroparesis"
 category: disease-script
 tags: [gastroparesis, gastric-motility, prokinetics, g-poem, gastric-emptying, foregut]
 created: 2026-05-15
-updated: 2026-10-30
-sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, aga-2021-medically-refractory-gastroparesis, surjanhata-2025-constipation-gastroparesis]
+updated: 2026-11-05
+sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, rome-v-2026-gastroduodenal-disorders, aga-2021-medically-refractory-gastroparesis, surjanhata-2025-constipation-gastroparesis]
 ---
 
 ## Contents
 - [[#Assessment]]
   - [[#Establishing the Diagnosis]]
+    - [[#Rome V vs US guidelines — what counts as gastroparesis]]
   - [[#Severity Assessment (GCSI, symptom domains)]]
   - [[#Classification / Typing]]
 - [[#Differential Diagnosis]]
@@ -41,6 +42,15 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, aga-2021-medically-ref
 - **Cardinal symptoms:** postprandial fullness/early satiety, nausea, vomiting, upper abdominal pain/bloating
 - **Exclude drug causes:** opioids (incl. tramadol, tapentadol), cannabinoids, cardiovascular agents, acid suppressants
 - **Retained food on endoscopy ≠ diagnosis:** positive predictive value (PPV) 55% for delayed GE (32% without risk factors, 79% in type 1 diabetes mellitus [DM])
+
+#### Rome V vs US guidelines — what counts as gastroparesis
+
+> [!pitfall] Delayed emptying alone does not make it gastroparesis under Rome V
+> Rome V **reserves the term for predominant nausea or recurrent vomiting**. A patient whose predominant symptoms are early satiation and postprandial fullness, with delayed emptying, is labelled **"PDS with delayed gastric emptying"** — not gastroparesis ([[rome-v-2026-gastroduodenal-disorders]]).
+
+- Same patient, two labels: **ACG 2022 / AGA 2025 define gastroparesis by delayed emptying + compatible symptoms**, so postprandial distress syndrome (PDS) symptoms with a delayed scan qualify. **Rome V requires the symptom profile to be nausea/vomiting-predominant.** Rome V is the newer document; the **US guidelines remain the operative definition for US practice** and for every therapeutic gate on this page.
+- Why it matters: the Rome V second-line prokinetics (**prucalopride, erythromycin**) are the agents studied specifically in delayed emptying, and Rome V reaches them only after dietary advice, a first-line agent, and a neuromodulator or brain–gut behavior therapy have failed. **Stop medications that affect gastric emptying before the emptying test.**
+- Conversely, **predominant nausea or persistent vomiting with delayed emptying should prompt a diagnosis of gastroparesis** rather than chronic nausea vomiting syndrome ([[nausea-and-vomiting]]), and it **excludes** both PDS and epigastric pain syndrome (EPS).
 
 **Exam — findings that name a mimic** ([[aga-2021-medically-refractory-gastroparesis|American Gastroenterological Association (AGA) 2022 refractory clinical practice update (CPU)]] best practice advice [BPA] 1):
 
@@ -97,7 +107,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, aga-2021-medically-ref
 
 *Workup: see [[nausea-and-vomiting]].*
 
-- **Functional [[dyspepsia]] (FD)** — big overlap; on repeat scintigraphic gastric emptying (SGE), 42% of GP reclassified and 37% of FD reclassified as GP; FD has better prognosis ([[disorders-of-gut-brain-interaction]])
+- **Functional [[dyspepsia]] (FD)** — big overlap; on repeat scintigraphic gastric emptying (SGE), 42% of GP reclassified and 37% of FD reclassified as GP; FD has better prognosis ([[disorders-of-gut-brain-interaction]]). Rome V narrows the boundary further — see [[#Rome V vs US guidelines — what counts as gastroparesis]]
 - **Mechanical [[gastric-outlet-obstruction|gastric outlet obstruction]]** — peptic stricture, malignancy, bezoar
 - **[[gerd|Gastroesophageal reflux disease (GERD)]]** — nausea, postprandial discomfort overlap
 - **[[rumination-syndrome|Rumination syndrome]]** — effortless regurgitation soon after meals; manometry/impedance
@@ -305,5 +315,6 @@ Recs 9–12 apply only to refractory disease; the CPU adds trial durations and t
 
 1. [[acg-2022-gastroparesis|ACG 2022: Gastroparesis]]
 2. [[aga-2025-gastroparesis|AGA Clinical Practice Guideline: Management of Gastroparesis (2025)]]
-3. [[aga-2021-medically-refractory-gastroparesis|AGA Clinical Practice Update on Management of Medically Refractory Gastroparesis: Expert Review]]
-4. [[surjanhata-2025-constipation-gastroparesis|Impact of Constipation Therapies on Severity of Gastroparesis and Constipation Symptoms in Relation to Gastric and Colonic Transit]]
+3. [[rome-v-2026-gastroduodenal-disorders|Gastroduodenal Disorders (Rome V, 2026)]]
+4. [[aga-2021-medically-refractory-gastroparesis|AGA Clinical Practice Update on Management of Medically Refractory Gastroparesis: Expert Review]]
+5. [[surjanhata-2025-constipation-gastroparesis|Impact of Constipation Therapies on Severity of Gastroparesis and Constipation Symptoms in Relation to Gastric and Colonic Transit]]

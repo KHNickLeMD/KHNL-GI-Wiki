@@ -3,7 +3,7 @@ title: "Ambulatory Reflux Monitoring"
 category: concept
 tags: [gerd, ph-monitoring, impedance, diagnosis, lyon-consensus]
 created: 2026-05-15
-updated: 2026-10-01
+updated: 2026-11-05
 sources: [lyon-2024-gerd-diagnosis, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -97,7 +97,7 @@ When primary metrics fall in the borderline range, adjunctive metrics are requir
 
 ### Borderline AET: 4.0–6.0%
 
-Any monitoring study where AET falls between 4.0% and 6.0% — and does not meet criteria for GERD, reflux hypersensitivity, or a normal study — is considered **inconclusive for GERD**. Approximately 20% of asymptomatic healthy subjects have dominant borderline AET values across 4 days of wireless monitoring.
+Any monitoring study where AET falls between 4.0% and 6.0% — and does not meet criteria for GERD, [[reflux-hypersensitivity|reflux hypersensitivity]], or a normal study — is considered **inconclusive for GERD**. Approximately 20% of asymptomatic healthy subjects have dominant borderline AET values across 4 days of wireless monitoring.
 
 **Next steps when AET is borderline:**
 
@@ -113,7 +113,7 @@ Any monitoring study where AET falls between 4.0% and 6.0% — and does not meet
 ### Normal Study Definition
 
 - **AET <4.0% on all days of wireless pH monitoring + negative reflux-symptom association** = GERD excluded
-- **AET <4.0% on all days + positive reflux-symptom association** = meets criteria for **[[disorders-of-gut-brain-interaction|reflux hypersensitivity]]** (not GERD; treat with neuromodulators complementing or replacing antisecretory therapy)
+- **AET <4.0% on all days + positive reflux-symptom association** = meets criteria for **[[reflux-hypersensitivity|reflux hypersensitivity]]** (not GERD; treat with neuromodulators complementing or replacing antisecretory therapy)
 
 ---
 
