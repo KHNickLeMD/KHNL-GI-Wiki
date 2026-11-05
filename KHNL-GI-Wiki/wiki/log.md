@@ -6,6 +6,20 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-05] update | Card pass — deck has no duplicates and no eligible page; nothing qualified
+
+**Deck slimming (ran first):** `anki-dupes.mjs` → **0 unjudged candidate pairs at ≥0.4**. Nothing to judge, nothing merged or retired.
+
+**Cards written:** none — **nothing qualified.**
+
+- No card file lacks a `page_updated` marker, so no page was left unfinished by an earlier pass.
+- **339 card files for 342 topic pages.** The 3 pages without one are the standing uncardable set, each re-checked against its current text this pass: `5-meds/peginterferon-alfa-2a.md` (body is entirely label-sourced; its two guideline citations only support facts owned by [[chronic-hepatitis-b]] and [[hepatitis-d]]) · `7-concepts/bristol-stool-form-scale.md` (substance is the 1997 derivation paper; the guideline sources appear only in the pointer table, whose thresholds belong to the pages that carry the recommendations) · `7-concepts/telemedicine-in-gastroenterology.md` (practice-management content).
+- No card file is stale: every other page's `page_updated` matches or postdates its page's `updated:`.
+
+**Build:** rebuild clean at **4252 notes**, no problems reported. Nothing committed or pushed.
+
+---
+
 ## [2026-11-05] update | Card pass — one PAMORA-dose duplicate merged, and the Rome V gastroduodenal criteria carded across 5 pages
 
 **Deck slimming (ran first):**
