@@ -3,8 +3,8 @@ title: "Ampullary & Duodenal Adenoma"
 category: disease-script
 tags: [ampullary-adenoma, duodenal-adenoma, papilla-of-vater, endoscopic-papillectomy, fap, ercp, eus, post-ercp-pancreatitis, surveillance]
 created: 2026-06-27
-updated: 2026-11-04
-sources: [aga-2026-ampullary-neoplasms, esge-2021-ampullary-tumors, asge-2015-ampullary-duodenal-adenomas, aga-2025-nonampullary-duodenal]
+updated: 2026-11-06
+sources: [aga-2026-ampullary-neoplasms, acg-2026-adenomatous-polyposis, esge-2021-ampullary-tumors, asge-2015-ampullary-duodenal-adenomas, aga-2025-nonampullary-duodenal]
 ---
 
 # Ampullary & Duodenal Adenoma
@@ -184,6 +184,8 @@ Endoscopic resection has lower adverse-event rates (~14%) than local surgical ex
 
 - **Older predictors of long-term success** ([[asge-2015-ampullary-duodenal-adenomas]]): age >48 y, lesion ≤24 mm, male sex, absence of a polyposis syndrome (e.g. [[familial-adenomatous-polyposis|FAP]]). Intraductal growth → lower cure, more surgery.
 
+- **When FAP does call for resection, ACG 2026 names the three triggers** — in adenomatous polyposis with an ampullary adenoma and no indication for duodenectomy, **endoscopic over surgical ampullectomy** for (i) **ampullary adenoma ≥10 mm**, (ii) **high-grade dysplasia**, or (iii) **pancreatico-biliary symptoms**, **provided there is no intraductal extension >10 mm** *(conditional; very low certainty)*. The 10 mm intraductal limit matches the AGA 2026 rule above. ([[acg-2026-adenomatous-polyposis]])
+
 > [!pearl] In FAP, resecting the ampullary adenoma may not be the right move
 > Patients with FAP have **higher adverse-event rates** and **high recurrence** after papillectomy, and removal **does not eliminate or substantially reduce** the recurrence or development of new upper gastrointestinal malignancy — while the rate of progression of ampullary adenomas in FAP is **low relative to other patients (11%–14%)**. Some experts therefore **survey with biopsies instead of excising**, provided there is no rapid growth and no high-grade dysplasia, accepting the risk of missing unsampled HGD or carcinoma. [[aga-2026-ampullary-neoplasms|AGA 2026]] presents this as a genuine individual-patient choice and does not recommend one over the other.
 
@@ -239,6 +241,7 @@ Endoscopic resection has lower adverse-event rates (~14%) than local surgical ex
 ## Sources
 
 1. [[aga-2026-ampullary-neoplasms|AGA Clinical Practice Update on Management of Ampullary Neoplasms: Expert Review (2026)]]
-2. [[esge-2021-ampullary-tumors|ESGE 2021: Endoscopic Management of Ampullary Tumors — European Society of Gastrointestinal Endoscopy Guideline]]
-3. [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015: The Role of Endoscopy in Ampullary and Duodenal Adenomas]]
-4. [[aga-2025-nonampullary-duodenal|AGA 2025 Clinical Practice Update on Nonampullary Duodenal Lesions]]
+2. [[acg-2026-adenomatous-polyposis|ACG Clinical Guideline: Diagnosis and Management of Adenomatous Colorectal Polyposis Syndromes (2026)]]
+3. [[esge-2021-ampullary-tumors|ESGE 2021: Endoscopic Management of Ampullary Tumors — European Society of Gastrointestinal Endoscopy Guideline]]
+4. [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015: The Role of Endoscopy in Ampullary and Duodenal Adenomas]]
+5. [[aga-2025-nonampullary-duodenal|AGA 2025 Clinical Practice Update on Nonampullary Duodenal Lesions]]

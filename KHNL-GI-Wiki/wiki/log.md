@@ -6,6 +6,66 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-06] lint | Backlog pass — ingest by budget
+
+**Pre-flight:**
+
+- `git pull --rebase` → already up to date. `git status --untracked-files=all raw/` → **no untracked files under `raw/`**; nothing to commit from the inbox sync.
+- **No `ingest: partial` marker anywhere in `wiki/`** — no file left unfinished by the previous pass; this pass starts fresh.
+- **No `*Stub — to be expanded.*` page remains** in `wiki/` (only the string's own mentions in `log.md`).
+
+**⚠ BACKLOG MODE ON.** *Validate the stalest pages*, *Expand stubs* and *Fill coverage gaps* are **paused: ingest backlog**.
+
+**Daily source fetch:** **not run — this is not the 06:00 cron pass**, and the step is defined as 06:00-only. `needed-sources.md` untouched; this ingest closed no row on it.
+
+**Ingest 1 (finished end to end) — `raw/GI Guidelines/ACG/ACG 2026 Adenomatous Colorectal Polyposis Syndromes (Mankaney).pdf` → [[acg-2026-adenomatous-polyposis]]:**
+
+Tier 1, ACG's first dedicated polyposis guideline (*Am J Gastroenterol* 2026;121:2086–2120). Read in full; body ends p. 2113. Nick's own drop — `/repo/.fetched-files` lists only drug labels, so every uningested guideline in `raw/` is his.
+
+- **Source page** carries all **12 GRADE recommendations** with the document's own numbering, strength and certainty, all **31 key concepts** (KC 1–31, condensed and marked ungraded), and a map of Tables 1–9 and Figures 1–6 to the pages that now hold them. ⚠ Noted on the page: **Table 2 prints recommendations 1–11 only; no. 12 appears in the Upper GI text** — that is the document's own layout, not a wiki renumbering.
+- **Three structural shifts** the guideline makes, all propagated: germline **multigene panel testing is now triggered by cumulative lifetime adenoma count alone** (≥20 strong, 10–19 conditional) with a **17-gene minimum panel**; **colonic polyposis of unknown etiology (CPUE)** is named as a diagnosis with its own surveillance; and upper-GI management is given in operative detail (Spigelman intervals, the >10 mm/any-HGD duodenal treatment threshold, ampullectomy criteria, the high-risk gastric feature set).
+
+**New pages created (2):**
+
+- **[[colonic-polyposis-of-unknown-etiology]]** — the category the guideline defines (≥10 cumulative adenomas + negative panel). Carries the progression data that justify treating it as a diagnosis (19.3% CRC on baseline colonoscopy; 3–4× adenoma increase despite clearance; 10%–67% eventually need surgery), its colonoscopy/EGD/thyroid scheme, and the first-degree-relative screening rules.
+- **[[polymerase-proofreading-associated-polyposis]]** — *POLE*/*POLD1*. The *POLE*-vs-*POLD1* risk table, the 25–30 yr colonoscopy start, EGD for *POLE*/*POLD1* only, and the expert-centre referral rule (KC 5) that also governs *NTHL1*, *AXIN2*, *MLH3*, *MSH3* and *MBD4*. PPAP content was previously a block inside [[familial-adenomatous-polyposis]], where it did not belong.
+
+**Pages updated (6):**
+
+- **[[familial-adenomatous-polyposis]] — rebuilt and slimmed in the same edit.** It was **3,592 words**, over the *Short pages* ceiling, and carried MAP and PPAP material that is not its subject. Now FAP/AFAP only, with MAP and PPAP detail moved to their own pages (merged, not duplicated) and one-line links left behind. Gained: the four extracolonic features that mandate germline *APC* testing on their own (Rec 3) as a `[!pearl]`; the *APC* codon–phenotype map; **Table 7 Spigelman staging with the 2026 intervals** (0 → 3–5 y, I → 3 y, II → 2–3 y, III → 6–12 mo, IV → 3–6 mo), replacing the ASGE 2020 collapse of 0–I into 5 y; **Table 8** colectomy indications; the **≤20 vs >20 rectal-adenoma** IRA/IPAA fork; **Table 9** gastric polyposis management; chemoprevention doses; and a `[!pitfall]` on the narrowed thyroid and desmoid surveillance.
+- **[[mutyh-associated-polyposis]]** — absorbed the MAP material that left the FAP page, plus the 2026 figures: colonoscopy interval **widened 1–2 y → 1–3 y**, **thyroid ultrasound dropped for MAP**, the duodenal-cancer-without-adenomas warning, and two `[!pitfall]` boxes (polyp count does not predict CRC risk; a monoallelic variant does not justify intensified surveillance, OR 1.2, 95% CI 0.99–1.5).
+- **[[colorectal-polyposis]]** — the schema that owns the testing thresholds. Its table now leads with the 2026 bands and keeps the three older rules **explicitly marked superseded**; gained the 17-gene minimum panel as a `[!pearl]`, the GPV-yield-by-count figures, the *APC*-mosaicism route, six new rows in the adenomatous DDx table (*NTHL1*, *AXIN2*, *MLH3*, *MSH3*, *MBD4*, CPUE), and a rewritten Mermaid branch covering what a pathogenic result, a variant of uncertain significance and a negative panel each mean.
+- **[[serrated-polyposis-syndrome]]** — the adenoma-count rule that applies when SPS and adenomas coexist (10% of SPS patients have >10 cumulative adenomas), and the therapy-associated-polyposis overlap.
+- **[[ampullary-adenoma]]** — ACG 2026 Rec 11's three ampullectomy triggers, which agree with the AGA 2026 10 mm intraductal limit already on the page.
+- **`index.md`** — 1 source row, 2 new entity rows, 3 rewritten entity rows, 1 rewritten schema row.
+
+**Figure captured:** **Figure 5 (high-risk endoscopic gastric lesions, 11 panels)** cropped at 300 dpi and embedded on [[familial-adenomatous-polyposis]] as `raw/assets/fap-2026-high-risk-gastric-lesions-12.png`, with a caption decoding every panel letter. This is the *Endoscopic appearance* rule — carpeting, polypoid mounds and white mucosal patches are recognised by looking, so the criteria table alone was not enough. `pdftoppm -x/-y/-W/-H` worked; the crop was verified by reading the output image, and re-cropped once because the first attempt clipped the caption.
+
+**Cards (same run): 17 net new notes, 10 existing notes rewritten with ids preserved.** Build **clean — 0 problems, 4297 notes** (was 4280).
+
+- **Rewritten because ACG 2026 superseded them** — every id kept, so scheduling survives: `fa9003` (colonoscopy 10–12 q1–2y → **10–15 q1–3y**) · `fa9005` (pouch/IRA intervals → **annual lower endoscopy, ileoscopy q3y**) · `fa9009` (Spigelman intervals) · `fa900b` (gastric lesions to resect) · `fa900e` (absolute colectomy indications — the old card's ">6 mm" relative indication is gone) · `fa900f` (IRA/IPAA count) · `fa9010` (chemoprevention, now with doses) · `fa9012` (thyroid: annual from late teens → **baseline by 18, q5y if normal**) · `c0a001` and `c0a002` (testing threshold and gene panel). `fa9008`'s Back Extra was corrected for the **Spigelman number row**, which ACG 2026 prints as **1–4 / 5–20 / >20**, closing the old `<4 / 5–20` gap that left exactly 4 polyps unscored.
+- **New:** [[familial-adenomatous-polyposis]] +5 (the *APC*-testing features, the duodenal >10 mm/HGD treatment threshold, the ampullectomy triggers, desmoid imaging, papilla biopsy) · [[colonic-polyposis-of-unknown-etiology]] +4 · [[polymerase-proofreading-associated-polyposis]] +4 · [[mutyh-associated-polyposis]] +2 · [[colorectal-polyposis]] +2.
+- **Declined by yield:** every prevalence and incidence figure, the GPV-yield percentages as a tested item, the GRADE labels themselves, and the *APC* codon map. **Declined by one-owner:** nothing new on [[serrated-polyposis-syndrome]] (its new facts are owned by [[colorectal-polyposis]] and [[colonic-polyposis-of-unknown-etiology]]) or [[ampullary-adenoma]] (the polyposis ampullectomy triggers are carded once, on the FAP page); both card files were marked current rather than added to.
+- **Deferred for the next card pass, deliberately:** a **visual recognition note** off the new Figure 5 — *shown this panel, name the high-risk gastric feature* — needs an answer-neutral crop built with `ffmpeg` per Card rule 10, which this run's budget did not cover. The page carries the labelled figure, so the content requirement is met; only the card is outstanding.
+- **`occ files:scan` not run** — this session is in the container, so Nextcloud's web UI may serve the previous `.txt` until the next cron build.
+
+**Steps that did nothing this pass, and why:**
+
+- **Validate the stalest pages · Expand stubs · Fill coverage gaps:** **paused: ingest backlog.** No stub exists anywhere in `wiki/` in any case, and the coverage-gap queue holds a single entry, which this ingest did not touch.
+- **Daily source fetch:** not run (06:00-only step).
+- **Deck dupe sweep:** belongs to the card pass, not an ingest pass; not run.
+- **New folders:** none created. **Lint report:** chat only, not written to disk.
+
+**Hygiene:** unescaped-alias-pipe grep → **0** across `wiki/`. Link check over the 9 touched files → **0 broken `[[links]]`** and both embedded images resolve in `raw/assets/`. No `.DS_Store` or other OS artifacts.
+
+**⚠ Backlog count corrected.** The 2026-11-05 entry estimated **~34** remaining tier-1 `raw/` files and flagged that figure as a floor. A filename-to-source-slug audit this pass puts it at **roughly 65–70** uningested guideline, consensus and score files — the 2026 Rome V chapters, the *POLE*-era consensus documents, several EASL and NCCN titles, four 2026 ASGE guidelines, and two further ACG 2026 guidelines among them. **Backlog mode stays ON.** The standing memory note claiming the backlog closed on 2026-10-28 is wrong and has been corrected.
+
+**Wiki size at end:** **411 source pages**, 2 new entity pages, 7 existing pages edited, 619 non-asset files in `raw/`.
+
+**Lectures:** 60 gated transcripts remain uningested. Not touched (never auto-ingested); available on request by name.
+
+---
+
 ## [2026-11-05] update | Card pass — previous pass's unbuilt cards validated, 4 stale pages closed, 5 notes added
 
 **Deck slimming (ran first):**

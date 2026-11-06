@@ -3,8 +3,8 @@ title: "Serrated Polyposis Syndrome"
 category: disease-script
 tags: [serrated-polyposis, sps, hyperplastic-polyposis, sessile-serrated, colorectal-cancer, polyposis, mutyh]
 created: 2026-05-19
-updated: 2026-10-29
-sources: [acg-2015-hereditary-gi-cancer, usmstf-2020-followup-colonoscopy, asge-2020-fap]
+updated: 2026-11-06
+sources: [acg-2026-adenomatous-polyposis, acg-2015-hereditary-gi-cancer, usmstf-2020-followup-colonoscopy, asge-2020-fap]
 ---
 
 ## Contents
@@ -97,6 +97,8 @@ These are the **2010 (4th-edition) WHO** criteria — [[asge-2020-fap|American S
 
 - **Colonoscopy** with [[polypectomy]] is the diagnostic and surveillance tool — polyp-clearance goals and interval recommendations are detailed under [[#Endoscopic Management]] [[acg-2015-hereditary-gi-cancer]]
 - Consider **MUTYH** germline testing when adenomas are concurrently present and/or family history of adenomas exists
+- **Count the adenomas separately, and apply the adenomatous-polyposis testing rule if they add up.** Adenomas, including advanced adenomas, are detected in up to **80%** of SPS patients, and **10%** of SPS patients have **>10 cumulative lifetime adenomas**. Germline **multigene panel testing** for an adenomatous polyposis syndrome is warranted in SPS patients who meet the usual criteria — **≥10–20 cumulative lifetime adenomas** ([[acg-2026-adenomatous-polyposis]]); the thresholds and the minimum gene panel are on [[colorectal-polyposis]]
+- **Therapy-associated polyposis (TAP)** — survivors of childhood and young-adult cancer treated with alkylating agents and/or radiotherapy — is the other non-genetic polyposis that overlaps this space; **53% of 34 TAP patients with negative panel testing had ≥10 cumulative adenomas**. A negative panel in either setting makes the patient [[colonic-polyposis-of-unknown-etiology|CPUE]], with its own surveillance
 - No established role for tumor molecular profiling in guiding management at this time
 - **No extracolonic cancer surveillance** — ACG Rec 21 *(Conditional / Very Low)*: there is no evidence to support extracolonic cancer surveillance in SPS at this time. Data are insufficient; in the two largest series (115 patients, and 105 patients with 341 FDRs) no excess extracolonic malignancy was seen in patients or relatives
 
@@ -137,12 +139,13 @@ The guideline's evidence summary adds a third: **high-grade dysplasia in a serra
 
 ## See Also
 
-[[colorectal-polyposis]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[hereditary-mixed-polyposis-syndrome]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[colonoscopy-surveillance]], [[polypectomy]]
+[[colorectal-polyposis]], [[colonic-polyposis-of-unknown-etiology]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[hereditary-mixed-polyposis-syndrome]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[colonoscopy-surveillance]], [[polypectomy]]
 
 ---
 
 ## Sources
 
-1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
-2. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]
-3. [[asge-2020-fap|ASGE Guideline: The Role of Endoscopy in Familial Adenomatous Polyposis Syndromes (2020)]]
+1. [[acg-2026-adenomatous-polyposis|ACG Clinical Guideline: Diagnosis and Management of Adenomatous Colorectal Polyposis Syndromes (2026)]]
+2. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
+3. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]
+4. [[asge-2020-fap|ASGE Guideline: The Role of Endoscopy in Familial Adenomatous Polyposis Syndromes (2020)]]
