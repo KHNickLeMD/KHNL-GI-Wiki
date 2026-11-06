@@ -3,8 +3,8 @@ title: "EUS-Guided Biliary Drainage (EUS-BD)"
 category: advanced-procedure
 tags: [eus, eus-bd, eus-cds, eus-hgs, edge, biliary-drainage, biliary-obstruction, ercp, ptbd, lams, interventional-eus, asge]
 created: 2026-10-06
-updated: 2026-11-04
-sources: [asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality, acg-2023-biliary-strictures, aga-2021-malignant-alimentary-tract-obstruction]
+updated: 2026-11-06
+sources: [jges-2026-eus-biliary-drainage-consensus, asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality, acg-2023-biliary-strictures, aga-2021-malignant-alimentary-tract-obstruction]
 ---
 
 ## Contents
@@ -19,6 +19,7 @@ sources: [asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality, acg-2023-bili
 - [[#Outcomes]]
 - [[#Adverse Events]]
 - [[#Devices, Stents, and Quality Benchmarks]]
+- [[#JGES 2026 International Consensus]]
 
 ## Definition and Techniques
 
@@ -239,6 +240,34 @@ Numbering is the document's own. Developed with the Grading of Recommendations A
 - Published EUS-BD technical and clinical success is **90%–96%** and AEs 8%–27%; the >85% target is set deliberately below published rates because the literature comes from expert centers.
 - EDGE technical success in published series is 96%–99%.
 
+## JGES 2026 International Consensus
+
+Fourteen experts from six countries, Delphi method, **≥80% agreement required**; agreement percentages below are as printed. ([[jges-2026-eus-biliary-drainage-consensus]])
+
+> [!pitfall] The panel withheld first-line status against its own evidence table
+> Five randomized trials favour EUS-BD over ERCP-BD on technical success, procedure time and post-ERCP pancreatitis (**0% in every EUS-BD arm vs 0%–14.8%**), yet **EUS-BD is not considered a standard biliary drainage method for unresectable malignant distal biliary obstruction (MDBO) at present** (strongly agree 85.7%). The stated reasons: trial endoscopists were highly experienced in *both* procedures, and EUS-BD carries a risk of **bile peritonitis that can be fatal**, with severe and lethal events reported in less experienced hands.
+
+**Upfront use in unresectable MDBO is proposed for three selected situations** — concomitant **duodenal obstruction**, **high risk of post-ERCP pancreatitis**, or **failed ERCP-BD**.
+
+| Statement | Agreement |
+|---|---|
+| CDS-vs-HGS preference **varies among countries** with device availability, clinical experience, degree of EUS-BD dissemination and anatomical constraints | Strongly agree 85.7% |
+| Dedicated **devices and delivery systems** plus **standardized techniques** are required before EUS-BD can be a primary option; **training endoscopists skilled in both ERCP and interventional EUS is essential** | **Strongly agree 100%** |
+| Malignant obstruction in surgically altered anatomy: where safety is ensured at institutions with experienced experts, **EUS-BD can be a primary drainage option** | Strongly agree **61.5%**, partially agree 30.8%, **strongly disagree 7.7%** |
+| **EUS-HGS with a partially covered metal stent is the commonly performed procedure** in surgically altered anatomy; a dedicated plastic stent is useful but available in few countries | Strongly agree 64.3% |
+| Benign biliary disease in surgically altered anatomy: **no single approach is preferred** — select on institutional expertise, devices, reconstruction method and treatment strategy | Strongly agree 78.6% |
+| Benign disease, EUS-BD procedure choice: individualize; **fully covered metal stent with anti-migration function, or a dedicated removable plastic stent**, may be considered | Strongly agree 76.9% |
+
+> [!pitfall] A LAMS in the bile duct can stop draining once the duct decompresses
+> Unlike a tubular stent, a LAMS's **contralateral flange may contact the bile duct wall when the duct collapses** after decompression. A **coaxial double-pigtail plastic stent** may prevent this and occlusion from food reflux. CDS with the Axios system as defined in its trial inclusion criteria is also **generally technically challenging when the bile duct is under 15 mm**.
+
+- **Removability is mandatory in benign disease** needing antegrade treatment and a long-term strategy, including hepaticojejunostomy after gastrectomy — so partially covered metal stents are not used there
+- **Antegrade stone treatment timing:** small stones **immediately** after EUS-HGS; large stones needing cholangioscopy-assisted lithotripsy usually **more than 2 weeks later**, for tract maturation
+- **Surgically altered anatomy** — EUS-BD gave consistently higher technical success than balloon-enteroscopy-assisted ERCP (98.0% vs 65.3%, 95% vs 74%, 100% vs 68.3%) with comparable outcomes and shorter procedure time; but **for bile duct stones, balloon-enteroscopy-assisted ERCP achieved higher complete clearance** while EUS-antegrade was more efficient. EUS-BD is **not feasible without left intrahepatic duct dilation**, and with separate right and left hepaticojejunostomies a transhepatic route may not drain the right system
+- **Geography explains the literature:** CDS with LAMS predominates in the **US**, where few endoscopists are familiar with HGS; HGS predominates in **Korea, Taiwan and Japan**. There is **no dedicated US billing code for EUS-BD**, named as a major barrier to adoption
+- **Proposed terminology** (not yet adopted): interventional EUS creates a non-physiological route joining two organs, so it is an **anastomosis, not a drainage**; organs are named **in the direction of fluid flow**; **ESCR = endosonographically created route**, and anything done through one is a **trans-ESCR procedure**. Under this rule EDGE is "ERCP following EUS-guided gastrogastrostomy with LAMS"
+
+
 ## See Also
 
 [[ercp]], [[endoscopic-ultrasound]], [[eus-guided-gallbladder-drainage]], [[biliary-stricture]], [[cholangiocarcinoma]], [[pancreatic-cancer]], [[choledocholithiasis]], [[acute-cholangitis]], [[gastric-outlet-obstruction]], [[acute-cholecystitis]], [[cholangioscopy]], [[bariatric-surgery]], [[pancreatic-fluid-collection-drainage]], [[lumen-apposing-metal-stents]], [[antibiotic-prophylaxis-endoscopy]], [[ascites]], [[jaundice]]
@@ -247,7 +276,8 @@ Numbering is the document's own. Developed with the Grading of Recommendations A
 
 ## Sources
 
-1. [[asge-2024-therapeutic-eus-biliary|ASGE Guideline: Role of Therapeutic EUS in Biliary Tract Disorders (2024)]]
-2. [[acg-2025-eus-quality|ACG/ASGE 2025: Quality Indicators for EUS]]
-3. [[acg-2023-biliary-strictures|ACG 2023: Diagnosis and Management of Biliary Strictures]]
-4. [[aga-2021-malignant-alimentary-tract-obstruction|AGA Clinical Practice Update: Endoscopic Management of Malignant Alimentary Tract Obstruction (2021)]]
+1. [[jges-2026-eus-biliary-drainage-consensus|International Consensus Statements on Endoscopic Ultrasound-Guided Biliary Drainage: Results From the 1st JGES International in 2025]]
+2. [[asge-2024-therapeutic-eus-biliary|ASGE Guideline: Role of Therapeutic EUS in Biliary Tract Disorders (2024)]]
+3. [[acg-2025-eus-quality|ACG/ASGE 2025: Quality Indicators for EUS]]
+4. [[acg-2023-biliary-strictures|ACG 2023: Diagnosis and Management of Biliary Strictures]]
+5. [[aga-2021-malignant-alimentary-tract-obstruction|AGA Clinical Practice Update: Endoscopic Management of Malignant Alimentary Tract Obstruction (2021)]]

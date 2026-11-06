@@ -49,6 +49,28 @@ Tier 1, ACG's first dedicated polyposis guideline (*Am J Gastroenterol* 2026;121
 - **Deferred for the next card pass, deliberately:** a **visual recognition note** off the new Figure 5 — *shown this panel, name the high-risk gastric feature* — needs an answer-neutral crop built with `ffmpeg` per Card rule 10, which this run's budget did not cover. The page carries the labelled figure, so the content requirement is met; only the card is outstanding.
 - **`occ files:scan` not run** — this session is in the container, so Nextcloud's web UI may serve the previous `.txt` until the next cron build.
 
+**Ingest 2 (finished end to end) — `raw/GI Guidelines/Other/Intl Consensus 2026 EUS-Guided Biliary Drainage (Iwashita).pdf` → [[jges-2026-eus-biliary-drainage-consensus]]:**
+
+Tier 1 (international Delphi consensus, 1st JGES International; *Digestive Endoscopy* 2026;38:e70194, open access). Read in full, 10 pages. 14 experts from six countries, **≥80% agreement required**, at least two voting rounds.
+
+- **Source page** carries all **7 consensus statements** across the three topics with the **agreement percentages exactly as printed**, the four tables, and the terminology proposal.
+- **The document's defining feature is that its conclusion runs against its own evidence table, deliberately** — five randomized trials favour EUS-guided biliary drainage over ERCP-guided drainage on technical success, procedure time and post-ERCP pancreatitis (**0% in every EUS-BD arm**), and the panel still declines first-line status, citing external validity and the risk of **fatal bile peritonitis** in less experienced hands. Captured as the panel's reasoning, not editorialised.
+- Two **explicit non-recommendations** recorded as such: the choledochoduodenostomy-vs-hepaticogastrostomy choice is country- and operator-dependent, and **no single approach is preferred** for benign biliary disease in surgically altered anatomy.
+
+**Page updated (1) — [[eus-guided-biliary-drainage]]:**
+
+- ⚠ **Error made and corrected within the pass.** The page already existed (2,714 words, 4 sources, created 2026-10-06) and was **overwritten wholesale** by a fresh write — I misread the directory listing and believed it was new. Caught at `git add` time, when the file showed as Modified rather than Added; **restored verbatim from HEAD**, and the new source merged as an additive `## JGES 2026 International Consensus` section instead. Nothing was lost, and nothing destructive was committed.
+- Added: the 7 Delphi statements with their agreement percentages, the three upfront indications in unresectable malignant distal biliary obstruction, two `[!pitfall]` boxes (the withheld first-line status; the **LAMS collapsed-duct flange trap** and its coaxial double-pigtail fix), the removability-mandatory-in-benign-disease rule, antegrade stone timing, the geographic divergence, and the proposed anastomosis/ESCR terminology. Existing route-selection and ASGE 2024 content left untouched — no duplication.
+- Page is now **3,355 words**, over the *Short pages* ceiling. **Flagged as the next slim candidate**; not slimmed here, as the budget cap ended the run.
+
+**Index:** 1 source row; the existing entity row extended rather than duplicated.
+
+**Cards:** **6 new notes** on [[eus-guided-biliary-drainage]] (tier-1 consensus → eligible). Declined by yield: every trial name, the meta-analysis odds ratios, the country-by-country preferences, the reimbursement point, and the terminology proposal (it is proposed, not adopted). Build **clean — 0 problems**.
+
+**⚠ For the next card pass — an unexplained note-count drop.** After ingest 1 the build reported **4297 notes**; after adding 6 notes for ingest 2 it reports **4292**, where 4303 was expected. The new notes *are* in `dist/khnl-gi-wiki.txt` and the build reports no problems, so nothing is broken in the files written this pass, but **11 notes are unaccounted for** and this was not chased down here. Active notes across all `.md` files excluding `# Retired` currently total **4185**. Worth a deliberate reconciliation before the next deck slim.
+
+**Also noticed, not fixed:** [[ercp]] links to `[[post-ercp-pancreatitis]]`, which has **no page** — a pre-existing broken link, unrelated to this pass. Candidate for the next lint.
+
 **Steps that did nothing this pass, and why:**
 
 - **Validate the stalest pages · Expand stubs · Fill coverage gaps:** **paused: ingest backlog.** No stub exists anywhere in `wiki/` in any case, and the coverage-gap queue holds a single entry, which this ingest did not touch.
@@ -60,7 +82,7 @@ Tier 1, ACG's first dedicated polyposis guideline (*Am J Gastroenterol* 2026;121
 
 **⚠ Backlog count corrected.** The 2026-11-05 entry estimated **~34** remaining tier-1 `raw/` files and flagged that figure as a floor. A filename-to-source-slug audit this pass puts it at **roughly 65–70** uningested guideline, consensus and score files — the 2026 Rome V chapters, the *POLE*-era consensus documents, several EASL and NCCN titles, four 2026 ASGE guidelines, and two further ACG 2026 guidelines among them. **Backlog mode stays ON.** The standing memory note claiming the backlog closed on 2026-10-28 is wrong and has been corrected.
 
-**Wiki size at end:** **411 source pages**, 2 new entity pages, 7 existing pages edited, 619 non-asset files in `raw/`.
+**Wiki size at end:** **412 source pages**, **2 new entity pages**, 8 existing pages edited, 619 non-asset files in `raw/`. **Two files ingested this pass; the run stopped on its budget cap, not on an empty queue**, and left **no `ingest: partial` marker** — both files are finished.
 
 **Lectures:** 60 gated transcripts remain uningested. Not touched (never auto-ingested); available on request by name.
 
