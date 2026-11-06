@@ -6,6 +6,124 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-06] lint | 06:00 backlog pass — daily fetch + ingest by budget
+
+**Pre-flight:**
+
+- `git pull --rebase` → already up to date. `git status --untracked-files=all raw/` → **no untracked files**; the inbox sync delivered nothing new this pass, so nothing to commit from it.
+- **No `ingest: partial` marker anywhere in `wiki/`** — the previous pass closed both of its files cleanly. This pass starts fresh.
+- **No `*Stub — to be expanded.*` page remains** in `wiki/`.
+
+**Health check (runs in backlog mode): clean.**
+
+- OS artifacts (`.DS_Store`, `._*`): none.
+- Unescaped alias pipes inside table cells: none.
+- **Broken `[[links]]`: none.** A whole-wiki resolver (basename match, code spans and image embeds excluded) found only two unresolved targets, both inside `log.md`'s own historical text (`acg-2025-bowel-prep`, `malignant-polyp`) — narrative references to past passes, not live page links. The `[[post-ercp-pancreatitis]]` link flagged by the previous pass as broken **now resolves**; the page exists.
+
+**⚠ BACKLOG MODE ON — re-confirmed by audit, not assumed.** Fuzzy-matched all 617 files in `raw/` against the `title:` + `**Article:**` line of all 412 `wiki/sources/` pages, then eyeballed the 85 low scorers against the slug list. **~60 uningested tier-1 guideline/consensus documents remain** (plus the gated lectures and a handful of primary papers). So *Validate the stalest pages*, *Expand stubs* and *Fill coverage gaps* are **paused: ingest backlog**, per CLAUDE.md.
+
+**Daily source fetch (06:00 step): nothing qualified — 0 downloads, by design.**
+
+- *Scores and classification instruments* is screened first: all three rows (Eckardt 1992, WHO Blue Book 5th ed, Amodio/ISHEN 2013) are marked **🔒** and are skipped by rule.
+- Every **unmarked** row left on the list is a **web guidance resource, not a fetchable article** — the CDC Yellow Book and CDC parasite treatment pages, and the NIH/CDC/IDSA opportunistic-infections guidelines. `fetch-paper.py` takes only the PMC open-access bucket and DailyMed, so none is reachable; publisher and agency sites are off limits by rule.
+- **No second pick made just to reach 2** (*Quality over quota*). Nothing added to `/repo/.fetch-manual.md`; no row's access mark changed.
+- Separately noted: several rows name documents that **are already in `raw/`** awaiting ingest, not missing. Rows are deleted on ingest, not on download, so they stay — this pass closed the ones it ingested (below).
+
+**Ingest 1 (finished end to end) — `raw/GI Guidelines/Other/IGCLC 2020 Hereditary Diffuse Gastric Cancer (Blair).pdf` → [[igclc-2020-hdgc]]:**
+
+Tier 1, the International Gastric Cancer Linkage Consortium's update of its own 2015 guidelines (*Lancet Oncol* 2020;21:e386–e397). Read in full, e386–e397. Nick's drop (`/repo/.fetched-files` holds only drug labels). Picked first because it closes a standing `needed-sources.md` row **and** a decision gap on a page that had none of its operative detail.
+
+- **Source page** carries the nine testing criteria as the document prints them (Panel 1, split family/individual), the four genetic-result pathways of Figure 1, the endoscopy statements (Panel 3), prophylactic gastrectomy selection and technique, breast surveillance and risk-reducing mastectomy (Panel 2), histopathology, the postgastrectomy complications table and the drug-absorption rules (Panel 4).
+- ⚠ **The document numbers and grades nothing individually.** It states only that the overall strength of evidence is **low to moderate on GRADE**. The groupings used on the wiki are its own panels and figure; no numbering was invented, and this is said plainly on both pages.
+
+**Page rebuilt (1) — [[hereditary-diffuse-gastric-cancer]]**, which was carried entirely by [[acg-2015-hereditary-gi-cancer|ACG 2015]] and is **superseded by IGCLC 2020 on three separate decisions** (same tier, newer, dedicated consortium). Old claims are retained and explicitly marked superseded, because readers carry the old version:
+
+- **Testing criteria** — ACG 2015's four clinical criteria replaced by the 2020 nine. Isolated diffuse gastric cancer moved **<40 → <50 y**; bilateral lobular breast cancer **<50 → <70 y**; family criterion 1 is now **≥2 gastric cancers at any age with one diffuse**, dropping the under-50 requirement. New criterion for **all Māori with confirmed diffuse gastric cancer**.
+- **Breast surveillance** — ACG 2015 extrapolated from BRCA practice (mammography + MRI from 35, clinical exam 6-monthly). IGCLC 2020 gives lobular-specific ages: **MRI and clinical exam yearly from 30, mammography yearly from 40** (35–40 case by case), with **mammography alone explicitly inadequate**.
+- **Colorectal screening reversed** — ACG 2015 advised colonoscopy from 40 in families including colon cancer; IGCLC 2020 finds **insufficient evidence to screen beyond national population guidelines**.
+- Also gained: the **HDGC / HLBC / HDGC-like / variant-of-unknown-significance** classification that the whole pathway turns on, recreated as a Mermaid flowchart plus a management table; the **28–30 random-biopsy map** (3–5 cardia · 5 fundus · 10 body · 5 transition zone · 5 antrum) that no other ingested source prints; the **20–30 y gastrectomy window** and the **>70 y limit**; the three findings that mandate staging; the *CTNNA1* pathway; the postgastrectomy sequelae and oral-drug tables. Penetrance is now shown as a **range with its ascertainment attached** (70%/56% vs 42%/33%) rather than ACG 2015's single 67–80% figure.
+- Page is **~2,300 words** — under the *Short pages* ceiling.
+
+**`needed-sources.md`:** the **HDGC half of the NCCN/IGCLC row is closed** and the row rewritten to its remaining Cowden/PHTS/JPS/PJS content; a note was added that the NCCN 2026 document is itself now in `raw/` awaiting ingest.
+
+**⚠ Figure capture blocked this pass — reported, not worked around.** [[hereditary-diffuse-gastric-cancer]] is an endoscopic-appearance page, so **Figure 2** (12 panels of endoscopic and histopathological HDGC lesions) is required. **PyMuPDF is not installed in this container and `pdftoppm` needs interactive approval, which a cron pass cannot give**, so no crop was made. A row describing the figure panel by panel was added to the *Figures and tables that need capture* section of `needed-sources.md`. **Figure 1 needed no image** — it is an algorithm, and is recreated natively as a Mermaid flowchart plus a table, which is the preferred form anyway.
+
+**Cards: 5 new notes, 6 rewritten with their ids preserved, 2 left alone.** Tier-1 consensus, so eligible.
+
+- **Rewritten because IGCLC 2020 superseded them:** `cd1001` and `cd1002` (the testing criteria, now the 2020 family and individual sets) · `cd1003` (cascade-testing age 16 → **legal age of consent, generally 16–18**) · `cd1004` (gastrectomy "after 20" → **20–30 y window**) · `cd1005` (6–12-monthly EGD → **yearly, with the 28–30 biopsy count**) · `cd1007` (breast and colon surveillance ages — the colon half was **reversed**, so it was split out).
+- **New:** `cd1009` (the two age-independent testing triggers — Māori ethnicity, cleft lip/palate) · `cd100a` (the three findings that mandate staging) · `cd100b` (gastrectomy **not** advised for HDGC-like or a variant of unknown significance with negative endoscopies) · `cd100c` (HDGC-like surveillance start age) · `cd100d` (no extra colorectal screening).
+- **Unchanged:** `cd1006` and `cd1008` — both still accurate and both guideline-sourced.
+- **Declined by yield:** every penetrance percentage as a tested item, the signet-ring detection rates, the laboratory accreditation list, the D1-vs-D2 nodal decision (surgical detail), and the whole postgastrectomy sequelae table (management detail, not a GI decision point).
+- ⚠ **Deck not rebuilt — `node` is blocked in this session's sandbox** (`build-anki.mjs` needs interactive approval). The card file is written and was validated by hand against the caps (≤3 cloze numbers, ≤5 bullets, ≤12 words per bullet, ≤40 words). **The 05:00 cron card pass will rebuild it.** `occ files:scan` likewise not run.
+
+**Ingest 2 (finished end to end) — `raw/GI Guidelines/ASGE/ASGE 2017 Multisociety Reprocessing Flexible GI Endoscopes 2016 Update (Petersen).pdf` → [[mstf-2016-endoscope-reprocessing]]:**
+
+Tier 1, multisociety (ASGE, AASLD, ACG, AGA, APIC, ASCRS, SHEA, SAGES, SGNA), *Gastrointest Endosc* 2017;85:282–294. Read in full, 14 pages including Appendix A. Nick's drop. Picked because it closes the most specific decision gap on the list: [[endoscope-reprocessing]] had only the AGA's 2017 *commentary* on this document and so **could say what changed between guideline versions but could not state the steps a unit must follow**.
+
+- **Source page** carries **all 41 recommendations** with the document's own numbering and **CDC category** on each (IA / IB / IC / II / NR), condensed but with every operative qualifier kept; plus the Spaulding definitions, the named unresolved issues with their underlying data, and the practical notes (the glutaraldehyde label-vs-evidence example, the FDA's 2015 postmarket mandate).
+- ⚠ **Grades are CDC categories, not GRADE**, and **IC means "required by state or federal regulation"** — recorded explicitly on both pages so neither scheme is read as the other. **Two recommendations are graded NR** — shelf life (#25) and routine environmental microbiologic testing for quality assurance (#36) — and are presented as non-recommendations, not softened into recommendations.
+
+**Page updated and slimmed in the same edit (1) — [[endoscope-reprocessing]]:**
+
+- `## What the Unit Is Held To` was a table of the commentary's paraphrases. **Replaced by the guideline's own requirements, organised by phase** — point of use · transport · manual cleaning · high-level disinfection · rinse and dry · storage · accessories and water · disinfectant quality control · inspection · documentation · facility and staff · outbreaks — each carrying its recommendation number and category. Full list links to the source page rather than being duplicated.
+- **Error corrected on the page.** It asserted that MSTF 2016 recommendation 5 requires manual cleaning **"within 60 minutes of endoscope use"**. **The guideline says only "within the manufacturer's recommended time frame"** and names no number; 60 minutes is the AGA commentary's rendering. Both the page and the Anki note `e90001` now attribute it correctly. This also corrected the page's Mermaid sequence.
+- **Net-new decision content:** the **Spaulding table** with the rule that **accessories breaking the mucosal barrier must be *sterilized*, not high-level disinfected**; **the duodenoscope elevator wire channel must be disinfected manually** because most automated reprocessors do not do it; the **70%–90% alcohol flush with filtered forced air**; **daily minimum-effective-concentration testing** and the **"topping off" does not extend reuse life** rule; **water bottle and tubing disinfected or sterilized at least daily, filled with sterile water**; the **air/water valve per procedure vs water bottle daily vs suction valve per procedure** replacement intervals; **interrupted automated cycles must be repeated**; **nonimmersible endoscopes should not be used**; the **eyewash-station placement rule**; **temporary staff barred from reprocessing until competency is established**; and the **four-party reporting chain** for an endoscopy-related infection.
+- **Slimmed in the same pass** per *Short pages*: Outbreak Epidemiology condensed from a table plus six bullets to five bullets; the Supplemental Measures cells cut to their decision content; Sterilization vs High-Level Disinfection reduced to three bullets; Monitoring and Tracking trimmed where the new requirements table now carries the fact; Unresolved Issues rebuilt as a three-row table; the simethicone paragraph boxed as a `[!pitfall]`.
+- ⚠ **Still over the ceiling at ~3,150 words** (was 2,630 before the ingest). The remaining bulk is the 41-requirement set, which **is** this page's subject and is decision-critical, so it was not cut. **Flagged as the next slim candidate with a concrete structural fix:** split the outbreak epidemiology, supplemental measures and sterilization-vs-HLD material onto a `duodenoscope-transmitted-infection` page, leaving this page the standard itself. Not done here — creating a page is a coverage-gap action, which is paused in backlog mode.
+
+**Index:** 1 source row added; the existing [[endoscope-reprocessing]] concept row already described the page correctly and was left alone rather than duplicated.
+
+**`needed-sources.md`:** the **Multi-Society Task Force 2016 reprocessing row deleted** — its document is now ingested.
+
+**Cards: 3 new notes, 1 corrected, 11 left alone.** Tier-1 multisociety guideline, so eligible.
+
+- **Corrected:** `e90001` — its Back Extra attributed the 60-minute limit to MSTF 2016 recommendation 5. Id kept; the front still tests the commentary's 60 minutes, which is what a US unit is audited against, but the Back Extra now says whose figure it is.
+- **New:** `e9000d` (accessories breaking the mucosal barrier are **sterilized**, not high-level disinfected) · `e9000e` (the elevator wire channel must be disinfected **manually**) · `e9000f` (the four parties an endoscopy-related infection is reported to).
+- **Declined by yield:** the alcohol concentration, the "topping off" rule, daily concentration testing, valve and bottle replacement intervals, eyewash placement and the personal-protective-equipment statements — all technician-level, none changes what a physician or endoscopist does. **Declined as a non-recommendation:** the NR-graded shelf-life and surveillance-culture stances (the deck rule cuts "no recommendation" stances as a tested item).
+- Deck rebuild blocked for the same reason as ingest 1.
+
+**Ingest 3 (finished end to end) — `raw/GI Guidelines/ASGE/ASGE 2017 Privileging, Credentialing, and Proctoring (Faulx).pdf` → [[asge-2017-privileging-credentialing]]:**
+
+Tier 1, ASGE Standards of Practice Committee, *Gastrointest Endosc* 2017;85:273–281. Read in full, 9 pages. Nick's drop. Picked as the third target because a wiki page carried a written-out gap note naming exactly this document.
+
+- **Source page** carries **Table 3** (the 14 minimum procedure numbers with their GRADE quality), the per-procedure competency detail, **Box 1**, **Table 2** definitions, **Table 4** competence components, the emerging-technology minor-vs-major-skill rule, the full proctoring section and the **6 numbered recommendations** with the document's own GRADE quality symbols.
+- ⚠ **Grading is quality of evidence only** — strength is carried by the wording (*we recommend* vs *we suggest*), and that distinction is preserved.
+
+**New page created (1) — [[endoscopy-credentialing-and-privileging]]** (`7-concepts/`, framework). Created as part of the ingest, not from the coverage-gap queue, which stays paused. It owns the threshold table and the proctoring rules so no procedure page duplicates them.
+
+- Leads with the rule, not the table: a `[!pearl]` carrying Recommendation 2 — **a number never guarantees competency; the minimums are floors below which competency cannot be assessed**, and an evidence-based threshold should not be assessed below. Most of the table is **very low or low** quality evidence, and that is shown per row.
+- A `[!pitfall]` for the **four skills with no threshold at all** — ablative techniques (no published criteria for any of them), enteral stent placement, PEG with jejunal extension, direct percutaneous endoscopic jejunostomy — so no one borrows a number for them.
+- Per-procedure table keeps what each number must *contain* and the performance target: EGD's **25 nonvariceal + 20 variceal bleeds** and **>95% esophagus/pylorus intubation**; colonoscopy's **>90% cecal intubation with a retroflexed rectal view**; ERCP's **≥80 sphincterotomies and ≥60 biliary stents** on top of the 200, with **≥90% selective cannulation**; EUS's **50 fine-needle aspirations / 75 pancreaticobiliary / 75 mucosal staging / 40 subepithelial** composition.
+- Also: the minor-vs-major-skill table (**ESD and per-oral endoscopic myotomy are major skills — teaching centres, formal training, and a short course is explicitly never sufficient on its own**), a `[!howto]` for the proctor's six conduct rules, the disclosure and peer-review-immunity rules, 2–3-year recredentialing, and a `[!pitfall]` on the **≥12 months away from endoscopy → proctoring** suggestion.
+
+**Page updated (1) — [[endoscopic-oncology]]:** its written-out gap note ("No guideline cited here states a fellowship requirement or a numeric case-volume threshold for ESD, EUS-FNA, or complex biliary work") is **deleted and replaced by the three numbers that answer it plus a link** to the new page. Source added to frontmatter and `## Sources`; `updated:` bumped.
+
+**Index:** 1 source row, 1 new concept row, 1 rewritten concept row.
+
+**`needed-sources.md`:** the **ASGE SOP (Faulx) row deleted** — ingested.
+
+⚠ **Internal tension recorded rather than resolved, because it is the document's own:** Table 3 says **colonoscopy 275** while the text says **500 may be required for some trainees**; Table 3 says **EUS 225** while noting current training guidelines recommend **150**. Both figures are on the page, each with what it means. Separately, the PDF's first page announces "An update to this article is included at the end" but **the copy in `raw/` ends at the 2017 reference list with no update text** — noted on the source page; what the update changes is unknown from this file.
+
+**Cards: none written, deliberately.** This is **practice-management content** — credentialing and privileging are not an order, prescription, scope, resection, referral, stop or schedule decision — the same reason [[aga-2023-telemedicine]] is left uncarded. The page's genuinely clinical numbers are **performance targets owned elsewhere**: cecal intubation and adenoma detection belong to [[colonoscopy-quality-indicators]] (where the 2024 task force has since **raised cecal intubation to ≥95%**, so carding the 2017 >90% here would teach a superseded figure), and the ERCP cannulation rate to [[acg-asge-2026-ercp-quality-indicators]]. No card file was created. *Quality over quota.*
+
+**Steps that did nothing this pass, and why:**
+
+- **Validate the stalest pages · Expand stubs · Fill coverage gaps:** **paused: ingest backlog**, per CLAUDE.md. No stub exists anywhere in `wiki/` in any case.
+- **Daily source fetch:** ran, **0 downloads — nothing qualified** (detail above). Nothing added to `/repo/.fetch-manual.md`.
+- **Deck dupe sweep:** belongs to the card pass; not run here.
+- **Figure capture:** attempted and **blocked by the container's tooling** (ingest 1); recorded on `needed-sources.md` rather than skipped silently.
+- **Anki build:** **blocked — `node` requires interactive approval in this sandbox.** Three card files are written and hand-validated; the 05:00 cron card pass rebuilds. `occ files:scan` not run.
+- **New folders:** none created. **Lint report:** chat only, never written to disk.
+
+**Carried forward for the next pass:**
+
+- **Backlog is still open** — roughly **57 uningested tier-1 guideline/consensus documents** remain in `raw/` after this pass's three.
+- [[endoscope-reprocessing]] is the **top slim candidate** at ~3,150 words, with the split described above.
+- [[eus-guided-biliary-drainage]] remains the slim candidate flagged by the previous pass (3,355 words); untouched here.
+- The **unexplained Anki note-count drop** flagged by the previous pass (4,297 → 4,292 where 4,303 was expected) is **still unreconciled** — no deck build ran this pass, so nothing was learned either way.
+
+---
+
 ## [2026-11-06] lint | Backlog pass — ingest by budget
 
 **Pre-flight:**
