@@ -6,6 +6,30 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-06] update | Card pass — dedup only; card queue confirmed exhausted
+
+**Slim the deck (ran first, as required):**
+
+- `anki-dupes.mjs` → **2 unjudged candidate pairs**, both at 0.40 similarity, both **within a single page** (no cross-page ownership question).
+- `intrahepatic-cholestasis-of-pregnancy` `[cb2004]` vs `[cb2008]` → **distinct.** One is the delivery-timing rule by total bile-acid band, the other is who to refer for *ABCB11*/*ABCB4*/*ATP8B1* testing. They share the >100 micromol/L threshold but test different decisions (when to deliver vs whom to genotype).
+- `familial-adenomatous-polyposis` `[fa9003]` vs `[fa9012]` → **distinct.** Colonoscopy start/interval vs thyroid-ultrasound start/interval — different organ, different instrument, different ages.
+- Both verdicts recorded in `dedup-ledger.tsv`; re-run returns **0 unjudged pairs**. No note retired, no `{also:}` header added.
+
+**Deck rebuilt:** 4,310 notes → `dist/khnl-gi-wiki.txt`, **no problems reported**.
+
+**New cards written: none — nothing qualified.**
+
+- **No card file lacks `page_updated:`** across all 347 files, so no page was left unfinished by an earlier pass.
+- Only **3 of 349 topic pages** are eligible by date, and all three are the standing deliberate skips. Each was re-verified against the page rather than taken on trust:
+- `peginterferon-alfa-2a` — body is **FDA-label-sourced throughout** (dosing tables, cytopenia/renal/ALT/depression modifications, boxed warning, monitoring, interactions), and a label is not a guideline/CPU/consensus, so none of it is cardable. Its only two guideline-backed claims are already carded on their **owner pages**: "rarely used in chronic hepatitis B, functional cure higher than nucleos(t)ide analogues but infrequent" on `[[chronic-hepatitis-b]]` `[b01018]`, and the off-label hepatitis D use on `[[hepatitis-d]]` `[da1009]`.
+- `bristol-stool-form-scale` — every clinical claim cites **Lewis 1997**, a primary paper. Its four guideline sources appear only in the *Where It Drives a Decision* routing table, which by design points at the owner pages that hold the actual cut-points; the page carries no guideline-backed fact of its own.
+- `telemedicine-in-gastroenterology` — practice-management content; no decision a physician acts on, and no tag node covers it.
+- **Deliberately left unfiled, not missed.** A self-picking card pass will keep surfacing these three until an ingest adds guideline-backed, owner-page content to one of them.
+
+**Not done:** no commit, no push (per run instructions).
+
+---
+
 ## [2026-11-06] lint | 06:00 backlog pass — daily fetch + ingest by budget
 
 **Pre-flight:**
