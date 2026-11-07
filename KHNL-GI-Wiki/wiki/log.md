@@ -6,6 +6,34 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-07] update | Card pass — dedup queue cleared, section-anchor backfill 948 notes
+
+**Slim the deck (ran first, as required):** `anki-dupes.mjs` → 3 unjudged candidate pairs at ≥0.40, **all judged `distinct`, 0 merges.** Ledger rows added for each.
+- Rome V criteria for [[dysfunctional-gallbladder-disorder]] (2 criteria) vs [[sphincter-of-oddi-dysfunction]] (3 criteria) — different disorder, different criteria set.
+- Furosemide ceiling in [[ascites]] vs propranolol ceiling in [[nonselective-beta-blockers]] — different drug.
+- Both in [[somatostatin-analogs]]: GEP-NET depot doses vs refractory small-bowel angioectasia regimens — different indication and different doses.
+- Queue now **0 unjudged pairs.**
+
+**New cards: none written — nothing eligible.** Every topic page's card file is current (no `page_updated` older than its page, no file missing one). The only three uncarded pages are the standing deliberate skips: [[peginterferon-alfa-2a]] (label-sourced), [[telemedicine-in-gastroenterology]] (practice management), [[bristol-stool-form-scale]] (primary paper). Quality over quota — the pass wrote no cards rather than lower the bar.
+
+**Section anchors (`{at:}`) — the pass's real work:** 1,347 untagged → **260 untagged in 76 files**; **1,087 notes anchored, 0 refused.** Run in parallel batches over disjoint card files; each batch judged every note against the page's own heading ids.
+- Files completed: all of `tips`, `variceal-upper-gi-bleeding`, `ercp`, `endoscopy-sedation`, `jak-inhibitors`, `intragastric-balloon`, `endoscopic-hemostasis`, `upper-gi-bleeding`, `ascites`, `polypectomy`, `endoscopic-ultrasound`, `colonoscopy-quality-indicators`, `proton-pump-inhibitors`, `flip-panometry`, `anticoagulation-gi-bleeding`, `bowel-preparation`, `colorectal-cancer-screening`, `abdominal-bloating-and-distention`, `ingested-foreign-body`, plus batches 6–7 and 9–11 and 14–16 in full.
+- `{at:-}` (judged, no single section) used ~20 times, mostly where a note tests two facts from different sections or a fact stated only in a page's headingless intro (`remimazolam` c4a005, `argon-plasma-coagulation` d2aede/f50a36).
+- Deck rebuilt: **4,353 notes, 0 problems reported.** Block count on disk equals the exported count. Export rose 4,338 → 4,353; the extra notes are blocks whose headers were previously glued to a neighbouring line and only parsed once `--apply` rewrote them.
+
+**Not finished — next pass continues here (260 notes in 76 files):**
+- Untouched: `biliary-stricture` (8 notes dumped, none applied), `crohns-disease`, `sphincter-of-oddi-dysfunction`, `endoscopic-mucosal-resection`, `endoscopic-full-thickness-resection`, `antireflux-surgery`, `ibd-in-malignancy`, `gastric-cancer-screening`, plus the ~70 remaining small card files (1–5 notes each) across `5-meds/`, `7-concepts/`, `2-diagnostic-schemas/` and `1-disease-scripts/`.
+- `anki-at.py --files` printed **nothing** on repeated tries for three pages that do have untagged notes by direct scan: `colorectal-cancer.md`, `chronic-pancreatitis.md`, `alcohol-associated-liver-disease.md`. All three are `1-disease-scripts/` pages, but other pages in the same folders dumped fine, so it is not simple path depth. Diagnose the helper before the next backfill chunk — these three will otherwise stay in the queue forever.
+
+**Card-fidelity flags surfaced while anchoring (cards testing facts their page may not state) — for triage, not fixed this pass:**
+- [[anti-tnf-agents]] `af0005` — infliximab >5 / adalimumab >7.5 / certolizumab >20 μg/mL trough targets are not on the page; it defers to [[therapeutic-drug-monitoring-ibd]], which is the owner page. Card likely belongs there.
+- [[loperamide]] `1c4021` — tests "2–4 mg before the meal" for IBS-D; the page says the IBS-D dose and timing are not known. Needs review.
+- [[colonoscopy]] — 6 notes (`b4c1b6`–`b4c1b9`, `b4c1d6`, `b4c1d7`) test post-CRC-resection intervals, obstructing-CRC clearing colonoscopy, rectal-cancer surveillance, chromoendoscopy dye technique and EMR plane; the page only links to the owner pages. Candidates to move.
+- [[chronic-constipation]] `cc0040` (abdominal imaging has minimal value) and `cc0025` (Hirschsprung → ARM + deep biopsy); [[colonoscopy-quality-indicators]] `c91011` ("14 days", discharge contact info) and `c9101c` (specimen in its own bottle); [[ambulatory-reflux-monitoring]] `c0d00f` ("no pH study needed"); [[eus-guided-gallbladder-drainage]] LAMS technique notes `9b0009`/`9b000a`/`9b000d` (specs live on [[lumen-apposing-metal-stents]]); [[interventional-eus-vascular]] five notes anchored to the Delphi consensus section without the fact being locatable.
+- [[endoscopic-eradication-therapy]] — `ee7006`–`ee700a` are technique and adverse-event content sitting under the "Where to Perform EET" heading; the page's section boundaries may need fixing.
+
+---
+
 ## [2026-11-07] setup | Anki card links jump to the page section; mobile top bar restored
 
 **Site (`index.html`):**
