@@ -523,6 +523,9 @@
   #find-count { font-size: 11.5px; color: var(--text-muted); font-family: var(--font-mono); white-space: nowrap; padding: 0 4px; }
   mark.find-hit { background: #ffe066; color: #1b1b1b; border-radius: 2px; padding: 0; }
   mark.find-hit.current { background: #ff9632; }
+  /* Heading reached by a #section deep link — brief highlight, then fade */
+  @keyframes anchor-flash { 0%, 40% { background: #ffe066; } 100% { background: transparent; } }
+  .anchor-flash { animation: anchor-flash 2.5s ease-out; border-radius: 4px; }
 
   .meta-badge {
     font-size: 10px;
@@ -1677,10 +1680,16 @@ function routeToView(view) {
   if (view.startsWith('page:')) return navigateTo(view.slice(5));
 }
 // Set the initial history entry and route to whatever URL we loaded on.
+var _pendingAnchor = '';   // heading id from a #section deep link, consumed by navigateTo
 function bootRoute() {
   const view = pathToView(window.location.pathname);
   _pos = 0; _max = 0;
-  history.replaceState({ view: view, idx: 0 }, '', viewToPath(view));
+  // Section deep link (/achalasia#diagnostics — Anki card footers use these):
+  // keep the hash in the URL and jump to that heading once the page renders.
+  let hash = '';
+  try { hash = decodeURIComponent(window.location.hash.slice(1)); } catch (e) {}
+  if (hash && view.startsWith('page:')) _pendingAnchor = hash;
+  history.replaceState({ view: view, idx: 0 }, '', viewToPath(view) + (_pendingAnchor ? '#' + encodeURIComponent(hash) : ''));
   _suppressPush = true;
   try { routeToView(view); } finally { _suppressPush = false; }
   updateNavBtns();
@@ -2887,6 +2896,32 @@ function navigateTo(slug) {
   positionTocBtn();
 
   document.getElementById('content-area').scrollTop = 0;
+  if (_pendingAnchor) { const a = _pendingAnchor; _pendingAnchor = ''; jumpToDeepLink(a); }
+}
+
+// Jump to a heading id (from a #hash deep link) and flash it. Images and
+// Mermaid render after this and push the heading down, so re-align a couple
+// of times — unless the reader has started scrolling themselves.
+function jumpToDeepLink(id) {
+  const body = document.getElementById('page-body');
+  const ca = document.getElementById('content-area');
+  let t = document.getElementById(id);
+  if (!t || !body.contains(t)) t = [...body.querySelectorAll('h2[id], h3[id]')].find(h => h.id.startsWith(id) || id.startsWith(h.id));
+  if (!t) return;
+  let userMoved = false;
+  const stop = () => { userMoved = true; };
+  ca.addEventListener('wheel', stop, { once: true, passive: true });
+  ca.addEventListener('touchstart', stop, { once: true, passive: true });
+  const align = () => {
+    if (userMoved || !t.isConnected) return;
+    ca.scrollTop = t.getBoundingClientRect().top - ca.getBoundingClientRect().top + ca.scrollTop - 12;
+  };
+  requestAnimationFrame(align);
+  setTimeout(align, 400);
+  setTimeout(align, 1500);
+  t.classList.remove('anchor-flash');
+  void t.offsetWidth;
+  t.classList.add('anchor-flash');
 }
 
 // Generate the right-rail "On this page" TOC from h2/h3 headings inside the

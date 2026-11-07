@@ -66,7 +66,7 @@ def same(a, b):
 # before its [id]{source} line (build-anki.mjs parse()). Separators are kept verbatim so an edit
 # touches only its own block.
 
-CARD_LINE = r'\[[0-9a-f]{6}\]\{[a-z0-9-]+\}(?:\{also:[a-z0-9,-]+\})?\s*'   # {also:…} = merged duplicate's pages
+CARD_LINE = r'\[[0-9a-f]{6}\]\{[a-z0-9-]+\}(?:\{(?:also:[a-z0-9,-]+|at:[a-z0-9_-]+)\})*\s*'   # {also:…} = merged duplicate's pages; {at:…} = page section
 
 
 def _blocks(src):

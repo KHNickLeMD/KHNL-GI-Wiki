@@ -85,6 +85,27 @@ const srcLabel = s => {
 const plain = t => t.replace(/\{\{c\d+::(.*?)(?:::.*?)?\}\}/g, '$1').replace(/<[^>]*>/g, ' ')
 const wordCount = t => plain(t).split(/\s+/).filter(Boolean).length
 
+// The h2/h3 ids the site gives a page's headings (index.html buildPageTOC): rendered text,
+// lowercased, [^\w\s-] dropped, spaces → '-', 60 chars, repeats suffixed -2, -3…
+export function headingIds (md) {
+  const seen = {}
+  const ids = []
+  let fence = false
+  for (const line of md.split('\n')) {
+    if (/^\s*(```|~~~)/.test(line)) { fence = !fence; continue }
+    const h = !fence && line.match(/^#{2,3}\s+(.*?)\s*#*\s*$/)
+    if (!h) continue
+    const text = h[1]
+      .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, '$2').replace(/\[\[([^\]]+)\]\]/g, '$1')
+      .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1').replace(/<[^>]*>/g, '').replace(/[*`]/g, '')
+    let id = text.toLowerCase().replace(/[^\w\s-]/g, '').trim().replace(/\s+/g, '-').slice(0, 60)
+    if (!id) id = 'h-' + ids.length
+    if (seen[id]) { seen[id]++; id = id + '-' + seen[id] } else seen[id] = 1
+    ids.push(id)
+  }
+  return ids
+}
+
 export function parse (src, page) {
   const notes = []
   let section = 'active'
@@ -95,13 +116,18 @@ export function parse (src, page) {
     else if (/^#\s*Draft/i.test(lines[0])) { section = 'draft'; lines.shift() }
     if (!lines.length) continue
     // Optional {also:slug,slug} = pages a merged duplicate came from (2026-10-22); footer names them.
-    const m = lines[0].match(/^\[([0-9a-f]{6})\]\{([a-z0-9-]+)\}(?:\{also:([a-z0-9,-]+)\})?\s*/)
+    // Optional {at:heading-id} = the page section the fact lives in (2026-11-07); the footer's page
+    // link jumps there. {at:-} = judged, no single section — link the page top.
+    const m = lines[0].match(/^\[([0-9a-f]{6})\]\{([a-z0-9-]+)\}((?:\{(?:also:[a-z0-9,-]+|at:[a-z0-9_-]+)\})*)\s*/)
     if (!m) throw new Error(`${page}: block must start with [id]{source-slug} — ${lines[0].slice(0, 50)}`)
     lines[0] = lines[0].slice(m[0].length)
+    const also = m[3].match(/\{also:([a-z0-9,-]+)\}/)
+    const at = m[3].match(/\{at:([a-z0-9_-]+)\}/)
     notes.push({
       id: m[1],
       source: m[2],
-      also: m[3] ? m[3].split(',') : [],
+      also: also ? also[1].split(',') : [],
+      at: at ? at[1] : null,
       section,
       text: lines.filter(l => !l.startsWith('>')),
       extra: lines.filter(l => l.startsWith('>')).map(l => l.replace(/^>\s?/, ''))
@@ -152,7 +178,8 @@ function main () {
 
     const wikiFile = join(ROOT, 'wiki', page)
     if (!existsSync(wikiFile)) throw new Error(`${file}: page not found — ${page}`)
-    const [pageFm] = frontmatter(readFileSync(wikiFile, 'utf8'))
+    const [pageFm, pageBody] = frontmatter(readFileSync(wikiFile, 'utf8'))
+    const anchors = new Set(headingIds(pageBody))
     if (fm.page_updated !== pageFm.updated) {
       problems.push(`${page}: cards stale (page ${pageFm.updated}, cards ${fm.page_updated})`)
     }
@@ -165,7 +192,7 @@ function main () {
     if (!pageTags.length) problems.push(`${page}: frontmatter missing 'tags:'`)
     // One source per card, not the page's whole source list — 7 slugs on every card was
     // noise. Which guideline said it is the useful bit, especially where they disagree.
-    const footerFor = (src, also) => `<small><a href="${SITE}/${slug}">${pageFm.title}</a>`
+    const footerFor = (src, also, at) => `<small><a href="${SITE}/${slug}${at && at !== '-' ? '#' + at : ''}">${pageFm.title}</a>`
       + also.map(s => ` · <a href="${SITE}/${s}">${titles[s]}</a>`).join('')
       + ` · <a href="${SITE}/${src}">${srcLabel(src)}</a></small>`
 
@@ -185,11 +212,14 @@ function main () {
         problems.push(`${page} [${note.id}]: unknown source ${note.source}`)
       }
       for (const s of note.also) if (!titles[s]) problems.push(`${page} [${note.id}]: unknown also page ${s}`)
+      if (note.at && note.at !== '-' && !anchors.has(note.at) && note.section !== 'retired') {
+        problems.push(`${page} [${note.id}]: at:${note.at} is not a heading on the page (link falls back to page top)`)
+      }
 
       const text = note.section === 'retired'
         ? 'RETIRED — no longer maintained. {{c1::delete me}}'
         : note.text.join('\n')
-      const extra = backExtra(tsv(note.extra.join('\n')), footerFor(note.source, note.also))
+      const extra = backExtra(tsv(note.extra.join('\n')), footerFor(note.source, note.also, anchors.has(note.at) ? note.at : null))
       rows.push([guid, deck, tags.join(' '), tsv(text), extra].join('\t'))
       notes.push({ guid, file: relative(cardsDir, file), id: note.id, section: note.section, deck, tags, text: tsv(text), extra })
     }
@@ -230,6 +260,12 @@ async function test () {
   assert.deepEqual(notes[0].extra, ['extra line'])
   assert.deepEqual(notes[0].also, [])
   assert.deepEqual(notes[1].also, ['x-y', 'z'])
+  assert.equal(notes[0].at, null)
+  const at = parse('[a1b2c3]{acg-2020-thing}{at:dx-and-tx}{also:q} Atomic {{c1::fact}}', 'p.md')[0]
+  assert.equal(at.at, 'dx-and-tx'); assert.deepEqual(at.also, ['q']); assert.deepEqual(at.text, ['Atomic {{c1::fact}}'])
+  // heading ids match the site's slugger (index.html buildPageTOC)
+  assert.deepEqual(headingIds('## Contents\n### Dx & Tx (EGD)\n```\n## not a heading\n```\n## [[gerd|GERD]] **Severity**\n## Contents'),
+    ['contents', 'dx-tx-egd', 'gerd-severity', 'contents-2'])
   assert.deepEqual(notes[1].text, ['Atomic {{c1::fact}}'])
   assert.throws(() => parse('[abc123] no source', 'p.md'), /source-slug/)
   assert.equal(notes[0].text.length, 3)
