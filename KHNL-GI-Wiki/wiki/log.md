@@ -15,7 +15,11 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 **Cards:**
 - New optional header part `{at:heading-id}` (`{at:-}` = no single section) → footer page link gets `#heading-id`; `build-anki.mjs` validates ids against the page's headings; `anki-sync.py` keeps the tag on in-Anki edits.
 - New helper `website_files/scripts/anki-at.py` (`--status`, `--next N`, `--files`, `--apply`).
-- Backfill: 1,344 notes auto-tagged where text matching was unambiguous; first model batch (160 card files) run the same day; rest queued for the nightly card pass (CLAUDE.md → *Section anchors*). Pre-change backup: `<cards>/dist/cards-backup-2026-11-07-pre-at.tar.gz`.
+- Backfill: 1,344 notes auto-tagged where text matching was unambiguous; first model batch (160 card files): 1,536 notes tagged (42 `{at:-}`), 0 refused; spot-check 8/8 correct. Deck rebuilt: 2,838 of 4,338 notes now link to a section. Remaining: **1,347 notes in 175 files** → nightly card pass (CLAUDE.md → *Section anchors*). Pre-change backup: `<cards>/dist/cards-backup-2026-11-07-pre-at.tar.gz`.
+
+**For triage (found while tagging, not fixed):**
+- Cards testing facts their page no longer states (likely cut in the 2026-10-22 slim pass) — breaks *Cards test the wiki*: Crohn's biologic doses + natalizumab, STARR / balloon-expulsion caveat / anterograde enemas, IBS age-45 colonoscopy, C. difficile in pregnancy, C4CMMRD items, UC non-targeted biopsy protocol, MASLD `47b5c2`, `portal-hypertension` variceal-bleed notes `b10007–b10009`, `b10055`, `b10045` (fact lives on the endoscopy/EVL owner page).
+- `ampullary-adenoma` card `ab4019` is a "merged into…" block outside `# Retired` — still exported as a live card.
 
 ---
 
