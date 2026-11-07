@@ -3,7 +3,7 @@ title: "Familial Adenomatous Polyposis"
 category: disease-script
 tags: [fap, apc, afap, hereditary-crc, polyposis, duodenal-adenoma, desmoid, spigelman, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-11-06
+updated: 2026-11-07
 sources: [acg-2026-adenomatous-polyposis, acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
@@ -42,6 +42,7 @@ Familial adenomatous polyposis (FAP) is caused by a germline pathogenic variant 
 > **Desmoid tumors · cribriform morular carcinoma of the thyroid · bilateral and/or multifocal congenital hypertrophy of the retinal pigment epithelium (CHRPE) · hepatoblastoma** — any one is a **strong** recommendation to test for an *APC* GPV, with no adenoma-count requirement ([[acg-2026-adenomatous-polyposis]] Rec 3).
 
 - **Single-site testing** of a relative is appropriate once the familial GPV is known and explains the whole family phenotype; a negative single-site result in that setting rules the syndrome out ([[acg-2026-adenomatous-polyposis]] KC 2)
+- **Age to test at-risk relatives** — genetic counseling and testing for every first-degree relative of a confirmed polyposis patient: suspected FAP at **10–12 yr**; suspected attenuated FAP or MAP at **18–20 yr**. A child without the *APC* mutation follows average-risk screening ([[asge-2020-fap]] Rec 2, low quality)
 - **Confirmatory *APC* testing in infancy** (ages 6 months–5 years, parents agreeable) may be done specifically to enable hepatoblastoma screening; otherwise defer to the colonoscopy start age ([[asge-2020-fap]]). ACG 2026 counsels that the **evidence does not support hepatoblastoma screening** — see *Extraintestinal Surveillance*
 
 ### Classification / Typing

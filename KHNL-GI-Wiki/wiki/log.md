@@ -17,9 +17,19 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - New helper `website_files/scripts/anki-at.py` (`--status`, `--next N`, `--files`, `--apply`).
 - Backfill: 1,344 notes auto-tagged where text matching was unambiguous; first model batch (160 card files): 1,536 notes tagged (42 `{at:-}`), 0 refused; spot-check 8/8 correct. Deck rebuilt: 2,838 of 4,338 notes now link to a section. Remaining: **1,347 notes in 175 files** → nightly card pass (CLAUDE.md → *Section anchors*). Pre-change backup: `<cards>/dist/cards-backup-2026-11-07-pre-at.tar.gz`.
 
-**For triage (found while tagging, not fixed):**
-- Cards testing facts their page no longer states (likely cut in the 2026-10-22 slim pass) — breaks *Cards test the wiki*: Crohn's biologic doses + natalizumab, STARR / balloon-expulsion caveat / anterograde enemas, IBS age-45 colonoscopy, C. difficile in pregnancy, C4CMMRD items, UC non-targeted biopsy protocol, MASLD `47b5c2`, `portal-hypertension` variceal-bleed notes `b10007–b10009`, `b10055`, `b10045` (fact lives on the endoscopy/EVL owner page).
-- `ampullary-adenoma` card `ab4019` is a "merged into…" block outside `# Retired` — still exported as a live card.
+**Suspected orphaned cards — resolved same day (47 notes):**
+- **On their page after all → anchored (27):** most `{at:-}` from the first tagging batch were wrong; e.g. STARR/SNS/anterograde enemas, IBS age-45, C. diff sequential FMT, Shigella MIC, NCCN stage II high-risk lists, UC surveillance notes, MASLD `47b5c2`. Several Back Extras trimmed to page wording.
+- **Moved to owner page (15, new ids; old ids retired as `moved to …`):** infliximab/adalimumab/certolizumab/biosimilar notes → [[anti-tnf-agents]] (`af0017–af001a`; adalimumab/certolizumab induction is label-only → maintenance only); IUS response/recurrence → [[intestinal-ultrasound]]; albumin → [[nutrition-in-ibd]]; fidaxomicin EXTEND + C. diff pregnancy/lactation → [[cdiff-antibiotics]]; variceal-bleed transfusion/endoscopy timing/secondary prophylaxis → [[variceal-upper-gi-bleeding]]; ceftriaxone (course corrected to 2–5 d) → [[antibiotic-prophylaxis-cirrhosis]]; banding interval → [[endoscopic-band-ligation]].
+- **Merged (3):** `cd2540` → ibd-in-malignancy, `cd2559` → IL-23 page, `c50024` → vedolizumab.
+- **Retired (4):** C4CMMRD score notes `bd100c–bd100f` — `{source}` is the Wimmer 2014 score paper (not tier-1); USMSTF 2017 cites but doesn't print the score.
+- **Restored to page (1):** [[familial-adenomatous-polyposis]] — at-risk relative testing ages (ASGE 2020 Rec 2); card `fa9001` anchored.
+- `atrophic-gastritis` `a9c20a` keeps `{at:-}` (answers span two sections).
+- `ampullary-adenoma` card file: `# Retired` lacked its blank line, so `ab4019` exported live and the heading leaked into the previous card — fixed.
+- Lost scheduling: moved notes get new GUIDs (e.g. reviewed `cd1011`).
+
+**Open for Nick:**
+- ACG 2025 Crohn's prints mirikizumab CD induction as **900 mg subcutaneously** (text confirmed in the PDF); wiki and card `1b2006` follow it. Likely a guideline typo (induction is IV) — needs Nick's call before any change.
+- Dupe candidates for the next dedup pass: `cd2556` vs vedolizumab `4e0006` (natalizumab); `1e0b95` vs `fe9493` (banding interval).
 
 ---
 
