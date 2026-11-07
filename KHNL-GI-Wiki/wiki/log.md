@@ -6,6 +6,19 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-07] setup | Anki card links jump to the page section; mobile top bar restored
+
+**Site (`index.html`):**
+- Restored the 2026-10-30 mobile top-bar work, which was never committed and got wiped by a cron `reset --hard`: find-in-page bar, no breadcrumb at phone width, ☆/✓ shown when signed out (`7ddd450`).
+- `/page#heading-id` deep links scroll to that h2/h3 after render and flash it.
+
+**Cards:**
+- New optional header part `{at:heading-id}` (`{at:-}` = no single section) → footer page link gets `#heading-id`; `build-anki.mjs` validates ids against the page's headings; `anki-sync.py` keeps the tag on in-Anki edits.
+- New helper `website_files/scripts/anki-at.py` (`--status`, `--next N`, `--files`, `--apply`).
+- Backfill: 1,344 notes auto-tagged where text matching was unambiguous; first model batch (160 card files) run the same day; rest queued for the nightly card pass (CLAUDE.md → *Section anchors*). Pre-change backup: `<cards>/dist/cards-backup-2026-11-07-pre-at.tar.gz`.
+
+---
+
 ## [2026-11-08] update | Card pass — one stale page closed; build unblocked by invalid card ids
 
 **Slim the deck (ran first, as required):** `anki-dupes.mjs` → **0 unjudged candidate pairs** at ≥0.40. Nothing to judge, nothing to merge, no ledger rows added.
