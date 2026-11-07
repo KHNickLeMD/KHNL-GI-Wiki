@@ -495,6 +495,35 @@
     flex-shrink: 0;
   }
 
+  /* Find (within this page) — topbar button + floating bar under the topbar */
+  #topbar-find-btn, .find-bar-btn {
+    border: none; background: none; cursor: pointer; padding: 0;
+    width: 26px; height: 26px; border-radius: 6px; flex-shrink: 0;
+    display: inline-flex; align-items: center; justify-content: center;
+    color: var(--text-muted);
+    transition: color 0.15s, background 0.15s;
+  }
+  #topbar-find-btn:hover, #topbar-find-btn.on, .find-bar-btn:hover { color: var(--accent); background: var(--accent-light); }
+  #topbar-find-btn:focus-visible, .find-bar-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+  #find-bar {
+    display: none;
+    position: fixed; top: 54px; right: 16px; z-index: 300;
+    width: 340px; max-width: calc(100vw - 16px); box-sizing: border-box;
+    align-items: center; gap: 4px;
+    padding: 6px 6px 6px 10px;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 10px; box-shadow: var(--shadow-md);
+  }
+  #find-bar.open { display: flex; }
+  #find-input {
+    flex: 1; min-width: 0;
+    border: none; outline: none; background: none;
+    color: var(--text); font: inherit; font-size: 14px; padding: 4px 0;
+  }
+  #find-count { font-size: 11.5px; color: var(--text-muted); font-family: var(--font-mono); white-space: nowrap; padding: 0 4px; }
+  mark.find-hit { background: #ffe066; color: #1b1b1b; border-radius: 2px; padding: 0; }
+  mark.find-hit.current { background: #ff9632; }
+
   .meta-badge {
     font-size: 10px;
     font-weight: 600;
@@ -1251,6 +1280,10 @@
     #sidebar.open { transform: translateX(0); }
     #main { margin-left: 0 !important; }
     #topbar { padding-left: 52px; }
+    /* No breadcrumb on phones — the room goes to find / share / ☆ / ✓ */
+    #breadcrumb { display: none; }
+    #topbar-find-btn { margin-left: auto; }
+    #find-bar { left: 8px; right: 8px; }
     #content-area { padding: 20px 16px 40px; }
     #page-view.with-rail {
       display: block;
@@ -1349,6 +1382,12 @@
       </button>
     </div>
     <div id="breadcrumb"><span class="bc-item current">Home</span></div>
+    <button id="topbar-find-btn" type="button" title="Find on this page" aria-label="Find on this page" onclick="toggleFind()">
+      <svg viewBox="0 0 16 16" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true">
+        <circle cx="7" cy="7" r="4.6"></circle>
+        <line x1="10.4" y1="10.4" x2="14" y2="14"></line>
+      </svg>
+    </button>
     <div id="page-meta-top"></div>
     <button id="toc-collapse-btn" onclick="toggleTocCollapse()" title="Hide outline" aria-label="Toggle outline">
       <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true">
@@ -1356,6 +1395,21 @@
         <line x1="14.5" y1="4" x2="14.5" y2="20"></line>
         <rect x="15.5" y="5" width="4.5" height="14" rx="1.3" fill="currentColor" opacity="0.3" stroke="none"></rect>
       </svg>
+    </button>
+  </div>
+
+  <!-- Find within this page (opened by #topbar-find-btn) -->
+  <div id="find-bar" role="search" aria-label="Find on this page">
+    <input id="find-input" type="text" placeholder="Find on this page" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="next" aria-label="Find on this page">
+    <span id="find-count" aria-live="polite"></span>
+    <button class="find-bar-btn" type="button" title="Previous (Shift+Enter)" aria-label="Previous match" onclick="findPrev()">
+      <svg viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="3,10 8,5 13,10"></polyline></svg>
+    </button>
+    <button class="find-bar-btn" type="button" title="Next (Enter)" aria-label="Next match" onclick="findNext()">
+      <svg viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="3,6 8,11 13,6"></polyline></svg>
+    </button>
+    <button class="find-bar-btn" type="button" title="Close (Esc)" aria-label="Close find" onclick="closeFind()">
+      <svg viewBox="0 0 16 16" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><line x1="4" y1="4" x2="12" y2="12"></line><line x1="12" y1="4" x2="4" y2="12"></line></svg>
     </button>
   </div>
 
@@ -3242,7 +3296,7 @@ searchInput.addEventListener('focus', () => { ensureSemantic(); });
 
 // "/" to focus search (works identically on Mac and Windows)
 document.addEventListener('keydown', (e) => {
-  if (e.key === '/' && document.activeElement !== searchInput && !e.ctrlKey && !e.metaKey && !e.altKey) {
+  if (e.key === '/' && document.activeElement !== searchInput && document.activeElement !== findInput && !e.ctrlKey && !e.metaKey && !e.altKey) {
     e.preventDefault();
     searchInput.focus();
     searchInput.select();
@@ -3397,6 +3451,113 @@ function clearSearch() {
 
 function escRegex(str) { return str.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'); }
 function searchTag(tag) { searchInput.value = tag; searchInput.dispatchEvent(new Event('input')); }
+
+// ═══════════════════════════════════════════════════════
+//  FIND — within the current page (topbar 🔍 button; Ctrl+F style)
+//  "Find" = this page only; "search" = the sidebar's site-wide search.
+//  Wraps hits in <mark class="find-hit"> inside #content-area's visible view;
+//  marks are unwrapped on close, on a new query, and on every route change.
+// ═══════════════════════════════════════════════════════
+const findBar = document.getElementById('find-bar');
+const findInput = document.getElementById('find-input');
+const findCount = document.getElementById('find-count');
+let findHits = [], findIdx = -1, _findTimer = null;
+
+function openFind() {
+  findBar.classList.add('open');
+  document.getElementById('topbar-find-btn').classList.add('on');
+  findInput.focus();   // synchronous with the tap so iOS raises the keyboard
+  findInput.select();
+  if (findInput.value.trim()) runFind(findInput.value);
+}
+function closeFind() {
+  findBar.classList.remove('open');
+  document.getElementById('topbar-find-btn').classList.remove('on');
+  clearFindMarks();
+  findInput.blur();
+}
+function toggleFind() { findBar.classList.contains('open') ? closeFind() : openFind(); }
+
+function clearFindMarks() {
+  const parents = new Set();
+  document.querySelectorAll('mark.find-hit').forEach(m => {
+    parents.add(m.parentNode);
+    m.replaceWith(document.createTextNode(m.textContent));
+  });
+  parents.forEach(p => p && p.normalize());
+  findHits = []; findIdx = -1;
+  findCount.textContent = '';
+}
+
+function runFind(q) {
+  clearFindMarks();
+  q = q.trim();
+  if (!q) return;
+  const re = new RegExp(escRegex(q), 'gi');
+  const hasHit = new RegExp(escRegex(q), 'i'); // non-global: .test() keeps no lastIndex state
+  const root = document.getElementById('content-area');
+  const visible = new Map(); // parent element -> rendered? (skips hidden views/sections)
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+    acceptNode(n) {
+      const p = n.parentElement;
+      if (!p || p.closest('script,style,svg,textarea,input,mark')) return NodeFilter.FILTER_REJECT;
+      if (!visible.has(p)) visible.set(p, p.getClientRects().length > 0);
+      return visible.get(p) && hasHit.test(n.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
+    },
+  });
+  const nodes = [];
+  while (walker.nextNode()) nodes.push(walker.currentNode);
+  for (const node of nodes) {
+    const text = node.nodeValue, frag = document.createDocumentFragment();
+    let last = 0;
+    re.lastIndex = 0;
+    for (let m; (m = re.exec(text)); ) {
+      if (m.index > last) frag.appendChild(document.createTextNode(text.slice(last, m.index)));
+      const mark = document.createElement('mark');
+      mark.className = 'find-hit';
+      mark.textContent = m[0];
+      frag.appendChild(mark);
+      findHits.push(mark);
+      last = m.index + m[0].length;
+    }
+    if (last < text.length) frag.appendChild(document.createTextNode(text.slice(last)));
+    node.replaceWith(frag);
+  }
+  if (findHits.length) gotoFind(0);
+  else findCount.textContent = '0/0';
+}
+
+function gotoFind(i) {
+  if (!findHits.length) return;
+  if (!findHits[0].isConnected) { runFind(findInput.value); return; } // view re-rendered under us
+  if (findIdx >= 0) findHits[findIdx].classList.remove('current');
+  findIdx = (i + findHits.length) % findHits.length;
+  const m = findHits[findIdx];
+  m.classList.add('current');
+  m.scrollIntoView({ block: 'center' });
+  findCount.textContent = `${findIdx + 1}/${findHits.length}`;
+}
+function findNext() { gotoFind(findIdx + 1); }
+function findPrev() { gotoFind(findIdx - 1); }
+
+findInput.addEventListener('input', () => {
+  clearTimeout(_findTimer);
+  _findTimer = setTimeout(() => runFind(findInput.value), 150);
+});
+findInput.addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') {
+    e.preventDefault();
+    clearTimeout(_findTimer);
+    if (!findHits.length || !findHits[0].isConnected) runFind(findInput.value);
+    else e.shiftKey ? findPrev() : findNext();
+  } else if (e.key === 'Escape') {
+    e.preventDefault();
+    closeFind();
+  }
+});
+// New page/view → drop the old hits (Enter in the open bar finds again on the new page).
+// Not re-run automatically: the notes layer anchors on the page text right after nav.
+document.addEventListener('khnl:nav', clearFindMarks);
 
 // ── Sidebar collapse (desktop) ──
 function toggleSidebarCollapse() {

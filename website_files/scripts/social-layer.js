@@ -1142,13 +1142,24 @@
     if (old) old.remove();
     var oldRv = document.getElementById("khnl-rv");
     if (oldRv) oldRv.remove();
+    var oldPill = document.getElementById("khnl-rv-stale");
+    if (oldPill) oldPill.remove();
     var host = document.getElementById("page-meta-top");
-    if (!host || !state.user || lastView.indexOf("page:") !== 0) return;
+    if (!host || lastView.indexOf("page:") !== 0) return;
     var slug = lastView.slice(5).toLowerCase();
     var title = ((document.getElementById("page-title") || {}).textContent || slug).trim();
 
     var btn = el('<button id="khnl-star" class="khnl-star" title="Bookmark this page" aria-label="Bookmark this page">☆</button>');
     host.appendChild(btn);
+
+    // Signed out: show both toggles anyway (so they're discoverable) — a tap opens sign-in
+    if (!state.user) {
+      var rvOut = el('<button id="khnl-rv" class="khnl-rv" title="Sign in to mark as reviewed" aria-label="Mark as reviewed">✓</button>');
+      host.appendChild(rvOut);
+      btn.title = "Sign in to bookmark";
+      [btn, rvOut].forEach(function (b) { b.addEventListener("click", function () { openAuth("login"); }); });
+      return;
+    }
 
     function paint(on) {
       btn.classList.toggle("on", !!on);
