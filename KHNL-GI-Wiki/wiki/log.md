@@ -6,6 +6,29 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-08] update | Card pass — one stale page closed; build unblocked by invalid card ids
+
+**Slim the deck (ran first, as required):** `anki-dupes.mjs` → **0 unjudged candidate pairs** at ≥0.40. Nothing to judge, nothing to merge, no ledger rows added.
+
+**Build was failing before any card was written — fixed.** The card file for [[dysfunctional-gallbladder-disorder]] (written on the 2026-11-08 ingest pass) used ids `gb0101`–`gb0106`. Note ids must be **6 hexadecimal characters**; `g` is not one, so `build-anki.mjs` threw on that file and no deck was produced at all. Renumbered to `9b0101`–`9b0106`. Those six notes had never exported, so no scheduling existed to preserve.
+
+**Cards written — one page, one note:**
+
+- [[pancreas-divisum]] — card file was stale (card 2026-11-04, page 2026-11-08). Added `c46d02`: minor papilla sphincterotomy for recurrent acute pancreatitis in pancreas divisum showed **no benefit over sham** in the randomized sham-controlled trial, per [[rome-v-2026-gallbladder-sphincter-of-oddi]]. Back Extra carries the mechanism point — pancreas divisum is not a sphincter disorder, the minor papilla is not a true anatomic sphincter. `page_updated:` bumped to 2026-11-08 as the last edit.
+- The page's other new material was **not** carded: the AGA 2022 endotherapy indication (objective outflow obstruction; no role for pain alone) is already owned by [[ercp]] (`c46b13`), and the MRCP-vs-EUS point by [[recurrent-acute-pancreatitis]] (`ad1003`). Existing `c46d01` re-checked and still correct.
+
+**Deck rebuilt:** **4338 notes → `dist/khnl-gi-wiki.txt`**, **zero problems reported** — no stale-card backlog remaining.
+
+**No further pages eligible.** 351 topic pages, 348 card files; every `page_updated:` is current, no file is missing one, no orphan card files, no path mismatches.
+
+**Three uncarded pages remain, all deliberate skips, each re-read this pass rather than taken on trust:**
+
+- [[bristol-stool-form-scale]] — every substantive fact is Lewis 1997, a primary paper; the clinical cut-points live on the guideline pages that act on them and are carded there.
+- [[peginterferon-alfa-2a]] — label content throughout. Its only two guideline-backed facts are already carded on [[chronic-hepatitis-b]] (`b01018`) and [[hepatitis-d]] (`da1005`, `da1009`).
+- [[telemedicine-in-gastroenterology]] — tier-1 CPU, but the content is billing codes, licensure, documentation and clinic workflow. Nothing passes the high-yield test, and no existing tag node covers practice management.
+
+---
+
 ## [2026-11-08] lint | Backlog pass — ingesting raw/ files that needed-sources.md was still asking for
 
 **Daily source fetch (06:00): nothing downloaded, nothing qualified.**
