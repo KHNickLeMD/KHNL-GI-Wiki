@@ -3,8 +3,8 @@ title: "Colon Ischemia"
 category: disease-script
 tags: [colon-ischemia, ischemic-colitis, mesenteric-ischemia, hematochezia, colonoscopy, surgery, vascular]
 created: 2026-05-21
-updated: 2026-10-12
-sources: [acg-2015-colon-ischemia]
+updated: 2026-11-08
+sources: [acg-2015-colon-ischemia, sis-2024-intra-abdominal-infection]
 ---
 
 ## Contents
@@ -170,10 +170,22 @@ Severity classification and management (Table 6, American College of Gastroenter
 
 **Moderate CI:**
 
-- Supportive care as above plus **antimicrobial therapy** *(Strong, very low)* — the guideline says **"broad-spectrum"** and deliberately specifies **no agent, combination, or duration**; no randomized human trial stratified by severity exists
+- Supportive care as above plus **antimicrobial therapy** *(Strong, very low)* — the guideline says **"broad-spectrum"** and specifies no agent, combination, or duration; no randomized human trial stratified by severity exists. [[acg-2015-colon-ischemia]] states a properly designed randomized controlled trial (RCT) of antibiotics stratified by severity is unlikely ever to be performed, and directs the reader to an intra-abdominal-infection guideline for the regimen
 - Surgical consultation (Table 6)
 
-> [[acg-2015-colon-ischemia]] gives no antibiotic regimen, dose, or duration for CI, and states a properly designed randomized controlled trial (RCT) of antibiotics stratified by severity is unlikely ever to be performed; take the regimen from an intra-abdominal-infection guideline (e.g. Infectious Diseases Society of America/Surgical Infection Society [IDSA/SIS]).
+**Regimen — from [[sis-2024-intra-abdominal-infection|SIS 2024]]**, whose risk strata map onto CI severity (moderate CI ≈ lower risk; severe CI with sepsis/septic shock or Acute Physiology and Chronic Health Evaluation [APACHE]-II ≥10 ≈ higher risk):
+
+| | Lower risk (moderate CI) | Higher risk (severe CI, sepsis/septic shock) |
+|---|---|---|
+| **First line** | cefotaxime **or** ceftriaxone **+ metronidazole**, **or** ertapenem *(1-A)* | cefepime + metronidazole *(1-A)*; piperacillin-tazobactam *(1-A)*; imipenem-cilastatin **or** meropenem *(1-A)* |
+| **Serious β-lactam allergy** | ciprofloxacin + metronidazole, **or** moxifloxacin monotherapy *(1-A)* | — |
+| **ESBL-endemic area** | avoid most cephalosporin-, aztreonam- or fluoroquinolone-based regimens *(1-B)*; ertapenem *(1-B)* | broad-spectrum carbapenem *(1-B)*; ceftazidime-avibactam + metronidazole *(1-B)* |
+| **Do not add** | broader-spectrum, anti-pseudomonal or anti-enterococcal cover *(1-A)*; vancomycin *(1-B)*; tigecycline *(1-B)* | adjunctive aminoglycoside or fluoroquinolone on top of a β-lactam *(1-B)*; empiric antifungal *(1-B)* |
+
+- **Metronidazole is the preferred anti-anaerobic partner** in any combination regimen, at either risk stratum *(1-A)* ([[sis-2024-intra-abdominal-infection]]).
+- **Duration: four days (96 h) after adequate source control** *(1-A)*; four days also when source control was percutaneous drainage, and in sepsis *(both 1-B)*; **eight days** is the ceiling in critically ill patients *(2-B)*. Diabetes, obesity and higher illness severity do **not** justify a longer course *(1-B)*. Where CI resolves without a source-control procedure, SIS gives no separate duration.
+- **Switch IV → oral** once gastrointestinal function returns, using an agent with good bioavailability — e.g. oral ciprofloxacin + metronidazole — to *complete*, not extend, the course *(1-B)*.
+- In severe CI going to surgery, give the antibiotic **within one hour before incision** if ≥2 half-lives of the prior dose have elapsed *(1-B)*, and achieve source control **within six hours** when septic shock is present *(1-B)*.
 
 **Severe CI / Surgical Indications** [[acg-2015-colon-ischemia]]:
 Surgery is required (Strong, Moderate evidence) when:
@@ -243,3 +255,4 @@ Review and stop implicated drugs, and address precipitants (hypovolemia, hypoten
 ## Sources
 
 1. [[acg-2015-colon-ischemia|ACG Clinical Guideline: Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, and Management of Colon Ischemia]]
+2. [[sis-2024-intra-abdominal-infection|The Surgical Infection Society Guidelines on the Management of Intra-Abdominal Infection: 2024 Update]]

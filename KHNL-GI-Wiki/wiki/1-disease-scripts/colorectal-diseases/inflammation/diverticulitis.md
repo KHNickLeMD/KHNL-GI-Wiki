@@ -3,8 +3,8 @@ title: "Colonic Diverticulitis"
 category: disease-script
 tags: [diverticulitis, diverticular-disease, colorectal, antibiotics, hinchey, scad, sudd]
 created: 2026-07-23
-updated: 2026-11-03
-sources: [acg-2026-diverticulitis, aga-2021-colonic-diverticulitis, aga-2015-acute-diverticulitis]
+updated: 2026-11-08
+sources: [acg-2026-diverticulitis, aga-2021-colonic-diverticulitis, aga-2015-acute-diverticulitis, sis-2024-intra-abdominal-infection]
 ---
 
 Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% (women). **88%** present as acute *uncomplicated* disease. Two modern reversals define management: antibiotics are **selective, not routine** for low-risk uncomplicated disease, and the number of episodes no longer drives elective surgery.
@@ -117,6 +117,10 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 
   - Amoxicillin-clavulanate ≈ metronidazole + fluoroquinolone for outpatient diverticulitis, and may reduce fluoroquinolone harms (incl. *[[clostridioides-difficile|C. difficile]]*).
 - AGA 2015 reached the same "selective, not routine" position (*conditional, low quality*) and set the boundary of the trial evidence: it came from **inpatients with CT-confirmed uncomplicated disease**, and does not extend to abscess or fistula, signs of severe infection or sepsis, immunosuppression, or other significant comorbidities.
+- **Complicated disease needing drainage or surgery** — stop rules from [[sis-2024-intra-abdominal-infection|SIS 2024]], which treats diverticulitis as complicated intra-abdominal infection:
+  - **Source control within 12 hours**, or **within 6 hours** if septic shock is present *(both Grade 1-B)*; start antimicrobials **within 1 hour** in sepsis *(1-B)*.
+  - **Stop at four days (96 h) after adequate source control** *(1-A)* — including when source control was **percutaneous abscess drainage** *(1-B)*. Diabetes, obesity and higher illness severity do **not** earn a longer course *(1-B)*; eight days is the ceiling even in critically ill patients *(2-B)*.
+  - Inpatient empiric choice follows risk stratum, not the diagnosis: lower risk → cefotaxime/ceftriaxone + metronidazole or ertapenem *(1-A)*; higher risk → cefepime + metronidazole, piperacillin-tazobactam, or imipenem-cilastatin/meropenem *(1-A)*. **Do not add vancomycin, tigecycline, or anti-enterococcal or antifungal cover empirically.**
 - **Diet during an acute episode:** limited evidence; a clear-liquid diet for the first few days may ease discomfort (no proof it speeds healing).
 
 ### Post-recovery colonoscopy
@@ -183,3 +187,4 @@ Recurrence is common and rises with each episode (10-yr risk: ≥22% after 1st, 
 1. [[acg-2026-diverticulitis|ACG Clinical Guideline: Colonic Diverticulitis (2026)]]
 2. [[aga-2021-colonic-diverticulitis|AGA Clinical Practice Update on Medical Management of Colonic Diverticulitis: Expert Review (2021)]]
 3. [[aga-2015-acute-diverticulitis|American Gastroenterological Association Institute Guideline on the Management of Acute Diverticulitis (2015)]]
+4. [[sis-2024-intra-abdominal-infection|The Surgical Infection Society Guidelines on the Management of Intra-Abdominal Infection: 2024 Update]]

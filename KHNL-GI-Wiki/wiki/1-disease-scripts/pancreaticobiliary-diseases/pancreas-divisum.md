@@ -3,8 +3,8 @@ title: "Pancreas Divisum"
 category: disease-script
 tags: [pancreas-divisum, congenital-anomaly, recurrent-acute-pancreatitis, minor-papilla, ercp, hpb]
 created: 2026-07-29
-updated: 2026-11-04
-sources: [acg-asge-2026-ercp-quality-indicators, aga-2022-recurrent-pancreatitis-endoscopy]
+updated: 2026-11-08
+sources: [acg-asge-2026-ercp-quality-indicators, aga-2022-recurrent-pancreatitis-endoscopy, rome-v-2026-gallbladder-sphincter-of-oddi]
 ---
 
 # Pancreas Divisum
@@ -60,7 +60,7 @@ sources: [acg-asge-2026-ercp-quality-indicators, aga-2022-recurrent-pancreatitis
 - **Best candidates:** patients with **objective signs of outflow obstruction** (dilated dorsal pancreatic duct and/or santorinicele) may be more likely to benefit; evidence-based predictors of response are not yet defined.
 - **No role for ERCP for abdominal pain alone** in PD (best practice advice [BPA] 2).
 - **Evidence:** uncontrolled retrospective series suggest endotherapy reduces/eliminates RAP in ~60–80%; only randomized controlled trial (RCT) (n=19) showed minor papilla stenting reduced future AP (10% vs 67%, P<.05), but stenting alone does not durably reshape the dorsal system. Systematic reviews of observational data suggest **>70%** benefit, limited by heterogeneity in study subjects and interventions.
-  - ⚠ **The sham-controlled trial has now reported, and it was negative.** A **large-scale multicentre randomized sham-controlled RCT presented at Digestive Disease Week 2025** found **minor papilla sphincterotomy did not significantly reduce recurrence of acute pancreatitis** versus sham — challenging the longstanding practice of empiric minor papilla sphincterotomy in this population. Reported in **abstract form only**. ([[acg-asge-2026-ercp-quality-indicators]])
+  - ⚠ **The sham-controlled trial has now reported, and it was negative.** **SHARP** (Sphincterotomy for Acute Recurrent Pancreatitis) — international, multicentre, randomized, **sham-controlled** — found **minor papilla sphincterotomy did not reduce recurrence of acute pancreatitis** versus sham, challenging the longstanding practice of empiric minor papilla sphincterotomy here. First seen in abstract form (Digestive Disease Week 2025); now carried as a reported result in [[rome-v-2026-gallbladder-sphincter-of-oddi|Rome V]], which adds that **PD is not considered a sphincter disorder** — the minor papilla does not comprise a true anatomic sphincter, and the imbalance between dorsal flow volume and minor-papilla calibre, not sphincter overactivity, is the putative mechanism. ([[acg-asge-2026-ercp-quality-indicators]], [[rome-v-2026-gallbladder-sphincter-of-oddi]])
 - **Adverse events (must weigh before proceeding):**
   - Post-ERCP pancreatitis **10–15%**
   - Post-papillotomy (minor papilla) **stenosis up to 19% (1 in 5)** — may cause RAP frequency *higher* than baseline
@@ -80,3 +80,4 @@ sources: [acg-asge-2026-ercp-quality-indicators, aga-2022-recurrent-pancreatitis
 
 1. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022: Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis]]
 2. [[acg-asge-2026-ercp-quality-indicators|ACG/ASGE 2026: Quality Indicators for ERCP]]
+3. [[rome-v-2026-gallbladder-sphincter-of-oddi|Rome V (2026): Gallbladder and Sphincter of Oddi Disorders]]

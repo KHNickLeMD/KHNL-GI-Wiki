@@ -3,8 +3,8 @@ title: "Pancreatic Ductal Adenocarcinoma (Pancreatic Cancer)"
 category: disease-script
 tags: [pancreatic-cancer, pdac, oncology, screening, genetics, brca, eus, hpb]
 created: 2026-06-04
-updated: 2026-10-07
-sources: [jeurnink-2010-sustent-goo, kastelijn-2023-enduro-protocol, asge-2022-pancreatic-cancer-screening, asge-2024-solid-pancreatic-masses, asge-2016-solid-pancreatic-neoplasia, acg-2018-pancreatic-cysts, acg-2015-hereditary-gi-cancer]
+updated: 2026-11-08
+sources: [jeurnink-2010-sustent-goo, kastelijn-2023-enduro-protocol, asge-2022-pancreatic-cancer-screening, asge-2024-solid-pancreatic-masses, asge-2016-solid-pancreatic-neoplasia, acg-2018-pancreatic-cysts, acg-2015-hereditary-gi-cancer, sis-2024-intra-abdominal-infection]
 ---
 
 Pancreatic ductal adenocarcinoma (PDAC) is the dominant malignancy of the exocrine pancreas and the disease meant by "pancreatic cancer" in most clinical contexts. Biologically aggressive, usually diagnosed late; lifetime incidence ~1.6%, ~10% 5-year survival; ~3% of new US cancers and ~8% of cancer deaths in 2020 ([[asge-2022-pancreatic-cancer-screening]]). Stage at diagnosis dominates prognosis: 93% 10-year survival for stage 0 and 34%–39% 5-year survival for stage I, versus ~80% of patients presenting with advanced/inoperable disease.
@@ -82,7 +82,7 @@ Germline pathogenic variants account for a meaningful share of PDAC — [[brca-p
 - **[[lynch-syndrome|Lynch syndrome]]** with a first- or second-degree relative with pancreatic cancer.
 - **[[hereditary-pancreatitis|Autosomal-dominant hereditary pancreatitis]]**.
 
-*The list above is ordinal, not quantitative: the **relative risk of pancreatic cancer for each syndrome** (from Peutz-Jeghers at the top down to ATM), paired with its screening start age, is tabulated on [[pancreatic-cancer-screening]] from [[acg-2015-hereditary-gi-cancer]] — consult it before deciding whether a given carrier crosses the threshold to screen.*
+*The list above is ordinal, not quantitative: the **relative risk of pancreatic cancer for each syndrome** (from Peutz-Jeghers at the top down to ATM), paired with its screening start age, is tabulated on [[pancreatic-cancer-screening]] from [[acg-2015-hereditary-gi-cancer, sis-2024-intra-abdominal-infection]] — consult it before deciding whether a given carrier crosses the threshold to screen.*
 
 Per [[asge-2022-pancreatic-cancer-screening|ASGE 2022]], BRCA1/2 carriers should be considered for screening **regardless of family history** of pancreatic cancer, because ~2 of 3 BRCA-associated cancers would otherwise be missed. A family history of pancreatic cancer *not* meeting FPC criteria confers ~2-fold increased risk but is generally not an indication for screening on its own; diabetes, older age, smoking, [[obesity]], and [[chronic-pancreatitis|chronic pancreatitis]] raise risk to a lesser degree than the genetic conditions above.
 
@@ -174,6 +174,7 @@ flowchart TD
 
 - Technique: consider biliary sphincterotomy before stent insertion in a native papilla; use a **10-mm** fully or partially covered SEMS; select the **shortest stent length that bridges the stricture by 10 mm and still ends 2 cm below the hepatic hilum**; with the gallbladder in situ, terminate the proximal end **below the cystic duct take-off**.
 - **Avoid preoperative ERCP** for resectable PDAC with obstructive jaundice in the absence of [[acute-cholangitis|cholangitis]] unless operative resection will be substantially delayed — preoperative biliary drainage increases perioperative complications ([[asge-2016-solid-pancreatic-neoplasia]]).
+- **If the duct was drained preoperatively, send bile for culture and tell the surgeon.** Perioperative prophylaxis for hepatopancreatobiliary cancer surgery should be **targeted to the preoperative bile culture** *(Grade 1-A)*, and in pancreaticoduodenectomy after preoperative biliary drainage with **positive** bile cultures, prophylaxis should run **at least 24 hours** post-operatively to prevent organ-space surgical site infection *(Grade 2-C)* — optimal duration beyond 24 h is undefined. *Enterococcus* is the organism most often isolated when regimens lacking anti-enterococcal activity fail ([[sis-2024-intra-abdominal-infection]]).
 
 **Gastroduodenal obstruction.** Roughly **15–20% of patients with pancreatic adenocarcinoma develop [[gastric-outlet-obstruction|gastric outlet obstruction]]** ([[kastelijn-2023-enduro-protocol]]) — it was the underlying malignancy in 28 of 39 patients in the SUSTENT trial. The choice of palliation is **keyed to expected survival**, because the options fail in opposite directions:
 
@@ -209,3 +210,4 @@ Weigh before enrolling a high-risk individual: across screened cohorts, low-yiel
 5. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
 6. [[jeurnink-2010-sustent-goo|Surgical gastrojejunostomy or endoscopic stent placement for the palliation of malignant gastric outlet obstruction (SUSTENT study): a multicenter randomized trial]]
 7. [[kastelijn-2023-enduro-protocol|Endoscopic ultrasonography-guided gastroenterostomy versus surgical gastrojejunostomy for palliation of malignant gastric outlet obstruction (ENDURO): study protocol for a randomized controlled trial]]
+8. [[sis-2024-intra-abdominal-infection|The Surgical Infection Society Guidelines on the Management of Intra-Abdominal Infection: 2024 Update]]
