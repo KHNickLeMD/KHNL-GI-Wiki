@@ -6,6 +6,26 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-07] update | Card pass — deck rebuilt; no candidates, no eligible pages
+
+**Slim the deck (ran first, as required):** `anki-dupes.mjs` → **0 unjudged candidate pairs** at ≥0.40. Nothing to judge, nothing to merge, no ledger rows added — skipped straight to cards per the rule.
+
+**Deck rebuilt — clears the previous pass's ⚠.** The 2026-11-07 ingest pass wrote its card files but could not build (`node` blocked in that sandbox). `build-anki.mjs` ran clean here: **4320 notes → `dist/khnl-gi-wiki.txt`**, **zero problems reported** — so the `da100a`–`da100g`, `5f2006`/`5f2007`/`7d0008` notes and the `da1005`/`da1006`/`7d0006` edits are all exported and valid. The standing "cards stale" backlog no longer reports anything.
+
+**No cards written — nothing eligible (Quality over quota).**
+
+- **No unfinished page:** all **347** card files carry a `page_updated:` line, so no earlier pass left one mid-page to resume.
+- **No stale card file:** every `page_updated:` is at or after its page's `updated:` date. Verified against the pages the last ingest touched — [[hepatitis-d]], [[thiopurines]] and [[therapeutic-drug-monitoring-ibd]] are all page 2026-11-07 / card 2026-11-07.
+- **Three uncarded pages remain, all deliberate skips, each re-checked rather than taken on trust:**
+  - [[peginterferon-alfa-2a]] — re-read in full this pass because its frontmatter now lists two tier-1 sources. Body is **label-sourced throughout** (doses, dose modification, contraindications, monitoring, toxicities all from the FDA prescribing information, which is not a guideline/CPU/consensus). Its only two guideline-backed facts are **drug-choice** facts, owned elsewhere by the one-owner rule: peg-IFN's place in chronic hepatitis B → [[chronic-hepatitis-b]], and off-label use as the only US-available hepatitis D therapy → [[hepatitis-d]]. Skip stands.
+  - [[bristol-stool-form-scale]] — content is the primary derivation paper; the guideline thresholds that cite it are carded on their owner pages.
+  - [[telemedicine-in-gastroenterology]] — practice-management content; fails the high-yield test (changes no order, prescription, scope or referral).
+- Neither of the latter two has changed since it was last judged (pages updated 2026-10-27 and 2026-10-01), so no re-read was warranted.
+
+**Nothing committed or pushed** (per run instructions). ⚠ `occ files:scan` not run — unreachable from this container; the next cron build will refresh what Nextcloud serves.
+
+---
+
 ## [2026-11-07] lint | Backlog pass — ingest by budget
 
 **Pre-flight:**
