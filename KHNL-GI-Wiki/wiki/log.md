@@ -6,6 +6,83 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-07] lint | Backlog pass — ingest by budget
+
+**Pre-flight:**
+
+- `git pull --rebase` → already up to date. `git status` clean; **no untracked files under `raw/`** — the inbox sync delivered nothing this pass, so nothing to commit from it.
+- **No `ingest: partial` marker anywhere in `wiki/`** — the previous pass closed its file cleanly, so this pass starts fresh.
+- Health check clean: no OS artifacts (`.DS_Store`, `._*`), no unescaped alias pipes in table cells, no `*Stub — to be expanded.*` page outside `log.md`'s own historical text.
+
+**⚠ BACKLOG MODE ON — re-confirmed by audit.** Fuzzy-matched all 617 `raw/` files against the `title:` + `**Article:**` line of all 415 `wiki/sources/` pages, then eyeballed the low scorers against the slug list. **~55 uningested tier-1 guideline/consensus documents remain** (plus gated lectures and some primary papers). Confirmed false alarms this pass: `AGA 2026 CPU C diff in IBD` → already `[[aga-2026-cdiff-ibd]]`; `AGA 2020 CPU SIBO` → already `[[aga-2020-sibo]]`. So *Validate the stalest pages*, *Expand stubs* and *Fill coverage gaps* are **paused: ingest backlog**, per CLAUDE.md.
+
+**Daily source fetch: not run** — this is not the 06:00 cron pass, and the run prompt did not ask for it.
+
+**Pick order finding — several `needed-sources.md` 🔒 rows now have their file sitting in `raw/`.** Nick dropped them himself (`/repo/.fetched-files` holds only drug labels), so they are his drops and go first. Identified: EASL 2023 HDV CPG, ASCO 2021 immune-related adverse events, SIS 2024 intra-abdominal infection, ACS 2018 CRC screening, AGA 2017 TDM technical review, AGA 2020 probiotics technical review. These close *documented* decision gaps, so they outrank the rest of the backlog.
+
+**Ingest 1 (finished end to end) — `raw/GI Guidelines/EASL/EASL 2023 Hepatitis Delta Virus CPG.pdf` → [[easl-2023-hepatitis-delta]]:**
+
+Tier 1, the first dedicated international clinical practice guideline on hepatitis delta virus (*J Hepatol* 2023;79:433–460). Read in full, pp. 433–452 (453–460 are references). Picked first because it is a Nick drop **and** closes the longest-standing flagged decision gap on [[hepatitis-d]]. Non-US society, but the *US-first* rule is about what to put on the download list, not what to ingest — and no US guideline quantifies this question.
+
+- **Source page** carries **all 39 recommendations plus the 5 ungraded statements**, each with its printed strength, Oxford level of evidence and Delphi consensus label, grouped by the document's own six topics. Tables 1–4 recreated natively; Figures 1–3 described, with Figure 3 recreated as a Mermaid flowchart on the entity page.
+- ⚠ **The document numbers nothing.** It grades every statement but assigns no recommendation numbers — the numbering on the source page is stated plainly as the wiki's own.
+
+**Decision gap CLOSED — the HDV treatment trigger.** [[hepatitis-d]] carried a flag for months that AASLD's indication ("elevated HDV RNA *and* elevated ALT") quantifies neither term. EASL resolves it **from the other direction**: it sets **no threshold at all** — *all* patients with chronic hepatitis D are considered for antiviral treatment, because persistence of replication is what drives progression and cirrhosis develops subclinically. The flag is replaced by the actual rule, and the `needed-sources.md` row is deleted.
+
+**Page rebuilt — [[hepatitis-d]].** Net-new, none of it previously on any page:
+
+- **Screening:** EASL's re-test triggers (aminotransferase flare, acute decompensation; yearly if still at risk) and the 5-fold reflex-testing yield, with 60% of cases found having no conventional risk factor.
+- **Diagnostics:** the **repeat HDV RNA 3–6 months apart** rule (a single undetectable result cannot define status); the assay-standardisation pitfall (46.3% of 28 WHO quality-control laboratories quantified the panel properly; African sub-genotype 1 and genotypes 5–8 under-estimated); **anti-HBc IgM** to separate coinfection from superinfection; HBeAg/HBV DNA testing.
+- **Severity:** liver-biopsy indication; a pitfall callout on **why NIT cut-offs are not established in CHD** (53% of biopsy-proven cirrhosis misclassified by fibrosis scores, 29% by elastography) and the CHD-specific **delta-4 fibrosis score**; the progression risk-factor list.
+- **Therapeutics — three new sections.** *Who to Treat* (the resolved trigger, plus the decompensated-cirrhosis and HCC branches); *Choosing the Strategy* (Figure 3 as a Mermaid flowchart: finite/cure vs prolonged/control along the liver-disease axis); peg-IFN **48 weeks preferred** with the **week-24 response predictors**; the **three HBV DNA triggers for a nucleos(t)ide analogue** as a table, replacing the vaguer "HBV DNA >2000 and/or cirrhosis" the page had second-hand; bulevirtide dose rationale, the symptomless bile-acid rise, and the OATP1B1/1B3 interactions.
+- **Two further new sections:** *Monitoring On and After Treatment* (the full calendar as a table — intervals differ because peg-IFN relapse is late and bulevirtide relapse is early) and *Liver Transplantation* (HBIG + high-genetic-barrier NA, the early-period regimen, and the **anti-HBs >100 mIU/mL** target after month 6).
+- **Contradiction surfaced and resolved by priority:** EASL restricts HCC surveillance to advanced fibrosis/cirrhosis; [[aasld-idsa-2025-chb-treatment]] surveils **all** HBV-HDV co-infected adults regardless of cirrhosis. Same tier, AASLD-IDSA is newer → the page asserts the broader rule, and says so inline. EASL's METAVIR/Ishak stratum definitions are kept because they are the only ones printed anywhere in the corpus.
+- **Slimmed while rebuilding** — prevalence tables condensed to one line, the superseded AASLD risk-criteria block compressed, the investigational-agent table cut from efficacy-by-trial to access status (trial detail stays on the source page). Body is **2,803 words** against the ~2,500 ceiling; everything remaining is criteria, thresholds, doses or intervals that the Content Guide protects, so it stays and the page is logged as a **residual slim candidate** rather than cut further.
+- **No duplication introduced:** [[peginterferon-alfa-2a]] already defers indication and duration to [[hepatitis-d]], and [[chronic-hepatitis-b]] already links out — neither needed an edit.
+
+**Cards — 7 new, 1 rewritten, 1 re-sourced.** Tier-1 guideline, so eligible.
+
+- **New:** `da100a` (consider treatment in all — no threshold) · `da100b` (bulevirtide 2 mg daily, open-ended) · `da100c` (the symptomless bile-acid rise) · `da100d` (statin and thyroid-hormone interactions) · `da100e` (post-transplant prophylaxis + anti-HBs >100 mIU/mL) · `da100f` (repeat HDV RNA 3–6 mo to confirm clearance) · `da100g` (when to biopsy).
+- **Rewritten, id preserved:** `da1006` — the imprecise "HBV DNA >2000 IU/mL and/or cirrhosis" replaced by EASL's three actual triggers, and re-sourced to the primary document.
+- **Fixed:** `da1005` — its stem asserted the superseded "elevated HDV RNA and ALT" gate; now tests the agent and route, with the AASLD-vs-EASL duration disagreement in Back Extra.
+- **Declined by yield:** every efficacy percentage as a tested item, the week-24 predictive values (EASL says futility rules are still under investigation, so a stop-rule card would overstate), trial names and designs, and HDV epidemiology.
+- ⚠ **Deck not rebuilt and dedup not run — `node` is blocked in this sandbox** (standing limitation). The card file is written and correct; the 05:00 pass builds and runs `anki-dupes.mjs`.
+
+**Ingest 2 (finished end to end) — `raw/GI Guidelines/AGA/AGA 2017 Technical Review Therapeutic Drug Monitoring IBD (Vande Casteele).pdf` → [[aga-2017-tdm-ibd-technical-review]]:**
+
+Tier 1, the GRADE evidence document behind [[aga-2017-tdm-ibd]] (*Gastroenterology* 2017;153:**835–857**). Read in full. **Verified to be a genuinely separate article, not a re-ingest** — the existing source page is the *guideline*, pp. **827–834**, by a different author group. Some of this review's threshold data had already reached the wiki second-hand through the guideline page; the document itself was uningested.
+
+- **Source page** carries all **5 focused PICO questions with their Key messages and grades** (all low or very low quality), Tables 2 and 4–6 recreated natively, the anti-TNF and antidrug-antibody threshold sections, and the thiopurine metabolite framework.
+- ⚠ **No numbered recommendations** — a technical review states key messages, not recommendations. Said plainly on the page; the numbering is the wiki's.
+- ⚠ **Supplementary Tables 1–5 are not in the ingested file**; the thiopurine algorithm on the page is reconstructed from the review's running text, which prints every stratum and cut-point. Noted on the source page rather than silently smoothed over.
+
+**Two decision gaps CLOSED on [[thiopurines]]**, both of which the page had explicitly flagged as unavailable:
+
+- **How to read a metabolite panel.** The page had the 6-TGN range and a note that "6-MMP target ranges… are not given by the IBD guidelines". It now carries the **five metabolite patterns** as a table — underdosed · noncompliant · refractory · overdosed · **shunter** — with the **6-MMP/6-TGN ratio >11** that defines a shunter, and a pitfall callout on why a low 6-TGN is *not* automatically an underdose: in a shunter, escalating produces **hepatotoxicity** without ever reaching a therapeutic 6-TGN. Also added: the 230 threshold's real performance (sensitivity 63%, specificity 53%; 34% of active disease above it, 50% of remission below it) and the **6-TGN >125** figure for combination therapy.
+- **The blood-count monitoring schedule.** The page said flatly that no interval is given. It now carries **weekly for month 1 → twice monthly for months 2–3 → monthly**, attributed to the azathioprine package insert as cited by the review, with the warning that **TPMT testing does not replace it** and the note that the IBD guidelines still print no interval of their own.
+- **Allopurinol remains open** — named by the review as the shunter strategy, but **no dose or protocol is in any ingested source**. Stated once on the page for the reader; no row added, because no specific qualifying resource is identified.
+
+**[[therapeutic-drug-monitoring-ibd]] updated** with what was genuinely net-new: the **reactive-TDM quadrant grid with its patient distribution** (51 / 25 / 19 / 5%) and the stratum-specific payoff (**82% respond to escalation in non-immune pharmacokinetic failure vs 8% in immune-mediated**) as a pearl; **golimumab's** minimal thresholds (2.5 µg/mL wk 6, 1.4 µg/mL wk 44) replacing a bare "Unknown"; assay-specific **antidrug-antibody thresholds** and the **transient-vs-sustained** recapture data (69% vs 16%); the **UC-vs-CD** threshold difference at ≥3 µg/mL; the flattening of the infliximab curve above 7 µg/mL; and four sharpened Open Questions. The shunter table is **linked, not copied** — [[thiopurines]] owns it.
+
+**Hygiene fixed in passing:** [[thiopurines]] cited [[aga-2017-tdm-ibd]] in its body but omitted it from frontmatter `sources:` and its `## Sources` list — both corrected. `## Contents` updated for the new heading; [[therapeutic-drug-monitoring-ibd]] and [[anti-tnf-agents]] added to `## See Also`.
+
+**Cards — 3 new, 1 Back Extra sharpened.**
+
+- `5f2006` (the shunter ratio >11 and what escalation does to them) · `5f2007` (the azathioprine blood-count schedule) · `7d0008` (transient vs sustained antibodies predict recapture better than the titre).
+- `7d0006` gained the 6-TGN threshold's true sensitivity/specificity in Back Extra.
+- **Declined by yield:** the quadrant-grid percentages as a tested item (trial results, and the decision they support is already carded by `7d0001`/`7d0007`), golimumab's thresholds (minimal values, not targets), and every GRADE quality rating.
+
+**Not stubbed:** `fecal-calprotectin` has no page anywhere in `wiki/`. An incidental mention was **de-linked rather than stubbed** — this ingest supplies no content for such a page, and a stub from one passing mention is not warranted. Flagged here as a coverage-gap candidate for a future non-backlog pass.
+
+**Steps that did nothing this pass, by design (Quality over quota):**
+
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps* — **paused: ingest backlog.**
+- *Daily source fetch* — not the 06:00 pass; not run.
+- *Figure capture* — nothing qualified. EASL Figure 1 is a mechanism diagram no decision rests on; Figure 2 is a risk-factor list carried as text; Figure 3 is an algorithm, which the Style Guide prefers recreated natively, and it is. **No `needed-sources.md` figure row added.**
+- *Stub creation* — no new stub warranted; every `[[link]]` added resolves to an existing page.
+
+---
+
 ## [2026-11-06] update | Card pass — dedup only; card queue confirmed exhausted
 
 **Slim the deck (ran first, as required):**
