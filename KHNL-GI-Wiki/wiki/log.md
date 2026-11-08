@@ -6,6 +6,28 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-08] update | Card pass — dedup sweep, no cards qualified
+
+**Dedup (ran first):** `anki-dupes.mjs` offered **3 unjudged candidate pairs** at ≥0.4 — all raised by the cards written earlier today. **All 3 judged distinct, 0 merges**, each verdict marked in `dedup-ledger.tsv`; unjudged queue back to **0**.
+
+- `nutrition-in-liver-disease` `9e100a`/`9e100e` — **non-obese vs obese cirrhosis** calorie targets: different population, different numbers. Checked the page for the apparent clash in the Back Extra: both figures are real and sourced (≥35 kcal/kg/day [[aasld-2021-malnutrition-cirrhosis]], 30–35 [[acg-2026-preventive-care-cirrhosis]]).
+- `sglt2-inhibitors` `5617a1`/`5617a3` — the pre-procedure hold duration vs how euglycemic ketoacidosis presents and which procedure precipitates it.
+- `glp-1-receptor-agonists` `e9b006`/`e9b007` — the hold interval by dosing frequency vs the bridging step that accompanies a weekly agent's week off.
+
+**Build:** clean, **4373 notes**, no problems reported.
+
+**Section anchors:** `anki-at.py --status` = **0 untagged notes in 0 files** before and after; the backfill queue stays empty.
+
+**New cards: none — nothing qualified.** No card file lacks `page_updated:`, so no page was left unfinished. Every topic page is carded and current except the 3 standing deliberate skips, each re-verified against its page this pass rather than taken on trust:
+
+- `[[peginterferon-alfa-2a]]` — label-sourced end to end. Its only two tier-1 facts (peg-IFN rarely used in chronic hepatitis B; the sole US-available hepatitis D therapy, off-label) are drug-choice-for-a-disease facts owned by the disease pages, and both are **already carded** there — confirmed in `dist/khnl-gi-wiki.json`.
+- `[[bristol-stool-form-scale]]` — every substantive fact is Lewis 1997, a primary paper. Its 4 guideline sources appear only in the routing table, which hands each threshold to the owner page by design.
+- `[[telemedicine-in-gastroenterology]]` — definitions, billing, licensure, documentation, workflow, trainees. Fails the high-yield test; no tag node fits.
+
+**Pages updated:** none. The budget was a ceiling, not a target.
+
+---
+
 ## [2026-11-08] update | Card pass — dedup sweep, stale-card refresh, section-anchor backfill
 
 **Dedup (ran first, before any new card):** `anki-dupes.mjs` offered **5 unjudged candidate pairs** at ≥0.4. **All 5 judged distinct, 0 merges** — every verdict marked in `dedup-ledger.tsv`; the unjudged queue is now **0**. The near-misses and why they stay separate:
