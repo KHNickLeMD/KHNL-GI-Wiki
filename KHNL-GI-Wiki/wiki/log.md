@@ -6,6 +6,34 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-08] update | Card pass — three stale pages closed, three orphaned NIT notes moved to their owner page
+
+**Dedup sweep:** `anki-dupes.mjs` returned **0 unjudged candidate pairs** at ≥0.4. Nothing to judge, nothing to merge — straight to the anchor step.
+
+**Section anchors:** `anki-at.py --status` = **0 untagged notes in 0 files** before and after. Backfill queue empty; the step did nothing.
+
+**Eligible pages:** 3 of 782 topic pages — all three stale card files, no unfinished (`page_updated`-less) file anywhere. All three closed this pass.
+
+- `[[lumen-apposing-metal-stents]]` — **3 new notes.** The ASGE 2026 addition (lumen-apposing metal stent for a benign anastomotic stricture <15 mm) is **already owned by `[[colonic-stricture]]`** card `0d4a04`, so it was not carded again here. Reviewing the whole page instead surfaced three high-yield facts no page carded: misdeployment into the peritoneum → remove the stent, close the defect, fast ≥24 h; EDGE stent dwell ≥40 days → persistent fistula; ≥10 independent deployments in pancreatic fluid collections before progressing to gallbladder drainage. The page's device facts (<10 mm puncture distance, off-label status, over-the-wire preference, coaxial double-pigtail, 3.7-mm channel) are **owned by `[[eus-guided-gallbladder-drainage]]`** and were left there.
+- `[[colorectal-cancer]]` — **no new notes, marker bumped.** The only change since the last card file was ASGE 2026 turning bridge-to-surgery stenting into a graded recommendation. An evidence grade is not a cardable item, and the countervailing recurrence signal (OR 1.84, fragility index 2) belongs to `[[colonic-stenting]]`, whose card file is current.
+- `[[nafld-masld]]` — **no new notes, 3 moved out, marker bumped.** The page change itself was link-only (MetALD), and its alcohol boundaries were already carded.
+
+**Orphaned cards found and fixed (`[[nafld-masld]]`):** the 2026-10-22 slim moved the AASLD secondary-test thresholds off the page, leaving three notes testing facts the page no longer states. Their content now lives on `[[noninvasive-liver-disease-assessment]]`, where it was present only in Back Extra lines — i.e. not actually carded. Per *Section anchors* the notes were **moved, not retired blind**:
+
+- `5d20b8` → `9f3a03` (FIB-4 bands <1.3 / 1.3–2.67 / >2.67)
+- `a71e46` → `9f3a01` (rule-in: VCTE ≥12 kPa, MRE ≥3.63 kPa, ELF ≥9.8)
+- `e63f1a` → `9f3a02` (rule-out: VCTE <8 kPa, MRE <2.55 kPa, ELF <7.7)
+
+Each original block sits under `# Retired` in the NAFLD card file as `moved to noninvasive-liver-disease-assessment [<new id>]`.
+
+**Queue state:** nothing eligible remains. The only uncarded topic pages are the **three standing deliberate skips**, each re-verified this pass rather than taken on trust — `[[peginterferon-alfa-2a]]` (dosing is all FDA label, not a cardable tier; its guideline facts are carded on `[[chronic-hepatitis-b]]` and `[[hepatitis-d]]`), `[[bristol-stool-form-scale]]` (own content is Lewis 1997, a primary paper; the page itself delegates every guideline threshold to its owner page), `[[telemedicine-in-gastroenterology]]` (practice-management content, no tag node). **No cards were written to use the remaining budget.**
+
+**Build:** `build-anki.mjs` ends clean — **4394 notes, 0 problems**. One word-cap problem on the new `1a5003` (43/40 words) was fixed before moving on; the two "cards stale" problems that remained mid-pass were the two pages this pass then closed.
+
+**Not committed:** this pass made no `raw/` or entity-page edits; the card files live outside the repo at `/cards`. This log entry is **uncommitted by instruction** — the cron hard-resets `/repo`, so it needs committing by hand to survive.
+
+---
+
 ## [2026-11-08] lint | 06:00 backlog pass — daily fetch + ingest by budget
 
 **Mode:** backlog mode **ON**. *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps* **paused: ingest backlog**. Inbox sync: `git status` clean at session start — **no new untracked `raw/` files to commit**. No `ingest: partial` marker anywhere, so nothing to resume; the pass starts fresh.
