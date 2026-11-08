@@ -70,7 +70,15 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps* — **paused: ingest backlog** (backlog mode gives ingest the budget).
 - **Daily source fetch — not run.** This is not the 06:00 pass; its prompt did not call for a fetch.
 - **Inbox sync — nothing to commit.** `git status` was clean at session start; no untracked files under `raw/`.
-- **Deck not rebuilt** — `node` is blocked in this sandbox, so the 05:00 card pass builds these files. Expect the new notes in the next deck.
+- **Deck not rebuilt** — `node` is blocked in this sandbox, so the 05:00 card pass builds these files. Expect the new notes in the next deck. **Nothing is left half-written:** both source pages have had `ingest: partial` removed, every touched card file has a current `page_updated:`, and `grep` confirms no `ingest: partial` remains anywhere.
+
+**Where the run stopped:** the **budget cap**, after two sources finished end to end — not because the backlog cleared. Backlog mode stays **ON**; ~53 uningested tier-1/2 `raw/` files remain. Next pass starts fresh (no partial markers to resume) and should pick from the confirmed-uningested US-society list below, verified this pass by author+year grep against `wiki/sources/`:
+
+- **AGA CPUs:** 2026 C. diff in Adults · 2026 MetALD · 2026 Surveillance in Older Adults (Calderwood) · 2026 Pancreatic Cyst and HCC Surveillance in Older Adults (Das) · AGA/AASLD/EASL 2026 Alpha-1 Antitrypsin (Loomba)
+- **ASGE:** 2026 Benign and Malignant Colonic Strictures (Machicado) · 2026 EoE Endoscopic Management Part 2 (Dellon) · 2021 Gastroduodenal Obstruction (Jue) · 2026 Quality Measures in Endoscopic Research (Elmunzer)
+- **Other US:** USMSTF 2026 Serrated Polyposis Syndrome (Rex) · AASLD 2026 EXPO Liver Biopsy (Verna) · SAGES 2026 Walled-Off Pancreatic Necrosis · SAGES-AHPBA 2025 Bile Duct Injury · ACS 2018 CRC Screening (Wolf) · NCCN 2026 Pancreatic Adenocarcinoma · Multisociety 2024 GLP-1 RA Perioperative (Kindel)
+- **Non-US, lower priority:** Maastricht VI, ECCO 2017/2026, UEG 2025 Malabsorption Pts 1–2, ESGE 2026 Biliary Stricture, BSG 2026 Coeliac, Rome V Centrally Mediated GI Pain, IAP 2024 Kyoto IPMN, and the 2025–26 international consensus set.
+- **Lectures/chalk talks remain gated** — several uningested transcripts sit in `raw/GI Lectures+Chalk Talks/`, untouched and not auto-ingestable. They need Nick to name specific files.
 
 **Hygiene fixes:**
 
