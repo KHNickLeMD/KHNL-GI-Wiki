@@ -3,8 +3,8 @@ title: "Primary Sclerosing Cholangitis"
 category: disease-script
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant, dominant-stricture, igg4, udca, mrcp, fish, liver-stiffness]
 created: 2026-05-19
-updated: 2026-10-12
-sources: [acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, aga-2019-psc-cancer-surveillance, baveno-viii-2026-portal-hypertension]
+updated: 2026-11-08
+sources: [acg-2026-preventive-care-cirrhosis, acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, aga-2019-psc-cancer-surveillance, baveno-viii-2026-portal-hypertension]
 ---
 
 ## Assessment
@@ -293,6 +293,7 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 - Osteopenia (T-score −2.5 to −1): vitamin D 2,000 IU/day + calcium 1–1.5 g/day
 - Osteoporosis (T-score ≤−2.5) without esophageal varices: add oral bisphosphonate
 - Osteoporosis with esophageal varices: parenteral bisphosphonate (Figure 7)
+  - ⚠ [[acg-2026-preventive-care-cirrhosis|ACG 2026]] holds that varices are **not by themselves a contraindication** to **oral** bisphosphonates in cirrhosis. Newer and tier-1, but addressed to cirrhosis generally rather than PSC; this page keeps the PSC figure’s rule. Contradiction in full: [[cirrhosis|cirrhosis → Preventive Care]]
 - Bone mineral density T-score <−2.5 present in 4–10% of PSC patients
 
 **IBD management (GS 27):**
@@ -330,3 +331,4 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 3. [[aasld-2022-psc|AASLD 2022 Practice Guidance on Primary Sclerosing Cholangitis and Cholangiocarcinoma]]
 4. [[aga-2019-psc-cancer-surveillance|AGA Clinical Practice Update on Surveillance for Hepatobiliary Cancers in Patients With Primary Sclerosing Cholangitis: Expert Review (2019)]]
 5. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+6. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]

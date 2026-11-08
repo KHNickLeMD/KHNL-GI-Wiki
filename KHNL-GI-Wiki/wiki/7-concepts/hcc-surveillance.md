@@ -3,8 +3,8 @@ title: "HCC Surveillance"
 category: concept
 tags: [hcc, hepatocellular-carcinoma, surveillance, cirrhosis, hepatitis-b, biomarker, afp, galad]
 created: 2026-06-01
-updated: 2026-10-28
-sources: [aga-2026-hcc-surveillance, aasld-2023-hcc, aasld-idsa-2025-chb-treatment, aga-2020-hcc-screening-nafld, acr-2024-li-rads-us-surveillance-core, papatheodoridis-2016-page-b]
+updated: 2026-11-08
+sources: [aga-2026-hcc-surveillance, acg-2026-preventive-care-cirrhosis, aasld-2023-hcc, aasld-idsa-2025-chb-treatment, aga-2020-hcc-screening-nafld, acr-2024-li-rads-us-surveillance-core, papatheodoridis-2016-page-b]
 ---
 
 Framework for hepatocellular carcinoma (HCC) surveillance — who, how, how often, and emerging tools. **This page is the single home for the surveillance-indication table**; other pages link here rather than reproducing it. For tumor diagnosis/staging/treatment see [[hepatocellular-carcinoma]]; for imaging classification see [[li-rads]]; for the post-abnormal-test recall algorithm see [[hepatocellular-carcinoma]] → *Surveillance Recall Algorithm*.
@@ -174,6 +174,18 @@ flowchart TD
 - The best way to reduce HCC morbidity/mortality is to **prevent cirrhosis** (BPA 1): vaccinate and treat viral hepatitis ([[chronic-hepatitis-b|HBV]] nucleos(t)ide analogs; [[hepatitis-c|HCV]] [[direct-acting-antivirals|direct-acting antivirals]] → cure lowers HCC risk), treat alcohol use disorder, manage metabolic syndrome, and address liver disease early.
 - Screen HBV patients for HCV, HDV ([[hepatitis-d]]), and human immunodeficiency virus (HIV) coinfection — all raise HCC risk above HBV monoinfection.
 
+**No drug is recommended for HCC chemoprevention in cirrhosis** ([[acg-2026-preventive-care-cirrhosis]]):
+
+| Agent | Position | Why |
+|---|---|---|
+| **Aspirin** | **Not suggested** solely to prevent HCC (Rec 8, *conditional, very low certainty*) | Cohort meta-analyses suggesting benefit mostly did not separate cirrhotic from non-cirrhotic patients. The largest study using the most robust methods — a national Danish cohort of 115,000 patients with cirrhosis — found **no protective effect**, and another found **increased bleeding risk** in aspirin users |
+| **Statins** | **Should not be offered** for HCC chemoprevention absent conventional cardiovascular risks (key concept 2) | The retrospective signal is large (>50% absolute HCC reduction where annual risk was ~4%, two to three times the expected effect) and cumulative-incidence curves **separate immediately** — the signature of immortal-time and selection bias, not of drug effect. Where a standard cardiovascular indication exists in compensated cirrhosis, statins **should** be considered |
+
+> [!pitfall] A cardiovascular indication is the only reason to start a statin here
+> The HCC-prevention literature looks compelling and is confounded. Do not add a statin, or continue one, on the strength of liver benefit alone — and do not stop one that is indicated for cardiovascular risk ([[acg-2026-preventive-care-cirrhosis]]).
+
+- **Smoking cessation** is the lifestyle intervention with a direct HCC link — smoking carries a hazard ratio of **1.86 (95% confidence interval 1.57–2.20)** for HCC and **1.47 (1.07–2.02)** for intrahepatic [[cholangiocarcinoma]], dose-dependently; counseling active smokers is a **strong** recommendation ([[acg-2026-preventive-care-cirrhosis]], Rec 17).
+
 ## See Also
 
 [[hepatocellular-carcinoma]], [[li-rads]], [[cirrhosis]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[hepatitis-d]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[noninvasive-liver-disease-assessment]], [[liver-transplantation]], [[direct-acting-antivirals]], [[portal-hypertension]], [[obesity]]
@@ -183,8 +195,9 @@ flowchart TD
 ## Sources
 
 1. [[aga-2026-hcc-surveillance|AGA Clinical Practice Update on Risk Stratification and Emerging Surveillance Strategies for Hepatocellular Carcinoma: Expert Review (2026)]]
-2. [[aasld-2023-hcc|AASLD 2023 Practice Guidance: Prevention, Diagnosis, and Treatment of Hepatocellular Carcinoma]]
-3. [[aasld-idsa-2025-chb-treatment|AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B]]
-4. [[aga-2020-hcc-screening-nafld|AGA Clinical Practice Update on Screening and Surveillance for Hepatocellular Carcinoma in Patients with Nonalcoholic Fatty Liver Disease: Expert Review (2020)]]
-5. [[acr-2024-li-rads-us-surveillance-core|ACR LI-RADS Ultrasound Surveillance v2024 Core]]
-6. [[papatheodoridis-2016-page-b|PAGE-B Predicts the Risk of Developing Hepatocellular Carcinoma in Caucasians with Chronic Hepatitis B on 5-Year Antiviral Therapy (J Hepatol 2016)]]
+2. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
+3. [[aasld-2023-hcc|AASLD 2023 Practice Guidance: Prevention, Diagnosis, and Treatment of Hepatocellular Carcinoma]]
+4. [[aasld-idsa-2025-chb-treatment|AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B]]
+5. [[aga-2020-hcc-screening-nafld|AGA Clinical Practice Update on Screening and Surveillance for Hepatocellular Carcinoma in Patients with Nonalcoholic Fatty Liver Disease: Expert Review (2020)]]
+6. [[acr-2024-li-rads-us-surveillance-core|ACR LI-RADS Ultrasound Surveillance v2024 Core]]
+7. [[papatheodoridis-2016-page-b|PAGE-B Predicts the Risk of Developing Hepatocellular Carcinoma in Caucasians with Chronic Hepatitis B on 5-Year Antiviral Therapy (J Hepatol 2016)]]

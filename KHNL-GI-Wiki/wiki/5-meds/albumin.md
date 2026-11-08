@@ -3,8 +3,8 @@ title: "Albumin (IV)"
 category: med
 tags: [albumin, cirrhosis, ascites, sbp, hrs]
 created: 2026-07-23
-updated: 2026-09-22
-sources: [aga-2024-vasoactive-albumin-cirrhosis, aasld-2021-ascites-sbp-hrs]
+updated: 2026-11-08
+sources: [aga-2024-vasoactive-albumin-cirrhosis, aasld-2021-ascites-sbp-hrs, acg-2026-preventive-care-cirrhosis]
 ---
 
 ## Overview
@@ -20,6 +20,7 @@ sources: [aga-2024-vasoactive-albumin-cirrhosis, aasld-2021-ascites-sbp-hrs]
 |---|---|---|
 | **Large-volume (>5 L) paracentesis (LVP)** | Give IV albumin (BPA 4) | **6–8 g per L of ascites removed** (expert opinion, per society guidelines); **lower doses (4 g/L) may be sufficient** |
 | **LVP in [[acute-on-chronic-liver-failure\|acute-on-chronic liver failure (ACLF)]]** | Give albumin during paracentesis | **6–8 g/L regardless of the volume removed** |
+| **Paracentesis ≤5 L** | Not addressed by AGA | [[acg-2026-preventive-care-cirrhosis\|ACG 2026]] key concept 1: the incremental benefit is **less certain**, and albumin **may reasonably be reserved for patients with hyponatremia or evidence of renal dysfunction**. The >5 L threshold is where post-paracentesis circulatory dysfunction risk rises, which is why guidance anchors there rather than applying a uniform rule to every tap |
 | **SBP** | Albumin *may be considered* (BPA 5) | **1.5 g/kg body weight on day 1 + 1 g/kg on day 3** (empirical, per society guidelines). Highest-benefit subgroup (randomized controlled trial [RCT] subgroup analysis): bilirubin **>4 mg/dL** **and** AKI at baseline (creatinine >1.0 mg/dL **and** blood urea nitrogen [BUN] >30 mg/dL) — all three together. ⚠ [[aasld-2021-ascites-sbp-hrs\|American Association for the Study of Liver Diseases (AASLD) 2021]] sets the same bilirubin marker at **>5 mg/dL**. Society guidelines themselves phrase the target more loosely, as **AKI and/or [[jaundice]]** |
 | **AKI in cirrhosis + ascites (hospitalized)** | Albumin is the **volume expander of choice** (BPA 8) | **1 g/kg body weight daily × 2 consecutive days, capped at 100 g/day** — a volume-expansion trial in patients with evidence of intravascular volume depletion. Lack of response to this challenge is itself a diagnostic criterion for hepatorenal syndrome–AKI (HRS-AKI; full algorithm: [[aki-in-cirrhosis]]) |
 | **HRS-AKI** | Concurrent albumin *can be considered*, accounting for volume status; terlipressin is the vasoactive drug of choice (BPA 10) | Regimen as above; titrate to volume status — a fixed dose in any AKI patient may be **insufficient or cause volume overload/pulmonary edema**, and the best method to assess volume is unknown |
@@ -67,3 +68,4 @@ sources: [aga-2024-vasoactive-albumin-cirrhosis, aasld-2021-ascites-sbp-hrs]
 
 1. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]
 2. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]
+3. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]

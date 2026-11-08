@@ -3,8 +3,8 @@ title: "Nonselective Beta-Blockers (NSBBs)"
 category: med
 tags: [nsbb, carvedilol, propranolol, nadolol, portal-hypertension, csph, cirrhosis, varices, variceal-bleeding, decompensation, cacld]
 created: 2026-09-21
-updated: 2026-10-19
-sources: [asge-2026-esophageal-gastric-varices, aasld-2023-portal-hypertension, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension]
+updated: 2026-11-08
+sources: [acg-2026-preventive-care-cirrhosis, asge-2026-esophageal-gastric-varices, aasld-2023-portal-hypertension, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension]
 ---
 
 Nonselective beta-blockers (NSBBs) are the drug class that lowers portal pressure in [[cirrhosis]]. Two groups, and the distinction drives every recommendation below:
@@ -73,7 +73,7 @@ The extra α-1 blockade is why carvedilol produces a **markedly greater [[hepati
 
 | Setting | Recommendation | Source |
 |---|---|---|
-| Compensated cirrhosis / cACLD **with CSPH** | NSBB, **preferably carvedilol 12.5 mg/day**, to prevent decompensation and improve survival | [[aasld-2023-portal-hypertension]] GS 12; [[baveno-viii-2026-portal-hypertension]] 3.15 |
+| Compensated cirrhosis / cACLD **with CSPH** | NSBB, **preferably carvedilol 12.5 mg/day**, to prevent decompensation and improve survival. [[acg-2026-preventive-care-cirrhosis\|ACG 2026]] Rec 6 (*conditional, low*) names the endpoint more narrowly — **carvedilol to reduce the incidence of first-episode [[ascites]]**, the decompensating event the supporting trials actually moved (ascites 51% lower, hazard ratio 0.49) | [[aasld-2023-portal-hypertension]] GS 12; [[baveno-viii-2026-portal-hypertension]] 3.15; [[acg-2026-preventive-care-cirrhosis]] Rec 6 |
 | On NSBB for decompensation prevention | **No screening endoscopy needed** — the result would not change management | [[aasld-2023-portal-hypertension]] GS 14; [[baveno-viii-2026-portal-hypertension]] 3.18 |
 | Compensated, **any size varices** found because NSBB was not started | Varices of any size should prompt initiation of NSBB | [[aasld-2023-portal-hypertension]] GS 15 |
 | **Gastric varices** (gastroesophageal varices type 2 [GOV2]/isolated gastric varices type 1 [IGV1]) in compensated disease | Gastric varices *mean* CSPH → NSBB, particularly carvedilol, to prevent decompensation | [[baveno-viii-2026-portal-hypertension]] 3.21a; [[aasld-2023-portal-hypertension]] GS 40 |
@@ -253,3 +253,4 @@ The trial behind "treat CSPH, not varices" ([[aasld-2023-portal-hypertension]]):
 2. [[aasld-2023-portal-hypertension|AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis]]
 3. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
 4. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+5. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]

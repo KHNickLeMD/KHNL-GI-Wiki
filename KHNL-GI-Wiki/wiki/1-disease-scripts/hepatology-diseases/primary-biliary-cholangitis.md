@@ -3,8 +3,8 @@ title: "Primary Biliary Cholangitis (PBC)"
 category: disease-script
 tags: [pbc, primary-biliary-cholangitis, cholestatic, ama, alkaline-phosphatase, ursodiol, udca, oca, obeticholic-acid, fibrates, pruritus, overlap, hpb, liver, autoimmune, pregnancy, cirrhosis]
 created: 2026-05-19
-updated: 2026-11-02
-sources: [aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, baveno-viii-2026-portal-hypertension]
+updated: 2026-11-08
+sources: [acg-2026-preventive-care-cirrhosis, aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, baveno-viii-2026-portal-hypertension]
 ---
 
 ## Assessment
@@ -212,6 +212,7 @@ Patients with fibrotic PBC have significantly greater risk of osteopenia/osteopo
 - **Vitamin D levels** measured annually in patients with advanced disease
 - **Alendronate 70 mg/week** — effective RCT data; ibandronate monthly comparable
 - **Oral bisphosphonates contraindicated** in patients with acid reflux or known varices (Guidance Statement 18)
+  - ⚠ **Newer tier-1 guidance disagrees for cirrhosis generally.** [[acg-2026-preventive-care-cirrhosis|ACG 2026]] states that esophageal or gastric varices are **not by themselves a contraindication** to oral bisphosphonates, citing studies in patients with varices that showed no excess GI bleeding. This page keeps the AASLD PBC rule for PBC; see [[cirrhosis|cirrhosis → Preventive Care]] for the contradiction in full
 - **Parenteral bisphosphonates** for patients unable to take oral formulations
 - Hormone replacement therapy modestly improves BMD but rarely used due to safety concerns and worsening of cholestasis/pruritus
 
@@ -352,3 +353,4 @@ Risk of developing PBC is increased among first-degree relatives (FDRs), especia
 4. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
 5. [[aasld-2020-autoimmune-hepatitis|AASLD Practice Guidance on Autoimmune Hepatitis (2020)]]
 6. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+7. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]

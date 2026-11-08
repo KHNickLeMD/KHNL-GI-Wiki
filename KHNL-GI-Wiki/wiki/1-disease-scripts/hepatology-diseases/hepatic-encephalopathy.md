@@ -3,8 +3,8 @@ title: "Hepatic Encephalopathy"
 category: disease-script
 tags: [hepatic-encephalopathy, HE, cirrhosis, ammonia, lactulose, rifaximin, TIPS, portal-hypertension, ACLF, minimal-HE, covert-HE, overt-HE, portosystemic-shunting, brain-dysfunction, west-haven, bristol-stool-scale, sarcopenia]
 created: 2026-05-28
-updated: 2026-10-27
-sources: [acg-2026-hepatic-encephalopathy, baveno-viii-2026-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy, baveno-vii-2022-portal-hypertension]
+updated: 2026-11-08
+sources: [acg-2026-hepatic-encephalopathy, acg-2026-preventive-care-cirrhosis, baveno-viii-2026-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy, baveno-vii-2022-portal-hypertension]
 ---
 
 Hepatic encephalopathy (HE) is **brain dysfunction caused by liver insufficiency and/or portosystemic shunting (PSS)**, manifesting as a spectrum of neurological/psychiatric abnormalities from subclinical alterations to coma. *HE is a continuum*, not a single entity [[aasld-easl-2014-hepatic-encephalopathy]]. HE can occur without [[cirrhosis]] when simple portosystemic shunting is present; the American College of Gastroenterology (ACG) 2026 reframes it as a **gut–brain axis disorder** ([[disorders-of-gut-brain-interaction|disorder of gut–brain interaction (DGBI)]] framing) and de-emphasizes ammonia throughout [[acg-2026-hepatic-encephalopathy]].
@@ -250,6 +250,7 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 
 - **Treat with lactulose rather than no treatment** (ACG 2026, Rec 3, *conditional, low certainty*) — a shift from the 2014 position (Rec 29, Grade II-2, B, 1) that MHE treatment is not routinely recommended apart from case-by-case
 - **Insufficient evidence for or against routine MHE/CHE treatment specifically to prevent OHE** (ACG 2026, Rec 4)
+- **Do not add [[rifaximin]] as *primary* prevention of overt HE in MHE** ([[acg-2026-preventive-care-cirrhosis]], Rec 3, *conditional, low certainty*). Rifaximin **reverses** MHE (odds ratio 7.53) but did **not** prevent progression to OHE (odds ratio 0.44, 95% confidence interval 0.11–1.81) in the same network meta-analysis — the reason a drug with proven *secondary* prophylaxis value (Rec 12 above) carries a negative recommendation here
 - **Second-line by phenotype** (Key concept 7): BCAA/LOLA if sarcopenia/frailty; zinc if low serum zinc; l-carnitine if muscle cramps
 - **Theragnostic lactulose trial:** reassess adherence and symptom improvement at **4–8 weeks** to decide on continuation (Key concept 8)
 - Cognitive testing plus lactulose or rifaximin may improve health-related QoL (Key concept 5)
@@ -310,6 +311,7 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 ## Sources
 
 1. [[acg-2026-hepatic-encephalopathy|ACG Clinical Guideline: Hepatic Encephalopathy (2026)]]
-2. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
-3. [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease]]
-4. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+2. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
+3. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+4. [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease]]
+5. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]

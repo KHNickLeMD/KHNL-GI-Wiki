@@ -512,6 +512,7 @@ updated: 2026-11-03
 - [[acg-2025-liver-nutrition]] — ACG 2025: Malnutrition and Nutritional Recommendations in Liver Disease — Singal, Wong et al.
 - [[acg-2025-uc]] — ACG 2025: Ulcerative Colitis in Adults (Guideline Update) — Rubin et al.
 - [[acg-2025-perioperative-cirrhosis]] — ACG 2025: Perioperative Risk Assessment and Management in Cirrhosis — VOCAL-Penn/Mayo surgical risk scores, frailty, decompensation risk, timing and optimization for elective surgery
+- [[acg-2026-preventive-care-cirrhosis]] — ACG 2026: Preventive Care for Patients With Cirrhosis — 18 GRADE recommendations + 6 key concepts across cirrhosis-specific complications, vaccination (HAV/HBV/influenza/SARS-CoV-2/RSV ≥50 y), lifestyle and non-liver conditions; carvedilol or EVL for high-risk varices, semiannual HCC surveillance, short 2–3 day antibiotic course for upper GI bleeding, lactulose for MHE, rifaximin not for primary HE prevention, no aspirin or statin for HCC chemoprevention, bisphosphonates for osteoporosis, AUDIT-C each encounter
 - [[acg-2024-acute-pancreatitis]] — ACG 2024: Management of Acute Pancreatitis — Tenner, Vege et al.
 - [[acg-2024-ald]] — ACG 2024: Alcohol-Associated Liver Disease — Jophlin, Singal et al.
 - [[acg-2024-focal-liver-lesions]] — ACG 2024: Focal Liver Lesions — Frenette et al.

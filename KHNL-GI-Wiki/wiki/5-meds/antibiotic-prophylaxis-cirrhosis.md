@@ -3,8 +3,8 @@ title: "Antibiotic Prophylaxis in Cirrhosis (GI Bleeding)"
 category: med
 tags: [cirrhosis, antibiotic-prophylaxis, ceftriaxone, norfloxacin, variceal-bleeding, sbp-prevention]
 created: 2026-05-15
-updated: 2026-10-20
-sources: [asge-2026-esophageal-gastric-varices, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2021-ascites-sbp-hrs, asge-2015-antibiotic-prophylaxis, albhaisi-2025-prophylactic-antibiotics-cirrhosis]
+updated: 2026-11-08
+sources: [acg-2026-preventive-care-cirrhosis, asge-2026-esophageal-gastric-varices, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2021-ascites-sbp-hrs, asge-2015-antibiotic-prophylaxis, albhaisi-2025-prophylactic-antibiotics-cirrhosis]
 ---
 
 Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-bleeding|upper gastrointestinal (GI) bleeding]] aim to prevent bacterial translocation-driven infections ([[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]], bacteremia) that independently worsen short-term mortality. In the American Association for the Study of Liver Diseases (AASLD) framework this is a form of **SBP primary prophylaxis** ([[aasld-2021-ascites-sbp-hrs]]).
@@ -22,7 +22,7 @@ Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-ble
 |---|---|---|
 | Agent | **Ceftriaxone 1 g intravenously (IV) every 24 h** — most commonly used | [[aasld-2023-portal-hypertension]] Guidance Statement (GS) 27; [[baveno-vii-2022-portal-hypertension\|Baveno VII]] 6.9 (A.1) |
 | When to start | **Immediately on presentation / from admission** | [[aasld-2023-portal-hypertension]]; Baveno VII 6.7 |
-| Duration | **2–5 days**; IV antimicrobials until **stability for discharge or 5 days, whichever is shorter**, in the absence of active infection | [[aasld-2023-portal-hypertension]] |
+| Duration | **2–3 days** (governing figure — see *Duration* below); AASLD 2023 gives **2–5 days**, with IV antimicrobials until **stability for discharge or 5 days, whichever is shorter**, in the absence of active infection | [[acg-2026-preventive-care-cirrhosis]] Rec 5; [[aasld-2023-portal-hypertension]] |
 | Stop rule | Discontinue **once bleeding is controlled** and no active infection | [[aasld-2023-portal-hypertension]] GS 27 |
 | Why ceftriaxone over a quinolone | **High rates of quinolone resistance**; also preferred in advanced cirrhosis and in patients already on quinolone prophylaxis | [[aasld-2023-portal-hypertension]]; Baveno VII 6.9 |
 | Mandatory tailoring | Choice **must** follow local resistance patterns, antimicrobial stewardship policy, and patient allergies | Both (Baveno VII grades the tailoring D.2) |
@@ -36,11 +36,14 @@ Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-ble
 
 | Position | Duration | Basis |
 |---|---|---|
-| [[aasld-2023-portal-hypertension\|AASLD 2023]] (governs) | **2–5 days**, or until discharge-stable, whichever is shorter | GS 27 |
+| [[acg-2026-preventive-care-cirrhosis\|ACG 2026]] (governs — newest) | **2–3 days**, preferred over a longer course *or no antibiotics* | Rec 5, *conditional, low certainty* |
+| [[aasld-2023-portal-hypertension\|AASLD 2023]] | **2–5 days**, or until discharge-stable, whichever is shorter | GS 27 |
 | [[aasld-2021-ascites-sbp-hrs\|AASLD 2021]] | Until hemorrhage resolved **and vasoactive drugs discontinued**; the supporting meta-analysis used 5–7 d | Narrative |
 | [[albhaisi-2025-prophylactic-antibiotics-cirrhosis\|Prosty 2025]] (randomized controlled trial [RCT]-tier) | 2–3 d likely non-inferior to 5–7 d for mortality | Bayesian meta-analysis |
 
-- **Which governs:** the two AASLD statements are the same society, so follow the **newer 2023 [[portal-hypertension|portal hypertension]] guideline — 2–5 days**; the older "5–7 days" figure was never AASLD's own recommendation but the duration used in the meta-analysis it cited. The commonly quoted "5–7 days" therefore overstates what the current guideline says.
+- **Which governs: [[acg-2026-preventive-care-cirrhosis|ACG 2026]] — a short 2–3 day course**, as the most recent tier-1 statement. It lands inside the AASLD 2023 range rather than contradicting it; the practical effect is to move the default from the middle of 2–5 days to its floor. The two AASLD statements are the same society, so between them follow the newer 2023 [[portal-hypertension|portal hypertension]] guideline; the commonly quoted "5–7 days" was never AASLD's own recommendation but the duration used in the meta-analysis it cited, and overstates what any current guideline says.
+- **ACG 2026 also widens *who* gets it: all patients with cirrhosis and upper gastrointestinal (GI) bleeding — variceal or nonvariceal, with or without ascites.** The rationale is translocation risk across the whole population, and the infections prevented in trials were not confined to [[spontaneous-bacterial-peritonitis|peritonitis]]. ⚠ Note the asymmetry in Rec 5: the comparator is "a longer course **or no antibiotics**," so a **2–3 day course is favoured over giving none** — the shorter duration is not a step toward omission.
+  - Its evidence read matches the section below rather than contradicting it: a 14-RCT meta-analysis (1,322 patients) found **short (0–3 day) duration noninferior for survival**, but **1–10 days vs *no* prophylaxis was not noninferior**; a short course carried a **higher absolute risk of bacterial infection** than a long one, which ACG weighed against resistance and judged acceptable, while noting clinicians may extend therapy in patients at higher infection risk. It cites an open-label RCT in **Child-Pugh A** upper GI bleeding showing no difference in infection, rebleeding or mortality with vs without prophylaxis.
 - **Do not drop the AASLD 2021 qualifier** where you use its stopping rule: antibiotics run until the hemorrhage has resolved **and vasoactive drugs are discontinued** — not simply until bleeding stops.
 - [[albhaisi-2025-prophylactic-antibiotics-cirrhosis|Prosty 2025]] is tier-2 evidence and does not override the guidelines, but it undercuts the confidence behind any fixed number: only **2 of its 14 RCTs** actually compared short vs long courses. Shorter durations were **inferior for bacterial infections overall**, but that inferiority sits almost entirely in the prophylaxis-vs-*nothing* trials — the short-vs-long cephalosporin comparison favored the shorter course. Read it as "*giving* prophylaxis matters; *how long* is genuinely uncertain," not as license to omit it.
 
@@ -68,9 +71,10 @@ See [[variceal-upper-gi-bleeding]] for full clinical context and [[antibiotic-pr
 
 ## Sources
 
-1. [[asge-2026-esophageal-gastric-varices|ASGE Guideline on Management of Esophageal and Gastric Varices in Patients With Cirrhosis (2026)]]
-2. [[aasld-2023-portal-hypertension|AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis]]
-3. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
-4. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and Hepatorenal Syndrome]]
-5. [[asge-2015-antibiotic-prophylaxis|ASGE Guideline: Antibiotic Prophylaxis for GI Endoscopy (2015)]]
-6. [[albhaisi-2025-prophylactic-antibiotics-cirrhosis|Prophylactic Antibiotics for Upper GI Bleeding in Patients With Cirrhosis — Journal Club (Albhaisi)]]
+1. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
+2. [[asge-2026-esophageal-gastric-varices|ASGE Guideline on Management of Esophageal and Gastric Varices in Patients With Cirrhosis (2026)]]
+3. [[aasld-2023-portal-hypertension|AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis]]
+4. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+5. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and Hepatorenal Syndrome]]
+6. [[asge-2015-antibiotic-prophylaxis|ASGE Guideline: Antibiotic Prophylaxis for GI Endoscopy (2015)]]
+7. [[albhaisi-2025-prophylactic-antibiotics-cirrhosis|Prophylactic Antibiotics for Upper GI Bleeding in Patients With Cirrhosis — Journal Club (Albhaisi)]]

@@ -3,8 +3,8 @@ title: "Alcohol-Associated Liver Disease"
 category: disease-script
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, mdf, nac, pentoxifylline, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate, baclofen, peth, stopah]
 created: 2026-05-07
-updated: 2026-10-30
-sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis, lee-2018-accelerate-ah, hendershot-2025-semaglutide-aud]
+updated: 2026-11-08
+sources: [acg-2024-ald, acg-2026-preventive-care-cirrhosis, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis, lee-2018-accelerate-ah, hendershot-2025-semaglutide-aud]
 ---
 
 # Alcohol-Associated Liver Disease
@@ -190,6 +190,8 @@ All ALD patients should receive AUD treatment [[acg-2024-ald]], [[aasld-2020-ald
 | Disulfiram | Rec 12 — suggest **against**, across the whole ALD spectrum | Conditional / very low |
 
 - Naltrexone (both short- and long-acting) may be used in **early ALD and compensated cirrhosis**, but must be **avoided in decompensated cirrhosis or liver failure**, and used cautiously in kidney disease. **No data** on acamprosate or naltrexone duration, or on their use in AH
+- **Dose ranges differ slightly between guidelines.** [[acg-2026-preventive-care-cirrhosis|ACG 2026]] names naltrexone and acamprosate as the two agents with the **highest level of evidentiary support** in cirrhosis, printing **naltrexone 50–100 mg orally daily or 380 mg intramuscularly every 4 weeks** and **acamprosate 333–666 mg three times a day** — wider ranges at both ends than the table above. The table's figures are the AASLD/ACG ALD numbers; neither set is wrong, and the hepatic-impairment cautions in the Notes column govern either way. Note ACG 2026 does **not** repeat the compensated-only qualifier that [[acg-2024-ald]] attaches to Rec 10
+- **Screen for AUD at every clinical encounter in cirrhosis**, not only at diagnosis, and especially at deterioration or decompensation — screening is the prerequisite for everything in this section ([[acg-2026-preventive-care-cirrhosis]], key concept). Postdischarge behavioral therapy after a cirrhosis hospitalization is separately recommended; see [[cirrhosis|cirrhosis → Preventive Care]]
 - **Alcohol withdrawal syndrome (AWS):** assess and manage per the **Clinical Institute Withdrawal Assessment for Alcohol, revised (CIWA-Ar)** protocol; differentiate from [[hepatic-encephalopathy|hepatic encephalopathy]] — the two can coexist (Key concept 12). For **severe** AWS, benzodiazepines are the treatment of choice but require **cautious use and careful monitoring** given their potential to precipitate or worsen HE (Rec 13, *strong / moderate*)
 
 - ⚠ **No [[glp-1-receptor-agonists|glucagon-like peptide-1 receptor agonist (GLP-1 RA)]] belongs in these tables.** One small phase-2 trial of [[semaglutide]] in AUD is off-label, investigational and not practice-changing; no guideline lists it as AUD pharmacotherapy ([[hendershot-2025-semaglutide-aud]], detail on [[semaglutide]]).
@@ -244,10 +246,11 @@ Recurrent ALD after transplant ([[aasld-ast-2025-liver-transplant-graft-complica
 ## Sources
 
 1. [[acg-2024-ald|ACG Clinical Guideline: Alcohol-Associated Liver Disease (2024)]]
-2. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
-3. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
-4. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
-5. [[aasld-2020-ald|AASLD 2019/2020 Practice Guidance: Diagnosis and Treatment of Alcohol-Associated Liver Diseases]]
-6. [[acg-2019-hereditary-hemochromatosis|ACG 2019: Hereditary Hemochromatosis]]
-7. [[lee-2018-accelerate-ah|Outcomes of Early Liver Transplantation for Patients With Severe Alcoholic Hepatitis (ACCELERATE-AH)]]
-8. [[hendershot-2025-semaglutide-aud|Once-Weekly Semaglutide in Adults With Alcohol Use Disorder: A Randomized Clinical Trial]]
+2. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
+3. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
+4. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
+5. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
+6. [[aasld-2020-ald|AASLD 2019/2020 Practice Guidance: Diagnosis and Treatment of Alcohol-Associated Liver Diseases]]
+7. [[acg-2019-hereditary-hemochromatosis|ACG 2019: Hereditary Hemochromatosis]]
+8. [[lee-2018-accelerate-ah|Outcomes of Early Liver Transplantation for Patients With Severe Alcoholic Hepatitis (ACCELERATE-AH)]]
+9. [[hendershot-2025-semaglutide-aud|Once-Weekly Semaglutide in Adults With Alcohol Use Disorder: A Randomized Clinical Trial]]

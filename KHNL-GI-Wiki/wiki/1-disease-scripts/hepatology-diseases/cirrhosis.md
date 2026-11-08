@@ -1,10 +1,10 @@
 ---
 title: "Cirrhosis"
 category: disease-script
-tags: [cirrhosis, liver, hpb, decompensation, compensated, meld, child-pugh, vocal-penn, csph, portal-hypertension, fibrosis, f4, nilda, fib-4, elastography, perioperative, frailty, palliative-care, liver-transplant]
+tags: [cirrhosis, liver, hpb, decompensation, compensated, meld, child-pugh, vocal-penn, csph, portal-hypertension, fibrosis, f4, nilda, fib-4, elastography, perioperative, frailty, palliative-care, liver-transplant, preventive-care, vaccination, osteoporosis]
 created: 2026-07-16
-updated: 2026-10-30
-sources: [aasld-2023-portal-hypertension, aasld-2024-nilda-blood, aasld-2024-nilda-portal-htn, acg-2025-perioperative-cirrhosis, aasld-2021-ascites-sbp-hrs, aasld-2021-malnutrition-cirrhosis, aasld-2024-aclf, aga-2021-cirrhosis-coagulation, aasld-2022-palliative-cirrhosis, nccn-2026-hcc, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-ast-2025-liver-transplant-candidate-evaluation]
+updated: 2026-11-08
+sources: [aasld-2023-portal-hypertension, aasld-2024-nilda-blood, aasld-2024-nilda-portal-htn, acg-2025-perioperative-cirrhosis, acg-2026-preventive-care-cirrhosis, aasld-2021-ascites-sbp-hrs, aasld-2021-malnutrition-cirrhosis, aasld-2024-aclf, aga-2021-cirrhosis-coagulation, aasld-2022-palliative-cirrhosis, nccn-2026-hcc, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-ast-2025-liver-transplant-candidate-evaluation]
 ---
 
 ## Contents
@@ -17,6 +17,7 @@ sources: [aasld-2023-portal-hypertension, aasld-2024-nilda-blood, aasld-2024-nil
 - [[#Diagnostics]]
 - [[#Therapeutics]]
   - [[#Complication Map]]
+  - [[#Preventive Care]]
   - [[#Treat the Underlying Liver Disease]]
   - [[#Nutrition, Frailty, and Sarcopenia]]
   - [[#Hemostasis and Periprocedural Management]]
@@ -252,6 +253,38 @@ Each complication has its own page; this hub only routes to them.
 | Malnutrition, frailty, sarcopenia | [[nutrition-in-liver-disease]] | Calorie/protein targets, late-evening snack |
 | Antibiotic prophylaxis | [[antibiotic-prophylaxis-cirrhosis]] | SBP and post-hemorrhage prophylaxis |
 
+### Preventive Care
+
+*Anchored to [[acg-2026-preventive-care-cirrhosis]]. Complication-specific prophylaxis (varices, ascites, HE, HCC, antibiotics) lives on the pages in the Complication Map above; this section holds what no complication page owns.*
+
+**Vaccination** — all Grading of Recommendations, Assessment, Development and Evaluation (GRADE) low certainty; strength as printed:
+
+| Vaccine | Statement | Strength |
+|---|---|---|
+| Hepatitis A | Test for immunity, vaccinate if nonimmune | **Strong** |
+| Hepatitis B | Test for immunity, immunize if nonimmune | Conditional (very low) |
+| Influenza | Annual immunization | **Strong** |
+| SARS-CoV-2 | Complete the vaccination series | **Strong** |
+| Respiratory syncytial virus (RSV) | Bivalent vaccine if **≥50 years old** | **Strong** |
+
+- **Nonresponse to hepatitis B vaccine is common — response is only ~50% in cirrhosis.** Patients not immune despite prior vaccination should be **revaccinated**, with consideration of the newer Toll-like receptor 9 (TLR9) vaccine (key concept); double-dose vaccination is the other studied option
+
+> [!pitfall] Check hepatitis A immunity — don't assume it
+> Acute hepatitis A in cirrhosis carries an age- and sex-adjusted increased odds of death. Testing for immunity and vaccinating the nonimmune is one of the few **strong** preventive recommendations, despite low-certainty evidence, because the safety profile is excellent and fulminant failure is the averted event ([[acg-2026-preventive-care-cirrhosis]]).
+
+**Non-liver-specific and lifestyle**
+
+- **Smoking cessation counseling in active smokers** — *strong*, low certainty. Smoking is linked to fibrosis progression, higher [[hepatocellular-carcinoma|HCC]] risk and mortality; by 30 years after cessation there is no excess risk of fracture-independent adverse outcomes attributable to smoking
+- **Osteoporosis — treat with bisphosphonates to reduce fracture risk** (*conditional*, low). Screening uptake is poor: of 5,398 patients with cirrhosis, <25% had dual-energy x-ray absorptiometry (DEXA) ordered and only 23% of those with osteoporosis were treated
+  - **Esophageal or gastric varices are not, by themselves, a contraindication to oral bisphosphonates** — the cited studies in patients with varices showed no increase in GI bleeding. A 2-year real-world study of oral risedronate in cirrhosis with esophageal varices improved lumbar bone mineral density without increased bleeding
+  - ⚠ **Contradiction with the cholestatic-liver-disease guidance — surfaced, not merged.** [[primary-biliary-cholangitis]] (AASLD 2021, Guidance Statement 18) calls oral bisphosphonates **contraindicated** with known varices or acid reflux and directs to a parenteral formulation; [[primary-sclerosing-cholangitis]] gives the same parenteral-if-varices rule. ACG 2026 is the **newer** tier-1 statement and governs this page for cirrhosis generally; the PBC/PSC pages still carry their own society's rule, so expect the parenteral route to be the local norm in those two diseases
+  - Denosumab, anabolic agents (e.g., teriparatide) and hormone therapy are otherwise used as in the general population
+- **Extrahepatic cancer screening** (key concept) — cirrhosis carries a **2- to 3-fold** increased risk of extrahepatic cancer. Age-appropriate screening per standard guidelines should be considered in patients **being evaluated for or listed for [[liver-transplantation|transplant]]**, or with **compensated cirrhosis who are nonfrail and without severe life-limiting comorbidities**. Evidence is insufficient to recommend it in **decompensated** cirrhosis not on the waitlist — reduced tolerance for cancer therapy negates the benefit
+- **Alcohol use disorder (AUD)** — screen with a validated instrument such as the Alcohol Use Disorders Identification Test–Consumption (AUDIT-C) at **each clinical encounter**, especially at deterioration or decompensation (key concept). Postdischarge behavioral therapy after a cirrhosis admission is *conditionally* recommended; pharmacotherapy doses on [[alcohol-associated-liver-disease]]
+- **Readmission prevention** (key concept) — intensified outpatient care after a cirrhosis hospitalization, **including postdischarge follow-up within 14 days**, may reduce readmission and mortality. Multimodal discharge bundles (discharge planning, medication reconciliation, scheduled visits, dietician, physical therapy, AUD treatment, outpatient monitoring) are the tested interventions
+- **Statins should not be offered for HCC chemoprevention** in the absence of conventional cardiovascular indications (key concept) — the observational signal is confounded by immortal-time and selection bias. Where a patient with compensated cirrhosis has a standard cardiovascular indication, statins should be considered
+- **Exercise — structured aerobic *and* resistance training** in ambulatory patients to improve muscle health and physical function (*conditional*, low); typical programs run 8–14 weeks. Nonambulatory patients: aquatic, chair-based or recumbent exercise, or cardiopulmonary/physical rehabilitation. Combined with nutrition it outperforms either alone — targets on [[nutrition-in-liver-disease]]
+
 ### Treat the Underlying Liver Disease
 
 - **Lifestyle modification and treatment of the underlying liver disease should be prioritized** to prevent progression to CSPH and decompensation [[aasld-2023-portal-hypertension]]
@@ -331,12 +364,13 @@ Malnutrition, sarcopenia, and frailty are **very common and potentially modifiab
 2. [[aasld-2024-nilda-blood|AASLD 2024 Practice Guideline: Blood-Based Noninvasive Liver Disease Assessment (NILDA) of Hepatic Fibrosis and Steatosis]]
 3. [[aasld-2024-nilda-portal-htn|AASLD Practice Guideline: Noninvasive Assessment of Portal Hypertension (2024)]]
 4. [[acg-2025-perioperative-cirrhosis|ACG Clinical Guideline: Perioperative Risk Assessment and Management in Cirrhosis (2025)]]
-5. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]
-6. [[aasld-2021-malnutrition-cirrhosis|AASLD Practice Guidance: Malnutrition, Frailty, and Sarcopenia in Cirrhosis (2021)]]
-7. [[aasld-2024-aclf|AASLD 2024 Practice Guidance on Acute-on-Chronic Liver Failure]]
-8. [[aga-2021-cirrhosis-coagulation|AGA Clinical Practice Guideline: Coagulation Disorders in Cirrhosis (2021)]]
-9. [[aasld-2022-palliative-cirrhosis|AASLD Practice Guidance: Palliative Care and Symptom-Based Management for Decompensated Cirrhosis (2022)]]
-10. [[nccn-2026-hcc|NCCN Clinical Practice Guidelines in Oncology: Hepatocellular Carcinoma (Version 1.2026)]]
-11. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
-12. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
-13. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
+5. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
+6. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]
+7. [[aasld-2021-malnutrition-cirrhosis|AASLD Practice Guidance: Malnutrition, Frailty, and Sarcopenia in Cirrhosis (2021)]]
+8. [[aasld-2024-aclf|AASLD 2024 Practice Guidance on Acute-on-Chronic Liver Failure]]
+9. [[aga-2021-cirrhosis-coagulation|AGA Clinical Practice Guideline: Coagulation Disorders in Cirrhosis (2021)]]
+10. [[aasld-2022-palliative-cirrhosis|AASLD Practice Guidance: Palliative Care and Symptom-Based Management for Decompensated Cirrhosis (2022)]]
+11. [[nccn-2026-hcc|NCCN Clinical Practice Guidelines in Oncology: Hepatocellular Carcinoma (Version 1.2026)]]
+12. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+13. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+14. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]

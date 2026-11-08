@@ -3,8 +3,8 @@ title: "Nutrition in Liver Disease"
 category: disease-script
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, masld, ald, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-10-29
-sources: [acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis, borhofen-2016-rfh-npt-cirrhosis, acg-2024-ald, aasld-2020-ald]
+updated: 2026-11-08
+sources: [acg-2026-preventive-care-cirrhosis, acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis, borhofen-2016-rfh-npt-cirrhosis, acg-2024-ald, aasld-2020-ald]
 ---
 
 Malnutrition (most commonly sarcopenia) is a common complication of liver disease, severity-dependent, and independently associated with higher mortality, waitlist mortality, post-transplant mortality, length of stay, and infections. Malnutrition is underrecognized because weight loss is masked by fluid retention ([[ascites]], edema), and [[obesity]] does not exclude sarcopenic obesity.
@@ -135,10 +135,17 @@ Malnutrition in liver disease is multifactorial:
 
 | Target | Value |
 |---|---|
-| **Calories** | **≥35 kcal/kg/day** (non-obese cirrhosis) [[aasld-2021-malnutrition-cirrhosis]] |
-| **Protein** | **1.2–1.5 g/kg/day** — do **NOT** protein-restrict, even with [[hepatic-encephalopathy\|HE]] [[aasld-2021-malnutrition-cirrhosis]] |
+| **Calories** | **≥35 kcal/kg/day** (non-obese cirrhosis) [[aasld-2021-malnutrition-cirrhosis]] · **30–35 kcal/kg/day** [[acg-2026-preventive-care-cirrhosis]] |
+| **Protein** | **1.2–1.5 g/kg/day** — do **NOT** protein-restrict, even with [[hepatic-encephalopathy\|HE]] [[aasld-2021-malnutrition-cirrhosis]]. [[acg-2026-preventive-care-cirrhosis\|ACG 2026]] specifies **1.2–1.5 g/kg *ideal body weight*/day** |
+| **Calories with obesity** | **25–35 kcal/kg/day** if body mass index (BMI) **30–40 kg/m²**; **20–25 kcal/kg/day** if BMI **≥40 kg/m²** [[acg-2026-preventive-care-cirrhosis]] |
 
 - Critically ill / [[acute-on-chronic-liver-failure|acute-on-chronic liver failure (ACLF)]] inpatients use different (weight-based, ideal body weight [IBW]) targets — initial 12–25 kcal/kg IBW/day, protein 1.2–2.0 g/kg IBW/day; see [[acute-on-chronic-liver-failure]].
+- **Deliver the targets through a dietician** — ACG 2026 Rec 15 (*conditional, low*) recommends dietician-guided interventions rather than a number handed to the patient; the trials that improved frailty and hospitalization used dietician-supported intensive therapy.
+
+> [!pearl] Nutrition works when it is paired with exercise
+> Protein or branched-chain amino acid (BCAA) supplementation **alone** did not significantly improve muscle mass in meta-analysis (standardized mean difference 0.69 and 0.33, both non-significant). Combined with exercise the effect is large and consistent (exercise + protein 2.12, exercise + BCAA 1.55, exercise + protein + BCAA 1.55). Prescribe both or expect neither to work ([[acg-2026-preventive-care-cirrhosis]]).
+
+- **Structured aerobic *and* resistance exercise** in ambulatory cirrhosis improves muscle mass, physical function and falls (ACG 2026 Rec 16, *conditional, low*); programs run **8–14 weeks**, center- or home-based, with serious adverse events no higher than control (6%–12%). Nonambulatory patients: aquatic, chair-based or recumbent exercise, or cardiopulmonary/physical rehabilitation. **Dedicated trial data in nonambulatory and advanced decompensated patients are limited** — most trials enrolled Child A, few included Child C.
 
 ### Core Nutritional Principles (Stable Outpatient Cirrhosis)
 
@@ -221,3 +228,4 @@ Malnutrition in liver disease is multifactorial:
 3. [[borhofen-2016-rfh-npt-cirrhosis|The Royal Free Hospital-Nutritional Prioritizing Tool Is an Independent Predictor of Deterioration of Liver Function and Survival in Cirrhosis (2016)]]
 4. [[acg-2024-ald|ACG Clinical Guideline: Alcohol-Associated Liver Disease (2024)]]
 5. [[aasld-2020-ald|AASLD 2019/2020 Practice Guidance: Diagnosis and Treatment of Alcohol-Associated Liver Diseases]]
+6. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]

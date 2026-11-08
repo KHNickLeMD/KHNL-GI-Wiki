@@ -6,6 +6,55 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-08] lint | Backlog-mode ingest pass — tier-1 guidelines
+
+**Mode:** backlog mode **ON** — uningested tier-1 `raw/` files remain, so ingest took the pass's budget. *Validate the stalest pages*, *Expand stubs* and *Fill coverage gaps* **paused: ingest backlog**. Not the 06:00 pass → no daily source fetch. Inbox sync: `git status` clean, **no new untracked `raw/` files to commit**.
+
+**Raw/ backlog audit (re-run this pass):** fuzzy-matched all **617** `raw/` files against the **420** `wiki/sources/` pages by title + `**Article:**` line, then verified low scorers by author+year grep. **~55 uningested tier-1/2 files confirmed** — backlog mode stays **ON**. Note for future passes: `/repo/website_files/scripts/audit-raw-ingest.py` already exists and does this job; use it instead of hand-rolling the match.
+
+**Sources ingested:**
+
+- **[[acg-2026-preventive-care-cirrhosis]]** — ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (Tapper, Am J Gastroenterol 2026). All **18 GRADE recommendations and 6 key concepts** captured with strength and certainty as printed, plus the operative narrative detail (carvedilol 12.5 mg and the no-pulse-target rule; CSPH thresholds; nutrition targets by BMI band; naltrexone/acamprosate doses; HCC surveillance candidacy). Read via the Read tool, not `pdftotext`.
+
+**Pages updated:**
+
+- `[[cirrhosis]]` — new `### Preventive Care` section: vaccination table (HAV/HBV test-then-vaccinate, influenza, SARS-CoV-2, RSV ≥50 y) with strengths, HBV revaccination and TLR9 vaccine, osteoporosis/bisphosphonates, extrahepatic cancer screening by group, AUDIT-C each encounter, <14-day postdischarge follow-up, statins-not-for-chemoprevention, exercise. `## Contents` and `## Sources` updated.
+- `[[antibiotic-prophylaxis-cirrhosis]]` — ACG 2026 added as the **governing** duration (short **2–3 days**), above AASLD 2023's 2–5 d; recorded that it widens scope to **all** upper GI bleeding, variceal or nonvariceal, with or without ascites, and that the comparator includes *no antibiotics*. Regimen table's duration row realigned so the page is not internally inconsistent.
+- `[[hepatic-encephalopathy]]` — Rec 3 added: rifaximin **not** for primary prevention of overt HE in MHE, with the reverses-but-does-not-prevent data that explains the negative recommendation alongside its positive secondary-prophylaxis role.
+- `[[albumin]]` — new table row for paracentesis **≤5 L**: albumin reasonably reserved for hyponatremia or renal dysfunction.
+- `[[hcc-surveillance]]` — new chemoprevention table: **aspirin not suggested**, **statins not offered** absent a cardiovascular indication, each with why the observational signal fails; smoking-cessation hazard ratios.
+- `[[nutrition-in-liver-disease]]` — BMI-banded calorie targets (25–35 kcal/kg for BMI 30–40; 20–25 for BMI ≥40), protein per **ideal** body weight, dietician-guided delivery, and the exercise-pairing pearl.
+- `[[alcohol-associated-liver-disease]]` — ACG 2026 dose ranges noted against the existing table; screening at every encounter.
+- `[[nonselective-beta-blockers]]` — Rec 6's narrower endpoint (carvedilol to reduce **first-episode ascites**) added to the compensated-CSPH row.
+- `[[primary-biliary-cholangitis]]`, `[[primary-sclerosing-cholangitis]]` — cross-reference to the bisphosphonate contradiction below.
+- `wiki/index.md` — source row added.
+
+**Contradiction surfaced (tier-1 vs tier-1):** ACG 2026 holds that **varices are not by themselves a contraindication to oral bisphosphonates** (citing a 2-year risedronate study in cirrhosis with varices showing no excess bleeding). AASLD PBC 2021 Guidance Statement 18 calls oral bisphosphonates **contraindicated** with known varices and directs to a parenteral formulation; the PSC guidance says the same. ACG 2026 is newer and governs `[[cirrhosis]]`; the two cholestatic pages keep their own society's rule and now carry the cross-link. Recorded on all three pages and in the source page's Contradictions section. **Not carded** — a live disagreement is not a flashcard fact.
+
+**Cards (guideline-sourced, tier-1 ✓):** 11 new notes + 1 reworded, across 6 files, all `{at:}`-anchored, `page_updated:` bumped.
+
+- `cirrhosis` — vaccination set + RSV age cut, HBV nonresponse → revaccinate/TLR9, extrahepatic cancer screening by group, 14-day follow-up window.
+- `antibiotic-prophylaxis-cirrhosis` — **`961ee8` reworded, id preserved** (scheduling kept): duration now tests **2–3 days** per the governing source, with AASLD's 2–5 d in Back Extra; the old card had become stale against the page. Two new notes: which bleeds qualify, and what a short course costs vs buys.
+- `hcc-surveillance` — aspirin and statin chemoprevention stances in one note.
+- `nutrition-in-liver-disease` — BMI-banded calorie targets; why supplements are paired with exercise.
+- `albumin` — the ≤5 L decision. `hepatic-encephalopathy` — rifaximin not for primary prevention.
+- Checked against `dist/khnl-gi-wiki.json` first; no duplicates. The PBC/PSC parenteral-bisphosphonate card was left alone — different disease, different source.
+- **Section-anchor backfill got 5 free riders:** `a7c101/02/04/05/06` and `ab2001/02/03` were in the standing untagged queue and were judged and tagged while these files were open (19 `--apply` writes total, 0 refused).
+
+**Not done this pass, and why:**
+
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps* — **paused: ingest backlog** (backlog mode gives ingest the budget).
+- **Daily source fetch — not run.** This is not the 06:00 pass; its prompt did not call for a fetch.
+- **Inbox sync — nothing to commit.** `git status` was clean at session start; no untracked files under `raw/`.
+- **Deck not rebuilt** — `node` is blocked in this sandbox, so the 05:00 card pass builds these files. Expect the new notes in the next deck.
+
+**Hygiene fixes:**
+
+- Renumbered the `## Sources` lists on `cirrhosis`, `alcohol-associated-liver-disease` and `hcc-surveillance` after insertions (a scripted renumber misfired on ALD and was corrected in place).
+- Two card blocks were initially appended **below `# Retired`** on `hcc-surveillance` and `nutrition-in-liver-disease`, which would have exported them blank and tagged them retired; caught and relocated above the heading before applying anchors.
+
+---
+
 ## [2026-11-07] update | Card pass — dedup queue cleared, section-anchor backfill 948 notes
 
 **Slim the deck (ran first, as required):** `anki-dupes.mjs` → 3 unjudged candidate pairs at ≥0.40, **all judged `distinct`, 0 merges.** Ledger rows added for each.
