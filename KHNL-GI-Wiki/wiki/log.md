@@ -6,6 +6,37 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-08] update | Card pass — dedup sweep, stale-card refresh, section-anchor backfill
+
+**Dedup (ran first, before any new card):** `anki-dupes.mjs` offered **5 unjudged candidate pairs** at ≥0.4. **All 5 judged distinct, 0 merges** — every verdict marked in `dedup-ledger.tsv`; the unjudged queue is now **0**. The near-misses and why they stay separate:
+
+- `cdiff-antibiotics` `cab00a`/`cab00b` — **pregnancy vs lactation** are different populations with different reasons: metronidazole is avoided in pregnancy for the 50% treatment-change rate, in breastfeeding because the infant takes up to 24% of the maternal dose.
+- `perianal-fistulizing-crohns-disease` `cf0002` vs `anti-tnf-agents` `af0019` — "which anti-TNF not to choose" is not the same fact as certolizumab's maintenance dose.
+- `anti-tnf-agents` `af0002`/`af0017` — the intravenous regimen that relapses on a subcutaneous switch vs the standard intravenous regimen.
+- `porto-sinusoidal-vascular-disorder` `e10013` vs `variceal-upper-gi-bleeding` `1f2b4c` — different disease, and primary vs secondary prophylaxis.
+- `hemorrhoids` `cf1006`/`cf100f` — office therapy before surgery vs the coagulopathy thresholds that pick banding vs infrared coagulation.
+
+**Build problems fixed (left by the 2026-11-08 ingest pass):** 4 length-cap violations, all recut without touching an id.
+
+- `albumin` `a1b010`, `sglt2-inhibitors` `5617a3` — over-long bullets condensed.
+- `endoscopy-sedation` `5ed02a` — 52 words and a 19-word bullet. "Full stomach precautions means rapid sequence induction with a cuffed endotracheal tube" moved to Back Extra as the definitional gloss it is; front now 32 words.
+
+**Pages carded (4 eligible, all stale against the ACG 2026 cirrhosis ingest; 2 new notes):**
+
+- `[[alcohol-associated-liver-disease]]` — **2 new notes.** `a1d016`: naltrexone 50–100 mg orally daily or 380 mg intramuscularly every 4 weeks, acamprosate 333–666 mg three times a day — the two agents with the highest evidentiary support in cirrhosis. No naltrexone or acamprosate page exists, so the disease page holds the dose table and owns them. `a1d017`: screen for alcohol use disorder at **every** clinical encounter, not only at diagnosis.
+- `[[nonselective-beta-blockers]]` — **nothing cardable.** ACG 2026 Rec 6 only renames the endpoint of an already-carded recommendation (carvedilol for compensated CSPH, owned by `[[portal-hypertension]]` `b10005`); the 51% / hazard-ratio-0.49 detail is trial results. `page_updated:` bumped.
+- `[[primary-biliary-cholangitis]]`, `[[primary-sclerosing-cholangitis]]` — **nothing cardable.** Each gained only the cross-reference to the live tier-1 bisphosphonate disagreement. A card would have to teach one of two contradictory answers. `page_updated:` bumped on both.
+- The 3 pages with no card file at all remain the standing deliberate skips (`telemedicine-in-gastroenterology`, `bristol-stool-form-scale`, `peginterferon-alfa-2a`) — re-checked, still correctly uncarded.
+
+**Section-anchor backfill — queue cleared:** **250 untagged notes across 74 files → 0**, in 13 chunks, **0 refused** by `anki-at.py` and no `at:… is not a heading` warning in the final build, so every id resolves.
+
+- Judged against each page's own headings, not guessed: ~20 notes needed the page grepped to find which section actually states the fact. Corrections that came out of that: the CD4 <100 biopsy-yield note sits under *Red Flags*, not *Key Tests*; baclofen's reflux and rumination doses both resolve to the `dosing` table, whose rows state requirement and dose together; the alosetron >6-month criterion is in *Indication & Population Restriction*, not *Safety / REMS*.
+- `[[hemin]]`'s 3 notes took `{at:-}` as a judged call — **the page has no body headings at all**, only `## See Also` and `## Sources`, with every fact in an unsectioned bullet list. Not orphaned cards (all three facts are on the page); flagged here for a lint pass to section it.
+
+**Deck:** 4,373 notes, **build reports 0 problems** — the standing stale-card backlog is now clear as well. Nothing committed or pushed. `occ files:scan` not run (not the cron); the next scheduled build will refresh what Nextcloud serves.
+
+---
+
 ## [2026-11-08] lint | Backlog-mode ingest pass — tier-1 guidelines
 
 **Mode:** backlog mode **ON** — uningested tier-1 `raw/` files remain, so ingest took the pass's budget. *Validate the stalest pages*, *Expand stubs* and *Fill coverage gaps* **paused: ingest backlog**. Not the 06:00 pass → no daily source fetch. Inbox sync: `git status` clean, **no new untracked `raw/` files to commit**.
