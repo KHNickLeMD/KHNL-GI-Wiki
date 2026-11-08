@@ -3,8 +3,8 @@ title: "Liver Stiffness Measurement (Elastography)"
 category: concept
 tags: [liver-stiffness, elastography, transient-elastography, vcte, fibroscan, spleen-stiffness, cACLD, CSPH, noninvasive, portal-hypertension, fibrosis]
 created: 2026-08-01
-updated: 2026-09-26
-sources: [baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2024-nilda-portal-htn, aasld-2023-portal-hypertension, aga-2017-elastography-liver-fibrosis]
+updated: 2026-11-08
+sources: [aga-2026-metald, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2024-nilda-portal-htn, aasld-2023-portal-hypertension, aga-2017-elastography-liver-fibrosis]
 ---
 
 Liver stiffness measurement (LSM) is a non-invasive estimate of hepatic fibrosis and portal pressure using elastography — a core [[noninvasive-liver-disease-assessment|noninvasive liver disease assessment (NILDA)]] tool. It is the point-of-care backbone of the [[portal-hypertension|compensated advanced chronic liver disease (cACLD)/clinically significant portal hypertension (CSPH)]] framework, letting clinicians stage [[cirrhosis|cACLD]] and stratify decompensation risk **without [[liver-biopsy|biopsy]] or [[hepatic-venous-pressure-gradient|hepatic venous pressure gradient (HVPG)]]**.
@@ -88,12 +88,14 @@ A parallel, **etiology-specific** ladder aimed at *histologic cirrhosis*, not at
 - **False elevation / unreliable reading** with: recent food intake — AGA 2017 puts the window at **food within 2–3 hours** — active or **acute hepatitis** / alanine aminotransferase (ALT) >3× upper limit of normal (ULN), **alcohol abuse**, cholestasis/biliary obstruction (AGA 2017: **extrahepatic** cholestasis), hepatic congestion / **congestive heart failure**, [[obesity]] (unreliable — use XL probe), and infiltrative disease. Cut-offs are less reliable in MASLD and [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]] with dominant strictures. [[aga-2017-elastography-liver-fibrosis]]
 - **LSM-based criteria cannot be applied in [[porto-sinusoidal-vascular-disorder|porto-sinusoidal vascular disorder (PSVD)/non-cirrhotic portal fibrosis (NCPF)]]** ([[baveno-viii-2026-portal-hypertension]] 8.48) — but **spleen** stiffness can: SSM <40 kPa with bilirubin <1 mg/dL spares endoscopy there (8.47).
 - **Paediatrics:** LSM is a valuable complementary tool for identifying children at risk of portal hypertension and monitoring progression, but **management cannot rely on LSM and/or SSM alone** — the paediatric [[variceal-upper-gi-bleeding|varices]] cut-offs are not yet validated (1.25–1.26).
+- **Timing the scan around drinking** ([[aga-2026-metald]]): in [[metald|MetALD]] and alcohol-related disease, measure LSM **after ≥2–4 weeks of alcohol reduction or abstinence**, and check serum phosphatidylethanol (PEth) or urinary ethyl glucuronide **at the time of the scan** so the reading can be interpreted. In alcohol cohorts, stiffness falls substantially **within days** of withdrawal and aminotransferase normalization — a single timepoint taken at face value can misclassify moderate fibrosis as cirrhosis.
+- **VCTE is generally preferred over ultrasound shear wave elastography** in clinical pathways — more standardized and more broadly established cutoffs, whereas shear wave performance is more platform- and operator-dependent ([[aga-2026-metald]]).
 
 ---
 
 ## See Also
 
-[[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[nafld-masld]], [[liver-biopsy]], [[noninvasive-liver-disease-assessment]], [[variceal-upper-gi-bleeding]], [[alcohol-associated-liver-disease]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[primary-sclerosing-cholangitis]], [[obesity]]
+[[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[nafld-masld]], [[metald]], [[liver-biopsy]], [[noninvasive-liver-disease-assessment]], [[variceal-upper-gi-bleeding]], [[alcohol-associated-liver-disease]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[primary-sclerosing-cholangitis]], [[obesity]]
 
 ---
 
@@ -104,3 +106,4 @@ A parallel, **etiology-specific** ladder aimed at *histologic cirrhosis*, not at
 3. [[aasld-2024-nilda-portal-htn|AASLD Practice Guideline: Noninvasive Assessment of Portal Hypertension (2024)]]
 4. [[aasld-2023-portal-hypertension|AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis]]
 5. [[aga-2017-elastography-liver-fibrosis|American Gastroenterological Association Institute Guideline on the Role of Elastography in the Evaluation of Liver Fibrosis (2017)]]
+6. [[aga-2026-metald|AGA Clinical Practice Update on the Evaluation and Management of Metabolic Dysfunction– and Alcohol-Associated Liver Disease: Expert Review]]

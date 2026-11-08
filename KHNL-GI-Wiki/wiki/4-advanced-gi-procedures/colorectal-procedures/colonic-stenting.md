@@ -3,8 +3,8 @@ title: "Colonic Stenting (SEMS for Malignant Colonic Obstruction)"
 category: advanced-procedure
 tags: [colonic-stent, sems, malignant-colonic-obstruction, bridge-to-surgery, palliation, colorectal-cancer, extracolonic-malignancy]
 created: 2026-09-07
-updated: 2026-11-01
-sources: [aga-2021-malignant-alimentary-tract-obstruction, kanaka-2022-colonic-stent-bts-right-sided]
+updated: 2026-11-08
+sources: [asge-2026-colonic-strictures, aga-2021-malignant-alimentary-tract-obstruction, kanaka-2022-colonic-stent-bts-right-sided]
 ---
 
 # Colonic Stenting (SEMS for Malignant Colonic Obstruction)
@@ -12,6 +12,9 @@ sources: [aga-2021-malignant-alimentary-tract-obstruction, kanaka-2022-colonic-s
 Endoscopic placement of a self-expanding metal stent (SEMS) across a **malignant colonic obstruction (MCO)** — either as a **bridge to surgery (BTS)**, converting an emergency operation into a one-stage elective resection, or as **definitive palliation** in a patient who will not be resected. The parallel decision in the upper tract is covered on [[gastric-outlet-obstruction]].
 
 ## Contents
+- [[#ASGE 2026 Recommendations]]
+  - [[#Outcomes behind recommendation 1 — stent as BTS vs emergency surgery]]
+  - [[#Outcomes behind recommendations 2–4]]
 - [[#Indications — the two distinct uses]]
 - [[#Contraindications and Cautions]]
 - [[#Bridge to Surgery]]
@@ -20,8 +23,45 @@ Endoscopic placement of a self-expanding metal stent (SEMS) across a **malignant
 - [[#Palliative Stenting]]
 - [[#Extracolonic Malignancy]]
 - [[#Stent Selection]]
+- [[#Technique]]
 - [[#Adverse Events]]
 - [[#Evidence Quality]]
+
+## ASGE 2026 Recommendations
+
+[[asge-2026-colonic-strictures]] is the first graded guideline on this question. **All four malignant-obstruction recommendations are conditional**; the wiki supplies the numbering, the document does not.
+
+| # | Recommendation | Strength / certainty |
+|---|---|---|
+| 1 | Obstruction from highly suspected or confirmed resectable CRC → **endoscopic colonic stent, when feasible, as BTS over emergency surgery** without stent placement | Conditional / **low** |
+| 2 | Obstruction from CRC **not curable by surgical resection** → **palliative colonic stent over palliative surgery**. On or possibly receiving **bevacizumab** → **shared decision-making** with surgeon, oncologist and patient | Conditional / **very low** |
+| 3 | Obstruction from **extracolonic malignancy** → guide the stent-vs-surgery decision by **specific tumour biology and multidisciplinary discussion**; stenting is feasible but has **higher clinical and technical failure than intraluminal malignancy**, and that must be openly discussed | Conditional / **very low** |
+| 4 | CRC obstruction undergoing stent placement → **uncovered SEMS over covered SEMS** | Conditional / **very low** |
+
+- **This supersedes the older ungraded stance on palliation.** [[aga-2021-malignant-alimentary-tract-obstruction]] BPA 12 declined to choose between SEMS and a diverting colostomy; ASGE 2026 is newer and a GRADE guideline, and **suggests the stent**. The reasons the question is close are kept under *Palliative Stenting*.
+- **Right-sided placement as BTS is more technically challenging and less feasible than left-sided**, and the randomized trials excluded it — the right-sided evidence remains observational (below).
+- **Histopathologic diagnosis before stenting is preferred but often unavailable.** All the randomized trials allowed the decision to rest on the **degree of radiologic suspicion**; placing a stent without tissue is accepted.
+
+### Outcomes behind recommendation 1 — stent as BTS vs emergency surgery
+
+| Outcome | Data | Effect (95% CI) | Certainty | Judgment |
+|---|---|---|---|---|
+| **Permanent stoma** | 7 RCTs | **OR 0.51 (0.34–0.76)** | **Moderate** | Favors stent |
+| Primary anastomosis | 7 RCTs | OR 2.35 (1.47–3.76) | Low | Favors stent |
+| Postoperative adverse events | 8 RCTs | OR 0.44 (0.23–0.85) | Low | Favors stent |
+| **Cancer recurrence** | 6 RCTs | **OR 1.84 (1.05–3.22)** | **Very low** | Favors emergency surgery |
+| 60-d mortality | 6 RCTs | OR 0.93 (0.49–1.79) | Low | Neither |
+| 3-y survival | 4 RCTs | OR 1.66 (0.93–2.96) | Low | Neither |
+| Quality of life | 1 RCT | P = .36 | Very low | Neither |
+
+> [!pitfall] The cancer-recurrence signal has a fragility index of 2
+> Two patients changing from event to nonevent would make it nonsignificant, the certainty is very low, and it was **not** associated with higher 3-year mortality. The proposed mechanism is microperforation with lymphovascular seeding. The panel's instruction is to **discuss it with the patient and set it against the significant reduction in permanent stoma** — not to let it decide the case ([[asge-2026-colonic-strictures]]).
+
+### Outcomes behind recommendations 2–4
+
+- **Palliative stent vs palliative surgery** (RCTs + observational, all very low certainty): permanent stoma **OR 0.15 (0.08–0.28)**, adverse events **OR 0.56 (0.36–0.89)**, length of stay **−4.85 days (−6.02 to −3.68)** — all favouring the stent; 30-day mortality OR 0.60 (0.30–1.18), neither.
+- **Extracolonic vs intracolonic malignancy** (observational, very low): clinical failure **OR 2.88 (1.58–5.25)** and technical failure **OR 2.92 (1.13–5.54)**, both favouring stenting in *intracolonic* disease; adverse events OR 1.26 (0.81–1.96), neither. Reasons for technical failure: stricture angulation, inability to advance the guidewire past the stricture, difficulty advancing the delivery system across a redundant sigmoid, and stent malpositioning.
+- **Uncovered vs covered SEMS** (1 RCT + observational): stent patency **mean difference 19 days (11–48)**, need for reinsertion **OR 0.38 (0.17–0.86)**, adverse events **OR 0.57 (0.44–0.74)** — all favouring uncovered; clinical and technical success no different.
 
 ## Indications — the two distinct uses
 
@@ -40,7 +80,9 @@ Endoscopic placement of a self-expanding metal stent (SEMS) across a **malignant
 ## Contraindications and Cautions
 
 - ⚠ **Performance status can flip the palliative answer toward surgery.** For **Eastern Cooperative Oncology Group (ECOG) 0 or 1**, palliative *surgery* had improved overall survival compared with SEMS; for **ECOG 2 or 3** there was **no difference** in overall survival ([[aga-2021-malignant-alimentary-tract-obstruction]]).
-- **Bevacizumab** has **not** been associated with higher [[endoscopic-management-of-perforation|perforation]] rates in recent large retrospective studies — with the caveat, stated in the source, that many of those patients received it outside 6 weeks of stent placement.
+- ⚠ **Bevacizumab — unresolved, and the newer guideline treats it as such.** An older meta-analysis put colonic stent–related perforation at **12.7% with bevacizumab vs 7% without**; more recent observational studies show a **similar risk with or without** it. [[aga-2021-malignant-alimentary-tract-obstruction]] reads this as no increase in risk (noting many of those patients received bevacizumab outside 6 weeks of stent placement); [[asge-2026-colonic-strictures]] calls the association **still debated** and responds not with reassurance but with a **shared decision-making recommendation** involving the surgeon, oncologist and patient, emphasising the potential for perforation and complicated surgical management in this scenario. The newer source governs.
+- **Rectal stricture with its distal end within 5 cm of the anal verge** is a **relative contraindication** — risk of pain and incontinence. **Absolute contraindications: signs of ischemia, perforation or peritonitis** ([[asge-2026-colonic-strictures]]).
+- **If the malignancy is potentially curable with chemotherapy or radiation** (e.g. lymphoma), an **uncovered SEMS is a poor choice** — tissue ingrowth makes later removal difficult. Uncovered stents should be **reserved for confirmed or highly suspected malignancy**.
 - ⚠ **Perforation and tumour seeding.** A single-centre retrospective South Korean study found that patients whose SEMS placement was **complicated by perforation** had an **odds ratio of 46** for subsequently developing metastasis from seeding. The source explicitly limits this: single-centre, retrospective, small, and with a higher perforation rate than prior meta-analyses. Treat it as a signal, not a risk estimate.
 
 ## Bridge to Surgery
@@ -102,6 +144,26 @@ Historically avoided on the assumption that right-sided stenting is too technica
 
 - ⚠ **Covered-vs-uncovered goes the opposite way in the colon and the oesophagus.** In the **colon**, more recent data including a systematic review and meta-analysis show **uncovered SEMS have fewer adverse events, longer patency and lower re-intervention rates**, with no difference in technical or clinical success — reversing the early studies, which had favoured covered stents for lower migration. In the **oesophagus**, [[aga-2021-malignant-alimentary-tract-obstruction]] BPA 5 requires a **fully or partially covered** stent. Do not carry one recommendation across to the other.
 
+## Technique
+
+Success rates by indication ([[asge-2026-colonic-strictures]]): **malignant colonic stricture — technical 96%, clinical 99%**; **extracolonic malignancy — technical 89%, clinical 74%**; **benign stricture — technical 94%, clinical 88%** (see [[colonic-stricture]]).
+
+- **Equipment:** extraction balloon catheter, long wire (0.035″ or 0.025″), fluoroscopy, water-soluble contrast, and an endoscope compatible with the available deployment system. **Through-the-scope SEMSs are ideal in the colon.** A therapeutic endoscope or adult colonoscope is used; newer smaller-diameter upper endoscopes with large working channels also accommodate through-the-scope devices.
+- **Sizing:** diameters range **18 to 30 mm**, chosen from the healthy lumen diameter of the area to be treated. **Choose a length that leaves at least 2 cm of stent on each side of the stricture.**
+
+> [!howto] Deploying a colonic SEMS
+> 1. Advance a wire across the stricture and **coil it in the upstream colon**.
+> 2. Advance the stent across the stricture and deploy **under fluoroscopy**, ensuring the **proximal end lands at least 2 cm proximal to the stricture**.
+> 3. Deploy the **distal end under endoscopic view**, at least **2 cm from the stricture end** and at least **2 cm upstream of the anal verge** — this is what limits tenesmus and pain.
+> 4. **Immediate stool passage through the stent confirms transluminal placement.**
+> 5. Afterwards: diet advanced as tolerated **to a maximum of low residue**, with **laxatives titrated to keep stools soft**.
+
+> [!pitfall] Don't balloon-dilate the stent after deployment
+> It is **unnecessary and may increase the risk of perforation** ([[asge-2026-colonic-strictures]]). The same source puts the overall adverse-event risk of colonic SEMS for malignant obstruction at **24%** — stent-induced perforation 5%, procedure-related 3%, migration 7%, occlusion 8%, ulceration 2%.
+
+- **Before the scope reaches the stricture:** avoid air insufflation and advance predominantly with **waterjet** and minimal carbon dioxide — gas proximal to a stricture creates a closed-loop system at risk of proximal perforation. Fluoroscopy is necessary when stent placement is planned. Full preprocedural assessment, sedation choice and biopsy/tattoo rules are on [[colonic-stricture]].
+- **[[lumen-apposing-metal-stents|LAMS]] in the colon:** diameters **15 and 20 mm**, lengths **10 and 15 mm**; **rarely possible in the right colon** because adult colonoscopes exceed the catheter length. Distal flange **≥2 cm from the anal verge**; balloon dilation of the LAMS to its maximal diameter may be considered after deployment for immediate symptom relief; **remove or exchange at 2 to 3 months**.
+
 ## Adverse Events
 
 - **Perforation** — 1.7–3% in BTS series. Associations reported for **early** perforation: **sigmoid location and age >70**. For **delayed** perforation: **flexure location and absence of peritoneal carcinomatosis**.
@@ -119,7 +181,7 @@ Historically avoided on the assumption that right-sided stenting is too technica
 
 ## See Also
 
-[[colorectal-cancer]], [[gastric-outlet-obstruction]], [[colonoscopy]], [[acute-lower-gi-bleeding]], [[endoscopic-oncology]], [[colorectal-cancer-screening]]
+[[colonic-stricture]], [[colorectal-cancer]], [[gastric-outlet-obstruction]], [[colonoscopy]], [[lumen-apposing-metal-stents]], [[endoscopic-management-of-perforation]], [[acute-lower-gi-bleeding]], [[endoscopic-oncology]], [[colorectal-cancer-screening]]
 
 ---
 
@@ -127,3 +189,4 @@ Historically avoided on the assumption that right-sided stenting is too technica
 
 1. [[aga-2021-malignant-alimentary-tract-obstruction|AGA 2021 Clinical Practice Update: Optimal Management of the Malignant Alimentary Tract Obstruction]]
 2. [[kanaka-2022-colonic-stent-bts-right-sided|Kanaka et al. 2022: Colonic stent as a bridge to surgery versus emergency resection for right-sided malignant large bowel obstruction — a meta-analysis]]
+3. [[asge-2026-colonic-strictures|American Society for Gastrointestinal Endoscopy Guideline on Endoscopic Management of Benign and Malignant Colonic Strictures]]

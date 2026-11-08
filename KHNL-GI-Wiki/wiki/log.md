@@ -6,6 +6,94 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-08] lint | 06:00 backlog pass — daily fetch + ingest by budget
+
+**Mode:** backlog mode **ON**. *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps* **paused: ingest backlog**. Inbox sync: `git status` clean at session start — **no new untracked `raw/` files to commit**. No `ingest: partial` marker anywhere, so nothing to resume; the pass starts fresh.
+
+**Daily source fetch (06:00 step): 0 downloaded — nothing qualified.** Screened `needed-sources.md` with *Scores and classification instruments* first, per the rule.
+
+- **Scores section — all 3 rows 🔒**, so all skipped (Eckardt 1992, WHO Blue Book 2019, Amodio 2013 ISHEN).
+- **Guidelines section — every row is 🔒 or 🌐** except two that were unmarked: the **CDC Yellow Book / CDC parasites pages** and the **NIH/CDC/IDSA opportunistic-infections guidelines**. Both are free web guidance with **no DOI and no PubMed Central copy**, so `fetch-paper.py` (PMC open-access bucket and DailyMed only) can never take them. **Marked 🌐** so the daily screen stops re-picking them every morning and finding nothing.
+- **Product labels — no outstanding rows.** No second pick was made to reach 2; the cap is a ceiling.
+
+**Download-list correction — 4 rows were marked 🔒 for documents that are already in `raw/`:** ASGE 2021 Gastroduodenal Obstruction (Jue), AGA 2020 Probiotics Technical Review (Preidis), ACS 2018 CRC Screening (Wolf) and USPSTF 2021 CRC Screening (Davidson). "Paywalled, download by hand" was actively wrong — the files are on disk, they are simply uningested. The 🔒 marks were removed and each row now says the document is in `raw/` awaiting ingest (the pattern the NCCN row already used). **These are ingest candidates for the next pass, not fetch candidates.**
+
+**Raw/ backlog audit:** ran `/repo/website_files/scripts/audit-raw-ingest.py` (617 raw files vs 422 source pages), then verified the low scorers by hand. **The previous pass's "confirmed uningested" list was partly stale** — `aga-2026-cdiff-adults`, `aga-2026-cdiff-ibd`, `aga-2026-inpatient-ibd` and `aga-2026-ampullary-neoplasms` are all ingested, so 4 of its named AGA 2026 targets were already done. Verified this pass by listing `wiki/sources/` directly rather than trusting the carried list. Backlog mode stays **ON**.
+
+**Sources ingested:**
+
+- **[[aga-2026-metald]]** — AGA Clinical Practice Update on the Evaluation and Management of Metabolic Dysfunction– and Alcohol-Associated Liver Disease (Arab, *Clin Gastroenterol Hepatol* 2026). All **9 Best Practice Advice statements** captured with the document's own numbering, and marked **ungraded** as the Methods section requires (no systematic review, so no evidence or strength ratings — the source says so itself). Figures 1–2 and Tables 1–5 all reached the wiki: Figure 1 recreated as the g/wk classification table with the 5-y decompensation risks, Figure 2 split between a native Mermaid fibrosis pathway and the alcohol/cardiometabolic arms in prose. Read with the Read tool, not `pdftotext`.
+
+**Pages updated:**
+
+- **New page `[[metald]]`** (`1-disease-scripts/hepatology-diseases/`) — the wiki had **no page for this entity at all** despite MetALD being ~10%–15% of steatotic liver disease and carrying worse outcomes than MASLD at every fibrosis stage. ADDT order. Owns: the grams-per-week definition with the ≥3-month averaging window, decompensation risk by stage vs MASLD/ALD, the FIB-4 → VCTE → kPa staging pathway, biopsy-not-for-subtyping, the lifestyle targets, the "not studied in MetALD" limit on resmetirom/semaglutide, and the bariatric contraindication.
+- `[[alcohol-associated-liver-disease]]` — already **owns** the AUD pharmacotherapy table and the biomarker table, so AGA 2026's net-new detail was routed **there rather than duplicated**: a pregabalin row, the starting doses and titration schedules the existing tables omitted (naltrexone 25 mg, acamprosate 333 mg three times daily, baclofen 5 mg three times daily ×3 d then +5 mg every 3 d, topiramate 25–50 mg weekly increments, gabapentin effective 900–1800 mg three times daily), the adjusted odds ratios for reduced ALD development/decompensation, and the **PEth 3-band interpretation** (<20 / 20–199 / ≥200 ng/mL) with the rising-level 5-fold decompensation signal.
+- `[[liver-stiffness-measurement]]` — the **timing rule**: measure LSM after ≥2–4 weeks of alcohol reduction or abstinence and draw PEth or urinary ethyl glucuronide at the time of the scan; stiffness falls within days of withdrawal, so a single timepoint can misclassify moderate fibrosis as cirrhosis. Also VCTE preferred over shear wave elastography.
+- `[[nafld-masld]]` — SLD nomenclature and alcohol-threshold tables now link to `[[metald]]` (one line + link; the staging pathway and management live on the new page, not here).
+- `wiki/index.md` — new entity row + new source row.
+
+**One-home-per-fact corrections made during the ingest:** the first draft of `[[metald]]` carried a full AUD drug table and a PEth band table, both of which duplicate tables already owned by `[[alcohol-associated-liver-disease]]`. Both were cut from the new page and replaced with pointers, and the net-new rows were merged into the owner's tables instead.
+
+**Contradictions / cautions surfaced:** **no contradiction** with [[aasld-2023-masld-nomenclature]] — the alcohol thresholds are the same numbers expressed per week rather than per day; AGA 2026 prefers the weekly form and adds the ≥3-month averaging window the 2023 nomenclature left unspecified. Recorded on the source page along with the ungraded-by-design caveat.
+
+**Cards (tier-1 AGA Clinical Practice Update ✓):** 4 new notes in a **new card file** `1-disease-scripts/hepatology-diseases/metald.md` (`GI::Organs::Liver`, no new tag node needed), plus 1 note each appended to `alcohol-associated-liver-disease` and `liver-stiffness-measurement`. All 6 `{at:}`-anchored when written — `anki-at.py --status` stays at **0 untagged notes in 0 files**. `page_updated:` bumped on the two existing files.
+
+- Checked `dist/khnl-gi-wiki.json` before writing. **Three candidate facts were deliberately not carded as duplicates or near-duplicates:** the MetALD alcohol thresholds (already owned by `nafld-masld` `a4c91e`), the LSM >12 kPa treatment trigger (too close to `a1d014`'s 12.1 kPa advanced-fibrosis cutoff to be a clean second question), and annual alcohol reassessment (would sit awkwardly beside `a1d017`'s "every encounter" rule for cirrhosis). Fewer cards, not weaker ones.
+- **Deck not rebuilt** — `node` is blocked in this sandbox; the 05:00 card pass will build these files.
+
+---
+
+- **[[asge-2026-colonic-strictures]]** — ASGE guideline on endoscopic management of benign and malignant colonic strictures (Machicado, *Gastrointest Endosc* 2026;104:164–180). All **6 GRADE recommendations** captured with strength and certainty exactly as printed (**all conditional; low or very low certainty throughout**), plus the **5 ungraded best-practice areas** the document answered by panel consensus without GRADE — initial assessment, endoscopic examination, biopsy, tattooing, and procedural technique — marked as ungraded. All **6 evidence tables recreated natively**; both algorithm-level figures were forest plots of single outcomes, so the numbers were tabulated rather than screenshotted.
+
+**Pages updated (ASGE 2026):**
+
+- **New page `[[colonic-stricture]]`** (`2-diagnostic-schemas/`, following the `[[biliary-stricture]]` precedent) — the wiki had **no page for colonic strictures as an entity**, and nothing at all on the **benign** side. Diagnostic-schema section order. Owns the four obstruction definitions, the differential, the emergency-surgery red flags, the waterjet-not-air rule, the biopsy and carbon-black tattoo how-tos, and the whole benign management set (balloon dilation first-line, stricturotomy, fully covered stents, LAMS) with the Crohn's / anastomotic / diverticular caveats.
+- `[[colonic-stenting]]` — new `## ASGE 2026 Recommendations` section with all four malignant recommendations and the outcome tables behind them, and a new `## Technique` section (deployment margins, the confirm-placement sign, LAMS sizing, post-procedure diet and laxatives) per the *Short pages* rule for procedure pages.
+- `[[colorectal-cancer]]` — one line noting the bridge-to-surgery decision is now a graded recommendation, pointing at `[[colonic-stenting]]` for the data (the page already routed detail there).
+- `[[lumen-apposing-metal-stents]]` — the colonic anastomotic-stricture indication with its 46% migration rate.
+- `wiki/index.md` — new schema row + new source row.
+
+**Contradictions surfaced (tier-1 vs tier-1), both against [[aga-2021-malignant-alimentary-tract-obstruction]]:**
+
+- **Palliation.** AGA 2021 BPA 12 declines to choose between a stent and a diverting colostomy ("either… are reasonable choices"). ASGE 2026 **suggests the palliative colonic stent over palliative surgery** (conditional, very low). ASGE is **newer and a GRADE guideline rather than an ungraded CPU**, so it governs `[[colonic-stenting]]`; the AGA position and the reasons the question is close are kept on the page.
+- **Bevacizumab.** The wiki carried AGA 2021's reassurance that bevacizumab is **not** associated with higher perforation rates. ASGE 2026 calls the association **still debated** (older meta-analysis 12.7% vs 7%; recent observational studies similar either way) and answers with a **shared decision-making recommendation**, not a reassurance. The newer framing governs; both are stated.
+
+**Fragility flagged, not buried:** two headline results carry a **fragility index of 2** — the cancer-recurrence signal after stent-as-bridge-to-surgery (odds ratio 1.84, very low certainty, no 3-year mortality difference) and the recurrence advantage of stricturotomy. Both are on the pages as pitfall callouts rather than as settled effects.
+
+**Cards (tier-1 ASGE GRADE guideline ✓):** 7 new notes in a **new card file** `2-diagnostic-schemas/colonic-stricture.md` (`GI::Organs::Colon GI::Procedures::Interventional`, both existing nodes — no new tag node needed), plus **2 rewordings and 2 new notes** on `colonic-stenting`. All `{at:}`-anchored when written; `anki-at.py --status` remains **0 untagged notes in 0 files**.
+
+- **`c5e002` reworded, id preserved** — it taught AGA's "two reasonable options, chosen on goals and functional status" answer for palliation, which the newer governing source replaces. Now tests the stent recommendation, with the AGA position in Back Extra.
+- **`c5e008` reworded, id preserved** — it taught "no, bevacizumab does not raise perforation risk." Now tests the shared-decision-making instruction, with both sets of data in Back Extra.
+- New on `colonic-stenting`: the 2 cm deployment margins and anal-verge clearance; the stool-passage confirmation plus the do-not-balloon-dilate-the-stent rule.
+- **`c5e006` left alone** — uncovered-over-covered SEMS was already carded from AGA 2021 and ASGE 2026 only grades the same answer. **Not carded:** the odds ratios and certainty grades themselves (trial results and evidence grades fail the high-yield test), and the recommendation numbering.
+- **Deck not rebuilt** — `node` is blocked in this sandbox; the 05:00 card pass builds these files. All 17 notes written this pass were checked against the length and cloze caps by hand first; **5 initially exceeded them and were recut before anything else** (`0d4a07`, `c5e009`, `9fa002`, `a1d018`, `7a1b27`), so the build should report no problems on these files.
+
+**Gap noted, not filled:** `[[naltrexone]]` and `[[acamprosate]]` have **no page**, though both are named in plain text across `[[alcohol-associated-liver-disease]]`, `[[cirrhosis]]` and now `[[metald]]`, and ingested sources (AGA 2026 Table 4, ACG 2024 ALD, ACG 2026 preventive care, AASLD 2020 ALD) carry enough for real `5-meds/` pages. Not created this pass — backlog mode gives ingest the budget, and each new `5-meds/` page also needs a `GI::Meds::<Class>` tag node decision. Left unlinked rather than stubbed so no page links to a nonexistent slug.
+
+**Hygiene fixes (whole-wiki sweep):**
+
+- **Two genuinely broken `[[links]]` found and fixed** (whole-wiki scan, excluding `page#Section` deep links and the log):
+  - `[[pancreatic-cancer]]` — a scripted frontmatter edit had leaked an entire `sources:` list into the body: `[[acg-2015-hereditary-gi-cancer, sis-2024-intra-abdominal-infection]]`. Corrected to `[[acg-2015-hereditary-gi-cancer]]`.
+  - `[[rome-v-2026-gallbladder-sphincter-of-oddi]]` — linked `[[cholelithiasis]]`, which has never existed. Repointed to `[[dysfunctional-gallbladder-disorder]]`. **A `cholelithiasis` page is a real gap**, noted here rather than stubbed from nothing.
+- **Clean:** no unescaped alias pipes in tables, no `.DS_Store` or OS artifacts, no stray `ingest: partial` markers anywhere.
+
+**Not done this pass, and why:**
+
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps* — **paused: ingest backlog** (backlog mode gives ingest the budget).
+- **Dedup sweep** — belongs to the card pass, which runs at 05:00 and had already swept the queue to 0 unjudged pairs earlier today.
+- **Inbox sync — nothing to commit.** `git status` was clean at session start; **no untracked files under `raw/`**.
+- **Lectures/chalk talks remain gated** — several uningested transcripts sit in `raw/GI Lectures+Chalk Talks/` and are never auto-ingested. They need Nick to name specific files.
+
+**Where the run stopped:** the **budget cap**, after two sources were finished end to end — not because the backlog cleared. Backlog mode stays **ON**. Both source pages have had `ingest: partial` removed, every touched card file has a current `page_updated:`, and nothing is left half-written. Confirmed-uningested US tier-1 candidates for the next pass, each verified against `wiki/sources/` this pass:
+
+- **Already in `raw/` and named by a `needed-sources.md` row** (ingest these first — they close a download-list row as well): ASGE 2021 Gastroduodenal Obstruction (Jue) · AGA 2020 Probiotics Technical Review (Preidis) · ACS 2018 CRC Screening (Wolf) · USPSTF 2021 CRC Screening (Davidson).
+- **AGA 2026 CPUs:** Surveillance in Older Adults — Esophagus and Colorectum (Calderwood) · Pancreatic Cyst and HCC Surveillance in Older Adults (Das) · AGA/AASLD/EASL Alpha-1 Antitrypsin Deficiency Liver Disease (Loomba) — **no `alpha-1-antitrypsin` page exists**, so this one creates an entity page.
+- **ASGE 2026:** EoE Endoscopic Management Consensus Part 2 (Dellon) · Quality Measures in Endoscopic Research (Elmunzer).
+- **Other US:** USMSTF Serrated Polyposis Syndrome (Rex) · AASLD 2026 EXPO Liver Biopsy (Verna) · SAGES 2026 Walled-Off Pancreatic Necrosis (Calabrese) · SAGES-AHPBA 2025 Bile Duct Injury (Calabrese) · NCCN 2026 Pancreatic Adenocarcinoma · Multisociety 2024 GLP-1 RA Perioperative (Kindel).
+- **Non-US, lower priority:** Maastricht VI, ECCO 2017/2026, UEG 2025 Malabsorption Pts 1–2, ESGE 2026 Biliary Stricture, BSG 2026 Coeliac, Rome V Centrally Mediated GI Pain, IAP 2024 Kyoto IPMN.
+
+---
+
 ## [2026-11-08] update | Card pass — dedup sweep, no cards qualified
 
 **Dedup (ran first):** `anki-dupes.mjs` offered **3 unjudged candidate pairs** at ≥0.4 — all raised by the cards written earlier today. **All 3 judged distinct, 0 merges**, each verdict marked in `dedup-ledger.tsv`; unjudged queue back to **0**.

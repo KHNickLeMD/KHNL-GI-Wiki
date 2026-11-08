@@ -3,8 +3,8 @@ title: "Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
-updated: 2026-11-01
-sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015-crc-surveillance, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc, kanaka-2022-colonic-stent-bts-right-sided, aga-2020-young-adult-onset-crc, aga-2021-crc-chemoprevention]
+updated: 2026-11-08
+sources: [asge-2026-colonic-strictures, acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015-crc-surveillance, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc, kanaka-2022-colonic-stent-bts-right-sided, aga-2020-young-adult-onset-crc, aga-2021-crc-chemoprevention]
 ---
 
 *Screening is covered in [[colorectal-cancer-screening]]; the fecal immunochemical test itself on [[fecal-immunochemical-test]]. **Colorectal cancer (CRC) diagnosed at 18 – <50 years of age** has its own presentation, germline yield, fertility and surveillance considerations — see [[early-onset-colorectal-cancer]]. Hereditary syndromes (workup: [[colorectal-polyposis]]): [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy]] and [[colonoscopy]].*
@@ -160,6 +160,7 @@ Per [[nccn-2026-colon-cancer]]. **Universal mismatch repair (MMR)/microsatellite
 
 - **Two distinct indications — do not merge them.** *Bridge to surgery* = preoperative self-expandable metal stent (SEMS) decompression then **elective** resection, in resectable disease. *Palliative stenting* of incurable obstruction is a different decision (the stomach's version is [[jeurnink-2010-sustent-goo|SUSTENT]], on [[gastric-outlet-obstruction]]).
 - **Bridge to surgery is established for left-sided obstruction.** Right-sided disease is **32–54%** of malignant large bowel obstruction but only ~5% of reported bridge-to-surgery cases, and has been managed by emergency resection with primary anastomosis on the assumption that this is safe — an assumption [[kanaka-2022-colonic-stent-bts-right-sided]] tests and [[aga-2021-malignant-alimentary-tract-obstruction]] Best Practice Advice 13 rejects.
+- **[[asge-2026-colonic-strictures|ASGE 2026]] now makes this a graded recommendation** — a colonic stent as a bridge to surgery is *suggested* over emergency surgery in resectable obstructing CRC (conditional, low certainty), with the countervailing cancer-recurrence signal (odds ratio 1.84, very low certainty, fragility index 2) to be discussed with the patient.
 - **The outcome data for both sides, the GRADE caveats and the technical-difficulty figures live on [[colonic-stenting]]** — including the right-sided bridge-to-surgery vs emergency-resection meta-analysis in full.
 
 > [!pitfall] Peritoneal signs end the endoscopy
@@ -264,7 +265,7 @@ Universal MMR/MSI testing of every colon cancer is stated under [[#Oncologic Man
 
 ## See Also
 
-[[colorectal-cancer-screening]], [[early-onset-colorectal-cancer]], [[colorectal-polyposis]], [[colonoscopy]], [[polypectomy]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]], [[fecal-immunochemical-test]], [[colonic-stenting]], [[colonoscopy-quality-indicators]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[ibd-in-malignancy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[colorectal-esd]], [[endoscopic-submucosal-dissection]], [[capsule-endoscopy]], [[endoscopic-mucosal-resection]], [[endoscopic-full-thickness-resection]], [[acute-lower-gi-bleeding]], [[endoscopic-oncology]], [[gastric-outlet-obstruction]], [[ostomy-management]]
+[[colorectal-cancer-screening]], [[early-onset-colorectal-cancer]], [[colorectal-polyposis]], [[colonoscopy]], [[polypectomy]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]], [[fecal-immunochemical-test]], [[colonic-stenting]], [[colonic-stricture]], [[colonoscopy-quality-indicators]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[ibd-in-malignancy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[colorectal-esd]], [[endoscopic-submucosal-dissection]], [[capsule-endoscopy]], [[endoscopic-mucosal-resection]], [[endoscopic-full-thickness-resection]], [[acute-lower-gi-bleeding]], [[endoscopic-oncology]], [[gastric-outlet-obstruction]], [[ostomy-management]]
 
 ---
 
@@ -279,3 +280,4 @@ Universal MMR/MSI testing of every colon cancer is stated under [[#Oncologic Man
 7. [[usmstf-2014-lynch-syndrome|Genetic Evaluation and Management of Lynch Syndrome: A Practice Guideline from the American College of Gastroenterology]]
 8. [[aga-2020-young-adult-onset-crc|AGA 2020 Clinical Practice Update: Young Adult–Onset Colorectal Cancer Diagnosis and Management]]
 9. [[aga-2021-crc-chemoprevention|AGA Clinical Practice Update on Chemoprevention for Colorectal Neoplasia: Expert Review (2021)]]
+10. [[asge-2026-colonic-strictures|American Society for Gastrointestinal Endoscopy Guideline on Endoscopic Management of Benign and Malignant Colonic Strictures]]

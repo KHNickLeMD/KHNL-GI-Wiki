@@ -3,8 +3,8 @@ title: "Lumen-Apposing Metal Stents (LAMS)"
 category: advanced-procedure
 tags: [lams, therapeutic-eus, transmural-drainage, stents, eus-gbd, pancreatic-fluid-collection, eus-ge, edge, device]
 created: 2026-11-04
-updated: 2026-11-04
-sources: [aga-2023-eus-gallbladder-drainage, asge-2016-pancreatic-fluid-collections, acg-2025-eus-quality, aga-2021-malignant-alimentary-tract-obstruction]
+updated: 2026-11-08
+sources: [asge-2026-colonic-strictures, aga-2023-eus-gallbladder-drainage, asge-2016-pancreatic-fluid-collections, acg-2025-eus-quality, aga-2021-malignant-alimentary-tract-obstruction]
 ---
 
 # Lumen-Apposing Metal Stents (LAMS)
@@ -66,6 +66,7 @@ Sources: [[aga-2023-eus-gallbladder-drainage]] (both techniques), [[asge-2016-pa
 - **US Food and Drug Administration (FDA)-approved indication: drainage of pancreatic fluid collections.** ([[aga-2023-eus-gallbladder-drainage]])
 - **Gallbladder drainage is off-label** — disclose it in consent; FDA approval awaits further outcome and safety data. ([[aga-2023-eus-gallbladder-drainage]])
 - **EUS-GE: no dedicated FDA-approved device exists**, and the technique is expertise-limited and not widely available. ([[aga-2021-malignant-alimentary-tract-obstruction]] Best Practice Advice 10)
+- **Benign colonic anastomotic stricture <15 mm long and refractory to endoscopic balloon dilation** — suggested by [[asge-2026-colonic-strictures]] (conditional, very low certainty). In the one comparative study against balloon dilation there was **no significant difference** in technical success, clinical success, recurrence or adverse events, and **migration was 46%**. Rarely possible in the right colon (adult colonoscopes exceed the catheter length); detail on [[colonic-stricture]].
 - Procedure-specific indications and route choice: [[pancreatic-fluid-collection-drainage]], [[eus-guided-gallbladder-drainage]], [[eus-guided-biliary-drainage]], [[gastric-outlet-obstruction]].
 
 ## Technique
@@ -129,7 +130,7 @@ Misdeployment types described for EUS-GE, with observed frequencies ([[acg-2025-
 
 ## See Also
 
-[[endoscopic-ultrasound]], [[pancreatic-fluid-collection-drainage]], [[eus-guided-gallbladder-drainage]], [[eus-guided-biliary-drainage]], [[acute-cholecystitis]], [[gastric-outlet-obstruction]], [[disconnected-pancreatic-duct-syndrome]], [[endoscopic-management-of-perforation]], [[ercp]]
+[[colonic-stricture]], [[endoscopic-ultrasound]], [[pancreatic-fluid-collection-drainage]], [[eus-guided-gallbladder-drainage]], [[eus-guided-biliary-drainage]], [[acute-cholecystitis]], [[gastric-outlet-obstruction]], [[disconnected-pancreatic-duct-syndrome]], [[endoscopic-management-of-perforation]], [[ercp]]
 
 ---
 
@@ -139,4 +140,5 @@ Misdeployment types described for EUS-GE, with observed frequencies ([[acg-2025-
 2. [[asge-2016-pancreatic-fluid-collections|ASGE Guideline: The Role of Endoscopy in the Diagnosis and Treatment of Inflammatory Pancreatic Fluid Collections (2016)]]
 3. [[acg-2025-eus-quality|ACG/ASGE 2025: Quality Indicators for EUS]]
 4. [[aga-2021-malignant-alimentary-tract-obstruction|AGA 2021 Clinical Practice Update: Optimal Management of the Malignant Alimentary Tract Obstruction]]
+5. [[asge-2026-colonic-strictures|American Society for Gastrointestinal Endoscopy Guideline on Endoscopic Management of Benign and Malignant Colonic Strictures]]
 </content>

@@ -4,7 +4,7 @@ category: disease-script
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, mdf, nac, pentoxifylline, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate, baclofen, peth, stopah]
 created: 2026-05-07
 updated: 2026-11-08
-sources: [acg-2024-ald, acg-2026-preventive-care-cirrhosis, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis, lee-2018-accelerate-ah, hendershot-2025-semaglutide-aud]
+sources: [aga-2026-metald, acg-2024-ald, acg-2026-preventive-care-cirrhosis, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis, lee-2018-accelerate-ah, hendershot-2025-semaglutide-aud]
 ---
 
 # Alcohol-Associated Liver Disease
@@ -119,6 +119,21 @@ Two different severity questions, and they use different instruments:
 
 *GGT, liver enzymes, and macrocytic anemia may suggest alcohol use but are non-specific and inadequate alone to establish or refute alcohol use in ALD patients.*
 
+**PEth result bands** — [[aga-2026-metald|AGA 2026]] gives three interpretive levels rather than a single cutoff, with a **2- to 4-week** detection window:
+
+| PEth | Interpretation |
+|---|---|
+| <20 ng/mL | Abstinence or low alcohol consumption |
+| ≥20 to <200 ng/mL | Alcohol consumption |
+| ≥200 ng/mL | Strongly suggestive of chronic excessive consumption |
+
+- PEth is an **erythrocyte membrane-bound lipid species formed only in the presence of ethanol in blood**, so it does not arise without exposure.
+- A **rising PEth on follow-up carried a nearly 5-fold higher risk** of hepatic decompensation — serial measurement adds prognostic value over a single baseline reading. Its accuracy fades over time (area under the curve 0.77 at 6 months → 0.62 at 2 years), while fibrosis-based noninvasive tests remain strong predictors; biomarkers supplement fibrosis staging, never replace it.
+- Urinary ethyl glucuronide quantitative values do **not** reliably correlate with the level of alcohol exposure — read them as present/absent.
+
+> [!pitfall] A positive biomarker is not a diagnosis of alcohol use disorder
+> PEth and urine ethyl glucuronide identify at-risk patients, characterize use patterns and create an objective record; the AUD diagnosis remains the DSM-5 criteria. Patients may still not be forthcoming after a positive result — the value is in opening the conversation and building the therapeutic alliance, not in confronting ([[aga-2026-metald]]).
+
 ### Imaging
 
 - **Liver ultrasound (US):** first-line; evaluate echogenicity (steatosis), [[portal-hypertension|portal hypertension]] signs, exclude biliary obstruction, [[hcc-surveillance|screen for HCC]]
@@ -178,7 +193,17 @@ All ALD patients should receive AUD treatment [[acg-2024-ald]], [[aasld-2020-ald
 | **Naltrexone** | 50 mg/day oral or 380 mg/month subcutaneous (SQ) | Hepatic | Not studied in AH/AC; hepatotoxicity concerns | Opioid antagonist; NNT ~20; **use with caution in hepatic impairment; monitor LFTs**; avoid in hepatic insufficiency per ACG |
 | **Gabapentin** | 600–1,800 mg/day | Renal 75% | Not studied in ALD | Monitor for renal dysfunction and sedation |
 | **Topiramate** | 75–400 mg/day | Not extensively metabolized | Not studied in ALD | — |
-| **Disulfiram** | — | Hepatic | Risk of fulminant hepatitis | **Avoid in any liver disease** — not listed in AASLD 2020 relapse prevention table |
+| **Disulfiram** | 250–500 mg daily | Hepatic | Risk of fulminant hepatitis | **Avoid in any liver disease** — not listed in AASLD 2020 relapse prevention table |
+| **Pregabalin** | Start 50–75 mg twice daily, ↑ every 1–2 wk → 150–450 mg/day in divided doses | Limited hepatic, renal excretion | Alcohol studies excluded patients with liver disease | Rare instances of liver injury; **could worsen HE**; may reduce cravings and relapse and improve liver biochemistries ([[aga-2026-metald]]) |
+
+**[[aga-2026-metald|AGA 2026]] adds the starting doses and titration schedules the tables above leave out**, for use in MetALD and ALD alike:
+
+- **Naltrexone** start **25 mg daily**; **acamprosate** start **333 mg three times daily** → effective 666 mg three times daily.
+- **Baclofen** 5 mg three times daily for 3 d, then increase by 5 mg every 3 d → effective **10–20 mg three times daily**.
+- **Topiramate** start 25–50 mg daily, increase in 25–50 mg increments weekly → effective **300 mg/day in divided doses**; effective dose may be lower in advanced liver or kidney disease.
+- **Gabapentin** — no clear starting dose recommended; effective **900–1800 mg three times daily**.
+- Observational signal for reduced ALD development and hepatic decompensation (adjusted odds ratios): **gabapentin 0.36**, **topiramate 0.47**, **baclofen 0.57**, **naltrexone 0.67**. Naltrexone also reduced mortality, and supports use for biliary pruritus and appetite suppression.
+- Agent choice follows patient and clinician preference, psychiatric comorbidity, **hepatic and renal function** and ease of administration — not a fixed tier order. **Combining pharmacotherapy with psychotherapy is of particular value in moderate-to-severe AUD.**
 
 **ACG 2024 Grading of Recommendations Assessment, Development and Evaluation (GRADE) ratings — note the population qualifier is *compensated* ALD** [[acg-2024-ald]]:
 
@@ -239,7 +264,7 @@ Recurrent ALD after transplant ([[aasld-ast-2025-liver-transplant-graft-complica
 
 ## See Also
 
-[[alcohol-associated-hepatitis]], [[abnormal-liver-chemistries]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[liver-biopsy]], [[mri-mrcp]], [[upper-gi-bleeding]], [[rifaximin]], [[hcc-surveillance]], [[nutrition-in-liver-disease]], [[antibiotic-prophylaxis-cirrhosis]], [[enteral-access]], [[semaglutide]], [[glp-1-receptor-agonists]], [[albumin]], [[somatostatin-analogs]], [[liver-stiffness-measurement]], [[cirrhosis]], [[baclofen]]
+[[alcohol-associated-hepatitis]], [[abnormal-liver-chemistries]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[metald]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[liver-biopsy]], [[mri-mrcp]], [[upper-gi-bleeding]], [[rifaximin]], [[hcc-surveillance]], [[nutrition-in-liver-disease]], [[antibiotic-prophylaxis-cirrhosis]], [[enteral-access]], [[semaglutide]], [[glp-1-receptor-agonists]], [[albumin]], [[somatostatin-analogs]], [[liver-stiffness-measurement]], [[cirrhosis]], [[baclofen]]
 
 ---
 
@@ -254,3 +279,4 @@ Recurrent ALD after transplant ([[aasld-ast-2025-liver-transplant-graft-complica
 7. [[acg-2019-hereditary-hemochromatosis|ACG 2019: Hereditary Hemochromatosis]]
 8. [[lee-2018-accelerate-ah|Outcomes of Early Liver Transplantation for Patients With Severe Alcoholic Hepatitis (ACCELERATE-AH)]]
 9. [[hendershot-2025-semaglutide-aud|Once-Weekly Semaglutide in Adults With Alcohol Use Disorder: A Randomized Clinical Trial]]
+10. [[aga-2026-metald|AGA Clinical Practice Update on the Evaluation and Management of Metabolic Dysfunction– and Alcohol-Associated Liver Disease: Expert Review]]

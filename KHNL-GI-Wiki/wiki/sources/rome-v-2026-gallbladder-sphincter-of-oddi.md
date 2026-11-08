@@ -143,7 +143,7 @@ An episode qualifies as acute pancreatitis on **at least 2 of 3**: typical pain 
 - [[recurrent-acute-pancreatitis]], [[acute-pancreatitis]] — pancreatic SOD is now defined only within unexplained RAP; adds the exclusion list and the ≥2-of-3 episode definition.
 - [[pancreas-divisum]] — the SHARP sham-controlled negative result for minor papilla sphincterotomy.
 - [[ercp]] — narrows the SOD indication further and supplies the shared-decision framing for medium-to-low evidence of obstruction.
-- [[cholelithiasis]] / biliary pain pages — Box 1 is the current definition of typical biliary pain.
+- [[dysfunctional-gallbladder-disorder]] and the biliary pain pages — Box 1 is the current definition of typical biliary pain.
 - [[disorders-of-gut-brain-interaction]] — places DGBD and former type III SOD inside the DGBI framework.
 
 ## Contradictions / Open Questions

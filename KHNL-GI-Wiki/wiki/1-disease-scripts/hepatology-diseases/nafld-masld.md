@@ -3,7 +3,7 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-10-22
+updated: 2026-11-08
 sources: [aga-aasld-acg-2012-nafld, aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, baveno-viii-2026-portal-hypertension, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-non-graft-complications, aga-2023-nafld-noninvasive-biomarkers, aga-2021-lifestyle-modification-nafld, aga-2022-lean-nafld, aga-2017-elastography-liver-fibrosis]
 ---
 
@@ -43,7 +43,7 @@ sources: [aga-aasld-acg-2012-nafld, aasld-2023-nafld, aasld-2023-masld-nomenclat
 | **MASLD** | Steatosis + ≥1 cardiometabolic risk factor (CMRF) + no other discernible cause | NAFLD |
 | **Metabolic dysfunction-associated steatohepatitis (MASH)** | MASLD + steatohepatitis | NASH |
 | **Metabolic dysfunction-associated steatotic liver (MASL)** | MASLD without steatohepatitis | Nonalcoholic fatty liver (NAFL) |
-| **MetALD** | MASLD + increased alcohol (thresholds below) | — |
+| **[[metald\|MetALD]]** | MASLD + increased alcohol (thresholds below) — its own page holds the staging pathway and management | — |
 | Other SLD | [[alcohol-associated-liver-disease\|Alcohol-associated liver disease (ALD)]]; specific etiology — [[drug-induced-liver-injury\|drug-induced liver injury (DILI)]], lysosomal acid lipase deficiency (LALD), [[wilson-disease\|Wilson]], hypobetalipoproteinemia, [[hepatitis-c\|hepatitis C virus (HCV)]] genotype 3, [[celiac-disease\|celiac]], human immunodeficiency virus (HIV); cryptogenic | — |
 
 - **Dual pathology** allowed (MASLD + [[autoimmune-hepatitis|autoimmune]] or viral hepatitis). **>99% overlap** with NAFLD populations → NAFLD/NASH guidance applies.
@@ -61,7 +61,7 @@ sources: [aga-aasld-acg-2012-nafld, aasld-2023-nafld, aasld-2023-masld-nomenclat
 | Women | Men | Category |
 |---|---|---|
 | <20 g/d (<140 g/wk) | <30 g/d (<210 g/wk) | MASLD |
-| 20–50 g/d (140–350 g/wk) | 30–60 g/d (210–420 g/wk) | **MetALD** — continuum, MASLD- → ALD-predominant |
+| 20–50 g/d (140–350 g/wk) | 30–60 g/d (210–420 g/wk) | **[[metald\|MetALD]]** — continuum, MASLD- → ALD-predominant |
 | >50 g/d | >60 g/d | ALD |
 
 **Labs and case finding:**
