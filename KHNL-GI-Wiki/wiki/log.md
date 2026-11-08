@@ -41,6 +41,30 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - Checked against `dist/khnl-gi-wiki.json` first; no duplicates. The PBC/PSC parenteral-bisphosphonate card was left alone — different disease, different source.
 - **Section-anchor backfill got 5 free riders:** `a7c101/02/04/05/06` and `ab2001/02/03` were in the standing untagged queue and were judged and tagged while these files were open (19 `--apply` writes total, 0 refused).
 
+- **[[asge-2025-glp1-sglt2-periendoscopic]]** — ASGE position statement on periendoscopic management of patients on GLP-1 receptor agonists and SGLT-2 inhibitors (Sharaiha, Gastrointest Endosc 2025). All **11 consensus statements** captured with the panel's own numbering and sub-parts, plus **Table 1 recreated natively** (per-agent half-life and hold). Marked clearly as a **modified Delphi with no evidence grading** — the panel votes are reported instead, and the panel's own caveats about weak evidence are carried.
+
+**Pages updated (ASGE 2025):**
+
+- `[[endoscopy-sedation]]` — ASGE added as a third row to the society-comparison table; new **Mermaid pathway** consolidating the source's three flowcharts (urgent/emergent, time-sensitive, elective) into one urgency triage, recreated natively rather than screenshotted; symptom checklist; bridging; a pitfall callout that increased aspiration risk has **not** actually been demonstrated. New `### SGLT-2 Inhibitors Before Endoscopy` section; `## Contents` and `## See Also` updated.
+- `[[glp-1-receptor-agonists]]` — now owns the **per-agent hold table** (half-life + hold) and the daily-≥24 h / weekly-≥7 days rule, with the bridging rationale.
+- **New page `[[sglt2-inhibitors]]`** (`5-meds/`) — created rather than asked for, per *Missing entity pages*: the class had **no page at all** despite a real GI decision. Covers why it matters in GI (euDKA, not aspiration), the 3–4 day hold table, the not-held fallback, and euDKA risk factors. Added to `index.md`.
+- `wiki/index.md` — source row + new med row.
+
+**Contradictions surfaced (ASGE 2025):**
+
+- **Against [[aga-2024-glp1-endoscopy|AGA 2024]]:** AGA holds that **no data support routinely stopping** GLP-1 RAs before elective endoscopy; ASGE 2025 specifies routine elective hold intervals. Both tier-1; ASGE is **newer by publication date** and governs the elective-hold question on `[[endoscopy-sedation]]`. The agreement between them (symptoms drive sedation strategy; urgent and time-sensitive procedures are not delayed) is stated so the split is not overread.
+- **Internal to the source:** Table 1 gives **oral** semaglutide a **1-week** hold while the Statement 8 discussion suggests **a day before**. Carried on `[[glp-1-receptor-agonists]]` with the discrepancy named rather than silently resolved — oral semaglutide was also the reason for the dissenting votes on that statement.
+
+**Cards (ASGE 2025 — tier-1 position statement ✓):** 7 new notes + 1 reworded, all `{at:}`-anchored.
+
+- **`5ed002` reworded, id preserved** on `endoscopy-sedation`: it taught AGA's "proceed on the standard fast if asymptomatic" answer to *not held*, which the newer governing source contradicts. Now tests ASGE's answer, with the AGA position and the agreement between them in Back Extra.
+- `endoscopy-sedation` — do not delay urgent/time-sensitive endoscopy; symptoms vs no symptoms → full-stomach precautions vs gastric ultrasound.
+- `glp-1-receptor-agonists` — hold by dosing frequency; bridge antidiabetic therapy.
+- **New card file `5-meds/sglt2-inhibitors.md`** — hold duration + euDKA; the not-held fallback; euglycemia and why colonoscopy is the risky procedure.
+- Two pre-existing untagged notes (`e9b001`, `e9b002`) anchored as free riders; `e9b003`/`e9b004` deliberately left untagged rather than guessed at without reading them.
+
+**New Anki tag node — needs Nick's sign-off:** `GI::Meds::SGLT2Inhibitors`, created for the new `5-meds/sglt2-inhibitors.md` card file (every `5-meds/` file requires a `GI::Meds` node, and no existing node covers this class). Named for the class word the page itself uses. Flagging rather than assuming, consistent with the earlier invented-node queue.
+
 **Not done this pass, and why:**
 
 - *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps* — **paused: ingest backlog** (backlog mode gives ingest the budget).

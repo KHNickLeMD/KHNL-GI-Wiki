@@ -3,8 +3,8 @@ title: "GLP-1 Receptor Agonists (GLP-1 RAs)"
 category: med
 tags: [glp-1, glp1-ra, semaglutide, liraglutide, obesity, weight-loss, gastric-emptying, endoscopy, incretin, mash]
 created: 2026-08-14
-updated: 2026-10-29
-sources: [aga-2022-obesity-pharm, aga-2024-glp1-endoscopy, aasld-2025-semaglutide-mash]
+updated: 2026-11-08
+sources: [asge-2025-glp1-sglt2-periendoscopic, aga-2022-obesity-pharm, aga-2024-glp1-endoscopy, aasld-2025-semaglutide-mash]
 ---
 
 Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are a drug **class** of incretin mimetics used for type 2 diabetes mellitus (T2DM) and chronic weight management, with two gastrointestinal (GI)-relevant consequences: they are **anti-obesity medications (AOMs) an American Gastroenterological Association (AGA) guideline endorses**, and they **slow gastric emptying**, which drives their GI side effects and the periprocedural aspiration debate. For the agent-level detail on the most-used member, see **[[semaglutide]]**.
@@ -95,15 +95,31 @@ Population for all statements: **adults with [[obesity]], or overweight with wei
 
 ## Before Endoscopy
 
-Slowed gastric emptying raises concern for retained gastric contents and aspiration under sedation. AGA advises an **individualized approach — not routine cessation** — and endorses the multisociety position that there are **no data supporting stopping GLP-1 RAs before elective endoscopy** ([[aga-2024-glp1-endoscopy]]).
+Slowed gastric emptying raises concern for retained gastric contents and aspiration under sedation. AGA advises an **individualized approach — not routine cessation** — and endorses the multisociety position that there are **no data supporting stopping GLP-1 RAs before elective endoscopy** ([[aga-2024-glp1-endoscopy]]). **[[asge-2025-glp1-sglt2-periendoscopic|ASGE 2025]], newer and also tier-1, does give routine elective hold intervals** — the agent-level numbers below. The two agree that urgent and time-sensitive procedures are **not** delayed.
 
-The full periprocedural algorithm (standard fast, symptom assessment, gastric ultrasound, rapid-sequence intubation, clear-liquid day before, and how it compares with the American Society of Anesthesiologists (ASA) consensus hold) lives on **[[endoscopy-sedation]]** — see that page rather than duplicating it here.
+**Hold before elective endoscopy, by agent** ([[asge-2025-glp1-sglt2-periendoscopic]], Table 1):
+
+| Agent | Route | Half-life | Hold |
+|---|---|---|---|
+| Exenatide (immediate release) | Subcutaneous | 2.4 h | **24 h** |
+| Lixisenatide | Subcutaneous | ~3 h | **24 h** |
+| Liraglutide | Subcutaneous | ~13 h | **24 h** |
+| Dulaglutide | Subcutaneous | ~5 days | **1 wk** |
+| Exenatide (extended release) | Subcutaneous | ~2 wk | **1 wk** |
+| Semaglutide | Subcutaneous and oral | ~1 wk | **1 wk** |
+| Tirzepatide (dual GIP–GLP-1) | Subcutaneous | ~5 days | **1 wk** |
+
+- **The rule in one line: daily dosing → hold ≥24 h; weekly dosing → hold ≥7 days.** The short-half-life daily drugs (2.4–13 h) are what make a 1-day hold workable.
+- ⚠ **ASGE is internally inconsistent on *oral* semaglutide.** Table 1 assigns semaglutide (subcutaneous **and** oral) a **1-week** hold, but the discussion of Statement 8 says the panel **suggests holding oral semaglutide a day before** the procedure — reasoning that it is absorbed in the stomach, is impeded by food, and is therefore taken fasting anyway. Oral semaglutide was the reason for the neutral and dissenting votes on that statement. Both figures are the source's; the discrepancy is unresolved there.
+- **Stopping a weekly agent for 7 days has a glycemic cost.** GLP-1 RAs permit basal insulin reductions of **10%–20%** and prandial reductions of **10%–40%**, with up to **54%** of patients off prandial insulin altogether — so ASGE suggests **bridging antidiabetic therapy** for anyone stopping 1 week before an elective procedure (Statement 10, unanimous).
+
+The full periprocedural algorithm (urgency triage, symptom assessment, gastric ultrasound, rapid-sequence intubation, clear-liquid day before, and how ASGE, AGA and the American Society of Anesthesiologists (ASA) consensus hold compare) lives on **[[endoscopy-sedation]]** — see that page rather than duplicating it here. Patients on [[sglt2-inhibitors|SGLT-2 inhibitors]] face a different periprocedural problem entirely.
 
 ---
 
 ## See Also
 
-[[semaglutide]], [[glp-2-agonists]], [[obesity]], [[endoscopy-sedation]], [[gastroparesis]], [[acute-pancreatitis]], [[upper-endoscopy]], [[nafld-masld]], [[resmetirom]], [[bariatric-surgery]], [[nausea-and-vomiting]]
+[[semaglutide]], [[glp-2-agonists]], [[sglt2-inhibitors]], [[obesity]], [[endoscopy-sedation]], [[gastroparesis]], [[acute-pancreatitis]], [[upper-endoscopy]], [[nafld-masld]], [[resmetirom]], [[bariatric-surgery]], [[nausea-and-vomiting]]
 
 ---
 
@@ -112,3 +128,4 @@ The full periprocedural algorithm (standard fast, symptom assessment, gastric ul
 1. [[aga-2022-obesity-pharm|AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)]]
 2. [[aga-2024-glp1-endoscopy|AGA Rapid Clinical Practice Update on the Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy: Communication (2024)]]
 3. [[aasld-2025-semaglutide-mash|Semaglutide Therapy for Metabolic Dysfunction–Associated Steatohepatitis: November 2025 Updates to AASLD Practice Guidance]]
+4. [[asge-2025-glp1-sglt2-periendoscopic|ASGE Position Statement on Periendoscopic Management of Patients on GLP-1 Receptor Agonists and SGLT-2 Inhibitors (2025)]]
