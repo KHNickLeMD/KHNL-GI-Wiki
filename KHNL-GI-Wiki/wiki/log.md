@@ -6,6 +6,36 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-09] update | Card pass — duplicate id and 24 cap violations from the unbuilt ingest pass fixed, no page eligible
+
+**Dedup sweep (first step):** `anki-dupes.mjs` returned **0 unjudged candidate pairs** at session start. Nothing to merge.
+
+**Section anchors:** `anki-at.py --status` = **0 untagged notes in 0 files**, before and after. Backfill queue empty; the step did nothing.
+
+**Build repairs — the real work of this pass.** The 2026-11-09 ingest pass wrote cards but could not build (`node` unavailable in that run), so its 16 new/reworded notes had never been linted. The first build of this pass **failed outright**:
+
+- **Duplicate id** — `[c71012]` was reused on `colorectal-cancer-screening` for the new AGA 2026 noninvasive-screening note while the existing multi-target stool DNA note already held it (the builder throws on a duplicate guid, so the whole deck failed to export). Reassigned to the next free id `c71019`; the pre-existing `c71012` keeps its id and scheduling.
+- **24 length-cap violations** across five card files, all from that pass. Fixed by recutting, not by loosening:
+  - `serrated-polyposis-syndrome` — `0e0001` carried both 2019 WHO limbs in two 15–18-word bullets; **split** into `0e0001` (Type 1: ≥5 proximal to the rectum · all ≥5 mm · ≥2 of them ≥10 mm, now one clinical unit per bullet) and new note **`0e0006`** (Type 2: >20 anywhere, ≥5 proximal to the rectum). `0e0002` phase intervals, `0e0004` germline-testing qualifiers and `0e0005` relative-screening ages condensed; ids and answers unchanged.
+  - `alpha-1-antitrypsin-deficiency-liver-disease` — `a10001` case definition split one bullet carrying two clozes into one bullet per limb; `a10004` lost the leaking clause "AAT is an acute-phase reactant" from the front (it answered its own cloze — **writing rule 6**) to Back Extra; `a10006` dropped its 21-word "why" cloze, the rationale moving to Back Extra where mechanism belongs (**rule 9**); `a10007` biopsy purpose condensed.
+  - `polypectomy` `b8d3f2`, `colonoscopy-surveillance` `c5800b`, `colorectal-cancer-screening` `c71019` — fronts condensed; `c5800b` also moved "below the general population" to Back Extra.
+
+**Dedup re-run after the recuts:** the reworded fronts surfaced **5 candidate pairs**, every one judged **distinct** and recorded in `dedup-ledger.tsv` — Type 1 vs Type 2 WHO criteria are different criteria; and the four relative-screening-age pairs are different diseases (`serrated-polyposis-syndrome` vs `colorectal-cancer-screening` family history, `colonic-polyposis-of-unknown-etiology`, `gastric-cancer-screening`, `lynch-syndrome`), each with its own start rule.
+
+**Build:** ends clean — **4409 notes, 0 problems**. `occ files:scan` not run (host-side; the cron does it).
+
+**New cards written: none — nothing was eligible.** No card file anywhere lacks `page_updated:`, and of 355 topic pages only the **three standing deliberate skips** have no current card file. Each was re-verified against its page this pass rather than taken on trust:
+
+- `[[bristol-stool-form-scale]]` — every substantive fact is Lewis 1997, a primary paper; the page's own *Where It Drives a Decision* table delegates each guideline cut-point to its owner page, so there is nothing guideline-backed here to card.
+- `[[peginterferon-alfa-2a]]` — dosing, modification tables, contraindications and monitoring are all FDA label. Its two guideline-backed claims are already carded on their owner pages (verified in `khnl-gi-wiki.json`: peginterferon used rarely in chronic hepatitis B, and pegylated interferon-α as the only US-available hepatitis D therapy).
+- `[[telemedicine-in-gastroenterology]]` — practice-management, billing, licensure and trial-satisfaction content; no `GI::` tag node covers it and inventing one needs Nick's sign-off.
+
+**Quality over quota:** budget remained after the repairs and no card was written to spend it.
+
+**Not committed:** card files live outside the repo at `/cards`; this log entry is uncommitted by instruction, so it needs committing by hand before the cron hard-resets `/repo`.
+
+---
+
 ## [2026-11-09] lint | Backlog pass — three tier-1 guidelines ingested, AATD-LD page created
 
 **Mode:** backlog mode ON (uningested tier-1/2 files remain in `raw/`) → ingest takes the pass budget; *Validate the stalest pages*, *Expand stubs* and *Fill coverage gaps* paused: ingest backlog.
