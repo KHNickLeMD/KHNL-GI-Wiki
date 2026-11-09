@@ -4,7 +4,7 @@ category: concept
 tags: [crc, colorectal-cancer, screening, colonoscopy, fit, gfobt, multitarget-stool-dna, septin-9, colonoscopy-quality, adenoma, colorectal]
 created: 2026-05-16
 updated: 2026-11-09
-sources: [acg-2021-crc-screening, aga-2026-surveillance-older-adults, usmstf-2021-crc-screening-age, aga-2023-crc-screening-risk-stratification, aga-2025-crc-blood-tests, aga-2021-crc-chemoprevention, aga-2022-noninvasive-crc-screening, usmstf-2016-fit-screening, aga-2020-young-adult-onset-crc, usmstf-2025-bowel-prep]
+sources: [acg-2021-crc-screening, uspstf-2021-crc-screening, aga-2026-surveillance-older-adults, usmstf-2021-crc-screening-age, aga-2023-crc-screening-risk-stratification, aga-2025-crc-blood-tests, aga-2021-crc-chemoprevention, aga-2022-noninvasive-crc-screening, usmstf-2016-fit-screening, aga-2020-young-adult-onset-crc, usmstf-2025-bowel-prep]
 ---
 
 ## Contents
@@ -55,15 +55,18 @@ sources: [acg-2021-crc-screening, aga-2026-surveillance-older-adults, usmstf-202
 
 ## When to Start and Stop
 
-| Age (average risk) | [[acg-2021-crc-screening\|American College of Gastroenterology (ACG) 2021]] | [[usmstf-2021-crc-screening-age\|USMSTF 2021]] |
-|---|---|---|
-| 45–49 | Suggest screening — Conditional / Very low (Rec 2) | Suggest offering — Weak / Low |
-| 50–75 | Recommend — Strong / Moderate (Rec 1) | Recommend offering from 50 if not yet screened — Strong / High |
-| 75 | Individualize beyond 75 — Conditional / Very low (Rec 3) | Up to date with negative screens → consider stopping at **75 or life expectancy <10 y** — Weak / Low |
-| 76–85 | Individualize — best for never-screened, fit for treatment (US Preventive Services Task Force [USPSTF], as reported by ACG) | **Never screened** → consider screening **up to 85**, by age and comorbidity — Weak / Low |
-| >85 | Not recommended (USPSTF, as reported by ACG) | Not recommended (ungraded) |
+| Age (average risk) | [[acg-2021-crc-screening\|American College of Gastroenterology (ACG) 2021]] | [[usmstf-2021-crc-screening-age\|USMSTF 2021]] | [[uspstf-2021-crc-screening\|US Preventive Services Task Force (USPSTF) 2021]] |
+|---|---|---|---|
+| 45–49 | Suggest screening — Conditional / Very low (Rec 2) | Suggest offering — Weak / Low | **Recommend screening — Grade B** (moderate certainty of moderate net benefit) |
+| 50–75 | Recommend — Strong / Moderate (Rec 1) | Recommend offering from 50 if not yet screened — Strong / High | **Recommend screening — Grade A** (high certainty of substantial net benefit) |
+| 75 | Individualize beyond 75 — Conditional / Very low (Rec 3) | Up to date with negative screens → consider stopping at **75 or life expectancy <10 y** — Weak / Low | — |
+| 76–85 | Individualize — best for never-screened, fit for treatment | **Never screened** → consider screening **up to 85**, by age and comorbidity — Weak / Low | **Selectively offer — Grade C**, weighing **overall health, prior screening history and preferences**; applies to the **previously screened**, and the never-screened are more likely to benefit |
+| >85 | Not recommended | Not recommended (ungraded) | **Discontinue after 85** — evidence lacking and competing mortality likely precludes any survival benefit |
 
-- **Age 45 rests on modelling, not trials** ([[aga-2020-young-adult-onset-crc]]): +6.2% life-years for +17% colonoscopies vs starting at 50. Modelled best balance: annual fecal immunochemical test (FIT) at **45–49**, colonoscopy **50–70** ([[aga-2022-noninvasive-crc-screening]]).
+- **The USPSTF grades are now read off the statement itself**, not relayed through ACG. **Grade B at 45–49 rests on modelling, not trials:** no screening trial reported results separately for adults under 50, so the benefit estimate comes from CISNET models. What the 5 earlier years buy, per 1000 screened: **+2–3 CRC cases averted, +1 CRC death averted, +22–27 life-years** — about **8–10 extra days of life per person screened**. The cost is procedural: colonoscopy every 10 y from 45 adds **784 lifetime colonoscopies and 2 complications per 1000 screened**.
+
+- Corroborating modelling ([[aga-2020-young-adult-onset-crc]]): +6.2% life-years for +17% colonoscopies vs starting at 50. Modelled best balance: annual fecal immunochemical test (FIT) at **45–49**, colonoscopy **50–70** ([[aga-2022-noninvasive-crc-screening]]).
+- **Why 45:** CRC incidence in adults **40–49 rose nearly 15%** from 2000–2002 to 2014–2016, and **10.5%** of new CRC cases now occur under 50 ([[uspstf-2021-crc-screening]]).
 - **Over 75** ([[aga-2023-crc-screening-risk-stratification|AGA 2023]]): individualize screening *and* surveillance — **3.8%–6.8%** have an emergency visit or admission within 30 days of colonoscopy; benefit lags **≥5 y**, so life expectancy <5 y is unlikely to benefit.
 - **What tips the balance after 75** ([[aga-2026-surveillance-older-adults]], Best Practice Advice 6): **a 10-year life expectancy is needed to derive a survival benefit** from cancer screening, and **age alone is an insufficient marker of prognosis** — use comorbidity and frailty (Lee–Schonberg 4- to 14-year mortality index, ePrognosis), not the birthday.
   - **Prior normal screening lowers the risk further:** after a normal screening colonoscopy or stool test, CRC risk is **0.39% / 0.23% at 2 y** and **1.29% / 1.21% at 8 y** — below the general population.
@@ -89,16 +92,18 @@ sources: [acg-2021-crc-screening, aga-2026-surveillance-older-adults, usmstf-202
 |---|---|---|---|---|
 | **[[colonoscopy\|Colonoscopy]]** | 10 y | **Preferred** — Strong / Low (Recs 4, 7) | **First tier** — Strong / Moderate | + |
 | **FIT** | 1 y | **Preferred** — Strong / Low (Recs 4, 7) | **First tier** — Strong / Moderate | + |
-| Multi-target stool DNA (MTsDNA, Cologuard) | 3 y | If colonoscopy/FIT declined — Conditional / Very low (Recs 5, 8) | If colonoscopy and FIT declined — Strong / Low | + (1–3 y) |
-| Flexible sigmoidoscopy | 5–10 y | Same — Conditional / Very low | Same — Strong / High | + |
-| Computed tomography (CT) colonography | 5 y | Same — Conditional / Very low | Same — Strong / Low | + |
-| Colon [[capsule-endoscopy\|capsule]] | 5 y | Same — Conditional / Very low | Only if **all** above declined — Weak / Low | + |
-| High-sensitivity guaiac fecal occult blood test (gFOBT) | 1 y | +* | No comment* | + |
-| Septin 9 (blood) | — | **Suggest against** — Conditional / Very low (Rec 6) | Not recommended* | No comment |
+| Multi-target stool DNA (MTsDNA, Cologuard) | 3 y | If colonoscopy/FIT declined — Conditional / Very low (Recs 5, 8) | If colonoscopy and FIT declined — Strong / Low | + (**1–3 y**) |
+| Flexible sigmoidoscopy | 5–10 y | Same — Conditional / Very low | Same — Strong / High | + (5 y alone; **10 y + annual FIT**) |
+| Computed tomography (CT) colonography | 5 y | Same — Conditional / Very low | Same — Strong / Low | + (5 y) |
+| Colon [[capsule-endoscopy\|capsule]] | 5 y | Same — Conditional / Very low | Only if **all** above declined — Weak / Low | **Excluded** |
+| High-sensitivity guaiac fecal occult blood test (gFOBT) | 1 y | +* | No comment* | + (1 y) |
+| Septin 9 (blood) | — | **Suggest against** — Conditional / Very low (Rec 6) | Not recommended* | **Excluded** |
 
-*\*Starred cells and USPSTF column per [[aga-2022-noninvasive-crc-screening]] (`+` = endorsed).*
+*\*Starred cells per [[aga-2022-noninvasive-crc-screening]]. USPSTF column read off [[uspstf-2021-crc-screening]] itself (`+` = a recommended strategy).*
 
-- **MTsDNA interval:** USPSTF 1 y vs ACG/USMSTF 3 y — use **3 y**.
+- **The USPSTF excludes three test classes outright — serum tests, urine tests and capsule endoscopy** — for limited evidence, since other effective tests exist. That is why colon capsule and Septin 9 are *excluded* above rather than simply unendorsed.
+- **The USPSTF does not rank its strategies**; all seven are offered as equivalent options and the choice is framed as an adherence and implementation problem.
+- **MTsDNA interval:** USPSTF gives **1–3 y**, ACG/USMSTF 3 y — use **3 y**. (USPSTF modelling found **annual** MTsDNA inefficient: ~850 extra follow-up/surveillance colonoscopies per 1000 screened versus annual FIT, and every-2-year ~300 extra.)
 - Flexible sigmoidoscopy: left colon only, less effective in women. CT colonography: needs prep, misses flat and sessile serrated lesions, extracolonic findings in 27%–69% ([[acg-2021-crc-screening]]).
 - FIT has replaced gFOBT (adherence, no diet restriction, fewer samples).
 - **An average-risk screening colonoscopy with an otherwise inadequate preparation but a well-visualized descending colon, sigmoid and rectum** (e.g. ascending or transverse colon inadequate) — reasonable to revisit screening options with the patient and the referring clinician. If the patient opts to treat the limited exam as a **flexible sigmoidoscopy** and prefers not to repeat the colonoscopy, **screen again by sigmoidoscopy or colonoscopy in 5 y**, or with a nonendoscopic test endorsed by USMSTF and USPSTF ([[usmstf-2025-bowel-prep]]). Repeat-colonoscopy intervals after an inadequate preparation: [[bowel-preparation]].
@@ -260,11 +265,12 @@ Colonoscopist metrics (ACG Recs 13–16, FIT-positive adenoma detection threshol
 
 1. [[acg-2021-crc-screening|ACG 2021 Colorectal Cancer Screening Guidelines]]
 2. [[usmstf-2021-crc-screening-age|USMSTF 2021: Updates on Age to Start and Stop CRC Screening]]
-3. [[aga-2023-crc-screening-risk-stratification|AGA Clinical Practice Update on Risk Stratification for Colorectal Cancer Screening and Post-Polypectomy Surveillance: Expert Review (2023)]]
-4. [[aga-2025-crc-blood-tests|AGA Clinical Practice Update on Current Role of Blood Tests for Colorectal Cancer Screening: Commentary (2025)]]
-5. [[aga-2021-crc-chemoprevention|AGA Clinical Practice Update on Chemoprevention for Colorectal Neoplasia: Expert Review (2021)]]
-6. [[aga-2022-noninvasive-crc-screening|AGA Clinical Practice Update on Approach to the Use of Noninvasive Colorectal Cancer Screening Options: Commentary (2022)]]
-7. [[usmstf-2016-fit-screening|USMSTF 2016 — Recommendations on Fecal Immunochemical Testing to Screen for Colorectal Neoplasia]]
-8. [[aga-2020-young-adult-onset-crc|AGA 2020 Clinical Practice Update: Young Adult–Onset Colorectal Cancer Diagnosis and Management]]
-9. [[usmstf-2025-bowel-prep|Optimizing Bowel Preparation Quality for Colonoscopy: Consensus Recommendations by the US Multi-Society Task Force on Colorectal Cancer]]
-10. [[aga-2026-surveillance-older-adults|AGA Clinical Practice Update on Surveillance of Metaplastic and Premalignant Conditions of the Esophagus and Colorectum in Older Adults: Expert Review (2026)]]
+3. [[uspstf-2021-crc-screening|Screening for Colorectal Cancer: US Preventive Services Task Force Recommendation Statement (2021)]]
+4. [[aga-2023-crc-screening-risk-stratification|AGA Clinical Practice Update on Risk Stratification for Colorectal Cancer Screening and Post-Polypectomy Surveillance: Expert Review (2023)]]
+5. [[aga-2025-crc-blood-tests|AGA Clinical Practice Update on Current Role of Blood Tests for Colorectal Cancer Screening: Commentary (2025)]]
+6. [[aga-2021-crc-chemoprevention|AGA Clinical Practice Update on Chemoprevention for Colorectal Neoplasia: Expert Review (2021)]]
+7. [[aga-2022-noninvasive-crc-screening|AGA Clinical Practice Update on Approach to the Use of Noninvasive Colorectal Cancer Screening Options: Commentary (2022)]]
+8. [[usmstf-2016-fit-screening|USMSTF 2016 — Recommendations on Fecal Immunochemical Testing to Screen for Colorectal Neoplasia]]
+9. [[aga-2020-young-adult-onset-crc|AGA 2020 Clinical Practice Update: Young Adult–Onset Colorectal Cancer Diagnosis and Management]]
+10. [[usmstf-2025-bowel-prep|Optimizing Bowel Preparation Quality for Colonoscopy: Consensus Recommendations by the US Multi-Society Task Force on Colorectal Cancer]]
+11. [[aga-2026-surveillance-older-adults|AGA Clinical Practice Update on Surveillance of Metaplastic and Premalignant Conditions of the Esophagus and Colorectum in Older Adults: Expert Review (2026)]]

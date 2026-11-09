@@ -3,8 +3,8 @@ title: "Acute Lower Gastrointestinal Bleeding (LGIB)"
 category: diagnostic-schema
 tags: [lower-gi-bleeding, lgib, hematochezia, diverticular, colonoscopy, hemorrhage, cta, risk-stratification]
 created: 2026-05-15
-updated: 2026-11-01
-sources: [acg-2023-lgib, asge-2014-lgib, acg-2021-ugib, asge-2015-bowel-preparation]
+updated: 2026-11-09
+sources: [asge-2026-lgib, acg-2023-lgib, asge-2014-lgib, acg-2021-ugib, asge-2015-bowel-preparation]
 ---
 
 ## Contents
@@ -221,6 +221,22 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 **If suspected proximal source (severe hematochezia with clinical red flags):**
 → **Urgent EGD first** to exclude UGIB
 
+**[[asge-2026-lgib|ASGE 2026]] restates the same split, and it is the newer guideline** (same tier as [[acg-2023-lgib]], newer publication year — it governs where they differ):
+
+| Patient | Initial modality |
+|---|---|
+| **Stable on presentation, or stable after initial resuscitation** | **Colonoscopy** suggested |
+| **Ongoing hemodynamic instability** (i.e. unstable *despite* standard resuscitation) | **Contrast CT ± angiography** suggested |
+
+*Either modality is acceptable as the initial one; Conditional recommendation, very low quality of evidence.*
+
+> [!pitfall] There is deliberately no definition of "stable"
+> ASGE **declined to set any criterion, validated score, transfusion requirement, or ongoing-bleeding sign** as the stable/unstable discriminator, holding that no single criterion or score replaces clinical judgment. Local availability and expertise also legitimately influence the choice ([[asge-2026-lgib]]).
+
+- **Upper endoscopy is not optional in the unstable patient:** perform it for **all patients presenting with hematochezia and initial hemodynamic instability**, to rule out an upper source — **unless there is direct imaging evidence of LGIB** ([[asge-2026-lgib]], ungraded). Yield is **15%** within 6 hours in that population (RCT, n = 85; peptic ulcers and esophagogastric varices commonest), and **11%–22%** for upper endoscopy after a negative colonoscopy. Other features favouring an upper source: **male sex, known [[peptic-ulcer-disease|peptic ulcer disease]] or [[cirrhosis]], blood urea nitrogen–to-creatinine ratio >30**.
+- **Expectant management is a legitimate branch** for a stable patient without transfusion requirement — for example, stable hematochezia in someone who had a complete colonoscopy with adequate preparation 6 months prior showing only sigmoid diverticulosis ([[asge-2026-lgib]] Figure 1).
+- **Nuclear scintigraphy is now a fallback only** — CT availability and performance have reduced its role to settings where CT or endoscopy are unavailable or inconclusive ([[asge-2026-lgib]]).
+
 ### Step 5: Colonoscopy Timing and Preparation
 
 **Timing:**
@@ -230,6 +246,12 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - One RCT showed urgent colonoscopy associated with **increased** rebleeding (13% vs. 3%) and readmission (11% vs. 3%)
 - Perform colonoscopy at next available nonurgent opportunity to minimize length of stay
 - Urgent colonoscopy may be appropriate in highly selected patients with high pretest probability of stigmata of recent hemorrhage (SRH) (e.g., postpolypectomy, postprocedure) at experienced centers
+
+> [!pearl] Stability and prep tolerance set the timing, not the clock
+> **Perform colonoscopy when the patient is stable enough for the procedure and able to tolerate a full bowel preparation — regardless of timing** ([[asge-2026-lgib]], Conditional recommendation, **moderate** quality of evidence — the only moderate-certainty statement in that document).
+
+- **The evidence behind it:** across 4 RCTs, urgent vs nonurgent colonoscopy gave no difference in 30-day mortality (OR 0.76, 95% CI 0.16–3.50) or rebleeding (OR 1.23, 0.46–3.27), and no difference in need for surgery, radiologic intervention, transfusion, or adverse events. Restricting to the 24-hour cutoff, **rebleeding was higher with urgent colonoscopy (OR 3.05, 1.23–7.56)**. Urgent colonoscopy shortened stay by about **1 day** (SMD −0.96, −1.46 to −0.47) — the one argument in its favour, and one limited in practice by after-hours staffing and endoscopy access ([[asge-2026-lgib]]).
+- **If you do go within 24 hours:** give a **full bowel preparation** and do the procedure **in a controlled setting with the full range of hemostasis devices available**, so a lesion found can be definitively treated at that sitting ([[asge-2026-lgib]]).
 
 **Exceptions — colonoscopy may be omitted if:**
 
@@ -241,7 +263,9 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - Elective inpatient colonoscopy: **split-dose PEG preparation** (adequacy 86% vs. 43% with evening-before dosing)
 - Urgent colonoscopy: 4–6 L PEG over 3–4 hours until rectal effluent is clear
 - Low-volume preparations (1 L same-day PEG) may be equivalent — emerging data
-- Unprepared colonoscopy and routine flexible sigmoidoscopy are NOT recommended unless anorectal source is confirmed
+- **Full bowel preparation unless there is strong suspicion of either a distal bleeding source or iatrogenic bleeding with known location** — [[asge-2026-lgib]], **Strong** recommendation (very low quality of evidence), and the only strong recommendation in that document. In those two exceptions, **colonoscopy or sigmoidoscopy unprepped or with enema(s)** is appropriate. Qualifying iatrogenic/distal examples: postpolypectomy, post-EMR, post-ESD bleeding; malignancy of known location; known left-sided diverticular disease; rectal trauma or ulceration.
+- ⚠ **One exception to that exception — [[radiation-proctopathy|radiation proctopathy]]**: a suspected distal source, but it is generally treated with APC, so it should **still be approached only after a full bowel preparation** because of the risk of **colonic explosion** with APC at higher intestinal gas levels ([[asge-2026-lgib]]).
+- Unprepared colonoscopy and routine flexible sigmoidoscopy are otherwise NOT recommended unless anorectal source is confirmed
 - NG tube for prep administration: use only when necessary
   - Older ASGE guidance called high-dose **6–8 L** PEG by NG tube an effective rapid preparation for acute LGIB ([[asge-2015-bowel-preparation]]); the 2023 ACG volume above (4–6 L over 3–4 h, NG route only when necessary) is the newer guideline and governs. Case reports describe severe, life-threatening adverse events including aspiration with NG instillation; prokinetics/antiemetics and avoiding over-rapid instillation improve tolerance ([[asge-2015-bowel-preparation]]).
 
@@ -261,22 +285,44 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 **Diverticular hemorrhage:**
 
-- Through-the-scope clips (direct clipping onto vessel preferred over indirect/zipper)
-- [[endoscopic-band-ligation|EBL]]: lower early rebleeding (8% vs. 19%) and late rebleeding (9% vs. 29%) vs. clipping; may be preferred for durable outcomes (technique, the device-diameter feasibility criterion, and the perforation rate are on [[endoscopic-band-ligation]])
+**Choose by which side of the colon the lesion is on — [[asge-2026-lgib]], Conditional recommendation, very low quality of evidence.** Band ligation or clipping "based on the location of bleeding, clinical expertise, and device availability":
+
+| Lesion location | Suggested modality |
+|---|---|
+| **Transverse colon or more proximal** | **Band ligation when feasible** — through-the-scope clipping is a viable option if band ligation is not feasible |
+| **Distal to the transverse colon** | **Through-the-scope clipping** |
+| Clipping chosen, any location | **Direct clipping over indirect**, whenever feasible and **particularly in the proximal colon** (separate conditional recommendation) |
+
+- **Why the split:** banding beat clipping on recurrent bleeding (OR 0.33, 95% CI 0.23–0.47; 2329 patients) and need for radiologic intervention (OR 0.43, 0.24–0.76), with no difference in need for surgery — but in the subgroup data **the whole benefit came from right-sided lesions, with no apparent benefit on the left**. A non-significant trend toward **more adverse events with banding** (OR 2.41, 0.70–8.24); its perforations **required surgery 100% of the time**.
+- **Direct vs indirect clipping:** direct clipping had lower recurrent bleeding (OR 0.58, 0.44–0.77) and less radiologic intervention (OR 0.50, 0.25–0.97), with **no difference in initial hemostasis or adverse events** — which is why ASGE is more confident here than about banding. **Indirect** = closing the whole diverticular orifice, sometimes a multi-clip "zipper"; **direct** = visualizing the vessel in the dome or along the lip and clipping it. Small-mouthed diverticula can make direct clipping impossible.
+
+> [!pitfall] Two practical barriers to banding a right-sided diverticulum
+> **Device:** most band ligators load onto a gastroscope; a **colonoscope-loadable** device is **not readily available in North America**. **Technique:** banding needs the colonoscope withdrawn entirely, loaded, and reinserted to the site — hard in an angulated or redundant colon, amid active bleeding, and in higher-BMI patients. **Mark the site with a clip and/or a tattoo** before withdrawing (the tattoo is permanent and guides later endoscopic or surgical management). Attempt it **only if experienced and appropriately equipped** ([[asge-2026-lgib]]).
+
+- ⚠ **Generalizability caveat:** every comparative study behind both recommendations was done in **Asia**, where right-sided diverticular lesions are far more common than in Western practice.
+- **Thermal modalities** are possible but risky given thin-walled diverticular anatomy — apply at the **rim, not the base**, with **lower power and shorter coagulation duration** ([[asge-2026-lgib]]).
+- **Over-the-scope clipping** is not extensively studied here, but early evidence appears promising; **Doppler probes**, validated for risk stratification in upper GI bleeding, have **no data to guide their use in LGIB** ([[asge-2026-lgib]]).
+- [[endoscopic-band-ligation|EBL]] vs clipping per [[acg-2023-lgib]]: lower early rebleeding (8% vs. 19%) and late rebleeding (9% vs. 29%) — the newer ASGE statement above narrows that preference to right-sided lesions (technique, the device-diameter feasibility criterion, and the perforation rate are on [[endoscopic-band-ligation]])
 - Bipolar/multipolar coagulation
 - Initial hemostasis rates 99–100% for all modalities
 - Despite hemostasis, early rebleeding 17.4%, late rebleeding 32.0%
 - ⚠ **The older [[asge-2014-lgib|ASGE 2014]] guideline made dilute [[epinephrine|epinephrine]] injection *combined with* thermal coagulation or clip placement the preferred management (Rec 9, high quality)** — 1:10,000 or 1:20,000 in 1-mL aliquots up to 2 mL. [[acg-2023-lgib|ACG 2023]] is newer and lists clips, band ligation, and bipolar coagulation without epinephrine, so the modalities above are what the page asserts; epinephrine remains an adjunct for visibility and is **never used alone** (dose detail: [[epinephrine]]).
 
-**Colonic angioectasias:**
+**Colonic angioectasias — and radiation proctopathy:**
 
-- APC first-line (0.8–1.0 L/min, 20–40 W); consider submucosal injection before APC for large right-colon lesions
-- Clips for refractory cases
+- **APC is the suggested modality for vascular lesions, [[angioectasia|angioectasias]] and [[radiation-proctopathy|radiation proctopathy]] alike** ([[asge-2026-lgib]], ungraded). First-line settings 0.8–1.0 L/min, 20–40 W ([[acg-2023-lgib]]); rebleeding after APC for actively and recently bleeding angioectasias was **7.4%** in a large series.
+- **Know your electrosurgical unit:** **pulsed APC modes cauterize more superficially than continuous modes.** In the thinner-walled right colon, **submucosal injection before APC** further reduces perforation risk ([[asge-2026-lgib]]).
+- Clips for refractory cases.
 
-**Postpolypectomy bleeding:**
+**Postresection (postpolypectomy, post-EMR, post-ESD) bleeding:**
 
-- Through-the-scope clips first-line
-- Hemostatic powders as monotherapy or rescue: 97–98% initial hemostasis
+- **Through-the-scope clipping or thermal coagulation as the initial modalities; hemostatic powder for adjunctive use, or for refractory bleeding despite initial endoscopic therapy** ([[asge-2026-lgib]], ungraded). Hemostatic powders 97–98% initial hemostasis ([[acg-2023-lgib]]).
+- **Timing:** typically **within 14 days**, rarely up to **30 days**. Predictors of finding active bleeding at colonoscopy: **left-sided lesions, pedunculated lesions, anticoagulant use.** Repeat colonoscopy for suspected delayed postpolypectomy bleeding found and treated a lesion in **22%** of cases — **number needed to treat 4.5** ([[asge-2026-lgib]]).
+- Apply thermal therapy cautiously to a resection bed, **particularly in the right colon**; [[epinephrine|epinephrine]] injection is a **temporizing** measure only.
+
+**Malignant bleeding:**
+
+- **Hemostatic powder or the Nd:YAG laser for temporary hemostasis** — with **palliative intent or as a bridge before definitive surgical management**; endoscopic therapy here is **temporizing only** ([[asge-2026-lgib]], ungraded). Hemostatic powder appears to be the mainstay, Nd:YAG availability waning in Western practice.
 
 ### Step 7: Recurrent Bleeding
 
@@ -284,6 +330,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - **Repeat colonoscopy** if known source was treated and patient is stable
 - **TA + embolization** for failed or refractory endoscopic therapy; previously placed clip guides focused angiography
 - **Surgery**: last resort (0.2% of UK audit patients); targeted localized resection preferred; total colectomy associated with higher cardiac/renal complications and ileus
+  - **The threshold, stated** ([[asge-2026-lgib]], ungraded): operate only when bleeding is **either not amenable to endoscopic or radiologic intervention**, or when **both have failed** to control it. Emergency surgery for refractory LGIB carries **30-day mortality 12.2%** — higher with older age, functional dependence and higher American Society of Anesthesiologists score; **lower** with a laparoscopic approach and a higher hematocrit at surgery. Rare scenarios where laparotomy is the *initial* modality: **aortocolonic fistula, bleeding [[meckels-diverticulum|Meckel's diverticulum]]**.
 - Provocative angiography (vasodilators, anticoagulants, thrombolytics): identifies extravasation in ~44–50% of recurrent cases — limited evidence
 
 ### Step 8: Post-Discharge Antithrombotic Management
@@ -387,7 +434,8 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 ## Sources
 
-1. [[acg-2023-lgib|ACG 2023: Management of Patients With Acute Lower Gastrointestinal Bleeding]]
-2. [[asge-2014-lgib|ASGE 2014: Role of Endoscopy in the Patient with Lower GI Bleeding]]
-3. [[acg-2021-ugib|ACG 2021: Upper Gastrointestinal and Ulcer Bleeding]]
-4. [[asge-2015-bowel-preparation|ASGE 2015: Bowel Preparation Before Colonoscopy]]
+1. [[asge-2026-lgib|American Society for Gastrointestinal Endoscopy Guideline on the Role of Endoscopy in Acute Lower Gastrointestinal Bleeding (2026)]]
+2. [[acg-2023-lgib|ACG 2023: Management of Patients With Acute Lower Gastrointestinal Bleeding]]
+3. [[asge-2014-lgib|ASGE 2014: Role of Endoscopy in the Patient with Lower GI Bleeding]]
+4. [[acg-2021-ugib|ACG 2021: Upper Gastrointestinal and Ulcer Bleeding]]
+5. [[asge-2015-bowel-preparation|ASGE 2015: Bowel Preparation Before Colonoscopy]]

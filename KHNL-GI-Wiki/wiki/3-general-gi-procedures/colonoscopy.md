@@ -3,8 +3,8 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, cecal-intubation, withdrawal-time, technique]
 created: 2026-05-07
-updated: 2026-10-24
-sources: [asge-acg-2024-colonoscopy-quality-indicators, aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, asge-2023-ergonomics, aga-2021-gi-perforations-endoscopic-management, aga-2025-cade-colonoscopy, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia]
+updated: 2026-11-09
+sources: [asge-acg-2024-colonoscopy-quality-indicators, uspstf-2021-crc-screening, aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, asge-2023-ergonomics, aga-2021-gi-perforations-endoscopic-management, aga-2025-cade-colonoscopy, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia]
 ---
 
 # Colonoscopy
@@ -127,6 +127,7 @@ Current targets ([[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024]],
 | Event | Rate | Notes |
 |---|---|---|
 | Perforation, colonoscopy | 0.06% delayed, after routine colonoscopy ([[aga-2021-colonoscopy-quality]]); 4 per 10,000 overall ([[acg-2021-crc-screening]]) | Sigmoid is the usual site (see pitfall above); higher with polypectomy and older age |
+| **Screening vs follow-up colonoscopy** | **Screening: 3.1 perforations and 14.6 major bleeds per 10,000.** **Follow-up after a positive stool test: 5.4 perforations (95% CI 3.4–7.4) and 17.5 serious bleeds (7.6–27.5) per 10,000** ([[uspstf-2021-crc-screening]]) | The colonoscopy that follows a positive noninvasive test is the **more hazardous** of the two — more biopsies and adenoma removals. Count it as part of the harm of the stool test, not separately |
 | Perforation, polypectomy | **0.08%** (95% confidence interval [CI] 0.06–0.1); **1.5%** (95% CI 1.2–1.7) for resection of **≥20 mm** lesions | Right colon highest with [[endoscopic-mucosal-resection\|endoscopic mucosal resection (EMR)]]/[[colorectal-esd\|endoscopic submucosal dissection (ESD)]] ([[usmstf-2020-endoscopic-removal]]) |
 | Bleeding, colonoscopy | 0.24% delayed, after routine colonoscopy ([[aga-2021-colonoscopy-quality]]); 8 per 10,000 overall ([[acg-2021-crc-screening]]) | Higher with polypectomy and older age |
 | Post-polypectomy bleeding | **9.8 per 1000** colonoscopies (95% CI 7.7–12.1); immediate or delayed up to 30 d | ↑ large lesions, right colon, [[anticoagulation-gi-bleeding\|antithrombotics]] ([[usmstf-2020-endoscopic-removal]]); treatment on [[endoscopic-hemostasis]] |
@@ -156,3 +157,4 @@ Current targets ([[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024]],
 10. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary]]
 11. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
 12. [[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators for Colonoscopy]]
+13. [[uspstf-2021-crc-screening|Screening for Colorectal Cancer: US Preventive Services Task Force Recommendation Statement (2021)]]
