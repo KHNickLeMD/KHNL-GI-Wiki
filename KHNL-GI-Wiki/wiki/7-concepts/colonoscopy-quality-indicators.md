@@ -3,8 +3,8 @@ title: "Colonoscopy Quality Indicators"
 category: concept
 tags: [colonoscopy, quality, adr, sdr, withdrawal-time, cecal-intubation, bowel-prep, polypectomy, crc-screening, colorectal]
 created: 2026-09-23
-updated: 2026-11-02
-sources: [asge-acg-2024-colonoscopy-quality-indicators, aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy, acg-2014-bowel-cleansing, usmstf-2025-bowel-prep, usmstf-2015-crc-surveillance, usmstf-2021-crc-screening-age, usmstf-2016-fit-screening]
+updated: 2026-11-09
+sources: [asge-acg-2024-colonoscopy-quality-indicators, usmstf-2026-serrated-polyposis-syndrome, aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy, acg-2014-bowel-cleansing, usmstf-2025-bowel-prep, usmstf-2015-crc-surveillance, usmstf-2021-crc-screening-age, usmstf-2016-fit-screening]
 ---
 
 Colonoscopy's efficacy varies among endoscopists, and lower-quality colonoscopy means higher interval [[colorectal-cancer|colorectal cancer (CRC)]] incidence and mortality. Quality has three components: **effectiveness** (detecting CRC and its precursors), **safety**, and **value** ([[aga-2021-colonoscopy-quality]]).
@@ -151,6 +151,7 @@ Indicators 4, 6, 7 and 8 share one denominator — **patients aged ≥45 y havin
 - Design limits the task force names: the indicator should **not reward resecting diminutive distal hyperplastic polyps** (generally not precancerous), and endoscopist-reported location **could be gamed**.
 - **Alternatives considered**, each tied to the lowest PCCRC risk at that level: **clinically significant serrated detection rate, benchmark 9%** (needs pathology, size and location) and **proximal serrated polyp detection rate, benchmark 17%** (location only — least pathology-dependent).
 - Withdrawal time and serrated detection are clearly associated.
+- **≥6% is also the gate for serving serrated polyposis patients** — [[usmstf-2026-serrated-polyposis-syndrome|USMSTF 2026]] recommends colonoscopy in [[serrated-polyposis-syndrome]] be performed only by endoscopists with documented **SSLDR ≥6%** on routine colonoscopy *(Strong, Oxford Level 5)*, citing US minimum acceptable thresholds of **6%–7%** and **aspirational levels approaching 20%**.
 
 ---
 
@@ -289,7 +290,7 @@ Other USMSTF ADR figures, each tied to its own population:
 
 ## See Also
 
-[[endoscopy-quality-indicators]], [[colonoscopy]], [[bowel-preparation]], [[polypectomy]], [[colonoscopy-surveillance]], [[colorectal-cancer-screening]], [[colorectal-cancer]], [[endoscopic-mucosal-resection]], [[artificial-intelligence-endoscopy]], [[ibd-endoscopic-scoring]], [[anticoagulation-gi-bleeding]], [[upper-endoscopy]]
+[[endoscopy-quality-indicators]], [[colonoscopy]], [[bowel-preparation]], [[polypectomy]], [[colonoscopy-surveillance]], [[colorectal-cancer-screening]], [[colorectal-cancer]], [[endoscopic-mucosal-resection]], [[artificial-intelligence-endoscopy]], [[ibd-endoscopic-scoring]], [[anticoagulation-gi-bleeding]], [[upper-endoscopy]], [[serrated-polyposis-syndrome]]
 
 ---
 
@@ -304,3 +305,4 @@ Other USMSTF ADR figures, each tied to its own population:
 7. [[usmstf-2015-crc-surveillance|USMSTF 2015: Colonoscopy Surveillance after Colorectal Cancer Resection]]
 8. [[usmstf-2021-crc-screening-age|USMSTF 2021: Updates on Age to Start and Stop CRC Screening]]
 9. [[usmstf-2016-fit-screening|USMSTF 2016 — Recommendations on Fecal Immunochemical Testing to Screen for Colorectal Neoplasia]]
+10. [[usmstf-2026-serrated-polyposis-syndrome|Serrated Polyposis Syndrome: A Review and Consensus Statement by the US Multi-Society Task Force on Colorectal Cancer (2026)]]

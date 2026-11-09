@@ -3,8 +3,8 @@ title: "Colorectal Cancer Screening"
 category: concept
 tags: [crc, colorectal-cancer, screening, colonoscopy, fit, gfobt, multitarget-stool-dna, septin-9, colonoscopy-quality, adenoma, colorectal]
 created: 2026-05-16
-updated: 2026-11-01
-sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-screening-risk-stratification, aga-2025-crc-blood-tests, aga-2021-crc-chemoprevention, aga-2022-noninvasive-crc-screening, usmstf-2016-fit-screening, aga-2020-young-adult-onset-crc, usmstf-2025-bowel-prep]
+updated: 2026-11-09
+sources: [acg-2021-crc-screening, aga-2026-surveillance-older-adults, usmstf-2021-crc-screening-age, aga-2023-crc-screening-risk-stratification, aga-2025-crc-blood-tests, aga-2021-crc-chemoprevention, aga-2022-noninvasive-crc-screening, usmstf-2016-fit-screening, aga-2020-young-adult-onset-crc, usmstf-2025-bowel-prep]
 ---
 
 ## Contents
@@ -65,6 +65,12 @@ sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-sc
 
 - **Age 45 rests on modelling, not trials** ([[aga-2020-young-adult-onset-crc]]): +6.2% life-years for +17% colonoscopies vs starting at 50. Modelled best balance: annual fecal immunochemical test (FIT) at **45–49**, colonoscopy **50–70** ([[aga-2022-noninvasive-crc-screening]]).
 - **Over 75** ([[aga-2023-crc-screening-risk-stratification|AGA 2023]]): individualize screening *and* surveillance — **3.8%–6.8%** have an emergency visit or admission within 30 days of colonoscopy; benefit lags **≥5 y**, so life expectancy <5 y is unlikely to benefit.
+- **What tips the balance after 75** ([[aga-2026-surveillance-older-adults]], Best Practice Advice 6): **a 10-year life expectancy is needed to derive a survival benefit** from cancer screening, and **age alone is an insufficient marker of prognosis** — use comorbidity and frailty (Lee–Schonberg 4- to 14-year mortality index, ePrognosis), not the birthday.
+  - **Prior normal screening lowers the risk further:** after a normal screening colonoscopy or stool test, CRC risk is **0.39% / 0.23% at 2 y** and **1.29% / 1.21% at 8 y** — below the general population.
+  - **Yield at 76–85 is low:** only **0.2%–0.5%** are diagnosed with CRC; advanced adenomas are found in **6%–8%**.
+  - **Harms (~26 per 1000) likely outweigh the benefit of finding CRC (2–3 per 1000)** in the never-screened older adult; screening endoscopy after 75 in patients with significant comorbidities was **not** associated with reduced CRC death and **was** associated with increased non-CRC and all-cause mortality.
+  - **FIT is the preferred noninvasive test in older adults** — it performs well at all ages, whereas the **specificity of multitarget stool DNA, stool RNA, and blood-based tests falls with age to as low as 80%**, driving false positives and unnecessary colonoscopy. Any patient choosing a noninvasive strategy must be **willing and healthy enough to undergo colonoscopy if it is positive**.
+  - Stopping *polyp surveillance* in this age group — including the 5-year CRC risks by polyp history and the decision algorithm — lives on [[colonoscopy-surveillance]].
 
 ---
 
@@ -261,3 +267,4 @@ Colonoscopist metrics (ACG Recs 13–16, FIT-positive adenoma detection threshol
 7. [[usmstf-2016-fit-screening|USMSTF 2016 — Recommendations on Fecal Immunochemical Testing to Screen for Colorectal Neoplasia]]
 8. [[aga-2020-young-adult-onset-crc|AGA 2020 Clinical Practice Update: Young Adult–Onset Colorectal Cancer Diagnosis and Management]]
 9. [[usmstf-2025-bowel-prep|Optimizing Bowel Preparation Quality for Colonoscopy: Consensus Recommendations by the US Multi-Society Task Force on Colorectal Cancer]]
+10. [[aga-2026-surveillance-older-adults|AGA Clinical Practice Update on Surveillance of Metaplastic and Premalignant Conditions of the Esophagus and Colorectum in Older Adults: Expert Review (2026)]]

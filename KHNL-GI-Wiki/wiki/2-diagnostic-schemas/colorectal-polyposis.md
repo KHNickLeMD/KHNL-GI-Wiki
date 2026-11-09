@@ -3,8 +3,8 @@ title: "Colorectal Polyposis"
 category: diagnostic-schema
 tags: [polyposis, colorectal, hereditary-cancer, germline-testing, adenoma, hamartoma, serrated, apc, mutyh]
 created: 2026-08-27
-updated: 2026-11-06
-sources: [acg-2026-adenomatous-polyposis, acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis, asge-2020-fap, usmstf-2020-followup-colonoscopy, usmstf-2017-bmmrd]
+updated: 2026-11-09
+sources: [usmstf-2026-serrated-polyposis-syndrome, acg-2026-adenomatous-polyposis, acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis, asge-2020-fap, usmstf-2020-followup-colonoscopy, usmstf-2017-bmmrd]
 ---
 
 ## Contents
@@ -83,7 +83,7 @@ The patient found to have **multiple colorectal polyps** — how to sort that ph
 
 ### Serrated phenotype
 
-- [[serrated-polyposis-syndrome|Serrated polyposis syndrome (SPS)]] — the polyp-count/size/landmark criteria, and the way they changed between the World Health Organization (WHO) 2010 and [[usmstf-2020-followup-colonoscopy|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2020]] versions, are on [[serrated-polyposis-syndrome]]. **No clear genetic etiology has been defined**, so routine germline testing is *not* recommended [[acg-2015-hereditary-gi-cancer]]
+- [[serrated-polyposis-syndrome|Serrated polyposis syndrome (SPS)]] — **the most common gastrointestinal polyposis syndrome**, more common than all the others combined (~1 in 250 screening colonoscopies). Diagnose by the **2019 World Health Organization (WHO) criteria**, counting serrated polyps **proximal to the rectum** and **cumulatively across all lifetime colonoscopies**; the criteria table and the superseded older versions are on [[serrated-polyposis-syndrome]] ([[usmstf-2026-serrated-polyposis-syndrome|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2026]]). **No consistent genetic basis has been identified**, so **SPS itself is not an indication for germline testing** — test only when concurrent non-serrated polyps (>10 conventional adenomas, >2 hamartomatous polyps) or family history independently meet criteria
 - Sporadic serrated/hyperplastic polyps — do not meet SPS criteria; follow standard [[colonoscopy-surveillance]]
 
 ### Not a polyposis
@@ -138,7 +138,7 @@ flowchart TD
 | Peutz–Jeghers | Four alternative criteria, any one sufficient — polyp count, family history, and mucocutaneous pigmentation in combination *(Strong, low quality)*; stated in full on [[peutz-jeghers-syndrome]] | [[aga-2022-hamartomatous-polyposis]] |
 | Juvenile polyposis | Three alternative criteria, any one sufficient — colorectal polyp count, extracolonic polyp count, or any number plus an affected first-degree relative *(Strong, low quality)*; stated in full on [[juvenile-polyposis-syndrome]] | [[aga-2022-hamartomatous-polyposis]] |
 | PTEN hamartoma tumor syndrome | **Multiple GI hamartomas or ganglioneuromas** *(Strong, low quality)*. Full clinical criteria (major/minor) on [[cowden-syndrome]] | [[aga-2022-hamartomatous-polyposis]] |
-| Serrated | Meets SPS criteria ([[serrated-polyposis-syndrome]]). **No routine germline testing**; *MUTYH* may be considered when adenomas are concurrent and/or there is a family history of adenomas | [[acg-2015-hereditary-gi-cancer]] |
+| Serrated | Meets the **2019 WHO** SPS criteria ([[serrated-polyposis-syndrome]]). **Germline testing only when** concurrent non-serrated polyps independently qualify (**>10 conventional adenomas**, **>2 hamartomatous polyps**) **or** family history suggests a hereditary gastrointestinal cancer syndrome *(Strong, Oxford Level 3)*; *MUTYH* may be considered when adenomas are concurrent and/or there is a family history of adenomas | [[usmstf-2026-serrated-polyposis-syndrome]]; [[acg-2015-hereditary-gi-cancer]] |
 | Lynch | Tumour showing **MMR deficiency** without a *BRAF* mutation or *MLH1* hypermethylation; **OR** a known family mutation; **OR** **≥5% risk of Lynch** on a risk-prediction model | [[acg-2015-hereditary-gi-cancer]] |
 | BMMRD | Any clue in the red-flag list below — the phenotype is a **child or young adult**, and family history is usually **negative** because the parents are young and unaffected | [[usmstf-2017-bmmrd]] |
 
@@ -173,7 +173,7 @@ flowchart TD
 | Adenomatous polyposis *(superseded)* | ***APC* + *MUTYH***. If negative and suspicion remains high, consider other genes (*POLE*, *POLD1*, *GREM1*) | [[acg-2015-hereditary-gi-cancer]], [[asge-2020-fap]] |
 | Hamartomatous polyposis | **Multigene panel** (rather than sequential single-gene testing) — *STK11* (PJS), *SMAD4* / *BMPR1A* (JPS), *PTEN* (PHTS) | [[aga-2022-hamartomatous-polyposis]] |
 | Suspected Lynch | *MLH1*, *MSH2*, *MSH6*, *PMS2*, and/or *EPCAM* — or the gene indicated by IHC | [[acg-2015-hereditary-gi-cancer]] |
-| Serrated polyposis | None routinely; *MUTYH* only with concurrent adenomas and/or family history of adenomas | [[acg-2015-hereditary-gi-cancer]] |
+| Serrated polyposis | **None for SPS itself.** Test only if concurrent non-serrated polyps or family history qualify independently; *MUTYH* only with concurrent adenomas and/or family history of adenomas | [[usmstf-2026-serrated-polyposis-syndrome]]; [[acg-2015-hereditary-gi-cancer]] |
 
 ---
 
@@ -214,3 +214,4 @@ flowchart TD
 4. [[asge-2020-fap|ASGE Guideline: The Role of Endoscopy in Familial Adenomatous Polyposis Syndromes (2020)]]
 5. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]
 6. [[usmstf-2017-bmmrd|USMSTF 2017: Recommendations on Surveillance and Management of Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome]]
+7. [[usmstf-2026-serrated-polyposis-syndrome|Serrated Polyposis Syndrome: A Review and Consensus Statement by the US Multi-Society Task Force on Colorectal Cancer (2026)]]

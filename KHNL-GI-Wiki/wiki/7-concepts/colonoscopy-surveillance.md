@@ -3,8 +3,8 @@ title: "Colonoscopy Surveillance Intervals"
 category: concept
 tags: [colonoscopy, surveillance, adenoma, serrated-polyp, crc-screening, polypectomy]
 created: 2026-06-01
-updated: 2026-11-01
-sources: [usmstf-2020-followup-colonoscopy, aga-2021-ibd-colorectal-dysplasia]
+updated: 2026-11-09
+sources: [usmstf-2020-followup-colonoscopy, aga-2026-surveillance-older-adults, aga-2021-ibd-colorectal-dysplasia]
 ---
 
 ## Contents
@@ -14,6 +14,7 @@ sources: [usmstf-2020-followup-colonoscopy, aga-2021-ibd-colorectal-dysplasia]
 - [[#Adenoma Surveillance]]
 - [[#Serrated Polyp Surveillance]]
 - [[#Serial (Second) Surveillance]]
+- [[#Stopping Surveillance in Older Adults]]
 - [[#Definitions]]
 - [[#See Also]]
 - [[#Sources]]
@@ -121,6 +122,42 @@ USMSTF writes this threshold as **>20 mm** in the recommendation text and **≥2
 
 Note the asymmetry that carries the decision: an advanced baseline **never** returns to a 10-year interval, even after a normal first surveillance — the floor is 5 y.
 
+## Stopping Surveillance in Older Adults
+
+**Individualize past age 75 on benefits, polyp history, comorbidities and risks — not on age alone** ([[aga-2026-surveillance-older-adults]] Best Practice Advice 6–8). A frail 70-year-old may have a shorter life expectancy than a robust 85-year-old; **a 10-year life expectancy is needed to derive a survival benefit from cancer screening**. Life-expectancy tools: Lee–Schonberg 4- to 14-year mortality index (ePrognosis).
+
+**The quantities that decide it:**
+
+| Polyp history in patients >75 | 5-y CRC risk |
+|---|---|
+| **No adenomas** | 0.3% |
+| **Low-risk adenomas** (1–2 small <10 mm, no villous features, no high-grade dysplasia) | **~0.5%** — similar to no adenomas, **lower than the general population** → manage much as a patient without polyps |
+| **Advanced adenoma on the most recent colonoscopy** | **0.8%** |
+
+- **Competing mortality dwarfs the cancer risk:** non-CRC death ~**22% at 5 years** and ~**48% at 10 years** in this group — 97–210× the CRC-specific death risk depending on polyp history
+- **Harms of colonoscopy (~26 per 1000) likely outweigh the benefit of finding CRC (2–3 per 1000)** in an unscreened older adult. Adverse events are ~**22-fold higher above age 65** than in younger adults, rise **for every 5 years past 75**, and the **non-GI harms** (arrhythmia, aspiration pneumonia, myocardial infarction, ischemic stroke) **exceed the GI harms** (bleeding, perforation)
+- **Document the decision in the electronic health record for anyone >75** (BPA 8), and elicit **whether the patient could or would pursue treatment if CRC were found** — in one review of patients >75, **10 of 15 found to have CRC did not pursue treatment**
+- Stopping surveillance is **harder in practice than stopping screening** — standing recall systems, primary-care deference to the prior colonoscopy recommendation, and reports written without knowledge of future health. The update suggests **moving away from open-access colonoscopy above age 75** so the conversation can happen before the prep
+- **Stool tests (FIT) are not currently recommended for polyp surveillance in the US**; effectiveness in older adults with an adenoma history is under study
+
+```mermaid
+flowchart TD
+    A{"Prior screening or<br/>high-quality colonoscopy?"} -->|Yes| B{"Life expectancy &gt;10 years?"}
+    A -->|No| C{"Life expectancy &gt;10 years?"}
+    B -->|No| D["NO - harms &gt; benefits"]
+    B -->|Yes| E{"History of advanced polyp?"}
+    E -->|No| F["NO"]
+    E -->|Yes| G{"Advanced polyp on most<br/>recent colonoscopy?"}
+    G -->|Yes| H["YES - benefits &gt; harms"]
+    G -->|No| I["Discuss: CRC risk ~8-24/1000;<br/>colonoscopy risk ~26/1000;<br/>time since the advanced polyp;<br/>patient preference"]
+    C -->|Yes| J["YES - benefits &gt; harms"]
+    C -->|No| K["Discuss: CRC risk ~2-3/1000;<br/>colonoscopy risk ~26/1000;<br/>comorbidities; patient preference"]
+```
+
+*Figure — whether to perform screening or surveillance colonoscopy in older adults, recreated from Figure 1B. ([[aga-2026-surveillance-older-adults]])*
+
+Stopping **screening** (as opposed to polyp surveillance): [[colorectal-cancer-screening]].
+
 ## Definitions
 
 *USMSTF 2020 Table 3.*
@@ -145,3 +182,4 @@ Note the asymmetry that carries the decision: an advanced baseline **never** ret
 
 1. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]
 2. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
+3. [[aga-2026-surveillance-older-adults|AGA Clinical Practice Update on Surveillance of Metaplastic and Premalignant Conditions of the Esophagus and Colorectum in Older Adults: Expert Review (2026)]]

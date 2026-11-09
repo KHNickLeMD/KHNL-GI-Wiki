@@ -3,8 +3,8 @@ title: "Polypectomy (Colorectal)"
 category: general-procedure
 tags: [polypectomy, cold-snare, colonoscopy, colorectal, paris-classification, nice-classification, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-10-30
-sources: [asge-acg-2024-colonoscopy-quality-indicators, usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy, aga-2025-endoscopic-resection-crc, aga-2026-electrosurgery, aga-2021-colonoscopy-quality]
+updated: 2026-11-09
+sources: [asge-acg-2024-colonoscopy-quality-indicators, usmstf-2026-serrated-polyposis-syndrome, usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy, aga-2025-endoscopic-resection-crc, aga-2026-electrosurgery, aga-2021-colonoscopy-quality]
 ---
 
 # Polypectomy (Colorectal)
@@ -146,6 +146,7 @@ Single home for laterally spreading tumor (LST) submucosal-invasion risk — the
   - Non-polypoid lesions (0-IIa, 0-IIb, 0-IIc)
   - Serrated lesions (sessile serrated polyps [SSPs], traditional serrated adenoma [TSA]) — high incomplete resection with conventional polypectomy
   - LSTs
+- **In [[serrated-polyposis-syndrome|serrated polyposis syndrome (SPS)]], resect SSLs and hyperplastic polyps by cold snare ± submucosal injection regardless of size** — lesions ≥10 mm can be taken piecemeal cold, with fewer complications and no clip closure required. Reserve electrocautery for **endoscopically evident dysplasia** and for bulky SSLs *(Strong, Oxford Level 3; [[usmstf-2026-serrated-polyposis-syndrome]])*
 
 ### ≥20mm Non-Pedunculated
 
@@ -383,7 +384,7 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 
 ## See Also
 
-[[colonoscopy]], [[colonoscopy-surveillance]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[electrosurgery]], [[argon-plasma-coagulation]], [[endoscopic-hemostasis]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]], [[inflammatory-bowel-disease]]
+[[colonoscopy]], [[colonoscopy-surveillance]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[electrosurgery]], [[argon-plasma-coagulation]], [[endoscopic-hemostasis]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]], [[inflammatory-bowel-disease]], [[serrated-polyposis-syndrome]]
 
 ---
 
@@ -397,3 +398,4 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 6. [[aga-2026-electrosurgery|AGA Clinical Practice Update on the Use of Electrosurgery in Therapeutic Endoscopy: Expert Review (2026)]]
 7. [[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators for Colonoscopy]]
 8. [[aga-2021-colonoscopy-quality|AGA 2021 Clinical Practice Update on Strategies to Improve Quality of Screening and Surveillance Colonoscopy]]
+9. [[usmstf-2026-serrated-polyposis-syndrome|Serrated Polyposis Syndrome: A Review and Consensus Statement by the US Multi-Society Task Force on Colorectal Cancer (2026)]]

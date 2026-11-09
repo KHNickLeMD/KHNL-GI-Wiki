@@ -6,6 +6,58 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-09] lint | Backlog pass — three tier-1 guidelines ingested, AATD-LD page created
+
+**Mode:** backlog mode ON (uningested tier-1/2 files remain in `raw/`) → ingest takes the pass budget; *Validate the stalest pages*, *Expand stubs* and *Fill coverage gaps* paused: ingest backlog.
+
+**Daily source fetch:** not run — 06:00 cron pass only, and this pass's prompt does not invoke it.
+
+**Git hygiene:** `git status` clean at session start; no untracked `raw/` arrivals to commit this pass.
+
+**Sources created:**
+
+- `[[usmstf-2026-serrated-polyposis-syndrome]]` — USMSTF 2026 consensus statement on serrated polyposis syndrome (Rex et al., *Gastroenterology* 2026). All **11 recommendations** captured with the document's own numbering, Oxford evidence level and strong/weak consensus strength.
+- `[[aga-aasld-easl-2026-aatd-liver-disease]]` — AGA/AASLD/EASL/Alpha-1 Foundation 2026 multi-society expert panel consensus guidance on alpha-1 antitrypsin deficiency–associated liver disease (Loomba, Strnad et al., *Gastroenterology* 170:829–842). Every Table 4 recommendation category captured plus the Figure 2 algorithm, the trial-design criteria and the pulmonary-monitoring stopping rules. The document **assigns no evidence grades and numbers no recommendations** — the source page says so rather than inventing a scheme.
+- `[[aga-2026-surveillance-older-adults]]` — AGA 2026 Clinical Practice Update on surveillance of metaplastic and premalignant conditions of the esophagus and colorectum in older adults (Calderwood et al., *Clin Gastroenterol Hepatol* 2026). All **9 Best Practice Advice statements** captured, plus Table 2 (prevalence, 5-/10-y cancer and competing-mortality risks) and both decision figures. The document states its statements **carry no formal ratings** for evidence quality or strength — recorded as such, no scheme invented.
+
+**Pages created:**
+
+- `[[alpha-1-antitrypsin-deficiency-liver-disease]]` — new disease script in `1-disease-scripts/hepatology-diseases/`, built entirely from the 2026 consensus. ADDT order; genotype risk table (PiZZ 1:3000 / ~20× fibrosis risk, PiSZ, PiMZ, PiMM); the four-step diagnostic algorithm recreated as Mermaid; serum AAT threshold table; VCTE staging table with per-stratum monitoring intervals; biopsy stance; transplant timing; investigational-therapy table. **Closes a listed coverage gap** — alpha-1 antitrypsin deficiency was in *Topics with no page and no source* on `needed-sources.md` and its row is now removed, the source having arrived in `raw/`.
+
+**Pages updated:**
+
+- `[[serrated-polyposis-syndrome]]` — major revision. Diagnostic criteria replaced with the **2019 WHO** Type 1 / Type 2 table (landmark moved sigmoid → rectum, ≥5 mm floor on the Type 1 limb, FDR-based criterion dropped), with the superseded WHO 2010 / USMSTF 2020 formulations condensed into one pitfall callout instead of two competing tables. Severity rewritten around the meta-analytic CRC risks (14.7% at diagnosis, 7.7% before, 2.8% on surveillance). New detection/documentation subsection (Recs 3–5), genetic-testing subsection (Rec 2), clearance-phase/surveillance-phase management with Figure 2 recreated as Mermaid, cold-snare resection rule (Rec 8), and FDR screening ages (Rec 11). Mean age at presentation corrected to ~60 y per the newer source.
+- `[[colorectal-polyposis]]` — serrated-phenotype entry, germline-testing criteria row and panel-selection row updated to the 2019 WHO criteria and the USMSTF 2026 testing rule.
+- `[[colonoscopy-quality-indicators]]` — SSLDR section: ≥6% is also the gate for endoscopists serving SPS patients; US minimum 6%–7%, aspirational ~20%.
+- `[[polypectomy]]` — cold snare ± injection for SSLs and hyperplastic polyps in SPS regardless of size; electrocautery reserved for overt dysplasia and bulky SSLs.
+- `[[barretts-esophagus]]` — the one-line stop rule replaced with a **`#### Stopping Surveillance`** subsection: the categorical stop (unfit for endoscopic/surgical/oncologic intervention, regardless of age), conversation by 75 and deprioritization at 80, the 0.1%–0.3%/y progression and 40× other-cause-mortality counseling numbers, the four competing stopping ages (cost-effectiveness 69–81 y, AGA 2025, ESGE 75/80, this update's 80) printed rather than reconciled, and Figure 1A recreated as Mermaid.
+- `[[colonoscopy-surveillance]]` — new **`## Stopping Surveillance in Older Adults`** section: 5-y CRC risk by polyp history (none 0.3%, low-risk ~0.5%, advanced 0.8%), competing non-CRC mortality 22%/48%, the ~26-vs-2–3 per 1000 harm/benefit arithmetic, the >75 documentation rule, the practical obstacles to stopping (recall systems, open-access colonoscopy), and Figure 1B as Mermaid. `## Contents` updated.
+- `[[colorectal-cancer-screening]]` — *When to Start and Stop* gains the 10-year life-expectancy rule, prior-normal-screening risks, the 76–85 yield figures, and **FIT as the preferred noninvasive test in older adults** (other tests' specificity falls to ~80% with age). Polyp-surveillance cessation left to its owner page rather than duplicated.
+- `[[abnormal-liver-chemistries]]` — the alpha-1 antitrypsin line in *Second-tier serologies* replaced with the serum-level thresholds, the genotyping-vs-phenotyping rule and the acute-phase-reactant caveat; first plain-text mention of the disease converted to an inline link.
+
+**Cards:** `serrated-polyposis-syndrome` — notes `0e0001` and `0e0002` **reworded in place** (ids kept, scheduling preserved) from the superseded USMSTF 2020 thresholds and the ACG 1–3-year interval to the 2019 WHO criteria and the clearance/surveillance phases; `0e0003` kept with a USMSTF 2026 addendum in Back Extra; **two new notes** — `0e0004` germline-testing rule, `0e0005` first-degree-relative screening ages. `polypectomy` — one new note `b8d3f2` (cold snare at any size for SSLs/hyperplastic polyps in SPS; cautery only for endoscopically evident dysplasia). `alpha-1-antitrypsin-deficiency-liver-disease` — **new card file, 7 notes** (case definition, the enzyme/fibrosis mismatch, the <11 μM threshold, the acute-phase-reactant and PiMZ caveats, the three monitoring intervals, transplant timing after first decompensation, biopsy's role), tagged `GI::Organs::Liver` — the existing node, no new tag node invented. From the AGA 2026 older-adults update: `barretts-esophagus` +1 (`b3d1c0`, the 75/80 age anchors — the existing `b3d1b4` already owns the fitness-based stop rule, so it was not re-cut), `colonoscopy-surveillance` +2 (`c5800b` 5-y CRC risk by polyp history, `c5800c` the harm-vs-benefit per-1000 arithmetic), `colorectal-cancer-screening` +1 (`c71012` FIT preferred, other noninvasive tests' specificity falling to ~80% with age). **No new cards** on `colonoscopy-quality-indicators` (the ≥6% SSLDR gate is the number already carded as `c91015`) or `colorectal-polyposis` (its SPS content is pointers; the facts are owned by the SPS page) or `abnormal-liver-chemistries` (the AAT thresholds are owned by the new AATD page) — `page_updated:` bumped on all three. Deck not rebuilt: `node` is unavailable here, so the 05:00 pass builds.
+
+**Figure not captured:** USMSTF 2026 Figure 1 (endoscopic photographs of hyperplastic polyps, sessile serrated lesions, SSLs with cytologic dysplasia, and traditional serrated adenomas) qualifies under *Endoscopic appearance — always capture the pictures*, but `pdftoppm` was not approved in this unattended run. Figure 2 was recreated natively as Mermaid instead, as were AATD-LD Figure 2 and both older-adults decision figures. Only the USMSTF endoscopic photo plate remains to be captured on a pass with rendering available.
+
+**Health check:**
+
+- **Broken links: 0** across all 786 pages (the only unresolved `[[...]]` are inside historical `log.md` entries, which are append-only and were left alone).
+- **Orphan pages: 0** — every page has at least one inbound link.
+- **Unescaped alias pipes in table cells: none** (`grep -rn --include='*.md' -E '^\s*\|.*\[\[[^]]*[^\\]\|' wiki` returned nothing).
+- **OS artifacts:** none (`.DS_Store`, `*.tmp`).
+- **`ingest: partial` markers:** none at session start, none left at the end — all three files finished in this pass.
+
+**Steps that did nothing, and why:**
+
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps from the queue* — **paused: ingest backlog** (backlog mode gives the budget to ingest).
+- *Daily source fetch* — not run; 06:00 cron pass only.
+- *Dedup sweep and `{at:}` backfill* — `anki-at.py --status` reported **0 untagged notes in 0 files** before and after; every note written this pass carried its `{at:}` when written. No dedup candidates were pulled, as this pass wrote cards rather than running the card pass.
+- *New folders* — none created. *Lint report* — chat only, not written to disk.
+
+**Backlog state:** still **ON**. Three tier-1 files ingested this pass; the audit (matching `raw/` filenames against each source page's `title:` and `**Article:**` line) still shows roughly 50 uningested tier-1/2 files, among them ASGE 2026 EoE Part 2, ASGE 2025 adult IBD consensus, AASLD 2026 EXPO liver biopsy, AGA 2026 CPU pancreatic cyst/HCC surveillance in older adults, ESGE 2026 biliary strictures, IAP 2025 acute pancreatitis, and the Rome V 2026 volumes. **Gated lectures were not touched.**
+
+---
+
 ## [2026-11-08] update | Card pass — three stale pages closed, three orphaned NIT notes moved to their owner page
 
 **Dedup sweep:** `anki-dupes.mjs` returned **0 unjudged candidate pairs** at ≥0.4. Nothing to judge, nothing to merge — straight to the anchor step.

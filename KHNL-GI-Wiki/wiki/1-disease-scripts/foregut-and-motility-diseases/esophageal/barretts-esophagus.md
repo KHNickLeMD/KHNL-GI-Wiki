@@ -3,8 +3,8 @@ title: "Barrett's Esophagus"
 category: disease-script
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance, foregut]
 created: 2026-05-15
-updated: 2026-10-25
-sources: [acg-2022-barretts, aga-2018-barretts-screening-techniques, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, aga-2020-endoscopic-treatment-barretts-dysplasia, aga-2020-post-endoscopy-esophageal-adenocarcinoma, aga-2016-low-grade-dysplasia-barretts, aga-2022-barretts-new-technology]
+updated: 2026-11-09
+sources: [aga-2026-surveillance-older-adults, acg-2022-barretts, aga-2018-barretts-screening-techniques, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, aga-2020-endoscopic-treatment-barretts-dysplasia, aga-2020-post-endoscopy-esophageal-adenocarcinoma, aga-2016-low-grade-dysplasia-barretts, aga-2022-barretts-new-technology]
 ---
 
 Barrett's esophagus (BE): distal esophageal squamous epithelium replaced by columnar epithelium with goblet cells (intestinal metaplasia [IM]) — the only known precursor of [[esophageal-adenocarcinoma|esophageal adenocarcinoma]] (EAC). Arises from chronic [[gerd|gastroesophageal reflux disease (GERD)]]; present in 5–12% with chronic GERD symptoms.
@@ -226,7 +226,27 @@ Dysplasia grade drives risk and management. **Quote the right endpoint** — EAC
 3. **EET or surveillance — documented shared decision** (AGA 2020 BPA 2; AGA 2016). Persistent LGD (2 consecutive EGDs) progresses 7.65%/yr vs 2.32%/yr (AGA 2020)
 4. **If surveillance:** twice-daily PPI; EGD at **6 and 12 mo, then annually** until grade changes (AGA 2025; same in AGA 2016); 4-quadrant biopsies **every 1 cm**; reverts to NDBE → 3-y intervals. Expert-confirmed LGD progresses 5.7%/yr (AGA 2025)
 
-- **Stop surveillance** when no longer fit for EET, life expectancy <5 y, or can't tolerate endoscopy — decide on **age and comorbidity** (AGA 2025); discuss around age 75
+#### Stopping Surveillance
+
+- **Hard stop, regardless of age:** inability to tolerate endoscopic therapy, surgery, or oncologic intervention for esophageal adenocarcinoma ends surveillance ([[aga-2026-surveillance-older-adults]] Best Practice Advice 5). Same rule in AGA 2025: no longer fit for EET, life expectancy <5 y, or can't tolerate endoscopy
+- **Otherwise individualize by comorbidity, life expectancy, risks/benefits and patient preference** — not by age alone; **a frail 70-year-old may have a shorter life expectancy than a robust 85-year-old**. Formal life-expectancy tools (Lee–Schonberg 4- to 14-year mortality index, ePrognosis) help
+- **Have the conversation no later than age 75**; **consider deprioritizing surveillance at age 80 in otherwise healthy patients**
+- The numbers to counsel with: **nondysplastic Barrett's esophagus is ~90% of the Barrett's population and progresses to adenocarcinoma at only 0.1%–0.3% per year**, while after successful endoscopic therapy of Barrett's-related neoplasia **other-cause mortality was 40× esophageal adenocarcinoma mortality**, strongly predicted by the Charlson Comorbidity Index
+- Other bodies' stopping ages differ and are not reconciled: cost-effectiveness analysis puts the optimal last surveillance endoscopy between **69 y (women with severe comorbidities) and 81 y (men with none)**; **AGA 2025** opens the discontinuation conversation at **75 in healthy men**; the **European Society of Gastrointestinal Endoscopy** sets the last surveillance endoscopy at **75, with exceptions to 80**
+- **Upper endoscopy is less safe in this group:** cardiopulmonary adverse events are more common at **≥65 years** and with coronary artery disease, hypertension, diabetes, or obesity; higher American Society of Anesthesiologists score and frailty raise serious-adverse-event risk
+
+```mermaid
+flowchart TD
+    A{"Can the patient tolerate endoscopic,<br/>surgical or oncologic intervention<br/>for esophageal cancer?"} -->|No| B["STOP surveillance"]
+    A -->|Yes| C{"Life expectancy &gt;5 years?"}
+    C -->|No| D["STOP - harms &gt; benefits"]
+    C -->|Yes| E["Discuss face-to-face with GI and/or PCP<br/>no later than age 75:<br/>adenocarcinoma risk 0.1-0.3%;<br/>comorbidities; other-cause mortality 40x;<br/>patient preferences"]
+    E --> F{"Benefits &gt; harms?"}
+    F -->|No| G["STOP"]
+    F -->|Yes| H["Continue - but consider deprioritizing<br/>at age 80 in otherwise healthy patients"]
+```
+
+*Figure — whether to continue Barrett's esophagus surveillance in older adults, recreated from Figure 1A. ([[aga-2026-surveillance-older-adults]])*
 
 ### Endoscopic Eradication Therapy (EET)
 
@@ -305,3 +325,4 @@ Early post-endoscopy neoplasia is mostly **missed prevalent disease** ([[aga-202
 8. [[aga-2016-low-grade-dysplasia-barretts|AGA 2016 Clinical Practice Update: Diagnosis and Management of Low-Grade Dysplasia in Barrett's Esophagus (Expert Review)]]
 9. [[aga-2022-barretts-new-technology|AGA Clinical Practice Update on New Technology and Innovation for Surveillance and Screening in Barrett's Esophagus: Expert Review (2022)]]
 10. [[aga-2018-barretts-screening-techniques|AGA Clinical Practice Update: New Screening Techniques in Barrett's Esophagus — Great Ideas or Great Practice? (2018)]]
+11. [[aga-2026-surveillance-older-adults|AGA Clinical Practice Update on Surveillance of Metaplastic and Premalignant Conditions of the Esophagus and Colorectum in Older Adults: Expert Review (2026)]]

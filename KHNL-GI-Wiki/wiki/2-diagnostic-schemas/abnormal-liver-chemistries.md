@@ -3,8 +3,8 @@ title: "Abnormal Liver Chemistries"
 category: diagnostic-schema
 tags: [liver-chemistries, liver-tests, alt, ast, alkaline-phosphatase, bilirubin, hepatocellular, cholestatic, r-value, hpb, liver, workup]
 created: 2026-05-19
-updated: 2026-09-06
-sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy]
+updated: 2026-11-09
+sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aga-aasld-easl-2026-aatd-liver-disease]
 ---
 
 ## Contents
@@ -77,7 +77,7 @@ Laboratory upper limit of normal (ULN) values for ALT are unreliable — they ar
 
 | R-ratio | Pattern | Key etiologies |
 |---------|---------|----------------|
-| >5 | Hepatocellular | Viral hepatitis (A/B/C/E), metabolic dysfunction-associated steatotic liver disease/steatohepatitis (MASLD/MASH), alcoholic liver disease, autoimmune hepatitis (AIH), [[wilson-disease\|Wilson's disease]], alpha-1 antitrypsin deficiency, ischemic hepatitis, [[drug-induced-liver-injury\|drug-induced liver injury (DILI)]], [[celiac-disease\|celiac disease]] |
+| >5 | Hepatocellular | Viral hepatitis (A/B/C/E), metabolic dysfunction-associated steatotic liver disease/steatohepatitis (MASLD/MASH), alcoholic liver disease, autoimmune hepatitis (AIH), [[wilson-disease\|Wilson's disease]], [[alpha-1-antitrypsin-deficiency-liver-disease\|alpha-1 antitrypsin deficiency]], ischemic hepatitis, [[drug-induced-liver-injury\|drug-induced liver injury (DILI)]], [[celiac-disease\|celiac disease]] |
 | <2 | Cholestatic | [[primary-biliary-cholangitis\|primary biliary cholangitis (PBC)]], [[primary-sclerosing-cholangitis\|primary sclerosing cholangitis (PSC)]], biliary obstruction ([[choledocholithiasis]], [[biliary-stricture\|stricture]], malignancy), DILI-cholestatic, vanishing bile duct syndrome |
 | 2–5 | Mixed | Any of the above; some viral hepatitis; DILI |
 | — | Isolated hyperbilirubinemia | Gilbert syndrome, hemolysis, Dubin-Johnson/Rotor syndrome (conjugated) |
@@ -244,7 +244,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 - **ANA, ASMA, IgG** → [[autoimmune-hepatitis|autoimmune hepatitis]]
 - **AMA** → [[primary-biliary-cholangitis|primary biliary cholangitis]] (positive in >95%)
 - **Serum ceruloplasmin** → Wilson's disease (especially age <55; if low → 24-hour urine copper, slit-lamp examination for Kayser-Fleischer rings)
-- **Alpha-1 antitrypsin phenotype** → alpha-1 antitrypsin deficiency (PiZZ = severe; PiMZ = intermediate risk)
+- **Serum alpha-1 antitrypsin (AAT) level**, then genotype → [[alpha-1-antitrypsin-deficiency-liver-disease|alpha-1 antitrypsin deficiency–associated liver disease]]. **<11 μM (<57 mg/dL)** = at risk for severe deficiency, likely ZZ; **11–20 μM (57–90 mg/dL)** mild/intermediate; **>20 μM (>90 mg/dL)** minimal risk. Confirm with **genotyping (preferred)** or phenotyping by isoelectric focusing — PiZZ severe, PiMZ intermediate risk. AAT is an **acute-phase reactant**, so draw it when CRP is normal; a PiMZ patient may have a normal level ([[aga-aasld-easl-2026-aatd-liver-disease]])
 - **HAV IgM, hepatitis E virus (HEV) IgM** → acute viral hepatitis (HAV: fecal-oral, travel; HEV: travel to endemic areas — Central America, Asia)
 - **HBcAb IgM** → acute hepatitis B
 - **Ceruloplasmin, 24-hour urine copper, slit-lamp exam** → Wilson's disease (confirmatory)
@@ -297,7 +297,7 @@ Biopsy is appropriate when (Strong recommendation, very low evidence) [[acg-2017
 
 ## See Also
 
-[[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[autoimmune-hepatitis]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[nafld-masld]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[celiac-disease]], [[budd-chiari-syndrome]], [[liver-disease-in-pregnancy]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[iron-overload-and-iron-metabolism]], [[jaundice]], [[liver-biopsy]], [[mri-mrcp]], [[ercp]], [[cirrhosis]], [[portal-hypertension]], [[portal-vein-thrombosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[choledocholithiasis]], [[biliary-stricture]], [[ascites]], [[variceal-upper-gi-bleeding]], [[nutrition-in-hospitalized-patients]]
+[[drug-induced-liver-injury]], [[alpha-1-antitrypsin-deficiency-liver-disease]], [[alcohol-associated-liver-disease]], [[autoimmune-hepatitis]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[nafld-masld]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[celiac-disease]], [[budd-chiari-syndrome]], [[liver-disease-in-pregnancy]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[iron-overload-and-iron-metabolism]], [[jaundice]], [[liver-biopsy]], [[mri-mrcp]], [[ercp]], [[cirrhosis]], [[portal-hypertension]], [[portal-vein-thrombosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[choledocholithiasis]], [[biliary-stricture]], [[ascites]], [[variceal-upper-gi-bleeding]], [[nutrition-in-hospitalized-patients]]
 
 ---
 
@@ -305,3 +305,4 @@ Biopsy is appropriate when (Strong recommendation, very low evidence) [[acg-2017
 
 1. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
 2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
+3. [[aga-aasld-easl-2026-aatd-liver-disease|Multi-Society Expert Panel Consensus Guidance Regarding Clinical Assessment and Clinical Trial Endpoints in Adults With Alpha-1 Antitrypsin Deficiency–Associated Liver Disease (2026)]]
