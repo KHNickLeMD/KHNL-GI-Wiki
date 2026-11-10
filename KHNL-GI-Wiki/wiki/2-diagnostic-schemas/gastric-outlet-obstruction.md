@@ -3,8 +3,8 @@ title: "Gastric Outlet Obstruction"
 category: diagnostic-schema
 tags: [gastric-outlet-obstruction, goo, gooss, enteral-stent, gastrojejunostomy, eus-ge, lams, palliation, peptic-ulcer-disease, pancreatic-cancer]
 created: 2026-09-02
-updated: 2026-11-09
-sources: [aga-2021-malignant-alimentary-tract-obstruction, asge-2021-gastroduodenal-obstruction, jeurnink-2010-sustent-goo, kastelijn-2023-enduro-protocol, asge-2010-pud, aga-2025-endoscopic-enteral-access]
+updated: 2026-11-10
+sources: [i-eus-2026-eus-gastroenterostomy, aga-2021-malignant-alimentary-tract-obstruction, asge-2021-gastroduodenal-obstruction, jeurnink-2010-sustent-goo, kastelijn-2023-enduro-protocol, asge-2010-pud, aga-2025-endoscopic-enteral-access]
 ---
 
 ## Contents
@@ -207,23 +207,26 @@ flowchart TD
 
 **Biliary access is part of the stent decision.** A duodenal stent **across the ampulla of Vater** may block later [[ercp|ERCP]] access to the bile duct. **Consider placing a common bile duct (CBD) stent up front** if biliary obstruction is anticipated — see [[biliary-stricture]]; the fallbacks are percutaneous transhepatic drainage or [[eus-guided-biliary-drainage|EUS-guided biliary drainage]]. *Sources differ and both are shown:* **85% technical success** for post-stent ERCP drainage in a series cited by the higher-tier [[aga-2021-malignant-alimentary-tract-obstruction]] (governs), vs only 1 of 4 SUSTENT stent-arm patients managed endoscopically ([[jeurnink-2010-sustent-goo]], n = 4).
 
-**[[endoscopic-ultrasound|EUS]]-guided gastroenterostomy.** A **20-mm LAMS** placed endoscopically between the stomach and a jejunal loop distal to the obstruction, combining the speed of stenting with the durability of surgery; an **acceptable alternative to either** where the expertise exists ([[aga-2021-malignant-alimentary-tract-obstruction]] BPA 10).
+**[[eus-gastroenterostomy|EUS-guided gastroenterostomy]].** A LAMS placed endoscopically between the stomach and a jejunal loop distal to the obstruction, combining the speed of stenting with the durability of surgery. **Technique, stent choice, outcomes and misdeployment management live on [[eus-gastroenterostomy]].**
 
-- **Outcomes** (systematic review/meta-analysis, 12 studies, 285 patients): **technical success 92%, clinical success 90%, adverse events 12%**, most commonly **stent misdeployment**.
-- **Versus enteral stent:** lower re-intervention and symptom recurrence across retrospective series. **Versus laparoscopic GJ:** similar efficacy with significantly **lower adverse events**. All of this comparative evidence is **retrospective or pooled, not randomized** — [[kastelijn-2023-enduro-protocol|ENDURO]] is the randomized trial designed to settle it and is a **protocol reporting no results**.
-- **Corroborated by [[asge-2021-gastroduodenal-obstruction]]** (5 studies, 199 patients, benign and malignant): technical success **92.6%**, serious adverse events **5.61%** (maldeployment, peritonitis, surgical intervention, hemoperitoneum), reintervention **11.43%**. Versus duodenal SEMS, reintervention was lower (8.3% vs 32%, P = .021); versus surgical GJ, technical success was lower (87% vs 100%, P = .009) with no difference in stay, serious adverse events, recurrent GOO, or time to reintervention.
+> ⚠ **The recommendation has firmed up.** [[aga-2021-malignant-alimentary-tract-obstruction]] (BPA 10) called EUS-GE an **acceptable alternative** to stenting or surgery where expertise exists, and [[asge-2021-gastroduodenal-obstruction]] preferred no modality. The newer, procedure-specific [[i-eus-2026-eus-gastroenterostomy|i-EUS consensus (2026)]] **recommends EUS-GE over duodenal stenting (strong) and suggests it over surgical bypass (conditional)** for palliating malignant GOO. Being newer and more specific, it governs — but all three are low-quality-evidence positions, and the i-EUS statements are explicit that the choice still needs the expertise and the multidisciplinary setting below.
+
+- **Why it wins on durability:** reintervention **RR 0.18 (0.11–0.29)** vs enteral stenting — the anastomosis sits remote from the tumour, out of reach of ingrowth and overgrowth. Versus surgery, comparable efficacy with **fewer total adverse events** ([[i-eus-2026-eus-gastroenterostomy]]).
+- **Planned curative resection no longer bars it** — EUS-GE may be considered in resection candidates after multidisciplinary evaluation, as a bridge through neoadjuvant therapy.
 
 > [!pitfall] Check four things before attempting EUS-guided gastroenterostomy
 > Relative contraindications ([[asge-2021-gastroduodenal-obstruction]]): **tumour or blood vessels — including perigastric varices — at the intended transgastric access site**; **large-volume ascites**; **peritoneal carcinomatosis**; and **bowel obstruction distal to the intended gastroenterostomy site**.
+>
+> The two soft ones have since been qualified: i-EUS 2026 holds that **ascites is not a technical contraindication** (drain moderate or severe ascites first), and **could not reach consensus on peritoneal carcinomatosis** (80%) — decide case by case, weighing disease burden and especially **obstruction at more than one level**.
 
-- **Limits:** expertise-limited and not widely available, and there is **no dedicated US Food and Drug Administration (FDA)–approved device** for EUS-GE — LAMS use to create the gastroenterostomy is **off-label**. **LAMS misdeployment can cause jejunal perforation and peritonitis.**
+- **Limits:** expertise-limited and not widely available, and there is **no dedicated US Food and Drug Administration (FDA)–approved device** for EUS-GE — LAMS use to create the gastroenterostomy is **off-label**. **LAMS misdeployment can cause jejunal perforation and peritonitis**, and it is the commonest adverse event (4.6%).
 
 ### Procedural specifications
 
 *Techniques as protocolized in [[kastelijn-2023-enduro-protocol]]; stent specification from [[jeurnink-2010-sustent-goo]].*
 
 - **Enteral stent:** uncovered Enteral Wallflex, **22 mm diameter**, 60 / 90 / 120 mm length; over a guidewire under combined endoscopic and fluoroscopic monitoring.
-- **EUS-GE:** deep [[endoscopy-sedation|sedation]] with propofol, **preferably two advanced endoscopists**. Clear residual gastric contents; place a feeding tube or nasobiliary drain distal to the stenosis. Identify the post-stenotic loop by flushing **saline mixed with indigo carmine**. **Direct puncture** with an **electrocautery-enhanced delivery system**; deploy a **20 × 10 mm LAMS** (deployment sequence: [[lumen-apposing-metal-stents]]). Confirm by **backflow of dyed saline into the stomach**. **Do not balloon-dilate the stent immediately** — let it expand naturally.
+- **EUS-GE:** deep [[endoscopy-sedation|sedation]] with propofol, **preferably two advanced endoscopists**. Full technique, stent choice, misdeployment classification and periprocedural care: **[[eus-gastroenterostomy]]**.
 - **Surgical gastrojejunostomy:** laparoscopic, **antecolic side-to-side**, **no Roux-en-Y**; 60-mm stapler; **biliary limb (bile duct to anastomosis) at least 50 cm**; nasogastric tube post-operatively. A feeding jejunostomy is not routinely constructed.
 - **Excessive gastric residual volume** preventing safe sedation → **reschedule after extensive gastric decompression**. This is not a technical failure.
 - **Do not perform biliary intervention in the same session** as EUS-GE or surgical bypass.
@@ -241,15 +244,16 @@ flowchart TD
 
 ## See Also
 
-[[peptic-ulcer-disease]], [[pancreatic-cancer]], [[gastric-adenocarcinoma]], [[chronic-pancreatitis]], [[gastric-polyps]], [[enteral-access]], [[endoscopic-ultrasound]], [[lumen-apposing-metal-stents]], [[eus-guided-biliary-drainage]], [[endoscopic-oncology]], [[upper-endoscopy]], [[ercp]], [[biliary-stricture]], [[jaundice]], [[acute-cholangitis]], [[nausea-and-vomiting]], [[gastroparesis]], [[helicobacter-pylori-infection]], [[proton-pump-inhibitors]]
+[[eus-gastroenterostomy]], [[peptic-ulcer-disease]], [[pancreatic-cancer]], [[gastric-adenocarcinoma]], [[chronic-pancreatitis]], [[gastric-polyps]], [[enteral-access]], [[endoscopic-ultrasound]], [[lumen-apposing-metal-stents]], [[eus-guided-biliary-drainage]], [[endoscopic-oncology]], [[upper-endoscopy]], [[ercp]], [[biliary-stricture]], [[jaundice]], [[acute-cholangitis]], [[nausea-and-vomiting]], [[gastroparesis]], [[helicobacter-pylori-infection]], [[proton-pump-inhibitors]]
 
 ---
 
 ## Sources
 
-1. [[aga-2021-malignant-alimentary-tract-obstruction|AGA Clinical Practice Update on Management of Malignant Alimentary Tract Obstruction: Expert Review (2021)]]
-2. [[asge-2021-gastroduodenal-obstruction|ASGE Guideline on the Role of Endoscopy in the Management of Benign and Malignant Gastroduodenal Obstruction (2021)]]
-3. [[jeurnink-2010-sustent-goo|Surgical gastrojejunostomy or endoscopic stent placement for the palliation of malignant gastric outlet obstruction (SUSTENT study): a multicenter randomized trial]]
-4. [[kastelijn-2023-enduro-protocol|EUS-guided gastroenterostomy versus surgical gastrojejunostomy for palliation of malignant gastric outlet obstruction (ENDURO): study protocol for a randomized controlled trial]]
-5. [[asge-2010-pud|ASGE Guideline: The Role of Endoscopy in the Management of Patients With Peptic Ulcer Disease (2010)]]
-6. [[aga-2025-endoscopic-enteral-access|AGA 2025 Clinical Practice Update on Endoscopic Enteral Access]]
+1. [[i-eus-2026-eus-gastroenterostomy|Endoscopic Ultrasound-Guided Gastroenterostomy: An International Consensus on Current and Expanding Indications, Techniques, Periprocedural Care, and Institutional Requirements (i-EUS, 2026)]]
+2. [[aga-2021-malignant-alimentary-tract-obstruction|AGA Clinical Practice Update on Management of Malignant Alimentary Tract Obstruction: Expert Review (2021)]]
+3. [[asge-2021-gastroduodenal-obstruction|ASGE Guideline on the Role of Endoscopy in the Management of Benign and Malignant Gastroduodenal Obstruction (2021)]]
+4. [[jeurnink-2010-sustent-goo|Surgical gastrojejunostomy or endoscopic stent placement for the palliation of malignant gastric outlet obstruction (SUSTENT study): a multicenter randomized trial]]
+5. [[kastelijn-2023-enduro-protocol|EUS-guided gastroenterostomy versus surgical gastrojejunostomy for palliation of malignant gastric outlet obstruction (ENDURO): study protocol for a randomized controlled trial]]
+6. [[asge-2010-pud|ASGE Guideline: The Role of Endoscopy in the Management of Patients With Peptic Ulcer Disease (2010)]]
+7. [[aga-2025-endoscopic-enteral-access|AGA 2025 Clinical Practice Update on Endoscopic Enteral Access]]

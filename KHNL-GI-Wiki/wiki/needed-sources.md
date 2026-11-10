@@ -79,7 +79,7 @@ FDA prescribing information from [DailyMed](https://dailymed.nlm.nih.gov/dailyme
 | AASLD 2021 ascites Figures 2–4 | new-onset ascites, refractory ascites, AKI algorithms | [[aasld-2021-ascites-sbp-hrs]] |
 | AASLD 2022 Wilson disease Figures 2–5 | diagnostic, neurological, family-screening, treatment algorithms | [[aasld-2022-wilson-disease]] |
 | AASLD 2023 portal hypertension Figures 1–4 | staging schema, Rule of Five, AVH management | [[aasld-2023-portal-hypertension]] |
-| Baveno VIII Figure 4 (legible copy); version of record — 🔒 Supplementary Tables S1–S4 downloaded 2026-10-22 | PSVD ≤2-point band; frailty tools, PSVD exclusion / associated conditions, PVT risk factors; SSM >55 vs ≥55 kPa | [[baveno-viii-2026-portal-hypertension]], [[porto-sinusoidal-vascular-disorder]], [[portal-vein-thrombosis]] |
+| Baveno VIII Figure 4 (legible copy); version of record — 🔒 Supplementary Tables S1–S4 downloaded 2026-10-22 | Frailty tools; PVT risk factors; SSM >55 vs ≥55 kPa. *(The PSVD ≤2-point band and the PSVD exclusion and associated-conditions lists are no longer wanted here — supplied by [[multisociety-2026-psvd-ncpf-criteria]], ingested 2026-11-10.)* | [[baveno-viii-2026-portal-hypertension]], [[portal-vein-thrombosis]] |
 | AFS 2024 Figures 1–9 | post-surgical valve types; assessment algorithm | [[afs-2024-ge-valve-after-antireflux-surgery]] |
 | 🔒 USMSTF 2020 polypectomy Appendix 4 | DOPyS and CSPAT item lists | [[polypectomy]] |
 | 🔒 Kastelijn 2023 ENDURO protocol Additional file 3 | technical / clinical success definitions | [[kastelijn-2023-enduro-protocol]] |

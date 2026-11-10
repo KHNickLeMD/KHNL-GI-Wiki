@@ -3,8 +3,8 @@ title: "Lumen-Apposing Metal Stents (LAMS)"
 category: advanced-procedure
 tags: [lams, therapeutic-eus, transmural-drainage, stents, eus-gbd, pancreatic-fluid-collection, eus-ge, edge, device]
 created: 2026-11-04
-updated: 2026-11-09
-sources: [asge-2026-colonic-strictures, asge-2021-gastroduodenal-obstruction, aga-2023-eus-gallbladder-drainage, asge-2016-pancreatic-fluid-collections, acg-2025-eus-quality, aga-2021-malignant-alimentary-tract-obstruction]
+updated: 2026-11-10
+sources: [i-eus-2026-eus-gastroenterostomy, asge-2026-colonic-strictures, asge-2021-gastroduodenal-obstruction, aga-2023-eus-gallbladder-drainage, asge-2016-pancreatic-fluid-collections, acg-2025-eus-quality, aga-2021-malignant-alimentary-tract-obstruction]
 ---
 
 # Lumen-Apposing Metal Stents (LAMS)
@@ -65,7 +65,10 @@ Sources: [[aga-2023-eus-gallbladder-drainage]] (both techniques), [[asge-2016-pa
 
 - **US Food and Drug Administration (FDA)-approved indication: drainage of pancreatic fluid collections.** ([[aga-2023-eus-gallbladder-drainage]])
 - **Gallbladder drainage is off-label** — disclose it in consent; FDA approval awaits further outcome and safety data. ([[aga-2023-eus-gallbladder-drainage]])
-- **EUS-GE: no dedicated FDA-approved device exists**, and the technique is expertise-limited and not widely available. ([[aga-2021-malignant-alimentary-tract-obstruction]] Best Practice Advice 10) Using a LAMS to create the gastroenterostomy is explicitly **off-label** ([[asge-2021-gastroduodenal-obstruction]]).
+- **EUS-GE: no dedicated FDA-approved device exists**, and the technique is expertise-limited and not widely available. ([[aga-2021-malignant-alimentary-tract-obstruction]] Best Practice Advice 10) Using a LAMS to create the gastroenterostomy is explicitly **off-label** ([[asge-2021-gastroduodenal-obstruction]]). Indications, technique and misdeployment management: [[eus-gastroenterostomy]].
+
+> [!pitfall] A 20-mm LAMS was suggested for EUS-GE — then selected 20 × 10-mm devices were recalled
+> [[i-eus-2026-eus-gastroenterostomy|i-EUS 2026]] suggested a **20-mm diameter LAMS** for EUS-GE (better dietary tolerance, less reintervention; conditional, very low quality). **Recall/removal notices were issued after the vote** for selected **20 × 10-mm AXIOS / Hot AXIOS configurations and batches**, for deployment and expansion problems during delivery. The document's own position: the notices show **no class-wide disadvantage of the 20-mm diameter**, **affected devices must not be used**, and the statement **does not establish the 20-mm LAMS as a preferred standard**. Select by current regulatory notices, availability, anatomy, indication and operator experience.
 - **Benign gastroduodenal stricture is off-label too.** Every dedicated enteral stent available in the US is uncovered and non-removable, so covered LAMS is the off-label workaround described for **short benign pyloroduodenal strictures** ([[asge-2021-gastroduodenal-obstruction]]).
 - **Benign colonic anastomotic stricture <15 mm long and refractory to endoscopic balloon dilation** — suggested by [[asge-2026-colonic-strictures]] (conditional, very low certainty). In the one comparative study against balloon dilation there was **no significant difference** in technical success, clinical success, recurrence or adverse events, and **migration was 46%**. Rarely possible in the right colon (adult colonoscopes exceed the catheter length); detail on [[colonic-stricture]].
 - Procedure-specific indications and route choice: [[pancreatic-fluid-collection-drainage]], [[eus-guided-gallbladder-drainage]], [[eus-guided-biliary-drainage]], [[gastric-outlet-obstruction]].
@@ -131,7 +134,7 @@ Misdeployment types described for EUS-GE, with observed frequencies ([[acg-2025-
 
 ## See Also
 
-[[colonic-stricture]], [[endoscopic-ultrasound]], [[pancreatic-fluid-collection-drainage]], [[eus-guided-gallbladder-drainage]], [[eus-guided-biliary-drainage]], [[acute-cholecystitis]], [[gastric-outlet-obstruction]], [[disconnected-pancreatic-duct-syndrome]], [[endoscopic-management-of-perforation]], [[ercp]]
+[[colonic-stricture]], [[endoscopic-ultrasound]], [[pancreatic-fluid-collection-drainage]], [[eus-guided-gallbladder-drainage]], [[eus-guided-biliary-drainage]], [[acute-cholecystitis]], [[gastric-outlet-obstruction]], [[eus-gastroenterostomy]], [[disconnected-pancreatic-duct-syndrome]], [[endoscopic-management-of-perforation]], [[ercp]]
 
 ---
 
@@ -143,4 +146,5 @@ Misdeployment types described for EUS-GE, with observed frequencies ([[acg-2025-
 4. [[aga-2021-malignant-alimentary-tract-obstruction|AGA 2021 Clinical Practice Update: Optimal Management of the Malignant Alimentary Tract Obstruction]]
 5. [[asge-2026-colonic-strictures|American Society for Gastrointestinal Endoscopy Guideline on Endoscopic Management of Benign and Malignant Colonic Strictures]]
 6. [[asge-2021-gastroduodenal-obstruction|ASGE Guideline on the Role of Endoscopy in the Management of Benign and Malignant Gastroduodenal Obstruction (2021)]]
+7. [[i-eus-2026-eus-gastroenterostomy|Endoscopic Ultrasound-Guided Gastroenterostomy: An International Consensus on Current and Expanding Indications, Techniques, Periprocedural Care, and Institutional Requirements (i-EUS, 2026)]]
 </content>
