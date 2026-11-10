@@ -3,8 +3,8 @@ title: "Pouchitis"
 category: disease-script
 tags: [pouchitis, ipaa, j-pouch, ulcerative-colitis, ibd, cuffitis, crohns-like-disease-of-the-pouch, antibiotics, probiotics, biologics]
 created: 2026-06-04
-updated: 2026-09-08
-sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd, aga-2024-fmt, aga-2026-cdiff-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia]
+updated: 2026-11-10
+sources: [aga-2024-pouchitis, aga-2020-probiotics, aga-2020-probiotics-technical-review, asge-2015-ibd, aga-2024-fmt, aga-2026-cdiff-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia]
 ---
 
 Pouchitis is non-specific inflammation of the ileal pouch reservoir — the most common complication after restorative proctocolectomy with **ileal pouch–anal anastomosis (IPAA, "J-pouch")** for [[ulcerative-colitis|ulcerative colitis]]. The [[aga-2024-pouchitis|American Gastroenterological Association (AGA) 2024 guideline]] frames management by clinical pattern (intermittent → chronic antibiotic-dependent → chronic antibiotic-refractory) plus two related inflammatory pouch disorders: Crohn's-like disease of the pouch and cuffitis. [[aga-2024-pouchitis]]
@@ -91,7 +91,7 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 ### Prevention
 - **Primary prevention — [[probiotics|probiotics]]:** *No recommendation* (knowledge gap).
 - **Primary prevention — antibiotics:** *Suggested against* (very low certainty).
-- **Secondary prevention (after antibiotic-responsive recurrence) — probiotics:** *Suggested.* The **De Simone (8-strain) formulation** is the one used in the prevention trials ([[aga-2020-probiotics]]) — 3 randomized controlled trials (RCTs), meta-analysed: **87% lower risk of relapse over 12 months** (6/45 on probiotic vs 36/41 on control). Do not substitute an arbitrary probiotic.
+- **Secondary prevention (after antibiotic-responsive recurrence) — probiotics:** *Suggested.* The **De Simone (8-strain) formulation** is the one used in the prevention trials ([[aga-2020-probiotics]]) — 3 randomized controlled trials (RCTs), meta-analysed: **87% lower risk of relapse over 12 months** (6/45 on probiotic vs 36/41 on control). Do not substitute an arbitrary probiotic — **no other formulation has been tested as rigorously, and commercial availability of this one has been in question** (litigation between manufacturer and patent holder). Benefit in a pouch built for [[familial-adenomatous-polyposis|FAP]] rather than UC, and in children, is unknown ([[aga-2020-probiotics-technical-review]]). Evidence strength and effect sizes: [[probiotics]].
 
 ### Treatment by Subtype
 
@@ -177,8 +177,9 @@ All 13 AGA 2024 statements (9 actionable conditional recommendations + 4 "no rec
 
 1. [[aga-2024-pouchitis|AGA Clinical Practice Guideline: Management of Pouchitis and Inflammatory Pouch Disorders (2024)]]
 2. [[aga-2020-probiotics|AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders]]
-3. [[asge-2015-ibd|ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (2015)]]
-4. [[aga-2024-fmt|AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024)]]
-5. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review (2026)]]
-6. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary (2026)]]
-7. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
+3. [[aga-2020-probiotics-technical-review|AGA Technical Review on the Role of Probiotics in the Management of Gastrointestinal Disorders]]
+4. [[asge-2015-ibd|ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (2015)]]
+5. [[aga-2024-fmt|AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024)]]
+6. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review (2026)]]
+7. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary (2026)]]
+8. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]

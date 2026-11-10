@@ -3,8 +3,8 @@ title: "Probiotics"
 category: med
 tags: [probiotics, microbiome, dysbiosis, cdiff, ibd, pouchitis, ibs, nec, infectious-diarrhea]
 created: 2026-06-04
-updated: 2026-10-11
-sources: [aga-2020-probiotics, acg-2020-sibo, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, acg-2021-cdiff, idsa-2017-infectious-diarrhea]
+updated: 2026-11-10
+sources: [aga-2020-probiotics, aga-2020-probiotics-technical-review, acg-2020-sibo, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, acg-2021-cdiff, idsa-2017-infectious-diarrhea]
 ---
 
 Probiotics are live microorganisms that, when administered in adequate amounts, confer a health benefit on the host (Food and Agriculture Organization [FAO]/World Health Organization [WHO] definition). Their effects are **strain-specific and dose-specific** — different strains, and combinations of strains, have widely different biologic activities, so results from one formulation cannot be generalized to "probiotics" as a class. Because probiotics are sold as supplements (not drugs) in the US and Europe, the industry is largely unregulated, marketing is direct-to-consumer, and product viability/manufacturing details are frequently unavailable. These features make pooled meta-analyses across heterogeneous strains/populations potentially misleading.
@@ -56,16 +56,47 @@ Not covered by the AGA guideline; per [[acg-2020-sibo]]:
 - ***E coli* Nissle 1917** — studied in [[ulcerative-colitis|UC]] maintenance (≈ mesalamine).
 - ***L rhamnosus* GG (ATCC 53103)** — among the most-studied strains for pediatric gastroenteritis (no benefit in North America) and NEC prevention.
 
+## Strength of the Evidence Behind Each Indication
+
+*Overall certainty of evidence (CoE) per question, from the companion [[aga-2020-probiotics-technical-review|technical review]]. These are **evidence ratings, not recommendations** — in most of the eight contexts the rating reflects **untested**, not **disproven**.*
+
+| Indication | Overall CoE |
+|---|---|
+| NEC / sepsis / all-cause mortality in preterm, low-birth-weight newborns | **Moderate/High** |
+| Acute infectious gastroenteritis in children (evidence of **no** benefit in North America) | **Moderate** |
+| CDI treatment · CDAD prevention · [[irritable-bowel-syndrome\|IBS]] | **Low** |
+| [[pouchitis\|Pouchitis]] prevention / maintenance | **Very Low** |
+| [[crohns-disease\|Crohn's disease]] · [[ulcerative-colitis\|UC]] induction or maintenance | Knowledge gap |
+
+> [!pitfall] "No recommendation" usually means untested, not disproven
+> Across the 8 questions there was mostly "either insufficient evidence… or a significant knowledge gap." For [[irritable-bowel-syndrome|IBS]], 55 trials in 5301 patients tested **44 different strains or combinations**, so most rest on a **single trial** — and registered protocols with no publication raise publication-bias concern. The exception is pediatric acute gastroenteritis, where two large North American trials were genuinely **negative** ([[aga-2020-probiotics-technical-review]]).
+
+- **[[pouchitis|Pouchitis]] — small base, and the product may not be obtainable.** The whole 8-strain evidence base is **193 subjects**. Maintenance of chronic pouchitis remission at 9–12 mo: RR 20.24 (95% CI 4.28–95.81), Low CoE. Prevention of a first acute episode: RR 1.29 (95% CI 1.03–1.61), Very Low CoE, one of two trials open-label. **Commercial availability has been in question** (ongoing litigation between manufacturer and patent holder), and **no other formulation has been tested as rigorously** — so substituting another 8-strain product is not evidence-based. Benefit in IPAA for [[familial-adenomatous-polyposis|FAP]], in other intestinal disorders, and in children is unknown.
+- **NEC — the strain matters, and so does the manufacturer.** Only *Lactobacillus* spp + *Bifidobacterium* spp combinations (and the 4-strain *L acidophilus* + *B bifidum* + *B animalis* subsp *lactis* + *B longum*) had moderate/high-quality evidence of reduced **all-cause mortality** (OR 0.56; 95% CI 0.39–0.80). For severe NEC (Bell stage ≥II): *B animalis* subsp *lactis* OR 0.31, *L reuteri* OR 0.55, *L rhamnosus* OR 0.44. Combinations with the **largest** point estimates sit on **low/very low** evidence — a research priority, not a basis for practice.
+
 ## Limits of the Source — No Dose or Duration
 
 > **[[aga-2020-probiotics]] states strains only — no colony-forming units (CFU), no product quantity, no treatment duration, for any of its eight indications.** This is deliberate: the panel wrote that it "was not able to assess the viability of each formulation reported in the studies, as this information was not routinely available… this is not within the scope of this guideline and therefore we provided the granular data regarding each strain as specified in the published reports." Its limitations section names "the lack of product manufacturing details" as a barrier to comparison.
 >
-> **Consequence for practice:** the recommendations below identify *which organisms*, not *how much* or *for how long* — so a prescriber must take the dose from the specific product's studied regimen. The AGA technical review (Preidis et al, *Gastroenterology* 2020;159:724–754) holds the trial-level dosing data.
+> **Consequence for practice:** the recommendations below identify *which organisms*, not *how much* or *for how long* — so a prescriber must take the dose from the specific product's studied regimen.
+
+**The companion technical review does not fill the gap either** ([[aga-2020-probiotics-technical-review]]). It states CFU doses only for a handful of individual trials, and only for the two indications where probiotics are **not** recommended:
+
+| Indication (not recommended) | Strain / combination | Dose |
+|---|---|---|
+| CDI treatment | *S boulardii* | 1 g = **3 × 10¹⁰ CFU/d** |
+| CDI treatment | 4-strain *L acidophilus* ATCC 700396 + *L paracasei* ATCC 335 + *B animalis* subsp *lactis* SD5220 + SD5219 | **1.70 × 10¹⁰ CFU/d** |
+| CDI treatment | *L plantarum* 299v | **5 × 10¹⁰ CFU/d** |
+| Pediatric acute gastroenteritis | *L rhamnosus* ATCC 53103 | **1 × 10¹⁰ CFU twice daily × 5 d** |
+| Pediatric acute gastroenteritis | *L rhamnosus* R0011 + *L helveticus* R0052 (95:5) | total **4 × 10⁹ CFU twice daily × 5 d** |
+
+- **For [[pouchitis]] (the 8-strain combination) and for NEC prevention — the two indications recommended *for* — no CFU dose, frequency, or duration is given anywhere in either document.** The technical review names trials "that define optimal doses, timing, and frequency of administration" as a future-research need, and lists dosing and duration differences among its own limitations. A dose for these indications has to come from the individual trial reports, not from AGA.
 
 ## Practical Notes
 
 - Probiotic recommendations do **not** transfer across products — match the specific strain/combination and dose to the indication studied.
-- Potential harms (sepsis, especially in immunocompromised or severely ill patients) and cost are relevant trade-offs, particularly for low-risk indications.
+- Potential harms (sepsis, especially in immunocompromised or severely ill patients) and cost are relevant trade-offs, particularly for low-risk indications. The mechanism of concern is **translocation of ingested microbes from intestine into bloodstream**; separately, **product contamination is a real risk** — a fungal contaminant caused fatal gastrointestinal mucormycosis in a preterm infant ([[aga-2020-probiotics-technical-review]]).
+- **The trial evidence excludes the patients most often asked about.** Trials conducted exclusively in people with major comorbidities — cancer, HIV/AIDS, cystic fibrosis, spinal cord injury, organ failure, transplantation — were excluded from the review, so none of these ratings transfer to immunocompromised patients ([[aga-2020-probiotics-technical-review]]).
 - Probiotics are an attempt to correct microbiome-related dysbiosis; for established recurrent C difficile, [[fmt|fecal microbiota transplantation]] has stronger evidence than probiotics.
 
 ## See Also
@@ -77,8 +108,9 @@ Not covered by the AGA guideline; per [[acg-2020-sibo]]:
 ## Sources
 
 1. [[aga-2020-probiotics|AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders]]
-2. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
-3. [[aga-2026-cdiff-adults|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Adults: Expert Review (2026)]]
-4. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review (2026)]]
-5. [[acg-2021-cdiff|ACG 2021: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections]]
-6. [[idsa-2017-infectious-diarrhea|IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea]]
+2. [[aga-2020-probiotics-technical-review|AGA Technical Review on the Role of Probiotics in the Management of Gastrointestinal Disorders]]
+3. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
+4. [[aga-2026-cdiff-adults|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Adults: Expert Review (2026)]]
+5. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review (2026)]]
+6. [[acg-2021-cdiff|ACG 2021: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections]]
+7. [[idsa-2017-infectious-diarrhea|IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea]]

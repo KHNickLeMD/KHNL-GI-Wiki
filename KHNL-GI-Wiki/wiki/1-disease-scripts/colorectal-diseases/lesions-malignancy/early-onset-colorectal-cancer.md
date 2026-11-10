@@ -3,8 +3,8 @@ title: "Early-Onset (Young Adult–Onset) Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, early-onset-crc, young-onset-crc, germline-testing, lynch-syndrome, msi, mmr, fertility-preservation, survivorship]
 created: 2026-09-07
-updated: 2026-10-21
-sources: [aga-2020-young-adult-onset-crc]
+updated: 2026-11-10
+sources: [aga-2020-young-adult-onset-crc, acs-2018-crc-screening]
 ---
 
 *Defined by [[aga-2020-young-adult-onset-crc|American Gastroenterological Association (AGA) 2020]] as **colorectal cancer (CRC) diagnosed in individuals 18 – <50 years of age**. This page carries only what is **specific to young onset**: the symptom-triggered diagnostic rule, the germline-testing yield and timing, fertility preservation, and the surveillance de-escalation. Shared staging, oncologic therapy, and post-resection surveillance intervals live on [[colorectal-cancer]]; the average-risk **screening start age** is a separate question, settled on [[colorectal-cancer-screening]].*
@@ -233,6 +233,7 @@ flowchart TD
 - **75% of young adult–onset CRC currently arises in people 40 to <50 years of age** — even though projections put the steepest *future* increases in ages **18–34**.
 - Significantly more likely to arise in the **rectum and distal colon** than the proximal colon; **rectal and distal colon tumours account for the overall rise**.
 - The **inflection point** — young rising, old falling — occurred in the **1990s**, coincident with adoption of average-risk CRC screening.
+- **It is a birth-cohort effect, so it travels with the cohort as it ages** — adults born **around 1990 have twice the risk of colon cancer and four times the risk of rectal cancer** of adults born around 1950 (the lowest-risk cohort). This is why the rise is not treated as a transient epidemiological blip, and it is the reasoning that moved the screening start age to 45 ([[acs-2018-crc-screening]]; start age: [[colorectal-cancer-screening]]).
 - **Global.** Across 36 countries (2008–2012) incidence rose in **19** (range **3.5/100,000 in India to 12.9/100,000 in Korea**) and fell in only **3** — Italy, Austria, Lithuania — **2 of which endorse CRC screening beginning in the fourth decade** (**44 years of age in Italy**, **40 years of age in Austria**).
 
 ### Racial and Ethnic Differences
@@ -299,3 +300,4 @@ The **definition itself** is not in doubt: *"CRC diagnosed in individuals 18 - <
 ## Sources
 
 1. [[aga-2020-young-adult-onset-crc|AGA 2020 Clinical Practice Update: Young Adult–Onset Colorectal Cancer Diagnosis and Management]]
+2. [[acs-2018-crc-screening|Colorectal Cancer Screening for Average-Risk Adults: 2018 Guideline Update From the American Cancer Society]]

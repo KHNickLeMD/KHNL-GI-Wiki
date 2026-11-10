@@ -3,8 +3,8 @@ title: "Colorectal Cancer Screening"
 category: concept
 tags: [crc, colorectal-cancer, screening, colonoscopy, fit, gfobt, multitarget-stool-dna, septin-9, colonoscopy-quality, adenoma, colorectal]
 created: 2026-05-16
-updated: 2026-11-09
-sources: [acg-2021-crc-screening, uspstf-2021-crc-screening, aga-2026-surveillance-older-adults, usmstf-2021-crc-screening-age, aga-2023-crc-screening-risk-stratification, aga-2025-crc-blood-tests, aga-2021-crc-chemoprevention, aga-2022-noninvasive-crc-screening, usmstf-2016-fit-screening, aga-2020-young-adult-onset-crc, usmstf-2025-bowel-prep]
+updated: 2026-11-10
+sources: [acg-2021-crc-screening, uspstf-2021-crc-screening, acs-2018-crc-screening, aga-2026-surveillance-older-adults, usmstf-2021-crc-screening-age, aga-2023-crc-screening-risk-stratification, aga-2025-crc-blood-tests, aga-2021-crc-chemoprevention, aga-2022-noninvasive-crc-screening, usmstf-2016-fit-screening, aga-2020-young-adult-onset-crc, usmstf-2025-bowel-prep]
 ---
 
 ## Contents
@@ -55,13 +55,15 @@ sources: [acg-2021-crc-screening, uspstf-2021-crc-screening, aga-2026-surveillan
 
 ## When to Start and Stop
 
-| Age (average risk) | [[acg-2021-crc-screening\|American College of Gastroenterology (ACG) 2021]] | [[usmstf-2021-crc-screening-age\|USMSTF 2021]] | [[uspstf-2021-crc-screening\|US Preventive Services Task Force (USPSTF) 2021]] |
-|---|---|---|---|
-| 45–49 | Suggest screening — Conditional / Very low (Rec 2) | Suggest offering — Weak / Low | **Recommend screening — Grade B** (moderate certainty of moderate net benefit) |
-| 50–75 | Recommend — Strong / Moderate (Rec 1) | Recommend offering from 50 if not yet screened — Strong / High | **Recommend screening — Grade A** (high certainty of substantial net benefit) |
-| 75 | Individualize beyond 75 — Conditional / Very low (Rec 3) | Up to date with negative screens → consider stopping at **75 or life expectancy <10 y** — Weak / Low | — |
-| 76–85 | Individualize — best for never-screened, fit for treatment | **Never screened** → consider screening **up to 85**, by age and comorbidity — Weak / Low | **Selectively offer — Grade C**, weighing **overall health, prior screening history and preferences**; applies to the **previously screened**, and the never-screened are more likely to benefit |
-| >85 | Not recommended | Not recommended (ungraded) | **Discontinue after 85** — evidence lacking and competing mortality likely precludes any survival benefit |
+| Age (average risk) | [[acg-2021-crc-screening\|American College of Gastroenterology (ACG) 2021]] | [[usmstf-2021-crc-screening-age\|USMSTF 2021]] | [[uspstf-2021-crc-screening\|US Preventive Services Task Force (USPSTF) 2021]] | [[acs-2018-crc-screening\|American Cancer Society (ACS) 2018]] |
+|---|---|---|---|---|
+| 45–49 | Suggest screening — Conditional / Very low (Rec 2) | Suggest offering — Weak / Low | **Recommend screening — Grade B** (moderate certainty of moderate net benefit) | Screen — ***qualified*** |
+| 50–75 | Recommend — Strong / Moderate (Rec 1) | Recommend offering from 50 if not yet screened — Strong / High | **Recommend screening — Grade A** (high certainty of substantial net benefit) | Regular screening — ***strong*** |
+| 75 | Individualize beyond 75 — Conditional / Very low (Rec 3) | Up to date with negative screens → consider stopping at **75 or life expectancy <10 y** — Weak / Low | — | Continue **through 75** if good health and **life expectancy >10 y** — *qualified* |
+| 76–85 | Individualize — best for never-screened, fit for treatment | **Never screened** → consider screening **up to 85**, by age and comorbidity — Weak / Low | **Selectively offer — Grade C**, weighing **overall health, prior screening history and preferences**; applies to the **previously screened**, and the never-screened are more likely to benefit | Individualize by **preferences, life expectancy, health status, prior screening history** — *qualified* |
+| >85 | Not recommended | Not recommended (ungraded) | **Discontinue after 85** — evidence lacking and competing mortality likely precludes any survival benefit | **Discourage** continuing — *qualified* |
+
+- **ACS 2018 was the first US guideline to move the start age to 45**, three years ahead of USPSTF 2021. Its two-level strength vocabulary is ***strong* / *qualified*** — not the usual strong/weak pair. ***Qualified*** means clear evidence of benefit but less certainty about the balance of benefits and harms or about patients' values, so different individuals may reasonably decide differently; it is **not** a weaker belief in the disease burden. The age-45 start is *qualified* **only because no screening RCT enrolled below age 50** ([[acs-2018-crc-screening]]).
 
 - **The USPSTF grades are now read off the statement itself**, not relayed through ACG. **Grade B at 45–49 rests on modelling, not trials:** no screening trial reported results separately for adults under 50, so the benefit estimate comes from CISNET models. What the 5 earlier years buy, per 1000 screened: **+2–3 CRC cases averted, +1 CRC death averted, +22–27 life-years** — about **8–10 extra days of life per person screened**. The cost is procedural: colonoscopy every 10 y from 45 adds **784 lifetime colonoscopies and 2 complications per 1000 screened**.
 
@@ -86,7 +88,17 @@ sources: [acg-2021-crc-screening, uspstf-2021-crc-screening, aga-2026-surveillan
 ## Screening Modalities
 
 > [!pitfall] A positive stool or blood test is only half a screen
-> Every positive noninvasive test needs a timely, high-quality [[colonoscopy]]; a program that doesn't deliver it has screened no one ([[aga-2022-noninvasive-crc-screening]]).
+> Every positive noninvasive test needs a timely, high-quality [[colonoscopy]]; a program that doesn't deliver it has screened no one ([[aga-2022-noninvasive-crc-screening]]). That colonoscopy is **part of the screening process, not a "diagnostic" colonoscopy**, and **repeating a positive stool test to decide whether to proceed is not an appropriate strategy** ([[acs-2018-crc-screening]]).
+
+**How much delay is too much, after a positive FIT.** **Act on the 6-month standard** ([[aga-2022-noninvasive-crc-screening]], newer — see [[#Program Quality Metrics for Noninvasive Screening]]). The cohort data below ([[acs-2018-crc-screening]], 70,124 patients with a positive FIT) show where measurable harm begins — a later inflection than the operating target, not a licence to wait:
+
+| Time to colonoscopy | Risk |
+|---|---|
+| ≤9 mo | No significant increase in CRC risk |
+| ≥10 mo | **48% greater risk of CRC**; **double** the risk of stage III/IV disease |
+| ≥12 mo | Odds ratio **2.25** any cancer, **3.22** advanced-stage disease |
+
+- Practice falls well short: >50% of patients in some settings never complete colonoscopy within 12 mo of a positive stool test; 12-month completion ranged **58%–83%** across four US health systems ([[acs-2018-crc-screening]]).
 
 | Test | Interval | ACG 2021 | USMSTF 2021 | USPSTF* |
 |---|---|---|---|---|
@@ -100,6 +112,9 @@ sources: [acg-2021-crc-screening, uspstf-2021-crc-screening, aga-2026-surveillan
 | Septin 9 (blood) | — | **Suggest against** — Conditional / Very low (Rec 6) | Not recommended* | **Excluded** |
 
 *\*Starred cells per [[aga-2022-noninvasive-crc-screening]]. USPSTF column read off [[uspstf-2021-crc-screening]] itself (`+` = a recommended strategy).*
+
+- **ACS 2018 offers the same six tests at the same intervals** (FIT 1 y, HSgFOBT 1 y, mt-sDNA 3 y, colonoscopy 10 y, CT colonography 5 y, flexible sigmoidoscopy 5 y) and **deliberately does not rank them** — the menu is chosen by patient preference and test availability, because offering a choice improves adherence more than offering colonoscopy alone. It lists neither colon capsule nor a blood-based test. Its mt-sDNA 3-y interval is attributed to the **manufacturer**, not to its own evidence review ([[acs-2018-crc-screening]]).
+- **Low-sensitivity gFOBT is not recommended for CRC screening**; only the high-sensitivity version qualifies ([[acs-2018-crc-screening]]).
 
 - **The USPSTF excludes three test classes outright — serum tests, urine tests and capsule endoscopy** — for limited evidence, since other effective tests exist. That is why colon capsule and Septin 9 are *excluded* above rather than simply unendorsed.
 - **The USPSTF does not rank its strategies**; all seven are offered as equivalent options and the choice is framed as an adherence and implementation problem.
@@ -274,3 +289,4 @@ Colonoscopist metrics (ACG Recs 13–16, FIT-positive adenoma detection threshol
 9. [[aga-2020-young-adult-onset-crc|AGA 2020 Clinical Practice Update: Young Adult–Onset Colorectal Cancer Diagnosis and Management]]
 10. [[usmstf-2025-bowel-prep|Optimizing Bowel Preparation Quality for Colonoscopy: Consensus Recommendations by the US Multi-Society Task Force on Colorectal Cancer]]
 11. [[aga-2026-surveillance-older-adults|AGA Clinical Practice Update on Surveillance of Metaplastic and Premalignant Conditions of the Esophagus and Colorectum in Older Adults: Expert Review (2026)]]
+12. [[acs-2018-crc-screening|Colorectal Cancer Screening for Average-Risk Adults: 2018 Guideline Update From the American Cancer Society]]

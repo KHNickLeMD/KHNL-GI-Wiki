@@ -3,9 +3,11 @@ title: "AASLD 2009 Position Paper: Liver Biopsy"
 category: source
 tags: [liver-biopsy, hepatology, fibrosis, coagulation, percutaneous, transjugular, aasld, guideline]
 created: 2026-06-04
-updated: 2026-10-06
+updated: 2026-11-10
 sources: []
 ---
+
+> **Updated by [[aasld-2026-expo-liver-biopsy|AASLD EXPO: Liver Biopsy (2026)]]**, which states it is an update of this guidance. Where the two differ — **minimum specimen length** (>1.5 cm vs ≥2–3 cm), **image guidance** (now for every percutaneous biopsy, not merely preferred), **recovery positioning** (right lateral decubitus now discouraged), **route-specific needle minima**, and **EUS-guided biopsy** (not addressed here) — the 2026 document governs. Note the trade-off in evidence standard: this paper carries Class/Level ratings, whereas the 2026 EXPO statements are **ungraded expert opinion**.
 
 ## Bibliographic Info
 - **Article:** [Don C. Rockey, Stephen H. Caldwell, Zachary D. Goodman, Rendon C. Nelson, Alastair D. Smith (AASLD). Liver Biopsy. Hepatology 2009;49(3):1017-1044 (AASLD Position Paper).](https://doi.org/10.1002/hep.22742)

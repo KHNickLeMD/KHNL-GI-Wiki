@@ -6,6 +6,60 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-10] lint | Backlog pass — ACS 2018 CRC screening, AGA 2020 probiotics technical review
+
+**Git hygiene:** `git pull --rebase` clean; no untracked files under `raw/` (inbox sync quiet this pass).
+
+**Daily source fetch (06:00): nothing downloaded, nothing qualified.** *Scores and classification instruments* — all 3 rows 🔒 (Eckardt 1992, WHO Blue Book 5th ed., Amodio 2013 ISHEN). *Guidelines and consensus* — every unmarked row is a document **already in `raw/`** awaiting ingest (Wolf 2018, Preidis 2020, NCCN 2026 genetic/familial), so there is nothing for the fetch to retrieve; the rest are 🔒 or 🌐. No second pick made to reach 2.
+
+**Backlog mode: ON.** `raw/` holds ~50 uningested tier-1 consensus/guideline documents. Per *Backlog mode*, the pass skipped *Validate the stalest pages*, *Expand stubs* and *Fill coverage gaps* — **paused: ingest backlog**.
+
+**Ingest targets picked:** the three `needed-sources.md` rows whose document is already in `raw/` go first, since ingesting each closes a row.
+
+**Ingested 1 — `[[acs-2018-crc-screening]]`** (Wolf et al, *CA Cancer J Clin* 2018;68:250–281; guideline, tier 1):
+
+- Source page created with all **6 recommendations** in ACS's own two-level strength vocabulary (***strong* / *qualified***, explicitly not the usual strong/weak pair), the 6-test option menu with intervals, Table 3 test-selection considerations condensed, and the age-to-begin / age-to-stop evidence. The document numbers nothing — the numbering on the page is flagged as the wiki's.
+- `[[colorectal-cancer-screening]]` — added the **ACS column** to *When to Start and Stop*; added the ACS test menu note (deliberately unranked, mt-sDNA interval attributed to the **manufacturer**, low-sensitivity gFOBT not recommended, no capsule/blood test); added the **positive-FIT delay** cohort table (no excess risk ≤9 mo; **+48% CRC risk and double the stage III/IV risk at ≥10 mo**; OR 2.25 / 3.22 at ≥12 mo).
+- **Contradiction surfaced and resolved:** ACS's ≥10-month inflection reads as conflicting with the **>6-month** threshold already on the page from [[aga-2022-noninvasive-crc-screening]]. AGA 2022 is newer, same tier → **AGA governs the page**; the ACS table is framed as where measurable harm begins, not as licence to wait. Noted on both the entity page and the source page's *Contradictions*.
+- `[[early-onset-colorectal-cancer]]` — net-new, non-conflicting: the **birth-cohort effect quantified** (born ~1990 = 2× colon / 4× rectal cancer risk vs ~1950), which is the reasoning behind the move to age 45.
+- **Cards: none written** — correct outcome, not a skipped step. The positive-stool-test delay fact is **already carded** (`c71013`, from the newer AGA 2022, 6-month threshold); age bands and test intervals are already carded from ACG/USPSTF; everything else ACS adds (strength vocabulary, modelling life-years-gained, incidence and prevalence figures, guideline version history) is on the *Cut* list. Card file's `page_updated:` bumped to 2026-11-10 to record the review.
+- `needed-sources.md` row deleted — the ACS age-45 qualified recommendation it asked for is now on the page.
+
+**Ingested 2 — `[[aga-2020-probiotics-technical-review]]`** (Preidis et al, *Gastroenterology* 2020;159:708–738; technical review / GRADE evidence synthesis behind [[aga-2020-probiotics]]):
+
+- Source page created: the 8 PICO questions with the **overall certainty of evidence** each reached, the strain-level NEC effect sizes, the pouchitis evidence base, the IBS single-trial problem, and the scope exclusions.
+- **The row's premise turned out to be wrong, and that is the finding.** It asked this document for "trial-level CFU doses and durations" for [[probiotics]]. The review gives CFU doses for only five individual trials, and **only under the two questions where probiotics are *not* recommended** (CDI treatment, pediatric acute gastroenteritis). **For pouchitis (8-strain) and NEC — the indications recommended *for* — it gives no dose, frequency or duration at all**, and names trials "that define optimal doses, timing, and frequency of administration" as a future-research need. Row deleted (document ingested); **the dose gap is now documented as not closable from AGA**, rather than left as an open fetch target.
+- **Corrected an error on `[[probiotics]]`:** the page asserted "The AGA technical review (Preidis et al, *Gastroenterology* 2020;159:724–754) holds the trial-level dosing data." Both halves were wrong — the page range is **708–738**, and it does not hold that data. Replaced with the five doses it does give (tabled, each marked as a non-recommended indication) and a plain statement of what is missing.
+- `[[probiotics]]` also gained a **Strength of the Evidence Behind Each Indication** section (CoE per question), a pitfall box distinguishing *untested* from *disproven*, the NEC strain-specific effect sizes, the product-contamination harm (fatal mucormycosis from a fungal contaminant in a preterm infant), and the major-comorbidity exclusion that stops any of this transferring to immunocompromised patients.
+- `[[pouchitis]]` — one line added, not a copy: no other 8-strain formulation has been tested as rigorously, **commercial availability has been in question**, and benefit in a FAP pouch or in children is unknown. Effect sizes stay on [[probiotics]] (one home per fact).
+- **Cards: none, and none were possible** — a technical review is a systematic review/meta-analysis, which the *Guideline-sourced cards only* rule excludes; the source-slug test fails. Both card files' `page_updated:` bumped to record the review.
+
+**Ingest 3 STOPPED — NCCN documents are licensed against this use. Needs Nick's decision.**
+
+- Target was `raw/GI Guidelines/NCCN/NCCN 2026 Genetic Familial High-Risk Assessment Colorectal Endometrial Esophageal Gastric.pdf`, the third row whose document is already in `raw/`.
+- **212 of its 214 pages carry:** *"PLEASE NOTE that use of this NCCN Content is governed by the End-User License Agreement and you MAY NOT distribute this Content or use it with any artificial intelligence system, machine learning model, or large language model or other artificial intelligence tool."*
+- No content was extracted and no page was written from it. This is a licence term on Nick's own copy, not a technical obstacle, so **it is his call, not one to work around in an unattended pass.** It also bears on the NCCN source pages already in the wiki ([[nccn-2026-colon-cancer]], [[nccn-2026-net]], [[nccn-2026-biliary-tract-cancers]], and the NCCN rows in `needed-sources.md`), which earlier passes created.
+- The two 🌐 NCCN rows in `needed-sources.md` are left in place and **not** marked ingested.
+
+**Ingested 3 (replacement target) — `[[aasld-2026-expo-liver-biopsy]]`** (Verna et al, *Hepatology* 2026; AASLD Expert Practice Opinion, tier 1). Picked as the next US-society guideline that **supersedes a very stale source** — [[liver-biopsy]] was built on a **2009** position paper.
+
+- Source page created with **all 16 EXPO statements**, the approach algorithm, the technique-comparison and complication tables, the stain table, the coagulation/antithrombotic detail, and the paediatric table.
+- **Methodology recorded prominently and carried onto the page: EXPO means *no systematic review and no GRADE*** — the statements are **ungraded expert opinion** and must not be reported as carrying an evidence grade, unlike the 2009 paper's Class/Level ratings.
+- **Numbering quirk preserved, not silently fixed:** the published statement boxes print statements **4, 5 and 6 a second time as 8, 9 and 10**, identical wording. Recorded as printed, with a note that it appears to be a typesetting repetition.
+- `[[liver-biopsy]]` rebuilt around the 2026 document. **Five supersessions of [[aasld-2009-liver-biopsy]]**, each stated with both standards so the change is visible: minimum specimen length (**>1.5 cm all routes**, vs ≥2–3 cm), **image guidance for every percutaneous biopsy** (was preferred, not mandatory), **right lateral decubitus recovery position now discouraged** on randomized data, **route-specific needle minima**, and **EUS-LB** promoted to a co-equal technique. Added the Figure 1 algorithm as Mermaid, the technique and complication tables, the anticoagulant hold table, sedation, and a **new paediatric section** the page lacked entirely.
+- A `⚠ Updated by` banner added to the 2009 source page and its index row, so the older document is not read as current.
+- **Slimming:** page was **3045 words before this pass — already over the ~2,500 ceiling**. Condensed the superseded 2009 indication list, the disease-specific roles bullet (now one line of links, each disease page owns its own criteria), *Noninvasive Alternatives* (owned by [[noninvasive-liver-disease-assessment]]), and the EUS-LB quality detail. **Still ~3,200 words — remains a slim candidate for the next pass**; the additions are decision-critical criteria and thresholds, which *Short pages* says stay.
+- **Cards:** **4 existing notes were testing superseded facts** and were rewritten in place, ids kept (`1b0102` specimen length/caliber, `1b0107` antithrombotic holds, `1b010a` ultrasound guidance, `1b010c` Back Extra positioning line), re-sourced to the 2026 slug. **3 new notes** added: `1b0111` recovery position, `1b0112` severe pain as the sole predictor of major complication, `1b0113` route selection. All ≤3 clozes, `{at:}` anchors set.
+- **Deck not rebuilt — `node` is blocked in this sandbox** (standing constraint). Card files are written; the 05:00 card pass builds and will report any problem.
+
+**Steps that did nothing this pass, and why:**
+
+- **Daily source fetch:** nothing qualified (above). No filler download.
+- **Validate stalest pages / Expand stubs / Fill coverage gaps:** **paused — ingest backlog**, per *Backlog mode*.
+- **Backlog is NOT cleared.** The audit (matching `raw/` filenames against each source page's `title:` and `**Article:**` line, since slugs are abbreviated and score near zero) finds **~50 uningested tier-1 consensus and guideline documents** remaining, including BSG 2026 coeliac, Maastricht VI, Taipei Global Consensus II, UEG 2025 malabsorption (2 parts), ECCO-ESGAR 2025 IBD diagnostics (2 parts), ESGE 2026 biliary strictures, Rome V 2026 centrally mediated pain, IAP 2024 Kyoto IPMN, ASGE 2025 IBD consensus, ASGE 2026 EoE part 2, SAGES 2026 walled-off necrosis, and the Chicago v4.0 technical reviews. **Backlog mode stays ON.**
+
+---
+
 ## [2026-11-10] update | Card pass — deck slimming, no new cards eligible
 
 **Dedup (the pass's real work):** `anki-dupes.mjs` listed **7 unjudged candidate pairs ≥0.4**; all 7 judged and marked in `dedup-ledger.tsv`. **5 merged, 2 distinct.** Re-run afterwards: **0 unjudged pairs**.
