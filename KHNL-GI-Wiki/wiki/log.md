@@ -6,6 +6,39 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-10] update | Card pass — deck slimming, no new cards eligible
+
+**Dedup (the pass's real work):** `anki-dupes.mjs` listed **7 unjudged candidate pairs ≥0.4**; all 7 judged and marked in `dedup-ledger.tsv`. **5 merged, 2 distinct.** Re-run afterwards: **0 unjudged pairs**.
+
+**Merged — keeper chosen by the one-owner rule, retired note keeps its `[id]`:**
+
+- `9b0008` → `1a5007` on `[[lumen-apposing-metal-stents]]` — LAMS off-label for gallbladder drainage, approved only for pancreatic fluid collections. Device regulatory status is a device fact.
+- `9b0009` → `1a5006` on `[[lumen-apposing-metal-stents]]` — target lumen under 10 mm from the planned enteral puncture site. Deployment geometry is a device fact.
+- `9b000d` → `1a5008` on `[[lumen-apposing-metal-stents]]` — 3.7-mm working channel; the retired note's single cloze was a subset of the keeper's.
+- `a71011` → `8e2c07` on `[[ercp]]` — ERCP route after Roux-en-Y gastric bypass (EDGE). The decision arises in an ERCP, so the ERCP page owns it; the keeper's Back Extra already carried the cholecystectomy exception in ASGE's own hedged force (*may be preferred*), so it was left unchanged rather than promoted to a cloze that would have hardened the wording.
+- `bf2004` → `af1003` on `[[reflux-testing]]` — LA grade C/D or long-segment Barrett's makes objective reflux testing unnecessary. Same tested unit; the owner of *when reflux testing is indicated* keeps it.
+
+**Distinct:**
+
+- `9b0012` vs `9b0014` — antibiotic prophylaxis *before* drainage vs feeding and medication *after*; different intervention, different timing.
+- `0c1a06` vs `0f0001` — which opioid antagonists are recommended (disease page) vs their doses (drug page). The one-owner rule splits these two deliberately.
+
+**Keepers gained `{also:}`** so the footer names both pages: `1a5006`, `1a5007`, `1a5008` (`eus-guided-gallbladder-drainage`), `8e2c07` (`eus-gastroenterostomy`), `af1003` (`transoral-incisionless-fundoplication`). `# Retired` sections created on `eus-guided-gallbladder-drainage` and `eus-gastroenterostomy`.
+
+**Build:** `build-anki.mjs` → **4441 notes**, no problems reported on any touched file. `anki-at.py --status` → **0 untagged notes in 0 files** before and after, so the section-anchor backfill queue is empty.
+
+**No new cards — nothing eligible.** 353 card files against 356 topic pages; **no file missing `page_updated:`** (so no page left unfinished by an earlier pass) and **0 stale card files**. The three uncarded pages are the standing deliberate skips, each re-checked this pass rather than taken on trust:
+
+- `[[bristol-stool-form-scale]]` — every substantive fact, including the seven-type table, is Lewis 1997 primary research; the guideline sources appear only as pointers in a table that sends each threshold to its owner page.
+- `[[peginterferon-alfa-2a]]` — label-sourced throughout. Its only two guideline-backed claims are already carded elsewhere: `b01018` on `[[chronic-hepatitis-b]]` (rarely used, functional cure higher than a nucleos(t)ide analogue but still low) and `da1005` on `[[hepatitis-d]]` (the only US-available therapy, weekly subcutaneously).
+- `[[telemedicine-in-gastroenterology]]` — practice-management content (formats, equity, licensure, documentation, billing, workflow, trainees); no node in Nick's tag tree covers it.
+
+**Quality over quota:** the budget was a ceiling, not a target — the pass stopped at the dedup work rather than lowering the high-yield bar to fill it.
+
+**Not committed or pushed**, per the pass's instructions.
+
+---
+
 ## [2026-11-10] lint | Backlog pass — ingest by budget
 
 **Mode:** backlog mode **ON** — uningested tier-1 files remain in `raw/`, so ingest takes the pass budget. *Validate the stalest pages*, *Expand stubs* and *Fill coverage gaps* are **paused: ingest backlog**. Health check, git hygiene and this entry still run. **No daily source fetch:** that step is the 06:00 cron pass only, and this is not it.
