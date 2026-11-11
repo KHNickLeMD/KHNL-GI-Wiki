@@ -6,6 +6,32 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-11] lint | Quality review — release sweep (second pass)
+
+**Scope:** *Quality review (release sweep)* only, worked from `review-queue.py --pages 10` top-down, one subagent per page, budget-capped. No ingest, no new pages, no other LINT step. Queue before: 9/358 pages quality-reviewed; after: 13/358. Each page's tier-1 raw sources re-read before editing; ACG/LWW PDFs read directly with the Read tool rather than via `pdftotext`, which substitutes characters on them.
+
+**Pages reviewed:**
+
+- **[[fammm-syndrome]]** — fixed a fidelity error (hereditary pancreatitis was called the highest-relative-risk syndrome; ACG 2015 Table 12 gives 53-fold vs Peutz-Jeghers up to 132-fold). Closed five decision gaps from ASGE 2022 / CAPS 2020 / ACG 2015: the FAMMM referral trigger (pancreatic cancer plus personal or family melanoma, or multiple dysplastic nevi), CAPS's p16-protein eligibility qualifier, its 99%/grade-1 first-degree-relative stratum, the literature basis for starting at 40 (16% of p16-Leiden carriers diagnosed before 45), and ACG Table 10's interval qualifier. Therapeutics converted to a 4-row surveillance decision table (who · age to start · interval · CDKN2A-shortened interval) with caption; melanoma statement de-duplicated, four pointers to [[pancreatic-cancer-screening]] consolidated to one, abbreviations fixed. No flowchart — neither source gives a FAMMM-specific algorithm. Cards unchanged.
+
+- **[[hepatitis-c-in-pregnancy]]** — rebuilt from the AASLD 2021 reproductive-health hepatitis C section, which had never reached the page. Deleted a false "not covered by the cited guidelines" note that pointed readers to un-ingested CDC/AAP guidance, and replaced it with the sourced pathway (anti-HCV after 18 months → RNA → pediatric hepatitis C referral). Added a captioned transmission-risk table (5.8% with maternal viremia, 10.8% with HIV co-infection, rupture of membranes >6 h aOR 9.3) and two pitfall callouts. Gaps closed: ribavirin ≥6-month conception deferral for both sexes, preconception cure as the priority, no breastfeeding while on antiviral therapy, the peripartum measures to avoid and the amniocentesis alternative, 25% postpartum spontaneous clearance, the CDC <0.1%-prevalence screening exception, and exclusion of current pregnancy from the simplified AASLD-IDSA algorithm. Removed unsourced genotype and baseline-viral-load claims; re-attributed the maternal-viremia and cracked-nipple statements to the sources that actually make them (ACG 2016's 3–10% transmission figure surfaced as the older number, superseded on the page by AASLD 2021 per source priority). Therapeutics split into four parallel sections. Card file `{at:}` anchors, Back Extra numbers and one source attribution corrected; no ids changed, `page_updated:` left stale so the card pass picks up the newly added facts.
+
+- **[[eluxadoline]]** — removed unsourced OATP1B1 inhibitor examples (cyclosporine, gemfibrozil — in no ingested source; no Viberzi label in `raw/`) and the link they carried. Replaced AGA 2017's superseded 0.3%/0.3% pancreatitis and sphincter-of-Oddi-spasm rates and "NNT ~8" with ACG 2020's pooled safety figures (0.4%/0.5%, every sphincter-of-Oddi spasm in a patient without a gallbladder) and its dose- and window-specific numbers needed to treat. Added the FDA composite responder definition the page had named but never defined, the full ACG contraindication wording, and numbers needed to harm 25/23. Three captioned tables (dose by situation; responder rates and NNT by dose at weeks 1–12 and 1–26; adverse events), replacing the prose they cover; FDA no-gallbladder warning converted to a `[!pitfall]`, AGA's rationale to a `[!pearl]`; heading `Contraindications (decision-critical)` → `Contraindications`, `## Contents` added. Card file patched (drug examples cut, `{at:}` anchors repointed after the rename).
+
+- **[[hereditary-mixed-polyposis-syndrome]]** — added the USMSTF 2022 R1 genetic-evaluation trigger, which the page lacked entirely: ≥2 lifetime hamartomatous polyps, family history of hamartomatous polyps, or a hamartomatous-syndrome-associated cancer in a first- or second-degree relative, by multigene panel (strong recommendation, low quality of evidence). Added `acg-2026-adenomatous-polyposis` as a third source for *GREM1* on the minimum multigene panel, updating ACG 2015's older "might be considered" line; added the 40 kb upstream *GREM1* duplication detail and the SEER 1975–2017 denominator on the 4.3% figure. Claims shared between ACG 2015 and USMSTF 2022 split to the guideline that actually makes each. One `[!pearl]` on the admixed polyp as the diagnosis, with the duplicated clauses removed from the differential. No new visual: the hamartomatous-phenotype comparison table is owned by [[colorectal-polyposis]], Table 3 gives HMPS only "Increased" (no chart), the surveillance statements have no stated order (no "built from" flowchart), and neither AGA 2022 figure has an HMPS panel. All numbers already on the page verified correct. Cards unchanged.
+
+**Cross-page follow-ups (not done this pass):**
+
+- [[direct-acting-antivirals]] — AASLD 2021 Table 4's pregnancy/lactation/fertility row (glecaprevir-pibrentasvir and ledipasvir-sofosbuvir no animal birth defects; velpatasvir alone increased visceral malformations in rabbits) belongs on the drug page.
+- [[intrahepatic-cholestasis-of-pregnancy]] — AASLD 2021: test for hepatitis C if not previously performed.
+- [[pancreatic-cancer-screening]] — its CAPS row could take the same p16-protein qualifier.
+
+**Discrepancies noted, not surfaced on a page** (immaterial, same pooled phase 3 trials): AGA 2022 reports eluxadoline 100 mg n = 808 / placebo n = 809, ACG 2020 reports 809/808; the 12-week FDA responder rate is 27.2% (AGA) vs 27.0% (ACG).
+
+**Deck:** `node` is blocked in this sandbox, so the two patched card files are not rebuilt — the 05:00 card pass picks them up.
+
+---
+
 ## [2026-11-11] update | Lynch syndrome — flowchart redrawn in the new style
 
 - Converted the AGA clinical decision support tool flowchart on [[lynch-syndrome]] to the 2026-11-10 visual rules: role classes, results on arrows, straight lines, 4-line caption. 20 boxes → two charts (8 + 5), split at the source's two entry points (new CRC; family history alone) because one chart shrank to unreadable text in the page column. Wording kept verbatim; every box/arrow re-checked against AGA 2015 Figure 1 (raw PDF p. 779).
