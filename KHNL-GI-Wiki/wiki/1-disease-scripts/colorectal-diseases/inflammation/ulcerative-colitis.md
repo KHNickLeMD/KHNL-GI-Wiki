@@ -3,8 +3,8 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-11-03
-sources: [asge-acg-2024-colonoscopy-quality-indicators, aga-2018-functional-gi-symptoms-ibd, acg-2025-uc, aga-2019-mild-moderate-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt, aga-2021-ibd-colorectal-dysplasia, ho-2004-severe-uc-risk-score]
+updated: 2026-11-11
+sources: [asge-2025-ibd-endoscopy-consensus, asge-acg-2024-colonoscopy-quality-indicators, aga-2018-functional-gi-symptoms-ibd, acg-2025-uc, aga-2019-mild-moderate-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt, aga-2021-ibd-colorectal-dysplasia, ho-2004-severe-uc-risk-score]
 ---
 
 Ulcerative colitis (UC): idiopathic chronic [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] of the large intestine — continuous mucosal inflammation from the rectum extending proximally; relapsing–remitting. Goal: sustained steroid-free endoscopic remission.
@@ -49,7 +49,7 @@ Ulcerative colitis (UC): idiopathic chronic [[inflammatory-bowel-disease|inflamm
 - **Backwash vs CD ileitis** ([[asge-2015-ibd]]): backwash = short, mild, continuous with cecal disease, no stricture (up to 25% of pancolitis); CD = patchy/extensive, discrete ulcers, stricture. A **cecal/periappendiceal patch** is not CD.
 
 > [!pitfall] A colon stricture in UC is cancer until proven otherwise
-> If it can't be fully examined and biopsied, favor surgery ([[asge-2015-ibd]]).
+> If it can't be fully examined and biopsied, favor surgery ([[asge-2015-ibd]]). Benign strictures from submucosal fibrosis do occur, but UC-associated stricture is a major risk factor for colitis-associated neoplasia — biopsy **every** colonic or rectal UC stricture **at least once a year** ([[asge-2025-ibd-endoscopy-consensus]]).
 
 **Montreal extent** — record at index colonoscopy; extent shapes prognosis and the route of 5-aminosalicylate (5-ASA) therapy but **does not limit advanced-therapy options**:
 
@@ -138,7 +138,7 @@ Ulcerative colitis (UC): idiopathic chronic [[inflammatory-bowel-disease|inflamm
 - **Labs:** complete blood count (CBC; anemia), comprehensive metabolic panel (CMP; albumin), CRP, ESR.
 - **FC:** <60 μg/g deep remission · <187 μg/g mucosal healing · >321 μg/g in clinical remission = relapse risk.
 - **Stool cultures + CDI testing:** at diagnosis and every suspected flare.
-- **Colonoscopy + biopsies;** biopsy normal-looking segments too (histology may extend beyond endoscopic extent). **Flexible sigmoidoscopy** suffices in severe disease (lower perforation risk) for severity + cytomegalovirus (CMV) biopsies.
+- **Colonoscopy + biopsies;** biopsy normal-looking segments too (histology may extend beyond endoscopic extent). **Flexible sigmoidoscopy** suffices in severe disease (lower perforation risk) for severity + cytomegalovirus (CMV) biopsies. Index biopsy sites, density and timing: [[inflammatory-bowel-disease#Index Endoscopy and Biopsy Protocol]].
 - **IUS:** noninvasive monitoring; response visible by 2 wk ([[aga-2024-intestinal-ultrasound]]); transabdominal views miss the rectum → **transperineal** approach. Cutoffs: [[intestinal-ultrasound]].
 - **[[upper-endoscopy|Upper endoscopy]]/small-bowel imaging:** not routine if the TI is normal — only for symptoms or CD concern.
 
@@ -284,6 +284,7 @@ Ulcerative colitis (UC): idiopathic chronic [[inflammatory-bowel-disease|inflamm
    - Infliximab **10 mg/kg or accelerated** if albumin <2.5 g/dL or protein-losing colopathy (low albumin, high CRP, deep ulcers); no proven benefit of accelerated dosing in unselected ASUC ([[aga-2026-inpatient-ibd]]).
    - **JAK rescue** ([[aga-2026-inpatient-ibd]]; optimal dose unknown): standard tofacitinib 10 mg twice daily, upadacitinib 45 mg daily; off-label high-intensity tofacitinib 10 mg three times daily ×9 doses, upadacitinib 30 mg twice daily. Give recombinant zoster vaccine if possible — **don't delay** treatment for it. ⚠ ACG 2025 finds **insufficient data** for JAK rescue; AGA 2026 (newer) is followed here.
    - **CMV:** treat only with **≥5 inclusions** (high-density histology) **plus** steroid nonresponse; serum CMV polymerase chain reaction (PCR) is neither routine nor able to exclude CMV.
+     - **Getting the biopsies right** ([[asge-2025-ibd-endoscopy-consensus]]): sample the **base and the edge of an ulcer**, at several colonic locations — yield tracks the density of viral inclusions and the site. One study recommended **11 samples by flexible sigmoidoscopy in UC** (16 by colonoscopy in CD), though the consensus notes this is not common practice. False negatives occur on both biopsy and blood CMV-DNA. Add **CMV immunostaining** when suspicion is strong and hematoxylin & eosin is equivocal, and have the pathologist report **positive cells per section** — **>2 immunohistochemistry-positive cells per sample** was independently associated with colectomy in active UC. Tissue PCR positive with negative histology is of **unclear significance**.
 6. **After rescue:** infliximab → continue infliximab; cyclosporine → thiopurine (preferred) or vedolizumab.
    - **Sequential salvage** (failing one rescue agent, then the other, either direction): remission **30%–40%** in small retrospective series, **~60% require colectomy by 12 months**, severe adverse outcomes in **16%** (including a sepsis death) — monitor closely ([[acg-2025-uc]]).
 7. **Surgery:** toxic megacolon, perforation, severe refractory hemorrhage, medical failure. Infliximab/cyclosporine don't raise postoperative complications — **don't delay**.
@@ -341,14 +342,18 @@ Ulcerative colitis (UC): idiopathic chronic [[inflammatory-bowel-disease|inflamm
 | **Dense** pseudopolyps | | |
 | **Colonic stricture** | | |
 
-- ⚠ **3 vs 5 years is an unresolved disagreement the 2024 document surfaces itself:** ACG caps the maximum interval at **3 y**; three other guidelines/updates allow up to **5 y**, and Table 13 follows the 5-y option. The ASGE/ACG 2024 position is newer than [[aga-2021-ibd-colorectal-dysplasia|AGA 2021]] and governs the grid above; the AGA table's post-resection rows have no counterpart in it and still stand.
+- ⚠ **3 vs 5 years is an unresolved disagreement the 2024 document surfaces itself:** ACG caps the maximum interval at **3 y**; three other guidelines/updates allow up to **5 y**, and Table 13 follows the 5-y option. The ASGE/ACG 2024 position is newer than [[aga-2021-ibd-colorectal-dysplasia|AGA 2021]] and governs the grid above; the AGA table's post-resection rows have no counterpart in it and still stand. **[[asge-2025-ibd-endoscopy-consensus|ASGE 2025]] (newest, modified-Delphi consensus, no evidence grades) settles on the same 1–5 y band** and makes the interval explicitly patient-specific — prior severity of colonic inflammation, history of dysplasia, family history of CRC, PSC, plus the frequency, quality and modality of prior exams.
+- **Surveil while the disease is in endoscopic remission**, and describe every visible lesion by **site, size, shape (Paris) and surrounding inflammation** ([[asge-2025-ibd-endoscopy-consensus]]).
+- **Diverted large bowel** (UC or CD duration **>8–10 y**): surveillance biopsy **every 1–3 y** if completion proctectomy is not feasible — rectal-stump cancer incidence **3.9–4.5 per 1000 diverted patient-years** ([[asge-2025-ibd-endoscopy-consensus]]). Stoma care: [[ostomy-management]].
 
 **Technique:**
 - High-definition (HD) preferred. **Standard definition → dye-spray chromoendoscopy (DCE)** (Strong/Low, ACG 2019 rec 48). **HD → white light with narrow-band imaging (NBI) or DCE** (Conditional/Low, rec 49) — [[asge-2015-scenic-ibd-dysplasia|SCENIC 2015]] rejected NBI; follow ACG 2019.
 - HELIOS randomized controlled trial (RCT; n=563): HD white light with segmental re-inspection **noninferior** to HD-DCE ([[aga-2026-therapeutic-endoscopy-ibd]]).
+- **ASGE's own later consensus softened SCENIC:** [[asge-2025-ibd-endoscopy-consensus|ASGE 2025]] accepts **HD white light *or* image-enhanced endoscopy** (virtual or dye-based chromoendoscopy) for routine surveillance, and the statement that would have *recommended* image enhancement **failed to reach consensus**. Enhanced imaging (NBI or chromoendoscopy) is still required in the **PSC** group. Head-to-head evidence it cites: HD NBI ranked above chromoendoscopy, which ranked above white light and standard-definition white light (network meta-analysis, 6 RCTs, n=1038); dye-based and virtual chromoendoscopy showed **no difference** on any dysplasia endpoint (7 RCTs, n=2457).
 - **DCE — how** ([[aga-2021-ibd-colorectal-dysplasia]], ungraded): spray liberally over the entire colon on withdrawal (spray catheter or waterjet). Indigo carmine **0.03%–0.1%** or methylene blue **0.04%–0.1%** panmucosal; **0.13%** / **0.2%** to define a suspicious lesion's border. Yield ~**2×** standard-definition white light, **1.6×** HD white light (4-RCT meta-analysis); no study shows an effect on CRC death.
 - **Virtual chromoendoscopy (VCE)** (NBI, i-scan, Fuji intelligent color enhancement) on an HD scope is a suitable alternative to DCE — similar dysplasia detection with shorter withdrawal (11-RCT meta-analysis) ([[aga-2021-ibd-colorectal-dysplasia]]).
 - **Nontargeted biopsies** ([[aga-2021-ibd-colorectal-dysplasia]]): **required** with white light alone — **~4 biopsies every 10 cm** of previously colitic mucosa + areas of prior dysplasia/poor view. Not routine with DCE or VCE on HD, **but still take them with PSC, prior dysplasia, or active inflammation** ([[aga-2026-therapeutic-endoscopy-ibd]]).
+  - ASGE 2025 frames the same split as targeted **or** random for average risk, targeted **and** random for high risk (PSC, tubular colon and rectum, prior CAN — especially prior **invisible** dysplasia). The **Seattle protocol** (4-quadrant samples every 10 cm plus 5 rectal, minimum 33 pieces) is "being phased out in many IBD centers" for average-risk patients, but random biopsies at the **first** surveillance exam still serve as the baseline for staged biopsy. The reason high-risk patients keep random sampling: **nonconventional dysplasia variants — hypermucinous, goblet cell–deficient and crypt cell dysplasia — are often endoscopically invisible**, and PSC patients are both more likely to develop dysplasia and more likely to have these features ([[asge-2025-ibd-endoscopy-consensus]]).
 - Biopsy anything inexplicably different (color, vascularity, nodularity, elevation, ulceration). Report lesions as **visible vs invisible** (modified Paris: size, shape, site, surface, surrounding mucosa); "dysplasia-associated lesion or mass (DALM)" and "adenoma-like" are retired ([[asge-2015-scenic-ibd-dysplasia]]).
 
 > [!pitfall] Don't touch a lesion you won't resect
@@ -419,3 +424,4 @@ Ulcerative colitis (UC): idiopathic chronic [[inflammatory-bowel-disease|inflamm
 18. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease: Expert Review]]
 19. [[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators for Colonoscopy]]
 20. [[ho-2004-severe-uc-risk-score|Predicting the Outcome of Severe Ulcerative Colitis: Development of a Novel Risk Score (Aliment Pharmacol Ther 2004)]]
+21. [[asge-2025-ibd-endoscopy-consensus|Endoscopic diagnosis and management of adult inflammatory bowel disease: a consensus document from the American Society for Gastrointestinal Endoscopy IBD Endoscopy Consensus Panel (2025)]]

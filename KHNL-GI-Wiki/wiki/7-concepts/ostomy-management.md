@@ -3,8 +3,8 @@ title: "Ostomy Management"
 category: concept
 tags: [ostomy, ileostomy, colostomy, nutrition]
 created: 2026-07-23
-updated: 2026-10-03
-sources: [aga-2023-ostomies]
+updated: 2026-11-11
+sources: [aga-2023-ostomies, asge-2025-ibd-endoscopy-consensus]
 ---
 
 Care of the adult with an **enteral stoma** (colostomy or ileostomy) **beyond the immediate perioperative period** — the gap the American Gastroenterological Association (AGA) 2023 Clinical Practice Update addresses. Covers stoma types and configurations, expected output, high ostomy output, short- and long-term complications, and perioperative wound ostomy continence (WOC) care.
@@ -126,6 +126,8 @@ Care of the adult with an **enteral stoma** (colostomy or ileostomy) **beyond th
 - WOC marking assesses the abdomen **in multiple positions** for a site **within the rectus muscle**, away from scars, skin folds, bony prominences, and the umbilicus.
 - WOC consultation discusses and manages expectations for life with a stoma: managing ostomy output, maintaining pouching appliances, and the regular passage of mucus from the native rectum.
 - National resources exist for patients, including community-based and online ostomy support groups.
+- **Endoscopy through the stoma before closing a temporary diversion in Crohn's disease** — pass the scope **beyond the level of the fascia**, because the segment between stoma and fascia carries mechanical and ischemic ulcers, strictures and fistulas that are not recurrent disease. Decision and interval: [[crohns-disease#Postoperative CD Prevention]] ([[asge-2025-ibd-endoscopy-consensus]]).
+- **Surveillance of a diverted large bowel** in long-standing [[ulcerative-colitis|UC]] or Crohn's: [[ulcerative-colitis#Colorectal Cancer Surveillance]].
 
 ## See Also
 
@@ -136,3 +138,4 @@ Care of the adult with an **enteral stoma** (colostomy or ileostomy) **beyond th
 ## Sources
 
 1. [[aga-2023-ostomies|AGA 2023 Clinical Practice Update on Management of Ostomies: Commentary]]
+2. [[asge-2025-ibd-endoscopy-consensus|Endoscopic diagnosis and management of adult inflammatory bowel disease: a consensus document from the American Society for Gastrointestinal Endoscopy IBD Endoscopy Consensus Panel (2025)]]

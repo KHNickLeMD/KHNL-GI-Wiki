@@ -3,8 +3,8 @@ title: "Primary Sclerosing Cholangitis"
 category: disease-script
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant, dominant-stricture, igg4, udca, mrcp, fish, liver-stiffness]
 created: 2026-05-19
-updated: 2026-11-08
-sources: [acg-2026-preventive-care-cirrhosis, acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, aga-2019-psc-cancer-surveillance, baveno-viii-2026-portal-hypertension]
+updated: 2026-11-11
+sources: [acg-2026-preventive-care-cirrhosis, acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, aga-2019-psc-cancer-surveillance, baveno-viii-2026-portal-hypertension, asge-2025-ibd-endoscopy-consensus]
 ---
 
 ## Assessment
@@ -240,6 +240,7 @@ Serial polysomy in dominant/relevant stricture + serial polysomy = probable CCA.
 - PSC-IBD [[colorectal-cancer|CRC]] risk: 5–12× general population, 3–5× IBD-without-PSC; cumulative 20-year incidence up to 40% in early studies; more recent data: 5-year 7%, 10-year 9%; children develop CRC at similar rates as adults (5% by age 10)
 - Biopsy-proven invisible low-grade dysplasia → high-definition colonoscopy with chromoendoscopy
 - PSC without IBD: colonoscopy at PSC diagnosis; if no IBD → repeat every 5 years or with IBD symptoms (GS 6)
+- ⚠ **ASGE 2025 is stricter on both the interval and the imaging** ([[asge-2025-ibd-endoscopy-consensus]], newest tier-1 document on IBD surveillance, though a consensus with no evidence grades): **yearly** surveillance colonoscopy in anyone with PSC plus UC or large-bowel Crohn's, **regardless of extent and duration of IBD**, using **narrow-band imaging or chromoendoscopy** (not optional, unlike in average-risk IBD) **and both targeted and random biopsies**. The rationale for keeping random biopsies in PSC: these patients disproportionately develop **endoscopically invisible nonconventional dysplasia** (hypermucinous, goblet cell–deficient, crypt cell). AASLD 2022's 1–2 y interval is the hepatology-side statement; **take the annual interval where the two differ.** Technique and the full interval grid: [[ulcerative-colitis#Colorectal Cancer Surveillance]].
 
 ### Surgical / Liver Transplantation
 
@@ -332,3 +333,4 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 4. [[aga-2019-psc-cancer-surveillance|AGA Clinical Practice Update on Surveillance for Hepatobiliary Cancers in Patients With Primary Sclerosing Cholangitis: Expert Review (2019)]]
 5. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
 6. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
+7. [[asge-2025-ibd-endoscopy-consensus|Endoscopic diagnosis and management of adult inflammatory bowel disease: a consensus document from the American Society for Gastrointestinal Endoscopy IBD Endoscopy Consensus Panel (2025)]]

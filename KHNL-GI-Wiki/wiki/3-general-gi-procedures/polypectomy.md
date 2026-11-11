@@ -3,8 +3,8 @@ title: "Polypectomy (Colorectal)"
 category: general-procedure
 tags: [polypectomy, cold-snare, colonoscopy, colorectal, paris-classification, nice-classification, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-11-09
-sources: [asge-acg-2024-colonoscopy-quality-indicators, usmstf-2026-serrated-polyposis-syndrome, usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy, aga-2025-endoscopic-resection-crc, aga-2026-electrosurgery, aga-2021-colonoscopy-quality]
+updated: 2026-11-11
+sources: [weo-2024-large-colorectal-lst-consensus, asge-acg-2024-colonoscopy-quality-indicators, usmstf-2026-serrated-polyposis-syndrome, usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy, aga-2025-endoscopic-resection-crc, aga-2026-electrosurgery, aga-2021-colonoscopy-quality]
 ---
 
 # Polypectomy (Colorectal)
@@ -50,6 +50,8 @@ Optical assessment and removal of colorectal polyps at [[colonoscopy]] — the t
 - Photo before removal; suggest photo of post-resection defect
 - Resection method in procedure report
 - **How to size it:** hold **open biopsy forceps over and against** the polyp; for smaller polyps use the **snare sheath tip (2.4 mm)** against the polyp base ([[asge-acg-2024-colonoscopy-quality-indicators]])
+- **For every LST ≥20 mm, three things must be recorded** ([[weo-2024-large-colorectal-lst-consensus]]): the **Paris** type (**Strong**/High), the **LST classification** for nonserrated lesions — granular homogeneous, granular mixed, nongranular pseudodepressed, nongranular flat elevated (**Strong**/High) — and **some classification predicting submucosal invasion risk** (**Strong**/Moderate). Assess on a **high-definition** scope (**Strong**/High) with **virtual chromoendoscopy, dye-based chromoendoscopy, or both** (**Strong**/High). The consensus deliberately **endorses no single optical system** — the statement favoring one over the others failed at <50% agreement.
+- **Competency:** resecting a large LST requires training in image-enhanced endoscopy and optical evaluation (**Strong**/Moderate), adequate caseload for the chosen technique (**Strong**/Moderate), and **self-audit of R0, curative resection, recurrence, perforation and bleeding rates** (**Strong**/Moderate). **No case number was agreed** — that statement was dropped at <50% agreement ([[weo-2024-large-colorectal-lst-consensus]]).
 
 ### Paris Classification (type 0 superficial lesions)
 
@@ -154,6 +156,25 @@ Single home for laterally spreading tumor (LST) submucosal-invasion risk — the
 - Requires experienced endoscopist
 - Resect all visible tissue in single session, minimum number of pieces
 - Prior failed attempts → higher recurrence risk; refer to experienced endoscopist, not surgery
+
+**En bloc vs piecemeal — by optical class and site** ([[weo-2024-large-colorectal-lst-consensus|WEO 2024]] Delphi consensus, GRADE-rated; **the rectum is handled separately throughout** because rectal lesions carry higher submucosal invasion rates yet are safer to take en bloc):
+
+| Optical class / morphology | Proximal to rectum | Rectum |
+|---|---|---|
+| **Serrated** (JNET 1, WASP) | **Either** (Conditional/Mod); **cold snare** if no suspicion of dysplasia (Conditional/Mod) | same |
+| **JNET 2A, granular homogeneous** — low risk of superficial SMI | **Either** (**Strong**/Mod) | **Attempt en bloc if feasible** (**Strong**/Mod) |
+| **JNET 2B** — suspected **superficial (<1000 μm)** SMI | **En bloc** (**Strong**/Mod) | **En bloc** (**Strong**/Mod) |
+| **Nongranular · granular mixed with a large dominant nodule · demarcated depressed area** — increased superficial-SMI risk | **En bloc** (**Strong**/Mod) | **En bloc** (**Strong**/Mod) |
+| **JNET 3 · Kudo VN · Kudo VI-severe with demarcated area** — suspected **deep** SMI | **Multidisciplinary evaluation** of resection suitability and modality (**Strong**/Mod) | **Lower rectum**, staging negative for LNM/distant metastasis: a deeper-plane en bloc method (endoscopic intermuscular dissection, peranal endoscopic myectomy) **can be considered in patients declining surgery** after MDT review (Conditional/Low) |
+
+> [!pearl] JNET 2B is a low-confidence call, which is why it buys en bloc resection
+> Positive predictive value for high-grade dysplasia or submucosal invasion in **JNET 2B is only 50.9%**, against **91.0%–98.3%** for JNET 2A predicting neither. A 2B lesion may be restratified for *deep* invasion with the **Kudo pit pattern** (Conditional/High), ideally with optical magnification ([[weo-2024-large-colorectal-lst-consensus]]).
+
+- **Piece count is the modifiable recurrence driver:** **~10% recurrence after 3 pieces, up to 25% after 4** in >20 mm lesions. Residual microscopic tissue sits in the **margin of 19.5%** and the **base of 23.8%** of post-EMR defects. Aim for as few pieces as possible **when it is safe** (Conditional/Low) — larger pieces carry their own adverse-event risk, and **cold snare transection fails above ~8 mm per piece.**
+- **Submucosal invasion rates with no overt signs of invasion** (n=1712): **proximal granular homogeneous 0.7%**, **rectal granular homogeneous 1.2%**.
+- **All rectal LSTs belong in a center where both ESD and EMR are readily available.** A rectum-specific strategy — piecemeal for flat lesions with no optical signs of invasion and **no nodule >10 mm**, ESD for the rest — cured **100%** of potentially curable superficially invasive cancers in 190 lesions.
+- **Deviation is expected, in one direction:** attempting **piecemeal when en bloc is recommended is preferred over sending a benign lesion to surgery.** The consensus states it has **no agreed numeric threshold** for low, moderate or high submucosal invasion risk.
+- **Serrated lesion with an overt dysplastic focus: no recommendation** — neither cold vs hot snare nor en bloc vs piecemeal, for lack of data. Piecemeal cold snare of ≥20 mm sessile serrated lesions recurs in **4.7%** (95% CI 0.9–8.5) in expert hands, but incomplete resection of 1–20 mm serrated lesions across expert *and* nonexpert endoscopists runs **28.5% vs 13.3%** for adenomas — **reserve the cold piecemeal approach for experts in optical diagnosis and advanced resection.**
 
 ### Pedunculated
 
@@ -347,6 +368,28 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 - Presence or absence of lymphovascular invasion
 - Suggested additions: specimen integrity, polyp size, polyp morphology (pedunculated vs. sessile), tumor budding (counted in the hotspot)
 
+**How the specimen must be handled to make that report possible** ([[weo-2024-large-colorectal-lst-consensus]]; all **Strong** unless noted, quality Very low for the first three):
+
+- **Pin the en bloc specimen in the endoscopy room** — not later, not by the lab.
+- **Embed carefully** enough to produce well-oriented stained sections.
+- **Cut at 2–3 mm intervals** throughout the specimen, **along parallel lines**.
+- Read by a **pathologist specialized in GI sections** (**Strong**/Moderate); with submucosal invasion, a **second pathologist can be considered** (Conditional/Moderate).
+- With submucosal invasion, consider **desmin** (marks the muscularis mucosae, so depth can be measured), **D2-40** (lymphatic invasion) and **elastic fiber staining such as Elastica van Gieson** (venous invasion) (Conditional/Low).
+- **R0 = no neoplasia at the resection margins** (Conditional/Low).
+
+**Curative or not, after en bloc R0 resection** ([[weo-2024-large-colorectal-lst-consensus]]) — the three adverse features throughout are **lymphovascular invasion, poor differentiation, grade 2/3 tumor budding**:
+
+| Depth, after en bloc R0 | Verdict |
+|---|---|
+| Up to and including high-grade dysplasia / intramucosal carcinoma | **Curative** (**Strong**/High) |
+| **Superficial** SMI, none of the three adverse features | **Curative** (**Strong**/High) |
+| **Deep (≥1000 μm)** SMI, none of the three | **Shared decision making** — patient, endoscopist, pathologist, surgeon — on further resection vs close follow-up (Conditional/Low) |
+| **Deep (≥1000 μm)** SMI **with any** of the three | **Refer for surgical and oncologic evaluation** (**Strong**/High) |
+
+- **Inadvertent piecemeal resection of an invasive cancer is not automatically a failure:** among 142 such cases in 3372 LSTs, **no residual cancer was found where the deep margin was R0**; nodal-metastasis risk tracked **poor differentiation and lymphovascular invasion** ([[weo-2024-large-colorectal-lst-consensus]]).
+- **Follow-up after resection of a ≥20 mm LST:** **6 months after piecemeal** resection (**Strong**/Moderate); **1–3 years after en bloc R0**, whether or not high-grade dysplasia or intramucosal carcinoma was present (Conditional/Low for both) — that later exam looks for synchronous and metachronous lesions, not residual disease. Recurrence, when it happens, is usually small and endoscopically treatable (**>90%** success across 213 recurrences). General intervals: [[colonoscopy-surveillance]].
+- **After EMR, same-day discharge is reasonable** in the proper setting once the post-endoscopy care unit shows no immediate complication (**Strong**/High).
+
 ### Multidisciplinary Management
 
 **Recommendation 6 (Weak; low-quality evidence):** Establish communication among the gastroenterologist, pathologist, oncologist, surgeon, and patient for management of malignant polyps.
@@ -399,3 +442,4 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 7. [[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators for Colonoscopy]]
 8. [[aga-2021-colonoscopy-quality|AGA 2021 Clinical Practice Update on Strategies to Improve Quality of Screening and Surveillance Colonoscopy]]
 9. [[usmstf-2026-serrated-polyposis-syndrome|Serrated Polyposis Syndrome: A Review and Consensus Statement by the US Multi-Society Task Force on Colorectal Cancer (2026)]]
+10. [[weo-2024-large-colorectal-lst-consensus|International consensus on the management of large (≥20 mm) colorectal laterally spreading tumors: World Endoscopy Organization Delphi study (2024)]]

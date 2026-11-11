@@ -3,8 +3,8 @@ title: "Endoscopic Submucosal Dissection (Colorectal)"
 category: advanced-procedure
 tags: [esd, hybrid-esd, endoscopic-resection, en-bloc, colorectal, t1-crc, malignant-polyp, submucosal-invasion, eftr]
 created: 2026-08-11
-updated: 2026-09-29
-sources: [usmstf-2020-endoscopic-removal, aga-2025-endoscopic-resection-crc, asge-2020-endoscopic-removal, aga-2024-full-thickness-resection, aga-2018-esd-united-states, aga-2021-post-esd-surveillance]
+updated: 2026-11-11
+sources: [weo-2024-large-colorectal-lst-consensus, usmstf-2020-endoscopic-removal, aga-2025-endoscopic-resection-crc, asge-2020-endoscopic-removal, aga-2024-full-thickness-resection, aga-2018-esd-united-states, aga-2021-post-esd-surveillance]
 ---
 
 # Endoscopic Submucosal Dissection (Colorectal)
@@ -61,6 +61,16 @@ Most colorectal neoplasms are benign and resectable by piecemeal [[endoscopic-mu
 - **The first attempt at endoscopic resection has the highest rate of success** — do not attempt EMR without high confidence that complete resection is achievable.
 - Colorectal mucosa **has no lymphatic drainage**, so dysplasia confined to the mucosa carries **no lymph-node-metastasis risk** and endoscopic resection is the criterion standard. Of colorectal polyps ≥2 cm without features of deep invasion, **9.9%** proved T1 — **two thirds of those confined to superficial submucosa (<1000 µm)** and potentially curable by ESD.
 - High-quality EMR remains the procedure of choice for **noninvasive** colorectal neoplasia in most US settings. ([[aga-2018-esd-united-states]])
+
+**The same indication set, GRADE-rated** ([[weo-2024-large-colorectal-lst-consensus|WEO 2024]], which **does** attach strengths — three statements, all **Strong**, all low-quality evidence; agreement 100% / 88% / 90%). *When an en bloc resection is necessary, ESD should be performed rather than EMR:*
+
+- **if en bloc resection is difficult to achieve with EMR**
+- **in the presence of submucosal fibrosis**
+- **when chronic inflammation is present (eg [[ulcerative-colitis|ulcerative colitis]])**
+
+- A fourth, also Strong (100%): **when ESD is required to achieve en bloc resection, adequate reimbursement mechanisms should be available**, given the longer procedure time and technical difficulty.
+- **Deeper-plane en bloc techniques in the lower rectum** — **endoscopic intermuscular dissection (EID)** or **peranal endoscopic myectomy (PAEM)** — **can be considered** for a lesion with suspected **deep** submucosal invasion (JNET 3, Kudo VN, Kudo VI-severe with a demarcated area) **when staging is negative for nodal and distant metastasis and the patient declines surgery**, after multidisciplinary review (Conditional/Low, 88%).
+- A French randomized controlled trial cited by the consensus found **fewer recurrences with ESD than EMR even in the colon**, with **significantly lower T1 cancer rates in the EMR arm** — the warning being not to miss covert T1 disease. Lesion selection, piece-count and curative-resection criteria live on [[polypectomy]].
 
 **Difficult locations are not a contraindication.** Anorectal lesions near the **dentate line** and lesions at a **flexure behind a fold** have been removed successfully with EMR, ESD, or hybrid methods — refer such patients to an endoscopist proficient in these techniques **before** referring for surgery ([[usmstf-2020-endoscopic-removal]]).
 
@@ -195,3 +205,4 @@ Surveilled harder than the colon. **29% of colorectal cancers arise in the rectu
 4. [[aga-2024-full-thickness-resection|AGA 2024 Clinical Practice Update on Endoscopic Full-Thickness Resection for the Management of Gastrointestinal Subepithelial Lesions]]
 5. [[aga-2018-esd-united-states|AGA Institute Clinical Practice Update: Endoscopic Submucosal Dissection in the United States]]
 6. [[aga-2021-post-esd-surveillance|AGA Clinical Practice Update on Surveillance After Pathologically Curative Endoscopic Submucosal Dissection of Early Gastrointestinal Neoplasia in the United States: Commentary]]
+7. [[weo-2024-large-colorectal-lst-consensus|International consensus on the management of large (≥20 mm) colorectal laterally spreading tumors: World Endoscopy Organization Delphi study (2024)]]

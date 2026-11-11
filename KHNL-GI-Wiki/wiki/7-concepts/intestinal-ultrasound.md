@@ -3,8 +3,8 @@ title: "Intestinal Ultrasound (IUS)"
 category: concept
 tags: [intestinal-ultrasound, ibd, crohns, ulcerative-colitis, monitoring, treat-to-target, imaging]
 created: 2026-07-19
-updated: 2026-10-31
-sources: [aga-2024-intestinal-ultrasound]
+updated: 2026-11-11
+sources: [aga-2024-intestinal-ultrasound, asge-2025-ibd-endoscopy-consensus]
 ---
 
 ## Contents
@@ -80,6 +80,7 @@ By trained operators, IUS is comparable to **magnetic resonance enterography (MR
 - Imprecise for disease **length** — the transducers' limited field of view makes length hard to measure in extensive small-bowel CD, and accuracy falls off **beyond 10 cm**; MRE better for extent and deep pelvic structures. Accuracy is also lower for **locating** disease in the mid-to-proximal small bowel.
 - **Not advised for dysplasia surveillance** — use endoscopy.
 - **Operator-dependent** — accuracy depends on operator training; reporting is not standardized.
+- **Adoption is ahead of the consensus.** [[asge-2025-ibd-endoscopy-consensus|ASGE 2025]] would only agree that IUS "**can be considered, where available**" as a tool for mucosal and transmural inflammation, stricture, fistula and abscess. The stronger statement — *encouraging* onsite IUS, and adding lymphadenopathy to its targets — **failed to reach consensus**. Equipment procurement and sonographer training are named as the barriers, and large multicentre prospective trials are still needed to define how IUS fits routine care. The consensus does recommend CT or magnetic resonance enterography around the index ileocolonoscopy, with IUS as an emerging alternative rather than a substitute.
 
 ---
 
@@ -92,3 +93,4 @@ By trained operators, IUS is comparable to **magnetic resonance enterography (MR
 ## Sources
 
 1. [[aga-2024-intestinal-ultrasound|AGA Clinical Practice Update on the Role of Intestinal Ultrasound in Inflammatory Bowel Disease: Commentary]]
+2. [[asge-2025-ibd-endoscopy-consensus|Endoscopic diagnosis and management of adult inflammatory bowel disease: a consensus document from the American Society for Gastrointestinal Endoscopy IBD Endoscopy Consensus Panel (2025)]]

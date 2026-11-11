@@ -3,8 +3,8 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-11-03
-sources: [aga-2018-functional-gi-symptoms-ibd, acg-2025-crohns, aga-2017-crohns-after-surgical-resection, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia]
+updated: 2026-11-11
+sources: [asge-2025-ibd-endoscopy-consensus, aga-2018-functional-gi-symptoms-ibd, acg-2025-crohns, aga-2017-crohns-after-surgical-resection, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia]
 ---
 
 Crohn's disease (CD): idiopathic transmural, granulomatous [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] of any gastrointestinal (GI) segment, mouth to anus — discontinuous skip lesions; progressive course toward stricture, fistula, abscess and surgery.
@@ -121,8 +121,9 @@ No single test — integrate:
 - **[[ibd-endoscopic-scoring|Simple Endoscopic Score for Crohn's Disease (SES-CD)]]:** **0–2** remission · **3–6** mild (aphthae <10% of surface; erythema/edema <50%) · **7–15** moderate (erosions/superficial ulcers 10–30%) · **>15** severe (ulcers **>2 cm**).
   - **Severe endoscopic lesions:** large, confluent, **deep** ulcers covering **>10% of ≥1 segment** — more refractory, especially ileum and rectum.
 - [[ibd-endoscopic-scoring|Rutgeerts score]] at the neoterminal ileum after resection.
-- **[[upper-endoscopy|Upper endoscopy]]** only for upper-GI symptoms.
-- **[[capsule-endoscopy|Capsule endoscopy]]** for suspected isolated small-bowel disease (negative predictive value 96%) — **patency capsule/imaging first** if obstructive symptoms or known stricture.
+- **[[upper-endoscopy|Upper endoscopy]]** only for upper-GI symptoms (dyspepsia, dysphagia, epigastric pain) in **adults** — raises diagnostic yield and identifies alternative diagnoses. **In children, for *all* suspected CD**, since upper-GI CD (Montreal **L4**) is commoner in pediatric than adult disease ([[asge-2025-ibd-endoscopy-consensus]]).
+- **[[capsule-endoscopy|Capsule endoscopy]]** for suspected isolated small-bowel disease (negative predictive value 96%) — **patency capsule/imaging first** if obstructive symptoms or known stricture. Retention rates and the patency-capsule rule: [[capsule-endoscopy]].
+- **Index biopsy sites, density and timing** (4 sets + every reachable stricture, before starting therapy): [[inflammatory-bowel-disease#Index Endoscopy and Biopsy Protocol]].
 
 ### Cross-Sectional Imaging
 
@@ -238,7 +239,11 @@ By patient profile ([[acg-2025-crohns]] KC 55):
 | Nonsmoker **with penetrating disease**, no prior resection, no prior medication | **Thiopurines ± metronidazole**, colonoscopy at **6 months**; endoscopic recurrence at **[[ibd-endoscopic-scoring\|Rutgeerts]] i2b or higher → add [[anti-tnf-agents\|anti-TNF]]** |
 | **Prior resection within a 10-year period** | **Postoperative anti-TNF** |
 
-**4 — Colonoscopy at 6–12 months** (neoterminal ileum): **Strong**/Moderate if **unprotected** (endoscopic recurrence up to 90% at 1 y); Conditional/Moderate if on prophylaxis. Later interval not established.
+**4 — Colonoscopy at 6–12 months** (neoterminal ileum): **Strong**/Moderate if **unprotected** (endoscopic recurrence up to 90% at 1 y); Conditional/Moderate if on prophylaxis.
+
+- The 6–12 mo clock also starts at **stoma closure** in patients who had a temporary ileostomy, not only at the resection ([[asge-2025-ibd-endoscopy-consensus]]). Basis: a randomized trial where ileocolonoscopy as early as 6 mo beat standard practice (an 18-mo exam with no 6-mo exam) on clinical outcomes.
+- **After the index postoperative exam, 1–3 y is reasonable** — set by disease activity, fecal calprotectin, and whether [[intestinal-ultrasound|IUS]] was used. ASGE 2025 states the interval is not certain; no ingested source fixes it ([[asge-2025-ibd-endoscopy-consensus]]).
+- **Temporary fecal diversion:** before stoma closure, do an **ileoscopy through the stoma and pass the scope beyond the level of the fascia** — the segment between stoma and fascia carries ulcers, strictures and fistulas from mechanical or ischemic causes that are **not** recurrent CD. Fecal calprotectin from ileostomy output is an alternative predictor of small-bowel disease ([[asge-2025-ibd-endoscopy-consensus]]; stoma care on [[ostomy-management]]). Surveillance ileoscopy every 1–3 y in **permanent** diversion **failed to reach consensus**.
 
 **5 — Asymptomatic endoscopic recurrence:** start/optimize anti-TNF and/or thiopurine (Conditional/Moderate); thiopurine alone may suit **i2**; recurrence **on a thiopurine → add anti-TNF**.
 
@@ -255,8 +260,13 @@ By patient profile ([[acg-2025-crohns]] KC 55):
 | Length | **<4–5 cm** | **>4–5 cm** |
 | Number | Any reachable | **>4** |
 | Risk factors (fistulizing disease · prestenotic dilation >5 cm · high CRP · prior anti-TNF) | **<3** | **≥3** |
+| Recurrence | — | Needing endotherapy **more often than every 3–6 months** ([[asge-2025-ibd-endoscopy-consensus]]) |
+| Complexity | Simple | **Fistula- or abscess-associated**, or refractory to prior intervention ([[asge-2025-ibd-endoscopy-consensus]]) |
 
-- **Absolute contraindications:** deep ulcers or a fistula at the stricture.
+- **Absolute contraindications:** deep ulcers or a fistula at the stricture (ASGE 2025 agrees: avoid dilating **deeply ulcerated** strictures, though it notes the bleeding/perforation association is unconfirmed).
+- **Biopsy every colonic, rectal and anorectal CD stricture** at the index colonoscopy and **every 1–3 y** thereafter to rule out malignancy — colitis-associated cancer is often found **within** a stricture, more often a primary than an anastomotic one, and a stricture obscures dysplasia ([[asge-2025-ibd-endoscopy-consensus]]). Crohn's colitis carries a CRC risk comparable to UC.
+- **Report outcomes as reintervention-free and surgery-free survival**, plus the procedure's adverse events (bleeding, perforation, ileus/aspiration). There is **no agreed definition of short-term technical success** — the proposal to define it as passage of a pediatric colonoscope failed consensus ([[asge-2025-ibd-endoscopy-consensus]]).
+- **Treating an asymptomatic stricture has no agreed position:** the statement permitting endotherapy regardless of symptoms failed consensus. The argument for it — symptoms correlate poorly with objective findings, and an untreated stricture can progress to prestenotic dilation, obstruction, fistula or resection — is laid out without being endorsed ([[asge-2025-ibd-endoscopy-consensus]]).
 - **Failure predictors:** length >4–5 cm (surgery risk ↑ ~8%/cm), high body mass index, proximal small bowel, prestenotic dilation >5 cm, de novo (non-anastomotic) stricture.
 - **Durability:** ~50% symptomatic recurrence; ⅔ eventually need repeat dilation or surgery.
 
@@ -266,7 +276,10 @@ By patient profile ([[acg-2025-crohns]] KC 55):
 > 3. Graded dilation, deflating between expansions; **retrograde** if the scope traverses the stricture.
 > 4. Reassess after each step — perforation can occur even with small balloons. No intralesional steroids. ([[aga-2026-therapeutic-endoscopy-ibd]])
 
-- Alternatives: stricturotomy, fully covered metal stent (migration). **Fistulas:** optimize medical therapy, prioritize drainage over closure; disease-associated fistulas rarely close endoscopically (anastomotic-leak fistulas may). Visible dysplasia → [[endoscopic-mucosal-resection|endoscopic mucosal resection]]/[[endoscopic-submucosal-dissection|submucosal dissection]] (criteria on [[ulcerative-colitis#Colorectal Cancer Surveillance]]).
+- Alternatives: stricturotomy, fully covered metal stent (migration).
+  - ⚠ **Stents are an open disagreement between two current tier-1 documents.** [[asge-2025-ibd-endoscopy-consensus|ASGE 2025]] states endoscopic stents **should not be used** for benign disease-associated or anastomotic strictures in pre- or postoperative CD or UC (a randomized controlled trial of self-expandable metal stents failed to beat EBD on efficacy or safety). [[aga-2026-therapeutic-endoscopy-ibd|AGA 2026]] keeps a fully covered stent as an option after failed dilation. **AGA 2026 is newer and governs this page**; reserve a stent for the post-dilation-failure situation it describes, and expect ASGE's panel to disagree.
+- **Inflammatory (post-inflammatory) polyps:** large (**>1 cm**) ones **may be removed** to relieve bleeding, obstruction and anemia, even though their own dysplasia risk is low; their *presence* is a marker of neoplasia risk (odds ratio **2.54**, 95% CI 1.40–4.60) ([[asge-2025-ibd-endoscopy-consensus]]). Surveillance handling of pseudopolyps: [[ulcerative-colitis#Colorectal Cancer Surveillance]].
+- **Fistulas:** optimize medical therapy, prioritize drainage over closure; disease-associated fistulas rarely close endoscopically (anastomotic-leak fistulas may). Visible dysplasia → [[endoscopic-mucosal-resection|endoscopic mucosal resection]]/[[endoscopic-submucosal-dissection|submucosal dissection]] (criteria on [[ulcerative-colitis#Colorectal Cancer Surveillance]]).
 
 ---
 
@@ -344,3 +357,4 @@ By patient profile ([[acg-2025-crohns]] KC 55):
 13. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review (2024)]]
 14. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
 15. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease: Expert Review]]
+16. [[asge-2025-ibd-endoscopy-consensus|Endoscopic diagnosis and management of adult inflammatory bowel disease: a consensus document from the American Society for Gastrointestinal Endoscopy IBD Endoscopy Consensus Panel (2025)]]

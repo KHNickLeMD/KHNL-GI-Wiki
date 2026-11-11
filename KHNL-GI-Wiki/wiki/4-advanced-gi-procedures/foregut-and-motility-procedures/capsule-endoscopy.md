@@ -3,8 +3,8 @@ title: "Capsule Endoscopy (Video Capsule Endoscopy)"
 category: advanced-procedure
 tags: [capsule-endoscopy, vce, small-bowel, gi-bleeding, crohns-disease, iron-deficiency-anemia, patency-capsule]
 created: 2026-05-19
-updated: 2026-10-28
-sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, acg-2025-crohns, aga-2022-hamartomatous-polyposis, asge-2020-fap, aga-2018-barretts-screening-techniques, gralnek-2008-lewis-score]
+updated: 2026-11-11
+sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, acg-2025-crohns, aga-2022-hamartomatous-polyposis, asge-2020-fap, aga-2018-barretts-screening-techniques, gralnek-2008-lewis-score, asge-2025-ibd-endoscopy-consensus]
 ---
 
 ## Contents
@@ -138,8 +138,12 @@ Predictors of a positive capsule study ([[acg-2015-small-bowel-bleeding]]):
 | Evaluation for potential small-bowel bleeding | **~1.5%** ([[acg-2015-small-bowel-bleeding]]); **1.4%** in one large study ([[asge-2017-small-bowel-bleeding]]) |
 | **Crohn's disease** | **up to 13%** ([[acg-2015-small-bowel-bleeding]]) |
 | **Suspected** Crohn's disease | **0%–5.4%**, higher in **known** CD ([[acg-2025-crohns]]) |
+| CD, pooled analysis — **overall** | **3.32%** (95% CI 2.62–4.2) ([[asge-2025-ibd-endoscopy-consensus]]) |
+| CD, pooled — **suspected** vs **established** | **2.35%** (1.31–4.19) vs **4.63%** (3.42–6.25) ([[asge-2025-ibd-endoscopy-consensus]]) |
+| CD, pooled — **adult** vs **pediatric** | **3.49%** vs **1.64%** ([[asge-2025-ibd-endoscopy-consensus]]) |
 
 - Retention risk **limits use in suspected obstruction or strictures until patency is documented.**
+- **In suspected small-bowel CD, do capsule endoscopy only *after* a passed patency capsule**, only in patients **without obstructive symptoms**, and only when ileocolonoscopy and/or small-bowel imaging (CT enterography, magnetic resonance enterography or [[intestinal-ultrasound|intestinal ultrasound]]) is **inconclusive** ([[asge-2025-ibd-endoscopy-consensus]]). The same consensus **could not agree** on using push or device-assisted enteroscopy in that situation ([[device-assisted-enteroscopy]]).
 - **Screening small-bowel radiographs have not eliminated the problem; the patency capsule may be useful.** ([[acg-2015-small-bowel-bleeding]])
 - A **failed patency capsule study** is itself associated with **worse long-term clinical outcomes** than successful passage, regardless of CD phenotype. ([[acg-2025-crohns]])
 - In FAP, CE can be performed successfully even after prior bowel surgery, though **capsule retention in the pouch** has been reported. ([[asge-2020-fap]])
@@ -153,7 +157,7 @@ Predictors of a positive capsule study ([[acg-2015-small-bowel-bleeding]]):
 
 ## See Also
 
-[[small-bowel-bleeding]], [[crohns-disease]], [[iron-deficiency-anemia]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[device-assisted-enteroscopy]], [[polypectomy]], [[upper-endoscopy]], [[colonoscopy]], [[angioectasia]], [[small-bowel-motility]], [[barretts-esophagus]], [[esophageal-stricture]]
+[[small-bowel-bleeding]], [[crohns-disease]], [[iron-deficiency-anemia]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[device-assisted-enteroscopy]], [[polypectomy]], [[upper-endoscopy]], [[colonoscopy]], [[angioectasia]], [[small-bowel-motility]], [[barretts-esophagus]], [[esophageal-stricture]], [[intestinal-ultrasound]]
 
 ---
 
@@ -166,3 +170,4 @@ Predictors of a positive capsule study ([[acg-2015-small-bowel-bleeding]]):
 5. [[asge-2020-fap|ASGE Guideline: The Role of Endoscopy in Familial Adenomatous Polyposis Syndromes (2020)]]
 6. [[aga-2018-barretts-screening-techniques|AGA Clinical Practice Update: New Screening Techniques in Barrett's Esophagus — Great Ideas or Great Practice? (2018)]]
 7. [[gralnek-2008-lewis-score|Development of a Capsule Endoscopy Scoring Index for Small Bowel Mucosal Inflammatory Change (Lewis Score, 2008)]]
+8. [[asge-2025-ibd-endoscopy-consensus|Endoscopic diagnosis and management of adult inflammatory bowel disease: a consensus document from the American Society for Gastrointestinal Endoscopy IBD Endoscopy Consensus Panel (2025)]]

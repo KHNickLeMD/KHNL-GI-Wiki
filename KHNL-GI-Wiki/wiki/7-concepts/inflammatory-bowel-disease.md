@@ -3,8 +3,8 @@ title: "Inflammatory Bowel Disease (IBD) — Overview"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, biologic, immunotherapy]
 created: 2026-05-16
-updated: 2026-11-02
-sources: [aga-2026-inpatient-ibd, aga-2018-functional-gi-symptoms-ibd, aga-2018-psychogastroenterology, aga-2020-ibd-covid-19]
+updated: 2026-11-11
+sources: [aga-2026-inpatient-ibd, aga-2018-functional-gi-symptoms-ibd, aga-2018-psychogastroenterology, aga-2020-ibd-covid-19, asge-2025-ibd-endoscopy-consensus]
 ---
 
 ## Overview
@@ -18,6 +18,7 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 | Topic | Page |
 |---|---|
 | Disease-specific diagnosis and therapy | [[crohns-disease]], [[ulcerative-colitis]] |
+| Index endoscopy indication, biopsy sites/density/timing | [[#Index Endoscopy and Biopsy Protocol]] (below) |
 | UC vs CD distinguishing features | [[uc-vs-crohns-comparison]] |
 | Endoscopic activity scoring (Mayo Endoscopic Subscore [MES], Ulcerative Colitis Endoscopic Index of Severity [UCEIS], Simple Endoscopic Score for Crohn's Disease [SES-CD], Rutgeerts) | [[ibd-endoscopic-scoring]] |
 | Vaccination, cancer screening, bone/mental health in the cancer-free patient | [[ibd-preventive-care]] |
@@ -33,6 +34,28 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 | Virtual follow-up, visit-type selection, remote monitoring | [[telemedicine-in-gastroenterology]] |
 | Immunomodulator positioning, dosing, thiopurine methyltransferase (TPMT)/NUDT15 testing | [[thiopurines]] |
 | Thiopurine / methotrexate hepatotoxicity | [[drug-induced-liver-injury]] |
+
+## Index Endoscopy and Biopsy Protocol
+
+*Cross-cutting rules from [[asge-2025-ibd-endoscopy-consensus|ASGE 2025 IBD Endoscopy Consensus]] — a **modified Delphi consensus with no evidence grades**; each statement carries only a panel agreement percentage. Disease-specific endoscopic findings stay on [[crohns-disease]] and [[ulcerative-colitis]].*
+
+- **Indication:** ileocolonoscopy in every patient with chronic diarrhea (**>4–6 wk**), persistent bleeding, new or unexplained anemia, weight loss, growth failure in children, or other alarming presentation. **Ileocolonoscopy with biopsy sampling is required for the diagnosis** of both CD and UC.
+- **Index biopsy set — at least 4 sets, one each from:** terminal ileum, right colon, left colon, rectum — **plus biopsies of every endoscopically reachable stricture.**
+- **Timing: biopsy before starting medical therapy.** Treated UC becomes patchy in about **one-third** of patients, which defeats extent assessment and CD-vs-UC separation.
+- **Density: 3 samples per region of interest is the minimum** needed to overcome microscopic heterogeneity and grade inflammation accurately in active colitis.
+- **Where to aim:** strictures, representative nodular and inflamed mucosa, and **the edge of an ulcer**. Endoscopically normal ileum and colon may also be sampled.
+- **Hold inflammation-inducing drugs,** [[nsaid-enteropathy|NSAIDs]] in particular, before a diagnostic ileocolonoscopy. A **4-week** hold specifically **failed to reach consensus** — so does the preference for polyethylene glycol over sodium phosphate preparation, despite the synopsis citing endoscopic mucosal lesions in 3.3% of a 730-patient sodium-phosphate series.
+- **Document a bowel preparation score** for diagnostic and therapeutic IBD endoscopy ([[bowel-preparation]]).
+- **Around the index exam:** CT enterography or magnetic resonance enterography to verify diagnosis, assess extent and look for stricture and fistula. [[intestinal-ultrasound|Intestinal ultrasound (IUS)]] "can be considered, where available" — the stronger statement encouraging onsite IUS **failed consensus**.
+
+> [!pearl] Three histologic findings that settle an ambiguous biopsy
+> **Paneth cell metaplasia** distal to the splenic flexure marks chronic injury in CD or UC — it appears in only **0%–1.9%** of non-IBD distal colon (infectious, ischemic, prolapse). **Pyloric gland metaplasia** with severe active inflammation or crypt distortion in small-bowel mucosa, in a young patient with no prior bowel surgery, is strongly indicative of CD. Absence of granulomas never excludes CD — they appear in only **9%–67%** of patients ([[asge-2025-ibd-endoscopy-consensus]]).
+
+> [!pitfall] Two mimics are diagnosed by *where* you biopsy
+> [[segmental-colitis-associated-with-diverticulosis|Segmental colitis associated with diverticulosis]] spares the rectum → **biopsy the rectum** to separate it from IBD. Solitary rectal ulcer syndrome, rectal prolapse and rectocele inflame the distal rectum, preferentially the **anterior wall** → biopsy there ([[asge-2025-ibd-endoscopy-consensus]]).
+
+- **Monitoring after a therapy change:** flexible sigmoidoscopy, colonoscopy or ileocolonoscopy **with** clinical and laboratory biomarkers; interval and modality depend on IBD type, the drug's mechanism of action, and the response. Use a formal activity index — SES-CD for CD, Mayo for UC, Rutgeerts for postoperative CD ([[ibd-endoscopic-scoring]]).
+- **Endoscopic mucosal healing without histologic healing is sufficient to continue the current therapy** — endoscopic remission in the absence of histologic remission is **not** a treatment failure, and histologic healing is not yet a target in any guideline ([[treat-to-target-ibd]]).
 
 ## Inpatient Management of Hospitalized IBD
 
@@ -167,7 +190,7 @@ Therapy is borrowed from IBS — the Update notes "a paucity of randomized contr
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[thiopurines]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[ibd-in-malignancy]], [[nutrition-in-ibd]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[disorders-of-gut-brain-interaction]], [[drug-induced-liver-injury]], [[nutrition-in-hospitalized-patients]], [[colorectal-cancer]], [[pouchitis]], [[uc-vs-crohns-comparison]], [[probiotics]], [[anticoagulation-gi-bleeding]], [[anal-cancer-screening]], [[colonoscopy]], [[calcineurin-inhibitors]], [[jak-inhibitors]], [[ibd-in-older-adults]], [[irritable-bowel-syndrome]], [[low-fodmap-diet]], [[bile-acid-diarrhea]], [[small-intestinal-bacterial-overgrowth]], [[exocrine-pancreatic-insufficiency]], [[defecation-disorders]], [[chronic-constipation]], [[celiac-disease]], [[fmt]], [[loperamide]], [[brain-gut-behavioral-therapy]]
+[[crohns-disease]], [[ulcerative-colitis]], [[thiopurines]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[ibd-in-malignancy]], [[nutrition-in-ibd]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[disorders-of-gut-brain-interaction]], [[drug-induced-liver-injury]], [[nutrition-in-hospitalized-patients]], [[colorectal-cancer]], [[pouchitis]], [[uc-vs-crohns-comparison]], [[probiotics]], [[anticoagulation-gi-bleeding]], [[anal-cancer-screening]], [[colonoscopy]], [[calcineurin-inhibitors]], [[jak-inhibitors]], [[ibd-in-older-adults]], [[irritable-bowel-syndrome]], [[low-fodmap-diet]], [[bile-acid-diarrhea]], [[small-intestinal-bacterial-overgrowth]], [[exocrine-pancreatic-insufficiency]], [[defecation-disorders]], [[chronic-constipation]], [[celiac-disease]], [[fmt]], [[loperamide]], [[brain-gut-behavioral-therapy]], [[bowel-preparation]], [[nsaid-enteropathy]], [[segmental-colitis-associated-with-diverticulosis]], [[treat-to-target-ibd]], [[capsule-endoscopy]]
 
 ---
 
@@ -177,3 +200,4 @@ Therapy is borrowed from IBS — the Update notes "a paucity of randomized contr
 2. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease: Expert Review]]
 3. [[aga-2018-psychogastroenterology|Best Practice Update: Incorporating Psychogastroenterology Into Management of Digestive Disorders]]
 4. [[aga-2020-ibd-covid-19|AGA Clinical Practice Update on Management of Inflammatory Bowel Disease During the COVID-19 Pandemic: Expert Commentary]]
+5. [[asge-2025-ibd-endoscopy-consensus|Endoscopic diagnosis and management of adult inflammatory bowel disease: a consensus document from the American Society for Gastrointestinal Endoscopy IBD Endoscopy Consensus Panel (2025)]]

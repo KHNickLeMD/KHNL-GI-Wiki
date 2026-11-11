@@ -3,8 +3,8 @@ title: "Pouchitis"
 category: disease-script
 tags: [pouchitis, ipaa, j-pouch, ulcerative-colitis, ibd, cuffitis, crohns-like-disease-of-the-pouch, antibiotics, probiotics, biologics]
 created: 2026-06-04
-updated: 2026-11-10
-sources: [aga-2024-pouchitis, aga-2020-probiotics, aga-2020-probiotics-technical-review, asge-2015-ibd, aga-2024-fmt, aga-2026-cdiff-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia]
+updated: 2026-11-11
+sources: [asge-2025-ibd-endoscopy-consensus, aga-2024-pouchitis, aga-2020-probiotics, aga-2020-probiotics-technical-review, asge-2015-ibd, aga-2024-fmt, aga-2026-cdiff-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia]
 ---
 
 Pouchitis is non-specific inflammation of the ileal pouch reservoir — the most common complication after restorative proctocolectomy with **ileal pouch–anal anastomosis (IPAA, "J-pouch")** for [[ulcerative-colitis|ulcerative colitis]]. The [[aga-2024-pouchitis|American Gastroenterological Association (AGA) 2024 guideline]] frames management by clinical pattern (intermittent → chronic antibiotic-dependent → chronic antibiotic-refractory) plus two related inflammatory pouch disorders: Crohn's-like disease of the pouch and cuffitis. [[aga-2024-pouchitis]]
@@ -76,8 +76,20 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 - Targeted workup when refractory: stool studies (incl. *C. difficile*), CMV on biopsy, cross-sectional/contrast imaging or examination under anesthesia (EUA) for suspected stricture/fistula.
 - ***C. difficile* in the pouch is not a rarity — test for it.** [[aga-2026-cdiff-ibd|AGA 2026]] advises actively considering and treating Clostridioides difficile infection (CDI) in any patient with an **ileo-anal pouch or [[ostomy-management|end ileostomy]]** whose diarrhea/pouch output worsens; CDI has been detected in **10%–18%** of IPAA patients. Use a **multistep toxin-based assay** (nucleic acid amplification test (NAAT) alone over-diagnoses colonization), prefer **[[cdiff-antibiotics|fidaxomicin]]**, and **retest if diarrhea recurs** after successful treatment. Full pathway: [[clostridioides-difficile]].
 - **Endoscopic + histologic assessment of the pouch and afferent limb is recommended in symptomatic patients** ([[asge-2015-ibd]]).
+- **Report the five landmarks every time** — prepouch ileum, **inlet**, pouch body, **anastomosis**, cuff — and their diseased state; the anatomic location is what separates structural, inflammatory and neoplastic disorders. Biopsy prepouch ileum, pouch body and rectal cuff: this grades severity and uncovers superimposed CMV infection, ischemia, Crohn's disease of the pouch and prolapse ([[asge-2025-ibd-endoscopy-consensus]]).
+- Endoscopic scoring of pouch inflammation **varies greatly between observers**, but **documenting ulceration and ulcerated surface area in the pouch body is consistent** — record it even if you skip a formal index ([[asge-2025-ibd-endoscopy-consensus]]).
 - **Pouch neoplasia surveillance** (beyond AGA 2024 scope; [[asge-2015-ibd]]): highest-risk patients — **prior colorectal dysplasia or [[colorectal-cancer|cancer]]** — considered for **annual pouchoscopy** with biopsies taken **proximally (within the pouch) and distally (anal transition zone)**. [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]], refractory pouchitis, and type C (atrophic, severely inflamed) pouch mucosa may also warrant surveillance.
   - **[[aga-2021-ibd-colorectal-dysplasia|AGA 2021]] states the same rule with its risk numbers:** survey **at least annually** in those at high risk — **prior colorectal cancer or dysplasia, or PSC** — and also in those with **persistent moderate-to-severe pouchitis and/or pre-pouch ileitis** (to assess treatment response). **Individualize the interval in lower-risk patients.** Meta-analysis: prior colorectal **dysplasia → 4.4×** and prior **colorectal cancer (CRC) → 15.0×** increased risk of pouch cancer. ⚠ **Without risk factors the cumulative incidence of pouch and cuff cancer is 3.4% at 25 years — lower than lifetime CRC risk in the general population**; American Society for Gastrointestinal Endoscopy (ASGE), British Society of Gastroenterology (BSG) and European Crohn's and Colitis Organisation (ECCO) recommend annual surveillance only for the high-risk groups and persistent pouchitis / type C mucosa, and **BSG suggests every 5 years for those without risk factors**.
+  - **[[asge-2025-ibd-endoscopy-consensus|ASGE 2025]] (newest) turns this into three explicit strata** — a modified-Delphi consensus, so no evidence grades:
+
+| Risk | Who | Pouchoscopy interval |
+|---|---|---|
+| **High** | **Precolectomy colitis-associated neoplasia** — the only *established* risk factor | **Yearly** |
+| **Moderate** | PSC · chronic pouchitis · Crohn's-like disease of the pouch · chronic cuffitis · family history of CRC | **1–3 y** |
+| **Average** | Everyone else | **3 y** |
+
+  - ⚠ **This moves PSC out of the annual tier.** ASGE 2015 and AGA 2021 both put **PSC alongside prior colorectal dysplasia/cancer at annual** pouchoscopy; ASGE 2025 keeps **only precolectomy neoplasia** annual and drops PSC, chronic pouchitis, Crohn's-like pouch disease and chronic cuffitis to **1–3 y**. ASGE 2025 is the newest same-tier document and **governs the interval here**; the annual option remains defensible in a PSC patient with other risk factors. (Surveillance of the *colon* in PSC-IBD is unaffected and stays annual — [[primary-sclerosing-cholangitis]].)
+  - **None of the moderate-risk factors is statistically confirmed** — the panel says so explicitly (sample-size limits). Pouch-cancer prognosis is poor: 6 of 14 patients (**42.9%**) in one series died at a median 2.1 y. **Pouch neoplasia mostly arises in the cuff or anal transition zone, so sample both** ([[asge-2025-ibd-endoscopy-consensus]]).
   - Broader inflammatory bowel disease (IBD) dysplasia surveillance intervals and technique: [[ulcerative-colitis]] and [[colonoscopy]].
 
 ---
@@ -183,3 +195,4 @@ All 13 AGA 2024 statements (9 actionable conditional recommendations + 4 "no rec
 6. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review (2026)]]
 7. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary (2026)]]
 8. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
+9. [[asge-2025-ibd-endoscopy-consensus|Endoscopic diagnosis and management of adult inflammatory bowel disease: a consensus document from the American Society for Gastrointestinal Endoscopy IBD Endoscopy Consensus Panel (2025)]]

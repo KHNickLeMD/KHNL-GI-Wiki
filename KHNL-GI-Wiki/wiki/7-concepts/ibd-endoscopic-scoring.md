@@ -3,8 +3,8 @@ title: "IBD Endoscopic Scoring Indices"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, endoscopy, scoring, mayo-endoscopic-score, uceis, ses-cd, cdeis, rutgeerts-score]
 created: 2026-07-23
-updated: 2026-10-28
-sources: [asge-acg-2024-colonoscopy-quality-indicators, aga-2024-ibd-endoscopic-scoring, aga-2017-crohns-after-surgical-resection, narula-2022-mm-ses-cd-categories]
+updated: 2026-11-11
+sources: [asge-acg-2024-colonoscopy-quality-indicators, aga-2024-ibd-endoscopic-scoring, aga-2017-crohns-after-surgical-resection, narula-2022-mm-ses-cd-categories, asge-2025-ibd-endoscopy-consensus]
 ---
 
 Standardized endoscopic scoring indices for [[ulcerative-colitis|ulcerative colitis (UC)]] (Mayo Endoscopic Subscore [MES], Ulcerative Colitis Endoscopic Index of Severity [UCEIS]) and [[crohns-disease|Crohn's disease (CD)]] (Crohn's Disease Endoscopic Index of Severity [CDEIS], Simple Endoscopic Score for Crohn's Disease [SES-CD], modified Rutgeerts), per the American Gastroenterological Association (AGA) 2024 Clinical Practice Update. They provide objectivity and uniformity of mucosal reporting and are advised for assessing prognosis and treatment efficacy.
@@ -51,8 +51,10 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis|ulcerative coli
 |---|---|---|
 | **0** | Normal / inactive | — |
 | **1** | Mild | Erythema, decreased vascular pattern, mild friability |
-| **2** | Moderate | Marked erythema, absent vascular pattern, moderate friability, erosions |
+| **2** | Moderate | Marked erythema, absent vascular pattern, moderate friability, erosions — **granularity but no ulceration** |
 | **3** | Severe | Spontaneous bleeding, ulcerations |
+
+- **Ulceration is the line between MES 2 and 3.** ASGE 2025's figure legend makes it explicit: MES 2 = marked erythema, absent vascular markings, granularity, **no ulceration**; MES 3 adds friability, spontaneous luminal bleeding and ulcerations ([[asge-2025-ibd-endoscopy-consensus]]).
 
 - **ACT-1/ACT-2 ([[anti-tnf-agents|infliximab]]):** mucosal healing by **MES 0 or 1 at week 8** was associated with a significantly lower colectomy rate beyond 54 weeks.
 - Trial cutoffs (improvement, response, remission) are consolidated in [[#Response and Remission Cutoffs]].
@@ -97,12 +99,12 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis|ulcerative coli
 
 | Variable | 0 | 1 | 2 | 3 |
 |---|---|---|---|---|
-| **Ulcers** (size) | Absent | 0.1–0.5 cm | Larger than 2 cm *(as printed)* | *[level missing as printed]* |
+| **Ulcers** (size) | Absent | Aphthous, **0.1–0.5 cm** | Large, **0.5–2 cm** | Very large, **>2 cm** |
 | **Ulcerated surface** | None | <10% of segment | 10–20% of segment | >30% of segment |
 | **Affected surface** | None | <50% of segment | 50–75% of segment | >75% of segment |
 | **Narrowing** | None | Single, passable by scope | Multiple, passable by scope | Not passable |
 
-> ⚠ **Table 2 as published is internally incomplete.** Verbatim: *"Ulcers: 0 if absent, 1 if between 0.1–0.5 cm, 2 if larger than 2 cm"* — only 3 of the 4 levels are printed, the 0.5–2 cm band is absent, and ">2 cm" carries **2 points, not 3**, as published. The **Ulcerated surface** row jumps from "10–20%" (2) to ">30%" (3), leaving 20–30% unassigned. The four variables are stated elsewhere in the same source to be scored **0–3 in the same 5 ileocolonic segments**, so a level is missing as printed. Reproduced as published; the missing bands are not filled in here.
+> ⚠ **The ulcer-size row above is taken from [[asge-2025-ibd-endoscopy-consensus|ASGE 2025]] Figure 1, which prints all four bands with an endoscopic image of each.** [[aga-2024-ibd-endoscopic-scoring|AGA 2024]] prints only three levels — *"0 if absent, 1 if between 0.1–0.5 cm, 2 if larger than 2 cm"* — omitting the 0.5–2 cm band and assigning >2 cm **2 points instead of 3**. ASGE 2025 is the complete and internally consistent version and governs here; the AGA wording appears to be a misprint. The **Ulcerated surface** row still jumps from "10–20%" (2) to ">30%" (3), leaving 20%–30% unassigned in both documents — not filled in here.
 
 - **Stricture localization rules (novel simplified CD score):** strictures confined to the **ileocecal valve are counted in the ileum score**; **non-intubation of the ileum without stricture** is scored "not assessed"; **every stricture should be scored before endoscopic therapeutic management**.
 - **Reliability (central reading):** intraobserver ICC 0.91 (95% CI 0.87–0.94); interobserver ICC 0.83 (95% CI 0.75–0.89).
@@ -200,3 +202,4 @@ Plus **number of segments with ulcerations × 4** (max 5 segments → 20).
 2. [[aga-2017-crohns-after-surgical-resection|AGA Institute Guideline on the Management of Crohn's Disease After Surgical Resection (2017)]]
 3. [[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators for Colonoscopy]]
 4. [[narula-2022-mm-ses-cd-categories|Categorising Endoscopic Severity of Crohn's Disease Using the Modified Multiplier SES-CD (MM-SES-CD, 2022)]]
+5. [[asge-2025-ibd-endoscopy-consensus|Endoscopic diagnosis and management of adult inflammatory bowel disease: a consensus document from the American Society for Gastrointestinal Endoscopy IBD Endoscopy Consensus Panel (2025)]]
