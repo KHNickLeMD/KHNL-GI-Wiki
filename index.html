@@ -3345,7 +3345,24 @@ function initMermaid() {
       el.textContent = src.replace(/\s*$/, '') + '\n    ' + ROLE_DEFS.join('\n    ') + '\n';
     }
   });
-  try { window.mermaid.run({ querySelector: '.mermaid:not([data-processed])' }); } catch (e) { console.warn('mermaid', e); }
+  // Render one block at a time with page-unique ids. mermaid.run() restarts its ids at mermaid-0 on every
+  // call, so overlapping initMermaid() calls drew a page's 2nd diagram into the 1st one's SVG (2026-11-11).
+  const els = [...document.querySelectorAll('.mermaid:not([data-processed])')];
+  els.forEach(el => el.setAttribute('data-processed', 'true'));
+  (async () => {
+    for (const el of els) {
+      const id = 'mmd' + (window._mmSeq = (window._mmSeq || 0) + 1);
+      try {
+        const { svg, bindFunctions } = await window.mermaid.render(id, el.textContent);
+        el.innerHTML = svg;
+        if (bindFunctions) bindFunctions(el);
+      } catch (e) {
+        console.warn('mermaid', e);
+        const stray = document.getElementById('d' + id);
+        if (stray) stray.remove();
+      }
+    }
+  })();
 }
 
 // ══════════════════════════════════════
