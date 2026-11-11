@@ -51,22 +51,35 @@ flowchart TD
     B -- "IHC abnormal:<br/>missing MLH1" --> H["MLH1 promoter methylation<br/>or BRAF"]
     B -- "IHC abnormal: missing<br/>PMS2 (and MLH1 present),<br/>MSH2, or MSH6" --> L["Germline genetic testing"]
     B -- "MSI high" --> L
-    H -- "MLH1 promoter hypermethylated<br/>or BRAF mutation present" --> K(["Likely sporadic colorectal cancer<br/>Consider other familial cancer syndromes"])
+    H -- "MLH1 promoter hypermethylated<br/>or BRAF mutation present" --> K(["Likely sporadic colorectal cancer<br/>Consider other familial<br/>cancer syndromes"])
     H -- "BRAF negative or MLH1<br/>promoter not hypermethylated" --> L
-    M(["Family history suggestive of<br/>Lynch syndrome, but:<br/>no personal history of cancer,<br/>no known family history of<br/>Lynch mutation, and<br/>tumor tissue from affected<br/>relative not available"]) --> N["Predictive model"]
-    N -- "> 5% probability" --> L
-    N -- "≤ 5% probability" --> T(["Consider other familial cancer syndromes"])
     L -- "Positive for Lynch mutation" --> S(["Colonoscopy every 1–2 years<br/>Consider aspirin<br/>Germline genetic testing<br/>for 1st-degree relatives"])
-    L -- "Negative" --> T
-    class A,M start
-    class B,H,L,N test
+    L -- "Negative" --> T(["Consider other familial<br/>cancer syndromes"])
+    class A start
+    class B,H,L test
     class S act
     class C,K,T stop
 ```
-*Lynch syndrome workup: new colorectal cancer (left) or suggestive family history (right)*
-*Source: redrawn from the AGA 2015 Lynch syndrome clinical decision support tool*
+*Lynch syndrome workup after any new colorectal cancer*
+*Source: redrawn from the AGA 2015 Lynch syndrome clinical decision support tool (left side)*
 *[[aga-2015-lynch-syndrome|AGA 2015 Lynch Syndrome Guideline]]*
 *MSI = microsatellite instability · IHC = immunohistochemistry · MLH1, MSH2, MSH6, PMS2 = DNA mismatch repair genes*
+
+```mermaid
+flowchart TD
+    M(["Family history suggestive<br/>of Lynch syndrome, but:<br/>no personal history of cancer,<br/>no known family history of<br/>Lynch mutation, and<br/>tumor tissue from affected<br/>relative not available"]) --> N["Predictive model"]
+    N -- "> 5% probability" --> L["Germline genetic testing"]
+    N -- "≤ 5% probability" --> T(["Consider other familial<br/>cancer syndromes"])
+    L -- "Positive for Lynch mutation" --> S(["Colonoscopy every 1–2 years<br/>Consider aspirin<br/>Germline genetic testing<br/>for 1st-degree relatives"])
+    L -- "Negative" --> T
+    class M start
+    class N,L test
+    class S act
+    class T stop
+```
+*Lynch syndrome workup from a suggestive family history alone*
+*Source: redrawn from the AGA 2015 Lynch syndrome clinical decision support tool (right side)*
+*[[aga-2015-lynch-syndrome|AGA 2015 Lynch Syndrome Guideline]]*
 
 **Shortcuts past the predictive model** [[aga-2015-lynch-syndrome]]:
 
