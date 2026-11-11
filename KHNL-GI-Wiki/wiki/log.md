@@ -6,6 +6,11 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-11] update | Lynch syndrome — flowchart redrawn in the new style
+
+- Converted the AGA clinical decision support tool flowchart on [[lynch-syndrome]] to the 2026-11-10 visual rules: role classes, results on arrows, straight lines, 4-line caption. 20 boxes → 10; wording kept verbatim and every box/arrow re-checked against AGA 2015 Figure 1 (raw PDF p. 779). Kept as one chart — it fits at readable size, matching the source's single figure.
+- BRAF left out of the abbreviation line: neither the page nor the source expands it.
+
 ## [2026-11-11] lint | Quality review — release sweep
 
 **Scope:** *Quality review (release sweep)* only, worked from `review-queue.py --pages 10` top-down, one subagent per page, budget-capped. No ingest, no new pages, no other LINT step. Queue before: 4/358 pages quality-reviewed; after: 9/358. Each page's tier-1 raw sources were re-read before editing; ACG/LWW PDFs were read directly rather than via `pdftotext`, which substitutes characters on them.

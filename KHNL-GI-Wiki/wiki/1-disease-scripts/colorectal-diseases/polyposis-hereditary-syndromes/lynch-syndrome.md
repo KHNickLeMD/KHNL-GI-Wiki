@@ -3,7 +3,7 @@ title: "Lynch Syndrome"
 category: disease-script
 tags: [lynch, hnpcc, mmr, msi, hereditary-crc, endometrial-cancer, oncology, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-11-03
+updated: 2026-11-11
 sources: [acg-2015-hereditary-gi-cancer, aga-2015-lynch-syndrome, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd, asge-2022-pancreatic-cancer-screening, nccn-2026-colon-cancer, aga-2020-young-adult-onset-crc]
 ---
 
@@ -46,29 +46,27 @@ Lynch syndrome (LS), formerly hereditary nonpolyposis [[colorectal-cancer|colore
 
 ```mermaid
 flowchart TD
-    A["Any new colorectal cancer"] --> B["Tumor testing for MSI or IHC"]
-    B --> C["Normal"]
-    B --> D["IHC abnormal"]
-    B --> E["MSI high"]
-    D --> F["Missing MLH1"]
-    D --> G["Missing PMS2 (and MLH1 present),<br/>MSH2, or MSH6"]
-    F --> H["MLH1 promoter methylation<br/>or BRAF"]
-    H --> I["MLH1 promoter hypermethylated<br/>or BRAF mutation present"]
-    H --> J["BRAF negative or<br/>MLH1 promoter not hypermethylated"]
-    I --> K["Likely sporadic colorectal cancer<br/>Consider other familial cancer syndromes"]
-    J --> L["Germline genetic testing"]
-    G --> L
-    E --> L
-    M["Family history suggestive of Lynch syndrome, but:<br/>no personal history of cancer,<br/>no known family history of Lynch mutation, and<br/>tumor tissue from affected relative not available"] --> N["Predictive model"]
-    N --> O["> 5% probability"]
-    N --> P["≤ 5% probability"]
-    O --> L
-    L --> Q["Positive for Lynch mutation"]
-    L --> R["Negative"]
-    Q --> S["Colonoscopy every 1–2 years<br/>Consider aspirin<br/>Germline genetic testing for 1st-degree relatives"]
-    R --> T["Consider other familial cancer syndromes"]
-    P --> T
+    A(["Any new colorectal cancer"]) --> B["Tumor testing for MSI or IHC"]
+    B --> C(["Normal"])
+    B -- "IHC abnormal:<br/>missing MLH1" --> H["MLH1 promoter methylation<br/>or BRAF"]
+    B -- "IHC abnormal: missing<br/>PMS2 (and MLH1 present),<br/>MSH2, or MSH6" --> L["Germline genetic testing"]
+    B -- "MSI high" --> L
+    H -- "MLH1 promoter hypermethylated<br/>or BRAF mutation present" --> K(["Likely sporadic colorectal cancer<br/>Consider other familial cancer syndromes"])
+    H -- "BRAF negative or MLH1<br/>promoter not hypermethylated" --> L
+    M(["Family history suggestive of<br/>Lynch syndrome, but:<br/>no personal history of cancer,<br/>no known family history of<br/>Lynch mutation, and<br/>tumor tissue from affected<br/>relative not available"]) --> N["Predictive model"]
+    N -- "> 5% probability" --> L
+    N -- "≤ 5% probability" --> T(["Consider other familial cancer syndromes"])
+    L -- "Positive for Lynch mutation" --> S(["Colonoscopy every 1–2 years<br/>Consider aspirin<br/>Germline genetic testing<br/>for 1st-degree relatives"])
+    L -- "Negative" --> T
+    class A,M start
+    class B,H,L,N test
+    class S act
+    class C,K,T stop
 ```
+*Lynch syndrome workup: new colorectal cancer (left) or suggestive family history (right)*
+*Source: redrawn from the AGA 2015 Lynch syndrome clinical decision support tool*
+*[[aga-2015-lynch-syndrome|AGA 2015 Lynch Syndrome Guideline]]*
+*MSI = microsatellite instability · IHC = immunohistochemistry · MLH1, MSH2, MSH6, PMS2 = DNA mismatch repair genes*
 
 **Shortcuts past the predictive model** [[aga-2015-lynch-syndrome]]:
 
