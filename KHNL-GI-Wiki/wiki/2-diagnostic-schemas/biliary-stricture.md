@@ -305,7 +305,7 @@ Biliary strictures are a common adverse outcome after [[liver-transplantation|li
 
 ## See Also
 
-[[chronic-pancreatitis]], [[acute-pancreatitis]], [[pancreatic-cancer]], [[cholangiocarcinoma]], [[gallbladder-cancer]], [[hepatocellular-carcinoma]], [[colorectal-cancer]], [[choledocholithiasis]], [[acute-cholangitis]], [[acute-cholecystitis]], [[jaundice]], [[abnormal-liver-chemistries]], [[ercp]], [[endoscopic-ultrasound]], [[eus-guided-biliary-drainage]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[primary-sclerosing-cholangitis]], [[portal-hypertension]], [[liver-transplantation]], [[mri-mrcp]], [[radiofrequency-ablation]], [[antibiotic-prophylaxis-endoscopy]], [[tacrolimus]]
+[[chronic-pancreatitis]], [[acute-pancreatitis]], [[pancreatic-cancer]], [[cholangiocarcinoma]], [[gallbladder-cancer]], [[hepatocellular-carcinoma]], [[colorectal-cancer]], [[choledocholithiasis]], [[acute-cholangitis]], [[acute-cholecystitis]], [[bile-duct-injury]], [[jaundice]], [[abnormal-liver-chemistries]], [[ercp]], [[endoscopic-ultrasound]], [[eus-guided-biliary-drainage]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[primary-sclerosing-cholangitis]], [[portal-hypertension]], [[liver-transplantation]], [[mri-mrcp]], [[radiofrequency-ablation]], [[antibiotic-prophylaxis-endoscopy]], [[tacrolimus]]
 
 ---
 

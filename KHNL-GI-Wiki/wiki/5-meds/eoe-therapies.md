@@ -3,8 +3,8 @@ title: "EoE Therapies (Topical Steroids, PPIs, Dupilumab, Diet)"
 category: med
 tags: [eoe, eosinophilic-esophagitis, topical-steroid, budesonide, fluticasone, dupilumab, ppi, dietary-elimination, biologic, esophageal]
 created: 2026-10-03
-updated: 2026-10-04
-sources: [acg-2025-eoe, aga-2020-eoe]
+updated: 2026-11-11
+sources: [acg-2025-eoe, asge-2026-eoe-endoscopic-management-part-2, aga-2020-eoe]
 ---
 
 Drug and diet therapy for [[eosinophilic-esophagitis|eosinophilic esophagitis (EoE)]] — formulations, doses, delivery, induction duration, response thresholds, maintenance, and safety. Disease definition, diagnosis, and the overall management algorithm live on [[eosinophilic-esophagitis]].
@@ -165,10 +165,26 @@ Monoclonal antibody against IL-4Rα; blocks the signaling of both interleukin-4 
 
 ## Assessing Response
 
+**The interval tracks each treatment's mechanism and onset** ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]], Statement 23):
+
 | Therapy started | First assessment |
 |---|---|
-| PPI, STC, or FED | **8–12 weeks** |
-| Dupilumab | **12–24 weeks** |
+| FED | **6–8 weeks** — clock starts when the diet starts, not at dietitian referral |
+| PPI | **8–12 weeks** |
+| STC | **8–12 weeks** |
+| Dupilumab | **up to 24 weeks** — earlier in more severe disease or frequent dilation; response has been shown before 24 weeks |
+
+- Diet: all domains improving but histologic response incomplete → **extend the initial course** rather than calling it a failure.
+
+**Switching therapy — let the old treatment wash out first**, or the new one gets credit for it ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]], Statement 25):
+
+| Prior treatment stopped | Recurrence off it | Next endoscopy on the new treatment |
+|---|---|---|
+| FED | histologic + endoscopic recurrence **within ≤4 weeks** of food reintroduction | 3–4 months |
+| PPI or STC | ~50% relapse at **90–120 days** | ~6 months (minimal symptoms, low impaction concern) |
+| Dupilumab | not directly studied; long steady-state half-life | 6–12 months (4–6 months' washout may be needed) |
+
+- **No washout if the prior treatment failed** — active EoE is already established, so start the clock on the new one.
 
 Assess all three domains at the same endoscopy — symptoms, endoscopic appearance, histology (ACG 2025, strong recommendation):
 
@@ -245,4 +261,5 @@ Assess all three domains at the same endoscopy — symptoms, endoscopic appearan
 ## Sources
 
 1. [[acg-2025-eoe|ACG 2025: Diagnosis and Management of Eosinophilic Esophagitis]]
-2. [[aga-2020-eoe|AGA/JTF Clinical Guideline: Management of Eosinophilic Esophagitis (2020)]]
+2. [[asge-2026-eoe-endoscopic-management-part-2|ASGE Consensus Recommendations on the Endoscopic Management of Eosinophilic Esophagitis — Part 2: Disease Assessment, Monitoring, and Pediatric Considerations (2026)]]
+3. [[aga-2020-eoe|AGA/JTF Clinical Guideline: Management of Eosinophilic Esophagitis (2020)]]

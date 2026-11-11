@@ -3,8 +3,8 @@ title: "Esophageal Dilation"
 category: general-procedure
 tags: [esophagus, dilation, stricture, dysphagia, eoe, bougie, balloon, endoscopy, perforation]
 created: 2026-10-04
-updated: 2026-11-01
-sources: [acg-2025-eoe, acg-2013-eoe, asge-2014-dysphagia, aga-2021-gi-perforations-endoscopic-management, asge-2015-antibiotic-prophylaxis, asge-2011-foreign-body-ingestion, acg-2025-egd-quality, aga-2022-personalized-gerd, acg-cag-2022-anticoag-gi-bleeding, afs-2023-transoral-incisionless-fundoplication]
+updated: 2026-11-11
+sources: [acg-2025-eoe, asge-2026-eoe-endoscopic-management-part-2, acg-2013-eoe, asge-2014-dysphagia, aga-2021-gi-perforations-endoscopic-management, asge-2015-antibiotic-prophylaxis, asge-2011-foreign-body-ingestion, acg-2025-egd-quality, aga-2022-personalized-gerd, acg-cag-2022-anticoag-gi-bleeding, afs-2023-transoral-incisionless-fundoplication]
 ---
 
 ## Contents
@@ -16,6 +16,8 @@ sources: [acg-2025-eoe, acg-2013-eoe, asge-2014-dysphagia, aga-2021-gi-perforati
   - [[#Wire-guided bougie and balloon mechanics]]
   - [[#EoE-specific approach]]
 - [[#Finding the Stricture]]
+  - [[#Detection]]
+  - [[#Establishing Esophageal Diameter]]
 - [[#Dilation Treats the Stricture, Not the Disease]]
 - [[#When Dilation Alone Is Not Enough]]
 - [[#Adverse Events]]
@@ -133,21 +135,43 @@ sources: [acg-2025-eoe, acg-2013-eoe, asge-2014-dysphagia, aga-2021-gi-perforati
 > Once a **mucosal rent, disruption, or laceration** is seen, **no further dilation in that session** ([[acg-2013-eoe]]).
 
 - No numeric increment per session or maximum number of dilator sizes is set by either ACG guideline.
-- ACG 2013 goal was **15–18 mm** (retrospective data, expert opinion), typically over **multiple sessions** ([[acg-2013-eoe]]); the 2025 ≥16 mm target is current.
+- ACG 2013 goal was **15–18 mm** (retrospective data, expert opinion), typically over **multiple sessions** ([[acg-2013-eoe]]); the 2025 ≥16 mm target is current (its Figure 3 gives 16–18 mm).
+- **Children: dilate a symptomatic stricture or narrow-caliber esophagus regardless of disease activity** — in the largest pediatric series (68 dilations) there were no perforations and no significant hemorrhage, 14.7% had postprocedure pain, and adverse events did not differ by activity level. Dilate at the index endoscopy, or defer until inflammation is controlled and reassess if symptoms persist ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]], Statement 8).
 
 ## Finding the Stricture
 
-**Endoscopy badly underestimates narrowing** — obvious only when the lumen hinders passage of a standard endoscope ([[acg-2025-eoe]]; all rows/bullets below):
+### Detection
+
+**Endoscopy badly underestimates narrowing** — obvious only when the lumen hinders passage of a standard endoscope ([[acg-2025-eoe]]; rows and bullets below from ACG 2025 unless marked):
 
 | Comparison | Sensitivity | Specificity |
 |---|---|---|
 | Endoscopy vs a **structured esophagram protocol**, for detection of a narrowed esophagus | **14.7%** (95% confidence interval [CI] 5.0%–31.1%) | 79.2% (95% CI 57.8%–92.9%) |
 | Endoscopy at a **cutoff diameter of ≤15 mm** | **25.0%** (95% CI 5.5%–57.2%) | — |
+| Endoscopy at a **cutoff diameter of ≤13 mm**, vs esophagram ([[asge-2026-eoe-endoscopic-management-part-2\|ASGE 2026]]) | **33%** | — |
 
 - **71% symptomatic response to dilation without perceived narrowing at endoscopy** — basis for empiric dilation.
+- Of 48 adults scoped with impedance planimetry, **12 had a diameter <15 mm that endoscopy did not note** ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]]).
 - **Children:** **55%** of esophagram-seen strictures missed endoscopically; a **barium-coated pill** found significant narrowing in 3 children whose esophagram did not. **Esophagram suggested** for fibrostenotic disease in children with EoE and dysphagia (Recommendation 18; conditional, very-low-quality evidence).
 - **Barium esophagram limit:** cannot control intraesophageal distension pressure.
 - **Impedance planimetry ([[flip-panometry|endolumenal functional lumen imaging probe (EndoFLIP)]])** — wall compliance; **more sensitive than endoscopy** for fibrotic change. **Distensibility index <4.5 mm²** separated patients with vs without endoscopic strictures, though only **23%** had strictures seen endoscopically. Mostly specialty/research centers so far.
+- In EoE, **strictures are the least reliably assessed EREFS feature**, and interrater reliability for stricture diameter is poor ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]]).
+
+### Establishing Esophageal Diameter
+
+Diameter decides which dilator to start with, so measure it rather than eyeball it. Any of these is acceptable; individualize to the patient and setting ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]], Statement 22):
+
+| Method | How it gives you the number |
+|---|---|
+| **Barium esophagography** | More sensitive than endoscopy for strictures, but operator-dependent; a **barium tablet** sharpens the estimate by showing where it holds up |
+| **Impedance planimetry (EndoFLIP)** | Accurate even when endoscopy sees no narrowing — but adds cost, procedure time and expertise, and is not routinely available |
+| **"Sizing" with balloon or bougie** | The point of **initial mucosal disruption** on balloon pull-through, sequential guidewire-based dilation, or the bougie cap technique marks the diameter |
+| **Open a biopsy forceps** | Tip-to-tip distance is known, so the open forceps is a ruler at the stricture |
+| **Retroflex at the gastroesophageal junction** | Compare a distal stricture against the known endoscope diameter |
+| **Cone-shaped plastic cap on the scope tip** | Bougie-like cap available in **7–18 mm** sizes; inexpensive, and the dilation is seen directly. Initial series reported safety and efficacy |
+
+> [!pearl] Five clinical factors flag fibrostenosis before the scope goes in
+> Age >18 y · symptoms >5 y before diagnosis · dysphagia · food impaction · **lack** of abdominal pain — a published model of easy-to-obtain predictors of stricture or narrowing at endoscopy in [[eosinophilic-esophagitis|EoE]] ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]], Statement 20).
 
 ## Dilation Treats the Stricture, Not the Disease
 
@@ -215,12 +239,13 @@ sources: [acg-2025-eoe, acg-2013-eoe, asge-2014-dysphagia, aga-2021-gi-perforati
 ## Sources
 
 1. [[acg-2025-eoe|ACG 2025: Diagnosis and Management of Eosinophilic Esophagitis]]
-2. [[acg-2013-eoe|ACG Clinical Guideline: Evidenced-Based Approach to the Diagnosis and Management of Esophageal Eosinophilia and Eosinophilic Esophagitis (2013)]]
-3. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review]]
-4. [[asge-2014-dysphagia|ASGE 2014: The Role of Endoscopy in the Evaluation and Management of Dysphagia]]
-5. [[asge-2015-antibiotic-prophylaxis|ASGE Guideline: Antibiotic Prophylaxis for GI Endoscopy (2015)]]
-6. [[asge-2011-foreign-body-ingestion|ASGE Guideline: Management of Ingested Foreign Bodies and Food Impactions (2011)]]
-7. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)]]
-8. [[aga-2022-personalized-gerd|AGA Clinical Practice Update on the Personalized Approach to the Evaluation and Management of GERD: Expert Review (2022)]]
-9. [[acg-cag-2022-anticoag-gi-bleeding|ACG/CAG 2022: Management of Anticoagulants and Antiplatelets During Acute GI Bleeding and the Periendoscopic Period]]
-10. [[afs-2023-transoral-incisionless-fundoplication|American Foregut Society White Paper on Transoral Incisionless Fundoplication (2023)]]
+2. [[asge-2026-eoe-endoscopic-management-part-2|ASGE Consensus Recommendations on the Endoscopic Management of Eosinophilic Esophagitis — Part 2: Disease Assessment, Monitoring, and Pediatric Considerations (2026)]]
+3. [[acg-2013-eoe|ACG Clinical Guideline: Evidenced-Based Approach to the Diagnosis and Management of Esophageal Eosinophilia and Eosinophilic Esophagitis (2013)]]
+4. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review]]
+5. [[asge-2014-dysphagia|ASGE 2014: The Role of Endoscopy in the Evaluation and Management of Dysphagia]]
+6. [[asge-2015-antibiotic-prophylaxis|ASGE Guideline: Antibiotic Prophylaxis for GI Endoscopy (2015)]]
+7. [[asge-2011-foreign-body-ingestion|ASGE Guideline: Management of Ingested Foreign Bodies and Food Impactions (2011)]]
+8. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)]]
+9. [[aga-2022-personalized-gerd|AGA Clinical Practice Update on the Personalized Approach to the Evaluation and Management of GERD: Expert Review (2022)]]
+10. [[acg-cag-2022-anticoag-gi-bleeding|ACG/CAG 2022: Management of Anticoagulants and Antiplatelets During Acute GI Bleeding and the Periendoscopic Period]]
+11. [[afs-2023-transoral-incisionless-fundoplication|American Foregut Society White Paper on Transoral Incisionless Fundoplication (2023)]]

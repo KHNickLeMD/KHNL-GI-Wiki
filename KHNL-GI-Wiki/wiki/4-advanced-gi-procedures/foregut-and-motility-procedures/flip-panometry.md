@@ -3,8 +3,8 @@ title: "FLIP Panometry"
 category: advanced-procedure
 tags: [FLIP, panometry, esophageal-motility, EGJ, functional-lumen-imaging, achalasia, EGJOO, foregut]
 created: 2026-05-15
-updated: 2026-10-04
-sources: [dallas-2025-flip-panometry, aga-2025-flip-esophageal]
+updated: 2026-11-11
+sources: [dallas-2025-flip-panometry, aga-2025-flip-esophageal, asge-2026-eoe-endoscopic-management-part-2]
 ---
 
 ## Contents
@@ -242,6 +242,7 @@ Then read FLIP against the endoscopy:
 - Standard endoscopy sedation (propofol/fentanyl/midazolam) does **not** meaningfully alter FLIP findings (BPA 3). **Avoid inhalation anesthetics** when assessing motility: sevoflurane can raise EGJ diameter and EGJ-DI vs propofol and impair secondary peristalsis; desflurane/isoflurane effects unknown. See [[endoscopy-sedation]].
 - **Do not use FLIP to diagnose [[gerd|GERD]]** or to decide on antireflux intervention (BPA 8) — no discriminative EGJ-DI threshold separates symptomatic GERD from controls, and EGJ-DI does not correlate with acid exposure time. Need for antireflux intervention is set by symptoms and reflux burden; FLIP can identify achalasia and obstructive syndromes that refute reflux disease in PPI nonresponders.
 - **EoE (BPA 7):** FLIP measures esophageal remodeling — *distensibility plateau* (static diameter despite rising distension volume/pressure) is lower in patients with prior food impaction than dysphagia alone, and low DI/plateau tracks with symptom duration and diagnostic delay. FLIP **should not be used to diagnose EoE**; use it when the mechanism of persisting dysphagia is unclear on endoscopy/histology. An **achalasia-like pattern** can occur in EoE (possibly fibrostenotic pseudoachalasia) → irreversible LES-disruptive treatment only cautiously and only if supported by complementary tests.
+  - **[[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]] agrees the definitive role is undetermined (Statement 16):** FLIP uniquely measures wall compliance and distensibility, is more sensitive than endoscopy for strictures, explains persistent dysphagia in an otherwise normal-looking esophagus, and predicts food impaction independently — but it needs the device, added cost and procedure time, substantial operator and staff expertise, and normative diameters for young children are lacking. **Routine use in all EoE patients is not recommended.** No EoE-specific FLIP protocol consensus exists yet (the published one covers suspected motility disorders).
 - **Contraindicated with actively bleeding [[variceal-upper-gi-bleeding|varices]].**
 - FLIP identifies hiatal hernia with **84% correlation** to HRM, but **elicits or enlarges** a hernia in up to **25%**.
 
@@ -305,3 +306,4 @@ Where the numbers actually change management ([[aga-2025-flip-esophageal]]):
 
 1. [[dallas-2025-flip-panometry|A Standardized Approach to Performing and Interpreting FLIP Panometry for Esophageal Motility Disorders: The Dallas Consensus]]
 2. [[aga-2025-flip-esophageal|AGA Clinical Practice Update on Incorporating Functional Lumen Imaging Probe Into Esophageal Clinical Practice: Expert Review]]
+3. [[asge-2026-eoe-endoscopic-management-part-2|ASGE Consensus Recommendations on the Endoscopic Management of Eosinophilic Esophagitis — Part 2: Disease Assessment, Monitoring, and Pediatric Considerations (2026)]]

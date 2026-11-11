@@ -273,7 +273,7 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 
 ## See Also
 
-[[eus-guided-gallbladder-drainage]], [[endoscopic-ultrasound]], [[ercp]], [[acute-cholangitis]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[jaundice]], [[ascites]], [[acute-pancreatitis]], [[liver-disease-in-pregnancy]], [[liver-transplantation]], [[gastric-outlet-obstruction]], [[endoscopy-sedation]], [[mri-mrcp]]
+[[eus-guided-gallbladder-drainage]], [[endoscopic-ultrasound]], [[ercp]], [[bile-duct-injury]], [[acute-cholangitis]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[jaundice]], [[ascites]], [[acute-pancreatitis]], [[liver-disease-in-pregnancy]], [[liver-transplantation]], [[gastric-outlet-obstruction]], [[endoscopy-sedation]], [[mri-mrcp]]
 
 ---
 

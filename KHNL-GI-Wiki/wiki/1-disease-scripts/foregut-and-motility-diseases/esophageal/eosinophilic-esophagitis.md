@@ -3,8 +3,8 @@ title: "Eosinophilic Esophagitis"
 category: disease-script
 tags: [eoe, esophageal, dysphagia, food-impaction, eosinophil, atopic, biologic, dupilumab]
 created: 2026-05-07
-updated: 2026-10-19
-sources: [acg-2025-eoe, aga-2020-eoe, acg-2013-eoe, aga-2024-esophageal-immunity-infection, asge-2011-foreign-body-ingestion, i-see-2022-eoe-severity-index]
+updated: 2026-11-11
+sources: [acg-2025-eoe, asge-2026-eoe-endoscopic-management-part-2, aga-2020-eoe, acg-2013-eoe, aga-2024-esophageal-immunity-infection, asge-2011-foreign-body-ingestion]
 ---
 
 Eosinophilic esophagitis (EoE): chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal symptoms + eosinophilic inflammation confined to the esophagus. Food antigen-driven in most; part of the atopic march.
@@ -13,16 +13,14 @@ Eosinophilic esophagitis (EoE): chronic, immune/antigen-mediated esophageal dise
 - [[#Assessment]]
   - [[#Establishing the Diagnosis]]
   - [[#Severity Assessment]]
-    - [[#I-SEE scoring]]
   - [[#Classification / Typing]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
   - [[#Endoscopy with Biopsies (required)]]
-  - [[#Diagnostic Workup Sequence]]
   - [[#Tests NOT Recommended]]
 - [[#Therapeutics]]
   - [[#Treatment Goals]]
-  - [[#First-Line Options (choose 1; equal standing)]]
+  - [[#Choosing a Therapy]]
   - [[#Second-Line / Refractory]]
   - [[#Adjunct: Esophageal Dilation]]
   - [[#Maintenance Therapy]]
@@ -64,68 +62,34 @@ Eosinophilic esophagitis (EoE): chronic, immune/antigen-mediated esophageal dise
 | **C** | Chew excessively | Chewing to a mush-like consistency before swallowing |
 | **T** | Turn away tablets/pills | Pill dysphagia — often the only sign of swallowing dysfunction |
 
-**Endoscopic findings (EoE Endoscopic Reference Score [EREFS], 0–9 scale):**
+**Endoscopic findings — EoE Endoscopic Reference Score (EREFS), total 0–9.** Score the **overall worst finding** in the esophagus, and report each feature's grade at every endoscopy ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]]):
 
-- **E**dema (decreased vascular markings, mucosal pallor)
-- **R**ings (trachealization/corrugation)
-- **E**xudates (white plaques/exudates)
-- **F**urrows (vertical lines)
-- **S**tricture (focal esophageal narrowing)
-- Each of the 5 features is graded **by severity in the worst-appearing area** of the esophagus; the grading scheme yields a total score of **0–9**. Score EREFS in every suspected and established EoE case ([[acg-2025-eoe]])
-- Normal endoscopy does NOT exclude EoE
+| Feature | Appearance | Points |
+|---|---|---|
+| **E**dema | Decreased vascular markings, mucosal pallor | absent 0 · present 1 |
+| **R**ings | Trachealization / corrugation | absent 0 · mild 1 · moderate 2 · severe 3 |
+| **E**xudates | White plaques | absent 0 · mild 1 · severe 2 |
+| **F**urrows | Vertical lines | absent 0 · mild 1 · severe 2 |
+| **S**tricture | Focal narrowing | absent 0 · present 1 — **estimate the diameter in mm** |
 
-*The per-feature point ranges (how many points each of E/R/E/F/S can score) are shown only in Figure 2 ("EREFS with example scoring") of [[acg-2025-eoe]]; the guideline text gives the 0–9 total and the worst-area rule but not the per-feature scale, so refer to that figure to score.*
+- Score EREFS in **every** suspected and established case, adult or pediatric ([[acg-2025-eoe]], [[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]] Statement 6) — a visual atlas in the endoscopy suite helps
+- **Normal endoscopy does NOT exclude EoE** — biopsy anyway (Statement 15)
 
 ### Severity Assessment
 
 Severity is assessed across three domains — **symptoms, endoscopic activity (EREFS), and histologic activity** — not by any one of them alone ([[acg-2025-eoe]]):
 
-- **Peak eosinophil count must be quantified, not just reported as ">15 eos/hpf"** — the number is needed to gauge treatment effect (200 → 150 is no meaningful response; 200 → 20 is). But the count does **not** scale with clinical severity: a patient with 200 eos/hpf is not twice as severe as one with 100.
-- **Report other histologic features** alongside the count — basal zone hyperplasia, dilated intercellular spaces, lamina propria fibrosis — which can indicate ongoing activity despite a low eosinophil count.
-- **I-SEE (Index of Severity for Eosinophilic Esophagitis):** ACG 2025 advises providers **could consider** using I-SEE to assess baseline severity; it is developed but still undergoing validation, and its role in matching severity to treatment/monitoring is an explicit knowledge gap. The index itself is defined in [[i-see-2022-eoe-severity-index]] and scored below.
+- **Quantify the peak eosinophil count, never report just ">15 eos/hpf"** — the number gauges treatment effect (200 → 150 is no meaningful response; 200 → 20 is). But it does **not** scale with severity, and it must be read in the context of the other histologic features (basal zone hyperplasia, dilated intercellular spaces, lamina propria fibrosis), the endoscopic findings, the symptoms, and the **mechanism of the treatment in use** — eosinophil-depleting agents (lirentelimab, benralizumab) produced high histologic response with **no** symptom or endoscopic improvement, while mast-cell– or fibrosis-targeted agents may not move eosinophil density at all ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]], Statement 18).
+- **Distinguish inflammatory (exudates, furrows, edema) from fibrotic (rings, strictures) endoscopic features** — short-term treatment should resolve the former, not the latter.
+- **Severity index:** scoring, bands and the rules that decide each box live on [[i-see-eoe-severity-index|I-SEE (Index of Severity for Eosinophilic Esophagitis)]]; ACG 2025 advises providers **could consider** it for baseline severity.
 
-#### I-SEE scoring
-
-Assess at initial diagnosis and **at every subsequent visit, with the recall covering only the interval since the last visit**. Select the box the patient fits in each row; **where a box lists more than one element, each selected element scores.** Scoring presupposes the diagnosis (isolated esophageal eosinophilia ≥15 eos/hpf, other etiologies excluded). ([[i-see-2022-eoe-severity-index]])
-
-| Domain / feature | 1 point | 2 points | 4 points | 15 points |
-|---|---|---|---|---|
-| **Symptoms** | Weekly | Daily | Multiple times per day **or** disrupting social functioning | — |
-| **Complications** | — | Food impaction with emergency-room visit or endoscopy (*≥18 years*) | • Food impaction with emergency-room visit or endoscopy (*<18 years*)<br/>• Hospitalization due to EoE | • Esophageal perforation<br/>• Malnutrition with body mass <5th percentile or decreased growth trajectory<br/>• Persistent inflammation requiring elemental formula, systemic corticosteroid, or immunomodulatory treatment |
-| **Inflammatory — endoscopy** (edema, furrows and/or exudates) | Localized | Diffuse | — | — |
-| **Inflammatory — histology** | 15–60 eos/hpf | >60 eos/hpf | — | — |
-| **Fibrostenotic — endoscopy** (rings, strictures) | Present, endoscope passes easily | Present, but requires dilation **or** a snug fit passing a standard endoscope | — | Cannot pass a standard upper endoscope; repeated dilations (*adult ≥18 years*); **or any dilation** (*child <18 years*) |
-| **Fibrostenotic — histology** | — | Basal zone hyperplasia (BZH) **or** lamina propria fibrosis (LPF) — or dyskeratotic epithelial cells (DEC) / surface epithelial alteration (SEA) if no lamina propria | — | — |
-
-**Bands: <1 inactive · 1–6 mild active · 7–14 moderate active · ≥15 severe active.**
-
-Scoring rules that decide the box:
-
-- **A single 15-point box makes the patient severe** regardless of the rest of the index.
-- **"Snug fit" means a 10–14 mm endoscope** in the esophagus. Diameter may instead be established by balloon-sizing, dilation effect, or barium esophagram.
-- **After any esophageal dilation, dysphagia and food impaction can no longer be reliably assessed** — which is why dilation history, not symptom report, carries the fibrostenotic weight.
-- **Any dilation in a child or adolescent scores 15**; in an adult only *repeated* dilations do.
-- **Food impaction scores higher in children** (4 points) than adults (2 points) — impactions are less common in children and may mark early-onset fibrostenosis.
-- **Social disruption is a 4-point symptom**: missed work or school, fear of eating in public, social isolation.
-- **Score the worst overall finding for the esophagus** on endoscopy; if a stricture is present, estimate the diameter. **Immunomodulatory** treatment includes biologics, azathioprine/6-mercaptopurine, and other immune-targeted agents.
-- **If lamina propria is absent or crushed, DEC/SEA substitute for LPF** — but they predict the *presence*, not the severity, of fibrosis.
-
-Worked examples from the index paper: a 12-year-old with daily abdominal pain, localized inflammatory endoscopy and 45 eos/hpf scores **4 (mild)**; a 17-year-old with symptoms multiple times daily causing social isolation, diffuse inflammation, 100 eos/hpf, rings the scope passes easily and BZH + LPF scores **11 (moderate)**; a 32-year-old with daily dysphagia, two food-impaction emergency visits, diffuse inflammation, 35 eos/hpf, BZH and a stricture that will not admit a standard endoscope scores **24 (severe)**. ([[i-see-2022-eoe-severity-index]])
-
-**Reading the histology section of I-SEE** — the index paper's five sequential questions: (1) Is BZH exceeding one-third of total epithelial thickness present? (2) Is lamina propria present and not crushed? *If yes → answer question 3 only; if no → skip 3 and answer 4 and 5.* (3) Is any lamina propria fibrosis present? (4) Is surface epithelial alteration present, with or without admixed eosinophils, attached or partially/completely detached? (5) Are dyskeratotic epithelial cells present? ([[i-see-2022-eoe-severity-index]])
-
-**What I-SEE does not do:** it classifies, but **attaches no treatment to any band** — linking severity to therapy and monitoring is named as a future goal, and the index is explicitly unvalidated. Domain weighting, the mild/moderate and moderate/severe boundaries, and whether children and adults need separate indices are all open. ([[i-see-2022-eoe-severity-index]])
-
-*Luminal-diameter ranges were discussed at the consensus conference (normal ≥20 mm, mildly decreased 15–19 mm, moderate 10–14 mm, severe 5–9 mm, critical <5 mm) but deliberately left out of the index in favour of the three endoscope-passage categories.*
-
-**Fibrostenotic phenotype:** rings + strictures; transmural inflammation + fibrosis; requires dilation in addition to medical therapy. Endoscopy badly underestimates stricture severity — esophagram (and [[flip-panometry|functional lumen imaging probe (EndoFLIP)]]) are more accurate; the sensitivity data are under Adjunct: Esophageal Dilation.
-
-**Persistent symptoms despite histologic + endoscopic remission** → evaluate for a subtle **stricture** (esophagram) or an esophageal **motility disorder**; some patients with EoE develop dysmotility, and EoE carries an increased risk of [[achalasia]]. Consider further motility evaluation. ([[aga-2024-esophageal-immunity-infection|American Gastroenterological Association (AGA) 2024]])
+> [!pitfall] Symptoms and biology diverge in both directions
+> Adaptive eating behaviors and prior dilation mask active disease; conversely symptoms persist despite remission because of unrecognized or undilated narrowing, esophageal hypersensitivity or hypervigilance, superimposed dysmotility, or candidiasis complicating topical steroid treatment — overlap with avoidant/restrictive food intake disorder looks the same ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]], Statements 17–19). Persistent symptoms in remission → esophagram for a subtle **stricture**, then consider [[high-resolution-manometry|motility testing]]; EoE carries an increased risk of [[achalasia]] ([[aga-2024-esophageal-immunity-infection|American Gastroenterological Association (AGA) 2024]]).
 
 ### Classification / Typing
 
-- **Inflammatory:** edema, furrows, exudates predominate; responsive to medical therapy
-- **Fibrostenotic:** rings, strictures, narrow caliber esophagus; requires dilation
+- **Inflammatory:** edema, furrows, exudates predominate; responds to medical therapy
+- **Fibrostenotic:** rings, strictures, narrow-caliber esophagus; transmural inflammation and fibrosis — needs dilation **in addition to** medical therapy. Endoscopy badly underestimates it; esophagram and [[flip-panometry|the functional lumen imaging probe (EndoFLIP)]] are more accurate (sensitivity data under Adjunct: Esophageal Dilation)
 - **Mixed:** both features present
 
 ---
@@ -152,26 +116,25 @@ Worked examples from the index paper: a 12-year-old with daily abdominal pain, l
 ## Diagnostics
 
 ![[eoe-2025-diagnosis-algorithm-06.png|700x462]]
-*Figure 1 — Diagnostic algorithm for EoE. EGD, esophagogastroduodenoscopy; EGID, eosinophilic gastrointestinal disease; EREFS, EoE Endoscopic Reference Score; GERD, [[gerd|gastroesophageal reflux disease]]. ([[acg-2025-eoe]])*
+*Diagnostic algorithm for EoE*
+*Source: figure 1 of [[acg-2025-eoe]]*
+*[[acg-2025-eoe|ACG 2025: Diagnosis and Management of Eosinophilic Esophagitis]]*
+*EGD = esophagogastroduodenoscopy · EGID = eosinophilic gastrointestinal disease · EREFS = EoE Endoscopic Reference Score · GERD = [[gerd|gastroesophageal reflux disease]] · PPI = proton pump inhibitor*
 
 ### Endoscopy with Biopsies (required)
 
-- **≥6 biopsies** from **≥2 levels** (proximal + distal esophagus)
-- Both levels needed — patchy distribution can cause sampling error
-- Score EREFS at every endoscopy
-- Biopsy normal-appearing mucosa — histology may be positive despite normal endoscopy
-- **Esophagram:** consider if fibrostenotic features or when preparing for dilation; more sensitive than endoscopy for stricture detection
+> **Scope off treatment.** [[acg-2025-eoe|ACG 2025]] advises endoscopy on **no treatment — no dietary restriction and no PPI** — when EoE is suspected, to maximize diagnostic sensitivity. Diet, PPI, and even *intranasal or inhaled* steroids taken for rhinitis/sinusitis/asthma can partially or completely treat EoE and produce a falsely negative exam. The time off medication needed is unclear for EoE generally, but **for PPI it is at least 1–2 months** ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]], Statement 13).
 
-### Diagnostic Workup Sequence
-
-> **Scope off treatment.** [[acg-2025-eoe|ACG 2025]] advises endoscopy on **no treatment — no dietary restriction and no PPI** — when EoE is suspected, to maximize diagnostic sensitivity. Diet, PPI, and even *intranasal or inhaled* steroids taken for rhinitis/sinusitis/asthma can partially or completely treat EoE and produce a falsely negative exam.
+- **Use a standard [[upper-endoscopy|upper endoscopy]], not a less-invasive device** — it is the only exam that assesses esophageal caliber, samples the stomach and duodenum, and can dilate a symptomatic stricture in the same session ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]], Statement 14)
+- **≥6 biopsies from ≥2 levels** (proximal/mid and distal), targeting endoscopic findings where possible — both levels because patchy distribution causes sampling error (Rec 3, low quality / **strong**). Add gastric and duodenal specimens when another eosinophilic or upper-GI condition is in question
+- **Biopsy normal-appearing mucosa** — histology may be positive despite a normal exam
+- **Quantify** the peak eosinophil count at every endoscopy (Rec 4, low / **strong**); **≥15 eos/hpf in ≥1 hpf** satisfies criterion 2 (Rec 1, low / **strong**)
+- **If the PPI cannot be stopped,** scope anyway: active EoE on PPI confirms PPI non-response; if EoE is not found, stop the PPI later to confirm or refute the diagnosis. Do **not** start diet or steroid therapy before the diagnosis is confirmed
+- **A "negative" exam in a strongly suspected patient is a prompt to look for confounders** — PPI, inhaled/intranasal steroid, dietary avoidance, seasonality, inadequate biopsy sampling
+- Evaluate for non-EoE disorders that cause esophageal eosinophilia (see Differential Diagnosis) before finalizing the diagnosis, then choose a first-line therapy
+- **Esophagram:** consider if fibrostenotic features are present or when preparing for dilation — more sensitive than endoscopy for stricture detection
 
 > **A PPI trial is no longer part of the diagnosis — this changed between guideline versions.** [[acg-2013-eoe|ACG 2013]] required failure of a PPI trial and treated *PPI-responsive esophageal eosinophilia* (PPI-REE) as a separate entity. ACG 2025 **eliminates the PPI trial from the diagnostic algorithm** and positions PPI as a **treatment** for EoE; PPI-REE is a subset of EoE, not a separate diagnosis.
-
-1. [[upper-endoscopy|Upper endoscopy]] off treatment + biopsies — **≥6 total from ≥2 levels** (proximal/mid and distal), targeting endoscopic findings where possible (Rec 3, low quality / **strong**)
-2. **Quantify** the peak eosinophil count at every endoscopy (Rec 4, low / **strong**); **≥15 eos/hpf in ≥1 hpf** satisfies criterion 2 (Rec 1, low / **strong**)
-3. Evaluate for non-EoE disorders that cause or contribute to esophageal eosinophilia (see Differential Diagnosis above) before finalizing the diagnosis
-4. Choose a first-line therapy — PPI, topical steroid, or diet, all of equal standing (see Therapeutics)
 
 ### Tests NOT Recommended
 
@@ -184,7 +147,10 @@ Worked examples from the index paper: a 12-year-old with daily abdominal pain, l
 ## Therapeutics
 
 ![[eoe-2025-management-algorithm-09.png|700x393]]
-*Figure 3 — Management algorithm for EoE. After diagnosis, all patients are treated with anti-inflammatory therapy and assessed for fibrostenosis; shared decision-making guides choice between pharmacologic and dietary elimination approaches. ([[acg-2025-eoe]])*
+*Management algorithm for EoE — anti-inflammatory therapy for all, with fibrostenosis assessed in parallel and shared decision-making between pharmacologic and dietary routes*
+*Source: figure 3 of [[acg-2025-eoe]]*
+*[[acg-2025-eoe|ACG 2025: Diagnosis and Management of Eosinophilic Esophagitis]]*
+*EoE = eosinophilic esophagitis · PPI = proton pump inhibitor · EREFS = EoE Endoscopic Reference Score*
 
 ### Treatment Goals
 
@@ -194,153 +160,105 @@ Worked examples from the index paper: a 12-year-old with daily abdominal pain, l
 - Prevent fibrostenosis and food impactions
 - Pediatric: normal growth and feeding development
 
-### First-Line Options (choose 1; equal standing)
+### Choosing a Therapy
 
-**1. PPI**
+**Three first-line options of equal standing — PPI, swallowed topical corticosteroid (STC), or empiric food elimination diet (FED).** Choose one by shared decision-making. Doses, efficacy, formulations, maintenance regimens and the agents to avoid all live on [[eoe-therapies|EoE therapies]].
 
-- Mechanism: anti-inflammatory (beyond acid suppression)
-- **Dose = double the approved reflux dose** ([[acg-2025-eoe]] Table 6). ACG could not recommend a specific PPI agent (trials mixed omeprazole/esomeprazole/rabeprazole/lansoprazole at varying doses):
-
-| Population | Initial dosing |
-|---|---|
-| Adults | Double the approved reflux dose per day — e.g. **omeprazole 20 mg b.i.d. or 40 mg daily**, or other PPI equivalent |
-| Children | **2 mg/kg/day** (or **1 mg/kg b.i.d.**) |
-
-- **Split the dose — this is the decision, not a detail.** In 305 newly diagnosed patients (overall histologic remission 42.3%), remission was **53–54% with omeprazole 20–40 mg twice daily vs only 10–12% with 20–40 mg once daily** (P<0.0001). ACG still permits once-daily or divided dosing on adherence grounds because "dosing efficacy data are variable," but the once-daily arm performs far worse in the one cohort that compared them.
-- Duration: 8–12 weeks → endoscopy with biopsies
-- Histologic remission **50.5%** (95% confidence interval [CI] 42.2–58.7) in the 2016 meta-analysis of 33 studies
-- Maintain indefinitely if effective; 70–85% sustain response at 1y
-- **Stepping down to once daily after remission:** ~30% of initial responders relapsed but regained histologic remission on re-escalation to twice daily; a separate prospective cohort found >80% maintained remission after step-down. Re-scope if you step down.
-
-**2. Topical Steroids (STC)**
-
-- Histologic remission 60–70%
-- **Total daily dose ranges** ([[acg-2025-eoe]] Table 6):
-
-| Agent | Children | Adults |
+| Option | Headline | Histologic remission |
 |---|---|---|
-| Budesonide (any formulation) | **1–2 mg/day** (by age/height/weight; may be divided b.i.d.) | **2–4 mg/day** (may be divided b.i.d.) |
-| Fluticasone (swallowed metered-dose inhaler [MDI], off-label) | **110–880 µg/day** in a divided dose | **1,760 µg/day** in a divided dose |
+| [[proton-pump-inhibitors\|PPI]] | Double the approved reflux dose, **split twice daily** — once-daily dosing performed far worse in the one cohort that compared them | ~50% |
+| STC (budesonide or fluticasone) | Strongest recommendation of the three; candidal esophagitis is the expected adverse event | 60–70% |
+| Empiric FED | **Step-up** (1-food → 2-food → 4-food → 6-food) preferred — fewer endoscopies, less avoidance burden; milk and wheat are the commonest triggers and ~69% have only 1–2 | 35–70% by step; elemental formula >90% as salvage |
 
-- **Budesonide oral suspension (BOS):** approved dosing **2 mg b.i.d.** — US Food and Drug Administration (FDA)-approved 2024 ✓
-- **Budesonide orodispersible tablet (BOT):** 1 mg b.i.d. — European Medicines Agency (EMA)-approved ✓
-- Off-label viscous budesonide is compounded to the same total daily dose. **How to compound it** ([[acg-2025-eoe]] Table 6, footnote): when an asthma preparation is adapted for EoE, mix the **aqueous budesonide to a syrup-like consistency** with sucralose, honey, maple syrup or similar, to a **goal total volume ~10 mL**
-- Side effects: candidal esophagitis (4–24%); adrenal insufficiency uncommon — identified in **≤5%** in induction trials — test cortisol with long-term multi-steroid use
-- Check response at 8–12 weeks
-- Dose reduction acceptable after remission (BOT 0.5mg bid effective for maintenance)
-
-**3. Dietary Elimination**
-
-- Step-up preferred (minimizes endoscopies, avoidance burden):
-
-| Step | Diet | Efficacy |
-|---|---|---|
-| 1 | 1-food elimination diet (1FED; dairy only) | 35–45% |
-| 2 | 2FED (dairy + wheat) | 40–45% |
-| 3 | 4FED (dairy, wheat, egg, soy) | 40–50% |
-| 4 | 6FED (dairy, wheat, egg, soy, nuts, seafood) | 40–70% |
-| Salvage | Elemental formula | >90% |
-
-- After histologic response: food reintroduction one group at a time × 6–8 weeks + endoscopy each step
-- Milk and wheat are most common triggers (60% and 50% respectively)
-- Most patients (~69%) have only 1–2 food triggers
-- Requires dietitian; allergy consultation if concern for immediate food allergy during reintroduction
-- "Diet holidays" bridged with medical therapy can improve long-term adherence
+- **Allergy test–directed elimination diets are not recommended** — serum IgE/IgG food panels and skin prick/patch testing do not identify EoE triggers (see Tests NOT Recommended).
+- Dietitian involvement required for any elimination diet; allergy consultation if immediate food allergy is a concern during reintroduction.
 
 ### Second-Line / Refractory
 
-**Dupilumab (anti–interleukin-4 receptor α [anti-IL-4Rα])**
-
-- Indication: PPI nonresponder; moderate-severe EoE
-- **Dosing:**
-
-| Weight | Dose | Frequency |
-|---|---|---|
-| ≥40 kg | 300 mg subcutaneous (SQ) | Weekly |
-| 30–<40 kg | 300 mg SQ | Every 2 weeks |
-| 15–<30 kg | 200 mg SQ | Every 2 weeks |
-
-- FDA-approved: ≥12y (2022), 1–11y (≥15kg, 2024)
-- 60% histologic remission (≤6 eos/hpf) vs 5% placebo (phase 3 randomized controlled trial [RCT])
-- Improves symptoms, EREFS, esophageal distensibility (EndoFLIP)
-- No tuberculosis (TB)/human immunodeficiency virus (HIV)/hepatitis screening required
-- Check response at 12–24 weeks
-- Cost/access: main barrier; prior auth typically required
-
-**NOT recommended:**
-
-- Omalizumab (anti-IgE): no efficacy; EoE is not IgE-mediated
-- Montelukast: not effective in RCT
-- Cromolyn: no benefit in RCT
-- [[anti-tnf-agents|Infliximab]]/[[vedolizumab]]: case reports only
+- **[[eoe-therapies|Dupilumab]] (anti–interleukin-4 receptor α [anti-IL-4Rα])** — for the PPI non-responder with moderate-to-severe disease; weight-based subcutaneous dosing; 60% histologic remission vs 5% placebo; improves symptoms, EREFS and esophageal distensibility. Cost and prior authorization are the practical barriers. Check response at up to 24 weeks (see Monitoring).
+- **Not recommended:** omalizumab, montelukast, cromolyn (all negative in trials); [[anti-tnf-agents|infliximab]] and [[vedolizumab]] rest on case reports only. Stances and trial detail: [[eoe-therapies#Agents Not Recommended]].
 
 ### Adjunct: Esophageal Dilation
 
 - **Indication:** fibrostenotic EoE + dysphagia despite adequate anti-inflammatory therapy
-- **Goal diameter:** ≥16mm (adults/adolescents)
+- **Goal diameter:** **16–18 mm** (adults/adolescents) ([[acg-2025-eoe]] Figure 3)
 - **Safety:** clinical improvement 95%; perforation <0.5%; hospitalization <1%
 - **ALWAYS pair with anti-inflammatory therapy** — dilation does not treat EoE
 - Technique: start conservative; work to "dilation effect" (mucosal disruption); use multiple sessions if needed
-- Empiric dilation may help even without an endoscopically visible stricture — endoscopy detects a narrowed esophagus with sensitivity of only **14.7%** (specificity 79.2%), rising to just **25%** at a ≤15 mm cutoff; **71%** of patients with no perceived narrowing at endoscopy still responded symptomatically to dilation
-- Pediatric: esophagram before dilation to detect unrecognized narrowing
+- Empiric dilation may help even without an endoscopically visible stricture — endoscopy detects a narrowed esophagus with sensitivity of only **14.7%** (specificity 79.2%), rising to just **25%** at a ≤15 mm cutoff and **33%** at a ≤13 mm cutoff versus esophagram; **71%** of patients with no perceived narrowing at endoscopy still responded symptomatically to dilation. Of 48 adults scoped with EndoFLIP, **12 had a diameter <15 mm that endoscopy did not note** ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]])
+- **Strictures occur in ~25% of adults with EoE** and are the least reliably assessed EREFS feature; interrater reliability for stricture diameter is poor ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]], Statements 20–21)
+
+> [!pearl] Five clinical factors predict fibrostenosis before you look
+> Age >18 y · symptoms >5 y before diagnosis · dysphagia · food impaction · **lack** of abdominal pain. Any of these should raise suspicion for a stricture or narrowing at the endoscopy you are about to do ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]], Statement 20).
+
+- **Measure the diameter before choosing a dilator** — by esophagography (optionally with a barium tablet), EndoFLIP, or a sizing technique; see [[esophageal-dilation#Establishing Esophageal Diameter]] for the full menu
+- Pediatric: esophagram before dilation to detect unrecognized narrowing; **dilate a symptomatic stricture or narrow-caliber esophagus regardless of disease activity** — adverse-event rates did not differ by activity in the largest pediatric series (68 dilations: no perforation, no significant hemorrhage, 14.7% postprocedure pain). Dilate at the index endoscopy, or defer until inflammation is controlled and re-assess if symptoms persist ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]], Statement 8)
 - **After an acute food bolus impaction:** EoE is found in as many as **33%** of food bolus impactions, so take biopsies of the **mid and distal esophagus** at that endoscopy and **defer dilation pending pathology**; use caution after a prolonged impaction ([[asge-2011-foreign-body-ingestion]])
 
 ### Maintenance Therapy
 
-- **Continue effective therapy indefinitely** — near-universal relapse when stopped
-- Relapse timeline: histologic relapse 78–94% within 1y of stopping STC; symptoms recur within days to months
-- Fibrostenotic progression occurs with treatment interruptions
-- EoE does not resolve spontaneously (final step in atopic march)
-- If switching therapies or dose-reducing: repeat endoscopy with biopsies to confirm maintained remission
-- Gaps in care ≥2y → increased risk of fibrostenosis
+- **Continue effective therapy indefinitely** — EoE does not remit spontaneously, and relapse is near-universal when treatment stops (histologic relapse 78–94% within 1 year of stopping STC; symptoms within days to months)
+- **Treatment interruptions and gaps in care ≥2 y drive fibrostenotic progression**
+- Switching therapy or reducing dose → repeat endoscopy with biopsies to confirm remission is maintained. Maintenance regimens and dose-reduction data: [[eoe-therapies#Maintenance and Dose Reduction]]
 
 ### Monitoring
 
-**Response assessment:** symptoms + EREFS + biopsies at every monitoring endoscopy
+**Response assessment:** symptoms + EREFS + biopsies at every monitoring endoscopy. **All three domains count — never one alone** ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]], Statements 17–19).
 
-| Therapy | First endoscopy | Goal |
-|---|---|---|
-| PPI, STC, FED | 8–12 weeks | <15 eos/hpf; EREFS ≤2; symptom resolution |
-| Dupilumab | 12–24 weeks | Same |
+**Goal at each monitoring endoscopy:** <15 eos/hpf, EREFS ≤2, symptom resolution. **Timing by treatment and the washout rule when therapy changes:** [[eoe-therapies#Assessing Response]].
 
-**"Deep remission":** all 3 domains — symptoms, endoscopy, histology — rarely achieved (<10%)
+**Biopsy at monitoring = biopsy at diagnosis** ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]], Statement 24):
 
-**If inadequate response:**
+- ≥6 esophageal specimens from ≥2 levels; **turn-and-suction**, single bites; target furrows and exudates — exudates can be washed or pushed off by the scope or a dilator, so grade before you advance
+- Findings only mid-esophageal → take an extra set there, or include the mid-esophagus with the proximal sampling
+- **Topical therapy → consider separate pathology jars by level** (effect differs by level); systemic therapy (diet, PPI, biologic) → specimens may be combined. Not separated but activity differs by level → say so in the endoscopy report
 
-1. Confirm adherence (STC technique, diet compliance)
-2. Consider switching to another first-line modality
-3. Step up to dupilumab if PPI/STC/diet failed
-4. Add [[esophageal-dilation|esophageal dilation]] if fibrostenotic component
-5. Refer to specialty center
+**Less-invasive monitoring — monitoring only** ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]], Statements 7, 26, 27). Unsedated transnasal endoscopy (uTNE), the esophageal string test, and sponge/balloon collection devices may be used to follow inflammatory activity where local expertise exists, including during food reintroduction:
 
-**Adrenal function testing:** not routine for short-term STC; consider with long-term use or multiple concurrent corticosteroids.
+> [!pitfall] Never for diagnosis, never if dilation may be needed
+> These devices sample inflammation only — no fibrosis assessment, no therapeutics. A stricture can block passage or withdrawal of a sponge device; a 3–5 mm transnasal scope cannot gauge esophageal diameter and will not pass a balloon dilator ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]]).
+
+**Structured monitoring, not ad hoc follow-up** — untreated intervals and loss to follow-up after diagnosis carry fibrostenotic risk, not just diagnostic delay (Statement 28).
+
+**If inadequate response:** confirm adherence → switch modality → step to dupilumab → add [[esophageal-dilation|esophageal dilation]] for a fibrostenotic component → specialty centre. Detail: [[eoe-therapies#Nonresponse — What to Change]].
 
 ### Special Populations
 
 **Pediatric:**
 
-- Symptom assessment challenging; EREFS and biopsies remain required for diagnosis and monitoring
-- Esophagram recommended before dilation to detect unrecognized strictures
-- Feeding dysfunction common (up to 17%); maladaptive behaviors persist even in remission
-- Refer to feeding therapist if avoidant-restrictive food intake disorder or feeding dysfunction present
+**When to scope** ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]], Statements 1–3):
+
+| Age | Scope for |
+|---|---|
+| **≤18 months** | Chronic feeding difficulties · failure to advance diet to varied textures · malnutrition or poor weight gain |
+| **>18 months** | Protracted vomiting or reflux symptoms · abdominal pain · failure of feeding therapies · dysphagia · food impaction |
+| **Any age** | High index of suspicion from symptoms, concomitant atopic conditions, or family history of atopy or EoE |
+
+- Infants and toddlers cannot self-report — parents describe difficulty advancing solids, delayed oral feeding skills, low intake volume, prolonged mealtimes
+- **Biopsy at the diagnostic endoscopy: esophagus *and* stomach *and* duodenum** — ≥6 esophageal specimens from ≥2 levels, plus enough gastric/duodenal specimens for the conditions suspected. If non-EoE eosinophilic GI disease is in play, up to **8 gastric and 4 duodenal** specimens maximize detection
+- **At monitoring endoscopies, limit biopsies to the esophagus** if prior gastric and duodenal specimens were normal, those segments look normal, and there are no new symptoms suggesting gastric or small-bowel pathology (Statement 5)
+- **Document EREFS at every pediatric endoscopy**, suspected or established (Statement 6)
+- Esophagram before dilation to detect unrecognized strictures — **but its sensitivity and specificity are limited** for strictures and caliber (Statement 9); even so, 12 of 22 children (55%) with an EoE stricture were found **only** on esophagram
+- **Control active inflammation and narrowing before pushing feeding therapy** — advancing it during active disease can be counterproductive; a plateau should trigger reassessment of adherence and disease activity (Statement 10). Feeding dysfunction occurs in up to 17%, and maladaptive behaviors persist even in remission
 - Growth monitoring (height, weight, body mass index [BMI]) required — failure to thrive in up to 1/3 at presentation
-- Topical steroids generally safe; STC as monotherapy rarely causes clinical adrenal insufficiency
-- Dupilumab (1–11y, ≥15kg): 68% histologic response (16 weeks); weight-based dosing q2w
-- Unsedated transnasal endoscopy: option to minimize [[endoscopy-sedation|sedation]]/anesthesia exposure
+- Topical steroids generally safe; STC as monotherapy rarely causes clinical adrenal insufficiency. Dupilumab (1–11 y, ≥15 kg): 68% histologic response at 16 weeks
+- Unsedated transnasal endoscopy minimizes [[endoscopy-sedation|sedation]]/anesthesia exposure — **<10 minutes, ~2 hours less hospital time**; vomiting and epistaxis are the main adverse events
+- **Assess readiness and preprocedure anxiety** before any endoscopy in older adolescents and young adults, sedated or not — numbing cream or inhalational induction for needle phobia, procedures deferred to school breaks (Statement 11)
+- **Implement a structured pediatric-to-adult transition plan** (Statement 12) — 16% are lost to follow-up across the transfer, with more symptoms and non-adherence afterwards
 
 ---
 
 ## See Also
 
-[[eoe-therapies]], [[dysphagia]], [[gerd]], [[achalasia]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[celiac-disease]], [[barretts-esophagus]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[upper-endoscopy]], [[colonoscopy]], [[proton-pump-inhibitors]], [[flip-panometry]], [[high-resolution-manometry]], [[endoscopy-sedation]], [[ingested-foreign-body]]
+[[eoe-therapies]], [[i-see-eoe-severity-index]], [[esophageal-dilation]], [[esophageal-stricture]], [[dysphagia]], [[gerd]], [[achalasia]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[celiac-disease]], [[barretts-esophagus]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[upper-endoscopy]], [[colonoscopy]], [[proton-pump-inhibitors]], [[flip-panometry]], [[high-resolution-manometry]], [[endoscopy-sedation]], [[ingested-foreign-body]]
 
 ---
 
 ## Sources
 
 1. [[acg-2025-eoe|ACG 2025: Diagnosis and Management of Eosinophilic Esophagitis]]
-2. [[aga-2020-eoe|AGA/JTF Clinical Guideline: Management of Eosinophilic Esophagitis (2020)]]
-3. [[acg-2013-eoe|ACG 2013: Esophageal Eosinophilia and Eosinophilic Esophagitis (historical)]]
-4. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
-5. [[asge-2011-foreign-body-ingestion|ASGE Guideline: Management of Ingested Foreign Bodies and Food Impactions (2011)]]
-6. [[i-see-2022-eoe-severity-index|A Clinical Severity Index for Eosinophilic Esophagitis: Development, Consensus, and Future Directions (I-SEE, 2022)]]
+2. [[asge-2026-eoe-endoscopic-management-part-2|ASGE Consensus Recommendations on the Endoscopic Management of Eosinophilic Esophagitis — Part 2: Disease Assessment, Monitoring, and Pediatric Considerations (2026)]]
+3. [[aga-2020-eoe|AGA/JTF Clinical Guideline: Management of Eosinophilic Esophagitis (2020)]]
+4. [[acg-2013-eoe|ACG 2013: Esophageal Eosinophilia and Eosinophilic Esophagitis (historical)]]
+5. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
+6. [[asge-2011-foreign-body-ingestion|ASGE Guideline: Management of Ingested Foreign Bodies and Food Impactions (2011)]]
