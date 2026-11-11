@@ -681,6 +681,7 @@
      size its boxes, overriding the wiki's serif body font so text isn't clipped. */
   .md-body .mermaid { font-family: "Trebuchet MS","Segoe UI",Helvetica,Arial,sans-serif; line-height: normal; text-align: center; }
   .md-body .mermaid svg { max-width: 100%; height: auto; }
+  .md-body .fig-caption { font-size: 13px; line-height: 1.5; color: var(--text-muted); margin: 4px 0 18px; }
   .md-body .mermaid .nodeLabel, .md-body .mermaid .edgeLabel,
   .md-body .mermaid foreignObject div, .md-body .mermaid span,
   .md-body .mermaid p { font-family: "Trebuchet MS","Segoe UI",Helvetica,Arial,sans-serif !important; white-space: normal !important; margin: 0; }
@@ -3122,7 +3123,12 @@ function renderMd(text) {
     // A line no branch above claims and the paragraph loop rejects (e.g. a stray "|"
     // table row orphaned by a blockquote mid-table) must still consume a line —
     // otherwise the outer while spins forever and locks the tab.
-    if (pLines.length) html += `<p>${inlineRender(pLines.join(' '))}</p>\n`;
+    // Figure caption (Nick, 2026-11-10): 2+ consecutive *italic* lines under a visual keep their
+    // line breaks — label / source / link / abbreviations (CLAUDE.md → Captions).
+    if (pLines.length > 1 && pLines.every(l => /^\*[^*\s].*[^*\s]\*\s*$/.test(l.trim()))) {
+      html += `<p class="fig-caption">${pLines.map(l => inlineRender(l.trim())).join('<br>')}</p>\n`;
+    }
+    else if (pLines.length) html += `<p>${inlineRender(pLines.join(' '))}</p>\n`;
     else { html += `<p>${inlineRender(line)}</p>\n`; i++; }
   }
   return html;
@@ -3301,18 +3307,41 @@ function initMermaid() {
   if (!window._mmInit) {
     try {
       const dark = document.documentElement.getAttribute('data-theme') === 'dark';
+      // Nick 2026-11-10: role colours (ROLE_DEFS below), straight lines, larger text, green chart bars.
       window.mermaid.initialize({
         startOnLoad: false,
-        theme: dark ? 'dark' : 'neutral',
+        theme: dark ? 'dark' : 'base',
+        themeVariables: dark
+          ? { fontSize: '15px', edgeLabelBackground: '#0b130c', xyChart: { plotColorPalette: '#7ab882' } }
+          : { fontSize: '15px', primaryColor: '#ffffff', primaryBorderColor: '#8a978c', primaryTextColor: '#1b2a1e',
+              lineColor: '#5b6b5e', edgeLabelBackground: '#ffffff', xyChart: { plotColorPalette: '#2f6b3f' } },
         securityLevel: 'loose',
         // Pin a font so Mermaid measures box sizes with the SAME font it renders
         // with — otherwise the page's serif label font overflows the boxes.
         fontFamily: '"Trebuchet MS", "Segoe UI", Helvetica, Arial, sans-serif',
-        flowchart: { htmlLabels: true, useMaxWidth: true, padding: 10 }
+        flowchart: { htmlLabels: true, useMaxWidth: true, padding: 10, curve: 'linear', nodeSpacing: 40, rankSpacing: 45 }
       });
     } catch (e) {}
     window._mmInit = true;
   }
+  // Flowchart role classes, defined once here so pages only write `class A start` (CLAUDE.md → Mermaid;
+  // key in README → How to Use): start = entry point · test = test/decision · act = action · stop = end point.
+  const darkNow = document.documentElement.getAttribute('data-theme') === 'dark';
+  const ROLE_DEFS = darkNow
+    ? ['classDef start fill:#2f6b3f,stroke:#7ab882,color:#ffffff',
+       'classDef test fill:#1c2a3a,stroke:#6f9ccc,color:#e6efe8',
+       'classDef act fill:#16301d,stroke:#7ab882,color:#e6efe8,stroke-width:2px',
+       'classDef stop fill:#33291a,stroke:#c9a35a,color:#e6efe8']
+    : ['classDef start fill:#2f6b3f,stroke:#2f6b3f,color:#ffffff',
+       'classDef test fill:#e3edf7,stroke:#3d6a99,color:#1b2a1e',
+       'classDef act fill:#e8f1ea,stroke:#2f6b3f,color:#1b2a1e,stroke-width:2px',
+       'classDef stop fill:#f6f1e4,stroke:#a07a2c,color:#1b2a1e'];
+  document.querySelectorAll('.mermaid:not([data-processed])').forEach(el => {
+    const src = el.textContent;
+    if (/^\s*(flowchart|graph)\b/m.test(src) && !/classDef\s+(start|test|act|stop)\b/.test(src)) {
+      el.textContent = src.replace(/\s*$/, '') + '\n    ' + ROLE_DEFS.join('\n    ') + '\n';
+    }
+  });
   try { window.mermaid.run({ querySelector: '.mermaid:not([data-processed])' }); } catch (e) { console.warn('mermaid', e); }
 }
 

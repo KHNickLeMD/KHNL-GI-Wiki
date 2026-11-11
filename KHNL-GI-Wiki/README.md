@@ -97,6 +97,20 @@ TBD
 - The **Anki** tab in the sidebar is a placeholder — flashcard decks aren't wired up yet
 - Both side panels are collapsible for a distraction-free read: the **panel button at the top-left** tucks away the section sidebar, and the matching **button at the top-right** hides the *On this page* outline — click either again to bring the panel back
 
+## Reading Diagrams & Figures
+
+- **Flowchart colors** are the same on every page:
+	- **Dark green pill** — where the flowchart starts (the patient or finding you begin with)
+	- **Blue box** — a test or decision point
+	- **Green rounded box (bold outline)** — the action to take
+	- **Tan rounded box** — an end point, or "consider another cause"
+	- Text on an arrow is the result or condition that leads down that path
+- **Every chart, flowchart and figure has a caption underneath**, in this order: what it shows → where it came from → a link to the source page → what its abbreviations stand for
+	- *Redrawn from* = the guideline's own algorithm, redrawn in the wiki's style
+	- *Built from* = the guideline gives recommendations but no flowchart, so the wiki built one; each arrow names the statement it comes from
+	- *Data from* = the study or review behind a chart's numbers
+- Charts and figures only show what the cited source says — when a source doesn't give enough to draw something accurately, the wiki leaves it as text
+
 ## Graph View
 
 The website includes a **Graph View** — an interactive force-directed network visualization of the entire wiki, accessible from the left sidebar.

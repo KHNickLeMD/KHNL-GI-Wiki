@@ -6,6 +6,19 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-10] setup | Visual rules settled (grill with Nick)
+
+**Decided:**
+- Flowcharts: role colours (start / test / act / stop), straight lines, results on arrows, ≤ ~12 boxes (split only at a source seam). Colour key in README → How to Use, not on each diagram.
+- Flowcharts may be *redrawn* from a source algorithm or *built from* its statements (every arrow names its statement; overlap or unstated order → no flowchart).
+- Charts only for ≥3 values, same measure, same study; bar or line; no pie charts.
+- 4-line caption on every visual: label → source → link → abbreviations; no figure numbers.
+- The visual replaces the text it fully shows.
+- Copyright: open-access figures only; paywalled → redraw, or link for endoscopic photos. Sweep of the existing 109 images before release.
+- Anki Back Extra: tables and open-access figures, never flowcharts.
+
+**Site:** index.html now injects the role classes, draws straight lines and keeps caption line breaks (`.fig-caption`).
+
 ## [2026-11-10] setup | Release quality sweep — cron reviews pages and cards
 
 **Cron (`lint-cron.sh`, backup `lint-cron.sh.bak-2026-11-10` on the server):**

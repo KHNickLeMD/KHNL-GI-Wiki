@@ -121,12 +121,14 @@ Obsidian callout syntax; site renders a colored box (`renderCallout` in `index.h
 ### Prefer visuals over text
 - **Tables, decision trees/flowcharts, charts, embedded figures** over long bullet lists wherever they convey structure better. A page that earns a figure or table has one.
 - **Visual-first (Nick, 2026-11-10, pre-release).** A page whose sources support a visual gets one, more on long pages. Ceiling, not quota.
-  - **ACCURACY OUTRANKS VISUALS — never fabricate (Nick, 2026-11-10).** Every number, label, branch and arrow must trace to the ingested source's text and agree with the page. Anything needed is missing (a value, denominator, unit, time point, branch condition) → **make no figure**. Never estimate, interpolate, read values off a source graph by eye, or put numbers from different studies/populations on one axis as if comparable. Conceptual diagrams too: only relationships the source states. Caption = source + exact population ("systematic review, 21 studies, 166 patients"). No figure beats a wrong one.
+  - **ACCURACY OUTRANKS VISUALS — never fabricate (Nick, 2026-11-10).** Every number, label, branch and arrow must trace to the ingested source's text and agree with the page. Anything needed is missing (a value, denominator, unit, time point, branch condition) → **make no figure**. Never estimate, interpolate, read values off a source graph by eye, or put numbers from different studies/populations on one axis as if comparable. Conceptual diagrams too: only relationships the source states. No figure beats a wrong one.
   - Pick by content:
     - Parallel items with shared attributes (drugs, classes, strata, options) → **table**.
     - Algorithm, workup, if/then pathway → **Mermaid flowchart**.
-    - Numbers the source gives across groups/time (rates by stage, risk by score band, response by arm) → **Mermaid `xychart-beta` bar/line or `pie`**; source numbers only, axis titles + units, cite in the caption line.
-    - Source figure (algorithm, classification, endoscopic/radiologic image) → **embed it** (figure capture below).
+    - Numbers → chart **only if it beats a table**: **≥3 values, same measure, same study/review** (Mermaid `xychart-beta`; **bar** = groups, **line** = time/dose; axis titles + units). Fewer values or mixed studies → table or sentence. **No pie charts.**
+    - Source figure (algorithm, classification, endoscopic/radiologic image) → **embed only if open access** (figure capture + *Copyright* below).
+  - **The visual replaces the text it fully shows** — numbers move into it; text keeps only what it can't show (why, caveats). Delete text only when every value in it is in the visual.
+  - **Every visual gets the 4-line caption** (*Captions* below).
     - Never a decorative visual or one that repeats an adjacent table. No source data → no chart.
 - Mechanics: `Rendering Conventions → Images` (embed, figure capture, table recreation) and `→ Mermaid diagrams`.
 
@@ -240,18 +242,43 @@ Published via `#KHNL GI Wiki/index.html` (built-in Markdown engine, not Obsidian
 #### Mermaid diagrams
 - Line breaks in node labels: `<br/>`. **Never `\n`** — site and GitHub render it literally.
 - Double-quote labels containing spaces, `<`, `>`, `±`, `/`, parentheses.
+- **Flowchart style (Nick, 2026-11-10).** Site draws straight lines and injects the role colours — tag nodes with `class` lines only, **never write `classDef`**, never add a colour legend (key lives in README → How to Use):
+  - `start` dark-green pill `A(["…"])` = entry point · `test` blue box `B["…"]` = test/decision · `act` rounded `(["…"])` bold green = action · `stop` rounded tan = end point / consider other causes.
+  - **Results and conditions go on the arrows** (`B -- "MSI high" --> L`), not in their own boxes.
+  - **≤ ~12 boxes.** Bigger → split only at a seam the source has (separate entry point, a second decision); no clean seam → keep it whole.
+  - **Redrawn** = the source's own algorithm. **Built from** = no source flowchart, assembled from its statements: every arrow names its statement `(Statement 4)` in the source's wording; statements overlap, or their order isn't stated → **no flowchart**, keep the text.
+  - Old-style flowcharts (no classes/caption) → convert during that page's *Quality review*.
 ```mermaid
 flowchart TD
-    A["Symptoms of dysphagia<br/>± chest pain"] --> B["Upper endoscopy"]
+    A(["Any new colorectal cancer"]) --> B["Tumor testing for MSI or IHC"]
+    B -- "MSI high" --> L["Germline genetic testing"]
+    L -- "Positive for Lynch mutation" --> S(["Colonoscopy every 1–2 years"])
+    L -- "Negative" --> T(["Consider other familial cancer syndromes"])
+    class A start
+    class B,L test
+    class S act
+    class T stop
 ```
+
+#### Captions — every chart, flowchart, figure (Nick, 2026-11-10)
+- Italic lines directly under the visual, one item per line, no blank line between, **no figure numbers** (site keeps the breaks):
+```markdown
+*Lynch syndrome workup after a new colorectal cancer*
+*Source: redrawn from the AGA 2015 Lynch syndrome algorithm*
+*[[aga-2015-lynch-syndrome|AGA 2015 Lynch Syndrome Guideline]]*
+*MSI = microsatellite instability · IHC = immunohistochemistry*
+```
+- Line 2 says which kind: `redrawn from …` · `built from <source> Statements 2, 4, 6 and 21 (the guideline has no flowchart)` · `data from <exact population>, cited in …` · `figure N of <source>, open access (CC BY 4.0)`.
+- Line 4 = **every** abbreviation in the visual, even if expanded on the page; omit the line if none.
 
 #### Images
 - Embed `![[filename.png]]`; file must live in `raw/assets/` (site resolves embeds there). Standard `![alt](url)` also renders.
 - **Figure capture — mechanics (required at ingest; what/why in Content Guide).** Source has an **algorithm or clinical decision tool as a figure** (dx/tx algorithms, staging/classification figures, decision trees) → screenshot + embed on the matching page:
   1. Render the PDF page and crop precisely. PyMuPDF (`fitz`): bbox from `page.get_image_rects(xref)` or the figure's text-block bounds; `page.get_pixmap(matrix=fitz.Matrix(300/72,300/72), clip=rect).save(out)` (~300 dpi).
   2. Save to `raw/assets/<topic>-<year>-<descriptor>-<pagenum>.png` (`achalasia-2020-chicago-subtypes-05.png`).
-  3. Embed in the relevant section with sizing hint + italic caption naming the figure and citing the source: `![[file.png|700x183]]` then `*Figure N — caption. ([[source-slug]])*`.
-- **Endoscopic appearance — always capture the pictures (required; Nick, 2026-07-26).** Any page on an **endoscopic diagnosis, lesion classification, or grading made by looking** (Paris, NICE, Kudo, JNET, LST subtypes, Forrest, Los Angeles, Prague, Kudo/Haggitt/Kikuchi depth schematics, endoscopic severity scores): the criteria table is not enough — embed the source's **diagrams and endoscopic example images** showing each class, via figure-capture above. No ingested source has the image → note the gap and ask before going outside.
+  3. Embed in the relevant section with sizing hint + the 4-line caption (*Captions* above): `![[file.png|700x183]]`.
+- **Copyright — open access only (Nick, 2026-11-10, pre-release).** Embed a source figure only if its source is open access; caption line 2 names the licence. Paywalled → redraw as table/flowchart (accuracy rules), or for endoscopic/radiologic photos a link: `*See Figure 3 in [[source-slug]] for example images.*` Applies to card images too.
+- **Endoscopic appearance — always capture the pictures (required; Nick, 2026-07-26; open-access sources only since 2026-11-10).** Any page on an **endoscopic diagnosis, lesion classification, or grading made by looking** (Paris, NICE, Kudo, JNET, LST subtypes, Forrest, Los Angeles, Prague, Kudo/Haggitt/Kikuchi depth schematics, endoscopic severity scores): the criteria table is not enough — embed the source's **diagrams and endoscopic example images** showing each class, via figure-capture above. No ingested source has the image → note the gap and ask before going outside.
 - **Tables: recreate, don't screenshot.** Clinically relevant table → native Markdown table (renders/searches/links). Screenshot only figures/algorithms that can't be rendered as text.
 
 ## Operations
@@ -472,7 +499,7 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
 12. **Back Extra visuals (Nick, 2026-11-10).** When the page has a table, figure or chart that puts the answer in context (the full classification, all score bands, the dose table, the algorithm), put it in Back Extra:
     - Table → one `>` line of HTML: `> <table><tr><th>…</th></tr><tr><td>…</td></tr></table>` — only the rows/columns that frame this card, ≤6 rows, copied from the page.
     - Figure → `> <img src="https://giwiki.khnicklemd.com/KHNL-GI-Wiki/raw/assets/<file>.png" style="max-width:100%">` plus a `> <small><i>caption</i></small>` line.
-    - Mermaid can't render in Anki → recreate the key branch as a small table, or skip.
+    - **No flowcharts on cards** (Anki can't render Mermaid) — the footer link opens the page section. Figures: open-access only (*Copyright*).
     - Never on the front if it reveals the answer; never an asset that isn't on the page. Same no-fabrication rule as *Visual-first*: every cell copied from the page, nothing missing filled in.
 
 - **Card quality review — release sweep (Nick, 2026-11-10).** Every card pass, after dedup, `{at:}` backfill and new cards; by budget. Queue: `python3 /repo/website_files/scripts/review-queue.py --cards 10` (never-reviewed, most notes first). One card file at a time, finished before the next:
