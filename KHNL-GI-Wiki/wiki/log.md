@@ -17,6 +17,18 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-10] update | Download list — 16 rows were already in `raw/`; ISHEN 2013 downloaded
+
+**Chrome session with Nick.** Before downloading, every 🔒/🌐 row on [[needed-sources]] was checked against `raw/` by filename and author. **16 rows name documents already in `raw/`**, mostly from the 2026-10-22 Chrome session. The 2026-10-29 audit concluded those files never arrived, and that was wrong for these. None has a `wiki/sources/` page or is cited by one.
+
+- **Why the backlog passes missed them:** about half are **supplements or appendices** to a guideline that already has a source page (ACG celiac, H. pylori and IBS supplements; Baveno VIII Tables S1–S4; USMSTF 2020 Appendix 4a/4b; ENDURO Additional File 3; Padova SDC; the AGA 2015 cyst decision tool). Filename-to-source-page matching reports these as covered.
+- **Fix:** those rows now sit in a new section, *In `raw/`, awaiting ingest*, which gives each file's exact path and the page to ingest it into. Backlog passes should take them like any other uningested file.
+- **Downloaded:** *ISHEN 2013 nutritional management of HE in cirrhosis (Amodio)*, via the USC proxy → `raw/GI Guidelines/Other/`. The row asked for "Supplementary Figure 1", but the RFH-NPT item-level scoring is **Figure 2 of the main article**. The row now says so.
+- **One mislabelled file:** `ACG 2018 Management of Irritable Bowel Syndrome - Supplementary Digital Content 1.pdf` is the **Lacy 2021** guideline's supplement; the row records this.
+- **Still not obtainable:** Eckardt 1992 (library scan request), WHO Blue Book 5th ed. (paid), CDC Yellow Book / parasite pages and the NIH-CDC-IDSA opportunistic-infections guidelines (live websites, not documents).
+
+---
+
 ## [2026-11-10] update | ESD page reorganized; consistent-organization rule; card front-context sweep
 
 **Ask (Nick):** ESD page organization inconsistent (gastric criteria its own `##`, esophageal a `###` under the size table; "Gastric ESD Appropriateness Criteria" vs "Duodenal ESD"). Also: why do ESCC expanded criteria include m3/sm <200 µm if m3+ is noncurative? And a CRC-only card front that never said colorectal.
