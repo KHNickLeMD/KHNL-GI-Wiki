@@ -684,7 +684,10 @@
   .md-body .fig-caption { font-size: 13px; line-height: 1.5; color: var(--text-muted); margin: 4px 0 18px; }
   .md-body .mermaid .nodeLabel, .md-body .mermaid .edgeLabel,
   .md-body .mermaid foreignObject div, .md-body .mermaid span,
-  .md-body .mermaid p { font-family: "Trebuchet MS","Segoe UI",Helvetica,Arial,sans-serif !important; white-space: normal !important; margin: 0; }
+  .md-body .mermaid p { font-family: "Trebuchet MS","Segoe UI",Helvetica,Arial,sans-serif !important; margin: 0; }
+  /* 2026-11-10: a bare `white-space: normal` let Mermaid measure every label at min-content, so boxes
+     collapsed to one word per line. Natural width, wrapping only past 240px. */
+  .md-body .mermaid .nodeLabel, .md-body .mermaid .edgeLabel { white-space: normal !important; display: inline-block; width: max-content; max-width: 240px; }
   .md-body ul, .md-body ol { margin: 0 0 14px 20px; }
   .md-body li { margin-bottom: 4px; }
   .md-body li p { margin: 0; }
