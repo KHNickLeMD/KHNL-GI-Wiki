@@ -6,6 +6,29 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-11] update | Card pass — deck slim, then cards by budget
+
+**Slim the deck (dedup):** `anki-dupes.mjs` → **0** unjudged candidate pairs at session start, so no merges. After the new card below was written the scan surfaced **1** pair, judged and marked: `crohns-disease [cd2510]` vs `capsule-endoscopy [ca5008]` → **distinct** (opposite populations — `cd2510` is the patency-capsule/imaging prerequisite that *permits* capsule endoscopy despite obstructive symptoms; `ca5008` is ASGE 2025 restricting it to patients *without* them and positioning it second-line). `ca5008` was narrowed so it no longer re-tests the patency prerequisite `cd2510` owns. Ledger now 563 rows.
+
+**Section anchors (`{at:}`):** `anki-at.py --status` → **0 untagged notes in 0 files** before and after; backfill queue empty, step did nothing.
+
+**Unfinished pages:** none — all 353 card files carry `page_updated:`, so nothing to resume.
+
+**Cards written:**
+- `capsule-endoscopy` — **1 new note** (`ca5008`): in suspected small-bowel Crohn's disease, capsule endoscopy only once ileocolonoscopy and/or small-bowel imaging is inconclusive, and only in patients without obstructive symptoms ([[asge-2025-ibd-endoscopy-consensus]]).
+
+**Pages re-reviewed, no new cards (facts owned elsewhere or fail the high-yield test):**
+- `intestinal-ultrasound` — ASGE 2025 adds only a "can be considered, where available" stance plus a failed-consensus note; both are in the *Cut* list, and the four IUS targets already sit in `1b5008`. `page_updated` bumped.
+- `ostomy-management` — the new stoma-endoscopy point (advance beyond the fascia) is already carded as `crohns-disease [cd2592]`, the owner page the ostomy page itself links to for the decision and interval; the diverted-bowel line is a pure cross-link. `page_updated` bumped.
+
+**Deck hygiene:** fixed the two length-cap violations the build had been reporting since the 2026-11-11 ingest — `pouchitis [ba1010]` (17-word bullet → risk list condensed, full wording moved to Back Extra) and `inflammatory-bowel-disease [a31d20]` (16-word bullet → split into two `c1` bullets). Build now reports **0 problems, 4464 notes**.
+
+**Nothing else eligible:** the only remaining pages without a current card file are the three standing deliberate skips, each re-verified this pass rather than taken on trust — `peginterferon-alfa-2a` (label-sourced; its one guideline-backed fact is owned by `chronic-hepatitis-b [b01018]`, the delta facts by `da1005`/`da1009`), `bristol-stool-form-scale` (own content is Lewis 1997, a primary paper; the page explicitly delegates every threshold to its owner page), `telemedicine-in-gastroenterology` (practice-management content, no tag node). Per *Quality over quota*, no cards were written to use the remaining budget.
+
+**For triage:** ASGE 2025 statement 7 — *cross-sectional imaging (CT or MR enterography) around the time of the index ileocolonoscopy, to verify the diagnosis, assess extent and evaluate for stricture/fistula* — currently appears **only** as a trailing clause on `[[intestinal-ultrasound]]`; it never reached `[[inflammatory-bowel-disease]]` or `[[crohns-disease]]`, where the index-workup decision lives. Left uncarded (one-owner rule: the owner page does not yet state it). A lint pass should propagate it.
+
+---
+
 ## [2026-11-11] lint | Backlog pass — ingest by budget
 
 **Mode:** backlog mode **ON**. Per *Backlog mode*, ingest takes the whole pass budget; *Validate the stalest pages*, *Expand stubs* and *Fill coverage gaps* are **paused: ingest backlog**. Health check, git hygiene and this entry still run.
