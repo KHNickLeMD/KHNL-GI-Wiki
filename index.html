@@ -3201,6 +3201,9 @@ function renderList(lines) {
 function inlineRender(text) {
   if (!text) return '';
   let out = escHtml(text);
+  // Markdown escapes \* and \_ (footnote markers etc.) → literal char, never emphasis; code spans untouched.
+  const esc = [];
+  out = out.replace(/(`[^`]+`)|\\([*_])/g, (m, code, ch) => code || '' + (esc.push(ch) - 1) + '');
   out = out.replace(/\*\*\*(.*?)\*\*\*/g,'<strong><em>$1</em></strong>');
   out = out.replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>');
   out = out.replace(/\*(.*?)\*/g,'<em>$1</em>');
@@ -3245,6 +3248,7 @@ function inlineRender(text) {
     return `<a class="wiki-link${exists?'':' missing'}" onclick="navigateTo('${jsStr(ns)}')">${escHtml(display)}</a>`;
   });
   out = out.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, label, url) => `<a href="${safeUrl(url)}" target="_blank" rel="noopener">${label}</a>`);
+  out = out.replace(/(\d+)/g, (m, i) => esc[i] === '*' ? '&#42;' : '&#95;');
   return out;
 }
 
