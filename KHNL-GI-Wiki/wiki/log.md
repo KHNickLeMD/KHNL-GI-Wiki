@@ -1,6 +1,17 @@
 # Wiki Log
 
-Append-only chronological record. Each entry: `## [YYYY-MM-DD] TYPE | Title`
+Append-only chronological record. Each entry: `## [2026-11-10] setup | Release quality sweep — cron reviews pages and cards
+
+**Cron (`lint-cron.sh`, backup `lint-cron.sh.bak-2026-11-10` on the server):**
+- New page *Quality review* step, $20, on all four daily runs (00/06/12/18). Never paused by backlog mode — backlog mode had paused stalest-page review entirely.
+- Card step $12 → $15. Ends with the *Card quality review*: correlate with the page, consolidate, Back Extra tables/figures.
+- Lint and review steps can now run `pdftoppm` + `convert`, so figure capture works on the server.
+
+**Rules (CLAUDE.md):** *Visual-first*, *Quality review — release sweep*, card writing rule 12 (Back Extra visuals), *Card quality review*. Markers: `quality_reviewed:` on pages, `cards_reviewed:` on card files.
+
+**Start:** 0/356 pages and 0/353 card files reviewed; 23 pages have no table, diagram or figure; 14 Back Extra visuals deck-wide. Progress: `review-queue.py --status`.
+
+## [YYYY-MM-DD] TYPE | Title`
 
 Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
