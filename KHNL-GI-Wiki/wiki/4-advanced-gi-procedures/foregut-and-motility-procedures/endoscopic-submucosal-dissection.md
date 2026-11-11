@@ -3,7 +3,7 @@ title: "Endoscopic Submucosal Dissection (Esophagogastric)"
 category: advanced-procedure
 tags: [esd, endoscopic-resection, emr, early-gastric-cancer, early-esophageal-cancer, en-bloc, r0-resection, pathology, training, duodenal]
 created: 2026-06-27
-updated: 2026-10-21
+updated: 2026-11-10
 sources: [asge-2023-esd, aga-2026-electrosurgery, aga-2018-esd-united-states, aga-2021-post-esd-surveillance, aga-2019-esd-t1b-esophageal-cancer]
 ---
 
@@ -11,14 +11,17 @@ En-bloc endoscopic resection of early gastrointestinal (GI) neoplasia using elec
 
 ## Contents
 - [[#Definitions]]
-- [[#ESD vs EMR vs Surgery — Lesion-Based Selection]]
-  - [[#Esophageal Indications — Lesion Features]]
-- [[#Curative (R0) Resection Criteria]]
-  - [[#What Counts as R0 in a Field of Premalignant Mucosa]]
 - [[#Depth of Invasion]]
-  - [[#Deep-Invasion Thresholds That Still Permit Cure]]
-- [[#Gastric ESD Appropriateness Criteria]]
-- [[#Duodenal ESD]]
+- [[#Lesion Selection — ESD vs EMR vs Surgery]]
+- [[#Indications by Organ]]
+  - [[#Esophagus — Squamous Neoplasia]]
+  - [[#Esophagus — Barrett's Neoplasia]]
+  - [[#Stomach]]
+  - [[#Duodenum]]
+  - [[#Colon and Rectum]]
+- [[#Curative Resection Criteria]]
+  - [[#Depth Thresholds by Organ]]
+  - [[#What Counts as R0 in a Field of Premalignant Mucosa]]
 - [[#Post-Resection Coagulation and Closure]]
 - [[#Specimen Handling and Pathology]]
 - [[#Outcomes]]
@@ -35,60 +38,6 @@ En-bloc endoscopic resection of early gastrointestinal (GI) neoplasia using elec
 - **ESD principle:** electrosurgical-knife dissection removes lesions much larger than snares allow in one piece → critical for a low recurrence rate.
 - **Third-space energy delivery:** which current to use for dissection vs fibrosis, the 10 W knife-shaft technique for preemptive vessel sealing, when to switch to coagulation forceps, and underwater settings are on **[[electrosurgery#Third-Space Endoscopy (ESD, POEM)]]** ([[aga-2026-electrosurgery]] Best Practice Advice [BPA] 13).
 
-## ESD vs EMR vs Surgery — Lesion-Based Selection
-
-All recommendations are *conditional*, low quality (Grading of Recommendations Assessment, Development and Evaluation [GRADE] "suggest"). Thresholds are for **early-stage, well- or moderately differentiated** cancers. **Ulceration status is not a uniform qualifier — read it per row.** [[asge-2023-esd]]
-
-| Cancer | ESD over EMR | Either ESD or EMR | Surgery |
-|---|---|---|---|
-| **Esophageal squamous cell carcinoma (ESCC)**, nonulcerated | >15 mm | ≤15 mm | **Against surgery** when endoscopic resection feasible |
-| **[[esophageal-adenocarcinoma\|Esophageal adenocarcinoma (EAC)]]**, nonulcerated | >20 mm | ≤20 mm | (no comparative ESD-vs-surgery evidence) |
-| **Gastric adenocarcinoma (GAC)**, intestinal type | 20–30 mm ⚠ *see ulceration note* | <20 mm — **nonulcerated only** | **Against surgery** for ≤30 mm, **intestinal type** (this row carries *no* ulceration qualifier); **poorly differentiated (any size) → surgical evaluation** over endoscopy |
-
-- The GAC decision turns on **4 factors**: differentiation (well/moderate vs poor), morphology (ulcerated vs nonulcerated), type (intestinal vs diffuse), and size.
-- ⚠ **Unresolved — [[asge-2023-esd|American Society for Gastrointestinal Endoscopy (ASGE) 2023]] contradicts itself on ulceration in the 20–30 mm GAC row.** The abstract and the summary PICO (population, intervention, comparison, outcome) table both specify "**nonulcerated**, intestinal type… measuring 20 to 30 mm"; the Question 3a recommendation text in the body says "measuring 20 to 30 mm, **with or without ulceration**, intestinal type." The guideline gives no reconciliation. The **conservative reading is *nonulcerated*** — it is the version that appears twice, and the same document states that ulceration "indicates a high likelihood of invasion into the submucosa, and thus ulcerated lesions should not be" resected endoscopically on that basis, and lists "clear ulceration" among the features that should push toward surgical evaluation.
-
-- Lesions exceeding size/depth criteria (e.g. deep submucosal invasion) → **surgical evaluation** over endoscopic approaches.
-- Applies to early [[esophageal-cancer|ESCC/EAC]], early [[gastric-adenocarcinoma|GAC]], and their precursor lesions ([[barretts-esophagus|Barrett's]] dysplasia, gastric [[gastric-intestinal-metaplasia|intestinal metaplasia]]/dysplasia).
-
-### Esophageal Indications — Lesion Features
-
-Size alone does not decide the esophagus. [[aga-2018-esd-united-states]] adds depth- and feature-based indications that the size table above does not carry:
-
-| Setting | Indication |
-|---|---|
-| **Squamous dysplasia / ESCC** | ESD is the **primary modality** for squamous dysplasia and cancer confined to superficial mucosa. **Absolute:** high-grade dysplasia (HGD) to G1–G2, Paris 0-II, **m1–m2** involvement with **≤ two thirds of the esophageal circumference**. **Expanded:** **m3 or sm <200 µm**, **any size**, clinically N0. **Any degree of submucosal invasion** carries increased lymph-node-metastasis risk → consider alternative/additional therapy. The aim in ESCC should **always be en-bloc removal, with ESD first-line** |
-| **[[barretts-esophagus\|Barrett's esophagus (BE)]]** | EMR is first-line for BE overall; ESD is for **lesion features**, not size alone: large or bulky area of **nodularity**; high likelihood of **superficial submucosal invasion**; **recurrent dysplasia**; **EMR specimen showing invasive carcinoma with positive margins**; **equivocal preprocedural histology**; **intramucosal carcinoma** |
-
-- **Why lesion features matter:** preresection and postresection histology disagree in **30%–60% of cases**, so an unrecognised invasive component is common — ESD's accurate histopathologic evaluation is the reason to choose it. A **deep margin** positive for neoplasia on an EMR specimen means residual neoplasia should be assumed; ESD is the best-suited endoscopic modality for that additional therapy.
-- **Curative endoscopic resection in BE** requires negative lateral **and** deep margins, well-to-moderate differentiation, no lymphovascular invasion, and **no submucosal invasion or only superficial (<500 µm)** invasion. **High risk for lymph-node metastasis:** positive deep margin, invasion **≥500 µm** into submucosa, poor differentiation, or lymphovascular invasion.
-- ⚠ **Size thresholds differ between sources.** [[aga-2018-esd-united-states]] Table 2 suggests ESD for BE **T1a lesions ≥15 mm** not amenable to en-bloc EMR; the newer [[asge-2023-esd]] uses **>20 mm** for EAC — the threshold this page asserts, in the table above.
-- ESD is repeatedly shown **superior to EMR** for en-bloc, R0, and curative resection with lower recurrence in ESCC; a **40-patient randomized controlled trial (RCT)** in BE with HGD/early adenocarcinoma **≤3 cm** found higher R0 and curative resection with ESD, with **no difference in complete remission at 3 months** and no long-term recurrence data. ([[aga-2018-esd-united-states]])
-
-## Curative (R0) Resection Criteria
-Clinical success = **curative resection** requires ALL of the following on histology of the resected specimen:
-1. Circumferential (lateral/horizontal) **and** deep (vertical) margins microscopically free of malignant cells (R0)
-2. Well (G1) or moderate (G2) differentiation
-3. No lymphovascular invasion
-4. **Low-grade (grade 1) or absent tumor budding** ([[aga-2021-post-esd-surveillance]])
-5. No deep invasion — organ-specific depth limits in [[#Deep-Invasion Thresholds That Still Permit Cure]]
-
-Failure of any criterion → not curative → consider surgery / adjuvant therapy.
-
-### What Counts as R0 in a Field of Premalignant Mucosa
-
-Per [[aga-2021-post-esd-surveillance]]:
-
-- **No minimal distance** is required between tumor cells and the resection margin for ESD — unlike surgical R0 resection.
-- Lesion sitting in a field of lesser dysplasia ([[barretts-esophagus|Barrett's]], severe [[atrophic-gastritis]]) → consider the resection **R0 if the highest histologic grade of the target neoplasm is not present at the margins**. Example: a large HGD nodule in BE removed completely, flat low-grade dysplasia (LGD) present at the specimen margin = R0 for HGD.
-- **R1 horizontal margin** (microscopic) with otherwise low-risk histology → additional endoscopic therapy by ESD or [[endoscopic-mucosal-resection|EMR]] is possible.
-- **R1 deep/vertical margin** after ESD of a malignant neoplasm → **prompt referral for surgery**.
-- Western pathology does not uniformly use the Japanese protocol (2–3 mm serial sectioning, lymphovascular-invasion stains), and there is no uniformly accepted definition of a negative R0 margin — the reason the surveillance intervals below are tighter than Asian protocols require.
-
-**Noncurative findings that surface only on post-ESD pathology** (gastric — each prompts **multidisciplinary review** rather than automatic gastrectomy, given the risks of gastrectomy): positive lateral **or** deep margin; submucosal infiltration **>500 µm**; poorly differentiated or undifferentiated pathology; **ulcerated tumor >3 cm**; lymphovascular invasion. [[asge-2023-esd]]
-
-- **Positive lateral margin as the *only* noncurative criterion:** mounting evidence that **additional endoscopic therapy within 3–6 months** suffices in lieu of surgery, with long-term remission; the long-term strategy is formally unresolved.
-
 ## Depth of Invasion
 | Level | Depth |
 |---|---|
@@ -101,9 +50,70 @@ Per [[aga-2021-post-esd-surveillance]]:
 
 Deeper invasion → higher lymph-node metastasis risk → favors surgery. **In the esophagus the SM1 ceiling is histology-specific — 200 µm for squamous cell carcinoma, 500 µm for adenocarcinoma** — and the nodal risk at each level differs sharply by cell type: [[esophageal-cancer#T1b Substaging and Nodal Risk]] ([[aga-2019-esd-t1b-esophageal-cancer]]).
 
-### Deep-Invasion Thresholds That Still Permit Cure
+## Lesion Selection — ESD vs EMR vs Surgery
 
-Depth of submucosal invasion below the muscularis mucosae compatible with a **curative** ESD, by organ ([[aga-2021-post-esd-surveillance]]):
+All recommendations are *conditional*, low quality (Grading of Recommendations Assessment, Development and Evaluation [GRADE] "suggest"). Thresholds are for **early-stage, well- or moderately differentiated** cancers. **Ulceration status is not a uniform qualifier — read it per row.** [[asge-2023-esd]]
+
+| Cancer | ESD over EMR | Either ESD or EMR | Surgery |
+|---|---|---|---|
+| **Esophageal squamous cell carcinoma (ESCC)**, nonulcerated | >15 mm | ≤15 mm | **Against surgery** when endoscopic resection feasible |
+| **[[esophageal-adenocarcinoma\|Esophageal adenocarcinoma (EAC)]]**, nonulcerated | >20 mm | ≤20 mm | (no comparative ESD-vs-surgery evidence) |
+| **Gastric adenocarcinoma (GAC)**, intestinal type | 20–30 mm ⚠ *see ulceration note* | <20 mm — **nonulcerated only** | **Against surgery** for ≤30 mm, **intestinal type** (this row carries *no* ulceration qualifier); **poorly differentiated (any size) → surgical evaluation** over endoscopy |
+
+- The GAC decision turns on **4 factors**: differentiation (well/moderate vs poor), morphology (ulcerated vs nonulcerated), type (intestinal vs diffuse), and size.
+- ⚠ **Unresolved — [[asge-2023-esd|American Society for Gastrointestinal Endoscopy (ASGE) 2023]] contradicts itself on ulceration in the 20–30 mm GAC row.** The abstract and the summary PICO (population, intervention, comparison, outcome) table both specify "**nonulcerated**, intestinal type… measuring 20 to 30 mm"; the Question 3a recommendation text in the body says "measuring 20 to 30 mm, **with or without ulceration**, intestinal type." The guideline gives no reconciliation. The **conservative reading is *nonulcerated*** — it is the version that appears twice, and the same document states that ulceration "indicates a high likelihood of invasion into the submucosa, and thus ulcerated lesions should not be" resected endoscopically on that basis, and lists "clear ulceration" among the features that should push toward surgical evaluation.
+- Lesions exceeding size/depth criteria (e.g. deep submucosal invasion) → **surgical evaluation** over endoscopic approaches.
+- Applies to early [[esophageal-cancer|ESCC/EAC]], early [[gastric-adenocarcinoma|GAC]], and their precursor lesions ([[barretts-esophagus|Barrett's]] dysplasia, gastric [[gastric-intestinal-metaplasia|intestinal metaplasia]]/dysplasia).
+
+## Indications by Organ
+
+Size alone does not decide the indication. Sources: [[aga-2018-esd-united-states]] (esophagus, duodenum), [[asge-2023-esd]] (stomach).
+
+### Esophagus — Squamous Neoplasia
+- **Role:** ESD is the **primary modality** for squamous dysplasia and cancer confined to superficial mucosa. Aim is **always en-bloc removal, ESD first-line** — ESCC metastasizes to nodes at earlier stages than Barrett's neoplasia, so accurate histology matters more.
+- **Absolute indications:** high-grade dysplasia (HGD) to G1–G2, Paris 0-II, **m1–m2**, **≤ two thirds of the esophageal circumference**.
+- **Expanded indications:** **m3 or sm <200 µm**, **any size**, clinically N0.
+- **Curative after resection:** **m1–m2 only.** m3 or any submucosal invasion is noncurative ([[#Depth Thresholds by Organ]]) → consider alternative/additional therapy.
+- ESD repeatedly **superior to EMR** for en-bloc, R0, and curative resection, with lower recurrence.
+
+> [!pearl] Expanded indication ≠ curative resection
+> m3/sm1 ESCC may be resected (excisional staging), but the pathology is noncurative: nodal risk ≈10% at m3, 8%–27% at sm1. Fit → esophagectomy; unfit → multidisciplinary review, close surveillance with endoscopic ultrasound (EUS) and computed tomography (CT) or positron emission tomography (PET)-CT, ± chemoradiotherapy ([[aga-2021-post-esd-surveillance]], [[aga-2019-esd-t1b-esophageal-cancer]]).
+
+### Esophagus — Barrett's Neoplasia
+- **Role:** EMR is first-line for [[barretts-esophagus|Barrett's esophagus (BE)]] overall; ESD is chosen for **lesion features**, not size alone.
+- **Indications:** large or bulky area of **nodularity**; high likelihood of **superficial submucosal invasion**; **recurrent dysplasia**; **EMR specimen showing invasive carcinoma with positive margins**; **equivocal preprocedural histology**; **intramucosal carcinoma**.
+- **Curative after resection:** negative lateral **and** deep margins, well-to-moderate differentiation, no lymphovascular invasion, and **no or only superficial (<500 µm) submucosal invasion**. **High nodal risk:** positive deep margin, invasion **≥500 µm**, poor differentiation, or lymphovascular invasion.
+- **Why lesion features matter:** preresection and postresection histology disagree in **30%–60% of cases** → an unrecognised invasive component is common. A **deep margin** positive for neoplasia on an EMR specimen → assume residual neoplasia; ESD is the best-suited endoscopic modality for the additional therapy.
+- ⚠ **Size threshold differs between sources:** [[aga-2018-esd-united-states]] suggests ESD for BE **T1a lesions ≥15 mm** not amenable to en-bloc EMR; the newer [[asge-2023-esd]] uses **>20 mm** for EAC — the threshold this page asserts ([[#Lesion Selection — ESD vs EMR vs Surgery]]).
+- **Evidence:** a **40-patient randomized controlled trial (RCT)** in BE with HGD/early adenocarcinoma **≤3 cm** found higher R0 and curative resection with ESD, **no difference in complete remission at 3 months**, no long-term recurrence data.
+
+### Stomach
+- **Absolute indications:** mucosal adenocarcinoma (or HGD), **intestinal type**, G1/G2, **≤2 cm**, nonulcerated.
+- **Expanded indications** (include, e.g.): intestinal-type G1/G2 of any size without ulceration; intestinal-type G1/G2 with submucosal invasion <500 µm; intestinal-type G1/G2 ≤3 cm with ulceration; diffuse-type G3/G4 ≤2 cm without ulceration; en-bloc resection for lesions at risk for submucosally invasive cancer.
+- **Why the criteria are drawn there — the lymph-node-metastasis risk each accepts:** **0.2%** absolute, **0.7%** expanded (meta-analyses) — both judged practically acceptable, with comparable outcomes. These numbers are the whole justification for resecting endoscopically instead of gastrectomy.
+- **Noncurative after resection** — each prompts **multidisciplinary review** rather than automatic gastrectomy: positive lateral **or** deep margin; submucosal infiltration **>500 µm**; poorly differentiated or undifferentiated pathology; **ulcerated tumor >3 cm**; lymphovascular invasion.
+- **Positive lateral margin as the *only* noncurative criterion:** mounting evidence that **additional endoscopic therapy within 3–6 months** suffices in lieu of surgery, with long-term remission; the long-term strategy is formally unresolved.
+
+### Duodenum
+- The duodenal wall is **highly vascular**, has a **thin muscularis propria**, and is exposed to **gastric acid, bile, and pancreatic juice** → high rates of immediate and delayed bleeding and of perforation.
+- **Restrict to endoscopists with extensive ESD experience in other locations**, and **refrain during the early phase of an ESD practice** ([[aga-2018-esd-united-states]] BPA 6). Lesion selection and perforation rates are on [[nonampullary-duodenal-adenoma]].
+
+### Colon and Rectum
+- Indications, hybrid ESD, and early-T1 CRC resection are on [[colorectal-esd]].
+
+## Curative Resection Criteria
+Clinical success = **curative resection** requires ALL of the following on histology of the resected specimen:
+1. Circumferential (lateral/horizontal) **and** deep (vertical) margins microscopically free of malignant cells (R0)
+2. Well (G1) or moderate (G2) differentiation
+3. No lymphovascular invasion
+4. **Low-grade (grade 1) or absent tumor budding** ([[aga-2021-post-esd-surveillance]])
+5. No deep invasion — organ-specific depth limits below
+
+Failure of any criterion → not curative → consider surgery / adjuvant therapy. Organ-specific noncurative findings are under each organ in [[#Indications by Organ]].
+
+### Depth Thresholds by Organ
+
+Depth of submucosal invasion below the muscularis mucosae compatible with a **curative** ESD ([[aga-2021-post-esd-surveillance]]):
 
 | Cancer type / organ | Curative if submucosal invasion is |
 |---|---|
@@ -111,15 +121,15 @@ Depth of submucosal invasion below the muscularis mucosae compatible with a **cu
 | Colorectal **adenocarcinoma** | **<1000 µm** (colorectal detail on [[colorectal-esd]]) |
 | Esophageal **squamous cell carcinoma** | **No depth is curative once the muscularis mucosae is reached** — m3 (muscularis mucosae) or any submucosal invasion is noncurative, given the increased lymph-node-metastasis risk |
 
-## Gastric ESD Appropriateness Criteria
-- **Absolute criteria:** mucosal adenocarcinoma (or high-grade dysplasia), **intestinal type**, G1/G2 differentiation, measuring **≤2 cm**, nonulcerated.
-- **Expanded criteria** (include, e.g.): intestinal-type G1/G2 of any size without ulceration; intestinal-type G1/G2 with submucosal invasion <500 µm; intestinal-type G1/G2 ≤3 cm with ulceration; diffuse-type G3/G4 ≤2 cm without ulceration; en-bloc resection for lesions at risk for submucosally invasive cancer. [[asge-2023-esd]]
-- **Why the criteria are drawn there — the lymph-node-metastasis risk each accepts:** **0.2%** under the absolute criteria, **0.7%** under the expanded criteria (meta-analyses) — both judged practically acceptable, and outcomes between the two indication sets were comparable. These numbers are the whole justification for resecting endoscopically instead of gastrectomy. [[asge-2023-esd]]
+### What Counts as R0 in a Field of Premalignant Mucosa
 
-## Duodenal ESD
+Per [[aga-2021-post-esd-surveillance]]:
 
-- The duodenal wall is **highly vascular**, has a **thin muscularis propria**, and is exposed to **gastric acid, bile, and pancreatic juice** → high rates of immediate and delayed bleeding and of perforation.
-- **Restrict to endoscopists with extensive ESD experience in other locations**, and **refrain during the early phase of an ESD practice**. ([[aga-2018-esd-united-states]] BPA 6.) Perforation rates are on [[nonampullary-duodenal-adenoma]].
+- **No minimal distance** is required between tumor cells and the resection margin for ESD — unlike surgical R0 resection.
+- Lesion sitting in a field of lesser dysplasia ([[barretts-esophagus|Barrett's]], severe [[atrophic-gastritis]]) → consider the resection **R0 if the highest histologic grade of the target neoplasm is not present at the margins**. Example: a large HGD nodule in BE removed completely, flat low-grade dysplasia (LGD) present at the specimen margin = R0 for HGD.
+- **R1 horizontal margin** (microscopic) with otherwise low-risk histology → additional endoscopic therapy by ESD or [[endoscopic-mucosal-resection|EMR]] is possible.
+- **R1 deep/vertical margin** after ESD of a malignant neoplasm → **prompt referral for surgery**.
+- Western pathology does not uniformly use the Japanese protocol (2–3 mm serial sectioning, lymphovascular-invasion stains), and there is no uniformly accepted definition of a negative R0 margin — the reason the surveillance intervals below are tighter than Asian protocols require.
 
 ## Post-Resection Coagulation and Closure
 
@@ -148,7 +158,7 @@ Meta-analysis (8 observational studies; 821 ESD vs 1306 EMR):
 
 ## Surveillance
 - Comparative data on post-ESD surveillance tools and intervals were **notably lacking**; what follows is the guideline panel's proposal, not graded evidence. [[asge-2023-esd]]
-- **T1b pathologic stage with negative deep margins:** endoscopic surveillance with **consideration of computed tomography (CT) and/or [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]**, started **earlier** than for lower-stage disease — **first endoscopy at 3–6 months, then annually.**
+- **T1b pathologic stage with negative deep margins:** endoscopic surveillance with **consideration of CT and/or [[endoscopic-ultrasound|EUS]]**, started **earlier** than for lower-stage disease — **first endoscopy at 3–6 months, then annually.**
 - **After piecemeal resection or a positive margin:** higher recurrence risk → **take biopsy samples** at surveillance rather than relying on inspection alone.
 - **Long-term surveillance is warranted** in all cases (metachronous risk). Also follow lesion-/organ-specific schedules (see [[barretts-esophagus]], [[gastric-adenocarcinoma]], [[colorectal-cancer]]).
 - **Recurrent/metachronous early gastric cancer:** no confident ESD-vs-surgery conclusion (studies did not separate true recurrence from incomplete resection); EMR-vs-ESD data clearly favour **ESD**. Decide at a **multidisciplinary meeting**.

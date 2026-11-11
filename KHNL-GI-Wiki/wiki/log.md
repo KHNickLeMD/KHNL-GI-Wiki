@@ -6,6 +6,23 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-10] update | ESD page reorganized; consistent-organization rule; card front-context sweep
+
+**Ask (Nick):** ESD page organization inconsistent (gastric criteria its own `##`, esophageal a `###` under the size table; "Gastric ESD Appropriateness Criteria" vs "Duodenal ESD"). Also: why do ESCC expanded criteria include m3/sm <200 µm if m3+ is noncurative? And a CRC-only card front that never said colorectal.
+
+**Pages updated:**
+- [[endoscopic-submucosal-dissection]] — new `## Indications by Organ` with parallel `###` siblings (Esophagus — Squamous Neoplasia, Esophagus — Barrett's Neoplasia, Stomach, Duodenum, Colon and Rectum), each ordered indications → curative after resection → notes; Depth of Invasion moved ahead of indications; gastric noncurative findings moved into Stomach; `[!pearl]` *Expanded indication ≠ curative resection* (AGA 2018 + AGA 2021). No inbound `#heading` links existed.
+
+**Schema (CLAUDE.md):**
+- Style Guide → new *Consistent organization — parallel things look parallel*; added to the stalest-page lint checklist.
+- Cards writing rule 1 → organ-specific facts name the organ/disease on the front.
+
+**Cards:**
+- ESD card file: `{at:}` remapped to the new headings; `a1c0e5`/`a1c0ec` Back Extra note expanded ≠ curative; new draft `a1c104` (m3/SM1 ESCC noncurative → next step); `a1c0f1` front now says gastric.
+- Deck-wide sweep: 1,149 fronts lacking any organ/disease word reviewed; 69 fronts given their subject (e.g. `T1 colorectal cancer —`, `Colorectal polyp, Paris 0-IIc`, `Disconnected pancreatic duct`); 1 proposal dropped (would have leaked the answer). Backup: `cards/dist/cards-backup-2026-11-10-pre-context.tar.gz`.
+
+---
+
 ## [2026-11-11] update | Card pass — deck slim, then cards by budget
 
 **Slim the deck (dedup):** `anki-dupes.mjs` → **0** unjudged candidate pairs at session start, so no merges. After the new card below was written the scan surfaced **1** pair, judged and marked: `crohns-disease [cd2510]` vs `capsule-endoscopy [ca5008]` → **distinct** (opposite populations — `cd2510` is the patency-capsule/imaging prerequisite that *permits* capsule endoscopy despite obstructive symptoms; `ca5008` is ASGE 2025 restricting it to patients *without* them and positioning it second-line). `ca5008` was narrowed so it no longer re-tests the patency prerequisite `cd2510` owns. Ledger now 563 rows.
