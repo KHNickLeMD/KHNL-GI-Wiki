@@ -3353,7 +3353,7 @@ function initMermaid() {
     for (const el of els) {
       const id = 'mmd' + (window._mmSeq = (window._mmSeq || 0) + 1);
       try {
-        const { svg, bindFunctions } = await window.mermaid.render(id, el.textContent);
+        const { svg, bindFunctions } = await window.mermaid.render(id, el.textContent, el); // measure inside el so .md-body .mermaid CSS applies
         el.innerHTML = svg;
         if (bindFunctions) bindFunctions(el);
       } catch (e) {
