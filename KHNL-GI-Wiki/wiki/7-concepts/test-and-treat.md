@@ -3,90 +3,85 @@ title: "Test-and-Treat Strategy (H. pylori)"
 category: concept
 tags: [h-pylori, dyspepsia, test-and-treat, non-invasive-testing, urea-breath-test]
 created: 2026-05-07
-updated: 2026-11-04
+updated: 2026-11-11
 sources: [acg-2017-hp-guidelines, acg-cag-2017-dyspepsia, acg-2024-hp-treatment]
+quality_reviewed: 2026-11-11
 ---
 
 ## Contents
 - [[#Definition]]
-- [[#Rationale]]
-- [[#Patient Selection]]
-- [[#Preferred Diagnostic Tests]]
-- [[#Outcome]]
+- [[#Who Qualifies]]
+- [[#Which Test]]
+- [[#Acting on the Result]]
+- [[#Evidence Behind the Strategy]]
 - [[#See Also]]
 - [[#Sources]]
 
 ## Definition
 
-A management strategy for **uninvestigated [[dyspepsia]]** in which patients are tested non-invasively for *[[helicobacter-pylori-infection|H. pylori]]* and treated if positive — **before** proceeding to [[upper-endoscopy|endoscopy]].
+A management strategy for **uninvestigated [[dyspepsia]]**: test non-invasively for *[[helicobacter-pylori-infection|Helicobacter pylori]]* and give eradication therapy if positive — **before** [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]]. Patients who test negative, or who stay symptomatic after eradication, go on to empirical [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] therapy. The full management ladder and the dyspepsia algorithm live on [[dyspepsia]].
 
 ---
 
-## Rationale
+## Who Qualifies
 
-- H. pylori-associated [[peptic-ulcer-disease|peptic ulcer disease]] is the most common treatable cause of [[dyspepsia]]
-- **Eradication resolves dyspepsia in a minority**, and the number needed to treat (NNT) differs by population [[acg-cag-2017-dyspepsia]]:
-  - *H. pylori*-**positive** dyspepsia, eradication vs placebo (2 trials, 563 patients): **NNT 7 (95% confidence interval [CI] 5–14)**; relative risk (RR) of remaining dyspeptic 0.81 (0.70–0.94)
-  - **[[functional-dyspepsia|Functional dyspepsia]]** at 3–12 months (2,604 vs 2,292 patients): **NNT 12.5 (95% CI 10–20)** — dyspepsia persisted in **67.9%** after eradication vs **76.4%** of controls; RR 0.91 (0.88–0.94)
-  - For comparison in the same guideline: empiric proton pump inhibitor (PPI) vs placebo/antacid **NNT 6 (4–11)**
-- Avoids the cost and risk of early endoscopy in low-risk patients
-- Preferred over empiric [[proton-pump-inhibitors|PPI]] therapy or prompt endoscopy in appropriate patients
+[[acg-2024-hp-treatment|American College of Gastroenterology (ACG) 2024]] is the newest tier-1 statement and governs the page. **All three criteria must hold:**
 
----
+| Criterion | Requirement for test-and-treat |
+|---|---|
+| **Age** | **Under 60 y**. In populations at high risk for [[gastric-adenocarcinoma\|gastric cancer]], test and treat from **age 45–50 y** (Table 4); the text puts it as "a lower age threshold of 50 years … may be appropriate" |
+| **Alarm features** | **None** — vomiting, gastrointestinal (GI) bleeding, unexplained [[iron-deficiency-anemia\|iron deficiency]], weight loss |
+| **Other indication for endoscopy** | **None** — e.g. [[dysphagia]], refractory heartburn, regurgitation |
 
-## Patient Selection
+- **High gastric-cancer-risk groups** named by ACG 2024 (Table 4): certain non-White racial/ethnic groups, immigrants from high-incidence regions/countries, a first-degree relative with gastric cancer, hereditary cancer syndromes carrying increased gastric cancer risk. Screening of those groups: [[gastric-cancer-screening]].
+- **Fails any criterion → endoscopy instead.** For dyspepsia with alarm features, or risk factors for [[peptic-ulcer-disease|peptic ulcer]] (aspirin or nonsteroidal anti-inflammatory drug [NSAID] use) or gastric cancer (family history, immigration from a high-incidence region), ACG 2024 notes that "most, but not all, guidelines recommend prompt endoscopy."
+- **Scope at a lower age** with childhood spent in a high-risk gastric cancer region (South East Asia, some South American countries) or a family history of upper GI malignancy; in borderline cases sex may be weighed — age-adjusted upper GI cancer risk is about **twice as high in men** ([[acg-cag-2017-dyspepsia|ACG / Canadian Association of Gastroenterology (CAG) 2017]]). A minority over 60 may still be treated empirically where upper GI cancer risk is judged low. Alarm-feature operating characteristics and the full red-flag list: [[dyspepsia]].
+- **Age cut-off history:** [[acg-2017-hp-guidelines|ACG 2017]] used **<55 y**; both [[acg-cag-2017-dyspepsia|ACG/CAG 2017]] and ACG 2024 use **<60 y**.
 
-**Age is the only gate.** Dyspepsia patients **under 60** should have a non-invasive *H. pylori* test, and treatment if positive ([[acg-cag-2017-dyspepsia|American College of Gastroenterology / Canadian Association of Gastroenterology (ACG/CAG) 2017]], Statement 3 — *Strong recommendation, high quality evidence*). The statement attaches **no alarm-feature and no prevalence qualifier**.
+> [!pitfall] The two ACG guidelines disagree on alarm features
+> [[acg-cag-2017-dyspepsia]] Statement 2 (*Conditional recommendation, moderate quality evidence*) says **not** to scope patients under 60 to investigate alarm features — individually they perform poorly and absolute upper GI cancer risk stays **<1%** even when one is present. ACG 2024 instead makes "without alarm features" a precondition of test-and-treat. **ACG 2024 governs** (newer, same tier).
 
-- **Age ≥60 → endoscopy instead**, to exclude upper gastrointestinal (GI) neoplasia (Statement 1 — *Conditional recommendation, very low quality evidence*). A minority over 60 may still be treated empirically where upper GI cancer risk is judged low.
-  - Scope at a **lower** threshold with: birth or upbringing in a high-risk region (South East Asia, some South American countries); positive family history. Age-adjusted upper GI cancer risk is about **twice as high in men**.
-  - New-onset dyspepsia over 60 — pair endoscopy with pancreatic imaging (e.g. abdominal ultrasound). Under 60, pancreatic cancer accounted for <0.01% of >57,000 dyspepsia patients, so no routine pancreatic imaging.
-
-> [!pitfall] An alarm feature does not override the age gate
-> Do **not** scope patients <60 to investigate alarm features ([[acg-cag-2017-dyspepsia]], Statement 2 — *Conditional recommendation, moderate quality evidence*): individually they perform poorly and absolute upper GI cancer risk stays **<1%** even when one is present. Decide case by case — severe or combined features are untested, and the threshold is lower at 58 than at 28. Pooled operating characteristics: [[dyspepsia]].
-
-- Features the guideline names: weight loss, anemia (incl. [[iron-deficiency-anemia|iron deficiency anemia]]), [[dysphagia]], persistent vomiting.
-- Still warrant esophagogastroduodenoscopy (EGD): **weight loss >20 lb**, **rapidly progressive dysphagia**. Family history of upper GI malignancy also factors into the decision.
-- Jaundice needs investigation, but by tests other than endoscopy.
-- Full red-flag list: [[dyspepsia]].
-
-> [!pitfall] Two guidelines, two age cut-offs — use <60
-> [[acg-2017-hp-guidelines]] gives **<55**; the same-year, dyspepsia-specific [[acg-cag-2017-dyspepsia]] raised it to **<60**, and [[acg-2024-hp-treatment|ACG 2024]] still describes the strategy with **<55** as background rather than as a graded recommendation. Use **<60**.
-
-**Local prevalence does not change the strategy.** [[acg-cag-2017-dyspepsia]] sets **no prevalence threshold** — local prevalence is often unknown, and even at very low infection rates test-and-treat is likely the most cost-effective first-line approach. This supersedes earlier guidance to start with [[proton-pump-inhibitors|PPI]] therapy where prevalence is **<15%**. Trials of the strategy ran at background infection rates of **20–30%**.
+**Local prevalence does not change the strategy.** [[acg-cag-2017-dyspepsia]] sets **no prevalence threshold** — local prevalence is often unknown, and even at very low infection rates test-and-treat is likely the most cost-effective first-line approach. This supersedes earlier guidance to start with PPI therapy where prevalence is **<15%**. The randomized trials of the strategy ran at background infection rates of **20–30%**.
 
 ---
 
-## Preferred Diagnostic Tests
+## Which Test
 
-Both preferred over serology ([[acg-2017-hp-guidelines]], Strong / Moderate):
-
-1. **Urea breath test (UBT)** — sensitivity 88–95%, specificity 95–100%
-2. **Stool antigen test (SAT)** — sensitivity ~94%, specificity ~97%
-
-Those figures are [[acg-2017-hp-guidelines|ACG 2017]]'s. [[acg-2024-hp-treatment|ACG 2024]] "elected not to review standard testing modalities (e.g., fecal antigen testing, breath testing, and serology)" and prints no sensitivity or specificity figures; [[acg-cag-2017-dyspepsia]] specifies only that the test be **non-invasive** and defers the choice of test to the *H. pylori* guideline.
-
-**Avoid serology** — cannot distinguish active from past infection; low specificity, and it is **never** appropriate for post-treatment testing (antibody levels stay detectable for months to years after successful eradication).
-
-**Pre-test requirements** ([[acg-2024-hp-treatment|ACG 2024]]):
-
-- Hold [[proton-pump-inhibitors|PPI]] ≥2 weeks before testing. Whether the same applies to [[potassium-competitive-acid-blockers|potassium-competitive acid blockers (P-CABs)]] has **not been adequately studied** — do not assume it. Standard-dose **histamine-2 receptor antagonists (H2RAs) and antacids do not affect** test accuracy.
-- Hold **bismuth and antibiotics ≥4 weeks** before a test of cure
+- **Any non-invasive test.** [[acg-cag-2017-dyspepsia]] Statement 3 specifies only "non-invasive" and defers the choice of test to the *H. pylori* guideline.
+- In practice a **urea breath test (UBT)** or a **stool/fecal antigen test**. **Not serology** — it cannot distinguish active from past infection, and ACG 2024 does not recommend it in low-prevalence populations absent a high pre-test probability (e.g. peptic ulcer).
+- **Hold PPIs ≥2 weeks** before testing (they cause false negatives). Standard-dose **histamine-2 receptor antagonists (H2RAs) and antacids do not affect accuracy**. Whether the PPI rule extends to [[potassium-competitive-acid-blockers|potassium-competitive acid blockers (P-CABs)]] has **not been adequately studied** ([[acg-2024-hp-treatment]]).
+- Test-by-test comparison and the endoscopy-based alternatives: [[helicobacter-pylori-infection]].
 
 ---
 
-## Outcome
+## Acting on the Result
 
-- **Positive → eradicate** (see [[bismuth-quadruple-therapy]], [[vonoprazan]]), then confirm eradication with UBT or SAT **≥4 weeks** after treatment.
-- **Allow at least 4 weeks after eradication therapy before reassessing symptom response** ([[acg-cag-2017-dyspepsia]], Statement 3).
-- **Negative, or eradicated and still symptomatic → empirical PPI** (Statement 4 — *Strong recommendation, high quality evidence*). **Standard dose, once daily** — higher doses are unlikely to increase benefit in dyspepsia.
-- **PPI failure → prokinetic** (Statement 5 — *Conditional recommendation, very low quality evidence*) **or tricyclic antidepressant (TCA)** (Statement 6 — *Conditional recommendation, low quality evidence*). The guideline states **no preferred order** between the two. Then consider psychological therapy. The full ladder and the management algorithm are on [[dyspepsia]].
+- **Positive → eradicate.** Regimen selection is on [[helicobacter-pylori-infection]] (first line: optimized [[bismuth-quadruple-therapy|bismuth quadruple therapy]]; [[vonoprazan]]-based options).
+- **Confirm cure in every treated patient** — UBT, fecal antigen test, or a biopsy-based test **at least 4 weeks after completing therapy** ([[acg-2024-hp-treatment]], Key Concept 4). Hold bismuth and antibiotics ≥4 weeks beforehand; serology is never appropriate for a test of cure.
+- **Allow at least 4 weeks after eradication therapy before judging symptom response** ([[acg-cag-2017-dyspepsia]], Statement 3).
+- **Negative, or eradicated and still symptomatic → empirical PPI** ([[acg-cag-2017-dyspepsia]], Statement 4 — *Strong recommendation, high quality evidence*), **standard dose once daily**; higher doses are unlikely to add benefit in dyspepsia.
+- **PPI failure →** prokinetic or tricyclic antidepressant, no preferred order; the full ladder is on [[dyspepsia]].
+
+---
+
+## Evidence Behind the Strategy
+
+[[acg-cag-2017-dyspepsia]] Statement 3 — *Strong recommendation, high quality evidence*; outcomes at ~1 year of follow-up.
+
+| Comparison | Trials (patients) | Still dyspeptic | Relative risk (RR) of remaining dyspeptic (95% confidence interval [CI]) | What it adds |
+|---|---|---|---|---|
+| Test-and-treat vs **prompt endoscopy** | 6 (2,399) | 74% vs 77% | 0.94 (0.84–1.04) | No symptom difference, and only **25%** of the test-and-treat arm were scoped within 1 y vs nearly all — mean cost saving **$402 (95% CI $329–$475)** |
+| Test-and-treat vs **empirical PPI** | 4 (1,608) | 73% vs 78% | 0.89 (0.77–1.04) | Not significant, but the trend in both symptoms and cost favored test-and-treat → preferred initial strategy, acid suppression held in reserve |
+| **Eradication vs placebo** in *H. pylori*-positive dyspepsia | 2 (563) | — | 0.81 (0.70–0.94) | **Number needed to treat (NNT) 7 (95% CI 5–14)** |
+
+- Eradication resolves dyspepsia in a **minority**; the smaller effect in [[functional-dyspepsia|functional dyspepsia]] is on that page.
+- Part of the rationale for not gating on prevalence: randomized data suggest the approach also **reduces gastric cancer rates in those infected** ([[acg-cag-2017-dyspepsia]]).
 
 ---
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[dyspepsia]], [[upper-endoscopy]], [[peptic-ulcer-disease]], [[bismuth-quadruple-therapy]], [[vonoprazan]], [[potassium-competitive-acid-blockers]], [[proton-pump-inhibitors]], [[gastric-cancer-screening]], [[dysphagia]], [[gastric-polyps]]
+[[helicobacter-pylori-infection]], [[dyspepsia]], [[functional-dyspepsia]], [[upper-endoscopy]], [[peptic-ulcer-disease]], [[bismuth-quadruple-therapy]], [[vonoprazan]], [[potassium-competitive-acid-blockers]], [[proton-pump-inhibitors]], [[gastric-adenocarcinoma]], [[gastric-cancer-screening]], [[dysphagia]], [[iron-deficiency-anemia]]
 
 ---
 

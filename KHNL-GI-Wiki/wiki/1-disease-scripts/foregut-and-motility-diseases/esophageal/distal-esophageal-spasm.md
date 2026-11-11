@@ -3,11 +3,12 @@ title: "Distal Esophageal Spasm"
 category: disease-script
 tags: [des, spasm, esophageal, motility, dysphagia, chest-pain, chicago-classification]
 created: 2026-05-16
-updated: 2026-10-04
+updated: 2026-11-11
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia, aga-2024-poem-advances, padova-2025-hrm-antireflux]
+quality_reviewed: 2026-11-11
 ---
 
-*Classified under [[chicago-classification-v4|Chicago Classification v4.0]]. Related: [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]].*
+*Classified under [[chicago-classification-v4|Chicago Classification v4.0 (CCv4.0)]]. Related: [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]].*
 
 ## Contents
 - [[#Assessment]]
@@ -16,6 +17,8 @@ sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
+  - [[#Antireflux Surgery]]
+  - [[#Per-Oral Endoscopic Myotomy]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -23,23 +26,37 @@ sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-
 
 ### Establishing the Diagnosis
 
-Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0 (CCv4.0)** criteria on [[high-resolution-manometry|high-resolution manometry (HRM)]]:
+Distal esophageal spasm (DES) = spastic or premature contractions of the distal esophagus on [[high-resolution-manometry|high-resolution manometry (HRM)]]. CCv4.0 separates the **manometric pattern** — of unclear clinical relevance on its own — from a **clinically relevant** diagnosis ([[chicago-v4-2021-esophageal-dysmotility]]).
 
-- Normal median integrated relaxation pressure (IRP) (unlike [[achalasia]] and [[esophagogastric-junction-outflow-obstruction|esophagogastric junction outflow obstruction (EGJOO)]], where IRP is elevated; manufacturer-specific IRP cutoffs on [[chicago-classification-v4]])
-- **≥20% swallows with a premature/spastic contraction**, where premature = **distal latency (DL) <4.5 s in the setting of distal contractile integral (DCI) ≥450 mmHg·s·cm** — *both* halves are required
-- **DL <4.5 s with DCI <450 does NOT count** — ≥20% such swallows is explicitly **inconclusive** for a manometric diagnosis of spasm (CCv4.0)
-- **A DES pattern alone is of unclear clinical relevance.** A *clinically relevant* diagnosis of DES requires the conclusive manometric diagnosis **plus clinically relevant symptoms**, which CCv4.0 defines as **dysphagia and non-cardiac chest pain**. Supportive testing (timed barium esophagram [TBE], [[flip-panometry|functional lumen imaging probe (FLIP)]]) strengthens confidence. Same two-bar structure CCv4.0 applies to [[hypercontractile-esophagus]] and EGJOO
-- **Caveat on measurement:** the DL criterion depends on identifying the contractile deceleration point (CDP), which CCv4.0 acknowledges **may be difficult to identify** — when it is, alternative methodologies must be considered before calling DES (**strong**)
+**Premature (spastic) contraction** = distal latency (DL) **<4.5 s** *in the setting of* a distal contractile integral (DCI) **≥450 mmHg·s·cm**. Both halves are required. DL is measured from upper esophageal sphincter relaxation to the contractile deceleration point (CDP).
 
-**Distinguishes DES from [[hypercontractile-esophagus|hypercontractile esophagus]]:** DES is premature/disordered contraction; hypercontractile esophagus is high-amplitude contraction (DCI >8,000 mmHg·s·cm).
+Grades below are as CCv4.0 prints them — Grading of Recommendations Assessment, Development and Evaluation (GRADE) evidence level plus recommendation strength. Its statements are unnumbered.
 
-**Symptoms:** Dysphagia (to solids and liquids), non-cardiac chest pain (NCCP); symptoms episodic and may not correlate with manometric abnormality during study.
+| CCv4.0 band | Criteria | Grade |
+|---|---|---|
+| **Conclusive manometric DES** | Normal median integrated relaxation pressure (IRP) **and ≥20%** of swallows with a premature/spastic contraction | Low GRADE, strong |
+| **Clinically relevant DES** | Conclusive manometric DES **plus** clinically relevant symptoms | Low GRADE, conditional |
+| *Clinically relevant symptoms* | Dysphagia **and** non-cardiac chest pain | Accepted Clinical Observation |
+| **Inconclusive for DES** | ≥20% of swallows with DL <4.5 s but **DCI <450 mmHg·s·cm** | Low GRADE, conditional |
+
+Manufacturer- and position-specific IRP cutoffs are on [[chicago-classification-v4]].
+
+> [!pitfall] No contractile deceleration point, no distal latency
+> The DL criterion rests on finding the CDP, which CCv4.0 concedes may be difficult to identify — when it is, alternative methodologies must be considered before calling DES (strong recommendation).
+
+**Three structural rules that gate the label:**
+
+- **Position:** classify from the **primary position** in which the 10 wet swallows were performed (supine or upright). The secondary position and provocative swallows are supportive — concordance strengthens the classification, discordance should prompt reconsideration.
+- **Order:** disorders of peristalsis are considered only once a disorder of esophagogastric junction (EGJ) outflow has been excluded. Where features overlap, classify **DES first**, then [[hypercontractile-esophagus|hypercontractile esophagus]], then [[ineffective-esophageal-motility|ineffective esophageal motility]], with a comment acknowledging the overlap.
+- **Scope:** CCv4.0 does not apply after prior surgical or invasive foregut intervention, with large hiatal or paraesophageal hernia, or when endoscopy or radiography shows mechanical obstruction — a careful index [[upper-endoscopy|endoscopy]] comes first.
 
 ### Severity Assessment
 
-- **CCv4.0 defines no graded severity scale for DES** — the diagnosis is binary (conclusive / inconclusive / clinically relevant), not staged.
-- But the **20% cutoff is explicitly arbitrary**, and CCv4.0 states that **confidence increases with a higher proportion of premature/spastic swallows**. Treat 25% and 90% premature swallows as different findings even though both clear the same bar; report the actual percentage.
-- Because a normal median IRP is required, escalating spasticity with an *elevated* IRP is not "severe DES" — it is a **type III [[achalasia]] variant**, a different disease with a different treatment path.
+- **CCv4.0 defines no graded severity scale for DES** — the framework is conclusive vs inconclusive vs clinically relevant, not mild/moderate/severe.
+- The **20% spasm cutoff is arbitrary**. CCv4.0 ties a higher number of premature/spastic swallows to greater confidence in a **type III [[achalasia]] variant** — it makes no such statement about DES severity.
+- A normal median IRP is required, so escalating spasticity with an **abnormal** IRP is not "severe DES" but a different disease with a different treatment path:
+  - Abnormal median IRP + ≥20% premature swallows + **no evidence of peristalsis** → conclusive **type III achalasia**.
+  - Abnormal median IRP + spasm **with** evidence of peristalsis → **inconclusive type III**; if strict criteria for [[esophagogastric-junction-outflow-obstruction|EGJ outflow obstruction (EGJOO)]] are met, classify as **EGJOO with spastic features**, which may represent an achalasia variant.
 
 ---
 
@@ -47,35 +64,57 @@ Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0 (CCv4.
 
 *Workup: see [[dysphagia]].*
 
-- [[achalasia]] — elevated IRP distinguishes; absent peristalsis
-- [[hypercontractile-esophagus]] (jackhammer esophagus) — DCI >8000 vs. premature contractions
-- Cardiac chest pain — must exclude before esophageal workup
-- [[gerd|gastroesophageal reflux disease (GERD)]] — acid exposure can trigger spasm
+- [[achalasia]] **type III** — abnormal median IRP, ≥20% premature swallows, no evidence of peristalsis; DES requires a normal median IRP
+- [[esophagogastric-junction-outflow-obstruction|EGJOO with spastic features]] — abnormal median IRP supine **and** upright plus ≥20% swallows with elevated intrabolus pressure (supine), with peristalsis preserved
+- [[hypercontractile-esophagus]] (jackhammer esophagus) — normal median IRP with ≥20% hypercontractile supine swallows (DCI >8,000 mmHg·s·cm); it may be diagnosed only when DES criteria are **not** met, so DES is classified first when both appear
+- Mechanical obstruction and mucosal disease — a spastic contractile response may be **secondary**, to anatomic factors such as [[hiatal-hernia|hiatus hernia]] or to mucosal inflammation such as [[eosinophilic-esophagitis|eosinophilic esophagitis]] ([[aga-2025-flip-esophageal]])
+- [[gerd|gastroesophageal reflux disease (GERD)]] — DES on HRM often exists as a spastic **reactive** motility response in the setting of GERD ([[padova-2025-hrm-antireflux]])
+- Chronic opioid use — premature/spastic patterns are described with chronic opioids; CCv4.0 associates opioids with type III achalasia and advises studying patients **off** opioids where possible, timing discontinuation to the drug's half-life
+- Cardiac chest pain — CCv4.0's symptom criterion is explicitly *non-cardiac* chest pain
 
 ---
 
 ## Diagnostics
 
-- **HRM (required):** Chicago v4.0 criteria — see [[high-resolution-manometry]]
-- **TBE:** May show "corkscrew" esophagus during symptomatic episode (low sensitivity)
-- **[[flip-panometry|FLIP panometry]]:** with normal esophagogastric junction (EGJ) opening and an endoscopy not suggestive of achalasia, **consider HRM if spasm is suspected**; spastic FLIP responses can be primary or secondary to [[hiatal-hernia|hiatus hernia]] or mucosal inflammation (e.g., [[eosinophilic-esophagitis|eosinophilic esophagitis]]) ([[aga-2025-flip-esophageal]])
+- **HRM — required.** Criteria above; standard protocol and thresholds on [[high-resolution-manometry]] and [[chicago-classification-v4]].
+- **Index endoscopy before manometry** — mechanical obstruction on endoscopy or radiography precludes CCv4.0.
+- **Supportive testing** — timed barium esophagram (TBE, preferably with a tablet) and/or [[flip-panometry|functional lumen imaging probe (FLIP)]] where manometry is equivocal or obstruction is suspected without achalasia criteria being met.
+- **FLIP** ([[aga-2025-flip-esophageal]]):
+  - Normal EGJ opening with an endoscopy not suggestive of achalasia → **consider HRM if spasm is suspected**.
+  - Reduced EGJ opening (EGJ distensibility index **<2.0 mm²/mm Hg** *and* maximum EGJ diameter **<12 mm**) with a spastic or disordered contractile response → **spastic achalasia is likely**, not DES.
+  - FLIP suggesting spasm → HRM and/or TBE **before any irreversible lower esophageal sphincter disruption**.
 
 ---
 
 ## Therapeutics
 
-- Treat co-existent [[gerd|GERD]] first — acid exposure can trigger spasm
-- **Before [[antireflux-surgery|antireflux surgery]] (ARS) — the obstructive-symptom split is the decision** ([[padova-2025-hrm-antireflux|Padova consensus]]): DES with obstructive symptoms (dysphagia and/or chest pain) → **ARS should be considered with caution** (**95% agreement**) — such DES may sit on the type III achalasia spectrum or be opioid-related, so treatment other than ARS may need to be considered; DES **without** obstructive symptoms **plus objective GERD** → **can be referred for ARS** (**81% agreement**). Full pre- and post-ARS manometric framework on [[hrm-antireflux-surgery]]
-- [[poem|Per-oral endoscopic myotomy (POEM)]] is an option for refractory dysphagia-predominant spastic disorders; the American College of Gastroenterology (ACG) achalasia guideline frames POEM as favored for spastic (Type III) disease due to longer myotomy reach ([[acg-2020-achalasia]])
-- **American Gastroenterological Association (AGA) 2024 clinical practice update (CPU) caveat:** for **nonachalasia** spastic disorders, evidence for POEM is limited — reserve for **case-by-case** use after less invasive options (medical therapy, [[botulinum-toxin|botulinum toxin]], endoscopic dilation) are exhausted, with symptoms correlated to manometry ([[aga-2024-poem-advances|AGA 2024]] best practice advice [BPA] 3)
+### Antireflux Surgery
 
-*Medical management specific to DES (smooth-muscle relaxants, neuromodulators) is not covered by the achalasia guideline and is not addressed on this page.*
+Before surgery, the obstructive-symptom split is the decision ([[padova-2025-hrm-antireflux|Padova consensus]]):
+
+| DES on manometry | Recommendation | Median (1–9) · agreement |
+|---|---|---|
+| **With** obstructive symptoms (dysphagia and/or chest pain) | [[antireflux-surgery\|Antireflux surgery (ARS)]] should be considered **with caution** | 8 · 95% |
+| **No** obstructive symptoms **plus** objective GERD | Can be **referred for ARS** | 7 · 81% |
+
+Full pre- and post-ARS manometric framework on [[hrm-antireflux-surgery]].
+
+> [!pitfall] Spasm with obstructive symptoms is not a fundoplication problem
+> Padova asks that the DES pattern be approached with high scrutiny: with dysphagia or non-cardiac chest pain it may be an entity on the spectrum of type 3 (spastic) achalasia, and the same findings are described with chronic opioid use — treatment other than ARS may need to be considered.
+
+### Per-Oral Endoscopic Myotomy
+
+- **Nonachalasia spastic disorders are case-by-case only.** DES and hypercontractile esophagus on manometry require a comprehensive evaluation with **correlation of symptoms**; evidence for [[poem|per-oral endoscopic myotomy (POEM)]] in these manometric findings is limited, so it should be considered only case-by-case after other less invasive approaches — medical therapy, [[botulinum-toxin|botulinum toxin]] injection, and endoscopic dilation — have been exhausted (American Gastroenterological Association [AGA] 2024 clinical practice update, best practice advice 3; [[aga-2024-poem-advances]]).
+- **Mandatory first:** confirmatory compliance testing (impedance planimetry, TBE, pH study) to exclude GERD and document symptomatic delayed esophageal emptying, with careful consideration of false positives — obstructive hiatus hernia, GERD, external compression, submucosal masses, opiates, and manometric artifact ([[aga-2024-poem-advances]]).
+- **Why myotomy length matters in spastic disease:** for **type III achalasia** — not DES — the American College of Gastroenterology prefers POEM over laparoscopic Heller myotomy (success 93% vs 71%) because of the longer myotomy required ([[acg-2020-achalasia]]); AGA 2024 adds that POEM allows unlimited proximal extension of the myotomy, though long-term data on long myotomies are limited.
+
+*The ingested sources name medical therapy, botulinum toxin, and endoscopic dilation as the less invasive options but give no specific agents, doses, or durations for DES.*
 
 ---
 
 ## See Also
 
-[[chicago-classification-v4]], [[high-resolution-manometry]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[achalasia]], [[gerd]], [[flip-panometry]], [[poem]], [[dysphagia]], [[antireflux-surgery]], [[hrm-antireflux-surgery]], [[hiatal-hernia]], [[eosinophilic-esophagitis]]
+[[chicago-classification-v4]], [[high-resolution-manometry]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[achalasia]], [[gerd]], [[flip-panometry]], [[poem]], [[dysphagia]], [[upper-endoscopy]], [[antireflux-surgery]], [[hrm-antireflux-surgery]], [[botulinum-toxin]], [[hiatal-hernia]], [[eosinophilic-esophagitis]]
 
 ---
 
