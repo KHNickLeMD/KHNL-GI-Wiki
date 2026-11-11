@@ -289,6 +289,7 @@ By patient profile ([[acg-2025-crohns]] KC 55):
 
 - IV methylprednisolone 40–60 mg/day; infliximab effective inpatient; **early surgical evaluation**.
 - **Drain abscesses before escalating immunosuppression** — drainage + antibiotics, then medical vs surgical plan ([[aga-2026-inpatient-ibd]]).
+  - **Intra-abdominal abscess >2 cm → antibiotics + a drainage procedure, radiologic or surgical, with immunosuppression held until drainage is achieved** ([[acg-2025-crohns]] rec 35, Conditional/Low). Suspected abscess → cross-sectional imaging of abdomen and pelvis.
 - **Obstruction:** separate inflammatory vs fibrotic stricture vs adhesions; exclude perforation. IV steroids if inflamed; surgery for fibrotic or penetrating disease; no role for dilation acutely. Taper preoperative steroids toward **≤ prednisone 20 mg/day**.
 - **Active perianal disease:** contrast CT or MRI to map tracts; drainage/seton sequencing on [[perianal-fistulizing-crohns-disease]].
 

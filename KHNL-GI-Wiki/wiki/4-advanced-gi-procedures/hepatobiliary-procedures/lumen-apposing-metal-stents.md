@@ -147,4 +147,3 @@ Misdeployment types described for EUS-GE, with observed frequencies ([[acg-2025-
 5. [[asge-2026-colonic-strictures|American Society for Gastrointestinal Endoscopy Guideline on Endoscopic Management of Benign and Malignant Colonic Strictures]]
 6. [[asge-2021-gastroduodenal-obstruction|ASGE Guideline on the Role of Endoscopy in the Management of Benign and Malignant Gastroduodenal Obstruction (2021)]]
 7. [[i-eus-2026-eus-gastroenterostomy|Endoscopic Ultrasound-Guided Gastroenterostomy: An International Consensus on Current and Expanding Indications, Techniques, Periprocedural Care, and Institutional Requirements (i-EUS, 2026)]]
-</content>

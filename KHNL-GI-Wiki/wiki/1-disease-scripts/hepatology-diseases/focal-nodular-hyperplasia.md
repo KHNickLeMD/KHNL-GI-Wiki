@@ -170,5 +170,3 @@ Key concepts are ungraded; the numbering of both recommendations and key concept
 ## Sources
 
 1. [[acg-2024-focal-liver-lesions|ACG Clinical Guideline: Focal Liver Lesions (2024)]]
-</content>
-</invoke>

@@ -6,6 +6,31 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-11] update | Card pass — dedup, 4 pages carded, 3 card files quality-reviewed
+
+**Dedup (ran first):** 5 candidate pairs judged, all marked in the ledger. 1 merge — [[hereditary-hemochromatosis]] `fe7002` ("elevated ferritin with transferrin saturation <45% — excluded?") folded into `fe7003`, which now owns the stop rule with its ferritin cut-points and carries the caveat in Back Extra. 4 distinct (two hemochromatosis iron-study pairs testing different decisions; HCC-surveillance test/interval vs what a positive triggers; gastric vs esophageal noncurative ESD — different organ). 0 unjudged candidates remain.
+
+**Pages carded:**
+
+- `functional-dysphagia` — 2 notes: ineffective esophageal motility as the one motor pattern Rome V criterion 4 still allows, and first-line management of mild disease. Videofluoroscopy and barium-for-stricture left uncarded — owned by [[dysphagia]] and [[esophageal-stricture]].
+- `lumen-apposing-metal-stents` — stale note `1a5007` was **wrong**: it still taught gallbladder drainage as off-label, which ACG/ASGE 2025 supersedes; recut and re-sourced. Added the i-EUS 2026 20-mm diameter for EUS-guided gastroenterostomy with the recall caveat, and the misdeployment-type table as Back Extra.
+- `eus-guided-gallbladder-drainage` — 5 notes from the statements the quality review added: moderate-to-severe disease not responding to conservative therapy and the <48 h window, same-session ERCP + transpapillary drainage for concomitant choledocholithiasis, saline/contrast injection through a 19-gauge needle to distend a contracted gallbladder, the well-formed-tract appearance on cholangiography, and i-EUS preferring no single surgical-risk score.
+- `peptic-ulcer-disease` — 4 notes: the high-dose PPI regimen after hemostasis and the twice-daily step-down to 2 weeks (both owned here per [[proton-pump-inhibitors]]), benign-GOO balloon-dilation diameter and inflation time (owned here per [[gastric-outlet-obstruction]]), and duodenal ulcers not being biopsied routinely. Giant-ulcer note consolidated to cover both sites; `0b2005` recut off a pre-existing 42-word cap violation.
+- `focal-nodular-hyperplasia` — nothing qualified. Every guideline-backed fact on the page is already carded or owned by [[focal-liver-lesions]]; marker bumped, no cards written.
+
+**Card files quality-reviewed:** `crohns-disease` (73 → 71 notes: metronidazole dose + duration merged, the two 5-ASA notes merged; the Rutgeerts i2 note recut off trial-design framing; "Allez definition", a "colonic segment" that the source does not say, a balloon-size overclaim and an off-page JAK risk-factor list removed; the abscess note re-sourced onto ACG 2025's >2 cm threshold; efficacy-tier and stricture endoscopy-vs-surgery tables added as Back Extra) · `ulcerative-colitis` (57 notes; `c50030` Back Extra contradicted the page's governing position by calling JAK rescue data insufficient — AGA 2026 governs; "*C. difficile* by stool toxin PCR" corrected to the multistep toxin-based assay; ACG UC Activity Index, AGA 2024 efficacy tiers and the ASGE/ACG 2024 interval grid added as Back Extra) · `ercp` (54 → 53 notes: the two type-1 perforation notes merged, three Back Extras trimmed of content a neighbouring note owns; post-ERCP pancreatitis prophylaxis and BSG 2017 balloon-dilation tables added as Back Extra) · `liver-transplantation` (51 notes; `1a3002` taught **two** absolute contraindications when the page lists three — portopulmonary hypertension on optimized therapy was missing; the recurrent-PBC note was recut off the superseded no-prophylactic-UDCA stance and onto the 10–15 mg/kg/day dose the page gives; one `{at:}` anchor repointed from Recurrent Disease to Diagnostics; CMV treatment and graft-rejection tables added as Back Extra).
+
+**Pages updated:** [[crohns-disease]] — ACG 2025 rec 35's **intra-abdominal abscess >2 cm → antibiotics + drainage, immunosuppression held until drainage is achieved** was on the source page but had never reached the entity page. [[ercp]] — forward-viewing endoscope first in surgically altered anatomy, to mark the pancreatobiliary limb (the card taught it; the page did not). Stray `</content>` / `</invoke>` artifacts removed from the end of [[lumen-apposing-metal-stents]] and [[focal-nodular-hyperplasia]].
+
+**Hygiene:** `{at:}` backfill queue already empty (0 untagged notes). Deck builds clean — 4335 notes, 0 problems, including the two pre-existing cap violations fixed in passing. Nothing committed or pushed.
+
+**Remaining for triage:**
+- Card quality review: 6 files still never-reviewed, `variceal-upper-gi-bleeding` (48 notes) next.
+- `ercp` card file carries four Stapfer-type management notes whose device-by-size facts live on [[endoscopic-management-of-perforation]], not on [[ercp]] — ownership needs a decision (relocate vs restore to the page).
+- All notes on the newly carded pages sit under `# Draft`, as before.
+
+---
+
 ## [2026-11-11] lint | Quality review (release sweep) — pages
 
 **Pages reviewed:**
