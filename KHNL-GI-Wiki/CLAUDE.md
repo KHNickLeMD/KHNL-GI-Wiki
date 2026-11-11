@@ -120,12 +120,14 @@ Obsidian callout syntax; site renders a colored box (`renderCallout` in `index.h
 
 ### Prefer visuals over text
 - **Tables, decision trees/flowcharts, charts, embedded figures** over long bullet lists wherever they convey structure better. A page that earns a figure or table has one.
-- **Visual-first (Nick, 2026-11-10, pre-release).** Every topic page aims for ≥1 visual, more on long pages. Pick by content:
-  - Parallel items with shared attributes (drugs, classes, strata, options) → **table**.
-  - Algorithm, workup, if/then pathway → **Mermaid flowchart**.
-  - Numbers the source gives across groups/time (rates by stage, risk by score band, response by arm) → **Mermaid `xychart-beta` bar/line or `pie`**; source numbers only, axis titles + units, cite in the caption line.
-  - Source figure (algorithm, classification, endoscopic/radiologic image) → **embed it** (figure capture below).
-  - Never a decorative visual or one that repeats an adjacent table. No source data → no chart.
+- **Visual-first (Nick, 2026-11-10, pre-release).** A page whose sources support a visual gets one, more on long pages. Ceiling, not quota.
+  - **ACCURACY OUTRANKS VISUALS — never fabricate (Nick, 2026-11-10).** Every number, label, branch and arrow must trace to the ingested source's text and agree with the page. Anything needed is missing (a value, denominator, unit, time point, branch condition) → **make no figure**. Never estimate, interpolate, read values off a source graph by eye, or put numbers from different studies/populations on one axis as if comparable. Conceptual diagrams too: only relationships the source states. Caption = source + exact population ("systematic review, 21 studies, 166 patients"). No figure beats a wrong one.
+  - Pick by content:
+    - Parallel items with shared attributes (drugs, classes, strata, options) → **table**.
+    - Algorithm, workup, if/then pathway → **Mermaid flowchart**.
+    - Numbers the source gives across groups/time (rates by stage, risk by score band, response by arm) → **Mermaid `xychart-beta` bar/line or `pie`**; source numbers only, axis titles + units, cite in the caption line.
+    - Source figure (algorithm, classification, endoscopic/radiologic image) → **embed it** (figure capture below).
+    - Never a decorative visual or one that repeats an adjacent table. No source data → no chart.
 - Mechanics: `Rendering Conventions → Images` (embed, figure capture, table recreation) and `→ Mermaid diagrams`.
 
 ### Frontmatter (YAML, required on all wiki pages)
@@ -471,7 +473,7 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
     - Table → one `>` line of HTML: `> <table><tr><th>…</th></tr><tr><td>…</td></tr></table>` — only the rows/columns that frame this card, ≤6 rows, copied from the page.
     - Figure → `> <img src="https://giwiki.khnicklemd.com/KHNL-GI-Wiki/raw/assets/<file>.png" style="max-width:100%">` plus a `> <small><i>caption</i></small>` line.
     - Mermaid can't render in Anki → recreate the key branch as a small table, or skip.
-    - Never on the front if it reveals the answer; never an asset that isn't on the page.
+    - Never on the front if it reveals the answer; never an asset that isn't on the page. Same no-fabrication rule as *Visual-first*: every cell copied from the page, nothing missing filled in.
 
 - **Card quality review — release sweep (Nick, 2026-11-10).** Every card pass, after dedup, `{at:}` backfill and new cards; by budget. Queue: `python3 /repo/website_files/scripts/review-queue.py --cards 10` (never-reviewed, most notes first). One card file at a time, finished before the next:
   - **Correlate:** open the page; every note's fact, number and wording must match the page *now* (page wins; page wrong → fix the page from its source first). `{at:}` points to the section that states it. Fact gone from the page → *Section anchors* orphan rules.
