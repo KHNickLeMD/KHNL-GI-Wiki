@@ -6,6 +6,26 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-11] lint | Quality review (release sweep) — pages
+
+**Pages reviewed:**
+
+- `eus-guided-gallbladder-drainage` — three recreated tables (indications with their statement numbers; surgical-risk scores with the P-POSSUM cutoff of 25 and the 9-point Clinical Frailty Scale; stent choice with adverse-event rates and failure modes). Fidelity: the 142-patient trial was described as reinforcing drainage over surgery when it was stopped early because percutaneous drainage did *worse* (65% vs 12% major complications) — now a pitfall; "14% adverse events after immediate LAMS dilation" was the proportion dilated, outcomes unreported → removed; the 1429-patient figure re-attributed from P-POSSUM to Chole-Risk; invented abbreviation "ACME" replaced with the source's own name; a stone-burden claim corrected against the data cited; odds ratios re-attributed to antimigratory self-expanding metal stents **and** LAMS. Superseded claim: ACG/ASGE 2025 records FDA approval of electrocautery-enhanced LAMS for this indication — AGA 2023's off-label framing flagged as older, and the same correction carried to [[lumen-apposing-metal-stents]]. Decision gaps filled: post-ERCP cholecystitis rates, 19-gauge saline/contrast injection, fluoroscopy requirements, tract-maturity criteria before percutaneous catheter removal, pigtail exchange at 4 weeks, 40% recurrence after LAMS removal, the ACG extra-caution list. `### Surgical Risk` / `### Route Choice` subsections added; Sources #5 corrected to the Tokyo Guidelines document actually cited. Card file: the dropped 14% figure removed from Back Extra.
+- `peptic-ulcer-disease` — two recreated tables (giant-ulcer thresholds by site; gastric vs duodenal ulcer across biopsy, suspicious features, technique, surveillance, healing) replacing the prose they fully contain. Fidelity: removed an invented "mucosal break ≥5 mm" definition and a blockquote claiming the guidelines do not define an ulcer — ASGE 2010 does, and its wording now stands; removed unsourced "maximize PPI" and NSAID co-prescription advice. Decision gaps closed from the raw PDFs: giant gastric ulcer >3 cm, *early* EGD = within 24 h of admission, Rec 14 "high risk" = the supporting RCT's Rockall ≥6, intermittent high-dose PPI as ACG words it, benign-GOO balloon-dilation technique numbers. Contradiction surfaced: ASGE 2010 treated adherent clot as a stigma for therapy, ACG 2021 Rec 7 reached no recommendation — newer governs, older flagged. Therapeutics split into parallel `###` siblings. No flowchart (ASGE 2010 has none; its gastric-ulcer statements overlap with no stated order). Card file: 4 anchors repointed; note `0b2005` recut off the claim that was removed. `index.md` row corrected — it had promised Forrest classification and a 4–12 wk twice-daily PPI regimen that no source on the page supports.
+- `focal-nodular-hyperplasia` — Mermaid flowchart redrawn from the ACG 2024 Figure 1a solid-lesion arm + phase-by-phase imaging table, both captioned; recommendation numbers and grades re-verified against the guideline's Tables 2 and 3; `OATP 1B1/B3` → `OATP1B3`; deleted an unsourced hemangioma claim; moved the hepatocellular adenoma immunohistochemistry panel to a one-line link ([[hepatocellular-adenoma]] owns it); removed two facts stated twice; Diagnostics/Therapeutics regrouped into parallel `###` siblings. No figure embed (source is copyright-restricted) — example images linked instead. Card file: 5 notes repointed off the renamed heading, `OATP1B1/B3` corrected in Back Extra.
+- `functional-dysphagia` — Diagnostics bullets → 6-row modality table (captioned); criterion 3 reflux-burden cut-offs routed to [[ambulatory-reflux-monitoring]], criterion 4 to [[chicago-classification-v4]], "normal FLIP metrics" to [[flip-panometry]]; stated plainly that Rome V gives no duration for the acid-suppression course and no dysphagia-specific neuromodulator dose; removed a duplicated FLIP statistic (same cohort stated twice); Mechanism paragraph → bullets; `### A shrinking diagnosis` → `### Epidemiology`; new inline links. No flowchart (workup is owned by [[dysphagia]]; chapter has no numbered statements) and no chart (FLIP yields come from different cohorts).
+
+**Carried to other pages:** [[lumen-apposing-metal-stents]] — gallbladder drainage no longer described as off-label (ACG/ASGE 2025 FDA approval), `updated:` bumped.
+
+**Remaining for triage:**
+- [[acute-cholecystitis]] could gain the 142-patient surgery-vs-percutaneous-drainage trial under *Cholecystectomy*; it is no longer framed that way on [[eus-guided-gallbladder-drainage]].
+- No page exists for opioid-induced esophageal dysfunction (left unlinked on [[functional-dysphagia]]) or eosinophilic gastroenteritis (left unlinked on [[peptic-ulcer-disease]]).
+- Card pass: all notes on the four reviewed pages still sit under `# Draft` despite current `page_updated:` lines.
+
+**Progress:** 4/356 pages quality-reviewed. Run stopped on budget, not page count.
+
+---
+
 ## [2026-11-10] setup | Visual rules settled (grill with Nick)
 
 **Decided:**

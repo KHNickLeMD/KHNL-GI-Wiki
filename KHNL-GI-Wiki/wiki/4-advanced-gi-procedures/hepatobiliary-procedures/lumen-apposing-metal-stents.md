@@ -3,7 +3,7 @@ title: "Lumen-Apposing Metal Stents (LAMS)"
 category: advanced-procedure
 tags: [lams, therapeutic-eus, transmural-drainage, stents, eus-gbd, pancreatic-fluid-collection, eus-ge, edge, device]
 created: 2026-11-04
-updated: 2026-11-10
+updated: 2026-11-11
 sources: [i-eus-2026-eus-gastroenterostomy, asge-2026-colonic-strictures, asge-2021-gastroduodenal-obstruction, aga-2023-eus-gallbladder-drainage, asge-2016-pancreatic-fluid-collections, acg-2025-eus-quality, aga-2021-malignant-alimentary-tract-obstruction]
 ---
 
@@ -64,7 +64,7 @@ Sources: [[aga-2023-eus-gallbladder-drainage]] (both techniques), [[asge-2016-pa
 ## Indications and Regulatory Status
 
 - **US Food and Drug Administration (FDA)-approved indication: drainage of pancreatic fluid collections.** ([[aga-2023-eus-gallbladder-drainage]])
-- **Gallbladder drainage is off-label** — disclose it in consent; FDA approval awaits further outcome and safety data. ([[aga-2023-eus-gallbladder-drainage]])
+- **Gallbladder drainage: electrocautery-enhanced LAMS is FDA-approved for this indication** ([[acg-2025-eus-quality]]). The older [[aga-2023-eus-gallbladder-drainage|AGA 2023]] called it off-label and required disclosure in consent — the newer document governs. Details: [[eus-guided-gallbladder-drainage]].
 - **EUS-GE: no dedicated FDA-approved device exists**, and the technique is expertise-limited and not widely available. ([[aga-2021-malignant-alimentary-tract-obstruction]] Best Practice Advice 10) Using a LAMS to create the gastroenterostomy is explicitly **off-label** ([[asge-2021-gastroduodenal-obstruction]]). Indications, technique and misdeployment management: [[eus-gastroenterostomy]].
 
 > [!pitfall] A 20-mm LAMS was suggested for EUS-GE — then selected 20 × 10-mm devices were recalled
