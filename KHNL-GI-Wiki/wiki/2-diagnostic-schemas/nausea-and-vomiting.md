@@ -3,122 +3,132 @@ title: "Nausea and Vomiting"
 category: diagnostic-schema
 tags: [nausea, vomiting, gastroparesis, cyclic-vomiting, cannabinoid-hyperemesis, motility, foregut]
 created: 2026-06-04
-updated: 2026-11-05
+updated: 2026-11-12
 sources: [rome-v-2026-gastroduodenal-disorders, acg-2022-gastroparesis, aga-2024-cvs, aga-2024-chs, asge-2020-acpo-volvulus, rome-v-2026-dgbi]
+quality_reviewed: 2026-11-12
+---
+
+## Contents
+- [[#Definition / Scope]]
+- [[#Differential Diagnosis]]
+  - [[#Rome V nausea and vomiting disorders (B2)]]
+- [[#Diagnostic Algorithm]]
+  - [[#Working through the algorithm]]
+- [[#Key Tests]]
+- [[#Red Flags / Alarm Features]]
+- [[#See Also]]
+- [[#Sources]]
+
 ---
 
 ## Definition / Scope
 
-**Nausea** is the unpleasant sensation of an imminent urge to vomit; **vomiting** is the forceful oral expulsion of gastric contents via coordinated gastrointestinal (GI), abdominal-wall, and respiratory muscle activity. Distinguish from:
+- **Nausea** — the unpleasant sensation of the impending need to vomit ([[rome-v-2026-gastroduodenal-disorders]]).
+- **Vomiting** — forceful oral expulsion of gastrointestinal (GI) contents from the mouth.
+- **Regurgitation** — effortless passage of recently digested food into the mouth; not vomiting. Suggests [[gerd|gastroesophageal reflux disease (GERD)]], [[achalasia]], or [[rumination-syndrome|rumination]].
+- **Rumination** — recurrent, seemingly effortless regurgitation of recently ingested food, **not preceded by retching or nausea**; a behavioral [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction (DGBI)]].
 
-- **Regurgitation** — effortless return of undigested food/liquid without nausea or retching (suggests [[gerd|gastroesophageal reflux disease (GERD)]], [[achalasia]], Zenker's, or [[rumination-syndrome|rumination]]).
-- **Rumination** — repetitive effortless regurgitation of recently ingested food within minutes of eating, with re-chewing; a behavioral [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction (DGBI)]].
+**Scope of this page: chronic or recurrent nausea and/or vomiting** — the presentation Rome V's algorithm addresses ([[rome-v-2026-gastroduodenal-disorders]]).
 
-Duration frames the differential: **acute** (<1 week — usually infection, drugs, toxins, or an acute abdomen) vs. **chronic/recurrent** (>1 month — motility, functional, obstructive, metabolic, or central nervous system (CNS) causes). The **timing relative to meals** is a useful clue: vomiting of undigested food hours after eating suggests gastric outlet obstruction or [[gastroparesis]]; early-morning vomiting suggests pregnancy, raised intracranial pressure, or uremia.
+**The emergency presentation is a different pathway.** In the emergency department the approach is immediate evaluation for life-threatening disorders — acute abdomen, bowel obstruction, [[acute-mesenteric-ischemia|mesenteric ischemia]], [[acute-pancreatitis|pancreatitis]], myocardial infarction, among others ([[aga-2024-chs]]).
 
 ---
 
 ## Differential Diagnosis
 
-### GI / Luminal
+| Category | Entities |
+|---|---|
+| Gastroduodenal motility | [[gastroparesis]] |
+| Mechanical obstruction | [[gastric-outlet-obstruction\|Gastric outlet]] or bowel obstruction; [[acute-colonic-pseudo-obstruction\|colonic pseudo-obstruction (Ogilvie's)]] and [[colonic-volvulus\|colonic volvulus]] — distension plus vomiting, diagnosed on imaging ([[asge-2020-acpo-volvulus]]) |
+| [[disorders-of-gut-brain-interaction\|DGBI]] | Chronic nausea vomiting syndrome (CNVS) · [[cyclic-vomiting-syndrome\|cyclic vomiting syndrome (CVS)]] · [[cannabinoid-hyperemesis-syndrome\|cannabinoid hyperemesis syndrome (CHS)]] · [[rumination-syndrome\|rumination syndrome]] · [[functional-dyspepsia\|postprandial distress syndrome (PDS)]] |
+| Medications / substances | Drug- or substance-induced nausea and vomiting; chronic cannabis use (role in CNVS is controversial) |
+| Metabolic / endocrine | Metabolic disorders generally; Addison's disease, hypothyroidism and **acute hepatic porphyria** are the mimics the CVS update names ([[aga-2024-cvs]], [[acute-hepatic-porphyria]]) |
+| Neurologic / vestibular | Intracranial masses, inner ear disease, migraine |
+| Other systemic | Autoimmune disease, infiltrative disorders, psychiatric illness |
+| Pregnancy | [[nausea-and-vomiting-of-pregnancy\|Nausea and vomiting of pregnancy]]; see [[liver-disease-in-pregnancy]] for the hepatic overlap |
+| Structural / mucosal disease | Any abnormality found on [[upper-endoscopy\|upper GI endoscopy]], blood work or imaging — treated as its own diagnosis ([[rome-v-2026-gastroduodenal-disorders]] Figure 5) |
 
-- **[[gastric-outlet-obstruction|Gastric outlet]] / mechanical obstruction** — [[peptic-ulcer-disease|peptic stricture]], malignancy ([[gastric-adenocarcinoma]]), small-bowel obstruction (adhesions, hernia), superior mesenteric artery syndrome
-- **[[gastroparesis]]** — delayed gastric emptying without obstruction; postprandial fullness, early satiety, bloating; diabetic, post-surgical, idiopathic
-- **Peptic disease / [[dyspepsia]]**, [[gerd]], biliary disease ([[choledocholithiasis]], [[acute-cholecystitis|cholecystitis]]), [[acute-pancreatitis|pancreatitis]], appendicitis, hepatitis
-- **Infectious gastroenteritis** ([[acute-diarrhea|see acute diarrhea]]; [[norovirus]], food poisoning)
-- [[crohns-disease|Crohn's]] with stricturing; [[acute-colonic-pseudo-obstruction|colonic pseudo-obstruction (Ogilvie's)]] and [[colonic-volvulus|colonic volvulus]] — both present with distension and vomiting and are diagnosed on imaging ([[asge-2020-acpo-volvulus]])
+*Rome V's differential for chronic nausea vomiting syndrome, with the mimics added by the AGA cyclic vomiting syndrome and cannabinoid hyperemesis syndrome updates.*
 
-### CNS / Vestibular
+### Rome V nausea and vomiting disorders (B2)
 
-- Raised intracranial pressure (ICP) (tumor, hemorrhage, hydrocephalus) — often projectile, with headache/neuro signs
-- Migraine, vestibular disorders (labyrinthitis, benign paroxysmal positional vertigo [BPPV], Ménière's), motion sickness
+Rome V places three adult entities under **B2 — nausea and vomiting disorders** ([[rome-v-2026-dgbi]]): **B2a** chronic nausea vomiting syndrome, **B2b** [[cyclic-vomiting-syndrome|CVS]], **B2c** [[cannabinoid-hyperemesis-syndrome|CHS]]. Criteria for CVS and CHS live on their own pages; CNVS is diagnosed here.
 
-### Metabolic / Endocrine / Drugs
+**B2a — chronic nausea vomiting syndrome, Rome V criteria** ([[rome-v-2026-gastroduodenal-disorders]]). Must include **all**, fulfilled for the last 3 months with onset ≥6 months before diagnosis:
 
-- **Pregnancy** (always test in reproductive-age women) — [[nausea-and-vomiting-of-pregnancy|nausea/vomiting of pregnancy & hyperemesis gravidarum]]; see [[liver-disease-in-pregnancy]] for the hepatic overlap
-- Diabetic ketoacidosis (DKA), uremia, hypercalcemia, adrenal insufficiency, thyroid disease
-- **Drugs/toxins** — opioids, chemotherapy, digoxin, antibiotics, nonsteroidal anti-inflammatory drugs (NSAIDs), dopamine agonists, [[glp-1-receptor-agonists|glucagon-like peptide-1 (GLP-1) agonists]]; alcohol
-- Postoperative nausea/vomiting
-
-### Functional and Episodic Syndromes
-
-Rome V groups these as **B2 — nausea and vomiting disorders**, a gastroduodenal [[disorders-of-gut-brain-interaction|DGBI]] category with three members [[rome-v-2026-dgbi]]:
-
-- **B2a — chronic nausea vomiting syndrome (CNVS)** — chronic nausea and/or vomiting without a structural cause; diagnosed after exclusion
-- **B2b — [[cyclic-vomiting-syndrome|cyclic vomiting syndrome (CVS)]]** — stereotyped, recurrent discrete episodes of intense vomiting with symptom-free intervals; migraine association
-- **B2c — [[cannabinoid-hyperemesis-syndrome|cannabinoid hyperemesis syndrome (CHS)]]** — chronic cannabis use, cyclic vomiting relieved by hot showers/baths; resolves with cessation
-
-**Rome V criteria for chronic nausea vomiting syndrome (B2a)** ([[rome-v-2026-gastroduodenal-disorders]]) — must include **all**, fulfilled for the last 3 months with onset ≥6 months before diagnosis:
-
-> 1. **Bothersome nausea** (severe enough to affect usual activities) occurring **at least 2 days per week**, with or without **≥1 vomiting episode per week**
+> 1. **Bothersome nausea** (severe enough to affect usual activities) occurring **at least 2 days per week**, with or without **1 or more vomiting episodes per week**
 > 2. Self-induced vomiting, eating disorders and regurgitation are **excluded** as a cause of vomiting
 > 3. No evidence of structural, systemic or metabolic disease likely to explain the symptoms on routine investigations
-> 4. **Symptoms predominantly due to postprandial distress syndrome exclude the diagnosis** ([[functional-dyspepsia]])
-> 5. **Predominant nausea or persistent vomiting with delayed gastric emptying should prompt a diagnosis of [[gastroparesis]]**
+> 4. **Symptoms predominantly due to [[functional-dyspepsia|PDS]] exclude the diagnosis**
+> 5. **Predominant nausea or persistent vomiting associated with delayed gastric emptying should prompt a diagnosis of [[gastroparesis]]**
 
-- **Changed from Rome IV:** the frequency is now **≥2 nausea days weekly, with or without ≥1 weekly vomiting episode**.
-- **What warrants evaluation beyond the history** ([[rome-v-2026-gastroduodenal-disorders]]): **bilious vomiting · abdominal tenderness · abnormal neurologic findings · worsening vomiting.** Blood work excludes electrolyte and metabolic abnormalities; endoscopy or imaging evaluates for organic disease; specialized GI function tests are for selected settings.
-- **Treatment of CNVS is thinly evidenced** — antagonists of histamine-1, dopamine-2 and 5-hydroxytryptamine-3 receptors and cannabinoid CB₁ agonists have antiemetic action; tricyclic antidepressants and psychological measures help some; limited data support ginger, herbal remedies and electroacupuncture.
+- **Changed from Rome IV:** frequency is now **≥2 nausea days weekly, with or without ≥1 weekly vomiting episode**.
+- **Treatment is thinly evidenced.** Antagonists of histamine-1, dopamine-2 and 5-hydroxytryptamine-3 receptors and agonists of cannabinoid CB₁ receptors have antiemetic action; tricyclic antidepressants and psychological measures benefit some patients; limited data support ginger, herbal remedies and electroacupuncture.
+- Delayed gastric emptying correlates poorly with symptom severity, and emptying rate is labile — **more than one third of patients switch emptying-rate group by 48 weeks**.
 
 ---
 
 ## Diagnostic Algorithm
 
-```mermaid
-flowchart TD
-    A["Nausea and vomiting"] --> B{"Acute or chronic/recurrent?"}
-    B -->|Acute| C{"Alarm features?<br/>(severe pain, peritonitis,<br/>neuro signs, dehydration, GI bleeding)"}
-    C -->|Yes| D["Urgent eval: labs, pregnancy test,<br/>imaging (computed tomography [CT]/<br/>ultrasound), surgical consult"]
-    C -->|No| E["Supportive care, treat cause<br/>(gastroenteritis, drugs)"]
-    B -->|"Chronic / recurrent"| F["Pregnancy test + labs<br/>(comprehensive metabolic panel [CMP], Ca,<br/>thyroid-stimulating hormone [TSH], lipase)<br/>+ med review"]
-    F --> G["Upper endoscopy ± abdominal imaging<br/>to exclude obstruction/mucosal disease"]
-    G -->|"Obstruction / lesion"| H["Treat structural cause"]
-    G -->|"Normal"| I["Gastric emptying scintigraphy"]
-    I -->|Delayed| J["Gastroparesis"]
-    I -->|Normal| K["Consider CVS / CHS / functional;<br/>brain imaging if neuro features"]
-```
+![[nausea-vomiting-2026-rome-v-algorithm-09.png|820x580]]
+*Diagnostic approach to chronic or recurrent nausea or vomiting, or both*
+*Source: figure 5 of Rome V 2026 Gastroduodenal Disorders, open access (CC BY 4.0)*
+*[[rome-v-2026-gastroduodenal-disorders|Gastroduodenal Disorders (Rome V, 2026)]]*
+*GI = gastrointestinal*
 
-1. **Acute vs. chronic.** Acute with **alarm features** (severe/localized pain, peritoneal signs, GI bleeding, neurologic deficits, signs of obstruction, severe dehydration) → urgent labs, **pregnancy test**, and cross-sectional imaging ± surgical evaluation.
-2. **Always test pregnancy** in reproductive-age women before imaging or pharmacotherapy.
-3. **Labs** — CMP (electrolytes, renal, glucose/ketones), calcium, TSH, lipase, liver function tests (LFTs); complete blood count (CBC); consider cortisol/morning if adrenal insufficiency suspected; drug review (opioids, GLP-1 agonists, chemo).
-4. **Exclude obstruction and mucosal disease** — abdominal X-ray/CT for suspected obstruction; **[[upper-endoscopy|esophagogastroduodenoscopy (EGD)]]** for chronic symptoms, [[dysphagia]], weight loss, or suspected [[peptic-ulcer-disease|peptic ulcer disease (PUD)]]/malignancy.
-5. **If structural causes excluded** → **scintigraphic gastric emptying** for [[gastroparesis]]. The threshold only means something with its protocol attached ([[acg-2022-gastroparesis]]):
-   - **Solid meal, standard 255-kcal, 2% fat Egg Beaters meal**; imaging at **0, 1, 2, and 4 h**.
-   - **≥3 h of imaging required, 4 h optimal** (3 h acceptable only if >90% emptied by 3 h).
-   - **Delayed emptying = >10% retention at 4 h.** A 2-h or non-standard-meal study does not establish the diagnosis.
-   - Stop opioids/GLP-1 agonists and correct hyperglycemia first — both delay emptying and confound the test.
-6. **Neuroimaging** (CT/magnetic resonance imaging [MRI] brain) if headache, papilledema, focal deficits, or early-morning vomiting suggest a CNS cause.
-7. **Recognize episodic syndromes** — stereotyped attacks with well intervals = CVS; cannabis use + relief with hot bathing = CHS (treat with cessation).
+### Working through the algorithm
+
+1. **History and physical, then screen for alarm features** — present → straight to upper GI endoscopy, blood and other tests.
+2. **Potentially drug- or substance-induced?** → eliminate the presumed causal agent. Symptoms improve → drug-induced nausea and vomiting or [[cannabinoid-hyperemesis-syndrome|CHS]]. No improvement → proceed to testing.
+3. **[[upper-endoscopy|Upper GI endoscopy]], blood work and other tests.** Any abnormality identified → other disease, treated on its own terms.
+4. **Psychiatric or neurological features?** → appropriate testing or referral.
+5. **Effortless regurgitation without vomiting?** → [[rumination-syndrome|rumination syndrome]]; consider impedance manometry to confirm.
+6. **Stereotypic episodic vomiting?** → [[cyclic-vomiting-syndrome|CVS]].
+7. **None of the above** → **chronic nausea vomiting syndrome**; treat accordingly. No symptom relief → **consider a gastric emptying test**: delayed → [[gastroparesis]]; not delayed → back to chronic nausea vomiting syndrome management. Symptom relief → long-term management.
+
+**Gastric emptying — the number that decides the branch** ([[acg-2022-gastroparesis]]): **delayed = >10% retention at 4 h** on a standard solid-meal scintigraphic study. Imaging must run **at least 3 h, ideally 4 h** (3 h acceptable only if >90% has emptied). **Hold drugs that affect emptying — opioids, cannabinoids, prokinetics, antiemetics, neuromodulators — for 48 h before the test.** Protocol and severity bands: [[gastroparesis]].
+
+> [!pitfall] Don't reflex to a gastric emptying scan in cyclic vomiting
+> Gastric emptying scans should **not** be routinely ordered in [[cyclic-vomiting-syndrome|CVS]] ([[aga-2024-cvs]]); one-time endoscopy or upper-GI imaging to exclude obstruction is enough, and post-retching findings are epiphenomena — don't repeat the endoscopy for them.
 
 ---
 
 ## Key Tests
 
-- **Urine/serum hCG** — mandatory in reproductive-age women.
-- **Metabolic labs** — CMP, calcium, glucose/ketones, TSH, lipase, LFTs; identifies DKA, uremia, hypercalcemia, thyroid/adrenal disease, biliary/pancreatic disease.
-- **Abdominal imaging** — upright X-ray/CT for obstruction; ultrasound for biliary causes.
-- **[[upper-endoscopy|EGD]]** — excludes gastric outlet obstruction, [[peptic-ulcer-disease|PUD]], and [[gastric-adenocarcinoma|malignancy]] in chronic/refractory cases.
-- **Scintigraphic gastric emptying (4-hour, standard solid meal)** — confirms [[gastroparesis]]; gold standard (protocol and cutoff above). Wireless motility capsule and ¹³C breath testing are alternatives.
-- **Brain CT/MRI** — when CNS features are present.
-- **[[small-bowel-motility|Antroduodenal manometry]]** — selected refractory cases to evaluate for chronic intestinal pseudo-obstruction.
+- **Blood work** — complete blood count (CBC), electrolytes, glucose, liver function tests (LFTs), lipase, urinalysis; excludes electrolyte abnormality and metabolic disease ([[aga-2024-cvs]], [[rome-v-2026-gastroduodenal-disorders]]).
+- **[[upper-endoscopy|Upper GI endoscopy]]** — evaluates for organic disease; **one-time** esophagogastroduodenoscopy (EGD) or upper-GI imaging to exclude obstruction in episodic vomiting ([[aga-2024-cvs]]).
+- **Computed tomography (CT) of abdomen or pelvis** — alternative anatomic evaluation to exclude obstruction ([[aga-2024-chs]]).
+- **Scintigraphic gastric emptying** — the branch point above; cut-point and protocol per [[acg-2022-gastroparesis]]. **Alternatives** ([[acg-2022-gastroparesis]], both Conditional / Low quality): wireless motility capsule (WMC); ¹³C-spirulina breath test.
+- **Impedance manometry** — objective confirmation of rumination when effortless regurgitation is the pattern ([[rome-v-2026-gastroduodenal-disorders]]).
+- **Brain imaging** (CT or magnetic resonance imaging [MRI]) ± neurology referral — when focal or localizing neurologic symptoms and signs are present ([[aga-2024-cvs]], [[aga-2024-chs]]).
+- **Urine tetrahydrocannabinol (THC) metabolites** — considered when a patient does not admit to cannabis use; **no metabolite profile is specific for CHS**, and metabolites persist ≥1 month ([[rome-v-2026-gastroduodenal-disorders]]).
+
+> [!pearl] Hot-water bathing is not proof of cannabinoid hyperemesis
+> **48% of CVS patients who do not use cannabis** report compulsive hot bathing ([[rome-v-2026-gastroduodenal-disorders]]) — the behaviour is independent of cannabis, merely augmented by it, so it is **not pathognomonic** of CHS ([[aga-2024-chs]]). CHS is established by the cannabis-use pattern and by resolution with sustained cessation.
 
 ---
 
 ## Red Flags / Alarm Features
 
-- **Severe or localized abdominal pain, peritoneal signs** — surgical abdomen
-- **Signs of obstruction** — abdominal distension, absent flatus/stool, succussion splash
-- **Hematemesis or coffee-ground emesis** — see [[upper-gi-bleeding]]
-- **Neurologic features** — headache, papilledema, focal deficits, projectile/early-morning vomiting (raised ICP)
-- **Severe dehydration / electrolyte disturbance** — hypokalemia, metabolic alkalosis, acute kidney injury (AKI)
-- **Unintentional weight loss, dysphagia, anemia** — malignancy/structural disease
-- **Suspected pregnancy / hyperemesis gravidarum**
+**Features that warrant evaluation beyond the history** ([[rome-v-2026-gastroduodenal-disorders]]):
+
+- **Bilious vomiting**
+- **Abdominal tenderness**
+- **Abnormal neurologic findings**
+- **Worsening vomiting**
+
+**Emergency-department exclusions before anything else** ([[aga-2024-chs]]): acute abdomen · bowel obstruction · [[acute-mesenteric-ischemia|mesenteric ischemia]] · [[acute-pancreatitis|pancreatitis]] · myocardial infarction.
+
+**Complications that change management:**
+
+- Fluid loss, electrolyte abnormalities, **hematemesis** ([[upper-gi-bleeding]]), and dental enamel damage with repeated attacks ([[rome-v-2026-gastroduodenal-disorders]])
+- Dehydration, acute kidney injury (AKI), electrolyte and metabolic imbalance; much rarer pneumothorax or pneumomediastinum; death ([[aga-2024-chs]])
 
 ---
 
 ## See Also
 
-[[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[nausea-and-vomiting-of-pregnancy]], [[dyspepsia]], [[gerd]], [[peptic-ulcer-disease]], [[gastric-adenocarcinoma]], [[achalasia]], [[rumination-syndrome]], [[acute-pancreatitis]], [[choledocholithiasis]], [[acute-cholecystitis]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[acute-diarrhea]], [[norovirus]], [[liver-disease-in-pregnancy]], [[disorders-of-gut-brain-interaction]], [[small-bowel-motility]], [[acute-colonic-pseudo-obstruction]], [[colonic-volvulus]], [[gastric-outlet-obstruction]], [[dysphagia]], [[crohns-disease]], [[glp-1-receptor-agonists]]
+[[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[rumination-syndrome]], [[functional-dyspepsia]], [[dyspepsia]], [[nausea-and-vomiting-of-pregnancy]], [[liver-disease-in-pregnancy]], [[acute-hepatic-porphyria]], [[gerd]], [[achalasia]], [[gastric-outlet-obstruction]], [[acute-colonic-pseudo-obstruction]], [[colonic-volvulus]], [[acute-mesenteric-ischemia]], [[acute-pancreatitis]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[high-resolution-manometry]], [[disorders-of-gut-brain-interaction]]
 
 ---
 
