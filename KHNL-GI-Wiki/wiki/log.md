@@ -6,6 +6,12 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-12] update | Anki deck: firm consolidation cut
+
+- Nick: the deck is too big at 4,398 notes / 7,447 cards. He chose a **firm cut**: the high-yield test applied strictly to every note, expecting about 30% fewer notes (≈3,000 notes / ≈5,000 cards). That figure is a result, not a quota. Rule: CLAUDE.md → *Card quality review* → *Firm cut*.
+- `review-queue.py --cards`: card files reviewed before 2026-11-12, under the lighter rule, are back in the queue.
+- Cron (server `lint-cron.sh`, no repo change): card step $15 → $20 and page review $20 → $35, toward Nick's ~75% weekly usage target. Retired notes leave Anki through anki-sync's existing delete.
+
 ## [2026-11-12] update | Flowchart display fixes
 
 - Site (`index.html`): pill nodes taller than one line now draw as rounded rectangles. The pill's curved ends had clipped the first and last lines of multi-line labels (Nick's screenshot, defecation-disorders).
