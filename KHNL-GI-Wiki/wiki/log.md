@@ -6,6 +6,11 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-12] update | Flowchart display fixes
+
+- Site (`index.html`): pill nodes taller than one line now draw as rounded rectangles. The pill's curved ends had clipped the first and last lines of multi-line labels (Nick's screenshot, defecation-disorders).
+- `clostridioides-difficile`: the old-style management pathway (diamonds, no role colours) converted to house style with a 4-line caption. 124 old-style flowcharts remain on 114 pages; they convert during each page's quality review.
+
 ## [2026-11-12] update | Figure licences: paywalled screenshots replaced on 40 pages
 
 **Licence check (step 2):** read the licence statement in every source PDF behind the 93 unverified page figures (Crossref metadata for corroboration).
