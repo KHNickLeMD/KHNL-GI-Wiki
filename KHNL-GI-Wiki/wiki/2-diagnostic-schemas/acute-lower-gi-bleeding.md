@@ -3,7 +3,7 @@ title: "Acute Lower Gastrointestinal Bleeding (LGIB)"
 category: diagnostic-schema
 tags: [lower-gi-bleeding, lgib, hematochezia, diverticular, colonoscopy, hemorrhage, cta, risk-stratification]
 created: 2026-05-15
-updated: 2026-11-09
+updated: 2026-11-12
 sources: [asge-2026-lgib, acg-2023-lgib, asge-2014-lgib, acg-2021-ugib, asge-2015-bowel-preparation]
 ---
 
@@ -201,8 +201,27 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 ### Step 4: Determine Initial Diagnostic Strategy
 
-![[lgib-2023-management-algorithm-17.png|700x712]]
-*Figure 1 — Suggested approach to the management of patients with severe hematochezia. IVF: intravenous fluid; PRBC: packed red blood cell; UGI: upper gastrointestinal; PEG: polyethylene glycol; CTA: CT angiography. ([[acg-2023-lgib]])*
+```mermaid
+flowchart TD
+    A(["Severe hematochezia"]) --> B(["IVF resuscitation<br/>PRBC transfusion to threshold >7 g/dL<br/>(or higher if shock or<br/>cardiovascular ischemia)<br/>Exclude UGI source if appropriate"])
+    B -- "Ongoing significant bleeding" --> C["CT angiography"]
+    B -- "Milder LGIB or<br/>bleeding has subsided" --> N(["Nonurgent colonoscopy<br/>(with split-dose PEG) vs observation<br/>if bleeding subsides and patient<br/>has had recent colonoscopy"])
+    C -- "Extravasation" --> T(["Prompt transcatheter angiography<br/>with embolization<br/>if extravasation seen"])
+    C -- "Extravasation" --> U(["Consider urgent colonoscopy<br/>(large-volume purge prep with<br/>4–6 L PEG over 3–4 hours)<br/>with intervention, for specialized<br/>centers with expertise in<br/>endoscopic hemostasis"])
+    C -- "No extravasation" --> N
+    class A start
+    class C test
+    class B,N,T,U act
+```
+*Suggested approach to the patient with severe hematochezia*
+*Source: redrawn from the ACG 2023 lower GI bleeding management algorithm*
+*[[acg-2023-lgib|ACG 2023 Lower GI Bleeding Guideline]]*
+*IVF = intravenous fluid · PRBC = packed red blood cells · UGI = upper gastrointestinal · LGIB = lower gastrointestinal bleeding · PEG = polyethylene glycol*
+
+Footnotes to the algorithm [[acg-2023-lgib]]:
+
+- **Risk factors for an upper GI source:** history of peptic ulcer bleeding, portal hypertension, BUN/Cr >30, aspirin/NSAID use, and positive nasogastric lavage.
+- **Predictors of a positive CTA:** CTA within 4 hours of hematochezia, recent bowel resection or intervention, transfusion of >3 units of PRBC, use of antiplatelets or DOACs, tachycardia, or hypotension. Centers without interventional radiology: consider a prompt colonoscopy after resuscitation.
 
 **If hemodynamically significant ongoing hematochezia:**
 → **CTA first** (Conditional recommendation)
@@ -278,8 +297,18 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 ### Step 6: Endoscopic Treatment
 
-![[lgib-2023-endoscopic-treatment-algorithm-18.png|700x317]]
-*Figure 2 — Preferred endoscopic treatment options during colonoscopy based on etiology. EBL: endoscopic band ligation; APC: argon plasma coagulation; OTSC: over-the-scope clip; SRH: stigmata of recent hemorrhage. ([[acg-2023-lgib]])*
+| Etiology | Preferred treatment | Initial hemostasis, rate (95% CI) | Rebleeding, rate (95% CI) | Additional treatment options |
+|---|---|---|---|---|
+| **Diverticular hemorrhage** (SRH seen during colonoscopy) | EBL | 99% (95–100) | Early: 8% (5–12) | Topical hemostatic spray, epinephrine, OTSC, endoscopic detachable snare ligation, Doppler probe-guided therapy |
+| | Clips (direct clipping of vessel preferred to indirect clip closure of diverticula) | 99% (97–100) | Early: 19% (11–28) | |
+| | Coagulation (can be used if SRH seen at neck of diverticula) | 100% (91–100) | Pooled: 21% (1–51) | |
+| **Colonic angioectasias** | APC | — | — | Clips, epinephrine, submucosal injection of fluid followed by targeted coagulation |
+| **Postpolypectomy bleeding** | Clips | — | — | Direct thermal therapy, APC, OTSC, topical hemostatic spray |
+
+*Preferred endoscopic treatment during colonoscopy, by etiology*
+*Source: table from the ACG 2023 lower GI bleeding endoscopic treatment figure*
+*[[acg-2023-lgib|ACG 2023 Lower GI Bleeding Guideline]]*
+*SRH = stigmata of recent hemorrhage · EBL = endoscopic band ligation · APC = argon plasma coagulation · OTSC = over-the-scope clip · CI = confidence interval*
 
 **Treat all SRH regardless of etiology** (Key Concept)
 

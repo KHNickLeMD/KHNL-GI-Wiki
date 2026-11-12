@@ -3,7 +3,7 @@ title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-11-01
+updated: 2026-11-12
 sources: [asge-2023-ergonomics, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy, asge-2011-foreign-body-ingestion, aga-2021-gi-perforations-endoscopic-management, aga-2015-upper-gi-biopsy-dyspepsia, afs-2022-egj-integrity-classification]
 ---
 
@@ -104,7 +104,7 @@ Document all of: esophagus, gastroesophageal junction (GEJ) (antegrade), gastric
 | Peptic [[esophageal-stricture\|esophageal stricture]] dilation | Recommend acid suppression therapy, preferably PPI (if no allergy/contraindication) | >98% |
 | BE with dysplasia or intramucosal carcinoma (IMC) undergoing [[endoscopic-eradication-therapy\|endoscopic eradication therapy (EET)]] | Complete intestinal metaplasia (IM) eradication within 18 months | >75% |
 
-> The LA grade A–D criteria the two rows above turn on are tabulated, with the figure, on [[reflux-testing#Erosive Esophagitis: Los Angeles (LA) Grade|reflux testing]] (from [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2; [[acg-2025-egd-quality|ACG/ASGE 2025]] Figure 2 prints grade A as ≤5 mm rather than <5 mm). The full AGA 2024 figure is under [[#Standardized Classification Systems (BPA 6)]].
+> The LA grade A–D criteria the two rows above turn on are tabulated, with the figure, on [[reflux-testing#Erosive Esophagitis: Los Angeles (LA) Grade|reflux testing]] (from [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2; [[acg-2025-egd-quality|ACG/ASGE 2025]] Figure 2 prints grade A as ≤5 mm rather than <5 mm). The full AGA 2024 figure is linked under [[#Standardized Classification Systems (BPA 6)]].
 
 ---
 
@@ -200,15 +200,13 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 *Report the class, not a free-text description — each system's criteria are held on its home page (linked) rather than duplicated here.*
 
-![[upper-endoscopy-2024-classification-systems-06.png|700x850]]
-*Figure 1 — Endoscopic classification systems for selected upper GI pathology, top to bottom: modified Los Angeles grades A–D (erosive esophagitis); Prague C & M (Barrett's esophagus); Hill grades 1–4 (gastroesophageal flap valve); Forrest Ia–III (peptic ulcers); Paris 0-Ip to 0-III (superficial lesions); EREFS edema, rings, exudates, furrows, stricture (eosinophilic esophagitis). AGA 2024 Figure 2. ([[aga-2024-upper-endoscopy-quality]])*
+*See Figure 2 in [[aga-2024-upper-endoscopy-quality|AGA 2024 High-Quality Upper Endoscopy]] for example images: Los Angeles A–D, Prague C & M, Hill 1–4, Forrest Ia–III, Paris 0-Ip to 0-III, and EREFS.*
 
 ### Biopsy Protocols — AGA 2024 (BPA 7)
 
 Document the number and location of every biopsy in the report.
 
-![[upper-endoscopy-2024-biopsy-locations-09.png|400x674]]
-*Figure 2 — Standardized biopsy sites for suspected or established conditions: blue = eosinophilic esophagitis (distal and mid/proximal esophagus); purple = gastric intestinal metaplasia, Sydney protocol (2 antrum, 1 incisura, 2 body); orange = celiac disease (bulb and D2). AGA 2024 Figure 3. ([[aga-2024-upper-endoscopy-quality]])*
+*See Figure 3 in [[aga-2024-upper-endoscopy-quality|AGA 2024 High-Quality Upper Endoscopy]] for a biopsy-site map: eosinophilic esophagitis, gastric intestinal metaplasia (Sydney protocol), and celiac disease.*
 
 #### Eosinophilic Esophagitis
 

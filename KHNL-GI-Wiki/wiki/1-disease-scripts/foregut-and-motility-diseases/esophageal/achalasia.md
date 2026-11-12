@@ -3,7 +3,7 @@ title: "Achalasia"
 category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-10-04
+updated: 2026-11-12
 sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-poem, aga-2024-poem-advances, aga-2024-esophageal-immunity-infection, chicago-v4-2021-esophageal-dysmotility]
 ---
 
@@ -90,8 +90,7 @@ All subtypes share **impaired EGJ relaxation**; distinguished by esophageal body
 - Subtype success rates for types I/II/III (81% / 92% / 71%) come from **one meta-analysis of 1,575 patients, all LHM** ([[acg-2020-achalasia]]) — they are not head-to-head vs PD.
 - The only **PD**-specific type III figure is a separate 18-patient subgroup of the European achalasia trial: **LHM 86% vs PD 40%, P=0.12 — not statistically significant** (underpowered). Do not quote 40% against the 71% above; they are different studies.
 
-![[achalasia-2020-chicago-subtypes-05.png|700x183]]
-*Figure 2 — High-resolution manometry of achalasia phenotypes. Type I (left): aperistalsis without esophageal pressurization. Type II (middle): aperistalsis with panesophageal pressurization. Type III (right): premature/spastic contractions. ([[acg-2020-achalasia]])*
+*See Figure 2 in [[acg-2020-achalasia|ACG 2020 Achalasia Guideline]] for example images: high-resolution manometry tracings of type I (absent pressurization), type II (panesophageal pressurization) and type III (spastic contractions) achalasia.*
 
 Disease progresses: Type III → Type II → Type I as esophagus dilates over time.
 
@@ -145,8 +144,24 @@ Simultaneous cross-sectional area + pressure → EGJ distensibility index. Perfo
 
 ### Treatment Algorithm
 
-![[achalasia-2020-treatment-algorithm-15.png|700x396]]
-*Figure 8 — Diagnostic and treatment algorithm for achalasia. FLIP: functional lumen imaging probe; HRM: high-resolution manometry; PPI: proton pump inhibitor. ([[acg-2020-achalasia]])*
+```mermaid
+flowchart TD
+    A(["Symptoms of dysphagia ± chest pain<br/>and bland regurgitation<br/>GERD symptoms not responsive<br/>to PPI therapy"]) --> B["Upper endoscopy"]
+    B -- "Mechanical obstruction /<br/>esophagitis" --> C(["Treat appropriately"])
+    B -- "Normal" --> D["High-resolution manometry,<br/>timed barium esophagram<br/>(FLIP may be helpful in patients<br/>unable to tolerate HRM)"]
+    B -- "Esophageal dilatation, EGJ resistance,<br/>retained food, diverticulum" --> D
+    D -- "Type I or II achalasia" --> E(["Definitive therapy:<br/>Pneumatic dilation 30/35/40 mm (may start<br/>with 35 mm in young males, routine<br/>gastrografin not needed, repeat in<br/>2–4 weeks if no response)<br/>or laparoscopic Heller myotomy<br/>(Dor or Toupet fundoplication)<br/>or POEM (standard myotomy length,<br/>all discharged with PPI therapy)"])
+    D -- "Type III achalasia" --> F(["Definitive therapy:<br/>Tailored myotomy via POEM<br/>or tailored Heller myotomy"])
+    D -- "Patients unfit for<br/>definitive therapy" --> G(["Botulinum toxin<br/>Smooth muscle relaxants"])
+    class A start
+    class B,D test
+    class E,F,G act
+    class C stop
+```
+*Diagnostic and treatment algorithm for suspected achalasia*
+*Source: redrawn from the ACG 2020 achalasia diagnostic and treatment algorithm*
+*[[acg-2020-achalasia|ACG 2020 Achalasia Guideline]]*
+*GERD = gastroesophageal reflux disease · PPI = proton pump inhibitor · EGJ = esophagogastric junction · FLIP = functional lumen imaging probe · HRM = high-resolution manometry · POEM = per-oral endoscopic myotomy*
 
 ```mermaid
 flowchart TD

@@ -3,7 +3,7 @@ title: "Gastric Premalignant Conditions"
 category: disease-script
 tags: [gpmc, gim, atrophic-gastritis, dysplasia, gastric-cancer, correa-cascade, h-pylori, esd, surveillance, autoimmune-gastritis]
 created: 2026-05-07
-updated: 2026-09-05
+updated: 2026-11-12
 sources: [acg-2025-gastric-premalignant, aga-2026-gastric-polyps]
 ---
 
@@ -153,8 +153,25 @@ Gastric adenocarcinoma
 
 ### Surveillance Strategy
 
-![[gpmc-2025-nondysplastic-algorithm-17.png|700x391]]
-*Figure 5 — Nondysplastic GPMC management algorithm. ([[acg-2025-gastric-premalignant]])*
+```mermaid
+flowchart TD
+    A(["Gastric intestinal metaplasia"]) -- "Low-risk" --> C(["No further surveillance"])
+    A -- "Low-risk" --> D["Repeat exam in 3 years<br/>to reassess risk*"]
+    A -- "High-risk" --> H(["Surveillance in 3 years;<br/>consider shorter interval<br/>if multiple risk factors"])
+    D -- "High-risk" --> H
+    D -- "Persistent low-risk" --> E(["No further surveillance"])
+    N(["Nonmetaplastic atrophic gastritis"]) -- "Low-risk" --> N1(["No further surveillance"])
+    N -- "High-risk" --> N2(["Surveillance in 3 years"])
+    class A,N start
+    class D test
+    class H,N2 act
+    class C,E,N1 stop
+```
+*Surveillance of nondysplastic gastric premalignant conditions after risk stratification*
+*Source: redrawn from the ACG 2025 nondysplastic GPMC management algorithm*
+*[[acg-2025-gastric-premalignant|ACG 2025 Gastric Premalignant Conditions Guideline]]*
+
+\* Some studies in non-US populations show about 30% of patients classified as low-risk on the initial exam are upstaged to high-risk histology on repeat short-interval examination (1–2 years) with Sydney protocol biopsies; there are no US data. Repeat surveillance in 3 years can be considered for low-risk GIM if there is concern about the quality of the initial exam, or by patient preference and shared decision-making. Test for H. pylori, treat, and confirm eradication before surveillance, ideally at least 1–2 months before the exam ([[acg-2025-gastric-premalignant]]).
 
 **High-risk GIM → surveillance q3y (Conditional/Very low):**
 
@@ -195,8 +212,41 @@ Gastric adenocarcinoma
 
 ### Dysplasia Management
 
-![[gpmc-2025-dysplastic-algorithm-19.png|700x384]]
-*Figure 6 — Dysplastic GPMC management algorithm. ([[acg-2025-gastric-premalignant]])*
+```mermaid
+flowchart TD
+    A(["Low-grade dysplasia"]) -- "Confirmed by 2 expert<br/>GI pathologists" --> B["Referral to an endoscopist with skill<br/>assessing and endoscopically resecting<br/>GPMC and neoplasia, for repeat exam<br/>using HD-WLE + IEE and systematic biopsies"]
+    B -- "Visible" --> C["Endoscopic resection en bloc"]
+    B -- "Nonvisible" --> D["Surveillance by an expert<br/>q6–12 months w/ systematic biopsies"]
+    D -- "Visible" --> C
+    D -- "Nonvisible" --> D
+    C -- "Complete resection, R0" --> E(["Surveillance q1 year, then continue<br/>q3 years if AG/GIM in remaining mucosa"])
+    C -- "Incomplete resection" --> F(["Repeat endoscopy < 6 months;<br/>if still incomplete resection,<br/>surveillance vs surgical resection"])
+    class A start
+    class B,C,D test
+    class E,F act
+```
+*Management of low-grade dysplasia in gastric premalignant conditions*
+*Source: redrawn from the ACG 2025 dysplastic GPMC management algorithm (LGD arm)*
+*[[acg-2025-gastric-premalignant|ACG 2025 Gastric Premalignant Conditions Guideline]]*
+*GI = gastrointestinal · GPMC = gastric premalignant conditions · HD-WLE = high-definition white light endoscopy · IEE = image-enhanced endoscopy · R0 = complete resection with negative margins · AG = atrophic gastritis · GIM = gastric intestinal metaplasia*
+
+```mermaid
+flowchart TD
+    A(["High-grade dysplasia"]) -- "Confirmed by 2 expert<br/>GI pathologists" --> B["Referral to an endoscopist with skill<br/>assessing and endoscopically resecting<br/>GPMC and neoplasia, for repeat exam<br/>using HD-WLE + IEE and systematic biopsies"]
+    B -- "Visible" --> C["Endoscopic resection en bloc (ESD)<br/>or surgical resection"]
+    B -- "Nonvisible" --> D["Surveillance by an expert<br/>q3 months w/ systematic biopsies"]
+    D -- "Visible" --> C
+    D -- "Nonvisible" --> D
+    C -- "Complete resection, R0" --> E(["Surveillance q3–6 months x 1–2 years,<br/>then q3 years if AG/GIM<br/>in remaining mucosa"])
+    C -- "Incomplete resection" --> F(["Repeat endoscopy < 3 months;<br/>if still incomplete resection,<br/>consider surgical resection"])
+    class A start
+    class B,C,D test
+    class E,F act
+```
+*Management of high-grade dysplasia in gastric premalignant conditions*
+*Source: redrawn from the ACG 2025 dysplastic GPMC management algorithm (HGD arm)*
+*[[acg-2025-gastric-premalignant|ACG 2025 Gastric Premalignant Conditions Guideline]]*
+*GI = gastrointestinal · GPMC = gastric premalignant conditions · HD-WLE = high-definition white light endoscopy · IEE = image-enhanced endoscopy · ESD = endoscopic submucosal dissection · R0 = complete resection with negative margins · AG = atrophic gastritis · GIM = gastric intestinal metaplasia*
 
 | Scenario | Action |
 |---|---|

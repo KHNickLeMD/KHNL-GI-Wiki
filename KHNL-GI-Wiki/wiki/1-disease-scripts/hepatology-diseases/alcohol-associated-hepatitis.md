@@ -3,7 +3,7 @@ title: "Alcohol-Associated Hepatitis"
 category: disease-script
 tags: [alcoholic-hepatitis, ald, hepatology, corticosteroids, prednisolone, lille-score, meld, mdf, nac, liver-transplant, stopah, salt-score, accelerate-ah]
 created: 2026-09-15
-updated: 2026-10-29
+updated: 2026-11-12
 sources: [aasld-2020-ald, acg-2024-ald, aga-2017-severe-alcoholic-hepatitis, lee-2018-accelerate-ah]
 ---
 
@@ -97,6 +97,21 @@ Three diagnostic certainty categories ([[aasld-2020-ald]]) — they determine wh
 
 *Confounders that trigger biopsy:* possible ischemic hepatitis (severe [[upper-gi-bleeding|upper gastrointestinal bleeding (UGIB)]], hypotension, or cocaine within 7 days); possible [[drug-induced-liver-injury|drug-induced liver injury (DILI)]] (suspect drug within 30 days of jaundice); uncertain alcohol history; atypical labs (AST <50 or >400, AST/ALT <1.5, antinuclear antibody (ANA) >1:160 or smooth muscle antibody (SMA) >1:80).
 
+```mermaid
+flowchart TD
+    A(["Initial evaluation<br/>History: heavy alcohol use until at least<br/>4 weeks before presentation · recent onset<br/>or worsening of jaundice · ascites, HE, variceal<br/>bleeding, sarcopenia, other toxic effects of<br/>alcohol · malaise, fever, anorexia<br/>Labs: bilirubin > 3 mg/dL · AST > ALT<br/>(2× ULN and < 400 IU/L) · AST/ALT > 1.5"]) --> B["Exclude other causes of liver disease and jaundice<br/>Mechanical obstruction: liver imaging for HCC and<br/>biliary obstruction · Doppler US for acute PVT and BCS<br/>DILI: medications, supplements, pharmacy records, LiverTox<br/>Viral: IgM anti-HAV, anti-HBc, HEV · HBsAg · HCV Ab, HCV RNA<br/>Autoimmune: ANA, ASMA (high titers), IgG, AMA<br/>Ischemic: hypotension, septic shock, massive<br/>bleeding, recent cocaine use"]
+    B -- "Probable AH: meets all clinical<br/>criteria, no other liver disease<br/>etiology suspected" --> C(["Clinically diagnosed AH"])
+    B -- "Possible AH: unclear alcohol use<br/>history, jaundice > 3 months, or<br/>presence/suspicion of another<br/>liver disease" --> D["Transjugular liver biopsy"]
+    D --> E(["Definite AH (biopsy proven)"])
+    class A start
+    class B,D test
+    class C,E stop
+```
+*Diagnosis of alcohol-associated hepatitis*
+*Source: redrawn from the ACG 2024 ALD algorithm for alcohol-associated hepatitis (diagnosis half)*
+*[[acg-2024-ald|ACG 2024 Alcohol-Associated Liver Disease Guideline]]*
+*AH = alcohol-associated hepatitis · HE = hepatic encephalopathy · AST = aspartate aminotransferase · ALT = alanine aminotransferase · ULN = upper limit of normal · HCC = hepatocellular carcinoma · US = ultrasound · PVT = portal vein thrombosis · BCS = Budd-Chiari syndrome · DILI = drug-induced liver injury · IgM = immunoglobulin M · HAV = hepatitis A virus · HBc = hepatitis B core · HEV = hepatitis E virus · HBsAg = hepatitis B surface antigen · HCV = hepatitis C virus · Ab = antibody · RNA = ribonucleic acid · ANA = antinuclear antibody · ASMA = anti-smooth muscle antibody · IgG = immunoglobulin G · AMA = antimitochondrial antibody*
+
 ## Differential Diagnosis
 
 *Workup: see [[abnormal-liver-chemistries]].*
@@ -124,8 +139,26 @@ Three diagnostic certainty categories ([[aasld-2020-ald]]) — they determine wh
 
 ## Therapeutics
 
-![[ald-2024-aah-management-algorithm-12.png|700x475]]
-*Figure 1 — Algorithmic approach toward diagnosis and management of alcohol-associated hepatitis. ([[acg-2024-ald]])*
+```mermaid
+flowchart TD
+    A(["Alcohol-associated hepatitis,<br/>clinically diagnosed or biopsy proven"]) --> B["MELD"]
+    B -- "≤ 20" --> C(["Link to outpatient hepatology care<br/>Enroll in clinical trials"])
+    B -- "> 20, contraindications<br/>to steroids (MELD > 50)" --> D(["Consider IV NAC"])
+    B -- "> 20, contraindications<br/>to steroids (MELD > 50)" --> E(["Early liver transplant<br/>Palliative care (if MSOF)<br/>Clinical trials"])
+    B -- "> 20, no contraindication<br/>to steroids" --> F(["Methylprednisolone 32 mg or<br/>prednisolone 40 mg daily<br/>Consider IV NAC"])
+    F --> G["Lille score at day 4 or 7"]
+    G -- "> 0.45: nonresponder" --> H(["Discontinue steroids"])
+    H --> E
+    G -- "≤ 0.45: responder" --> I(["Continue steroids for 28 days"])
+    class A start
+    class B,G test
+    class D,F,H,I act
+    class C,E stop
+```
+*Management of alcohol-associated hepatitis by MELD and steroid response*
+*Source: redrawn from the ACG 2024 ALD algorithm for alcohol-associated hepatitis (management half)*
+*[[acg-2024-ald|ACG 2024 Alcohol-Associated Liver Disease Guideline]]*
+*MELD = Model for End-Stage Liver Disease · IV = intravenous · NAC = N-acetylcysteine · MSOF = multisystem organ failure*
 
 ### Severe AH (MELD >20)
 

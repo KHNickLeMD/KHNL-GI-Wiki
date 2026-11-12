@@ -3,7 +3,7 @@ title: "Functional Dyspepsia"
 category: disease-script
 tags: [functional-dyspepsia, dyspepsia, dgbi, stomach, foregut, rome-v, neuromodulators]
 created: 2026-10-18
-updated: 2026-11-05
+updated: 2026-11-12
 sources: [acg-cag-2017-dyspepsia, rome-v-2026-gastroduodenal-disorders, rome-v-2026-dgbi, aga-2021-chronic-gi-pain-dgbi, acg-2022-gastroparesis]
 ---
 
@@ -110,8 +110,27 @@ Neither guideline grades FD severity or stages it. The only severity qualifier i
 
 ### The Sequential Ladder
 
-![[dyspepsia-2017-functional-algorithm-09.png|700x394]]
-*Figure 1 — Algorithm for the treatment of functional dyspepsia. ([[acg-cag-2017-dyspepsia]])*
+```mermaid
+flowchart TD
+    A(["Functional dyspepsia patient"]) -- "H. pylori positive" --> B["H. pylori eradication"]
+    A -- "H. pylori negative" --> C["PPI"]
+    B -- "No response" --> C
+    C --> D["TCA"]
+    D -- "No response" --> E["Prokinetic"]
+    E -- "No response" --> F["Consider psychotherapy"]
+    B -- "Response" --> S(["Success"])
+    C -- "Response" --> S
+    D -- "Response" --> S
+    E -- "Response" --> S
+    F -- "Response" --> S
+    class A start
+    class B,C,D,E,F test
+    class S act
+```
+*Treatment of functional dyspepsia*
+*Source: redrawn from the ACG/CAG 2017 functional dyspepsia treatment algorithm*
+*[[acg-cag-2017-dyspepsia|ACG/CAG 2017 Dyspepsia Guideline]]*
+*H. pylori = Helicobacter pylori · PPI = proton pump inhibitor · TCA = tricyclic antidepressant*
 
 | # | ACG/CAG 2017 statement for FD | Grade as printed |
 |---|---|---|

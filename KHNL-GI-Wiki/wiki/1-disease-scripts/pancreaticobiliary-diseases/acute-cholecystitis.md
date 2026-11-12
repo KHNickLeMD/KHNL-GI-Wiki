@@ -3,7 +3,7 @@ title: "Acute Cholecystitis"
 category: disease-script
 tags: [acute-cholecystitis, gallbladder, cholecystectomy, eus-gbd, percutaneous-cholecystostomy, transpapillary-drainage, lams, high-surgical-risk]
 created: 2026-07-23
-updated: 2026-11-04
+updated: 2026-11-12
 sources: [tg18-2018-antimicrobial-therapy, aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver, tg18-2018-cholangitis-flowchart, tg18-2018-cholecystitis-criteria, tg18-2018-gallbladder-drainage]
 ---
 
@@ -219,7 +219,10 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 ### Choosing the drainage route
 
 ![[cholecystitis-2023-highrisk-drainage-algorithm-05.png|700x420]]
-*Figure 3 — Approach to cholecystitis in high-surgical-risk patients. ([[aga-2023-eus-gallbladder-drainage]])*
+*Gallbladder drainage for acute cholecystitis in a poor surgical candidate*
+*Source: figure 3 of AGA 2023 EUS-guided gallbladder drainage update, open access (CC BY-NC-ND 4.0)*
+*[[aga-2023-eus-gallbladder-drainage|AGA 2023 EUS-Guided Gallbladder Drainage]]*
+*GB = gallbladder · PT-GBD = percutaneous transhepatic gallbladder drainage · ETP-GBD = endoscopic transpapillary gallbladder drainage · EUS-GBD = endoscopic ultrasound–guided gallbladder drainage · ERCP = endoscopic retrograde cholangiopancreatography · GOO = gastric outlet obstruction · GI = gastrointestinal*
 
 - **Perforation suspected on imaging OR unable to tolerate sedation → PT-GBD.**
 - **No perforation AND tolerates sedation:**

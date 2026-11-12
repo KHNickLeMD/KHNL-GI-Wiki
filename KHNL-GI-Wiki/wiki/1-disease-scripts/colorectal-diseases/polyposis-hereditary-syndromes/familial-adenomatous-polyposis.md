@@ -3,7 +3,7 @@ title: "Familial Adenomatous Polyposis"
 category: disease-script
 tags: [fap, apc, afap, hereditary-crc, polyposis, duodenal-adenoma, desmoid, spigelman, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-11-07
+updated: 2026-11-12
 sources: [acg-2026-adenomatous-polyposis, acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
@@ -152,9 +152,7 @@ Familial adenomatous polyposis (FAP) is caused by a germline pathogenic variant 
 - **Polypoid mound** — a confluence of polyps, usually ≥2–3 cm in thickness and height
 - **White mucosal patch (WMP)** — a well-circumscribed area of pale mucosa overlying polyposis, >2–3 cm in size
 
-![[fap-2026-high-risk-gastric-lesions-12.png|780x315]]
-
-*Figure 5 — high-risk endoscopic gastric lesions. **White mucosal patch:** (a) high-definition white light, (b) narrow band imaging, (c) high-definition white light before endoscopic submucosal dissection, (d–f) endoscopic submucosal resection. **Polypoid mounds:** (g, h) high-definition white light, (i) narrow band imaging of pyloric gland adenoma, (j) high-definition white light of pyloric gland adenoma. **(k) Carpeting** of proximal polyposis. ([[acg-2026-adenomatous-polyposis]])*
+*See Figure 5 in [[acg-2026-adenomatous-polyposis|ACG 2026 Adenomatous Polyposis Guideline]] for example images: white mucosal patches (including endoscopic submucosal dissection), polypoid mounds with pyloric gland adenoma, and carpeting of proximal polyposis.*
 
 > [!pearl] Resect the five gastric lesion types, and report antral polyps separately
 > **Resect** all antral polyps, proximal polypoid mounds, polyps ≥10 mm, gastric adenomas, and white mucosal patches ([[acg-2026-adenomatous-polyposis]] Rec 12). **Accession antral polyps separately** from proximal gastric polyps — they are most often adenomas (KC 22). Lesions >20 mm are removed *en bloc* for the high risk of HGD and recurrence.

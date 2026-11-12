@@ -3,7 +3,7 @@ title: "Defecation Disorders (Dyssynergic Defecation)"
 category: disease-script
 tags: [defecation-disorder, dyssynergia, outlet-obstruction, biofeedback, anorectal-manometry, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-10-27
+updated: 2026-11-12
 sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-dgbi, aga-2017-surgical-device-fecal-incontinence, aga-2026-refractory-constipation, london-2020-anorectal-classification]
 ---
 
@@ -85,8 +85,27 @@ Severity based on symptom burden, laxative dependence, impact on quality of life
 
 ### Diagnostic Algorithm
 
-![[defecation-disorders-2021-evaluation-algorithm-07.png|700x471]]
-*Figure 1 — Evaluation of chronic constipation with suspected defecatory disorder. ([[acg-2021-anorectal-disorders]])*
+```mermaid
+flowchart TD
+    A(["Symptoms suggestive of<br/>dyssynergic defecation"]) --> B(["Optimize conservative management<br/>strategies, especially to<br/>normalize stool form"])
+    B -- "Good response" --> C(["Continue conservative<br/>management"])
+    B -- "Inadequate response" --> D["Anorectal manometry, rectal<br/>sensory test and balloon<br/>expulsion test"]
+    D -- "Dyssynergia" --> E(["Anorectal biofeedback"])
+    D -- "Not dyssynergia" --> F(["Manage symptoms - review compliance<br/>with therapy<br/>Consider assessing colonic transit<br/>to guide further management<br/>(eg, different medications or<br/>rarely total colectomy)"])
+    E -- "Success" --> G(["Continue conservative<br/>management"])
+    E -- "Failure" --> H["Barium or MR defecography"]
+    H -- "Normal" --> F
+    H -- "Structural abnormality" --> I(["Consider surgery"])
+    H -- "Dyssynergia, no<br/>structural abnormality" --> J(["Consider repeat<br/>biofeedback therapy"])
+    class A start
+    class D,H test
+    class B,E,F,I,J act
+    class C,G stop
+```
+*Evaluation of chronic constipation with symptoms of dyssynergic defecation*
+*Source: redrawn from the ACG 2021 benign anorectal disorders evaluation algorithm*
+*[[acg-2021-anorectal-disorders|ACG 2021 Benign Anorectal Disorders Guideline]]*
+*MR = magnetic resonance*
 
 ### Required Tests for Diagnosis
 

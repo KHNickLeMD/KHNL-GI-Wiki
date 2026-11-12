@@ -3,7 +3,7 @@ title: "Atrophic Gastritis"
 category: disease-script
 tags: [atrophic-gastritis, gastric-premalignant-conditions, h-pylori, autoimmune-gastritis, pernicious-anemia, correa-cascade, gastric-cancer, neuroendocrine-tumor]
 created: 2026-05-15
-updated: 2026-10-04
+updated: 2026-11-12
 sources: [aga-2021-atrophic-gastritis, acg-2025-gastric-premalignant]
 ---
 
@@ -105,8 +105,7 @@ AG severity and extent determine gastric cancer risk. Two validated staging syst
 - Open (O) types carry higher gastric cancer risk than limited (C-1–C-2) atrophy; **O2–O3 = severe/extensive atrophy → significantly higher risk**
 - Correlates well with OLGA for risk stratification, so it is a usable endoscopic surrogate where histologic staging is not reported
 
-![[atrophic-gastritis-2021-kimura-takemoto-sydney-13.png|700x658]]
-*AGA 2021 Supplementary Figure 2 — (A) C-2 type: atrophic border on the lesser curvature between incisura and cardia; (B) O-2 type: border beyond the cardia, midway between anterior and posterior walls; (C, D) Kimura-Takemoto zones (C1 antral, C2 antrum dominant, C3 corpus dominant, pan-atrophy) with the updated Sydney biopsy sites — 1, 2 antral lesser/greater curvature; 3 incisura; 4, 5 corpus lesser/greater curvature. ([[aga-2021-atrophic-gastritis]])*
+*See Supplementary Figure 2 in [[aga-2021-atrophic-gastritis|AGA 2021 Atrophic Gastritis Guideline]] for example images: C-2 and O-2 atrophic borders on endoscopy, and stomach diagrams of the Kimura-Takemoto zones with the five updated Sydney biopsy sites.*
 
 ### Classification / Typing
 
@@ -151,8 +150,7 @@ AG severity and extent determine gastric cancer risk. Two validated staging syst
 - HD-WLE with NBI (no magnification): sensitivity 87%, specificity 97% for IM; 92%/99% for dysplasia
 - Absent corpus rugal folds: sensitivity 67%, specificity 85% for moderate–severe corpus AG
 
-![[atrophic-gastritis-2021-endoscopic-appearance-05.png|700x568]]
-*AGA 2021 Figure 2 — (A) HD-WLE and (B) NBI of chronic AG: pale mucosa, loss of folds, visible submucosal vessels; (C–G) IM: mildly nodular on HD-WLE (C); light blue crest (white arrowhead) and white opaque field (yellow arrowhead) on magnifying NBI (D); IM in flat mucosa on nonmagnifying NBI (E), magnified without (F) and with NBI (G); (H, I) gastric NETs on HD-WLE and near-focus NBI. ([[aga-2021-atrophic-gastritis]])*
+*See Figure 2 in [[aga-2021-atrophic-gastritis|AGA 2021 Atrophic Gastritis Guideline]] for example images: chronic AG on HD-WLE and NBI, IM with the light blue crest and white opaque field signs, and gastric NETs.*
 
 **Technique:**
 
@@ -197,8 +195,25 @@ Minimum acceptable: 2 jars (antrum/incisura; body). Additional targeted biopsies
 
 ## Therapeutics
 
-![[atrophic-gastritis-2021-management-algorithm-07.png|700x366]]
-*Figure 3 — Algorithm for clinical management of atrophic gastritis. ([[aga-2021-atrophic-gastritis]])*
+| | Management of atrophic gastritis |
+|---|---|
+| **Endoscopic** | Obtain topographical biopsies to determine anatomic extent and histologic severity for risk stratification |
+| | Surveillance endoscopy should be considered in patients with:¹ advanced AG — every 3 years; AIG — interval based on individualized assessment |
+| | In patients with newly diagnosed PA, upper endoscopy should be considered for risk stratification and to evaluate for prevalent gastric neoplasia and NETs |
+| | Evaluate for NETs and manage accordingly |
+| **Non-endoscopic** | Test for H. pylori, treat if positive and confirm eradication |
+| | Evaluate for anemia |
+| | Evaluate for micronutrient deficiencies, such as iron and vitamin B-12 (irrespective of anemia) |
+| | In patients with AIG: screen for autoimmune thyroid disease; low threshold to evaluate other autoimmune diseases based on clinical presentation (e.g. type I diabetes) |
+| | Check PCA and IFA in patients with endoscopic/histologic findings consistent with AIG² |
+
+*Clinical management of atrophic gastritis*
+*Source: table from the AGA 2021 atrophic gastritis management algorithm*
+*[[aga-2021-atrophic-gastritis|AGA 2021 Atrophic Gastritis Guideline]]*
+*AG = atrophic gastritis · AIG = autoimmune gastritis · PA = pernicious anemia · NET = neuroendocrine tumor · PCA = parietal cell antibodies · IFA = intrinsic factor antibodies*
+
+¹ For AIG and advanced AG, surveillance should be based on shared decision-making and individual risk assessment. Advanced AG is defined based on (1) anatomic extent and (2) histological grade.  
+² Endoscopic findings include corpus-predominant pattern with antral sparing; histological findings include oxyntic mucosa atrophy with lymphoplasmacytic infiltrate.
 
 ### 1. H. Pylori Eradication (All AG Patients)
 

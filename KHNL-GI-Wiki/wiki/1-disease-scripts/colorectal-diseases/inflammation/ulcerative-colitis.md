@@ -3,7 +3,7 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-11-11
+updated: 2026-11-12
 sources: [asge-2025-ibd-endoscopy-consensus, asge-acg-2024-colonoscopy-quality-indicators, aga-2018-functional-gi-symptoms-ibd, acg-2025-uc, aga-2019-mild-moderate-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt, aga-2021-ibd-colorectal-dysplasia, ho-2004-severe-uc-risk-score]
 ---
 
@@ -231,8 +231,45 @@ Ulcerative colitis (UC): idiopathic chronic [[inflammatory-bowel-disease|inflamm
 
 ### Acute Severe UC (ASUC) — Hospitalized Patient
 
-![[uc-2025-asuc-algorithm-29.png|700x998]]
-*Figure 3 — Algorithm for the management of hospitalized patients with acute severe UC. ([[acg-2025-uc]])*
+```mermaid
+flowchart TD
+    A(["Severe UC requiring hospital admission<br/>Modified ASUC criteria: ≥6 bowel movements<br/>along with ≥1 of: tachycardia, fever,<br/>hemoglobin <10.5 g/dL, CRP >5 mg/dL"]) --> B["Day 0 baseline investigations:<br/>Stool microbiology including C. difficile<br/>Assess for toxic megacolon<br/>Venous thromboembolism prophylaxis<br/>Endoscopy to rule out CMV colitis<br/>(preferably within 24 hours)<br/>Surgical consultation<br/>Withhold 5-ASA (paradoxical<br/>increase in diarrhea)"]
+    B -- "CDI or CMV positive" --> C(["Treat CDI or CMV colitis<br/>Do not hold other therapies"])
+    C -- "CDI" --> D(["Fidaxomicin (200 mg BID 10–14 days)<br/>or vancomycin (125 mg QID 10–14 days)"])
+    C -- "CMV colitis,<br/>not systemic" --> E(["Valacyclovir"])
+    C -- "CMV colitis: serum positive<br/>and diffuse inclusion bodies" --> F(["Ganciclovir"])
+    B -- "CDI and CMV negative" --> G(["Commence IV steroids without delay:<br/>IV corticosteroid (no more than 60 mg of<br/>methylprednisolone per day or hydrocortisone<br/>100 mg 3–4 times per day) for 3–5 days<br/>Assess symptoms and CRP daily"])
+    class A start
+    class B test
+    class C,D,E,F,G act
+```
+*Acute severe UC on admission (day 0): infection screen and IV steroids*
+*Source: redrawn from the ACG 2025 ulcerative colitis guideline hospitalized acute severe UC algorithm (day 0 panel)*
+*[[acg-2025-uc|ACG 2025 Ulcerative Colitis Guideline]]*
+*UC = ulcerative colitis · ASUC = acute severe ulcerative colitis · CRP = C-reactive protein · CMV = cytomegalovirus · CDI = Clostridioides difficile infection · 5-ASA = 5-aminosalicylic acid · BID = twice daily · QID = 4 times a day · IV = intravenous*
+
+```mermaid
+flowchart TD
+    S(["Day 3 of IV corticosteroids"]) -- "<4 bowel movements daily<br/>for 2 days and no rectal bleeding" --> T(["Transition to 40 mg oral prednisone<br/>Treat as outpatient"])
+    S -- "No clinical response" --> U(["Initiate therapy with IV cyclosporine or infliximab<br/>Surgical consultation<br/>Daily abdominal exam<br/>Daily symptom assessment<br/>Daily CRP"])
+    U --> V(["IV cyclosporine (2–4 mg/kg)"])
+    U --> W(["Infliximab (5 mg/kg) or (10 mg/kg)<br/>If low serum albumin,<br/>consider increase infliximab"])
+    U -.-> X(["Tofacitinib or upadacitinib"])
+    V --> R["Day 6 response:<br/><4 bowel movements daily for<br/>2 days and no rectal bleeding"]
+    W --> R
+    X -.-> R
+    R -- "After cyclosporine" --> M1(["Maintenance with thiopurines,<br/>vedolizumab, or others"])
+    R -- "After infliximab" --> M2(["Maintenance with infliximab"])
+    R -. "After tofacitinib<br/>or upadacitinib" .-> M3(["Maintenance with<br/>tofacitinib or upadacitinib"])
+    Y["No response to cyclosporine, infliximab,<br/>tofacitinib, upadacitinib<br/>OR toxic megacolon, colonic perforation,<br/>severe refractory hemorrhage"] --> Z(["Surgery"])
+    class S start
+    class R,Y test
+    class T,U,V,W,X,M1,M2,M3,Z act
+```
+*Acute severe UC from day 3: steroid response, rescue therapy and surgery*
+*Source: redrawn from the ACG 2025 ulcerative colitis guideline hospitalized acute severe UC algorithm (day 3 and day 6 panels)*
+*[[acg-2025-uc|ACG 2025 Ulcerative Colitis Guideline]]*
+*UC = ulcerative colitis · IV = intravenous · CRP = C-reactive protein*
 
 *Cross-IBD inpatient care (VTE prophylaxis, discharge criteria): [[inflammatory-bowel-disease]]. Dilation/toxicity: [[toxic-megacolon]].*
 

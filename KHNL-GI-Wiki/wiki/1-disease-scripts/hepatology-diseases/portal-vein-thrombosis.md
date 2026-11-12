@@ -3,7 +3,7 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-10-31
+updated: 2026-11-12
 sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
 ---
 
@@ -156,8 +156,30 @@ Two further definitional changes from Baveno VII: a **cavernoma** is now defined
 
 **American College of Gastroenterology (ACG) 2020 algorithm** [[acg-2020-hepatic-mesenteric-circulation]]:
 
-![[pvt-2020-management-algorithm-13.png|700x430]]
-*Figure 1 — Approach to management of PVT, with and without cirrhosis. TP = thrombophilia; MV = mesenteric vein; EVL = endoscopic variceal ligation; NSBB = nonselective beta-blockers. \*No anticoagulation for acute partial thrombosis except in liver transplant–listed candidates. \*\*Duration 3–6 months if a discrete precipitant; indefinite if thrombophilia or transplant-listed. ([[acg-2020-hepatic-mesenteric-circulation]])*
+```mermaid
+flowchart TD
+    A(["Portal vein thrombosis"]) --> NC["Without cirrhosis"]
+    A --> WC["With cirrhosis"]
+    NC -- "Acute" --> AC(["Initiate anticoagulation regimen<br/>Duration: 3–6 months if discrete<br/>precipitant · indefinite if thrombophilia<br/>or listed for liver transplantation"])
+    NC -- "Chronic" --> CH["Chronic"]
+    WC -- "Bland, chronic" --> CH
+    WC -- "Bland, acute: complete" --> AC
+    WC -- "Bland, acute: partial" --> P(["No anticoagulation, except<br/>liver transplant–listed candidates"])
+    WC -- "Tumor" --> TU(["Tumor"])
+    CH -- "Bowel ischemia" --> AC
+    CH -- "Bowel ischemia, thrombus<br/>progression, MV extension, or TP" --> E["EGD"]
+    E -- "Large varices" --> V(["NSBB or EVL"])
+    V --> AC
+    E -- "No or small varices" --> AC
+    class A start
+    class NC,WC,CH,E test
+    class AC,V act
+    class P,TU stop
+```
+*Management of portal vein thrombosis with and without cirrhosis*
+*Source: redrawn from the ACG 2020 hepatic and mesenteric circulation guideline approach to management of portal vein thrombosis*
+*[[acg-2020-hepatic-mesenteric-circulation|ACG 2020 Hepatic and Mesenteric Circulation Guideline]]*
+*MV = mesenteric vein · TP = thrombophilia · EGD = esophagogastroduodenoscopy · NSBB = nonselective beta-blockers · EVL = endoscopic variceal ligation*
 
 **Anticoagulate every noncirrhotic patient with acute (symptomatic recent) PVT or MVT** absent contraindication — anticoagulation, not thrombolysis, first (Strong, Low evidence) [[acg-2020-hepatic-mesenteric-circulation]]. Recent PVT **rarely resolves spontaneously** and recanalisation correlates with early start, so give **therapeutic-dose anticoagulation immediately at diagnosis** ([[baveno-viii-2026-portal-hypertension|Baveno VIII]] 9.6).
 
@@ -227,7 +249,7 @@ flowchart TD
 
 **ACG 2020 indications, where they add detail** [[acg-2020-hepatic-mesenteric-circulation]]:
 
-- **Acute complete main PVT, MVT, or mesenteric extension** → anticoagulate, weighing bleeding risk (e.g. platelets <50,000/µL, or [[hepatic-encephalopathy|hepatic encephalopathy]] with fall risk) (Strong, Low evidence). **Acute partial PVT:** no anticoagulation except in liver transplant–listed candidates (Figure 1)
+- **Acute complete main PVT, MVT, or mesenteric extension** → anticoagulate, weighing bleeding risk (e.g. platelets <50,000/µL, or [[hepatic-encephalopathy|hepatic encephalopathy]] with fall risk) (Strong, Low evidence). **Acute partial PVT:** no anticoagulation except in liver transplant–listed candidates (ACG algorithm under [[#Noncirrhotic Recent PVT/MVT]])
 - **Duration** for acute PVT/MVT without inherited thrombophilia: **6 months**, continuing beyond that while on the waiting list (Conditional, Very Low evidence)
 - **Chronic PVT in cirrhosis:** anticoagulate **only** for inherited thrombophilia, thrombus progression, or prior bowel ischemia from mesenteric extension; also reasonable while awaiting transplant (Conditional, Very Low evidence)
 - **Initial agent:** unfractionated heparin with renal insufficiency, LMWH with thrombocytopenia (Conditional, Very Low evidence)

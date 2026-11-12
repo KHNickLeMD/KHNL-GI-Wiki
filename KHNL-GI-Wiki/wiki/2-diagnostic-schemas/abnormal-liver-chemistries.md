@@ -3,7 +3,7 @@ title: "Abnormal Liver Chemistries"
 category: diagnostic-schema
 tags: [liver-chemistries, liver-tests, alt, ast, alkaline-phosphatase, bilirubin, hepatocellular, cholestatic, r-value, hpb, liver, workup]
 created: 2026-05-19
-updated: 2026-11-09
+updated: 2026-11-12
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aga-aasld-easl-2026-aatd-liver-disease]
 ---
 
@@ -142,38 +142,53 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 
 ### Step 3 — AST/ALT Elevation Algorithm (Tiered by Magnitude)
 
-![[liver-chemistries-2017-ast-alt-algorithm-10.png|700x498]]
-*Figure 1 — Algorithm for evaluation of AST/ALT elevation (borderline and mild). ([[acg-2017-liver-chemistries]])*
+**Borderline (<2× ULN) and mild (2–5× ULN) elevation:**
 
-![[liver-chemistries-2017-ast-moderate-elevation-11.png|700x1082]]
-*Figure 2 — Evaluation of moderate elevation of AST (5–15× ULN). ([[acg-2017-liver-chemistries]])*
+```mermaid
+flowchart TD
+    B0(["Borderline elevation<br/>< 2× ULN"]) --> H["History and physical exam<br/>Discontinue hepatotoxic meds<br/>Discontinue alcohol consumption<br/>Assess for risk factors for<br/>fatty liver and viral hepatitis"]
+    M0(["Mild elevation<br/>2–5× ULN"]) --> H
+    H --> L["CBC/platelet count, AST/ALT, Alk Phos,<br/>TB, albumin, PT/INR<br/>HBsAg, HBcAb, HBsAb, HCV Ab with<br/>PCR confirmation if +, iron panel<br/>Abdominal ultrasound"]
+    L -- "Borderline: if negative" --> OB(["Consider observation for 3–6 months<br/>with repeat AST/ALT, Alk Phos, TB"])
+    L -- "Mild: if negative" --> OM(["Consider observation for 3 months<br/>with repeat AST/ALT, Alk Phos, TB<br/>or continue investigation"])
+    OB -- "Persistently elevated" --> P["Continue investigation: ANA, ASMA,<br/>gamma-globulin, ceruloplasmin,<br/>alpha-1 antitrypsin phenotype · may<br/>consider additional tests based on<br/>history (e.g. celiac sprue, tick-borne<br/>disease, thyroid disease, muscle disorders)"]
+    OM -- "Persistently elevated" --> P
+    P -- "Borderline: if normal" --> NB(["Further testing at discretion of<br/>clinician or refer to hepatologist for<br/>consideration of liver biopsy"])
+    P -- "Mild: if no diagnosis" --> BX(["Consider diagnostic liver biopsy"])
+    class B0,M0 start
+    class H,L,P test
+    class OB,OM act
+    class NB,BX stop
+```
+*Evaluation of borderline and mild AST/ALT elevation*
+*Source: redrawn from the ACG 2017 abnormal liver chemistries algorithm for evaluation of AST and/or ALT*
+*[[acg-2017-liver-chemistries|ACG 2017 Abnormal Liver Chemistries Guideline]]*
+*ULN = upper limit of normal · CBC = complete blood count · AST = aspartate aminotransferase · ALT = alanine aminotransferase · Alk Phos = alkaline phosphatase · TB = total bilirubin · PT/INR = prothrombin time/international normalized ratio · HBsAg = hepatitis B surface antigen · HBcAb = hepatitis B core antibody · HBsAb = hepatitis B surface antibody · HCV = hepatitis C virus · Ab = antibody · PCR = polymerase chain reaction · ANA = antinuclear antibody · ASMA = anti-smooth muscle antibody*
 
-**Tier 1 — Borderline elevation (<2× ULN):**
+**Moderate elevation (5–15× ULN):**
 
-1. History and physical exam (PE); discontinue hepatotoxic medications and alcohol; assess for fatty liver and viral hepatitis risk factors
-2. Initial labs: complete blood count (CBC)/platelet count, AST/ALT, Alk Phos, total bilirubin, albumin, PT/INR, hepatitis B surface antigen (HBsAg), hepatitis B core antibody (HBcAb), hepatitis B surface antibody (HBsAb), HCV antibody (Ab) (with polymerase chain reaction [PCR] confirmation if positive), iron panel, abdominal ultrasound
-3. If negative: observe 3–6 months with repeat testing
-4. If persistently elevated: add antinuclear antibody (ANA), anti-smooth muscle antibody (ASMA/SMA), gamma-globulin, ceruloplasmin, alpha-1 antitrypsin phenotype ± celiac serology, tick-borne disease screen, thyroid disease, muscle disorders
-5. If normal on full workup: further testing at clinician discretion or hepatology referral for [[liver-biopsy|liver biopsy]] consideration
+```mermaid
+flowchart TD
+    A(["Moderate elevation<br/>5–15× ULN"]) --> B["History and physical exam<br/>Discontinue hepatotoxic meds and alcohol<br/>Evaluate for signs of acute liver failure"]
+    B --> C["CBC/platelet count, AST/ALT, Alk Phos, TB,<br/>albumin, PT/INR, HAV IgM, HAV IgG, HBsAg,<br/>HBcAb IgM, HBcAb IgG, HBsAb, HCV Ab with<br/>PCR confirmation if +, iron panel,<br/>ceruloplasmin, ANA, SMA, gamma-globulin<br/>Abdominal ultrasound"]
+    C -- "Signs of acute liver failure" --> D(["Urgent liver consultation with<br/>consideration of referral to a<br/>liver transplant center"])
+    C -- "Diagnostic evaluation negative" --> E(["Consideration for diagnostic<br/>liver biopsy if medically stable"])
+    class A start
+    class B,C test
+    class D,E act
+```
+*Evaluation of moderate AST/ALT elevation*
+*Source: redrawn from the ACG 2017 abnormal liver chemistries algorithm for moderate AST and/or ALT elevation*
+*[[acg-2017-liver-chemistries|ACG 2017 Abnormal Liver Chemistries Guideline]]*
+*ULN = upper limit of normal · CBC = complete blood count · AST = aspartate aminotransferase · ALT = alanine aminotransferase · Alk Phos = alkaline phosphatase · TB = total bilirubin · PT/INR = prothrombin time/international normalized ratio · HAV = hepatitis A virus · IgM = immunoglobulin M · IgG = immunoglobulin G · HBsAg = hepatitis B surface antigen · HBcAb = hepatitis B core antibody · HBsAb = hepatitis B surface antibody · HCV = hepatitis C virus · Ab = antibody · PCR = polymerase chain reaction · ANA = antinuclear antibody · SMA = smooth muscle antibody*
 
-**Tier 2 — Mild elevation (2–5× ULN):**
-
-1. Same initial evaluation as borderline
-2. If negative: observe 3 months with repeat or continue investigation
-3. If persistently elevated: same expanded panel as above + consider diagnostic liver biopsy if no diagnosis
-
-**Tier 3 — Moderate elevation (5–15× ULN):**
-
-1. History and PE; discontinue hepatotoxic meds and alcohol; evaluate for signs of [[acute-liver-failure|acute liver failure (ALF)]]
-2. Labs: CBC/platelet count, AST/ALT, Alk Phos, total bilirubin, albumin, PT/INR, hepatitis A virus (HAV) immunoglobulin M (IgM), HAV immunoglobulin G (IgG), HBsAg, HBcAb IgM, HBsAb, HCV Ab with PCR, iron panel, ceruloplasmin, ANA, SMA, gamma-globulin; abdominal ultrasound
-3. If signs of acute liver failure → **urgent liver consultation with consideration of [[liver-transplantation|transplant center]] referral**
-4. If diagnostic evaluation negative and medically stable → consider diagnostic liver biopsy
+Related pages: [[acute-liver-failure|acute liver failure (ALF)]], [[liver-transplantation|liver transplant referral]], [[liver-biopsy|liver biopsy]].
 
 **Tier 4 — Severe elevation (>15× ULN):**
 
 1. Same as moderate; additionally add: herpes simplex virus (HSV), Epstein-Barr virus (EBV), cytomegalovirus (CMV), anti-liver-kidney microsomal antibody (anti-LKM), urine toxicology panel, Doppler abdominal ultrasound
 2. Consider N-acetylcysteine if any evidence of acetaminophen ingestion
-3. If signs of ALF → urgent consultation + transplant center referral
+3. If signs of acute liver failure (ALF) → urgent consultation + transplant center referral
 
 **Tier 5 — Massive elevation (>10,000 IU/l):**
 
@@ -187,9 +202,9 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 
 **Scenario A — Normal total bilirubin and transaminases (isolated alkaline phosphatase elevation):**
 
-1. History and PE; confirm hepatic origin with **serum GGT or alkaline phosphatase fractionation** (alkaline phosphatase also arises from bone, placenta, intestine, kidney)
+1. History and physical exam (PE); confirm hepatic origin with **serum GGT or alkaline phosphatase fractionation** (alkaline phosphatase also arises from bone, placenta, intestine, kidney)
 2. If GGT normal → evaluate for non-hepatobiliary etiologies (bone, intestinal)
-3. If GGT elevated → obtain right upper quadrant (RUQ) ultrasound; evaluate for hepatotoxic medications; check anti-mitochondrial antibody (AMA), ANA, SMA
+3. If GGT elevated → obtain right upper quadrant (RUQ) ultrasound; evaluate for hepatotoxic medications; check anti-mitochondrial antibody (AMA), antinuclear antibody (ANA), smooth muscle antibody (SMA)
 4. If ductal dilatation → [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] or [[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]]; if AMA positive → evaluate for PBC
 5. If evaluation negative and Alk Phos >2× ULN → consider liver biopsy; if 1–2× ULN → observation; if persistent after 6 months → consider liver biopsy
 
@@ -232,21 +247,21 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 
 ### Initial Metabolic/Serologic Panel
 
-- **CBC with platelet count** — thrombocytopenia suggests [[portal-hypertension|portal hypertension]]/chronic liver disease
+- **Complete blood count (CBC) with platelet count** — thrombocytopenia suggests [[portal-hypertension|portal hypertension]]/chronic liver disease
 - **AST, ALT, alkaline phosphatase, total bilirubin, albumin, PT/INR** — establish pattern and synthetic function
-- **HBsAg, anti-HBc (total or IgM), anti-HBs** — [[chronic-hepatitis-b|hepatitis B]] status
+- **Hepatitis B surface antigen (HBsAg), anti-HBc (total or immunoglobulin M [IgM]), anti-HBs** — [[chronic-hepatitis-b|hepatitis B]] status
 - **Anti-HCV ± HCV RNA** — [[hepatitis-c|hepatitis C]]; anti-HCV **sensitivity 92–97%**, so HCV RNA is required to confirm chronic infection if the antibody is positive, and also when suspicion is high with a negative antibody (acute HCV = anti-HCV + HCV RNA)
 - **[[iron-overload-and-iron-metabolism|Iron panel]]** — transferrin saturation ≥45% or elevated ferritin → HFE mutation analysis for [[hereditary-hemochromatosis|hereditary hemochromatosis]]
 - **Abdominal ultrasound** — hepatic parenchyma, biliary dilatation, portal hypertension stigmata
 
 ### Expanded Evaluation (if initial panel negative/persists)
 
-- **ANA, ASMA, IgG** → [[autoimmune-hepatitis|autoimmune hepatitis]]
+- **ANA, anti-smooth muscle antibody (ASMA), immunoglobulin G (IgG)** → [[autoimmune-hepatitis|autoimmune hepatitis]]
 - **AMA** → [[primary-biliary-cholangitis|primary biliary cholangitis]] (positive in >95%)
 - **Serum ceruloplasmin** → Wilson's disease (especially age <55; if low → 24-hour urine copper, slit-lamp examination for Kayser-Fleischer rings)
 - **Serum alpha-1 antitrypsin (AAT) level**, then genotype → [[alpha-1-antitrypsin-deficiency-liver-disease|alpha-1 antitrypsin deficiency–associated liver disease]]. **<11 μM (<57 mg/dL)** = at risk for severe deficiency, likely ZZ; **11–20 μM (57–90 mg/dL)** mild/intermediate; **>20 μM (>90 mg/dL)** minimal risk. Confirm with **genotyping (preferred)** or phenotyping by isoelectric focusing — PiZZ severe, PiMZ intermediate risk. AAT is an **acute-phase reactant**, so draw it when CRP is normal; a PiMZ patient may have a normal level ([[aga-aasld-easl-2026-aatd-liver-disease]])
-- **HAV IgM, hepatitis E virus (HEV) IgM** → acute viral hepatitis (HAV: fecal-oral, travel; HEV: travel to endemic areas — Central America, Asia)
-- **HBcAb IgM** → acute hepatitis B
+- **Hepatitis A virus (HAV) IgM, hepatitis E virus (HEV) IgM** → acute viral hepatitis (HAV: fecal-oral, travel; HEV: travel to endemic areas — Central America, Asia)
+- **Hepatitis B core antibody (HBcAb) IgM** → acute hepatitis B
 - **Ceruloplasmin, 24-hour urine copper, slit-lamp exam** → Wilson's disease (confirmatory)
 - **HFE gene mutation (C282Y, H63D)** → hereditary hemochromatosis
 - **Serum creatine kinase/aldolase** → muscle disease (if AST disproportionately elevated vs. ALT)

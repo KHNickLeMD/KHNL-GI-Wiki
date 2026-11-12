@@ -3,7 +3,7 @@ title: "Fecal Immunochemical Test (FIT)"
 category: concept
 tags: [fit, crc-screening, colorectal-cancer, stool-test, screening, quality-indicators]
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-12
 sources: [usmstf-2016-fit-screening, acg-2021-crc-screening]
 ---
 
@@ -123,8 +123,29 @@ American College of Gastroenterology (ACG) 2021 recommends **[[colonoscopy]] and
 
 **ADR on follow-up colonoscopy after a positive FIT** is a distinct benchmark from the screening-colonoscopy ADR, and lives with the other detection targets on [[colonoscopy-quality-indicators]].
 
-![[fit-2016-program-quality-process-flow-50.png|600x662]]
-*Figure 1 — Key steps in a FIT-based program and the quality measure at each step; FIT-negative and non-completers re-enter the recall queue for 1 year later. ([[usmstf-2016-fit-screening]])*
+```mermaid
+flowchart TD
+    A(["Offer FIT"]) --> B["FIT completed?<br/>Measures: percent uptake initial screen ·<br/>percent uptake subsequent screen<br/>(for FIT negative)"]
+    B -- "Yes" --> C(["FIT received by lab"])
+    B -- "No" --> Q(["Place in queue for recall"])
+    C --> D["Sample ok?<br/>Measures: percent unacceptable tests ·<br/>median kit return time from deposit"]
+    D -- "No" --> A
+    D -- "Yes" --> E(["Test and result FIT"])
+    E --> F["FIT positive?<br/>Measure: FIT positivity rate"]
+    F -- "No" --> Q
+    Q -. "Recall 1 year later if<br/>appropriate for screening" .-> A
+    F -- "Yes" --> G["Patient appropriate<br/>for colonoscopy?"]
+    G -- "No" --> H(["Colonoscopy when appropriate<br/>or no further screening"])
+    G -- "Yes" --> I(["Complete colonoscopy<br/>Measures: percent colonoscopy completion ·<br/>PPV for cancer or adenoma"])
+    class A start
+    class B,D,F,G test
+    class C,E,Q,I act
+    class H stop
+```
+*Key processes in a FIT-based program and the quality measure at each step*
+*Source: redrawn from the USMSTF 2016 FIT process-flow figure*
+*[[usmstf-2016-fit-screening|USMSTF 2016 FIT Screening]]*
+*FIT = fecal immunochemical test · PPV = positive predictive value*
 
 ## Relation to the 2021 Guidelines
 

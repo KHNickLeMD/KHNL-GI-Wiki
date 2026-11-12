@@ -3,7 +3,7 @@ title: "Laryngopharyngeal Symptoms (LPS) and Laryngopharyngeal Reflux Disease (L
 category: diagnostic-schema
 tags: [lpr, lprd, laryngopharyngeal-reflux, gerd, extraesophageal-reflux, cough, dysphonia, throat-clearing, ph-impedance, foregut]
 created: 2026-05-15
-updated: 2026-10-04
+updated: 2026-11-12
 sources: [san-diego-2025-lprd, aga-2023-extraesophageal-gerd]
 ---
 
@@ -68,14 +68,38 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 
 **Bifurcation point:** The algorithm differs based on whether heartburn, regurgitation, or esophageal chest pain are present alongside LPS.
 
-![[lprd-2025-lps-algorithm-33.png|800x521]]
-*Figure 1 — San Diego Consensus algorithm for LPS. Left: LPS with esophageal symptoms → lifestyle + empiric trial (proton pump inhibitor twice daily ± alginate × 3 months), then triage by response. Right: isolated LPS → consider laryngeal hyperresponsiveness/hypervigilance; objective esophageal testing before any anti-reflux therapy. Dashed arrow: disordered laryngeal behavior can coexist with objective reflux disease/LPRD. ([[san-diego-2025-lprd]])*
+```mermaid
+flowchart TD
+    A(["Patients with LPS"]) --> N(["Consider non-GI causes<br/>of symptoms"])
+    N --> L["Laryngoscopy: NOT diagnostic of LPRD,<br/>evaluates for non-reflux related<br/>causes of LPS"]
+    L --> Q["Esophageal symptoms (heartburn,<br/>regurgitation, chest pain) present?"]
+    Q -- "LPS and esophageal symptoms" --> T(["Personalized lifestyle and<br/>empiric treatment trials:<br/>PPI BID ± alginate × 3 months"])
+    Q -- "Isolated LPS" --> H["Consider role of laryngeal<br/>hyper-responsiveness<br/>and hypervigilance"]
+    T -- "Esophageal symptom<br/>+ LPS response" --> LP(["Likely LPRD<br/>Continue management"])
+    T -- "Isolated esophageal<br/>symptom response" --> GO(["Likely GERD overlap<br/>Continue management"])
+    T -- "Partial or no<br/>symptom response" --> O["Objective esophageal testing"]
+    LP -- "Prior to invasive anti-reflux therapy<br/>(consider if long-term<br/>management planned)" --> O
+    GO -- "Prior to invasive anti-reflux therapy<br/>(consider if long-term<br/>management planned)" --> O
+    GO --> H
+    H -- "Prior to any<br/>anti-reflux therapy" --> O
+    H --> S(["SLP behavioral therapy (LRT),<br/>neuromodulation, and/or<br/>cognitive behavioral therapy"])
+    O -.-> H
+    class A start
+    class L,Q,H,O test
+    class N,T,LP,GO,S act
+```
+*San Diego Consensus approach to laryngopharyngeal symptoms*
+*Source: redrawn from the San Diego Consensus 2025 LPS/LPRD algorithm*
+*[[san-diego-2025-lprd|San Diego Consensus 2025 (LPS/LPRD)]]*
+*LPS = laryngopharyngeal symptoms · GI = gastrointestinal · LPRD = laryngopharyngeal reflux disease · PPI = proton pump inhibitor · BID = twice daily · GERD = gastroesophageal reflux disease · SLP = speech-language pathology · LRT = laryngeal recalibration therapy*
+
+- Dashed arrow: disordered laryngeal behaviors can coexist with objective GERD/LPRD and drive symptoms ([[san-diego-2025-lprd]])
 
 #### Branch A: LPS + Concurrent Esophageal Reflux Symptoms
 
 1. **Empiric trial:** unit/standard-dose [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] (e.g. omeprazole 20 mg) up to **twice daily × 3 months** ± alginate (four times daily: after meals + bedtime) + dietary and lifestyle modification
    - Lifestyle: weight loss and avoiding tight abdominal clothing (↓ intragastric pressure); upright posture / no recumbency 2–3h post-meals and diaphragmatic breathing (↓ post-prandial reflux); head-of-bed elevation and left lateral sleep (nocturnal reflux); avoid trigger foods
-2. **Assess response at 3 months** (Figure 1):
+2. **Assess response at 3 months** (flowchart above):
    - Esophageal symptoms **and** LPS respond → likely LPRD; continue management
    - Only esophageal symptoms respond (LPS persist) → likely [[gerd|gastroesophageal reflux disease (GERD)]] overlap; continue management **and** consider laryngeal hyperresponsiveness/hypervigilance
    - Partial or no response → objective esophageal testing ([[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] + [[ambulatory-reflux-monitoring|ambulatory reflux monitoring]]) and consider disordered laryngeal behavior

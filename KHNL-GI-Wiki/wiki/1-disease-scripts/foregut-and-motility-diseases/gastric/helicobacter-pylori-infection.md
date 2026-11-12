@@ -3,7 +3,7 @@ title: "Helicobacter pylori Infection"
 category: disease-script
 tags: [h-pylori, peptic-ulcer, gastric-cancer, malt-lymphoma, eradication, dyspepsia, gastric, foregut]
 created: 2026-05-07
-updated: 2026-09-08
+updated: 2026-11-12
 sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab, aga-2021-refractory-h-pylori]
 ---
 
@@ -142,8 +142,19 @@ Endoscopic sampling is what enables **antibiotic susceptibility testing**, which
 
 ### First-Line Eradication Regimens
 
-![[hpylori-2024-first-line-regimens-09.png|700x493]]
-*Figure 1 — Empiric first-line regimens for treatment-naive patients with H. pylori infection (without antibiotic susceptibility testing). ([[acg-2024-hp-treatment]])*
+```mermaid
+flowchart TD
+    A(["Treatment-naive patient with H. pylori<br/>infection, without antibiotic<br/>susceptibility testing"]) -- "No penicillin allergy" --> B(["Optimized BQT*<br/>Rifabutin triple<br/>PCAB dual<br/>PCAB-clarithromycin triple**"])
+    A -- "Penicillin allergy***" --> C(["Optimized BQT*"])
+    class A start
+    class B,C act
+```
+*Empiric first-line regimens for treatment-naive H. pylori infection*
+*Source: redrawn from the ACG 2024 H. pylori treatment first-line regimens figure*
+*[[acg-2024-hp-treatment|ACG 2024 H. pylori Treatment Guideline]]*
+*BQT = bismuth quadruple therapy · PCAB = potassium-competitive acid blocker*
+
+\* Includes appropriately dosed PPI, bismuth, nitroimidazole, and tetracycline (not doxycycline) · \*\* Avoid in those with previous macrolide exposure · \*\*\* May require formal allergy testing
 
 **All first-line regimens are given for 14 days** (ACG 2024 Table 5). Doses and frequencies are as published — the frequency column is the decision, since three of these regimens are t.i.d. or q.i.d., not b.i.d.:
 
@@ -246,8 +257,24 @@ Endoscopic sampling is what enables **antibiotic susceptibility testing**, which
 
 ### Salvage Therapy (After First-Line Failure)
 
-![[hpylori-2024-salvage-regimens-15.png|700x402]]
-*Figure 3 — Empiric salvage regimens for treatment-experienced patients with persistent H. pylori infection (without antibiotic susceptibility testing). ([[acg-2024-hp-treatment]])*
+```mermaid
+flowchart TD
+    A(["Treatment-experienced patient with<br/>persistent H. pylori infection, without<br/>antibiotic susceptibility testing"]) --> B["Previous PPI-clarithromycin triple"]
+    A --> C["Previous nonoptimized BQT"]
+    B -- "No penicillin allergy" --> D(["Optimized BQT*<br/>Rifabutin triple<br/>High-dose PPI or PCAB dual?**"])
+    B -- "Penicillin allergy***" --> E(["Optimized BQT*"])
+    C -- "No penicillin allergy" --> F(["Optimized BQT*<br/>Rifabutin triple<br/>High-dose PPI or PCAB dual?**"])
+    C -- "Penicillin allergy***" --> G(["Optimized BQT*"])
+    class A start
+    class B,C test
+    class D,E,F,G act
+```
+*Empiric salvage regimens for persistent H. pylori infection*
+*Source: redrawn from the ACG 2024 H. pylori treatment salvage regimens figure*
+*[[acg-2024-hp-treatment|ACG 2024 H. pylori Treatment Guideline]]*
+*PPI = proton pump inhibitor · BQT = bismuth quadruple therapy · PCAB = potassium-competitive acid blocker*
+
+Lists of treatments present appropriate options, **not** a treatment hierarchy. \* Includes appropriately dosed PPI, bismuth, nitroimidazole, and tetracycline (not doxycycline) · \*\* Consider only when optimized BQT or rifabutin triple therapy is not an option and antibiotic susceptibility testing is unavailable · \*\*\* May require formal allergy testing
 
 **Which salvage regimen — driven by what the patient has already had** (ACG 2024 Recs 6–10; all Conditional):
 

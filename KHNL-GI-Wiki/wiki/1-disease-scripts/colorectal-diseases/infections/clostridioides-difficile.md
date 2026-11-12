@@ -3,7 +3,7 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-10-31
+updated: 2026-11-12
 sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff, idsa-2017-infectious-diarrhea, vowst-2025-live-brpk-label]
 ---
 
@@ -99,8 +99,22 @@ sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ib
 - **Endoscopy/imaging:** pseudomembranes on colonoscopy are diagnostic and predict severe disease (IBD: mucopurulent exudate instead); computed tomography (CT) abdomen/pelvis in fulminant disease for colitis severity, megacolon, perforation; colonic biopsy (microscopic colitis, IBD) when CDI tests are negative/discordant.
 - **Labs:** complete blood count (WBC), creatinine, albumin if hospitalized; lactate if fulminant suspected.
 
-![[cdiff-2021-testing-algorithm-07.png|700x976]]
-*Figure 1 — Proposed CDI testing algorithm (two-step: GDH or NAAT → Toxin EIA). ([[acg-2021-cdiff]])*
+```mermaid
+flowchart TD
+    A(["Patient with suspected CDI"]) --> B["Highly sensitive test first:<br/>GDH or NAAT"]
+    B -- "Negative" --> C(["Not CDI"])
+    B -- "Positive" --> D["More specific test:<br/>toxin EIA"]
+    D -- "Positive" --> E(["CDI"])
+    D -- "Negative: not CDI / colonized,<br/>false-negative toxin EIA, or toxin<br/>below the detection threshold" --> F(["Consider other causes of symptoms<br/>Consider NAAT if GDH-negative<br/>and clinical suspicion is high<br/>Empiric treatment if clinical<br/>suspicion is high"])
+    class A start
+    class B,D test
+    class F act
+    class C,E stop
+```
+*Two-step stool testing for suspected C. difficile infection*
+*Source: redrawn from the ACG 2021 C. difficile guideline testing algorithm*
+*[[acg-2021-cdiff|ACG 2021 C. difficile Guideline]]*
+*CDI = Clostridioides difficile infection · GDH = glutamate dehydrogenase · NAAT = nucleic acid amplification test · EIA = enzyme immunoassay*
 
 ---
 

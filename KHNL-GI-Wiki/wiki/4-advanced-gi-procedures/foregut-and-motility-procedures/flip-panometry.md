@@ -3,7 +3,7 @@ title: "FLIP Panometry"
 category: advanced-procedure
 tags: [FLIP, panometry, esophageal-motility, EGJ, functional-lumen-imaging, achalasia, EGJOO, foregut]
 created: 2026-05-15
-updated: 2026-11-11
+updated: 2026-11-12
 sources: [dallas-2025-flip-panometry, aga-2025-flip-esophageal, asge-2026-eoe-endoscopic-management-part-2]
 ---
 
@@ -75,12 +75,14 @@ Assessed from two parameters measured at defined volumes ([[dallas-2025-flip-pan
 |---|---|---|
 | **REO** (Reduced EGJ opening) | <2.0 mm²/mmHg | **AND** <12 mm |
 | **NEO** (Normal EGJ opening) | ≥2.0 mm²/mmHg | **AND** ≥16 mm |
-| **Inconclusive** (IEO; formerly "borderline") | Anything in between | Anything in between |
+| **Inconclusive** (IEO; formerly "borderline") | <2.0 mm²/mmHg | **OR** <16 mm — but not REO |
 
-*Both criteria (EGJ-DI **and** diameter) must be met for REO or NEO; everything else is inconclusive (median 8.0, 100% agreement). Thresholds are unchanged from the 2021 scheme — only "borderline" was renamed "inconclusive".*
+*FLIP panometry EGJ opening classification*
+*Source: table from the Dallas 2025 FLIP panometry EGJ opening classification*
+*[[dallas-2025-flip-panometry|Dallas Consensus 2025 FLIP Panometry]]*
+*REO = reduced EGJ opening · NEO = normal EGJ opening · IEO = inconclusive EGJ opening · EGJ-DI = esophagogastric junction distensibility index · EGJ = esophagogastric junction*
 
-![[flip-2025-dallas-egj-opening-07.png|700x337]]
-*Figure 2 — FLIP EGJ opening classification by EGJ-DI at 60 mL (y-axis) and maximum EGJ diameter at 70 mL (x-axis): red = reduced, blue = normal, grey = inconclusive. ([[dallas-2025-flip-panometry]])*
+Both criteria (EGJ-DI **and** diameter) must be met for REO or NEO; everything else is inconclusive (median 8.0, 100% agreement). Thresholds are unchanged from the 2021 scheme — only "borderline" was renamed "inconclusive".
 
 **Negative predictive value (NPV) for achalasia/conclusive EGJ outflow obstruction (EGJOO) rises with the EGJ-DI threshold used** ([[aga-2025-flip-esophageal]]): 90% for EGJ-DI >2.0, **96%** for >2.8, **97%** for >3.0 mm²/mmHg. Using EGJ-DI **without** the maximum diameter carries a lower NPV.
 
@@ -117,20 +119,36 @@ Categories (contractile response [CR] reflects the **aggregate** across the 50-,
 - **AGA 2025 cut differs at exactly 40 mmHg:** AGA text puts diminished at **≤40** and disordered at **>40 mmHg** (its Table 1: <40 vs >40 mmHg pressure increase); this page follows the Dallas <40 / ≥40 mmHg definition ([[aga-2025-flip-esophageal]]).
 - "Vigorous antegrade contractions" (antegrade contraction of consistent width lasting ≥10 s with pressure rise >35 mmHg — definition did **not** reach 80% agreement) and other morphologies (isolated focal, sustained focal, triangle-, bridge-shaped) are **not** classification criteria — uncertain significance.
 
-![[flip-2025-dallas-cr-hierarchy-09.png|650x333]]
-*Figure 5 — Hierarchical approach to the contractile response category, assessed over the aggregate of the 50-, 60-, and 70-mL fills. SOCs = sustained occluding contractions; sLESCs = sustained LES contractions. The statements put diminished at <40 and disordered at ≥40 mmHg. ([[dallas-2025-flip-panometry]])*
+```mermaid
+flowchart TD
+    A(["Assessed over the aggregate (total<br/>duration) of the 50-, 60- and<br/>70-mL fill volumes"]) --> B["Are contractions present?"]
+    B -- "No" --> C(["Absent contractile response"])
+    B -- "Yes" --> D["Are SOCs or sLESCs present?"]
+    D -- "Yes" --> E(["Spastic contractile response"])
+    D -- "No" --> F["Are multiple (>1) distinct<br/>antegrade contractions present?"]
+    F -- "Yes" --> G(["Normal contractile response"])
+    F -- "No" --> H["Is the 60-mL FLIP<br/>pressure >40 mmHg?"]
+    H -- "No" --> I(["Diminished contractile response"])
+    H -- "Yes" --> J(["Disordered contractile response"])
+    class A start
+    class B,D,F,H test
+    class C,E,G,I,J stop
+```
+*Hierarchical approach to the FLIP panometry contractile response category*
+*Source: redrawn from the Dallas 2025 hierarchical contractile response algorithm*
+*[[dallas-2025-flip-panometry|Dallas Consensus 2025 FLIP Panometry]]*
+*SOCs = sustained occluding contractions · sLESCs = sustained lower esophageal sphincter contractions · FLIP = functional lumen imaging probe*
 
-![[flip-2025-aga-egj-cr-patterns-04.png|700x356]]
-*Figure 1 (AGA) — Example FLIP panometry tracings: (A) NEO with RACs (normal); (B) REO with absent contractile response; (C) IEO with antegrade contractions; (D) REO with spasm. ([[aga-2025-flip-esophageal]])*
+- More than 1 distinct antegrade contraction defines the normal response; the contractions need not occur in the RAC pattern.
+- The flowchart's question reads >40 mmHg; the consensus statements put diminished at <40 and disordered at ≥40 mmHg.
+
+*See Figure 1 in [[aga-2025-flip-esophageal|AGA 2025 FLIP Clinical Practice Update]] for example images: FLIP panometry tracings of NEO with RACs, REO with absent contractile response, IEO with multiple antegrade contractions, and REO with spasm.*
 
 ---
 
 ## FLIP Panometry Motility Classification v2.0
 
-Matrix combining EGJ Opening × Contractile Response ([[dallas-2025-flip-panometry]] Figure 6; median 9.0, 88% agreement):
-
-![[flip-2025-dallas-classification-v2-11.png|700x395]]
-*Figure 6 — FLIP Panometry Motility Classification v2.0: EGJ opening (columns: normal, inconclusive, reduced) × contractile response (rows: spastic to absent). ([[dallas-2025-flip-panometry]])*
+Matrix combining EGJ Opening × Contractile Response ([[dallas-2025-flip-panometry]]; median 9.0, 88% agreement):
 
 | Contractile Response | **NEO** | **IEO** | **REO** |
 |---|---|---|---|
@@ -139,6 +157,11 @@ Matrix combining EGJ Opening × Contractile Response ([[dallas-2025-flip-panomet
 | **Normal** | **Normal** | Possible Obstruction* | Obstruction with Normal Contractility |
 | **Diminished** | Hypocontractility | Possible Obstruction* | Non-spastic Obstruction |
 | **Absent** | Hypocontractility | Possible Obstruction* | Non-spastic Obstruction |
+
+*FLIP Panometry Motility Classification v2.0: contractile response × EGJ opening*
+*Source: table from the Dallas 2025 FLIP Panometry Motility Classification v2.0*
+*[[dallas-2025-flip-panometry|Dallas Consensus 2025 FLIP Panometry]]*
+*NEO = normal EGJ opening · IEO = inconclusive EGJ opening · REO = reduced EGJ opening · EGJ = esophagogastric junction · FLIP = functional lumen imaging probe*
 
 *\*With inconclusive EGJ opening the classification is "**possible obstruction**" and **must be further described by the contractile response category** (e.g. "possible obstruction with diminished contractile response"). Complementary testing — timed barium esophagram (TBE) with tablet and/or HRM — is typically required to resolve it.*
 
@@ -211,10 +234,7 @@ The AGA algorithm branches on whether the **endoscopy** is suggestive of achalas
 
 ## AGA Clinical Algorithm
 
-Practical use of FLIP, keyed to the Best Practice Advice numbers ([[aga-2025-flip-esophageal]] Figure 2):
-
-![[flip-2025-aga-clinical-algorithm-05.png|700x372]]
-*Figure 2 (AGA) — Practical clinical algorithm for using and interpreting FLIP: indications (left), high-quality EGD first with mechanical obstruction treated accordingly (right), then FLIP read as NEO, REO, or IEO against whether the EGD is suggestive of achalasia (CARS score ≥4) or not. ([[aga-2025-flip-esophageal]])*
+Practical use of FLIP, keyed to the Best Practice Advice numbers ([[aga-2025-flip-esophageal]]): indications, then a high-quality EGD, then FLIP read against whether the EGD is suggestive of achalasia.
 
 **Who gets FLIP**
 
@@ -238,6 +258,11 @@ Then read FLIP against the endoscopy:
 | **NEO** | High NPV for achalasia (BPA 4). Test/treat for [[gerd\|gastroesophageal reflux disease (GERD)]] or a [[disorders-of-gut-brain-interaction\|disorder of gut-brain interaction (DGBI)]]; consider HRM if spasm or hypocontractility suspected | High NPV for achalasia (BPA 4). Consider HRM for a disorder of peristalsis; consider TBE for anatomy/mechanical obstruction |
 | **REO** | Achalasia or obstructive disorder **possible** (BPA 6). Endoscopic re-evaluation, dilate a stricture if found; consider HRM and/or TBE | Achalasia or obstructive disorder **confirmed** (BPA 5). Absent/diminished CR → LES-directed therapy; spastic CR → HRM to tailor therapy to the length of the spastic segment; consider intra-procedure FLIP (BPA 9) |
 | **IEO** | Achalasia or obstructive disorder **less likely** (BPA 6). Endoscopic re-evaluation, dilate a stricture if found; consider HRM and/or TBE | Achalasia or obstructive disorder **possible** (BPA 6). Endoscopic re-evaluation, dilate a stricture if found; consider HRM and/or TBE |
+
+*Reading FLIP against the endoscopy*
+*Source: redrawn as a table from the AGA 2025 practical clinical algorithm for FLIP*
+*[[aga-2025-flip-esophageal|AGA 2025 FLIP Clinical Practice Update]]*
+*FLIP = functional lumen imaging probe · EGD = esophagogastroduodenoscopy · CARS = contents, anatomy, resistance, stasis score · NEO / REO / IEO = normal / reduced / inconclusive EGJ opening · EGJ = esophagogastric junction · NPV = negative predictive value · BPA = Best Practice Advice · GERD = gastroesophageal reflux disease · DGBI = disorder of gut-brain interaction · HRM = high-resolution manometry · TBE = timed barium esophagram · CR = contractile response · LES = lower esophageal sphincter*
 
 - Standard endoscopy sedation (propofol/fentanyl/midazolam) does **not** meaningfully alter FLIP findings (BPA 3). **Avoid inhalation anesthetics** when assessing motility: sevoflurane can raise EGJ diameter and EGJ-DI vs propofol and impair secondary peristalsis; desflurane/isoflurane effects unknown. See [[endoscopy-sedation]].
 - **Do not use FLIP to diagnose [[gerd|GERD]]** or to decide on antireflux intervention (BPA 8) — no discriminative EGJ-DI threshold separates symptomatic GERD from controls, and EGJ-DI does not correlate with acid exposure time. Need for antireflux intervention is set by symptoms and reflux burden; FLIP can identify achalasia and obstructive syndromes that refute reflux disease in PPI nonresponders.

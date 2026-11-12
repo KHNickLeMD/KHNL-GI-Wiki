@@ -3,7 +3,7 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-10-27
+updated: 2026-11-12
 sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance, aasld-idsa-2025-chb-treatment, mehta-2017-retreat-hcc-recurrence-post-transplant, acr-2024-li-rads-us-surveillance-core]
 ---
 
@@ -48,18 +48,58 @@ sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-t
 
 ### Severity Assessment — BCLC Staging
 
-![[hcc-2023-bclc-algorithm-14.png|700x445]]
-*Figure 9 — Updated Barcelona Clinic Liver Cancer (BCLC) Staging System 2022: tumor characterization, treatment allocation, and expected survival by stage. ([[aasld-2023-hcc]])*
-
 - **BCLC 2022** (American Association for the Study of Liver Diseases [AASLD]-endorsed): tumor burden + liver function (Child-Pugh, Model for End-Stage Liver Disease [MELD], albumin-bilirubin [ALBI] — cutoffs on [[cirrhosis]]) + Eastern Cooperative Oncology Group performance status (PS) + AFP. [[aasld-2023-hcc]]
 
-| Stage | Definition | Refinement | First treatment | Expected survival |
-|---|---|---|---|---|
-| **Very early (0)** | Single ≤2 cm; preserved liver function; PS 0 | Liver transplantation (LT) candidate? If not → portal pressure/bilirubin | **Resection** if normal portal pressure/bilirubin; ablation if clinically significant portal hypertension (CSPH)/bilirubin↑ | >5 years |
-| **Early (A)** | Single, or ≤3 nodules each ≤3 cm; preserved liver function; PS 0 | Single: LT if CSPH/bilirubin↑, else resect; ≤3 nodules: LT (extended criteria) | **Resection**, **ablation**, or **transplant** | >5 years |
-| **Intermediate (B)** | Multinodular; preserved liver function; PS 0 | Well-defined nodules, preserved portal flow → transarterial chemoembolization (TACE); diffuse/infiltrative/bilobar → systemic | **TACE** (transarterial radioembolization [TARE] alternative) | >2.5 years |
-| **Advanced (C)** | Portal invasion and/or extrahepatic spread; PS 1–2 | — | **Systemic therapy** (see *Systemic Therapy*) | >2 years |
-| **Terminal (D)** | End-stage liver function; PS 3–4 | — | Best supportive care | ~3 months |
+```mermaid
+flowchart TD
+    H(["HCC"]) --> S0["Very early stage (0)<br/>Single ≤ 2 cm<br/>Preserved liver function†, PS 0"]
+    H --> SA["Early stage (A)<br/>Single, or ≤ 3 nodules each ≤ 3 cm<br/>Preserved liver function†, PS 0"]
+    H --> SB["Intermediate stage (B)<br/>Multinodular<br/>Preserved liver function†, PS 0"]
+    S0 -- "Not a potential candidate<br/>for liver transplantation" --> ABL(["Ablation<br/>Expected survival > 5 years"])
+    S0 -- "Potential candidate for<br/>liver transplantation" --> PP["Portal pressure, bilirubin"]
+    SA -- "Single" --> PP
+    SA -- "≤ 3 nodules, each ≤ 3 cm" --> CI["Contraindications to LT"]
+    PP -- "Normal" --> RES(["Resection<br/>Expected survival > 5 years"])
+    PP -- "Increased‡" --> CI
+    CI -- "Yes‡" --> ABL
+    CI -- "No" --> TX(["Transplant<br/>Expected survival > 5 years"])
+    SB -- "Extended liver transplant<br/>criteria (size, AFP)" --> TX
+    SB -- "Well-defined nodules,<br/>preserved portal flow,<br/>selective access" --> TACE(["TACE<br/>Expected survival > 2.5 years"])
+    SB -- "Diffuse, infiltrative,<br/>extensive bilobar<br/>liver involvement" --> SYS(["Systemic treatment<br/>Expected survival > 2 years"])
+    H -- "Advanced stage (C): portal invasion<br/>and/or extrahepatic spread,<br/>preserved liver function, PS 1–2" --> SYS
+    H -- "Terminal stage (D): any tumor burden,<br/>end-stage liver function, PS 3–4" --> BSC(["BSC<br/>Expected survival 3 months"])
+    class H start
+    class S0,SA,SB,PP,CI test
+    class ABL,RES,TX,TACE,SYS act
+    class BSC stop
+```
+*BCLC 2022 staging, first treatment option and expected survival*
+*Source: redrawn from the AASLD 2023 HCC guidance figure of the updated BCLC Staging System 2022 (Reig et al.)*
+*[[aasld-2023-hcc|AASLD 2023 HCC Guidance]]*
+*HCC = hepatocellular carcinoma · BCLC = Barcelona Clinic Liver Cancer · PS = ECOG performance status · LT = liver transplant · AFP = alpha-fetoprotein · TACE = transarterial chemoembolization · BSC = best supportive care*
+
+† Except for those with tumor burden acceptable for transplant. ‡ Resection may be considered for single peripheral HCC with adequate remnant liver volume.
+
+**Treatment stage migration** — primes lower-priority options when the first option is not feasible or fails, including because of the non-liver clinical profile (age, comorbidities, patient values and availability) [[aasld-2023-hcc]]:
+
+```mermaid
+flowchart TD
+    A(["First option: ablation,<br/>resection or transplant"]) -- "Not feasible or failure" --> B(["TACE<br/>Radioembolization (only for<br/>single lesion ≤ 8 cm)"])
+    T(["First option: TACE"]) -- "Successful downstaging" --> TX(["Transplant"])
+    B -- "Successful downstaging" --> TX
+    T -- "Not feasible or failure" --> S(["Systemic treatment<br/>1st line: atezolizumab-bevacizumab or<br/>durvalumab-tremelimumab · if not feasible,<br/>sorafenib or lenvatinib or durvalumab<br/>2nd line post sorafenib: regorafenib<br/>(sorafenib-tolerant), cabozantinib,<br/>ramucirumab (AFP ≥ 400 ng/mL)<br/>3rd line: cabozantinib"])
+    B -- "Not feasible or failure" --> S
+    S -- "Not feasible, or 2nd line post<br/>atezolizumab-bevacizumab, post<br/>durvalumab-tremelimumab, post<br/>lenvatinib or durvalumab" --> CT(["Clinical trials"])
+    CT -- "Not feasible" --> BSC(["BSC"])
+    CT -- "Not feasible" --> ALT(["Alternative sequences may<br/>be considered but they have<br/>not been proved"])
+    class A,T start
+    class B,TX,S,CT act
+    class BSC,ALT stop
+```
+*BCLC 2022 treatment stage migration*
+*Source: redrawn from the AASLD 2023 HCC guidance figure of the updated BCLC Staging System 2022 (clinical decision-making row)*
+*[[aasld-2023-hcc|AASLD 2023 HCC Guidance]]*
+*BCLC = Barcelona Clinic Liver Cancer · TACE = transarterial chemoembolization · AFP = alpha-fetoprotein · BSC = best supportive care*
 
 ---
 
@@ -91,18 +131,28 @@ sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-t
 
 ### Surveillance Recall Algorithm
 
-![[hcc-2023-surveillance-recall-algorithm-09.png|700x680]]
-*Figure 5 — Recall algorithm for HCC surveillance based on ultrasound (US) visualization score and AFP level. ([[aasld-2023-hcc]])*
+```mermaid
+flowchart TD
+    A(["Surveillance using<br/>US + AFP every 6 months"]) -- "Vis score A with no lesion<br/>on US and AFP normal" --> R(["Repeat US 6 months"])
+    A -- "Vis score B or lesion < 1 cm<br/>on US and AFP normal" --> U["US 3–6 months"]
+    U -- "Stable (can return to US every<br/>6 months if stable on two exams)" --> U
+    A -- "Vis score C (with no lesion<br/>or lesion < 1 cm on US)" --> S(["Screening contrast-enhanced MRI<br/>or multiphasic CT · repeat ultrasound<br/>can be considered for some patients"])
+    A -- "Lesion ≥ 1 cm on US, or AFP ≥ 20 ng/mL,<br/>or AFP increasing (doubling or increase<br/>on two consecutive tests)" --> M["Diagnostic contrast-enhanced<br/>multiphasic MRI or CT"]
+    U -- "Growth" --> M
+    M -- "No liver lesion and<br/>low AFP level" --> RET(["Return to US surveillance"])
+    M -- "No liver lesion but<br/>significantly elevated AFP" --> ALT(["Alternative CT/MRI imaging<br/>modality ± chest and pelvic CT"])
+    M -- "Liver lesion" --> LR(["See CT/MRI LI-RADS<br/>diagnostic categories"])
+    class A start
+    class U,M test
+    class S,ALT,LR act
+    class R,RET stop
+```
+*Recall after an HCC surveillance ultrasound*
+*Source: redrawn from the AASLD 2023 HCC guidance recall algorithm for HCC surveillance*
+*[[aasld-2023-hcc|AASLD 2023 HCC Guidance]]*
+*US = ultrasound · AFP = alpha-fetoprotein · Vis = visualization · MRI = magnetic resonance imaging · CT = computed tomography · LI-RADS = Liver Imaging Reporting and Data System*
 
-| US / AFP result | Next step |
-|---|---|
-| Visualization score A, no lesion, AFP normal | Repeat US at 6 months |
-| Score B or lesion <1 cm, AFP normal | US in 3–6 months — stable ×2 → back to semiannual; growth → diagnostic MRI/CT |
-| Score C (limited visualization; no lesion or <1 cm) | Screening contrast-enhanced MRI or multiphasic CT (repeat US can be considered) |
-| Lesion ≥1 cm | Diagnostic multiphasic MRI or CT |
-| **AFP ≥20 ng/mL** (even without a lesion), or rising on 2 consecutive tests / doubling | Diagnostic multiphasic MRI or CT |
-
-- Visualization score: from the radiology report. **VIS-A / VIS-B / VIS-C and the US-1/2/3 categories are defined on [[hcc-surveillance]]**, which also carries the newer [[acr-2024-li-rads-us-surveillance-core|LI-RADS US Surveillance v2024]] algorithm — it keeps **VIS-B on routine 6-month surveillance** rather than the two short-interval exams in the AASLD row above.
+- Visualization score: from the radiology report. **VIS-A / VIS-B / VIS-C and the US-1/2/3 categories are defined on [[hcc-surveillance]]**, which also carries the newer [[acr-2024-li-rads-us-surveillance-core|LI-RADS US Surveillance v2024]] algorithm — it keeps **VIS-B on routine 6-month surveillance** rather than the short-interval US branch of the AASLD algorithm above. LI-RADS categories for a liver lesion: [[li-rads]].
 - **AFP high (≥200 or ≥400 ng/mL may count), no lesion:** other CT/MRI modality ± chest/pelvic CT → then positron emission tomography-CT.
 - **Recall by CT/MRI** may be preferred with [[obesity]], alcohol- or steatohepatitis-related cirrhosis, or Child-Pugh B/C (recall only, not routine surveillance). [[aasld-2023-hcc]]
 
@@ -150,7 +200,7 @@ flowchart TD
 *Source for this section: [[aasld-2023-hcc]] (GS 28–31).*
 
 - **Noncirrhotic HCC → resection** (Level 2, Strong): 5-year survival >70%, operative mortality <3%.
-- **Cirrhotic, BCLC 0/A → resection** if limited tumor burden, well-compensated, **no CSPH**, adequate future liver remnant (FLR) (Level 2, Strong):
+- **Cirrhotic, BCLC 0/A → resection** if limited tumor burden, well-compensated, **no clinically significant portal hypertension (CSPH)**, adequate future liver remnant (FLR) (Level 2, Strong):
   - CSPH = [[hepatic-venous-pressure-gradient|hepatic venous pressure gradient]] ≥10 mmHg; surrogates: varices, splenomegaly, platelets <100 × 10⁹/L ([[portal-hypertension]])
   - FLR **>30%** without cirrhosis, **>40%** with; CT/MRI volumetry; inadequate → portal vein embolization
 - **Beyond BCLC 0/A** (high-volume centers, tumor-board decision): select multinodular HCC beyond Milan (vs TACE in BCLC B: hazard ratio 0.56); portal vein tumor thrombus (PVTT) resection controversial — Asian data for **Vp1 (subsegmental)/Vp2 (segmental)**. **Vp4 = main portal vein** → TACE and TARE unsuitable. Vp3 undefined in AASLD — take from the radiology report.
@@ -174,11 +224,11 @@ flowchart TD
 
 *Source: [[aasld-2023-hcc]] (GS 41–45).*
 
-- **BCLC B → TACE** (GS 41, Level 1, Strong); median OS 19.4 months; conventional (lipiodol) = drug-eluting bead.
+- **BCLC B → transarterial chemoembolization (TACE)** (GS 41, Level 1, Strong); median OS 19.4 months; conventional (lipiodol) = drug-eluting bead.
 - **Selective/segmental, not lobar** (GS 43).
 - **No systemic therapy combined with TACE/TARE** for BCLC B outside trials (GS 44, Level 2, Strong).
 - **TACE-unsuitable or refractory → systemic therapy** (GS 45).
-- **TARE (Y90) = alternative to TACE** in BCLC B (GS 42); favored for solitary ≤8 cm, subcapsular, near critical structures; bridge to LT. Personalized dosimetry >205 Gy improves response.
+- **Transarterial radioembolization (TARE; Y90) = alternative to TACE** in BCLC B (GS 42); favored for solitary ≤8 cm, subcapsular, near critical structures; bridge to LT. Personalized dosimetry >205 Gy improves response.
 
 | | TACE unsuitable | Y90 unsuitable |
 |---|---|---|

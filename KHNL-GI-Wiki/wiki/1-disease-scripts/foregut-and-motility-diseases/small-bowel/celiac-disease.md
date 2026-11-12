@@ -3,7 +3,7 @@ title: "Celiac Disease"
 category: disease-script
 tags: [celiac-disease, gluten, malabsorption, small-bowel, ttg, marsh, foregut]
 created: 2026-05-15
-updated: 2026-10-30
+updated: 2026-11-12
 sources: [acg-2022-celiac, aga-2019-celiac-monitoring, aga-2022-refractory-celiac]
 ---
 
@@ -196,8 +196,66 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 
 ### Serologic Testing Algorithm
 
-![[celiac-2022-diagnostic-algorithm-05.png|700x396]]
-*Figure 1 — CD diagnostic testing algorithm. ([[acg-2022-celiac]])*
+```mermaid
+flowchart TD
+    A(["Clinical suspicion,<br/>patient on a normal diet"]) --> B["TTG-IgA and total IgA"]
+    B -- "TTG-IgA positive: adults" --> C["Biopsy"]
+    C -- "Marsh 1–3" --> D(["Celiac disease"])
+    C -- "Normal" --> E(["Potential celiac"])
+    B -- "TTG-IgA positive: children" --> F["Nonbiopsy criteria?<br/>TTG-IgA > 10× ULN with a positive EMA<br/>on a second blood sample, only if<br/>family agrees with no-biopsy strategy"]
+    F -- "Yes: EMA positive" --> D
+    F -- "No" --> G["Biopsy"]
+    G -- "Marsh 1–3" --> D
+    class A start
+    class B,C,F,G test
+    class D,E stop
+```
+*Celiac disease testing on a normal diet: positive TTG-IgA*
+*Source: redrawn from the ACG 2022 celiac disease diagnostic testing algorithm (normal-diet branch)*
+*[[acg-2022-celiac|ACG 2022 Celiac Disease Guideline]]*
+*TTG = tissue transglutaminase · IgA = immunoglobulin A · ULN = upper limit of normal · EMA = endomysial antibody*
+
+```mermaid
+flowchart TD
+    A(["Clinical suspicion, normal diet:<br/>TTG-IgA and total IgA"]) -- "TTG-IgA negative" --> B(["Celiac unlikely"])
+    A -- "TTG-IgA negative,<br/>high suspicion" --> C["Biopsy"]
+    C -- "Atrophy" --> D(["Other enteropathy?<br/>Olmesartan, CVID, tropical sprue,<br/>autoimmune enteropathy, others"])
+    C -- "Atrophy" --> E["Seronegative celiac disease?"]
+    E --> F(["Improvement on gluten-free diet"])
+    A -- "IgA deficiency" --> G["TTG/DGP-IgG"]
+    G -- "Positive" --> H(["Biopsy"])
+    class A start
+    class C,E,G test
+    class F,H act
+    class B,D stop
+```
+*Celiac disease testing on a normal diet: negative TTG-IgA or IgA deficiency*
+*Source: redrawn from the ACG 2022 celiac disease diagnostic testing algorithm (normal-diet branch)*
+*[[acg-2022-celiac|ACG 2022 Celiac Disease Guideline]]*
+*TTG = tissue transglutaminase · IgA = immunoglobulin A · IgG = immunoglobulin G · DGP = deamidated gliadin peptide · CVID = common variable immune deficiency*
+
+```mermaid
+flowchart TD
+    A(["Clinical suspicion,<br/>patient on a gluten-free diet"]) --> B["HLA DQ2/DQ8"]
+    B -- "Negative" --> C(["No celiac"])
+    B -- "Positive" --> D(["Gluten challenge:<br/>3 g gluten daily for 2 weeks"])
+    D -- "Well tolerated" --> E(["3 g gluten daily for<br/>up to 6 additional weeks"])
+    D -- "Poorly tolerated" --> S["Consider serology"]
+    E --> F["Repeat serology at end of challenge"]
+    F --> G["Repeat serology 2 to 6 weeks<br/>after end of challenge"]
+    F -- "TTG-IgA positive" --> H["Duodenal biopsy"]
+    G -- "TTG-IgA positive" --> H
+    S -- "TTG-IgA positive" --> H
+    H -- "Marsh 1–3" --> I(["Celiac disease"])
+    class A start
+    class B,S,F,G,H test
+    class D,E act
+    class C,I stop
+```
+*Celiac disease testing in a patient already on a gluten-free diet*
+*Source: redrawn from the ACG 2022 celiac disease diagnostic testing algorithm (gluten-free-diet branch)*
+*[[acg-2022-celiac|ACG 2022 Celiac Disease Guideline]]*
+*HLA = human leukocyte antigen · TTG = tissue transglutaminase · IgA = immunoglobulin A*
 
 1. Order **TTG-IgA + total IgA** simultaneously (patient on gluten-containing diet)
 2. If TTG-IgA elevated → proceed to [[upper-endoscopy]] with duodenal biopsy
@@ -225,7 +283,7 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
   - Patient already on GFD before evaluation (negative HLA rules out CD; positive HLA justifies gluten challenge)
   - Family members being evaluated for risk stratification
 
-> [[acg-2022-celiac]] endorses offering a **gluten challenge** in an HLA-compatible patient already on a GFD but does **not** state the gluten dose (g/day) or the duration before re-biopsy.
+> [[acg-2022-celiac]] endorses offering a **gluten challenge** in an HLA-compatible patient already on a GFD. Its text gives no dose; its diagnostic algorithm (above) uses **3 g gluten daily for 2 weeks**, then **up to 6 additional weeks** if well tolerated, with serology repeated at the end of the challenge and **2–6 weeks after** it.
 
 ### Monitoring Labs at Diagnosis
 
@@ -261,8 +319,26 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 
 ### Monitoring After Diagnosis
 
-![[celiac-2022-monitoring-algorithm-07.png|700x373]]
-*Figure 2 — An approach to monitoring CD. ([[acg-2022-celiac]])*
+```mermaid
+flowchart TD
+    A(["Diagnosis of CD<br/>Symptoms, serology (TTG or DGP, per baseline test)<br/>Other tests: CBC, ALT, AST, vitamins A, D, E, B12,<br/>copper, zinc, folic acid, ferritin, iron<br/>Intestinal biopsy, dietitian, support group, DXA scan (?)"]) --> B["Follow-up 3–6 months (visit 1)<br/>Symptoms, serology, vaccines,<br/>testing 1st-degree family members,<br/>other tests (individualized)"]
+    B -- "Expected response: symptom improvement,<br/>decrease of antibody titers, improvement<br/>of nutritional deficiencies" --> H["Follow-up 1 year (visit 2)<br/>Symptoms, serology,<br/>other tests (individualized), DXA scan (?)"]
+    B -- "Inadequate response" --> D(["Dietitian"])
+    D --> H
+    D --> E["Good adherence to GFD?"]
+    E -- "Yes" --> F(["Observation only<br/>Work-up for other causes of nonresponsive CD<br/>(if clinically indicated)"])
+    E -- "No" --> G(["Facilitate adherence to GFD<br/>Work-up for other causes of nonresponsive CD<br/>(if clinically indicated)"])
+    H -- "Expected response: control of symptoms,<br/>correction of nutritional deficiencies,<br/>seroconversion, dietitian (follow-up)" --> J(["Follow-up every 6–12 months<br/>Symptoms, serology,<br/>intestinal biopsy (year 2)"])
+    H -- "Inadequate response" --> I(["Dietitian (diet assessment)<br/>Workup for other causes of nonresponsive CD<br/>(if clinically indicated)"])
+    I --> J
+    class A start
+    class B,E,H test
+    class D,F,G,I,J act
+```
+*Monitoring celiac disease after diagnosis*
+*Source: redrawn from the ACG 2022 celiac disease monitoring algorithm, with its footnotes*
+*[[acg-2022-celiac|ACG 2022 Celiac Disease Guideline]]*
+*CD = celiac disease · TTG = tissue transglutaminase · DGP = deamidated gliadin peptide · CBC = complete blood count · ALT = alanine aminotransferase · AST = aspartate aminotransferase · DXA = dual-energy x-ray absorptiometry · GFD = gluten-free diet*
 
 **Clinical follow-up schedule:**
 

@@ -3,7 +3,7 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-11-01
+updated: 2026-11-12
 sources: [asge-2026-esophageal-gastric-varices, baveno-viii-2026-portal-hypertension, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, wang-2026-eus-ppg-delphi-consensus, aga-2021-bleeding-gastric-varices, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
 ---
 
@@ -95,9 +95,6 @@ sources: [asge-2026-esophageal-gastric-varices, baveno-viii-2026-portal-hyperten
 
 ### Noninvasive Staging — cACLD and CSPH
 
-![[portal-hypertension-2023-noninvasive-staging-algorithm-09.png|700x378]]
-*Figure 3 — Noninvasive tests for staging and management of compensated advanced chronic liver disease (cACLD): LSM ranges, CSPH probability, endoscopy indications, LSM monitoring, and alternatives to transient elastography (TE). ([[aasld-2023-portal-hypertension]])*
-
 **"Rule of Five" (10-15-20-25 kPa)** — same ladder in American Association for the Study of Liver Diseases (AASLD) 2023 Figure 1B and Baveno VIII 1.3–1.8; risk of decompensation and liver-related death rises up the ladder **independent of aetiology** [[baveno-viii-2026-portal-hypertension]] [[aasld-2023-portal-hypertension]].
 
 | LSM by VCTE (kPa) | Platelets (×10⁹/L) | Interpretation |
@@ -122,11 +119,37 @@ sources: [asge-2026-esophageal-gastric-varices, baveno-viii-2026-portal-hyperten
 - **SSM's three cut-offs are not interchangeable:** >55 kPa rules CSPH in (1.16c) · <40 kPa spares screening EGD when NSBB is not possible (1.19) · <25 kPa with LSM <15 kPa rules CSPH out after recompensation (7.19b). Detail: [[liver-stiffness-measurement]].
 - **Monitoring:** repeat NITs **every 12 months**; the **most recent value** guides decisions (1.9–1.10). Fasting, confirmation, meaningful-change thresholds: [[liver-stiffness-measurement]].
 
-![[portal-hypertension-2022-baveno7-cacld-csph-algorithm-05.png|750x330]]
-*Figure 4 — Baveno VII "rule of 5" LSM ladder (unchanged in VIII); its SSM and ANTICIPATE rule-in thresholds are superseded by the table above. ([[baveno-vii-2022-portal-hypertension]])*
-
 > [!pitfall] Don't carry Baveno VII numbers forward
 > The ≥60% ANTICIPATE risk bands (LSM 20–25 + platelets <150, or 15–20 + <110) and SSM <21 / >50 kPa (viral only) are **superseded** by the ≥75% probability and >55 kPa (100 Hz) rules ([[baveno-viii-2026-portal-hypertension]]).
+
+**AASLD 2023 noninvasive staging schema** — the same LSM ladder with the stage-specific role of endoscopy, LSM monitoring and non-TE alternatives; its CSPH rule-in bands with platelets are the Baveno VII ANTICIPATE bands in the pitfall above [[aasld-2023-portal-hypertension]]:
+
+| Stage | LSM by TE | Rule-in / rule-out (TE) | LSM monitoring: indication, frequency |
+|---|---|---|---|
+| **No cACLD, possible liver fibrosis** | 5–9.9 kPa | < 10 kPa rules out cACLD | If suspecting fibrosis progression · every 3–5 years |
+| **Possible cACLD, no CSPH** | 10–14.9 kPa | < 15 kPa and Plt ≥ 150 rules out CSPH | To assess for CSPH and/or Baveno VI endoscopic criteria · annually |
+| **Certain cACLD, probable CSPH** | 15–19.9 kPa | ≥ 15 kPa rules in cACLD · 15–20 kPa and Plt < 110† rules in CSPH · < 20 kPa and Plt ≥ 150‡ rules out VNT | To assess for CSPH and/or Baveno VI endoscopic criteria · annually |
+| **Certain cACLD, highly probable CSPH** | ≥ 20 kPa | 20–25 kPa and Plt < 150† or ≥ 25 kPa† rules in CSPH | If expecting progression or regression§ · annually |
+| **Decompensated stage** | No role for LSM after decompensation | — | LSM only indicated if recompensation |
+
+*Noninvasive staging of advanced chronic liver disease by liver stiffness*
+*Source: table from the AASLD 2023 portal hypertension guidance noninvasive-test staging figure*
+*[[aasld-2023-portal-hypertension|AASLD 2023 Portal Hypertension Guidance]]*
+*cACLD = compensated advanced chronic liver disease · CSPH = clinically significant portal hypertension · LSM = liver stiffness measurement · TE = transient elastography · Plt = platelet count (×10⁹/L) · VNT = varices needing treatment*
+
+| Alternative to TE¶ | Rule out cACLD | Diagnose cACLD | Predict varices, decompensation |
+|---|---|---|---|
+| MRE | < 3.0 kPa | ≥ 3–4 kPa | ≥ 4–5 kPa |
+| pSWE/ARFI | < 1.3–1.7 m/s | ≥ 1.7–2.1 m/s | ≥ 2.4 m/s |
+| 2D-SWE | < 7–8 kPa | 13–16 kPa | ≥ 17–20 kPa |
+| ELF | < 7.7 | ≥ 9.8 | ≥ 10.5–11.3 |
+
+*Cut-offs for alternatives to transient elastography*
+*Source: table from the AASLD 2023 portal hypertension guidance noninvasive-test staging figure*
+*[[aasld-2023-portal-hypertension|AASLD 2023 Portal Hypertension Guidance]]*
+*TE = transient elastography · cACLD = compensated advanced chronic liver disease · MRE = magnetic resonance elastography · pSWE = point shear wave elastography · ARFI = acoustic radiation force impulse imaging · 2D-SWE = two-dimensional shear wave elastography · ELF = enhanced liver fibrosis*
+
+† ANTICIPATE model, for hepatitis B virus (HBV), hepatitis C virus (HCV), alcohol-associated liver disease and lean nonalcoholic fatty liver disease (NAFLD; BMI < 30 kg/m²); positive predictive value > 90% for LSM ≥ 25 kPa, > 60% for the LSM + platelet criteria. ‡ Baveno VI criteria for variceal screening. § A ≥ 20% change is accepted as clinically significant. ¶ Cut-offs for non-TE elastography and laboratory-based tests are not solidly validated — interpret with caution; the rule-out column derives from normal-range values and/or F0 vs F1–4 cut-offs.
 
 ### Screening Endoscopy
 

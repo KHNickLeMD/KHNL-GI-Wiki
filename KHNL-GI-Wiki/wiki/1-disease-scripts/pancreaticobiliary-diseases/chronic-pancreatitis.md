@@ -3,7 +3,7 @@ title: "Chronic Pancreatitis"
 category: disease-script
 tags: [pancreatitis, chronic, pancreas, hpb, exocrine-insufficiency, pain]
 created: 2026-05-16
-updated: 2026-11-03
+updated: 2026-11-12
 sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancreatitis-endoscopy, apa-2014-chronic-pancreatitis, aga-2022-recurrent-pancreatitis-endoscopy, catalano-2009-rosemont-classification]
 ---
 
@@ -38,19 +38,43 @@ sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancre
 - Chronic pancreatitis (CP) = **pathologic fibroinflammatory syndrome of the pancreas** in a patient with risk factors who develops persistent pathologic responses to parenchymal injury or stress (**mechanistic** definition) — allows dx **before end-stage morphology**, unlike the older **clinicopathologic** definition, which required **irreversible morphologic change**.
 - **Cardinal features:** atrophy, fibrosis, ductal distortion/strictures, calcifications · pain (most common symptom) · [[exocrine-pancreatic-insufficiency|exocrine pancreatic insufficiency (EPI)]] · endocrine dysfunction (type 3c diabetes mellitus [DM]) · dysplasia (↑ ductal adenocarcinoma risk).
 
-**Diagnostic algorithm (American College of Gastroenterology [ACG] 2020, Fig 1 — clinicopathologic model):**
+**Diagnostic algorithm (American College of Gastroenterology [ACG] 2020 — clinicopathologic model):** symptom-first; it does not stratify by etiology or clinical risk factors.
 
-![[chronic-pancreatitis-2020-diagnostic-algorithm-11.png|700x416]]
-*Figure 1 — Diagnostic algorithm based on the clinicopathologic disease model. CT, computed tomography; MRCP, magnetic resonance cholangiopancreatography. ([[acg-2020-chronic-pancreatitis]])*
+```mermaid
+flowchart TD
+    A(["Suspicion of chronic pancreatitis:<br/>genetic polymorphisms suggestive of CP,<br/>clinical symptoms (classic abdominal pain,<br/>exocrine insufficiency, endocrine insufficiency),<br/>or pancreatic function testing suggestive of EPI"]) --> B["Cross-sectional imaging<br/>(CT scan or MRI)"]
+    B -- "Positive" --> P(["Consistent with<br/>chronic pancreatitis"])
+    B -- "Negative: not consistent with CP" --> C["Endoscopic ultrasound"]
+    I(["Incidental findings on cross-sectional<br/>imaging suggestive of chronic pancreatitis"]) --> C
+    C -- "Positive" --> P
+    C -- "Negative: not consistent with CP" --> D["Secretin-enhanced MRCP"]
+    D -- "Positive" --> P
+    D -- "Negative: not consistent with CP" --> G["Perform genetic testing<br/>for chronic pancreatitis"]
+    G -- "Positive" --> H["Pancreatic histology"]
+    G -- "Negative" --> N(["Not consistent with chronic pancreatitis<br/>Consider alternative diagnosis"])
+    H -- "Positive" --> P
+    H -- "Negative" --> N
+    class A,I start
+    class B,C,D,G,H test
+    class P,N stop
+```
+*Diagnosing chronic pancreatitis by the clinicopathologic model*
+*Source: redrawn from the ACG 2020 chronic pancreatitis diagnostic algorithm*
+*[[acg-2020-chronic-pancreatitis|ACG 2020 Chronic Pancreatitis Guideline]]*
+*CP = chronic pancreatitis · EPI = exocrine pancreatic insufficiency · CT = computed tomography · MRI = magnetic resonance imaging · MRCP = magnetic resonance cholangiopancreatography*
 
-**Mechanistic algorithm (Fig 2) — 3 escalating levels of investigation:**
+**Mechanistic algorithm — 3 escalating levels of investigation.** With clinical suspicion, the diagnosis rests on the concordance of 3 features (clinical features **plus** risk **plus** biomarkers), worked up in levels a → c; once it is made, the workup turns to management.
 
-![[chronic-pancreatitis-2020-mechanistic-algorithm-12.png|700x369]]
-*Figure 2 — Conceptual diagnostic algorithm based on the mechanistic definition. Rows a–c = escalating levels of investigation; TIGAR-O (toxic-metabolic, idiopathic, genetic, autoimmune, recurrent and severe acute pancreatitis, obstructive) risk factors guide each level. ([[acg-2020-chronic-pancreatitis]])*
+| Level | Clinical features | Risk (TIGAR-O) | Biomarkers: imaging | Biomarkers: serum and other |
+|---|---|---|---|---|
+| **a** | Pancreatitis-like pain · maldigestion · weight loss · glucose intolerance · older age | Alcohol/smoking · hypertriglyceridemia · other metabolic/drugs · AP/RAP · obstruction (benign anatomic change, tumor) | CT scan · [[endoscopic-ultrasound\|EUS]] (± FNA) | High amylase/lipase · high triglycerides · high IgG4 · high glucose · low vitamins (A, D, K, B12) · tumor markers |
+| **b** | Family history · early age of onset · CF organ involvement · syndromic features | Genetic testing (genetic counseling: risk-based) · other toxic/metabolic risks | sMRCP | Sweat chloride · exocrine function test |
+| **c** | [[inflammatory-bowel-disease\|IBD]] or evidence of IgG4 disease · clinical response to Rx? (pain management with antioxidants, improved digestion with PERT, steroid trial for AIP type 2) | Known causes ruled out/unlikely: expand differential diagnosis · initiate low-risk therapy (lifestyle, antioxidants) · consider referral | — | Histology |
 
-- **A — clinical:** pain, maldigestion, weight loss, glucose intolerance + TIGAR-O risk factors → CT, [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] ± fine-needle aspiration (FNA), amylase/lipase, triglycerides, immunoglobulin G4 (IgG4), glucose, fat-soluble vitamins, tumor markers
-- **B — risk/phenotype:** family history, early onset, cystic fibrosis (CF) organ involvement, syndromic features → genetic testing, sweat chloride, secretin-enhanced MRCP (sMRCP), exocrine function testing
-- **C — response/histology:** [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]/IgG4 disease, response to analgesics or pancreatic enzyme replacement therapy (PERT), steroid trial for autoimmune pancreatitis (AIP) type 2 → histology
+*Mechanistic approach to suspected chronic pancreatitis*
+*Source: table from the ACG 2020 chronic pancreatitis conceptual diagnostic algorithm (mechanistic definition)*
+*[[acg-2020-chronic-pancreatitis|ACG 2020 Chronic Pancreatitis Guideline]]*
+*TIGAR-O = toxic-metabolic, idiopathic, genetic, autoimmune, recurrent and severe acute pancreatitis, obstructive · AP = acute pancreatitis · RAP = recurrent acute pancreatitis · CT = computed tomography · EUS = endoscopic ultrasound · FNA = fine-needle aspiration · IgG4 = immunoglobulin G4 · CF = cystic fibrosis · sMRCP = secretin-enhanced magnetic resonance cholangiopancreatography · IBD = inflammatory bowel disease · Rx = therapy · PERT = pancreatic enzyme replacement therapy · AIP = autoimmune pancreatitis*
 
 ### Severity Assessment (M-ANNHEIM)
 

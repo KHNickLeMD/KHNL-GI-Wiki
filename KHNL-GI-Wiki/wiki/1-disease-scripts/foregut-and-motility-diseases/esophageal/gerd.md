@@ -3,7 +3,7 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-11-05
+updated: 2026-11-12
 sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd, acg-2020-esophageal-physiologic-testing, afs-2024-ge-valve-after-antireflux-surgery, aga-2022-personalized-gerd, aga-2020-functional-heartburn]
 ---
 
@@ -113,8 +113,25 @@ Objective severity is assessed endoscopically and with [[reflux-testing|reflux t
 
 ## Diagnostics
 
-![[gerd-2021-diagnosis-algorithm-07.png|700x599]]
-*Figure 1 — Diagnosis of GERD. EGD, esophagogastroduodenoscopy; GERD, gastroesophageal reflux disease; LA, Los Angeles; PPI, proton pump inhibitor. ([[acg-2021-gerd]])*
+```mermaid
+flowchart TD
+    A(["Heartburn and/or regurgitation without alarm symptoms<br/>Symptoms with sufficient frequency<br/>and intensity to impair QOL"]) --> P["8-week once before meal<br/>daily PPI trial"]
+    P -- "Complete relief:<br/>GERD likely" --> D(["Discontinue PPI"])
+    D -- "Symptoms recur" --> E["EGD off PPI 2–4 weeks"]
+    P -- "Incomplete relief" --> E
+    E -- "LA Grade B/C/D<br/>Barrett′s > 3 cm" --> G(["GERD confirmed"])
+    E -- "Normal EGD or<br/>LA Grade A" --> R["Reflux monitoring<br/>off therapy"]
+    R -- "Abnormal" --> G
+    R -- "Normal" --> O(["Consider other causes<br/>for symptoms"])
+    class A start
+    class P,E,R test
+    class D,G act
+    class O stop
+```
+*Diagnosis of GERD*
+*Source: redrawn from the ACG 2021 GERD diagnosis algorithm*
+*[[acg-2021-gerd|ACG 2021 GERD Guideline]]*
+*QOL = quality of life · PPI = proton pump inhibitor · GERD = gastroesophageal reflux disease · EGD = esophagogastroduodenoscopy · LA = Los Angeles*
 
 ### Endoscopy
 
@@ -167,8 +184,45 @@ Perform [[upper-endoscopy|upper endoscopy]] per indications above. High-quality 
 
 ## Therapeutics
 
-![[gerd-2021-management-algorithm-15.png|700x192]]
-*Figure 3 — Management algorithm for GERD. (a) Patients empirically treated without objective workup. (b) Patients with previously objectively defined GERD. BID, twice-daily; EGD, esophagogastroduodenoscopy; GERD, gastroesophageal reflux disease; MSA, magnetic sphincter augmentation; PPI, proton pump inhibitor; TIF, transoral incisionless fundoplication. ([[acg-2021-gerd]])*
+**Symptoms incompletely responsive to PPI** — two entry points ([[acg-2021-gerd]]):
+
+```mermaid
+flowchart TD
+    A(["Previously empirically treated with<br/>PPI without objective workup"]) --> B["Optimize PPI"]
+    B -- "Symptom relief" --> C(["Continue GERD treatment<br/>Discuss long-term GERD<br/>management options"])
+    B -- "Unsatisfactory symptom relief" --> E["Diagnostic EGD<br/>(off PPI 2–4 weeks)"]
+    E -- "Abnormal EGD: other cause<br/>for symptoms identified" --> M(["Treat mucosal disease"])
+    E -- "Abnormal EGD: erosive esophagitis<br/>LA B/C/D, Barrett′s > 3 cm" --> G(["GERD confirmed"])
+    E -- "Normal EGD" --> R["Reflux monitoring<br/>(off PPI)"]
+    R -- "+" --> G
+    R -- "−" --> N(["No evidence of GERD<br/>Look for other causes"])
+    class A start
+    class B,E,R test
+    class C,M,G act
+    class N stop
+```
+*GERD symptoms incompletely responsive to PPI, after empiric PPI without objective workup*
+*Source: redrawn from the ACG 2021 GERD management algorithm (panel a)*
+*[[acg-2021-gerd|ACG 2021 GERD Guideline]]*
+*PPI = proton pump inhibitor · GERD = gastroesophageal reflux disease · EGD = esophagogastroduodenoscopy · LA = Los Angeles*
+
+```mermaid
+flowchart TD
+    A(["Previously objectively defined<br/>GERD (LA B/C/D)"]) --> B["Optimize PPI<br/>2- to 4-week therapy"]
+    B -- "Symptom relief" --> C(["Continue current treatment<br/>Discuss long-term<br/>management options"])
+    B -- "Unsatisfactory symptom relief" --> F(["If primary symptoms regurgitation,<br/>consider MSA, TIF, or fundoplication<br/>in appropriate patient"])
+    B -- "Unsatisfactory symptom relief" --> I["Perform impedance pH<br/>monitoring on PPI BID"]
+    I -- "Normal" --> L(["Look for other causes<br/>Treat coexistent functional disease"])
+    I -- "Abnormal" --> S(["Consider surgical/endoscopic intervention<br/>Consider escalating medical therapy"])
+    class A start
+    class B,I test
+    class C,F,S act
+    class L stop
+```
+*GERD symptoms incompletely responsive to PPI, in previously objectively defined GERD*
+*Source: redrawn from the ACG 2021 GERD management algorithm (panel b)*
+*[[acg-2021-gerd|ACG 2021 GERD Guideline]]*
+*GERD = gastroesophageal reflux disease · LA = Los Angeles · PPI = proton pump inhibitor · MSA = magnetic sphincter augmentation · TIF = transoral incisionless fundoplication · BID = twice daily*
 
 ### Step 1: Lifestyle Modifications (Strong, Low Evidence)
 

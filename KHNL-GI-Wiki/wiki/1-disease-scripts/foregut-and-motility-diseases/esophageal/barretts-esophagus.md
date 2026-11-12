@@ -3,7 +3,7 @@ title: "Barrett's Esophagus"
 category: disease-script
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance, foregut]
 created: 2026-05-15
-updated: 2026-11-09
+updated: 2026-11-12
 sources: [aga-2026-surveillance-older-adults, acg-2022-barretts, aga-2018-barretts-screening-techniques, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, aga-2020-endoscopic-treatment-barretts-dysplasia, aga-2020-post-endoscopy-esophageal-adenocarcinoma, aga-2016-low-grade-dysplasia-barretts, aga-2022-barretts-new-technology]
 ---
 
@@ -162,8 +162,29 @@ Dysplasia grade drives risk and management. **Quote the right endpoint** — EAC
 
 ### Screening (Who Should Be Screened)
 
-![[barretts-2022-screening-algorithm-06.png|700x571]]
-*Figure 2 — Care algorithm for patients noted to have columnar mucosa in the tubular esophagus (diagnosis and surveillance). ([[acg-2022-barretts]])*
+```mermaid
+flowchart TD
+    A(["Salmon-colored mucosa extending<br/>proximally from the GEJ<br/>on endoscopy"]) -- "< 1 cm salmon-colored mucosa,<br/>irregular Z-line or regular Z-line" --> N(["No biopsy"])
+    A -- "≥ 1 cm salmon-colored mucosa" --> B["Obtain at least 8<br/>endoscopic biopsy samples"]
+    B -- "Negative for intestinal metaplasia" --> R(["Repeat endoscopy with<br/>biopsy in 1–2 years"])
+    B --> IM["Intestinal metaplasia"]
+    IM -- "No dysplasia,<br/>< 3 cm BE segment" --> S5(["Repeat surveillance EGD<br/>in 5 years"])
+    IM -- "No dysplasia,<br/>≥ 3 cm BE segment" --> S3(["Repeat surveillance EGD<br/>in 3 years"])
+    IM -- "Indefinite for<br/>dysplasia (IND)" --> C1["Confirm by 2nd pathologist<br/>with GI expertise"]
+    C1 --> P(["PPI BID<br/>Repeat EGD with biopsy<br/>within 6 months"])
+    IM -- "LGD / HGD / early EAC" --> C2["Confirm by 2nd pathologist<br/>with GI expertise"]
+    C2 --> F(["Refer to flowchart for<br/>BE-related neoplasia"])
+    class A start
+    class B,IM,C1,C2 test
+    class R,S5,S3,P,F act
+    class N stop
+```
+*Care algorithm for columnar mucosa in the tubular esophagus (diagnosis and surveillance)*
+*Source: redrawn from the ACG 2022 Barrett's esophagus care algorithm*
+*[[acg-2022-barretts|ACG 2022 Barrett's Esophagus Guideline]]*
+*GEJ = gastroesophageal junction · BE = Barrett's esophagus · EGD = esophagogastroduodenoscopy · IND = indefinite for dysplasia · GI = gastrointestinal · PPI = proton pump inhibitor · BID = twice daily · LGD = low-grade dysplasia · HGD = high-grade dysplasia · EAC = esophageal adenocarcinoma*
+
+- BE-related neoplasia flowchart → [[#Endoscopic Eradication Therapy (EET)]]
 
 **Single screening [[upper-endoscopy]]** — criteria differ by society:
 
@@ -250,8 +271,29 @@ flowchart TD
 
 ### Endoscopic Eradication Therapy (EET)
 
-![[barretts-2022-eet-algorithm-18.png|700x431]]
-*Figure 4 — Algorithm for patients referred for consideration of EET by dysplasia grade and depth of invasion. ([[acg-2022-barretts]])*
+```mermaid
+flowchart TD
+    A(["Patient with BE-related<br/>neoplasia referred for EET"]) --> B["Expert pathology review"]
+    B -- "Nondysplastic BE" --> S1(["Surveillance q3–5 years"])
+    B -- "Low-grade dysplasia" --> D["Discuss risks and benefits<br/>of surveillance vs. EET"]
+    D --> S2(["Surveillance: endoscopy<br/>q6 months for one year,<br/>annually thereafter"])
+    D --> E(["EET: resection of all visible<br/>lesions followed by ablation<br/>of remaining BE epithelium.<br/>Goal: CEIM"])
+    B -- "High-grade dysplasia or<br/>intramucosal carcinoma (T1a)" --> E
+    E --> C["After achieving CEIM, enroll<br/>in surveillance program and<br/>optimize reflux control"]
+    C -- "Baseline LGD" --> L(["1 year, 3 years,<br/>then every 2 years"])
+    C -- "Baseline HGD or T1a" --> H(["3, 6, 12 months,<br/>then annually"])
+    B -- "Submucosal cancer (T1b)" --> SU(["Surgical referral<br/>for esophagectomy"])
+    B -- "Submucosal cancer (T1b)" --> CE(["Consider EET if sm1 with<br/>low-risk features (well<br/>differentiated, < 2 cm, no LVI)"])
+    class A start
+    class B,D,C test
+    class S1,S2,E,L,H,SU,CE act
+```
+*Management of BE-related neoplasia referred for EET, by histology*
+*Source: redrawn from the ACG 2022 Barrett's esophagus EET algorithm*
+*[[acg-2022-barretts|ACG 2022 Barrett's Esophagus Guideline]]*
+*BE = Barrett's esophagus · EET = endoscopic eradication therapy · CEIM = complete eradication of intestinal metaplasia · LGD = low-grade dysplasia · HGD = high-grade dysplasia · T1a = intramucosal carcinoma · T1b = submucosal cancer · sm1 = superficial submucosal invasion · LVI = lymphovascular invasion*
+
+- Procedures use high-definition white light and virtual chromoendoscopy, generally after starting twice-daily PPI. Resection precedes ablation; if resection upstages the BE, follow the branch for the most severe histology ([[acg-2022-barretts]])
 
 [[endoscopic-eradication-therapy|EET]] = resect visible lesions ([[endoscopic-mucosal-resection|EMR]]; [[endoscopic-submucosal-dissection|endoscopic submucosal dissection (ESD)]] for selected lesions), then ablate the residual flat segment ([[radiofrequency-ablation|radiofrequency ablation (RFA)]] preferred). Technique, ablation rules, outcomes, adverse events, center volume → [[endoscopic-eradication-therapy]].
 

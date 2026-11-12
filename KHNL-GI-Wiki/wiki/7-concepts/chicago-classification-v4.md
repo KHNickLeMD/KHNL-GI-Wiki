@@ -3,7 +3,7 @@ title: "Chicago Classification v4.0 — Esophageal Motility Disorders"
 category: concept
 tags: [manometry, hrm, chicago-classification, esophageal-motility, achalasia, egjoo, iem, des, dysphagia]
 created: 2026-05-16
-updated: 2026-10-04
+updated: 2026-11-12
 sources: [chicago-v4-2021-esophageal-dysmotility, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -56,8 +56,62 @@ Key advances over v3.0:
 - **Classify from the primary position** (where the 10 wet swallows were done, supine or upright); the secondary position and provocation are supportive — except EGJOO and absent contractility, which require both positions.
 - Catheter: solid-state, sensor spacing <2 cm; impedance recommended, not required. Labs starting upright should do 10 upright swallows.
 
-![[chicago-2021-ccv4-hierarchical-algorithm-27.png|700x395]]
-*Figure 3 — Chicago Classification v4.0 hierarchical classification scheme: step 1, 10 wet swallows in the primary position; step 2, secondary position + MRS/RDC. \* = manometric pattern of unclear clinical relevance; PEP = panesophageal pressurization; IBP = intrabolus pressure. ([[chicago-v4-2021-esophageal-dysmotility]])*
+**Hierarchical classification scheme** — two halves split at the first question, median IRP: abnormal → disorders of EGJ outflow; normal → disorders of peristalsis [[chicago-v4-2021-esophageal-dysmotility]]:
+
+```mermaid
+flowchart TD
+    A(["Step 1: Perform 10 wet swallows<br/>(primary position)"]) --> B["Abnormal median IRP"]
+    B -- "No" --> X(["Step 2 and disorders of<br/>peristalsis (next flowchart)"])
+    B -- "Yes" --> C["100% absent peristalsis:<br/>all swallows are either<br/>failed or premature ◊"]
+    C -- "Yes: 100% failed peristalsis<br/>without PEP" --> A1(["Achalasia I"])
+    C -- "Yes: 100% failed peristalsis<br/>with PEP in ≥20% swallows" --> A2(["Achalasia II"])
+    C -- "Yes: ≥20% swallows with premature<br/>contractions. Failed peristalsis<br/>± PEP may be present" --> A3(["Achalasia III"])
+    C -- "No" --> D(["Step 2 (if not done):<br/>Wet swallows in secondary<br/>position + MRS/RDC"])
+    D --> E["Elevated LES IRP persists<br/>in varying positions +<br/>elevated IBP/PEP ‡"]
+    E -- "Yes" --> F["Abnormal TBE or FLIP"]
+    F -- "Yes" --> G(["EGJOO * †"])
+    E -- "No" --> H(["No evidence of EGJ outflow<br/>obstruction: go to ≥20% swallows<br/>with premature contractions<br/>(next flowchart)"])
+    F -- "No" --> H
+    class A start
+    class B,C,E,F test
+    class D act
+    class A1,A2,A3,G,H,X stop
+```
+*Chicago Classification v4.0 hierarchy, part 1: disorders of EGJ outflow*
+*Source: redrawn from the Chicago Classification v4.0 hierarchical classification scheme (left half)*
+*[[chicago-v4-2021-esophageal-dysmotility|Chicago Classification v4.0 (2021)]]*
+*IRP = integrated relaxation pressure · PEP = panesophageal pressurization · MRS = multiple rapid swallows · RDC = rapid drink challenge · LES = lower esophageal sphincter · IBP = intrabolus pressurization · TBE = timed barium esophagram · FLIP = functional lumen imaging probe · EGJ = esophagogastric junction · EGJOO = EGJ outflow obstruction*
+
+```mermaid
+flowchart TD
+    P(["Normal median IRP after step 1<br/>Step 2: Wet swallows in secondary<br/>position + MRS/RDC"]) --> R["Elevated LES IRP in varying<br/>positions ± elevated IBP/PEP"]
+    R -- "Yes" --> S(["100% absent peristalsis<br/>question (previous flowchart)"])
+    R -- "No" --> T["100% failed peristalsis"]
+    T -- "Yes" --> T1(["Absent contractility"])
+    T -- "No" --> U["≥20% swallows with<br/>premature contractions"]
+    N(["No evidence of EGJ outflow<br/>obstruction (previous flowchart)"]) --> U
+    U -- "Yes" --> U1(["Distal esophageal spasm *"])
+    U -- "No" --> V["≥20% swallows with<br/>hypercontractility"]
+    V -- "Yes" --> V1(["Hypercontractile esophagus *"])
+    V -- "No" --> W["> 70% ineffective or<br/>≥50% failed swallows"]
+    W -- "Yes" --> W1(["Ineffective esophageal motility"])
+    W -- "No" --> Y(["No evidence of disorder<br/>of peristalsis<br/>Consider meal challenges<br/>based on symptom ¥"])
+    class P,N start
+    class R,T,U,V,W test
+    class Y act
+    class S,T1,U1,V1,W1 stop
+```
+*Chicago Classification v4.0 hierarchy, part 2: disorders of peristalsis*
+*Source: redrawn from the Chicago Classification v4.0 hierarchical classification scheme (right half)*
+*[[chicago-v4-2021-esophageal-dysmotility|Chicago Classification v4.0 (2021)]]*
+*IRP = integrated relaxation pressure · MRS = multiple rapid swallows · RDC = rapid drink challenge · LES = lower esophageal sphincter · IBP = intrabolus pressurization · PEP = panesophageal pressurization · EGJ = esophagogastric junction*
+
+Marks in the two flowcharts, from the source legend:
+- **\*** Manometric pattern of unclear clinical relevance; a clinically relevant conclusive diagnosis needs relevant symptoms and/or supportive testing.
+- **†** EGJ obstruction with peristaltic swallows fulfils strict EGJOO criteria and may carry features of a disorder of peristalsis: EGJOO with spastic features, with hypercontractile esophagus, with ineffective motility, or with no evidence of disordered peristalsis.
+- **‡** RDC, solid test swallows, and/or pharmacologic provocation (amyl nitrite or cholecystokinin, if available) can be used at this step to assess for obstruction.
+- **◊** Absent contractility on the 10 primary-position swallows may be achalasia if the IRP is elevated in the alternate position, with the RDC, and/or with MRS; treat as inconclusive for type I or II achalasia and evaluate further with TBE/FLIP.
+- **¥** No disorder of peristalsis or EGJ outflow but high probability of a missed EGJOO → add a solid test meal to rule out an obstructive pattern (abnormal → readdress mechanical obstruction); regurgitation or belching → post-prandial high-resolution impedance monitoring for rumination/belching disorder.
 
 ---
 

@@ -3,7 +3,7 @@ title: "Ampullary & Duodenal Adenoma"
 category: disease-script
 tags: [ampullary-adenoma, duodenal-adenoma, papilla-of-vater, endoscopic-papillectomy, fap, ercp, eus, post-ercp-pancreatitis, surveillance]
 created: 2026-06-27
-updated: 2026-11-06
+updated: 2026-11-12
 sources: [aga-2026-ampullary-neoplasms, acg-2026-adenomatous-polyposis, esge-2021-ampullary-tumors, asge-2015-ampullary-duodenal-adenomas, aga-2025-nonampullary-duodenal]
 ---
 
@@ -106,9 +106,32 @@ Adenomas of the **major duodenal papilla (ampullary adenomas)** and of the **non
 #### Diagnostic and therapeutic algorithm
 
 
-![[ampullary-2026-approach-algorithm-04.png|750x783]]
-
-*Figure 1 — The AGA pathway for a suspected ampullary lesion, from first duodenoscopy to surveillance. Each node is labelled with the Best Practice Advice that governs it; the colour key at the foot separates diagnostic/staging (blue), decision nodes (cream), therapeutic (teal), surveillance (green), multidisciplinary team and retreatment (orange) and surgical/adjunct (purple) steps. ([[aga-2026-ampullary-neoplasms]])*
+```mermaid
+flowchart TD
+    A(["Suspected ampullary lesion"]) -- "Incidental imaging or symptoms:<br/>jaundice, cholangitis, pancreatitis" --> B["Upper endoscopy: side-viewing duodenoscope<br/>≥ 6 biopsies, target ulcerated or indurated areas<br/>Avoid pancreatic orifice to reduce pancreatitis risk<br/>(BPA 1, 2)"]
+    B --> C["Malignancy confirmed on biopsy?"]
+    C -- "Yes: metastatic or invasive cancer" --> E(["MDT review: GI, surgery, oncology<br/>(BPA 6, 15)"])
+    C -- "No" --> F["Staging and assessment<br/>EUS ± MRCP, lesion size, intraductal extension<br/>Clinical features: weight loss, jaundice, ductal dilation<br/>(BPA 3)"]
+    F --> G["Intraductal extension > 1 cm?"]
+    G -- "Yes" --> G1(["Surgical consult"])
+    G -- "No or ≤ 1 cm" --> H["Contraindications to endoscopic resection?<br/>Metastases, mucosal invasion,<br/>size > 4–5 cm, limited follow-up<br/>(BPA 4, 6)"]
+    H -- "Yes" --> H1(["Surgical consult or oncology referral"])
+    H -- "No" --> J["Obstructive jaundice or cholangitis?"]
+    E --> J
+    J -- "Yes" --> J1(["Biliary drainage: ERCP + SEMS<br/>(BPA 7)"])
+    J -- "No" --> P(["Endoscopic papillectomy<br/>En bloc snare resection, no preresection sphincterotomy<br/>Submucosal injection only if lateral wall extension<br/>(BPA 8, 9)"])
+    P --> Q(["Postprocedural prophylaxis<br/>PD stent, rectal NSAIDs, LR hydration<br/>Hemostasis as needed: epinephrine, APC, clips, spray<br/>(BPA 10, 11)"])
+    Q --> R["Complete en bloc resection, ≤ 3 cm, R0?"]
+    R -- "Yes" --> S(["Surveillance: side-viewing duodenoscope<br/>(BPA 12; tracks under Surveillance below)"])
+    R -- "No: piecemeal or positive margins" --> T(["Ablation"])
+    class A start
+    class B,C,F,G,H,J,R test
+    class E,G1,H1,J1,P,Q,S,T act
+```
+*Approach to a suspected ampullary lesion, from first endoscopy to surveillance*
+*Source: redrawn from the AGA 2026 algorithm for approaching ampullary neoplasms*
+*[[aga-2026-ampullary-neoplasms|AGA 2026 Ampullary Neoplasms Clinical Practice Update]]*
+*BPA = best practice advice · MDT = multidisciplinary team · GI = gastroenterology · EUS = endoscopic ultrasound · MRCP = magnetic resonance cholangiopancreatography · ERCP = endoscopic retrograde cholangiopancreatography · SEMS = self-expandable metal stent · PD = pancreatic duct · NSAIDs = nonsteroidal anti-inflammatory drugs · LR = lactated Ringer's · APC = argon plasma coagulation · R0 = microscopically negative margins*
 
 ---
 
@@ -216,15 +239,16 @@ Endoscopic resection has lower adverse-event rates (~14%) than local surgical ex
 |---|---|---|
 | **Default** | No residual adenoma at 3 months | **3 → 6 → 12 months, then annually for at least 5 years** |
 | **Low-risk option** | Adenoma **≤3 cm** resected en bloc *or* piecemeal **with clear margins**, and a negative 3-month biopsy | Re-evaluate every **6–12 months for at least 2 years**, then every **3–5 years** |
-| **Intensified eradication** | Adenoma **>3 cm resected piecemeal**, **positive or indeterminate margins**, or **any residual adenoma** on surveillance biopsy | Add **adjunct thermal ablation and ductography**; repeat **every 2–3 months until eradication is confirmed histologically** |
-| **Immediate escalation** | **High-grade dysplasia, incomplete resection, or suspected malignancy** | **Multidisciplinary team** — gastroenterology, surgery, oncology, radiology, pathology (BPA 15). Restage with EUS and/or [[mri-mrcp\|MRCP]] when depth of invasion, intraductal extension or operative fitness is uncertain |
+| **Intensified eradication** | Adenoma **>3 cm resected piecemeal**, **positive or indeterminate margins**, or **any residual adenoma** on surveillance biopsy | Add **adjunct thermal ablation and ductography**; repeat **every 2–3 months until eradication is confirmed histologically**. **Eradication fails or cancer is suspected** → back to multidisciplinary review and surgical planning |
+| **Immediate escalation** | **High-grade dysplasia, incomplete resection, or suspected malignancy** — or, **at any time during surveillance**, biopsy, scar appearance or interval imaging suggesting recurrent dysplasia or cancer | **Multidisciplinary team** — gastroenterology, surgery, oncology, radiology, pathology (BPA 15) — and consider definitive therapy. Restage with EUS and/or [[mri-mrcp\|MRCP]] when depth of invasion, intraductal extension or operative fitness is uncertain |
 | **[[familial-adenomatous-polyposis\|FAP]]** | Always | **Individualize by ampullary, gastric and duodenal disease burden** — not a fixed interval. **6–12 months** for advanced polyposis, **3–5 years** for minimal disease |
 
-![[ampullary-2026-post-papillectomy-surveillance-07.png|750x579]]
+*Surveillance tracks after endoscopic papillectomy*
+*Source: table from the AGA 2026 figure on management after endoscopic papillectomy and BPA 12–15*
+*[[aga-2026-ampullary-neoplasms|AGA 2026 Ampullary Neoplasms Clinical Practice Update]]*
+*EUS = endoscopic ultrasound · MRCP = magnetic resonance cholangiopancreatography · FAP = familial adenomatous polyposis · BPA = best practice advice*
 
-*Figure 2 — Management after endoscopic papillectomy. The 3-month scar biopsy (top) feeds four columns: immediate escalation (red), the default surveillance schedule (green), the intensified eradication pathway (amber), and long-term modifiers (blue). ([[aga-2026-ampullary-neoplasms]])*
-
-- **Beyond 5 years is a judgement, and AGA 2026 says which way to lean:** routine surveillance beyond 5 years is **not suggested for average-risk patients after durable negative exams**, but **extend it (annual or biannual) for piecemeal resection, positive or indeterminate margins, intraductal extension, HGD, or FAP**. Where the ampulla is hard to see, **cap-assisted forward-view endoscopy can help, but a duodenoscope stays preferred**.
+- **Beyond 5 years is a judgement, and AGA 2026 says which way to lean:** late recurrence can occur but is uncommon, so continuing is individualized by recurrence risk, comorbidity and life expectancy; routine surveillance beyond 5 years is **not suggested for average-risk patients after durable negative exams**, but **extend it (annual or biannual) for piecemeal resection, positive or indeterminate margins, intraductal extension, HGD, or FAP**. Where the ampulla is hard to see, **cap-assisted forward-view endoscopy can help, but a duodenoscope stays preferred**.
 - **Why the first look matters most:** recurrence **11.8%** pooled, median **14.2 months**, and **up to two-thirds of recurrences are found at the first follow-up session**. Most recurrences fall in the first **2–3 years**; under an established protocol the vast majority were benign with no interval cancer described. ([[esge-2021-ampullary-tumors]], [[aga-2026-ampullary-neoplasms]])
 - **On recurrence, restage before treating** — endoscopic examination with biopsies, **plus EUS and MRCP**, before any therapy (strong). **Benign residual or recurrent lesions are managed endoscopically**, including [[argon-plasma-coagulation|APC]] and [[endoscopic-mucosal-resection|EMR]] (weak); pooled oncological cure with endoscopic retreatment is **80.9%** (95% CI 73–87), often over several sessions. ([[esge-2021-ampullary-tumors]])
 - Duodenal surveillance intervals: limited data — individualize.

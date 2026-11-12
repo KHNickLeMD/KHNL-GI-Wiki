@@ -3,7 +3,7 @@ title: "Eosinophilic Esophagitis"
 category: disease-script
 tags: [eoe, esophageal, dysphagia, food-impaction, eosinophil, atopic, biologic, dupilumab]
 created: 2026-05-07
-updated: 2026-11-11
+updated: 2026-11-12
 sources: [acg-2025-eoe, asge-2026-eoe-endoscopic-management-part-2, aga-2020-eoe, acg-2013-eoe, aga-2024-esophageal-immunity-infection, asge-2011-foreign-body-ingestion]
 ---
 
@@ -115,11 +115,19 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 
 ## Diagnostics
 
-![[eoe-2025-diagnosis-algorithm-06.png|700x462]]
+```mermaid
+flowchart TD
+    A(["Clinical presentation suggestive of EoE:<br/>symptoms of esophageal dysfunction ·<br/>modification and avoidance (IMPACT) behaviors ·<br/>feeding dysfunction · concomitant atopic conditions ·<br/>family history of EoE/EGID"]) --> B["EGD with biopsy:<br/>assess EREFS · assess for fibrostenosis ·<br/>obtain ≥ 6 biopsies from different esophageal<br/>levels, targeting findings of EoE"]
+    B -- "Esophageal biopsy<br/>with ≥ 15 eos/hpf" --> C["Evaluate the differential diagnosis of<br/>esophageal eosinophilia: GERD, pill esophagitis,<br/>drug hypersensitivity reactions, non-EoE EGIDs,<br/>hypereosinophilic syndrome, Crohn′s disease,<br/>achalasia, infections, connective tissue<br/>or autoimmune diseases, etc"]
+    C --> D(["Diagnosis of EoE"])
+    class A start
+    class B,C test
+    class D act
+```
 *Diagnostic algorithm for EoE*
-*Source: figure 1 of [[acg-2025-eoe]]*
-*[[acg-2025-eoe|ACG 2025: Diagnosis and Management of Eosinophilic Esophagitis]]*
-*EGD = esophagogastroduodenoscopy · EGID = eosinophilic gastrointestinal disease · EREFS = EoE Endoscopic Reference Score · GERD = [[gerd|gastroesophageal reflux disease]] · PPI = proton pump inhibitor*
+*Source: redrawn from the ACG 2025 EoE diagnostic algorithm*
+*[[acg-2025-eoe|ACG 2025 EoE Guideline]]*
+*EoE = eosinophilic esophagitis · IMPACT = imbibe fluids, modify foods, prolong meal times, avoid hard-texture foods, chew excessively, turn away tablets · EGID = eosinophilic gastrointestinal disease · EGD = esophagogastroduodenoscopy · EREFS = EoE Endoscopic Reference Score · eos/hpf = eosinophils per high-power field · GERD = gastroesophageal reflux disease*
 
 ### Endoscopy with Biopsies (required)
 
@@ -146,11 +154,52 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 
 ## Therapeutics
 
-![[eoe-2025-management-algorithm-09.png|700x393]]
-*Management algorithm for EoE — anti-inflammatory therapy for all, with fibrostenosis assessed in parallel and shared decision-making between pharmacologic and dietary routes*
-*Source: figure 3 of [[acg-2025-eoe]]*
-*[[acg-2025-eoe|ACG 2025: Diagnosis and Management of Eosinophilic Esophagitis]]*
-*EoE = eosinophilic esophagitis · PPI = proton pump inhibitor · EREFS = EoE Endoscopic Reference Score*
+```mermaid
+flowchart TD
+    A(["EoE diagnosis established"]) --> T(["Treat inflammation and assess<br/>for fibrostenosis in all patients"])
+    T --> AI["Anti-inflammatory treatment:<br/>pharmacologic or diet elimination<br/>(shared decision making)"]
+    AI -- "Pharmacologic" --> P(["PPI"])
+    AI -- "Pharmacologic" --> TS(["Topical steroids"])
+    AI -- "Diet elimination" --> EE(["Empiric elimination"])
+    P --> R1["Assess response"]
+    TS --> R1
+    EE --> R1
+    R1 -- "Response" --> M(["Maintenance therapy and<br/>long-term monitoring"])
+    R1 -- "Non-response" --> DU(["Dupilumab"])
+    R1 -- "Non-response" --> CM(["Change or modify<br/>prior treatments"])
+    DU --> R2["Assess response"]
+    CM --> R2
+    R2 -- "Response" --> M
+    R2 -- "Non-response" --> CM
+    class A start
+    class AI,R1,R2 test
+    class T,P,TS,EE,DU,CM,M act
+```
+*EoE management: anti-inflammatory treatment and response assessment*
+*Source: redrawn from the ACG 2025 EoE management algorithm*
+*[[acg-2025-eoe|ACG 2025 EoE Guideline]]*
+*EoE = eosinophilic esophagitis · PPI = proton pump inhibitor*
+
+```mermaid
+flowchart TD
+    R(["Assess response"]) <--> F["Fibrostenosis reassessment"]
+    F <--> S["Stricture or narrowing present"]
+    S --> D(["Dilation"])
+    D -- "Goal diameter of 16–18 mm" --> S
+    class R start
+    class F,S test
+    class D act
+```
+*EoE management: the parallel fibrostenosis arm*
+*Source: redrawn from the ACG 2025 EoE management algorithm*
+*[[acg-2025-eoe|ACG 2025 EoE Guideline]]*
+
+- **Algorithm notes** ([[acg-2025-eoe]]):
+  - Anti-inflammatory treatment is needed in all patients even if dilation is performed; dilation can come before concomitant anti-inflammatory treatment if a critical stricture is present
+  - Empiric elimination: consider a less restrictive diet to start
+  - Assess response with symptoms, endoscopic findings with EREFS, and histology including a quantified eosinophil count
+  - Dupilumab patients generally should be PPI non-responders or PPI-intolerant; consider early dupilumab if moderate to severe asthma or eczema is present, after relevant subspecialist consultation
+  - Changing or modifying treatment can mean changing medication, dose or formulation, moving to a more restrictive diet, or a clinical trial
 
 ### Treatment Goals
 
@@ -181,7 +230,7 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 ### Adjunct: Esophageal Dilation
 
 - **Indication:** fibrostenotic EoE + dysphagia despite adequate anti-inflammatory therapy
-- **Goal diameter:** **16–18 mm** (adults/adolescents) ([[acg-2025-eoe]] Figure 3)
+- **Goal diameter:** **16–18 mm** (adults/adolescents) ([[acg-2025-eoe]])
 - **Safety:** clinical improvement 95%; perforation <0.5%; hospitalization <1%
 - **ALWAYS pair with anti-inflammatory therapy** — dilation does not treat EoE
 - Technique: start conservative; work to "dilation effect" (mucosal disruption); use multiple sessions if needed

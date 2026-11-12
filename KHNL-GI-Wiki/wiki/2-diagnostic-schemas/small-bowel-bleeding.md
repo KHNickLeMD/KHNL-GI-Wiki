@@ -3,7 +3,7 @@ title: "Small Bowel Bleeding"
 category: diagnostic-schema
 tags: [small-bowel, gi-bleeding, obscure-gi-bleeding, mid-gi-bleeding, capsule-endoscopy, deep-enteroscopy, angioectasia, vce, dbe, iron-deficiency-anemia]
 created: 2026-05-19
-updated: 2026-10-30
+updated: 2026-11-12
 sources: [acg-2015-small-bowel-bleeding, aga-2020-ida, asge-2017-small-bowel-bleeding]
 ---
 
@@ -17,9 +17,9 @@ sources: [acg-2015-small-bowel-bleeding, aga-2020-ida, asge-2017-small-bowel-ble
   - [[#Previously Delisted Causes]]
 - [[#Diagnostic Algorithm]]
   - [[#Step 1: Confirm Small Bowel Origin]]
-  - [[#Step 2: Small Bowel Evaluation (Figure 1 Algorithm)]]
-  - [[#Step 3: Brisk or Massive Overt Bleeding (Figure 2 Algorithm)]]
-  - [[#Step 4: Sub-Acute Ongoing Bleeding (Figure 3 Algorithm)]]
+  - [[#Step 2: Small Bowel Evaluation]]
+  - [[#Step 3: Brisk or Massive Overt Bleeding]]
+  - [[#Step 4: Sub-Acute Ongoing Bleeding]]
 - [[#Key Tests]]
   - [[#Video Capsule Endoscopy (VCE)]]
   - [[#Push Enteroscopy]]
@@ -114,7 +114,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 4. **Push enteroscopy** may be used as a second-look exam — reaches distal duodenum and proximal jejunum (~70 cm distal to Treitz; only 45–60 cm when a pediatric colonoscope is used instead of a dedicated push enteroscope). *(Conditional/Moderate)*
    - Useful because ~25% of "SBB" lesions are within reach of standard upper endoscopy.
 
-### Step 2: Small Bowel Evaluation (Figure 1 Algorithm)
+### Step 2: Small Bowel Evaluation
 
 **Branch A — No suspected obstruction:**
 
@@ -131,10 +131,25 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 - If positive → further evaluation warranted → push/deep enteroscopy ± surgery.
 - If negative (no obstruction confirmed) → proceed to VCE.
 
-### Step 3: Brisk or Massive Overt Bleeding (Figure 2 Algorithm)
+### Step 3: Brisk or Massive Overt Bleeding
 
-![[small-bowel-bleeding-2015-brisk-algorithm-04.png|700x395]]
-*Figure 2 — Algorithm for brisk or massive suspected small bowel bleeding. ([[acg-2015-small-bowel-bleeding]])*
+```mermaid
+flowchart TD
+    A(["Brisk/massive suspected<br/>small bowel bleeding"]) --> B(["Stabilize patient"])
+    B --> C["Red cell scan or<br/>CT angiography"]
+    B -- "Unstable" --> D["Angiography"]
+    C -- "Positive" --> D
+    C -- "Negative" --> S(["Specific management:<br/>enteroscopy vs surgery and<br/>intraoperative enteroscopy"])
+    D -- "Positive" --> E(["Embolization"])
+    D -- "Negative" --> S
+    class A start
+    class C,D test
+    class B,S,E act
+```
+*Brisk or massive suspected small bowel bleeding*
+*Source: redrawn from the ACG 2015 small bowel bleeding algorithm for brisk or massive bleeding*
+*[[acg-2015-small-bowel-bleeding|ACG 2015 Small Bowel Bleeding Guideline]]*
+*CT = computed tomography*
 
 1. Stabilize patient hemodynamically.
 2. If hemodynamically **unstable**: conventional **angiography emergently**. *(Strong/Low)*
@@ -145,15 +160,26 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 7. **Provocative angiography** only for ongoing overt bleeding after negative VCE, DBE, and CT. *(Conditional/Very Low)*
 8. In younger patients with negative VCE and enterography: **Meckel's scan** (⁹⁹ᵐTc-pertechnetate). *(Conditional/Very Low)*
 
-### Step 4: Sub-Acute Ongoing Bleeding (Figure 3 Algorithm)
+### Step 4: Sub-Acute Ongoing Bleeding
 
-![[small-bowel-bleeding-2015-subacute-algorithm-04.png|700x426]]
-*Figure 3 — Algorithm for sub-acute ongoing suspected small bowel bleeding. ([[acg-2015-small-bowel-bleeding]])*
+```mermaid
+flowchart TD
+    A(["Sub-acute ongoing<br/>small bowel bleeding"]) --> B(["Stabilize patient"])
+    B --> C["Consider VCE vs CTE"]
+    C -- "Positive" --> D["Proceed to deep endoscopy"]
+    C -- "Negative" --> R(["Consider RBC scan and/or<br/>angiography or surgery ±<br/>intraoperative endoscopy"])
+    D -- "Positive" --> E(["Treat accordingly"])
+    D -- "Negative" --> R
+    class A start
+    class C,D test
+    class B,R,E act
+```
+*Sub-acute ongoing suspected small bowel bleeding*
+*Source: redrawn from the ACG 2015 small bowel bleeding algorithm for sub-acute ongoing bleeding*
+*[[acg-2015-small-bowel-bleeding|ACG 2015 Small Bowel Bleeding Guideline]]*
+*VCE = video capsule endoscopy · CTE = computed tomographic enterography · RBC = red blood cell*
 
-1. Stabilize patient.
-2. Consider **VCE vs. CTE** (VCE if no obstruction; CTE if obstruction suspected or IBD).
-3. If positive → deep enteroscopy.
-4. If negative → consider RBC scan and/or angiography or surgery ± IOE.
+- **VCE vs CTE:** VCE if no obstruction; CTE if obstruction suspected or IBD.
 
 ---
 

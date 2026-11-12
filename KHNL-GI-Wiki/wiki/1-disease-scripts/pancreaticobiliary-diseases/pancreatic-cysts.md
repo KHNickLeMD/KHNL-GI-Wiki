@@ -42,8 +42,52 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 - Majority are incidentally found side-branch IPMNs
 - Estimated malignancy probability at time of imaging: 0.25% (Surveillance, Epidemiology, and End Results [SEER] database); conversion rate to invasive cancer: 0.24% per year
 
-![[pancreatic-cysts-2018-approach-algorithm-05.png|700x512]]
-*Figure 1 — Approach to a patient with a pancreatic cyst. EUS, [[endoscopic-ultrasound|endoscopic ultrasound]]; FNA, fine-needle aspiration; IPMN, intraductal papillary mucinous neoplasm; MCN, mucinous cystic neoplasm. ([[acg-2018-pancreatic-cysts]])*
+```mermaid
+flowchart TD
+    S(["Cyst seen on imaging"]) -- "Radiographic diagnosis of a non-neoplastic cyst<br/>or classic imaging features of a serous cystadenoma<br/>(microcystic appearance with a central stellate scar)" --> NF(["No further evaluation<br/>unless symptomatic"])
+    S --> J["Is there obstructive jaundice?<br/>Associated solid mass?"]
+    S --> P["Is there a history of pancreatitis?"]
+    J -- "Yes" --> R1(["Refer to multidisciplinary group<br/>and consider EUS ± FNA"])
+    P -- "Yes: probable pseudocyst" --> PC(["Follow clinically"])
+    P -- "Yes: concern for cystic neoplasm as a cause<br/>for acute pancreatitis (unusual cystic features<br/>or present at initial onset of AP)" --> E1(["EUS ± FNA and consider referral<br/>to a multidisciplinary group"])
+    J -- "No" --> F(["Check main duct, cyst size<br/>and duct caliber (next flowchart)"])
+    P -- "No" --> F
+    class S start
+    class J,P test
+    class R1,PC,E1,F act
+    class NF stop
+```
+*Approach to a patient with a pancreatic cyst: first branch points*
+*Source: redrawn from the ACG 2018 pancreatic cyst approach algorithm, with its footnotes*
+*[[acg-2018-pancreatic-cysts|ACG 2018 Pancreatic Cysts Guideline]]*
+*EUS = endoscopic ultrasound · FNA = fine-needle aspiration · AP = acute pancreatitis*
+
+Occasionally benign lesions can have a solid appearance; where the diagnosis is unclear, EUS ± FNA should be performed ([[acg-2018-pancreatic-cysts]]).
+
+```mermaid
+flowchart TD
+    F1(["No jaundice, solid mass or pancreatitis:<br/>are any of the following present?<br/>Main duct diameter > 5 mm<br/>Cyst ≥ 3 cm<br/>Change in main duct caliber<br/>with upstream atrophy"])
+    F1 -- "Yes" --> E2(["EUS ± FNA and consider referral<br/>to multidisciplinary group"])
+    E2 --> H["Is there main duct involvement or<br/>patulous ampulla? Cytology with<br/>high-grade dysplasia or pancreatic<br/>cancer? Mural nodule?"]
+    H -- "Yes" --> R2(["Refer to multidisciplinary group"])
+    H -- "No" --> M6(["MRI in 6 months"])
+    F1 -- "No" --> Z["What is the size<br/>of the largest cyst?"]
+    Z -- "< 1 cm" --> M2(["MRI in 2 years"])
+    Z -- "1–2 cm" --> M1(["MRI in 1 year"])
+    Z -- "2–3 cm" --> Q["Is the cyst clearly<br/>IPMN or MCN?"]
+    Q -- "Yes" --> ME(["MRI or EUS in 6–12 months"])
+    Q -- "No" --> E3["EUS ± FNA"]
+    E3 -- "IPMN/MCN" --> ME
+    E3 -- "Serous cystadenoma" --> NF2(["No further evaluation<br/>unless symptomatic"])
+    class F1 start
+    class H,Z,Q,E3 test
+    class E2,R2,M6,M2,M1,ME act
+    class NF2 stop
+```
+*Approach to a pancreatic cyst without jaundice, solid mass or pancreatitis*
+*Source: redrawn from the ACG 2018 pancreatic cyst approach algorithm*
+*[[acg-2018-pancreatic-cysts|ACG 2018 Pancreatic Cysts Guideline]]*
+*EUS = endoscopic ultrasound · FNA = fine-needle aspiration · MRI = magnetic resonance imaging · IPMN = intraductal papillary mucinous neoplasm · MCN = mucinous cystic neoplasm*
 
 **Initial questions:**
 
@@ -143,13 +187,13 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 **Intermediate Concern (Rec 10 — Conditional/VLow) — Warrant Short-Interval Surveillance (MRI or EUS±FNA at 6 months):**
 
 - New-onset or worsening diabetes mellitus (DM; ~1% of adults >50 with new-onset DM will develop pancreatic cancer within 3 years; ~2/3 of patients with pancreatic cancer have DM)
-- Rapid increase in cyst size **>3 mm/year** (Rec 10 and Table 3 both print `>`; **Figure 2's footnote and the discussion print `≥3 mm/year`** — the surveillance table below follows Figure 2)
+- Rapid increase in cyst size **>3 mm/year** (Rec 10 and Table 3 both print `>`; **the surveillance algorithm's footnote and the discussion print `≥3 mm/year`** — the surveillance table below follows the algorithm)
 
 ---
 
 ## Differential Diagnosis
 
-*No diagnostic schema covers the incidentally found pancreatic cyst — the workup algorithm for this page is Figure 1 under [[#Establishing the Diagnosis]] above.*
+*No diagnostic schema covers the incidentally found pancreatic cyst — the workup algorithm for this page is the pair of flowcharts under [[#Establishing the Diagnosis]] above.*
 
 | Cyst Type | Key Distinguishing Feature | Cancer Risk |
 |---|---|---|
@@ -255,17 +299,19 @@ Indicated when diagnosis is unclear and results are likely to alter management. 
 
 ⚠ **For IPMN specifically, the newer [[iap-2024-kyoto-ipmn|IAP 2024 Kyoto guideline]] sets different intervals and governs** (same tier, newer publication date): three size bands of **<20 mm · ≥20 and <30 mm · ≥30 mm**, with 6-month then 18-month, 6-month ×2 then 12-month, and 6-monthly imaging respectively — and it permits **stopping** for a stable cyst <20 mm with no worrisome features after 5 years, which ACG 2018 declines to endorse (Rec 16 below). The ACG table here remains the protocol for **MCN and the other cyst types**. Full IPMN protocol: [[intraductal-papillary-mucinous-neoplasm]].
 
-![[pancreatic-cysts-2018-surveillance-algorithm-06.png|700x484]]
-*Figure 2 — Surveillance of presumed IPMN or MCN by largest cyst size. EUS, endoscopic ultrasound; IPMN, intraductal papillary mucinous neoplasm; MCN, mucinous cystic neoplasm; MRI, magnetic resonance imaging. ([[acg-2018-pancreatic-cysts]])*
+**Surveillance intervals by largest cyst size — in absence of high-risk features:**
 
-**Surveillance intervals by largest cyst size (Figure 2) — in absence of high-risk features:**
-
-| Largest Cyst Size | Initial Surveillance Interval | If Stable | If Growth ≥3 mm/year |
+| Largest Cyst Size | Initial Surveillance Interval | If Stable Size and Appearance | If Growth ≥3 mm/year |
 |---|---|---|---|
-| <1 cm | MRI q2 years × 4 years | Consider lengthening interval | MRI or EUS±FNA within 6 months; if stable → MRI in 1 year → return to size-based |
-| 1–2 cm | MRI q1 year × 3 years | MRI q2 years × 4 years | MRI or EUS±FNA within 6 months |
-| 2–3 cm | MRI or EUS q6–12 months × 3 years | MRI q1 year × 4 years | Refer to multidisciplinary group; EUS±FNA |
-| >3 cm | Refer to multidisciplinary group; MRI alternating with EUS q6 months × 3 years | MRI alternating with EUS q year × 4 years | — |
+| <1 cm | MRI q2 years × 4 years | Consider lengthening of interval imaging | Consider shorter interval with MRI or EUS±FNA within 6 months; if stable → MRI in 1 year, then return to original surveillance based on cyst size |
+| 1–2 cm | MRI q1 year × 3 years | MRI q2 years × 4 years; if stable, consider lengthening of interval | Consider shorter interval with MRI or EUS±FNA within 6 months; if stable → MRI in 1 year, then return to original surveillance based on cyst size |
+| 2–3 cm | MRI or EUS q6–12 months × 3 years | MRI q1 year × 4 years; if stable, consider lengthening of interval | Refer to multidisciplinary group and consider EUS±FNA |
+| >3 cm | Consider referral to multidisciplinary group, and MRI alternating with EUS q6 months × 3 years | MRI alternating with EUS q year × 4 years; if stable, consider lengthening of interval | Refer to multidisciplinary group and consider EUS±FNA |
+
+*Surveillance of presumed IPMN or MCN by largest cyst size*
+*Source: table from the ACG 2018 pancreatic cyst surveillance algorithm*
+*[[acg-2018-pancreatic-cysts|ACG 2018 Pancreatic Cysts Guideline]]*
+*MRI = magnetic resonance imaging · EUS = endoscopic ultrasound · FNA = fine-needle aspiration · IPMN = intraductal papillary mucinous neoplasm · MCN = mucinous cystic neoplasm*
 
 *Note: Use the same imaging modality consistently to minimize measurement variability (kappa for MRI size agreement among radiologists only 0.59; median size difference CT vs. MRI: 1.5 mm)*
 
@@ -317,7 +363,7 @@ Note: Surgery should be performed at a tertiary referral center by experienced s
 | IPMN (all resected) | Required (Strong/VLow) |
 | IPMN with pancreatic cancer | High recurrence (17–65%); follow per pancreatic cancer guidelines |
 | IPMN with high-grade dysplasia | Recurrence 13–31%; MRI or EUS q6 months |
-| IPMN with low-/intermediate-grade dysplasia | Insufficient evidence; MRI q24 months is reasonable if no remnant IPMN; if remnant IPMN present, follow by size of largest remaining cyst (Figure 2) |
+| IPMN with low-/intermediate-grade dysplasia | Insufficient evidence; MRI q24 months is reasonable if no remnant IPMN; if remnant IPMN present, follow by size of largest remaining cyst (size-based surveillance table above) |
 | SPN | Yearly imaging for at least 5 years (Conditional/VLow) |
 
 ---

@@ -3,7 +3,7 @@ title: "Hereditary Hemochromatosis"
 category: disease-script
 tags: [hemochromatosis, iron-overload, hfe, c282y, phlebotomy, liver, hpb, genetics, ferritin, transferrin-saturation, cirrhosis, hcc, arthropathy, cardiomyopathy, endocrine]
 created: 2026-05-19
-updated: 2026-09-07
+updated: 2026-11-12
 sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld-2011-hemochromatosis]
 ---
 
@@ -153,15 +153,27 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 - SF >1,000 ng/mL → liver biopsy for fibrosis staging
 - SF >2,000 ng/mL at diagnosis → sharply elevated liver-disease and liver-cancer mortality (see [[#Prognosis]])
 
-**Algorithm**:
+**Algorithm** — all C282Y homozygotes proceed to phlebotomy; patients with cirrhosis also need hepatocellular carcinoma screening [[acg-2019-hereditary-hemochromatosis]]:
 
-1. TS <45% + normal SF → no further evaluation
-2. TS ≥45% and/or elevated SF → *HFE* genotyping (Step 2)
-3. C282Y/C282Y: SF <1,000 + normal liver function tests (LFTs) → therapeutic phlebotomy; SF >1,000 or elevated LFTs → liver biopsy
-4. C282Y/H63D, C282Y heterozygote, or non-C282Y → evaluate other liver/hematologic disorders ± liver biopsy/MRI; if elevated HIC + SF >1,000 → phlebotomy
-
-![[hemochromatosis-2019-diagnosis-treatment-algorithm-11.png|700x532]]
-*Figure 4 — Algorithm regarding the diagnosis and treatment of HH. ([[acg-2019-hereditary-hemochromatosis]])*
+```mermaid
+flowchart TD
+    A(["Target population<br/>Symptomatic · asymptomatic with<br/>ALT/AST > 35 · adult first-degree<br/>relative of HH"]) --> B["Step 1: serum transferrin iron<br/>saturation (TS) and serum ferritin (SF)"]
+    B -- "TS < 45% and normal SF" --> N(["No further evaluation"])
+    B -- "TS ≥ 45% and/or elevated SF" --> G["Step 2: HFE genotype"]
+    G -- "C282Y/C282Y homozygote:<br/>SF > 1000 μg/L or<br/>elevated liver enzymes" --> LB(["Liver biopsy for fibrosis staging<br/>and rule out concurrent<br/>liver disease"])
+    G -- "C282Y/C282Y homozygote:<br/>SF < 1000 μg/L and<br/>normal liver enzymes" --> P(["Therapeutic phlebotomy"])
+    LB --> P
+    G -- "C282Y/H63D compound heterozygote,<br/>C282Y heterozygote, or non-C282Y" --> O["Evaluate other liver/hematologic<br/>disorders ± liver biopsy/MRI"]
+    O -- "Elevated HIC +<br/>SF > 1000 μg/L" --> P
+    class A start
+    class B,G,O test
+    class LB,P act
+    class N stop
+```
+*Diagnosis and treatment of hereditary hemochromatosis*
+*Source: redrawn from the ACG 2019 hereditary hemochromatosis diagnosis and treatment algorithm*
+*[[acg-2019-hereditary-hemochromatosis|ACG 2019 Hereditary Hemochromatosis Guideline]]*
+*ALT = alanine aminotransferase · AST = aspartate aminotransferase · HH = hereditary hemochromatosis · TS = transferrin saturation · SF = serum ferritin · HFE = homeostatic iron regulator gene · MRI = magnetic resonance imaging · HIC = hepatic iron concentration*
 
 ### HFE Genotyping (Step 2)
 
@@ -213,7 +225,7 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 **C282Y homozygotes**:
 
 - Initiate treatment with SF >300 ng/mL in men or >200 ng/mL in women with TS ≥45%
-- Homozygous patients with SF within normal limits at diagnosis: low likelihood of developing clinically relevant iron overload later; may monitor with serial LFTs and SF; however, treatment still benefits (reduced cardiovascular [CV] events and extrahepatic cancers shown in retrospective study, even with SF <1,000 ng/mL)
+- Homozygous patients with SF within normal limits at diagnosis: low likelihood of developing clinically relevant iron overload later; may monitor with serial liver function tests (LFTs) and SF; however, treatment still benefits (reduced cardiovascular [CV] events and extrahepatic cancers shown in retrospective study, even with SF <1,000 ng/mL)
 - SF <1,000 ng/mL is unlikely to represent end-organ damage at time of diagnosis, but 13–35% of untreated men and 16–22% of untreated women will progress to SF >1,000 ng/mL
 
 **C282Y/H63D compound heterozygotes**:

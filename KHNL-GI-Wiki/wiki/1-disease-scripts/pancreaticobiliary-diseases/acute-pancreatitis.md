@@ -201,8 +201,22 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 **Do not use hydroxyethyl starch** ([[aga-2018-initial-management-acute-pancreatitis]] Rec 1B — conditional, very low): no mortality benefit, and **significantly more multiple organ failure** in one trial (odds ratio [OR] 3.86; 95% CI 1.24–12.04). AGA 2018's perfusion targets stand (heart rate, mean arterial pressure, central venous pressure, urine output, BUN, hematocrit — Rec 1A), but it made **no recommendation** on rate, volume, duration, or saline versus Ringer's lactate; the newer ACG 2024 rates and LR preference above govern.
 
-![[acute-pancreatitis-2024-fluid-resuscitation-algorithm-09.png|700x828]]
-*Figure 1 — Pathophysiology of fluid loss in acute pancreatitis and rationale for moderately aggressive IV hydration to prevent necrotizing progression. ([[acg-2024-acute-pancreatitis]])*
+```mermaid
+flowchart TD
+    A(["Normal pancreas"]) -- "Initial acute pancreatitis event" --> B["Edematous pancreas:<br/>fluid extravasation<br/>into the peritoneum"]
+    B -- "Increased intravascular fluid loss<br/>Decreased intravascular volume (hematocrit rises)<br/>Decreased blood flow to kidneys (BUN rises)<br/>Decreased blood flow to pancreas" --> C["Ischemic changes in the pancreas<br/>due to decreased perfusion"]
+    C --> D(["Necrotizing pancreatitis"])
+    C --> H(["Reverse with moderately aggressive<br/>intravenous hydration"])
+    H --> B
+    class A start
+    class B,C test
+    class H act
+    class D stop
+```
+*Role of moderately aggressive intravenous hydration in acute pancreatitis*
+*Source: redrawn from the ACG 2024 acute pancreatitis guideline hydration figure*
+*[[acg-2024-acute-pancreatitis|ACG 2024 Acute Pancreatitis Guideline]]*
+*BUN = blood urea nitrogen*
 
 ### 2. Pain Management
 
@@ -274,8 +288,19 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 - **Minimally invasive beats open** for debridement in a stable patient with symptomatic necrosis (Key concept 22) — open surgery carried higher mortality both emergently (**78%**) and when planned (**30%**). **Percutaneous drainage without necrosectomy** is the commonest minimally invasive route and avoids surgery about **half** the time; **endoscopic necrosectomy appeared superior to surgical** in a recent RCT.
 - **No intervention may be necessary** — many with sterile necrosis and some with infected necrosis simply improve. Individualize, and refer to a center of expertise.
 
-![[acute-pancreatitis-2024-late-management-algorithm-14.png|700x504]]
-*Figure 2 — Late management of suspected infected pancreatic necrosis: skip CT aspiration, assume infection, target antibiotics, and debride only if clinically unstable. ([[acg-2024-acute-pancreatitis]])*
+```mermaid
+flowchart TD
+    A(["Suspect infected pancreatic necrosis:<br/>typically after day 7–10<br/>Renewed pain, fever, SIRS"]) -- "Skip CT aspiration" --> B["Assume infected necrosis<br/>Use targeted antimicrobial therapy<br/>Pancreatic necrosis-penetrating antibiotics"]
+    B -- "Clinically stable" --> C(["Continue antibiotics and observe<br/>Delay minimally invasive surgical, radiologic,<br/>or endoscopic debridement 4–6 weeks<br/>In select patients who do well: no debridement"])
+    B -- "Clinically unstable" --> D(["Prompt surgical debridement"])
+    class A start
+    class B test
+    class C,D act
+```
+*Late management of suspected infected pancreatic necrosis*
+*Source: redrawn from the ACG 2024 acute pancreatitis guideline late-management algorithm*
+*[[acg-2024-acute-pancreatitis|ACG 2024 Acute Pancreatitis Guideline]]*
+*SIRS = systemic inflammatory response syndrome · CT = computed tomography*
 
 **Local complications — the four Atlanta collections.** Before 4 weeks they are unwalled (acute peripancreatic fluid collection if interstitial, acute necrotic collection if necrotizing); after ~4 weeks they encapsulate into a **pseudocyst** (no necrosis) or **walled-off necrosis (WON)**. Full radiologic definitions and which ones can be drained: [[pancreatic-fluid-collection-drainage]].
 

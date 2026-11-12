@@ -3,7 +3,7 @@ title: "Upper GI Bleeding"
 category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
-updated: 2026-10-22
+updated: 2026-11-12
 sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2020-nvugib-endoscopic-therapies]
 ---
 
@@ -104,8 +104,25 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 ## Diagnostic Algorithm
 
-![[ugib-2021-management-algorithm-09.png|700x440]]
-*Figure 2 — Initial management of patients presenting with overt upper gastrointestinal bleeding. GBS: Glasgow-Blatchford Score. ([[acg-2021-ugib]])*
+```mermaid
+flowchart TD
+    A(["Overt upper GI bleeding"]) --> R["Initial risk stratification<br/>and triage"]
+    R -- "Very-low clinical risk:<br/>risk score indicates 0–1% false<br/>negatives for transfusion, hemostatic<br/>intervention, or death<br/>(Glasgow-Blatchford Score 0–1)" --> D(["Discharge from emergency<br/>department with outpatient<br/>management if no other<br/>reason for hospitalization"])
+    R -- "Not very-low clinical risk:<br/>risk score indicates >1% false<br/>negatives for transfusion, hemostatic<br/>intervention, or death<br/>(Glasgow-Blatchford Score ≥2)" --> H(["Admit to hospital<br/>or observation unit"])
+    H --> P(["Pre-endoscopic management:<br/>resuscitation, attention to active comorbidities<br/>RBC transfusion if hemoglobin <7 g/dL<br/>suggest erythromycin 250 mg infusion<br/>30–90 minutes before upper endoscopy<br/>no recommendation for or against PPIs"])
+    P --> E["Upper endoscopy within<br/>24 hours of presentation"]
+    E -- "Low-risk findings, e.g. clean-based<br/>ulcer, nonbleeding Mallory-Weiss<br/>tear, erosions" --> X(["Discharge patient if stable<br/>vital signs and hemoglobin,<br/>and no other reason<br/>for hospitalization"])
+    E -- "Non-low-risk findings, e.g. ulcer<br/>with stigmata of hemorrhage, varices,<br/>neoplasm, Dieulafoy lesion" --> Y(["Patient remains in hospital"])
+    class A start
+    class R,E test
+    class D,H,P,X,Y act
+```
+*Initial management of overt upper GI bleeding*
+*Source: redrawn from the ACG 2021 upper GI and ulcer bleeding initial-management algorithm*
+*[[acg-2021-ugib|ACG 2021 Upper GI and Ulcer Bleeding Guideline]]*
+*GI = gastrointestinal · RBC = red blood cell · PPI = proton pump inhibitor*
+
+- **Risk score:** future risk assessment tools may be used in place of the Glasgow-Blatchford Score if they discriminate risk of transfusion, hemostatic intervention, or death with 99–100% sensitivity (0–1% false negatives) [[acg-2021-ugib]].
 
 ### Step 1: Initial Assessment and Resuscitation (Simultaneous)
 
@@ -198,17 +215,25 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 - **Read the ordering carefully — it is not monotonic.** FIb (oozing) carries a *lower* post-hemostasis rebleeding rate than FIIa (nonbleeding visible vessel); active spurting (FIa) is significantly higher than oozing. Grouping "spurting + oozing" as one active-bleeding category, as older trials did, hides this ([[acg-2025-egd-quality]]).
 - **Actionable split:** FIa / FIb / FIIa → endoscopic hemostatic therapy (QI 14, grade 1A, target >90%). FIIc / FIII → no endoscopic therapy. FIIb → irrigate vigorously to expose the underlying stigma; if the clot resists, no recommendation could be reached (see above).
 - **Definition caveat:** "the definition of oozing may vary widely among endoscopists"; some trials require continuous bleeding over 5 minutes of observation to call it active oozing ([[acg-2021-ugib]]).
-- Endoscopic appearance of each Forrest class, from [[aga-2024-upper-endoscopy-quality|American Gastroenterological Association (AGA) 2024]] Figure 2 (no Forrest figure in [[acg-2025-egd-quality|ACG/ASGE 2025]]):
-
-![[upper-endoscopy-2024-forrest-classification-06.png|700x143]]
-*Figure 2b — Forrest classification of peptic ulcers: Ia spurting bleed, Ib oozing bleed, IIa nonbleeding visible vessel, IIb adherent clot, IIc flat spot in ulcer, III clean-based ulcer. ([[aga-2024-upper-endoscopy-quality]])*
+*See Figure 2 in [[aga-2024-upper-endoscopy-quality|AGA 2024 High-Quality Upper Endoscopy]] for example images: endoscopic appearance of each Forrest class, Ia spurting bleed to III clean-based ulcer.*
 
 - **Adherent clot:** high-dose PPI alone is a reasonable option when the clot resists irrigation.
 
 ### Step 6: Choice of Endoscopic Hemostatic Therapy (Ulcer Bleeding)
 
-![[ugib-2021-endoscopic-therapy-algorithm-14.png|700x221]]
-*Figure 3 — Endoscopic and medical therapy for ulcer bleeding based on endoscopic features (Forrest classification). ([[acg-2021-ugib]])*
+| Endoscopic features | Endoscopic therapy | Medical therapy |
+|---|---|---|
+| Active bleeding or visible vessel | Endoscopic therapy | High-dose PPI therapy ᵃ |
+| Adherent clot | No recommendation for or against endoscopic therapy | High-dose PPI therapy ᵃ |
+| Flat pigmented spot | No endoscopic therapy | Standard PPI therapy ᵇ |
+| Clean base | No endoscopic therapy | Standard PPI therapy ᵇ |
+
+*Endoscopic and medical therapy for ulcer bleeding by endoscopic features of the ulcer*
+*Source: table from the ACG 2021 upper GI and ulcer bleeding endoscopic and medical therapy figure*
+*[[acg-2021-ugib|ACG 2021 Upper GI and Ulcer Bleeding Guideline]]*
+*PPI = proton pump inhibitor*
+
+ᵃ High-dose regimens (continuous or intermittent, 3 days): see [[#Step 7: Post-Endoscopic Management (Ulcer Bleeding)]]. ᵇ Standard PPI therapy (e.g. oral PPI once daily) was recommended by previous guidelines but is not assessed in [[acg-2021-ugib|ACG 2021]].
 
 *This section is the **ulcer-specific choice** of modality. Device mechanism, full settings, technique, and failure modes for every hemostatic tool live on [[endoscopic-hemostasis]].*
 

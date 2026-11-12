@@ -3,7 +3,7 @@ title: "Gastroparesis"
 category: disease-script
 tags: [gastroparesis, gastric-motility, prokinetics, g-poem, gastric-emptying, foregut]
 created: 2026-05-15
-updated: 2026-11-05
+updated: 2026-11-12
 sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, rome-v-2026-gastroduodenal-disorders, aga-2021-medically-refractory-gastroparesis, surjanhata-2025-constipation-gastroparesis]
 ---
 
@@ -151,8 +151,27 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, rome-v-2026-gastroduod
 
 ## Therapeutics
 
-![[gastroparesis-2022-management-algorithm-02.png|700x452]]
-*Figure 1 — Management algorithm for gastroparesis (updated from the 2013 ACG guideline). EGD: esophagogastroduodenoscopy; GES: gastric electrical stimulation; G-POEM: gastric per-oral endoscopic myotomy; WMC: wireless motility capsule. ([[acg-2022-gastroparesis]])*
+```mermaid
+flowchart TD
+    A(["Symptoms of gastroparesis: chronic nausea,<br/>vomiting, postprandial fullness, bloating,<br/>upper abdominal discomfort"]) --> X(["Exclude iatrogenic disease,<br/>e.g. opiate use"])
+    A --> D["Diagnosis:<br/>exclude mechanical obstruction: EGD, radiology ·<br/>4 h solid GE or ¹³C-spirulina breath test ·<br/>measurement of extra-gastric dysmotility,<br/>e.g. WMC, pan-GI scintigraphy"]
+    D --> DM(["Dietary modification:<br/>small particle, low fat,<br/>low non-digestible food"])
+    DM --> PH(["Pharmacological treatment:<br/>prokinetics: metoclopramide, erythromycin,<br/>domperidone, others ·<br/>antiemetics: histamine H1 or 5-HT3 antagonists ·<br/>pain/other symptom relief avoiding opioids,<br/>e.g. central neuromodulators"])
+    PH --> NS(["Nutritional support:<br/>enteral, rarely parenteral"])
+    NS --> NP["Non-pharmacological treatment"]
+    NP --> T1(["Pyloric injection<br/>botulinum toxin"])
+    NP --> T2(["G-POEM or<br/>laparoscopic pyloroplasty"])
+    NP --> T3(["GES"])
+    NP --> T4(["Venting gastrostomy<br/>Feeding jejunostomy"])
+    NP --> T5(["Partial gastrectomy<br/>Sleeve gastrectomy"])
+    class A start
+    class D,NP test
+    class X,DM,PH,NS,T1,T2,T3,T4,T5 act
+```
+*Gastroparesis management algorithm (updated from the 2013 ACG guideline)*
+*Source: redrawn from the ACG 2022 gastroparesis management algorithm*
+*[[acg-2022-gastroparesis|ACG 2022 Gastroparesis Guideline]]*
+*EGD = esophagogastroduodenoscopy · GE = gastric emptying · ¹³C = carbon-13 · WMC = wireless motility capsule · GI = gastrointestinal · H1 = histamine type 1 receptor · 5-HT3 = serotonin type 3 receptor · G-POEM = gastric per-oral endoscopic myotomy · GES = gastric electrical stimulation · ACG = American College of Gastroenterology*
 
 ### AGA 2025 Recommendations — What Is Actually Suggested
 

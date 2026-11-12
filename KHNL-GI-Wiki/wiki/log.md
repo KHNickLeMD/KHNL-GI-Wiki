@@ -6,6 +6,65 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-12] update | Figure licences: paywalled screenshots replaced on 40 pages
+
+**Licence check (step 2):** read the licence statement in every source PDF behind the 93 unverified page figures (Crossref metadata for corroboration).
+- CC-licensed: AGA 2023 EUS gallbladder drainage (CC BY-NC-ND 4.0);  caption now names it.
+- Unresolved: AFS 2022 EGJ integrity and AFS 2024 GE valve. The PDFs print only "© The Author(s)", but Crossref lists CC BY-NC 4.0. SAGE's page sits behind a bot check, so Nick checks in a browser. Their 11 figures (, ) stay until then.
+- Everything else is © the society or publisher (ACG, AGA, AASLD, USMSTF, EASL/Baveno, Chicago, Dallas, Padova, San Diego, AFS 2023 TIF). "Free access" is not a licence.
+
+**Replacement (step 3), 81 figures:**
+- Algorithms → redrawn house-style flowcharts. All render without errors in Mermaid 10.9.6 with the site's settings.
+- Text-like grids → Markdown tables.
+- Photos, tracings and schematics → link lines to the source figure number.
+- Figures whose content was already on the page → removed.
+- Asset files stay in  because Anki cards still use them; cards not changed (Nick, 2026-11-12).
+
+**Errors found and fixed along the way:** acute-diarrhea fever/72-hour branch, HCC BCLC table, pancreatic-cyst surveillance table, celiac gluten-challenge dose, chronic-pancreatitis "antioxidants", abnormal-liver-chemistries HBcAb IgG. Details below.
+
+C. diff, semaglutide and the first polypectomy LST figure were done by hand as samples.
+-  — ACG 2021 testing algorithm → redrawn flowchart.
+-  — AASLD 2025 Table 3 screenshot removed (already on the page as a table).
+- `polypectomy` — 13 USMSTF 2020 (Endoscopic Removal + Malignant Polyps) screenshots removed: both management algorithms → redrawn flowcharts (malignant-polyp one split at its pedunculated / non-pedunculated first branch, with algorithm notes); NICE, Kudo pit pattern and JNET 2B → tables; endoscopic photos and depth schematics (LST-G/NG, SSL features, non-lifting, AJCC depth, Haggitt, Kikuchi, specimen pinning) → link lines to the source figure numbers; SSL-feature and non-lifting facts moved into the text.
+- `achalasia` — ACG 2020 subtype HRM tracings → link line; diagnostic and treatment algorithm → redrawn flowchart from the full PDF page (the old crop had lost the "unfit for definitive therapy" box).
+- `chicago-classification-v4` — CCv4.0 hierarchical scheme → two flowcharts split at the median-IRP question, with the legend's footnotes.
+- `flip-panometry` — 5 Dallas/AGA screenshots removed: contractile-response hierarchy → flowchart; AGA tracings → link line; EGJ opening, Motility Classification v2.0 and AGA algorithm were already fully in tables, which now carry captions; inconclusive EGJ-opening row reworded to the source definition.
+- `hrm-antireflux-surgery` — Padova Classification screenshot removed; Step 1 table captioned; Step 2 flowchart converted to house style with the figure's wording.
+- `atrophic-gastritis` — AGA 2021 Figure 2 and Supplementary Figure 2 (endoscopic photos, Kimura-Takemoto/Sydney schematic) → link lines; Figure 3 management algorithm (two boxed lists) → table.
+- `familial-adenomatous-polyposis` — ACG 2026 high-risk gastric lesion photos → link line.
+- `gastric-premalignant-conditions` — ACG 2025 nondysplastic and dysplastic GPMC algorithms → redrawn flowcharts (dysplastic split at its LGD and HGD entry points).
+- `helicobacter-pylori-infection` — ACG 2024 empiric first-line and salvage regimen figures → redrawn flowcharts with the source footnotes.
+- `transoral-incisionless-fundoplication` — AFS 2023 device, plication-step and cTIF photos → link lines.
+- `acute-diarrhea` — ACG 2016 empiric-management figure → redrawn flowchart. **Error fixed:** the Step 2 text had the 72-hour split under no/low-grade fever; the figure puts it under fever ≥101°F (no/low-grade fever → loperamide directly). Removed the unsourced "treat 100–101°F as febrile (i.e. test)" advice from the callout, which also contradicted the corrected logic.
+- `acute-lower-gi-bleeding` — ACG 2023 severe-hematochezia algorithm → redrawn flowchart with its footnotes; endoscopic-treatment-by-etiology figure → table.
+- `small-bowel-bleeding` — ACG 2015 brisk/massive and sub-acute algorithms → redrawn flowcharts; "(Figure N Algorithm)" dropped from step headings.
+- `upper-gi-bleeding` — ACG 2021 initial-management algorithm → redrawn flowchart; ulcer therapy by endoscopic feature → table; AGA 2024 Forrest photos → link line.
+- `upper-endoscopy` — AGA 2024 classification-systems and biopsy-site figures → link lines.
+- `acute-pancreatitis` — ACG 2024 hydration pathophysiology and late infected-necrosis figures → redrawn flowcharts.
+- `ampullary-adenoma` — AGA 2026 approach algorithm → one redrawn flowchart (kept whole; the source has no seam); post-papillectomy figure removed and its missing cells (any-time escalation, eradication-failure escalation, beyond-5-year factors) added to the surveillance-track table.
+- `celiac-disease` — ACG 2022 diagnostic (split at its normal-diet / gluten-free-diet entry points) and monitoring algorithms → redrawn flowcharts. **Fix:** the page said ACG 2022 gives no gluten-challenge dose; the algorithm gives 3 g/day for 2 weeks, up to 6 more weeks.
+- `chronic-pancreatitis` — ACG 2020 clinicopathologic algorithm → redrawn flowchart; mechanistic algorithm → table, replacing A/B/C bullets. **Fix:** a bullet said "response to analgesics" where the figure says "pain management with antioxidants".
+- `pancreatic-cysts` — ACG 2018 approach algorithm → two flowcharts; surveillance figure removed. **Fix:** the size-based surveillance table had been incomplete against it (>3 cm growth → MDT and consider EUS±FNA; 1–2 cm growth follow-up; "consider lengthening interval" steps).
+- `barretts-esophagus` — ACG 2022 care algorithm and EET algorithm → redrawn flowcharts, plus a legend note (resect before ablating; upstaging → follow the most severe histology).
+- `functional-dyspepsia` — ACG/CAG 2017 FD treatment algorithm → redrawn flowchart.
+- `dyspepsia` — ACG/CAG 2017 undiagnosed-dyspepsia algorithm → redrawn flowchart linking to the FD ladder.
+- `eosinophilic-esophagitis` — ACG 2025 diagnostic and management algorithms → redrawn flowcharts (management split at the legend's "parallel process": anti-inflammatory vs fibrostenosis), with the figure's footnotes.
+- `gastroparesis` — ACG 2022 management algorithm → redrawn flowchart.
+- `gerd` — ACG 2021 diagnosis algorithm and management panels a/b → three redrawn flowcharts.
+- `laryngopharyngeal-symptoms` — San Diego 2025 LPS algorithm → redrawn flowchart.
+- `alcohol-associated-hepatitis` — ACG 2024 AH algorithm → two redrawn flowcharts split at its MELD branch (diagnosis under Classification; MELD/Lille management under Therapeutics).
+- `hepatocellular-carcinoma` — BCLC 2022 figure → staging-to-first-treatment and treatment-stage-migration flowcharts. **Fix:** the old BCLC table it replaces had errors against the figure (extended LT criteria under stage A instead of B, no transplant for stage B, TARE listed as a stage B alternative). Recall algorithm → flowchart, replacing a duplicate table.
+- `li-rads` — CT/MRI diagnostic-table screenshot removed (the existing table matches cell by cell); table captioned.
+- `hereditary-hemochromatosis` — ACG 2019 diagnosis/treatment algorithm → redrawn flowchart, replacing a duplicate numbered list.
+- `abnormal-liver-chemistries` — ACG 2017 borderline/mild and moderate AST/ALT algorithms → two redrawn flowcharts, replacing the Tier 1–3 lists. **Fix:** the old Tier 3 list had omitted HBcAb IgG.
+- `portal-hypertension` — Baveno VII rule-of-5 screenshot removed (every threshold already on the page); AASLD 2023 noninvasive staging figure → stage table + alternatives-to-TE cut-off table.
+- `portal-vein-thrombosis` — ACG 2020 PVT management algorithm → redrawn flowchart.
+- `defecation-disorders` — ACG 2021 evaluation algorithm screenshot → redrawn flowchart.
+- `fecal-immunochemical-test` — USMSTF 2016 FIT program process flow screenshot → redrawn flowchart with the quality measure at each step.
+- `ulcerative-colitis` — ACG 2025 acute severe UC algorithm screenshot → two flowcharts split at the source's day 0 / day 3–6 panels.
+- `reflux-testing` — AGA 2024 modified LA and Hill classification screenshots removed (the tables already hold every criterion) → link lines to the source figure.
+
+
 ## [2026-11-12] lint | Quality review (release sweep)
 
 **Scope:** Quality review step only — queue from `review-queue.py --pages`, one subagent per page, worked from the top until the run's budget cap. No ingest, no new pages.

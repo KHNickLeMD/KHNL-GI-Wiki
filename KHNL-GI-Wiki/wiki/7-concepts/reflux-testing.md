@@ -3,7 +3,7 @@ title: "Reflux Testing"
 category: concept
 tags: [gerd, reflux, ph-monitoring, impedance, manometry, endoscopy, diagnostics]
 created: 2026-05-15
-updated: 2026-10-31
+updated: 2026-11-12
 sources: [acg-2021-gerd, asge-2024-gerd, acg-2020-esophageal-physiologic-testing, aga-2024-upper-endoscopy-quality, acg-2025-egd-quality, afs-2022-egj-integrity-classification]
 ---
 
@@ -131,8 +131,7 @@ Careful endoscopic evaluation, reporting, and **photo-documentation** of the fol
 | **C** | ≥1 mucosal breaks **continuous between the tops of 2 folds**, **<75%** of the circumference |
 | **D** | ≥1 mucosal breaks continuous between the tops of 2 folds, **≥75%** of the circumference |
 
-![[upper-endoscopy-2024-la-classification-06.png|700x122]]
-*Figure 1 — Modified Los Angeles classification of erosive esophagitis, grades A–D: endoscopic view (circle) and longitudinal schematic for each grade. ([[aga-2024-upper-endoscopy-quality]])*
+*See Figure 2 in [[aga-2024-upper-endoscopy-quality|AGA 2024 Upper Endoscopy Quality]] for example images: endoscopic view and longitudinal schematic of modified LA grades A–D.*
 
 - Source: [[aga-2024-upper-endoscopy-quality|American Gastroenterological Association (AGA) 2024]] Figure 2. The [[acg-2025-egd-quality|American College of Gastroenterology (ACG)/American Society for Gastrointestinal Endoscopy (ASGE) 2025]] Figure 2 prints grade A as **≤5 mm**; the AGA panel prints **<5 mm**, so a break of exactly 5 mm is grade A in one figure and unassigned in the other.
 - The GERD guidelines ([[acg-2021-gerd]], [[asge-2024-gerd]], [[acg-2020-esophageal-physiologic-testing]]) use the grades without printing the criteria.
@@ -147,8 +146,7 @@ Careful endoscopic evaluation, reporting, and **photo-documentation** of the fol
 | **3 (III)** | GEFV barely visible; fails to close around the endoscope |
 | **4 (IV)** | GEFV absent; GEJ continuously open; hiatal hernia always present |
 
-![[upper-endoscopy-2024-hill-classification-06.png|700x134]]
-*Figure 2 — Hill classification of the gastroesophageal flap valve, grades 1–4, retroflexed view. ([[aga-2024-upper-endoscopy-quality]])*
+*See Figure 2 in [[aga-2024-upper-endoscopy-quality|AGA 2024 Upper Endoscopy Quality]] for example images: retroflexed endoscopic photos of Hill grades 1–4.*
 
 - Source: [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2. [[asge-2024-gerd]] grades the valve by Hill (written I–IV) and cites the original paper without reproducing the criteria.
 - **Decision-bearing:** **hiatal hernia ≤2 cm + Hill I/II** vs **>2 cm + Hill III/IV** routes the patient between endoscopic and surgical antireflux therapy ([[asge-2024-gerd]]) — pathway on [[antireflux-surgery]].

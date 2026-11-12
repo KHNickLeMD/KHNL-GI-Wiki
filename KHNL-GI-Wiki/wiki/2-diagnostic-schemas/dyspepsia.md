@@ -3,7 +3,7 @@ title: "Dyspepsia"
 category: diagnostic-schema
 tags: [dyspepsia, functional, stomach, foregut, dgbi, test-and-treat]
 created: 2026-05-16
-updated: 2026-11-05
+updated: 2026-11-12
 sources: [acg-cag-2017-dyspepsia, rome-v-2026-gastroduodenal-disorders, rome-v-2026-dgbi, acg-2022-gastroparesis]
 ---
 
@@ -48,10 +48,33 @@ Dyspepsia refers to one or more of: postprandial fullness, early satiation, epig
 
 ## Diagnostic Algorithm
 
-**Undiagnosed dyspepsia (ACG/CAG 2017, Figure 1):**
+**Undiagnosed dyspepsia (ACG/CAG 2017):**
 
-![[dyspepsia-2017-undiagnosed-algorithm-09.png|700x393]]
-*Figure 1 — Algorithm for the management of undiagnosed dyspepsia. ([[acg-cag-2017-dyspepsia]])*
+```mermaid
+flowchart TD
+    A(["Adult dyspepsia patient"]) -- "≥ 60 years of age" --> B["Endoscopy"]
+    B -- "Organic pathology" --> O(["Manage according to<br/>relevant guideline"])
+    B -- "Normal" --> FD(["Manage according to the<br/>functional dyspepsia<br/>treatment algorithm"])
+    A -- "< 60 years of age" --> C["H. pylori test and treat"]
+    C -- "Positive" --> D["H. pylori eradication"]
+    C -- "Negative" --> E["PPI"]
+    D -- "No response" --> E
+    E -- "No response" --> F["TCA or prokinetic"]
+    F -- "No response" --> G["Consider psychotherapy"]
+    D -- "Response" --> S(["Success"])
+    E -- "Response" --> S
+    F -- "Response" --> S
+    G -- "Response" --> S
+    class A start
+    class B,C,D,E,F,G test
+    class O,FD,S act
+```
+*Management of undiagnosed dyspepsia*
+*Source: redrawn from the ACG/CAG 2017 undiagnosed dyspepsia algorithm*
+*[[acg-cag-2017-dyspepsia|ACG/CAG 2017 Dyspepsia Guideline]]*
+*H. pylori = Helicobacter pylori · PPI = proton pump inhibitor · TCA = tricyclic antidepressant*
+
+- Functional dyspepsia treatment algorithm → [[functional-dyspepsia#The Sequential Ladder]]
 
 1. **Age ≥60** (ACG/CAG 2017 Statement 1, Cond/Very Low) → EGD to exclude upper GI neoplasia. Lower threshold if high-risk (childhood in high–gastric cancer (GC)–incidence country, family history upper GI malignancy) [[acg-cag-2017-dyspepsia]].
 2. **Age <60 + alarm features** (Statement 2, Cond/Moderate) → Do **NOT** automatically scope; alarm features have low positive predictive value (PPV). Pooled across 7 studies / 46,011 patients: **sensitivity 0.67 (0.54–0.83), specificity 0.66 (0.55–0.79)** against a **0.3% pre-test probability** of upper GI cancer; individual features (weight loss, anemia, dysphagia) carry a **positive likelihood ratio (LR) of only 2.74 (1.47–5.24)** — a 2–3× relative risk on a very small baseline, so absolute risk stays **<1%** under 60. Use case-by-case clinical judgment. Prominent features (e.g., weight loss >20 lb, rapidly progressive [[dysphagia]]) or combinations warrant EGD.
@@ -96,7 +119,7 @@ flowchart TD
 
 ### Functional Dyspepsia (post-EGD with no structural lesion)
 
-A normal EGD closes this schema and opens the FD page. **ACG/CAG 2017 Statements 7–14 — the eradication → PPI → TCA → prokinetic → psychological-therapy ladder, its grades, effect sizes and stopping rules, the treatment algorithm figure, and the motility-testing rules — are on [[functional-dyspepsia]].**
+A normal EGD closes this schema and opens the FD page. **ACG/CAG 2017 Statements 7–14 — the eradication → PPI → TCA → prokinetic → psychological-therapy ladder, its grades, effect sizes and stopping rules, the treatment flowchart, and the motility-testing rules — are on [[functional-dyspepsia]].**
 
 - One ordering point worth carrying across: **in FD the guideline puts TCA before prokinetic**, whereas Statements 5–6 above state no preference between them in uninvestigated dyspepsia.
 

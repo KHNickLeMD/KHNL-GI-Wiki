@@ -3,7 +3,7 @@ title: "HRM Before and After Antireflux Surgery (Padova Classification)"
 category: concept
 tags: [HRM, antireflux-surgery, fundoplication, GERD, esophageal-manometry, EGJ, Padova-classification, PFOO, pseudoachalasia]
 created: 2026-05-15
-updated: 2026-10-04
+updated: 2026-11-12
 sources: [padova-2025-hrm-antireflux]
 ---
 
@@ -81,9 +81,6 @@ sources: [padova-2025-hrm-antireflux]
 
 ## The Padova Classification
 
-![[padova-2025-padova-classification-04.png|700x653]]
-*Figure 1 — Padova Classification: HRM assessment of anatomy (top) and physiology (bottom) after an antireflux procedure. n.v. = normal value; ULN = upper limit of normal. Note: the figure's two separation branches are labelled the reverse of the source text — see Step 1. ([[padova-2025-hrm-antireflux]])*
-
 ### Step 1: Anatomy — LES–CD Separation
 
 | Finding | Neo-LES basal pressure | Interpretation |
@@ -93,8 +90,13 @@ sources: [padova-2025-hrm-antireflux]
 | HPZ ≥1 cm **above** CD (neo-LES–fundoplication complex migrated into chest) | Low | **Disrupted fundoplication with herniation** |
 | HPZ ≥1 cm **above** CD | Normal | **Intrathoracic (herniated) wrap**, not disrupted |
 
-- Table follows the classification text and discussion. Figure 1 places "slipped" under HPZ-above-CD and the basal-pressure split under HPZ-below-CD.
-- Threshold written ≥1 cm in the text, >1 cm in the figure and discussion.
+*Padova Classification, anatomy after an antireflux procedure*
+*Source: table from the Padova 2025 classification text*
+*[[padova-2025-hrm-antireflux|Padova Consensus 2025 HRM After Antireflux Surgery]]*
+*LES = lower esophageal sphincter · CD = crural diaphragm · HPZ = high-pressure zone*
+
+- Table follows the classification text and discussion. The Padova Figure 1 algorithm places "slipped" under HPZ-above-CD and the basal-pressure split under HPZ-below-CD.
+- Threshold written ≥1 cm in the text, >1 cm in the Figure 1 algorithm and discussion.
 - **Slipped fundoplication** — dual HPZ: upper HPZ relaxes normally; distal HPZ (crus + slipped wrap) is generally a uniform pressure band (median 7, **80%**). Example tracing: native LES (proximal HPZ) above the wrap (distal HPZ, at gastric-body level); distal HPZ neither relaxes nor varies with respiration; PIP above the distal HPZ.
 - **Intrathoracic fundoplication** — dual HPZ: lower HPZ (crus) shows the expected respiratory pattern, as in surgery-naive hiatal hernia; upper HPZ (herniated wrap around native LES) may relax with swallowing (median 7, **81%**). PIP at the distal HPZ.
 
@@ -102,19 +104,27 @@ sources: [padova-2025-hrm-antireflux]
 
 ```mermaid
 flowchart TD
-    A["No LES–CD separation"] --> B{"Neo-LES basal pressure"}
-    B -->|"Low"| C["Disrupted or ineffective procedure"]
-    C --> R["Ambulatory reflux monitoring<br/>(if reflux-type symptoms)"]
-    B -->|"High"| P["PFOO<br/>(tight wrap or crural repair)"]
-    B -->|"Normal"| D{"Elevated IRP?"}
-    D -->|"Yes"| P
-    D -->|"No"| E{"100% failed peristalsis?"}
-    E -->|"Yes"| F["Absent contractility"]
-    F -->|"Present before ARS"| G["Pre-existing absent contractility"]
-    F -->|"New"| H["Pseudoachalasia or missed achalasia<br/>(particularly if IRP at ULN)"]
-    E -->|"No"| I["Expected findings after fundoplication"]
+    A(["No separation (>1 cm)<br/>between LES–CD"]) --> B["LES basal pressure"]
+    B -- "Low" --> C(["Disrupted or<br/>ineffective procedure"])
+    C --> R(["Ambulatory reflux monitoring<br/>(if reflux-type symptoms present)"])
+    B -- "High" --> P(["Tight wrap or crural<br/>repair (PFOO)"])
+    B -- "Normal value" --> D["Elevated IRP"]
+    D -- "Yes" --> P
+    D -- "No" --> E["100% failed peristalsis"]
+    E -- "Yes" --> F["Absent contractility"]
+    F -- "Pre-existing" --> G(["Absent contractility"])
+    F -- "New" --> H(["Pseudo-achalasia or<br/>missed achalasia<br/>(particularly if ULN IRP)"])
+    E -- "No" --> I(["Expected findings<br/>following fundoplication"])
     I --> R
+    class A start
+    class B,D,E,F test
+    class R act
+    class C,P,G,H,I stop
 ```
+*Padova Classification, physiology after an antireflux procedure with no LES–CD separation*
+*Source: redrawn from the Padova 2025 classification algorithm (physiology panel)*
+*[[padova-2025-hrm-antireflux|Padova Consensus 2025 HRM After Antireflux Surgery]]*
+*LES = lower esophageal sphincter · CD = crural diaphragm · PFOO = post-fundoplication outflow obstruction · IRP = integrated relaxation pressure · ULN = upper limit of normal*
 
 - Ambulatory reflux monitoring after expected findings → if clinically indicated for recurrent GERD.
 - Absent contractility: compare with pre-ARS HRM to separate pre-existing from new.

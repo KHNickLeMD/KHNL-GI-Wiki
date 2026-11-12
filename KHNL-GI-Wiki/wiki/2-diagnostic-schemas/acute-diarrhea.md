@@ -3,7 +3,7 @@ title: "Acute Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, acute, dysentery, loperamide, antibiotic, prevention]
 created: 2026-05-19
-updated: 2026-10-12
+updated: 2026-11-12
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2020-probiotics, acg-2021-cdiff]
 ---
 
@@ -108,10 +108,35 @@ Acute diarrhea is defined as an increase in stool frequency or looseness above t
 
 ## Diagnostic Algorithm
 
-The ACG 2016 management algorithm (Figure 1) stratifies by stool character, illness severity, travel association, fever, and duration. [[acg-2016-acute-diarrhea]]
+The ACG 2016 management algorithm stratifies by stool character, illness severity (definitions in [[#Severity Classification (ACG 2016)]]), travel association, fever, and duration. [[acg-2016-acute-diarrhea]]
 
-![[acute-diarrhea-2016-empiric-approach-02.png|700x521]]
-*Figure 1 — Approach to empiric therapy and diagnostic-directed management of the adult with acute diarrhea. ([[acg-2016-acute-diarrhea]])*
+```mermaid
+flowchart TD
+    A(["≥3 unformed stools in 24 h<br/>plus an enteric symptom"]) --> B(["Oral fluid therapy for all cases:<br/>fluid and salt intake<br/>Food: soups, broths, saltine crackers,<br/>broiled and baked foods"])
+    B -- "Watery diarrhea" --> S["Illness severity"]
+    S -- "Mild" --> H(["Hydration only<br/>may use loperamide 4 mg initially<br/>to control stooling"])
+    S -- "Moderate-to-severe,<br/>travel-associated" --> AB(["Antibiotic therapy<br/>(Table 4)"])
+    S -- "Moderate-to-severe,<br/>non-travel-associated" --> F["Fever"]
+    F -- "No or low-grade<br/>(≤100°F)" --> L(["Consider ≤48 h of<br/>loperamide therapy"])
+    F -- "Fever (≥101°F)" --> D["Duration"]
+    D -- "<72 h" --> L
+    D -- "≥72 h" --> M(["Consider microbiologic<br/>assessment"])
+    B -- "Dysenteric diarrhea<br/>(grossly bloody stools)" --> G["Fever and severity"]
+    G -- "No or low-grade<br/>fever (≤100°F)" --> MD(["Microbiologic assessment, then<br/>antimicrobial agent directed to cause<br/>for all but STEC infection"])
+    G -- "Severe illness with fever (≥101°F),<br/>single case (not outbreak),<br/>non-travel-associated" --> M
+    G -- "Severe illness with fever (≥101°F),<br/>single case (not outbreak),<br/>travel-associated" --> Z(["Empiric azithromycin<br/>1 g single dose OR<br/>500 mg once daily for 3 days"])
+    M --> Z
+    L -- "Persistent (14–30 days)" --> P(["Culture and/or culture-independent<br/>microbiologic assessment, then<br/>antimicrobial agent directed to cause"])
+    M -- "Persistent (14–30 days)" --> P
+    Z -- "Persistent (14–30 days)" --> P
+    class A start
+    class S,F,D,G test
+    class B,H,AB,L,M,MD,Z,P act
+```
+*Empiric therapy and diagnostic-directed management of the adult with acute diarrhea (suspected infectious cause)*
+*Source: redrawn from the ACG 2016 acute diarrheal infections algorithm*
+*[[acg-2016-acute-diarrhea|ACG 2016 Acute Diarrheal Infections Guideline]]*
+*STEC = Shiga toxin-producing Escherichia coli*
 
 ### Step 1: All Cases — Oral Hydration
 
@@ -133,12 +158,12 @@ All patients: hydrate with fluids and salt (water, juices, sports drinks, soups,
 
 **Moderate-to-severe illness, non-travel-associated:**
 
-- Low/no fever (≤100°F):
-  - Duration <72 h: consider ≤48 h loperamide therapy
+- No or low-grade fever (≤100°F): consider ≤48 h of loperamide therapy
+- Fever (≥101°F):
+  - Duration <72 h: consider ≤48 h of loperamide therapy
   - Duration ≥72 h: consider microbiologic assessment
-- Fever ≥101°F: consider microbiologic assessment
 
-> ⚠ **The 100–101°F band is undefined in the guideline.** [[acg-2016-acute-diarrhea|ACG 2016]]'s algorithm branches on *"no or low-grade fever (≤100°F)"* vs *"fever (≥101°F)"* and never says which arm a temperature of 100.1–100.9°F takes. In practice the safe reading is to treat the intermediate band as febrile (i.e. test) when other severity features are present.
+> ⚠ **The 100–101°F band is undefined in the guideline.** [[acg-2016-acute-diarrhea|ACG 2016]]'s algorithm branches on *"no or low-grade fever (≤100°F)"* vs *"fever (≥101°F)"* and never says which arm a temperature of 100.1–100.9°F takes.
 >
 > **Unit note:** the ACG thresholds above are in °F. The **≥38.5°C** figure used later for returning travelers comes from [[idsa-2017-infectious-diarrhea|IDSA 2017]] — a *different* guideline and population, and **not** the same cutoff (38.5°C ≈ 101.3°F). Don't cross-apply them.
 

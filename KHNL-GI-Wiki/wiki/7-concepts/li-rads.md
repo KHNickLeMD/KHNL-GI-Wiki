@@ -3,7 +3,7 @@ title: "LI-RADS"
 category: concept
 tags: [li-rads, hcc, liver, imaging, mri, ct, ceus, surveillance, cirrhosis, hpb]
 created: 2026-06-01
-updated: 2026-10-28
+updated: 2026-11-12
 sources: [aasld-2023-hcc, acg-2024-focal-liver-lesions, nccn-2026-hcc, acr-2018-li-rads-ct-mri-core, acr-2024-li-rads-us-surveillance-core, acr-li-rads-lexicon]
 ---
 
@@ -60,14 +60,16 @@ Four major features drive categorization; size is the fifth axis, because imagin
 
 Read down the two APHE columns, across to the observation size, then down to the count of **additional** major features (enhancing capsule, nonperipheral washout, threshold growth). This is the grid that assigns LR-3, LR-4, and LR-5.
 
-![[hcc-2023-lirads-ct-mri-diagnostic-table-10.png|780x300]]
-*Figure 1 — LI-RADS CT/MRI Diagnostic Table: categorization of liver observations in at-risk patients. Reprinted by AASLD with permission from the ACR Committee on LI-RADS. ([[aasld-2023-hcc]], Figure 6)*
-
 | Additional major features | No APHE, <20 mm | No APHE, ≥20 mm | Nonrim APHE, <10 mm | Nonrim APHE, 10–19 mm | Nonrim APHE, ≥20 mm |
 |---|---|---|---|---|---|
 | **None** | LR-3 | LR-3 | LR-3 | LR-3 | **LR-4** |
 | **One** | LR-3 | LR-4 | LR-4 | **LR-4 *or* LR-5** † | **LR-5** |
 | **≥ Two** | LR-4 | LR-4 | LR-4 | **LR-5** | **LR-5** |
+
+*LI-RADS CT/MRI diagnostic table for observations in at-risk patients*
+*Source: table from the AASLD 2023 HCC guidance LI-RADS classification figure (ACR Committee on LI-RADS)*
+*[[aasld-2023-hcc|AASLD 2023 HCC Guidance]]*
+*LI-RADS = Liver Imaging Reporting and Data System · LR = LI-RADS category · APHE = arterial phase hyperenhancement · CT = computed tomography · MRI = magnetic resonance imaging · ACR = American College of Radiology*
 
 † **The one split cell — nonrim APHE, 10–19 mm, exactly one additional feature.** The category turns on *which* feature it is: **LR-4 if the feature is an enhancing "capsule"**; **LR-5 if it is nonperipheral "washout" *or* threshold growth**. This is the combination rule that decides biopsy-vs-no-biopsy in the size band where it matters most.
 
