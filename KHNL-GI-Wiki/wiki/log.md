@@ -6,6 +6,37 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-12] update | Card pass — dedup, 15 new notes across 9 pages, quality review of 3 card files
+
+**Dedup:** `anki-dupes.mjs` returned 0 unjudged candidate pairs at the 0.4 threshold — nothing to merge, so the step did nothing and no ledger verdicts were written.
+
+**Unfinished page resumed first:**
+- `intraductal-papillary-mucinous-neoplasm` — card file had no `page_updated:` (left mid-page by the IAP 2024 Kyoto ingest). Finished it: 5 new notes (duct typing thresholds, the three worrisome-feature triggers for surgery, multifocal disease, the three things not done routinely, how long post-resection surveillance runs), 4 existing notes recut for the 40-word / 12-word-bullet caps, Back Extra tables added per writing rule 12. `page_updated` set.
+
+**New notes by page (guideline/consensus-sourced, newest source year first):**
+- `pancreatic-fluid-collection-drainage` — 2 (enterocutaneous fistula from combining endoscopic and percutaneous routes, averted by a percutaneous transgastric drain; the pure-endoscopic vs step-up trade-off) · [[sages-2026-walled-off-pancreatic-necrosis]]
+- `primary-biliary-cholangitis` — 1 (what suggests an autoimmune hepatitis component, and escalating anti-cholestatic therapy before immunosuppression) · [[gerussi-2026-pbc-aih-delphi]]
+- `autoimmune-hepatitis` — 1 (reassess the original biopsy rather than repeat it) · [[gerussi-2026-pbc-aih-delphi]]
+- `meckels-diverticulum` — 1 (all four conditions required before a Meckel scan) · [[acg-2015-small-bowel-bleeding]]
+- `narcotic-bowel-syndrome` — 1 (duration and the 100 mg morphine-equivalent threshold of the descriptive criteria) · [[aga-2017-opioids-in-gastroenterology]]
+- `resmetirom` — 2 (use outside the recommended liver-stiffness range; which gallstone states actually block starting it) · [[aasld-2024-resmetirom]]
+- `cryptosporidiosis` — 2 (the stool test to send; reporting, water and sexual-contact avoidance, soap over sanitizer) · [[acg-2016-acute-diarrhea]], [[idsa-2017-infectious-diarrhea]]
+- `enterotoxigenic-e-coli` — 1 (routine stool culture does not detect it; notify the laboratory) · [[idsa-2017-infectious-diarrhea]]
+
+**Pages found eligible but needing no new card** (every remaining fact owned by another page under the one-owner rule, `page_updated` bumped): `acute-pancreatitis` (SAGES 2026 modality content owned by `pancreatic-fluid-collection-drainage`), `pancreatic-cysts` (IPMN protocol now owned by `intraductal-papillary-mucinous-neoplasm`; also recut `0c1006` for the word cap).
+
+**Card quality review:**
+- `clostridioides-difficile` — 34 notes, unchanged count; 4 Back Extra tables added (severity criteria, two-step testing algorithm, first-recurrence options, household hygiene); severe-disease threshold corrected to AGA 2026's own wording (>15,000 cells/µL, with the ACG/IDSA ≥15,000 cells/mm³ form in Back Extra); duplicated Back Extra lines removed where another note owned the fact. `cards_reviewed` set.
+- `endoscopic-hemostasis` — 34 → 33 notes; `c90114` (do not wash the TC-325 site) merged into `c90113` and retired; `c90106` corrected — the 8–10 second application figure is ACG 2021, not the AGA 2020 the note is sourced to, so it moved out of the cloze into an attributed Back Extra line; 3 tables added (heater probe parameters, bipolar parameters, modality comparison). `cards_reviewed` set.
+- `cirrhosis` — started, not finished (budget). Child-Turcotte-Pugh cluster done: full scoring table and the primary-biliary-cholangitis bilirubin cut-points added as Back Extra tables, cross-note duplication removed. `cards_reviewed` deliberately left unset so it requeues.
+
+**For triage:**
+- Three cirrhosis notes (`d10006`, `d10007`, `d10008` — Child-Turcotte-Pugh) are sourced to `nccn-2026-hcc`. NCCN licensing still needs Nick's decision; the cards were left in place, not rewritten or retired.
+- `{at:}` backfill queue is empty (0 untagged notes). New notes this pass were written with their anchors, and stale anchors on `meckels-diverticulum`, `narcotic-bowel-syndrome` and `resmetirom` were repointed to the more specific new headings.
+- Remaining uncarded topic pages are the three standing deliberate skips only: `telemedicine-in-gastroenterology`, `bristol-stool-form-scale`, `peginterferon-alfa-2a`.
+- Deck rebuilt after every page: 4393 notes, build reports 0 problems. Not committed or pushed, as instructed; `occ files:scan` not run, so Nextcloud will serve the previous file until the next scheduled pass.
+
+---
 ## [2026-11-12] lint | Quality review — release sweep
 
 **Scope:** Quality review step only (`review-queue.py --pages`), worked from the top of the never-reviewed queue until the run's budget cap. `git pull --rebase` clean. No ingest, no new pages.
