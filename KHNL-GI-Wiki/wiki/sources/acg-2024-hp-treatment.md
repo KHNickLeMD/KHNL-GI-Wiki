@@ -3,7 +3,7 @@ title: "ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024
 category: source
 tags: [h-pylori, eradication, bqt, vonoprazan, pcab, clarithromycin-resistance, antibiotics, gastric, foregut]
 created: 2026-05-07
-updated: 2026-08-09
+updated: 2026-11-12
 sources: []
 ---
 
@@ -100,8 +100,27 @@ Susceptibility-guided therapy is strongly advocated before using clarithromycin-
 | Test-and-treat strategy maintained for uninvestigated dyspepsia (<55 years, no alarm features) | Strong | Moderate |
 | All patients with PUD, gastric MALT lymphoma, or after endoscopic resection of early gastric cancer: test and treat | Strong | High |
 
+## Supplementary Digital Content 1
+
+**Supplementary Table 1 — mechanisms of action, main adverse effects and clinically important drug interactions of the medications used in *H. pylori* eradication regimens.** Nine drugs/classes; the content the guideline body does not print.
+
+| Drug | Mechanism (in anti-*H. pylori* therapy) | Adverse effects | Important interactions |
+|---|---|---|---|
+| **[[proton-pump-inhibitors\|PPIs]]** (dexlansoprazole, esomeprazole, lansoprazole, omeprazole, pantoprazole, rabeprazole) | Covalent binding to H⁺/K⁺ ATPase. Acid inhibition raises activity and intragastric concentration of some antibiotics (amoxicillin, clarithromycin) **and enhances *H. pylori* replication**, increasing susceptibility. Some PPIs have weak direct anti-*H. pylori* effects | Increased risk of enteric infections incl. *C. difficile*-associated diarrhea | Azole antifungals ↓ bioavailability · velpatasvir, ledipasvir, rilpivirine, atazanavir ↓ absorption · mycophenolate ↓ absorption · several oncology tyrosine kinase inhibitors ↓ absorption · warfarin modestly ↑ (INR) · methotrexate ↓ excretion (mild) · cilostazol, citalopram, escitalopram ↑ levels |
+| **[[potassium-competitive-acid-blockers\|P-CABs]]** ([[vonoprazan]]) | Reversible competitive inhibition of K⁺ entry, blocking proton-pump activation; same downstream effect on antibiotic activity and *H. pylori* replication | Same enteric-infection risk incl. *C. difficile* | Absorption/bioavailability effects **similar to PPIs**; **no effect on CYP450-metabolized drugs** |
+| **Bismuth** | Bactericidal — accumulates on the bacterial cell wall and in the periplasmic space, inhibiting adherence to gastric mucosa and essential intracellular enzymes | Dark stools, dark tongue | Avoid bismuth **subsalicylate** with other salicylates |
+| **Amoxicillin** | Binds penicillin-binding proteins, blocking peptidoglycan cross-linking | Diarrhea (nausea/vomiting rare) · hypersensitivity in true penicillin allergy · *C. difficile* | — |
+| **Tetracycline** | Binds 16S rRNA in the 30S subunit, inhibiting protein synthesis | Abdominal discomfort, epigastric pain, diarrhea, nausea, vomiting, anorexia · photosensitivity · *C. difficile* · **dental enamel defects in children <8 y** · **pill esophagitis** · rare hepatotoxicity · **CONTRAINDICATED IN PREGNANCY** | Absorption impaired by **calcium, magnesium, iron, zinc, aluminum and dairy** |
+| **Metronidazole** | Prodrug requiring bacterial reduction (principally by RdxA); bacteriostatic via direct cytotoxicity, DNA damage, reduced cellular ATP | Nausea, vomiting, metallic taste (dysgeusia) · **disulfiram-like reaction with alcohol described** · **avoid in pregnancy** | — |
+| **Rifabutin** | Binds the β-subunit of DNA-dependent RNA polymerase, inhibiting transcription | Red/orange discoloration of urine and other body fluids · transient neutropenia at higher doses | **CONTRAINDICATED with rifabutin triple therapy** (synergistic CYP450 effects of omeprazole + rifabutin): **voriconazole, delavirdine, rilpivirine** |
+| **Clarithromycin** | Reversibly binds 23S rRNA in the 50S subunit, inhibiting protein synthesis | Taste disturbance, nausea, vomiting, diarrhea, abdominal pain · hepatotoxicity · **QT prolongation** · **avoid in pregnancy, myasthenia gravis, history of cholestatic jaundice** | ↑ simvastatin/lovastatin rhabdomyolysis, colchicine toxicity, GI bleeding on dabigatran/apixaban/rivaroxaban (CYP3A inhibition) · avoid with other QT-prolonging drugs incl. class IA & III antiarrhythmics and quetiapine |
+| **Levofloxacin** | Inhibits DNA gyrase and topoisomerases | Anorexia, nausea, vomiting, abdominal discomfort · headache, dizziness, delirium, peripheral neuropathy · **tendon rupture** · hypo- and hyperglycemia · **↑ aortic aneurysm/dissection** · QT prolongation · *C. difficile* · **avoid in pregnancy, in children, and in myasthenia gravis** | ↓ excretion of clozapine, erlotinib, ibrutinib, ropinirole, tizanidine, theophylline (CYP1A2 inhibition) · avoid with other QT-prolonging drugs · absorption impaired by calcium, magnesium, iron, zinc, aluminum and dairy |
+
+⚠ **No statement on bismuth in renal impairment** appears in either the body text or this table.
+
 ## Relevance to Wiki
 
+- Supplementary Table 1 → per-component cautions and interactions on [[bismuth-quadruple-therapy]]; the rifabutin/clarithromycin/levofloxacin contraindications and the pregnancy restrictions on [[helicobacter-pylori-infection]]
 - Major update to [[helicobacter-pylori-infection]] disease-script (replaces 2017-based treatment section)
 - Updates [[bismuth-quadruple-therapy]] concept page (now Strong recommendation)
 - Related concept pages: [[vonoprazan]], [[vonoprazan|pcab]]

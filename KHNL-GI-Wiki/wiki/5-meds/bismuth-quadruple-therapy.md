@@ -3,7 +3,7 @@ title: "Bismuth Quadruple Therapy (BQT)"
 category: med
 tags: [h-pylori, eradication, bismuth, tetracycline, metronidazole, ppi, pylera]
 created: 2026-05-07
-updated: 2026-10-19
+updated: 2026-11-12
 sources: [acg-2024-hp-treatment, acg-2017-hp-guidelines]
 ---
 
@@ -70,8 +70,6 @@ Four drugs × 14 days. **Optimized** bismuth quadruple therapy (BQT) = appropria
 
 ## Adverse Effects & Adherence
 
-*Per-drug pharmacology sits in ACG 2024's Supplementary Table 2; only what the guideline body states is captured here.*
-
 - **Minor adverse events are common but rarely stop treatment.** In a Taiwanese RCT of treatment-naive patients, **>50% reported ≥1 adverse effect** — **dark stool, fatigue, nausea, diarrhea, and dizziness each in >15%** — yet only **~5% discontinued**. European data show similarly low discontinuation. [[acg-2024-hp-treatment]]
 - **Counsel before prescribing.** ACG explicitly advises educating patients on *why* eradication matters and on the most frequent adverse effects, because **adherence is the lever** on this 4-drug, high-pill-burden regimen.
 - Named **disadvantages of BQT** vs PPI–clarithromycin triple therapy: large pill burden, relatively high frequency of minor (particularly gastrointestinal [GI]) adverse events, difficulty obtaining tetracycline and its cost, and tetracycline's relative contraindications.
@@ -81,10 +79,19 @@ Four drugs × 14 days. **Optimized** bismuth quadruple therapy (BQT) = appropria
 ## Contraindications / Cautions
 
 - **Salicylate allergy → do not give bismuth subsalicylate** (use subcitrate). [[acg-2024-hp-treatment]] Table 5/6 footnotes
-- **Tetracycline — relative contraindications** named by ACG 2024: **photosensitivity** and **women of childbearing potential**.
 - **Not** contraindicated by penicillin allergy — that is BQT's defining advantage (see Indications).
 
-> ACG 2024's body text does not give per-component contraindications beyond the above (no statement on renal impairment and bismuth, on metronidazole–alcohol, or on a pediatric age cutoff for tetracycline); see ACG 2024 Supplementary Table 2 (drug mechanisms, adverse effects, interactions) or the package inserts.
+**Per component** ([[acg-2024-hp-treatment]] Supplementary Table 1):
+
+| Component | Avoid / contraindicated in | Interactions that change prescribing |
+|---|---|---|
+| **Bismuth** | Salicylate allergy (subsalicylate form) | Do not co-administer bismuth subsalicylate **with other salicylates** |
+| **Tetracycline** | **Contraindicated in pregnancy** · children **<8 y** (dental enamel defects) · photosensitivity, women of childbearing potential (ACG body text) | Absorption impaired by **calcium, magnesium, iron, zinc, aluminum and dairy** — separate the doses |
+| **Metronidazole (nitroimidazole)** | **Avoid in pregnancy** | **Disulfiram-like reaction with alcohol** has been described |
+| **[[proton-pump-inhibitors\|PPI]]** | — | Decreased bioavailability/absorption of **azole antifungals**, **velpatasvir, ledipasvir, rilpivirine, atazanavir**, **mycophenolate**, several oncology **tyrosine kinase inhibitors**; modestly raises **warfarin** level (INR); mildly decreased **methotrexate** excretion; raises **cilostazol, citalopram, escitalopram** |
+
+- Other tetracycline adverse effects named: **pill esophagitis**, rare hepatotoxicity, GI upset, and increased risk of [[clostridioides-difficile|*C. difficile*]]-associated diarrhea (also listed for PPIs, [[potassium-competitive-acid-blockers|P-CABs]], amoxicillin and levofloxacin).
+- ⚠ **ACG 2024 gives no statement on bismuth in renal impairment** in either the body text or the supplementary table.
 
 ---
 

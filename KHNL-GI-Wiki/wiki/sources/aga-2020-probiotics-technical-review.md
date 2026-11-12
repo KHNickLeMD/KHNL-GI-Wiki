@@ -93,7 +93,7 @@ The review states an explicit **overall CoE across all critical outcomes** for e
 
 ### Scope limits worth carrying
 - **Excluded populations:** trials conducted exclusively in people with major comorbidities — cancer, HIV/AIDS, cystic fibrosis, spinal cord injury, organ failure, transplantation.
-- **Excluded interventions:** prebiotics and synbiotics (unless the non-microbial component was separately controlled); other microbiome-targeting therapies including antibiotics and [[fecal-microbiota-transplantation|fecal microbiota transplantation]] are **out of scope**.
+- **Excluded interventions:** prebiotics and synbiotics (unless the non-microbial component was separately controlled); other microbiome-targeting therapies including antibiotics and [[fmt|fecal microbiota transplantation]] are **out of scope**.
 - Only **orally ingested or rectally administered** (ulcerative colitis only) live microbes with **defined species or strain and dose** were included; comparators were placebo or standard of care.
 - Studies restricted to English-language publications.
 

@@ -126,7 +126,20 @@ CD histology is graded by **Marsh**, or by the more recent **simplified Corazza*
 | Marsh II | Lymphocytic duodenosis **+ crypt hyperplasia, without atrophy** | Same GFD consideration as Marsh I — symptomatic + elevated CD antibodies (especially EMA) |
 | Marsh III | Villous atrophy | Villous atrophy in the appropriate serologic context is what definitively confirms the diagnosis |
 
-> The grade-by-grade criteria — **Marsh IIIA / IIIB / IIIC** (partial vs subtotal vs total villous atrophy) and the **Corazza grades A / B1 / B2** — are not printed in the [[acg-2022-celiac]] text; the guideline puts them in its *Supplementary Table 1* (`links.lww.com/AJG/C755`). The primary descriptions are Marsh MN *Gastroenterology* 1992 and Corazza GR *Clin Gastroenterol Hepatol* 2007.
+**Marsh ↔ Corazza crosswalk** ([[acg-2022-celiac]] Supplementary Table 1). IEL counts are per 100 enterocytes, given as *Marsh threshold / Corazza threshold*:
+
+| Marsh | IELs (Marsh / Corazza) | Crypts | Villi | Corazza |
+|---|---|---|---|---|
+| Type 0 | <40 | Normal | Normal | — |
+| Type 1 | >40 / >25 | Normal | Normal | **Grade A** |
+| Type 2 | >40 / >25 | Hypertrophic | Normal | **Grade A** |
+| Type 3 | >40 / >25 | Hypertrophic | Partial to subtotal atrophy | **Grade B1** |
+| Type 3 | >40 / >25 | Hypertrophic | Total atrophy | **Grade B2** |
+| Type 4 | <40 | Normal | Total atrophy | — |
+
+- **Corazza collapses Marsh 1 and 2 into one grade (A)** — crypt hypertrophy without atrophy does not change the Corazza grade, so a grade A report does not tell you whether crypts were hypertrophic.
+- **Marsh 0 and Marsh 4 have no Corazza equivalent.**
+- ACG 2022's table **splits type 3 as partial–subtotal (B1) versus total (B2) atrophy and prints no IIIa / IIIb / IIIc labels** — do not map B1/B2 onto a three-way IIIa/b/c split from the table alone.
 
 Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of treated CD patients with otherwise normal villous architecture; oat consumption is the only associated factor identified.
 

@@ -3,7 +3,7 @@ title: "ACG 2022: Diagnosis and Management of Celiac Disease"
 category: source
 tags: [celiac-disease, gluten, malabsorption, small-bowel, ttg, marsh]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-11-12
 sources: []
 ---
 
@@ -81,6 +81,34 @@ Celiac disease (CD) affects ~1% of the US population and is defined as a permane
 | Insufficient evidence to recommend probiotics for or against in CD | — | Very Low |
 | **Preventive Care** | | |
 | Pneumococcal vaccination in patients with CD due to increased risk from functional hyposplenism | Conditional | Low |
+
+## Supplementary Digital Content 1
+
+### Supplementary Table 1 — Marsh ↔ Corazza crosswalk
+
+The guideline's main text defines only the low-grade lesions; the grade-by-grade criteria live here. IELs are **per 100 enterocytes**, stated as *Marsh threshold / Corazza threshold*. Based on the guideline's references 22 and 23.
+
+| Marsh | IELs (Marsh / Corazza) | Crypts | Villi | Corazza |
+|---|---|---|---|---|
+| Type 0 | <40 | Normal | Normal | — |
+| Type 1 | >40 / >25 | Normal | Normal | Grade A |
+| Type 2 | >40 / >25 | Hypertrophic | Normal | Grade A |
+| Type 3 | >40 / >25 | Hypertrophic | Partial to subtotal | Grade B1 |
+| Type 3 | >40 / >25 | Hypertrophic | Total | Grade B2 |
+| Type 4 | <40 | Normal | Total | — |
+
+- **Grade A spans Marsh types 1 and 2** (a merged cell in the source table) — crypt hypertrophy without atrophy does not change the Corazza grade.
+- **Marsh 0 and Marsh 4 have no Corazza equivalent.**
+- The table **splits type 3 only as partial–subtotal (B1) vs total (B2)** and prints **no IIIa / IIIb / IIIc labels**.
+
+### Dissents
+
+The supplement records that the guideline was developed with significant agreement between content experts and the GRADE methodologist, with **only two dissents in the whole document** — in both, a single content expert dissented and the GRADE methodologists' decision stood.
+
+| Rec | Statement | Grade | Dissenting argument |
+|---|---|---|---|
+| 1A | Recommend EGD with multiple duodenal biopsies to confirm the diagnosis in **both children and adults** with suspected celiac disease | Strong, moderate | One expert held there is **enough emerging evidence to support a non-biopsy diagnosis in adults** |
+| 3 | Suggest **against** routine use of gluten detection devices in food or bio-specimens | Conditional, low | One expert held the evidence does not show harm and there may be potential benefit, and that this should have been called an **evidence gap** rather than a recommendation against |
 
 ## Relevance to Wiki
 

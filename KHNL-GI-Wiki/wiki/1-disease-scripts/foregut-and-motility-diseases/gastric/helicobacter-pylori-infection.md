@@ -177,6 +177,11 @@ flowchart TD
 - **Rifabutin triple daily totals** (Talicia, 4 capsules t.i.d. × 14 d): omeprazole **120 mg/day** (40 mg t.i.d.), amoxicillin **3,000 mg/day** (1,000 mg t.i.d.), rifabutin **150 mg/day** (50 mg t.i.d.). Talicia is the only rifabutin regimen FDA-approved and the only one evaluated as first-line. Advantage: very low rifabutin resistance and no clarithromycin, so no pretreatment sensitivity testing is required.
 - **Vonoprazan dual therapy is NOT b.i.d. amoxicillin** — vonoprazan 20 mg b.i.d. with amoxicillin 1,000 mg **three times daily**.
 
+> [!pitfall] Check the med list before rifabutin, clarithromycin or levofloxacin
+> **Rifabutin triple is CONTRAINDICATED with voriconazole, delavirdine and rilpivirine** — omeprazole and rifabutin act synergistically on the same CYP450 isozymes. **Clarithromycin** raises the risk of simvastatin/lovastatin rhabdomyolysis, colchicine toxicity and GI bleeding on [[anticoagulation-gi-bleeding|dabigatran, apixaban or rivaroxaban]], and must not be combined with other QT-prolonging drugs. **Levofloxacin** likewise prolongs QT and reduces excretion of clozapine, erlotinib, ibrutinib, ropinirole, tizanidine and theophylline ([[acg-2024-hp-treatment]] Supplementary Table 1).
+
+- **Pregnancy narrows the choices:** tetracycline is **contraindicated**, and metronidazole, clarithromycin and levofloxacin are all **to be avoided**. Clarithromycin and levofloxacin are also to be avoided in **myasthenia gravis**, levofloxacin in **children**, and clarithromycin after **cholestatic jaundice** ([[acg-2024-hp-treatment]] Supplementary Table 1). Per-component detail for the bismuth quadruple components is on [[bismuth-quadruple-therapy]].
+
 **Regimens ACG 2024 does not endorse empirically:**
 
 - **PPI-clarithromycin triple therapy** — where clarithromycin susceptibility is unknown, **PCAB-clarithromycin triple is suggested over PPI-clarithromycin triple** (Conditional, moderate). Documented clarithromycin resistance rules out *any* clarithromycin-based regimen, PCAB- or PPI-based.

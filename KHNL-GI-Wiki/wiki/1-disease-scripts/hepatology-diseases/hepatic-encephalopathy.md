@@ -3,8 +3,8 @@ title: "Hepatic Encephalopathy"
 category: disease-script
 tags: [hepatic-encephalopathy, HE, cirrhosis, ammonia, lactulose, rifaximin, TIPS, portal-hypertension, ACLF, minimal-HE, covert-HE, overt-HE, portosystemic-shunting, brain-dysfunction, west-haven, bristol-stool-scale, sarcopenia]
 created: 2026-05-28
-updated: 2026-11-08
-sources: [acg-2026-hepatic-encephalopathy, acg-2026-preventive-care-cirrhosis, baveno-viii-2026-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy, baveno-vii-2022-portal-hypertension]
+updated: 2026-11-12
+sources: [acg-2026-hepatic-encephalopathy, acg-2026-preventive-care-cirrhosis, baveno-viii-2026-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy, baveno-vii-2022-portal-hypertension, ishen-2013-nutrition-hepatic-encephalopathy]
 ---
 
 Hepatic encephalopathy (HE) is **brain dysfunction caused by liver insufficiency and/or portosystemic shunting (PSS)**, manifesting as a spectrum of neurological/psychiatric abnormalities from subclinical alterations to coma. *HE is a continuum*, not a single entity [[aasld-easl-2014-hepatic-encephalopathy]]. HE can occur without [[cirrhosis]] when simple portosystemic shunting is present; the American College of Gastroenterology (ACG) 2026 reframes it as a **gut–brain axis disorder** ([[disorders-of-gut-brain-interaction|disorder of gut–brain interaction (DGBI)]] framing) and de-emphasizes ammonia throughout [[acg-2026-hepatic-encephalopathy]].
@@ -110,7 +110,7 @@ Every bout should be characterized along **all axes simultaneously** — the 201
 **Altered mental status in cirrhosis (Table 4, [[aasld-easl-2014-hepatic-encephalopathy]]):**
 
 - Hypoglycemia, ketoacidosis, hyperosmolar states, lactic acidosis
-- Alcohol intoxication, withdrawal, Wernicke encephalopathy (give intravenous [IV] thiamine before glucose)
+- Alcohol intoxication, withdrawal, Wernicke encephalopathy (give intravenous [IV] thiamine before glucose). Ataxia, confusion and memory loss occur in **both** HE and Wernicke's; **nystagmus, ptosis and paralysis of lateral conjugate gaze** point to Wernicke's ([[ishen-2013-nutrition-hepatic-encephalopathy]]). Parenteral thiamine is mandatory whenever it is suspected
 - Drugs (benzodiazepines, neuroleptics, opioids)
 - Neuroinfections (meningitis, encephalitis)
 - Electrolyte disorders (hyponatremia — independent risk factor for HE; hypercalcemia); hyperglycemia and sepsis can independently cause metabolic encephalopathy *or* precipitate HE
@@ -241,7 +241,8 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 - **Protein 1.2–1.5 g/kg/day** (ACG 2026, Rec 17, *strong, moderate certainty*; 2014 Rec 31, Grade I, A, 1); **critically ill patients up to 2 g/kg/day** (Key concept 22)
 - **Do NOT protein-restrict** — increases muscle breakdown and does not shorten HE (ACG 2026, Rec 20; 2014 Rec 31; consistent with [[acute-on-chronic-liver-failure]] Guidance Statement 42)
 - **BCAA supplementation when protein needs cannot be met by food alone** (ACG 2026, Rec 18, *strong, moderate certainty*; 2014 Rec 33, Grade II-2, B, 2)
-- **Daily energy 35–40 kcal/kg ideal body weight (IBW)**; small meals evenly distributed with a **late-night snack** (2014 Recs 30 & 32, Grade I, A, 1; ACG 2026, Rec 19 — late-night snack to reduce frailty and HE)
+- **Daily energy 35–40 kcal/kg ideal body weight (IBW)**; small meals evenly distributed with a **late-night snack** (2014 Recs 30 & 32, Grade I, A, 1; ACG 2026, Rec 19 — late-night snack to reduce frailty and HE). Snack content **≥50 g complex carbohydrate**, and **no daytime fast longer than 3–6 hours** ([[ishen-2013-nutrition-hepatic-encephalopathy|ISHEN 2013]] 1A)
+- **Prefer vegetable and dairy protein to meat and fish protein** in recurrent or persistent HE (ISHEN 2B) — targets and the full RFH-NPT screening tool are on [[nutrition-in-liver-disease]]
 - **Exercise** to reduce falls, lower portal pressure, and increase skeletal-muscle ammonia metabolism (ACG 2026, Rec 21, *conditional, low certainty*). Post-exercise ammonia rises are **not** associated with elevated HE risk and should not deter prescribing exercise (Key concept 24); supervise, since HE raises exercise-injury risk (Key concept 25)
 - **Assess muscle health in all HE patients including MHE/CHE** — sarcopenia/myosteatosis, strength, physical function, frailty, cardiorespiratory fitness; impaired muscle health and myosteatosis increase HE risk (Key concepts 20–21). See [[nutrition-in-liver-disease]]
 - Consider thiamine deficiency in [[alcohol-associated-liver-disease|alcohol-associated liver disease (ALD)]] and end-stage cirrhosis of any cause — **IV thiamine before IV glucose**
@@ -315,3 +316,4 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 3. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
 4. [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease]]
 5. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+6. [[ishen-2013-nutrition-hepatic-encephalopathy|The Nutritional Management of Hepatic Encephalopathy in Patients With Cirrhosis: ISHEN Consensus (2013)]]

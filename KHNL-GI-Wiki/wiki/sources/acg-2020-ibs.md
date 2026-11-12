@@ -3,7 +3,7 @@ title: "ACG Clinical Guideline: Management of Irritable Bowel Syndrome"
 category: source
 tags: [ibs, dgbi, fodmap, rifaximin, linaclotide, plecanatide, lubiprostone, alosetron, eluxadoline, tca, gut-directed-psychotherapy]
 created: 2026-05-19
-updated: 2026-09-25
+updated: 2026-11-12
 sources: []
 ---
 
@@ -104,8 +104,39 @@ First ACG clinical guideline for irritable bowel syndrome (IBS) using GRADE. 25 
 
 **IBS subtyping (Statement 7) runs on Bristol stool form, off therapy:** IBS-C = >25% Bristol Stool Form Scale (BSFS) 1–2 **and** <25% BSFS 6–7; IBS-D = >25% BSFS 6–7 **and** <25% BSFS 1–2; mixed IBS (IBS-M) = >25% of each; unclassified IBS (IBS-U) = cannot be determined. Assess with **daily diaries for 2 weeks**, while the patient is **off any therapy that could affect bowel pattern**.
 
+## Supplementary Digital Content 1
+
+*The file is named for 2018 but is this guideline's supplement.*
+
+**Supplemental Table 2 — cardiovascular risk factors to consider when evaluating a woman with IBS-C for possible [[tegaserod]] use.** This is the list the guideline's "contraindicated with more than 1 CV risk factor" gate is counted against; the body text does not print it.
+
+- History of cardiovascular disease
+- History or presence of hypertension
+- Active smoking
+- History or presence of diabetes mellitus
+- History or presence of hyperlipidemia
+- **Age >55 years at baseline**
+- **Obesity (BMI >30 kg/m² at baseline)**
+
+**Supplemental Table 1 — diagnostic accuracy of serologic and fecal testing for differentiating [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] from IBS** (with cutoffs; a summary of testing for *any* organic disease in IBS-D and chronic diarrhea, not limited to IBS-D studies).
+
+| Test | Cutoff | Sensitivity | Specificity | LR+ | LR− |
+|---|---|---|---|---|---|
+| ESR | 10–15 mm/h | 0.54–0.78 | 0.46–0.95 | 1.0–16.3 | 0.3–0.98 |
+| CRP | 5–6 mg/L | 0.73 (0.64–0.80) | 0.78 (0.58–0.91) | 3.4 (1.05–5.71) | 0.35 (0.27–0.42) |
+| Fecal lactoferrin | 4.0–7.25 µg/g | 0.79 (0.73–0.84) | 0.93 (0.63–0.99) | 11.5 (−10.7–33.8) | 0.22 (0.17–0.28) |
+| Fecal calprotectin | 24.3–30 µg/g | 0.92–0.98 | 0.96–0.98 | 28–59 | 0.01–0.07 |
+| Fecal calprotectin | 50–60 µg/g | 0.81 (0.75–0.86) | 0.87 (0.78–0.92) | 6.12 (2.75–9.49) | 0.21 (0.14–0.28) |
+| Fecal calprotectin | 100–164 µg/g | 0.64 (0.49–0.77) | 0.90 (0.72–0.97) | 6.23 (1.28–13.75) | 0.4 (0.21–0.58) |
+
+*LR+ = positive likelihood ratio · LR− = negative likelihood ratio · ESR = erythrocyte sedimentation rate · CRP = C-reactive protein.* Modified by permission from the guideline's reference 40.
+
+⚠ **The calprotectin bands are the decision content here:** a cutoff around **25–30 µg/g** is what gives the near-complete rule-out (LR− 0.01–0.07); at **100–164 µg/g** sensitivity falls to 0.64 and a negative result no longer excludes IBD.
+
 ## Relevance to Wiki
 
+- Supplemental Table 2 → the risk-factor list behind the tegaserod gate on [[tegaserod]]
+- Supplemental Table 1 → calprotectin/lactoferrin cutoff performance for [[irritable-bowel-syndrome]] and [[chronic-diarrhea]]
 - Anchors the [[irritable-bowel-syndrome]] disease script (Rome IV criteria, subtypes by BSFS, positive diagnostic strategy, full therapeutic ladder)
 - Creates/touches: [[linaclotide]], [[plecanatide]], [[lubiprostone]] (cross-listed in chronic idiopathic constipation [CIC]), [[rifaximin]], TCA considerations
 - Cross-references: [[disorders-of-gut-brain-interaction]] (Rome IV/V framework), [[celiac-disease]] (serology in IBS-D), [[crohns-disease]] / [[ulcerative-colitis]] (calprotectin to exclude IBD), [[dyspepsia]] (overlap), [[chronic-idiopathic-constipation]] (separates from IBS-C by pain dominance), [[defecation-disorders]] (ARM/BET in refractory IBS-C)

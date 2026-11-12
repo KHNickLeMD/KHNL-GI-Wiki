@@ -3,8 +3,8 @@ title: "Nutrition in Liver Disease"
 category: disease-script
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, masld, ald, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-11-08
-sources: [acg-2026-preventive-care-cirrhosis, acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis, borhofen-2016-rfh-npt-cirrhosis, acg-2024-ald, aasld-2020-ald]
+updated: 2026-11-12
+sources: [acg-2026-preventive-care-cirrhosis, acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis, borhofen-2016-rfh-npt-cirrhosis, acg-2024-ald, aasld-2020-ald, ishen-2013-nutrition-hepatic-encephalopathy]
 ---
 
 Malnutrition (most commonly sarcopenia) is a common complication of liver disease, severity-dependent, and independently associated with higher mortality, waitlist mortality, post-transplant mortality, length of stay, and infections. Malnutrition is underrecognized because weight loss is masked by fluid retention ([[ascites]], edema), and [[obesity]] does not exclude sarcopenic obesity.
@@ -48,13 +48,36 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 2. Low body mass index (BMI), unexplained weight loss, **or** maintenance of volitional nutritional intake
 3. Whether fluid overload interferes with the ability to eat
 
-**Risk bands by points** ([[borhofen-2016-rfh-npt-cirrhosis]]): **low = 0 · moderate = 1 · high = 2–7**. The tool is applied in **three steps, in order** — (1) **acute alcoholic hepatitis or tube feeding**, either of which makes the patient **high risk outright**; (2) separate by **presence or absence of ascites or oedema**; (3) compute the score and assign the band.
+**Scored in three steps** ([[ishen-2013-nutrition-hepatic-encephalopathy]] Figure 2). Takes <3 min; usable by non-specialist staff.
+
+**Step 1 — acute alcoholic hepatitis, or being tube fed?** No = 0, go to Step 2. **Yes = 6 points → high risk outright**; stop scoring.
+
+**Step 2 — fluid overload (peripheral oedema/ascites)?** No = 0 → score the left column. Yes = 1 → score the right column.
+
+| No fluid overload | Pts | | Fluid overload present | Pts |
+|---|---|---|---|---|
+| BMI >20 (>30 obese) | 0 | | Fluid overload interferes with eating — no | 0 |
+| BMI 18.5–20 | 1 | | …occasionally | 1 |
+| BMI <18.5 | 2 | | …yes | 2 |
+| Unplanned weight loss past 3–6 mo <5% | 0 | | Dietary intake reduced by ≥½ over last 5 days — no | 0 |
+| …5–10% | 1 | | …yes | 2 |
+| …>10% | 2 | | Weight lost in past 3–6 mo — no | 0 |
+| Acutely ill **and** no nutritional intake for >5 days (actual or likely) | 2 | | …difficult to assess, patient on diuretics | 1 |
+| | | | …yes | 2 |
+
+**Step 3 — sum the points.**
+
+| Total | Risk | Management |
+|---|---|---|
+| **0** | Low | Routine clinical care · rescreen weekly |
+| **1** | Moderate | Routine care · monitor food charts · encourage eating, offer snacks · rescreen weekly |
+| **2–7** | High | **Discuss referral with dietitian** · monitor food charts · encourage eating, offer snacks · rescreen weekly |
 
 > [!pitfall] Step 1 overrides the arithmetic
-> **Acute alcoholic hepatitis or tube feeding is high risk on its own** — do not score the weight-loss/intake/BMI items and arrive at a lower band ([[borhofen-2016-rfh-npt-cirrhosis]]).
+> **Acute alcoholic hepatitis or tube feeding scores 6 and is high risk on its own** — do not score the BMI/weight-loss/intake items and arrive at a lower band ([[ishen-2013-nutrition-hepatic-encephalopathy]]).
 
 - **High risk** → worse outcomes: reduced survival, worsened liver function, reduced quality of life. **Improvement in the RFH-NPT is associated with improved survival** — so it is a repeatable measure, not a one-off. It is an **independent predictor of clinical deterioration and transplant-free survival** on multivariate analysis, and correlates with **Child score and MELD** ([[borhofen-2016-rfh-npt-cirrhosis]]). ⚠ Association only — no study has stratified treatment by the score.
-- *The item-level algorithm — exactly which answers score which points — is in the instrument as published by the International Society for Hepatic Encephalopathy and Nitrogen Metabolism (Amodio 2013); neither [[aasld-2021-malnutrition-cirrhosis]] nor [[borhofen-2016-rfh-npt-cirrhosis]] reprints it.*
+- **Royal Free Hospital Global Assessment (RFH-GA)** is the reference instrument the RFH-NPT was validated against: BMI (from estimated dry weight) + **mid-arm muscle circumference (MAMC)** + dietary intake → *adequately nourished · moderately malnourished (or suspected) · severely malnourished*, with a **subjective override that may shift the result by one category only**. It needs skilled staff and up to an hour, which is why the NPT exists ([[ishen-2013-nutrition-hepatic-encephalopathy]]).
 - **Comparator — Nutritional Risk Screening (NRS):** max **3 points** for dietary intake, weight loss, BMI and disease severity, **+1 for age >70 y**; **0 = no risk · 1–2 = low · 3–7 = medium-to-high**. ⚠ **Not validated specifically in cirrhosis** ([[borhofen-2016-rfh-npt-cirrhosis]]).
 - Also recommended as a screen: the two-item **Hunger Vital Sign** for food insecurity (abnormal if either item is true).
 
@@ -149,8 +172,9 @@ Malnutrition in liver disease is multifactorial:
 
 ### Core Nutritional Principles (Stable Outpatient Cirrhosis)
 
-- **Small frequent meals** — avoid prolonged fasting (depleted glycogen → starvation within hours)
-- **Late evening snack (7–10 PM):** counsel all cirrhotics — improves BMI, lean muscle mass, reduces risk of ascites and HE (Strong/Moderate) [[acg-2025-liver-nutrition]]
+- **Small frequent meals** — avoid prolonged fasting (depleted glycogen → starvation within hours). **Do not fast longer than 3–6 hours during the daytime** ([[ishen-2013-nutrition-hepatic-encephalopathy]])
+- **Late evening snack (7–10 PM):** counsel all cirrhotics — improves BMI, lean muscle mass, reduces risk of ascites and HE (Strong/Moderate) [[acg-2025-liver-nutrition]]. Content: **≥50 g complex carbohydrate** (ISHEN 1A; the optimal formulation is not determinable from published data)
+- **Fiber 25–45 g/day** (ISHEN 2B) — especially in overweight patients; ⚠ care not to induce diarrhea in patients already on [[lactulose]]
 - **Coffee ≥2 cups/day** — reduces hepatic fibrosis progression and [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] development risk (Conditional/Low)
 - **Low-fructose diet** — all stages of chronic liver disease (CLD); high fructose drives hepatic de novo lipogenesis, insulin resistance, [[nafld-masld|metabolic dysfunction-associated steatotic liver disease (MASLD)]]/fibrosis
 
@@ -187,9 +211,10 @@ Malnutrition in liver disease is multifactorial:
 
 **[[hepatic-encephalopathy|Hepatic Encephalopathy]]:**
 
-- **Do NOT restrict dietary protein** in decompensated cirrhosis with HE (Conditional/Very low) — protein restriction worsens sarcopenia without improving HE
-- Vegetable-source protein preferred over animal protein in HE with nutritional supplementation — better tolerated (Conditional/Low)
-- **Branched chain amino acids (BCAAs) + standard of care** ([[lactulose]] + [[rifaximin]]): augments efficacy; recommend when available (Strong/Moderate)
+- **Do NOT restrict dietary protein** in decompensated cirrhosis with HE (Conditional/Very low) — protein restriction worsens sarcopenia without improving HE. The only exception [[ishen-2013-nutrition-hepatic-encephalopathy]] allows is a **very short period during stabilization of GI bleeding**. Protein retention stays efficient **up to 2 g/kg/day without precipitating or exacerbating HE**, so a depleted patient losing weight can be pushed above the usual range
+- Vegetable-source protein preferred over animal protein in HE with nutritional supplementation — better tolerated (Conditional/Low). Target **30–40 g/day of vegetable protein**, usually achievable *provided the patient is not also salt-restricted* (which makes the diet unpalatable) (ISHEN 2B)
+- **Branched chain amino acids (BCAAs) + standard of care** ([[lactulose]] + [[rifaximin]]): augments efficacy; recommend when available (Strong/Moderate). ⚠ ISHEN 2013 is narrower — BCAA supplements only to **attain nitrogen intake in the occasional truly protein-intolerant patient** (2B), finding little evidence of a direct effect on HE. ACG 2025 is newer and is what this page recommends
+- **[[probiotics|Probiotics]]: not recommended** for HE by ISHEN 2013 — benefits and harms still uncertain, comparative efficacy and dosing unresolved. Consider only where HE is incompletely or poorly controlled
 
 **Fluid/electrolyte management:**
 
@@ -217,7 +242,7 @@ Malnutrition in liver disease is multifactorial:
 
 ## See Also
 
-[[hepatic-encephalopathy]], [[ascites]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[alcohol-associated-hepatitis]], [[hepatocellular-carcinoma]], [[rifaximin]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[nutrition-in-hospitalized-patients]], [[hepatic-cysts]], [[obesity]], [[gastroparesis]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[enteral-access]], [[cirrhosis]], [[abnormal-liver-chemistries]]
+[[hepatic-encephalopathy]], [[ascites]], [[probiotics]], [[lactulose]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[alcohol-associated-hepatitis]], [[hepatocellular-carcinoma]], [[rifaximin]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[nutrition-in-hospitalized-patients]], [[hepatic-cysts]], [[obesity]], [[gastroparesis]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[enteral-access]], [[cirrhosis]], [[abnormal-liver-chemistries]]
 
 ---
 
@@ -229,3 +254,4 @@ Malnutrition in liver disease is multifactorial:
 4. [[acg-2024-ald|ACG Clinical Guideline: Alcohol-Associated Liver Disease (2024)]]
 5. [[aasld-2020-ald|AASLD 2019/2020 Practice Guidance: Diagnosis and Treatment of Alcohol-Associated Liver Diseases]]
 6. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
+7. [[ishen-2013-nutrition-hepatic-encephalopathy|The Nutritional Management of Hepatic Encephalopathy in Patients With Cirrhosis: ISHEN Consensus (2013)]]

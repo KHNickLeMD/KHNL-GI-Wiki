@@ -16,7 +16,7 @@ sources: []
 - **DOI:** [10.1007/s10620-015-4015-z](https://doi.org/10.1007/s10620-015-4015-z)
 - **Type:** observational cohort study (single-centre, with a separate validation cohort)
 
-> **Tier 2 — primary research.** ⚠ **Not cardable** (guideline-sourced cards only). **⚠ This paper does *not* contain the RFH-NPT scoring algorithm** — it applies the tool "as previously described" and cites a supplementary figure in [Amodio et al., *Hepatology* 2013;58:325–336](https://doi.org/10.1002/hep.26370). See *Contradictions / Open Questions*.
+> **Tier 2 — primary research.** ⚠ **Not cardable** (guideline-sourced cards only). **⚠ This paper does *not* contain the RFH-NPT scoring algorithm** — it applies the tool "as previously described" and cites Amodio et al., *Hepatology* 2013 — ingested as [[ishen-2013-nutrition-hepatic-encephalopathy]], which prints it. See *Contradictions / Open Questions*.
 
 ---
 
@@ -72,7 +72,7 @@ The authors are measured about what this supports: the study is **observational 
 
 ## Relevance to Wiki
 
-- **[[nutrition-in-liver-disease]]** — the page named RFH-NPT's three input domains and three risk bands but said it could not map answers to bands. This paper supplies **the point values of the bands (0 / 1 / 2–7)** and **the first step that overrides the arithmetic** — acute alcoholic hepatitis or tube feeding is automatically high risk — plus the NRS bands for the comparator. It does **not** supply the item-level algorithm; the flag is narrowed, not deleted.
+- **[[nutrition-in-liver-disease]]** — the page named RFH-NPT's three input domains and three risk bands but said it could not map answers to bands. This paper supplies **the point values of the bands (0 / 1 / 2–7)** and **the first step that overrides the arithmetic** — acute alcoholic hepatitis or tube feeding is automatically high risk — plus the NRS bands for the comparator. It does **not** supply the item-level algorithm — that comes from [[ishen-2013-nutrition-hepatic-encephalopathy]].
 - **[[cirrhosis]]**, **[[hepatic-encephalopathy]]**, **[[ascites]]** — the complications the tool scores and correlates with.
 - **[[alcohol-associated-hepatitis]]** — the condition that short-circuits the tool to high risk.
 
@@ -80,7 +80,7 @@ The authors are measured about what this supports: the study is **observational 
 
 ## Contradictions / Open Questions
 
-- **⚠ The paper does not contain the algorithm the wiki needed it for.** Its Methods say the RFH-NPT "was assessed as previously described" and point to **Supplementary Figure 1** of **[Amodio P, Bemeur C, Butterworth R, et al. The nutritional management of hepatic encephalopathy in patients with cirrhosis: International Society for Hepatic Encephalopathy and Nitrogen Metabolism (ISHEN) Consensus. *Hepatology* 2013;58:325–336](https://doi.org/10.1002/hep.26370)**. **That ISHEN consensus is the document that would close the gap**, and it is not in `raw/`; the `needed-sources.md` row has been corrected to name it instead of this paper.
+- **⚠ The paper does not contain the algorithm the wiki needed it for.** Its Methods say the RFH-NPT "was assessed as previously described" and point to the **ISHEN consensus**, now ingested as **[[ishen-2013-nutrition-hepatic-encephalopathy]]**, whose Figure 2 prints the item-level scoring in full. The gap is closed there; this paper remains the validation evidence.
 - **No contradiction with [[aasld-2021-malnutrition-cirrhosis]]**, which identifies RFH-NPT as the screening tool most consistently associated with a diagnosis of malnutrition in cirrhosis and reports the same direction of association with outcomes. This paper is a source of that evidence.
 - **NRS is not validated in cirrhosis**, as this paper states — yet it discriminated transplant-free survival here (p = 0.047) while the Child score did not (p = 0.068). The authors do not claim NRS is adequate for liver disease, and neither does the wiki.
 - **Prognostic association is not a treatment indication.** The study was not stratified or randomised by RFH-NPT, so "improvement in RFH-NPT is associated with improved survival" is an association; whether acting on the score changes outcome is untested, and the authors say so.

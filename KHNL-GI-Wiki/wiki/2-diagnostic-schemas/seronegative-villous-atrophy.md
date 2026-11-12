@@ -3,7 +3,7 @@ title: "Seronegative Villous Atrophy"
 category: diagnostic-schema
 tags: [villous-atrophy, seronegative-enteropathy, celiac, small-bowel, malabsorption, hla, budesonide]
 created: 2026-09-12
-updated: 2026-09-23
+updated: 2026-11-12
 sources: [aga-2021-seronegative-enteropathies, aga-2022-refractory-celiac, aga-2019-celiac-monitoring, acg-2022-celiac]
 ---
 
@@ -124,7 +124,7 @@ flowchart TD
 
 - [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] with **duodenal- and/or jejunal-oriented biopsies** showing villous atrophy is required.
 - **Total of 4–6 specimens** from the **second portion of the duodenum and the duodenal bulb**.
-- Read by an **experienced GI pathologist**. The **Corazza–Villanacci classification** should be considered for describing the findings; [[aga-2021-seronegative-enteropathies|AGA 2021]] names it without printing its grades, so the grade assignment cannot be made from this document alone.
+- Read by an **experienced GI pathologist**. The **Corazza–Villanacci classification** should be considered for describing the findings; [[aga-2021-seronegative-enteropathies|AGA 2021]] names it without printing its grades — the **A / B1 / B2 criteria and their Marsh crosswalk are on [[celiac-disease]]** ([[acg-2022-celiac]] Supplementary Table 1).
 - **tTG-specific, gluten-dependent mucosal deposits** have been described but are **not available for clinical use**.
 
 ### Serology

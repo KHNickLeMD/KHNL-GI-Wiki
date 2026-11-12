@@ -7,65 +7,108 @@ updated: 2026-11-12
 sources: [acg-2026-preventive-care-cirrhosis, aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, baveno-viii-2026-portal-hypertension, gerussi-2026-pbc-aih-delphi]
 ---
 
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#PBC-AIH Variant]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Laboratory Tests]]
+  - [[#Autoantibodies]]
+  - [[#Imaging]]
+  - [[#Liver Biopsy]]
+- [[#Therapeutics]]
+  - [[#Treatment Pathway]]
+  - [[#Ursodeoxycholic Acid (First-Line)]]
+  - [[#Obeticholic Acid (Second-Line)]]
+  - [[#Fibrates (Second-Line, Off-Label)]]
+  - [[#Other Agents]]
+  - [[#Pruritus]]
+  - [[#Fatigue]]
+  - [[#Sicca Syndrome]]
+  - [[#Bone Disease]]
+  - [[#Hyperlipidemia]]
+  - [[#Fat-Soluble Vitamins]]
+  - [[#Portal Hypertension]]
+  - [[#Hepatocellular Carcinoma Surveillance]]
+  - [[#Liver Transplantation]]
+  - [[#Pregnancy]]
+  - [[#Screening First-Degree Relatives]]
+  - [[#Monitoring Schedule]]
+
 ## Assessment
 
 ### Establishing the Diagnosis
 
-Primary biliary cholangitis (PBC; formerly "primary biliary cirrhosis") is a chronic autoimmune cholestatic liver disease caused by progressive nonsuppurative destruction of interlobular and septal bile ducts. Predominantly affects middle-aged women (9:1 female predominance). Prevalence estimated at 290–430 per million women, 110 per million men.
+Primary biliary cholangitis (PBC; formerly "primary biliary cirrhosis") — chronic autoimmune cholestatic disease; progressive nonsuppurative destruction of interlobular and septal bile ducts. Middle-aged women, 9:1 female predominance.
 
-**Diagnostic criteria — 2 of the following 3 required** ([[aasld-2018-pbc]], Guidance Statement 1):
+**Diagnosis = 2 of these 3** ([[aasld-2018-pbc]], Guidance Statement 1):
 
-1. **Biochemical evidence of cholestasis** — elevated serum alkaline phosphatase (ALP) (cholestatic pattern)
-2. **Presence of anti-mitochondrial antibody (AMA), or PBC-specific autoantibodies (sp100 or gp210) if AMA is negative**
-3. **Histologic evidence** of nonsuppurative destructive cholangitis and destruction of interlobular bile ducts on [[liver-biopsy|liver biopsy]]
+1. Biochemical cholestasis — elevated alkaline phosphatase (ALP)
+2. Anti-mitochondrial antibody (AMA), or PBC-specific autoantibody (sp100 or gp210) if AMA-negative
+3. Histology — nonsuppurative destructive cholangitis + destruction of interlobular bile ducts
 
-When criteria 1 + 2 are met, biopsy is not required for diagnosis.
-
-**Symptoms at presentation:** Most patients in the contemporary era are asymptomatic at diagnosis (detected via incidental ALP elevation). When symptomatic, the dominant complaints are **fatigue** (50–78% of patients) and **pruritus** (20–70%). Right upper quadrant pain in ~17%. [[jaundice|Jaundice]] is a late finding.
-
-**Physical exam:** Early stages: usually normal. Late stages: hepatomegaly, xanthelasma, xanthomas, jaundice, splenomegaly, [[ascites]]. Excoriations from pruritus. If limited scleroderma (CREST — calcinosis, Raynaud, esophageal dysfunction, sclerodactyly, telangiectasias) coexists: sclerodactyly, telangiectasias.
+- Criteria 1 + 2 met → no [[liver-biopsy|liver biopsy]] needed. Biopsy adds little once ALP is ≥1.5× upper limit of normal (ULN) with aspartate aminotransferase (AST) <5× ULN.
+- **Presentation:** most asymptomatic at diagnosis (incidental ALP rise). Symptomatic — fatigue 50–78%, pruritus 20–70%, right upper quadrant pain ~17%. [[jaundice|Jaundice]] is late.
+- **Exam:** normal early. Late — hepatomegaly, xanthelasma, xanthomas, jaundice, splenomegaly, [[ascites]], excoriations. Limited scleroderma (CREST) features if coexistent: sclerodactyly, telangiectasias.
 
 ### Severity Assessment
 
-**Biochemical:** Serum ALP elevation is the cardinal biochemical feature. Alanine aminotransferase (ALT)/aspartate aminotransferase (AST) may be mildly elevated. Immunoglobulin M (IgM) typically elevated. Bilirubin elevation indicates advanced disease. Serum albumin and platelet count are early indicators of [[cirrhosis|cirrhosis]]/[[portal-hypertension|portal hypertension]].
+- **ALP** — cardinal marker, diagnosis and monitoring. Alanine aminotransferase (ALT)/AST mildly elevated; immunoglobulin M (IgM) typically elevated.
+- **Bilirubin** — best single predictor of survival and the key component of every prognostic model; a rise means advanced disease.
+- **Albumin + platelet count** — early indicators of [[cirrhosis]]/[[portal-hypertension|portal hypertension]].
+- **ALP <2× ULN on treatment** is a reliable predictor of treatment response.
+- **[[liver-stiffness-measurement|Transient elastography]]** — liver stiffness >9.6 kPa → 5× more likely to progress to decompensation, death, or transplant; serial measurements risk-stratify. ≥17 kPa triggers [[hcc-surveillance|hepatocellular carcinoma (HCC) surveillance]] and variceal screening even without confirmed cirrhosis.
 
-**Prognostic models:**
+| Prognostic model | Variables | Action threshold |
+|---|---|---|
+| GLOBE | bilirubin, albumin, ALP, platelets after 1 y of [[ursodeoxycholic-acid\|ursodeoxycholic acid (UDCA)]] + age at start of therapy | >0.30 = shorter transplant-free survival than age/sex-matched healthy population |
+| UK-PBC | ALP, aminotransferases, bilirubin at 12 mo + baseline albumin and platelets | Predicts liver transplantation (LT) or liver-related death at 5, 10, 15 y; no cut-point given |
+| Mayo risk score | Usable without biopsy | ≥4.1 → [[upper-endoscopy\|esophagogastroduodenoscopy (EGD)]] and HCC surveillance; >7.8 → LT referral |
 
-- **GLOBE score** — uses bilirubin, albumin, ALP, platelet count, and age at 1 year of [[ursodeoxycholic-acid|ursodeoxycholic acid (UDCA)]] treatment. Score >0.30 = shorter transplant-free survival than age/sex-matched healthy population. Calculator available at <https://www.globalpbc.com/globe>.
-- **UK-PBC score** — uses ALP, aminotransferases, bilirubin at 12 months + baseline albumin and platelets. Predicts risk of liver transplantation (LT) or liver-related death at 5, 10, and 15 years.
-- **Mayo risk score** — older model using bilirubin, albumin, prothrombin time, age, edema; can be used without biopsy. **Four decisions on this page are gated on it** ([[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] trigger and interval, hepatocellular carcinoma (HCC) surveillance, LT referral).
-- **Bilirubin** is the single best predictor of survival and is a component of all prognostic models.
+*AASLD gives the variables and the action thresholds but not the coefficients or point values. Compute GLOBE at <https://www.globalpbc.com/globe>; the Mayo and UK-PBC formulas are in their derivation papers.*
 
-> ⚠ **None of these three scores is computable from this page.** [[aasld-2018-pbc]] and [[aasld-2021-pbc]] give the variables and (for GLOBE and Mayo) the action thresholds, but **no coefficients or point values**; UK-PBC is given **no threshold at all**, so it triggers no action here. Use the GLOBE calculator link above; the Mayo model and UK-PBC formulas are in their original derivation papers.
+**Biochemical response to UDCA — assess at 12 months** (Guidance Statement 7). Several validated binary criteria exist (Rochester I/II, Barcelona, Paris I/II, Rotterdam, Toronto, Global); any one may be used and **the cut-points are on [[ursodeoxycholic-acid]]** ([[aasld-2018-pbc]], Table 1). Table 1's "Global" row is a binary ALP criterion, not the continuous GLOBE score above. Up to 40% of patients respond inadequately and should be assessed for second-line therapy.
 
-**Histologic staging (Ludwig system):**
+**Histologic staging (Ludwig):** I — portal inflammation ± florid duct lesion, confined to portal triads · II — interface hepatitis, periportal extension, ductular proliferation · III — bridging fibrosis, numerous fibrous septa · IV — cirrhosis with regenerative nodules. Adequate biopsy needs 10–15 portal tracts and multiple sections.
 
-- **Stage I** — portal inflammation ± florid bile duct lesion; confined to portal triads
-- **Stage II** — interface hepatitis (periportal extension, ductular proliferation)
-- **Stage III** — bridging fibrosis (distorted architecture, numerous fibrous septa)
-- **Stage IV** — cirrhosis with regenerative nodules
+### PBC-AIH Variant
 
-*Adequate biopsy requires at least 10–15 portal tracts and multiple sections.*
+Simultaneous [[autoimmune-hepatitis|autoimmune hepatitis (AIH)]] in a patient with AMA-positive PBC. Not applicable to incidental antinuclear antibody (ANA)/anti-smooth muscle antibody (SMA) positivity or mild interface hepatitis — both are common in PBC itself. Reported in 1–14.2% of patients with PBC (higher in Hispanic patients), with worse outcomes than classic PBC (portal hypertension, death, LT).
 
-**Biochemical response to UDCA (assessed at 12 months):** Multiple validated binary criteria exist (Rochester I/II, Barcelona, Paris I/II, Rotterdam, Toronto, Global); any one can be used. **The cut-points for each are on [[ursodeoxycholic-acid]]** ([[aasld-2018-pbc]], Table 1). Table 1's "Global" row is a binary ALP criterion and is **not** the continuous GLOBE score above; do not conflate them.
+Now termed a **variant**, not an overlap syndrome, and diagnosed on the overall picture ([[gerussi-2026-pbc-aih-delphi]], international Delphi consensus):
 
-Up to 40% of patients will have an inadequate response by one of these criteria and should be evaluated for second-line therapy.
+- **"PBC–AIH" is the agreed term.** A *variant* = subtype of one dominant disease presenting atypically; *overlap* = meeting two full sets of criteria, which is real but rare.
+- **Diagnosis rests on a combination of laboratory, serological and histological findings — no single parameter and no strict criteria:** concurrent transaminase *and* cholestatic elevation, raised immunoglobulin G (IgG), relevant autoantibodies and compatible histology, together. The Paris and Zhang criteria, and any rule on clinical judgement or histology alone, failed to reach consensus.
+- **Liver biopsy is required** when clinical or biochemical features suggest PBC–AIH.
+- **Immunosuppression threshold: severe interface hepatitis, ≥3/4 on the Ishak modified Histologic Activity Index** — *not* moderate (≥2/4); treating any grade of interface hepatitis was judged inappropriate. Drug choice follows the AIH recommendations and local practice; endpoints follow current AIH and PBC guidance. No timing rule was agreed. See [[autoimmune-hepatitis]].
+- **Re-evaluate over time** — the phenotype evolves and features can appear sequentially.
+- Untreated, PBC–AIH has a **worse natural history than PBC alone**; whether treatment alters prognosis reached no consensus.
+- **Consecutive PBC/AIH:** ~2.5% of patients with PBC later develop acute AIH (AMA may be lost; histology becomes typical AIH).
 
-**[[liver-stiffness-measurement|Transient elastography]]:** Liver stiffness >9.6 kPa = 5× more likely to progress to decompensation, death, or transplant. Serial measurements useful for risk stratification. Liver stiffness ≥17 kPa triggers [[hcc-surveillance|HCC surveillance]] and consideration for variceal screening even without confirmed cirrhosis.
+> [!pitfall] Escalate anti-cholestatic therapy before reaching for immunosuppression
+> Suspect PBC–AIH when a patient has an **incomplete response to UDCA at 12 months plus a disproportionate transaminase rise relative to cholestasis** — but peroxisome proliferator–activated receptor (PPAR) and farnesoid X receptor (FXR) agonists lower transaminases along with cholestatic markers, so optimise them first and **recheck liver biochemistry at 6–12 months or sooner** ([[gerussi-2026-pbc-aih-delphi]]).
+
+"Disproportionate" is explicitly undefined; the consensus cites the conventional **R ratio = (ALT ÷ ALT ULN) ÷ (ALP ÷ ALP ULN)** — **>5 hepatocellular, <2 cholestatic** — while noting some patients with PBC simply have a hepatitic biochemical profile without PBC–AIH.
+
+The **Paris criteria table lives on [[autoimmune-hepatitis]]** — [[aasld-2018-pbc]] requires 2 of 3 AIH criteria (ALT >5× ULN · IgG ≥2× ULN and/or SMA-positive · moderate/severe interface hepatitis on biopsy), while the newer [[aasld-2020-autoimmune-hepatitis]], which this page follows, also requires 2 of 3 PBC criteria and treats interface hepatitis as a prerequisite rather than a countable criterion. Score it there.
+
+**Guidance Statement 4:** in suspected PBC/AIH overlap, treatment is targeted at the predominant histological pattern of injury — UDCA with or without immunosuppression; no randomized trial data on the optimal regimen.
 
 ---
 
 ## Differential Diagnosis
 
-*Workup: see [[abnormal-liver-chemistries]] (cholestatic pattern — ALP + gamma-glutamyl transferase (GGT) elevation).*
+*Workup: see [[abnormal-liver-chemistries]] — cholestatic pattern, ALP with gamma-glutamyl transferase (GGT) elevation ([[acg-2017-liver-chemistries]]).*
 
-- [[primary-sclerosing-cholangitis|Primary sclerosing cholangitis (PSC)]] — cholangiographic findings ([[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]]); [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] association; male predominance; AMA-negative; immunoglobulin G4 (IgG4) testing to exclude [[igg4-related-cholangitis|IgG4-related sclerosing cholangitis (IgG4-SC)]]
-- [[autoimmune-hepatitis|Autoimmune hepatitis (AIH)]] — overlap syndrome (PBC-AIH overlap) possible; antinuclear antibody (ANA)/anti-smooth muscle antibody (SMA) elevated; immunoglobulin G (IgG) elevated; liver biopsy showing interface hepatitis
-- [[drug-induced-liver-injury]] — medication/herbal and dietary supplement (HDS) history; Roussel Uclaf Causality Assessment Method (RUCAM) causality; cholestatic R-ratio
-- Secondary biliary cirrhosis — extrinsic [[biliary-stricture|biliary obstruction]]; imaging (MRCP/computed tomography [CT]) distinguishes
-- Sarcoidosis — granulomatous hepatitis; systemic findings; angiotensin-converting enzyme (ACE) level; AMA-negative
-- IgG4-related cholangiopathy — IgG4 level elevated; may mimic PSC or PBC
-- [[nafld-masld|Nonalcoholic/metabolic fatty liver]] — steatohepatitis can cause cholestatic pattern; may coexist with PBC and cause suboptimal UDCA response
+- [[primary-sclerosing-cholangitis|Primary sclerosing cholangitis (PSC)]] — cholangiographic findings on [[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]]; [[inflammatory-bowel-disease|inflammatory bowel disease]] association; male predominance; AMA-negative
+- [[autoimmune-hepatitis|Autoimmune hepatitis]] — ANA/SMA and IgG elevated; interface hepatitis on biopsy
+- [[drug-induced-liver-injury]] — medication/herbal and dietary supplement history; cholestatic R ratio
+- Secondary biliary cirrhosis — extrinsic [[biliary-stricture|biliary obstruction]]; MRCP/computed tomography (CT) distinguishes
+- Sarcoidosis — granulomatous hepatitis; systemic findings; AMA-negative
+- [[igg4-related-cholangitis|Immunoglobulin G4-related sclerosing cholangitis]] — elevated IgG4; may mimic PSC or PBC
+- [[nafld-masld|Nonalcoholic/metabolic fatty liver]] — can give a cholestatic pattern, may coexist and cause suboptimal UDCA response
 
 ---
 
@@ -73,292 +116,199 @@ Up to 40% of patients will have an inadequate response by one of these criteria 
 
 ### Laboratory Tests
 
-- **ALP:** Elevated in virtually all patients; key diagnostic and monitoring marker
-- **GGT:** Elevated (confirms hepatic origin of ALP elevation)
-- **ALT/AST:** Mild elevation typical; if ALT >5× upper limit of normal (ULN), evaluate for concomitant AIH (Guidance Statement 3)
-- **Bilirubin:** May be normal early; rising bilirubin signals disease progression
-- **Albumin + platelet count:** Early surrogates for cirrhosis and [[portal-hypertension|portal hypertension]]
-- **IgM:** Typically elevated (characteristic of PBC; IgG elevation more suggestive of AIH overlap)
-- **Thyroid-stimulating hormone (TSH):** Annual screening — autoimmune thyroid disease significantly more common in PBC
+- **ALP:** elevated in virtually all patients; diagnostic and monitoring marker
+- **GGT:** elevated — confirms hepatic origin of the ALP rise
+- **ALT/AST:** mild elevation typical; **ALT >5× ULN → biopsy to evaluate for concomitant AIH** (Guidance Statement 3)
+- **Bilirubin:** may be normal early; a rise signals progression
+- **Albumin, platelet count:** early surrogates for cirrhosis and portal hypertension
+- **IgM:** typically elevated (IgG elevation suggests AIH features instead)
+- **Thyroid-stimulating hormone (TSH):** annually — autoimmune thyroid disease is far more common in PBC
 
 ### Autoantibodies
 
-- **AMA:** Present in **95%** of PBC patients. Targets PDC-E2 antigen on inner mitochondrial membrane. Presence vs. absence is the critical factor — titer is less important clinically. Five detection methods exist; indirect immunofluorescence has lowest sensitivity (>15% false-negative); enzyme-linked immunosorbent assay (ELISA), immunoblotting, Luminex, and enzyme inhibition assay are more sensitive.
-- **Anti-sp100 and anti-gp210 (anti-nuclear antibodies):** Present in >30% of AMA-negative patients; when present, support PBC diagnosis without biopsy (Guidance Statement 2). Anti-gp210 may also correlate with prognosis.
-- **Anti-kelch-like 12 and anti-hexokinase 1:** Found in 35% and 22% of AMA-negative PBC patients respectively; not yet widely available in clinical practice.
-- **ANA and anti-smooth muscle antibody:** Present in nearly 50% of PBC patients; their presence does not establish AIH overlap unless accompanied by elevated ALT/IgG and histologic interface hepatitis meeting Paris criteria.
+- **AMA** — positive in **95%**; targets the PDC-E2 antigen. Presence, not titre, is what matters. Indirect immunofluorescence has the lowest sensitivity (>15% false-negative); enzyme-linked immunosorbent assay, immunoblotting, Luminex and enzyme-inhibition assays are more sensitive.
+- **Anti-sp100, anti-gp210** — present in >30% of AMA-negative patients; **support the diagnosis without biopsy** (Guidance Statement 2). Anti-gp210 may also carry prognostic information.
+- **Anti-kelch-like 12, anti-hexokinase 1** — 35% and 22% of AMA-negative PBC; not widely available.
+- **ANA, SMA** — present in nearly 50% of patients with PBC; do not by themselves establish AIH features (see [[#PBC-AIH Variant]]).
 
 ### Imaging
 
-- **Ultrasound (first-line):** Required to exclude biliary obstruction and evaluate for cirrhosis/portal hypertension.
-- **MRCP or cholangiography:** Indicated if diagnosis is uncertain; excludes PSC or other biliary tract disease.
-- **[[liver-stiffness-measurement|Transient elastography]]:** Useful for fibrosis staging, risk stratification, and treatment monitoring. Liver stiffness stable in noncirrhotic PBC on UDCA; significantly increases in patients with cirrhosis.
+- **Ultrasound** — first-line and mandatory: excludes biliary obstruction, assesses for cirrhosis/portal hypertension.
+- **MRCP or cholangiography** — when the diagnosis is uncertain; excludes PSC and other biliary disease.
+- **Transient elastography** — fibrosis staging, risk stratification, treatment monitoring. Stiffness stays stable in noncirrhotic PBC on UDCA and rises significantly once cirrhosis is present.
 
 ### Liver Biopsy
 
-- **Not required** when 2 of 3 diagnostic criteria are met (ALP elevation + positive AMA or PBC-specific ANA).
-- **Indicated when:**
-  - AMA-negative AND PBC-specific autoantibodies (sp100/gp210) absent (true seronegative PBC) — biopsy must show florid duct lesion and/or granulomatous cholangitis
-  - ALT >5× ULN (to exclude concomitant AIH — Guidance Statement 3)
-  - Concomitant nonalcoholic steatohepatitis (NASH)/steatohepatitis suspected as cause of suboptimal treatment response
-- **Histologic features:** Nonsuppurative destructive cholangitis affecting interlobular/septal bile ducts; florid duct lesion (intense inflammation and necrosis around bile ducts, with plasma cells/macrophages/eosinophils); epithelioid granulomas in early stages; Ludwig stages I–IV (see above); biliary-type fibrosis with cholestatic rosettes and feathery degeneration in advanced disease.
+- **Not required** when 2 of 3 diagnostic criteria are met.
+- **Indicated when:** AMA-negative *and* sp100/gp210 absent (biopsy must show florid duct lesion and/or granulomatous cholangitis) · ALT >5× ULN (concomitant AIH — Guidance Statement 3) · steatohepatitis suspected as the cause of a suboptimal treatment response.
+- **Histology:** nonsuppurative destructive cholangitis of interlobular/septal ducts; florid duct lesion (intense periductal inflammation and necrosis with plasma cells, macrophages, eosinophils); epithelioid granulomas early; biliary-type fibrosis with cholestatic rosettes and feathery degeneration late. Ludwig stages above. Biopsy is **not** a tool for monitoring treatment response.
 
 ---
 
 ## Therapeutics
 
-### First-Line: UDCA
+### Treatment Pathway
 
-**UDCA 13–15 mg/kg/day orally** is the first-line therapy for all PBC patients with abnormal liver enzyme values, regardless of histologic stage ([[aasld-2018-pbc]], Guidance Statement 5).
+```mermaid
+flowchart TD
+    A(["PBC with abnormal liver enzymes, any histologic stage"]) --> B(["UDCA 13–15 mg/kg/day orally"])
+    B -- "Reassess biochemical response at 12 months" --> C["Adequate response by a validated criterion?"]
+    C -- "Yes" --> D(["Continue UDCA indefinitely"])
+    C -- "No, or UDCA-intolerant" --> E["Advanced cirrhosis — prior/current decompensation or portal hypertension?"]
+    E -- "No, FDA-approved option" --> F(["Add obeticholic acid (OCA) 5 mg/day; to 10 mg/day after 3 months if liver chemistries remain abnormal and tolerated"])
+    E -- "No, off-label alternative" --> G(["Fibrate: bezafibrate 400 mg/day or fenofibrate 160 mg/day"])
+    E -- "Yes" --> H(["OCA contraindicated; fibrates discouraged in decompensated disease"])
+    class A start
+    class C,E test
+    class B,D,F,G act
+    class H stop
+```
 
-- Initiated gradually; typically given in 2 divided doses (or once daily at bedtime for compliance)
-- Improvement in liver tests within weeks; 90% of improvement within 6–9 months; 20% of patients will normalize liver biochemistries by 2 years
-- Dose does not require adjustment for renal or hepatic disease
-- **Mechanism:** Choleretic, cytoprotective, anti-inflammatory, immunomodulatory
-- **Benefits:** Improves liver biochemistries, delays histologic progression, reduces risk of esophageal varices, improves transplant-free survival (large meta-analysis, n=4,845: 90%/78%/66% transplant-free survival at 5/10/15 years vs. 79%/59%/32% untreated)
-- **Does NOT improve:** Fatigue, pruritus, bone disease, or autoimmune comorbidities
-- **Bile acid sequestrants timing:** Cholestyramine and other sequestrants interfere with UDCA absorption; UDCA must be given at least 1 hour before or 4 hours after the sequestrant (Guidance Statement 6)
-- **UDCA continued indefinitely** — no data supporting discontinuation
+*Drug therapy for primary biliary cholangitis after diagnosis*
+*Built from [[aasld-2018-pbc]] Guidance Statements 5, 7, 8 and 9 and [[aasld-2021-pbc]] Revised Guidance Statements 9 and 10 (the guidance has no flowchart)*
+*[[aasld-2018-pbc|AASLD 2018 Practice Guidance: Primary Biliary Cholangitis]]*
+*PBC = primary biliary cholangitis · UDCA = ursodeoxycholic acid · OCA = obeticholic acid · FDA = US Food and Drug Administration*
 
-**Biochemical response assessment:** Evaluate at **12 months** using one of the validated criteria in Table 1 above (Guidance Statement 7). Patients with inadequate response are candidates for second-line therapy.
+### Ursodeoxycholic Acid (First-Line)
 
-### Second-Line: Obeticholic Acid (OCA)
+**UDCA 13–15 mg/kg/day orally** — for every patient with PBC and abnormal liver enzyme values, regardless of histologic stage (Guidance Statement 5). Superior to 5–7 and 23–25 mg/kg/day.
 
-**OCA (obeticholic acid / Ocaliva) 5 mg/day**, titratable to 10 mg/day after 3 months if liver chemistries remain abnormal and drug is well-tolerated ([[aasld-2018-pbc]], Guidance Statement 8).
+- Usually 2 divided doses (or once at bedtime); no adjustment for renal or hepatic impairment; continued indefinitely.
+- Liver tests improve within weeks; 90% of the improvement by 6–9 months; 20% normalize biochemistries by 2 years.
+- Improves transplant-free survival, delays histologic progression, reduces the risk of developing varices (16% vs 58% at 4 years). Does **not** improve fatigue, pruritus, bone disease or autoimmune comorbidities.
+- **Bile acid sequestrants:** give UDCA ≥1 hour before or 4 hours after the sequestrant (Guidance Statement 6).
 
-- **Indications:** Inadequate response to UDCA after ≥1 year of treatment, or UDCA-intolerant (monotherapy)
-- **Mechanism:** FXR (farnesoid X receptor) agonist; 100× more potent than endogenous chenodeoxycholic acid; modulates bile acid synthesis, transport, and metabolism; anti-fibrotic and anti-inflammatory properties
-- **Efficacy (POISE trial, n=210, phase 3 randomized controlled trial (RCT)):** Primary endpoint (ALP <1.67× ULN + ≥15% reduction + normal bilirubin) met in 46% (titration arm) and 47% (10 mg/day arm) vs. 10% placebo at 1 year
-- **Primary adverse effect:** Pruritus — dose-dependent; less common with titration approach starting at 5 mg/day
-- **CONTRAINDICATION (updated per 2021 guidance):** OCA is **contraindicated** in patients with **advanced cirrhosis**, defined as cirrhosis with current or prior evidence of decompensation (encephalopathy, coagulopathy) or portal hypertension (ascites, gastroesophageal varices, or persistent thrombocytopenia). FDA warning issued May 2021 after reports of serious liver injury and death. ([[aasld-2021-pbc]], Revised Guidance Statement 10)
-- **Monitoring:** Careful monitoring of liver function is recommended for **all** cirrhotic patients on OCA, even those with compensated cirrhosis ([[aasld-2021-pbc]])
-- **Microsimulation models:** OCA + UDCA may decrease 15-year cumulative incidences of decompensated cirrhosis, HCC, LT, and liver-related deaths vs. UDCA alone
+### Obeticholic Acid (Second-Line)
 
-### Second-Line: Fibrates (Off-Label)
+**OCA 5 mg/day**, increased to 10 mg/day after 3 months if liver chemistries remain abnormal and the drug is tolerated (Guidance Statement 8).
 
-Fibrates (bezafibrate, fenofibrate) are peroxisome proliferator-activated receptor (PPAR) agonists approved as lipid-lowering agents but have demonstrated anticholestatic properties in PBC ([[aasld-2018-pbc]] Guidance Statement 9, as revised by [[aasld-2021-pbc]]).
+- **Indication:** inadequate response after ≥1 year of UDCA, or UDCA intolerance (monotherapy). FXR agonist, 100× more potent than chenodeoxycholic acid.
+- **Pruritus** is the main adverse effect — dose-dependent, less frequent with 5 mg titration.
+- **Contraindicated in advanced cirrhosis** = cirrhosis with current or prior decompensation (encephalopathy, coagulopathy) or portal hypertension (ascites, gastroesophageal varices, persistent thrombocytopenia); US Food and Drug Administration warning May 2021 ([[aasld-2021-pbc]], Revised Guidance Statement 10).
+- **Monitor liver function carefully in any patient with cirrhosis on OCA, even compensated** ([[aasld-2021-pbc]]).
 
-**Revised Guidance Statement 9 (2021):** *Fibrates can be considered as off-label alternatives for patients with PBC and inadequate response to ursodeoxycholic acid, although fibrates are discouraged in patients with decompensated liver disease.*
+### Fibrates (Second-Line, Off-Label)
 
-- **Bezafibrate 400 mg/day:** BEZURSO trial (n=100, 2-year RCT, UDCA + bezafibrate vs. UDCA + placebo): 67% normalized ALP and 30% normalized all liver tests with combination vs. 0% placebo. Pruritus also improved. Anti-fibrotic markers also improved.
-- **Fenofibrate 160 mg/day:** Open-label study (n=20, 48 weeks): ALP decreased ~50% from baseline in patients with incomplete UDCA response.
-- **Side effects:** Creatinine elevation (competitive inhibition of organic anion transporter — not a true decline in glomerular filtration rate (GFR); typically reversible), myalgias/heartburn, transaminase elevation (usually reversible; concern for hepatotoxicity warrants monitoring), bilirubin elevation (competitive transporter inhibition).
-- **Not studied in decompensated liver disease** — avoid in decompensated cirrhosis.
-- **Note:** Bezafibrate is not FDA-approved in the US; fenofibrate is available but used off-label for PBC.
+PPAR agonists, approved only as lipid-lowering agents, with anticholestatic activity in PBC. **Revised Guidance Statement 9 (2021):** fibrates can be considered as off-label alternatives for inadequate response to UDCA, although they are discouraged in decompensated liver disease.
 
-### Other Drugs Tested — Not Recommended
+- **Bezafibrate 400 mg/day** (not available in the US) — added to UDCA: 67% normalized ALP, 30% normalized all liver tests, vs 0% on placebo; pruritus and fibrosis markers also improved.
+- **Fenofibrate 160 mg/day** — ALP fell ~50% in incomplete UDCA responders.
+- **Adverse effects:** creatinine rise (competitive transporter inhibition, not a true fall in glomerular filtration rate; reversible), bilirubin rise (same mechanism), myalgias, heartburn, transaminase elevation (usually reversible — monitor).
 
-Chlorambucil, penicillamine, [[calcineurin-inhibitors|cyclosporine]], corticosteroids, [[thiopurines|azathioprine]] (except in AIH overlap), mycophenolate mofetil, thalidomide, methotrexate, malotilate, colchicine — none effective as monotherapy or additive to UDCA. Budesonide may be helpful but is controversial. Newer agents in development: selective PPAR-delta agonist seladelpar, other FXR agonists.
+### Other Agents
 
----
+Chlorambucil, penicillamine, [[calcineurin-inhibitors|cyclosporine]], corticosteroids, [[thiopurines|azathioprine]], mycophenolate mofetil, thalidomide, methotrexate, malotilate, colchicine and silymarin — none of benefit as monotherapy or added to UDCA. Budesonide may help but is controversial. Avoid uncooked seafood and unpasteurized milk; aim for ideal body weight where steatohepatitis may be superimposed.
 
-### Management of Symptoms
+### Pruritus
 
-UDCA and OCA do not improve fatigue or pruritus. These symptoms require separate, dedicated management.
+UDCA and OCA do not relieve it. Circadian rhythm (worse in the evening); worsens with pregnancy or estrogens; paradoxically may wane in very advanced disease. **Intractable pruritus is a valid indication for [[liver-transplantation|liver transplantation]].**
 
-#### Fatigue
+| Step | Treatment | Notes |
+|---|---|---|
+| 1 | Lifestyle | Avoid tight/itchy clothing, moisturizers for dry skin, tepid (not hot) baths, ice packs |
+| 2 | Cholestyramine 4 g/dose up to 16 g/day (Guidance Statement 11) | Anion-exchange resin, initial therapy; 1 h before or 4 h after other drugs (especially UDCA); bloating, constipation, diarrhea. Colestipol, colesevelam are alternatives |
+| 3a | Rifampicin 150–300 mg twice daily (Guidance Statement 12) | Avoid if bilirubin >2.5 mg/dL — hepatotoxicity up to [[acute-liver-failure\|acute liver failure]]; monitor liver tests; enzyme inducer, many interactions |
+| 3b | Naltrexone titrated to 50 mg/day (Guidance Statement 12) | Opiate antagonist; start 12.5 mg/day, increase by 12.5 mg every 3–7 days; opioid-withdrawal-like reaction on initiation (self-limited); intravenous naloxone is an alternative |
+| 3c | Sertraline 75–100 mg/day (Guidance Statement 12) | Effect independent of antidepressant action |
 
-- Most common PBC symptom; 50–78% of patients
-- Multifactorial — exclude hypothyroidism, depression, anemia, sleep apnea before attributing to PBC
-- **No effective pharmacotherapy established:** Ondansetron, fluoxetine, and modafinil (placebo-controlled RCT negative) have all failed
-- **Intractable fatigue is NOT a valid indication for [[liver-transplantation|liver transplantation]]** — fatigue usually persists post-transplant ([[aasld-2018-pbc]])
-- Education and counseling on symptom management and energy conservation are important
+*Stepwise management of cholestatic pruritus in primary biliary cholangitis*
+*Built from [[aasld-2018-pbc]] Guidance Statements 11 and 12 plus its lifestyle commentary (the guidance has no figure)*
+*[[aasld-2018-pbc|AASLD 2018 Practice Guidance: Primary Biliary Cholangitis]]*
 
-#### Pruritus — Stepwise Approach
+For severe refractory itch: plasmapheresis, albumin dialysis, biliary drainage and light therapy are reported in small series.
 
-**Step 1 — Lifestyle:** Avoid tight/itchy clothing; tepid (not hot) baths; moisturizers; ice packs. Pruritus has a circadian rhythm (worse evenings). May worsen during pregnancy or with estrogen use.
+### Fatigue
 
-**Step 2 — Anion-exchange resins** (Guidance Statement 11 — initial therapy):
+- Most common symptom (50–78%). Exclude hypothyroidism, depression, anemia and sleep apnea first.
+- **No effective pharmacotherapy** — ondansetron, fluoxetine and modafinil all failed. Education, counselling and energy conservation.
+- **Intractable fatigue is not a valid indication for liver transplantation** — it usually persists afterwards.
 
-- **Cholestyramine** 4 g/dose up to 16 g/day; given 1 hour before or 4 hours after other medications (especially UDCA) to avoid drug interactions; side effects: bloating, constipation, diarrhea
-- Colestipol and colesevelam also available; colesevelam not effective in one RCT (but patients had already failed resins)
+### Sicca Syndrome
 
-**Step 3 — Refractory to resins** (Guidance Statement 12):
+Sjögren's syndrome, scleroderma and CREST features coexist significantly more often in PBC, including [[esophageal-dysfunction-systemic-disease|esophageal dysfunction]].
 
-- **a. Rifampicin 150–300 mg twice daily** — pregnane X receptor agonist; effective in multiple small trials and 2 meta-analyses; avoid if bilirubin >2.5 mg/dL (hepatotoxicity risk including [[acute-liver-failure|acute liver failure]]; monitor liver function tests (LFTs)); enzyme inducer with multiple drug interactions
-- **b. Oral opiate antagonists — naltrexone**, start 12.5 mg/day, increase by 12.5 mg every 3–7 days to target dose 50 mg/day; opioid withdrawal-like reaction on initiation (abdominal pain, hypertension, tachycardia, goosebumps — self-limited; gradual titration minimizes); drug-induced liver injury uncommon but monitor LFTs; naloxone intravenous (IV) infusion is alternative
-- **c. Sertraline 75–100 mg/day** — small placebo-controlled trial and retrospective series showed benefit; effect independent of antidepressant action
+- **Dry eyes** (Guidance Statement 13): artificial tears (hydroxypropyl methylcellulose or carboxymethylcellulose) → pilocarpine or cevimeline if refractory → cyclosporine or lifitegrast ophthalmic emulsion, preferably under an ophthalmologist.
+- **Xerostomia** (Guidance Statement 14): saliva substitutes, frequent sips of water, sugar-free gum/candy, moisturizing mouthwash → pilocarpine or cevimeline if still symptomatic. Regular dental review (caries risk).
+- Muscarinic agonist side effects: nausea, sweating, flushing, urinary frequency.
 
-**Step 4 — Emerging/refractory:** PPAR agonists, IBAT (ileal bile acid reabsorption transporter) inhibitors, and autotaxin inhibitors under investigation. Plasmapheresis, albumin dialysis, molecular adsorbent recirculating system (MARS), biliary drainage, and light therapy reported in small series for severe refractory pruritus. **Intractable pruritus IS a valid indication for liver transplantation.**
+### Bone Disease
 
-*Note:* Paradoxically, pruritus may wane in very advanced liver disease.
+Fibrotic PBC carries a significantly greater risk of osteopenia and osteoporosis than age/sex-matched controls.
 
-#### Sicca Syndrome (Sjögren's Overlap)
+- **Calcium 1,000–1,500 mg/day + vitamin D 1,000 IU/day**, diet plus supplements if needed (Guidance Statement 17); avoid if there is a history of renal stones. Vitamin D level annually in advanced disease.
+- **Osteoporosis: alendronate 70 mg weekly** or another effective bisphosphonate; monthly ibandronate is comparable; etidronate ineffective (Guidance Statement 18). Parenteral bisphosphonates if oral is not possible.
+- **Avoid oral bisphosphonates with acid reflux or known varices** (Guidance Statement 18). [[acg-2026-preventive-care-cirrhosis|ACG 2026]] disagrees for cirrhosis generally — esophageal or gastric varices are not by themselves a contraindication, citing studies showing no excess gastrointestinal bleeding. This page keeps the PBC-specific AASLD rule; see [[cirrhosis]] for the comparison.
+- Hormone replacement therapy modestly improves bone density but is seldom used (safety, cholestasis/pruritus).
 
-Sjögren's syndrome coexists significantly more often in PBC. Also: calcinosis, Raynaud, [[esophageal-dysfunction-systemic-disease|esophageal dysfunction]], sclerodactyly, telangiectasias (CREST features), scleroderma.
+### Hyperlipidemia
 
-**Dry eyes (keratoconjunctivitis sicca):**
+- Cholesterol elevation is common and usually of little consequence; retrospective data show no excess cardiovascular risk (one meta-analysis: pooled risk ratio 1.57, 95% confidence interval 1.21–2.06).
+- UDCA lowers low-density lipoprotein cholesterol. **Statins are safe even with abnormal liver tests**, and fibrates have been used safely.
+- Consider lipid-lowering therapy for elevated lipids plus cardiovascular risk (Guidance Statement 19).
 
-- Step 1: Artificial tears (hydroxypropyl methylcellulose or carboxymethylcellulose)
-- Step 2: Refer to ophthalmologist; pilocarpine or cevimeline (muscarinic agonists — side effects: nausea, sweating, flushing, urinary frequency)
-- Step 3: Cyclosporine or lifitegrast ophthalmic emulsion (Guidance Statement 13)
+### Fat-Soluble Vitamins
 
-**Dry mouth (xerostomia):**
+- Deficiency is uncommon unless the patient is jaundiced.
+- **Jaundiced:** measure vitamins A, D, E and K annually (with prothrombin time if bilirubin >2.0 mg/dL).
+- **Deficient:** treat with parenteral or water-soluble supplements (Guidance Statement 20). Prolonged international normalized ratio that responds to a vitamin K trial → give subcutaneous vitamin K.
 
-- Frequent sips of water, sugar-free gum/candy, moisturizing mouthwashes, saliva substitutes
-- Pilocarpine or cevimeline if refractory to saliva substitutes (Guidance Statement 14)
-- Regular dental check-ups mandatory (increased caries risk)
+### Portal Hypertension
 
----
+May arise from biliary cirrhosis or, **precirrhotic**, from [[porto-sinusoidal-vascular-disorder|nodular regenerative hyperplasia]] — 6% of patients with PBC without cirrhosis have varices.
 
-### Complications of Chronic Cholestasis
-
-#### Bone Disease (Osteopenia/Osteoporosis)
-
-Patients with fibrotic PBC have significantly greater risk of osteopenia/osteoporosis than age/sex-matched controls.
-
-- **Bone mineral density (BMD) assessment:** Baseline then every 2 years (Guidance Statement 17; Table 2)
-- **Calcium 1,000–1,500 mg/day + Vitamin D 1,000 IU/day** supplementation (Guidance Statement 17)
-- **Vitamin D levels** measured annually in patients with advanced disease
-- **Alendronate 70 mg/week** — effective RCT data; ibandronate monthly comparable
-- **Oral bisphosphonates contraindicated** in patients with acid reflux or known varices (Guidance Statement 18)
-  - ⚠ **Newer tier-1 guidance disagrees for cirrhosis generally.** [[acg-2026-preventive-care-cirrhosis|ACG 2026]] states that esophageal or gastric varices are **not by themselves a contraindication** to oral bisphosphonates, citing studies in patients with varices that showed no excess GI bleeding. This page keeps the AASLD PBC rule for PBC; see [[cirrhosis|cirrhosis → Preventive Care]] for the contradiction in full
-- **Parenteral bisphosphonates** for patients unable to take oral formulations
-- Hormone replacement therapy modestly improves BMD but rarely used due to safety concerns and worsening of cholestasis/pruritus
-
-#### Hyperlipidemia
-
-- Cholesterol elevation common in PBC (cholestatic mechanism)
-- Retrospective data suggest no increased cardiovascular risk; meta-analysis found pooled risk ratio 1.57 (95% confidence interval [CI] 1.21–2.06) — clinical judgment required
-- UDCA lowers low-density lipoprotein (LDL) and is the initial step
-- **Statins safe** even with abnormal LFTs in PBC (Guidance Statement 19)
-- Fibrates have also been used safely for lipid management in PBC (off-label for PBC; approved for hyperlipidemia)
-- Consider lipid-lowering therapy for patients with elevated lipid levels and cardiovascular risk factors (Guidance Statement 19)
-
-#### Fat-Soluble Vitamin Deficiency
-
-- Most PBC patients do not develop fat-soluble vitamin deficiency unless jaundiced
-- **If jaundiced:** Measure vitamins A, D, E, and K ± prothrombin time annually (Table 2)
-- **If deficient:** Oral supplementation with water-soluble preparations of vitamins A, D, E, and K
-- **If international normalized ratio (INR) prolonged and responds to vitamin K trial:** Subcutaneous vitamin K (Guidance Statement 20)
-
----
-
-### Portal Hypertension in PBC
-
-Portal hypertension may develop as a result of biliary cirrhosis or, in the **precirrhotic stage**, in association with [[porto-sinusoidal-vascular-disorder|**nodular regenerative hyperplasia** (NRH)]] — a PBC-specific phenomenon. NRH can cause portal hypertension without significant fibrosis; 6% of non-cirrhotic PBC patients have varices.
-
-- **[[variceal-upper-gi-bleeding|Variceal]] screening:** [[upper-endoscopy|Endoscopic]] screening at time of suspected cirrhosis diagnosis (Guidance Statement 15). Also consider if platelet count **<200,000/mm³** or [[liver-stiffness-measurement|transient elastography]] **≥17 kPa** — note this platelet trigger is *higher* (more inclusive) than the <140,000/mm³ suspected-cirrhosis threshold used for HCC surveillance.
-  - ⚠ **These PBC-specific triggers are [[aasld-2018-pbc]]'s.** The *generic* compensated advanced chronic liver disease (cACLD) rule has since moved on: [[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] restricts screening EGD to patients **ineligible for [[nonselective-beta-blockers|nonselective beta-blockers (NSBBs)]]**, and spares it entirely on liver stiffness measurement (LSM)/platelet/spleen stiffness measurement (SSM) criteria — thresholds and the follow-up interval live on [[portal-hypertension]]. Neither document reconciles the two for PBC; the American Association for the Study of Liver Diseases (AASLD) PBC numbers above are retained because they are the only PBC-specific ones, but check the Baveno rule before ordering.
-- **Variceal management:** Follows standard AASLD portal hypertension guidance (NSBB or endoscopic variceal ligation for primary prophylaxis) — see [[portal-hypertension]]
-- **Variceal bleeding in precirrhotic PBC:** Particularly challenging because [[tips|transjugular intrahepatic portosystemic shunt (TIPS)]] is undesirable when synthetic function is preserved. Distal splenorenal shunts rarely used but have not been associated with accelerated liver failure in PBC.
-
----
+- **[[variceal-upper-gi-bleeding|Variceal]] screening:** EGD at the time cirrhosis is first suspected (Guidance Statement 15). Also consider if platelets are **<200,000/mm³** or liver stiffness is **≥17 kPa**. Varices are virtually never found with a Mayo risk score below 4.1.
+- Management follows standard AASLD portal hypertension guidance (nonselective beta-blockers or endoscopic variceal ligation for large varices) — see [[portal-hypertension]]. [[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] restricts screening endoscopy in compensated advanced chronic liver disease generally to patients ineligible for [[nonselective-beta-blockers|nonselective beta-blockers]]; the PBC-specific thresholds above are the only PBC ones, so check the Baveno rule before ordering.
+- **Precirrhotic variceal bleeding** refractory to drugs and endoscopy is a specific problem — transplantation is undesirable with preserved synthetic function; [[tips|transjugular intrahepatic portosystemic shunt]] is the therapeutic alternative. Distal splenorenal shunts are rarely used but have not accelerated liver failure in PBC.
 
 ### Hepatocellular Carcinoma Surveillance
 
-PBC confers a slightly elevated [[hepatocellular-carcinoma|HCC]] risk (3.9 cases per 1,000 person-years), lower than viral hepatitis or [[hereditary-hemochromatosis|hemochromatosis]] but clinically relevant. Men and patients with advanced disease are at highest risk. Suboptimal UDCA response is an important risk factor.
+HCC risk is modestly raised (3.9 cases per 1,000 person-years) — lower than viral hepatitis or [[hereditary-hemochromatosis|hemochromatosis]]. Highest in men, advanced disease, and suboptimal UDCA response. Surveillance imaging is associated with better outcomes.
 
-**[[hcc-surveillance|HCC surveillance]] with cross-sectional imaging ± alpha-fetoprotein (AFP) every 6 months** is currently advised for (Guidance Statement 16):
-
-- Men with PBC
-- Patients with cirrhosis
-
-**Without liver biopsy, consider [[hcc-surveillance|HCC surveillance]] in:**
-
-- **Platelets <140,000/mm³** — the threshold [[aasld-2018-pbc]] uses to define *suspected cirrhosis*
-- **Mayo risk score ≥4.1**
-- **Transient elastography ≥17 kPa**
-
-⚠ **Two different platelet thresholds are in play and they belong to different decisions** — <140,000/mm³ defines suspected cirrhosis (HCC surveillance), while **<200,000/mm³** is the softer trigger for *variceal* screening. They come from different studies; [[aasld-2018-pbc]] carries both.
-
----
+- **Cross-sectional imaging ± alpha-fetoprotein every 6 months** for **men with PBC** and **patients with cirrhosis** (Guidance Statement 16).
+- **Without a biopsy, suspected cirrhosis** = platelets **<140,000/mm³**, Mayo risk score **≥4.1**, or liver stiffness **≥17 kPa** → surveil. Note the two platelet thresholds belong to different decisions: <140,000/mm³ defines suspected cirrhosis for HCC surveillance, <200,000/mm³ is the softer trigger for variceal screening.
 
 ### Liver Transplantation
 
-**Indications for referral/listing** ([[liver-transplantation|liver transplantation]]):
+**Refer** for decompensated cirrhosis, [[cirrhosis|Model for End-Stage Liver Disease (MELD)]] score **>14** (Guidance Statement 21; the text also gives MELD ≥15), total bilirubin **>6 mg/dL**, or Mayo risk score **>7.8**. Severe intractable pruritus is an exceptional indication; chronic fatigue is not.
 
-- **[[cirrhosis|Model for End-Stage Liver Disease (MELD)]] score >14** (Guidance Statement 21)
-- Total bilirubin >6 mg/dL
-- Mayo risk score >7.8
-- Severe intractable pruritus (exceptional indication)
-- Chronic fatigue is NOT a valid indication (usually persists post-transplant)
+- **Outcomes** are among the best of any indication — 1/3/5/10-year patient survival 90%/87%/84%/79%; graft survival 85%/80%/78%/72%.
+- **Recurrent PBC:** 20–30% by 10 years, up to 50% by 20 years; median 3–6 years; rarely affects patient or graft survival. Risk factors include [[tacrolimus]] therapy, advanced donor age, higher MELD at listing.
+- **UDCA post-transplant** — lower recurrence (21% vs 62%, P=0.004); continue indefinitely. Cyclosporine-based immunosuppression may reduce recurrence (unproven).
+- **After transplant:** pruritus improves; fatigue improves in a subset but moderate-severe fatigue persists in nearly half at 2 years; sicca syndrome unchanged; bone disease worsens for ~6 months then recovers past baseline; AMA may persist or reappear without signalling recurrence.
 
-**Outcomes:** Excellent — among the best of all liver disease indications. 1/3/5/10-year graft survival: 85%/80%/78%/72%; patient survival: 90%/87%/84%/79%.
+### Pregnancy
 
-**Pregnancy and transplant listing:** Estrogens promote cholestasis; pruritus can worsen significantly during pregnancy and may not resolve after delivery. Standard variceal screening in second trimester for cirrhotic patients; short second stage of labor preferred to avoid Valsalva-precipitated [[variceal-upper-gi-bleeding|variceal hemorrhage]].
+- Estrogens promote cholestasis — oral contraceptives and estrogen supplements may induce or worsen pruritus; itch can become severe early in pregnancy and may not fully resolve after delivery. Postpartum flares reported — monitor closely.
+- **Continue UDCA through pregnancy** ([[acg-2016-liver-disease-pregnancy]] Rec 32 — strong, very low quality evidence): flare and decompensation risks outweigh drug risk, supported by safety data in [[intrahepatic-cholestasis-of-pregnancy|intrahepatic cholestasis of pregnancy]].
+- **Varices:** screen in the second trimester, when maternal blood volume rises sharply; beta-blockers are safe. Keep the second stage of labor short — Valsalva can precipitate variceal hemorrhage. Full context on [[liver-disease-in-pregnancy]].
 
-**Post-transplant:**
+### Screening First-Degree Relatives
 
-- **Recurrent PBC:** 20–30% by 10 years, up to 50% by 20 years. Median time to recurrence 3–6 years. Recurrent PBC infrequently affects long-term patient or graft survival.
-- **UDCA post-transplant:** Associated with lower recurrence rates (21% vs. 62%, P=0.004); continued indefinitely post-transplant.
-- **Cyclosporine-based immunosuppression (IS)** associated with reduced recurrence (not proven; [[tacrolimus]]-based IS associated with higher recurrence rates in some studies).
-- **After LT:** Pruritus improves; fatigue improves in subset but moderate-severe fatigue persists in ~50% at 2 years; sicca syndrome unchanged; AMA may persist or reappear (not indicative of recurrence); bone disease worsens initially then improves.
+Risk is increased among first-degree relatives (FDRs), especially female: sisters 20.7%, mothers 15.1%, daughters 9.8%; AMA positivity 13.1% vs 1% in controls. Consider screening female FDRs from **age 30** with serum ALP, then AMA if ALP is elevated; if AMA-negative, repeat every 5 years until age 65. The value of systematic screening is not formally established.
 
----
-
-### PBC-AIH Overlap Syndrome
-
-**Definition:** Simultaneous AIH in patients with AMA-positive PBC. Should not be applied to PBC patients with incidental ANA/SMA positivity or mild interface hepatitis (both are common features of PBC itself).
-
-**Now named a *variant*, not an overlap syndrome, and diagnosed on the overall picture** ([[gerussi-2026-pbc-aih-delphi]], an international Delphi consensus of 74 hepatologists and 14 liver pathologists; consensus threshold ≥80% rating an item appropriate):
-
-- **"PBC–AIH" is the agreed term** (64% of votes, after a third voting round). A **variant** is a subtype of one disease, dominant but presenting atypically — as opposed to an **overlap**, where a patient meets two full sets of criteria. True overlap exists but is rare.
-- **Diagnosis rests on a combination of laboratory, serological and histological findings, not a single parameter or strict criteria (95.1%):** concurrent transaminase *and* cholestatic elevation, raised IgG, relevant autoantibodies, and compatible histology, together.
-- ⚠ **The Paris criteria failed to reach consensus**, as did the newer Zhang criteria and any rule built on clinical judgment alone or histology alone. They are retained above as named historical criteria, not as the diagnostic test.
-- **Re-evaluate the diagnosis over time (85.4%)** — the phenotype evolves and the features can appear sequentially.
-
-> [!pitfall] Escalate anti-cholestatic therapy before reaching for immunosuppression
-> Suspect PBC–AIH in a PBC patient with an **incomplete response to UDCA at 12 months plus a disproportionate transaminase rise relative to cholestasis** — but second-line peroxisome proliferator–activated receptor (PPAR) and farnesoid X receptor (FXR) agonists lower transaminases along with cholestatic markers, so optimise them first and **recheck liver biochemistry at 6–12 months or sooner**. Effective anti-cholestatic escalation is what keeps PBC from being misclassified as PBC–AIH ([[gerussi-2026-pbc-aih-delphi]]).
-
-- **"Disproportionate" is explicitly undefined.** The consensus cites the conventional **R ratio = (ALT ÷ ALT ULN) ÷ (ALP ÷ ALP ULN)** — **>5 hepatocellular, <2 cholestatic** — while noting that some PBC patients simply have a hepatitic biochemical profile without PBC–AIH.
-- **Liver biopsy is required (93.5%)** in a PBC patient with clinical or biochemical features suggestive of PBC–AIH, to confirm the diagnosis and guide management.
-- **The threshold that prompts immunosuppression (80.5%): severe interface hepatitis, ≥3/4 on the Ishak modified Histologic Activity Index — *not* moderate (≥2/4).** Starting immunosuppression for *any* grade of interface hepatitis was judged inappropriate.
-- **Choice of immunosuppressive drug follows the AIH recommendations and local practice (85.9%)**; treatment endpoints follow the current AIH (90.2%) and PBC (95.1%) guidelines. **No timing rule was agreed** — neither starting at diagnosis nor deferring reached consensus.
-- **Untreated, PBC–AIH has a worse natural history than PBC alone (91.5%)** — but the panel reached **no consensus on whether treatment alters prognosis**.
-- **Not agreed, and so left open:** whether PBC–AIH can be suspected at the time of PBC diagnosis before treatment; and, counting hepatologists and pathologists together, **any specific histological feature defining PBC–AIH in established PBC** (the ≥2/4 interface-hepatitis figure reached consensus among the 14 pathologists only, and is a diagnostic not a treatment threshold).
-
-**Paris criteria — full criteria table lives on [[autoimmune-hepatitis]]** (single home), along with the ⚠ note that [[aasld-2018-pbc]] and [[aasld-2020-autoimmune-hepatitis]] state the combination rule differently. In brief: [[aasld-2018-pbc]] requires **2 of 3 AIH criteria** (ALT >5× ULN · IgG ≥2× ULN and/or SMA+ · biopsy with moderate/severe interface hepatitis), while the newer [[aasld-2020-autoimmune-hepatitis]] — which this page follows (newer) — additionally requires 2 of 3 PBC criteria and treats interface hepatitis as a prerequisite rather than a countable criterion. Score it on [[autoimmune-hepatitis]].
-
-Present in 1–14.2% of PBC patients (higher in Hispanic patients). Worse outcomes than classic PBC in terms of portal hypertension, death, or LT need.
-
-**Guidance Statement 4:** *In cases of suspected PBC/AIH overlap, treatment should be targeted at the predominant histological pattern of injury.* UDCA with or without immunosuppressive therapy; no RCT data on optimal treatment. See [[autoimmune-hepatitis]] for AIH management.
-
-**Consecutive PBC/AIH:** ~2.5% of PBC patients may develop subsequent acute AIH (may lose AMA seropositivity; liver histology becomes typical AIH). Distinguish from overlap with sequential presentation.
-
----
-
-### Pregnancy in PBC
-
-- PBC predominantly affects older women; pregnancy is infrequent but possible
-- Estrogens promote cholestasis; oral contraceptive pills and estrogen supplements may induce or worsen pruritus
-- During pregnancy, itching may become severe early and may fail to resolve completely after delivery
-- **Continue UDCA during pregnancy** (American College of Gastroenterology [ACG] 2016 [[acg-2016-liver-disease-pregnancy]] Rec 32 — Strong, very low evidence); potential risks of discontinuation (disease flare, hepatic decompensation) outweigh risks of UDCA use; growing safety evidence from use in [[intrahepatic-cholestasis-of-pregnancy|intrahepatic cholestasis of pregnancy]] supports safety
-- **Variceal screening:** Second trimester (when maternal blood volume increases markedly); beta-blockers safe in pregnancy for variceal prophylaxis
-- **Labor:** Short second stage preferred to avoid Valsalva-precipitated variceal hemorrhage
-- Postpartum disease flare has been reported; close monitoring recommended
-- See [[liver-disease-in-pregnancy]] for full pregnancy context
-
----
-
-### Screening of First-Degree Relatives
-
-Risk of developing PBC is increased among first-degree relatives (FDRs), especially female FDRs: sisters 20.7%, mothers 15.1%, daughters 9.8%. AMA positivity in FDRs: 13.1% vs. 1% in controls.
-
-**Screening:** Consider screening female FDRs starting at **age 30** with serum ALP. If elevated, test AMA. If initially AMA-negative, repeat testing at 5-year intervals (until age 65). Value of systematic screening has not been formally established.
-
----
-
-### Long-Term Follow-Up Schedule (Table 2, [[aasld-2018-pbc]])
+### Monitoring Schedule
 
 | Parameter | Interval |
 |---|---|
 | Liver tests | Every 3–6 months |
 | TSH | Annually |
 | Bone mineral density | Every 2 years |
-| Vitamins A, D, E + prothrombin time | Annually if bilirubin >2.0 |
-| [[upper-endoscopy\|Upper endoscopy]] (cirrhotic, Mayo risk >4.1, or elastography ≥17 kPa) | Every 1–3 years* |
-| HCC ultrasound ± AFP (cirrhosis, or platelets <140,000/mm³ or Mayo risk ≥4.1) | Every 6 months |
+| Vitamins A, D, E + prothrombin time | Annually if bilirubin >2.0 mg/dL |
+| EGD — cirrhosis, Mayo risk >4.1, or liver stiffness ≥17 kPa | Every 1–3 years (interval set by the previous EGD) |
+| Ultrasound ± alpha-fetoprotein — men, known or suspected cirrhosis | Every 6 months |
 
-*Interval determined by findings on previous EGD.
+*Follow-up of primary biliary cholangitis*
+*Recreated from Table 2 of [[aasld-2018-pbc]]*
+*[[aasld-2018-pbc|AASLD 2018 Practice Guidance: Primary Biliary Cholangitis]]*
+*TSH = thyroid-stimulating hormone · EGD = esophagogastroduodenoscopy*
 
-**General preventive advice:** Avoid excessive alcohol, [[obesity]], cigarette smoking (promote disease progression and may jeopardize LT candidacy). Patients with cirrhosis: advise caution with nonsteroidal anti-inflammatory drugs (NSAIDs), benzodiazepines, aminoglycoside antibiotics. Inform surgeons and anesthesiologists of cirrhosis prior to any surgery.
+**General advice:** avoid excessive alcohol, [[obesity]] and cigarette smoking — all promote progression and may jeopardize transplant candidacy. With cirrhosis: caution with nonsteroidal anti-inflammatory drugs, benzodiazepines and aminoglycosides, and tell surgeons and anesthesiologists about the cirrhosis before any operation.
 
 ---
 
 ## See Also
 
-[[ursodeoxycholic-acid]], [[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[abnormal-liver-chemistries]], [[jaundice]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[tacrolimus]], [[cholangiocarcinoma]], [[nafld-masld]], [[mri-mrcp]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[upper-endoscopy]], [[ascites]], [[obesity]], [[variceal-upper-gi-bleeding]], [[intrahepatic-cholestasis-of-pregnancy]], [[liver-stiffness-measurement]], [[porto-sinusoidal-vascular-disorder]], [[cirrhosis]], [[biliary-stricture]], [[calcineurin-inhibitors]], [[thiopurines]], [[esophageal-dysfunction-systemic-disease]], [[hereditary-hemochromatosis]], [[acute-liver-failure]], [[inflammatory-bowel-disease]], [[tips]], [[hcc-surveillance]]
+[[ursodeoxycholic-acid]], [[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[abnormal-liver-chemistries]], [[jaundice]], [[portal-hypertension]], [[nonselective-beta-blockers]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[tacrolimus]], [[cholangiocarcinoma]], [[nafld-masld]], [[mri-mrcp]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[upper-endoscopy]], [[ascites]], [[obesity]], [[variceal-upper-gi-bleeding]], [[intrahepatic-cholestasis-of-pregnancy]], [[liver-stiffness-measurement]], [[porto-sinusoidal-vascular-disorder]], [[cirrhosis]], [[biliary-stricture]], [[calcineurin-inhibitors]], [[thiopurines]], [[esophageal-dysfunction-systemic-disease]], [[hereditary-hemochromatosis]], [[acute-liver-failure]], [[inflammatory-bowel-disease]], [[igg4-related-cholangitis]], [[tips]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Tegaserod"
 category: med
 tags: [ibs, ibs-c, 5-ht4-agonist, serotonin]
 created: 2026-07-26
-updated: 2026-10-19
+updated: 2026-11-12
 sources: [acg-2020-ibs, aga-2022-ibs-c]
 ---
 
@@ -30,7 +30,19 @@ The two societies gate tegaserod differently — and **the American College of G
 | [[aga-2022-ibs-c\|AGA 2022]] | Women <65 y **without a history of cardiovascular (CV) ischemic events** (myocardial infarction [MI], stroke, transient ischemic attack [TIA], or angina) — the US Food and Drug Administration (FDA) limited-reapproval wording; **no risk-factor count** | Conditional, moderate certainty |
 
 - **Two separate gates, both must clear under ACG:** no prior CV ischemic event **and** ≤1 CV risk factor. AGA states only the first; ACG adds the second and makes ≥2 risk factors an outright contraindication (see below).
-- **Cardiovascular risk factors** that define the count ([[aga-2022-ibs-c]]): hypertension, tobacco use, diabetes, hypercholesterolemia, **age ≥55 y**, [[obesity]]. ACG defines its own list in its Supplemental Table 2; the list above is AGA's.
+- **Cardiovascular risk factors that define the count.** ACG's own list — *"risk factors to consider when evaluating a woman with IBS-C for possible tegaserod use"* ([[acg-2020-ibs]] Supplemental Table 2) — is what the ≤1 gate is counted against:
+
+| ACG 2020 Supplemental Table 2 | AGA 2022 |
+|---|---|
+| History of cardiovascular disease | — (AGA handles prior ischemic events as a separate exclusion) |
+| History or presence of hypertension | Hypertension |
+| Active smoking | Tobacco use |
+| History or presence of diabetes mellitus | Diabetes |
+| History or presence of hyperlipidemia | Hypercholesterolemia |
+| **Age >55 y at baseline** | **Age ≥55 y** |
+| **[[obesity\|Obesity]] (BMI >30 kg/m² at baseline)** | Obesity |
+
+  ⚠ **The two lists differ in two ways that change the count.** ACG counts **history of cardiovascular disease as one of the risk factors**, where AGA keeps prior CV ischemic events as a separate, absolute exclusion. And ACG's age criterion is **>55 y** where AGA's is **≥55 y** — a woman aged exactly 55 scores a risk factor under AGA but not under ACG. ACG also specifies **active** smoking and measures obesity **at baseline**.
 - **Sequencing matters** — tegaserod is a post-secretagogue option under ACG, not a first-line irritable bowel syndrome with constipation (IBS-C) drug.
 - Regulatory history: FDA-approved 2002 (short-term IBS-C in women) and 2004 ([[chronic-idiopathic-constipation|chronic idiopathic constipation (CIC)]] in men and women <65); **withdrawn 2007** after a retrospective analysis showed a small excess of CV ischemic events; **re-approved 2019** under the limited indication above.
 

@@ -6,6 +6,57 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-12] lint | 06:00 pass — backlog ingest
+
+**Health check:**
+- `git pull --rebase` clean; no `ingest: partial` marker anywhere in `wiki/` (no unfinished file to resume).
+- No new inbox arrivals detectable: `raw/` is largely gitignored (110 of 628 files tracked), so `git status` reports nothing for it. Audit was done by matching raw filenames against each source page's `title:` / `**Article:**` line instead.
+- **Backlog mode ON.** ~45 uningested tier-1 `raw/` files. Per backlog mode, *Validate the stalest pages*, *Expand stubs* and *Fill coverage gaps* are **paused: ingest backlog**.
+
+**Ingested — 1. ISHEN 2013 nutritional management of HE (Amodio), consensus statement:**
+- New source page `ishen-2013-nutrition-hepatic-encephalopathy` — all 12 graded statements from Tables 2–4 (numbering is the wiki's; the document numbers none), Table 5's energy/protein matrix by nutritional status × BMI band, and both Royal Free instruments.
+- **Closes the standing RFH-NPT decision gap.** Figure 2 is the only place in the corpus with the tool's item-level scoring; it is a raster image, so it was rendered (`pdftoppm`) and read, then recreated as native tables. [[nutrition-in-liver-disease]] now carries all three steps, every item and point value, and the 0 / 1 / 2–7 bands with the management attached to each. `needed-sources.md` row deleted; the stale "would be needed" pointers on [[borhofen-2016-rfh-npt-cirrhosis]] and its index row now point at the ingested page.
+- Also added to [[nutrition-in-liver-disease]]: the 2 g/kg/day protein-retention ceiling that does not precipitate HE, ≥50 g complex-carbohydrate snack content, the 3–6 h daytime fasting limit, 30–40 g/day vegetable protein (only if not also salt-restricted), 25–45 g/day fiber, RFH-GA inputs and its one-category subjective override, and ISHEN's narrower BCAA stance and its non-recommendation on probiotics.
+- [[hepatic-encephalopathy]]: snack content and fasting limit, vegetable/dairy nitrogen source in recurrent or persistent HE, and the Wernicke's-vs-HE discriminators (nystagmus, ptosis, lateral-conjugate-gaze palsy) in the differential.
+- Contradictions surfaced: ISHEN's 35–40 kcal/kg predates ACG 2026's 30–35 (newer wins, pages unchanged); ISHEN alone drops protein to 1.0–1.5 g/kg for adequately nourished obese patients; ISHEN finds zinc negative for cognition where ACG 2024 recommends it for deficiency in AH (different questions, both stand).
+- Not open access (© 2013 AASLD) — no figure embedded; Figures 1–2 recreated as tables. The RFH-GA branch map is a raster whose arrow paths are not unambiguously readable, so it was not reproduced.
+- Cards: 1 note added to `nutrition-in-liver-disease` (step-1 override). The HE card file needed no change — the facts added there are owned by other carded pages.
+
+**Ingested — 2. ACG 2022 celiac disease, Supplementary Digital Content 1 (folded into [[acg-2022-celiac]]):**
+- **Closes the Marsh ↔ Corazza decision gap.** Supplementary Table 1 recreated on [[celiac-disease]] and on the source page: IEL thresholds per 100 enterocytes (Marsh / Corazza), crypt and villus state, and the grade for each row. **Grade A spans Marsh 1 *and* 2** — a vertical merge in the source table, confirmed by reading the cell merge flags, not inferred. **Marsh 0 and 4 have no Corazza equivalent**, and the table prints no IIIa/b/c labels, so B1/B2 must not be mapped onto a three-way split.
+- Also captured: the supplement's two recorded **dissents** (Rec 1A biopsy-for-diagnosis — one expert argued for non-biopsy diagnosis in adults; Rec 3 gluten detection devices — one expert argued it should have been an evidence gap, not a recommendation against).
+- [[seronegative-villous-atrophy]]: its "grades not printed" note now links to where the criteria live instead.
+- Cards: 1 note added to `celiac-disease` (a grade A report means no villous atrophy), with the crosswalk as a Back Extra table.
+
+**Ingested — 3. ACG 2024 *H. pylori* treatment, Supplementary Digital Content 1 (folded into [[acg-2024-hp-treatment]]):**
+- Supplementary **Table 1** (9 drugs/classes: mechanism, adverse effects, interactions) recreated on the source page. The BQT page had pointed readers at "Supplementary Table 2" for this — wrong number, corrected.
+- [[bismuth-quadruple-therapy]]: the per-component contraindication/interaction table its *Contraindications* section said it could not give — tetracycline **contraindicated in pregnancy** and in children **<8 y** (the body text had only the relative cautions), metronidazole avoid in pregnancy, the **disulfiram-like reaction with alcohol**, tetracycline/levofloxacin chelation by calcium, magnesium, iron, zinc, aluminum and dairy, and the PPI absorption interactions. ⚠ Still nothing on **bismuth in renal impairment** in either the body text or the supplement — stated plainly on the page.
+- [[helicobacter-pylori-infection]]: a pitfall callout for the **rifabutin triple contraindications (voriconazole, delavirdine, rilpivirine)** and the clarithromycin/levofloxacin QT and CYP interactions, plus the pregnancy/myasthenia/paediatric restrictions that narrow regimen choice.
+- Cards: 1 note added (`helicobacter-pylori-infection`, rifabutin contraindications); `bismuth-quadruple-therapy` note b91005 kept and its Back Extra strengthened with the absolute contraindications rather than duplicated as a second note.
+
+**Ingested — 4. ACG IBS guideline, Supplementary Digital Content 1 (folded into [[acg-2020-ibs]]):**
+- File is named 2018 but is this guideline's supplement, as the `needed-sources.md` row suspected — confirmed from its running head.
+- **Supplemental Table 2** → [[tegaserod]]: ACG's own cardiovascular risk-factor list, which the ≤1-risk-factor gate is counted against and which the body text never prints. ⚠ **Two differences from the AGA list already on the page change the count** — ACG counts *history of cardiovascular disease* as one of the risk factors (AGA keeps prior ischemic events as a separate absolute exclusion), and ACG's age criterion is **>55 y** where AGA's is **≥55 y**, so a woman aged exactly 55 scores under AGA but not ACG. Both tables now sit side by side on the page.
+- **Supplemental Table 1** (also previously uncaptured) → fecal calprotectin, lactoferrin, CRP and ESR cutoffs with sensitivity, specificity and likelihood ratios for separating IBD from IBS. The decision content is the calprotectin band structure: ~25–30 µg/g gives LR− 0.01–0.07, but at 100–164 µg/g sensitivity falls to 0.64 and a negative no longer excludes IBD.
+- Cards: none written. The ≤1-risk-factor gate is already carded on [[tegaserod]]; the 7-item list itself fails the high-yield test as a card (a list tested piecemeal) and stays on the page as reference.
+
+**Quality review — release sweep** (own step, not paused by backlog mode; one subagent per page):
+- [[fmt]] — 2,739 → 2,003 body words. Restructured into parallel sections (Overview · Indications · Products, one `###` per product in the same internal order · Administration · Place in Therapy) and given a `## Contents`, which it lacked. Added the product-comparison table (conventional FMT vs live-jslm vs spores live-brpk: route/dose, microbial content, timing off antibiotics, bowel prep, labelled indication, contraindications, immunocompromise, severe/fulminant use, storage), every cell traced to AGA 2024 or the two labels. No flowchart — AGA 2024 prints no algorithm and the CDI pathway is owned by [[clostridioides-difficile]]; no figure — the AGA 2024 PDF states no Creative Commons licence. Cut: both products' efficacy and adverse-reaction percentages, the ECOSPOR III narrative (its load-bearing fact kept as the rationale in the how-to), and the Rec 3 mortality numbers, which are CDI-outcome evidence rather than FMT administration. Callouts 5 → 3. Doses, routes, timing windows, bowel-prep volume, bridge dosing, recurrence criteria and storage chains all re-verified against the raw PDFs; no decision gap left open.
+- **For the next card pass:** every body heading on [[fmt]] was renamed, so its notes need `{at:}` re-picking. The agent could not reach the cards tree from its sandbox.
+- **For a later pass (one home per fact):** [[clostridioides-difficile]] duplicates FMT route/repeat rules, the washout window, the earlier-use high-risk criteria and "most need 2–3 administrations" — these should become links, with the sequential 3–5 day protocol and severity tables staying there.
+- [[primary-biliary-cholangitis]] — reviewed in the same batch; `quality_reviewed:` unset means the run ended mid-page and it requeues.
+
+**Hygiene fixes:**
+- Broken `[[links]]` swept wiki-wide (10 hits, 8 of them historical text inside `log.md` and left alone). Fixed: `[[fecal-microbiota-transplantation]]` → `[[fmt]]` on [[aga-2020-probiotics-technical-review]]; `[[fib-4]]` → `[[noninvasive-liver-disease-assessment]]` on [[liver-biopsy]].
+- Clean: no unescaped alias pipes in table cells, no `.DS_Store`, no hand-written `classDef` in any Mermaid block.
+- `needed-sources.md`: 4 rows deleted as their documents were ingested.
+
+**Paused — ingest backlog:** *Validate the stalest pages*, *Expand stubs from already-ingested sources*, *Fill coverage gaps from the queue*. Roughly 41 tier-1 `raw/` files remain uningested after this pass.
+
+**Daily source fetch (06:00):** nothing downloaded — nothing qualified. Every `needed-sources.md` row is either already in `raw/` (the *awaiting ingest* table, no download needed), 🔒 paywalled (Eckardt 1992, WHO Blue Book 5th ed.), 🌐 bot-blocked (CDC Yellow Book / parasites, NIH-CDC-IDSA opportunistic infections), a figure inside an already-ingested PDF, or a topic with no identified source. No label rows outstanding.
+
+---
+
 ## [2026-11-12] update | Anki deck: firm consolidation cut
 
 - Nick: the deck is too big at 4,398 notes / 7,447 cards. He chose a **firm cut**: the high-yield test applied strictly to every note, expecting about 30% fewer notes (≈3,000 notes / ≈5,000 cards). That figure is a result, not a quota. Rule: CLAUDE.md → *Card quality review* → *Firm cut*.

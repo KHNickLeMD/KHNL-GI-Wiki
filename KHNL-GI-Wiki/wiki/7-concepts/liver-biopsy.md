@@ -3,7 +3,7 @@ title: "Liver Biopsy"
 category: concept
 tags: [liver-biopsy, hepatology, fibrosis-staging, percutaneous, transjugular, eus-guided, coagulation, complications, specimen-adequacy]
 created: 2026-06-04
-updated: 2026-11-10
+updated: 2026-11-12
 sources: [aasld-2026-expo-liver-biopsy, aasld-2009-liver-biopsy, aga-2021-cirrhosis-coagulation, acg-2025-eus-quality, aga-2023-nafld-noninvasive-biomarkers, aasld-2024-nilda-blood, multisociety-2026-psvd-ncpf-criteria]
 ---
 
@@ -41,7 +41,7 @@ Liver biopsy is the procedural acquisition of hepatic tissue for histological as
 | Indication | Proceed to biopsy when |
 |---|---|
 | Unexplained liver test elevation | Elevated alanine aminotransferase (ALT) **despite weight loss and alcohol cessation**, or after stopping herbal supplements · elevated alkaline phosphatase (ALP) with **normal anti-mitochondrial antibody (AMA)** and magnetic resonance cholangiopancreatography, no [[drug-induced-liver-injury\|drug-induced liver injury (DILI)]] risk · suspected [[autoimmune-hepatitis\|autoimmune hepatitis (AIH)]] **when immunosuppression is being considered** · **ruling out drug-induced AIH-like hepatitis** when DILI is suspected |
-| Fibrosis assessment | **Discrepant results** — eg high [[fib-4\|Fibrosis-4 (FIB-4)]], nodular liver, but low liver stiffness · **high-stakes decisions**, eg heart failure with nodular liver in heart-transplant evaluation · **payer requires histologic confirmation** of fibrosis stage before starting therapy |
+| Fibrosis assessment | **Discrepant results** — eg high [[noninvasive-liver-disease-assessment\|Fibrosis-4 (FIB-4)]], nodular liver, but low liver stiffness · **high-stakes decisions**, eg heart failure with nodular liver in heart-transplant evaluation · **payer requires histologic confirmation** of fibrosis stage before starting therapy |
 | Clinical management | [[autoimmune-hepatitis\|AIH]] patient **considering discontinuation of immunosuppression** · [[liver-transplantation\|liver transplant]] recipient with abnormal liver tests **who may need immunosuppression adjustment** |
 
 - **Diagnostic yield:** a diagnosis is reached in **74%–94%** of biopsies done for unexplained liver test elevation — but **normal histology is still found in as many as 15%**.
