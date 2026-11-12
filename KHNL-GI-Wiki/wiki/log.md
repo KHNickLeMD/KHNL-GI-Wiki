@@ -6,6 +6,35 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-12] update | Anki card pass — licence-orphaned card images, stale-page triage, broken anchors
+
+**Dedup:** `anki-dupes.mjs` returned 0 unjudged candidate pairs at ≥0.4 — nothing to merge from the ledger; step did nothing.
+
+**Build blocker fixed first:** `celiac-disease` card file carried a duplicate note id `[ce1010]` (a pass that could not run `node` wrote it), which aborted the whole export. The newer note renumbered to `[ce1018]`; deck exports again.
+
+**Card images orphaned by the figure-licence sweep (commit 8bef8f6):** 18 card `<img>` tags pointed at paywalled source figures that the sweep removed from their pages — cards were showing assets no longer on the wiki, against *Cards test the wiki* and *Copyright — open access only*. All 18 removed and replaced, where the page now prints the data, with Writing-rule-12 Back Extra tables copied from the page:
+- `polypectomy` — 11 images out; Paris subtype, NICE criteria, Kudo pit pattern, JNET 2B and Haggitt tables in. Two fronts that were pure image-recognition rewritten in words (WASP sessile-serrated features, Kudo/JNET deep-SMI patterns); the Paris photo-recognition note `[5d7b92]` retired — unanswerable without a figure the licence forbids. Notes 38 → 34 (merged `[4a8e52]`→`[d9012e]`, `[a9e103]`→`[4b1d7e]`, `[a9e101]`→`[a9e102]`); rectal en-bloc note recut to test the decision instead of its rationale.
+- `reflux-testing` — Los Angeles and Hill criteria tables in place of 4 figures. `upper-gi-bleeding` — Forrest class table in place of the figure. `upper-endoscopy` — the Sydney 5-biopsy site/positioning table in place of the figure.
+
+**Stale-page triage (page bumped, cards older):** 49 card files were flagged stale, almost all by that one licence sweep. Diffed every page against its card date rather than re-carding blind; 20 pages had no new clinical text (figure → flowchart/link only) and were bumped unchanged. Pages with genuinely new text got cards:
+- `portal-hypertension` — **+5**: the Rule-of-Five ladder was uncarded. cACLD rule-out <10 kPa / >15 kPa, CSPH rule-out ≤15 kPa + platelets ≥150, CSPH rule-in ≥25 kPa with its population, the 15–25 kPa indeterminate zone and its next step, 12-month NIT interval. Rule-of-Five table added as Back Extra.
+- `fmt` — 18 `{at:}` anchors re-pointed after the page was restructured; notes 18 → 16 (CAR-T/neutropenia folded into the severe-immunocompromise list, nasoenteric route into `[fa2002]`); `[fa200b]` retired as a "no recommendation" stance and replaced by `[fa2015]`, the ACG 2021 route recommendation (colonoscopy or capsules, enema in reserve); VOS prep corrected to the magnesium-citrate regimen the page prescribes; indications and product-comparison tables added as Back Extra.
+- `hepatic-encephalopathy` — **+3**: late-night snack with ≥50 g complex carbohydrate, vegetable/dairy over meat/fish protein in recurrent HE, the eye signs separating Wernicke's from HE. Calorie target left to its owner page `nutrition-in-liver-disease`.
+- `liver-biopsy` — **+2**: the three AASLD 2026 indications and the discrepant-NIT picture that tips to biopsy were uncarded although the page is carded for technique throughout.
+- `acute-lower-gi-bleeding` — **+2**: features suggesting an upper GI source, and preferred hemostatic modality for angioectasia and postpolypectomy bleeding.
+- `upper-gi-bleeding` — **+1**: proton pump inhibitor intensity by ulcer stigma. `achalasia` — **+1**: prior botulinum toxin and the POEM-vs-Heller choice.
+- No new cards on `ampullary-adenoma` (49 notes already cover the refined surveillance tracks), `flip-panometry`, `li-rads`, `semaglutide`, `transoral-incisionless-fundoplication` — their new page text was already owned elsewhere or already carded.
+
+**Card quality review:** `lactulose` (20 notes) reviewed and finished — every note correlated against the page, `[ac7d07]` merged into `[ac7d08]` (both tested the same decision: do not escalate the dose for nonresponse, hunt precipitants), the page's route/dose/endpoint table added as Back Extra on the induction note; `cards_reviewed: 2026-11-12`. Baveno VIII's lactulose-in-variceal-bleeding statement was left uncarded here — `variceal-upper-gi-bleeding [92ca6e]` already owns it. `crohns-disease` (73 notes) started, not finished — `cards_reviewed:` deliberately left at its old date so it requeues. Two real defects fixed: `[cd253a]` taught ACG 2018's "no narrow-band imaging", which the page itself flags as superseded by AGA 2021 and which `colonoscopy [b4c1d8]` already owns correctly → retired; `[cd2519]` merged into `[cd2518]` as one 5-ASA note.
+
+**Section anchors:** every broken `{at:}` in the deck fixed — 23 notes across `primary-biliary-cholangitis` (19, after today's heading renames), `small-bowel-bleeding` (2) and `abdominal-bloating-and-distention` (4), including six PBC notes re-pointed individually to `pruritus`, `bone-disease`, `fat-soluble-vitamins` and `hyperlipidemia`. Build now reports 0 anchor problems deck-wide.
+
+**Deck:** 4401 → 4416 notes (+17 written, 9 retired/merged). `build-anki.mjs` clean on every file touched; remaining "cards stale" lines are the known backlog on untouched pages.
+
+**For the reader, not fixed here (page-side, flagged only):** the `polypectomy` Paris table still embeds per-subtype crops of a paywalled USMSTF 2020 figure, and `figure-licenses.py` does not see them — its `![[...]]` regex misses embeds inside table cells with an escaped `\|`. The licence sweep also deleted the `semaglutide` safety/monitoring table and the `li-rads` CT/MRI diagnostic table outright with no text replacement; both pages' facts survive in prose, so no card was orphaned, but the tables are gone.
+
+---
+
 ## [2026-11-12] lint | Quality review — release sweep
 
 **Scope:** Quality review step only (no ingest, no new pages). Queue from `review-queue.py --pages 10`, never-reviewed first. Each page: decision sufficiency + source fidelity against its tier-1 raw sources, then visuals where the source supports them, then concision / callouts / organization / abbreviations.
