@@ -126,6 +126,7 @@ Grading: this document assigns **no evidence grades and no strength-of-recommend
 - [[esophageal-dilation]] — the full menu of techniques for establishing esophageal diameter, including biopsy-forceps tip-to-tip, retroflexion comparison, and the 7–18 mm cone-shaped scope-tip cap.
 - [[flip-panometry]] — ASGE's position that the definitive role of functional luminal imaging planimetry in routine EoE care is undetermined, with the practical barriers named.
 - [[upper-endoscopy]] — "turn and suction" with single bites as the esophageal biopsy technique.
+- [[lymphocytic-esophagitis]] — lymphocytic esophagitis as a scarring mimic of EoE, producing rings and strictures in any part of the esophagus, with biopsies required to distinguish the two; Figure 2 panel H is the endoscopic example.
 
 ## Contradictions / Open Questions
 

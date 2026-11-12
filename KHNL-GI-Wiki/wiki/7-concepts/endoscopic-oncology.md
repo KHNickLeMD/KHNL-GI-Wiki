@@ -3,51 +3,63 @@ title: "Endoscopic Oncology"
 category: concept
 tags: [endoscopic-oncology, advanced-endoscopy, gi-cancers, esd, eus, staging]
 created: 2026-05-15
-updated: 2026-11-06
+updated: 2026-11-12
 sources: [asge-2017-privileging-credentialing, chang-2024-endoscopic-oncologist, asge-2023-esd, acg-2025-eus-quality]
+quality_reviewed: 2026-11-12
 ---
 
-Endoscopic oncology is an emerging subspecialty within gastroenterology focused on the endoscopic diagnosis, staging, curative resection, and palliation of gastrointestinal cancers. It sits at the intersection of advanced therapeutic endoscopy and oncologic medicine.
+## Contents
+- [[#Scope]]
+- [[#Boundaries with Other Specialties]]
+- [[#Training and Credentialing]]
+- [[#See Also]]
+- [[#Sources]]
 
-> **This is a navigational hub, not a source of clinical criteria.** Every indication, threshold, and technique below lives on the linked page, which carries the guideline citation.
+Endoscopy used for the diagnosis, staging, curative resection, and palliation of gastrointestinal (GI) cancers — the oncologic work of advanced therapeutic endoscopy.
+
+---
 
 ## Scope
 
-Endoscopic oncologists perform procedures across the gastrointestinal (GI) tract with oncologic intent:
+| Oncologic role | Where the indications, criteria and technique live |
+|---|---|
+| **Staging and tissue diagnosis** | [[endoscopic-ultrasound\|endoscopic ultrasound (EUS)]], [[subepithelial-lesion]], [[cholangioscopy]], [[brush-cytology]] |
+| **Curative resection of superficial neoplasia** | [[polypectomy]], [[endoscopic-mucosal-resection\|endoscopic mucosal resection (EMR)]], [[endoscopic-submucosal-dissection\|endoscopic submucosal dissection (ESD)]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]] |
+| **Ablation of early neoplasia** | [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]] |
+| **Biliary and pancreatic drainage in malignancy** | [[ercp\|endoscopic retrograde cholangiopancreatography (ERCP)]], [[eus-guided-biliary-drainage]], [[lumen-apposing-metal-stents]] |
+| **Luminal palliation and nutrition** | [[gastric-outlet-obstruction]], [[eus-gastroenterostomy]], [[colonic-stenting]], [[enteral-access]]. Stenting a *resectable* colonic obstruction as a bridge to elective resection is a different decision — [[colorectal-cancer]] |
+| **Pain palliation** | [[celiac-plexus-block\|celiac plexus block or neurolysis]] |
+| **Screening and surveillance (general GI)** | [[colorectal-cancer-screening]], [[colonoscopy-surveillance]], [[barretts-esophagus]], [[gastric-cancer-screening]], [[pancreatic-cancer-screening]] |
 
-- **Staging**: [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]-guided fine-needle aspiration/biopsy for locoregional staging of [[esophageal-cancer|esophageal]], [[gastric-adenocarcinoma|gastric]], [[pancreatic-cancer|pancreatic]], and [[colorectal-cancer|rectal cancers]]; EUS-guided [[celiac-plexus-block|celiac plexus neurolysis]] for pain palliation
-- **Curative resection of superficial neoplasia**: [[endoscopic-submucosal-dissection|Endoscopic submucosal dissection (ESD)]] and endoscopic mucosal resection ([[endoscopic-mucosal-resection|EMR]]) for T1a/T1b lesions in the esophagus, stomach, duodenum, and colon
-- **Biliary and pancreatic interventions**: [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]-based stenting, [[cholangioscopy]] with biopsy, [[eus-guided-biliary-drainage|EUS-guided biliary drainage]] for malignant obstruction
-- **Luminal palliation**: Self-expanding metal stents for malignant esophageal, [[gastric-outlet-obstruction|gastric outlet]], and colonic obstruction; [[enteral-access|enteral access]] for nutritional support
-  - **Distinguish palliation from bridge to surgery.** Colonic [[colonic-stenting|self-expanding metal stent (SEMS)]] in *resectable* obstruction is a bridge to elective resection, a different decision with its own outcome data — that lives on [[colorectal-cancer]]. The gastric-outlet palliation-vs-surgery rule lives on [[gastric-outlet-obstruction]].
-- **Ablation**: [[radiofrequency-ablation|Radiofrequency ablation (RFA)]] for [[barretts-esophagus|Barrett's esophagus]] and early esophageal neoplasia — the ablation-plus-resection pathway lives on [[endoscopic-eradication-therapy]]; photodynamic therapy (historical)
+**Therapeutic procedures now account for over 50% of accepted EUS indications**, a marked increase over the 2006 and 2015 quality-indicator documents; the diagnostic and therapeutic indication lists are on [[endoscopic-ultrasound]] ([[acg-2025-eus-quality]]).
 
-## Relationship to Other Subspecialties
+---
 
-Endoscopic oncology overlaps with but is distinct from:
+## Boundaries with Other Specialties
 
-- **General GI**: Handles screening/surveillance [[colonoscopy]] and [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] (see [[colorectal-cancer-screening]], [[colonoscopy-surveillance]]); refers complex lesions to endoscopic oncology
-- **Surgical oncology**: Endoscopic oncology expands the pool of patients who can avoid surgery (organ preservation) when resection margins are achievable endoscopically
-- **Medical oncology**: Endoscopic oncologists provide staging data that drives systemic therapy decisions and may place feeding tubes/stents to enable chemotherapy tolerance
+- **General GI** — screening and surveillance [[colonoscopy]] and [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]]. Privileges are granted independently for each major category of endoscopy, and complex polypectomy, cap- or band-assisted EMR, ESD, [[poem|per-oral endoscopic myotomy (POEM)]], stent placement and radiofrequency ablation each require separate credentialing and monitoring ([[asge-2017-privileging-credentialing]]).
+- **Surgery** — [[asge-2023-esd|American Society for Gastrointestinal Endoscopy (ASGE) 2023]] suggests *against* surgery where endoscopic cure is feasible: esophageal squamous dysplasia or early, well-differentiated, nonulcerated squamous cell carcinoma without submucosal invasion, and well- or moderately differentiated intestinal-type early gastric adenocarcinoma measuring under 30 mm. **Poorly differentiated early gastric cancer, any size → surgical evaluation over endoscopic approaches.** The size and histology criteria that decide ESD vs EMR vs surgery are on [[endoscopic-submucosal-dissection]] (all of these are conditional recommendations, low quality of evidence).
+
+---
 
 ## Training and Credentialing
 
-What the guideline states ([[acg-2025-eus-quality]]):
+- **Competency is assessed, not counted.** Objective criteria and direct observation — not the number of procedures performed in training or practice — define competency, and EUS should be performed or supervised by an endosonographer fully trained and credentialed for that particular procedure (quality indicator 4; targets table on [[endoscopic-ultrasound]]). No formal credentialing standards yet exist even for ERCP ([[acg-2025-eus-quality]]).
+- **Case-volume floors below which competency cannot be assessed** — EUS 225, ERCP 200, gastric ESD 30 — with privileging by procedure category, proctoring conduct and recredentialing intervals: [[endoscopy-credentialing-and-privileging]] ([[asge-2017-privileging-credentialing]]).
+- **ESD and POEM are "major skills."** In the initial phases of dissemination, acquiring competency should be confined to teaching centers and require formal training; a short course or workshop alone will not result in clinical competency ([[asge-2017-privileging-credentialing]]). [[acg-2025-eus-quality]] states the same for EUS, ESD, POEM and [[endoscopic-bariatric-therapies|endoscopic bariatrics]] — short weekend courses and animal-model training are not a permit to start independently.
 
-- **EUS must be performed or supervised by a fully trained, credentialed endosonographer** — quality indicator 4, target **>98%**.
-- **>50% of accepted EUS indications are now therapeutic**, and the guideline states that **competency should be objectively assessed** rather than assumed from case volume.
-
-**Case-volume thresholds and how privileges are granted** live on [[endoscopy-credentialing-and-privileging]] — including the American Society for Gastrointestinal Endoscopy (ASGE) minimums before competency can be assessed (**EUS 225**, including ≥50 EUS-guided fine-needle aspirations; **ERCP 200**; **endoscopic submucosal dissection 30**), and the rule that **endoscopic submucosal dissection and per-oral endoscopic myotomy are "major skills"** whose early-dissemination training should be **confined to teaching centers** ([[asge-2017-privileging-credentialing]]).
+> [!pitfall] Quality targets are not credentialing standards
+> The EUS quality indicators and their performance targets "do not necessarily reflect the standard of care, credentialing requirements, or training standards and using any of the quality indicators in this document as such is a misuse" — they are a framework for quality improvement ([[acg-2025-eus-quality]]).
 
 ## See Also
 
-[[endoscopy-credentialing-and-privileging]], [[endoscopic-ultrasound]], [[polypectomy]], [[ercp]], [[barretts-esophagus]], [[colorectal-cancer]], [[gastric-adenocarcinoma]], [[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[esophageal-cancer]], [[pancreatic-cancer]], [[cholangioscopy]], [[radiofrequency-ablation]], [[endoscopic-eradication-therapy]], [[enteral-access]], [[colonoscopy-surveillance]], [[gastric-outlet-obstruction]], [[celiac-plexus-block]]
+[[endoscopy-credentialing-and-privileging]], [[endoscopic-ultrasound]], [[polypectomy]], [[ercp]], [[barretts-esophagus]], [[colorectal-cancer]], [[gastric-adenocarcinoma]], [[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[esophageal-cancer]], [[pancreatic-cancer]], [[cholangiocarcinoma]], [[cholangioscopy]], [[radiofrequency-ablation]], [[endoscopic-eradication-therapy]], [[enteral-access]], [[colonoscopy-surveillance]], [[gastric-outlet-obstruction]], [[celiac-plexus-block]], [[colorectal-esd]], [[eus-guided-biliary-drainage]], [[colonic-stenting]]
 
 ---
 
 ## Sources
 
-1. [[chang-2024-endoscopic-oncologist|The Vital Role of the Endoscopic Oncologist]] *(citation of record only)*
-2. [[asge-2023-esd|ASGE Guideline: ESD for Early Esophageal and Gastric Cancer (2023)]]
-3. [[acg-2025-eus-quality|ACG/ASGE 2025: Quality Indicators for EUS]]
-4. [[asge-2017-privileging-credentialing|ASGE 2017: Guidelines for Privileging, Credentialing, and Proctoring to Perform GI Endoscopy]]
+1. [[asge-2017-privileging-credentialing|ASGE 2017: Guidelines for Privileging, Credentialing, and Proctoring to Perform GI Endoscopy]]
+2. [[chang-2024-endoscopic-oncologist|The Vital Role of the Endoscopic Oncologist]] *(citation of record only)*
+3. [[asge-2023-esd|ASGE Guideline: ESD for Early Esophageal and Gastric Cancer (2023)]]
+4. [[acg-2025-eus-quality|ACG/ASGE 2025: Quality Indicators for EUS]]
