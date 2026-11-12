@@ -233,4 +233,5 @@ This subdivision requires further research; provisional criteria were developed 
 - **Gastroparesis vs PDS with delayed gastric emptying:** Rome V reserves "gastroparesis" for predominant nausea or recurrent vomiting, so a patient with postprandial fullness and delayed emptying is **not** labelled gastroparetic here. US gastroparesis guidelines define the entity by delayed emptying with compatible symptoms.
 - **Celiac serology in dyspepsia:** Rome V does not recommend routine testing, citing low yield.
 - **CNVS frequency threshold** changed from Rome IV; pages quoting the older threshold are stale.
+- **Inability to belch is numbered twice within Rome V.** The classification list in [[rome-v-2026-dgbi|Rome V's overview]] gives it as **B3c** (a belching-disorder subtype); this chapter's own criteria box gives it as **B4** (a standalone gastroduodenal disorder). Both labels refer to the same criteria. [[abdominal-bloating-and-distention]] states both and codes neither into its heading.
 - **CHS as a distinct entity is debated** — whether it is a subtype of CVS or distinct; up to 80% of CVS patients use cannabis to relieve symptoms and likely do not have CHS.
