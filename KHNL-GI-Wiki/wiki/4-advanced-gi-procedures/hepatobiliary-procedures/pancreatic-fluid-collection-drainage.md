@@ -3,8 +3,8 @@ title: "Pancreatic Fluid Collection Drainage (Pseudocyst and WON)"
 category: advanced-procedure
 tags: [pancreatic-fluid-collection, pseudocyst, walled-off-necrosis, necrosectomy, lams, step-up, cystgastrostomy, eus, drainage, pancreatitis]
 created: 2026-10-05
-updated: 2026-11-04
-sources: [asge-2016-pancreatic-fluid-collections, aga-2020-cpu-pancreatic-necrosis, acg-2024-acute-pancreatitis, uspg-2025-disconnected-pancreatic-duct]
+updated: 2026-11-12
+sources: [asge-2016-pancreatic-fluid-collections, aga-2020-cpu-pancreatic-necrosis, acg-2024-acute-pancreatitis, uspg-2025-disconnected-pancreatic-duct, sages-2026-walled-off-pancreatic-necrosis]
 ---
 
 # Pancreatic Fluid Collection Drainage (Pseudocyst and WON)
@@ -19,6 +19,7 @@ Endoscopic decompression of an inflammatory **pancreatic fluid collection (PFC)*
   - [[#Timing and Wall Maturation]]
   - [[#Recognizing Infected Necrosis]]
 - [[#Before the Procedure]]
+- [[#Modality Choice]]
 - [[#Step-Up Approach]]
 - [[#Choosing the Route]]
   - [[#Transmural vs Transpapillary]]
@@ -99,9 +100,42 @@ The Atlanta classification of [[acute-pancreatitis|acute pancreatitis (AP)]] was
 | **Insufflation** | **Carbon dioxide**, to minimize gas embolism (Rec 12, low quality) |
 | **Antibiotics** | Typically given, **especially for suspected WON** |
 
+## Modality Choice
+
+**Who should do the first intervention on a symptomatic WON — endoscopy, interventional radiology (IR), or the operating room.** [[sages-2026-walled-off-pancreatic-necrosis]] is the only head-to-head, GRADE-graded comparison; it writes **walled-off pancreatic necrosis (WOPN)** for the same entity. **Every statement is conditional on very low certainty evidence — none is strong,** and the panel's own emphasis is that **optimal treatment includes debridement, not drainage alone.**
+
+| Comparison | What the panel suggests |
+|---|---|
+| Endoscopic **vs** image-guided | **Endoscopic, if expertise is available** — no outcome favored image-guided |
+| Image-guided **vs** open surgery | **Image-guided** over open |
+| Image-guided **vs** minimally invasive surgery (MIS) | **Either** — the only three evaluable outcomes all crossed the line of null effect |
+| MIS **vs** endoscopic | **MIS** over endoscopic |
+| Pure endoscopic **vs** step-up | **Either** |
+| **Unstable patient, including septic shock** | **Open surgery** (expert opinion) — the gold standard in this subgroup |
+
+*Modality for the initial management of symptomatic walled-off necrosis*
+*Source: the four key-question recommendations of the SAGES 2026 guideline, all conditional with very low certainty of evidence*
+*[[sages-2026-walled-off-pancreatic-necrosis|SAGES 2026: Management of Symptomatic Walled-Off Pancreatic Necrosis]]*
+*MIS = minimally invasive surgery*
+
+> [!pitfall] The modality rankings do not chain
+> Read literally they are circular — endoscopic beats image-guided, image-guided ties MIS, MIS beats endoscopic — because each comparison rests on a different very-low-certainty body of evidence. Decide on **anatomy, local expertise and resources**, not on modality rank ([[sages-2026-walled-off-pancreatic-necrosis]]).
+
+**The triage rule that does chain:**
+- **Collection abuts the gastrointestinal tract *and* local endoscopic expertise is available → endoscopic first.** IR is the adjunct if endoscopy fails.
+- **No enteric contact, poorly organized collection, or no advanced endoscopic expertise → IR first, with a low threshold for transfer to a tertiary center if it fails.**
+- Endoscopic intervention **may be less effective or feasible** in patients presenting with **sepsis** and in **unorganized collections**.
+- A **"hostile abdomen" or multiple prior abdominal operations** argues against MIS.
+- **Extent of necrosis favors VARD:** a step-up approach to video-assisted retroperitoneal debridement allows greater access and more debridement tools in severe necrosis.
+- ⚠ **Combining endoscopic and percutaneous drainage risks an enterocutaneous fistula** — a **percutaneous transgastric** route can often avert it.
+
+**The numbers behind Rec 1 (image-guided vs endoscopic, 3 non-randomized studies):** mortality odds ratio (OR) 4.80 (95% CI 1.03–22.39, n = 467) · combined reintervention OR 3.94 (2.33–6.65) · surgical reintervention OR 12.76 (2.38–68.49) · organ failure (Clavien–Dindo IV) OR 5.42 (1.65–17.79) · length of stay 15.75 days longer (3.66–27.84), all against image-guided. Return to the operating room and overall complications crossed the line of null effect. Against open surgery, image-guided halved mortality (OR 0.40, 0.20–0.82) at the cost of more surgical reintervention (OR 4.28, 2.00–9.17). Endoscopic vs MIS (2 randomized controlled trials, n = 100): complications and quality of life favored endoscopy, **reintervention of every kind favored MIS**, and mortality, return to the operating room, organ failure and length of stay were equivalent.
+
+**Supersedes [[aga-2020-cpu-pancreatic-necrosis]] BPA 7 on first-line modality** (same tier, newer, systematic-review based), which treated endoscopic and percutaneous drainage as co-equal first-line options. AGA's remaining percutaneous indications — the patient too ill for endoscopy or surgery, and deep extension of disease — are not contradicted and stand (see [[#Endoscopic vs Percutaneous]]).
+
 ## Step-Up Approach
 
-**Least invasive first; escalate only on failure.** Drainage precedes debridement, and debridement precedes surgery ([[aga-2020-cpu-pancreatic-necrosis]] BPA 15; [[asge-2016-pancreatic-fluid-collections]] Rec 10, moderate quality).
+**Least invasive first; escalate only on failure.** Drainage precedes debridement, and debridement precedes surgery ([[aga-2020-cpu-pancreatic-necrosis]] BPA 15; [[asge-2016-pancreatic-fluid-collections]] Rec 10, moderate quality). **[[sages-2026-walled-off-pancreatic-necrosis]] does not withdraw this sequence but loosens it:** a pure endoscopic approach and a step-up approach are interchangeable (Rec 7), and initial MIS is a graded alternative to endoscopy (Rec 5) rather than only a salvage step.
 
 ```mermaid
 flowchart TD
@@ -116,6 +150,8 @@ flowchart TD
 
 - Escalation trigger inside step 1: **no clinical improvement within 48–72 hours** of nasocystic lavage plus transmural drainage ([[asge-2016-pancreatic-fluid-collections]]).
 - The original step-up trial sequence (percutaneous drainage → minimally invasive retroperitoneal necrosectomy → open necrosectomy) reduced morbidity and mortality vs primary open necrosectomy, confirmed at long-term follow-up.
+- **Pure endoscopic vs step-up, the trade-off** (1 randomized controlled trial, n = 98, step-up arm performed as VARD): pure endoscopic gave **less organ failure** (Clavien–Dindo IV OR 0.36, 0.14–0.95) and 16 fewer hospital days, with surgical reintervention and complications trending in its favor but not significant; step-up gave **fewer repeat procedures** — IR reintervention OR 4.48 (1.36–14.70) and endoscopic reintervention OR 2.96 (1.18–7.39) against pure endoscopic. Mortality and 7-year quality of life were equivalent. Hence Rec 7's "either" ([[sages-2026-walled-off-pancreatic-necrosis]]).
+- **Standardize the algorithm** — a PANTER-style predefined step-up sequence is what makes outcomes reproducible.
 - Disease-level sequencing, antibiotic choice and the surgical menu (video-assisted retroperitoneal debridement [VARD], transgastric and open debridement) live on [[acute-pancreatitis]].
 
 ## Choosing the Route
@@ -250,3 +286,4 @@ Quality of evidence as graded in the document (GRADE); ASGE's Standards of Pract
 2. [[aga-2020-cpu-pancreatic-necrosis|AGA Clinical Practice Update: Management of Pancreatic Necrosis (2020)]]
 3. [[acg-2024-acute-pancreatitis|American College of Gastroenterology Guidelines: Management of Acute Pancreatitis (2024)]]
 4. [[uspg-2025-disconnected-pancreatic-duct|Management of the Disconnected Pancreatic Duct in Pancreatic Necrosis (USPG 2025)]]
+5. [[sages-2026-walled-off-pancreatic-necrosis|SAGES Clinical Practice Guidelines for the Management of Symptomatic Walled-Off Pancreatic Necrosis (2026)]]

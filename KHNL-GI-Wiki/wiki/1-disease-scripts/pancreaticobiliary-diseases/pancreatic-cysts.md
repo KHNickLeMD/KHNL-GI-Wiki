@@ -3,8 +3,8 @@ title: "Pancreatic Cysts"
 category: disease-script
 tags: [pancreatic-cysts, ipmn, mcn, serous-cystadenoma, pseudocyst, spn, pancreas, eus-fna, mrcp, surveillance, pancreatic-cancer]
 created: 2026-05-19
-updated: 2026-09-25
-sources: [acg-2018-pancreatic-cysts, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, asge-2015-antibiotic-prophylaxis, aga-2015-asymptomatic-neoplastic-pancreatic-cysts]
+updated: 2026-11-12
+sources: [acg-2018-pancreatic-cysts, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, asge-2015-antibiotic-prophylaxis, aga-2015-asymptomatic-neoplastic-pancreatic-cysts, iap-2024-kyoto-ipmn]
 ---
 
 Pancreatic cysts are a heterogeneous group of lesions, most detected incidentally on cross-sectional imaging. They range from non-neoplastic (pseudocysts) to mucinous neoplasms with malignant potential (intraductal papillary mucinous neoplasms [IPMNs], mucinous cystic neoplasms [MCNs]) to benign neoplasms (serous cystadenomas [SCAs]) to solid-cystic tumors with generally favorable prognosis (solid pseudopapillary neoplasms [SPNs]). Management hinges on accurate cyst typing and risk stratification. [[acg-2018-pancreatic-cysts]]
@@ -68,18 +68,14 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 
 #### Neoplastic Cysts — Mucinous (Malignant Potential)
 
-**IPMN**
+**IPMN** — *full page: [[intraductal-papillary-mucinous-neoplasm]]* (risk criteria, surveillance intervals, resection and post-resection follow-up)
 
 - Most common pancreatic cyst overall; most common incidental cyst
 - Men = Women; 7th decade peak
-- May be multifocal in up to 40% of cases; multifocality does not increase malignancy risk vs. unifocal
-- Three subtypes by duct involvement:
-  - **Side-branch IPMN:** Most common; communicates with side branches; low but real malignancy risk
-    - Cumulative incidence of cancer: 0.02% at 1 yr, 3.12% at 5 yr, 7.77% at 10 yr (low-risk); up to 24.68% at 10 yr (high-risk) — meta-analysis of 3,236 patients
-  - **Main duct IPMN:** Less common; higher malignancy risk; 38–68% of resected main duct IPMNs harbor high-grade dysplasia or cancer; patulous ampullary orifice ("fish-mouth" ampulla) in ~50%
-  - **Mixed IPMN:** Combines side-branch + main duct involvement; cancer risk similar to main duct
+- Three subtypes by duct involvement — **side-branch** (most common; low but real malignancy risk), **main duct** (less common, higher risk; patulous "fish-mouth" ampulla in ~50%), and **mixed** (risk similar to main duct)
+  - Side-branch cumulative incidence of cancer: 0.02% at 1 yr, 3.12% at 5 yr, 7.77% at 10 yr (low-risk); up to 24.68% at 10 yr (high-risk) — meta-analysis of 3,236 patients
 - Aspirate: high CEA, high amylase
-- Clinical note: IPMNs are also at risk for "concomitant" [[pancreatic-cancer|pancreatic cancer]] (separate from the cyst) — 2% at 17 years in a large multicenter study; evaluate the entire parenchyma on imaging
+- Also at risk for **"concomitant"** [[pancreatic-cancer|pancreatic cancer]] arising separately from the cyst — evaluate the entire parenchyma on imaging
 
 **MCN**
 
@@ -257,6 +253,8 @@ Indicated when diagnosis is unclear and results are likely to alter management. 
 
 **Preferred modality:** MRCP (Conditional/VLow); EUS for patients who cannot/prefer not to have MRI
 
+⚠ **For IPMN specifically, the newer [[iap-2024-kyoto-ipmn|IAP 2024 Kyoto guideline]] sets different intervals and governs** (same tier, newer publication date): three size bands of **<20 mm · ≥20 and <30 mm · ≥30 mm**, with 6-month then 18-month, 6-month ×2 then 12-month, and 6-monthly imaging respectively — and it permits **stopping** for a stable cyst <20 mm with no worrisome features after 5 years, which ACG 2018 declines to endorse (Rec 16 below). The ACG table here remains the protocol for **MCN and the other cyst types**. Full IPMN protocol: [[intraductal-papillary-mucinous-neoplasm]].
+
 ![[pancreatic-cysts-2018-surveillance-algorithm-06.png|700x484]]
 *Figure 2 — Surveillance of presumed IPMN or MCN by largest cyst size. EUS, endoscopic ultrasound; IPMN, intraductal papillary mucinous neoplasm; MCN, mucinous cystic neoplasm; MRI, magnetic resonance imaging. ([[acg-2018-pancreatic-cysts]])*
 
@@ -284,7 +282,7 @@ Note: Surgery should be performed at a tertiary referral center by experienced s
 - **Stop when patient is no longer a surgical candidate** (Strong/VLow)
 - **Age >75:** Reasonable to reassess utility of ongoing surveillance (Conditional/VLow)
 - **Age 76–85:** Individualized approach; informed discussion about surgery, personal morbidity/mortality, and risk of cyst progression
-- Currently insufficient evidence to recommend stopping surveillance after 5 years in still-surgically-fit patients
+- Currently insufficient evidence to recommend stopping surveillance after 5 years in still-surgically-fit patients — ⚠ **superseded for IPMN** by [[iap-2024-kyoto-ipmn|IAP 2024]], which makes stopping an acceptable option for a stable cyst <20 mm after 5 years, and also stops surveillance for a life expectancy <10 years ([[intraductal-papillary-mucinous-neoplasm]])
 
 ### Where AGA 2015 Differs — and Why This Page Follows ACG
 
@@ -326,7 +324,7 @@ Note: Surgery should be performed at a tertiary referral center by experienced s
 
 ## See Also
 
-[[acute-pancreatitis]], [[chronic-pancreatitis]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[antibiotic-prophylaxis-endoscopy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[ascites]], [[portal-vein-thrombosis]], [[jaundice]]
+[[intraductal-papillary-mucinous-neoplasm]], [[acute-pancreatitis]], [[chronic-pancreatitis]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[antibiotic-prophylaxis-endoscopy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[ascites]], [[portal-vein-thrombosis]], [[jaundice]]
 
 ---
 
@@ -336,3 +334,4 @@ Note: Surgery should be performed at a tertiary referral center by experienced s
 2. [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020: Antibiotic Prophylaxis Is Not Required for EUS-FNA of Pancreatic Cystic Lesions (RCT)]]
 3. [[asge-2015-antibiotic-prophylaxis|ASGE Guideline: Antibiotic Prophylaxis for GI Endoscopy (2015)]]
 4. [[aga-2015-asymptomatic-neoplastic-pancreatic-cysts|AGA Institute Guideline on the Diagnosis and Management of Asymptomatic Neoplastic Pancreatic Cysts (2015)]]
+5. [[iap-2024-kyoto-ipmn|International Evidence-Based Kyoto Guidelines for the Management of Intraductal Papillary Mucinous Neoplasm of the Pancreas (2024)]]

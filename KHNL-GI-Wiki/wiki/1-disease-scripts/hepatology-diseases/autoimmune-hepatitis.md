@@ -3,8 +3,8 @@ title: "Autoimmune Hepatitis"
 category: disease-script
 tags: [aih, autoimmune, hepatitis, liver, hpb, igg, immunosuppression, pregnancy, azathioprine, budesonide, mycophenolate-mofetil, mmf, tacrolimus, overlap-syndrome, pbc, psc, cirrhosis, liver-transplant]
 created: 2026-05-16
-updated: 2026-10-28
-sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, aasld-2018-pbc, de-martin-2021-surfasa-acute-severe-aih, hennes-2008-simplified-aih-criteria, alvarez-1999-iaihg-revised-criteria]
+updated: 2026-11-12
+sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, aasld-2018-pbc, de-martin-2021-surfasa-acute-severe-aih, hennes-2008-simplified-aih-criteria, alvarez-1999-iaihg-revised-criteria, gerussi-2026-pbc-aih-delphi]
 ---
 
 ## Assessment
@@ -300,6 +300,14 @@ Requires **2 of the 3 PBC criteria**, plus — on a background of **interface he
 - Paris criteria performance: sensitivity 92%, specificity 97% (single-centre) — but the IAIHG notes the AIH–PBC criteria were never independently validated, and the criteria **miss** patients with less pronounced cholestatic labs, who can still improve on conventional AIH immunosuppression
 - Treatment: predniso(lo)ne + AZA directed at the AIH component; see [[primary-biliary-cholangitis]] for the [[ursodeoxycholic-acid|ursodeoxycholic acid (UDCA)]] component
 
+**What to do in an AIH patient who looks cholestatic** ([[gerussi-2026-pbc-aih-delphi]], international Delphi consensus; ≥80% agreement threshold). This consensus renames the entity **"PBC–AIH"** and calls it a **variant** rather than an overlap, and ⚠ **its panel did not endorse the Paris criteria** — it holds that the diagnosis rests on laboratory, serological *and* histological findings together (95.1%), not on a fixed rule. The criteria table above is retained as the named historical criteria. Full framing: [[primary-biliary-cholangitis#PBC-AIH Overlap Syndrome]].
+
+- **Suspect a PBC component when AMA, anti-glycoprotein 210 (gp210) or anti-sp100 antibodies are positive alongside a disproportionate ALP elevation** — regardless of when in the course this is found.
+- ⚠ **Reassess the original liver biopsy before ordering a new one (87.8%)** in established AIH with disproportionate chronic cholestasis and PBC-related autoantibodies. The point is to avoid an unnecessary procedure.
+- **On a biopsy in established AIH, these are supportive but *not required*:** **florid bile duct lesions** (non-suppurative destructive granulomatous cholangitis) and **portal granulomas** — both 81.7%. Bile duct loss, periportal copper or copper-associated protein granules, and keratin 7–positive intermediate periportal hepatocytes reached consensus **among the 14 liver pathologists only**, not the hepatologists.
+- **GGT is a poor discriminator here** — confounded by medications, alcohol and steatosis — and **biliary abnormalities also occur in acute AIH**, so judge longitudinally.
+- **Re-evaluate the diagnosis over time (85.4%):** features of the two diseases can appear sequentially.
+
 **AIH-PSC overlap:** [[aasld-2020-autoimmune-hepatitis]]
 
 - Typical AIH features + large-duct PSC on cholangiogram (MRCP/ERCP)
@@ -364,3 +372,4 @@ See [[liver-transplantation]] for broader post-LT context.
 5. [[de-martin-2021-surfasa-acute-severe-aih|Early Liver Transplantation for Corticosteroid Non-Responders with Acute Severe Autoimmune Hepatitis: The SURFASA Score]]
 6. [[hennes-2008-simplified-aih-criteria|Simplified Criteria for the Diagnosis of Autoimmune Hepatitis (2008)]]
 7. [[alvarez-1999-iaihg-revised-criteria|International Autoimmune Hepatitis Group Report: Review of Criteria for Diagnosis of Autoimmune Hepatitis (1999)]]
+8. [[gerussi-2026-pbc-aih-delphi|Definition, Diagnosis, and Treatment of Primary Biliary Cholangitis–Autoimmune Hepatitis (PBC–AIH) Variant: An International Expert Delphi Consensus (2026)]]

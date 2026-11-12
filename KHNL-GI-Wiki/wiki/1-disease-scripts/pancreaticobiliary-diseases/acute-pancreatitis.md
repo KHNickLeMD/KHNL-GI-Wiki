@@ -3,8 +3,8 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-10-30
-sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis, aga-2018-initial-management-acute-pancreatitis, bsg-2017-common-bile-duct-stones, idsa-2016-candidiasis, banks-2013-revised-atlanta-classification, wu-2008-bisap-score]
+updated: 2026-11-12
+sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis, aga-2018-initial-management-acute-pancreatitis, bsg-2017-common-bile-duct-stones, idsa-2016-candidiasis, banks-2013-revised-atlanta-classification, wu-2008-bisap-score, sages-2026-walled-off-pancreatic-necrosis]
 ---
 
 # Acute Pancreatitis
@@ -284,7 +284,8 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 - **The anatomy picks the operation** (BPA 12). **Video-assisted retroperitoneal debridement (VARD)** suits **central necrosis extending into the *left* paracolic gutter** (accessed through the left flank) and can be **ineffective at reaching necrosis right of the mesenteric vessels**. **Transgastric** approaches (laparoscopic or open) suit **centrally located** necrosis, and **extension into *either* paracolic gutter can leave the debridement incomplete**. Otherwise choose by patient physiology, team expertise and available resources.
 - **Open debridement still has a role** (BPA 13) — for disease **not amenable to a less invasive endoscopic or surgical approach**, typically a large burden of necrosis distributed diffusely through the abdomen.
 - **Disconnected left pancreatic remnant** after mid-body necrosis: AGA 2020 calls for **distal pancreatectomy** in a reasonable operative candidate and transmural stenting only as a temporizing measure — ⚠ **a newer (2025) consensus reverses that emphasis.** Definitions, diagnostic modalities, stent strategy and the two resection windows: [[disconnected-pancreatic-duct-syndrome|disconnected pancreatic duct (DPD/DPDS)]].
-- **Drainage route, drain caliber, stents, necrosectomy technique, after-care and adverse events — plus the graded [[asge-2016-pancreatic-fluid-collections|ASGE 2016]] indication set — live on [[pancreatic-fluid-collection-drainage]].** Drain before you debride; **endoscopic transmural drainage may be preferred to percutaneous because it avoids a pancreatocutaneous fistula**, and routine FNA is not needed to call a collection infected.
+- **Open surgery is the gold standard in the unstable patient, including septic shock** ([[sages-2026-walled-off-pancreatic-necrosis]] — expert opinion). It is also where a **"hostile abdomen" or multiple prior abdominal operations** rules out a minimally invasive approach.
+- **Drainage route, drain caliber, stents, necrosectomy technique, after-care and adverse events — plus the graded [[asge-2016-pancreatic-fluid-collections|ASGE 2016]] indication set and the SAGES 2026 head-to-head modality comparison — live on [[pancreatic-fluid-collection-drainage]].** Drain before you debride; **endoscopic transmural drainage is preferred to image-guided drainage where the collection abuts the gut and endoscopic expertise is available**, and routine FNA is not needed to call a collection infected.
 
 ### 7. Gallstone Pancreatitis — Definitive Management
 
@@ -333,3 +334,4 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 11. [[idsa-2016-candidiasis|Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America]]
 12. [[banks-2013-revised-atlanta-classification|Classification of Acute Pancreatitis — 2012: Revision of the Atlanta Classification and Definitions by International Consensus]]
 13. [[wu-2008-bisap-score|The Early Prediction of Mortality in Acute Pancreatitis: a Large Population-Based Study (BISAP)]]
+14. [[sages-2026-walled-off-pancreatic-necrosis|SAGES Clinical Practice Guidelines for the Management of Symptomatic Walled-Off Pancreatic Necrosis (2026)]]

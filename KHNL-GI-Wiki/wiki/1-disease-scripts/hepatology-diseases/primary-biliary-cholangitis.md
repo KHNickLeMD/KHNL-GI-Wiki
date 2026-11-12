@@ -3,8 +3,8 @@ title: "Primary Biliary Cholangitis (PBC)"
 category: disease-script
 tags: [pbc, primary-biliary-cholangitis, cholestatic, ama, alkaline-phosphatase, ursodiol, udca, oca, obeticholic-acid, fibrates, pruritus, overlap, hpb, liver, autoimmune, pregnancy, cirrhosis]
 created: 2026-05-19
-updated: 2026-11-08
-sources: [acg-2026-preventive-care-cirrhosis, aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, baveno-viii-2026-portal-hypertension]
+updated: 2026-11-12
+sources: [acg-2026-preventive-care-cirrhosis, aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, baveno-viii-2026-portal-hypertension, gerussi-2026-pbc-aih-delphi]
 ---
 
 ## Assessment
@@ -291,6 +291,23 @@ PBC confers a slightly elevated [[hepatocellular-carcinoma|HCC]] risk (3.9 cases
 
 **Definition:** Simultaneous AIH in patients with AMA-positive PBC. Should not be applied to PBC patients with incidental ANA/SMA positivity or mild interface hepatitis (both are common features of PBC itself).
 
+**Now named a *variant*, not an overlap syndrome, and diagnosed on the overall picture** ([[gerussi-2026-pbc-aih-delphi]], an international Delphi consensus of 74 hepatologists and 14 liver pathologists; consensus threshold ≥80% rating an item appropriate):
+
+- **"PBC–AIH" is the agreed term** (64% of votes, after a third voting round). A **variant** is a subtype of one disease, dominant but presenting atypically — as opposed to an **overlap**, where a patient meets two full sets of criteria. True overlap exists but is rare.
+- **Diagnosis rests on a combination of laboratory, serological and histological findings, not a single parameter or strict criteria (95.1%):** concurrent transaminase *and* cholestatic elevation, raised IgG, relevant autoantibodies, and compatible histology, together.
+- ⚠ **The Paris criteria failed to reach consensus**, as did the newer Zhang criteria and any rule built on clinical judgment alone or histology alone. They are retained above as named historical criteria, not as the diagnostic test.
+- **Re-evaluate the diagnosis over time (85.4%)** — the phenotype evolves and the features can appear sequentially.
+
+> [!pitfall] Escalate anti-cholestatic therapy before reaching for immunosuppression
+> Suspect PBC–AIH in a PBC patient with an **incomplete response to UDCA at 12 months plus a disproportionate transaminase rise relative to cholestasis** — but second-line peroxisome proliferator–activated receptor (PPAR) and farnesoid X receptor (FXR) agonists lower transaminases along with cholestatic markers, so optimise them first and **recheck liver biochemistry at 6–12 months or sooner**. Effective anti-cholestatic escalation is what keeps PBC from being misclassified as PBC–AIH ([[gerussi-2026-pbc-aih-delphi]]).
+
+- **"Disproportionate" is explicitly undefined.** The consensus cites the conventional **R ratio = (ALT ÷ ALT ULN) ÷ (ALP ÷ ALP ULN)** — **>5 hepatocellular, <2 cholestatic** — while noting that some PBC patients simply have a hepatitic biochemical profile without PBC–AIH.
+- **Liver biopsy is required (93.5%)** in a PBC patient with clinical or biochemical features suggestive of PBC–AIH, to confirm the diagnosis and guide management.
+- **The threshold that prompts immunosuppression (80.5%): severe interface hepatitis, ≥3/4 on the Ishak modified Histologic Activity Index — *not* moderate (≥2/4).** Starting immunosuppression for *any* grade of interface hepatitis was judged inappropriate.
+- **Choice of immunosuppressive drug follows the AIH recommendations and local practice (85.9%)**; treatment endpoints follow the current AIH (90.2%) and PBC (95.1%) guidelines. **No timing rule was agreed** — neither starting at diagnosis nor deferring reached consensus.
+- **Untreated, PBC–AIH has a worse natural history than PBC alone (91.5%)** — but the panel reached **no consensus on whether treatment alters prognosis**.
+- **Not agreed, and so left open:** whether PBC–AIH can be suspected at the time of PBC diagnosis before treatment; and, counting hepatologists and pathologists together, **any specific histological feature defining PBC–AIH in established PBC** (the ≥2/4 interface-hepatitis figure reached consensus among the 14 pathologists only, and is a diagnostic not a treatment threshold).
+
 **Paris criteria — full criteria table lives on [[autoimmune-hepatitis]]** (single home), along with the ⚠ note that [[aasld-2018-pbc]] and [[aasld-2020-autoimmune-hepatitis]] state the combination rule differently. In brief: [[aasld-2018-pbc]] requires **2 of 3 AIH criteria** (ALT >5× ULN · IgG ≥2× ULN and/or SMA+ · biopsy with moderate/severe interface hepatitis), while the newer [[aasld-2020-autoimmune-hepatitis]] — which this page follows (newer) — additionally requires 2 of 3 PBC criteria and treats interface hepatitis as a prerequisite rather than a countable criterion. Score it on [[autoimmune-hepatitis]].
 
 Present in 1–14.2% of PBC patients (higher in Hispanic patients). Worse outcomes than classic PBC in terms of portal hypertension, death, or LT need.
@@ -354,3 +371,4 @@ Risk of developing PBC is increased among first-degree relatives (FDRs), especia
 5. [[aasld-2020-autoimmune-hepatitis|AASLD Practice Guidance on Autoimmune Hepatitis (2020)]]
 6. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
 7. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
+8. [[gerussi-2026-pbc-aih-delphi|Definition, Diagnosis, and Treatment of Primary Biliary Cholangitis–Autoimmune Hepatitis (PBC–AIH) Variant: An International Expert Delphi Consensus (2026)]]

@@ -6,6 +6,49 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-12] lint | Ingest pass — backlog mode, raw/ audit corrected
+
+**Scope:** LINT with ingest given the pass budget (*Backlog mode*). `git pull --rebase` clean, no untracked files under `raw/` (nothing new from the inbox sync). No source page carried `ingest: partial` at the start of the pass.
+
+**`raw/` audit:** 618 raw files vs 440 `wiki/sources/` pages. Matching raw filenames against each source page's `title:` + `**Article:**` line (not its slug) gives **~45 uningested tier-1/2 files**, all of them Nick's own drops — none appears in `/repo/.fetched-files`, whose 14 entries are all drug labels. **Backlog mode stays ON.** Three low-scoring filenames were false alarms and are ingested already: `AGA/NIT in MASDL.pdf` = [[aga-2023-nafld-noninvasive-biomarkers]], `AGA/GLP1 before endo.pdf` = [[aga-2024-glp1-endoscopy]], and `Other/Cotton Consensus.pdf` is misnamed — its contents are Suzuki et al., already ingested as [[suzuki-2021-pep-acute-pancreatitis-criteria]].
+
+**Sources created:**
+
+- [[sages-2026-walled-off-pancreatic-necrosis]] — SAGES/AHPBA clinical practice guideline on symptomatic walled-off pancreatic necrosis (Surg Endosc 2026;40:8229–8249). All 7 statements captured (5 conditional, 2 expert opinion; the document numbers none, so the numbering is the wiki's). Every recommendation rests on very low certainty evidence and none is strong.
+- [[iap-2024-kyoto-ipmn]] — fourth IAP revision of the IPMN guidelines (Pancreatology 2024;24:255–270), the first backed by five published systematic reviews. All 24 clinical questions captured with their SIGN 2019 evidence levels and grades.
+- [[gerussi-2026-pbc-aih-delphi]] — ERN RARE-LIVER / Global PBC Study Group / IAIHG Delphi consensus on the PBC–AIH variant (Hepatology 2026). Every consented statement captured with its agreement percentage, and every item that **failed** consensus recorded as such — including the Paris and Zhang criteria.
+
+**Pages created:**
+
+- [[intraductal-papillary-mucinous-neoplasm]] — new disease script in `1-disease-scripts/pancreaticobiliary-diseases/`. IPMN previously had no page of its own; it lived as a sub-section of [[pancreatic-cysts]], which was already 3,095 words and over the *Short pages* ceiling. The new page carries all 4 high-risk stigmata and 10 worrisome features with their thresholds, the additive worrisome-feature risk (22/34/59/100% for 1/2/3/≥4), HGD/IC rates by duct type and morphological subtype, the three-band surveillance protocol and the stop rule, resection and margin rules, post-resection surveillance with its two risk factors, concomitant pancreatic cancer and multifocal disease.
+
+**Pages updated:**
+
+- [[pancreatic-fluid-collection-drainage]] — new `## Modality Choice` section with the SAGES head-to-head comparison table, the anatomy/expertise triage rule and the septic-shock exception; step-up flowchart caption and surrounding text reconciled with Rec 5 and Rec 7.
+- [[acute-pancreatitis]] — septic-shock open-surgery exception and the hostile-abdomen caveat from SAGES 2026; the endoscopic-vs-percutaneous pointer rewritten to the SAGES condition.
+- [[pancreatic-cysts]] — IPMN block condensed to one line plus a link to the new page; the ACG 2018 surveillance table and stop rules kept but explicitly scoped to non-IPMN cysts, with the Kyoto 2024 supersession surfaced inline.
+- [[primary-biliary-cholangitis]] — PBC–AIH rewritten to the variant framing, with the decision threshold the page had been missing: **severe interface hepatitis ≥3/4 on the Ishak modified HAI, not moderate ≥2/4**, as the indication for immunosuppression. Added the mandatory biopsy, the suspicion trigger (incomplete UDCA response at 12 months plus a disproportionate transaminase rise), the R-ratio framing with its stated caveat, and a `[!pitfall]` on escalating anti-cholestatic therapy first. Paris criteria kept as named historical criteria.
+- [[autoimmune-hepatitis]] — new block on what to do in an AIH patient who looks cholestatic: the AMA/gp210/sp100-plus-disproportionate-ALP trigger, the reassess-the-old-biopsy-first rule, and the histological features that are supportive but not required — with the pathologist-only statements labelled as such.
+
+**Figure captured:** `raw/assets/ipmn-2024-kyoto-management-algorithm-07.png` — Fig. 3 of the Kyoto guideline (BD-IPMN management algorithm), embedded on [[intraductal-papillary-mucinous-neoplasm]] with the 4-line caption. Permitted because the source is open access under CC BY-NC-ND 4.0; the SAGES guideline is under exclusive Springer licence, so nothing was captured from it.
+
+**Cards:** 2 notes added to `primary-biliary-cholangitis` (the ≥3/4 vs ≥2/4 interface-hepatitis threshold; the mandatory biopsy) and 1 to `autoimmune-hepatitis` (the AMA/gp210/sp100-plus-ALP suspicion trigger). 2 notes added to `pancreatic-fluid-collection-drainage` (the endoscopic-first anatomic/expertise prerequisites with the modality table in Back Extra; the septic-shock open-surgery exception). New card file `intraductal-papillary-mucinous-neoplasm` with 10 notes. On `pancreatic-cysts`, `0c1006` and `0c1007` were re-scoped away from IPMN, since Kyoto 2024 now governs that interval and stop rule. `page_updated:` deliberately left off the new IPMN file and stale on the two touched files so the card pass verifies them. `node` is blocked in this sandbox, so nothing was rebuilt — the 05:00 card pass picks it up.
+
+**Contradictions surfaced:**
+
+- SAGES 2026's recommendations are **non-transitive** (endoscopic > image-guided; image-guided > open and ≈ MIS; MIS > endoscopic) — surfaced on the source page and inline on [[pancreatic-fluid-collection-drainage]]; the panel's narrative makes anatomy, expertise and resources decisive rather than modality rank. SAGES 2026 also supersedes [[aga-2020-cpu-pancreatic-necrosis]] Best Practice Advice 7 on first-line modality (same tier, newer, systematic-review based), and makes initial minimally invasive surgery a graded alternative to endoscopy rather than a salvage step in the step-up sequence.
+- The PBC–AIH Delphi panel **did not endorse the Paris criteria** (nor the newer Zhang criteria), which [[primary-biliary-cholangitis]] and [[autoimmune-hepatitis]] both leaned on. Newer and same tier, so the combination-of-findings framing governs and the Paris table survives as named historical criteria on [[autoimmune-hepatitis]], its single home. Also carried: several histology statements reached consensus **among the 14 liver pathologists only**, and are labelled that way on the pages rather than reported as whole-panel consensus.
+- Kyoto 2024 supersedes [[acg-2018-pancreatic-cysts]] on IPMN surveillance intervals and on stopping surveillance (same tier, newer publication date). ACG 2018 keeps cyst typing, the cyst-fluid cutoffs and the non-IPMN entities. Also carried as published: the Kyoto panel's own data favour a 10 mm mural-nodule threshold (odds ratio 7.90 vs 2.93) yet it kept 5 mm, and the 3–5× concomitant-pancreatic-cancer risk is Japanese data that Western series do not reproduce — both stated by the guideline itself.
+
+**Steps that did nothing, and why:**
+
+- *Daily source fetch* — not a 06:00 cron pass; not run.
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps* — **paused: ingest backlog** (backlog mode). There are no stubs anywhere in `wiki/` and the *Coverage Gaps* queue holds one guarded entry, so two of the three had nothing to do regardless.
+- *Lecture gating* — 15 uningested files are lecture/chalk-talk transcripts; none auto-ingested, none listed for Nick this pass since no lecture selection was requested.
+- *NCCN 2026 Genetic Familial High-Risk Assessment* is in `raw/` and uningested; skipped per the standing EULA decision.
+
+---
+
 ## [2026-11-11] update | Card pass — dedup, 4 pages carded, 5 card files quality-reviewed (second pass)
 
 **Dedup (ran first):** 8 candidate pairs judged and marked, plus 1 raised by this pass's own new notes (infant live-vaccine hold after maternal anti-TNF vs infant anti-HCV testing age — different diseases and different decisions, distinct); 0 unjudged remain at the end of the pass. **1 merge** — `eosinophilic-esophagitis` `ee0105` (the five EREFS features) folded into `ee0115`, which already names all five on its front and now owns the instrument with the full EREFS table in Back Extra. **7 distinct:** EoE phenotype findings vs EREFS point weights; first-response vs post-switch reassessment intervals; first-line choice vs washout timing; functional heartburn vs globus Rome V criteria (different diagnoses); midazolam vs fentanyl dosing (different drugs); EoE dilation perforation risk vs what dilation makes unassessable; variceal secondary prophylaxis vs band-ligation schedule. The last pair shared one cloze — the q2–4-week ligation interval, owned by [[endoscopic-band-ligation]] — so `1f2b4c` was recut to the two components alone, which also removed a front that leaked half its own answer ("ligation every …" above "carvedilol plus band ligation").
