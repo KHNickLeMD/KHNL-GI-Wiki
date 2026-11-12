@@ -18,6 +18,7 @@ WIKI = os.path.normpath(os.path.join(HERE, '..', '..', 'KHNL-GI-Wiki', 'wiki'))
 CARDS = next((d for d in [os.environ.get('CARDS_DIR'), '/cards',
                           '/mnt/LeStorage/Drive/KHNL/##3Resources/#KHNL GI Wiki/cards'] if d and os.path.isdir(d)), None)
 SKIP = {'index.md', 'log.md', 'overview.md', 'needed-sources.md'}
+FIRM_CUT = '2026-11-12'   # Nick: firm ~30% deck cut; card reviews older than this count as not reviewed
 
 
 def fm(src):
@@ -66,7 +67,10 @@ def cards():
         live = body.split('\n# Retired', 1)[0]
         notes = len(re.findall(r'^\[[0-9a-f]{6}\]\{', live, re.M))
         extras = len(re.findall(r'^>.*(<table|<img)', live, re.M))
-        rows.append(dict(rel=rel, reviewed=meta.get('cards_reviewed', ''), notes=notes, visuals=extras))
+        rev = meta.get('cards_reviewed', '')
+        if rev and rev < FIRM_CUT:   # reviewed under the lighter rule -> back in the queue
+            rev = ''
+        rows.append(dict(rel=rel, reviewed=rev, notes=notes, visuals=extras))
     return rows
 
 
