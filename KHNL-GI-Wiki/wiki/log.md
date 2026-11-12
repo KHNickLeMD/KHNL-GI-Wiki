@@ -6,6 +6,21 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-11] update | Figure licences: tighter open-access rule + figure-licenses.py gate
+
+**Why:** the 2026-11-10 open-access rule had no definition and no check. 93 of the 94 figures on pages still have no licence named in their caption.
+
+- `CLAUDE.md → Copyright`:
+  - open access means the PDF states a CC licence, checked with `pdftotext | grep creativecommons`
+  - "free access" and free society PDFs don't count
+  - caption line 2 names the exact licence
+  - ND licences: whole figure, unaltered
+  - `figure-licenses.py` is the gate before every commit
+- `Figure capture`: licence check is step 0.
+- `Card rule 10`: label-removing crops only from licences that allow changes; never from ND figures.
+- New `website_files/scripts/figure-licenses.py`: no arguments = sweep status; with pages = gate, exit 1 if any figure has no licence; `--cards` also lists card images.
+- Only licensed figure so far: `ipmn-2024-kyoto-management-algorithm-07.png` (CC BY-NC-ND 4.0, licence line confirmed in the PDF). The other 93 wait for the licence sweep.
+
 ## [2026-11-12] update | Card pass — dedup, 15 new notes across 9 pages, quality review of 3 card files
 
 **Dedup:** `anki-dupes.mjs` returned 0 unjudged candidate pairs at the 0.4 threshold — nothing to merge, so the step did nothing and no ledger verdicts were written.
