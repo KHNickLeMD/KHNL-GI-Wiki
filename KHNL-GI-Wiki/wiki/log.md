@@ -6,6 +6,42 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-12] update | Card pass — dedup, new cards, card quality review
+
+**Deck slimming (dedup, run first):** 6 candidate pairs from `anki-dupes.mjs`, all judged and marked in the ledger — 5 merged, 1 distinct (Kudo VI/VN + JNET 3 for deep submucosal invasion vs JNET 2B management are different facts). Merged: the Baveno VIII liver-stiffness ladder notes consolidated onto `[[portal-hypertension]]` (cACLD bands, CSPH rule-in ≥25 kPa, CSPH rule-out ≤15 kPa + platelets), the 12-month non-invasive-test interval onto `[[liver-stiffness-measurement]]`, and prior-botulinum-toxin effect on later POEM/Heller onto `[[botulinum-toxin]]`. Keepers carry `{also:}` so the footer names both pages. 0 unjudged candidates remain.
+
+**Cards written / corrected (one page at a time, budget-capped):**
+
+- `gastric-premalignant-conditions` — 5 new notes: two-expert-pathologist confirmation + skilled-endoscopist repeat exam, post-R0 surveillance interval by dysplasia grade, repeat-endoscopy window after incomplete resection by grade, refractory H. pylori → 3-year surveillance, eradication after resected early gastric cancer. Everything else on the page is owned and already carded on `[[gastric-intestinal-metaplasia]]`, `[[atrophic-gastritis]]`, `[[gastric-polyps]]`, `[[gastric-cancer-screening]]` or `[[upper-endoscopy]]`.
+- `hepatic-venous-pressure-gradient` — 2 new notes (within-2-mmHg reading-agreement rule; access-route choice, with the AASLD route table as Back Extra); "avoid fentanyl and propofol" added to the sedation note.
+- `nausea-and-vomiting` — no new cards warranted (every fact is owned by `[[gastroparesis]]`, `[[cyclic-vomiting-syndrome]]`, `[[rumination-syndrome]]` or the cannabinoid hyperemesis page); fixed 4 notes whose `{at:}` anchor pointed at a heading the quality review renamed.
+- `abdominal-bloating-and-distention` — no new cards; retired the Rome IV frequency/duration note into its Rome V replacement, which the page now presents as the operative criteria.
+- `mutyh-associated-polyposis` — 2 new notes (thyroid ultrasound not recommended in MAP; monoallelic carrier with an affected first-degree relative). Four Back Extra blocks corrected against the re-reviewed page: monoallelic prevalence 2.1% vs 1.8% in colorectal-cancer cases, the two colectomy studies de-conflated, SIR 4.2 removed from duodenal cancer (it is the gastric SIR), and the 17-gene-panel claim replaced with the ACG 2026 adenoma-count trigger. Three stale `{at:}` anchors repointed.
+
+**Card quality review (release sweep):**
+
+- `crohns-disease` — 56 → 49 notes. Retired: the lower-risk postoperative profile (mirror of the higher-risk one, now its Back Extra table), two ACG 2025 KC-55 profile rows tested piecemeal against the risk-summary note, the stricture risk-factor list already named in the companion note's table caption, two superseded AGA 2021 positioning notes (the AGA 2025 tier table governs), and the natalizumab stance (the drug is not used in Crohn's). 2 Back Extra tables added (AGA 2017 recurrence-risk profiles with recurrence rates; ACG 2025 severity definitions). 2 notes reformatted off the header line.
+- `ulcerative-colitis` — 57 → 50 notes. Retired: two AGA 2021 surveillance-interval notes superseded by the ASGE/ACG 2024 Table 13 note that carries the full interval table, the SCENIC 2015 dysplasia note split across two newer notes, one AGA 2024 efficacy-tier row tested piecemeal against the note holding the tier table, the JAK-rescue note whose whole content sits in the rescue-agent note's Back Extra, the "poor prognostic factors, how to use them" note (no crisp answer — its caveat absorbed into the factor list's Back Extra), and the IBD chemoprevention note (the answer is the generic goal of all IBD therapy). 2 notes reformatted off the header line.
+- `ercp` — 53 → 48 notes. Retired: the conditional prophylactic-pancreatic-duct-stent note whose content sits in the strong-indication note's Back Extra, the fluoroscopy-settings and confirm-the-stone-first notes already carried in the pregnancy notes' Back Extra, the BSG 2017 coagulopathy note superseded by the ASGE 2026 note saying the same thing, and the "post-ERCP pancreatitis relates to technique, not energy settings" note (changes no action; settings live on the electrosurgery page). 2 notes reformatted off the header line.
+- `liver-transplantation` — 51 → 50 notes. Every note is transplant-hepatology care — referral, listing, immunosuppression, rejection, infection prophylaxis, bone/renal/metabolic follow-up — so the high-yield test kept them; no allocation or operative-technique notes to cut. The two "not recommended for routine allograft monitoring" notes (protocol biopsy, transient elastography) merged into one. 2 Back Extra tables added (AASLD/AST 2025 rejection treatment by type and severity; referral triggers by presentation). One over-length bullet fixed after the build flagged it.
+- `variceal-upper-gi-bleeding` — 44 → 43 notes. Retired the "when to start the NSBB" note, which tests the same linkage as the Baveno VIII note on stopping the vasoactive drug at 24 hours. The rest — the gastric-varices glue and EUS technique set in particular — is advanced-endoscopy content the high-yield test keeps.
+- `tips` — 39 → 36 notes. Retired: the prior-overt-encephalopathy note (the same decision as the broader "what does not contraindicate the shunt" note), the "endoscopic therapy is a bridge" note merged into the ectopic-varices endovascular note, and the salvage-versus-rescue nomenclature note (both go to TIPS, so the answer changes no action).
+
+- `hepatocellular-carcinoma` — 37 → 35 notes. Retired the MELD-exception note (MMaT-3 and the 6-month wait are organ-allocation policy, not patient management) and the trial-only stance on adding systemic therapy to transarterial therapy (oncology combination management). "Perform selectively/segmentally" removed from the BCLC-B note's Back Extra, since the dedicated technique note owns it. The transplant, ablation, resection, surveillance-recall and TACE-suitability notes all pass. Its card file is still older than the page, so it stays in the new-card queue.
+- `endoscopy-sedation` — no change needed; all 40 notes pass. Doses, reversal agents, airway assessment, monitoring and rescue are the endoscopist's own work, and the GLP-1 set is current. `cards_reviewed:` set with nothing else touched.
+
+- `portal-vein-thrombosis` — 36 → 34 notes. Retired the Meso-Rex bypass note (paediatric surgical management) and the AGA 2025 "when to observe instead of anticoagulate" note, which states the same remnant-lumen threshold as the Baveno VIII indication note from the other side.
+
+- `hepatic-cysts` — no change needed; all 34 notes pass. The simple-cyst, polycystic-liver, mucinous-cystic-neoplasm, Todani and echinococcosis sets are each a management decision a hepatologist makes. `cards_reviewed:` set with nothing else touched.
+
+**Queue after this pass:** 20/356 card files quality-reviewed; ~4,337 live notes. The Nextcloud `occ files:scan` that publishes the rebuilt `dist/khnl-gi-wiki.txt` is the cron's step, not run here.
+
+**Still open for the next card pass:** `tips` [b96047] (AASLD 2024) and `variceal-upper-gi-bleeding` [5b8f27] (ASGE 2026) both frame the TIPS-versus-retrograde-transvenous-obliteration choice; the dedup ledger has already judged that pair, so it was left alone rather than re-opened here.
+
+**Builds:** `build-anki.mjs` run after every file; no problem reported on any file this pass touched. The remaining "cards stale" warnings and one `nausea-and-vomiting` anchor warning belong to the standing backlog later passes work through. Nothing committed or pushed.
+
+---
+
 ## [2026-11-12] lint | Quality review sweep — release pass
 
 **Scope:** Quality review step only (`review-queue.py --pages`), never-reviewed pages from the top of the queue, one subagent per page. Decision sufficiency + source fidelity against the pages' tier-1 raw sources first, then visuals (accuracy outranks visuals), then concision / callouts / organization / abbreviations.
