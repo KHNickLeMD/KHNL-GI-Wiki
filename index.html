@@ -1798,7 +1798,8 @@ const SOURCE_SOCIETIES = {
 // Short display title for a source: topic only — org, year, doc-type
 // boilerplate ("Clinical Practice Update on…", ": Expert Review") stripped.
 const ORG_NAMES = /^(?:the\s+)?(?:American College of Gastroenterology|American Gastroenterological Association(?: Institute)?|American Association for the Study of Liver Diseases|American Society (?:for|of) Gastrointestinal Endoscopy|U\.?S\.? Multi-Society Task Force(?: on Colorectal Cancer)?)\b[\s:,'’s-]*/i;
-const DOC_TYPE = /^(?:(?:Institute|Rapid|Living|Clinical|Practice|Critical|Focused|Guidelines?|Guidance|Updates?|Position|Paper|Statement|Consensus|Standards?|of|White|Advisory|Recommendations?|Expert|Review|Oncology|in|—)\s*)+(?:(?:on|for|in|of)\s+)?(?:the\s+)?/i;
+// Whole words only (\b): without it "in" ate the "In" of "International" (2026-11-12).
+const DOC_TYPE = /^(?:(?:(?:Institute|Rapid|Living|Clinical|Practice|Critical|Focused|Guidelines?|Guidance|Updates?|Position|Paper|Statement|Consensus|Standards?|of|White|Advisory|Recommendations?|Expert|Review|Oncology|in)\b|—)\s*)+(?:(?:on|for|in|of)\s+)?(?:the\s+)?/i;
 function shortSourceTitle(title) {
   let t = (title || '').trim(), prev;
   do {
@@ -2259,15 +2260,17 @@ function showOverview() {
 
   // Helper: filter to last month, fallback to 6 most recent
   const oneMonthAgo = (() => { const d = new Date(); d.setMonth(d.getMonth()-1); return d.toISOString().slice(0,10); })();
-  const recentFilter = (arr) => {
-    const inMonth = arr.filter(p => (p.updated||p.created||'') >= oneMonthAgo);
+  const recentFilter = (arr, dateOf = p => p.updated||p.created||'') => {
+    const inMonth = arr.filter(p => dateOf(p) >= oneMonthAgo);
     return inMonth.length ? inMonth : arr.slice(0,6);
   };
 
-  // Recent sources — sort by updated/created desc
+  // Recent sources — by ingest date (`created`), never `updated`: editing a source page must not
+  // bump it back to the top (Nick, 2026-11-12).
+  const ingestedOn = p => p.created || p.updated || '';
   const allSources = Object.values(wikiData).filter(p=>p.category==='source')
-    .sort((a,b)=>(b.updated||b.created||'').localeCompare(a.updated||a.created||''));
-  const sources = recentFilter(allSources);
+    .sort((a,b)=>ingestedOn(b).localeCompare(ingestedOn(a)));
+  const sources = recentFilter(allSources, ingestedOn);
 
   // Recent pages — any non-source page sorted by updated desc
   const allRecentPages = Object.values(wikiData)
