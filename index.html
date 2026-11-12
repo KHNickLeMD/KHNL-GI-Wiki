@@ -3359,6 +3359,11 @@ function initMermaid() {
       try {
         const { svg, bindFunctions } = await window.mermaid.render(id, el.textContent, el); // measure inside el so .md-body .mermaid CSS applies
         el.innerHTML = svg;
+        // Pill nodes (["…"]) are rects with rx = height/2, so a multi-line pill clips its first and last
+        // lines at the curved ends (Nick, 2026-11-12). Tall pills → rounded rectangle; one-line pills keep the pill.
+        el.querySelectorAll('g.node rect').forEach(r => {
+          if (+r.getAttribute('height') > 48 && +r.getAttribute('rx') > 14) { r.setAttribute('rx', 14); r.setAttribute('ry', 14); }
+        });
         if (bindFunctions) bindFunctions(el);
       } catch (e) {
         console.warn('mermaid', e);
