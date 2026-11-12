@@ -9,8 +9,8 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 ## [2026-11-12] update | Figure licences: paywalled screenshots replaced on 40 pages
 
 **Licence check (step 2):** read the licence statement in every source PDF behind the 93 unverified page figures (Crossref metadata for corroboration).
-- CC-licensed: AGA 2023 EUS gallbladder drainage (CC BY-NC-ND 4.0);  caption now names it.
-- Unresolved: AFS 2022 EGJ integrity and AFS 2024 GE valve. The PDFs print only "© The Author(s)", but Crossref lists CC BY-NC 4.0. SAGE's page sits behind a bot check, so Nick checks in a browser. Their 11 figures (, ) stay until then.
+- CC-licensed: AGA 2023 EUS gallbladder drainage (CC BY-NC-ND 4.0); `acute-cholecystitis` caption now names it.
+- Unresolved: AFS 2022 EGJ integrity and AFS 2024 GE valve. The PDFs print only "© The Author(s)", but Crossref lists CC BY-NC 4.0. SAGE's page sits behind a bot check, so Nick checks in a browser. Their 11 figures (`antireflux-surgery`, `reflux-testing`) stay until then.
 - Everything else is © the society or publisher (ACG, AGA, AASLD, USMSTF, EASL/Baveno, Chicago, Dallas, Padova, San Diego, AFS 2023 TIF). "Free access" is not a licence.
 
 **Replacement (step 3), 81 figures:**
@@ -18,13 +18,13 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - Text-like grids → Markdown tables.
 - Photos, tracings and schematics → link lines to the source figure number.
 - Figures whose content was already on the page → removed.
-- Asset files stay in  because Anki cards still use them; cards not changed (Nick, 2026-11-12).
+- Asset files stay in `raw/assets/` because Anki cards still use them; cards not changed (Nick, 2026-11-12).
 
 **Errors found and fixed along the way:** acute-diarrhea fever/72-hour branch, HCC BCLC table, pancreatic-cyst surveillance table, celiac gluten-challenge dose, chronic-pancreatitis "antioxidants", abnormal-liver-chemistries HBcAb IgG. Details below.
 
 C. diff, semaglutide and the first polypectomy LST figure were done by hand as samples.
--  — ACG 2021 testing algorithm → redrawn flowchart.
--  — AASLD 2025 Table 3 screenshot removed (already on the page as a table).
+- `clostridioides-difficile` — ACG 2021 testing algorithm → redrawn flowchart.
+- `semaglutide` — AASLD 2025 Table 3 screenshot removed (already on the page as a table).
 - `polypectomy` — 13 USMSTF 2020 (Endoscopic Removal + Malignant Polyps) screenshots removed: both management algorithms → redrawn flowcharts (malignant-polyp one split at its pedunculated / non-pedunculated first branch, with algorithm notes); NICE, Kudo pit pattern and JNET 2B → tables; endoscopic photos and depth schematics (LST-G/NG, SSL features, non-lifting, AJCC depth, Haggitt, Kikuchi, specimen pinning) → link lines to the source figure numbers; SSL-feature and non-lifting facts moved into the text.
 - `achalasia` — ACG 2020 subtype HRM tracings → link line; diagnostic and treatment algorithm → redrawn flowchart from the full PDF page (the old crop had lost the "unfit for definitive therapy" box).
 - `chicago-classification-v4` — CCv4.0 hierarchical scheme → two flowcharts split at the median-IRP question, with the legend's footnotes.
