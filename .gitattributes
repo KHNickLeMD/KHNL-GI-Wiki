@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# log.md is append-only and edited by both the cron and interactive sessions;
+# union-merge so concurrent entries never block a rebase (2026-11-11 card pass was lost this way)
+KHNL-GI-Wiki/wiki/log.md merge=union
