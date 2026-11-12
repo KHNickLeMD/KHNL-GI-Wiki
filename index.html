@@ -920,7 +920,10 @@
     font-weight: 500;
   }
 
-  .home-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-bottom: 20px; min-width: 0; }
+  /* Same 3-column grid and gap as .home-sections-grid so the card edges line up with the tiles above:
+     recently updated = 1 column, recently ingested sources = 2 columns (Nick, 2026-11-12). */
+  .home-cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; margin-bottom: 20px; min-width: 0; }
+  .home-cards > .home-card-wide { grid-column: span 2; }
   .home-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 0; box-shadow: none; display: flex; flex-direction: column; height: 304px; min-width: 0; overflow: hidden; }
   .hc-pagination { display: flex; align-items: center; justify-content: flex-end; gap: 6px; padding: 6px 12px; border-top: 1px solid var(--border-soft); flex-shrink: 0; }
   .hc-pagination .hc-count { margin-right: auto; }
@@ -976,7 +979,7 @@
   }
   .home-sections-link:hover { opacity: 0.75; }
   .home-sections-grid {
-    display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 26px;
+    display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; margin-bottom: 26px;
   }
   .home-section-card {
     background: var(--surface); border: 1px solid var(--border);
@@ -1301,6 +1304,7 @@
     #page-content-wrap { margin: -20px -16px -40px; padding: 20px 16px 40px; min-height: calc(100vh - 48px); border: none; border-radius: 0; box-shadow: none; }
     .stats-grid { grid-template-columns: repeat(2,1fr); }
     .home-cards { grid-template-columns: 1fr; }
+    .home-cards > .home-card-wide { grid-column: auto; }
     .home-sections-grid { grid-template-columns: 1fr; }
     .toc-grid { grid-template-columns: 1fr; }
     #page-title { font-size: 30px; }
@@ -2378,7 +2382,7 @@ function showOverview() {
           <ul class="home-card-list" id="pg-pages-list">${renderPageItems(recentPages, 0)}</ul>
           ${paginationBar('pages', 0, recentPages.length, PAGE_SIZE)}
         </div>
-        <div class="home-card">
+        <div class="home-card home-card-wide">
           <h3>Recently ingested sources <span class="hc-col-label" style="margin-left:auto;min-width:52px;text-align:center;white-space:nowrap;">Journal</span><span class="hc-col-label" style="width:80px;text-align:right;white-space:nowrap;">Date Ingested</span></h3>
           <ul class="home-card-list" id="pg-sources-list">${renderSourceItems(sources, 0)}</ul>
           ${paginationBar('sources', 0, sources.length, PAGE_SIZE)}
