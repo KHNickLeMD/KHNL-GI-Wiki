@@ -271,10 +271,10 @@ HCC risk is modestly raised (3.9 cases per 1,000 person-years) — lower than vi
 
 **Refer** for decompensated cirrhosis, [[cirrhosis|Model for End-Stage Liver Disease (MELD)]] score **>14** (Guidance Statement 21; the text also gives MELD ≥15), total bilirubin **>6 mg/dL**, or Mayo risk score **>7.8**. Severe intractable pruritus is an exceptional indication; chronic fatigue is not.
 
-- **Outcomes** are among the best of any indication — 1/3/5/10-year patient survival 90%/87%/84%/79%; graft survival 85%/80%/78%/72%.
+- **Outcomes** are among the best of any transplant indication.
 - **Recurrent PBC:** 20–30% by 10 years, up to 50% by 20 years; median 3–6 years; rarely affects patient or graft survival. Risk factors include [[tacrolimus]] therapy, advanced donor age, higher MELD at listing.
-- **UDCA post-transplant** — lower recurrence (21% vs 62%, P=0.004); continue indefinitely. Cyclosporine-based immunosuppression may reduce recurrence (unproven).
-- **After transplant:** pruritus improves; fatigue improves in a subset but moderate-severe fatigue persists in nearly half at 2 years; sicca syndrome unchanged; bone disease worsens for ~6 months then recovers past baseline; AMA may persist or reappear without signalling recurrence.
+- **UDCA post-transplant** — lower recurrence (21% vs 62%); continue indefinitely. Cyclosporine-based immunosuppression may reduce recurrence (unproven).
+- **After transplant:** pruritus improves; moderate-severe fatigue persists in nearly half at 2 years; sicca syndrome unchanged; bone disease worsens for ~6 months then recovers past baseline; AMA may persist or reappear without signalling recurrence.
 
 ### Pregnancy
 
