@@ -124,22 +124,29 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A["Confirmed CDI"] --> B{"Fulminant?<br/>shock / ileus / megacolon"}
-    B -->|"Yes"| C["High-dose vancomycin + intravenous (IV) metronidazole<br/>± rectal vancomycin if ileus"]
-    C --> D{"Response at 48 h?"}
-    D -->|"No"| E["fecal microbiota transplantation (FMT) via lower endoscopy, or colectomy"]
-    D -->|"Yes"| F["Narrow to vancomycin monotherapy<br/>total 10-14 days"]
-    B -->|"No"| G["Fidaxomicin (preferred) or vancomycin, 10 days"]
-    G --> H{"Loose stools halved<br/>by day 3-5?"}
-    H -->|"No"| I["Reconsider diagnosis:<br/>other infection, IBD, IBS"]
-    H -->|"Yes"| J["Stop; no test of cure"]
-    J --> K{"Recurrence?"}
-    K -->|"First recurrence"| L["Switch class: vancomycin<br/>taper-pulse or fidaxomicin EXTEND"]
-    K -->|"Second recurrence"| M["Fecal microbiota-based therapy"]
+    A(["Confirmed CDI"]) --> B["Fulminant?<br/>shock / ileus / megacolon"]
+    B -- "Yes" --> C(["High-dose vancomycin + intravenous metronidazole<br/>± rectal vancomycin if ileus"])
+    C --> D["Response at 48 h?"]
+    D -- "No" --> E(["Fecal microbiota transplantation<br/>via lower endoscopy, or colectomy"])
+    D -- "Yes" --> F(["Narrow to vancomycin monotherapy<br/>total 10–14 days"])
+    B -- "No" --> G(["Fidaxomicin (preferred) or vancomycin, 10 days"])
+    G --> H["Loose stools halved<br/>by day 3–5?"]
+    H -- "No" --> I(["Reconsider diagnosis:<br/>other infection, IBD, IBS"])
+    H -- "Yes" --> J(["Stop; no test of cure"])
+    J --> K["Recurrence?"]
+    K -- "First recurrence" --> L(["Switch class: vancomycin<br/>taper-pulse or fidaxomicin EXTEND"])
+    K -- "Second recurrence" --> M(["Fecal microbiota-based therapy"])
     L --> M
     F --> M
+    class A start
+    class B,D,H,K test
+    class C,E,F,G,L,M act
+    class I,J stop
 ```
-*Figure 2 — CDI management pathway, after [[aga-2026-cdiff-adults]] Figures 2A–C. Doses, thresholds, and eligibility criteria are in the sections below.*
+*Management of confirmed C. difficile infection, from first episode to recurrence*
+*Source: built from the AGA 2026 C. difficile guideline figures 2A–C; doses, thresholds and eligibility in the sections below*
+*[[aga-2026-cdiff-adults|AGA 2026 C. difficile Guideline]]*
+*CDI = Clostridioides difficile infection · IBD = inflammatory bowel disease · IBS = irritable bowel syndrome · EXTEND = extended-pulsed fidaxomicin regimen*
 
 ### Choosing Initial Therapy (nonfulminant)
 
