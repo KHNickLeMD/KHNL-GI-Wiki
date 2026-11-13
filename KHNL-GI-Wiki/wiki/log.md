@@ -6,6 +6,34 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-13] lint | Backlog ingest pass — ASCRS anorectal abscess/fistula
+
+**Corpus audit:** `raw/` 626 files vs `wiki/sources/` 444 pages. Matching raw filenames against each source page's `title:` + `**Article:**` line (slugs alone score near zero) confirms **backlog mode is ON** — roughly 20 uningested tier-1 guideline/consensus documents remain. No source page carried `ingest: partial`, so this pass started a new file rather than resuming one.
+
+**Paused for backlog mode:** *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*. The 06:00 daily source fetch did not run (this pass's prompt does not invoke it). No untracked files under `raw/` — the inbox sync delivered nothing this pass.
+
+**Sources created:**
+
+- `wiki/sources/ascrs-2022-anorectal-abscess-fistula.md` — ASCRS 2022 Clinical Practice Guidelines for the Management of Anorectal Abscess, Fistula-in-Ano, and Rectovaginal Fistula (Gaertner et al, *Dis Colon Rectum* 2022;65:964–985). All **25** recommendations captured with the document's own numbering and GRADE 1A–2C notation, including the five grade changes from the 2016 guideline and the three new-in-2022 recommendations. Not open access (© ASCRS, all rights reserved) → no figure captured; Table 1 (Parks) recreated as native Markdown, Figure 1 is a PRISMA flow sheet with no clinical content.
+
+**Pages created:**
+
+- `wiki/1-disease-scripts/colorectal-diseases/anorectal/anorectal-abscess.md` — the anorectal folder previously held only hemorrhoids, fissure and prolapse; cryptoglandular abscess had no page anywhere in the wiki. Carries the anatomic-space frequency order, the internal-vs-external drainage rule per space, the simple-fistula-only limit on concomitant fistulotomy with the Cochrane RR and its exclusion list, and the three antibiotic indications. One `[!howto]` (drainage technique) and one `[!pitfall]` each.
+- `wiki/1-disease-scripts/colorectal-diseases/anorectal/anal-fistula.md` — cryptoglandular fistula-in-ano. Parks table, simple-vs-complex criteria with the 30%-external-sphincter line (one `[!pearl]`), Goodsall's rule with its posterior caveat, imaging-performance table, and the full operative menu with outcomes. One Mermaid flowchart *built from* recommendations 6–10 with the 4-line caption; no source flowchart exists.
+- `wiki/1-disease-scripts/colorectal-diseases/anorectal/rectovaginal-fistula.md` — level and simple/complex definitions, nonoperative-first rule for obstetrical RVF, and the repair ladder from draining seton to completion proctectomy.
+
+**Pages updated:**
+
+- `perianal-fistulizing-crohns-disease` — recommendations 19–25 added: combined surgical–medical management, asymptomatic fistulas left alone, destination setons with the >20% recurrent-sepsis caveat and the ACCENT II seton-timing data, a new operative-menu table with selection criteria per procedure, a new `## Mesenchymal Stem Cells` section, and the diversion/proctectomy outcome figures from the 556-patient meta-analysis. The page's prior line that no guideline addresses mesenchymal stem cells was correct for ACG 2025 and AGA 2021 and is now scoped to those two documents.
+- `wiki/index.md` — three new entity rows in Colorectal → Anorectal, the ASCRS 2022 source row, and the perianal-Crohn's row updated to 4 sources.
+- Link-only inline additions (no `updated:` bump, no clinical change): `rectal-prolapse` and `hemorrhoids` → `[[rectovaginal-fistula]]`, `crohns-disease` → `[[anorectal-abscess]]`.
+
+**Cards:** 3 new card files (`anorectal-abscess` 3 notes, `anal-fistula` 3, `rectovaginal-fistula` 2) and 4 notes added to `perianal-fistulizing-crohns-disease` (mesenchymal stem cells, destination seton, the two fistulotomy selection criteria, stoma-reversal counselling). The operative-technique content — LIFT, Martius and gracilis flaps, episioproctotomy, the plug and fibrin glue, VAAFT/FiLaC/OTSC — was deliberately left uncarded under the *High-yield test* Cut list (other-specialty operative technique); it stays on the pages for reference. `node` is unavailable in this sandbox, so the deck was **not** rebuilt — the 05:00 card pass picks these up. All 12 new ids verified unique.
+
+**Not done this pass:** no coverage-gap page, stub expansion or stalest-page review (backlog mode). No `needed-sources.md` row qualified — every decision on the new pages rests on this guideline's own text, and no row on the list is filled by it.
+
+---
+
 ## [2026-11-12] update | Card pass — dedup, new cards, card quality review
 
 **Deck slimming (dedup, run first):** 6 candidate pairs from `anki-dupes.mjs`, all judged and marked in the ledger — 5 merged, 1 distinct (Kudo VI/VN + JNET 3 for deep submucosal invasion vs JNET 2B management are different facts). Merged: the Baveno VIII liver-stiffness ladder notes consolidated onto `[[portal-hypertension]]` (cACLD bands, CSPH rule-in ≥25 kPa, CSPH rule-out ≤15 kPa + platelets), the 12-month non-invasive-test interval onto `[[liver-stiffness-measurement]]`, and prior-botulinum-toxin effect on later POEM/Heller onto `[[botulinum-toxin]]`. Keepers carry `{also:}` so the footer names both pages. 0 unjudged candidates remain.

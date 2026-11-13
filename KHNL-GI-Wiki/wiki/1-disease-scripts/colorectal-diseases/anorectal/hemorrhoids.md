@@ -173,7 +173,7 @@ Large skin tags not associated with significant hemorrhoids can be removed witho
 
 > The **94–98% "healing" figure sometimes quoted for hemorrhoidectomy is ACG 2021's healing rate for lateral internal sphincterotomy in chronic [[anal-fissure|anal fissure]]** (see that page), not a hemorrhoidectomy outcome; the figures above are AGA 2026's.
 
-**Stapled hemorrhoidopexy (PPH):** circular stapler plicates the mucosa via a mucosal anastomosis. **Less postoperative pain than excisional hemorrhoidectomy, but higher long-term recurrence** and risk of significant complications — rectovaginal fistula, rectal perforation, bleeding, staple-line stricture. **Has fallen out of favor** *(AGA 2026)*; generally avoided per ACG 2021 as well.
+**Stapled hemorrhoidopexy (PPH):** circular stapler plicates the mucosa via a mucosal anastomosis. **Less postoperative pain than excisional hemorrhoidectomy, but higher long-term recurrence** and risk of significant complications — [[rectovaginal-fistula\|rectovaginal fistula]], rectal perforation, bleeding, staple-line stricture. **Has fallen out of favor** *(AGA 2026)*; generally avoided per ACG 2021 as well.
 
 **DGHAL/mucopexy:** Doppler probe identifies and ligates the hemorrhoidal artery with **no excision** — less postoperative pain, well tolerated, minimal complications; a mucosal pexy may be added for symptomatic prolapse *(AGA 2026)*. Alternative to hemorrhoidectomy for Grade 3; ACG 2021 grades it Conditional/Very Low.
 

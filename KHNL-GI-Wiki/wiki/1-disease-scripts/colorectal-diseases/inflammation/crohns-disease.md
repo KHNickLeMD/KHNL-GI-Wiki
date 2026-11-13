@@ -331,7 +331,7 @@ By patient profile ([[acg-2025-crohns]] KC 55):
 - **Continue biologics**; **stop methotrexate, thalidomide, ozanimod ≥6 months before conception** (BPA 7).
 - Safe: mesalamine; sulfasalazine + folic acid 1 mg twice daily; azathioprine/6-mercaptopurine; steroids for flares (caution first trimester — preterm/small for gestational age). **Methotrexate contraindicated.** Infliximab/adalimumab cross the placenta after ~20 wk → **no live vaccines to the infant for 6 months**; certolizumab doesn't cross. Most drugs compatible with breastfeeding.
 - **Monitoring:** FC each trimester; [[intestinal-ultrasound|IUS]] (84% sensitivity/98% specificity); MRI **without gadolinium**; **unsedated flexible sigmoidoscopy** over colonoscopy; elective endoscopy postpartum, nonemergent in 2nd trimester (BPA 6).
-- **Delivery:** avoid vaginal birth with active perianal disease, perianal abscess, or active rectal disease; consider cesarean after complex fistulizing disease ± J-pouch.
+- **Delivery:** avoid vaginal birth with active perianal disease, [[anorectal-abscess\|perianal abscess]], or active rectal disease; consider cesarean after complex fistulizing disease ± J-pouch.
 
 ---
 
