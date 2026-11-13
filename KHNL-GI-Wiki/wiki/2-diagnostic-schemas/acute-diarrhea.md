@@ -3,7 +3,7 @@ title: "Acute Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, acute, dysentery, loperamide, antibiotic, prevention]
 created: 2026-05-19
-updated: 2026-11-12
+updated: 2026-11-13
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2020-probiotics, acg-2021-cdiff]
 ---
 
@@ -274,7 +274,7 @@ The following features should prompt microbiologic assessment, consideration of 
 
 ### Antimotility Agents
 
-- **Loperamide:** Initial dose 4 mg orally, then 2 mg after each loose stool, max 8 mg/day (over-the-counter [OTC]) or 16 mg/day (with antibiotic for traveler's diarrhea [TD]). Do not use for >48 h in self-treatment. Adjunct with antibiotics for TD shortens illness duration (Recommendation 8, Strong/Moderate).
+- **Loperamide:** Initial dose 4 mg orally, then 2 mg after each subsequently passed watery stool — **not to exceed 8 mg/day** for adult diarrhea therapy generally, or **16 mg per 24 h when combined with an antibiotic regimen for traveler's diarrhea (TD)**. Do not give for >48 h. Use the lowest effective dose (post-treatment constipation is the common complaint). Adjunct with antibiotics for TD shortens illness duration (Recommendation 8, Strong/Moderate).
   - Use with caution in proven bacterial inflammatory colitis (theoretical [[toxic-megacolon|toxic megacolon]] risk, though rare).
   - **Do not use for STEC infection.**
 

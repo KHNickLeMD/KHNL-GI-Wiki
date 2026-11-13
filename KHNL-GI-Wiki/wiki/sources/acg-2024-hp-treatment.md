@@ -33,16 +33,19 @@ Susceptibility-guided therapy is strongly advocated before using clarithromycin-
 
 **First-line regimens (2024):**
 
-| Regimen | Components | Duration | Strength |
-|---|---|---|---|
-| **BQT** | PPI twice daily (bid) + bismuth subsalicylate 300 mg (or subcitrate 120–300 mg) four times daily (qid) + metronidazole 500 mg three times daily (tid)–qid (1,500–2,000 mg/day) + tetracycline 500 mg qid | 14 days | Strong |
-| **Vonoprazan dual therapy** | Vonoprazan 20 mg bid + amoxicillin 1 g bid | 14 days | Strong |
-| **Vonoprazan triple therapy** | Vonoprazan 20 mg bid + amoxicillin 1 g bid + clarithromycin 500 mg bid | 14 days | Strong |
-| **Concomitant quadruple therapy** | PPI bid + amoxicillin 1 g bid + clarithromycin 500 mg bid + metronidazole 500 mg bid | 14 days | Conditional |
-| **Rifabutin triple therapy** | PPI bid + rifabutin 150 mg bid + amoxicillin 1 g bid | 14 days | Conditional (when other regimens contraindicated) |
+Table 5 of the guideline — the four recommended first-line regimens. All are given for **14 days**. Concomitant quadruple therapy is *not* among them (see recommendation 5).
 
-- **Clarithromycin triple therapy:** NOT recommended empirically; only with confirmed susceptibility
-- **Levofloxacin-based regimens:** only with confirmed levofloxacin susceptibility
+| Regimen | Drugs (doses) | Dosing frequency | FDA-approved | Recommendation |
+|---|---|---|---|---|
+| **Optimized bismuth quadruple** | PPI (standard dose) · bismuth subcitrate 120–300 mg or subsalicylate 300 mg · tetracycline 500 mg · metronidazole 500 mg | PPI b.i.d. · bismuth q.i.d. · tetracycline q.i.d. · metronidazole t.i.d. or q.i.d. | No (as individual components) | Strong (moderate quality of evidence) |
+| **Rifabutin triple** (Talicia) | Omeprazole 10 mg + amoxicillin 250 mg + rifabutin 12.5 mg per capsule | 4 capsules t.i.d. | Yes | Conditional (low quality of evidence) |
+| **PCAB dual** (Voquezna DualPak) | Vonoprazan 20 mg · amoxicillin 1,000 mg | Vonoprazan b.i.d. · amoxicillin **t.i.d.** | Yes | Conditional (moderate quality of evidence) |
+| **PCAB triple** (Voquezna TriplePak) | Vonoprazan 20 mg · clarithromycin 500 mg · amoxicillin 1,000 mg | All b.i.d. | Yes | Conditional (moderate quality of evidence) |
+
+- **Optimized** BQT = appropriately dosed PPI, bismuth, nitroimidazole **1,500–2,000 mg/day in divided doses**, and tetracycline — **doxycycline is not a substitute**. PPIs dosed 30–60 min before a meal. Salicylate allergy → no bismuth subsalicylate.
+- Talicia total daily doses: omeprazole 120 mg, amoxicillin 3,000 mg, rifabutin 150 mg.
+- PCAB triple is FDA-approved for empiric first-line use independent of resistance testing, but the guideline states clarithromycin-containing regimens **should be reserved for demonstrated clarithromycin-sensitive strains**.
+- **Clarithromycin- and levofloxacin-containing regimens** should be avoided without demonstrated macrolide/quinolone susceptibility (key concept 3).
 
 **PCAB (vonoprazan) vs. PPI:**
 
@@ -80,25 +83,34 @@ Susceptibility-guided therapy is strongly advocated before using clarithromycin-
 
 ## Recommendations
 
-| Recommendation | Strength | Evidence Quality |
+All 12 graded recommendations, with the guideline's own numbering (Table 2) and its own strength/quality vocabulary. **Only recommendation 1 is strong; every other graded recommendation is conditional.**
+
+| # | Recommendation | Strength (quality of evidence) |
 |---|---|---|
-| **First-Line Therapy** | | |
-| BQT: PPI bid + bismuth subsalicylate 300 mg (or subcitrate 120–300 mg) qid + metronidazole 500 mg tid–qid (1,500–2,000 mg/day) + tetracycline 500 mg qid × 14 days | Strong | Moderate |
-| Vonoprazan dual therapy: vonoprazan 20 mg bid + amoxicillin 1 g bid × 14 days | Strong | Moderate |
-| Vonoprazan triple therapy: vonoprazan 20 mg bid + amoxicillin 1 g bid + clarithromycin 500 mg bid × 14 days | Strong | Moderate |
-| Concomitant quadruple therapy: PPI bid + amoxicillin 1 g bid + clarithromycin 500 mg bid + metronidazole 500 mg bid × 14 days | Conditional | Moderate |
-| Rifabutin triple therapy: PPI bid + rifabutin 150 mg bid + amoxicillin 1 g bid × 14 days (when other regimens contraindicated) | Conditional | Low |
-| Against clarithromycin triple therapy as empiric first-line therapy (CLR resistance >15% nationally) | Strong | Moderate |
-| Against levofloxacin-based regimens without confirmed levofloxacin susceptibility | Strong | Moderate |
-| **Susceptibility Testing** | | |
-| Susceptibility testing strongly recommended before using clarithromycin- or levofloxacin-based regimens | Strong | Moderate |
-| **Post-Treatment Confirmation** | | |
-| Confirm eradication in all patients using UBT or stool antigen test | Strong | Moderate |
-| Test ≥4 weeks after completing antibiotics and ≥2 weeks after stopping PPI/PCAB | Strong | Moderate |
-| Serology NOT appropriate for eradication confirmation | Strong | Moderate |
-| **Test-and-Treat Strategy** | | |
-| Test-and-treat strategy maintained for uninvestigated dyspepsia (<55 years, no alarm features) | Strong | Moderate |
-| All patients with PUD, gastric MALT lymphoma, or after endoscopic resection of early gastric cancer: test and treat | Strong | High |
+| **Treatment-naive patients** | | |
+| 1 | Optimized BQT is **recommended** as a first-line treatment option | Strong (moderate) |
+| 2 | Rifabutin triple therapy is **suggested** as a first-line treatment option | Conditional (low) |
+| 3 | Dual therapy with a PCAB + amoxicillin is **suggested** as a first-line treatment option | Conditional (moderate) |
+| 4 | With **unknown clarithromycin susceptibility**, PCAB-clarithromycin triple is **suggested over** PPI-clarithromycin triple | Conditional (moderate) |
+| 5 | Concomitant therapy is **not suggested over** bismuth quadruple therapy | Conditional (low) |
+| **Treatment-experienced patients with persistent infection** | | |
+| 6 | Not previously given BQT → optimized BQT is **suggested** | Conditional (very low) |
+| 7 | Previously given PPI-clarithromycin triple → optimized BQT is **suggested** | Conditional (low) |
+| 8 | Already received BQT → rifabutin triple is **suggested** | Conditional (low) |
+| 9 | Not previously given optimized BQT → optimized BQT is **suggested over** quinolone-based therapy | Conditional (low) |
+| 10 | Levofloxacin triple is **suggested** only in known levofloxacin-**sensitive** strains **and** when optimized BQT or rifabutin triple have already been used or are unavailable | Conditional (low) |
+| 11 | Insufficient North American evidence to recommend **high-dose PPI or PCAB dual therapy** | **No recommendation** (evidence gap) |
+| **Adjunct** | | |
+| 12 | Insufficient evidence that **probiotic** therapy improves efficacy or tolerability of eradication therapy | Conditional (low) |
+
+**Key concepts (Table 3 — ungraded):**
+
+1. North American prevalence is falling but remains 30–40%; typically acquired in childhood; higher among non-White races and ethnicities, crowded or poor sanitary conditions, and early-generation immigrants from endemic countries.
+2. When to **test for** and when to **treat** *H. pylori* are a **single decision**, not two.
+3. Clarithromycin- and levofloxacin-containing regimens should be **avoided without demonstrated** macrolide and quinolone susceptibility, respectively.
+4. **All** treated patients should have a **test of cure** — urea breath test, fecal antigen, or biopsy-based — **at least 4 weeks after** completing therapy.
+5. In treatment-experienced patients with persistent infection **confirmed clarithromycin-sensitive**, PPI- or PCAB-clarithromycin triple therapy **is suggested**.
+6. Phenotypic (culture) and molecular (PCR, next-generation sequencing) susceptibility testing are increasingly available in the US; the incremental benefit of tailored over empiric therapy **remains inadequately defined**. By expert consensus, use susceptibility testing whenever the choice of therapy remains unclear after accounting for prior *H. pylori* treatments, past antibiotic exposure generally, and documented penicillin allergy.
 
 ## Supplementary Digital Content 1
 

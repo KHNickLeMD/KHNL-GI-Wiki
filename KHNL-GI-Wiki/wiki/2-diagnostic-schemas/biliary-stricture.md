@@ -3,7 +3,7 @@ title: "Biliary Stricture"
 category: diagnostic-schema
 tags: [biliary-stricture, ercp, eus, cholangioscopy, obstructive-jaundice, cholangiocarcinoma, hepatobiliary]
 created: 2026-05-15
-updated: 2026-10-06
+updated: 2026-11-13
 sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-strictures, asge-2023-post-transplant-biliary-strictures]
 ---
 
@@ -237,7 +237,7 @@ The following features increase pre-test probability of malignancy and should pr
 
 - **Insufficient evidence** to prefer PS vs uSEMS (Rec 9)
 - uSEMS: longer patency; cannot be removed — makes future endoscopic reintervention difficult
-- PS: replaceable; preferred if intraductal ablative therapy (photodynamic therapy [PDT]/RFA) is planned (PDT/RFA cannot be effectively delivered through metal stents)
+- PS: replaceable. Where adjuvant endobiliary ablation (photodynamic therapy [PDT] or RFA) is planned, Rec 10 pairs the ablation with **plastic** stent placement — that recommendation is written for PS, not uSEMS
 - If uSEMS chosen: **prove effective drainage with plastic stents first** before committing — inadequate drainage after uSEMS placement is difficult to correct endoscopically
 
 #### Endobiliary Ablation (Unresectable Perihilar CCA)
