@@ -3,7 +3,7 @@ title: "Functional Heartburn"
 category: disease-script
 tags: [functional-heartburn, reflux-hypersensitivity, gerd, nerd, dgbi, esophageal, acid-exposure-time, neuromodulators]
 created: 2026-09-10
-updated: 2026-11-05
+updated: 2026-11-13
 sources: [rome-v-2026-functional-esophageal-disorders, aga-2020-functional-heartburn, aga-2022-personalized-gerd, aga-2018-psychogastroenterology]
 ---
 
@@ -56,7 +56,7 @@ Retrosternal burning **without** pathologic acid exposure, **without** a major m
 | **Endoscopy + esophageal biopsies** | Normal — no erosive esophagitis, [[barretts-esophagus\|Barrett's esophagus]], [[eosinophilic-esophagitis\|eosinophilic esophagitis]], stricture, web, pill esophagitis, or neoplasia |
 | **[[high-resolution-manometry\|high-resolution manometry (HRM)]]** | No **major** esophageal motor disorder. A **minor** disorder ([[ineffective-esophageal-motility\|ineffective esophageal motility (IEM)]]) does **not** preclude the diagnosis, provided reflux disease is excluded |
 | **Acid exposure time (AET)** | **Physiologic — AET <4%** in the distal esophagus (AET is reliably normal below 4% and abnormal above 6%) |
-| **Reflux–symptom association** | **Negative on BOTH indices** — symptom index (SI) positive if **>50%**; symptom association probability (SAP) positive if **≥95%**. Both must be negative |
+| **Reflux–symptom association** | **Negative on BOTH indices** — symptom index (SI) positive if **≥50%**; symptom association probability (SAP) positive if **≥95%**. Both must be negative |
 | **Which study, off or on PPI** | **Unproven gastroesophageal reflux disease (GERD)** → pH or pH-impedance **off** anti-secretory medication. **Proven GERD** → pH-impedance **on** double-dose PPI |
 
 - **Both indices negative, not one.** A single negative index with the other positive does not establish the diagnosis, and there is **no consensus on which index governs when SI and SAP disagree**.
