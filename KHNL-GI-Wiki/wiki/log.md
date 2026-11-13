@@ -6,6 +6,34 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-13] update | Card pass: dedup, 11 stale pages re-carded, 4 card files quality-reviewed
+
+**Dedup (slim the deck):** 5 unjudged candidate pairs, all judged **distinct** and marked in the ledger — AIH simplified score vs DILI RUCAM; EGJOO pre-myotomy exhaustion vs first-choice procedure; revised IAIHG vs simplified AIH score; Baveno cACLD vs non-cirrhotic PVT variceal screening; sclerosing mesenteritis prednisone vs colchicine. No merges. A second scan after the new cards were written raised 8 more candidates — all different diseases, populations or thresholds, all marked distinct; 0 unjudged pairs remain.
+
+**New cards — every eligible page carded (card `page_updated` older than page `updated`), guideline/CPU/consensus first, newest source year first:**
+
+- `5-meds/loperamide` — 2 new (STEC/shigellosis antimotility risk; antimotility in already-dilated bowel in short bowel syndrome). The new FI, functional-diarrhea and SBS dosing rows are owned by `fecal-incontinence`, `functional-diarrhea` and `short-bowel-syndrome`.
+- `crohns-disease` — 3 new from [[ecco-2017-crohns-part-1]] (extensive disease >100 cm → thiopurine maintenance; infrequent/frequent/early relapse definitions; the three disabling-disease predictors and the ≥2 trigger).
+- `hypercontractile-esophagus` — 1 new (conclusive manometric vs clinically relevant CCv4.0 criteria). DCI >8,000, the POEM stance and the FLIP spastic response are owned by `chicago-classification-v4`, `poem` and `flip-panometry`.
+- `5-meds/vonoprazan` — 2 new (erosive-esophagitis healing and maintenance doses; no effect on CYP450-metabolized drugs, same enteric-infection risk as a PPI).
+- `radiofrequency-ablation` — 3 new (confirm inoperability before intraductal ablation; stop short of the dentate line in radiation proctopathy; cryoballoon vs RFA strictures, with the cryotherapy eradication table in Back Extra); fixed 2 broken `at:` anchors and corrected the plastic-vs-metal stent claim to ACG 2023's "evidence insufficient".
+- `nausea-and-vomiting-of-pregnancy` — 2 new (pregnancy heartburn ladder; withdraw a phenothiazine or metoclopramide for extrapyramidal effects); Cochrane equivalence added to the existing metoclopramide note.
+- `familial-pancreatic-cancer` — 3 new (surveillance start age and interval; the CAPS requirement that an affected relative be an FDR of the candidate, with the pattern table; offer germline testing to anyone eligible for surveillance); corrected the ACG-2015-definition and 10%–20% clustering claims.
+- `biliary-stricture`, `hiatal-hernia`, `acute-diarrhea`, `chicago-classification-v4` — no new cards; the changed content is already owned elsewhere. Biliary-stricture stent note corrected to match the page.
+
+**Card quality review (release sweep) — 5 files, notes before → after:**
+
+- `nafld-masld` 28 → 26. Retired the CSPH/bariatric note (owned by `bariatric-surgery`) and the hypertriglyceridemia note (merged into the statin note); corrected the HVPG Back Extra; trimmed five Back Extras to what the page states; re-anchored two notes off a heading the page no longer has; added the semaglutide/resmetirom candidacy table to Back Extra.
+- `ampullary-adenoma` 28 → 25. Merged the ESGE surveillance schedule into the AGA tracks note (now default + low-risk, with the tracks table in Back Extra); merged "frank adenocarcinoma not endorsed" into the Tis/T1 note; cut the age/sex/size predictors note; corrected the current/snare Back Extra to ESGE's endocut recommendation; flagged that the maximum lesion size is unsettled.
+- `bowel-preparation` 28 → 27. Cut the Ottawa/Aronchick ranges note (neither scale is recommended for practice); added the BBPS segment-score table to Back Extra; added the through-the-scope salvage options; fixed a page-top anchor.
+- `hepatopulmonary-syndrome-portopulmonary-hypertension` 27 → 25. Corrected the A–a gradient cutoff to ≥15 mm Hg (page); merged the 1–2-cycle intracardiac-shunt note and the RHC-confirmation note into their owner notes; added the PaO₂ severity table to Back Extra; reworded a Back Extra that read as a maintenance note.
+
+- `primary-biliary-cholangitis` 26 → 25. Merged the "biopsy required before calling it PBC-AIH" note into the note on what suggests an autoimmune hepatitis component; dropped the Delphi consensus percentages, which the page does not print.
+
+**Writing-rule fixes:** the three standing length-cap violations cleared — `high-resolution-manometry` [ac2007], `anti-tnf-agents` [af0101], `corticosteroids-ibd` [c01010]. Deck builds with **0 problems**, 4,492 notes.
+
+---
+
 ## [2026-11-13] lint | Quality review sweep (release)
 
 **Scope:** Quality review (release sweep) only — one subagent per page from `review-queue.py --pages`, worked top-down until the run's budget cap. Decision sufficiency and source fidelity against the page's tier-1 raw sources first, then visuals (accuracy outranks visuals — no figure where a value, unit, denominator or branch condition is missing), then concision, callouts, organization, abbreviations. No ingest, no new pages.
