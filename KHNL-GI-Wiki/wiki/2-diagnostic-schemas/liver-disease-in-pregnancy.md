@@ -3,7 +3,7 @@ title: "Liver Disease in Pregnancy"
 category: diagnostic-schema
 tags: [pregnancy, liver-disease, ihcp, intrahepatic-cholestasis, aflp, acute-fatty-liver, hellp, hyperemesis-gravidarum, preeclampsia, eclampsia, hepatitis-b, hepatitis-c, hpb, liver]
 created: 2026-05-19
-updated: 2026-11-01
+updated: 2026-11-13
 sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver]
 ---
 
@@ -258,28 +258,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 
 **Clinical presentation:** Non-specific initially — nausea, vomiting, abdominal pain, concomitant preeclampsia in ~50% of women. Hepatic failure with encephalopathy, coagulopathy, hypoglycemia. Renal dysfunction and pancreatitis common.
 
-**Diagnosis — Swansea Criteria (≥6 of the 14 below required, in absence of another cause):**
-
-| Criterion | Threshold |
-|-----------|-----------|
-| Vomiting | — |
-| Abdominal pain | — |
-| Polydipsia/polyuria | — |
-| Encephalopathy | — |
-| Elevated bilirubin | >14 µmol/l |
-| Hypoglycemia | <4 mmol/l |
-| Elevated urea | >340 µmol/l |
-| Leucocytosis | >11×10⁶ cells/l ᵃ |
-| [[ascites\|Ascites]] or bright liver on ultrasound | — |
-| Elevated transaminases (AST or ALT) | >42 IU/l |
-| Elevated ammonia | >47 µmol/l |
-| Renal impairment (creatinine) | >150 µmol/l |
-| Coagulopathy (PT [prothrombin time] or APTT [activated partial thromboplastin time]) | PT >14s or APPT >34s |
-| Microvesicular steatosis on liver biopsy | — |
-
-ᵃ **Reproduced exactly as printed in [[acg-2016-liver-disease-pregnancy|ACG 2016]]** (its Swansea table). Note the exponent is off by 10³ against the units every lab reports — a white blood cell (WBC) count of 11×10⁶/L would be profoundly *low*, not a leucocytosis; the intended criterion is the conventional **>11×10⁹/L (11,000/µL)**. Reproduced as printed; read the row as "WBC above the normal upper limit."
-
-Swansea Criteria: 85% positive predictive value (PPV), 100% negative predictive value (NPV) for hepatic microvesicular steatosis (validated in UK cohort of 5.0 cases/100,000 maternities).
+**Diagnosis — Swansea criteria:** ≥6 of 14 criteria in the absence of another cause. Full criteria table with thresholds: [[acute-fatty-liver-of-pregnancy#Establishing the Diagnosis]]. 85% positive predictive value (PPV), 100% negative predictive value (NPV) for hepatic microvesicular steatosis (validated in a UK cohort of 5.0 cases/100,000 maternities).
 
 **Management:**
 

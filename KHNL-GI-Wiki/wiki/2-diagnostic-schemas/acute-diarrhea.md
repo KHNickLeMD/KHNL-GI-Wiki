@@ -89,7 +89,7 @@ Acute diarrhea is defined as an increase in stool frequency or looseness above t
 
 - [[giardiasis]] — most common intestinal parasite in the US; watery/malabsorptive; often persistent; lakes, streams, travel
 - [[cryptosporidiosis]] — watery diarrhea; immunosuppressed at highest risk; oocysts resist chlorine
-- [[entamoeba-histolytica-infection]] — amebic dysentery; bloody diarrhea; liver abscess risk; distinguish from non-pathogenic *E. dispar*
+- [[entamoeba-histolytica-infection]] — amebic dysentery; bloody diarrhea; distinguish from non-pathogenic *E. dispar*
 - *Cyclospora cayetanensis* — persistent watery diarrhea; food-associated outbreaks (berries, fresh produce)
 - *Cystoisospora belli* — immunosuppressed hosts
 - *Enterocytozoon bieneusi* (microsporidiosis) — immunosuppressed
