@@ -3,8 +3,8 @@ title: "Autoimmune Hepatitis"
 category: disease-script
 tags: [aih, autoimmune, hepatitis, liver, hpb, igg, immunosuppression, pregnancy, azathioprine, budesonide, mycophenolate-mofetil, mmf, tacrolimus, overlap-syndrome, pbc, psc, cirrhosis, liver-transplant]
 created: 2026-05-16
-updated: 2026-11-12
-sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, aasld-2018-pbc, de-martin-2021-surfasa-acute-severe-aih, hennes-2008-simplified-aih-criteria, alvarez-1999-iaihg-revised-criteria, gerussi-2026-pbc-aih-delphi]
+updated: 2026-11-13
+sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, aasld-2018-pbc, de-martin-2021-surfasa-acute-severe-aih, hennes-2008-simplified-aih-criteria, alvarez-1999-iaihg-revised-criteria, gerussi-2026-pbc-aih-delphi, ecco-2024-eim-ibd]
 ---
 
 ## Assessment
@@ -315,6 +315,14 @@ Requires **2 of the 3 PBC criteria**, plus — on a background of **interface he
 - Prognosis driven by PSC component (colitis-associated neoplasia, [[cholangiocarcinoma]] risk)
 - See [[primary-sclerosing-cholangitis]]
 
+**AIH in the patient who already has IBD:** [[ecco-2024-eim-ibd]] Statement 12
+
+- **Prevalence of AIH in adult patients with IBD is less than 0.5%**, with higher rates in children and adolescents *[EL2]*. In adolescents with IBD the odds ratio for AIH was **8 in UC** and **4 in [[crohns-disease|Crohn's disease]]**.
+- **Where AIH and IBD coexist, investigate for additional sclerosing cholangitis with high-quality MRCP** *[EL3]* — **2–7%** of AIH patients carry a concurrent PSC diagnosis and **up to 10%** of adult AIH patients show concurrent features of PSC.
+- **For maintenance of remission in people with IBD and AIH, [[thiopurines]] should be considered first-line** *[EL2]* — consistent with the azathioprine-based maintenance above, and convenient where one drug can serve both diseases.
+- ⚠ **The AIH diagnostic scoring systems have not been validated in the IBD population**, where autoantibodies are frequently detected in IBD itself and in both AIH and PSC, making them less diagnostically useful.
+- The rest of the extraintestinal picture: [[extraintestinal-manifestations-ibd]].
+
 ### AIH in Pregnancy
 
 - AIH associated with increased risk of fetal prematurity and loss, especially with inadequate disease control [[acg-2016-liver-disease-pregnancy]]
@@ -359,7 +367,7 @@ See [[liver-transplantation]] for broader post-LT context.
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[jaundice]], [[drug-induced-liver-injury]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[acute-liver-failure]], [[liver-disease-in-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[hcc-surveillance]], [[tacrolimus]], [[portal-hypertension]], [[portal-vein-thrombosis]], [[hepatic-encephalopathy]], [[cirrhosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[mri-mrcp]], [[ercp]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[cholangiocarcinoma]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[nafld-masld]], [[calcineurin-inhibitors]], [[thiopurines]], [[anti-tnf-agents]]
+[[abnormal-liver-chemistries]], [[jaundice]], [[drug-induced-liver-injury]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[acute-liver-failure]], [[liver-disease-in-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[hcc-surveillance]], [[tacrolimus]], [[portal-hypertension]], [[portal-vein-thrombosis]], [[hepatic-encephalopathy]], [[cirrhosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[mri-mrcp]], [[ercp]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[cholangiocarcinoma]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[nafld-masld]], [[calcineurin-inhibitors]], [[thiopurines]], [[anti-tnf-agents]], [[extraintestinal-manifestations-ibd]]
 
 ---
 
@@ -373,3 +381,4 @@ See [[liver-transplantation]] for broader post-LT context.
 6. [[hennes-2008-simplified-aih-criteria|Simplified Criteria for the Diagnosis of Autoimmune Hepatitis (2008)]]
 7. [[alvarez-1999-iaihg-revised-criteria|International Autoimmune Hepatitis Group Report: Review of Criteria for Diagnosis of Autoimmune Hepatitis (1999)]]
 8. [[gerussi-2026-pbc-aih-delphi|Definition, Diagnosis, and Treatment of Primary Biliary Cholangitis–Autoimmune Hepatitis (PBC–AIH) Variant: An International Expert Delphi Consensus (2026)]]
+9. [[ecco-2024-eim-ibd|ECCO Guidelines on Extraintestinal Manifestations in Inflammatory Bowel Disease (2024)]]

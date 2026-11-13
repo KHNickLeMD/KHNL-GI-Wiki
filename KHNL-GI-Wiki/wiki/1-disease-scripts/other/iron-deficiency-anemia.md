@@ -3,8 +3,8 @@ title: "Iron-Deficiency Anemia"
 category: disease-script
 tags: [iron-deficiency-anemia, ida, iron, ferritin, oral-iron, intravenous-iron, gi-bleeding, ibd, gave, celiac, angioectasia, bariatric]
 created: 2026-07-24
-updated: 2026-10-30
-sources: [aga-2020-ida, aga-2024-ida-management]
+updated: 2026-11-13
+sources: [aga-2020-ida, aga-2024-ida-management, ecco-2024-eim-ibd]
 ---
 
 ## Contents
@@ -18,6 +18,7 @@ sources: [aga-2020-ida, aga-2024-ida-management]
   - [[#Oral Iron]]
   - [[#Intravenous Iron]]
   - [[#Condition-Specific Repletion]]
+  - [[#Anaemia in IBD]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -127,11 +128,31 @@ Per AGA 2020 [[aga-2020-ida]]:
 | **[[celiac-disease\|Celiac disease]]** | **Gluten-free diet (GFD)** is central (restores absorption); oral iron by severity, then **IV iron if stores don't recover**; up to 20% remain iron-deficient despite strict GFD |
 | **Small-bowel [[angioectasia\|angioectasias]]** | **[[device-assisted-enteroscopy\|Deep enteroscopy]] with a distal cap attachment** (improves detection/therapy); treat with **APC or hemostatic clips + iron repletion**. [[somatostatin-analogs\|Somatostatin analogues]] (octreotide > lanreotide) / thalidomide only for **refractory** cases (rebleed: small-bowel 45%) |
 
+### Anaemia in IBD
+
+*[[ecco-2024-eim-ibd|ECCO 2024]] supplies the IBD-specific criteria and intervals that AGA 2024 does not; where the two overlap on route and dosing, AGA governs (above).*
+
+**Distinguishing anaemia of chronic disease from iron deficiency when inflammation is present** (Statement 5.2 *[EL2]*):
+
+| Serum ferritin | With transferrin saturation | Interpretation |
+|---|---|---|
+| **>100 µg/L** | **<16%** | **Anaemia of chronic disease (ACD)** |
+| **30–100 µg/L** | — | **Combination of true iron deficiency and ACD is likely** |
+
+- ⚠ **A normal mean corpuscular volume does not exclude iron deficiency** — up to **40%** of pure iron-deficiency anaemia cases are normocytic. Conversely, microcytosis does not prove iron deficiency.
+- **Screening interval:** anaemia parameters **every 6–12 months in remission or mild disease activity**; **at least every 3 months in active disease** *[EL5]*.
+- **Vitamin B12 and folate at least annually** in patients at risk — especially **small-bowel [[crohns-disease|Crohn's disease]] or resection**, and anyone with **macrocytosis** *[EL4]* (Statement 5.3).
+- **Post-treatment monitoring:** haemoglobin and ferritin **every 3–6 months for at least a year** after repletion, then **every 6–12 months** *[EL4]*. Anaemia **recurs in ~50% within 10 months** of effective repletion.
+- **Retreatment trigger:** **ferritin below 100 µg/L**, or **haemoglobin below 12 or 13 g/dL depending on sex** *[EL2]* (Statement 6.3).
+- **Oral route monitoring:** check the haemoglobin response over the **first 4 weeks**, and continue for **~3 months after haemoglobin normalizes** to replete stores (Statement 6.2).
+- **Erythropoiesis-stimulating agents** can be considered for inadequate response to intravenous iron, **with a target haemoglobin not above 12 g/dL**, and only once IBD-related therapy has been optimized *[EL5]* (Statement 6.4).
+- **Treating non-anaemic iron deficiency is advisable** in IBD — reduced physical performance and cognitive function, fatigue, headache, sleep disorders, loss of libido and restless-legs syndrome may all occur before the haemoglobin falls (Statement 6.1).
+
 ---
 
 ## See Also
 
-[[small-bowel-bleeding]], [[celiac-disease]], [[helicobacter-pylori-infection]], [[test-and-treat]], [[inflammatory-bowel-disease]], [[angioectasia]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[argon-plasma-coagulation]], [[somatostatin-analogs]], [[colonoscopy]], [[upper-endoscopy]], [[bariatric-surgery]], [[obesity]], [[cirrhosis]], [[portal-hypertension]], [[portal-hypertensive-gastropathy]], [[gastric-antral-vascular-ectasia]], [[iron-overload-and-iron-metabolism]]
+[[small-bowel-bleeding]], [[celiac-disease]], [[helicobacter-pylori-infection]], [[test-and-treat]], [[inflammatory-bowel-disease]], [[angioectasia]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[argon-plasma-coagulation]], [[somatostatin-analogs]], [[colonoscopy]], [[upper-endoscopy]], [[bariatric-surgery]], [[obesity]], [[cirrhosis]], [[portal-hypertension]], [[portal-hypertensive-gastropathy]], [[gastric-antral-vascular-ectasia]], [[iron-overload-and-iron-metabolism]], [[extraintestinal-manifestations-ibd]]
 
 ---
 
@@ -139,3 +160,4 @@ Per AGA 2020 [[aga-2020-ida]]:
 
 1. [[aga-2020-ida|AGA Clinical Practice Guideline: Gastrointestinal Evaluation of Iron-Deficiency Anemia (2020)]]
 2. [[aga-2024-ida-management|AGA Clinical Practice Update on Management of Iron Deficiency Anemia: Expert Review]]
+3. [[ecco-2024-eim-ibd|ECCO Guidelines on Extraintestinal Manifestations in Inflammatory Bowel Disease (2024)]]

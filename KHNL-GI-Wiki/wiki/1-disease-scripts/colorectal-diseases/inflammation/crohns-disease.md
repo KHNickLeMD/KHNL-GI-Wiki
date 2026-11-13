@@ -43,7 +43,7 @@ Crohn's disease (CD): idiopathic transmural, granulomatous [[inflammatory-bowel-
 ### Establishing the Diagnosis
 
 No single test — integrate:
-- **History:** [[chronic-diarrhea|chronic diarrhea]], abdominal pain, fatigue, weight loss, perianal disease, extraintestinal manifestations.
+- **History:** [[chronic-diarrhea|chronic diarrhea]], abdominal pain, fatigue, weight loss, perianal disease, [[extraintestinal-manifestations-ibd|extraintestinal manifestations]].
 - **Endoscopy:** aphthous, linear/serpiginous ulcers, cobblestoning, strictures, fistulas, skip areas, rectal sparing.
 - **Histology:** transmural inflammation, focal cryptitis; granulomas in **≤33%** — helpful, **not required**.
 - **Imaging:** mural thickening, mesenteric stranding, fistulas, abscesses.

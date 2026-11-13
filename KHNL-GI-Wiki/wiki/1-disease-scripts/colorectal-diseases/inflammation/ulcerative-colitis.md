@@ -93,7 +93,7 @@ Ulcerative colitis (UC): idiopathic chronic [[inflammatory-bowel-disease|inflamm
 
 - **Modified Mayo** (no physician's global) = trial standard; trial **clinical remission** = MES 0–1 + stool subscore ≤1 + no bleeding.
 
-**Simple Clinical Colitis Activity Index (SCCAI)** — clinical only; scores urgency, nocturnal stools, extraintestinal manifestations ([[acg-2025-uc]]):
+**Simple Clinical Colitis Activity Index (SCCAI)** — clinical only; scores urgency, nocturnal stools, [[extraintestinal-manifestations-ibd|extraintestinal manifestations]] ([[acg-2025-uc]]):
 
 | Item | Points |
 |---|---|

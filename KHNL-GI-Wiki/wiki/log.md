@@ -30,7 +30,28 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 **Cards:** 3 new card files (`anorectal-abscess` 3 notes, `anal-fistula` 3, `rectovaginal-fistula` 2) and 4 notes added to `perianal-fistulizing-crohns-disease` (mesenchymal stem cells, destination seton, the two fistulotomy selection criteria, stoma-reversal counselling). The operative-technique content — LIFT, Martius and gracilis flaps, episioproctotomy, the plug and fibrin glue, VAAFT/FiLaC/OTSC — was deliberately left uncarded under the *High-yield test* Cut list (other-specialty operative technique); it stays on the pages for reference. `node` is unavailable in this sandbox, so the deck was **not** rebuilt — the 05:00 card pass picks these up. All 12 new ids verified unique.
 
-**Not done this pass:** no coverage-gap page, stub expansion or stalest-page review (backlog mode). No `needed-sources.md` row qualified — every decision on the new pages rests on this guideline's own text, and no row on the list is filled by it.
+---
+
+**Second file ingested this pass:** `wiki/sources/ecco-2024-eim-ibd.md` — ECCO Guidelines on Extraintestinal Manifestations in Inflammatory Bowel Disease (Gordon et al, *J Crohns Colitis* 2024;18:1–37). All **32** statements captured with the document's own numbering, sub-parts (2.1–2.2, 5.1–5.3, 6.1–6.4), evidence levels EL1–EL5 and consensus percentages. Statement 14 and Statement 19 are missing from the `pdftotext` flow because they sit in boxed layouts; both were read off pages 11–12 and 14 of the PDF and carried in full. No Creative Commons licence → no figure captured; Table 3 (liver-test grading) and Table 7 (spondyloarthropathy agent matrix) recreated as native Markdown.
+
+**Pages created:**
+
+- `wiki/7-concepts/extraintestinal-manifestations-ibd.md` — no EIM page existed anywhere in the wiki. Routed to `7-concepts/` as a framework page, not a disease script: the individual entities it indexes (erythema nodosum, pyoderma gangrenosum, Sweet syndrome) would each be disease scripts, and none is created here. Carries the four-category classification, VTE prophylaxis durations, the liver-test grading table, the PSC/AIH-in-IBD comparison, bone, joint, skin, eye, ENT, neurological and fatigue sections. Two `[!pitfall]` and one `[!pearl]`.
+
+**Pages updated:**
+
+- `iron-deficiency-anemia` — new `### Anaemia in IBD` section with the ferritin/transferrin-saturation criteria separating anaemia of chronic disease from iron deficiency, the screening and post-treatment monitoring intervals, the retreatment thresholds, and the erythropoiesis-stimulating-agent haemoglobin cap. AGA 2024 keeps the route and dosing.
+- `primary-sclerosing-cholangitis` — the MRCP trigger from the IBD side, referral to a PSC-expert hepatologist at diagnosis, and ECCO's 2–8% PSC-in-IBD prevalence set beside the page's existing 5–9% MRI-screening figure rather than overwriting it (different populations and ascertainment; both printed).
+- `autoimmune-hepatitis` — AIH prevalence in IBD (<0.5%; adolescent odds ratios 8 in UC, 4 in Crohn's), MRCP for concurrent sclerosing cholangitis, thiopurines first-line for maintenance in IBD-AIH, and the caveat that AIH scoring systems are not validated in the IBD population.
+- `wiki/index.md` — new concept row, new source row. Inline links added on `crohns-disease`, `ulcerative-colitis` and `inflammatory-bowel-disease`.
+
+**Cards:** new `extraintestinal-manifestations-ibd` card file (10 notes) and 2 notes appended to `iron-deficiency-anemia`. Cut as other-specialty or low-yield: the cardiovascular risk estimates, the myocarditis/pericarditis incidences, the pulmonary statement (no treatment guidance), the ENT statement (insufficient evidence to recommend anything), metastatic Crohn's, and fatigue (no actionable intervention). The TNFα-and-demyelination contraindication was left uncarded because `[[anti-tnf-agents]]` already owns it.
+
+**Anchors:** all 25 new `{at:}` section anchors across both ingests verified against the computed heading ids; the backfill queue is at 0 untagged notes. `node` is unavailable in this sandbox so the deck was not rebuilt — the 05:00 card pass picks the files up. All 24 new card ids verified unique within their files.
+
+---
+
+**Not done this pass:** no coverage-gap page, stub expansion or stalest-page review (backlog mode). No `needed-sources.md` row qualified — every decision on the new pages rests on an ingested guideline's own text, and no row on the list is filled by either document. Backlog remains open: roughly 18 uningested tier-1 guideline/consensus files, including Maastricht VI, Taipei Global Consensus II, BSG 2026 coeliac, UEG 2025 malabsorption (2 parts), ESGE 2020 motility part 2, ASGE-ESGE 2024 endoscopic bariatric therapies, Rome V 2026 centrally mediated GI pain, and four EASL documents (2024 genetic cholestatic, 2025 autoimmune hepatitis, 2025 extrahepatic cholangiocarcinoma, 2026 PBC surrogate endpoints).
 
 ---
 

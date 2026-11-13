@@ -3,8 +3,8 @@ title: "Primary Sclerosing Cholangitis"
 category: disease-script
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant, dominant-stricture, igg4, udca, mrcp, fish, liver-stiffness]
 created: 2026-05-19
-updated: 2026-11-11
-sources: [acg-2026-preventive-care-cirrhosis, acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, aga-2019-psc-cancer-surveillance, baveno-viii-2026-portal-hypertension, asge-2025-ibd-endoscopy-consensus]
+updated: 2026-11-13
+sources: [acg-2026-preventive-care-cirrhosis, acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, aga-2019-psc-cancer-surveillance, baveno-viii-2026-portal-hypertension, asge-2025-ibd-endoscopy-consensus, ecco-2024-eim-ibd]
 ---
 
 ## Assessment
@@ -18,7 +18,9 @@ Primary sclerosing cholangitis (PSC) is a chronic, cholestatic liver disease lik
 - Prevalence 6–16/100,000; incidence 1–1.5/100,000 person-years (northern Europe/North America)
 - Peak incidence age 25–45, median age at diagnosis 36–39 years
 - Men ~2/3 of patients overall; male predominance much less pronounced without IBD
-- ≥70–80% of PSC patients have concurrent IBD (mostly [[ulcerative-colitis|ulcerative colitis (UC)]] or indeterminate colitis; ~1/3 [[crohns-disease|Crohn's]]); 5–9% of adults with IBD have PSC by magnetic resonance imaging (MRI) screening
+- ≥70–80% of PSC patients have concurrent IBD (mostly [[ulcerative-colitis|ulcerative colitis (UC)]] or indeterminate colitis; ~1/3 [[crohns-disease|Crohn's]]); 5–9% of adults with IBD have PSC by magnetic resonance imaging (MRI) screening — [[ecco-2024-eim-ibd|ECCO 2024]], the newer document, gives the prevalence of PSC in IBD as **2–8%** from the gastroenterology side
+- **Looking for PSC from the IBD side** ([[ecco-2024-eim-ibd]] Statement 9 *[EL2]*): in a patient with IBD, **persistent elevation of cholestatic liver enzymes plus symptoms of cholestasis such as pruritus, or prominent perihilar lymphadenopathy** → investigate with **high-quality MRCP**. Liver tests are checked in every treatment-naive patient with suspected IBD and **every 6 months thereafter** — the monitoring schedule and the elevation-grading table live on [[extraintestinal-manifestations-ibd]]
+- **PSC-IBD should be referred to a hepatologist with expertise in PSC at diagnosis, with joint care continuing thereafter** ([[ecco-2024-eim-ibd]] Statement 11 *[EL5]*)
 - PSC-autoimmune hepatitis (AIH) overlap: ~35% of children, ~5% of adults
 - Median time to death or [[liver-transplantation|liver transplantation (LT)]]: ~9 years (referral centers) to ≥21 years (population-based studies)
 
@@ -321,7 +323,7 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 
 ## See Also
 
-[[ursodeoxycholic-acid]], [[abnormal-liver-chemistries]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ercp]], [[liver-transplantation]], [[colonoscopy]], [[colorectal-cancer]], [[portal-hypertension]], [[hcc-surveillance]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[mri-mrcp]], [[brush-cytology]], [[fish]], [[gallbladder-cancer]], [[variceal-upper-gi-bleeding]], [[upper-endoscopy]], [[tips]], [[cirrhosis]], [[acute-cholangitis]], [[acute-pancreatitis]], [[porto-sinusoidal-vascular-disorder]], [[portal-vein-thrombosis]], [[thiopurines]], [[anti-tnf-agents]], [[immune-checkpoint-inhibitor-hepatitis]], [[hereditary-hemorrhagic-telangiectasia]], [[choledocholithiasis]], [[endoscopic-ultrasound]], [[antibiotic-prophylaxis-endoscopy]], [[tacrolimus]], [[jaundice]], [[hepatocellular-carcinoma]], [[ascites]], [[hepatic-encephalopathy]]
+[[ursodeoxycholic-acid]], [[abnormal-liver-chemistries]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ercp]], [[liver-transplantation]], [[colonoscopy]], [[colorectal-cancer]], [[portal-hypertension]], [[hcc-surveillance]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[mri-mrcp]], [[brush-cytology]], [[fish]], [[gallbladder-cancer]], [[variceal-upper-gi-bleeding]], [[upper-endoscopy]], [[tips]], [[cirrhosis]], [[acute-cholangitis]], [[acute-pancreatitis]], [[porto-sinusoidal-vascular-disorder]], [[portal-vein-thrombosis]], [[thiopurines]], [[anti-tnf-agents]], [[immune-checkpoint-inhibitor-hepatitis]], [[hereditary-hemorrhagic-telangiectasia]], [[choledocholithiasis]], [[endoscopic-ultrasound]], [[antibiotic-prophylaxis-endoscopy]], [[tacrolimus]], [[jaundice]], [[hepatocellular-carcinoma]], [[ascites]], [[hepatic-encephalopathy]], [[extraintestinal-manifestations-ibd]]
 
 ---
 
@@ -334,3 +336,4 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 5. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
 6. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
 7. [[asge-2025-ibd-endoscopy-consensus|Endoscopic diagnosis and management of adult inflammatory bowel disease: a consensus document from the American Society for Gastrointestinal Endoscopy IBD Endoscopy Consensus Panel (2025)]]
+8. [[ecco-2024-eim-ibd|ECCO Guidelines on Extraintestinal Manifestations in Inflammatory Bowel Disease (2024)]]
