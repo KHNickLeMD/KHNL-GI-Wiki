@@ -357,5 +357,3 @@ Every cut-point printed in the document, with the qualifier that makes it usable
 ## Sources
 
 1. [[acg-2020-esophageal-physiologic-testing|ACG Clinical Guidelines: Clinical Use of Esophageal Physiologic Testing]]
-</content>
-</invoke>

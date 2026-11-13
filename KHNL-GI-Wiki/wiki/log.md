@@ -6,6 +6,45 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-13] update | Card pass — dedup, stale-page re-cards, card quality review
+
+**Dedup:** `anki-dupes.mjs` returned 0 unjudged candidate pairs at ≥0.4 — nothing to merge, no ledger entries.
+
+**Stale card files re-carded (9 pages flagged by the build after today's quality-review sweep):**
+- `functional-diarrhea` — no new cardable fact (the new Bristol Stool Form Scale bands are owned by the stool-scale page and partly carded on `chronic-idiopathic-constipation`); `page_updated` bumped.
+- `ineffective-esophageal-motility` — all facts on the rewritten page are owned by [[chicago-classification-v4]], [[flip-panometry]] or [[hrm-antireflux-surgery]]; card file stays empty, `page_updated` bumped.
+- `acute-fatty-liver-of-pregnancy` — 2 new notes: Swansea criteria threshold (full 14-criterion list in Back Extra) and imaging for hepatic hemorrhage/infarct/rupture with transplant-centre transfer.
+- `liver-disease-in-pregnancy` — Swansea table moved to the AFLP page, no new facts; bumped.
+- `acute-colonic-pseudo-obstruction` — rewrote the imaging note (page now leads with the plain radiograph; the old note asserted a laboratory panel no longer on the page), re-pointed 6 `{at:}` anchors to the new sub-sections, 2 new notes (decompression technique; percutaneous endoscopic colostomy).
+- `colonic-volvulus` — corrected the CT note (mesenteric whirl sign; the transition zone belongs to ACPO, and the coffee-bean sign is no longer on the page), 2 new notes (detorsion manoeuvre and tube position; endoscopic appearance).
+- `mesenteric-artery-aneurysm` — front qualified to a *true* aneurysm for the treat-at-any-size sites, `{at:}` moved to the new Classification / Typing section. Site distribution and repair modality judged not cardable (epidemiology; vascular-surgery technique).
+- `entamoeba-histolytica-infection` — speciation note rewritten to the page's current test wording, 1 new note (intestinal perforation as the extraintestinal manifestation).
+- `norovirus` — illness duration corrected to the page wording, 1 new note (chronic/severe infection in transplant recipients on immunosuppression), `{at:}` re-pointed.
+
+**Card quality review (release sweep):**
+- `endoscopic-ultrasound` — 26 → 25 notes; merged the two mediastinal-station notes, cut the Rosemont feature-size definitions, added the Rosemont diagnostic-category note with the category table in Back Extra, added the cyst-fluid marker table.
+- `irritable-bowel-syndrome` — 25 → 24; Rome IV framing replaced by the operative Rome V criteria (frequency note merged in), continuous-pain exclusion recut, tenapanor dose dropped (owned by [[tenapanor]]), IBS-C agent/dose table added.
+- `diverticulitis` — 25 → 21; merged the high-risk cut-points, the AGA colonoscopy-after-CT note, the single-episode-resection note and the aspirin note into their ACG 2026 counterparts; modified Hinchey table added.
+- `gastroparesis` — 25 → 23; cut the GCSI minimum important difference (a trial metric) and folded the unvalidated retention bands into the diagnostic-cutoff note; prokinetic dose table added.
+- `celiac-disease` — 24 notes, all passed the high-yield test; refractory-disease drug/dose table added.
+- `chronic-hepatitis-b` — 24 → 23; plateau note merged into the virologic-breakthrough note; phase-definition and reactivation-risk-by-exposure tables added.
+- `hereditary-hemochromatosis` — 24 → 23; the AASLD 2011 hepatic-iron-index note merged into the biopsy-pattern note; hemochromatosis-type table added.
+- `proton-pump-inhibitors` — 24 notes, all passed; omeprazole-equivalent potency table added.
+- `familial-adenomatous-polyposis` — 23 notes, all passed; Spigelman scoring table and stage-interval table added (the point values had been prose in Back Extra).
+- `short-bowel-syndrome` — 23 → 20; the three anatomic phenotype groups merged into one note, and the two teduglutide-safety notes into one.
+- `hereditary-hemorrhagic-telangiectasia` — 23 notes, all passed, no change needed. The Curaçao criteria themselves stay uncarded: [[hht-2020-second-international-guidelines]] does not print them (they are in its supplement, from the Shovlin 2000 primary paper), so a card would breach *guideline-sourced cards only*.
+- `wilson-disease` — 23 notes, all passed; New Wilson Index scoring table added.
+
+**New cards:** no page was eligible for a first card file — the only three uncarded topic pages are the standing deliberate skips ([[telemedicine-in-gastroenterology]], [[bristol-stool-form-scale]], [[peginterferon-alfa-2a]]).
+
+**Hygiene:** stripped leaked `</content>` / `</invoke>` tool-call artifacts from the tails of `acute-colonic-pseudo-obstruction`, `endoscopic-band-ligation` and `sources/acg-2020-esophageal-physiologic-testing` (the recurring corruption class).
+
+**Dedup, second pass:** the new Rosemont diagnostic-category note on `endoscopic-ultrasound` surfaced as a duplicate of the three category notes already owned by `chronic-pancreatitis` — retired it there, absorbed its category table into that page's keeper note, and marked all three pairs `merged` in the ledger. `anki-dupes` back to 0 unjudged.
+
+**Deck:** 4,501 notes exported, build clean (no cap, anchor or staleness problems left). `{at:}` backfill queue empty (0 untagged). `occ files:scan` not run — no `php` in this container, so the Nextcloud rescan waits for the host cron.
+
+---
+
 ## [2026-11-13] lint | Quality review (release sweep)
 
 **Pages reviewed:**

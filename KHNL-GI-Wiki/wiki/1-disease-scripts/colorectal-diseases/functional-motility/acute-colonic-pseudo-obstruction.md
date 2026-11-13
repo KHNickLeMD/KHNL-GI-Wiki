@@ -148,5 +148,3 @@ Short-acting anticholinesterase parasympathomimetic — the **pharmacologic agen
 
 1. [[asge-2020-acpo-volvulus|ASGE Guideline on the Role of Endoscopy in the Management of Acute Colonic Pseudo-Obstruction and Colonic Volvulus (2020)]]
 2. [[asge-2014-constipation|ASGE 2014: The Role of Endoscopy in the Management of Constipation]]
-</content>
-</invoke>
