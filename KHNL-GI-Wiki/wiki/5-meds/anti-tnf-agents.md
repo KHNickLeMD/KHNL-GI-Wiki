@@ -3,8 +3,8 @@ title: "Anti-TNF Agents (TNF-α Antagonists)"
 category: med
 tags: [anti-tnf, infliximab, adalimumab, certolizumab-pegol, golimumab, biologic, ibd, crohns, ulcerative-colitis, immunogenicity, therapeutic-drug-monitoring, biosimilar, immune-checkpoint-inhibitor]
 created: 2026-09-04
-updated: 2026-11-02
-sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis, aga-2018-biologic-biosimilar-switching-ibd, cimzia-2025-certolizumab-pegol-label, humira-2025-adalimumab-label, simponi-2025-golimumab-label]
+updated: 2026-11-13
+sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis, aga-2018-biologic-biosimilar-switching-ibd, cimzia-2025-certolizumab-pegol-label, humira-2025-adalimumab-label, simponi-2025-golimumab-label, ecco-2017-crohns-part-1]
 ---
 
 Monoclonal tumor necrosis factor-α (TNF-α) antagonists — **infliximab, adalimumab, certolizumab pegol, golimumab** — the longest-established advanced-therapy class in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], and the drugs behind most combination-therapy, immunogenicity and pre-biologic-screening rules. **Onset is rapid — as early as the first 2 weeks**, and response/remission rates are higher when given **within 2 years of disease onset** ([[acg-2025-crohns]]). Outside IBD: rescue for glucocorticoid-refractory [[immune-checkpoint-inhibitor-colitis|immune checkpoint inhibitor (ICI) colitis]].
@@ -161,6 +161,13 @@ See [[chronic-hepatitis-b]].
 
 ## Loss of Response
 
+**The step order in Crohn's disease** ([[ecco-2017-crohns-part-1]], statement 6I):
+
+1. **Confirmed loss of response → dose optimisation first** (EL3).
+2. **Dose increase and interval shortening are equivalent strategies** (EL4) — pick either.
+3. **Dose optimisation ineffective → switch to a different anti-TNF agent** (EL2).
+4. Where available, **serum anti-TNF trough levels and anti-drug antibodies could be used to guide** the optimisation strategy (EL4).
+
 - Trough targets by agent, the trough-plus-antibody failure patterns (mechanistic, non-immune pharmacokinetic, immune-mediated) and the action each assigns live on [[therapeutic-drug-monitoring-ibd]]. In UC, measuring serum drug levels and antidrug antibodies on loss of response is Conditional, very low ([[acg-2025-uc]] Rec 44).
 - **A history of antidrug antibodies carries forward:** these patients are at greater risk of developing antibodies to the **next agent in the same class** — so combination with a thiopurine or methotrexate should be considered when switching within class ([[acg-2025-crohns]]).
 - **HLA-DQA1\*05 carriers** have higher rates of immunogenicity and secondary loss of response: positive predictive value **30%**, negative predictive value **80%**; **proactive TDM can modify** the association. Measure in **select patients** ([[acg-2025-crohns]] Key Concept 22).
@@ -237,3 +244,4 @@ See [[chronic-hepatitis-b]].
 8. [[cimzia-2025-certolizumab-pegol-label|CIMZIA (Certolizumab Pegol) — FDA Prescribing Information]]
 9. [[humira-2025-adalimumab-label|HUMIRA (Adalimumab) — FDA Prescribing Information]]
 10. [[simponi-2025-golimumab-label|SIMPONI (Golimumab) — FDA Prescribing Information]]
+11. [[ecco-2017-crohns-part-1|ECCO 3rd European Evidence-based Consensus on the Diagnosis and Management of Crohn's Disease 2016: Part 1 — Diagnosis and Medical Management]]

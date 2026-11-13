@@ -3,8 +3,8 @@ title: "Corticosteroids in IBD (systemic, budesonide CIR, budesonide MMX)"
 category: med
 tags: [ibd, crohns-disease, ulcerative-colitis, corticosteroids, budesonide, prednisone, methylprednisolone, hydrocortisone, induction, steroid-dependence, autoimmune-hepatitis]
 created: 2026-09-20
-updated: 2026-10-30
-sources: [acg-2025-crohns, acg-2025-uc, acg-2018-crohns, acg-2019-uc, acg-2025-ibd-preventive-care, aasld-2020-autoimmune-hepatitis, aga-2026-inpatient-ibd]
+updated: 2026-11-13
+sources: [acg-2025-crohns, acg-2025-uc, acg-2018-crohns, acg-2019-uc, acg-2025-ibd-preventive-care, aasld-2020-autoimmune-hepatitis, aga-2026-inpatient-ibd, ecco-2017-crohns-part-1]
 ---
 
 ## Contents
@@ -123,8 +123,19 @@ The "against maintenance" recommendations are among the strongest in both guidel
 | **Steroid-refractory (acute severe UC)** | **Inadequate response to IV corticosteroids by day 3** (window stated as **3–5 days** in [[acg-2019-uc\|ACG 2019]]) | Medical rescue with **infliximab or [[calcineurin-inhibitors\|cyclosporine]]** *(strong, moderate)* |
 | **Corticosteroid-free remission (UC)** | Symptomatic + endoscopic remission with **no corticosteroid for a sustained period, usually >12 weeks** | The treatment target |
 
-- The ACG Crohn's and UC guidelines define steroid dependence by **behaviour on taper**, not by a number of weeks of exposure or a threshold daily dose; no day-count or milligram criterion is attached to the term in these documents.
-- There is **no ACG definition of steroid refractoriness in Crohn's disease** parallel to the ASUC day-3 rule; in CD, disease that persists **despite conventional corticosteroids and/or advanced therapies** is classified as **severe/fulminant** (see [[crohns-disease]]).
+- The ACG Crohn's and UC guidelines define steroid dependence by **behaviour on taper**, not by a number of weeks of exposure or a threshold daily dose; no day-count or milligram criterion is attached to the term in these documents, and there is **no ACG definition of steroid refractoriness in Crohn's disease** parallel to the ASUC day-3 rule. In CD, disease persisting **despite conventional corticosteroids and/or advanced therapies** is classified as **severe/fulminant** (see [[crohns-disease]]).
+
+**The numeric criteria come from ECCO** ([[ecco-2017-crohns-part-1]]) — the only ingested source that attaches doses and time windows to these terms in Crohn's disease:
+
+| Term | ECCO criterion |
+|---|---|
+| **Steroid-refractory CD** | **Active disease despite prednisolone up to 1 mg/kg/day for 4 weeks** |
+| **Steroid-dependent CD** | **Either** (i) **unable to reduce below prednisolone 10 mg/day — or budesonide 3 mg/day — within 3 months of starting steroids**, without recurrent active disease, **or** (ii) **relapse within 3 months of stopping steroids** |
+
+- **Combination rule:** either limb alone makes the patient steroid-dependent. The definition requires that **total steroid duration not exceed 3 months** before the prednisolone-10 mg/day threshold is reached. **The aim is complete withdrawal.**
+- **Exclude disease-specific complications first** — assess refractoriness or dependence only after an abscess, stricture or infection has been ruled out.
+- **"Chronic active disease" is to be avoided** as ambiguous; use steroid-refractory or steroid-dependent.
+- **When is a steroid-sparing agent due?** ECCO cannot define "infrequently relapsing disease" from trial evidence, but offers **more than one full course of systemic steroids per year** as the threshold for introducing one.
 
 ---
 
@@ -143,6 +154,20 @@ The "against maintenance" recommendations are among the strongest in both guidel
 
 - Background IBD risk (independent of steroids): overall fracture **relative risk (RR) 1.38 (95% confidence interval [CI] 1.11–1.73)**; vertebral fracture **RR 2.26 (95% CI 1.04–4.90)**.
 - **Rec 11 — adults with IBD and conventional bone mineral density (BMD) risk factors: dual-energy X-ray absorptiometry (DEXA) at the time of diagnosis and periodically** *(Conditional, very low)*.
+- **Osteoprotection is advisable once therapy is likely to last >6 weeks**; most advocate calcium and vitamin D for all patients. **Budesonide costs less bone than prednisolone** — mean BMD change **−1.04% vs −3.84% over 2 years** (p = 0.0084). [[ecco-2017-crohns-part-1]]
+
+**Adverse effects fall into three groups by timing** ([[ecco-2017-crohns-part-1]]) — which group you are in decides what to look for:
+
+| Timing | Effects |
+|---|---|
+| **Early** (supraphysiologic induction doses) | Acne, moon face, oedema, skin striae, sleep and mood disturbance, dyspepsia, glucose intolerance |
+| **Prolonged use** (usually >12 weeks, sometimes less) | Posterior subcapsular cataract, osteoporosis, osteonecrosis of the femoral head, myopathy, susceptibility to infection |
+| **Withdrawal** | Acute adrenal insufficiency from sudden cessation, **pseudo-rheumatism**, raised intracranial pressure |
+
+> [!pitfall] A post-taper flare that is really steroid withdrawal
+> Steroid withdrawal produces **myalgia, malaise and arthralgia that mimic a recrudescence of Crohn's disease**. Confirm objective inflammation before calling it a relapse and re-escalating ([[ecco-2017-crohns-part-1]]).
+
+- **Postoperative sepsis** is increased by steroids — odds ratio **3.7 (95% CI 1.2–11.0)** in IBD; **not seen with [[thiopurines|thiopurines]]** (OR 1.7, 95% CI 0.7–9.6). Steroids combined with other immunosuppressants increase serious infections.
 
 **Infection and vaccination.** Corticosteroids are immune-modifying therapy: **no live vaccines** (live attenuated influenza, measles-mumps-rubella [MMR], dengue, yellow fever) while on immune-modifying therapy, and **vaccinate before starting** it when possible. Household contacts may receive live vaccines with precautions. [[acg-2025-ibd-preventive-care]]
 
@@ -185,3 +210,4 @@ The same two drugs, a different rule set — and the one place where **budesonid
 5. [[acg-2025-ibd-preventive-care|ACG 2025: Preventive Care in Inflammatory Bowel Disease]]
 6. [[aasld-2020-autoimmune-hepatitis|AASLD Practice Guidance on Autoimmune Hepatitis (2020)]]
 7. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review]]
+8. [[ecco-2017-crohns-part-1|ECCO 3rd European Evidence-based Consensus on the Diagnosis and Management of Crohn's Disease 2016: Part 1 — Diagnosis and Medical Management]]

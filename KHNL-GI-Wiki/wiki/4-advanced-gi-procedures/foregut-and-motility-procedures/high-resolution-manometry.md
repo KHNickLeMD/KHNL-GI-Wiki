@@ -3,8 +3,8 @@ title: "High-Resolution Manometry (HRM)"
 category: advanced-procedure
 tags: [hrm, manometry, esophageal, motility, foregut, chicago-classification, hrem]
 created: 2026-05-16
-updated: 2026-09-29
-sources: [acg-2020-esophageal-physiologic-testing, acg-2021-gerd, asge-2024-gerd, afs-2023-transoral-incisionless-fundoplication, padova-2025-hrm-antireflux]
+updated: 2026-11-13
+sources: [acg-2020-esophageal-physiologic-testing, acg-2021-gerd, asge-2024-gerd, afs-2023-transoral-incisionless-fundoplication, padova-2025-hrm-antireflux, bredenoord-2021-egjoo-technical-review]
 ---
 
 *Also referred to as esophageal manometry or high-resolution esophageal manometry (HREM). Canonical slug: `high-resolution-manometry`. See [[chicago-classification-v4]] for the diagnostic framework applied to high-resolution manometry (HRM) data and [[hrm-antireflux-surgery]] for pre/post-operative HRM.*
@@ -14,6 +14,7 @@ sources: [acg-2020-esophageal-physiologic-testing, acg-2021-gerd, asge-2024-gerd
 - [[#Key Metrics]]
 - [[#Diagnostic Outputs]]
 - [[#Provocative Maneuvers]]
+- [[#Technical Artifacts That Fake an Elevated IRP]]
 - [[#HRM Performance Characteristics (vs. Conventional Manometry)]]
 - [[#HRM for Hiatal Hernia Detection]]
 - [[#HRM for Extraesophageal/Atypical Symptoms]]
@@ -58,9 +59,26 @@ Supplementary provocative maneuvers improve diagnostic yield beyond the standard
 | **Multiple rapid swallows (MRS)** | 5 × 2 mL water, each < 3 seconds apart | Assesses deglutitive inhibition and contraction reserve; absence of post-MRS robust contraction correlates with higher risk of post-fundoplication [[dysphagia]] |
 | **Rapid drink challenge (RDC)** | Free drinking of 100–200 mL water through straw in upright position | Elevates lower esophageal sphincter (LES) postswallow residual pressure/panesophageal pressurization in EGJ outflow obstruction; detects obstruction not evident on single swallows |
 | **Solid test meal (STM)** | Cooked rice/gravy or cheese-and-onion pasty | Increases diagnostic yield for EGJ outflow obstruction and spasm; reproduces symptoms |
+| **Pharmacologic provocation — amyl nitrite** | Inhaled nitric oxide donor; **stored refrigerated at 2–8°C** before use | Profoundly inhibits esophageal smooth muscle and the LES. In achalasia and EGJOO — **but not in healthy controls** — the relaxation is followed by a robust LES **rebound contraction**. A fall in IRP **>10 mmHg** below the deglutitive IRP defines a responder ([[bredenoord-2021-egjoo-technical-review]]) |
 
 - **Recommendation 2 (Strong; moderate quality):** *"We recommend HRM over conventional line tracing manometry for the diagnosis of esophageal motility disorders in patients with obstructive esophageal symptoms."*
 - **Conditional recommendation (low quality):** supplementary/provocative maneuvers added to the HRM protocol to improve diagnostic yield for obstructive esophageal symptoms.
+- Historical pharmacologic agents used during esophageal pressure monitoring: methacholine and edrophonium (to separate pseudoachalasia from primary cardiospasm) and cholecystokinin (to provoke chest pain and to demonstrate paradoxical LES contraction in achalasia).
+
+---
+
+## Technical Artifacts That Fake an Elevated IRP
+
+A numerically elevated IRP is frequently artifact rather than obstruction — **16%–32% of elevated supine IRPs normalize** when the patient is repositioned and given 5 upright wet swallows, and the physiologic range of IRP is itself lower upright ([[bredenoord-2021-egjoo-technical-review]]). Exclude these before reporting [[esophagogastric-junction-outflow-obstruction|EGJOO]]:
+
+| Artifact | Mechanism | What to do |
+|---|---|---|
+| **Pressure drift** (solid-state catheters) | Sensor baseline drifts during the study | The manufacturer's post-procedural **thermal compensation does not always correct it, and can itself introduce** a falsely elevated IRP — inspect the post-removal trace for drifting sensors in the EGJ segment |
+| **Catheter impingement / sensor angulation** | A sensor in the EGJ segment is bent, classically inside a [[hiatal-hernia\|hiatal hernia]] sac, and records a false high-pressure band | **Fixable live** — reposition the catheter during acquisition and re-check. Inspiratory crural pull moves the artifact aborally, which helps identify it |
+| **Hiatal hernia physiology** | In hernia the EGJ is typically a *weakened* barrier, not an obstruction — bolus and refluxate cross freely despite a recorded high-pressure zone | Disregard the elevated IRP; never let it drive an invasive procedure |
+| **Cardiac / vascular compression** | Transmitted pressure in the EGJ region | Reduced in the **upright** position — the rationale for the Chicago v4.0 position-change requirement |
+| **Hysteresis / hydrostatic artifact** | Perfused (water-perfusion) systems | Recognize as system-specific, not patient pathology |
+| **Stress, breath-holding** | Psychological stress during manometry and mid-expiratory interruption of breathing raise residual deglutitive EGJ pressure | Coach breathing; re-run swallows |
 
 ---
 
@@ -136,3 +154,4 @@ HRM has **higher sensitivity** than [[upper-endoscopy|endoscopy]] or barium radi
 3. [[asge-2024-gerd|ASGE 2024: Diagnosis and Management of GERD]]
 4. [[afs-2023-transoral-incisionless-fundoplication|American Foregut Society White Paper on Transoral Incisionless Fundoplication (2023)]]
 5. [[padova-2025-hrm-antireflux|Padova Consensus: High-Resolution Manometry Before and After Antireflux Surgery]]
+6. [[bredenoord-2021-egjoo-technical-review|Esophagogastric Junction Outflow Obstruction — Chicago Classification v4.0 Technical Review]]

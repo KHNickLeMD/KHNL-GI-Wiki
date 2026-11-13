@@ -3,8 +3,8 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-11-11
-sources: [asge-2025-ibd-endoscopy-consensus, aga-2018-functional-gi-symptoms-ibd, acg-2025-crohns, aga-2017-crohns-after-surgical-resection, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia]
+updated: 2026-11-13
+sources: [asge-2025-ibd-endoscopy-consensus, aga-2018-functional-gi-symptoms-ibd, acg-2025-crohns, aga-2017-crohns-after-surgical-resection, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia, ecco-2017-crohns-part-1]
 ---
 
 Crohn's disease (CD): idiopathic transmural, granulomatous [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] of any gastrointestinal (GI) segment, mouth to anus — discontinuous skip lesions; progressive course toward stricture, fistula, abscess and surgery.
@@ -70,7 +70,19 @@ No single test — integrate:
 | Severe/fulminant | Persistent symptoms **despite steroids and/or advanced therapy**, or high fever, obstruction, peritoneal signs, cachexia, abscess — **usually hospitalized** |
 
 - **High-risk features for progression:** young age at diagnosis · ileal/ileocolonic location · perianal/severe rectal disease · extensive involvement · deep ulcers · extraintestinal manifestations at diagnosis · stricturing/penetrating phenotype.
+  - **How much risk:** with **2 of {perianal lesions, young age at diagnosis, steroids needed for the first flare}**, **84–91%** had disabling disease by 5 years; with all **3**, **91–93%** ([[ecco-2017-crohns-part-1]]). Two or more predictors is the trigger to consider early thiopurine and/or biologic therapy — though these features are present in a large fraction of patients and may discriminate poorly.
 - **Perianal disease excludes "mild"** → moderate-severe band. Management: [[perianal-fistulizing-crohns-disease]].
+
+**Extent and relapse pattern — the terms that select maintenance** ([[ecco-2017-crohns-part-1]]):
+
+| Term | Criterion |
+|---|---|
+| **Localized disease** | **<30 cm** of intestine involved (usually ileocaecal) |
+| **Extensive disease** | **>100 cm**, any location, **summed across discontinuous segments** → thiopurines recommended for maintenance |
+| **Relapse pattern** | **Infrequent ≤1/year · frequent ≥2/year · continuous** (no remission period) |
+| **Early relapse** | **<3 months** after remission was achieved — start an immunomodulator |
+
+*(30–100 cm is an acknowledged grey area.) Steroid-refractory and steroid-dependent are defined on [[corticosteroids-ibd#Steroid Dependence and Steroid Refractoriness]].*
 
 ### Natural History Key Facts
 
@@ -359,3 +371,4 @@ By patient profile ([[acg-2025-crohns]] KC 55):
 14. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
 15. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease: Expert Review]]
 16. [[asge-2025-ibd-endoscopy-consensus|Endoscopic diagnosis and management of adult inflammatory bowel disease: a consensus document from the American Society for Gastrointestinal Endoscopy IBD Endoscopy Consensus Panel (2025)]]
+17. [[ecco-2017-crohns-part-1|ECCO 3rd European Evidence-based Consensus on the Diagnosis and Management of Crohn's Disease 2016: Part 1 — Diagnosis and Medical Management]]

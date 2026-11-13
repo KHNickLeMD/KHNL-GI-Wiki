@@ -6,6 +6,61 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-13] lint | 06:00 pass — backlog ingest
+
+**Daily source fetch:** nothing downloaded. Every row in `needed-sources.md` that names a document not in `raw/` is marked 🔒 (Eckardt 1992, WHO Blue Book 5th ed) or 🌐 (CDC Yellow Book / Parasites pages, NIH-CDC-IDSA opportunistic-infection guidelines); marked rows are skipped by the fetch step. No unmarked candidate existed, so the step correctly fetched nothing.
+
+**Inbox sync:** no untracked files under `raw/` — `raw/` PDFs are gitignored, so nothing to commit from the sync.
+
+**Backlog mode:** ON. No source page carried `ingest: partial` at the start of the pass, so ingest started from priority order. Per backlog mode, *Validate the stalest pages*, *Expand stubs* and *Fill coverage gaps* are paused: ingest backlog.
+
+**Sources created:**
+
+- `bredenoord-2021-egjoo-technical-review` — Chicago Classification v4.0 technical review on esophagogastric junction outflow obstruction (Neurogastroenterology & Motility 2021). All 8 International HRM Working Group statements captured with the document's own percent agreement, strength and level of evidence. Flagged in the 2026-11-13 quality-review entry as the highest-value uningested source for the EGJOO page, so it was taken first. Not open access (© Wiley) → no figure embedded; Figure 6 (the diagnostic algorithm) is a raster image with no text layer, so it was not redrawn either — the two-bar logic is already carried as text on the entity page.
+
+**Pages updated:**
+
+- `esophagogastric-junction-outflow-obstruction` — new `### Primary vs Secondary` section (21–28% of elevated IRPs are structural; the secondary-cause list; endoscopy always first in dysphagia). Closed four decision gaps: where the 20 mmHg intrabolus-pressure threshold comes from (95th percentile of healthy volunteers is 16–19.5 mmHg) and that it is software- and system-dependent; the upright IRP >12 mmHg test characteristics (98% sensitivity / 16% specificity radiographic, 88% / 23% symptomatic) with the point that it only *discards*, never rules in; that 16–32% of elevated supine IRPs normalize upright; and that **reflux symptoms do not satisfy the symptom criterion**. Added the natural history that licenses restraint (<10% progress to achalasia, 32–94% needed no therapy, 40% sham response), a pitfall callout on why an irreversible procedure destroys the future achalasia diagnosis, botulinum toxin as the preferred first intervention with its durability (55% at 1 y, 50% at 1.5 y) and pneumatic dilation's ~67% response only with objective obstruction. Diagnostics gained rows for provocative maneuvers, amyl-nitrite provocation and the CT/EUS question, plus the reason impaired bolus clearance is deliberately *not* in the definition. Morbid-obesity caveat added to the differential.
+- `high-resolution-manometry` — new `## Technical Artifacts That Fake an Elevated IRP` section (pressure drift and the thermal-compensation trap, catheter impingement in a hernia sac with the live repositioning fix, hiatal hernia physiology, cardiovascular compression, perfused-system hysteresis, stress/breath-holding). Amyl nitrite added to the provocative-maneuvers table with its storage temperature and the >10 mmHg responder threshold.
+- `chicago-classification-v4` — **one-home-per-fact fix** flagged in yesterday's triage: the `## EGJOO — Key CC v4.0 Paradigm Shift` section restated the disease script's Bar 1 / Bar 2 criteria, supportive tests and subtypes almost verbatim. Rewritten as the paradigm shift only — what v3.0 did, why it failed (5% of everyone studied, 5–24% prevalence, κ = 0.45), and the three structural changes v4.0 made — with the criteria left to the entity page.
+- `hiatal-hernia` — one line + link: do not act on an elevated IRP in a hernia patient.
+- `needed-sources.md` — the row naming the three Chicago v4.0 technical reviews narrowed to the two still uningested (Fox protocol, Kahrilas EGJ metrics).
+
+**Cards:**
+
+- `esophagogastric-junction-outflow-obstruction` — 2 new notes (reflux symptoms are not clinically relevant symptoms, so the finding is disregarded; botulinum toxin as the preferred first intervention).
+- `high-resolution-manometry` — 2 new notes (the hernia-sac impingement artifact and its live fix; the thermal-compensation trap), `page_updated` bumped.
+- **Not built this run** — `node` was unapprovable in this sandbox. The next card pass must build first and fix anything it reports on the touched files.
+
+---
+
+### Second ingest — ECCO 2017 Crohn's Part 1
+
+**Source created:** `ecco-2017-crohns-part-1` — 3rd ECCO evidence-based consensus on Crohn's disease, Part 1 (J Crohns Colitis 2017). All **35 ECCO statements** captured with the document's own Oxford 2011 evidence levels; ECCO attaches no separate strength rating, which the source page states plainly. Picked because its `needed-sources.md` row named a specific open decision gap (the steroid-refractory / steroid-dependent criteria, which no ingested US guideline quantifies). Not open access → no figure embedded.
+
+**Pages updated:**
+
+- `corticosteroids-ibd` — **the named gap closed.** ACG defines steroid dependence by behaviour on taper with no dose or day-count; the page now carries ECCO's numeric criteria as a table (refractory = active despite prednisolone up to 1 mg/kg/day × 4 weeks; dependent = cannot get below prednisolone 10 mg/day or budesonide 3 mg/day within 3 months, **or** relapse within 3 months of stopping), with the either-limb combination rule, the "exclude complications first" precondition, and the >1 steroid course per year threshold for adding a steroid-sparing agent. Adverse effects regrouped by timing (early / prolonged >12 weeks / withdrawal) as a table, with a pitfall callout on steroid-withdrawal pseudo-rheumatism being mistaken for a flare; added the >6-week osteoprotection trigger, the budesonide-vs-prednisolone bone-density figures and the postoperative-sepsis odds ratio.
+- `crohns-disease` — added the extent and relapse-pattern definitions that select maintenance (localized <30 cm, extensive >100 cm summed across discontinuous segments, infrequent ≤1/y / frequent ≥2/y / continuous, early relapse <3 months) and quantified the existing high-risk-feature list (2 of 3 predictors → 84–91% disabling disease by 5 years, all 3 → 91–93%). Steroid definitions left to `corticosteroids-ibd` and linked, not repeated — the page is already over the short-page ceiling.
+- `anti-tnf-agents` — the loss-of-response step order (optimise first; dose increase and interval shortening are equivalent; switch within class if optimisation fails; trough levels and anti-drug antibodies may guide).
+- `needed-sources.md` — ECCO row deleted (ingested).
+
+**Cards:**
+
+- `corticosteroids-ibd` — 3 new notes (steroid-refractory criterion, the withdrawal-syndrome pitfall, the 6-week osteoprotection trigger) and **1 dedup merge**: a draft note on ECCO's steroid-dependence limbs duplicated the existing `[c01010]`, so the numbers were absorbed into that note as a third cloze and the draft deleted before it was ever exported.
+- `anti-tnf-agents` — 1 new note (the loss-of-response step order).
+- `crohns-disease` — **no new notes.** The file is at 73 notes and was firm-cut on 2026-11-12; the extent definitions are vocabulary anchors rather than decisions in current US practice, and ECCO's maintenance positioning predates the agents the page now uses. Nothing qualified.
+
+**Steps that did nothing, and why:**
+
+- *Daily source fetch* — no unmarked `needed-sources.md` row (above).
+- *Validate the stalest pages*, *Expand stubs from already-ingested sources*, *Fill coverage gaps from the queue* — **paused: ingest backlog.**
+- *Slim long pages* — `chicago-classification-v4` lost ~200 words to the de-duplication above and now sits at ~2,630 words of body, still over the ~2,500 ceiling; flagged for the next slim pass rather than slimmed here, since the pass's budget went to ingest.
+
+**Backlog status:** still ON. A filename-to-source-page audit of all 628 files in `raw/` leaves roughly 45 uningested tier-1/2 documents (plus the gated lectures, which were not touched). Among them: the two remaining Chicago v4.0 technical reviews (Fox, Kahrilas), ASCO 2021 immune-related adverse events, Maastricht VI, BSG 2026 coeliac, BSG 2018 chronic diarrhoea, the UEG 2025 malabsorption pair, the ECCO-ESGAR 2025 IBD diagnostics pair, ESGE 2026 biliary stricture, several 2025–2026 international consensus documents, and the Halphen/Gerard bowel-preparation score papers. The two NCCN files remain **skipped** — their EULA forbids use with a large language model.
+
+---
+
 ## [2026-11-13] update | Card pass — 30 stale card files cleared, 5 card-quality reviews
 
 **Dedup:** `anki-dupes.mjs` returned 0 unjudged candidate pairs at ≥0.4, so the merge step wrote nothing. `anki-at.py --status` = 0 untagged notes, so the section-anchor backfill did nothing.

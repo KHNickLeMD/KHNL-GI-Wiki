@@ -3,8 +3,8 @@ title: "Chicago Classification v4.0 — Esophageal Motility Disorders"
 category: concept
 tags: [manometry, hrm, chicago-classification, esophageal-motility, achalasia, egjoo, iem, des, dysphagia]
 created: 2026-05-16
-updated: 2026-11-12
-sources: [chicago-v4-2021-esophageal-dysmotility, acg-2020-esophageal-physiologic-testing]
+updated: 2026-11-13
+sources: [chicago-v4-2021-esophageal-dysmotility, acg-2020-esophageal-physiologic-testing, bredenoord-2021-egjoo-technical-review]
 ---
 
 ## Contents
@@ -196,21 +196,17 @@ All metrics within normal ranges; no criteria for above disorders met.
 
 ## EGJOO — Key CC v4.0 Paradigm Shift
 
-**A manometric diagnosis of EGJOO is always considered clinically inconclusive** (Strong Recommendation). Nearly 10% of patients undergoing HRM show an EGJOO pattern, and **more than one-third of cases may be clinically irrelevant** — mechanical effects, opioid use, artifact.
+*Full criteria, subtypes, supportive tests and management: [[esophagogastric-junction-outflow-obstruction]].*
 
-**Manometric** EGJOO (Low GRADE, Conditional) requires **all three**:
+**What changed and why.** Under v3.0, EGJOO rested on a **single metric** — a median IRP above the 95th percentile of healthy controls, with preserved peristalsis. By construction that labels **5% of everyone studied by HRM**, and reported EGJOO prevalence ran **5%–24%** across cohorts totalling >20,000 studies, with only fair inter-rater agreement (**κ = 0.45, 95% CI 0.41–0.49**). Patients were going on to computed tomography, endoscopic ultrasound and even LES-ablative procedures on the strength of the number ([[bredenoord-2021-egjoo-technical-review]]).
 
-1. Elevated median IRP in the **primary *and* secondary position** (i.e. supine *and* upright, at the manufacturer threshold)
-2. **≥20% of supine swallows with elevated intrabolus pressure** (IBP >20 mmHg, Medtronic)
-3. Evidence of peristalsis (otherwise it is achalasia)
+v4.0 answers this by making EGJOO **a conjunction, not a number, and explicitly two-tiered**:
 
-⚠ **Isolated abnormalities are inconclusive, not EGJOO** (Low GRADE, Strong) — isolated elevated supine IRP, isolated elevated upright IRP, or isolated elevated supine IBP each fail the definition on their own. The combination rule is the diagnosis.
+1. **A manometric diagnosis is always clinically inconclusive** (Strong) — it never stands alone.
+2. **Three manometric findings are required together** (elevated median IRP in both positions, ≥20% supine swallows with elevated IBP, evidence of peristalsis). **Any one in isolation is inconclusive** (Low GRADE, Strong) and suggests positional artifact that can be ignored.
+3. **A conclusive diagnosis additionally needs symptoms plus an abnormal supportive test** (Moderate GRADE, Conditional). Without both, the finding is documented, the entity is not diagnosed, and no treatment is indicated.
 
-**Clinically relevant conclusive** EGJOO (Moderate GRADE, Conditional) = manometric EGJOO **+** clinically relevant symptoms ([[dysphagia]] and/or non-cardiac chest pain) **+** ≥1 supportive investigation showing obstruction — TBE (preferably with tablet) and/or FLIP. Without symptoms and supportive testing, the finding is documented but the entity is not diagnosed and no treatment is indicated.
-
-**Not required but supportive:** outflow obstruction/esophageal pressurization on RDC; outflow obstruction on solid test meal, especially if temporally associated with symptoms; abnormal EGJ function after pharmacologic provocation.
-
-**Always describe EGJOO by its peristaltic pattern:** EGJOO with spastic features (type III achalasia features), with hypercontractile features, with ineffective motility, or with no evidence of disordered peristalsis.
+The aim is **specificity** — fewer clinically irrelevant diagnoses, and less confusion for patients and physicians.
 
 ---
 
@@ -254,3 +250,4 @@ All metrics within normal ranges; no criteria for above disorders met.
 
 1. [[chicago-v4-2021-esophageal-dysmotility|Esophageal Motility Disorders on High-Resolution Manometry: Chicago Classification Version 4.0]]
 2. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]
+3. [[bredenoord-2021-egjoo-technical-review|Esophagogastric Junction Outflow Obstruction — Chicago Classification v4.0 Technical Review]]

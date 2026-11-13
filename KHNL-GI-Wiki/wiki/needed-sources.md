@@ -3,7 +3,7 @@ title: "Needed Sources — Download List"
 category: overview
 tags: [maintenance, sources]
 created: 2026-09-08
-updated: 2026-11-10
+updated: 2026-11-13
 sources: []
 ---
 
@@ -30,9 +30,8 @@ These documents are **already in `raw/`** at the path shown (each checked with `
 | *GI RCTs/2023 ENDURO Trial EUS GJ vs Surgical GJ - Additional File 3.pdf* | add to [[kastelijn-2023-enduro-protocol]] | primary/secondary endpoint definitions, incl. the GOOSS table | [[kastelijn-2023-enduro-protocol]], [[eus-gastroenterostomy]] |
 | *GI Guidelines/AGA/AGA 2015 Pancreatic Cysts Clinical Decision Support Tool.pdf* | add to [[aga-2015-asymptomatic-neoplastic-pancreatic-cysts]] | AGA's own cyst decision tree (*Gastroenterology* 2015;148:823) | [[pancreatic-cysts]], [[aga-2015-asymptomatic-neoplastic-pancreatic-cysts]] |
 | *GI Other Studies/Halphen 2013 Harefield Cleansing Scale Validation.pdf* and *Gerard 2013 Chicago Bowel Preparation Scale Validation.pdf* | new source page each | scoring criteria for both scales — named in ingested bowel-prep guidance, with no criteria in the wiki | [[bowel-preparation]], [[colonoscopy]], [[colonoscopy-quality-indicators]] |
-| *GI Guidelines/Other/ECCO 2017 3rd Crohn's Disease Consensus Part 1 Diagnosis and Medical Management incl Steroid Definitions (Gomollon).pdf* | new source page | definitions 1.1.7 steroid-refractory and 1.1.8 steroid-dependent CD (ACG gives no time-based criteria) | [[corticosteroids-ibd]] |
 | *GI Guidelines/Other/Padova Consensus 2025 HRM for Antireflux Surgery - Supplemental Digital Content 1.docx* | add to [[padova-2025-hrm-antireflux]] | Supplemental Tables 1–3 — post-op HRM normative values by software and fundoplication, the full Padova classification, statements not reaching agreement | [[hrm-antireflux-surgery]], [[padova-2025-hrm-antireflux]] |
-| *GI Guidelines/Other/Chicago Classification 2021 v4.0 Technical Review EGJ Outflow Obstruction (Bredenoord).pdf*, *…Standard HRM Protocol (Fox).pdf*, *…HRM Metrics for EGJ Barrier Function (Kahrilas).pdf* | new source page each, or fold into [[chicago-v4-2021-esophageal-dysmotility]] | the evidence and derivation behind the EGJOO, protocol and EGJ-metric statements | [[chicago-classification-v4]], [[esophagogastric-junction-outflow-obstruction]] |
+| *GI Guidelines/Other/Chicago Classification 2021 v4.0 Technical Review Standard HRM Protocol (Fox).pdf*, *…HRM Metrics for EGJ Barrier Function (Kahrilas).pdf* | new source page each, or fold into [[chicago-v4-2021-esophageal-dysmotility]] | the evidence and derivation behind the CCv4.0 acquisition protocol and the EGJ-barrier metrics. *(The EGJ Outflow Obstruction technical review is ingested — [[bredenoord-2021-egjoo-technical-review]].)* | [[chicago-classification-v4]], [[high-resolution-manometry]] |
 
 ## Scores and classification instruments (primary papers)
 

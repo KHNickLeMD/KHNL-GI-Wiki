@@ -3,8 +3,8 @@ title: "Hiatal Hernia"
 category: disease-script
 tags: [hiatal-hernia, gerd, foregut, ge-junction, hill-grade, antireflux-surgery, tif, ctif, cameron-lesions]
 created: 2026-08-29
-updated: 2026-10-30
-sources: [sages-2024-hiatal-hernia-surgery, sages-2013-hiatal-hernia, asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, acg-2020-esophageal-physiologic-testing, sages-2021-gerd-surgery, afs-2022-egj-integrity-classification]
+updated: 2026-11-13
+sources: [sages-2024-hiatal-hernia-surgery, sages-2013-hiatal-hernia, asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, acg-2020-esophageal-physiologic-testing, sages-2021-gerd-surgery, afs-2022-egj-integrity-classification, bredenoord-2021-egjoo-technical-review]
 ---
 
 *Herniation of the stomach through the diaphragmatic hiatus. In the gastroesophageal reflux disease (GERD) guidelines it appears almost entirely as **the anatomic variable that selects an antireflux procedure** — hernia size plus [[reflux-testing|Hill grade]] is the operative decision point in [[gerd|GERD]], and a paraesophageal hernia is a hard exclusion for endoscopic repair.*
@@ -69,6 +69,7 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation �
 
 - **Endoscopy underestimates.** Hernia size observed at laparoscopic repair is **often larger than it appeared endoscopically** — apply extra caution even when it measures <2 cm on esophagogastroduodenoscopy (EGD).
 - **[[high-resolution-manometry|high-resolution manometry (HRM)]] is the most sensitive test** for hiatal hernia — **94.3% sensitivity, 91.5% specificity**, superior to both endoscopy and barium ([[acg-2020-esophageal-physiologic-testing]]). It is not ordered for this purpose alone, but a hernia found on a manometry done for another indication is a more reliable finding than a negative endoscopy.
+- **Do not act on an elevated integrated relaxation pressure in a hernia patient.** The catheter impinges in the hernia sac and the angulated sensor records a false high-pressure band; the esophagogastric junction in hernia is typically a *weakened* barrier, not an obstruction, so bolus and refluxate cross freely despite the reading ([[bredenoord-2021-egjoo-technical-review]]; mechanism and live fix on [[high-resolution-manometry#Technical Artifacts That Fake an Elevated IRP]]).
 
 ---
 
@@ -189,3 +190,4 @@ SAGES 2024 answered four, and only one produced a graded recommendation ([[sages
 6. [[sages-2024-hiatal-hernia-surgery|SAGES 2024: Guidelines for the Surgical Treatment of Hiatal Hernias]]
 7. [[sages-2013-hiatal-hernia|SAGES 2013: Guidelines for the Management of Hiatal Hernia]]
 8. [[afs-2022-egj-integrity-classification|The American Foregut Society White Paper on the Endoscopic Classification of Esophagogastric Junction Integrity (2022)]]
+9. [[bredenoord-2021-egjoo-technical-review|Esophagogastric Junction Outflow Obstruction — Chicago Classification v4.0 Technical Review]]
