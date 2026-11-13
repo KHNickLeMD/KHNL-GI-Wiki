@@ -6,6 +6,39 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-13] update | Card pass — 30 stale card files cleared, 5 card-quality reviews
+
+**Dedup:** `anki-dupes.mjs` returned 0 unjudged candidate pairs at ≥0.4, so the merge step wrote nothing. `anki-at.py --status` = 0 untagged notes, so the section-anchor backfill did nothing.
+
+**Cards written (new notes):**
+
+- `autoimmune-hepatitis` — 2 notes on the new ECCO 2024 AIH-in-IBD block: MRCP for concurrent sclerosing cholangitis, thiopurines first-line for maintenance when both diseases are present.
+- `eosinophilic-esophagitis` — 2 notes from the ACG 2025 algorithm notes: a critical stricture is what lets dilation precede anti-inflammatory therapy; moderate-to-severe asthma or eczema argues for earlier dupilumab.
+- `esophagogastric-junction-outflow-obstruction` — medical therapy, botulinum toxin and dilation must be exhausted before any myotomy (AGA 2024 BPA 3).
+- `obesity` — insulin/secretagogue and antihypertensive doses have to be revisited as weight falls (AGA 2022).
+- `shigellosis` — which asymptomatic carriers are treated (high-risk occupations) and which are not.
+- `salmonella-infection` — the *S.* Typhi clearance-culture rule before return to work or child care.
+
+**Card files corrected:**
+
+- `postinfectious-ibs` — the IDSA 14-day note cited Rec 28 and the wrong population; rewritten to Recommendation 13 and traveler's diarrhea, matching the re-reviewed page.
+- `prucalopride` — 4 broken `{at:}` anchors repointed (`dosing`, `gastroparesis`, `refractory-constipation`); the dose note's "4 mg has also been studied" replaced with the 2 mg ceiling and the reason for it.
+- `nsaid-enteropathy` — added the ASGE 2025 histology point (only less frequent lymphoplasmacytic inflammation favours NSAID injury).
+
+**Verified current and date-bumped, no new notes (content already carded or failing the high-yield test):** `i-see-eoe-severity-index`, `abnormal-liver-chemistries`, `endoscopic-hemostasis`, `antibody-mediated-rejection-liver-transplant`, `atrophic-gastritis`, `small-bowel-bleeding`, `hereditary-hemochromatosis`, `laryngopharyngeal-symptoms`, `chicago-classification-v4`, `hrm-antireflux-surgery`, `intestinal-ultrasound`, `chronic-pancreatitis`, `iron-overload-and-iron-metabolism`, `alpha-gal-syndrome`, `glp-2-agonists`, `fever-returning-traveler`, `tegaserod`, `endoscopy-ergonomics`, `acute-diarrhea`, `seronegative-villous-atrophy`, `endoscopic-bariatric-therapies`. Most were figure-to-flowchart conversions from the 2026-11-12 licence sweep, which changed no clinical content.
+
+**Card quality review (release sweep):**
+
+- `autoimmune-hepatitis` — 29 → 31 notes (2 new above, anti-SLA note merged into the type-2 note as one "immunosuppression is lifelong" card, simplified-score cut-offs added with the score sheet as a Back Extra table).
+- `portal-hypertension` — 30 → 27 notes: the four Baveno VIII CSPH rule-in criteria were being tested piecemeal by three notes and are now one; the two endoscopy-sparing criteria likewise; a duplicated carvedilol-in-pregnancy cloze demoted to Back Extra.
+- `acute-liver-failure` — 29 → 28 notes: MELD >25 merged into the "which instrument for which cause" note; the King's College criteria note gained both subtypes as a Back Extra table.
+- `esophageal-dilation` — 29 notes, all passed; one weak second cloze ("no reported session limit") demoted to Back Extra.
+- `hepatic-encephalopathy` — 28 notes, all passed; the protein-target note's Back Extra was giving away the late-night-snack answer of another note.
+
+**Build:** 4,468 notes, 0 problems. No wiki pages changed; nothing committed or pushed.
+
+---
+
 ## [2026-11-13] lint | Quality review sweep (release) — never-reviewed pages
 
 **Pages reviewed:**
