@@ -6,6 +6,32 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-13] update | Anki card pass — dedup, new cards, card quality review
+
+**Deck slimming (dedup):** 4 candidate pairs judged at the start of the pass — 1 merged (gastric incomplete-resection dysplasia follow-up: `gastric-polyps [9c100a]` retired into `gastric-premalignant-conditions [9d1006]`, keeper now carries `{also:gastric-polyps}`), 3 distinct (EUS portosystemic gradient vs HVPG; no-visible-lesion vs incomplete-resection dysplasia; polyp-with-dysplasia vs post-en-bloc surveillance). After the new cards were written, 9 further candidates were raised and judged — 3 merged, 6 distinct. All 13 verdicts recorded in `dedup-ledger.tsv`.
+
+**Build repaired first:** 17 note ids written by earlier passes that could not run `node` were non-hex (`eim…`, `rvf…`, `afi…`, `ida…`) and aborted every export; renumbered to hex (`eab001–eab00a`, `fac001–2`, `afa001–3`, `dae001–2`). Also fixed 3 length-cap violations (`anorectal-abscess`, `rectovaginal-fistula`, `perianal-fistulizing-crohns-disease`) and 6 broken `{at:}` anchors (`albumin`, `epinephrine`). Deck now builds: 4,459 notes.
+
+**New cards (pages whose `page_updated` lagged the page):**
+- `dysfunctional-gallbladder-disorder` — 1 note (repeat ultrasound or endoscopic ultrasound for occult stones when pain persists)
+- `reflux-hypersensitivity` — 1 note kept (reflux hypersensitivity still possible when GERD was proven off PPI, with the three-way diagnosis table in Back Extra); a second note on the Rome V timing criteria was written then retired as a duplicate of `functional-heartburn [f4e001]`
+- `functional-heartburn` — 2 notes (on-double-dose-PPI thresholds defining functional heartburn; course and the stance against repeat invasive testing); `[f4e003]` Back Extra corrected for Rome V's narrowing of the eosinophilic-esophagitis biopsy rule
+- `albumin` — 1 note (hyperoncotic vs 5% concentration by indication); an HRS-AKI dose note was retired into `terlipressin [7a4003]`, which carries the newer AASLD 2024 figure
+- `colonic-polyposis-of-unknown-etiology` — 2 notes (baseline thyroid ultrasound at ≥20 adenomas; APC/MUTYH-only or pre-2013 panel = incomplete work-up)
+- `esophageal-adenocarcinoma` — 1 note (suspected T1 referred for endoscopic eradication therapy vs obstructive/ulcerated lesions that can skip resection)
+- `epinephrine` — no new notes; `[e3a002]` Back Extra corrected because ASGE 2026 replaced ASGE 2014's epinephrine-based preference for diverticular bleeding
+- `primary-sclerosing-cholangitis`, `hepatocellular-carcinoma` — no new notes; both deltas were already owned elsewhere (ECCO 2024 statements on `extraintestinal-manifestations-ibd [eab003]`; HCC additions were Mermaid algorithms, which are never carded)
+
+**Card quality review (firm cut, 2 files):**
+- `lynch-syndrome` — 33 → 25 active notes. Merged: tumour-screening + first test, MLH1-loss reflex test + what BRAF means, Amsterdam I structure + what II adds, colonoscopy start age + the 5-years-before trigger, operation + who gets less extensive surgery, risk-model first step + the MMRpredict caveat (its performance table moved to the keeper). Cut: the three-question case-finding tool; "prophylactic colectomy may be discussed".
+- `primary-sclerosing-cholangitis` — 33 → 28 active notes. Merged: diagnostic imaging + role of ERCP, cholangiocarcinoma surveillance + "CA 19-9 alone may never diagnose". Cut: "no approved pharmacotherapy" plus phase-2 results; Rule-of-Five reliability nuance; pediatric colorectal-cancer surveillance start age.
+
+**For triage:** `albumin` cites AASLD 2021 for albumin 40–50 g/day with terlipressin, while `terlipressin` and `aki-in-cirrhosis` carry AASLD 2024's 20–40 g/day — newer source should win on the albumin page.
+
+**Housekeeping:** `{at:}` backfill queue is empty (0 untagged notes). Card files written to the server cards directory only; nothing committed or pushed.
+
+---
+
 ## [2026-11-13] lint | Quality review (release sweep)
 
 **Scope:** Quality review step only — no ingest, no new pages. Queue from `review-queue.py --pages 10`, never-reviewed pages first, worked top-down by budget. One subagent per page; each re-read its page's tier-1 raw sources before editing. Eight pages finished, all now carrying `quality_reviewed: 2026-11-13`.
