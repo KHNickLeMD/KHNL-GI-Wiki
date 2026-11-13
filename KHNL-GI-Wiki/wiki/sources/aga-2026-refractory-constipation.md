@@ -159,7 +159,7 @@ flowchart TD
 
 - **Transanal irrigation** — effective **particularly in neurogenic bowel dysfunction**: reduces stool burden, improves bowel emptying, enhances quality of life.
 - **Vibrating capsule** — improved symptoms vs placebo in CC, **including patients with "severe" symptoms defined as no complete spontaneous bowel movements over a 2-week baseline period**.
-- **Electroacupuncture** (traditional acupuncture plus electrical stimulation) — more effective than **sham acupuncture** and than **prucalopride**.
+- **Electroacupuncture** (traditional acupuncture plus electrical stimulation) — more effective than **sham acupuncture** and **comparable to** [[prucalopride]] (noninferiority trial).
 - **[[sacral-nerve-stimulation|Sacral nerve stimulation (SNS)]]** improves symptoms in some patients with [[fecal-incontinence|fecal incontinence]] but **did not improve symptoms in CC**.
 - These adjuncts can give meaningful relief and may reduce the need for invasive procedures such as colectomy; combined pharmacologic–non-pharmacologic strategies need further study.
 

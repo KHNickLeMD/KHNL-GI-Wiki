@@ -78,7 +78,7 @@ Acute diarrhea is defined as an increase in stool frequency or looseness above t
 - [[enterotoxigenic-e-coli|ETEC]] — most common cause of traveler's diarrhea worldwide; watery diarrhea; heat-labile/heat-stable toxins
 - [[campylobacter-infection]] — most common bacterial cause of diarrhea in developed countries; febrile, may be bloody; fluoroquinolone resistance high in Southeast Asia/India
 - [[salmonella-infection]] — non-typhoidal; febrile, may be bloody; prolonged carriage; antibiotic use may extend carriage
-- [[shigellosis]] — dysenteric; very low inoculum (10–200 organisms); azithromycin first-line (ampicillin/trimethoprim-sulfamethoxazole [TMP-SMX] resistance common; *S. sonnei* azithromycin resistance emerging)
+- [[shigellosis]] — dysenteric; azithromycin first-line (ampicillin/trimethoprim-sulfamethoxazole [TMP-SMX] resistance common; *S. sonnei* azithromycin resistance emerging)
 - Enterohemorrhagic *E. coli* / STEC (O157:H7 and others) — bloody diarrhea; **do NOT treat with antibiotics** (risk of hemolytic uremic syndrome [HUS])
 - EAEC — persistent watery diarrhea in travelers
 - *Vibrio cholerae* — cholera; profuse watery ("rice-water") diarrhea; in travelers to endemic areas

@@ -3,8 +3,9 @@ title: "Iron Overload and Iron Metabolism"
 category: concept
 tags: [iron, hepcidin, ferroportin, transferrin, ferritin, transferrin-saturation, iron-overload, hemochromatosis]
 created: 2026-05-19
-updated: 2026-11-04
+updated: 2026-11-13
 sources: [acg-2019-hereditary-hemochromatosis, aasld-2011-hemochromatosis, aga-2023-acute-hepatic-porphyria]
+quality_reviewed: 2026-11-13
 ---
 
 Mechanisms of iron handling and the laboratory thresholds used to detect overload. The disease itself is on [[hereditary-hemochromatosis]].
@@ -12,29 +13,50 @@ Mechanisms of iron handling and the laboratory thresholds used to detect overloa
 ## Contents
 - [[#Iron Absorption Physiology]]
 - [[#Hepcidin–Ferroportin Axis]]
-- [[#Primary Iron Overload (Inherited)]]
+- [[#Primary Iron Overload]]
 - [[#Secondary Iron Overload]]
-- [[#Relevant Lab Tests]]
-- [[#What an Abnormal Screen Triggers]]
+- [[#Laboratory Assessment]]
+  - [[#Tests and Thresholds]]
+  - [[#Reference Values]]
+  - [[#What an Abnormal Screen Triggers]]
 - [[#See Also]]
 - [[#Sources]]
 
 ## Iron Absorption Physiology
 
-- Body iron stores regulated at the level of intestinal absorption; no physiologic mechanism for iron excretion except blood loss (menses, sloughing of epithelial cells)
-- Non-heme iron: Fe³⁺ reduced to Fe²⁺ by duodenal cytochrome B (dcytb) → transported via DMT1 into enterocyte → stored as mucosal ferritin or exported basolaterally via ferroportin-1 (FPN1) → co-oxidized by hephaestin → binds transferrin (diferric/monoferric) → plasma distribution
-- Heme iron: absorbed via separate mechanism, transported directly; not yet fully characterized
+- Absorption occurs primarily in the **second portion of the duodenum**, as heme and non-heme iron ([[acg-2019-hereditary-hemochromatosis]])
+- Body iron stores regulated at the level of intestinal absorption; **no physiologic route of iron excretion** except blood loss — menses, sloughing of senescent intestinal mucosal or epidermal cells
+- Heme iron: absorbed by mechanisms not yet fully understood
+- Non-heme iron (predominantly ferric) follows the pathway below
+
+```mermaid
+flowchart TD
+    A(["Dietary non-heme iron (Fe³⁺)<br/>second portion of duodenum"]) -- "reduced to Fe²⁺ by duodenal<br/>cytochrome B (dcytb)" --> B["Apical uptake into the enterocyte by<br/>divalent metal transporter 1 (DMT1)"]
+    B -- "stored bound to ferritin" --> C(["Eliminated when the enterocyte<br/>is sloughed"])
+    B -- "transferred across the<br/>basolateral surface" --> D["Export by ferroportin-1 (FPN1)"]
+    D -- "re-oxidised to Fe³⁺ by hephaestin" --> E(["Binds transferrin; diferric transferrin<br/>delivers iron to the bone marrow<br/>and other sites of utilisation"])
+    F["Hepcidin, made in the liver"] -- "binds FPN1 → internalised<br/>and degraded → egress blocked" --> D
+    class A start
+    class B,D,F test
+    class E act
+    class C stop
+```
+*Intestinal absorption of non-heme iron and its control by hepcidin*
+*Source: redrawn from the ACG 2019 overview of intestinal iron absorption*
+*[[acg-2019-hereditary-hemochromatosis|ACG 2019 Hereditary Hemochromatosis Guideline]]*
+*dcytb = duodenal cytochrome B · DMT1 = divalent metal transporter 1 · FPN1 = ferroportin-1*
 
 ## Hepcidin–Ferroportin Axis
 
-- Hepcidin: 25-amino acid peptide hormone synthesized in the liver; key regulator of body iron stores
+- Hepcidin: 25-amino acid peptide hormone made mainly in the liver; key regulator of body iron stores
 - Binds FPN1 on enterocytes, hepatocytes, and macrophages → FPN1 internalization and degradation → reduced iron export → decreased circulating iron
 - Hepcidin upregulated by: iron loading, inflammatory cytokines (chronic inflammation → anemia via increased hepcidin)
 - Hepcidin downregulated by: [[iron-deficiency-anemia|iron deficiency]], ineffective erythropoiesis, hypoxia ([[aasld-2011-hemochromatosis]]), alcohol (ethanol-mediated downregulation of transcription factor regulating hepcidin), low hepcidin levels in [[nafld-masld|nonalcoholic fatty liver disease (NAFLD)]]/dysmetabolic iron overload
-- Iron sensing: HFE binds either transferrin receptor 1 (TfR1) or TfR2. As transferrin saturation rises, diferric transferrin displaces HFE from TfR1, freeing it to bind TfR2; the HFE–TfR2 complex is thought to drive hepcidin expression — the mechanistic reason transferrin saturation is the screening test ([[aasld-2011-hemochromatosis]])
+- Iron-induced hepcidin expression runs through **bone morphogenetic protein 6 (BMP6)** → SMAD-dependent activation of hepcidin transcription; **hemojuvelin is the BMP6 co-receptor** that facilitates BMP6 binding — loss of it markedly decreases BMP6 signaling and causes iron overload ([[aasld-2011-hemochromatosis]])
+- Iron sensing: HFE binds either transferrin receptor 1 (TfR1) or transferrin receptor 2 (TfR2). As transferrin saturation rises, diferric transferrin displaces HFE from TfR1, freeing it to bind TfR2; the HFE–TfR2 complex is thought to drive hepcidin expression — the mechanistic reason transferrin saturation is the screening test ([[aasld-2011-hemochromatosis]])
 - Iron-induced injury: iron-dependent lipid peroxidation impairs mitochondrial, microsomal and lysosomal membranes → hepatocyte injury/death → activated Kupffer cells release profibrogenic cytokines → stellate cells lay down collagen → fibrosis ([[aasld-2011-hemochromatosis]])
 
-## Primary Iron Overload (Inherited)
+## Primary Iron Overload
 
 - HFE mutations (C282Y, H63D, S65C) → defective BMP6/TFR1 interaction → insufficient hepcidin synthesis relative to iron stores → unregulated intestinal iron absorption
 - HJV (*hemojuvelin*, type 2A) and HAMP (*hepcidin*, type 2B) mutations → most severe hepcidin deficiency → juvenile hemochromatosis
@@ -49,29 +71,48 @@ Mechanisms of iron handling and the laboratory thresholds used to detect overloa
 - Insulin resistance / NAFLD (dysmetabolic iron overload syndrome) — hepcidin downregulation via insulin signaling pathways
 - Histologic distinction from HFE-related hereditary hemochromatosis (HH): iron in Kupffer cells/reticuloendothelial system (secondary) vs. periportal hepatocytes sparing Kupffer cells (HFE-HH)
 
-## Relevant Lab Tests
+## Laboratory Assessment
+
+### Tests and Thresholds
 
 | Test | How it is derived | Threshold and what it means |
 |---|---|---|
-| **Transferrin saturation (TS)** | serum iron ÷ total iron-binding capacity (TIBC) × 100 | **Preferred initial screening test; fasting not required.** **>45%** identifies **97.9%–100%** of C282Y homozygotes — but a small proportion of [[hereditary-hemochromatosis\|HH]] patients (younger, earlier-stage) have TS **<45%**, and iron overload can exist with an **elevated serum ferritin (SF) and a normal TS**, particularly in non–HFE iron overload |
-| **SF** | intracellular iron-storage protein | **Normal = <200 ng/mL in premenopausal women, <300 ng/mL in men and postmenopausal women.** A normal SF **plus** TS <45% has a **97% negative predictive value** for excluding iron overload — measured in individuals **<35 years of age** ([[aasld-2011-hemochromatosis\|AASLD 2011]]). [[aasld-2011-hemochromatosis\|AASLD 2011]] instead tabulates normal SF as **20–200 µg/L in men and 15–150 µg/L in women**, with no menopausal split; the ACG figures above are the newer ones and govern. Excellent predictor of advanced fibrosis but **lacks specificity as a screening test** — hyperferritinemia also occurs in [[alcohol-associated-liver-disease\|alcoholic liver disease]], [[hepatitis-c\|hepatitis C virus (HCV)]], [[nafld-masld\|NAFLD]], and neoplastic disease |
-| **SF >1,000 ng/mL** | — | In C282Y homozygotes, SF **>1,000 ng/mL** *with* elevated aminotransferases *and* a low platelet count predicts [[cirrhosis\|cirrhosis]] in **>80%** — all three together. The [[liver-biopsy\|biopsy]] decision that hangs off this threshold lives on [[hereditary-hemochromatosis]] |
-| **Unsaturated iron-binding capacity (UIBC)** | inverse of TS; one-step automated test | **<26 µmol/L** → sensitivity 90%, specificity 90% for C282Y homozygosity; comparable to TS as an alternative screening test |
+| **Transferrin saturation (TS)** | serum iron ÷ total iron-binding capacity (TIBC) × 100; TIBC = serum iron + unsaturated iron-binding capacity (UIBC) | **Preferred initial screening test; fasting not required.** **>45%** identifies **97.9%–100%** of C282Y homozygotes — but a small proportion of HH patients (younger, earlier-stage) have TS **<45%**, and iron overload can exist with an **elevated serum ferritin (SF) and a normal TS**, particularly in non–HFE iron overload |
+| **SF** | intracellular iron-storage protein | **Normal = <200 ng/mL in premenopausal women, <300 ng/mL in men and postmenopausal women.** A normal SF **plus** TS <45% has a **97% negative predictive value** for excluding iron overload — measured in individuals **<35 years of age** ([[aasld-2011-hemochromatosis\|AASLD 2011]]). Excellent predictor of advanced fibrosis; poor specificity as a screening test |
+| **SF >1,000 ng/mL** | — | In C282Y homozygotes, SF **>1,000 ng/mL** *with* elevated aminotransferases *and* a platelet count **<200 × 10⁹/L** predicts [[cirrhosis\|cirrhosis]] in **>80%** — all three together, not any one alone. Neither guideline gives an aminotransferase cut-off beyond "elevated". The [[liver-biopsy\|biopsy]] decision that hangs off this threshold lives on [[hereditary-hemochromatosis]] |
+| **UIBC** | inverse of TS; one-step automated test | **<26 µmol/L** → sensitivity 90%, specificity 90% for C282Y homozygosity; comparable to TS as an alternative screening test |
 | **Hepatic iron concentration (HIC)** | direct measurement on [[liver-biopsy\|liver biopsy]], µmol/g dry weight | **>71 µmol/g** distinguishes homozygous HH from heterozygotes/secondary overload |
 | **Hepatic iron index (HII)** | HIC ÷ age in years | **≥1.9** distinguishes homozygotes from heterozygotes and secondary overload |
 
-## What an Abnormal Screen Triggers
+> [!pitfall] A high ferritin is usually not iron overload
+> SF rises without increased iron stores in necroinflammatory liver disease — [[alcohol-associated-liver-disease|alcoholic liver disease]], [[chronic-hepatitis-b|hepatitis B]] and [[hepatitis-c|hepatitis C]], [[nafld-masld|NAFLD]] — in lymphoma and neoplastic disease, and in non-hepatic chronic inflammatory conditions. In the general population, iron overload is **not** the most common cause of an elevated ferritin ([[aasld-2011-hemochromatosis]]).
+
+### Reference Values
+
+| Measurement | Normal | Asymptomatic HH | Symptomatic HH |
+|---|---|---|---|
+| Serum iron (µg/dL) | 60–80 | 150–280 | 180–300 |
+| TS (%) | 20–50 | 45–100 | 80–100 |
+| SF, men (µg/L) | 20–200 | 150–1,000 | 500–6,000 |
+| SF, women (µg/L) | 15–150 | 120–1,000 | 500–6,000 |
+| HIC (µg/g dry weight) | 300–1,500 | 2,000–10,000 | 8,000–30,000 |
+| HIC (µmol/g dry weight) | 5–27 | 36–179 | 140–550 |
+| HII | <1.0 | >1.9 | >1.9 |
+| Perls' Prussian blue stain | 0–1+ | 2+ to 4+ | 3+, 4+ |
+
+*Values from [[aasld-2011-hemochromatosis|AASLD 2011]]. Where it and the newer [[acg-2019-hereditary-hemochromatosis|ACG 2019]] differ on what counts as a normal ferritin, the ACG cut-offs in the table above govern.*
+
+### What an Abnormal Screen Triggers
 
 - **TS ≥45% and/or an elevated SF → *HFE* genotyping** ([[acg-2019-hereditary-hemochromatosis]]; [[aasld-2011-hemochromatosis]] grades the same step 1B). TS <45% **and** a normal SF → no further evaluation.
 - Order both together rather than relying on either alone; confirm an elevated TS with a **second determination**, optionally fasting ([[aasld-2011-hemochromatosis]]).
-- Note the guideline screens at TS **>45%** in prose and **≥45%** in its algorithm. Genotype result then drives everything downstream — that algorithm, the [[liver-biopsy|biopsy]] decision and treatment live on [[hereditary-hemochromatosis]].
-
-> [!pitfall] The cirrhosis triad needs a platelet number
-> The SF >1,000 ng/mL + elevated aminotransferase + low platelet count triad is quantitative only once the cut-offs are supplied: the platelet threshold is **<200 × 10⁹/L** ([[aasld-2011-hemochromatosis]], same primary study). Neither guideline defines the aminotransferase cut-off beyond "elevated alanine aminotransferase (ALT) or aspartate aminotransferase (AST)".
+- A TS cut-off of 45% is chosen for sensitivity; its specificity and positive predictive value are lower than higher cut-offs, so it also flags minor secondary iron overload and some C282Y heterozygotes ([[aasld-2011-hemochromatosis]]).
+- ACG 2019 writes the screening cut-off as **>45%** in its text and **≥45%** in its algorithm; treat 45% as the action point.
+- Genotype then drives everything downstream — the full algorithm, the [[liver-biopsy|biopsy]] decision and treatment are on [[hereditary-hemochromatosis]].
 
 ## See Also
 
-[[hereditary-hemochromatosis]], [[iron-deficiency-anemia]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[hepatitis-c]], [[cirrhosis]], [[drug-induced-liver-injury]], [[liver-biopsy]], [[hemin]]
+[[hereditary-hemochromatosis]], [[iron-deficiency-anemia]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[cirrhosis]], [[drug-induced-liver-injury]], [[liver-biopsy]], [[hemin]]
 
 ---
 
