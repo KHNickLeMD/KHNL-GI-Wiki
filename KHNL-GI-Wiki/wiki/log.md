@@ -6,6 +6,37 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-14] update | Card pass — 11 stale/new card files, 3 quality reviews
+
+**Dedup:** `anki-dupes.mjs` returned 0 unjudged candidate pairs at ≥0.4 — nothing to merge, no ledger entries written. Build run first: 4,501 notes, clean apart from the known stale/anchor backlog.
+
+**Cards written or refreshed** (one page at a time, `page_updated:` set last; build clean after each):
+- `anorectal-sensory-dysfunction` — new file, 6 notes (Rome V F4 layered diagnosis, F4b threshold count and the excluded first/constant sensation, the per-disorder extra exclusions, the unfelt-stool rectal exam pearl, secondary hyposensitivity causes, sensory adaptation therapy). Criteria table in Back Extra.
+- `probiotics` — nothing new qualified (the 8-strain pouchitis fact is owned by `[[pouchitis]]`); 7 broken `{at:}` anchors re-pointed and three Back Extra lines the page no longer supports removed.
+- `defecation-disorders` — 2 new notes (rectoanal gradient + balloon expulsion probability table; slow transit does not spare anorectal testing), 4 rewritten against the Rome V 2026 rewrite (the biofeedback predictors had reversed: anal digitation now predicts success), 13 anchors re-pointed, source attribution moved to the anorectal chapter. `dd000e`/`dd0022` retired to `[[rectal-prolapse]]`, which owns them.
+- `fecal-incontinence` — 5 new notes (clonidine + colesevelam regimen, sub-monthly leakage still counts, the urge/passive/nocturnal phenotype map, psyllium vs gum arabic, repeating a failed biofeedback course), Rome V F1 two-part criteria and the drug list rewritten, 9 anchors re-pointed. The loperamide dose moved to `[[loperamide]]`, which owns doses and prints this one.
+- `biofeedback-therapy` — 2 new notes (levator tenderness as the selector for any therapy; home vs office delivery and pelvic floor physical therapy not interchangeable), 3 anchors re-pointed.
+- `anorectal-manometry` — 2 new notes (sex-specific rectoanal gradient reference range; dyssynergia types I–IV are not Rome V criteria), balloon expulsion method note updated.
+- `sacral-nerve-stimulation` — 2 new notes (5-year favorable-outcome predictors; ineffective for levator ani syndrome), test-period window corrected to 2–4 weeks.
+- `proctalgia-syndromes` — the duration cut-point corrected from 20 to 30 minutes and "posterior traction" to "traction" per Rome V 2026; 2 new notes (manometry worth doing without constipation; the ineffective-therapy list); `f2a004` retired.
+- `spontaneous-bacterial-peritonitis` — 2 new notes (the community/healthcare/nosocomial definitions that pick the empiric antibiotic; no chest tube for spontaneous bacterial empyema); PMN threshold direction, the orphaned "culture-negative neutrocytic ascites" label and the removed glucose/LDH cut-points all fixed; `a50010` merged into `a50009`.
+- `sglt2-inhibitors`, `acute-hepatic-porphyria`, `hereditary-hemochromatosis` — correlated to the quality-sweep rewrites: the invented hold rationale and over-stated force removed from the SGLT-2 notes, 1 new porphyria note (isolated δ-aminolevulinic acid → lead level and urine organic acids), erythrocytapheresis interval/hemoglobin floor and the chelator dose table added.
+- `small-bowel-motility`, `nitazoxanide` — re-checked, nothing qualified: the breath-test and prevention facts are owned by `[[small-intestinal-bacterial-overgrowth]]`, and neither guideline gives a nitazoxanide dose. `page_updated:` bumped, no notes written.
+
+**Card quality review** (`review-queue.py --cards`):
+- `ingested-foreign-body` — 23 → 21 notes. The two timing notes merged into one carrying all three ESGE bands, with the object-by-location table in Back Extra; the ASGE three-technique food-bolus note merged into the newer ESGE push-first note.
+- `upper-gi-bleeding` — 23 → 20 notes. Retired the Forrest-class rebleeding rates (outcome data, decisions already carded) and the report-documentation note; the "what scores can and cannot identify" note merged into the Glasgow-Blatchford note.
+- `hemorrhoids` — 22 → 21 notes; the standalone anoscopy note merged into the richer anoscopy-technique note. Otherwise already tight.
+
+**Skipped, for triage:**
+- `gastroenteropancreatic-neuroendocrine-tumors` tops the card review queue but all 23 notes are sourced to `nccn-2026-net`; the NCCN licence question is still Nick's call, so the file was left untouched.
+- `defecation-disorders` says up to 50% of patients with a defecation disorder have slow colonic transit (ACG 2021) where `biofeedback-therapy` says the same and the Rome V 2026 figure on the page is two-thirds — one of the two pages needs the newer number.
+- Candidate uncarded fact: "any rectal bleeding warrants evaluation for colorectal cancer, particularly ≥45 y" on `[[hemorrhoids]]` — not added because deck-wide ownership was not checked.
+
+**Deck:** 4,501 → 4,526 notes; build clean, 0 problems, every card file's `page_updated:` now current. Not committed, not pushed.
+
+---
+
 ## [2026-11-14] lint | Quality review sweep — release pass
 
 **Scope:** Quality review step only (per-page release sweep), worked from `review-queue.py --pages`, one subagent per page, budget-limited. Decision sufficiency and source fidelity against the page's tier-1 raw sources first, then visuals where the source supports them, then concision / callouts / organization / abbreviations.
