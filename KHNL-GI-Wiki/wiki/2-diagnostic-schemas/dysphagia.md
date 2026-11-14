@@ -3,8 +3,9 @@ title: "Dysphagia"
 category: diagnostic-schema
 tags: [dysphagia, esophageal, oropharyngeal, motility, achalasia, eosinophilic-esophagitis, odynophagia, globus]
 created: 2026-06-04
-updated: 2026-11-05
+updated: 2026-11-14
 sources: [asge-2014-dysphagia, acg-2020-esophageal-physiologic-testing, chicago-v4-2021-esophageal-dysmotility, acg-2025-egd-quality, acg-2021-gerd, aga-2024-esophageal-immunity-infection, rome-v-2026-functional-esophageal-disorders]
+quality_reviewed: 2026-11-14
 ---
 
 ## Contents
