@@ -3,8 +3,8 @@ title: "AKI in Cirrhosis (including HRS-AKI)"
 category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
-updated: 2026-11-04
-sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-aclf, baveno-viii-2026-portal-hypertension]
+updated: 2026-11-13
+sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-aclf, baveno-viii-2026-portal-hypertension, aasld-easl-2026-aclf-global-consensus]
 ---
 
 ## Contents
@@ -52,6 +52,7 @@ International Club of Ascites (ICA) staging as printed by [[aga-2022-aki-cirrhos
   - ⚠ **The source is internally loose here and is easy to misread.** [[aga-2022-aki-cirrhosis]] (Figure 1 legend) first writes that "in patients with stage 1 AKI … vasoconstrictor agents are not currently indicated," then in the next sentence makes **Stage 1b** an indication ("When the serum creatinine has increased >1.5 mg/dL (Stage 1b), or to 2 times baseline value (stage 2) … vasoconstrictor agents are indicated"). Read literally the two sentences conflict, because 1b *is* Stage 1. The reconciliation the figure intends — and what this page asserts — is that the exclusion applies to **Stage 1a only**. A "Stage 1" label alone is therefore not enough to decide; **you must know the absolute creatinine.**
 - **Response definitions:** complete response = SCr returns to **<0.3 mg/dL above baseline**; partial response = SCr falls but stays **>0.3 mg/dL above baseline**.
 - Vasoconstrictor therapy should be started early — higher pre-treatment SCr is associated with treatment failure; every 1 mg/dL reduction in SCr is associated with a 27% relative risk reduction in mortality.
+- **In [[acute-on-chronic-liver-failure|acute-on-chronic liver failure (ACLF)]] grading** ([[aasld-easl-2026-aclf-global-consensus]]): KDIGO **stage 2–3 (or new renal replacement therapy [RRT]) = renal failure**, **stage 1 = renal dysfunction** (Statement 12, A1). Full organ-failure table and grades on the ACLF page.
 
 ### Classification / Typing
 
@@ -99,7 +100,7 @@ All of the following must be present:
 - **ATN** — sepsis, nephrotoxin exposure (NSAIDs, aminoglycosides, intravenous (IV) contrast, ACEi/ARB), ischemic injury
 - **Post-renal obstruction** — rare in cirrhosis; consider if bilateral obstruction
 - **Intrinsic renal disease** — IgA nephropathy (in [[alcohol-associated-liver-disease]]), membranoproliferative glomerulonephritis (in [[chronic-hepatitis-b]])
-- **[[acute-on-chronic-liver-failure|Acute-on-chronic liver failure (ACLF)]]** with multi-organ failure — AKI is a component
+- **ACLF** with multi-organ failure — AKI is a component
 
 ---
 
@@ -207,7 +208,7 @@ Vasopressin V1 receptor analog; reverses splanchnic vasodilatation.
 
 **Response predictors (favorable):** bilirubin <10 mg/dL, SCr <5 mg/dL, lower ACLF grade, sustained mean arterial pressure (MAP) increase ≥5–10 mmHg with therapy, presence of systemic inflammatory response (systemic inflammatory response syndrome [SIRS]/sepsis/[[alcohol-associated-hepatitis|alcohol-associated hepatitis]])
 
-**Efficacy:** Randomized controlled trial (RCT) response rates 36–44%; CONFIRM trial (US/Canada): 29% reversed HRS and survived additional 10 days without renal replacement therapy (RRT) — may provide a bridge to [[liver-transplantation|liver transplantation]]
+**Efficacy:** Randomized controlled trial (RCT) response rates 36–44%; CONFIRM trial (US/Canada): 29% reversed HRS and survived additional 10 days without RRT — may provide a bridge to [[liver-transplantation|liver transplantation]]
 
 **Side effects:**
 
@@ -261,7 +262,7 @@ RRT is not a primary therapy for HRS-AKI. Indications:
 |---|---|
 | ATN | Appropriate if meeting standard RRT criteria (volume overload, electrolyte emergency, uremia) |
 | HRS-AKI in transplant candidates | Bridge to [[liver-transplantation\|liver transplantation]] only; continuous RRT preferred |
-| HRS-AKI in non-transplant candidates | **NOT indicated** |
+| HRS-AKI in non-transplant candidates | **NOT indicated** (AGA 2022) — ⚠ the newer 2026 global ACLF consensus also allows RRT when liver or extrahepatic organ dysfunction is **potentially reversible** |
 | Uncertain AKI etiology | May consider on individual basis if transplant candidate |
 
 - **Continuous RRT preferred** over intermittent (lower hemodynamic instability)
@@ -269,6 +270,12 @@ RRT is not a primary therapy for HRS-AKI. Indications:
 - Each additional day of pretransplant RRT: 3.6–6% increased risk of renal non-recovery post-LT
 - Duration >14 days pretransplant: associated with irreversible renal dysfunction post-LT
 - Mortality with >7 days of RRT: 59%
+
+**2026 global ACLF consensus additions** ([[aasld-easl-2026-aclf-global-consensus]]):
+
+- **Consider RRT for HRS-AKI that has failed pharmacotherapy** in patients listed for or being considered for LT (Statement 49, B1)
+- HRS-AKI and ATN often coexist in ACLF → treat as a **spectrum**, not distinct entities; AKI cause does not independently change mortality once on RRT
+- Timing individualised — **no routine pre-emptive RRT**; no routine intraoperative RRT during LT, and **no RRT for hyperammonaemia alone without AKI** (selected cases only: right-sided volume overload, metabolic derangement)
 
 ### TIPS
 
@@ -303,3 +310,4 @@ Post-LT: patients can be listed for high-priority kidney transplantation alone i
 2. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]
 3. [[aasld-2024-aclf|AASLD 2024 Practice Guidance on Acute-on-Chronic Liver Failure]]
 4. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+5. [[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]

@@ -3,8 +3,8 @@ title: "Liver Transplantation — Candidacy and Post-Transplant Management"
 category: disease-script
 tags: [liver-transplant, liver-transplantation, immunosuppression, tacrolimus, calcineurin-inhibitor, ckd, metabolic-syndrome, rejection, tcmr, pcr, amr, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, ead, hbv, hcv, pbc, psc, autoimmune-hepatitis, hcc, masld, ald, de-novo-malignancy, post-transplant, bone-health, vaccination, cmv, cancer-surveillance, glp-1, bariatric-surgery, aasld]
 created: 2026-05-19
-updated: 2026-11-04
-sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-non-graft-complications, asge-2023-post-transplant-biliary-strictures]
+updated: 2026-11-13
+sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-non-graft-complications, asge-2023-post-transplant-biliary-strictures, aasld-easl-2026-aclf-global-consensus]
 ---
 
 ## Contents
@@ -12,6 +12,7 @@ sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant
   - [[#Referral for Liver Transplant]]
   - [[#Pre-Transplant Evaluation]]
   - [[#Contraindications and Special Situations]]
+  - [[#Acute-on-Chronic Liver Failure]]
   - [[#Establishing the Diagnosis — Graft Dysfunction]]
   - [[#Severity Assessment]]
 - [[#Differential Diagnosis]]
@@ -46,7 +47,7 @@ sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant
 |---|---|
 | Chronic liver disease **with a decompensating event** | Any of: [[ascites]] (± [[spontaneous-bacterial-peritonitis\|spontaneous bacterial peritonitis]]), [[hepatic-encephalopathy\|hepatic encephalopathy]], [[variceal-upper-gi-bleeding\|variceal hemorrhage]], [[hepatopulmonary-syndrome-portopulmonary-hypertension\|hepatopulmonary syndrome/portopulmonary hypertension (POPH)]], [[hepatocellular-carcinoma\|hepatocellular carcinoma (HCC)]] |
 | Chronic liver disease, **no decompensating event** | Model for End-Stage Liver Disease (MELD) threshold *unclear*: **MELD 3.0 ≥12** = survival-benefit signal (living donor LT [LDLT] from MELD 11), but those studies did not test referral timing; working group endorses **MELD 15** absent portal hypertensive complications. Formula: [[cirrhosis]] |
-| [[acute-on-chronic-liver-failure\|Acute-on-chronic liver failure (ACLF)]] | Promptly, any MELD; MELD >40 or ACLF grade alone not a contraindication |
+| [[acute-on-chronic-liver-failure\|Acute-on-chronic liver failure (ACLF)]] | Promptly, any MELD; MELD >40 or ACLF grade alone not a contraindication — severe ACLF: [[#Acute-on-Chronic Liver Failure\|expedited]] |
 | [[acute-liver-failure\|Acute liver failure]] | **All**, urgently — within hours, before formal criteria are met |
 | HCC | All without extrahepatic metastases — Milan, alpha-fetoprotein (AFP), downstaging on [[hepatocellular-carcinoma]] |
 | [[cholangiocarcinoma\|Cholangiocarcinoma]] | Unresectable perihilar <3 cm radial diameter, neoadjuvant protocol; mixed HCC-cholangiocarcinoma or intrahepatic <3 cm without extrahepatic disease — may consider (weak) |
@@ -75,10 +76,24 @@ Asks three things: prognosis without LT, capacity for a successful LT, and the p
 ### Contraindications and Special Situations
 
 - **Absolute:** anatomy precluding LT; advanced cardiopulmonary disease (severe left ventricular dysfunction, severe valvular disease, end-stage lung disease) without eligibility for combined-organ transplant; POPH with **mean pulmonary artery pressure 45 mmHg + pulmonary vascular resistance >3 Wood units** on optimized therapy.
-- **Relative / case-by-case:** MELD >40 or ACLF (trajectory, futility); frailty; mental illness; BMI extremes; **Yerdel grade IV [[portal-vein-thrombosis|portal vein thrombosis (PVT)]]** without adequate collaterals (grading criteria on that page).
+- **Relative / case-by-case:** MELD >40 or ACLF (trajectory, futility — [[#Acute-on-Chronic Liver Failure]]); frailty; mental illness; BMI extremes; **Yerdel grade IV [[portal-vein-thrombosis|portal vein thrombosis (PVT)]]** without adequate collaterals (grading criteria on that page).
 - **LDLT:** offer education to all; older age alone no bar. Graft-to-recipient weight ratio **≥0.8%**; caution when **MELD >30**.
 - **Accepted with strict selection:** unresectable [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumors]]; hereditary hepatic epithelioid hemangioendothelioma; unresectable colorectal liver metastases.
 - **Multiorgan** by organ-team consensus: heart-liver (Fontan-associated liver disease, transthyretin amyloidosis); liver-kidney (CKD or acute kidney injury not expected to resolve); liver-lung (cystic fibrosis, alpha-1-antitrypsin deficiency); multivisceral (grade IV PVT).
+
+### Acute-on-Chronic Liver Failure
+
+Definition, grading, futility and the ACLF candidacy factors: [[acute-on-chronic-liver-failure]]. What the 2026 multisociety consensus adds to LT decisions ([[aasld-easl-2026-aclf-global-consensus]]):
+
+- **Severe ACLF → expedited multidisciplinary assessment and rapid access to LT** (Statement 54, B1) — 28-day waitlist mortality 50–70% or higher at higher grades; the window is narrow (ideal goal: LT within 1 week).
+- **MELD underestimates death risk in severe ACLF** (Statement 55, C2), especially when extrahepatic and extrarenal organ failures predominate.
+- **Offer LT only with expected 1-year survival >75–80%** (Statement 58, B1).
+- **Post-LT 1-year mortality rises with:** respiratory failure, moderate-to-high-dose vasopressors, no improvement in organ failures, diabetes, frailty (Statement 57, C1).
+- **Multidrug-resistant organism (MDRO) or fungal infection before LT** → more post-LT complications (Statement 60, B1).
+- **High pre- and post-LT resource use** is not an absolute contraindication; justified while post-LT survival stays acceptable (Statement 59, B1).
+- **LDLT:** in experienced centres, outcomes may match deceased-donor LT, with faster access (Statement 61, C2). ⚠ [[aasld-ast-2025-liver-transplant-candidate-evaluation]] advises LDLT caution when MELD >30 (above); the consensus sets no MELD limit.
+- **Older adults** (variably >60 y): higher waitlist and post-LT mortality, but carefully selected candidates reach acceptable 1-year survival — judge physiological reserve, frailty, comorbidity, function, infection control and treatment response, not age alone (Statement 62, B1).
+- **Bridge to LT:** extracorporeal therapies incl. therapeutic plasma exchange may stabilise organ function and improve short-term survival vs standard medical therapy alone (Statement 63, B2).
 
 ### Establishing the Diagnosis — Graft Dysfunction
 
@@ -292,3 +307,4 @@ Highest stage 4–5 CKD risk of any solid-organ group; early [[aki-in-cirrhosis|
 3. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
 4. [[aasld-ast-2025-liver-transplant-non-graft-complications|AASLD/AST Consensus Recommendations on Non-Graft Complications of Liver Transplantation (2025)]]
 5. [[asge-2023-post-transplant-biliary-strictures|ASGE Guideline on Management of Post–Liver Transplant Biliary Strictures: Summary and Recommendations (2023)]]
+6. [[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]

@@ -3,8 +3,8 @@ title: "Alcohol-Associated Hepatitis"
 category: disease-script
 tags: [alcoholic-hepatitis, ald, hepatology, corticosteroids, prednisolone, lille-score, meld, mdf, nac, liver-transplant, stopah, salt-score, accelerate-ah]
 created: 2026-09-15
-updated: 2026-11-12
-sources: [aasld-2020-ald, acg-2024-ald, aga-2017-severe-alcoholic-hepatitis, lee-2018-accelerate-ah]
+updated: 2026-11-13
+sources: [aasld-2020-ald, acg-2024-ald, aga-2017-severe-alcoholic-hepatitis, lee-2018-accelerate-ah, aasld-easl-2026-aclf-global-consensus]
 ---
 
 # Alcohol-Associated Hepatitis
@@ -45,6 +45,13 @@ Acute syndrome of jaundice and liver failure arising on a background of heavy al
 
 **Histology (when a biopsy is done):** macrovesicular steatosis with lobular neutrophilic inflammation, hepatocyte ballooning, Mallory-Denk bodies, pericellular ("chicken-wire") fibrosis, centrilobular injury. Biopsy **cannot distinguish** alcohol-associated from metabolic steatohepatitis — its role is to resolve a diagnostic dilemma, not to grade severity.
 
+**Biopsy before steroids — 2026 multisociety consensus** ([[aasld-easl-2026-aclf-global-consensus]], Statement 17, B1):
+
+- Diagnosis clear and AH not suspected → no biopsy.
+- AH suspected **and corticosteroids being considered** → biopsy recommended to confirm. Transjugular biopsy unavailable or precluded by local practice → National Institute on Alcohol Abuse and Alcoholism (NIAAA) criteria diagnose *probable* AH (NIAAA definition: jaundice within 60 days of >50 g/day alcohol for ≥6 months, bilirubin >3 mg/dL, AST 50–400 U/L, AST:ALT >1.5, no other obvious cause — [[aga-2017-severe-alcoholic-hepatitis]]).
+- [[acute-on-chronic-liver-failure|Acute-on-chronic liver failure (ACLF)]] with **≥3 organ failures** (steroids not indicated) → no biopsy.
+- ⚠ **Conflict:** [[aasld-2020-ald]] and [[acg-2024-ald]] biopsy only *possible* AH (confounder present) and treat probable AH on clinical criteria; the newer consensus recommends biopsy before steroids wherever it is available.
+
 ### Severity Assessment
 
 **Model for End-Stage Liver Disease (MELD) is the operative score** ([[acg-2024-ald]]) *(the MELD-variant comparison and the Child-Turcotte-Pugh point table live on [[cirrhosis]])*:
@@ -84,10 +91,11 @@ Acute syndrome of jaundice and liver failure arising on a background of heavy al
 - **≥0.45 = non-responder** → discontinue prednisolone.
 - **<0.45 = responder** → continue prednisolone to 28 days total.
 - **Day-4 Lille is as accurate as day-7** and spares 3 days of futile steroid exposure in non-responders.
+- **Assess at days 4 *and* 7** to limit steroid exposure and infection risk in non-responders ([[aasld-easl-2026-aclf-global-consensus]] Statement 20, A1). ⚠ [[acg-2024-ald]] and its algorithm below say day 4 *or* 7; the newer consensus governs.
 
 ### Classification / Typing
 
-Three diagnostic certainty categories ([[aasld-2020-ald]]) — they determine whether biopsy is needed, not the treatment:
+Three diagnostic certainty categories ([[aasld-2020-ald]]) — they determine whether biopsy is needed, not the treatment (AASLD 2020 rule; the 2026 consensus biopsies before steroids — see [[#Establishing the Diagnosis]]):
 
 | Category | Definition | Biopsy |
 |---|---|---|
@@ -122,14 +130,14 @@ flowchart TD
 - [[autoimmune-hepatitis|Autoimmune hepatitis]] — elevated IgG, autoantibodies.
 - Ischemic hepatitis — AST >1000, cardiac/hypotensive history.
 - Acute biliary obstruction ([[choledocholithiasis|common bile duct (CBD) stone]]) — cholestatic pattern; excluded on ultrasound.
-- [[acute-on-chronic-liver-failure|acute-on-chronic liver failure (ACLF)]] — AH is a common precipitant; the two overlap rather than exclude each other.
+- ACLF — AH is a common precipitant; the two overlap rather than exclude each other (severe AH coexists with ACLF in up to half of cases in some series — [[aasld-easl-2026-aclf-global-consensus]]).
 
 ## Diagnostics
 
 - **Labs:** bilirubin, AST/ALT, INR/PT, creatinine, albumin, WBC — these are both the diagnostic criteria and the inputs to every severity score above. Lipase to exclude concomitant [[acute-pancreatitis|pancreatitis]].
 - **Abdominal ultrasound** — exclude biliary obstruction and assess for [[cirrhosis]]/[[portal-hypertension|portal hypertension]].
 - **Infection screen before steroids** — chest radiograph plus blood, urine and ascitic-fluid cultures ([[aasld-2020-ald]]).
-- **Liver biopsy** (transjugular when coagulopathic) — only for *possible* AH, i.e. when a confounder is present.
+- **Liver biopsy** (transjugular when coagulopathic) — who needs one: [[#Establishing the Diagnosis]].
 - Alcohol-use biomarkers, non-invasive fibrosis tests and the genetic susceptibility variants: [[alcohol-associated-liver-disease]].
 
 **Acute kidney injury (AKI) in AH** — common, from the hemodynamics of portal hypertension overlapping a systemic inflammatory response → [[aki-in-cirrhosis|hepatorenal syndrome (HRS)]] [[aasld-2020-ald]]:
@@ -175,6 +183,12 @@ flowchart TD
 - Active HBV, HCV, DILI, [[hepatocellular-carcinoma|hepatocellular carcinoma]], acute pancreatitis, human immunodeficiency virus, tuberculosis.
 - Multiorgan failure or shock.
 
+**AH with ACLF** — grading on [[acute-on-chronic-liver-failure]] ([[aasld-easl-2026-aclf-global-consensus]]):
+
+- **ACLF grade 3** (liver failure + ≥2 extrahepatic organ failures) → **no corticosteroids**; Lille-model response probability very low (Statement 18, B1).
+- **Two organ failures** → response probability ~40%; decide case by case (Statement 19, B1).
+- Steroids raise **invasive fungal infection** risk, especially in ACLF → stop promptly in non-responders (typically after 4–7 d), no taper needed.
+
 **IV N-acetylcysteine (NAC) — add it to prednisolone** ([[acg-2024-ald]] **Rec 20**, *strong, moderate*; [[aasld-2020-ald]] GS-15 calls it a possible benefit — the newer ACG grading governs):
 
 - Dosing (hepatoprotective): day 1 **150 mg/kg over 1 h → 12.5 mg/kg/h × 4 h → 6.25 mg/kg/h × 16 h**, then continue a reduced infusion to **5 days** total.
@@ -186,7 +200,7 @@ flowchart TD
 - **No universal antibiotic prophylaxis** ([[acg-2024-ald]] **Rec 15**, *strong, moderate*). Prednisolone + antibiotic × 30 days lowered cumulative infections (42 vs 59 events; hazard ratio 0.616, P = 0.015) but **not 60-day mortality** (24 vs 31 deaths). Treat documented infection only.
 - **Granulocyte colony stimulating factor and microbiome-based therapies — insufficient data** to determine a role ([[acg-2024-ald]] **Rec 19**, *conditional, moderate*).
 
-**Then assess response at day 4 or 7 with [[#Severity Assessment|Lille]].** Non-response (≥0.45) → stop prednisolone and consider early transplant referral. **Four or more organ failures + steroid non-response + ineligible for early liver transplantation (LT) → engage palliative care** ([[acg-2024-ald]] Key concept 28).
+**Then assess response at days 4 and 7 with [[#Severity Assessment|Lille]].** Non-response (≥0.45) → stop prednisolone (no taper) and consider early transplant referral. **Four or more organ failures + steroid non-response + ineligible for early liver transplantation (LT) → engage palliative care** ([[acg-2024-ald]] Key concept 28).
 
 ### Moderate AH (MELD ≤20)
 
@@ -201,7 +215,7 @@ flowchart TD
 
 ### Early Liver Transplantation
 
-**ELT is for the steroid non-responder, and selection is the whole intervention.** [[aasld-2020-ald]] GS-22 supports it in carefully selected severe AH non-responders with favourable psychosocial profiles; a fixed abstinence interval is **not** a listing criterion (see [[alcohol-associated-liver-disease]] for the ALD-wide transplant rules).
+**ELT is for the steroid non-responder, and selection is the whole intervention.** [[aasld-2020-ald]] GS-22 supports it in carefully selected severe AH non-responders with favourable psychosocial profiles; a fixed abstinence interval is **not** a listing criterion — the 2026 consensus calls a minimum abstinence period inappropriate before waitlisting, given the very high short-term mortality ([[aasld-easl-2026-aclf-global-consensus]] Statement 21, B1); early LT is the only intervention with substantial survival benefit for severe AH unresponsive to medical therapy and for advanced ACLF (see [[alcohol-associated-liver-disease]] for the ALD-wide transplant rules).
 
 **Candidate criteria** (center-dependent, not universal):
 
@@ -209,6 +223,7 @@ flowchart TD
 - **Non-responder to medical therapy** (Lille ≥0.45).
 - No prior decompensation from cirrhosis.
 - Insight into AUD, commitment to abstinence, strong psychosocial support — requires addiction-specialist evaluation.
+- **Return-to-drinking risk assessment** covers social/familial support, prior decompensation history and prior abstinence failures; select per national/local multidisciplinary early-LT guidelines (Statement 22, B1).
 - No severe ongoing multiorgan failure precluding surgery.
 
 **Outcomes — two cohorts, both selected:**
@@ -228,7 +243,7 @@ flowchart TD
 
 - ⚠ **MELD vs MELD-Na:** the primary paper reports **MELD-Na** 39; [[aasld-2020-ald]] restates it as "median MELD score of 39". The steroid threshold above is **original MELD** — do not mix the scales.
 - ⚠ **Selection, not treatment effect** — these are the outcomes of a rigorously selected cohort and cannot be transported to unselected severe AH.
-- **Availability:** at least **a quarter of US centers** have done at least one early AH transplant, but **most fewer than five**, with representation from every UNOS region — so referral to such a center is reasonable for a minority of appropriate patients [[aasld-2020-ald]].
+- **Availability:** ≥¼ of US centers (every UNOS region) have done an early AH transplant, most fewer than five — referral to such a center is reasonable for a minority of appropriate patients [[aasld-2020-ald]].
 
 **Sustained Alcohol Use Post-Transplant (SALT) score** — four pre-LT variables predicting **sustained** post-LT use, derived from ACCELERATE-AH and **not yet validated** [[aasld-2020-ald]]:
 
@@ -256,3 +271,4 @@ flowchart TD
 2. [[acg-2024-ald|ACG Clinical Guideline: Alcohol-Associated Liver Disease (2024)]]
 3. [[aga-2017-severe-alcoholic-hepatitis|AGA Clinical Practice Update: Medical Management of Severe Alcoholic Hepatitis — Expert Review (2017)]]
 4. [[lee-2018-accelerate-ah|Outcomes of Early Liver Transplantation for Patients With Severe Alcoholic Hepatitis (ACCELERATE-AH)]]
+5. [[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]

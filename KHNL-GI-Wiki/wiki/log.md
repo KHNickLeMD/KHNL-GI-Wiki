@@ -6,6 +6,36 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-13] ingest | AASLD/EASL/APASL/ALEH/SOLDA 2026 global ACLF consensus
+
+**Source:** Nick's drop — `GI Guidelines/AASLD/AASLD-EASL-APASL-ALEH-SOLDA 2026 ACLF Global Consensus on Definitions.pdf` (Hepatology 2026, doi 10.1097/HEP.0000000000001891). 81 graded statements (Oxford CEBM). Licence: © societies, not Creative Commons → no figure captures; Tables 1–4 recreated.
+
+**Sources created:**
+- [[aasld-easl-2026-aclf-global-consensus]] — all 81 statements with grades; Tables 1–2 recreated; contradictions listed. Main-text vs appendix numbering of Statements 58–60 differs — appendix numbering used throughout.
+
+**Pages updated:**
+- [[acute-on-chronic-liver-failure]] — harmonised 2026 definition now leads (ACLD ≥F3 + liver failure INR ≥1.5/bilirubin ≥5 + extrahepatic dysfunction/failure; type A/B; ACLD criteria table + elastography pitfall); 2026 organ dysfunction/failure table and grades 1–3 with a pitfall that 2026 grades ≠ EASL-CLIF grades (terlipressin rule still EASL-CLIF); regional definitions kept; 2026 updates merged into scores, futility (time-limited ICU trial, AARC >10 / CLIF-C ACLF >64 vs AASLD >70), HE (GCS <12/<9, ammonia conflict), circulation, respiration (4–6 mL/kg), RRT, infection (sputum culture, MDR screening), coagulation; new `Precipitant-Specific Treatment` section (alcohol one-liner → AH page, DILI, viral antivirals within 24 h); LT candidacy (>75–80% 1-year survival, risk factors, LDLT, age, plasma exchange bridge). Page now ~4,600 body words — **slim candidate** for the next lint.
+- [[alcohol-associated-hepatitis]] — biopsy-before-steroids rule (Statement 17), Lille days 4 and 7, AH-with-ACLF steroid limits, no minimum abstinence, relapse-risk items. Conflicts surfaced: biopsy scope vs AASLD 2020/ACG 2024; Lille "4 or 7" (ACG 2024) vs "4 and 7".
+- [[liver-transplantation]] — new ACLF subsection (Statements 54–63). LDLT tension with AASLD/AST 2025 statement 53 flagged.
+- [[hepatic-encephalopathy]] — Statement 41 triage, Statement 11 organ-failure link, ammonia rewritten (normal ammonia → HE unlikely), sedation, rectal lactulose, no routine rifaximin add-on in critically ill on antibiotics, IV LOLA row. Brain-imaging disagreement with ACG 2026 Rec 6 shown as unresolved.
+- [[drug-induced-liver-injury]] — new `DILI as an ACLF Precipitant` section + Table 4 (antidotes). Steroid conflict with ACG 2021 Rec 9 flagged.
+- [[chronic-hepatitis-b]], [[hepatitis-c]], [[hepatitis-d]] — brief viral-ACLF lines linking to the ACLF page; HBV page Sources list also gained two slugs already in its frontmatter.
+- [[aki-in-cirrhosis]] — KDIGO 2–3 = renal failure in ACLF; RRT bullets. Conflict: AGA 2022 (RRT not indicated without LT candidacy) vs 2026 (allowed if dysfunction potentially reversible).
+- [[albumin]] — not for routine initial resuscitation in shock; conflict with AASLD 2021 5% albumin for hypovolaemia flagged.
+- [[cirrhosis-hemostasis]] — Statement 51; VET not for VTE prophylaxis.
+- [[palliative-care-in-cirrhosis]] — time-limited ICU trial, day 3–7 reassessment, futility thresholds (conflict with AASLD 2024 >70).
+
+**Cards (server):**
+- `acute-on-chronic-liver-failure` — f40001 (2026 definition), f40007 (2026 futility), f40008 (GCS <12/<9) rewritten and re-sourced; f40013/f40015 Back Extra updated; new f40021–f40029 (2026 organ-failure thresholds, grades, type A, elastography, viral timing, HCV protease inhibitors, LT >75–80%, post-LT risk factors, plasma exchange bridge). 20 → 29 notes.
+- `alcohol-associated-hepatitis` — cd4001/cd4004/cd4008 edited; cd400d–cd400f added.
+- `hepatic-encephalopathy` — a10002/a10013 edited; a1002b added. `drug-induced-liver-injury` — dba014, dba015 added.
+- `chronic-hepatitis-b` — b01019 added, then trimmed to the drug choice (24 h / no-LT-delay owned by f40025). `aki-in-cirrhosis` — 3c21a9 edited, 3c21b5 added.
+- `liver-transplantation`, `hepatitis-c`, `hepatitis-d`, `cirrhosis-hemostasis`, `palliative-care-in-cirrhosis` — nothing new qualified (owned elsewhere or cut list); `page_updated` bumped.
+
+**Hygiene fixes:** index source counts reconciled on 11 touched pages (several were already stale).
+
+---
+
 ## [2026-11-14] update | Card pass — 11 stale/new card files, 3 quality reviews
 
 **Dedup:** `anki-dupes.mjs` returned 0 unjudged candidate pairs at ≥0.4 — nothing to merge, no ledger entries written. Build run first: 4,501 notes, clean apart from the known stale/anchor backlog.

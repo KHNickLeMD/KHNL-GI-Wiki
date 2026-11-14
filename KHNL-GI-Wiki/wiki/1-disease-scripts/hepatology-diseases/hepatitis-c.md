@@ -3,8 +3,8 @@ title: "Hepatitis C"
 category: disease-script
 tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, cirrhosis, HCC, SVR, glecaprevir, pibrentasvir, sofosbuvir, velpatasvir, fibrosis, liver, antiviral, screening]
 created: 2026-05-28
-updated: 2026-09-26
-sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1, aga-2025-hbv-reactivation, aga-2019-daa-hcc, aga-2017-elastography-liver-fibrosis]
+updated: 2026-11-13
+sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1, aga-2025-hbv-reactivation, aga-2019-daa-hcc, aga-2017-elastography-liver-fibrosis, aasld-easl-2026-aclf-global-consensus]
 ---
 
 ## Assessment
@@ -119,6 +119,8 @@ NS3/4A protease inhibitors (glecaprevir, grazoprevir, voxilaprevir) are **CONTRA
 
 **Post-SVR in decompensated cirrhosis:** Continue monitoring for HCC, [[variceal-upper-gi-bleeding|varices]], and complications even after SVR. Some patients recompensate; list for LT if not improving.
 
+**HCV-triggered [[acute-on-chronic-liver-failure|acute-on-chronic liver failure (ACLF)]]:** pangenotypic DAA without a protease inhibitor, preferably within 24 h of confirmation; response judged by SVR12, no routine on-treatment RNA; DAAs before or after LT depending on severity and transplant timing ([[aasld-easl-2026-aclf-global-consensus]], Statements 33–36). Grading and ICU care on the ACLF page.
+
 ### Pretreatment Assessment (Figure 4/5 in source)
 
 Before initiating:
@@ -213,7 +215,7 @@ For recurrent HCV post liver or kidney transplantation:
 
 ## See Also
 
-[[chronic-hepatitis-b]], [[direct-acting-antivirals]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatitis-c-in-pregnancy]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[ascites]], [[variceal-upper-gi-bleeding]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[drug-induced-liver-injury]], [[cirrhosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[obesity]], [[calcineurin-inhibitors]]
+[[chronic-hepatitis-b]], [[direct-acting-antivirals]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[liver-disease-in-pregnancy]], [[hepatitis-c-in-pregnancy]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[ascites]], [[variceal-upper-gi-bleeding]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[drug-induced-liver-injury]], [[cirrhosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[obesity]], [[calcineurin-inhibitors]]
 
 ---
 
@@ -224,3 +226,4 @@ For recurrent HCV post liver or kidney transplantation:
 3. [[aga-2025-hbv-reactivation|AGA Clinical Practice Guideline: Prevention and Treatment of HBV Reactivation (2025)]]
 4. [[aga-2019-daa-hcc|AGA Clinical Practice Update on Interaction Between Oral Direct-Acting Antivirals for Chronic Hepatitis C Infection and Hepatocellular Carcinoma: Expert Review (2019)]]
 5. [[aga-2017-elastography-liver-fibrosis|American Gastroenterological Association Institute Guideline on the Role of Elastography in the Evaluation of Liver Fibrosis (2017)]]
+6. [[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]

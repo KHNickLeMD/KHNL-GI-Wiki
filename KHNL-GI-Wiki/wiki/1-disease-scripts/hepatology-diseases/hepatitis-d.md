@@ -3,8 +3,8 @@ title: "Hepatitis D (Delta)"
 category: disease-script
 tags: [hepatitis-delta, hdv, hepatitis-b, cirrhosis, bulevirtide, peg-interferon, hcc, viral-hepatitis]
 created: 2026-06-27
-updated: 2026-11-07
-sources: [aga-2025-hepatitis-delta, easl-2023-hepatitis-delta, aasld-idsa-2025-chb-treatment, pegasys-2023-peginterferon-alfa-2a-label]
+updated: 2026-11-13
+sources: [aga-2025-hepatitis-delta, easl-2023-hepatitis-delta, aasld-idsa-2025-chb-treatment, pegasys-2023-peginterferon-alfa-2a-label, aasld-easl-2026-aclf-global-consensus]
 ---
 
 Hepatitis delta virus (HDV) is a defective RNA virus that occurs **only in the setting of [[chronic-hepatitis-b|hepatitis B virus (HBV)]] infection** (it requires hepatitis B surface antigen [HBsAg] to assemble), as coinfection or superinfection. Concurrent HDV is a **particularly aggressive** infection — it substantially increases the risk of [[cirrhosis]], [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]], and liver-related mortality versus HBV monoinfection [[aga-2025-hepatitis-delta]].
@@ -106,6 +106,7 @@ flowchart TD
 - **Consider antiviral treatment in every patient with CHD** ([[easl-2023-hepatitis-delta]], strong). **No HDV RNA or ALT threshold gates the decision** — the driver of progression is persistence of viral replication, and cirrhosis develops subclinically in patients with mild but long-lasting necro-inflammation. The choice is then individualised.
   - *This resolves a long-standing ambiguity: AASLD hepatitis B guidance frames the indication as "elevated HDV RNA **and** elevated ALT" without quantifying either ([[aga-2025-hepatitis-delta]]). EASL uses no threshold, so the missing numbers do not gate treatment.*
 - **Decompensated cirrhosis → evaluate for [[liver-transplantation|liver transplantation]]** (strong) — no licensed therapy exists and peg-IFN is contraindicated.
+- **HBV/HDV coinfection triggering [[acute-on-chronic-liver-failure|acute-on-chronic liver failure (ACLF)]]:** test HDV immediately (Statement 31, B1); consider HDV-directed therapy, including bulevirtide where available, per local regulatory approval and specialist guidance — but **bulevirtide is not approved for decompensated cirrhosis** ([[aasld-easl-2026-aclf-global-consensus]], Statement 33, B1). NA for the HBV component: [[chronic-hepatitis-b#HBV-Triggered Acute-on-Chronic Liver Failure]].
 - **HCC present → treat the HCC first** (including transplantation); antiviral therapy is individualised (weak).
 - **Mild disease (F0–F1):** weigh interferon toxicity against the agents in development before committing.
 
@@ -210,7 +211,7 @@ flowchart LR
 
 ## See Also
 
-[[chronic-hepatitis-b]], [[peginterferon-alfa-2a]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[liver-transplantation]], [[nutrition-in-liver-disease]], [[liver-stiffness-measurement]], [[cirrhosis]], [[portal-hypertension]]
+[[chronic-hepatitis-b]], [[peginterferon-alfa-2a]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[nutrition-in-liver-disease]], [[liver-stiffness-measurement]], [[cirrhosis]], [[portal-hypertension]]
 
 ---
 
@@ -220,3 +221,4 @@ flowchart LR
 2. [[easl-2023-hepatitis-delta|EASL Clinical Practice Guidelines on hepatitis delta virus (2023)]]
 3. [[aasld-idsa-2025-chb-treatment|AASLD-IDSA Hepatitis B Guidance: Treatment of Chronic Hepatitis B (2025)]]
 4. [[pegasys-2023-peginterferon-alfa-2a-label|PEGASYS (Peginterferon Alfa-2a) Injection — FDA Prescribing Information]]
+5. [[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]

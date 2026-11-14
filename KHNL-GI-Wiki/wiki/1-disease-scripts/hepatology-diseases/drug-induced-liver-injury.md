@@ -3,8 +3,8 @@ title: "Drug-Induced Liver Injury (Idiosyncratic)"
 category: disease-script
 tags: [dili, drug-induced-liver-injury, hepatotoxicity, hds, ici, immune-checkpoint, hpb, liver]
 created: 2026-05-16
-updated: 2026-10-01
-sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
+updated: 2026-11-13
+sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili, aasld-easl-2026-aclf-global-consensus]
 ---
 
 ## Assessment
@@ -171,6 +171,45 @@ Common Terminology Criteria for Adverse Events (CTCAE) grade criteria (ALT / bil
 - Risk-benefit assessment for continuing hepatotoxic drugs in CLD patients: Conditional/Low
 - Monitor liver function tests (LFTs) at 4–6 week intervals for first 6 months of potentially hepatotoxic agents in CLD: Conditional/Very Low
 
+### DILI as an ACLF Precipitant
+
+*[[aasld-easl-2026-aclf-global-consensus|2026 global multisociety acute-on-chronic liver failure (ACLF) consensus]], Statements 23–30. ACLF definition, organ failures and grading: [[acute-on-chronic-liver-failure]].*
+
+- **DILI and herb-induced liver injury (HILI) cause up to 10% of ACLF** in some series
+  - Asia-Pacific: antituberculosis drugs, herbal/complementary medicines · West: antibiotics, antineoplastic and immunomodulatory agents, antiepileptics, cardiovascular drugs, increasingly ICIs
+- **Diagnose with a structured approach** — exposure history, injury pattern, exclusion of competing causes, standardised causality tools, expert judgment (Statement 23, C1). CIOMS/RUCAM/RECAM support but never replace multidisciplinary judgment
+- **Separate DILI from spontaneous progression** by temporal relationship, injury pattern, trajectory after withdrawal, and exclusion of competing precipitants (Statement 24, C1)
+- **Biopsy not routine** — consider if immune-mediated DILI/HILI, ICI hepatotoxicity, rejection, or infiltrative disease is suspected; **transjugular route with coagulopathy, thrombocytopenia, or ascites** (Statement 25, C2)
+- **Risk-stratify** by injury pattern, exposure duration, timing of withdrawal, and host factors (Statement 27, C2):
+  - Hepatocellular → rapid deterioration, early liver failure · cholestatic/mixed → protracted course, persistent jaundice
+  - Worse with HDS, complementary/alternative medicines, antituberculosis drugs; assess obesity, diabetes, alcohol use
+  - Conventional ACLF scores may underestimate risk; **total bilirubin and serum lactate are independent prognostic factors** → closer monitoring, earlier transplant evaluation
+- **Stop the offending agent immediately — mandatory**; withdrawal alone may not reverse established ACLF (Statement 28, C1). Drug essential for a life-threatening condition → decide case by case with that specialist team
+- **Use aetiology-specific therapy or antidotes where available; non-specific treatment by suspected mechanism** — NAC, corticosteroids in selected immune-mediated cases, drug clearance (Statement 29, A2) — table below
+- **Early transplant-centre assessment and referral, especially with progressive disease or high-risk features** (Statement 30, A1)
+  - ACLF grade 2–3 not improving after withdrawal → high short-term mortality; spontaneous recovery uncommon once advanced organ failure develops
+  - Serial validated severity scores to spot non-responders; failure to improve → urgent [[liver-transplantation|liver transplant]] evaluation (outcomes comparable to other ACLF causes)
+
+| Intervention | Indication | Rationale |
+|---|---|---|
+| Immediate drug withdrawal | All suspected/confirmed DILI/HILI-ACLF | Stops ongoing injury |
+| Supportive care | All patients | Manages ACLF complications |
+| NAC | Acetaminophen overdose; early non-acetaminophen ALF; selected severe DILI | Replenishes glutathione; improves transplant-free survival |
+| Corticosteroids | Immune-mediated DILI; ICI-related injury | Reduces immune-mediated injury |
+| L-carnitine | Valproate hepatotoxicity | Mitochondrial/ammonia support |
+| Cholestyramine | Leflunomide/teriflunomide toxicity | Enhances elimination |
+| Silibinin and penicillin G | Mushroom poisoning | Reduces toxin uptake |
+| Ursodeoxycholic acid | Cholestatic DILI, pruritus | Symptomatic relief |
+| Extracorporeal support (molecular adsorbent recirculating system [MARS]) | Selected severe ACLF | Bridge to recovery/transplant |
+| Plasma exchange | Selected severe cases | Immunomodulation |
+
+*Therapies for DILI/HILI-related ACLF*
+*Source: Table 4 of the 2026 global ACLF consensus, recreated*
+*[[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]*
+*DILI = drug-induced liver injury · HILI = herb-induced liver injury · ACLF = acute-on-chronic liver failure · NAC = N-acetylcysteine · ALF = acute liver failure · ICI = immune checkpoint inhibitor · MARS = molecular adsorbent recirculating system*
+
+- ⚠ **Corticosteroids:** the consensus lists them for immune-mediated DILI and ICI injury; [[acg-2021-dili]] Rec 9 found no well-conducted studies to recommend or refute them, considering them only with AIH-like features
+
 ### Common GI-Relevant DILI Culprits
 
 | Agent | Pattern | Latency | Notes |
@@ -202,7 +241,7 @@ Common Terminology Criteria for Adverse Events (CTCAE) grade criteria (ALT / bil
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[jaundice]], [[liver-transplantation]], [[ercp]], [[cirrhosis]], [[obesity]], [[thiopurines]], [[anti-tnf-agents]], [[proton-pump-inhibitors]]
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[jaundice]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[ercp]], [[cirrhosis]], [[obesity]], [[thiopurines]], [[anti-tnf-agents]], [[proton-pump-inhibitors]]
 
 ---
 
@@ -211,3 +250,4 @@ Common Terminology Criteria for Adverse Events (CTCAE) grade criteria (ALT / bil
 1. [[acg-2021-dili|ACG 2021 Clinical Guideline: Diagnosis and Management of Idiosyncratic Drug-Induced Liver Injury]]
 2. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
 3. [[aasld-2022-dili|AASLD Practice Guidance: Drug, Herbal, and Dietary Supplement-Induced Liver Injury (2022)]]
+4. [[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]

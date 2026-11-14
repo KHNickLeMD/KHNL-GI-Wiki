@@ -4,7 +4,7 @@ category: med
 tags: [albumin, cirrhosis, ascites, sbp, hrs]
 created: 2026-07-23
 updated: 2026-11-13
-sources: [aga-2024-vasoactive-albumin-cirrhosis, aga-2025-ascites-cirrhosis, aasld-2021-ascites-sbp-hrs, acg-2026-preventive-care-cirrhosis]
+sources: [aga-2024-vasoactive-albumin-cirrhosis, aga-2025-ascites-cirrhosis, aasld-2021-ascites-sbp-hrs, acg-2026-preventive-care-cirrhosis, aasld-easl-2026-aclf-global-consensus]
 quality_reviewed: 2026-11-13
 ---
 
@@ -63,6 +63,7 @@ quality_reviewed: 2026-11-13
 - **Infections other than SBP — not advised**, unless there is concomitant AKI. Three randomized controlled trials (RCTs) and a meta-analysis found no reduction in AKI or mortality, and more pulmonary edema (AGA 2024).
 - **Long-term weekly or biweekly infusions — no recommendation can be made.** AASLD 2021 calls the data controversial in diuretic-responsive ascites and insufficient in refractory ascites outside LVP.
 - **Targeting a serum albumin level** in inpatients not admitted specifically for volume overload does not reduce infection, kidney dysfunction, or death; the role of concurrent IV albumin with IV loop diuretics for inpatient volume overload is unclear (AGA 2025).
+- **Routine initial resuscitation of shock in cirrhosis or ACLF — not supported.** Use **balanced crystalloids** (lactated Ringer's or Plasma-Lyte, preferred over 0.9% saline), adding albumin only for its established indications — LVP, SBP, HRS-AKI (Statement 46, B1). RCTs show no consistent survival benefit and more pulmonary oedema and fluid overload, especially with 20% albumin; selected septic-shock patients may benefit ([[aasld-easl-2026-aclf-global-consensus]]). ⚠ Narrows the older AASLD 2021 framing of 5% albumin as an option for resuscitating hypovolemia (*Overview*); in shock the 2026 consensus governs.
 - **Vasoconstrictors are not a substitute** — do not use them for uncomplicated ascites, after LVP, or in SBP (AGA 2024 BPA 7).
 
 ## Evidence
@@ -107,3 +108,4 @@ quality_reviewed: 2026-11-13
 2. [[aga-2025-ascites-cirrhosis|AGA Clinical Practice Update on the Management of Ascites, Volume Overload, and Hyponatremia in Cirrhosis: Expert Review]]
 3. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]
 4. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
+5. [[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]

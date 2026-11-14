@@ -3,8 +3,8 @@ title: "Hemostasis in Cirrhosis"
 category: concept
 tags: [cirrhosis, coagulopathy, hemostasis, inr, platelets, ffp, teg, rotem, pvt, anticoagulation]
 created: 2026-05-21
-updated: 2026-09-17
-sources: [acg-2020-hepatic-mesenteric-circulation, aga-2021-cirrhosis-coagulation, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
+updated: 2026-11-13
+sources: [acg-2020-hepatic-mesenteric-circulation, aga-2021-cirrhosis-coagulation, puente-2025-cirroxaban-rivaroxaban-cirrhosis, aasld-easl-2026-aclf-global-consensus]
 ---
 
 ## Overview
@@ -50,6 +50,7 @@ Scope — the guideline's "common gastrointestinal procedures" are exactly six: 
 - Procedures were split **low- vs high-bleeding-risk at a 1.5% threshold** (literature review + expert interpretation).
 - **TPO-RA harm:** ~**1% thrombotic-event risk at 30 days** for avatrombopag and lusutrombopag — the reason the recommendation runs against routine use.
 - **VTE prophylaxis:** VTE incidence in cirrhosis is typically **0.5–1.9%**; use standard risk-assessment models (**Padua Prediction Score**, **IMPROVE**) and weigh VTE against bleeding risk.
+  - **Do not use VET to assess VTE risk or guide thromboprophylaxis** in ACLF — standard clinical tools still decide ([[aasld-easl-2026-aclf-global-consensus]], Statement 51 commentary).
 
 > ⚠ **Three named scores, no criteria.** [[aga-2021-cirrhosis-coagulation]] names **Padua**, **IMPROVE**, and **CHA₂DS₂-VASc** but prints none of their components or point values, and states no numeric CHA₂DS₂-VASc cut-point in its recommendation text; to apply recommendations 3 and 6, score from the derivation papers (Barbar 2010 Padua; Decousus 2011 IMPROVE; Lip 2010 CHA₂DS₂-VASc).
 
@@ -62,6 +63,7 @@ Scope — the guideline's "common gastrointestinal procedures" are exactly six: 
 ## Contradictions / Open Questions
 
 - **TEG/ROTEM (VET).** [[acg-2020-hepatic-mesenteric-circulation|American College of Gastroenterology (ACG) 2020]] suggested using viscoelastic testing to guide periprocedural transfusion (Conditional, low). [[aga-2021-cirrhosis-coagulation|American Gastroenterological Association (AGA) 2021]] reviewed the same question and made **no recommendation**, labelling it an evidence gap: VET did not change post-procedural bleeding (relative risk [RR] 0.33, 95% confidence interval [CI] 0.01–7.87) or 90-day mortality (RR 1.05, 95% CI 0.45–2.44), though it trended toward **lower blood-product use**. Both are society guidelines, so the **newer AGA 2021 position governs this page** — VET is not established for periprocedural risk prediction. Readers carrying the 2020 rule should note the change.
+  - **Newest position, for ACLF** ([[aasld-easl-2026-aclf-global-consensus]], Statement 51, B1): VET may reflect dynamic haemostasis better than INR, activated partial thromboplastin time, fibrinogen and platelet count, and abnormal VET parameters are associated with bleeding and short-term mortality — but **further clinical validation is required before routine adoption**. Consistent with AGA 2021: VET is still not routine.
 
 ---
 
@@ -100,3 +102,4 @@ Cirrhotic patients are paradoxically prone to venous thromboembolism [[acg-2020-
 1. [[acg-2020-hepatic-mesenteric-circulation|ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation]]
 2. [[aga-2021-cirrhosis-coagulation|AGA Clinical Practice Guideline: Coagulation Disorders in Cirrhosis (2021)]]
 3. [[puente-2025-cirroxaban-rivaroxaban-cirrhosis|Rivaroxaban to prevent complications of portal hypertension in cirrhosis: The CIRROXABAN study (2025)]]
+4. [[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]

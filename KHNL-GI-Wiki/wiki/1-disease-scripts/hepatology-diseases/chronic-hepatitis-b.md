@@ -3,8 +3,8 @@ title: "Chronic Hepatitis B"
 category: disease-script
 tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection, hbv-reactivation, antiviral-prophylaxis]
 created: 2026-05-15
-updated: 2026-11-04
-sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver, aga-2025-hepatitis-delta, aasld-ast-2025-liver-transplant-graft-complications, aasld-2012-liver-transplant-long-term]
+updated: 2026-11-13
+sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver, aga-2025-hepatitis-delta, aasld-ast-2025-liver-transplant-graft-complications, aasld-2012-liver-transplant-long-term, aasld-easl-2026-aclf-global-consensus]
 ---
 
 ## Assessment
@@ -210,6 +210,11 @@ Switch options: ETV → TDF or TAF; TDF → TAF or ETV; TAF → ETV.
 
 *Prednisone-equivalent dose bands: low <10 mg, moderate 10–20 mg, high >20 mg daily. The corticosteroid categorization is carried over unchanged from the 2014 AGA guideline. ([[aga-2025-hbv-reactivation]])*
 
+### HBV-Triggered Acute-on-Chronic Liver Failure
+
+- HBV primary infection or reactivation can precipitate acute-on-chronic liver failure (ACLF): **HBV DNA immediately**; **potent NA (ETV, TDF or TAF) preferably within 24 h** of aetiological confirmation, continued long term; don't change therapy on early kinetics alone ([[aasld-easl-2026-aclf-global-consensus]], Statements 31, 33, 35). Grading, ICU care and the per-virus list: [[acute-on-chronic-liver-failure]].
+- Transplant: HBV DNA before transplant guides prophylaxis ([[#Post–Liver Transplant Prophylaxis]]); **transplant is not delayed to reach suppression** (Statement 38, B1). The Chinese Group on the Study of Severe Hepatitis B (COSSH) score is specific to HBV-related ACLF.
+
 ### Prevention of Mother-to-Child Transmission (MTCT)
 
 **AASLD/Infectious Diseases Society of America (IDSA) 2025 recommendations** [[aasld-idsa-2025-chb-treatment]]:
@@ -286,3 +291,6 @@ Goal: HBV DNA <lower limit of quantification. HBV not transmitted by casual cont
 3. [[aga-2025-hbv-reactivation|AGA Clinical Practice Guideline: Prevention and Treatment of HBV Reactivation (2025)]]
 4. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
 5. [[aga-2025-hepatitis-delta|AGA Clinical Practice Update on Management of Hepatitis Delta: Commentary]]
+6. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
+7. [[aasld-2012-liver-transplant-long-term|AASLD/AST 2012: Long-Term Management of the Successful Adult Liver Transplant]]
+8. [[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]

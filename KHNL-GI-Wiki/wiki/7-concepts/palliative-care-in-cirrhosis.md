@@ -3,8 +3,8 @@ title: "Palliative Care in Cirrhosis"
 category: concept
 tags: [cirrhosis, palliative-care, hospice, advance-care-planning, goals-of-care, prognostication, caregiver-burden, symptom-assessment, quality-of-life]
 created: 2026-09-19
-updated: 2026-09-19
-sources: [aga-2020-palliative-care-cirrhosis, aasld-2022-palliative-cirrhosis]
+updated: 2026-11-13
+sources: [aga-2020-palliative-care-cirrhosis, aasld-2022-palliative-cirrhosis, aasld-2024-aclf, aasld-easl-2026-aclf-global-consensus]
 ---
 
 ## Contents
@@ -109,6 +109,11 @@ Screening instruments the update tabulates (full table with domains and scales o
 
 A RAND/UCLA modified-Delphi panel's quality indicators add **use of a mechanical ventilator** and **initiation of hemodialysis** to that list.
 
+**ICU care in ACLF — time-limited trial with palliative care built in** ([[aasld-easl-2026-aclf-global-consensus]]; organ support and transplant decisions on [[acute-on-chronic-liver-failure]]):
+
+- **Not a transplant candidate, severe multiorgan failure:** ICU admission or support case by case, guided by ICU resources, ideally as a **time-limited trial** with ongoing dynamic prognostication **alongside integrated palliative care** (Statement 52, C2). Don't deny ICU on the initial presentation alone — treating a reversible precipitant (infection, gastrointestinal bleeding) can bring recovery
+- **Reassess at day 3–7** (Statement 53, C2): **Asian Pacific Association for the Study of the Liver (APASL) ACLF Research Consortium (AARC) score >10, persistent multiorgan failure, or CLIF-C ACLF score >64 despite maximal therapy** = extremely poor prognosis → **structured transition to palliative care**, guided by patient and family wishes. ⚠ Lower than the AASLD 2024 futility cut-off, CLIF-C ACLF >70 at admission or day 3 ([[aasld-2024-aclf]]); the 2026 consensus is newer and governs
+
 ---
 
 ## Advance Care Planning and Goals of Care
@@ -176,3 +181,5 @@ The **Supportive and Palliative Care Indicators Tool (SPICT)** may guide referra
 
 1. [[aga-2020-palliative-care-cirrhosis|AGA Clinical Practice Update on Palliative Care Management in Cirrhosis: Expert Review (2021)]]
 2. [[aasld-2022-palliative-cirrhosis|AASLD Practice Guidance: Palliative Care and Symptom-Based Management for Decompensated Cirrhosis (2022)]]
+3. [[aasld-2024-aclf|AASLD 2024 Practice Guidance on Acute-on-Chronic Liver Failure]]
+4. [[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]

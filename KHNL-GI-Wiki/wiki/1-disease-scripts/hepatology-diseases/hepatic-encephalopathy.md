@@ -3,8 +3,8 @@ title: "Hepatic Encephalopathy"
 category: disease-script
 tags: [hepatic-encephalopathy, HE, cirrhosis, ammonia, lactulose, rifaximin, TIPS, portal-hypertension, ACLF, minimal-HE, covert-HE, overt-HE, portosystemic-shunting, brain-dysfunction, west-haven, bristol-stool-scale, sarcopenia]
 created: 2026-05-28
-updated: 2026-11-12
-sources: [acg-2026-hepatic-encephalopathy, acg-2026-preventive-care-cirrhosis, baveno-viii-2026-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy, baveno-vii-2022-portal-hypertension, ishen-2013-nutrition-hepatic-encephalopathy]
+updated: 2026-11-13
+sources: [aasld-easl-2026-aclf-global-consensus, acg-2026-hepatic-encephalopathy, acg-2026-preventive-care-cirrhosis, baveno-viii-2026-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy, baveno-vii-2022-portal-hypertension, ishen-2013-nutrition-hepatic-encephalopathy, aasld-2024-aclf]
 ---
 
 Hepatic encephalopathy (HE) is **brain dysfunction caused by liver insufficiency and/or portosystemic shunting (PSS)**, manifesting as a spectrum of neurological/psychiatric abnormalities from subclinical alterations to coma. *HE is a continuum*, not a single entity [[aasld-easl-2014-hepatic-encephalopathy]]. HE can occur without [[cirrhosis]] when simple portosystemic shunting is present; the American College of Gastroenterology (ACG) 2026 reframes it as a **gut–brain axis disorder** ([[disorders-of-gut-brain-interaction|disorder of gut–brain interaction (DGBI)]] framing) and de-emphasizes ammonia throughout [[acg-2026-hepatic-encephalopathy]].
@@ -63,6 +63,10 @@ Hepatic encephalopathy (HE) is **brain dysfunction caused by liver insufficiency
 - **CHE** = MHE + West Haven Grade 1 combined.
 - **OHE** = Grades 2–4 (clinically detectable); a **defining decompensating event** in cirrhosis.
 - **Triage:** WHC + GCS identify high-grade HE requiring step-down/intensive care unit (ICU) transfer to prevent complications such as aspiration pneumonia (ACG 2026, Key concept 9).
+  - **West Haven 3–4 or GCS <12 = severe impairment, aspiration risk → ICU where possible; GCS <9 → consider intubation** ([[aasld-easl-2026-aclf-global-consensus|2026 global multisociety acute-on-chronic liver failure (ACLF) consensus]], Statement 41, C1). Grade 3–4 course is unpredictable → early high-dependency/ICU referral.
+  - ⚠ [[aasld-2024-aclf|American Association for the Study of Liver Diseases (AASLD) 2024 ACLF guidance]] (Guidance Statement 4) put the severe cutoff at GCS <8; the newer 2026 consensus supersedes it.
+- **In [[acute-on-chronic-liver-failure|ACLF]]:** West Haven 3–4 (or mechanical ventilation for HE) = organ failure; West Haven 2 = organ dysfunction (2026 consensus, Statement 11, A1) — full organ table and grading on the ACLF page.
+- **Wording (2026 consensus, ungraded):** call altered mental status in cirrhosis/ACLF **"acute encephalopathy"**, never "brain failure"; it is not a synonym for HE, which may coexist with other cerebral or systemic causes.
 
 ### Classification / Typing
 
@@ -118,7 +122,9 @@ Every bout should be characterized along **all axes simultaneously** — the 201
 - Psychiatric disorders
 - Intracranial bleeding and stroke; recent head trauma, falls, seizures, surgery
 - Severe metabolic stress (organ failure, systemic inflammation)
-- Uremic encephalopathy (may coexist in acute-on-chronic liver failure [ACLF] — see [[acute-on-chronic-liver-failure]])
+- Uremic encephalopathy (may coexist in ACLF)
+
+**Up to one-quarter of patients with cirrhosis first thought to have HE have an alternative or additional cause** (2026 consensus).
 
 **In cirrhosis with *cognitive complaints* (not overt confusion),** a large proportion have something other than MHE — specifically assess for **obstructive sleep apnea, alcohol-related conditions, and mild cognitive impairment**, ideally in a specialized clinic, especially with isolated delayed-memory or isolated sleep complaints (ACG 2026, Key concept 4).
 
@@ -129,8 +135,10 @@ Every bout should be characterized along **all axes simultaneously** — the 201
 ### Diagnosing OHE
 
 - **Clinical** — WHC + GCS; GCS is operationally robust for Grades 3–4 and supplements WHC
-- **Brain imaging:** in cirrhosis + confusion **without new-onset focal neurologic deficits, routine brain imaging is NOT required** (ACG 2026, Rec 6, *conditional, very low certainty*). Computed tomography (CT)/magnetic resonance imaging (MRI) does not diagnose or grade HE; obtain it for **focal neurologic deficits, seizures, or HE not responding to therapy**, to look for subdural/subarachnoid hemorrhage, stroke, or brain lesion
-  - ⚠ **Contradiction:** [[aasld-easl-2014-hepatic-encephalopathy]] advised a brain scan as "usually part of the diagnostic workup of first-time HE," citing an **at-least-5-fold increased risk of intracerebral hemorrhage** in cirrhosis. ACG 2026 supersedes this on newer data showing low yield of head CT and low likelihood of intracranial hemorrhage in cirrhosis with altered mental status
+- **Workup of acute encephalopathy in cirrhosis/ACLF:** routine labs, blood ammonia, toxicology where indicated, and **brain imaging**; lumbar puncture or EEG only in selected cases (2026 ACLF consensus, ungraded)
+- **Brain imaging — guidelines disagree:**
+  - ACG 2026 Rec 6 (*conditional, very low certainty*): cirrhosis + confusion **without new focal neurologic deficits → routine brain imaging NOT required**; computed tomography (CT)/magnetic resonance imaging (MRI) does not diagnose or grade HE — obtain it for **focal deficits, seizures, or HE not responding to therapy** (low head-CT yield in newer data)
+  - ⚠ The newer 2026 consensus lists brain imaging in the workup, as did [[aasld-easl-2014-hepatic-encephalopathy]] ("usually part of the workup of first-time HE"; **≥5-fold intracerebral hemorrhage risk** in cirrhosis)
 - **Precipitant search is part of the diagnosis:** thorough evaluation for bleeding, infection (pan-culture, **diagnostic paracentesis**, chest x-ray), sedating medications, and toxic/metabolic abnormalities (ACG 2026, Key concept 10). Do **not** start empirical broad-spectrum antibiotics absent symptoms or lab findings of active infection; tailor or stop quickly based on cultures
 
 ### Diagnosing MHE and CHE
@@ -169,7 +177,9 @@ Every bout should be characterized along **all axes simultaneously** — the 201
 - **Do not use serum ammonia alone to diagnose MHE/CHE** (ACG 2026, Rec 2, *conditional, very low certainty*)
 - **Suggest against routine ammonia testing to guide inpatient HE treatment decisions** (ACG 2026, Rec 5, *conditional, very low certainty*)
 - **Do not use ammonia to guide initiation or titration of therapy, or to evaluate recurrence, in the outpatient setting** (ACG 2026, Key concept 14)
-- **A normal ammonia in altered mental status should prompt consideration of other diagnoses** (ACG 2026, Key concept 11) — low/normal ammonia has negative predictive value for HE as the cause. Elevated ammonia adds no diagnostic, staging, or prognostic value in chronic liver disease ([[aasld-easl-2014-hepatic-encephalopathy]], Rec 9, Grade II-3, A, 1)
+- **Check blood ammonia in the workup of acute encephalopathy: elevated supports HE; normal makes HE unlikely → look for other causes** (2026 ACLF consensus, ungraded; same as ACG 2026 Key concept 11 — low/normal ammonia has negative predictive value)
+  - ⚠ **Older guidance disagrees:** AASLD 2024 ACLF Guidance Statement 11 — routine ammonia testing in cirrhosis with altered mental status not recommended; [[aasld-easl-2014-hepatic-encephalopathy|2014 guideline]] Rec 9 (Grade II-3, A, 1) — elevated ammonia adds no diagnostic, staging, or prognostic value. The 2026 consensus is newer and wins for the diagnostic workup
+  - Diagnostic test only — not a guide for starting, titrating, or judging therapy (ACG 2026 Rec 5, Key concept 14 above)
 
 ### Nonresponse to Therapy — What to Re-Test
 
@@ -192,6 +202,8 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 3. Identification and correction of precipitating factors — **nearly 90% can be treated by precipitant correction alone**
 4. Commencement of empirical HE treatment
 
+- **Intubated patients with cirrhosis/ACLF: sedate with short-acting agents (propofol, dexmedetomidine); avoid benzodiazepines** (2026 ACLF consensus, Statement 42, B1) — titrate to the minimum, interrupt regularly for neurological reassessment
+
 ### Lactulose
 
 *Drug page: [[lactulose]].*
@@ -199,7 +211,7 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 - **First-line for OHE to improve outcomes and prevent recurrence** (ACG 2026, Rec 7, *strong, moderate certainty*; 2014 Rec 19, Grade II-1, B, 1)
 - **First-line outpatient secondary prophylaxis after an initial OHE episode, titrated to 2–3 soft bowel movements daily** (ACG 2026, Rec 10, *strong, high certainty*; 2014 Rec 25, Grade II-1, A, 1)
 - **Acute dosing:** 10–20 g (15–30 mL) **every 2 h** until 2 soft bowel movements (BMs), then reduce to **2–4× daily** to maintain 2–3 BMs/day
-- **Grade 3–4 / unable to swallow / aspiration risk:** nasogastric administration at similar dosing, **or** lactulose enema with preserved anal sphincter tone — **200 g lactulose (or 300 mL solution) in 700 mL water or saline, retained 30–60 min, repeated every 4–6 h** until mental status improves
+- **Grade 3–4 / unable to swallow / aspiration risk:** nasogastric administration at similar dosing, **or** lactulose enema with preserved anal sphincter tone — **200 g lactulose (or 300 mL solution) in 700 mL water or saline, retained 30–60 min, repeated every 4–6 h** until mental status improves. **Impaired gastrointestinal motility → rectal route may be preferable** (2026 ACLF consensus)
 - **Titrate with the [[bristol-stool-form-scale|Bristol Stool Scale]] (BSS) plus BM frequency** to reduce readmissions (ACG 2026, Rec 11, *conditional, very low certainty*). BSS ≥5 → cut back lactulose, or add [[rifaximin]] if already on lactulose. BSS ≥5 *before* starting lactulose → consider a non-laxative therapy de novo for adherence
 - **Overuse harms:** perianal skin irritation/infection, ileus, aspiration, dehydration, hypernatremia, hypokalemia — each can itself precipitate HE
 - **ICU/intubated patients:** titrate on bowel movements (mental status not assessable); with a fecal management system, **hold lactulose and other laxatives if >300 mL stool/day**; watch for hypernatremia and aspiration
@@ -212,17 +224,17 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 - **Recurrent episodes despite lactulose maintenance → add rifaximin** (ACG 2026, Rec 13, *strong, high certainty*; 2014 Rec 26 placed this after the second episode)
 - **Dose: 550 mg twice daily (BID)** (FDA-approved for reduction in risk of OHE recurrence). Pivotal randomized controlled trial (RCT) (299 patients, ≥2 OHE episodes in prior 6 months, 91% on lactulose): **58% relative risk reduction in breakthrough OHE (number needed to treat [NNT] 4)** and **50% reduction in HE-related hospitalization (NNT 9)** at 6 months
 - **Combination > monotherapy:** monotherapy data exist but the preponderance of evidence favors rifaximin **with** lactulose in patients who tolerate dual therapy
-- **In the ICU, rifaximin adds little** — especially on broad-spectrum antibiotics; a double-blind trial found similar OHE reversal with antibiotics alone
+- **Critically ill (incl. ACLF) on broad-spectrum antibiotics: no routine rifaximin add-on for OHE reversal** (2026 ACLF consensus; ACG 2026) — a double-blind trial found similar OHE reversal with antibiotics alone
 - Cost drives adherence — even brief lapses in rifaximin are associated with readmission; assess affordability per patient
 
 ### Alternative / Adjunct Therapies
 
 | Agent | Recommendation | Comment |
 |---|---|---|
-| **High-volume polyethylene glycol (PEG) (e.g., 4 L)** | ACG 2026 Rec 8 (*conditional, low certainty*) — alternative to lactulose | RCT: faster HE resolution than standard lactulose; oral (PO) or nasogastric (NG). Favor when lactulose causes abdominal discomfort, gas distension, or ileus |
+| **High-volume polyethylene glycol (PEG) (e.g., 4 L)** | ACG 2026 Rec 8 (*conditional, low certainty*) — alternative to lactulose | RCT: faster HE resolution than standard lactulose; oral (PO) or nasogastric (NG). Favor when lactulose causes abdominal discomfort, gas distension, or ileus; an option in selected critically ill patients (2026 ACLF consensus) |
 | **Zinc** | ACG 2026 Rec 14 (*conditional, very low certainty*) — add for persistent symptoms despite lactulose + rifaximin **in those with low blood zinc** | Cofactor in the urea cycle; efficacy data conflicting but safe adjunct |
 | Oral branched-chain amino acids (BCAAs) | 2014 Rec 21 (Grade I, B, 2) — alternative/additional for OHE not responding to conventional therapy | IV BCAAs have no effect on episodic bouts |
-| **LOLA (L-ornithine L-aspartate)** | 2014 Rec 22 (Grade I, B, 2) — IV, alternative/additional for refractory OHE. **[[baveno-viii-2026-portal-hypertension\|Baveno VIII]] 6.13 (new, level of evidence [LoE] 3, weak): LOLA "can be considered" in recurrent/persistent HE** | Oral LOLA ineffective per the 2014 guideline. Baveno VIII does not specify route or dose; take the dose from the primary trials. Baveno VIII also counts LOLA alongside lactulose and rifaximin as an "HE medication" that must be **stopped** before a patient can be called [[cirrhosis\|recompensated]] (7.4b, 7.7) |
+| **LOLA (L-ornithine L-aspartate)** | 2014 Rec 22 (Grade I, B, 2) — IV, alternative/additional for refractory OHE. **[[baveno-viii-2026-portal-hypertension\|Baveno VIII]] 6.13 (new, level of evidence [LoE] 3, weak): LOLA "can be considered" in recurrent/persistent HE**. **Grade 3–4 HE: IV LOLA + lactulose + rifaximin beat lactulose + rifaximin** (lower HE grade, faster recovery, lower 28-day mortality; 2026 ACLF consensus, ungraded) | Not available in many countries. Oral LOLA ineffective per the 2014 guideline. Baveno VIII does not specify route or dose; take the dose from the primary trials. Baveno VIII also counts LOLA alongside lactulose and rifaximin as an "HE medication" that must be **stopped** before a patient can be called [[cirrhosis\|recompensated]] (7.4b, 7.7) |
 | l-carnitine | ACG 2026 Key concept 7 — second-line for MHE/CHE | Consider when concomitant skeletal muscle cramps |
 | Neomycin | 2014 Rec 23 (Grade II-1, B, 2) | Long-term ototoxicity/nephrotoxicity |
 | Metronidazole | 2014 Rec 24 (Grade II-3, B, 2) — short-term only | Neurotoxicity/nephrotoxicity |
@@ -311,9 +323,11 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 
 ## Sources
 
-1. [[acg-2026-hepatic-encephalopathy|ACG Clinical Guideline: Hepatic Encephalopathy (2026)]]
-2. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
-3. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
-4. [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease]]
-5. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
-6. [[ishen-2013-nutrition-hepatic-encephalopathy|The Nutritional Management of Hepatic Encephalopathy in Patients With Cirrhosis: ISHEN Consensus (2013)]]
+1. [[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]
+2. [[acg-2026-hepatic-encephalopathy|ACG Clinical Guideline: Hepatic Encephalopathy (2026)]]
+3. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
+4. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+5. [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease]]
+6. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+7. [[ishen-2013-nutrition-hepatic-encephalopathy|The Nutritional Management of Hepatic Encephalopathy in Patients With Cirrhosis: ISHEN Consensus (2013)]]
+8. [[aasld-2024-aclf|AASLD 2024 Practice Guidance on Acute-on-Chronic Liver Failure]]
