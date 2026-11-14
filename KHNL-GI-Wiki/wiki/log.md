@@ -34,6 +34,8 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 **Hygiene fixes:** index source counts reconciled on 11 touched pages (several were already stale).
 
+**Deck:** 4,526 → 4,543 notes; rebuilt on the server after the push, 0 problems (four over-length notes fixed: f40001, f40021, cd400e); Nextcloud rescanned. Card files restored to www-data ownership.
+
 ---
 
 ## [2026-11-14] update | Card pass — 11 stale/new card files, 3 quality reviews
