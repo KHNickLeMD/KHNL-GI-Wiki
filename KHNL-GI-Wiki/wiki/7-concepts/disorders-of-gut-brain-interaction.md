@@ -3,8 +3,8 @@ title: "Disorders of Gut–Brain Interaction (DGBI)"
 category: concept
 tags: [DGBI, functional-gi, IBS, rome-criteria, biopsychosocial, brain-gut-axis, motility, visceral-hypersensitivity]
 created: 2026-05-15
-updated: 2026-11-05
-sources: [rome-v-2026-dgbi, aga-2021-chronic-gi-pain-dgbi, aga-2018-psychogastroenterology]
+updated: 2026-11-14
+sources: [rome-v-2026-dgbi, rome-v-2026-centrally-mediated-gi-pain, aga-2021-chronic-gi-pain-dgbi, aga-2018-psychogastroenterology]
 ---
 
 ## Contents
@@ -61,7 +61,7 @@ Rome V (2026) classifies **34 adult** and **22 pediatric** DGBI across anatomic 
 | **A. Esophageal** | [[functional-chest-pain\|Functional chest pain]] (A1), [[functional-heartburn\|Functional heartburn]] (A2), [[reflux-hypersensitivity\|Reflux hypersensitivity]] (A3), [[globus\|Globus]] (A4), [[functional-dysphagia\|Functional dysphagia]] (A5) |
 | **B. Gastroduodenal** | Functional [[dyspepsia]] — postprandial distress syndrome (PDS; B1a), epigastric pain syndrome (EPS; B1b); [[nausea-and-vomiting\|Nausea/vomiting]]: chronic nausea vomiting syndrome (CNVS; B2a), [[cyclic-vomiting-syndrome\|cyclic vomiting syndrome (CVS)]] (B2b), [[cannabinoid-hyperemesis-syndrome\|cannabinoid hyperemesis syndrome (CHS)]] (B2c); Belching: supragastric (B3a), gastric (B3b), **inability to belch** (B3c, *new*); [[rumination-syndrome\|Rumination]] (B4) |
 | **C. Bowel** | [[irritable-bowel-syndrome\|irritable bowel syndrome (IBS)]] with subtypes (C1a–d); [[chronic-idiopathic-constipation\|Chronic constipation]] (C2); Functional diarrhea (C3); [[abdominal-bloating-and-distention\|Functional abdominal bloating]] (C4); Unclassified bowel disorders (C5); [[opioid-induced-constipation\|Opioid-induced constipation]] (C6) |
-| **D. Centrally mediated GI pain** | Centrally mediated abdominal pain syndrome (CAPS; D1); **Abdominal migraine** (D2, *new adult diagnosis*); [[narcotic-bowel-syndrome\|Narcotic bowel syndrome]] / opioid-induced GI hyperalgesia (D3) |
+| **D. Centrally mediated GI pain** | [[centrally-mediated-abdominal-pain-syndrome\|Centrally mediated abdominal pain syndrome]] (CAPS; D1); [[abdominal-migraine\|**Abdominal migraine**]] (D2, *new adult diagnosis*); [[narcotic-bowel-syndrome\|Narcotic bowel syndrome]] / opioid-induced GI hyperalgesia (D3) |
 | **E. Gallbladder and [[sphincter-of-oddi-dysfunction\|sphincter of Oddi dysfunction (SOD)]]** | Biliary-type abdominal pain (E1); Dysfunctional gallbladder disorder (E2); Biliary SOD (E3); Pancreatic SOD (E4) |
 | **F. Anorectal** | [[fecal-incontinence\|Fecal incontinence]] (F1); [[proctalgia-syndromes\|Anorectal pain disorders]] (F2a levator ani syndrome, F2b unexplained anorectal pain, F2c proctalgia fugax); [[defecation-disorders\|Dyssynergic defecation]] (F3); **Anorectal sensory dysfunction** (F4, *new*): rectal hyposensitivity (F4a), rectal hypersensitivity (F4b) |
 
@@ -282,7 +282,7 @@ Low-dose antidepressants used for their **pain-modifying properties**, independe
 | Esophageal | — | Rome and Lyon consensuses synchronized for gastroesophageal reflux disease (GERD) and esophageal DGBI; mean nocturnal baseline impedance; Chicago v4.0 esophagogastric junction outflow obstruction criteria |
 | Gallbladder disorder | Cholescintigraphy to identify low ejection fraction | Typical biliary pain suffices — cholescintigraphy no longer recommended; watchful waiting rather than surgery when symptoms are transient |
 | SOD criteria | Sphincter manometry included | Manometry dropped (poor sensitivity/reproducibility) |
-| CAPS | Single category | Two subcategories: A (not associated with physiological events) and B (modified by physiological events but pain remains continuous) |
+| CAPS | Single category; "continuous or nearly continuous" pain | Two subcategories: **A** (not associated with physiological events) and **B** (modified by physiological events but pain remains continuous); "nearly" deleted — criteria and categories on [[centrally-mediated-abdominal-pain-syndrome]] |
 
 ---
 
@@ -298,12 +298,13 @@ Low-dose antidepressants used for their **pain-modifying properties**, independe
 
 ## See Also
 
-[[irritable-bowel-syndrome]], [[dyspepsia]], [[abdominal-bloating-and-distention]], [[gastroparesis]], [[test-and-treat]], [[chronic-idiopathic-constipation]], [[rumination-syndrome]], [[postinfectious-ibs]], [[defecation-disorders]], [[proctalgia-syndromes]], [[fecal-incontinence]], [[nausea-and-vomiting]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[dysphagia]], [[loperamide]], [[biofeedback-therapy]], [[narcotic-bowel-syndrome]], [[ibd-pain-management]], [[functional-heartburn]], [[linaclotide]], [[tenapanor]], [[alosetron]], [[eluxadoline]], [[rifaximin]], [[tegaserod]], [[proton-pump-inhibitors]], [[brain-gut-behavioral-therapy]]
+[[irritable-bowel-syndrome]], [[dyspepsia]], [[abdominal-bloating-and-distention]], [[gastroparesis]], [[test-and-treat]], [[chronic-idiopathic-constipation]], [[rumination-syndrome]], [[postinfectious-ibs]], [[defecation-disorders]], [[proctalgia-syndromes]], [[fecal-incontinence]], [[nausea-and-vomiting]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[dysphagia]], [[loperamide]], [[biofeedback-therapy]], [[narcotic-bowel-syndrome]], [[centrally-mediated-abdominal-pain-syndrome]], [[abdominal-migraine]], [[ibd-pain-management]], [[functional-heartburn]], [[linaclotide]], [[tenapanor]], [[alosetron]], [[eluxadoline]], [[rifaximin]], [[tegaserod]], [[proton-pump-inhibitors]], [[brain-gut-behavioral-therapy]]
 
 ---
 
 ## Sources
 
 1. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
-2. [[aga-2021-chronic-gi-pain-dgbi|AGA Clinical Practice Update on Management of Chronic Gastrointestinal Pain in Disorders of Gut–Brain Interaction: Expert Review]]
-3. [[aga-2018-psychogastroenterology|Best Practice Update: Incorporating Psychogastroenterology Into Management of Digestive Disorders]]
+2. [[rome-v-2026-centrally-mediated-gi-pain|Centrally Mediated Disorders of Gastrointestinal Pain (Rome V, 2026)]]
+3. [[aga-2021-chronic-gi-pain-dgbi|AGA Clinical Practice Update on Management of Chronic Gastrointestinal Pain in Disorders of Gut–Brain Interaction: Expert Review]]
+4. [[aga-2018-psychogastroenterology|Best Practice Update: Incorporating Psychogastroenterology Into Management of Digestive Disorders]]

@@ -3,7 +3,7 @@ title: "Needed Sources — Download List"
 category: overview
 tags: [maintenance, sources]
 created: 2026-09-08
-updated: 2026-11-13
+updated: 2026-11-14
 sources: []
 ---
 
@@ -25,7 +25,6 @@ These documents are **already in `raw/`** at the path shown (each checked with `
 | *GI Guidelines/NCCN/NCCN 2026 Genetic Familial High-Risk Assessment Colorectal Endometrial Esophageal Gastric.pdf* | new source page | Cowden major/minor criteria; PHTS / JPS / PJS surveillance. *(HDGC half closed by [[igclc-2020-hdgc\|IGCLC 2020]].)* | [[cowden-syndrome]], [[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[aga-2022-hamartomatous-polyposis]] |
 | *GI Guidelines/Other/ASCO 2021 Management of Immune-Related Adverse Events with ICI Therapy (Schneider).pdf* | new source page — [Schneider 2021](https://doi.org/10.1200/JCO.21.01440) | MMF / azathioprine / tacrolimus doses in ICI hepatitis; taper endpoints | [[immune-checkpoint-inhibitor-hepatitis]] |
 | *GI Guidelines/Other/ASPEN-SCCM 2016 Nutrition Support Therapy in the Adult Critically Ill Patient (McClave).pdf* | new source page — [McClave 2016](https://doi.org/10.1177/0148607115621863) | metoclopramide / erythromycin doses in EN intolerance | [[nutrition-in-hospitalized-patients]] |
-| *GI Guidelines/EASL/EASL 2026 Baveno VIII - Supplementary Tables S1-S4.pdf* | add to [[baveno-viii-2026-portal-hypertension]] (replaces its "supplementary material is not reproduced" note) | S1 frailty/sarcopenia tools; S4 permanent vs reversible PVT risk factors. S2/S3 (PSVD lists) are already supplied by [[multisociety-2026-psvd-ncpf-criteria]] | [[baveno-viii-2026-portal-hypertension]], [[portal-vein-thrombosis]] |
 | *GI Guidelines/ASGE/ASGE 2020 Endoscopic Removal of Colorectal Lesions - Appendix 4a DOPyS.pdf* and *…Appendix 4b CSPAT.pdf* | add to [[usmstf-2020-endoscopic-removal]] | DOPyS and CSPAT item lists | [[polypectomy]] |
 | *GI RCTs/2023 ENDURO Trial EUS GJ vs Surgical GJ - Additional File 3.pdf* | add to [[kastelijn-2023-enduro-protocol]] | primary/secondary endpoint definitions, incl. the GOOSS table | [[kastelijn-2023-enduro-protocol]], [[eus-gastroenterostomy]] |
 | *GI Guidelines/AGA/AGA 2015 Pancreatic Cysts Clinical Decision Support Tool.pdf* | add to [[aga-2015-asymptomatic-neoplastic-pancreatic-cysts]] | AGA's own cyst decision tree (*Gastroenterology* 2015;148:823) | [[pancreatic-cysts]], [[aga-2015-asymptomatic-neoplastic-pancreatic-cysts]] |
@@ -86,7 +85,8 @@ FDA prescribing information from [DailyMed](https://dailymed.nlm.nih.gov/dailyme
 | AASLD 2021 ascites Figures 2–4 | new-onset ascites, refractory ascites, AKI algorithms | [[aasld-2021-ascites-sbp-hrs]] |
 | AASLD 2022 Wilson disease Figures 2–5 | diagnostic, neurological, family-screening, treatment algorithms | [[aasld-2022-wilson-disease]] |
 | AASLD 2023 portal hypertension Figures 1–4 | staging schema, Rule of Five, AVH management | [[aasld-2023-portal-hypertension]] |
-| Baveno VIII Figure 4 (legible copy) | SSM >55 vs ≥55 kPa. *(Supplementary Tables S1–S4 are in `raw/` — see* In `raw/`, awaiting ingest *above.)* | [[baveno-viii-2026-portal-hypertension]], [[portal-vein-thrombosis]] |
+| Baveno VIII Figure 4 (legible copy) | SSM >55 vs ≥55 kPa | [[baveno-viii-2026-portal-hypertension]] |
+| Baveno VIII **Supplementary Table S3** (drugs/conditions associated with PSVD/NCPF) — a legible copy, or the same list from another source | the table is a raster image in the supplement PDF with no text layer, so statement 8.45's screening list has no content behind it. Tables S1, S2 and S4 from the same file are ingested | [[porto-sinusoidal-vascular-disorder]], [[baveno-viii-2026-portal-hypertension]] |
 | AFS 2024 Figures 1–9 | post-surgical valve types; assessment algorithm | [[afs-2024-ge-valve-after-antireflux-surgery]] |
 | AASLD 2021 ascites Table 9 supplements — **no such supplement exists** (checked 2026-10-22: Table 9 is printed in full in the main article, agents only, no doses); a dosing source is still needed | doses for non-cefotaxime SBP agents | [[spontaneous-bacterial-peritonitis]] |
 | AGA 2019 functional diarrhea / IBS-D — **Figure 1**, the clinical decision support tool for chronic watery diarrhea (>4 weeks). Cited in the article's Summary but absent from the four-page reprint | the guideline's own stepwise testing algorithm | [[chronic-diarrhea]], [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d]] |

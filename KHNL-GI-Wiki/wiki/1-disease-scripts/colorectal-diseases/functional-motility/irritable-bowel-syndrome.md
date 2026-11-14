@@ -41,7 +41,7 @@ Irritable bowel syndrome (IBS) is a [[disorders-of-gut-brain-interaction|disorde
 
 - **Frequency lowered to ≥3 days/month.** The Rome IV threshold is the main reason measured prevalence fell between Rome III and Rome IV — from ~**10% to 4%** — defining a population more severe than what is seen in practice.
 - **"Discomfort" re-added** after removal in Rome IV — patients in some countries experience discomfort without pain.
-- **Pain/discomfort must NOT be continuous** — a **new exclusion**: continuous pain points to **centrally mediated abdominal pain syndrome (Rome V D1)**, not IBS. A patient with unremitting daily pain is not diagnosed with IBS on these criteria.
+- **Pain/discomfort must NOT be continuous** — a **new exclusion**: continuous pain points to [[centrally-mediated-abdominal-pain-syndrome|**centrally mediated abdominal pain syndrome** (Rome V D1)]], not IBS. A patient with unremitting daily pain is not diagnosed with IBS on these criteria.
 - **Menses supportive criterion added**, to separate IBS from menstrual-related symptoms.
 - **6-month duration is no longer required** for clinical (as opposed to research) use — the Rome Clinical Criteria suggest an **8-week** duration to allow exclusion of other diagnoses, with exceptions when the clinician is satisfied that evaluation has excluded other disorders; frequency below the research threshold is permitted if symptoms are bothersome and the qualitative features are met ([[rome-v-2026-dgbi]] — see the disorder of gut–brain interaction page linked above).
 

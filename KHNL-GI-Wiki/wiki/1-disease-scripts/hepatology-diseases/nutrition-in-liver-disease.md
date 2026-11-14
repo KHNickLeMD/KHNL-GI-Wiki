@@ -3,8 +3,8 @@ title: "Nutrition in Liver Disease"
 category: disease-script
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, masld, ald, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-11-12
-sources: [acg-2026-preventive-care-cirrhosis, acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis, borhofen-2016-rfh-npt-cirrhosis, acg-2024-ald, aasld-2020-ald, ishen-2013-nutrition-hepatic-encephalopathy]
+updated: 2026-11-14
+sources: [baveno-viii-2026-portal-hypertension, acg-2026-preventive-care-cirrhosis, acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis, borhofen-2016-rfh-npt-cirrhosis, acg-2024-ald, aasld-2020-ald, ishen-2013-nutrition-hepatic-encephalopathy]
 ---
 
 Malnutrition (most commonly sarcopenia) is a common complication of liver disease, severity-dependent, and independently associated with higher mortality, waitlist mortality, post-transplant mortality, length of stay, and infections. Malnutrition is underrecognized because weight loss is masked by fluid retention ([[ascites]], edema), and [[obesity]] does not exclude sarcopenic obesity.
@@ -98,6 +98,15 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 > **SGA classes are not defined on this page.** [[acg-2025-liver-nutrition]] and [[aasld-2021-malnutrition-cirrhosis]] both use SGA without printing its **A / B / C classes or its history-and-physical domains**. [[hepatic-cysts]] conditions **Model for End-Stage Liver Disease (MELD)-exception eligibility** on an SGA-C score (alongside **Global Leadership Initiative on Malnutrition (GLIM)**, **American Society for Parenteral and Enteral Nutrition (ASPEN)**, and **Nutrition Focused Physical Examination (NFPE)** criteria, likewise not defined here); use the primary SGA instrument (Detsky) and the GLIM/ASPEN consensus criteria to assign the class.
 >
 > **Nutritional Risk Screening 2002 (NRS-2002)** is not used by either liver-specific source; its full scoring table lives on [[nutrition-in-hospitalized-patients]] ([[acg-2016-nutrition-hospitalized]] Table 5) — link there rather than restating it.
+
+**Baveno VIII adds further standardised tools** to the ones above, grouped by what they measure ([[baveno-viii-2026-portal-hypertension]] Supplementary Table S1, cited by statement 4.16):
+
+- **Performance-based:** Fried Frailty phenotype · Short Physical Performance Battery · gait speed — alongside the Liver Frailty Index, handgrip strength and the 6-minute walk test already listed.
+- **Imaging-based:** CT-derived transversal psoas muscle thickness index (TPMT-Index) at L3 · MRI-derived muscle measures — alongside the CT-derived SMI at L3.
+- **Body composition / bedside:** dual-energy X-ray absorptiometry (DEXA) · bioelectrical impedance analysis · ultrasound-based muscle assessment · anthropometric measures.
+
+> [!pearl] Two tools carry the evidence
+> Of everything above, **most supporting evidence exists for the Liver Frailty Index (frailty) and the CT-derived skeletal muscle index at L3 (sarcopenia)** — Baveno VIII names these two as the validated tools ([[baveno-viii-2026-portal-hypertension]]).
 
 ### Definitions
 
@@ -255,3 +264,4 @@ Malnutrition in liver disease is multifactorial:
 5. [[aasld-2020-ald|AASLD 2019/2020 Practice Guidance: Diagnosis and Treatment of Alcohol-Associated Liver Diseases]]
 6. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
 7. [[ishen-2013-nutrition-hepatic-encephalopathy|The Nutritional Management of Hepatic Encephalopathy in Patients With Cirrhosis: ISHEN Consensus (2013)]]
+8. [[baveno-viii-2026-portal-hypertension|Baveno VIII: Advancing Consensus in Portal Hypertension (2026)]]

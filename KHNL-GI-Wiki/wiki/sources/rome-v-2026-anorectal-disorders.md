@@ -5,7 +5,6 @@ tags: [rome-v, dgbi, fecal-incontinence, dyssynergic-defecation, proctalgia, lev
 created: 2026-11-14
 updated: 2026-11-14
 sources: []
-ingest: partial
 ---
 
 ## Bibliographic Info

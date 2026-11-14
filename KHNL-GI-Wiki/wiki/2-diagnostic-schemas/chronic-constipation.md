@@ -77,7 +77,7 @@ Most patients hold misconceptions about normal bowel habit, so the normal range 
 
 ## Differential Diagnosis
 
-**The first fork is IBS with constipation (IBS-C) vs chronic constipation, and Rome V moved it.** Abdominal pain *or discomfort* must be present **≥3 days per month in the last 3 months** to qualify as [[irritable-bowel-syndrome|IBS]] — Rome IV required **≥1 day per week** over the previous 3 months. Rome V also **re-included "abdominal discomfort"** (removed in Rome IV) and added that the pain/discomfort **must not be continuous** (continuous pain points to a centrally mediated abdominal pain syndrome) [[rome-v-2026-dgbi]]. Net effect: **more patients now sort into IBS-C and fewer into chronic constipation** than under Rome IV — the pharmacologic recommendations differ by dose and agent, so the label matters.
+**The first fork is IBS with constipation (IBS-C) vs chronic constipation, and Rome V moved it.** Abdominal pain *or discomfort* must be present **≥3 days per month in the last 3 months** to qualify as [[irritable-bowel-syndrome|IBS]] — Rome IV required **≥1 day per week** over the previous 3 months. Rome V also **re-included "abdominal discomfort"** (removed in Rome IV) and added that the pain/discomfort **must not be continuous** (continuous pain points to [[centrally-mediated-abdominal-pain-syndrome|centrally mediated abdominal pain syndrome]]) [[rome-v-2026-dgbi]]. Net effect: **more patients now sort into IBS-C and fewer into chronic constipation** than under Rome IV — the pharmacologic recommendations differ by dose and agent, so the label matters.
 
 | Alternative | Discriminating feature |
 |---|---|

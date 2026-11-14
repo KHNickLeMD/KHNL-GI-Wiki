@@ -3,7 +3,7 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-11-12
+updated: 2026-11-14
 sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
 ---
 
@@ -135,7 +135,7 @@ Two further definitional changes from Baveno VII: a **cavernoma** is now defined
 - **No MPN driver mutation in primary splanchnic vein thrombosis** → discuss **bone marrow biopsy with haematology irrespective of blood counts** (B.2), especially when no major risk factor is present. After abdominal surgery or pancreatitis, weigh bone-marrow/liver biopsy individually given low yield (C.2)
 
 > [!pearl] One risk factor does not end the workup
-> Combinations are common in splanchnic vein thrombosis (Baveno VII A.1), and it is the **classification** of each factor — not the workup itself — that sets anticoagulation duration: **permanent vs. reversible**, and each permanent one **major (thrombophilia, MPN) vs. non-major** (Baveno VIII 9.5). Full risk-factor list: source Supplementary Table S4.
+> Combinations are common in splanchnic vein thrombosis (Baveno VII A.1), and it is the **classification** of each factor — not the workup itself — that sets anticoagulation duration: **permanent vs. reversible**, and each permanent one **major (thrombophilia, MPN) vs. non-major** (Baveno VIII 9.5). The factor-by-factor table is under [[#Therapeutics]].
 
 **Excluding underlying liver disease** — [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 9.4: comprehensive workup for cirrhosis / compensated advanced chronic liver disease (cACLD) **including [[liver-stiffness-measurement|liver stiffness measurement (LSM)]]**; reserve [[liver-biopsy|liver biopsy]] and [[hepatic-venous-pressure-gradient|hepatic venous pressure gradient (HVPG)]] for inconclusive cases or suspected [[porto-sinusoidal-vascular-disorder|porto-sinusoidal vascular disorder (PSVD)]] / non-cirrhotic portal fibrosis (NCPF). *(Baveno VII 8.34 sent every dysmorphic liver or persistently abnormal liver test to biopsy + HVPG and proposed no LSM cut-off.)*
 
@@ -194,6 +194,21 @@ flowchart TD
 - **≥6 months in all.** ACG 2020 agrees: ≥6 months with no demonstrable thrombophilia and a reversible etiology; **indefinite with thrombophilia** (Conditional, Very Low evidence)
 - **Stopping at 3 months may be considered** after **complete recanalisation of the portal vein**, provided a **reversible risk factor has completely resolved** and **no permanent risk factor** is present (9.8, new)
 - **Extension into SMV and/or splenic vein with no recanalisation at 6 months → continue full-dose anticoagulation a further 6 months**; delayed recanalisation still occurs (9.9)
+
+**Which risk factor is which** — Baveno VIII Supplementary Table S4, *in the absence of cirrhosis*. This is the classification the duration rules above and the algorithm below branch on ([[baveno-viii-2026-portal-hypertension]]).
+
+| Permanent — **major** | Permanent — **not major** | **Reversible** |
+|---|---|---|
+| Myeloproliferative neoplasm | Isolated heterozygous G20210A factor II **or** G1691A factor V mutation | **Local:** abdominal trauma · abdominal surgery · abdominal inflammation or infection |
+| Nocturnal paroxysmal hemoglobinuria | Hyperhomocysteinemia | Estrogen-containing contraception |
+| Antiphospholipid syndrome | Central obesity | Pregnancy |
+| Behçet's disease | High-risk next-generation sequencing (NGS) variants | Cytomegalovirus (CMV) infection |
+| Homozygous **or** heterozygous composite thrombophilia gene mutations | | SARS-CoV-2 infection |
+| Congenital antithrombin, protein C or protein S deficiency | | SARS-CoV-2 vaccination |
+| Active cancer | | |
+| Personal or first-degree family history of deep vein thrombosis | | |
+
+- **The heterozygous distinction is the one to hold on to:** an **isolated** heterozygous factor II G20210A or factor V G1691A mutation is **not major**, while **homozygous or composite heterozygous** thrombophilia mutations are — and that is the difference between therapeutic-dose long-term anticoagulation and a lower dose.
 
 **Long-term anticoagulation after the initial course (9.10):**
 

@@ -96,7 +96,7 @@ Intervention is chosen by **level of pain complexity**; complexity and the need 
 |---|---|
 | Visceral hypersensitivity · overlapping disorder of gut–brain interaction, including IBS and functional dyspepsia | **Brain–gut behavior therapies** — cognitive behavior therapy; acceptance and commitment therapy; hypnosis; mindfulness/relaxation; wellness activities (exercise, sleep hygiene, stress management) |
 | Overlapping depression/anxiety · multiple pain sites/comorbidities | **Augmentation with neuromodulators** including serotonin noradrenergic reuptake inhibitor (SNRI) and selective serotonin reuptake inhibitor (SSRI) — if anxiety or depression present, combine with TCA |
-| Severe disability/impact on ability to work · central sensitization or centrally mediated abdominal pain syndrome (CAPS) | **Intensive pain and psychological management programs** |
+| Severe disability/impact on ability to work · central sensitization or [[centrally-mediated-abdominal-pain-syndrome\|centrally mediated abdominal pain syndrome (CAPS)]] | **Intensive pain and psychological management programs** |
 | Opioid overuse/substance abuse | **Substance abuse referral and psychiatric care** |
 
 *Figure 1B — levels of intervention matched to levels of pain complexity, recreated. ([[aga-2024-ibd-pain]])*

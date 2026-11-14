@@ -3,8 +3,8 @@ title: "Cyclic Vomiting Syndrome (CVS)"
 category: disease-script
 tags: [cyclic-vomiting-syndrome, cvs, dgbi, vomiting, migraine, foregut, motility]
 created: 2026-07-18
-updated: 2026-11-05
-sources: [aga-2024-cvs, aga-2024-chs, rome-v-2026-gastroduodenal-disorders, rome-v-2026-dgbi]
+updated: 2026-11-14
+sources: [aga-2024-cvs, aga-2024-chs, rome-v-2026-gastroduodenal-disorders, rome-v-2026-centrally-mediated-gi-pain, rome-v-2026-dgbi]
 ---
 
 Chronic [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction (DGBI)]] of **stereotyped, recurrent discrete episodes of intense vomiting/retching separated by symptom-free intervals**; strong migraine association. Common (~2% US prevalence, more common in women) but markedly **under-diagnosed and under-treated** — most patients endure years of diagnostic delay and futile testing; half visit the emergency department (ED) ≥1×/yr and 1 in 3 become disabled ([[aga-2024-cvs]]). [[cannabinoid-hyperemesis-syndrome|Cannabinoid hyperemesis syndrome (CHS)]] is a proposed subtype.
@@ -84,7 +84,8 @@ Four phases — recognizing the phase guides treatment ([[aga-2024-cvs]]):
 - functional (chronic) nausea and vomiting syndrome
 - [[gastroparesis]]
 - [[rumination-syndrome]]
-- [[nausea-and-vomiting-of-pregnancy|pregnancy]]; migraine
+- [[nausea-and-vomiting-of-pregnancy|pregnancy]]; migraine headache
+- [[abdominal-migraine]] — the Rome V D2 entity the two overlap with. **The discriminator: in abdominal migraine the pain, not the vomiting, is dominant, and the vomiting is not repetitive.** Pain is not a CVS criterion, but severe abdominal pain is common during vomiting episodes; where episodic pain and severe vomiting coexist the two overlap, and **the predominant symptom directs the primary diagnosis and the treatment approach** ([[rome-v-2026-centrally-mediated-gi-pain]]).
 - **Metabolic/endocrine mimics:** [[acute-hepatic-porphyria]], Addison's disease, hypothyroidism
 - structural: bowel obstruction, [[acute-mesenteric-ischemia|mesenteric ischemia]]
 
@@ -141,7 +142,7 @@ Highest abort probability when taken **early in the prodrome**. **Nearly all pat
 
 ## See Also
 
-[[cannabinoid-hyperemesis-syndrome]], [[nausea-and-vomiting]], [[nausea-and-vomiting-of-pregnancy]], [[gastroparesis]], [[rumination-syndrome]], [[dyspepsia]], [[acute-hepatic-porphyria]], [[disorders-of-gut-brain-interaction]], [[upper-endoscopy]]
+[[cannabinoid-hyperemesis-syndrome]], [[nausea-and-vomiting]], [[nausea-and-vomiting-of-pregnancy]], [[gastroparesis]], [[rumination-syndrome]], [[dyspepsia]], [[acute-hepatic-porphyria]], [[abdominal-migraine]], [[disorders-of-gut-brain-interaction]], [[upper-endoscopy]]
 
 ---
 
@@ -150,4 +151,5 @@ Highest abort probability when taken **early in the prodrome**. **Nearly all pat
 1. [[aga-2024-cvs|AGA Clinical Practice Update on Diagnosis and Management of Cyclic Vomiting Syndrome (2024)]]
 2. [[aga-2024-chs|AGA Clinical Practice Update on Diagnosis and Management of Cannabinoid Hyperemesis Syndrome (2024)]]
 3. [[rome-v-2026-gastroduodenal-disorders|Gastroduodenal Disorders (Rome V, 2026)]]
-4. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+4. [[rome-v-2026-centrally-mediated-gi-pain|Centrally Mediated Disorders of Gastrointestinal Pain (Rome V, 2026)]]
+5. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
