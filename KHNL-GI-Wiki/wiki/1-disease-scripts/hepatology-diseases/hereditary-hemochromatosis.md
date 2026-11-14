@@ -3,12 +3,9 @@ title: "Hereditary Hemochromatosis"
 category: disease-script
 tags: [hemochromatosis, iron-overload, hfe, c282y, phlebotomy, liver, hpb, genetics, ferritin, transferrin-saturation, cirrhosis, hcc, arthropathy, cardiomyopathy, endocrine]
 created: 2026-05-19
-updated: 2026-11-12
+updated: 2026-11-14
 sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld-2011-hemochromatosis]
----
-
-# Hereditary Hemochromatosis
-
+quality_reviewed: 2026-11-14
 ---
 
 ## Contents
@@ -36,124 +33,110 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 - [[#See Also]]
 - [[#Sources]]
 
----
-
 ## Assessment
 
 ### Establishing the Diagnosis
 
-**Definition** [[acg-2019-hereditary-hemochromatosis]]: An inherited iron overload disorder caused by deficiency of hepcidin (or decreased binding of hepcidin to ferroportin), leading to excessive intestinal iron absorption and progressive organ iron deposition.
+**Definition:** hereditary hemochromatosis (HH) = inherited iron overload from deficiency of hepcidin, or decreased binding of hepcidin to ferroportin → excessive intestinal iron absorption and progressive organ iron deposition ([[acg-2019-hereditary-hemochromatosis]]). Hepcidin/ferroportin physiology: [[iron-overload-and-iron-metabolism]].
 
-**Pathophysiology** [[iron-overload-and-iron-metabolism]]:
+**Who to test:**
 
-- Hepcidin, produced in the liver, normally binds ferroportin-1 (FPN1) on enterocytes and macrophages, triggering its internalization and degradation, thereby limiting iron export
-- In hereditary hemochromatosis (HH), deficient or ineffective hepcidin → unregulated iron efflux from duodenal enterocytes → systemic iron accumulation
-- Iron deposits preferentially in hepatocytes (periportal distribution) in HFE-related HH; Kupffer cells are spared (contrast with secondary iron overload)
+- Symptomatic patients, asymptomatic patients with elevated alanine aminotransferase (ALT)/aspartate aminotransferase (AST), and adult first-degree relatives of a patient with HH → serum transferrin saturation (TS) + serum ferritin (SF) ([[acg-2019-hereditary-hemochromatosis]])
+- All patients with abnormal liver chemistries in the absence of acute hepatitis → serum iron, TS, SF; *HFE* genotyping if TS ≥45% and/or SF elevated ([[acg-2017-liver-chemistries]], Rec 7, strong/very low)
 
-**HFE Genotypes and Clinical Significance**:
+**Manifestations by organ:**
 
-| Type | Gene / Mutation | Inheritance | Clinical |
-|------|----------------|-------------|---------|
-| 1A | *HFE* C282Y/C282Y | Autosomal recessive (AR) | Most common; arthropathy, liver disease, diabetes, hypogonadism, cardiomyopathy, bronze skin |
-| 1B | *HFE* C282Y/H63D | AR | Compound heterozygote; penetrance 0.5–2%; clinical disease rare without cofactors |
-| 1C | *HFE* S65C (+ C282Y) | AR | Modest iron elevation; no pathologic iron overload without C282Y |
-| 2A | *HJV* (hemojuvelin) | AR | Juvenile HH; onset <30 y; severe hypogonadism + cardiomyopathy |
-| 2B | *HAMP* (hepcidin) | AR | Juvenile HH; same phenotype as 2A |
-| 3 | *TFR2* | AR | Similar to type 1A phenotype |
-| 4A | *SLC40A1* (FPN), loss of function | Autosomal dominant (AD) | Ferroportin disease; splenic iron deposition dominant; may have anemia |
-| 4B | *SLC40A1* (FPN), resistance to hepcidin | AD | Fatigue, joint pain |
+| Organ | Manifestations |
+|---|---|
+| Liver | Elevated liver enzymes, hepatomegaly, fibrosis, [[cirrhosis]], [[hepatocellular-carcinoma\|hepatocellular carcinoma (HCC)]] |
+| Endocrine | Hyperglycemia, diabetes mellitus, hypogonadism, testicular atrophy, amenorrhea, loss of libido, hypopituitarism |
+| Joints | Arthralgia, arthritis, chondrocalcinosis — predominantly 2nd/3rd metacarpophalangeal (MCP) joints; hook-shaped osteophyte of the metacarpal head |
+| Skin | Hypermelanotic pigmentation (bronze skin) |
+| Heart | Cardiomyopathy, arrhythmias, heart failure |
 
-- **H63D or S65C alone (without C282Y)** does NOT cause iron overload; counsel patients accordingly [[acg-2019-hereditary-hemochromatosis]]
-- Non-HFE types are rare; consider in younger patients (<30 y) or those with atypical endocrine/cardiac involvement without HFE mutations
+- Fatigue + arthralgias are the most common early symptoms; men present in the 4th–5th decade, women usually postmenopausal
+- Penetrance is incomplete — biochemical (elevated TS ± SF) ~75% of men and ~50% of women, but clinically manifest iron-overload disease only 28.4% of men and 1.2% of women
 
-**Epidemiology**:
+**Hepatic iron distribution** (Perls' Prussian blue stain):
 
-- HFE-related HH prevalence ~1:200–400 persons of northern European descent
-- C282Y allele frequency ~6.2% in European populations; homozygosity ~0.44% in non-Hispanic whites
-- Biochemical penetrance: 75% in men, 50% in women (elevated transferrin saturation [TS] ± serum ferritin [SF])
-- Clinical disease (iron overload-related symptoms): ~28% of men, ~1.2% of women (Melbourne Collaborative Cohort Study, n=31,192)
-- Symptomatic manifestations most common in 4th–5th decade in men; post-menopause in women (menses provide natural iron depletion)
+| Disorder | Where the iron is |
+|---|---|
+| *HFE*-related (type 1), juvenile (type 2), *TFR2* (type 3) | Periportal hepatocytes, little or no Kupffer cell iron; spreads midzonal then centrilobular as accumulation continues |
+| Ferroportin disease (type 4) | Preferentially Kupffer cells |
+| Secondary iron overload | Kupffer and reticuloendothelial cells, sparse hepatocyte iron, no periportal-to-pericentral gradient |
 
-**Secondary Iron Overload** (important differential) [[acg-2019-hereditary-hemochromatosis]]:
-
-- Iron-loading anemias: thalassemia major, sickle cell disease, hemoglobin H, hereditary spherocytosis, aplastic anemia, pyruvate kinase deficiency
-- Parenteral iron overload: red blood cell (RBC) transfusions, iron-dextran injections, long-term hemodialysis
-- Chronic liver disease: porphyria cutanea tarda, [[hepatitis-c|hepatitis C]], [[chronic-hepatitis-b|hepatitis B]], [[alcohol-associated-liver-disease]], [[nafld-masld|nonalcoholic fatty liver disease (NAFLD)]]/dysmetabolic iron overload syndrome
-- Miscellaneous: malignancy ([[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]], breast cancer, hematologic), chronic inflammatory states (systemic lupus erythematosus [SLE], rheumatoid arthritis [RA])
-- Key diagnostic distinction: secondary iron overload shows iron deposition predominantly in Kupffer cells/reticuloendothelial system; HFE-related HH shows periportal hepatocyte-predominant iron with Kupffer cell sparing (Perls' Prussian blue stain); magnetic resonance imaging (MRI) can distinguish by splenic iron deposition (present in FPN disease and secondary overload, absent in HFE-related HH)
-
-**Specific Cofactors Elevating SF/TS Without HH**:
-
-- NAFLD/dysmetabolic iron overload syndrome: SF elevated from hepcidin downregulation via insulin resistance; TS usually normal
-- Alcohol use disorder (AUD) ([[alcohol-associated-liver-disease]]): SF elevated via ethanol-mediated hepcidin transcription downregulation; AUD is more common than HH in patients with elevated SF who are not C282Y homozygotes
-- [[hepatitis-c|Hepatitis C]]: iron accumulation in hepatocytes and Kupffer cells; 30–40% have elevated SF/TS
-- Chronic inflammation: hepcidin upregulation causes anemia of chronic disease (functional iron sequestration) — TS typically low, SF elevated
+- Magnetic resonance imaging (MRI) makes the same distinction non-invasively: splenic iron deposition is **absent** in *HFE*-related HH, **present** in ferroportin disease and secondary iron overload
 
 ### Severity Assessment
 
-**Markers of advanced disease requiring [[liver-biopsy|liver biopsy]]** ([[acg-2019-hereditary-hemochromatosis]]; no Grading of Recommendations Assessment, Development and Evaluation [GRADE] rating — evidence narrative, not a numbered recommendation):
+- SF **>1,000 ng/mL** in a C282Y homozygote → [[liver-biopsy|liver biopsy]] to stage fibrosis
+- SF **<1,000 ng/mL** in a C282Y homozygote → biopsy **not** indicated unless a concurrent risk factor for cirrhosis is present; absent such risk factors, <2% have advanced fibrosis or cirrhosis. Biopsy may still be done if exam, labs, or imaging show clinical features of advanced fibrosis
+- SF is a more accurate predictor of fibrosis than hepatic iron concentration (HIC). [[liver-stiffness-measurement|Transient elastography]] is not validated in HH — readings did not correlate with SF
 
-- SF **>1,000 ng/mL** in a C282Y homozygote → liver biopsy for fibrosis staging
-- SF **<1,000 ng/mL** in a C282Y homozygote → biopsy **not** indicated **unless a concurrent risk factor for [[cirrhosis]] is present**; absent such risk factors, <2% have advanced fibrosis or cirrhosis. (Biopsy may still be considered if exam, labs, or imaging show clinical features of advanced fibrosis.)
-- **Combination rule for cirrhosis:** SF >1,000 ng/mL **plus** elevated aminotransferases **plus** low platelet count predicts cirrhosis in **>80%** of C282Y homozygotes — any one alone does not
+> [!pearl] Three findings together, not one, predict cirrhosis
+> In C282Y homozygotes, SF >1,000 ng/mL **plus** elevated aminotransferases **plus** a low platelet count predicts cirrhosis in **>80%**; any one alone does not ([[acg-2019-hereditary-hemochromatosis]]). [[aasld-2011-hemochromatosis]] gives the platelet cutoff as <200 × 10⁹/L.
 
-**Histologic criteria for type 1 HH** (Perls' Prussian blue + hematoxylin and eosin (H&E) + Masson's trichrome):
+**Histologic criteria for type 1 HH** (hematoxylin and eosin [H&E] + Masson's trichrome + Perls' Prussian blue):
 
-1. Grade 4 stainable iron in hepatocytes with periportal distribution (sparing Kupffer cells)
-2. Hepatic iron concentration (HIC) >71 µmol/g dry weight
-3. Hepatic iron index (HII = HIC ÷ patient age in years) >1.9 (the guideline uses ≥1.9 when contrasting homozygotes with compound heterozygotes/secondary overload)
+1. Grade 4 stainable iron in hepatocytes with periportal distribution, no stainable iron in Kupffer cells
+2. HIC >71 µmol/g dry weight
+3. Hepatic iron index (HII = HIC ÷ age in years) >1.9
 
-**What "grade 4" means** — [[acg-2019-hereditary-hemochromatosis]] states criterion 1 without defining the scale; [[aasld-2011-hemochromatosis]] supplies it. The **Batts–Ludwig** system grades stainable hepatic iron **1 → 4** by the proportion and zonal distribution of iron-staining hepatocytes, from **zone 1 (periportal) only**, extending to include **zones 2 and 3 (pericentral)**; **grade 4 = panlobular iron deposition**. (A separate semiquantitative "histological hepatic iron index" scores granule size/density in hepatocytes, sinusoidal lining cells, and portal cells — validated but **research-only**, not in clinical use.)
-
-**Fibrosis staging note**: SF level is a better surrogate for fibrosis than HIC for long-term risk. [[liver-stiffness-measurement|Transient elastography]] has not been validated in HH (does not correlate with SF).
+- **Grade 4 = panlobular iron deposition.** The Batts–Ludwig system grades stainable hepatic iron 1→4 by the proportion and zonal distribution of iron-staining hepatocytes, from zone 1 (periportal) only to inclusion of zones 2 and 3 (pericentral) ([[aasld-2011-hemochromatosis]])
+- HII ≥1.9 and/or HIC 71 µmol/g dry weight distinguishes C282Y homozygotes from compound heterozygotes and secondary iron overload
 
 ### Classification / Typing
 
-- **Type 1 (HFE-related)**: most common; types 1A (C282Y/C282Y), 1B (C282Y/H63D), 1C (S65C)
-- **Type 2 (Juvenile HH)**: types 2A (*HJV*) and 2B (*HAMP*); onset <30 years; most severe phenotype
-- **Type 3 (*TFR2*)**: similar to type 1A clinically; rare
-- **Type 4 (Ferroportin disease)**: autosomal dominant; 4A (loss-of-function FPN) and 4B (hepcidin-resistance FPN)
+| Type | Gene / mutation | Inheritance | Clinical |
+|---|---|---|---|
+| 1A | *HFE* C282Y/C282Y | Autosomal recessive (AR) | Most common; arthropathy, skin pigmentation, liver damage, diabetes, hypogonadism, cardiomyopathy |
+| 1B | *HFE* C282Y/H63D | AR | Compound heterozygote; same spectrum, penetrance 0.5–2% unless a cofactor is present |
+| 1C | *HFE* S65C | AR | Possible rise in serum iron/ferritin; no tissue iron deposition |
+| 2A | *HJV* (hemojuvelin) | AR | Juvenile HH; onset <30 y; hypogonadism + cardiomyopathy prevalent |
+| 2B | *HAMP* (hepcidin) | AR | Juvenile HH; same phenotype as 2A |
+| 3 | *TFR2* | AR | Phenotype as in type 1A |
+| 4A | *SLC40A1* (ferroportin), loss of function | Autosomal dominant (AD) | Ferroportin disease; splenic iron deposition very common, lower tolerance of phlebotomy, may have anemia |
+| 4B | *SLC40A1*, resistance to hepcidin | AD | Fatigue, joint pain |
 
----
+- **H63D or S65C without C282Y does not cause pathologic iron overload** — counsel accordingly ([[acg-2019-hereditary-hemochromatosis]], Rec 3, conditional/very low)
+- Non-*HFE* disease is very rare (hemojuvelin iron overload ~1 in 5–6 million) — consider at age <30 y or with endocrine/cardiac presentation and no *HFE* mutation
 
 ## Differential Diagnosis
 
 *Workup: see [[abnormal-liver-chemistries]].*
 
-- Secondary iron overload (see above) — most important differential diagnosis (DDx) when non-C282Y genotype
-- [[alcohol-associated-liver-disease]] — hyperferritinemia very common; AUD more common than HH in patients with elevated SF who are not C282Y/C282Y or C282Y/H63D
-- NAFLD / dysmetabolic iron overload syndrome — elevated SF with normal or near-normal TS; insulin resistance mechanism
-- Hepatitis C — 30–40% elevated SF; iron in both hepatocytes and Kupffer cells
-- [[drug-induced-liver-injury]] — elevated liver enzymes ± hyperferritinemia; Roussel Uclaf Causality Assessment Method (RUCAM)-based exclusion
-- Porphyria cutanea tarda — secondary iron overload; cutaneous blistering
-- Aceruloplasminemia — rare; iron in central nervous system (CNS) as well (movement disorder, dementia, retinal degeneration)
-- [[autoimmune-hepatitis]] — elevated IgG, antinuclear antibody (ANA)/smooth muscle antibody (SMA); histology distinguishes
-- Juvenile hemochromatosis (types 2A/2B) — consider in young patient with cardiomyopathy + hypogonadism without HFE mutations
-- Ferroportin disease (type 4A) — spleen-predominant iron, anemia, may have anemia; AD inheritance
+| Cause | Clue |
+|---|---|
+| [[alcohol-associated-liver-disease\|Alcohol use disorder (AUD)]] | Ethanol downregulates the transcription factor regulating hepcidin → raised SF, TS and hepatic iron |
+| [[nafld-masld\|Nonalcoholic fatty liver disease (NAFLD)]] / dysmetabolic iron overload syndrome | High SF with **normal serum iron**; hepcidin downregulated by insulin resistance |
+| [[hepatitis-c\|Hepatitis C]] | 30–40% have elevated serum iron, SF and TS |
+| Other chronic liver disease | Porphyria cutanea tarda, [[chronic-hepatitis-b\|hepatitis B]] |
+| Iron-loading anemias | Thalassemia major, hemoglobin H, chronic hemolytic and sickle cell anemia, aplastic anemia, pyruvate kinase deficiency, hereditary spherocytosis |
+| Parenteral iron overload | Red blood cell (RBC) transfusions, iron-dextran injections, long-term hemodialysis |
+| Chronic inflammation / malignancy | Systemic lupus erythematosus, rheumatoid arthritis; HCC, breast and hematologic malignancy |
+| Non-*HFE* HH | Juvenile HH (age <30 y, cardiomyopathy + hypogonadism); *TFR2*; ferroportin disease (splenic iron, may have anemia); African iron overload |
+| Miscellaneous | Aceruloplasminemia, congenital atransferrinemia, neonatal iron overload |
 
----
+> [!pitfall] A high ferritin is usually not hemochromatosis
+> Among patients with an elevated SF who are **not** C282Y homozygotes, AUD and NAFLD are far more common than HH ([[acg-2019-hereditary-hemochromatosis]]). SF is an acute-phase reactant and rises without increased iron stores in necroinflammatory liver disease and chronic inflammation; an elevation during acute hepatitis likely does not mean iron overload ([[acg-2017-liver-chemistries]], [[aasld-2011-hemochromatosis]]).
 
 ## Diagnostics
 
 ### Initial Iron Studies (Step 1)
 
-**Transferrin saturation**:
+**Transferrin saturation** — preferred initial screening test; fasting not required.
 
-- Preferred initial screening test; fasting not required
-- TS ≥45% → proceed to HFE genotyping
+- TS ≥45% → proceed to *HFE* genotyping
 - TS **>45%** identifies **97.9–100%** of C282Y homozygotes
-- **A TS <45% does not exclude HH** — younger patients at an earlier stage may sit below the cutoff, and iron overload can be present with elevated SF and a *normal* TS (particularly non–HFE-related overload). Do not stop at a normal TS if SF is elevated.
-- Calculated as: serum iron ÷ total iron-binding capacity (TIBC) × 100; equivalently, unsaturated iron-binding capacity (UIBC) <26 µmol/L has 90% sensitivity and 90% specificity for C282Y homozygosity
+- TS = serum iron ÷ total iron-binding capacity (TIBC) × 100. Unsaturated iron-binding capacity (UIBC) is the inverse and performs comparably: **UIBC <26 µmol/L**, sensitivity 90% and specificity 90% for C282Y homozygosity
 
-**Serum ferritin**:
+**Serum ferritin** — excellent predictor of advanced fibrosis, poor specificity as a screening test.
 
-- Excellent predictor of advanced fibrosis but lacks specificity as screening test (elevated in alcohol-associated liver disease [ALD], NAFLD, chronic inflammation, malignancy)
-- SF <200 ng/mL (premenopausal women) or <300 ng/mL (men/postmenopausal women) with TS <45% → negative predictive value (NPV) 97% for excluding iron overload
-- SF <1,000 ng/mL in a C282Y homozygote, no concurrent cirrhosis risk factor → liver biopsy not indicated
-- SF >1,000 ng/mL → liver biopsy for fibrosis staging
-- SF >2,000 ng/mL at diagnosis → sharply elevated liver-disease and liver-cancer mortality (see [[#Prognosis]])
+- Normal SF = **<200 ng/mL** (premenopausal women) or **<300 ng/mL** (men and postmenopausal women); combined with TS <45%, negative predictive value (NPV) **97%** for excluding iron overload
+- SF **>2,000 ng/mL** at diagnosis marks particularly high risk (see [[#Prognosis]])
 
-**Algorithm** — all C282Y homozygotes proceed to phlebotomy; patients with cirrhosis also need hepatocellular carcinoma screening [[acg-2019-hereditary-hemochromatosis]]:
+> [!pitfall] A normal transferrin saturation does not exclude iron overload
+> Younger patients at an earlier stage may sit below 45%, and iron overload can run with an elevated SF and a *normal* TS — particularly non-*HFE*-related overload ([[acg-2019-hereditary-hemochromatosis]]). Do not stop at a normal TS if the SF is high.
 
 ```mermaid
 flowchart TD
@@ -177,155 +160,138 @@ flowchart TD
 
 ### HFE Genotyping (Step 2)
 
-- Standard clinical test: C282Y, H63D, S65C
-- C282Y/C282Y or C282Y/H63D → diagnostic of type 1 HH
-- H63D or S65C without C282Y → counsel: NOT increased risk of iron overload (Rec 3, Conditional/Very Low); these mutations may modestly affect iron indices but do not cause pathologic iron overload
-- Against additional non-HFE genetic testing in patients with iron overload who are C282Y/H63D negative (Rec 4, Conditional/Very Low); consider in atypical presentations (age <30, severe cardiac/endocrine, no HFE mutations)
+- Standard clinical panel: C282Y, H63D, S65C
+- C282Y/C282Y or C282Y/H63D → type 1 HH
+- Against further genetic testing in iron overload negative for C282Y **and** H63D (Rec 4, conditional/very low) — exclude AUD and NAFLD first, which are far more common; sequence non-*HFE* genes only in atypical cases (younger patient with endocrine or cardiac involvement)
 
-**Family screening**:
+**Family screening:**
 
-- All first-degree relatives of diagnosed HH patients should be screened (Rec 1, Strong/Moderate)
-- For children of C282Y homozygotes: test other parent first; if normal → child is obligate heterozygote → no further testing until age 18 (clinical manifestations rare before 18)
-- Sibling screening is cost-saving vs. serial serum iron studies
+- Screen family members, particularly first-degree relatives, of every patient diagnosed with HH (Rec 1, strong/moderate); [[aasld-2011-hemochromatosis]] does genotype (*HFE*) and phenotype (TS + SF) simultaneously at one visit
+- Adult relative who is homozygous or compound heterozygous with raised SF → start phlebotomy; SF normal → yearly iron studies
+- **Children of a proband:** test the other parent first — normal → the child is an obligate heterozygote and needs no further testing. Other parent untestable → do not test the child until age 18 y (manifestations rarely present before then)
 
 ### Liver Biopsy
 
-**Indications**:
+**Indications:**
 
-- SF >1,000 ng/mL in C282Y homozygote (to stage fibrosis and exclude concurrent liver disease)
-- Clinical features of advanced fibrosis on exam/labs/imaging regardless of SF level
-- Non-HFE patient with elevated HIC on MRI + SF >1,000 ng/mL (to stage and rule out alternate liver disease)
-- Compound heterozygote or H63D homozygote with HIC elevation (to rule out secondary liver disorders and evaluate fibrosis stage)
+- C282Y homozygote with SF >1,000 ng/mL — stage fibrosis and exclude concurrent liver disease
+- Clinical features of advanced fibrosis on exam, labs, or imaging at any SF
+- Compound heterozygote or H63D homozygote, particularly with SF >1,000 ng/mL — rule out secondary liver disorders, measure HIC and fibrosis stage
+- Non-C282Y homozygote with elevated HIC + SF >1,000 ng/mL
+- Preferred over MRI whenever fibrosis staging or evaluation for alternate liver disease is also needed
 
-**Key stains**: H&E (hepatocyte architecture), Masson's trichrome (fibrosis staging), Perls' Prussian blue (iron distribution)
-
-**HII**: HIC (µmol/g dry weight) ÷ patient age; ≥1.9 distinguishes HFE homozygotes from compound heterozygotes and secondary iron overload
-
-- ⚠ **A normal HII does not exclude HH.** [[aasld-2011-hemochromatosis]] notes that since genetic testing became available, phenotypic expression of C282Y homozygosity has been shown to occur at **much lower HIC and much lower HII**, so HII is "no longer routinely used." [[acg-2019-hereditary-hemochromatosis]] (newer, and what this page asserts) still lists HII >1.9 as a diagnostic histologic feature — use it to *support* a diagnosis, not to rule one out
+> [!pitfall] A normal hepatic iron index does not exclude hemochromatosis
+> [[aasld-2011-hemochromatosis]] abandoned the HII because phenotypic C282Y homozygosity occurs at much lower HIC and HII than the historic thresholds. [[acg-2019-hereditary-hemochromatosis]] (newer, and what this page follows) still lists HII >1.9 — use it to *support* a diagnosis, never to rule one out.
 
 ### Magnetic Resonance Imaging (MRI)
 
-- MRI T2* (non-contrast, with HIC-estimation software) recommended for non-invasive HIC measurement in non-C282Y patients when liver biopsy is not otherwise required (Rec 5, Conditional/Low)
-- Advantage: distinguishes HFE-related HH (hepatocyte-predominant, splenic sparing) from FPN disease or secondary iron overload (splenic iron deposition visible on MRI)
-- Meta-analysis (20 studies, n=819): NPV of MRI for iron overload 0.83–0.88 (good at ruling out); positive predictive value (PPV) 0.74–0.81 (less useful for confirming)
-- Not validated for fibrosis staging (transient elastography also unvalidated in HH)
+- Non-contrast MRI T2* with HIC-estimation software for non-invasive HIC measurement in the **non-C282Y homozygote** when liver biopsy is not otherwise required (Rec 5, conditional/low)
+- Distinguishes *HFE*-related HH from ferroportin disease and secondary iron overload by splenic iron
+- Better at ruling out than confirming iron overload — NPV 0.83–0.88 vs positive predictive value (PPV) 0.74–0.81 (meta-analysis, 20 studies, n=819)
+- Not validated for fibrosis staging
 
 ### HCC Surveillance
 
-- Patients with HH + cirrhosis: ultrasound (US) ± alpha-fetoprotein (AFP) every 6 months (same criteria as cirrhosis from any cause) [[hepatocellular-carcinoma]]
-- Continue [[hcc-surveillance|HCC surveillance]] even after successful iron depletion (HCC can develop years after iron removal)
-- Against routine HCC surveillance in HH with ≤stage 3 fibrosis (no cirrhosis) (Rec 2, Conditional/Very Low) — data insufficient
-
----
+- HH + cirrhosis → ultrasound (US) ± alpha-fetoprotein (AFP) every 6 months, the same as cirrhosis of any cause ([[hcc-surveillance]])
+- **Continue surveillance after iron depletion is complete** — HCC can develop years after successful iron removal
+- Against routine HCC surveillance in HH with **stage 3 fibrosis or less** (Rec 2, conditional/very low); there are no data on screening without cirrhosis. [[aasld-2011-hemochromatosis]] screened advanced fibrosis as well as cirrhosis — follow the newer ACG position
 
 ## Therapeutics
 
 ### When to Initiate Treatment
 
-**C282Y homozygotes**:
+**C282Y homozygotes:**
 
-- Initiate treatment with SF >300 ng/mL in men or >200 ng/mL in women with TS ≥45%
-- Homozygous patients with SF within normal limits at diagnosis: low likelihood of developing clinically relevant iron overload later; may monitor with serial liver function tests (LFTs) and SF; however, treatment still benefits (reduced cardiovascular [CV] events and extrahepatic cancers shown in retrospective study, even with SF <1,000 ng/mL)
-- SF <1,000 ng/mL is unlikely to represent end-organ damage at time of diagnosis, but 13–35% of untreated men and 16–22% of untreated women will progress to SF >1,000 ng/mL
+- Treat when SF is elevated — **>300 ng/mL in men, >200 ng/mL in women** — along with **TS ≥45%**
+- SF within normal limits at diagnosis → unlikely to develop clinically relevant iron overload later; monitor with serial aminotransferases and SF
+- SF <1,000 ng/mL is unlikely to represent end-organ damage, but treat anyway: **13–35% of untreated men and 16–22% of untreated women progress to SF >1,000 ng/mL**
 
-**C282Y/H63D compound heterozygotes**:
+**C282Y/H63D compound heterozygotes and H63D homozygotes:**
 
-- Risk of clinically relevant iron overload is low; evaluate and treat cofactors (NAFLD, ALD) first
-- Liver biopsy can be considered to rule out secondary liver disease and assess HIC/fibrosis stage
-- If elevated HIC and SF >1,000 ng/mL confirmed → iron removal can proceed
+- Risk of clinically relevant iron overload is low on genotype alone; fibrosis develops mainly with cofactors (NAFLD, diabetes, excess alcohol) — **evaluate and treat those cofactors before considering iron removal**
+- Elevated HIC on biopsy → iron removal can be considered
 
 ### Phlebotomy (First-Line)
 
-**Recommendation**: Phlebotomy is first-line treatment for C282Y homozygotes and C282Y/H63D compound heterozygotes (Rec 6, Strong/Moderate)
+First-line treatment for C282Y homozygotes and C282Y/H63D compound heterozygotes (Rec 6, strong/moderate).
 
-**Protocol**:
+| Phase | Regimen | Monitoring | Target |
+|---|---|---|---|
+| Induction | 500 mL whole blood weekly; up to **1,000 mL** if tolerated to expedite iron removal; smaller volume or longer interval if not tolerated (lengthens treatment) | Hemoglobin before and during treatment — keep **>11 g/dL**; SF **monthly** | SF **50–100 ng/mL** |
+| Maintenance | **3–4 phlebotomies/year** | See [[#Monitoring]] | SF near **50 ng/mL** |
 
-- **Induction phase**: Weekly removal of ~500 mL blood (~200–250 mL RBCs); can increase to 1,000 mL if tolerated to expedite iron removal
-- Check **hemoglobin before each session**: must remain >11 g/dL; if below, reduce volume or increase interval
-- Check **SF monthly** during induction
-- Target: SF 50–100 ng/mL (goal level 50 ng/mL)
-- **Maintenance phase**: 3–4 phlebotomies/year to maintain SF ~50 ng/mL
-- No dietary iron restriction required
-- Avoid vitamin C (ascorbic acid) supplements — increases iron absorption; dietary restriction of red meat and other iron sources is not necessary but a systematic review suggests dietary iron restriction may reduce blood removed by 0.5–1.5 L
-- Blood donation: no universal policy; many blood banks do not accept blood from HH patients; treatment does not prevent patients from being blood donors medically
+- [[aasld-2011-hemochromatosis]] adds: one 500 mL unit removes ~200–250 mg of iron, so stores >30 g may need **2–3 years** of induction; keep the hematocrit/hemoglobin from falling >20% below the prior level; individualise maintenance (monthly to 1–2 units/year — not every patient reaccumulates iron); do not drive the patient to iron deficiency
+- **No dietary iron restriction needed** — eliminating red meat is unnecessary, though a systematic review suggested dietary iron restriction may reduce the blood removed by 0.5–1.5 L
+- **Avoid vitamin C and iron supplements** — ascorbic acid increases iron absorption. Avoid raw shellfish (*Vibrio vulnificus*) ([[aasld-2011-hemochromatosis]])
+- Blood donation: many blood banks decline blood from patients with HH, but phlebotomy does not medically prevent a patient from being a donor
 
-**Effects of phlebotomy on complications**:
+**What iron depletion does and does not fix:**
 
-- **Liver fibrosis**: improves in mild-to-moderate fibrosis; several pre/post-biopsy series show improvement
-- **Cardiomyopathy**: may improve with iron depletion; data limited specifically to proven type 1 HH
-- **Skin pigmentation**: slowly regresses after phlebotomy
-- **Fatigue**: improved in randomized controlled trial (RCT) vs. sham (Ong et al., BMJ Open 2015)
-- **Does NOT improve**: established cirrhosis, arthropathy, diabetes mellitus, hypogonadism
+| Improves | Does not improve |
+|---|---|
+| Liver fibrosis (mainly mild-to-moderate at baseline) and [[portal-hypertension\|portal hypertension]]; abnormal liver tests | Established cirrhosis |
+| Cardiomyopathy | Arthropathy — may progress despite treatment, though some report diminished arthralgias |
+| Skin pigmentation (slowly regresses) | Diabetes |
+| Fatigue and quality of life (randomized trial vs sham) | Hypogonadism (in most cases) |
 
 ### Iron Chelation
 
-**Recommendation**: Against chelation as first-line therapy (Rec 7, Strong/Low)
+- **Against** chelation as first-line therapy for HH (Rec 7, strong/low)
+- **For** chelation when the patient is intolerant or refractory to phlebotomy, or when phlebotomy has potential for harm — severe anemia, congestive heart failure (Rec 8, strong/low)
+- All three agents are approved for **secondary** iron overload; use in HH is **off-label**
 
-**Reserve for** (Rec 8, Strong/Low):
+| Agent | Route | Dose | Notable toxicity |
+|---|---|---|---|
+| Deferoxamine | Subcutaneous or intravenous infusion | 20–60 mg/kg over 8–24 h, 5–7×/week | Retinopathy, auditory toxicity |
+| Deferiprone | Oral | 75–100 mg/kg/d in 3 divided doses | Neutropenia, agranulocytosis |
+| Deferasirox | Oral | 5–15 mg/kg/d in the HH trials | Gastrointestinal (GI) upset, rash, aminotransferase elevation, renal toxicity (>10%) |
 
-- Patients intolerant of phlebotomy
-- Patients for whom phlebotomy is contraindicated (severe anemia, congestive heart failure)
-
-**FDA-approved chelators for secondary iron overload** (used off-label in HH):
-
-- **Deferoxamine** (intravenous [IV]/subcutaneous [SC]): 20–60 mg/kg/d over 8–24 h, 5–7 days/week; adverse effects: retinopathy, auditory toxicity
-- **Deferiprone** (oral): 75–100 mg/kg/d in 3 divided doses; adverse effects: neutropenia, agranulocytosis; approved for transfusion-dependent thalassemia when deferoxamine inadequate
-- **Deferasirox** (oral): most recently approved; gastrointestinal (GI) upset, aminotransferase elevation, renal toxicity (>10% patients); shown effective in HH in small trials (n=49; SF decreased 63.5–74.8% at 48 weeks with 5–15 mg/kg/d)
+- Deferasirox dose-ranging trial (n=49): SF fell 63.5%, 74.8% and 74.1% at 48 weeks on 5, 10 and 15 mg/kg/d, with more aminotransferase and creatinine elevation at 15 mg/kg/d
 
 ### Erythrocytapheresis
 
-- Alternative to phlebotomy; selectively removes RBCs, returns plasma/clotting factors/platelets
-- Removes up to 1,000 mL RBCs per procedure vs. 200–250 mL with phlebotomy
-- Maintenance RCT: 1.9 vs. 3.3 procedures/year (erythrocytapheresis vs. phlebotomy); costs remain higher
-- Particularly useful in patients with hypoproteinemia or thrombocytopenia
-- Volume expansion (isotonic saline, 30% of removed RBC volume) recommended for RBC volumes >500 mL
+- Returns plasma proteins, clotting factors and platelets — particularly useful with hypoproteinemia or thrombocytopenia
+- Removes up to **1,000 mL of RBCs per procedure** vs 200–250 mL with phlebotomy; RBC volume removed usually **350–800 mL**
+- **Every 2–3 weeks**, depending on hemoglobin; minimum targeted post-procedure hemoglobin **≥10 g/dL**
+- Removed RBC volume ≤500 mL → no volume expansion; above that, replace **30% of the removed RBC volume with isotonic saline** during the first procedure
+- In maintenance it is equally effective, with fewer procedures (**1.9 vs 3.3**/year) but higher cost
+- Adverse reactions relate to the citrate anticoagulant — muscle cramps, paresthesias, nausea
 
 ### Proton Pump Inhibitors
 
-**Recommendation**: Against routine use of [[proton-pump-inhibitors|proton pump inhibitors (PPIs)]] as primary treatment for HH (Rec 9, Strong/Low)
-
-- Mechanism: gastric acid facilitates non-heme iron absorption; PPIs reduce dietary iron absorption
-- RCT (n=30 C282Y homozygotes; phlebotomy performed whenever SF >100 ng/mL): pantoprazole 40 mg/d × 12 months **lowered** phlebotomy need — median **1.3 procedures on PPI vs 2.6 on placebo** (P=0.005)
-- If a patient is already on PPIs for another indication, they may incidentally reduce phlebotomy burden; this benefit is acceptable but does not justify PPI prescribing solely for HH
+- **Against** routine use of [[proton-pump-inhibitors|proton pump inhibitors (PPIs)]] as primary treatment of HH (Rec 9, strong/low)
+- Gastric acid releases non-heme iron; PPIs reduce its absorption. Randomized controlled trial (RCT) in 30 C282Y homozygotes, phlebotomy whenever SF >100 ng/mL: pantoprazole 40 mg/d for 12 months gave a median **1.3 procedures vs 2.6 on placebo** (P=0.005)
+- A PPI taken for another indication may incidentally reduce phlebotomy burden — not a reason to start one
 
 ### Treatment of Secondary Iron Overload
 
-- **Iron-loading anemias** (thalassemia, sickle cell): chelation preferred over phlebotomy (phlebotomy risks worsening anemia); SF >800 ng/mL threshold for treatment in non–transfusion-dependent iron-loading anemias
-- **ALD**: screen all patients for AUD and counsel abstinence before pursuing iron removal
-- **Hepatitis C virus (HCV)**: phlebotomy + iron depletion shown to improve virologic response to interferon-based therapy; less relevant in era of [[direct-acting-antivirals|direct-acting antivirals]]
-- **NAFLD**: phlebotomy reduces SF but RCT (Adams et al.) showed no improvement in liver aminotransferases, hepatic fat, or insulin resistance; indications remain controversial
+- **Iron-loading anemias** — chelation preferred over phlebotomy, which risks exacerbating the anemia. In non–transfusion-dependent iron-loading anemias (e.g. thalassemia intermedia) SF underestimates HIC: treat above **SF >800 ng/mL**
+- **AUD** — screen all patients and counsel abstinence rather than proceeding to iron removal
+- **Hepatitis C and NAFLD** — indications remain controversial. Phlebotomy improved virologic response to interferon-based therapy, far less relevant with [[direct-acting-antivirals|direct-acting antivirals]]; in NAFLD it lowered SF but did not improve ALT, hepatic fat, or insulin resistance
 
 ### Liver Transplantation
 
-**Recommendation**: [[liver-transplantation|Liver transplantation (LT)]] considered in patients with HH and decompensated cirrhosis or HCC (Rec 10, Strong/Low)
-
-- LT is curative for liver disease and normalizes hepcidin levels and iron metabolism
-- Historically inferior outcomes reported (more infectious and cardiovascular complications); more recent series show similar 1- and 5-year post-transplant survival vs. other etiologies
-- Pre-transplant iron depletion is preferred but inability to de-iron preoperatively is NOT a contraindication to transplantation
-- HCC in the setting of HH: follow standard HCC transplant criteria (Milan criteria and AFP thresholds are stated on [[hepatocellular-carcinoma]])
+- [[liver-transplantation|Liver transplantation (LT)]] for patients with HH who have decompensated cirrhosis or HCC (Rec 10, strong/low)
+- LT normalizes hepcidin levels and iron metabolism; recent series show 1- and 5-year survival similar to other etiologies
+- Iron depletion before transplant is preferred and should not be deferred where general health permits — but **inability to de-iron preoperatively is not a contraindication** to transplantation
 
 ### Monitoring
 
-- **During induction phlebotomy**: Hemoglobin before each session (maintain >11 g/dL); SF monthly
-- **Maintenance**: SF and TS every 3–6 months; once stable, can extend to annually
-- **Liver disease**: US ± AFP every 6 months in cirrhotic patients (HCC surveillance — continue indefinitely even after iron depletion)
-- **Arthropathy**: radiographs of 2nd/3rd metacarpophalangeal (MCP) joints (hook-shaped osteophyte pathognomonic); joint symptoms may progress despite treatment
-- **Endocrine**: testosterone/luteinizing hormone (LH)/follicle-stimulating hormone (FSH) if hypogonadism suspected; glucose/hemoglobin A1c (HbA1c) for diabetes (does not improve with phlebotomy)
-- **Cardiac**: Electrocardiography (ECG)/echocardiography if symptoms or SF >1,000 ng/mL; cardiomyopathy second leading cause of HH mortality
+- **Maintenance:** SF and TS every 3–6 months; once stable, can extend to annually
+- **Liver:** US ± AFP every 6 months once cirrhotic, continued indefinitely
+- **Joints:** radiographs of the 2nd/3rd MCP joints (hook-shaped osteophyte); symptoms may progress despite treatment
+- **Endocrine:** testosterone / luteinizing hormone / follicle-stimulating hormone if hypogonadism is suspected; glucose and hemoglobin A1c for diabetes
+- **Cardiac:** electrocardiography/echocardiography for symptoms or SF >1,000 ng/mL — cardiovascular deaths occurred predominantly above that level
 
 ### Prognosis
 
-- **Without cirrhosis**: survival not different from general population
-- **With cirrhosis**: significantly reduced survival; HCC accounts for ~45% of deaths
-- **SF >2,000 ng/mL** at diagnosis: standardized mortality ratio ~24 for liver disease; ~49 for liver cancer
-- Biochemical penetrance (75% men, 50% women) and clinical penetrance (~28% men, ~1% women) are both incomplete — majority of C282Y homozygotes never develop serious clinical disease
-- Cofactors markedly worsen prognosis: alcohol (>60 g/d increases cirrhosis risk 9-fold), smoking, hepatitis B/C co-infection
-
----
+- **Cirrhosis at diagnosis is the critical determinant.** Without cirrhosis, survival does not differ from the general population; with cirrhosis it is significantly reduced, and HCC accounts for as much as **45% of deaths**
+- **SF >2,000 ng/mL** at diagnosis: standardized mortality ratio nearly **24** for liver disease, **49** for liver cancer
+- Alcohol **>60 g/d** increases cirrhosis risk **9-fold**; >80 g/d significantly reduces survival. Tobacco smoking also worsens iron overload
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[acute-liver-failure]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[iron-overload-and-iron-metabolism]], [[liver-transplantation]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[noninvasive-liver-disease-assessment]], [[cirrhosis]], [[direct-acting-antivirals]], [[proton-pump-inhibitors]]
+[[abnormal-liver-chemistries]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[iron-overload-and-iron-metabolism]], [[liver-transplantation]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[noninvasive-liver-disease-assessment]], [[cirrhosis]], [[portal-hypertension]], [[direct-acting-antivirals]], [[proton-pump-inhibitors]]
 
 ---
 

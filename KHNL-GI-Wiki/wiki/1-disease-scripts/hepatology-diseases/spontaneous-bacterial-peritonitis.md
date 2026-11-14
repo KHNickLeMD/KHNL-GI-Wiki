@@ -3,13 +3,12 @@ title: "Spontaneous Bacterial Peritonitis"
 category: disease-script
 tags: [sbp, ascites, cirrhosis, peritonitis, cefotaxime, albumin]
 created: 2026-05-15
-updated: 2026-11-01
+updated: 2026-11-14
 sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2023-portal-hypertension]
+quality_reviewed: 2026-11-14
 ---
 
-# Spontaneous Bacterial Peritonitis (SBP)
-
-Spontaneous bacterial peritonitis (SBP) is an infection of [[ascites|ascitic fluid]] in the absence of an obvious intra-abdominal source (i.e., no visceral perforation, abscess, or surgical peritonitis). It occurs almost exclusively in [[cirrhosis|cirrhotic]] patients with [[portal-hypertension|portal hypertension]] and arises from bacterial translocation across a compromised gut barrier combined with impaired peritoneal host defenses.
+Spontaneous bacterial peritonitis (SBP) is infection of [[ascites|ascitic fluid]] occurring without an obvious source of infection. It is one of the "spontaneous" infections unique to [[cirrhosis]] with [[portal-hypertension|portal hypertension]] — together with spontaneous bacteremia and spontaneous bacterial empyema — and is attributed to bacterial translocation from the gut to the bloodstream and other extraintestinal sites combined with decreased host defenses ([[aasld-2021-ascites-sbp-hrs|American Association for the Study of Liver Diseases (AASLD) 2021]]). Bacterial infections are present in roughly one-third of hospitalized patients with cirrhosis.
 
 ---
 
@@ -19,8 +18,17 @@ Spontaneous bacterial peritonitis (SBP) is an infection of [[ascites|ascitic flu
   - [[#Severity Assessment]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
+  - [[#Fluid and Blood Tests]]
+  - [[#Microbiology]]
+  - [[#Response Assessment]]
 - [[#Therapeutics]]
+  - [[#Empiric Antibiotics]]
+  - [[#Albumin]]
+  - [[#Nonselective Beta-Blockers]]
+  - [[#Liver Transplantation]]
   - [[#Prophylaxis]]
+    - [[#Primary Prophylaxis]]
+    - [[#Secondary Prophylaxis]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -30,49 +38,44 @@ Spontaneous bacterial peritonitis (SBP) is an infection of [[ascites|ascitic flu
 
 ### Establishing the Diagnosis
 
-**Core diagnostic criterion: Ascitic fluid PMN (polymorphonuclear / absolute neutrophil) count ≥250 cells/mm³**
+**Threshold: fluid polymorphonuclear leukocyte (PMN) count >250/mm³** — chosen for highest sensitivity, to avoid leaving SBP untreated.
 
-This threshold is chosen for maximal sensitivity to avoid undertreating SBP, as mortality rises significantly with delayed therapy.
+| Fluid finding | Interpretation |
+|---|---|
+| Ascitic PMN count **>250/mm³** | SBP — start intravenous (IV) antibiotics empirically. Diagnosis holds **with or without culture positivity**, provided there is no evidence of secondary peritonitis |
+| Pleural fluid PMN **>250/mm³** in [[hepatic-hydrothorax\|hepatic hydrothorax (HH)]] | Spontaneous bacterial empyema (SBE) — same threshold, with or without culture positivity, no alternative infectious source |
+| PMN **<250/mm³** + positive culture, no signs of infection | Bacterascites — do **not** give antibiotics (usually self-resolves or is a contaminant); repeat diagnostic [[paracentesis]] to look for progression to SBP |
+| PMN **>250/mm³** with a focal intra-abdominal source (diverticulitis, cholecystitis) | Not SBP — treat that condition per standard of care and obtain a surgical consult |
+| Positive blood cultures without a raised fluid PMN count | Spontaneous bacteremia |
 
-| Ascitic Fluid Finding | Interpretation |
-|----------------------|----------------|
-| PMN ≥250/mm³ | Diagnostic of SBP (or spontaneous bacterial empyema [SBE] if pleural fluid) — start antibiotics |
-| PMN <250/mm³ + positive culture + no signs of infection | Bacterascites — do NOT treat; repeat [[paracentesis]] to monitor for progression |
-| PMN ≥250/mm³ + multimicrobial or secondary peritonitis features | Evaluate for secondary bacterial peritonitis (surgical cause) |
+> [!pitfall] Never place a chest tube for spontaneous bacterial empyema
+> Although "empyema" carries the implicit need for drainage, a chest tube should not be placed in SBE — treat with antibiotics as for SBP ([[aasld-2021-ascites-sbp-hrs]]).
 
-**Culture-negative SBP (culture-negative neutrocytic ascites):**
+**When to perform a diagnostic tap**
 
-- PMN ≥250/mm³ with no organism isolated
-- Treated identically to culture-positive SBP
-- Yield increased to >90% by inoculating ≥10 mL of ascitic fluid at the bedside directly into aerobic and anaerobic blood culture bottles before antibiotic administration
+- **All hospitalized patients with cirrhosis and ascites**, even without signs of infection — tapping within **12–24 hours of admission** is associated with lower hospital mortality ([[aga-2025-ascites-cirrhosis|American Gastroenterological Association (AGA) 2025]]).
+- Emergent admission for any reason, even with no symptoms or signs of infection (AASLD 2021).
+- **New-onset ascites**, or admission for symptoms related to ascites or encephalopathy — as soon as possible (AGA 2025 best practice advice [BPA] 2).
+- Any patient, hospitalized or not, developing signs, symptoms or laboratory abnormalities suggestive of infection. Suspect infection whenever a patient with cirrhosis deteriorates, particularly with [[hepatic-encephalopathy|encephalopathy]], acute kidney injury (AKI) and/or [[jaundice]].
+- Tense ascites with AKI — to exclude SBP as the cause of the AKI.
+- Part of the diagnostic workup of **hyponatremia** in cirrhosis (AGA 2025 BPA 8).
+- Every patient hospitalized with decompensation gets a minimal infection workup — diagnostic paracentesis, chest x-ray, blood/ascites/urine cultures, skin examination ([[baveno-vii-2022-portal-hypertension|Baveno VII]], reprinted as still in force by [[baveno-viii-2026-portal-hypertension|Baveno VIII]]).
+- **Thoracentesis:** when infection is still suspected and an effusion is present but there is no ascites or paracentesis has ruled out SBP; and in all hospitalized patients with cirrhosis and **new-onset HH**, even without signs of infection, because of the high risk of SBE (AGA 2025).
 
-**SBE:**
+> [!pearl] Up to a third of spontaneous infections are silent
+> Abdominal pain, tenderness and ileus are the symptoms specific to SBP, but up to one-third of patients with a spontaneous infection are entirely asymptomatic or present only with encephalopathy and/or AKI ([[aasld-2021-ascites-sbp-hrs]]).
 
-- Same diagnostic threshold: pleural fluid PMN ≥250/mm³
-- Complication of [[hepatic-hydrothorax|hepatic hydrothorax]] (HH) — pleural fluid PMN ≥250 in the setting of HH
-- Managed with antibiotics same as SBP; chest tube placement should be avoided
+**Culture handling**
 
-**When to perform diagnostic paracentesis:**
-
-- All cirrhotic patients emergently admitted to hospital — regardless of whether infection symptoms are present ([[aasld-2021-ascites-sbp-hrs]])
-- **New-onset ascites, or admission for symptoms related to ascites or encephalopathy → paracentesis as soon as possible** ([[aga-2025-ascites-cirrhosis]] best practice advice [BPA] 2) — the newest guideline-tier trigger; narrower than, and contained within, the American Association for the Study of Liver Diseases (AASLD) "all emergent admissions" rule above, so following AASLD satisfies both
-- Any cirrhotic patient with ascites developing fever, abdominal pain, [[hepatic-encephalopathy|encephalopathy]], acute kidney injury (AKI), or [[jaundice]]
-- Any cirrhotic patient with ascites and AKI (to rule out SBP as precipitant)
-- Any cirrhosis patient being worked up for **hyponatremia** — the infectious workup explicitly includes diagnostic paracentesis ([[aga-2025-ascites-cirrhosis]] BPA 8)
-- If diagnostic paracentesis is negative but bacterial infection still suspected and pleural effusion is present, perform diagnostic thoracentesis
+- Inoculate **≥10 mL** of ascitic fluid into aerobic and anaerobic blood culture bottles **at the bedside, before the first dose of antibiotics** — raises culture sensitivity to **>90%**.
+- Draw simultaneous blood cultures; this increases the chance of isolating a causative organism.
 
 ### Severity Assessment
 
-Poor prognostic markers at diagnosis (predict AKI development and in-hospital mortality):
-
-- Serum creatinine **>1.0 mg/dL** or blood urea nitrogen (BUN) **>30 mg/dL**
-- Serum bilirubin **>5 mg/dL** ([[aasld-2021-ascites-sbp-hrs]]) — ⚠ [[aga-2024-vasoactive-albumin-cirrhosis]] uses **>4 mg/dL** for the same high-risk group; the two guidelines differ, and either identifies a patient who should get albumin
-- Hemodynamic instability (hypotension, septic shock)
-- Concurrent [[aki-in-cirrhosis|AKI]] — the main predictor of in-hospital mortality in SBP
-
-*These same markers define who benefits most from albumin — see [[#Albumin Infusion (Mandatory in SBP)]]; not restated there.*
-
-Infections in cirrhosis increase 10% mortality for every hour's delay in antibiotics in septic shock.
+- **AKI is the main predictor of in-hospital mortality in SBP.** It is frequent, may progress to [[aki-in-cirrhosis|hepatorenal syndrome–acute kidney injury (HRS-AKI)]] even after SBP resolves, and is the strongest predictor of death ([[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024]]).
+- SBP and hepatorenal syndrome carry **90-day mortality up to 50%** (AGA 2025).
+- In septic shock, mortality rises **~10% for every hour's delay** in starting antibiotics, and inappropriate initial antimicrobial therapy raises the risk of death **10-fold**.
+- The markers at diagnosis that identify who benefits most from albumin are in [[#Albumin]].
 
 ---
 
@@ -80,54 +83,43 @@ Infections in cirrhosis increase 10% mortality for every hour's delay in antibio
 
 *Workup: see [[ascites]].*
 
-| Diagnosis | Distinguishing Features |
-|-----------|------------------------|
-| Secondary bacterial peritonitis | Multimicrobial flora; polymicrobial culture; ascitic lactate dehydrogenase (LDH) elevated (no numeric cut-off given by AASLD — see Diagnostics); ascitic glucose **<50 mg/dL**; failure to improve on antibiotics alone; abdominal imaging may show perforation or abscess |
-| SBE | Pleural fluid PMN ≥250 in patient with hepatic hydrothorax |
-| Spontaneous bacteremia | Positive blood cultures without elevated ascitic PMN |
-| Visceral perforation / surgical peritonitis | Clinical signs of peritonism; imaging; multimicrobial ascitic culture |
-| [[acute-pancreatitis\|Pancreatitis]]-related ascites | Elevated ascitic amylase |
-| Tuberculous peritonitis | Serum-ascites albumin gradient (SAAG) **<1.1 g/dL**; lymphocytic predominance; acid-fast bacilli (AFB) culture/adenosine deaminase (ADA) |
+| Diagnosis | Distinguishing features |
+|---|---|
+| Secondary bacterial peritonitis | Suspect when the fluid PMN count falls <25% after 48 h of antibiotics; abdominal imaging for perforation or abscess |
+| Focal intra-abdominal infection (diverticulitis, cholecystitis) | Raised ascitic PMN from a treatable local source — treat that condition, surgical consult |
+| SBE | Pleural fluid PMN >250/mm³ in hepatic hydrothorax |
+| Spontaneous bacteremia | Positive blood cultures without a raised fluid PMN count |
+| [[acute-pancreatitis\|Pancreatitis]]-related ascites | Raised ascitic amylase |
+| Tuberculous peritonitis, peritoneal carcinomatosis | Serum-ascites albumin gradient (SAAG) **<1.1 g/dL**, which excludes portal hypertension as the cause of the ascites |
 
 ---
 
 ## Diagnostics
 
-**Ascitic fluid (essential):**
+### Fluid and Blood Tests
 
-- PMN count (cell count with differential)
-- Total protein
-- [[albumin|Albumin]] (for SAAG with simultaneous serum albumin)
-- **Gram stain** — named alongside SAAG, cell count and culture as the standard panel on every diagnostic tap ([[aga-2025-ascites-cirrhosis]] BPA 2)
-- Culture: bedside inoculation, ≥10 mL into aerobic AND anaerobic blood culture bottles, before first dose of antibiotics
+- **Every diagnostic tap:** cell count with differential (PMN count), SAAG (ascitic [[albumin]] with a simultaneous serum albumin), total protein, Gram stain, culture.
+- **Blood:** simultaneous blood cultures; creatinine, blood urea nitrogen (BUN) and bilirubin (prognosis and the albumin indication); serum albumin for the SAAG.
+- **Only when secondary bacterial peritonitis is suspected:** ascitic lactate dehydrogenase (LDH), glucose, total protein and cytology. AASLD 2021 and AGA 2025 order these tests in that situation but give no numeric cut-off values for them.
+- **Only when a cause of ascites other than cirrhosis is suspected:** cytology, mycobacterial culture; amylase when a pancreatic origin is suspected.
 
-**Blood:**
+### Microbiology
 
-- Blood cultures (simultaneous with paracentesis — increases organism yield)
-- Complete blood count (CBC), basic metabolic panel (BMP) (creatinine, BUN), liver function tests (LFTs), international normalized ratio (INR)
-- Serum albumin (for SAAG and albumin dosing)
-- Serum bilirubin (guides albumin therapy indication)
+- Typically **monobacterial**; ~60% gram-negative — *Escherichia coli*, then *Klebsiella pneumoniae*, *Staphylococcus aureus*, *Enterococcus faecalis*, *Enterococcus faecium*. Fungi <5%.
+- Shift toward gram-positive and **multidrug-resistant organisms (MDROs)**, particularly in nosocomial and healthcare-associated SBP. MDROs account for **35%** of all infections in cirrhosis and have decreased the response to the recommended initial empiric antibiotic.
+- Acquisition setting selects the empiric regimen:
 
-**Selective ascitic tests (not routine; obtain if secondary peritonitis suspected):**
+| Category | Definition | Share of infections |
+|---|---|---|
+| Community-acquired | Present at or within the first 48 h of admission, no contact with a healthcare facility for >90 days | ~50% |
+| Healthcare-associated | Diagnosed within 48 h of admission in a patient with healthcare contact within 90 days | ~25% |
+| Nosocomial | Acquired >48 h after admission | ~25% |
 
-- LDH, glucose — if ascitic LDH is elevated **and** ascitic glucose **<50 mg/dL**, strongly consider secondary peritonitis
-  - ⚠ [[aasld-2021-ascites-sbp-hrs]] names ascitic LDH as a secondary-peritonitis test but gives no numeric cut-off (the comparator is normally the *serum* LDH upper limit of normal), and does not give the total-protein limb of the Runyon criteria. Apply the glucose limb, which **is** quantified; the LDH and protein cut-offs are in the primary Runyon secondary-peritonitis paper
-- Amylase — if pancreatitis suspected
+### Response Assessment
 
-**Microbiology of SBP:**
-
-- ~60% gram-negative organisms (most common: E. coli, Klebsiella pneumoniae)
-- Gram-positive: Staphylococcus aureus, Enterococcus faecalis/faecium
-- Multidrug-resistant organisms (MDROs) increasingly prevalent, especially nosocomial and healthcare-associated SBP (MDROs represent ~35% of all cirrhosis infections overall)
-- Fungi: <5%
-- Typically monobacterial; polymicrobial culture should prompt evaluation for secondary peritonitis
-
-**Response assessment:**
-
-- Repeat paracentesis/thoracentesis 48 hours after starting antibiotics
-- Adequate response: PMN decrease ≥25% from baseline
-- Inadequate response (PMN decrease <25%): broaden antibiotic spectrum; evaluate for secondary bacterial peritonitis with abdominal imaging
-- May omit repeat paracentesis if: organism isolated, susceptible to current antibiotic, and patient clinically improving
+- Repeat the diagnostic paracentesis (or thoracentesis for SBE) **48 hours after starting antibiotics**.
+- **PMN fall ≥25% from baseline = response.** A fall **<25%** indicates lack of response → broaden antibiotic coverage and evaluate for secondary bacterial peritonitis with abdominal imaging.
+- The repeat tap may be unnecessary if an organism was isolated, it is susceptible to the antibiotic given, and the patient is improving clinically.
 
 ---
 
@@ -135,90 +127,82 @@ Infections in cirrhosis increase 10% mortality for every hour's delay in antibio
 
 ### Empiric Antibiotics
 
-**Community-acquired SBP / SBE — First Line:**
+Start IV antibiotics empirically — before culture results — in every patient with an ascitic or pleural fluid PMN count >250/mm³.
 
-- Intravenous (IV) **cefotaxime 2 g every 12 hours** (or ceftriaxone equivalent)
-- Third-generation cephalosporins: resolution rate ~90% in community-acquired SBP
+| Setting | Empiric regimen |
+|---|---|
+| Community-acquired, where MDROs are not prevalent | Third-generation cephalosporin — **IV cefotaxime 2 g every 12 hours**; ceftriaxone is the other third-generation option. Resolution ~90% |
+| Healthcare-associated or nosocomial infection, recent broad-spectrum antibiotic exposure, admission with sepsis or septic shock, critically ill in the intensive care unit (ICU) | **Piperacillin/tazobactam** **and** **daptomycin** (known vancomycin-resistant *Enterococcus* [VRE] or gastrointestinal [GI] colonization) **or** **meropenem** if known to harbor multidrug-resistant gram-negative organisms |
+| Prior methicillin-resistant *Staphylococcus aureus* (MRSA) infection or positive surveillance swab | Add **vancomycin** |
+| Current or recent piperacillin/tazobactam exposure | **Meropenem** ± a glycopeptide (vancomycin or teicoplanin) |
 
-**Nosocomial, healthcare-associated, intensive care unit (ICU), or septic shock — Broaden Empirically:**
+- Tailor the broad-spectrum choice to local prevalence and local MDRO type; Baveno VII likewise ties empiric therapy to local epidemiology, multidrug-resistance risk factors and infection severity.
+- **Duration 5–7 days.** In a small study, stopping antibiotics once the PMN count fell <250/mm³ shortened therapy to a mean of 4.8 days versus 9.6 days when the duration was set empirically.
+- Narrow coverage as soon as culture and susceptibility results are available, and give it for as short a time as possible.
+- AASLD 2021 (Table 9) gives a dose only for cefotaxime; the broad-spectrum agents are named without doses.
 
-- **Piperacillin/tazobactam** (anti-gram-negative + anaerobic coverage) PLUS
-  - **Vancomycin** if known methicillin-resistant Staphylococcus aureus (MRSA) or prior MRSA infection/colonization, OR
-  - **Daptomycin** if known vancomycin-resistant Enterococcus (VRE) or positive VRE surveillance swab
-- If known multidrug-resistant (MDR) gram-negative or recent piperacillin/tazobactam exposure: **meropenem** ± glycopeptide
-- Inappropriate initial therapy in septic shock increases mortality by 10-fold
-- *Gap: [[aasld-2021-ascites-sbp-hrs]] (Table 9) names these broad-spectrum agents but gives a dose only for cefotaxime. Dose the rest per institutional/infectious diseases (ID) guidance.*
+### Albumin
 
-**Duration:** 5–7 days total (can be guided by PMN normalization to <250/mm³; mean duration 4.8 days in PMN-guided approach vs. 9.6 days empiric)
+- Give IV albumin **in addition to antibiotics: 1.5 g/kg body weight on day 1 and 1 g/kg on day 3.** The dose was set arbitrarily in the randomized trial that established the benefit and has remained the standard recommendation (AASLD 2021). Baveno VII 4.5 states short-term albumin is indicated for SBP (A.1), reprinted as still in force by Baveno VIII. AGA 2024 is softer — IV albumin **may be considered** in SBP (BPA 5).
+- In the supporting multicenter trial (105 patients), antibiotics plus albumin versus antibiotics alone lowered AKI (10% vs 33%) and death (10% vs 29%).
+- Benefit concentrates in the high-risk group:
 
-**Antibiotic stewardship:** Narrow spectrum as soon as culture and susceptibility results available.
+| Source | Patients most likely to benefit |
+|---|---|
+| [[aga-2024-vasoactive-albumin-cirrhosis\|AGA 2024]] | Serum bilirubin **>4 mg/dL** **and** AKI at baseline (creatinine **>1.0 mg/dL** and BUN **>30 mg/dL**) |
+| [[aasld-2021-ascites-sbp-hrs\|AASLD 2021]] | Renal dysfunction (BUN **>30 mg/dL** **or** creatinine **>1.0 mg/dL**) **or** severe hepatic decompensation (bilirubin **>5 mg/dL**); its guidance statement names AKI and/or jaundice at diagnosis |
 
-### Albumin Infusion (Mandatory in SBP)
+- The two documents differ on the bilirubin cut-off and on whether the renal criteria are combined or alternative; a patient meeting either set should receive albumin.
+- Following the recommendations for albumin use in AKI instead is also appropriate — see [[aki-in-cirrhosis]].
+- **Vasoconstrictors have no role in SBP** (AGA 2024 BPA 7); reserve them for HRS-AKI.
 
-IV albumin prevents progression of AKI (the main driver of in-hospital mortality) by mechanisms beyond simple volume expansion.
+### Nonselective Beta-Blockers
 
-**Standard regimen:**
+- [[nonselective-beta-blockers|Nonselective beta-blockers (NSBBs)]] do not need to be discontinued at the diagnosis of SBP.
+- Hold temporarily if the patient becomes hypotensive (mean arterial pressure <65 mmHg) or develops AKI.
+- Restarting may be considered depending on recovery of the systemic arterial blood pressure.
 
-- **Day 1:** 1.5 g/kg body weight IV
-- **Day 3:** 1.0 g/kg body weight IV
+### Liver Transplantation
 
-**Patients who benefit most:** those carrying the poor-prognostic markers listed under [[#Severity Assessment]] (creatinine >1.0 mg/dL, BUN >30 mg/dL, bilirubin >5 mg/dL — >4 mg/dL by American Gastroenterological Association [AGA] 2024).
-
-If following AKI protocol for albumin is preferred clinically, that approach is also appropriate (see [[aki-in-cirrhosis]]).
-
-The [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 vasoactive/albumin Clinical Practice Update (CPU)]] frames albumin in SBP as "may be considered" (BPA 5), with the greatest benefit in the same high-risk group. **Vasoconstrictors have no role in SBP** (BPA 7) — reserve them for [[aki-in-cirrhosis|hepatorenal syndrome–acute kidney injury (HRS-AKI)]].
-
-### Nonselective Beta-Blockers (NSBBs) During SBP
-
-- [[nonselective-beta-blockers|Nonselective beta-blockers (NSBBs)]] do NOT need to be routinely discontinued at diagnosis of SBP
-- **Hold temporarily if:** mean arterial pressure <65 mmHg **or** [[aki-in-cirrhosis|AKI]] develops
-- **Restart:** when systemic arterial blood pressure recovers
+- All patients with cirrhosis and ascites should be considered for [[liver-transplantation|transplantation]] regardless of Model for End-Stage Liver Disease (MELD) score (AGA 2025 BPA 4).
 
 ### Prophylaxis
 
-#### Secondary Prophylaxis (Prevention of Recurrence)
+#### Primary Prophylaxis
 
-**Indication:** Prior documented episode of SBP
+Antibiotics should be used judiciously and sparingly in patients with no prior SBP, and reserved for those at the highest risk of infection.
 
-Patients with prior SBP have ~68% 1-year recurrence rate without [[antibiotic-prophylaxis-cirrhosis|antibiotic prophylaxis]].
+**Acute gastrointestinal hemorrhage.** IV ceftriaxone **1 g every 24 hours**. AASLD 2021 gives it until the hemorrhage has resolved and vasoactive drugs are discontinued, for a maximum of 7 days; [[aasld-2023-portal-hypertension|AASLD 2023]] gives IV antimicrobials until stability for discharge or 5 days, whichever is shorter. Agent choice, shorter-course evidence and the non-variceal indication live on [[antibiotic-prophylaxis-cirrhosis]] and [[variceal-upper-gi-bleeding]].
 
-- **Oral ciprofloxacin 500 mg/day** (preferred agent in the US since norfloxacin was withdrawn from US market in 2014)
-  - Norfloxacin data: reduces 1-year recurrence from 68% to 20%
-  - Note: quinolone effectiveness is reduced in patients colonized with MDRO
-- **[[rifaximin|Rifaximin]]** (limited single-center data showing lower 6-month recurrence than norfloxacin: 4% vs. 14%); may be considered but not yet firmly established
-  - **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 6.23: "Data are insufficient to recommend rifaximin for secondary prophylaxis of SBP."** This is a **softening** of [[baveno-vii-2022-portal-hypertension|Baveno VII]] 4.10, which stated flatly that rifaximin was "**not indicated**" beyond its hepatic-encephalopathy uses, "including primary or secondary prophylaxis of SBP." Equipoise rather than prohibition — but still not a recommendation
-- **Baveno VIII 6.21** concurs on the indication: with a history of SBP, **antibiotic prophylaxis should be considered to prevent recurrence** (level of evidence [LoE] 2, strong)
-- **Stopping rule — new in Baveno VIII (6.22): antibiotic SBP prophylaxis should be discontinued in case of [[cirrhosis|recompensation]]** (LoE 4, strong). Recompensation has an operative definition (aetiologic cure/control, ascites resolved off diuretics, no hepatic encephalopathy (HE) off HE medication, no variceal rebleeding, all for **>6 months**, with liver function at **Child-Turcotte-Pugh (CTP) A5/A6**) — meeting it is what retires the prophylaxis
-- Otherwise continue indefinitely until [[liver-transplantation|liver transplantation]] or the patient no longer has ascites
+> [!pitfall] Rule out infection before starting bleeding prophylaxis
+> Prophylaxis is for the uninfected patient — SBP and other infections should be ruled out before the antibiotic is started ([[aasld-2021-ascites-sbp-hrs]]).
 
-#### Primary Prophylaxis (Prevention of First Episode)
+**Low-protein ascites with advanced liver or kidney dysfunction** — AASLD 2021: may be considered in selected patients meeting both limbs.
 
-**Indication 1 — Acute gastrointestinal (GI) hemorrhage (cirrhosis) — see [[variceal-upper-gi-bleeding]]:**
+| Limb | Criterion |
+|---|---|
+| **Required** | Ascitic fluid total protein **<1.5 g/dL** |
+| **Plus either** — renal dysfunction | Serum creatinine **>1.2 mg/dL**, **or** BUN **>25 mg/dL**, **or** serum sodium **<130 mEq/L** |
+| **or** — liver failure | Child-Turcotte-Pugh (CTP) score **>9** **and** bilirubin **>3 mg/dL** (CTP table on [[cirrhosis]]) |
 
-- **IV ceftriaxone 1 g q24h** for 5–7 days (until hemorrhage resolved and vasoactive drugs discontinued) — dose per [[aasld-2023-portal-hypertension]] via [[portal-hypertension]]; [[aasld-2021-ascites-sbp-hrs]] names the agent and duration without a dose
-- Reduces infections (including SBP) and improves survival
-- Rule out existing SBP/infection before initiating
+- Low ascitic protein **alone**, without one of these additional limbs, is not an indication.
+- Untreated, the 1-year probability of a first SBP episode in this group ranges **20%–60%** depending on the severity of liver and kidney dysfunction; in the landmark trial norfloxacin reduced it to 7% versus 60% with placebo.
+- AASLD judges the evidence **not strong** and restricts prophylaxis to very advanced cirrhosis, individualized — a hospitalized patient in whom transplantation is imminent is a good candidate, and ciprofloxacin a reasonable choice. US Food and Drug Administration and European Medicines Agency safety restrictions on fluoroquinolones must be kept in mind.
+- **Baveno VIII 4.12: after a first decompensating event, long-term primary antibiotic prophylaxis is not recommended to prevent further decompensation** (level of evidence [LoE] 2; strength of recommendation [SoR]: strong). This reverses Baveno VII 4.6, which recommended primary prophylaxis in selected high-risk patients (GI hemorrhage, Child-Pugh C with low-protein ascites). The endpoints differ — Baveno VIII addresses prevention of *further decompensation*, AASLD prevention of a *first SBP episode* — so the AASLD criteria above still stand for SBP prevention, but preventing further decompensation is no longer a reason to start or continue it. Short-course prophylaxis for acute hemorrhage and secondary prophylaxis are untouched.
 
-**Indication 2 — High-risk patients without prior SBP or acute hemorrhage:**
+#### Secondary Prophylaxis
 
-- Low ascitic fluid protein (<1.5 g/dL) AND at least one of:
-  - **CTP >9 points** *and* serum bilirubin >3 mg/dL (CTP point table on [[cirrhosis]])
-  - Serum creatinine >1.2 mg/dL, BUN >25 mg/dL, or serum Na <130 mEq/L
-- 1-year SBP risk without prophylaxis in this group: 20–60% depending on severity of liver/renal dysfunction
-- Norfloxacin trial showed reduction from 60% to 7% first-episode rate; extrapolate to ciprofloxacin in US
-- Antibiotic stewardship: reserve for highest-risk patients; widespread use contributes to MDRO emergence
-
-**Routine primary prophylaxis is NOT recommended** for patients with low ascites protein alone without additional risk factors.
-
-> ⚠ **Contradiction to surface — long-term primary prophylaxis after a first decompensating event.** [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 4.12 states that **"in patients after the first decompensating event, long-term primary antibiotic prophylaxis is not recommended to prevent further decompensation"** (LoE 2, strong). That **reverses [[baveno-vii-2022-portal-hypertension|Baveno VII]] 4.6**, which recommended primary prophylaxis in selected high-risk patients (GI haemorrhage; Child-Pugh C with low-protein ascites). It also sits against the [[aasld-2021-ascites-sbp-hrs|AASLD 2021]] indication-2 criteria above, which this page follows for the **SBP-prevention** question.
->
-> **How to read the two together — the endpoints differ.** Baveno VIII is answering "does long-term antibiotic prophylaxis prevent **further decompensation**?" and finds it does not; AASLD is answering "does it prevent a **first SBP episode** in a defined high-risk group?" and finds it does. Neither displaces the other outright, but Baveno VIII is the newer tier-1 statement and **removes prevention of further decompensation as a reason to start or continue prophylaxis**. Short-course prophylaxis in acute GI haemorrhage (indication 1) is untouched, as is secondary prophylaxis after a documented SBP episode. Baveno VIII's own research agenda calls for confirmatory data that balance efficacy against multidrug-resistant-organism risk (RA4.15).
+- **Indication: a prior episode of SBP.** Baveno VIII 6.21 — prophylaxis should be considered to prevent recurrence (LoE 2; SoR: strong); Baveno VII 4.7 and AASLD 2021 agree.
+- Without prophylaxis the 1-year probability of recurrence was **68%**, versus 20% on norfloxacin.
+- **Agent:** AASLD 2021 specifies **daily norfloxacin**, but norfloxacin was withdrawn from the US market in 2014, so **oral ciprofloxacin 500 mg/day** is the acceptable alternative — direct evidence for that regimen is lacking. Quinolone prophylaxis is less effective in patients colonized with MDRO.
+- **[[rifaximin|Rifaximin]]:** Baveno VIII 6.23 — data are insufficient to recommend it for secondary prophylaxis of SBP (LoE 4). That softens Baveno VII 4.10, which stated rifaximin was not indicated beyond its hepatic encephalopathy indications, including primary or secondary SBP prophylaxis. A single-center open-label randomized trial found lower 6-month recurrence with rifaximin than norfloxacin (4% vs 14%).
+- **Stopping rule:** Baveno VIII 6.22 — prophylaxis should be discontinued in case of **recompensation** (LoE 4; SoR: strong). Recompensation is a defined state (aetiologic cure or control, no ascites and no encephalopathy off treatment, no variceal rebleeding — all for >6 consecutive months — and liver function back to CTP A5/A6); criteria on [[cirrhosis]].
 
 ---
 
 ## See Also
 
-[[ascites]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[jaundice]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[rifaximin]], [[antibiotic-prophylaxis-cirrhosis]], [[cirrhosis]], [[albumin]], [[acute-pancreatitis]]
+[[ascites]], [[cirrhosis]], [[portal-hypertension]], [[paracentesis]], [[hepatic-hydrothorax]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[jaundice]], [[albumin]], [[antibiotic-prophylaxis-cirrhosis]], [[rifaximin]], [[nonselective-beta-blockers]], [[variceal-upper-gi-bleeding]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[acute-pancreatitis]]
 
 ---
 

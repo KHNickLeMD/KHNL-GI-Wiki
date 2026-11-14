@@ -3,41 +3,53 @@ title: "Nitazoxanide"
 category: med
 tags: [nitazoxanide, antiparasitic, antiprotozoal, cryptosporidium, giardia, cyclospora, cystoisospora]
 created: 2026-07-07
-updated: 2026-10-19
+updated: 2026-11-14
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
+quality_reviewed: 2026-11-14
 ---
+
+## Contents
+- [[#Class]]
+- [[#Indications]]
+  - [[#By Pathogen]]
+  - [[#Persistent or Nonresponding Diarrhea]]
+- [[#Dosing]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Class
 
-Thiazolide antiprotozoal. Used for **pathogen-directed** therapy of parasitic [[acute-diarrhea|acute diarrhea]] **once a specific organism is identified** — the evidence for antimicrobial treatment of *specific* parasitic causes is **strong**, in contrast to empiric antiparasitic therapy ([[acg-2016-acute-diarrhea]] — narrative assessment, not a Grading of Recommendations Assessment, Development and Evaluation (GRADE)-rated recommendation).
+- Antiprotozoal agent — grouped with the antiparasitic drugs for [[acute-diarrhea|acute diarrhea]] ([[idsa-2017-infectious-diarrhea]] Table 6, *Parasites*; [[acg-2016-acute-diarrhea]]).
+- **Pathogen-directed: the trigger is a microbiologic diagnosis, not a syndrome.** Evidence is **strong** for antimicrobial treatment of *specific* parasitic causes of acute diarrheal infection, in contrast to empiric antiparasitic therapy ([[acg-2016-acute-diarrhea]] — narrative text, not a graded recommendation). Persistent diarrhea from protozoa is likewise "best managed with pathogen-specific therapy (rather than empiric therapy before the infection is diagnosed)" ([[idsa-2017-infectious-diarrhea]]).
+- Molecular diagnostics make the specific parasitic diagnosis promptly, "guiding the targeted use of anti-microbial therapy (both agent and duration of treatment) to match a specific pathogen" ([[acg-2016-acute-diarrhea]]). The workup that establishes the diagnosis is on [[acute-diarrhea]].
 
-- **The trigger is a microbiologic diagnosis, not a syndrome.** [[acg-2016-acute-diarrhea]] ties the strong-evidence claim to molecular diagnostics making specific parasitic diagnoses promptly, "guiding the targeted use of anti-microbial therapy (both agent and duration) to match a specific pathogen." The workup that establishes that diagnosis lives on the acute-diarrhea schema linked above.
+> [!pitfall] No empiric trial in watery diarrhea lasting ≥14 days
+> Empiric antimicrobial therapy **should be avoided** in people with persistent watery diarrhea lasting 14 days or more (strong, low — Rec 36) ([[idsa-2017-infectious-diarrhea]]). Identify the organism first.
 
-## Indications by Pathogen
+## Indications
 
-Role assignments below are [[idsa-2017-infectious-diarrhea]] Table 6 (Recommended Antimicrobial Agents by Pathogen), corroborated by [[acg-2016-acute-diarrhea]].
+### By Pathogen
+
+Role assignments are [[idsa-2017-infectious-diarrhea]] Table 6 (Recommended Antimicrobial Agents by Pathogen), corroborated by [[acg-2016-acute-diarrhea]].
 
 | Pathogen | Nitazoxanide's role | Comparators / qualifiers |
 |---|---|---|
-| ***Cryptosporidium*** ([[cryptosporidiosis]]) | **First choice** — in human immunodeficiency virus (HIV)-uninfected hosts, and in HIV-infected hosts **only in combination with effective combination antiretroviral therapy (cART)** | Alternative is effective cART alone: immune reconstitution may itself produce microbiologic and clinical response |
-| ***Giardia lamblia*** ([[giardiasis]]) | **First choice**, alongside tinidazole | Metronidazole is the *alternative* (high gastrointestinal [GI] side-effect rate; not Food and Drug Administration (FDA)-approved for giardiasis). The Infectious Diseases Society of America's (IDSA's) giardiasis choices are based on data from HIV-uninfected **children** |
-| *Cyclospora cayetanensis* | **Alternative** — limited data | Trimethoprim-sulfamethoxazole (TMP-SMX) is first choice; HIV-infected patients may need higher doses / longer TMP-SMX courses |
-| *Cystoisospora belli* | **Potential second-line alternative** (with ciprofloxacin) | TMP-SMX first choice; pyrimethamine the alternative |
+| ***Cryptosporidium*** spp ([[cryptosporidiosis]]) | **First choice** — in human immunodeficiency virus (HIV)-uninfected hosts; in HIV-infected hosts **only in combination with effective combination antiretroviral therapy (cART)** | Alternative is effective cART alone: immune reconstitution may itself produce microbiologic and clinical response |
+| ***Giardia lamblia*** ([[giardiasis]]) | **First choice**, alongside tinidazole | Metronidazole is the *alternative* — high frequency of gastrointestinal (GI) side effects, and not Food and Drug Administration (FDA)-approved for giardiasis. Both the first choice and the alternative rest on data from HIV-uninfected **children** |
+| ***Cyclospora cayetanensis*** | **Alternative** — limited data | Trimethoprim-sulfamethoxazole (TMP-SMX) is first choice; HIV-infected patients may need higher doses or longer TMP-SMX durations |
+| ***Cystoisospora belli*** | **Potential second-line alternative** (with ciprofloxacin) | TMP-SMX first choice, pyrimethamine the alternative |
 
-*[[acg-2016-acute-diarrhea]] frames the same two core indications more briefly: metronidazole, tinidazole, **or** nitazoxanide for* Giardia*; nitazoxanide for cryptosporidiosis.*
+*Where the two guidelines differ —* Giardia: [[acg-2016-acute-diarrhea|American College of Gastroenterology (ACG) 2016]] names metronidazole, tinidazole, **or** nitazoxanide as equivalent options, while the newer [[idsa-2017-infectious-diarrhea|Infectious Diseases Society of America (IDSA) 2017]] demotes metronidazole to the alternative and keeps tinidazole and nitazoxanide as the first choices — the IDSA ranking is what this page asserts. Both guidelines name nitazoxanide for cryptosporidiosis.
 
-## Other Use — Persistent / Nonresponding Diarrhea
+### Persistent or Nonresponding Diarrhea
 
-- In diarrhea that **persists or fails to respond** to initial management, nitazoxanide has reduced clinical symptoms in nonresponders and in people with persistent symptoms ([[idsa-2017-infectious-diarrhea]]).
-- **Evidence quality is low.** This is narrative text in IDSA's persistent/recurrent-diarrhea discussion — **not a numbered, graded recommendation** — and rests on two small studies (nitazoxanide in *Blastocystis hominis*–associated persistent diarrhea/enteritis, and a pediatric persistent-diarrhea series). Before reaching for it, IDSA's same passage directs: reassess for [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] and [[celiac-disease|celiac disease]], consider [[postinfectious-ibs|post-infectious irritable bowel syndrome (IBS)]], confirm that therapeutic antimicrobial levels were achieved, and treat with nutritional rehabilitation plus fluid and electrolytes as the **mainstays**.
-
-## Cautions
-
-- **Advanced immunosuppression** ([[hiv-aids-related-diarrhea|advanced HIV/acquired immunodeficiency syndrome (AIDS)]]) — limited efficacy as monotherapy for cryptosporidiosis; **immune restoration (effective cART) is the key intervention**, and IDSA lists nitazoxanide for HIV-infected hosts only *in combination with* cART.
+- Nitazoxanide **has reduced clinical symptoms in nonresponders and in people with persistent symptoms** ([[idsa-2017-infectious-diarrhea]]).
+- **Low-quality evidence** — narrative text in IDSA's persistent-symptom discussion, not a graded recommendation, resting on two small studies (*Blastocystis hominis*-associated persistent diarrhea/enteritis, and a pediatric persistent-diarrhea series).
+- The same passage puts other steps first: reassess for noninfectious disease — [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], [[celiac-disease|celiac disease]], [[postinfectious-ibs|post-infectious irritable bowel syndrome (IBS)]] (see [[chronic-diarrhea]]) — check that therapeutic antimicrobial levels were or are being achieved, and treat with nutritional rehabilitation plus fluid and electrolytes as the **mainstays**.
 
 ## Dosing
 
-> Neither [[idsa-2017-infectious-diarrhea]] (Table 6 has no dose column) nor [[acg-2016-acute-diarrhea]] (names the agent in prose only) states a nitazoxanide **dose, interval, or duration**. Take dosing from the Centers for Disease Control and Prevention (CDC)/IDSA parasitic-disease treatment tables.
+Neither guideline gives a nitazoxanide dose, interval, or duration — [[idsa-2017-infectious-diarrhea|IDSA 2017]] Table 6 names agents only, and [[acg-2016-acute-diarrhea|ACG 2016]] names the drug in prose.
 
 ## See Also
 
@@ -49,3 +61,5 @@ Role assignments below are [[idsa-2017-infectious-diarrhea]] Table 6 (Recommende
 
 1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]
 2. [[idsa-2017-infectious-diarrhea|IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea]]
+</content>
+</invoke>
