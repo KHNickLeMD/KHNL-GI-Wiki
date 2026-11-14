@@ -3,8 +3,8 @@ title: "Sacral Nerve Stimulation"
 category: advanced-procedure
 tags: [sacral-nerve-stimulation, sns, neuromodulation, fecal-incontinence, constipation, pelvic-floor, anorectal, implantable-device]
 created: 2026-06-01
-updated: 2026-10-29
-sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation, aga-2017-surgical-device-fecal-incontinence]
+updated: 2026-11-14
+sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation, aga-2017-surgical-device-fecal-incontinence, rome-v-2026-anorectal-disorders]
 ---
 
 *Implanted sacral neuromodulation device — peripheral nerve stimulation of the **S3 or S4 nerve roots** in the sacral foramina ([[acg-2021-anorectal-disorders]]). **Strong recommendation for moderate–severe [[fecal-incontinence|fecal incontinence (FI)]] failing conservative measures; explicitly NOT recommended for constipation.** A temporary trial phase precedes permanent implantation.*
@@ -17,6 +17,9 @@ sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation, aga-20
 - [[#Technique]]
 - [[#Outcomes]]
 - [[#Adverse Events]]
+- [[#Other Neuromodulation Options]]
+  - [[#Percutaneous Tibial Nerve Stimulation]]
+  - [[#Translumbosacral Neuromodulation Therapy]]
 - [[#Where SNS Sits Among Alternatives]]
 - [[#See Also]]
 - [[#Sources]]
@@ -29,6 +32,7 @@ sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation, aga-20
 |---|---|---|
 | **Moderate–severe fecal incontinence** that has **failed conservative measures, biofeedback, and other low-cost, low-risk techniques** | Sacral nerve stimulation (SNS) | **Strong / Low** ([[acg-2021-anorectal-disorders]]) |
 | **Constipation** / [[defecation-disorders\|defecation disorders]] | **NOT recommended** — no benefit in randomized controlled trials (RCTs) | ([[acg-2021-anorectal-disorders]]) |
+| **Levator ani syndrome** ([[proctalgia-syndromes]]) | Listed among the **ineffective** therapies | ([[rome-v-2026-anorectal-disorders]]) |
 
 ### What has to fail first
 
@@ -70,7 +74,9 @@ These are the patients in whom the Strong recommendation is *not* supported by t
 
 ## Technique
 
-1. **Trial phase** — continuous pulsed electrical stimulation of the sacral nerves delivered by an **external** battery-operated stimulator for **2–3 weeks**; keep a symptom diary throughout.
+**The therapy is two-staged, with permanent implantation contingent on response to a 2- to 4-week test period** ([[rome-v-2026-anorectal-disorders]]) — that test, not the baseline workup, is the decision point.
+
+1. **Trial phase** — continuous pulsed electrical stimulation of the sacral nerves delivered by an **external** battery-operated stimulator; **2 to 4 weeks** (Rome V 2026; ACG 2021 describes 2–3 weeks). Keep a symptom diary throughout.
 2. **Implant decision** — if FI frequency falls by **≥50%**, implant the stimulator permanently beneath the skin (ACG 2021 describes abdominal placement).
 3. **Maintenance** — **batteries must be replaced after approximately 7 years**.
 
@@ -96,8 +102,12 @@ At **3-year** follow-up of implanted patients in the pivotal study ([[acg-2021-a
 | Incontinent episodes, baseline → 12 months | mean **9.4/week → 1.7/week** |
 | FI Quality of Life instrument | significant improvement in **all 4 scales** at 12, 24, and 36 months |
 
-- **Durability at 5 years** — among 76 of 120 patients (63%) with 5-year follow-up, **36% reported complete continence** and **89% were deemed a therapeutic success** ([[aga-2017-surgical-device-fecal-incontinence]]).
+- **Durability at 5 years** — in the pivotal open-label US multicenter study **90% of 120 patients received permanent stimulation**; of those, **76 of 120 (63%) were evaluated at 5 years — 36% achieved complete continence and 89% were deemed a therapeutic success** ([[rome-v-2026-anorectal-disorders]], [[aga-2017-surgical-device-fecal-incontinence]]).
+- **A separate 5-year follow-up** (n = 101, intention-to-treat) found a **favorable outcome in 42.6%**; **younger age, urge FI, and a response at 6 months predicted success** ([[rome-v-2026-anorectal-disorders]]).
 - The pivotal study was **uncontrolled**, and in 6 cross-over studies patients had equal symptoms with the stimulator on or off ([[aga-2017-surgical-device-fecal-incontinence]]).
+
+> [!pitfall] The efficacy evidence is thinner than the Strong recommendation implies
+> **No high-quality, multicenter, sham-controlled RCT has confirmed efficacy**, the **mechanisms of action remain uncertain**, and **sham-controlled trials showed clinically meaningful improvement with sham stimulation** ([[rome-v-2026-anorectal-disorders]]). [[aga-2017-surgical-device-fecal-incontinence|AGA 2017]] reads the same 5-year data more favourably; Rome V 2026 is the newer tier-1 source and governs this page.
 
 ---
 
@@ -115,6 +125,27 @@ Device-related complications are substantial and are the main counterweight to t
 
 ---
 
+## Other Neuromodulation Options
+
+*SNS is not the only neuromodulation route for FI — these two are the alternatives the sources address.*
+
+### Percutaneous Tibial Nerve Stimulation
+
+- Delivered **percutaneously (PTNS, needle above the ankle)** or **transcutaneously (TTNS, pads on the sole)**.
+- ⚠ **PTNS has not shown significant benefit over sham** in multiple RCTs, including a large trial ([[rome-v-2026-anorectal-disorders]]) — ACG issues **no recommendation** either way, calling efficacy unresolved.
+- The trial picture: both reduced FI frequency in uncontrolled case series, and a small comparative study found ≥50% reduction in FI frequency in **82% PTNS vs 48% TTNS vs 13% sham** (*P* = 0.035) — but the large multicenter European RCT (12 weekly sessions, >100 patients/arm) found **no difference vs sham (38% vs 31%)**, and only **urge-related** FI did better than passive FI ([[acg-2021-anorectal-disorders]]).
+- **May be combined with [[biofeedback-therapy|biofeedback]]** in patients with coexistent FI and obstructive defecation ([[rome-v-2026-anorectal-disorders]]).
+
+### Translumbosacral Neuromodulation Therapy
+
+*All from [[rome-v-2026-anorectal-disorders]].*
+
+- **Repetitive magnetic stimulation of the lumbar and sacral plexus** — non-implanted, delivered in sessions.
+- **Dose-ranging RCT of 1 vs 5 vs 15 Hz: 1 Hz was superior, with 91% responders** (>50% reduction in FI episodes).
+- Also improved **anal neuropathy, squeeze pressure, rectal capacity and quality of life**; a **sham-controlled study further confirmed efficacy**.
+
+---
+
 ## Where SNS Sits Among Alternatives
 
 For FI failing conservative therapy ([[acg-2021-anorectal-disorders]]):
@@ -124,7 +155,8 @@ For FI failing conservative therapy ([[acg-2021-anorectal-disorders]]):
 | **SNS** | Strong / Low | Moderate–severe FI failing conservative measures |
 | Injectable bulking agents (dextranomer in stabilized hyaluronic acid [NASHA Dx]) | Conditional / Low | For conservative/biofeedback failures; **52% vs 31%** achieved ≥50% reduction in episodes (RCT) |
 | Anal plugs, vaginal balloons | Conditional / Very Low | Selected patients |
-| **Tibial nerve stimulation** — percutaneous (PTNS, needle above the ankle) or transcutaneous (TTNS, pads on the sole) | **No recommendation** — efficacy unresolved | Both reduced FI frequency in uncontrolled case series. Small comparative study: ≥50% reduction in FI frequency **82% PTNS vs 48% TTNS vs 13% sham** (*P* = 0.035). But the large multicenter European RCT (12 weekly sessions, >100 patients/arm) found **no difference vs sham (38% vs 31%)**; only **urge-related** FI did better than passive FI |
+| **Tibial nerve stimulation** | **No recommendation** — efficacy unresolved | Trial data and the sham results: [[#Percutaneous Tibial Nerve Stimulation]] |
+| **Translumbosacral neuromodulation therapy** | Not addressed by ACG | Magnetic, non-implanted; [[#Translumbosacral Neuromodulation Therapy]] |
 | Anal sphincteroplasty | Conditional / Low | For **acute** sphincter injuries; 85% short-term improvement, deteriorating to **50% at 40–60 months** |
 | [[ostomy-management\|End stoma]] | Conditional | Last resort for severe FI; significant quality of life (QoL) improvement |
 | Dynamic graciloplasty | **NOT recommended** | Significant morbidity and mortality |
@@ -143,3 +175,4 @@ For FI failing conservative therapy ([[acg-2021-anorectal-disorders]]):
 1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 2. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review]]
 3. [[aga-2017-surgical-device-fecal-incontinence|Surgical Interventions and the Use of Device-Aided Therapy for the Treatment of Fecal Incontinence and Defecatory Disorders]]
+4. [[rome-v-2026-anorectal-disorders|Anorectal Disorders (Rome V, 2026)]]

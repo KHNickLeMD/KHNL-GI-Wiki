@@ -6,6 +6,26 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-14] lint | Lint pass — backlog ingest (Rome V anorectal chapters)
+
+**Backlog audit:** re-ran the `raw/` vs `wiki/sources/` audit three ways (filename tokens, year-constrained tokens, and PDF first-page title text). The first two produce heavy false positives in both directions — terse filenames (`NIT in MASDL.pdf`, `GLP1 before endo.pdf`) score 0 against correctly-ingested pages, while distinctive author surnames appear in unrelated pages' reference prose. Only the third method (match the PDF's own first-page title against each source page's `title:` + `**Article:**` line) is reliable. 628 raw files / 448 source pages; **backlog mode stays ON**.
+
+**Ingested this pass:** `Rome V 2026 Anorectal Disorders (Rao)` — Gastroenterology 2026;170:1318–1346, tier-1 Rome Foundation consensus, open access (CC BY-NC-ND 4.0). Source page `[[rome-v-2026-anorectal-disorders]]` created with all seven F-category criteria sets, both graded diagnostic-test tables and the full treatment narrative. This completes the Rome V chapter set alongside `dgbi`, `bowel-disorders`, `functional-esophageal-disorders`, `gastroduodenal-disorders` and `gallbladder-sphincter-of-oddi`; **`Rome V 2026 Centrally Mediated Disorders of GI Pain (Fukudo)` remains uningested** and is the obvious next pick.
+
+**Pages updated:**
+- `[[fecal-incontinence]]` — Rome IV text replaced by the printed F1 criteria incl. the operative floor (≥2 episodes **and** ≥1/month on a 4-week stool diary) and the 12-month clinical variant; closed the standing "Rome V does not state the time window" gap. Added `### Classification / Typing` (symptom→mechanism: solid/nocturnal/urge/passive), staining vs soiling, the graded FI test table (A1/B2/B3 as printed), and doses the page lacked (clonidine 0.1 mg BID + colesevelam 1875 mg BID; lactulose 10 mL BID + weekly enemas). Cut prevalence, trial design and device detail owned elsewhere to stay under the ceiling (body 2,499 words). Rome V figure 1 embedded.
+- `[[proctalgia-syndromes]]` — **two source-fidelity errors corrected.** The page carried **≥20 min** for levator ani syndrome from the Rome V *process overview*; the criteria chapter prints **"30 minutes or longer"**, so the specific document wins and the 20-minute figure is gone. The criterion read "**posterior** traction of the puborectalis" — Rome V explicitly deleted "posterior" because traction at other quadrants also evokes pain; also replaced the "usually one-sided" claim. Dropped the page's "8-week duration / 6 months no longer required" claim in favour of the chapter's printed 3-month/6-month footnote. Salbutamol stance corrected from "not recommended" to the chapter's RCT finding.
+- `[[anorectal-sensory-dysfunction]]` — **new disease script** for Rome V F4a/F4b, which the wiki had no page for. F4a and F4b as parallel siblings; carries the layered first criterion and the threshold asymmetry (hyposensitivity ≥2 thresholds, first sensation allowed; hypersensitivity ≥1, first sensation forbidden as less reliable).
+
+**Figures:** licence verified by the PDF's own line (CC BY-NC-ND 4.0) before capture. Figure 1 (neuromodulation/device therapies) → `[[fecal-incontinence]]`; figure 3 (biofeedback effect on anorectal topography) → biofeedback/manometry. Both cropped only to the figure's own edges, whole and unaltered per the ND term. **Figure 2 (dyssynergia types I–IV) deliberately not captured** — reproduced from another publisher with permission, so not covered by this article's licence.
+
+**Steps that did nothing, and why:**
+- **Daily source fetch** — not run; it is a 06:00 cron-only step and this was a manual pass.
+- **Validate the stalest pages / Expand stubs / Fill coverage gaps** — paused: ingest backlog (backlog mode gives ingest the budget first).
+- **NCCN targets** — still skipped on sight; the EULA forbids use with an LLM.
+
+---
+
 ## [2026-11-13] update | Card pass — dedup, stale-page re-cards, card quality review
 
 **Dedup:** `anki-dupes.mjs` returned 0 unjudged candidate pairs at ≥0.4 — nothing to merge, no ledger entries.

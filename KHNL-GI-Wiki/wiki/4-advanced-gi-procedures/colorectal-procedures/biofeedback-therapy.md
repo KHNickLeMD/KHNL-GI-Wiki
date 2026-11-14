@@ -3,18 +3,25 @@ title: "Biofeedback Therapy"
 category: advanced-procedure
 tags: [biofeedback, pelvic-floor, dyssynergic-defecation, defecation-disorders, fecal-incontinence, levator-ani, constipation, anorectal]
 created: 2026-06-01
-updated: 2026-10-18
-sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation, rome-v-2026-dgbi]
+updated: 2026-11-14
+sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation, rome-v-2026-dgbi, rome-v-2026-anorectal-disorders]
 ---
 
 *Instrument-based pelvic floor retraining — the cornerstone of [[defecation-disorders|dyssynergic defecation]] management and a Strong-recommendation therapy for [[fecal-incontinence|fecal incontinence]] and levator ani syndrome. Delivered as a course of supervised sessions, not a single procedure.*
 
 ## Contents
 - [[#Indications and Evidence]]
-- [[#Protocol]]
+  - [[#Dyssynergic Defecation]]
+  - [[#Fecal Incontinence]]
+  - [[#Levator Ani Syndrome]]
+  - [[#Rectal Sensory Disorders]]
+- [[#Technique]]
 - [[#Patient Selection]]
+- [[#Delivery — Office, Home, and Pelvic Floor Physical Therapy]]
 - [[#Role in the Constipation Pathway]]
 - [[#Limitations]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -28,13 +35,38 @@ sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation, rome-v
 | **[[fecal-incontinence\|Fecal incontinence]]** not responding to education + conservative measures | Biofeedback = pelvic floor rehabilitative techniques with visual or auditory feedback | **Strong / Moderate** |
 
 - **The ARM qualifier is the decision.** Both proctalgia recommendations apply to levator syndrome *with abnormal ARM* — **not** to idiopathic chronic proctalgia syndrome. ARM + balloon expulsion test (BET) are performed specifically to sort which proctalgia patient is a biofeedback candidate ([[acg-2021-anorectal-disorders]]).
-- For dyssynergic defecation, biofeedback is **superior to sham biofeedback, diazepam, and PEG (polyethylene glycol)** in randomized controlled trials (RCTs) — it is the cornerstone of management, not an adjunct.
-- In fecal incontinence, up to **20%** need no further treatment when conservative measures (education + antidiarrheals/laxatives + daily pelvic floor exercises) are properly taught and followed up.
+
+### Dyssynergic Defecation
+
+- **The mainstay of management**, not an adjunct — it **restores bowel function by improving rectoanal coordination**, and **a multicomponent biofeedback is preferred** ([[rome-v-2026-anorectal-disorders]]). Management begins with explanation, education and lifestyle measures.
+- **Superior to sham feedback, pelvic floor exercises, laxatives and muscle relaxant drugs** in large randomized controlled trials (RCTs), **short- and long-term** ([[rome-v-2026-anorectal-disorders]]); also superior to **sham biofeedback, diazepam, and PEG (polyethylene glycol)** ([[acg-2021-anorectal-disorders]]).
+- ⚠ **Ineffective for isolated slow-transit constipation** ([[rome-v-2026-anorectal-disorders]]).
 - **Not** a substitute for surgery in proven dyssynergia with a structural abnormality — surgery is reserved for biofeedback failure **and** a structural lesion (e.g. significant rectocele). Counsel carefully before any surgery for a defecatory disorder: potential risks often outweigh benefits.
+- Two RCTs found **surgery superior to biofeedback**, but one enrolled patients whose symptoms were due to **structural** pelvic floor abnormalities and the other used a **suboptimal biofeedback protocol** ([[rome-v-2026-anorectal-disorders]]).
+
+### Fecal Incontinence
+
+- Patients are taught to **selectively contract the external anal sphincter and puborectalis**, to improve the **strength and duration of anal squeeze**, and to **correct dyssynergia when present** ([[rome-v-2026-anorectal-disorders]]).
+- **Feedback** is given via **visual tracings of balloon volume and/or anorectal pressure**, reinforced by the therapist and by **balloon distention with progressively smaller volumes**.
+- **Intact baseline sensation and improved sensory discrimination predict greater success.**
+- **More than half maintain benefit at a 7-year median follow-up.**
+- ⚠ **Patients failing initial therapy rarely respond later and should be referred for alternative therapies.**
+- Up to **20%** need no further treatment when conservative measures (education + antidiarrheals/laxatives + daily pelvic floor exercises) are properly taught and followed up ([[acg-2021-anorectal-disorders]]).
+
+### Levator Ani Syndrome
+
+- In an RCT, **87% of patients with levator tenderness reported adequate pain relief after biofeedback**, vs **45% after electrical stimulation** and **22% after massage** ([[rome-v-2026-anorectal-disorders]]).
+- ⚠ **Patients without levator tenderness did not benefit from any therapy** — tenderness on digital rectal examination is the selector, not the pain alone.
+- **Electrogalvanic stimulation** may be considered if biofeedback is unavailable.
+
+### Rectal Sensory Disorders
+
+- **Sensory biofeedback** (repeated balloon inflations with stepwise smaller volumes) is particularly useful in **rectal hyposensitivity**; **sensory adaptation therapy** is the barostat-mediated protocol for **rectal hypersensitivity** ([[rome-v-2026-anorectal-disorders]]).
+- Volumes, pressure increments, session counts and the comparative trial data: [[anorectal-sensory-dysfunction]].
 
 ---
 
-## Protocol
+## Technique
 
 Suggested treatment protocol for anorectal biofeedback — American College of Gastroenterology (ACG) 2021 Table 3 ([[acg-2021-anorectal-disorders]]):
 
@@ -65,6 +97,17 @@ Suggested treatment protocol for anorectal biofeedback — American College of G
 - **Baseline ARM + BET predict the outcome** and guide how the course is aimed.
 - **Dyssynergia subtypes (types I–IV)** are not defined by [[acg-2021-anorectal-disorders]] (which recommends biofeedback for dyssynergic defecation without subtyping it) or [[aga-2026-refractory-constipation]]. What the guideline *does* give for selecting and aiming the course is on [[anorectal-manometry]] (rectoanal gradient, anal relaxation on push, rectal sensation, BET).
 - Distinguish from slow-transit constipation: colonic transit study if BET is normal **or** biofeedback fails. Up to **50%** of defecation-disorder patients have delayed colonic transit (usually secondary).
+- **Predictors of a favorable outcome** in dyssynergic defecation ([[rome-v-2026-anorectal-disorders]]): **anal digitation**, **hard stools**, **greater patient motivation**, **undergoing ≥5 sessions**, and a **prolonged balloon expulsion time**. **Psychological distress adversely affects outcomes.**
+
+---
+
+## Delivery — Office, Home, and Pelvic Floor Physical Therapy
+
+*All from [[rome-v-2026-anorectal-disorders]].*
+
+- **Home-based biofeedback achieves success rates comparable with office biofeedback — 68% vs 70% — at lower cost.**
+- **Barriers to delivery:** labor-intensiveness, lack of dedicated equipment and of a standardized protocol, limited therapist availability, poor insurance coverage.
+- **Pelvic floor physical therapy** is a widely used alternative, but **evidence and standardization are lacking and it differs significantly from biofeedback** — it is not interchangeable.
 
 ---
 
@@ -85,9 +128,9 @@ See [[chronic-idiopathic-constipation]] for the full refractory pathway.
 ## Limitations
 
 - **Levator ani syndrome:** the Strong recommendation rests on a **single key RCT** with no independent replication in 10 years — the guideline itself flags this. It stands because biofeedback carries no significant risk and there is no effective alternative ([[acg-2021-anorectal-disorders]]).
-- Availability of trained therapists and manometric equipment limits delivery; galvanic stimulation is the named fallback for levator syndrome only, and was **less effective than biofeedback but superior to conservative treatment**.
+- Galvanic stimulation is the named fallback for levator syndrome only, and was **less effective than biofeedback but superior to conservative treatment**.
 - **Predictors of poor response (FI):** short-term memory loss from dementia, depression, and central nervous system (CNS) etiologies (spinal cord or head injury). The course requires a motivated patient, reinforcement over time, and a skilled therapist.
-- In FI trials, biofeedback was **not superior to conservative measures / pelvic floor exercises alone or to education** — a likely explanation is that trial patients had not first been treated with conservative measures. Labor intensive and highly expertise-dependent.
+- In FI trials, biofeedback was **not superior to conservative measures / pelvic floor exercises alone or to education** — a likely explanation is that trial patients had not first been treated with conservative measures.
 - **Not recommended** for dyssynergia: [[botulinum-toxin|botulinum toxin]] (poor evidence, short-lived, impractical long-term).
 - **[[sacral-nerve-stimulation|Sacral nerve stimulation (SNS)]] is not recommended for constipation** (no benefit in RCTs) — biofeedback does not compete with SNS in this indication.
 
@@ -95,7 +138,7 @@ See [[chronic-idiopathic-constipation]] for the full refractory pathway.
 
 ## See Also
 
-[[defecation-disorders]], [[anorectal-manometry]], [[fecal-incontinence]], [[proctalgia-syndromes]], [[chronic-constipation]], [[chronic-idiopathic-constipation]], [[sacral-nerve-stimulation]], [[irritable-bowel-syndrome]], [[rectal-prolapse]], [[hemorrhoids]], [[anal-fissure]]
+[[defecation-disorders]], [[anorectal-manometry]], [[fecal-incontinence]], [[anorectal-sensory-dysfunction]], [[proctalgia-syndromes]], [[chronic-constipation]], [[chronic-idiopathic-constipation]], [[sacral-nerve-stimulation]], [[irritable-bowel-syndrome]], [[rectal-prolapse]], [[hemorrhoids]], [[anal-fissure]]
 
 ---
 
@@ -104,3 +147,4 @@ See [[chronic-idiopathic-constipation]] for the full refractory pathway.
 1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 2. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review]]
 3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+4. [[rome-v-2026-anorectal-disorders|Anorectal Disorders (Rome V, 2026)]]

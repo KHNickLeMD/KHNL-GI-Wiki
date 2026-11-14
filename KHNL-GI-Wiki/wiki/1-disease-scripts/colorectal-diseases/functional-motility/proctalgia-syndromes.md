@@ -3,8 +3,8 @@ title: "Proctalgia Syndromes"
 category: disease-script
 tags: [proctalgia, levator-ani, chronic-proctalgia, proctalgia-fugax, anorectal, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-09-06
-sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi]
+updated: 2026-11-14
+sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi, rome-v-2026-anorectal-disorders]
 ---
 
 ## Contents
@@ -24,19 +24,44 @@ sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi]
 
 **Proctalgia syndromes** are characterized by recurrent episodes of anorectal pain in the absence of other identifiable causes. They sit in the [[rome-v-2026-dgbi|Rome V]] anorectal [[disorders-of-gut-brain-interaction|disorders of gut–brain interaction]] under **F2 — anorectal pain disorders**, which Rome V splits into **three** named entities (the American College of Gastroenterology (ACG) 2021 terminology maps onto them):
 
-| Rome V | Rome V name | ACG 2021 equivalent | Defining feature |
-|---|---|---|---|
-| **F2a** | Levator ani syndrome | Chronic proctalgia **with** levator tenderness | Pain ≥20 min **+** tenderness on posterior traction of the puborectalis |
-| **F2b** | Unexplained anorectal pain | Idiopathic chronic proctalgia syndrome | Pain ≥20 min, **no** levator tenderness |
-| **F2c** | Proctalgia fugax | Proctalgia fugax | Pain **seconds to <20 min**, normal digital rectal examination (DRE) |
+| Rome V | Rome V name | ACG 2021 equivalent |
+|---|---|---|
+| **F2a** | Levator ani syndrome | Chronic proctalgia **with** levator tenderness |
+| **F2b** | Unexplained anorectal pain | Idiopathic chronic proctalgia syndrome |
+| **F2c** | Proctalgia fugax | Proctalgia fugax |
 
-- **Duration rule changed in Rome V:** the **6-month** symptom-duration requirement is **no longer required**; Rome V suggests an **8-week** duration to exclude other diagnoses — and **explicitly exempts infrequent-episode disorders, naming proctalgia fugax**, along with any case where the clinician is satisfied that medical evaluation has excluded other disorders. [[rome-v-2026-dgbi]]
-- **The ≥20-minute cut-point is the discriminator** between F2a/F2b and F2c; **levator tenderness** is the discriminator between F2a and F2b, and it changes the treatment (see Therapeutics).
+- **Two discriminators, both bedside:** **episode duration** separates F2c (seconds to minutes) from F2a/F2b (30 minutes or longer), and **tenderness on traction of the puborectalis** separates F2a from F2b — and it changes the treatment (see Therapeutics).
+- Diagnosis rests on **symptoms plus the digital rectal examination (DRE)** alone; no physiologic test is required for any of the three. [[rome-v-2026-anorectal-disorders]]
 
-**Features beyond the defining criteria** (the criteria themselves are in the table above — not repeated here):
+**F2a. Levator ani syndrome — must include all of:**
 
-- **Chronic proctalgia (F2a/F2b):** dull or pressure-like pain, often lasting **hours to days**; levator tenderness is usually **one-sided**. Requires exclusion of other anorectal causes by history and testing. Diagnosis is clinical, and **duration — not frequency — is the key criterion**.
-- **Proctalgia fugax (F2c):** intense rectal/anal pain; **pathophysiology unknown**, thought to involve excessive tension of the puborectalis/levator ani. **No objective test is required** — characteristic history plus a normal DRE suffices.
+1. Chronic or recurrent anorectal pain
+2. Episodes last **30 minutes or longer**
+3. **Tenderness during traction on the puborectalis**
+4. Exclusion of other causes of anorectal pain, such as anal fissure, thrombosed hemorrhoids, malignancy, and infectious or inflammatory causes, such as inflammatory bowel disease, perianal abscess, fistula, prostatitis, coccygodynia, and gynecologic causes of pelvic pain
+
+**F2b. Unexplained anorectal pain:** symptom criteria for levator ani syndrome but **no tenderness** during traction on the puborectalis muscle.
+
+**F2c. Proctalgia fugax — must include all of:**
+
+1. Recurrent episodes of pain localized to the anorectum and **unrelated to defecation**
+2. Episodes last **from seconds to minutes**
+3. There is **no anorectal pain between episodes**
+4. Exclusion of other causes of anorectal pain, such as anal fissure, thrombosed hemorrhoids, malignancy, and infectious or inflammatory causes, such as inflammatory bowel disease, perianal abscess and fistula, prostatitis, coccygodynia, and major structural disorders of the pelvic floor
+
+> All three: criteria fulfilled for the last 3 months with symptom onset at least 6 months before diagnosis.
+
+**What changed in Rome V (4 changes):**
+
+- **"Posterior traction" → "traction"** — traction at other quadrants also evokes pain.
+- The term **"functional" was removed**.
+- The order of the "other conditions" exclusion list was changed to **match the frequency** of those disorders.
+- **"Structural alterations" was replaced with "disorders."**
+
+**Features beyond the criteria:**
+
+- **Levator ani syndrome / unexplained anorectal pain:** a vague, dull ache or pressure sensation in the rectum, **worse sitting** than standing or lying down; episodes often last **hours to days** ([[acg-2021-anorectal-disorders]]). Left-sided tenderness was formerly thought more common, but DRE reproduced pain in **1 or more anal quadrants with similar pain severity**. The split between F2a and F2b rests largely on 1 study, and the evaluation and treatment discussion applies to both.
+- **Proctalgia fugax:** cramping, gnawing, aching or stabbing pain ranging from uncomfortable to unbearable; attacks are infrequent — **fewer than 5 times per year in 51%** — often recalled as nocturnal but can occur anytime, and **interrupt activities in 50%**. **Pathophysiology unknown**, thought to involve excessive tension of the puborectalis/levator ani; **hypertrophy of the internal anal sphincter** has been reported in a hereditary form. No objective test is required — characteristic history plus a normal DRE suffices.
 
 ---
 
@@ -55,7 +80,7 @@ sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi]
 | [[crohns-disease\|Crohn's]] perianal disease | Fistulas, skin tags, atypical fissures |
 | Endometriosis | Women; cyclical pain; pelvic magnetic resonance imaging (MRI) |
 
-Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pathology do NOT invalidate the diagnosis of chronic proctalgia or proctalgia fugax (PF) — manage concurrently.
+Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pathology do NOT invalidate the diagnosis of chronic proctalgia or proctalgia fugax — manage concurrently.
 
 ---
 
@@ -66,6 +91,13 @@ Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pa
 - **[[colonoscopy|Colonoscopy]]/flexible sigmoidoscopy:** if rectal bleeding, change in bowel habit, or other alarm features present
 - No specific imaging required unless alternative diagnosis suspected (pelvic MRI if endometriosis, abdominal mass, complex pelvic floor involvement)
 
+**What the physiology shows in levator ani syndrome:**
+
+- **85% of patients with levator tenderness had dyssynergia** on manometry — without constipation — in a randomized controlled trial (RCT) of 157 patients with chronic anorectal pain, and **reversal of the dyssynergia with biofeedback strongly predicted symptom relief**.
+- **34%** of patients with levator ani syndrome met criteria for dyssynergic defecation.
+- They also have **weak anal sphincters and a prolonged BET**.
+- Latencies on translumbosacral anorectal magnetic stimulation were prolonged, indicating lumbar or sacral plexus neuropathy.
+
 ---
 
 ## Therapeutics
@@ -74,31 +106,34 @@ Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pa
 
 **[[biofeedback-therapy|Biofeedback]] — Strong recommendation, Very Low evidence (ACG 2021):**
 
-- Cornerstone of treatment; single best-studied randomized controlled trial (RCT) showed biofeedback superior to electrogalvanic stimulation (EGS) and conservative management in levator syndrome with levator tenderness and abnormal ARM
+- Cornerstone of treatment. In the pivotal RCT, **87% of patients with levator tenderness reported adequate pain relief after biofeedback, vs 45% after electrical stimulation and 22% after massage**
 - No independent replication in 10 years; guideline maintains Strong recommendation given absence of effective alternatives and no significant risks
 - 4–6 sessions; same protocol as for dyssynergic defecation (linked at the top of the differential)
 
-**EGS — Conditional/Very Low:**
+> [!pitfall] No tenderness on DRE, no benefit from therapy
+> In the same RCT, **patients without levator tenderness did not benefit from any of the three therapies** — so the DRE, not the pain history, is what selects patients for treatment (Rome V 2026 anorectal chapter).
+
+**Electrogalvanic stimulation (EGS) — Conditional/Very Low:**
 
 - If biofeedback not available; superior to conservative management but inferior to biofeedback
 - Direct electrical stimulation of anal canal/levator ani; available at some centers
 
-**Not recommended:**
+**Translumbosacral neuromodulation therapy:** repetitive magnetic stimulation of the lumbar and sacral plexus; an open-label study reported significant improvement in anorectal pain and in lumbosacral neuropathy.
 
-- [[botulinum-toxin|Botulinum toxin]] injection: insufficient evidence; no RCT data in levator syndrome
-- Digital rectal massage: no evidence
+**[[botulinum-toxin|Botulinum toxin]]** (intra-anal or intra-levator): retrospective studies suggested improvement, but **1 RCT found no benefit over placebo** — unresolved.
 
-**Idiopathic chronic proctalgia / Rome V F2b unexplained anorectal pain (no levator tenderness):**
+**Ineffective — do not use for levator ani syndrome:** muscle relaxants, diazepam, [[sacral-nerve-stimulation|sacral nerve stimulation]], sitz baths, radiofrequency, pudendal infiltration, transgluteal decompression, transcutaneous electrical nerve stimulation, laparoscopic decompression. Digital rectal massage: no evidence (ACG 2021).
+
+**Unexplained anorectal pain (F2b — no levator tenderness):**
 
 - No proven treatments; explanation and reassurance primary approach
 - Consider biofeedback if pelvic floor dysfunction identified on ARM
 
 ### Proctalgia Fugax
 
-- **Explanation and reassurance** are the primary treatment — brevity of episodes means treatment interventions rarely improve over the natural course
-- No evidence for any intervention to prevent or treat attacks
-- Salbutamol inhalation: one older study showed benefit only for episodes >20 min (these would be chronic proctalgia, not PF); not recommended
-- Clonidine, diltiazem: anecdotal; no RCT evidence
+- **Reassurance is often sufficient** — described as "harmless, unpleasant, and incurable"; brevity of episodes means interventions rarely improve on the natural course. Only frequent or severe attacks need therapy
+- **Inhaled salbutamol shortened the duration of severe and prolonged attacks** vs placebo in an RCT
+- **Suggested but with no comparative studies:** clonidine, amyl nitrite, nitroglycerine, neuromodulators, behavioral therapies. Diltiazem is anecdotal only (ACG 2021)
 
 ---
 
@@ -111,3 +146,4 @@ Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pa
 
 1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 2. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+3. [[rome-v-2026-anorectal-disorders|Anorectal Disorders (Rome V, 2026)]]
