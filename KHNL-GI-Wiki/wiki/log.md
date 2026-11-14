@@ -6,6 +6,31 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-14] update | Card pass — dedup, cards for 7 stale pages, quality review of 6 files
+
+**Dedup and backfill:** `anki-dupes.mjs` returned **0 unjudged candidate pairs** at ≥0.4 — nothing to judge or mark. `anki-at.py --status`: **0 untagged notes in 0 files**, so the `{at:}` backfill step did nothing.
+
+**Cards written (every eligible page cleared):**
+- `[[dyspepsia]]` — 11 → 10 notes. Three notes retired to their owner pages after the quality review moved their facts off this page: the *H. pylori* test-prep hold intervals (now owned by `[[helicobacter-pylori-infection]]` b92009), the empiric-PPI course (`[[functional-dyspepsia]]` fd2004) and long-term PPI harms (`[[proton-pump-inhibitors]]` de3001, whose 6–12-month reassessment interval is no longer on either page). New note on the two histories that lower the under-60 endoscopy threshold; alarm-feature note recut so the scope-anyway triggers are the cloze; pancreatic-imaging note now carries the ≥60 rule. Broken `at:ppi-safety-considerations` anchor fixed (that section was deleted). One Back Extra table: ACG/CAG vs Rome V routing.
+- `[[cannabinoid-hyperemesis-syndrome]]` — 12 → 13 notes. New note on the temporal requirement (cannabis use must *precede* symptom onset — up to 80% of cyclic vomiting syndrome patients use cannabis during attacks and likely do not have CHS). Abortive note merged the parenteral dopamine D2 antagonists in from Back Extra. Anchors repointed to the new `### Abortive Therapy` / `### Preventive and Long-Term Therapy` subsections. One Back Extra table: what Rome V changed in the Venkatesan criteria.
+- `[[baclofen]]` — 5 → 7 notes. Alcohol-use-disorder dosing note re-sourced to **AGA 2026** (the schedule the page now says to titrate by), with the ACG 2024 and AASLD 2020 ceilings in Back Extra. Two new notes for indications that had no card: the AGA 2022 phenotype match (regurgitation- or belch-predominant) and AGA 2023's "not routinely recommended" for extraesophageal reflux.
+- `[[botulinum-toxin]]` — 6 notes, unchanged. Everything new on the page is owned elsewhere and already carded (`[[gastroparesis]]` 9a0010 pyloric stance + scarring, `[[anal-fissure]]` af1009, `[[abdominal-bloating-and-distention]]` c4a005 for the 50–100 IU upper-esophageal-sphincter dose). Added the durability table (30 d → 12 mo) to the efficacy note's Back Extra.
+- `[[pneumatic-dilation]]` — 9 → 11 notes. Two decision gaps the quality review opened: the timed-barium reassessment rule (symptoms improved but barium column >5 cm at 5 min → follow, re-treat only if retention or dilatation worsens) and SAGES 2024's subgroups where dilation is still preferred over myotomy.
+- `[[nutrition-in-ibd]]` — 10 notes, unchanged; the new page content is all cut-list (prevalence, formula brands, phase food lists) or owned by `[[short-bowel-syndrome]]` and `[[nutrition-in-hospitalized-patients]]`. Malnutrition-criteria anchor repointed to the new `### Diagnostic Criteria`; two Back Extra tables added (the four criteria sets; the rest of the by-clinical-state approach).
+- `[[jaundice]]` — 4 → 6 notes. New: delta bilirubin (albumin's 3-week half-life, not a reason to restart the workup) and Dubin-Johnson/Rotor (direct ~50% of total, no need to distinguish). GGT deliberately not carded — `[[abnormal-liver-chemistries]]` a10008 owns it.
+
+**Card quality review (6 files):**
+- `defecation-disorders` — 20 → 18. Rome V diagnostic criteria merged into one note now carrying the **≥25%-of-bowel-movements** qualifier and the probable-vs-definite labels that were missing; the two rectocele-surgery notes merged into one. STARR Back Extra trimmed of trial narrative. 1 table added.
+- `pouchitis` — 20 notes, all passed. 2 tables added (the five treatment-anchored subtypes; surveillance intervals by risk).
+- `abdominal-bloating-and-distention` — 20 → 19. **Fidelity fix:** a note asserted flatly that PPIs do not work in supragastric belching; the page's rule is that belching *preceding* a reflux event does not respond while belching *after* one may. Diet and probiotic notes merged. 1 table added.
+- `enteral-access` — 20 notes. The ASGE 2011 route note recut to its one non-duplicated fact (chronic pancreatitis → post-pyloric); its altered-anatomy row duplicated ea2004/ea2015. 1 table added (route by scenario).
+- `loperamide` — 20 → 19. The deck's most dose-fragmented file: the two ceilings (8 mg/day alone, 16 mg/24 h with an antibiotic) merged into one note with the page's full dose-by-setting table; the IBS reactive-dose note retired as identical to the acute-diarrhea regimen; the mild-watery-diarrhea note recut to the stratum rule. One genuine gap carded: Rome V's **functional diarrhea 2–4 mg up to 4×/day, no laboratory monitoring**.
+- `anti-tnf-agents` — 20 → 18. Anti-TNF trough targets **moved to `[[therapeutic-drug-monitoring-ibd]]`** (new note 7d0010), the page that holds the target table — it also carried the only `{at:-}` anchor in the file; adalimumab and certolizumab maintenance doses merged into one note.
+
+**Skipped, deliberately:** `gastroenteropancreatic-neuroendocrine-tumors` sits at the top of the card-review queue but its notes are NCCN-sourced and await Nick's licence decision. `telemedicine-in-gastroenterology`, `bristol-stool-form-scale` and `peginterferon-alfa-2a` remain the three uncarded pages, for the standing reasons (practice-management content; primary-paper-sourced; label-sourced with every tier-1 fact owned elsewhere).
+
+**Build:** `build-anki.mjs` ends with **0 problems**, 4,596 notes. Nextcloud `occ files:scan` not run — the cron script that normally runs it is on the host, unreachable from this container, so the web UI may serve the previous file until the next scheduled pass.
+
 ## [2026-11-14] lint | Quality review release sweep — second run
 
 **Scope:** Quality review step only (no ingest, no new pages). `git pull --rebase` clean at start. Queue from `review-queue.py --pages 10`, worked from the top, one subagent per page, until the run's budget cap. 85/366 pages quality-reviewed at start.
