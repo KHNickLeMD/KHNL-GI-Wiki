@@ -3,11 +3,12 @@ title: "Anorectal Abscess"
 category: disease-script
 tags: [anorectal, abscess, cryptoglandular, incision-and-drainage, fistula, perianal]
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-14
 sources: [ascrs-2022-anorectal-abscess-fistula]
+quality_reviewed: 2026-11-14
 ---
 
-Acute pyogenic collection in one of the anorectal spaces. The generally accepted cause is **obstruction of an anal gland** — the cryptoglandular theory; the same process, once the drainage tract becomes chronically infected and epithelialized, produces [[anal-fistula|fistula-in-ano]] ([[ascrs-2022-anorectal-abscess-fistula|American Society of Colon and Rectal Surgeons (ASCRS) 2022]]). **Treatment is prompt incision and drainage; antibiotics are an adjunct for selected patients, never a substitute.**
+Acute pyogenic collection in one of the anorectal spaces. The generally accepted cause is **obstruction of an anal gland** — the cryptoglandular theory; the same process, once the drainage tract becomes chronically infected and epithelialized, produces [[anal-fistula|fistula-in-ano]] ([[ascrs-2022-anorectal-abscess-fistula|American Society of Colon and Rectal Surgeons (ASCRS) 2022]]). **Treatment is prompt incision and drainage; antibiotics are an adjunct reserved for selected patients.**
 
 ---
 
@@ -35,13 +36,12 @@ Acute pyogenic collection in one of the anorectal spaces. The generally accepted
 - **Diagnosis is clinical** — history and physical examination, evaluating symptoms, relevant history, abscess and fistula location, and the presence of secondary cellulitis (ASCRS rec 1, *strong recommendation, low-quality evidence, 1C*).
 - **Superficial abscess:** anorectal pain and swelling are common.
 - **Deeper abscess** (supralevator, high ischiorectal): spontaneous drainage and fever occur **less often**; pain may be **referred to the perineum, lower back, or buttocks**. Examination may be **relatively unrevealing** — particularly with intersphincteric or deeper abscesses.
-- **Digital rectal examination and anoscopy/proctoscopy** are occasionally needed to clarify the diagnosis.
 - History should include baseline anal sphincter function, prior anorectal operations, family history of [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], obstetric history, and associated gastrointestinal, genitourinary or gynecologic pathology.
 - Inspection of the perineum notes abscess findings, surgical scars, anorectal deformities, signs of possible anorectal [[crohns-disease|Crohn's disease]], and any external fistula opening.
 - **More common in males;** peak incidence **20–40 years**.
 
 > [!pitfall] A normal-looking perineum does not exclude an abscess
-> Intersphincteric and supralevator abscesses can present with pain referred to the perineum, lower back or buttocks and little or nothing to see externally. Pain out of proportion to findings warrants digital rectal examination, anoscopy, and — if still unresolved — cross-sectional imaging or examination under anesthesia ([[ascrs-2022-anorectal-abscess-fistula]]).
+> When pain is out of proportion to the external findings, go on to digital rectal examination and anoscopy/proctoscopy, and — if the diagnosis is still unresolved — imaging for an occult abscess or examination under anesthesia (EUA) ([[ascrs-2022-anorectal-abscess-fistula]] recs 1–2).
 
 ### Classification by Anatomic Space
 
@@ -52,7 +52,7 @@ Abscesses are named for the anatomic space in which they develop. **Frequency or
 3. **Supralevator**
 4. **Submucosal**
 
-The space determines whether drainage should be **internal or external** (see [[#Drainage by Abscess Location]]).
+Location **generally** determines whether drainage should be internal or external (see [[#Drainage by Abscess Location]]).
 
 ---
 
@@ -81,9 +81,8 @@ The space determines whether drainage should be **internal or external** (see [[
 | Endoanal ultrasound (EAUS) | Concordance with operative findings **73–100%** | May be performed in 2 or 3 dimensions, with or without peroxide enhancement |
 | Transperineal ultrasound (TPUS) | Diagnostic accuracy nearly identical to EAUS and MRI in 23 patients with Crohn's disease | First-line candidate on availability, low cost, noninvasiveness — but **operator-dependent**, and has not gained widespread popularity |
 
-- **Examination under anesthesia (EUA)** both diagnoses and treats: in a 2001 blinded study of 34 patients with anorectal Crohn's disease, EUA was accurate in 91% of patients (EAUS 91%, MRI 87%), and combining **any 2** techniques gave **100%** accuracy.
-- **Routine culture of abscesses is not clinically useful** and does not affect management or outcomes. Culture **should be considered** in cases of **recurrent infection or nonhealing wounds**, and in patients with underlying HIV infection, in whom atypical infections including tuberculosis may benefit from wound culture and targeted treatment.
-- **Methicillin-resistant *Staphylococcus aureus* (MRSA)** has been reported in up to **33%** of patients; when isolated, antibiotics directed against the organism are typically recommended for patients with **systemic signs of sepsis, leukocytosis, or leukopenia**.
+- **EUA** both diagnoses and treats: in a 2001 blinded study of 34 patients with anorectal Crohn's disease, EUA was accurate in 91% of patients (EAUS 91%, MRI 87%), and combining **any 2** techniques gave **100%** accuracy.
+- **Routine culture of abscesses is not clinically useful** and does not affect management or outcomes. Culture **should be considered** in cases of **recurrent infection or nonhealing wounds**, and in patients with underlying human immunodeficiency virus (HIV) infection, in whom concomitant or atypical infections including tuberculosis may benefit from wound culture and targeted antibiotic treatment.
 
 ---
 
@@ -112,6 +111,7 @@ The space determines whether drainage should be **internal or external** (see [[
 | **Supralevator arising from cephalad extension of an ischiorectal abscess** | **External** — through the perianal skin | Prevents fistula formation |
 | **Horseshoe (crossing the midline)** | Deep postanal space drainage with **counter incisions** to the ischiorectal spaces (Hanley procedure); or **modified Hanley** using a posterior midline partial sphincterotomy to unroof the postanal space **plus seton placement** | These most often involve the deep postanal space and extend laterally into the ischiorectal spaces |
 
+- **ASCRS 2022 names a drainage route only for the abscesses above** — it does not specify one for ischiorectal or submucosal abscesses.
 - **Horseshoe abscesses: avoid primary lay-open fistulotomy** — these fistulas tend to be **transsphincteric**, so fistulotomy risks major sphincter injury.
 - The Hanley procedure is effective in the setting of a horseshoe abscess **although it may negatively impact anal sphincter function**; the **modified Hanley** has a high rate of abscess resolution and has been reported to better preserve anorectal function than other operative interventions.
 
@@ -119,15 +119,22 @@ The space determines whether drainage should be **internal or external** (see [[
 
 **Abscess drainage with concomitant fistulotomy may be performed in selected patients with simple anal fistulas** ([[ascrs-2022-anorectal-abscess-fistula]] rec 4, *weak recommendation, moderate-quality evidence, 2B*).
 
-- **30–70%** of patients with an anorectal abscess have a concomitant fistula-in-ano; the role of primary fistulotomy at the time of drainage **remains controversial**.
-- **Case for it:** a 2010 Cochrane review (479 patients, 6 RCTs) found sphincter division at the time of incision and drainage significantly decreased the likelihood of fistula recurrence, persistent fistula or abscess, or need for subsequent surgery — **relative risk 0.13 (95% confidence interval 0.07–0.24)** — with an increased but **not statistically significant** incidence of continence disturbance at 1 year.
-- **Case against it:** fistulotomy may increase the risk of causing a false tract when probing, and inflammation from the suppurative process can cause the surgeon to **underestimate the degree of sphincter involvement**. Bokhari and Lindsey (128 patients) found major incontinence significantly more common after treatment in patients with a **complex** fistula (13%) than a simple fistula (5%).
-- **Critical selection caveat:** the randomized trials in that meta-analysis **excluded** patients with complex fistulas, recurrent abscesses, IBD, preexisting incontinence, and prior anorectal surgery — so the result does not extend to them.
-- **Alternative — staged approach:** place a **draining seton** through the remaining tract at the time of partial fistulotomy. In 26 patients with low transsphincteric fistulas who underwent partial fistulotomy plus draining seton (23 of them male), all 24 who went on to completion fistulotomy reported **no fistula or abscess recurrence and no incontinence at 1 year**.
+- **"Simple" is the operative criterion:** intersphincteric or **low transsphincteric** fistula involving **<30% of the external anal sphincter**, with none of the complex features (>30% of the external sphincter, suprasphincteric, extrasphincteric, horseshoe, or associated with IBD, radiation, malignancy, preexisting fecal incontinence or chronic diarrhea) — full definitions on [[anal-fistula#Simple vs Complex|anal fistula]].
+- **30–70%** of patients with an anorectal abscess have a concomitant fistula-in-ano; the role of primary fistulotomy at the time of drainage **remains controversial**, and the randomized studies are small with varied results.
+
+| Evidence | Recurrence / reoperation | Continence |
+|---|---|---|
+| **Cochrane 2010** — 479 patients pooled from 6 randomized trials; sphincter division (fistulotomy or fistulectomy) at drainage | **Relative risk 0.13 (95% confidence interval 0.07–0.24)** for abscess recurrence, persistent fistula or abscess, or need for subsequent surgery | Increased but **not statistically significant** continence disturbance at 1 y |
+| **Schouten and van Vroonhoven** — randomized trial, primary fistulectomy + partial internal sphincterotomy (36 patients) vs incision and drainage alone (34 patients) | **3% vs 41%** recurrence | **39% vs 21%** postoperative sphincter disturbance at median 42 mo |
+| **Bokhari and Lindsey** — retrospective, 128 patients, fistulotomy or sphincter preservation | — | Major incontinence **13%** with a complex fistula vs **5%** with a simple fistula |
+
+- **Against routine use:** probing an acutely inflamed tract risks creating a **false tract**, and edema from the suppurative process can cause the surgeon to **underestimate the degree of sphincter involvement**.
+- **Critical selection caveat:** the randomized trials in the Cochrane review **excluded** patients with complex fistulas, recurrent abscesses, IBD, preexisting incontinence, and prior anorectal surgery, and included patients with **low** fistulas — the result does not extend beyond them.
+- **Alternative — staged approach:** place a **draining seton** through the remaining tract at the time of partial fistulotomy, then proceed to completion fistulotomy in those whose sphincter function is preserved. In 26 patients with low transsphincteric fistulas (23 of them male), all 24 who went on to completion fistulotomy reported **no fistula or abscess recurrence and no incontinence at 1 year**.
 - Placing a draining seton at the time of incision and drainage **commits the patient to a staged procedure** to address the fistula.
 
 > [!pitfall] A complex fistula found at drainage is not a fistulotomy
-> Primary fistulotomy is for **simple** fistulas only — the supporting trials excluded complex fistulas, IBD, recurrent abscess, preexisting incontinence and prior anorectal surgery. Inflammation at the time of drainage makes sphincter involvement easy to underestimate ([[ascrs-2022-anorectal-abscess-fistula]]).
+> Recommendation 4 covers **simple** fistulas only, and even there fistulotomy is performed in selected patients **provided the anticipated benefit of healing outweighs the potential risk of fecal incontinence** ([[ascrs-2022-anorectal-abscess-fistula]]).
 
 ### Antibiotics
 
@@ -136,7 +143,9 @@ The space determines whether drainage should be **internal or external** (see [[
 - **In a healthy patient with a routine, uncomplicated abscess, antibiotics after adequate incision and drainage do not improve healing or reduce recurrence and are typically not recommended.**
 - Patients with surrounding **cellulitis, induration, or signs of systemic sepsis** who did **not** receive antibiotics had a **2-fold increase** in rate of recurrent abscess (172 patients), although this did not reach statistical significance.
 - **Immunocompromised and neutropenic patients:** those with a higher absolute neutrophil count (**>1000/mm³**) and fluctuance typically have high resolution rates with incision and drainage, whereas **immunosuppressed patients with lower absolute neutrophil counts and no fluctuance** on examination may initially be treated with **antibiotics alone**.
-- The **effect of postoperative antibiotics on fistula formation is contested** — see [[ascrs-2022-anorectal-abscess-fistula]] *Contradictions*: one randomized single-blinded trial of 307 patients found 14% fistula formation with a 7-day ciprofloxacin + metronidazole course vs 30% without (*p* < 0.001), while a larger randomized, placebo-controlled, double-blinded multicenter trial of 334 patients showed **no protective effect**.
+- **Methicillin-resistant *Staphylococcus aureus* (MRSA)** has been reported in up to **33%** of patients; when it is isolated, drainage **plus** antibiotics directed against the organism is typically recommended for patients with **systemic signs of sepsis, leukocytosis, or leukopenia**.
+- **No agent, dose, or duration is specified.** The only regimens ASCRS 2022 reports are those of the trials it cites — 5–7 days of oral antibiotics after drainage, and a 7-day course of ciprofloxacin plus metronidazole.
+- The **effect of postoperative antibiotics on fistula formation is contested:** one randomized single-blinded trial of 307 patients found 14% fistula formation with a 7-day ciprofloxacin + metronidazole course vs 30% without (*p* < 0.001), while a larger randomized, placebo-controlled, double-blinded multicenter trial of 334 patients showed **no protective effect** ([[ascrs-2022-anorectal-abscess-fistula]] does not resolve the discrepancy).
 
 ### Recurrence and Follow-Up
 

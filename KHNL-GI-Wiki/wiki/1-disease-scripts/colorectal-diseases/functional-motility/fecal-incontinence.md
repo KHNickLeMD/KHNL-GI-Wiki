@@ -215,7 +215,6 @@ Neither guideline gives a dose for the agents marked —.
 ### Step 3: Devices, Bulking and Neuromodulation
 
 ![[fecal-incontinence-2026-neuromodulation-therapies-07.png|750x384]]
-
 *Device, bulking and neuromodulation options for fecal incontinence*
 *Source: figure 1 of [[rome-v-2026-anorectal-disorders]], open access (CC BY-NC-ND 4.0)*
 *[[rome-v-2026-anorectal-disorders|Anorectal Disorders (Rome V, 2026)]]*

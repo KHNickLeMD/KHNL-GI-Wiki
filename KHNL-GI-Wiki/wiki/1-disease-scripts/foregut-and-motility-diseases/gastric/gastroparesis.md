@@ -3,7 +3,7 @@ title: "Gastroparesis"
 category: disease-script
 tags: [gastroparesis, gastric-motility, prokinetics, g-poem, gastric-emptying, foregut]
 created: 2026-05-15
-updated: 2026-11-12
+updated: 2026-11-14
 sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, rome-v-2026-gastroduodenal-disorders, aga-2021-medically-refractory-gastroparesis, surjanhata-2025-constipation-gastroparesis]
 ---
 
@@ -202,7 +202,7 @@ Recs 9–12 apply only to refractory disease; the CPU adds trial durations and t
 |---|---|---|
 | Symptoms + test | Cardinal symptoms **predominant**; delayed GE, no alternative explanation | Persistent symptoms; confirmed delay |
 | Must have failed | **≥2 medical treatments incl. a prokinetic *and* an antiemetic** | Diet **and** metoclopramide |
-| Trial length | Not specified | **Small-particle, reduced-fat diet ≥4 wk**; **metoclopramide ≥10 mg three times daily before meals + bedtime ≥4 wk** |
+| Trial length | For G-POEM candidacy: symptoms **≥6 mo**, having failed **≥3 mo of a prokinetic** (e.g. metoclopramide) **and ≥1 antiemetic** | **Small-particle, reduced-fat diet ≥4 wk**; **metoclopramide ≥10 mg three times daily before meals + bedtime ≥4 wk** |
 | Exclusion | Not specified | Not medication induced (opioids, GLP-1 agonists) |
 
 - Before labelling refractory: reconfirm diagnosis, seek coexisting drivers, assess nutrition; multidisciplinary team ([[aga-2025-gastroparesis]])
@@ -296,7 +296,7 @@ Recs 9–12 apply only to refractory disease; the CPU adds trial durations and t
 
 - **Guidelines differ:** [[acg-2022-gastroparesis|ACG 2022]] suggests pyloromyotomy over no treatment in refractory GP (Conditional, Low); AGA 2025 (governs) — against **routine** G-POEM, no recommendation on surgery → selected patients only
 - **G-POEM:** AGA 2025 candidacy = refractory + 4-h study with **≥ moderate delay (~20% retention, Eggbeaters)** + **≥6–12 mo moderate cardinal symptoms**; selection, setting, outcomes → [[g-poem]]
-- **Surgical pyloromyotomy / pyloroplasty:** reasonable **after failed G-POEM** (AGA 2025). Heineke-Mikulicz pyloroplasty: GE improved in 90% (n=177); morbidity ~6.8% (leaks, reoperation)
+- **Surgical pyloromyotomy / pyloroplasty:** AGA 2025 makes **no recommendation** (Rec 11, knowledge gap). Its commentary notes these cut both the circular *and* longitudinal pyloric muscle where G-POEM cuts only the circular, so there **may be** a benefit in patients who do not respond to G-POEM, and that a pyloric therapy can be added when intra-abdominal surgery is already being done (gastric electrical stimulator placement, fundoplication); the same refractoriness criteria as G-POEM apply. Heineke-Mikulicz pyloroplasty: GE improved in 90% (n=177); morbidity ~6.8% (leaks, reoperation)
 - **Transpyloric stent:** investigational — no sham-controlled data, migration ([[aga-2021-medically-refractory-gastroparesis|AGA 2022 CPU]])
 - **Intrapyloric botulinum toxin:** ACG 2022 against (Strong, Moderate; 2 negative RCTs) → [[botulinum-toxin]]
 

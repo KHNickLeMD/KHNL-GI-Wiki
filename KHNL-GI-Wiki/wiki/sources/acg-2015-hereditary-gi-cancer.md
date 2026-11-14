@@ -94,7 +94,8 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 **Juvenile Polyposis Syndrome (JPS)**
 
 - SMAD4 or BMPR1A mutations in ~60% of individuals with clinically defined JPS; 25% de novo
-- Clinical criteria: ≥5 juvenile polyps in colorectum, OR juvenile polyps in other GI tract parts, OR any juvenile polyps with FH of JPS
+- **Summary statement (indication for genetic evaluation):** ≥5 juvenile polyps in the colorectum, OR any juvenile polyps in other parts of the GI tract — family history is not one of the two
+- **Generally accepted clinical criteria** (narrative, citing Latchford): the same two, plus any number of juvenile polyps in a person with a known family history of juvenile polyps
 - CRC risk 38–68% (avg age 34–44); upper GI cancer (stomach, pancreas, small bowel) 21%
 - SMAD4 mutation → also screens for [[hereditary-hemorrhagic-telangiectasia|hereditary hemorrhagic telangiectasia]] (cardiovascular exam required)
 - Surveillance: colonoscopy + EGD annually from age 12–15 (Conditional/Very low)
