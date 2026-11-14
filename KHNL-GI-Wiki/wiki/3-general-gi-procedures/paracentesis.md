@@ -3,8 +3,9 @@ title: "Paracentesis"
 category: general-procedure
 tags: [paracentesis, ascites, cirrhosis, albumin, sbp, lvp, ppcd, portal-hypertension]
 created: 2026-10-17
-updated: 2026-10-17
+updated: 2026-11-14
 sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aga-2022-aki-cirrhosis, acg-2020-hepatic-mesenteric-circulation, aga-2021-cirrhosis-coagulation, aasld-2024-aclf, baveno-viii-2026-portal-hypertension]
+quality_reviewed: 2026-11-14
 ---
 
 # Paracentesis
@@ -13,7 +14,6 @@ sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoa
 - [[#Scope]]
 - [[#Diagnostic Paracentesis]]
   - [[#Who Gets One, and When]]
-  - [[#Timing Changes Mortality]]
   - [[#What to Send]]
   - [[#Repeat Diagnostic Paracentesis]]
 - [[#Bleeding Risk and Pre-Procedure Hemostasis]]
@@ -32,9 +32,8 @@ sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoa
 ## Scope
 
 - Percutaneous aspiration of peritoneal fluid — **diagnostic** (sampling) or **therapeutic / large-volume** (symptom relief).
-- Counts as a **low-bleeding-risk** procedure in [[cirrhosis]] ([[aga-2021-cirrhosis-coagulation]]).
+- Counts as a **low-bleeding-risk** procedure in [[cirrhosis]] — defined as **<1.5% bleed risk** and not into a vulnerable area ([[aga-2021-cirrhosis-coagulation]]).
 - This page owns the procedure. **Fluid interpretation lives elsewhere** — serum-ascites albumin gradient (SAAG) and the ascites grading scale on [[ascites]]; the polymorphonuclear leukocyte (PMN) >250/mm³ diagnosis and its treatment on [[spontaneous-bacterial-peritonitis]].
-- The ingested guidelines specify indications, fluid handling and periprocedural management but **do not prescribe a puncture site, needle, catheter or ultrasound technique** — none is stated here.
 
 ## Diagnostic Paracentesis
 
@@ -50,36 +49,37 @@ sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoa
 | Hospitalised with any **decompensation** of cirrhosis, especially [[acute-on-chronic-liver-failure\|acute-on-chronic liver failure (ACLF)]] | Tap is part of the minimum infection workup, alongside blood cultures, urinalysis/urine culture and chest x-ray ([[aasld-2024-aclf]], [[baveno-viii-2026-portal-hypertension]]) |
 | Workup of **hyponatremia** in cirrhosis | Infectious workup **including** a diagnostic tap ([[aga-2025-ascites-cirrhosis]]) |
 
-### Timing Changes Mortality
-
-- **Paracentesis within 12–24 hours of admission is associated with lower hospital mortality** ([[aga-2025-ascites-cirrhosis]]) — the reason "as soon as possible" is the operative instruction rather than "during the admission."
+> [!pearl] "As soon as possible" means within 12–24 hours
+> Paracentesis within **12–24 hours of admission is associated with lower hospital mortality** ([[aga-2025-ascites-cirrhosis]]) — not merely "during the admission."
 
 ### What to Send
 
-**Routine on every diagnostic tap:**
+**Initial tap, every patient:** PMN (neutrophil) count, ascitic total protein, ascitic albumin **with a simultaneous serum albumin** (no paired serum sample → no SAAG), Gram stain and culture ([[aasld-2021-ascites-sbp-hrs]], [[aga-2025-ascites-cirrhosis]]).
 
-- PMN (neutrophil) count
-- Total protein
-- Ascitic fluid albumin — **with a simultaneous serum albumin**, or the SAAG cannot be calculated
-- Gram stain and culture
+**Which tests on which tap** — the panel narrows once ascites is established ([[aasld-2021-ascites-sbp-hrs]] Table 3):
+
+| Test | First episode — inpatient | First episode — outpatient | Recurrent — inpatient | Recurrent — outpatient\* |
+|---|---|---|---|---|
+| SAAG | Yes | Yes | No | No |
+| PMN count | Yes | Yes | Yes | Yes |
+| Culture | Yes | No | Yes | No |
+| Total protein | Yes | Yes | Only if primary SBP prophylaxis is clinically indicated, or secondary bacterial peritonitis suspected | Only if primary SBP prophylaxis is clinically indicated |
+| Glucose | Only if secondary bacterial peritonitis suspected | No | Only if secondary bacterial peritonitis suspected | No |
+| Lactate dehydrogenase (LDH) | Only if secondary bacterial peritonitis suspected | No | Only if secondary bacterial peritonitis suspected | No |
+| Cytology | Only if a cause other than cirrhosis is suspected | Only if a cause other than cirrhosis is suspected | No | No |
+| Amylase | Only if a pancreatic origin is suspected | Only if a pancreatic origin is suspected | No | No |
+
+\*Includes patients admitted to a day hospital for large-volume paracentesis (LVP).
+
+- Acid-fast bacillus (AFB) culture and adenosine deaminase (ADA) are added when tuberculous peritonitis is suspected ([[aasld-2021-ascites-sbp-hrs]] Figure 2); mycobacterial culture is likewise guided by clinical context, not sent routinely.
 
 **Culture technique is part of the procedure:**
 
 - **Inoculate blood culture bottles at the bedside**, aerobic and anaerobic, **≥10 mL each**, **before** antibiotics — this raises culture sensitivity to **>90%** ([[aasld-2021-ascites-sbp-hrs]]).
 
-**Selective, not routine** — send only when the matching diagnosis is suspected:
-
-| Test | Suspected |
-|---|---|
-| Amylase | Pancreatic ascites |
-| Cytology | Non-cirrhotic etiology |
-| Lactate dehydrogenase (LDH), glucose | Secondary bacterial peritonitis |
-| Acid-fast bacilli (AFB) culture, adenosine deaminase (ADA) | Tuberculosis |
-
 ### Repeat Diagnostic Paracentesis
 
-- **SBP response check — repeat the tap 2 days after starting antibiotics.** A fall in fluid PMN of **<25% from baseline** means failure to respond → broaden antibiotics and evaluate for secondary bacterial peritonitis ([[aasld-2021-ascites-sbp-hrs]]).
-- **Bacterascites** (PMN <250/mm³ with a positive culture, no signs of infection) is not treated — repeat the diagnostic tap to catch progression to SBP.
+- Repeat the tap **2 days after starting antibiotics** to judge SBP response, and in **bacterascites** to catch progression to SBP — thresholds and what to do with each result on [[spontaneous-bacterial-peritonitis]].
 
 ## Bleeding Risk and Pre-Procedure Hemostasis
 
@@ -92,7 +92,7 @@ sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoa
 
 ### Volume Thresholds
 
-- **Large-volume paracentesis (LVP) is arbitrarily defined as >5 L** removed ([[aasld-2021-ascites-sbp-hrs]]).
+- **LVP is arbitrarily defined as >5 L** removed ([[aasld-2021-ascites-sbp-hrs]]).
 - **LVP is first-line for grade 3 (large/gross) ascites** and first-line for **refractory ascites**.
 - **Keep a single session under 8 L where possible** — post-paracentesis circulatory dysfunction (PPCD) risk rises above **8 L evacuated in one session**.
 - Refractory ascites and/or [[hepatic-hydrothorax|hepatic hydrothorax]] are managed with therapeutic paracentesis and/or thoracentesis respectively, **frequency guided by recurrence** ([[aga-2025-ascites-cirrhosis]]).
@@ -102,15 +102,20 @@ sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoa
 
 - **[[albumin|Albumin]] is given at the time of any LVP >5 L** ([[aga-2024-vasoactive-albumin-cirrhosis]]).
 - **Dose: 6–8 g per litre of ascites removed** (expert opinion) — ~40 g after 5 L, ~64 g after 8 L. Lower doses of ~4 g/L may suffice ([[aga-2024-vasoactive-albumin-cirrhosis]]).
-- ⚠ **Two different dosing conventions appear in the tier-1 sources.** [[aga-2022-aki-cirrhosis]], writing about AKI prevention, gives a **weight-based 1 g/kg with LVP**; [[aasld-2021-ascites-sbp-hrs]] and the newer [[aga-2024-vasoactive-albumin-cirrhosis]] give **6–8 g per litre removed**. The per-litre rule is the one this wiki asserts, being both the majority position and the more recent.
+- **Preparation: 20%–25% intravenous albumin** ([[aga-2025-ascites-cirrhosis]]).
+- Replacement at paracentesis is dosed **per litre removed, not per kilogram**. The weight-based **1 g/kg/day × 2 days** regimen belongs to the AKI volume challenge, a separate indication ([[aga-2022-aki-cirrhosis]]).
 
 ### Smaller Volumes That Still Warrant Albumin
 
-Strongly consider albumin **below the 5 L threshold** when any of these is present ([[aasld-2021-ascites-sbp-hrs]]):
+Strongly consider albumin **below the 5 L threshold** when any of these is present ([[aasld-2021-ascites-sbp-hrs]], [[aga-2025-ascites-cirrhosis]]):
 
 - Systolic blood pressure **<90 mm Hg**
 - Serum sodium **<130 mmol/L**
-- [[aki-in-cirrhosis|AKI]]
+- AKI or renal insufficiency
+- Electrolyte abnormalities
+
+> [!pearl] In ACLF, volume removed does not decide the albumin
+> Give **6–8 g/L regardless of how much ascites is removed** when paracentesis is done in ACLF — the 5 L trigger does not apply ([[aga-2024-vasoactive-albumin-cirrhosis]]).
 
 ### What Not to Give
 
@@ -124,21 +129,22 @@ Strongly consider albumin **below the 5 L threshold** when any of these is prese
 
 ## Post-Paracentesis Circulatory Dysfunction
 
-- **PPCD** is the circulatory collapse that follows removal of a large volume without adequate plasma expansion.
+- **PPCD** is the fall in effective arterial blood volume that follows removal of a large volume without adequate plasma expansion — reduced systemic vascular resistance with activation of the renin–angiotensin and sympathetic systems ([[aga-2025-ascites-cirrhosis]]).
 - **Manifestations:** renal impairment / hepatorenal syndrome, dilutional hyponatremia, [[hepatic-encephalopathy|hepatic encephalopathy]], death.
-- **Risk rises above 8 L** in a single session; **prevented by adequate albumin replacement**, which is why the albumin rule above is not optional at >5 L.
+- **Prevented by adequate albumin replacement** at the doses above; the 8 L/session ceiling is the other lever.
 
 ## Serial Paracentesis and Its Alternatives
 
 - Repeated LVP controls refractory ascites but does not alter the sodium handling driving it; the alternatives are considered when taps become frequent.
 - **[[tips|Transjugular intrahepatic portosystemic shunt (TIPS)]]** is superior to repeated LVP for ascites control in selected patients — selection criteria and stent choice on that page.
-- **Home-based drainage devices** — a tunnelled peritoneal catheter or a low-flow ascites pump — **may be considered as an alternative to repeated LVP** in refractory ascites with a **contraindication to, or inadequate response from, TIPS** in patients who are **not liver-transplant candidates** ([[baveno-viii-2026-portal-hypertension]], 6.11, level of evidence 3, weak).
+- **Home-based drainage devices** (tunnelled peritoneal catheter, low-flow ascites pump) are an option once TIPS is contraindicated, has failed, and the patient is not a transplant candidate — criteria on [[ascites]].
 
 ## Children
 
 - **Symptomatic children** with grade 3 or treatment-refractory ascites should usually undergo therapeutic paracentesis, **although the indications, risks and benefits in children have not been fully defined** ([[aasld-2021-ascites-sbp-hrs]]).
 - **Children undergoing LVP:** 25% albumin **0.5–1.0 g/kg**, or **6–8 g per litre** of ascites removed.
 - **Diagnostic tap in children** with ascites **and** fever, abdominal pain or clinical deterioration. For children with new ascites **without** those features the risks and benefits are undefined — the adult "all new-onset ascites" rule is not extended to them.
+- Many children need **general anesthesia or deep sedation** for the procedure, so **repeated paracentesis becomes challenging** — a consideration when weighing it against TIPS or transplant.
 
 ## See Also
 

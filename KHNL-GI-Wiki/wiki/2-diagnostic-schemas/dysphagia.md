@@ -4,14 +4,17 @@ category: diagnostic-schema
 tags: [dysphagia, esophageal, oropharyngeal, motility, achalasia, eosinophilic-esophagitis, odynophagia, globus]
 created: 2026-06-04
 updated: 2026-11-05
-sources: [asge-2014-dysphagia, acg-2020-esophageal-physiologic-testing, chicago-v4-2021-esophageal-dysmotility, acg-2025-egd-quality, aga-2024-esophageal-immunity-infection, acg-2020-achalasia, rome-v-2026-dgbi]
+sources: [asge-2014-dysphagia, acg-2020-esophageal-physiologic-testing, chicago-v4-2021-esophageal-dysmotility, acg-2025-egd-quality, acg-2021-gerd, aga-2024-esophageal-immunity-infection, rome-v-2026-functional-esophageal-disorders]
 ---
 
 ## Contents
 - [[#Definition / Scope]]
+  - [[#Localizing the Problem]]
+  - [[#Bolus Pattern in Esophageal Dysphagia]]
+  - [[#Symptoms That Are Not Dysphagia]]
 - [[#Differential Diagnosis]]
-  - [[#Oropharyngeal Dysphagia]]
-  - [[#Esophageal Dysphagia]]
+  - [[#Oropharyngeal]]
+  - [[#Esophageal]]
 - [[#Diagnostic Algorithm]]
 - [[#Key Tests]]
 - [[#Red Flags / Alarm Features]]
@@ -22,145 +25,166 @@ sources: [asge-2014-dysphagia, acg-2020-esophageal-physiologic-testing, chicago-
 
 ## Definition / Scope
 
-**Dysphagia** is the sensation of impaired passage of food or liquid from the mouth to the stomach. The first and most important step is to localize the problem, because it cleanly splits the differential and the workup:
+**Dysphagia** — impaired passage of food or liquid from the mouth to the stomach. Localize it first, to the oropharynx or to the esophagus: that choice sets the first test and splits the differential.
 
-- **Oropharyngeal (transfer) dysphagia** — difficulty *initiating* a swallow; food sticks "in the throat." Often accompanied by coughing/choking, nasal regurgitation, drooling, or aspiration. Usually **neuromuscular** in origin.
-- **Esophageal (transport) dysphagia** — food sticks "in the chest" seconds after swallowing. Localized retrosternally. Usually a **structural** (mechanical) or **motility** problem.
+### Localizing the Problem
 
-Distinguish dysphagia from related symptoms:
+| | Oropharyngeal | Esophageal |
+|---|---|---|
+| **Level** | upper esophageal sphincter (UES) or hypopharynx | esophageal body or esophagogastric junction (EGJ) |
+| **How it is separated** | careful history **plus a diagnostic evaluation of the swallowing mechanism** | careful history, then endoscopy before any physiologic test |
+| **First test** | **videofluoroscopy** — the test of choice when oropharyngeal dysphagia is suspected | **[[upper-endoscopy\|esophagogastroduodenoscopy (EGD)]] with esophageal biopsies** |
+| **What EGD adds** | still perform it, to exclude alternative or additional pathology — and **include a complete examination of the UES and hypopharynx** | excludes structural and mechanical lesions; very low yield as a test of esophageal physiology, so it comes **before** manometry, barium or [[flip-panometry\|functional lumen imaging probe (FLIP)]] studies |
 
-- **Odynophagia** — *painful* swallowing; suggests mucosal injury (infectious or pill esophagitis, severe reflux/erosive disease, malignancy).
-- **[[globus|Globus]]** — persistent sensation of a lump in the throat *between* swallows, relieved by swallowing; not true dysphagia (Rome V esophageal disorder of gut–brain interaction [DGBI] **A4**; see also [[laryngopharyngeal-symptoms]]). **The presence of dysphagia excludes the globus diagnosis.**
-- **[[functional-dysphagia|Functional dysphagia]]** — the Rome V **A5** endpoint of this schema when endoscopy with biopsy, barium study, high-resolution manometry and (where available) FLIP are all normal.
-- **Functional dysphagia** — a [[disorders-of-gut-brain-interaction|DGBI]] (Rome V esophageal category **A5**) diagnosed after structural, motility, and mucosal (eosinophilic) causes are excluded [[rome-v-2026-dgbi]].
-  - Rome V also supplies **Rome Clinical Criteria** for use outside research: the qualitative symptom features are retained and symptoms must be **bothersome** (interfere with daily life or prompt care-seeking), but the frequency threshold is lowered and the 6-month duration is replaced by a suggested **8-week** minimum [[rome-v-2026-dgbi]].
+*Oropharyngeal column from [[asge-2014-dysphagia]] and [[rome-v-2026-functional-esophageal-disorders]]; esophageal column from [[acg-2020-esophageal-physiologic-testing]].*
 
-The single most useful historical discriminator in esophageal dysphagia is **solids vs. liquids**:
+### Bolus Pattern in Esophageal Dysphagia
 
-- **Solids only, progressive** → think mechanical obstruction (stricture, ring, [[esophageal-cancer|carcinoma]]).
-- **Solids and liquids equally, from the outset** → think a motility disorder ([[achalasia]], spasm).
-- **Solids intermittent, non-progressive** → think a web/ring (e.g. Schatzki ring) or [[eosinophilic-esophagitis|eosinophilic esophagitis (EoE)]].
+The single most useful historical discriminator ([[asge-2014-dysphagia]]):
+
+| Pattern | Points to |
+|---|---|
+| **Solids alone** | structural (mechanical) disorder |
+| **Solids *and* liquids** | motility disorder |
+
+- **Ask about opioids every time** — opioid use contributes to esophageal dysmotility, outflow obstruction and heightened symptom reporting ([[rome-v-2026-functional-esophageal-disorders]]).
+
+### Symptoms That Are Not Dysphagia
+
+- **Odynophagia** — painful swallowing. An appropriate indication for EGD in its own right ([[acg-2025-egd-quality]]) and an alarm feature ([[rome-v-2026-functional-esophageal-disorders]]).
+- **[[globus|Globus]]** — sensation of a lump in the throat *between* swallows (Rome V esophageal [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction (DGBI)]] **A4**). Diagnosis **requires the absence of dysphagia and of alarm features (odynophagia, weight loss)**; initial evaluation is examination of the neck followed by laryngoscopy ([[rome-v-2026-functional-esophageal-disorders]]).
+- **[[functional-dysphagia|Functional dysphagia]]** — Rome V **A5**, and this schema's endpoint once endoscopy with biopsy, a barium study with a solid bolus, [[high-resolution-manometry|high-resolution manometry (HRM)]] and (where available) FLIP are all normal. Full criteria on [[functional-dysphagia]].
 
 ---
 
 ## Differential Diagnosis
 
-### Oropharyngeal Dysphagia
+### Oropharyngeal
 
-**Neuromuscular (most common):**
+- **UES dysfunction and cricopharyngeal bar** — endoscopic dilation and injection therapy have been described for both; a cricopharyngeal bar is amenable to [[esophageal-dilation|dilation]] ([[asge-2014-dysphagia]]).
+- **Proximal esophageal web** — also amenable to dilation ([[asge-2014-dysphagia]]).
 
-- Stroke (most common cause overall) and other central nervous system (CNS) disease (Parkinson's disease, multiple sclerosis, amyotrophic lateral sclerosis [ALS], brainstem lesions)
-- Myopathies and neuromuscular junction disease — myasthenia gravis (fatigable), polymyositis/dermatomyositis, muscular dystrophy
-- Cricopharyngeal (upper esophageal sphincter [UES]) dysfunction / [[achalasia]] of the UES
+ASGE 2014 does not list the neuromuscular and structural causes of oropharyngeal dysphagia; it addresses only how to separate it from esophageal dysphagia and what endoscopy adds.
 
-**Structural:**
+### Esophageal
 
-- Zenker's diverticulum — regurgitation of undigested food, halitosis, gurgling
-- Cervical osteophytes, head and neck malignancy, prior surgery/radiation
-- Thyromegaly, proximal esophageal web (Plummer-Vinson, with [[iron-deficiency-anemia|iron deficiency]])
+**Mechanical / structural** — all amenable to dilation ([[asge-2014-dysphagia]]):
 
-### Esophageal Dysphagia
-
-**Mechanical / structural:**
-
-- **[[esophageal-stricture|Peptic stricture]]** — distal, from chronic [[gerd|gastroesophageal reflux disease (GERD)]]; progressive solid-food dysphagia
-- **[[eosinophilic-esophagitis]]** — leading cause in younger adults (esp. men); food impaction, rings ("trachealization"), atopy
-- **Schatzki ring** — intermittent solid-food dysphagia, classic "steakhouse syndrome"
-- **[[esophageal-cancer]]** — progressive solids → liquids, weight loss, anemia (alarm presentation)
-- **[[barretts-esophagus]]**-associated stricture; pill esophagitis; radiation stricture
-- **Extrinsic compression** — mediastinal mass, vascular (dysphagia lusoria), large left atrium
+- **[[esophageal-stricture|Peptic stricture]]** — sequela of [[gerd|gastroesophageal reflux disease (GERD)]]; **up to 80% of all benign esophageal strictures**, though the incidence has fallen with widespread [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] use
+- **[[eosinophilic-esophagitis|Eosinophilic esophagitis (EoE)]]** — a common benign cause, with rising reported prevalence
+- **Schatzki ring** — diaphragm-like web at the squamocolumnar junction, usually the proximal margin of a [[hiatal-hernia|hiatal hernia]]; **best detected on barium swallow and may disappear with air insufflation at endoscopy**
+- **Esophageal web**; caustic injury; pill-induced stricture; radiation injury; anastomotic stricture; post-endoscopic-therapy stricture; congenital anomalies (tracheoesophageal fistula)
+- **[[esophageal-cancer|Esophageal cancer]]** — [[esophageal-adenocarcinoma|adenocarcinoma]] or squamous cell carcinoma, from intrinsic luminal tumor growth; **pseudoachalasia**
+- **Extrinsic compression** — malignant narrowing from outside the esophagus; **responds poorly to dilation**
 
 **Motility:**
 
-- **[[achalasia]]** — dysphagia to solids *and* liquids, regurgitation, weight loss; diagnosed on [[high-resolution-manometry|high-resolution manometry (HRM)]] ([[chicago-classification-v4|Chicago Classification]] types I–III)
-- **[[esophagogastric-junction-outflow-obstruction|esophagogastric junction (EGJ) outflow obstruction (EGJOO)]]** — manometric pattern requiring corroboration with [[flip-panometry|functional lumen imaging probe (FLIP)]]/timed barium and symptoms
-- **[[distal-esophageal-spasm]]** — premature contractions; dysphagia + chest pain
+- **[[achalasia]]** — dysphagia to solids *and* liquids; diagnosed on [[high-resolution-manometry|HRM]] ([[chicago-classification-v4|Chicago Classification]] types I–III)
+- **[[esophagogastric-junction-outflow-obstruction|EGJ outflow obstruction (EGJOO)]]** — a manometric pattern requiring corroboration with FLIP or timed barium plus symptoms
+- **[[distal-esophageal-spasm|Distal (diffuse) esophageal spasm]]** — premature contractions; **does not respond to dilation**
 - **[[hypercontractile-esophagus]]** (jackhammer) and **[[ineffective-esophageal-motility]]**
-- [[esophageal-dysfunction-systemic-disease|Scleroderma / systemic sclerosis]] — absent peristalsis + hypotensive lower esophageal sphincter (LES), severe reflux
+- **[[esophageal-dysfunction-systemic-disease|Hypomotility secondary to connective tissue disease]]** (scleroderma and others) — **does not respond to dilation**
 
 **Mucosal / inflammatory:**
 
-- Erosive esophagitis from [[gerd]]; [[infectious-esophagitis|infectious esophagitis]] (Candida, herpes simplex virus [HSV], cytomegalovirus [CMV] — especially immunocompromised; usually odynophagia); pill esophagitis (doxycycline, bisphosphonates, nonsteroidal anti-inflammatory drugs [NSAIDs], KCl)
+- Erosive esophagitis from [[gerd]]; [[infectious-esophagitis|infectious esophagitis]] (*Candida*, herpes simplex virus [HSV], cytomegalovirus [CMV] — especially the immunocompromised; usually odynophagia); pill esophagitis (doxycycline, bisphosphonates, nonsteroidal anti-inflammatory drugs [NSAIDs], potassium chloride)
 
-**Immune-mediated / systemic (often nonspecific endoscopy — high index of suspicion):**
+**Immune-mediated / systemic** — endoscopy is often nonspecific, so keep a high index of suspicion:
 
-- [[lymphocytic-esophagitis|Lymphocytic esophagitis]] — women >60, rings/stricture, dysphagia
-- [[esophageal-dysfunction-systemic-disease|Esophageal manifestations of systemic disease]] — connective tissue disease (systemic sclerosis [SSc], mixed connective tissue disease [MCTD], systemic lupus erythematosus [SLE], Sjögren's, myositis), esophageal [[crohns-disease|Crohn's]], hypereosinophilic syndrome/eosinophilic granulomatosis with polyangiitis (EGPA), and dermatologic disease (esophageal lichen planus, pemphigus vulgaris)
+- [[lymphocytic-esophagitis|Lymphocytic esophagitis]]
+- [[esophageal-dysfunction-systemic-disease|Esophageal manifestations of systemic disease]] — connective tissue disease (systemic sclerosis [SSc], mixed connective tissue disease [MCTD], systemic lupus erythematosus [SLE], Sjögren's, myositis), esophageal [[crohns-disease|Crohn's disease]], hypereosinophilic syndrome / eosinophilic granulomatosis with polyangiitis (EGPA), and dermatologic disease (esophageal lichen planus, pemphigus vulgaris)
 
 ---
 
 ## Diagnostic Algorithm
 
+**Oropharyngeal** → videofluoroscopy, plus EGD with a complete examination of the UES and hypopharynx (see *Localizing the Problem*).
+
+**Esophageal:**
+
 ```mermaid
 flowchart TD
-    A["Dysphagia"] --> B{"Localize:<br/>oropharyngeal vs esophageal?"}
-    B -->|"Trouble initiating swallow,<br/>cough/nasal regurg"| C["Oropharyngeal"]
-    B -->|"Food sticks in chest<br/>seconds after swallow"| D["Esophageal"]
-    C --> E["Modified barium swallow<br/>(videofluoroscopy) +<br/>ear, nose, and throat (ENT)/neuro eval"]
-    D --> F["Upper endoscopy (EGD)<br/>FIRST — with esophageal biopsies"]
-    F -->|"Structural lesion<br/>(stricture, ring, mass, EoE)"| G["Treat: dilation, biopsy,<br/>proton pump inhibitor (PPI)/diet,<br/>oncology referral"]
-    F -->|"Normal mucosa<br/>(esophageal biopsies negative)"| H["High-resolution manometry"]
-    H -->|"Abnormal integrated relaxation pressure (IRP)<br/>/ peristalsis"| I["Motility disorder<br/>(achalasia, spasm, EGJOO)"]
-    H -->|"Normal"| J["Consider barium esophagram /<br/>FLIP; functional dysphagia"]
+    A(["Esophageal dysphagia"]) --> B["Upper endoscopy with esophageal biopsies"]
+    B -- "Mucosal or mechanical cause" --> C(["Treat the lesion"])
+    B -- "None found" --> D["High-resolution manometry<br/>with provocative maneuvers"]
+    D -- "Major motor disorder" --> E(["Treat per the Chicago Classification v4.0 diagnosis"])
+    D -- "Borderline, or study cannot be completed" --> F["FLIP panometry"]
+    D -- "Normal" --> G["Timed upright barium esophagram<br/>with a 13 mm barium tablet"]
+    F -- "Obstruction confirmed" --> E
+    F -- "Normal" --> H(["Functional dysphagia"])
+    G -- "Abnormal emptying or tablet retention" --> E
+    G -- "Normal" --> H
+    class A start
+    class B,D,F,G test
+    class C,E act
+    class H stop
 ```
 
-1. **Localize** oropharyngeal vs. esophageal by history — this determines the first test.
-2. **Oropharyngeal** → **modified barium swallow (videofluoroscopic swallow study)** with speech-language pathology; pursue the underlying neuromuscular or structural cause (ENT, neurology). Nasendoscopy/fiberoptic endoscopic evaluation of swallowing (FEES) for aspiration assessment. **Still perform [[upper-endoscopy|EGD]] in suspected oropharyngeal dysphagia** — to exclude alternative or additional pathology — **and include a complete examination of the UES and hypopharynx** ([[asge-2014-dysphagia]]).
-3. **Esophageal** → **[[upper-endoscopy|EGD]] first** in nearly all cases — it is diagnostic and therapeutic (dilation), and allows biopsy. **Obtain esophageal biopsies even when the mucosa looks normal** to exclude [[eosinophilic-esophagitis|EoE]] (≥6 biopsies, proximal + distal).
-4. If EGD is **normal** (including negative EoE biopsies), proceed to **[[high-resolution-manometry|HRM]]** to evaluate motility ([[chicago-classification-v4|Chicago Classification v4.0]]).
-5. **Barium esophagram** (incl. timed barium / tablet barium) is a useful adjunct — it can reveal subtle rings/webs, extrinsic compression, or a "bird's beak" of achalasia, and is sometimes done before EGD when a proximal lesion or Zenker's is suspected.
-6. **[[flip-panometry|FLIP]]** complements HRM for inconclusive EGJOO and for characterizing the EGJ when manometry is equivocal.
+*Workup of esophageal dysphagia after endoscopy*
+*Source: redrawn from the obstructive-symptom arm of ACG 2020 Figure 1, with the normal-FLIP endpoint as Rome V states it*
+*[[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]] · [[rome-v-2026-functional-esophageal-disorders|Functional Esophageal Disorders (Rome V, 2026)]]*
+*FLIP = functional lumen imaging probe*
+
+> [!pitfall] A normal-looking esophagus still needs biopsies
+> Take **≥6 biopsies from ≥2 levels (proximal/mid *and* distal)** in anyone reporting dysphagia when endoscopy shows no cause — EGD quality indicator 4, performance target **>90%**, grade 2B ([[acg-2025-egd-quality]]). Biopsies taken with dilation confer no extra perforation risk ([[asge-2014-dysphagia]]), and EoE may be missed if biopsies are taken on PPI therapy or in a fibrostenotic phenotype ([[rome-v-2026-functional-esophageal-disorders]]).
 
 ---
 
 ## Key Tests
 
-- **[[upper-endoscopy|EGD]]** — first-line for esophageal dysphagia; direct visualization, biopsy (mucosal disease, EoE, malignancy), and therapeutic [[esophageal-dilation|dilation]] of strictures/rings.
-- **Esophageal biopsies for EoE** — a total of **≥6 biopsies from ≥2 levels (proximal/mid *and* distal)** of the esophagus in patients reporting dysphagia when there is **no endoscopically evident etiology**. EGD quality indicator 4: performance target **>90%**, grade 2B (weak recommendation), process measure ([[acg-2025-egd-quality]]).
-- **Modified barium swallow / videofluoroscopy** — test of choice for **oropharyngeal** dysphagia; assesses transfer mechanics and aspiration.
-- **Barium esophagram / timed barium esophagram** — structural and functional overview; sensitive for rings, webs, subtle strictures, extrinsic compression; timed barium quantifies achalasia emptying.
-- **[[high-resolution-manometry|High-resolution manometry]]** — gold standard for esophageal motility disorders; interpreted by [[chicago-classification-v4|Chicago Classification v4.0]].
-- **[[flip-panometry|FLIP panometry]]** — adjunct measuring EGJ distensibility and secondary peristalsis; clarifies EGJOO and achalasia when HRM is inconclusive.
-- **Ambulatory [[reflux-testing|reflux testing]]** ([[ambulatory-reflux-monitoring]]) — when [[gerd|GERD]] is suspected as the driver of a peptic stricture or dysphagia.
+- **[[upper-endoscopy|EGD]]** — first-line for esophageal dysphagia: direct visualization, biopsy, and therapeutic [[esophageal-dilation|dilation]]. Retroflex before dilating to look for malignancy or varices in the gastric cardia ([[asge-2014-dysphagia]]).
+- **Videofluoroscopy** — test of choice for suspected **oropharyngeal** dysphagia ([[rome-v-2026-functional-esophageal-disorders]]).
+- **Barium esophagram** — use a **standardized, upright, timed protocol**, and **include a 13 mm barium tablet**: abnormal tablet passage or retention indicates an obstructive process at the EGJ (Recommendation 4, conditional / very low; Key concept 2 — [[acg-2020-esophageal-physiologic-testing]]). Solid boluses (tablet, cookie, marshmallow) detect subtle strictures, obstructive lesions and paraesophageal hernias missed at endoscopy ([[rome-v-2026-functional-esophageal-disorders]]).
+- **[[high-resolution-manometry|HRM]]** — the test for motility disorders; **HRM over conventional line-tracing manometry** (strong / moderate), with **provocative maneuvers added to the protocol** to raise diagnostic yield (conditional / low) — protocol detail on [[high-resolution-manometry]]. Interpreted by the [[chicago-classification-v4|Chicago Classification v4.0]].
+- **[[flip-panometry|FLIP]]** — **complements HRM when HRM findings are borderline** (conditional / low), and **FLIP topography may be used when a manometry study cannot be completed** (e.g. catheter placement failure despite endoscopic attempts) ([[acg-2020-esophageal-physiologic-testing]]).
+- **Ambulatory [[reflux-testing|reflux testing]]** ([[ambulatory-reflux-monitoring]]) — when [[gerd|GERD]] is the suspected driver of the dysphagia or of a peptic stricture.
+- **Symptom questionnaires** — may aid evaluation but **must not be used alone to diagnose** a specific esophageal condition (Key concept 1); the brief esophageal dysphagia questionnaire was only **70% sensitive and 65% specific** for a major motor disorder ([[acg-2020-esophageal-physiologic-testing]]).
 
-**Which causes dilation can fix** ([[asge-2014-dysphagia]]) — the question that decides whether the diagnostic EGD becomes a therapeutic one:
+> [!pitfall] Barium esophagram is a poor screen for dysmotility
+> For detecting esophageal dysmotility it is only **0.69 sensitive and 0.50 specific** (positive predictive value 0.61, negative predictive value 0.58; 281 patients with an esophagram within 90 days of HRM) — a **suboptimal screening test** in esophageal dysphagia. Go to HRM ([[acg-2020-esophageal-physiologic-testing]]).
 
-| Amenable to [[esophageal-dilation\|dilation]] | **Not** amenable |
-|---|---|
-| [[esophageal-stricture\|Peptic stricture]] · Schatzki ring · esophageal web · [[eosinophilic-esophagitis\|EoE]] · caustic injury · anastomotic stricture · radiation injury · pill-induced stricture · post-endoscopic-therapy stricture · congenital anomalies (tracheoesophageal fistula) · cricopharyngeal bar · [[esophageal-adenocarcinoma\|esophageal adenocarcinoma]] · [[esophageal-cancer\|squamous cell carcinoma]] · pseudoachalasia · [[achalasia]] | **Extrinsic compression** · [[distal-esophageal-spasm\|diffuse esophageal spasm]] · **hypomotility secondary to connective-tissue disease** |
+### Which Causes Dilation Can Fix
 
-- ⚠ **A big empiric bougie is not the answer to a normal endoscopy.** Several studies of **large-bore (50F) dilation** in dysphagia with normal endoscopic findings **failed to improve dysphagia scores**, and the perforation risk may outweigh the benefit — especially with undiagnosed [[eosinophilic-esophagitis|EoE]] ([[asge-2014-dysphagia]]).
+The question that decides whether the diagnostic EGD becomes a therapeutic one ([[asge-2014-dysphagia]]):
+
+| | Amenable to [[esophageal-dilation\|dilation]] | **Not** amenable |
+|---|---|---|
+| **Benign** | peptic stricture · Schatzki ring · esophageal web · [[eosinophilic-esophagitis\|EoE]] · caustic injury · anastomotic stricture · radiation injury · pill-induced stricture · post-endoscopic-therapy stricture · congenital anomalies (tracheoesophageal fistula) · cricopharyngeal bar | — |
+| **Malignant** | [[esophageal-adenocarcinoma\|esophageal adenocarcinoma]] · squamous cell carcinoma · pseudoachalasia | extrinsic compression |
+| **Motility** | [[achalasia]] | diffuse esophageal spasm · hypomotility secondary to connective tissue disease |
+
 - **Dysphagia begins at a luminal diameter of ≤13 mm**; a modified diet is usually tolerated at **15 mm** and a regular diet at **18 mm** ([[asge-2014-dysphagia]]).
+
+> [!pearl] Empiric large-bore dilation — the newer position reverses the older one
+> **Rome V (2026):** empiric bougie dilation to **50–54 Fr** benefited **68%–85%** of patients with unexplained food dysphagia, probably treating subtle proximal abnormalities routine testing misses; balloon dilation at the EGJ had limited utility ([[rome-v-2026-functional-esophageal-disorders]]).
+> **ASGE 2014** took the opposite view — several studies of 50 F dilation with a normal endoscopy failed to improve dysphagia scores, and perforation risk may outweigh benefit, **especially with undiagnosed EoE** ([[asge-2014-dysphagia]]).
+> Rome V requires EoE and GERD to be excluded, by antisecretory therapy plus endoscopy with biopsy, before functional dysphagia is diagnosed.
 
 ---
 
 ## Red Flags / Alarm Features
 
-Prompt expedited [[upper-endoscopy|EGD]] (and raise concern for malignancy):
-
-- **Progressive dysphagia** (solids → liquids over weeks–months)
-- **Unintentional weight loss**
-- **Odynophagia**
-- **Gastrointestinal (GI) bleeding or iron deficiency anemia**
-- **Age ≥ 60 with new-onset dysphagia**
-- **Recurrent aspiration or aspiration pneumonia**
-- **A palpable neck/supraclavicular mass or lymphadenopathy**
-- **[[ingested-foreign-body|Food impaction]]** (acute, with inability to handle secretions) — emergent endoscopy; strongly associated with [[eosinophilic-esophagitis|EoE]] and rings
+- **Dysphagia is itself an alarm symptom.** Endoscopy is the **first test** for patients presenting with dysphagia or other alarm symptoms — **weight loss** and **gastrointestinal (GI) bleeding** — and for patients with multiple risk factors for [[barretts-esophagus|Barrett's esophagus]]: strong recommendation, low quality evidence ([[acg-2021-gerd]]).
+- **Odynophagia** and **food impaction** are appropriate indications for EGD alongside dysphagia ([[acg-2025-egd-quality]]).
+- EGD's diagnostic yield was **54%** in patients over 40 presenting with dysphagia together with heartburn, odynophagia and weight loss ([[asge-2014-dysphagia]]).
+- **[[ingested-foreign-body|Acute food impaction]]** — see [[ingested-foreign-body]] for the timing of endoscopy; strongly associated with [[eosinophilic-esophagitis|EoE]] and rings.
+- **Odynophagia or weight loss excludes a [[globus]] diagnosis** — reassurance is not the answer in a patient with either ([[rome-v-2026-functional-esophageal-disorders]]).
+- **Esophageal stasis** from [[achalasia]], a diverticulum or a tight stricture may require a prolonged fast or a nasogastric tube before endoscopy, to minimize aspiration risk ([[asge-2014-dysphagia]]).
 
 ---
 
 ## See Also
 
-[[eosinophilic-esophagitis]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[achalasia]], [[gerd]], [[esophageal-cancer]], [[barretts-esophagus]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[upper-endoscopy]], [[laryngopharyngeal-symptoms]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]], [[ingested-foreign-body]], [[esophageal-dilation]], [[esophageal-stricture]], [[esophageal-adenocarcinoma]]
+[[eosinophilic-esophagitis]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[achalasia]], [[gerd]], [[esophageal-cancer]], [[barretts-esophagus]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[upper-endoscopy]], [[laryngopharyngeal-symptoms]], [[globus]], [[functional-dysphagia]], [[disorders-of-gut-brain-interaction]], [[ingested-foreign-body]], [[esophageal-dilation]], [[esophageal-stricture]], [[esophageal-adenocarcinoma]], [[hiatal-hernia]]
 
 ---
 
 ## Sources
 
-1. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]
-2. [[chicago-v4-2021-esophageal-dysmotility|Esophageal Motility Disorders on High-Resolution Manometry: Chicago Classification Version 4.0]]
-3. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)]]
-4. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
-5. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
-6. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
-7. [[asge-2014-dysphagia|ASGE 2014: The Role of Endoscopy in the Evaluation and Management of Dysphagia]]
+1. [[asge-2014-dysphagia|ASGE 2014: The Role of Endoscopy in the Evaluation and Management of Dysphagia]]
+2. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]
+3. [[chicago-v4-2021-esophageal-dysmotility|Esophageal Motility Disorders on High-Resolution Manometry: Chicago Classification Version 4.0]]
+4. [[acg-2021-gerd|ACG 2021 Clinical Guideline: Diagnosis and Management of GERD]]
+5. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
+6. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)]]
+7. [[rome-v-2026-functional-esophageal-disorders|Functional Esophageal Disorders (Rome V, 2026)]]

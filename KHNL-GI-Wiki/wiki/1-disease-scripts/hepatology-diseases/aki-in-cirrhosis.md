@@ -155,7 +155,7 @@ All of the following must be present:
 ### Prevention
 
 - Avoid NSAIDs, ACEi/ARB, aminoglycosides, excessive diuretics, nonselective beta-blockers
-- Albumin 1 g/kg (max 100 g) with therapeutic large-volume paracentesis
+- Albumin replacement with therapeutic large-volume paracentesis — dose per litre removed, see [[paracentesis]] (AGA 2022 gives the principle, not a paracentesis dose; its 1 g/kg/d × 2 days is the volume challenge below)
 - [[antibiotic-prophylaxis-cirrhosis|Prophylactic antibiotics]] with GI bleeding; SBP prophylaxis per guidelines
 - Counsel alcohol cessation (see [[alcohol-associated-liver-disease]])
 - Monitor SCr and electrolytes in patients on diuretics

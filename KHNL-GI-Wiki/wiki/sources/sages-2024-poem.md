@@ -41,6 +41,13 @@ Confirms POEM as a first-line achalasia therapy — superior to pneumatic dilati
 
 ---
 
+## Contradictions / Open Questions
+
+- **How often post-myotomy reflux is silent — this update vs [[aga-2024-poem-advances|AGA 2024]].** SAGES 2024 reports that **nearly 60%** of patients with measured abnormal esophageal acid exposure or endoscopic esophagitis have no symptoms (citing its reference 22); the AGA 2024 clinical practice update puts the asymptomatic share at **~one-quarter**. Both are tier-1 and both 2024 (this update printed in *Surgical Endoscopy* 2025). [[poem]] states the AGA figure and notes this one. Either way the operative conclusion is the same and is what the pages assert: **symptoms alone are insufficient to exclude post-myotomy reflux**, which is why both documents support objective testing or endoscopy rather than symptom-based follow-up.
+- **Long-term consequences of asymptomatic esophagitis are unreported.** The panel states the long-term effects of severe post-POEM esophagitis are not currently in the literature, and flags the absence of data on the timing and protocol for routine surveillance endoscopy as an explicit research gap.
+
+---
+
 ## See Also
 
 [[poem]], [[achalasia]], [[high-resolution-manometry]], [[gerd]]

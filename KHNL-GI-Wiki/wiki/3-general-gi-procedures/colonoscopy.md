@@ -3,8 +3,9 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, cecal-intubation, withdrawal-time, technique]
 created: 2026-05-07
-updated: 2026-11-09
+updated: 2026-11-14
 sources: [asge-acg-2024-colonoscopy-quality-indicators, uspstf-2021-crc-screening, aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, asge-2023-ergonomics, aga-2021-gi-perforations-endoscopic-management, aga-2025-cade-colonoscopy, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia]
+quality_reviewed: 2026-11-14
 ---
 
 # Colonoscopy
@@ -81,7 +82,8 @@ Regimens, timing, salvage, and repeat intervals: [[bowel-preparation]]. The two 
 ### Withdrawal and Inspection
 
 - **Average withdrawal time ≥8 min** (appendiceal orifice → completion of rectal retroflexion, normal exam) ([[asge-acg-2024-colonoscopy-quality-indicators]]).
-- Time is a surrogate — what raises ADR is **looking behind folds, cleaning the colon, and recognizing subtle lesions** ([[aga-2021-colonoscopy-quality]]).
+- **What a high-quality withdrawal actually is:** clean pools of retained stool, fluid and mucus; **probe the proximal sides of folds** systematically; **distend every segment**; **change the patient's position** so the segment being inspected is nondependent ([[asge-acg-2024-colonoscopy-quality-indicators]]).
+- Time is only a surrogate — **low ADR plus a short average withdrawal time signals ineffective withdrawal technique** that needs correction, and lengthening the exam without better inspection does not raise ADR ([[asge-acg-2024-colonoscopy-quality-indicators]], [[aga-2021-colonoscopy-quality]]).
 - **Detection aids:** narrow-band imaging (NBI) on withdrawal (helps with flat lesions); distal-tip attachments (modest ADR gain) ([[aga-2021-colonoscopy-quality]]). Computer-aided detection (CADe): no recommendation for or against ([[aga-2025-cade-colonoscopy]]) → [[artificial-intelligence-endoscopy]].
 - **IBD surveillance:** HD scope with dye-spray or virtual chromoendoscopy ([[aga-2021-ibd-colorectal-dysplasia]]) — dyes, concentrations, and biopsy protocol on [[ulcerative-colitis]].
 
@@ -108,9 +110,9 @@ Current targets ([[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024]],
 
 | Metric | Target | Older figure now superseded ([[aga-2021-colonoscopy-quality\|AGA 2021]]) |
 |---|---|---|
-| Cecal intubation (intact colons, photodocumented) | **≥95%** | ≥90% |
+| Cecal intubation (intact colons, photodocumented) | **≥95%** | ≥90% (aspirational ≥95) |
 | Average withdrawal time (normal exams) | **≥8 min** | ≥6 min (aspirational ≥9) |
-| ADR (screening + surveillance + diagnostic, age ≥45) | **≥35%** | ≥30% (screening only, 50–75) |
+| ADR (age ≥45; screening, surveillance or diagnostic — positive stool test, IBD and polyposis excluded) | **≥35%** | ≥30% (aspirational ≥35; screening only, age 50–75) |
 | Adenomas per colonoscopy | **≥0.6** | not measured |
 | Sessile serrated lesion detection rate | **≥6%** | ≥7% (aspirational ≥10) |
 | Adequate bowel prep | **≥90%** | ≥90% (aspirational ≥95) |
@@ -126,13 +128,20 @@ Current targets ([[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024]],
 
 | Event | Rate | Notes |
 |---|---|---|
-| Perforation, colonoscopy | 0.06% delayed, after routine colonoscopy ([[aga-2021-colonoscopy-quality]]); 4 per 10,000 overall ([[acg-2021-crc-screening]]) | Sigmoid is the usual site (see pitfall above); higher with polypectomy and older age |
-| **Screening vs follow-up colonoscopy** | **Screening: 3.1 perforations and 14.6 major bleeds per 10,000.** **Follow-up after a positive stool test: 5.4 perforations (95% CI 3.4–7.4) and 17.5 serious bleeds (7.6–27.5) per 10,000** ([[uspstf-2021-crc-screening]]) | The colonoscopy that follows a positive noninvasive test is the **more hazardous** of the two — more biopsies and adenoma removals. Count it as part of the harm of the stool test, not separately |
+| Perforation, routine colonoscopy | 0.06% delayed ([[aga-2021-colonoscopy-quality]]); 4 per 10,000 overall ([[acg-2021-crc-screening]]) | Sigmoid is the usual site (see pitfall above); higher with polypectomy and older age |
 | Perforation, polypectomy | **0.08%** (95% confidence interval [CI] 0.06–0.1); **1.5%** (95% CI 1.2–1.7) for resection of **≥20 mm** lesions | Right colon highest with [[endoscopic-mucosal-resection\|endoscopic mucosal resection (EMR)]]/[[colorectal-esd\|endoscopic submucosal dissection (ESD)]] ([[usmstf-2020-endoscopic-removal]]) |
-| Bleeding, colonoscopy | 0.24% delayed, after routine colonoscopy ([[aga-2021-colonoscopy-quality]]); 8 per 10,000 overall ([[acg-2021-crc-screening]]) | Higher with polypectomy and older age |
+| Bleeding, routine colonoscopy | 0.24% delayed ([[aga-2021-colonoscopy-quality]]); 8 per 10,000 overall ([[acg-2021-crc-screening]]) | Higher with polypectomy and older age |
 | Post-polypectomy bleeding | **9.8 per 1000** colonoscopies (95% CI 7.7–12.1); immediate or delayed up to 30 d | ↑ large lesions, right colon, [[anticoagulation-gi-bleeding\|antithrombotics]] ([[usmstf-2020-endoscopic-removal]]); treatment on [[endoscopic-hemostasis]] |
 | Splenic rupture / adjacent organ injury | Named among the most serious adverse events | [[aga-2021-colonoscopy-quality]] |
 
+**By indication** — the colonoscopy that follows a positive noninvasive test is the **more hazardous** of the two (more biopsies and adenoma removals), so count its harms as part of the stool-test pathway, not separately ([[uspstf-2021-crc-screening]]):
+
+| Indication | Perforations per 10,000 | Serious bleeds per 10,000 |
+|---|---|---|
+| Screening colonoscopy | **3.1** | **14.6** (major bleeding) |
+| Colonoscopy after a positive stool test | **5.4** (95% CI 3.4–7.4) | **17.5** (95% CI 7.6–27.5) |
+
+- **Before discharge:** give the patient the warning symptoms and emergency contact information — **most adverse events occur within 14 days** ([[aga-2021-colonoscopy-quality]]).
 - **Recognized perforation:** stable patient, clean site → close it at the exam; **cecum and right colon → through-the-scope clips only** (an over-the-scope clip or suturing device may not reach) ([[aga-2021-gi-perforations-endoscopic-management]]). Algorithm, device-by-size table, and EMR perforation-prevention steps: [[endoscopic-management-of-perforation]].
 
 ---

@@ -64,7 +64,7 @@ HRS-AKI diagnostic criteria (current):
 **Prevention**
 
 - Avoid nonsteroidal anti-inflammatory drugs (NSAIDs), excessive diuretics, nonselective beta-blockers
-- Albumin 1 g/kg with large-volume paracentesis
+- Albumin replacement with large-volume paracentesis — this update states the principle (avoid large-volume paracentesis *without* albumin) but gives no replacement dose; the per-litre dose is on [[paracentesis]]. Its own 1 g/kg/d × 2 days is the AKI volume challenge (BPA 5) and the HRS-AKI regimen (BPA 6), not paracentesis replacement
 - Antibiotics with gastrointestinal (GI) bleeding and [[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]] prophylaxis
 - Counsel against alcohol use
 

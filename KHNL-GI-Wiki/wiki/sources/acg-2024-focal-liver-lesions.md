@@ -9,8 +9,8 @@ sources: []
 
 ## Bibliographic Info
 
-- **Article:** [Frenette CT, Isaacson AJ, Lee EW, et al. ACG Clinical Guideline: Focal Liver Lesions (2024). American Journal of Gastroenterology 2024;119:1235–1271.](https://doi.org/10.14309/ajg.0000000000002857)
-- **Authors:** Frenette CT, Isaacson AJ, Lee EW, et al.
+- **Article:** [Frenette C, Mendiratta-Lala M, Salgia R, Wong RJ, Sauer BG, Pillai A. ACG Clinical Guideline: Focal Liver Lesions. American Journal of Gastroenterology 2024;119:1235–1271.](https://doi.org/10.14309/ajg.0000000000002857)
+- **Authors:** Frenette C, Mendiratta-Lala M, Salgia R, Wong RJ, Sauer BG, Pillai A
 - **Year:** 2024
 - **Journal/Publisher:** American Journal of Gastroenterology 2024;119:1235–1271
 - **DOI:** [10.14309/ajg.0000000000002857](https://doi.org/10.14309/ajg.0000000000002857)
@@ -36,8 +36,9 @@ HCA carries the highest management stakes: it has four molecular subtypes with d
 
 - Most common benign liver lesion (prevalence 0.4–20%)
 - MRI hallmarks: T2 hyperintense, peripheral nodular enhancement with centripetal fill-in
-- <3 cm, asymptomatic, characteristic imaging: no follow-up needed
-- 3–10 cm or atypical imaging: follow-up ultrasound at 6–12 months
+- Once the diagnosis is confirmed, **no further follow-up at any size** — unless cirrhosis or another malignancy risk such as hepatitis B *(KC 27a)*. Pregnancy needs no monitoring, even for large cavernous lesions *(KC 27b)*
+- Asymptomatic large cavernous hemangioma (generally >10 cm): **surgical resection is not indicated and no follow-up is required** *(KC 28)*
+- **Rec 11** — cirrhosis or chronic hepatitis B meeting HCC-surveillance criteria + suspected hemangioma: continued imaging surveillance **every 3–6 months for at least 1 year**
 - Giant (>10 cm): may cause symptoms; Kasabach-Merritt syndrome rare
 - Biopsy generally avoided (high vascularity)
 - Resection/embolization for symptomatic giant hemangiomas
@@ -94,15 +95,16 @@ HCA carries the highest management stakes: it has four molecular subtypes with d
 | Recommendation | Strength | Evidence Quality |
 |---|---|---|
 | **Imaging Approach** | | |
-| MRI with hepatobiliary contrast agent (gadoxetate) preferred for FLL characterization when CT/US is indeterminate | Strong | Moderate |
-| CEUS as valid alternative to MRI for FLL characterization | Conditional | Moderate |
+| MRI with hepatobiliary contrast agent (gadoxetate) preferred for FLL characterization when CT/US is indeterminate | Key concept — ungraded | — |
+| CEUS as valid alternative to MRI for FLL characterization | Key concept — ungraded | — |
 | **Hemangioma** | | |
-| <3 cm, asymptomatic, characteristic imaging: no follow-up needed | Strong | Moderate |
-| 3–10 cm or atypical imaging: follow-up ultrasound at 6–12 months | Conditional | Low |
-| Resection or embolization for symptomatic giant hemangiomas | Conditional | Low |
+| **KC 27a** — once the diagnosis of hemangioma is confirmed, no further follow-up is needed **unless** the patient has cirrhosis or other risk of malignancy such as hepatitis B | Key concept — ungraded | — |
+| **KC 27b** — patients who are pregnant do not need monitoring of the hemangioma, even for large cavernous hemangiomas | Key concept — ungraded | — |
+| **KC 28** — even with asymptomatic large cavernous hemangiomas (generally >10 cm), surgical resection is **not** indicated; no further follow-up is required | Key concept — ungraded | — |
+| **Rec 11** — in patients with cirrhosis or chronic hepatitis B who meet criteria for HCC surveillance and have a suspected hemangioma, we recommend continued imaging surveillance **every 3–6 months for at least 1 year** | Strong | Low |
 | **FNH** | | |
-| No follow-up needed once FNH is definitively characterized | Strong | Moderate |
-| Resect only if symptomatic | Conditional | Low |
+| No follow-up needed once FNH is definitively characterized | Key concept — ungraded | — |
+| Resect only if symptomatic | Key concept — ungraded | — |
 | **HCA** | | |
 | **Rec 5** — In women with hepatic adenomas <5 cm, we suggest discontinuation of exogenous hormones and advise weight loss, if applicable, for overweight or obese individuals | Conditional | Very low |
 | **Rec 6** — In women with hepatic adenomas <5 cm, we suggest surveillance with contrast-enhanced imaging modalities **every 6 months for 2 years, then annually thereafter** | Conditional | Low |
