@@ -3,8 +3,8 @@ title: "Methotrexate"
 category: med
 tags: [methotrexate, immunomodulator, ibd, crohns, ulcerative-colitis, hepatotoxicity, teratogenicity, pregnancy]
 created: 2026-09-21
-updated: 2026-09-21
-sources: [acg-2025-crohns, acg-2025-uc, acg-2021-dili, aga-2024-pregnancy-gi-liver]
+updated: 2026-11-15
+sources: [acg-2025-crohns, acg-2025-uc, acg-2021-dili, aga-2024-pregnancy-gi-liver, global-consensus-2025-pregnancy-ibd]
 ---
 
 Antifolate **immunomodulator** used in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]. **The indication is disease-specific and asymmetric:** suggested for **maintenance in [[crohns-disease|Crohn's disease (CD)]]** after corticosteroid induction, and recommended **against** in [[ulcerative-colitis|ulcerative colitis (UC)]] — against monotherapy for induction, and against maintenance. Third role: **adjunctive**, to suppress immunogenicity on [[anti-tnf-agents|anti-tumor necrosis factor (TNF)]] therapy. **Contraindicated in pregnancy.**
@@ -91,7 +91,10 @@ Reported adverse effects of methotrexate ([[acg-2025-crohns]]):
 ## Pregnancy and Contraception
 
 - **Highly effective contraception is required.** When prescribed to women with child-bearing capability, methotrexate **should be administered only if highly effective contraception is in place** ([[acg-2025-crohns]]).
-- **Stop methotrexate at least 6 months before conception** ([[aga-2024-pregnancy-gi-liver]]).
+- **Stop methotrexate 1–3 months before conception** — long enough to clear methotrexate conjugates and transition to a pregnancy-compatible therapy ([[global-consensus-2025-pregnancy-ibd]], GRADE statement 15, very low evidence; the preconception checklist gives “at least 1 month”). [[aga-2024-pregnancy-gi-liver]] advised ≥6 months.
+- **Avoid during pregnancy in every trimester** and **avoid during breastfeeding** — the active metabolite 7-hydroxymethotrexate is detectable in milk (relative infant dose 0.11%). If **≤25 mg/wk**, no alternative exists and the mother strongly wishes to breastfeed, it may be considered with close infant monitoring and **not within 24 h of the dose** ([[global-consensus-2025-pregnancy-ibd]]).
+- **In utero exposure does not mandate termination** — counsel, and continue or start folic acid, which lowers the relative risk of cardiac defects with dihydrofolate reductase inhibitors.
+- Full reproductive management: [[ibd-in-pregnancy]].
 
 ---
 
@@ -107,3 +110,4 @@ Reported adverse effects of methotrexate ([[acg-2025-crohns]]):
 2. [[acg-2025-uc|ACG 2025: Ulcerative Colitis in Adults (Guideline Update)]]
 3. [[acg-2021-dili|ACG 2021 Clinical Guideline: Diagnosis and Management of Idiosyncratic Drug-Induced Liver Injury]]
 4. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
+5. [[global-consensus-2025-pregnancy-ibd|Global Consensus Statement on the Management of Pregnancy in Inflammatory Bowel Disease (2025)]]

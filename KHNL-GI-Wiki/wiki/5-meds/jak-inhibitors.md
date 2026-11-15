@@ -3,8 +3,8 @@ title: "JAK Inhibitors"
 category: med
 tags: [tofacitinib, upadacitinib, filgotinib, jak-inhibitor, janus-kinase, small-molecule, oral, advanced-therapy, ibd, ulcerative-colitis, crohns, boxed-warning]
 created: 2026-09-07
-updated: 2026-11-03
-sources: [acg-2025-uc, acg-2025-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, acg-2025-ibd-preventive-care, aga-2024-ibd-malignancy, aga-2026-inpatient-ibd]
+updated: 2026-11-15
+sources: [acg-2025-uc, acg-2025-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, acg-2025-ibd-preventive-care, aga-2024-ibd-malignancy, aga-2026-inpatient-ibd, global-consensus-2025-pregnancy-ibd]
 ---
 
 Oral small-molecule inhibitors of the **Janus kinase (JAK)–signal transducer and activator of transcription (STAT) pathway**, used as advanced therapy in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]: **tofacitinib** ([[ulcerative-colitis|ulcerative colitis (UC)]]), **upadacitinib** (UC and [[crohns-disease|Crohn's disease (CD)]]), **filgotinib** (UC, Europe only). The only *regulatorily gated* class in IBD — the US label reserves it for patients who failed or cannot tolerate a tumor necrosis factor (TNF) antagonist, a gate traced to **ORAL Surveillance**, a rheumatoid arthritis (RA) trial whose entry criteria are the risk criteria to apply at the bedside.
@@ -193,6 +193,9 @@ Everything restricting this class comes from one trial in **RA, not IBD** — RA
 ## Cautions and Situations to Avoid
 
 - **Pregnancy / childbearing plans.** Data sparse; **animal data suggest adverse pregnancy effects at doses far above clinical doses** → **generally avoid in women contemplating pregnancy in the near future** ([[aga-2024-uc-pharm]], [[aga-2025-crohns-pharm]]).
+  - **Stop tofacitinib, upadacitinib or filgotinib at least 4 weeks before conception** unless no effective alternative therapy maintains maternal health ([[global-consensus-2025-pregnancy-ibd]] consensus statements 20–22; the body text notes the filgotinib label says 1 week). Relatively contraindicated in all trimesters — small molecules cross the placenta passively, including during organogenesis.
+  - **Do not breastfeed on a JAK inhibitor.** Tofacitinib relative infant dose up to 3.4%; the label requires withholding nursing **18 h** (immediate release) or **36 h** (sustained release) after each dose. Upadacitinib and filgotinib milk excretion unknown.
+  - Women with **no near-term conception plans should not be denied** these drugs. Infants exposed in utero may receive **live vaccines after 1 month of age**. Full reproductive management: [[ibd-in-pregnancy]].
 - Also avoid or use cautiously, per the sections above: **high MACE risk** (apply the four EMA criteria and the CV risk-factor list), **higher infection risk**, **ileal-predominant CD**, and **high doses with corticosteroids or immediately after infliximab in ASUC**.
 - No **absolute contraindication** is stated, no **washout interval** when switching to or from a JAK inhibitor, and no data on **combining** a small molecule with a biologic ([[aga-2024-ibd-malignancy]]). The class is not addressed in [[pouchitis]], postoperative CD prophylaxis or paediatric IBD.
 
@@ -222,3 +225,4 @@ Everything restricting this class comes from one trial in **RA, not IBD** — RA
 5. [[acg-2025-ibd-preventive-care|ACG 2025: Preventive Care in Inflammatory Bowel Disease]]
 6. [[aga-2024-ibd-malignancy|AGA Clinical Practice Update on Management of Inflammatory Bowel Disease in Patients With Malignancy: Commentary]]
 7. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Inflammatory Bowel Disease]]
+8. [[global-consensus-2025-pregnancy-ibd|Global Consensus Statement on the Management of Pregnancy in Inflammatory Bowel Disease (2025)]]

@@ -6,6 +6,40 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-15] lint | Lint pass — backlog ingest (by budget)
+
+**Mode:** backlog mode **ON**. A raw/-vs-`wiki/sources/` audit (matching raw filenames against each source page's `title:` + `**Article:**` line, not its slug) leaves roughly **40 uningested tier-1/2 files** — so per CLAUDE.md the pass's budget goes to ingest and *Validate the stalest pages*, *Expand stubs*, and *Fill coverage gaps* are **paused: ingest backlog**.
+
+**Inbox sync:** no untracked files under `raw/` — `git status` clean at pass start, nothing to commit.
+
+**Resume markers:** no source page carried `ingest: partial` — nothing left unfinished by the previous pass.
+
+**Hygiene (whole-wiki, clean):**
+- Broken `[[links]]`: **0** on wiki pages. The 8 unresolved targets all sit in `log.md` itself (historical slugs: `acg-2021-benign-anorectal`, `acg-2024-h-pylori`, `acg-2025-bowel-prep`, `esophageal-manometry`, `hrem`, `malignant-polyp`, plus two doc-example strings) — the log is append-only, left as written.
+- Orphan pages (no inbound links): **0**.
+- Unescaped alias pipes inside table cells: **0**.
+- OS artifacts (`.DS_Store`, `Thumbs.db`): **0**.
+
+**Sources ingested:**
+- `[[wses-2017-adhesive-sbo]]` — WSES/Bologna 2017 update on adhesive small bowel obstruction (ten Broek, *World J Emerg Surg* 2018;13:24). All **14** Table 5 statements captured with the document's own combined grading (conclusion Level A/B/C × recommendation Level IA/IB/IIB/IIC/IID), both grading legends, the Zühlke grades and the adhesion-barrier table recreated natively. The document numbers nothing, so the numbering is noted as the wiki's. Open access (CC BY 4.0).
+
+**Pages updated:**
+- `wiki/1-disease-scripts/foregut-and-motility-diseases/small-bowel/small-bowel-obstruction.md` — **created**, ADDT order, first page on the entity. Carries the decisions: contraindications to a non-operative trial (peritonitis/strangulation/ischemia), CT signs mandating surgery, the **72-h** trial limit, the water-soluble-contrast protocol and its failure criteria (>72 h obstruction · >500 mL drainage on day 3 · CRP >75 mg/L · free fluid >500 mL), laparoscopy selection (≤2 prior laparotomies, single band expected), barrier products with effect sizes, NG vs trilumen long tube. Figure 2 redrawn as a Mermaid flowchart (9 boxes, `class` lines, 4-line caption); 2 callouts.
+- `wiki/1-disease-scripts/colorectal-diseases/functional-motility/colonic-volvulus.md` — one inline link added in Differential Diagnosis. `updated:` deliberately **not** bumped (link-only change on a page reviewed 2026-11-13, so the card pass is not given a false staleness flag).
+- **Two gaps left for the next pass:** `wiki/2-diagnostic-schemas/ingested-foreign-body.md` has 3 plain-text mentions of small bowel obstruction (one inside a Mermaid node) that should become inline links.
+
+**Figures not captured, on purpose:** WSES Figure 1 (peritoneal adhesion index) is marked "Reproduced with permission from [35]" — third-party content outside the article's CC BY licence, so it was not captured; the index is described in text instead.
+
+**`needed-sources.md` corrections:** the *Topics with no page and no source* line was wrong on four items — `raw/` already holds guidelines for **small bowel obstruction** (now ingested, struck), **hepatitis E** (EASL 2018), **gallbladder polyps** (SRU 2022) and **Zenker's diverticulum** (ESGE 2020 Part 2). The latter three moved to the *In `raw/`, awaiting ingest* table rather than being deleted — they have a source but still no page. No new download row was justified by this ingest (every primary paper WSES cites fails the download test: the adhesion scores are surgical instruments whose content the guideline itself prints, and the cited trials are not multicentre/phase 3).
+
+**Cards:** not written this pass. In backlog mode the budget went to ingest; `[[small-bowel-obstruction]]` is new, tier-1-sourced and **card-eligible**, so it joins the card queue for the 05:00 pass. No existing card file's content changed.
+
+**Ingest budget:** the pass's budget cap stopped it here. Three further ingests were dispatched and were still running when the cap hit — **Global Consensus 2025 Pregnancy in IBD (Mahadevan)**, **ESGE 2026 Biliary Stricture Management (Lemmers)** and **EASL 2025 Autoimmune Hepatitis**. Any source page they left carrying `ingest: partial` is started-not-finished; **the next pass finishes those three before starting anything new.**
+
+**Paused (ingest backlog):** *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*. The one remaining stub was not expanded. *Daily source fetch* did not run — this is not the 06:00 pass. NCCN files in `raw/` remain deliberately uningested (EULA forbids LLM use; awaiting Nick's decision on the existing NCCN source pages).
+
+---
+
 ## [2026-11-14] update | Card pass — dedup, cards for 7 stale pages, quality review of 6 files
 
 **Dedup and backfill:** `anki-dupes.mjs` returned **0 unjudged candidate pairs** at ≥0.4 — nothing to judge or mark. `anki-at.py --status`: **0 untagged notes in 0 files**, so the `{at:}` backfill step did nothing.

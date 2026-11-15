@@ -3,8 +3,8 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-11-13
-sources: [asge-2025-ibd-endoscopy-consensus, aga-2018-functional-gi-symptoms-ibd, acg-2025-crohns, aga-2017-crohns-after-surgical-resection, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia, ecco-2017-crohns-part-1]
+updated: 2026-11-15
+sources: [asge-2025-ibd-endoscopy-consensus, aga-2018-functional-gi-symptoms-ibd, acg-2025-crohns, aga-2017-crohns-after-surgical-resection, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia, ecco-2017-crohns-part-1, global-consensus-2025-pregnancy-ibd]
 ---
 
 Crohn's disease (CD): idiopathic transmural, granulomatous [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] of any gastrointestinal (GI) segment, mouth to anus — discontinuous skip lesions; progressive course toward stricture, fistula, abscess and surgery.
@@ -337,19 +337,17 @@ By patient profile ([[acg-2025-crohns]] KC 55):
 
 ### Pregnancy
 
-*IBD-wide — [[ulcerative-colitis]] links here. [[aga-2024-pregnancy-gi-liver|AGA 2024]] best practice advice (BPA); context: [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]].*
+*Full topic — preconception checklist, drug grid, monitoring, lactation and infant vaccines: **[[ibd-in-pregnancy]]**. Context: [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]].*
 
-- **Remission before conception, through pregnancy and postpartum** — active disease → preterm birth, low birth weight, growth restriction, hypertensive disease, cesarean (BPA 7). Maternal-fetal medicine consult for all; complex births at a tertiary center (BPA 3).
-- **Continue biologics**; **stop methotrexate, thalidomide, ozanimod ≥6 months before conception** (BPA 7).
-- Safe: mesalamine; sulfasalazine + folic acid 1 mg twice daily; azathioprine/6-mercaptopurine; steroids for flares (caution first trimester — preterm/small for gestational age). **Methotrexate contraindicated.** Infliximab/adalimumab cross the placenta after ~20 wk → **no live vaccines to the infant for 6 months**; certolizumab doesn't cross. Most drugs compatible with breastfeeding.
-- **Monitoring:** FC each trimester; [[intestinal-ultrasound|IUS]] (84% sensitivity/98% specificity); MRI **without gadolinium**; **unsedated flexible sigmoidoscopy** over colonoscopy; elective endoscopy postpartum, nonemergent in 2nd trimester (BPA 6).
-- **Delivery:** avoid vaginal birth with active perianal disease, [[anorectal-abscess\|perianal abscess]], or active rectal disease; consider cesarean after complex fistulizing disease ± J-pouch.
+- **Remission before conception, through pregnancy and postpartum** — active disease → preterm birth, low birth weight, growth restriction, hypertensive disease, cesarean ([[aga-2024-pregnancy-gi-liver|AGA 2024]] BPA 7). Maternal-fetal medicine consult for all; complex births at a tertiary center (BPA 3).
+- **Continue biologics and thiopurines; stop methotrexate 1–3 months and ozanimod ≥3 months before conception** ([[global-consensus-2025-pregnancy-ibd]]; AGA 2024 gave ≥6 months for both).
+- **CD-specific delivery rule:** **active perianal disease at delivery → Cesarean** (Conditional, very low); also for rectovaginal fistula and after prior complex perianal disease. Avoid vaginal birth with [[anorectal-abscess\|perianal abscess]] or active rectal disease (AGA 2024).
 
 ---
 
 ## See Also
 
-[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[nsaid-enteropathy]], [[perianal-fistulizing-crohns-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[short-bowel-syndrome]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]], [[ibd-in-older-adults]], [[irritable-bowel-syndrome]], [[bile-acid-diarrhea]], [[small-intestinal-bacterial-overgrowth]], [[treat-to-target-ibd]], [[corticosteroids-ibd]], [[methotrexate]], [[endoscopic-ultrasound]]
+[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[nsaid-enteropathy]], [[perianal-fistulizing-crohns-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[short-bowel-syndrome]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]], [[ibd-in-older-adults]], [[ibd-in-pregnancy]], [[irritable-bowel-syndrome]], [[bile-acid-diarrhea]], [[small-intestinal-bacterial-overgrowth]], [[treat-to-target-ibd]], [[corticosteroids-ibd]], [[methotrexate]], [[endoscopic-ultrasound]]
 
 ---
 
@@ -372,3 +370,4 @@ By patient profile ([[acg-2025-crohns]] KC 55):
 15. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease: Expert Review]]
 16. [[asge-2025-ibd-endoscopy-consensus|Endoscopic diagnosis and management of adult inflammatory bowel disease: a consensus document from the American Society for Gastrointestinal Endoscopy IBD Endoscopy Consensus Panel (2025)]]
 17. [[ecco-2017-crohns-part-1|ECCO 3rd European Evidence-based Consensus on the Diagnosis and Management of Crohn's Disease 2016: Part 1 — Diagnosis and Medical Management]]
+18. [[global-consensus-2025-pregnancy-ibd|Global Consensus Statement on the Management of Pregnancy in Inflammatory Bowel Disease (2025)]]

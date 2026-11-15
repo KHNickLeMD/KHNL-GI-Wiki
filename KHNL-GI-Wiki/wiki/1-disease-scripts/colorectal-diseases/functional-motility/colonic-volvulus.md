@@ -54,7 +54,7 @@ Mechanical **twisting (torsion) of a redundant colon segment along its mesenteri
 *Workup: see [[nausea-and-vomiting]] for the broader obstruction evaluation.*
 - Mechanical large-bowel obstruction ([[colorectal-cancer|malignancy]], [[colonic-stricture|stricture]])
 - [[acute-colonic-pseudo-obstruction]] (functional dilatation, no twist)
-- Small-bowel obstruction
+- [[small-bowel-obstruction|Small-bowel obstruction]]
 
 ## Diagnostics
 - **Contrast-enhanced computed tomography (CT)** — preferred study for **both** cecal and sigmoid volvulus, having replaced abdominal radiographs and water-soluble contrast enemas. For sigmoid volvulus: **near 100% sensitivity, >90% specificity**

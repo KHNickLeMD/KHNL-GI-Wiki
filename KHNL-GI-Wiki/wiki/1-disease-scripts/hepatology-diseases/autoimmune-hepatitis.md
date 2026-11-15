@@ -3,15 +3,59 @@ title: "Autoimmune Hepatitis"
 category: disease-script
 tags: [aih, autoimmune, hepatitis, liver, hpb, igg, immunosuppression, pregnancy, azathioprine, budesonide, mycophenolate-mofetil, mmf, tacrolimus, overlap-syndrome, pbc, psc, cirrhosis, liver-transplant]
 created: 2026-05-16
-updated: 2026-11-13
-sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, aasld-2018-pbc, de-martin-2021-surfasa-acute-severe-aih, hennes-2008-simplified-aih-criteria, alvarez-1999-iaihg-revised-criteria, gerussi-2026-pbc-aih-delphi, ecco-2024-eim-ibd]
+updated: 2026-11-15
+sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, easl-2025-autoimmune-hepatitis, aasld-2020-autoimmune-hepatitis, aasld-2018-pbc, de-martin-2021-surfasa-acute-severe-aih, hennes-2008-simplified-aih-criteria, alvarez-1999-iaihg-revised-criteria, gerussi-2026-pbc-aih-delphi, ecco-2024-eim-ibd]
+---
+
+*Where [[easl-2025-autoimmune-hepatitis|EASL 2025]] and [[aasld-2020-autoimmune-hepatitis|AASLD 2020]] differ, this page follows the newer EASL document and flags the difference inline.*
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Laboratory]]
+  - [[#Pretreatment Evaluation]]
+  - [[#Imaging]]
+  - [[#Liver Biopsy]]
+- [[#Therapeutics]]
+  - [[#First-Line Treatment]]
+  - [[#Monitoring on Treatment]]
+  - [[#Maintenance Therapy]]
+  - [[#Intolerance, Insufficient Response and Rescue]]
+  - [[#Relapse and Flares]]
+  - [[#Acute Severe AIH and ALF Management]]
+  - [[#Decompensated Cirrhosis]]
+  - [[#Treatment Withdrawal]]
+  - [[#Surveillance in AIH Cirrhosis]]
+  - [[#Overlap / Variant Syndromes]]
+  - [[#AIH in Pregnancy]]
+  - [[#Paediatric AIH]]
+  - [[#Post-Liver Transplant AIH]]
+  - [[#Long-Term Outcomes]]
+
 ---
 
 ## Assessment
 
 ### Establishing the Diagnosis
 
-Autoimmune hepatitis (AIH) is an immune-mediated hepatitis characterized by elevated aminotransferases, elevated IgG (>1.1× upper limit of normal [ULN]), positive autoantibodies, interface hepatitis on biopsy, and response to immunosuppression. It is a diagnosis of exclusion — viral hepatitis, hereditary liver disease, drug-induced liver injury, and cholestatic liver disease must be ruled out. [[aasld-2020-autoimmune-hepatitis]]
+Autoimmune hepatitis (AIH) is an immune-mediated hepatitis characterized by elevated aminotransferases, elevated IgG (>1.1× upper limit of normal [ULN]), positive autoantibodies, interface hepatitis on biopsy, and response to immunosuppression. It is a diagnosis of exclusion — viral hepatitis, hereditary liver disease, drug-induced liver injury, and cholestatic liver disease must be ruled out, **although coexistence with [[nafld-masld|MASLD]], [[alcohol-associated-liver-disease|ALD]] or viral hepatitis is possible**. [[easl-2025-autoimmune-hepatitis]] [[aasld-2020-autoimmune-hepatitis]]
+
+- **Suspect AIH** in any unexplained aminotransferase elevation *irrespective of magnitude*, and in **cirrhosis of unknown cause even with normal aminotransferases**; **normal IgG does not exclude AIH** (elevated in 85–95% overall but only 25–39% of acute presentations) [[easl-2025-autoimmune-hepatitis]]
+- **Liver biopsy is required to establish the diagnosis** (EASL, LoE 1, strong) — ≥8 portal tracts, needle ≥18G (preferably 16G or wider), cylinder ≥1.5 cm (>2.5 cm better), read by a liver pathologist [[easl-2025-autoimmune-hepatitis]]
+- Report must give **necroinflammatory grade (Ishak mHAI), fibrosis stage, and the 2022 International AIH Pathology Group (IAHPG) category — likely / possible / unlikely AIH** [[easl-2025-autoimmune-hepatitis]]
+
+| IAHPG 2022 category | Histology (absent features of another liver disease unless stated) |
+|---|---|
+| **Likely** | Predominantly portal lymphoplasmacytic infiltrate with *more than mild* interface and/or lobular hepatitis; **or** more than mild lobular hepatitis with portal lymphoplasmacytic infiltrate and/or interface hepatitis and/or portal-based fibrosis |
+| **Possible** | Predominantly portal lymphoplasmacytic infiltrate *without* more than mild lobular or interface hepatitis; **or** any lobular hepatitis lacking the three likely features; **or** either likely pattern *in the presence of* histological features of another liver disease |
+| **Unlikely** | Portal or lobular hepatitis without the likely features, in the presence of features of another liver disease |
+
+> [!pitfall] Emperipolesis and rosettes are no longer "typical AIH"
+> EASL 2025 drops both as typical lesions — they are not specific. If seen, report them as surrogate markers of severity only. They remain in the 2008 simplified score's definition of *typical* histology, so a score built on the old definition and a modern pathology report can disagree ([[easl-2025-autoimmune-hepatitis]]).
 
 **Type 1 AIH (most common in North America):**
 
@@ -64,6 +108,8 @@ Autoimmune hepatitis (AIH) is an immune-mediated hepatitis characterized by elev
 | Absence of viral hepatitis | Yes | 2 |
 
 - **≥6 = probable AIH · ≥7 = definite AIH** (maximum 8).
+- **EASL 2025 updates the autoantibody row for modern assays** (*LoE 3, weak*): the 2008 cut-offs apply **only to indirect immunofluorescence testing (IFT) on rodent tissue sections**. Where HEp-2 cells or ELISA are used, score **1 point for "positive"** (IFT ≥1:40 on tissue sections, **≥1:80 or 1:160 for ANA on HEp-2**, ELISA at locally established cut-offs) and **2 points for "strongly positive"** (IFT ≥1:80 on tissue sections, **≥1:160 or 1:320 for ANA on HEp-2**), with anti-LKM ≥1:40 or anti-SLA/LP positive still scoring 2. **The IAHPG likely/possible categories may be substituted for *typical*/*compatible* histology** (*LoE 3, weak*). [[easl-2025-autoimmune-hepatitis]]
+- **Apply any score with caution** in acute AIH, variant syndromes, concurrent liver disease and drug-induced autoimmune-like hepatitis (DI-ALH) (*LoE 3, strong*) [[easl-2025-autoimmune-hepatitis]]
 - **The autoantibody block caps at 2 points** — antibodies are not additive beyond 2, however many are positive.
 - **Histologic evidence of hepatitis is a necessary condition**, not just a scoring line. *Typical* requires **all three** of interface hepatitis, **emperipolesis**, and **hepatic rosettes**; *compatible* = chronic hepatitis with lymphocytic infiltration lacking the full triad.
 
@@ -122,7 +168,19 @@ Both definitions additionally require **no previously recognized liver disease**
 
 **Fibrosis staging:** Ishak / METAVIR / Scheuer–Batts-Ludwig staging on [[liver-biopsy|biopsy]] — **Scheuer/Batts-Ludwig is the system derived for viral and autoimmune hepatitis**; stage definitions and the warning against converting between schemes live on [[liver-biopsy]]. Model for End-Stage Liver Disease (MELD) score for decompensated AIH [[cirrhosis|cirrhosis]]
 
-**Biochemical remission (treatment goal):** Normalization of aspartate aminotransferase (AST), alanine aminotransferase (ALT), AND IgG to within the normal range
+**Response endpoints — the definitions every treatment decision below is keyed to** ([[easl-2025-autoimmune-hepatitis]], from the IAIHG endpoint set):
+
+| Endpoint | Definition |
+|---|---|
+| **Complete biochemical response (CBR)** | Normalisation of aspartate aminotransferase (AST), alanine aminotransferase (ALT) **and** IgG, **no later than 6–12 months** after starting treatment |
+| **Insufficient response** | No CBR by 6–12 months on standard of care — applies to first- *and* second-line therapy |
+| **Non-response** | **<50% fall in aminotransferases from baseline at 4 weeks** |
+| **Remission (histological)** | **mHAI <4/18** on an adequate biopsy, at any time on treatment |
+| **Intolerance** | Any adverse event attributable to the regimen that leads to drug cessation |
+
+- Before calling insufficient response, confirm the patient actually had **predniso(lo)ne ≥0.5 mg/kg/day starting dose with maintenance up to 10 mg/day plus an adequately dosed immunomodulator**, and confirm adherence
+- CBR within 6 months is an independent predictor of favourable outcome, but **17% who miss it at 6 months reach it at 12 months with the same prognostic benefit** — hence the 6–12-month window
+- EASL flags the 4-week non-response cut-off as probably too early (a **≥80% fall at 8 weeks** predicted normalisation at 6 and 12 months better)
 
 ### Classification / Typing
 
@@ -130,6 +188,8 @@ Both definitions additionally require **no previously recognized liver disease**
 |---|---|---|---|
 | **Type 1** | ANA, SMA/anti-actin, SLA | Peripubertal + adults; 96% of US adults | Remission after drug withdrawal possible |
 | **Type 2** | Anti-LKM1 (± anti-LC1, anti-LKM3) | Usually <14 y; 9–12% of US children | Remission after withdrawal rare — usually needs long-term IS |
+
+⚠ **EASL 2025 no longer recommends subclassifying adults by autoantibody profile** (*LoE 3, weak*): subtype does not change severity, treatment response or prognosis, and the largest paediatric cohort found anti-LKM1-positive children behaved like type 1. The table is retained because the terminology is still in wide use. The prognostic signal that does survive is **anti-SLA/LP**, which may mandate permanent immunosuppression (below). [[easl-2025-autoimmune-hepatitis]]
 
 ---
 
@@ -154,7 +214,11 @@ Both definitions additionally require **no previously recognized liver disease**
 
 - Aminotransferases (ALT, AST) — typically markedly elevated; pattern not unique [[acg-2017-liver-chemistries]]
 - Serum IgG (quantitative) — elevated >1.1× ULN
-- Autoantibody panel: ANA + SMA (adults); + anti-LKM1 (children); anti-SLA/LP
+- **Autoantibody panel — order and method matter** [[easl-2025-autoimmune-hepatitis]]: first screen **ANA, SMA, anti-LKM1, anti-LC1 by IFT on triple rodent tissue sections (liver, kidney, stomach)**, *in parallel* with **anti-SLA/LP by solid-phase assay** (anti-SLA/LP is not detectable by IFT). Starting dilution 1:40–1:80 in adults (higher on HEp-2), **1:10–1:20 in children**
+  - **Negative IFT despite suspicion → re-test at a lower dilution (1:40 adults, 1:10 children)** and refer to a reference laboratory for non-standard antibodies; extremely high IgG can cause a false-negative pro-zone effect, so also retest at *higher* serial dilutions
+  - **pANNA (atypical perinuclear ANCA) only after ANA, SMA and anti-SLA/LP are negative** — isolated pANNA reactivity is rare
+  - Antibodies are found in **>95%** when methods follow the guideline; **monitoring titres is not recommended in adults** (no prognostic value) but may matter in children and adolescents
+  - Anti-dsDNA is positive in ~30% of AIH and up to 60% of AIH/PBC — **ANA + anti-dsDNA is not by itself SLE**
 - ALP, GGT — predominant ALP/GGT elevation suggests overlap with PBC/PSC rather than isolated AIH
 - Serum protein electrophoresis (SPEP) — broad-based gamma globulin elevation
 - Hepatic function panel (INR, albumin, bilirubin) — synthetic function assessment
@@ -168,7 +232,8 @@ Both definitions additionally require **no previously recognized liver disease**
 
 - **TPMT genotype or phenotype** — screen before AZA initiation; poor metabolizers at risk for severe myelosuppression [[aasld-2020-autoimmune-hepatitis]]
 - **HBsAg and anti-HBc total** — prophylactic antiviral (entecavir or tenofovir) required if HBsAg positive before initiating immunosuppression; the reactivation risk tiers, agent choice, and prophylaxis duration are on [[chronic-hepatitis-b|chronic hepatitis B → HBV Reactivation on Immunosuppression]]
-- **Dual-energy X-ray absorptiometry (DEXA) scan** — baseline; repeat q2–3 years on glucocorticoids; [[aasld-2020-autoimmune-hepatitis]]
+- **Dual-energy X-ray absorptiometry (DEXA) scan** — **recommended in all adults at treatment initiation** (EASL *LoE 3, strong*) and during follow-up; repeat q2–3 years on glucocorticoids [[easl-2025-autoimmune-hepatitis]] [[aasld-2020-autoimmune-hepatitis]]
+- **Baseline intraocular pressure + periodic ophthalmic review** on corticosteroids — two-thirds of children on long-term oral steroids had (mostly asymptomatic) raised pressure, reversible with treatment and taper [[easl-2025-autoimmune-hepatitis]]
 - **Vaccinations** (HAV, HBV, influenza, pneumococcal, tetanus-diphtheria-acellular pertussis (Tdap), coronavirus disease 2019 (COVID-19)) — before immunosuppression initiation
 - Extrahepatic autoimmune disease screening: thyroid disease, rheumatoid arthritis (RA), [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], Sjogren's, antineutrophil cytoplasmic antibody (ANCA) vasculitis, celiac disease
 
@@ -189,64 +254,112 @@ Both definitions additionally require **no previously recognized liver disease**
 
 ## Therapeutics
 
+**Who to treat:** immunosuppression is recommended in **all patients with active disease, including advanced fibrosis and compensated [[cirrhosis]]** (*LoE 1, strong*); the goal is complete biochemical, clinical **and histological** remission (*LoE 2, strong*). Treatment may be withheld with close follow-up in **elderly asymptomatic patients with mild activity and no advanced fibrosis** (watch-and-wait, *LoE 4, strong*), in burnt-out cirrhosis without inflammatory activity, and where corticosteroids are contraindicated (uncontrolled diabetes, severe osteoporosis, morbid obesity/metabolic syndrome) — then check aminotransferases and IgG **every 3–6 months** and re-biopsy if they rise or fluctuate. [[easl-2025-autoimmune-hepatitis]]
+
 ### First-Line Treatment
 
-**Prednisone/prednisolone + [[thiopurines|azathioprine]]:** Standard first-line regimen for adults and children with AIH. [[aasld-2020-autoimmune-hepatitis]]
+**Predniso(lo)ne + either [[thiopurines|azathioprine]] or mycophenolate mofetil (MMF)** — EASL 2025 promotes MMF to a first-line alternative (*LoE 2, strong recommendation, consensus*). [[easl-2025-autoimmune-hepatitis]]
 
-**Induction dose depends on whether AZA is co-administered — the two prednisone doses are different:**
+| Drug | Start | Final dose | Timing / caveats |
+|---|---|---|---|
+| **Predniso(lo)ne** | **≥0.5 mg/kg/day**; **up to 1 mg/kg/day** in more severe or advanced disease | Taper by response | Higher dose = higher response but more adverse events (meta-analysis, 25 studies, 3,305 patients) |
+| **[[thiopurines\|Azathioprine]] (AZA)** | **50 mg/day** | **1–2 mg/kg/day** (reached ~week 4) | Add **only when bilirubin <6 mg/dl**, ideally **2 weeks after** the steroid — avoids confusing non-response with AZA hepatotoxicity. **Never as monotherapy for induction** (high mortality). Avoid in acute severe AIH and decompensated cirrhosis; caution in TPMT deficiency, pregnancy, cytopenias, malignancy |
+| **MMF** | **1,000 mg/day**, with the steroid | **1,500–2,000 mg/day** (0.75–1.0 g twice daily, reached ~week 2) | **Teratogenic — counsel women *and* men**; negative pregnancy test and two contraceptive methods, continued **≥12 weeks after** stopping |
 
-| Regimen | Prednisone / prednisolone | AZA |
+- **Tapering is individualised to CBR status** (*LoE 4, strong*). Rapid taper (**5–10 mg every 1–2 weeks**) is desirable but must follow response; the trial-mirrored schedule reaches ~5 mg/day by week 24 in an 80-kg index case
+- Check **ALT and IgG at weeks 4, 12 and 24** as the efficacy parameters
+- ⚠ **MMF vs AZA — the data behind the promotion:** CAMARO (prospective open-label superiority RCT) gave **CBR at 6 months 72.2% with MMF vs 32.3% with AZA (p = 0.004)**, severe adverse events 0% vs 12.9%, withdrawal 5.1% vs 25.8%
+- ⚠ **[[aasld-2020-autoimmune-hepatitis|AASLD 2020]] differs**: it gives prednisone **40–60 mg/day alone or 20–40 mg/day with AZA**, and keeps MMF as second-line only. This page follows the newer EASL dosing; readers using AASLD doses should know the regimens are not interchangeable
+- Check **TPMT** metabolizer status before prescribing AZA; yearly dermatologic screening (nonmelanoma skin cancer) and sun avoidance
+
+**Budesonide — demoted.** **Not recommended as part of first-line treatment, and contraindicated in cirrhosis** (*LoE 2, strong recommendation, consensus*). **Switching to budesonide may be suggested for corticosteroid side effects in non-cirrhotic, predniso(lo)ne-dependent patients** (*LoE 3, weak*). Dose where used: **3 mg three times daily**. [[easl-2025-autoimmune-hepatitis]]
+
+- Contraindicated in cirrhosis because portal-systemic shunting abolishes the first-pass advantage and the risk of [[portal-vein-thrombosis|portal vein thrombosis]] is high
+- ⚠ **This reverses [[aasld-2020-autoimmune-hepatitis|AASLD 2020]]**, which made budesonide + AZA an equivalent first-line option in non-cirrhotic patients on a meta-analysis (OR 2.19 for biochemical remission). The positive RCT was not replicated: in 381 treatment-naive patients, normalisation of aminotransferases and IgG at 6 months was **52% predniso(lo)ne vs 37% budesonide**, and the side-effect advantage vanished once cirrhotic patients were excluded. A paediatric RCT (n = 46) found no difference (16% vs 15%)
+- Do not use budesonide in acute severe AIH or ALF
+
+### Monitoring on Treatment
+
+[[easl-2025-autoimmune-hepatitis]] — assessment is individualised to severity, response and tolerance (*LoE 2, strong*); adverse events are managed **pro-actively and anticipated** (*LoE 5, strong*).
+
+| Phase | What and how often |
+|---|---|
+| First month on AZA | AST, ALT, prothrombin time, fasting glucose, full blood count **weekly** — AZA toxicity peaks in the first 6 weeks |
+| First month on MMF | Same panel **at 4 weeks** (MMF toxicity is rare) |
+| To 12 months | Labs **including IgG every 2–3 months**, to call CBR at 6 and 12 months |
+| Maintenance after CBR | **Every 3–6 months**; thyroid function every 6–12 months |
+| Fibrosis | **[[liver-stiffness-measurement\|Transient elastography]] ~every 12 months** (*LoE 3, strong*) — reliable from **6 months** after starting immunosuppression; **≥9 kPa** severe fibrosis, **12.5–16 kPa** cirrhosis |
+
+- **Calcium intake and vitamin D supplementation** on long-term corticosteroids (*LoE 3, strong*); low-carbohydrate, low-salt diet
+- Concurrent metabolic syndrome or [[nafld-masld|MASLD]] → **lowest effective predniso(lo)ne dose with faster tapering**, plus active management of hypertension, dyslipidaemia, diabetes and weight (*LoE 2, strong*); AIH with MASLD more often has cirrhosis at diagnosis and decompensates more
+- Apply **routine general-population cancer screening** — extrahepatic cancer occurs in up to 5% (nonmelanoma skin and haematological most common)
+
+### Maintenance Therapy
+
+- **Azathioprine or MMF as monotherapy, or with low-dose predniso(lo)ne ≤5 mg/day**, dose adapted to sustain stable CBR (*LoE 2, strong*) [[easl-2025-autoimmune-hepatitis]]
+- **Total duration at least 4 years, with at least the last 2 years in sustained CBR**
+- **Low-dose predniso(lo)ne monotherapy only** in mild disease with CBR and intolerance to **both** AZA and MMF (*LoE 3, weak*)
+- Continuing corticosteroids beyond **3 months after ALT normalises** gave no better outcomes in a 1,267-patient UK audit — taper off and run a steroid-sparing monotherapy
+- AZA continued alone at **2 mg/kg/day** gave 0% relapse at 12 months and 17% at 5 years
+
+### Intolerance, Insufficient Response and Rescue
+
+**Intolerance to thiopurines** — **MMF is the second-line agent of choice** (*LoE 2, strong*); **mercaptopurine (MP) or thioguanine (TG) can be used** (*LoE 4, weak*). [[easl-2025-autoimmune-hepatitis]]
+
+| Agent | Dose in AZA intolerance | Complete response |
 |---|---|---|
-| Prednisone **alone** | 40–60 mg daily (adults); 1–2 mg/kg daily children, max 40–60 mg | — |
-| Prednisone **+ AZA** | **20–40 mg daily** | US 50–150 mg daily; Europe 1–2 mg/kg daily; pediatric 1–2 mg/kg daily |
+| **MMF** | 1.5–2.0 g/day | 62–92% (pooled 82%, 95% CI 77–87%); discontinuation 0–8% |
+| **MP** | 0.5 mg/kg/day → **1–1.5 mg/kg/day** or metabolite-guided | 40% (8/20) |
+| **TG** | **20 mg/day** | 66.7% (22/33) |
+| **[[tacrolimus\|Tacrolimus]]** | 1 mg twice daily *or* 2 mg once daily; trough **≤5 ng/ml** | 94% (32/34) in one retrospective series — narrow therapeutic window, watch renal function and blood pressure |
 
-- Typical AZA **starting** dose 50–100 mg daily in adults, 1–2 mg/kg daily in children; titrate up to 2 mg/kg daily
-- AZA start timing: simultaneously with steroid, or after **2 weeks** at most centers (confirms steroid responsiveness, allows TPMT result, excludes AZA-induced hepatitis)
-- Check **TPMT** metabolizer status before prescribing AZA
-- **Taper after biochemical remission:** reduce prednisone gradually to 20 mg daily with labs q2 weeks, then 2.5–5 mg every 2–4 weeks to a 5–10 mg/day maintenance dose; prednisone may then be stopped, leaving AZA monotherapy
-- Where 6-thioguanine nucleotide (6-TGN) levels are used, titrate to **100–300 pmol/8 × 10⁸ red blood cells (RBCs)**
-- Monitor cell counts **at least every 6 months** on AZA; reduce dose for mild cytopenia, discontinue for severe cytopenia
-- AZA **not recommended** in decompensated [[cirrhosis]] or acute severe AIH; yearly dermatologic screening (nonmelanoma skin cancer) and sun avoidance
+AZA is stopped for adverse effects in ~15% in year 1 (36.5% within 6 months in the prospective ERN registry); myelotoxicity and hepatotoxicity each <2%.
 
-**Budesonide (3 mg three times daily [TID]) + AZA:** Equivalent first-line alternative for patients **without cirrhosis and without acute severe AIH** (Conditional, Low certainty). [[aasld-2020-autoimmune-hepatitis]]
+**Insufficient response — work the thiopurine metabolites before changing drug** [[easl-2025-autoimmune-hepatitis]]:
 
-- Dosing: **3 mg three times daily**, reduced to twice daily once remission achieved; taper to lowest effective dose and attempt withdrawal after remission
-- Advantage: high first-pass hepatic metabolism → fewer steroid-specific side effects (bone mineral density preserved; less weight gain in children)
-- Meta-analysis: biochemical remission more likely with budesonide + AZA than prednisone + AZA (odds ratio [OR] 2.19, 95% confidence interval [CI] 1.30–3.67; high grade of evidence) — but no study reported time to remission, cirrhosis, death, or transplant
-- **Do not prescribe in cirrhosis**: portal-systemic shunting means budesonide cannot reach the liver, losing the side-effect advantage; [[portal-vein-thrombosis|portal vein thrombosis]] has been reported in cirrhotic patients on budesonide (Conditional, Very Low certainty)
-- **Do not prescribe in acute severe AIH or ALF** — role as first-line here is unsupported
-
-**Treatment response assessment:**
-
-- Biochemical remission target: normalization of AST, ALT, AND IgG
-- Aminotransferases should improve **within 2 weeks** — rapidity of response is the single most important index of outcome
-- Biochemical remission achieved **within 6 months** → significantly lower rate of progression to cirrhosis or need for LT; adjust therapy to improve speed of response
-- Cholestatic labs (rising ALP/GGT) predict incomplete or delayed response — reconsider overlap syndrome
-- Patients ≥60 y respond faster than young adults
-
-### Second-Line Treatment
-
-For treatment failure, incomplete response, or drug intolerance: [[aasld-2020-autoimmune-hepatitis]]
-
-**Recommendation 3:** In children or adults with AIH who have treatment failure, incomplete response, or drug intolerance to first-line agents, use **mycophenolate mofetil (MMF) or tacrolimus (TAC)** to achieve and maintain biochemical remission (*conditional recommendation, low certainty*). [[aasld-2020-autoimmune-hepatitis]]
-
-| Agent | Target / monitoring | Response data |
+| 6-TGN | 6-MMP | Action |
 |---|---|---|
-| **Mycophenolate mofetil** | *no mg dose specified in American Association for the Study of Liver Diseases (AASLD) 2020* | Pooled response 58% — **82% for AZA intolerance vs 32% for treatment failure**; AST/ALT normalized in 79%, histologic remission 89%; adverse events 14%, discontinuation 8% |
-| **[[tacrolimus\|Tacrolimus]]** | serum trough **1–10 ng/mL** | Aminotransferase normalization 75–94%; dose reduction/cessation for side effects in ~25% (tremor/headache, hypertension/renal insufficiency, hair loss) |
+| **<223 pmol/8×10⁸ RBC** | low | **Non-adherence or underdose** → check adherence and/or increase AZA **up to 2 mg/kg/day** (*LoE 3, strong*) |
+| **<223** | high (shunter) | **Allopurinol 100 mg/day + reduce AZA to 25% of its dose** (*LoE 3, weak*; allopurinol contraindicated in pregnancy) |
+| **>223** | high | **Exclude another cause** (Epstein-Barr virus, cytomegalovirus, steroid-related MASLD/MASH, supplement-related DILI) before reducing the AZA dose |
+| **>223** | low | No change |
 
-- Direct MMF-vs-TAC meta-analysis found **no significant difference** in biochemical remission (OR 1.95, 95% CI 0.18–20.81), side effects, or death/LT
-- MMF is nonetheless preferred as the initial second-line agent on ease of use and side-effect profile (*conditional, very low certainty*)
-- **Concurrent diabetes:** cyclosporine may be preferred over TAC, since TAC itself can cause diabetes
-- The same second-line split holds across studies: these drugs work far better for *intolerance* to first-line therapy than for *treatment failure* (e.g. 62% vs 38%)
+- Therapeutic window **6-TGN 225–450 pmol/8×10⁸ erythrocytes**; "appropriately low" 6-MMP is **<5,700 pmol/0.2 ml**
+- ⚠ **This supersedes the AASLD 6-TGN target of 100–300 pmol/8×10⁸ RBCs** — same analyte, different band
+- Insufficient response occurs in **22–68% on first-line AZA, 3–28% on first-line MMF**
+- **Try MMF before third-line therapy** after AZA optimisation fails (*LoE 2, weak*) — it rescues **32–68%**. Conversely, insufficient response to first-line MMF → **switch to a thiopurine** before escalating
+- Repeated relapses on adequate, adhered-to maintenance also count as insufficient response
 
-**MMF is contraindicated in pregnancy** (first-trimester pregnancy loss, birth defects). Document a negative pregnancy test **within 1 week** of starting MMF and use two forms of contraception from **4 weeks before to 6 weeks after** MMF use; small amounts are detectable in breast milk. See [[liver-disease-in-pregnancy]]. [[aasld-2020-autoimmune-hepatitis]]
+**Third-line rescue — expert centres only** (*LoE 4, weak*), after screening for latent infection and vaccinating; evaluate every patient for opportunistic infection risk and prophylaxis (*LoE 3, strong*). [[easl-2025-autoimmune-hepatitis]]
+
+| Drug | Dose |
+|---|---|
+| [[tacrolimus\|Tacrolimus]] | 0.1 mg/kg/12 h (or extended-release equivalent); trough **6 ng/ml** |
+| Rituximab | 1,000 mg IV at weeks 0 and 2; repeat every 6 months if needed |
+| Infliximab ([[anti-tnf-agents\|anti-TNF]]) | 5 mg/kg at weeks 0, 2, 6, 10 → 5 mg/kg every 4–8 weeks |
+| Belimumab | 10 mg/kg on days 0, 14, 28, then every 1–2 months |
+
+⚠ **[[aasld-2020-autoimmune-hepatitis|AASLD 2020]] treats tacrolimus as a co-equal second-line agent (trough 1–10 ng/mL) alongside MMF.** EASL 2025 moves it to third line behind MMF and AZA optimisation, with a tighter trough. Both agree the second-line agents work far better for *intolerance* than for *treatment failure*.
+
+**MMF is contraindicated in pregnancy** (first-trimester pregnancy loss, birth defects). AASLD 2020 advises a negative pregnancy test **within 1 week** of starting MMF and two forms of contraception from **4 weeks before to 6 weeks after** use; **EASL 2025 requires withdrawal at least 3 months before conception** and contraception to **≥12 weeks** after stopping — follow the longer EASL interval. See [[liver-disease-in-pregnancy]].
+
+### Relapse and Flares
+
+[[easl-2025-autoimmune-hepatitis]] — **relapse** = recurrence after CBR and treatment withdrawal; **flare** = loss of/failure to hold CBR during steroid tapering or maintenance.
+
+- **Trigger threshold: ALT rises to >2–3× ULN and/or IgG above ULN** — the IgG rise usually comes first (precise definitions are lacking)
+- Before calling it: recheck for spontaneous normalisation, **assess adherence** (*LoE 1, strong*), and exclude [[alcohol-associated-liver-disease|ALD]], [[drug-induced-liver-injury|DILI]], viral hepatitis, [[nafld-masld|MASLD]], hepatic or [[portal-vein-thrombosis|portal vein thrombosis]] and biliary disease
+- **Treat with a short course of corticosteroids plus adjustment of maintenance** (*LoE 2, strong*) — most regain CBR rapidly on the original induction regimen
+- **Re-biopsy can be done** to exclude other causes (*LoE 2, weak*); reasonable in [[acute-on-chronic-liver-failure|ACLF]] or genuine diagnostic doubt, not routinely
+- Repeated flares/relapses drive progressive fibrosis, LT and liver-related death
 
 ### Acute Severe AIH and ALF Management
 
 **Acute severe AIH (INR >1.5 and <2.0, no hepatic encephalopathy [HE]):** [[aasld-2020-autoimmune-hepatitis]]
 
-- Glucocorticoid **monotherapy**: prednisone or prednisolone **0.5–1 mg/kg daily** in adults, up to 2 mg/kg daily in children — effective in 20–100% of series, with no increase in sepsis
+- Glucocorticoid **monotherapy**: predniso(lo)ne **0.5–1 mg/kg/day**, or **IV methylprednisolone at an equivalent dose**, in adults; up to 2 mg/kg daily in children. **EASL prefers 0.5 mg/kg/day pragmatically** — most published patients got 1 mg/kg/day IV, but the lower dose balances response against infection risk (*LoE 3, strong*) [[easl-2025-autoimmune-hepatitis]]
+- ⚠ **EASL calls the stop at days 3–7, not 1–2 weeks: failure to improve after 3–7 days of steroids should trigger referral to an LT centre** (*LoE 3, strong*). Transplant-free survival with steroids in acute severe AIH without ALF is 52–95.2% [[easl-2025-autoimmune-hepatitis]]
+- **With ALF or ACLF → discuss directly with an LT centre** (*LoE 3, strong*); corticosteroid response there is only **8–41%**. If steroids are given anyway, **strict infection surveillance and close efficacy monitoring** (*LoE 2, strong*) [[easl-2025-autoimmune-hepatitis]]
 - Do NOT use budesonide (or AZA) here
 - **Abandon ineffective treatment quickly — within 1–2 weeks.** Failure of *any* inflammation/function test to improve (especially bilirubin), or any clinical deterioration or new HE, mandates immediate LT consideration
 - Balance the benefit against the two harms the guidance names: infection and **delay of LT**
@@ -260,9 +373,27 @@ For treatment failure, incomplete response, or drug intolerance: [[aasld-2020-au
 - Glucocorticoids have **not** improved overall survival in AIH-ALF, and survival was **worse** in treated patients with **MELD >40**; steroids may be deleterious in severe decompensation
 - See [[acute-liver-failure]] for full management protocol
 
+### Decompensated Cirrhosis
+
+[[easl-2025-autoimmune-hepatitis]] — **evaluate for LT** (*LoE 2, strong*), and **consider corticosteroids if there are signs of activity (elevated aminotransferases and/or mHAI ≥4)** (*LoE 4, strong*). Median predniso(lo)ne in the reported series **20–30 mg/day**.
+
+- **[[hepatic-encephalopathy|Hepatic encephalopathy]] grade 3–4 → straight to LT evaluation** — treatment benefit is limited
+- **No encephalopathy or grade 1–2 → 60% LT-free survival** on treatment; stratify by **MELD-Na: ≤28 does significantly better than >28**
+- **Fall in MELD-Na at 4 weeks** is the strongest survival predictor; even in the favourable group one third died or needed LT, mostly from infection ([[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis]], pneumonia)
+
 ### Treatment Withdrawal
 
-**Criteria for withdrawal attempt:** [[aasld-2020-autoimmune-hepatitis]]
+**EASL 2025 criteria** [[easl-2025-autoimmune-hepatitis]]: most patients need **long-term, often lifelong** immunosuppression (*LoE 2, strong*). Attempt withdrawal only if **low-dose monotherapy has held stable CBR for ≥2 years** (*LoE 2, strong*), with total treatment ≥4 years. Reduce **stepwise** — flares during reduction are frequent (*LoE 3, strong*). **Patient priorities belong in the decision** (*LoE 5, strong*).
+
+- **Favourable predictors:** aminotransferases in the *lower* range of normal (**ALT below half the ULN**), **IgG <12 g/L (<1,200 mg/dl)**, CBR ≥24 months, treatment ≥4 years, no prior relapse, **anti-SLA/LP negative**
+- **Monotherapy first** — patients withdrawn from dual therapy relapsed **twice as often** in the first year
+- **Biopsy before withdrawal: no general recommendation either way.** EASL advises it **at least in cirrhosis** (AST and IgG can be normal while histology shows interface activity); if the patient will stop regardless of the result, **biopsy is not justified** — use serial elastography instead
+- **Real-world taper:** corticosteroids off over **6–8 weeks to 3–4 months**; the immunomodulator is stopped gradually or in one step
+- **After stopping:** aminotransferases + IgG **every 3–4 weeks for 3 months**, then 3-monthly for the first year, **every 3–6 months for the next 3 years**, then annually, indefinitely — relapse can occur decades later (*LoE 3, strong*)
+- **After a relapse following first withdrawal, do not try again** (*LoE 2, strong*)
+- Transient rises (often <2× ULN) after withdrawal are common — repeat the test and exclude other causes before calling relapse; up to 75% get myalgia/arthralgia for ≤12 months after stopping
+
+**AASLD 2020 framing (older tier-1):** [[aasld-2020-autoimmune-hepatitis]]
 
 - Sustained biochemical remission: normal AST, ALT, AND IgG for **≥2 years** on IS
 - Cirrhosis with chronically elevated IgG does **not** exclude withdrawal if the other tests are normal over ≥2 years of stability

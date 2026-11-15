@@ -3,8 +3,8 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-11-12
-sources: [asge-2025-ibd-endoscopy-consensus, asge-acg-2024-colonoscopy-quality-indicators, aga-2018-functional-gi-symptoms-ibd, acg-2025-uc, aga-2019-mild-moderate-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt, aga-2021-ibd-colorectal-dysplasia, ho-2004-severe-uc-risk-score]
+updated: 2026-11-15
+sources: [asge-2025-ibd-endoscopy-consensus, asge-acg-2024-colonoscopy-quality-indicators, aga-2018-functional-gi-symptoms-ibd, acg-2025-uc, aga-2019-mild-moderate-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt, aga-2021-ibd-colorectal-dysplasia, ho-2004-severe-uc-risk-score, global-consensus-2025-pregnancy-ibd]
 ---
 
 Ulcerative colitis (UC): idiopathic chronic [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] of the large intestine — continuous mucosal inflammation from the rectum extending proximally; relapsing–remitting. Goal: sustained steroid-free endoscopic remission.
@@ -426,7 +426,7 @@ flowchart TD
 - **Diet** is adjunctive: Mediterranean diet; less red/processed meat may reduce UC flares; exclusive enteral nutrition/Crohn's disease exclusion diet are CD therapies; screen for malnutrition, check vitamin D and [[iron-deficiency-anemia|iron]] → [[nutrition-in-ibd]] ([[aga-2024-diet-nutrition-ibd]]).
 - **Malignancy:** colitis CRC risk ~1%/2%/5% at 10/20/>20 y; drug choice after a cancer → [[ibd-in-malignancy]] ([[aga-2024-ibd-malignancy]]).
 - **Older adults (≥60):** [[ibd-in-older-adults]].
-- **Pregnancy** ([[aga-2024-pregnancy-gi-liver]]): remission before conception and throughout (UC flares in pregnancy more than CD); continue biologics; **stop methotrexate, thalidomide, ozanimod ≥6 months before conception**; maternal-fetal medicine consult; unsedated flexible sigmoidoscopy preferred. Drug-by-drug safety, monitoring, delivery: [[crohns-disease#Pregnancy]].
+- **Pregnancy** — full topic on **[[ibd-in-pregnancy]]**: remission before conception and throughout (UC flares in pregnancy more than CD); continue biologics, thiopurines and 5-ASA; **stop methotrexate 1–3 months and ozanimod ≥3 months before conception** ([[global-consensus-2025-pregnancy-ibd]]; [[aga-2024-pregnancy-gi-liver]] gave ≥6 months for both); maternal-fetal medicine consult; unsedated flexible sigmoidoscopy preferred. **Prior ileal pouch anal anastomosis (IPAA) → consider Cesarean delivery**, and is associated with reduced fertility.
 
 > [!pearl] Healed mucosa doesn't guarantee normal bowel habit
 > At MES 0, normal stool frequency in only 29% at 8 wk and 41% at 52 wk; up to 27% with endoscopic + histologic healing still have frequent stools. Before escalating, check for **proximal constipation above distal colitis** (abdominal x-ray) and work through [[inflammatory-bowel-disease#Functional GI Symptoms in Quiescent IBD]] ([[aga-2018-functional-gi-symptoms-ibd]]).
@@ -435,7 +435,7 @@ flowchart TD
 
 ## See Also
 
-[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[immune-checkpoint-inhibitor-colitis]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[toxic-megacolon]], [[polypectomy]], [[ibd-pain-management]], [[iron-deficiency-anemia]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]], [[ibd-in-older-adults]], [[irritable-bowel-syndrome]], [[cdiff-antibiotics]], [[treat-to-target-ibd]], [[corticosteroids-ibd]], [[anti-tnf-agents]], [[vedolizumab]], [[fmt]]
+[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[immune-checkpoint-inhibitor-colitis]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[toxic-megacolon]], [[polypectomy]], [[ibd-pain-management]], [[iron-deficiency-anemia]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]], [[ibd-in-older-adults]], [[ibd-in-pregnancy]], [[irritable-bowel-syndrome]], [[cdiff-antibiotics]], [[treat-to-target-ibd]], [[corticosteroids-ibd]], [[anti-tnf-agents]], [[vedolizumab]], [[fmt]]
 
 ---
 
@@ -462,3 +462,4 @@ flowchart TD
 19. [[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators for Colonoscopy]]
 20. [[ho-2004-severe-uc-risk-score|Predicting the Outcome of Severe Ulcerative Colitis: Development of a Novel Risk Score (Aliment Pharmacol Ther 2004)]]
 21. [[asge-2025-ibd-endoscopy-consensus|Endoscopic diagnosis and management of adult inflammatory bowel disease: a consensus document from the American Society for Gastrointestinal Endoscopy IBD Endoscopy Consensus Panel (2025)]]
+22. [[global-consensus-2025-pregnancy-ibd|Global Consensus Statement on the Management of Pregnancy in Inflammatory Bowel Disease (2025)]]
