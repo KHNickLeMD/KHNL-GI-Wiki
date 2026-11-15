@@ -3,8 +3,8 @@ title: "Mesalamine and the 5-Aminosalicylates (5-ASA)"
 category: med
 tags: [5-asa, mesalamine, sulfasalazine, olsalazine, aminosalicylate, ibd, ulcerative-colitis, crohns, proctitis, topical-therapy, oral, rectal]
 created: 2026-09-08
-updated: 2026-10-22
-sources: [acg-2025-uc, acg-2025-crohns, acg-2019-uc, acg-2018-crohns, aga-2024-uc-pharm, aga-2021-crohns-pharm, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia, aga-2024-pouchitis, aga-2022-refractory-celiac, acg-2026-diverticulitis, aga-2019-mild-moderate-uc]
+updated: 2026-11-15
+sources: [acg-2025-uc, acg-2025-crohns, acg-2019-uc, acg-2018-crohns, aga-2024-uc-pharm, aga-2021-crohns-pharm, global-consensus-2025-pregnancy-ibd, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia, aga-2024-pouchitis, aga-2022-refractory-celiac, acg-2026-diverticulitis, aga-2019-mild-moderate-uc]
 ---
 
 **Topical anti-inflammatory agents that act within the lumen of the intestine** ([[acg-2025-crohns]]). 5-Aminosalicylates (5-ASAs) are the first-line drug class for **mildly to moderately active [[ulcerative-colitis|ulcerative colitis (UC)]]** — and, in [[crohns-disease|Crohn's disease (CD)]], a class the guidelines **recommend against**. That asymmetry is the single most misremembered fact about this drug class, and it is the reason this page exists.
@@ -199,7 +199,7 @@ A genuine trade-off, and the guideline states both halves:
 |---|---|---|
 | **Efficacy (UC maintenance)** | Oral 5-ASA vs sulfasalazine — **higher rate of failure** to maintain clinical or endoscopic remission with 5-ASA (**RR = 1.14**, 95% CI 1.03–1.27) and a higher rate of failure to maintain remission in general (**RR = 1.08**, 95% CI 0.92–1.26). *Sulfasalazine wins on efficacy* | [[acg-2025-uc]] (Cochrane meta-analysis) |
 | **Tolerability** | *"sulfasalazine is often limited by **intolerance (headache, nausea)**, **allergy to the sulfa moiety**, and **need for multiple daily doses**"* | [[acg-2025-uc]] |
-| **Pregnancy** | Sulfasalazine requires **folic acid 1 mg twice daily** from **3 months preconception through pregnancy** (neural tube defects). Mesalamine carries no such requirement | [[aga-2024-pregnancy-gi-liver]] |
+| **Pregnancy and lactation** | Both are continued in pregnancy, but sulfasalazine adds a **preconception folic acid requirement** and mesalamine is **preferred during lactation** — doses and reasons in [[#Adverse Effects, Pregnancy, and Monitoring]] | [[global-consensus-2025-pregnancy-ibd]] |
 | **CD** | Sulfasalazine is the **only** 5-ASA with any CD role (symptomatic mild colonic CD); mesalamine has none | [[acg-2025-crohns]] |
 
 ---
@@ -227,10 +227,11 @@ A genuine trade-off, and the guideline states both halves:
 | **Sulfasalazine intolerance** | Headache, nausea; **allergy to the sulfa moiety** | [[acg-2025-uc]] |
 | **Discontinuation for adverse events** | Higher than placebo in the diverticulitis trials (**OR 1.59**, 1.12–2.27) | [[acg-2026-diverticulitis]] |
 
-**Pregnancy** ([[aga-2024-pregnancy-gi-liver]]):
-- **Mesalamine — safe.**
-- **Sulfasalazine — with folic acid 1 mg twice daily**, from **3 months preconception through pregnancy** (neural tube defects).
-- Most IBD medications, including these, are compatible with **breastfeeding**.
+**Pregnancy and lactation** — *framework (preconception optimization, trimester plan, delivery, the full drug grid): [[ibd-in-pregnancy]].*
+
+- **Continue maintenance 5-ASA** in women who are pregnant or attempting conception (**Strong**, low — [[global-consensus-2025-pregnancy-ibd]]); **continue maintenance sulfasalazine** (Conditional, very low). No excess congenital malformations.
+- **Sulfasalazine requires folic acid 2 mg/day for the 3 months before conception** (neural tube defects); **mesalamine carries no such requirement** ([[global-consensus-2025-pregnancy-ibd]] Table 5). [[aga-2024-pregnancy-gi-liver]] gives the same 2 mg/day as **1 mg twice daily, continued from 3 months preconception through pregnancy** — follow the newer consensus for the preconception dose.
+- **Breastfeeding is compatible** with both drugs — **relative infant dose (RID) <1%** for each; rare infant diarrhea. But **the sulfapyridine metabolite of sulfasalazine reaches higher milk levels, so non-sulfonamide mesalamine derivatives are preferred over sulfasalazine during lactation** ([[global-consensus-2025-pregnancy-ibd]]).
 
 **Monitoring:** the response check is the only interval the guidelines give — **reassess response to induction within 8 weeks** ([[acg-2025-uc]] KC 19). See *Gaps* for what is not stated.
 
@@ -269,7 +270,7 @@ Readers carry the old numbers in their heads, so the deltas matter:
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[microscopic-colitis]], [[pouchitis]], [[anti-tnf-agents]], [[jak-inhibitors]], [[vedolizumab]], [[il-23-and-il-12-23-inhibitors]], [[thiopurines]], [[tacrolimus]], [[probiotics]], [[diverticulitis]], [[segmental-colitis-associated-with-diverticulosis]], [[celiac-disease]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy-surveillance]], [[ibd-endoscopic-scoring]], [[ibd-preventive-care]], [[uc-vs-crohns-comparison]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[microscopic-colitis]], [[pouchitis]], [[anti-tnf-agents]], [[jak-inhibitors]], [[vedolizumab]], [[il-23-and-il-12-23-inhibitors]], [[thiopurines]], [[tacrolimus]], [[probiotics]], [[diverticulitis]], [[segmental-colitis-associated-with-diverticulosis]], [[celiac-disease]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy-surveillance]], [[ibd-endoscopic-scoring]], [[ibd-preventive-care]], [[ibd-in-pregnancy]], [[uc-vs-crohns-comparison]]
 
 ---
 
@@ -287,3 +288,4 @@ Readers carry the old numbers in their heads, so the deltas matter:
 10. [[aga-2022-refractory-celiac|AGA Clinical Practice Update on Management of Refractory Celiac Disease: Expert Review]]
 11. [[acg-2026-diverticulitis|ACG Clinical Guideline: Colonic Diverticulitis (2026)]]
 12. [[aga-2019-mild-moderate-uc|AGA Clinical Practice Guidelines on the Management of Mild-to-Moderate Ulcerative Colitis]]
+13. [[global-consensus-2025-pregnancy-ibd|Global Consensus Statement on the Management of Pregnancy in Inflammatory Bowel Disease (2025)]]

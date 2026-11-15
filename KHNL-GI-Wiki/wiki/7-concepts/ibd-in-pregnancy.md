@@ -78,7 +78,7 @@ sources: [global-consensus-2025-pregnancy-ibd, aga-2024-pregnancy-gi-liver]
 | [[intestinal-ultrasound]] | Low risk; accurate in trimesters 1–2, **technically challenging in trimester 3** (sigmoid and terminal ileum visualization falls). Sensitivity 74–84%, specificity 83–98% |
 | Magnetic resonance imaging (MRI) | Low risk in any trimester. **Avoid gadolinium — potential teratogen — especially first trimester** |
 | CT | Relatively safe; a single scan (**~50 mGy**) is below the level of concern, but use only when nothing else is available |
-| Endoscopy | **Low risk; perform only if it will change management.** Most IBD procedures are **unsedated flexible sigmoidoscopy** — no prep, no sedation. Full [[colonoscopy]] or an advanced procedure → **fetal monitoring**. **Avoid [[capsule-endoscopy|capsule endoscopy]]** (obstruction risk in CD) |
+| Endoscopy | **Low risk; perform only if it will change management.** Most IBD procedures are **unsedated flexible sigmoidoscopy** — no prep, no sedation. Full [[colonoscopy]] or an advanced procedure → **fetal monitoring**. **Avoid [[capsule-endoscopy\|capsule endoscopy]]** (obstruction risk in CD) |
 
 - Defer elective endoscopy to postpartum; do non-emergent procedures in the second trimester where possible ([[aga-2024-pregnancy-gi-liver]]).
 

@@ -3,8 +3,8 @@ title: "Chronic Hepatitis B"
 category: disease-script
 tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection, hbv-reactivation, antiviral-prophylaxis]
 created: 2026-05-15
-updated: 2026-11-13
-sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver, aga-2025-hepatitis-delta, aasld-ast-2025-liver-transplant-graft-complications, aasld-2012-liver-transplant-long-term, aasld-easl-2026-aclf-global-consensus]
+updated: 2026-11-15
+sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver, aga-2025-hepatitis-delta, aasld-ast-2025-liver-transplant-graft-complications, aasld-2012-liver-transplant-long-term, aasld-easl-2026-aclf-global-consensus, easl-2025-autoimmune-hepatitis]
 ---
 
 ## Assessment
@@ -210,6 +210,16 @@ Switch options: ETV → TDF or TAF; TDF → TAF or ETV; TAF → ETV.
 
 *Prednisone-equivalent dose bands: low <10 mg, moderate 10–20 mg, high >20 mg daily. The corticosteroid categorization is carried over unchanged from the 2014 AGA guideline. ([[aga-2025-hbv-reactivation]])*
 
+**Patients immunosuppressed for autoimmune hepatitis** — the same three strata, written as actions ([[easl-2025-autoimmune-hepatitis]], all strong recommendations):
+
+| Serology, risk of reactivation | Action |
+|---|---|
+| **HBsAg-positive**, any immunosuppression | Antiviral therapy |
+| **Anti-HBc-positive, HBsAg-negative, high risk** — B cell-depleting agents or infliximab | HBV prophylaxis |
+| **Anti-HBc-positive, HBsAg-negative, low or moderate risk** | HBsAg + HBV DNA **every 3 months**; start antiviral therapy if reactivation occurs |
+
+- Prophylaxis is maintained **at least 18 months after stopping immunosuppression** in this population — longer than the general **≥6 months** (**≥12 months** after B-cell–depleting agents) above, which is what this page applies outside autoimmune hepatitis.
+
 ### HBV-Triggered Acute-on-Chronic Liver Failure
 
 - HBV primary infection or reactivation can precipitate acute-on-chronic liver failure (ACLF): **HBV DNA immediately**; **potent NA (ETV, TDF or TAF) preferably within 24 h** of aetiological confirmation, continued long term; don't change therapy on early kinetics alone ([[aasld-easl-2026-aclf-global-consensus]], Statements 31, 33, 35). Grading, ICU care and the per-virus list: [[acute-on-chronic-liver-failure]].
@@ -294,3 +304,4 @@ Goal: HBV DNA <lower limit of quantification. HBV not transmitted by casual cont
 6. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
 7. [[aasld-2012-liver-transplant-long-term|AASLD/AST 2012: Long-Term Management of the Successful Adult Liver Transplant]]
 8. [[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]
+9. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]

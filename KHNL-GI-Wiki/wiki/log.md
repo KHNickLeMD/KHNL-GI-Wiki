@@ -36,6 +36,16 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-15] lint | 06:00 pass — finish partial ingests, daily fetch, backlog ingest
+
+**Mode:** backlog mode **ON** (uningested tier-1/2 files remain in `raw/`), so *Validate the stalest pages*, *Expand stubs* and *Fill coverage gaps* are **paused: ingest backlog**.
+
+**Inbox sync:** `git status` clean at pass start — no untracked files under `raw/`, nothing to commit.
+
+**Resume markers (finished this pass):** four source pages carried `ingest: partial` from the 2026-11-15 pass that hit its cap mid-flight.
+
+---
+
 ## [2026-11-15] lint | Quality review sweep — release pass
 
 Quality review step only (no ingest, no new pages). 8 pages off `review-queue.py --pages 10`, one subagent each; every page re-read against its tier-1 raw PDFs before any edit.

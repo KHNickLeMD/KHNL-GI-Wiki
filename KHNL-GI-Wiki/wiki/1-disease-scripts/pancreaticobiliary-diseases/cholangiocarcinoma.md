@@ -3,8 +3,8 @@ title: "Cholangiocarcinoma"
 category: disease-script
 tags: [cholangiocarcinoma, biliary-stricture, hepatobiliary, ercp, eus, cholangioscopy, liver-transplantation]
 created: 2026-06-01
-updated: 2026-11-02
-sources: [nccn-2026-biliary-tract-cancers, asge-2023-indeterminate-biliary-strictures, asge-2021-malignant-hilar-obstruction]
+updated: 2026-11-15
+sources: [nccn-2026-biliary-tract-cancers, asge-2023-indeterminate-biliary-strictures, asge-2021-malignant-hilar-obstruction, esge-2026-biliary-strictures]
 ---
 
 Cholangiocarcinoma (CCA) is an adenocarcinoma arising from the biliary epithelium, classified anatomically as **intrahepatic (iCCA)**, **perihilar (Klatskin)**, or **distal extrahepatic**. US incidence is ~8000 cases/year and rising; overall 5-year survival ~10%, but earlier-stage diagnosis carries a meaningfully better prognosis ([[asge-2023-indeterminate-biliary-strictures]]) — so prompt tissue diagnosis when a patient presents with a [[biliary-stricture|biliary stricture]] matters.
@@ -190,7 +190,7 @@ flowchart TD
 - The tumor must be resectable **together with the involved biliary tree and the involved hemi-liver**, with a reasonable chance of a **margin-negative (R0)** resection, **and** the contralateral liver must retain **intact arterial inflow, portal inflow, and biliary drainage**.
 - **Contraindications found at exploration:** distant metastatic disease to liver, peritoneum, or **lymph nodes beyond the porta hepatis**. Further exploration must then confirm local resectability.
 - Because hilar tumors abut/invade the central liver, resection is a **major hepatectomy on the involved side plus caudate resection** to clear the confluence.
-- **Future liver remnant (FLR)** must be assessed (biliary drainage + volumetrics); with a small FLR, consider preoperative **biliary drainage of the FLR** and **contralateral portal vein embolization**.
+- **Future liver remnant (FLR)** must be assessed (biliary drainage + volumetrics); with a small FLR, consider preoperative **biliary drainage of the FLR** and **contralateral portal vein embolization**. ESGE 2026 puts a number on "small": the preoperative-drainage indications in hilar malignancy are **severe jaundice, cholangitis, or a predicted FLR ≤30%** — it is otherwise **against routine preoperative drainage**, with indication and route set by the multidisciplinary team (conditional, low — [[esge-2026-biliary-strictures]]).
 - Portal vein and/or hepatic artery resection–reconstruction may be required. Reconstruction is generally **Roux-en-Y hepaticojejunostomy**; regional lymphadenectomy of the porta hepatis is performed; **frozen section of proximal and distal duct margins** is recommended if further resection is feasible.
 
 **Distal CCA:** rule out distant metastatic disease, confirm local resectability, then **pancreaticoduodenectomy** with typical reconstruction; consider frozen section of the proximal bile-duct margin.
@@ -219,6 +219,15 @@ First-line is a **gemcitabine + cisplatin backbone plus a checkpoint inhibitor**
 
 Drainage decisions (self-expanding metal stents [SEMS] vs plastic stents, sectorial perihilar drainage, endobiliary photodynamic therapy [PDT]/[[radiofrequency-ablation|radiofrequency ablation (RFA)]]) live on [[biliary-stricture]] and [[asge-2021-malignant-hilar-obstruction]]. Consider biliary drainage for jaundice **before** starting systemic therapy.
 
+**Hilar drainage — the governing rules** ([[esge-2026-biliary-strictures]]):
+
+- **Drain in a high-volume center with a hepatobiliary multidisciplinary team (MDT)** (Strong, moderate).
+- **Volume target: drain >50%, and ideally ≥70%, of the viable nonatrophic liver volume** in proven malignant **Bismuth II–IV** strictures, using a multimodal approach — [[eus-guided-biliary-drainage|EUS-guided biliary drainage (EUS-BD)]] and/or percutaneous transhepatic biliary drainage (PTBD) as complements to ERCP (conditional, low). *How the fraction is computed, and the sector anatomy behind it: [[biliary-stricture]].*
+- **Preoperative: ERCP over PTBD** (Strong, moderate) — the randomized trial in potentially resectable perihilar CCA was stopped early for higher mortality with PTBD, which also carries more implantation metastases.
+- **Palliative: ERCP for Bismuth I–II.** For **Bismuth III–IV**, ERCP or ERCP combined with EUS-BD is preferable to **primary** PTBD; complementary PTBD may still be required (conditional, very low).
+- **Stent choice: either a plastic stent or an uncovered SEMS** for proven malignant hilar obstruction (conditional, moderate) — **plastic while the optimal drainage strategy has not been defined**, **uncovered SEMS in expert centers** to reduce revisional procedures, judged on expected survival and the likelihood of achieving complete drainage. An uncovered SEMS is a **definitive** intervention: suboptimal initial drainage cannot easily be optimized afterwards.
+- ⚠ **Do not place an uncovered SEMS for extrahepatic obstruction of unconfirmed etiology** (conditional, low) — **5%–10% of patients resected for presumed pancreatic cancer turn out to have benign disease**.
+
 ### Surveillance After Resection
 
 - **Multiphasic abdomen/pelvis CT or MRI with IV contrast plus chest CT ± contrast every 3–6 months for 2 years, then every 6–12 months for up to 5 years**, or as clinically indicated (schedule based on BILCAP).
@@ -227,7 +236,7 @@ Drainage decisions (self-expanding metal stents [SEMS] vs plastic stents, sector
 
 ## See Also
 
-[[biliary-stricture]], [[acute-cholangitis]], [[primary-sclerosing-cholangitis]], [[gallbladder-cancer]], [[pancreatic-cancer]], [[hepatocellular-carcinoma]], [[ercp]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[chronic-pancreatitis]], [[liver-transplantation]], [[cirrhosis]], [[mri-mrcp]], [[li-rads]], [[radiofrequency-ablation]], [[jaundice]], [[abnormal-liver-chemistries]], [[ampullary-adenoma]], [[autoimmune-pancreatitis]]
+[[biliary-stricture]], [[acute-cholangitis]], [[primary-sclerosing-cholangitis]], [[gallbladder-cancer]], [[pancreatic-cancer]], [[hepatocellular-carcinoma]], [[ercp]], [[endoscopic-ultrasound]], [[eus-guided-biliary-drainage]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[chronic-pancreatitis]], [[liver-transplantation]], [[cirrhosis]], [[mri-mrcp]], [[li-rads]], [[radiofrequency-ablation]], [[jaundice]], [[abnormal-liver-chemistries]], [[ampullary-adenoma]], [[autoimmune-pancreatitis]]
 
 ---
 
@@ -236,3 +245,4 @@ Drainage decisions (self-expanding metal stents [SEMS] vs plastic stents, sector
 1. [[nccn-2026-biliary-tract-cancers|NCCN Clinical Practice Guidelines in Oncology: Biliary Tract Cancers (Version 1.2026)]]
 2. [[asge-2023-indeterminate-biliary-strictures|ASGE Guideline on the Role of Endoscopy in the Diagnosis of Malignancy in Biliary Strictures of Undetermined Etiology (2023)]]
 3. [[asge-2021-malignant-hilar-obstruction|ASGE Guideline: Endoscopic Management of Malignant Hilar Obstruction (2021)]]
+4. [[esge-2026-biliary-strictures|Biliary Stricture Management: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2026)]]

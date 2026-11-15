@@ -3,8 +3,8 @@ title: "Vedolizumab"
 category: med
 tags: [vedolizumab, anti-integrin, alpha4beta7, biologic, ibd, crohns, ulcerative-colitis, pouchitis, immune-checkpoint-inhibitor, gut-selective]
 created: 2026-09-04
-updated: 2026-10-21
-sources: [acg-2025-uc, acg-2025-crohns, acg-2019-uc, acg-2018-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2024-pouchitis, aga-2021-ici-colitis-hepatitis, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care, aga-2024-pregnancy-gi-liver]
+updated: 2026-11-15
+sources: [acg-2025-uc, acg-2025-crohns, acg-2019-uc, acg-2018-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2024-pouchitis, aga-2021-ici-colitis-hepatitis, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care, aga-2024-pregnancy-gi-liver, global-consensus-2025-pregnancy-ibd]
 ---
 
 A **gut-selective anti-integrin** monoclonal antibody for [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]. Because it acts on leukocyte trafficking into the gut rather than on systemic immunity, it carries the class's most favorable safety profile — no malignancy signal, no progressive multifocal leukoencephalopathy (PML) risk, and the agent guidelines reach for when **infection risk** is the dominant concern. Its weakness is positional, not safety-related: **onset is slower than [[anti-tnf-agents|anti–tumor necrosis factor (TNF)]]**, and its efficacy ranking **falls after anti-TNF exposure**, so it earns its best placement early. Also used outside IBD for chronic [[pouchitis]] and for glucocorticoid-refractory [[immune-checkpoint-inhibitor-colitis|immune checkpoint inhibitor (ICI) colitis]].
@@ -27,6 +27,8 @@ A **gut-selective anti-integrin** monoclonal antibody for [[inflammatory-bowel-d
   - [[#Chronic Pouchitis]]
   - [[#ICI Colitis]]
 - [[#Safety and Monitoring]]
+- [[#Pregnancy and Lactation]]
+  - [[#Infant Vaccines After In Utero Exposure]]
 - [[#Guideline Differences and Contradictions]]
 - [[#Not covered by the guidelines]]
 - [[#See Also]]
@@ -214,10 +216,30 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 | **Prior cancer** | **No incident-cancer signal** in prior-cancer IBD patients | [[aga-2024-ibd-malignancy]] |
 | **When a cancer develops** | **No change** to anti-integrin therapy for lymphoma, other hematologic malignancy, melanoma, nonmelanoma skin cancer (NMSC), or solid-organ malignancy (limited data) — the drugs of concern are [[thiopurines]] and [[anti-tnf-agents\|anti-TNF]] | [[aga-2024-ibd-malignancy]] Table 1 |
 | **Vaccines** | Vaccine immunogenicity is blunted by anti-TNF (especially with thiopurines/methotrexate), **less so by non-TNF biologics including vedolizumab**. Vaccinate regardless of timing within the treatment cycle | [[acg-2025-ibd-preventive-care]] |
-| **Pregnancy** | **Data limited but no increased risk reported** | [[aga-2024-pregnancy-gi-liver]] |
+| **Pregnancy and lactation** | Continue throughout pregnancy; breastfeeding compatible — [[#Pregnancy and Lactation]] | [[global-consensus-2025-pregnancy-ibd]] |
 | **[[therapeutic-drug-monitoring-ibd\|Therapeutic drug monitoring]]** | **Insufficient evidence** to recommend measuring serum concentrations | [[acg-2025-uc]] Key Concept (KC) 37 |
 
 *See [[ibd-preventive-care]] for the full IBD vaccination and cancer-screening schedule, and [[ibd-in-malignancy]] for drug-by-drug management once a malignancy develops.*
+
+---
+
+## Pregnancy and Lactation
+
+*Preconception optimization, disease-activity monitoring, trimester plan, mode of delivery and the full drug grid: [[ibd-in-pregnancy]].*
+
+- **Continue maintenance vedolizumab throughout pregnancy** in women who are pregnant or attempting conception (Conditional, low — [[global-consensus-2025-pregnancy-ibd]]). The anti-integrin class is rated appropriate from preconception through lactation. This replaces the earlier position that data were too limited to say more than "no increased risk reported" ([[aga-2024-pregnancy-gi-liver]]).
+- **Transplacental transport is less efficient than for anti-TNF**, and **maternal concentrations fall as pregnancy weight rises** (in contrast to infliximab, whose concentrations rise) ([[global-consensus-2025-pregnancy-ibd]]).
+- **Breastfeeding is compatible** (consensus statement 27). Milk concentration is **<1% of maternal serum**; an older breastfed infant receives a **relative infant dose (RID) <0.005%**, and breastfeeding does not alter neonatal vedolizumab clearance.
+
+### Infant Vaccines After In Utero Exposure
+
+*All from [[global-consensus-2025-pregnancy-ibd]].*
+
+- **Infant clearance: median 11 weeks (range 5–19)** after in utero exposure — the number that governs live-vaccine timing.
+- **Inactive vaccines on schedule**, regardless of in utero exposure (Strong, very low).
+- **Live rotavirus may be provided** after in utero biologic exposure (Conditional, very low) — prospective data in 168 infants exposed to anti-TNF, vedolizumab or ustekinumab showed **no serious adverse events**. Rotavirus is normally given **between 2 and 6 months** of age.
+- **The 6-month hold on live bacille Calmette-Guérin (BCG) vaccine is written for in utero anti-TNF exposure** (Strong, very low), not for vedolizumab; where BCG must be given early after any biologic, measure the infant's serum drug concentration first.
+- **Live vaccines are not withheld from an infant breastfeeding** from a mother on a biologic (consensus statement 35) — the consensus declines to adopt the 2022 European Medicines Agency restriction issued for infliximab.
 
 ---
 
@@ -243,7 +265,7 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[anti-tnf-agents]], [[thiopurines]], [[calcineurin-inhibitors]], [[tacrolimus]], [[pouchitis]], [[immune-checkpoint-inhibitor-colitis]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[uc-vs-crohns-comparison]], [[toxic-megacolon]], [[ibd-endoscopic-scoring]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[therapeutic-drug-monitoring-ibd]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[anti-tnf-agents]], [[thiopurines]], [[calcineurin-inhibitors]], [[tacrolimus]], [[pouchitis]], [[immune-checkpoint-inhibitor-colitis]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[ibd-in-pregnancy]], [[uc-vs-crohns-comparison]], [[toxic-megacolon]], [[ibd-endoscopic-scoring]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[therapeutic-drug-monitoring-ibd]]
 
 ---
 
@@ -261,3 +283,4 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 10. [[aga-2024-ibd-malignancy|AGA Clinical Practice Update on Management of Inflammatory Bowel Disease in Patients With Malignancy: Commentary]]
 11. [[acg-2025-ibd-preventive-care|ACG 2025: Preventive Care in Inflammatory Bowel Disease]]
 12. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
+13. [[global-consensus-2025-pregnancy-ibd|Global Consensus Statement on the Management of Pregnancy in Inflammatory Bowel Disease (2025)]]

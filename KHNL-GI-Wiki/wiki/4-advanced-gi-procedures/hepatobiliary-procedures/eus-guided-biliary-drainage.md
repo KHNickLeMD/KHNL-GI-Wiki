@@ -1,10 +1,10 @@
 ---
 title: "EUS-Guided Biliary Drainage (EUS-BD)"
 category: advanced-procedure
-tags: [eus, eus-bd, eus-cds, eus-hgs, edge, biliary-drainage, biliary-obstruction, ercp, ptbd, lams, interventional-eus, asge]
+tags: [eus, eus-bd, eus-cds, eus-hgs, edge, biliary-drainage, biliary-obstruction, ercp, ptbd, lams, interventional-eus, asge, esge]
 created: 2026-10-06
-updated: 2026-11-06
-sources: [jges-2026-eus-biliary-drainage-consensus, asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality, acg-2023-biliary-strictures, aga-2021-malignant-alimentary-tract-obstruction]
+updated: 2026-11-15
+sources: [jges-2026-eus-biliary-drainage-consensus, asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality, acg-2023-biliary-strictures, aga-2021-malignant-alimentary-tract-obstruction, esge-2026-biliary-strictures]
 ---
 
 ## Contents
@@ -93,6 +93,13 @@ flowchart TD
 - **Malignant disease with preserved papillary access** keeps rendezvous on the table at either obstruction level; **obstructed papillary access** removes it, leaving transmural drainage only.
 - **Proximal (hilar) obstruction → EUS-HGS**, at either access state — EUS-CDS drains the extrahepatic duct below a hilar block and will not decompress it.
 
+**ESGE 2026 keeps the same direction but raises the strength** ([[esge-2026-biliary-strictures]]):
+
+- **Malignant stricture after failed or unfeasible ERCP → EUS-BD over PTBD** — the only **Strong** recommendation (moderate quality) in its whole failed-ERCP/altered-anatomy block. **PTBD only when EUS-BD fails or is not feasible.** ASGE 2024 graded the same direction conditional, low.
+- **Malignant stricture, accessible papilla, no duodenal stricture → EUS-guided transmural drainage over PTBD** after failed ERCP (conditional, low).
+- **Benign stricture, accessible papilla → rendezvous over transmural drainage** (conditional, low) — same direction as ASGE 2024, but the EUS route is **not** demonstrably better than percutaneous rendezvous: technical success **89.2% vs 95.8%** and AEs **9.8% vs 13.4%**, with more pancreatitis and bile leak after EUS-rendezvous. EUS-rendezvous technical success is 77%–86.1% overall (92% in recent benign-stricture series).
+- **Repeat the ERCP before abandoning it** in a non-urgent setting — the waiting period and success rate are on [[ercp]].
+
 ### EUS-CDS vs EUS-HGS
 
 For **distal malignant biliary obstruction after failed ERCP, either route is acceptable** — technical success, clinical success, AEs, and reintervention did not differ. Anatomy and future-surgery plans decide ([[asge-2024-therapeutic-eus-biliary]]):
@@ -108,6 +115,13 @@ For **distal malignant biliary obstruction after failed ERCP, either route is ac
 - **Device availability tilts US practice toward EUS-CDS.** Cautery-enhanced LAMS and smaller-caliber LAMS make EUS-CDS technically easier as a single-step procedure; no such dedicated device is currently available in the United States for EUS-HGS, so US endoscopists may be more comfortable with EUS-CDS.
 - **Future Whipple is the counterargument to EUS-CDS** — it can inflame the porta hepatis and complicate later surgery there. Discuss with the surgical team before proceeding.
 - ASGE 2024 gives no intrahepatic duct-diameter threshold for attempting EUS-HGS; it directs the operator to review cross-sectional imaging for dilated left hepatic ducts before choosing the approach.
+
+**ESGE 2026 adds a hard branch and two duct-diameter numbers** ([[esge-2026-biliary-strictures]]):
+
+- **Duodenal stricture present → EUS-HGS**, as part of its Strong recommendation; **no duodenal stricture → either EUS-HGS or EUS-CDS** (as in ASGE 2024). Above a duodenal stricture an EUS-CDS obstructs from food impaction — **5.04-fold relative risk of recurrent biliary obstruction versus EUS-HGS**, with similar AEs.
+- **Double malignant biliary + gastric outlet obstruction → EUS-BD over surgical bypass or percutaneous drainage** where the expertise exists (conditional, very low), and **EUS-HGS over EUS-CDS** within that scenario for the same reason.
+- **Primary (rather than salvage) EUS-BD in distal malignant obstruction: ERCP stays first choice.** EUS-BD is an alternative only **in expert centers, in selected patients, when the common bile duct (CBD) is ≥12 mm** (conditional, low). Meta-analyses of randomized trials put EUS-BD and ERCP level on technical success, clinical success, safety and patency, but real-world series report **7% technical failure and 30-day mortality up to 12%**; at one high-volume center primary EUS-BD was needed in only **6.6%** of distal malignant cases.
+- **CBD ≤15 mm, or operator experience ≤10 LAMS placements, predicts misdeployment and failure** — the practical floor for a LAMS-based EUS-CDS.
 
 ### Surgically Altered Anatomy
 
@@ -141,6 +155,22 @@ flowchart TD
 - **If E-ERCP fails → EUS-BD or PTBD** (comparable outcomes between the two).
 - **Review the operative report to identify the Roux-limb length** before choosing, if feasible, and review imaging for dilated left hepatic ducts.
 
+**ESGE 2026 — first-line by reconstruction *and* by etiology** ([[esge-2026-biliary-strictures]]; all conditional, low quality unless stated). Benign disease keeps an enteroscopy-first strategy; malignant disease moves to EUS-BD.
+
+- **Billroth II → ERCP with a front- or side-viewing endoscope** can be considered, with **EUS-assisted or EUS-guided techniques when ERCP is unsuccessful**, depending on local expertise (conditional, moderate; not split by etiology).
+
+| Reconstruction | Benign stricture | Malignant stricture |
+|---|---|---|
+| **Pancreaticoduodenectomy** | **E-ERCP first-line**; EUS-BD in selected cases (multiple biliary interventions expected, or a difficult index E-ERCP); PTBD, including percutaneous cholangioscopy, for right-sided hepatolithiasis or after other techniques fail | **E-ERCP or EUS-BD** (antegrade, EUS-HGS, or EUS-guided hepaticojejunostomy [EUS-HJS]) **first-line**, by anatomy and expertise; **PTBD second-line** |
+| **RYGB** | **EDGE first-line unless there is specific E-ERCP expertise** | **EUS-BD (antegrade stenting, EUS-HGS or EUS-HJS) is often preferred**; EDGE, E-ERCP and PTBD may also be considered by anatomy and expertise |
+| **Partial/total gastrectomy with a Roux-en-Y jejunojejunal anastomosis** | **E-ERCP first-line**; EUS-BD in selected cases (multiple interventions expected); PTBD, including percutaneous cholangioscopy, for CBD or intrahepatic stones or when other techniques fail | **EUS-BD (antegrade or EUS-HGS/EUS-HJS) or PTBD first-line, in expert centers** |
+| **Roux-en-Y hepaticojejunostomy** | E-ERCP or EUS-BD (antegrade drainage or EUS-HGS); EUS-directed transenteric ERCP in selected cases, particularly for postsurgical complications of the hepaticojejunostomy | **EUS-BD with antegrade drainage or EUS-HGS first-line** |
+
+- **Endoscopic over percutaneous drainage after Roux-en-Y hepaticojejunostomy** — better safety profile; **PTBD is second-line** there for both benign and malignant indications.
+- **EUS-directed transenteric ERCP requires further evaluation** before it can be a standard route.
+- ⚠ **Where the two guidelines part: etiology.** ASGE 2024 makes E-ERCP the initial approach for *all* non–gastric-bypass altered anatomy and prefers EDGE across the board after RYGB. ESGE 2026 keeps E-ERCP (or EDGE) first for **benign** strictures but moves **malignant** strictures to EUS-BD first-line with PTBD second. **ESGE 2026 is the newer tier-1 source and governs the page.**
+- **Comparative performance:** E-ERCP procedural success **61.7%–75.8% with single-balloon enteroscopy, up to 93% with double-balloon** (AEs 4%–6.6%) — **short double-balloon scopes (<200 cm) do better than long ones**, because standard ERCP accessories fit. EUS-BD in altered anatomy: technical success **97.8%**, clinical success **94.9%**, AEs **12.8%**. EDGE: ERCP success **94%–98%**, AEs **14%–18%**; a **20-mm LAMS dislodges less than a 15-mm one**, and routine 20-mm use with anchoring has made single-session EDGE feasible — ESGE adds that **the LAMS must still be removed later to avoid weight regain**.
+
 ### When PTBD or Surgery Is Preferred
 
 PTBD is preferred over EUS-BD when ([[asge-2024-therapeutic-eus-biliary]]):
@@ -152,7 +182,10 @@ PTBD is preferred over EUS-BD when ([[asge-2024-therapeutic-eus-biliary]]):
 
 ASGE 2024 does not compare EUS-BD with **surgical biliary bypass** and makes no recommendation about it; it advises discussing drainage options with the surgical team before attempting EUS-BD in anyone who may require surgical intervention later.
 
-For perihilar strictures specifically, ACG 2023 found **insufficient evidence to recommend ERCP over PTBD** for drainage of a suspected malignant perihilar stricture — individualize ([[acg-2023-biliary-strictures]]).
+> [!pitfall] Suspected malignancy is no longer a reason to pick PTBD
+> ASGE 2024 lists suspected malignancy among the situations where PTBD is preferred over EUS-BD. ESGE 2026 is the opposite — malignant stricture after failed or unfeasible ERCP is precisely where it makes EUS-BD a **Strong** recommendation, reserving PTBD for EUS-BD failure or infeasibility. As the newer tier-1 source, **ESGE 2026 governs the page** ([[esge-2026-biliary-strictures]]).
+
+For perihilar strictures, ACG 2023 found **insufficient evidence to recommend ERCP over PTBD** for drainage of a suspected malignant perihilar stricture — individualize ([[acg-2023-biliary-strictures]]). **ESGE 2026 supersedes that:** ERCP over PTBD for **preoperative** hilar drainage (Strong, moderate), and for **palliative Bismuth III–IV** disease, ERCP or ERCP combined with EUS-BD is preferable to **primary** PTBD, with complementary PTBD still required in some cases (conditional, very low). EUS-HGS for hilar malignant obstruction gives technical success **91%–100%**, clinical success **65%–100%** and AEs **8%–35%**; against PTBD it gave better clinical success (**100% vs 75%**) and fewer AEs (**13% vs 58%**). *The liver-volume drainage target and the hilar stent-type rule live on [[biliary-stricture]].*
 
 ## ASGE 2024 Recommendations
 
@@ -224,6 +257,7 @@ Numbering is the document's own. Developed with the Grading of Recommendations A
 ## Devices, Stents, and Quality Benchmarks
 
 - **Cautery-enhanced LAMS** and smaller-caliber LAMS have made EUS-CDS a single-step procedure; the lack of a comparable dedicated device for EUS-HGS in the United States is a practical driver of route choice.
+- **LAMS dysfunction after EUS-BD runs ~10%, with a 12% reintervention rate** in meta-analysis, and is **mitigated by placing a fully covered self-expandable metal stent (FCSEMS) or a coaxial double-pigtail plastic stent through the LAMS** ([[esge-2026-biliary-strictures]]).
 - **LAMS dwell time after EDGE drives fistula persistence** — the dwell threshold and the per-week increment are on [[lumen-apposing-metal-stents]]. ASGE 2024 lists whether LAMS placed for EUS-GBD need removal, when, and whether they should be exchanged for double-pigtail plastic stents as an **unanswered question for future study** — it gives no dwell or exchange interval for EUS-BD stents, and no stent diameter or length specifications for any EUS-BD route.
 - ASGE 2024 also encourages manufacturers to develop dedicated **single-step stent delivery systems** for transluminal drainage and devices to steer guidewires for antegrade and rendezvous procedures.
 
@@ -281,3 +315,4 @@ Fourteen experts from six countries, Delphi method, **≥80% agreement required*
 3. [[acg-2025-eus-quality|ACG/ASGE 2025: Quality Indicators for EUS]]
 4. [[acg-2023-biliary-strictures|ACG 2023: Diagnosis and Management of Biliary Strictures]]
 5. [[aga-2021-malignant-alimentary-tract-obstruction|AGA Clinical Practice Update: Endoscopic Management of Malignant Alimentary Tract Obstruction (2021)]]
+6. [[esge-2026-biliary-strictures|Biliary Stricture Management: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2026)]]

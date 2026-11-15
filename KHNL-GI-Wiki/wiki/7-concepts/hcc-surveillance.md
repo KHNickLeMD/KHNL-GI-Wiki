@@ -3,8 +3,8 @@ title: "HCC Surveillance"
 category: concept
 tags: [hcc, hepatocellular-carcinoma, surveillance, cirrhosis, hepatitis-b, biomarker, afp, galad]
 created: 2026-06-01
-updated: 2026-11-08
-sources: [aga-2026-hcc-surveillance, acg-2026-preventive-care-cirrhosis, aasld-2023-hcc, aasld-idsa-2025-chb-treatment, aga-2020-hcc-screening-nafld, acr-2024-li-rads-us-surveillance-core, papatheodoridis-2016-page-b]
+updated: 2026-11-15
+sources: [easl-2025-autoimmune-hepatitis, aga-2026-hcc-surveillance, acg-2026-preventive-care-cirrhosis, aasld-2023-hcc, aasld-idsa-2025-chb-treatment, aga-2020-hcc-screening-nafld, acr-2024-li-rads-us-surveillance-core, papatheodoridis-2016-page-b]
 ---
 
 Framework for hepatocellular carcinoma (HCC) surveillance — who, how, how often, and emerging tools. **This page is the single home for the surveillance-indication table**; other pages link here rather than reproducing it. For tumor diagnosis/staging/treatment see [[hepatocellular-carcinoma]]; for imaging classification see [[li-rads]]; for the post-abnormal-test recall algorithm see [[hepatocellular-carcinoma]] → *Surveillance Recall Algorithm*.
@@ -68,6 +68,8 @@ Surveillance is targeted to those who **would be candidates for HCC treatment** 
 - **Cleared co-infection** — prior HCV (anti-HCV+, HCV RNA−) or prior HDV (anti-HDV+, HDV RNA−): surveillance is the **same as HBV alone**. HBV/HCV co-infection → treat HCV with [[direct-acting-antivirals|direct-acting antivirals (DAAs)]], then survey per HBV mono-infection criteria (Rec 9).
 - **HBsAg loss at unknown timing** — individualize, weighing cirrhosis and family history.
 - **Children/adolescents with HBV/HDV co-infection** — HCC risk is largely unknown; individualize on age, family history, and fibrosis stage (the "all adults" rule does not extend to them).
+- **AIH-related cirrhosis — survey, although the risk sits below the cost-effectiveness threshold.** The table above groups AIH with the ≥1.0%/y etiologies ([[aasld-2023-hcc]]); [[easl-2025-autoimmune-hepatitis]] puts it lower — cumulative incidence after cirrhosis is diagnosed **2.6% / 4.6% / 5.6% / 6.6% at 5 / 10 / 15 / 20 years**, an annual risk **below the 0.5%/y threshold** proposed for cost-effective surveillance — yet still makes **6-monthly ultrasound ± AFP in AIH-related cirrhosis a strong recommendation**, allowing personalised strategies. Across AIH overall, HCC runs **1.44 cases/1,000 patient-years** (prevalence 1.7%).
+  - Independent HCC risk factors within AIH: **obesity · age ≥50 y · alcohol ≥25 g/day · an AIH/[[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]] variant syndrome at baseline**.
 - **What changed:** the incidence threshold for initiating surveillance in cirrhosis is now modeled at **~1.0%/y**, *lower* than the traditional **1.5%/y** cutoff readers may still carry.
 - **Component variables and risk bands** ([[aga-2026-hcc-surveillance]], Table 3) — **PAGE-B:** age, sex, platelet count (low <10 · intermediate 10–17 · high ≥18). **REAL-B:** age, male sex, alcohol use, cirrhosis, diabetes, platelet count, alpha-fetoprotein (low <4 · intermediate 4–7 · high 8–13). **AASL-HCC:** age, male sex, albumin, cirrhosis (low ≤5 · intermediate 6–19 · high ≥20). **aMAP:** age, gender, platelet count, albumin-bilirubin grade — C-index 0.78, incidence 0.98 / 7.05 / 29.1 per 1000 person-years across the low/moderate/high bands.
 - **PAGE-B point values** ([[acr-2024-li-rads-us-surveillance-core]], footnote d) — add one from each column:
@@ -188,7 +190,7 @@ flowchart TD
 
 ## See Also
 
-[[hepatocellular-carcinoma]], [[li-rads]], [[cirrhosis]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[hepatitis-d]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[noninvasive-liver-disease-assessment]], [[liver-transplantation]], [[direct-acting-antivirals]], [[portal-hypertension]], [[obesity]]
+[[hepatocellular-carcinoma]], [[li-rads]], [[cirrhosis]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[hepatitis-d]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[noninvasive-liver-disease-assessment]], [[liver-transplantation]], [[direct-acting-antivirals]], [[portal-hypertension]], [[obesity]]
 
 ---
 
@@ -200,4 +202,5 @@ flowchart TD
 4. [[aasld-idsa-2025-chb-treatment|AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B]]
 5. [[aga-2020-hcc-screening-nafld|AGA Clinical Practice Update on Screening and Surveillance for Hepatocellular Carcinoma in Patients with Nonalcoholic Fatty Liver Disease: Expert Review (2020)]]
 6. [[acr-2024-li-rads-us-surveillance-core|ACR LI-RADS Ultrasound Surveillance v2024 Core]]
-7. [[papatheodoridis-2016-page-b|PAGE-B Predicts the Risk of Developing Hepatocellular Carcinoma in Caucasians with Chronic Hepatitis B on 5-Year Antiviral Therapy (J Hepatol 2016)]]
+7. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]
+8. [[papatheodoridis-2016-page-b|PAGE-B Predicts the Risk of Developing Hepatocellular Carcinoma in Caucasians with Chronic Hepatitis B on 5-Year Antiviral Therapy (J Hepatol 2016)]]

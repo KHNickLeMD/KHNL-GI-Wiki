@@ -3,8 +3,8 @@ title: "IBD Preventive Care"
 category: concept
 tags: [ibd, crohns-disease, ulcerative-colitis, preventive-care, vaccinations, cancer-screening, osteoporosis, depression, anxiety, immune-modifying-therapy]
 created: 2026-05-15
-updated: 2026-10-04
-sources: [acg-2025-ibd-preventive-care, acg-2017-ibd-preventive-care, aga-2025-noncolorectal-cancer-ibd]
+updated: 2026-11-15
+sources: [acg-2025-ibd-preventive-care, acg-2017-ibd-preventive-care, aga-2025-noncolorectal-cancer-ibd, global-consensus-2025-pregnancy-ibd]
 ---
 
 Patients with [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] ([[crohns-disease|Crohn's disease (CD)]] and [[ulcerative-colitis|ulcerative colitis (UC)]]) require proactive health maintenance beyond gastrointestinal (GI) disease management. More than 70% of IBD patients will at some time be on immune-modifying therapy, significantly elevating the risk of vaccine-preventable infections, certain malignancies, and osteoporosis. Gastroenterologists should not assume primary care manages these issues — verification, documentation, and administration at GI visits is expected. How the ACG recommendations changed from 2017 to 2025: [[acg-2025-ibd-preventive-care#What Changed From 2017]].
@@ -17,6 +17,7 @@ Patients with [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] ([
   - [[#Hepatitis B Seroprotection Algorithm (AGA 2025)]]
   - [[#Pneumococcal Sequencing (AGA 2025)]]
   - [[#Vaccine Timing Note (AGA 2025)]]
+  - [[#Before Pregnancy]]
 - [[#Cancer Screening]]
   - [[#Cervical Cancer]]
   - [[#Melanoma]]
@@ -114,6 +115,15 @@ Vaccine-naive adults with IBD (any age, any immunosuppression status): **one dos
 ### Vaccine Timing Note (AGA 2025)
 
 - Inactivated vaccines are safe and do not exacerbate IBD activity — administer at the earliest opportunity, preferably off corticosteroids or at the lowest tolerable dose.
+
+### Before Pregnancy
+
+*Preconception checklist item from [[global-consensus-2025-pregnancy-ibd]] Table 5; the rest of reproductive care lives on [[ibd-in-pregnancy]].*
+
+- **Confirm vaccinations are up to date before elective conception** — annual influenza, hepatitis B, MMR and varicella — alongside current cervical cancer screening.
+- **MMR and varicella are live attenuated → avoided on high-dose corticosteroid, thiopurine and/or biologic therapy.**
+- **Any live vaccine must be given 28 days before pregnancy.** A live vaccine is therefore planned around both the pregnancy and the therapy hold in [[#Live Vaccines]] above — not squeezed in once conception is being attempted.
+- Infant vaccination after in utero exposure splits by vaccine: **live rotavirus may be given, live bacille Calmette-Guérin (BCG) is held for the first 6 months** after in utero anti-TNF exposure — see [[ibd-in-pregnancy]].
 
 ---
 
@@ -214,7 +224,7 @@ Conventional DEXA risk factors apply: age, female sex, low body mass index (BMI)
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[thiopurines]], [[anti-tnf-agents]], [[vedolizumab]], [[ibd-in-malignancy]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[nutrition-in-ibd]], [[anal-cancer-screening]], [[pouchitis]], [[colonoscopy]], [[chronic-hepatitis-b]], [[rotavirus]], [[colorectal-cancer]], [[colonoscopy-surveillance]], [[primary-sclerosing-cholangitis]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[thiopurines]], [[anti-tnf-agents]], [[vedolizumab]], [[ibd-in-malignancy]], [[ibd-in-pregnancy]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[nutrition-in-ibd]], [[anal-cancer-screening]], [[pouchitis]], [[colonoscopy]], [[chronic-hepatitis-b]], [[rotavirus]], [[colorectal-cancer]], [[colonoscopy-surveillance]], [[primary-sclerosing-cholangitis]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]]
 
 ---
 
@@ -223,3 +233,4 @@ Conventional DEXA risk factors apply: age, female sex, low body mass index (BMI)
 1. [[acg-2025-ibd-preventive-care|ACG Clinical Guideline Update: Preventive Care in Inflammatory Bowel Disease (2025)]]
 2. [[acg-2017-ibd-preventive-care|ACG Clinical Guideline: Preventive Care in Inflammatory Bowel Disease (2017)]] *(historical / superseded)*
 3. [[aga-2025-noncolorectal-cancer-ibd|AGA Clinical Practice Update on Noncolorectal Cancer Screening and Vaccinations in Patients With Inflammatory Bowel Disease: Expert Review]]
+4. [[global-consensus-2025-pregnancy-ibd|Global Consensus Statement on the Management of Pregnancy in Inflammatory Bowel Disease (2025)]]

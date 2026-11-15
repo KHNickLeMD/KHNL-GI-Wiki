@@ -3,8 +3,8 @@ title: "Calcineurin Inhibitors"
 category: med
 tags: [calcineurin-inhibitor, tacrolimus, cyclosporine, immunosuppression, transplant, liver-transplant, nephrotoxicity, basiliximab, induction, cni-minimization]
 created: 2026-05-19
-updated: 2026-10-19
-sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, acg-2025-uc]
+updated: 2026-11-15
+sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, acg-2025-uc, global-consensus-2025-pregnancy-ibd]
 ---
 
 ## Contents
@@ -15,6 +15,7 @@ sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant
   - [[#Non-CNI Agents Used to Reduce or Replace the CNI]]
 - [[#Cyclosporine in Acute Severe Ulcerative Colitis]]
   - [[#Tacrolimus in Steroid-Refractory UC]]
+- [[#In Pregnancy]]
 - [[#Induction — Delaying CNI Start]]
 - [[#CNI Minimization Strategies]]
 - [[#Steroid Minimization vs. CNI Minimization]]
@@ -84,6 +85,14 @@ Not a guideline recommendation — [[acg-2025-uc]] reviews the evidence without 
 - Efficacy appears **similar in children**.
 - **Limited long-term outcome and colectomy-rate data** — the reason it is not recommended.
 
+## In Pregnancy
+
+*Reproductive care in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] — preconception optimization, trimester plan, delivery, the full drug grid: [[ibd-in-pregnancy]].*
+
+- **Cyclosporine and tacrolimus may be initiated or continued in pregnancy with careful monitoring — but only if there are no viable alternate treatment options** (consensus statement, ungraded — [[global-consensus-2025-pregnancy-ibd]]). In IBD that means the CNI is a last-resort salvage agent in the pregnant patient, not an equal alternative.
+- Active disease in pregnancy is otherwise started or optimized on **the same therapies as in a nonpregnant patient**, except that thiopurines, methotrexate, Janus kinase inhibitors and sphingosine-1-phosphate receptor modulators are not *started* in pregnancy ([[global-consensus-2025-pregnancy-ibd]]).
+- The consensus's preconception-through-lactation drug grid does not include the calcineurin inhibitors, and it gives **no lactation guidance** for them.
+
 ## Induction — Delaying CNI Start
 
 Per [[aasld-ast-2025-liver-transplant-graft-complications]]:
@@ -150,7 +159,7 @@ Complete IS withdrawal ([[operational-tolerance|operational tolerance]]) is not 
 
 ## See Also
 
-[[tacrolimus]], [[liver-transplantation]], [[operational-tolerance]], [[direct-acting-antivirals]], [[antibody-mediated-rejection-liver-transplant]], [[post-transplant-lymphoproliferative-disorder]], [[ulcerative-colitis]], [[thiopurines]], [[vedolizumab]], [[anti-tnf-agents]], [[toxic-megacolon]], [[mesalamine-5-asa]]
+[[tacrolimus]], [[liver-transplantation]], [[operational-tolerance]], [[direct-acting-antivirals]], [[antibody-mediated-rejection-liver-transplant]], [[post-transplant-lymphoproliferative-disorder]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[ibd-in-pregnancy]], [[thiopurines]], [[vedolizumab]], [[anti-tnf-agents]], [[toxic-megacolon]], [[mesalamine-5-asa]]
 
 ---
 
@@ -159,3 +168,4 @@ Complete IS withdrawal ([[operational-tolerance|operational tolerance]]) is not 
 1. [[aasld-2012-liver-transplant-long-term|AASLD/AST 2012: Long-Term Management of the Successful Adult Liver Transplant]]
 2. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
 3. [[acg-2025-uc|ACG 2025: Ulcerative Colitis in Adults (Guideline Update)]]
+4. [[global-consensus-2025-pregnancy-ibd|Global Consensus Statement on the Management of Pregnancy in Inflammatory Bowel Disease (2025)]]

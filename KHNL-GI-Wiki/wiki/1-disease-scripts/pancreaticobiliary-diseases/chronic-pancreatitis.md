@@ -3,8 +3,8 @@ title: "Chronic Pancreatitis"
 category: disease-script
 tags: [pancreatitis, chronic, pancreas, hpb, exocrine-insufficiency, pain]
 created: 2026-05-16
-updated: 2026-11-12
-sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancreatitis-endoscopy, apa-2014-chronic-pancreatitis, aga-2022-recurrent-pancreatitis-endoscopy, catalano-2009-rosemont-classification]
+updated: 2026-11-15
+sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancreatitis-endoscopy, apa-2014-chronic-pancreatitis, aga-2022-recurrent-pancreatitis-endoscopy, catalano-2009-rosemont-classification, esge-2026-biliary-strictures]
 ---
 
 ## Contents
@@ -248,8 +248,13 @@ Indicated when etiology is unclear — especially **early onset (<35 yr)**, fami
 |---|---|
 | **MPD stones** (~60% of CP; treat only for symptomatic obstruction) | ERCP ± pancreatoscopy **or** ESWL — chosen by stone **size, location and radiopacity** plus local expertise |
 | **MPD stricture** | **Single** plastic stent, not multiple, upsized at serial ERCPs; **against** routine fully covered self-expanding metal stents (FCSEMS) |
-| **CP-related benign [[biliary-stricture\|biliary stricture]]** (~15% of advanced CP) | ERCP + stent, **FCSEMS over multiple plastic stents**; treat when **symptomatic or unresolved at 4 weeks** → prevents secondary biliary [[cirrhosis\|cirrhosis]]. ⚠ Plastic if **indeterminate**, or if FCSEMS would occlude the cystic duct with gallbladder in situ ([[acute-cholecystitis\|cholecystitis]] risk) |
+| **CP-related benign [[biliary-stricture\|biliary stricture]]** (~15% of advanced CP) | ERCP + stent, **FCSEMS over multiple plastic stents**, **temporary, for 6–12 months**; treat when **symptomatic or unresolved at 4 weeks** → prevents secondary biliary [[cirrhosis\|cirrhosis]]. ⚠ Plastic if **indeterminate**, or if FCSEMS would occlude the cystic duct with gallbladder in situ ([[acute-cholecystitis\|cholecystitis]] risk) |
 | **Pseudocyst** | **Endoscopic over surgical** drainage; percutaneous not as sole therapy (fistula risk) — [[pancreatic-fluid-collection-drainage]] |
+
+**The biliary stricture of CP is long and intrapancreatic, and the named strategy is a *temporary* FCSEMS for 6–12 months** (conditional, low — [[esge-2026-biliary-strictures|ESGE 2026]], which agrees with ASGE 2024 on FCSEMS and adds the duration):
+
+- **Intervene for jaundice, cholangitis, or prolonged cholestasis — alkaline phosphatase elevated for over a month.** Untreated CP biliary stricture led to secondary biliary cirrhosis in **7.3%**; long-term resolution after endotherapy is **60%–70%**.
+- **Three randomized trials put FCSEMS and multiple plastic stents level on resolution** (75.8% vs 77.1%; 92% vs 90%; 92.6% vs 85.4%) with **significantly fewer ERCPs for FCSEMS (2.6 vs 3.9)** and far fewer stents used. FCSEMS migration **7%–25%**; tissue ingrowth or embedding **3%–4%**. Five years after removal, **61.6% remained stent-free** (77.4% of those with initial resolution). **No trial compares a 6-month with a 10–12-month dwell.**
 
 > ⚠ **Contradiction on the record — PD stent number and FCSEMS.** AGA 2022 BPA 6 advised 6–12 mo of plastic stenting with **upsizing or multiple parallel stents**, FCSEMS "emerging" (fewer ERCPs, equivalent pain relief, **adverse events 39% vs 14%**). ASGE 2024 favors a **single** plastic stent and recommends **against** routine FCSEMS — **ASGE 2024 governs the page.**
 
@@ -286,3 +291,4 @@ Indicated when etiology is unclear — especially **early onset (<35 yr)**, fami
 4. [[apa-2014-chronic-pancreatitis|APA 2014: Chronic Pancreatitis — Diagnostic Guidelines]]
 5. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022: Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis]]
 6. [[catalano-2009-rosemont-classification|EUS-Based Criteria for the Diagnosis of Chronic Pancreatitis: The Rosemont Classification (2009)]]
+7. [[esge-2026-biliary-strictures|Biliary Stricture Management: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2026)]]

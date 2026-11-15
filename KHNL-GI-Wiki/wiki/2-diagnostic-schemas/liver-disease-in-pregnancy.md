@@ -3,8 +3,8 @@ title: "Liver Disease in Pregnancy"
 category: diagnostic-schema
 tags: [pregnancy, liver-disease, ihcp, intrahepatic-cholestasis, aflp, acute-fatty-liver, hellp, hyperemesis-gravidarum, preeclampsia, eclampsia, hepatitis-b, hepatitis-c, hpb, liver]
 created: 2026-05-19
-updated: 2026-11-13
-sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver]
+updated: 2026-11-15
+sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver, easl-2025-autoimmune-hepatitis]
 ---
 
 ## Contents
@@ -345,11 +345,18 @@ See also: [[hepatitis-c-in-pregnancy]]
 See also: [[autoimmune-hepatitis]]
 
 - Autoimmune hepatitis (AIH) associated with increased risk of fetal prematurity and loss; worse outcomes with inadequate disease control
-- **Maintain corticosteroids and/or [[thiopurines|azathioprine (AZA)]] during pregnancy** (Rec 31 — strong, very low evidence)
+- **Maintain corticosteroids and/or [[thiopurines|azathioprine (AZA)]] during pregnancy** (Rec 31 — strong, very low evidence); [[easl-2025-autoimmune-hepatitis|EASL 2025]] likewise continues thiopurine maintenance ± corticosteroids throughout pregnancy (strong)
 - AZA: pregnancy category D; however, [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] safety data (>3,000 pregnancies) show no increase in congenital abnormalities
-- Intrapartum flare risk >20%; postpartum flare risk 30–50%
 - AIH may initially present during pregnancy; differential includes preeclampsia and AFLP
 - Corticosteroid monotherapy used for flare management (AZA historically limited in pregnancy, though evidence supports continuation)
+
+*EASL 2025 adds (strong recommendations unless stated):*
+
+- **Mycophenolate mofetil (MMF) is teratogenic — withdraw at least 3 months before conception**; counsel **both female and male** patients. While on MMF: negative pregnancy test and two contraceptive methods, continued **to at least 12 weeks after** the drug is stopped
+- **AIH presenting for the first time in pregnancy** → standard therapeutic regimens, **excluding MMF**
+- **Flares: 13% during pregnancy, 41% postpartum at a median of 11 weeks after delivery** — both require treatment intensification. Earlier estimates were higher (intrapartum >20%, postpartum 30–50%)
+- **Conceive in remission:** complete biochemical response at conception and during pregnancy reduces both flares and prematurity
+- Maternal–fetal risk, meta-analysis of 14 studies and >1,400 patients: gestational diabetes odds ratio (OR) **2.84**, hypertensive complications (preeclampsia, eclampsia, HELLP) **2.22**, premature birth **2.20**, small for gestational age **2.48**, low birth weight **3.04**. **Neonatal mortality, stillbirth and congenital malformations are not increased**, independent of immunosuppression
 
 ### Primary Biliary Cholangitis (PBC)
 
@@ -389,7 +396,7 @@ See also: [[wilson-disease]]
 - Recommend waiting ≥1–2 years post-transplant before pregnancy (lower immunosuppression doses, lower rejection risk, lower opportunistic infection risk)
 - Pregnancy in liver transplant recipients: higher rates of preterm birth, low birth weight (LBW), cesarean section, maternal hypertension, preeclampsia; higher acute rejection risk if pregnancy within 6 months
 - **Continue all immunosuppression except mycophenolic acid** (Rec 36 — strong, moderate evidence)
-  - **Mycophenolic acid (mycophenolate mofetil / MMF)**: CONTRAINDICATED — risk of congenital malformations (external ear/other facial abnormalities, distal limb, heart, esophagus, kidney) and embryo-fetal toxicity
+  - **Mycophenolic acid / MMF**: CONTRAINDICATED — risk of congenital malformations (external ear/other facial abnormalities, distal limb, heart, esophagus, kidney) and embryo-fetal toxicity
   - [[tacrolimus|Tacrolimus]], [[calcineurin-inhibitors|cyclosporine]], AZA, sirolimus, everolimus, corticosteroids: low risk of congenital malformation; risks of prematurity and LBW reported but not significantly higher than general population
   - Everolimus/sirolimus: impaired wound healing — consider if cesarean section is planned
 - Breastfeeding: traditionally discouraged; growing small series report safety with minimal adverse events; pharmacokinetic data show minimal excretion of tacrolimus and cyclosporine in breast milk
@@ -407,3 +414,4 @@ See also: [[wilson-disease]]
 1. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
 2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
 3. [[aasld-2021-reproductive-liver|AASLD Practice Guidance: Reproductive Health and Liver Disease (2021)]]
+4. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]

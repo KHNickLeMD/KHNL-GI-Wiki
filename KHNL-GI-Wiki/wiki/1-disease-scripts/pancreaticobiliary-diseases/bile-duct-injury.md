@@ -3,8 +3,8 @@ title: "Bile Duct Injury After Cholecystectomy"
 category: disease-script
 tags: [bile-duct-injury, cholecystectomy, biliary, strasberg, hepaticojejunostomy, bile-leak, ercp]
 created: 2026-11-11
-updated: 2026-11-11
-sources: [sages-ahpba-2025-bile-duct-injury]
+updated: 2026-11-15
+sources: [sages-ahpba-2025-bile-duct-injury, esge-2026-biliary-strictures]
 ---
 
 Bile duct injury (BDI) after [[acute-cholecystitis|cholecystectomy]] — a severe complication carrying substantial morbidity and mortality. **Major BDI = Strasberg grades B through E** ([[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025]]). Only **15%–30%** are recognized intraoperatively; the rest present afterwards with bile leak, sepsis, jaundice or a stricture.
@@ -19,6 +19,7 @@ Bile duct injury (BDI) after [[acute-cholecystitis|cholecystectomy]] — a sever
 - [[#Therapeutics]]
   - [[#Timing of Definitive Repair]]
   - [[#Operative or Nonoperative]]
+  - [[#Endoscopic Stent Strategy]]
   - [[#Operative Approach]]
   - [[#Bilioenteric Reconstruction]]
   - [[#Follow-up]]
@@ -114,6 +115,23 @@ Bile duct injury (BDI) after [[acute-cholecystitis|cholecystectomy]] — a sever
 > [!pearl] Tell the patient what endoscopic repair actually costs
 > Endoscopic management often needs **several re-interventions over months**. Patients weighted quality of life, time, and number of interventions heavily, and that expectation-setting can decide which strategy they choose ([[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025]], KQ 3).
 
+### Endoscopic Stent Strategy
+
+**A postcholecystectomy stricture gets temporary multiple plastic stents (MPSs)** — *conditional recommendation, very low quality of evidence* ([[esge-2026-biliary-strictures|ESGE 2026]]).
+
+- **Why plastic and not metal:** these strictures **involve the main hepatic confluence in almost half of cases**, and MPSs adapt to a confluence stricture. Postcholecystectomy stricture complicates **<1% of cholecystectomies**.
+- **A fully covered self-expandable metal stent (FCSEMS) can be considered only when** the stricture is **>2 cm distally from the main hepatic confluence**, or the patient is **noncompliant with repeated [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]s**.
+
+| Strategy | Durability | Adverse events |
+|---|---|---|
+| **MPSs** (154 patients) | **9.4%** stricture recurrence at a mean of **11 years** after stent removal | **7.4%** needed an unscheduled exchange |
+| **FCSEMS**, >2 cm from the confluence, 10–12-month indwell (18 patients) | only **61%** free of further treatment at **5 years** | **16.7%** migration, **38.9%** overall |
+
+> [!pearl] Neither stent strategy burns a bridge
+> Endoscopic retreatment was always possible after either strategy failed, and **neither precluded later surgery** — so a reasonable endoscopic attempt does not cost the patient the reconstruction option ([[esge-2026-biliary-strictures|ESGE 2026]]).
+
+*Stent diameters, exchange intervals, total dwell times and the competing ACG default for benign extrahepatic strictures: [[biliary-stricture]].*
+
 ### Operative Approach
 
 - **Either minimally invasive (MIS) or open** (conditional, very low certainty).
@@ -150,3 +168,4 @@ Bile duct injury (BDI) after [[acute-cholecystitis|cholecystectomy]] — a sever
 ## Sources
 
 1. [[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025 Guideline for the Surgical Management of Bile Duct Injury Following Cholecystectomy]]
+2. [[esge-2026-biliary-strictures|Biliary Stricture Management: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2026)]]

@@ -3,8 +3,8 @@ title: "Liver Transplantation — Candidacy and Post-Transplant Management"
 category: disease-script
 tags: [liver-transplant, liver-transplantation, immunosuppression, tacrolimus, calcineurin-inhibitor, ckd, metabolic-syndrome, rejection, tcmr, pcr, amr, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, ead, hbv, hcv, pbc, psc, autoimmune-hepatitis, hcc, masld, ald, de-novo-malignancy, post-transplant, bone-health, vaccination, cmv, cancer-surveillance, glp-1, bariatric-surgery, aasld]
 created: 2026-05-19
-updated: 2026-11-13
-sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-non-graft-complications, asge-2023-post-transplant-biliary-strictures, aasld-easl-2026-aclf-global-consensus]
+updated: 2026-11-15
+sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-non-graft-complications, asge-2023-post-transplant-biliary-strictures, aasld-easl-2026-aclf-global-consensus, esge-2026-biliary-strictures, easl-2025-autoimmune-hepatitis]
 ---
 
 ## Contents
@@ -152,8 +152,22 @@ Doppler US screens; CT or catheter angiography confirms. Arterial lesions → bi
 
 Stent choice, dwell times, MRCP accuracy, and periprocedural antibiotics: [[biliary-stricture]] ([[asge-2023-post-transplant-biliary-strictures]], concordant with the 2025 guideline).
 
-- **Anastomotic** (5–15% after deceased-donor LT, more after LDLT): MRCP first-line; straight to endoscopic retrograde cholangiopancreatography (ERCP) if high pretest probability, cholangitis, or intervention planned. ERCP dilation + stent, **covered metal stent over multiple plastic stents** for extrahepatic strictures → percutaneous transhepatic biliary drainage (PTBD) if endoscopy fails → surgical revision. Roux-en-Y: endoscopic or PTBD per center.
-- **Non-anastomotic / ischemic cholangiopathy** (DCD, prolonged cold ischemia, hepatic artery insufficiency, ABO incompatibility): ERCP + stent if amenable → PTBD → re-transplant if irreversible or progressive.
+- **Anastomotic** (5–15% after deceased-donor LT, more after LDLT): MRCP first-line; straight to endoscopic retrograde cholangiopancreatography (ERCP) if high pretest probability, cholangitis, or intervention planned. ERCP dilation plus **either multiple plastic stents (MPSs) or a temporary fully covered self-expandable metal stent (FCSEMS)** — the FCSEMS only when the stricture is **>2 cm distal to the main hepatic confluence** ([[esge-2026-biliary-strictures]], conditional/low) → percutaneous transhepatic biliary drainage (PTBD) if endoscopy fails → surgical revision. Roux-en-Y: endoscopic or PTBD per center.
+  - **FCSEMS 10 mm** (8 mm if the anatomy demands), left **6 months**; **MPSs** = maximum number that fit, exchanged every **3–4 months for 12 months**.
+  - Resolution and adverse events are equal, with fewer ERCPs and lower cost for FCSEMS — but at 5 years **recurrence is 36% after a transpapillary FCSEMS vs 7% with MPSs** (3–6% beyond 5 years with MPSs); an intraductal antimigration FCSEMS narrows the gap (33.3% vs 28.6%). ⚠ [[asge-2023-post-transplant-biliary-strictures|ASGE 2023]] prefers a covered metal stent over MPSs here and removes it at a fixed 3–6 months; ESGE 2026 is newer, leaves both open, and surfaces the 5-year trade-off.
+- **Non-anastomotic / ischemic cholangiopathy** (DCD, prolonged cold or warm ischemia, hepatic artery insufficiency/thrombosis, ABO incompatibility, PSC as the transplant indication, Roux-en-Y reconstruction, long operative time): **temporary MPSs with balloon dilation if needed** (commonly to **4–6 mm**), exchanged every 3–4 months over 1 year or continued until resolution → PTBD → re-transplant if irreversible or progressive. Resolution 41–60% short-term, falling to **21% at 1–8 years**; cholangitis during the stent program in up to **74%**.
+
+| Cholangiographic pattern | Expectation |
+|---|---|
+| Confluence-dominant | Manageable with MPSs |
+| Minor form | Rarely needs stenting |
+| Diffuse necrosis | Largely stent-dependent; re-transplantation almost always required |
+| Multifocal progressive | Largely stent-dependent; re-transplantation almost always required |
+
+*Ischemic cholangiopathy patterns after liver transplantation and what each implies*
+*Recreated from the non-anastomotic stricture section of the ESGE 2026 guideline*
+*[[esge-2026-biliary-strictures|ESGE 2026: Biliary Stricture Management]]*
+*MPS = multiple plastic stent*
 - DCD recipients with persistent cholestasis (bilirubin **>2 mg/dL**), recurrent cholangitis, or refractory non-anastomotic strictures get increased waitlist priority.
 - Fluoroquinolones given around ERCP inhibit CYP3A4 → ↑ [[tacrolimus]] levels.
 
@@ -173,10 +187,15 @@ Doses, troughs, adverse effects, and interactions: [[tacrolimus]], [[calcineurin
 | Mild TCMR (Banff RAI <4) | Augment IS; cyclosporine → tacrolimus |
 | Moderate/severe TCMR | Methylprednisolone **500–1000 mg IV daily × 1–3 days** + augment IS (cyclosporine → tacrolimus; add antimetabolite or mTOR inhibitor); anti-infective prophylaxis during the pulse; 60–90% respond. Prednisone taper from 40–80 mg/day in 10–20 mg steps (center-variable) |
 | Refractory TCMR | Second steroid course or lymphocyte-depleting therapy; repeat biopsy for suboptimal response |
-| Plasma cell–rich rejection | Steroids + augment IS; add antimetabolite and/or maintenance prednisone **5–10 mg/day** |
+| Plasma cell–rich rejection hepatitis | Predniso(lo)ne **at the doses used for non-transplant AIH** ([[autoimmune-hepatitis]]) + augment IS; add antimetabolite (may be azathioprine) and/or maintenance prednisone **5–10 mg/day** |
 | AMR | Acute and chronic ladders on [[antibody-mediated-rejection-liver-transplant]] |
 | Ductopenic rejection | Augment IS **before duct loss exceeds 50% of portal tracts** — beyond that it is vanishing bile duct syndrome and far less reversible |
 
+**Plasma cell–rich rejection hepatitis** (formerly "de novo AIH") — consider it in any recipient transplanted for a **non-AIH** indication who develops late graft dysfunction with AIH-like histology, with or without immunoglobulin G (IgG) elevation and/or autoantibodies ([[easl-2025-autoimmune-hepatitis]], strong). Usually **>6 months after LT**; 5–10% of children and 1–2% of adults transplanted for other causes — [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025]] reports 3–5% of non-AIH recipients. Risk factors: female graft, older donors, donor/recipient glutathione-S-transferase T1 mismatch.
+
+- **Banff histological criteria — at least one of:**
+  - Portal and/or perivenular **plasma cell-rich (>30%) infiltrates** with interface hepatitis and/or perivenular necroinflammatory activity involving the **majority of portal tracts and/or terminal hepatic veins**
+  - **Lymphocytic cholangitis**
 - Peripheral blood biomarkers alone must **not** diagnose or exclude TCMR — biopsy. CD4 intracellular ATP assays may gauge immune status and infection risk (weak).
 
 ### Recurrent Disease
@@ -185,7 +204,7 @@ Doses, troughs, adverse effects, and interactions: [[tacrolimus]], [[calcineurin
 - **[[hepatitis-c|HCV]]:** treat recurrence with direct-acting antivirals — regimens on [[hepatitis-c#Posttransplant HCV]]; the 2012 interferon recommendations are obsolete.
 - **PBC:** [[ursodeoxycholic-acid|ursodeoxycholic acid (UDCA)]] **10–15 mg/kg/day** for histologically proven recurrence; the 2012 guideline advised against prophylactic UDCA, while newer post-LT data favor continuing it — recurrence rates and that evidence: [[primary-biliary-cholangitis]]. Monitor alkaline phosphatase, antimitochondrial antibody, thyroid function, bone density.
 - **PSC:** diagnose recurrence from non-anastomotic strictures on cholangiography + biopsy after excluding ischemic/anastomotic causes; UDCA not recommended; dominant stricture → dilation ± stent. Rates, risk factors, re-transplant: [[primary-sclerosing-cholangitis]].
-- **AIH:** abrupt steroid withdrawal and inadequate IS drive recurrence → ↑ steroids + [[thiopurines|azathioprine]], long-term low-dose steroids; de novo AIH treated as AIH. Rates and regimens: [[autoimmune-hepatitis]].
+- **AIH:** recurrence **17–42% overall — 20% at 5 years, 31% at 10 years**; risk factors are **age at LT ≤42 years, mycophenolate use in the first year after LT, donor/recipient mismatch, cytomegalovirus status mismatch, and high pre-LT IgG** ([[easl-2025-autoimmune-hepatitis]]). Diagnosis rests mainly on **histology** — post-LT serology is unreliable. Abrupt steroid withdrawal and inadequate IS drive recurrence → ↑ steroids + [[thiopurines|azathioprine]], long-term low-dose steroids with a calcineurin inhibitor (mainly tacrolimus) as recurrence prophylaxis (weak); treat at non-transplant AIH doses. Regimens: [[autoimmune-hepatitis]].
 - **ALD:** abstinence, validated relapse screening, addiction treatment, smoking cessation — plan on [[alcohol-associated-liver-disease]].
 - **MASLD:** **biopsy** to confirm and stage recurrent or de novo disease; no specific therapy beyond weight, blood pressure, and diabetes control ([[#Cardiometabolic Management]], [[nafld-masld]]).
 

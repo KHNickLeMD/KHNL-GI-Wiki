@@ -3,8 +3,8 @@ title: "Liver Stiffness Measurement (Elastography)"
 category: concept
 tags: [liver-stiffness, elastography, transient-elastography, vcte, fibroscan, spleen-stiffness, cACLD, CSPH, noninvasive, portal-hypertension, fibrosis]
 created: 2026-08-01
-updated: 2026-11-08
-sources: [aga-2026-metald, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2024-nilda-portal-htn, aasld-2023-portal-hypertension, aga-2017-elastography-liver-fibrosis]
+updated: 2026-11-15
+sources: [easl-2025-autoimmune-hepatitis, aga-2026-metald, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2024-nilda-portal-htn, aasld-2023-portal-hypertension, aga-2017-elastography-liver-fibrosis]
 ---
 
 Liver stiffness measurement (LSM) is a non-invasive estimate of hepatic fibrosis and portal pressure using elastography — a core [[noninvasive-liver-disease-assessment|noninvasive liver disease assessment (NILDA)]] tool. It is the point-of-care backbone of the [[portal-hypertension|compensated advanced chronic liver disease (cACLD)/clinically significant portal hypertension (CSPH)]] framework, letting clinicians stage [[cirrhosis|cACLD]] and stratify decompensation risk **without [[liver-biopsy|biopsy]] or [[hepatic-venous-pressure-gradient|hepatic venous pressure gradient (HVPG)]]**.
@@ -45,6 +45,9 @@ The full **"rule of 5"** algorithm, the three Baveno VIII CSPH rule-in criteria,
 - **Rule of 5 (10-15-20-25 kPa)** denotes progressively higher relative risk of decompensation and liver-related death, independent of aetiology (1.8).
 - **SSM** now has three separate, non-interchangeable cut-offs — **>55 kPa at 100 Hz** rules CSPH in; **<40 kPa** spares screening endoscopy; **<25 kPa with LSM <15 kPa** rules CSPH out after recompensation. ⚠ **Baveno VII's SSM <21 / >50 kPa pair (viral cACLD only) is superseded** — do not mix the two sets. Table on [[portal-hypertension]].
 - **Avoiding screening endoscopy is conditional on nonselective beta-blocker (NSBB) candidacy.** Baveno VIII 1.19 sends patients who **cannot start an NSBB** to endoscopy **unless LSM <20 kPa *and* platelets ≥150 ×10⁹/L, or SSM <40 kPa**. Full pathway on [[portal-hypertension]].
+
+- ⚠ **Not validated in autoimmune hepatitis.** The rule-out pair (≤15 kPa + platelets ≥150 ×10⁹/L) and the ≥25 kPa rule-in were derived in viral, alcohol- and MASLD-related populations: up to **52%** of patients with [[autoimmune-hepatitis|autoimmune hepatitis (AIH)]] and clear signs of portal hypertension had LSM **below** the cut-offs, and immunosuppressants ([[thiopurines]], mycophenolate mofetil) independently lower the platelet count. AIH-specific screening-endoscopy thresholds: [[portal-hypertension]]. ([[easl-2025-autoimmune-hepatitis]])
+- **AIH-specific anchors** ([[easl-2025-autoimmune-hepatitis]]): fibrosis can be staged accurately only **after 6 months of immunosuppression**; **9 kPa** for severe fibrosis, **12.5–16 kPa** for cirrhosis; transient elastography is the recommended monitoring tool, repeated e.g. **every 12 months**.
 
 ### Etiology-specific VCTE cutoffs — AGA 2017
 
@@ -95,7 +98,7 @@ A parallel, **etiology-specific** ladder aimed at *histologic cirrhosis*, not at
 
 ## See Also
 
-[[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[nafld-masld]], [[metald]], [[liver-biopsy]], [[noninvasive-liver-disease-assessment]], [[variceal-upper-gi-bleeding]], [[alcohol-associated-liver-disease]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[primary-sclerosing-cholangitis]], [[obesity]]
+[[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[cirrhosis]], [[autoimmune-hepatitis]], [[porto-sinusoidal-vascular-disorder]], [[nafld-masld]], [[metald]], [[liver-biopsy]], [[noninvasive-liver-disease-assessment]], [[variceal-upper-gi-bleeding]], [[alcohol-associated-liver-disease]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[primary-sclerosing-cholangitis]], [[obesity]]
 
 ---
 
@@ -107,3 +110,4 @@ A parallel, **etiology-specific** ladder aimed at *histologic cirrhosis*, not at
 4. [[aasld-2023-portal-hypertension|AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis]]
 5. [[aga-2017-elastography-liver-fibrosis|American Gastroenterological Association Institute Guideline on the Role of Elastography in the Evaluation of Liver Fibrosis (2017)]]
 6. [[aga-2026-metald|AGA Clinical Practice Update on the Evaluation and Management of Metabolic Dysfunction– and Alcohol-Associated Liver Disease: Expert Review]]
+7. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]

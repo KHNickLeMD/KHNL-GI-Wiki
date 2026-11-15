@@ -3,8 +3,8 @@ title: "Corticosteroids in IBD (systemic, budesonide CIR, budesonide MMX)"
 category: med
 tags: [ibd, crohns-disease, ulcerative-colitis, corticosteroids, budesonide, prednisone, methylprednisolone, hydrocortisone, induction, steroid-dependence, autoimmune-hepatitis]
 created: 2026-09-20
-updated: 2026-11-13
-sources: [acg-2025-crohns, acg-2025-uc, acg-2018-crohns, acg-2019-uc, acg-2025-ibd-preventive-care, aasld-2020-autoimmune-hepatitis, aga-2026-inpatient-ibd, ecco-2017-crohns-part-1]
+updated: 2026-11-15
+sources: [acg-2025-crohns, acg-2025-uc, acg-2018-crohns, acg-2019-uc, acg-2025-ibd-preventive-care, aasld-2020-autoimmune-hepatitis, aga-2026-inpatient-ibd, ecco-2017-crohns-part-1, global-consensus-2025-pregnancy-ibd]
 ---
 
 ## Contents
@@ -15,6 +15,7 @@ sources: [acg-2025-crohns, acg-2025-uc, acg-2018-crohns, acg-2019-uc, acg-2025-i
 - [[#Induction Only — the not-for-maintenance rule]]
 - [[#Steroid Dependence and Steroid Refractoriness]]
 - [[#Adverse Effects and Monitoring]]
+- [[#Pregnancy and Lactation]]
 - [[#Corticosteroids in Autoimmune Hepatitis]]
 - [[#See Also]]
 - [[#Sources]]
@@ -177,6 +178,18 @@ The "against maintenance" recommendations are among the strongest in both guidel
 
 ---
 
+## Pregnancy and Lactation
+
+*Preconception optimization, disease-activity monitoring, trimester plan, mode of delivery and the full drug grid: [[ibd-in-pregnancy]]. All statements here from [[global-consensus-2025-pregnancy-ibd]].*
+
+- **Use corticosteroids in pregnancy when clinically necessary, with appropriate monitoring** (Conditional, low). Appropriate from preconception through lactation — but **minimize use and employ steroid-sparing therapy**, the same induction-only logic as outside pregnancy.
+- **Why to minimize:** registry data link corticosteroid exposure in pregnancy to gestational diabetes, preterm birth, low birth weight, small size for gestational age, intrauterine growth restriction and neonatal intensive care unit admission; **late (second- or third-trimester) use was associated with serious infant infections at 9 and 12 months**.
+- **Give routine calcium and vitamin D to every pregnant woman on corticosteroids** to prevent steroid-associated osteopenia (the general bone rules are in [[#Adverse Effects and Monitoring]]).
+- **Budesonide MMX 9 mg once daily may be considered** in pregnancy for mild-moderate UC not responding to oral plus topical 5-ASA — only **4 reported pregnancy cases**, so the evidence is anecdotal.
+- **Breastfeeding is compatible.** Worst-case prednisone/prednisolone milk amounts are **<100 mcg/day even at maternal doses up to 120 mg/day**, so **the old advice to wait 4 hours after a dose is unnecessary**; budesonide's systemic relative infant dose is **~0.27%**.
+
+---
+
 ## Corticosteroids in Autoimmune Hepatitis
 
 The same two drugs, a different rule set — and the one place where **budesonide is explicitly contraindicated by liver physiology**. [[aasld-2020-autoimmune-hepatitis]]
@@ -197,7 +210,7 @@ The same two drugs, a different rule set — and the one place where **budesonid
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[microscopic-colitis]], [[autoimmune-hepatitis]], [[mesalamine-5-asa]], [[thiopurines]], [[anti-tnf-agents]], [[vedolizumab]], [[jak-inhibitors]], [[calcineurin-inhibitors]], [[il-23-and-il-12-23-inhibitors]], [[nutrition-in-ibd]], [[toxic-megacolon]], [[pouchitis]], [[cirrhosis]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[intestinal-ultrasound]]
+[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[microscopic-colitis]], [[autoimmune-hepatitis]], [[mesalamine-5-asa]], [[thiopurines]], [[anti-tnf-agents]], [[vedolizumab]], [[jak-inhibitors]], [[calcineurin-inhibitors]], [[il-23-and-il-12-23-inhibitors]], [[ibd-in-pregnancy]], [[nutrition-in-ibd]], [[toxic-megacolon]], [[pouchitis]], [[cirrhosis]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[intestinal-ultrasound]]
 
 ---
 
@@ -211,3 +224,4 @@ The same two drugs, a different rule set — and the one place where **budesonid
 6. [[aasld-2020-autoimmune-hepatitis|AASLD Practice Guidance on Autoimmune Hepatitis (2020)]]
 7. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review]]
 8. [[ecco-2017-crohns-part-1|ECCO 3rd European Evidence-based Consensus on the Diagnosis and Management of Crohn's Disease 2016: Part 1 — Diagnosis and Medical Management]]
+9. [[global-consensus-2025-pregnancy-ibd|Global Consensus Statement on the Management of Pregnancy in Inflammatory Bowel Disease (2025)]]

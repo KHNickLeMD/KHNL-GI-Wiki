@@ -3,8 +3,8 @@ title: "Primary Biliary Cholangitis (PBC)"
 category: disease-script
 tags: [pbc, primary-biliary-cholangitis, cholestatic, ama, alkaline-phosphatase, ursodiol, udca, oca, obeticholic-acid, fibrates, pruritus, overlap, hpb, liver, autoimmune, pregnancy, cirrhosis]
 created: 2026-05-19
-updated: 2026-11-12
-sources: [acg-2026-preventive-care-cirrhosis, aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, baveno-viii-2026-portal-hypertension, gerussi-2026-pbc-aih-delphi]
+updated: 2026-11-15
+sources: [acg-2026-preventive-care-cirrhosis, aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, baveno-viii-2026-portal-hypertension, gerussi-2026-pbc-aih-delphi, easl-2025-autoimmune-hepatitis]
 ---
 
 ## Contents
@@ -77,6 +77,11 @@ Primary biliary cholangitis (PBC; formerly "primary biliary cirrhosis") — chro
 
 Simultaneous [[autoimmune-hepatitis|autoimmune hepatitis (AIH)]] in a patient with AMA-positive PBC. Not applicable to incidental antinuclear antibody (ANA)/anti-smooth muscle antibody (SMA) positivity or mild interface hepatitis — both are common in PBC itself. Reported in 1–14.2% of patients with PBC (higher in Hispanic patients), with worse outcomes than classic PBC (portal hypertension, death, LT).
 
+**Screening order, coming from the AIH side** ([[easl-2025-autoimmune-hepatitis]], both strong):
+
+- Suspect a variant syndrome of AIH with PBC or with sclerosing cholangitis **whenever concomitant cholestatic features are present**.
+- In an adult with AIH and biochemical cholestasis, test **PBC-specific autoantibodies before any other test**; reserve magnetic resonance cholangiography for those in whom **PBC-specific autoantibodies are negative**, at diagnosis or during follow-up.
+
 Now termed a **variant**, not an overlap syndrome, and diagnosed on the overall picture ([[gerussi-2026-pbc-aih-delphi]], international Delphi consensus):
 
 - **"PBC–AIH" is the agreed term.** A *variant* = subtype of one dominant disease presenting atypically; *overlap* = meeting two full sets of criteria, which is real but rare.
@@ -95,6 +100,16 @@ Now termed a **variant**, not an overlap syndrome, and diagnosed on the overall 
 The **Paris criteria table lives on [[autoimmune-hepatitis]]** — [[aasld-2018-pbc]] requires 2 of 3 AIH criteria (ALT >5× ULN · IgG ≥2× ULN and/or SMA-positive · moderate/severe interface hepatitis on biopsy), while the newer [[aasld-2020-autoimmune-hepatitis]], which this page follows, also requires 2 of 3 PBC criteria and treats interface hepatitis as a prerequisite rather than a countable criterion. Score it there.
 
 **Guidance Statement 4:** in suspected PBC/AIH overlap, treatment is targeted at the predominant histological pattern of injury — UDCA with or without immunosuppression; no randomized trial data on the optimal regimen.
+
+**Initial regimen, set by biochemistry and histology** ([[easl-2025-autoimmune-hepatitis]], weak recommendation; management is directed at the predominant component of the syndrome):
+
+| Hepatitis on biopsy | Regimen |
+|---|---|
+| Mild | **UDCA alone**, adding immunosuppression if complete biochemical response is not achieved |
+| Moderate or severe | **Standard AIH immunosuppression + standard-dose UDCA** |
+
+- A liver biopsy confirming moderate and/or severe hepatitis is **mandatory** whichever diagnostic score is used. Severe interface hepatitis is what predicts needing immunosuppression added to UDCA; UDCA alone induced complete biochemical response in most patients with less severe AIH activity.
+- The immunosuppression threshold this page follows is the newer one above — **severe** interface hepatitis (≥3/4) only; EASL 2025 would also start immunosuppression at moderate hepatitis. Drugs, doses and the response definitions: [[autoimmune-hepatitis]].
 
 ---
 
@@ -322,3 +337,4 @@ Risk is increased among first-degree relatives (FDRs), especially female: sister
 6. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
 7. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
 8. [[gerussi-2026-pbc-aih-delphi|Definition, Diagnosis, and Treatment of Primary Biliary Cholangitis–Autoimmune Hepatitis (PBC–AIH) Variant: An International Expert Delphi Consensus (2026)]]
+9. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]

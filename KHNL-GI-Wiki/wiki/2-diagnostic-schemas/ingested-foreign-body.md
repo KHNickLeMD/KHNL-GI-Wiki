@@ -82,7 +82,7 @@ sources: [esge-2016-foreign-bodies, asge-2011-foreign-body-ingestion]
 
 - **Aspirated object** (airway rather than esophagus) — biplane radiographs help exclude.
 - **Perforation** — oropharyngeal or proximal esophageal perforation causes neck swelling, erythema, tenderness, or crepitus; free mediastinal or peritoneal air on radiograph.
-- **Peritonitis** and **small-bowel obstruction** — these require surgery, and endoscopy must not delay surgical consultation.
+- **Peritonitis** and **[[small-bowel-obstruction|small-bowel obstruction]]** — these require surgery, and endoscopy must not delay surgical consultation.
 - Note: the **area of discomfort often does not correlate with the site of impaction**, and symptoms frequently occur well after ingestion — so reported location is not a localizing test.
 - In young children, mentally impaired adults, and psychiatric illness, presentation may be nonspecific: choking, refusal to eat, vomiting, drooling, wheezing, blood-stained saliva, or respiratory distress.
 
@@ -283,7 +283,7 @@ flowchart TD
 
 ## See Also
 
-[[eosinophilic-esophagitis]], [[esophageal-stricture]], [[esophageal-cancer]], [[achalasia]], [[dysphagia]], [[upper-endoscopy]], [[esophageal-dilation]], [[endoscopy-sedation]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]], [[polypectomy]], [[proton-pump-inhibitors]]
+[[eosinophilic-esophagitis]], [[esophageal-stricture]], [[esophageal-cancer]], [[achalasia]], [[dysphagia]], [[upper-endoscopy]], [[esophageal-dilation]], [[endoscopy-sedation]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]], [[polypectomy]], [[proton-pump-inhibitors]], [[small-bowel-obstruction]]
 
 ---
 

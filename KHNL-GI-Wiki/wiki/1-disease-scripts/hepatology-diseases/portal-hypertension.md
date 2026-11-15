@@ -3,8 +3,8 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-11-12
-sources: [asge-2026-esophageal-gastric-varices, baveno-viii-2026-portal-hypertension, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, wang-2026-eus-ppg-delphi-consensus, aga-2021-bleeding-gastric-varices, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
+updated: 2026-11-15
+sources: [easl-2025-autoimmune-hepatitis, asge-2026-esophageal-gastric-varices, baveno-viii-2026-portal-hypertension, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, wang-2026-eus-ppg-delphi-consensus, aga-2021-bleeding-gastric-varices, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
 ---
 
 > **[[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] supersedes [[baveno-vii-2022-portal-hypertension|Baveno VII (2022)]].** This page states the VIII position and names what changed; the full old → new table is on the Baveno VIII source page.
@@ -116,6 +116,7 @@ sources: [asge-2026-esophageal-gastric-varices, baveno-viii-2026-portal-hyperten
 
 - ANTICIPATE/NICER are **model outputs** — use the published calculator.
 - Cut-offs less reliable in [[obesity]]/MASLD, primary sclerosing cholangitis with dominant strictures, transaminases >3× upper limit of normal; not validated for non-VCTE elastography.
+  - **Not validated in [[autoimmune-hepatitis|autoimmune hepatitis (AIH)]]:** up to **52%** of patients with AIH and clear signs of PH had LSM below the Baveno cut-offs, and thiopurines/mycophenolate independently lower platelets ([[easl-2025-autoimmune-hepatitis]]). AIH screening rule: [[#Screening Endoscopy]].
 - **SSM's three cut-offs are not interchangeable:** >55 kPa rules CSPH in (1.16c) · <40 kPa spares screening EGD when NSBB is not possible (1.19) · <25 kPa with LSM <15 kPa rules CSPH out after recompensation (7.19b). Detail: [[liver-stiffness-measurement]].
 - **Monitoring:** repeat NITs **every 12 months**; the **most recent value** guides decisions (1.9–1.10). Fasting, confirmation, meaningful-change thresholds: [[liver-stiffness-measurement]].
 

@@ -3,8 +3,8 @@ title: "IgG4-Related Sclerosing Cholangitis (IgG4-SC)"
 category: disease-script
 tags: [igg4, igg4-related-disease, igg4-sclerosing-cholangitis, biliary, cholestasis, biliary-stricture, psc, cholangiocarcinoma, autoimmune-pancreatitis, corticosteroids, rituximab]
 created: 2026-10-10
-updated: 2026-10-12
-sources: [aasld-2022-psc, acg-2015-psc, aga-2019-autoimmune-pancreatitis, asge-2023-indeterminate-biliary-strictures, acg-2017-liver-chemistries, nccn-2026-biliary-tract-cancers]
+updated: 2026-11-15
+sources: [aasld-2022-psc, acg-2015-psc, aga-2019-autoimmune-pancreatitis, asge-2023-indeterminate-biliary-strictures, acg-2017-liver-chemistries, nccn-2026-biliary-tract-cancers, esge-2026-biliary-strictures]
 ---
 
 The biliary manifestation of immunoglobulin G4 (IgG4)-related disease, and **the one sclerosing cholangitis that responds to corticosteroids** — which is the whole reason it must be separated from [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]], where steroids do nothing, and from [[cholangiocarcinoma|cholangiocarcinoma (CCA)]], where a missed cancer is the cost of guessing wrong. It is the same disease process as type 1 [[autoimmune-pancreatitis|autoimmune pancreatitis (AIP)]] expressed in the bile duct, and pancreatic involvement accompanies it frequently.
@@ -41,7 +41,7 @@ The biliary manifestation of immunoglobulin G4 (IgG4)-related disease, and **the
 | Serology | Serum IgG4 elevation |
 | Frequent accompaniment | Pancreatic involvement |
 
-- No ingested guideline prints a formal criteria set for IgG4-SC itself — assemble the diagnosis from serology, histology, imaging, other-organ involvement, and steroid response, each detailed below.
+- **The diagnostic framework is HISORt** — **h**istology, **i**maging (cholangiography, per [[#Imaging and Cholangiography]]), **s**erology (serum IgG4), **o**rgan involvement, and **r**esponse to steroids ([[esge-2026-biliary-strictures]]). No ingested guideline prints the operative criteria within each domain, so assemble the diagnosis from the five elements as detailed below.
 - The pancreatic side of the same disease **does** have a criteria set: the International Consensus Diagnostic Criteria (ICDC) for AIP, whose five cardinal features and the one printed component criterion live on [[autoimmune-pancreatitis]].
 
 ### Who Gets Tested for It
@@ -147,6 +147,8 @@ IgG4-SC sits on the spectrum of IgG4-related disease. The full list of other org
 ### Biliary Drainage
 
 - **[[ercp|ERCP]] and biliary stenting are *rarely* indicated for the obstructive jaundice** — the ICDC advises treating **mild jaundice with no signs of infection with steroid therapy alone** ([[aga-2019-autoimmune-pancreatitis]]).
+- **Drainage is reserved for two situations: septic [[acute-cholangitis|cholangitis]], or a long-standing fibrotic stricture** ([[esge-2026-biliary-strictures]]). **Immunosuppression is the key treatment** and the stricture is not a stenting problem.
+- **When drainage is needed, balloon dilation is preferred; short-course stenting only if the stricture is refractory to dilation** ([[esge-2026-biliary-strictures]]).
 - **The decision turns on two qualifiers: *mild* jaundice and *no signs of infection*.** The source **defines neither** — no bilirubin threshold is given, and no guidance is offered for non-mild jaundice.
 - The acknowledged case *for* stenting: it reduces [[acute-cholangitis|cholangitis]] risk and allows cytologic brushings to separate benign from malignant stricture.
 - **Surgery is reserved for suspected malignancy.**
@@ -178,3 +180,4 @@ IgG4-SC sits on the spectrum of IgG4-related disease. The full list of other org
 4. [[asge-2023-indeterminate-biliary-strictures|ASGE Guideline on the Role of Endoscopy in the Diagnosis of Malignancy in Biliary Strictures of Undetermined Etiology: Summary and Recommendations (2023)]]
 5. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
 6. [[nccn-2026-biliary-tract-cancers|NCCN Clinical Practice Guidelines in Oncology: Biliary Tract Cancers (Version 1.2026)]]
+7. [[esge-2026-biliary-strictures|Biliary Stricture Management: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2026)]]

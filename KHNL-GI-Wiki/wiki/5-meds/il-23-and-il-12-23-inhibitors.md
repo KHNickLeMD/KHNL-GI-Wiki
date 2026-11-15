@@ -3,8 +3,8 @@ title: "IL-23 and IL-12/23 Inhibitors"
 category: med
 tags: [ustekinumab, risankizumab, mirikizumab, guselkumab, il-23, il-12-23, biologic, ibd, crohns, ulcerative-colitis, interleukin-inhibitor]
 created: 2026-09-06
-updated: 2026-09-24
-sources: [acg-2025-uc, acg-2025-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care]
+updated: 2026-11-15
+sources: [acg-2025-uc, acg-2025-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care, global-consensus-2025-pregnancy-ibd]
 ---
 
 Monoclonal antibodies against the **interleukin-23 (IL-23) pathway**, used as advanced therapy in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]. Two generations: **ustekinumab** blocks the shared **p40** subunit of interleukin-12 (IL-12) *and* IL-23, while **risankizumab, mirikizumab, and guselkumab** block the **p19** subunit unique to IL-23. Both generations are recommended in [[ulcerative-colitis|ulcerative colitis (UC)]] and [[crohns-disease|Crohn's disease (CD)]] by American College of Gastroenterology (ACG) 2025 at **Strong / Moderate**, and the class carries no demonstrated malignancy signal. The one place the two generations have been separated by evidence is **after anti-tumor necrosis factor (TNF) exposure in CD**, where risankizumab beat ustekinumab head-to-head (SEQUENCE).
@@ -21,6 +21,8 @@ Monoclonal antibodies against the **interleukin-23 (IL-23) pathway**, used as ad
   - [[#Perianal Fistulizing CD]]
 - [[#Efficacy Tier and Sequencing]]
 - [[#Safety and Monitoring]]
+- [[#Pregnancy and Lactation]]
+  - [[#Infant Vaccines After In Utero Exposure]]
 - [[#Guideline Differences and Contradictions]]
 - [[#Gaps]]
 - [[#See Also]]
@@ -161,6 +163,28 @@ Both American Gastroenterological Association (AGA) living guidelines rank advan
 
 ---
 
+## Pregnancy and Lactation
+
+*Preconception optimization, disease-activity monitoring, trimester plan, mode of delivery and the full drug grid: [[ibd-in-pregnancy]].*
+
+- **Continue maintenance ustekinumab throughout pregnancy** in women who are pregnant or attempting conception (Conditional, low — [[global-consensus-2025-pregnancy-ibd]]).
+- **Continue anti-IL-23 therapy throughout pregnancy** — mirikizumab, risankizumab, guselkumab (consensus statement, ungraded; the panel had only case-level data for these three). Both generations are rated appropriate from preconception through lactation, and **biosimilars are continued** like their originators.
+- **Maternal ustekinumab concentrations stay stable** across pregnancy — no dose adjustment for pregnancy weight gain.
+- **Mirikizumab has an immunoglobulin G4 (IgG4) backbone**, transferred across the placenta **less efficiently** than the IgG1 agents (ustekinumab, risankizumab, guselkumab). Monoclonal antibodies cannot cross passively during organogenesis (weeks 3–8) and actively cross via Fc receptors only **after week 14**, with **80% of transfer in the third trimester**.
+- **Breastfeeding is compatible** with all four agents (consensus statement 28). Milk concentration is **<1% of maternal serum**; an older breastfed infant receives a **relative infant dose (RID) <0.005%**, and breastfeeding does not alter neonatal ustekinumab clearance.
+
+### Infant Vaccines After In Utero Exposure
+
+*All from [[global-consensus-2025-pregnancy-ibd]].*
+
+- **Infant ustekinumab clearance: median 14 weeks (range 9–36)**, correlating with the concentration at delivery — the number that governs live-vaccine timing.
+- **Inactive vaccines on schedule**, regardless of in utero exposure (Strong, very low).
+- **Live rotavirus may be provided** after in utero biologic exposure (Conditional, very low) — no serious adverse events among 168 prospectively followed infants exposed to anti-TNF, vedolizumab or ustekinumab. Rotavirus is normally given **between 2 and 6 months** of age.
+- **The 6-month hold on live bacille Calmette-Guérin (BCG) vaccine is written for in utero anti-TNF exposure** (Strong, very low), not for this class; where BCG must be given early after any biologic, measure the infant's serum drug concentration first.
+- **Live vaccines are not withheld from an infant breastfeeding** from a mother on a biologic (consensus statement 35).
+
+---
+
 ## Guideline Differences and Contradictions
 
 - **AGA vs ACG on mirikizumab in UC.** [[aga-2024-uc-pharm]] places mirikizumab in **Rec 2 (Conditional)** with adalimumab and filgotinib, a tier below the Rec 1 group that contains ustekinumab. [[acg-2025-uc]] gives mirikizumab the **same Strong / Moderate** grade as ustekinumab and the other IL-23p19 agents (Recs 26, 40), and states the three IL-23 inhibitors are recommended **equally**. ACG 2025 is the **newer** tier-1 document, so follow its equal grading; the AGA tiering is noted because AGA's is a living guideline and may re-rank as data accrue.
@@ -176,14 +200,14 @@ Both American Gastroenterological Association (AGA) living guidelines rank advan
 - *The guidelines give no **primary-nonresponse assessment interval** for any IL-23 agent — no equivalent of the "week 6 vs week 10" guidance that exists for [[vedolizumab]].*
 - *The guidelines state no **dose-escalation or dose-optimization strategy** for loss of response within this class.*
 - *Placebo-controlled efficacy data (remission rates, pivotal trial names other than SEQUENCE and SEAVUE) for guselkumab, mirikizumab, and risankizumab are not given on this page.*
-- *The guidelines do not address this class in **acute severe UC**, **postoperative CD recurrence prophylaxis**, **pregnancy**, or **[[pouchitis]]**.*
+- *The guidelines do not address this class in **acute severe UC**, **postoperative CD recurrence prophylaxis**, or **[[pouchitis]]**.*
 - *No **individual agent pages** exist yet — ustekinumab, risankizumab, mirikizumab, and guselkumab are covered only at class level here.*
 
 ---
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[ibd-preventive-care]], [[ibd-in-malignancy]], [[uc-vs-crohns-comparison]], [[ibd-endoscopic-scoring]], [[jak-inhibitors]], [[therapeutic-drug-monitoring-ibd]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[ibd-preventive-care]], [[ibd-in-malignancy]], [[ibd-in-pregnancy]], [[uc-vs-crohns-comparison]], [[ibd-endoscopic-scoring]], [[jak-inhibitors]], [[therapeutic-drug-monitoring-ibd]]
 
 ---
 
@@ -195,3 +219,4 @@ Both American Gastroenterological Association (AGA) living guidelines rank advan
 4. [[aga-2025-crohns-pharm|AGA Living Guideline: Pharmacologic Management of Moderate-to-Severe Crohn's Disease (2025)]]
 5. [[aga-2024-ibd-malignancy|AGA Clinical Practice Update on Management of Inflammatory Bowel Disease in Patients With Malignancy: Commentary]]
 6. [[acg-2025-ibd-preventive-care|ACG 2025: Preventive Care in Inflammatory Bowel Disease]]
+7. [[global-consensus-2025-pregnancy-ibd|Global Consensus Statement on the Management of Pregnancy in Inflammatory Bowel Disease (2025)]]

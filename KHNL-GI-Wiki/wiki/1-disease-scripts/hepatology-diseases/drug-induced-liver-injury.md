@@ -3,8 +3,8 @@ title: "Drug-Induced Liver Injury (Idiosyncratic)"
 category: disease-script
 tags: [dili, drug-induced-liver-injury, hepatotoxicity, hds, ici, immune-checkpoint, hpb, liver]
 created: 2026-05-16
-updated: 2026-11-13
-sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili, aasld-easl-2026-aclf-global-consensus]
+updated: 2026-11-15
+sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili, aasld-easl-2026-aclf-global-consensus, easl-2025-autoimmune-hepatitis]
 ---
 
 ## Assessment
@@ -57,6 +57,15 @@ Neither [[acg-2021-dili]] nor [[aasld-2022-dili]] prints the Drug-Induced Liver 
 | Hepatocellular | >5 | Acute viral hepatitis A/B/C/E, [[autoimmune-hepatitis\|autoimmune hepatitis (AIH)]], [[wilson-disease\|Wilson disease]], ischemic hepatitis, [[budd-chiari-syndrome\|Budd-Chiari]] | Viral serologies + hepatitis C virus (HCV) RNA, antinuclear antibody (ANA)/anti-smooth muscle antibody (ASMA)/IgG, ceruloplasmin, imaging |
 | Cholestatic | <2 | Biliary obstruction, [[primary-biliary-cholangitis\|primary biliary cholangitis (PBC)]], [[primary-sclerosing-cholangitis\|primary sclerosing cholangitis (PSC)]] | Abdominal imaging (ultrasound [US]/computed tomography [CT]/magnetic resonance imaging [MRI]); limit [[ercp\|endoscopic retrograde cholangiopancreatography (ERCP)]] to cases where imaging can't exclude stones/stricture/malignancy |
 | Mixed | 2–5 (2 < R < 5) | Both hepatocellular and cholestatic differential | Both workups above |
+
+### Drug-Induced Autoimmune-Like Hepatitis (DI-ALH)
+
+**Drug-induced autoimmune-like hepatitis (DI-ALH)** = DILI with an **autoimmune phenotype** — autoantibodies, high IgG, and/or histological evidence of autoimmunity. That phenotype makes it **possible DI-ALH**, not AIH ([[easl-2025-autoimmune-hepatitis]], strong).
+
+- **Separated from AIH by treatment response and disease course, not by serology or biopsy:** resolution after withdrawal of the implicated agent — with or without a short corticosteroid course — and **no relapse in the long term** → DI-ALH (strong). Relapse points to AIH.
+- Onset usually **within 3 months** of exposure; hypersensitivity features (eosinophilia, rash, fever) usually absent.
+- Apply the AIH diagnostic scores **with caution** in DI-ALH (strong) — likewise in acute AIH, variant syndromes and concurrent liver disease.
+- "Highly probable" culprits: minocycline, nitrofurantoin, hydralazine, methyldopa, interferon, imatinib, adalimumab, infliximab, statins, dietary supplements.
 
 ---
 
@@ -153,6 +162,17 @@ All thresholds below are judged **despite having stopped the suspected offending
 - No dose, route, or duration for corticosteroids in DILI is given
 - Early ALT response to corticosteroid therapy may help distinguish DILI from AIH
 - Chronic DILI may resemble AIH and might respond to corticosteroids
+- The autoimmune-like phenotype is the one setting with a sourced dose — see [[#DI-ALH Management]]
+
+### DI-ALH Management
+
+*Terminology and diagnostic criteria: [[#Drug-Induced Autoimmune-Like Hepatitis (DI-ALH)]]. All three steps [[easl-2025-autoimmune-hepatitis]], strong recommendations.*
+
+1. **Withdraw the potential causative agent immediately.** Withdrawal alone brings spontaneous recovery in about half of patients, after a median of **70 days**
+2. **Add a short predniso(lo)ne course** for severe hepatitis, impaired liver function, or **no improvement in liver tests within 30 days** of stopping the agent
+3. **Predniso(lo)ne 0.5 mg/kg/day initially, then rapid taper to complete withdrawal within 1–2 months**
+
+- Corticosteroid benefit was clearest in severe cases meeting **nR-based Hy's law — ALT >3× ULN and total bilirubin >2× ULN** — without biochemical resolution within 30 days. Note these are different parameters from the ACG prognostic "nr Hy's law" under [[#Severity Assessment]].
 
 ### Rechallenge
 
@@ -251,3 +271,4 @@ Common Terminology Criteria for Adverse Events (CTCAE) grade criteria (ALT / bil
 2. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
 3. [[aasld-2022-dili|AASLD Practice Guidance: Drug, Herbal, and Dietary Supplement-Induced Liver Injury (2022)]]
 4. [[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]
+5. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]

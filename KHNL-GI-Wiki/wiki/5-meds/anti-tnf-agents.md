@@ -3,8 +3,8 @@ title: "Anti-TNF Agents (TNF-α Antagonists)"
 category: med
 tags: [anti-tnf, infliximab, adalimumab, certolizumab-pegol, golimumab, biologic, ibd, crohns, ulcerative-colitis, immunogenicity, therapeutic-drug-monitoring, biosimilar, immune-checkpoint-inhibitor]
 created: 2026-09-04
-updated: 2026-11-13
-sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis, aga-2018-biologic-biosimilar-switching-ibd, cimzia-2025-certolizumab-pegol-label, humira-2025-adalimumab-label, simponi-2025-golimumab-label, ecco-2017-crohns-part-1]
+updated: 2026-11-15
+sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis, aga-2018-biologic-biosimilar-switching-ibd, cimzia-2025-certolizumab-pegol-label, humira-2025-adalimumab-label, simponi-2025-golimumab-label, ecco-2017-crohns-part-1, global-consensus-2025-pregnancy-ibd, aga-2024-pregnancy-gi-liver]
 ---
 
 Monoclonal tumor necrosis factor-α (TNF-α) antagonists — **infliximab, adalimumab, certolizumab pegol, golimumab** — the longest-established advanced-therapy class in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], and the drugs behind most combination-therapy, immunogenicity and pre-biologic-screening rules. **Onset is rapid — as early as the first 2 weeks**, and response/remission rates are higher when given **within 2 years of disease onset** ([[acg-2025-crohns]]). Outside IBD: rescue for glucocorticoid-refractory [[immune-checkpoint-inhibitor-colitis|immune checkpoint inhibitor (ICI) colitis]].
@@ -24,6 +24,9 @@ Monoclonal tumor necrosis factor-α (TNF-α) antagonists — **infliximab, adali
   - [[#Vaccination]]
 - [[#Loss of Response]]
 - [[#Safety, Cautions, and Contraindications]]
+- [[#Pregnancy and Lactation]]
+  - [[#Placental Transfer]]
+  - [[#Infant Vaccines After In Utero Exposure]]
 - [[#Biosimilars]]
 - [[#See Also]]
 - [[#Sources]]
@@ -187,19 +190,7 @@ See [[chronic-hepatitis-b]].
 
 **Stop rules and class warnings** ([[cimzia-2025-certolizumab-pegol-label]]): discontinue for **serious infection or sepsis**; discontinue for a **lupus-like syndrome** (autoantibodies common, the syndrome rare); **stop the drug and start antiviral therapy** for HBV reactivation — safety of resuming unknown. **Avoid live vaccines** during or immediately before therapy. **Combination with another biologic** (anakinra, abatacept, rituximab, natalizumab, a second TNF blocker) **is not recommended**.
 
-**Pregnancy and lactation**
-- Anti-TNF agents are **safe during preconception planning, throughout pregnancy, and postpartum** ([[acg-2025-crohns]]).
-- **Placental transfer splits the class** — the one pharmacologic difference that drives agent choice in pregnancy. All three labels are tier-equal, so these are drug-level facts, not a conflict:
-
-| Agent | Third-trimester placental transfer | Live vaccines in the exposed infant |
-|---|---|---|
-| **Certolizumab pegol** | **Negligible to low** — infant plasma at birth **≥75% below maternal** (last dose a mean 19 d before delivery); **no dose adjustment in pregnancy** ([[cimzia-2025-certolizumab-pegol-label]]) | Safety **unknown**; may be **eliminated more slowly in infants than adults** |
-| **Adalimumab** | **Actively transferred**, rising as pregnancy progresses, greatest in the third trimester ([[humira-2025-adalimumab-label]]) | Safety **unknown** — weigh risks and benefits before vaccinating |
-| **Golimumab** | **Transported across the placenta**; another anti-TNF was detected in infant serum **up to 6 months**, so exposed infants may be at increased infection risk ([[simponi-2025-golimumab-label]]) | ⚠ **Not recommended for 6 months** after the mother's last dose in pregnancy — the only label giving an interval |
-
-- **Certolizumab in breast milk is minimal** and **undetectable in breastfed infants at 4 weeks postpartum** ([[cimzia-2025-certolizumab-pegol-label]]).
-- **Disease activity is itself the risk** — increased IBD activity in pregnancy is associated with **preterm delivery (<37 wk), low birth weight (<2500 g) and small-for-gestational-age** birth ([[humira-2025-adalimumab-label]], [[simponi-2025-golimumab-label]]).
-- Adalimumab pregnancy registry (OTIS/MotherToBaby, 221 first-trimester exposures vs 106 untreated): major birth defects **10% vs 7.5%**, with **no pattern of defects** — the label calls this reassuring ([[humira-2025-adalimumab-label]]).
+**Pregnancy and lactation:** [[#Pregnancy and Lactation]] below.
 
 **Malignancy.** Class-level cancer risk and the drug-by-cancer-type stop/continue grid live on [[ibd-in-malignancy]].
 
@@ -209,6 +200,39 @@ See [[chronic-hepatitis-b]].
 > Certolizumab **falsely elevates the activated partial thromboplastin time (aPTT)** in patients with entirely normal coagulation — documented on several commercial aPTT assays and possibly others. **Prothrombin time and thrombin time are unaffected, and there is no effect on coagulation *in vivo*** ([[cimzia-2025-certolizumab-pegol-label]]). Confirm with prothrombin time and thrombin time before cancelling a procedure or working up a coagulopathy.
 
 *The guidelines cited here do not cover infusion reactions, injection-site reactions, or paradoxical psoriasis — consult product labeling.*
+
+---
+
+## Pregnancy and Lactation
+
+*Preconception optimization, disease-activity monitoring, trimester plan, mode of delivery and the full drug grid: [[ibd-in-pregnancy]].*
+
+- **Continue maintenance anti-TNF throughout pregnancy** in women who are pregnant or attempting conception (Strong, low — [[global-consensus-2025-pregnancy-ibd]]); **continue combination anti-TNF + [[thiopurines\|thiopurine]]** throughout as well (Conditional, very low). Anti-TNF agents are safe during preconception planning, throughout pregnancy, and postpartum ([[acg-2025-crohns]]).
+- **Do not adjust the dose for pregnancy.** Infliximab concentrations *rise* in later trimesters on unchanged dosing — **keep stable pre-pregnancy dosing regardless of pregnancy weight gain** ([[global-consensus-2025-pregnancy-ibd]]).
+- **Breastfeeding is compatible** with all four agents, and infants of mothers on anti-TNF who breastfeed have **no increased infection risk in the first 12 months** of life (Conditional, very low). Milk concentration is **<1% of maternal serum**; an older breastfed infant receives a **relative infant dose (RID) <0.005%**, and breastfeeding does not alter neonatal clearance of infliximab or adalimumab ([[global-consensus-2025-pregnancy-ibd]]). **Certolizumab in breast milk is minimal** and undetectable in breastfed infants at 4 weeks postpartum ([[cimzia-2025-certolizumab-pegol-label]]).
+- Adalimumab pregnancy registry (OTIS/MotherToBaby, 221 first-trimester exposures vs 106 untreated): major birth defects **10% vs 7.5%**, with **no pattern of defects** ([[humira-2025-adalimumab-label]]).
+
+### Placental Transfer
+
+Monoclonal antibodies are too large to cross passively during organogenesis (**weeks 3–8**) but **actively cross via Fc receptors after week 14**, with **80% of transfer in the third trimester**. **Certolizumab pegol is a Fab' fragment with no Fc portion → does not actively cross** ([[global-consensus-2025-pregnancy-ibd]]). The labels add agent-level detail:
+
+| Agent | Third-trimester placental transfer | Label statement on infant live vaccines |
+|---|---|---|
+| **Certolizumab pegol** | **Negligible to low** — infant plasma at birth **≥75% below maternal** (last dose a mean 19 d before delivery); **no dose adjustment in pregnancy** ([[cimzia-2025-certolizumab-pegol-label]]) | Safety **unknown**; may be **eliminated more slowly in infants than adults** |
+| **Adalimumab** | **Actively transferred**, rising as pregnancy progresses, greatest in the third trimester ([[humira-2025-adalimumab-label]]) | Safety **unknown** — weigh risks and benefits before vaccinating |
+| **Golimumab** | **Transported across the placenta**; another anti-TNF was detected in infant serum **up to 6 months**, so exposed infants may be at increased infection risk ([[simponi-2025-golimumab-label]]) | **Not recommended for 6 months** after the mother's last dose in pregnancy — the only label giving an interval |
+
+*The labels predate the 2025 consensus; for which live vaccine the exposed infant may receive, and when, follow the rules below.*
+
+### Infant Vaccines After In Utero Exposure
+
+*All from [[global-consensus-2025-pregnancy-ibd]].*
+
+- **Inactive vaccines should be provided on schedule** to children born to mothers on anti-TNF (Strong, very low) — infant T- and B-cell immunity develops unaltered, and serologic responses are adequate.
+- **Live rotavirus may be provided** after in utero biologic exposure (Conditional, very low); rotavirus is normally given **between 2 and 6 months** of age.
+- **Live BCG should be avoided in the first 6 months of life** after in utero anti-TNF exposure (Strong, very low) — risk of disseminated tuberculosis and death; **every reported adverse event occurred in an infant vaccinated at <6 months**. Consider regional tuberculosis risk. Where BCG must be given early, **measure the infant's serum drug concentration before vaccinating**, and consider **holding the maternal anti-TNF in mid-pregnancy** to reduce transfer.
+- **Live vaccines are not withheld from an infant breastfeeding** from a mother on anti-TNF.
+- **The blanket ban has split.** Older guidance withheld **all** live vaccines for 6 months after in utero infliximab or adalimumab exposure ([[aga-2024-pregnancy-gi-liver]]); the 2025 consensus permits rotavirus while keeping the 6-month hold for BCG. It also **declines to adopt** the 2022 European Medicines Agency communication advising against live vaccines in infants breastfed by mothers on infliximab.
 
 ---
 
@@ -228,7 +252,7 @@ See [[chronic-hepatitis-b]].
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[perianal-fistulizing-crohns-disease]], [[thiopurines]], [[methotrexate]], [[vedolizumab]], [[calcineurin-inhibitors]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[immune-checkpoint-inhibitor-colitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[toxic-megacolon]], [[pouchitis]], [[chronic-hepatitis-b]], [[uc-vs-crohns-comparison]], [[ibd-endoscopic-scoring]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]]
+[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[perianal-fistulizing-crohns-disease]], [[thiopurines]], [[methotrexate]], [[vedolizumab]], [[calcineurin-inhibitors]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[ibd-in-pregnancy]], [[immune-checkpoint-inhibitor-colitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[toxic-megacolon]], [[pouchitis]], [[chronic-hepatitis-b]], [[uc-vs-crohns-comparison]], [[ibd-endoscopic-scoring]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]], [[therapeutic-drug-monitoring-ibd]]
 
 ---
 
@@ -245,3 +269,5 @@ See [[chronic-hepatitis-b]].
 9. [[humira-2025-adalimumab-label|HUMIRA (Adalimumab) — FDA Prescribing Information]]
 10. [[simponi-2025-golimumab-label|SIMPONI (Golimumab) — FDA Prescribing Information]]
 11. [[ecco-2017-crohns-part-1|ECCO 3rd European Evidence-based Consensus on the Diagnosis and Management of Crohn's Disease 2016: Part 1 — Diagnosis and Medical Management]]
+12. [[global-consensus-2025-pregnancy-ibd|Global Consensus Statement on the Management of Pregnancy in Inflammatory Bowel Disease (2025)]]
+13. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review (2024)]]
