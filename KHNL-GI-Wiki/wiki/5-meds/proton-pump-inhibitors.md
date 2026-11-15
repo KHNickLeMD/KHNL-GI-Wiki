@@ -62,7 +62,7 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 | Incomplete response | Switch PPI (consider a non-CYP2C19 agent) rather than automatically doubling — doubling lansoprazole 30 mg daily vs switching to esomeprazole 40 mg daily were equally effective |
 
 - **Double dose = standard dose twice daily, or a double-strength dose once daily.** Never studied in any randomized controlled trial (RCT) and not US Food and Drug Administration (FDA)-approved, yet up to **15%** of PPI users take it ([[aga-2022-ppi-deprescribing]]).
-- **High dose is justified acutely** to prevent rebleeding from [[peptic-ulcer-disease|peptic ulcer disease (PUD)]], and for [[gastroenteropancreatic-neuroendocrine-tumors|Zollinger-Ellison syndrome]]. Evidence is **minimal** for high dose in maintenance of healed esophagitis or prevention of PUD complications.
+- **High dose is justified acutely** to prevent rebleeding from PUD, and for [[gastroenteropancreatic-neuroendocrine-tumors|Zollinger-Ellison syndrome]]. Evidence is **minimal** for high dose in maintenance of healed esophagitis or prevention of PUD complications.
 - These guidelines prescribe "standard-dose" and "double-dose" PPI without printing a milligram equivalent for each agent; the doses they do state are given with their indications below.
 
 ## Indications and Regimens
@@ -82,7 +82,7 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 - Twice-daily (maximal) acid suppression is used around [[endoscopic-eradication-therapy|endoscopic eradication therapy]] — surveillance endoscopy is generally performed after it is started, and vigorous suppression may be advisable after resection.
 
 ### Eosinophilic Esophagitis
-- Initial adult treatment: **"high-dose" PPI = double the approved reflux dose per day** — the guideline's example is **omeprazole 20 mg twice daily *or* 40 mg daily**, or the equivalent of another PPI ([[acg-2025-eoe]]). Once daily or divided before meals; dosing-efficacy data are variable, so divided dosing may be chosen for adherence.
+- Initial adult treatment of [[eosinophilic-esophagitis|eosinophilic esophagitis (EoE)]]: **"high-dose" PPI = double the approved reflux dose per day** — the guideline's example is **omeprazole 20 mg twice daily *or* 40 mg daily**, or the equivalent of another PPI ([[acg-2025-eoe]]). Once daily or divided before meals; dosing-efficacy data are variable, so divided dosing may be chosen for adherence.
 - Pooled response **60.8% clinical / 50.5% histologic** (<15 eosinophils per high-power field); twice daily numerically better than once daily (55.9% vs 49.7%, not significant).
 - In a 305-patient cohort, histologic remission was **53%–54% with omeprazole 20–40 mg twice daily vs 10%–12% with 20–40 mg once daily** (P<0.0001).
 - **Step-down in responders:** 30% of initial responders relapsed when reduced to once daily but regained histologic remission on re-escalation; in another cohort >80% stayed in remission stepping omeprazole 40 mg twice daily → 40 mg daily → 20 mg daily.
@@ -99,111 +99,126 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 - **Bleeding ulcer** — high-dose PPI after [[endoscopic-hemostasis|endoscopic hemostasis]]; what "high dose" means, continuous vs intermittent regimens, and the twice-daily step-down: see [[peptic-ulcer-disease]]. Pre-endoscopic PPI: see [[upper-gi-bleeding]].
 - P-CAB positioning in PUD (generally not first-line): [[potassium-competitive-acid-blockers]].
 
-## On-Demand, Step-Down & Deprescribing
+## De-Prescribing and Step-Down
 
-*The dedicated source for this section is [[aga-2022-ppi-deprescribing]] (10 ungraded Best Practice Advice statements).*
+*Source for this section: [[aga-2022-ppi-deprescribing]] — 10 ungraded Best Practice Advice (BPA) statements.*
 
-### The governing principle
+> [!pearl] Stop a PPI for lack of indication, not for fear of harm
+> **BPA 10:** a PPI-associated adverse event (PAAE), a *history* of one, or *risk factors* for one is **not an independent indication for withdrawal**. The trigger for stopping is the absence of an indication ([[aga-2022-ppi-deprescribing]]).
 
-**Stop a PPI because there is no indication — not because you fear an adverse event.** [[aga-2022-ppi-deprescribing]] **Best Practice Advice (BPA) 10** states this explicitly: the presence of a PPI-associated adverse event (PAAE), a *history* of one, or the presence of *risk factors* for one is **not an independent indication for withdrawal**. See [[#Safety / Adverse Effects]] for why.
+- **BPA 1** — regular review and documentation of the ongoing indication, the **primary care provider's** responsibility; a gastroenterologist involved should document the indication for prolonged use and the endpoints that would signify discontinuation.
+- **BPA 2** — consider a trial of de-prescribing in everyone **without a definitive indication**. Chronic use is often unintended (a PPI started inpatient for stress ulcer prophylaxis, continued at discharge).
 
-- **BPA 1** — every patient on a PPI should have **regular review and documentation of the ongoing indication**; this is the **primary care provider's** responsibility. When a gastroenterologist is involved, document the indication for prolonged use and the clinical endpoints that would signify discontinuation.
-- **BPA 2** — all patients **without a definitive indication** for chronic PPI should be considered for a trial of de-prescribing.
-- Scale of the problem: **7%–15%** of patients use a PPI at any time (**40%** at age ≥70); **~1 in 4** patients started on one continues ≥1 year; **nearly two-thirds** of ambulatory PPI users had **no clear indication**. Efficacy trials tested **4–12 weeks**, or **6–12 months** for maintenance.
-- Chronic use is often unintended — e.g. a PPI started inpatient for stress ulcer prophylaxis and continued at discharge without review.
+```mermaid
+flowchart TD
+    A(["Patient taking a PPI — review and<br/>document the ongoing indication"]) --> B["Is there a definitive indication<br/>for chronic use?"]
+    B -- "No definitive indication (BPA 2)" --> C["Assess upper GI bleeding risk with<br/>an evidence-based strategy (BPA 6)"]
+    B -- "Indication present and on twice-daily dosing (BPA 3)" --> D(["Step down to once-daily PPI"])
+    B -- "Complicated GERD, Barrett's esophagus, eosinophilic<br/>esophagitis or idiopathic pulmonary fibrosis (BPA 4, 5)" --> E(["Do not consider for discontinuation"])
+    C -- "High risk for upper GI bleeding (BPA 7)" --> E
+    C -- "Not at high risk" --> F(["Taper the dose or stop abruptly (BPA 9)"])
+    F --> G(["Warn of transient upper GI symptoms from<br/>rebound acid hypersecretion (BPA 8)"])
+    class A start
+    class B,C test
+    class D,F,G act
+    class E stop
+```
 
-### Is there an indication? (BPA 2)
+*De-prescribing a proton pump inhibitor*
+*Built from the AGA 2022 PPI de-prescribing update, Best Practice Advice 2, 3, 4, 5, 6, 7, 8 and 9 (the update has no flowchart)*
+*[[aga-2022-ppi-deprescribing|AGA Clinical Practice Update on De-Prescribing of Proton Pump Inhibitors: Expert Review]]*
+*PPI = proton pump inhibitor · BPA = Best Practice Advice · GI = gastrointestinal · GERD = gastroesophageal reflux disease*
+
+### Indications for Chronic Use
 
 **Long-term use = >8 weeks. Acute/short-term = ≤8 weeks.** [[aga-2022-ppi-deprescribing]]
 
 | | **Definitely indicated** | **Conditionally indicated** | **NOT indicated** |
 |---|---|---|---|
-| **Long-term (>8 wk)** | [[barretts-esophagus\|Barrett's esophagus]]; clinically significant (LA grade **C/D**) erosive esophagitis; peptic strictures from [[gerd\|GERD]]; [[gastroenteropancreatic-neuroendocrine-tumors\|Zollinger-Ellison syndrome]]; [[eosinophilic-esophagitis\|EoE]]; gastroprotection in aspirin (ASA)/NSAID users **at high risk for gastrointestinal (GI) bleeding**; prevention of progression of idiopathic pulmonary fibrosis (IPF) | PPI-responsive endoscopy-negative reflux disease, with recurrence on cessation; PPI-responsive [[functional-dyspepsia\|functional dyspepsia]], with recurrence on cessation; PPI-responsive upper-airway symptoms ascribed to [[laryngopharyngeal-symptoms\|laryngopharyngeal reflux (LPR)]], with recurrence on cessation; refractory steatorrhea in [[exocrine-pancreatic-insufficiency\|chronic pancreatic insufficiency]] on enzyme replacement; secondary prevention of gastric/duodenal peptic ulcers **with no concomitant antiplatelet drug** | Nonerosive reflux symptoms with **no sustained response** to high-dose PPI; functional dyspepsia with no sustained response; steroid therapy **in the absence of** ASA/NSAID; prevention of recurrent upper GI bleeding from causes **other than** [[peptic-ulcer-disease\|PUD]] (incl. gastric/duodenal erosions) or erosive esophagitis |
-| **Acute (≤8 wk)** | [[helicobacter-pylori-infection\|*H. pylori*]] eradication; stress ulcer prophylaxis for **intensive care unit (ICU) patients with risk factors**; uninvestigated GERD/dyspepsia; treatment of NSAID-related gastric and duodenal peptic ulcers | Initial or on-demand treatment of endoscopy-negative reflux disease; initial treatment of functional dyspepsia; uninvestigated [[dyspepsia]]; ulcer prevention after sclerotherapy or band ligation of [[variceal-upper-gi-bleeding\|esophageal varices]]; prevention of rebleeding from Mallory-Weiss tears | **Empiric** treatment of laryngopharyngeal symptomatology; acute undifferentiated abdominal pain; acute [[nausea-and-vomiting\|nausea and vomiting]] not believed related to GERD/esophagitis; **any isolated lower GI symptomatology** |
+| **Long-term (>8 wk)** | Barrett's esophagus; clinically significant (LA grade **C/D**) erosive esophagitis; peptic [[esophageal-stricture\|strictures]] from GERD; Zollinger-Ellison syndrome; EoE; gastroprotection in aspirin (ASA)/NSAID users **at high risk for gastrointestinal (GI) bleeding**; prevention of progression of idiopathic pulmonary fibrosis (IPF) | PPI-responsive endoscopy-negative reflux disease, with recurrence on cessation; PPI-responsive [[functional-dyspepsia\|functional dyspepsia]], with recurrence on cessation; PPI-responsive upper-airway symptoms ascribed to [[laryngopharyngeal-symptoms\|laryngopharyngeal reflux (LPR)]], with recurrence on cessation; refractory steatorrhea in [[exocrine-pancreatic-insufficiency\|chronic pancreatic insufficiency]] on enzyme replacement; secondary prevention of gastric/duodenal peptic ulcers **with no concomitant antiplatelet drug** | Nonerosive reflux symptoms with **no sustained response** to high-dose PPI; functional dyspepsia with no sustained response; steroid therapy **in the absence of** ASA/NSAID; prevention of recurrent upper GI bleeding from causes **other than** [[peptic-ulcer-disease\|PUD]] (incl. gastric/duodenal erosions) or erosive esophagitis |
+| **Acute (≤8 wk)** | *H. pylori* eradication; stress ulcer prophylaxis for **intensive care unit (ICU) patients with risk factors**; uninvestigated GERD/dyspepsia; treatment of NSAID-related gastric and duodenal peptic ulcers | Initial or on-demand treatment of endoscopy-negative reflux disease; initial treatment of functional dyspepsia; uninvestigated [[dyspepsia]]; ulcer prevention after sclerotherapy or band ligation of [[variceal-upper-gi-bleeding\|esophageal varices]]; prevention of rebleeding from Mallory-Weiss tears | **Empiric** treatment of laryngopharyngeal symptomatology; acute undifferentiated abdominal pain; acute [[nausea-and-vomiting\|nausea and vomiting]] not believed related to GERD/esophagitis; **any isolated lower GI symptomatology** |
 
-### Do not de-prescribe these patients (BPA 4, 5, 7)
+### Do Not De-Prescribe
 
 - **Complicated GERD (BPA 4)** — history of **severe erosive esophagitis, esophageal ulcer, or peptic stricture**. ~20% of untreated GERD has erosive esophagitis; recurrence after withdrawal is common, particularly in symptomatic **LA grade C or D**.
-  - *Caveat the source raises:* because many GERD patients are treated empirically, it **may not be known** whether a given user ever had severe erosive esophagitis. In those patients a trial can be considered, but **re-initiate quickly** if signs of complicated GERD emerge, and consider [[upper-endoscopy|upper endoscopy]] to confirm.
-- **[[barretts-esophagus|Barrett's esophagus]], [[eosinophilic-esophagitis|EoE]], or idiopathic pulmonary fibrosis (BPA 5).**
-  - Barrett's — observational studies and randomized controlled trials (RCTs) show PPIs reduce [[esophageal-adenocarcinoma|esophageal adenocarcinoma]] risk.
-  - EoE — clinical response **61%**, histologic remission **51%** in symptomatic esophageal eosinophilia; de-prescribing a previous responder risks high rates of symptomatic and histologic recurrence.
-  - IPF — low-quality evidence of reduced progression; the authors judge it reasonable not to target these patients until evidence shows PPIs are ineffective.
-- **High upper-GI-bleeding risk (BPA 6, 7)** — assess **before** de-prescribing, using an evidence-based strategy. Risk factors such as over-the-counter aspirin use are often **"hidden."**
+  - Treated empirically, so it **may not be known** whether a user ever had severe erosive esophagitis → a trial can be considered, but **re-initiate quickly** if signs of complicated GERD emerge, with [[upper-endoscopy|upper endoscopy]] to confirm.
+- **Barrett's esophagus, EoE, or idiopathic pulmonary fibrosis (BPA 5).** De-prescribing a previous EoE responder risks high rates of symptomatic and histologic recurrence; the IPF evidence is low-quality but the authors judge it reasonable not to target these patients.
+- **Hypersecretory states** — Zollinger-Ellison syndrome.
+- **High upper gastrointestinal bleeding (UGIB) risk (BPA 6, 7)** — assess **before** de-prescribing, using an evidence-based strategy. Risk factors such as over-the-counter (OTC) aspirin use are often **"hidden."** **Any** of:
+  - **History of upper GI bleeding**
+  - **Multiple antithrombotics** — the term covers both anticoagulants and antiplatelet agents
+  - **Aspirin or an NSAID plus ≥1 additional risk factor:** age **>60 years**, severe medical comorbidity, a second NSAID or aspirin, an antithrombotic, or an oral corticosteroid
 
-**Who counts as high upper gastrointestinal bleeding (UGIB) risk** — the source synthesizes across differing guidance statements. **Any** of: [[aga-2022-ppi-deprescribing]]
+> [!pitfall] The bleeding-risk threshold is not settled
+> The criteria above are the update's own synthesis of guidance statements that differ (ACG 2009 through American College of Cardiology 2020); it states plainly that precisely which patients are at sufficiently increased risk remains uncertain. Its ACG 2009 row uses age **>65 years** rather than >60 ([[aga-2022-ppi-deprescribing]]).
 
-- **History of upper GI bleeding**
-- **Multiple antithrombotics** (anticoagulants *and* antiplatelet agents)
-- **Aspirin or an NSAID plus ≥1 additional risk factor:** age **>60 years**, severe medical comorbidity, a second NSAID or aspirin, an antithrombotic, or an oral corticosteroid
+### Stepping Down and Stopping
 
-Also never de-prescribe **hypersecretory states** (Zollinger-Ellison syndrome).
-
-> ⚠ **The source contradicts itself on the age cutoff.** The synthesized criteria above use **>60 years**; the ACG 2009 NSAID row of the source's own Table 2 uses **>65 years**. Both appear in [[aga-2022-ppi-deprescribing]]; neither is reconciled.
->
-> ⚠ The source states plainly that **"precisely which patients are at sufficiently increased risk … remains uncertain"** and that published guidance statements differ (ACG 2009, American College of Physicians [ACP] 2010/2019, American College of Cardiology Foundation [ACCF]/ACG/American Heart Association [AHA] 2010, European Society of Cardiology [ESC]/European Association for Cardio-Thoracic Surgery [EACTS] 2017, American College of Chest Physicians [ACCP] 2018, American College of Cardiology [ACC] 2020). Its Table 2 is a **display of disagreement**, not a consensus.
-
-### Step down the dose first (BPA 3)
-
-**Most patients on twice-daily dosing who still have an indication should be stepped down to once daily.**
-
-- Double-dose PPI (standard dose BID, or double-strength once daily) has **never been studied in any RCT** and is **not FDA-approved** — yet up to **15%** of users are on it.
-- **80% of 117 patients** on higher-than-standard doses for GERD stepped down successfully without significant symptom recurrence or need to re-escalate.
-- No Barrett's study shows double-dose beats standard-dose for preventing extension or progression to dysplasia/cancer.
-- PPIs at **any** dose are **ineffective** for laryngopharyngeal symptoms.
-- High dose **is** justified: **acutely**, to prevent rebleeding from [[peptic-ulcer-disease|peptic ulcer disease]]; and for Zollinger-Ellison syndrome. There is **minimal** evidence for high dose in maintenance of healed esophagitis or prevention of PUD complications.
+- **BPA 3 — most patients on twice-daily dosing who still have an indication should step down to once daily.** 80% of 117 patients on higher-than-standard doses for GERD stepped down successfully, without significant symptom recurrence or need to re-escalate.
+- No Barrett's study shows double dose beats standard dose for preventing extension or progression to dysplasia/cancer; PPIs at **any** dose are **ineffective** for laryngopharyngeal symptoms.
 - Higher doses cost more and are more strongly associated with community-acquired pneumonia, hip fracture, and [[clostridioides-difficile|*C. difficile*]] infection — **though with no direct evidence of causality**.
+- **BPA 9 — taper or stop abruptly; either is reasonable.** The one trial comparing them (abrupt vs a 3-week taper: daily → every other day × 3 weeks → stop) found **no significant difference** at 6 months: **31% (tapered) vs 22% (abrupt)** remaining off and symptom-free. The taper may simply have been **too rapid** — parietal and enterochromaffin-like (ECL) cell hyperplasia may take **2–6 months** to regress.
 
-### Taper or stop abruptly — either is acceptable (BPA 9)
+### After Stopping
 
-- The one trial comparing them (abrupt vs a **3-week** taper: daily → every other day × 3 weeks → stop) found **no significant difference** at 6 months: **31% (tapered) vs 22% (abrupt)** remaining off and symptom-free.
-- The authors caution the taper may simply have been **too rapid**, since parietal/ECL hyperplasia may take **2–6 months** to regress.
+**BPA 8 — warn every patient stopping long-term PPI that they may develop transient upper GI symptoms from rebound acid hypersecretion (RAHS).**
 
-### Rebound acid hypersecretion (BPA 8)
+- **Mechanism:** PPI raises intragastric pH → serum gastrin rises (inhibition of acid secretion normally requires gastric acid present) → hypergastrinemia drives parietal and ECL cell proliferation → increased acid-producing capacity, unleashed on withdrawal.
+- **Duration:** not well characterized. ECL/parietal cell mass may persist **8 weeks** after withdrawal, usually regressed by **6 months**.
+- **Do not reflexively restart continuous PPI.** As-needed **H2RAs** and/or contact antacids are reasonable; **on-demand PPI** gives effective symptom control and is itself a **partial de-prescribing strategy**.
+- **~Half** of uncomplicated GERD patients who stopped remained off at 6 months — but **three-quarters of the successes** were using H2RAs or OTC antacids for symptom control.
+- **Severe persistent symptoms lasting >2 months** after discontinuation suggest a continuing indication, or a **non–acid-mediated** cause.
+- Persons **without abnormal esophageal acid exposure (acid exposure time >4.0%)** on [[ambulatory-reflux-monitoring|ambulatory pH testing]] in the first **7 days** after withdrawal are much more likely **not** to need PPI re-initiation (RCT); feasibility before every attempt is unclear.
 
-Warn every patient stopping long-term PPI that they may develop **transient upper GI symptoms**.
-
-- **Mechanism:** PPI raises intragastric pH → serum gastrin rises (acid-secretion inhibition normally requires gastric acid present) → hypergastrinemia drives parietal and enterochromaffin-like cell proliferation → increased acid-producing capacity, unleashed on withdrawal.
-- **Duration:** not well characterized. Enterochromaffin-like (ECL)/parietal cell mass may persist **8 weeks** after withdrawal, usually regressed by **6 months**.
-- **Managing the symptoms — do not reflexively restart continuous PPI.** As-needed **H2RAs** and/or contact antacids are reasonable; **on-demand PPI** provides effective symptom control and is itself a **partial de-prescribing strategy**.
-- **~Half** of uncomplicated GERD patients who stopped remained off at 6 months — but **three-quarters of the successes** were using H2RAs or over-the-counter (OTC) antacids for symptom control.
-- 🚩 **Severe persistent symptoms lasting >2 months** after discontinuation suggest a continuing indication, or a **non–acid-mediated** cause.
-- An RCT found that persons **without abnormal esophageal acid exposure (acid exposure time >4.0%)** on [[ambulatory-reflux-monitoring|ambulatory pH testing]] in the first **7 days** after withdrawal are much more likely **not** to need PPI re-initiation — though feasibility before every attempt is unclear.
-
-> ⚠ **Contradiction — resolved in favour of the newer source.** [[acg-2021-gerd]] states that rebound acid hypersecretion (RAHS) is demonstrated in healthy controls but that "strong evidence for increased symptoms after abrupt withdrawal is lacking." [[aga-2022-ppi-deprescribing]] (2022, same tier, newer) treats RAHS as a real cause of post-withdrawal symptoms warranting an explicit patient warning, citing a **double-blinded RCT (Reimer et al.)** in which PPI withdrawal after an 8-week course produced a **higher incidence of upper GI symptoms** than continuing. This page follows the American Gastroenterological Association (AGA) position; the ACG wording is recorded here.
-
-### Other options
-- **On-demand / intermittent** PPI for heartburn control in **NERD** (non-erosive reflux disease) — Conditional/Low ([[acg-2021-gerd]]); symptom-free days equivalent to continuous therapy, both superior to placebo. On-demand is **not** adequate for erosive esophagitis.
-- **Step-down to H2RA** is an acceptable option, particularly in NERD ([[acg-2021-gerd]]).
-- Where the infrastructure exists, a **pharmacist- or nurse-specialist–centred multidisciplinary** approach may help systematically identify inappropriate PPI use ([[aga-2022-ppi-deprescribing]]).
+*[[acg-2021-gerd]] holds that RAHS is demonstrated in healthy controls but that strong evidence for increased symptoms after abrupt withdrawal is lacking. This page follows the newer [[aga-2022-ppi-deprescribing]], which cites a double-blind RCT in which withdrawal after an 8-week course produced more upper GI symptoms than continuing.*
 
 ## PPI-Refractory Symptoms
-- First optimize **compliance and timing** (confirm taken 30–60 min before the first meal).
-- For persistent typical symptoms, twice-daily PPI × 8–12 wk may be tried before further testing; twice-daily dosing appears superior to once-daily double-dose.
-- Bedtime **H2RA as needed** may help nocturnal symptoms/nocturnal acid breakthrough (tachyphylaxis develops with scheduled use).
-- If on-therapy [[ambulatory-reflux-monitoring|reflux monitoring]] is **negative**, stop the PPI (unless another indication exists).
+- **Optimize the PPI first** — the first step in managing refractory GERD (Strong/Moderate, [[acg-2021-gerd]]): verify compliance and confirm the drug is taken 30–60 min before the first meal of the day, and before dinner as well for twice-daily dosing. In a randomized multicentre trial of veterans with refractory heartburn, **42 of 366 (11.4%)** improved by ≥50% on optimization alone.
+- GERD is generally not considered PPI-refractory until the patient has been on **twice-daily** dosing, which maintains **gastric pH >4 over 24 h** better than once-daily double dose.
+- **Against routine addition of other medical therapies in PPI nonresponders** (Conditional/Moderate). A bedtime H2RA may help nocturnal symptoms or nocturnal acid breakthrough when used **as needed** — tachyphylaxis develops with scheduled use.
+- Patients with **both** typical and extraesophageal symptoms: twice-daily PPI × **8–12 weeks** before additional testing (Conditional/Low).
+- **Stop the PPI if off-therapy reflux testing is negative**, unless another indication is present.
+- Definition of refractory GERD and the full workup algorithm: [[gerd]].
 
-## Safety / Adverse Effects
-*As stated in [[acg-2021-gerd]] — associations largely from weak observational data.*
+## Safety and Adverse Effects
 
-> **An adverse-event signal is not a reason to stop the drug ([[aga-2022-ppi-deprescribing]] BPA 10).** All studies reporting PAAEs are **observational** and cannot establish causality; **RCTs comparing PPIs with placebo have not shown a higher rate of any adverse event**, and **no RCT has demonstrated increased incidence of any PAAE**. Many proposed associations lack a plausible mechanism. Neither a PAAE, nor a history of one, nor risk factors for one, is an independent indication to withdraw a PPI — the trigger for stopping is the **absence of an indication**. See [[#On-Demand, Step-Down & Deprescribing]].
->
-> Why the statement was needed: nearly **40%** of patients have attempted to stop their PPI, **83% of them without physician advice**, and those reporting "extreme concern" about PPI adverse effects were **20× more likely** to have tried. **Three-quarters of physicians** report altering treatment plans over PPI concerns, and **~80%** say they would discontinue a PPI in a patient **at high risk of upper GI bleeding** — the precise population BPA 7 says must not be de-prescribed.
-- **Common adverse drug reactions (ADRs)** (clinical trials / FDA labels): headache, abdominal pain, nausea, vomiting, diarrhea, constipation, flatulence — infrequent, abate on stopping; can be preparation-specific → switching PPI is reasonable.
-- **Putative serious associations** (chronic use): intestinal infections, pneumonia, [[gastric-adenocarcinoma|stomach cancer]], osteoporosis-related fractures, chronic kidney disease, vitamin/mineral deficiencies, myocardial infarction, stroke, dementia, early death. High-quality studies found PPIs do **not** significantly increase risk of any of these **except intestinal infections**; a small increase in others cannot be fully excluded. Benefits generally far outweigh theoretical risks.
-- **[[clostridioides-difficile|C. difficile]] — the decision is binary, and dose reduction is not an option** ([[aga-2026-cdiff-adults]], BPA 13). During C. difficile infection (CDI) treatment or recurrence prevention, **evaluate the indication**: if a legitimate one exists (ulcer prevention, severe GERD), **do not discontinue** — benefit outweighs the CDI risk. If none exists, discuss cessation. **No evidence supports reducing the dose.**
-  - Magnitude of risk: pooled observational recurrent CDI **24% in PPI users vs 18% in nonusers**; the largest RCT (>17,000 patients, 3 years) found no significant increase (**11 vs 4 cases; number needed to harm (NNH) 1800** with daily pantoprazole); recent meta-analyses found no significant difference vs placebo, H2RA, or [[potassium-competitive-acid-blockers|P-CAB]]. Proposed mechanism: enhanced spore survival in a less acidic stomach plus altered colonization resistance.
-- **Gastric neuroendocrine tumors (gNETs) — a separate, oncology-side signal** ([[nccn-2026-net]]). Increasing evidence that long-term PPI therapy raises the risk of gNETs, via sustained hypergastrinemia driving enterochromaffin-like-cell hyperplasia. Two things keep this from being a reason to stop the drug: these lesions have a **much lower propensity to metastasize** than sporadic (type 3) gNETs, and they are routed to endoscopic treatment. What it does change is **interpretation** — a gNET found in a long-term PPI user with high gastrin and **no** gastrinoma is a PPI-associated lesion, not a type 3, and that reassignment changes its management. It also means serum gastrin drawn on a PPI is uninterpretable — the gNET page holds the subtyping protocol with the washout rule and its exception.
-- **No routine monitoring/supplementation** in patients without other risk factors: calcium/vitamin D/BMD; vitamin B12; serum creatinine.
-- **[[anticoagulation-gi-bleeding|Clopidogrel]]:** for LA grade C/D esophagitis or inadequately controlled GERD, benefits outweigh the proposed (highly questionable) cardiovascular risk.
-- **Renal insufficiency:** PPIs may be used with monitoring of renal function / nephrology input.
+> **An adverse-event signal is not a reason to stop the drug ([[aga-2022-ppi-deprescribing]] BPA 10).** All studies reporting PAAEs are **observational** and cannot establish causality — they are especially prone to confounding by indication and protopathic bias. **RCTs comparing PPIs with placebo have not shown a higher rate of any adverse event.** Neither a PAAE, nor a history of one, nor risk factors for one, is an independent indication to withdraw a PPI.
+
+- **Common adverse drug reactions** (clinical trials / FDA labels): headache, abdominal pain, nausea, vomiting, diarrhea, constipation, flatulence — infrequent, abate on stopping; can be preparation-specific → switching PPI is reasonable ([[acg-2021-gerd]]).
+
+| Putative adverse effect | Hazard ratio (HR) or odds ratio (OR), 95% CI |
+|---|---|
+| Cardiovascular events | HR 1.04 (0.93–1.15) |
+| — myocardial infarction (MI) | HR 0.94 (0.79–1.12) |
+| — stroke | HR 1.16 (0.94–1.44) |
+| — cardiovascular death | HR 1.03 (0.89–1.20) |
+| Chronic kidney disease | OR 1.17 (0.94–1.45) |
+| **Enteric infection (other than *C. difficile*)** | **OR 1.33 (1.01–1.75)** |
+| *C. difficile* | OR 2.26 (0.70–7.34) |
+| Pneumonia | OR 1.02 (0.87–1.19) |
+| Dementia | OR 1.20 (0.81–1.78) |
+| Bone fracture | OR 0.96 (0.79–1.17) |
+| Gastric atrophy | OR 0.73 (0.40–1.32) |
+| All-cause mortality | HR 1.03 (0.92–1.15) |
+
+*Putative adverse effects of chronic PPI therapy — the randomized estimates*
+*Data from 17,598 patients aged ≥65 y with stable cardiovascular or peripheral artery disease on rivaroxaban and/or aspirin, randomized to pantoprazole 40 mg daily (n=8,791) or placebo (n=8,807) and followed 3 years, as tabulated in ACG 2021*
+*[[acg-2021-gerd|ACG 2021 Clinical Guideline: Diagnosis and Management of GERD]]*
+*HR = hazard ratio · OR = odds ratio · CI = confidence interval · MI = myocardial infarction · PPI = proton pump inhibitor*
+
+- **Only enteric infection reached significance** — 1.4% vs 1.0% over the trial; number needed to harm (NNH) **>900 per year** of PPI therapy ([[acg-2022-barretts]]). A small increase in the others cannot be fully excluded, but benefits generally far outweigh the theoretical risks.
+- Associations reviewed by the guideline for which that trial reported **no estimate**: [[small-intestinal-bacterial-overgrowth|small intestinal bacterial overgrowth]], [[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis]] in cirrhosis, [[gastric-adenocarcinoma|gastric cancer]], vitamin B12 deficiency, hypomagnesemia, acute interstitial nephritis, and cardiovascular events on clopidogrel.
+- **No routine monitoring or supplementation** in patients without other risk factors: calcium/vitamin D/bone mineral density; vitamin B12; serum creatinine. ACG judged the data insufficient to recommend for or against magnesium monitoring.
+- **[[anticoagulation-gi-bleeding|Clopidogrel]]:** for LA grade C/D esophagitis or GERD not controlled by alternative medical therapy, benefits outweigh the proposed (highly questionable) cardiovascular risk — but the FDA recommends avoiding **omeprazole** specifically with clopidogrel.
+- **Renal insufficiency:** PPIs may be used, with monitoring of renal function or nephrology input.
 - **Pregnancy:** all PPIs FDA category **B except omeprazole** (category C).
+- ***C. difficile* — the decision is binary; dose reduction is not an option** ([[aga-2026-cdiff-adults]], BPA 13). During C. difficile infection (CDI) treatment or recurrence prevention, **evaluate the indication**: legitimate one (ulcer prevention, severe GERD) → **do not discontinue**; none → discuss cessation. Pooled observational recurrent CDI **24% in PPI users vs 18% in nonusers**; recent meta-analyses found no significant difference vs placebo, H2RA, or [[potassium-competitive-acid-blockers|P-CAB]].
+- **Gastric neuroendocrine tumors (gNETs)** ([[nccn-2026-net]]) — long-term PPI use raises gNET risk via sustained hypergastrinemia driving ECL-cell hyperplasia, but is not a reason to stop: these lesions metastasize far less than sporadic (type 3) gNETs and are treated endoscopically. It changes **interpretation** — a gNET in a long-term user with high gastrin and no gastrinoma is PPI-associated, not type 3, and gastrin drawn on a PPI is uninterpretable ([[gastroenteropancreatic-neuroendocrine-tumors]]).
 
 ## PPIs vs P-CABs
-- [[potassium-competitive-acid-blockers|P-CABs]] ([[vonoprazan]]) competitively/reversibly block the H⁺/K⁺-ATPase — **faster, deeper, more sustained** acid suppression (intragastric pH >6 for longer) ([[acg-2024-hp-treatment]]).
-- **CYP2C19-independent** (not subject to metabolizer-status variability).
-- Can be taken **fed or fasted**, unlike PPIs which require premeal dosing.
+- P-CABs ([[vonoprazan]]) competitively and reversibly block the H⁺/K⁺-ATPase — **faster, deeper, more sustained** acid suppression (intragastric pH >6 for longer), **CYP2C19-independent**, and effective **fed or fasted** ([[acg-2024-hp-treatment]]).
 - Superior to PPIs for acid suppression in H. pylori eradication; vonoprazan FDA-approved (2022) in dual and triple regimens.
+- Positioning across GERD, PUD and eradication: [[potassium-competitive-acid-blockers]].
 
 ---
 

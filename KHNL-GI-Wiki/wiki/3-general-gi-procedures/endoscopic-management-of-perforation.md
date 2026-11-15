@@ -3,13 +3,14 @@ title: "Endoscopic Management of GI Perforation"
 category: general-procedure
 tags: [perforation, adverse-events, endoscopic-closure, clips, otsc, ttsc, endoscopic-suturing, sems, endoscopic-vacuum-therapy, ercp, esd, emr, poem]
 created: 2026-09-08
-updated: 2026-11-04
+updated: 2026-11-15
 sources: [aga-2021-gi-perforations-endoscopic-management, asge-2026-ercp-adverse-events, stapfer-2000-duodenal-perforation-ercp]
+quality_reviewed: 2026-11-15
 ---
 
-*What to do at the moment an endoscopist makes a hole — prevention, intraprocedural recognition, and closure, organ by organ. Single home for the size-keyed closure rule; the procedure pages ([[colonoscopy]], [[upper-endoscopy]], [[ercp]], [[polypectomy]], [[poem]]) link here rather than repeating it.*
+*What to do at the moment an endoscopist makes a hole — prevention, recognition, and closure, organ by organ. Single home for the size-keyed closure rule.*
 
-> ⚠ **Evidence quality is low throughout.** All 16 statements in [[aga-2021-gi-perforations-endoscopic-management|American Gastroenterological Association (AGA) 2021]] are **Best Practice Advice (BPA) from expert opinion — no Grading of Recommendations Assessment, Development and Evaluation (GRADE) ratings**. Prospective outcome data on endoscopic therapy of perforations are limited; the literature is retrospective.
+> ⚠ **Evidence quality is low throughout.** All 16 statements in [[aga-2021-gi-perforations-endoscopic-management|American Gastroenterological Association (AGA) 2021]] are **Best Practice Advice (BPA) from expert opinion — no Grading of Recommendations Assessment, Development and Evaluation (GRADE) ratings**; the literature is retrospective.
 
 ## Contents
 - [[#The Two Absolute Surgical Indications]]
@@ -60,10 +61,10 @@ flowchart TD
 ## First-Response Sequence
 
 1. **Inform the staff** — trainees, colleagues, nurses, technicians, anesthesiologists.
-2. **Confirm carbon dioxide (CO₂) insufflation and adjust to low flow** (BPA 3 — CO₂ is encouraged for all endoscopic procedures, and should be used for all of them if available).
-3. **Keep the perforation clean** (BPA 2) — aspirate liquids to prevent spillage of gastrointestinal (GI) contents into the defect; if needed **reposition the patient to bring the defect into a non-dependent location**; **minimize insufflation to avoid compartment syndrome**.
-4. **Give intravenous (IV) antibiotics covering Gram-negative and anaerobic organisms.**
-5. **Determine cause and morphology** → size and site pick the device (below).
+2. **Confirm carbon dioxide (CO₂) insufflation, low flow** (BPA 3 — CO₂ encouraged for all endoscopic procedures, and used for all of them if available).
+3. **Keep the perforation clean** (BPA 2) — aspirate liquids to prevent spillage of gastrointestinal (GI) contents into the defect; **reposition the patient to make the defect non-dependent** if needed; **minimize insufflation to avoid compartment syndrome**.
+4. **Intravenous (IV) antibiotics covering Gram-negative and anaerobic organisms.**
+5. **Determine cause and morphology** → size and site pick the device.
 
 ## Closure Device by Defect Size
 
@@ -72,52 +73,48 @@ flowchart TD
 | Organ | <2 cm | >2 cm | Stent or rescue |
 |---|---|---|---|
 | **Esophagus** (BPA 8) | Through-the-scope clips (TTSC) or over-the-scope clips (OTSC) | Endoscopic suturing | Fully covered self-expanding metal stent (SEMS) **only when primary closure is not possible**; endoscopic vacuum therapy for large or persistent defects and fistulas |
-| **Stomach** (BPA 9) | TTSC or OTSC | Endoscopic suturing, **or** TTSC + endoloop | Omental fat pulled into the lumen and clipped to the defect edges (selected cases) |
-| **Duodenum** (BPA 10, 11) | TTSC, OTSC, band ligation or endoloop — clips close **88%–100%** of defects **<13 mm** | Suturing devices for large defects; **type 1 tear >3 cm → urgent surgical consultation** while feasibility of endoscopic closure is assessed | Fully covered SEMS into the bile duct across the ampulla for **type 2**; enteral SEMS is the last endoscopic resort |
-| **Colon** (BPA 13, 14) | TTSC or OTSC — **only if the bowel preparation is good and the patient is stable** | Endoscopic suturing (needs an upper endoscope — not compatible with colonoscopes) | **Right colon and cecum: TTSC only** |
+| **Stomach** (BPA 9) | TTSC or OTSC — TTSC optimal **<1 cm**, OTSC preferable **1–3 cm** | Endoscopic suturing, **or** TTSC + endoloop (body text: **>3 cm**) | Omental fat pulled into the lumen and clipped to the defect edges (selected cases) |
+| **Duodenum** (BPA 10, 11) | TTSC, OTSC, band ligation or endoloop — clips close **88%–100%** of defects **<13 mm** | Suturing devices; **type 1 tear >3 cm → urgent surgical consultation** while feasibility of closure is assessed | Fully covered SEMS into the bile duct across the ampulla for **type 2**; enteral SEMS is the last endoscopic resort |
+| **Colon** (BPA 13, 14) | TTSC or OTSC — **only if the bowel preparation is good and the patient is stable** | Suturing (needs an upper endoscope — not colonoscope-compatible) | **Right colon and cecum: TTSC only** |
 
-- **Gastric body text refines BPA 9:** TTSC optimal **<1 cm**; OTSC preferable **1–3 cm**; **>3 cm** → endoloop + TTSC, or endoscopic suturing.
-- AGA 2021 gives no defect-size bands for the colon beyond BPA 13 and 14.
-- **For [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]-related perforation, [[asge-2026-ercp-adverse-events|ASGE 2026]] is newer and sizes it differently:** nonampullary luminal defect **~10 mm or less → TTSC**; **larger → OTSC or suturing devices**; **≥30 mm** may still be targeted with suturing or over-the-scope devices where availability, familiarity and expertise are present, though historically these are managed surgically. **Periampullary or intraductal perforation → biliary stent** to seal the defect; if a SEMS is used in a patient with a normal pancreas, consider a **pancreatic duct (PD) stent to prevent post-ERCP pancreatitis (PEP)**. Same source: use CO₂ rather than room air, position the patient to divert luminal contents away from the defect, and consider a nasogastric tube to suction.
-- **Confirm or exclude a suspected ERCP perforation with imaging, preferably computed tomography (CT)** — contrast-enhanced is ideal, but a non-contrast study may be more readily obtained depending on the patient's condition ([[asge-2026-ercp-adverse-events]]).
+AGA 2021 gives no defect-size bands for the colon beyond BPA 13 and 14.
+
+**[[ercp|Endoscopic retrograde cholangiopancreatography (ERCP)]]-related perforation — [[asge-2026-ercp-adverse-events|ASGE 2026]] is newer and sizes it differently:**
+
+- Nonampullary luminal defect **~10 mm or less → TTSC**; **larger → OTSC or suturing devices**; **≥30 mm** may still be targeted with suturing or over-the-scope devices where availability, familiarity and expertise are present, though historically managed surgically.
+- **Periampullary or intraductal perforation → biliary stent** to seal the defect; if a SEMS is used in a patient with a normal pancreas, consider a **pancreatic duct stent to prevent post-ERCP pancreatitis**.
+- **Confirm or exclude with imaging, preferably computed tomography (CT)** — contrast-enhanced is ideal, but a non-contrast study may be more readily obtained depending on the patient's condition. Use CO₂ rather than room air, position to divert luminal contents away from the defect, and consider a nasogastric tube to suction.
 
 ## Procedures That Carry Increased Perforation Risk
 
 Know them before the case, so the consent conversation and team preparation happen up front (BPA 4). BPA 1 requires a **thorough discussion with the patient — preferably with family present — of the procedural techniques and risks**, especially for these:
 
-- Any **dilation**; **foreign body removal** ([[ingested-foreign-body]]); any **per-oral endoscopic myotomy (POEM)** (Zenker's, esophageal, pyloric — [[poem]]); **stricture incision**
-- **Thermal coagulation** for hemostasis or tumor ablation; **percutaneous endoscopic gastrostomy** ([[enteral-access]]); **[[ampullary-adenoma|ampullectomy]]**
-- **[[endoscopic-mucosal-resection|Endoscopic mucosal resection (EMR)]]**, **[[endoscopic-submucosal-dissection|endoscopic submucosal dissection (ESD)]]**, **[[endoscopic-full-thickness-resection|full-thickness endoscopic resection]]**
-- **Endoluminal stenting with SEMS** ([[colonic-stenting]])
+- Any **dilation**; **foreign body removal** ([[ingested-foreign-body]]); any **per-oral endoscopic myotomy (POEM)** (Zenker's, esophageal, pyloric — [[poem]]); **stricture incision**; **thermal coagulation** for hemostasis or tumor ablation; **percutaneous endoscopic gastrostomy** ([[enteral-access]]); **[[ampullary-adenoma|ampullectomy]]**
+- **[[endoscopic-mucosal-resection|Endoscopic mucosal resection (EMR)]]**, **[[endoscopic-submucosal-dissection|endoscopic submucosal dissection (ESD)]]**, **[[endoscopic-full-thickness-resection|full-thickness endoscopic resection]]**, **endoluminal stenting with SEMS** ([[colonic-stenting]])
 - **ERCP in surgically altered anatomy**; **[[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]–guided biliary and pancreatic access**; **EUS-guided cystogastrostomy**; **endoscopic gastroenterostomy using a [[lumen-apposing-metal-stents|lumen-apposing metal stent (LAMS)]]**
 
 ### Perforation Rates by Procedure
 
 | Procedure | Perforation rate |
 |---|---|
-| [[esophageal-dilation\|Esophageal dilation]], simple ring or peptic stricture | **0.09%–2.2%** (higher for caustic or radiation-induced strictures) |
-| [[pneumatic-dilation\|Pneumatic dilation]] for [[achalasia]] | **0.4%–14%** |
+| [[esophageal-dilation\|Esophageal dilation]], simple ring or peptic stricture | **0.09%–2.2%** (higher for caustic or radiation strictures); [[pneumatic-dilation\|pneumatic dilation]] for [[achalasia]] **0.4%–14%** |
 | EMR in [[barretts-esophagus\|Barrett's esophagus]] | **0%–3%** |
 | POEM — delayed barrier failure or leak | **0.2%–1.1%** |
-| [[eosinophilic-esophagitis\|Eosinophilic esophagitis]], any cause (14-year cohort) | **2.0%** (10/511) |
-| Gastric ESD | **3.02%** (512/16,941) — **98% (506/512) recovered without surgery** |
-| Gastric EMR or ESD — delayed perforation | **0.4%–0.7%** |
-| ERCP | **<1%**, mortality **7.8%–9.9%** (AGA 2021); **0.5%** all-comers and **0.6%** first-time ([[asge-2026-ercp-adverse-events]]) |
-| [[colonoscopy]] with [[polypectomy]] | **0.8 per 1000** |
-| EMR of large colon polyps | **1.5%** (96/6595) |
-| Stricture dilation in [[crohns-disease\|Crohn's disease]] | **3%** |
-| Colorectal SEMS | **7.4%** overall, **20.4%** after post-stent dilation (meta-analysis, 4086 patients) — stent-specific rates and risk factors on [[colonic-stenting]] |
+| Gastric ESD | **3.02%** (512/16,941) — **98% recovered without surgery**; delayed perforation **0.4%–0.7%** |
+| ERCP | **<1%**, mortality **7.8%–9.9%** (AGA 2021); **0.5%** all-comers ([[asge-2026-ercp-adverse-events]]) |
+| [[colonoscopy]] with [[polypectomy]] | **0.8 per 1000**; EMR of large colon polyps **1.5%** (96/6595); stricture dilation in [[crohns-disease\|Crohn's disease]] **3%** |
+| Colorectal SEMS | **7.4%** overall, **20.4%** after post-stent dilation (4086 patients) — detail on [[colonic-stenting]] |
 
 ## Technique
 
-- **Through-the-scope clips.** Place the first clip at **the end of the defect distal to the endoscope**, to preserve the view of the remainder. **Apply suction before placing each clip** for tighter approximation.
-- **Over-the-scope clips.** Mounting one increases scope tip diameter to **16.5–21 mm** and the cap edges are not smooth — introduce **gently** through the hypopharynx, especially after head-and-neck surgery or cervical radiation. The **Twin Grasper** (two independently opening jaws) grabs one edge, pulls it across, then grasps the opposing edge; pull both into the suction cap, apply suction, then fire. An OTSC may inadvertently capture adjacent organs or vessels beyond the GI wall.
+- **Through-the-scope clips.** First clip at **the end of the defect distal to the endoscope**, to preserve the view of the remainder. **Apply suction before placing each clip** for tighter approximation.
+- **Over-the-scope clips.** Mounting one increases scope tip diameter to **16.5–21 mm**; cap edges are not smooth — introduce **gently** through the hypopharynx, especially after head-and-neck surgery or cervical radiation. **Twin Grasper** (two independently opening jaws): grab one edge, pull it across, grasp the opposing edge, pull both into the suction cap, apply suction, then fire. May inadvertently capture adjacent organs or vessels beyond the GI wall.
 - **Endoloop + clips.** TTSCs placed at equal distance fix a detachable snare around the defect; tighten the snare. Needs a double-channel scope.
 - **Endoscopic suturing.** Obtains **full-thickness purchases** — arguably superior for large defects.
-- **Through-the-scope tacking.** Suture-tethered tacks are placed into healthy tissue adjacent to the defect and cinched together, allowing deep submucosal and intramuscular fixation and closure of large or irregular colonic and small-bowel defects through a standard gastroscope or colonoscope. **No human studies had been reported** at the time of the update.
-- **Fully covered SEMS.** Diameter **slightly wider than the native esophagus** — seal the defect without expanding it. **Secure the proximal end** by endosuturing or a stent-fixing device to prevent migration — essential in fistula, where there is no stricture to hold the stent. **Uncovered SEMS should be avoided.**
-- **Endoscopic vacuum therapy.** Polyurethane sponge, cut and shaped for the defect, on a nasogastric tube. Review of 11 studies, 210 patients: **90% healing for anastomotic leaks, 96% closure for esophageal perforations**; median therapy duration **17 days**, median follow-up 235 days.
-- Perform lengthy procedures under **general anesthesia**.
+- **Through-the-scope tacking.** Suture-tethered tacks placed into healthy tissue beside the defect, then cinched — deep submucosal and intramuscular fixation of large or irregular colonic and small-bowel defects through a standard gastroscope or colonoscope. **No human studies** at the time of the update.
+- **Fully covered SEMS.** Diameter **slightly wider than the native esophagus** — seal the defect without expanding it. **Secure the proximal end** by endosuturing or a stent-fixing device to prevent migration — essential in fistula, where no stricture holds the stent. **Uncovered SEMS should be avoided.**
+- **Endoscopic vacuum therapy.** Polyurethane sponge, cut to shape, on a nasogastric tube. 11 studies, 210 patients: **90% healing for anastomotic leaks, 96% closure for esophageal perforations**; median therapy **17 days**.
+- Lengthy procedures → **general anesthesia**.
 
 > [!pitfall] An over-the-scope clip gives you one attempt
 > Aim precisely. The **remOVE** cutting device can remove a deployed OTSC but has a **10–15 minute warm-up**, so re-deploying after a misfire costs significant time ([[aga-2021-gi-perforations-endoscopic-management]]).
@@ -125,16 +122,10 @@ Know them before the case, so the consent conversation and team preparation happ
 ## Esophagus
 
 - **Non-iatrogenic causes:** caustic ingestion, sharp penetrating foreign bodies (e.g. fishbone), Boerhaave syndrome. **Iatrogenic:** dilation, EMR, ESD.
-- **Risk factors in eosinophilic esophagitis:** **history of food impaction** (odds ratio [OR] 14.9, 95% confidence interval [CI] 1.7–129.2) and **a focal stricture** (OR 4.6, 95% CI 1.1–19.7). In a systematic review of 76 perforations in 70 patients most were **non-iatrogenic**; 25/76 needed surgery, 10 a stent, 2 clips.
-- **OTSC performance:** systematic-review clinical success **85.3% (399/468)**; failure driven by **defects >2 cm** and **closure attempted >72 hours** after perforation.
-- **POEM.** Small intraprocedural mucosal-flap perforations are common and usually inconsequential → TTSC. Rare large flap injuries with devitalized edges → TTSC, suturing, fibrin glue injection and/or stenting; emergency esophagectomy has been reported for severe perforation. The dangerous complication is **delayed barrier failure** → leak, mediastinitis, peritonitis.
-  - **Prevention during tunneling:** control energy delivery from the knife tip at all times; maintain orientation in the tunnel (avoid spiraling); avoid excessive forward force tearing the mucosotomy; avoid "counter-coup" flipping of the knife during myotomy.
-  - **Stenting after POEM is discouraged** — stent erosion through the myotomy, high migration rate, inadequate seal at the patulous post-POEM esophagogastric junction.
-  - ⚠ *Tunnel orientation: AGA 2021 preferred posterior, since 3 of 4 randomized controlled trials and a meta-analysis of all 4 found more mucosal injuries with anterior POEM. The newer AGA 2024 update finds the two equivalent — see [[poem]], which governs.*
+- **Risk factors in [[eosinophilic-esophagitis|eosinophilic esophagitis]]:** **history of food impaction** (odds ratio [OR] 14.9, 95% confidence interval [CI] 1.7–129.2) and **a focal stricture** (OR 4.6, 95% CI 1.1–19.7); most perforations in this group are **non-iatrogenic**.
+- **Primary closure is the goal** — a fully covered SEMS only diverts flow and lets the defect heal by secondary intention, a longer and more drawn-out course. **OTSC** clinical success **85.3% (399/468)**; failure driven by **defects >2 cm** and **closure attempted >72 hours** after perforation.
+- **POEM.** Small intraprocedural mucosal-flap perforations are common and usually inconsequential → TTSC. Rare large flap injuries with devitalized edges → TTSC, suturing, fibrin glue injection and/or stenting; emergency esophagectomy has been reported for severe perforation. The dangerous complication is **delayed barrier failure** → leak, mediastinitis, peritonitis. **Stenting after POEM is discouraged** — erosion through the myotomy, high migration rate, inadequate seal at the patulous post-POEM esophagogastric junction. *Tunnel technique and orientation: [[poem]] — AGA 2021 preferred posterior (more mucosal injuries with anterior in 3 of 4 randomized controlled trials), but the newer AGA 2024 update finds the two equivalent and governs.*
 - **Esophagectomy leaks** (within days of operation): attempt primary closure with TTSC, OTSC or endosuturing, **plus** a fully covered stent. **Esophageal fistula:** clips or endosuturing alone are usually ineffective → fully covered stent with a snug fit.
-
-> [!pearl] Primary closure first — a stent is the second-best option
-> Primary closure gives the best chance of resolution. Where it is impossible, or visibility is poor from bleeding, a fully covered SEMS diverts flow and lets the defect heal by secondary intention — a longer, more drawn-out course ([[aga-2021-gi-perforations-endoscopic-management]]).
 
 ## Stomach
 
@@ -154,46 +145,45 @@ Know them before the case, so the consent conversation and team preparation happ
 
 ### Stapfer Classification of Post-ERCP Duodenal Perforation
 
-**Mechanism and anatomic location together define the type, and the type predicts the need for surgery** — in descending order of severity ([[stapfer-2000-duodenal-perforation-ercp]]). The wiki uses the paper's own roman numerals; AGA 2021 writes the same first two entities as "type 1" and "type 2".
+**Mechanism and anatomic location together define the type, and the type predicts the need for surgery** — descending severity ([[stapfer-2000-duodenal-perforation-ercp]]). The wiki uses the paper's roman numerals; AGA 2021 writes the first two as "type 1" and "type 2".
 
 | Type | Location | Mechanism | Character | Management in the derivation series |
 |---|---|---|---|---|
-| **I** | Lateral or **medial duodenal wall** | The **endoscope** (shaft or tip) | Large, **remote from the ampulla**; persistent retro- or intraperitoneal leak | **Immediate surgery for all** |
-| **II** | **Peri-Vaterian** (periampullary, retroperitoneal) | **Sphincterotomy** extended beyond the intraduodenal ampulla | Variable but usually **discrete**; 43% needed surgery | Nonsurgical **only if** an early contrast study shows minimal extravasation or a sealed perforation **and no fluid collection** |
-| **III** | **Distal bile duct** | **Guidewire or basket** near an obstructing entity (e.g. a stone) | Often **small** | Same condition as type II |
-| **IV** | **Retroperitoneal air alone** | Probably **compressed air** used to keep the lumen patent | **Not a true perforation** | **No treatment or workup**, provided the abdominal examination is normal and no extravasation was seen at ERCP |
+| **I** | Lateral or **medial duodenal wall** | The **endoscope** (shaft or tip) | Large, **remote from the ampulla**; persistent leak | **Immediate surgery for all** |
+| **II** | **Peri-Vaterian** (periampullary, retroperitoneal) | **Sphincterotomy** beyond the intraduodenal ampulla | Usually **discrete**; 43% needed surgery | Nonsurgical **only if** an early contrast study shows minimal extravasation or a sealed perforation **and no fluid collection** |
+| **III** | **Distal bile duct** | **Guidewire or basket** near an obstructing stone | Often **small** | As type II |
+| **IV** | **Retroperitoneal air alone** | Probably **compressed air** keeping the lumen patent | **Not a true perforation** | **None**, if the abdominal examination is normal and no extravasation was seen at ERCP |
 
-- Nonsurgical management succeeded in **5 of 8 patients (62%)** with type II or III lesions.
-- **Types II, III or IV with retained stones and unrelieved biliary obstruction, or with retained foreign bodies, should still be explored** even when no other indication is present.
+- Nonsurgical management succeeded in **5 of 8 (62%)** type II/III lesions; the **3 of 8 (38%)** that failed needed a mean of **3.6** reoperations each and a median stay of **111 days**, against **17 days** for nonsurgical success and **14 days** for primary surgery.
+- **Types II, III or IV with retained stones and unrelieved biliary obstruction, or retained foreign bodies, should still be explored** even with no other indication.
 
-**Surgical indications — any one of five** ([[stapfer-2000-duodenal-perforation-ercp]]):
+**Surgical indications — any one of five:**
 
-1. **Large contrast extravasation at ERCP** — contrast **still present after 1 minute** on follow-up plain film. If the leak is **minimal** (contrast **completely dissipates within 60 seconds**), obtain a water-soluble upper gastrointestinal contrast study (UGI) at **2–8 h**; **extravasation on that study → explore.**
+1. **Large contrast extravasation at ERCP** — contrast **still present after 1 minute** on follow-up plain film. **Minimal** leak (contrast **gone within 60 seconds**) → water-soluble upper gastrointestinal contrast study (UGI) at **2–8 h**; **extravasation there → explore.**
 2. **Follow-up CT showing a retroperitoneal or peritoneal fluid collection** consistent with perforation — **not** with pancreatitis.
-3. **Perforation with cholelithiasis, choledocholithiasis, or retained hardware** (stones, basket, wire).
+3. **Cholelithiasis, choledocholithiasis, or retained hardware** (stones, basket, wire).
 4. **Massive subcutaneous emphysema** after ERCP with what looked endoscopically like a **large duodenal diverticulum**.
 5. **Failure of nonsurgical management.**
 
-**Surveillance if managed nonsurgically:** repeat the **UGI within 8 h**; **double-contrast CT at 8 h and 48 h** to confirm the leak stays sealed and exclude a developing collection; repeat until recovery is certain. The decision not to operate is **dynamic** — reassess on any untoward development. Failure is costly: **3 of 8 (38%)** failed, needing a mean of **3.6** reoperations each, with a median length of stay of **111 days** and one death, against medians of **17 days** for nonsurgical success and **14 days** for primary surgery. Antibiotics plus nasogastric suction alone "produced no significant improvement and possibly delayed definitive management" in 2 of the 3 failures.
+**Surveillance if managed nonsurgically:** repeat **UGI within 8 h**; **double-contrast CT at 8 h and 48 h**, repeated until recovery is certain. The decision not to operate is **dynamic**.
 
 > [!pitfall] A benign abdomen does not exclude surgery
-> These injuries are retroperitoneal. **Abdominal examination is unhelpful in the first few hours** (71% had only mild tenderness), and **fever and leukocytosis alone are not an indication for surgery** (leukocytosis was present in 9 of 10 patients tested, regardless of outcome). *Early* peritonitis should dictate surgery; peritonitis appearing late marked a poor outcome. And **3 of the 14 perforations (21%) were mistaken at ERCP for a duodenal diverticulum** ([[stapfer-2000-duodenal-perforation-ercp]]).
+> These injuries are retroperitoneal. **Abdominal examination is unhelpful in the first few hours** (71% had only mild tenderness) and **fever and leukocytosis alone are not an indication for surgery** (leukocytosis in 9 of 10 patients tested, regardless of outcome). *Early* peritonitis should dictate surgery; late peritonitis marked a poor outcome. **3 of the 14 perforations (21%) were mistaken at ERCP for a duodenal diverticulum** ([[stapfer-2000-duodenal-perforation-ercp]]).
 
-⚠ The classification rests on a **single-center retrospective series of 14 patients from the 1990s that predates every modern closure device**; the endoscopic options below are newer and govern management.
+⚠ The classification rests on a **single-center retrospective series of 14 patients from the 1990s, predating every modern closure device**; the endoscopic options below are newer and govern management.
 
 ### Type 1 — Lateral Duodenal Wall Tear
 
-- Excessive shearing force or angle-related trauma from the **shaft or tip of the duodenoscope** → intraperitoneal or retroperitoneal leakage. Most often during scope advancement where the shaft presses on the duodenal wall or a periampullary diverticulum, or on forceful retraction during difficult stone extraction. Often **>3 cm**.
+- Most often on scope advancement, where the shaft presses on the duodenal wall or a periampullary diverticulum, or on forceful retraction during difficult stone extraction. Often **>3 cm**.
 - **Presentation:** sudden bleeding, lumen deflation, difficulty maintaining insufflation.
-- **Usually requires surgery** unless early endoscopic closure succeeds; **>3 cm → urgent surgical consultation** while feasibility of endoscopic closure is assessed (BPA 10). Where endoscopic closure succeeds, **>90%** recover clinically without surgery.
-- Enteral SEMS is the last endoscopic resort — ⚠ **covered duodenal stents were not available in the US** as of 2021; fully covered through-the-scope esophageal stents have been used with proximal suturing to prevent migration.
+- **Usually requires surgery** unless early endoscopic closure succeeds; **>3 cm → urgent surgical consultation** while feasibility is assessed (BPA 10). Where closure succeeds, **>90%** recover without surgery.
+- Enteral SEMS is the last resort — ⚠ **covered duodenal stents were not available in the US** as of 2021; fully covered through-the-scope esophageal stents have been used, sutured proximally.
 
 ### Type 2 — Periampullary (Retroperitoneal)
 
-- Caused by **overextension of a sphincterotomy beyond the intraduodenal portion of the ampulla**.
-- **Closure:** TTSCs if feasible, and/or a **fully covered SEMS into the bile duct across the ampulla** — likely to seal the defect with high clinical success.
-- **Course:** patients declare within **24–48 h** whether they need surgery (worsening abdominal pain or systemic inflammatory response). If improving, at **2–4 days** obtain a water-soluble upper GI series or CT with oral contrast to confirm no extravasation before starting clear liquids.
-- ⚠ **Asymptomatic retroperitoneal air after ERCP may need no intervention** — **14% (7/50)** of post-ERCP patients had CT retroperitoneal air with uneventful recovery. But type 2 perforations can still lead to retroperitoneal abscess, peritonitis, and death.
+- **Closure:** TTSCs if feasible, and/or a **fully covered SEMS into the bile duct across the ampulla**.
+- **Course:** patients declare within **24–48 h** (worsening abdominal pain or systemic inflammatory response). If improving, at **2–4 days** a water-soluble upper GI series or CT with oral contrast confirms no extravasation before clear liquids.
+- ⚠ **Asymptomatic retroperitoneal air after ERCP may need no intervention** — **14% (7/50)** had CT retroperitoneal air with uneventful recovery. But type 2 can still cause retroperitoneal abscess, peritonitis and death.
 
 > [!pitfall] Type 2 perforations are subtle and easily missed
 > Carefully assess the **fluoroscopic gas pattern under the liver or around the right kidney**, and **request a CT scan** if concerned — delay in treatment is the harm (BPA 11).
@@ -214,18 +204,7 @@ Know them before the case, so the consent conversation and team preparation happ
 ## Colon
 
 - **Non-iatrogenic causes:** [[diverticulitis]], [[inflammatory-bowel-disease|inflammatory bowel disease]], rarely colonic obstruction. **Iatrogenic:** endoscopic resection, hot forceps biopsy, stricture dilation (Crohn's, radiation), [[colonic-stenting|colonic stenting]], and **forceful scope advancement** across angulations, into diverticula, or without scope straightening.
-- **Site distribution** (systematic review, 19 studies, 744 colon perforations) — **the sigmoid dominates because of direct trauma from forceful scope advancement** (BPA 13):
-
-| Site | Share |
-|---|---|
-| **Sigmoid** | **63.8%** (310) |
-| Cecum | 10% (49) |
-| Transverse | 9% (44) |
-| Rectum | 7% (34) |
-| Ascending | 5.6% (27) |
-| Descending | 4.4% (21) |
-| Hepatic flexure | 0.2% (1) |
-
+- **Site distribution** (systematic review, 19 studies, 744 perforations) — **the sigmoid dominates because of direct trauma from forceful scope advancement** (BPA 13): sigmoid **63.8%** (310) › cecum 10% (49) › transverse 9% (44) › rectum 7% (34) › ascending 5.6% (27) › descending 4.4% (21) › hepatic flexure 0.2% (1).
 - **Management:** intraprocedural perforation in a **stable** patient with a **clean** site and **no spillage** → attempt endoscopic closure. A **rectal** perforation gives the most time and space for TTSC, OTSC or suturing. In the systematic review, endoscopic clipping was used in **114 cases (15.4%)** and conservative management in **71 (9.1%)**; the remainder were surgical.
 - **Cecum / tortuous or unclean colon → TTSC only** (BPA 14): withdrawing the colonoscope to fit an OTSC may be difficult and dangerous, and a suturing device may not reach.
 - **Large sigmoid tears from blunt scope trauma** (lumen collapse, bleeding, inability to keep the lumen insufflated), hemodynamic instability, or delayed perforation with peritoneal signs → **surgery** (BPA 15).
@@ -239,12 +218,9 @@ Know them before the case, so the consent conversation and team preparation happ
 
 ## Aftercare and Documentation
 
-**All upper GI perforations** (BPA 6) — consider admission for observation, plus:
-
-- **IV fluids**, **nothing by mouth**, **broad-spectrum antibiotics** (Gram-negative and anaerobic coverage), **nasogastric tube** (with some exceptions), and **surgical consultation**.
-- **Before starting clear liquids**, consider a **water-soluble upper GI series** to confirm the absence of a continuing leak at the perforation site (BPA 7).
-
-**Documentation (BPA 16)** — in any adverse event including perforation it is paramount to ensure **accurate documentation**, **prompt discussion with the patient and family**, and **swift reporting to the institution's quality officer (or equivalent) and risk management team** (in major adverse events).
+- **All upper GI perforations** (BPA 6) — consider admission for observation, plus **IV fluids**, **nothing by mouth**, **broad-spectrum antibiotics** (Gram-negative and anaerobic coverage), **nasogastric tube** (with some exceptions), and **surgical consultation**.
+- **Before clear liquids**, consider a **water-soluble upper GI series** to confirm there is no continuing leak at the perforation site (BPA 7).
+- **Documentation (BPA 16)** — **accurate documentation**, **prompt discussion with the patient and family**, and **swift reporting to the institution's quality officer (or equivalent) and risk management team** (in major adverse events).
 
 ---
 
