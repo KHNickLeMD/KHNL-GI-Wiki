@@ -40,7 +40,7 @@ Primary sclerosing cholangitis (PSC) is a chronic, cholestatic liver disease lik
 4. Normal MRCP → liver biopsy (to exclude small-duct PSC)
 5. [[ercp|Endoscopic retrograde cholangiopancreatography (ERCP)]] should be avoided for diagnosis ([[aasld-2022-psc]] GS 3)
 
-**Key caveat:** A normal MRCP does not exclude PSC — 30% false-negative rate even with high pretest probability ([[aasld-2022-psc]]).
+**Key caveat:** A negative MRCP does not exclude PSC — with a **high pretest probability, a 30% probability of PSC remains** even when the MRCP is negative. A suboptimal or equivocal study should be repeated, preferably at an experienced imaging center using 3D MRCP reconstruction ([[aasld-2022-psc]]).
 
 ### Severity Assessment
 

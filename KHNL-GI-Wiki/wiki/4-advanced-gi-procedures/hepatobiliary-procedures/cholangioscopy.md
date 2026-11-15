@@ -38,14 +38,8 @@ Malignant strictures take one of **three cholangioscopic morphologies** — know
 
 Benign strictures lack these features.
 
-**Adjunctive [[confocal-laser-endomicroscopy|probe-based confocal laser endomicroscopy (pCLE)]] — what each classification actually calls:**
+**Adjunctive [[confocal-laser-endomicroscopy|probe-based confocal laser endomicroscopy (pCLE)]]** — the Miami and Paris criteria and the pooled performance figures live on that page.
 
-| System | Criteria |
-|---|---|
-| **Miami** (consensus; benign vs malignant) | *Malignant:* **thick dark bands** of collagen fibrils; **thickened white bands** within the vessels. ⚠ Limitation: **low interobserver agreement** |
-| **Paris** (refinement; defines the *benign inflammatory* stricture) | **Vascular congestion**, **dark granular patterns with scales**, **increased interglandular space**, **thickened reticular structures** |
-
-- Pooled pCLE performance: **sensitivity 90% (95% confidence interval [CI] 86–94), specificity 72% (65–79)**; best application is its **negative predictive value (NPV) ~94%** for malignancy.
 - ASGE panel position: pCLE is **difficult to master and expensive** — widespread adoption unlikely in the near future. ([[asge-2023-indeterminate-biliary-strictures]])
 
 ---

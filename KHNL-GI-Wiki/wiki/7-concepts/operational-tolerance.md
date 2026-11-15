@@ -3,53 +3,71 @@ title: "Operational Tolerance (Transplant)"
 category: concept
 tags: [operational-tolerance, immunosuppression, liver-transplant, is-withdrawal, tolerance]
 created: 2026-05-19
-updated: 2026-09-06
+updated: 2026-11-15
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
+quality_reviewed: 2026-11-15
 ---
+
+## Contents
+- [[#Definition]]
+- [[#Why the Liver Is More Tolerant]]
+- [[#Frequency, Timing, and Predictors]]
+- [[#Candidate Selection]]
+- [[#Guideline Recommendations]]
 
 ## Definition
 
-Survival and functioning of the transplanted allograft **in the absence of immunosuppression**, usually **for more than a year** — arising either spontaneously (non-adherence, or on medical advice because of a serious malignancy or infection) or through a deliberate withdrawal protocol ([[aasld-ast-2025-liver-transplant-graft-complications]]). The liver is more immune-tolerant than other solid organ allografts because it clears blood-borne pathogens and processes gut-derived food-borne antigens, so the chance of operational tolerance is higher after [[liver-transplantation|liver transplantation (LT)]] than after other solid organ transplants.
+- Survival and functioning of the allograft **in the absence of immunosuppression (IS)**, usually for **more than a year** ([[aasld-ast-2025-liver-transplant-graft-complications]]).
+- Occurs either **spontaneously** — through non-adherence — or **on medical advice**, when IS is stopped because of a serious malignancy or infection.
+- Rare: a very small number of [[liver-transplantation|liver transplant (LT)]] recipients develop it; most receive IS for the life of the allograft ([[aasld-2012-liver-transplant-long-term]]).
 
-> **Do not confuse with calcineurin inhibitor (CNI) withdrawal.** Reducing or withdrawing **[[calcineurin-inhibitors|CNI]]-based** immunosuppression is a *different, routine* maneuver — a renal-sparing switch (typically to sirolimus/everolimus ± mycophenolate, or steroids + mycophenolate/[[thiopurines|azathioprine]]) and a **Grade 1, Level A** response to chronic kidney disease (CKD) in LT recipients ([[aasld-2012-liver-transplant-long-term]], Rec 29). Renal function is more likely to be preserved if CNI withdrawal is started while **estimated glomerular filtration rate (eGFR) is 40–50 mL/min/1.73 m²**. Operational tolerance means **all** immunosuppression stopped, and is not routinely recommended.
+> [!pitfall] Not the same as calcineurin inhibitor withdrawal
+> Reducing or withdrawing **[[calcineurin-inhibitors|calcineurin inhibitor (CNI)]]**-based IS is a *routine* renal-sparing maneuver and a **grade 1, level A** response to chronic kidney disease (CKD) after LT — sirolimus or everolimus ± mycophenolate, or steroids + mycophenolate/[[thiopurines|azathioprine]]; renal function is more likely preserved if CNI withdrawal starts while the estimated glomerular filtration rate (eGFR) is **40–50 mL/min/1.73 m²** ([[aasld-2012-liver-transplant-long-term]], Rec 29). Operational tolerance means **all** IS stopped — a different thing, and not routinely recommended.
 
-## Prevalence and Predictors
+## Why the Liver Is More Tolerant
+
+- The liver clears blood-borne pathogens and processes gut-derived food-borne antigens, so it is more immune-tolerant than other solid organ allografts → the chance of operational tolerance is **higher after LT than after any other solid organ transplant** ([[aasld-ast-2025-liver-transplant-graft-complications]]).
+- The graft becomes partially tolerant of immune-mediated injury, so the IS requirement **declines after the first 90 days** — a decline in requirement, not freedom from it ([[aasld-2012-liver-transplant-long-term]]).
+
+## Frequency, Timing, and Predictors
 
 Per [[aasld-ast-2025-liver-transplant-graft-complications]]:
 
-| Datum | Value |
+| Datum | Value | Population |
+|---|---|---|
+| Likelihood of operational tolerance | **+7% per year** after LT (95% confidence interval [CI] 4–10%) | meta-analysis of 15 studies, n=620 |
+| Tolerate complete IS withdrawal | **>40%** | *highly selected* recipients, prospective clinical trials |
+| Timing of withdrawal in those trials | mean **10.2 years** after LT | adults |
+| Early withdrawal, within **1–2 years** post-LT | possible in only a very small group | LT recipients |
+
+- **No specific, reliable biomarker identifies the ideal candidate.** Clinical, molecular, cellular and histological markers from peripheral blood and the allograft have been described, but most are **not prospectively validated**.
+- Severity of clinically silent allograft damage correlates **positively** with T-cell–mediated rejection (TCMR)-related transcripts, class II donor-specific antibodies (DSA), alanine aminotransferase (ALT), aspartate aminotransferase (AST) and [[liver-stiffness-measurement|liver stiffness measurement]], and **negatively** with serum creatinine and [[tacrolimus]] trough levels — suggesting ALT, class II DSA and liver stiffness may be tools to identify possible candidates.
+- **Evidence caveat:** long-term safety studies of withdrawal regimens are inconclusive and mostly lack histology; most trials excluded viral hepatitis and autoimmune liver disease, and were performed in **pediatric** rather than adult populations.
+
+## Candidate Selection
+
+Withdrawal should not be undertaken except in a **closely monitored, highly selected** group of long-term LT recipients ([[aasld-ast-2025-liver-transplant-graft-complications]]).
+
+| Feature | Why it counts against withdrawal |
 |---|---|
-| Likelihood of tolerance per year post-LT | **+7% per year** (95% confidence interval [CI] 4–10%); meta-analysis of 15 studies, n=620 |
-| Proportion tolerating complete immunosuppression (IS) withdrawal | **>40%** of *highly selected* recipients |
-| Timing at which that was achieved | mean **10.2 years** after LT (adults, prospective trials) |
-| Early withdrawal (within **1–2 years** post-LT) | possible in only a very small group |
+| History of rejection | Less likely to be withdrawn safely from IS |
+| Autoimmune liver disease — e.g. [[autoimmune-hepatitis\|autoimmune hepatitis]], [[primary-biliary-cholangitis\|primary biliary cholangitis]], [[primary-sclerosing-cholangitis\|primary sclerosing cholangitis]] | Less likely to be withdrawn safely; also excluded from most withdrawal trials |
+| Inflammation, fibrosis, or **piecemeal necrosis** on histology | Excluded from previous withdrawal studies |
+| Elevated DSA — see [[antibody-mediated-rejection-liver-transplant\|antibody-mediated rejection]] | Excluded from previous withdrawal studies |
+| Viral hepatitis | Excluded from most withdrawal trials, so the evidence does not cover these recipients |
 
-- No reliable biomarkers currently identify ideal candidates; alanine aminotransferase (ALT), class II donor-specific antibodies (DSA), and [[liver-stiffness-measurement|liver stiffness measurement]] show promise but are **not prospectively validated**.
-- Patients with **autoimmune liver disease** and those with a **history of rejection** are less likely to be withdrawn safely.
-- **Evidence caveat:** long-term safety data are inconclusive and mostly lack histology; most trials **excluded viral hepatitis and autoimmune liver disease** and were done in **pediatric** rather than adult populations — so the ">40%" figure does not generalize.
+> [!pearl] Biopsy before considering withdrawal
+> Inflammation, fibrosis, piecemeal necrosis and elevated DSA were exclusions in previous withdrawal studies, so performing a [[liver-biopsy|liver biopsy]] before considering withdrawal appears prudent ([[aasld-ast-2025-liver-transplant-graft-complications]]).
 
-## Current Guideline Recommendation
+- Protocol liver biopsy is **not** recommended in routine stable recipients, but biopsy **may be used before minimization of IS** ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 34, Strong, Level 4).
+- Routine transient elastography to monitor allograft health **cannot be recommended** (Rec 35, Weak, Level 3).
 
-**Complete IS withdrawal is not routinely recommended**, given the lack of reliable predictors of withdrawal success and limited data in a very select group of long-term adult recipients ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 36, Strong, Level 4).
+## Guideline Recommendations
 
-Per [[aasld-2012-liver-transplant-long-term]] (Rec 9, **Grade 2, Level C**): *"Although the long-term withdrawal of all immunosuppression can be achieved in a small number of patients, this should be undertaken only with select recipients and under close supervision."* The two guidelines agree; the 2025 statement is the newer and stronger of the two and governs.
-
-**Features that exclude a candidate.** Prior withdrawal studies excluded these, so they define who is *not* a candidate ([[aasld-ast-2025-liver-transplant-graft-complications]]):
-
-| Feature | Basis |
-|---|---|
-| History of rejection | Less likely to be withdrawn safely |
-| Autoimmune liver disease — [[autoimmune-hepatitis\|autoimmune hepatitis (AIH)]], [[primary-biliary-cholangitis\|primary biliary cholangitis (PBC)]], [[primary-sclerosing-cholangitis\|primary sclerosing cholangitis (PSC)]] | Less likely to be withdrawn safely; also excluded from most trials |
-| Inflammation, fibrosis, or **piecemeal necrosis** on pre-attempt histology | Excluded from prior withdrawal studies |
-| Elevated **donor-specific antibodies** — see [[antibody-mediated-rejection-liver-transplant\|antibody-mediated rejection (AMR)]] | Excluded from prior withdrawal studies |
-
-## Practical Approach
-
-- A [[liver-biopsy|liver biopsy]] **before** consideration of withdrawal appears prudent — it is the only way to exclude the histologic features above, which lab parameters do not predict.
-- Withdrawal only in a **closely monitored, highly selected** group of long-term LT recipients; prefer enrolment in a prospective trial over unmonitored withdrawal.
-- Severity of clinically silent allograft damage correlates **positively** with T-cell–mediated rejection (TCMR)-related transcripts, class II DSA, ALT, aspartate aminotransferase (AST), and liver stiffness, and **negatively** with serum creatinine and [[tacrolimus]] trough levels — which is why ALT, class II DSA, and liver stiffness are the candidate screening tools ([[aasld-ast-2025-liver-transplant-graft-complications]]).
-
-> Neither guideline gives a biopsy interval, an ALT/DSA threshold, or a taper schedule for a withdrawal attempt; anyone attempting withdrawal outside a trial is operating without a guideline protocol.
+- **Complete IS withdrawal is not routinely recommended**, given the lack of reliable predictors of withdrawal success and limited data in a very select group of long-term adult recipients ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 36, Strong, Level 4).
+- [[aasld-2012-liver-transplant-long-term]], Rec 9 (grade 2, level C): *"Although the long-term withdrawal of all immunosuppression can be achieved in a small number of patients, this should be undertaken only with select recipients and under close supervision."*
+- The two guidelines agree; the 2025 statement is the newer and stronger of the two and governs.
+- Neither guideline specifies a taper schedule, a monitoring interval, or an ALT or DSA threshold for a withdrawal attempt.
 
 ## See Also
 
