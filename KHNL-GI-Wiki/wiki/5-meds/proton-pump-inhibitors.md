@@ -11,24 +11,21 @@ Proton pump inhibitors (PPIs) are the drug class that inhibits the gastric H⁺/
 
 ## Contents
 - [[#Mechanism]]
-- [[#Agents in Class & Relative Potency]]
-- [[#Dosing & Administration]]
-- [[#Indications & Regimens]]
-  - [[#GERD / Erosive Esophagitis]]
+- [[#Agents and Relative Potency]]
+- [[#Dosing and Administration]]
+- [[#Indications and Regimens]]
+  - [[#GERD and Erosive Esophagitis]]
   - [[#Barrett's Esophagus]]
   - [[#Eosinophilic Esophagitis]]
   - [[#H. pylori Eradication]]
-  - [[#Peptic Ulcer Disease / Ulcer Bleeding]]
-- [[#On-Demand, Step-Down & Deprescribing]]
-  - [[#The governing principle]]
-  - [[#Is there an indication? (BPA 2)]]
-  - [[#Do not de-prescribe these patients (BPA 4, 5, 7)]]
-  - [[#Step down the dose first (BPA 3)]]
-  - [[#Taper or stop abruptly — either is acceptable (BPA 9)]]
-  - [[#Rebound acid hypersecretion (BPA 8)]]
-  - [[#Other options]]
+  - [[#Peptic Ulcer Disease and Ulcer Bleeding]]
+- [[#De-Prescribing and Step-Down]]
+  - [[#Indications for Chronic Use]]
+  - [[#Do Not De-Prescribe]]
+  - [[#Stepping Down and Stopping]]
+  - [[#After Stopping]]
 - [[#PPI-Refractory Symptoms]]
-- [[#Safety / Adverse Effects]]
+- [[#Safety and Adverse Effects]]
 - [[#PPIs vs P-CABs]]
 - [[#See Also]]
 - [[#Sources]]
@@ -38,7 +35,7 @@ Proton pump inhibitors (PPIs) are the drug class that inhibits the gastric H⁺/
 - Enteric-coated formulations control intragastric pH best when given before a meal; bedtime dosing discouraged (less effective than a predinner dose).
 - Metabolized largely by **CYP2C19**; genetic differences affect response. Routine CYP2C19 genotyping has no established role in GERD, but rapid/ultrarapid metabolizers are at higher risk of eradication failure in [[helicobacter-pylori-infection|H. pylori]] treatment ([[acg-2024-hp-treatment]]).
 
-## Agents in Class & Relative Potency
+## Agents and Relative Potency
 Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omeprazole equivalents" [OE]; based on mean 24-h intragastric pH) ([[acg-2021-gerd]]):
 
 | PPI | OE |
@@ -49,48 +46,57 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 | Esomeprazole | 1.60 |
 | Rabeprazole | 1.82 |
 
-- Despite wide differences in pH control, overall GERD symptom-relief and esophagitis healing rates **differ little among available PPIs** (meta-analysis: esomeprazole gave only ~4% absolute increase in 8-week erosive-esophagitis healing, number needed to treat (NNT) 25 — not clinically meaningful).
-- **Dexlansoprazole** — dual delayed-release (absorption in duodenum then more distal small bowel); similar pH-control efficacy **regardless of meal timing**.
+- Despite these pH differences, symptom relief and esophagitis healing **differ little among the 7 available PPIs** — esomeprazole gave a 4% absolute difference in 8-week erosive-esophagitis healing (relative risk 1.05, 95% confidence interval [CI] 1.02–1.08; number needed to treat [NNT] 25), unlikely to be clinically meaningful.
+- **Dexlansoprazole** — dual delayed-release (duodenum, then more distal small bowel); similar pH control **regardless of meal timing**.
 - **Omeprazole–sodium bicarbonate** (immediate-release, not enteric-coated) — good intragastric pH control in the first 4 h of sleep when dosed at bedtime.
-- Wide inter-PPI variation in individual pH control → **switching PPIs** is reasonable for incomplete response; consider a non-CYP2C19-dependent agent (rabeprazole).
+- Individual pH control varies widely between agents → **switching PPIs** is reasonable for incomplete response; rabeprazole does not rely on CYP2C19 for primary metabolism.
 
-## Dosing & Administration
+## Dosing and Administration
 | Situation | Timing / dose |
 |---|---|
-| Once-daily dosing | 30–60 min **before breakfast** (Strong/Moderate) |
-| Twice-daily dosing | 30–60 min before **breakfast and dinner** |
-| Bedtime | Discouraged — less effective than predinner dose |
+| Once daily | 30–60 min **before breakfast** (Strong/Moderate, [[acg-2021-gerd]]) |
+| Twice daily | 30–60 min before **breakfast and dinner** |
+| Bedtime | Discouraged — less effective than a predinner dose |
 | Dexlansoprazole | Efficacy independent of meal timing |
-| Incomplete response | Switch PPI (± to a non-CYP2C19 agent) rather than automatically double-dose — doubling lansoprazole vs switching to esomeprazole 40 mg daily were equally effective |
-| Lowest effective dose | Recommended; individualize |
+| Maintenance | **Lowest dose** that controls symptoms and maintains healing of reflux esophagitis (Conditional/Low) |
+| Incomplete response | Switch PPI (consider a non-CYP2C19 agent) rather than automatically doubling — doubling lansoprazole 30 mg daily vs switching to esomeprazole 40 mg daily were equally effective |
 
-## Indications & Regimens
+- **Double dose = standard dose twice daily, or a double-strength dose once daily.** Never studied in any randomized controlled trial (RCT) and not US Food and Drug Administration (FDA)-approved, yet up to **15%** of PPI users take it ([[aga-2022-ppi-deprescribing]]).
+- **High dose is justified acutely** to prevent rebleeding from [[peptic-ulcer-disease|peptic ulcer disease (PUD)]], and for [[gastroenteropancreatic-neuroendocrine-tumors|Zollinger-Ellison syndrome]]. Evidence is **minimal** for high dose in maintenance of healed esophagitis or prevention of PUD complications.
+- These guidelines prescribe "standard-dose" and "double-dose" PPI without printing a milligram equivalent for each agent; the doses they do state are given with their indications below.
 
-### GERD / Erosive Esophagitis
-- **8-week empiric PPI trial**, once daily before a meal, for typical GERD symptoms (heartburn/regurgitation) — Strong/Moderate ([[acg-2021-gerd]]).
-- **PPI over histamine-2 receptor antagonist (H2RA)** for healing erosive esophagitis (Strong/High) and for long-term maintenance (Strong/Moderate).
-- **Indefinite maintenance PPI** for [[reflux-testing|Los Angeles (LA) grade]] **C or D** erosive esophagitis (Strong/Moderate) — nearly 100% of LA grade C relapse within 6 months if stopped; recurrence can occur in as little as 1–2 weeks.
+## Indications and Regimens
+
+### GERD and Erosive Esophagitis
+- **8-week empiric trial**, once daily before a meal, for typical symptoms (heartburn/regurgitation) without alarm features — Strong/Moderate ([[acg-2021-gerd]]).
+- Symptoms respond to the trial → **attempt discontinuation** (Conditional/Low). No erosive esophagitis or [[barretts-esophagus|Barrett's esophagus]] and symptoms resolved → stop, or switch to **on-demand** therapy taken only while symptoms are present (Conditional/Low).
+- **PPI over histamine-2 receptor antagonist (H2RA)** for healing erosive esophagitis (Strong/High) and for maintenance of healing (Strong/Moderate).
+- **[[reflux-testing|Los Angeles (LA) grade]] C or D: indefinite maintenance PPI or antireflux surgery** (Strong/Moderate) — nearly 100% of LA grade C relapse within 6 months if stopped; recurrence can occur in as little as 1–2 weeks.
+- **On-demand or intermittent PPI** for heartburn control in non-erosive reflux disease (NERD) — Conditional/Low; symptom-free days equivalent to continuous therapy, both superior to placebo. **Not adequate for erosive esophagitis.** Step-down to an H2RA is another acceptable option, particularly in NERD.
 
 ### Barrett's Esophagus
-- **At least once-daily PPI for all patients** with [[barretts-esophagus]] without contraindication; PPI use associated with reduced progression to high-grade dysplasia (HGD)/[[esophageal-adenocarcinoma|esophageal adenocarcinoma (EAC)]] (adjusted hazard ratio [aHR] 0.32) — no evidence twice-daily is superior to once-daily for this purpose ([[acg-2022-barretts]]).
-- Combination **PPI + aspirin** for chemoprevention in appropriate candidates.
-- Twice-daily (maximal) acid suppression used periprocedurally before [[endoscopic-eradication-therapy|endoscopic resection/ablation]].
+- **At least once-daily PPI** in every patient with Barrett's esophagus without allergy or other contraindication — Conditional/Very low ([[acg-2022-barretts]]).
+- Associated with reduced progression to high-grade dysplasia (HGD)/[[esophageal-adenocarcinoma|esophageal adenocarcinoma]]: 71% risk reduction (adjusted odds ratio [OR] 0.29, 95% CI 0.12–0.79) across observational studies; adjusted hazard ratio (aHR) **0.32** (95% CI 0.15–0.67) in the cohort studies reporting time to progression.
+- Benefit of **higher doses on oncogenesis is unclear** → at least daily dosing, with higher doses reserved for those who need them for symptom control.
+- **Combination PPI + aspirin: ACG 2022 could not make a recommendation** for reducing progression to HGD/esophageal adenocarcinoma. A large proportion of these patients will take aspirin anyway for cardioprotection.
+- Twice-daily (maximal) acid suppression is used around [[endoscopic-eradication-therapy|endoscopic eradication therapy]] — surveillance endoscopy is generally performed after it is started, and vigorous suppression may be advisable after resection.
 
 ### Eosinophilic Esophagitis
-- Initial treatment of [[eosinophilic-esophagitis|eosinophilic esophagitis (EoE)]] in adults with **"high-dose" PPI = double the approved reflux dose per day** — the guideline's own example is **omeprazole 20 mg twice daily *or* 40 mg daily, or other PPI equivalent** (i.e. **40 mg/day total**). Once-daily or divided before meals; the American College of Gastroenterology (ACG) notes dosing-efficacy data are variable, so divided dosing may be chosen for adherence ([[acg-2025-eoe]]).
-- Pooled response ~**60% clinical (60.8%) / ~50% histologic (50.5%)** (<15 eos/hpf). Twice-daily numerically > once-daily (55.9% vs 49.7%, not significant); in a 305-patient retrospective cohort histologic remission was **53–54% with omeprazole 20–40 mg twice daily (BID) vs 10–12% with 20–40 mg once daily** (P<0.0001) — note those cohort doses run **above** the guideline's stated 40 mg/day example.
-- Step-down possible in responders (some relapse on reduction, regain remission on re-escalation).
+- Initial adult treatment: **"high-dose" PPI = double the approved reflux dose per day** — the guideline's example is **omeprazole 20 mg twice daily *or* 40 mg daily**, or the equivalent of another PPI ([[acg-2025-eoe]]). Once daily or divided before meals; dosing-efficacy data are variable, so divided dosing may be chosen for adherence.
+- Pooled response **60.8% clinical / 50.5% histologic** (<15 eosinophils per high-power field); twice daily numerically better than once daily (55.9% vs 49.7%, not significant).
+- In a 305-patient cohort, histologic remission was **53%–54% with omeprazole 20–40 mg twice daily vs 10%–12% with 20–40 mg once daily** (P<0.0001).
+- **Step-down in responders:** 30% of initial responders relapsed when reduced to once daily but regained histologic remission on re-escalation; in another cohort >80% stayed in remission stepping omeprazole 40 mg twice daily → 40 mg daily → 20 mg daily.
 
 ### H. pylori Eradication
-- PPI **twice daily** (standard dose, 30–60 min before a meal) is the acid-suppression backbone of [[bismuth-quadruple-therapy|bismuth quadruple]] and rifabutin regimens ([[acg-2024-hp-treatment]]). Concomitant therapy also contains a PPI but is **not suggested over bismuth quadruple therapy (BQT)** (Rec 5).
-- **Potent acid suppression is key**: high intragastric pH promotes active H. pylori replication (↑ antibiotic susceptibility) and stabilizes acid-labile antibiotics (clarithromycin, amoxicillin) → higher intragastric concentration.
-- **CYP2C19 pharmacogenetics:** for rapid/ultrarapid metabolizers, increase omeprazole/lansoprazole/pantoprazole starting daily dose by 50–100% (rapid) or 100% (ultrarapid), **or** use esomeprazole/rabeprazole (bypass CYP2C19), **or** a P-CAB-based regimen.
-- P-CABs ([[vonoprazan]]) provide deeper/more sustained suppression and are superior to PPIs in eradication regimens.
+- **Standard-dose PPI twice daily, 30–60 min before a meal** — the acid-suppression backbone of [[bismuth-quadruple-therapy|optimized bismuth quadruple therapy]] and the rifabutin triple regimen; all recommended regimens run **14 days** ([[acg-2024-hp-treatment]]).
+- The FDA-approved rifabutin triple preparation delivers **omeprazole 40 mg three times daily** (10 mg per capsule, 4 capsules three times daily).
+- **Potent acid suppression is the point**: high intragastric pH drives H. pylori into active replication (↑ antibiotic susceptibility) and stabilizes acid-labile antibiotics (clarithromycin, amoxicillin).
+- **CYP2C19:** do not genotype for the sole purpose of selecting an acid suppressant. In a patient **known** to be a rapid or ultrarapid metabolizer, prefer **esomeprazole or rabeprazole**; if another PPI is used, increase the starting daily dose of omeprazole/lansoprazole/pantoprazole by **50%–100% (rapid) or 100% (ultrarapid)**; a P-CAB regimen is a third option.
+- P-CABs ([[vonoprazan]]) provide deeper, more sustained suppression and are superior to PPIs in eradication regimens.
 
-### Peptic Ulcer Disease / Ulcer Bleeding
-*One home per fact — the acid-suppression regimens for this indication live on their entity pages; this section is a pointer, not a copy.*
+### Peptic Ulcer Disease and Ulcer Bleeding
 - **Ulcer healing and nonsteroidal anti-inflammatory drug (NSAID)/aspirin co-prescription:** see [[peptic-ulcer-disease]].
-- **Bleeding ulcer** — high-dose PPI after [[endoscopic-hemostasis|endoscopic hemostasis]] (what "high dose" means, continuous vs intermittent regimens, and the twice-daily step-down to 2 weeks after the index endoscopy): see [[peptic-ulcer-disease]]. Pre-endoscopic PPI and the day-4–14 "high-risk" definition: see [[upper-gi-bleeding]].
+- **Bleeding ulcer** — high-dose PPI after [[endoscopic-hemostasis|endoscopic hemostasis]]; what "high dose" means, continuous vs intermittent regimens, and the twice-daily step-down: see [[peptic-ulcer-disease]]. Pre-endoscopic PPI: see [[upper-gi-bleeding]].
 - P-CAB positioning in PUD (generally not first-line): [[potassium-competitive-acid-blockers]].
 
 ## On-Demand, Step-Down & Deprescribing

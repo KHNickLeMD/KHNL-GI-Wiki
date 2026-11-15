@@ -6,6 +6,15 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-15] lint | Quality review sweep — release pass
+
+**Pages reviewed:**
+- `cholangioscopy` — cut "benign strictures lack these features" (ASGE 2023 describes only the malignant morphologies); rewrote Rec 2 as the document's actual combination rule ((a) *or* (b), *and* (c)) with its "otherwise ERCP ± cholangioscopy" half restored, and added the criterion behind the nondistal restriction (fluoroscopy-directed intraductal biopsy 76% vs cholangioscopic 50% for distal strictures). Replaced BSG 2017's lone "cholangitis up to 9%" with an `## Adverse Events` section from ASGE 2026. New primary sclerosing cholangitis indication from the AGA 2019 clinical practice update, new `## Technique` section, and a duct-clearance table across three sources. Three non-parallel `## Role in…` sections regrouped as `###` siblings under `## Indications`. 4 → 8 sources. No figure: ASGE 2023 is paywalled.
+- `porto-sinusoidal-vascular-disorder` — the diagnostic score's two decisive levels were under-specified: the consensus assigns 5 points for "≥1 major criterion **or** all 3 minor" and 2 for "1–2 minor", where the page gave only "Minor → +2 / Major → +5". Specific vs non-specific signs of portal hypertension pulled out of a table cell into their own table (incl. the ≥10 mm Hg gradient); added the supportive-but-unscored features; biopsy adequacy corrected to ≥15 mm; the atypical-for-cirrhosis trigger list re-attributed to Baveno VII 9.16; associated-conditions table completed against Table 4 so the "+1" domain is checkable. Mermaid diagnostic pathway redrawn from Figure 2 (replaces the prose bands list); two bullet lists converted to tables. Removed a 150-word banner blockquote written about the page rather than for the reader. 2,992 → ~2,470 words.
+  - Discrepancy, no contradiction: Baveno VIII 8.44's specific-sign list omits variceal gastrointestinal bleeding, which the 2026 consensus Table 5 includes. Page follows the consensus, which 8.42–8.44 relay.
+
+---
+
 ## [2026-11-15] update | Card pass — dedup, 7 pages carded, 4 card files reviewed
 
 **Dedup (6 candidate pairs judged, all marked in `dedup-ledger.tsv`):**
