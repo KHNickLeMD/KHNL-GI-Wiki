@@ -3,7 +3,8 @@ title: "Hepatic Encephalopathy"
 category: disease-script
 tags: [hepatic-encephalopathy, HE, cirrhosis, ammonia, lactulose, rifaximin, TIPS, portal-hypertension, ACLF, minimal-HE, covert-HE, overt-HE, portosystemic-shunting, brain-dysfunction, west-haven, bristol-stool-scale, sarcopenia]
 created: 2026-05-28
-updated: 2026-11-13
+updated: 2026-11-15
+quality_reviewed: 2026-11-15
 sources: [aasld-easl-2026-aclf-global-consensus, acg-2026-hepatic-encephalopathy, acg-2026-preventive-care-cirrhosis, baveno-viii-2026-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy, baveno-vii-2022-portal-hypertension, ishen-2013-nutrition-hepatic-encephalopathy, aasld-2024-aclf]
 ---
 

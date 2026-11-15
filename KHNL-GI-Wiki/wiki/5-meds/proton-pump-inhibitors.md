@@ -3,8 +3,9 @@ title: "Proton Pump Inhibitors (PPIs)"
 category: med
 tags: [ppi, acid-suppression, gerd, erosive-esophagitis, peptic-ulcer-disease, h-pylori, eoe, omeprazole, esomeprazole]
 created: 2026-07-21
-updated: 2026-10-13
+updated: 2026-11-15
 sources: [acg-2021-gerd, acg-2024-hp-treatment, acg-2025-eoe, acg-2022-barretts, aga-2026-cdiff-adults, aga-2022-ppi-deprescribing, nccn-2026-net]
+quality_reviewed: 2026-11-15
 ---
 
 Proton pump inhibitors (PPIs) are the drug class that inhibits the gastric H⁺/K⁺-ATPase (proton pump); the mainstay medical acid-suppressant for [[gerd|gastroesophageal reflux disease (GERD)]], erosive esophagitis, [[peptic-ulcer-disease|peptic ulcer disease (PUD)]], and [[helicobacter-pylori-infection|H. pylori]] eradication regimens. Contrast with [[potassium-competitive-acid-blockers|potassium-competitive acid blockers (P-CABs)]] (e.g. [[vonoprazan]]).
@@ -85,7 +86,7 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 - Initial adult treatment of [[eosinophilic-esophagitis|eosinophilic esophagitis (EoE)]]: **"high-dose" PPI = double the approved reflux dose per day** — the guideline's example is **omeprazole 20 mg twice daily *or* 40 mg daily**, or the equivalent of another PPI ([[acg-2025-eoe]]). Once daily or divided before meals; dosing-efficacy data are variable, so divided dosing may be chosen for adherence.
 - Pooled response **60.8% clinical / 50.5% histologic** (<15 eosinophils per high-power field); twice daily numerically better than once daily (55.9% vs 49.7%, not significant).
 - In a 305-patient cohort, histologic remission was **53%–54% with omeprazole 20–40 mg twice daily vs 10%–12% with 20–40 mg once daily** (P<0.0001).
-- **Step-down in responders:** 30% of initial responders relapsed when reduced to once daily but regained histologic remission on re-escalation; in another cohort >80% stayed in remission stepping omeprazole 40 mg twice daily → 40 mg daily → 20 mg daily.
+- **Step-down in responders:** 30% relapsed when reduced to once daily but regained histologic remission on re-escalation; in another cohort >80% stayed in remission stepping 40 mg twice daily → 40 mg daily → 20 mg daily.
 
 ### H. pylori Eradication
 - **Standard-dose PPI twice daily, 30–60 min before a meal** — the acid-suppression backbone of [[bismuth-quadruple-therapy|optimized bismuth quadruple therapy]] and the rifabutin triple regimen; all recommended regimens run **14 days** ([[acg-2024-hp-treatment]]).
