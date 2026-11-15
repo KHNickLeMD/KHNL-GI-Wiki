@@ -3,88 +3,125 @@ title: "Tacrolimus"
 category: med
 tags: [tacrolimus, fk506, calcineurin-inhibitor, immunosuppression, transplant, liver-transplant, nephrotoxicity, diabetes, extended-release]
 created: 2026-05-19
-updated: 2026-09-06
+updated: 2026-11-15
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
+quality_reviewed: 2026-11-15
 ---
+
+## Contents
+- [[#Overview]]
+- [[#Formulations and Dosing]]
+- [[#Trough Targets]]
+- [[#Maintenance Regimens After Liver Transplant]]
+- [[#Switching To or Off Tacrolimus]]
+- [[#Adverse Effects]]
+- [[#Drug Interactions]]
+- [[#Monitoring]]
+- [[#Pregnancy]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Overview
 
-Tacrolimus (TAC; FK506) is a macrolide calcineurin inhibitor (CNI) and the primary maintenance immunosuppressive agent in [[liver-transplantation|liver transplantation (LT)]]. It inhibits calcineurin, blocking interleukin-2 (IL-2) production and T-lymphocyte proliferation. It is preferred over cyclosporine based on superior rejection prevention outcomes in randomized trials. See [[calcineurin-inhibitors]] for drug-class overview and [[liver-transplantation]] for full post-transplant management context.
+Tacrolimus (TAC) is a calcineurin inhibitor (CNI) and the backbone maintenance immunosuppressant after [[liver-transplantation|liver transplantation (LT)]]. It is the CNI that rejection management switches *to*: cyclosporine recipients are changed to TAC for T-cell–mediated rejection (TCMR) and for chronic ductopenic rejection ([[aasld-ast-2025-liver-transplant-graft-complications]], 2025 Recs 37, 38, 44) — ladders on [[liver-transplantation#Graft Rejection]].
 
-## Dosing and Trough Targets
+- Drug-class overview and the comparison with cyclosporine: [[calcineurin-inhibitors]].
+- Full post-transplant management context: [[liver-transplantation]].
+- Non-transplant use — TAC in steroid-refractory [[ulcerative-colitis|ulcerative colitis]], where the trough target differs from the transplant targets below — lives on [[calcineurin-inhibitors]].
 
-Per [[aasld-ast-2025-liver-transplant-graft-complications]] (Table 4):
+## Formulations and Dosing
 
-| Time Post-LT | Dose | Target Trough |
+- **Immediate release (twice daily):** **0.1–0.15 mg/kg/day orally (PO), in two divided doses**, adjusted to trough ([[aasld-ast-2025-liver-transplant-graft-complications]], Table 4).
+- **Extended release (once daily):** should be used **similarly to** the twice-daily immediate-release formulation — equally effective for preventing rejection and maintaining allograft survival (2025 Rec 31, Strong, Level 3). Supporting data: meta-analysis of 4 studies (n=758) found similar biopsy-proven acute rejection (BPAR) rates (relative risk [RR] 1.06, 95% confidence interval [CI] 0.84–1.34) and a similar safety profile; the European Liver Transplant Registry (ELTR, n=13,088) showed better graft survival in recipients converted to extended-release TAC after 1 month (*p*<0.001) or started on it de novo (*p*=0.02).
+- Neither guideline gives a milligram dose or a conversion ratio for the extended-release formulation.
+- Dosing and target troughs "vary at the discretion of the transplant professional" (2025 Table 4 footnote).
+
+## Trough Targets
+
+Whole-blood trough targets ([[aasld-ast-2025-liver-transplant-graft-complications]], Table 4):
+
+| Time post-LT | Target trough |
+|---|---|
+| Month 1 | **7–10 ng/mL** |
+| Months 2–12 | **4–8 ng/mL** |
+| Month 12 onward | **4 ng/mL** |
+
+- **What changed:** [[aasld-2012-liver-transplant-long-term]] gave a single whole-blood target of **5–10 ng/mL after 3 months**; the 2025 guideline replaces it with the interval-specific targets above.
+- These are transplant targets. Lower exposure is not free — lower total TAC exposure is a risk factor for de novo donor-specific antibodies (2025 guideline).
+
+## Maintenance Regimens After Liver Transplant
+
+Per [[aasld-ast-2025-liver-transplant-graft-complications]]:
+
+| Scenario | Regimen | Recommendation |
 |---|---|---|
-| Month 1 | **0.1–0.15 mg/kg/day orally (PO), given in two divided doses** (twice daily) | 7–10 ng/mL |
-| Months 2–12 | Adjusted to trough | 4–8 ng/mL |
-| Month 12 onward | Adjusted to trough | 4 ng/mL |
+| Low rejection risk (e.g., non-immune–mediated liver disease) | **TAC monotherapy** — similar graft survival to combination therapy; feasible from **3 months** post-LT | 2025 Rec 29 — Strong, Level 3 |
+| Reduced TAC exposure needed because of adverse effects (e.g., renal dysfunction) | **TAC + an antimetabolite or a mammalian target of rapamycin (mTOR) inhibitor** | 2025 Rec 30 — Strong, Level 3 |
+| Chronic kidney dysfunction | **Convert from the CNI to, or add, an mTOR inhibitor** — best implemented in the early (**~3 months**) post-transplant period | 2025 Rec 33 — Strong, Level 2 |
+| Transplanted for [[hepatocellular-carcinoma\|hepatocellular carcinoma (HCC)]] **within Milan criteria** | **May** add or convert to mTOR inhibitor–based immunosuppression (IS) to improve recurrence-free survival up to 3 years | 2025 Rec 32 — Weak, Level 3 |
 
-*Dosing and target trough levels vary at the discretion of the transplant professional.*
+- Mycophenolate mofetil (MMF) is the usual partner when TAC must be reduced: **MMF + reduced-dose TAC improves renal function without increasing graft rejection** versus standard-dose TAC.
+- Steroid-free IS is **not** routinely recommended, so TAC monotherapy is not a steroid-sparing strategy by itself (2025 Rec 28, Strong, Level 2 — see [[calcineurin-inhibitors]]).
 
-**These targets are transplant-specific.** Tacrolimus has also been studied in steroid-refractory [[ulcerative-colitis]], where the target trough is **higher (10–15 ng/mL)** and it is not a guideline-recommended rescue agent — that evidence lives on [[calcineurin-inhibitors]].
+> [!pitfall] Monotherapy spares pills, not kidneys
+> Korean registry (n=991 per arm, first 12 months): BPAR 2.6% with TAC alone vs 3.5% with TAC/MMF (*p*=0.381) and similar graft failure, but estimated glomerular filtration rate (GFR) decline was **greater by 3.1 mL/min/1.73 m² at 6 months** in the monotherapy arm (95% CI 0.8–5.3, *p*<0.01) ([[aasld-ast-2025-liver-transplant-graft-complications]]).
 
-**Extended-release (once-daily) formulation**: Should be used similarly to twice-daily immediate-release formulations — equally effective for preventing rejection and maintaining allograft survival ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 31, Strong, Level 3). European Liver Transplant Registry (ELTR; n=13,088): better graft survival when converted to or started de novo on extended-release TAC.
+## Switching To or Off Tacrolimus
 
-## Indications in Liver Transplantation
+- **Rejection:** cyclosporine → TAC for mild and for moderate/severe TCMR, and for chronic ductopenic rejection when there are no contraindications (2025 Recs 37, 38, 44).
+- **Recurrent [[primary-biliary-cholangitis|primary biliary cholangitis (PBC)]]:** substituting cyclosporine-based IS for TAC-based IS to lower recurrence risk is **not recommended** — higher risk of graft rejection (2025 Rec 69, Strong, Level 3).
+- **Poor glycemic control:** consideration can be given to converting TAC → cyclosporine (2012 Rec 34, grade 2, level B), alongside stopping steroids. The full switch-direction table for metabolic comorbidities is on [[liver-transplantation#Cardiometabolic Management]].
+- **Chronic kidney disease (CKD):** reduction or withdrawal of CNI-based IS is the appropriate response (2012 Rec 29, grade 1, level A). Renal function is more likely to be preserved if withdrawal is instituted while **GFR is 40–50 mL/min/1.73 m²**. Minimization ladder: [[calcineurin-inhibitors]].
 
-**Monotherapy** (Rec 29, Strong, Level 3): Tacrolimus monotherapy should be considered as maintenance immunosuppression (IS) in patients at low risk for rejection (non-immune-mediated liver disease) from 3 months post-LT; similar graft survival vs. combination therapy. Biopsy-proven acute rejection (BPAR) rates: 2.6% TAC monotherapy vs. 3.5% TAC/MMF (not significant).
+## Adverse Effects
 
-**Combination therapy** (Rec 30, Strong, Level 3): TAC + antimetabolite (mycophenolate mofetil [MMF]) or mammalian target of rapamycin (mTOR) inhibitor preferred when CNI reduction needed (adverse effects: renal dysfunction, neurotoxicity, diabetes mellitus [DM]). TAC + MMF + reduced TAC dose improves renal function without increasing graft rejection vs. standard-dose TAC.
+The 2025 guideline gives **one shared adverse-effect list for the CNI class** — nephrotoxicity, electrolyte disorders, neurotoxicity, diabetes, hypertension, anemia (Table 4); which CNI owns which effect is tabulated on [[calcineurin-inhibitors]]. TAC-specific points:
 
-**Hepatocellular carcinoma (HCC) recipients** (Rec 32, Weak, Level 3): Consider adding/converting to mTOR inhibitor (sirolimus or everolimus) to reduce HCC recurrence, particularly for within-Milan criteria recipients (see [[hepatocellular-carcinoma]]).
+- **Nephrotoxicity** is a well-established effect of long-term CNI use and **the main indication for discontinuing the CNI** (2025). Post-LT CKD affects 30%–80% of recipients, with a cumulative **end-stage renal disease (ESRD) risk of 5%–8% in the first 10 years**; kidney failure (GFR ≤29 mL/min/1.73 m² or ESRD) reaches 18% at 5 years and 25% at 10 years ([[aasld-2012-liver-transplant-long-term]]).
+- **Diabetes mellitus (DM):** diabetes is explicitly **more frequent with TAC** than with cyclosporine (2025 Table 4; "corticosteroids and tacrolimus promote diabetes", 2012). New-onset DM is seen in **5%–26%** of recipients followed beyond 1 year and tends to remit as steroids are withdrawn and the TAC dose is reduced. Delaying the TAC start with basiliximab induction lowered de novo DM and hypertension in randomized trials of living donor LT (2025 Table 3) — see [[calcineurin-inhibitors]].
+- **Systemic hypertension:** promoted by TAC *and* by cyclosporine — the 2012 metabolic-syndrome table (which scores contributors + to +++) rates both **++**, and rates insulin-resistant DM **++** for TAC against **+** for cyclosporine.
+- **Dyslipidemia:** a minor CNI effect in that table (TAC and cyclosporine **+**) next to sirolimus (**+++**).
 
-**CNI nephrotoxicity** (Rec 33, Strong, Level 2): Convert from TAC to or add mTOR inhibitor early (~3 months post-LT) to prevent chronic kidney disease (CKD) progression. Early implementation produces the best renal outcomes.
-
-## Side Effects
-
-- **Nephrotoxicity**: Leading cause of post-LT CKD; contributes to end-stage renal disease (ESRD) in 8–10% at 10 years
-- **Diabetes mellitus**: TAC (with corticosteroids) is a named promoter of post-LT diabetes, **more so than cyclosporine**; de novo DM in 10–51%. Basiliximab induction with delayed TAC start reduces it (10.6% → 4.7%, *P*=0.001)
-- **Systemic hypertension**: promoted by TAC — and by cyclosporine; the sources do not rank them
-- **Class effects shared with cyclosporine**: neurotoxicity, electrolyte disorders, anemia
-
-> The American Association for the Study of Liver Diseases (AASLD) guidelines list TAC's adverse effects only as the class list above; specific neurologic manifestations (tremor, posterior reversible encephalopathy syndrome [PRES], peripheral neuropathy), alopecia, and a TAC-vs-cyclosporine hyperlipidemia/hypertension ranking are in the FDA label, not the guidelines. AASLD 2012 attributes **hyperlipidemia to sirolimus**, not to either CNI.
-
-*Which CNI owns which adverse effect lives on [[calcineurin-inhibitors]].*
+The American Association for the Study of Liver Diseases (AASLD)/American Society of Transplantation (AST) documents go no further than the class list above — they do not itemize specific neurologic manifestations of TAC.
 
 ## Drug Interactions
 
-TAC is a **CYP3A substrate**; the full class interaction list (shared with cyclosporine) lives on **[[calcineurin-inhibitors]]** — see that page rather than duplicating it here. TAC-specific points:
+TAC is metabolized by cytochrome P450 3A (CYP3A): CYP3A inhibitors raise levels, CYP3A inducers lower them. Both ingested guidelines give the interaction list for the **CNI class**, not for TAC alone, so the full list — with the agents, the direction of each effect, and the 2- to 5-fold dose increase required when rifampin is started — lives on **[[calcineurin-inhibitors]]**.
 
-- **Voriconazole is contraindicated** with CNIs; other triazoles (ketoconazole, posaconazole > itraconazole, fluconazole) markedly raise levels ([[aasld-2012-liver-transplant-long-term]], Table 4).
-- **Rifamycins** markedly *decrease* levels — with rifampin coadministration for tuberculosis (TB), the CNI dose must be increased **2- to 5-fold** at treatment initiation; rifabutin may be substituted to blunt the effect ([[aasld-2012-liver-transplant-long-term]]).
-- **Nirmatrelvir–ritonavir (Paxlovid)** raises TAC levels and requires dose adjustment with close trough monitoring ([[aasld-ast-2025-liver-transplant-graft-complications]]).
-- Any new antimicrobial warrants attention to CNI interactions; human immunodeficiency virus (HIV)-infected recipients on antiretroviral therapy (ART) need **frequent trough monitoring** ([[aasld-2012-liver-transplant-long-term]], Recs 62-2, 67).
+- Any new antimicrobial warrants attention to CNI interactions (2012 Rec 52, grade 1, level A); human immunodeficiency virus (HIV)-infected recipients on antiretroviral therapy need **frequent CNI level monitoring** (2012 Rec 67, grade 1, level A).
+- Direct-acting antiviral therapy for [[hepatitis-c|hepatitis C]] interacts with immunosuppressants: assess for interactions and expect that dose adjustments may be needed (2025 guideline, Table 4).
 
 ## Monitoring
 
-Intervals below are [[aasld-2012-liver-transplant-long-term]] (Recs 27–28, Table 8) — TAC's two signature toxicities, kidney and glucose, drive the schedule:
+- **Review the whole regimen at least every 6 months** and modify it to minimize long-term toxicity (2012 Rec 7, grade 1, level B).
+- The TAC dose is generally set by the drug level, but **neither guideline specifies how often to measure the trough**.
+- **Renal** ([[aasld-2012-liver-transplant-long-term]]): GFR by an **estimating equation**, not creatinine alone (Rec 27, grade 1, level B); **spot urine protein-to-creatinine ratio at least once yearly** (Rec 28, grade 1, level B).
+- **Glucose** (2012 Table 8):
 
-| What | Interval |
+| Test | Interval |
 |---|---|
-| TAC trough level | With every dose change; periodically once stable |
-| **Renal function** — glomerular filtration rate (GFR) by an **estimating equation** (Rec 27) | Ongoing surveillance for CKD |
-| **Urine protein-to-creatinine ratio**, spot specimen (Rec 28) | **At least once yearly** |
-| **Fasting plasma glucose** | **Every 3 months in the first year**, then annually |
-| **Hemoglobin A1c (HbA1c)** | **Every 3 months** — intervene at **≥7.0%** |
-| Microalbuminuria; retinopathy screening (if DM) | Annually |
+| Fasting plasma glucose | Every **3 months in the first year**, then annually |
+| Hemoglobin A1c (HbA1c) | Every **3 months** — intervene at **≥7.0%** |
+| Retinopathy screening, microalbuminuria | Annually |
 
-- **CNI reduction or withdrawal is the appropriate response to CKD** developing after LT — [[aasld-2012-liver-transplant-long-term]] **Rec 29, grade 1 level A** (*not* the AASLD/AST 2025 Rec 29 cited above under Monotherapy; the two guidelines number independently). See [[calcineurin-inhibitors]] for the minimization ladder.
+- The ≥7.0% HbA1c threshold "should be interpreted with care" in anemia or renal impairment (Table 8 footnote); <7.0% rather than <6.0% is the deliberate target (2012 Rec 31, grade 1, level B).
 
-## Special Populations
+> [!pearl] No marker shows adequate immunosuppression
+> There is no reliable marker of the effective level of immunosuppression — agent and dose follow the clinical, laboratory, and histological response, with the drug level as the guide to CNI dosing ([[aasld-2012-liver-transplant-long-term]]).
 
-- **Pregnancy** ([[aasld-2012-liver-transplant-long-term]]):
-  - **TAC monotherapy is the ideal regimen**, maintained at **therapeutic levels throughout** pregnancy; cyclosporine, [[thiopurines|azathioprine]], and prednisone may also be used if necessary (Rec 48, grade 1 level B).
-  - **Monitoring schedule (Rec 49, grade 1 level B):** allograft function and CNI levels **every 4 weeks until 32 weeks → every 2 weeks → weekly until delivery.**
-  - Outcomes: higher incidence of **prematurity (29%–50%)** and **low birth weight (17%–57%)**.
-- **TAC → cyclosporine conversion** for **poor glycemic control**: consideration can be given to converting *from tacrolimus to cyclosporine* (Rec 34), since TAC is the more diabetogenic CNI. Poor control also prompts steroid discontinuation. *(Note the direction — the conversion runs TAC → cyclosporine (CSA), not the reverse.)*
+## Pregnancy
+
+Per [[aasld-2012-liver-transplant-long-term]]:
+
+- **TAC monotherapy is the ideal regimen**, maintained at **therapeutic levels throughout** pregnancy; cyclosporine, [[thiopurines|azathioprine]], and prednisone may also be used if necessary (Rec 48, grade 1, level B). Mycophenolate and sirolimus are potential teratogens.
+- **Monitoring (Rec 49, grade 1, level B):** allograft function and CNI levels **every 4 weeks until 32 weeks → every 2 weeks → weekly until delivery**.
+- Outcomes: **prematurity 29%–50%**, **low birth weight 17%–57%**. Pregnancy timing and obstetric co-management: [[liver-transplantation]].
 
 ---
 
 ## See Also
 
-[[calcineurin-inhibitors]], [[liver-transplantation]], [[hepatocellular-carcinoma]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[ulcerative-colitis]], [[drug-induced-liver-injury]], [[thiopurines]]
+[[calcineurin-inhibitors]], [[liver-transplantation]], [[hepatocellular-carcinoma]], [[primary-biliary-cholangitis]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[ulcerative-colitis]], [[thiopurines]], [[hepatitis-c]]
 
 ---
 

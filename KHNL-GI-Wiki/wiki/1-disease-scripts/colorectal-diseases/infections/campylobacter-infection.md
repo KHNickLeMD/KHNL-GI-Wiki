@@ -3,24 +3,42 @@ title: "Campylobacter Infection"
 category: disease-script
 tags: [campylobacter, bacterial-gastroenteritis, diarrhea, travelers-diarrhea, dysentery, fluoroquinolone-resistance, guillain-barre]
 created: 2026-05-19
-updated: 2026-10-12
+updated: 2026-11-15
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
+quality_reviewed: 2026-11-15
 ---
 
-*Campylobacter jejuni* is the most common bacterial cause of diarrheal illness in developed countries — typically febrile, often bloody diarrhea. A major cause of traveler's diarrhea (TD), particularly in Southeast Asia, India, and other regions with high fluoroquinolone (FQ) resistance. [[acg-2016-acute-diarrhea]]
+*Campylobacter* is an invasive enteric pathogen causing abdominal pain and often grossly bloody diarrhea, and one of the enteropathogens for which antimicrobial agents may confer clinical benefit — so it is specifically looked for in fever or bloody diarrhea ([[idsa-2017-infectious-diarrhea]], Rec 3). It is also a major traveler's diarrhea (TD) pathogen: its high prevalence in Thailand is why azithromycin outperformed ciprofloxacin for TD there, and **fluoroquinolone (FQ) resistance drives nearly every treatment decision**. [[acg-2016-acute-diarrhea]]
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#Whom to treat]]
+  - [[#Agent]]
+  - [[#Duration]]
+  - [[#Supportive care]]
+  - [[#Public health and follow-up testing]]
+  - [[#Postinfectious and extraintestinal sequelae]]
 
 ## Assessment
 
 ### Establishing the Diagnosis
 
-- Acute febrile, often bloody/inflammatory diarrhea; frequent poultry exposure or travel to Southeast Asia/India.
-- **Stool testing** (culture or multiplex gastrointestinal (GI) polymerase chain reaction (PCR)) indicated when diarrhea has fever, bloody/mucoid stools, severe cramping, or sepsis signs. *Campylobacter* is a **notifiable** pathogen. [[idsa-2017-infectious-diarrhea]]
+- **Presentation** (Infectious Diseases Society of America (IDSA) Table 3): severe abdominal pain with **often grossly bloody (occasionally nonbloody) stools and minimal or no fever** — shared with [[salmonella-infection|*Salmonella*]], [[shigellosis|*Shigella*]], *Yersinia enterocolitica* and [[shiga-toxin-producing-e-coli|Shiga toxin–producing *E. coli* (STEC)]]. Fever is **not discriminatory**; higher temperatures favor a bacterial etiology or [[entamoeba-histolytica-infection|*Entamoeba histolytica*]].
+- **Stool testing** — culture or nucleic acid amplification test (NAAT) on stool (IDSA Table 5). Triggers are the general ones (fever, bloody or mucoid stools, severe abdominal cramping or tenderness, signs of sepsis) *(Rec 8, strong/moderate)* — see [[acute-diarrhea]]. Routine stool culture in most laboratories covers *Salmonella*, *Shigella*, *Campylobacter* and *E. coli* O157/STEC; confirm the panel with your laboratory.
+- **Uncomplicated TD:** diagnostic testing is **not** recommended unless treatment is indicated; a traveler with diarrhea **≥14 days** is evaluated for intestinal parasites *(Rec 13, strong/moderate)*.
+- **Exposures raising pre-test probability** (IDSA Table 2): raw or undercooked **poultry**; unpasteurized milk or dairy; foodborne outbreaks in hotels, cruise ships, resorts, restaurants and catered events; swimming in or drinking **untreated fresh water**; travel to resource-challenged countries; **house pets with diarrhea**; visiting a farm or **petting zoo**; **young adults**; an immunocompromising condition; anal-genital, oral-anal or digital-anal contact.
 
 ### Severity Assessment
 
-- Most cases self-limited. Dysentery/febrile or septic presentations, and immunocompromise, mark severe disease warranting therapy.
-- Grade illness with the American College of Gastroenterology (ACG) mild / moderate / severe activity definitions — see [[acute-diarrhea]].
-- **Exposures raising pre-test probability** (Infectious Diseases Society of America (IDSA) Table 2): poultry, unpasteurized milk/dairy, untreated fresh water, house pets with diarrhea, farm/petting-zoo contact, anal-genital/oral-anal contact. [[idsa-2017-infectious-diarrhea]]
+- Grade illness activity with the American College of Gastroenterology (ACG) mild / moderate / severe definitions — see [[acute-diarrhea]].
+- **Most infections are self-limited** — symptoms resolved without therapy in every case in the treatment trials. "Particularly prolonged or severe disease" is the presentation that makes treatment worthwhile (see *Whom to treat*).
+- **Immunocompromise is the risk marker.** Fatal *Campylobacter* infection remains rare but is **more common in severely immunocompromised hosts**; in human immunodeficiency virus (HIV) infection it is more likely to be **severe or recurrent** ([[hiv-aids-related-diarrhea]]).
+- **Persistent diarrhea in severe immunocompromise**, including acquired immunodeficiency syndrome (AIDS): *Campylobacter* is one of the conventional pathogens that may **persist**, so it stays on the differential well past the acute window. [[idsa-2017-infectious-diarrhea]]
 
 ---
 
@@ -29,18 +47,19 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 *Workup: see [[acute-diarrhea]].*
 
 - Other inflammatory bacterial enteritides — [[salmonella-infection]], [[shigellosis]], *Yersinia enterocolitica*
-- **[[shiga-toxin-producing-e-coli|Shiga toxin–producing / enterohemorrhagic *E. coli* (STEC/EHEC)]]** — bloody diarrhea ± hemolytic uremic syndrome (HUS); **antimicrobials are contraindicated**, unlike *Campylobacter*. Not the same organism as [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]] (watery, noninvasive).
-- Amebic dysentery — [[entamoeba-histolytica-infection|*Entamoeba histolytica*]]; species-level enzyme immunoassay (EIA)/PCR required, since microscopy cannot separate it from non-pathogenic *E. dispar*. [[acg-2016-acute-diarrhea]]
+- **[[shiga-toxin-producing-e-coli|STEC / enterohemorrhagic *E. coli* (EHEC)]]** — bloody diarrhea ± hemolytic uremic syndrome (HUS); **antimicrobials are to be avoided**, unlike *Campylobacter*. Not the same organism as [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]] (watery, noninvasive).
+- Amebic dysentery — *E. histolytica*; species-level enzyme immunoassay (EIA)/polymerase chain reaction (PCR) required, since microscopy cannot separate it from non-pathogenic *E. dispar*. [[acg-2016-acute-diarrhea]]
 - [[clostridioides-difficile|*C. difficile*]] colitis
-- Viral gastroenteritis — [[norovirus]], [[rotavirus]], adenovirus; watery and non-bloody, and the reason antibiotics are discouraged for community-acquired diarrhea *(strong, very low)*. [[acg-2016-acute-diarrhea]] (Rec 10)
+- Viral gastroenteritis — [[norovirus]], [[rotavirus]], adenovirus; watery and non-bloody, and the reason antibiotics are discouraged for community-acquired diarrhea *(ACG Rec 10, strong/very low)*. [[acg-2016-acute-diarrhea]]
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare
 
 ---
 
 ## Diagnostics
 
-- Stool culture or multiplex GI PCR; indicated for febrile, bloody, or severe diarrhea and sepsis signs.
-- Consider in TD returning from regions with high FQ resistance (Southeast Asia/India).
+- **Stool:** routine enteric pathogen culture **or** NAAT (IDSA Table 5). Culture is what supports subtyping, susceptibility testing and proof-of-clearance testing; multiplex panels detect nucleic acid, **not necessarily viable organisms** *(Rec 14, strong/low)*.
+- **FQ susceptibility is the one result that changes the prescription** — azithromycin is first-line for *Campylobacter* in travelers **unless FQ susceptibility is confirmed**. IDSA advises susceptibility testing when selecting an agent; ACG 2016 does not recommend routine antibiotic sensitivity testing for managing the individual patient *(ACG Rec 4, strong/very low)* — the newer, pathogen-specific guidance governs here.
+- **Blood cultures** per the general indications (sepsis signs, systemic manifestations, immunocompromise) — see [[acute-diarrhea]].
 
 ---
 
@@ -48,47 +67,74 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ### Whom to treat
 
-Antibiotics are **not routine** in immunocompetent hosts — the benefit of treating proven *Campylobacter* infection is **small** (meta-analysis: average **1 day** shorter illness with a fluoroquinolone or macrolide vs placebo, and all cases in those trials were self-limited), and the effect is **largest when treatment starts early** in the illness course. [[idsa-2017-infectious-diarrhea]]
-
 | Situation | Treat? |
 |---|---|
-| Immunocompetent, uncomplicated | **No** — self-limited; risks outweigh modest benefit |
+| Immunocompetent, uncomplicated | **No** — self-limited; the risks of treatment outweigh the modest benefit |
 | Particularly **prolonged or severe** disease | **Yes** — reasonable |
-| **Immunocompromised**, even with otherwise uncomplicated gastroenteritis | **Yes** — reasonable; fatal infection is rare but more common in severe immunocompromise |
-| Empiric, before the organism is known | Only per the [[acute-diarrhea]] empiric exceptions ([[fever-returning-traveler\|ill febrile returning traveler]] ≥38.5 °C or sepsis signs; presumptive bacillary dysentery) |
+| **Immunocompromised**, even with otherwise uncomplicated gastroenteritis | **Yes** — reasonable, despite the lack of evidence; fatal infection is rare but more common in severe immunocompromise |
+| Empiric, before the organism is known | Only per the [[acute-diarrhea]] empiric carve-outs ([[fever-returning-traveler\|recent international travel]] with temperature ≥38.5 °C and/or sepsis signs; presumptive bacillary dysentery; infants <3 months; immunocompromised with severe bloody diarrhea) |
+| Once the organism is identified | **Modify or discontinue** the antimicrobial *(Rec 38, strong/high)* |
 
-Unlike [[salmonella-infection|nontyphoidal *Salmonella*]], there is **no evidence that antimicrobial therapy prolongs the carrier state or provokes relapse** in campylobacteriosis — so the downside of treating is comparatively small. [[idsa-2017-infectious-diarrhea]]
+*IDSA grades no recommendation specifically for treating* Campylobacter *— the whom-to-treat guidance above is its evidence summary, and Table 6 names agents without doses.*
 
-### Agent, dose, duration
+> [!pearl] Treat early or the benefit is gone
+> Meta-analysis found an average of **1 day shorter illness** with a fluoroquinolone or macrolide vs placebo, and the effect was **largest in patients treated early** in the illness course ([[idsa-2017-infectious-diarrhea]]).
 
-| Line | Agent | Dose / duration |
+Unlike [[salmonella-infection|nontyphoidal *Salmonella*]], there is **no evidence that antimicrobial therapy prolongs the carrier state or provokes clinical relapse** in campylobacteriosis, so the risk of treating is relatively small. Quinolone resistance may develop during therapy, but person-to-person spread of drug-resistant *Campylobacter* is not thought to be common. [[idsa-2017-infectious-diarrhea]]
+
+### Agent
+
+| Line | Agent | Notes |
 |---|---|---|
-| **First choice** | **Azithromycin** | **1,000 mg by mouth (PO) single dose**, OR **500 mg PO once daily × 3 days** — use the **3-day** course for dysentery or febrile diarrhea; if a single dose has not resolved symptoms by **24 h**, complete a 3-day course [[acg-2016-acute-diarrhea]] |
-| **Alternative** | **Ciprofloxacin** (or another fluoroquinolone) | Only where FQ susceptibility is confirmed; TD dosing in the Table 4 regimens on [[acute-diarrhea]] |
-| Not advised | trimethoprim-sulfamethoxazole (TMP-SMX), tetracyclines | Effective in individual isolates, but resistance rates are considerably higher and there is **no advantage over azithromycin** [[idsa-2017-infectious-diarrhea]] |
-| Never | [[rifaximin\|Rifaximin]] | Non-absorbable; **do NOT use** — ineffective against this invasive pathogen [[acg-2016-acute-diarrhea]] |
+| **First choice** | **Azithromycin** — **1,000 mg by mouth (PO) single dose** OR **500 mg PO once daily** (ACG Table 4 regimens — see [[acute-diarrhea]]) | IDSA Table 6 first choice. Active against FQ-resistant strains; ACG's empiric first line in Southeast Asia and India to cover FQ-resistant *Campylobacter* |
+| **Alternative** | **Ciprofloxacin** (or another fluoroquinolone) | IDSA Table 6 alternative — only where FQ susceptibility is confirmed; FQ dosing in the ACG Table 4 regimens |
+| Not advised | trimethoprim-sulfamethoxazole (TMP-SMX), tetracyclines | May work in individual isolates, but resistance rates are considerably higher and there is **no advantage over azithromycin** [[idsa-2017-infectious-diarrhea]] |
+| Never | [[rifaximin\|Rifaximin]] | Non-absorbable — **do not use** when *Campylobacter* or another invasive cause is suspected [[acg-2016-acute-diarrhea]] |
 
 **Resistance drives the choice** [[idsa-2017-infectious-diarrhea]]:
 
-- FQ resistance is **low** in US/Canadian patients **without** international travel, but high in commonly visited countries — **56% in Mexico to >92% in Thailand**.
-- Macrolide resistance remains **<5%** among US human isolates.
-- → Azithromycin is the primary treatment for TD acquired in Thailand (randomized trial data) and should be **first-line for *Campylobacter* in travelers to any location unless FQ susceptibility is confirmed**.
+- FQ resistance is **low** in US and Canadian patients **without** international travel, but significantly higher in many commonly visited countries — **56% in Mexico to >92% in Thailand**.
+- Macrolide resistance remains **<5%** among US human isolates → azithromycin is the primary treatment for TD acquired in Thailand (randomized trial data) and **first-line for *Campylobacter* in travelers to any other location unless FQ susceptibility is confirmed**.
+- In vitro azithromycin resistance has been rising among isolates in Nepal and Thailand, but **clinical failures have not been reported**. [[acg-2016-acute-diarrhea]]
+
+### Duration
+
+| Scenario | Course |
+|---|---|
+| **Fever or dysentery** — the usual *Campylobacter* picture | **3 days** |
+| Single dose has not resolved symptoms by **24 h** | Complete a **3-day** course |
+| Single-dose therapy | As effective as 3 days only for **noninvasive** TD pathogens — not this one |
+
+*Durations are the ACG Table 4 columns and treatment statements.* [[acg-2016-acute-diarrhea]]
 
 ### Supportive care
 
-- **[[loperamide]] adjunct** is recommended *with* antibiotics for TD (shortens duration, raises cure rate — ACG Rec 8). **Tension to note:** [[idsa-2017-infectious-diarrhea]] Rec 47 says avoid antimotility agents at any age with **fever or inflammatory diarrhea** — the usual *Campylobacter* presentation. Restrict to the non-febrile, non-dysenteric watery case, on antibiotic cover.
-- Rehydration per [[acute-diarrhea]].
+- Rehydration per [[acute-diarrhea]]. Antimotility, antinausea and antiemetic agents may be considered **once the patient is adequately hydrated**, and never substitute for fluid and electrolyte therapy *(Rec 46, weak/low)*.
+
+> [!pitfall] No loperamide in febrile or bloody diarrhea
+> [[loperamide|Loperamide]] and other antimotility drugs are to be **avoided at any age with fever or inflammatory diarrhea**, or where [[toxic-megacolon|toxic megacolon]] may result *(Rec 47, strong/low)*, and are **not given under 18 years** *(strong/moderate)* — which covers the usual *Campylobacter* presentation. ACG instead recommends adjunctive loperamide **with** antibiotics for TD *(ACG Rec 8, strong/moderate)*; the newer IDSA guidance governs, so restrict loperamide to the **non-febrile, non-dysenteric watery** case on antibiotic cover.
+
+### Public health and follow-up testing
+
+- **Campylobacteriosis is nationally notifiable** — one of the 13 diarrhea-associated conditions on the 2017 national list; report it to the state, territorial or local health department *(Rec 60, strong/high)*.
+- A **panel-positive stool is still cultured** in the clinical or public health laboratory wherever isolate submission is requested or required under reporting rules, so outbreaks are detected and investigated *(Rec 15, strong/low)*.
+- People with diarrhea who **attend or work in child care, long-term care, patient care, food service or recreational water venues** follow jurisdictional outbreak-reporting and infection-control rules *(Rec 2, strong/high)*.
+- **Follow-up testing is not recommended** in most people once diarrhea resolves *(Rec 26, strong/moderate)*. Serial stool specimens are required in certain situations by local health authorities before return to child care, work or group activities — by **traditional culture**, since molecular tests are not validated as proof of cure. IDSA's worked clearance examples cover *Salmonella* Typhi, nontyphoidal *Salmonella* and STEC only; it gives no *Campylobacter*-specific culture count, so confirm the local rule.
+- **Asymptomatic carriers** who practise hand hygiene in low-risk settings need **no treatment**; those in high-risk settings (healthcare, child or elderly care, food service) are treated per local public-health guidance *(Rec 51)*.
+- **Hand hygiene after touching animals or their feces/environments**, especially in public settings such as petting zoos, is explicitly recommended *(Rec 52, strong/moderate)* — the relevant exposures here.
 
 ### Postinfectious and extraintestinal sequelae
 
-- *C. jejuni* is the leading infectious trigger of **Guillain-Barré syndrome** (ganglioside molecular mimicry; IDSA Rec 7).
-- Also reported: **reactive arthritis**, erythema nodosum, glomerulonephritis, hemolytic anemia, and [[postinfectious-ibs|post-infectious irritable bowel syndrome (IBS)]]. [[idsa-2017-infectious-diarrhea]]
+Clinicians should evaluate people with enteric infection for postinfectious and extraintestinal manifestations *(Rec 7, strong/moderate)*. *Campylobacter* sequelae (IDSA Table 4):
+
+- **Guillain-Barré syndrome** and **immunoglobulin A nephropathy** — *Campylobacter* is the only organism IDSA lists for either.
+- **Reactive arthritis** (includes Reiter syndrome), **erythema nodosum**, **glomerulonephritis**, **hemolytic anemia**, **intestinal perforation**, and [[postinfectious-ibs|post-infectious irritable bowel syndrome (IBS)]].
 
 ---
 
 ## See Also
 
-[[acute-diarrhea]], [[fever-returning-traveler]], [[salmonella-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[entamoeba-histolytica-infection]], [[clostridioides-difficile]], [[norovirus]], [[rotavirus]], [[inflammatory-bowel-disease]], [[rifaximin]], [[loperamide]], [[postinfectious-ibs]]
+[[acute-diarrhea]], [[fever-returning-traveler]], [[salmonella-infection]], [[shigellosis]], [[shiga-toxin-producing-e-coli]], [[enterotoxigenic-e-coli]], [[entamoeba-histolytica-infection]], [[clostridioides-difficile]], [[norovirus]], [[rotavirus]], [[hiv-aids-related-diarrhea]], [[inflammatory-bowel-disease]], [[toxic-megacolon]], [[rifaximin]], [[loperamide]], [[postinfectious-ibs]]
 
 ---
 
