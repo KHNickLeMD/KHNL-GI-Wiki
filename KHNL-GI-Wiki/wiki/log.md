@@ -6,6 +6,43 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-15] update | Anki card pass — dedup, 10 pages carded, 5 card files reviewed
+
+**Dedup (merge duplicates):**
+- `anki-dupes.mjs` listed 4 candidate pairs. 1 merged, 3 judged distinct; all 4 verdicts marked in the ledger, queue now empty.
+- Merged: functional diarrhea loperamide regimen → `[[loperamide]]` `[1c4025]` (dose belongs to the drug page; keeper carries `{also:functional-diarrhea}`).
+- Distinct: anti-TNF maintenance doses vs trough targets · baclofen for alcohol use disorder vs rumination · certolizumab in perianal disease vs trough targets.
+
+**Pages carded (eligible = no card file, or card file older than the page):**
+- `[[rifaximin]]` — traveler's diarrhea dose; 4 broken `at:` anchors re-picked.
+- `[[linaclotide]]` — no new cards (label-sourced content is not cardable; IBS-C dose owned by `[[irritable-bowel-syndrome]]`, refractory-constipation fact by `[[prucalopride]]`).
+- `[[functional-chest-pain]]` — Rome V symptom frequency + 8-week antisecretory requirement.
+- `[[primary-sclerosing-cholangitis]]` — no new cards (ESGE 2026 delta is terminology already carded).
+- `[[autoimmune-hepatitis]]` — 3 EASL 2025 cards (varix screening below the Baveno cut-off, variant-syndrome test order, AIH/PBC regimens); 9 broken anchors fixed after the heading renames.
+- `[[crohns-disease]]`, `[[ulcerative-colitis]]` — link-only page bumps; **`[cd253c]` corrected**: it still taught AGA 2024's 6-month preconception stop, which the page now overrides with the 2025 global consensus (methotrexate 1–3 months, ozanimod ≥3 months).
+- `[[biliary-stricture]]` — 5 ESGE 2026 cards (endotherapy trigger, etiology-specific stent choice + table, 10-mm preoperative SEMS, EUS-BD duct-size gate, ERCP over PTBD); `[e7b011]` updated to the ≥70% drainage target.
+- `[[jak-inhibitors]]` — preconception stop interval, no breastfeeding.
+- `[[ibd-in-pregnancy]]` — new card file, 8 cards (preconception remission target, calprotectin in pregnancy, non-obstetric cesarean, surgery timing, never-start classes, breastfeeding, infant BCG, fertility referral).
+- `[[methotrexate]]` — preconception interval + lactation.
+- `[[anal-cancer-screening]]` — cytology where anoscopy capacity is limited, risk Category B; 2 anchors fixed.
+- `[[hereditary-pancreatitis]]` — counseling triggers in pancreatic cancer, testing in end-stage disease.
+- `[[device-assisted-enteroscopy]]` — 3 technique cards from the new `## Technique` section; 6 anchors fixed.
+- `[[small-bowel-obstruction]]` — new card file, 5 cards (imaging, water-soluble contrast protocol, contraindications to a non-operative trial, 72 h / 500 mL failure criteria, long trilumen tube).
+
+**Card quality review (release sweep):**
+- `bariatric-surgery` 20 → 18 notes (CSPH assessment merged with the HVPG threshold; dilation pressure merged into balloon size); 3 Back Extra tables added.
+- `noninvasive-liver-disease-assessment` 20 → 17 (rule-in/rule-out mirror notes, shear-wave and NAFLD Fibrosis Score cut-points consolidated into one note with the full cut-point grid as Back Extra).
+- `gastric-polyps` 19 → 17 (multiple-polyp algorithm and fundic-gland carpeting consolidated).
+- `acute-diarrhea` 19 notes kept; `[ad9006]` fixed — two clozes shared one answer, so each gave the other away; azithromycin's destination moved to its dose note, leaving `[ad9015]` on rifaximin alone.
+- `budd-chiari-syndrome` 19 → 17 (paroxysmal nocturnal hemoglobinuria merged into the JAK2 note; AFP threshold merged into the HCC-surveillance note).
+- Skipped deliberately: `gastroenteropancreatic-neuroendocrine-tumors` — all 23 notes are NCCN-sourced, and the NCCN licence bars use with a language model, so the file cannot be correlated against its source. Needs Nick's decision.
+
+**Build:** `build-anki.mjs` ends at **4,630 notes with 0 problems** — the "cards stale" backlog is cleared for every currently eligible page.
+
+**Not committed:** this pass was told not to commit or push, so this entry and nothing else in `wiki/` is staged; the card files live outside the repo and are already on disk.
+
+---
+
 ## [2026-11-15] lint | Quality review — release sweep (pages)
 
 **Scope:** Quality review step only (LINT behaviour), by budget. Queue from `review-queue.py --pages 10`, worked from the top, one subagent per page. Each page: decision sufficiency + source fidelity against its tier-1 raw sources first, then visuals (accuracy outranks visuals — no figure where a needed value/unit/branch condition is absent), then concision, callouts, consistent organization, abbreviations.
