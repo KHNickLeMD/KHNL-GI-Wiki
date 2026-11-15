@@ -3,8 +3,8 @@ title: "Primary Sclerosing Cholangitis"
 category: disease-script
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant, dominant-stricture, igg4, udca, mrcp, fish, liver-stiffness]
 created: 2026-05-19
-updated: 2026-11-13
-sources: [acg-2026-preventive-care-cirrhosis, acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, aga-2019-psc-cancer-surveillance, baveno-viii-2026-portal-hypertension, asge-2025-ibd-endoscopy-consensus, ecco-2024-eim-ibd]
+updated: 2026-11-15
+sources: [acg-2026-preventive-care-cirrhosis, acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, aga-2019-psc-cancer-surveillance, baveno-viii-2026-portal-hypertension, asge-2025-ibd-endoscopy-consensus, ecco-2024-eim-ibd, esge-2026-biliary-strictures]
 ---
 
 ## Assessment
@@ -112,7 +112,7 @@ Primary sclerosing cholangitis (PSC) is a chronic, cholestatic liver disease lik
 **Stricture Terminology** ([[aasld-2022-psc]]):
 
 - **Dominant stricture:** a stricture **on ERCP** with diameter **≤1.5 mm in the common bile duct (CBD)** or **≤1 mm in the hepatic duct**; present in up to half of patients at diagnosis, and up to **45%** develop one during the disease course. **Do not use this term in MRI reports** — MRI/MRCP lacks the spatial resolution and ERCP's high-pressure injection makes the two non-equivalent
-- **High-grade stricture:** the MRI/MRCP counterpart — **>75% lumen reduction** in CBD or hepatic ducts
+- **High-grade stricture:** the MRI/MRCP counterpart — **>75% lumen reduction** in CBD or hepatic ducts. ESGE 2026 uses **"high grade" in place of "dominant"** and defines it on MRCP as a **75% reduction in duct diameter** in the CBD or hepatic ducts ([[esge-2026-biliary-strictures]])
 - **Relevant stricture:** Any stricture of CBD or hepatic ducts with obstructive cholestasis and/or bacterial cholangitis signs/symptoms
 
 ---
@@ -186,7 +186,7 @@ Note: UDCA has not been shown effective for pruritus in PSC. OCA decreases circu
 - Recurrent bacterial cholangitis
 - Progressive bile duct dilation
 
-MRI/MRCP should generally precede ERCP to clarify need and guide technical approach (GS 23).
+MRI/MRCP should generally precede ERCP to clarify need and guide technical approach (GS 23); ESGE 2026 likewise requires MRCP evaluation of biliary anatomy before endoscopic dilation ([[esge-2026-biliary-strictures]]).
 
 **Procedural approach:**
 

@@ -409,11 +409,27 @@ AZA is stopped for adverse effects in ~15% in year 1 (36.5% within 6 months in t
 
 **Anti-SLA positivity:** Withdrawal rarely successful; do not attempt in anti-SLA–positive patients
 
-### Carcinomatous Surveillance
+### Surveillance in AIH Cirrhosis
 
-**[[hcc-surveillance|HCC surveillance]] in AIH cirrhosis:** Liver ultrasound ± alpha-fetoprotein (AFP) every 6 months — same standard as cirrhosis of any etiology. [[aasld-2020-autoimmune-hepatitis]]
+- **[[hcc-surveillance|HCC surveillance]]:** liver ultrasound ± alpha-fetoprotein (AFP) **every 6 months** (*LoE 3, strong*) — recommended despite HCC being **less common** in AIH cirrhosis than other aetiologies (cumulative incidence 2.6%, 4.6%, 5.6%, 6.6% at 5/10/15/20 years after cirrhosis; 1.44 cases/1,000 patient-years), which sits **below the 0.5%/year threshold** usually required for cost-effective surveillance — so personalised strategies may be used. Extra risk factors: obesity, age ≥50 y, alcohol ≥25 g/day, AIH/PSC variant. Manage HCC per HCC guidelines (*LoE 2, strong*); **immunotherapy can be considered if the AIH is well controlled** (*LoE 4, weak*) [[easl-2025-autoimmune-hepatitis]]
+- **Varices:** [[upper-endoscopy|upper GI endoscopy]] to screen for varices needing treatment if **[[liver-stiffness-measurement|LSM]] ≥20 kPa or platelets ≤150 × 10⁹/L**, and also with **lower LSM but indirect signs of [[portal-hypertension|portal hypertension]]** (splenomegaly, widened portal vein, collaterals) (*LoE 3, strong*) [[easl-2025-autoimmune-hepatitis]]
 
-### Overlap Syndromes
+> [!pitfall] Baveno VII elastography cut-offs are not validated in AIH
+> Up to **52%** of AIH patients with clear signs of portal hypertension had an LSM **below** the Baveno rule-out cut-off, and thiopurines/MMF lower platelets independently. Judge clinical, laboratory, elastographic and ultrasound signs together rather than relying on the cut-off ([[easl-2025-autoimmune-hepatitis]]).
+
+### Overlap / Variant Syndromes
+
+**EASL 2025 framing** [[easl-2025-autoimmune-hepatitis]]: suspect a variant **whenever cholestatic features are present** (*LoE 2, strong*); in adults **test PBC-specific autoantibodies before anything else** (AMA-M2, anti-gp210, anti-sp100) (*LoE 2, strong*), then **magnetic resonance cholangiography if those are negative** (*LoE 3, strong*). **Treat the predominant component** (*LoE 4, strong*).
+
+| Variant | Initial regimen |
+|---|---|
+| **AIH/PBC, moderate or severe hepatitis** | Standard immunosuppression **+ [[ursodeoxycholic-acid\|UDCA]] 13–15 mg/kg/day** (*LoE 4, weak*) |
+| **AIH/PBC, mild hepatitis** | **UDCA monotherapy**, adding immunosuppression if CBR is not reached (*LoE 4, weak*) |
+| **AIH/PSC (adults and children)** | Immunosuppression **± UDCA** (*LoE 4, weak*); combination if simplified score >5 and mHAI >3 — predniso(lo)ne **0.5 mg/kg/day tapered to 10–15 mg/day** with UDCA **13–15 mg/kg/day** improved survival and reduced LT vs classic PSC |
+
+- **A biopsy showing moderate and/or severe hepatitis is mandatory whichever diagnostic score is used**
+- **Every child with AIH gets magnetic resonance cholangiography at diagnosis**, regardless of cholestatic enzymes, repeated if activity or cholestasis persists (*LoE 2–3, strong*); not needed under age 6 if GGT is normal. Failure to reach CBR is itself a reason to look for sclerosing cholangitis
+- Refer to experienced centres / the ERN RARE-LIVER platform
 
 **AIH-PBC overlap (Paris criteria):** [[aasld-2020-autoimmune-hepatitis]]
 
@@ -504,7 +520,8 @@ See [[liver-transplantation]] for broader post-LT context.
 
 ## Sources
 
-1. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
+1. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]
+2. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
 2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
 3. [[aasld-2020-autoimmune-hepatitis|AASLD Practice Guidance on Autoimmune Hepatitis (2020)]]
 4. [[aasld-2018-pbc|AASLD 2018 Practice Guidance: Primary Biliary Cholangitis]]
