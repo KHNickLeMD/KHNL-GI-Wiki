@@ -1,6 +1,36 @@
 # Wiki Log
 
-Append-only chronological record. Each entry: `## [YYYY-MM-DD] TYPE | Title`
+Append-only chronological record. Each entry: `## [2026-11-15] update | Card pass — dedup, 8 stale card files, 7-file quality review
+
+Cards only; nothing in `wiki/` changed except this entry. Deck rebuilt clean after every file (4,633 notes, 0 build problems).
+
+**Dedup:**
+- 9 candidate pairs from `anki-dupes.mjs`, all judged **distinct** and marked in the ledger — Rome V criteria for different diagnoses, pregnancy facts for different drugs, biliary stent choice by different etiology. No merges warranted.
+
+**Card files brought up to date (8 stale pages, all bumped by the 2026-11-15 quality sweep):**
+- `pamoras` — dose note re-sourced to Rome V 2026 and extended to all three approved PAMORAs (naldemedine 0.2 mg added); dose table in Back Extra; 3 broken `at:` anchors re-picked.
+- `gastric-antral-vascular-ectasia` — new note for Baveno VIII 5.43 (endoscopic variceal ligation recommended over argon plasma coagulation), the change in direction from Baveno VII; GAVE-vs-PHG table added.
+- `tacrolimus` — 9 `at:` anchors remapped to the page's new headings; Back Extra claims not on the page removed (cyclosporine-comparison, ulcerative-colitis trough); trough-target table added; new note for Rec 69 (do not substitute cyclosporine in recurrent primary biliary cholangitis).
+- `givosiran` — vague 3-caution note recut to the pregnancy contraindication; two overlapping monitoring notes merged.
+- `intraductal-ultrasound`, `radiation-proctopathy`, `campylobacter-infection` — no new notes: the candidate facts are owned by `ampullary-adenoma`, `argon-plasma-coagulation`/`radiofrequency-ablation` and `acute-diarrhea`. Anchors fixed; one Campylobacter note carried a front claim and a mechanism not on the page, both corrected.
+- `intestinal-methanogen-overgrowth` — anchors narrowed to the specific sections; regimen-efficacy table added.
+
+**Card quality review (7 files, notes before → after):**
+- `immune-checkpoint-inhibitor-hepatitis` 19 → 16, 2 tables — six notes tested the grade table piecemeal; merged into one steroid-dose ladder and one grading note, 14 anchors remapped.
+- `biliary-stricture` 19 → 20, 2 tables — three notes still carried ACG dwell figures that ESGE 2026 replaced on the page; added the fcSEMS anatomical contraindications.
+- `chronic-constipation` 19 → 16, 1 table — colonoscopy indication/alarm-feature notes merged, colectomy work-up merged; the colorectal-cancer-screening age note retired to its owner page.
+- `interventional-eus-vascular` 19 → 15, 2 tables — three EUS-PPG measurement-protocol notes merged into one, two coil-sizing notes merged.
+- `anticoagulation-gi-bleeding` 19 → 17, 3 tables — the two deferral-window notes merged into one grid; thrombotic-risk and bleeding-risk tables added.
+- `hcc-surveillance` 19 → 18, 2 tables — all three alpha-fetoprotein positivity criteria consolidated onto one note; PAGE-B score table added.
+- `chronic-idiopathic-constipation` 18 → 14, 0 tables — four Rome V notes reduced to three with all six symptom items in one; stimulant-safety duplicate merged; prucalopride 4-mg rationale cut (trial rationale, dose owned by the drug page).
+
+**Not carded, on purpose:** `telemedicine-in-gastroenterology`, `bristol-stool-form-scale`, `peginterferon-alfa-2a` (standing skips). `gastroenteropancreatic-neuroendocrine-tumors` tops the review queue but all 23 of its notes are NCCN-sourced — still waiting on Nick's call about the NCCN licence.
+
+**Uncommitted:** this pass was asked not to commit or push.
+
+---
+
+## [YYYY-MM-DD] TYPE | Title`
 
 Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
