@@ -78,7 +78,7 @@ The chapter also sharpens the **functional heartburn vs reflux hypersensitivity*
 > Must include **all** of the following:
 > 1. **Retrosternal chest pain or discomfort** (cardiac causes should be ruled out)
 > 2. **Absence of associated esophageal symptoms** such as heartburn or dysphagia
-> 3. Absence of evidence that **GERD** (abnormal endoscopy ≥LA grade B esophagitis, or reflux burden by Lyon 2.0) **or eosinophilic esophagitis** is the cause of the symptoms
+> 3. Absence of evidence that **GERD** (abnormal endoscopy ≥LA grade B esophagitis, or reflux burden by Lyon 2.0) **or nonreflux esophagitis** is the cause of the symptoms
 > 4. **Absence of disorders of EGJ outflow and/or disorders of esophageal peristalsis** (achalasia, conclusive EGJOO, absent contractility, hypercontractile esophagus, distal esophageal spasm) — **except IEM**, per Chicago Classification version 4.0
 >
 > Criteria fulfilled for the past 3 months, onset ≥6 months before diagnosis, frequency at least once weekly, despite optimized antisecretory therapy for at least 8 weeks.

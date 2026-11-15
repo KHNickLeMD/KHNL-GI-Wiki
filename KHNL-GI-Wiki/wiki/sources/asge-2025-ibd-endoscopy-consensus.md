@@ -178,6 +178,7 @@ Four endoscopic figure sets accompany the statements, each illustrating a visual
 - `[[pouchitis]]` — pouchoscopy landmarks and biopsy sites (17), PDAI (18), and the three-tier pouch surveillance stratification (25–27).
 - `[[colonic-stricture]]` / `[[aga-2026-therapeutic-endoscopy-ibd]]` — no intralesional steroid (30), avoid EBD of deeply ulcerated strictures (31), no stents for benign IBD strictures (34), outcome definitions (32).
 - `[[ostomy-management]]` — ileoscopy beyond the fascia before stoma closure (19) and the mechanical/ischemic lesions between stoma and fascia.
+- `[[device-assisted-enteroscopy]]` — Table 2 non-consensus statement 5: push/device-assisted enteroscopy in suspected small-bowel Crohn's disease reached no consensus.
 - `[[capsule-endoscopy]]` — patency-capsule-first rule and the CD retention rates (10).
 - `[[intestinal-ultrasound]]` — the consensus admits IUS only as "can be considered, where available"; the stronger "we encourage onsite use" statement **failed consensus.**
 - `[[colonoscopy-surveillance]]`, `[[colorectal-cancer]]`, `[[primary-sclerosing-cholangitis]]` — colitis-associated neoplasia surveillance and the PSC-at-diagnosis colonoscopy rule.

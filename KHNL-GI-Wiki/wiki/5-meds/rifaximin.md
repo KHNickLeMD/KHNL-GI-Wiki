@@ -3,81 +3,150 @@ title: "Rifaximin"
 category: med
 tags: [rifaximin, antibiotic, sibo, ibs, hepatic-encephalopathy, nonabsorbable, gut-selective]
 created: 2026-05-19
-updated: 2026-10-27
-sources: [acg-2020-sibo, acg-2020-ibs, aga-2022-ibs-d, acg-2026-hepatic-encephalopathy, baveno-vii-2022-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy, aga-2020-sibo]
+updated: 2026-11-15
+sources: [acg-2026-hepatic-encephalopathy, acg-2026-preventive-care-cirrhosis, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2024-tips, aasld-easl-2014-hepatic-encephalopathy, aga-2022-ibs-d, acg-2020-ibs, aga-2020-sibo, acg-2020-sibo, acg-2026-diverticulitis, aga-2021-colonic-diverticulitis, acg-2016-acute-diarrhea]
+quality_reviewed: 2026-11-15
 ---
 
-A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal systemic absorption; acts locally in the gastrointestinal (GI) tract. FDA-approved for [[acute-diarrhea|traveler's diarrhea]], [[irritable-bowel-syndrome|diarrhea-predominant irritable bowel syndrome (IBS-D)]], and [[hepatic-encephalopathy|hepatic encephalopathy (HE)]]. Used extensively for [[small-intestinal-bacterial-overgrowth]] (SIBO).
+## Contents
+- [[#Class / Mechanism]]
+- [[#Indications]]
+- [[#Dosing]]
+- [[#Clinical Use by Indication]]
+  - [[#Hepatic Encephalopathy]]
+  - [[#Irritable Bowel Syndrome with Diarrhea]]
+  - [[#Small Intestinal Bacterial Overgrowth]]
+  - [[#Intestinal Methanogen Overgrowth]]
+  - [[#Traveler's Diarrhea]]
+- [[#Where Rifaximin Is Not Indicated]]
+- [[#Adverse Effects and Practical Issues]]
+- [[#How Guidance Has Changed]]
+- [[#See Also]]
+- [[#Sources]]
 
-**Mechanism:** Inhibits bacterial RNA polymerase (beta-subunit). Broad-spectrum antibacterial with activity against aerobic and anaerobic Gram-positive and Gram-negative bacteria. Gut-selective due to minimal systemic bioavailability.
+## Class / Mechanism
 
-**Dosing in SIBO — the two tier-1 sources give different doses.** [[aga-2020-sibo]] is the later 2020 publication, so this page follows its regimen; the American College of Gastroenterology (ACG) dose is stated alongside because it is the one most US prescriptions are written for.
+- Non-absorbable **rifamycin-derived oral antibiotic**; acts locally in the gastrointestinal (GI) tract with minimal systemic absorption ([[acg-2016-acute-diarrhea|American College of Gastroenterology (ACG) 2016]], [[acg-2026-hepatic-encephalopathy|ACG 2026]]).
+- **Broad activity against aerobic and anaerobic, Gram-negative and Gram-positive bacteria**; modulates the composition of the intestinal microbiota rather than sterilizing it ([[aga-2022-ibs-d|American Gastroenterological Association (AGA) 2022]], [[acg-2026-hepatic-encephalopathy]]).
+- Food and Drug Administration (FDA)-approved for **diarrhea-predominant [[irritable-bowel-syndrome|irritable bowel syndrome (IBS-D)]]** and for **reduction in the risk of overt hepatic encephalopathy (OHE) recurrence in adults** ([[aga-2022-ibs-d]], [[acg-2026-hepatic-encephalopathy]]). Use in [[small-intestinal-bacterial-overgrowth|small intestinal bacterial overgrowth (SIBO)]] is **off-label** ([[aga-2020-sibo]]).
 
-| | [[aga-2020-sibo\|American Gastroenterological Association (AGA) 2020 Clinical Practice Update (CPU)]] (Table 2) | [[acg-2020-sibo\|ACG 2020]] (Table 5) |
-|---|---|---|
-| Dose | **800–1200 mg daily in divided doses** | 550 mg t.i.d. (= **1,650 mg/day**) |
-| Duration | **7–10 days** (general antibiotic advice, all agents) | Not specified |
-| Efficacy quoted | ~**70%** eradication (meta-analysis) | **61%–78%** |
+## Indications
 
-- **Duration.** [[aga-2020-sibo]]: "a single **7- to 10-day course** improves symptoms for up to several months in **46%–90%** of patients with SIBO and renders breath tests negative in **20%–75%**." A 14-day course remains common practice but is not stated by either society for SIBO.
-- Trial dosing behind the AGA range: **800 mg/day × 4 weeks** to **1200 mg/day × 7 days** ([[aga-2020-sibo]]); ACG's pooled trials ranged **600–1,600 mg/day** for **5–28 days**.
-- Meta-analysis (32 trials + 1 randomized crossover, n=1,331): overall intention-to-treat (ITT) success **70.8%** (confidence interval [CI] 61.4–78.2), adverse reactions **4.6%**. Only 1 of the trials was placebo-controlled.
-- **Coverage:** SIBO is **not an FDA-recognized indication** for rifaximin in the US and "might not be covered by the patient's insurance carrier" ([[aga-2020-sibo]]) — off-label use.
-- **Recurrence after one course is up to 44% at 9 months**, more likely with **older age, prior appendectomy, or chronic [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] use**. For recurrent symptoms, [[aga-2020-sibo]] describes **monthly pulses (first 5–10 days of each month) or continuous therapy with rotating regimens** to limit resistance — expert opinion, no trial support.
+| Setting | Position | Strength / certainty | Source |
+|---|---|---|---|
+| Acute OHE | **Add** rifaximin to [[lactulose]] vs lactulose alone (Rec 9) | Conditional / low | [[acg-2026-hepatic-encephalopathy\|ACG 2026]] |
+| Outpatient, after an episode of OHE | Rifaximin to **prevent [[hepatic-encephalopathy\|hepatic encephalopathy (HE)]] recurrence** (Rec 12) | Conditional / low | [[acg-2026-hepatic-encephalopathy\|ACG 2026]] |
+| OHE **while already on lactulose** | **Add** rifaximin to prevent recurrence — strongest for those hospitalized for OHE on lactulose (Rec 2) | Conditional / low | [[acg-2026-preventive-care-cirrhosis\|ACG 2026 preventive care]] |
+| On lactulose maintenance with **recurrent** episodes | **Add** rifaximin (Rec 13) | **Strong / high** | [[acg-2026-hepatic-encephalopathy\|ACG 2026]] |
+| Secondary prophylaxis of HE | Indicated (4.8) | A.1 | [[baveno-vii-2022-portal-hypertension\|Baveno VII]] |
+| Elective [[tips\|transjugular intrahepatic portosystemic shunt (TIPS)]] in decompensated [[cirrhosis]], **with or without** prior OHE | Start before insertion and continue after, to reduce recurrent or de novo OHE (Rec 22) | **Strong / moderate** | [[acg-2026-hepatic-encephalopathy\|ACG 2026]] |
+| Candidates for elective TIPS (any indication) | **Should be considered** for HE prophylaxis (6.16) | Strong, level of evidence 2 | [[baveno-viii-2026-portal-hypertension\|Baveno VIII]] |
+| Elective TIPS **for prevention of variceal rebleeding** | May reduce post-TIPS HE; can be considered when feasible (Guidance Statement 6) | Guidance statement | [[aasld-2024-tips\|AASLD 2024]] |
+| Global IBS-D symptoms | Recommended (Rec 20) | **Strong / moderate** | [[acg-2020-ibs\|ACG 2020]] |
+| IBS-D, initial treatment | Suggested (Rec 2a) | Conditional / moderate | [[aga-2022-ibs-d\|AGA 2022]] |
+| IBS-D, **recurrent symptoms after an initial response** | Retreatment suggested (Rec 2b) | Conditional / moderate | [[aga-2022-ibs-d\|AGA 2022]] |
+| Symptomatic SIBO | Antibiotics to eradicate overgrowth and resolve symptoms; rifaximin is the **best-studied non-absorbable** agent | Conditional / low (antibiotics); summary statement (rifaximin) | [[acg-2020-sibo\|ACG 2020]] |
+| [[intestinal-methanogen-overgrowth\|Intestinal methanogen overgrowth (IMO)]] | Rifaximin **+ neomycin** more effective than either alone | Summary statement | [[acg-2020-sibo\|ACG 2020]] |
+| Traveler's diarrhea | One of the empiric antibiotic regimens (Table 4) | — | [[acg-2016-acute-diarrhea\|ACG 2016]] |
+| Traveler's diarrhea — chemoprophylaxis | Antibiotic chemoprophylaxis has moderate-to-good effectiveness and **may be considered in high-risk groups for short-term use** (Rec 18) | **Strong / high** | [[acg-2016-acute-diarrhea\|ACG 2016]] |
 
-**Dosing for [[intestinal-methanogen-overgrowth|intestinal methanogen overgrowth (IMO)]]:**
+## Dosing
 
-- **Rifaximin 400 mg t.i.d. + neomycin 500 mg b.i.d. × 10 days** — the combination is what works, not either drug alone.
-- Retrospective series (n=74), methane driven below 3 ppm: **87% with both** vs **33% neomycin alone** vs **28% rifaximin alone**.
+| Indication | Dose | Duration | Source |
+|---|---|---|---|
+| OHE — reduce risk of recurrence | **550 mg twice daily (b.i.d.)** | Ongoing maintenance | [[acg-2026-hepatic-encephalopathy\|ACG 2026]] |
+| Before elective TIPS | **550 mg b.i.d., started 14 d before** insertion | Continue **≥6 mo** | [[acg-2026-hepatic-encephalopathy\|ACG 2026]] (Rec 22, timing); [[aasld-2024-tips\|AASLD 2024]] (dose, within 14 d before, 6 mo) |
+| IBS-D | **550 mg three times daily (t.i.d.)** | **14 d**; retreat **up to 2 more times** at the same regimen for recurrence | [[aga-2022-ibs-d\|AGA 2022]] |
+| SIBO — AGA | **800–1,200 mg daily in divided doses** | **7–10 d** | [[aga-2020-sibo\|AGA 2020]] |
+| SIBO — ACG | **550 mg t.i.d.** (1,650 mg/d) | Not specified | [[acg-2020-sibo\|ACG 2020]] |
+| IMO | **Rifaximin 400 mg t.i.d. + neomycin 500 mg b.i.d.** | **10 d** | [[acg-2020-sibo\|ACG 2020]] |
+| Traveler's diarrhea | **200 mg t.i.d.** | **3 d** | [[acg-2016-acute-diarrhea\|ACG 2016]] |
 
-**IBS-D — 550 mg t.i.d. × 14 days**, the FDA-approved dose and course ([[aga-2022-ibs-d]]). [[acg-2020-ibs]] **Rec 20: strong recommendation, moderate quality evidence**:
+**The two tier-1 SIBO doses differ.** [[aga-2020-sibo]] (Gastroenterology, October 2020) is the later 2020 publication, so this page follows its 800–1,200 mg/d regimen; the ACG dose is stated alongside because it is the one most US prescriptions are written for. ACG 2016 gives no rifaximin dose for chemoprophylaxis of traveler's diarrhea.
 
-- **Retreatment: up to 2 further courses at the same 550 mg t.i.d. × 14 d regimen** for symptom recurrence ([[aga-2022-ibs-d]]).
-- Efficacy: pooled TARGET 1/2 — improvement in both abdominal pain and stool consistency in **40.8% vs 31.7%** placebo (*P*<0.001); meta-analysis of 5 trials **number needed to treat (NNT) 9**.
-- Retreatment (TARGET 3): 44% responded to open-label rifaximin; of responders **36% never relapsed**, and the 64% who did were superior to placebo on retreatment.
-- **Who responds:** a **positive breath test** predicted a **56%** FDA-endpoint response vs **25%** with a negative breath test — baseline microbiome abnormality is the response predictor.
-- Best safety profile of the IBS drug classes: **number needed to harm (NNH) 8,971** (vs 18.3 for tricyclic antidepressants); no stable microbiome resistance even after 3 courses; [[clostridioides-difficile|C. difficile]] colitis rare.
+## Clinical Use by Indication
 
-**Hepatic encephalopathy — 550 mg b.i.d.**, the FDA-approved dose for reducing risk of overt HE (OHE) recurrence in adults ([[acg-2026-hepatic-encephalopathy]]):
+### Hepatic Encephalopathy
 
-| Setting | ACG 2026 position | Grade |
-|---|---|---|
-| Acute OHE | **Add** rifaximin to [[lactulose]] vs lactulose alone (Rec 9) | Conditional, low certainty |
-| Outpatient, prior OHE | Rifaximin to **prevent recurrence** (Rec 12) | Conditional, low certainty |
-| On lactulose maintenance, **recurrent** episodes | **Add** rifaximin (Rec 13) | **Strong, high certainty** |
-| Elective [[tips\|transjugular intrahepatic portosystemic shunt (TIPS)]] in decompensated [[cirrhosis]], **with or without** prior OHE | Start **14 d before** insertion, continue **≥6 mo** (Rec 22) — see [[#Contradictions]] | **Strong, moderate certainty** |
+- **Combination beats monotherapy.** Rifaximin monotherapy has maintained remission and lowered hospitalization vs lactulose monotherapy, but only in **small or retrospective** studies; the preponderance of evidence favors **rifaximin + lactulose** in anyone who tolerates dual therapy, so combination is the default ([[acg-2026-hepatic-encephalopathy]]). [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014]] reached the same conclusion — "no solid data support the use of rifaximin alone."
+- **Pivotal randomized controlled trial (RCT)** (n=299; cirrhosis with **≥2 OHE episodes in the preceding 6 months**, in remission at entry, **91% on background lactulose**): at 6 months, **58% risk reduction in breakthrough OHE (number needed to treat [NNT] 4)** and **50% reduction in HE-related hospitalization (NNT 9)** ([[acg-2026-hepatic-encephalopathy]]).
+- **Stool form drives the titration decision.** A [[bristol-stool-form-scale|Bristol Stool Scale (BSS)]] score **≥5** on lactulose means cutting lactulose back or adding rifaximin; the guideline's prevention flowchart puts **>3 loose (Bristol 5+) stools** on the "consider rifaximin monotherapy ± low-dose lactulose" branch. BSS ≥5 *before* lactulose is even started argues for a non-laxative therapy de novo ([[acg-2026-hepatic-encephalopathy]]).
+- **When to stop.** A patient who fully recompensates — underlying etiology cured or suppressed, [[ascites]] resolved off diuretics, no variceal bleeding for 12 months, and improved albumin, international normalized ratio and total bilirubin — and who has no signs or symptoms of HE on therapy may have HE-directed medications **de-escalated and discontinued sequentially**, monitoring closely for recurrence ([[acg-2026-hepatic-encephalopathy]], Key Concept 16). [[baveno-viii-2026-portal-hypertension|Baveno VIII]] adds that absence of HE *while on* rifaximin is not itself recompensation, and that withdrawal should be considered once etiologic control is achieved and liver function reaches **Child-Turcotte-Pugh (CTP) A** laboratory criteria (7.7).
 
-- Pivotal randomized controlled trial (RCT) (n=299; cirrhosis with **≥2 OHE episodes in the preceding 6 months**, in remission at entry, **91% on background lactulose**): at 6 months, **58% risk reduction in breakthrough OHE (NNT 4)** and **50% reduction in HE-related hospitalization (NNT 9)**.
-- **Monotherapy vs combination:** rifaximin monotherapy *has* maintained remission and lowered hospitalization vs lactulose monotherapy — but only in **small or retrospective** studies. The preponderance of evidence favors **rifaximin + lactulose** in anyone who tolerates dual therapy, so combination is the default.
-- A **[[bristol-stool-form-scale|Bristol Stool Scale]] (BSS) score ≥5** on lactulose signals the need to cut lactulose back or add rifaximin; BSS ≥5 *before* lactulose is even started argues for a non-laxative therapy de novo. *(The guideline uses the Bristol scale without printing the 7 types — see [[chronic-constipation]].)*
+> [!pitfall] In the ICU on broad-spectrum antibiotics, rifaximin adds little
+> Rifaximin is of limited value in the intensive care unit (ICU), especially in patients already receiving broad-spectrum antibiotics — a double-blind trial in OHE admitted to the ICU found reversal of OHE similar with antibiotics alone vs antibiotics plus rifaximin ([[acg-2026-hepatic-encephalopathy]]).
 
-**Where rifaximin is *not* indicated** — Baveno VII draws an explicit boundary [[baveno-vii-2022-portal-hypertension]]:
+### Irritable Bowel Syndrome with Diarrhea
 
-- Indicated for **secondary prophylaxis of HE** (A.1, 4.8) and **should be considered** for overt-HE prophylaxis in patients with prior overt HE undergoing **elective TIPS** (B.2, 4.9)
-- **Not indicated beyond these** — including **primary or secondary prophylaxis of [[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]]** (C.1, 4.10). SBP prophylaxis uses the agents on [[antibiotic-prophylaxis-cirrhosis]], not rifaximin
+- Pooled phase 3 trials: improvement in **both** abdominal pain and stool consistency in **40.8% vs 31.7%** placebo (*P*<0.001) in the month after a 2-week course; meta-analysis of 5 controlled trials gives **NNT 9** ([[acg-2020-ibs]]).
+- **Retreatment works.** In the retreatment trial, **44%** responded to open-label rifaximin; of those responders **36% never relapsed**, and the 64% who did relapse were superior to placebo when retreated — the basis for approval of up to 2 additional courses ([[acg-2020-ibs]], [[aga-2022-ibs-d]]).
+- Safety ranks first among the IBS drug classes: **number needed to harm (NNH) 8,971**, vs 18.3 for tricyclic antidepressants (TCAs) ([[acg-2020-ibs]]).
 
-## Contradictions
+> [!pearl] A positive breath test predicts who responds
+> In a subset of the retreatment trial, a **positive breath test** was associated with a **56%** FDA-endpoint response vs **25%** with a negative test — baseline microbiome abnormality may be the response predictor ([[acg-2020-ibs]]). Whether rifaximin's IBS-D benefit actually operates through SIBO eradication is unresolved ([[aga-2020-sibo]], Best Practice Advice [BPA] 8).
 
-- **Rifaximin around TIPS — guidance reversed.** [[aasld-easl-2014-hepatic-encephalopathy|American Association for the Study of Liver Diseases (AASLD)/European Association for the Study of the Liver (EASL) 2014]] recommended **against** rifaximin for post-[[tips|TIPS]] HE prophylaxis (Grade III, B, 1). [[acg-2026-hepatic-encephalopathy|ACG 2026]] instead recommends **starting rifaximin 14 days before elective TIPS and continuing ≥6 months**, plus considering embolization of extrahepatic collaterals at TIPS. Both are society guidelines, so the newer ACG 2026 governs this page. Readers carrying the 2014 rule should note the change.
-- **Middle data point on TIPS:** Baveno VII (2022) sits between the two — it *supports* considering rifaximin for elective-TIPS HE prophylaxis in patients with prior overt HE (B.2, 4.9), consistent with the direction ACG 2026 later took.
-- **Threshold for adding rifaximin.** The 2014 guideline framed rifaximin as secondary prophylaxis after **≥2** overt HE episodes; ACG 2026 supports adding it to lactulose for **acute OHE** as well as for recurrence prevention — a broader indication.
+### Small Intestinal Bacterial Overgrowth
 
-**Advantages:** Gut-selective, low systemic side effects, low C. difficile infection (CDI) risk, minimal effect on systemic flora.
+- The goal is **not eradication** of the small intestinal microbiota but modulation that produces symptomatic improvement; therapy is empiric, and the regimen should cover both aerobic and anaerobic enteric bacteria ([[aga-2020-sibo]]).
+- **A single 7- to 10-day course** improves symptoms for up to several months in **46%–90%** of patients and renders breath tests negative in **20%–75%** ([[aga-2020-sibo]]). A 14-day course is common practice but is stated by neither society for SIBO.
+- Efficacy: meta-analysis of **32 trials** (7 RCTs, 24 cohort studies, 1 randomized crossover; n=1,331; **only 1 was placebo-controlled**) — intention-to-treat success **70.8%** (confidence interval [CI] 61.4–78.2). Pooled doses ranged **600–1,600 mg/d for 5–28 days** ([[acg-2020-sibo]]). ACG quotes rifaximin efficacy as **61%–78%**.
+- **Recurrence is the rule:** 12.6% at 3 months, 27.5% at 6 months, **43.7% at 9 months** ([[acg-2020-sibo]]) — more likely with **older age, prior appendectomy, or chronic [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] use** ([[aga-2020-sibo]]).
+- **Retreatment has no validated protocol.** For recurrent symptoms, [[aga-2020-sibo]] describes **monthly pulses (first 5–10 days of each month) or continuous therapy with rotating regimens** to limit resistance — expert opinion, no trial support. [[acg-2020-sibo]] likewise reports no universally accepted retreatment protocol.
+- Repeat breath testing after treatment is **not necessary** if symptoms respond ([[aga-2020-sibo]]); ACG allows that retesting may corroborate symptom improvement ([[acg-2020-sibo]]).
 
-**Limitations:** Expensive; recurrence of SIBO is common (no SIBO-eradication with single course prevents long-term recurrence); no head-to-head data vs. systemic antibiotics in SIBO.
+### Intestinal Methanogen Overgrowth
+
+- **The combination is what works, not either drug alone.** Retrospective chart review (n=74, IMO by lactulose breath test) treating 10 days: methane reduced to undetectable (<3 ppm) in **87% with both agents** vs **33% with neomycin alone** and **28% with rifaximin alone** ([[acg-2020-sibo]]).
+- Both neomycin studies defined methane positivity as **≥3 ppm**, not the **≥10 ppm** more recently recommended by the North American Consensus ([[acg-2020-sibo]]).
+
+### Traveler's Diarrhea
+
+- Effective against diarrheagenic *Escherichia coli*; antibiotic regimens may be combined with [[loperamide]] 4 mg first dose, then 2 mg after each loose stool, **not exceeding 16 mg/24 h** ([[acg-2016-acute-diarrhea]]).
+- **Do not use when invasive diarrhea is suspected** — [[campylobacter-infection|*Campylobacter*]], [[salmonella-infection|*Salmonella*]], [[shigellosis|*Shigella*]] or other invasive causes ([[acg-2016-acute-diarrhea]], Table 4 footnote).
+- Chemoprophylaxis: pooled **relative risk 0.33 (95% CI 0.24–0.45)** = **67% protective efficacy**; attack rate reduced by 22.1% absolute, **NNT ≈ 4.5**. Fluoroquinolones give higher pooled protective efficacy (88%) but a less favorable safety and resistance profile ([[acg-2016-acute-diarrhea]]). ACG 2016 does not define which groups count as high risk.
+
+## Where Rifaximin Is Not Indicated
+
+| Setting | Position | Strength / certainty | Source |
+|---|---|---|---|
+| Secondary prophylaxis of [[spontaneous-bacterial-peritonitis\|spontaneous bacterial peritonitis (SBP)]] | **Data are insufficient to recommend** rifaximin (6.23) — prophylaxis uses the agents on [[antibiotic-prophylaxis-cirrhosis]] | Level of evidence 4 | [[baveno-viii-2026-portal-hypertension\|Baveno VIII]] |
+| Primary prevention of OHE in **minimal hepatic encephalopathy (MHE)** | **Not suggested** (Rec 3) — data on rifaximin for primary prevention are sparse | Conditional / low | [[acg-2026-preventive-care-cirrhosis\|ACG 2026 preventive care]] |
+| ICU patients already on broad-spectrum antibiotics | Limited value — see pitfall above | Key concept | [[acg-2026-hepatic-encephalopathy\|ACG 2026]] |
+| Preventing recurrent [[diverticulitis]] | **Recommend against** in patients with a history of acute diverticulitis (Rec 14); trials in symptomatic uncomplicated diverticular disease do not apply to this population | Conditional / very low | [[acg-2026-diverticulitis\|ACG 2026]] |
+| Preventing recurrent diverticulitis | Should **not** be used, alongside [[mesalamine-5-asa\|mesalamine]] and [[probiotics]] (BPA 11) | Expert review | [[aga-2021-colonic-diverticulitis\|AGA 2021]] |
+
+## Adverse Effects and Practical Issues
+
+- Generally **safe and well tolerated vs placebo** in the HE population ([[acg-2026-hepatic-encephalopathy]]); adverse reactions 4.6% across the SIBO trials ([[acg-2020-sibo]]).
+- **Resistance and *Clostridioides difficile*:** no stable microbiome resistance even after 3 courses in IBS-D, no significant microbiome disruption, and [[clostridioides-difficile|*Clostridioides difficile* (*C. difficile*)]] colitis rare ([[acg-2020-ibs]]).
+- **Cost is a real adherence problem.** The cost of rifaximin remains significant; affordability should be assessed on a per-patient basis, because even **brief lapses** in rifaximin therapy are associated with readmission after an initial HE hospitalization ([[acg-2026-hepatic-encephalopathy]]).
+- **Coverage in SIBO:** SIBO is not an FDA-recognized indication and "might not be covered by the patient's insurance carrier" ([[aga-2020-sibo]]). Weigh diarrhea, *C. difficile* infection, intolerance and cost when choosing antibiotic therapy.
+- Objectively diagnose SIBO before committing to antibiotics — rising antibiotic use drives resistance, adverse reactions and opportunistic infection ([[acg-2020-sibo]]).
+
+## How Guidance Has Changed
+
+- **Around TIPS, the advice reversed.** [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014]] recommended **against** routine prophylactic lactulose or rifaximin for post-TIPS HE (Rec 27; Grade III, B, 1). [[acg-2026-hepatic-encephalopathy|ACG 2026]] now recommends **starting 14 days before elective TIPS and continuing ≥6 months**, with or without a prior OHE episode, plus embolizing extrahepatic collaterals at TIPS (Rec 22–23). [[baveno-vii-2022-portal-hypertension|Baveno VII]] (2022) sat between the two, limiting it to patients with **previous overt HE** before elective TIPS (4.9); [[baveno-viii-2026-portal-hypertension|Baveno VIII]] (2026) broadens it to **any elective-TIPS candidate** (6.16). The newest guidance governs this page; readers carrying the 2014 rule should note the change.
+- **The threshold for adding rifaximin broadened.** The 2014 guideline placed rifaximin as an add-on to lactulose **after the second** OHE episode (Rec 26; Grade I, A, 1). ACG 2026 supports it for **acute OHE** and for recurrence prevention after an episode, not only after a second one.
+- **On SBP prophylaxis the wording softened.** Baveno VII stated rifaximin is "not indicated" beyond its HE indications, including primary or secondary prophylaxis of SBP (4.10); Baveno VIII says **data are insufficient to recommend** it for secondary SBP prophylaxis (6.23). The practical answer is unchanged — do not use rifaximin for SBP prophylaxis.
 
 ## See Also
 
-[[small-intestinal-bacterial-overgrowth]], [[irritable-bowel-syndrome]], [[intestinal-methanogen-overgrowth]], [[hepatic-encephalopathy]], [[acute-diarrhea]], [[clostridioides-difficile]], [[small-bowel-motility]], [[tips]], [[cirrhosis]], [[chronic-constipation]], [[spontaneous-bacterial-peritonitis]], [[antibiotic-prophylaxis-cirrhosis]]
+[[hepatic-encephalopathy]], [[cirrhosis]], [[tips]], [[lactulose]], [[irritable-bowel-syndrome]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[small-bowel-motility]], [[acute-diarrhea]], [[loperamide]], [[diverticulitis]], [[spontaneous-bacterial-peritonitis]], [[antibiotic-prophylaxis-cirrhosis]], [[clostridioides-difficile]], [[bristol-stool-form-scale]], [[proton-pump-inhibitors]]
 
 ---
 
 ## Sources
 
-1. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
-2. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]
-3. [[aga-2022-ibs-d|AGA Clinical Practice Guideline: Pharmacological Management of IBS-D (2022)]]
-4. [[acg-2026-hepatic-encephalopathy|ACG Clinical Guideline: Hepatic Encephalopathy (2026)]]
-5. [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease]]
-6. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (J Hepatol 2022)]]
-7. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]
+1. [[acg-2026-hepatic-encephalopathy|ACG Clinical Guideline: Hepatic Encephalopathy (2026)]]
+2. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
+3. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+4. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+5. [[aasld-2024-tips|AASLD Practice Guidance: TIPS, Variceal Embolization, and Retrograde Transvenous Obliteration (2024)]]
+6. [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease]]
+7. [[aga-2022-ibs-d|AGA Clinical Practice Guideline: Pharmacological Management of IBS-D (2022)]]
+8. [[acg-2020-ibs|ACG Clinical Guideline: Management of Irritable Bowel Syndrome]]
+9. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]
+10. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
+11. [[acg-2026-diverticulitis|ACG Clinical Guideline: Colonic Diverticulitis (2026)]]
+12. [[aga-2021-colonic-diverticulitis|AGA Clinical Practice Update on Medical Management of Colonic Diverticulitis: Expert Review]]
+13. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]
