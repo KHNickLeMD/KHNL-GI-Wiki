@@ -6,6 +6,39 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-15] update | Card pass — dedup, 7 pages carded, 4 card files reviewed
+
+**Dedup (6 candidate pairs judged, all marked in `dedup-ledger.tsv`):**
+- Merged: GAVE endoscopic therapy (`portal-hypertension` [b10052] → `gastric-antral-vascular-ectasia` [7a4104]); colectomy work-up in refractory constipation (`chronic-constipation` [cc0023] → `chronic-idiopathic-constipation` [fdeaca]); mTOR inhibitor after transplant for HCC (`tacrolimus` [fc700a] → `hepatocellular-carcinoma` [e10026]); mTOR conversion for post-transplant renal dysfunction (`tacrolimus` [fc7005] → `calcineurin-inhibitors` [ca1107], which absorbed the ~3-month timing).
+- Distinct: givosiran route vs monitoring intervals; GAVE drug therapy vs endoscopic therapy.
+
+**Cards written (page delta only — most of each page was already carded):**
+- `drug-induced-liver-injury` — 3 notes on drug-induced autoimmune-like hepatitis (what the autoimmune phenotype alone establishes, the corticosteroid trigger and 0.5 mg/kg/day dose, the highly probable culprits). The page's new ACLF-precipitant section was already carded.
+- `liver-transplantation` — plasma cell-rich rejection hepatitis (when to suspect it, Banff criteria in Back Extra) and the ESGE 2026 ischaemic-cholangiopathy pattern table; `[1a300f]` corrected to the page's new "doses used for non-transplant AIH".
+- `eus-guided-biliary-drainage` — `[e5b006]` rewritten: it asserted ASGE 2024's "suspected malignancy favours percutaneous", which ESGE 2026 reverses and the page now follows. Added the primary-EUS-BD criteria (common bile duct ≥12 mm, expert centre) and the altered-anatomy first-line route by etiology with the page's 4-row table.
+- `chronic-hepatitis-b` — hepatitis B prophylaxis continues ≥18 months after immunosuppression for autoimmune hepatitis (vs the general ≥6/≥12).
+- `corticosteroids-ibd` — 2 notes on pregnancy and lactation (stance plus routine calcium/vitamin D; breastfeeding compatible and the old 4-hour wait unnecessary).
+- `mesalamine-5-asa` — `[5a0114]` updated to the 2025 consensus folic acid 2 mg/day preconception; added continuation of maintenance 5-ASA in pregnancy and mesalamine over sulfasalazine during lactation.
+- `polymerase-proofreading-associated-polyposis`, `bile-duct-injury`, `primary-biliary-cholangitis` — nothing new qualified: the new content is owned by `colorectal-polyposis`, `biliary-stricture` [e7b016] and `autoimmune-hepatitis` [a11034]/[a11035] respectively. Figure-6 "no thyroid ultrasound, no surveillance ileoscopy" added to `[ba0002]`.
+
+**Card quality review:**
+- `mesalamine-5-asa` — 19 → 13 notes. Merged the three per-extent induction notes into one with the page's dose table; split induction from maintenance; folded the "failed 5-ASA" dose gate and the moderate-to-severe reclassification into one note (and retired `corticosteroids-ibd` [c01003], which tested the same thresholds); merged enema and suppository regimens; retired the budesonide MMX note to `corticosteroids-ibd` [c01002]; cut the AGA low/standard/high dose bands as terminology.
+- `eosinophilic-esophagitis` — 18 → 17 notes. `[ee0104]` rewritten so the load-bearing "≥6 biopsies from ≥2 levels" is on the front, not in Back Extra; `[ee0107]` merged into `[ee0106]` as one "what the pathology report must contain" note; `[ee0116]` repointed to the goal dilation diameter because the dilate-first decision is owned by `esophageal-dilation` [ed500c]; first-line therapy table added.
+- `hepatitis-c` — all 18 notes passed; added the treatment-naive and decompensated regimen tables to Back Extra.
+- `pancreatic-fluid-collection-drainage` — 18 → 17 notes. `[da4007]` narrowed to the percutaneous-first trigger (its "endoscopic preferred" half duplicated the SAGES 2026 note); cut `[da4012]`, whose tested item was trial outcome differences.
+
+**Deliberately skipped:** `gastroenteropancreatic-neuroendocrine-tumors` tops the review queue but all 23 notes are sourced to `nccn-2026-net`, and NCCN's licence status is still Nick's call.
+
+**Remaining for triage:**
+- `biliary-stricture` [e7b014] teaches ASGE 2023's fixed 3–6 month covered-stent dwell for post-transplant anastomotic strictures; ESGE 2026 leaves both strategies open and reports 36% vs 7% five-year recurrence. That file needs a correlate pass.
+- `acute-on-chronic-liver-failure` owns the 2026 consensus transplant statements but has no note for Statement 54 (expedited assessment, ideally transplant within 1 week) or Statement 62 (older adults).
+- `autoimmune-hepatitis` has no note for the post-transplant recurrence risk factors EASL 2025 lists (age ≤42 y, mycophenolate in year 1, donor/recipient and CMV mismatch, high pre-LT IgG).
+- Build reports broken `at:` anchors on `confocal-laser-endomicroscopy` [e83001]/[e83002] and `operational-tolerance` [0f1001]–[0f1003] — those pages' headings moved in the lint sweep.
+
+**Deck:** 4,644 notes exported; no outstanding build problems on any file this pass touched. Nothing committed or pushed.
+
+---
+
 ## [2026-11-15] lint | Quality review sweep — release pass
 
 **Pages reviewed:**
