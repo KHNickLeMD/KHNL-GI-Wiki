@@ -3,13 +3,12 @@ title: "Anal Cancer Screening"
 category: concept
 tags: [anal-cancer, anal-hsil, hpv, screening, hra, dare, anoscopy, hiv, anorectal]
 created: 2026-09-03
-updated: 2026-09-06
+updated: 2026-11-15
 sources: [asccp-2024-anal-cancer-screening]
+quality_reviewed: 2026-11-15
 ---
 
 Screening defined high-risk populations for **anal high-grade squamous intraepithelial lesion (HSIL)** — the treatable precursor — rather than for anal cancer itself. Directly parallel to cervical cancer prevention: both cancers are human papillomavirus (HPV)-mediated, and both screening programs triage to a magnified examination of the epithelium. Framework here is [[asccp-2024-anal-cancer-screening|American Society for Colposcopy and Cervical Pathology (ASCCP) 2024]], which endorses and reconciles the International Anal Neoplasia Society (IANS) 2024 consensus and the 2024 National Institutes of Health (NIH)/Centers for Disease Control and Prevention (CDC)/Infectious Diseases Society of America (IDSA) guidelines for people with human immunodeficiency virus (HIV).
-
-⚠ **Second-hand criteria.** The IANS 2024 consensus is cited here only as summarized by the ASCCP advisory. See [[asccp-2024-anal-cancer-screening]] → *Contradictions / Open Questions*.
 
 ## Contents
 - [[#Why Screen]]
@@ -17,8 +16,8 @@ Screening defined high-risk populations for **anal high-grade squamous intraepit
   - [[#Risk Category A — Screening Recommended]]
   - [[#Risk Category B — Shared Decision-Making]]
 - [[#Screening Tests]]
-  - [[#Strategies]]
-  - [[#People with HIV — the NIH/CDC/IDSA Pathway]]
+  - [[#Test Strategies (IANS)]]
+  - [[#People with HIV (NIH/CDC/IDSA)]]
 - [[#Where HRA Is Unavailable]]
 - [[#What ASCCP Itself Endorses]]
 - [[#Open Questions]]
@@ -29,16 +28,16 @@ Screening defined high-risk populations for **anal high-grade squamous intraepit
 
 - Anal cancer is **HPV-mediated**, like other lower genital tract cancers.
 - **Target of screening = anal HSIL**, not cancer. Treating anal HSIL cut anal cancer incidence in people with HIV by **almost 60%** (ANCHOR trial, cited by [[asccp-2024-anal-cancer-screening|ASCCP 2024]]).
-- General US population incidence is only **1.7 per 100,000 person-years** — too low to screen broadly. Hence risk-group–restricted screening.
+- General US population incidence is only **1.7 per 100,000 person-years (p-y)** — too low to screen broadly. Hence risk-group–restricted screening.
 - Risk groups are sorted by **incidence rate relative to that 1.7/100,000 baseline**.
 
 ## Who to Screen
 
 ### Risk Category A — Screening Recommended
 
-Incidence **≥17 per 100,000 p-y** — at least **10×** the general population. Each group carries its own start trigger; the trigger is the decision, not the category name.
+Incidence **≥17 per 100,000** — at least **10×** the general population. Each group carries its own start trigger; the trigger is the decision, not the category name.
 
-| Group | Incidence (per 100,000 p-y) | Start screening |
+| Group | Incidence (per 100,000) | Start screening |
 |---|---|---|
 | Men who have sex with men (MSM) and transgender women **with HIV** | **>70** | Age **35** |
 | History of vulvar HSIL or vulvar cancer (vulvar intraepithelial neoplasia grade 3 [VIN3]) | **>40** | **Within 1 year of diagnosis** |
@@ -55,26 +54,42 @@ Incidence **<10 per 100,000 p-y**. IANS calls for **shared decision-making, not 
 - Cervical or vaginal HSIL
 - Perianal warts
 - **Persistent cervical HPV 16**
-- Other immunosuppression — named examples: rheumatoid arthritis, lupus, **[[crohns-disease|Crohn's disease]]**, **[[ulcerative-colitis|ulcerative colitis]]** — [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]-specific perianal/anal examination guidance lives on [[ibd-preventive-care]]
+- Other immunosuppression, **or on chronic systemic steroid therapy** — named examples: rheumatoid arthritis, lupus, **[[crohns-disease|Crohn's disease]]**, **[[ulcerative-colitis|ulcerative colitis]]** — [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]-specific perianal/anal examination guidance lives on [[ibd-preventive-care]]
 
 ## Screening Tests
 
 - Accepted modalities: **anal cytology**, **high-risk HPV (hrHPV) testing**, or **combinations**.
-- ⚠ hrHPV testing of the anal canal is **not FDA-approved** — but is highly sensitive for anal precancer and cancer.
-- **DARE (digital anal rectal examination) at every screening visit** — it is what detects early anal *cancers*, which cytology and HPV testing are not designed to find.
-- Every strategy terminates in **high-resolution anoscopy (HRA)** for abnormal results.
+- hrHPV testing of the anal canal is **not approved by the US Food and Drug Administration (FDA)** — but is highly sensitive for anal precancer and cancer.
 
-### Strategies
+> [!pearl] DARE is what finds early anal cancers
+> Digital anal rectal examination (DARE) is recommended at **every screening visit**: cytology and hrHPV testing are aimed at anal HSIL, while DARE is the tool that detects early anal *cancers* ([[asccp-2024-anal-cancer-screening|ASCCP 2024]]).
 
-| Strategy | Positive result → | Negative result → |
-|---|---|---|
-| **Anal cytology alone** (acceptable) | HRA referral for any abnormal cytology | Routine interval |
-| **Cytology, limited HRA capacity** | **High-grade cytology → immediate HRA**; lesser abnormalities may **repeat testing within 12 months** | Routine interval |
-| **hrHPV triage of cytology** (endorsed) | Stratifies cytology results — used specifically to **reduce immediate HRA referrals** | Routine interval |
-| **Primary hrHPV** (acceptable) | Immediate HRA referral | **Repeat screening in 12–24 months** |
-| **Co-testing** (cytology + hrHPV, acceptable) | Immediate HRA referral for high-risk results | Routine interval |
+```mermaid
+flowchart TD
+    A(["Risk Category A<br/>incidence ≥17/100,000"]) --> C["DARE<br/>+ anal cytology and/or anal HPV testing"]
+    B(["Risk Category B<br/>incidence <10/100,000"]) -- "shared decision-making, age 45+" --> C
+    C -- "abnormal result" --> D(["High-resolution anoscopy (HRA)"])
+    C -- "normal result" --> E(["Repeat screening in 1–3 years"])
+    class A,B start
+    class C test
+    class D,E act
+```
+*Anal cancer screening pathway — who to screen, how, and what each result triggers*
+*Source: redrawn from Figure 1 of the ASCCP 2024 practice advisory*
+*[[asccp-2024-anal-cancer-screening|ASCCP Practice Advisory: Anal Cancer Screening (2024)]]*
+*DARE = digital anal rectal examination · HPV = human papillomavirus · HRA = high-resolution anoscopy*
 
-### People with HIV — the NIH/CDC/IDSA Pathway
+### Test Strategies (IANS)
+
+| Strategy | Result → action |
+|---|---|
+| **Anal cytology alone** (acceptable) | Any abnormal cytology → HRA referral |
+| **Cytology where HRA capacity is limited** | **High-grade cytology → immediate HRA**; lesser abnormalities may **repeat testing within 12 months** |
+| **hrHPV triage of cytology** (endorsed) | Stratifies cytology results — used specifically to **reduce immediate HRA referrals** |
+| **Primary hrHPV** (acceptable) | Positive → immediate HRA; negative → **repeat screening in 12–24 months** |
+| **Co-testing** (cytology + hrHPV, acceptable) | High-risk result → immediate HRA |
+
+### People with HIV (NIH/CDC/IDSA)
 
 Concordant with IANS on *whom* to screen, but not on *how*:
 
@@ -83,14 +98,16 @@ Concordant with IANS on *whom* to screen, but not on *how*:
 - **Asymptomatic MSM and transgender women with HIV:** begin **lab-based screening** — cytology alone, or cytology + hrHPV co-testing — at age **35**.
 - **All other people with HIV:** begin at age **45**.
 - **Symptoms or abnormal screening at any age:** refer for **HRA**.
-- ⚠ **Primary hrHPV testing was NOT recommended** by this panel in persons with HIV — see [[#Open Questions]].
+- **Primary hrHPV testing was not recommended** by this panel in persons with HIV — see [[#Open Questions]].
 
 ## Where HRA Is Unavailable
 
-HRA capacity is the rate-limiting resource, and both guidelines address it explicitly rather than assuming access:
+HRA capacity is the rate-limiting resource, and both guidelines address it explicitly rather than assuming access.
 
-- **Do not run a screening program you cannot complete.** Cytology/hrHPV is added only where abnormal results can actually reach HRA.
-- Category A patients without HRA access — people with HIV, solid organ transplant recipients, women with a history of vulvar HSIL/cancer, MSM/TW without HIV — should still be screened with **symptom assessment + DARE**.
+> [!pitfall] Don't start a screening test you can't complete
+> Anal cytology or hrHPV testing is added only where abnormal results can actually reach HRA ([[asccp-2024-anal-cancer-screening|ASCCP 2024]]).
+
+- No HRA access → Category A patients (people with HIV, solid organ transplant recipients, women with a history of vulvar HSIL or vulvar cancer, MSM and transgender women without HIV) are still screened with **symptom assessment + DARE**.
 
 ## What ASCCP Itself Endorses
 
@@ -104,8 +121,7 @@ ASCCP adds no new criteria; its own recommendation is the implementable floor:
 
 - **Primary hrHPV in people with HIV — the two 2024 guidelines disagree.** IANS accepts primary hrHPV testing as a standalone strategy; the NIH/CDC/IDSA panel explicitly did not recommend it in persons with HIV. Same year, same tier — neither supersedes the other. [[asccp-2024-anal-cancer-screening|ASCCP]] reports both without adjudicating.
 - **Management after HRA is not covered** by the ASCCP advisory — what is done with biopsy-proven anal HSIL (ablation, topical therapy, surveillance interval) is in the IANS consensus itself.
-- **No evidence grades.** The ASCCP advisory is a narrative endorsement and carries no GRADE (Grading of Recommendations Assessment, Development and Evaluation) labels for its statements.
-- **Screening intervals for Category A are not specified** by the ASCCP advisory beyond the repeat-testing windows attached to specific test results.
+- The ASCCP advisory is a narrative endorsement and attaches **no evidence grades** to its statements.
 
 ## See Also
 

@@ -3,34 +3,47 @@ title: "Linaclotide"
 category: med
 tags: [linaclotide, gc-c-agonist, secretagogue, ibs-c, cic, constipation]
 created: 2026-05-19
-updated: 2026-10-26
+updated: 2026-11-15
 sources: [acg-2020-ibs, aga-acg-2023-constipation, aga-2022-ibs-c, aga-2026-refractory-constipation, linzess-2026-linaclotide-label]
+quality_reviewed: 2026-11-15
 ---
+
+## Contents
+- [[#Class]]
+- [[#Indications & Dosing]]
+  - [[#Administration]]
+  - [[#Refractory Constipation]]
+- [[#Adverse Effects]]
+- [[#Contraindications and Adjustments]]
+- [[#Place in Therapy]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Class
 
-Guanylate cyclase-C (GC-C) agonist; intestinal secretagogue — ↑cyclic guanosine monophosphate (GMP) → luminal Cl⁻/HCO₃⁻ secretion → ↑intestinal fluid and accelerated gastrointestinal (GI) transit.
+Guanylate cyclase-C (GC-C) agonist; intestinal secretagogue — ↑cyclic guanosine monophosphate (cGMP) → luminal Cl⁻/HCO₃⁻ secretion → ↑intestinal fluid and accelerated gastrointestinal (GI) transit.
 
 ## Indications & Dosing
 
-| Indication | Dose | Recommendation |
-|---|---|---|
-| [[chronic-idiopathic-constipation\|chronic idiopathic constipation (CIC)]], after over-the-counter (OTC) agents fail | **72 µg or 145 µg orally (PO) daily** (both FDA-approved for CIC) | Strong rec, moderate certainty ([[aga-acg-2023-constipation]]) |
-| [[irritable-bowel-syndrome\|Irritable bowel syndrome (IBS)]] with constipation (IBS-C) | **290 µg PO daily** | Strong/High ([[acg-2020-ibs]]); **Strong / high certainty** ([[aga-2022-ibs-c]] Rec 3) |
-| IBS-C, pediatric **≥7 y** | **145 µg PO daily** | FDA-approved indication ([[linzess-2026-linaclotide-label]]) |
-| Functional constipation, pediatric **≥2 y** | **72 µg PO daily** | FDA-approved indication ([[linzess-2026-linaclotide-label]]) |
+| Population | Indication | Dose | Recommendation |
+|---|---|---|---|
+| Adults | [[irritable-bowel-syndrome\|Irritable bowel syndrome (IBS)]] with constipation (IBS-C) | **290 µg orally (PO) once daily** | **Strong recommendation, high quality of evidence** ([[acg-2020-ibs]] Statement 17, for guanylate cyclase activators as a class); **strong recommendation, high certainty** ([[aga-2022-ibs-c]] Rec 3) |
+| Adults | [[chronic-idiopathic-constipation\|Chronic idiopathic constipation (CIC)]], not responding to over-the-counter (OTC) agents | **145 µg PO once daily**; **72 µg PO once daily** may be used based on individual presentation or tolerability | **Strong recommendation, moderate certainty** ([[aga-acg-2023-constipation]] Rec 8) |
+| Pediatric **≥7 y** | IBS-C | **145 µg PO once daily** | US Food and Drug Administration (FDA)-approved indication ([[linzess-2026-linaclotide-label]]) |
+| Pediatric **≥2 y** | Functional constipation (FC) | **72 µg PO once daily** | FDA-approved indication ([[linzess-2026-linaclotide-label]]) |
 
+- **Capsule strengths: 72 µg, 145 µg, 290 µg** — every dose above is a single capsule ([[linzess-2026-linaclotide-label]]).
 - **Linaclotide is the only agent the American Gastroenterological Association (AGA) recommends *strongly* for IBS-C.** Of the 9 recommendations in [[aga-2022-ibs-c]], one is strong (linaclotide) and eight are conditional — [[plecanatide]], [[tenapanor]], [[lubiprostone]] and [[tegaserod]] are all conditional alternatives. The two societies agree here, unlike on [[lubiprostone]].
-- The **290 µg** dose is the IBS-C approval; CIC and IBS-C overlap and are often indistinguishable in practice. CIC trials studied 145 µg and 290 µg daily; 72 µg has been studied less.
-- **Capsule strengths:** 72, 145, 290 µg — the three doses above are each a single capsule ([[linzess-2026-linaclotide-label]]).
-- **Duration:** trials ran **12 weeks**; the drug label sets no limit. Can be used as a replacement for, or an adjunct to, OTC agents.
-- Useful when [[abdominal-bloating-and-distention|bloating]], abdominal discomfort, and pain coexist — linaclotide improves these abdominal symptoms in IBS-C trials.
+- The **290 µg** dose is the IBS-C approval, not a CIC dose; CIC and IBS-C overlap and are often indistinguishable in practice. The CIC trials behind the recommendation studied 145 µg and 290 µg daily, with 72 µg studied in a separate trial ([[aga-acg-2023-constipation]]).
+- **Onset:** separation from placebo by the end of week 1 in both phase 3 IBS-C trials, maintained throughout the double-blind period ([[acg-2020-ibs]]).
+- **Duration:** adult IBS-C trials ran up to 26 weeks and adult CIC trials at least 12 weeks, with open-label extension to 18 months. **No maximum treatment duration is given**, either on the label or in any of the guidelines on this page ([[linzess-2026-linaclotide-label]]).
+- Useful when [[abdominal-bloating-and-distention|bloating]], abdominal discomfort and pain coexist — linaclotide improves these abdominal symptoms in IBS-C trials ([[aga-acg-2023-constipation]]).
 
 ### Administration
 
 *All from [[linzess-2026-linaclotide-label]].*
 
-- **Empty stomach, ≥30 min before a meal, same time each day.**
+- **Empty stomach, ≥30 min before the first meal of the day, at about the same time each day.**
 - **Missed dose → skip it**; never two doses at once.
 - **Swallow whole** — do not crush or chew the capsule or its beads.
 - **Can't swallow capsules, or has a nasogastric (NG) / gastrostomy tube** → open the capsule:
@@ -46,28 +59,51 @@ Guanylate cyclase-C (GC-C) agonist; intestinal secretagogue — ↑cyclic guanos
 
 ### Refractory Constipation
 
-- **Linaclotide and [[prucalopride]] are the two agents with demonstrated efficacy in [[chronic-constipation|chronic constipation]] unresponsive to OTC laxatives** — [[plecanatide]] has shown efficacy only in *"severe"* constipation ([[aga-2026-refractory-constipation]]).
+- **Linaclotide and [[prucalopride]] have been shown effective in [[chronic-constipation|chronic constipation]] unresponsive to OTC laxatives**, while [[plecanatide]] has shown efficacy in *"severe"* constipation ([[aga-2026-refractory-constipation]]).
 - Caveat the source raises about all three: these trials **lacked rigorous evaluation of prior OTC therapy or colonic transit**.
 - **Best Practice Advice (BPA) 7** — patients with refractory constipation should trial **all** standard OTC and FDA-approved constipation therapies, **as standalone therapy or in combination**, where accessible; off-label agents (BPA 8) come only after that. Full escalation ladder on [[chronic-idiopathic-constipation]].
 
 ## Adverse Effects
 
-- **Diarrhea** — most common treatment-emergent adverse event (AE): ~**20%** of linaclotide-treated patients vs 3% placebo in IBS-C trials; **severe in 2%**, and **5% withdrew** because of it ([[acg-2020-ibs]]).
-- In CIC, diarrhea leading to discontinuation is ~3× more likely than placebo (relative risk [RR] 3.35, 95% confidence interval [CI] 2.09–5.36; 83 more per 1,000), though in one study only **4.7%** discontinued for diarrhea. Over the first year, the commonest reasons for stopping were **loss of efficacy and insurance/refill barriers**, not adverse events.
-- **Severe diarrhea is dose-stratified:** **2%** on 145 µg or 290 µg, **<1%** on 72 µg; the majority of all cases begin **within the first 2 weeks** ([[linzess-2026-linaclotide-label]]).
+**Diarrhea is the most common adverse reaction in every population studied, and the majority of cases start within the first 2 weeks of treatment** ([[linzess-2026-linaclotide-label]]).
+
+| Adverse reaction | IBS-C, 290 µg (n=807) | Placebo (n=798) | CIC, 145 µg (n=430) | Placebo (n=423) |
+|---|---|---|---|---|
+| Diarrhea | 20% | 3% | 16% | 5% |
+| Abdominal pain | 7% | 5% | 7% | 6% |
+| Flatulence | 4% | 2% | 6% | 5% |
+| Abdominal distension | 2% | 1% | 3% | 2% |
+| Headache | 4% | 3% | — | — |
+| Viral gastroenteritis | 3% | 1% | — | — |
+| Upper respiratory tract infection | — | — | 5% | 4% |
+| Sinusitis | — | — | 3% | 2% |
+
+*Most common adverse reactions in the adult phase 3 trials*
+*Source: recreated from Tables 1 and 2 of the prescribing information — Trials 1–2 (adult IBS-C) and Trials 3–4 (adult CIC)*
+*[[linzess-2026-linaclotide-label|LINZESS (Linaclotide) Capsules — FDA Prescribing Information]]*
+*IBS-C = irritable bowel syndrome with constipation · CIC = chronic idiopathic constipation · — = not reported at ≥2% and above placebo in that population*
+
+- A separate adult CIC trial (Trial 5; 72 µg vs 145 µg vs placebo, n=411/411/401) reported diarrhea in **19% / 22% / 7%** ([[linzess-2026-linaclotide-label]]).
+- **Severe diarrhea is dose-stratified:** **2%** on 145 µg or 290 µg, **<1%** on 72 µg, vs <1% on placebo.
 - **Action rule: severe diarrhea → suspend dosing and rehydrate** — not blind dose reduction. Post-marketing reports include severe diarrhea with dizziness, syncope, hypotension and **hypokalemia or hyponatremia** needing hospitalization or intravenous fluids.
-- **Long-term tolerability is the real limit:** at 290 µg daily for up to 18 months, **29%** of IBS-C and **27%** of CIC patients had the dose reduced or suspended for adverse reactions, mostly diarrhea.
-- **Hypersensitivity (post-marketing):** anaphylaxis, angioedema, rash including urticaria. Also hematochezia and rectal hemorrhage.
-- No clear outcome differences in patients >65 y in trials (sample too small for formal analysis).
+- **Discontinuation for adverse reactions:** IBS-C **9%** vs 3% on placebo (diarrhea 5%, abdominal pain 1%); CIC **3%** on 72 µg and **5%–8%** on 145 µg, vs <1%–4% on placebo ([[linzess-2026-linaclotide-label]]). Pooled across CIC trials, diarrhea leading to discontinuation is ~3× more likely than placebo (relative risk [RR] 3.35, 95% confidence interval [CI] 2.09–5.36; 83 more per 1,000), though in one study only **4.7%** stopped for diarrhea ([[aga-acg-2023-constipation]]).
+- Over the **first year** of treatment the commonest reasons for stopping were **loss of efficacy and insurance/refill barriers**, not adverse events ([[aga-acg-2023-constipation]]).
+- **Long-term tolerability is the real limit:** at 290 µg daily for up to 18 months, **29%** of 2,147 IBS-C and **27%** of 1,129 CIC patients had the dose reduced or suspended for adverse reactions, mostly diarrhea or other GI reactions.
+- **Pediatric:** IBS-C 7–17 y — diarrhea **7%** on 145 µg and **8%** on 290 µg, the one severe case occurring above the recommended 145 µg pediatric dose. FC 6–17 y on 72 µg — diarrhea **4%** vs 2% placebo, with one severe case that discontinued. FC 2–5 y on 72 µg (n=123) — one mild case, which resolved on treatment ([[linzess-2026-linaclotide-label]]).
+- **Hypersensitivity (post-marketing):** anaphylaxis, angioedema, rash including hives or urticaria. Also hematochezia, nausea and rectal hemorrhage.
+- Less common (<2% and above placebo): defecation urgency, [[fecal-incontinence|fecal incontinence]], vomiting and [[gerd|gastroesophageal reflux disease]] in IBS-C; defecation urgency, fecal incontinence, dyspepsia and viral gastroenteritis in CIC.
+- No clear outcome differences in patients >65 y; only 7% of IBS-C and 11% of CIC trial enrollees were ≥65 y, too few for formal analysis ([[aga-acg-2023-constipation]], [[linzess-2026-linaclotide-label]]).
 
-### Contraindications and Adjustments
+## Contraindications and Adjustments
 
-- **Only two contraindications** ([[linzess-2026-linaclotide-label]]): **age <2 y**, and known or suspected **mechanical GI obstruction**.
+- **Only two contraindications** ([[linzess-2026-linaclotide-label]]): **age <2 y**, and known or suspected **mechanical GI obstruction** — the latter also stated by [[aga-acg-2023-constipation]].
 - **No renal or hepatic dose adjustment** — and none is expected: linaclotide is metabolized within the gut lumen and plasma concentrations are below the limit of quantitation at every approved dose, so area under the curve, maximum concentration and half-life cannot be calculated.
-- **Pregnancy:** negligible absorption means maternal use is not expected to expose the fetus; human data are insufficient to inform risk. **Lactation:** undetectable in breast milk (<0.25 ng/mL) after 3 days of dosing.
+- **No drug interactions and no laboratory monitoring are specified anywhere on the label.**
+- **Pregnancy:** negligible absorption means maternal use is not expected to expose the fetus; human data are insufficient to inform risk. **Lactation:** linaclotide and its active metabolite were undetectable in breast milk (<0.25 ng/mL and <1 ng/mL) after 3 days of dosing.
+- **Elderly:** no dose adjustment given; the label advises cautious dose selection.
 
 > [!pitfall] "Contraindicated in children" is wrong — the floor is age 2
-> The contraindication is **age <2 y only**, carried as a boxed warning for serious dehydration (neonatal mice died within 24 h of one adult-equivalent dose, from age-dependent GC-C agonism). Above that floor linaclotide is **indicated**: ≥7 y for IBS-C and ≥2 y for functional constipation ([[linzess-2026-linaclotide-label]]). Neither [[acg-2020-ibs]] nor [[aga-acg-2023-constipation]] addresses children at all — the CIC guideline states it does not apply to pediatric populations — so the label is the only source here.
+> The contraindication is **age <2 y only**, carried as a boxed warning for serious dehydration (neonatal mice died within 24 h from rapid, severe dehydration driven by age-dependent GC-C agonism). Above that floor linaclotide is **indicated**: ≥7 y for IBS-C and ≥2 y for FC ([[linzess-2026-linaclotide-label]]). Neither [[acg-2020-ibs]] nor [[aga-acg-2023-constipation]] addresses children — both are restricted to adults, and the CIC guideline states it does not apply to pediatric populations — so the label is the only source here.
 
 ## Place in Therapy
 
