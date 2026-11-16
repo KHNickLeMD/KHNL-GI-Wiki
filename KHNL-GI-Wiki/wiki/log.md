@@ -6,6 +6,21 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-16] lint | Quality review release sweep — pages from the review queue
+
+**Scope:** Quality review (release sweep) only, by budget. Queue taken from `review-queue.py --pages 10`, worked from the top; one subagent per page. Decision sufficiency and source fidelity against the page's tier-1 `raw/` sources first, then visuals (accuracy outranks visuals — no figure when any needed value, unit, denominator or branch condition is missing), then concision, callouts, consistent organization, abbreviations.
+
+**Pages reviewed:**
+- `mycophenolate-mofetil` — four source-fidelity errors corrected against [[easl-2025-autoimmune-hepatitis]] and the AASLD/AST 2025 liver-transplant guidelines: the page had MMF *treating* refractory celiac disease when the ingested source names it as a **cause** of medication-induced villous atrophy, and overstated the source on thrombocytopenia ("independently of liver disease"), monitoring ("a single 4-week check suffices") and bilirubin. Added the adverse-effect profile, the antacid/proton pump inhibitor exposure interaction, the 24% birth-defect counselling figure, and the verified transplant uses (calcineurin-inhibitor sparing, ductopenic rejection, antibody-mediated rejection, no monotherapy for post-transplant chronic kidney disease). Removed the AIH response-rate statistics `autoimmune-hepatitis` owns. Dosing regrouped into parallel `### Adults` / `### Children`; pathway bullets → line-of-therapy table; one pearl + one pitfall added. Sources 1 → 6; 774 → 1,043 words. Index row created (the page had none).
+
+**Contradiction surfaced — MMF pre-conception washout (same tier, same year, different populations; both stand, now stated side by side on the drug page):** [[easl-2025-autoimmune-hepatitis]] withdraw **≥3 months** before conception (LoE 2, strong) vs **AASLD/AST 2025 non-graft** Statement 26 **≥6 weeks** before conception for women, **90 days** for men (Strong, Level 1, FDA-based). `[[autoimmune-hepatitis]]` additionally carries AASLD 2020's older version (negative test within 1 week; contraception 4 weeks before to 6 weeks after).
+
+**For the card pass:** `mycophenolate-mofetil` is tier-1 guideline-sourced and card-eligible but has no card file; candidate facts are the induction/maintenance/paediatric doses, the "MMF starts with the steroid, azathioprine at 2 weeks" rule, the pre-conception withdrawal and the antacid/PPI interaction — one-owner check needed against `autoimmune-hepatitis`, which also has no card file. Nothing rebuilt this pass.
+
+**Left for a later pass (noted, not done):** `[[autoimmune-hepatitis]]` still duplicates the MMF dose table, the drug-level monitoring row and the paediatric dose table that now belong to the drug page under *one owner page per fact*; `[[calcineurin-inhibitors]]` restates MMF's antacid/PPI interaction and should link out instead.
+
+---
+
 ## [2026-11-16] lint | Lint pass — finish partial ingests, then backlog ingest by budget
 
 **Mode:** backlog mode **ON**. A `raw/`-vs-`wiki/sources/` audit (fuzzy-matching raw filenames against each source page's `title:` + `**Article:**` line, then keyword-confirming the low scorers against the full source-page corpus) leaves **16 confirmed-uningested tier-1/2 files**. Per CLAUDE.md the pass's budget goes to ingest, so *Validate the stalest pages*, *Expand stubs* and *Fill coverage gaps* are **paused: ingest backlog**.
