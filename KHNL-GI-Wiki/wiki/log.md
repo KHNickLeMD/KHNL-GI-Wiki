@@ -26,6 +26,31 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-16] ingest | ASGE–ESGE 2024 primary EBMT guideline + new endoscopic sleeve gastroplasty page
+
+**Source:** `raw/GI Guidelines/ASGE/ASGE-ESGE 2024 Primary Endoscopic Bariatric and Metabolic Therapies (Jirapinyo).pdf` (Gastrointest Endosc 2024;99:867-85; © ASGE, no Creative Commons licence → no figures embedded). Main text, appendices 1–9 and supplementary tables 23 and 25 read.
+
+**Sources created:**
+
+- [[asge-esge-2024-primary-ebmt]] — all 14 GRADE recommendations with strength/certainty, plus the periprocedural expert-survey regimens.
+
+**Pages created:**
+
+- [[endoscopic-sleeve-gastroplasty]] (`4-advanced-gi-procedures/foregut-and-motility-procedures/`) — Nick asked for a dedicated page. Indications table (Rec 1 bands, Rec 6, no device preferred, Delphi example contraindications), efficacy table + **device bar chart** (OverStitch 18.2 / IOP 16.5 / Endomina 7.0% TWL, one meta-analysis), sham/old-technique pitfall, adverse events, **periprocedural Recs 7–10 table** with survey + MERIT regimens, and the ESG content **moved off** [[endoscopic-bariatric-therapies]] (Delphi T1–T21 step table, thick-fold pearl, MERIT pitfall, 6 cognitive skills, AGA 2017 ESG series row + AEs) so each fact has one home. ~1,800 words.
+
+**Pages updated:**
+
+- [[endoscopic-bariatric-therapies]] — now the class page: Rec 1 eligibility + pooled results by BMI band table, new **Recommendations by Device** table (Recs 2, 6, 11–14 with status), DJBL hepatic-abscess PPI-biofilm hypothesis; ESG sections reduced to links. ~2,500 words.
+- [[intragastric-balloon]] — Recs 2–5: concordant Rec 2, eligibility split AGA 2021 (BMI 30–40) vs ASGE–ESGE 2024 (≥30 or 27–29.9 + comorbidity, no upper limit), corroborating efficacy + regain-within-6-months line, periprocedural table now carries both guidelines plus a new pain-medication row. **Body ~2,640 words — over the ceiling, slim candidate.**
+- [[obesity]] — EBMT BMI bands added to the treatment-threshold table (caption + abbreviation line updated); section renamed `Endoscopic Bariatric Therapy` (no inbound anchors) with the Rec 1 pointer and ESG link.
+- Inline links: [[nafld-masld]], [[metald]] (plain-text "endoscopic sleeve gastroplasty" → link). [[jirapinyo-2025-esg-delphi-standards]] relevance re-pointed to the new page.
+
+**Contradictions surfaced:** PPI with IGB — AGA 2021 strong/moderate vs ASGE–ESGE 2024 conditional/very low (same direction; newer wins the page, both shown inline on [[intragastric-balloon]] and on the source page). IGB eligibility — AGA 2021 BMI 30–40 vs ASGE–ESGE 2024 ≥30 or 27–29.9 + comorbidity, no upper limit. Internal: Recs 9–10 Table 1 vs body wording; EGR PONV hospital-care 2.5% (supp table) vs 2.9% (appendix).
+
+**Cards:** new `endoscopic-sleeve-gastroplasty` file — e5c001–e5c005 moved from `endoscopic-bariatric-therapies` (eb7005–eb7009 retired as `moved to`), + e5c006–e5c00a (no preferred EGR device, short-term PPI, prophylactic antibiotics/single IV dose, opioids sparingly `{also:intragastric-balloon}`, later surgery still possible). `endoscopic-bariatric-therapies` + eb7010 (Rec 1 BMI bands, no upper limit); eb7001 Back Extra corrected (AGA 2017 gave no cut-point; ASGE–ESGE 2024 does). `intragastric-balloon` + 19b00b (regain within 6 mo of removal); 19b002 (AGA-only BMI 30–40 criterion) retired as merged into eb7010; 19b003 Back Extra adds the ASGE–ESGE conditional PPI. `build-anki.mjs` ACRONYMS += `esge`, `ebmt`.
+
+---
+
 ## [2026-11-16] ingest | Jirapinyo 2025 ESG standards of practice — global expert Delphi consensus
 
 **Source:** Nick's drop, `raw/GI Guidelines/Other/Delphi 2025 ESG Standards of Practice (Jirapinyo).pdf` (Gastrointest Endosc 2025;102:285-9; © ASGE, no Creative Commons licence → Figure 1 endoscopic photos linked, not embedded).

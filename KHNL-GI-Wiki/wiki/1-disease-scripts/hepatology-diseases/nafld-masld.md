@@ -225,7 +225,7 @@ All [[aasld-2023-nafld]]:
 ### Bariatric / Metabolic Surgery and Endoscopic Interventions
 
 - [[bariatric-surgery|Bariatric surgery]] resolves NASH without worsening fibrosis in ~80% at 1 y — consider in eligible non-cirrhotic patients (GS 22). **Decompensated cirrhosis = absolute contraindication**; compensated cirrhosis only at high-volume centers or with liver transplant (LT) ([[aasld-2023-nafld]]). Cirrhosis candidacy by stage and clinically significant portal hypertension (CSPH) on that page ([[baveno-viii-2026-portal-hypertension]]).
-- Endoscopic sleeve gastroplasty, [[intragastric-balloon|intragastric balloon]] — emerging options ([[aasld-2023-nafld]]).
+- [[endoscopic-sleeve-gastroplasty|Endoscopic sleeve gastroplasty]], [[intragastric-balloon|intragastric balloon]] — emerging options ([[aasld-2023-nafld]]).
 
 ### Liver Transplantation and Post-Transplant MASLD
 

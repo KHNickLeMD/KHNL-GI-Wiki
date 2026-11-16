@@ -3,8 +3,8 @@ title: "Obesity"
 category: disease-script
 tags: [obesity, weight-management, metabolic, semaglutide, glp1, intragastric-balloon]
 created: 2026-06-04
-updated: 2026-11-13
-sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons, asmbs-ifso-2022-bariatric-indications]
+updated: 2026-11-16
+sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons, asge-esge-2024-primary-ebmt, asmbs-ifso-2022-bariatric-indications]
 quality_reviewed: 2026-11-13
 ---
 
@@ -17,7 +17,7 @@ quality_reviewed: 2026-11-13
 - [[#Therapeutics]]
   - [[#Lifestyle Modification]]
   - [[#Pharmacotherapy]]
-  - [[#Endoscopic Bariatric Therapy — Intragastric Balloons]]
+  - [[#Endoscopic Bariatric Therapy]]
   - [[#Bariatric Surgery]]
 - [[#See Also]]
 - [[#Sources]]
@@ -35,21 +35,22 @@ quality_reviewed: 2026-11-13
 ### Severity Assessment
 
 - **BMI is the severity measure, and the band is what opens each treatment.** It approximates adiposity only — it does not account for sex, age, ethnicity or fat distribution, so access should never be denied on the traditional thresholds alone ([[asmbs-ifso-2022-bariatric-indications]]).
-- Drug thresholds are the American Gastroenterological Association (AGA) 2022 treatment population; surgical thresholds come from the joint American Society for Metabolic and Bariatric Surgery (ASMBS) and International Federation for the Surgery of Obesity and Metabolic Disorders (IFSO) 2022 statement, which **replaced the 1991 National Institutes of Health criteria** (BMI ≥40, or ≥35 with comorbidity) — the older, higher thresholds are still widely applied.
+- Drug thresholds are the American Gastroenterological Association (AGA) 2022 treatment population; surgical thresholds come from the joint American Society for Metabolic and Bariatric Surgery (ASMBS) and International Federation for the Surgery of Obesity and Metabolic Disorders (IFSO) 2022 statement, which **replaced the 1991 National Institutes of Health criteria** (BMI ≥40, or ≥35 with comorbidity) — the older, higher thresholds are still widely applied. Endoscopic thresholds come from the American Society for Gastrointestinal Endoscopy–European Society of Gastrointestinal Endoscopy (ASGE–ESGE) 2024 guideline.
 
 | BMI (kg/m²) | What it opens | Source |
 |---|---|---|
 | **≥27 with a weight-related complication** | Pharmacotherapy added to lifestyle, after inadequate response to lifestyle alone | AGA 2022 |
 | **≥30** (class I obesity = 30–34.9) | Pharmacotherapy, same lifestyle-failure clause | AGA 2022 |
+| **27–29.9 with ≥1 obesity-related comorbidity**, or **≥30 with no upper limit** | Endoscopic bariatric and metabolic therapy with lifestyle modification | ASGE–ESGE 2024 |
 | **30–40** | [[intragastric-balloon\|Intragastric balloon]] with lifestyle modification, after a failed trial of conventional weight-loss strategies | AGA 2021 |
 | **30–34.9 with metabolic disease**, or class I obesity not achieving durable weight loss/comorbidity improvement by nonsurgical means | Bariatric surgery considered | ASMBS–IFSO 2022 |
 | **≥35** | Bariatric surgery recommended, regardless of the presence of comorbidity | ASMBS–IFSO 2022 |
 | **Asian populations: ≥25 = clinical obesity; ≥27.5** | Offer bariatric surgery — the thresholds above are shifted down, not applied as printed | ASMBS–IFSO 2022 |
 
 *Treatment thresholds by body mass index*
-*Source: built from the AGA 2022 pharmacotherapy population, the AGA 2021 balloon selection criterion and the ASMBS–IFSO 2022 surgical indications; no single source tabulates them together*
-*[[aga-2022-obesity-pharm|AGA 2022 Clinical Practice Guideline on Pharmacological Interventions for Adults With Obesity]] · [[aga-2021-intragastric-balloons|AGA 2021 Clinical Practice Guidelines on Intragastric Balloons]] · [[asmbs-ifso-2022-bariatric-indications|ASMBS–IFSO 2022 Indications for Metabolic and Bariatric Surgery]]*
-*BMI = body mass index · AGA = American Gastroenterological Association · ASMBS = American Society for Metabolic and Bariatric Surgery · IFSO = International Federation for the Surgery of Obesity and Metabolic Disorders*
+*Source: built from the AGA 2022 pharmacotherapy population, the AGA 2021 balloon selection criterion, ASGE–ESGE 2024 Recommendation 1 and the ASMBS–IFSO 2022 surgical indications; no single source tabulates them together*
+*[[aga-2022-obesity-pharm|AGA 2022 Clinical Practice Guideline on Pharmacological Interventions for Adults With Obesity]] · [[aga-2021-intragastric-balloons|AGA 2021 Clinical Practice Guidelines on Intragastric Balloons]] · [[asge-esge-2024-primary-ebmt|ASGE–ESGE 2024 Primary EBMT Guideline]] · [[asmbs-ifso-2022-bariatric-indications|ASMBS–IFSO 2022 Indications for Metabolic and Bariatric Surgery]]*
+*BMI = body mass index · AGA = American Gastroenterological Association · ASGE–ESGE = American Society for Gastrointestinal Endoscopy–European Society of Gastrointestinal Endoscopy · EBMT = endoscopic bariatric and metabolic therapy · ASMBS = American Society for Metabolic and Bariatric Surgery · IFSO = International Federation for the Surgery of Obesity and Metabolic Disorders*
 
 ---
 
@@ -128,11 +129,13 @@ quality_reviewed: 2026-11-13
 - **Tirzepatide was not FDA-approved for obesity** when this guideline published and was not among the agents it evaluated.
 - Combining two AOMs, and using AOMs after suboptimal results from bariatric surgery or alongside an intragastric balloon, are common practices with scarce or high-risk-of-bias evidence.
 
-### Endoscopic Bariatric Therapy — Intragastric Balloons
+### Endoscopic Bariatric Therapy
 
-*Eligibility, device choice, periprocedural orders, safety rates, and post-removal strategy: [[intragastric-balloon]]. Other endoscopic devices: [[endoscopic-bariatric-therapies]].*
+*Device-by-device recommendations: [[endoscopic-bariatric-therapies]]. Balloon detail: [[intragastric-balloon]]. Sleeve detail: [[endoscopic-sleeve-gastroplasty]].*
 
-The positioning decision at this level ([[aga-2021-intragastric-balloons]]):
+**Who qualifies for any endoscopic bariatric and metabolic therapy (EBMT)** — [[asge-esge-2024-primary-ebmt|ASGE–ESGE 2024]] Rec 1 (conditional, very low certainty): the BMI bands in [[#Severity Assessment]], always **with lifestyle modification**; no upper limit, because EBMT can be primary therapy or a bridge to surgery. The two EBMTs suggested and on the market in 2024 are the **intragastric balloon** and **[[endoscopic-sleeve-gastroplasty|endoscopic sleeve gastroplasty]]** and related gastric remodeling (both conditional, moderate certainty).
+
+**Intragastric balloon** — the positioning decision at this level ([[aga-2021-intragastric-balloons]]):
 
 - **Who:** **suggested** — with lifestyle modification, over lifestyle modification alone — in patients who have **failed a trial of conventional weight-loss strategies** (conditional, moderate certainty). The **only selection criterion the guideline gives is BMI 30–40 kg/m²** (the range US trials enrolled).
 - **What it buys:** greatest %TBWL at **6–8 months**, incrementally smaller benefit thereafter; **no efficacy data beyond 1 year**. An intragastric balloon (IGB) augments lifestyle modification — it is not a standalone cure, and the guideline prescribes **no implantation duration**.
@@ -155,4 +158,5 @@ The positioning decision at this level ([[aga-2021-intragastric-balloons]]):
 
 1. [[aga-2022-obesity-pharm|AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)]]
 2. [[aga-2021-intragastric-balloons|AGA Clinical Practice Guidelines on Intragastric Balloons in the Management of Obesity (2021)]]
-3. [[asmbs-ifso-2022-bariatric-indications|2022 ASMBS and IFSO: Indications for Metabolic and Bariatric Surgery]]
+3. [[asge-esge-2024-primary-ebmt|ASGE–ESGE Guideline on Primary Endoscopic Bariatric and Metabolic Therapies for Adults with Obesity (2024)]]
+4. [[asmbs-ifso-2022-bariatric-indications|2022 ASMBS and IFSO: Indications for Metabolic and Bariatric Surgery]]

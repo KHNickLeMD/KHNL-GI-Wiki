@@ -3,8 +3,8 @@ title: "Intragastric Balloon (IGB)"
 category: advanced-procedure
 tags: [obesity, intragastric-balloon, endoscopic-bariatric-therapy, weight-management, bariatric]
 created: 2026-06-04
-updated: 2026-10-27
-sources: [aga-2021-intragastric-balloons, aga-2022-obesity-pharm, aga-2017-endoscopic-bariatric-therapies, bibc-2018-intragastric-balloon-consensus]
+updated: 2026-11-16
+sources: [aga-2021-intragastric-balloons, asge-esge-2024-primary-ebmt, aga-2022-obesity-pharm, aga-2017-endoscopic-bariatric-therapies, bibc-2018-intragastric-balloon-consensus]
 ---
 
 # Intragastric Balloon (IGB)
@@ -34,7 +34,11 @@ The **intragastric balloon (IGB)** is an [[upper-endoscopy|endoscopically]] plac
 ## Indications and Patient Selection
 
 - AGA suggests IGB **with lifestyle modification over lifestyle modification alone** in individuals with [[obesity]] who have **failed a trial of conventional weight-loss strategies** (Rec 1, conditional, moderate certainty).
-- **Eligibility — the only selection criterion AGA 2021 gives is body mass index (BMI) 30–40 kg/m²**: US trials were limited to this range (international trials sometimes included patients outside it). It gives no contraindication list and no age criterion; those come from [[bibc-2018-intragastric-balloon-consensus|the Brazilian consensus]] below, whose BMI floor is wider.
+- The [[asge-esge-2024-primary-ebmt|American Society for Gastrointestinal Endoscopy–European Society of Gastrointestinal Endoscopy (ASGE–ESGE) 2024]] guideline agrees: it **suggests IGB plus lifestyle modification over lifestyle modification alone** in adults with obesity (Rec 2, conditional, moderate certainty), and asks for **shared decision-making** because some patients prefer lifestyle change alone.
+- **Eligibility differs by guideline:**
+  - **AGA 2021:** the only criterion is **body mass index (BMI) 30–40 kg/m²**, the range of the US trials (international trials sometimes went outside it).
+  - **ASGE–ESGE 2024 (newer):** **BMI ≥30 kg/m²**, or **27.0–29.9 kg/m² with ≥1 obesity-related comorbidity**, with **no upper limit**; IGB data exist in both the overweight and class III groups (Rec 1, conditional, very low certainty).
+  - Neither gives a contraindication list or age criterion; those come from [[bibc-2018-intragastric-balloon-consensus|the Brazilian consensus]] below.
 
 ### Contraindications and Age (BIBC 2018)
 
@@ -64,7 +68,9 @@ Versus standard of care (SOC)/lifestyle alone (pooled randomized controlled tria
 - Improves hemoglobin A1c (HbA1c), fasting glucose, transaminases (alanine aminotransferase [ALT] −9 U/L, aspartate aminotransferase [AST] −3 U/L), waist circumference (−4.1 cm), and remission of diabetes, hypertension, and dyslipidemia; low-density lipoprotein (LDL) trends down, with no triglyceride benefit.
 - **Metabolic effect is most apparent** in patients with **fasting blood glucose >100 mg/dL**, **HbA1c >6.5%**, or **BMI >40 kg/m²** — note the last is above the BMI range US trials enrolled.
 
-**Concomitant lifestyle modification** is strongly recommended (Rec 2, strong, moderate certainty): moderate- to high-intensity diet (e.g. very-low-calorie ketogenic) augments and sustains weight loss.
+- **ASGE–ESGE 2024 corroborates** from the same 7 RCTs: **10.7% vs 3.4% total weight loss at removal** (MD 6.9%) and **7.9% vs 3.3% at 12 mo** (MD 4.4%). Tell patients to **expect some regain within 6 months of removal**: both mechanisms (≥400 mL of space occupation and slower gastric emptying) need the balloon in place.
+
+**Concomitant lifestyle modification** is strongly recommended (AGA Rec 2, strong, moderate certainty): moderate- to high-intensity diet (e.g. very-low-calorie ketogenic) augments and sustains weight loss.
 
 ## Device Types
 
@@ -85,13 +91,15 @@ Per-device detail ([[aga-2017-endoscopic-bariatric-therapies|AGA 2017]], ungrade
 
 ## Periprocedural Management
 
-| Element | AGA 2021 position | Strength / certainty | Operative detail |
+| Element | Position | Strength / certainty | Operative detail |
 |---|---|---|---|
-| [[proton-pump-inhibitors\|Proton pump inhibitor (PPI)]] prophylaxis | **Recommended** during IGB therapy | **Strong** / moderate | **No agent, dose, frequency, or duration is specified** — the only instruction is to use the lowest dose, frequency, and duration |
-| Antiemesis | Suggested: intraoperative anesthetic regimen with the lowest nausea incidence + perioperative antiemetics, then a **scheduled antiemetic regimen for 2 weeks** after placement | Conditional / low | Evidence is insufficient to name an agent or regimen — choose by institutional policy, clinical context, and availability |
+| [[proton-pump-inhibitors\|Proton pump inhibitor (PPI)]] prophylaxis | AGA 2021: **recommended** during IGB therapy · ASGE–ESGE 2024: **suggested while the IGB is in place** | AGA: **strong** / moderate · ASGE–ESGE: conditional / very low | **No agent, dose, frequency, or duration is specified** — AGA says to use the lowest dose, frequency, and duration. All 15 ASGE–ESGE experts give a PPI for the whole dwell |
+| Antiemesis | AGA 2021: intraoperative anesthetic regimen with the lowest nausea incidence + perioperative antiemetics, then a **scheduled antiemetic regimen for 2 weeks** after placement · ASGE–ESGE 2024 Rec 3: antiemetics periprocedurally | AGA: conditional / low · ASGE–ESGE: conditional / very low | Neither names an agent. ASGE–ESGE expert survey: before placement ondansetron (93%), aprepitant (73%), dexamethasone (60%), scopolamine patch (60%); at discharge ondansetron (86%), scopolamine patch (64%), aprepitant (36%), lorazepam (36%). Nausea/vomiting 31.6% and emergency visits 7.7% within 72 h |
+| Pain medication | ASGE–ESGE 2024 Rec 4: suggested periprocedurally | Conditional / very low | No regimen specified. Survey: acetaminophen (67%), hyoscyamine (58%), opioids (42%) — **opioids sparingly** (~10% of opioid-naive bariatric surgical patients become addicted after a periprocedural dose) |
 | Nutritional screening | Suggested **against** perioperative laboratory screening for nutritional deficiencies | Conditional / low | Not absolute — the panel still advises **clinical judgment on an individual basis** about whether to screen |
 | Supplementation | Suggested: **daily 1–2 adult-dose multivitamins** after placement | Conditional / very low | No formulation and no micronutrient targets given |
 
+- **PPI strength differs:** both guidelines say to give a PPI; AGA 2021 makes it strong, ASGE–ESGE 2024 conditional (no comparative study). The direction is the same, so practice does not change.
 - **Why the PPI:** gastric mucosa can erode and bleed during and after placement. No RCT has directly tested PPI use in IGB patients — the strong recommendation rests on indirect evidence (PPIs reduce rebleeding in high-risk [[upper-gi-bleeding|upper gastrointestinal (GI) bleeding]] stigmata; across 4 RCTs, IGB patients given a PPI had fewer device-related and non-procedure-related serious adverse events). Balance against PPI-associated risks — enteric infection including [[clostridioides-difficile|*Clostridium difficile*]], community-acquired pneumonia, bone fracture, kidney disease, micronutrient deficiency.
 **Adaptation-period prescription ([[bibc-2018-intragastric-balloon-consensus|BIBC 2018]]):** medication for **3–5 days** after implant (93.8%) — **ondansetron** (85.2%), **hyoscine/scopolamine** (88.9%), **dexamethasone** (70.4%), **dimenhydrinate** (82.8%), **analgesic** (92.6%) and a **[[proton-pump-inhibitors\|proton pump inhibitor (PPI)]]** (96.3%), the PPI **continued throughout the entire treatment** (87.5%). **Not recommended:** metoclopramide (70.4%, increases motility and may worsen symptoms), anti-inflammatory drugs (96.3%, gastric injury), anxiolytics/antidepressants (78.6%). Physical activity may resume after the adaptation period (87.1%).
 
@@ -149,13 +157,14 @@ AGA suggests subsequent weight-loss/maintenance interventions — **dietary inte
 
 ## See Also
 
-[[obesity]], [[semaglutide]], [[proton-pump-inhibitors]], [[bariatric-surgery]], [[upper-gi-bleeding]], [[acute-pancreatitis]], [[clostridioides-difficile]], [[upper-endoscopy]], [[gerd]], [[nausea-and-vomiting]], [[glp-1-receptor-agonists]], [[gastric-outlet-obstruction]]
+[[obesity]], [[endoscopic-bariatric-therapies]], [[endoscopic-sleeve-gastroplasty]], [[semaglutide]], [[proton-pump-inhibitors]], [[bariatric-surgery]], [[upper-gi-bleeding]], [[acute-pancreatitis]], [[clostridioides-difficile]], [[upper-endoscopy]], [[gerd]], [[nausea-and-vomiting]], [[glp-1-receptor-agonists]], [[gastric-outlet-obstruction]]
 
 ---
 
 ## Sources
 
 1. [[aga-2021-intragastric-balloons|AGA Clinical Practice Guidelines on Intragastric Balloons in the Management of Obesity (2021)]]
-2. [[aga-2022-obesity-pharm|AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)]]
-3. [[aga-2017-endoscopic-bariatric-therapies|AGA Clinical Practice Update: Expert Review on Endoscopic Bariatric Therapies (2017)]]
-4. [[bibc-2018-intragastric-balloon-consensus|Brazilian Intragastric Balloon Consensus Statement (BIBC): Practical Guidelines Based on Experience of Over 40,000 Cases (2018)]]
+2. [[asge-esge-2024-primary-ebmt|ASGE–ESGE Guideline on Primary Endoscopic Bariatric and Metabolic Therapies for Adults with Obesity (2024)]]
+3. [[aga-2022-obesity-pharm|AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)]]
+4. [[aga-2017-endoscopic-bariatric-therapies|AGA Clinical Practice Update: Expert Review on Endoscopic Bariatric Therapies (2017)]]
+5. [[bibc-2018-intragastric-balloon-consensus|Brazilian Intragastric Balloon Consensus Statement (BIBC): Practical Guidelines Based on Experience of Over 40,000 Cases (2018)]]

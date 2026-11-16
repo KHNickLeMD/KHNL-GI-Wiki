@@ -77,9 +77,10 @@ Expert consensus that standardizes the steps of **endoscopic sleeve gastroplasty
 - **Figure 1** — endoscopic images of the key steps: (A) a thick fold, suggesting capture of tissue next to the stomach; (B) a thin fold, suggesting adequate capture without external structures; (C) an inadequate partial-thickness stitch; (D) an adequate full-thickness stitch; (E) suture 1 as a single-row running pattern; (F) suture 2 as an interrupted reinforcement suture; (G) avoiding fundic tissue. The licence line reads "Copyright © 2025 by the American Society for Gastrointestinal Endoscopy". No Creative Commons licence, so the figure is linked, not embedded.
 
 ## Relevance to Wiki
-- [[endoscopic-bariatric-therapies]] — the ESG technique section now carries the standardized step sequence and suture-pattern rules. Training and Credentialing carries the 6 cognitive skills. Patient Selection carries the example contraindications. The Overview carries the 2022 FDA de novo authorization of OverStitch.
+- [[endoscopic-sleeve-gastroplasty]] — the Technique section carries the standardized step sequence and suture-pattern rules; Training carries the 6 cognitive skills; Indications carries the example contraindications.
+- [[endoscopic-bariatric-therapies]] — the 2022 FDA de novo authorization of OverStitch.
 
 ## Contradictions / Open Questions
 - **ESG suture extent.** [[aga-2017-endoscopic-bariatric-therapies|AGA 2017]] describes sutures running from the prepyloric antrum to the gastroesophageal junction. The 2025 consensus starts suture 1 at the **incisura** and says to **avoid the fundus**. This newer consensus is what the wiki follows.
 - **No outcome data.** The paper sets practice standards and reports no new outcomes. The TWL figures it quotes (~18% at 1 year; 13.6% in MERIT) come from the studies it cites, not from this panel.
-- The ASGE–ESGE 2024 primary endoscopic bariatric and metabolic therapies guideline (its reference 1) is the graded guideline on ESG efficacy and indications.
+- The [[asge-esge-2024-primary-ebmt|ASGE–ESGE 2024 primary endoscopic bariatric and metabolic therapies guideline]] (its reference 1) is the graded guideline on ESG efficacy and indications.
